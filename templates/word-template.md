@@ -1,5 +1,5 @@
 ---
-characters: <% tR = await tp.system.prompt("Constituent characters (comma-separated, e.g. 羅, 馬)") %>
+characters: <% tR = await tp.system.prompt("Constituent characters comma-sep") %>
 mandarin: <% tR = await tp.system.prompt("Mandarin pronunciation (pinyin)") %>
 cantonese: <% tR = await tp.system.prompt("Cantonese pronunciation (jyutping)") %>
 korean: <% tR = await tp.system.prompt("Korean reading (Hangul)") %>
