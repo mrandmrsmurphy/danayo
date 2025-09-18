@@ -1,0 +1,6 @@
+.DS_Store
+/site/
+.venv/
+__pycache__/
+.obsidian/
+*.swp
