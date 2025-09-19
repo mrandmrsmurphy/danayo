@@ -1,6 +1,6 @@
 <ruby>[[一]]<rt>읻</rt></ruby>
 <ruby>[[七]]<rt>칟</rt></ruby>,
-<ruby>[[十]]<rt>십</rt></ruby>*,
+<ruby>[[十]]<rt>십</rt></ruby>^,
 <ruby>[[九]]<rt>규</rt></ruby>,
 <ruby>[[入]]<rt>닙</rt></ruby>,
 <ruby>[[刀]]<rt>탓</rt></ruby>,
@@ -15,8 +15,8 @@
 <ruby>[[大]]<rt>대</rt></ruby>,
 <ruby>[[三]]<rt>삼</rt></ruby>,
 <ruby>[[才]]<rt>재</rt></ruby>,
-<ruby>[[千]]<rt>천</rt></ruby>*,
-<ruby>[[万]]<rt>몬</rt></ruby>*,
+<ruby>[[千]]<rt>천</rt></ruby>^,
+<ruby>[[万]]<rt>몬</rt></ruby>^,
 <ruby>[[山]]<rt>산</rt></ruby>,
 <ruby>[[上]]<rt>샹</rt></ruby>,
 <ruby>[[于]]<rt>우</rt></ruby>,
