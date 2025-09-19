@@ -9,8 +9,7 @@ japanese: "<% tp.system.prompt('Japanese reading(s)') %>"
 vietnamese: "<% tp.system.prompt('Vietnamese reading(s)') %>"
 pos: "<% tp.system.prompt('Part of speech') %>"
 品詞: "<% tp.system.prompt('品詞') %>"
-meanings: "<% tp.system.prompt('English meanings (comma-separated)') %>"
-variants: "<% tp.system.prompt('Variant characters') %>"
+english: "<% tp.system.prompt('English meanings (comma-separated)') %>"
 swadesh: "<% tp.system.prompt('Swadesh') %>"
 ---
 # Examples

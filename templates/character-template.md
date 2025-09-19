@@ -1,14 +1,9 @@
 ---
-aliases: <%* 
-  const s = await tp.system.prompt('Aliases (comma-separated; blank if none)');
-  const arr = s ? s.split(',').map(x=>x.trim()).filter(Boolean) : [];
-  tR = JSON.stringify(arr);            // -> ["妈","𡚹"]
-%><% tR %>
 mandarin: "<% tp.system.prompt('Mandarin pronunciation') %>"
 cantonese: "<% tp.system.prompt('Cantonese pronunciation') %>"
-korean_sound: "<% tp.system.prompt('Korean sound Hangul') %>"
-korean_meaning: "<% tp.system.prompt('Korean meaning') %>"
-japanese_on: "<% tp.system.prompt('Japanese On readings comma-separated') %>"
+korean: "<% tp.system.prompt('Korean sound Hangul') %>"
+korean_native: "<% tp.system.prompt('Korean meaning') %>"
+japanese: "<% tp.system.prompt('Japanese On readings comma-separated') %>"
 japanese_nanori: "<% tp.system.prompt('Japanese Nanori comma-separated') %>"
 vietnamese: "<% tp.system.prompt('Vietnamese readings comma-separated') %>"
 middle_chinese_initial: "<% tp.system.prompt('Middle Chinese initial') %>"
@@ -18,9 +13,9 @@ radical: "<% tp.system.prompt('Radical') %>"
 skip_number: "<% tp.system.prompt('SKIP number #-#-#') %>"
 grade_level: "<% tp.system.prompt('Danayo grade 1–6, 先進字, 名字') %>"
 pos: "<% tp.system.prompt('Part of speech') %>"
-english_meanings: "<% tp.system.prompt('English meanings comma-separated') %>"
-romanization: "<% tp.system.prompt('羅馬字 spelling') %>"
-hangul_spelling: "<% tp.system.prompt('Hangul spelling') %>"
+english: "<% tp.system.prompt('English meanings comma-separated') %>"
+羅馬字: "<% tp.system.prompt('羅馬字 spelling') %>"
+韓文: "<% tp.system.prompt('Hangul spelling') %>"
 joyo_level: "<% tp.system.prompt('常用漢字 level') %>"
 hsk_level: "<% tp.system.prompt('HSK level') %>"
 hanmun_edu_level: "<% tp.system.prompt('한문교육용기초한자 level') %>"
