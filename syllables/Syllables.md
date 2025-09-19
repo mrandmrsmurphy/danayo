@@ -1,3 +1,22 @@
+Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
+
+| ㅂ | ㄷ | ㅈ | ㄱ |
+|---|---|---|---|
+| ㅍ | ㅌ | ㅊ | ㅋ |
+| ㅁ | ㄴ |   | ㅇ |
+|   | ㄹ | ㅅ | ㅎ |
+
+- w on-glide may not have a w off-glide, except 왓
+- w on-glide may not go with an initial labial (ㅂ, ㅍ, or  ㅁ)
+- No E-vowel may have a w off-glide
+- y on-glide may not have a y off-glide, except for velars (ㄱ, ㅋ, ㅇ, ㅎ) + a/e and 셰
+- ㄷ and ㅌ may not have a y or w on-glide, except for the 돠-series
+- ㅈ and ㅊ may not have a y or w on-glide, except for the 좌 and 줘-series
+- ㄴ and ㄹ may not have a w on-glide
+
+
+Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this chart: [[윙]] and [[윅]].
+
 <div class="tbl-scroll">
 <table class="syllables"><thead>
   <tr>
@@ -1518,3 +1537,5 @@
   </tr>
 </tbody></table>
 </div>
+
+In addition, there are all the "filler" vowel-syllables, which can only occur with an onset: 브, 드, 즈, 그, 프, 트, 츠, 크, 므, 느, 으, 르, 스, and 흐.
