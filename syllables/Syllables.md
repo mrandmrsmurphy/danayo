@@ -1,15 +1,7 @@
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
+<div class="tbl-scroll">
+<table class="syllables"><thead>
   <tr>
-    <th class="tg-0pky"></th>
+    <th></th>
     <th class="tg-c3ow" colspan="9">labial</th>
     <th class="tg-c3ow" rowspan="14"></th>
     <th class="tg-c3ow" colspan="9">dental</th>
@@ -20,7 +12,7 @@
     <th class="tg-c3ow"></th>
   </tr>
   <tr>
-    <th class="tg-0pky">coda</th>
+    <th>coda</th>
     <th class="tg-c3ow">ø</th>
     <th class="tg-c3ow">i</th>
     <th class="tg-c3ow">u</th>
@@ -61,7 +53,7 @@
   </tr>
   <tr>
     <th class="tg-c3ow" rowspan="4">ㅏ</th>
-    <th class="tg-0pky">바</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/바" href="syllables/바">바</a></th>
     <th class="tg-0pky">배</th>
     <th class="tg-0pky">밧</th>
     <th class="tg-0pky">밥</th>
@@ -1525,3 +1517,4 @@
     <td class="tg-0pky"></td>
   </tr>
 </tbody></table>
+</div>
