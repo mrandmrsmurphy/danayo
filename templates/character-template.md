@@ -1,5 +1,12 @@
 ---
-variants: "<% tp.system.prompt('Variants comma-separated') %>"
+aliases: [<% (() => {
+  const s = tp.system.prompt('Aliases (comma-separated; leave blank if none)');
+  if (!s) return '';                           // yields aliases: []
+  return s.split(',').map(x => x.trim())
+          .filter(Boolean)
+          .map(x => '"' + x.replace(/"/g, '\\"') + '"')
+          .join(', ');
+})() %>]
 mandarin: "<% tp.system.prompt('Mandarin pronunciation') %>"
 cantonese: "<% tp.system.prompt('Cantonese pronunciation') %>"
 korean_sound: "<% tp.system.prompt('Korean sound Hangul') %>"
