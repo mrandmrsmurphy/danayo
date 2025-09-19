@@ -15,7 +15,7 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 - ㄴ and ㄹ may not have a w on-glide
 
 
-Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this chart: [[윙]] and [[윅]]. + [[취]] and [[촹]]
+Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this chart: [[윙]] and [[윅]]. + [[취]] and [[촹]] and [[퇀]]
 
 <div class="tbl-scroll">
 <table class="syllables"><thead>
