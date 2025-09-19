@@ -1278,7 +1278,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky">돕</td>
     <td class="tg-0pky">돋</td>
     <td class="tg-0pky">독</td>
-    <td class="tg-0pky">돔</td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/돔" href="syllables/돔">돔</a></td>
     <td class="tg-0pky">돈</td>
     <td class="tg-0pky">동</td>
     <td class="tg-0pky">조</td>
