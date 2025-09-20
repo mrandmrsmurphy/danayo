@@ -22,11 +22,12 @@
 - <ruby>[[月]]<rt>웓</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>웓욧읻</rt></ruby>
 - <ruby>[[火]]<rt>화</rt></ruby> : 'fire', used in the word 'Tuesday'
 - <ruby>[[水]]<rt>수</rt></ruby> : 'water', used in the word 'Wednesday'
-<ruby>[[土]]<rt>토</rt></ruby>,
-<ruby>[[冬]]<rt>통</rt></ruby>,
+- <ruby>[[木]]<rt>목</rt></ruby> : 'wood', used in the word 'Thursday'
+- <ruby>[[金]]<rt>김</rt></ruby> : 'metal', used in the word 'Friday'
+- <ruby>[[土]]<rt>토</rt></ruby> : 'earth', used in the word 'Saturday'
+- <ruby>[[冬]]<rt>통</rt></ruby>,
 <ruby>[[春]]<rt>춘</rt></ruby>,
 <ruby>[[今]]<rt>김</rt></ruby>,
-<ruby>[[金]]<rt>김</rt></ruby>,
 
 ## Grammar
 <ruby>[[之]]<rt>티</rt></ruby>,
@@ -72,7 +73,6 @@
 <ruby>[[午]]<rt>오</rt></ruby>,
 <ruby>[[文]]<rt>문</rt></ruby>,
 <ruby>[[天]]<rt>턴</rt></ruby>,
-<ruby>[[木]]<rt>목</rt></ruby>,
 <ruby>[[元]]<rt>원</rt></ruby>,
 <ruby>[[少]]<rt>솟</rt></ruby>,
 <ruby>[[心]]<rt>심</rt></ruby>,
