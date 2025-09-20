@@ -1,27 +1,27 @@
 ## Numbers
-<ruby>[[一]]<rt>읻</rt></ruby>
-<ruby>[[二]]<rt>늬</rt></ruby>,
-<ruby>[[三]]<rt>삼</rt></ruby>,
-<ruby>[[四]]<rt>싀</rt></ruby>,
-<ruby>[[五]]<rt>오</rt></ruby>,
-<ruby>[[六]]<rt>룩</rt></ruby>,
-<ruby>[[七]]<rt>칟</rt></ruby>,
-<ruby>[[八]]<rt>받</rt></ruby>,
-<ruby>[[九]]<rt>규</rt></ruby>,
-<ruby>[[十]]<rt>십</rt></ruby>^,
-<ruby>[[千]]<rt>천</rt></ruby>^,
-<ruby>[[万]]<rt>몬</rt></ruby>^,
-<ruby>[[弟]]<rt>더</rt></ruby>,
-<ruby>[[点]]<rt>덤</rt></ruby>,
-<ruby>[[分]]<rt>분</rt></ruby>,
-<ruby>[[半]]<rt>반</rt></ruby>^,
-<ruby>[[数]]<rt>수</rt></ruby>,
+- <ruby>[[一]]<rt>읻</rt></ruby> : 'one'.  Appears in numerous compounds
+- <ruby>[[二]]<rt>늬</rt></ruby> : 'two'
+- <ruby>[[三]]<rt>삼</rt></ruby> : 'three'
+- <ruby>[[四]]<rt>싀</rt></ruby> : 'four'.  As in most Far East Asian language, this is a homophone with 'death'
+- <ruby>[[五]]<rt>오</rt></ruby> : 'five'
+- <ruby>[[六]]<rt>룩</rt></ruby> : 'six'
+- <ruby>[[七]]<rt>칟</rt></ruby> : 'seven'
+- <ruby>[[八]]<rt>받</rt></ruby> : 'eight'
+- <ruby>[[九]]<rt>규</rt></ruby> : 'nine' 
+- <ruby>[[十]]<rt>십</rt></ruby> : 'ten', but not written/said alone: <ruby>一十<rt>읻십</rt></ruby> 
+- <ruby>[[千]]<rt>천</rt></ruby> : 'thousand', but not written/said alone: <ruby>一千<rt>읻천</rt></ruby> 
+- <ruby>[[万]]<rt>몬</rt></ruby> : 'ten-thousand', but not written/said alone: <ruby>一万<rt>읻몬</rt></ruby> 
+- <ruby>[[弟]]<rt>더</rt></ruby> : '-th', the ordinal number maker
+- <ruby>[[点]]<rt>덤</rt></ruby> : 'dot', the name of the decimal point
+- <ruby>[[分]]<rt>분</rt></ruby> : 'divide', used in naming fractions denominator
+- <ruby>[[半]]<rt>반</rt></ruby> : 'half', but not written/said alone: <ruby>一半<rt>읻반</rt></ruby> 
+<ruby>[[数]]<rt>수</rt></ruby> : 'number'
 
 ## Time
-<ruby>[[日]]<rt>닏</rt></ruby>,
-<ruby>[[月]]<rt>웓</rt></ruby>,
-<ruby>[[火]]<rt>화</rt></ruby>,
-<ruby>[[水]]<rt>수</rt></ruby>,
+- <ruby>[[日]]<rt>닏</rt></ruby> : 'sun/day', used in the word 'Sunday' : <ruby>日曜日<rt>읻욧읻</rt></ruby>
+- <ruby>[[月]]<rt>웓</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>웓욧읻</rt></ruby>
+- <ruby>[[火]]<rt>화</rt></ruby> : 'fire', used in the word 'Tuesday'
+- <ruby>[[水]]<rt>수</rt></ruby> : 'water', used in the word 'Wednesday'
 <ruby>[[土]]<rt>토</rt></ruby>,
 <ruby>[[冬]]<rt>통</rt></ruby>,
 <ruby>[[春]]<rt>춘</rt></ruby>,
