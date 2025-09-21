@@ -1,0 +1,6 @@
+| Sound `VIEW[{韓文}]` | Word `VIEW[{stand_in}]` | Grapheme `VIEW[{graphemic_classification}]` | English `VIEW[{english}]`|
+|-------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|
+| ![[Flag_of_chinese-speaking_countries_and_territories.svg]] | ![[Flag_of_Japan.svg]] | ![[Unification_flag_of_Korea.svg]] | ![[Flag_of_Vietnam.svg]] |
+| **Mandarin:** `VIEW[{mandarin}]`    | **On:** `VIEW[{japanese}]`            | **음:** `VIEW[{korean}]`               | `VIEW[{vietnamese}]`                |
+| **Cantonese:** `VIEW[{cantonese}]`  | **Native:** `VIEW[{japanese_nanori}]` | **뜻:** `VIEW[{korean_native}]`        |                            |
+| **HSK:** `VIEW[{hsk_level}]`        | **Jōyō:** `VIEW[{joyo_level}]`        | **Level:** `VIEW[{hanmun_edu_level}]`  | **MC:** `VIEW[{middle_chinese_initial}]` + `VIEW[{middle_chinese_final}]` |
