@@ -1,7 +1,8 @@
+> [[SKIP]] : [[SKIP-4]] : [[SKIP-4-0-4]] : [[SKIP-4-1]]
 - <ruby>[[一]]<rt>읻</rt></ruby>
-- 丶 --> [[Radical 003]], "dot"
-* 丿 --> [[Radical 004]], "slash"
-* 亅 --> [[Radical 006]], "hook" 
+- 丶 is an alias of [[Radical 003]], "dot"
+* 丿 is an alias of [[Radical 004]], "slash"
+* 亅 is an alias of [[Radical 006]], "hook" 
 
 # Data search
 ```dataview
