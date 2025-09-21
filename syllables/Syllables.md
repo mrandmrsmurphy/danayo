@@ -299,7 +299,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <th class="tg-0pky">샥</th>
     <th class="tg-0pky">샴</th>
     <th class="tg-0pky">샨</th>
-    <th class="tg-0pky">샹</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/샹" href="syllables/샹">샹</a></th>
     <th class="tg-0pky">햐</th>
     <th class="tg-0pky">햬</th>
     <th class="tg-0pky">햣</th>
