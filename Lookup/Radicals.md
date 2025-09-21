@@ -287,4 +287,4 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 213]] 龜 - There is only one real character in here.
 
 ## 17 strokes
-- [[Radical 214]] 龠 - There is only one real character in here.
+- [[Radical 214]] 龠 - There are no real characters here.

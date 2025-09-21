@@ -1,5 +1,6 @@
-Radical 1 is 一, the number one, which is [[SKIP-4-1-4]].
+> [[Radicals]]
 
+Radical 1 is 一, the number one.
 # Strokes 
 ## +0 Stroke 
 * <ruby>[[一]]<rt>읻</rt></ruby>
