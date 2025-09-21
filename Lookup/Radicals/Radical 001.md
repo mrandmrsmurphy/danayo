@@ -37,7 +37,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[世]]<rt>서</rt></ruby>
 * <ruby>[[丘]]<rt>큐</rt></ruby>
 * <ruby>[[丙]]<rt>병</rt></ruby> 
-* <ruby>丕<rt>피</rt></ruby>
+* <ruby>[[丕]]<rt>피</rt></ruby>
 * 业 --> ancient variant of 業, 丘, and 北
 * 丛 --> ancient variant of 叢
 * 东 --> ancient variant of 東
@@ -45,7 +45,7 @@ Radical 1 is 一, the number one.
 * 㐀 --> ancient variant of 丘 
 
 ## +5 Strokes
-* <ruby>[[丞]]<rt>숭</rt></ruby>
+* <ruby>[[丞]]<rt>싱</rt></ruby>
 * <ruby>[[両]]<rt>량</rt></ruby>
 * 㐂 --> ancient variant of 喜
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
@@ -71,7 +71,7 @@ Radical 1 is 一, the number one.
 
 # Data search
 ```dataview
-TABLE file.link AS "Character", radical AS "Radical"
+TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
 FROM "characters"
 WHERE radical = "一"
 SORT file.name ASC
