@@ -4,4 +4,4 @@
 | **Mandarin:** `VIEW[{mandarin}]`    | **On:** `VIEW[{japanese}]`            | **음:** `VIEW[{korean}]`               | `VIEW[{vietnamese}]`                |
 | **Cantonese:** `VIEW[{cantonese}]`  | **Native:** `VIEW[{japanese_nanori}]` | **뜻:** `VIEW[{korean_native}]`        |                            |
 | **HSK:** `VIEW[{hsk_level}]`        | **Jōyō:** `VIEW[{joyo_level}]`        | **Level:** `VIEW[{hanmun_edu_level}]`  | **MC:** `VIEW[{middle_chinese_initial}]` + `VIEW[{middle_chinese_final}]` |
-| **Radical:** `VIEW[{radical}]`      | **SKIP:** `VIEW[{skip_number}]`       | **Stroke:** `VIEW[{stroke_count}]`    | **Level:** `VIEW[{grade_level}]`
+| **Radical:** `VIEW[{radical}]`      | `VIEW[concat("SKIP-", {skip_number})][math(hidden):memory^_skipNote]` `VIEW[{memory^_skipNote}][link]` | **Stroke:** `VIEW[{stroke_count}]`    | **Level:** `VIEW[{grade_level}]`
