@@ -1,0 +1,23 @@
+> [[SKIP]] : [[SKIP-4]] : [[SKIP-4-3]] : [[SKIP-4-0-1]]
+- 尸, i.e. Radical 044
+- [[夕]]	
+- <ruby>[[于]]<rt>우</rt></ruby>
+- [[兀]]
+- 刄, a.k.a. 刃 (SKIP-3-3-1)
+- [[弓]]
+- [[己]]	
+- <ruby>[[口]]<rt>콧</rt></ruby>
+- [[工]]
+- <ruby>[[下]]<rt>하</rt></ruby>
+- 廴, i.e. Radical 054
+- [[叉]]	
+- <ruby>[[已]]<rt>이</rt></ruby>
+- <ruby>[[子]]<rt>지</rt></ruby>
+- [[巳]]
+- 孑, a.k.a 子, i.e. Radical 039
+- 夊, i.e. Radical 035
+- 夂, i.e. Radical 034
+- 囗, i.e. Radical 031
+- <ruby>[[干]]<rt>간</rt></ruby>
+- [[久]]
+- [[及]]
