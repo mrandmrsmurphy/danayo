@@ -3,11 +3,11 @@
 Radical 1 is 一, the number one.
 # Strokes 
 ## +0 Stroke 
-* <ruby>[[一]]<rt>읻</rt></ruby>
+* <ruby>[[一 (char)]]<rt>읻</rt></ruby>
 
 ## +1 Stroke
 * <ruby>[[丁]]<rt>덩</rt></ruby>
-* <ruby>[[七]]<rt>칟</rt></ruby> 
+* <ruby>[[七 (char)]]<rt>칟</rt></ruby> 
 * 丂 --> ancient variant of <ruby>于<rt>우</rt></ruby> and of <ruby>考<rt>캇</rt></ruby>
 * 丄 --> ancient variant of <ruby>上<rt>샹</rt></ruby>
 * 丅 --> ancient variant of <ruby>下<rt>하</rt></ruby>
@@ -24,7 +24,7 @@ Radical 1 is 一, the number one.
 * 卄 --> ancient variant of 廿
 
 ## +3 Strokes
-* <ruby>[[不]]<rt>볻</rt></ruby>
+* <ruby>[[不 (char)]]<rt>볻</rt></ruby>
 * <ruby>[[与]]<rt>요</rt></ruby>
 * <ruby>[[丐]]<rt>개</rt></ruby>
 * 丏 --> ancient variant of 丐

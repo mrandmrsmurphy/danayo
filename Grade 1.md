@@ -1,13 +1,13 @@
 ## Numbers
-- <ruby>[[一]]<rt>읻</rt></ruby> : 'one'.  Appears in numerous compounds
-- <ruby>[[二]]<rt>늬</rt></ruby> : 'two'
+- <ruby>[[一 (char)]]<rt>읻</rt></ruby> : 'one'.  Appears in numerous compounds
+- <ruby>[[二 (char)]]<rt>늬</rt></ruby> : 'two'
 - <ruby>[[三]]<rt>삼</rt></ruby> : 'three'
 - <ruby>[[四]]<rt>싀</rt></ruby> : 'four'.  As in most Far East Asian language, this is a homophone with 'death'
 - <ruby>[[五]]<rt>오</rt></ruby> : 'five'
 - <ruby>[[六]]<rt>룩</rt></ruby> : 'six'
-- <ruby>[[七]]<rt>칟</rt></ruby> : 'seven'
+- <ruby>[[七 (char)]]<rt>칟</rt></ruby> : 'seven'
 - <ruby>[[八]]<rt>받</rt></ruby> : 'eight'
-- <ruby>[[九]]<rt>규</rt></ruby> : 'nine' 
+- <ruby>[[九 (char)]]<rt>규</rt></ruby> : 'nine' 
 - <ruby>[[十]]<rt>십</rt></ruby> : 'ten', but not written/said alone: <ruby>一十<rt>읻십</rt></ruby> 
 - <ruby>[[千]]<rt>천</rt></ruby> : 'thousand', but not written/said alone: <ruby>一千<rt>읻천</rt></ruby> 
 - <ruby>[[万]]<rt>몬</rt></ruby> : 'ten-thousand', but not written/said alone: <ruby>一万<rt>읻몬</rt></ruby> 
@@ -40,8 +40,8 @@
 <ruby>[[毎]]<rt>뫼</rt></ruby>,
 
 ## People
-<ruby>[[人]]<rt>닌</rt></ruby>,
-<ruby>[[入]]<rt>닙</rt></ruby>,
+<ruby>[[人 (char)]]<rt>닌</rt></ruby>,
+<ruby>[[入 (char)]]<rt>닙</rt></ruby>,
 <ruby>[[子]]<rt>지</rt></ruby>,
 <ruby>[[口]]<rt>콧</rt></ruby>,
 <ruby>[[男]]<rt>남</rt></ruby>,
@@ -59,11 +59,11 @@
 <ruby>[[羊]]<rt>양</rt></ruby>,
 
 <ruby>[[刀]]<rt>탓</rt></ruby>,
-<ruby>[[力]]<rt>릭</rt></ruby>,
+<ruby>[[力 (char)]]<rt>릭</rt></ruby>,
 <ruby>[[大]]<rt>대</rt></ruby>,
 <ruby>[[才]]<rt>재</rt></ruby>,
 <ruby>[[上]]<rt>샹</rt></ruby>,
-<ruby>[[小]]<rt>소</rt></ruby>,
+<ruby>[[小 (char)]]<rt>소</rt></ruby>,
 <ruby>[[下]]<rt>하</rt></ruby>,
 <ruby>[[太]]<rt>태</rt></ruby>,
 <ruby>[[内]]<rt>뇌</rt></ruby>,
@@ -72,7 +72,7 @@
 <ruby>[[手]]<rt>슈</rt></ruby>,
 <ruby>[[午]]<rt>오</rt></ruby>,
 <ruby>[[文]]<rt>문</rt></ruby>,
-<ruby>[[天]]<rt>턴</rt></ruby>,
+<ruby>[[天 (char)]]<rt>턴</rt></ruby>,
 <ruby>[[元]]<rt>원</rt></ruby>,
 <ruby>[[少]]<rt>솟</rt></ruby>,
 <ruby>[[心]]<rt>심</rt></ruby>,
