@@ -232,7 +232,7 @@
 <ruby>[[等]]<rt>둥</rt></ruby>,
 <ruby>[[場]]<rt>장</rt></ruby>,
 <ruby>[[晴]]<rt>칭</rt></ruby>,
-<ruby>[[道]]<rt>닷</rt></ruby>,
+<ruby>[[道 (char)]]<rt>닷</rt></ruby>,
 <ruby>[[間]]<rt>간</rt></ruby>,
 <ruby>[[買]]<rt>매</rt></ruby>,
 <ruby>[[着]]<rt>작</rt></ruby>,

@@ -1,5 +1,4 @@
 ---
-title: 道
 characters: [道]
 韓文: 닷
 羅馬字: dau
@@ -8,10 +7,11 @@ pos: 実詞
 mandarin: dào
 cantonese: dou6
 japanese: どう
-korean: 도(길)
+korean: 도
+korean_native: 길
 vietnamese: đạo
 hsk_level: 
 swadesh: 
 aliases: [辺, 噵, 衜, 衟, 𡬹, 𨔞, 𨕐, 𨕥, 𨖁, 𨗓]
 ---
-Stand-in for [[TRUE]]
+This page is about the character.  It is also a word, but we link to the page [[道]] for that.
