@@ -1,5 +1,5 @@
 ## 1
-- [[発]] [[考慮]] [[之]] [[憲法]][[事]][[与]] [[追求]] [[善良]][[事]] [[足]]
+- [[発]][[考慮]][[之]][[憲法]][[事]][[与]] [[追求]][[善良]][[事]] [[充分]]<ruby>[[小]]<rt>소</rt></ruby>[[令聞]] [[乃]][[不]][[充分]][[動]][[大衆]][[事]]
 - 發慮憲，求善良，足以謏聞，不足以動眾；就賢體遠，足以動眾，未足以化民。君子如欲化民成俗，其必由學乎！
 - When a ruler is concerned that his measures should be in accordance with law, and seeks for the (assistance of the) good and upright, this is sufficient to secure him a considerable reputation, but not to move the multitudes. When he cultivates the society of the worthy, and tries to embody the views of those who are remote (from the court), this is sufficient to move the multitudes, but not to transform the people. If he wish to transform the people and to perfect their manners and customs, must he not start from the lessons of the school?
 ## 2
