@@ -51,9 +51,9 @@
 ## Buddhism
 
 ## Daoism
-- Tao Te Ching
-- Zhuangzi
-- Liezi
+- 道德經
+- 莊子
+- 列子
 - Huainanzi
 - Taipingjing
 - Xiang'er
