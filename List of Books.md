@@ -54,9 +54,9 @@
 - 道德經
 - 莊子
 - 列子
-- Huainanzi
-- Taipingjing
-- Xiang'er
+- 淮南子
+- 太平經
+- 想尔
 - Sanhuangjing
 - Huahujing
 - Qingjing Jing
