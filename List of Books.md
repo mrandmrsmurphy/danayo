@@ -1,3 +1,4 @@
+# 儒家經典
 ## 古典小說
 - 三國演義
 - 水滸傳
@@ -17,22 +18,15 @@
 - 禮記
 - 易經
 - 春秋
-## 十三經
-- 易經
-- 書經
-- 詩經
+## 十三經 (Beyond 四書五經)
 - 三禮
     - 周禮
     - 儀禮
     - 禮記
 - The Three Commentaries on the Spring and Autumn Annals
-    -左傳)
+    - 左傳
     - 公羊傳
     - 穀梁傳
-- 論語
-- 孝經
-- 爾雅
-- 孟子
 
 ## Confucianism
 - 三字經
@@ -57,13 +51,18 @@
 - 淮南子
 - 太平經
 - 想尔
-- Sanhuangjing
-- Huahujing
-- Qingjing Jing
-- Baopuzi
-- Daozang
+- 三皇經
+- 化胡經
+- 清靜經
+- 抱朴子
+- 道藏
 
-## Legalism
+## 法家 Legalism
+- 韓非子
+- 商君書
+- 申不害
+- 慎到
+- 管子
 
 ## Others
 - 周禮
