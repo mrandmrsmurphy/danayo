@@ -5,6 +5,21 @@
 3. 利未記
 4. 民数記
 5. 申命記
+## Prophets
+6. 救者記
 
 # Names
-長族, 聽族, 獅族, 判族, 捷族, 武族, 福族, 明族, 港族, 右族, 附族, plus Joseph's 忘族/豐族.
+- 長族 Eldest Tribe = Reuben
+- 聽族 Listening Tribe = Simeon
+- 獅族 Lion Tribe = Judah
+- 判族 Judging Tribe = Dan
+- 捷族 Swift Tribe = Naphtali
+- 武族 Warring Tribe = Gad
+- 福族 Fortunate Tribe = Asher
+- 明族 Bright Tribe = Issachar
+- 港族 Harbor Tribe = Zebulun
+- 右族 Right Tribe = Benjamin
+- 附族 Attached Tribe = Levi
+- 雙族 Double Tribe = Joseph
+	- 忘族 Forget Tribe = Manasseh (半族)
+	- 豐族 Abundant Tribe = Ephraim (半族)
