@@ -32,7 +32,23 @@ graphemic_classification: '指事'
 stand_in: 'TRUE'
 aliases:
 ---
-
-# Notes
+## Words
+- [[八角]]
+- [[八百]]
+- [[八月]]
+- [[八卦]]
+- [[猪八戒]]
+- [[八十]]
+- [[第八]]
+- [[八日]]
+- [[八千]]
+### Data check
+```dataview
+table 韓文, english
+from "words"
+where contains(characters, this.file.name)
+sort file.name
+```
+## Notes
 ### Links
 ![[nav/Numerals]]

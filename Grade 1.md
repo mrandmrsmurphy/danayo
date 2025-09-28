@@ -6,7 +6,7 @@
 - <ruby>[[五]]<rt>오</rt></ruby> : 'five'
 - <ruby>[[六]]<rt>룩</rt></ruby> : 'six'
 - <ruby>[[七 (char)]]<rt>칟</rt></ruby> : 'seven'
-- <ruby>[[八]]<rt>받</rt></ruby> : 'eight'
+- <ruby>[[八 (char)]]<rt>받</rt></ruby> : 'eight'
 - <ruby>[[九 (char)]]<rt>규</rt></ruby> : 'nine' 
 - <ruby>[[十]]<rt>십</rt></ruby> : 'ten', but not written/said alone: <ruby>一十<rt>읻십</rt></ruby> 
 - <ruby>[[千]]<rt>천</rt></ruby> : 'thousand', but not written/said alone: <ruby>一千<rt>읻천</rt></ruby> 
