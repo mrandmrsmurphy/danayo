@@ -18,12 +18,12 @@
     　- 北宋：<ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>七<ruby>年<rt>넌</rt></ruby> <!-- Northern Song 960-1127 //-->
     　- 南宋：<ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>七 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby>九<ruby>年<rt>넌</rt></ruby>    <!-- Southern Song 1127-1279 //-->
 #### <ruby>日本<rt>닏본</rt></ruby>
-- <ruby>大和<rt>대화</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>三第<rt>삼데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>六第<rt>룩데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <!-- Yamato 3rd cent to 6th cent //-->
-- <ruby>飛鳥<rt>피촛</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：[[六第]] <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby>十<ruby>年<rt>넌</rt></ruby> <!-- Asuka 6th cent to 710 //-->
-- [[奈良]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>七百<rt>칟박</rt></ruby>十 <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>四<ruby>年<rt>넌</rt></ruby> <!-- Nara 710 to 794 //-->
-- [[平安]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>七百<rt>칟박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>四 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>八十<rt>받십</rt></ruby>五<ruby>年<rt>넌</rt></ruby> <!-- Heian 794-1185 //-->
+- <ruby>大和<rt>대화</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>三第<rt>삼데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>六第<rt>룩데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> (야마토)
+- <ruby>飛鳥<rt>피촛</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>時<rt>시</rt></ruby>：<ruby>六第<rt>룩데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby><ruby>一十<rt>읻십</rt></ruby><ruby>年<rt>넌</rt></ruby> (아수카)
+- [[奈良]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>七百<rt>칟박</rt></ruby>十 <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>四<ruby>年<rt>넌</rt></ruby> <!-- Nara 710 to 794 //--> (나라)
+- [[平安]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>七百<rt>칟박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>四 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>八十<rt>받십</rt></ruby>五<ruby>年<rt>넌</rt></ruby> <!-- Heian 794-1185 //--> (헤안)
 #### <ruby>韓国<rt>한곡</rt></ruby>
-- [[三国]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby> ([[高句麗]]、[[百済]]、[[新羅]])：<ruby>三百<rt>삼박</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>六百<rt>룩박</rt></ruby><ruby>六十<rt>룩십</rt></ruby>八<ruby>年<rt>넌</rt></ruby>
+- [[三国]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby> ([[高句麗]]、<ruby>百済<rt>박제</rt></ruby>、[[新羅]])：<ruby>三百<rt>삼박</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>六百<rt>룩박</rt></ruby><ruby>六十<rt>룩십</rt></ruby>八<ruby>年<rt>넌</rt></ruby>
 - [[統一新羅]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>六百<rt>룩박</rt></ruby><ruby>六十<rt>룩십</rt></ruby>八 <ruby>至<rt>즤</rt></ruby> <ruby>九百<rt>큐박</rt></ruby><ruby><ruby>三十<rt>삼십</rt></ruby><rt>삼십</rt></ruby>五<ruby>年<rt>넌</rt></ruby>
 - [[高麗]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>九百<rt>큐박</rt></ruby><ruby>十八<rt>십받</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>三百<rt>삼박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>二<ruby>年<rt>넌</rt></ruby>
 ### [[近代]]
