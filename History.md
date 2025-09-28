@@ -18,8 +18,8 @@
     　- 北宋：<ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>七<ruby>年<rt>넌</rt></ruby> <!-- Northern Song 960-1127 //-->
     　- 南宋：<ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>七 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby>九<ruby>年<rt>넌</rt></ruby>    <!-- Southern Song 1127-1279 //-->
 #### <ruby>日本<rt>닏본</rt></ruby>
-- [[大和]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：[[三第]] [[世紀]] <ruby>至<rt>즤</rt></ruby> 六第 世紀 <!-- Yamato 3rd cent to 6th cent //-->
-- [[飛鳥]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：[[六第]] 世紀 <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby>十<ruby>年<rt>넌</rt></ruby> <!-- Asuka 6th cent to 710 //-->
+- <ruby>大和<rt>대화</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>三第<rt>삼데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>六第<rt>룩데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <!-- Yamato 3rd cent to 6th cent //-->
+- <ruby>飛鳥<rt>피촛</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：[[六第]] <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby>十<ruby>年<rt>넌</rt></ruby> <!-- Asuka 6th cent to 710 //-->
 - [[奈良]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>七百<rt>칟박</rt></ruby>十 <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>四<ruby>年<rt>넌</rt></ruby> <!-- Nara 710 to 794 //-->
 - [[平安]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>七百<rt>칟박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>四 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>八十<rt>받십</rt></ruby>五<ruby>年<rt>넌</rt></ruby> <!-- Heian 794-1185 //-->
 #### <ruby>韓国<rt>한곡</rt></ruby>
@@ -49,7 +49,7 @@
 - [[令和]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>二千<rt>늬천</rt></ruby>一十九<ruby>年<rt>넌</rt></ruby> <ruby>至<rt>즤</rt></ruby> 今
 #### <ruby>韓国<rt>한곡</rt></ruby>
 - <ruby>日本<rt>닏본</rt></ruby><ruby>統治<rt>통치</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>時<rt>시</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>一十 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>五<ruby>年<rt>넌</rt></ruby>
-- <ruby>[[大韓民国]]<rt>대한민곡</rt></ruby> + <ruby>朝鮮<rt>잣션</rt></ruby>[[民主]]<ruby>主義<rt>주위</rt></ruby><ruby>人民<rt>닌민</rt></ruby><ruby>共和<rt>굥화</rt></ruby><ruby>国<rt>곡</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>八<ruby>年<rt>넌</rt></ruby><ruby>至<rt>즤</rt></ruby>今
+- <ruby>[[大韓民国]]<rt>대한민곡</rt></ruby> + <ruby>朝鮮<rt>잣션</rt></ruby><ruby>民主<rt>민주</rt></ruby><ruby>主義<rt>주위</rt></ruby><ruby>人民<rt>닌민</rt></ruby><ruby>共和<rt>굥화</rt></ruby><ruby>国<rt>곡</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>八<ruby>年<rt>넌</rt></ruby><ruby>至<rt>즤</rt></ruby>今
 ## Vocabulary
 - 左学
 - 右学
