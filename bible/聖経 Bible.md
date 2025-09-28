@@ -28,7 +28,16 @@
 24. 編年紀
 # Greek
 ## Gospels
-1. 
+1. 贈偕書
+2. 火書
+3. 光書
+4. 恵偕書
+5. 使徒行傳
+6. 羅馬書
+7. 醋栗書 上
+8. 醋栗書 下
+9. 牛乳書
+10. 
 # Names
 - 長族 Eldest Tribe = Reuben
 - 聽族 Listening Tribe = Simeon
