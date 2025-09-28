@@ -26,7 +26,9 @@
 22. 助子記
 23. 慰偕記
 24. 編年紀
-
+# Greek
+## Gospels
+1. 
 # Names
 - 長族 Eldest Tribe = Reuben
 - 聽族 Listening Tribe = Simeon
