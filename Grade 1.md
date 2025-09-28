@@ -1,6 +1,6 @@
 ## Numbers
 - <ruby>[[一 (char)]]<rt>읻</rt></ruby> : 'one'.  Appears in numerous compounds
-- <ruby>[[characters/二]]<rt>늬</rt></ruby> : 'two'
+- <ruby>[[二 (char)]]<rt>늬</rt></ruby> : 'two'
 - <ruby>[[三]]<rt>삼</rt></ruby> : 'three'
 - <ruby>[[四]]<rt>싀</rt></ruby> : 'four'.  As in most Far East Asian language, this is a homophone with 'death'
 - <ruby>[[五]]<rt>오</rt></ruby> : 'five'

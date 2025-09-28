@@ -34,7 +34,7 @@ aliases:
   - '弍'
   - '𠄠'
 ---
-
+> This is the character.  For the word, use [[二]]
 ```meta-bind-embed
 [[nav/char_info]]
 ```
