@@ -35,14 +35,13 @@ aliases:
   - 𠀁
   - 桼
 ---
-
+> This is the page for the character 七, as opposed to the word [[七]] 'seven'
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ### Numberal
 - seven
 -   For anti-forgery purposes, use [[漆]]
-
 ### Words
 * <ruby>[[七十]]<rt>칟십</rt></ruby> - seventy
 * <ruby>[[七百]]<rt>칟박</rt></ruby> - seven hundred
@@ -60,6 +59,13 @@ aliases:
 * <ruby>[[七星]]<rt>칟성</rt></ruby> - Big Dipper
 * <ruby>[[七色]]<rt>칟식</rt></ruby> - ROYGBIV
 * <ruby>[[七角形]]<rt>칟곡헝</rt></ruby> - heptagon
+#### Check
+```dataview
+table 韓文, english
+from "words"
+where contains(characters, this.file.name)
+sort file.name
+```
 ### Etymologies
 Pictogram (象形) – a vertical stroke and a horizontal stroke bisecting each other – original character of [切] (Old Chinese @sn̥ʰiːds, @sn̥ʰiːd, “to cut”)
 - 七 + 刀 = <ruby>[[切]]<rt>첟</rt></ruby>
