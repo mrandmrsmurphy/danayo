@@ -24,6 +24,7 @@ mc_id: "28"
 graphemic_classification: 象形
 stand_in: "TRUE"
 ---
+> This is the character 一.  For the word 'one', please use [[一]]
 ```meta-bind-embed
 [[nav/char_info]]
 ```
