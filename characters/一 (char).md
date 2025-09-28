@@ -25,6 +25,7 @@ graphemic_classification: 象形
 stand_in: "TRUE"
 ---
 > This is the character 一.  For the word 'one', please use [[一]]
+> For the radical, see [[Radical 001]]
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -61,7 +62,13 @@ stand_in: "TRUE"
 * <ruby>[[一処]]<rt>읻초</rt></ruby> - together, in one place
 * <ruby>[[一致]]<rt>읻츼</rt></ruby> - unanimous, agree with
 * <ruby>[[一体]]<rt>읻테</rt></ruby> - organic whole, unity
-
+#### Data check
+```dataview
+table 韓文, english
+from "words"
+where contains(characters, this.file.name)
+sort file.name
+```
 ### Links
 ![[nav/Numerals]]
 

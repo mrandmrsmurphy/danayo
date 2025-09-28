@@ -24,7 +24,23 @@ mc_id: 24
 graphemic_classification: 指事
 stand_in: "TRUE"
 ---
-> This is the character 三. For the word 'three', use [[三]]
+> This is the character 三. For the word 'three', use [[三]].
 ```meta-bind-embed
 [[nav/char_info]]
+```
+
+## Numeral
+- three, 3
+## Usage
+- For anti-forgery purposes, use [[参]], which is derived from this.
+Ideogram (指事) - three parallel strokes. Compare with 一, one stroke meaning “one”, 二, two strokes meaning “two”, and 亖, four strokes meaning “four”. Triplication of 一 (“one”).
+
+### Links
+![[nav/Numerals]]
+
+```dataview
+table 韓文, english
+from "words"
+where contains(characters, this.file.name)
+sort file.name
 ```
