@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 2
 mc_id: 127
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 七
 aliases:
   - 柒
   - 𠀁
@@ -44,22 +44,22 @@ aliases:
 -   For anti-forgery purposes, use [[漆]]
 
 ### Words
-* <ruby>七十<rt>칟십</rt></ruby> - seventy
-* <ruby>七百<rt>칟박</rt></ruby> - seven hundred
-* <ruby>七千<rt>칟천</rt></ruby> - seven thousand
-* <ruby>七万<rt>칟몬</rt></ruby> - seventy thousand
-* <ruby>七日<rt>칟닏</rt></ruby> - seventh of the month
-* <ruby>七月<rt>칟웓</rt></ruby> - July
-* <ruby>七夕<rt>칟석</rt></ruby> - Qixi (Chinese Valentines)
-* <ruby>七情<rt>칟칭</rt></ruby> - the Seven Emotions (traditional)
-* <ruby>七宝<rt>칟밧</rt></ruby> - Seven Treasures (Buddhism)
-* <ruby>七事<rt>칟지</rt></ruby> - Seven Duties of a Sovereign
-* <ruby>七対子<rt>칟되지</rt></ruby> - Seven Pairs (Majong)
-* <ruby>七面鳥<rt>칟면촛</rt></ruby> - turkey
-* <ruby>七曜<rt>칟욧</rt></ruby> - Seven Heavenly Bodies 
-* <ruby>七星<rt>칟성</rt></ruby> - Big Dipper
-* <ruby>七色<rt>칟식</rt></ruby> - ROYGBIV
-* <ruby>七角形<rt>칟곡헝</rt></ruby> - heptagon
+* <ruby>[[七十]]<rt>칟십</rt></ruby> - seventy
+* <ruby>[[七百]]<rt>칟박</rt></ruby> - seven hundred
+* <ruby>[[七千]]<rt>칟천</rt></ruby> - seven thousand
+* <ruby>[[七万]]<rt>칟몬</rt></ruby> - seventy thousand
+* <ruby>[[七日]]<rt>칟닏</rt></ruby> - seventh day of the month
+* <ruby>[[七月]]<rt>칟웓</rt></ruby> - July
+* <ruby>[[七夕]]<rt>칟석</rt></ruby> - Qixi (Chinese Valentines)
+* <ruby>[[七情]]<rt>칟칭</rt></ruby> - the Seven Emotions (traditional)
+* <ruby>[[七宝]]<rt>칟밧</rt></ruby> - Seven Treasures (Buddhism)
+* <ruby>[[七事]]<rt>칟지</rt></ruby> - Seven Duties of a Sovereign
+* <ruby>[[七対子]]<rt>칟되지</rt></ruby> - Seven Pairs (Majong)
+* <ruby>[[七面鳥]]<rt>칟면촛</rt></ruby> - turkey
+* <ruby>[[七曜]]<rt>칟욧</rt></ruby> - Seven Heavenly Bodies 
+* <ruby>[[七星]]<rt>칟성</rt></ruby> - Big Dipper
+* <ruby>[[七色]]<rt>칟식</rt></ruby> - ROYGBIV
+* <ruby>[[七角形]]<rt>칟곡헝</rt></ruby> - heptagon
 ### Etymologies
 Pictogram (象形) – a vertical stroke and a horizontal stroke bisecting each other – original character of [切] (Old Chinese @sn̥ʰiːds, @sn̥ʰiːd, “to cut”)
 - 七 + 刀 = <ruby>[[切]]<rt>첟</rt></ruby>
