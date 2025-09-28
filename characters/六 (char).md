@@ -31,7 +31,18 @@ graphemic_classification: '指事'
 stand_in: 'TRUE'
 aliases:
 ---
+```meta-bind-embed
+[[nav/char_info]]
+```
+### Words
 
-# Notes
+#### Data check
+```dataview
+table 韓文, english
+from "words"
+where contains(characters, this.file.name)
+sort file.name
+```
+## Notes
 ### Links
 ![[nav/Numerals]]

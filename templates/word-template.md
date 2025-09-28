@@ -10,7 +10,7 @@ vietnamese: "<% tp.system.prompt('Vietnamese reading') %>"
 pos: "<% tp.system.prompt('Part of speech') %>"
 品詞: "<% tp.system.prompt('品詞') %>"
 english: "<% tp.system.prompt('English meanings comma-separated') %>"
-swadesh: "<% tp.system.prompt('Swadesh') %>"
 ---
-# Examples
-- "<% tp.system.prompt('Example sentence optional') %>"
+```meta-bind-embed
+[[nav/word_info]]
+```
