@@ -35,12 +35,15 @@ stand_in: "TRUE"
 - For anti-forgery purposes, use [[参]], which is derived from this.
 Ideogram (指事) - three parallel strokes. Compare with 一, one stroke meaning “one”, 二, two strokes meaning “two”, and 亖, four strokes meaning “four”. Triplication of 一 (“one”).
 
-### Links
-![[nav/Numerals]]
-
+## Words
+- [[三十]] - 30
+### Data check
 ```dataview
 table 韓文, english
 from "words"
 where contains(characters, this.file.name)
 sort file.name
 ```
+
+### Links
+![[nav/Numerals]]

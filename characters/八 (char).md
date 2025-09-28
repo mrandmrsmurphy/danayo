@@ -29,9 +29,13 @@ hanmun_edu_level: ''
 danayo_id: 9
 mc_id: 142
 graphemic_classification: '指事'
-stand_in: 'TRUE'
+stand_in: 八
 aliases:
 ---
+> This is about the character 八.  For the word, see [[八]]
+```meta-bind-embed
+[[nav/char_info]]
+```
 ## Words
 - [[八角]]
 - [[八百]]

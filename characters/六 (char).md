@@ -35,7 +35,7 @@ aliases:
 [[nav/char_info]]
 ```
 ### Words
-
+- [[六十]] sixty
 #### Data check
 ```dataview
 table 韓文, english
