@@ -16,6 +16,11 @@
 ## Writings
 13. 聖詠集
 14. 箴言
+15. 疑葉傳
+16. 雅歌
+17. 友傳
+18. 哀歌
+19. 集子書
 
 # Names
 - 長族 Eldest Tribe = Reuben
