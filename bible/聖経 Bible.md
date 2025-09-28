@@ -7,6 +7,8 @@
 5. 申命記
 ## Prophets
 6. 救者記
+7. 名神記
+8. 列王記
 
 # Names
 - 長族 Eldest Tribe = Reuben
