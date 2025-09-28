@@ -22,7 +22,7 @@ hanmun_edu_level: 중
 danayo_id: "1"
 mc_id: "28"
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 一
 ---
 > This is the character 一.  For the word 'one', please use [[一]]
 > For the radical, see [[Radical 001]]
