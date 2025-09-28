@@ -1,13 +1,13 @@
 ## Numbers
 - <ruby>[[一 (char)]]<rt>읻</rt></ruby> : 'one'.  Appears in numerous compounds
-- <ruby>[[二 (char)]]<rt>늬</rt></ruby> : 'two'
+- <ruby>[[characters/二]]<rt>늬</rt></ruby> : 'two'
 - <ruby>[[三]]<rt>삼</rt></ruby> : 'three'
 - <ruby>[[四]]<rt>싀</rt></ruby> : 'four'.  As in most Far East Asian language, this is a homophone with 'death'
 - <ruby>[[五]]<rt>오</rt></ruby> : 'five'
 - <ruby>[[六]]<rt>룩</rt></ruby> : 'six'
 - <ruby>[[七 (char)]]<rt>칟</rt></ruby> : 'seven'
 - <ruby>[[八]]<rt>받</rt></ruby> : 'eight'
-- <ruby>[[九 (char)]]<rt>규</rt></ruby> : 'nine' 
+- <ruby>[[characters/九]]<rt>규</rt></ruby> : 'nine' 
 - <ruby>[[十]]<rt>십</rt></ruby> : 'ten', but not written/said alone: <ruby>一十<rt>읻십</rt></ruby> 
 - <ruby>[[千]]<rt>천</rt></ruby> : 'thousand', but not written/said alone: <ruby>一千<rt>읻천</rt></ruby> 
 - <ruby>[[万]]<rt>몬</rt></ruby> : 'ten-thousand', but not written/said alone: <ruby>一万<rt>읻몬</rt></ruby> 
