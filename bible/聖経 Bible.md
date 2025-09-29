@@ -76,3 +76,4 @@
 - 高父 → 衆父 Abram->Abraham 
 - 救偕 Jesus/Joshua
 - Eleazar/Lazarus 助偕
+- 偕者 YHWH
