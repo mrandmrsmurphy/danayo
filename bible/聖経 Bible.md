@@ -30,7 +30,7 @@
 ## Gospels
 1. 贈偕記
 2. 火記
-3. 光記
+3. [[bible/光記]]
 4. 恵偕記
 5. 使徒行傳
 ## Epistles
@@ -71,3 +71,8 @@
 - 雙族 Double Tribe = Joseph
 	- 忘族 Forget Tribe = Manasseh (半族)
 	- 豐族 Abundant Tribe = Ephraim (半族)
+
+## Others
+- 高父 → 衆父 Abram->Abraham 
+- 救偕 Jesus/Joshua
+- Eleazar/Lazarus 助偕
