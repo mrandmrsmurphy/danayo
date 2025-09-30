@@ -42,19 +42,62 @@ For Vietnamese speakers （越南語話者）, certain features of native pronun
 - Stops （塞音） may sometimes be produced as **implosives** （内破音）. This remains broadly intelligible （理解可能） across the region.
 - The common lenition of /g/ → /ɣ/ （有声軟口蓋破裂音の弱化, 変化 into 有声軟口蓋摩擦音） should be avoided （禁止）, since it causes confusion with the distinct phoneme /x/ （無声音摩擦音）.
 - Vietnamese speakers should attend to **final consonants** （語末子音）, since Dan’a’yo retains coda distinctions （音節末対立） that Vietnamese phonology tends to neutralize （中和）.
+### ### Glottal Stop （声門閉鎖音）
 
-**B. Vowels （母音）**
+To maintain clear syllable divisions （音節分界）, especially in morphophonological contexts （形態音韻論的環境）, speakers may insert a **glottal stop** /ʔ/ （声門閉鎖音） at the beginning of syllables with a null onset （無声母音節）.
 
-- Inventory chart (height/backness/rounding).
-    
-- How vowel length, quality, or harmony works (if relevant).
-    
-- Comparison with Old Korean vowels and MC finals （中古漢語韻母）.
-    
-- Treatment of diphthongs or glide-vowel sequences.
-    
+However, in practice most words （語） are intelligible without this insertion （挿入不要）. For example, forms such as 児児 （児児） or 異音 （異音） are normally distinct enough in context （文脈上明瞭） and do not require a glottal onset.
 
-**C. Phonotactics （音素結合規則）**
+Thus **vowel hiatus** （母音連続） is permitted in Dan’a’yo, as long as the surrounding context provides clarity （文脈理解可）.
+
+##  Vowels （母音)
+
+Speakers of Mandarin （漢語話者） must adjust to **simple cardinal vowels** （基本母音） in nearly every foreign language they study — whether Korean （韓国語）, Japanese （日本語）, English （英語）, or others. Dan’a’yo （単亜語） adopts a system that is both simple and broadly inclusive （簡明かつ包摂的体系）, as shown in Figure 2.2 （図2.2）.
+
+### Figure 2.2: Dan’a’yo Vowel Inventory （単亜語母音表）
+
+|                | Front （前舌）     | Central （中舌）    | Back （後舌）      |
+|----------------|--------------------|---------------------|--------------------|
+| **High （高母音）** | i `/i ~ ɪ/`         |                     | u `/u ~ ʊ/`        |
+| **Mid （中母音）**  | e `/e ~ ɛ/`         |                     | o `/o ~ ɔ/`        |
+| **Low （低母音）**  |                    | a `/a ~ ä ~ ɑ/`    |                    |
+
+### ### Long Vowels （長母音）
+
+Two so-called **long vowels** （長母音） are possible in the Dan’a’yo syllable structure （単亜語音節構造）: _ii_ and _uu_. Because not all hearers （聴取者） can reliably distinguish vowel length （母音長短）, speakers must indicate an **off-glide** （後続滑音） in some manner （方法不定）.
+
+The exact realization is not fixed （具体音価非限定）. For example, _ii_ may be pronounced as /iɪ/, /iə/, or /iɨ/, while _uu_ may be realized as /uʊ/, /uɔ/, or /uə/. All of these are acceptable variants （容認異音）.
+
+### ### Epenthesis （介音母音）
+
+Different languages of Asia （東亜諸語） supply different **epenthetic vowels** （介音母音） when breaking up consonant clusters （子音連続）.
+
+- Korean （韓国語） inserts /ɯ/ （無円唇後舌母音）.    
+- Japanese （日本語） inserts /ɯᵝ/ （両唇化無円唇後舌母音）.    
+- Mandarin （漢語普通話） inserts /ɨ/ （中舌無円唇母音）.    
+- Vietnamese （越南語） inserts /ə/ （中央母音）.    
+- Cantonese （広東語） inserts /ʊ/ （後舌狭母音）.    
+
+In the Latin orthography （羅馬字表記）, epenthetic vowels are written as **ǔ** （ǔ母音） to distinguish them from the normal vowel _u_ （母音u）. In the Hangul orthography （諺文表記）, they are written as **으**.
+
+The transcription of foreign words （外来語転写） should follow Dan’a’yo phonotactics （単亜語音素結合法）, breaking up consonant clusters as necessary （子音群分割）.
+
+For example:
+- _Bach_ → 바흐    
+- _bibimbap_ （비빔밥） remains unchanged.    
+- _katto_ （カット） → 칻토.
+
+## Phonotactics （音素結合規則）
+
+### Figure 2.3: Dan’a’yo Syllable Structure （単亜語音節構造）
+
+| Position （位置）         | Inventory （音素表）                     |
+|---------------------------|------------------------------------------|
+| **Onset （声母）**        | m, n, s, h, l, ∅, p, t, c, k, b, d, j, g |
+| **On-Glide （介音, 任意）** | y, w, ∅                                   |
+| **Vowel （母音）**        | i, e, a, o, u                            |
+| **Final （韻尾, 任意）**   | m, n, ng, u, i, p, t, k, ∅                |
+
 
 - Syllable structure template (e.g. (C)(G)V(C)).
     
