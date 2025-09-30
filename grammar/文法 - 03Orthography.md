@@ -26,3 +26,7 @@ Dan’a’yo （単亜語） is written with Shinjitai （新字体） Chinese c
     Certain fixed expressions （慣用句） are set in four characters （四字）.  They form a shared idiom across East Asia （東亜慣用）.   Each country also developed innumerable unique phrases （国別成語）.
 
 These rubrics direct the writing system toward clarity （明晰） by multiplying characters （多字化）.  At the same time, Dan’a’yo （単亜語） follows a contrary impulse: to reduce the number of characters （減字化） as far as possible.  The higher aim （高旨） of the language is to maintain the minimum set of characters that still ensures clarity （簡而明）.  In practice, this requires a core of about 2,000 characters （常用字）.  Each core character may gather its variants （異体字） and archaic forms （古形） under one head.  This follows the same practice as Japanese substitute characters （代用字） and Chinese simplified characters （簡化字）.
+
+## Levels of Characters （文字之階）
+More than fifty thousand Chinese characters （漢字五万餘字） have been recorded in history.  
+In Dan’a’yo （単亜語） these are divided into six categories （六類）:  common characters （常用字）, advanced characters （先進字）, naming characters （名字字）, forbidden characters （違法字）, variant characters （異体字）, and unclassified characters （無類字）.  Characters that fall outside national standards （国定標準） and official name lists （姓名表） are judged too rare （稀少） to categorize.  By this restriction, the practical inventory （実際字庫） of Dan’a’yo stands at slightly under four thousand characters （四千字未満）.
