@@ -29,9 +29,6 @@ These rubrics direct the writing system toward clarity （明晰） by multiplyi
 ## Levels of Characters （文字之階）
 More than fifty thousand Chinese characters （漢字五万餘字） have been recorded in history.  
 In Dan’a’yo （単亜語） these are divided into six categories （六類）:  common characters （常用字）, advanced characters （先進字）, naming characters （名字字）, forbidden characters （違法字）, variant characters （異体字）, and unclassified characters （無類字）.  Characters that fall outside national standards （国定標準） and official name lists （姓名表） are judged too rare （稀少） to categorize.  By this restriction, the practical inventory （実際字庫） of Dan’a’yo stands at slightly under four thousand characters （四千字未満）.
-
-**Unclassified Characters （無類字）**
-- Motto: **【稀散不収】 Too Rare to Collect**
 ### Figure 3.1: Dan’a’yo Character Score Points
 
 | 漢語等級 | Points | 教育等級 | Points | 特別用字 | Points | 韓国用字 | Points |
@@ -62,3 +59,19 @@ Naming characters （名字） are used in technical names （術名） of anima
 
 Forbidden characters （違法字） are expressly disallowed （明禁） in Dan’a’yo （単亜語）.  
 They may belong exclusively to one nation （一国専用）.  They may also stand in direct competition （競合） with a common character （常用字）. This category, though unfortunate （不幸）, is necessary for the simplicity of the language （簡明之為）.  Every forbidden character in another country （他国用字） has a direct substitute （代用字） within Dan’a’yo.  A complete list （全表） is given in Appendix C （附録丙）.
+
+### Variant Characters （異体字）
+**【形異義同】 Form Differs, Meaning Same**
+
+Nearly every Chinese character （漢字） has been written in multiple ways （多形） across nations （諸国） and across time （歴代）.  Such forms are called variant characters （異体字）.  Ideally, an input system （入力法） will recognize a variant when typed, and replace it with the standardized glyph （正体字）.
+
+This system sometimes produces striking results （奇観）.  Obscure characters that are homophones or near-homophones （同音字） of common characters （常用字） may be reclassified as variants （転属）.  This removes the statistical “long tail” （冗尾） of ultra-rare characters （稀字）.
+
+For example, the phrase **魑魅魍魎** is visually impressive （観之壮）.  Yet the last two characters, 魍 and 魎, have almost no independent usage （孤用）.  By fiat （擬制）, Dan’a’yo declares 魍 a variant of 罔, and 魎 a variant of 両.  These two are in fact components of the originals （構件）.  Thus the idiom now appears as **魑魅罔両**, equally expressive but more economical （簡而存義）.
+
+### Unclassified Characters （無類字）
+**【稀散不収】 Too Rare to Collect**
+
+Unclassified characters （無類字） lie outside all lists （諸表外）.  They are too rare （稀少） to be assigned a category （不可分類）.  They appear only in dictionaries （字書） or historical records （古録）.
+
+For practical purposes （実用上）, Dan’a’yo does not admit them into the active inventory （現用字庫）.  They are studied for reference （参照） but not employed in writing （不用）.
