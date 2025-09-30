@@ -89,6 +89,10 @@ For example:
 
 ## Phonotactics （音素結合規則）
 
+The basic syllable structure of Dan’a’yo （単亜語音節構造） follows a **CV pattern** （子音＋母音） with several optional elements. An onset （声母） is normally required, though a null onset （無声母） is also possible. After the onset, an optional **on-glide** （介音） (y, w) may appear. The nucleus （核母音） is one of the five vowels （母音: i, e, a, o, u）. The coda or final （韻尾） may be absent, or may consist of a nasal （鼻音: m, n, ŋ）, a high vowel off-glide （高母音後続: i, u）, or an unreleased voiceless stop （無放出清塞音: p, t, k）.
+
+Thus the maximal syllable template （最大音節式） is **C(G)V(C)**, where G = glide and C = consonant. This system is broadly comparable to other East Asian languages （東亜諸語） but intentionally inclusive （包摂的） of both Chinese-style finals （漢語韻尾） and Korean-style codas （韓国語語末子音）.
+
 ### Figure 2.3: Dan’a’yo Syllable Structure （単亜語音節構造）
 
 | Position （位置）         | Inventory （音素表）                     |
@@ -97,16 +101,30 @@ For example:
 | **On-Glide （介音, 任意）** | y, w, ∅                                   |
 | **Vowel （母音）**        | i, e, a, o, u                            |
 | **Final （韻尾, 任意）**   | m, n, ng, u, i, p, t, k, ∅                |
+### ### Velar Nasal （軟口蓋鼻音）
 
+The velar nasal /ŋ/ （軟口蓋鼻音） is permitted in **syllable-final position** （音節末） but does not occur in **syllable-initial position** （音節頭）.
 
-- Syllable structure template (e.g. (C)(G)V(C)).
-    
-- Allowable consonant clusters (onset/coda).
-    
-- Treatment of codas (Korean-style limited codas vs. MC-style).
-    
-- Sandhi or assimilation rules (連音, 音便).
-    
+### ### Gaps in Distribution （分布の制限）
+
+Certain gaps （分布空隙） exist in the Dan’a’yo syllable system （単亜語音節体系）:
+
+- The consonants **d, t, c, j** （歯茎・硬口蓋塞音） may not combine with a **y on-glide** （y介音）.    
+- A **y on-glide** may not be followed by the vowel **i** （母音i）.    
+- A **w on-glide** （w介音） may only precede the vowels **a, e** （母音a・e）.    
+- In syllables with a null onset （無声母）, **wi+** sequences are permitted （許容）.    
+- A **w on-glide** may not co-occur with the initials **n, l, b, p, m** （鼻音・流音・両唇音）.
+
+### ### Morphophonology （形態音韻論）
+
+Because many speakers （話者） find coda consonants （語末子音） difficult, Dan’a’yo prohibits **phonological blending across syllable boundaries** （音節境界の連音禁止）.
+
+- Japanese speakers （日本語話者） may struggle to distinguish **coda nasals** （語末鼻音）.    
+- Mandarin speakers （漢語話者） may struggle to produce **coda stops** （語末塞音）.    
+
+Therefore, no **sandhi** （連声） or cross-syllable assimilation （音節間同化） is permitted. Each syllable remains independent （音節独立）.
+
+Care must be taken to avoid forms like _ningan_ /닌간/, where a velar nasal /ŋ/ （軟口蓋鼻音） could create ambiguity. The rule is absolute: there should be no influence of one syllable upon another （音節相互影響禁止）.
 
 **D. Intonation and Prosody （声調・韻律）**
 
