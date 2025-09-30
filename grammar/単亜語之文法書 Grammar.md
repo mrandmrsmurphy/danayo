@@ -6,7 +6,32 @@
 6. [[/grammar/文法 - 06Pragmatics]]
 7. [[/grammar/文法 - 99Rime Tables]]
 
-AI
+
+## New Parts of Speech
+
+## **実詞 (content words)** — can serve as topic or comment
+
+- **実詞-名詞** → nouns (神, 人, 母親)    
+- **実詞-評詞** → eventive verbs, usually transitive (創造, 捕, 行)  
+- **実詞-性詞** → statives / qualities, often intransitive (白, 大, 暴怒)    
+
+## **助詞 (function words)** — cannot be topic or comment
+
+- **助詞-関詞** → postpositions / case markers (於, 在, 與, 自)    
+- **助詞-修飾語** → modifiers: adverbs, aspect, negation, degree (已, 未, 很, 不)    
+- **助詞-代詞** → pronouns, correlatives, demonstratives (此, 其, 誰, 何)    
+- **助詞-繋詞** → sentence-final particles (乎, 矣, 哉)    
+- **助詞-接詞** → conjunctions / connectives (而, 乃, 雖, 若)    
+
+## **特詞 (special words)** — independent, not predicative
+
+- **特詞-数詞** → numerals (一, 二十, 三百)    
+- **特詞-量詞** → measure words / classifiers (個, 匹, 本, 杯)    
+- **特詞-限定詞** → determiners / quantifiers (每, 諸, 全, 該)    
+- **特詞-感詞** → interjections (哎, 唉, 嗚, おお, 아)    
+- **特詞-擬詞** → ideophones / sound-symbolics (轟轟, 滴滴, きらきら, 반짝반짝)
+
+## AI
 ### **Front Matter / Introduction**
 
 - Historical/literary background (why the language was designed, link to CC, J/K, etc.)

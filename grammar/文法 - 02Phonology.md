@@ -1,3 +1,4 @@
+> [[単亜語之文法書 Grammar]]
 # 音韻論
 The phonology of Dan’a’yo （単亜語音韻） is determined in two ways. In some cases it represents the **average** or **mean value** （平均, 中庸） across the CJKV languages （中日韓越言語）. In other cases, when no middle ground exists, it follows the **principle of simplicity** （簡易原則）, choosing the sound easiest for human learners （学習者容易発音）.
 
@@ -18,37 +19,37 @@ Phonotactic structure （音素結合規則） also varies across the region. So
 Dan’a’yo consonants （単亜語子音） are organized by **four places of articulation** （四部位） and **five manners of articulation** （五調音法）. Consonants may be **labial** （唇音）, **alveolar** （歯茎音）, **palatal** （硬口蓋音）, or **dorsal** （舌背音）. They may be **nasals** （鼻音）, **voiced stops** （濁塞音）, **aspirated stops** （送気塞音）, **fricatives** （摩擦音）, or **approximants/flaps** （接近音／弾音）. The complete inventory is shown in Figure 2.1 （図2.1）.
 
 A high degree of variance （異音差） is tolerated among the “dialects” （方言） influenced by each source language （原言語）. The phoneme /x/ （無声音摩擦音） is often realized as /h/ （声門摩擦音） for non-Chinese speakers （非漢語話者）. Outside of Japanese （日本語以外）, speakers may de-aspirate stops （塞音非送気化） but not consistently voice them （有声化不安定）. Japanese speakers （日本語話者） show the opposite tendency, sometimes failing to aspirate strongly enough （送気不十分）. Despite these differences, all realizations are mutually recognizable （相互理解可能） across the region.
-### ### Sibilants （歯擦音）
+### Sibilants （歯擦音）
 
 The phoneme /s/ （無声音歯擦音） undergoes **palatalization** （硬口蓋化） to /ɕ/ （硬口蓋擦音） before the high front vowel /i/ （前舌高母音） or the glide /j/ （半母音）. This process is widely found in Asian languages （東亜諸語） and is not considered phonemic （非音位的過程） in Dan’a’yo.
 
 Speakers of Chinese （漢語話者） often extend this change to syllables beginning with **sw-** （sw音節）, producing a palatalized onset （硬口蓋化音頭）. This extension is optional but encouraged （推奨） for speakers who are able to perform it.
-### ### Palatals （硬口蓋音）
+### Palatals （硬口蓋音）
 
 The palatal stops （硬口蓋塞音） may also be realized as **post-alveolar affricates** （後部歯茎破擦音） without restriction （自由異音）.
 
-### ### Japanese Concerns （日本語話者の注意点）
+### Japanese Concerns （日本語話者の注意点）
 
 For Japanese speakers （日本語話者）, certain substitutions are considered acceptable （許容異音）, while others should be avoided （回避すべき異音）.
 
 - The nasal /ŋ/ （軟口蓋鼻音） may be pronounced as /ɴ/ （口蓋垂鼻音）, following older Japanese patterns （日本語古層）, and this remains fully intelligible （理解可能）.
-- The fricative /h/ （声門摩擦音） may be replaced by /ɸᵝ/ （両唇摩擦音）, a common Japanese realization （日本語異音）, but this is not standard in Dan’a’yo.
+- The fricative /h/ （声門摩擦音）should not be replaced by /ɸᵝ/ （両唇摩擦音）, a common Japanese realization （日本語異音）, though it may be understood.
 - The palatal stop /j/ （硬口蓋塞音） may be realized as /dʑ/ （硬口蓋破擦音） without difficulty （問題なし）.
 - Japanese speakers should be attentive to aspiration （送気）, since Dan’a’yo maintains a distinction between aspirated and unaspirated stops （送気・不送気の対立）, which is weaker in Japanese phonology.
-### ### Vietnamese Concerns （越南語話者の注意点）
+### Vietnamese Concerns （越南語話者の注意点）
 
 For Vietnamese speakers （越南語話者）, certain features of native pronunciation appear in Dan’a’yo as well.
 
-- Stops （塞音） may sometimes be produced as **implosives** （内破音）. This remains broadly intelligible （理解可能） across the region.
+- Stops （塞音） may sometimes be produced as **implosives** （内破音）, though this is non--standard. This remains broadly intelligible （理解可能） across the region.
 - The common lenition of /g/ → /ɣ/ （有声軟口蓋破裂音の弱化, 変化 into 有声軟口蓋摩擦音） should be avoided （禁止）, since it causes confusion with the distinct phoneme /x/ （無声音摩擦音）.
 - Vietnamese speakers should attend to **final consonants** （語末子音）, since Dan’a’yo retains coda distinctions （音節末対立） that Vietnamese phonology tends to neutralize （中和）.
-### ### Glottal Stop （声門閉鎖音）
+### Glottal Stop （声門閉鎖音）
 
 To maintain clear syllable divisions （音節分界）, especially in morphophonological contexts （形態音韻論的環境）, speakers may insert a **glottal stop** /ʔ/ （声門閉鎖音） at the beginning of syllables with a null onset （無声母音節）.
 
 However, in practice most words （語） are intelligible without this insertion （挿入不要）. For example, forms such as 児児 （児児） or 異音 （異音） are normally distinct enough in context （文脈上明瞭） and do not require a glottal onset.
 
-Thus **vowel hiatus** （母音連続） is permitted in Dan’a’yo, as long as the surrounding context provides clarity （文脈理解可）.
+Thus **vowel hiatus** （母音連続） is permitted in Dan’a’yo, as long as the surrounding context provides clarity （文脈理解可）. This mirrors practices in many East Asian languages, where it is tolerated.
 
 ##  Vowels （母音)
 
@@ -62,13 +63,13 @@ Speakers of Mandarin （漢語話者） must adjust to **simple cardinal vowels*
 | **Mid （中母音）**  | e `/e ~ ɛ/`         |                     | o `/o ~ ɔ/`        |
 | **Low （低母音）**  |                    | a `/a ~ ä ~ ɑ/`    |                    |
 
-### ### Long Vowels （長母音）
+### Long Vowels （長母音）
 
 Two so-called **long vowels** （長母音） are possible in the Dan’a’yo syllable structure （単亜語音節構造）: _ii_ and _uu_. Because not all hearers （聴取者） can reliably distinguish vowel length （母音長短）, speakers must indicate an **off-glide** （後続滑音） in some manner （方法不定）.
 
 The exact realization is not fixed （具体音価非限定）. For example, _ii_ may be pronounced as /iɪ/, /iə/, or /iɨ/, while _uu_ may be realized as /uʊ/, /uɔ/, or /uə/. All of these are acceptable variants （容認異音）.
 
-### ### Epenthesis （介音母音）
+### Epenthesis （介音母音）
 
 Different languages of Asia （東亜諸語） supply different **epenthetic vowels** （介音母音） when breaking up consonant clusters （子音連続）.
 
@@ -101,11 +102,11 @@ Thus the maximal syllable template （最大音節式） is **C(G)V(C)**, where 
 | **On-Glide （介音, 任意）** | y, w, ∅                                   |
 | **Vowel （母音）**        | i, e, a, o, u                            |
 | **Final （韻尾, 任意）**   | m, n, ng, u, i, p, t, k, ∅                |
-### ### Velar Nasal （軟口蓋鼻音）
+### Velar Nasal （軟口蓋鼻音）
 
 The velar nasal /ŋ/ （軟口蓋鼻音） is permitted in **syllable-final position** （音節末） but does not occur in **syllable-initial position** （音節頭）.
 
-### ### Gaps in Distribution （分布の制限）
+### Gaps in Distribution （分布の制限）
 
 Certain gaps （分布空隙） exist in the Dan’a’yo syllable system （単亜語音節体系）:
 
@@ -115,7 +116,9 @@ Certain gaps （分布空隙） exist in the Dan’a’yo syllable system （単
 - In syllables with a null onset （無声母）, **wi+** sequences are permitted （許容）.    
 - A **w on-glide** may not co-occur with the initials **n, l, b, p, m** （鼻音・流音・両唇音）.
 
-### ### Morphophonology （形態音韻論）
+These restrictions reflect articulatory constraints rather than missing phonemes.
+
+### Morphophonology （形態音韻論）
 
 Because many speakers （話者） find coda consonants （語末子音） difficult, Dan’a’yo prohibits **phonological blending across syllable boundaries** （音節境界の連音禁止）.
 
@@ -126,12 +129,24 @@ Therefore, no **sandhi** （連声） or cross-syllable assimilation （音節�
 
 Care must be taken to avoid forms like _ningan_ /닌간/, where a velar nasal /ŋ/ （軟口蓋鼻音） could create ambiguity. The rule is absolute: there should be no influence of one syllable upon another （音節相互影響禁止）.
 
-**D. Intonation and Prosody （声調・韻律）**
+## Intonation and Prosody （声調・韻律）
 
-- Does 単亜語 have tone (声調), pitch accent, or stress?
+Because lexical tone （声調） is not present in all East Asian languages （東亜諸語） and learning new tones is highly difficult （習得困難）, **tone is not phonemic** （非音位的） in Dan’a’yo （単亜語）. Speakers should not attempt to convey semantic or emotional information （意味・感情情報） through intonation alone （声調）. Instead, **sentence-final particles** （文末詞, 終助詞） are mandatory to indicate any modality （法 ） other than the simple declarative （単純陳述文）.
+
+Dan’a’yo employs **pitch-accent** （高低アクセント） as a prosodic aid for word separation （語境界の区別）. Pitch-accent (高低アクセント) refers to the relative height of syllables across a phrase, rather than lexical tone.  Pitch is realized at the phrase or sentence level （句・文単位）, and no minimal pairs of words exist based on pitch alone （音位的対立なし）. For example:
+
+- 大学生 _대학상_ “big student” → pitch **H HL** （高→下降）
     
-- Default intonation patterns for declaratives, interrogatives, exclamatives.
+- 大学生  _대 학상_“college student” → pitch **HLL** （高→下降→低）
     
-- Prosodic phrasing (e.g., grouping by four-character rhythm for Classical-style poetry).
-    
-- Special patterns in Modern clipped speech (texting intonation, shortened prosody).
+
+### Principles of Pitch （高低原則）
+
+- The **comment** （述部） of an utterance is its highest point （最高点）.
+- The **head of a phrase** （句頭） is its highest point.    
+- The **main vowel of a syllable** （音節主要母音） is its highest point.    
+- The **first character of a compound word** （複合語初字） is its highest point.    
+
+This system benefits East Asian speakers （東亜話者有利）, but may be confusing for outsiders （外来話者困難）. A sentence with an object or particle （目的語・助詞） ends with a falling pitch （下降調）, similar to declaratives in many languages （陳述文終止下降）. However, because many sentences end in a verb （動詞終止文）, the intonation may resemble a tag-question （付加疑問文）— especially when the verb is monosyllabic （単音節動詞）.
+
+For this reason, even **non-polar questions** （非対立疑問文） must end with the particle **乎** （乎助詞） to ensure clarity.
