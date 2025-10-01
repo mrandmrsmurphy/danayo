@@ -68,7 +68,12 @@ These suffixes attach directly to **noun phrases** （名詞句）. Importantly,
 
 ## Verbal Morphology （動詞形態）
 
-### TAM suffixes: -已 (perfective), -中 (progressive), -将 (prospective)
+### TAM affixes: 
+-已 (perfective), 
+-中 (continuous), 
+-将 (prospective),
+有/無- (experiential)   
+在/莫- (progressive)
 
 ### Verbal prefixes: 可, 不, 可以
 
