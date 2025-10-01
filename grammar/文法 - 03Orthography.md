@@ -75,3 +75,18 @@ For example, the phrase **魑魅魍魎** is visually impressive （観之壮）.
 Unclassified characters （無類字） lie outside all lists （諸表外）.  They are too rare （稀少） to be assigned a category （不可分類）.  They appear only in dictionaries （字書） or historical records （古録）.
 
 For practical purposes （実用上）, Dan’a’yo does not admit them into the active inventory （現用字庫）.  They are studied for reference （参照） but not employed in writing （不用）.
+
+## Historical Derivation （音源推定）
+**【古音為則】 Ancient Sounds as Law**
+
+The pronunciation system of Dan’a’yo （単亜語） is based on Middle Chinese （中古漢語）.  The Zhengzhang Shangfang rime table （鄭張尚芳韻表） serves as the primary reference （本表）.  
+Consensus reconstructions （通説） are followed in general.
+
+A rule-of-thumb table for initials （声母） and finals （韻母） is given in Appendix B （附録乙）.  
+From these rules, each character receives a systematic pronunciation （規則的音）.  When the resulting syllable would be overfull （過繁）, adjustments are made （調整）.  For example, the character 殆 would yield _dai_, but Dan’a’yo follows the Cantonese form _doi_ to avoid excess.
+
+Korean influence also guided certain choices （韓音所助）.  Many historical _si_ syllables （詞） became _sa_ in Dan’a’yo, reflecting Middle Korean shifts （中古韓語変化）.
+
+Occasionally, rare characters were selected solely for their sound value （以音取字）.  For example, 耽 is used to supply _dom_.  In some cases, inspiration came from unusual Vietnamese readings （越音異読）.  Thus 𦚖 provides the syllable _mop_, otherwise unattested.
+
+Through such measures, Dan’a’yo establishes a balanced and functional sound system （均衡而可用之音系）.
