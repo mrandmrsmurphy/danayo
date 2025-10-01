@@ -19,3 +19,13 @@ Dan'a'yo has significantly different grammars for its three different modes of u
 At the same time, 古雅体 admits a second face: the **訓読古雅** mode. Here, Dan’a’yo functions as a _kanbun-style overlay_ upon authentic Classical Chinese texts. The base text remains in its original literary form, while hangul ruby provides syntactic guidance, recasting the clauses into Dan’a’yo grammar. (Apparati exist to decorate CC text in ways that allow emendation of additional characters, modified word-order, and phonetic transcription.) This dual function allows 古雅体 both to **generate new compositions in a venerable style** and to **interpret the classical canon within a modern IAL framework**.
 
 Thus 古雅体 is not merely an archaizing affectation, but a **living bridge**: it connects Dan’a’yo to the deep textual heritage of the Sinosphere while enabling its speakers to engage directly with those texts.
+
+### 網語体 (Online Style)
+
+網語体 is the **fastest and most economical mode** of Dan’a’yo. It reflects the realities of digital communication, where technical constraints or platform norms may restrict writing to **hangul only** (most common) or, more rarely, to **kanji only**.
+
+In this mode, **subject–verb–object order dominates**. The older topic–comment structure is rarely used, since clarity depends on the immediacy of SVO sequencing. **Grammatical particles**—case markers, connectives, and even copulas—are dropped wherever context makes their function obvious. The result is a clipped, elliptical style that maximizes **speed of input** and **ease of recognition** on small screens.
+
+網語体 also pushes **pro-drop to the limit**: pronouns, topics, and even objects are omitted whenever recoverable from context. A single verb or adjective can carry an entire utterance, especially in fast back-and-forth exchanges.
+
+Thus 網語体 is not careless but **context-driven**, relying on shared knowledge and situational cues. It represents Dan’a’yo as it lives in the immediacy of modern communication—**stripped, agile, and efficient**.
