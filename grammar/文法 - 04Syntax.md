@@ -104,3 +104,55 @@ Statives are **qualities or intransitives** (_白, 大, 暴怒_). They bridge th
 - **Intransitive copulas**: 在, 莫.    
     - They indicate existence or location (_人在於地_), or negation (_莫能為_).        
 - Because of their hybrid function, 繋詞 are classified under 実詞 but behave like **grammatical pivots** in syntax.
+
+## 助詞 (Function Words)
+Function words are the **grammatical operators** of Dan’a’yo. They cannot themselves serve as **topic** or **comment**, but they bind, modify, or frame the content words (実詞). Most are short, frequent, and either suffixing or prefixing depending on type.
+
+### 関詞 (Case Markers / Postpositions)
+関詞 are modeled on Japanese and Korean postpositions. They attach after nouns or noun phrases to mark their **syntactic role**.
+
+- Almost all 関詞 are **suffixing**.    
+- Examples:    
+    - **于** — dative / locative (_於地_ “on the earth”)        
+    - **哉** — vocative (_父哉!_ “O Father!”)        
+    - **丈** — restrictive “only” (_一人丈_ “only one person”)        
+    - **且** — additive “also” (_我且行_ “I also go”)        
+    - **就** — delimitative “just, precisely” (_此就道_ “this is just the way”)        
+
+### 修飾語 (Modifiers)
+修飾語 include **prefixing particles** that alter, restrict, or frame the meaning of content words. They can express deixis, negation, potentiality, or degree.
+
+- Most 修飾語 are **prefixes**.    
+- Examples:    
+    - **不** — negation (_不行_ “not go”)        
+    - **可** — potential (_可行_ “can go”)        
+    - **已** — perfective (_已行_ “has gone”)        
+    - **未** — negative perfective (_未行_ “has not gone yet”)        
+    - **此 / 其 / 彼** — proximal, medial, distal deixis.        
+
+### 代詞 (Pronouns)
+代詞 stand in for other nouns or noun phrases, and include persons, demonstratives, and correlatives. They are not inflected but follow a regular correlative system.
+
+- Examples:    
+    - **我** — first person singular.        
+    - **君** — second person singular.       
+    - **誰** — interrogative “who.”        
+    - **何** — interrogative “what.”        
+    - **此, 其, 彼** — demonstratives (also used deictically as 修飾語).        
+
+### 繋詞 (Sentence-final Particles)
+繋詞 here are distinct from the copular 実詞. They occur at the end of a clause and mark **mood, modality, or emotion**.
+
+- Examples:    
+    - **乎** — interrogative particle (_汝行乎?_ “Do you go?”)        
+    - **矣** — perfective or emphatic (_已行矣_ “He has indeed gone.”)        
+    - **哉** — exclamative (_大哉!_ “How great!”)        
+
+### 接詞 (Conjunctions)
+接詞 link clauses, phrases, or even whole texts. They are frequent and indispensable in extended discourse.
+
+- Examples:    
+    - **而** — coordinating “and, but.”        
+    - **乃** — consequential “therefore, then.”        
+    - **雖** — concessive “although.”        
+    - **若** — conditional “if.”
