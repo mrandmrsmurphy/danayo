@@ -15,9 +15,11 @@
 - **実詞-評詞** → eventive verbs,  transitive (創造, 捕, 行)  
 - **実詞-性詞** → statives / qualities, intransitive (白, 大, 暴怒)    
 
+繋詞 is an overlapping category, where two stative (在 and 莫), and four are transitive (是, 非, 有, 無)
+
 ## **助詞 (function words)** — cannot be topic or comment
 
-- **助詞-関詞** → postpositions / case markers (於, 在, 與, 自)    
+- **助詞-関詞** → postpositions / case markers (於, 于, 與, 自)    
 - **助詞-修飾語** → modifiers: adverbs, aspect, negation, degree (已, 未, 很, 不)    
 - **助詞-代詞** → pronouns, correlatives, demonstratives (此, 其, 誰, 何)    
 - **助詞-繋詞** → sentence-final particles (乎, 矣, 哉)    

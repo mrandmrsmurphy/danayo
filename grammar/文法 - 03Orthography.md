@@ -147,3 +147,9 @@ Hangŭl does not natively support _au_, _ou_, or _uu_ codas （韻尾）.  There
 ### Names and Sorting （字名与次序）
 
 For sorting by machine （機械配列）, the order of consonants （子音順） is:  ᄀ, ᄂ, ᄃ, ᄅ, ᄆ, ᄇ, ᄉ, ᄋ, ᄌ, ᄎ, ᄏ, ᄐ, ᄑ, ᄒ.  Consonants are named as _C + /a/_ （子＋/a/）.  Vowels are designated simply as _V_ （母音）.
+
+## Note on Pingŭl （拼諺文）
+
+Dan’a’yo ruby is sufficient for native usage.  However, a complete scheme has also been devised to render every Mandarin syllable （漢語拼音音節） in Old Hangŭl （古諺文）.  This system is called **Pingŭl （拼諺文）**.  It demonstrates the adaptability of Hangŭl script beyond Korean, and provides a bridge between Dan’a’yo ruby and Chinese Pinyin.
+
+![[pingul.png]]
