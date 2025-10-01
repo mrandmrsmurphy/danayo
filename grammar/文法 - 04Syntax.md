@@ -156,3 +156,44 @@ Function words are the **grammatical operators** of Dan’a’yo. They cannot th
     - **乃** — consequential “therefore, then.”        
     - **雖** — concessive “although.”        
     - **若** — conditional “if.”
+
+## 特詞 (Special Words)
+特詞 are **independent forms** that play crucial roles in counting, classification, determination, and emotive expression, yet they are **never predicative**. Unlike 実詞, they cannot serve directly as topic or comment, and unlike 助詞, they do not operate on syntax. Instead, they stand apart as **auxiliary but indispensable elements** of discourse.
+
+### 数詞 (Numerals)
+Numerals express number and order (_一, 二十, 三百_). They combine productively with classifiers (量詞) to form counting phrases.
+- **Cardinals:** 一, 二, 三…
+- **Tens, hundreds, thousands:** 十, 百, 千…    
+- **Ordinals:** formed with 第 (_第一_ “first”).    
+
+### 量詞 (Classifiers / Measure Words)
+Every counted noun requires a classifier, reflecting East Asian morphosyntax.
+
+- Examples:
+    - **個** — general classifier.        
+    - **匹** — for animals.        
+    - **本** — for long, slender objects.        
+    - **杯** — for cups of liquid.        
+
+### 限定詞 (Determiners)
+Determiners clarify **semantic domains** of nouns, especially proper names, rare words, and ambiguous references. They are required in **書面体** after names and technical terms.
+
+- Examples:    
+    - **阿** — personal names         
+    - **鳥** — birds         
+    - **虫** — insects         
+    - **服** — clothing         
+
+### 感詞 (Interjections)
+Emotive particles that stand alone as full utterances, expressing feeling or reaction.
+
+- Examples: **哎**, **唉**, **嗚**, **おお**, **아**.    
+
+### 擬詞 (Ideophones / Sound-symbolics)
+Express sound, manner, or sensory vividness, often reduplicated or stylized.
+
+- Examples:    
+    - **嘩** — a crash.        
+    - **轟轟** — roaring.        
+    - **滴滴** — dripping.        
+    - **きらきら**, **반짝반짝** — sparkling.
