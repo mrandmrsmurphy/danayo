@@ -10,7 +10,7 @@ Two principles flow from this maxim:
 Thus **形助顯理** expresses the balance that defines Dan’a’yo morphology: seemingly minor affixes and particles act as **guides to structure**, ensuring that the language’s classical roots and modern functions remain transparent to all learners.
 ## Nominal Morphology （名詞形態）
 
-### Plural suffix: -等
+### Associative Plural suffix: -等
 
 ### Politeness suffix: -公
 
