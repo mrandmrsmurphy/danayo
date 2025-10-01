@@ -23,9 +23,46 @@ In Dan’a’yo （単亜語）, there is not a separate class of **personal pro
 
 These are the only true plural words （真正複数語） in Dan’a’yo, apart from **mass nouns** （集合名詞） which are inherently plural.
 
-### Politeness suffix: -公
+### 公 — Politeness Marker （公・敬語標識）
 
-### Restrictive/quantifying suffixes: -丈 “only,” -且 “too,” -就 “just”
+The suffix **公** attaches directly to **noun phrases** （名詞句） and adds a sense of **austerity and politeness** （厳粛・敬意）. Dan’a’yo （単亜語） does not preserve the complex politeness systems （敬語体系） of Japanese （日本語） or Korean （韓国語）. In general:
+
+- **Shorter words and sentences** （短文） sound intimate and familiar （親密・親しみ）.    
+- **Longer forms** （長文） sound more polite and distant （丁寧・疎遠）.    
+
+Certain titles （称号） require added formality, and **公** fulfills this role （形式強化）.
+
+As in all cultures （普遍文化原則）, **formality stands in tension with intimacy** （丁寧と親密の対立）. Once a close relationship has been established （親密関係成立）, a return to politeness （丁寧再導入） is rude and distant （無礼・疎遠）.
+
+**Example:** At the start of a school year （学年初）, students would naturally call their teacher  **先生公**, since they do not yet have a personal bond （個人的関係未成立）. Later, when speaking of their own teacher among friends （友人間言及）, they would simply say **先生** — distinguishing “our teacher” from others, without the added formality （教師差別化・形式不要）.
+
+### Restrictive Suffixes （制限接尾辞）
+
+Dan’a’yo has three **restrictive suffixes** （制限接尾辞）:
+
+- **丈** “only” 
+- **且** “too / also”     
+- **就** “just / merely”    
+
+These suffixes attach directly to **noun phrases** （名詞句）. Importantly, they do **not transform the NP into an adverb** （副詞化しない）. The phrase remains a subject or topic （主題・主語） of the sentence, while carrying the restrictive meaning.
+
+#### Examples （例文）
+
+1. **丈 “only”**
+- 連傑丈 市場於 購買。  
+    _“Only Jet buys at the market.”_    
+- 我之描丈 寺院於 睡眠。  
+    _“Only my cat sleeps at the temple.”_
+1. **且 “too, also”**
+- 医生且 市場於 販売。  
+    _“The doctor also sells (things) at the market.”_    
+- 我之描且 木曜日於 嬉遊。  
+    _“My cat also plays on Thursday.”_	
+1. **就 “just, merely”**
+- 連傑就 寺院於 閲読。  
+    _“Jet just reads at the temple.”_    
+- 医生就 市場於 食。  
+    _“The doctor simply eats at the market.”_
 
 ### Nominalizers: -物, -事
 
