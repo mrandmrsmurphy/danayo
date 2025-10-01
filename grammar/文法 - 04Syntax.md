@@ -63,3 +63,44 @@ In sum, 書面体 embodies **grammatical conservatism and explicitness**. It is 
 
 The grammar of Dan’a’yo organizes all words into **three great classes** (_meta–parts of speech_). Each class has its own internal subcategories, which are treated in turn.
 
+## 実詞 (Content Words)
+Content words are the **core vocabulary of Dan’a’yo**. They name entities, describe states, and express events. Unlike function words (助詞) or special words (特詞), any 実詞 can serve as either **topic** or **comment** in a clause. Four major subtypes are recognized: 名詞, 評詞, 性詞, and 繋詞.
+
+### 名詞 (Nouns)
+Nouns refer to persons, things, and concepts (_神, 人, 母親_).
+
+- In **書面体 (Literary mode)**, a noun cannot serve as the **comment** by itself when paired with another noun; it requires a **copula**.    
+    - _我 是魚_ — “I am a fish.”        
+- Otherwise, nouns may freely serve as **topics** without further marking.
+
+### 評詞 (Eventives)
+Eventives are **transitive verbs** (_創造, 捕, 行_), denoting actions or processes.
+
+- A 評詞 requires **both subject and object**. It is incomplete without its complement.    
+    - _神 創造 世界_ — “God created the world.”        
+- When an object is absent, a **passive prefix** (_被_) may license the form:    
+    - _世界 被創造_ — “The world was created.”        
+- As modifiers, 評詞 must attach to nouns with **之**:    
+    - _走之馬_ — “the running horse.”        
+- As **comment**, 評詞 are expected and natural.    
+- To serve as **topic**, 評詞 must be **nominalized** with -事 or -物:    
+    - _創造事 艱難_ — “Creation is difficult.”
+
+### 性詞 (Statives)
+Statives are **qualities or intransitives** (_白, 大, 暴怒_). They bridge the categories of adjective and verb.
+
+- Like adjectives, 性詞 may **modify nouns directly** without 之:    
+    - _大人_ — “great person.”        
+- Like verbs, they may serve as **comment** without a copula:    
+    - _天 高_ — “The sky is high.”        
+- To serve as **topic**, statives require the suffix -物:    
+    - _高物 難測_ — “Height is difficult to measure.”
+
+### 繋詞 (Copulas and Existentials)
+繋詞 form a small but crucial class that overlaps noun, verb, and function.
+
+- **Transitive copulas**: 是, 非, 有, 無.    
+    - They take an explicit complement (_我 是魚_; _此 非道_).        
+- **Intransitive copulas**: 在, 莫.    
+    - They indicate existence or location (_人在於地_), or negation (_莫能為_).        
+- Because of their hybrid function, 繋詞 are classified under 実詞 but behave like **grammatical pivots** in syntax.
