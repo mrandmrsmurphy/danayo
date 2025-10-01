@@ -1,3 +1,13 @@
+
+Morphology in Dan’a’yo consists of **prefixes, suffixes, postpositions, and reduplication** that alter the form or function of content words (実詞). These processes do not create new lexical roots but instead **mark grammatical roles, derive new syntactic functions, or adjust aspect and degree**. Unlike function words (助詞), which remain independent, morphological elements are **bound forms**: they attach to a host word or phrase.
+
+The guiding maxim for Dan’a’yo morphology is **形助顯理** (“Form helps reveal structure”). This motto highlights how bound forms — prefixes, suffixes, and postpositions — function as **helpers (助)** that make the underlying **principle (理)** of the sentence visible.
+
+Two principles flow from this maxim:
+1. **Aid through attachment （附形之助）** — small forms bind to content words to indicate case, aspect, modality, or relation, ensuring clarity across the sentence.    
+2. **Revelation of structure （顯句之理）** — what is implicit in Classical Chinese or Vietnamese becomes explicit, while Japanese and Korean intuitions about particles are carried into a new SVO framework.    
+
+Thus **形助顯理** expresses the balance that defines Dan’a’yo morphology: seemingly minor affixes and particles act as **guides to structure**, ensuring that the language’s classical roots and modern functions remain transparent to all learners.
 ## Nominal Morphology （名詞形態）
 
 ### Plural suffix: -等
