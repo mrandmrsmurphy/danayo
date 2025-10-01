@@ -31,3 +31,19 @@ Dan’a’yo （単亜語） is designed as a **universal language** （補助�
 In this respect, Dan’a’yo is comparable to **Ecclesiastical Latin** （教会羅馬語） in medieval Europe （中世欧州）. Such a language is not only a practical medium, but also a reminder that there is more shared （共有） among the different languages than there is divided （差異）. A common linguistic heritage （共有言語遺産） can bind peoples together （結束）, without becoming a rigid system （硬直制度） or a burden of obsolete rules （旧規則の枷）.
 
 The design principle （設計指標） is straightforward. Any CJKV speaker （中日韓越話者） should be able to look at a text （文章） in Dan’a’yo and visually recognize （視認） or aurally recognize （聴取） more than half of its content. With only a little training （短期学習） or the aid of a simple reference sheet （対照表）, comprehension （理解度） should increase rapidly （急速上昇）.
+
+## Brief Overview
+Dan'a'yo sounds somewhat like older Korean.  It is written in Shinjitai Chinese characters, with hangǔl above as the phonological alphabet.  Grammar is somewhere between Classical topic-comment, and modern Japanese/Korean forced into SVO word-order.
+
+In **Dan’a’yo**, expression is shaped by two organizing principles: **three modes of style** and **three meta-parts of speech**.
+
+**Modes.**
+1. **Classical / Poetic** — terse, topic–comment, copulas often omitted, written chiefly in kanji.
+2. **Literary / Formal** — explicit and conservative, requires copulas and nominalizers where needed, always written with kanji plus ruby.    
+3. **Modern / Online** — clipped and context-driven, often omitting particles, written primarily in hangul.
+
+**Meta-parts of speech.**
+
+1. **Content words (実詞)** — nouns, verbs, adjectives; any of these may serve as topic or comment.
+2. **Function words (助詞)** — case markers, connectives, pronouns, aspect/degree markers, sentence-final particles.
+3. **Special words (特詞)** — numerals, classifiers, determiners, interjections, ideophones; independent but never predicative.
