@@ -9,7 +9,7 @@
 
 ## New Parts of Speech
 
-## **実詞 (content words)** — can serve as topic or comment
+### **実詞 (content words)** — can serve as topic or comment
 
 - **実詞-名詞** → nouns (神, 人, 母親)    
 - **実詞-評詞** → eventive verbs,  transitive (創造, 捕, 行)  
@@ -17,21 +17,36 @@
 
 繋詞 is an overlapping category, where two stative (在 and 莫), and four are transitive (是, 非, 有, 無)
 
-## **助詞 (function words)** — cannot be topic or comment
+### **助詞 (function words)** — cannot be topic or comment
 
-- **助詞-関詞** → postpositions / case markers (於, 于, 與, 自)    
+- **助詞-関詞** → postpositions / case markers (於, 于, 由)    
 - **助詞-修飾語** → modifiers: adverbs, aspect, negation, degree (已, 未, 很, 不)    
 - **助詞-代詞** → pronouns, correlatives, demonstratives (此, 其, 誰, 何)    
-- **助詞-繋詞** → sentence-final particles (乎, 矣, 哉)    
+- **助詞-繋詞** → sentence-final particles (乎, 矣)    
 - **助詞-接詞** → conjunctions / connectives (而, 乃, 雖, 若)    
 
-## **特詞 (special words)** — independent, not predicative
+### **特詞 (special words)** — independent, not predicative
 
 - **特詞-数詞** → numerals (一, 二十, 三百)    
 - **特詞-量詞** → measure words / classifiers (個, 匹, 本, 杯)    
-- **特詞-限定詞** → determiners  (,)    
+- **特詞-限定詞** → determiners  (阿, 鳥, 虫, 服)    
 - **特詞-感詞** → interjections (哎, 唉, 嗚, おお, 아)    
-- **特詞-擬詞** → ideophones / sound-symbolics (轟轟, 滴滴, きらきら, 반짝반짝)
+- **特詞-擬詞** → ideophones / sound-symbolics (嘩, 轟轟, 滴滴, きらきら, 반짝반짝)
+
+## New Modes
+### Classical/Poetic
+- drop copulas, unless they're the only comment
+- compact because of syntax tradition
+- Usually kanji only, though there is a kanbun-like version with ruby
+
+### Literary 書面
+- explicit, correct, conservative
+- always both kanji and hangul ruby
+
+### Modern/Online
+- drops connectives or morphology because “speech is fast” and context disambiguates.
+- casual, clipped, context-driven
+- just hangul.  Rarely, just kanji
 
 ## AI
 ### **Front Matter / Introduction**
