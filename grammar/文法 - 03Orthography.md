@@ -90,3 +90,39 @@ Korean influence also guided certain choices （韓音所助）.  Many historica
 Occasionally, rare characters were selected solely for their sound value （以音取字）.  For example, 耽 is used to supply _dom_.  In some cases, inspiration came from unusual Vietnamese readings （越音異読）.  Thus 𦚖 provides the syllable _mop_, otherwise unattested.
 
 Through such measures, Dan’a’yo establishes a balanced and functional sound system （均衡而可用之音系）.
+
+## Shinjitai （新字体）
+**【形簡義存】 Form simplified, meaning preserved**
+
+Over the last century （近百年）, many reforms of Chinese characters （文字改革） have been proposed and implemented.  Mainland China （中国大陸） adopted the most radical simplifications （簡化）, and a further scheme was rescinded in 1986.  Because many such simplifications depend on Mandarin pronunciation （官話音）, they are not equally usable across nations （域内通用性に欠く）.  Some countries retained traditional forms unchanged （旧体不改）.  The Japanese system of **Shinjitai （新字体）** offers a moderate middle path （折衷之道） suitable for Dan’a’yo （単亜語）.
+
+### Exceptions （例外規定）
+- **龍 / 竜**  
+    Dan’a’yo writes **龍** in all contexts.  
+    The simplified **竜** is avoided for cross-regional clarity （容易混同亀）.    
+- **圓 / 円**  
+    The semantic term “circle” uses **圓**.  
+    The Shinjitai **円** is closely associated with currency （通貨） and is not used for the geometric sense.    
+- **弗部の整序**  
+    Dan’a’yo regularizes the 弗 component （弗部）: write **佛** not 仏, and **拂** not 払.    
+- **桌 / 卓**      These are distinguished to preserve **【毎字明意】**（一字一義）.    
+- **干 / 乾**      **干** “desiccate; interfere” and **乾** “heavenly; Qian-trigram” remain distinct.
+- **果 / 菓**  
+    These are **conflated** as in Chinese usage; **菓** is treated under **果**.
+- **貳 / 弍**  
+    Standard form is **貳**.  
+    **弍** is avoided due to proximity to **弌／弎**.
+- **缺 / 欠**  
+    These differ in both sound and meaning; they remain distinct.
+
+### Extended Shinjitai （拡張新字体）
+**【簡則一貫】 Simplification with consistency**
+
+Shinjitai in practice is not fully consistent （一貫を欠く）.  Dan’a’yo therefore applies **extended Shinjitai** where possible, seeking **component-wise consistency （部件一律）** without loss of meaning.
+
+Principles （簡化原則）:
+1. **Component parity （部件同処）**: when a component is simplified in one common character, comparable occurrences are simplified in parallel.    
+2. **Semantic stability （義位不乱）**: do not create homographs that violate **【毎字明意】** or compete with a common character （常用字）.    
+3. **Cross-regional legibility （域内可読）**: avoid forms that impede understanding outside Japan.    
+
+Illustrative contrasts: if **區 → 区** and **圖 → 図** are adopted, Dan’a’yo extends comparable component reductions where they do not endanger distinctness.  Conversely, extreme or purely graphic leaps that would break meaning or produce confusion are rejected.  In short, when simplification can be made **consistent, legible, and semantically safe**, Dan’a’yo adopts it; when any of these three are threatened, the traditional form is retained.
