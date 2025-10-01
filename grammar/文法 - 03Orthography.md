@@ -126,3 +126,24 @@ Principles （簡化原則）:
 3. **Cross-regional legibility （域内可読）**: avoid forms that impede understanding outside Japan.    
 
 Illustrative contrasts: if **區 → 区** and **圖 → 図** are adopted, Dan’a’yo extends comparable component reductions where they do not endanger distinctness.  Conversely, extreme or purely graphic leaps that would break meaning or produce confusion are rejected.  In short, when simplification can be made **consistent, legible, and semantically safe**, Dan’a’yo adopts it; when any of these three are threatened, the traditional form is retained.
+
+## Ruby （音訓標）
+**【字上示音】 Sound Shown Above the Character**
+
+In Dan’a’yo （単亜語）, each character （漢字） carries a ruby gloss （振仮名） above it.  The ruby is written in Hangŭl syllables （諺文字節）.  This shows the intended pronunciation （発音） directly.
+
+### Cardinal Vowels （母音）
+
+Ruby employs cardinal vowels （基準母音）.  Thus the glyph 어 represents /e/, unlike in Korean usage （韓語異義）.
+
+### Y Off-Glide （/j/介音）
+
+A vertical stroke （縦画） marks the _y_ off-glide.  Accordingly, 에 represents /ej/ and 애 represents /aj/.
+
+### W Off-Glide （/w/介音）
+
+Hangŭl does not natively support _au_, _ou_, or _uu_ codas （韻尾）.  Therefore Dan’a’yo uses the ᄉ-final glyph （終声ᄉ） as a provisional marker （仮符）.  This shape roughly resembles ᅮ, and serves as a stand-in （代用） until a better form is standardized.
+
+### Names and Sorting （字名与次序）
+
+For sorting by machine （機械配列）, the order of consonants （子音順） is:  ᄀ, ᄂ, ᄃ, ᄅ, ᄆ, ᄇ, ᄉ, ᄋ, ᄌ, ᄎ, ᄏ, ᄐ, ᄑ, ᄒ.  Consonants are named as _C + /a/_ （子＋/a/）.  Vowels are designated simply as _V_ （母音）.
