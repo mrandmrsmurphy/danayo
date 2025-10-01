@@ -29,3 +29,37 @@ In this mode, **subject–verb–object order dominates**. The older topic–com
 網語体 also pushes **pro-drop to the limit**: pronouns, topics, and even objects are omitted whenever recoverable from context. A single verb or adjective can carry an entire utterance, especially in fast back-and-forth exchanges.
 
 Thus 網語体 is not careless but **context-driven**, relying on shared knowledge and situational cues. It represents Dan’a’yo as it lives in the immediacy of modern communication—**stripped, agile, and efficient**.
+
+### 書面体 (Literary Style)
+
+書面体 is the **standard and authoritative mode** of Dan’a’yo, designed for clarity, precision, and mutual intelligibility across the CJKV sphere. Where 古雅体 is compact and 網語体 is clipped, 書面体 is **fully explicit**. It preserves the elegance of the classical tradition while adapting it to the expectations of modern grammar.
+
+Key features include:
+
+1. **Copular constructions.** When both topic and comment are **名詞**, a copula (是/非) is required. E.g. _我 是魚_ “I am a fish.”
+    
+2. **Nominalization.** When **評詞 (verbs)** or **性詞 (statives)** serve as topics, they must be **nominalized** with -事 or -物. E.g. _保持事 平常_ “Maintaining is common.”
+    
+3. **Verbal completeness.** 評詞 are considered **incomplete without an object**; a transitive verb must show its argument. Ellipsis is far less tolerated here than in other modes.
+    
+4. **TAM marking.** Tense–aspect–mood suffixes such as -已 (perfective), -中 (progressive), and -将 (prospective) are not optional; they are **highly encouraged** and regularly employed.
+    
+5. **Adnominals.** Modifiers must attach with **之**, preserving the classical written convention. E.g. _走之馬_ “great person.”
+    
+6. **Case-marking.** Postpositions are required. Omitting 于, 於, 由, etc., is considered ungrammatical in this mode.
+    
+7. **Sentence-final particles.** All non-declarative sentences must end with a **sentence-final particle** (乎, 矣, 哉, etc.) to mark interrogation, exclamation, or modality.
+    
+8. **Adverbial placement.** Adverbs and adverbial phrases are typically placed **immediately before the verb**, in canonical East Asian fashion.
+    
+9. **Orthography.** Both **kanji and hangul ruby** are required whenever possible. This dual representation ensures accessibility and disambiguation across audiences.
+    
+10. **Determiners.** Names, technical terms, and obscure words must be followed by a **限定詞** in written texts to mark them clearly (阿, 鳥, 虫, 服, etc.).
+    
+
+In sum, 書面体 embodies **grammatical conservatism and explicitness**. It is the mode for scholarship, formal correspondence, and inter-CJKV communication. Where 古雅体 preserves concision and 網語体 embraces speed, 書面体 provides the **normative baseline**: the form every learner must master, and the register in which Dan’a’yo most fully expresses its dual inheritance.
+
+## Meta–Parts of Speech （語類之大別）
+
+The grammar of Dan’a’yo organizes all words into **three great classes** (_meta–parts of speech_). Each class has its own internal subcategories, which are treated in turn.
+
