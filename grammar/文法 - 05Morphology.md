@@ -8,9 +8,20 @@ Two principles flow from this maxim:
 2. **Revelation of structure （顯句之理）** — what is implicit in Classical Chinese or Vietnamese becomes explicit, while Japanese and Korean intuitions about particles are carried into a new SVO framework.    
 
 Thus **形助顯理** expresses the balance that defines Dan’a’yo morphology: seemingly minor affixes and particles act as **guides to structure**, ensuring that the language’s classical roots and modern functions remain transparent to all learners.
+
 ## Nominal Morphology （名詞形態）
 
-### Associative Plural suffix: -等
+### 等 — Associative Plural （等・連体複数）
+Most Asian languages （東亜諸語） do not indicate **grammatical number** （文法的数）. The suffix **等** is not a simple plural marker （単純複数標識）, indicating merely “more than one.” Instead, it functions as an **associative plural** （連体複数）, showing that the main object named by the noun phrase （名詞句主項） is expanded to include others associated with it （連帯対象）.
+
+This usage is comparable to English expressions such as _et al._ or _etc._ （英語「et al」「etc」に相当）, rather than the ordinary plural ending _-(e)s_ （英語複数接尾辞）.
+
+In Dan’a’yo （単亜語）, there is not a separate class of **personal pronouns** （人称代名詞）, but two words take **等** in a special way.
+
+- **我** (“I, me”) + **等** → **我等** = “we” （我等 = 我々）    
+- **君** (“you (singular)”) + **等** → **君等** = “you (plural)” （君等 = 諸君）    
+
+These are the only true plural words （真正複数語） in Dan’a’yo, apart from **mass nouns** （集合名詞） which are inherently plural.
 
 ### Politeness suffix: -公
 
