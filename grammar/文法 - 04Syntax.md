@@ -169,13 +169,41 @@ Numerals express number and order (_一, 二十, 三百_). They combine producti
 - **Ordinals:** formed with 第 (_第一_ “first”).    
 
 #### 量詞 (Classifiers / Measure Words)
-Every counted noun requires a classifier, reflecting East Asian morphosyntax.
+ In Dan’a’yo, number is not usually specified. A bare noun phrase (NP) may refer to one or more items depending on context. When **explicit numerals** are required, they follow the NP, and must themselves be followed (without a space) by a **classifier (量詞)**, which categorizes the NP in order to express number.
 
-- Examples:
-    - **個** — general classifier.        
-    - **匹** — for animals.        
-    - **本** — for long, slender objects.        
-    - **杯** — for cups of liquid.        
+> **Rule:**  
+> NP + Numeral + Classifier
+
+Classifiers are a set of twelve words (see table below) which group nouns into semantic categories (people, animals, machines, books, etc.). A noun phrase with classifier is always **definite**.
+
+Examples
+1. **有 犬三匹。**    
+    - **Gloss:** have dog three-ANIMAL        
+    - **Meaning:** “(I) have three dogs.”        
+2. **肋骨六条 与 歯五個 被砕已。**    
+    - **Gloss:** rib six-LONG + tooth five-MISC passive-break already        
+    - **Meaning:** “Six ribs and five teeth were broken.”
+
+- In spoken style, the numeral + classifier is tightly bound, without pause.    
+- Different classifiers reflect the shape, animacy, or function of the noun:    
+    - **匹** (animals), **条** (long-thin), **冊** (books), **台** (machines), **杯** (cupfuls), etc.        
+- The “miscellaneous” classifier **個** may be used when the category is unclear.
+
+| Character | Class          | Examples                                |
+|-----------|---------------|-----------------------------------------|
+| 人        | people        | any person without reference to status   |
+| 名        | people (name) | deferential term for person              |
+| 台        | machines      | computers, cars, blenders, nanobots      |
+| 匹        | animals       | cat, elephants, mice, platypuses         |
+| 冊        | books         | books, magazines, newspapers, ezines     |
+| 杯        | cupfuls       | glass of water, shots of alcohol         |
+| 枚        | flat things   | pizza, paper, plywood                    |
+| 条        | long, thin    | pencils, noodles, fingers                |
+| 段        | time intervals| seconds, days, years                     |
+| 番        | times         | turns, happenings, repeats               |
+| 束        | bundles       | groups, bouquets, bales                  |
+| 個        | misc.         | anything else                            |
+   
 
 #### 限定詞 (Determiners)
 Determiners clarify **semantic domains** of nouns, especially proper names, rare words, and ambiguous references. They are required in **書面体** after names and technical terms.

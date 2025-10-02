@@ -1,4 +1,5 @@
 > [[単亜語之文法書 Grammar]]
+# 叙文
 ## Historical Background （歴史的背景）
 
 The languages of East Asia （東亜諸語） share a common cultural and linguistic foundation （文化的基盤・言語的基盤）. For many centuries the Civil Service Examination （科挙） defined literacy （識字） and scholarship （学問） throughout the region. It unified intellectual life around the grammar of Middle Chinese （中古漢語文法） and a fixed corpus of classical texts （古典文献）. In this way, the separate structures of four language families — Sino-Tibetan （漢蔵語族）, Japonic （日本語族）, Koreanic （朝鮮語族）, and Austroasiatic （오스트로亜細亜語族） — were set aside, as generations of scholars （学者） assimilated a shared written standard.
@@ -32,7 +33,7 @@ In this respect, Dan’a’yo is comparable to **Ecclesiastical Latin** （教�
 
 The design principle （設計指標） is straightforward. Any CJKV speaker （中日韓越話者） should be able to look at a text （文章） in Dan’a’yo and visually recognize （視認） or aurally recognize （聴取） more than half of its content. With only a little training （短期学習） or the aid of a simple reference sheet （対照表）, comprehension （理解度） should increase rapidly （急速上昇）.
 
-## Brief Overview
+## Brief Overview (概要)
 Dan'a'yo sounds somewhat like older Korean.  It is written in Shinjitai Chinese characters, with hangǔl above as the phonological alphabet.  Grammar is somewhere between Classical topic-comment, and modern Japanese/Korean forced into SVO word-order.
 
 In **Dan’a’yo**, expression is shaped by two organizing principles: **three modes of style** and **three meta-parts of speech**.

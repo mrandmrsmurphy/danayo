@@ -78,12 +78,11 @@ The suffix **–事** marks the **action itself** as an abstract event.
 - Example: **食事** “the act of eating, a meal.”
 - Example: **学習事** “the act of studying, study.”   
 
-#### Restrictions by Word Class （品詞制限）
+>[!Warning]
+> - **評詞** （eventive verbs） may take either **–物** or **–事**, since they can denote both results and actions.    
+>- **性詞** （statives/qualities） may only take **–事**, since they do not govern objects.
 
-- **評詞** （eventive verbs） may take either **–物** or **–事**, since they can denote both results and actions.    
-- **性詞** （statives/qualities） may only take **–事**, since they do not govern objects.
-
-#### Examples （例文）
+Examples:
 - **絵画物** = “a drawing” （the result of 絵画）    
 - **絵画事** = “the act of drawing”    
 - **大事** = “greatness, importance” （from 性詞 大）
