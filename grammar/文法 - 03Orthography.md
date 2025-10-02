@@ -1,16 +1,17 @@
-__文字法__
-> [[単亜語之文法書 Grammar]]
 
-The guiding maxim for Dan’a’yo orthography is **覧昭和決** (“Shōwa determines the look”). This recalls the orthographic reforms （正字改革） carried out in Japan during the Shōwa era （昭和時代, 1926–1989）, which produced the system of **Shinjitai** （新字体, “new character forms”）. These simplified characters （簡略字形） balanced readability （可読性） with continuity （継承性）, standing between Traditional Chinese characters （繁体字） and the far-reaching simplifications of Modern Chinese （簡体字）.
+< [[単亜語之文法書 Grammar]]
+>[!tip]
+> The guiding maxim for Dan’a’yo orthography is **覧昭和決** (“Shōwa determines the look”). This recalls the orthographic reforms （正字改革） carried out in Japan during the Shōwa era （昭和時代, 1926–1989）, which produced the system of **Shinjitai** （新字体, “new character forms”）. These simplified characters （簡略字形） balanced readability （可読性） with continuity （継承性）, standing between Traditional Chinese characters （繁体字） and the far-reaching simplifications of Modern Chinese （簡体字）.
+> 
+> By adopting Japanese-style simplifications （日本式簡字）, Dan’a’yo （単亜語） establishes a consistent visual standard （視覚標準） that is shared and accessible across the CJKV region （中日韓越地域）.
+>
+> The motto emphasizes two principles:
+> 1. **Japanese orthography as the compromise form** （日本正字折衷） — midway between traditional and simplified.    
+> 2. **Visual uniformity across the script** （文字視覚統一） — so that texts are recognizable to all readers （普遍可読）.    
+>
+>Thus **覧昭和決** stands as a Classical reminder that the authority for the _look_ of Dan’a’yo （字形権威） is derived from the Shōwa reforms.
 
-By adopting Japanese-style simplifications （日本式簡字）, Dan’a’yo （単亜語） establishes a consistent visual standard （視覚標準） that is shared and accessible across the CJKV region （中日韓越地域）.
-
-The motto emphasizes two principles:
-1. **Japanese orthography as the compromise form** （日本正字折衷） — midway between traditional and simplified.    
-2. **Visual uniformity across the script** （文字視覚統一） — so that texts are recognizable to all readers （普遍可読）.    
-
-Thus **覧昭和決** stands as a Classical reminder that the authority for the _look_ of Dan’a’yo （字形権威） is derived from the Shōwa reforms.
-
+# 文字法
 Dan’a’yo （単亜語） is written with Shinjitai （新字体） Chinese characters （漢字）.  Above each character appears a phonetic transcription （音訓標） in Korean letters （諺文）, set in the style of ruby glosses （振り仮名法）.  The pronunciation （発音） of each character is derived in regular fashion （規則的） from Middle Chinese （中古漢語）.  This derivation aims to stand at equal distance （均衡） from the modern pronunciations （近代諸音）, yet it shows a marked bias （偏重） toward Middle Korean （中古韓語）.  In principle, the character form （文字） and the alphabetic form （字母） hold equal weight （並立）.  Yet, within restrictive media （制約媒介）, one form may prevail （偏勝） over the other.
 
 ## Rubrics （文字規範）
@@ -29,7 +30,8 @@ These rubrics direct the writing system toward clarity （明晰） by multiplyi
 ## Levels of Characters （文字之階）
 More than fifty thousand Chinese characters （漢字五万餘字） have been recorded in history.  
 In Dan’a’yo （単亜語） these are divided into six categories （六類）:  common characters （常用字）, advanced characters （先進字）, naming characters （名字字）, forbidden characters （違法字）, variant characters （異体字）, and unclassified characters （無類字）.  Characters that fall outside national standards （国定標準） and official name lists （姓名表） are judged too rare （稀少） to categorize.  By this restriction, the practical inventory （実際字庫） of Dan’a’yo stands at slightly under four thousand characters （四千字未満）.
-### Figure 3.1: Dan’a’yo Character Score Points
+
+#### Figure 3.1: Dan’a’yo Character Score Points
 
 | 漢語等級 | Points | 教育等級 | Points | 特別用字 | Points | 韓国用字 | Points |
 |----------|--------|----------|--------|----------|--------|----------|--------|
@@ -148,7 +150,7 @@ Hangŭl does not natively support _au_, _ou_, or _uu_ codas （韻尾）.  There
 
 For sorting by machine （機械配列）, the order of consonants （子音順） is:  ᄀ, ᄂ, ᄃ, ᄅ, ᄆ, ᄇ, ᄉ, ᄋ, ᄌ, ᄎ, ᄏ, ᄐ, ᄑ, ᄒ.  Consonants are named as _C + /a/_ （子＋/a/）.  Vowels are designated simply as _V_ （母音）.
 
-## Note on Pingŭl （拼諺文）
+## Pingŭl （拼諺文）
 
 Dan’a’yo ruby is sufficient for native usage.  However, a complete scheme has also been devised to render every Mandarin syllable （漢語拼音音節） in Old Hangŭl （古諺文）.  This system is called **Pingŭl （拼諺文）**.  It demonstrates the adaptability of Hangŭl script beyond Korean, and provides a bridge between Dan’a’yo ruby and Chinese Pinyin.
 

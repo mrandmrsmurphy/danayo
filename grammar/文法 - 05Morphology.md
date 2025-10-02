@@ -1,13 +1,14 @@
-
-Morphology in Dan’a’yo consists of **prefixes, suffixes, postpositions, and reduplication** that alter the form or function of content words (実詞). These processes do not create new lexical roots but instead **mark grammatical roles, derive new syntactic functions, or adjust aspect and degree**. Unlike function words (助詞), which remain independent, morphological elements are **bound forms**: they attach to a host word or phrase.
-
-The guiding maxim for Dan’a’yo morphology is **形助顯理** (“Form helps reveal structure”). This motto highlights how bound forms — prefixes, suffixes, and postpositions — function as **helpers (助)** that make the underlying **principle (理)** of the sentence visible.
-
-Two principles flow from this maxim:
-1. **Aid through attachment （附形之助）** — small forms bind to content words to indicate case, aspect, modality, or relation, ensuring clarity across the sentence.    
-2. **Revelation of structure （顯句之理）** — what is implicit in Classical Chinese or Vietnamese becomes explicit, while Japanese and Korean intuitions about particles are carried into a new SVO framework.    
-
-Thus **形助顯理** expresses the balance that defines Dan’a’yo morphology: seemingly minor affixes and particles act as **guides to structure**, ensuring that the language’s classical roots and modern functions remain transparent to all learners.
+< [[単亜語之文法書 Grammar]]
+> [!tip]
+> Morphology in Dan’a’yo consists of **prefixes, suffixes, postpositions, and reduplication** that alter the form or function of content words (実詞). These processes do not create new lexical roots but instead **mark grammatical roles, derive new syntactic functions, or adjust aspect and degree**. Unlike function words (助詞), which remain independent, morphological elements are **bound forms**: they attach to a host word or phrase.
+>
+> The guiding maxim for Dan’a’yo morphology is **形助顯理** (“Form helps reveal structure”). This motto highlights how bound forms — prefixes, suffixes, and postpositions — function as **helpers (助)** that make the underlying **principle (理)** of the sentence visible.
+> 
+> Two principles flow from this maxim:
+> 1. **Aid through attachment （附形之助）** — small forms bind to content words to indicate case, aspect, modality, or relation, ensuring clarity across the sentence.    
+> 2. **Revelation of structure （顯句之理）** — what is implicit in Classical Chinese or Vietnamese becomes explicit, while Japanese and Korean intuitions about particles are carried into a new SVO framework.    
+>
+>Thus **形助顯理** expresses the balance that defines Dan’a’yo morphology: seemingly minor affixes and particles act as **guides to structure**, ensuring that the language’s classical roots and modern functions remain transparent to all learners.
 
 ## Nominal Morphology （名詞形態）
 
@@ -45,8 +46,6 @@ Dan’a’yo has three **restrictive suffixes** （制限接尾辞）:
 - **就** “just / merely”    
 
 These suffixes attach directly to **noun phrases** （名詞句）. Importantly, they do **not transform the NP into an adverb** （副詞化しない）. The phrase remains a subject or topic （主題・主語） of the sentence, while carrying the restrictive meaning.
-
-#### Examples （例文）
 
 1. **丈 “only”**
 - 連傑丈 市場於 購買。  
@@ -157,7 +156,6 @@ The verbal prefix **被–** marks the **passive voice** （受動態）.
 - It may only attach to **評詞** （評価詞, transitive verbs）.    
 - The former subject （旧主語） may be reintroduced with an adverbial phrase marked by **–以** （以副詞句）.
 
-#### Examples （例文）
 - **我 被打撃。**  
     _“I was struck.”_    
 - **和也 被食。**  
@@ -173,7 +171,7 @@ The particle **之** （属格詞） is used in Dan’a’yo to link **modifying
 #### Basic Pattern （基本構造）
 ** (Clause + 之) + Noun**  
 → “the Noun which (Clause)”
-#### Examples （例文）
+
 1. **捕已魚之男人 此処於 在。**  
     _“The man who had caught the fish is here.”_    
     - Clause: 捕已魚 “caught the fish”        
@@ -218,7 +216,51 @@ The particle **之** （属格詞） is used in Dan’a’yo to link **modifying
 
 ### Other adverbial postpositions: -由 “from,” -至 “until,” -似 “like”
 
-## Reduplication （畳語法）
+## Reduplication （重畳語法）
+Reduplication is a productive process in Dan’a’yo where a character (字) or word (詞) is repeated to express a special nuance of meaning. This matches patterns seen across Chinese (漢語), Japanese (日本語), Korean (韓國語), and Vietnamese (越南語), but with its own distinct logic.
+
+### 1. Full vs. Partial Reduplication
+- If a **single character (單字)** is an independent word, reduplication simply repeats the character:    
+    - 山山 = “cute little mountain range” (diminutive).        
+- If a **character requires a compound (合成詞)** to make sense, then only the **main character** is reduplicated:    
+    - 停止 → 停停止 = “to keep halting.”        
+- If a word always requires **two (or more) characters of equal weight**, the **whole word** is reduplicated:    
+    - 女児 → 女児女児 = “little daughter” (diminutive).        
+- Some lexical items are already inherently doubled (e.g. 人人 “everyone”). These cannot reduplicate again; periphrasis (迂言) must be used instead.
+
+### 2. 名詞 (Nouns)
+- **Reduplicating nouns** creates a **diminutive (小辭)**.    
+- Often used in kinship or intimate terms.    
+- Examples:    
+    - 弟弟 = “little brother” (弟 “younger brother”).        
+    - 母母 = “mommy” (母 “mother”).        
+    - 女児女児 = “little daughter” (since 女児 is inseparable).        
+
+>[!Warning]
+>Reduplicating **respectful terms** may sound childish or disrespectful! For example:
+> - 兄兄 = “little big brother” — a younger sibling using this may earn a few bruises.
+
+### 3. 評詞 (Transitives / Eventives)
+- **Reduplicating transitive verbs** expresses **repetitive or habitual action (常行動)**.    
+- Because Dan’a’yo tense-aspect is relative, reduplication alone is ambiguous. Usually an **adverb (副詞)** clarifies.   
+
+Examples:
+- 咬咬 = “(he) bites and bites,” “(he) keeps biting.”    
+- 走走 = “to run about repeatedly.”    
+- 敲敲 = “to knock again and again.”
+
+Interpretation depends on context: past habitual, present iterative, or future expected.
+
+### 4. 性詞 (Statives/Adjectives)
+- **Reduplicating adjectives** indicates **maximum degree / emotional superlative (最極)**.   
+- This is stronger than 第一 or 最 — it carries an **expressive, often humorous exaggeration**.
+
+Examples:
+- 白白 = “as white as possible” (extremely white).    
+- 正正 = “utterly correct!”    
+- 小小 = “so tiny!”    
+
+In speech, this often conveys the **speaker’s reaction or feeling**.
 
 ## 等級法 (Degrees of Comparison)
 In Dan’a’yo, adjectives and stative verbs do not inflect for degree. Instead, degree is expressed analytically, through particles and adverbs. This structure parallels the practice of CJKV languages, but with Dan’a’yo’s distinctive SVO order and preference for postpositions.

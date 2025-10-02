@@ -1,13 +1,15 @@
-> [[単亜語之文法書 Grammar]]
+< [[単亜語之文法書 Grammar]]
+>[!tip]
+> The guiding maxim for Dan’a’yo syntax is **文言現代** (“Classical and Contemporary”). This motto highlights the dual inheritance （二重伝統） of Dan’a’yo: the **paratactic structure of Classical Chinese** （文言句法, Classical syntax） and the **SVO grammar of modern East Asian languages** （現代語文法, 主語–動詞–目的語構造）.
+>
+>The motto emphasizes two principles:
+>
+>1. **Continuity with the classical written standard** （文言承継） — preserving topic–comment structure （主題–述部構造） and concision （簡潔性）.    
+>2. **Adaptation to modern speech** （現代適応） — requiring verbs in every clause （述語必須） and maintaining subject–verb–object order （SVO語順）.    
+>
+>Thus **文言現代** expresses the balance （均衡） that defines Dan’a’yo syntax （単亜語句法）: rooted in the authority of the classical tradition, yet usable in the context of modern communication.
 
-The guiding maxim for Dan’a’yo syntax is **文言現代** (“Classical and Contemporary”). This motto highlights the dual inheritance （二重伝統） of Dan’a’yo: the **paratactic structure of Classical Chinese** （文言句法, Classical syntax） and the **SVO grammar of modern East Asian languages** （現代語文法, 主語–動詞–目的語構造）.
-
-The motto emphasizes two principles:
-
-1. **Continuity with the classical written standard** （文言承継） — preserving topic–comment structure （主題–述部構造） and concision （簡潔性）.    
-2. **Adaptation to modern speech** （現代適応） — requiring verbs in every clause （述語必須） and maintaining subject–verb–object order （SVO語順）.    
-
-Thus **文言現代** expresses the balance （均衡） that defines Dan’a’yo syntax （単亜語句法）: rooted in the authority of the classical tradition, yet usable in the context of modern communication.
+# 構文論
 
 ## Modes of Syntax **句法之式**
 Dan'a'yo has significantly different grammars for its three different modes of usage.  They roughly correspond to poetry, online, and norma.
@@ -63,17 +65,17 @@ In sum, 書面体 embodies **grammatical conservatism and explicitness**. It is 
 
 The grammar of Dan’a’yo organizes all words into **three great classes** (_meta–parts of speech_). Each class has its own internal subcategories, which are treated in turn.
 
-## 実詞 (Content Words)
+### 実詞 (Content Words)
 Content words are the **core vocabulary of Dan’a’yo**. They name entities, describe states, and express events. Unlike function words (助詞) or special words (特詞), any 実詞 can serve as either **topic** or **comment** in a clause. Four major subtypes are recognized: 名詞, 評詞, 性詞, and 繋詞.
 
-### 名詞 (Nouns)
+#### 名詞 (Nouns)
 Nouns refer to persons, things, and concepts (_神, 人, 母親_).
 
 - In **書面体 (Literary mode)**, a noun cannot serve as the **comment** by itself when paired with another noun; it requires a **copula**.    
     - _我 是魚_ — “I am a fish.”        
 - Otherwise, nouns may freely serve as **topics** without further marking.
 
-### 評詞 (Eventives)
+#### 評詞 (Eventives)
 Eventives are **transitive verbs** (_創造, 捕, 行_), denoting actions or processes.
 
 - A 評詞 requires **both subject and object**. It is incomplete without its complement.    
@@ -86,7 +88,7 @@ Eventives are **transitive verbs** (_創造, 捕, 行_), denoting actions or pro
 - To serve as **topic**, 評詞 must be **nominalized** with -事 or -物:    
     - _創造事 艱難_ — “Creation is difficult.”
 
-### 性詞 (Statives)
+#### 性詞 (Statives)
 Statives are **qualities or intransitives** (_白, 大, 暴怒_). They bridge the categories of adjective and verb.
 
 - Like adjectives, 性詞 may **modify nouns directly** without 之:    
@@ -96,7 +98,7 @@ Statives are **qualities or intransitives** (_白, 大, 暴怒_). They bridge th
 - To serve as **topic**, statives require the suffix -物:    
     - _高物 難測_ — “Height is difficult to measure.”
 
-### 繋詞 (Copulas and Existentials)
+#### 繋詞 (Copulas and Existentials)
 繋詞 form a small but crucial class that overlaps noun, verb, and function.
 
 - **Transitive copulas**: 是, 非, 有, 無.    
@@ -105,10 +107,10 @@ Statives are **qualities or intransitives** (_白, 大, 暴怒_). They bridge th
     - They indicate existence or location (_人在於地_), or negation (_莫能為_).        
 - Because of their hybrid function, 繋詞 are classified under 実詞 but behave like **grammatical pivots** in syntax.
 
-## 助詞 (Function Words)
+### 助詞 (Function Words)
 Function words are the **grammatical operators** of Dan’a’yo. They cannot themselves serve as **topic** or **comment**, but they bind, modify, or frame the content words (実詞). Most are short, frequent, and either suffixing or prefixing depending on type.
 
-### 関詞 (Case Markers / Postpositions)
+#### 関詞 (Case Markers / Postpositions)
 関詞 are modeled on Japanese and Korean postpositions. They attach after nouns or noun phrases to mark their **syntactic role**.
 
 - Almost all 関詞 are **suffixing**.    
@@ -119,7 +121,7 @@ Function words are the **grammatical operators** of Dan’a’yo. They cannot th
     - **且** — additive “also” (_我且行_ “I also go”)        
     - **就** — delimitative “just, precisely” (_此就道_ “this is just the way”)        
 
-### 修飾語 (Modifiers)
+#### 修飾語 (Modifiers)
 修飾語 include **prefixing particles** that alter, restrict, or frame the meaning of content words. They can express deixis, negation, potentiality, or degree.
 
 - Most 修飾語 are **prefixes**.    
@@ -130,7 +132,7 @@ Function words are the **grammatical operators** of Dan’a’yo. They cannot th
     - **未** — negative perfective (_未行_ “has not gone yet”)        
     - **此 / 其 / 彼** — proximal, medial, distal deixis.        
 
-### 代詞 (Pronouns)
+#### 代詞 (Pronouns)
 代詞 stand in for other nouns or noun phrases, and include persons, demonstratives, and correlatives. They are not inflected but follow a regular correlative system.
 
 - Examples:    
@@ -140,7 +142,7 @@ Function words are the **grammatical operators** of Dan’a’yo. They cannot th
     - **何** — interrogative “what.”        
     - **此, 其, 彼** — demonstratives (also used deictically as 修飾語).        
 
-### 繋詞 (Sentence-final Particles)
+#### 繋詞 (Sentence-final Particles)
 繋詞 here are distinct from the copular 実詞. They occur at the end of a clause and mark **mood, modality, or emotion**.
 
 - Examples:    
@@ -148,7 +150,7 @@ Function words are the **grammatical operators** of Dan’a’yo. They cannot th
     - **矣** — perfective or emphatic (_已行矣_ “He has indeed gone.”)        
     - **哉** — exclamative (_大哉!_ “How great!”)        
 
-### 接詞 (Conjunctions)
+#### 接詞 (Conjunctions)
 接詞 link clauses, phrases, or even whole texts. They are frequent and indispensable in extended discourse.
 
 - Examples:    
@@ -157,16 +159,16 @@ Function words are the **grammatical operators** of Dan’a’yo. They cannot th
     - **雖** — concessive “although.”        
     - **若** — conditional “if.”
 
-## 特詞 (Special Words)
+### 特詞 (Special Words)
 特詞 are **independent forms** that play crucial roles in counting, classification, determination, and emotive expression, yet they are **never predicative**. Unlike 実詞, they cannot serve directly as topic or comment, and unlike 助詞, they do not operate on syntax. Instead, they stand apart as **auxiliary but indispensable elements** of discourse.
 
-### 数詞 (Numerals)
+#### 数詞 (Numerals)
 Numerals express number and order (_一, 二十, 三百_). They combine productively with classifiers (量詞) to form counting phrases.
 - **Cardinals:** 一, 二, 三…
 - **Tens, hundreds, thousands:** 十, 百, 千…    
 - **Ordinals:** formed with 第 (_第一_ “first”).    
 
-### 量詞 (Classifiers / Measure Words)
+#### 量詞 (Classifiers / Measure Words)
 Every counted noun requires a classifier, reflecting East Asian morphosyntax.
 
 - Examples:
@@ -175,7 +177,7 @@ Every counted noun requires a classifier, reflecting East Asian morphosyntax.
     - **本** — for long, slender objects.        
     - **杯** — for cups of liquid.        
 
-### 限定詞 (Determiners)
+#### 限定詞 (Determiners)
 Determiners clarify **semantic domains** of nouns, especially proper names, rare words, and ambiguous references. They are required in **書面体** after names and technical terms.
 
 - Examples:    
@@ -184,12 +186,12 @@ Determiners clarify **semantic domains** of nouns, especially proper names, rare
     - **虫** — insects         
     - **服** — clothing         
 
-### 感詞 (Interjections)
+#### 感詞 (Interjections)
 Emotive particles that stand alone as full utterances, expressing feeling or reaction.
 
 - Examples: **哎**, **唉**, **嗚**, **おお**, **아**.    
 
-### 擬詞 (Ideophones / Sound-symbolics)
+#### 擬詞 (Ideophones / Sound-symbolics)
 Express sound, manner, or sensory vividness, often reduplicated or stylized.
 
 - Examples:    
