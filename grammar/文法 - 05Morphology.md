@@ -104,3 +104,79 @@ These suffixes attach directly to **noun phrases** （名詞句）. Importantly,
 ### Other adverbial postpositions: -由 “from,” -至 “until,” -似 “like”
 
 ## Reduplication （畳語法）
+
+## 等級法 (Degrees of Comparison)
+In Dan’a’yo, adjectives and stative verbs do not inflect for degree. Instead, degree is expressed analytically, through particles and adverbs. This structure parallels the practice of CJKV languages, but with Dan’a’yo’s distinctive SVO order and preference for postpositions.
+
+### 1. **Equative (Equality)**
+- **如** is used to mark equative comparisons: “as … as.”
+    
+- Structure: **A  B如 Adj**    
+- Example:    
+    - 我 君如 高。        
+    - _I am as tall as you._
+        
+- Extended form with **同** may also appear for emphasis:
+    
+    - 我如君同高。
+        
+    - _I am the same height as you._
+        
+
+---
+
+### 2. **Comparative (Superiority/Inferiority)**
+
+- **比** marks the standard of comparison: “than.”
+    
+- Structure: **A B比 更 Adj**
+    
+- Example:
+    
+    - 我君比更好。
+        
+    - _I am better than you._
+        
+- The particle **更** “more” is optional but often appears for clarity.
+    
+- Inferiority can be expressed with **不如**:
+    
+    - 我不如君高。
+        
+    - _I am not as tall as you._ (= “less tall than you”)
+        
+
+---
+
+### 3. **Superlative (Greatest Degree)**
+
+- The universal marker is **第一** “the first, foremost,” paralleling literary Chinese and Japanese.
+    
+- Structure: **A 第一 Adj**
+    
+- Example:
+    
+    - 此山第一高。
+        
+    - _This mountain is the tallest._
+        
+
+---
+
+### 4. **Superlative of Inferiority (Least)**
+
+Dan’a’yo has no inherited Classical form for “least,” but several strategies are plausible:
+
+1. **以最不…** → “the most not…”
+    
+    - 他以最不智。
+        
+    - _He is the least wise._
+        
+2. **末一** (parallel to 第一, but “last, lowest”):
+    
+    - 此人末一強。
+        
+    - _This person is the least strong._
+        
+3. **第一少…** → “the foremost in smallness
