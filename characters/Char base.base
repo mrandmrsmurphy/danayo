@@ -28,6 +28,8 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: cantonese
+        direction: ASC
       - property: skip_number
         direction: ASC
       - property: file.basename
@@ -35,8 +37,6 @@ views:
       - property: stroke_count
         direction: DESC
       - property: danayo_id
-        direction: ASC
-      - property: cantonese
         direction: ASC
     columnSize:
       file.basename: 34
