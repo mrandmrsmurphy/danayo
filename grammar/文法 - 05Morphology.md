@@ -64,7 +64,30 @@ These suffixes attach directly to **noun phrases** （名詞句）. Importantly,
 - 医生就 市場於 食。  
     _“The doctor simply eats at the market.”_
 
-### Nominalizers: -物, -事
+### Nominalization (名詞化)
+**Verb phrases** （動詞句） in Dan’a’yo may be transformed into **noun phrases** （名詞句） through two nominalizing suffixes （名詞化接尾辞）:
+- **–物** “object, result” （対象・結果）    
+- **–事** “event, act” （行為・事象）  
+
+#### –物 （object/result）
+The suffix **–物** marks the **object or product** of an action.
+- Example: **食物** “that which is eaten, food, a meal.”    
+- Example: **創造物** “that which is created, a creation.”   
+
+#### –事 （event/action）
+The suffix **–事** marks the **action itself** as an abstract event.
+- Example: **食事** “the act of eating, a meal.”
+- Example: **学習事** “the act of studying, study.”   
+
+#### Restrictions by Word Class （品詞制限）
+
+- **評詞** （eventive verbs） may take either **–物** or **–事**, since they can denote both results and actions.    
+- **性詞** （statives/qualities） may only take **–事**, since they do not govern objects.
+
+#### Examples （例文）
+- **絵画物** = “a drawing” （the result of 絵画）    
+- **絵画事** = “the act of drawing”    
+- **大事** = “greatness, importance” （from 性詞 大）
 
 ## Verbal Morphology （動詞形態）
 
