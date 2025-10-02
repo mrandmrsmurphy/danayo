@@ -28,13 +28,18 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
-      - property: danayo_id
+      - property: skip_number
         direction: ASC
       - property: file.basename
+        direction: DESC
+      - property: stroke_count
+        direction: ASC
+      - property: danayo_id
         direction: ASC
       - property: cantonese
         direction: ASC
     columnSize:
+      file.basename: 34
       note.韓文: 35
       note.english: 125
       note.skip_number: 62
@@ -52,6 +57,6 @@ views:
       note.korean: 58
       note.korean_native: 57
       note.hanmun_edu_level: 52
+      note.vietnamese: 148
       note.middle_chinese_initial: 54
       note.middle_chinese_final: 50
-      note.vietnamese: 148
