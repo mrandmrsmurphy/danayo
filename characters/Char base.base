@@ -31,9 +31,9 @@ views:
       - property: skip_number
         direction: ASC
       - property: file.basename
-        direction: DESC
-      - property: stroke_count
         direction: ASC
+      - property: stroke_count
+        direction: DESC
       - property: danayo_id
         direction: ASC
       - property: cantonese
@@ -42,7 +42,7 @@ views:
       file.basename: 34
       note.韓文: 35
       note.english: 125
-      note.skip_number: 62
+      note.skip_number: 72
       note.radical: 41
       note.stroke_count: 63
       note.danayo_id: 61
