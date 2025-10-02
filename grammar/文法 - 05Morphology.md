@@ -126,7 +126,12 @@ Four of the six **copulas** （繋辞） may also function as verbal prefixes �
 - Prefixes derived from copulas indicate experiential and progressive aspect: **有/無–**, **在/莫–**.    
 - Combinations are permitted with fixed order （順序規則明示）.
 
-### Verbal prefixes: 可, 不, 可以
+### Negation （否定）
+
+Negation of the **verb phrase** （動詞句） — and therefore of the entire clause （全節） — is expressed with the verbal prefix **不–** （否定接頭辞）.
+
+- Example: **我 市場於 不行。**  
+    _“I do not go to the market.”_
 
 ### Passive prefix: 被-
 
