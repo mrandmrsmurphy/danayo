@@ -1,34 +1,34 @@
 ---
 mandarin:
-  - 'bā'
-cantonese: ''
+  - bā
+cantonese: ""
 korean:
-  - '팔'
-korean_native: ''
+  - 팔
+korean_native: ""
 japanese:
-  - 'HACHI'
-  - 'HATSU'
-japanese_nanori: ''
+  - HACHI
+  - HATSU
+japanese_nanori: ""
 vietnamese:
-  - 'bát'
-middle_chinese_initial: 'p'
-middle_chinese_final: 'ɣɛt'
-stroke_count: ''
-radical: '八'
-skip_number: '1-1-1'
+  - bát
+middle_chinese_initial: p
+middle_chinese_final: ɣɛt
+stroke_count: "2"
+radical: 八
+skip_number: 1-1-1
 grade_level: 1
-pos: ''
+pos: ""
 english:
-  - 'eight'
-  - '8'
-羅馬字: 'bad'
-韓文: '받'
-joyo_level: ''
-hsk_level: ''
-hanmun_edu_level: ''
+  - eight
+  - "8"
+羅馬字: bad
+韓文: 받
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 9
 mc_id: 142
-graphemic_classification: '指事'
+graphemic_classification: 指事
 stand_in: 八
 aliases:
 ---

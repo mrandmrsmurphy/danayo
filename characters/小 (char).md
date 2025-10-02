@@ -12,7 +12,7 @@ vietnamese:
   - tiểu
 middle_chinese_initial: s
 middle_chinese_final: iᴇu
-stroke_count: ""
+stroke_count: "3"
 radical: 小
 skip_number: 1-1-2
 grade_level: 1

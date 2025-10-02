@@ -1,0 +1,57 @@
+filters:
+  and:
+    - file.inFolder("characters")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.basename
+      - 韓文
+      - english
+      - skip_number
+      - radical
+      - stroke_count
+      - danayo_id
+      - grade_level
+      - graphemic_classification
+      - mandarin
+      - cantonese
+      - hsk_level
+      - japanese
+      - japanese_nanori
+      - joyo_level
+      - korean
+      - korean_native
+      - hanmun_edu_level
+      - vietnamese
+      - middle_chinese_initial
+      - middle_chinese_final
+      - mc_id
+    sort:
+      - property: danayo_id
+        direction: ASC
+      - property: file.basename
+        direction: ASC
+      - property: cantonese
+        direction: ASC
+    columnSize:
+      note.韓文: 35
+      note.english: 125
+      note.skip_number: 62
+      note.radical: 41
+      note.stroke_count: 63
+      note.danayo_id: 61
+      note.grade_level: 39
+      note.graphemic_classification: 52
+      note.mandarin: 71
+      note.cantonese: 65
+      note.hsk_level: 65
+      note.japanese: 178
+      note.japanese_nanori: 86
+      note.joyo_level: 58
+      note.korean: 58
+      note.korean_native: 57
+      note.hanmun_edu_level: 52
+      note.middle_chinese_initial: 54
+      note.middle_chinese_final: 50
+      note.vietnamese: 148
