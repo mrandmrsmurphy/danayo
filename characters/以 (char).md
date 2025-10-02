@@ -1,13 +1,13 @@
 ---
 mandarin:
   - yǐ
-cantonese: ""
+cantonese: ji5
 korean:
   - 이
-korean_native: ""
+korean_native: 써
 japanese:
   - I
-japanese_nanori: ""
+japanese_nanori: もち
 vietnamese:
   - dĩ
 middle_chinese_initial: j
@@ -16,15 +16,15 @@ stroke_count: "5"
 radical: 人
 skip_number: 1-2-3
 grade_level: 2
-pos: ""
+pos: postposition
 english:
   - by
   - using
 羅馬字: i
 韓文: 이
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "4"
+hsk_level: "2"
+hanmun_edu_level: 중
 danayo_id: 2008
 mc_id: 4
 graphemic_classification: 象形

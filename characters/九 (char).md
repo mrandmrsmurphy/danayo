@@ -1,14 +1,14 @@
 ---
 mandarin:
   - jiǔ
-cantonese: ""
+cantonese: gau2
 korean:
   - 구
-korean_native: ""
+korean_native: 아홉
 japanese:
   - KYUU
   - KU
-japanese_nanori: ""
+japanese_nanori: いちじく,いちのく ,この ,ひさし
 vietnamese:
   - cửu
 middle_chinese_initial: k
@@ -17,15 +17,15 @@ stroke_count: "2"
 radical: 乙
 skip_number: 4-2-4
 grade_level: 1
-pos: ""
+pos: numeral
 english:
   - nine
   - "9"
 羅馬字: kyu
 韓文: 큐
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 4
 mc_id: 125
 graphemic_classification: 象形

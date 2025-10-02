@@ -1,7 +1,7 @@
 ---
 mandarin:
   - èr
-cantonese: ""
+cantonese: ji6
 korean:
   - 이
 korean_native: ""

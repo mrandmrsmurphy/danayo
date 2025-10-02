@@ -1,30 +1,31 @@
 ---
 mandarin:
   - liù
-cantonese: ""
+cantonese: luk6
 korean:
   - 륙
 korean_native: ""
 japanese:
   - ROKU
   - RIKU
-japanese_nanori: ""
+japanese_nanori: く, むつ
 vietnamese:
+  -  lúc, lục, lóc, trọc, lộc, lụt
 middle_chinese_initial: l
 middle_chinese_final: ɨuk
 stroke_count: "4"
 radical: 八
 skip_number: 2-2-2
 grade_level: 1
-pos: ""
+pos: numeral
 english:
   - six
   - "6"
 羅馬字: lug
 韓文: 룩
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 중
 danayo_id: 49
 mc_id: 76
 graphemic_classification: 指事

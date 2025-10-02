@@ -43,7 +43,7 @@ views:
       - property: danayo_id
         direction: ASC
     columnSize:
-      file.basename: 34
+      file.basename: 64
       note.韓文: 35
       note.english: 125
       note.skip_number: 72

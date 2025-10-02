@@ -1,15 +1,15 @@
 ---
 mandarin:
   - rù
-cantonese: ""
+cantonese: jap6
 korean:
   - 입
-korean_native: ""
+korean_native: 들
 japanese:
   - NYUU
   - JU
   - JUU
-japanese_nanori: ""
+japanese_nanori: いり ,いる ,しほ ,なり
 vietnamese:
   - nhập
   - nhạp
@@ -21,14 +21,14 @@ stroke_count: "2"
 radical: 入
 skip_number: 4-2-4
 grade_level: 1
-pos: ""
+pos: verb
 english:
   - enter
 羅馬字: nib
 韓文: 닙
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "1"
+hsk_level: "2"
+hanmun_edu_level: 중
 danayo_id: 5
 mc_id: 96
 graphemic_classification: 象形
