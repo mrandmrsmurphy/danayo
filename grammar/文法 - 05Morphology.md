@@ -114,69 +114,26 @@ In Dan’a’yo, adjectives and stative verbs do not inflect for degree. Instead
 - Structure: **A  B如 Adj**    
 - Example:    
     - 我 君如 高。        
-    - _I am as tall as you._
-        
-- Extended form with **同** may also appear for emphasis:
-    
-    - 我如君同高。
-        
-    - _I am the same height as you._
-        
-
----
+    - _I am as tall as you._        
 
 ### 2. **Comparative (Superiority/Inferiority)**
-
-- **比** marks the standard of comparison: “than.”
-    
-- Structure: **A B比 更 Adj**
-    
-- Example:
-    
-    - 我君比更好。
-        
+- **比** marks the standard of comparison: “than.”    
+- Structure: **A B比 更 Adj**    
+- Example:    
+    - 我 君比 更好。    
     - _I am better than you._
-        
-- The particle **更** “more” is optional but often appears for clarity.
-    
-- Inferiority can be expressed with **不如**:
-    
-    - 我不如君高。
-        
-    - _I am not as tall as you._ (= “less tall than you”)
-        
-
----
+- The particle **更** “more” has a natural opposite in **少**
+- Example:
+	- 我之描 君之犬比 少大。
+	- _My cat is less big than your dog._
+- Technically, **更** is optional (**少** is not) in Classical/Poetic mode.
 
 ### 3. **Superlative (Greatest Degree)**
-
-- The universal marker is **第一** “the first, foremost,” paralleling literary Chinese and Japanese.
-    
-- Structure: **A 第一 Adj**
-    
-- Example:
-    
-    - 此山第一高。
-        
-    - _This mountain is the tallest._
-        
-
----
-
-### 4. **Superlative of Inferiority (Least)**
-
-Dan’a’yo has no inherited Classical form for “least,” but several strategies are plausible:
-
-1. **以最不…** → “the most not…”
-    
-    - 他以最不智。
-        
-    - _He is the least wise._
-        
-2. **末一** (parallel to 第一, but “last, lowest”):
-    
-    - 此人末一強。
-        
-    - _This person is the least strong._
-        
-3. **第一少…** → “the foremost in smallness
+- The universal marker is **第一** “the first, foremost,” paralleling literary Chinese, Korean and Japanese.    
+- Structure: **A 第一 Adj**    
+- Example:    
+    - 此山第一高。        
+    - _This mountain is the tallest._ 
+- **末一** is parallel to 第一, but “last, lowest”:    
+    - 此人末一強。        
+    - _This person is the least strong._      
