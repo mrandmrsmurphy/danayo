@@ -91,12 +91,40 @@ The suffix **–事** marks the **action itself** as an abstract event.
 
 ## Verbal Morphology （動詞形態）
 
-### TAM affixes: 
--已 (perfective), 
--中 (continuous), 
--将 (prospective),
-有/無- (experiential)   
-在/莫- (progressive)
+### TAM Affixes （時相接辞）
+
+Dan’a’yo verbal morphology （単亜語動詞形態） expresses **tense, aspect, and mood** （時制・相・法） through a small set of **affixes** （接辞）. The system is relative （相対時制）: when no affix is present （無標形）, the time reference remains underspecified （不定時制）.
+
+#### Suffixes （接尾辞）
+- **–已** （完了相 _perfective_）  
+    Marks an action completed prior to the frame of reference.    
+    - Example: **行已** “went, has gone.”        
+- **–中** （進行相 _continuous_）  
+    Marks an action ongoing or in progress.    
+    - Example: **行中** “is walking.”        
+- **–将** （将然相 _prospective/future_）  
+    Marks an action in the future, whether intentional, predictive, or irrealis.    
+    - Example: **行将** “will go, is about to go.”        
+
+**Ordering rule:** Because their definitions do not overlap （意味非重複）, **–中** and **–已** may co-occur. The required order is **中已** （先進行, 後完了）. If –将 appears, it is always closest to the verb （将在最内位）.
+
+#### Prefixes （接頭辞）
+Four of the six **copulas** （繋辞） may also function as verbal prefixes （動詞接頭辞）. Remember that copulas are the only verbs that supplete for negation （否定交替）.
+
+- **有– / 無–** （経験相 _experiential_）  
+    Indicates whether the subject has ever experienced the action.    
+    - Example: **我 羅馬都市於 無行已也!**  
+        _“I have not been to Rome!”_        
+- **在– / 莫–** （現進相 _progressive_）  
+    Indicates an action currently in progress.    
+    - Example: **我 在被食中哉!**  
+        _“OMG, I’m being eaten!”_
+
+#### Summary （要約）
+- TAM is marked by a small, regular set of affixes （規則的接辞体系）.    
+- Suffixes indicate aspect and tense: **已** (perfective), **中** (continuous), **将** (prospective).    
+- Prefixes derived from copulas indicate experiential and progressive aspect: **有/無–**, **在/莫–**.    
+- Combinations are permitted with fixed order （順序規則明示）.
 
 ### Verbal prefixes: 可, 不, 可以
 
