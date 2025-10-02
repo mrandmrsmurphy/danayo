@@ -166,8 +166,38 @@ The verbal prefix **被–** marks the **passive voice** （受動態）.
 
 ## Adnominal Morphology （連体形態）
 
-### Adnominal particle: 之 (relative/NP attachment)
+### Adnominals and the Particle 之 （連体修飾・之）
 
+The particle **之** （属格詞） is used in Dan’a’yo to link **modifying clauses** （連体節） to their head noun （被修飾名詞）. It functions as an **adnominal marker** （連体標識）. This is inherited from Classical Chinese （文言） but applied more systematically （規則化）.
+
+#### Basic Pattern （基本構造）
+** (Clause + 之) + Noun**  
+→ “the Noun which (Clause)”
+#### Examples （例文）
+1. **捕已魚之男人 此処於 在。**  
+    _“The man who had caught the fish is here.”_    
+    - Clause: 捕已魚 “caught the fish”        
+    - Head noun: 男人 “man”        
+    - 之 marks the clause as modifying 男人.        
+2. **男人捕已之魚 鮮美。**  
+    _“The fish which the man had caught was tasty.”_    
+    - Clause: 男人捕已 “the man caught”        
+    - Head noun: 魚 “fish”        
+    - 之 marks the clause as modifying 魚. 
+3. **我 憎悪 捕已魚之男人。**  
+    _“I hate the man who caught the fish.”_    
+    - Object: 捕已魚之男人 “the man who caught the fish.”        
+4. **我食 男人捕已之魚。**  
+    _“I am eating the fish the man had caught.”_    
+    - Object: 男人捕已之魚 “the fish which the man had caught.”        
+
+#### Commentary （解説）
+
+- In **Classical Chinese** （文言）, the particle 之 was often omitted if context allowed. Dan’a’yo requires it systematically （之常用）, to prevent ambiguity.    
+- The structure parallels **Japanese** (の/〜た + 名詞) and **Korean** (관형사형 어미 + 명사), but in Dan’a’yo the marker is **always 之**, regardless of tense or aspect.    
+- This makes Dan’a’yo adnominals simpler （簡潔） but also more rigid （硬直的） than J/K.    
+- In spoken Modern Dan’a’yo, **short noun–noun compounds** may drop 之 by analogy to texting style （省略）, but in careful Literary register it must appear.
+- 
 ### Counting phrases (numeral + classifier sequences)
 
 ## Adverbial Morphology （副詞形態）
