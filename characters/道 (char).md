@@ -1,7 +1,10 @@
 ---
 mandarin:
   - dào
-cantonese: ""
+cantonese: 
+  - dou6
+  - dou3
+  - dou6-2
 korean:
   - 도
 korean_native: ""

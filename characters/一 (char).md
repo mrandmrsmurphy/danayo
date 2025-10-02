@@ -24,7 +24,6 @@ mc_id: "28"
 graphemic_classification: 象形
 stand_in: 一
 jyutping:
-  - jat1
 ---
 
 > This is the character 一.  For the word 'one', please use [[一]]

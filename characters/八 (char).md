@@ -1,7 +1,7 @@
 ---
 mandarin:
   - bā
-cantonese: ""
+cantonese: baat3
 korean:
   - 팔
 korean_native: ""
@@ -17,7 +17,7 @@ stroke_count: "2"
 radical: 八
 skip_number: 1-1-1
 grade_level: 1
-pos: ""
+pos: numeral
 english:
   - eight
   - "8"
