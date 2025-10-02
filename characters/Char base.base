@@ -29,6 +29,8 @@ views:
       - mc_id
     sort:
       - property: cantonese
+        direction: DESC
+      - property: english
         direction: ASC
       - property: skip_number
         direction: ASC
