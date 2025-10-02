@@ -1,13 +1,13 @@
 ---
 mandarin:
   - xiǎo
-cantonese: ""
+cantonese: siu2
 korean:
   - 소
-korean_native: ""
+korean_native: 작을
 japanese:
   - SHOU
-japanese_nanori: ""
+japanese_nanori: いさら ,こう ,ささ ,さざ ,ちいさ ,ちひさ
 vietnamese:
   - tiểu
 middle_chinese_initial: s
@@ -16,14 +16,14 @@ stroke_count: "3"
 radical: 小
 skip_number: 1-1-2
 grade_level: 1
-pos: ""
+pos: adjective
 english:
   - small
 羅馬字: "\bso"
 韓文: 소
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 23
 mc_id: 140
 graphemic_classification: 指事
