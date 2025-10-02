@@ -133,7 +133,36 @@ Negation of the **verb phrase** （動詞句） — and therefore of the entire 
 - Example: **我 市場於 不行。**  
     _“I do not go to the market.”_
 
-### Passive prefix: 被-
+### Ability and Permission （能力・許可）
+
+The verbal prefix **可–** marks **ability or capacity** （能力・可能）. It may also co-occur with negation （否定併用）.
+
+**Classical theological example （神学例）:**
+- **我 可罪** → _posse peccare_     
+- **我 不可罪** → _posse non peccare_     
+- **我 可不罪** → _non posse peccare_     
+- **我 不可不罪** → _non posse non peccare_   
+
+#### Permission （許可）
+A similar form, the preposition **可以** （許可詞）, marks **permission**.
+
+- Example: **宴会於 可以行乎?**  
+    _“May I go to the banquet?”_
+
+
+### Passive Voice （受動態）
+
+The verbal prefix **被–** marks the **passive voice** （受動態）.
+
+- It may only attach to **評詞** （評価詞, transitive verbs）.    
+- The former subject （旧主語） may be reintroduced with an adverbial phrase marked by **–以** （以副詞句）.
+
+#### Examples （例文）
+- **我 被打撃。**  
+    _“I was struck.”_    
+- **和也 被食。**  
+    _“Kazuya was eaten.”_    
+- **熊猫 友以 被愛。**      _“The panda was loved by a friend.”_
 
 ## Adnominal Morphology （連体形態）
 
