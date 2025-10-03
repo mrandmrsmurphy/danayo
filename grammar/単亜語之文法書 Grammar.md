@@ -4,7 +4,8 @@
 4. [[/grammar/文法 - 04Syntax]]
 5. [[/grammar/文法 - 05Morphology]]
 6. [[/grammar/文法 - 06Pragmatics]]
-7. [[/grammar/文法 - 99Rime Tables]]
+7. [[/grammar/文法 - 98Forbidden Characters]]
+8. [[/grammar/文法 - 99Rime Tables]]
 
 
 ### **Pragmatics**

@@ -56,12 +56,12 @@ Advanced characters （先進字） are drawn from literary sources （文献）
 Naming characters （名字） are used in technical names （術名） of animals （禽獣）, places （地名）, persons （人名）, anatomical parts （身体名）, and related categories （諸類）.  They are not used in ordinary discourse （常談） except when referring to those exact things （指定事物）.  When first introduced in a text （初見）, a naming character should be followed by a determiner （定詞）. A character may be designated as naming （名字指定） but also appear in advanced words （先進語）.  In such cases, its classification shifts （転類） from one designation to the other （類移）.
 
 ### Forbidden Characters （違法字）
-**【[[異体不容]]】** - Every character has only one acceptable form. 
-
 Forbidden characters （違法字） are expressly disallowed （明禁） in Dan’a’yo （単亜語）.  
-They may belong exclusively to one nation （一国専用）.  They may also stand in direct competition （競合） with a common character （常用字）. This category, though unfortunate （不幸）, is necessary for the simplicity of the language （簡明之為）.  Every forbidden character in another country （他国用字） has a direct substitute （代用字） within Dan’a’yo.  A complete list （全表） is given in Appendix C （附録丙）.
+They may belong exclusively to one nation （一国専用）.  They may also stand in direct competition （競合） with a common character （常用字）. This category, though unfortunate （不幸）, is necessary for the simplicity of the language （簡明之為）.  Every forbidden character in another country （他国用字） has a direct substitute （代用字） within Dan’a’yo.  A complete list （全表） is given in [[文法 - 98Forbidden Characters]].
 
 ### Variant Characters （異体字）
+**【[[異体不容]]】** - Every character has only one acceptable form. 
+
 Nearly every Chinese character （漢字） has been written in multiple ways （多形） across nations （諸国） and across time （歴代）.  Such forms are called variant characters （異体字）.  Ideally, an input system （入力法） will recognize a variant when typed, and replace it with the standardized glyph （正体字）.
 
 This system sometimes produces striking results （奇観）.  Obscure characters that are homophones or near-homophones （同音字） of common characters （常用字） may be reclassified as variants （転属）.  This removes the statistical “long tail” （冗尾） of ultra-rare characters （稀字）.
