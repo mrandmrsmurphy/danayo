@@ -2,7 +2,7 @@
 > [!tip]
 > Morphology in Dan’a’yo consists of **prefixes, suffixes, postpositions, and reduplication** that alter the form or function of content words (実詞). These processes do not create new lexical roots but instead **mark grammatical roles, derive new syntactic functions, or adjust aspect and degree**. Unlike function words (助詞), which remain independent, morphological elements are **bound forms**: they attach to a host word or phrase.
 >
-> The guiding maxim for Dan’a’yo morphology is **形助顯理** (“Form helps reveal structure”). This motto highlights how bound forms — prefixes, suffixes, and postpositions — function as **helpers (助)** that make the underlying **principle (理)** of the sentence visible.
+> The guiding maxim for Dan’a’yo morphology is **【[[形助顯理]]】** (“Form helps reveal structure”). This motto highlights how bound forms — prefixes, suffixes, and postpositions — function as **helpers (助)** that make the underlying **principle (理)** of the sentence visible.
 > 
 > Two principles flow from this maxim:
 > 1. **Aid through attachment （附形之助）** — small forms bind to content words to indicate case, aspect, modality, or relation, ensuring clarity across the sentence.    
@@ -12,7 +12,7 @@
 
 ## Nominal Morphology （名詞形態）
 
-### 等 — Associative Plural （等・連体複数）
+### 等 — Associative Plural （連体複数）
 Most Asian languages （東亜諸語） do not indicate **grammatical number** （文法的数）. The suffix **等** is not a simple plural marker （単純複数標識）, indicating merely “more than one.” Instead, it functions as an **associative plural** （連体複数）, showing that the main object named by the noun phrase （名詞句主項） is expanded to include others associated with it （連帯対象）.
 
 This usage is comparable to English expressions such as _et al._ or _etc._ （英語「et al」「etc」に相当）, rather than the ordinary plural ending _-(e)s_ （英語複数接尾辞）.
@@ -24,7 +24,7 @@ In Dan’a’yo （単亜語）, there is not a separate class of **personal pro
 
 These are the only true plural words （真正複数語） in Dan’a’yo, apart from **mass nouns** （集合名詞） which are inherently plural.
 
-### 公 — Politeness Marker （公・敬語標識）
+### 公 — Politeness Marker （敬語標識）
 
 The suffix **公** attaches directly to **noun phrases** （名詞句） and adds a sense of **austerity and politeness** （厳粛・敬意）. Dan’a’yo （単亜語） does not preserve the complex politeness systems （敬語体系） of Japanese （日本語） or Korean （韓国語）. In general:
 
@@ -35,7 +35,8 @@ Certain titles （称号） require added formality, and **公** fulfills this r
 
 As in all cultures （普遍文化原則）, **formality stands in tension with intimacy** （丁寧と親密の対立）. Once a close relationship has been established （親密関係成立）, a return to politeness （丁寧再導入） is rude and distant （無礼・疎遠）.
 
-**Example:** At the start of a school year （学年初）, students would naturally call their teacher  **先生公**, since they do not yet have a personal bond （個人的関係未成立）. Later, when speaking of their own teacher among friends （友人間言及）, they would simply say **先生** — distinguishing “our teacher” from others, without the added formality （教師差別化・形式不要）.
+>[!info]
+> **Example:** At the start of a school year （学年初）, students would naturally call their teacher  **先生公**, since they do not yet have a personal bond （個人的関係未成立）. Later, when speaking of their own teacher among friends （友人間言及）, they would simply say **先生** — distinguishing “our teacher” from others, without the added formality （教師差別化・形式不要）.
 
 ### Restrictive Suffixes （制限接尾辞）
 
@@ -47,21 +48,22 @@ Dan’a’yo has three **restrictive suffixes** （制限接尾辞）:
 
 These suffixes attach directly to **noun phrases** （名詞句）. Importantly, they do **not transform the NP into an adverb** （副詞化しない）. The phrase remains a subject or topic （主題・主語） of the sentence, while carrying the restrictive meaning.
 
-1. **丈 “only”**
-- 連傑丈 市場於 購買。  
-    _“Only Jet buys at the market.”_    
-- 我之描丈 寺院於 睡眠。  
-    _“Only my cat sleeps at the temple.”_
-1. **且 “too, also”**
-- 医生且 市場於 販売。  
-    _“The doctor also sells (things) at the market.”_    
-- 我之描且 木曜日於 嬉遊。  
-    _“My cat also plays on Thursday.”_	
-1. **就 “just, merely”**
-- 連傑就 寺院於 閲読。  
-    _“Jet just reads at the temple.”_    
-- 医生就 市場於 食。  
-    _“The doctor simply eats at the market.”_
+>[!info]
+> 1. **丈 “only”**
+> - 連傑丈 市場於 購買。  
+ >   _“Only Jet buys at the market.”_    
+> - 我之描丈 寺院於 睡眠。  
+>    _“Only my cat sleeps at the temple.”_
+> 2. **且 “too, also”**
+> - 医生且 市場於 販売。  
+>    _“The doctor also sells (things) at the market.”_    
+> - 我之描且 木曜日於 嬉遊。  
+>    _“My cat also plays on Thursday.”_	
+> 3. **就 “just, merely”**
+> - 連傑就 寺院於 閲読。  
+>    _“Jet just reads at the temple.”_    
+>- 医生就 市場於 食。  
+>    _“The doctor simply eats at the market.”_
 
 ### Nominalization (名詞化)
 **Verb phrases** （動詞句） in Dan’a’yo may be transformed into **noun phrases** （名詞句） through two nominalizing suffixes （名詞化接尾辞）:
@@ -82,10 +84,11 @@ The suffix **–事** marks the **action itself** as an abstract event.
 > - **評詞** （eventive verbs） may take either **–物** or **–事**, since they can denote both results and actions.    
 >- **性詞** （statives/qualities） may only take **–事**, since they do not govern objects.
 
-Examples:
-- **絵画物** = “a drawing” （the result of 絵画）    
-- **絵画事** = “the act of drawing”    
-- **大事** = “greatness, importance” （from 性詞 大）
+>[!info]
+> Examples:
+>- **絵画物** = “a drawing” （the result of 絵画）    
+>- **絵画事** = “the act of drawing”    
+>- **大事** = “greatness, importance” （from 性詞 大）
 
 ## Verbal Morphology （動詞形態）
 
@@ -104,21 +107,23 @@ Dan’a’yo verbal morphology （単亜語動詞形態） expresses **tense, as
     Marks an action in the future, whether intentional, predictive, or irrealis.    
     - Example: **行将** “will go, is about to go.”        
 
-**Ordering rule:** Because their definitions do not overlap （意味非重複）, **–中** and **–已** may co-occur. The required order is **中已** （先進行, 後完了）. If –将 appears, it is always closest to the verb （将在最内位）.
+>[!warning]
+>**Ordering rule:** Because their definitions do not overlap （意味非重複）, **–中** and **–已** may co-occur. The required order is **中已** （先進行, 後完了）. If –将 appears, it is always closest to the verb （将在最内位）.
 
 #### Prefixes （接頭辞）
 Four of the six **copulas** （繋辞） may also function as verbal prefixes （動詞接頭辞）. Remember that copulas are the only verbs that supplete for negation （否定交替）.
 
-- **有– / 無–** （経験相 _experiential_）  
-    Indicates whether the subject has ever experienced the action.    
-    - Example: **我 羅馬都市於 無行已也!**  
-        _“I have not been to Rome!”_        
-- **在– / 莫–** （現進相 _progressive_）  
-    Indicates an action currently in progress.    
-    - Example: **我 在被食中哉!**  
-        _“OMG, I’m being eaten!”_
+>![info]
+>- **有– / 無–** （経験相 _experiential_）  
+>    Indicates whether the subject has ever experienced the action.    
+>    - Example: **我 羅馬都市於 無行已也!**  
+>        _“I have not been to Rome!”_        
+>- **在– / 莫–** （現進相 _progressive_）  
+>    Indicates an action currently in progress.    
+>    - Example: **我 在被食中哉!**  
+>        _“OMG, I’m being eaten!”_
 
-#### Summary （要約）
+In summary （要約）,
 - TAM is marked by a small, regular set of affixes （規則的接辞体系）.    
 - Suffixes indicate aspect and tense: **已** (perfective), **中** (continuous), **将** (prospective).    
 - Prefixes derived from copulas indicate experiential and progressive aspect: **有/無–**, **在/莫–**.    
@@ -128,24 +133,27 @@ Four of the six **copulas** （繋辞） may also function as verbal prefixes �
 
 Negation of the **verb phrase** （動詞句） — and therefore of the entire clause （全節） — is expressed with the verbal prefix **不–** （否定接頭辞）.
 
-- Example: **我 市場於 不行。**  
-    _“I do not go to the market.”_
+>[!info]
+>- Example: **我 市場於 不行。**  
+>    _“I do not go to the market.”_
 
 ### Ability and Permission （能力・許可）
 
 The verbal prefix **可–** marks **ability or capacity** （能力・可能）. It may also co-occur with negation （否定併用）.
 
-**Classical theological example （神学例）:**
-- **我 可罪** → _posse peccare_     
-- **我 不可罪** → _posse non peccare_     
-- **我 可不罪** → _non posse peccare_     
-- **我 不可不罪** → _non posse non peccare_   
+>[!info]
+>**Classical theological example （神学例）:**
+>- **我 可罪** → _posse peccare_     
+>- **我 不可罪** → _posse non peccare_     
+>- **我 可不罪** → _non posse peccare_     
+>- **我 不可不罪** → _non posse non peccare_   
 
 #### Permission （許可）
 A similar form, the preposition **可以** （許可詞）, marks **permission**.
 
-- Example: **宴会於 可以行乎?**  
-    _“May I go to the banquet?”_
+>[!info]
+>- Example: **宴会於 可以行乎?**  
+>    _“May I go to the banquet?”_
 
 
 ### Passive Voice （受動態）
@@ -155,20 +163,22 @@ The verbal prefix **被–** marks the **passive voice** （受動態）.
 - It may only attach to **評詞** （評価詞, transitive verbs）.    
 - The former subject （旧主語） may be reintroduced with an adverbial phrase marked by **–以** （以副詞句）.
 
-- **我 被打撃。**  
-    _“I was struck.”_    
-- **和也 被食。**  
-    _“Kazuya was eaten.”_    
-- **熊猫 友以 被愛。**      _“The panda was loved by a friend.”_
+>[!info]
+>- **我 被打撃。**  
+>    _“I was struck.”_    
+>- **和也 被食。**  
+>    _“Kazuya was eaten.”_    
+>- **熊猫 友以 被愛。**      
+>	_“The panda was loved by a friend.”_
 
 ## Adnominal Morphology （連体形態）
-The guiding maxim for adjectival and adverbial usage is **修飾先行** (“Modifiers come first”). This reflects a fundamental principle of Dan’a’yo grammar: **l modifiers precede the elements they qualify**.
-
-Two rules are made explicit:
-1. **Adnominals （連体修飾）** — adjectives and relative clauses must stand **before** their nouns. _走之馬_ “the running horse,” _大人_ “great person.”    
-2. **Adverbials （連用修飾）** — adverbs and adverbial phrases stand **immediately before** the verb. _已行_ “already went,” _於地行_ “go on the ground.”    
-
-Thus **修飾先行** ensures structural predictability: whether in nominal or verbal domains, modifiers guide the reader’s expectations before the head word appears.
+>[!tip] The guiding maxim for adjectival and adverbial usage is **【[[修飾先行]]】** (“Modifiers come first”). This reflects a fundamental principle of Dan’a’yo grammar: **l modifiers precede the elements they qualify**.
+>
+> Two rules are made explicit:
+>1. **Adnominals （連体修飾）** — adjectives and relative clauses must stand **before** their nouns. _走之馬_ “the running horse,” _大人_ “great person.”    
+>2. **Adverbials （連用修飾）** — adverbs and adverbial phrases stand **immediately before** the verb. _已行_ “already went,” _於地行_ “go on the ground.”    
+>
+> Thus **【修飾先行】** ensures structural predictability: whether in nominal or verbal domains, modifiers guide the reader’s expectations before the head word appears.
 
 ### Adnominals and the Particle 之 （連体修飾・之）
 
