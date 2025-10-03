@@ -1,4 +1,4 @@
-This is the list of kanji required in Japan
+This is the list of kanji required in Japanese grammar school
 ## Grade 1
 1. [[一 (char)|一]] : ichi (hito-tsu)    
 2. [[二 (char)|二]] : ni (futa-tsu)    
@@ -643,7 +643,536 @@ This is the list of kanji required in Japan
 638. [[達]] : tatsu (—)    
 639. [[器]] : ki (utsuwa)    
 640. [[類]] : rui (taga-i)
-
+## Grade 5
+641. [[圧]] : atsu (osa-eru)    
+642. [[移]] : i (utsu-ru, utsu-su)    
+643. [[因]] : in (yoshi)    
+644. [[永]] : ei (naga-i)    
+645. [[営]] : ei (itona-mu)    
+646. [[衛]] : ei (—)    
+647. [[易]] : i / eki (yasa-shii)    
+648. [[益]] : eki / yaku (masu)    
+649. [[液]] : eki (—)    
+650. [[演]] : en (—)    
+651. [[応]] : ō (kota-eru)    
+652. [[往]] : ō (—)    
+653. [[桜]] : ō (sakura)    
+654. [[可]] : ka (—)    
+655. [[仮]] : ka / ke (kari)    
+656. [[価]] : ka (atai)    
+657. [[河]] : ka (kawa)    
+658. [[過]] : ka (su-giru, ayama-chi)    
+659. [[快]] : kai (kokoro-yoi)    
+660. [[解]] : kai / ge (toku)    
+661. [[格]] : kaku (—)    
+662. [[確]] : kaku (tashi-ka, tashi-meru)    
+663. [[額]] : gaku (hitai)    
+664. [[刊]] : kan (—)    
+665. [[幹]] : kan (miki)    
+666. [[慣]] : kan (nare-ru, naru-su)    
+667. [[眼]] : gan / gen (manako)   
+668. [[基]] : ki (moto)    
+669. [[寄]] : ki (yo-ru, yo-seru)    
+670. [[規]] : ki (—)    
+671. [[喜]] : ki (yoroko-bu)    
+672. [[技]] : gi (waza)    
+673. [[義]] : gi (—)    
+674. [[逆]] : gyaku (saka, saka-rau)    
+675. [[久]] : kyū / ku (hisa-shii)    
+676. [[旧]] : kyū (furu-i)    
+677. [[救]] : kyū (suku-u)    
+678. [[居]] : kyo (i-ru)    
+679. [[許]] : kyo (yuru-su)    
+680. [[境]] : kyō / kei (sakai)    
+681. [[均]] : kin (—)    
+682. [[禁]] : kin (—)    
+683. [[句]] : ku (—)    
+684. [[型]] : kei (kata)    
+685. [[経]] : kei / kyō (he-ru)    
+686. [[潔]] : ketsu (isagiyo-i)    
+687. [[件]] : ken (kuda-nu)    
+688. [[険]] : ken (kewa-shii)    
+689. [[検]] : ken (shi-rau)    
+690. [[限]] : gen (kagi-ru)    
+691. [[現]] : gen (arawa-reru)    
+692. [[減]] : gen (he-ru, hera-su)    
+693. [[故]] : ko (yue)    
+694. [[個]] : ko (—)    
+695. [[護]] : go (mamo-ru)    
+696. [[効]] : kō (ki-ku)    
+697. [[厚]] : kō (atsu-i)    
+698. [[耕]] : kō (tagaya-su)    
+699. [[鉱]] : kō (—)    
+700. [[構]] : kō (kama-eru)    
+701. [[興]] : kō / kyō (oko-su, oko-ru)    
+702. [[講]] : kō (—)    
+703. [[告]] : koku (tsuge-ru)    
+704. [[混]] : kon (ma-jiru, ma-zaru, ma-zeru)    
+705. [[査]] : sa (—)    
+706. [[再]] : sai / sai (futata-bi)    
+707. [[災]] : sai (wazawa-i)    
+708. [[妻]] : sai (tsuma)    
+709. [[採]] : sai (to-ru)    
+710. [[際]] : sai (kiwa)    
+711. [[在]] : zai (a-ru)    
+712. [[財]] : zai / sai (takara)    
+713. [[罪]] : zai (tsumi)    
+714. [[雑]] : zatsu (—)    
+715. [[酸]] : san (sui)    
+716. [[賛]] : san (suke-mu)    
+717. [[支]] : shi (sasa-eru)    
+718. [[志]] : shi (kokoro-zashi)    
+719. [[枝]] : shi (eda)    
+720. [[師]] : shi (—)    
+721. [[資]] : shi (—)    
+722. [[飼]] : shi (ka-u)    
+723. [[示]] : ji / shi (shime-su)    
+724. [[似]] : ji (ni-ru)    
+725. [[識]] : shiki (—)    
+726. [[質]] : shitsu / shichi (shichi)    
+727. [[舎]] : sha (yado)    
+728. [[謝]] : sha (ayama-ru)    
+729. [[授]] : ju (sazu-keru, sazu-karu)    
+730. [[修]] : shū (osa-meru, osa-maru)    
+731. [[術]] : jutsu (sube)    
+732. [[準]] : jun (—)    
+733. [[序]] : jo (tsuide)    
+734. [[招]] : shō (mana-ku)    
+735. [[承]] : shō (uketa-mawau)    
+736. [[証]] : shō (akashi)    
+737. [[常]] : jō (tsune, toko)    
+738. [[情]] : jō (nasa-ke)    
+739. [[条]] : jō (—)    
+740. [[状]] : jō (—)    
+741. [[織]] : shoku / shiki (o-ru)    
+742. [[職]] : shoku (—)    
+743. [[制]] : sei (—)    
+744. [[性]] : sei / shō (saga)    
+745. [[政]] : sei (matsurigoto)    
+746. [[勢]] : sei (iko-i, ikio-u)    
+747. [[精]] : sei / shō (—)    
+748. [[製]] : sei (—)    
+749. [[税]] : zei (—)    
+750. [[責]] : seki (se-meru)    
+751. [[績]] : seki (—)    
+752. [[接]] : setsu (tsu-gu)    
+753. [[設]] : setsu (mō-keru)    
+754. [[絶]] : zetsu (ta-eru, ta-tsu)    
+755. [[祖]] : so (—)    
+756. [[素]] : so / su (moto)    
+757. [[総]] : sō (—)    
+758. [[造]] : zō (tsuku-ru)    
+759. [[像]] : zō (—)    
+760. [[増]] : zō (ma-su, fue-ru, fue-rasu)    
+761. [[則]] : soku (nori)    
+762. [[測]] : soku (haka-ru)    
+763. [[属]] : zoku (—)    
+764. [[率]] : ritsu / sotsu (hiki-iru)    
+765. [[損]] : son (soko-nau)    
+766. [[貸]] : tai (ka-su)    
+767. [[態]] : tai (wazuka)    
+768. [[団]] : dan / ton (—)    
+769. [[断]] : dan (ta-tsu, kotowa-ru)    
+770. [[築]] : chiku (kizu-ku)    
+771. [[貯]] : cho (ta-meru)    
+772. [[張]] : chō (ha-ru)    
+773. [[停]] : tei (to-meru)    
+774. [[提]] : tei (sasa-geru)    
+775. [[程]] : tei (hodo)    
+776. [[適]] : teki (—)    
+777. [[敵]] : teki (kataki)    
+778. [[統]] : tō (su-beru)    
+779. [[銅]] : dō (akagane)    
+780. [[導]] : dō (michi-biku)    
+781. [[得]] : toku (e-ru, u-ru)    
+782. [[毒]] : doku (—)    
+783. [[届]] : todo-ke, todo-ku    
+784. [[難]] : nan (muzuka-shii)    
+785. [[乳]] : nyū (chichi, chi)    
+786. [[認]] : nin (mito-meru)    
+787. [[納]] : nō / na (osa-meru, osa-maru)    
+788. [[脳]] : nō (—)    
+789. [[派]] : ha (—)    
+790. [[俳]] : hai (—)    
+791. [[版]] : han (—)    
+792. [[比]] : hi (kura-beru)    
+793. [[肥]] : hi (ko-eru, ko-yasu)    
+794. [[非]] : hi (ara-zu)    
+795. [[費]] : hi (tsui-yasu)    
+796. [[筆]] : hitsu (fude)    
+797. [[標]] : hyō (shirushi)    
+798. [[貧]] : hin / bin (mazu-shii)    
+799. [[婦]] : fu (yome)    
+800. [[富]] : fu / fū (tomi)    
+801. [[布]] : fu (nuno)    
+802. [[武]] : bu / mu (—)    
+803. [[復]] : fuku (mata)    
+804. [[複]] : fuku (—)    
+805. [[佛|仏]] : butsu / hotoke (—)    
+806. [[編]] : hen (a-mu)    
+807. [[弁]] : ben (waka-tsu, ben)    
+808. [[保]] : ho (tamo-tsu)    
+809. [[報]] : hō (muku-iru)    
+810. [[豊]] : hō (yuta-ka)    
+811. [[防]] : bō (fuse-gu)    
+812. [[貿]] : bō (—)    
+813. [[暴]] : bō (aba-reru, aba-ru)    
+814. [[脈]] : myaku (suji)    
+815. [[務]] : mu (tsuto-meru)    
+816. [[夢]] : mu (yume)    
+817. [[迷]] : mei (mayo-u)    
+818. [[綿]] : men (wata)    
+819. [[輸]] : yu (—)    
+820. [[余]] : yo (ama-ru, ama-su)    
+821. [[容]] : yō (i-reru)    
+822. [[率]] : ritsu / sotsu (hiki-iru)    
+823. [[略]] : ryaku (—)    
+824. [[令]] : rei (—)    
+825. [[例]] : rei (tato-eru)
+## Grade 6
+826. [[異]] : i (koto)    
+827. [[遺]] : i (noko-su, noko-ru)    
+828. [[域]] : iki (—)    
+829. [[宇]] : u (—)    
+830. [[映]] : ei (utsu-ru, utsu-su, hae-ru)    
+831. [[延]] : en (no-basu, no-biru)    
+832. [[沿]] : en (so-u)    
+833. [[我]] : ga (ware, wa)    
+834. [[灰]] : kai (hai)    
+835. [[革]] : kaku (kawa)    
+836. [[閣]] : kaku (—)    
+837. [[割]] : katsu (wa-ru, sa-ku)    
+838. [[株]] : kabu (—)    
+839. [[干]] : kan (ho-su, hi-ru)    
+840. [[巻]] : kan (maki, ma-ku)    
+841. [[看]] : kan (mi-ru)    
+842. [[簡]] : kan (—)    
+843. [[危]] : ki (abu-nai, aya-ui)    
+844. [[机]] : ki (tsukue)
+    
+845. [[揮]] : ki (furu-u)
+    
+846. [[貴]] : ki (tottoki, tattoi)
+    
+847. [[疑]] : gi (utaga-u)
+    
+848. [[吸]] : kyū (su-u)
+    
+849. [[供]] : kyō / ku (tomo, sona-eru)
+    
+850. [[胸]] : kyō (mune, muna)
+    
+851. [[郷]] : kyō / gō (sato)
+    
+852. [[勤]] : kin / gon (tsuto-meru, tsuto-maru)
+    
+853. [[筋]] : kin (suji)
+    
+854. [[系]] : kei (—)
+    
+855. [[敬]] : kei (uyama-u)
+    
+856. [[警]] : kei (—)
+    
+857. [[劇]] : geki (—)
+    
+858. [[激]] : geki (hage-shii)
+    
+859. [[穴]] : ketsu (ana)
+    
+860. [[絹]] : ken (kinu)
+    
+861. [[権]] : ken / gon (—)
+    
+862. [[憲]] : ken (—)
+    
+863. [[源]] : gen (minamoto)
+    
+864. [[厳]] : gen / gon (kibi-shii, ogo-so-ka)
+    
+865. [[己]] : ko / ki (onore)
+    
+866. [[呼]] : ko (yo-bu)
+    
+867. [[誤]] : go (ayama-ru)
+    
+868. [[后]] : kō (kisaki)
+    
+869. [[孝]] : kō (—)
+    
+870. [[皇]] : kō / ō (sumera)
+    
+871. [[紅]] : kō / ku (beni, kurenai)
+    
+872. [[降]] : kō (o-riru, fu-ru, o-rosu)
+    
+873. [[鋼]] : kō (hagane)
+    
+874. [[刻]] : koku (kiza-mu)
+    
+875. [[穀]] : koku (—)
+    
+876. [[骨]] : kotsu (hone)
+    
+877. [[困]] : kon (koma-ru)
+    
+878. [[砂]] : sa / sha (suna)
+    
+879. [[座]] : za (suwaru)
+    
+880. [[済]] : sai / zai (sumi, su-masu)
+    
+881. [[裁]] : sai (tatsu)
+    
+882. [[策]] : saku (—)
+    
+883. [[冊]] : satsu / saku (fumi)
+    
+884. [[蚕]] : san (kaiko)
+    
+885. [[至]] : shi (ita-ru)
+    
+886. [[私]] : shi (watakushi, watashi)
+    
+887. [[姿]] : shi (sugata)
+    
+888. [[視]] : shi (mi-ru)
+    
+889. [[詞]] : shi (kotoba)
+    
+890. [[誌]] : shi (—)
+    
+891. [[磁]] : ji (—)
+    
+892. [[射]] : sha (i-ru, sa-su, u-tsu)
+    
+893. [[捨]] : sha (su-teru)
+    
+894. [[授]] : ju (sazu-keru, sazu-karu)
+    
+895. [[修]] : shū / shu (osa-meru, osa-maru)
+    
+896. [[述]] : jutsu (no-beru)
+    
+897. [[術]] : jutsu (sube)
+    
+898. [[準]] : jun (—)
+    
+899. [[序]] : jo (tsuide)
+    
+900. [[将]] : shō (masa-ni)
+    
+901. [[承]] : shō (uketamawa-ru)
+    
+902. [[昇]] : shō (nobo-ru)
+    
+903. [[昭]] : shō (akira-ka)
+    
+904. [[晶]] : shō (—)
+    
+905. [[松]] : shō (matsu)
+    
+906. [[笑]] : shō (wara-u, e-mu)
+    
+907. [[唱]] : shō (tona-eru)
+    
+908. [[焼]] : shō (yaku, ya-keru)
+    
+909. [[象]] : shō / zō (kata)
+    
+910. [[賞]] : shō (hōbi)
+    
+911. [[臣]] : shin / jin (omi)
+    
+912. [[信]] : shin (shin-zuru)
+    
+913. [[成]] : sei / jō (na-ru, na-su)
+    
+914. [[省]] : sei / shō (habu-ku, kaeri-miru)
+    
+915. [[清]] : sei / shō (kiyo-raka, kiyoi)
+    
+916. [[静]] : sei / jō (shizu-ka, shizu-meru)
+    
+917. [[席]] : seki (—)
+    
+918. [[積]] : seki (tsu-mu, tsumo-ru)
+    
+919. [[折]] : setsu (o-ru, o-reru)
+    
+920. [[節]] : setsu / sechi (fushi)
+    
+921. [[説]] : setsu (to-ku)
+    
+922. [[浅]] : sen (asa-i)
+    
+923. [[戦]] : sen (ikusa, tataka-u)
+    
+924. [[選]] : sen (era-bu)
+    
+925. [[然]] : zen / nen (—)
+    
+926. [[争]] : sō (araso-u)
+    
+927. [[倉]] : sō (kura)
+    
+928. [[巣]] : sō (su)
+    
+929. [[束]] : soku (taba)
+    
+930. [[側]] : soku (kawa)
+    
+931. [[続]] : zoku (tsuzu-ku, tsuzu-keru)
+    
+932. [[卒]] : sotsu (—)
+    
+933. [[孫]] : son (mago)
+    
+934. [[帯]] : tai (obi, oba)
+    
+935. [[隊]] : tai (—)
+    
+936. [[達]] : tatsu (—)
+    
+937. [[単]] : tan (hitoe)
+    
+938. [[置]] : chi (o-ku)
+    
+939. [[仲]] : chū (naka)
+    
+940. [[沖]] : chū (oki)
+    
+941. [[兆]] : chō (kiza-shi)
+    
+942. [[低]] : tei (hiku-i)
+    
+943. [[底]] : tei (soko)
+    
+944. [[停]] : tei (to-meru)
+    
+945. [[的]] : teki (mato)
+    
+946. [[典]] : ten (—)
+    
+947. [[伝]] : den (tsuta-eru)
+    
+948. [[徒]] : to (—)
+    
+949. [[得]] : toku (e-ru, u-ru)
+    
+950. [[毒]] : doku (—)
+    
+951. [[熱]] : netsu (atsu-i)
+    
+952. [[念]] : nen (—)
+    
+953. [[敗]] : hai (yabu-reru)
+    
+954. [[梅]] : bai (ume)
+    
+955. [[博]] : haku (—)
+    
+956. [[飯]] : han (meshi)
+    
+957. [[費]] : hi (tsui-yasu, tsui-eru)
+    
+958. [[必]] : hitsu (kanara-zu)
+    
+959. [[票]] : hyō (—)
+    
+960. [[標]] : hyō (shirushi)
+    
+961. [[不]] : fu (—)
+    
+962. [[夫]] : fu / fū (otto)
+    
+963. [[付]] : fu (tsu-keru)
+    
+964. [[府]] : fu (—)
+    
+965. [[副]] : fuku (—)
+    
+966. [[粉]] : fun (kona, ko)
+    
+967. [[兵]] : hei / hyō (tsuwamono)
+    
+968. [[別]] : betsu (waka-reru)
+    
+969. [[辺]] : hen (ata-ri, be)
+    
+970. [[変]] : hen (ka-waru, ka-eru)
+    
+971. [[便]] : ben / bin (tayo-ri)
+    
+972. [[包]] : hō (tsutsu-mu)
+    
+973. [[法]] : hō (nori)
+    
+974. [[望]] : bō / mō (nozo-mu)
+    
+975. [[牧]] : boku (maki)
+    
+976. [[末]] : matsu / batsu (sue)
+    
+977. [[満]] : man (mi-chiru, mi-tasu)
+    
+978. [[未]] : mi (ima-da)
+    
+979. [[脈]] : myaku (suji)
+    
+980. [[民]] : min (tami)
+    
+981. [[無]] : mu / bu (na-i)
+    
+982. [[約]] : yaku (—)
+    
+983. [[勇]] : yū (isa-mu)
+    
+984. [[要]] : yō (i-ru)
+    
+985. [[養]] : yō (yashina-u)
+    
+986. [[浴]] : yoku (a-biru, a-biseru)
+    
+987. [[利]] : ri (ki-ku)
+    
+988. [[陸]] : riku (oka)
+    
+989. [[良]] : ryō (yo-i)
+    
+990. [[料]] : ryō (—)
+    
+991. [[量]] : ryō (haka-ru)
+    
+992. [[輪]] : rin (wa)
+    
+993. [[類]] : rui (taga-i)
+    
+994. [[令]] : rei (—)
+    
+995. [[冷]] : rei (tsume-tai, hi-eru, sa-meru)
+    
+996. [[例]] : rei (tato-eru)
+    
+997. [[連]] : ren (tsura-naru, tsura-neru)
+    
+998. [[老]] : rō (o-iru, furu)
+    
+999. [[労]] : rō (—)
+    
+1000. [[録]] : roku (—)
+    
+1001. [[論]] : ron (—)
+    
+1002. [[議]] : gi (—)
+    
+1003. [[識]] : shiki (—)
+    
+1004. [[護]] : go (mamo-ru)
+    
+1005. [[類]] : rui (taga-i)
+    
+1006. [[歴]] : reki (—)
 ```base
 version: 1
 views:
