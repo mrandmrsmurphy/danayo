@@ -28,6 +28,8 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: skip_number
+        direction: ASC
       - property: danayo_id
         direction: ASC
       - property: mandarin
@@ -35,8 +37,6 @@ views:
       - property: jyutping
         direction: ASC
       - property: cantonese
-        direction: ASC
-      - property: skip_number
         direction: ASC
       - property: file.basename
         direction: ASC
