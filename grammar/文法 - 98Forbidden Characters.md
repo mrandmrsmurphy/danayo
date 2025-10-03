@@ -1,9 +1,10 @@
+< [[単亜語之文法書 Grammar]]
 ## Master List
 Here is the master list of all forbidden characters (353):
 
 〆, 㐃, 㐇, 㐈, 㐉, 㐊, 㐋, 㐎, 㐏, 㐓, 㐘, 㐠, 㐢, 㒱, 㔔, 㔖, 㕾, 㖙, 㖯, 㖰, 㖱, 㖲, 㖳, 㗠, 㢱, 㣴, 㪲, 㪳, 㫇, 㫈, 㭐, 㳓, 㳲, 㵜, 㶂, 㶃, 㸴, 䆆, 䭏, 丆, 丢, 乄, 乊, 乤, 乥, 乧, 乬, 乭, 乯, 乲, 乷, 乺, 乻, 乼, 乽, 亇, 亪, 亽, 仒, 们, 你, 侤, 俧, 們, 倻, 傻=儍, 兯, 凧, 凩, 凪, 匁, 匂, 卪, 厁, 厠, 厼, 另, 叧, 吗, 吵, 吶, 呀, 呢, 咱, 哎, 哘, 唜, 唟, 啦, 喂, 喊, 喸, 嗎, 嗭, 嗯, 嘛, 嘴, 噺, 嚷, 囎, 圕, 圦, 圷, 圸, 垈, 垉, 垉, 垰, 垳, 塀, 塰, 墹, 壭, 夈, 夞, 夠, 夻, 奶, 她, 妛, 妳, 媤, 媸, 嬭, 嬶, 屶, 岾, 岾, 峅, 峠, 巪, 巬, 巭, 巼, 廤, 弖, 彁, 彔, 怺, 怾, 您, 慍, 懂, 扒, 扔, 找, 拆, 挖, 挧, 捗, 捡=撿, 掉, 搶=抢, 摔, 撕, 擋, 擠, 敾, 旀, 旕, 暃, 朩, 杁, 杢, 杣, 枠, 枡, 栊, 栍, 桛, 桝, 梺, 梻, 棵, 椙, 椛, 椣, 椥, 椦, 椧, 榁, 榊, 榌, 槞, 樫, 樰, 橳, 橴, 檪, 櫳, 櫷, 欌, 欕, 欟, 毟, 汢, 瀬, 烤, 熕, 燵, 爸, 狆, 獤, 瓧, 瓩, 瓰, 畑, 畓, 畩, 疼, 癪, 睜, 硲, 硴, 竍, 笹, 筷, 筺, 筽, 簓, 簗, 簱, 籏, 籡, 籾, 粁, 粂, 粭, 糎, 纃=緕, 罖, 膤, 膵, 艠, 苆, 莻, 萙, 蘒, 蘰, 虄, 蟎, 裃, 褝, 襅, 諚, 趁, 趟, 趴, 踢, 躮, 躲, 躵, 躾, 軈, 辷, 辻, 込, 迚, 迲, 逛, 遖, 釺, 錺, 錻, 鎹, 鎺, 鑓, 閖, 闏, 陦, 雫, 靹, 颪, 饂, 駲, 魞, 魸, 鮖, 鮗, 鮱, 鯥, 鯰, 鯱, 鯳, 鰘, 鰚, 鰯, 鰰, 鱛, 鱜, 鱩, 鱪, 鱫, 鱰, 鳰, 鴫, 鵆, 鵇, 鵤, 鶎, 鶫, 麼, 麿, 﨏, 﨓, 﨡, 﨤, 𠃗, 𠏹, 𡱖, 𣏒, 𣴘, 𤭯, 𥫤, 𦻙, 𨋳, 𨏍, 𨑕, 𨕫, 𨛗, 𨦈, 𨵱, 𨸶, 𩛰, 𩸕, 𪐷, 𪚲, 𪞄, 𪟧, 𪥽, 𪩣, 𪩩, 𪫧, 𪮇, 𪮷, 𪰪, 𪱻, 𪳤, 𪸉, 𫂲, 𫌷, 𫏮, 𫙕, 𫠍, 𫡤, 𬀧, 𬇐, 𬣐, 𬧬, 𭛝, 𮘁, 𰆊, 𱁬
 
-### Chinese
+## Chinese
 
 #### 奶
 - 別名: 嬭, 妳
@@ -465,7 +466,1352 @@ Here is the master list of all forbidden characters (353):
 
 ## Japanese
 
-### Korean
+#### 諚
+- 筆画: 15
+- Class: 国字
+- SKIP: 1/7/8
+- 部首: 言
+- Notes: "the lord's command" じょう, not used in modern times
+
+#### 靹
+- 筆画: 13
+- Class: 国字
+- SKIP: 1/9/4
+- 部首: 革
+- Notes: Archer's arm protector.  Poss same as 䪏
+
+#### 圸
+- 筆画: 6
+- Class: 国字
+- SKIP: 1/3/3
+- 部首: 土
+- Notes: Unknown, Japanese origin
+
+#### 汢
+- 筆画: 6
+- Class: 国字
+- SKIP: 1/3/3
+- 部首: 水
+- Notes: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric Buddhism.
+
+#### 匁
+- 筆画: 4
+- Class: 国字
+- SKIP: 4/4/4
+- 部首: 勹
+- Notes: A native Japanese unit of weight (momme).  It was a former Jōyō character, but since 2010, it is merely 日本人名用漢字.
+
+#### 匂
+- 筆画: 4
+- Class: 国字
+- SKIP: 3/2/2
+- 部首: 勹
+- Notes: A "new" Japanese character.  Dan'a'yo uses 味覚 for "smell".  This character was added to the 常用/高等 in 2010.
+
+#### 凧
+- 筆画: 5
+- Class: 国字
+- SKIP: 3/2/3
+- 部首: 几
+- Notes: Invented character in Japan for 'kite'.  We use 鳶 for the bird and 紙鳶 for the paper.  On the 日本人名用漢字.
+
+#### 凪
+- 筆画: 6
+- Class: 国字
+- SKIP: 3/2/4
+- 部首: 几
+- Notes: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
+
+#### 辻
+- 筆画: 6
+- Class: 国字
+- SKIP: 3/4/2
+- 部首: 辵
+- Notes: Replace with 十 or 汁.  On 日本人名用漢字.
+
+#### 岾
+- 筆画: 8
+- Class: 国字
+- SKIP: 1/3/5
+- 部首: 山
+- Notes: Both J and K invented this?!  On 敎育用基礎漢字/名.
+
+#### 朩
+- 筆画: 4
+- Class: 国字
+- SKIP: 4/3/3
+- 部首: 木
+- Notes: Origin of katakana ホ.
+
+#### 鮖
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/11/5
+- 部首: 魚
+- Notes: Japanese fluvial sculpin (Cottus pollux).  Use 杜父魚
+
+#### 竍
+- 筆画: 7
+- Class: 国字
+- SKIP: 1/5/2
+- 部首: 立
+- Notes: 'decaliter' --> 十升
+
+#### 鰯
+- 筆画: 21
+- Class: 国字
+- SKIP: 1/11/10
+- 部首: 魚
+- Notes: 'sardines'.  Use 沙丁魚 instead.  In the 日本人名用漢字.
+
+#### 鱛
+- 筆画: 23
+- Class: 国字
+- SKIP: 1/11/12
+- 部首: 魚
+- Notes: 'lizardfish'.  Use 狗母魚.
+
+#### 魞
+- 筆画: 13
+- Class: 国字
+- SKIP: 1/11/2
+- 部首: 魚
+- Notes: 'weir, trap'.  Use 漁具
+
+#### 鵤
+- 筆画: 18
+- Class: 国字
+- SKIP: 1/7/11
+- 部首: 角
+- Notes: 'grosbeak'. Use 斑鳩
+
+#### 𫠍
+- 筆画: 21
+- Class: 国字
+- SKIP: 1/11/?
+- 部首: 魚
+- Notes: 'Japanese needlefish'
+
+#### 屶
+- 筆画: 5
+- Class: 国字
+- SKIP: 2/3/2
+- 部首: 山
+- Notes: For the meaning, use 会.
+
+#### 乄
+- 筆画: 2
+- Class: 異体字
+- SKIP: 4/2/4
+- 部首: 丿
+- Notes: Variant of 〆, an ancient scribal mark for "closed"
+
+#### 〆
+- 筆画: 1
+- Class: 国字
+- SKIP: 4/1/4
+- 部首: 丿
+- Notes: Ancient scribal mark for "closed"
+
+#### 癪
+- 筆画: 21
+- Class: 国字
+- SKIP: 3/5/16
+- 部首: 疒
+- Notes: Originally 'menstrual cramps', then 'anger', then 'spasm'
+
+#### 𱁬
+- 筆画: 84
+- Class: 国字
+- SKIP: 2/6/76
+- 部首: 雨
+- Notes: Probably only ever a joke kanji!
+
+#### 妛
+- 筆画: 7
+- Class: 幽霊文字
+- SKIP: 2/3/7
+- 部首: 女
+- Notes: Misspelling of 𡚴.  Use 蚩 + 女
+
+#### 媸
+- 筆画: 13
+- Class: 異体字
+- SKIP: 1/3/10
+- 部首: 女
+- Notes: Use 蚩 + 女.
+
+#### 閖
+- 筆画: 12
+- Class: 国字
+- SKIP: 3/8/4
+- 部首: 門
+- Notes: Coined by Date Tsunamura when he was looking at the sea through the gate of Dainenji Temple in Sendai.
+
+#### 錺
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/8/8
+- 部首: 金
+- Notes: ornamental metal fixtures (esp. on furniture, temples, shrines, etc,.) 'kazari'
+
+#### 彁
+- 筆画: 13
+- Class: 幽霊文字
+- SKIP: 1/3/10
+- 部首: 弓
+- Notes: Likely to be an error of 彊
+
+#### 挧
+- 筆画: 9
+- Class: 幽霊文字
+- SKIP: 1/3/6
+- 部首: 手
+- Notes: Japanese horse chestnut
+
+#### 雫
+- 筆画: 11
+- Class: 国字
+- SKIP: 2/8/3
+- 部首: 雨
+- Notes: 'Raindrop'.  Appears only in the Longkan Shoujian. Use 滴 and/or 雨
+
+#### 込
+- 筆画: 5
+- Class: 国字
+- SKIP: 3/3/2
+- 部首: 辵
+- Notes: 'crowded'.  Appears on 常用漢字/高等.  For the sound, use 入, for the meaning 複雜.
+
+#### 圷
+- 筆画: 6
+- Class: 国字
+- SKIP: 1/3/3
+- 部首: 土
+- Notes: 'low lands'.  For the sound, use 下.  For the meaning, use 低地.
+
+#### 鳰
+- 筆画: 13
+- Class: 国字
+- SKIP: 1/2/11
+- 部首: 鳥
+- Notes: 'grebe'.  Use 鸊鷉 or 浮巣鳥 or 息長鳥?
+
+#### 裃
+- 筆画: 12
+- Class: 国字
+- SKIP: 1/5/6
+- 部首: 衣
+- Notes: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.
+
+#### 塰
+- 筆画: 13
+- Class: 国字
+- SKIP: 2/10/3
+- 部首: 土
+- Notes: title of a Noh play
+
+#### 𭛝
+- 筆画: 6
+- Class: ゲバ字
+- SKIP: 1/3/3
+- 部首: 彳
+- Notes: Used for 衛.  [U2d6dd.svg|14]
+
+#### 𪮇
+- 筆画: 11
+- Class: 国字
+- SKIP: 1/3/8
+- 部首: 手
+- Notes: 扌+包+口.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan. [U2ab87.svg|14]
+
+#### 暃
+- 筆画: 12
+- Class: 幽霊文字
+- SKIP: 2/4/8
+- 部首: 日
+- Notes: "the color of the sun"
+
+#### 𪮷
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/3/13
+- 部首: 手
+- Notes: 扌+合+辛.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan. [File:U2abb7.svg|14]
+
+#### 𫂲
+- 筆画: 8
+- Class: 国字
+- SKIP: 2/2/6
+- 部首: 米
+- Notes: 乃+米.   もみがら momigara, rice chaff
+
+#### 杁
+- 筆画: 6
+- Class: 国字
+- SKIP: 1/4/2
+- 部首: 木
+- Notes: Only used for place names in Aichi prefecture, such as 杁中 (Irinaka). The original meaning is a gutter buried in an embankment to adjust the amount of water.
+
+#### 杣
+- 筆画: 7
+- Class: 国字
+- SKIP: 1/4/3
+- 部首: 木
+- Notes: 'lumberjack' Use 樵夫.
+
+#### 魸
+- 筆画: 15
+- Class: 国字
+- SKIP: 1/11/4
+- 部首: 魚
+- Notes: Amur catfish (Silurus asotus). なまず (namazu).  Use 鮎
+
+#### 椦
+- 筆画: 12
+- Class: 幽霊文字
+- SKIP: 1/4/8
+- 部首: 木
+- Notes: 'bowl' also 棬
+
+#### 鮗
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/11/5
+- 部首: 魚
+- Notes: Japanese-invented character for dotted gizzard shad, Konosirus punctatus, Use 鱅!  Ignore C's 鿴!
+
+#### 鱰
+- 筆画: 25
+- Class: 国字
+- SKIP: 1/11/14
+- 部首: 魚
+- Notes: Japanese-invented character. Mahi-mahi
+
+#### 𫡤
+- 筆画: 6
+- Class: 国字
+- SKIP: 2/2/4
+- 部首: 乙
+- Notes:  Triplication of 九 (“nine”). [File:U2b864.svg|14]
+
+#### 俧
+- 筆画: 9
+- Class: 国字
+- SKIP: 1/2/7
+- 部首: 人
+- Notes:
+
+#### 𠏹
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/2/14
+- 部首: 人
+- Notes: Buddha
+
+#### 槞
+- 筆画: 14
+- Class: 幽霊文字
+- SKIP: 1/4/10
+- 部首: 木
+- Notes:
+
+#### 櫳
+- 筆画: 20
+- Class: 異体字
+- SKIP: 1/4/16
+- 部首: 木
+- Notes: cage, lattice (㰍)
+
+#### 栊
+- 筆画: 9
+- Class: 異体字
+- SKIP: 1/4/5
+- 部首: 木
+- Notes: cage, lattice
+
+#### 﨡
+- 筆画: 11
+- Class: 国字
+- SKIP: 1/6/5
+- 部首: 虫
+- Notes:
+
+#### 凩
+- 筆画: 6
+- Class: 国字
+- SKIP: 3/2/4
+- 部首: 几
+- Notes:
+
+#### 駲
+- 筆画: 16
+- Class: 幽霊文字
+- SKIP: 1/10/6
+- 部首: 馬
+- Notes: ø
+
+#### 嬶
+- 筆画: 17
+- Class: 国字
+- SKIP: 1/3/14
+- 部首: 女
+- Notes: 'overbearing wife' 嬶天下
+
+#### 弖
+- 筆画: 4
+- Class: 国字
+- SKIP: 2/3/1
+- 部首: 弓
+- Notes: phonetic for 'te'
+
+#### 鯥
+- 筆画: 19
+- Class: 国字
+- SKIP: 1/11/8
+- 部首: 魚
+- Notes: 'gnome fish'
+
+#### 鯰
+- 筆画: 19
+- Class: 国字
+- SKIP: 1/11/8
+- 部首: 魚
+- Notes: 'cat fish' Use 鮎
+
+#### 鯱
+- 筆画: 19
+- Class: 国字
+- SKIP: 1/11/8
+- 部首: 魚
+- Notes: 'killer whale', 'orce', 'shachihoko' -> 虎鯨, 虎鯉魚
+
+#### 鮱
+- 筆画: 17
+- Class: 国字
+- SKIP: 1/11/6
+- 部首: 魚
+- Notes: 'adult flathead mullet'
+
+#### 垰
+- 筆画: 9
+- Class: 国字
+- SKIP: 1/3/6
+- 部首: 土
+- Notes: 'mountain pass'
+
+#### 圦
+- 筆画: 5
+- Class: 国字
+- SKIP: 1/3/2
+- 部首: 土
+- Notes: 'underground sluice' Use 水門
+
+#### 粁
+- 筆画: 9
+- Class: 国字
+- SKIP: 1/6/3
+- 部首: 米
+- Notes: kilometer, Use 千米
+
+#### 籾
+- 筆画: 9
+- Class: 国字
+- SKIP: 1/6/3
+- 部首: 米
+- Notes: 'unhulled rice'. On 日本人名用漢字
+
+#### 粭
+- 筆画: 12
+- Class: 国字
+- SKIP: 1/6/6
+- 部首: 米
+- Notes: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture
+
+#### 粂
+- 筆画: 9
+- Class: 国字
+- SKIP: 2/3/6
+- 部首: 米
+- Notes: surname
+
+#### 蟎
+- 筆画: 17
+- Class: 国字
+- SKIP: 1/6/11
+- 部首: 虫
+- Notes: 'mite' Use 壁虱
+
+#### 畑
+- 筆画: 9
+- Class: 国字
+- SKIP: 1/4/5
+- 部首: 田
+- Notes: 'dry field' On 常用/3 and 敎育用基礎漢字/名, but just use 田
+
+#### 峠
+- 筆画: 9
+- Class: 国字
+- SKIP: 1/3/6
+- 部首: 山
+- Notes: Use 関 or 山口 instead for 'mountain pass'.  On 常用漢字/高等.
+
+#### 膵
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/4/12
+- 部首: 肉
+- Notes: A recent Japanese invention.  Use 胰 for 'pancreas'
+
+#### 鑓
+- 筆画: 22
+- Class: 国字
+- SKIP: 1/8/14
+- 部首: 金
+- Notes: lance, spear, javelin --> 鎗/槍
+
+#### 鎺
+- 筆画: 18
+- Class: 国字
+- SKIP: 1/8/10
+- 部首: 金
+- Notes: habaki: a metal collar mounted in between a sword's blade and the guard to keep the guard firmly fixed in place
+
+#### 錻
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/8/8
+- 部首: 金
+- Notes: tinplate (used in the word 錻力 (buriki, “tinplate”))
+
+#### 軈
+- 筆画: 24
+- Class: 国字
+- SKIP: 1/7/17
+- 部首: 身
+- Notes: "not before long", var:軅
+
+#### 躾
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/7/9
+- 部首: 身
+- Notes: 한문교육용기초한자/이름 "training, rearing"
+
+#### 躵
+- 筆画: 14
+- Class: 国字
+- SKIP: 1/7/7
+- 部首: 身
+- Notes: ねらう (nerau)、しのぶ (shinobu)
+
+#### 𫙕
+- 筆画: 16
+- Class: 国字
+- SKIP: 1/11/5
+- 部首: 魚
+- Notes: conger.  Just use 弸長魚
+
+#### 膤
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 梻
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 榁
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 樰
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 橳
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 檪
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 欟
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 毟
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 熕
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 燵
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 瓧
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 瓴
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 畩
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 硴
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 筺
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 簗
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 簱
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 籏
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 籡
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 艠
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 苆
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 萙
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 蘰
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 褝
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 襅
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 躮
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨋳
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨏍
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨑕
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 遖
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨕫
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨛗
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨵱
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 陦
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 颪
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 饂
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𩛰
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鰘
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鰚
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鰰
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鱜
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鱩
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鱪
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鱫
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鴫
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鵆
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鵇
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鶫
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪐷
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪚲
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪞄
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪟧
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 哘
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 噺
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 囎
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 垳
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 﨏
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 塀
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 墹
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪥽
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𡱖
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 峅
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪩣
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪩩
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 怺
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪫧
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𬀧
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪰪
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 杢
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𣏒
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 枠
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 枡
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪱻
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 桛
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 桝
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 梺
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 椙
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 椛
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 椣
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 椥
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 﨓
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 榊
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 樫
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪳤
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𬇐
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𪸉
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 狆
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 瓩
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𤭯
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 硲
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𥫤
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 笹
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 簓
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 糎
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 纃
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 腺
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𦻙
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 蘒
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𫌷
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𮘁
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𬣐
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𫏮
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𬧬
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 辷
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 迚
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 﨤
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 釺
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨦈
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鎹
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𨸶
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鯳
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 𩸕
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 鶎
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 麿
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+
+## Korean
 
 #### 丷
 - 筆画: 2
