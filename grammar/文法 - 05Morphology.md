@@ -174,11 +174,7 @@ The verbal prefix **被–** marks the **passive voice** （受動態）.
 ## Adnominal Morphology （連体形態）
 >[!tip] The guiding maxim for adjectival and adverbial usage is **【[[修飾先行]]】** (“Modifiers come first”). This reflects a fundamental principle of Dan’a’yo grammar: **l modifiers precede the elements they qualify**.
 >
-> Two rules are made explicit:
->1. **Adnominals （連体修飾）** — adjectives and relative clauses must stand **before** their nouns. _走之馬_ “the running horse,” _大人_ “great person.”    
->2. **Adverbials （連用修飾）** — adverbs and adverbial phrases stand **immediately before** the verb. _已行_ “already went,” _於地行_ “go on the ground.”    
->
-> Thus **【修飾先行】** ensures structural predictability: whether in nominal or verbal domains, modifiers guide the reader’s expectations before the head word appears.
+> **【修飾先行】** ensures structural predictability: whether in nominal or verbal domains, modifiers guide the reader’s expectations before the head word appears.
 
 ### Adnominals and the Particle 之 （連体修飾・之）
 
@@ -211,7 +207,6 @@ The particle **之** （属格詞） is used in Dan’a’yo to link **modifying
 - The structure parallels **Japanese** (の/〜た + 名詞) and **Korean** (관형사형 어미 + 명사), but in Dan’a’yo the marker is **always 之**, regardless of tense or aspect.    
 - This makes Dan’a’yo adnominals simpler （簡潔） but also more rigid （硬直的） than J/K.    
 - In spoken Modern Dan’a’yo, **short noun–noun compounds** may drop 之 by analogy to texting style （省略）, but in careful Literary register it must appear.
-- 
 ### Counting phrases (numeral + classifier sequences)
 
 ## Adverbial Morphology （副詞形態）
@@ -283,7 +278,6 @@ In Dan’a’yo, adjectives and stative verbs do not inflect for degree. Instead
 
 ### 1. **Equative (Equality)**
 - **如** is used to mark equative comparisons: “as … as.”
-    
 - Structure: **A  B如 Adj**    
 - Example:    
     - 我 君如 高。        
