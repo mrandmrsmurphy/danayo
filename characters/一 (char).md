@@ -25,8 +25,7 @@ graphemic_classification: 象形
 stand_in: 一
 jyutping:
 ---
-
-> This is the character 一.  For the word 'one', please use [[一]]
+>[!Warning] This is the character 一.  For the word 'one', please use [[一]]
 > For the radical, see [[Radical 001]]
 ```meta-bind-embed
 [[nav/char_info]]

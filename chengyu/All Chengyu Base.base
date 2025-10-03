@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.folder == "chengyu"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - characters
+      - 韓文
+      - english
+      - mandarin
+      - cantonese
+      - japanese
+      - korean
+      - origin
+    columnSize:
+      file.name: 86
+      note.characters: 184
+      note.韓文: 89
+      note.english: 217
