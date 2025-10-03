@@ -162,6 +162,13 @@ The verbal prefix **被–** marks the **passive voice** （受動態）.
 - **熊猫 友以 被愛。**      _“The panda was loved by a friend.”_
 
 ## Adnominal Morphology （連体形態）
+The guiding maxim for adjectival and adverbial usage is **修飾先行** (“Modifiers come first”). This reflects a fundamental principle of Dan’a’yo grammar: **l modifiers precede the elements they qualify**.
+
+Two rules are made explicit:
+1. **Adnominals （連体修飾）** — adjectives and relative clauses must stand **before** their nouns. _走之馬_ “the running horse,” _大人_ “great person.”    
+2. **Adverbials （連用修飾）** — adverbs and adverbial phrases stand **immediately before** the verb. _已行_ “already went,” _於地行_ “go on the ground.”    
+
+Thus **修飾先行** ensures structural predictability: whether in nominal or verbal domains, modifiers guide the reader’s expectations before the head word appears.
 
 ### Adnominals and the Particle 之 （連体修飾・之）
 
