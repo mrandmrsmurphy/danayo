@@ -1,12 +1,12 @@
 < [[単亜語之文法書 Grammar]]
 >[!Tip]
-> The guiding maxim for Dan’a’yo phonology is **朝鮮正音** (“Joseon standardizes the sounds”). This phrase recalls the title **訓民正音** （訓民正音, “Correct Sounds for the Instruction of the People”）, the proclamation of King Sejong （世宗大王, 朝鮮王朝） in 1446 that introduced Hangŭl （諺文）. Just as Hunminjeongeum established a clear and accessible system of writing （正音体系） for the Korean language （韓国語）, Dan’a’yo （単亜語） adopts Hangŭl as the authoritative script for phonology （音韻文字）.
+> The guiding maxim for Dan’a’yo phonology is **【[[朝鮮正音]]】** (“Joseon standardizes the sounds”). This phrase recalls the title **訓民正音** （訓民正音, “Correct Sounds for the Instruction of the People”）, the proclamation of King Sejong （世宗大王, 朝鮮王朝） in 1446 that introduced Hangŭl （諺文）. Just as Hunminjeongeum established a clear and accessible system of writing （正音体系） for the Korean language （韓国語）, Dan’a’yo （単亜語） adopts Hangŭl as the authoritative script for phonology （音韻文字）.
 > 
 > The motto emphasizes two principles:
 > 1. **Old Korean phonology as the reference point** （韓国音韻基準） — for example, 어 is standardized as /e/ rather than /ʌ̹/.    
 > 2. **Hangŭl as the phonological script** （諺文表記） — ensuring that every sound in Dan’a’yo is represented with clarity and precision （明確・精密）.   
 >
-> Thus **朝鮮正音** stands as a Classical reminder that the authority for pronunciation （発音権威） lies with the Korean tradition, continuing the legacy of King Sejong’s reforms.
+> Thus **【朝鮮正音】** stands as a Classical reminder that the authority for pronunciation （発音権威） lies with the Korean tradition, continuing the legacy of King Sejong’s reforms.
 
 # 音韻論
 The phonology of Dan’a’yo （単亜語音韻） is determined in two ways. In some cases it represents the **average** or **mean value** （平均, 中庸） across the CJKV languages （中日韓越言語）. In other cases, when no middle ground exists, it follows the **principle of simplicity** （簡易原則）, choosing the sound easiest for human learners （学習者容易発音）.

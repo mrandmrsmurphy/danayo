@@ -28,6 +28,7 @@ The character base （字彙基盤） follows the intersection of educational st
 Words （語） may be as small as a single character （一字）. When necessary, derivation follows rules of logic （論理規則） and commonality （共通性）. Because much shared vocabulary is technical （専門語）, certain fundamental words must be formed analytically （分析的造語）; however, preference is given to pan-Asian, widely recognized terms （汎亜普遍語）. Finally, Japanese compounding practice （日本式複合語）, which shifted to SOV order （主語–目的語–動詞）, is deliberately reversed, restoring the older VO pattern （動詞–目的語）.
 
 ## Design Goals （設計目標）
+**【[[東亜自通]]】**
 
 Dan’a’yo （単亜語） is designed as a **universal language** （補助語）. The purpose is not to create a fully naturalistic tongue （自然語, 母語） that could become the first language （第一言語） of an entire region. Rather, it is intended as a **simple tool for communication** （簡易通信工具） between speakers who continue to write poetry （詩歌） and conduct daily life （日常生活） in their own native languages （固有語）.
 

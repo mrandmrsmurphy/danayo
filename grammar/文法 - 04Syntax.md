@@ -1,13 +1,13 @@
 < [[単亜語之文法書 Grammar]]
 >[!tip]
-> The guiding maxim for Dan’a’yo syntax is **文言現代** (“Classical and Contemporary”). This motto highlights the dual inheritance （二重伝統） of Dan’a’yo: the **paratactic structure of Classical Chinese** （文言句法, Classical syntax） and the **SVO grammar of modern East Asian languages** （現代語文法, 主語–動詞–目的語構造）.
+> The guiding maxim for Dan’a’yo syntax is **【[[文言現代]]】** (“Classical and Contemporary”). This motto highlights the dual inheritance （二重伝統） of Dan’a’yo: the **paratactic structure of Classical Chinese** （文言句法, Classical syntax） and the **SVO grammar of modern East Asian languages** （現代語文法, 主語–動詞–目的語構造）.
 >
 >The motto emphasizes two principles:
 >
 >1. **Continuity with the classical written standard** （文言承継） — preserving topic–comment structure （主題–述部構造） and concision （簡潔性）.    
 >2. **Adaptation to modern speech** （現代適応） — requiring verbs in every clause （述語必須） and maintaining subject–verb–object order （SVO語順）.    
 >
->Thus **文言現代** expresses the balance （均衡） that defines Dan’a’yo syntax （単亜語句法）: rooted in the authority of the classical tradition, yet usable in the context of modern communication.
+>Thus **【文言現代】** expresses the balance （均衡） that defines Dan’a’yo syntax （単亜語句法）: rooted in the authority of the classical tradition, yet usable in the context of modern communication.
 
 # 構文論
 
@@ -34,6 +34,16 @@ In this mode, **subject–verb–object order dominates**. The older topic–com
 Thus 網語体 is not careless but **context-driven**, relying on shared knowledge and situational cues. It represents Dan’a’yo as it lives in the immediacy of modern communication—**stripped, agile, and efficient**.
 
 ### 書面体 (Literary Style)
+
+>[!tip]
+>The guiding maxim for the orthography of 書面体 is **【[[文音共決]]】** (“Script and sound resolved together”). This motto affirms that **kanji and hangul must appear together** in Literary mode: the written form (文) provides semantic precision, while the phonetic gloss (音) guarantees accessibility.
+>
+> Two principles flow from this maxim:
+>
+>1. **文以定義** — script clarifies meaning, preserving the depth and authority of the Han tradition.    
+>2. **音以達読** — sound ensures readability, allowing all learners to pronounce and understand without ambiguity.    
+>
+>Thus **【文音共決】** enshrines the policy of dual orthography in Literary Dan’a’yo: **neither kanji nor ruby stands alone**, but both together secure the clarity and reach of the language.
 
 書面体 is the **standard and authoritative mode** of Dan’a’yo, designed for clarity, precision, and mutual intelligibility across the CJKV sphere. Where 古雅体 is compact and 網語体 is clipped, 書面体 is **fully explicit**. It preserves the elegance of the classical tradition while adapting it to the expectations of modern grammar.
 
