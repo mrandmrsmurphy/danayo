@@ -15,6 +15,7 @@
 Dan'a'yo has significantly different grammars for its three different modes of usage.  They roughly correspond to poetry, online, and norma.
 
 ### 古雅体 (Classical Style)
+**【[[先題後述]]】**
 
 古雅体 is the most concise and elevated mode of Dan’a’yo. It deliberately echoes the terseness of Classical Chinese, omitting copulas and particles whenever possible and favoring compact topic–comment phrasing. In this mode, composition often employs **kanji only**, without ruby, in imitation of the ancient standard. Such writing is especially suited to **poetry and aphorism**, where brevity and resonance are prized.
 

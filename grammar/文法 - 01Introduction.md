@@ -1,5 +1,7 @@
 > [[単亜語之文法書 Grammar]]
 # 叙文
+
+【[[合漢再決]]】
 ## Historical Background （歴史的背景）
 
 The languages of East Asia （東亜諸語） share a common cultural and linguistic foundation （文化的基盤・言語的基盤）. For many centuries the Civil Service Examination （科挙） defined literacy （識字） and scholarship （学問） throughout the region. It unified intellectual life around the grammar of Middle Chinese （中古漢語文法） and a fixed corpus of classical texts （古典文献）. In this way, the separate structures of four language families — Sino-Tibetan （漢蔵語族）, Japonic （日本語族）, Koreanic （朝鮮語族）, and Austroasiatic （오스트로亜細亜語族） — were set aside, as generations of scholars （学者） assimilated a shared written standard.
