@@ -1545,8 +1545,8 @@ Here is the master list of all forbidden characters (353):
 - Notes:
 
 #### 椙
-- 筆画:
-- Class:
+- 筆画: 
+- Class: 国字
 - SKIP:
 - 部首:
 - Notes:
