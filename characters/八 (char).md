@@ -4,11 +4,11 @@ mandarin:
 cantonese: baat3
 korean:
   - 팔
-korean_native: ""
+korean_native: 여덟
 japanese:
   - HACHI
   - HATSU
-japanese_nanori: ""
+japanese_nanori: " な ,は,はっ ,はつ ,やち ,やつ"
 vietnamese:
   - bát
 middle_chinese_initial: p
@@ -23,9 +23,9 @@ english:
   - "8"
 羅馬字: bad
 韓文: 받
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 9
 mc_id: 142
 graphemic_classification: 指事
