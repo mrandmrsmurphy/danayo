@@ -28,6 +28,8 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: mandarin
+        direction: ASC
       - property: jyutping
         direction: ASC
       - property: cantonese
