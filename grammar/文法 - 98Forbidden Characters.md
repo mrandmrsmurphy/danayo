@@ -5,9 +5,467 @@ Here is the master list of all forbidden characters (353):
 
 ### Chinese
 
+#### 奶
+- 別名: 嬭, 妳
+- 筆画: 5
+- Class: 中国制造
+- SKIP: 1/3/2
+- 部首: 女
+- Notes: Not in Kangxi.  Replace with 乳.
+
+#### 另
+- 別名: 叧
+- 筆画: 5
+- Class: 中国制造
+- SKIP: 2/3/2
+- 部首: 口
+- Notes: On HSK/2 only.  We use 他 or 彼 instead
+
+#### 她
+- 筆画: 6
+- Class: 中国制造
+- SKIP: 1/3/3
+- 部首: 女
+- Notes: On 単亜語/HSK/1 only.  No 3rd person pronoun in D.  Originally a variant of 姐 (jiě, “elder sister”). Later repurposed as a feminine third-person pronoun influenced by European languages.  Linguist Liu Bannong is credited with coining this use around the 1910s.
+
+#### 吶
+- 筆画: 7
+- Class: 混乱
+- SKIP: 1/3/4
+- 部首: 口
+- Notes: Used for sound, but we'd never agree.  Use 叫 for the meaning and 那 for the sound.
+
+#### 爸
+- 筆画: 8
+- Class: 中国制造
+- SKIP: 2/4/4
+- 部首: 父
+- Notes: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.
+
+#### 你
+- 筆画: 7
+- Class: 中国制造
+- SKIP: 1/2/5
+- 部首: 人
+- Notes: HSK/1, but solely Chinese.  Use 汝 for second-person intimate, 爾 for 'yeah'.
+
+#### 們
+- 別名: 们
+- 筆画: 10
+- Class: 中国制造
+- SKIP: 1/2/8
+- 部首: 人
+- Notes: HSK/1, but solely Chinese.  Use 等 to make plural personal pronouns.  First attested in the Song dynasty.
+
+#### 您
+- 筆画: 11
+- Class: 中国制造
+- SKIP: 2/7/4
+- 部首: 心
+- Notes: HSK/1, but solely Chinese.  First attested in the Yuan era.  Use 君 for 'you'.
+
+#### 丟
+- 別名: 丢
+- 筆画: 6
+- Class: 中国制造
+- SKIP: 4/6/1
+- 部首: 一
+- Notes: HSK/1, but mainly Chinese.
+
+#### 找
+- 筆画: 7
+- Class: 中国制造
+- SKIP: 1/3/4
+- 部首: 手
+- Notes: HSK/1, but mainly Chinese.  Please use 捜 or 探 or 尋 instead.
+
+#### 嗎
+- 別名: 吗
+- 筆画: 13
+- Class: 中国制造
+- SKIP: 1/3/10
+- 部首: 口
+- Notes: Chinese SFP.  Use 乎 instead.  HSK/1
+
+#### 吵
+- 筆画: 7
+- Class: 中国制造
+- SKIP: 1/3/4
+- 部首: 口
+- Notes: "to argue" Use 弁論.  HSK/2
+
+#### 嘛
+- 筆画: 14
+- Class: 中国制造
+- SKIP: 1/3/11
+- 部首: 口
+- Notes: HSK/1, but Chinese only.  SFP.  Sound of 麻
+
+#### 夠
+- 別名: 够, 彀, 勾
+- 筆画: 11
+- Class: 中国制造
+- SKIP: 2/6/5
+- 部首: 夕
+- Notes: HSK/1, but Chinese only.  Use 充分 for 'enough'.
+
+#### 趁
+- 別名:
+- 筆画: 12
+- Class: 官话
+- SKIP: 3/7/5
+- 部首: 走
+- Notes: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.  Use 趁
+
+#### 很
+- 筆画: 9
+- Class: 官话
+- SKIP: 1/3/6
+- 部首: 彳
+- Notes: HSK/1, but we use 頗 instead.
+
+#### 懂
+- 筆画: 16
+- Class: 官话
+- SKIP: 1/3/13
+- 部首: 心
+- Notes: HSK/1, but Chinese only.
+
+#### 扒
+- 筆画: 5
+- Class: 官话
+- SKIP: 1/2/3
+- 部首: 手
+- Notes: HSK/3 and 4, but Chinese only.
+
+#### 逛
+- 筆画: 11
+- Class: 官话
+- SKIP: 3/3/7
+- 部首: 辵
+- Notes: HSK/2 but Chinese only
+
+#### 躲
+- 筆画: 13
+- Class: 官话
+- SKIP: 1/7/6
+- 部首: 身
+- Notes: HSK/2.  'dodge, evade'  Use 避 instead
+
+#### 慍
+- 別名: 愠
+- 筆画: 13
+- Class: 中古
+- SKIP: 1/3/10
+- 部首: 心
+- Notes: While common enough in ancient works, it has fallen out of use across the region.  Replace with 怒. var 愠
+#### 呀
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 呢
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 垉
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 拆
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 垈
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 扔
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 怕
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 挖
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 趴
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 哎
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 怎
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 咱
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 捗
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 疼
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 烤
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 掉
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 厠
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 啦
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 棵
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 喊
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 喂
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 筷
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 嗯
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 睜
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 麼
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 踢
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 擋
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 嘴
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 擠
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 瀬
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 嚷
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 傻
+- 別名: 儍
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 摔
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 撕
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 捡
+- 別名: 撿
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 趟
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 搶
+- 別名: 抢
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
+#### 圕
+- 別名:
+- 筆画:
+- Class:
+- SKIP:
+- 部首:
+- Notes:
+
 ## Japanese
 
-## Korean
+### Korean
 
 #### 丷
 - 筆画: 2
@@ -72,14 +530,7 @@ Here is the master list of all forbidden characters (353):
 - 部首: 卩
 - Notes: Korean 구결 for 'ㄴ'.
 
-#### 㐃
-- 筆画: 3
-- Class: 異体字
-- SKIP: 2/2/1
-- 部首: 丨
-- Notes: Variant of 亇 (마/망치 (“hammer”))
-
-#### 亇
+#### 亇 or 㐃
 - 筆画: 3
 - Class: 国字/국자
 - SKIP: 2/2/1
@@ -261,13 +712,6 @@ Here is the master list of all forbidden characters (353):
 - 部首: 人
 - Notes: Korean for '고'
 
-#### 㒱
-- 筆画: 5
-- Class: 異体字
-- SKIP: 2/2/3
-- 部首: 入
-- Notes: Ancient variant of 夢
-
 #### 㔖
 - 筆画: 6
 - Class: 口訣
@@ -289,26 +733,12 @@ Here is the master list of all forbidden characters (353):
 - 部首: 卩
 - Notes: Proto-Hangǔl for 산
 
-#### 厼
+#### 厼 (or 㢱 or 旀)
 - 筆画: 5
 - Class: 口訣
 - SKIP: 2/2/3
 - 部首: 厶
 - Notes: 이, 며, 너
-
-#### 㢱
-- 筆画: 8
-- Class: 異体字
-- SKIP: 1/3/5
-- 部首: 弓
-- Notes: Variant of 厼/며
-
-#### 旀
-- 筆画: 9
-- Class: 異体字
-- SKIP: 1/4/5
-- 部首: 方
-- Notes: Variant of 厼/며
 
 #### 唟
 - 筆画: 10
@@ -408,13 +838,6 @@ Here is the master list of all forbidden characters (353):
 - 部首: 口
 - Notes: Proto-Hangǔl for 비롯
 
-#### 夈
-- 筆画: 9
-- Class: 国字/국자
-- SKIP: 2/3/6
-- 部首: 夂
-- Notes: Later reimagined as a variant of our 斎.
-
 #### 夞
 - 筆画: 10
 - Class: 口訣
@@ -450,19 +873,12 @@ Here is the master list of all forbidden characters (353):
 - 部首: 工
 - Notes: Personal name: 꺽 from 1562
 
-#### 巬
+#### 巬 (or 巭)
 - 筆画: 9
 - Class: 国字/국자
 - SKIP: 2/5/4
 - 部首: 工
 - Notes: 부 (worker)
-
-#### 巭
-- 筆画: 9
-- Class: 異体字
-- SKIP: 2/5/4
-- 部首: 工
-- Notes: Variant of 巬
 
 #### 巼
 - 筆画: 9
@@ -666,13 +1082,6 @@ Here is the master list of all forbidden characters (353):
 - SKIP: 2/4/5
 - 部首: 田
 - Notes: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
-
-#### 䃼
-- 筆画: 7
-- Class: 国字/국자
-- SKIP: 1/5/2
-- 部首: 示
-- Notes: Korean variant of 福?
 
 #### 䆆
 - 筆画: 18
