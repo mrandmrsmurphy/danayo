@@ -5,7 +5,7 @@ cantonese:
   - sei3
 korean:
   - 사
-korean_native: ""
+korean_native: 넉
 japanese:
   - SHI
 japanese_nanori: ""
