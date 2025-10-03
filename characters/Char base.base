@@ -28,6 +28,8 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: 韓文
+        direction: ASC
       - property: joyo_level
         direction: ASC
       - property: hanmun_edu_level
