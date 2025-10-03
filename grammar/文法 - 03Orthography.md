@@ -117,6 +117,8 @@ Principles （簡化原則）:
 Illustrative contrasts: if **區 → 区** and **圖 → 図** are adopted, Dan’a’yo extends comparable component reductions where they do not endanger distinctness.  Conversely, extreme or purely graphic leaps that would break meaning or produce confusion are rejected.  In short, when simplification can be made **consistent, legible, and semantically safe**, Dan’a’yo adopts it; when any of these three are threatened, the traditional form is retained.
 
 ## Ruby （音訓標）
+**【声形和決】**
+
 In Dan’a’yo （単亜語）, each character （漢字） carries a ruby gloss （振仮名） above it.  The ruby is written in Hangŭl syllables （諺文字節）.  This shows the intended pronunciation （発音） directly.
 
 ### Cardinal Vowels （母音）
