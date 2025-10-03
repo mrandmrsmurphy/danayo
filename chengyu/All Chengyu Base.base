@@ -14,6 +14,9 @@ views:
       - japanese
       - korean
       - origin
+    sort:
+      - property: origin
+        direction: DESC
     columnSize:
       file.name: 86
       note.characters: 184
