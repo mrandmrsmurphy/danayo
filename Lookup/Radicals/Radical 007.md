@@ -9,7 +9,7 @@
 - The forbidden character 亍
 - 亏 which is an variant of 虧
 ### +2
-- <ruby>[[五]]<rt>오</rt></ruby> 'five'
+- <ruby>[[五 (char)]]<rt>오</rt></ruby> 'five'
 - [[互]]
 - [[井]]
 - 亖 which is a variant of 四

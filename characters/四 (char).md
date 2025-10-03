@@ -8,7 +8,7 @@ korean:
 korean_native: 넉
 japanese:
   - SHI
-japanese_nanori: ""
+japanese_nanori: あ ,つ ,ひろ ,もち ,よつ
 vietnamese:
   - tứ
   - tớ
@@ -19,21 +19,22 @@ stroke_count: "5"
 radical: 囗
 skip_number: 3-3-2
 grade_level: 1
-pos: ""
+pos: numeral
 english:
   - four
   - "4"
 羅馬字: sii
 韓文: 싀
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 77
 mc_id: 48
 graphemic_classification: 指事
 stand_in: "TRUE"
 aliases:
 ---
+>[!warning] This is a page about the character 四.  For the word 'four', see [[四]].
 
 ```meta-bind-embed
 [[nav/char_info]]

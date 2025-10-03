@@ -4,11 +4,11 @@ mandarin:
 cantonese: ji6
 korean:
   - 이
-korean_native: ""
+korean_native: 두
 japanese:
   - NI
   - JI
-japanese_nanori: ""
+japanese_nanori: ふた
 vietnamese:
   - nhị
 middle_chinese_initial: ȵ
@@ -17,15 +17,15 @@ stroke_count: "2"
 radical: 二
 skip_number: 2-1-1
 grade_level: 1
-pos: ""
+pos: numeral
 english:
   - two
   - "2"
 羅馬字: nii
 韓文: 늬
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 7
 mc_id: 27
 graphemic_classification: 象形
@@ -34,7 +34,8 @@ aliases:
   - 弍
   - 𠄠
 ---
-> This is the character.  For the word, use [[二]]
+>[!warning]
+This is the character 二.  For the word 'two', use [[二]]
 ```meta-bind-embed
 [[nav/char_info]]
 ```

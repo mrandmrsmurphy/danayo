@@ -2,7 +2,7 @@
 - <ruby>[[尺]]<rt>척</rt></ruby>
 - <ruby>[[尹]]<rt>윤</rt></ruby>
 - <ruby>[[天 (char)]]<rt>턴</rt></ruby>
-- <ruby>[[五]]<rt>오</rt></ruby>
+- <ruby>[[五 (char)]]<rt>오</rt></ruby>
 - <ruby>[[王]]<rt>왕</rt></ruby> 
 - <ruby>[[不 (char)]]<rt>볻</rt></ruby>
 - <ruby>[[丹]]<rt>단</rt></ruby>
