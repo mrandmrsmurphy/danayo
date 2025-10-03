@@ -28,6 +28,14 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: hanmun_edu_level
+        direction: ASC
+      - property: korean
+        direction: ASC
+      - property: radical
+        direction: ASC
+      - property: stroke_count
+        direction: ASC
       - property: skip_number
         direction: ASC
       - property: danayo_id
@@ -45,7 +53,7 @@ views:
       note.韓文: 35
       note.english: 125
       note.skip_number: 72
-      note.radical: 41
+      note.radical: 47
       note.stroke_count: 63
       note.danayo_id: 61
       note.grade_level: 39
@@ -58,7 +66,7 @@ views:
       note.joyo_level: 58
       note.korean: 58
       note.korean_native: 57
-      note.hanmun_edu_level: 52
+      note.hanmun_edu_level: 78
       note.vietnamese: 148
       note.middle_chinese_initial: 54
       note.middle_chinese_final: 50
