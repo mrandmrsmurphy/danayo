@@ -1,3 +1,4 @@
+For the younger grades, see [[Jōyō - Kyōiku]]
 ## Part 1
 
 1007. [[亜]] : a (—)    
@@ -1135,23 +1136,3 @@
 2133. [[封]] : fū (—)
 2134. [[伏]] : fuku (fu-seru, fu-su)2135. [[覆]] : fuku (o-ou, kutsugaesu)    
 2135. [[払]] : futsu (hara-u)
-  ```base
-version: 1
-views:
-  - type: table
-    name: Outgoing links
-    filters:
-      and:
-        - this.file.hasLink(file)
-    order:
-      - file.name
-      - joyo_level
-    sort:
-      - property: joyo_level
-        direction: ASC
-    columns:
-      - file
-      - file.path
-      - file.links.length
-
-```
