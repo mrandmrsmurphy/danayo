@@ -293,303 +293,156 @@ This is the list of kanji required in Japan
 289. [[研]] : ken (to-gu)    
 290. [[県]] : ken (—)    
 291. [[庫]] : ko / ku (kura)    
-292. [[湖]] : ko (mizuumi)
-    
-293. [[向]] : kō (mu-ku, mu-kau)
-    
-294. [[幸]] : kō (saiwai, shiawa-se)
-    
-295. [[港]] : kō (minato)
-    
-296. [[号]] : gō (—)
-    
-297. [[根]] : kon (ne)
-    
-298. [[祭]] : sai (matsu-ri, matsu-ru)
-    
-299. [[坂]] : han (saka)
-    
-300. [[皿]] : sara (—)
-    
-301. [[仕]] : shi (tsuka-eru)
-    
-302. [[使]] : shi (tsuka-u)
-    
-303. [[始]] : shi (haji-meru)
-    
-304. [[指]] : shi (yubi, sa-su)
-    
-305. [[死]] : shi (shi-nu)
-    
-306. [[詩]] : shi (—)
-    
-307. [[歯]] : shi (ha)
-    
-308. [[事]] : ji / zu (koto)
-    
-309. [[字]] : ji (aza)
-    
-310. [[寺]] : ji (tera)
-    
-311. [[持]] : ji (mo-tsu)
-    
-312. [[時]] : ji (toki)
-    
-313. [[室]] : shitsu (muro)
-    
-314. [[社]] : sha (yashiro)
-    
-315. [[弱]] : jaku (yowa-i)
-    
-316. [[首]] : shu (kubi)
-    
-317. [[秋]] : shū (aki)
-    
-318. [[終]] : shū (owa-ru, owaru)
-    
-319. [[習]] : shū (nara-u)
-    
-320. [[集]] : shū (atsu-maru)
-    
-321. [[住]] : jū (su-mu)
-    
-322. [[重]] : jū / chō (omo-i, kasa-neru)
-    
-323. [[宿]] : shuku (yado)
-    
-324. [[所]] : sho (tokoro)
-    
-325. [[暑]] : sho (atsu-i)
-    
-326. [[助]] : jo (tasukeru)
-    
-327. [[昭]] : shō (—)
-    
-328. [[消]] : shō (ki-eru, ke-su)
-    
-329. [[商]] : shō (akina-u)
-    
-330. [[章]] : shō (—)
-    
-331. [[勝]] : shō (ka-tsu, masa-ru)
-    
-332. [[乗]] : jō (no-ru, nose-ru)
-    
-333. [[植]] : shoku (u-eru)
-    
-334. [[申]] : shin (mō-su)
-    
-335. [[真]] : shin (ma)
-    
-336. [[神]] : shin / jin (kami)
-    
-337. [[深]] : shin (fuka-i)
-    
-338. [[進]] : shin (susu-mu)
-    
-339. [[世]] : sei / se (yo)
-    
-340. [[整]] : sei (tadato-nou)
-    
-341. [[昔]] : seki (mukashi)
-    
-342. [[全]] : zen (sube-te, matta-ku)
-    
-343. [[相]] : sō (ai, shō)
-    
-344. [[送]] : sō (oku-ru)
-    
-345. [[息]] : soku (iki)
-    
-346. [[速]] : soku (haya-i)
-    
-347. [[族]] : zoku (—)
-    
-348. [[他]] : ta (hoka)
-    
-349. [[打]] : da (u-tsu)
-    
-350. [[対]] : tai (—)
-    
-351. [[待]] : tai (ma-tsu)
-    
-352. [[代]] : dai / tai (ka-waru)
-    
-353. [[第]] : dai (—)
-    
-354. [[題]] : dai (—)
-    
-355. [[炭]] : tan (sumi)
-    
-356. [[短]] : tan (mijika-i)
-    
-357. [[談]] : dan (—)
-    
-358. [[着]] : chaku (ki-ru, tsu-ku)
-    
-359. [[注]] : chū (soso-gu)
-    
-360. [[柱]] : chū (hashira)
-    
-361. [[丁]] : chō / tei (hito, yō)
-    
-362. [[帳]] : chō (—)
-    
-363. [[調]] : chō (shira-beru, totono-eru)
-    
-364. [[追]] : tsui (o-u)
-    
-365. [[定]] : tei / jō (sada-meru)
-    
-366. [[庭]] : tei (niwa)
-    
-367. [[笛]] : teki (fue)
-    
-368. [[鉄]] : tetsu (kurogane)
-    
-369. [[転]] : ten (koro-bu)
-    
-370. [[都]] : to / tsu (miyako)
-    
-371. [[度]] : do / to / taku (tabi)
-    
-372. [[投]] : tō (nage-ru)
-    
-373. [[豆]] : tō (mame)
-    
-374. [[島]] : tō (shima)
-    
-375. [[湯]] : tō (yu)
-    
-376. [[登]] : tō / to (nobo-ru)
-    
-377. [[等]] : tō (hito-shii)
-    
-378. [[動]] : dō (ugo-ku)
-    
-379. [[童]] : dō (warabe)
-    
-380. [[農]] : nō (—)
-    
-381. [[波]] : ha (nami)
-    
-382. [[配]] : hai (kuba-ru)
-    
-383. [[倍]] : bai (—)
-    
-384. [[箱]] : hako (—)
-    
-385. [[畑]] : hata(ke) (—)
-    
-386. [[発]] : hatsu (—)
-    
-387. [[反]] : han (so-ru, so-rasu)
-    
-388. [[坂]] : han (saka)
-    
-389. [[板]] : han / ban (ita)
-    
-390. [[悲]] : hi (kana-shii)
-    
-391. [[美]] : bi (utsuku-shii)
-    
-392. [[鼻]] : bi (hana)
-    
-393. [[筆]] : hitsu (fude)
-    
-394. [[氷]] : hyō (kōri)
-    
-395. [[表]] : hyō (omote, arawa-su)
-    
-396. [[病]] : byō (yamai)
-    
-397. [[品]] : hin (shina)
-    
-398. [[負]] : fu (ma-keru, o-u)
-    
-399. [[部]] : bu (—)
-    
-400. [[服]] : fuku (—)
-    
-401. [[福]] : fuku (—)
-    
-402. [[物]] : butsu / motsu (mono)
-    
-403. [[平]] : hei / byō (taira, hira)
-    
-404. [[返]] : hen (kaesu, kaeru)
-    
-405. [[勉]] : ben (tsuto-meru)
-    
-406. [[放]] : hō (hana-su, ho-u)
-    
-407. [[味]] : mi (aji)
-    
-408. [[命]] : mei / myō (inochi)
-    
-409. [[面]] : men (omo, omote, tsura)
-    
-410. [[問]] : mon (to-u)
-    
-411. [[役]] : yaku (—)
-    
-412. [[薬]] : yaku (kusuri)
-    
-413. [[由]] : yū / yu (yoshi)
-    
-414. [[油]] : yu (abura)
-    
-415. [[有]] : yū / u (a-ru)
-    
-416. [[遊]] : yū (aso-bu)
-    
-417. [[予]] : yo (—)
-    
-418. [[羊]] : yō (hitsuji)
-    
-419. [[洋]] : yō (—)
-    
-420. [[葉]] : yō (ha)
-    
-421. [[陽]] : yō (hi)
-    
-422. [[様]] : yō / sama (sama)
-    
-423. [[落]] : raku (o-chiru, o-tosu)
-    
-424. [[流]] : ryū (naga-reru, naga-su)
-    
-425. [[旅]] : ryō / tabi (tabi)
-    
-426. [[両]] : ryō (—)
-    
-427. [[緑]] : ryoku (midori)
-    
-428. [[礼]] : rei (—)
-    
-429. [[列]] : retsu (—)
-    
-430. [[練]] : ren (ne-ru)
-    
-431. [[路]] : ro (ji)
-    
-432. [[和]] : wa (yawa-ragu, nago-mu)
-    
-433. [[暗]] : an (kura-i)
-    
-434. [[温]] : on (atata-kai)
-    
-435. [[漢]] : kan (—)
-    
-436. [[算]] : san (—)
-    
-437. [[終]] : shū (o-waru)
-    
-438. [[習]] : shū (nara-u)
-    
-439. [[答]] : tō (kota-eru)
-    
+292. [[湖]] : ko (mizuumi)    
+293. [[向]] : kō (mu-ku, mu-kau)    
+294. [[幸]] : kō (saiwai, shiawa-se)    
+295. [[港]] : kō (minato)    
+296. [[号]] : gō (—)    
+297. [[根]] : kon (ne)    
+298. [[祭]] : sai (matsu-ri, matsu-ru)    
+299. [[坂]] : han (saka)    
+300. [[皿]] : sara (—)    
+301. [[士|仕]] : shi (tsuka-eru)    
+302. [[使]] : shi (tsuka-u)    
+303. [[始]] : shi (haji-meru)    
+304. [[指]] : shi (yubi, sa-su)    
+305. [[死]] : shi (shi-nu)    
+306. [[詩]] : shi (—)    
+307. [[歯]] : shi (ha)    
+308. [[事]] : ji / zu (koto)    
+309. [[字]] : ji (aza)    
+310. [[寺]] : ji (tera)    
+311. [[持]] : ji (mo-tsu)    
+312. [[時]] : ji (toki)    
+313. [[室]] : shitsu (muro)    
+314. [[社]] : sha (yashiro)    
+315. [[弱]] : jaku (yowa-i)    
+316. [[首]] : shu (kubi)    
+317. [[秋]] : shū (aki)    
+318. [[終]] : shū (owa-ru, owaru)    
+319. [[習]] : shū (nara-u)    
+320. [[集]] : shū (atsu-maru)    
+321. [[住]] : jū (su-mu)    
+322. [[重]] : jū / chō (omo-i, kasa-neru)    
+323. [[宿]] : shuku (yado)    
+324. [[所]] : sho (tokoro)    
+325. [[暑]] : sho (atsu-i)    
+326. [[助]] : jo (tasukeru)    
+327. [[昭]] : shō (—)    
+328. [[消]] : shō (ki-eru, ke-su)    
+329. [[商]] : shō (akina-u)    
+330. [[章]] : shō (—)    
+331. [[勝]] : shō (ka-tsu, masa-ru)    
+332. [[乗]] : jō (no-ru, nose-ru)    
+333. [[植]] : shoku (u-eru)    
+334. [[申]] : shin (mō-su)    
+335. [[真]] : shin (ma)    
+336. [[神]] : shin / jin (kami)    
+337. [[深]] : shin (fuka-i)    
+338. [[進]] : shin (susu-mu)    
+339. [[世]] : sei / se (yo)    
+340. [[整]] : sei (tadato-nou)    
+341. [[昔]] : seki (mukashi)    
+342. [[全]] : zen (sube-te, matta-ku)    
+343. [[相]] : sō (ai, shō)    
+344. [[送]] : sō (oku-ru)    
+345. [[息]] : soku (iki)    
+346. [[速]] : soku (haya-i)    
+347. [[族]] : zoku (—)    
+348. [[他]] : ta (hoka)    
+349. [[打]] : da (u-tsu)    
+350. [[対]] : tai (—)    
+351. [[待]] : tai (ma-tsu)    
+352. [[代]] : dai / tai (ka-waru)    
+353. [[第]] : dai (—)    
+354. [[題]] : dai (—)    
+355. [[炭]] : tan (sumi)    
+356. [[短]] : tan (mijika-i)    
+357. [[談]] : dan (—)    
+358. [[着]] : chaku (ki-ru, tsu-ku)    
+359. [[注]] : chū (soso-gu)    
+360. [[柱]] : chū (hashira)    
+361. [[丁]] : chō / tei (hito, yō)    
+362. [[帳]] : chō (—)    
+363. [[調]] : chō (shira-beru, totono-eru)    
+364. [[追]] : tsui (o-u)    
+365. [[定]] : tei / jō (sada-meru)    
+366. [[庭]] : tei (niwa)    
+367. [[笛]] : teki (fue)    
+368. [[鉄]] : tetsu (kurogane)    
+369. [[転]] : ten (koro-bu)    
+370. [[都]] : to / tsu (miyako)    
+371. [[度]] : do / to / taku (tabi)    
+372. [[投]] : tō (nage-ru)    
+373. [[豆]] : tō (mame)    
+374. [[島]] : tō (shima)    
+375. [[湯]] : tō (yu)    
+376. [[登]] : tō / to (nobo-ru)    
+377. [[等]] : tō (hito-shii)    
+378. [[動]] : dō (ugo-ku)    
+379. [[童]] : dō (warabe)    
+380. [[農]] : nō (—)    
+381. [[波]] : ha (nami)    
+382. [[配]] : hai (kuba-ru)    
+383. [[倍]] : bai (—)    
+384. [[箱]] : hako (—)    
+385. !!畑!! : hata(ke) (—)    
+386. [[発]] : hatsu (—)    
+387. [[反]] : han (so-ru, so-rasu)    
+388. [[坂]] : han (saka)    
+389. [[板]] : han / ban (ita)    
+390. [[悲]] : hi (kana-shii)    
+391. [[美]] : bi (utsuku-shii)    
+392. [[鼻]] : bi (hana)    
+393. [[筆]] : hitsu (fude)    
+394. [[氷]] : hyō (kōri)    
+395. [[表]] : hyō (omote, arawa-su)    
+396. [[病]] : byō (yamai)    
+397. [[品]] : hin (shina)    
+398. [[負]] : fu (ma-keru, o-u)    
+399. [[部]] : bu (—)    
+400. [[服]] : fuku (—)    
+401. [[福]] : fuku (—)    
+402. [[物]] : butsu / motsu (mono)    
+403. [[平]] : hei / byō (taira, hira)    
+404. [[返]] : hen (kaesu, kaeru)    
+405. [[勉]] : ben (tsuto-meru)    
+406. [[放]] : hō (hana-su, ho-u)    
+407. [[味]] : mi (aji)    
+408. [[命]] : mei / myō (inochi)    
+409. [[面]] : men (omo, omote, tsura)    
+410. [[問]] : mon (to-u)    
+411. [[役]] : yaku (—)    
+412. [[薬]] : yaku (kusuri)    
+413. [[由]] : yū / yu (yoshi)    
+414. [[油]] : yu (abura)    
+415. [[有]] : yū / u (a-ru)    
+416. [[遊]] : yū (aso-bu)    
+417. [[予]] : yo (—)    
+418. [[羊]] : yō (hitsuji)    
+419. [[洋]] : yō (—)    
+420. [[葉]] : yō (ha)    
+421. [[陽]] : yō (hi)    
+422. [[様]] : yō / sama (sama)    
+423. [[落]] : raku (o-chiru, o-tosu)    
+424. [[流]] : ryū (naga-reru, naga-su)    
+425. [[旅]] : ryō / tabi (tabi)    
+426. [[両]] : ryō (—)    
+427. [[緑]] : ryoku (midori)    
+428. [[礼]] : rei (—)    
+429. [[列]] : retsu (—)    
+430. [[練]] : ren (ne-ru)    
+431. [[路]] : ro (ji)    
+432. [[和]] : wa (yawa-ragu, nago-mu)    
+433. [[暗]] : an (kura-i)    
+434. [[温]] : on (atata-kai)    
+435. [[漢]] : kan (—)    
+436. [[算]] : san (—)    
+437. [[終]] : shū (o-waru)    
+438. [[習]] : shū (nara-u)    
+439. [[答]] : tō (kota-eru)    
 440. [[話]] : wa (hanasu)
+
 ```base
 version: 1
 views:
