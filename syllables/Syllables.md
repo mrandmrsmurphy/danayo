@@ -691,7 +691,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/궈" href="syllables/궈">궈</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/궤" href="syllables/궤">궤</a></td>
     <td class="tg-0pky" rowspan="4"></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">궙</span></td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궙" href="syllables/궙">궙</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/궏" href="syllables/궏">궏</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/궉" href="syllables/궉">궉</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/궘" href="syllables/궘">궘</a></td>
@@ -731,7 +731,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/쉉" href="syllables/쉉">쉉</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/훠" href="syllables/훠">훠</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/훼" href="syllables/훼">훼</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">훱</span></td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훱" href="syllables/훱">훱</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/훧" href="syllables/훧">훧</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/훡" href="syllables/훡">훡</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/훰" href="syllables/훰">훰</a></td>
@@ -1007,7 +1007,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/륨" href="syllables/륨">륨</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/륜" href="syllables/륜">륜</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/륭" href="syllables/륭">륭</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/슈</td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/슈" href="syllables/슈">슈</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/슛" href="syllables/슛">슛</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/슙" href="syllables/슙">슙</a></td>
