@@ -98,7 +98,7 @@ Over the last century （近百年）, many reforms of Chinese characters （文
     The Shinjitai **円** is closely associated with currency （通貨） and is not used for the geometric sense.    
 - **弗部の整序**  
     Dan’a’yo regularizes the 弗 component （弗部）: write **佛** not 仏, and **拂** not 払.    
-- **桌 / 卓**      These are distinguished to preserve **【毎字明意】**（一字一義）.    
+- **[[桌]] / [[卓]]**      These are distinguished to preserve **【毎字明意】**（一字一義）.    
 - **干 / 乾**      **干** “desiccate; interfere” and **乾** “heavenly; Qian-trigram” remain distinct.
 - **果 / 菓**  
     These are **conflated** as in Chinese usage; **菓** is treated under **果**.

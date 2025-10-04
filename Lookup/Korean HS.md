@@ -667,24 +667,3 @@
 [[吸]] (숨 들이쉴 흡)
 #### 희
 [[戱]] (놀이 희)  [[稀]] (드물 희)
-
-```base
-version: 1
-views:
-  - type: table
-    name: Outgoing links
-    filters:
-      and:
-        - this.file.hasLink(file)
-    order:
-      - file.name
-      - hanmun_edu_level
-    sort:
-      - property: hanmun_edu_level
-        direction: ASC
-    columns:
-      - file
-      - file.path
-      - file.links.length
-
-```
