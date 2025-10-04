@@ -32,6 +32,8 @@ views:
       - mc_id
       - file.name
     sort:
+      - property: hsk_level
+        direction: ASC
       - property: japanese
         direction: ASC
       - property: cantonese
