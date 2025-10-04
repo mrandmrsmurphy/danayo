@@ -1,5 +1,5 @@
-礼記
-1. [[translation/礼記 (book) 01曲礼上]]
+礼記 - Book of Rites
+1. [[translation/礼記 (book) 01曲礼上]] - Qu Li
 2. [[translation/礼記 (book) 02曲礼下]] - Qu Li II
 3. [[translation/礼記 (book) 03檀弓上]] - Tan Gong I
 4. [[translation/礼記 (book) 04檀弓下]] - Tan Gong II
