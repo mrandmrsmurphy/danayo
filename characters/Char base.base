@@ -4,6 +4,9 @@ filters:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - japanese.isEmpty()
     order:
       - file.basename
       - 韓文
@@ -27,7 +30,18 @@ views:
       - middle_chinese_initial
       - middle_chinese_final
       - mc_id
+      - file.name
     sort:
+      - property: japanese
+        direction: ASC
+      - property: cantonese
+        direction: DESC
+      - property: mandarin
+        direction: DESC
+      - property: danayo_id
+        direction: DESC
+      - property: grade_level
+        direction: ASC
       - property: joyo_level
         direction: ASC
       - property: 韓文
@@ -42,13 +56,7 @@ views:
         direction: ASC
       - property: skip_number
         direction: ASC
-      - property: danayo_id
-        direction: ASC
-      - property: mandarin
-        direction: ASC
       - property: jyutping
-        direction: ASC
-      - property: cantonese
         direction: ASC
       - property: file.basename
         direction: ASC
@@ -65,7 +73,7 @@ views:
       note.mandarin: 71
       note.cantonese: 65
       note.hsk_level: 65
-      note.japanese: 145
+      note.japanese: 58
       note.japanese_nanori: 86
       note.joyo_level: 73
       note.korean: 58

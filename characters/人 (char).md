@@ -1,7 +1,7 @@
 ---
 mandarin:
   - rén
-cantonese: " jan4 , jan4-2 , jan4-1"
+cantonese: fu1 jan4
 korean:
   - 인
 korean_native: 사람
