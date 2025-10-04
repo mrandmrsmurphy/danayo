@@ -14,3 +14,6 @@ hsk_level:
 swadesh: 
 aliases: []
 ---
+```meta-bind-embed
+[[nav/word_info]]
+```
