@@ -8,19 +8,19 @@ japanese_nanori: をさむ
 vietnamese: nhất
 middle_chinese_initial: ʔ
 middle_chinese_final: iɪt
-stroke_count: "1"
+stroke_count: '1'
 radical: 一
 skip_number: 4-1-4
-grade_level: "1"
+grade_level: '1'
 pos: numeral
 english: one, unity, whole
 羅馬字: "'id"
-韓文: 읻
-joyo_level: "1"
-hsk_level: "1"
+韓文: '[[읻]]'
+joyo_level: '1'
+hsk_level: '1'
 hanmun_edu_level: 중
-danayo_id: "1"
-mc_id: "28"
+danayo_id: '1'
+mc_id: '28'
 graphemic_classification: 象形
 stand_in: 一
 jyutping:

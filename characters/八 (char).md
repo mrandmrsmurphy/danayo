@@ -1,30 +1,30 @@
 ---
 mandarin:
-  - bā
+- bā
 cantonese: baat3
 korean:
-  - 팔
+- 팔
 korean_native: 여덟
 japanese:
-  - HACHI
-  - HATSU
-japanese_nanori: " な ,は,はっ ,はつ ,やち ,やつ"
+- HACHI
+- HATSU
+japanese_nanori: ' な ,は,はっ ,はつ ,やち ,やつ'
 vietnamese:
-  - bát
+- bát
 middle_chinese_initial: p
 middle_chinese_final: ɣɛt
-stroke_count: "2"
+stroke_count: '2'
 radical: 八
 skip_number: 1-1-1
 grade_level: 1
 pos: numeral
 english:
-  - eight
-  - "8"
+- eight
+- '8'
 羅馬字: bad
-韓文: 받
-joyo_level: "1"
-hsk_level: "1"
+韓文: '[[받]]'
+joyo_level: '1'
+hsk_level: '1'
 hanmun_edu_level: 中
 danayo_id: 9
 mc_id: 142
