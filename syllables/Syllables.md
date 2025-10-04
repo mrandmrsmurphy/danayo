@@ -75,7 +75,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/바" href="syllables/바">바</a></th>
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/배" href="syllables/배">배</a></th>
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/밧" href="syllables/밧">밧</a></th>
-    <th class="tg-0pky">밥</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/밥" href="syllables/밥">밥</a></th>
     <th class="tg-0pky">받</th>
     <th class="tg-0pky">박</th>
     <th class="tg-0pky">밤</th>
@@ -99,7 +99,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <th class="tg-0pky">잠</th>
     <th class="tg-0pky">잔</th>
     <th class="tg-0pky">장</th>
-    <th class="tg-0pky">가</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/밥" href="syllables/가">가</a></th>
     <th class="tg-0pky">개</th>
     <th class="tg-0pky">갓</th>
     <th class="tg-0pky">갑</th>
@@ -129,7 +129,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <th class="tg-0pky">탄</th>
     <th class="tg-0pky">탕</th>
     <th class="tg-0pky">차</th>
-    <th class="tg-0pky">채</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/밥" href="syllables/채">채</a></th>
     <th class="tg-0pky">찻</th>
     <th class="tg-0pky">찹</th>
     <th class="tg-0pky">찯</th>
@@ -154,7 +154,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <th class="tg-0pky">맙</th>
     <th class="tg-0pky">맏</th>
     <th class="tg-0pky">막</th>
-    <th class="tg-0pky">맘</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/밥" href="syllables/맘">맘</a></th>
     <th class="tg-0pky">만</th>
     <th class="tg-0pky">망</th>
     <th class="tg-0pky">나</th>
@@ -179,7 +179,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
   </tr>
   <tr>
     <th class="tg-0pky" colspan="9"></th>
-    <th class="tg-0pky">라</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/밥" href="syllables/라">라</a></th>
     <th class="tg-0pky">래</th>
     <th class="tg-0pky">랏</th>
     <th class="tg-0pky">랍</th>

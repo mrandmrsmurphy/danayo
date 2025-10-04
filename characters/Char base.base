@@ -4,9 +4,6 @@ filters:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - hanmun_edu_level.isEmpty()
     order:
       - file.basename
       - 韓文
@@ -32,6 +29,8 @@ views:
       - mc_id
       - file.name
     sort:
+      - property: 韓文
+        direction: ASC
       - property: hsk_level
         direction: ASC
       - property: japanese
@@ -45,8 +44,6 @@ views:
       - property: grade_level
         direction: ASC
       - property: joyo_level
-        direction: ASC
-      - property: 韓文
         direction: ASC
       - property: hanmun_edu_level
         direction: ASC
