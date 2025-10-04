@@ -953,7 +953,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/귱" href="syllables/귱">귱</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">퓨 </td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퓨" href="syllables/퓨">퓨</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/퓻" href="syllables/퓻">퓻</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/퓹" href="syllables/퓹">퓹</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/퓯" href="syllables/퓯">퓯</a></td>
@@ -971,7 +971,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/큥" href="syllables/큥">큥</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">뮤 </td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/뮤" href="syllables/뮤">뮤</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/뮷" href="syllables/뮷">뮷</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/뮵" href="syllables/뮵">뮵</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/뮫" href="syllables/뮫">뮫</a></td>
@@ -1007,7 +1007,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/륨" href="syllables/륨">륨</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/륜" href="syllables/륜">륜</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/륭" href="syllables/륭">륭</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">슈</span></td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/슈</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/슛" href="syllables/슛">슛</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/슙" href="syllables/슙">슙</a></td>
@@ -1198,9 +1198,9 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/심" href="syllables/심">심</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/신" href="syllables/신">신</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/싱" href="syllables/싱">싱</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">히</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">희</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">힙</span></td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/히" href="syllables/히">히</a></td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/희" href="syllables/희">희</a></td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/힙" href="syllables/힙">힙</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/힏" href="syllables/힏">힏</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/힉" href="syllables/힉">힉</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/힘" href="syllables/힘">힘</a></td>
@@ -1469,7 +1469,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
   </tr>
   <tr>
     <td class="tg-0pky" colspan="9"></td>
-    <td class="tg-0pky">료  </td>
+    <td class="tg-0pky"><a class="internal-link" data-href="syllables/료" href="syllables/료">료</a></td>
     <td class="tg-0pky"><a class="internal-link" data-href="syllables/룟" href="syllables/룟">룟</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
