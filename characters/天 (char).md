@@ -43,5 +43,8 @@ aliases:
   - 靔
   - 𠀑
 ---
+```meta-bind-embed
+[[nav/char_info]]
+```
 
 # Notes

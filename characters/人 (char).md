@@ -36,5 +36,8 @@ aliases:
   - 儿
   - 𠂉
 ---
+```meta-bind-embed
+[[nav/char_info]]
+```
 
 # Notes

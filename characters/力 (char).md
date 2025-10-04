@@ -36,5 +36,8 @@ stand_in: "TRUE"
 aliases:
   - 𠠲
 ---
+```meta-bind-embed
+[[nav/char_info]]
+```
 
 # Notes
