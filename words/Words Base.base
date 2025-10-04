@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.inFolder("words")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - 羅馬字
+      - 韓文
+      - english
+      - 品詞
+      - mandarin
+      - cantonese
+      - japanese
+      - korean
+      - characters
+    sort:
+      - property: characters
+        direction: ASC
+    columnSize:
+      file.name: 133
+      note.羅馬字: 106
+      note.english: 245
+      note.品詞: 95
