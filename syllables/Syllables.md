@@ -73,8 +73,8 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
   <tr>
     <th class="tg-c3ow" rowspan="4">ㅏ</th>
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/바" href="syllables/바">바</a></th>
-    <th class="tg-0pky">배</th>
-    <th class="tg-0pky">밧</th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/배" href="syllables/배">배</a></th>
+    <th class="tg-0pky"><a class="internal-link" data-href="syllables/밧" href="syllables/밧">밧</a></th>
     <th class="tg-0pky">밥</th>
     <th class="tg-0pky">받</th>
     <th class="tg-0pky">박</th>
