@@ -384,7 +384,7 @@ This is the list of kanji required in Japanese grammar school.  For the other 10
 382. [[配]] : hai (kuba-ru)    
 383. [[倍]] : bai (—)    
 384. [[箱]] : hako (—)    
-385. !!畑!! : hata(ke) (—)    
+385. !!畑!! : hata(ke) (—)    <--- FORBIDDEN
 386. [[発]] : hatsu (—)    
 387. [[反]] : han (so-ru, so-rasu)    
 388. [[坂]] : han (saka)    
@@ -880,8 +880,8 @@ This is the list of kanji required in Japanese grammar school.  For the other 10
 875. [[穀]] : koku (—)    
 876. [[骨]] : kotsu (hone)    
 877. [[困]] : kon (koma-ru)    
-878. [[砂]] : sa / sha (suna) !!!
-879. [[座]] : za (suwaru) !!!    
+878. [[沙|砂]] : sa / sha (suna) !!!
+879. [[坐|座]] : za (suwaru) !!!    
 880. [[済]] : sai / zai (sumi, su-masu)    
 881. [[裁]] : sai (tatsu)    
 882. [[策]] : saku (—)    
