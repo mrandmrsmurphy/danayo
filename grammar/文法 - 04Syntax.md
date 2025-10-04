@@ -235,6 +235,6 @@ Express sound, manner, or sensory vividness, often reduplicated or stylized.
 
 - Examples:    
     - **嘩** — a crash.        
-    - **轟轟** — roaring.        
+    - **軣軣** — roaring.        
     - **滴滴** — dripping.        
     - **きらきら**, **반짝반짝** — sparkling.

@@ -1605,7 +1605,7 @@ Here is the master list of all forbidden characters (353):
 - Class: 国字
 - SKIP: 1/4/11
 - 部首: 木
-- Notes: "evergreen oak" , variant 㭴, sound from 堅
+- Notes: "evergreen oak" , variant 㭴, sound from 堅, on 人名用漢字
 
 #### 𪳤
 - 筆画:
