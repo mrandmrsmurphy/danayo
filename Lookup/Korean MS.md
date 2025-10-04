@@ -1244,24 +1244,3 @@
 [[興]] (일어날 흥)
 #### 희
 [[希]] (바랄 희) [[喜]] (기쁠 희)
-
-```base
-version: 1
-views:
-  - type: table
-    name: Outgoing links
-    filters:
-      and:
-        - this.file.hasLink(file)
-    order:
-      - file.name
-      - hanmun_edu_level
-    sort:
-      - property: hanmun_edu_level
-        direction: ASC
-    columns:
-      - file
-      - file.path
-      - file.links.length
-
-```
