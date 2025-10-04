@@ -1,4 +1,4 @@
-| Sound: `VIEW[{韓文}]` | Word: `VIEW[{stand_in}][link]` | Graphemic: `VIEW[{graphemic_classification}][text(renderMarkdown)]` | English: `VIEW[{english}]`|
+| Sound: `VIEW[{韓文}][text(renderMarkdown)]` | Word: `VIEW[{stand_in}][link]` | Graphemic: `VIEW[{graphemic_classification}][text(renderMarkdown)]` | English: `VIEW[{english}]`|
 |-------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|
 | ![[Flag_of_chinese-speaking_countries_and_territories.svg]] | ![[Flag_of_Japan.svg]] | ![[Unification_flag_of_Korea.svg]] | ![[Flag_of_Vietnam.svg]] |
 | **Mandarin:** `VIEW[{mandarin}]`    | **On:** `VIEW[{japanese}]`            | **음:** `VIEW[{korean}]`               | `VIEW[{vietnamese}]`                |
