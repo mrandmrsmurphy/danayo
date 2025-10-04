@@ -25,4 +25,4 @@ See LICENSE for details.
 
 ## About
 
-Created by **武明帥**, 2025.
+Created by **武明帥**, 2016-25.
