@@ -23,7 +23,7 @@ pos: adverb
 english:
 - not
 羅馬字: bod
-韓文: "[[\b볻]]"
+韓文: '[[볻]]'
 joyo_level: '1'
 hsk_level: '1'
 hanmun_edu_level: 中
