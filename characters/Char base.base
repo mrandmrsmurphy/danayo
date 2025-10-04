@@ -61,7 +61,7 @@ views:
         direction: ASC
     columnSize:
       file.basename: 64
-      note.韓文: 35
+      note.韓文: 69
       note.english: 125
       note.skip_number: 72
       note.radical: 47
