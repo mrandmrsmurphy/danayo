@@ -16,6 +16,8 @@ views:
       - korean
       - characters
     sort:
+      - property: 韓文
+        direction: ASC
       - property: characters
         direction: ASC
     columnSize:
