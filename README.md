@@ -26,3 +26,11 @@ See LICENSE for details.
 ## About
 
 Created by **武明帥**, 2016-25.
+
+## WHere
+
+名從主人 物從中國
+
+羊駝 - alpaca
+水豚 - capybara
+信達雅
