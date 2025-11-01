@@ -17,8 +17,6 @@ views:
     sort:
       - property: 韓文
         direction: ASC
-      - property: origin
-        direction: DESC
     columnSize:
       file.name: 86
       note.characters: 184
