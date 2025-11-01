@@ -16,6 +16,8 @@ views:
       - korean
       - characters
     sort:
+      - property: 羅馬字
+        direction: ASC
       - property: 韓文
         direction: ASC
       - property: characters
