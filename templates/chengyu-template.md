@@ -9,5 +9,8 @@ japanese: <% tp.system.prompt('Japanese reading') %>
 vietnamese: <% tp.system.prompt('Vietnamese reading') %>
 english: <% tp.system.prompt('English meanings comma-separated') %>
 ---
+```meta-bind-embed
+[[nav/chengyu_info]]
+```
 # Source
 - "<% tp.system.prompt('Source') %>"
