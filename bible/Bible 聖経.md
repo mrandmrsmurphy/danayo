@@ -89,3 +89,5 @@
 - 救偕 Jesus/Joshua
 - Eleazar/Lazarus 助偕
 - 偕者 YHWH
+- 上帝 Elohim
+- 天主 Lord
