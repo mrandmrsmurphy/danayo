@@ -157,9 +157,19 @@ Function words are the **grammatical operators** of Dan’a’yo. They cannot th
 繋詞 here are distinct from the copular 実詞. They occur at the end of a clause and mark **mood, modality, or emotion**.
 
 - Examples:    
-    - **乎** — interrogative particle (_汝行乎?_ “Do you go?”)        
-    - **矣** — perfective or emphatic (_已行矣_ “He has indeed gone.”)        
-    - **哉** — exclamative (_大哉!_ “How great!”)        
+    - **[[乎]]** — interrogative particle (_汝行乎?_ “Do you go?”)        
+    - **[[矣]]** — emphatic (_已行矣_ “Why has he gone?!")        
+    - **[[哉]]** — negative alarm (also vocative)
+    - **[[也]]** - exclamative
+    - **[[哇]]** - wow
+    - **[[該]]** – should, ought
+    - **[[別]]** – do not
+    - **[[勿]]** – do not ever
+    - **[[夫]]** – right?, isn't it?
+    - **[[請]]** – please
+    - **[[就]]** – let
+    - **[[了]]** – done, over, copy
+    - **[[似]]** – it's as if ...
 
 #### 接詞 (Conjunctions)
 接詞 link clauses, phrases, or even whole texts. They are frequent and indispensable in extended discourse.
