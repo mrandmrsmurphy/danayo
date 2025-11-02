@@ -13,6 +13,7 @@ views:
       - cantonese
       - japanese
       - korean
+      - vietnamese
       - origin
     sort:
       - property: origin
