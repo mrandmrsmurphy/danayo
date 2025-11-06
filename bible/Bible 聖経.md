@@ -101,3 +101,8 @@
 國度永昌，權威無疆；
 榮光不息，世世無疆。
 如是。
+
+Hepburn
+Verbeck
+Taisho Revised Version Committee
+新改訳
