@@ -15,7 +15,7 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 - ㄴ and ㄹ may not have a w on-glide
 
 
-Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this chart: [[윙]] and [[윅]]. + [[취]] and [[촹]] and [[퇀]]
+Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this chart: [[윙]] and [[윅]]. + [[취]] and [[퇀]]
 
 <div class="tbl-scroll">
 <table class="syllables"><thead>
@@ -342,7 +342,9 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/광" href="syllables/광">광</a></th>
   </tr>
   <tr>
-    <th class="tg-0pky" colspan="9"></th>
+    <th class="tg-0pky" colspan="7"></th>
+     <th class="tg-0pky"><a class="internal-link" data-href="syllables/퇀" href="syllables/퇀">퇀</a></th>
+     <th class="tg-0pky"><a class="internal-link" data-href="syllables/퇑" href="syllables/퇑">퇑</a></th>
     <th class="tg-0pky" colspan="8"></th>
      <th class="tg-0pky"><a class="internal-link" data-href="syllables/촹" href="syllables/촹">촹</a></th>
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/콰" href="syllables/콰">콰</a></th>
