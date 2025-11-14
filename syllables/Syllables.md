@@ -343,7 +343,8 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
   </tr>
   <tr>
     <th class="tg-0pky" colspan="9"></th>
-    <th class="tg-0pky" colspan="9"></th>
+    <th class="tg-0pky" colspan="8"></th>
+     <th class="tg-0pky"><a class="internal-link" data-href="syllables/촹" href="syllables/촹">촹</a></th>
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/콰" href="syllables/콰">콰</a></th>
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/쾌" href="syllables/쾌">쾌</a></th>
     <th class="tg-0pky"><a class="internal-link" data-href="syllables/쾁" href="syllables/쾁">쾁</a></th>
