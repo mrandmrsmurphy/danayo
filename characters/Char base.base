@@ -5,7 +5,7 @@ views:
   - type: table
     name: Table
     order:
-      - file.basename
+      - file.name
       - 韓文
       - english
       - skip_number
@@ -27,9 +27,10 @@ views:
       - middle_chinese_initial
       - middle_chinese_final
       - mc_id
-      - file.name
     sort:
       - property: 韓文
+        direction: DESC
+      - property: danayo_id
         direction: ASC
       - property: hsk_level
         direction: ASC
@@ -38,8 +39,6 @@ views:
       - property: cantonese
         direction: DESC
       - property: mandarin
-        direction: DESC
-      - property: danayo_id
         direction: DESC
       - property: grade_level
         direction: ASC
