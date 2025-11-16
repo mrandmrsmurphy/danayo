@@ -34,10 +34,10 @@
 - 荀 - variant of [[筍]]
 - 茹 - "to boil", same sound as [[如]]?
 - 荐 - variant of [[薦]]
-- [[荅]]
+- 荅 - variant of [[答]]
 - 茯 --> 茯苓 (伏+plant)
 - [[茫]]
-- 茗
-- 茘
+- 茗 - "tea buds", same sound as [[名]]??
+- 茘 - variant of [[荔]] --> 荔枝
 - [[茜]]
-- 夈 - variant of 斎
+- 夈 - variant of [[斎]]
