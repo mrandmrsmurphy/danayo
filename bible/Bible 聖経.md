@@ -1,3 +1,4 @@
+Over all is [[創反救成]]
 # Hebrew
 ## Torah
 1. <ruby>[[創世記]]<rt>창서기</rt></ruby>
