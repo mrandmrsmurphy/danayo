@@ -107,3 +107,7 @@ Hepburn
 Verbeck
 Taisho Revised Version Committee
 新改訳
+
+Be sure to use 結び for Genesis 2:24, Matthew 19:6, 1 Samuel 18:1, Dt 6:6-8, mt 16:19, 12:29; 11:29-30
+Naomi ...直霊?
+defilement/טֻמְאָה - 穢, sin - 罪
