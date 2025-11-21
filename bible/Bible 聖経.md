@@ -114,3 +114,4 @@ defilement/טֻמְאָה - 穢
 transgression/עֲבֵירָה - 罪
 sin/חֵטְא - 業力 power of sin vs 業報 result of sin
 disaster/רָע - 禍
+John 10:9 - 鳥居
