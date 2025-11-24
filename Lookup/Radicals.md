@@ -280,7 +280,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 210]] 齊
 
 ## 15 strokes
-- [[Radical 211]] 齒
+- [[Radical 211]] 齒 - There are two real characters in here.
 
 ## 16 strokes
 - [[Radical 212]] 龍 - There are four real characters in here.
