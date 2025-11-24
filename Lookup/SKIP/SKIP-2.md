@@ -1,3 +1,5 @@
+> [[SKIP]]
+These are characters with a clear top-bottom dichotomy.  The following are the possible number of strokes for the top half:
 - [[SKIP-2-1]]
 - [[SKIP-2-2]]
 - [[SKIP-2-3]]
