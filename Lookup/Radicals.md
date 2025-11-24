@@ -5,7 +5,7 @@ There have been several systems of radicals in use at various times during histo
 
 ## 1 stroke
 - [[Radical 001]] 一
-- [[Radical 002]] 丨 
+- [[Radical 002]] 丨 - There are two real characters in here.
 - [[Radical 003]] 丶 
 - [[Radical 004]] 丿 or 乀 or 乁  
 - [[Radical 005]] 乙 or 乚 or 乛 
@@ -252,7 +252,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 190]] 髟
 - [[Radical 191]] 鬥
 - [[Radical 192]] 鬯
-- [[Radical 193]] 鬲
+- [[Radical 193]] 鬲 - There are no real characters here.
 - [[Radical 194]] 鬼
 
 ## 11 strokes
@@ -261,7 +261,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 197]] 鹵
 - [[Radical 198]] 鹿
 - [[Radical 199]] 麥
-- [[Radical 200]] 麻
+- [[Radical 200]] 麻 - There is one real character in here.
 
 ## 12 strokes
 - [[Radical 201]] 黃
@@ -270,14 +270,14 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 204]] 黹
 
 ## 13 strokes
-- [[Radical 205]] 黽
-- [[Radical 206]] 鼎
-- [[Radical 207]] 鼓
-- [[Radical 208]] 鼠
+- [[Radical 205]] 黽 - There is one real character in here.
+- [[Radical 206]] 鼎 - There is one real character in here.
+- [[Radical 207]] 鼓 - There is one real character in here.
+- [[Radical 208]] 鼠 - There is one real character in here.
 
 ## 14 strokes
-- [[Radical 209]] 鼻
-- [[Radical 210]] 齊
+- [[Radical 209]] 鼻 - There is one real character in here.
+- [[Radical 210]] 齊 - There is one real character in here.
 
 ## 15 strokes
 - [[Radical 211]] 齒 - There are two real characters in here.

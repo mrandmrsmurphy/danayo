@@ -8,7 +8,7 @@
 - 齋-->斎
 
 ### +7 Strokes
-- <ruby>[[齎]]<rt>제</rt></ruby> - to offer with both hands
+- 齎 --> 斉
 
 ## Data check
 ```dataview
