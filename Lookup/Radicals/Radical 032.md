@@ -1,6 +1,6 @@
 >  [[Radicals]]
 
-'''Radical 32''' is 'earth', <ruby>[[土]]<rt>토</rt></ruby>.
+**Radical 32** is 'earth', <ruby>[[土]]<rt>토</rt></ruby>.
 
 ### +2 Strokes
 [[圧]] 
@@ -47,3 +47,9 @@
 ### +16 Strokes
 壞--> 
 
+## Data check
+```dataview
+TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+FROM "characters"
+WHERE radical = "土"
+SORT file.name ASC

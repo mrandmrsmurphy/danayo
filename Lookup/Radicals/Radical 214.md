@@ -28,3 +28,10 @@ In the Kangxi Dictionary there are 21 characters (out of 40,000) to be found und
 
 ### +10
 * 䶵 --> ancient variant of [[篪]]
+
+## Data check
+```dataview
+TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+FROM "characters"
+WHERE radical = "龠"
+SORT file.name ASC

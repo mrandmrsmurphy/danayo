@@ -1,60 +1,45 @@
-### +0 Stroke
+**貝** is the 154th of the [[Radicals]].  It is a picture of shell, but these were money in ancient times.
 
+## Plus Strokes
+### +0 Stroke
 [[貝]] , 贝->貝 
 
 ### +2 Strokes
-
-[[貞]] , 貟->員 , [[負]] , 贞->貞 , 负->負 , 贠->員
+[[貞]] , 貟->[[員]] , [[負]] , 贞->貞 , 负->負 , 贠->員
 
 ### +3 Strokes
-
 [[財]] , [[貢]] , 贡->貢 , 财->財
 
 ### +4 Strokes
-
 [[貧]] , [[貨]] , [[販]] , [[貪]] , [[貫]] , [[責]] , 貮->貳 , 责->責 
 
 ### +5 Strokes
-
 [[貯]] , [[貰]] , [[貳]] , [[貴]] , [[買]] , [[貸]] , [[費]] , [[貼]] , [[貿]] , [[賀]] , [[賁]]
 
 ### +6 Strokes
-
 [[賂]] , [[賃]] , [[賄]] , [[資]] , [[賈]] , [[賊]] , [[賎]] , 
 
 ### +7 Strokes
-
 [[賑]] , [[賓]] , [[頼]]
 
 ### +8 Strokes
-
 [[賛]] , [[賜]] , [[賞]] , [[賠]] , [[賢]] , [[賦]] , [[質]] 
 
 ### +9 Strokes
-
 [[賭]]
 
 ### +10 Strokes
-
 [[購]] , [[賽]] 
 
-### +11 Strokes
-
-ø
-
 ### +12 Strokes
-
 [[贈]] , [[贋]] 
 
-### +13 Strokes
-
-ø
-
-### +14 Strokes
-
-ø
-
 ### +15 Strokes
-
 [[贖]]
 
+## Data check
+```dataview
+TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+FROM "characters"
+WHERE radical = "貝"
+SORT file.name ASC

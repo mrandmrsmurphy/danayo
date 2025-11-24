@@ -28,3 +28,10 @@
 - 亝 which is a variant of 斉
 * 亞 which is a variant of 亜
 * The forbidden character 亟
+
+## Data check
+```dataview
+TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+FROM "characters"
+WHERE radical = "二"
+SORT file.name ASC

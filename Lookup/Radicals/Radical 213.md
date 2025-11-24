@@ -13,3 +13,10 @@ In Taoist cosmology, 龜 (Polyhedron) is the nature component of the Ba gua diag
 - 龝 which is an ancient variant of [[秋]]
 ### +12 
 - 龞 which is an ancient variant of [[鼈]]/鱉
+
+## Data check
+```dataview
+TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+FROM "characters"
+WHERE radical = "龜"
+SORT file.name ASC
