@@ -29,7 +29,7 @@ views:
       - mc_id
     sort:
       - property: 韓文
-        direction: DESC
+        direction: ASC
       - property: danayo_id
         direction: ASC
       - property: hsk_level
