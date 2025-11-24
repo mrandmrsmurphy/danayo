@@ -11,7 +11,7 @@
 - <ruby>漢<rt>한</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>二百<rt>늬박</rt></ruby><ruby>六<rt>룩</rt></ruby><ruby>年<rt>넌</rt></ruby> <ruby>紀元前<rt>기원전</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>二百<rt>늬박</rt></ruby><ruby>二十<rt>늬십</rt></ruby><ruby>年<rt>넌</rt></ruby> <ruby>紀元後<rt>기원훗</rt></ruby> 
 ### <ruby>中古<rt>중고</rt></ruby> 
 - [[魏晋]][[南北]]<ruby>之<rt>티</rt></ruby><ruby>時<rt>시</rt></ruby>: <ruby>二百<rt>늬박</rt></ruby><ruby>二十<rt>늬십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>五百<rt>오박</rt></ruby><ruby>八十<rt>받십</rt></ruby>九<ruby>年<rt>넌</rt></ruby> <!-- E, Jin, North, South 220-589 //-->
-- [[隋]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>五百<rt>오박</rt></ruby><ruby>八十<rt>받십</rt></ruby>一 <ruby>至<rt>즤</rt></ruby> <ruby>六百<rt>룩박</rt></ruby><ruby>十八<rt>십받</rt></ruby><ruby>年<rt>넌</rt></ruby> <!-- Su 589-618 //-->
+- [[堕]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>五百<rt>오박</rt></ruby><ruby>八十<rt>받십</rt></ruby>一 <ruby>至<rt>즤</rt></ruby> <ruby>六百<rt>룩박</rt></ruby><ruby>十八<rt>십받</rt></ruby><ruby>年<rt>넌</rt></ruby> <!-- Su 589-618 //-->
 - <ruby>唐<rt>돵</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>六百<rt>룩박</rt></ruby><ruby>十八<rt>십받</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>九百<rt>큐박</rt></ruby>七<ruby>年<rt>넌</rt></ruby>    
 - [[五代十国]]：<ruby>九百<rt>큐박</rt></ruby>七 <ruby>至<rt>즤</rt></ruby> <ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby><ruby>年<rt>넌</rt></ruby>    <!--5 Dynasties 10 Kingdoms 907-960 //-->
 - [[宋]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby>九<ruby>年<rt>넌</rt></ruby> <!-- Song 960-1279 //-->
