@@ -22,9 +22,9 @@ hanmun_edu_level: 중
 danayo_id: 16
 mc_id: 24
 graphemic_classification: 指事
-stand_in: 'TRUE'
+stand_in: '三'
 ---
-> This is the character 三. For the word 'three', use [[三 1]].
+> This is the character 三. For the word 'three', use [[三]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
