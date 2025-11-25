@@ -1,1139 +1,1112 @@
 For the younger grades, see [[Jōyō - Kyōiku]]
-## Part 1
 
-1007. [[亜]] : a (—)    
-1008. [[哀]] : ai (awa-reru)    
-1009. [[挨]] : ai (—)    
-1010. [[曖]] : ai (kurai)    
-1011. [[握]] : aku (nigi-ru)    
-1012. [[扱]] : atsuka-u (atsukai)    
-1013. [[宛]] : ate (—)    
-1014. [[嵐]] : arashi (—)    
-1015. [[依]] : i (yoro)    
-1016. [[威]] : i (—)    
-1017. [[為]] : i / tame (—)    
-1018. [[偉]] : i (era-i)    
-1019. [[維]] : i (—)    
-1020. [[緯]] : i (—)    
-1021. [[慰]] : i (nagu-sameru)    
-1022. [[違]] : i (chiga-u)    
-1023. [[遺]] : i (noko-su, noko-ru)    
-1024. [[井]] : i (i)    
-1025. [[域]] : iki (—)    
-1026. [[疫]] : eki (—)    
-1027. [[悦]] : etsu (—)    
-1028. [[閲]] : etsu (—)    
-1029. [[炎]] : en (honō)    
-1030. [[煙]] : en (kemuri)    
-1031. [[猿]] : en (saru)    
-1032. [[鉛]] : en (namari)    
-1033. [[縁]] : en (enishi, fuchi)    
-1034. [[援]] : en (—)    
-1035. [[汚]] : o (yogo-su, kegasu)    
-1036. [[凹]] : ō (—)    
-1037. [[押]] : ō (o-su, osa-eru)    
-1038. [[旺]] : ō (—)    
-1039. [[欧]] : ō (—)    
-1040. [[殴]] : ō (nagu-ru)    
-1041. [[翁]] : ō (okina)    
-1042. [[奥]] : ō (oku)    
-1043. [[憶]] : oku (obo-eru)    
-1044. [[臆]] : oku (okku-suru)    
-1045. [[虞]] : gu / u (osore)    
-1046. [[乙]] : otsu (—)    
-1047. [[俺]] : ore (—)    
-1048. [[卸]] : orosu (oroshi)    
-1049. [[穏]] : on (oda-yaka)    
-1050. [[佳]] : ka (—)    
-1051. [[架]] : ka (kakeru, kakeru)    
-1052. [[華]] : ka / ke (hana)    
-1053. [[果|菓]] : ka (kashi)    
-1054. [[貨]] : ka (takara)    
-1055. [[渦]] : ka (uzu)    
-1056. [[嫁]] : ka (yome, to-tsugu)    
-1057. [[暇]] : ka (hima)    
-1058. [[禍]] : ka (wazawai)    
-1059. [[靴]] : ka (kutsu)    
-1060. [[寡]] : ka (—)    
-1061. [[個|箇]] : ka (—)    
-1062. [[稼]] : ka (kase-gu, kase)    
-1063. [[蚊]] : ka (ka)    
-1064. [[牙]] : ga (kiba)    
-1065. [[介]] : kai (—)    
-1066. [[戒]] : kai (imashime, imashi-meru)    
-1067. [[怪]] : kai (ayashi, ayashi-meru)    
-1068. [[拐]] : kai (—)    
-1069. [[悔]] : kai (kui-ru, kui)    
-1070. [[皆]] : kai (mina)    
-1071. [[塊]] : kai (katamari)    
-1072. [[慨]] : gai (—)    
-1073. [[概]] : gai (—)    
-1074. [[涯]] : gai (hate)    
-1075. [[該]] : gai (—)    
-1076. [[街]] : gai (machi)    
-1077. [[垣]] : kaki (—)    
-1078. [[郭]] : kaku (—)    
-1079. [[隔]] : kaku (heda-teru)    
-1080. [[獲]] : kaku (eru)    
-1081. [[嚇]] : kaku (odo-su)    
-1082. [[穫]] : kaku (—)    
-1083. [[岳]] : gaku (take)    
-1084. [[括]] : katsu (kaku, kuwa-eru)    
-1085. [[喝]] : katsu (—)    
-1086. [[渇]] : katsu (kawa-ku)    
-1087. [[褐]] : katsu (—)    
-1088. [[轄]] : katsu (—)    
-1089. [[刈]] : kari (ka-ru)    
-1090. [[甘]] : kan (ama-i)    
-1091. [[汗]] : kan (ase)    
-1092. [[肝]] : kan (kimo)    
-1093. [[冠]] : kan (kanmuri)    
-1094. [[陥]] : kan (ochi-iru, ochi-ireru)    
-1095. [[乾]] : kan (inu, hosu)    
-1096. [[勘]] : kan (—)    
-1097. [[患]] : kan (wazura-u)    
-1098. [[貫]] : kan (tsuranuku)    
-1099. [[喚]] : kan (—)    
-1100. [[堪]] : kan (ta-eru)    
-1101. [[換]] : kan (ka-eru, ka-waru)    
-1102. [[敢]] : kan (—)    
-1103. [[棺]] : kan (—)    
-1104. [[款]] : kan (—)    
-1105. [[緩]] : kan (yuru-i, yuru-meru)    
-1106. [[監]] : kan (—)    
-1107. [[環]] : kan (wa)    
-1108. [[韓]] : kan (—)    
-1109. [[艦]] : kan (—)    
-1110. [[鑑]] : kan (—)    
-1111. [[含]] : gan (fuku-meru, fuku-mu)    
-1112. [[玩]] : gan (—)    
-1113. [[頑]] : gan (kota-i)    
-1114. [[企]] : ki (kuwadateru)    
-1115. [[伎]] : gi (—)    
-1116. [[岐]] : gi (—)    
-1117. [[忌]] : ki (imi, imamu)    
-1118. [[奇]] : ki (kishi, ayashi)    
-1119. [[祈]] : ki (ino-ru)    
-1120. [[鬼]] : ki (oni)    
-1121. [[幾]] : ki (iku)    
-1122. [[既]] : ki (sude-ni)    
-1123. [[棋]] : ki (—)    
-1124. [[棄]] : ki (sute-ru)    
-1125. [[輝]] : ki (kagayaku)    
-1126. [[騎]] : ki (—)    
-1127. [[宜]] : gi (yoroshii)    
-1128. [[偽]] : gi (itsuwaru, nise)    
-1129. [[欺]] : gi (azamu-ku)    
-1130. [[菊]] : kiku (—)    
-1131. [[吉]] : kichi / kitsu (yoshi)    
-1132. [[喫]] : kitsu (—)    
-1133. [[詰]] : kitsu (tsu-meru)    
-1134. [[却]] : kyaku (shiri-zokeru)    
-1135. [[脚]] : kyaku (ashi)    
-1136. [[虐]] : gyaku (shiita-geru)    
-1137. [[及]] : kyū (oyobu)    
-1138. [[丘]] : kyū (oka)    
-1139. [[朽]] : kyū (kuchiru)    
-1140. [[臼]] : kyū (usu)    
-1141. [[窮]] : kyū (kiwa-maru)    
-1142. [[糾]] : kyū (—)    
-1143. [[拒]] : kyo (koba-mu)    
-1144. [[拠]] : kyo (yoru)    
-1145. [[虚]] : kyo (utsu, kara)    
-1146. [[距]] : kyo (—)    
-1147. [[凶]] : kyō (—)    
-1148. [[叫]] : kyō (sake-bu)    
-1149. [[狂]] : kyō (kuru-u)    
-1150. [[享]] : kyō (ukeru)    
-1151. [[況]] : kyō (—)    
-1152. [[峡]] : kyō (haba, kyō)    
-1153. [[挟]] : kyō (hasamu, hasamaru)    
-1154. [[狭]] : kyō (semai)    
-1155. [[恐]] : kyō (osore, osoru)    
-1156. [[恭]] : kyō (uyauya-shii)    
-1157. [[脅]] : kyō (odo-su, odo-kasu)    
-1158. [[響]] : kyō (hibiku)    
-1159. [[驚]] : kyō (odoro-ku, odorokasu)    
-1160. [[仰]] : gyō / kō (ao-gu, ogamu)    
-1161. [[凝]] : gyō (ko-ru, ko-rasu)    
-1162. [[暁]] : gyō (akatsuki)    
-1163. [[巾]] : kin (haba)    
-1164. [[錦]] : kin (nishiki)    
-1165. [[斤]] : kin (—)    
-1166. [[菌]] : kin (—)    
-1167. [[琴]] : kin (koto)    
-1168. [[僅]] : kin (waga-ka)    
-1169. [[禁]] : kin (—)    
-1170. [[緊]] : kin (shime-ru)    
-1171. [[錮]] : ko (—)    
-1172. [[懇]] : kon (nego-rou, nengo-ro)    
-1173. [[墾]] : kon (hiraku)    
-1174. [[婚]] : kon (kon-yaku, —)    
-1175. [[魂]] : kon (tamashii)    
-1176. [[佐]] : sa (—)    
-1177. [[沙]] : sa (suna)    
-1178. [[詐]] : sa (itsuwaru)    
-1179. [[鎖]] : sa (kusari)    
-1180. [[挫]] : sa (—)    
-1181. [[債]] : sai (—)    
-1182. [[催]] : sai (moto-meru, morau)    
-1183. [[塞]] : sai (fusagu, fusa-garu)    
-1184. [[歳]] : sai (toshi)    
-1185. [[載]] : sai (no-seru, no-ru)    
-1186. [[際]] : sai (kiwa)    
-1187. [[埼]] : saki (—)    
-1188. [[削]] : saku (kezuru)    
-1189. [[搾]] : saku (shiboru)    
-1190. [[錯]] : saku (—)    
-1191. [[笑|咲]] : saku (saku)    
-1192. [[惨]] : san (miji-me)    
-1193. [[傘]] : san (kasa)    
-1194. [[散]] : san (chi-ru)    
-1195. [[斬]] : zan (kiri)    
-1196. [[暫]] : zan (—)    
-1197. [[旨]] : shi (mune)    
-1198. [[伺]] : shi (uka-gau)    
-1199. [[刺]] : shi (sasu)    
-1200. [[祉]] : shi (—)    
-1201. [[肢]] : shi (—)    
-1202. [[施]] : shi (hodoko-su)    
-1203. [[諮]] : shi (haka-ru)    
-1204. [[賜]] : shi (tama-u)    
-1205. [[雌]] : shi (mesu)    
-1206. [[摯]] : shi (—)
-## Part 2
-1207. [[赦]] : sha (yuru-su)    
-1208. [[斜]] : sha (nana-me)    
-1209. [[煮]] : sha (ni-ru, ni-eru, ni-yasu)    
-1210. [[遮]] : sha (sae-gi-ru)    
-1211. [[邪]] : ja (yo-ko-shima)    
-1212. [[蛇]] : ja / da (hebi)    
-1213. [[酌]] : shaku (kuwa-su)    
-1214. [[釈]] : shaku (to-ku)    
-1215. [[爵]] : shaku (—)    
-1216. [[寂]] : jaku / seki (sabi, jaku)    
-1217. [[朱]] : shu (ake)    
-1218. [[狩]] : shū (ka-ru, kari)    
-1219. [[珠]] : shu (tama)    
-1220. [[殊]] : shu (koto)    
-1221. [[趣]] : shu (omo-muki, omoshiro-mi)    
-1222. [[寿]] : ju (kotobuki)    
-1223. [[呪]] : ju (norou)    
-1224. [[需]] : ju (—)    
-1225. [[儒]] : ju (—)    
-1226. [[囚]] : shū (to-rau)    
-1227. [[舟]] : shū (fune)    
-1228. [[秀]] : shū (hideru, sugure-ru)    
-1229. [[臭]] : shū (nio-u, kusai)    
-1230. [[袖]] : shū (sode)    
-1231. [[愁]] : shū (ure-eru, ure-u)    
-1232. [[酬]] : shū (mu-ku-iru)    
-1233. [[醜]] : shū (miniku-i)    
-1234. [[襲]] : shū (o-sou)    
-1235. [[獣]] : jū (kedamono)    
-1236. [[充]] : jū (a-teru, mi-tasu)    
-1237. [[銃]] : jū (tsutsu)    
-1238. [[叔]] : shuku (—)    
-1239. [[淑]] : shuku (—)    
-1240. [[粛]] : shuku (—)    
-1241. [[塾]] : juku (—)    
-1242. [[俊]] : shun (sugure-ru)    
-1243. [[准]] : jun (—)    
-1244. [[殉]] : jun (—)    
-1245. [[循]] : jun (—)    
-1246. [[旬]] : jun (—)    
-1247. [[巡]] : jun (megu-ru)    
-1248. [[盾]] : jun (tate)    
-1249. [[准]] : jun (—)    
-1250. [[緒]] : sho (o, ito-guchi)    
-1251. [[叙]] : jo (—)    
-1252. [[徐]] : jo (ono-ono, yuru-yaka)    
-1253. [[升]] : shō (masu)    
-1254. [[召]] : shō (me-su)    
-1255. [[匠]] : shō (takumi)    
-1256. [[床]] : shō (yuka, toko)    
-1257. [[抄]] : shō (—)    
-1258. [[肖]] : shō (—)    
-1259. [[尚]] : shō (nao)    
-1260. [[昇]] : shō (nobo-ru)    
-1261. [[掌]] : shō (tenohira)    
-1262. [[晶]] : shō (—)    
-1263. [[焦]] : shō (ko-geru, koga-su, ase-ru)    
-1264. [[硝]] : shō (—)    
-1265. [[粧]] : shō (—)    
-1266. [[紹]] : shō (—)    
-1267. [[肖]] : shō (—)    
-1268. [[訟]] : shō (—)    
-1269. [[奨]] : shō (susume-ru)    
-1270. [[詳]] : shō (kuwa-shii)    
-1271. [[丈]] : jō (take)    
-1272. [[畳]] : jō (tatami, tata-mu)    
-1273. [[殖]] : shoku (fu-eru, fu-yasu)    
-1274. [[飾]] : shoku (kazaru)    
-1275. [[触]] : shoku (fu-reru, sawa-ru)    
-1276. [[嘱]] : shoku (shoku-suru)    
-1277. [[辱]] : joku (hazukashi-meru)    
-1278. [[伸]] : shin (no-basu, no-biru)    
-1279. [[唇]] : shin (kuchibiru)    
-1280. [[娠]] : shin (—)    
-1281. [[振]] : shin (fu-ru, furu-u, fu-reru)    
-1282. [[浸]] : shin (hita-su, hita-ru)    
-1283. [[寝]] : shin (ne-ru, ne-kasu)    
-1284. [[慎]] : shin (tsutsushi-mu)    
-1285. [[審]] : shin (tsubu-sa ni)    
-1286. [[震]] : shin (furu-eru, furu-u)    
-1287. [[薪]] : shin (taku)    
-1288. [[刃]] : jin (ha, yaiba)    
-1289. [[尽]] : jin (tsuku-su, tsuku-seru)    
-1290. [[迅]] : jin (hayai)    
-1291. [[陣]] : jin (—)    
-1292. [[尋]] : jin (tazu-neru, hiroi)    
-1293. [[甚]] : jin (hanahada)    
-1294. [[須]] : su (subekaraku)    
-1295. [[酢]] : su (su)    
-1296. [[吹]] : sui (fu-ku)    
-1297. [[帥]] : sui (—)    
-1298. [[粋]] : sui (iki)    
-1299. [[衰]] : sui (otoro-eru)    
-1300. [[崇]] : sū (agame-ru)    
-1301. [[拠|据]] : sui (su-eru, su-waru)    
-1302. [[杉]] : sugi (—)    
-1303. [[澄]] : chō (sumi, su-mu)    
-1304. [[瀬]] : se (—) ????????????????????????????????????????????????????    
-1305. [[畝]] : se (u-ne)    
-1306. [[是]] : ze (—)    
-1307. [[井]] : i (ido)    
-1308. [[姓]] : sei (—)    
-1309. [[征]] : sei (—)    
-1310. [[斉]] : sei (—)    
-1311. [[牲]] : sei (—)    
-1312. [[凄]] : sei (—)    
-1313. [[逝]] : sei (yu-ku, i-ku)    
-1314. [[誓]] : sei (chika-u)    
-1315. [[請]] : sei (ko-u, uke-ru)    
-1316. [[醒]] : sei (sa-meru, sa-masu)    
-1317. [[斥]] : seki (se-meru)    
-1318. [[析]] : seki (—)    
-1319. [[只|隻]] : seki (—)    
-1320. [[惜]] : seki (oshi-mu, o-shii)    
-1321. [[籍]] : seki (—)    
-1322. [[摂]] : setsu (—)    
-1323. [[潜]] : sen (mo-gu-ru, hi-somu)    
-1324. [[旋]] : sen (—)    
-1325. [[薦]] : sen (susume-ru)    
-1326. [[鮮]] : sen (aza-yaka)    
-1327. [[漸]] : zen (—)    
-1328. [[禅]] : zen (—)    
-1329. [[繕]] : zen (tsuku-ru)    
-1330. [[狙]] : so (nera-u)    
-1331. [[阻]] : so (haba-mu)    
-1332. [[租]] : so (—)    
-1333. [[措]] : so (—)    
-1334. [[粗]] : so (ara-i)    
-1335. [[素]] : so (moto)    
-1336. [[訴]] : so (utta-eru)    
-1337. [[塑]] : so (—)    
-1338. [[遡]] : so (saka-noboru)    
-1339. [[礎]] : so (ishizue)    
-1340. [[双]] : sō (futa)    
-1341. [[壮]] : sō (—)    
-1342. [[荘]] : sō (—)    
-1343. [[捜]] : sō (saga-su)    
-1344. [[挿]] : sō (sa-su)    
-1345. [[桑]] : sō (kuwa)    
-1346. [[掃]] : sō (haku)    
-1347. [[曹]] : sō (—)    
-1348. [[槽]] : sō (—)    
-1349. [[燥]] : sō (—)    
-1350. [[霜]] : sō (shimo)    
-1351. [[騒]] : sō (sawa-gu)    
-1352. [[藻]] : sō (mo)    
-1353. [[憎]] : zō (niku-mu, niku-i)    
-1354. [[促]] : soku (unaga-su)    
-1355. [[賊]] : zoku (—)    
-1356. [[遜]] : son (he-ri-kuda-ru)    
-1357. [[汰]] : ta (—)    
-1358. [[妥]] : da (—)    
-1359. [[堕]] : da (ochiru, ochi-iru)    
-1360. [[惰]] : da (—)    
-1361. [[駄]] : da (—)    
-1362. [[耐]] : tai (ta-eru)    
-1363. [[怠]] : tai (okota-ru, namake-ru)    
-1364. [[胎]] : tai (—)    
-1365. [[泰]] : tai (yasu-shii)    
-1366. [[滞]] : tai (todoro-u)    
-1367. [[袋]] : tai (fukuro)    
-1368. [[逮]] : tai (—)    
-1369. [[替]] : tai (ka-eru, ka-waru)    
-1370. [[宅]] : taku (—)    
-1371. [[択]] : taku (era-bu)    
-1372. [[拓]] : taku (—)    
-1373. [[沢]] : taku (sawa)    
-1374. [[濯]] : taku (—)    
-1375. [[但]] : tan (tada-shi)    
-1376. [[奪]] : datsu (uba-u)    
-1377. [[脱]] : datsu (nu-gu, nu-geru)    
-1378. [[棚]] : tana (—)    
-1379. [[谷]] : koku (tani)    
-1380. [[誰]] : dare (—)    
-1381. [[丹]] : tan (ni)    
-1382. [[淡]] : tan (awa-i)    
-1383. [[嘆]] : tan (nage-ku, nageku)    
-1384. [[端]] : tan (hashi, hata, hazu)    
-1385. [[綻]] : tan (hoku-ru)    
-1386. [[胆]] : tan (kimo)    
-1387. [[鍛]] : tan (kita-eru)    
-1388. [[壇]] : dan (—)    
-1389. [[弾]] : dan (hazu-mu, tama)    
-1390. [[遅]] : chi (oku-reru, oso-i)    
-1391. [[痴]] : chi (shiru, oroka)    
-1392. [[稚]] : chi (—)    
-1393. [[致]] : chi (ita-su)    
-1394. [[畜]] : chiku (—)    
-1395. [[逐]] : chiku (—)    
-1396. [[秩]] : chitsu (—)    
-1397. [[窒]] : chitsu (—)    
-1398. [[嫡]] : chaku (—)    
-1399. [[抽]] : chū (hiki-iru)    
-1400. [[衷]] : chū (—)    
-1401. [[酎]] : chū (—)    
-1402. [[鋳]] : chū (iru)    
-1403. [[駐]] : chū (—)    
-1404. [[弔]] : chō (tomo-rau)    
-1405. [[挑]] : chō (ido-mu)    
-1406. [[彫]] : chō (horu)
-## Part 3
-1407. [[徴]] : chō (shirushi)    
-1408. [[懲]] : chō (ko-riru, ko-rasu)    
-1409. [[頂]] : chō (itadaki, itadaku)    
-1410. [[艇]] : tei (—)    
-1411. [[訂]] : tei (—)    
-1412. [[逓]] : tei (—)    
-1413. [[邸]] : tei (yashiki)    
-1414. [[泥]] : dei (doro)    
-1415. [[摘]] : teki (tsu-mu)    
-1416. [[滴]] : teki (shizuku, shitata-ru)    
-1417. [[敵]] : teki (kataki)    
-1418. [[溺]] : deki (obo-reru)    
-1419. [[迭]] : tetsu (—)    
-1420. [[哲]] : tetsu (—)    
-1421. [[澈|徹]] : tetsu (tō-ru, tō-su)    
-1422. [[撤]] : tetsu (—)    
-1423. [[添]] : ten (so-eru, so-u)    
-1424. [[殿]] : den (tono, dono)    
-1425. [[吐]] : to (ha-ku)    
-1426. [[塗]] : to (nu-ru)    
-1427. [[斗]] : to (—)    
-1428. [[渡]] : to (wata-ru, wata-su)    
-1429. [[奴]] : do (yatsu)    
-1430. [[怒]] : do (ika-ru, oko-ru)    
-1431. [[到]] : tō (ita-ru)    
-1432. [[逃]] : tō (ni-geru, nogareru, nigeru)    
-1433. [[倒]] : tō (tao-reru, tao-su)    
-1434. [[唐]] : tō (kara)    
-1435. [[桃]] : tō (momo)    
-1436. [[透]] : tō (suku, su-kasu, tō-ru)    
-1437. [[悼]] : tō (ita-mu)    
-1438. [[盗]] : tō (nusu-mu)    
-1439. [[塔]] : tō (—)    
-1440. [[搭]] : tō (—)    
-1441. [[棟]] : tō (mune, mura)    
-1442. [[痘]] : tō (—)    
-1443. [[筒]] : tō (tsutsu)    
-1444. [[到]] : tō (ita-ru)    
-1445. [[謄]] : tō (—)    
-1446. [[踏]] : tō (fu-mu, fu-maru)    
-1447. [[騰]] : tō (—)    
-1448. [[闘]] : tō (tataka-u)    
-1449. [[洞]] : dō (hora)    
-1450. [[胴]] : dō (—)    
-1451. [[瞳]] : dō (hitomi)    
-1452. 峠 : tōge (—)    FORBIDDEN
-1453. [[匿]] : toku (kaku-mu)    
-1454. [[篤]] : toku (atsu-i)    
-1455. [[凸]] : totsu (—)    
-1456. [[突]] : totsu (tsu-ku)    
-1457. [[屯]] : ton (—)    
-1458. [[豚]] : ton (buta)    
-1459. [[頓]] : ton (—)    
-1460. [[貪]] : ton (むさぼ-ru)    
-1461. [[鈍]] : don (nibu-i, nibu-ru)    
-1462. [[曇]] : don (kumo-ru)    
-1463. [[丼]] : donburi (—)    
-1464. [[那]] : na (—)    
-1465. [[乃|奈]] : na (—)    
-1466. [[軟]] : nan (yawa-raka, yawa-rakai)    
-1467. [[尼]] : ni (ama)    
-1468. [[貳|弐]] : ni (—)    
-1469. 匂 : nioi (nio-u)      FORBIDDEN
-1470. [[虹]] : kō (niji)    
-1471. [[如]] : jo / nyo (—)    
-1472. [[尿]] : nyō (—)    
-1473. [[妊]] : nin (—)    
-1474. [[忍]] : nin (shinobu, shinobi)    
-1475. [[寧]] : nei (—)    
-1476. [[粘]] : nen (neba-ru)    
-1477. [[悩]] : nō (naya-mu, naya-masu)    
-1478. [[濃]] : nō (koi)    
-1479. [[把]] : ha (—)    
-1480. [[覇]] : ha (—)    
-1481. [[婆]] : ba (—)    
-1482. [[罵]] : ba (nonoshi-ru)    
-1483. [[杯]] : hai (sakazuki)    
-1484. [[排]] : hai (—)    
-1485. [[敗]] : hai (yabu-reru)    
-1486. [[輩]] : hai (—)    
-1487. [[培]] : bai (tsuchi-kau)    
-1488. [[陪]] : bai (—)    
-1489. [[媒]] : bai (—)    
-1490. [[賠]] : bai (tsugunau)    
-1491. [[伯]] : haku (—)    
-1492. [[拍]] : haku (—)    
-1493. [[泊]] : haku (tomo-ru, tomo-reru)    
-1494. [[舶]] : haku (—)    
-1495. [[薄]] : haku (usu-i, usu-meru)    
-1496. [[漠]] : baku (—)    
-1497. [[縛]] : baku (shiba-ru)    
-1498. [[肌]] : hada (—)    
-1499. [[鉢]] : hachi (hachi, hachi-bachi)    
-1500. [[伐]] : batsu (ki-ru)    
-1501. [[抜]] : batsu (nu-ku, nu-keru, nu-kasu)    
-1502. [[罰]] : batsu (batsu-su, bassuru)    
-1503. [[閥]] : batsu (—)    
-1504. [[氾]] : han (—)    
-1505. [[帆]] : han (ho)    
-1506. [[搬]] : han (—)    
-1507. [[斑]] : han (madara)    
-1508. [[伴]] : han (tomo-nau, tomo)    
-1509. [[畔]] : han (—)    
-1510. [[般]] : han (—)    
-1511. [[販]] : han (—)    
-1512. [[範]] : han (—)    
-1513. [[繁]] : han (shige-ru)    
-1514. [[藩]] : han (—)    
-1515. [[蛮]] : ban (—)    
-1516. [[卑]] : hi (hiya-shii, iya-shii)    
-1517. [[妃]] : hi (—)    
-1518. [[彼]] : hi (kare, kano)    
-1519. [[被]] : hi (kabu-ru, koumu-ru)    
-1520. [[扉]] : hi (tobira)    
-1521. [[碑]] : hi (ishi-bumi)    
-1522. [[泌]] : hitsu (—)    
-1523. [[姫]] : hime (—)    
-1524. [[漂]] : hyō (tadayou)    
-1525. [[苗]] : byō / myō (nae)    
-1526. [[描]] : byō (ega-ku)    
-1527. [[猫]] : byō (neko)    
-1528. [[浜]] : hin / hama (hama)    
-1529. [[賓]] : hin (—)    
-1530. [[頻]] : hin (—)    
-1531. [[敏]] : bin (sato-i)    
-1532. [[瓶]] : bin (kame)    
-1533. [[扶]] : fu (tasu-keru)    
-1534. [[怖]] : fu (kowa-i)    
-1535. [[附]] : fu (—)    
-1536. [[訃]] : fu (—)    
-1537. [[赴]] : fu (omomu-ku)    
-1538. [[浮]] : fu (u-ku, u-kabu, u-kaberu)    
-1539. [[符]] : fu (—)    
-1540. [[普]] : fu (—)    
-1541. [[腐]] : fu (kusa-ru, kusa-su)    
-1542. [[敷]] : fu (shi-ku, shi-keru)    
-1543. [[膚]] : fu (hada)    
-1544. [[賦]] : fu (—)    
-1545. [[舞]] : bu (mai, mau)    
-1546. [[封]] : fū (—)    
-1547. [[伏]] : fuku (fu-seru, fu-su)    
-1548. [[覆]] : fuku (o-ou, kutsugaesu)    
-1549. [[払]] : futsu (hara-u)    
-1550. [[沸]] : futsu (wa-ku, wa-kasu)    
-1551. [[噴]] : fun (fu-ku)    
-1552. [[墳]] : fun (—)    
-1553. [[憤]] : fun (ika-ru, ikido-ru)    
-1554. [[丙]] : hei (—)    
-1555. [[併]] : hei (awa-seru, awa-su)    
-1556. [[塀]] : hei (—)    
-1557. [[幣]] : hei (nusa)    
-1558. [[弊]] : hei (—)    
-1559. [[柄]] : hei (gara, e)    
-1560. [[陛]] : hei (—)    
-1561. [[閉]] : hei (to-ru, to-ji-ru, he-dasu)    
-1562. [[蔽]] : hei (—)    
-1563. [[片]] : hen (kata)    
-1564. [[遍]] : hen (—)    
-1565. [[舗]] : ho (—)    
-1566. [[捕]] : ho (tora-eru, tora-waru, tsukama-eru)    
-1567. [[募]] : bo (tsuno-ru)    
-1568. [[慕]] : bo (shita-u)    
-1569. [[簿]] : bo (—)    
-1570. [[芳]] : hō (kōba-shii)    
-1571. [[邦]] : hō (kuni)    
-1572. [[奉]] : hō / bu (tatematsu-ru, matsu-ru)    
-1573. [[抱]] : hō (da-ku, idaku, kaka-eru)    
-1574. [[泡]] : hō (awa)    
-1575. [[胞]] : hō (—)    
-1576. [[俸]] : hō (—)    
-1577. [[倣]] : hō (nara-u)    
-1578. [[峰]] : hō (mine)    
-1579. [[砲]] : hō (—)    
-1580. [[崩]] : hō (kuzu-reru, kuzu-su)    
-1581. [[蜂]] : hō (hachi)    
-1582. [[飽]] : hō (a-ku, a-kiru, a-kasu)    
-1583. [[縫]] : hō (nu-u)    
-1584. [[亡]] : bō (na-i)    
-1585. [[傍]] : bō (katawara, soba)    
-1586. [[妨]] : bō (sata-geru)    
-1587. [[坊]] : bō (—)    
-1588. [[房]] : bō (fusa, heya)    
-1589. [[帽]] : bō (bōshi)    
-1590. [[貌]] : bō (katachi)    
-1591. [[某]] : bō (soregashi)    
-1592. [[棒]] : bō (—)    
-1593. [[冒]] : bō (oka-su)    
-1594. [[奔]] : hon (hashi-ru)    
-1595. [[翻]] : hon (hirugae-ru, hirugae-su)    
-1596. [[凡]] : bon (—)    
-1597. [[盆]] : bon (bon-odori)    
-1598. [[摩]] : ma (su-ru)    
-1599. [[磨]] : ma (mi-gaku)    
-1600. [[魔]] : ma (—)    
-1601. [[麻]] : ma (asa)    
-1602. [[昧]] : mai (—)    
-1603. [[埋]] : mai (u-meru, u-maru, u-moreru)    
-1604. [[膜]] : maku (—)    
-1605. [[又]] : mata (—)    
-1606. [[抹]] : matsu (—)
-## Part 4
-
-1607. [[慢]] : man (—)    
-1608. [[漫]] : man (—)    
-1609. [[魅]] : mi (—)    
-1610. [[岬]] : misaki (—)    
-1611. [[蜜]] : mitsu (—)    
-1612. [[妙]] : myō (taya-su, myōna)    
-1613. [[眠]] : min (ne-muru, ne-murasu)    
-1614. [[矛]] : mu (hoko)    
-1615. [[霧]] : mu (kiri)    
-1616. [[娘]] : musume (—)    
-1617. [[冥]] : mei / myō (—)    
-1618. [[銘]] : mei (—)    
-1619. [[滅]] : metsu (ho-rosu, ho-oreru)    
-1620. [[免]] : men (manuka-reru, manuka-u)    
-1621. [[麺]] : men (—)    
-1622. [[模]] : mo (—)    
-1623. [[茂]] : mo (shige-ru)    
-1624. [[妄]] : mō / bō (—)    
-1625. [[盲]] : mō (me-shi)    
-1626. [[耗]] : mō (—)    
-1627. [[猛]] : mō (take-shii)    
-1628. [[網]] : mō (ami)    
-1629. [[黙]] : moku (dama-ru)    
-1630. [[紋]] : mon (—)    
-1631. [[躍]] : yaku (odo-ru)    
-1632. [[闇]] : an (yami)    
-1633. [[油]] : yu (abura)    
-1634. [[癒]] : yu (iya-su, iya-sareru)    
-1635. [[諭]] : yu (sato-su)    
-1636. [[唯]] : yui (tada)    
-1637. [[幽]] : yū (kura-i)    
-1638. [[悠]] : yū (—)    
-1639. [[湧]] : yū (wa-ku)    
-1640. [[猶]] : yū (nao)    
-1641. [[裕]] : yū (—)    
-1642. [[誉]] : yo (homa-re)    
-1643. [[妖]] : yō (ayashi-i)    
-1644. [[庸]] : yō (—)    
-1645. [[揚]] : yō (a-geru, a-garu)    
-1646. [[揺]] : yō (yu-ragu, yu-reru)    
-1647. [[擁]] : yō (—)    
-1648. [[溶]] : yō (to-kasu, to-keru)    
-1649. [[腰]] : yō (koshi)    
-1650. [[瘍]] : yō (—)    
-1651. [[踊]] : yō (odo-ru, odo-ri)    
-1652. [[窯]] : yō (kama)    
-1653. [[擬]] : gi (gi-suru)    
-1654. [[翼]] : yoku (tsubasa)    
-1655. [[拉]] : ra (ra-chiru)    
-1656. [[裸]] : ra (hadaka)    
-1657. [[羅]] : ra (—)    
-1658. [[雷]] : rai (kaminari)    
-1659. [[絡]] : raku (kaka-ru, kaku)    
-1660. [[酪]] : raku (—)    
-1661. [[辣]] : ratsu (kara-i)    
-1662. [[濫]] : ran (midara, midare)    
-1663. [[藍]] : ran (ai)    
-1664. [[欄]] : ran (—)    
-1665. [[吏]] : ri (—)    
-1666. [[履]] : ri (ha-ku)    
-1667. [[璃]] : ri (—)    
-1668. [[隆]] : ryū (—)    
-1669. [[硫]] : ryū (—)    
-1670. [[侶]] : ryo (—)    
-1671. [[虜]] : ryo (toriko)    
-1672. [[慮]] : ryo (omohakaru)    
-1673. [[療]] : ryo (—)    
-1674. [[瞭]] : ryo (—)    
-1675. [[糧]] : ryo (kate)    
-1676. [[隣]] : rin (tonari)    
-1677. [[隷]] : rei (—)    
-1678. [[鈴]] : rei (suzu)    
-1679. [[零]] : rei (rei, zero)    
-1680. [[霊]] : rei (tama)    
-1681. [[齢]] : rei (—)    
-1682. [[麗]] : rei (uruwa-shii)    
-1683. [[暦]] : reki (koyomi)    
-1684. [[烈]] : retsu (isagiyo-i)    
-1685. [[裂]] : retsu (sa-ku, sa-keru)    
-1686. [[廉]] : ren (—)    
-1687. [[錬]] : ren (ne-ru)    
-1688. [[呂]] : ro (—)    
-1689. [[炉]] : ro (ro)    
-1690. [[賂]] : ro (ma-ika)    
-1691. [[露]] : ro (tsuyu, arawasu)    
-1692. [[廊]] : rō (—)    
-1693. [[楼]] : rō (—)    
-1694. [[浪]] : rō (—)    
-1695. [[漏]] : rō (mo-ru, mo-reru, mo-rasu)    
-1696. [[郎]] : rō (—)    
-1697. [[萌]] : hō (moeru)    
-1698. [[漠]] : baku (—)    
-1699. [[黛]] : tai (—)    
-1700. [[寮]] : ryō (—)    
-1701. [[厘]] : rin (—)    
-1702. [[麟]] : rin (—)    
-1703. [[隅]] : gū (sumi)    
-1704. [[弄]] : rō (mote-asobu)    
-1705. [[涼]] : ryō (suzu-shii)    
-1706. [[猟]] : ryō (kari)    
-1707. [[陵]] : ryō (misa-zuka)    
-1708. [[糎]] : senchi (—)    
-1709. [[錘]] : sui (omori)    
-1710. [[壌]] : jō (tsuchi)    
-1711. [[藷]] : sho (imo)    
-1712. [[衷]] : chū (—)    
-1713. [[畳]] : jō (tatami)    
-1714. [[簾]] : ren (sudare)    
-1715. [[嶺]] : rei (mine)    
-1716. [[櫓]] : ro (yagura)    
-1717. [[侍]] : ji (samurai)    
-1718. [[鉉]] : gen (—)    
-1719. [[鯉]] : ri (koi)    
-1720. [[撚]] : nen (hineru)    
-1721. [[禄]] : roku (fuchi)    
-1722. [[檸]] : nei (—)    
-1723. [[燐]] : rin (—)    
-1724. [[瑠]] : ru (—)    
-1725. [[瘤]] : ryū (kobu)    
-1726. [[瞳]] : dō (hitomi)    
-1727. [[肋]] : ro (aka)    
-1728. [[賑]] : shin (nigiwau)    
-1729. [[謎]] : mei (nazo)    
-1730. [[槙]] : maki (—)    
-1731. [[諦]] : tei (akirameru)    
-1732. [[襪]] : batsu (kutsushita)    
-1733. [[緻]] : chi (—)    
-1734. [[藁]] : wara (—)    
-1735. [[霜]] : sō (shimo)    
-1736. [[鰯]] : iwashi (—)    
-1737. [[咽]] : in (—)    
-1738. [[蹴]] : shū (ke-ru)    
-1739. [[瞥]] : betsusuru (—)    
-1740. [[鮫]] : same (—)    
-1741. [[榊]] : sakaki (—)    
-1742. [[蛙]] : kaeru (—)    
-1743. [[檻]] : ori (—)    
-1744. [[鴨]] : kamo (—)    
-1745. [[勺]] : shaku (—)    
-1746. [[諏]] : su (—)    
-1747. [[隙]] : suki (—)    
-1748. [[鯖]] : saba (—)    
-1749. [[桧]] : hinoki (—)    
-1750. [[蒔]] : ma (makaseru)    
-1751. [[鶴]] : tsuru (—)    
-1752. [[匙]] : saji (—)    
-1753. [[匕]] : hi (—)    
-1754. [[釘]] : kugi (—)    
-1755. [[錆]] : sabi (—)    
-1756. [[穎]] : ei (—)    
-1757. [[鋏]] : hasami (—)    
-1758. [[簸]] : hi (—)    
-1759. [[餅]] : mochi (—)    
-1760. [[鬱]] : utsu (—)    
-1761. [[餌]] : esa (—)    
-1762. [[鬢]] : bin (—)    
-1763. [[鰹]] : katsu (—)    
-1764. [[鵡]] : mu (—)    
-1765. [[鷺]] : sagi (—)    
-1766. [[鱒]] : masu (—)    
-1767. [[鮎]] : ayu (—)    
-1768. [[鰍]] : kajika (—)    
-1769. [[鱈]] : tara (—)    
-1770. [[鯛]] : tai (—)    
-1771. [[鰐]] : wani (—)    
-1772. [[鴻]] : kō (—)    
-1773. [[鵠]] : koku (—)    
-1774. [[鵜]] : u (—)    
-1775. [[鶏]] : kei (niwatori)    
-1776. [[鶴]] : kaku (tsuru)    
-1777. [[鷲]] : washi (—)    
-1778. [[鷹]] : taka (—)    
-1779. [[鴎]] : ō (kamome)    
-1780. [[鵬]] : hō (—)    
-1781. [[鵡]] : mu (inko)    
-1782. [[鷗]] : ō (—)    
-1783. [[鵠]] : koku (hakuchō)    
-1784. [[鴨]] : kamo (—)    
-1785. [[鵞]] : ga (—)    
-1786. [[鵑]] : ken (—)    
-1787. [[鷽]] : haku (—)    
-1788. [[鵯]] : hiyodori (—)    
-1789. [[鵡]] : mu (—)   
-1790. [[鶚]] : gaku (—)    
-1791. [[鷹]] : taka (—)    
-1792. [[鴎]] : kamome (—)    
-1793. [[鷲]] : washi (—)    
-1794. [[鵺]] : nue (—)    
-1795. [[鶴]] : tsuru (—)    
-1796. [[鵜]] : u (—)    
-1797. [[鶉]] : uzura (—)    
-1798. [[鶴]] : kaku (tsuru)    
-1799. [[鶏]] : kei (niwatori)    
-1800. [[鷹]] : taka (—)    
-1801. [[鴻]] : kō (—)    
-1802. [[鷹]] : taka (—)    
-1803. [[鵠]] : koku (—)    
-1804. [[鴎]] : kamome (—)    
-1805. [[鷲]] : washi (—)    
-1806. [[鷹]] : taka (—)
-## 1807–2000
-1807. [[慢]] : man (—)    
-1808. [[漫]] : man (mida-reru, midari)    
-1809. [[魅]] : mi (—)    
-1810. [[銘]] : mei (—)    
-1811. [[滅]] : metsu (horobosu, horobiru)    
-1812. [[免]] : men (manukareru, manukau)    
-1813. [[模]] : mo (—)    
-1814. [[茂]] : mo (shigeru)    
-1815. [[妄]] : mō / bō (—)    
-1816. [[盲]] : mō (me-shi)    
-1817. [[耗]] : mō (—)    
-1818. [[猛]] : mō (takeshii)    
-1819. [[網]] : mō (ami)    
-1820. [[黙]] : moku (damaru)    
-1821. [[紋]] : mon (—)    
-1822. 匁 : monme (old unit of weight)    FORBIDDEN
-1823. [[躍]] : yaku (odoru)    
-1824. [[癒]] : yu (iyasu, iyasareru)    
-1825. [[諭]] : yu (sato-su)    
-1826. [[唯]] : yui (tada)    
-1827. [[幽]] : yū (kurai)    
-1828. [[悠]] : yū (—)    
-1829. [[猶]] : yū (nao)    
-1830. [[裕]] : yū (yutaka)    
-1831. [[誉]] : yo (homa-re)    
-1832. [[妖]] : yō (ayashii)    
-1833. [[庸]] : yō (—)    
-1834. [[揚]] : yō (ageru, agaru)    
-1835. [[揺]] : yō (yureru, yuragu)    
-1836. [[擁]] : yō (—)    
-1837. [[溶]] : yō (tokeru, tokasu)    
-1838. [[腰]] : yō (koshi)    
-1839. [[踊]] : yō (odoru, odori)    
-1840. [[窯]] : yō (kama)    
-1841. [[裸]] : ra (hadaka)    
-1842. [[頼]] : rai (tanomu, tayoru, tano-shii)    
-1843. [[絡]] : raku (kakaru, kaku)    
-1844. [[酪]] : raku (—)    
-1845. [[濫]] : ran (midaru, midareru)    
-1846. [[覧]] : ran (—)    
-1847. [[里|裏]] : ri (ura)    
-1848. [[律]] : ritsu (—)    
-1849. [[隷]] : rei (—)    
-1850. [[隆]] : ryū (—)    
-1851. [[硫]] : ryū (—)    
-1852. [[侶]] : ryo (—)    
-1853. [[虜]] : ryo (toriko)    
-1854. [[慮]] : ryo (omohakaru)    
-1855. [[療]] : ryo (—)    
-1856. [[瞭]] : ryo (—)    
-1857. [[糧]] : ryo (kate)    
-1858. [[隣]] : rin (tonari)    
-1859. [[零]] : rei (rei, zero)    
-1860. [[霊]] : rei (tama)    
-1861. [[齢]] : rei (—)    
-1862. [[麗]] : rei (uruwashii)    
-1863. [[暦]] : reki (koyomi)    
-1864. [[劣]] : retsu (oto-ru)    
-1865. [[烈]] : retsu (isagiyo-i)    
-1866. [[裂]] : retsu (saku, sakeru)    
-1867. [[廉]] : ren (—)    
-1868. [[錬]] : ren (neru)    
-1869. [[露]] : ro (tsuyu, arawasu)    
-1870. [[廊]] : rō (—)     ----------------------------------------------------------------------
-1871. [[楼]] : rō (—)    
-1872. [[浪]] : rō (—)    
-1873. [[漏]] : rō (morasu, moreru, moru)    
-1874. [[郎]] : rō (—)    
-1875. [[惑]] : waku (madowasu, madowaru)    
-1876. 枠 : waku (—)     FORBIDDEN
-1877. [[湾]] : wan (ura)    
-1878. [[腕]] : wan (ude)    
-1879. [[餓]] : ga (u-eru)    
-1880. [[廃]] : hai (suta-reru, suta-ru)    
-1881. [[排]] : hai (—)    
-1882. [[杯]] : hai (sakazuki)    
-1883. [[培]] : bai (tsuchi-kau)    
-1884. [[媒]] : bai (—)    
-1885. [[賠]] : bai (tsugunau)    
-1886. [[伯]] : haku (—)    
-1887. [[拍]] : haku (—)    
-1888. [[泊]] : haku (tomo-ru, tomo-reru)    
-1889. [[舶]] : haku (—)    
-1890. [[薄]] : haku (usu-i, usu-meru)    
-1891. [[迫]] : haku (se-maru)    
-1892. [[漠]] : baku (—)    
-1893. [[縛]] : baku (shiba-ru)    
-1894. [[肌]] : hada (—)    
-1895. [[鉢]] : hachi (hachi, hachi-bachi)    
-1896. [[伐]] : batsu (ki-ru)    
-1897. [[抜]] : batsu (nu-ku, nu-keru, nu-kasu)    
-1898. [[罰]] : batsu (batsu-su, bassuru)    
-1899. [[閥]] : batsu (—)    
-1900. [[伴]] : han (tomo-nau, tomo)    
-1901. [[帆]] : han (ho)    
-1902. [[搬]] : han (—)    
-1903. [[畔]] : han (—)    
-1904. [[般]] : han (—)    
-1905. [[販]] : han (—)    
-1906. [[範]] : han (—)    
-1907. [[繁]] : han (shige-ru)    
-1908. [[藩]] : han (—)    
-1909. [[蛮]] : ban (—)    
-1910. [[卑]] : hi (hiya-shii, iya-shii)    
-1911. [[妃]] : hi (—)    
-1912. [[彼]] : hi (kare, kano)    
-1913. [[被]] : hi (kabu-ru, koumu-ru)    
-1914. [[扉]] : hi (tobira)    
-1915. [[碑]] : hi (ishi-bumi)    
-1916. [[避]] : hi (sake-ru, yokeru)    
-1917. [[尾]] : bi (o)    
-1918. [[微]] : bi (kasuka)    
-1919. [[膝]] : hiza (—)    
-1920. [[肘]] : hiji (—)    
-1921. [[匹]] : hiki (—)    
-1922. [[描]] : byō (ega-ku)    
-1923. [[苗]] : byō (nae)    
-1924. [[浜]] : hama (—)    
-1925. [[賓]] : hin (—)    
-1926. [[頻]] : hin (—)    
-1927. [[敏]] : bin (sato-i)    
-1928. [[瓶]] : bin (kame)    
-1929. [[扶]] : fu (tasu-keru)    
-1930. [[怖]] : fu (kowa-i)    
-1931. [[阜]] : fu (oka)    
-1932. [[附]] : fu (—)    
-1933. [[訃]] : fu (—)    
-1934. [[赴]] : fu (omomu-ku)    
-1935. [[浮]] : fu (uku, ukabu, ukaberu)    
-1936. [[符]] : fu (—)    
-1937. [[普]] : fu (—)    
-1938. [[腐]] : fu (kusa-ru, kusa-su)    
-1939. [[敷]] : fu (shi-ku, shi-keru)    
-1940. [[膚]] : fu (hada)    
-1941. [[賦]] : fu (—)    
-1942. [[舞]] : bu (mai, mau)    
-1943. [[封]] : fū (—)    
-1944. [[伏]] : fuku (fu-seru, fu-su)    
-1945. [[覆]] : fuku (o-ou, kutsugaesu)    
-1946. [[拂|払]] : futsu (hara-u)    
-1947. [[沸]] : futsu (wa-ku, wa-kasu)    
-1948. [[噴]] : fun (fu-ku)    
-1949. [[墳]] : fun (—)    
-1950. [[憤]] : fun (ika-ru, ikido-ru)    
-1951. [[丙]] : hei (—)    
-1952. [[並|併]] : hei (awa-seru, awa-su)    
-1953. 塀 : hei (—)    FORBIDDEN
-1954. [[幣]] : hei (nusa)    
-1955. [[弊]] : hei (—)    
-1956. [[柄]] : hei (gara, e)    
-1957. [[陛]] : hei (—)    
-1958. [[閉]] : hei (to-ru, to-ji-ru, he-dasu)    
-1959. [[蔽]] : hei (—)    
-1960. [[片]] : hen (kata)    
-1961. [[遍]] : hen (—)    
-1962. [[舗]] : ho (—)    
-1963. [[募]] : bo (tsuno-ru)    
-1964. [[慕]] : bo (shita-u)    
-1965. [[簿]] : bo (—)    
-1966. [[芳]] : hō (kōba-shii)    
-1967. [[邦]] : hō (kuni)    
-1968. [[奉]] : hō (tatematsu-ru, matsu-ru)    
-1969. [[抱]] : hō (da-ku, idaku, kaka-eru)    
-1970. [[泡]] : hō (awa)    
-1971. [[胞]] : hō (—)    
-1972. [[俸]] : hō (—)    
-1973. [[倣]] : hō (nara-u)    
-1974. [[峰]] : hō (mine)    
-1975. [[砲]] : hō (—)    
-1976. [[崩]] : hō (kuzu-reru, kuzu-su)    
-1977. [[蜂]] : hō (hachi)    
-1978. [[飽]] : hō (a-ku, a-kiru, a-kasu)    
-1979. [[縫]] : hō (nu-u)    
-1980. [[乏]] : bō (tobo-shii)    
-1981. [[傍]] : bō (katawara, soba)    
-1982. [[妨]] : bō (sata-geru)    
-1983. [[帽]] : bō (bōshi)    
-1984. [[貌]] : bō (katachi)    
-1985. [[某]] : bō (soregashi)    
-1986. [[棒]] : bō (—)    
-1987. [[冒]] : bō (oka-su)    
-1988. [[凡]] : bon (—)    
-1989. [[盆]] : bon (—)    
-1990. [[磨|摩]] : ma (su-ru)    
-1991. [[磨]] : ma (mi-gaku)    
-1992. [[魔]] : ma (—)    
-1993. [[麻]] : ma (asa)    
-1994. [[埋]] : mai (u-meru, u-maru, u-moreru)    
-1995. [[膜]] : maku (—)    
-1996. [[又]] : mata (—)    
-1997. [[抹]] : matsu (—)    
-1998. [[慢]] : man (—)    
-1999. [[漫]] : man (midaru)    
-2000. [[魅]] : mi (—)
-## 2001–2136
-2001. [[銘]] : mei (—)    
-2002. [[滅]] : metsu (horobosu, horobiru)    
-2003. [[免]] : men (manukareru, manukau)    
-2004. [[模]] : mo (—)    
-2005. [[茂]] : mo (shigeru)    
-2006. [[妄]] : mō (—)    
-2007. [[盲]] : mō (me-shi)    
-2008. [[耗]] : mō (—)    
-2009. [[猛]] : mō (takeshii)    
-2010. [[網]] : mō (ami)    
-2011. [[黙]] : moku (damaru)    
-2012. [[紋]] : mon (—)    
-2013. 匁 : monme (old unit of weight)     FORBIDDEN
-2014. [[躍]] : yaku (odoru)    
-2015. [[癒]] : yu (iyasu, iyasareru)    
-2016. [[諭]] : yu (sato-su)    
-2017. [[唯]] : yui (tada)    
-2018. [[幽]] : yū (kurai)    
-2019. [[悠]] : yū (—)    
-2020. [[猶]] : yū (nao)    
-2021. [[裕]] : yū (yutaka)    
-2022. [[誉]] : yo (homa-re)    
-2023. [[妖]] : yō (ayashii)    
-2024. [[庸]] : yō (—)    
-2025. [[揚]] : yō (ageru, agaru)    
-2026. [[揺]] : yō (yureru, yuragu)    
-2027. [[擁]] : yō (—)    
-2028. [[溶]] : yō (tokeru, tokasu)    
-2029. [[腰]] : yō (koshi)    
-2030. [[踊]] : yō (odoru, odori)    
-2031. [[窯]] : yō (kama)    
-2032. [[裸]] : ra (hadaka)    
-2033. [[頼]] : rai (tanomu, tayoru)    
-2034. [[絡]] : raku (kakaru, kaku)    
-2035. [[酪]] : raku (—)    
-2036. [[濫]] : ran (midaru, midareru)    
-2037. [[覧]] : ran (—)    
-2038. [[里|裏]] : ri (ura)    
-2039. [[律]] : ritsu (—)    
-2040. [[隷]] : rei (—)    
-2041. [[隆]] : ryū (—)    
-2042. [[硫]] : ryū (—)    
-2043. [[侶]] : ryo (—)    
-2044. [[虜]] : ryo (toriko)    
-2045. [[慮]] : ryo (omohakaru)    
-2046. [[療]] : ryo (—)    
-2047. [[瞭]] : ryo (—)    
-2048. [[糧]] : ryo (kate)    
-2049. [[隣]] : rin (tonari)    
-2050. [[零]] : rei (rei, zero)    
-2051. [[霊]] : rei (tama)    
-2052. [[齢]] : rei (—)    
-2053. [[麗]] : rei (uruwashii)    
-2054. [[暦]] : reki (koyomi)    
-2055. [[劣]] : retsu (oto-ru)    
-2056. [[烈]] : retsu (isagiyo-i)    
-2057. [[裂]] : retsu (saku, sakeru)    
-2058. [[廉]] : ren (—)    
-2059. [[錬]] : ren (neru)    
-2060. [[露]] : ro (tsuyu, arawasu)    
-2061. [[廊]] : rō (—)    -----------------------------------
-2062. [[楼]] : rō (—)    
-2063. [[浪]] : rō (—)    
-2064. [[漏]] : rō (morasu, moreru, moru)    
-2065. [[郎]] : rō (—)    
-2066. [[惑]] : waku (madowasu, madowaru)    
-2067. 枠 : waku (—)    FORBIDDEN
-2068. [[湾]] : wan (ura)    
-2069. [[腕]] : wan (ude)    
-2070. [[餓]] : ga (u-eru)    
-2071. [[廃]] : hai (suta-reru, suta-ru)    
-2072. [[排]] : hai (—)    
-2073. [[杯]] : hai (sakazuki)    
-2074. [[培]] : bai (tsuchi-kau)    
-2075. [[媒]] : bai (—)    
-2076. [[賠]] : bai (tsugunau)    
-2077. [[伯]] : haku (—)    
-2078. [[拍]] : haku (—)    
-2079. [[泊]] : haku (tomo-ru, tomo-reru)    
-2080. [[舶]] : haku (—)    
-2081. [[薄]] : haku (usu-i, usu-meru)    
-2082. [[迫]] : haku (se-maru)    
-2083. [[漠]] : baku (—)    
-2084. [[縛]] : baku (shiba-ru)    
-2085. [[肌]] : hada (—)    
-2086. [[鉢]] : hachi (hachi, hachi-bachi)    
-2087. [[伐]] : batsu (ki-ru)    
-2088. [[抜]] : batsu (nu-ku, nu-keru, nu-kasu)    
-2089. [[罰]] : batsu (batsu-su, bassuru)    
-2090. [[閥]] : batsu (—)    
-2091. [[伴]] : han (tomo-nau, tomo)    
-2092. [[帆]] : han (ho)    
-2093. [[搬]] : han (—)    
-2094. [[畔]] : han (—)    
-2095. [[般]] : han (—)    
-2096. [[販]] : han (—)    
-2097. [[範]] : han (—)    
-2098. [[繁]] : han (shige-ru)    
-2099. [[藩]] : han (—)    
-2100. [[蛮]] : ban (—)    
-2101. [[卑]] : hi (hiya-shii, iya-shii)    
-2102. [[妃]] : hi (—)    
-2103. [[彼]] : hi (kare, kano)    
-2104. [[被]] : hi (kabu-ru, koumu-ru)    
-2105. [[扉]] : hi (tobira)    
-2106. [[碑]] : hi (ishi-bumi)    
-2107. [[避]] : hi (sake-ru, yokeru)    
-2108. [[尾]] : bi (o)    
-2109. [[微]] : bi (kasuka)    
-2110. [[膝]] : hiza (—)    
-2111. [[肘]] : hiji (—)    
-2112. [[匹]] : hiki (—)    
-2113. [[描]] : byō (ega-ku)    
-2114. [[苗]] : byō (nae)    
-2115. [[浜]] : hama (—)    
-2116. [[賓]] : hin (—)    
-2117. [[頻]] : hin (—)    
-2118. [[敏]] : bin (sato-i)    
-2119. [[瓶]] : bin (kame)    
-2120. [[扶]] : fu (tasu-keru)    
-2121. [[怖]] : fu (kowa-i)    
-2122. [[附]] : fu (—)    
-2123. [[訃]] : fu (—)    
-2124. [[赴]] : fu (omomu-ku)    
-2125. [[浮]] : fu (uku, ukabu, ukaberu)    
-2126. [[符]] : fu (—)    
-2127. [[普]] : fu (—)    
-2128. [[腐]] : fu (kusa-ru, kusa-su)    
-2129. [[敷]] : fu (shi-ku, shi-keru)    
-2130. [[膚]] : fu (hada)    
-2131. [[賦]] : fu (—)    
-2132. [[舞]] : bu (mai, mau)    
-2133. [[封]] : fū (—)
-2134. [[伏]] : fuku (fu-seru, fu-su)
-2135. [[覆]] : fuku (o-ou, kutsugaesu)    
-2136. [[拂|払]]: futsu (hara-u)
+1007. [[亜]] : 	亞	S	sub-, Asia
+1008. [[哀]] : pathetic
+1009. [[挨]] : push open
+1010. [[曖]] : not clear
+1011. [[握]] : grip
+1012. [[扱]] : handle
+1013. [[宛]] : allocate
+1014. [[嵐]] : storm
+1015. [[依]] : reliant
+1016. [[威]] : intimidate
+1017. [[為]] : 	爲	S	do
+1018. [[畏]] : fear
+1019. [[尉]] : military officer
+1020. [[萎]] : wither
+1021. [[偉]] : admirable
+1022. [[椅]] : chair
+1023. [[彙]] : same kind
+1024. [[違]] : differ
+1025. [[維]] : fiber
+1026. [[慰]] : consolation
+1027. [[緯]] : horizontal
+1028. [[壱]] : 	壹	S	one (falsification prevention)
+1029. [[逸]] : 	逸 [4]	S	deviate
+1030. [[芋]] : potato
+1031. [[咽]] : throat
+1032. [[姻]] : matrimony
+1033. [[淫]] :  [7]		S	lewdness
+1034. [[陰]] : shade
+1035. [[隠]] : 	隱	S	conceal
+1036. [[韻]] : rhyme
+1037. [[唄]] : songs with samisen
+1038. [[郁|鬱]] : depression
+1039. [[畝]] : furrow
+1040. [[浦]] : bay
+1041. [[詠]] : recitation
+1042. [[影]] : shadow
+1043. [[鋭]] : pointed
+1044. [[疫]] : epidemic
+1045. [[悦]] : ecstasy
+1046. [[越]] : cross over
+1047. [[謁]] : 	謁 [4]	S	audience
+1048. [[閲]] : review
+1049. [[炎]] : inflammation
+1050. [[怨]] : grudge
+1051. [[宴]] : banquet
+1052. [[援]] : aid
+1053. [[煙]] : smoke
+1054. [[猿]] : monkey
+1055. [[鉛]] : lead
+1056. [[縁]] : 	緣	S	affinity
+1057. [[艶]] : 	艷	S	glossy
+1058. [[汚]] : dirty
+1059. [[凹]] : concave
+1060. [[押]] : pushed
+1061. [[旺]] : flourishing
+1062. [[欧]] : 	歐	S	Europe
+1063. [[殴]] : 	毆	S	assault
+1064. [[翁]] : venerable old man
+1065. [[奥]] : 	奧	S	heart
+1066. [[憶]] : recollection
+1067. [[臆]] : timidity
+1068. [[虞]] : uneasiness
+1069. [[乙]] : the latter
+1070. [[俺]] : I, we, myself
+1071. [[卸]] : wholesale
+1072. [[穏]] : 	穩	S	calm
+1073. [[佳]] : excellent
+1074. [[苛]] : torment
+1075. [[架]] : rack
+1076. [[華]] : splendor
+1077. [[果|菓]] : confectionery
+1078. [[渦]] : whirlpool
+1079. [[嫁]] : marry into
+1080. [[暇]] : spare time
+1081. [[禍]] : 	禍 [4]	S	calamity
+1082. [[靴]] : shoes
+1083. [[寡]] : widow
+1084. [[個|箇]] : counters for things
+1085. [[稼]] : earnings
+1086. [[蚊]] : mosquito
+1087. [[牙]] :  [5]		S	tusk
+1088. [[瓦]] : tile
+1089. [[雅]] : gracious
+1090. [[餓]] : starve
+1091. [[介]] : jammed in
+1092. [[戒]] : commandment
+1093. [[怪]] : suspicious
+1094. [[拐]] : kidnap
+1095. [[悔]] : 	悔 [4]	S	repent
+1096. [[皆]] : all
+1097. [[塊]] : clod
+1098. [[楷]] : square character style
+1099. [[潰]] : crush
+1100. [[壊]] : 	壞	S	demolition
+1101. [[懐]] : 	懷	S	pocket
+1102. [[諧]] : harmony
+1103. [[劾]] : censure
+1104. [[崖]] : cliff
+1105. [[涯]] : horizon
+1106. [[慨]] : 	慨 [4]	S	rue
+1107. [[蓋]] : cover
+1108. [[該]] : above-stated
+1109. [[概]] : 	槪	S	outline
+1110. [[骸]] : dead remains
+1111. [[垣]] : hedge
+1112. [[柿]] : persimmon
+1113. [[核]] : nucleus
+1114. [[殻]] : 	殼	S	husk
+1115. [[郭]] : enclosure
+1116. [[較]] : contrast
+1117. [[隔]] : isolate
+1118. [[獲]] : seize
+1119. [[嚇]] : menacing
+1120. [[穫]] : harvest
+1121. [[岳]] : 	嶽	S	point
+1122. [[顎]] : jaw
+1123. [[掛]] : hang
+1124. [[括]] : fasten
+1125. [[喝]] : 	喝 [4]	S	hoarse
+1126. [[渇]] : 	渴	S	thirst
+1127. [[葛]] :  [7]		S	arrowroot
+1128. [[滑]] : slippery
+1129. [[褐]] : 	褐 [4]	S	brown
+1130. [[轄]] : control
+1131. [[且]] : moreover
+1132. [[釜]] : kettle
+1133. [[鎌]] : sickle
+1134. [[刈]] : reap
+1135. [[甘]] : sweet
+1136. [[汗]] : sweat
+1137. [[缶]] : 	罐	S	tin can
+1138. [[肝]] : liver
+1139. [[冠]] : crown
+1140. [[陥]] : 	陷	S	collapse
+1141. [[乾]] : dry
+1142. [[勘]] : intuition
+1143. [[患]] : afflicted
+1144. [[貫]] : pierce
+1145. [[喚]] : yell
+1146. [[堪]] : withstand
+1147. [[換]] : interchange
+1148. [[敢]] : daring
+1149. [[棺]] : coffin
+1150. [[款]] : goodwill
+1151. [[閑]] : leisure
+1152. [[勧]] : 	勸	S	persuade
+1153. [[寛]] : 	寬	S	tolerant
+1154. [[歓]] : 	歡	S	delight
+1155. [[監]] : oversee
+1156. [[緩]] : slacken
+1157. [[憾]] : remorse
+1158. [[還]] : send back
+1159. [[環]] : ring
+1160. [[韓]] :  [5]		S	Korea
+1161. [[艦]] : warship
+1162. [[鑑]] : specimen
+1163. [[含]] : include
+1164. [[玩]] : trifle with
+1165. [[頑]] : stubborn
+1166. [[企]] : plan
+1167. [[伎]] : deed
+1168. [[忌]] : mourning
+1169. [[奇]] : strange
+1170. [[祈]] : 	祈 [4]	S	pray
+1171. [[軌]] : rut
+1172. [[既]] : 	既 [4]	S	previously
+1173. [[飢]] : hungry
+1174. [[鬼]] : ghost
+1175. [[亀]] : 	龜	S	turtle
+1176. [[幾]] : how many
+1177. [[棋]] : chess piece
+1178. [[棄]] : abandon
+1179. [[毀]] : destroy
+1180. [[畿]] : capital
+1181. [[輝]] : radiance
+1182. [[騎]] : equestrian
+1183. [[宜]] : best regards
+1184. [[偽]] : 	僞	S	falsehood
+1185. [[欺]] : deceit
+1186. [[儀]] : ceremony
+1187. [[戯]] : 	戲	S	frolic
+1188. [[擬]] : mimic
+1189. [[犠]] : 	犧	S	sacrifice
+1190. [[菊]] : chrysanthemum
+1191. [[吉]] : good luck
+1192. [[喫]] : consume
+1193. [[詰]] : packed
+1194. [[却]] : instead
+1195. [[脚]] : leg
+1196. [[虐]] : tyrannize
+1197. [[及]] : reach out
+1198. [[丘]] : hill
+1199. [[朽]] : decay
+1200. [[臼]] : mortar
+1201. [[糾]] : twist
+1202. [[嗅]] : smell
+1203. [[窮]] : hard up
+1204. [[巨]] : gigantic
+1205. [[拒]] : repel
+1206. [[拠]] : 	據	S	foothold
+1207. [[虚]] : 	虛	S	void
+1208. [[距]] : long-distance
+1209. [[御]] : honorable
+1210. [[凶]] : villain
+1211. [[叫]] : shout
+1212. [[狂]] : lunatic
+1213. [[享]] : receive
+1214. [[況]] : condition
+1215. [[峡]] : 	峽	S	gorge
+1216. [[挟]] : 	挾	S	pinch
+1217. [[狭]] : 	狹	S	cramped
+1218. [[恐]] : fear
+1219. [[恭]] : respect
+1220. [[脅]] : threaten
+1221. [[矯]] : rectify
+1222. [[響]] : 	響 [4]	S	echo
+1223. [[驚]] : wonder
+1224. [[仰]] : face-up
+1225. [[暁]] : 	曉	S	daybreak
+1226. [[凝]] : congeal
+1227. [[巾]] : towel
+1228. [[斤]] : axe
+1229. [[菌]] : germ
+1230. [[琴]] : harp
+1231. [[僅]] :  [7]		S	a wee bit
+1232. [[緊]] : tense
+1233. [[錦]] : brocade
+1234. [[謹]] : 	謹 [4]	S	discreet
+1235. [[襟]] : collar
+1236. [[吟]] : versify
+1237. [[駆]] : 	驅	S	drive
+1238. [[惧]] : dread
+1239. [[愚]] : foolish
+1240. [[偶]] : accidentally
+1241. [[遇]] : interview
+1242. [[隅]] : corner
+1243. [[串]] : skewer
+1244. [[屈]] : yield
+1245. [[掘]] : dig
+1246. [[窟]] : cavern
+1247. [[繰]] : winding
+1248. [[勲]] : 	勳	S	meritorious deed
+1249. [[薫]] : 	薰	S	fragrant
+1250. [[刑]] : punish
+1251. [[茎]] : 	莖	S	stalk
+1252. [[契]] : pledge
+1253. [[恵]] : 	惠	S	favor
+1254. [[啓]] : disclose
+1255. [[掲]] : 	揭	S	put up (a notice)
+1256. [[渓]] : 	溪	S	mountain stream
+1257. [[蛍]] : 	螢	S	lightning-bug
+1258. [[傾]] : lean
+1259. [[携]] : portable
+1260. [[継]] : 	繼	S	inherit
+1261. [[詣]] : visit a temple
+1262. [[慶]] : jubilation
+1263. [[憬]] : long for
+1264. [[稽]] : consider
+1265. [[憩]] : recess
+1266. [[鶏]] : 	鷄	S	chicken
+1267. [[迎]] : welcome
+1268. [[鯨]] : whale
+1269. [[隙]] : fissure
+1270. [[撃]] : 	擊	S	beat
+1271. [[桁]] : beam
+1272. [[傑]] : greatness
+1273. [[肩]] : shoulder
+1274. [[倹]] : 	儉	S	frugal
+1275. [[兼]] : concurrently
+1276. [[剣]] : 	劍	S	sabre
+1277. [[拳]] : fist
+1278. [[軒]] : flats
+1279. [[圏]] : 	圈	S	sphere
+1280. [[堅]] : strict
+1281. [[嫌]] : dislike
+1282. [[献]] : 	獻	S	offering
+1283. [[遣]] : dispatch
+1284. [[賢]] : intelligent
+1285. [[謙]] : self-effacing
+1286. [[鍵]] : key
+1287. [[繭]] : cocoon
+1288. [[顕]] : 	顯	S	appear
+1289. [[懸]] : suspend
+1290. [[幻]] : phantasm
+1291. [[玄]] : mysterious
+1292. [[弦]] : bowstring
+1293. [[舷]] : gunwale
+1294. [[股]] : crotch
+1295. [[虎]] : tiger
+1296. [[孤]] : orphan
+1297. [[弧]] : arc
+1298. [[枯]] : wither
+1299. [[雇]] : employ
+1300. [[誇]] : boast
+1301. [[鼓]] : drum
+1302. [[錮]] : tie up
+1303. [[顧]] : look back
+1304. [[互]] : mutually
+1305. [[呉]] : give
+1306. [[娯]] : recreation
+1307. [[悟]] : enlightenment
+1308. [[碁]] : Go
+1309. [[勾]] : capture
+1310. [[孔]] : cavity
+1311. [[巧]] : adroit
+1312. [[甲]] : armor
+1313. [[江]] : inlet
+1314. [[坑]] : pit
+1315. [[抗]] : confront
+1316. [[攻]] : aggression
+1317. [[更]] : grow late
+1318. [[拘]] : arrest
+1319. [[肯]] : agreement
+1320. [[侯]] : marquis
+1321. [[恒]] : 	恆	S	constancy
+1322. [[洪]] : deluge
+1323. [[荒]] : laid waste
+1324. [[郊]] : outskirts
+1325. [[貢]] : tribute
+1326. [[控]] : withdraw
+1327. [[梗]] : close up
+1328. [[喉]] : throat
+1329. [[慌]] : disconcerted
+1330. [[硬]] : stiff
+1331. [[絞]] : strangle
+1332. [[項]] : paragraph
+1333. [[溝]] : gutter
+1334. [[綱]] : hawser
+1335. [[酵]] : fermentation
+1336. [[稿]] : draft
+1337. [[衡]] : equilibrium
+1338. [[購]] : subscription
+1339. [[乞]] : beg
+1340. [[拷]] : torture
+1341. [[剛]] : sturdy
+1342. [[傲]] : be proud
+1343. [[豪]] : overpowering
+1344. [[克]] : overcome
+1345. [[酷]] : cruel
+1346. [[獄]] : prison
+1347. [[駒]] : horse
+1348. [[込]] : crowded
+1349. [[頃]] : times
+1350. [[昆]] : descendants
+1351. [[恨]] : rancor
+1352. [[婚]] : marriage
+1353. [[痕]] : mark
+1354. [[紺]] : dark blue
+1355. [[魂]] : soul
+1356. [[墾]] : ground-breaking
+1357. [[懇]] : sociable
+1358. [[沙]] : sand
+1359. [[唆]] : tempt
+1360. [[詐]] : lie
+1361. [[鎖]] : chain
+1362. [[挫]] : sprain
+1363. [[采]] : form
+1364. [[砕]] : 	碎	S	smash
+1365. [[宰]] : superintend
+1366. [[栽]] : plantation
+1367. [[彩]] : coloring
+1368. [[斎]] : 	齋	S	purification
+1369. [[債]] : bond
+1370. [[催]] : sponsor
+1371. [[塞]] : obstruct
+1372. [[歳]] : year-end
+1373. [[載]] : ride
+1374. [[剤]] : 	劑	S	dose
+1375. [[削]] : plane
+1376. [[柵]] : fence
+1377. [[索]] : cord
+1378. [[酢]] : vinegar
+1379. [[搾]] : squeeze
+1380. [[錯]] : confused
+1381. [[咲]] : blossom
+1382. [[刹]] : temple
+1383. [[拶]] : be imminent
+1384. [[撮]] : snapshot
+1385. [[擦]] : grate
+1386. [[桟]] : 	棧	S	scaffold
+1387. [[惨]] : 	慘	S	wretched
+1388. [[傘]] : umbrella
+1389. [[斬]] : kill by slicing
+1390. [[暫]] : temporarily
+1391. [[旨]] : delicious
+1392. [[伺]] : pay respects
+1393. [[刺]] : thorn
+1394. [[祉]] : 	祉 [4]	S	welfare
+1395. [[肢]] : limb
+1396. [[施]] : carry out
+1397. [[恣]] : selfish
+1398. [[脂]] : fat
+1399. [[紫]] : purple
+1400. [[嗣]] : heir
+1401. [[雌]] : feminine
+1402. [[摯]] : seriousness
+1403. [[賜]] : grant
+1404. [[諮]] : consult with
+1405. [[侍]] : waiter
+1406. [[慈]] : mercy
+1407. [[餌]] :  [8]		S	bait
+1408. [[璽]] : emperor's seal
+1409. [[軸]] : axis
+1410. [[𠮟]] :  [5]		S	scold
+1411. [[疾]] : rapidly
+1412. [[執]] : tenacious
+1413. [[湿]] : 	濕	S	damp
+1414. [[嫉]] : envy
+1415. [[漆]] : lacquer
+1416. [[芝]] : turf
+1417. [[赦]] : pardon
+1418. [[斜]] : diagonal
+1419. [[煮]] : 	煮 [4]	S	boil
+1420. [[遮]] : intercept
+1421. [[邪]] : wicked
+1422. [[蛇]] : snake
+1423. [[酌]] : bartending
+1424. [[釈]] : 	釋	S	explanation
+1425. [[爵]] : baron
+1426. [[寂]] : loneliness
+1427. [[朱]] : vermilion
+1428. [[狩]] : hunt
+1429. [[殊]] : particularly
+1430. [[珠]] : pearl
+1431. [[腫]] : tumor
+1432. [[趣]] : gist
+1433. [[寿]] : 	壽	S	longevity
+1434. [[呪]] : curse
+1435. [[需]] : demand
+1436. [[儒]] : Confucian
+1437. [[囚]] : captured
+1438. [[舟]] : boat
+1439. [[秀]] : excel
+1440. [[臭]] : 	臭 [4]	S	stinking
+1441. [[袖]] : sleeve
+1442. [[羞]] : feel ashamed
+1443. [[愁]] : distress
+1444. [[酬]] : repay
+1445. [[醜]] : ugly
+1446. [[蹴]] : kick
+1447. [[襲]] : attack
+1448. [[汁]] : soup
+1449. [[充]] : allot
+1450. [[柔]] : tender
+1451. [[渋]] : 	澁	S	astringent
+1452. [[銃]] : gun
+1453. [[獣]] : 	獸	S	animal
+1454. [[叔]] : uncle
+1455. [[淑]] : graceful
+1456. [[粛]] : 	肅	S	solemn
+1457. [[塾]] : cram school
+1458. [[俊]] : genius
+1459. [[瞬]] : wink
+1460. [[旬]] : 10-day period (of the month)
+1461. [[巡]] : patrol
+1462. [[盾]] : shield
+1463. [[准]] : quasi-
+1464. [[殉]] : martyrdom
+1465. [[循]] : sequential
+1466. [[潤]] : wet
+1467. [[遵]] : abide by
+1468. [[庶]] : commoner
+1469. [[緒]] : 	緖	S	thong
+1470. [[如]] : likeness
+1471. [[叙]] : 	敍	S	confer
+1472. [[徐]] : gradually
+1473. [[升]] : measuring box
+1474. [[召]] : summon
+1475. [[匠]] : artisan
+1476. [[床]] : bed
+1477. [[抄]] : extract
+1478. [[肖]] : resemblance
+1479. [[尚]] : esteem
+1480. [[昇]] : rise up
+1481. [[沼]] : marsh
+1482. [[宵]] : wee hours
+1483. [[症]] : symptoms
+1484. [[祥]] : 	祥 [4]	S	auspicious
+1485. [[称]] : 	稱	S	appellation
+1486. [[渉]] : 	涉	S	ford
+1487. [[紹]] : introduce
+1488. [[訟]] : sue
+1489. [[掌]] : manipulate
+1490. [[晶]] : sparkle
+1491. [[焦]] : char
+1492. [[硝]] : nitrate
+1493. [[粧]] : cosmetics
+1494. [[詔]] : imperial edict
+1495. [[奨]] : 	奬	S	exhort
+1496. [[詳]] : detailed
+1497. [[彰]] : patent
+1498. [[憧]] : desire
+1499. [[衝]] : collide
+1500. [[償]] : reparation
+1501. [[礁]] : reef
+1502. [[鐘]] : bell
+1503. [[丈]] : length
+1504. [[冗]] : superfluous
+1505. [[浄]] : 	淨	S	clean
+1506. [[剰]] : 	剩	S	surplus
+1507. [[畳]] : 	疊	S	tatami mat
+1508. [[壌]] : 	壤	S	lot
+1509. [[嬢]] : 	孃	S	lass
+1510. [[錠]] : lock
+1511. [[譲]] : 	讓	S	defer
+1512. [[醸]] : 	釀	S	brew
+1513. [[拭]] : wipe
+1514. [[殖]] : augment
+1515. [[飾]] : decorate
+1516. [[触]] : 	觸	S	contact
+1517. [[嘱]] : 	囑	S	entrust
+1518. [[辱]] : embarrass
+1519. [[尻]] : buttocks
+1520. [[伸]] : lengthen
+1521. [[芯]] : core
+1522. [[辛]] : spicy
+1523. [[侵]] : encroach
+1524. [[津]] : haven
+1525. [[唇]] : lips
+1526. [[娠]] : with child
+1527. [[振]] : shake
+1528. [[浸]] : immersed
+1529. [[紳]] : sire
+1530. [[診]] : checkup
+1531. [[寝]] : 	寢	S	lie down
+1532. [[慎]] : 	愼	S	humility
+1533. [[審]] : examine
+1534. [[震]] : quake
+1535. [[薪]] : fuel
+1536. [[刃]] : blade
+1537. [[尽]] : 	盡	S	exhaust
+1538. [[迅]] : swift
+1539. [[甚]] : tremendously
+1540. [[陣]] : camp
+1541. [[尋]] : inquire
+1542. [[腎]] : kidney
+1543. [[須]] : by all means
+1544. [[吹]] : blow
+1545. [[炊]] : cook
+1546. [[帥]] : commander
+1547. [[粋]] : 	粹	S	chic
+1548. [[衰]] : decline
+1549. [[酔]] : 	醉	S	drunk
+1550. [[遂]] : consummate
+1551. [[睡]] : drowsy
+1552. [[穂]] : 	穗	S	ear
+1553. [[随]] : 	隨	S	follow
+1554. [[髄]] : 	髓	S	marrow
+1555. [[枢]] : 	樞	S	hinge
+1556. [[崇]] : adore
+1557. [[据]] : set
+1558. [[杉]] : cedar
+1559. [[裾]] : cuff
+1560. [[瀬]] : 	瀨	S	rapids
+1561. [[是]] : just so
+1562. [[姓]] : surname
+1563. [[征]] : subjugate
+1564. [[斉]] : 	齊	S	adjusted
+1565. [[牲]] : animal sacrifice
+1566. [[凄]] : uncanny
+1567. [[逝]] : departed
+1568. [[婿]] : bridegroom
+1569. [[誓]] : vow
+1570. [[請]] : solicit
+1571. [[醒]] : be disillusioned
+1572. [[斥]] : reject
+1573. [[析]] : chop
+1574. [[脊]] : stature
+1575. [[隻]] : vessels
+1576. [[惜]] : pity
+1577. [[戚]] : grieve
+1578. [[跡]] : tracks
+1579. [[籍]] : enroll
+1580. [[拙]] : bungling
+1581. [[窃]] : 	竊	S	stealth
+1582. [[摂]] : 	攝	S	vicarious
+1583. [[仙]] : hermit
+1584. [[占]] : fortune telling
+1585. [[扇]] : fan
+1586. [[栓]] : plug
+1587. [[旋]] : rotation
+1588. [[煎]] :  [7]		S	broil
+1589. [[羨]] : envy
+1590. [[腺]] : gland
+1591. [[詮]] :  [7]		S	discussion
+1592. [[践]] : 	踐	S	tread
+1593. [[箋]] : paper
+1594. [[潜]] : 	潛	S	submerge
+1595. [[遷]] : transition
+1596. [[薦]] : recommend
+1597. [[繊]] : 	纖	S	slender
+1598. [[鮮]] : fresh
+1599. [[禅]] : 	禪	S	Zen
+1600. [[漸]] : steadily
+1601. [[膳]] : tray
+1602. [[繕]] : darning
+1603. [[狙]] : aim at
+1604. [[阻]] : thwart
+1605. [[租]] : tariff
+1606. [[措]] : set aside
+1607. [[粗]] : coarse
+1608. [[疎]] : alienate
+1609. [[訴]] : sue
+1610. [[塑]] : model
+1611. [[遡]] :  [8]		S	go upstream
+1612. [[礎]] : cornerstone
+1613. [[双]] : 	雙	S	pair
+1614. [[壮]] : 	壯	S	robust
+1615. [[荘]] : 	莊	S	villa
+1616. [[捜]] : 	搜	S	search
+1617. [[挿]] : 	插	S	insert
+1618. [[桑]] : mulberry
+1619. [[掃]] : sweep
+1620. [[曹]] : cadet
+1621. [[曽]] : 	曾	S	formerly
+1622. [[爽]] : refreshing
+1623. [[喪]] : miss
+1624. [[痩]] : 	瘦	S	get thin
+1625. [[葬]] : interment
+1626. [[僧]] : 	僧 [4]	S	Buddhist priest
+1627. [[遭]] : encounter
+1628. [[槽]] : vat
+1629. [[踪]] : remains
+1630. [[燥]] : parch
+1631. [[霜]] : frost
+1632. [[騒]] : 	騷	S	boisterous
+1633. [[藻]] : seaweed
+1634. [[憎]] : 	憎 [4]	S	hate
+1635. [[贈]] : 	贈 [4]	S	presents
+1636. [[即]] : 	卽	S	instant
+1637. [[促]] : stimulate
+1638. [[捉]] : capture
+1639. [[俗]] : vulgar
+1640. [[賊]] : burglar
+1641. [[遜]] :  [8]		S	humble
+1642. [[汰]] : luxury
+1643. [[妥]] : gentle
+1644. [[唾]] : saliva
+1645. [[堕]] : 	墮	S	degenerate
+1646. [[惰]] : lazy
+1647. [[駄]] : burdensome
+1648. [[耐]] : resistant
+1649. [[怠]] : neglect
+1650. [[胎]] : womb
+1651. [[泰]] : peaceful
+1652. [[堆]] : piled high
+1653. [[袋]] : sack
+1654. [[逮]] : apprehend
+1655. [[替]] : exchange
+1656. [[滞]] : 	滯	S	stagnate
+1657. [[戴]] : be crowned with
+1658. [[滝]] : 	瀧	S	waterfall
+1659. [[択]] : 	擇	S	choose
+1660. [[沢]] : 	澤	S	swamp
+1661. [[卓]] : eminent
+1662. [[拓]] : clear (the land)
+1663. [[託]] : consign
+1664. [[濯]] : laundry
+1665. [[諾]] : consent
+1666. [[濁]] : voiced
+1667. [[但]] : however
+1668. [[脱]] : undress
+1669. [[奪]] : rob
+1670. [[棚]] : shelf
+1671. [[誰]] : who (question word)
+1672. [[丹]] : cinnabar
+1673. [[旦]] : daybreak
+1674. [[胆]] : 	膽	S	gall bladder
+1675. [[淡]] : thin
+1676. [[嘆]] : 	嘆 [4]	S	sigh
+1677. [[端]] : edge
+1678. [[綻]] : rip
+1679. [[鍛]] : forge
+1680. [[弾]] : 	彈	S	bullet
+1681. [[壇]] : podium
+1682. [[恥]] : shame
+1683. [[致]] : (to) do
+1684. [[遅]] : 	遲	S	slow
+1685. [[痴]] : 	癡	S	stupid
+1686. [[稚]] : immature
+1687. [[緻]] : fine (not coarse)
+1688. [[畜]] : livestock
+1689. [[逐]] : pursue
+1690. [[蓄]] : amass
+1691. [[秩]] : regularity
+1692. [[窒]] : plug up
+1693. [[嫡]] : legitimate wife
+1694. [[抽]] : pluck
+1695. [[衷]] : inmost
+1696. [[酎]] : sake
+1697. [[鋳]] : 	鑄	S	casting
+1698. [[駐]] : stop-over
+1699. [[弔]] : condolences
+1700. [[挑]] : challenge
+1701. [[彫]] : carve
+1702. [[眺]] : stare
+1703. [[釣]] : angling
+1704. [[貼]] : paste
+1705. [[超]] : transcend
+1706. [[跳]] : hop
+1707. [[徴]] : 	徵	S	indications
+1708. [[嘲]] :  [7]		S	ridicule
+1709. [[澄]] : lucidity
+1710. [[聴]] : 	聽	S	listen
+1711. [[懲]] : 	懲 [4]	S	penal
+1712. [[勅]] : 	敕	S	imperial order
+1713. [[捗]] :  [7]		S	make progress
+1714. [[沈]] : sink
+1715. [[珍]] : rare
+1716. [[朕]] : majestic plural
+1717. [[陳]] : exhibit
+1718. [[鎮]] : 	鎭	S	tranquilize
+1719. [[椎]] : oak
+1720. [[墜]] : crash
+1721. [[塚]] : 	塚 [4]	S	hillock
+1722. [[漬]] : pickling
+1723. [[坪]] : two-mat area
+1724. [[爪]] : claw
+1725. [[鶴]] : crane
+1726. [[呈]] : display
+1727. [[廷]] : courts
+1728. [[抵]] : resist
+1729. [[邸]] : residence
+1730. [[亭]] : pavilion
+1731. [[貞]] : upright
+1732. [[帝]] : sovereign
+1733. [[訂]] : revise
+1734. [[逓]] : 	遞	S	relay
+1735. [[偵]] : spy
+1736. [[堤]] : dike
+1737. [[艇]] : rowboat
+1738. [[締]] : tighten
+1739. [[諦]] : abandon
+1740. [[泥]] : mud
+1741. [[摘]] : pinch
+1742. [[滴]] : drip
+1743. [[溺]] :  [7]		S	drown
+1744. [[迭]] : transfer
+1745. [[哲]] : philosophy
+1746. [[徹]] : penetrate
+1747. [[撤]] : remove
+1748. [[添]] : annexed
+1749. [[塡]] :  [7]		S	fill in
+1750. [[殿]] : Mr.
+1751. [[斗]] : Big Dipper
+1752. [[吐]] : spit
+1753. [[妬]] : jealousy
+1754. [[途]] : route
+1755. [[渡]] : transit
+1756. [[塗]] : paint
+1757. [[賭]] :  [7]		S	gamble
+1758. [[奴]] : guy
+1759. [[怒]] : angry
+1760. [[到]] : arrival
+1761. [[逃]] : escape
+1762. [[倒]] : overthrow
+1763. [[凍]] : frozen
+1764. [[唐]] : T'ang
+1765. [[桃]] : peach tree
+1766. [[透]] : transparent
+1767. [[悼]] : lament
+1768. [[盗]] : 	盜	S	steal
+1769. [[陶]] : pottery
+1770. [[塔]] : pagoda
+1771. [[搭]] : board
+1772. [[棟]] : ridgepole
+1773. [[痘]] : pox
+1774. [[筒]] : cylinder
+1775. [[稲]] : 	稻	S	rice plant
+1776. [[踏]] : step
+1777. [[謄]] : mimeograph
+1778. [[藤]] : wisteria
+1779. [[闘]] : 	鬭	S	fight
+1780. [[騰]] : inflation
+1781. [[洞]] : den
+1782. [[胴]] : trunk
+1783. [[瞳]] : pupil
+1784. [[峠]] : mountain peak
+1785. [[匿]] : hide
+1786. [[督]] : coach
+1787. [[篤]] : fervent
+1788. [[凸]] : convex
+1789. [[突]] : 	突 [4]	S	stab
+1790. [[屯]] : barracks
+1791. [[豚]] : pork
+1792. [[頓]] : suddenly
+1793. [[貪]] : covet
+1794. [[鈍]] : dull
+1795. [[曇]] : cloudy weather
+1796. [[丼]] : bowl of food
+1797. [[那]] : what
+1798. [[謎]] :  [8]		S	riddle
+1799. [[鍋]] : pot
+1800. [[軟]] : soft
+1801. [[尼]] : nun
+1802. [[弐]] : 	貳	S	two (falsification prevention)
+1803. [[匂]] : scent
+1804. [[虹]] : rainbow
+1805. [[尿]] : urine
+1806. [[妊]] : pregnancy
+1807. [[忍]] : endure
+1808. [[寧]] : rather
+1809. [[捻]] : twist
+1810. [[粘]] : sticky
+1811. [[悩]] : 	惱	S	trouble
+1812. [[濃]] : concentrated
+1813. [[把]] : grasp
+1814. [[覇]] : 	霸	S	hegemony
+1815. [[婆]] : old woman
+1816. [[罵]] : insult
+1817. [[杯]] : counter for cupfuls
+1818. [[排]] : repudiate
+1819. [[廃]] : 	廢	S	abolish
+1820. [[輩]] : comrade
+1821. [[培]] : cultivate
+1822. [[陪]] : obeisance
+1823. [[媒]] : mediator
+1824. [[賠]] : compensation
+1825. [[伯]] : chief
+1826. [[拍]] : clap
+1827. [[泊]] : overnight
+1828. [[迫]] : urge
+1829. [[剝]] :  [7]		S	peel
+1830. [[舶]] : liner
+1831. [[薄]] : dilute
+1832. [[漠]] : vague
+1833. [[縛]] : truss
+1834. [[爆]] : explode
+1835. [[箸]] :  [7]		S	chopsticks
+1836. [[肌]] : texture
+1837. [[鉢]] : bowl
+1838. [[髪]] : 	髮	S	hair of the head
+1839. [[伐]] : fell
+1840. [[抜]] : 	拔	S	slip out
+1841. [[罰]] : penalty
+1842. [[閥]] : clique
+1843. [[氾]] : spread out
+1844. [[帆]] : sail
+1845. [[汎]] : pan-
+1846. [[伴]] : consort
+1847. [[畔]] : paddy-ridge
+1848. [[般]] : generally
+1849. [[販]] : marketing
+1850. [[斑]] : blemish
+1851. [[搬]] : conveyor
+1852. [[煩]] : anxiety
+1853. [[頒]] : partition
+1854. [[範]] : pattern
+1855. [[繁]] : 	繁 [4]	S	luxuriant
+1856. [[藩]] : clan
+1857. [[蛮]] : 	蠻	S	barbarian
+1858. [[盤]] : tray
+1859. [[妃]] : queen
+1860. [[彼]] : he
+1861. [[披]] : expose
+1862. [[卑]] : 	卑 [4]	S	lowly
+1863. [[疲]] : exhausted
+1864. [[被]] : incur
+1865. [[扉]] : front door
+1866. [[碑]] : 	碑 [4]	S	tombstone
+1867. [[罷]] : quit
+1868. [[避]] : evade
+1869. [[尾]] : tail
+1870. [[眉]] : eyebrow
+1871. [[微]] : delicate
+1872. [[膝]] : knee
+1873. [[肘]] : elbow
+1874. [[匹]] : equal
+1875. [[泌]] : ooze
+1876. [[姫]] : princess
+1877. [[漂]] : drift
+1878. [[苗]] : seedling
+1879. [[描]] : sketch
+1880. [[猫]] : cat
+1881. [[浜]] : 	濱	S	seacoast
+1882. [[賓]] : 	賓 [4]	S	V.I.P.
+1883. [[頻]] : 	頻 [4]	S	repeatedly
+1884. [[敏]] : 	敏 [4]	S	cleverness
+1885. [[瓶]] : 	甁	S	flower pot
+1886. [[扶]] : aid
+1887. [[怖]] : dreadful
+1888. [[附]] : affixed
+1889. [[訃]] : obituary
+1890. [[赴]] : proceed
+1891. [[浮]] : floating
+1892. [[符]] : token
+1893. [[普]] : universal
+1894. [[腐]] : rot
+1895. [[敷]] : spread
+1896. [[膚]] : skin
+1897. [[賦]] : levy
+1898. [[譜]] : musical score
+1899. [[侮]] : 	侮 [4]	S	scorn
+1900. [[舞]] : dance
+1901. [[封]] : seal
+1902. [[伏]] : prostrated
+1903. [[幅]] : breadth
+1904. [[覆]] : capsize
+1905. [[払]] : 	拂	S	pay
+1906. [[沸]] : seethe
+1907. [[紛]] : distract
+1908. [[雰]] : atmosphere
+1909. [[噴]] : erupt
+1910. [[墳]] : tomb
+1911. [[憤]] : aroused
+1912. [[丙]] : third class
+1913. [[併]] : 	倂	S	join
+1914. [[柄]] : design
+1915. [[塀]] : 	塀 [4]	S	fence
+1916. [[幣]] : cash
+1917. [[弊]] : abuse
+1918. [[蔽]] :  [7]		S	cover
+1919. [[餅]] :  [8]	餠	S	mochi rice cake
+1920. [[壁]] : wall
+1921. [[璧]] : sphere
+1922. [[癖]] : mannerism
+1923. [[蔑]] : ignore
+1924. [[偏]] : partial
+1925. [[遍]] : everywhere
+1926. [[哺]] : suckle
+1927. [[捕]] : catch
+1928. [[舗]] : pavement
+1929. [[募]] : recruit
+1930. [[慕]] : pining
+1931. [[簿]] : register
+1932. [[芳]] : perfume
+1933. [[邦]] : home country
+1934. [[奉]] : observance
+1935. [[抱]] : embrace
+1936. [[泡]] : bubbles
+1937. [[胞]] : placenta
+1938. [[俸]] : salary
+1939. [[倣]] : emulate
+1940. [[峰]] : summit
+1941. [[砲]] : cannon
+1942. [[崩]] : crumble
+1943. [[蜂]] : bee
+1944. [[飽]] : sated
+1945. [[褒]] : 	襃	S	praise
+1946. [[縫]] : sew
+1947. [[乏]] : scarce
+1948. [[忙]] : busy
+1949. [[坊]] : boy
+1950. [[妨]] : disturb
+1951. [[房]] : tassel
+1952. [[肪]] : obese
+1953. [[某]] : so-and-so
+1954. [[冒]] : risk
+1955. [[剖]] : divide
+1956. [[紡]] : spinning
+1957. [[傍]] : bystander
+1958. [[帽]] : cap
+1959. [[貌]] : appearance
+1960. [[膨]] : swell
+1961. [[謀]] : conspire
+1962. [[頰]] :  [7]		S	cheek
+1963. [[朴]] : crude
+1964. [[睦]] : harmonious
+1965. [[僕]] : me
+1966. [[墨]] : 	墨 [4]	S	black ink
+1967. [[撲]] : slap
+1968. [[没]] : 	沒	S	drown
+1969. [[勃]] : rise
+1970. [[堀]] : ditch
+1971. [[奔]] : bustle
+1972. [[翻]] : 	飜	S	flip
+1973. [[凡]] : mediocre
+1974. [[盆]] : basin
+1975. [[麻]] : hemp
+1976. [[摩]] : chafe
+1977. [[磨]] : grind
+1978. [[魔]] : witch
+1979. [[昧]] : foolish
+1980. [[埋]] : bury
+1981. [[膜]] : membrane
+1982. [[枕]] : pillow
+1983. [[又]] : or again
+1984. [[抹]] : rub
+1985. [[慢]] : ridicule
+1986. [[漫]] : cartoon
+1987. [[魅]] : fascination
+1988. [[岬]] : headland
+1989. [[蜜]] : honey
+1990. [[妙]] : exquisite
+1991. [[眠]] : sleep
+1992. [[矛]] : halberd
+1993. [[霧]] : fog
+1994. [[娘]] : daughter
+1995. [[冥]] : dark
+1996. [[銘]] : inscription
+1997. [[滅]] : destroy
+1998. [[免]] : 	免 [4]	S	excuse
+1999. [[麺]] : 	麵	S	noodles
+2000. [[茂]] : overgrown
+2001. [[妄]] : delusion
+2002. [[盲]] : blind
+2003. [[耗]] : decrease
+2004. [[猛]] : fierce
+2005. [[網]] : netting
+2006. [[黙]] : 	默	S	silence
+2007. [[紋]] : family crest
+2008. [[冶]] : melting
+2009. [[弥]] : 	彌	S	all the more
+2010. [[厄]] : unlucky
+2011. [[躍]] : leap
+2012. [[闇]] : darkness
+2013. [[喩]] : metaphor
+2014. [[愉]] : pleasure
+2015. [[諭]] : rebuke
+2016. [[癒]] : healing
+2017. [[唯]] : solely
+2018. [[幽]] : seclude
+2019. [[悠]] : permanence
+2020. [[湧]] : boil
+2021. [[猶]] : furthermore
+2022. [[裕]] : abundant
+2023. [[雄]] : male
+2024. [[誘]] : entice
+2025. [[憂]] : melancholy
+2026. [[融]] : dissolve
+2027. [[与]] : 	與	S	give
+2028. [[誉]] : 	譽	S	reputation
+2029. [[妖]] : bewitching
+2030. [[庸]] : commonplace
+2031. [[揚]] : hoist
+2032. [[揺]] : 	搖	S	swing
+2033. [[溶]] : melt
+2034. [[腰]] : loins
+2035. [[瘍]] : boil (medical)
+2036. [[踊]] : jump
+2037. [[窯]] : kiln
+2038. [[擁]] : embrace
+2039. [[謡]] : 	謠	S	noh chanting
+2040. [[抑]] : repress
+2041. [[沃]] : fertility
+2042. [[翼]] : wing
+2043. [[拉]] : crush
+2044. [[裸]] : naked
+2045. [[羅]] : gauze
+2046. [[雷]] : thunder
+2047. [[頼]] : 	賴	S	trust
+2048. [[絡]] : entwine
+2049. [[酪]] : dairy products
+2050. [[辣]] : bitter
+2051. [[濫]] : excessive
+2052. [[藍]] : indigo
+2053. [[欄]] : 	欄 [4]	S	column
+2054. [[吏]] : officer
+2055. [[痢]] : diarrhea
+2056. [[履]] : footgear
+2057. [[璃]] : glassy
+2058. [[離]] : detach
+2059. [[慄]] : fear
+2060. [[柳]] : willow
+2061. [[竜]] : 	龍	S	dragon
+2062. [[粒]] : grains
+2063. [[隆]] : 	隆 [4]	S	hump
+2064. [[硫]] : sulphur
+2065. [[侶]] : companion
+2066. [[虜]] : 	虜 [4]	S	captive
+2067. [[慮]] : prudence
+2068. [[了]] : finish
+2069. [[涼]] : refreshing
+2070. [[猟]] : 	獵	S	game-hunting
+2071. [[陵]] : mausoleum
+2072. [[僚]] : colleague
+2073. [[寮]] : dormitory
+2074. [[療]] : heal
+2075. [[瞭]] : clear
+2076. [[糧]] : provisions
+2077. [[厘]] : thousandth
+2078. [[倫]] : ethics
+2079. [[隣]] : neighboring
+2080. [[瑠]] : lapis lazuli
+2081. [[涙]] : 	淚	S	tears
+2082. [[累]] : accumulate
+2083. [[塁]] : 	壘	S	bases
+2084. [[励]] : 	勵	S	encourage
+2085. [[戻]] : 	戾	S	re-
+2086. [[鈴]] : small bell
+2087. [[零]] : zero
+2088. [[霊]] : 	靈	S	spirits
+2089. [[隷]] : slave
+2090. [[齢]] : 	齡	S	age
+2091. [[麗]] : lovely
+2092. [[暦]] : 	曆	S	calendar
+2093. [[劣]] : inferiority
+2094. [[烈]] : ardent
+2095. [[裂]] : split
+2096. [[恋]] : 	戀	S	romance
+2097. [[廉]] : bargain
+2098. [[錬]] : 	鍊	S	tempering
+2099. [[呂]] : spine
+2100. [[炉]] : 	爐	S	hearth
+2101. [[賂]] : bribe
+2102. [[露]] : dew
+2103. [[弄]] : tamper with
+2104. [[郎]] : 	郞	S	son
+2105. [[浪]] : wandering
+2106. [[廊]] : 	廊 [4]	S	corridor
+2107. [[楼]] : 	樓	S	watchtower
+2108. [[漏]] : leak
+2109. [[籠]] : basket
+2110. [[麓]] : foot of a mountain
+2111. [[賄]] : bribe, board
+2112. [[脇]] : aside
+2113. [[惑]] : beguile
+2114. [[枠]] : frame
+2115. [[湾]] : 	灣	S	gulf
+2116. [[腕]] : arm
