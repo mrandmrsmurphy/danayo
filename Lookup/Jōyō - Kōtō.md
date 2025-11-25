@@ -1,6 +1,6 @@
 For the younger grades, see [[Jōyō - Kyōiku]]
 
-1027. [[亜]] : 	亞	S	sub-, Asia
+1027. [[亜]] : 	亞	sub-, Asia
 1028. [[哀]] : pathetic
 1029. [[挨]] : push open
 1030. [[曖]] : not clear
@@ -10,7 +10,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1034. [[嵐]] : storm
 1035. [[依]] : reliant
 1036. [[威]] : intimidate
-1037. [[為]] : 	爲	S	do
+1037. [[為]] : 	爲	do
 1038. [[畏]] : fear
 1039. [[尉]] : military officer
 1040. [[萎]] : wither
@@ -21,14 +21,14 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1045. [[維]] : fiber
 1046. [[慰]] : consolation
 1047. [[緯]] : horizontal
-1048. [[壱]] : 	壹	S	one (falsification prevention)
-1049. [[逸]] : 	逸 [4]	S	deviate
+1048. [[壱]] : 	壹	one (falsification prevention)
+1049. [[逸]] : 	逸  deviate
 1050. [[芋]] : potato
 1051. [[咽]] : throat
 1052. [[姻]] : matrimony
-1053. [[淫]] :  [7]		S	lewdness
+1053. [[淫]] : 	lewdness
 1054. [[陰]] : shade
-1055. [[隠]] : 	隱	S	conceal
+1055. [[隠]] : 	隱	conceal
 1056. [[韻]] : rhyme
 1057. [[唄]] : songs with samisen
 1058. [[郁|鬱]] : depression
@@ -40,7 +40,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1064. [[疫]] : epidemic
 1065. [[悦]] : ecstasy
 1066. [[越]] : cross over
-1067. [[謁]] : 	謁 [4]	S	audience
+1067. [[謁]] : 	謁 	audience
 1068. [[閲]] : review
 1069. [[炎]] : inflammation
 1070. [[怨]] : grudge
@@ -49,16 +49,16 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1073. [[煙]] : smoke
 1074. [[猿]] : monkey
 1075. [[鉛]] : lead
-1076. [[縁]] : 	緣	S	affinity
-1077. [[艶]] : 	艷	S	glossy
+1076. [[縁]] : 	緣	affinity
+1077. [[艶]] : 	艷	glossy
 1078. [[汚]] : dirty
 1079. [[凹]] : concave
 1080. [[押]] : pushed
 1081. [[旺]] : flourishing
-1082. [[欧]] : 	歐	S	Europe
-1083. [[殴]] : 	毆	S	assault
+1082. [[欧]] : 	歐	Europe
+1083. [[殴]] : 	毆	assault
 1084. [[翁]] : venerable old man
-1085. [[奥]] : 	奧	S	heart
+1085. [[奥]] : 	奧	heart
 1086. [[憶]] : recollection
 1087. [[臆]] : timidity
 1088. [[虞]] : uneasiness
@@ -1054,7 +1054,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2078. [[離]] : detach
 2079. [[慄]] : fear
 2080. [[柳]] : willow
-2081. [[竜]] : 	龍	S	dragon
+2081. [[龍|竜]] : 	龍	S	dragon
 2082. [[粒]] : grains
 2083. [[隆]] : 	隆 [4]	S	hump
 2084. [[硫]] : sulphur
@@ -1097,16 +1097,16 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2121. [[賂]] : bribe
 2122. [[露]] : dew
 2123. [[弄]] : tamper with
-2124. [[郎]] : 	郞	S	son
+2124. [[郎]] : 	郞	son
 2125. [[浪]] : wandering
-2126. [[廊]] : 	廊 [4]	S	corridor
-2127. [[楼]] : 	樓	S	watchtower
+2126. [[廊]] : 	廊 	corridor
+2127. [[楼]] : 	樓	watchtower
 2128. [[漏]] : leak
 2129. [[籠]] : basket
 2130. [[麓]] : foot of a mountain
 2131. [[賄]] : bribe, board
-2132. [[脇]] : aside
+2132. [[脅|脇]] : aside
 2133. [[惑]] : beguile
-2134. [[枠]] : frame
-2135. [[湾]] : 	灣	S	gulf
+2134. 枠 : frame    FORBIDDEN!!
+2135. [[湾]] : 	灣	gulf
 2136. [[腕]] : arm
