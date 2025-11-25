@@ -830,4 +830,184 @@ This is the list of kanji required in Japanese grammar school.  For the other 10
 824. [[額]] : gaku	hitai	amount
 825. [[飼]] : shi	ka-u	domesticate
 ## Grade 6
-826. 
+826. [[並]] : hei	nami ; nara-bu	row
+827. [[乱]] : ran	mida-reru	riot
+828. [[乳]] : nyū	chichi	milk
+829. [[亡]] : bō	na-kunaru	deceased
+830. [[仁]] : jin	 	kindness
+831. [[供]] : kyō ; ku	tomo	offer
+832. [[俳]] : hai	 	actor
+833. [[値]] : chi	atai	value
+834. [[傷]] : shō	kizu	wound
+835. [[優]] : yū	yasa-shii	superior
+836. [[党]] : tō	 	political party
+837. [[冊]] : satsu	 	counter for books
+838. [[処]] : sho	 	dispose
+839. [[刻]] : koku	kiza-mu	engrave
+840. [[割]] : katsu	wa-ru	divide
+841. [[創]] : sō	tsuku-ru	create
+842. [[劇]] : geki	 	drama
+843. [[勤]] : kin	tsuto-meru	diligence
+844. [[危]] : ki	aya-ui	dangerous
+845. [[卵]] : ran	tamago	egg
+846. [[厳]] : gen	kibi-shii	strict
+847. [[収]] : shū	osa-meru	take in
+848. [[后]] : gō	kisaki	queen
+849. [[否]] : hi	ina ;  iya	negate
+850. [[吸]] : kyū	su-u	suck
+851. [[呼]] : ko	yo-bu	call
+852. [[善]] : zen	yo-i	good
+853. [[困]] : kon	koma-ru	become distressed
+854. [[垂]] : sui	ta-reru	droop
+855. [[城]] : jō	shiro	castle
+856. [[域]] : iki	 	range
+857. [[奏]] : sō	kana-deru	play music
+858. [[奮]] : hun	huru-u	stirred up
+859. [[姿]] : shi	sugata	shape
+860. [[存]] : son	 	suppose
+861. [[孝]] : kō	 	filial piety
+862. [[宅]] : taku	ie	home
+863. [[宇]] : u	 	eaves
+864. [[宗]] : shū	sō	religion
+865. [[宙]] : chū	 	mid-air
+866. [[宝]] : hō	takara	treasure
+867. [[宣]] : sen	notama-u	proclaim
+868. [[密]] : mitsu	 	secrecy
+869. [[寸]] : sun	 	measurement
+870. [[専]] : sen	moppa-ra	specialty
+871. [[射]] : sha	i-ru	shoot
+872. [[将]] : shō	 	leader
+873. [[尊]] : son	touto-bu	revered
+874. [[就]] : shū	tsu-ku	concerning
+875. [[尺]] : shaku	 	measure of length
+876. [[届]] :  	todo-ku	deliver
+877. [[展]] : ten	 	expand
+878. [[層]] : sō	 	stratum
+879. [[己]] : ko	onore	self
+880. [[巻]] : kan	ma-ku	scroll
+881. [[幕]] : maku ; baku	 	curtain
+882. [[干]] : kan	ho-su	dry
+883. [[幼]] : yō	osana-i	infancy
+884. [[庁]] : chō	 	government office
+885. [[坐|座]] : za	suwa-ru	sit
+886. [[延]] : en	no-basu	prolong
+887. [[律]] : ritsu	 	rhythm
+888. [[従]] : jū	shitaga-u	obey
+889. [[忘]] : bō	wasu-reru	forget
+890. [[忠]] : chū	 	loyalty
+891. [[憲]] : ken	 	constitution
+892. [[我]] : ga	ware	ego
+893. [[批]] : hi	 	criticism
+894. [[担]] : tan	nina-u	shouldering
+895. [[拝]] : hai	oga-mu	worship
+896. [[拡]] : kaku	hiro-geru	broaden
+897. [[捨]] : sha	su-teru	throw away
+898. [[探]] : tan	saga-su	grope
+899. [[推]] : sui	 	infer
+900. [[揮]] : ki	 	command
+901. [[操]] : sō	ayatsu-ru	maneuver
+902. [[敬]] : kei	uyama-u	respect
+903. [[映]] : ei	utsu-ru	reflect
+904. [[晩]] : ban	 	nightfall
+905. [[暖]] : dan	atata-kai	warmth
+906. [[暮]] : bo	ku-rasu	livelihood
+907. [[朗]] : rō	hoga-raka	melodious
+908. [[機|机]] : ki	tsukue	desk
+909. [[枚]] : mai	 	sheet of…
+910. [[染]] : sen	so-meru	dye
+911. [[株]] : kabu	 	stocks
+912. [[棒]] : bō	 	rod
+913. [[模]] : mo ; bo	 	imitation
+914. [[権]] : ken	 	rights
+915. [[樹]] : ju	ki	trees
+916. [[欲]] : yoku	ho-shii	longing
+917. [[段]] : dan	 	steps
+918. [[沿]] : en	so-u	run alongside
+919. [[泉]] : sen	izumi	fountain
+920. [[洗]] : sen	ara-u	wash
+921. [[派]] : ha	 	sect
+922. [[済]] : sai	su-mu	settle
+923. [[源]] : gen	minamoto	origin
+924. [[潮]] : chō	shio	tide
+925. [[激]] : geki	hage-shii	violent
+926. [[灰]] : kai	hai	ashes
+927. [[熟]] : juku	u-reru	ripen
+928. [[片]] : hen	kata	one-sided
+929. [[班]] : han	 	group
+930. [[異]] : i	koto-naru	uncommon
+931. [[疑]] : gi	utaga-u	doubt
+932. [[痛]] : tsū	ita-i	pain
+933. [[皇]] : kō	ō	emperor
+934. [[盛]] : sei	mo-ru	prosper
+935. [[盟]] : mei	 	alliance
+936. [[看]] : kan	 	watch over
+937. [[沙|砂]] : sa	sha ; suna	sand
+938. [[磁]] : ji	 	magnet
+939. [[私]] : shi	watakushi ; watashi	me
+940. [[秘]] : hi	 	secret
+941. [[穀]] : koku	 	cereal
+942. [[穴]] : ketsu	ana	hole
+943. [[窓]] : sō	mado	window
+944. [[筋]] : kin	suji	muscle
+945. [[策]] : saku	 	scheme
+946. [[簡]] : kan	 	simplicity
+947. [[糖]] : tō	 	sugar
+948. [[系]] : kei	 	lineage
+949. [[紅]] : kō	beni ; kurenai	deep red
+950. [[納]] : nō	osa-meru	settlement
+951. [[純]] : jun	 	genuine
+952. [[絹]] : ken	kinu	silk
+953. [[縦]] : ju	tate	vertical
+954. [[縮]] : shuku	chidi-mu	shrink
+955. [[署]] : sho	 	government office
+956. [[翌]] : yoku	 	the following
+957. [[聖]] : sei	 	holy
+958. [[肺]] : hai	 	lung
+959. [[背]] : hai	se	back
+960. [[胸]] : kyō	mune	bosom
+961. [[脳]] : nō	 	brain
+962. [[腹]] : fuku	hara	abdomen
+963. [[臓]] : zō	 	entrails
+964. [[臨]] : rin	nozo-mu	lookover
+965. [[至]] : shi	ita-ru	climax
+966. [[若]] : jaku	waka-i	young
+967. [[著]] : cho	arawa-su ; ichijiru-shii	renowned
+968. [[蒸]] : jō	mu-su	steam
+969. [[蔵]] : zō	kura	warehouse
+970. [[蚕]] : san	kaiko	silkworm
+971. [[衆]] : shū	 	masses
+972. [[裁]] : sai	saba-ku	judge
+973. [[装]] : sō ; shō	yosoo-u	attire
+974. [[裏]] : ri	ura	back
+975. [[補]] : ho	ogina-u	supplement
+976. [[視]] : shi	mi-ru	look at
+977. [[覧]] : ran	 	perusal
+978. [[討]] : tō	u-tsu	chastise
+979. [[訪]] : hō	otozu-reru	visit
+980. [[訳]] : yaku	wake	translate
+981. [[詞]] : shi	kotoba	poetry
+982. [[誌]] : shi	 	document
+983. [[認]] : nin	mito-meru	recognize
+984. [[誕]] : tan	 	born
+985. [[誠]] : sei	makoto	sincerity
+986. [[誤]] : go	ayama-ru	mistake
+987. [[論]] : ron	 	theory
+988. [[諸]] : sho	moro	everything
+989. [[警]] : kei	 	guard against
+990. [[貴]] : ki	 	precious
+991. [[賃]] : chin	 	fare
+992. [[遺]] : i	 	bequeath
+993. [[郵]] : yū	 	mail
+994. [[郷]] : kyou	gou	home town
+995. [[針]] : shin	hari	needle
+996. [[鋼]] : kou	hagane	steel
+997. [[閉]] : hei	shi-meru	closed
+998. [[閣]] : kaku	 	tall
+999. [[降]] : kou	o-riru	descend
+1000. [[陛]] : hei	 	majesty
+1001. [[除]] : jo ; ji	nozo-ku	exclude
+1002. [[障]] : shou	sawa-ru	hurt
+1003. [[難]] : nan	muzuka-shii	difficult
+1004. [[革]] : kaku	kawa	leather
+1005. [[頂]] : chou	itada-ku	place on the head
+1006. [[骨]] : kotsu	hone	bone
