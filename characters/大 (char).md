@@ -1,38 +1,38 @@
 ---
 mandarin:
-- dà
+  - dà
 cantonese:
-- daai6
+  - daai6
 korean:
-- 대
-korean_native: ''
+  - 대
+korean_native: ""
 japanese:
-- TAI
-- DAI
-- TA
-japanese_nanori: ''
+  - TAI
+  - DAI
+  - TA
+japanese_nanori: ""
 vietnamese:
-- đại
+  - đại
 middle_chinese_initial: d
 middle_chinese_final: ɑi
-stroke_count: '3'
+stroke_count: "3"
 radical: 大
 skip_number: 4-3-4
 grade_level: 1
-pos: ''
+pos: ""
 english:
-- big
+  - big
 羅馬字: dai
-韓文: '[[대]]'
-joyo_level: '1'
-hsk_level: '1'
+韓文: "[[대]]"
+joyo_level: "1"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 15
 mc_id: 15
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: 大
 aliases:
-- 亣
+  - 亣
 ---
 ```meta-bind-embed
 [[nav/char_info]]

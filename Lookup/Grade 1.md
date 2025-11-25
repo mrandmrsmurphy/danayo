@@ -63,7 +63,7 @@
 
 <ruby>[[刀]]<rt>탓</rt></ruby>,
 <ruby>[[力 (char)]]<rt>릭</rt></ruby>,
-<ruby>[[大]]<rt>대</rt></ruby>,
+<ruby>[[大 (char)]]<rt>대</rt></ruby>,
 <ruby>[[才]]<rt>재</rt></ruby>,
 <ruby>[[上]]<rt>샹</rt></ruby>,
 <ruby>[[小 (char)]]<rt>소</rt></ruby>,

@@ -17,7 +17,7 @@ This is the list of kanji required in Japanese grammar school.  For the other 10
 15. [[左]] : sa (hidari)    
 16. [[右]] : u / yū (migi)    
 17. [[中]] : chū (naka)    
-18. [[大]] : dai / tai (ō-kii)    
+18. [[大 (char)]] : dai / tai (ō-kii)    
 19. [[小]] : shō (chii-sai)    
 20. [[月]] : getsu / gatsu (tsuki)    
 21. [[日]] : nichi / jitsu (hi, ka)    
