@@ -65,7 +65,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1089. [[乙]] : the latter
 1090. [[俺]] : I, we, myself
 1091. [[卸]] : wholesale
-1092. [[穏]] : 	穩	S	calm
+1092. [[穏]] : 	穩	calm
 1093. [[佳]] : excellent
 1094. [[苛]] : torment
 1095. [[架]] : rack
@@ -74,13 +74,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1098. [[渦]] : whirlpool
 1099. [[嫁]] : marry into
 1100. [[暇]] : spare time
-1101. [[禍]] : 	禍 [4]	S	calamity
+1101. [[禍]] : 	禍	calamity
 1102. [[靴]] : shoes
 1103. [[寡]] : widow
 1104. [[個|箇]] : counters for things
 1105. [[稼]] : earnings
 1106. [[蚊]] : mosquito
-1107. [[牙]] :  [5]		S	tusk
+1107. [[牙]] :  tusk
 1108. [[瓦]] : tile
 1109. [[雅]] : gracious
 1110. [[餓]] : starve
@@ -88,41 +88,41 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1112. [[戒]] : commandment
 1113. [[怪]] : suspicious
 1114. [[拐]] : kidnap
-1115. [[悔]] : 	悔 [4]	S	repent
+1115. [[悔]] : 	悔 repent
 1116. [[皆]] : all
 1117. [[塊]] : clod
 1118. [[楷]] : square character style
 1119. [[潰]] : crush
-1120. [[壊]] : 	壞	S	demolition
-1121. [[懐]] : 	懷	S	pocket
+1120. [[壊]] : 	壞	demolition
+1121. [[懐]] : 	懷	pocket
 1122. [[諧]] : harmony
 1123. [[劾]] : censure
 1124. [[崖]] : cliff
 1125. [[涯]] : horizon
-1126. [[慨]] : 	慨 [4]	S	rue
+1126. [[慨]] : 	慨	rue
 1127. [[蓋]] : cover
 1128. [[該]] : above-stated
-1129. [[概]] : 	槪	S	outline
+1129. [[概]] : 	槪	outline
 1130. [[骸]] : dead remains
 1131. [[垣]] : hedge
 1132. [[柿]] : persimmon
 1133. [[核]] : nucleus
-1134. [[殻]] : 	殼	S	husk
+1134. [[殻]] : 	殼	husk
 1135. [[郭]] : enclosure
 1136. [[較]] : contrast
 1137. [[隔]] : isolate
 1138. [[獲]] : seize
 1139. [[嚇]] : menacing
 1140. [[穫]] : harvest
-1141. [[岳]] : 	嶽	S	point
+1141. [[岳]] : 	嶽	point
 1142. [[顎]] : jaw
 1143. [[掛]] : hang
 1144. [[括]] : fasten
-1145. [[喝]] : 	喝 [4]	S	hoarse
-1146. [[渇]] : 	渴	S	thirst
-1147. [[葛]] :  [7]		S	arrowroot
+1145. [[喝]] : 	喝	hoarse
+1146. [[渇]] : 	渴	thirst
+1147. [[葛]] :  arrowroot
 1148. [[滑]] : slippery
-1149. [[褐]] : 	褐 [4]	S	brown
+1149. [[褐]] : 	褐 brown
 1150. [[轄]] : control
 1151. [[且]] : moreover
 1152. [[釜]] : kettle
@@ -130,10 +130,10 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1154. [[刈]] : reap
 1155. [[甘]] : sweet
 1156. [[汗]] : sweat
-1157. [[缶]] : 	罐	S	tin can
+1157. [[缶]] : 	罐	tin can
 1158. [[肝]] : liver
 1159. [[冠]] : crown
-1160. [[陥]] : 	陷	S	collapse
+1160. [[陥]] : 	陷	collapse
 1161. [[乾]] : dry
 1162. [[勘]] : intuition
 1163. [[患]] : afflicted
@@ -145,15 +145,15 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1169. [[棺]] : coffin
 1170. [[款]] : goodwill
 1171. [[閑]] : leisure
-1172. [[勧]] : 	勸	S	persuade
-1173. [[寛]] : 	寬	S	tolerant
-1174. [[歓]] : 	歡	S	delight
+1172. [[勧]] : 	勸	persuade
+1173. [[寛]] : 	寬	tolerant
+1174. [[歓]] : 	歡	delight
 1175. [[監]] : oversee
 1176. [[緩]] : slacken
 1177. [[憾]] : remorse
 1178. [[還]] : send back
 1179. [[環]] : ring
-1180. [[韓]] :  [5]		S	Korea
+1180. [[韓]] :  Korea
 1181. [[艦]] : warship
 1182. [[鑑]] : specimen
 1183. [[含]] : include
@@ -163,12 +163,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1187. [[伎]] : deed
 1188. [[忌]] : mourning
 1189. [[奇]] : strange
-1190. [[祈]] : 	祈 [4]	S	pray
+1190. [[祈]] : 	祈 pray
 1191. [[軌]] : rut
-1192. [[既]] : 	既 [4]	S	previously
+1192. [[既]] : 	既 previously
 1193. [[飢]] : hungry
 1194. [[鬼]] : ghost
-1195. [[亀]] : 	龜	S	turtle
+1195. [[亀]] : 	龜	turtle
 1196. [[幾]] : how many
 1197. [[棋]] : chess piece
 1198. [[棄]] : abandon
@@ -177,12 +177,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1201. [[輝]] : radiance
 1202. [[騎]] : equestrian
 1203. [[宜]] : best regards
-1204. [[偽]] : 	僞	S	falsehood
+1204. [[偽]] : 	僞	falsehood
 1205. [[欺]] : deceit
 1206. [[儀]] : ceremony
-1207. [[戯]] : 	戲	S	frolic
+1207. [[戯]] : 	戲	frolic
 1208. [[擬]] : mimic
-1209. [[犠]] : 	犧	S	sacrifice
+1209. [[犠]] : 	犧	sacrifice
 1210. [[菊]] : chrysanthemum
 1211. [[吉]] : good luck
 1212. [[喫]] : consume
@@ -199,8 +199,8 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1223. [[窮]] : hard up
 1224. [[巨]] : gigantic
 1225. [[拒]] : repel
-1226. [[拠]] : 	據	S	foothold
-1227. [[虚]] : 	虛	S	void
+1226. [[拠]] : 	據	foothold
+1227. [[虚]] : 	虛	void
 1228. [[距]] : long-distance
 1229. [[御]] : honorable
 1230. [[凶]] : villain
@@ -208,29 +208,29 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1232. [[狂]] : lunatic
 1233. [[享]] : receive
 1234. [[況]] : condition
-1235. [[峡]] : 	峽	S	gorge
-1236. [[挟]] : 	挾	S	pinch
-1237. [[狭]] : 	狹	S	cramped
+1235. [[峡]] : 	峽	gorge
+1236. [[挟]] : 	挾	pinch
+1237. [[狭]] : 	狹	cramped
 1238. [[恐]] : fear
 1239. [[恭]] : respect
 1240. [[脅]] : threaten
 1241. [[矯]] : rectify
-1242. [[響]] : 	響 [4]	S	echo
+1242. [[響]] : 	響	echo
 1243. [[驚]] : wonder
 1244. [[仰]] : face-up
-1245. [[暁]] : 	曉	S	daybreak
+1245. [[暁]] : 	曉	daybreak
 1246. [[凝]] : congeal
 1247. [[巾]] : towel
 1248. [[斤]] : axe
 1249. [[菌]] : germ
 1250. [[琴]] : harp
-1251. [[僅]] :  [7]		S	a wee bit
+1251. [[僅]] :  a wee bit
 1252. [[緊]] : tense
 1253. [[錦]] : brocade
-1254. [[謹]] : 	謹 [4]	S	discreet
+1254. [[謹]] : 	謹 discreet
 1255. [[襟]] : collar
 1256. [[吟]] : versify
-1257. [[駆]] : 	驅	S	drive
+1257. [[駆]] : 	驅	drive
 1258. [[惧]] : dread
 1259. [[愚]] : foolish
 1260. [[偶]] : accidentally
@@ -241,47 +241,47 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1265. [[掘]] : dig
 1266. [[窟]] : cavern
 1267. [[繰]] : winding
-1268. [[勲]] : 	勳	S	meritorious deed
-1269. [[薫]] : 	薰	S	fragrant
+1268. [[勲]] : 	勳	meritorious deed
+1269. [[薫]] : 	薰	fragrant
 1270. [[刑]] : punish
-1271. [[茎]] : 	莖	S	stalk
+1271. [[茎]] : 	莖	stalk
 1272. [[契]] : pledge
-1273. [[恵]] : 	惠	S	favor
+1273. [[恵]] : 	惠	favor
 1274. [[啓]] : disclose
-1275. [[掲]] : 	揭	S	put up (a notice)
-1276. [[渓]] : 	溪	S	mountain stream
-1277. [[蛍]] : 	螢	S	lightning-bug
+1275. [[掲]] : 	揭	put up (a notice)
+1276. [[渓]] : 	溪	mountain stream
+1277. [[蛍]] : 	螢	lightning-bug
 1278. [[傾]] : lean
 1279. [[携]] : portable
-1280. [[継]] : 	繼	S	inherit
+1280. [[継]] : 	繼	inherit
 1281. [[詣]] : visit a temple
 1282. [[慶]] : jubilation
 1283. [[憬]] : long for
 1284. [[稽]] : consider
 1285. [[憩]] : recess
-1286. [[鶏]] : 	鷄	S	chicken
+1286. [[鶏]] : 	鷄	chicken
 1287. [[迎]] : welcome
 1288. [[鯨]] : whale
 1289. [[隙]] : fissure
-1290. [[撃]] : 	擊	S	beat
+1290. [[撃]] : 	擊	beat
 1291. [[桁]] : beam
 1292. [[傑]] : greatness
 1293. [[肩]] : shoulder
-1294. [[倹]] : 	儉	S	frugal
+1294. [[倹]] : 	儉	frugal
 1295. [[兼]] : concurrently
-1296. [[剣]] : 	劍	S	sabre
+1296. [[剣]] : 	劍	sabre
 1297. [[拳]] : fist
 1298. [[軒]] : flats
-1299. [[圏]] : 	圈	S	sphere
+1299. [[圏]] : 	圈	sphere
 1300. [[堅]] : strict
 1301. [[嫌]] : dislike
-1302. [[献]] : 	獻	S	offering
+1302. [[献]] : 	獻	offering
 1303. [[遣]] : dispatch
 1304. [[賢]] : intelligent
 1305. [[謙]] : self-effacing
 1306. [[鍵]] : key
 1307. [[繭]] : cocoon
-1308. [[顕]] : 	顯	S	appear
+1308. [[顕]] : 	顯	appear
 1309. [[懸]] : suspend
 1310. [[幻]] : phantasm
 1311. [[玄]] : mysterious
@@ -314,7 +314,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1338. [[拘]] : arrest
 1339. [[肯]] : agreement
 1340. [[侯]] : marquis
-1341. [[恒]] : 	恆	S	constancy
+1341. [[恒]] : 	恆	constancy
 1342. [[洪]] : deluge
 1343. [[荒]] : laid waste
 1344. [[郊]] : outskirts
@@ -341,7 +341,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1365. [[酷]] : cruel
 1366. [[獄]] : prison
 1367. [[駒]] : horse
-1368. [[込]] : crowded
+1368. 込 : crowded  FORBIDDEN!!!!
 1369. [[頃]] : times
 1370. [[昆]] : descendants
 1371. [[恨]] : rancor
@@ -357,17 +357,17 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1381. [[鎖]] : chain
 1382. [[挫]] : sprain
 1383. [[采]] : form
-1384. [[砕]] : 	碎	S	smash
+1384. [[砕]] : 	碎	smash
 1385. [[宰]] : superintend
 1386. [[栽]] : plantation
 1387. [[彩]] : coloring
-1388. [[斎]] : 	齋	S	purification
+1388. [[斎]] : 	齋	purification
 1389. [[債]] : bond
 1390. [[催]] : sponsor
 1391. [[塞]] : obstruct
 1392. [[歳]] : year-end
 1393. [[載]] : ride
-1394. [[剤]] : 	劑	S	dose
+1394. [[剤]] : 	劑	dose
 1395. [[削]] : plane
 1396. [[柵]] : fence
 1397. [[索]] : cord
@@ -379,15 +379,15 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1403. [[拶]] : be imminent
 1404. [[撮]] : snapshot
 1405. [[擦]] : grate
-1406. [[桟]] : 	棧	S	scaffold
-1407. [[惨]] : 	慘	S	wretched
+1406. [[桟]] : 	棧	scaffold
+1407. [[惨]] : 	慘	wretched
 1408. [[傘]] : umbrella
 1409. [[斬]] : kill by slicing
 1410. [[暫]] : temporarily
 1411. [[旨]] : delicious
 1412. [[伺]] : pay respects
 1413. [[刺]] : thorn
-1414. [[祉]] : 	祉 [4]	S	welfare
+1414. [[祉]] : 	祉 welfare
 1415. [[肢]] : limb
 1416. [[施]] : carry out
 1417. [[恣]] : selfish
@@ -473,13 +473,14 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1497. [[抄]] : extract
 1498. [[肖]] : resemblance
 1499. [[尚]] : esteem
+## 1500
 1500. [[昇]] : rise up
 1501. [[沼]] : marsh
 1502. [[宵]] : wee hours
 1503. [[症]] : symptoms
-1504. [[祥]] : 	祥 [4]	S	auspicious
-1505. [[称]] : 	稱	S	appellation
-1506. [[渉]] : 	涉	S	ford
+1504. [[祥]] : 	祥 auspicious
+1505. [[称]] : 	稱	appellation
+1506. [[渉]] : 	涉	ford
 1507. [[紹]] : introduce
 1508. [[訟]] : sue
 1509. [[掌]] : manipulate
@@ -505,7 +506,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1529. [[嬢]] : 	孃	S	lass
 1530. [[錠]] : lock
 1531. [[譲]] : 	讓	S	defer
-1532. [[醸]] : 	釀	S	brew
+1532. [[醸]] : 	[[釀]]	brew  ----------------------------------------
 1533. [[拭]] : wipe
 1534. [[殖]] : augment
 1535. [[飾]] : decorate
@@ -514,8 +515,8 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1538. [[辱]] : embarrass
 1539. [[尻]] : buttocks
 1540. [[伸]] : lengthen
-1541. [[芯]] : core
-1542. [[辛]] : spicy
+1541. [[心|芯]] : core
+1542. [[幸|辛]] : spicy
 1543. [[侵]] : encroach
 1544. [[津]] : haven
 1545. [[唇]] : lips
@@ -550,10 +551,10 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1574. [[髄]] : 	髓	S	marrow
 1575. [[枢]] : 	樞	S	hinge
 1576. [[崇]] : adore
-1577. [[据]] : set
+1577. [[拠|据]] : set
 1578. [[杉]] : cedar
 1579. [[裾]] : cuff
-1580. [[瀬]] : 	瀨	S	rapids
+1580. [[瀬]] : 	[[瀨]]	S	rapids
 1581. [[是]] : just so
 1582. [[姓]] : surname
 1583. [[征]] : subjugate
@@ -568,7 +569,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1592. [[斥]] : reject
 1593. [[析]] : chop
 1594. [[脊]] : stature
-1595. [[隻]] : vessels
+1595. [[只|隻]] : vessels
 1596. [[惜]] : pity
 1597. [[戚]] : grieve
 1598. [[跡]] : tracks
@@ -581,10 +582,10 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1605. [[扇]] : fan
 1606. [[栓]] : plug
 1607. [[旋]] : rotation
-1608. [[煎]] :  [7]		S	broil
+1608. [[煎]] :  broil
 1609. [[羨]] : envy
 1610. [[腺]] : gland
-1611. [[詮]] :  [7]		S	discussion
+1611. [[詮]] :  discussion
 1612. [[践]] : 	踐	S	tread
 1613. [[箋]] : paper
 1614. [[潜]] : 	潛	S	submerge
@@ -604,7 +605,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1628. [[疎]] : alienate
 1629. [[訴]] : sue
 1630. [[塑]] : model
-1631. [[遡]] :  [8]		S	go upstream
+1631. [[遡]] :  go upstream
 1632. [[礎]] : cornerstone
 1633. [[双]] : 	雙	S	pair
 1634. [[壮]] : 	壯	S	robust
@@ -617,9 +618,9 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1641. [[曽]] : 	曾	S	formerly
 1642. [[爽]] : refreshing
 1643. [[喪]] : miss
-1644. [[痩]] : 	瘦	S	get thin
+1644. [[痩]] : 	[[瘦]]	S	get thin
 1645. [[葬]] : interment
-1646. [[僧]] : 	僧 [4]	S	Buddhist priest
+1646. [[僧]] : 	僧 Buddhist priest
 1647. [[遭]] : encounter
 1648. [[槽]] : vat
 1649. [[踪]] : remains
@@ -627,9 +628,9 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1651. [[霜]] : frost
 1652. [[騒]] : 	騷	S	boisterous
 1653. [[藻]] : seaweed
-1654. [[憎]] : 	憎 [4]	S	hate
-1655. [[贈]] : 	贈 [4]	S	presents
-1656. [[即]] : 	卽	S	instant
+1654. [[憎]] : 	憎 hate
+1655. [[贈]] : 	贈 presents
+1656. [[即]] : 	卽 instant
 1657. [[促]] : stimulate
 1658. [[捉]] : capture
 1659. [[俗]] : vulgar
@@ -651,7 +652,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1675. [[替]] : exchange
 1676. [[滞]] : 	滯	S	stagnate
 1677. [[戴]] : be crowned with
-1678. [[滝]] : 	瀧	S	waterfall
+1678. [[瀧|滝]]	waterfall
 1679. [[択]] : 	擇	S	choose
 1680. [[沢]] : 	澤	S	swamp
 1681. [[卓]] : eminent
@@ -667,9 +668,9 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1691. [[誰]] : who (question word)
 1692. [[丹]] : cinnabar
 1693. [[旦]] : daybreak
-1694. [[胆]] : 	膽	S	gall bladder
+1694. [[胆]] : 	膽	gall bladder
 1695. [[淡]] : thin
-1696. [[嘆]] : 	嘆 [4]	S	sigh
+1696. [[嘆]] : 	嘆	sigh
 1697. [[端]] : edge
 1698. [[綻]] : rip
 1699. [[鍛]] : forge
@@ -701,12 +702,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1725. [[超]] : transcend
 1726. [[跳]] : hop
 1727. [[徴]] : 	徵	S	indications
-1728. [[嘲]] :  [7]		S	ridicule
+1728. [[嘲]] :  ridicule
 1729. [[澄]] : lucidity
-1730. [[聴]] : 	聽	S	listen
-1731. [[懲]] : 	懲 [4]	S	penal
-1732. [[勅]] : 	敕	S	imperial order
-1733. [[捗]] :  [7]		S	make progress
+1730. [[聴]] : 	聽	listen
+1731. [[懲]] : 	懲 penal
+1732. [[勅]] : 	敕	imperial order
+1733. 捗 : make progress     FORBIDDEN
 1734. [[沈]] : sink
 1735. [[珍]] : rare
 1736. [[朕]] : majestic plural
@@ -736,13 +737,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1760. [[泥]] : mud
 1761. [[摘]] : pinch
 1762. [[滴]] : drip
-1763. [[溺]] :  [7]		S	drown
+1763. [[溺]] : drown
 1764. [[迭]] : transfer
 1765. [[哲]] : philosophy
 1766. [[徹]] : penetrate
 1767. [[撤]] : remove
 1768. [[添]] : annexed
-1769. [[塡]] :  [7]		S	fill in
+1769. [[填|塡]] :  fill in
 1770. [[殿]] : Mr.
 1771. [[斗]] : Big Dipper
 1772. [[吐]] : spit
@@ -750,13 +751,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1774. [[途]] : route
 1775. [[渡]] : transit
 1776. [[塗]] : paint
-1777. [[賭]] :  [7]		S	gamble
+1777. [[賭]] :  gamble
 1778. [[奴]] : guy
 1779. [[怒]] : angry
 1780. [[到]] : arrival
 1781. [[逃]] : escape
 1782. [[倒]] : overthrow
-1783. [[凍]] : frozen
+1783. [[凍]] : frozen -----------------------------------------
 1784. [[唐]] : T'ang
 1785. [[桃]] : peach tree
 1786. [[透]] : transparent
@@ -777,12 +778,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1801. [[洞]] : den
 1802. [[胴]] : trunk
 1803. [[瞳]] : pupil
-1804. [[峠]] : mountain peak
+1804. 峠 : mountain peak    FORBIDDEN!!!
 1805. [[匿]] : hide
 1806. [[督]] : coach
 1807. [[篤]] : fervent
 1808. [[凸]] : convex
-1809. [[突]] : 	突 [4]	S	stab
+1809. [[突]] : 	突	stab
 1810. [[屯]] : barracks
 1811. [[豚]] : pork
 1812. [[頓]] : suddenly
@@ -791,12 +792,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1815. [[曇]] : cloudy weather
 1816. [[丼]] : bowl of food
 1817. [[那]] : what
-1818. [[謎]] :  [8]		S	riddle
+1818. [[謎]] : riddle
 1819. [[鍋]] : pot
 1820. [[軟]] : soft
 1821. [[尼]] : nun
-1822. [[弐]] : 	貳	S	two (falsification prevention)
-1823. [[匂]] : scent
+1822. [[貳|弐]] :	two (falsification prevention)
+1823. 匂 : scent      FORBIDDEN!!!
 1824. [[虹]] : rainbow
 1825. [[尿]] : urine
 1826. [[妊]] : pregnancy
@@ -822,13 +823,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1846. [[拍]] : clap
 1847. [[泊]] : overnight
 1848. [[迫]] : urge
-1849. [[剝]] :  [7]		S	peel
+1849. [[剝]] : peel
 1850. [[舶]] : liner
 1851. [[薄]] : dilute
 1852. [[漠]] : vague
 1853. [[縛]] : truss
 1854. [[爆]] : explode
-1855. [[箸]] :  [7]		S	chopsticks
+1855. [[箸]] : chopsticks
 1856. [[肌]] : texture
 1857. [[鉢]] : bowl
 1858. [[髪]] : 	髮	S	hair of the head
@@ -848,18 +849,18 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1872. [[煩]] : anxiety
 1873. [[頒]] : partition
 1874. [[範]] : pattern
-1875. [[繁]] : 	繁 [4]	S	luxuriant
+1875. [[繁]] : 	繁	luxuriant
 1876. [[藩]] : clan
-1877. [[蛮]] : 	蠻	S	barbarian
+1877. [[蛮]] : 	蠻	barbarian
 1878. [[盤]] : tray
 1879. [[妃]] : queen
 1880. [[彼]] : he
-1881. [[披]] : expose
-1882. [[卑]] : 	卑 [4]	S	lowly
+1881. [[披]] : expose --------------------------------------------
+1882. [[卑]] : 	卑 lowly
 1883. [[疲]] : exhausted
 1884. [[被]] : incur
 1885. [[扉]] : front door
-1886. [[碑]] : 	碑 [4]	S	tombstone
+1886. [[碑]] : 	碑 tombstone
 1887. [[罷]] : quit
 1888. [[避]] : evade
 1889. [[尾]] : tail
@@ -874,11 +875,11 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1898. [[苗]] : seedling
 1899. [[描]] : sketch
 1900. [[猫]] : cat
-1901. [[浜]] : 	濱	S	seacoast
-1902. [[賓]] : 	賓 [4]	S	V.I.P.
-1903. [[頻]] : 	頻 [4]	S	repeatedly
-1904. [[敏]] : 	敏 [4]	S	cleverness
-1905. [[瓶]] : 	甁	S	flower pot
+1901. [[浜]] : 	濱 seacoast
+1902. [[賓]] : 	賓 V.I.P.
+1903. [[頻]] : 	頻 repeatedly
+1904. [[敏]] : 	敏 cleverness
+1905. [[瓶]] : 	甁	flower pot
 1906. [[扶]] : aid
 1907. [[怖]] : dreadful
 1908. [[附]] : affixed
@@ -892,13 +893,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1916. [[膚]] : skin
 1917. [[賦]] : levy
 1918. [[譜]] : musical score
-1919. [[侮]] : 	侮 [4]	S	scorn
+1919. [[侮]] : 	侮 scorn
 1920. [[舞]] : dance
 1921. [[封]] : seal
 1922. [[伏]] : prostrated
 1923. [[幅]] : breadth
 1924. [[覆]] : capsize
-1925. [[払]] : 	拂	S	pay
+1925. [[拂|払]] :	pay
 1926. [[沸]] : seethe
 1927. [[紛]] : distract
 1928. [[雰]] : atmosphere
@@ -906,13 +907,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1930. [[墳]] : tomb
 1931. [[憤]] : aroused
 1932. [[丙]] : third class
-1933. [[併]] : 	倂	S	join
+1933. [[並|併]] 	倂	join
 1934. [[柄]] : design
-1935. [[塀]] : 	塀 [4]	S	fence
+1935. [[塀]] : 	[[塀]]	fence
 1936. [[幣]] : cash
 1937. [[弊]] : abuse
-1938. [[蔽]] :  [7]		S	cover
-1939. [[餅]] :  [8]	餠	S	mochi rice cake
+1938. [[蔽]] :  cover
+1939. [[餅]] :  	餠	mochi rice cake
 1940. [[壁]] : wall
 1941. [[璧]] : sphere
 1942. [[癖]] : mannerism
@@ -938,7 +939,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1962. [[崩]] : crumble
 1963. [[蜂]] : bee
 1964. [[飽]] : sated
-1965. [[褒]] : 	襃	S	praise
+1965. [[褒]] : 	襃	praise
 1966. [[縫]] : sew
 1967. [[乏]] : scarce
 1968. [[忙]] : busy
@@ -955,24 +956,25 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1979. [[貌]] : appearance
 1980. [[膨]] : swell
 1981. [[謀]] : conspire
-1982. [[頰]] :  [7]		S	cheek
+1982. [[頬|頰]] : 	cheek
 1983. [[朴]] : crude
 1984. [[睦]] : harmonious
 1985. [[僕]] : me
-1986. [[墨]] : 	墨 [4]	S	black ink
+1986. [[墨]] : 	墨 	black ink
 1987. [[撲]] : slap
-1988. [[没]] : 	沒	S	drown
+1988. [[没]] : 	沒	drown
 1989. [[勃]] : rise
 1990. [[堀]] : ditch
 1991. [[奔]] : bustle
-1992. [[翻]] : 	飜	S	flip
+1992. [[翻]] : 	飜	flip
 1993. [[凡]] : mediocre
 1994. [[盆]] : basin
 1995. [[麻]] : hemp
-1996. [[摩]] : chafe
+1996. [[磨|摩]] : chafe
 1997. [[磨]] : grind
 1998. [[魔]] : witch
 1999. [[昧]] : foolish
+## 2000
 2000. [[埋]] : bury
 2001. [[膜]] : membrane
 2002. [[枕]] : pillow
@@ -1005,7 +1007,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2029. [[弥]] : 	彌	S	all the more
 2030. [[厄]] : unlucky
 2031. [[躍]] : leap
-2032. [[闇]] : darkness
+2032. [[暗|闇]] : darkness
 2033. [[喩]] : metaphor
 2034. [[愉]] : pleasure
 2035. [[諭]] : rebuke
@@ -1046,7 +1048,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2070. [[辣]] : bitter
 2071. [[濫]] : excessive
 2072. [[藍]] : indigo
-2073. [[欄]] : 	欄 [4]	S	column
+2073. [[欄]] : 	欄 column
 2074. [[吏]] : officer
 2075. [[痢]] : diarrhea
 2076. [[履]] : footgear
@@ -1054,16 +1056,16 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2078. [[離]] : detach
 2079. [[慄]] : fear
 2080. [[柳]] : willow
-2081. [[龍|竜]] : 	龍	S	dragon
+2081. [[龍|竜]] : 	龍	dragon
 2082. [[粒]] : grains
-2083. [[隆]] : 	隆 [4]	S	hump
+2083. [[隆]] : 	隆 hump
 2084. [[硫]] : sulphur
 2085. [[侶]] : companion
-2086. [[虜]] : 	虜 [4]	S	captive
+2086. [[虜]] : 	虜 captive
 2087. [[慮]] : prudence
 2088. [[了]] : finish
 2089. [[涼]] : refreshing
-2090. [[猟]] : 	獵	S	game-hunting
+2090. [[猟]] : 	獵	game-hunting
 2091. [[陵]] : mausoleum
 2092. [[僚]] : colleague
 2093. [[寮]] : dormitory
