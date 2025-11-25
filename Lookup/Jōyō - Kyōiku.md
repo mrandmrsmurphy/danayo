@@ -976,7 +976,7 @@ The following prefecture names were added in 2017
 974. [[臨]] : rin	nozo-mu	lookover
 975. [[至]] : shi	ita-ru	climax
 976. [[若]] : jaku	waka-i	young
-977. [[著]] : cho	arawa-su ; ichijiru-shii	renowned
+977. [[着|著]] : cho	arawa-su ; ichijiru-shii	renowned
 978. [[蒸]] : jō	mu-su	steam
 979. [[蔵]] : zō	kura	warehouse
 980. [[蚕]] : san	kaiko	silkworm

@@ -374,7 +374,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1398. [[酢]] : vinegar
 1399. [[搾]] : squeeze
 1400. [[錯]] : confused
-1401. [[咲]] : blossom
+1401. [[笑|咲]] : blossom
 1402. [[刹]] : temple
 1403. [[拶]] : be imminent
 1404. [[撮]] : snapshot
@@ -400,19 +400,19 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1424. [[諮]] : consult with
 1425. [[侍]] : waiter
 1426. [[慈]] : mercy
-1427. [[餌]] :  [8]		S	bait
+1427. [[餌]] :  bait
 1428. [[璽]] : emperor's seal
 1429. [[軸]] : axis
-1430. [[𠮟]] :  [5]		S	scold
+1430. [[叱|𠮟]] :  scold
 1431. [[疾]] : rapidly
 1432. [[執]] : tenacious
-1433. [[湿]] : 	濕	S	damp
+1433. [[湿]] : 	濕	damp
 1434. [[嫉]] : envy
 1435. [[漆]] : lacquer
 1436. [[芝]] : turf
 1437. [[赦]] : pardon
 1438. [[斜]] : diagonal
-1439. [[煮]] : 	煮 [4]	S	boil
+1439. [[煮]] : 	煮 boil
 1440. [[遮]] : intercept
 1441. [[邪]] : wicked
 1442. [[蛇]] : snake
@@ -426,14 +426,14 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1450. [[珠]] : pearl
 1451. [[腫]] : tumor
 1452. [[趣]] : gist
-1453. [[寿]] : 	壽	S	longevity
+1453. [[寿]] : 	壽	longevity
 1454. [[呪]] : curse
 1455. [[需]] : demand
 1456. [[儒]] : Confucian
 1457. [[囚]] : captured
 1458. [[舟]] : boat
 1459. [[秀]] : excel
-1460. [[臭]] : 	臭 [4]	S	stinking
+1460. [[臭]] : 	臭 stinking
 1461. [[袖]] : sleeve
 1462. [[羞]] : feel ashamed
 1463. [[愁]] : distress
@@ -444,12 +444,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1468. [[汁]] : soup
 1469. [[充]] : allot
 1470. [[柔]] : tender
-1471. [[渋]] : 	澁	S	astringent
+1471. [[渋]] : 	澁	astringent
 1472. [[銃]] : gun
-1473. [[獣]] : 	獸	S	animal
+1473. [[獣]] : 	獸	animal
 1474. [[叔]] : uncle
 1475. [[淑]] : graceful
-1476. [[粛]] : 	肅	S	solemn
+1476. [[粛]] : 	肅	solemn
 1477. [[塾]] : cram school
 1478. [[俊]] : genius
 1479. [[瞬]] : wink
