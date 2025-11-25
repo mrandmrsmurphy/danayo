@@ -448,7 +448,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1449. [[洞]] : dō (hora)    
 1450. [[胴]] : dō (—)    
 1451. [[瞳]] : dō (hitomi)    
-1452. [[峠]] : tōge (—)    
+1452. 峠 : tōge (—)    FORBIDDEN
 1453. [[匿]] : toku (kaku-mu)    
 1454. [[篤]] : toku (atsu-i)    
 1455. [[凸]] : totsu (—)    
@@ -461,11 +461,11 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1462. [[曇]] : don (kumo-ru)    
 1463. [[丼]] : donburi (—)    
 1464. [[那]] : na (—)    
-1465. [[奈]] : na (—)    
+1465. [[乃|奈]] : na (—)    
 1466. [[軟]] : nan (yawa-raka, yawa-rakai)    
 1467. [[尼]] : ni (ama)    
-1468. [[弐]] : ni (—)    
-1469. [[匂]] : nioi (nio-u)    
+1468. [[貳|弐]] : ni (—)    
+1469. 匂 : nioi (nio-u)      FORBIDDEN
 1470. [[虹]] : kō (niji)    
 1471. [[如]] : jo / nyo (—)    
 1472. [[尿]] : nyō (—)    
