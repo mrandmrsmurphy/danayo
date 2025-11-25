@@ -24,7 +24,7 @@ mc_id: 24
 graphemic_classification: 指事
 stand_in: 'TRUE'
 ---
-> This is the character 三. For the word 'three', use [[三]].
+> This is the character 三. For the word 'three', use [[三 1]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```

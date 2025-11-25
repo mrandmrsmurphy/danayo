@@ -10,13 +10,14 @@
 - <ruby>秦<rt>진</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>二百<rt>늬박</rt></ruby><ruby>二十<rt>늬십</rt></ruby><ruby>一<rt>읻</rt></ruby><ruby>至<rt>즤</rt></ruby> <ruby>二百<rt>늬박</rt></ruby><ruby>六<rt>룩</rt></ruby><ruby>年<rt>넌</rt></ruby> <ruby>紀元前<rt>기원전</rt></ruby> 
 - <ruby>漢<rt>한</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>二百<rt>늬박</rt></ruby><ruby>六<rt>룩</rt></ruby><ruby>年<rt>넌</rt></ruby> <ruby>紀元前<rt>기원전</rt></ruby><ruby>至<rt>즤</rt></ruby> <ruby>二百<rt>늬박</rt></ruby><ruby>二十<rt>늬십</rt></ruby><ruby>年<rt>넌</rt></ruby> <ruby>紀元後<rt>기원훗</rt></ruby> 
 ### <ruby>中古<rt>중고</rt></ruby> 
-- <ruby>魏晋<rt>어진</rt></ruby><ruby>南北<rt>남북</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>時<rt>시</rt></ruby>: <ruby>二百<rt>늬박</rt></ruby><ruby>二十<rt>늬십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>五百<rt>오박</rt></ruby><ruby>八十<rt>받십</rt></ruby>九<ruby>年<rt>넌</rt></ruby> <!-- E, Jin, North, South 220-589 //-->
-- [[堕]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>五百<rt>오박</rt></ruby><ruby>八十<rt>받십</rt></ruby>一 <ruby>至<rt>즤</rt></ruby> <ruby>六百<rt>룩박</rt></ruby><ruby>十八<rt>십받</rt></ruby><ruby>年<rt>넌</rt></ruby> <!-- Su 589-618 //-->
+#### Center Country
+- <ruby>魏晋<rt>어진</rt></ruby><ruby>南北<rt>남북</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>時<rt>시</rt></ruby>: <ruby>二百<rt>늬박</rt></ruby><ruby>二十<rt>늬십</rt></ruby><ruby>至<rt>즤</rt></ruby> <ruby>五百<rt>오박</rt></ruby><ruby>八十<rt>받십</rt></ruby><ruby>九<rt>큐</rt></ruby><ruby>年<rt>넌</rt></ruby> <!-- E, Jin, North, South 220-589 //-->
+- <ruby>堕<rt>쉬</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>五百<rt>오박</rt></ruby><ruby>八十<rt>받십</rt></ruby><ruby>一<rt>읻</rt></ruby><ruby>至<rt>즤</rt></ruby> <ruby>六百<rt>룩박</rt></ruby><ruby>十八<rt>십받</rt></ruby><ruby>年<rt>넌</rt></ruby> <!-- Su 589-618 //-->
 - <ruby>唐<rt>돵</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>六百<rt>룩박</rt></ruby><ruby>十八<rt>십받</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>九百<rt>큐박</rt></ruby>七<ruby>年<rt>넌</rt></ruby>    
 - [[五代十国]]：<ruby>九百<rt>큐박</rt></ruby>七 <ruby>至<rt>즤</rt></ruby> <ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby><ruby>年<rt>넌</rt></ruby>    <!--5 Dynasties 10 Kingdoms 907-960 //-->
-- [[宋]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby>九<ruby>年<rt>넌</rt></ruby> <!-- Song 960-1279 //-->
+- [[宋]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby><ruby>九<rt>큐</rt></ruby><ruby>年<rt>넌</rt></ruby> <!-- Song 960-1279 //-->
     　- 北宋：<ruby>九百<rt>큐박</rt></ruby><ruby>六十<rt>룩십</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>七<ruby>年<rt>넌</rt></ruby> <!-- Northern Song 960-1127 //-->
-    　- 南宋：<ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>七 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby>九<ruby>年<rt>넌</rt></ruby>    <!-- Southern Song 1127-1279 //-->
+    　- 南宋：<ruby>一千<rt>읻천</rt></ruby><ruby>一百<rt>읻박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>七 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby><ruby>九<rt>큐</rt></ruby><ruby>年<rt>넌</rt></ruby>    <!-- Southern Song 1127-1279 //-->
 #### <ruby>日本<rt>닏본</rt></ruby>
 - <ruby>大和<rt>대화</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>三第<rt>삼데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>六第<rt>룩데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> (야마토)
 - <ruby>飛鳥<rt>피촛</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>時<rt>시</rt></ruby>：<ruby>六第<rt>룩데</rt></ruby> <ruby>世紀<rt>서기</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>七百<rt>칟박</rt></ruby><ruby>一十<rt>읻십</rt></ruby><ruby>年<rt>넌</rt></ruby> (아수카)
@@ -27,6 +28,7 @@
 - [[統一新羅]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>六百<rt>룩박</rt></ruby><ruby>六十<rt>룩십</rt></ruby>八 <ruby>至<rt>즤</rt></ruby> <ruby>九百<rt>큐박</rt></ruby><ruby><ruby>三十<rt>삼십</rt></ruby><rt>삼십</rt></ruby>五<ruby>年<rt>넌</rt></ruby>
 - [[高麗]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>九百<rt>큐박</rt></ruby><ruby>十八<rt>십받</rt></ruby> <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>三百<rt>삼박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>二<ruby>年<rt>넌</rt></ruby>
 ### [[近代]]
+#### Center COuntry
 - [[元]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>二百<rt>늬박</rt></ruby><ruby>七十<rt>칟십</rt></ruby>一 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>三百<rt>삼박</rt></ruby><ruby>六十<rt>룩십</rt></ruby>八<ruby>年<rt>넌</rt></ruby>    <!-- Wen 1271-1368//-->
 - [[明]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>三百<rt>삼박</rt></ruby><ruby>六十<rt>룩십</rt></ruby>八 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>六百<rt>룩박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>四<ruby>年<rt>넌</rt></ruby>   <!-- Myeng 1368-1644//-->
 - [[清]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>六百<rt>룩박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>四 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>一十二<ruby>年<rt>넌</rt></ruby> <!-- Cing 1644-1912//-->
@@ -39,13 +41,14 @@
 - <ruby>朝鮮<rt>잣션</rt></ruby> ([[李氏]]) <ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>三百<rt>삼박</rt></ruby><ruby>九十<rt>큐십</rt></ruby>二 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby>八百<ruby>九十<rt>큐십</rt></ruby>七<ruby>年<rt>넌</rt></ruby>
 - [[大韓帝国]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby>八百<ruby>九十<rt>큐십</rt></ruby>七 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>一十<ruby>年<rt>넌</rt></ruby>
 ### <ruby>現代<rt>현대</rt></ruby>
-- [[国民党]]：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>一十二 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>九<ruby>年<rt>넌</rt></ruby> <!-- Kwomintang 1912-1949//-->
-- [[共産党]] + [[中華]][[民国]]<ruby>台湾<rt>대완</rt></ruby> ：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>九<ruby>年<rt>넌</rt></ruby> <ruby>至<rt>즤</rt></ruby> 今
+#### Center
+- [[国民党]]：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>一十二 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby><ruby>九<rt>큐</rt></ruby><ruby>年<rt>넌</rt></ruby> <!-- Kwomintang 1912-1949//-->
+- [[共産党]] + [[中華]][[民国]]<ruby>台湾<rt>대완</rt></ruby> ：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby><ruby>九<rt>큐</rt></ruby><ruby>年<rt>넌</rt></ruby> <ruby>至<rt>즤</rt></ruby> 今
 #### <ruby>日本<rt>닏본</rt></ruby>
 - [[明治]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby>八百<ruby>六十<rt>룩십</rt></ruby>八 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>十二<ruby>年<rt>넌</rt></ruby>
 - <ruby>[[大正]]<rt>대징</rt><ruby><ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>十二 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>六<ruby>年<rt>넌</rt></ruby>
-- [[昭和]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>六 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>八十<rt>받십</rt></ruby>九<ruby>年<rt>넌</rt></ruby>
-- [[平成]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>八十<rt>받십</rt></ruby>九 <ruby>至<rt>즤</rt></ruby> <ruby>二千<rt>늬천</rt></ruby>十九<ruby>年<rt>넌</rt></ruby>
+- [[昭和]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>二十<rt>늬십</rt></ruby>六 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>八十<rt>받십</rt></ruby><ruby>九<rt>큐</rt></ruby><ruby>年<rt>넌</rt></ruby>
+- [[平成]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>八十<rt>받십</rt></ruby><ruby>九<rt>큐</rt></ruby><ruby>至<rt>즤</rt></ruby> <ruby>二千<rt>늬천</rt></ruby>十九<ruby>年<rt>넌</rt></ruby>
 - [[令和]]<ruby>之<rt>티</rt></ruby><ruby>王朝<rt>왕잣</rt></ruby>：<ruby>二千<rt>늬천</rt></ruby>一十九<ruby>年<rt>넌</rt></ruby> <ruby>至<rt>즤</rt></ruby> 今
 #### <ruby>韓国<rt>한곡</rt></ruby>
 - <ruby>日本<rt>닏본</rt></ruby><ruby>統治<rt>통치</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>時<rt>시</rt></ruby>：<ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby>一十 <ruby>至<rt>즤</rt></ruby> <ruby>一千<rt>읻천</rt></ruby><ruby>九百<rt>큐박</rt></ruby><ruby>四十<rt>싀십</rt></ruby>五<ruby>年<rt>넌</rt></ruby>
