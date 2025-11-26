@@ -546,7 +546,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1569. [[酔]] : 	醉	drunk
 1570. [[遂]] : consummate
 1571. [[睡]] : drowsy
-1572. [[穂]] : 	[[穗]]	ear
+1572. [[穂]] : 	ear
 1573. [[随]] : 	隨	follow
 1574. [[髄]] : 	髓	marrow
 1575. [[枢]] : 	樞	hinge
@@ -554,7 +554,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1577. [[拠|据]] : set
 1578. [[杉]] : cedar
 1579. [[裾]] : cuff
-1580. [[瀬]] : 	[[瀨]]	S	rapids
+1580. [[瀬]] : 	[[瀨]]	S	rapids ---------------------------------------------------------------
 1581. [[是]] : just so
 1582. [[姓]] : surname
 1583. [[征]] : subjugate
@@ -607,18 +607,18 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1630. [[塑]] : model
 1631. [[遡]] :  go upstream
 1632. [[礎]] : cornerstone
-1633. [[双]] : 	雙	S	pair
-1634. [[壮]] : 	壯	S	robust
-1635. [[荘]] : 	莊	S	villa
-1636. [[捜]] : 	搜	S	search
-1637. [[挿]] : 	插	S	insert
+1633. [[双]] : 	雙	pair
+1634. [[壮]] : 	壯	robust
+1635. [[荘]] : 	莊	villa
+1636. [[捜]] : 	搜	search
+1637. [[挿]] : 	插	insert
 1638. [[桑]] : mulberry
 1639. [[掃]] : sweep
 1640. [[曹]] : cadet
-1641. [[曽]] : 	曾	S	formerly
+1641. [[曽]] : 	曾	formerly
 1642. [[爽]] : refreshing
 1643. [[喪]] : miss
-1644. [[痩]] : 	[[瘦]]	S	get thin
+1644. [[痩]] : 	get thin
 1645. [[葬]] : interment
 1646. [[僧]] : 	僧 Buddhist priest
 1647. [[遭]] : encounter
@@ -626,7 +626,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1649. [[踪]] : remains
 1650. [[燥]] : parch
 1651. [[霜]] : frost
-1652. [[騒]] : 	騷	S	boisterous
+1652. [[騒]] : 	騷	boisterous
 1653. [[藻]] : seaweed
 1654. [[憎]] : 	憎 hate
 1655. [[贈]] : 	贈 presents
