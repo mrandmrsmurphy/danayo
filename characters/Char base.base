@@ -28,9 +28,11 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
-      - property: 韓文
-        direction: ASC
       - property: danayo_id
+        direction: ASC
+      - property: grade_level
+        direction: DESC
+      - property: 韓文
         direction: ASC
       - property: skip_number
         direction: DESC
@@ -42,8 +44,6 @@ views:
         direction: DESC
       - property: mandarin
         direction: DESC
-      - property: grade_level
-        direction: ASC
       - property: joyo_level
         direction: ASC
       - property: hanmun_edu_level
@@ -70,7 +70,7 @@ views:
       note.graphemic_classification: 60
       note.mandarin: 71
       note.cantonese: 65
-      note.hsk_level: 65
+      note.hsk_level: 82
       note.japanese: 58
       note.japanese_nanori: 86
       note.joyo_level: 73
