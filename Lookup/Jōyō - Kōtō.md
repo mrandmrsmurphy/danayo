@@ -635,7 +635,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1658. [[捉]] : capture
 1659. [[俗]] : vulgar
 1660. [[賊]] : burglar
-1661. [[遜]] :  [8]		S	humble
+1661. [[遜]] :  humble
 1662. [[汰]] : luxury
 1663. [[妥]] : gentle
 1664. [[唾]] : saliva
@@ -715,7 +715,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1738. [[鎮]] : 	鎭	S	tranquilize
 1739. [[椎]] : oak
 1740. [[墜]] : crash
-1741. [[塚]] : 	塚 [4]	S	hillock
+1741. [[塚]] : 	塚 hillock
 1742. [[漬]] : pickling
 1743. [[坪]] : two-mat area
 1744. [[爪]] : claw
@@ -728,7 +728,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1751. [[貞]] : upright
 1752. [[帝]] : sovereign
 1753. [[訂]] : revise
-1754. [[逓]] : 	遞	S	relay
+1754. [[逓]] : 	遞	relay
 1755. [[偵]] : spy
 1756. [[堤]] : dike
 1757. [[艇]] : rowboat
