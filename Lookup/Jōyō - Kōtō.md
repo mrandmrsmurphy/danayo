@@ -855,7 +855,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1878. [[盤]] : tray
 1879. [[妃]] : queen
 1880. [[彼]] : he
-1881. [[披]] : expose --------------------------------------------
+1881. [[披]] : expose 
 1882. [[卑]] : 	卑 lowly
 1883. [[疲]] : exhausted
 1884. [[被]] : incur
@@ -909,7 +909,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1932. [[丙]] : third class
 1933. [[並|併]] 	倂	join
 1934. [[柄]] : design
-1935. [[塀]] : 	[[塀]]	fence
+1935. 塀 : 	塀	fence - FORBIDDEN!!!
 1936. [[幣]] : cash
 1937. [[弊]] : abuse
 1938. [[蔽]] :  cover
