@@ -740,7 +740,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1763. [[溺]] : drown
 1764. [[迭]] : transfer
 1765. [[哲]] : philosophy
-1766. [[徹]] : penetrate
+1766. [[澈|徹]] : penetrate
 1767. [[撤]] : remove
 1768. [[添]] : annexed
 1769. [[填|塡]] :  fill in

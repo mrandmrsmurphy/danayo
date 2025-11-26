@@ -28,10 +28,12 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
-      - property: danayo_id
-        direction: ASC
       - property: 韓文
         direction: ASC
+      - property: danayo_id
+        direction: ASC
+      - property: skip_number
+        direction: DESC
       - property: hsk_level
         direction: ASC
       - property: japanese
@@ -52,8 +54,6 @@ views:
         direction: ASC
       - property: stroke_count
         direction: ASC
-      - property: skip_number
-        direction: ASC
       - property: jyutping
         direction: ASC
       - property: file.basename
@@ -66,8 +66,8 @@ views:
       note.radical: 47
       note.stroke_count: 18
       note.danayo_id: 68
-      note.grade_level: 39
-      note.graphemic_classification: 52
+      note.grade_level: 63
+      note.graphemic_classification: 60
       note.mandarin: 71
       note.cantonese: 65
       note.hsk_level: 65
