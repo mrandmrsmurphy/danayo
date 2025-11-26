@@ -499,19 +499,19 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1522. [[鐘]] : bell
 1523. [[丈]] : length
 1524. [[冗]] : superfluous
-1525. [[浄]] : 	淨	S	clean
-1526. [[剰]] : 	剩	S	surplus
-1527. [[畳]] : 	疊	S	tatami mat
-1528. [[壌]] : 	壤	S	lot
-1529. [[嬢]] : 	孃	S	lass
+1525. [[浄]] : 	淨	clean
+1526. [[剰]] : 	剩	surplus
+1527. [[畳]] : 	疊	tatami mat
+1528. [[壌]] : 	壤	lot
+1529. [[嬢]] : 	孃	lass
 1530. [[錠]] : lock
-1531. [[譲]] : 	讓	S	defer
-1532. [[醸]] : 	[[釀]]	brew  ----------------------------------------
+1531. [[譲]] : 	讓	defer
+1532. [[醸]] : 	brew 
 1533. [[拭]] : wipe
 1534. [[殖]] : augment
 1535. [[飾]] : decorate
-1536. [[触]] : 	觸	S	contact
-1537. [[嘱]] : 	囑	S	entrust
+1536. [[触]] : 	觸	contact
+1537. [[嘱]] : 	囑	entrust
 1538. [[辱]] : embarrass
 1539. [[尻]] : buttocks
 1540. [[伸]] : lengthen
@@ -525,13 +525,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1548. [[浸]] : immersed
 1549. [[紳]] : sire
 1550. [[診]] : checkup
-1551. [[寝]] : 	寢	S	lie down
-1552. [[慎]] : 	愼	S	humility
+1551. [[寝]] : 	寢	lie down
+1552. [[慎]] : 	愼	humility
 1553. [[審]] : examine
 1554. [[震]] : quake
 1555. [[薪]] : fuel
 1556. [[刃]] : blade
-1557. [[尽]] : 	盡	S	exhaust
+1557. [[尽]] : 	盡	exhaust
 1558. [[迅]] : swift
 1559. [[甚]] : tremendously
 1560. [[陣]] : camp
@@ -541,15 +541,15 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1564. [[吹]] : blow
 1565. [[炊]] : cook
 1566. [[帥]] : commander
-1567. [[粋]] : 	粹	S	chic
+1567. [[粋]] : 	粹	chic
 1568. [[衰]] : decline
-1569. [[酔]] : 	醉	S	drunk
+1569. [[酔]] : 	醉	drunk
 1570. [[遂]] : consummate
 1571. [[睡]] : drowsy
-1572. [[穂]] : 	穗	S	ear
-1573. [[随]] : 	隨	S	follow
-1574. [[髄]] : 	髓	S	marrow
-1575. [[枢]] : 	樞	S	hinge
+1572. [[穂]] : 	[[穗]]	ear
+1573. [[随]] : 	隨	follow
+1574. [[髄]] : 	髓	marrow
+1575. [[枢]] : 	樞	hinge
 1576. [[崇]] : adore
 1577. [[拠|据]] : set
 1578. [[杉]] : cedar
