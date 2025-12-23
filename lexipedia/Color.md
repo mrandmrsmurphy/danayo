@@ -9,4 +9,4 @@ pink - [[桃色]]
 purple - [[紫色]]
 red - <ruby>紅<rt>홍</rt></ruby> (crimson), <ruby>赤<rt>척</rt></ruby> 
 white - <ruby>白<rt>박</rt></ruby>
-yellow - <ruby>黄<rt>황</rt></ruby>
+yellow - <ruby>[[黄]]<rt>황</rt></ruby>
