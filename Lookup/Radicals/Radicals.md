@@ -4,8 +4,8 @@ There have been several systems of radicals in use at various times during histo
 
 
 ## 1 stroke
-- [[Radical 001]] 一
-- [[Radical 002]] 丨 - There are two real characters in here.
+- [[Radical 001]] 一 (19 characters)
+- [[Radical 002]] 丨 (2 characters)
 - [[Radical 003]] 丶 
 - [[Radical 004]] 丿 or 乀 or 乁  
 - [[Radical 005]] 乙 or 乚 or 乛 
