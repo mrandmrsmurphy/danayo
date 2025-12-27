@@ -1,34 +1,34 @@
 Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes after Swadesh, which he calls his "Sophomore List"
 
 ## Adjectives 
-- Numbers : zero - {{Ruby|零|leng}}- half - {{Ruby|一半|'itban}}- quarter - {{Ruby|四分之一|siibunti'it}} - six - {{Ruby|六|luk}} - seven - {{Ruby|七|cit}} - eight - {{Ruby|八|bat}} - nine - {{Ruby|九|gyu}} - ten - {{Ruby|十|sip}} - hundred - {{Ruby|百|bak}}
-- Colors : blue - {{Ruby|紺|gam}}, brown/dark - {{Ruby|褐|hat}}, light - {{Ruby|薄|bak}}
+- Numbers : zero - <ruby>[[零]]<rt>leng</rt></ruby>- half - <ruby>[[一半]]<rt>'itban</rt></ruby>- quarter - <ruby>[[四分之一]]<rt>siibunti'it</rt></ruby> - six - <ruby>[[六]]<rt>luk</rt></ruby> - seven - <ruby>[[七]]<rt>cit</rt></ruby> - eight - <ruby>[[八]]<rt>bat</rt></ruby> - nine - <ruby>[[九]]<rt>gyu</rt></ruby> - ten - <ruby>[[十]]<rt>sip</rt></ruby> - hundred - <ruby>[[百]]<rt>bak</rt></ruby>
+- Colors : blue - <ruby>[[紺]]<rt>gam</rt></ruby>, brown/dark - <ruby>[[褐]]<rt>hat</rt></ruby>, light - <ruby>[[薄]]<rt>bak</rt></ruby>
 ### Opposites
-* beautiful - {{Ruby|美|mi}}- ugly - {{Ruby|醜悪|cu'ak}}
-* fast - {{Ruby|速|sok}}, slow - {{Ruby|緩慢|hwanman}}
-* first - {{Ruby|第一|dei'it}} , last - {{Ruby|最後|jwehou}}
-* hard - {{Ruby|硬|'ang}}, soft - {{Ruby|柔|nyu}}
-* full - {{Ruby|満|man}}, empty - {{Ruby|空|kong}}
-* smart - {{Ruby|聡明|congmyeng}}, stupid - {{Ruby|愚|'u}}
-* real - {{Ruby|真|jin}} , fake {{Ruby|不真|botjin}} ({{Ruby|贋|'an}})
+* beautiful - <ruby>[[美]]<rt>mi</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>cu'ak</rt></ruby>
+* fast - <ruby>[[速]]<rt>sok</rt></ruby>, slow - <ruby>[[緩慢]]<rt>hwanman</rt></ruby>
+* first - <ruby>[[第一]]<rt>dei'it</rt></ruby> , last - <ruby>[[最後]]<rt>jwehou</rt></ruby>
+* hard - <ruby>[[硬]]<rt>'ang</rt></ruby>, soft - <ruby>[[柔]]<rt>nyu</rt></ruby>
+* full - <ruby>[[満]]<rt>man</rt></ruby>, empty - <ruby>[[空]]<rt>kong</rt></ruby>
+* smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>'u</rt></ruby>
+* real - <ruby>[[真]]<rt>jin</rt></ruby> , fake <ruby>[[不真]]<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>'an</rt></ruby>)
 * upper - 上- , lower - 下-
-* expensive - {{Ruby|貴重|guicong}} , cheap - {{Ruby|便|byen}}
-* sweet - {{Ruby|甘|gam}} , sour - {{Ruby|酸|swam}}
-* strong - {{Ruby|強|gyang}} , weak - {{Ruby|柔|nyu}}
-* different - {{Ruby|異常|'isyang}} , same - {{Ruby|同一|dong'it}}
-- Swadesh forgot : young - {{Ruby|幼稚|'yuudii}}, hot - {{Ruby|熱|net}}, clean - {{Ruby|清潔|cingget}} , wrong - {{Ruby|弊|pei}} , rough - {{Ruby|苦渋|kosip}} , crooked ... [[湾曲]]
-- Emotions : glad - {{Ruby|高興|gauhing}}, happy - {{Ruby|歓喜|hwanhi}}, sad - {{Ruby|哀傷|'aisyang}}, tired - {{Ruby|疲労|pilau}} , angry - {{Ruby|怒|no}} , crazy - {{Ruby|風狂|punggwang}}
+* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[便]]<rt>byen</rt></ruby>
+* sweet - <ruby>[[甘]]<rt>gam</rt></ruby> , sour - <ruby>[[酸]]<rt>swam</rt></ruby>
+* strong - <ruby>[[強]]<rt>gyang</rt></ruby> , weak - <ruby>[[柔]]<rt>nyu</rt></ruby>
+* different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
+- Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuudii</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[湾曲]]
+- Emotions : glad - <ruby>[[高興]]<rt>gauhing</rt></ruby>, happy - <ruby>[[歓喜]]<rt>hwanhi</rt></ruby>, sad - <ruby>[[哀傷]]<rt>'aisyang</rt></ruby>, tired - <ruby>[[疲労]]<rt>pilau</rt></ruby> , angry - <ruby>[[怒]]<rt>no</rt></ruby> , crazy - <ruby>[[風狂]]<rt>punggwang</rt></ruby>
 - Character : careful, lucky, smart, wise, foolish, healthy, sick
 - Value : important, interesting, boring, wonderful, strange
 - Abstractions : funny, easy, difficult, alone, free, normal, special, probable, secret
 
 ## Nouns
-- Natural substances : air - {{Ruby|空気|kongkii}}, glass - {{Ruby|璃|le}}, iron - {{Ruby|鉄|tet}}, gold - {{Ruby|黄金|hwanggim}}, silver - {{Ruby|銀|'in}}
-- Territory : nature, world - {{Ruby|世界|segye}}, land
-- Time: week - {{Ruby|週日|juunit}}, month - {{Ruby|月|'wet}}, yesterday - {{Ruby|昨日|jaknit}}, today - {{Ruby|今日|gimnit}}, tomorrow - {{Ruby|来日|lainit}}, morning - {{Ruby|朝|jau}}, afternoon - {{Ruby|午後|'ohou}}
-- Season : spring - {{Ruby|春|cun}}, summer - {{Ruby|夏|hya}}, fall - {{Ruby|秋|cuu}}, winter - {{Ruby|冬|tong}}
-- Geographical : hill, farm, field, island - {{Ruby|島|tau}}
-- Body Parts : body - {{Ruby|身体|sintei}}, lip - {{Ruby|唇|sun}}, breast - {{Ruby|乳房|nubang}},  butt - {{Ruby|尻|kau}}, muscle - {{Ruby|筋肉|ginnuk}}, brain - {{Ruby|脳|nau}}
+- Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[鉄]]<rt>tet</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[銀]]<rt>'in</rt></ruby>
+- Territory : nature, world - <ruby>[[世界]]<rt>segye</rt></ruby>, land
+- Time: week - <ruby>[[週日]]<rt>juunit</rt></ruby>, month - <ruby>[[月]]<rt>'wet</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>jaknit</rt></ruby>, today - <ruby>[[今日]]<rt>gimnit</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>lainit</rt></ruby>, morning - <ruby>[[朝]]<rt>jau</rt></ruby>, afternoon - <ruby>[[午後]]<rt>'ohou</rt></ruby>
+- Season : spring - <ruby>[[春]]<rt>cun</rt></ruby>, summer - <ruby>[[夏]]<rt>hya</rt></ruby>, fall - <ruby>[[秋]]<rt>cuu</rt></ruby>, winter - <ruby>[[冬]]<rt>tong</rt></ruby>
+- Geographical : hill, farm, field, island - <ruby>[[島]]<rt>tau</rt></ruby>
+- Body Parts : body - <ruby>[[身体]]<rt>sintei</rt></ruby>, lip - <ruby>[[唇]]<rt>sun</rt></ruby>, breast - <ruby>[[乳房]]<rt>nubang</rt></ruby>,  butt - <ruby>[[尻]]<rt>kau</rt></ruby>, muscle - <ruby>[[筋肉]]<rt>ginnuk</rt></ruby>, brain - <ruby>[[脳]]<rt>nau</rt></ruby>
 - Animals : cat, cow, chicken, horse, pig, mouse, monkey, lion, bug, wolf
 - Plants : grain, bread, branch
 - People : girl, boy, girlfriend, boyfriend, friend, baby
@@ -76,20 +76,20 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Prepositions : toward, for, without, against, on, about behind across over under
 - Adverbs : perhaps, indeed, thus
 - Time : now, then, again, next
-- Degree : very - {{Ruby|頗|pa}}, too, enough
+- Degree : very - <ruby>[[頗]]<rt>pa</rt></ruby>, too, enough
 ## Courtesy
-please - {{Ruby|請|cing}} (SFP), thank you - {{Ruby|感謝|gamsya}} (I thank you), you're welcome - gamsya+{{Ruby|別|bet}}, welcome  - {{Ruby|歓迎|hwan'yeng}}, hello/goodbye = {{Ruby|今日安|gimnit'an}}, yes - {{Ruby|爾|ne}}, no - {{Ruby|否|buu}}
+please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>gamsya</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>bet</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>hwan'yeng</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>gimnit'an</rt></ruby>, yes - <ruby>[[爾]]<rt>ne</rt></ruby>, no - <ruby>[[否]]<rt>buu</rt></ruby>
 ## Modern
-- Air : airport - {{Ruby|空港|konghong}}, airplane - {{Ruby|飛行機|pihanggii}}
-- Cars : car - {{Ruby|車|ca}}, bus - '''basü''', license, gas station, motor, taxi, truck, gasoline - {{Ruby|汽油|kii'yuu}}
-- Other : bicycle, railroad, train station, subway, spaceship - {{Ruby|宇宙船|'ujuujwen}}
-- Computer : computer - {{Ruby|電脳|dennau}}, disk, chip, CPU
-- Accessories : DVD, hard drive, keyboard - {{Ruby|鍵盤|gyenban}}, mouse - {{Ruby|滑鼠|gotsyo}}, monitor
+- Air : airport - <ruby>[[空港]]<rt>konghong</rt></ruby>, airplane - <ruby>[[飛行機]]<rt>pihanggii</rt></ruby>
+- Cars : car - <ruby>[[車]]<rt>ca</rt></ruby>, bus - '''basü''', license, gas station, motor, taxi, truck, gasoline - <ruby>[[汽油]]<rt>kii'yuu</rt></ruby>
+- Other : bicycle, railroad, train station, subway, spaceship - <ruby>[[宇宙船]]<rt>'ujuujwen</rt></ruby>
+- Computer : computer - <ruby>[[電脳]]<rt>dennau</rt></ruby>, disk, chip, CPU
+- Accessories : DVD, hard drive, keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>, mouse - <ruby>[[滑鼠]]<rt>gotsyo</rt></ruby>, monitor
 - Programs : program, game, word processor, compiler
 - Internet : internet, email, web, website, download, browser, blog, post, flame, lurker, newb, chat
-- Disciplines : physics - {{Ruby|物理学|mutlihak}}, chemistry - {{Ruby|化学|hwahak}}, biology - {{Ruby|生物学|sangmuthak}}, electricity, magnetism, mathematics - {{Ruby|数学|suhak}}
-- Physics : atom - {{Ruby|原子|'wenji}}, molecule - {{Ruby|分子|bunja}}, energy, nuclear, particle, photon - {{Ruby|光子|gwangji}}, proton - {{Ruby|陽子|'yangji}}, neutron - {{Ruby|中子|jungji}}, electron - {{Ruby|電子|denji}}
-- Biology : cell - {{Ruby|細胞|seibyau}}, evolution - {{Ruby|進化|jinhwa}}{{Ruby|事|ji}}, gene
+- Disciplines : physics - <ruby>[[物理学]]<rt>mutlihak</rt></ruby>, chemistry - <ruby>[[化学]]<rt>hwahak</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
+- Physics : atom - <ruby>[[原子]]<rt>'wenji</rt></ruby>, molecule - <ruby>[[分子]]<rt>bunja</rt></ruby>, energy, nuclear, particle, photon - <ruby>[[光子]]<rt>gwangji</rt></ruby>, proton - <ruby>[[陽子]]<rt>'yangji</rt></ruby>, neutron - <ruby>[[中子]]<rt>jungji</rt></ruby>, electron - <ruby>[[電子]]<rt>denji</rt></ruby>
+- Biology : cell - <ruby>[[細胞]]<rt>seibyau</rt></ruby>, evolution - <ruby>[[進化]]<rt>jinhwa</rt></ruby><ruby>[[事]]<rt>ji</rt></ruby>, gene
 - Substance : plastic
 - Appliance : stove, sink, dishwasher, refrigerator, washer, dryer, furnace, AC
 - Film : camera, film, photo, movie/video, animation, theater
@@ -104,9 +104,9 @@ please - {{Ruby|請|cing}} (SFP), thank you - {{Ruby|感謝|gamsya}} (I thank yo
 - Education : college, degree, masters, Ph.D
 - Economy : economy, banknote, credit card, dollar, euro, expenses, income, inflation, standard of living, unemployed, union, welfare, yen, yuan, won, taxes
 - Avocations : chess, rock, soccer, cigarette, drugs
-- Clothing : bikini - '''bikini''', bra - {{Ruby|乳押|nu'ap}}, jeans, T-shirt, lipstick - {{Ruby|口紅|kouhong}}
+- Clothing : bikini - '''bikini''', bra - <ruby>[[乳押]]<rt>nu'ap</rt></ruby>, jeans, T-shirt, lipstick - <ruby>[[口紅]]<rt>kouhong</rt></ruby>
 - Health : AIDS/HIV, allergy, addict, antibiotics, bacteria, vaccine, virus, vitamin 
-- Food : candy, hamburger, hot dog, pizza, sushi, taco, tofu - {{Ruby|豆腐|doupu}}, tomato
+- Food : candy, hamburger, hot dog, pizza, sushi, taco, tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>, tomato
 - Belief : communism, socialism, fascism, republic, democracy, Green, human rights, liberal, conservative
 - Position : president, prime minister, representative, parliament, council, dictator, party
 - Religions : Islam, Judaism, Christianity, Hinduism, Buddhism
