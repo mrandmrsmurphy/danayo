@@ -1,6 +1,7 @@
-
+### Basics
 Looking up at the night sky, Dan'a'yo sees an entire "culture" up there, called <ruby>天文<rt>턴문</rt></ruby>.  The formal study of these celestial objects is <ruby>天文学<rt>턴문학</rt></ruby>.  This is a true modern science, and not the ancient practice of divination, called <ruby>占星術<rt>점성숟</rt></ruby>.  (Notice that the first two-characters are the ancient verb "to divine by looking at star signs", <ruby>占星<rt>점성</rt></ruby>.).  The underlying cognitive metaphor is that we are looking up at a house, with "eaves" and "roof beams", which is why the 'universe/cosmos/space-time' is <ruby>宇宙<rt>우줏</rt></ruby>.  A 'spaceship' is a <ruby>宇宙船<rt>우줏줜</rt></ruby> and an alien or astronaut is an <ruby>宇宙人<rt>우줏닌</rt></ruby>.
 
+### Solar System
 The basic object in the sky is a "star" <ruby>星<rt>성</rt></ruby>, though this also includes planets and moons.  To match the English "star", you would need to say 'fixed star', i.e. <ruby>恒星<rt>훙성</rt></ruby>.  The big ones are the sun - <ruby>太陽<rt>태양</rt></ruby> - and moon - <ruby>太陰<rt>태임</rt></ruby>.  Notice the connection to Yin and Yang.  Today, we distinguish planets from stars, so planet is <ruby>行星<rt>항성</rt></ruby>.  We know that our home is in the solar system <ruby>太陽系<rt>태양헤</rt></ruby>.  It is made up of
 - Mercury - <ruby>水星<rt>수성</rt></ruby>
 - Venus - <ruby>金星<rt>김성</rt></ruby> (ancient people were unaware that this was the same as the Morning Star <ruby>啓明<rt>케명</rt></ruby> and the Evening Star <ruby>太白星<rt>태박성</rt></ruby>)
@@ -16,6 +17,8 @@ Between Mars and Jupiter is the Asteroid Belt <ruby>小行星帯<rt>소항성대
 
 Our entire solar system is orbiting (<ruby>軌道<rt>귀닷</rt></ruby>) within a galaxy (<ruby>恒星系<rt>훙성헤</rt></ruby>), specifically, the Milky Way <ruby>銀河系<rt>인하헤</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>銀河<rt>인하</rt></ruby>.) Looking out, we see nebulae <ruby>星雲<rt>성운</rt></ruby> and novae <ruby>新星<rt>신성</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>星座<rt>성좌</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>星群<rt>성군</rt></ruby>.
 
+### Events
+地平線 - horizon 天頂 - zenith 天底 - nadir 分点 - equinox  solstice 至点 - point, 至日 - day ; 冬至 and 夏至 日食 - solar eclipse, lunar = 月食
 
 ### 六十干支 (天干 / 地支)
 
@@ -33,3 +36,17 @@ Our entire solar system is orbiting (<ruby>軌道<rt>귀닷</rt></ruby>) within 
 |**<ruby>鶏<rt>게</rt></ruby>**|10（癸酉）|22（乙酉）|34（丁酉）|46（己酉）|58（辛酉）|
 |**<ruby>狗<rt>구</rt></ruby>**|11（甲戌）|23（丙戌）|35（戊戌）|47（庚戌）|59（壬戌）|
 |**<ruby>猪<rt>조</rt></ruby>**|12（乙亥）|24（丁亥）|36（己亥）|48（辛亥）|60（癸亥）|
+
+So the cycle is
+1. Rat
+2. Ox
+3. Tiger
+4. Rabbit
+5. Dragon
+6. Snake
+7. Horse
+8. Goat
+9. Monkey
+10. Rooster
+11. Dog
+12. Boar

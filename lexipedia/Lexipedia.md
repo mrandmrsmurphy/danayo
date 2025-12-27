@@ -1,4 +1,5 @@
-Roenfelder's helpful book
+## Lexipedia
+Rosenfelder's helpful book
 
 * [[lexipedia/Animals]]
 * [[lexipedia/Art]]
@@ -51,3 +52,7 @@ Roenfelder's helpful book
 * [[lexipedia/War]]
 * [[lexipedia/Water]]
 * [[lexipedia/Work]]
+
+## Swadesh
+- [[Swadesh]]
+- [[lexipedia/Sophomore List]]
