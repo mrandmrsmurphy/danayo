@@ -101,7 +101,7 @@ While Dan'a'yo has a lot in common with Classical/Literary Chinese, they are sep
 - 絺	1	糸希
 - 綌	1	糸谷
 - 麑	1	鹿児
-- 佩	1	帶
+- 佩	1	帶/帯
 - 膾	1	刺身
 - 饐	1	変質
 - 餲	1	酸腐
