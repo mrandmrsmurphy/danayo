@@ -4,6 +4,7 @@
 - <ruby>畜生<rt>축상</rt></ruby>/<ruby>家畜<rt>가축</rt></ruby> : domestic animal, livestock (first has connotation negative, coming from Buddhist ideas of reincarnating a step ''down'').
 
 - <ruby>鳥類<rt>촛뤼</rt></ruby> : birds, a class of animal
+	- <ruby>[[鸚鵡]]<rt>앙무</rt></ruby> parrot
 - <ruby>昆虫<rt>곤중</rt></ruby> "bug", creepy crawly, insect+worm+snake
 - <ruby>猫<rt>먓</rt></ruby> : cat, domestic feline
 - <ruby>犬<rt>퀀</rt></ruby> : dog, the pet
