@@ -28,6 +28,8 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: radical
+        direction: DESC
       - property: stroke_count
         direction: DESC
       - property: 韓文
@@ -51,8 +53,6 @@ views:
       - property: hanmun_edu_level
         direction: ASC
       - property: korean
-        direction: ASC
-      - property: radical
         direction: ASC
       - property: jyutping
         direction: ASC
