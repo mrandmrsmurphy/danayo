@@ -1,3 +1,5 @@
+> [[Radicals]] - Rain "雨"
+
 ## Strokes
 ### +0
 - <ruby>[[雨]]<rt>우</rt></ruby> (⻗)
