@@ -28,11 +28,11 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: stroke_count
+        direction: ASC
       - property: joyo_level
         direction: DESC
       - property: radical
-        direction: DESC
-      - property: stroke_count
         direction: DESC
       - property: 韓文
         direction: ASC
