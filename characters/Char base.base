@@ -28,6 +28,8 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: joyo_level
+        direction: DESC
       - property: radical
         direction: DESC
       - property: stroke_count
@@ -48,8 +50,6 @@ views:
         direction: DESC
       - property: mandarin
         direction: DESC
-      - property: joyo_level
-        direction: ASC
       - property: hanmun_edu_level
         direction: ASC
       - property: korean
