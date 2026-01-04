@@ -28,6 +28,12 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
+      - property: skip_number
+        direction: ASC
+      - property: english
+        direction: ASC
+      - property: file.name
+        direction: ASC
       - property: stroke_count
         direction: ASC
       - property: joyo_level
@@ -39,8 +45,6 @@ views:
       - property: danayo_id
         direction: ASC
       - property: grade_level
-        direction: DESC
-      - property: skip_number
         direction: DESC
       - property: hsk_level
         direction: ASC
