@@ -120,7 +120,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Hills: hill, down, mountain [[山]], range, plateau, crest, peak
 - Valley : valley, canyon, cliff
 - Harsh : marsh, swamp, desert, wilderness, jungle
-- Rivers : river -[[川]] , stream - [[河]], brook - [[江]], channel, rapids, portage, source, confluence, delta, bank, waterfall, spring
+- Rivers : river -[[川 (char)]] , stream - [[河]], brook - [[江]], channel, rapids, portage, source, confluence, delta, bank, waterfall, spring
 - Lake : lake - [[湖]], pond - [[池]]
 - Sea : sea - [[海]], ocean - [[洋]], bay - [[湾]], strait - [[海峽]]
 - Coastline : coast, beach, peninsula - [[半島]], cape, point

@@ -29,7 +29,7 @@ The following prefecture names were added in 2017
 24. [[木]] : moku / boku (ki)    
 25. [[林]] : rin (hayashi)    
 26. [[山]] : san (yama)    
-27. [[川]] : sen (kawa)    
+27. [[川 (char)]] : sen (kawa)    
 28. [[土]] : do / to (tsuchi)    
 29. [[空]] : kū (sora, kara)    
 30. [[田]] : den (ta)    
