@@ -1,4 +1,4 @@
-> [[SKIP]] : [[SKIP-3]] : [[SKIP-3-3]]
+> [[SKIP]] : [[SKIP-3|3]] : [[SKIP-3-3|3]]
 
 ### Shoot radical (56)
 * 貮 alias of 貳

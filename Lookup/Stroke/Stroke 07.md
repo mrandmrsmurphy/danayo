@@ -1,5 +1,7 @@
 > [[Stroke]]
 
+* [[局]]
+
 ```dataview
 TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
 FROM "characters"

@@ -1,0 +1,30 @@
+> [[SKIP]] | [[SKIP-3|3]]
+
+1. [[SKIP-3-3-1]]
+2. [[SKIP-3-3-2]]
+3. [[SKIP-3-3-3]]
+4. [[SKIP-3-3-4]]
+5. [[SKIP-3-3-5]]
+6. [[SKIP-3-3-6]]
+7. [[SKIP-3-3-7]]
+8. [[SKIP-3-3-8]]
+9. [[SKIP-3-3-9]]
+10. [[SKIP-3-3-10]]
+11. [[SKIP-3-3-11]]
+12. [[SKIP-3-3-12]]
+13. [[SKIP-3-3-13]]
+14. [[SKIP-3-3-14]]
+15. [[SKIP-3-3-15]]
+16. [[SKIP-3-3-16]]
+17. [[SKIP-3-3-17]]
+18. [[SKIP-3-3-18]]
+19. no
+20. no
+21. [[SKIP-3-3-21]]
+22. [[SKIP-3-3-22]]
+
+These are all characters with 3-stroke "surrounding radical".  Some important radicals in this family include 辶, 广, 囗, 尸, 廴, 匚.  Some hard to identify "singletons" with this attribute are:
+* [[式]]
+* [[向]]
+* [[民]]
+* [[処]]
