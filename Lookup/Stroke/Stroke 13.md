@@ -1,5 +1,9 @@
 > [[Stroke]]
 
+- [[豊]]
+## Grove
+- [[禁]]
+
 ```dataview
 TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
 FROM "characters"
