@@ -260,4 +260,11 @@
 <ruby>[[橋]]<rt>걋</rt></ruby>,
 <ruby>[[頭]]<rt>톳</rt></ruby>,
 <ruby>[[薬]]<rt>약</rt></ruby>,
-<ruby>[[顔]]<rt>안</rt></ruby>^
+<ruby>[[顔]]<rt>안</rt></ruby>
+
+## Data check
+```dataview
+TABLE file.link AS "Character", grade_level AS "gr", 韓文 AS "Sound"
+FROM "characters"
+WHERE grade_level = 1
+SORT file.name ASC
