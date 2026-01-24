@@ -20,7 +20,7 @@
 20. [[Stroke 20]] (20 characters)
 21. [[Stroke 21]] (16 characters)
 22. [[Stroke 22]] (11 characters)
-23. [[Stroke 23]] (11 characters)
+23. [[Stroke 23]] (7 characters) ✅
 24. [[Stroke 24]] (4 characters) ✅
 25. [[Stroke 25]] (5 characters) ✅
 26. [[Stroke 26]] (1 character) ✅

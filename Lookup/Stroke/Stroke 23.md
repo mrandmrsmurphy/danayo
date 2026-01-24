@@ -7,9 +7,9 @@
 - <ruby>[[驚]]<rt>경</rt></ruby> - startle, frighten
 - <ruby>[[鱏]]<rt>힘</rt></ruby> - ray, skate
 - 鱒 --> 尊
-鱗린
-鷲줏
-鷺로
+- <ruby>[[鱗]]<rt>린</rt></ruby> - fish scale
+- 鷲 --> 就
+- 鷺 --> 路
 
 
 ## Data check

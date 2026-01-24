@@ -257,7 +257,7 @@ __Combining or simplified radicals with 6 strokes__
 
 ## 11 strokes
 - [[Radical 195]] 魚
-- [[Radical 196]] 鳥 - There are 24 characters here.
+- [[Radical 196]] 鳥 - There are 23 characters here.
 - [[Radical 197]] 鹵
 - [[Radical 198]] 鹿
 - [[Radical 199]] 麥

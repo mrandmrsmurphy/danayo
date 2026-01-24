@@ -29,8 +29,8 @@ The bird radical, i.e. [[鳥]], a.k.a. [[鳥|鸟]].
 #### +10
 - <ruby>[[鶴]]<rt>학</rt></ruby> - crane
 #### +12
-- <ruby>[[鷲]]<rt>줏</rt></ruby> - vulture
-- <ruby>[[鷺]]<rt>로</rt></ruby> - heron
+- 鷲 --> 就
+- 鷺 --> 路
 #### +13
 - <ruby>[[鷹]]<rt>잉</rt></ruby> - hawk
 #### +17
