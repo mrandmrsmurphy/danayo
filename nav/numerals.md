@@ -1,2 +1,2 @@
-[[一 (char)]] one ; [[二 (char)]] two ; [[三 (char)]] three ; [[四 (char)]] four ; [[五 (char)]] five ; [[六 (char)]] six ; [[七 (char)]] seven ; [[八 (char)]] eight; [[九 (char)]] nine ; [[十]] ten
-[[百]] 100 ; [[千]] 1000 ; [[万]] 10000 ; [[半]] half; [[第]] -th
+[[一]] one ; [[二]] two ; [[三]] three ; [[四]] four ; [[五]] five ; [[六]] six ; [[七]] seven ; [[八]] eight; [[九]] nine ; 
+[[一十]] ten; [[一百]] hundred; [[一千]] thousand; [[一万]] myriad; [[一半]] half; [[第]] -th

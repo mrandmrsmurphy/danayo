@@ -1,11 +1,11 @@
 Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes after Swadesh, which he calls his "Sophomore List"
 
 ## Adjectives 
-- Numbers : zero - <ruby>[[零]]<rt>leng</rt></ruby>- half - <ruby>[[一半]]<rt>'itban</rt></ruby>- quarter - <ruby>[[四分之一]]<rt>siibunti'it</rt></ruby> - six - <ruby>[[六]]<rt>luk</rt></ruby> - seven - <ruby>[[七]]<rt>cit</rt></ruby> - eight - <ruby>[[八]]<rt>bat</rt></ruby> - nine - <ruby>[[九]]<rt>gyu</rt></ruby> - ten - <ruby>[[十]]<rt>sip</rt></ruby> - hundred - <ruby>[[百]]<rt>bak</rt></ruby>
-- Colors : blue - <ruby>[[紺]]<rt>gam</rt></ruby>, brown/dark - <ruby>[[褐]]<rt>hat</rt></ruby>, light - <ruby>[[薄]]<rt>bak</rt></ruby>
+- Numbers : zero - <ruby>[[零]]<rt>렁</rt></ruby>- half - <ruby>[[一半]]<rt>읻반</rt></ruby>- quarter - <ruby>[[四分之一]]<rt>싀분티읻</rt></ruby> - six - <ruby>[[六]]<rt>룩</rt></ruby> - seven - <ruby>[[七]]<rt>칟</rt></ruby> - eight - <ruby>[[八]]<rt>받</rt></ruby> - nine - <ruby>[[九]]<rt>규</rt></ruby> - ten - <ruby>[[一十]]<rt>읻십</rt></ruby> - hundred - <ruby>[[一百]]<rt>읻박</rt></ruby>
+- Colors : blue - <ruby>[[紺]]<rt>감</rt></ruby>, brown/dark - <ruby>[[褐]]<rt>핟</rt></ruby>, light - <ruby>[[薄]]<rt>박</rt></ruby>
 ### Opposites
-* beautiful - <ruby>[[美]]<rt>mi</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>cu'ak</rt></ruby>
-* fast - <ruby>[[速]]<rt>sok</rt></ruby>, slow - <ruby>[[緩慢]]<rt>hwanman</rt></ruby>
+* beautiful - <ruby>[[美]]<rt>미</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>추악</rt></ruby>
+* fast - <ruby>[[速]]<rt>속</rt></ruby>, slow - <ruby>[[緩慢]]<rt>환만</rt></ruby>
 * first - <ruby>[[第一]]<rt>dei'it</rt></ruby> , last - <ruby>[[最後]]<rt>jwehou</rt></ruby>
 * hard - <ruby>[[硬]]<rt>'ang</rt></ruby>, soft - <ruby>[[柔]]<rt>nyu</rt></ruby>
 * full - <ruby>[[満]]<rt>man</rt></ruby>, empty - <ruby>[[空]]<rt>kong</rt></ruby>

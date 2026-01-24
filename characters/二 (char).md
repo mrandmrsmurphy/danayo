@@ -40,6 +40,6 @@ This is the character 二.  For the word 'two', use [[二]].  See also [[Radical
 [[nav/char_info]]
 ```
 ### Notes
-- Our [[Grade 1]], [[HSK Beginner]], Japanese [[Jōyō - Kyōiku|Grade 1
+- Our [[Grade 1]], [[HSK Beginner]], Japanese [[Jōyō - Kyōiku|Grade 1]], [[Korean MS]]
 ### Links
 ![[nav/Numerals]]
