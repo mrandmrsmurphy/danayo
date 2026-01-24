@@ -16,9 +16,9 @@
 16. [[Stroke 16]] (141 characters)
 17. [[Stroke 17]] (102 characters)
 18. [[Stroke 18]] (75 characters)
-19. [[Stroke 19]] (54 characters)
-20. [[Stroke 20]] (20 characters)
-21. [[Stroke 21]] (16 characters)
+19. [[Stroke 19]] (56 characters)
+20. [[Stroke 20]] (23 characters)
+21. [[Stroke 21]] (14 characters)
 22. [[Stroke 22]] (11 characters)
 23. [[Stroke 23]] (7 characters) ✅
 24. [[Stroke 24]] (4 characters) ✅
