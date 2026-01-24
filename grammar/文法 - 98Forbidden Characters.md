@@ -1061,11 +1061,10 @@ Here is the master list of all forbidden characters (355):
 - Notes: conger.  Just use 弸長魚
 
 #### 膤
-- 筆画:
-- Class:
-- SKIP:
-- 部首:
-- Notes:
+- Class: 国字
+- SKIP: 1/4/11
+- 部首: 月
+- Notes:月+雪
 
 #### 梻
 - 筆画:

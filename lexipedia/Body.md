@@ -1,17 +1,17 @@
-- arm  - <ruby>腕<rt>'wan</rt></ruby>
-- back - <ruby>背<rt>boi</rt></ruby>
-- body - <ruby>身体<rt>sintei</rt></ruby>
-- breast - <ruby>乳房<rt>nubang</rt></ruby>
-- chest/thorax - <ruby>胸部<rt>hyongbou</rt></ruby>
-- finger - <ruby>手指<rt>syujii</rt></ruby>
-- fist - <ruby>拳骨<rt>gwengot</rt></ruby>
-- foot  - <ruby>足<rt>jok</rt></ruby>
-- hand - <ruby>手<rt>syu</rt></ruby>
-- knee - <ruby>膝<rt>sit</rt></ruby>
-- leg - <ruby>脚<rt>gyak</rt></ruby>
-- limb - <ruby>肢体<rt>jetei</rt></ruby>
-- shoulder - <ruby>肩<rt>gen</rt></ruby>
-- skin - <ruby>皮膚<rt>bipu</rt></ruby>
+- arm  - <ruby>腕<rt>완</rt></ruby>
+- back - <ruby>背<rt>뵈</rt></ruby>
+- body - <ruby>身体<rt>신테</rt></ruby>
+- breast - <ruby>乳房<rt>누방</rt></ruby>
+- chest/thorax - <ruby>胸部<rt>횽봇</rt></ruby>
+- finger - <ruby>手指<rt>슈즤</rt></ruby>
+- fist - <ruby>拳骨<rt>권곧</rt></ruby>
+- foot  - <ruby>足<rt>족</rt></ruby>
+- hand - <ruby>手<rt>슈</rt></ruby>
+- knee - <ruby>膝<rt>싣</rt></ruby>
+- leg - <ruby>脚<rt>갹</rt></ruby>
+- limb - <ruby>肢体<rt>저테</rt></ruby>
+- shoulder - <ruby>肩<rt>건</rt></ruby>
+- skin - <ruby>皮膚<rt>비푸</rt></ruby>
 
 - nipple - <ruby>乳頭<rt>nudou</rt></ruby>; navel - <ruby>𦜝<rt>jei</rt></ruby>; waist - <ruby>腰部<rt>'youbou</rt></ruby>; hip (bone) - <ruby>腰骨<rt>'yougot</rt></ruby>; abdomen - <ruby>腹部<rt>bukbou</rt></ruby> 
 - thumb/big toe - <ruby>大指<rt>daijii</rt></ruby>; knuckle - <ruby>指関節<rt>jiigwamjet</rt></ruby>; palm - <ruby>手掌<rt>syujang</rt></ruby>; elbow - <ruby>肘<rt>jum</rt></ruby> 

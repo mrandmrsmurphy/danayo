@@ -31,10 +31,12 @@ hanmun_edu_level: 이름
 danayo_id: 7184
 mc_id: 0
 graphemic_classification: 窒
-stand_in: "TRUE"
+stand_in: 膣
 aliases:
   - 腟
+date-last-perfect: 2026-01-24
 ---
+> This is the character page.  For the word, use [[膣]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -44,3 +46,5 @@ aliases:
 - [[Radical 130|月]] + [[窒]] = [[SKIP-1-4-11]] ([[Stroke 15]]).
 - [[Korean Name ㅈ]], [[Hyōgai]], Not on HSK, [[Advanced Grade]] in Dan'a'yo.
 
+## Words
+- [[臭膣]] - bitch

@@ -4,7 +4,7 @@
 - [[肥]]
 
 ### +11
-- [[膣]]
+- [[膣 (char)]]
 # Data search
 ```dataview
 TABLE radical AS "Radical", 韓文 AS "Sound", stroke_count AS "S"
