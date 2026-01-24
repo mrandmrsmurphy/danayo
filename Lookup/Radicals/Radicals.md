@@ -17,7 +17,7 @@ There have been several systems of radicals in use at various times during histo
 - [[Radical 008]] 亠
 - [[Radical 009]] 人 or combining as 亻
 - [[Radical 010]] 儿, ancient 兒
-- [[Radical 011]] 入 - Four real characters
+- [[Radical 011]] 入 - (3 characters)
 - [[Radical 012]] 八 or combining as 丷
 - [[Radical 013]] 冂
 - [[Radical 014]] 冖
