@@ -5,7 +5,7 @@
 - <ruby>[[鑼]]<rt>라</rt></ruby> - gong
 
 ## Fish
-- <ruby>[[鱸]]<rt>로</rt></ruby> - bass
+- 鱸 --> 盧
 
 ## Data check
 ```dataview

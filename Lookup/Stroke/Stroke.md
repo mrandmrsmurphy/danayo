@@ -24,6 +24,6 @@
 24. [[Stroke 24]] (5 characters)
 25. [[Stroke 25]] (5 characters) ✅
 26. [[Stroke 26]] (1 character) ✅
-27. [[Stroke 27]] (3 characters) ✅
+27. [[Stroke 27]] (2 characters) ✅
 28. [[Stroke 28]] (1 character) ✅
 29. [[Stroke 29]] (1 character) ✅

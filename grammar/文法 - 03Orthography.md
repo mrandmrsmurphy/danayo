@@ -32,7 +32,7 @@ These rubrics direct the writing system toward clarity （明晰） by multiplyi
 
 ## Levels of Characters （文字之階）
 More than fifty thousand Chinese characters （漢字五万餘字） have been recorded in history.  
-In Dan’a’yo （単亜語） these are divided into six categories （六類）:  common characters （常用字）, advanced characters （先進字）, naming characters （名字字）, forbidden characters （違法字）, variant characters （異体字）, and unclassified characters （無類字）.  Characters that fall outside national standards （国定標準） and official name lists （姓名表） are judged too rare （稀少） to categorize.  By this restriction, the practical inventory （実際字庫） of Dan’a’yo stands at slightly under four thousand characters （四千字未満）.
+In Dan’a’yo （単亜語） these are divided into six categories （六類）:  common characters （常用字）, advanced characters （先進字）, naming characters （名字字）, forbidden characters （違法字）, variant characters （異体字）, "loan" characters (借代字), and unclassified characters （無類字）.  Characters that fall outside national standards （国定標準） and official name lists （姓名表） are judged too rare （稀少） to categorize.  By this restriction, the practical inventory （実際字庫） of Dan’a’yo stands at slightly under four thousand characters （四千字未満）.
 
 #### Figure 3.1: Dan’a’yo Character Score Points
 
