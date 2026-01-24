@@ -1,5 +1,5 @@
-1. [[Stroke 01]] (2 characters)
-2. [[Stroke 02]] (16 characters)
+1. [[Stroke 01]] (2 characters) ✅
+2. [[Stroke 02]] (16 characters) ✅
 3. [[Stroke 03]] (40 characters)
 4. [[Stroke 04]] (87 characters)
 5. [[Stroke 05]] (123 characters)
@@ -23,7 +23,7 @@
 23. [[Stroke 23]] (11 characters)
 24. [[Stroke 24]] (5 characters)
 25. [[Stroke 25]] (5 characters)
-26. [[Stroke 26]] (1 character)
-27. [[Stroke 27]] (3 characters)
-28. [[Stroke 28]] (1 character)
-29. [[Stroke 29]] (1 character)
+26. [[Stroke 26]] (1 character) ✅
+27. [[Stroke 27]] (3 characters) ✅
+28. [[Stroke 28]] (1 character) ✅
+29. [[Stroke 29]] (1 character) ✅

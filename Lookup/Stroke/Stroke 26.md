@@ -1,5 +1,7 @@
 > [[Stroke]]
 
+- <ruby>[[欝]]<rt>윧</rt></ruby>
+
 ```dataview
 TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
 FROM "characters"
