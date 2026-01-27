@@ -1082,7 +1082,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2104. [[励]] : 	勵	S	encourage
 2105. [[戻]] : 	戾	S	re-
 2106. [[鈴]] : small bell
-2107. [[零]] : zero
+2107. [[零 (char)]] : zero
 2108. [[霊]] : 	靈	S	spirits
 2109. [[隷]] : slave
 2110. [[齢]] : 	齡	S	age
