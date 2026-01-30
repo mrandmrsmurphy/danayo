@@ -8,6 +8,7 @@
 - <ruby>[[于]]<rt>우</rt></ruby> 'to'
 - The forbidden character 亍
 - 亏 which is an variant of 虧
+三 is organized under Radical 1.
 ### +2
 - <ruby>[[五 (char)]]<rt>오</rt></ruby> 'five'
 - [[互]]

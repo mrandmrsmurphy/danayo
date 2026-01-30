@@ -14,9 +14,9 @@ Radical 1 is 一, the number one.
 * 丆 --> ancient variant of [[Radical 027]] (厂) "cliff", 口訣 form of 면
 
 ## +2 Strokes
-* <ruby>[[万]]<rt>몬</rt></ruby>
+* <ruby>[[万]]<rt>몬</rt></ruby> - ten-thousand
 * <ruby>[[丈]]<rt>장</rt></ruby>
-* <ruby>[[三]]<rt>삼</rt></ruby>
+* <ruby>[[三 (char)]]) <rt>삼</rt></ruby> - three
 * <ruby>[[上]]<rt>샹</rt></ruby>
 * <ruby>[[下]]<rt>하</rt></ruby>
 * 丌 --> ancient variant of <ruby>其<rt>기</rt></ruby>
