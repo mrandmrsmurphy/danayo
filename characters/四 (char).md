@@ -31,13 +31,14 @@ hanmun_edu_level: 中
 danayo_id: 77
 mc_id: 48
 graphemic_classification: 指事
-stand_in: "TRUE"
+stand_in: 四
 aliases:
   - 亖
   - 龱
   - 𠁤
   - 𠃢
   - 𦉭
+date-last-perfect: 2026-01-30
 ---
 >[!warning] This is a page about the character 四.  For the word 'four', see [[四]].
 
