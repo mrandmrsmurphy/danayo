@@ -1,8 +1,9 @@
-- <ruby>等<rt><span style="font-size: 50%;">ㄉㄨㄫ</span></rt></ruby> - dung
+- <ruby>等<rt><span style="font-size: 50%;">ㄉㄨㄫ</span></rt></ruby> vs <ruby>等<rt>둥</rt></ruby> vs <ruby>둥<rt>づく゚</ruby>dung
 - <ruby>君<rt><span style="font-size:50%">ㄍㄨㄋ</span></rt></ruby> - gun
 - <ruby>姏<rt><span style="font-size:50%">ㄇㄛㄇ</span></rt></ruby> - mom
 - <ruby>広<rt><span style="font-size: 50%">ㄍㄠㄫ</span></rt></ruby> - gwang
 - <ruby>一十<rt><span style="font-size:50%">ㄧㄊㄒ一ㄆ</span></rt></ruby> - 'itsip
 - <ruby>太<rt><span style="font-size:50%">ㄉㄚㄧ</span></rt></ruby> - dai
 - <ruby>誰<rt><span style="font-size:50%">ㄒㄟㄧ</span></rt></ruby> - syei, or is it ㄕㄟㄧ?
-- 
+- <ruby>不<rt><span style="font-size:50%">ㄅㄛㄊ</span></rt></ruby> - bot
+- <ruby>四<rt><span style="font-size:50%">ㄕㄧㄭ</span></rt></ruby> - siǝ
