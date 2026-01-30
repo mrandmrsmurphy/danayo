@@ -40,7 +40,7 @@
 | 27  |       big       |  大   |   大    |   大    |         大きい          |       太 (클 태)        |             𡘯 lớn/to              |              太 dai               |
 | 28  |  long (length)  |  長   |   長    |   長    |          長い          |       長 (길 장)        |               𨱽 dài               |              長 jang              |
 |     |   long (time)   |      |   久    |        |                      |                      |               久 gyu                |                                  |
-| 29  |      wide       |  廣   |   寬    |   濶    |          広い          |       廣   , 寬        |              𢌌 rộng               |             広 gwang              |
+| 29  |      wide       |  廣   |   寬    |   濶    |          広い          |       廣   , 寬        |              𢌌 rộng               |               広 광               |
 | 30  |   thick (1D)    |  敦   |   厚    |   厚    |          厚い          |          厚           |               𥻣dầy                |              厚 hou               |
 |     |   thick (2D)    |      |   粗    |        |                      |                      |              粗糙 jocau              |                                  |
 |     | thick (crowded) |      |   密    |        |                      |                      |               密 mit                |                                  |
