@@ -16,17 +16,17 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 - ㄋ and ㄌ may not have a w on-glide
 
 
-Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄫ]] and [[ㄨㄧㄎ]].
+Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  
 
 -ㄧㄨㄆㄊㄎㄇㄋㄫ
 ## A vowels
 ### ㄚ series
 - ㄅ : [[ㄅㄚ]], [[ㄅㄚㄧ]], [[ㄅㄨㄚ]], [[ㄅㄨㄆ]], [[ㄅㄨㄊ]], [[ㄅㄨㄎ]], [[ㄅㄨㄇ]], [[ㄅㄨㄋ]], [[ㄅㄨㄫ]]
 - ㄆ : [[ㄆㄚ]], [[ㄆㄚㄧ]], [[ㄆㄚㄨ]], [[ㄆㄚㄆ]], [[ㄆㄚㄊ]], [[ㄆㄚㄎ]], [[ㄆㄚㄇ]], [[ㄆㄚㄋ]], [[ㄆㄚㄫ]]
-- ㄇ : 
-- ㄉ : 
-- ㄊ : 
-- ㄋ : 
+- ㄇ : [[ㄇㄚ]], [[ㄇㄚㄧ]], [[ㄇㄚㄨ]], [[ㄇㄚㄆ]], [[ㄇㄚㄊ]], [[ㄇㄚㄎ]], [[ㄇㄚㄇ]], [[ㄇㄚㄋ]], [[ㄇㄚㄫ]]
+- ㄉ :  [[ㄉㄚ]], [[ㄉㄚㄧ]], [[ㄉㄚㄨ]], [[ㄉㄚㄆ]], [[ㄉㄚㄊ]], [[ㄉㄚㄎ]], [[ㄉㄚㄇ]], [[ㄉㄚㄋ]], [[ㄉㄚㄫ]]
+- ㄊ :  [[ㄊㄚ]], [[ㄊㄚㄧ]], [[ㄊㄚㄨ]], [[ㄊㄚㄆ]], [[ㄊㄚㄊ]], [[ㄊㄚㄎ]], [[ㄊㄚㄇ]], [[ㄊㄚㄋ]], [[ㄊㄚㄫ]]
+- ㄋ : [[ㄋㄚ]], [[ㄋㄚㄧ]], [[ㄋㄚㄨ]], [[ㄋㄚㄆ]], [[ㄋㄚㄊ]], [[ㄋㄚㄎ]], [[ㄋㄚㄇ]], [[ㄋㄚㄋ]], [[ㄋㄚㄫ]]
 - ㄌ : 
 - ㄐ : 
 - ㄑ : 
@@ -43,6 +43,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
 ### ㆾ series
 ## I vowel
 ### ㄧ series
+There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄫ]] and [[ㄨㄧㄎ]].
 ## O vowels
 ### ㄛ series
 ### ㄡ series
