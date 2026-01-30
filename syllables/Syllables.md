@@ -1,11 +1,11 @@
 Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 
-| | 唇音 | 歯茎音 | 硬口蓋音 | 舌背音 |
-|---|---|---|---|---|
-| 濁塞音 | ㄅ b | ㄉ d | ㄐ j | ㄍ g |
-| 送気塞音 | ㄆ | ㄊ | ㄑ | ㄎ |
-| | ㄇ | ㄋ |   | ㄫ |
-| |   | ㄌ | ㄒ | ㄏ |
+|   | 唇音 | 歯茎音 | 硬口蓋音 | 舌背音 |
+|---|-----|-------|-------|------|
+| 濁塞音   | ㄅ b | ㄉ d | ㄐ j | ㄍ g |
+| 送気塞音 | ㄆ p | ㄊ t | ㄑ c | ㄎ k |
+| 鼻音    | ㄇ m | ㄋ n |      | ㄫ ŋ |
+| 流音    |      | ㄌ l | ㄒ s | ㄏ h  |
 
 - w on-glide may not have a w off-glide, except ·ㄠㄨ.
 - w on-glide may not go with an initial labial (ㄅ, ㄆ, or ㄇ)
@@ -17,6 +17,40 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 
 
 Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄫ]] and [[ㄨㄧㄎ]].
+
+-ㄧㄨㄆㄊㄎㄇㄋㄫ
+## A vowels
+### ㄚ series
+- ㄅ : [[ㄅㄚ]], [[ㄅㄚㄧ]], [[ㄅㄨㄚ]], [[ㄅㄨㄆ]], [[ㄅㄨㄊ]], [[ㄅㄨㄎ]], [[ㄅㄨㄇ]], [[ㄅㄨㄋ]], [[ㄅㄨㄫ]]
+- ㄆ : [[ㄆㄚ]], [[ㄆㄚㄧ]], [[ㄆㄚㄨ]], [[ㄆㄚㄆ]], [[ㄆㄚㄊ]], [[ㄆㄚㄎ]], [[ㄆㄚㄇ]], [[ㄆㄚㄋ]], [[ㄆㄚㄫ]]
+- ㄇ : 
+- ㄉ : 
+- ㄊ : 
+- ㄋ : 
+- ㄌ : 
+- ㄐ : 
+- ㄑ : 
+- ㄒ : 
+- ㄍ :
+- ㄎ : 
+- · : 
+- ㄏ : 
+### ㄞ series
+### ㄠ series
+## E vowels
+### ㄝ series
+### ㄟ series
+### ㆾ series
+## I vowel
+### ㄧ series
+## O vowels
+### ㄛ series
+### ㄡ series
+## U vowels
+### ㄨ series
+### ㄩ series
+## Foreign vowel
+ㄅㄜ, ㄆㄜ, ㄇㄜ, ㄉㄜ, ㄊㄜ, ㄋㄜ, ㄌㄜ, ㄐㄜ, ㄑㄜ, ㄒㄜ, ㄍㄜ, ㄎㄜ, ·ㄜ, and ㄏㄜ are all possible when transcribing foreign words.
 
 <div class="tbl-scroll">
 <table class="syllables"><thead>
