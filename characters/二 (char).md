@@ -33,14 +33,15 @@ stand_in: 二
 aliases:
   - 弍
   - 𠄠
+date-last-perfect: 2026-01-30
 ---
->[!warning]
-This is the character 二.  For the word 'two', use [[二]].  See also [[Radical 007]].
+>[!warning] This is the character 二.  For the word 'two', use [[二]].  
+>See also [[Radical 007]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ### Notes
-- [[SKIP-2-1-1]] ([[Stroke 02]]), [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Grade 1]]
+- It is the only [[SKIP-2-1-1]] ([[Stroke 02]]), [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Grade 1]]
 - Our [[Grade 1]], [[HSK Beginner]], Japanese [[Jōyō - Kyōiku|Grade 1]], [[Korean MS]]
 ## Words
 - [[二]] - two
