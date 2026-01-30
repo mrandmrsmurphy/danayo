@@ -1,21 +1,22 @@
 Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 
-| ㅂ | ㄷ | ㅈ | ㄱ |
-|---|---|---|---|
-| ㅍ | ㅌ | ㅊ | ㅋ |
-| ㅁ | ㄴ |   | ㅇ |
-|   | ㄹ | ㅅ | ㅎ |
+| | 唇音 | 歯茎音 | 硬口蓋音 | 舌背音 |
+|---|---|---|---|---|
+| 濁塞音 | ㄅ b | ㄉ d | ㄐ j | ㄍ g |
+| 送気塞音 | ㄆ | ㄊ | ㄑ | ㄎ |
+| | ㄇ | ㄋ |   | ㄫ |
+| |   | ㄌ | ㄒ | ㄏ |
 
-- w on-glide may not have a w off-glide, except 왓
-- w on-glide may not go with an initial labial (ㅂ, ㅍ, or  ㅁ)
+- w on-glide may not have a w off-glide, except ·ㄠㄨ.
+- w on-glide may not go with an initial labial (ㄅ, ㄆ, or ㄇ)
 - No E-vowel may have a w off-glide
-- y on-glide may not have a y off-glide, except for velars (ㄱ, ㅋ, ㅇ, ㅎ) + a/e and 셰
-- ㄷ and ㅌ may not have a y or w on-glide, except for the 돠-series
-- ㅈ and ㅊ may not have a y or w on-glide, except for the 좌 and 줘-series
-- ㄴ and ㄹ may not have a w on-glide
+- y on-glide may not have a y off-glide, except for velars (ㄍ, ㄎ, ㄫ, ㄏ) + a/e and ㄒㄟㄧ
+- ㄉ and ㄊ may not have a y or w on-glide, except for the ㄉㆾ-series
+- ㄐ and ㄑ may not have a y or w on-glide, except for the ㄐㄠ and ㄐㆾ-series
+- ㄋ and ㄌ may not have a w on-glide
 
 
-Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this chart: [[윙]] and [[윅]].
+Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄫ]] and [[ㄨㄧㄎ]].
 
 <div class="tbl-scroll">
 <table class="syllables"><thead>
