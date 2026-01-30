@@ -13,7 +13,7 @@ vietnamese:
   - nhị
 middle_chinese_initial: ȵ
 middle_chinese_final: iɪ
-stroke_count: "2"
+stroke_count: 2
 radical: 二
 skip_number: 2-1-1
 grade_level: 1
@@ -40,6 +40,19 @@ This is the character 二.  For the word 'two', use [[二]].  See also [[Radical
 [[nav/char_info]]
 ```
 ### Notes
+- [[SKIP-2-1-1]] ([[Stroke 02]]), [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Grade 1]]
 - Our [[Grade 1]], [[HSK Beginner]], Japanese [[Jōyō - Kyōiku|Grade 1]], [[Korean MS]]
+## Words
+- [[二]] - two
+- [[二十]] - twenty
+- [[二百]] - two hundred
+- [[二千]] - two thousand
+- [[二万]] - twenty thousand
+- [[二日]] - second day of the month
+- [[二月]] - February
+- [[二人]] - two people, a couple
+- [[二重]] - double, two-fold
+- [[二心]] - duplicity
+- [[二次元]] - 2D
 ### Links
 ![[nav/Numerals]]
