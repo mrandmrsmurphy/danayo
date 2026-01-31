@@ -19,7 +19,7 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not technically forbidden.  
 ## A vowels
 ### ㄚ series
-- ㄅ : [[ㄅㄚ]], [[ㄅㄚㄧ]], [[ㄅㄚㄨ]], [[ㄅㄨㄆ]], [[ㄅㄨㄊ]], [[ㄅㄨㄎ]], [[ㄅㄨㄇ]], [[ㄅㄨㄋ]], [[ㄅㄨㄫ]]
+- ㄅ : [[ㄅㄚ]], [[ㄅㄚㄧ]], [[ㄅㄚㄨ]], [[ㄅㄚㄆ]], [[ㄅㄚㄊ]], [[ㄅㄚㄎ]], [[ㄅㄚㄇ]], [[ㄅㄚㄋ]], [[ㄅㄚㄫ]]
 - ㄆ : [[ㄆㄚ]], [[ㄆㄚㄧ]], [[ㄆㄚㄨ]], [[ㄆㄚㄆ]], [[ㄆㄚㄊ]], [[ㄆㄚㄎ]], [[ㄆㄚㄇ]], [[ㄆㄚㄋ]], [[ㄆㄚㄫ]]
 - ㄇ : [[ㄇㄚ]], [[ㄇㄚㄧ]], [[ㄇㄚㄨ]], [[ㄇㄚㄆ]], [[ㄇㄚㄊ]], [[ㄇㄚㄎ]], [[ㄇㄚㄇ]], [[ㄇㄚㄋ]], [[ㄇㄚㄫ]]
 - ㄉ :  [[ㄉㄚ]], [[ㄉㄚㄧ]], [[ㄉㄚㄨ]], [[ㄉㄚㄆ]], [[ㄉㄚㄊ]], [[ㄉㄚㄎ]], [[ㄉㄚㄇ]], [[ㄉㄚㄋ]], [[ㄉㄚㄫ]]
@@ -57,6 +57,8 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
 ## E vowels
 -ㄧㄆㄊㄎㄇㄋㄫ
 ### ㄝ series
+- ㄅ : 
+- ㄆ
 ### ㄟ series
 ### ㆾ series
 ## I vowel
