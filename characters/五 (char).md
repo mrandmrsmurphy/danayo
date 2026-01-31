@@ -1,37 +1,38 @@
 ---
 mandarin:
-- wǔ
+  - wǔ
 cantonese: ng5
 korean:
-- 오
+  - 오
 korean_native: 다섯
 japanese:
-- GO
+  - GO
 japanese_nanori: いつつ
 vietnamese:
-- ngũ
+  - ngũ
 middle_chinese_initial: ŋ
 middle_chinese_final: uo
-stroke_count: '4'
+stroke_count: "4"
 radical: 二
 skip_number: 4-4-1
 grade_level: 1
 pos: numeral
 english:
-- five
-- '5'
+  - five
+  - "5"
 羅馬字: o
-韓文: '[[오]]'
-joyo_level: '1'
-hsk_level: '1'
+韓文: 오
+joyo_level: "1"
+hsk_level: "1"
 hanmun_edu_level: 중
 danayo_id: 45
 mc_id: 38
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: "TRUE"
 aliases:
-- 㐅
-- 𠄡
+  - 㐅
+  - 𠄡
+注音: ·ㄛ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
