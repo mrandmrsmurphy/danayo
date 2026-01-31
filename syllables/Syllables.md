@@ -87,6 +87,7 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
 - · : [[·ㆾ]], [[·ㆾㄧ]], [[·ㆾㄆ]], [[·ㆾㄊ]], [[·ㆾㄎ]], [[·ㆾㄇ]], [[·ㆾㄋ]], [[·ㆾㄫ]]
 - ㄏ : [[ㄏㆾ]], [[ㄏㆾㄧ]], [[ㄏㆾㄆ]], [[ㄏㆾㄊ]], [[ㄏㆾㄎ]], [[ㄏㆾㄇ]], [[ㄏㆾㄋ]], [[ㄏㆾㄫ]]
 ## I vowel
+### ㄧ series
 - ㄅ : [[ㄅㄧ]], [[ㄅㄧㄧ]], [[ㄅㄧㄆ]], [[ㄅㄧㄊ]], [[ㄅㄧㄎ]], [[ㄅㄧㄇ]], [[ㄅㄧㄋ]], [[ㄅㄧㄫ]]
 - ㄆ : [[ㄆㄧ]], [[ㄆㄧㄧ]], [[ㄆㄧㄆ]], [[ㄆㄧㄊ]], [[ㄆㄧㄎ]], [[ㄆㄧㄇ]], [[ㄆㄧㄋ]], [[ㄆㄧㄫ]]
 - ㄇ : [[ㄇㄧ]], [[ㄇㄧㄧ]], [[ㄇㄧㄆ]], [[ㄇㄧㄊ]], [[ㄇㄧㄎ]], [[ㄇㄧㄇ]], [[ㄇㄧㄋ]], [[ㄇㄧㄫ]]
@@ -94,379 +95,40 @@ Many, many examples with final -p,-t,-k,-n,-m,-ng do not exist, but are not tech
 - ㄊ : [[ㄊㄧ]], [[ㄊㄧㄧ]], [[ㄊㄧㄆ]], [[ㄊㄧㄊ]], [[ㄊㄧㄎ]], [[ㄊㄧㄇ]], [[ㄊㄧㄋ]], [[ㄊㄧㄫ]]
 - ㄋ : [[ㄋㄧ]], [[ㄋㄧㄧ]], [[ㄋㄧㄆ]], [[ㄋㄧㄊ]], [[ㄋㄧㄎ]], [[ㄋㄧㄇ]], [[ㄋㄧㄋ]], [[ㄋㄧㄫ]]
 - ㄌ : [[ㄌㄧ]], [[ㄌㄧㄧ]], [[ㄌㄧㄆ]], [[ㄌㄧㄊ]], [[ㄌㄧㄎ]], [[ㄌㄧㄇ]], [[ㄌㄧㄋ]], [[ㄌㄧㄫ]]
-- ㄐ : [[ㄐ]]
-- ㄑ : 
-- ㄒ : 
-- ㄍ : 
-- ㄎ : 
-- · : 
-- ㄏ : 
--ㄧㄆㄊㄎㄇㄋㄫ
-### ㄧ series
-There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄫ]] and [[ㄨㄧㄎ]].
+- ㄐ : [[ㄐㄧ]], [[ㄐㄧㄧ]], [[ㄐㄧㄆ]], [[ㄐㄧㄊ]], [[ㄐㄧㄎ]], [[ㄐㄧㄇ]], [[ㄐㄧㄋ]], [[ㄐㄧㄫ]]
+- ㄑ : [[ㄑㄧ]], [[ㄑㄧㄧ]], [[ㄑㄧㄆ]], [[ㄑㄧㄊ]], [[ㄑㄧㄎ]], [[ㄑㄧㄇ]], [[ㄑㄧㄋ]], [[ㄑㄧㄫ]]
+- ㄒ : [[ㄒㄧ]], [[ㄒㄧㄧ]], [[ㄒㄧㄆ]], [[ㄒㄧㄊ]], [[ㄒㄧㄎ]], [[ㄒㄧㄇ]], [[ㄒㄧㄋ]], [[ㄒㄧㄫ]]
+- ㄍ : [[ㄍㄧ]], [[ㄍㄧㄧ]], [[ㄍㄧㄆ]], [[ㄍㄧㄊ]], [[ㄍㄧㄎ]], [[ㄍㄧㄇ]], [[ㄍㄧㄋ]], [[ㄍㄧㄫ]]
+- ㄎ : [[ㄎㄧ]], [[ㄎㄧㄧ]], [[ㄎㄧㄆ]], [[ㄎㄧㄊ]], [[ㄎㄧㄎ]], [[ㄎㄧㄇ]], [[ㄎㄧㄋ]], [[ㄎㄧㄫ]]
+- · : [[·ㄧ]], [[·ㄧㄧ]], [[·ㄧㄆ]], [[·ㄧㄊ]], [[·ㄧㄎ]], [[·ㄧㄇ]], [[·ㄧㄋ]], [[·ㄧㄫ]]
+- ㄏ : [[ㄏㄧ]], [[ㄏㄧㄧ]], [[ㄏㄧㄆ]], [[ㄏㄧㄊ]], [[ㄏㄧㄎ]], [[ㄏㄧㄇ]], [[ㄏㄧㄋ]], [[ㄏㄧㄫ]]
 ## O vowels
 -ㄧㄨㄆㄊㄎㄇㄋㄫ
 ### ㄛ series
+- ㄅ : [[ㄅㄛ]], [[ㄅㄛㄧ]], [[ㄅㄛㄨ]], [[ㄅㄛㄆ]], [[ㄅㄛㄊ]], [[ㄅㄛㄎ]], [[ㄅㄛㄇ]], [[ㄅㄛㄋ]], [[ㄅㄛㄫ]]
+- ㄆ : [[ㄆㄛ]], [[ㄆㄛ
+- ㄇ : 
+- ㄉ : 
+- ㄊ : 
+- ㄋ : 
+- ㄌ : 
+- ㄐ : 
+- ㄑ :
+- ㄒ :
+- ㄍ :
+- ㄎ : 
+- · : 
+- ㄏ : 
 ### ㄡ series
 ## U vowels
 ### ㄨ series
+There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄫ]] and [[ㄨㄧㄎ]].
 ### ㄩ series
 ## Foreign vowel
 ㄅㄜ, ㄆㄜ, ㄇㄜ, ㄉㄜ, ㄊㄜ, ㄋㄜ, ㄌㄜ, ㄐㄜ, ㄑㄜ, ㄒㄜ, ㄍㄜ, ㄎㄜ, ·ㄜ, and ㄏㄜ are all possible when transcribing foreign words.
 
 <div class="tbl-scroll">
 <table class="syllables"><thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-c3ow" colspan="9">labial</td>
-    <td class="tg-c3ow" rowspan="14"></td>
-    <td class="tg-c3ow" colspan="9">dental</td>
-    <td class="tg-c3ow" rowspan="14"></td>
-    <td class="tg-c3ow" colspan="9">alveolar</td>
-    <td class="tg-c3ow" rowspan="14"></td>
-    <td class="tg-c3ow" colspan="9">velar</td>
-    <td class="tg-c3ow"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">coda</td>
-    <td class="tg-c3ow">ø</td>
-    <td class="tg-c3ow">i</td>
-    <td class="tg-c3ow">u</td>
-    <td class="tg-c3ow">p</td>
-    <td class="tg-c3ow">t</td>
-    <td class="tg-c3ow">k</td>
-    <td class="tg-c3ow">m</td>
-    <td class="tg-c3ow">n</td>
-    <td class="tg-c3ow">ŋ</td>
-    <td class="tg-c3ow">ø</td>
-    <td class="tg-c3ow">i</td>
-    <td class="tg-c3ow">u</td>
-    <td class="tg-c3ow">p</td>
-    <td class="tg-c3ow">t</td>
-    <td class="tg-c3ow">k</td>
-    <td class="tg-c3ow">m</td>
-    <td class="tg-c3ow">n</td>
-    <td class="tg-c3ow">ŋ</td>
-    <td class="tg-c3ow">ø</td>
-    <td class="tg-c3ow">i</td>
-    <td class="tg-c3ow">u</td>
-    <td class="tg-c3ow">p</td>
-    <td class="tg-c3ow">t</td>
-    <td class="tg-c3ow">k</td>
-    <td class="tg-c3ow">m</td>
-    <td class="tg-c3ow">n</td>
-    <td class="tg-c3ow">ŋ</td>
-    <td class="tg-c3ow">ø</td>
-    <td class="tg-c3ow">i</td>
-    <td class="tg-c3ow">u</td>
-    <td class="tg-c3ow">p</td>
-    <td class="tg-c3ow">t</td>
-    <td class="tg-c3ow">k</td>
-    <td class="tg-c3ow">m</td>
-    <td class="tg-c3ow">n</td>
-    <td class="tg-c3ow">ŋ</td>
-    <td class="tg-c3ow" rowspan="13">E</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" rowspan="4">ㅓ</td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/버" href="syllables/버">버</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/베" href="syllables/베">베</a></td>
-    <td class="tg-0pky" rowspan="3"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/법" href="syllables/법">법</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/벋" href="syllables/벋">벋</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/벅" href="syllables/벅">벅</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/범" href="syllables/범">범</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/번" href="syllables/번">번</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/벙" href="syllables/벙">벙</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/더" href="syllables/더">더</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/데" href="syllables/데">데</a></td>
-    <td class="tg-0pky" rowspan="4"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/덥" href="syllables/덥">덥</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/덛" href="syllables/덛">덛</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/덕" href="syllables/덕">덕</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/덤" href="syllables/덤">덤</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/던" href="syllables/던">던</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/덩" href="syllables/덩">덩</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/저" href="syllables/저">저</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/제" href="syllables/제">제</a></td>
-    <td class="tg-0pky" rowspan="4"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/접" href="syllables/접">접</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/젇" href="syllables/젇">젇</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/적" href="syllables/적">적</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/점" href="syllables/점">점</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/전" href="syllables/전">전</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/정" href="syllables/정">정</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/거" href="syllables/거">거</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/게" href="syllables/게">게</a></td>
-    <td class="tg-0pky" rowspan="4"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/겁" href="syllables/겁">겁</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/걷" href="syllables/걷">걷</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/걱" href="syllables/걱">걱</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/검" href="syllables/검">검</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/건" href="syllables/건">건</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/겅" href="syllables/겅">겅</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퍼" href="syllables/퍼">퍼</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/페" href="syllables/페">페</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/펍" href="syllables/펍">펍</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/펃" href="syllables/펃">펃</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퍽" href="syllables/퍽">퍽</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/펌" href="syllables/펌">펌</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/펀" href="syllables/펀">펀</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/펑" href="syllables/펑">펑</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/터" href="syllables/터">터</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/테" href="syllables/테">테</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/텁" href="syllables/텁">텁</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/턷" href="syllables/턷">턷</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/턱" href="syllables/턱">턱</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/텀" href="syllables/텀">텀</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/턴" href="syllables/턴">턴</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/텅" href="syllables/텅">텅</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/처" href="syllables/처">처</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/체" href="syllables/체">체</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/첩" href="syllables/첩">첩</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/첟" href="syllables/첟">첟</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/척" href="syllables/척">척</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/첨" href="syllables/첨">첨</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/천" href="syllables/천">천</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/청" href="syllables/청">청</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/커" href="syllables/커">커</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/케" href="syllables/케">케</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/컵" href="syllables/컵">컵</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/컫" href="syllables/컫">컫</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/컥" href="syllables/컥">컥</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/컴" href="syllables/컴">컴</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/컨" href="syllables/컨">컨</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/컹" href="syllables/컹">컹</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/머" href="syllables/머">머</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/메" href="syllables/메">메</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/멉" href="syllables/멉">멉</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/먿" href="syllables/먿">먿</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/먹" href="syllables/먹">먹</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/멈" href="syllables/멈">멈</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/먼" href="syllables/먼">먼</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/멍" href="syllables/멍">멍</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/너" href="syllables/너">너</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/네" href="syllables/네">네</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/넙" href="syllables/넙">넙</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/넏" href="syllables/넏">넏</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/넉" href="syllables/넉">넉</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/넘" href="syllables/넘">넘</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/넌" href="syllables/넌">넌</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/넝" href="syllables/넝">넝</a></td>
-    <td class="tg-0pky" colspan="2"></td>
-    <td class="tg-0pky" colspan="6"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/어" href="syllables/어">어</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/에" href="syllables/에">에</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/업" href="syllables/업">업</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/얻" href="syllables/얻">얻</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/억" href="syllables/억">억</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/엄" href="syllables/엄">엄</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/언" href="syllables/언">언</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/엉" href="syllables/엉">엉</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky" colspan="9"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/러" href="syllables/러">러</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/레" href="syllables/레">레</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/럽" href="syllables/럽">럽</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/럳" href="syllables/럳">럳</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/럭" href="syllables/럭">럭</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/럼" href="syllables/럼">럼</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/런" href="syllables/런">런</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/렁" href="syllables/렁">렁</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/서" href="syllables/서">서</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/세" href="syllables/세">세</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/섭" href="syllables/섭">섭</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/섣" href="syllables/섣">섣</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/석" href="syllables/석">석</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/섬" href="syllables/섬">섬</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/선" href="syllables/선">선</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/성" href="syllables/성">성</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/허" href="syllables/허">허</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/헤" href="syllables/헤">헤</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/헙" href="syllables/헙">헙</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/헏" href="syllables/헏">헏</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/헉" href="syllables/헉">헉</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/험" href="syllables/험">험</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/헌" href="syllables/헌">헌</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/헝" href="syllables/헝">헝</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" rowspan="4">ㅕ</td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/벼" href="syllables/벼">벼</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky" rowspan="3"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/볍" href="syllables/볍">볍</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/볃" href="syllables/볃">볃</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/벽" href="syllables/벽">벽</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/볌" href="syllables/볌">볌</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/변" href="syllables/변">변</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/병" href="syllables/병">병</a></td>
-    <td class="tg-0pky" colspan="9"></td>
-    <td class="tg-0pky" colspan="9"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/겨" href="syllables/겨">겨</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/계" href="syllables/계">계</a></td>
-    <td class="tg-0pky" rowspan="4"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/겹" href="syllables/겹">겹</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/겯" href="syllables/겯">겯</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/격" href="syllables/격">격</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/겸" href="syllables/겸">겸</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/견" href="syllables/견">견</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/경" href="syllables/경">경</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/폐" href="syllables/폐">폐</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/폅" href="syllables/폅">폅</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/펻" href="syllables/펻">펻</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/펵" href="syllables/펵">펵</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/폄" href="syllables/폄">폄</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/편" href="syllables/편">편</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/평" href="syllables/평">평</a></td>
-    <td class="tg-0pky" colspan="9"></td>
-    <td class="tg-0pky" colspan="9"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/캬" href="syllables/캬">캬</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/켸" href="syllables/켸">켸</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/켭" href="syllables/켭">켭</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/켣" href="syllables/켣">켣</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/켝" href="syllables/켝">켝</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/켬" href="syllables/켬">켬</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/켠" href="syllables/켠">켠</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/켱" href="syllables/켱">켱</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/며" href="syllables/며">며</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/몁" href="syllables/몁">몁</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/멷" href="syllables/멷">멷</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/멱" href="syllables/멱">멱</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/몀" href="syllables/몀">몀</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/면" href="syllables/면">면</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/명" href="syllables/명">명</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/녀" href="syllables/녀">녀</a></td>
-    <td class="tg-0pky" colspan="2" rowspan="2"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/녑" href="syllables/녑">녑</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/녇" href="syllables/녇">녇</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/녁" href="syllables/녁">녁</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/념" href="syllables/념">념</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/년" href="syllables/년">년</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/녕" href="syllables/녕">녕</a></td>
-    <td class="tg-0pky" colspan="9"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/여" href="syllables/여">여</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/예" href="syllables/예">예</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/엽" href="syllables/엽">엽</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/엳" href="syllables/엳">엳</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/역" href="syllables/역">역</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/염" href="syllables/염">염</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/연" href="syllables/연">연</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/영" href="syllables/영">영</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/려" href="syllables/려">려</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/렵" href="syllables/렵">렵</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/렫" href="syllables/렫">렫</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/력" href="syllables/력">력</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/렴" href="syllables/렴">렴</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/련" href="syllables/련">련</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/령" href="syllables/령">령</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/셔" href="syllables/셔">셔</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/셰" href="syllables/셰">셰</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/셥" href="syllables/셥">셥</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/셛" href="syllables/셛">셛</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/셕" href="syllables/셕">셕</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/셤" href="syllables/셤">셤</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/션" href="syllables/션">션</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/셩" href="syllables/셩">셩</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/혀" href="syllables/혀">혀</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/혜" href="syllables/혜">혜</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/협" href="syllables/협">협</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/혇" href="syllables/혇">혇</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/혁" href="syllables/혁">혁</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/혐" href="syllables/혐">혐</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/현" href="syllables/현">현</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/형" href="syllables/형">형</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" rowspan="4">ㅝ</td>
-    <td class="tg-0pky" colspan="9" rowspan="4"></td>
-    <td class="tg-0pky" colspan="9" rowspan="4"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줘" href="syllables/줘">줘</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줴" href="syllables/줴">줴</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줩" href="syllables/줩">줩</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줟" href="syllables/줟">줟</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줙" href="syllables/줙">줙</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줨" href="syllables/줨">줨</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줜" href="syllables/줜">줜</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/줭" href="syllables/줭">줭</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궈" href="syllables/궈">궈</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궤" href="syllables/궤">궤</a></td>
-    <td class="tg-0pky" rowspan="4"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궙" href="syllables/궙">궙</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궏" href="syllables/궏">궏</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궉" href="syllables/궉">궉</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궘" href="syllables/궘">궘</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/권" href="syllables/권">권</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/궝" href="syllables/궝">궝</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky" colspan="9" rowspan="2"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/쿼" href="syllables/쿼">쿼</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퀘" href="syllables/퀘">퀘</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퀍" href="syllables/퀍">퀍</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퀃" href="syllables/퀃">퀃</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/쿽" href="syllables/쿽">쿽</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퀌" href="syllables/퀌">퀌</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퀀" href="syllables/퀀">퀀</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/퀑" href="syllables/퀑">퀑</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/워" href="syllables/워">워</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/웨" href="syllables/웨">웨</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/웝" href="syllables/웝">웝</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/웓" href="syllables/웓">웓</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/웍" href="syllables/웍">웍</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/웜" href="syllables/웜">웜</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/원" href="syllables/원">원</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/웡" href="syllables/웡">웡</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/숴" href="syllables/숴">숴</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/쉐" href="syllables/쉐">쉐</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/쉅" href="syllables/쉅">쉅</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/숻" href="syllables/숻">숻</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/숵" href="syllables/숵">숵</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/쉄" href="syllables/쉄">쉄</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/숸" href="syllables/숸">숸</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/쉉" href="syllables/쉉">쉉</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훠" href="syllables/훠">훠</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훼" href="syllables/훼">훼</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훱" href="syllables/훱">훱</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훧" href="syllables/훧">훧</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훡" href="syllables/훡">훡</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훰" href="syllables/훰">훰</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훤" href="syllables/훤">훤</a></td>
-    <td class="tg-0pky"><a class="internal-link" data-href="syllables/훵" href="syllables/훵">훵</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" colspan="41"></td>
-  </tr>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow" colspan="9">labial</td>
@@ -1263,5 +925,3 @@ There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄫ]] a
   </tr>
 </tbody></table>
 </div>
-
-In addition, there are all the "filler" vowel-syllables, which can only occur with an onset: 브, 드, 즈, 그, 프, 트, 츠, 크, 므, 느, 으, 르, 스, and 흐.
