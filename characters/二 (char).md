@@ -22,7 +22,7 @@ english:
   - two
   - "2"
 羅馬字: nii
-韓文: "[[늬]]"
+韓文: 늬
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -34,6 +34,7 @@ aliases:
   - 弍
   - 𠄠
 date-last-perfect: 2026-01-30
+注音: ㄋㄧㄧ
 ---
 >[!warning] This is the character 二.  For the word 'two', use [[二]].  
 >See also [[Radical 007]].
