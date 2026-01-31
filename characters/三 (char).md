@@ -15,7 +15,7 @@ grade_level: 1
 pos: numeral
 english: three
 羅馬字: sam
-韓文: "[[삼]]"
+韓文: 삼
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 중
@@ -24,6 +24,7 @@ mc_id: 24
 graphemic_classification: 指事
 stand_in: 三
 date-last-perfect: 2026-01-30
+注音: ㄒㄚㄇ
 ---
 >[!Warning] This is the character 三. For the word 'three', use [[三]].
 ```meta-bind-embed
