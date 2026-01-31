@@ -28,9 +28,9 @@ views:
       - middle_chinese_final
       - mc_id
     sort:
-      - property: danayo_id
-        direction: DESC
       - property: 韓文
+        direction: ASC
+      - property: danayo_id
         direction: DESC
       - property: skip_number
         direction: DESC
