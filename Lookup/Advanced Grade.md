@@ -1,5 +1,6 @@
-7184. <ruby>[[膣 (char)]]<rt>짇</rt></ruby> - pussy
+7184. <ruby>[[膣 (char)|膣]]<rt>ㄐㄝㄊ</rt></ruby> - pussy
 
+*7336* <ruby>[[𧦅]]<rt>·ㄛx</rt></ruby> - eulogize
 ## Data check
 ```dataview
 TABLE danayo_id AS "ID", grade_level AS "gr", 韓文 AS "Sound"
