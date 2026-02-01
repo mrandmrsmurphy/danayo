@@ -22,7 +22,7 @@ The following prefecture names were added in 2017
 17. [[中]] : chū (naka)    
 18. [[大 (char)]] : dai / tai (ō-kii)    
 19. [[小]] : shō (chii-sai)    
-20. [[月]] : getsu / gatsu (tsuki)    
+20. [[月 (char)]] : getsu / gatsu (tsuki)    
 21. [[日 (char)]] : nichi / jitsu (hi, ka)    
 22. [[年]] : nen (toshi)    
 23. [[早]] : sō (haya-i)    

@@ -25,7 +25,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 ## Nouns
 - Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[鉄]]<rt>tet</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[銀]]<rt>'in</rt></ruby>
 - Territory : nature, world - <ruby>[[世界]]<rt>segye</rt></ruby>, land
-- Time: week - <ruby>[[週日]]<rt>juunit</rt></ruby>, month - <ruby>[[月]]<rt>'wet</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>jaknit</rt></ruby>, today - <ruby>[[今日]]<rt>gimnit</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>lainit</rt></ruby>, morning - <ruby>[[朝]]<rt>jau</rt></ruby>, afternoon - <ruby>[[午後]]<rt>'ohou</rt></ruby>
+- Time: week - <ruby>[[週日]]<rt>juunit</rt></ruby>, month - <ruby>[[月 (char)]]<rt>'wet</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>jaknit</rt></ruby>, today - <ruby>[[今日]]<rt>gimnit</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>lainit</rt></ruby>, morning - <ruby>[[朝]]<rt>jau</rt></ruby>, afternoon - <ruby>[[午後]]<rt>'ohou</rt></ruby>
 - Season : spring - <ruby>[[春]]<rt>cun</rt></ruby>, summer - <ruby>[[夏]]<rt>hya</rt></ruby>, fall - <ruby>[[秋]]<rt>cuu</rt></ruby>, winter - <ruby>[[冬]]<rt>tong</rt></ruby>
 - Geographical : hill, farm, field, island - <ruby>[[島]]<rt>tau</rt></ruby>
 - Body Parts : body - <ruby>[[身体]]<rt>sintei</rt></ruby>, lip - <ruby>[[唇]]<rt>sun</rt></ruby>, breast - <ruby>[[乳房]]<rt>nubang</rt></ruby>,  butt - <ruby>[[尻]]<rt>kau</rt></ruby>, muscle - <ruby>[[筋肉]]<rt>ginnuk</rt></ruby>, brain - <ruby>[[脳]]<rt>nau</rt></ruby>
