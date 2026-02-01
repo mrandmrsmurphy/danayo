@@ -1,4 +1,7 @@
-> [[SKIP]] | [[SKIP-4]]
+---
+date-last-perfect: 2026-02-01
+---
+> [[SKIP]] | [[SKIP-4|4]]
 
 This is the home page for SKIP characters of type 4-x-4.  These are hanji with a box-like or no pattern.
 

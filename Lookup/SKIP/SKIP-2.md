@@ -1,3 +1,6 @@
+---
+date-last-perfect: 2026-02-01
+---
 > [[SKIP]]
 
 These are characters with a clear top-bottom dichotomy.  The following are the possible number of strokes for the top half:

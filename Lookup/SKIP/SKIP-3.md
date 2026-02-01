@@ -1,3 +1,8 @@
+---
+date-last-perfect: 2026-02-01
+---
+> [[SKIP]]
+
 These are character where there is a "surround-er", a box or loop which does more than just hover above or to the left, but hems in the rest of the character on two-or-more sides
 
 Below are the number of strokes possible for the surrounding material
