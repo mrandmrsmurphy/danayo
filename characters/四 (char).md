@@ -39,6 +39,7 @@ aliases:
   - 𠃢
   - 𦉭
 date-last-perfect: 2026-01-30
+注音: ㄒㄧㄧ
 ---
 >[!warning] This is a page about the character 四.  For the word 'four', see [[四]].
 

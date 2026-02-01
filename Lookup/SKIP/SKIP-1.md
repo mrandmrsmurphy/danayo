@@ -1,3 +1,8 @@
+---
+date-last-perfect: 2026-01-31
+---
+> [[SKIP]]
+
 This is the first part of the SKIP kanji identification system, for character with a left-right split.  Here are the choices for the number of strokes of the left part:
 1. [[SKIP-1-1]]
 2. [[SKIP-1-2]]

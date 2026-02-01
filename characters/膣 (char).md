@@ -35,6 +35,7 @@ stand_in: 膣
 aliases:
   - 腟
 date-last-perfect: 2026-01-24
+注音: ㄐㄧㄊ
 ---
 > This is the character page.  For the word, use [[膣]].
 ```meta-bind-embed

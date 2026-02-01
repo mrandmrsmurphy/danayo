@@ -5,4 +5,8 @@ views:
       - file.name
       - date-last-perfect
       - 注音
-      - alias
+    sort:
+      - property: date-last-perfect
+        direction: ASC
+      - property: alias
+        direction: ASC
