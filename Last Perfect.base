@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date-last-perfect
+      - 注音
+      - alias
