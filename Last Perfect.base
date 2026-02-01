@@ -8,6 +8,8 @@ views:
       - 羅馬字
       - 韓文
     sort:
+      - property: 注音
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
       - property: alias
