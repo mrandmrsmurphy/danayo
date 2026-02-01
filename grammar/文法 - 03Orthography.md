@@ -121,21 +121,30 @@ Illustrative contrasts: if **區 → 区** and **圖 → 図** are adopted, Dan�
 ## Ruby （音訓標）
 **【[[声形和決]]】**
 
-In Dan’a’yo （単亜語）, each character （漢字） carries a ruby gloss （振仮名） above it.  The ruby is written in Hangŭl syllables （諺文字節）.  This shows the intended pronunciation （発音） directly.
+In Dan’a’yo （単亜語）, each character （漢字） carries a ruby gloss （振仮名） above it.  The ruby is written in the Bopomofo alphabet 注音符号).  This shows the intended pronunciation （発音） directly.
 
 ### Cardinal Vowels （母音）
-Ruby employs cardinal vowels （基準母音）.  Thus the glyph 어 represents /e/, unlike in Korean usage （韓語異義）.
+Ruby employs cardinal vowels （基準母音）.  Thus the glyph ·ㄝ represents /e/, unlike in Chinese usage.
 
 ### Y Off-Glide （/j/介音）
-A vertical stroke （縦画） marks the _y_ off-glide.  Accordingly, 에 represents /ej/ and 애 represents /aj/.
+A horizontal/vertical stroke （縦画） marks the _y_ off-glide.  
 
 ### W Off-Glide （/w/介音）
-Hangŭl does not natively support _au_, _ou_, or _uu_ codas （韻尾）.  Therefore Dan’a’yo uses the ᄉ-final glyph （終声ᄉ） as a provisional marker （仮符）.  This shape roughly resembles ᅮ, and serves as a stand-in （代用） until a better form is standardized.
+Dan’a’yo uses the ㄨ as a final glyph （終声）.
 
-### Names and Sorting （字名与次序）
-For sorting by machine （機械配列）, the order of consonants （子音順） is:  ᄀ, ᄂ, ᄃ, ᄅ, ᄆ, ᄇ, ᄉ, ᄋ, ᄌ, ᄎ, ᄏ, ᄐ, ᄑ, ᄒ.  Consonants are named as _C + /a/_ （子＋/a/）.  Vowels are designated simply as _V_ （母音）.
 
-## Pingŭl （拼諺文）
-Dan’a’yo ruby is sufficient for native usage.  However, a complete scheme has also been devised to render every Mandarin syllable （漢語拼音音節） in Old Hangŭl （古諺文）.  This system is called **Pingŭl （拼諺文）**.  It demonstrates the adaptability of Hangŭl script beyond Korean, and provides a bridge between Dan’a’yo ruby and Chinese Pinyin.
-
-![[pingul.png]]
+## Extended
+Dan’a’yo ruby is sufficient for native usage.  However, bopomofo is capable of rendering Chinese syllables （漢語拼音音節）
+- ㄈ is the onset 'f'
+- ㄪ is the onset 'v'
+- ㄬ is the onset 'ñ'
+- ㄓ is the onset 'zh'
+- ㄔ is the onset 'ch'
+- ㄕ is the onset 'sh'
+- ㄖ is the onset 'r'
+- ㄗ is the onset 'z'
+- ㄘ is the onset 'c'
+- ㄙ is Chinese 's'
+- ㄭ marks syllabic consonants
+- ㄦ is the Chinese rhotic vowel
+There are also tone markers: ˉ for tone 1, ˊ for tone 2, ˇ for tone 3, ˋ for tone 4, ˙ for 5.
