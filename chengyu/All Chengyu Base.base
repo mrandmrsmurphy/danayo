@@ -15,6 +15,7 @@ views:
       - korean
       - vietnamese
       - origin
+      - date-last-perfect
     sort:
       - property: origin
         direction: ASC
@@ -29,3 +30,5 @@ views:
       note.cantonese: 158
       note.japanese: 125
       note.korean: 63
+      note.vietnamese: 137
+      note.origin: 147
