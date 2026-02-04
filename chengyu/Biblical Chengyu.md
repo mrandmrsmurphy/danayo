@@ -2,7 +2,7 @@ Over all is [[創反救成]]
 
 - [[指記二碑]] - the two tables of the law ✅
 - [[愛主耳錐]] - love master?  ear awl ✅
-- [[瑠璃清天]] - lapis lazuli, like heaven for clearness
+- [[瑠璃清天]] - lapis lazuli, like heaven for clearness ✅
 - [[血誓盟約]] - the blood of the covenant ✅
 - [[心性意力]] - heart soul mind and strength ✅
 - [[愛隣如自]] - love your neighbor as yourself
@@ -20,3 +20,5 @@ Over all is [[創反救成]]
 - [[金銀銅鉄]] - gold, silver, copper, iron ✅
 - [[石山盈界]] - stone mountain fills the earth ✅
 - [[事事皆旧]] - there is nothing new under the sun ✅
+- [[乳蜜流地]] - a land flowing with milk and honey ✅
+- [[六作一止]] - six days of labor, one of rest ✅
