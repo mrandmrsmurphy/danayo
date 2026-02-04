@@ -9,7 +9,7 @@ views:
       - 韓文
     sort:
       - property: date-last-perfect
-        direction: DESC
+        direction: ASC
       - property: 注音
         direction: ASC
       - property: alias
