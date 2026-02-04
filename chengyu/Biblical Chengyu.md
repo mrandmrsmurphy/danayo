@@ -1,7 +1,7 @@
 Over all is [[創反救成]]
 
 - [[指記二碑]] - the two tables of the law ✅
-- [[愛主耳錐]] - love master?  ear awl
+- [[愛主耳錐]] - love master?  ear awl ✅
 - [[瑠璃清天]] - lapis lazuli, like heaven for clearness
 - [[血誓盟約]] - the blood of the covenant ✅
 - [[心性意力]] - heart soul mind and strength ✅
