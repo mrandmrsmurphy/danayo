@@ -24,7 +24,7 @@ english:
   - cunt
   - vagina
 羅馬字: jid
-韓文: "[[짇]]"
+韓文: 짇
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 이름
