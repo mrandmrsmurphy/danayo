@@ -9,7 +9,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[一 (char)|一]]<rt>·ㄧㄊ</rt></ruby> - one
 
 ## +1 Stroke
-* <ruby>[[丁]]<rt>ㄉㄝㄫ</rt></ruby> - fourth
+* <ruby>[[丁]]<rt>ㄉㄝㄥ</rt></ruby> - fourth
 * <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven 
 * 丂 --> ancient variant of 于 and of 考
 * 丄 --> ancient variant of 上
@@ -18,9 +18,9 @@ Radical 1 is 一, the number one.
 
 ## +2 Strokes
 * <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
-* <ruby>[[丈]]<rt>ㄐㄚㄫ</rt></ruby> - only
+* <ruby>[[丈]]<rt>ㄐㄚㄥ</rt></ruby> - only
 * <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
-* <ruby>[[上]]<rt>ㄙㄧㄚㄫ</rt></ruby> - above
+* <ruby>[[上]]<rt>ㄙㄧㄚㄥ</rt></ruby> - above
 * <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> - below
 * 丌 --> ancient variant of 其
 * 亐 --> ancient variant of 于
@@ -39,7 +39,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[且]]<rt>ㄑㄛ</rt></ruby> - also
 * <ruby>[[世]]<rt>ㄙㄝ</rt></ruby> - world
 * <ruby>[[丘]]<rt>ㄎㄧㄨ</rt></ruby> - hill
-* <ruby>[[丙]]<rt>ㄅㄧㄝㄫ</rt></ruby> - tertiary
+* <ruby>[[丙]]<rt>ㄅㄧㄝㄥ</rt></ruby> - tertiary
 * <ruby>[[丕]]<rt>ㄆㄧ</rt></ruby> - grand
 * 业 --> ancient variant of 業, 丘, and 北
 * 丛 --> ancient variant of 叢
@@ -48,8 +48,8 @@ Radical 1 is 一, the number one.
 * 㐀 --> ancient variant of 丘 
 
 ## +5 Strokes
-* <ruby>[[丞]]<rt>ㄙㄧㄫ</rt></ruby> - rescue
-* <ruby>[[両]]<rt>ㄌㄧㄚㄫ</rt></ruby> - both
+* <ruby>[[丞]]<rt>ㄙㄧㄥ</rt></ruby> - rescue
+* <ruby>[[両]]<rt>ㄌㄧㄚㄥ</rt></ruby> - both
 * 㐂 --> ancient variant of 喜
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
 * 丠 --> ancient variant of 丘 and 冀
@@ -64,7 +64,7 @@ Radical 1 is 一, the number one.
 * 𠀧 --> V variant of 三
 
 ## +7 Strokes
-* <ruby>[[並]]<rt>ㄅㄝㄫ</rt></ruby> - side-by-side
+* <ruby>[[並]]<rt>ㄅㄝㄥ</rt></ruby> - side-by-side
 * 丧 --> ancient variant of 喪
 
 ## +8 Strokes 
