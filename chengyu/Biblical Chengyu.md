@@ -22,3 +22,5 @@ Over all is [[創反救成]]
 - [[事事皆旧]] - there is nothing new under the sun ✅
 - [[乳蜜流地]] - a land flowing with milk and honey ✅
 - [[六作一止]] - six days of labor, one of rest ✅
+- [[殺姦窃偽]] - murder, adultery, theft, lying ✅
+- 
