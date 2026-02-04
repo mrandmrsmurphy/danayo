@@ -24,7 +24,7 @@ mc_id: 28
 graphemic_classification: 象形
 stand_in: 一
 date-last-perfect: 2026-01-23
-注音: ·ㄧㄊ
+注音: ㄧㄊ
 ---
 >[!Warning] This is the character 一.  For the word 'one', please use [[一]]
 > For the radical, see [[Radical 001]]
