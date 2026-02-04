@@ -7,7 +7,7 @@ Over all is [[創反救成]]
 - [[心性意力]] - heart soul mind and strength ✅
 - [[愛隣如自]] - love your neighbor as yourself
 - [[数数衡分]] - mene, mene, tekel, upharsim ✅
-- [[帰塵帰土]] - ashes to ashes, dust to dust
+- [[帰塵帰土]] - ashes to ashes, dust to dust ✅
 - [[汗食帰泥]] - by the sweat of your brow
 - [[腹行食塵]] - crawl belly eat dust ✅
 - [[痛産夫治]] - painful birth, husband rule
@@ -17,4 +17,6 @@ Over all is [[創反救成]]
 - [[財愛悪根]] - The love of money is the root of evil ✅ 
 - [[剣生剣死]] - Live by the sword, die by the sword ✅
 - [[骨肉相連]] - Bone of my bone and flesh of my flesh ✅
-- 
+- [[金銀銅鉄]] - gold, silver, copper, iron ✅
+- [[石山盈界]] - stone mountain fills the earth ✅
+- [[事事皆旧]] - there is nothing new under the sun ✅
