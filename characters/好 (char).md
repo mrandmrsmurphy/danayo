@@ -10,30 +10,31 @@ japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
+  - hiếu
+  - hảo
 middle_chinese_initial: x
 middle_chinese_final: ɑu
-stroke_count: "6"
+stroke_count: 6
 radical: 女
 skip_number: 1-3-3
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - good
   - like
 羅馬字: hau
-韓文: "[[핫]]"
+韓文: 핫
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2064
 mc_id: 268
 graphemic_classification: 會意
-stand_in: "TRUE"
+stand_in: 好
 aliases:
 注音: ㄏㄚㄨ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 # Notes

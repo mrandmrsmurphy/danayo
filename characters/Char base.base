@@ -9,24 +9,17 @@ views:
       - 韓文
       - english
       - skip_number
-      - radical
       - stroke_count
       - danayo_id
-      - grade_level
-      - graphemic_classification
       - mandarin
       - cantonese
       - hsk_level
       - japanese
-      - japanese_nanori
       - joyo_level
       - korean
-      - korean_native
-      - hanmun_edu_level
       - vietnamese
-      - middle_chinese_initial
-      - middle_chinese_final
-      - mc_id
+      - 注音
+      - date-last-perfect
     sort:
       - property: 韓文
         direction: ASC

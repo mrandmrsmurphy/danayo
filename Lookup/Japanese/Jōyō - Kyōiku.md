@@ -506,7 +506,7 @@ The following prefecture names were added in 2017
 498. [[変]] : hen	ka-waru	change
 499. [[夫]] : fu fuu bu	otto	husband
 500. [[失]] : shitsu	ushina-u	lose
-501. [[好]] : kō	su-ku ; kono-mu	like
+501. [[好 (char)]] : kō	su-ku ; kono-mu	like
 502. [[季]] : ki	 –	seasons
 503. [[孫]] : son	mago	grandchild
 504. [[完]] : kan	 –	perfect
