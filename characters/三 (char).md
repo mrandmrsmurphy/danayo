@@ -24,7 +24,7 @@ mc_id: 24
 graphemic_classification: 指事
 stand_in: 三
 date-last-perfect: 2026-01-30
-注音: ㄒㄚㄇ
+注音: ㄙㄚㄇ
 ---
 >[!Warning] This is the character 三. For the word 'three', use [[三]].
 ```meta-bind-embed

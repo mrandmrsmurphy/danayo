@@ -40,7 +40,7 @@ aliases:
   - 𧨅
   - 𧬆
   - 𧮟
-注音: ㄒㄟㄋ
+注音: ㄙㄧㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
