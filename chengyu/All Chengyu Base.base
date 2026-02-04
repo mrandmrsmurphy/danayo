@@ -17,7 +17,7 @@ views:
       - origin
     sort:
       - property: origin
-        direction: DESC
+        direction: ASC
       - property: 韓文
         direction: ASC
     columnSize:
@@ -25,3 +25,7 @@ views:
       note.characters: 184
       note.韓文: 89
       note.english: 359
+      note.mandarin: 166
+      note.cantonese: 158
+      note.japanese: 125
+      note.korean: 63
