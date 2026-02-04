@@ -17,6 +17,8 @@ views:
       - origin
       - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: origin
         direction: ASC
       - property: 韓文
