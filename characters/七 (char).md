@@ -1,39 +1,40 @@
 ---
 mandarin:
-- qī
+  - qī
 cantonese: cat1
 korean:
-- 칠
+  - 칠
 korean_native: 일곱
 japanese:
-- SHICHI
-- SHITSU
+  - SHICHI
+  - SHITSU
 japanese_nanori: さとる
 vietnamese:
-- thất
+  - thất
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iɪt
-stroke_count: '2'
+stroke_count: "2"
 radical: 一
 skip_number: 4-2-2
 grade_level: 1
 pos: numeral
 english:
-- seven
-- '7'
+  - seven
+  - "7"
 羅馬字: cid
-韓文: '[[칟]]'
-joyo_level: '1'
-hsk_level: '1'
+韓文: "[[칟]]"
+joyo_level: "1"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2
 mc_id: 127
 graphemic_classification: 象形
 stand_in: 七
 aliases:
-- 柒
-- 𠀁
-- 桼
+  - 柒
+  - 𠀁
+  - 桼
+注音: ㄑㄧㄊ
 ---
 > This is the page for the character 七, as opposed to the word [[七]] 'seven'
 ```meta-bind-embed
