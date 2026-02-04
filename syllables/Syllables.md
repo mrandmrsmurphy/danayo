@@ -159,4 +159,4 @@ There is are two syllables that doesn't fit on this arrangement: [[ㄨㄧㄥ]] a
 - ㄏ : [[ㄏㄧㄨ]], [[ㄏㄧㄨㄨ]], [[ㄏㄧㄨㄆ]], [[ㄏㄧㄨㄊ]], [[ㄏㄧㄨㄎ]], [[ㄏㄧㄨㄇ]], [[ㄏㄧㄨㄋ]], [[ㄏㄧㄨㄥ]]
 
 ## Foreign vowel
-ㄅㄜ, ㄆㄜ, ㄇㄜ, ㄉㄜ, ㄊㄜ, ㄋㄜ, ㄌㄜ, ㄐㄜ, ㄑㄜ, ㄙㄜ, ㄍㄜ, ㄎㄜ, ·ㄜ, and ㄏㄜ are all possible when transcribing foreign words.
+ㄅㄜ, ㄆㄜ, ㄇㄜ, ㄉㄜ, ㄊㄜ, ㄋㄜ, ㄌㄜ, ㄐㄜ, ㄑㄜ, ㄙㄜ, ㄍㄜ, ㄎㄜ, ㄜ, and ㄏㄜ are all possible when transcribing foreign words.
