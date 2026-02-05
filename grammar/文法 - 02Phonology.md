@@ -56,7 +56,7 @@ For Vietnamese speakers （越南語話者）, certain features of native pronun
 
 To maintain clear syllable divisions （音節分界）, especially in morphophonological contexts （形態音韻論的環境）, speakers may insert a **glottal stop** /ʔ/ （声門閉鎖音） at the beginning of syllables with a null onset （無声母音節）.
 
-However, in practice most words （語） are intelligible without this insertion （挿入不要）. For example, forms such as 児児 （児児） or 異音 （異音） are normally distinct enough in context （文脈上明瞭） and do not require a glottal onset.
+However, in practice most words （語） are intelligible without this epenthesis （挿入不要）. For example, forms such as 児児 or 異音 are normally distinct enough in context （文脈上明瞭） and do not require a glottal onset.
 
 Thus **vowel hiatus** （母音連続） is permitted in Dan’a’yo, as long as the surrounding context provides clarity （文脈理解可）. This mirrors practices in many East Asian languages, where it is tolerated.
 
@@ -68,13 +68,13 @@ Speakers of Mandarin （漢語話者） must adjust to **simple cardinal vowels*
 
 |                | Front （前舌）     | Central （中舌）    | Back （後舌）      |
 |----------------|--------------------|---------------------|--------------------|
-| **High （高母音）** | i `/i ~ ɪ/`         |                     | u `/u ~ ʊ/`        |
-| **Mid （中母音）**  | e `/e ~ ɛ/`         |                     | o `/o ~ ɔ/`        |
-| **Low （低母音）**  |                    | a `/a ~ ä ~ ɑ/`    |                    |
+| **High （高母音）** | ㄧ `/i ~ ɪ/`         |                     | ㄨ `/u ~ ʊ/`        |
+| **Mid （中母音）**  | ㄝ `/e ~ ɛ/`         |                     | ㄛ `/o ~ ɔ/`        |
+| **Low （低母音）**  |                    | ㄚ `/a ~ ä ~ ɑ/`    |                    |
 
 ### Long Vowels （長母音）
 
-Two so-called **long vowels** （長母音） are possible in the Dan’a’yo syllable structure （単亜語音節構造）: _ii_ and _uu_. Because not all hearers （聴取者） can reliably distinguish vowel length （母音長短）, speakers must indicate an **off-glide** （後続滑音） in some manner （方法不定）.
+Two so-called **long vowels** （長母音） are possible in the Dan’a’yo syllable structure （単亜語音節構造）: ㄧㄧ and ㄨㄨ. Because not all hearers （聴取者） can reliably distinguish vowel length （母音長短）, speakers must indicate an **off-glide** （後続滑音） in some manner （方法不定）.
 
 The exact realization is not fixed （具体音価非限定）. For example, _ii_ may be pronounced as /iɪ/, /iə/, or /iɨ/, while _uu_ may be realized as /uʊ/, /uɔ/, or /uə/. All of these are acceptable variants （容認異音）.
 
@@ -88,20 +88,20 @@ Different languages of Asia （東亜諸語） supply different **epenthetic vow
 - Vietnamese （越南語） inserts /ə/ （中央母音）.    
 - Cantonese （広東語） inserts /ʊ/ （後舌狭母音）.    
 
-In the Latin orthography （羅馬字表記）, epenthetic vowels are written as **ǔ** （ǔ母音） to distinguish them from the normal vowel _u_ （母音u）. In the Hangul orthography （諺文表記）, they are written as **으**.
+In the Latin orthography （羅馬字表記）, epenthetic vowels are written as **ǝ** （ǔ母音） to distinguish them from the normal vowel _e_ （母音）. In the Bopomofo orthography （諺文表記）, they are written as **ㄜ**.
 
 The transcription of foreign words （外来語転写） should follow Dan’a’yo phonotactics （単亜語音素結合法）, breaking up consonant clusters as necessary （子音群分割）.
 
 For example:
-- _Bach_ → 바흐    
-- _bibimbap_ （비빔밥） remains unchanged.    
-- _katto_ （カット） → 칻토.
+- _Bach_ → ㄅㄚㄏㄜ    
+- _bibimbap_  ㄅㄧㄅㄧㄇㄅㄚㄆ    
+- _natto_  → ㄋㄚㄊㄊㄛ.
 
 ## Phonotactics （音素結合規則）
 
 The basic syllable structure of Dan’a’yo （単亜語音節構造） follows a **CV pattern** （子音＋母音） with several optional elements. An onset （声母） is normally required, though a null onset （無声母） is also possible. After the onset, an optional **on-glide** （介音） (y, w) may appear. The nucleus （核母音） is one of the five vowels （母音: i, e, a, o, u）. The coda or final （韻尾） may be absent, or may consist of a nasal （鼻音: m, n, ŋ）, a high vowel off-glide （高母音後続: i, u）, or an unreleased voiceless stop （無放出清塞音: p, t, k）.
 
-Thus the maximal syllable template （最大音節式） is **C(G)V(C)**, where G = glide and C = consonant. This system is broadly comparable to other East Asian languages （東亜諸語） but intentionally inclusive （包摂的） of both Chinese-style finals （漢語韻尾） and Korean-style codas （韓国語語末子音）.
+Thus the maximal syllable template （最大音節式） is **(C)(G)V(C)**, where G = glide and C = consonant. This system is broadly comparable to other East Asian languages （東亜諸語） but intentionally inclusive （包摂的） of both Chinese-style finals （漢語韻尾） and Korean-style codas （韓国語語末子音）.
 
 ### Figure 2.3: Dan’a’yo Syllable Structure （単亜語音節構造）
 
@@ -110,7 +110,7 @@ Thus the maximal syllable template （最大音節式） is **C(G)V(C)**, where 
 | **Onset （声母）**        | m, n, s, h, l, ∅, p, t, c, k, b, d, j, g |
 | **On-Glide （介音, 任意）** | y, w, ∅                                   |
 | **Vowel （母音）**        | i, e, a, o, u                            |
-| **Final （韻尾, 任意）**   | m, n, ng, u, i, p, t, k, ∅                |
+| **Final （韻尾, 任意）**   | m, n, ŋ, u, i, p, t, k, ∅                |
 ### Velar Nasal （軟口蓋鼻音）
 
 The velar nasal /ŋ/ （軟口蓋鼻音） is permitted in **syllable-final position** （音節末） but does not occur in **syllable-initial position** （音節頭）.
@@ -136,7 +136,7 @@ Because many speakers （話者） find coda consonants （語末子音） diffi
 
 Therefore, no **sandhi** （連声） or cross-syllable assimilation （音節間同化） is permitted. Each syllable remains independent （音節独立）.
 
-Care must be taken to avoid forms like _ningan_ /닌간/, where a velar nasal /ŋ/ （軟口蓋鼻音） could create ambiguity. The rule is absolute: there should be no influence of one syllable upon another （音節相互影響禁止）.
+Care must be taken to avoid forms like _ningan_ ㄋㄧㄋㄍㄚㄋ, where a velar nasal /ŋ/ （軟口蓋鼻音） alter meaning. The rule is absolute: there should be no influence of one syllable upon another （音節相互影響禁止）.
 
 ## Intonation and Prosody （声調・韻律）
 
@@ -144,9 +144,9 @@ Because lexical tone （声調） is not present in all East Asian languages （
 
 Dan’a’yo employs **pitch-accent** （高低アクセント） as a prosodic aid for word separation （語境界の区別）. Pitch-accent (高低アクセント) refers to the relative height of syllables across a phrase, rather than lexical tone.  Pitch is realized at the phrase or sentence level （句・文単位）, and no minimal pairs of words exist based on pitch alone （音位的対立なし）. For example:
 
-- 大学生 _대학상_ “big student” → pitch **H HL** （高→下降）
+- <ruby>大<rt>ㄉㄚㄧ</rt></ruby><ruby>学生<rt>ㄏㄚㄎㄙㄚㄥ</rt></ruby> “big student” → pitch **H HL** （高→下降）
     
-- 大学生  _대 학상_“college student” → pitch **HLL** （高→下降→低）
+- <ruby>大学生<rt>ㄉㄚㄧㄏㄚㄎㄙㄚㄥ</rt></ruby> “college student” → pitch **HLL** （高→下降→低）
     
 
 ### Principles of Pitch （高低原則）

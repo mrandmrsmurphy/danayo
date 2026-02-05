@@ -12,7 +12,7 @@
 >Thus **【覧昭和決】** stands as a Classical reminder that the authority for the _look_ of Dan’a’yo （字形権威） is derived from the Shōwa reforms.
 
 # 文字法
-Dan’a’yo （単亜語） is written with Shinjitai （新字体） Chinese characters （漢字）.  Above each character appears a phonetic transcription （音訓標） in Korean letters （諺文）, set in the style of ruby glosses （振り仮名法）.  The pronunciation （発音） of each character is derived in regular fashion （規則的） from Middle Chinese （中古漢語）.  This derivation aims to stand at equal distance （均衡） from the modern pronunciations （近代諸音）, yet it shows a marked bias （偏重） toward Middle Korean （中古韓語）.  In principle, the character form （文字） and the alphabetic form （字母） hold equal weight （並立）.  Yet, within restrictive media （制約媒介）, one form may prevail （偏勝） over the other.
+Dan’a’yo （単亜語） is written with Shinjitai （新字体） Chinese characters （漢字）.  Above each character appears a phonetic transcription （音訓標） in Bopomofo letters , set in the style of ruby glosses （振り仮名法）.  The pronunciation （発音） of each character is derived in regular fashion （規則的） from Middle Chinese （中古漢語）.  This derivation aims to stand at equal distance （均衡） from the modern pronunciations （近代諸音）, yet it shows a marked bias （偏重） toward Middle Korean （中古韓語）.  In principle, the character form （文字） and the alphabetic form （字母） hold equal weight （並立）.  Yet, within restrictive media （制約媒介）, one form may prevail （偏勝） over the other.
 
 ## Rubrics （文字規範）
 
@@ -47,7 +47,7 @@ In Dan’a’yo （単亜語） these are divided into six categories （六類�
 ### Common Characters （常用字）
 **【日用必備】 Daily Use, Always Needed**
 
-About two thousand characters （二千字） are classed as common characters （常用字）.  They form the basic building blocks （基礎要素） of the language.  They are usable everywhere （遍用） without explanation or limitation （無制限）. This body of characters defines the volume necessary for fluency （通達必要量） in Dan’a’yo （単亜語）.  It is subdivided into six graded sets （六級） called educational characters （教育漢字）.  These graded sets facilitate learning by newcomers （初心学習）.  Outside of textbooks （教科書） and children’s literature （児童文献）, the divisions are not recognized （不施行）.
+About two thousand characters （二千字） are classed as common characters （常用字）.  They form the basic building blocks （基礎要素） of the language.  They are usable everywhere （遍用） without explanation or limitation （無制限）. This body of characters defines the volume necessary for fluency （通達必要量） in Dan’a’yo （単亜語）.  It is subdivided into six graded sets （六級） called educational characters （教育漢字）.  These graded sets facilitate learning by newcomers （初心学習）.  Outside of textbooks （教科書） and children’s literature （児童文献）, the six-fold divisions are not recognized （不施行）.
 
 ### Advanced Characters （先進字）
 Advanced characters （先進字） are drawn from literary sources （文献） and difficult words （難語） beyond the two thousand common characters （常用字）.  In ordinary Dan’a’yo texts （単亜語文）, such characters must be introduced （提示） and defined （釈義）.  This requirement may be set aside （省略） when the audience is not general （非普遍読者）.  An advanced character may be reclassified （転類） as a naming character （名字字） when used in a proper name （姓名） or species designation （物種名）.
@@ -66,7 +66,7 @@ Nearly every Chinese character （漢字） has been written in multiple ways �
 
 This system sometimes produces striking results （奇観）.  Obscure characters that are homophones or near-homophones （同音字） of common characters （常用字） may be reclassified as variants （転属）.  This removes the statistical “long tail” （冗尾） of ultra-rare characters （稀字）.
 
-For example, the phrase **魑魅魍魎** is visually impressive （観之壮）.  Yet the last two characters, 魍 and 魎, have almost no independent usage （孤用）.  By fiat （擬制）, Dan’a’yo declares 魍 a variant of 罔, and 魎 a variant of 両.  These two are in fact components of the originals （構件）.  Thus the idiom now appears as **魑魅罔両**, equally expressive but more economical （簡而存義）.
+For example, the phrase **魑魅魍魎** is visually impressive （観之壮）.  Yet the last two characters, 魍 and 魎, have almost no independent usage （孤用）.  By fiat （擬制）, Dan’a’yo declares 魍 a variant of 罔, and 魎 a variant of 両.  These two are in fact components of the originals （構件）.  Thus the idiom therefore appears as **魑魅罔両**, equally expressive but more economical （簡而存義）.
 
 ### Unclassified Characters （無類字）
 Unclassified characters （無類字） lie outside all lists （諸表外）.  They are too rare （稀少） to be assigned a category （不可分類）.  They appear only in dictionaries （字書） or historical records （古録）.
@@ -78,11 +78,11 @@ The pronunciation system of Dan’a’yo （単亜語） is based on Middle Chin
 Consensus reconstructions （通説） are followed in general.
 
 A rule-of-thumb table for initials （声母） and finals （韻母） is given in Appendix B （附録乙）.  
-From these rules, each character receives a systematic pronunciation （規則的音）.  When the resulting syllable would be overfull （過繁）, adjustments are made （調整）.  For example, the character 殆 would yield _dai_, but Dan’a’yo follows the Cantonese form _doi_ to avoid excess.
+From these rules, each character receives a systematic pronunciation （規則的音）.  When the resulting syllable would be overfull （過繁）, adjustments are made （調整）.  For example, the character 殆 would yield ㄉㄚㄧ, but Dan’a’yo follows the Cantonese form _doi_ to avoid excess homophony.
 
-Korean influence also guided certain choices （韓音所助）.  Many historical _si_ syllables （詞） became _sa_ in Dan’a’yo, reflecting Middle Korean shifts （中古韓語変化）.
+Korean influence also guided certain choices （韓音所助）.  Many historical ㄙㄧ syllables （詞） became ㄙㄚ in Dan’a’yo, reflecting Middle Korean shifts （中古韓語変化）.
 
-Occasionally, rare characters were selected solely for their sound value （以音取字）.  For example, 耽 is used to supply _dom_.  In some cases, inspiration came from unusual Vietnamese readings （越音異読）.  Thus 𦚖 provides the syllable _mop_, otherwise unattested.
+Occasionally, rare characters were selected solely for their sound value （以音取字）.  For example, 耽 is used to supply ㄉㄛㄇ.  In some cases, inspiration came from unusual Vietnamese readings （越音異読）.  Thus 𦚖 provides the syllable ㄇㄛㄆ, otherwise unattested.
 
 Through such measures, Dan’a’yo establishes a balanced and functional sound system （均衡而可用之音系）.
 
@@ -98,10 +98,12 @@ Over the last century （近百年）, many reforms of Chinese characters （文
     The Shinjitai **円** is closely associated with currency （通貨） and is not used for the geometric sense.    
 - **弗部の整序**  
     Dan’a’yo regularizes the 弗 component （弗部）: write **佛** not 仏, and **拂** not 払.    
-- **[[桌]] / [[卓]]**      These are distinguished to preserve **【毎字明意】**（一字一義）.    
-- **干 / 乾**      **干** “desiccate; interfere” and **乾** “heavenly; Qian-trigram” remain distinct.
+- **[[桌]] / [[卓]]**      
+	- These are distinguished to preserve **【毎字明意】**（一字一義）.    
+- **干 / 乾** 
+	- **干** “desiccate; interfere” and **乾** “heavenly; Qian-trigram” remain distinct.
 - **果 / 菓**  
-    These are **conflated** as in Chinese usage; **菓** is treated under **果**.
+    These are **conflated** as in Chinese usage; **菓** is treated as a variant of **果**.
 - **貳 / 弍**  
     Standard form is **貳**.  
     **弍** is avoided due to proximity to **弌／弎**.
