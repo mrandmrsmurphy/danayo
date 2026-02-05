@@ -25,4 +25,5 @@ Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
 - [[殺姦窃偽]] - murder, adultery, theft, lying ✅
 - [[荊棘荻蓬]] - thorns and thistles ✅
 - [[愛隣如自]] - love your neighbor as yourself ✅
-- 
+- [[多召少選]] - many are called, few are chosen ✅
+- [[生機勃勃]] - resurrection life ✅

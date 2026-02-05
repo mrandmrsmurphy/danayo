@@ -7,6 +7,7 @@ views:
     order:
       - file.name
       - characters
+      - 注音
       - 韓文
       - english
       - mandarin
@@ -26,8 +27,8 @@ views:
     columnSize:
       file.name: 86
       note.characters: 184
-      note.韓文: 89
-      note.english: 296
+      note.韓文: 69
+      note.english: 204
       note.mandarin: 166
       note.cantonese: 158
       note.japanese: 125
