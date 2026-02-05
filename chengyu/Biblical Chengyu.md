@@ -24,4 +24,5 @@ Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
 - [[六作一止]] - six days of labor, one of rest ✅
 - [[殺姦窃偽]] - murder, adultery, theft, lying ✅
 - [[荊棘荻蓬]] - thorns and thistles ✅
+- [[愛隣如自]] - love your neighbor as yourself ✅
 - 
