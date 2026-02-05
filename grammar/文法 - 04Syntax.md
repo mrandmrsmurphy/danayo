@@ -17,15 +17,15 @@ Dan'a'yo has significantly different grammars for its three different modes of u
 ### 古雅体 (Classical Style)
 **【[[先題後述]]】**
 
-古雅体 is the most concise and elevated mode of Dan’a’yo. It deliberately echoes the terseness of Classical Chinese, omitting copulas and particles whenever possible and favoring compact topic–comment phrasing. In this mode, composition often employs **kanji only**, without ruby, in imitation of the ancient standard. Such writing is especially suited to **poetry and aphorism**, where brevity and resonance are prized.
+古雅体 is the most concise and elevated mode of Dan’a’yo. It deliberately echoes the terseness of Classical Chinese, omitting copulas and particles whenever possible and favoring compact topic–comment phrasing. In this mode, composition often employs **hanji only**, without ruby, in imitation of the ancient standard. Such writing is especially suited to **poetry and aphorism**, where brevity and resonance are prized.
 
-At the same time, 古雅体 admits a second face: the **訓読古雅** mode. Here, Dan’a’yo functions as a _kanbun-style overlay_ upon authentic Classical Chinese texts. The base text remains in its original literary form, while hangul ruby provides syntactic guidance, recasting the clauses into Dan’a’yo grammar. (Apparati exist to decorate CC text in ways that allow emendation of additional characters, modified word-order, and phonetic transcription.) This dual function allows 古雅体 both to **generate new compositions in a venerable style** and to **interpret the classical canon within a modern IAL framework**.
+At the same time, 古雅体 admits a second face: the **訓読古雅** mode. Here, Dan’a’yo functions as a _kanbun-style overlay_ upon authentic Classical Chinese texts. The base text remains in its original literary form, while ruby provides syntactic guidance, recasting the clauses into Dan’a’yo grammar. (Apparati exist to decorate CC text in ways that allow emendation of additional characters, modified word-order, and phonetic transcription.) This dual function allows 古雅体 both to **generate new compositions in a venerable style** and to **interpret the classical canon within a modern IAL framework**.
 
 Thus 古雅体 is not merely an archaizing affectation, but a **living bridge**: it connects Dan’a’yo to the deep textual heritage of the Sinosphere while enabling its speakers to engage directly with those texts.
 
 ### 網語体 (Online Style)
 
-網語体 is the **fastest and most economical mode** of Dan’a’yo. It reflects the realities of digital communication, where technical constraints or platform norms may restrict writing to **hangul only** (most common) or, more rarely, to **kanji only**.
+網語体 is the **fastest and most economical mode** of Dan’a’yo. It reflects the realities of digital communication, where technical constraints or platform norms may restrict writing to **bopomofo only** (most common) or, more rarely, to **hanji only**.
 
 In this mode, **subject–verb–object order dominates**. The older topic–comment structure is rarely used, since clarity depends on the immediacy of SVO sequencing. **Grammatical particles**—case markers, connectives, and even copulas—are dropped wherever context makes their function obvious. The result is a clipped, elliptical style that maximizes **speed of input** and **ease of recognition** on small screens.
 
@@ -36,23 +36,21 @@ Thus 網語体 is not careless but **context-driven**, relying on shared knowled
 ### 書面体 (Literary Style)
 
 >[!tip]
->The guiding maxim for the orthography of 書面体 is **【[[文音共決]]】** (“Script and sound resolved together”). This motto affirms that **kanji and hangul must appear together** in Literary mode: the written form (文) provides semantic precision, while the phonetic gloss (音) guarantees accessibility.
+>The guiding maxim for the orthography of 書面体 is **【[[文音共決]]】** (“Script and sound resolved together”). This motto affirms that **hanji and bopomofo must appear together** in Literary mode: the written form (文) provides semantic precision, while the phonetic gloss (音) guarantees accessibility.
 >
 > Two principles flow from this maxim:
 >
 >1. **文以定義** — script clarifies meaning, preserving the depth and authority of the Han tradition.    
 >2. **音以達読** — sound ensures readability, allowing all learners to pronounce and understand without ambiguity.    
 >
->Thus **【文音共決】** enshrines the policy of dual orthography in Literary Dan’a’yo: **neither kanji nor ruby stands alone**, but both together secure the clarity and reach of the language.
+>Thus **【文音共決】** enshrines the policy of dual orthography in Literary Dan’a’yo: **neither hanji nor ruby stands alone**, but both together secure the clarity and reach of the language.
 
 書面体 is the **standard and authoritative mode** of Dan’a’yo, designed for clarity, precision, and mutual intelligibility across the CJKV sphere. Where 古雅体 is compact and 網語体 is clipped, 書面体 is **fully explicit**. It preserves the elegance of the classical tradition while adapting it to the expectations of modern grammar.
 
 Key features include:
 
-1. **Copular constructions.** When both topic and comment are **名詞**, a copula (是/非) is required. E.g. _我 是魚_ “I am a fish.”
-    
+1. **Copular constructions.** When both topic and comment are **名詞**, a copula (是/非) is required. E.g. <ruby>我<rt>ㄚ</rt></ruby> <ruby>是魚<rt>ㄙㄝㄧㄛ</rt></ruby>。 “I am a fish.”
 2. **Nominalization.** When **評詞 (verbs)** or **性詞 (statives)** serve as topics, they must be **nominalized** with -事 or -物. E.g. _保持事 平常_ “Maintaining is common.”
-    
 3. **Verbal completeness.** 評詞 are considered **incomplete without an object**; a transitive verb must show its argument. Ellipsis is far less tolerated here than in other modes.
     
 4. **TAM marking.** Tense–aspect–mood suffixes such as -已 (perfective), -中 (progressive), and -将 (prospective) are not optional; they are **highly encouraged** and regularly employed.
