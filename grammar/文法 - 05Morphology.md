@@ -157,9 +157,7 @@ A similar form, the preposition **可以** （許可詞）, marks **permission**
 
 
 ### Passive Voice （受動態）
-
 The verbal prefix **被–** marks the **passive voice** （受動態）.
-
 - It may only attach to **評詞** （評価詞, transitive verbs）.    
 - The former subject （旧主語） may be reintroduced with an adverbial phrase marked by **–以** （以副詞句）.
 
@@ -177,7 +175,6 @@ The verbal prefix **被–** marks the **passive voice** （受動態）.
 > **【修飾先行】** ensures structural predictability: whether in nominal or verbal domains, modifiers guide the reader’s expectations before the head word appears.
 
 ### Adnominals and the Particle 之 （連体修飾・之）
-
 The particle **之** （属格詞） is used in Dan’a’yo to link **modifying clauses** （連体節） to their head noun （被修飾名詞）. It functions as an **adnominal marker** （連体標識）. This is inherited from Classical Chinese （文言） but applied more systematically （規則化）.
 
 #### Basic Pattern （基本構造）
@@ -202,7 +199,6 @@ The particle **之** （属格詞） is used in Dan’a’yo to link **modifying
     - Object: 男人捕已之魚 “the fish which the man had caught.”        
 
 #### Commentary （解説）
-
 - In **Classical Chinese** （文言）, the particle 之 was often omitted if context allowed. Dan’a’yo requires it systematically （之常用）, to prevent ambiguity.    
 - The structure parallels **Japanese** (の/〜た + 名詞) and **Korean** (관형사형 어미 + 명사), but in Dan’a’yo the marker is **always 之**, regardless of tense or aspect.    
 - This makes Dan’a’yo adnominals simpler （簡潔） but also more rigid （硬直的） than J/K.    
@@ -270,7 +266,6 @@ Examples:
 - 白白 = “as white as possible” (extremely white).    
 - 正正 = “utterly correct!”    
 - 小小 = “so tiny!”    
-
 In speech, this often conveys the **speaker’s reaction or feeling**.
 
 ## 等級法 (Degrees of Comparison)

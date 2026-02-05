@@ -3,7 +3,6 @@
 The guiding maxim for pragmatics and stylistic breadth in Dan’a’yo is **【[[百家共承]]】** (“All schools jointly inherited”). This motto reflects the language’s deliberate openness: the lexicon and registers of Dan’a’yo are drawn from the full range of East Asian tradition and modernity alike.
 
 Two principles flow from this maxim:
-
 1. **詞彙兼容** — lexical inclusivity, welcoming terms from every school of thought and every cultural source.    
 2. **文体並存** — stylistic coexistence, allowing classical elegance, formal clarity, and modern brevity to share one framework.    
 
