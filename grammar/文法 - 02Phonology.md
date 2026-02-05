@@ -1,10 +1,10 @@
 < [[単亜語之文法書 Grammar]]
 >[!Tip]
-> The guiding maxim for Dan’a’yo phonology is **【[[朝鮮正音]]】** (“Joseon standardizes the sounds”). This phrase recalls the title **訓民正音** （訓民正音, “Correct Sounds for the Instruction of the People”）, the proclamation of King Sejong （世宗大王, 朝鮮王朝） in 1446 that introduced Hangŭl （諺文）. Just as Hunminjeongeum established a clear and accessible system of writing （正音体系） for the Korean language （韓国語）, Dan’a’yo （単亜語） adopts Hangŭl as the authoritative script for phonology （音韻文字）.
+> The guiding maxim for Dan’a’yo phonology is **【[[朝鮮正音]]】** (“Joseon standardizes the sounds”). This phrase recalls the title **訓民正音** （訓民正音, “Correct Sounds for the Instruction of the People”）, the proclamation of King Sejong （世宗大王, 朝鮮王朝） in 1446 that introduced Hangŭl （諺文）. Just as Hunminjeongeum established a clear and accessible system of writing （正音体系） for the Korean language （韓国語）, Dan’a’yo （単亜語） adopts Bopomofo as the authoritative script for phonology （音韻文字）.
 > 
 > The motto emphasizes two principles:
-> 1. **Old Korean phonology as the reference point** （韓国音韻基準） — for example, 어 is standardized as /e/ rather than /ʌ̹/.    
-> 2. **Hangŭl as the phonological script** （諺文表記） — ensuring that every sound in Dan’a’yo is represented with clarity and precision （明確・精密）.   
+> 1. **Old Korean phonology as the reference point** （韓国音韻基準） — back when 어 meant /e/ rather than /ʌ̹/.    
+> 2. **Bopomofo as the phonological script**  — ensuring that every sound in Dan’a’yo is represented with clarity and precision （明確・精密）.   
 >
 > Thus **【朝鮮正音】** stands as a Classical reminder that the authority for pronunciation （発音権威） lies with the Korean tradition, continuing the legacy of King Sejong’s reforms.
 
@@ -20,11 +20,11 @@ Phonotactic structure （音素結合規則） also varies across the region. So
 
 |                               | Labial （唇音） | Alveolar （歯茎音） | Palatal （硬口蓋音） | Dorsal （舌背音） |
 | ----------------------------- | ----------- | -------------- | -------------- | ------------ |
-| **Nasal （鼻音）**                | m `/m/`     | n `/n/`        |                | ng `/ŋ/`     |
-| **Voiced Stop （濁塞音）**         | b `/b/`     | d `/d/`        | j `/ʥ/`        | g `/g/`      |
-| **Aspirated Stop （送気塞音）**     | p `/pʰ/`    | t `/tʰ/`       | c `/cʰ/`       | k `/kʰ/`     |
-| **Fricative （摩擦音）**           |             | s `/s ~ ɕ/`    |                | h `/x ~ h/`  |
-| **Approximant/Flap （接近音／弾音）** | w `/w/`     | l `/l ~ ɾ/`    | y `/j/`        |              |
+| **Nasal （鼻音）**                | ㄇ `/m/`     | ㄋ `/n/`        |                | ㄥ `/ŋ/`     |
+| **Voiced Stop （濁塞音）**         | ㄅ `/b/`     | ㄉ `/d/`        | ㄐ `/ʥ/`        | ㄍ `/g/`      |
+| **Aspirated Stop （送気塞音）**     | ㄆ `/pʰ/`    | ㄊ `/tʰ/`       | ㄑ `/cʰ/`       | ㄎ `/kʰ/`     |
+| **Fricative （摩擦音）**           |             | ㄙ `/s ~ ɕ/`    |                | ㄏ `/x ~ h/`  |
+| **Approximant/Flap （接近音／弾音）** | ㄨ `/w/`     | ㄌ `/l ~ ɾ/`    | ㄧ `/j/`        |              |
 Dan’a’yo consonants （単亜語子音） are organized by **four places of articulation** （四部位） and **five manners of articulation** （五調音法）. Consonants may be **labial** （唇音）, **alveolar** （歯茎音）, **palatal** （硬口蓋音）, or **dorsal** （舌背音）. They may be **nasals** （鼻音）, **voiced stops** （濁塞音）, **aspirated stops** （送気塞音）, **fricatives** （摩擦音）, or **approximants/flaps** （接近音／弾音）. The complete inventory is shown in Figure 2.1 （図2.1）.
 
 A high degree of variance （異音差） is tolerated among the “dialects” （方言） influenced by each source language （原言語）. The phoneme /x/ （無声音摩擦音） is often realized as /h/ （声門摩擦音） for non-Chinese speakers （非漢語話者）. Outside of Japanese （日本語以外）, speakers may de-aspirate stops （塞音非送気化） but not consistently voice them （有声化不安定）. Japanese speakers （日本語話者） show the opposite tendency, sometimes failing to aspirate strongly enough （送気不十分）. Despite these differences, all realizations are mutually recognizable （相互理解可能） across the region.
@@ -32,7 +32,7 @@ A high degree of variance （異音差） is tolerated among the “dialects” 
 
 The phoneme /s/ （無声音歯擦音） undergoes **palatalization** （硬口蓋化） to /ɕ/ （硬口蓋擦音） before the high front vowel /i/ （前舌高母音） or the glide /j/ （半母音）. This process is widely found in Asian languages （東亜諸語） and is not considered phonemic （非音位的過程） in Dan’a’yo.
 
-Speakers of Chinese （漢語話者） often extend this change to syllables beginning with **sw-** （sw音節）, producing a palatalized onset （硬口蓋化音頭）. This extension is optional but encouraged （推奨） for speakers who are able to perform it.
+Speakers of Chinese （漢語話者） often extend this change to syllables beginning with **sw-** （sw音節）, producing a retroflex onset （硬口蓋化音頭）. This extension is optional but should be recognizable for speakers of Dan'a'yo.
 ### Palatals （硬口蓋音）
 
 The palatal stops （硬口蓋塞音） may also be realized as **post-alveolar affricates** （後部歯茎破擦音） without restriction （自由異音）.

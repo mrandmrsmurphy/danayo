@@ -4,11 +4,11 @@
 【[[合漢再決]]】
 ## Historical Background （歴史的背景）
 
-The languages of East Asia （[[東亜]]諸語） share a common cultural and linguistic foundation （[[文化]]的基盤・[[言語]]的基盤）. For many centuries the Civil Service Examination （<ruby>[[科挙]]<rt>콰교</rt></ruby>） defined literacy （[[識字]]） and scholarship （[[学問]]） throughout the region. It unified intellectual life around the grammar of Middle Chinese （[[中古]][[漢語]][[文法]]） and a fixed corpus of classical texts （[[古典]][[文献]]）. In this way, the separate structures of four language families — Sino-Tibetan （漢蔵語族）, Japonic （[[日本]][[語族]]）, Koreanic （[[朝鮮]][[語族]]）, and Austroasiatic （[[南亜]]語族） — were set aside, as generations of scholars （学者） assimilated a shared written standard.
+The languages of East Asia （[[東亜]]諸語） share a common cultural and linguistic foundation （[[文化]]的基盤・[[言語]]的基盤）. For many centuries the Civil Service Examination （<ruby>[[科挙]]<rt>ㄎㄨㄚㄍㄧㄛ</rt></ruby>） defined literacy （[[識字]]） and scholarship （[[学問]]） throughout the region. It unified intellectual life around the grammar of Middle Chinese （[[中古]][[漢語]][[文法]]） and a fixed corpus of classical texts （[[古典]][[文献]]）. In this way, the separate structures of four language families — Sino-Tibetan （漢蔵語族）, Japonic （[[日本]][[語族]]）, Koreanic （[[朝鮮]][[語族]]）, and Austroasiatic （[[南亜]]語族） — were set aside, as generations of scholars （学者） assimilated a shared written standard.
 
 Over time, however, this unity declined （統一衰退）. “Chinese” （漢語） diverged into Mandarin （[[普通話]]） and other regional vernaculars （[[方言]]）. Japan and Korea （日本・韓国） increasingly oriented themselves toward Europe （[[欧羅巴]]） rather than Beijing （[[北京]]）. In the present day, when Chinese, Japanese, Korean, and Vietnamese （[[中日韓越]]） delegates meet, they usually conduct discussion in English （[[英語]]）. Thus a region once linked by a common grammar （共通文法） now depends upon a foreign lingua franca （[[外来]][[共通語]]）, with inevitable losses of nuance and shared heritage.
 
-In Europe, Esperanto （[[世界語]]／어스퍼란토） has achieved some measure of success as an auxiliary language （補助語）. Its advantages come from three elements: regular grammar （規則的文法）, transparent vocabulary （[[容易]][[語彙]]）, and common cultural assumptions （共有文化的前提）. These principles — logic （[[論理]]） and shared culture （[[共有]]文化） — are also essential for East Asia. In a region where much of the common vocabulary is technical （[[専門]]語彙）, the need for systematic devices such as a correlative chart （[[対応]][[表]]） is even greater than in Europe.
+In Europe, Esperanto （[[世界語]]／<small>ㄝㄙㄜㄆㄝㄌㄚㄋㄊㄛ</small>） has achieved some measure of success as an auxiliary language （補助語）. Its advantages come from three elements: regular grammar （規則的文法）, transparent vocabulary （[[容易]][[語彙]]）, and common cultural assumptions （共有文化的前提）. These principles — logic （[[論理]]） and shared culture （[[共有]]文化） — are also essential for East Asia. In a region where much of the common vocabulary is technical （[[専門]]語彙）, the need for systematic devices such as a correlative chart （[[対応]][[表]]） is even greater than in Europe.
 
 Educational practices also reveal contrasts. In China （中国）, students are often told that grammar （文法） need only be studied for foreign languages （外国語）, not for Mandarin itself. In Japan （日本）, students spend years bridging the distance between Classical Chinese （漢文）, Old Japanese （[[上代]]日本語）, and Modern Japanese （現代日本語）. Korea （韓国／朝鮮）, historically, occupied an intermediate position （[[中間]][[位置]]）: geographically, phonetically, and grammatically between China and Japan.
 
@@ -34,17 +34,16 @@ In this respect, Dan’a’yo is comparable to **Ecclesiastical Latin** （[[教
 The design principle （設計指標） is straightforward. Any CJKV speaker （中日韓越話者） should be able to look at a text （文章） in Dan’a’yo and visually recognize （視認） or aurally recognize （聴取） more than half of its content. With only a little training （短期学習） or the aid of a simple reference sheet （対照表）, comprehension （理解度） should increase rapidly （急速上昇）.
 
 ## Brief Overview ([[概要]])
-Dan'a'yo sounds somewhat like older Korean.  It is written in Shinjitai Chinese characters, with hangǔl above as the phonological alphabet.  Grammar is somewhere between Classical topic-comment, and modern Japanese/Korean forced into SVO word-order.
+Dan'a'yo sounds somewhat like older Korean.  It is written in Shinjitai Chinese characters, with Bopomofo above as the phonological alphabet.  Grammar is somewhere between Classical topic-comment, and modern Japanese/Korean forced into SVO word-order.
 
 In **Dan’a’yo**, expression is shaped by two organizing principles: **three modes of style** and **three meta-parts of speech**.
 
 **Modes.**
 1. **Classical / Poetic** ([[古雅]][[体]]) — terse, topic–comment, copulas often omitted, written chiefly in kanji.
 2. **Literary / Normal** ([[書面]]体) — explicit and conservative, requires copulas and nominalizers where needed, always written with kanji plus ruby.    
-3. **Modern / Online** ([[網語]]体) — clipped and context-driven, often omitting particles, written primarily in hangul.
+3. **Modern / Online** ([[網語]]体) — clipped and context-driven, often omitting particles, written primarily in bopomofo.
 
 **Meta-parts of speech.**
-
 1. **Content words ([[実詞]])** — nouns, verbs, adjectives; any of these may serve as topic or comment.
 2. **Function words ([[助詞]])** — case markers, connectives, pronouns, aspect/degree markers, sentence-final particles.
 3. **Special words ([[特詞]])** — numerals, classifiers, determiners, interjections, ideophones; independent but never predicative.
