@@ -1,4 +1,4 @@
-This is the list of kanji required in Japanese grammar school.  For the other 1000+ characters, see [[Jōyō - Kōtō]].
+This is the list of <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> required in Japanese grammar school.  For the other 1000+ characters, see [[Jōyō - Kōtō]].
 
 The following prefecture names were added in 2017
 [[茨]] (Ibaraki), [[媛]] (Ehime), [[岡]] (Shizuoka, Okayama and Fukuoka), [[潟]] (Niigata), [[岐]] (Gifu), [[熊]] (Kumamoto), [[香]] (Kagawa), [[佐]] (Saga), [[埼]] (Saitama), [[埼|崎]] (Nagasaki and Miyazaki), [[滋]] (Shiga), [[鹿]] (Kagoshima), [[縄]] (Okinawa), [[井]] (Fukui), [[沖]] (Okinawa), [[栃]] (Tochigi), [[乃|奈]] (Kanagawa and Nara), [[梨]] (Yamanashi), [[坂|阪]] (Ōsaka), [[阜]] (Gifu)

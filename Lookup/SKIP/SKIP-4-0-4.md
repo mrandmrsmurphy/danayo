@@ -3,7 +3,7 @@ date-last-perfect: 2026-02-01
 ---
 > [[SKIP]] | [[SKIP-4|4]]
 
-This is the home page for SKIP characters of type 4-x-4.  These are hanji with a box-like or no pattern.
+This is the home page for SKIP characters of type 4-x-4.  These are <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> with a box-like or no pattern.
 
 
 1. [[SKIP-4-1-4]] - 一	 (radicals 丶, 丿, 亅 )

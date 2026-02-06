@@ -12,7 +12,7 @@
 - Registers: Classical vs. Literary vs. Modern (when to use, how speakers perceive)
 - Politeness strategies (borrowed from K/J traditions?)
 - Discourse particles (繋詞 like 矣, 哉, 乎)
-- Texting / internet speech conventions (dropping 之, dropping 於, Bopomofo-only style)
+- Texting / internet speech conventions (dropping 之, dropping 於, <ruby>注音符号<rt>ㄐㄨㄨㄇㄅㄨㄏㄚㄨ</rt></ruby>-only style)
 - Idiomatic Classical borrowings (set phrases)
 
 ### **Back Matter**

@@ -4,7 +4,7 @@ date-last-perfect: 2026-02-01
 
 [[SKIP]] : [[SKIP-4|4]]
 
-These are hanji with a top line, organized by stroke count -- which is the **middle** number of SKIP-4. There are no 10's, 11's, or 12's. No hanji are linked on this page.
+These are <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> with a top line, organized by stroke count -- which is the **middle** number of SKIP-4. There are no 10's, 11's, or 12's. No <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> are linked on this page.
 
 | [[SKIP-4-1-1]]                | [[SKIP-4-2-1]]                  | [[SKIP-4-3-1]]                              |
 |-------------------------------|---------------------------------|---------------------------------------------|

@@ -673,7 +673,7 @@ Here is the master list of all forbidden characters (355):
 - Class: 国字
 - SKIP: 2/6/76
 - 部首: 雨
-- Notes: Probably only ever a joke kanji!
+- Notes: Probably only ever a joke <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby>!
 
 #### 妛
 - 筆画: 7

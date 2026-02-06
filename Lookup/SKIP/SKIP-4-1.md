@@ -1,6 +1,6 @@
 > [[SKIP]] : [[SKIP-4]]
 
-These are all the hanji of 1 (one) stroke, whether that be a top line, bottom line, middle line, or otherwise.
+These are all the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> of 1 (one) stroke, whether that be a top line, bottom line, middle line, or otherwise.
 
 - [[SKIP-4-1-1]] is 乙
 - SKIP-4-1-2 does not exist
