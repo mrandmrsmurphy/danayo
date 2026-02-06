@@ -901,7 +901,7 @@ The following prefecture names were added in 2017
 899. [[忘]] : bō	wasu-reru	forget
 900. [[忠]] : chū	 	loyalty
 901. [[憲]] : ken	 	constitution
-902. [[我]] : ga	ware	ego
+902. [[我 (char)]] : ga	ware	ego
 903. [[批]] : hi	 	criticism
 904. [[担]] : tan	nina-u	shouldering
 905. [[拝]] : hai	oga-mu	worship
