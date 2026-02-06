@@ -42,11 +42,13 @@ aliases:
   - 𩇶
 注音: ㄚ
 swadesh: 1
+date-last-perfect: 2026-02-06
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 # Notes
-- Neither [[吾]] nor [[瓦]] are not used as pronoun, so this character takes their place.
-- A 會意, but what are the components?  
+- Neither [[吾]] nor [[瓦]] are not used as pronoun, so this character takes their place.  Pronounced [[ㄚ]].
+- A 會意, but what are the components?  Folk etymologies consider it a hand (手) holding a weapon (戈).  In all likelihood, the pieces are lost.
+- [[HSK Beginner]], [[Korean MS]], [[Jōyō - Kyōiku]], [[Grade 2]]
