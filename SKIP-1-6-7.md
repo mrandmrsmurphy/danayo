@@ -4,18 +4,18 @@
 - <ruby>[[続]]<rt>ㄙㄧㄛㄎ</rt></ruby> - continue
 - <ruby>[[絹]]<rt>ㄍㄨㄝㄋ</rt></ruby> - silk
 - <ruby>[[綏]]<rt>ㄙㄨㄧ</rt></ruby> - smooth
-- [[蛸]]
-- [[蜂]]
-- [[蜈]]
-- [[蛾]] 
-- [[艇]]
-- [[艀]]
+- <ruby>[[蜂]]<rt>ㄆㄛㄥ</rt></ruby> - bee/wasp
+- <ruby>[[蛾]]<rt>ㄚ</rt></ruby> - moth
+- <ruby>[[艇]]<rt>ㄉㄝㄥ</rt></ruby> - rowboat
 - [[粳]]
-- [[辟]]	
-- [[辞]]	
-- [[聘]]
-- [[肆]]
-*-* 絳 --> 降
+- <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel
+- <ruby>[[辞]]<rt>ㄑㄧ</rt></ruby> - verbal resignation
+- <ruby>[[聘]]<rt>ㄆㄧㄥ</rt></ruby> - betrothe
+- <ruby>[[肆]]<rt>ㄙㄧㄧ</rt></ruby> - to act bravenly
+* 艀 --> 孚
+* 蜈 --> 呉
+* 絳 --> 降
+* 蛸 --> 章魚
 * 粮-->糧
 * 糀-->樺
 * 蜍 --> 余
