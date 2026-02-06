@@ -1,5 +1,5 @@
-1. [[文法 - 序文]]
-2. [[/grammar/文法 - 02Phonology]]
+1. [[文法 - 01序文]]
+2. [[文法 - 02音韻論]]
 3. [[/grammar/文法 - 03Orthography]]
 4. [[/grammar/文法 - 04Syntax]]
 5. [[/grammar/文法 - 05Morphology]]
