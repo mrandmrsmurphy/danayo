@@ -3,18 +3,18 @@
 |  1  |        I        |  吾   |   我    |   我    |          私           |       吾 and 我        |               碎 tôi                |   <ruby>[[我]]<rt>ㄚ</rt></ruby>   |
 |  2  |      thou       |  汝   |   你    |   你    |          貴方          |          汝           |               伴 bạn                |   <ruby>[[君]]<rt>ㄍㄨㄋ</rt></ruby>   |
 |  3  |       he        |  伊   |   他    |   佢    |          彼           |          其           |             英𧘇 anh ấy             |  <ruby>[[其人]]<rt>ㄍㄧㄋㄧㄋ</rt></ruby>  |
-|  4  |       we        |  我   |   我們   |   我哋   |          私達          |          渠輩          |            眾碎 chúng tôi            |  <ruby>[[我等]]<rt>ㄚㄉㄛㄥ</rt></ruby>  |
-|  5  |       you       |  汝   |   你們   |   你哋   |         貴方達          |       汝等 or 汝輩       |             各伴 các bạn             |  <ruby>[[君等]]<rt>ㄍㄨㄋㄉㄛㄥ</rt></ruby>  |
-|  6  |      they       | 之,斯  |   他們   |   佢哋   |        彼等, 彼ら        |                      |                户họ                 | <ruby>[[其人等]]<rt>ㄍㄧㄋㄧㄋㄉㄛㄥ</rt></ruby> |
+|  4  |       we        |  我   |   我們   |   我哋   |          私達          |          渠輩          |            眾碎 chúng tôi            |  <ruby>[[我等]]<rt>ㄚㄉㄨㄥ</rt></ruby>  |
+|  5  |       you       |  汝   |   你們   |   你哋   |         貴方達          |       汝等 or 汝輩       |             各伴 các bạn             |  <ruby>[[君等]]<rt>ㄍㄨㄋㄉㄨㄥ</rt></ruby>  |
+|  6  |      they       | 之,斯  |   他們   |   佢哋   |        彼等, 彼ら        |                      |                户họ                 | <ruby>[[其人等]]<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby> |
 |  7  |      this       |  是   |   這    |   呢    |          此れ          |          此는          |               尼 này                |   <ruby>[[此]]<rt>ㄑㄝ</rt></ruby>   |
 |  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |   <ruby>[[其]]<rt>ㄍㄧ</rt></ruby>   |
 |     |       yon       |      |        |        |                      |          彼는          |                                    |   <ruby>[[彼]]<rt>ㄅㄧ</rt></ruby>   |
 |  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |  <ruby>[[此処]]<rt>ㄑㄝㄑㄛ</rt></ruby>  |
 | 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |  <ruby>[[其処]]<rt>ㄍㄧㄑㄛ</rt></ruby>  |
-|     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |  <ruby>[[彼処]]<rt>비초</rt></ruby>  |
-| 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                |   <ruby>[[誰]]<rt>셰</rt></ruby>   |
-| 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |   <ruby>[[何]]<rt>하</rt></ruby>   |
-| 13  |      where      |  何處  |   哪裡   |   邊度   |          何処          |        奚 or 焉        |               兜 đâu                |  <ruby>[[何処]]<rt>하초</rt></ruby>  |
+|     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |  <ruby>[[彼処]]<rt>ㄅㄧㄑㄛ</rt></ruby>  |
+| 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                |   <ruby>[[誰]]<rt>ㄙㄧㄝㄧ</rt></ruby>   |
+| 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |   <ruby>[[何]]<rt>ㄏㄚ</rt></ruby>   |
+| 13  |      where      |  何處  |   哪裡   |   邊度   |          何処          |        奚 or 焉        |               兜 đâu                |  <ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby>  |
 | 14  |      when       |  迨   |  甚麼時候  |   幾時   |          何時          |       曷 or 何時        |             欺芇 khi nào             |              何時 하시               |
 | 15  |       how       |  如何  |   如何   | 如何, 點樣 |          如何          |       焉 or 如何        |             替芇 thế nào             |              如何 뇨하              |
 | 16  |       not       |  不   |   不    | 唔係, 冇  |         ～ない          |          不           |              空 không               |               不 볻                |
@@ -29,17 +29,17 @@
 | 24  |      three      |  三   |   三    |   三    |          三つ          |          三           |               𠀧 ba                |              三 sam               |
 | 25  |      four       |  四   |   四    |   四    |          四つ          |          四           |               𦊚 bốn               |              四 sii               |
 | 26  |      five       |  五   |   五    |   五    |          五つ          |          五           |              𠄼 , 𠄻               |               五 'o               |
-|     |       six       |      |   六    |   六    |          六つ          |                      |               六 luk                |                                  |
-|     |      seven      |      |   七    |   七    |          七つ          |                      |               七 cit                |                                  |
-|     |      eight      |      |   八    |   八    |          八つ          |                      |               八 bat                |                                  |
-|     |      nine       |      |   九    |   九    |          九つ          |                      |               九 gyu                |                                  |
+|     |       six       |      |   六    |   六    |          六つ          |                      |       |        <ruby>[[六]]<rt>ㄌㄨㄎ</rt></ruby>                | 
+|     |      seven      |      |   七    |   七    |          七つ          |                      |       |        七 cit                | 
+|     |      eight      |      |   八    |   八    |          八つ          |                      |       |        八 bat                | 
+|     |      nine       |      |   九    |   九    |          九つ          |                      |       |        九 gyu                | 
 |     |       ten       |      |   十    |   十    |          十           |          十           |                                    |            一十 'itsip             |
-|     |     hundred     |      |   百    |   百    |          百           |                      |             一百 'itbak              |                                  |
-|     |    thousand     |      |   千    |   千    |          千           |                      |             一千 'itcen              |                                  |
-|     |  ten thousand   |      |   萬    |   萬    |          万           |                      |             一万 'itmon              |                                  |
+|     |     hundred     |      |   百    |   百    |          百           |                      |       |      一百 'itbak              |
+|     |    thousand     |      |   千    |   千    |          千           |                      |       |      一千 'itcen              |
+|     |  ten thousand   |      |   萬    |   萬    |          万           |                      |       |      一万 'itmon              |
 | 27  |       big       |  大   |   大    |   大    |         大きい          |       太 (클 태)        |             𡘯 lớn/to              |              太 dai               |
 | 28  |  long (length)  |  長   |   長    |   長    |          長い          |       長 (길 장)        |               𨱽 dài               |              長 jang              |
-|     |   long (time)   |      |   久    |        |                      |                      |               久 gyu                |                                  |
+|     |   long (time)   |      |   久    |        |                      |                      |         |      久 gyu                |
 | 29  |      wide       |  廣   |   寬    |   濶    |          広い          |       廣   , 寬        |              𢌌 rộng               |               広 광               |
 | 30  |   thick (1D)    |  敦   |   厚    |   厚    |          厚い          |          厚           |               𥻣dầy                |              厚 hou               |
 |     |   thick (2D)    |      |   粗    |        |                      |                      |              粗糙 jocau              |                                  |
@@ -162,9 +162,9 @@
 | 144 |      flow       |  流   |   流    |   流    |         流れる          |       流 (흐를 류)       |                                    |                                  |
 | 145 |     freeze      |      | 結冰 , 凍 |   結冰   |          凍る          |       凍 (얼 동)        |                                    |                                  |
 | 146 |      swell      |      |   膨脹   |   脹    |         膨らむ          |                      |                                    |                                  |
-| 147 |       sun       |  日   |   太陽   | 太陽, 日頭 |        日 ,太陽         |       太陽 (태양)        |            系𩈘𡗶 , 太陽系             |  <ruby>[[太陽]]<rt>태양</rt></ruby>  |
+| 147 |       sun       |  日   |   太陽   | 太陽, 日頭 |        日 ,太陽         |       太陽 (태양)        |            系𩈘𡗶 , 太陽系             |  <ruby>[[太陽]]<rt>ㄊㄚㄧㄧㄚㄥ</rt></ruby>  |
 | 148 |      moon       |  月   |   月亮   |   月亮   |          月           |       月 (달 월)        |           𩈘𫆢 mặt trăng           |                                  |
-| 149 |      star       |  星   |   星    |   星    |          星           |       星 (별 성)        |        行星 hành tinh, 𣇟 sao        |   <ruby>[[星]]<rt>성</rt></ruby>   |
+| 149 |      star       |  星   |   星    |   星    |          星           |       星 (별 성)        |        行星 hành tinh, 𣇟 sao        |   <ruby>[[星]]<rt>ㄙㄝㄥ</rt></ruby>   |
 | 150 |      water      |  水   |   水    |   水    |          水           |       水 (물 수)        |               渃nước                |                                  |
 | 151 |      rain       |  雨   |   雨    |   雨    |          雨           |       雨 (비 우)        |               𩅹mưa                |                                  |
 | 152 |      river      |      |   河    |  江, 河  |          川           |          江           |               滝sông                |                                  |
