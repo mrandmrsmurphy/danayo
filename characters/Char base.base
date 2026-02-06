@@ -7,6 +7,7 @@ views:
     order:
       - file.name
       - 韓文
+      - 注音
       - english
       - skip_number
       - stroke_count
@@ -18,7 +19,6 @@ views:
       - joyo_level
       - korean
       - vietnamese
-      - 注音
       - date-last-perfect
     sort:
       - property: 韓文

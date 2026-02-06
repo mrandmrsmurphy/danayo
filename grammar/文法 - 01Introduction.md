@@ -1,6 +1,5 @@
 > [[単亜語之文法書 Grammar]]
-# 叙文
-
+# [[叙文]]
 【[[合漢再決]]】
 ## Historical Background （歴史的背景）
 
