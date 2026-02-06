@@ -27,4 +27,4 @@
 - [[佼]] blend either with 交 or 狡
 - [[侭]] --> 尽
 
-~~侤~~ --> [[文法 - 98Forbidden Characters]]
+~~侤~~ --> [[文法 - 98違法字]]

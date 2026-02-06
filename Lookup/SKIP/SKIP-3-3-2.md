@@ -15,4 +15,4 @@
 - <ruby>[[目]]<rt>묵</rt></ruby>
 
 - 弍 is an ancient variant of 二
-辻 and 込 are both [[文法 - 98Forbidden Characters|forbidden]].
+辻 and 込 are both [[文法 - 98違法字|forbidden]].
