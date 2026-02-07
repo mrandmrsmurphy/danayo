@@ -1,35 +1,35 @@
 ---
 mandarin:
-- jiǔ
+  - jiǔ
 cantonese: gau2
 korean:
-- 구
+  - 구
 korean_native: 아홉
 japanese:
-- KYUU
-- KU
+  - KYUU
+  - KU
 japanese_nanori: いちじく,いちのく ,この ,ひさし
 vietnamese:
-- cửu
+  - cửu
 middle_chinese_initial: k
 middle_chinese_final: ɨu
-stroke_count: '2'
+stroke_count: 2
 radical: 乙
 skip_number: 4-2-4
-grade_level: 1
+grade_level: "1"
 pos: numeral
 english:
-- nine
-- '9'
+  - nine
+  - "9"
 羅馬字: kyu
-韓文: '[[큐]]'
-joyo_level: '1'
-hsk_level: '1'
+韓文: "[[큐]]"
+joyo_level: "1"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 4
 mc_id: 125
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: "TRUE"
 aliases:
 ---
 > This is the character 九.  For the word 'nine', see [[九]]

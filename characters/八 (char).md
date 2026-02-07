@@ -13,10 +13,10 @@ vietnamese:
   - bát
 middle_chinese_initial: p
 middle_chinese_final: ɣɛt
-stroke_count: "2"
+stroke_count: 2
 radical: 八
 skip_number: 1-1-1
-grade_level: 1
+grade_level: "1"
 pos: numeral
 english:
   - eight

@@ -21,10 +21,12 @@ views:
       - vietnamese
       - date-last-perfect
     sort:
+      - property: danayo_id
+        direction: ASC
+      - property: stroke_count
+        direction: ASC
       - property: 韓文
         direction: ASC
-      - property: danayo_id
-        direction: DESC
       - property: skip_number
         direction: DESC
       - property: japanese

@@ -13,10 +13,10 @@ vietnamese:
   - thất
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iɪt
-stroke_count: "2"
+stroke_count: 2
 radical: 一
 skip_number: 4-2-2
-grade_level: 1
+grade_level: "1"
 pos: numeral
 english:
   - seven
