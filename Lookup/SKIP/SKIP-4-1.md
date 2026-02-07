@@ -1,6 +1,9 @@
-> [[SKIP]] : [[SKIP-4]]
-
-These are all the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> of 1 (one) stroke, whether that be a top line, bottom line, middle line, or otherwise.
+---
+aliases:
+date-last-perfect: 2026-02-06
+---
+> [[SKIP]] : [[SKIP-4|4]]
+These are all the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> of 一 stroke, whether that be a top line, bottom line, middle line, or otherwise.
 
 - [[SKIP-4-1-1]] is 乙
 - SKIP-4-1-2 does not exist

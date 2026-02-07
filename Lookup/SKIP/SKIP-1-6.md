@@ -1,3 +1,7 @@
+---
+aliases:
+date-last-perfect: 2026-02-06
+---
 > [[SKIP]] | [[SKIP-1|1]]
 
 Radicals : 糸 米 舟 耳 由虫

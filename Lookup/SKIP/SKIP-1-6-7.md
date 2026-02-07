@@ -1,4 +1,4 @@
-> [[SKIP]] | [[SKIP-11|1]] | [[SKIP-1-6|6]]
+> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
 
  - <ruby>[[継]]<rt>ㄍㄝㄧ</rt></ruby> - persist
 - <ruby>[[続]]<rt>ㄙㄧㄛㄎ</rt></ruby> - continue

@@ -1,3 +1,9 @@
+---
+aliases:
+date-last-perfect: 2026-02-06
+---
+> [[SKIP]]
+For **SKIP-4**, the second number represents the total stroke-count.  As the
 - [[SKIP-4-1]]
 - [[SKIP-4-2]]
 - [[SKIP-4-3]]
@@ -14,7 +20,7 @@
 - [[SKIP-4-14]]
 - [[SKIP-4-15]]
 
-SKIP-4 is different than all the other SKIPs.  The ''middle'' number is the number of strokes.  We have created pages with '0' for the middle digit as place-holders.
+SKIP-4 is different than all the other SKIPs.  The ''middle'' number is the number of strokes.  We have therefore created pages with '0' for the middle digit as place-holders.
 
 * When the last digit is [[SKIP-4-0-1]], it represents a '''top line'''
 * When the last digit is [[SKIP-4-0-2]], it represents a '''bottom line'''
