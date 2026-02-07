@@ -6,10 +6,8 @@ views:
     name: Table
     order:
       - file.name
-      - characters
       - 注音
       - 韓文
-      - english
       - mandarin
       - cantonese
       - japanese
@@ -29,7 +27,7 @@ views:
       note.characters: 184
       note.韓文: 69
       note.english: 204
-      note.mandarin: 166
+      note.mandarin: 117
       note.cantonese: 158
       note.japanese: 125
       note.korean: 63
