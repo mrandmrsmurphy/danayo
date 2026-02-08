@@ -1,7 +1,8 @@
 ---
 aliases:
+date-last-perfect:
 ---
-> [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-8|8]]
+> [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-8|8]] ... all [[Stroke 13]].
 
 - [[雹]] - hail
 - <ruby>[[楚]]<rt>ㄑㄛ</rt></ruby> - clear
@@ -13,7 +14,6 @@ aliases:
 - [[塋]]
 - [[煢]]
 - [[瑟]]
-- [[皙]]
-- [[碆]]
+- 皙 --> 析
 - <ruby>[[禁]]<rt>ㄍㄧㄇ</rt></ruby> - forbidden
 * ~~嗭~~
