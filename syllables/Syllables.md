@@ -7,12 +7,12 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 | 鼻音    | ㄇ m | ㄋ n |      | ㄥ ŋ |
 | 流音    |      | ㄌ l | ㄙ s | ㄏ h  |
 
-- ㄨ on-glide may not have a ㄨ off-glide, except ㄨㄚㄨ.
+- ㄨ on-glide may not have a ㄨ off-glide, except ˇㄚㄨ.
 - ㄨ on-glide may not go with an initial labial (ㄅ, ㄆ, or ㄇ)
 - No ㄝ-vowel may have a ㄨ off-glide
-- ㄧ on-glide may not have a ㄧ off-glide, except for velars (ㄍ, ㄎ, ㄥ, ㄏ) + ㄚ/ㄝ and ㄙㄧㄝㄧ
-- ㄉ and ㄊ may not have a ㄧ or ㄨ on-glide, except for the ㄉㄨㄝ-series
-- ㄐ and ㄑ may not have a ㄧ or ㄨ on-glide, except for the ㄐㄨㄚ and ㄐㄨㄝ-series
+- ㄧ on-glide may not have a ㄧ off-glide, except for velars (ㄍ, ㄎ, ㄥ, ㄏ) + ㄚ/ㄝ and ㄙ˙ㄝㄧ
+- ㄉ and ㄊ may not have a ㄧ or ㄨ on-glide, except for the ㄉˇㄝ-series
+- ㄐ and ㄑ may not have a ㄧ or ㄨ on-glide, except for the ㄐˇㄚ and ㄐˇㄝ-series
 - ㄋ and ㄌ may not have a ㄨ on-glide
 
 
