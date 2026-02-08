@@ -32,6 +32,7 @@ graphemic_classification: 令
 stand_in: "TRUE"
 aliases:
   - 〇
+注音: ㄌㄝㄥ
 ---
 >[!Warning] This is about the character.  For the word, see [[零]]
 ```meta-bind-embed
