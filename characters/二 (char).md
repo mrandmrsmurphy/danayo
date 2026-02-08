@@ -16,7 +16,7 @@ middle_chinese_final: iɪ
 stroke_count: 2
 radical: 二
 skip_number: 2-1-1
-grade_level: 1
+grade_level: "1"
 pos: numeral
 english:
   - two
@@ -34,7 +34,7 @@ aliases:
   - 弍
   - 𠄠
 date-last-perfect: 2026-01-30
-注音: ㄋㄧㄧ
+注音: ㄋ˙ㄧ
 ---
 >[!warning] This is the character 二.  For the word 'two', use [[二]].  
 >See also [[Radical 007]].
