@@ -34,7 +34,7 @@ aliases:
   - 弍
   - 𠄠
 date-last-perfect: 2026-01-30
-注音: ㄋ˙ㄧ
+注音: ㄋㄧㄧ
 ---
 >[!warning] This is the character 二.  For the word 'two', use [[二]].  
 >See also [[Radical 007]].
