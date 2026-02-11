@@ -17,12 +17,12 @@ middle_chinese_final: eŋ
 stroke_count: 13
 radical: 雨
 skip_number: 2-8-5
-grade_level: 4
+grade_level: "4"
 pos: numeral
 english:
   - zero
 羅馬字: leng
-韓文: "[[렁]]"
+韓文: 렁
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 高等
