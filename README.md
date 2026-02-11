@@ -1,9 +1,9 @@
 # danayo
-<ruby>単亜語<rt>ㄉㄚㄋㄚㄧㄛ</rt></ruby> is a zonal auxlang intended to be quickly learnable, readily comprehensible, and mutually communicative between persons of the East Asian cultural sphere. It has an underlying foundation of Chinese characters for every word, with some glyphs being simplified according to the <ruby>新字体<rt>ㄙㄧㄋㄐㄧㄊㄝㄧ</rt></ruby> standards of Japan. The <ruby>注音符号<rt>ㄐㄨㄨㄇㄅㄨㄏㄚㄨ</rt></ruby> alphabet is presented at the same time (whenever possible), and is also used for phonetic transcription. It is not tonal, mostly analytic, SVO, topic-prominent, uses classifiers, is pro-drop, and uses postpositions.
+<ruby>単亜語<rt>ㄉㄚㄋ·ㄚ·˙ㄛ</rt></ruby> is a zonal auxlang intended to be quickly learnable, readily comprehensible, and mutually communicative between persons of the East Asian cultural sphere. It has an underlying foundation of Chinese characters for every word, with some glyphs being simplified according to the <ruby>新字体<rt>ㄙㄧㄋㄐㄧㄊㄝㄧ</rt></ruby> standards of Japan. The <ruby>注音符号<rt>ㄐㄨ·ㄨㄇㄅㄨㄏㄚㄨ</rt></ruby> alphabet is presented at the same time (whenever possible), and is also used for phonetic transcription. It is not tonal, mostly analytic, SVO, topic-prominent, uses classifiers, is pro-drop, and uses postpositions.
 
 It has the largest intended audience of 1500 million speakers, those from China, Japan, Korea, and to some extent Vietnam.  There is no proto-language which all our source languages are supposedly descended from. Our ancient form is Classical Chinese, which is well-known and actually exists in documented form.
 
-For more information, see <ruby>[[単亜語之文法書]]<rt>ㄉㄚㄋ·ㄚ·一ㄛㄊㄧㄇㄨㄋㄆㄚ</rt></ruby>
+For more information, see <ruby>[[単亜語之文法書]]<rt>ㄉㄚㄋ·ㄚ·˙ㄛㄊㄧㄇㄨㄋㄆㄚ</rt></ruby>
 ![[East_asian_flag.png]]
 
 ---
@@ -29,8 +29,6 @@ Created by **武明帥**, 2016-26.
 
 ## Where
 
-名從主人 物從中國
+[[名従]][[主人]], [[物従]][[中国]] = 名從主人，物從中國
 
-羊駝 - alpaca
-水豚 - capybara
-信達雅
+[[信達雅]]
