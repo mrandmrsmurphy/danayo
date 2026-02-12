@@ -21,6 +21,8 @@ views:
       - vietnamese
       - date-last-perfect
     sort:
+      - property: 韓文
+        direction: ASC
       - property: 注音
         direction: ASC
       - property: date-last-perfect
