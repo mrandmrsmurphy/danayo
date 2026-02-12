@@ -16,7 +16,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1040. [[萎]] : wither
 1041. [[偉]] : admirable
 1042. [[椅]] : chair
-1043. [[彙]] : same kind
+1043. [[彙 (char)]] : same kind
 1044. [[違]] : differ
 1045. [[維]] : fiber
 1046. [[慰]] : consolation
