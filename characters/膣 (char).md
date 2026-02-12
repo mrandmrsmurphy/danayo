@@ -45,7 +45,7 @@ date-last-perfect: 2026-01-24
 # Notes
 - It's a vulgar cuss word!  The non-rude, anatomical term is [[陰道]].
 - [[Radical 130|月]] + [[窒]] = [[SKIP-1-4-11]] ([[Stroke 15]]).
-- [[Korean Name ㅈ]], [[Hyōgai]], Not on HSK, [[Advanced Grade]] in Dan'a'yo.
+- [[Korean Name ㅈ]], [[Hyōgai]], Not on HSK, [[Advanced Grade]] in <ruby>[[文言現代]]<rt>ㄇㄨㄋㄝㄋㄏㄧㄝㄋㄉㄚㄧ</rt></ruby>.
 
 ## Words
 - [[臭膣]] - bitch

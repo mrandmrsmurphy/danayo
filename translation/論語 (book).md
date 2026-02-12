@@ -20,7 +20,7 @@
 20. [[translation/論語 (book) - 20尭曰]]
 
 ## Vocabulary 
-While Dan'a'yo has a lot in common with Classical/Literary Chinese, they are separate languages.  This is most manifest in the principle that Dan'a'yo does not have an open set of Chinese Characters.  The corpus of classic texts contains some obscure hapax legomena and the like, so some substitution is necessary.
+While <ruby>[[文言現代]]<rt>ㄇㄨㄋㄝㄋㄏㄧㄝㄋㄉㄚㄧ</rt></ruby> has a lot in common with Classical/Literary Chinese, they are separate languages.  This is most manifest in the principle that Dan'a'yo does not have an open set of Chinese Characters.  The corpus of classic texts contains some obscure hapax legomena and the like, so some substitution is necessary.
 
 - 裘 6x --> [[皮衣]] - Translation + Component
 - 巍 6x --> [[魏峨]] - Component + Translation
