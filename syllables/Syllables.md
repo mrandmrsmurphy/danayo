@@ -1,11 +1,15 @@
+---
+aliases:
+  - syllable
+---
 Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 
-|   | 唇音 | 歯茎音 | 硬口蓋音 | 舌背音 |
-|---|-----|-------|-------|------|
-| 濁塞音   | ㄅ b | ㄉ d | ㄐ j | ㄍ g |
-| 送気塞音 | ㄆ p | ㄊ t | ㄑ c | ㄎ k |
-| 鼻音    | ㄇ m | ㄋ n |      | ㄥ ŋ |
-| 流音    |      | ㄌ l | ㄙ s | ㄏ h  |
+|         | [[唇音]] | [[歯茎]]音 | 硬口蓋音 | [[舌背]]音 |
+| ------- | ------ | ------- | ---- | ------- |
+| [[濁塞]]音 | ㄅ b    | ㄉ d     | ㄐ j  | ㄍ g     |
+| 送気塞音    | ㄆ p    | ㄊ t     | ㄑ c  | ㄎ k     |
+| 鼻音      | ㄇ m    | ㄋ n     |      | ㄥ ŋ     |
+| 流音      |        | ㄌ l     | ㄙ s  | ㄏ h     |
 
 - ㄨ on-glide may not have a ㄨ off-glide, except ˇㄚㄨ.
 - ㄨ on-glide may not go with an initial labial (ㄅ, ㄆ, or ㄇ)
