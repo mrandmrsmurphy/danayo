@@ -11,28 +11,28 @@
 Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨㄨ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
-The region contains mountains (山地), river systems (大河流域), islands (列島), and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
-Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense (軍事防守).
+The region contains mountains ([[山地]]), river systems ([[大河]][[流域]]), <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense ([[軍事]][[防守]]).
 
 ### Political Development
 Historically, imperial rule ([[帝国]][[制度]]) was dominant.  
 <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
 <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>天皇<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
 
-In the modern period ([[近代]]), constitutional systems (立憲制度) and republics (共和制度) emerged. Political transformation (制度変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
+In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics ([[共和]][[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
-Shared writing (共通書記) and religious transmission (宗教伝播) shaped the region.  
-Chinese characters (漢字) functioned as a literary medium (書記媒体).  
-Buddhism (仏教) spread eastward (東伝).  
-Exchange generated development (文化発展) as well as rivalry (競争).
+Shared writing (共通書記) and religious transmission ([[宗教]][[伝播]]) shaped the region.  
+<ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[書記]][[媒体]]).  
+<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚㄨ</rt></ruby> spread eastward ([[東伝]]).  
+Exchange generated development ([[文化]][[発展]]) as well as rivalry ([[競争]]).
 
 ## Southeast Asia
 [[東南亜]] lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
 The climate is largely tropical (熱帯気候). Island groups (島嶼群) and straits (海峡) are common.  
 Maritime transport (海上交通) forms an economic foundation (経済基礎).
 
-Many states experienced colonial rule (殖民統治) and later established independent states (独立国家). Political structures (政治体制) vary.
+Many states experienced colonial rule (殖民統治) and later established independent states (独立<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures (政治体制) vary.
 
 - <ruby>越南<rt>ˇㄝㄊㄋㄚㄇ</rt></ruby>
 - <ruby>泰国<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
@@ -65,7 +65,7 @@ The Himalayan region (喜馬拉雅山地) forms a natural boundary (自然界線
 West Asia ([[西亜]]) includes desert zones (沙漠地帯) and strategic trade routes (商路要地).  
 Central Asia ([[中亜]]) contains steppe regions (草原地帯) historically associated with nomadic peoples (遊牧民族).
 
-Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[拡散]]) affected broader world history ([[世界]][[歴史]]).
+Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[拡散]]) affected broader world history (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>[[歴史]]).
 
 ### West Asia
 - Iran (伊朗)  
@@ -86,7 +86,7 @@ This region historically connected Asia, Africa, and Europe through trade corrid
 Historically associated with steppe confederations (草原連盟) and caravan routes (駱駝商路).
 
 ## Europe
-<ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族国家) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (世界経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
+<ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
 - United Kingdom ([[英国]])  
 - France ([[法国]])  
@@ -112,7 +112,7 @@ Africa ([[非洲]]) includes major deserts (大沙漠) and large rivers ([[大�
 Ethnic diversity ([[民族]][[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
 
 Colonial rule ([[殖民]][[統治]]) shaped political boundaries ([[国境]][[形成]]).  
-Post-independence states (独立国家) faced uneven development ([[発展]][[不均]]).
+Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) faced uneven development ([[発展]][[不均]]).
 
 - Egypt ([[埃及]])  
 - Ethiopia (埃塞俄比亜)  
@@ -121,16 +121,16 @@ Post-independence states (独立国家) faced uneven development ([[発展]][[�
 - South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara (撒哈拉沙漠) and Nile River ([[尼羅河]]) are major geographic features (主要地理要素).
+The Sahara (撒哈拉沙漠) and Nile River ([[尼羅河]]) are major geographic features ([[主要]][[地理]][[要素]]).
 
 ## The Americas
 The Americas ([[美洲]]) include North America ([[北美]]) and South America ([[南美]]).
 
-North America contains large plains (広平原) and industrial states (工業国家).  
-South America includes mountain chains (山脈) and tropical forests (熱帯森林).
+North America contains large plains (広平原) and industrial states (工業<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
+South America includes mountain chains ([[山脈]]) and tropical forests ([[熱帯]][[森林]]).
 
-Independence movements (独立運動) produced republics (共和国).  
-Resource distribution (資源分布) and economic variation (経済差異) remain notable.
+Independence movements ([[独立]][[運動]]) produced republics (共和国).  
+Resource distribution ([[資源]][[分布]]) and economic variation ([[経済]][[差異]]) remain notable.
 
 ### 北美
 - <ruby>美国<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
@@ -151,19 +151,19 @@ Resource distribution (資源分布) and economic variation (経済差異) remai
 The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems (自然体系).
 
 ## Oceania
-[[大洋洲]] consists largely of island states ([[島嶼]][[国家]]).  
-Marine resources ([[海洋]][[資源]]) support economic life (経済生活).  
+[[大洋洲]] consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
+Marine resources (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life ([[経済]][[生活]]).  
 Population density ([[人口]][[密度]]) is generally low.
 
-- Australia ([[豪洲]])  
-- New Zealand ([[新西蘭]])  
+- <ruby>豪洲<rt>ㄏㄚㄨㄐㄨㄨ</rt></ruby>
+- <ruby>新西蘭<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
-Island distribution ([[島嶼]][[分布]]) and marine routes ([[海洋]][[航路]]) define regional structure ([[地域]][[構造]]).
+Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[航路]]) define regional structure ([[地域]][[構造]]).
 
 ## The Global Order
-The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚㄧ</rt></ruby>[[世界]]) operates within an international system ([[国際]][[体系]]).  
-State sovereignty ([[国家]][[主権]]) is a fundamental principle ([[基本]][[原則]]).  
+The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system ([[国際]][[体系]]).  
+State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle ([[基本]][[原則]]).  
 International organizations ([[国際]][[組織]]) mediate disputes ([[調解]][[争端]]).
 
 Economic interdependence ([[経済]][[互依]]) and communication networks (通信網) connect regions globally (全球連結).
@@ -173,7 +173,7 @@ History continues to transform conditions ([[歴史]][[持続]][[変化]]).
 States seek <ruby>安定<rt>ㄚㄋㄐㄝㄥ</rt></ruby> and development ([[発展]]) within changing structures ([[変動]][[構造]]).
 
 - United Nations ([[連合国]])  
-- World Trade Organization (世界貿易組織)  
-- International Monetary Fund (国際貨幣基金)
+- World Trade Organization (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>[[貿易]][[組織]])  
+- International Monetary Fund ([[国際]][[貨幣]][[基金]])
 
 These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
