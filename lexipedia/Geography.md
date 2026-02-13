@@ -51,9 +51,9 @@ Major river valleys ([[大河]][[流域]]) and high mountains ([[高山]]) defin
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby> developed early.  
 <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄥ</rt></ruby> influenced surrounding regions.  
-Colonial administration ([[殖民]][[統治]]) preceded the formation of [[民族]][[国家]].
+Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
-- India (印度)  
+- <ruby>印度<rt>ㄧㄋㄉㄛ</rt></ruby>  
 - Pakistan (巴基斯坦)  
 - Bangladesh (孟加拉)  
 - Sri Lanka (斯里蘭卡)  
@@ -62,10 +62,10 @@ Colonial administration ([[殖民]][[統治]]) preceded the formation of [[民�
 The Himalayan region (喜馬拉雅山地) forms a natural boundary (自然界線).
 
 ## West and Central Asia
-West Asia (西亜) includes desert zones (沙漠地帯) and strategic trade routes (商路要地).  
-Central Asia (中亜) contains steppe regions (草原地帯) historically associated with nomadic peoples (遊牧民族).
+West Asia ([[西亜]]) includes desert zones (沙漠地帯) and strategic trade routes (商路要地).  
+Central Asia ([[中亜]]) contains steppe regions (草原地帯) historically associated with nomadic peoples (遊牧民族).
 
-Imperial expansion (帝国興起) and religious diffusion (宗教拡散) affected broader world history (世界歴史).
+Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[拡散]]) affected broader world history ([[世界]][[歴史]]).
 
 ### West Asia
 - Iran (伊朗)  
@@ -86,26 +86,24 @@ This region historically connected Asia, Africa, and Europe through trade corrid
 Historically associated with steppe confederations (草原聯盟) and caravan routes (駱駝商路).
 
 ## Europe
-Europe (欧洲) contains peninsulas (半島), inland seas (内海), and fragmented terrain (分散地形).  
-Modern nation states (民族国家) and parliamentary systems (議会制度) developed.  
-Industrialization (産業革命) altered global economic structure (世界経済構造).  
-Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
+<ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族国家) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (世界経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
-- United Kingdom (英国)  
-- France (法国)  
-- Germany (徳国)  
+- United Kingdom ([[英国]])  
+- France ([[法国]])  
+- Germany ([[徳国]])  
 - Italy (意大利)  
-- Spain (西班牙)  
-- Portugal (葡萄牙)  
+- Spain ([[西班牙]])  
+- Portugal ([[葡萄牙]])  
 - Netherlands (荷蘭)  
 - Belgium (比利時)  
 - Switzerland (瑞士)  
-- Austria (奥地利)  
+- Austria ([[双鷹国]])  
 - Poland (波蘭)  
 - Greece (希臘)  
 - Russia (俄羅斯)  
 - Sweden (瑞典)  
 - Norway (挪威)  
+- Finland [[芬蘭]]
 - Denmark (丹麦)
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
@@ -158,7 +156,7 @@ Marine resources (海洋資源) support economic life (経済生活).
 Population density (人口密度) is generally low.
 
 - Australia (豪洲)  
-- New Zealand (新西蘭)  
+- New Zealand ([[新西蘭]])  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji (斐濟)
 Island distribution (島嶼分布) and marine routes (海洋航路) define regional structure (地域構造).
