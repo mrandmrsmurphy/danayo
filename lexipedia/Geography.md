@@ -88,7 +88,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 ## 歐洲
 <ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
-- <ruby>英国<rt>ㄝㄥㄍㄛㄎ</rt></ruby>  
+- <ruby>英国<rt>ㄝㄥㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛]][[爾]][[蘭]] = [[連合]][[王国]], not [[大不列顛]]
 - France ([[法国]])  
 - Germany ([[徳国]])  
 - Italy (意大利)  
