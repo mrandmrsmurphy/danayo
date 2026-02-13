@@ -153,7 +153,7 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 
 ## Oceania
 <ruby>大洋洲<rt>大洋洲</rt></ruby> consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
-Marine resources (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life ([[経済]][[生活]]).  
+Marine resources (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
 Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
 
 - <ruby>豪洲<rt>ㄏㄚㄨㄐㄨㄨ</rt></ruby>
@@ -163,9 +163,9 @@ Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is
 Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[航路]]) define regional structure ([[地域]][[構造]]).
 
 ## The Global System
-The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system ([[国際]][[体系]]).  
+The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[体系]]).  
 State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle ([[基本]][[原則]]).  
-International organizations ([[国際]][[組織]]) mediate disputes ([[調解]][[争端]]).
+International organizations (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[組織]]) mediate disputes ([[調解]][[争端]]).
 
 Economic interdependence ([[経済]][[互依]]) and communication networks (通信網) connect regions globally (全球連結).
 
@@ -175,7 +175,7 @@ States seek <ruby>安定<rt>ㄚㄋㄐㄝㄥ</rt></ruby> and development ([[発�
 
 - United Nations ([[連合国]])  
 - World Trade Organization (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>[[貿易]][[組織]])  
-- International Monetary Fund ([[国際]][[貨幣]][[基金]])
+- International Monetary Fund (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[貨幣]][[基金]])
 
 These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
 
@@ -195,7 +195,7 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>,
 - Arctic Ocean ([[北冰洋]]), 
 - and Southern Ocean ([[南冰洋]]). 
-In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects modern geographic science ([[近代]][[地理]]学) and global cartography (世界[[図法]]).
+In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects modern geographic science ([[近代]]<ruby>地理学<rt>ㄉㄧㄧㄌㄧㄏㄚㄎ</rt></ruby>) and global cartography (世界[[図法]]).
 
 In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 
 1. the Eastern Sea ([[東海]]), 
@@ -213,6 +213,6 @@ These were directional boundary waters ([[方位]][[界水]]), not measured ocea
 - Liang (梁州),
 - and Yong (雍州).
 
-These provinces (州) were civilizational and administrative regions ([[治域]]), not continents (洲). Thus the ancient model was concentric ([[環状]][[構造]]), centered upon the royal domain ([[王域]]), while the modern model is global and comparative ([[全球]][[並列]][[構造]]), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
+These provinces (州) were civilizational and administrative regions ([[治域]]), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain ([[王域]]), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
 
-The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology ([[文明]][[宇宙]]観) to global geography ([[全球]][[地理]][[体系]]).
+The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby>[[宇宙観]]) to global geography ([[全球]]<ruby>地理<rt>ㄉㄧㄧㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>).
