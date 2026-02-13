@@ -88,22 +88,23 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 ## 歐洲
 <ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
-- <ruby>英国<rt>ㄝㄥㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛]][[爾]][[蘭]] = [[連合]][[王国]], not [[大不列顛]]
-- France ([[法国]])  
-- Germany ([[徳国]])  
+- <ruby>英国<rt>ㄝㄥㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合]][[王国]], not [[大不列顛]]
+- [[愛爾蘭]][[共和國]]
+- <ruby>法国<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
+- <ruby>徳国<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
-- Spain ([[西班牙]])  
-- Portugal ([[葡萄牙]])  
-- Netherlands (荷蘭)  
+- <ruby>西班牙<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby>
+- <ruby>葡萄牙<rt>ㄅㄛㄉㄚㄨ·ㄚ</rt></ruby>
+- Netherlands ([[荷蘭]])  
 - Belgium (比利時)  
-- Switzerland (瑞士)  
-- Austria ([[双鷹国]])  
+- Switzerland ([[瑞士]])  
+- <ruby>双鷹国<rt>ㄙˇㄚㄥ·ㄧㄥㄍㄛㄎ</rt></ruby>
 - Poland (波蘭)  
 - Greece (希臘)  
-- Russia ([[露斯亜]] 俄羅斯)  
-- Sweden (瑞典)  
-- Norway (挪威)  
-- Finland [[芬蘭]]
+- <ruby>露斯亜<rt>ㄌㄛㄙㄧ·ㄚ</rt></ruby>
+- Sweden ([[瑞典]])  
+- Norway ([[挪]][[威]])  
+- <ruby>芬蘭<rt>ㄆㄨㄋㄌㄚㄋ</rt></ruby>
 - Denmark (丹麦)
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
