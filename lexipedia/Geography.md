@@ -19,7 +19,7 @@ Historically, imperial rule ([[帝国]][[制度]]) was dominant.
 <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
 <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>天皇<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
 
-In the modern period ([[近代]]), constitutional systems (立憲制度) and republics (共和制度) emerged. Political transformation (制度変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform ([[社会]][[改革]]).
+In the modern period ([[近代]]), constitutional systems (立憲制度) and republics (共和制度) emerged. Political transformation (制度変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
 Shared writing (共通書記) and religious transmission (宗教伝播) shaped the region.  
@@ -28,25 +28,25 @@ Buddhism (仏教) spread eastward (東伝).
 Exchange generated development (文化発展) as well as rivalry (競争).
 
 ## Southeast Asia
-Southeast Asia (東南亜) lies between China and the Indian Ocean (印度洋).  
+[[東南亜]] lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
 The climate is largely tropical (熱帯気候). Island groups (島嶼群) and straits (海峡) are common.  
 Maritime transport (海上交通) forms an economic foundation (経済基礎).
 
 Many states experienced colonial rule (殖民統治) and later established independent states (独立国家). Political structures (政治体制) vary.
 
-- Vietnam (越南)  
-- Thailand (泰国)  
-- Myanmar (緬甸)  
-- Cambodia (柬埔寨)  
-- Laos (老撾)  
-- Malaysia (馬来西亜)  
-- Singapore (新嘉坡)  
-- Indonesia (印度尼西亜)  
-- Philippines (菲律賓)
+- <ruby>越南<rt>ˇㄝㄊㄋㄚㄇ</rt></ruby>
+- <ruby>泰国<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
+- Myanmar ([[緬甸]])  
+- Cambodia ([[柬埔寨]]) prefer [[高]][[綿]]
+- <ruby>寮国<rt>ㄌ˙ㄚㄨㄍㄛㄎ</rt></ruby>
+- <ruby>馬来西亜<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
+- Singapore ([[新嘉坡]])  
+- Indonesia ([[印度尼西亜]])  
+- Philippines ([[菲律賓]])
 These states developed along maritime trade routes (海上商路) and river systems (大河流域).
 
 ## South Asia
-South Asia (南亜) centers on India (印度).  
+South Asia ([[南亜]]) centers on India ([[印度]]).  
 Major river valleys (大河流域) and high mountains (高山) define the region.
 
 Ancient civilization (古代文明) developed early.  
