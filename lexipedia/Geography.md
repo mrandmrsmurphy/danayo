@@ -74,7 +74,7 @@ Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[�
 - Syria (叙利亜)  
 - Israel (以色列)  
 - Saudi Arabia (沙烏地阿拉伯)  
-- United Arab Emirates (阿拉伯聯合酋長国)
+- United Arab Emirates (阿拉伯連合酋長国)
 This region historically connected Asia, Africa, and Europe through trade corridors (商路通道).
 
 ### Central Asia
@@ -83,7 +83,7 @@ This region historically connected Asia, Africa, and Europe through trade corrid
 - Turkmenistan (土庫曼)  
 - Kyrgyzstan (吉爾吉斯)  
 - Tajikistan (塔吉克)
-Historically associated with steppe confederations (草原聯盟) and caravan routes (駱駝商路).
+Historically associated with steppe confederations (草原連盟) and caravan routes (駱駝商路).
 
 ## Europe
 <ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族国家) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (世界経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
@@ -108,23 +108,23 @@ Historically associated with steppe confederations (草原聯盟) and caravan ro
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
 ## Africa
-Africa (非洲) includes major deserts (大沙漠) and large rivers (大河).  
-Ethnic diversity (民族多様) and linguistic diversity (語言多様) are significant.
+Africa ([[非洲]]) includes major deserts (大沙漠) and large rivers ([[大河]]).  
+Ethnic diversity ([[民族]][[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
 
-Colonial rule (殖民統治) shaped political boundaries (国境形成).  
-Post-independence states (独立国家) faced uneven development (発展不均).
+Colonial rule ([[殖民]][[統治]]) shaped political boundaries ([[国境]][[形成]]).  
+Post-independence states (独立国家) faced uneven development ([[発展]][[不均]]).
 
-- Egypt (埃及)  
+- Egypt ([[埃及]])  
 - Ethiopia (埃塞俄比亜)  
 - Kenya (肯尼亜)  
 - Nigeria (尼日利亜)  
-- South Africa (南非)  
+- South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara (撒哈拉沙漠) and Nile River (尼羅河) are major geographic features (主要地理要素).
+The Sahara (撒哈拉沙漠) and Nile River ([[尼羅河]]) are major geographic features (主要地理要素).
 
 ## The Americas
-The Americas (美洲) include North America (北美) and South America (南美).
+The Americas ([[美洲]]) include North America ([[北美]]) and South America ([[南美]]).
 
 North America contains large plains (広平原) and industrial states (工業国家).  
 South America includes mountain chains (山脈) and tropical forests (熱帯森林).
@@ -133,8 +133,8 @@ Independence movements (独立運動) produced republics (共和国).
 Resource distribution (資源分布) and economic variation (経済差異) remain notable.
 
 ### North America (北美)
-- United States (美国)  
-- Canada (加拿大)  
+- <ruby>美国<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
+- <ruby>珈拿陀<rt>ㄎㄚㄋㄚㄙㄚ</rt></ruby>
 - Mexico (墨西哥)
 
 ### Central America (中美)
@@ -151,14 +151,14 @@ Resource distribution (資源分布) and economic variation (経済差異) remai
 The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems (自然体系).
 
 ## Oceania
-Oceania (大洋洲) consists largely of island states (島嶼国家).  
+Oceania ([[大洋洲]]) consists largely of island states (島嶼国家).  
 Marine resources (海洋資源) support economic life (経済生活).  
 Population density (人口密度) is generally low.
 
-- Australia (豪洲)  
+- Australia ([[豪洲]])  
 - New Zealand ([[新西蘭]])  
 - Papua New Guinea (巴布亜新幾内亜)  
-- Fiji (斐濟)
+- Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
 Island distribution (島嶼分布) and marine routes (海洋航路) define regional structure (地域構造).
 
 ## The Global Order
@@ -172,7 +172,7 @@ Geography remains stable (地理相対不変).
 History continues to transform conditions (歴史持続変化).  
 States seek stability (安定) and development (発展) within changing structures (変動構造).
 
-United Nations (聯合国)  
+United Nations ([[連合国]])  
 World Trade Organization (世界貿易組織)  
 International Monetary Fund (国際貨幣基金)
 
