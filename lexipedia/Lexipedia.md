@@ -56,3 +56,7 @@ Rosenfelder's helpful book
 ## Swadesh
 - [[Swadesh]]
 - [[lexipedia/Sophomore List]]
+
+## Others
+Most of these lists are intended for authors, sometimes of science-fiction and other hypothetical words.  As a functional IAL, Dan'a'yo needs
+* [[lexipedia/Geography]]
