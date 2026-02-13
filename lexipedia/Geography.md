@@ -1,25 +1,25 @@
 ## Far East Asia
 
-<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the [[亜洲]][[東部]]. Major states include 
+<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the [[亜洲]]<ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
 - <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
 - <ruby>朝鮮<rt>ㄐㄚㄨㄙ˙ㄝㄋ</rt></ruby>
 - <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
 - <ruby>西蔵<rt>ㄙㄝㄧㄑㄚㄥ</rt></ruby>
-- [[台湾]]
-Historically related regions include Manchuria (満洲) and Ryukyu (琉球).
+- <ruby>台湾<rt>ㄉㄚㄧ·ˇㄚㄋ</rt></ruby>
+Historically related regions include Manchuria ([[満洲]]) and Ryukyu ([[琉球]]).
 
 ### Landform
-The region contains mountains (山地), river systems (大河流域), islands (列島), and peninsulas (半島).  
-Mountain and sea conditions influence transport (交通), economy (経済), and defense (軍事防守).
+The region contains mountains (山地), river systems (大河流域), islands (列島), and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense (軍事防守).
 
 ### Political Development
-Historically, imperial rule (帝国制度) was dominant.  
-In China, the emperor (皇帝) governed extensive territory (広土).  
-In Japan, the emperor (天皇) served as sovereign (国主).
+Historically, imperial rule ([[帝国]][[制度]]) was dominant.  
+<ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
+<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>天皇<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
 
-In the modern period (近代), constitutional systems (立憲制度) and republics (共和制度) emerged. Political transformation (制度変化) often followed internal disorder (内乱), foreign war (外戦), or social reform (社会改革).
+In the modern period ([[近代]]), constitutional systems (立憲制度) and republics (共和制度) emerged. Political transformation (制度変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform ([[社会]][[改革]]).
 
 ### Cultural Transmission
 Shared writing (共通書記) and religious transmission (宗教伝播) shaped the region.  
