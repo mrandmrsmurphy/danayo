@@ -40,18 +40,18 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - Cambodia ([[柬埔寨]]) prefer [[高]][[綿]]
 - <ruby>寮国<rt>ㄌ˙ㄚㄨㄍㄛㄎ</rt></ruby>
 - <ruby>馬来西亜<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
-- Singapore ([[新嘉坡]])  
+- Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
 - Indonesia ([[印度尼西亜]])  
 - Philippines ([[菲律賓]])
 These states developed along maritime trade routes (海上商路) and river systems (大河流域).
 
 ## South Asia
-South Asia ([[南亜]]) centers on India ([[印度]]).  
-Major river valleys (大河流域) and high mountains (高山) define the region.
+South Asia ([[南亜]]) centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
+Major river valleys ([[大河]][[流域]]) and high mountains ([[高山]]) define the region.
 
-Ancient civilization (古代文明) developed early.  
-Religious thought (宗教思想) influenced surrounding regions.  
-Colonial administration (殖民統治) preceded the formation of modern nation states (民族国家).
+<ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby> developed early.  
+<ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄥ</rt></ruby> influenced surrounding regions.  
+Colonial administration ([[殖民]][[統治]]) preceded the formation of [[民族]][[国家]].
 
 - India (印度)  
 - Pakistan (巴基斯坦)  
