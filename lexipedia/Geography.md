@@ -1,6 +1,6 @@
 ## 東亜
 
-<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>[[亜洲]]<rt>ㄚㄐㄨㄨ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
+<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨㄨ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
 - <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
@@ -25,7 +25,7 @@ In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]])
 Shared writing (共通書記) and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  
 <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[書記]][[媒体]]).  
 <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚㄨ</rt></ruby> spread eastward ([[東伝]]).  
-Exchange generated development ([[文化]][[発展]]) as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
+Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
 
 ## 東南亜
 [[東南亜]] lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
@@ -45,8 +45,8 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
 These states developed along maritime trade routes (海上商路) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
 
-## South Asia
-South Asia ([[南亜]]) centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
+## 南亜
+[[南亜]] centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
 <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby> developed early.  
@@ -107,14 +107,14 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - Denmark (丹麦)
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
-## Africa
-Africa ([[非洲]]) includes major deserts (大沙漠) and large rivers (<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby>).  
+## 非洲
+<ruby>非洲<rt>ㄆㄧㄐㄨㄨ</rt></ruby> includes major deserts (大沙漠) and large rivers (<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby>).  
 Ethnic diversity ([[民族]][[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
 
 Colonial rule ([[殖民]][[統治]]) shaped political boundaries ([[国境]][[形成]]).  
 Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) faced uneven development ([[発展]][[不均]]).
 
-- Egypt ([[埃及]])  
+- <ruby>埃及<rt>ㄚㄧㄍㄨㄆ</rt></ruby>
 - Ethiopia (埃塞俄比亜)  
 - Kenya (肯尼亜)  
 - Nigeria (尼日利亜)  
@@ -179,21 +179,22 @@ States seek <ruby>安定<rt>ㄚㄋㄐㄝㄥ</rt></ruby> and development ([[発�
 These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
 
 ### World Divisions: Ancient and Modern
-In the modern system, the earth is divided into continents (洲) and oceans (洋). The commonly recognized seven continents are 
-- <ruby>[[亜洲]]<rt>ㄚㄐㄨㄨ</rt></ruby>
-- <ruby>[[欧洲]]<rt>ㄛㄨㄐㄨㄨ</rt></ruby>
+In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby>. The commonly recognized seven continents are:
+- <ruby>亜洲<rt>ㄚㄐㄨㄨ</rt></ruby>
+- <ruby>欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby>
 - <ruby>非洲<rt>ㄆㄧㄐㄨㄨ</rt></ruby>
 - North America ([[北美洲]]),
 - South America ([[南美洲]]),
 - <ruby>大洋洲<rt>大洋洲</rt></ruby>
-- and Antarctica ([[南極洲]]). 
-Oceans are classified separately as major water bodies (大洋), including
-- the Pacific ([[太平洋]]), 
+- and Antarctica ([[南極洲]]).
+
+<ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby> include:
+- the Pacific ([[太平]][[洋]]), 
 - Atlantic ([[大西洋]]), 
-- Indian Ocean ([[印度洋]]), 
+- <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>,
 - Arctic Ocean ([[北冰洋]]), 
 - and Southern Ocean ([[南冰洋]]). 
-In this framework, continents (洲) designate large landmasses, oceans (洋) designate global waters, and seas (海) refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea (南海). This model reflects modern geographic science ([[近代]][[地理]]学) and global cartography (世界[[図法]]).
+In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects modern geographic science ([[近代]][[地理]]学) and global cartography (世界[[図法]]).
 
 In ancient East Asian thought, the division of the world followed a different structure. The civilized realm ([[天下]]) was described as surrounded by the Four Seas ([[四海]]), namely 
 1. the Eastern Sea ([[東海]]), 
