@@ -5,7 +5,7 @@ date-last-perfect: 2026-02-13
 > [[SKIP]] | [[SKIP-4]]
 
 ## [[SKIP-4-2-3|2]] 
-- 十
+十
 
 ## [[SKIP-4-3-3|3]] 
 巾, 才, <ruby>千<rt>ㄑㄝㄋ</rt></ruby>, 屮, 廾
