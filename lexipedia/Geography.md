@@ -36,12 +36,12 @@ Many states experienced colonial rule (殖民統治) and later established indep
 
 - <ruby>越南<rt>ˇㄝㄊㄋㄚㄇ</rt></ruby>
 - <ruby>泰国<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
-- Myanmar ([[緬甸]])  
-- Cambodia ([[柬埔寨]]) prefer [[高]][[綿]]
+- <ruby>面田<rt>ㄇˇㄝㄋㄉㄝㄋ</rt></ruby>
+- <ruby>高綿<rt>ㄍㄚㄨㄇ˙ㄝㄋ</rt></ruby>
 - <ruby>寮国<rt>ㄌ˙ㄚㄨㄍㄛㄎ</rt></ruby>
 - <ruby>馬来西亜<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
-- Indonesia ([[印度尼西亜]])  
+- Indonesia ([[印度]][[尼]][[西]][[亜]])  
 - Philippines ([[菲律賓]])
 These states developed along maritime trade routes (海上商路) and river systems (大河流域).
 
