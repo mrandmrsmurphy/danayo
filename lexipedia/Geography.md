@@ -151,7 +151,7 @@ Resource distribution ([[資源]][[分布]]) and economic variation ([[経済]][
 The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems (自然体系).
 
 ## Oceania
-[[大洋洲]] consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
+<ruby>大洋洲<rt>大洋洲</rt></ruby> consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
 Marine resources (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life ([[経済]][[生活]]).  
 Population density ([[人口]][[密度]]) is generally low.
 
@@ -180,20 +180,20 @@ These institutions operate within principles of sovereignty ([[主権]][[原則]
 
 ### World Divisions: Ancient and Modern
 In the modern system, the earth is divided into continents (洲) and oceans (洋). The commonly recognized seven continents are 
-- Asia (亜洲),
-- Europe (欧洲),
-- Africa (非洲),
-- North America (北美洲),
-- South America (南美洲),
-- Oceania (大洋洲),
-- and Antarctica (南極洲). 
+- <ruby>[[亜洲]]<rt>ㄚㄐㄨㄨ</rt></ruby>
+- <ruby>[[欧洲]]<rt>ㄛㄨㄐㄨㄨ</rt></ruby>
+- <ruby>非洲<rt>ㄆㄧㄐㄨㄨ</rt></ruby>
+- North America ([[北美洲]]),
+- South America ([[南美洲]]),
+- <ruby>大洋洲<rt>大洋洲</rt></ruby>
+- and Antarctica ([[南極洲]]). 
 Oceans are classified separately as major water bodies (大洋), including
-- the Pacific (太平洋), 
-- Atlantic (大西洋), 
-- Indian Ocean (印度洋), 
-- Arctic Ocean (北冰洋), 
-- and Southern Ocean (南冰洋). 
-In this framework, continents (洲) designate large landmasses, oceans (洋) designate global waters, and seas (海) refer to smaller regional waters such as the Mediterranean (地中海) or the South Sea (南海). This model reflects modern geographic science (近代地理学) and global cartography (世界図法).
+- the Pacific ([[太平洋]]), 
+- Atlantic ([[大西洋]]), 
+- Indian Ocean ([[印度洋]]), 
+- Arctic Ocean ([[北冰洋]]), 
+- and Southern Ocean ([[南冰洋]]). 
+In this framework, continents (洲) designate large landmasses, oceans (洋) designate global waters, and seas (海) refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea (南海). This model reflects modern geographic science ([[近代]][[地理]]学) and global cartography (世界[[図法]]).
 
 In ancient East Asian thought, the division of the world followed a different structure. The civilized realm ([[天下]]) was described as surrounded by the Four Seas ([[四海]]), namely 
 1. the Eastern Sea ([[東海]]), 
