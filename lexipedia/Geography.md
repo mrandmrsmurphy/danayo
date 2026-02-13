@@ -42,7 +42,7 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - <ruby>馬来西亜<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
 - Indonesia ([[印度]][[尼]][[西]][[亜]])  
-- Philippines ([[菲律賓]])
+- Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
 These states developed along maritime trade routes (海上商路) and river systems (大河流域).
 
 ## South Asia
@@ -132,16 +132,16 @@ South America includes mountain chains (山脈) and tropical forests (熱帯森�
 Independence movements (独立運動) produced republics (共和国).  
 Resource distribution (資源分布) and economic variation (経済差異) remain notable.
 
-### North America (北美)
+### 北美
 - <ruby>美国<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
 - <ruby>珈拿陀<rt>ㄎㄚㄋㄚㄙㄚ</rt></ruby>
 - Mexico (墨西哥)
 
-### Central America (中美)
+### 中美
 - Guatemala (危地馬拉)  
 - Panama (巴拿馬)
 
-### South America (南美)
+### 南美
 - Brazil (巴西)  
 - Argentina (阿根廷)  
 - Chile (智利)  
@@ -151,29 +151,29 @@ Resource distribution (資源分布) and economic variation (経済差異) remai
 The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems (自然体系).
 
 ## Oceania
-Oceania ([[大洋洲]]) consists largely of island states (島嶼国家).  
-Marine resources (海洋資源) support economic life (経済生活).  
-Population density (人口密度) is generally low.
+[[大洋洲]] consists largely of island states ([[島嶼]][[国家]]).  
+Marine resources ([[海洋]][[資源]]) support economic life (経済生活).  
+Population density ([[人口]][[密度]]) is generally low.
 
 - Australia ([[豪洲]])  
 - New Zealand ([[新西蘭]])  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
-Island distribution (島嶼分布) and marine routes (海洋航路) define regional structure (地域構造).
+Island distribution ([[島嶼]][[分布]]) and marine routes ([[海洋]][[航路]]) define regional structure ([[地域]][[構造]]).
 
 ## The Global Order
-The contemporary world (現代世界) operates within an international system (国際体系).  
-State sovereignty (国家主権) is a fundamental principle (基本原則).  
-International organizations (国際組織) mediate disputes (調解争端).
+The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚㄧ</rt></ruby>[[世界]]) operates within an international system ([[国際]][[体系]]).  
+State sovereignty ([[国家]][[主権]]) is a fundamental principle ([[基本]][[原則]]).  
+International organizations ([[国際]][[組織]]) mediate disputes ([[調解]][[争端]]).
 
-Economic interdependence (経済互依) and communication networks (通信網) connect regions globally (全球連結).
+Economic interdependence ([[経済]][[互依]]) and communication networks (通信網) connect regions globally (全球連結).
 
-Geography remains stable (地理相対不変).  
-History continues to transform conditions (歴史持続変化).  
-States seek stability (安定) and development (発展) within changing structures (変動構造).
+Geography remains stable ([[地理]][[相対]]不変).  
+History continues to transform conditions ([[歴史]][[持続]][[変化]]).  
+States seek <ruby>安定<rt>ㄚㄋㄐㄝㄥ</rt></ruby> and development ([[発展]]) within changing structures ([[変動]][[構造]]).
 
-United Nations ([[連合国]])  
-World Trade Organization (世界貿易組織)  
-International Monetary Fund (国際貨幣基金)
+- United Nations ([[連合国]])  
+- World Trade Organization (世界貿易組織)  
+- International Monetary Fund (国際貨幣基金)
 
-These institutions operate within principles of sovereignty (主権原則) and multilateral negotiation (多辺協議).
+These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
