@@ -3,41 +3,41 @@ The first part of our 常用字 list.
 <ruby>一<rt>읻</rt></ruby> <ruby>七<rt>칟</rt></ruby> <ruby>十<rt>십</rt></ruby> <ruby>九<rt>규</rt></ruby> <ruby>入<rt>닙</rt></ruby> <ruby>刀<rt>탓</rt></ruby> <ruby>二<rt>늬</rt></ruby> <ruby>力<rt>릭</rt></ruby> <ruby>八<rt>받</rt></ruby> <ruby>人<rt>닌</rt></ruby> <ruby>子<rt>지</rt></ruby> <ruby>之<rt>티</rt></ruby> <ruby>已<rt>이</rt></ruby> <ruby>与<rt>요</rt></ruby> <ruby>大<rt>대</rt></ruby> <ruby>三<rt>삼</rt></ruby> <ruby>才<rt>재</rt></ruby> <ruby>千<rt>천</rt></ruby> <ruby>万<rt>몬</rt></ruby> <ruby>山<rt>산</rt></ruby> <ruby>上<rt>샹</rt></ruby> <ruby>于<rt>우</rt></ruby> <ruby>小<rt>소</rt></ruby> <ruby>口<rt>콧</rt></ruby> <ruby>女<rt>뇻</rt></ruby> <ruby>下<rt>하</rt></ruby> <ruby>土<rt>토</rt></ruby> <ruby>太<rt>태</rt></ruby> <ruby>友<rt>윳</rt></ruby> <ruby>内<rt>뇌</rt></ruby> <ruby>中<rt>중</rt></ruby> <ruby>水<rt>수</rt></ruby> <ruby>父<rt>부</rt></ruby> <ruby>今<rt>김</rt></ruby> <ruby>毛<rt>맛</rt></ruby> <ruby>火<rt>화</rt></ruby> <ruby>犬<rt>퀀</rt></ruby> <ruby>手<rt>슈</rt></ruby> <ruby>牛<rt>뉴</rt></ruby> <ruby>午<rt>오</rt></ruby> <ruby>文<rt>문</rt></ruby> <ruby>天<rt>턴</rt></ruby> <ruby>木<rt>목</rt></ruby> <ruby>分<rt>분</rt></ruby> <ruby>五<rt>오</rt></ruby> <ruby>王<rt>왕</rt></ruby> <ruby>月<rt>웓</rt></ruby> <ruby>日<rt>닏</rt></ruby> <ruby>六<rt>룩</rt></ruby> <ruby>元<rt>원</rt></ruby> <ruby>少<rt>솟</rt></ruby> <ruby>心<rt>심</rt></ruby> <ruby>出<rt>춛</rt></ruby> <ruby>市<rt>시</rt></ruby> <ruby>北<rt>북</rt></ruby> <ruby>目<rt>묵</rt></ruby> <ruby>田<rt>던</rt></ruby> <ruby>本<rt>본</rt></ruby> <ruby>他<rt>타</rt></ruby> <ruby>冬<rt>통</rt></ruby> <ruby>去<rt>쿄</rt></ruby> <ruby>右<rt>유</rt></ruby> <ruby>世<rt>서</rt></ruby> <ruby>打<rt>다</rt></ruby> <ruby>石<rt>석</rt></ruby> <ruby>玉<rt>욕</rt></ruby> <ruby>号<rt>핫</rt></ruby> <ruby>外<rt>왜</rt></ruby> <ruby>用<rt>용</rt></ruby> <ruby>半<rt>반</rt></ruby> <ruby>白<rt>박</rt></ruby> <ruby>主<rt>주</rt></ruby> <ruby>立<rt>립</rt></ruby> <ruby>母<rt>못</rt></ruby> <ruby>正<rt>징</rt></ruby> <ruby>左<rt>자</rt></ruby> <ruby>四<rt>싀</rt></ruby> <ruby>生<rt>상</rt></ruby> <ruby>竹<rt>죽</rt></ruby> <ruby>毎<rt>뫼</rt></ruby> <ruby>気<rt>킈</rt></ruby> <ruby>年<rt>넌</rt></ruby> <ruby>肉<rt>눅</rt></ruby> <ruby>多<rt>다</rt></ruby> <ruby>休<rt>휴</rt></ruby> <ruby>字<rt>지</rt></ruby> <ruby>糸<rt>사</rt></ruby> <ruby>回<rt>회</rt></ruby> <ruby>次<rt>츼</rt></ruby> <ruby>先<rt>선</rt></ruby> <ruby>会<rt>훠</rt></ruby> <ruby>米<rt>메</rt></ruby> <ruby>耳<rt>니</rt></ruby> <ruby>地<rt>듸</rt></ruby> <ruby>有<rt>유</rt></ruby> <ruby>当<rt>당</rt></ruby> <ruby>行<rt>항</rt></ruby> <ruby>両<rt>량</rt></ruby> <ruby>死<rt>싀</rt></ruby> <ruby>虫<rt>중</rt></ruby> <ruby>向<rt>향</rt></ruby> <ruby>名<rt>밍</rt></ruby> <ruby>西<rt>세</rt></ruby> <ruby>全<rt>줜</rt></ruby> <ruby>灯<rt>둥</rt></ruby> <ruby>羊<rt>양</rt></ruby> <ruby>百<rt>박</rt></ruby> <ruby>交<rt>걋</rt></ruby> <ruby>早<rt>잣</rt></ruby> <ruby>足<rt>족</rt></ruby> <ruby>走<rt>좃</rt></ruby> <ruby>売<rt>매</rt></ruby> <ruby>里<rt>리</rt></ruby> <ruby>車<rt>차</rt></ruby> <ruby>近<rt>긴</rt></ruby> <ruby>弟<rt>더</rt></ruby> <ruby>花<rt>화</rt></ruby> <ruby>村<rt>촌</rt></ruby> <ruby>住<rt>주</rt></ruby> <ruby>何<rt>하</rt></ruby> <ruby>男<rt>남</rt></ruby> <ruby>作<rt>작</rt></ruby> <ruby>対<rt>되</rt></ruby> <ruby>究<rt>규</rt></ruby> <ruby>君<rt>군</rt></ruby> <ruby>見<rt>견</rt></ruby> <ruby>声<rt>싱</rt></ruby> <ruby>事<rt>지</rt></ruby> <ruby>放<rt>방</rt></ruby> <ruby>表<rt>뱟</rt></ruby> <ruby>所<rt>쇼</rt></ruby> <ruby>妹<rt>뫼</rt></ruby> <ruby>国<rt>곡</rt></ruby> <ruby>明<rt>명</rt></ruby> <ruby>東<rt>동</rt></ruby> <ruby>育<rt>육</rt></ruby> <ruby>長<rt>장</rt></ruby> <ruby>於<rt>오</rt></ruby> <ruby>姉<rt>자</rt></ruby> <ruby>学<rt>학</rt></ruby> <ruby>雨<rt>우</rt></ruby> <ruby>門<rt>몬</rt></ruby> <ruby>苦<rt>코</rt></ruby> <ruby>空<rt>콩</rt></ruby> <ruby>使<rt>시</rt></ruby> <ruby>知<rt>쥐</rt></ruby> <ruby>夜<rt>야</rt></ruby> <ruby>注<rt>주</rt></ruby> <ruby>彼<rt>비</rt></ruby> <ruby>画<rt>확</rt></ruby> <ruby>幸<rt>항</rt></ruby> <ruby>林<rt>림</rt></ruby> <ruby>金<rt>김</rt></ruby> <ruby>青<rt>청</rt></ruby> <ruby>和<rt>화</rt></ruby> <ruby>秋<rt>춧</rt></ruby> <ruby>重<rt>총</rt></ruby> <ruby>度<rt>도</rt></ruby> <ruby>送<rt>송</rt></ruby> <ruby>音<rt>움</rt></ruby> <ruby>思<rt>사</rt></ruby> <ruby>発<rt>팓</rt></ruby> <ruby>研<rt>언</rt></ruby> <ruby>活<rt>홛</rt></ruby> <ruby>急<rt>깁</rt></ruby> <ruby>春<rt>춘</rt></ruby> <ruby>相<rt>상</rt></ruby> <ruby>持<rt>디</rt></ruby> <ruby>草<rt>찻</rt></ruby> <ruby>海<rt>해</rt></ruby> <ruby>後<rt>홋</rt></ruby> <ruby>南<rt>남</rt></ruby> <ruby>指<rt>즤</rt></ruby> <ruby>哉<rt>재</rt></ruby> <ruby>某<rt>못</rt></ruby> <ruby>皆<rt>겨</rt></ruby> <ruby>風<rt>풍</rt></ruby> <ruby>点<rt>덤</rt></ruby> <ruby>前<rt>전</rt></ruby> <ruby>流<rt>류</rt></ruby> <ruby>病<rt>병</rt></ruby> <ruby>馬<rt>마</rt></ruby> <ruby>庭<rt>덩</rt></ruby> <ruby>高<rt>갓</rt></ruby> <ruby>夏<rt>햐</rt></ruby> <ruby>起<rt>키</rt></ruby> <ruby>通<rt>통</rt></ruby> <ruby>校<rt>햣</rt></ruby> <ruby>家<rt>가</rt></ruby> <ruby>紙<rt>저</rt></ruby> <ruby>根<rt>간</rt></ruby> <ruby>真<rt>진</rt></ruby> <ruby>酒<rt>줏</rt></ruby> <ruby>書<rt>쇼</rt></ruby> <ruby>記<rt>기</rt></ruby> <ruby>黒<rt>훅</rt></ruby> <ruby>雪<rt>숻</rt></ruby> <ruby>第<rt>데</rt></ruby> <ruby>動<rt>동</rt></ruby> <ruby>習<rt>십</rt></ruby> <ruby>問<rt>문</rt></ruby> <ruby>深<rt>심</rt></ruby> <ruby>族<rt>족</rt></ruby> <ruby>船<rt>줜</rt></ruby> <ruby>進<rt>진</rt></ruby> <ruby>宿<rt>숙</rt></ruby> <ruby>魚<rt>요</rt></ruby> <ruby>都<rt>도</rt></ruby> <ruby>教<rt>걋</rt></ruby> <ruby>黄<rt>황</rt></ruby> <ruby>章<rt>장</rt></ruby> <ruby>細<rt>세</rt></ruby> <ruby>軽<rt>킹</rt></ruby> <ruby>朝<rt>잣</rt></ruby> <ruby>短<rt>돤</rt></ruby> <ruby>開<rt>캐</rt></ruby> <ruby>雲<rt>운</rt></ruby> <ruby>筆<rt>빋</rt></ruby> <ruby>湖<rt>호</rt></ruby> <ruby>集<rt>집</rt></ruby> <ruby>等<rt>둥</rt></ruby> <ruby>場<rt>장</rt></ruby> <ruby>晴<rt>칭</rt></ruby> <ruby>道<rt>닷</rt></ruby> <ruby>間<rt>간</rt></ruby> <ruby>買<rt>매</rt></ruby> <ruby>着<rt>작</rt></ruby> <ruby>新<rt>신</rt></ruby> <ruby>圓<rt>원</rt></ruby> <ruby>話<rt>홰</rt></ruby> <ruby>漢<rt>한</rt></ruby> <ruby>路<rt>로</rt></ruby> <ruby>電<rt>던</rt></ruby> <ruby>想<rt>상</rt></ruby> <ruby>数<rt>수</rt></ruby> <ruby>業<rt>업</rt></ruby> <ruby>農<rt>농</rt></ruby> <ruby>意<rt>이</rt></ruby> <ruby>遠<rt>온</rt></ruby> <ruby>頗<rt>파</rt></ruby> <ruby>算<rt>솬</rt></ruby> <ruby>語<rt>요</rt></ruby> <ruby>歌<rt>가</rt></ruby> <ruby>読<rt>독</rt></ruby> <ruby>緑<rt>록</rt></ruby> <ruby>談<rt>담</rt></ruby> <ruby>橋<rt>걋</rt></ruby> <ruby>頭<rt>톳</rt></ruby> <ruby>薬<rt>약</rt></ruby> <ruby>顔<rt>안</rt></ruby>
 
 ## Number words
-<ruby>[[一 (char)|一]]<rt>읻</rt></ruby> one, <ruby>[[二 (char)|二]]<rt>늬</rt></ruby> two, <ruby>[[三 (char)|三]]<rt>삼</rt></ruby> three, <ruby>[[四 (char)|四]]<rt>싀</rt></ruby> four (homophone with 'death'), <ruby>[[五 (char)|五]]<rt>오</rt></ruby> five
-- <ruby>[[六 (char)]]<rt>룩</rt></ruby> : 'six'
-- <ruby>[[七 (char)]]<rt>칟</rt></ruby> : 'seven'
-- <ruby>[[八 (char)]]<rt>받</rt></ruby> : 'eight'
-- <ruby>[[九 (char)]]<rt>규</rt></ruby> : 'nine' 
-- <ruby>[[十]]<rt>십</rt></ruby> : 'ten', but not written/said alone: <ruby>一十<rt>읻십</rt></ruby> 
-- <ruby>[[千]]<rt>천</rt></ruby> : 'thousand', but not written/said alone: <ruby>一千<rt>읻천</rt></ruby> 
-- <ruby>[[万]]<rt>몬</rt></ruby> : 'ten-thousand', but not written/said alone: <ruby>一万<rt>읻몬</rt></ruby> 
-- <ruby>[[弟]]<rt>더</rt></ruby> : '-th', the ordinal number maker
-- <ruby>[[点]]<rt>덤</rt></ruby> : 'dot', the name of the decimal point
-- <ruby>[[分]]<rt>분</rt></ruby> : 'divide', used in naming fractions denominator
-- <ruby>[[半]]<rt>반</rt></ruby> : 'half', but not written/said alone: <ruby>一半<rt>읻반</rt></ruby> 
-<ruby>[[数]]<rt>수</rt></ruby> : 'number'
+<ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> one, <ruby>[[二 (char)|二]]<rt>ㄋㄧㄧ</rt></ruby> two, <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> three, <ruby>[[四 (char)|四]]<rt>ㄙㄧㄧ</rt></ruby> four (homophone with 'death'), <ruby>[[五 (char)|五]]<rt>ㄛ</rt></ruby> five
+- <ruby>[[六 (char)]]<rt>ㄌㄨㄎ</rt></ruby> : 'six'
+- <ruby>[[七 (char)]]<rt>ㄑㄧㄊ</rt></ruby> : 'seven'
+- <ruby>[[八 (char)]]<rt>ㄅㄚㄊ</rt></ruby> : 'eight'
+- <ruby>[[九 (char)]]<rt>ㄎ˙ㄨ</rt></ruby> : 'nine' 
+- <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> : 'ten', but not written/said alone: <ruby>一十<rt>ㄧㄊㄙㄧㄆ</rt></ruby> 
+- <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> : 'thousand', but not written/said alone: <ruby>一千<rt>ㄧㄊㄑㄝㄋ</rt></ruby> 
+- <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> : 'ten-thousand', but not written/said alone: <ruby>一万<rt>읻몬</rt></ruby> 
+- <ruby>[[弟]]<rt>ㄉㄝ</rt></ruby> : '-th', the ordinal number maker
+- <ruby>[[点]]<rt>ㄉㄝㄇ</rt></ruby> : 'dot', the name of the decimal point
+- <ruby>[[分]]<rt>ㄅㄨㄋ</rt></ruby> : 'divide', used in naming fractions denominator
+- <ruby>[[半]]<rt>ㄅㄚㄋ</rt></ruby> : 'half', but not written/said alone: <ruby>一半<rt>읻반</rt></ruby> 
+<ruby>[[数]]<rt>ㄙㄨ</rt></ruby> : 'number'
 
 ## Time words
-- <ruby>[[日 (char)]]<rt>닏</rt></ruby> : 'sun/day', used in the word 'Sunday' : <ruby>日曜日<rt>읻욧읻</rt></ruby>
-- <ruby>[[月 (char)]]<rt>웓</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>웓욧읻</rt></ruby>
-- <ruby>[[火]]<rt>화</rt></ruby> : 'fire', used in the word 'Tuesday'
-- <ruby>[[水]]<rt>수</rt></ruby> : 'water', used in the word 'Wednesday'
-- <ruby>[[木]]<rt>목</rt></ruby> : 'wood', used in the word 'Thursday'
-- <ruby>[[金]]<rt>김</rt></ruby> : 'metal', used in the word 'Friday'
-- <ruby>[[土]]<rt>토</rt></ruby> : 'earth', used in the word 'Saturday'
-- <ruby>[[冬]]<rt>통</rt></ruby>,
-<ruby>[[春]]<rt>춘</rt></ruby>,
-<ruby>[[今]]<rt>김</rt></ruby>,
+- <ruby>[[日 (char)]]<rt>ㄋㄧㄊ</rt></ruby> : 'sun/day', used in the word 'Sunday' : <ruby>日曜日<rt>ㄧㄊ·˙ㄛㄨ·ㄧㄊ</rt></ruby>
+- <ruby>[[月 (char)]]<rt>ˇㄝㄊ</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>ˇㄝㄊ·˙ㄛㄨ·ㄧㄊ</rt></ruby>
+- <ruby>[[火]]<rt>ㄏˇㄚ</rt></ruby> : 'fire', used in the word 'Tuesday' <ruby>火曜日</ruby>
+- <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> : 'water', used in the word 'Wednesday' <ruby>水曜日</ruby>
+- <ruby>[[木]]<rt>ㄇㄛㄎ</rt></ruby> : 'wood', used in the word 'Thursday' <ruby>木曜日</ruby>
+- <ruby>[[金]]<rt>ㄍㄧㄇ</rt></ruby> : 'metal', used in the word 'Friday' <ruby>金曜日</ruby>
+- <ruby>[[土]]<rt>ㄊㄛ</rt></ruby> : 'earth', used in the word 'Saturday' <ruby>土曜日</ruby>
+- <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>,
+<ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>,
+<ruby>[[今]]<rt>ㄍㄧㄇ</rt></ruby>,
 
 ## Grammar words
-<ruby>[[之]]<rt>티</rt></ruby>,
-<ruby>[[已]]<rt>이</rt></ruby>,
-<ruby>[[与]]<rt>요</rt></ruby>,
-<ruby>[[中]]<rt>중</rt></ruby>,
-<ruby>[[于]]<rt>우</rt></ruby>,
-<ruby>[[事]]<rt>지</rt></ruby>,
-<ruby>[[君]]<rt>군</rt></ruby>,
-<ruby>[[毎]]<rt>뫼</rt></ruby>,
+<ruby>[[之]]<rt>ㄊㄧ</rt></ruby>,
+<ruby>[[已]]<rt>ㄧ</rt></ruby>,
+<ruby>[[与]]<rt>˙ㄛ</rt></ruby>,
+<ruby>[[中]]<rt>ㄐㄨㄥ</rt></ruby>,
+<ruby>[[于]]<rt>ㄨ</rt></ruby>,
+<ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
+<ruby>[[君]]<rt>ㄍㄨㄋ</rt></ruby>,
+<ruby>[[毎]]<rt>ㄇㄛㄧ</rt></ruby>,
 
 ## People
 <ruby>[[人 (char)]]<rt>닌</rt></ruby>,
@@ -48,29 +48,29 @@ The first part of our 常用字 list.
 <ruby>[[女]]<rt>뇻</rt></ruby>,
 <ruby>[[友]]<rt>윳</rt></ruby>,
 <ruby>[[父]]<rt>부</rt></ruby>,
-<ruby>[[王]]<rt>왕</rt></ruby>,
+<ruby>[[王]]<rt>ˇㄚㄥ</rt></ruby>,
 <ruby>[[母]]<rt>못</rt></ruby>,
 
 ## Nature
-<ruby>[[山]]<rt>산</rt></ruby>,
-<ruby>[[牛]]<rt>뉴</rt></ruby>,
-<ruby>[[石]]<rt>석</rt></ruby>,
-<ruby>[[虫]]<rt>중</rt></ruby>,
-<ruby>[[羊]]<rt>양</rt></ruby>,
+<ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>,
+<ruby>[[牛]]<rt>ㄋ˙ㄨ</rt></ruby>,
+<ruby>[[石]]<rt>ㄙㄝㄎ</rt></ruby>,
+<ruby>[[虫]]<rt>ㄐㄨㄥ</rt></ruby>,
+<ruby>[[羊]]<rt>˙ㄚㄥ</rt></ruby>,
 
-<ruby>[[刀]]<rt>탓</rt></ruby>,
-<ruby>[[力 (char)]]<rt>릭</rt></ruby>,
-<ruby>[[大 (char)]]<rt>대</rt></ruby>,
-<ruby>[[才]]<rt>재</rt></ruby>,
-<ruby>[[上]]<rt>샹</rt></ruby>,
-<ruby>[[小 (char)]]<rt>소</rt></ruby>,
+<ruby>[[刀]]<rt>ㄊㄚㄨ</rt></ruby>,
+<ruby>[[力 (char)]]<rt>ㄌㄧㄎ</rt></ruby>,
+<ruby>[[大 (char)]]<rt>ㄉㄚㄧ</rt></ruby>,
+<ruby>[[才]]<rt>ㄐㄚㄧ</rt></ruby>,
+<ruby>[[上]]<rt>ㄙ˙ㄚㄥ</rt></ruby>,
+<ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby>,
 <ruby>[[下]]<rt>하</rt></ruby>,
 <ruby>[[太]]<rt>태</rt></ruby>,
 <ruby>[[内]]<rt>뇌</rt></ruby>,
 <ruby>[[毛]]<rt>맛</rt></ruby>,
 <ruby>[[犬]]<rt>퀀</rt></ruby>,
 <ruby>[[手]]<rt>슈</rt></ruby>,
-<ruby>[[午]]<rt>오</rt></ruby>,
+<ruby>[[午]]<rt>ㄛ</rt></ruby>,
 <ruby>[[文]]<rt>문</rt></ruby>,
 <ruby>[[天 (char)]]<rt>턴</rt></ruby>,
 <ruby>[[元]]<rt>원</rt></ruby>,
@@ -245,19 +245,19 @@ The first part of our 常用字 list.
 <ruby>[[想]]<rt>상</rt></ruby>,
 <ruby>[[業]]<rt>업</rt></ruby>,
 <ruby>[[農]]<rt>농</rt></ruby>^,
-<ruby>[[意]]<rt>이</rt></ruby>,
+<ruby>[[意]]<rt>ㄧ</rt></ruby>,
 <ruby>[[遠]]<rt>온</rt></ruby>,
-<ruby>[[頗]]<rt>파</rt></ruby>,
+<ruby>[[頗]]<rt>ㄆㄚ</rt></ruby>,
 <ruby>[[算]]<rt>솬</rt></ruby>,
-<ruby>[[語]]<rt>요</rt></ruby>,
-<ruby>[[歌]]<rt>가</rt></ruby>,
+<ruby>[[語]]<rt>˙ㄛ</rt></ruby>,
+<ruby>[[歌]]<rt>ㄍㄚ</rt></ruby>,
 <ruby>[[読]]<rt>독</rt></ruby>,
 <ruby>[[緑]]<rt>록</rt></ruby>,
 <ruby>[[談]]<rt>담</rt></ruby>,
 <ruby>[[橋]]<rt>걋</rt></ruby>,
 <ruby>[[頭]]<rt>톳</rt></ruby>,
-<ruby>[[薬]]<rt>약</rt></ruby>,
-<ruby>[[顔]]<rt>안</rt></ruby>
+<ruby>[[薬]]<rt>˙ㄚㄎ</rt></ruby>,
+<ruby>[[顔]]<rt>ㄚㄋ</rt></ruby>
 
 ## Data check
 ```dataview
