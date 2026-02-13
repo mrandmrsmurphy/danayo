@@ -8,7 +8,7 @@
 - <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
 - <ruby>西蔵<rt>ㄙㄝㄧㄑㄚㄥ</rt></ruby>
 - <ruby>台湾<rt>ㄉㄚㄧ·ˇㄚㄋ</rt></ruby>
-Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨㄨ</rt></ruby> and [[瑠球]]).
+Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨㄨ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
 The region contains mountains (山地), river systems (大河流域), islands (列島), and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
