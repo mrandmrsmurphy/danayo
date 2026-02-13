@@ -11,7 +11,7 @@
 Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨㄨ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
-The region contains mountains ([[山地]]), river systems ([[大河]][[流域]]), <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧㄧ</rt></ruby>, river systems ([[大河]][[流域]]), <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
 Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense ([[軍事]][[防守]]).
 
 ### Political Development
@@ -43,7 +43,7 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
 - Indonesia ([[印度]][[尼]][[西]][[亜]])  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
-These states developed along maritime trade routes (海上商路) and river systems (大河流域).
+These states developed along maritime trade routes (海上商路) and river systems ([[大河]]流域).
 
 ## South Asia
 South Asia ([[南亜]]) centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
