@@ -100,7 +100,7 @@ Historically associated with steppe confederations (草原聯盟) and caravan ro
 - Austria ([[双鷹国]])  
 - Poland (波蘭)  
 - Greece (希臘)  
-- Russia (俄羅斯)  
+- Russia ([[露斯亜]] 俄羅斯)  
 - Sweden (瑞典)  
 - Norway (挪威)  
 - Finland [[芬蘭]]
