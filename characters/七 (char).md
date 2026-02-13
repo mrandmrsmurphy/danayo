@@ -52,7 +52,7 @@ aliases:
 * <ruby>[[七月]]<rt>칟웓</rt></ruby> - July
 * <ruby>[[七夕]]<rt>칟석</rt></ruby> - Qixi (Chinese Valentines)
 * <ruby>[[七情]]<rt>칟칭</rt></ruby> - the Seven Emotions (traditional)
-* <ruby>[[七宝]]<rt>칟밧</rt></ruby> - Seven Treasures (Buddhism)
+* <ruby>[[七宝]]<rt>칟밧</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚㄨ</rt></ruby>)
 * <ruby>[[七事]]<rt>칟지</rt></ruby> - Seven Duties of a Sovereign
 * <ruby>[[七対子]]<rt>칟되지</rt></ruby> - Seven Pairs (Majong)
 * <ruby>[[七面鳥]]<rt>칟면촛</rt></ruby> - turkey
