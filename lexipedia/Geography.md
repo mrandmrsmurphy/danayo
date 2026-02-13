@@ -110,10 +110,10 @@ Industrial and political development (政治発展) in these states influenced g
 
 ## 非洲
 <ruby>非洲<rt>ㄆㄧㄐㄨㄨ</rt></ruby> includes major deserts (大沙漠) and large rivers (<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby>).  
-Ethnic diversity ([[民族]][[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
+Ethnic diversity (<ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>[[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
 
-Colonial rule ([[殖民]][[統治]]) shaped political boundaries ([[国境]][[形成]]).  
-Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) faced uneven development ([[発展]][[不均]]).
+Colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) shaped political boundaries ([[国境]][[形成]]).  
+Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) faced uneven development (<ruby>発展<rt>ㄏㄝㄥㄙㄧㄥ</rt></ruby>[[不均]]).
 
 - <ruby>埃及<rt>ㄚㄧㄍㄨㄆ</rt></ruby>
 - Ethiopia (埃塞俄比亜)  
@@ -122,16 +122,16 @@ Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>)
 - South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are major geographic features ([[主要]][[地理]][[要素]]).
+The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ·˙ㄛㄨ</rt></ruby><ruby>地理<rt>ㄉㄧㄧㄌㄧ</rt></ruby><ruby>要素<rt>˙ㄛㄨㄙㄛ</rt></ruby>.
 
 ## 美洲
-The Americas ([[美洲]]) include North America ([[北美]]) and South America ([[南美]]).
+<ruby>美洲<rt>ㄇㄧㄐㄨㄨ</rt></ruby> include North America ([[北美]]) and South America ([[南美]]).
 
 北美 contains large plains (広平原) and industrial states (工業<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
-南美 includes <ruby>山脈<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> and tropical forests ([[熱帯]][[森林]]).
+南美 includes <ruby>山脈<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> and tropical forests ([[熱帯]]<ruby>森林<rt>ㄙㄧㄇㄌㄧㄇ</rt></ruby>.
 
-Independence movements ([[独立]][[運動]]) produced republics (共和国).  
-Resource distribution ([[資源]][[分布]]) and economic variation ([[経済]][[差異]]) remain notable.
+Independence movements ([[独立]]<ruby>運動<rt>·ㄨㄋㄉㄛㄥ</rt></ruby> produced republics (共和国).  
+Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>差異<rt>ㄑㄚ·ㄧ</rt></ruby> remain notable.
 
 ### 北美
 - <ruby>美国<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
@@ -154,7 +154,7 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 ## Oceania
 <ruby>大洋洲<rt>大洋洲</rt></ruby> consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
 Marine resources (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life ([[経済]][[生活]]).  
-Population density ([[人口]][[密度]]) is generally low.
+Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
 
 - <ruby>豪洲<rt>ㄏㄚㄨㄐㄨㄨ</rt></ruby>
 - <ruby>新西蘭<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby>  
@@ -197,7 +197,7 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - and Southern Ocean ([[南冰洋]]). 
 In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects modern geographic science ([[近代]][[地理]]学) and global cartography (世界[[図法]]).
 
-In ancient East Asian thought, the division of the world followed a different structure. The civilized realm ([[天下]]) was described as surrounded by the Four Seas ([[四海]]), namely 
+In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 
 1. the Eastern Sea ([[東海]]), 
 2. Western Sea ([[西海]]), 
 3. Southern Sea ([[南海]]), 
@@ -212,6 +212,7 @@ These were directional boundary waters ([[方位]][[界水]]), not measured ocea
 - Yu (豫州),
 - Liang (梁州),
 - and Yong (雍州).
-These provinces (州) were civilizational and administrative regions (治域), not continents (洲). Thus the ancient model was concentric (環状構造), centered upon the royal domain (王域), while the modern model is global and comparative (全球並列構造), treating all continents as parallel divisions (並列区域).
 
-The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (文明宇宙観) to global geography (全球地理体系).
+These provinces (州) were civilizational and administrative regions ([[治域]]), not continents (洲). Thus the ancient model was concentric ([[環状]][[構造]]), centered upon the royal domain ([[王域]]), while the modern model is global and comparative ([[全球]][[並列]][[構造]]), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
+
+The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology ([[文明]][[宇宙]]観) to global geography ([[全球]][[地理]][[体系]]).
