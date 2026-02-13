@@ -6,7 +6,7 @@
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
 - <ruby>朝鮮<rt>ㄐㄚㄨㄙ˙ㄝㄋ</rt></ruby>
 - <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
-- [[西蔵]]
+- <ruby>西蔵<rt>ㄙㄝㄧㄑㄚㄥ</rt></ruby>
 - [[台湾]]
 Historically related regions include Manchuria (満洲) and Ryukyu (琉球).
 
