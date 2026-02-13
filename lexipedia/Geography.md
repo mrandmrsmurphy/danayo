@@ -1,4 +1,4 @@
-## Far East Asia
+## 東亜
 
 <ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨㄨ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
@@ -11,7 +11,7 @@
 Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨㄨ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
-The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧㄧ</rt></ruby>, river systems ([[大河]][[流域]]), <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧㄧ</rt></ruby>, <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
 Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense ([[軍事]][[防守]]).
 
 ### Political Development
@@ -19,15 +19,15 @@ Historically, imperial rule ([[帝国]][[制度]]) was dominant.
 <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
 <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>天皇<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
 
-In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics ([[共和]][[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
+In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>共和<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
-Shared writing (共通書記) and religious transmission ([[宗教]][[伝播]]) shaped the region.  
+Shared writing (共通書記) and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby>[[伝播]]) shaped the region.  
 <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[書記]][[媒体]]).  
 <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚㄨ</rt></ruby> spread eastward ([[東伝]]).  
-Exchange generated development ([[文化]][[発展]]) as well as rivalry ([[競争]]).
+Exchange generated development ([[文化]][[発展]]) as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
 
-## Southeast Asia
+## 東南亜
 [[東南亜]] lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
 The climate is largely tropical (熱帯気候). Island groups (島嶼群) and straits (海峡) are common.  
 Maritime transport (海上交通) forms an economic foundation (経済基礎).
@@ -43,11 +43,11 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
 - Indonesia ([[印度]][[尼]][[西]][[亜]])  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
-These states developed along maritime trade routes (海上商路) and river systems ([[大河]]流域).
+These states developed along maritime trade routes (海上商路) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
 
 ## South Asia
 South Asia ([[南亜]]) centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
-Major river valleys ([[大河]][[流域]]) and high mountains ([[高山]]) define the region.
+<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby> developed early.  
 <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄥ</rt></ruby> influenced surrounding regions.  
@@ -65,9 +65,9 @@ The Himalayan region (喜馬拉雅山地) forms a natural boundary (自然界線
 West Asia ([[西亜]]) includes desert zones (沙漠地帯) and strategic trade routes (商路要地).  
 Central Asia ([[中亜]]) contains steppe regions (草原地帯) historically associated with nomadic peoples (遊牧民族).
 
-Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[拡散]]) affected broader world history (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>[[歴史]]).
+Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
 
-### West Asia
+### 西亜
 - Iran (伊朗)  
 - Iraq (伊拉克)  
 - Turkey (土耳其)  
@@ -77,7 +77,7 @@ Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[�
 - United Arab Emirates (阿拉伯連合酋長国)
 This region historically connected Asia, Africa, and Europe through trade corridors (商路通道).
 
-### Central Asia
+### 中亜
 - Kazakhstan (哈薩克)  
 - Uzbekistan (烏茲別克)  
 - Turkmenistan (土庫曼)  
@@ -108,7 +108,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
 ## Africa
-Africa ([[非洲]]) includes major deserts (大沙漠) and large rivers ([[大河]]).  
+Africa ([[非洲]]) includes major deserts (大沙漠) and large rivers (<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby>).  
 Ethnic diversity ([[民族]][[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
 
 Colonial rule ([[殖民]][[統治]]) shaped political boundaries ([[国境]][[形成]]).  
@@ -121,13 +121,13 @@ Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>)
 - South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara (撒哈拉沙漠) and Nile River ([[尼羅河]]) are major geographic features ([[主要]][[地理]][[要素]]).
+The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are major geographic features ([[主要]][[地理]][[要素]]).
 
-## The Americas
+## 美洲
 The Americas ([[美洲]]) include North America ([[北美]]) and South America ([[南美]]).
 
-North America contains large plains (広平原) and industrial states (工業<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
-South America includes mountain chains ([[山脈]]) and tropical forests ([[熱帯]][[森林]]).
+北美 contains large plains (広平原) and industrial states (工業<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
+南美 includes <ruby>山脈<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> and tropical forests ([[熱帯]][[森林]]).
 
 Independence movements ([[独立]][[運動]]) produced republics (共和国).  
 Resource distribution ([[資源]][[分布]]) and economic variation ([[経済]][[差異]]) remain notable.
