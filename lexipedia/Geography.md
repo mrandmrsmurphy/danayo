@@ -1,6 +1,6 @@
 ## 東亜
 
-<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨㄨ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
+<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>[[亜洲]]<rt>ㄚㄐㄨㄨ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
 - <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
@@ -22,7 +22,7 @@ Historically, imperial rule ([[帝国]][[制度]]) was dominant.
 In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>共和<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
-Shared writing (共通書記) and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby>[[伝播]]) shaped the region.  
+Shared writing (共通書記) and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  
 <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[書記]][[媒体]]).  
 <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚㄨ</rt></ruby> spread eastward ([[東伝]]).  
 Exchange generated development ([[文化]][[発展]]) as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
@@ -85,7 +85,7 @@ This region historically connected Asia, Africa, and Europe through trade corrid
 - Tajikistan (塔吉克)
 Historically associated with steppe confederations (草原連盟) and caravan routes (駱駝商路).
 
-## Europe
+## 歐洲
 <ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
 - United Kingdom ([[英国]])  
@@ -161,7 +161,7 @@ Population density ([[人口]][[密度]]) is generally low.
 - Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
 Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[航路]]) define regional structure ([[地域]][[構造]]).
 
-## The Global Order
+## The Global System
 The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system ([[国際]][[体系]]).  
 State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle ([[基本]][[原則]]).  
 International organizations ([[国際]][[組織]]) mediate disputes ([[調解]][[争端]]).
@@ -177,3 +177,39 @@ States seek <ruby>安定<rt>ㄚㄋㄐㄝㄥ</rt></ruby> and development ([[発�
 - International Monetary Fund ([[国際]][[貨幣]][[基金]])
 
 These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
+
+### World Divisions: Ancient and Modern
+In the modern system, the earth is divided into continents (洲) and oceans (洋). The commonly recognized seven continents are 
+- Asia (亜洲),
+- Europe (欧洲),
+- Africa (非洲),
+- North America (北美洲),
+- South America (南美洲),
+- Oceania (大洋洲),
+- and Antarctica (南極洲). 
+Oceans are classified separately as major water bodies (大洋), including
+- the Pacific (太平洋), 
+- Atlantic (大西洋), 
+- Indian Ocean (印度洋), 
+- Arctic Ocean (北冰洋), 
+- and Southern Ocean (南冰洋). 
+In this framework, continents (洲) designate large landmasses, oceans (洋) designate global waters, and seas (海) refer to smaller regional waters such as the Mediterranean (地中海) or the South Sea (南海). This model reflects modern geographic science (近代地理学) and global cartography (世界図法).
+
+In ancient East Asian thought, the division of the world followed a different structure. The civilized realm ([[天下]]) was described as surrounded by the Four Seas ([[四海]]), namely 
+1. the Eastern Sea ([[東海]]), 
+2. Western Sea ([[西海]]), 
+3. Southern Sea ([[南海]]), 
+4. and Northern Sea ([[北海]])
+These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the Nine Provinces ([[九州]]), including:
+- Ji (冀州),
+- Yan (兗州),
+- Qing (青州),
+- Xu (徐州),
+- Yang (揚州),
+- Jing (荊州),
+- Yu (豫州),
+- Liang (梁州),
+- and Yong (雍州).
+These provinces (州) were civilizational and administrative regions (治域), not continents (洲). Thus the ancient model was concentric (環状構造), centered upon the royal domain (王域), while the modern model is global and comparative (全球並列構造), treating all continents as parallel divisions (並列区域).
+
+The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (文明宇宙観) to global geography (全球地理体系).
