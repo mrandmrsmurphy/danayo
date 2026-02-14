@@ -48,7 +48,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1072. [[援]] : aid
 1073. [[煙]] : smoke
 1074. [[猿]] : monkey
-1075. [[鉛]] : lead
+1075. [[鉛 (char)]] : lead
 1076. [[縁]] : 	緣	affinity
 1077. [[艶]] : 	艷	glossy
 1078. [[汚]] : dirty
@@ -665,7 +665,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1688. [[脱]] : undress
 1689. [[奪]] : rob
 1690. [[棚]] : shelf
-1691. [[誰]] : who (question word)
+1691. [[誰 (char)]] : who (question word)
 1692. [[丹]] : cinnabar
 1693. [[旦]] : daybreak
 1694. [[胆]] : 	[[胆|膽]]	gall bladder
@@ -854,7 +854,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1877. [[蛮]] : 	蠻	barbarian
 1878. [[盤]] : tray
 1879. [[妃]] : queen
-1880. [[彼]] : he
+1880. [[彼 (char)]] : he
 1881. [[披]] : expose 
 1882. [[卑]] : 	卑 lowly
 1883. [[疲]] : exhausted

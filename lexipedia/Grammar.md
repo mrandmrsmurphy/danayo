@@ -70,17 +70,18 @@ _the_ and _a_ are not part of Dan'a'yo
 - they : <ruby>其人等<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>
 - self : 
 	- grammatical reflexive: <ruby>自己<rt>ㄐㄧㄧㄍㄧ</rt></ruby>
-	- emphatic: [[自身]]
+	- emphatic: <ruby>自身<rt>ㄐㄧㄧㄙㄧㄋ</rt></ruby>
+	- ego: <ruby>自我<rt>ㄐㄧㄧ·ㄚ</rt></ruby>
 
 ### Interrogatives
-- when
-- where
+- when : <ruby>何時<rt>ㄏㄚㄙㄧ</rt></ruby>
+- where : <ruby>何処<rt>ㄏㄚㄑㄛ</rt></ruby>
 - whether
 - while
-- who
+- who : <ruby>[[誰]]<rt>ㄙ˙ㄝㄧ</rt></ruby>
 - how
 - why
-- what
+- what : <ruby>[[何]]<rt>ㄏㄚ</rt></ruby>
 - which
 
 ## Words about Grammar

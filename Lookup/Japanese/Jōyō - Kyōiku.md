@@ -243,7 +243,7 @@ The following prefecture names were added in 2017
 237. [[刀]] : sword ; tō (katana)
 238. [[番]] : number ; ban ()
 239. [[用]] : use ; yō (mochi-iru)
-240. [[何]] : what ; ka ( nani, nan)
+240. [[何 (char)]] : what ; ka ( nani, nan)
 ## Grade 3 - 200
 241. [[丁]] : chō ; pair
 242. [[世]] : sei ; se , yo, world
@@ -432,8 +432,8 @@ The following prefecture names were added in 2017
 425. [[配]] : hai , kuba-ru , distribute , 
 426. [[酒]] : shu , sake;  saka , rice wine , 
 427. [[重]] : jū;  chō , omo-i;  kasa-neru , heavy , 
-428. [[鉄]] : tetsu , – , iron , 
-429. [[銀]] : gin , – , silver , 
+428. [[鉄 (char)]] : tetsu , – , iron , 
+429. [[銀 (char)]] : gin , – , silver , 
 430. [[開]] : kai , hira-ku;  a-ku;  hira-keru;  a-keru , open , 
 431. [[院]] : in , – , institution , 
 432. [[陽]] : yō , – , sunshine , 

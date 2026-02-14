@@ -1,35 +1,36 @@
 ---
 mandarin:
-- shuí shéi
+  - shuí shéi
 cantonese:
-- seoi4
+  - seoi4
 korean:
-- 수
-korean_native: ''
+  - 수
+korean_native: ""
 japanese:
-- SUI
-japanese_nanori: ''
+  - SUI
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʑ
 middle_chinese_final: iuɪ
 stroke_count: 15
 radical: 言
 skip_number: 1-7-8
-grade_level: 3
-pos: ''
+grade_level: "3"
+pos: ""
 english:
-- who
+  - who
 羅馬字: syei
-韓文: '[[셰]]'
+韓文: "[[셰]]"
 joyo_level: 高等
-hsk_level: '1'
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 3281
 mc_id: 908
 graphemic_classification: 隹
-stand_in: 'TRUE'
+stand_in: 誰
 aliases:
-- 谁
+  - 谁
+注音: ㄙ˙ㄝㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

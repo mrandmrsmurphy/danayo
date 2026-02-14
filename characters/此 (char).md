@@ -1,33 +1,33 @@
 ---
 mandarin:
-- cǐ
+  - cǐ
 cantonese:
-- ci2
+  - ci2
 korean:
-- 차
-korean_native: ''
+  - 차
+korean_native: ""
 japanese:
-- SHI
-japanese_nanori: ''
+  - SHI
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iᴇ
 stroke_count: 6
 radical: 止
 skip_number: 1-4-2
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- this
+  - this
 羅馬字: ce
-韓文: '[[처]]'
+韓文: "[[처]]"
 joyo_level: 日本人名用漢字
-hsk_level: ''
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2143
 mc_id: 51
 graphemic_classification: 匕
-stand_in: 'TRUE'
+stand_in: 此
 aliases:
 ---
 ```meta-bind-embed

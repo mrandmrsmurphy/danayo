@@ -23,7 +23,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Abstractions : funny, easy, difficult, alone, free, normal, special, probable, secret
 
 ## Nouns
-- Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[鉄]]<rt>tet</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[銀]]<rt>'in</rt></ruby>
+- Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[鉄 (char)]]<rt>tet</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[銀 (char)]]<rt>'in</rt></ruby>
 - Territory : nature, world - <ruby>[[世界]]<rt>segye</rt></ruby>, land
 - Time: week - <ruby>[[週日]]<rt>juunit</rt></ruby>, month - <ruby>[[月 (char)]]<rt>'wet</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>jaknit</rt></ruby>, today - <ruby>[[今日]]<rt>gimnit</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>lainit</rt></ruby>, morning - <ruby>[[朝]]<rt>jau</rt></ruby>, afternoon - <ruby>[[午後]]<rt>'ohou</rt></ruby>
 - Season : spring - <ruby>[[春]]<rt>cun</rt></ruby>, summer - <ruby>[[夏]]<rt>hya</rt></ruby>, fall - <ruby>[[秋]]<rt>cuu</rt></ruby>, winter - <ruby>[[冬]]<rt>tong</rt></ruby>
@@ -139,7 +139,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Locations : central - [[中]], upper/high - [[上]], lower/low - [[下]], near, far
 - Directions : north - [[北]], south - [[南]], east - [[東]], west - [[西]]
 - Respect : great/grand - [[太]], glorious, noble - [[貴]], holy - [[聖]], royal - [[帝]]
-- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金]], silver - [[銀]], jewel
+- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金]], silver - [[銀 (char)]], jewel
 - Descriptive : windy, stinky
 - Color : white - [[, black - [[黒]], green, yellow - [[黄]], blue, red, orange, brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy

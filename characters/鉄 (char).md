@@ -1,35 +1,35 @@
 ---
 mandarin:
-- zhí
+  - zhí
 cantonese:
-- tit3
+  - tit3
 korean:
-- 철
-korean_native: ''
+  - 철
+korean_native: ""
 japanese:
-- TETSU
-japanese_nanori: ''
+  - TETSU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: tʰ
 middle_chinese_final: et
 stroke_count: 13
 radical: 金
 skip_number: 1-8-5
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- iron
+  - iron
 羅馬字: ted
-韓文: '[[턷]]'
-joyo_level: '3'
-hsk_level: ''
-hanmun_edu_level: ''
+韓文: "[[턷]]"
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 2259
 mc_id: 1308
 graphemic_classification: 呈
-stand_in: 'TRUE'
+stand_in: 鉄
 aliases:
-- 鐵
+  - 鐵
 ---
 ```meta-bind-embed
 [[nav/char_info]]

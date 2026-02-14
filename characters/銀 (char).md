@@ -1,37 +1,37 @@
 ---
 mandarin:
-- yín
+  - yín
 cantonese:
-- ngan4
+  - ngan4
 korean:
-- 은
-korean_native: ''
+  - 은
+korean_native: ""
 japanese:
-- GIN
-- GON
-japanese_nanori: ''
+  - GIN
+  - GON
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣiɪn
 stroke_count: 14
 radical: 金
 skip_number: 1-8-6
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- silver
-- money
+  - silver
+  - money
 羅馬字: in
-韓文: '[[인]]'
-joyo_level: '3'
-hsk_level: ''
+韓文: "[[인]]"
+joyo_level: "3"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2260
 mc_id: 2121
 graphemic_classification: 艮
-stand_in: 'TRUE'
+stand_in: 銀
 aliases:
-- 银
+  - 银
 ---
 ```meta-bind-embed
 [[nav/char_info]]
