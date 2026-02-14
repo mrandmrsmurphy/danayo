@@ -8,6 +8,8 @@ views:
       - file.name
       - 羅馬字
       - 韓文
+      - 注音
+      - date-last-perfect
       - english
       - 品詞
       - mandarin
@@ -27,3 +29,5 @@ views:
       note.羅馬字: 106
       note.english: 245
       note.品詞: 95
+      note.mandarin: 156
+      note.characters: 113

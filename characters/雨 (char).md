@@ -30,7 +30,7 @@ graphemic_classification: 象形
 stand_in: 雨
 aliases:
   - 雩
-注音: ·ㄨ
+注音: ㄨ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

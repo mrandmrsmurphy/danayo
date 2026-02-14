@@ -36,7 +36,7 @@ stand_in: 于
 aliases:
   - 亐
   - 於
-注音: ·ㄨ
+注音: ㄨ
 ---
 
 ```meta-bind-embed
