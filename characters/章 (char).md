@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: ɨɐŋ
-stroke_count: "11"
+stroke_count: 11
 radical: 立
 skip_number: 2-2-9
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - chapter
@@ -27,7 +27,7 @@ hanmun_edu_level: 中
 danayo_id: 211
 mc_id: 365
 graphemic_classification: 會意
-stand_in: "TRUE"
+stand_in: 章
 aliases:
   - 嶂
   - 鱆

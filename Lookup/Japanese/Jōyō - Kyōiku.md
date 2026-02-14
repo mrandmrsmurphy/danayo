@@ -386,7 +386,7 @@ The following prefecture names were added in 2017
 379. [[福]] : fuku , – , luck , 
 380. [[秒]] : byō , – , second , 
 381. [[究]] : kyū , – , research , 
-382. [[章]] : shō , – , chapter , 
+382. [[章 (char)]] : shō , – , chapter , 
 383. [[童]] : dō , – , juvenile , 
 384. [[笛]] : teki , fue , whistle , 
 385. [[第]] : dai ,  , ordinal number prefix , 

@@ -219,7 +219,7 @@ The first part of our 常用字 list.
 <ruby>[[都]]<rt>도</rt></ruby>,
 <ruby>[[教]]<rt>걋</rt></ruby>,
 <ruby>[[黄]]<rt>황</rt></ruby>,
-<ruby>[[章]]<rt>장</rt></ruby>,
+<ruby>[[章 (char)]]<rt>장</rt></ruby>,
 <ruby>[[細]]<rt>세</rt></ruby>,
 <ruby>[[軽]]<rt>킹</rt></ruby>,
 <ruby>[[朝]]<rt>잣</rt></ruby>,
