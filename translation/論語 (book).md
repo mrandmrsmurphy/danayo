@@ -63,7 +63,7 @@ While <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ·˙ㄛ</rt></ruby> has a lot in common w
 - 慝	2	悪
 - 狷	2	節制
 - 涖	2	臨
-- 滔	2	滿滿
+- 㴞	2	滿滿
 - 輗	1	軸釘
 - 軏	1	軛釘
 - 倩	1	晴
