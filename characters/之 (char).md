@@ -1,40 +1,40 @@
 ---
 mandarin:
-- zhī
+  - zhī
 cantonese:
-- zi1
+  - zi1
 korean:
-- 지
-korean_native: ''
+  - 지
+korean_native: ""
 japanese:
-- SHI
-japanese_nanori: ''
+  - SHI
+japanese_nanori: ""
 vietnamese:
-- chi
+  - chi
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: ɨ
-stroke_count: '3'
+stroke_count: 3
 radical: 丿
 skip_number: 4-3-4
-grade_level: 1
-pos: ''
+grade_level: "1"
+pos: ""
 english:
-- s
-- which
+  - s
+  - which
 羅馬字: ti
-韓文: '[[티]]'
+韓文: "[[티]]"
 joyo_level: 日本人名用漢字
-hsk_level: ''
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 12
 mc_id: 1
 graphemic_classification: 指事
-stand_in: 'TRUE'
+stand_in: 之
 aliases:
-- 㞢
-- 𠔇
-- 𡳿
-- の
+  - 㞢
+  - 𠔇
+  - 𡳿
+  - の
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -1,40 +1,40 @@
 ---
 mandarin:
-- lóng
+  - lóng
 cantonese:
-- lung4
+  - lung4
 korean:
-- 룡
-korean_native: ''
+  - 룡
+korean_native: ""
 japanese:
-- RYUU
-- ROU
-japanese_nanori: ''
+  - RYUU
+  - ROU
+japanese_nanori: ""
 vietnamese:
-- long
+  - long
 middle_chinese_initial: l
 middle_chinese_final: ɨoŋ
 stroke_count: 16
 radical: 龍
 skip_number: 1-9-7
-grade_level: 4
-pos: ''
+grade_level: "4"
+pos: ""
 english:
-- dragon
-- reptile
+  - dragon
+  - reptile
 羅馬字: lyong
-韓文: '[[룡]]'
-joyo_level: ''
-hsk_level: ''
+韓文: "[[룡]]"
+joyo_level: ""
+hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4312
 mc_id: 476
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: 龍
 aliases:
-- 竜
-- 龙
-- 龎
+  - 竜
+  - 龙
+  - 龎
 ---
 ```meta-bind-embed
 [[nav/char_info]]

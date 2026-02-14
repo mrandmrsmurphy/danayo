@@ -12,7 +12,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ŋ
 middle_chinese_final: uo
-stroke_count: "6"
+stroke_count: 6
 radical: 人
 skip_number: 1-2-4
 grade_level: 先進
@@ -27,7 +27,7 @@ hanmun_edu_level: ""
 danayo_id: 7500
 mc_id: 1160
 graphemic_classification: 五
-stand_in: "TRUE"
+stand_in: 伍
 aliases:
 注音: ㄛ
 ---

@@ -13,10 +13,10 @@ vietnamese:
   - thượng
 middle_chinese_initial: d͡ʑ
 middle_chinese_final: ɨɐŋ
-stroke_count: "3"
+stroke_count: 3
 radical: 一
 skip_number: 4-3-2
-grade_level: 1
+grade_level: "1"
 pos: noun
 english:
   - up
@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 21
 mc_id: 29
 graphemic_classification: 指事
-stand_in: "TRUE"
+stand_in: 上
 aliases:
   - 丄
 注音: ㄙ˙ㄚㄥ

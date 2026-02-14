@@ -8,4 +8,4 @@
 * [[勗]] = [[勖]]
 * <ruby>[[曼]]<rt>만</rt></ruby> long
 * <ruby>[[晨]]<rt>신</rt></ruby> daybreak
-* <ruby>[[黄]]<rt>황</rt></ruby> yellow
+* <ruby>[[黄 (char)]]<rt>황</rt></ruby> yellow

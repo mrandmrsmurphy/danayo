@@ -62,7 +62,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1086. [[憶]] : recollection
 1087. [[臆]] : timidity
 1088. [[虞]] : uneasiness
-1089. [[乙]] : the latter
+1089. [[乙 (char)]] : the latter
 1090. [[俺]] : I, we, myself
 1091. [[卸]] : wholesale
 1092. [[穏]] : 	穩	calm
@@ -415,7 +415,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1439. [[煮]] : 	煮 boil
 1440. [[遮]] : intercept
 1441. [[邪]] : wicked
-1442. [[蛇]] : snake
+1442. [[蛇 (char)]] : snake
 1443. [[酌]] : bartending
 1444. [[釈]] : 	釋	S	explanation
 1445. [[爵]] : baron
@@ -1056,7 +1056,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2078. [[離]] : detach
 2079. [[慄]] : fear
 2080. [[柳]] : willow
-2081. [[龍|竜]] : 	龍	dragon
+2081. [[龍 (char)|竜]] : 	龍	dragon
 2082. [[粒]] : grains
 2083. [[隆]] : 	隆 hump
 2084. [[硫]] : sulphur
@@ -1065,7 +1065,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2087. [[慮]] : prudence
 2088. [[了]] : finish
 2089. [[涼]] : refreshing
-2090. [[猟]] : 	獵	game-hunting
+2090. [[猟 (char)]] : 	獵	game-hunting
 2091. [[陵]] : mausoleum
 2092. [[僚]] : colleague
 2093. [[寮]] : dormitory

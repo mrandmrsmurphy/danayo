@@ -15,11 +15,11 @@ The following prefecture names were added in 2017
 10. [[十]] : jū (tō)    
 11. [[百]] : hyaku momo
 12. [[千]] sen chi
-13. [[上]] : jō (ue)    
+13. [[上 (char)]] : jō (ue)    
 14. [[下]] : ka / ge (shita, moto)    
 15. [[左]] : sa (hidari)    
 16. [[右]] : u / yū (migi)    
-17. [[中]] : chū (naka)    
+17. [[中 (char)]] : chū (naka)    
 18. [[大 (char)]] : dai / tai (ō-kii)    
 19. [[小]] : shō (chii-sai)    
 20. [[月 (char)]] : getsu / gatsu (tsuki)    
@@ -38,7 +38,7 @@ The following prefecture names were added in 2017
 33. [[虫]] : chū (mushi)    
 34. [[花]] : ka (hana)    
 35. [[草]] : sō (kusa)    
-36. [[犬]] : ken (inu)    
+36. [[犬 (char)]] : ken (inu)    
 37. [[人]] : jin / nin (hito)    
 38. [[名]] : mei / myō (na)    
 39. [[女]] : jo (onna)    
@@ -97,7 +97,7 @@ The following prefecture names were added in 2017
 91. [[点]] : point ; ten (bochi)
 92. [[丸]] : circle ; gan (maru)
 93. [[交]] : intersect ; kō (maji-waru)
-94. [[光]] : light ; kō (hikari)
+94. [[光 (char)]] : light ; kō (hikari)
 95. [[角]] : corner, horn ; kaku (kado, tsuno, sumi)
 96. [[計]] : measure ; kei (haka-ru)
 97. [[直]] : straight, fix ; choku, jiki (tada-chini, nao-su)
@@ -111,7 +111,7 @@ The following prefecture names were added in 2017
 105. [[母]] : mother ; bo (haha, kā)
 106. [[父]] : father ; fu (chichi, tou)
 107. [[姉]] : older sister ; shi (ane)
-108. [[兄]] : older brother ; kei, kyō (ani)
+108. [[兄 (char)]] : older brother ; kei, kyō (ani)
 109. [[弟]] : younger brother ; tei, dai (otōto)
 110. [[妹]] : younger sister ; mai (imōto)
 111. [[自]] : oneself ; ji, shi (mizuka-ra)
@@ -198,7 +198,7 @@ The following prefecture names were added in 2017
 192. [[元]] : origin ; gen, gan (moto)
 193. [[食]] : eat ; shoku (ta-beru, ku-u)
 194. [[肉]] : meat ; niku ()
-195. [[馬]] : horse ; ba (uma, ma)
+195. [[馬 (char)]] : horse ; ba (uma, ma)
 196. [[牛]] : cow ; gyū (ushi)
 197. [[魚]] : fish ; gyo ( sakana)
 198. [[鳥]] : bird ; chō (tori)
@@ -208,8 +208,8 @@ The following prefecture names were added in 2017
 202. [[米]] : rice ; bei, mai (kome)
 203. [[茶]] : tea ; cha, sa ()
 204. [[色]] : colour ; shoku (iro)
-205. [[黄]] : yellow ; ō (ki)
-206. [[黒]] : black ; koku (kuro)
+205. [[黄 (char)]] : yellow ; ō (ki)
+206. [[黒 (char)]] : black ; koku (kuro)
 207. [[来]] : come ; rai (ku-ru)
 208. [[行]] : go ; kō, gyō (i-ku, yu-ku, okona-u)
 209. [[帰]] : return ; ki (kae-ru)
@@ -224,7 +224,7 @@ The following prefecture names were added in 2017
 218. [[汽]] : steam ; ki ()
 219. [[弓]] : bow ; kyū (yumi)
 220. [[回]] : number of times, revolve ; kai (mawa-ru)
-221. [[会]] : meet ; kai, e (a-u)
+221. [[会 (char)]] : meet ; kai, e (a-u)
 222. [[組]] : team ; so (kumi)
 223. [[船]] : ship ; sen (fune)
 224. [[明]] : bright ; mei (aka-rui)
@@ -253,7 +253,7 @@ The following prefecture names were added in 2017
 246. [[予]] : yo , – , in advance , 
 247. [[事]] : ji , koto , abstract thing , 
 248. [[士|仕]] : shi , tsuka-eru , serve , 
-249. [[他]] : ta , hoka , other , 
+249. [[他 (char)]] : ta , hoka , other , 
 250. [[代]] : dai; tai , ka-waru;  yo , substitute , 
 251. [[住]] : jū , su-mu , dwell , 
 252. [[使]] : shi , tsuka-u , use , 
@@ -444,12 +444,12 @@ The following prefecture names were added in 2017
 437. [[飲]] : in , no-mu , drink , 
 438. [[館]] : kan , yakata , public building , 
 439. [[駅]] : eki , – , station , 
-440. [[鼻]] : bi , hana , nose 
+440. [[鼻 (char)]] : bi , hana , nose 
 ## Grade 4 - 200
 441. [[不]] : fu ;  bu	 –	not
 442. [[争]] : sō	araso-u	conflict
 443. [[付]] : fu	tsu-ku	attach
-444. [[令]] : rei	 –	orders
+444. [[令 (char)]] : rei	 –	orders
 445. [[以]] : i	 –	since
 446. [[仲]] : chū	naka	go-between
 447. [[伝]] : den	tsuta-eru	transmit
@@ -654,7 +654,7 @@ The following prefecture names were added in 2017
 645. [[仮]] : ka ; ke	kari	sham
 646. [[件]] : ken	 	affair
 647. [[任]] : nin	maka-seru	responsibility
-648. [[似]] : ji	ni-ru	becoming
+648. [[似 (char)]] : ji	ni-ru	becoming
 649. [[余]] : yo	ama-ru	too much
 650. [[価]] : ka	atai	value
 651. [[保]] : ho	tamo-tsu	preserve

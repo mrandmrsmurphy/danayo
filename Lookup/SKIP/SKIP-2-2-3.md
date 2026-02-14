@@ -15,7 +15,7 @@ date-last-perfect: 2026-02-07
 - <ruby>[[矛]]<rt>ㄇㄚㄨ</rt></ruby>
 - <ruby>[[矢]]<rt>ㄙㄧㄧ</rt></ruby>
 - <ruby>[[立]]<rt>ㄌㄧㄆ</rt></ruby>
-- <ruby>[[令]]<rt>ㄌㄝㄥ</rt></ruby>
+- <ruby>[[令 (char)]]<rt>ㄌㄝㄥ</rt></ruby>
 - <ruby>[[卉]]<rt>ㄏㄨㄧ</rt></ruby>
 - <ruby>[[孕]]<rt>ㄧㄥ</rt></ruby>
 - <ruby>[[玄]]<rt>ㄏˇㄝㄋ</rt></ruby>

@@ -9,12 +9,12 @@ The bird radical, i.e. [[鳥]], a.k.a. [[鳥|鸟]].
 - <ruby>[[鳴]]<rt>명</rt></ruby> - cry, chirp
 - <ruby>[[鳶]]<rt>연</rt></ruby> - kite (bird)
 #### +4
-- <ruby>[[鴎]]<rt>옷</rt></ruby> - seagull
+- <ruby>[[鴎 (char)]]<rt>옷</rt></ruby> - seagull
 #### +5
 - <ruby>[[鴔]]<rt>빕</rt></ruby> - hoopoe
 - <ruby>[[鴛]]<rt>온</rt></ruby> - mallard
 - <ruby>[[鴦]]<rt>안</rt></ruby> - mandarin duck
-- <ruby>[[鴨]]<rt>압</rt></ruby> - duck
+- <ruby>[[鴨 (char)]]<rt>압</rt></ruby> - duck
 #### +6
 - <ruby>[[鴻]]<rt>홍</rt></ruby> - swan
 - <ruby>[[鵉]]<rt>란</rt></ruby> - luan

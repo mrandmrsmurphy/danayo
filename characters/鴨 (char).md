@@ -1,35 +1,35 @@
 ---
 mandarin:
-  - ōu
+  - yā
 cantonese:
-  - au1
+  - aap3
 korean:
+  - 압
 korean_native: ""
 japanese:
   - OU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʔ
-middle_chinese_final: əu
-stroke_count: 15
+middle_chinese_final: ɣap
+stroke_count: 16
 radical: 鳥
-skip_number: 1-4-11
+skip_number: 1-5-11
 grade_level: 名
 pos: ""
 english:
-  - seagull
-羅馬字: "'ou"
-韓文: 옷
+  - duck
+羅馬字: ab
+韓文: "[[압]]"
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
-danayo_id: 8247
-mc_id: 7852
-graphemic_classification: 区
-stand_in: "TRUE"
+danayo_id: 8684
+mc_id: 6117
+graphemic_classification: 甲
+stand_in: 鴨
 aliases:
-  - 鷗
-注音: ㄛㄨ
+  - 鸭
 ---
 ```meta-bind-embed
 [[nav/char_info]]

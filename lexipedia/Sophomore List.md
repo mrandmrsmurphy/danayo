@@ -136,11 +136,11 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 ### Adjectives
 - Age: new - [[新]], old - [[古]]
 - Shapes : round, flat, wide, narrow
-- Locations : central - [[中]], upper/high - [[上]], lower/low - [[下]], near, far
+- Locations : central - [[中 (char)]], upper/high - [[上 (char)]], lower/low - [[下]], near, far
 - Directions : north - [[北]], south - [[南]], east - [[東]], west - [[西]]
 - Respect : great/grand - [[太]], glorious, noble - [[貴]], holy - [[聖]], royal - [[帝]]
 - Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金]], silver - [[銀 (char)]], jewel
 - Descriptive : windy, stinky
-- Color : white - [[, black - [[黒]], green, yellow - [[黄]], blue, red, orange, brown
+- Color : white - [[, black - [[黒 (char)]], green, yellow - [[黄 (char)]], blue, red, orange, brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy
-- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[鷹]], eagle - [[鵰]], dragon - [[龍]], ram - [[羊]]
+- Animals : horse - [[馬 (char)]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[鷹]], eagle - [[鵰]], dragon - [[龍 (char)]], ram - [[羊]]

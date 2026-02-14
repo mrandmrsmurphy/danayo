@@ -1,34 +1,34 @@
 ---
 mandarin:
-- xiōng
+  - xiōng
 cantonese:
-- hing1
+  - hing1
 korean:
-- 형
-korean_native: ''
+  - 형
+korean_native: ""
 japanese:
-- KEI
-- KYOU
-japanese_nanori: ''
+  - KEI
+  - KYOU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: wɣiæŋ
 stroke_count: 5
 radical: 儿
 skip_number: 2-3-2
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- brother#older
+  - brother#older
 羅馬字: hyong
-韓文: '[[횽]]'
-joyo_level: '2'
-hsk_level: ''
+韓文: "[[횽]]"
+joyo_level: "2"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2020
 mc_id: 461
 graphemic_classification: 會意
-stand_in: 'TRUE'
+stand_in: 兄
 aliases:
 ---
 ```meta-bind-embed

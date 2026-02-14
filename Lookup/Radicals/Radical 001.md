@@ -20,7 +20,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
 * <ruby>[[丈]]<rt>ㄐㄚㄥ</rt></ruby> - only
 * <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
-* <ruby>[[上]]<rt>ㄙㄧㄚㄥ</rt></ruby> - above
+* <ruby>[[上 (char)]]<rt>ㄙㄧㄚㄥ</rt></ruby> - above
 * <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> - below
 * 丌 --> ancient variant of 其
 * 亐 --> ancient variant of 于

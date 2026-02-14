@@ -13,7 +13,7 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 
 ## Strokes 
 ### +0 
-<ruby>[[龍]]<rt>룡</rt></ruby> - dragon
+<ruby>[[龍 (char)]]<rt>룡</rt></ruby> - dragon
 
 ### +2 
 * 龎 --> variant of 龐

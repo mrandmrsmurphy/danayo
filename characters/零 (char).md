@@ -40,7 +40,7 @@ aliases:
 ```
 
 # Notes
-- [[Radical 173|雨]] + [[令]] = [[SKIP-2-8-5]] ([[Stroke 13]])
+- [[Radical 173|雨]] + [[令 (char)]] = [[SKIP-2-8-5]] ([[Stroke 13]])
 - [[HSK Beginner]], [[Jōyō - Kōtō]], [[Korean HS]], [[Grade 4]]
 ### Links
 ![[nav/Numerals]]

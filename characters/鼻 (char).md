@@ -1,34 +1,34 @@
 ---
 mandarin:
-- bí
+  - bí
 cantonese:
-- bei6
+  - bei6
 korean:
-- 비
-korean_native: ''
+  - 비
+korean_native: ""
 japanese:
-- BI
-- HI
-japanese_nanori: ''
+  - BI
+  - HI
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: iɪ
 stroke_count: 14
 radical: 鼻
 skip_number: 2-6-8
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- nose
+  - nose
 羅馬字: bi
-韓文: '[[비]]'
-joyo_level: '3'
-hsk_level: ''
+韓文: "[[비]]"
+joyo_level: "3"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2278
 mc_id: 1643
 graphemic_classification: 畀
-stand_in: 'TRUE'
+stand_in: 鼻
 aliases:
 ---
 ```meta-bind-embed

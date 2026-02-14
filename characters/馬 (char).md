@@ -14,10 +14,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: ɣa
-stroke_count: "10"
+stroke_count: 10
 radical: 馬
 skip_number: 3-6-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - horse
@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 182
 mc_id: 145
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 馬
 aliases:
   - 马
   - 瑪

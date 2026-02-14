@@ -39,11 +39,11 @@ date-last-perfect: 2026-02-01
 [[nav/char_info]]
 ```
 # Notes
-- For anti-forgery purposes, use [[伍]]
+- For anti-forgery purposes, use [[伍 (char)]]
 - [[Radical 007|二]] = [[SKIP-4-4-1]] ([[Stroke 04]])
 - [[Grade 1]], [[Jōyō - Kyōiku]], [[Korean MS]], [[HSK Beginner]]
 ### Descendants
-- 人 + 五 = [[伍]]
+- 人 + 五 = [[伍 (char)]]
 - 五 + 口 = [[吾]] (see there for more descendants)
 ## Important Words
 * <ruby>[[五経]]<rt>·ㄛㄍㄝㄥ</rt></ruby> - The Five Classics

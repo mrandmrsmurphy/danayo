@@ -1,36 +1,36 @@
 ---
 mandarin:
-- yǐ
+  - yǐ
 cantonese: ji5
 korean:
-- 이
+  - 이
 korean_native: 써
 japanese:
-- I
+  - I
 japanese_nanori: もち
 vietnamese:
-- dĩ
+  - dĩ
 middle_chinese_initial: j
 middle_chinese_final: ɨ
-stroke_count: '5'
+stroke_count: 5
 radical: 人
 skip_number: 1-2-3
-grade_level: 2
+grade_level: "2"
 pos: postposition
 english:
-- by
-- using
+  - by
+  - using
 羅馬字: i
-韓文: '[[이]]'
-joyo_level: '4'
-hsk_level: '2'
+韓文: "[[이]]"
+joyo_level: "4"
+hsk_level: "2"
 hanmun_edu_level: 중
 danayo_id: 2008
 mc_id: 4
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: 以
 aliases:
-- 㠯
+  - 㠯
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -1,44 +1,44 @@
 ---
 mandarin:
-- tā
+  - tā
 cantonese:
-- taa1
+  - taa1
 korean:
-- 타
-korean_native: ''
+  - 타
+korean_native: ""
 japanese:
-- TA
-japanese_nanori: ''
+  - TA
+japanese_nanori: ""
 vietnamese:
-- tha
-- thà
-- thè
-- thơ
+  - tha
+  - thà
+  - thè
+  - thơ
 middle_chinese_initial: tʰ
 middle_chinese_final: ɑ
-stroke_count: '5'
+stroke_count: 5
 radical: 人
 skip_number: 1-2-3
-grade_level: 1
-pos: ''
+grade_level: "1"
+pos: ""
 english:
-- another
+  - another
 羅馬字: ta
-韓文: '[[타]]'
-joyo_level: '3'
-hsk_level: '1'
+韓文: "[[타]]"
+joyo_level: "3"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 59
 mc_id: 1055
 graphemic_classification: 蛇
-stand_in: 'TRUE'
+stand_in: 他
 aliases:
-- 他
-- 她
-- 牠
-- 祂
-- 沱
-- 沲
+  - 他
+  - 她
+  - 牠
+  - 祂
+  - 沱
+  - 沲
 ---
 ```meta-bind-embed
 [[nav/char_info]]

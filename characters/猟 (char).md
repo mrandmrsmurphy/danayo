@@ -26,7 +26,7 @@ hanmun_edu_level: ""
 danayo_id: 5120
 mc_id: 1334
 graphemic_classification: 鼡
-stand_in: "TRUE"
+stand_in: 猟
 aliases:
   - 獵
 注音: ㄌㄛㄆ

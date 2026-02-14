@@ -1,36 +1,36 @@
 ---
 mandarin:
-- sì
+  - sì
 cantonese:
-- ci5
+  - ci5
 korean:
-- 사
-korean_native: ''
+  - 사
+korean_native: ""
 japanese:
-- JI
-japanese_nanori: ''
+  - JI
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: z
 middle_chinese_final: ɨ
-stroke_count: '7'
+stroke_count: 7
 radical: 人
 skip_number: 1-2-5
-grade_level: 5
-pos: ''
+grade_level: "5"
+pos: ""
 english:
-- like
-- as
-- resembling
-- as if
+  - like
+  - as
+  - resembling
+  - as if
 羅馬字: sa
-韓文: '[[사]]'
-joyo_level: '5'
-hsk_level: ''
+韓文: "[[사]]"
+joyo_level: "5"
+hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5330
 mc_id: 1028
 graphemic_classification: 以
-stand_in: 'TRUE'
+stand_in: 似
 aliases:
 ---
 ```meta-bind-embed

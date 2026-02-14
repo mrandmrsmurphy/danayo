@@ -1,34 +1,34 @@
 ---
 mandarin:
-- hēi
+  - hēi
 cantonese:
-- hak1
+  - hak1
 korean:
-korean_native: ''
+korean_native: ""
 japanese:
-- KOKU
-japanese_nanori: ''
+  - KOKU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: h
 middle_chinese_final: ək
-stroke_count: '11'
+stroke_count: 11
 radical: 黒
 skip_number: 2-7-4
-grade_level: 1
-pos: ''
+grade_level: "1"
+pos: ""
 english:
-- black
+  - black
 羅馬字: hug
-韓文: '[[훅]]'
-joyo_level: '1'
-hsk_level: ''
+韓文: "[[훅]]"
+joyo_level: "1"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 196
 mc_id: 851
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: 黒
 aliases:
-- 黑
+  - 黑
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -15,10 +15,10 @@ vietnamese:
   - bất
 middle_chinese_initial: p
 middle_chinese_final: ɨut
-stroke_count: "4"
+stroke_count: 4
 radical: 一
 skip_number: 4-4-1
-grade_level: 2
+grade_level: "2"
 pos: adverb
 english:
   - not
@@ -30,7 +30,7 @@ hanmun_edu_level: 中
 danayo_id: 2001
 mc_id: 2
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 不
 aliases:
   - 𠀚
   - 𠙐

@@ -9,7 +9,7 @@
 -  个 -> 個
 - forbidden 㐃
 ### +3 Strokes
--  <ruby>[[中]]<rt>중</rt></ruby>
+-  <ruby>[[中 (char)]]<rt>중</rt></ruby>
 - 丰-->豊
 - 书-->書
 ### +6 Strokes

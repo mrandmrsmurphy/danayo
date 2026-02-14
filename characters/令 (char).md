@@ -28,7 +28,7 @@ hanmun_edu_level: 中
 danayo_id: 3009
 mc_id: 88
 graphemic_classification: 會意
-stand_in: "TRUE"
+stand_in: 令
 aliases:
   - 囹
 注音: ㄌㄝㄥ

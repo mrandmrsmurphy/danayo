@@ -1,7 +1,7 @@
 > [[Stroke]]
 
 - <ruby>[[一 (char)|一]]<rt>읻</rt></ruby>
-- <ruby>[[乙]]<rt>옫</rt></ruby>
+- <ruby>[[乙 (char)]]<rt>옫</rt></ruby>
 
 These are all alias of other things:
 - 丨

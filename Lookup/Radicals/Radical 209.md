@@ -1,6 +1,6 @@
 > [[Radicals]]
 
-Only <ruby>[[鼻]]<rt>비</rt></ruby> - nose
+Only <ruby>[[鼻 (char)]]<rt>비</rt></ruby> - nose
 
 ## Data check
 ```dataview
