@@ -5,7 +5,7 @@
 ### +0
 - <ruby>[[二 (char)]]<rt>늬</rt></ruby> 'two', and it's variants 𠄞, 𠄟, and 𠄠.
 ### +1
-- <ruby>[[于]]<rt>우</rt></ruby> 'to'
+- <ruby>[[于 (char)]]<rt>우</rt></ruby> 'to'
 - The forbidden character 亍
 - 亏 which is an variant of 虧
 三 is organized under Radical 1.

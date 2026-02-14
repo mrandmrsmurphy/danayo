@@ -9,7 +9,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[一 (char)|一]]<rt>·ㄧㄊ</rt></ruby> - one
 
 ## +1 Stroke
-* <ruby>[[丁]]<rt>ㄉㄝㄥ</rt></ruby> - fourth
+* <ruby>[[丁 (char)]]<rt>ㄉㄝㄥ</rt></ruby> - fourth
 * <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven 
 * 丂 --> ancient variant of 于 and of 考
 * 丄 --> ancient variant of 上

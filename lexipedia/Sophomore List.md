@@ -12,7 +12,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 * smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>'u</rt></ruby>
 * real - <ruby>[[真]]<rt>jin</rt></ruby> , fake <ruby>[[不真]]<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>'an</rt></ruby>)
 * upper - 上- , lower - 下-
-* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[便]]<rt>byen</rt></ruby>
+* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[便 (char)]]<rt>byen</rt></ruby>
 * sweet - <ruby>[[甘]]<rt>gam</rt></ruby> , sour - <ruby>[[酸]]<rt>swam</rt></ruby>
 * strong - <ruby>[[強]]<rt>gyang</rt></ruby> , weak - <ruby>[[柔]]<rt>nyu</rt></ruby>
 * different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
@@ -139,7 +139,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Locations : central - [[中 (char)]], upper/high - [[上 (char)]], lower/low - [[下]], near, far
 - Directions : north - [[北]], south - [[南]], east - [[東]], west - [[西]]
 - Respect : great/grand - [[太]], glorious, noble - [[貴]], holy - [[聖]], royal - [[帝]]
-- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金]], silver - [[銀 (char)]], jewel
+- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金 (char)]], silver - [[銀 (char)]], jewel
 - Descriptive : windy, stinky
 - Color : white - [[, black - [[黒 (char)]], green, yellow - [[黄 (char)]], blue, red, orange, brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy

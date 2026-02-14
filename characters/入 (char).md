@@ -32,7 +32,7 @@ hanmun_edu_level: 중
 danayo_id: 5
 mc_id: 96
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 入
 aliases:
 ---
 ```meta-bind-embed

@@ -11,7 +11,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: iᴇi
-stroke_count: "5"
+stroke_count: 5
 radical: 厂
 skip_number: 3-2-3
 grade_level: 先進
@@ -26,7 +26,7 @@ hanmun_edu_level: ""
 danayo_id: 7460
 mc_id: 770
 graphemic_classification: 萬
-stand_in: "TRUE"
+stand_in: 厉
 aliases:
   - 厲
   - 蛎

@@ -27,7 +27,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1051. [[咽]] : throat
 1052. [[姻]] : matrimony
 1053. [[淫]] : 	lewdness
-1054. [[陰]] : shade
+1054. [[陰 (char)]] : shade
 1055. [[隠]] : 	隱	conceal
 1056. [[韻]] : rhyme
 1057. [[唄]] : songs with samisen
@@ -77,7 +77,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1101. [[禍]] : 	禍	calamity
 1102. [[靴]] : shoes
 1103. [[寡]] : widow
-1104. [[個|箇]] : counters for things
+1104. [[個 (char)|箇]] : counters for things
 1105. [[稼]] : earnings
 1106. [[蚊]] : mosquito
 1107. [[牙]] :  tusk
@@ -625,7 +625,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1648. [[槽]] : vat
 1649. [[踪]] : remains
 1650. [[燥]] : parch
-1651. [[霜]] : frost
+1651. [[霜 (char)]] : frost
 1652. [[騒 (char)]] : 	[[騒 (char)|騷]]	boisterous
 1653. [[藻]] : seaweed
 1654. [[憎]] : 	[[憎]] hate

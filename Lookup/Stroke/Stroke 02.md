@@ -1,6 +1,6 @@
 > [[Stroke]]
 
-- <ruby>[[丁]]<rt>덩</rt></ruby>
+- <ruby>[[丁 (char)]]<rt>덩</rt></ruby>
 - <ruby>[[七 (char)|七]]<rt>칟</rt></ruby>
 - <ruby>[[乂]]<rt>얘</rt></ruby>
 - <ruby>[[乃]]<rt>내</rt></ruby>

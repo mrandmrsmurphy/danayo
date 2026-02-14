@@ -17,7 +17,7 @@ middle_chinese_final: eŋ
 stroke_count: 2
 radical: 一
 skip_number: 4-2-1
-grade_level: 3
+grade_level: "3"
 pos: 名詞
 english:
   - fourth
@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 3002
 mc_id: 705
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 丁
 aliases:
   - 𠆤
 注音: ㄉㄝㄥ

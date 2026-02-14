@@ -20,7 +20,7 @@ english: trigram
 hanmun_edu_level: 이름
 mc_id: 1567
 graphemic_classification: 圭
-stand_in: true
+stand_in: 卦
 grade_level: 先進
 ---
 ```meta-bind-embed

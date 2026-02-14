@@ -1,7 +1,7 @@
 > [[SKIP]] : [[SKIP-4]] : [[SKIP-4-3]] : [[SKIP-4-0-1]]
 - 尸, i.e. Radical 044
 - [[夕]]	
-- <ruby>[[于]]<rt>우</rt></ruby>
+- <ruby>[[于 (char)]]<rt>우</rt></ruby>
 - [[兀]]
 - 刄, a.k.a. 刃 (SKIP-3-3-1)
 - [[弓]]

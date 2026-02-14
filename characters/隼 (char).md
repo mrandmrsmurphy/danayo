@@ -28,7 +28,7 @@ hanmun_edu_level: ""
 danayo_id: 8119
 mc_id: 3256
 graphemic_classification: 會意
-stand_in: "TRUE"
+stand_in: 隼
 aliases:
 注音: ㄙ˙ㄨㄥ
 ---

@@ -48,14 +48,14 @@ The following prefecture names were added in 2017
 43. [[耳]] : ji (mimi)    
 44. [[口]] : kō (kuchi)    
 45. [[手]] : shu (te)    
-46. [[足]] : soku (ashi)    
+46. [[足 (char)]] : soku (ashi)    
 47. [[見]]  : ken (mi-ru)
 48. [[音]] : on / in (oto, ne)    
 49. [[力 (char)|力]] : ryoku (chikara)    
 50. [[気]] : ki (ke)    
 51. [[圓]] : en (maru)
 52. [[入]] : nyū (hai-ru, i-reru)    
-53. [[出]] : shutsu (de-ru, da-su)    
+53. [[出 (char)]] : shutsu (de-ru, da-su)    
 54. [[立]] : ritsu (ta-tsu)    
 55. [[休]] : kyū (yasu-mu)    
 56. [[先]] : sen (saki)    
@@ -78,8 +78,8 @@ The following prefecture names were added in 2017
 73. [[糸]] : shi (ito)    
 74. [[貝]] : bai (kai)    
 75. [[車]] : sha (kuruma)    
-76. [[金]] : kin / kon (kane)    
-77. [[雨]] : u (ame)    
+76. [[金 (char)]] : kin / kon (kane)    
+77. [[雨 (char)]] : u (ame)    
 78. [[赤]] : seki (aka)    
 79. [[青 (char)]] : sei / shō (ao)    
 80. [[白]] : haku (shiro)    
@@ -127,7 +127,7 @@ The following prefecture names were added in 2017
 121. [[朝]] : morning ; chō (asa)
 122. [[昼]] : daytime ; chū (hiru)
 123. [[夜]] : night ; ya (yoru)
-124. [[分]] : minute, understand ; fun, bun (wa-karu)
+124. [[分 (char)]] : minute, understand ; fun, bun (wa-karu)
 125. [[週]] : week ; shū ()
 126. [[春]] : spring ; shun (haru)
 127. [[夏]] : summer ; ka (natsu)
@@ -155,12 +155,12 @@ The following prefecture names were added in 2017
 149. [[谷]] : valley ; koku (tani)
 150. [[野]] : field ; ya (no)
 151. [[原]] : meadow, plain ; gen (hara)
-152. [[里]] : hometown ; ri (sato)
+152. [[里 (char)]] : hometown ; ri (sato)
 153. [[市]] : city ; shi (ichi)
 154. [[京]] : capital ; kyō, kei (miyako)
 155. [[風 (char)]] : wind, -style ; fū (kaze)
-156. [[雪]] : snow ; setsu (yuki)
-157. [[雲]] : cloud ; un (kumo)
+156. [[雪 (char)]] : snow ; setsu (yuki)
+157. [[雲 (char)]] : cloud ; un (kumo)
 158. [[池]] : pond ; chi (ike)
 159. [[海]] : sea ; kai (umi)
 160. [[岩]] : rock ; gan (iwa)
@@ -214,7 +214,7 @@ The following prefecture names were added in 2017
 208. [[行]] : go ; kō, gyō (i-ku, yu-ku, okona-u)
 209. [[帰]] : return ; ki (kae-ru)
 210. [[歩]] : walk ; ho, fu, bu (aru-ku, ayu-mu)
-211. [[走]] : run ; sō (hashi-ru)
+211. [[走 (char)]] : run ; sō (hashi-ru)
 212. [[止]] : stop ; shi (to-maru)
 213. [[活]] : active ; katsu (i-kiru)
 214. [[店]] : store ; ten (mise)
@@ -236,7 +236,7 @@ The following prefecture names were added in 2017
 230. [[当]] : this, hit ; tō (a-taru)
 231. [[台]] : pedestal ; dai, tai ()
 232. [[楽]] : music, pleasure ; gaku, raku (tano-shii)
-233. [[公]] : public ; kō (ōyake)
+233. [[公 (char)]] : public ; kō (ōyake)
 234. [[引]] : pull ; in (hi-ku)
 235. [[科]] : section, grade ; ka ()
 236. [[歌]] : song ; ka (uta)
@@ -245,7 +245,7 @@ The following prefecture names were added in 2017
 239. [[用]] : use ; yō (mochi-iru)
 240. [[何 (char)]] : what ; ka ( nani, nan)
 ## Grade 3 - 200
-241. [[丁]] : chō ; pair
+241. [[丁 (char)]] : chō ; pair
 242. [[世]] : sei ; se , yo, world
 243. [[両]] : ryō , – , both , 
 244. [[主]] : shu , nushi;  omo-ni;  omo-na , master , 
@@ -259,7 +259,7 @@ The following prefecture names were added in 2017
 252. [[使]] : shi , tsuka-u , use , 
 253. [[係]] : kei , kakari;  kaka-ru , person in charge , 
 254. [[倍]] : bai , – , double , 
-255. [[全]] : zen , matta-ku , whole , 
+255. [[全 (char)]] : zen , matta-ku , whole , 
 256. [[具]] : gu , – , tool , 
 257. [[写]] : sha , utsu-su;  utsu-ru , copy , 
 258. [[列]] : retsu , – , row , 
@@ -456,7 +456,7 @@ The following prefecture names were added in 2017
 448. [[位]] : i	kurai	rank
 449. [[低]] : tei	hiku-i	low
 450. [[例]] : rei	tato-eru	example
-451. [[便]] : ben ;  bin	tayo-ri	convenience
+451. [[便 (char)]] : ben ;  bin	tayo-ri	convenience
 452. [[信]] : shin	 –	trust
 453. [[倉]] : sō	kura	storage
 454. [[候]] : kō	 –	climate
@@ -628,14 +628,14 @@ The following prefecture names were added in 2017
 620. [[輪]] : rin	wa	wheel
 621. [[辞]] : ji	ya-meru	resign
 622. [[辺]] : hen	ata-ri	environs
-623. [[連]] : ren	tsu-reru ; tsura-neru	take along
+623. [[連 (char)]] : ren	tsu-reru ; tsura-neru	take along
 624. [[達]] :  –	tachi	attain
 625. [[選]] : sen	era-bu	choose
 626. [[郡]] : gun	 –	county
 627. [[量]] : ryō	 –	quantity
 628. [[録]] : roku	 –	record
 629. [[鏡]] : kyō	kagami	mirror
-630. [[関]] : kan	seki	related
+630. [[関 (char)]] : kan	seki	related
 631. [[陸]] : riku	 –	land
 632. [[隊]] : tai	 –	group
 633. [[静]] : sei	shizu-ka	quiet
@@ -660,7 +660,7 @@ The following prefecture names were added in 2017
 651. [[保]] : ho	tamo-tsu	preserve
 652. [[修]] : shū	osa-meru	discipline
 653. [[俵]] : hyō	tawara	straw bag
-654. [[個]] : ko	 	individual
+654. [[個 (char)]] : ko	 	individual
 655. [[備]] : bi	sona-eru	provide
 656. [[像]] : zō	 	statue
 657. [[再]] : sai ; sa	futata-bi	again
@@ -826,7 +826,7 @@ The following prefecture names were added in 2017
 817. [[銭]] : sen	zeni	coin
 818. [[防]] : bō	fuse-gu	prevent
 819. [[限]] : gen	kagi-ru	limit
-820. [[険]] : ken	kewa-shii	precipitous
+820. [[険 (char)]] : ken	kewa-shii	precipitous
 821. [[際]] : sai	kiwa	occasion
 822. [[雑]] : zatsu	 	miscellaneous
 823. [[非]] : hi	ara-zu	negative

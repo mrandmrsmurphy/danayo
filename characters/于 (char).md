@@ -16,10 +16,10 @@ vietnamese:
   - vò
 middle_chinese_initial: ø
 middle_chinese_final: ɨo
-stroke_count: "3"
+stroke_count: 3
 radical: 二
 skip_number: 4-3-1
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - to
@@ -32,7 +32,7 @@ hanmun_edu_level: 中
 danayo_id: 22
 mc_id: 70
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 于
 aliases:
   - 亐
   - 於

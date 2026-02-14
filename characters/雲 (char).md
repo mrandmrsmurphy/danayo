@@ -12,7 +12,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: 0
 middle_chinese_final: ɨun
-stroke_count: "12"
+stroke_count: 12
 radical: 雨
 skip_number: 2-8-4
 grade_level: "1"
@@ -25,9 +25,9 @@ joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 217
-mc_id: "611.474"
+mc_id: 611
 graphemic_classification: 云
-stand_in: "TRUE"
+stand_in: 雲
 aliases:
   - 云
   - 澐

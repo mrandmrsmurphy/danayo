@@ -15,11 +15,11 @@ vietnamese:
   - cái
 middle_chinese_initial: k
 middle_chinese_final: ɑ
-stroke_count: "10"
+stroke_count: 10
 radical: 人
 skip_number: 1-2-8
-grade_level: 2
-pos: ""
+grade_level: "2"
+pos: classifier
 english:
   - individual
 羅馬字: ga
@@ -30,7 +30,7 @@ hanmun_edu_level: 中
 danayo_id: 2015
 mc_id: 3102
 graphemic_classification: 固
-stand_in: "TRUE"
+stand_in: 個
 aliases:
   - 个
   - 箇

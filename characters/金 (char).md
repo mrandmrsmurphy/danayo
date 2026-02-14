@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɣiɪm
-stroke_count: "8"
+stroke_count: 8
 radical: 金
 skip_number: 2-2-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - metal
@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 153
 mc_id: 244
 graphemic_classification: 今
-stand_in: "TRUE"
+stand_in: 金
 aliases:
 注音: ㄍㄧㄇ
 ---

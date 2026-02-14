@@ -13,7 +13,7 @@ The first part of our 常用字 list.
 - <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> : 'ten-thousand', but not written/said alone: <ruby>一万<rt>읻몬</rt></ruby> 
 - <ruby>[[弟]]<rt>ㄉㄝ</rt></ruby> : '-th', the ordinal number maker
 - <ruby>[[点]]<rt>ㄉㄝㄇ</rt></ruby> : 'dot', the name of the decimal point
-- <ruby>[[分]]<rt>ㄅㄨㄋ</rt></ruby> : 'divide', used in naming fractions denominator
+- <ruby>[[分 (char)]]<rt>ㄅㄨㄋ</rt></ruby> : 'divide', used in naming fractions denominator
 - <ruby>[[半]]<rt>ㄅㄚㄋ</rt></ruby> : 'half', but not written/said alone: <ruby>一半<rt>읻반</rt></ruby> 
 <ruby>[[数]]<rt>ㄙㄨ</rt></ruby> : 'number'
 
@@ -23,7 +23,7 @@ The first part of our 常用字 list.
 - <ruby>[[火]]<rt>ㄏˇㄚ</rt></ruby> : 'fire', used in the word 'Tuesday' <ruby>火曜日</ruby>
 - <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> : 'water', used in the word 'Wednesday' <ruby>水曜日</ruby>
 - <ruby>[[木]]<rt>ㄇㄛㄎ</rt></ruby> : 'wood', used in the word 'Thursday' <ruby>木曜日</ruby>
-- <ruby>[[金]]<rt>ㄍㄧㄇ</rt></ruby> : 'metal', used in the word 'Friday' <ruby>金曜日</ruby>
+- <ruby>[[金 (char)]]<rt>ㄍㄧㄇ</rt></ruby> : 'metal', used in the word 'Friday' <ruby>金曜日</ruby>
 - <ruby>[[土]]<rt>ㄊㄛ</rt></ruby> : 'earth', used in the word 'Saturday' <ruby>土曜日</ruby>
 - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>,
 <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>,
@@ -34,7 +34,7 @@ The first part of our 常用字 list.
 <ruby>[[已]]<rt>ㄧ</rt></ruby>,
 <ruby>[[与]]<rt>˙ㄛ</rt></ruby>,
 <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby>,
-<ruby>[[于]]<rt>ㄨ</rt></ruby>,
+<ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>,
 <ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
 <ruby>[[君]]<rt>ㄍㄨㄋ</rt></ruby>,
 <ruby>[[毎]]<rt>ㄇㄛㄧ</rt></ruby>,
@@ -76,7 +76,7 @@ The first part of our 常用字 list.
 <ruby>[[元]]<rt>원</rt></ruby>,
 <ruby>[[少]]<rt>솟</rt></ruby>,
 <ruby>[[心]]<rt>심</rt></ruby>,
-<ruby>[[出]]<rt>춛</rt></ruby>,
+<ruby>[[出 (char)]]<rt>춛</rt></ruby>,
 <ruby>[[市]]<rt>시</rt></ruby>,
 <ruby>[[北]]<rt>북</rt></ruby>,
 <ruby>[[目]]<rt>묵</rt></ruby>,
@@ -120,15 +120,15 @@ The first part of our 常用字 list.
 <ruby>[[向]]<rt>향</rt></ruby>,
 <ruby>[[名]]<rt>밍</rt></ruby>,
 <ruby>[[西]]<rt>세</rt></ruby>,
-<ruby>[[全]]<rt>줜</rt></ruby>,
+<ruby>[[全 (char)]]<rt>줜</rt></ruby>,
 <ruby>[[灯]]<rt>둥</rt></ruby>,
 <ruby>[[百]]<rt>박</rt></ruby>^,
 <ruby>[[交]]<rt>걋</rt></ruby>,
 <ruby>[[早]]<rt>잣</rt></ruby>,
-<ruby>[[足]]<rt>족</rt></ruby>,
-<ruby>[[走]]<rt>좃</rt></ruby>,
+<ruby>[[足 (char)]]<rt>족</rt></ruby>,
+<ruby>[[走 (char)]]<rt>좃</rt></ruby>,
 <ruby>[[売]]<rt>매</rt></ruby>,
-<ruby>[[里]]<rt>리</rt></ruby>,
+<ruby>[[里 (char)]]<rt>리</rt></ruby>,
 <ruby>[[車]]<rt>차</rt></ruby>,
 <ruby>[[近]]<rt>긴</rt></ruby>,
 <ruby>[[花]]<rt>화</rt></ruby>,
@@ -152,7 +152,7 @@ The first part of our 常用字 list.
 <ruby>[[於]]<rt>오</rt></ruby>,
 <ruby>[[姉]]<rt>자</rt></ruby>,
 <ruby>[[学]]<rt>학</rt></ruby>,
-<ruby>[[雨]]<rt>우</rt></ruby>,
+<ruby>[[雨 (char)]]<rt>우</rt></ruby>,
 <ruby>[[門]]<rt>몬</rt></ruby>,
 <ruby>[[苦]]<rt>코</rt></ruby>,
 <ruby>[[空]]<rt>콩</rt></ruby>,
@@ -205,7 +205,7 @@ The first part of our 常用字 list.
 <ruby>[[書]]<rt>쇼</rt></ruby>,
 <ruby>[[記]]<rt>기</rt></ruby>,
 <ruby>[[黒 (char)]]<rt>훅</rt></ruby>
-<ruby>[[雪]]<rt>숻</rt></ruby>,
+<ruby>[[雪 (char)]]<rt>숻</rt></ruby>,
 <ruby>[[第]]<rt>데</rt></ruby>,
 <ruby>[[動]]<rt>동</rt></ruby>,
 <ruby>[[習]]<rt>십</rt></ruby>,
@@ -225,7 +225,7 @@ The first part of our 常用字 list.
 <ruby>[[朝]]<rt>잣</rt></ruby>,
 <ruby>[[短]]<rt>돤</rt></ruby>,
 <ruby>[[開]]<rt>캐</rt></ruby>,
-<ruby>[[雲]]<rt>운</rt></ruby>,
+<ruby>[[雲 (char)]]<rt>운</rt></ruby>,
 <ruby>[[筆]]<rt>빋</rt></ruby>,
 <ruby>[[湖]]<rt>호</rt></ruby>,
 <ruby>[[集]]<rt>집</rt></ruby>,

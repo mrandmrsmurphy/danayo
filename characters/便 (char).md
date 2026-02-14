@@ -1,37 +1,37 @@
 ---
 mandarin:
-- biàn
+  - biàn
 cantonese:
-- bin6
+  - bin6
 korean:
-- 변
-korean_native: ''
+  - 변
+korean_native: ""
 japanese:
-- BEN
-- BIN
-japanese_nanori: ''
+  - BEN
+  - BIN
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: iᴇn
-stroke_count: '9'
+stroke_count: 9
 radical: 人
 skip_number: 1-2-7
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- convinient
-- cheap
-- plain
-- shitty
+  - convinient
+  - cheap
+  - plain
+  - shitty
 羅馬字: byen
-韓文: '[[변]]'
-joyo_level: '4'
-hsk_level: ''
+韓文: "[[변]]"
+joyo_level: "4"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2013
 mc_id: 653
 graphemic_classification: 便
-stand_in: 'TRUE'
+stand_in: 便
 aliases:
 ---
 ```meta-bind-embed

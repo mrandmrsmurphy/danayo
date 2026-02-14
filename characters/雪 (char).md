@@ -1,36 +1,36 @@
 ---
 mandarin:
-- xuě
+  - xuě
 cantonese:
-- syut3
+  - syut3
 korean:
-- 설
-korean_native: ''
+  - 설
+korean_native: ""
 japanese:
-- SETSU
-japanese_nanori: ''
+  - SETSU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: iuᴇt
-stroke_count: '11'
+stroke_count: 11
 radical: 雨
 skip_number: 2-8-3
-grade_level: 1
-pos: ''
+grade_level: "1"
+pos: ""
 english:
-- snow
+  - snow
 羅馬字: swed
-韓文: '[[숻]]'
-joyo_level: '2'
-hsk_level: ''
+韓文: "[[숻]]"
+joyo_level: "2"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 197
 mc_id: 1547
 graphemic_classification: 彗
-stand_in: 'TRUE'
+stand_in: 雪
 aliases:
-- 鱈
-- 䨮
+  - 鱈
+  - 䨮
 ---
 ```meta-bind-embed
 [[nav/char_info]]
