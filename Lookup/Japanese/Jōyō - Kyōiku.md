@@ -468,7 +468,7 @@ The following prefecture names were added in 2017
 460. [[億]] : oku	 –	hundred million
 461. [[兆]] : chō	kiza-shi	portent ; trillion
 462. [[児]] : ji ; ni	 –	child
-463. [[共]] : kyō	tomo	together
+463. [[共 (char)]] : kyō	tomo	together
 464. [[兵]] : hei ; hyō	tsuwamono	soldier
 465. [[典]] : ten	 –	code
 466. [[冷]] : rei	tsume-tai ; hi-eru ; sa-meru	cool
