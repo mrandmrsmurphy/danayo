@@ -89,7 +89,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Internet : internet, email, web, website, download, browser, blog, post, flame, lurker, newb, chat
 - Disciplines : physics - <ruby>[[物理学]]<rt>mutlihak</rt></ruby>, chemistry - <ruby>[[化学]]<rt>hwahak</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
 - Physics : atom - <ruby>[[原子]]<rt>'wenji</rt></ruby>, molecule - <ruby>[[分子]]<rt>bunja</rt></ruby>, energy, nuclear, particle, photon - <ruby>[[光子]]<rt>gwangji</rt></ruby>, proton - <ruby>[[陽子]]<rt>'yangji</rt></ruby>, neutron - <ruby>[[中子]]<rt>jungji</rt></ruby>, electron - <ruby>[[電子]]<rt>denji</rt></ruby>
-- Biology : cell - <ruby>[[細胞]]<rt>seibyau</rt></ruby>, evolution - <ruby>[[進化]]<rt>jinhwa</rt></ruby><ruby>[[事]]<rt>ji</rt></ruby>, gene
+- Biology : cell - <ruby>[[細胞]]<rt>seibyau</rt></ruby>, evolution - <ruby>[[進化]]<rt>jinhwa</rt></ruby><ruby>[[事 (char)]]<rt>ji</rt></ruby>, gene
 - Substance : plastic
 - Appliance : stove, sink, dishwasher, refrigerator, washer, dryer, furnace, AC
 - Film : camera, film, photo, movie/video, animation, theater

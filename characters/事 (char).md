@@ -30,7 +30,7 @@ hanmun_edu_level: 中
 danayo_id: 128
 mc_id: 42
 graphemic_classification: 吏
-stand_in: "TRUE"
+stand_in: 事
 aliases:
   - 亊
 注音: ㄐㄧ

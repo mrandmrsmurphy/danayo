@@ -251,7 +251,7 @@ The following prefecture names were added in 2017
 244. [[主]] : shu , nushi;  omo-ni;  omo-na , master , 
 245. [[乗]] : jō , no-ru , ride , 
 246. [[予]] : yo , – , in advance , 
-247. [[事]] : ji , koto , abstract thing , 
+247. [[事 (char)]] : ji , koto , abstract thing , 
 248. [[士|仕]] : shi , tsuka-eru , serve , 
 249. [[他 (char)]] : ta , hoka , other , 
 250. [[代]] : dai; tai , ka-waru;  yo , substitute , 

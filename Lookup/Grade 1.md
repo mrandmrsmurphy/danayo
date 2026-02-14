@@ -35,7 +35,7 @@ The first part of our 常用字 list.
 <ruby>[[与]]<rt>˙ㄛ</rt></ruby>,
 <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby>,
 <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>,
-<ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
+<ruby>[[事 (char)]]<rt>ㄐㄧ</rt></ruby>,
 <ruby>[[君]]<rt>ㄍㄨㄋ</rt></ruby>,
 <ruby>[[毎]]<rt>ㄇㄛㄧ</rt></ruby>,
 
