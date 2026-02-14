@@ -14,5 +14,6 @@
 
 - to forge : (v) <ruby>鍛錬<rt>ㄉˇㄚㄋㄌㄝㄋ</rt></ruby>
 - anvil : <ruby>鉄砧<rt>ㄊㄝㄊㄉㄨㄇ</rt></ruby>
-- alloy, ore : <ruby>[[合金]]|kapgim}}, <ruby>[[鉱石]]|gwangsek}}
+- alloy : <ruby>合金<rt>ㄎㄚㄆㄍㄧㄇ</rt></ruby>
+- ore : <ruby>鉱石<rt>ㄍˇㄚㄥㄙㄝㄎ</rt></ruby>
 - to smith [[鍛冶]]

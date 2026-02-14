@@ -17,4 +17,11 @@
 - <ruby>[[兎]]<rt>토</rt></ruby> : rabbit
 - [[蛇]] : snake
 - [[蜘蛛]] : spider
-- dragon = [[龍]]; fairy/elf = [[妖精]]; den = [[巣窟]]; burrow/tunnel; hole = [[巣穴]]; beehive = [[蜂巣]]; (bird's) nest = [[鳥巣]]; group = [[獣群]]; to hunt = [[猟]]
+- dragon = [[龍]]; fairy/elf = [[妖精]]; den = [[巣窟]]; burrow/tunnel; hole = [[巣穴]]; beehive = [[蜂巣]]; (bird's) 
+
+
+- nest = [[鳥巣]];
+- lair, hive, pollinate, swarm, graze
+- group = [[獣群]];
+- to hunt = [[猟]]
+- herd, tame, stalk
