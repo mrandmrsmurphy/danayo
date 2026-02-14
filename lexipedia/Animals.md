@@ -13,7 +13,7 @@
 - [[馬]] : horse, members of the species Equus ferus
 - [[怪物]] : monster, mysterious figure
 - [[妖物]] : monster, bewitching figure
-- [[熊鼠]] : rat
+- <ruby>熊鼡<rt>ㄨㄥㄙ˙ㄛ</rt></ruby> : rat
 - <ruby>[[兎]]<rt>토</rt></ruby> : rabbit
 - [[蛇]] : snake
 - [[蜘蛛]] : spider

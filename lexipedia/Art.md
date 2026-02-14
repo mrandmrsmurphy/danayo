@@ -7,20 +7,21 @@
 book - <ruby>書本<rt>ㄙ˙ㄛㄅㄛㄋ</rt></ruby>
 brush - <ruby>刷子<rt>ㄙˇㄚㄊㄐㄧ</rt></ruby>
 chapter - <ruby>章<rt>ㄐㄚㄥ</rt></ruby>
-history - [[歴史]]
-letter - [[文書]]
-mystery - [[神秘]]
+history - <ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>
+letter - <ruby>文書<rt>ㄇㄨㄋㄙ˙ㄛ</rt></ruby>
+mystery - <ruby>神秘<rt>ㄙㄧㄋㄅㄧㄧ</rt></ruby>
 page - [[頁]]
-perform - [[演]]
+perform - <ruby>練習<rt>ㄌㄝㄋㄙㄧㄆ</rt></ruby>
 play
-read - [[閲読]]
+read - <ruby>閲読<rt>˙ㄝㄊㄉㄛㄎ</rt></ruby>
 record
 scene
 stage
 story
 tale
-write - <ruby>[[記録]]<rt>ㄍㄧㄌㄛㄎ</rt></ruby>
-poem - [[詩歌]]
+write - <ruby>記録<rt>ㄍㄧㄌㄛㄎ</rt></ruby>
+poem/poetry - <ruby>詩歌<rt>ㄙㄧㄍㄚ</rt></ruby>
 pen - [[筆]]
-pencil - [[鉛筆]]
+pencil - <ruby>鉛筆<rt>˙ㄝㄇㄅㄧㄊ</rt></ruby>
+
 ## Visual Arts 
