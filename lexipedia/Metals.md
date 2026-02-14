@@ -9,7 +9,10 @@
 - copper : <ruby>[[銅]]<rt>ㄉㄛㄥ</rt></ruby>
 - zinc : <ruby>亜鉛<rt>ㄚ·˙ㄝㄋ</rt></ruby>
 - bronze : <ruby>青銅<rt>ㄑㄝㄥㄉㄛㄥ</rt></ruby>
-- brass : <ruby>[[黄銅]]<rt>ㄏˇㄚㄥㄉㄛㄥ</rt></ruby>
-- mercury : , <ruby>[[水銀]]<rt>수인</rt></ruby>
+- brass : <ruby>黄銅<rt>ㄏˇㄚㄥㄉㄛㄥ</rt></ruby>
+- mercury : <ruby>水銀<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 
-forge, anvil, alloy, ore : (v) <ruby>[[鍛錬]]|dwanlen}}, <ruby>[[鉄砧]]|tetdum}}, <ruby>[[合金]]|kapgim}}, <ruby>[[鉱石]]|gwangsek}}
+- to forge : (v) <ruby>鍛錬<rt>ㄉˇㄚㄋㄌㄝㄋ</rt></ruby>
+- anvil : <ruby>鉄砧<rt>ㄊㄝㄊㄉㄨㄇ</rt></ruby>
+- alloy, ore : <ruby>[[合金]]|kapgim}}, <ruby>[[鉱石]]|gwangsek}}
+- to smith [[鍛冶]]
