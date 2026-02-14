@@ -874,7 +874,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1897. [[漂]] : drift
 1898. [[苗]] : seedling
 1899. [[描]] : sketch
-1900. [[猫]] : cat
+1900. [[猫 (char)]] : cat
 1901. [[浜]] : 	濱 seacoast
 1902. [[賓]] : 	賓 V.I.P.
 1903. [[頻]] : 	頻 repeatedly

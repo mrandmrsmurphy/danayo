@@ -61,15 +61,16 @@ _the_ and _a_ are not part of Dan'a'yo
 - other
 
 ### Pronoun
-- I
-- thou
-- he
-- she
+- I : <ruby>我<rt>ㄚ</rt></ruby>
+- thou : <ruby>君<rt>ㄍㄨㄋ</rt></ruby>
+- he/she : <ruby>其人<rt>ㄍㄧㄋ·ㄧㄋ</rt></ruby>
 - it
-- we
-- you
-- they
-- self
+- we : <ruby>我等<rt>ㄚㄉㄨㄥ</rt></ruby>
+- you : <ruby>君等<rt>ㄍㄨㄋㄉㄨㄥ</rt></ruby>
+- they : <ruby>其人等<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>
+- self : 
+	- grammatical reflexive: <ruby>自己<rt>ㄐㄧㄧㄍㄧ</rt></ruby>
+	- emphatic: [[自身]]
 
 ### Interrogatives
 - when
