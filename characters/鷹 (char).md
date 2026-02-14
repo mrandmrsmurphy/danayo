@@ -1,15 +1,15 @@
 ---
 mandarin:
-- yīng
+  - yīng
 cantonese:
-- jing1
+  - jing1
 korean:
-- 응
-korean_native: ''
+  - 응
+korean_native: ""
 japanese:
-- YOU
-- OU
-japanese_nanori: ''
+  - YOU
+  - OU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʔ
 middle_chinese_final: ɨŋ
@@ -17,20 +17,20 @@ stroke_count: 24
 radical: 鳥
 skip_number: 3-3-21
 grade_level: 名
-pos: ''
+pos: ""
 english:
-- hawk
+  - hawk
 羅馬字: ing
-韓文: '[[잉]]'
+韓文: "[[잉]]"
 joyo_level: 高等
-hsk_level: ''
-hanmun_edu_level: ''
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 8334
 mc_id: 2452
 graphemic_classification: 䧹
-stand_in: 'TRUE'
+stand_in: 鷹
 aliases:
-- 鹰
+  - 鹰
 ---
 ```meta-bind-embed
 [[nav/char_info]]

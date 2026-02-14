@@ -30,7 +30,7 @@ hanmun_edu_level: ""
 danayo_id: 8385
 mc_id: 8432
 graphemic_classification: 覃
-stand_in: "TRUE"
+stand_in: 鱏
 aliases:
   - 𱈓
   - 鱘

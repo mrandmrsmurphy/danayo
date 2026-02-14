@@ -1,33 +1,33 @@
 ---
 mandarin:
-- lù
+  - lù
 cantonese:
-- lou6
+  - lou6
 korean:
-- 노
-korean_native: ''
+  - 노
+korean_native: ""
 japanese:
-- RO
-japanese_nanori: ''
+  - RO
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: uo
-stroke_count: '21'
+stroke_count: 21
 radical: 雨
 skip_number: 2-8-13
-grade_level: 3
-pos: ''
+grade_level: "3"
+pos: ""
 english:
-- dew
+  - dew
 羅馬字: lo
-韓文: '[[로]]'
+韓文: "[[로]]"
 joyo_level: 高等
-hsk_level: ''
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3268
 mc_id: 1123
 graphemic_classification: 路
-stand_in: 'TRUE'
+stand_in: 露
 aliases:
 ---
 ```meta-bind-embed

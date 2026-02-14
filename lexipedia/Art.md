@@ -10,7 +10,7 @@ chapter - <ruby>章<rt>ㄐㄚㄥ</rt></ruby>
 history - <ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>
 letter - <ruby>文書<rt>ㄇㄨㄋㄙ˙ㄛ</rt></ruby>
 mystery - <ruby>神秘<rt>ㄙㄧㄋㄅㄧㄧ</rt></ruby>
-page - [[頁]]
+page - [[頁 (char)]]
 perform - <ruby>練習<rt>ㄌㄝㄋㄙㄧㄆ</rt></ruby>
 play
 read - <ruby>閲読<rt>˙ㄝㄊㄉㄛㄎ</rt></ruby>

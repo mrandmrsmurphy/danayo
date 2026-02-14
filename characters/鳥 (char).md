@@ -1,35 +1,35 @@
 ---
 mandarin:
-- niǎo
+  - niǎo
 cantonese:
-- niu5
+  - niu5
 korean:
-- 조
-korean_native: ''
+  - 조
+korean_native: ""
 japanese:
-- CHOU
-japanese_nanori: ''
+  - CHOU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: eu
 stroke_count: 11
 radical: 鳥
 skip_number: 3-7-4
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- bird
+  - bird
 羅馬字: cou
-韓文: '[[촛]]'
-joyo_level: '2'
-hsk_level: ''
+韓文: "[[촛]]"
+joyo_level: "2"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2275
 mc_id: 581
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: 鳥
 aliases:
-- 鸟
+  - 鸟
 ---
 ```meta-bind-embed
 [[nav/char_info]]

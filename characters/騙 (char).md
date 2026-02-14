@@ -1,14 +1,14 @@
 ---
 mandarin:
-- piàn
+  - piàn
 cantonese:
-- pin3
+  - pin3
 korean:
-- 편
-korean_native: ''
+  - 편
+korean_native: ""
 japanese:
-- HEN
-japanese_nanori: ''
+  - HEN
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: pʰ
 middle_chinese_final: iᴇn
@@ -16,22 +16,22 @@ stroke_count: 19
 radical: 馬
 skip_number: 1-10-9
 grade_level: 先進
-pos: ''
+pos: ""
 english:
-- deceive
-- defraid
+  - deceive
+  - defraid
 羅馬字: pyen
-韓文: '[[편]]'
+韓文: "[[편]]"
 joyo_level: 表外字
-hsk_level: ''
-hanmun_edu_level: ''
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 7418
 mc_id: 0
 graphemic_classification: 扁
-stand_in: 'TRUE'
+stand_in: 騙
 aliases:
-- 骗
-- 騗
+  - 骗
+  - 騗
 ---
 ```meta-bind-embed
 [[nav/char_info]]

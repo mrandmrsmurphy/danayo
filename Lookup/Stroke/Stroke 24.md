@@ -3,7 +3,7 @@
 - <ruby>[[熊]]<rt>웅</rt></ruby> - bear
 - <ruby>[[靄]]<rt>애</rt></ruby> - cloudy
 - 鱧 --> 豊
-- <ruby>[[鷹]]<rt>잉</rt></ruby> - hawk
+- <ruby>[[鷹 (char)]]<rt>잉</rt></ruby> - hawk
 - <ruby>[[麟]]<rt>린</rt></ruby> - female unicorn
 
 ## Data check

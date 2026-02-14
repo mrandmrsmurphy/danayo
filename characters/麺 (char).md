@@ -27,7 +27,7 @@ hanmun_edu_level: ""
 danayo_id: 6340
 mc_id: 10656
 graphemic_classification: 面
-stand_in: "TRUE"
+stand_in: 麺
 aliases:
   - 麵
 ---

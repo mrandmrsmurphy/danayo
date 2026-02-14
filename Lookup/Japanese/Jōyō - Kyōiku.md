@@ -81,7 +81,7 @@ The following prefecture names were added in 2017
 76. [[金]] : kin / kon (kane)    
 77. [[雨]] : u (ame)    
 78. [[赤]] : seki (aka)    
-79. [[青]] : sei / shō (ao)    
+79. [[青 (char)]] : sei / shō (ao)    
 80. [[白]] : haku (shiro)    
 ## Grade 2 - 160
 81. [[数]] : number, count ; sū (kazu)
@@ -105,7 +105,7 @@ The following prefecture names were added in 2017
 99. [[矢]] : arrow ; shi (ya)
 100. [[弱]] : weak ; jaku (yowa-i)
 101. [[強]] : strong ; kyō (tsuyo-i)
-102. [[高]] : high ; kō (taka-i)
+102. [[高 (char)]] : high ; kō (taka-i)
 103. [[同]] : same ; dō (ona-ji)
 104. [[親]] : parent ; shin (oya)
 105. [[母]] : mother ; bo (haha, kā)
@@ -158,7 +158,7 @@ The following prefecture names were added in 2017
 152. [[里]] : hometown ; ri (sato)
 153. [[市]] : city ; shi (ichi)
 154. [[京]] : capital ; kyō, kei (miyako)
-155. [[風]] : wind, -style ; fū (kaze)
+155. [[風 (char)]] : wind, -style ; fū (kaze)
 156. [[雪]] : snow ; setsu (yuki)
 157. [[雲]] : cloud ; un (kumo)
 158. [[池]] : pond ; chi (ike)
@@ -196,14 +196,14 @@ The following prefecture names were added in 2017
 190. [[算]] : calculate ; san (
 191. [[作]] : make ; saku (tsuku-ru)
 192. [[元]] : origin ; gen, gan (moto)
-193. [[食]] : eat ; shoku (ta-beru, ku-u)
+193. [[食 (char)]] : eat ; shoku (ta-beru, ku-u)
 194. [[肉]] : meat ; niku ()
 195. [[馬 (char)]] : horse ; ba (uma, ma)
 196. [[牛]] : cow ; gyū (ushi)
-197. [[魚]] : fish ; gyo ( sakana)
-198. [[鳥]] : bird ; chō (tori)
+197. [[魚 (char)]] : fish ; gyo ( sakana)
+198. [[鳥 (char)]] : bird ; chō (tori)
 199. [[羽]] : feather ; u (ha, hane)
-200. [[鳴]] : chirp ; mei (na-ku)
+200. [[鳴 (char)]] : chirp ; mei (na-ku)
 201. [[麦]] : wheat ; baku (mugi)
 202. [[米]] : rice ; bei, mai (kome)
 203. [[茶]] : tea ; cha, sa ()
@@ -443,7 +443,7 @@ The following prefecture names were added in 2017
 436. [[題]] : dai , – , topic , 
 437. [[飲]] : in , no-mu , drink , 
 438. [[館]] : kan , yakata , public building , 
-439. [[駅]] : eki , – , station , 
+439. [[駅 (char)]] : eki , – , station , 
 440. [[鼻 (char)]] : bi , hana , nose 
 ## Grade 4 - 200
 441. [[不]] : fu ;  bu	 –	not
@@ -1015,4 +1015,4 @@ The following prefecture names were added in 2017
 1013. [[難]] : nan	muzuka-shii	difficult
 1014. [[革]] : kaku	kawa	leather
 1015. [[頂]] : chou	itada-ku	place on the head
-1016. [[骨]] : kotsu	hone	bone
+1016. [[骨 (char)]] : kotsu	hone	bone

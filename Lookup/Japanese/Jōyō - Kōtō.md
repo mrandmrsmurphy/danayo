@@ -230,7 +230,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1254. [[謹]] : 	謹 discreet
 1255. [[襟]] : collar
 1256. [[吟]] : versify
-1257. [[駆]] : 	驅	drive
+1257. [[駆 (char)]] : 	驅	drive
 1258. [[惧]] : dread
 1259. [[愚]] : foolish
 1260. [[偶]] : accidentally
@@ -259,7 +259,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1283. [[憬]] : long for
 1284. [[稽]] : consider
 1285. [[憩]] : recess
-1286. [[鶏]] : 	鷄	chicken
+1286. [[鶏 (char)]] : 	鷄	chicken
 1287. [[迎]] : welcome
 1288. [[鯨]] : whale
 1289. [[隙]] : fissure
@@ -348,7 +348,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1372. [[婚]] : marriage
 1373. [[痕]] : mark
 1374. [[紺]] : dark blue
-1375. [[魂]] : soul
+1375. [[魂 (char)]] : soul
 1376. [[墾]] : ground-breaking
 1377. [[懇]] : sociable
 1378. [[沙]] : sand
@@ -626,7 +626,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1649. [[踪]] : remains
 1650. [[燥]] : parch
 1651. [[霜]] : frost
-1652. [[騒]] : 	[[騒|騷]]	boisterous
+1652. [[騒 (char)]] : 	[[騒 (char)|騷]]	boisterous
 1653. [[藻]] : seaweed
 1654. [[憎]] : 	[[憎]] hate
 1655. [[贈]] : 	[[贈]] presents
@@ -719,7 +719,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1742. [[漬]] : pickling
 1743. [[坪]] : two-mat area
 1744. [[爪]] : claw
-1745. [[鶴]] : crane
+1745. [[鶴 (char)]] : crane
 1746. [[呈]] : display
 1747. [[廷]] : courts
 1748. [[抵]] : resist
@@ -988,13 +988,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2010. [[妙]] : exquisite
 2011. [[眠]] : sleep
 2012. [[矛]] : halberd
-2013. [[霧]] : fog
+2013. [[霧 (char)]] : fog
 2014. [[娘]] : daughter
 2015. [[冥]] : dark
 2016. [[銘]] : inscription
 2017. [[滅]] : destroy
 2018. [[免]] : 	免 [4]	S	excuse
-2019. [[麺]] : 	麵	S	noodles
+2019. [[麺 (char)]] : 	麵	S	noodles
 2020. [[茂]] : overgrown
 2021. [[妄]] : delusion
 2022. [[盲]] : blind
@@ -1041,7 +1041,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2063. [[拉]] : crush
 2064. [[裸]] : naked
 2065. [[羅]] : gauze
-2066. [[雷]] : thunder
+2066. [[雷 (char)]] : thunder
 2067. [[頼]] : 	賴	S	trust
 2068. [[絡]] : entwine
 2069. [[酪]] : dairy products
@@ -1097,7 +1097,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2119. [[呂]] : spine
 2120. [[炉]] : 	爐	S	hearth
 2121. [[賂]] : bribe
-2122. [[露]] : dew
+2122. [[露 (char)]] : dew
 2123. [[弄]] : tamper with
 2124. [[郎]] : 	郞	son
 2125. [[浪]] : wandering

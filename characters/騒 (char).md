@@ -1,34 +1,34 @@
 ---
 mandarin:
-- sāo
+  - sāo
 cantonese:
-- sou1
+  - sou1
 korean:
-korean_native: ''
+korean_native: ""
 japanese:
-- SOU
-japanese_nanori: ''
+  - SOU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: ɑu
 stroke_count: 18
 radical: 馬
 skip_number: 1-10-8
-grade_level: 5
-pos: ''
+grade_level: "5"
+pos: ""
 english:
-- boisterous
+  - boisterous
 羅馬字: sau
-韓文: '[[삿]]'
+韓文: "[[삿]]"
 joyo_level: 高等
-hsk_level: ''
-hanmun_edu_level: ''
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 5068
 mc_id: 2358
 graphemic_classification: 蚤
-stand_in: 'TRUE'
+stand_in: 騒
 aliases:
-- 騷
+  - 騷
 ---
 ```meta-bind-embed
 [[nav/char_info]]

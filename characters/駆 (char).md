@@ -1,35 +1,35 @@
 ---
 mandarin:
-- qū
+  - qū
 cantonese:
-- keoi1
+  - keoi1
 korean:
-korean_native: ''
+korean_native: ""
 japanese:
-- KU
-japanese_nanori: ''
+  - KU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨo
 stroke_count: 14
 radical: 馬
 skip_number: 1-10-4
-grade_level: 6
-pos: ''
+grade_level: "6"
+pos: ""
 english:
-- drive
-- spur
+  - drive
+  - spur
 羅馬字: ku
-韓文: '[[쿠]]'
-joyo_level: ''
-hsk_level: ''
-hanmun_edu_level: ''
+韓文: "[[쿠]]"
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 6391
 mc_id: 1345
 graphemic_classification: 区
-stand_in: 'TRUE'
+stand_in: 駆
 aliases:
-- 驅
+  - 驅
 ---
 ```meta-bind-embed
 [[nav/char_info]]

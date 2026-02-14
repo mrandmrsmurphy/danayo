@@ -29,7 +29,7 @@ hanmun_edu_level: 高等
 danayo_id: 4302
 mc_id: 1716
 graphemic_classification: 令
-stand_in: "TRUE"
+stand_in: 零
 aliases:
   - 〇
 注音: ㄌㄝㄥ

@@ -16,7 +16,7 @@ middle_chinese_final: ei
 stroke_count: 19
 radical: 鳥
 skip_number: 1-8-11
-grade_level: 3
+grade_level: "3"
 pos: proper noun
 english:
   - chicken
@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 3279
 mc_id: 1151
 graphemic_classification: 隹
-stand_in: "TRUE"
+stand_in: 鶏
 aliases:
   - 雞
   - 鷄

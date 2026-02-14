@@ -28,7 +28,7 @@ hanmun_edu_level: ""
 danayo_id: 7416
 mc_id: 3632
 graphemic_classification: 巤
-stand_in: "TRUE"
+stand_in: 鬣
 aliases:
 注音: ㄌㄛㄆ
 ---

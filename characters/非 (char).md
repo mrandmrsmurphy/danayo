@@ -1,33 +1,33 @@
 ---
 mandarin:
-- fēi
+  - fēi
 cantonese:
-- fei1
+  - fei1
 korean:
-- 비
-korean_native: ''
+  - 비
+korean_native: ""
 japanese:
-- HI
-japanese_nanori: ''
+  - HI
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ʉi
 stroke_count: 8
 radical: 非
 skip_number: 1-4-4
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- ain't
+  - ain't
 羅馬字: pi
-韓文: '[[피]]'
-joyo_level: ''
-hsk_level: ''
-hanmun_edu_level: ''
+韓文: "[[피]]"
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 2265
 mc_id: 75
 graphemic_classification: 象形
-stand_in: 'TRUE'
+stand_in: 非
 aliases:
 ---
 ```meta-bind-embed

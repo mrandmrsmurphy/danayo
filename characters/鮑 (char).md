@@ -27,7 +27,7 @@ hanmun_edu_level: ""
 danayo_id: 8676
 mc_id: 1335
 graphemic_classification: 包
-stand_in: "TRUE"
+stand_in: 鮑
 aliases:
   - 鲍
 注音: ㄅㄚㄨ

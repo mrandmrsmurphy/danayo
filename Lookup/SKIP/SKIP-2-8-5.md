@@ -9,7 +9,7 @@ date-last-perfect:
 - <ruby>[[電]]<rt>ㄉㄝㄋ</rt></ruby> - electricity
 - [[督]]
 - [[盟]]
-- [[雷]]
+- [[雷 (char)]]
 - <ruby>[[零 (char)|零]]<rt>ㄌㄝㄥ</rt></ruby> - zero
 - [[塋]]
 - [[煢]]

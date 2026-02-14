@@ -143,4 +143,4 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Descriptive : windy, stinky
 - Color : white - [[, black - [[黒 (char)]], green, yellow - [[黄 (char)]], blue, red, orange, brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy
-- Animals : horse - [[馬 (char)]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[鷹]], eagle - [[鵰]], dragon - [[龍 (char)]], ram - [[羊]]
+- Animals : horse - [[馬 (char)]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[鷹 (char)]], eagle - [[鵰 (char)]], dragon - [[龍 (char)]], ram - [[羊]]

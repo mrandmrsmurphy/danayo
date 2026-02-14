@@ -1,12 +1,12 @@
 ---
 mandarin:
-- nà
+  - nà
 cantonese:
-- naap6
+  - naap6
 korean:
-korean_native: ''
+korean_native: ""
 japanese:
-- NATSU
+  - NATSU
 japanese_nanori: ø
 vietnamese:
 middle_chinese_initial: n
@@ -15,20 +15,20 @@ stroke_count: 15
 radical: 魚
 skip_number: 1-11-4
 grade_level: 名
-pos: ''
+pos: ""
 english:
-- giant salamander
+  - giant salamander
 羅馬字: nub
-韓文: '[[눕]]'
-joyo_level: ''
-hsk_level: ''
-hanmun_edu_level: ''
+韓文: "[[눕]]"
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 8375
 mc_id: 0
 graphemic_classification: 内
-stand_in: 'TRUE'
+stand_in: 魶
 aliases:
-- 𱇔
+  - 𱇔
 ---
 ```meta-bind-embed
 [[nav/char_info]]
