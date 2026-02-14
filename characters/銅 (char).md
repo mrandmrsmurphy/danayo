@@ -1,36 +1,37 @@
 ---
 mandarin:
-- tóng
+  - tóng
 cantonese:
-- tung4
+  - tung4
 korean:
-- 동
-korean_native: ''
+  - 동
+korean_native: ""
 japanese:
-- DOU
-- TOU
-japanese_nanori: ''
+  - DOU
+  - TOU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: uŋ
 stroke_count: 14
 radical: 金
 skip_number: 1-7-7
-grade_level: 4
-pos: ''
+grade_level: "4"
+pos: ""
 english:
-- copper
+  - copper
 羅馬字: dong
-韓文: '[[동]]'
-joyo_level: '5'
-hsk_level: ''
+韓文: "[[동]]"
+joyo_level: "5"
+hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4287
 mc_id: 1543
 graphemic_classification: 同
-stand_in: 'TRUE'
+stand_in: 銅
 aliases:
-- 铜
+  - 铜
+注音: ㄉㄛㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -822,7 +822,7 @@ The following prefecture names were added in 2017
 813. [[適]] : teki	 	suitable
 814. [[酸]] : san	 	acid
 815. [[鉱]] : kō	 	mineral
-816. [[銅]] : dō	 	copper
+816. [[銅 (char)]] : dō	 	copper
 817. [[銭]] : sen	zeni	coin
 818. [[防]] : bō	fuse-gu	prevent
 819. [[限]] : gen	kagi-ru	limit
