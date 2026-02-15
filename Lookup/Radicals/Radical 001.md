@@ -20,7 +20,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
 * <ruby>[[丈]]<rt>ㄐㄚㄥ</rt></ruby> - only
 * <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
-* <ruby>[[上 (char)]]<rt>ㄙㄧㄚㄥ</rt></ruby> - above
+* <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - above
 * <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> - below
 * 丌 --> ancient variant of 其
 * 亐 --> ancient variant of 于
@@ -28,8 +28,8 @@ Radical 1 is 一, the number one.
 
 ## +3 Strokes
 * <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
-* <ruby>[[与]]<rt>·ㄧㄛ</rt></ruby> - only
-* <ruby>[[丐]]<rt>ㄍㄚㄨ</rt></ruby> - begger
+* <ruby>[[与]]<rt>·˙ㄛ</rt></ruby> - only
+* <ruby>[[丐]]<rt>ㄍㄚˇ</rt></ruby> - begger
 * 丏 --> ancient variant of 丐
 * 丑 --> ancient variant of 醜
 * 专 --> ancient variant of 専
@@ -49,7 +49,7 @@ Radical 1 is 一, the number one.
 
 ## +5 Strokes
 * <ruby>[[丞]]<rt>ㄙㄧㄥ</rt></ruby> - rescue
-* <ruby>[[両]]<rt>ㄌㄧㄚㄥ</rt></ruby> - both
+* <ruby>[[両]]<rt>ㄌ˙ㄚㄥ</rt></ruby> - both
 * 㐂 --> ancient variant of 喜
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
 * 丠 --> ancient variant of 丘 and 冀

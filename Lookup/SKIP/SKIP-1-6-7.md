@@ -1,7 +1,7 @@
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
 
  - <ruby>[[継]]<rt>ㄍㄝㄧ</rt></ruby> - persist
-- <ruby>[[続]]<rt>ㄙㄧㄛㄎ</rt></ruby> - continue
+- <ruby>[[続]]<rt>ㄙ˙ㄛㄎ</rt></ruby> - continue
 - <ruby>[[絹]]<rt>ㄍㄨㄝㄋ</rt></ruby> - silk
 - <ruby>[[綏]]<rt>ㄙㄨㄧ</rt></ruby> - smooth
 - <ruby>[[蜂]]<rt>ㄆㄛㄥ</rt></ruby> - bee/wasp

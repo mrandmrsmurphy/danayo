@@ -51,7 +51,7 @@ date-last-perfect: 2026-02-01
 * <ruby>[[五行]]<rt>·ㄛㄏㄚㄥ</rt></ruby> - The Five Elements
 * <ruby>[[五臓]]<rt>·ㄛㄐㄚㄥ</rt></ruby> - The Five Internal Organs
 * <ruby>[[五倫]]<rt>·ㄛㄌㄨㄋ</rt></ruby> - The Five Relationships
-* <ruby>[[五常]]<rt>·ㄛㄙㄧㄚㄥ</rt></ruby> - The Five Virtues
+* <ruby>[[五常]]<rt>·ㄛㄙ·ㄚㄥ</rt></ruby> - The Five Virtues
 * <ruby>[[五戒]]<rt>·ㄛㄍ˙ㄝ</rt></ruby> - The Five Precepts
 * <ruby>[[五十]]<rt>·ㄛㄙㄧㄆ</rt></ruby> - fifty
 * <ruby>[[五色]]<rt>·ㄛㄙㄧㄎ</rt></ruby> - The Five Colors
@@ -61,6 +61,6 @@ date-last-perfect: 2026-02-01
 * <ruby>[[五更]]<rt>·ㄛㄍㄚㄥ</rt></ruby> - the five watches of the night
 * <ruby>[[五指]]<rt>·ㄛㄐㄨˇ</rt></ruby> - the five fingers/top five
 * <ruby>[[五官]]<rt>·ㄛㄍㄨㄚㄋ</rt></ruby> - The Five Sense-Organs
-* <ruby>[[四捨五入]]<rt>ㄙㄧㄧㄙㄧㄚ·ㄛㄋㄧㄆ</rt></ruby> - rounding
+* <ruby>[[四捨五入]]<rt>ㄙㄧ˙ㄙ˙ㄚ·ㄛㄋㄧㄆ</rt></ruby> - rounding
 ### Links
 ![[nav/Numerals]]

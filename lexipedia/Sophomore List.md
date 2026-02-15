@@ -109,7 +109,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Food : candy, hamburger, hot dog, pizza, sushi, taco, tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>, tomato
 - Belief : communism, socialism, fascism, republic, democracy, Green, human rights, liberal, conservative
 - Position : president, prime minister, representative, parliament, council, dictator, party
-- Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚㄨ</rt></ruby>
+- Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby>
 
 ## Place Names
 ''These are for place names, not the words themselves''

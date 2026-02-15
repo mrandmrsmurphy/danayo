@@ -58,7 +58,7 @@ The first part of our 常用字 list.
 <ruby>[[虫]]<rt>ㄐㄨㄥ</rt></ruby>,
 <ruby>[[羊]]<rt>˙ㄚㄥ</rt></ruby>,
 
-<ruby>[[刀]]<rt>ㄊㄚㄨ</rt></ruby>,
+<ruby>[[刀]]<rt>ㄊㄚˇ</rt></ruby>,
 <ruby>[[力 (char)]]<rt>ㄌㄧㄎ</rt></ruby>,
 <ruby>[[大 (char)]]<rt>ㄉㄚ˙</rt></ruby>,
 <ruby>[[才]]<rt>ㄐㄚ˙</rt></ruby>,

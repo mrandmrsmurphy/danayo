@@ -6,15 +6,15 @@
 - <ruby>[[鳥類]]<rt>촛뤼</rt></ruby> : birds, a class of animal
 	- <ruby>鸚鵡<rt>ㄚㄥㄇㄨ</rt></ruby> parrot
 - <ruby>[[昆虫]]<rt>곤중</rt></ruby> "bug", creepy crawly, insect+worm+snake
-- <ruby>猫<rt>ㄇ˙ㄚㄨ</rt></ruby> : cat, domestic feline
-- <ruby>[[犬 (char)]]<rt>퀀</rt></ruby> : dog, the pet
-- <ruby>[[鴨 (char)]]<rt>압</rt></ruby> : duck
+- <ruby>猫<rt>ㄇ˙ㄚˇ</rt></ruby> : cat, domestic feline
+- <ruby>[[犬]]<rt>퀀</rt></ruby> : dog, the pet
+- <ruby>[[鴨]]<rt>압</rt></ruby> : duck
 - [[魚類]] : fish, a class of animal
-- [[馬 (char)]] : horse, members of the species Equus ferus
+- [[馬]] : horse, members of the species Equus ferus
 - [[怪物]] : monster, mysterious figure
 - [[妖物]] : monster, bewitching figure
 - <ruby>熊鼡<rt>ㄨㄥㄙ˙ㄛ</rt></ruby> : rat
-- <ruby>[[兎 (char)]]<rt>토</rt></ruby> : rabbit
+- <ruby>[[兎]]<rt>토</rt></ruby> : rabbit
 - [[蛇 (char)]] : snake
 - [[蜘蛛]] : spider
 - dragon = [[龍 (char)]]; fairy/elf = [[妖精]]; den = [[巣窟]]; burrow/tunnel; hole = [[巣穴]]; beehive = [[蜂巣]]; (bird's) 

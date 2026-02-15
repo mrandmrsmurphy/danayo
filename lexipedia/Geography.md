@@ -4,14 +4,14 @@
 - <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
 - <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
-- <ruby>朝鮮<rt>ㄐㄚㄨㄙ˙ㄝㄋ</rt></ruby>
+- <ruby>朝鮮<rt>ㄐㄚˇㄙ˙ㄝㄋ</rt></ruby>
 - <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
 - <ruby>西蔵<rt>ㄙㄝㄧㄑㄚㄥ</rt></ruby>
 - <ruby>台湾<rt>ㄉㄚ˙·ˇㄚㄋ</rt></ruby>
 Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨˇ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
-The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧㄧ</rt></ruby>, <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>, <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚˇ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>.  
 Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense ([[軍事]][[防守]]).
 
 ### Political Development
@@ -22,9 +22,9 @@ Historically, imperial rule ([[帝国]][[制度]]) was dominant.
 In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>共和<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
-Shared writing (共通書記) and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  
+Shared writing (共通書記) and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  
 <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[書記]][[媒体]]).  
-<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚㄨ</rt></ruby> spread eastward ([[東伝]]).  
+<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby> spread eastward ([[東伝]]).  
 Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
 
 ## 東南亜
@@ -37,8 +37,8 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - <ruby>越南<rt>ˇㄝㄊㄋㄚㄇ</rt></ruby>
 - <ruby>泰国<rt>ㄊㄚ˙ㄍㄛㄎ</rt></ruby>
 - <ruby>面田<rt>ㄇˇㄝㄋㄉㄝㄋ</rt></ruby>
-- <ruby>高綿<rt>ㄍㄚㄨㄇ˙ㄝㄋ</rt></ruby>
-- <ruby>寮国<rt>ㄌ˙ㄚㄨㄍㄛㄎ</rt></ruby>
+- <ruby>高綿<rt>ㄍㄚˇㄇ˙ㄝㄋ</rt></ruby>
+- <ruby>寮国<rt>ㄌ˙ㄚˇㄍㄛㄎ</rt></ruby>
 - <ruby>馬来西亜<rt>ㄇㄚㄌㄚ˙ㄙㄝ˙·ㄚ</rt></ruby>
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
 - Indonesia ([[印度]][[尼]][[西]][[亜]])  
@@ -50,7 +50,7 @@ These states developed along maritime trade routes (海上商路) and <ruby>大�
 <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚ˙</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby> developed early.  
-<ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄥ</rt></ruby> influenced surrounding regions.  
+<ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄥ</rt></ruby> influenced surrounding regions.  
 Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
 - <ruby>印度<rt>ㄧㄋㄉㄛ</rt></ruby>  
@@ -94,7 +94,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - <ruby>徳国<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
 - <ruby>西班牙<rt>ㄙㄝ˙ㄆㄚㄋ·ㄚ</rt></ruby>
-- <ruby>葡萄牙<rt>ㄅㄛㄉㄚㄨ·ㄚ</rt></ruby>
+- <ruby>葡萄牙<rt>ㄅㄛㄉㄚˇ·ㄚ</rt></ruby>
 - Netherlands ([[荷蘭]])  
 - Belgium (比利時)  
 - Switzerland ([[瑞士]])  
