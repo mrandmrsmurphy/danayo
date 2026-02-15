@@ -12,12 +12,15 @@ views:
       - date-last-perfect
       - english
       - 品詞
+      - pos
       - mandarin
       - cantonese
       - japanese
       - korean
       - characters
     sort:
+      - property: file.name
+        direction: ASC
       - property: 羅馬字
         direction: ASC
       - property: 韓文
@@ -28,6 +31,6 @@ views:
       file.name: 133
       note.羅馬字: 106
       note.english: 245
-      note.品詞: 95
+      note.品詞: 112
       note.mandarin: 156
       note.characters: 113
