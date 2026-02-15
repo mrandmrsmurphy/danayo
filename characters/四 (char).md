@@ -15,10 +15,10 @@ vietnamese:
   - tư
 middle_chinese_initial: s
 middle_chinese_final: iɪ
-stroke_count: "5"
+stroke_count: 5
 radical: 囗
 skip_number: 3-3-2
-grade_level: 1
+grade_level: "1"
 pos: numeral
 english:
   - four
@@ -39,7 +39,7 @@ aliases:
   - 𠃢
   - 𦉭
 date-last-perfect: 2026-01-30
-注音: ㄙㄧㄧ
+注音: ㄙㄧ˙
 ---
 >[!warning] This is a page about the character 四.  For the word 'four', see [[四]].
 

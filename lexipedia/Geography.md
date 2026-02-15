@@ -122,7 +122,7 @@ Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>)
 - South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ·˙ㄛˇ</rt></ruby><ruby>地理<rt>ㄉㄧㄧㄌㄧ</rt></ruby><ruby>要素<rt>˙ㄛˇㄙㄛ</rt></ruby>.
+The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ·˙ㄛˇ</rt></ruby><ruby>地理<rt>ㄉㄧ˙ㄌㄧ</rt></ruby><ruby>要素<rt>˙ㄛˇㄙㄛ</rt></ruby>.
 
 ## 美洲
 <ruby>美洲<rt>ㄇㄧㄐㄨˇ</rt></ruby> include North America ([[北美]]) and South America ([[南美]]).

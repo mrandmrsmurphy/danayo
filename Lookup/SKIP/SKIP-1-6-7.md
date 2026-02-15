@@ -11,7 +11,7 @@
 - <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel
 - <ruby>[[辞]]<rt>ㄑㄧ</rt></ruby> - verbal resignation
 - <ruby>[[聘]]<rt>ㄆㄧㄥ</rt></ruby> - betrothe
-- <ruby>[[肆]]<rt>ㄙㄧㄧ</rt></ruby> - to act bravenly
+- <ruby>[[肆]]<rt>ㄙㄧ˙</rt></ruby> - to act bravenly
 * 艀 --> 孚
 * 蜈 --> 呉
 * 絳 --> 降

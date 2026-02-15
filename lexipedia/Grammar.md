@@ -69,9 +69,9 @@ _the_ and _a_ are not part of Dan'a'yo
 - you : <ruby>君等<rt>ㄍㄨㄋㄉㄨㄥ</rt></ruby>
 - they : <ruby>其人等<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>
 - self : 
-	- grammatical reflexive: <ruby>自己<rt>ㄐㄧㄧㄍㄧ</rt></ruby>
-	- emphatic: <ruby>自身<rt>ㄐㄧㄧㄙㄧㄋ</rt></ruby>
-	- ego: <ruby>自我<rt>ㄐㄧㄧ·ㄚ</rt></ruby>
+	- grammatical reflexive: <ruby>自己<rt>ㄐㄧ˙ㄍㄧ</rt></ruby>
+	- emphatic: <ruby>自身<rt>ㄐㄧ˙ㄙㄧㄋ</rt></ruby>
+	- ego: <ruby>自我<rt>ㄐㄧ˙·ㄚ</rt></ruby>
 
 ### Interrogatives
 - when : <ruby>何時<rt>ㄏㄚㄙㄧ</rt></ruby>

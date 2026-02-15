@@ -5,7 +5,7 @@ Looking up at the night sky, we see an entire "culture", called <ruby>天文<rt>
 The basic object in the sky is a "star" <ruby>星<rt>ㄙㄝㄥ</rt></ruby>, though this also includes planets and moons.  To match the English "star", you would need to say 'fixed star', i.e. <ruby>恒星<rt>ㄏㄨㄥㄙㄝㄥ</rt></ruby>.  The big ones are the sun - <ruby>太陽<rt>ㄊㄚ˙·˙ㄚㄥ</rt></ruby> - and moon - <ruby>太陰<rt>ㄊㄚ˙·ㄧㄇ</rt></ruby>.  Notice the connection to Yin and Yang.  Today, we distinguish planets from stars, so planet is <ruby>行星<rt>ㄏㄚㄥㄙㄝㄥ</rt></ruby>.  We know that our home is in the solar system <ruby>太陽系<rt>ㄊㄚ˙·˙ㄚㄥㄏㄝㄧ</rt></ruby>.  It is made up of
 - Mercury - <ruby>水星<rt>ㄙㄨㄙㄝㄥ</rt></ruby>
 - Venus - <ruby>金星<rt>ㄍㄧㄇㄙㄝㄥ</rt></ruby> (ancient people were unaware that this was the same as the Morning Star <ruby>啓明<rt>ㄎㄝㄧㄇ˙ㄝㄥ</rt></ruby> and the Evening Star <ruby>太白星<rt>ㄊㄚ˙ㄅㄚㄎㄙㄝㄥ</rt></ruby>)
-- Earth - <ruby>地球<rt>ㄉㄧㄧㄍ˙ㄨ</rt></ruby>
+- Earth - <ruby>地球<rt>ㄉㄧ˙ㄍ˙ㄨ</rt></ruby>
 - Mars - <ruby>火星<rt>ㄏˇㄚㄙㄝㄥ</rt></ruby>
 - Jupiter - <ruby>木星<rt>ㄇㄛㄎㄙㄝㄥ</rt></ruby>
 - Saturn - <ruby>土星<rt>ㄊㄛㄙㄝㄥ</rt></ruby> (notice that, skipping the Earth, this order is ''not'' the same as the days of the week)

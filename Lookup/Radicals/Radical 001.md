@@ -38,7 +38,7 @@ Radical 1 is 一, the number one.
 ## +4 Strokes
 * <ruby>[[且]]<rt>ㄑㄛ</rt></ruby> - also
 * <ruby>[[世]]<rt>ㄙㄝ</rt></ruby> - world
-* <ruby>[[丘]]<rt>ㄎㄧㄨ</rt></ruby> - hill
+* <ruby>[[丘]]<rt>ㄎ˙ㄨ</rt></ruby> - hill
 * <ruby>[[丙]]<rt>ㄅ˙ㄝㄥ</rt></ruby> - tertiary
 * <ruby>[[丕]]<rt>ㄆㄧ</rt></ruby> - grand
 * 业 --> ancient variant of 業, 丘, and 北
