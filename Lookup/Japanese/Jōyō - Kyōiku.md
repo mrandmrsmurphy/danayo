@@ -210,7 +210,7 @@ The following prefecture names were added in 2017
 204. [[色]] : colour ; shoku (iro)
 205. [[黄 (char)]] : yellow ; ō (ki)
 206. [[黒 (char)]] : black ; koku (kuro)
-207. [[来]] : come ; rai (ku-ru)
+207. [[来 (char)]] : come ; rai (ku-ru)
 208. [[行]] : go ; kō, gyō (i-ku, yu-ku, okona-u)
 209. [[帰]] : return ; ki (kae-ru)
 210. [[歩]] : walk ; ho, fu, bu (aru-ku, ayu-mu)
