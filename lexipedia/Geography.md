@@ -6,17 +6,17 @@
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
 - <ruby>朝鮮<rt>ㄐㄚˇㄙ˙ㄝㄋ</rt></ruby>
 - <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
-- <ruby>西蔵<rt>ㄙㄝㄧㄑㄚㄥ</rt></ruby>
+- <ruby>西蔵<rt>ㄙㄝ˙ㄑㄚㄥ</rt></ruby>
 - <ruby>台湾<rt>ㄉㄚ˙·ˇㄚㄋ</rt></ruby>
 Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨˇ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
 The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>, <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚˇ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>.  
-Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense ([[軍事]][[防守]]).
+Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby>, and defense ([[軍事]][[防守]]).
 
 ### Political Development
 Historically, imperial rule ([[帝国]][[制度]]) was dominant.  
-<ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
+<ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝ˙</rt></ruby> governed extensive territory ([[広土]]).  
 <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>天皇<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
 
 In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>共和<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
@@ -153,7 +153,7 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 
 ## Oceania
 <ruby>大洋洲<rt>大洋洲</rt></ruby> consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
-Marine resources (<ruby>世界<rt>ㄙㄚ˙·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
+Marine resources (<ruby>世界<rt>ㄙㄚ˙·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
 Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby>[[密度]]) is generally low.
 
 - <ruby>豪洲<rt>ㄏㄚˇㄐㄨˇ</rt></ruby>

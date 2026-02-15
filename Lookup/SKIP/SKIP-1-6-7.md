@@ -1,9 +1,9 @@
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
 
- - <ruby>[[継]]<rt>ㄍㄝㄧ</rt></ruby> - persist
+ - <ruby>[[継]]<rt>ㄍㄝ˙</rt></ruby> - persist
 - <ruby>[[続]]<rt>ㄙ˙ㄛㄎ</rt></ruby> - continue
 - <ruby>[[絹]]<rt>ㄍㄨㄝㄋ</rt></ruby> - silk
-- <ruby>[[綏]]<rt>ㄙㄨㄧ</rt></ruby> - smooth
+- <ruby>[[綏]]<rt>ㄙㄨ˙</rt></ruby> - smooth
 - <ruby>[[蜂]]<rt>ㄆㄛㄥ</rt></ruby> - bee/wasp
 - <ruby>[[蛾]]<rt>ㄚ</rt></ruby> - moth
 - <ruby>[[艇]]<rt>ㄉㄝㄥ</rt></ruby> - rowboat

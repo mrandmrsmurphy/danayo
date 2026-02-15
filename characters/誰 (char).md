@@ -30,7 +30,7 @@ graphemic_classification: 隹
 stand_in: 誰
 aliases:
   - 谁
-注音: ㄙ˙ㄝㄧ
+注音: ㄙ˙ㄝ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

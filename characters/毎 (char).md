@@ -30,7 +30,7 @@ graphemic_classification: 母
 stand_in: 毎
 aliases:
   - 每
-注音: ㄇㄛㄧ
+注音: ㄇㄛ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

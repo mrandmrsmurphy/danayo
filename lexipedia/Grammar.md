@@ -78,7 +78,7 @@ _the_ and _a_ are not part of Dan'a'yo
 - where : <ruby>何処<rt>ㄏㄚㄑㄛ</rt></ruby>
 - whether
 - while
-- who : <ruby>[[誰]]<rt>ㄙ˙ㄝㄧ</rt></ruby>
+- who : <ruby>[[誰]]<rt>ㄙ˙ㄝ˙</rt></ruby>
 - how
 - why
 - what : <ruby>[[何]]<rt>ㄏㄚ</rt></ruby>
