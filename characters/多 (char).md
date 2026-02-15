@@ -1,33 +1,33 @@
 ---
 mandarin:
-- duō
+  - duō
 cantonese:
-- do1
+  - do1
 korean:
-- 다
-korean_native: ''
+  - 다
+korean_native: ""
 japanese:
-- TA
-japanese_nanori: ''
+  - TA
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ɑ
-stroke_count: '6'
+stroke_count: 6
 radical: 夕
 skip_number: 2-3-3
-grade_level: 1
-pos: ''
+grade_level: "1"
+pos: ""
 english:
-- many
+  - many
 羅馬字: da
-韓文: '[[다]]'
-joyo_level: '2'
-hsk_level: '1'
+韓文: "[[다]]"
+joyo_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 84
 mc_id: 137
 graphemic_classification: 會意
-stand_in: 'TRUE'
+stand_in: 多
 aliases:
 ---
 ```meta-bind-embed

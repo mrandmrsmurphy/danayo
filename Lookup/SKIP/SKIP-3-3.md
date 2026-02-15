@@ -27,4 +27,4 @@ These are all characters with 3-stroke "surrounding radical".  Some important ra
 * [[式]]
 * [[向]]
 * [[民]]
-* [[処]]
+* [[処 (char)]]

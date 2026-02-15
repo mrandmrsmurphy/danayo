@@ -37,7 +37,7 @@ The first part of our 常用字 list.
 <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>,
 <ruby>[[事 (char)]]<rt>ㄐㄧ</rt></ruby>,
 <ruby>[[君]]<rt>ㄍㄨㄋ</rt></ruby>,
-<ruby>[[毎]]<rt>ㄇㄛㄧ</rt></ruby>,
+<ruby>[[毎 (char)]]<rt>ㄇㄛㄧ</rt></ruby>,
 
 ## People
 <ruby>[[人 (char)]]<rt>닌</rt></ruby>,
@@ -101,7 +101,7 @@ The first part of our 常用字 list.
 <ruby>[[気]]<rt>킈</rt></ruby>,
 <ruby>[[年]]<rt>넌</rt></ruby>,
 <ruby>[[肉]]<rt>눅</rt></ruby>,
-<ruby>[[多]]<rt>다</rt></ruby>,
+<ruby>[[多 (char)]]<rt>다</rt></ruby>,
 <ruby>[[休]]<rt>휴</rt></ruby>^,
 <ruby>[[字]]<rt>지</rt></ruby>,
 <ruby>[[糸]]<rt>사</rt></ruby>,
@@ -184,8 +184,8 @@ The first part of our 常用字 list.
 <ruby>[[南]]<rt>남</rt></ruby>,
 <ruby>[[指]]<rt>즤</rt></ruby>^,
 <ruby>[[哉]]<rt>재</rt></ruby>,
-<ruby>[[某]]<rt>못</rt></ruby>,
-<ruby>[[皆]]<rt>겨</rt></ruby>,
+<ruby>[[某 (char)]]<rt>못</rt></ruby>,
+<ruby>[[皆 (char)]]<rt>겨</rt></ruby>,
 <ruby>[[風 (char)]]<rt>풍</rt></ruby>,
 <ruby>[[前]]<rt>전</rt></ruby>,
 <ruby>[[流]]<rt>류</rt></ruby>,

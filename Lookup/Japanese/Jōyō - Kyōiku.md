@@ -85,7 +85,7 @@ The following prefecture names were added in 2017
 80. [[白]] : haku (shiro)    
 ## Grade 2 - 160
 81. [[数]] : number, count ; sū (kazu)
-82. [[多]] : many, much ; ta (oo-i)
+82. [[多 (char)]] : many, much ; ta (oo-i)
 83. [[少]] : a few, a little ; shō (suku-nai, suko-shi)
 84. [[万]] : ten thousand ; ban, man (yorozu)
 85. [[半]] : half ; han (naka-ba)
@@ -122,7 +122,7 @@ The following prefecture names were added in 2017
 116. [[顔]] : face ; gan (kao)
 117. [[首]] : neck ; shu (kubi)
 118. [[心]] : heart ; shin (kokoro)
-119. [[時]] : time ; ji (toki)
+119. [[時 (char)]] : time ; ji (toki)
 120. [[曜]] : day of the week ; yō ()
 121. [[朝]] : morning ; chō (asa)
 122. [[昼]] : daytime ; chū (hiru)
@@ -231,7 +231,7 @@ The following prefecture names were added in 2017
 225. [[社]] : company ; sha (yashiro)
 226. [[切]] : cut ; setsu (ki-ru)
 227. [[電]] : electricity ; den (inazuma)
-228. [[毎]] : every ; mai (goto)
+228. [[毎 (char)]] : every ; mai (goto)
 229. [[合]] : fit ; gō (a-u)
 230. [[当]] : this, hit ; tō (a-taru)
 231. [[台]] : pedestal ; dai, tai ()
@@ -341,7 +341,7 @@ The following prefecture names were added in 2017
 334. [[根]] : kon , ne , root , 
 335. [[植]] : shoku , u-eru , plant , 
 336. [[業]] : gyō , – , business , 
-337. [[様]] : yō , sama , appearance or Mr (Mrs, Ms) , 
+337. [[様 (char)]] : yō , sama , appearance or Mr (Mrs, Ms) , 
 338. [[横]] : ō , yoko , side , 
 339. [[橋]] : kyō , hashi , bridge , 
 340. [[次]] : ji , tsugi;  tsu-gu , next , 
@@ -363,7 +363,7 @@ The following prefecture names were added in 2017
 356. [[湯]] : tō , yu , hot water , 
 357. [[漢]] : kan , – , China , 
 358. [[炭]] : tan , sumi , charcoal , 
-359. [[物]] : butsu;  motsu , mono , thing , 
+359. [[物 (char)]] : butsu;  motsu , mono , thing , 
 360. [[球]] : kyū , tama , ball , 
 361. [[由]] : yū or yu , yoshi , reason , 
 362. [[申]] :  , mō-su , say , 
@@ -847,7 +847,7 @@ The following prefecture names were added in 2017
 845. [[優]] : yū	yasa-shii	superior
 846. [[党]] : tō	 	political party
 847. [[冊]] : satsu	 	counter for books
-848. [[処]] : sho	 	dispose
+848. [[処 (char)]] : sho	 	dispose
 849. [[刻]] : koku	kiza-mu	engrave
 850. [[割]] : katsu	wa-ru	divide
 851. [[創]] : sō	tsuku-ru	create

@@ -89,7 +89,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1113. [[怪]] : suspicious
 1114. [[拐]] : kidnap
 1115. [[悔]] : 	悔 repent
-1116. [[皆]] : all
+1116. [[皆 (char)]] : all
 1117. [[塊]] : clod
 1118. [[楷]] : square character style
 1119. [[潰]] : crush
@@ -947,7 +947,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1970. [[妨]] : disturb
 1971. [[房]] : tassel
 1972. [[肪]] : obese
-1973. [[某]] : so-and-so
+1973. [[某 (char)]] : so-and-so
 1974. [[冒]] : risk
 1975. [[剖]] : divide
 1976. [[紡]] : spinning

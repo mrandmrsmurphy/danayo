@@ -43,7 +43,7 @@
 - <ruby>[[爬]]<rt>바</rt></ruby>
 - <ruby>[[版]]<rt>판</rt></ruby>
 - <ruby>[[牧]]<rt>묵</rt></ruby>
-- <ruby>[[物]]<rt>묻</rt></ruby>
+- <ruby>[[物 (char)]]<rt>묻</rt></ruby>
 - <ruby>[[玩]]<rt>완</rt></ruby>
 - <ruby>[[所]]<rt>쇼</rt></ruby>
 - <ruby>[[放]]<rt>방</rt></ruby>

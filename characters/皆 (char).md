@@ -1,33 +1,33 @@
 ---
 mandarin:
-- jiē
+  - jiē
 cantonese:
-- gaai1
+  - gaai1
 korean:
-- 개
-korean_native: ''
+  - 개
+korean_native: ""
 japanese:
-- KAI
-japanese_nanori: ''
+  - KAI
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɣɛi
-stroke_count: '9'
+stroke_count: 9
 radical: 白
 skip_number: 2-5-4
-grade_level: 1
-pos: ''
+grade_level: "1"
+pos: ""
 english:
-- every
+  - every
 羅馬字: gye
-韓文: '[[겨]]'
+韓文: "[[겨]]"
 joyo_level: 高等
-hsk_level: ''
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 176
 mc_id: 68
 graphemic_classification: 會意
-stand_in: 'TRUE'
+stand_in: 皆
 aliases:
 ---
 ```meta-bind-embed

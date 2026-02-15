@@ -4,7 +4,7 @@
 - <ruby>[[広]]<rt>광</rt></ruby>
 - <ruby>[[四]]<rt>싀</rt></ruby>
 - <ruby>[[囚]]<rt>숫</rt></ruby>
-- <ruby>[[処]]<rt>초</rt></ruby>	
+- <ruby>[[処 (char)]]<rt>초</rt></ruby>	
 - <ruby>[[尻]]<rt>캇</rt></ruby>
 - <ruby>[[庁]]<rt>청</rt></ruby>
 - <ruby>[[田]]<rt>던</rt></ruby>	
