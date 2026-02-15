@@ -301,7 +301,7 @@ The following prefecture names were added in 2017
 294. [[屋]] : oku , ya , premise , 
 295. [[岸]] : gan , kishi , shore , 
 296. [[島]] : tō , shima , island , 
-297. [[州]] : shū , – , state , 
+297. [[州 (char)]] : shū , – , state , 
 298. [[帳]] : chō , – , account book , 
 299. [[平]] : hei;  byō , tai-ra;  hira , flat , 
 300. [[幸]] : kō , saiwa-i;  shiawa-se , happiness , 
@@ -874,7 +874,7 @@ The following prefecture names were added in 2017
 872. [[宅]] : taku	ie	home
 873. [[宇]] : u	 	eaves
 874. [[宗]] : shū	sō	religion
-875. [[宙]] : chū	 	mid-air
+875. [[宙 (char)]] : chū	 	mid-air
 876. [[宝]] : hō	takara	treasure
 877. [[宣]] : sen	notama-u	proclaim
 878. [[密]] : mitsu	 	secrecy
@@ -883,7 +883,7 @@ The following prefecture names were added in 2017
 881. [[射]] : sha	i-ru	shoot
 882. [[将]] : shō	 	leader
 883. [[尊]] : son	touto-bu	revered
-884. [[就]] : shū	tsu-ku	concerning
+884. [[就 (char)]] : shū	tsu-ku	concerning
 885. [[尺]] : shaku	 	measure of length
 886. [[届]] :  	todo-ku	deliver
 887. [[展]] : ten	 	expand

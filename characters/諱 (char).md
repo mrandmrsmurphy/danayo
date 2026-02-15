@@ -28,10 +28,10 @@ hanmun_edu_level: ""
 danayo_id: 7244
 mc_id: 1306
 graphemic_classification: 韋
-stand_in: "TRUE"
+stand_in: 諱
 aliases:
   - 讳
-注音: ㄏㄨㄧ
+注音: ㄏㄨ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

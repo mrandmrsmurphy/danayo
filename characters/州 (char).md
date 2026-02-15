@@ -29,16 +29,16 @@ hanmun_edu_level: 高等
 danayo_id: 5132
 mc_id: 407
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 州
 aliases:
   - 𠄓
-注音: ㄐㄨㄨ
+注音: ㄐㄨˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 # Notes
-- Easily confused with [[洲]]
+- Easily confused with [[洲 (char)]]
 - Pure pictogram of an islet in a river
 - Somehow, this is [[SKIP-1-2-4]].

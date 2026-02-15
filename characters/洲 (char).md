@@ -27,9 +27,9 @@ hanmun_edu_level: 高等
 danayo_id: 7503
 mc_id: 3213
 graphemic_classification: 州
-stand_in: "TRUE"
+stand_in: 洲
 aliases:
-注音: ㄐㄨㄨ
+注音: ㄐㄨˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

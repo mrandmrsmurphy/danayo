@@ -1,6 +1,6 @@
 ## 東亜
 
-<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨㄨ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
+<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
 - <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
@@ -8,7 +8,7 @@
 - <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
 - <ruby>西蔵<rt>ㄙㄝㄧㄑㄚㄥ</rt></ruby>
 - <ruby>台湾<rt>ㄉㄚㄧ·ˇㄚㄋ</rt></ruby>
-Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨㄨ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
+Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨˇ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
 The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧㄧ</rt></ruby>, <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
@@ -86,14 +86,14 @@ This region historically connected Asia, Africa, and Europe through trade corrid
 Historically associated with steppe confederations (草原連盟) and caravan routes (駱駝商路).
 
 ## 歐洲
-<ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
+<ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨˇ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
 - <ruby>英国<rt>ㄝㄥㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合]][[王国]], not [[大不列顛]]
 - [[愛爾蘭]][[共和國]]
 - <ruby>法国<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>徳国<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
-- <ruby>西班牙<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby>
+- <ruby>西班牙<rt>ㄙㄝ˙ㄆㄚㄋ·ㄚ</rt></ruby>
 - <ruby>葡萄牙<rt>ㄅㄛㄉㄚㄨ·ㄚ</rt></ruby>
 - Netherlands ([[荷蘭]])  
 - Belgium (比利時)  
@@ -109,13 +109,13 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
 ## 非洲
-<ruby>非洲<rt>ㄆㄧㄐㄨㄨ</rt></ruby> includes major deserts (大沙漠) and large rivers (<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby>).  
+<ruby>非洲<rt>ㄆㄧㄐㄨˇ</rt></ruby> includes major deserts (大沙漠) and large rivers (<ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby>).  
 Ethnic diversity (<ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>[[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
 
 Colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) shaped political boundaries ([[国境]][[形成]]).  
 Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) faced uneven development (<ruby>発展<rt>ㄏㄝㄥㄙㄧㄥ</rt></ruby>[[不均]]).
 
-- <ruby>埃及<rt>ㄚㄧㄍㄨㄆ</rt></ruby>
+- <ruby>埃及<rt>ㄚ˙ㄍㄨㄆ</rt></ruby>
 - Ethiopia (埃塞俄比亜)  
 - Kenya (肯尼亜)  
 - Nigeria (尼日利亜)  
@@ -125,13 +125,13 @@ Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>)
 The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ·˙ㄛㄨ</rt></ruby><ruby>地理<rt>ㄉㄧㄧㄌㄧ</rt></ruby><ruby>要素<rt>˙ㄛㄨㄙㄛ</rt></ruby>.
 
 ## 美洲
-<ruby>美洲<rt>ㄇㄧㄐㄨㄨ</rt></ruby> include North America ([[北美]]) and South America ([[南美]]).
+<ruby>美洲<rt>ㄇㄧㄐㄨˇ</rt></ruby> include North America ([[北美]]) and South America ([[南美]]).
 
 北美 contains large plains (広平原) and industrial states (工業<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
 南美 includes <ruby>山脈<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> and tropical forests ([[熱帯]]<ruby>森林<rt>ㄙㄧㄇㄌㄧㄇ</rt></ruby>.
 
 Independence movements ([[独立]]<ruby>運動<rt>·ㄨㄋㄉㄛㄥ</rt></ruby> produced republics (共和国).  
-Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>差異<rt>ㄑㄚ·ㄧ</rt></ruby> remain notable.
+Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>差異<rt>ㄑㄚ·ㄧ</rt></ruby> remain notable.
 
 ### 北美
 - <ruby>美国<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
@@ -156,14 +156,14 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 Marine resources (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
 Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
 
-- <ruby>豪洲<rt>ㄏㄚㄨㄐㄨㄨ</rt></ruby>
-- <ruby>新西蘭<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby>  
+- <ruby>豪洲<rt>ㄏㄚㄨㄐㄨˇ</rt></ruby>
+- <ruby>新西蘭<rt>ㄙㄧㄋㄙㄝ˙ㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
-Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[航路]]) define regional structure ([[地域]][[構造]]).
+Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚ˙·˙ㄚㄥ</rt></ruby>[[航路]]) define regional structure ([[地域]][[構造]]).
 
 ## The Global System
-The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[体系]]).  
+The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚ˙</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[体系]]).  
 State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle ([[基本]][[原則]]).  
 International organizations (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[組織]]) mediate disputes ([[調解]][[争端]]).
 
@@ -180,10 +180,10 @@ States seek <ruby>安定<rt>ㄚㄋㄐㄝㄥ</rt></ruby> and development ([[発�
 These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
 
 ### World Divisions: Ancient and Modern
-In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby>. The commonly recognized seven continents are:
-- <ruby>亜洲<rt>ㄚㄐㄨㄨ</rt></ruby>
-- <ruby>欧洲<rt>ㄛㄨㄐㄨㄨ</rt></ruby>
-- <ruby>非洲<rt>ㄆㄧㄐㄨㄨ</rt></ruby>
+In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚ˙ㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby>. The commonly recognized seven continents are:
+- <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby>
+- <ruby>欧洲<rt>ㄛㄨㄐㄨˇ</rt></ruby>
+- <ruby>非洲<rt>ㄆㄧㄐㄨˇ</rt></ruby>
 - North America ([[北美洲]]),
 - South America ([[南美洲]]),
 - <ruby>大洋洲<rt>大洋洲</rt></ruby>

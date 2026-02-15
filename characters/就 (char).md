@@ -16,7 +16,7 @@ middle_chinese_final: ɨu
 stroke_count: 12
 radical: 尢
 skip_number: 1-8-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - about
@@ -29,11 +29,11 @@ hanmun_edu_level: 中
 danayo_id: 2073
 mc_id: 552
 graphemic_classification: 尤
-stand_in: "TRUE"
+stand_in: 就
 aliases:
   - 鷲
   - 鹫
-注音: ㄐㄨㄨ
+注音: ㄐㄨˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -15,7 +15,7 @@ middle_chinese_final: ɨu
 stroke_count: 8
 radical: 宀
 skip_number: 2-3-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - eternity
@@ -27,9 +27,9 @@ hanmun_edu_level: 中
 danayo_id: 3084
 mc_id: 3286
 graphemic_classification: 由
-stand_in: "TRUE"
+stand_in: 宙
 aliases:
-注音: ㄐㄨㄨ
+注音: ㄐㄨˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

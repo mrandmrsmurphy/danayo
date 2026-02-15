@@ -59,7 +59,7 @@ date-last-perfect: 2026-02-01
 * <ruby>[[五角形]]<rt>·ㄛㄍㄛㄎㄏㄝㄥ</rt></ruby> - pentagon
 * <ruby>[[五穀]]<rt>·ㄛㄍㄛㄎ</rt></ruby> - The Five Grains
 * <ruby>[[五更]]<rt>·ㄛㄍㄚㄥ</rt></ruby> - the five watches of the night
-* <ruby>[[五指]]<rt>·ㄛㄐㄨㄨ</rt></ruby> - the five fingers/top five
+* <ruby>[[五指]]<rt>·ㄛㄐㄨˇ</rt></ruby> - the five fingers/top five
 * <ruby>[[五官]]<rt>·ㄛㄍㄨㄚㄋ</rt></ruby> - The Five Sense-Organs
 * <ruby>[[四捨五入]]<rt>ㄙㄧㄧㄙㄧㄚ·ㄛㄋㄧㄆ</rt></ruby> - rounding
 ### Links
