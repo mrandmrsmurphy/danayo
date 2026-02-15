@@ -60,8 +60,8 @@ The first part of our 常用字 list.
 
 <ruby>[[刀]]<rt>ㄊㄚㄨ</rt></ruby>,
 <ruby>[[力 (char)]]<rt>ㄌㄧㄎ</rt></ruby>,
-<ruby>[[大 (char)]]<rt>ㄉㄚㄧ</rt></ruby>,
-<ruby>[[才]]<rt>ㄐㄚㄧ</rt></ruby>,
+<ruby>[[大 (char)]]<rt>ㄉㄚ˙</rt></ruby>,
+<ruby>[[才]]<rt>ㄐㄚ˙</rt></ruby>,
 <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby>,
 <ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby>,
 <ruby>[[下]]<rt>하</rt></ruby>,

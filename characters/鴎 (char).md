@@ -29,11 +29,11 @@ graphemic_classification: 区
 stand_in: 鴎
 aliases:
   - 鷗
-注音: ㄛㄨ
+注音: ㄛˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 # Notes
-- [[ㄛㄨ]]
+- [[ㄛˇ]]

@@ -7,11 +7,11 @@
 - <ruby>朝鮮<rt>ㄐㄚㄨㄙ˙ㄝㄋ</rt></ruby>
 - <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
 - <ruby>西蔵<rt>ㄙㄝㄧㄑㄚㄥ</rt></ruby>
-- <ruby>台湾<rt>ㄉㄚㄧ·ˇㄚㄋ</rt></ruby>
+- <ruby>台湾<rt>ㄉㄚ˙·ˇㄚㄋ</rt></ruby>
 Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨˇ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
-The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧㄧ</rt></ruby>, <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧㄧ</rt></ruby>, <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
 Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby>, and defense ([[軍事]][[防守]]).
 
 ### Political Development
@@ -35,21 +35,21 @@ Maritime transport (海上交通) forms an economic foundation (経済基礎).
 Many states experienced colonial rule (殖民統治) and later established independent states (独立<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures (政治体制) vary.
 
 - <ruby>越南<rt>ˇㄝㄊㄋㄚㄇ</rt></ruby>
-- <ruby>泰国<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
+- <ruby>泰国<rt>ㄊㄚ˙ㄍㄛㄎ</rt></ruby>
 - <ruby>面田<rt>ㄇˇㄝㄋㄉㄝㄋ</rt></ruby>
 - <ruby>高綿<rt>ㄍㄚㄨㄇ˙ㄝㄋ</rt></ruby>
 - <ruby>寮国<rt>ㄌ˙ㄚㄨㄍㄛㄎ</rt></ruby>
-- <ruby>馬来西亜<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
+- <ruby>馬来西亜<rt>ㄇㄚㄌㄚ˙ㄙㄝ˙·ㄚ</rt></ruby>
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
 - Indonesia ([[印度]][[尼]][[西]][[亜]])  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
-These states developed along maritime trade routes (海上商路) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
+These states developed along maritime trade routes (海上商路) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
 
 ## 南亜
 [[南亜]] centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
-<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
+<ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
-<ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby> developed early.  
+<ruby>古代<rt>ㄍㄛㄉㄚ˙</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby> developed early.  
 <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄥ</rt></ruby> influenced surrounding regions.  
 Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
@@ -153,7 +153,7 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 
 ## Oceania
 <ruby>大洋洲<rt>大洋洲</rt></ruby> consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
-Marine resources (<ruby>世界<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
+Marine resources (<ruby>世界<rt>ㄙㄚ˙·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
 Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
 
 - <ruby>豪洲<rt>ㄏㄚㄨㄐㄨˇ</rt></ruby>
@@ -180,7 +180,7 @@ States seek <ruby>安定<rt>ㄚㄋㄐㄝㄥ</rt></ruby> and development ([[発�
 These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
 
 ### World Divisions: Ancient and Modern
-In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚ˙ㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby>. The commonly recognized seven continents are:
+In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚ˙ㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚ˙·˙ㄚㄥ</rt></ruby>. The commonly recognized seven continents are:
 - <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby>
 - <ruby>欧洲<rt>ㄛㄨㄐㄨˇ</rt></ruby>
 - <ruby>非洲<rt>ㄆㄧㄐㄨˇ</rt></ruby>
@@ -189,13 +189,13 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚ˙ㄌㄨ�
 - <ruby>大洋洲<rt>大洋洲</rt></ruby>
 - and Antarctica ([[南極洲]]).
 
-<ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby> include:
+<ruby>大洋<rt>ㄉㄚ˙·˙ㄚㄥ</rt></ruby> include:
 - the Pacific ([[太平]][[洋]]), 
 - Atlantic ([[大西洋]]), 
 - <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>,
 - Arctic Ocean ([[北冰洋]]), 
 - and Southern Ocean ([[南冰洋]]). 
-In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·˙ㄚㄥ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·˙ㄚㄥ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects modern geographic science ([[近代]]<ruby>地理学<rt>ㄉㄧㄧㄌㄧㄏㄚㄎ</rt></ruby>) and global cartography (世界[[図法]]).
+In this framework, <ruby>大陸<rt>ㄉㄚ˙ㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚ˙·˙ㄚㄥ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚ˙·˙ㄚㄥ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects modern geographic science ([[近代]]<ruby>地理学<rt>ㄉㄧ˙ㄌㄧㄏㄚㄎ</rt></ruby>) and global cartography (世界[[図法]]).
 
 In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 
 1. the Eastern Sea ([[東海]]), 
