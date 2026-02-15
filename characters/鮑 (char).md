@@ -30,7 +30,7 @@ graphemic_classification: 包
 stand_in: 鮑
 aliases:
   - 鲍
-注音: ㄅㄚㄨ
+注音: ㄅㄚˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
