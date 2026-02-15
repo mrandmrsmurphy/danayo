@@ -10,8 +10,6 @@ views:
       - 注音
       - english
       - skip_number
-      - stroke_count
-      - danayo_id
       - mandarin
       - cantonese
       - hsk_level
@@ -20,7 +18,11 @@ views:
       - korean
       - vietnamese
       - date-last-perfect
+      - 羅馬字
+      - graphemic_classification
     sort:
+      - property: 羅馬字
+        direction: ASC
       - property: 韓文
         direction: ASC
       - property: 注音
