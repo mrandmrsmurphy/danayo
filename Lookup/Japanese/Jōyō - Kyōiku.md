@@ -542,7 +542,7 @@ The following prefecture names were added in 2017
 534. [[景]] : kei	 –	scenery
 535. [[最]] : sai	mo ; motto-mo	most
 536. [[望]] : bō	nozo-mu	hope
-537. [[未]] : mi	ima-da	un-
+537. [[未 (char)]] : mi	ima-da	un-
 538. [[末]] : matsu	sue	end
 539. [[札]] : satsu	fuda	tag
 540. [[材]] : zai	 –	lumber
