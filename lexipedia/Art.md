@@ -1,7 +1,7 @@
 - art - <ruby>芸術<rt>ㄝㄙㄨㄊ</rt></ruby>
 - audience - [[聴衆]]
 - culture - <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby>
-- dance - <ruby>跳舞<rt>ㄊㄛㄨㄇㄨ</rt></ruby>
+- dance - <ruby>跳舞<rt>ㄊㄛˇㄇㄨ</rt></ruby>
 
 ## Language Arts 
 book - <ruby>書本<rt>ㄙ˙ㄛㄅㄛㄋ</rt></ruby>

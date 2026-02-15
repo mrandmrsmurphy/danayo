@@ -12,7 +12,7 @@
 |  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |    <ruby>[[此処]]<rt>ㄑㄝㄑㄛ</rt></ruby>    |     |
 | 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |    <ruby>[[其処]]<rt>ㄍㄧㄑㄛ</rt></ruby>    |     |
 |     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |    <ruby>[[彼処]]<rt>ㄅㄧㄑㄛ</rt></ruby>    |     |
-| 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[[誰 (char)]]<rt>ㄙㄧㄝㄧ</rt></ruby> |     |
+| 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[[誰 (char)]]<rt>ㄙ˙ㄝ˙</rt></ruby> |     |
 | 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |  <ruby>[[何 (char)]]<rt>ㄏㄚ</rt></ruby>  |     |
 | 13  |      where      |  何處  |   哪裡   |   邊度   |          何処          |        奚 or 焉        |               兜 đâu                |    <ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby>    |     |
 | 14  |      when       |  迨   |  甚麼時候  |   幾時   |          何時          |       曷 or 何時        |             欺芇 khi nào             |    <ruby>[[何時]]<rt>ㄏㄚㄙㄧ</rt></ruby>    |     |

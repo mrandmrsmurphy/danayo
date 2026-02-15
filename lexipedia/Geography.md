@@ -1,6 +1,6 @@
 ## 東亜
 
-<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛㄨ</rt></ruby>. Major states include 
+<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛˇ</rt></ruby>. Major states include 
 - <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
 - <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
@@ -86,7 +86,7 @@ This region historically connected Asia, Africa, and Europe through trade corrid
 Historically associated with steppe confederations (草原連盟) and caravan routes (駱駝商路).
 
 ## 歐洲
-<ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨˇ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
+<ruby>欧洲|欧洲<rt>ㄛˇㄐㄨˇ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
 - <ruby>英国<rt>ㄝㄥㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合]][[王国]], not [[大不列顛]]
 - [[愛爾蘭]][[共和國]]
@@ -122,7 +122,7 @@ Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>)
 - South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ·˙ㄛㄨ</rt></ruby><ruby>地理<rt>ㄉㄧㄧㄌㄧ</rt></ruby><ruby>要素<rt>˙ㄛㄨㄙㄛ</rt></ruby>.
+The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ·˙ㄛˇ</rt></ruby><ruby>地理<rt>ㄉㄧㄧㄌㄧ</rt></ruby><ruby>要素<rt>˙ㄛˇㄙㄛ</rt></ruby>.
 
 ## 美洲
 <ruby>美洲<rt>ㄇㄧㄐㄨˇ</rt></ruby> include North America ([[北美]]) and South America ([[南美]]).
@@ -154,9 +154,9 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 ## Oceania
 <ruby>大洋洲<rt>大洋洲</rt></ruby> consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
 Marine resources (<ruby>世界<rt>ㄙㄚ˙·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
-Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
+Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby>[[密度]]) is generally low.
 
-- <ruby>豪洲<rt>ㄏㄚㄨㄐㄨˇ</rt></ruby>
+- <ruby>豪洲<rt>ㄏㄚˇㄐㄨˇ</rt></ruby>
 - <ruby>新西蘭<rt>ㄙㄧㄋㄙㄝ˙ㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
@@ -182,7 +182,7 @@ These institutions operate within principles of sovereignty ([[主権]][[原則]
 ### World Divisions: Ancient and Modern
 In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚ˙ㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚ˙·˙ㄚㄥ</rt></ruby>. The commonly recognized seven continents are:
 - <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby>
-- <ruby>欧洲<rt>ㄛㄨㄐㄨˇ</rt></ruby>
+- <ruby>欧洲<rt>ㄛˇㄐㄨˇ</rt></ruby>
 - <ruby>非洲<rt>ㄆㄧㄐㄨˇ</rt></ruby>
 - North America ([[北美洲]]),
 - South America ([[南美洲]]),
@@ -213,6 +213,6 @@ These were directional boundary waters ([[方位]][[界水]]), not measured ocea
 - Liang (梁州),
 - and Yong (雍州).
 
-These provinces (州) were civilizational and administrative regions ([[治域]]), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain ([[王域]]), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
+These provinces (州) were civilizational and administrative regions ([[治域]]), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛˇㄑㄚˇ</rt></ruby>), centered upon the royal domain ([[王域]]), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛˇㄑㄚˇ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
 
-The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby>[[宇宙観]]) to global geography ([[全球]]<ruby>地理<rt>ㄉㄧㄧㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>).
+The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ˙ㄝㄥ</rt></ruby>[[宇宙観]]) to global geography ([[全球]]<ruby>地理<rt>ㄉㄧ˙ㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝ˙ㄏㄝ˙</rt></ruby>).

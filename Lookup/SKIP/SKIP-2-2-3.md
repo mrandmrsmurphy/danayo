@@ -7,7 +7,7 @@ date-last-perfect: 2026-02-07
 - <ruby>[[古]]<rt>ㄍㄛ</rt></ruby>
 - <ruby>[[市]]<rt>ㄙㄧ</rt></ruby>
 - <ruby>[[写]]<rt>ㄙˉㄚ</rt></ruby>
-- <ruby>[[召]]<rt>ㄙˉㄛㄨ</rt></ruby>
+- <ruby>[[召]]<rt>ㄙ˙ㄛˇ</rt></ruby>
 - <ruby>[[占]]<rt>ㄐㄝㄇ</rt></ruby>
 - <ruby>[[台]]<rt>ㄅˉㄚㄋ</rt></ruby>
 - <ruby>[[乍]]<rt>ㄐㄚ</rt></ruby>

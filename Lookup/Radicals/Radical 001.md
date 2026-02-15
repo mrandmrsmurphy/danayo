@@ -39,7 +39,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[且]]<rt>ㄑㄛ</rt></ruby> - also
 * <ruby>[[世]]<rt>ㄙㄝ</rt></ruby> - world
 * <ruby>[[丘]]<rt>ㄎㄧㄨ</rt></ruby> - hill
-* <ruby>[[丙]]<rt>ㄅㄧㄝㄥ</rt></ruby> - tertiary
+* <ruby>[[丙]]<rt>ㄅ˙ㄝㄥ</rt></ruby> - tertiary
 * <ruby>[[丕]]<rt>ㄆㄧ</rt></ruby> - grand
 * 业 --> ancient variant of 業, 丘, and 北
 * 丛 --> ancient variant of 叢

@@ -52,7 +52,7 @@ date-last-perfect: 2026-02-01
 * <ruby>[[五臓]]<rt>·ㄛㄐㄚㄥ</rt></ruby> - The Five Internal Organs
 * <ruby>[[五倫]]<rt>·ㄛㄌㄨㄋ</rt></ruby> - The Five Relationships
 * <ruby>[[五常]]<rt>·ㄛㄙㄧㄚㄥ</rt></ruby> - The Five Virtues
-* <ruby>[[五戒]]<rt>·ㄛㄍㄧㄝ</rt></ruby> - The Five Precepts
+* <ruby>[[五戒]]<rt>·ㄛㄍ˙ㄝ</rt></ruby> - The Five Precepts
 * <ruby>[[五十]]<rt>·ㄛㄙㄧㄆ</rt></ruby> - fifty
 * <ruby>[[五色]]<rt>·ㄛㄙㄧㄎ</rt></ruby> - The Five Colors
 * <ruby>[[五方]]<rt>·ㄛㄆㄚㄥ</rt></ruby> - The Five Cardinal Directions

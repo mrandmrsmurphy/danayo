@@ -18,8 +18,8 @@ The first part of our 常用字 list.
 <ruby>[[数]]<rt>ㄙㄨ</rt></ruby> : 'number'
 
 ## Time words
-- <ruby>[[日 (char)]]<rt>ㄋㄧㄊ</rt></ruby> : 'sun/day', used in the word 'Sunday' : <ruby>日曜日<rt>ㄧㄊ·˙ㄛㄨ·ㄧㄊ</rt></ruby>
-- <ruby>[[月 (char)]]<rt>ˇㄝㄊ</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>ˇㄝㄊ·˙ㄛㄨ·ㄧㄊ</rt></ruby>
+- <ruby>[[日 (char)]]<rt>ㄋㄧㄊ</rt></ruby> : 'sun/day', used in the word 'Sunday' : <ruby>日曜日<rt>ㄧㄊ·˙ㄛˇ·ㄧㄊ</rt></ruby>
+- <ruby>[[月 (char)]]<rt>ˇㄝㄊ</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>ˇㄝㄊ·˙ㄛˇ·ㄧㄊ</rt></ruby>
 - <ruby>[[火]]<rt>ㄏˇㄚ</rt></ruby> : 'fire', used in the word 'Tuesday' <ruby>火曜日</ruby>
 - <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> : 'water', used in the word 'Wednesday' <ruby>水曜日</ruby>
 - <ruby>[[木]]<rt>ㄇㄛㄎ</rt></ruby> : 'wood', used in the word 'Thursday' <ruby>木曜日</ruby>
