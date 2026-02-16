@@ -630,7 +630,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1653. [[藻]] : seaweed
 1654. [[憎]] : 	[[憎]] hate
 1655. [[贈]] : 	[[贈]] presents
-1656. [[即]] : 	[[即|卽]] instant
+1656. [[即 (char)]] : 	[[即 (char)|卽]] instant
 1657. [[促]] : stimulate
 1658. [[捉]] : capture
 1659. [[俗]] : vulgar

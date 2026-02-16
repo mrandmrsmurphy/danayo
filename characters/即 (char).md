@@ -1,37 +1,38 @@
 ---
 mandarin:
-- jí
+  - jí
 cantonese:
-- zik1
+  - zik1
 korean:
-- 즉
-korean_native: ''
+  - 즉
+korean_native: ""
 japanese:
-- SOKU
-- SHOKU
-japanese_nanori: ''
+  - SOKU
+  - SHOKU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡s
 middle_chinese_final: ɨk
 stroke_count: 7
 radical: 卩
 skip_number: 1-5-2
-grade_level: 3
-pos: ''
+grade_level: "3"
+pos: ""
 english:
-- namely
-- i.e.
+  - namely
+  - in other words
+  - a.k.a.
 羅馬字: jig
-韓文: '[[직]]'
-joyo_level: ''
-hsk_level: ''
-hanmun_edu_level: ''
+韓文: "[[직]]"
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 3042
 mc_id: 242
 graphemic_classification: 會意
-stand_in: 'TRUE'
+stand_in: 即
 aliases:
-- 卽
+  - 卽
 ---
 ```meta-bind-embed
 [[nav/char_info]]

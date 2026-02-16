@@ -528,7 +528,7 @@ The following prefecture names were added in 2017
 520. [[必]] : hitsu	kanara-zu	without fail
 521. [[念]] : nen	 –	thought
 522. [[愛]] : ai	 –	love
-523. [[成]] : sei	na-ru	become
+523. [[成 (char)]] : sei	na-ru	become
 524. [[戦]] : sen	ikusa ; tataka-u	war
 525. [[折]] : setsu	o-ru	fold
 526. [[挙]] : kyo	a-geru	raise
