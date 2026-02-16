@@ -1,33 +1,33 @@
 ---
 mandarin:
-- zài
+  - zài
 cantonese:
-- zoi6
+  - zoi6
 korean:
-- 재
-korean_native: ''
+  - 재
+korean_native: ""
 japanese:
-- ZAI
-japanese_nanori: ''
+  - ZAI
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d͡z
 middle_chinese_final: ʌi
 stroke_count: 6
 radical: 土
 skip_number: 3-2-4
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- exist
+  - exist
 羅馬字: jai
-韓文: '[[재]]'
-joyo_level: '5'
-hsk_level: '1'
+韓文: "[[재]]"
+joyo_level: "5"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2054
 mc_id: 71
 graphemic_classification: 才
-stand_in: 'TRUE'
+stand_in: 在
 aliases:
 ---
 ```meta-bind-embed

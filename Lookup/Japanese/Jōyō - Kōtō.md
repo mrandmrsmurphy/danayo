@@ -555,7 +555,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1578. [[杉]] : cedar
 1579. [[裾]] : cuff
 1580. [[瀬]] : 	[[瀬|瀨]]	rapids 
-1581. [[是]] : just so
+1581. [[是 (char)]] : just so
 1582. [[姓]] : surname
 1583. [[征]] : subjugate
 1584. [[斉]] : 	[[斉|齊]]	adjusted

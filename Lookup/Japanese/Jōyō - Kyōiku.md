@@ -333,7 +333,7 @@ The following prefecture names were added in 2017
 326. [[暑]] : sho , atsu-i , hot , 
 327. [[暗]] : an , kura-i , dark , 
 328. [[曲]] : kyoku , ma-garu;  ma-geru , sheet music;  crooked , 
-329. [[有]] : yū , a-ru , be;  possession , 
+329. [[有 (char)]] : yū , a-ru , be;  possession , 
 330. [[服]] : fuku , – , clothes , 
 331. [[期]] : ki , – , period of time , 
 332. [[板]] : han or ban , ita , board , 
@@ -365,7 +365,7 @@ The following prefecture names were added in 2017
 358. [[炭]] : tan , sumi , charcoal , 
 359. [[物 (char)]] : butsu;  motsu , mono , thing , 
 360. [[球]] : kyū , tama , ball , 
-361. [[由]] : yū or yu , yoshi , reason , 
+361. [[由 (char)]] : yū or yu , yoshi , reason , 
 362. [[申]] :  , mō-su , say , 
 363. [[界]] : kai ,  , world , 
 364. 畑 :  , hata;  hatake , agricultural field ,  FORBIDDEN!
@@ -573,7 +573,7 @@ The following prefecture names were added in 2017
 565. [[満]] : man	mi-chiru	full
 566. [[漁]] : ryō or gyō	asa-ru	fishing
 567. [[灯]] : tō	hi	lamp
-568. [[無]] : mu or bu	na-i	nothing
+568. [[無 (char)]] : mu or bu	na-i	nothing
 569. [[然]] : zen or nen	shika-shi	so
 570. [[焼]] : shō	ya-ku	bake
 571. [[照]] : shō	te-rasu	illuminate
@@ -679,7 +679,7 @@ The following prefecture names were added in 2017
 670. [[因]] : in	yo-ru	cause
 671. [[団]] : dan ; ton	 	group
 672. [[圧]] : atsu	 	pressure
-673. [[在]] : zai	a-ru	exist
+673. [[在 (char)]] : zai	a-ru	exist
 674. [[均]] : kin	 	level
 675. [[基]] : ki	moto-duku	foundation
 676. [[報]] : hō	muku-iru	report

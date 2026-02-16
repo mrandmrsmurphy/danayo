@@ -112,7 +112,7 @@ The first part of our 常用字 list.
 <ruby>[[米]]<rt>메</rt></ruby>,
 <ruby>[[耳]]<rt>니</rt></ruby>,
 <ruby>[[地]]<rt>듸</rt></ruby>,
-<ruby>[[有]]<rt>유</rt></ruby>,
+<ruby>[[有 (char)]]<rt>유</rt></ruby>,
 <ruby>[[当]]<rt>당</rt></ruby>,
 <ruby>[[行]]<rt>항</rt></ruby>,
 <ruby>[[両]]<rt>량</rt></ruby>,
