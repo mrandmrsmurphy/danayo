@@ -44,7 +44,7 @@ aliases:
 ## Graphemic Descendants 
 - 打
 - [[正]]
-- 成
+- [[成 (char)]]
 - 頂
 - 庁
 - 亭
