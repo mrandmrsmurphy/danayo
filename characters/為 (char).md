@@ -37,3 +37,4 @@ aliases:
 
 # Notes
 - 為 is a "copulative particle", a prefix for a verbal complement, as is <ruby>[[謂之]]<rt>ˇㄧㄊㄧ</rt></ruby><ruby>光明<rt>ㄍˇㄚㄥㄇ˙ㄝㄥ</rt></ruby><ruby>為<rt>ˇㄝㄋ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby>、- "he named the light 'day',"
+- Graphemic descendant: [[偽]]
