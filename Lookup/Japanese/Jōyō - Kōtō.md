@@ -10,7 +10,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1034. [[嵐]] : storm
 1035. [[依]] : reliant
 1036. [[威]] : intimidate
-1037. [[為]] : 	爲	do
+1037. [[為 (char)]] : 	爲	do
 1038. [[畏]] : fear
 1039. [[尉]] : military officer
 1040. [[萎]] : wither
