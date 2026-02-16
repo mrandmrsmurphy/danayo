@@ -21,7 +21,7 @@ pos: ""
 english:
   - when
 羅馬字: si
-韓文: "[[시]]"
+韓文: 시
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ graphemic_classification: 寺
 stand_in: 時
 aliases:
   - 时
+注音: ㄙㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
