@@ -7,7 +7,7 @@ characters:
 韓文: 볻역...호
 羅馬字: bod'yeg...ho
 english: <circumfix for rhetorical Qs>
-pos: 助詞
+pos: 修飾語
 mandarin:
 cantonese:
 japanese:

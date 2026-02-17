@@ -20,7 +20,10 @@ views:
       - date-last-perfect
       - 羅馬字
       - graphemic_classification
+      - pos
     sort:
+      - property: pos
+        direction: DESC
       - property: 羅馬字
         direction: ASC
       - property: 韓文
