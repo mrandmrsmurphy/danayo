@@ -23,7 +23,7 @@
 - [[亙]]
 * 亚 which is a variant of 亜
 ### +5
-- [[亜]] 
+- <ruby>[[亜]]<rt>ㄚ</rt></ruby> - Asia 
 ### +6
 - [[些]]
 - 亝 which is a variant of 斉
