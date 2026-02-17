@@ -21,7 +21,7 @@ stroke_count: 2
 radical: 入
 skip_number: 4-2-4
 grade_level: "1"
-pos: verb
+pos: 事詞
 english:
   - enter
 羅馬字: nib

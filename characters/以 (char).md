@@ -16,7 +16,7 @@ stroke_count: 5
 radical: 人
 skip_number: 1-2-3
 grade_level: "2"
-pos: postposition
+pos: 
 english:
   - by
   - using
