@@ -12,7 +12,7 @@ stroke_count: 1
 radical: 一
 skip_number: 4-1-4
 grade_level: 1
-pos: numeral
+pos: 数詞
 english: one, unity, whole
 羅馬字: "'id"
 韓文: 읻
