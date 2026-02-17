@@ -19,7 +19,7 @@ stroke_count: 5
 radical: 囗
 skip_number: 3-3-2
 grade_level: "1"
-pos: numeral
+pos: 数詞
 english:
   - four
   - "4"

@@ -19,7 +19,7 @@ stroke_count: 10
 radical: 人
 skip_number: 1-2-8
 grade_level: "2"
-pos: classifier
+pos: 量詞
 english:
   - individual
 羅馬字: ga

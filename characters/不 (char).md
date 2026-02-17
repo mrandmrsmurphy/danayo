@@ -19,7 +19,7 @@ stroke_count: 4
 radical: 一
 skip_number: 4-4-1
 grade_level: "2"
-pos: adverb
+pos: 修飾語
 english:
   - not
 羅馬字: bod

@@ -17,7 +17,7 @@ stroke_count: 5
 radical: 人
 skip_number: 2-2-3
 grade_level: "3"
-pos: preposition
+pos: 修飾語
 english:
   - cause (causative)
 羅馬字: leng

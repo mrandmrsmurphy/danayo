@@ -18,7 +18,7 @@ stroke_count: 11
 radical: 黄
 skip_number: 2-4-7
 grade_level: "1"
-pos: adjective
+pos: 性詞
 english:
   - yellow
 羅馬字: hwang

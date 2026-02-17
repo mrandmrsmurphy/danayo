@@ -17,7 +17,7 @@ stroke_count: 1
 radical: 乙
 skip_number: 4-1-1
 grade_level: "3"
-pos: adjective
+pos: 性詞
 english:
   - second
   - latter (second heavenly stem)

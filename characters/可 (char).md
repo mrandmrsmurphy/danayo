@@ -17,7 +17,7 @@ stroke_count: '5'
 radical: 口
 skip_number: 3-2-3
 grade_level: 3
-pos: preposition
+pos: 修飾語
 english:
 - can
 羅馬字: ka

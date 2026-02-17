@@ -18,7 +18,7 @@ stroke_count: 13
 radical: 雨
 skip_number: 2-8-5
 grade_level: "4"
-pos: numeral
+pos: 数詞
 english:
   - zero
 羅馬字: leng

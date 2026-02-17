@@ -17,7 +17,7 @@ stroke_count: 2
 radical: 一
 skip_number: 4-2-2
 grade_level: "1"
-pos: numeral
+pos: 数詞
 english:
   - seven
   - "7"

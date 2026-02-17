@@ -16,7 +16,7 @@ stroke_count: 4
 radical: 二
 skip_number: 4-4-1
 grade_level: "1"
-pos: numeral
+pos: 数詞
 english:
   - five
   - "5"

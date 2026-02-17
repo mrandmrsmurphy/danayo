@@ -16,7 +16,7 @@ stroke_count: '3'
 radical: 小
 skip_number: 1-1-2
 grade_level: 1
-pos: adjective
+pos: 性詞
 english:
 - small
 羅馬字: "\bso"

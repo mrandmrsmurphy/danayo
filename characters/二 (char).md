@@ -17,7 +17,7 @@ stroke_count: 2
 radical: 二
 skip_number: 2-1-1
 grade_level: "1"
-pos: numeral
+pos: 数詞
 english:
   - two
   - "2"

@@ -12,7 +12,7 @@ stroke_count: 3
 radical: 一
 skip_number: 2-1-2
 grade_level: 1
-pos: numeral
+pos: 数詞
 english: three
 羅馬字: sam
 韓文: 삼

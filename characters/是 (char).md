@@ -11,6 +11,7 @@ japanese:
   - SHI
 japanese_nanori: ""
 vietnamese:
+  - thị
 middle_chinese_initial: d͡ʑ
 middle_chinese_final: iᴇ
 stroke_count: 9
