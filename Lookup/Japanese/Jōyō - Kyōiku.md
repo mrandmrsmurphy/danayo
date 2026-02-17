@@ -26,7 +26,7 @@ The following prefecture names were added in 2017
 21. [[日 (char)]] : nichi / jitsu (hi, ka)    
 22. [[年]] : nen (toshi)    
 23. [[早]] : sō (haya-i)    
-24. [[木]] : moku / boku (ki)    
+24. [[木 (char)]] : moku / boku (ki)    
 25. [[林]] : rin (hayashi)    
 26. [[山]] : san (yama)    
 27. [[川 (char)]] : sen (kawa)    

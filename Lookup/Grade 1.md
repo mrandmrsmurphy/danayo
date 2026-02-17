@@ -22,7 +22,7 @@ The first part of our 常用字 list.
 - <ruby>[[月 (char)]]<rt>ˇㄝㄊ</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>ˇㄝㄊ·˙ㄛˇ·ㄧㄊ</rt></ruby>
 - <ruby>[[火]]<rt>ㄏˇㄚ</rt></ruby> : 'fire', used in the word 'Tuesday' <ruby>火曜日</ruby>
 - <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> : 'water', used in the word 'Wednesday' <ruby>水曜日</ruby>
-- <ruby>[[木]]<rt>ㄇㄛㄎ</rt></ruby> : 'wood', used in the word 'Thursday' <ruby>木曜日</ruby>
+- <ruby>[[木 (char)]]<rt>ㄇㄛㄎ</rt></ruby> : 'wood', used in the word 'Thursday' <ruby>木曜日</ruby>
 - <ruby>[[金 (char)]]<rt>ㄍㄧㄇ</rt></ruby> : 'metal', used in the word 'Friday' <ruby>金曜日</ruby>
 - <ruby>[[土]]<rt>ㄊㄛ</rt></ruby> : 'earth', used in the word 'Saturday' <ruby>土曜日</ruby>
 - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>,

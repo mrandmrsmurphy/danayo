@@ -125,7 +125,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Sea : sea - [[海]], ocean - [[洋]], bay - [[湾]], strait - [[海峽]]
 - Coastline : coast, beach, peninsula - [[半島]], cape, point
 - Island : island - [[島]], archipelago - [[列島]] & [[群島]], atoll - [[環礁]]
-- Local : rock - [[石]], tree - [[木]], bridge, ford, dam - [[堰堤,]], park, oasis
+- Local : rock - [[石]], tree - [[木 (char)]], bridge, ford, dam - [[堰堤,]], park, oasis
 - Tree : aspen, birch, cedar, elm, oak, palm, pine, willow
 ### Human
 - Settlements : city - [[市]], town, village, colony, port, market - [[場]], capital - [[京]]
