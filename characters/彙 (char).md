@@ -17,7 +17,7 @@ stroke_count: 13
 radical: 彐
 skip_number: 2-3-10
 grade_level: "6"
-pos: 実詞-名詞
+pos: 名詞
 english:
   - collection
   - class

@@ -13,7 +13,7 @@ middle_chinese_initial: k
 middle_chinese_final: ˠuɛ
 radical: 卜
 grade: 先進字
-pos: noun
+pos: 名詞
 english: trigram
 羅馬字: gwai
 韓文: "[[괘]]"

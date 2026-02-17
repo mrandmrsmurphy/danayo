@@ -20,7 +20,7 @@ stroke_count: 2
 radical: 力
 skip_number: 4-2-4
 grade_level: "1"
-pos: noun
+pos: 名詞
 english:
   - power
   - strength

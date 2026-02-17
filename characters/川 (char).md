@@ -18,7 +18,7 @@ stroke_count: "3"
 radical: 巛
 skip_number: 1-1-2
 grade_level: 3
-pos: noun
+pos: 名詞
 english:
   - river
 羅馬字: cen

@@ -19,7 +19,7 @@ stroke_count: 7
 radical: 戈
 skip_number: 4-7-3
 grade_level: "2"
-pos: noun
+pos: 名詞
 english:
   - I
   - me

@@ -17,7 +17,7 @@ stroke_count: 3
 radical: 一
 skip_number: 4-3-2
 grade_level: "1"
-pos: noun
+pos: 名詞
 english:
   - up
   - above

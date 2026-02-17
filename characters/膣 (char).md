@@ -18,7 +18,7 @@ stroke_count: 15
 radical: 肉
 skip_number: 1-4-11
 grade_level: 先進
-pos: noun
+pos: 名詞
 english:
   - pussy
   - cunt

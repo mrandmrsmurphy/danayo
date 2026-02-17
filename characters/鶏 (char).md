@@ -17,7 +17,7 @@ stroke_count: 19
 radical: 鳥
 skip_number: 1-8-11
 grade_level: "3"
-pos: noun
+pos: 名詞
 english:
   - chicken
   - rooster

@@ -20,7 +20,7 @@ stroke_count: 11
 radical: 犬
 skip_number: 1-3-8
 grade_level: "6"
-pos: noun
+pos: 名詞
 english:
   - cat
 羅馬字: myau

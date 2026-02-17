@@ -16,7 +16,7 @@ stroke_count: '4'
 radical: 大
 skip_number: 4-4-1
 grade_level: 1
-pos: noun
+pos: 名詞
 english:
 - sky
 羅馬字: ten

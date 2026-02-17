@@ -18,7 +18,7 @@ stroke_count: 5
 radical: 巛
 skip_number: 1-2-4
 grade_level: "5"
-pos: noun
+pos: 名詞
 english:
   - state
 羅馬字: juu

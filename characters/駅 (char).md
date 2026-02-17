@@ -12,7 +12,7 @@ stroke_count: 14
 radical: 馬
 skip_number: 1-10-4
 grade_level: "5"
-pos: noun
+pos: 名詞
 english: station
 羅馬字: "'yeg"
 韓文: "[[역]]"
