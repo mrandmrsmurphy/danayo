@@ -9,7 +9,7 @@ date-last-perfect: 2026-02-07
 - <ruby>[[写]]<rt>ㄙ˙ㄚ</rt></ruby>
 - <ruby>[[召]]<rt>ㄙ˙ㄛˇ</rt></ruby>
 - <ruby>[[占]]<rt>ㄐㄝㄇ</rt></ruby>
-- <ruby>[[台]]<rt>ㄅ˙ㄚㄋ</rt></ruby>
+- <ruby>[[台 (char)]]<rt>ㄅ˙ㄚㄋ</rt></ruby>
 - <ruby>[[乍]]<rt>ㄐㄚ</rt></ruby>
 - <ruby>[[弁]]<rt>ㄅ˙ㄚㄋ</rt></ruby>
 - <ruby>[[矛]]<rt>ㄇㄚˇ</rt></ruby>

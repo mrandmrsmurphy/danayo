@@ -15,7 +15,7 @@ middle_chinese_final: ɑu
 stroke_count: 9
 radical: 艸
 skip_number: 2-3-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - grass
@@ -27,7 +27,7 @@ hanmun_edu_level: 中
 danayo_id: 169
 mc_id: 590
 graphemic_classification: 早
-stand_in: "TRUE"
+stand_in: 草
 aliases:
   - 艸
 ---

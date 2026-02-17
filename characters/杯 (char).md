@@ -1,37 +1,35 @@
 ---
 mandarin:
-  - méi
+  - bēi
 cantonese:
-  - mui4
+  - bui1
 korean:
-  - 매
+  - 배
 korean_native: ""
 japanese:
-  - MAI
-  - BAI
+  - HAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: m
+middle_chinese_initial: p
 middle_chinese_final: uʌi
 stroke_count: 8
 radical: 木
 skip_number: 1-4-4
-grade_level: "6"
+grade_level: "3"
 pos: ""
 english:
-  - sheets of
-  - stalks of
-羅馬字: moi
-韓文: 뫼
-joyo_level: ""
-hsk_level: ""
+  - cup
+  - cupful
+羅馬字: boi
+韓文: "[[뵈]]"
+joyo_level: 高等
+hsk_level: "1"
 hanmun_edu_level: ""
-danayo_id: 6145
-mc_id: 1449
-graphemic_classification: 會意
-stand_in: "TRUE"
+danayo_id: 3162
+mc_id: 2827
+graphemic_classification: 不
+stand_in: 杯
 aliases:
-注音: ㄇㄛ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

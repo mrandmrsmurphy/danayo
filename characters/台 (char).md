@@ -31,7 +31,7 @@ hanmun_edu_level: ""
 danayo_id: 4047
 mc_id: 840
 graphemic_classification: 指事
-stand_in: "TRUE"
+stand_in: 台
 aliases:
   - 台
   - 檯

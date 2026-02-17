@@ -1,15 +1,15 @@
 ---
 mandarin:
-- zhèn
+  - zhèn
 cantonese:
-- zam6
+  - zam6
 korean:
-- 짐
-korean_native: ''
+  - 짐
+korean_native: ""
 japanese:
-- CHIN
-- JIN
-japanese_nanori: ''
+  - CHIN
+  - JIN
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiɪm
@@ -17,19 +17,19 @@ stroke_count: 10
 radical: 月
 skip_number: 1-4-6
 grade_level: 先進
-pos: ''
+pos: ""
 english:
-- we (royal)
-- I (royalty)
+  - we (royal)
+  - I (royalty)
 羅馬字: jum
-韓文: '[[줌]]'
-joyo_level: ''
-hsk_level: ''
-hanmun_edu_level: ''
+韓文: "[[줌]]"
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
 danayo_id: 7106
 mc_id: 815
 graphemic_classification: 會意
-stand_in: TRYE
+stand_in: 朕
 aliases:
 ---
 ```meta-bind-embed

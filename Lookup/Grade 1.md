@@ -36,7 +36,7 @@ The first part of our 常用字 list.
 <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby>,
 <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>,
 <ruby>[[事 (char)]]<rt>ㄐㄧ</rt></ruby>,
-<ruby>[[君]]<rt>ㄍㄨㄋ</rt></ruby>,
+<ruby>[[君 (char)]]<rt>ㄍㄨㄋ</rt></ruby>,
 <ruby>[[毎 (char)]]<rt>ㄇㄛ˙</rt></ruby>,
 
 ## People
@@ -118,7 +118,7 @@ The first part of our 常用字 list.
 <ruby>[[両]]<rt>량</rt></ruby>,
 <ruby>[[死]]<rt>싀</rt></ruby>,
 <ruby>[[向]]<rt>향</rt></ruby>,
-<ruby>[[名]]<rt>밍</rt></ruby>,
+<ruby>[[名 (char)]]<rt>밍</rt></ruby>,
 <ruby>[[西]]<rt>세</rt></ruby>,
 <ruby>[[全 (char)]]<rt>줜</rt></ruby>,
 <ruby>[[灯]]<rt>둥</rt></ruby>,
@@ -178,7 +178,7 @@ The first part of our 常用字 list.
 <ruby>[[急]]<rt>깁</rt></ruby>,
 <ruby>[[相]]<rt>상</rt></ruby>,
 <ruby>[[持]]<rt>디</rt></ruby>,
-<ruby>[[草]]<rt>찻</rt></ruby>,
+<ruby>[[草 (char)]]<rt>찻</rt></ruby>,
 <ruby>[[海]]<rt>해</rt></ruby>,
 <ruby>[[後]]<rt>홋</rt></ruby>,
 <ruby>[[南]]<rt>남</rt></ruby>,

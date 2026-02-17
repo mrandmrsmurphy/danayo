@@ -37,10 +37,10 @@ The following prefecture names were added in 2017
 32. [[生]] : sei, shō (i-kiru, u-mu, nama)
 33. [[虫]] : chū (mushi)    
 34. [[花]] : ka (hana)    
-35. [[草]] : sō (kusa)    
+35. [[草 (char)]] : sō (kusa)    
 36. [[犬 (char)]] : ken (inu)    
 37. [[人]] : jin / nin (hito)    
-38. [[名]] : mei / myō (na)    
+38. [[名 (char)]] : mei / myō (na)    
 39. [[女]] : jo (onna)    
 40. [[男]] : dan (otoko)    
 41. [[子]] : shi (ko)    
@@ -234,14 +234,14 @@ The following prefecture names were added in 2017
 228. [[毎 (char)]] : every ; mai (goto)
 229. [[合]] : fit ; gō (a-u)
 230. [[当]] : this, hit ; tō (a-taru)
-231. [[台]] : pedestal ; dai, tai ()
+231. [[台 (char)]] : pedestal ; dai, tai ()
 232. [[楽]] : music, pleasure ; gaku, raku (tano-shii)
 233. [[公 (char)]] : public ; kō (ōyake)
 234. [[引]] : pull ; in (hi-ku)
 235. [[科]] : section, grade ; ka ()
 236. [[歌]] : song ; ka (uta)
 237. [[刀]] : sword ; tō (katana)
-238. [[番]] : number ; ban ()
+238. [[番 (char)]] : number ; ban ()
 239. [[用]] : use ; yō (mochi-iru)
 240. [[何 (char)]] : what ; ka ( nani, nan)
 ## Grade 3 - 200
@@ -276,7 +276,7 @@ The following prefecture names were added in 2017
 269. [[受]] : ju , u-keru;  u-karu , receive , 
 270. [[号]] : gō , – , number , 
 271. [[向]] : kō , mu-kau;  mu-ku;  mu-kou , face (v.) , 
-272. [[君]] : kun , kimi , you , 
+272. [[君 (char)]] : kun , kimi , you , 
 273. [[味]] : mi , aji;  aji-wau , flavor , 
 274. [[命]] : mei , inochi , life , 
 275. [[和]] : wa , – , peace;  sum , 
@@ -546,7 +546,7 @@ The following prefecture names were added in 2017
 538. [[末]] : matsu	sue	end
 539. [[札]] : satsu	fuda	tag
 540. [[材]] : zai	 –	lumber
-541. [[束]] : soku	taba ; tsuka	bundle
+541. [[束 (char)]] : soku	taba ; tsuka	bundle
 542. [[松]] : shō	matsu	pine
 543. [[果]] : ka	ha-tasu	fruit ; accomplish
 544. [[栄]] : ei	saka-eru	prosperity
@@ -729,7 +729,7 @@ The following prefecture names were added in 2017
 720. [[旧]] : kyū	 	old times
 721. [[易]] : eki	yasa-shii	easy
 722. [[暴]] : bō	aba-ku	outburst
-723. [[条]] : jō	 	clause
+723. [[条 (char)]] : jō	 	clause
 724. [[枝]] : shi	eda	branch
 725. [[査]] : sa	 	investigate
 726. [[格]] : kaku	 	status
@@ -846,7 +846,7 @@ The following prefecture names were added in 2017
 844. [[傷]] : shō	kizu	wound
 845. [[優]] : yū	yasa-shii	superior
 846. [[党]] : tō	 	political party
-847. [[冊]] : satsu	 	counter for books
+847. [[冊 (char)]] : satsu	 	counter for books
 848. [[処 (char)]] : sho	 	dispose
 849. [[刻]] : koku	kiza-mu	engrave
 850. [[割]] : katsu	wa-ru	divide
@@ -918,7 +918,7 @@ The following prefecture names were added in 2017
 916. [[暮]] : bo	ku-rasu	livelihood
 917. [[朗]] : rō	hoga-raka	melodious
 918. [[機|机]] : ki	tsukue	desk
-919. [[枚]] : mai	 	sheet of…
+919. [[枚 (char)]] : mai	 	sheet of…
 920. [[染]] : sen	so-meru	dye
 921. [[株]] : kabu	 	stocks
 922. [[棒]] : bō	 	rod
@@ -926,7 +926,7 @@ The following prefecture names were added in 2017
 924. [[権]] : ken	 	rights
 925. [[樹]] : ju	ki	trees
 926. [[欲]] : yoku	ho-shii	longing
-927. [[段]] : dan	 	steps
+927. [[段 (char)]] : dan	 	steps
 928. [[沿]] : en	so-u	run alongside
 929. [[泉]] : sen	izumi	fountain
 930. [[洗]] : sen	ara-u	wash

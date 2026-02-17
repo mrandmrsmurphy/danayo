@@ -710,7 +710,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1733. ~~捗~~ : make progress     FORBIDDEN
 1734. [[沈]] : sink
 1735. [[珍]] : rare
-1736. [[朕]] : majestic plural
+1736. [[朕 (char)]] : majestic plural
 1737. [[陳]] : exhibit
 1738. [[鎮]] : 	[[鎮|鎭]]	tranquilize
 1739. [[椎]] : oak
@@ -811,7 +811,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1834. [[覇]] : 	霸	S	hegemony
 1835. [[婆]] : old woman
 1836. [[罵]] : insult
-1837. [[杯]] : counter for cupfuls
+1837. [[杯 (char)]] : counter for cupfuls
 1838. [[排]] : repudiate
 1839. [[廃]] : 	廢	S	abolish
 1840. [[輩]] : comrade
@@ -868,7 +868,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1891. [[微]] : delicate
 1892. [[膝]] : knee
 1893. [[肘]] : elbow
-1894. [[匹]] : equal
+1894. [[匹 (char)]] : equal
 1895. [[泌]] : ooze
 1896. [[姫]] : princess
 1897. [[漂]] : drift

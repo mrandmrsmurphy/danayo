@@ -12,7 +12,7 @@
 - [[窃]]
 - [[宣]]
 - <ruby>[[前]]<rt>전</rt></ruby>
-- [[草]]
+- [[草 (char)]]
 - [[荘]]
 - [[茸]]
 - [[単]]
@@ -37,7 +37,7 @@
 - 荅 - variant of [[答]]
 - 茯 --> 茯苓 (伏+plant)
 - [[茫]]
-- 茗 - "tea buds", same sound as [[名]]??
+- 茗 - "tea buds", same sound as [[名 (char)]]??
 - 茘 - variant of [[荔]] --> 荔枝
 - [[茜]]
 - 夈 - variant of [[斎]]

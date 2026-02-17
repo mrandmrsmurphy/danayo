@@ -15,7 +15,7 @@
 - <ruby>[[𦚖]]<rt>몹</rt></ruby>
 ### Tree
 - <ruby>[[杪]]<rt>묘</rt></ruby>
-- <ruby>[[杯]]<rt>뵈</rt></ruby>
+- <ruby>[[杯 (char)]]<rt>뵈</rt></ruby>
 - <ruby>[[杴]]<rt>혐</rt></ruby>
 - <ruby>[[松]]<rt>숑</rt></ruby>
 - <ruby>[[板]]<rt>판</rt></ruby>
@@ -23,7 +23,7 @@
 - <ruby>[[析]]<rt>석</rt></ruby>
 - <ruby>[[枕]]<rt>짐</rt></ruby>
 - <ruby>[[林]]<rt>림</rt></ruby>
-- <ruby>[[枚]]<rt>뫼</rt></ruby>
+- <ruby>[[枚 (char)]]<rt>뫼</rt></ruby>
 - <ruby>[[枝]]<rt>저</rt></ruby>
 - <ruby>[[枢]]<rt>추</rt></ruby>
 ### Ward
