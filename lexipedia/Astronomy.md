@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 ### Basics
 Looking up at the night sky, we see an entire "culture", called <ruby>天文<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>.  The formal study of these celestial objects is <ruby>天文学<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby>.  This is a true modern science, and not the ancient practice of divination, called <ruby>占星術<rt>ㄐㄝㄇㄙㄝㄥㄙㄨㄊ</rt></ruby>.  (Notice that the first two-characters are the ancient verb "to divine by looking at star signs", <ruby>占星<rt>ㄐㄝㄇㄙㄝㄥ</rt></ruby>.).  The underlying cognitive metaphor is that we are looking up at a house, with "eaves" and "roof beams", which is why the 'universe/cosmos/space-time' is <ruby>宇宙<rt>ㄨㄐㄨˇ</rt></ruby>.  A 'spaceship' is a <ruby>宇宙船<rt>ㄨㄐㄨˇㄐˇㄝㄋ</rt></ruby> and an alien or astronaut is an <ruby>宇宙人<rt>ㄨㄐㄨˇㄨㄋㄧㄋ</rt></ruby>.
 

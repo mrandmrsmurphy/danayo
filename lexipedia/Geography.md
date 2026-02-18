@@ -1,3 +1,7 @@
+---
+language: 単亜語
+---
+
 ## 東亜
 
 <ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛˇ</rt></ruby>. Major states include 

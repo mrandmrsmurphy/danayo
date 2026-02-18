@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 - <ruby>野獣<rt>˙ㄚㄙ˙ㄨ</rt></ruby> : "beast with hair", mammal, wild animal, animal esp. non-human, meta. a wild person
 - <ruby>動物<rt>ㄉㄛㄥㄇㄨㄊ</rt></ruby> : etym. "move thing" , so actually "animal", animate thing
 - <ruby>生物<rt>ㄙㄚㄥㄇㄨㄊ</rt></ruby> : etym. "live thing" , so actually "organism", living being, creature

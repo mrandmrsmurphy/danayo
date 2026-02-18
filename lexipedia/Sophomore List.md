@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes after Swadesh, which he calls his "Sophomore List"
 
 ## Adjectives 

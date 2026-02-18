@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 black - <ruby>黒<rt>훅</rt></ruby>
 blue - <ruby>青<rt>청</rt></ruby>
 brown - [[茶色]] tea color, <ruby>褐<rt>핟</rt></ruby>

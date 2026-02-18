@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 - gold : <ruby>黄金<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby>
 - iron: <ruby>[[鉄]]<rt>ㄊㄝㄊ</rt></ruby>
 - lead : <ruby>[[鉛]]<rt>˙ㄝㄇ</rt></ruby>

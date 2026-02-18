@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 - art - <ruby>芸術<rt>ㄝㄙㄨㄊ</rt></ruby>
 - audience - [[聴衆]]
 - culture - <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby>

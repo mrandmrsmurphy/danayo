@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 ## Main Words
 ### Articles
 _the_ and _a_ are not part of Dan'a'yo

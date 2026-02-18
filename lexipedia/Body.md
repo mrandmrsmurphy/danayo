@@ -1,3 +1,7 @@
+---
+language: English
+---
+
 - arm  - <ruby>腕<rt>완</rt></ruby>
 - back - <ruby>背<rt>뵈</rt></ruby>
 - body - <ruby>身体<rt>신테</rt></ruby>
