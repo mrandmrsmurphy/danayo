@@ -1,6 +1,6 @@
 >  [[Radicals]]
 
-**Radical 32** is 'earth', <ruby>[[土]]<rt>토</rt></ruby>.
+**Radical 32** is 'earth', <ruby>[[土 (char)]]<rt>토</rt></ruby>.
 
 ### +2 Strokes
 [[圧]] 

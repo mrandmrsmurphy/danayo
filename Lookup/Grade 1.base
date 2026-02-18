@@ -33,13 +33,13 @@ views:
       - korean_native
       - mc_id
     sort:
+      - property: 羅馬字
+        direction: DESC
       - property: stand_in
         direction: ASC
       - property: stroke_count
         direction: ASC
       - property: hanmun_edu_level
-        direction: ASC
-      - property: 羅馬字
         direction: ASC
       - property: 注音
         direction: ASC

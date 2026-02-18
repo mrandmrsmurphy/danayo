@@ -28,7 +28,7 @@ Radical 1 is 一, the number one.
 
 ## +3 Strokes
 * <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
-* <ruby>[[与]]<rt>·˙ㄛ</rt></ruby> - only
+* <ruby>[[与 (char)]]<rt>·˙ㄛ</rt></ruby> - only
 * <ruby>[[丐]]<rt>ㄍㄚˇ</rt></ruby> - begger
 * 丏 --> ancient variant of 丐
 * 丑 --> ancient variant of 醜

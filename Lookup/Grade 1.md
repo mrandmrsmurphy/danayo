@@ -24,7 +24,7 @@ The first part of our 常用字 list.
 - <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> : 'water', used in the word 'Wednesday' <ruby>水曜日</ruby>
 - <ruby>[[木 (char)]]<rt>ㄇㄛㄎ</rt></ruby> : 'wood', used in the word 'Thursday' <ruby>木曜日</ruby>
 - <ruby>[[金 (char)]]<rt>ㄍㄧㄇ</rt></ruby> : 'metal', used in the word 'Friday' <ruby>金曜日</ruby>
-- <ruby>[[土]]<rt>ㄊㄛ</rt></ruby> : 'earth', used in the word 'Saturday' <ruby>土曜日</ruby>
+- <ruby>[[土 (char)]]<rt>ㄊㄛ</rt></ruby> : 'earth', used in the word 'Saturday' <ruby>土曜日</ruby>
 - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>,
 <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>,
 <ruby>[[今]]<rt>ㄍㄧㄇ</rt></ruby>,
@@ -32,7 +32,7 @@ The first part of our 常用字 list.
 ## Grammar words
 <ruby>[[之 (char)]]<rt>ㄊㄧ</rt></ruby>,
 <ruby>[[已 (char)]]<rt>ㄧ</rt></ruby>,
-<ruby>[[与]]<rt>˙ㄛ</rt></ruby>,
+<ruby>[[与 (char)]]<rt>˙ㄛ</rt></ruby>,
 <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby>,
 <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>,
 <ruby>[[事 (char)]]<rt>ㄐㄧ</rt></ruby>,
@@ -243,7 +243,7 @@ The first part of our 常用字 list.
 <ruby>[[路]]<rt>로</rt></ruby>,
 <ruby>[[電]]<rt>던</rt></ruby>,
 <ruby>[[想]]<rt>상</rt></ruby>,
-<ruby>[[業]]<rt>업</rt></ruby>,
+<ruby>[[業 (char)]]<rt>업</rt></ruby>,
 <ruby>[[農]]<rt>농</rt></ruby>^,
 <ruby>[[意]]<rt>ㄧ</rt></ruby>,
 <ruby>[[遠]]<rt>온</rt></ruby>,
@@ -256,7 +256,7 @@ The first part of our 常用字 list.
 <ruby>[[談]]<rt>담</rt></ruby>,
 <ruby>[[橋]]<rt>걋</rt></ruby>,
 <ruby>[[頭]]<rt>톳</rt></ruby>,
-<ruby>[[薬]]<rt>˙ㄚㄎ</rt></ruby>,
+<ruby>[[薬 (char)]]<rt>˙ㄚㄎ</rt></ruby>,
 <ruby>[[顔]]<rt>ㄚㄋ</rt></ruby>
 
 ## Data check

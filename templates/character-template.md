@@ -25,4 +25,3 @@ graphemic_classification: "<% tp.system.prompt('Graphemic classification') %>"
 stand_in: "<% tp.system.prompt('Stand-in 2-char word if not a word') %>"
 ---
 # Notes
-<% tp.system.prompt('Any freeform notes? optional') %>

@@ -13,23 +13,23 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ŋ
 middle_chinese_final: iɐp
-stroke_count: "13"
+stroke_count: 13
 radical: 木
 skip_number: 2-5-8
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - profession
   - business
 羅馬字: eb
-韓文: "[[업]]"
+韓文: 업
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 236
 mc_id: 601
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 業
 aliases:
   - 业
 注音: ㄝㄆ

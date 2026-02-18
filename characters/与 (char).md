@@ -23,11 +23,11 @@ english:
 韓文: 요
 joyo_level: 高等
 hsk_level: "2"
-hanmun_edu_level:
+hanmun_edu_level: 中
 danayo_id: 14
 mc_id: 32
 graphemic_classification: 指事
-stand_in: "TRUE"
+stand_in: 与
 aliases:
   - 與
 swadesh: 204
@@ -40,3 +40,5 @@ date-last-perfect: 2026-02-11
 
 # Notes
 **and**, connecting nouns and the like, unlike [[而]]
+- [[Grade 1.base]], [[Korean MS]], [[Jōyō - Kōtō]], HSK 2
+- [[Radical 001]], [[SKIP-4-3-4]], [[Stroke 03]], [[˙ㄛ]]

@@ -28,7 +28,7 @@ hanmun_edu_level: 中
 danayo_id: 249
 mc_id: 1020
 graphemic_classification: 樂
-stand_in: "TRUE"
+stand_in: 薬
 aliases:
   - 藥
   - 药

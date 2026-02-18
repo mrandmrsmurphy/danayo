@@ -1022,7 +1022,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2044. [[誘]] : entice
 2045. [[憂]] : melancholy
 2046. [[融]] : dissolve
-2047. [[与]] : 	與	S	give
+2047. [[与 (char)]] : 	與	S	give
 2048. [[誉]] : 	譽	S	reputation
 2049. [[妖]] : bewitching
 2050. [[庸]] : commonplace

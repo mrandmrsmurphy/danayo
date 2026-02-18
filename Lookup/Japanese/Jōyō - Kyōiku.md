@@ -30,7 +30,7 @@ The following prefecture names were added in 2017
 25. [[林]] : rin (hayashi)    
 26. [[山]] : san (yama)    
 27. [[川 (char)]] : sen (kawa)    
-28. [[土]] : do / to (tsuchi)    
+28. [[土 (char)]] : do / to (tsuchi)    
 29. [[空]] : kū (sora, kara)    
 30. [[田]] : den (ta)    
 31. [[天]] : ten (ama, ame)    
@@ -340,7 +340,7 @@ The following prefecture names were added in 2017
 333. [[柱]] : chū , hashira , pillar , 
 334. [[根]] : kon , ne , root , 
 335. [[植]] : shoku , u-eru , plant , 
-336. [[業]] : gyō , – , business , 
+336. [[業 (char)]] : gyō , – , business , 
 337. [[様 (char)]] : yō , sama , appearance or Mr (Mrs, Ms) , 
 338. [[横]] : ō , yoko , side , 
 339. [[橋]] : kyō , hashi , bridge , 
@@ -406,7 +406,7 @@ The following prefecture names were added in 2017
 399. [[荷]] : ka , ni , luggage , 
 400. [[落]] : raku , o-chiru;  otosu , fall , 
 401. [[葉]] : yō , ha , leaf , 
-402. [[薬]] : yaku , kusuri , medicine , 
+402. [[薬 (char)]] : yaku , kusuri , medicine , 
 403. [[血]] : ketsu , chi , blood , 
 404. [[表]] : hyō , omote;  arawa-su;  arawa-reru , list or surface , 
 405. [[詩]] : shi , – , poem , 
