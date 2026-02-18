@@ -32,6 +32,7 @@ graphemic_classification: 會意
 stand_in: 分
 aliases:
   - 份
+注音: ㄅㄨㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

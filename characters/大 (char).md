@@ -33,6 +33,7 @@ graphemic_classification: 象形
 stand_in: 大
 aliases:
   - 亣
+注音: ㄉㄚ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

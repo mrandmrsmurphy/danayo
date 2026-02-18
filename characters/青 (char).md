@@ -33,6 +33,7 @@ aliases:
   - 靑
   - 𤯞
   - 菁
+注音: ㄑㄝㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

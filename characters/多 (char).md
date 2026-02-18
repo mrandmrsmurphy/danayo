@@ -29,6 +29,7 @@ mc_id: 137
 graphemic_classification: 會意
 stand_in: 多
 aliases:
+注音: ㄉㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

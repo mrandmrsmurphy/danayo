@@ -32,6 +32,7 @@ stand_in: 出
 aliases:
   - 出
   - 齣
+注音: ㄑㄨㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

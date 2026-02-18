@@ -29,6 +29,7 @@ mc_id: 529
 graphemic_classification: 皮
 stand_in: 彼
 aliases:
+注音: ㄅㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
