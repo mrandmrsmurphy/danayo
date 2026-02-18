@@ -11,6 +11,7 @@ japanese:
   - U
 japanese_nanori: ""
 vietnamese:
+  - hữu
 middle_chinese_initial: 0
 middle_chinese_final: ɨu
 stroke_count: 6
@@ -21,7 +22,7 @@ pos: ""
 english:
   - have
 羅馬字: yu
-韓文: "[[유]]"
+韓文: 유
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -30,6 +31,7 @@ mc_id: 12
 graphemic_classification: 又
 stand_in: 有
 aliases:
+注音: ˙ㄨ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
