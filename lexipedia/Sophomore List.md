@@ -16,7 +16,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 * smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>'u</rt></ruby>
 * real - <ruby>[[真]]<rt>jin</rt></ruby> , fake <ruby>[[不真]]<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>'an</rt></ruby>)
 * upper - 上- , lower - 下-
-* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[便 (char)]]<rt>byen</rt></ruby>
+* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[便]]<rt>byen</rt></ruby>
 * sweet - <ruby>[[甘]]<rt>gam</rt></ruby> , sour - <ruby>[[酸]]<rt>swam</rt></ruby>
 * strong - <ruby>[[強]]<rt>gyang</rt></ruby> , weak - <ruby>[[柔]]<rt>nyu</rt></ruby>
 * different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
@@ -27,12 +27,12 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Abstractions : funny, easy, difficult, alone, free, normal, special, probable, secret
 
 ## Nouns
-- Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[鉄 (char)]]<rt>tet</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[銀 (char)]]<rt>'in</rt></ruby>
-- Territory : nature, world - <ruby>[[世界]]<rt>segye</rt></ruby>, land
-- Time: week - <ruby>[[週日]]<rt>juunit</rt></ruby>, month - <ruby>[[月 (char)]]<rt>'wet</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>jaknit</rt></ruby>, today - <ruby>[[今日]]<rt>gimnit</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>lainit</rt></ruby>, morning - <ruby>[[朝]]<rt>jau</rt></ruby>, afternoon - <ruby>[[午後]]<rt>'ohou</rt></ruby>
-- Season : spring - <ruby>[[春]]<rt>cun</rt></ruby>, summer - <ruby>[[夏]]<rt>hya</rt></ruby>, fall - <ruby>[[秋]]<rt>cuu</rt></ruby>, winter - <ruby>[[冬]]<rt>tong</rt></ruby>
-- Geographical : hill, farm, field, island - <ruby>[[島]]<rt>tau</rt></ruby>
-- Body Parts : body - <ruby>[[身体]]<rt>sintei</rt></ruby>, lip - <ruby>[[唇]]<rt>sun</rt></ruby>, breast - <ruby>[[乳房]]<rt>nubang</rt></ruby>,  butt - <ruby>[[尻]]<rt>kau</rt></ruby>, muscle - <ruby>[[筋肉]]<rt>ginnuk</rt></ruby>, brain - <ruby>[[脳]]<rt>nau</rt></ruby>
+- Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[鉄]]<rt>ㄊㄝㄊ</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[銀]]<rt>ㄧㄋ</rt></ruby>
+- Territory : nature, world - <ruby>[[世界]]<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>, land
+- Time: week - <ruby>[[週日]]<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>, month - <ruby>[[月]]<rt>ˇㄝㄊ</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>, today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>ㄌㄚ˙ㄋㄧㄊ</rt></ruby>, morning - <ruby>[[朝]]<rt>ㄐㄚˇ</rt></ruby>, afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛˇ</rt></ruby>
+- Season : spring - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>, summer - <ruby>[[夏]]<rt>ㄏ˙ㄚ</rt></ruby>, fall - <ruby>[[秋]]<rt>ㄑㄨˇ</rt></ruby>, winter - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>
+- Geographical : hill, farm, field, island - <ruby>[[島]]<rt>ㄊㄚˇ</rt></ruby>
+- Body Parts : body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝ˙</rt></ruby>, lip - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby>, breast - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄥ</rt></ruby>,  butt - <ruby>[[尻]]<rt>ㄎㄚˇ</rt></ruby>, muscle - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>, brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>
 - Animals : cat, cow, chicken, horse, pig, mouse, monkey, lion, bug, wolf
 - Plants : grain, bread, branch
 - People : girl, boy, girlfriend, boyfriend, friend, baby
@@ -91,9 +91,9 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Accessories : DVD, hard drive, keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>, mouse - <ruby>[[滑鼠]]<rt>gotsyo</rt></ruby>, monitor
 - Programs : program, game, word processor, compiler
 - Internet : internet, email, web, website, download, browser, blog, post, flame, lurker, newb, chat
-- Disciplines : physics - <ruby>[[物理学]]<rt>mutlihak</rt></ruby>, chemistry - <ruby>[[化学]]<rt>hwahak</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
-- Physics : atom - <ruby>[[原子]]<rt>'wenji</rt></ruby>, molecule - <ruby>[[分子]]<rt>bunja</rt></ruby>, energy, nuclear, particle, photon - <ruby>[[光子]]<rt>gwangji</rt></ruby>, proton - <ruby>[[陽子]]<rt>'yangji</rt></ruby>, neutron - <ruby>[[中子]]<rt>jungji</rt></ruby>, electron - <ruby>[[電子]]<rt>denji</rt></ruby>
-- Biology : cell - <ruby>[[細胞]]<rt>seibyau</rt></ruby>, evolution - <ruby>[[進化]]<rt>jinhwa</rt></ruby><ruby>[[事 (char)]]<rt>ji</rt></ruby>, gene
+- Disciplines : physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>, chemistry - <ruby>[[化学]]<rt>ㄏˇㄚㄏㄚㄎ</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
+- Physics : atom - <ruby>[[原子]]<rt>ˇㄝㄋㄐㄧ</rt></ruby>, molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>, energy, nuclear, particle, photon - <ruby>[[光子]]<rt>ㄍˇㄚㄥㄐㄧ</rt></ruby>, proton - <ruby>[[陽子]]<rt>˙ㄚㄥㄐㄧ</rt></ruby>, neutron - <ruby>[[中子]]<rt>ㄐㄨㄥㄐㄧ</rt></ruby>, electron - <ruby>[[電子]]<rt>ㄉㄝㄋㄐㄧ</rt></ruby>
+- Biology : cell - <ruby>[[細胞]]<rt>ㄙㄝ˙ㄅ˙ㄚˇ</rt></ruby>, evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏˇㄚ</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>, gene
 - Substance : plastic
 - Appliance : stove, sink, dishwasher, refrigerator, washer, dryer, furnace, AC
 - Film : camera, film, photo, movie/video, animation, theater
@@ -124,12 +124,12 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Hills: hill, down, mountain [[山]], range, plateau, crest, peak
 - Valley : valley, canyon, cliff
 - Harsh : marsh, swamp, desert, wilderness, jungle
-- Rivers : river -[[川 (char)]] , stream - [[河]], brook - [[江]], channel, rapids, portage, source, confluence, delta, bank, waterfall, spring
+- Rivers : river -[[川]] , stream - [[河]], brook - [[江]], channel, rapids, portage, source, confluence, delta, bank, waterfall, spring
 - Lake : lake - [[湖]], pond - [[池]]
 - Sea : sea - [[海]], ocean - [[洋]], bay - [[湾]], strait - [[海峽]]
 - Coastline : coast, beach, peninsula - [[半島]], cape, point
 - Island : island - [[島]], archipelago - [[列島]] & [[群島]], atoll - [[環礁]]
-- Local : rock - [[石]], tree - [[木 (char)]], bridge, ford, dam - [[堰堤,]], park, oasis
+- Local : rock - [[石]], tree - [[木]], bridge, ford, dam - [[堰堤,]], park, oasis
 - Tree : aspen, birch, cedar, elm, oak, palm, pine, willow
 ### Human
 - Settlements : city - [[市]], town, village, colony, port, market - [[場]], capital - [[京]]
@@ -140,11 +140,11 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 ### Adjectives
 - Age: new - [[新]], old - [[古]]
 - Shapes : round, flat, wide, narrow
-- Locations : central - [[中 (char)]], upper/high - [[上 (char)]], lower/low - [[下]], near, far
+- Locations : central - [[中]], upper/high - [[上]], lower/low - [[下]], near, far
 - Directions : north - [[北]], south - [[南]], east - [[東]], west - [[西]]
 - Respect : great/grand - [[太]], glorious, noble - [[貴]], holy - [[聖]], royal - [[帝]]
-- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金 (char)]], silver - [[銀 (char)]], jewel
+- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金]], silver - [[銀]], jewel
 - Descriptive : windy, stinky
-- Color : white - [[, black - [[黒 (char)]], green, yellow - [[黄 (char)]], blue, red, orange, brown
+- Color : white - , black - [[黒]], green, yellow - [[黄]], blue, red, orange, brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy
-- Animals : horse - [[馬 (char)]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[鷹 (char)]], eagle - [[鵰 (char)]], dragon - [[龍 (char)]], ram - [[羊]]
+- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[鷹]], eagle - [[鵰]], dragon - [[龍]], ram - [[羊]]

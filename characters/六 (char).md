@@ -25,7 +25,7 @@ english:
 韓文: "[[룩]]"
 joyo_level: "1"
 hsk_level: "1"
-hanmun_edu_level: 중
+hanmun_edu_level: 中
 danayo_id: 49
 mc_id: 76
 graphemic_classification: 指事

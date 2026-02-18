@@ -25,14 +25,14 @@ english:
   - power
   - strength
 羅馬字: lig
-韓文: "[[릭]]"
+韓文: 릭
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 8
 mc_id: 300
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 力
 aliases:
   - 𠠲
 ---

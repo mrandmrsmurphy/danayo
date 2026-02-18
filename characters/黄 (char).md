@@ -25,7 +25,7 @@ english:
 韓文: "[[황]]"
 joyo_level: "2"
 hsk_level: "1"
-hanmun_edu_level: "1"
+hanmun_edu_level: 中
 danayo_id: 210
 mc_id: 228
 graphemic_classification: 炗
@@ -34,6 +34,7 @@ aliases:
   - 黃
   - 簧
 swadesh: 174
+注音: ㄏˇㄚㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

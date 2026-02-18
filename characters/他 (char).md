@@ -39,6 +39,7 @@ aliases:
   - 祂
   - 沱
   - 沲
+注音: ㄊㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

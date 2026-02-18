@@ -22,14 +22,14 @@ english:
   - down
   - below
 羅馬字: ha
-韓文: "[[하]]"
+韓文: 하
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 26
 mc_id: 21
 graphemic_classification: 指事
-stand_in: "TRUE"
+stand_in: 下
 aliases:
   - 丅
 注音: ㄏㄚ
@@ -38,7 +38,7 @@ aliases:
 [[nav/char_info]]
 ```
 ## Etymology
-Original an 指事/ideogram, a picture of "down".  It used be a line under another: 𠄟.
+Originally an 指事/ideogram, a picture of "down".  It used be a line under another: 𠄟.
 下 is popular in "coined character", novel inventions of various countries.
 - 口 + 下 = 吓, an alias of 嚇
 - 土 + 下 = 圷, a forbidden Japanese character
@@ -49,13 +49,16 @@ Original an 指事/ideogram, a picture of "down".  It used be a line under anoth
 - 林 + 下 = 梺, a forbidden Japanese character
 - 門 + 下 = 閇, an alias of 閉
 ## Words
-- <ruby>[[天下]]<rt>턴하</rt></ruby> - the world
-- <ruby>[[陛下]]<rt>베하</rt></ruby> - your majesty
-- <ruby>[[低下]]<rt>데하</rt></ruby> - to lower, to droop
-- <ruby>[[地下道]]<rt>듸하닷</rt></ruby> - tunnel, underpass
-- <ruby>[[下顎]]<rt>하악</rt></ruby> - jaw, chin
-- <ruby>[[下降]]<rt>하강</rt></ruby> - to descend, to fall
-- <ruby>[[下痢]]<rt>하릐</rt></ruby> - diarrhea
-- <ruby>[[下旬]]<rt>하슌</rt></ruby> - end of the month
-- <ruby>[[落下]]<rt>락하</rt></ruby> - to fall
-- <ruby>[[落下傘]]<rt>락하산</rt></ruby> - parachute
+- <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> - the world
+- <ruby>[[陛下]]<rt>ㄅㄝ˙ㄏㄚ</rt></ruby> - your majesty
+- <ruby>[[低下]]<rt>ㄉㄝ˙ㄏㄚ</rt></ruby> - to lower, to droop
+- <ruby>[[地下道]]<rt>ㄉㄧ˙ㄏㄚㄉㄚˇ</rt></ruby> - tunnel, underpass
+- <ruby>[[下顎]]<rt>ㄏㄚ·ㄚㄎ</rt></ruby> - jaw, chin
+- <ruby>[[下降]]<rt>ㄏㄚㄍㄚㄥ</rt></ruby> - to descend, to fall
+- <ruby>[[下痢]]<rt>ㄏㄚㄌㄧ˙</rt></ruby> - diarrhea
+- <ruby>[[下旬]]<rt>ㄏㄚㄙ˙ㄨㄋ</rt></ruby> - end of the month
+- <ruby>[[落下]]<rt>ㄌㄚㄎㄏㄚ</rt></ruby> - to fall
+- <ruby>[[落下傘]]<rt>ㄌㄚㄎㄏㄚㄙㄚㄋ</rt></ruby> - parachute
+## Info
+- [[Grade 1.base]], [[HSK Beginner]], [[Jōyō - Kyōiku]], [[Korean MS]]
+- [[Radical 001]] ([[SKIP-4-3-1]], [[Stroke 03]])

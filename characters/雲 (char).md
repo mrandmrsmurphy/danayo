@@ -31,6 +31,7 @@ stand_in: 雲
 aliases:
   - 云
   - 澐
+注音: ㄨㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

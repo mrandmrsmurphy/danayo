@@ -17,20 +17,21 @@ stroke_count: "3"
 radical: 已
 skip_number: 4-3-1
 grade_level: 1
-pos: 
+pos:
 english:
   - -ed
 羅馬字: i
-韓文: "[[이]]"
+韓文: 이
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 13
 mc_id: 160
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 已
 aliases:
   - 㠯
+注音: ㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

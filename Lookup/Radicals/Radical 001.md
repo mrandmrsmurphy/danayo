@@ -21,7 +21,7 @@ Radical 1 is 一, the number one.
 * <ruby>[[丈 (char)]]<rt>ㄐㄚㄥ</rt></ruby> - only
 * <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
 * <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - above
-* <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> - below
+* <ruby>[[下 (char)]]<rt>ㄏㄚ</rt></ruby> - below
 * 丌 --> ancient variant of 其
 * 亐 --> ancient variant of 于
 * 卄 --> ancient variant of 廿

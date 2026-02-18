@@ -35,6 +35,7 @@ aliases:
   - 𠔇
   - 𡳿
   - の
+注音: ㄊㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

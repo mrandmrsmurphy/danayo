@@ -16,7 +16,7 @@ The following prefecture names were added in 2017
 11. [[百]] : hyaku momo
 12. [[千]] sen chi
 13. [[上 (char)]] : jō (ue)    
-14. [[下]] : ka / ge (shita, moto)    
+14. [[下 (char)]] : ka / ge (shita, moto)    
 15. [[左]] : sa (hidari)    
 16. [[右]] : u / yū (migi)    
 17. [[中 (char)]] : chū (naka)    

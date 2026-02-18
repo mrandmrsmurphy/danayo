@@ -26,14 +26,24 @@ views:
       - korean
       - vietnamese
       - hanmun_edu_level
-      - graphemic_classification
       - hsk_level
+      - graphemic_classification
       - joyo_level
       - japanese_nanori
       - korean_native
       - mc_id
     sort:
+      - property: stand_in
+        direction: ASC
+      - property: stroke_count
+        direction: ASC
+      - property: hanmun_edu_level
+        direction: ASC
       - property: 羅馬字
+        direction: ASC
+      - property: 注音
+        direction: ASC
+      - property: japanese
         direction: ASC
       - property: danayo_id
         direction: ASC
@@ -47,3 +57,9 @@ views:
       note.stroke_count: 33
       note.middle_chinese_initial: 42
       note.middle_chinese_final: 56
+      note.cantonese: 80
+      note.japanese: 134
+      note.vietnamese: 153
+      note.hanmun_edu_level: 58
+      note.graphemic_classification: 65
+      note.japanese_nanori: 105

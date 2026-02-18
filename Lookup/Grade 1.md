@@ -31,7 +31,7 @@ The first part of our 常用字 list.
 
 ## Grammar words
 <ruby>[[之 (char)]]<rt>ㄊㄧ</rt></ruby>,
-<ruby>[[已]]<rt>ㄧ</rt></ruby>,
+<ruby>[[已 (char)]]<rt>ㄧ</rt></ruby>,
 <ruby>[[与]]<rt>˙ㄛ</rt></ruby>,
 <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby>,
 <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>,
@@ -64,7 +64,7 @@ The first part of our 常用字 list.
 <ruby>[[才]]<rt>ㄐㄚ˙</rt></ruby>,
 <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby>,
 <ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby>,
-<ruby>[[下]]<rt>하</rt></ruby>,
+<ruby>[[下 (char)]]<rt>하</rt></ruby>,
 <ruby>[[太]]<rt>태</rt></ruby>,
 <ruby>[[内]]<rt>뇌</rt></ruby>,
 <ruby>[[毛]]<rt>맛</rt></ruby>,

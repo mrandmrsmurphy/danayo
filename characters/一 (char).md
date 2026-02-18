@@ -18,7 +18,7 @@ english: one, unity, whole
 韓文: 읻
 joyo_level: "1"
 hsk_level: "1"
-hanmun_edu_level: 중
+hanmun_edu_level: 中
 danayo_id: 1
 mc_id: 28
 graphemic_classification: 象形

@@ -8,10 +8,10 @@
 - [[己]]	
 - <ruby>[[口]]<rt>콧</rt></ruby>
 - [[工]]
-- <ruby>[[下]]<rt>하</rt></ruby>
+- <ruby>[[下 (char)]]<rt>하</rt></ruby>
 - 廴, i.e. Radical 054
 - [[叉]]	
-- <ruby>[[已]]<rt>이</rt></ruby>
+- <ruby>[[已 (char)]]<rt>이</rt></ruby>
 - <ruby>[[子]]<rt>지</rt></ruby>
 - [[巳]]
 - 孑, a.k.a 子, i.e. Radical 039

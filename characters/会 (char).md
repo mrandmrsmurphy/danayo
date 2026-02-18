@@ -19,7 +19,7 @@ stroke_count: 6
 radical: 人
 skip_number: 2-2-4
 grade_level: "1"
-pos: ""
+pos:
 english:
   - meet
   - gather
@@ -35,6 +35,7 @@ stand_in: 会
 aliases:
   - 會
   - 屶
+注音: ㄏˇㄝ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

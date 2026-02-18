@@ -23,17 +23,18 @@ english:
   - month
   - moon
 羅馬字: wen
-韓文: "[[웓]]"
+韓文: 웓
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 47
 mc_id: 56
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 月
 aliases:
   - 𡇹, 𠥱
 swadesh: "148"
+注音: ˇㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
