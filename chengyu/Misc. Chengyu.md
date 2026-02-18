@@ -3,3 +3,5 @@
 - <ruby>[[一帆風順]]<rt>ㄧㄊㄆㄚㄇㄆㄨㄥㄙ˙ㄨㄋ</rt></ruby> - smooth sailing
 - <ruby>[[一攫千金]]<rt>ㄧㄊㄍˇㄚㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄞㄊㄙㄚㄇㄑㄨˇ</rt></ruby> - one day is like three autumns
+- <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚˇ·ㄧㄊㄙㄝㄎ</rt></ruby> - one morning one evening
+- <ruby>[[一期一会]]<rt>ㄧㄜㄎㄧ·ㄧㄊㄏˇㄝ</rt></ruby>  - one lifetime, one meeting
