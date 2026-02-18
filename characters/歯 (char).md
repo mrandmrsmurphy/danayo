@@ -27,7 +27,7 @@ hanmun_edu_level: ""
 danayo_id: 3170
 mc_id: 1083
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 歯
 aliases:
   - 齒
   - 齿

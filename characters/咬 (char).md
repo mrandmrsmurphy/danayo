@@ -5,20 +5,21 @@ cantonese:
   - ngaau5
 korean:
   - 교
-korean_native: ""
+korean_native: 지저귀다, 씹다
 japanese:
   - KOU
   - GOU
   - YOU
-japanese_nanori: ""
+japanese_nanori: かむ
 vietnamese:
+  - giảo, rao
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣau
 stroke_count: 9
 radical: 口
 skip_number: 1-3-6
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - bite
   - gnaw
@@ -26,12 +27,12 @@ english:
 羅馬字: "'yau"
 韓文: 얏
 joyo_level: 表外字
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "2"
+hanmun_edu_level: 名
 danayo_id: 6062
 mc_id: 0
 graphemic_classification: 交
-stand_in: "TRUE"
+stand_in: 咬
 aliases:
   - 齩
   - 齧
@@ -41,9 +42,14 @@ aliases:
   - 啮
   - 𪘂
 注音: ˙ㄚˇ
+swadesh: 94
+date-last-perfect: 2026-02-17
+品詞: 事詞
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 # Notes
+- [[Radical 030|口]] + [[交]] = [[SKIP-1-3-6]] ([[Stroke 09]]) - [[˙ㄚˇ]]
+- [[Hyōgai]], [[Korean Name ㄱ]], HSK 2, [[Grade 6]]

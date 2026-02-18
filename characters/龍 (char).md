@@ -35,6 +35,9 @@ aliases:
   - 竜
   - 龙
   - 龎
+  - 隴
+  - 陇
+  - 𨻫
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -11,6 +11,7 @@ japanese:
   - JOU
 japanese_nanori: ""
 vietnamese:
+  - thành, thình
 middle_chinese_initial: ʑ
 middle_chinese_final: iᴇŋ
 stroke_count: 6

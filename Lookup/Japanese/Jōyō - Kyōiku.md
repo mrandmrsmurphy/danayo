@@ -345,7 +345,7 @@ The following prefecture names were added in 2017
 338. [[横]] : ō , yoko , side , 
 339. [[橋]] : kyō , hashi , bridge , 
 340. [[次]] : ji , tsugi;  tsu-gu , next , 
-341. [[歯]] : shi , ha , tooth , 
+341. [[歯 (char)]] : shi , ha , tooth , 
 342. [[死]] : shi , shi-nu , death , 
 343. [[氷]] : hyō , kōri , ice , 
 344. [[決]] : ketsu , ki-meru;  ki-maru , decide , 
