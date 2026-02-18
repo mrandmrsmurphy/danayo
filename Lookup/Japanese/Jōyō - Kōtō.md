@@ -497,7 +497,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1520. [[償]] : reparation
 1521. [[礁]] : reef
 1522. [[鐘]] : bell
-1523. [[丈]] : length
+1523. [[丈 (char)]] : length
 1524. [[冗]] : superfluous
 1525. [[浄]] : 	淨	clean
 1526. [[剰]] : 	剩	surplus

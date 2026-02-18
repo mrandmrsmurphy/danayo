@@ -18,7 +18,7 @@ Radical 1 is 一, the number one.
 
 ## +2 Strokes
 * <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
-* <ruby>[[丈]]<rt>ㄐㄚㄥ</rt></ruby> - only
+* <ruby>[[丈 (char)]]<rt>ㄐㄚㄥ</rt></ruby> - only
 * <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
 * <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - above
 * <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> - below

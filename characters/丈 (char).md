@@ -17,7 +17,7 @@ stroke_count: 3
 radical: 一
 skip_number: 4-3-4
 grade_level: 5
-pos: 
+pos:
 english:
   - only
 羅馬字: cang
@@ -28,7 +28,7 @@ hanmun_edu_level: 高等
 danayo_id: 5201
 mc_id: 881
 graphemic_classification: 指事
-stand_in: "TRUE"
+stand_in: 丈
 aliases:
   - 𠀋
 注音: ㄑㄚㄥ
