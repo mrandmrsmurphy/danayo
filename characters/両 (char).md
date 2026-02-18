@@ -27,7 +27,7 @@ hanmun_edu_level: ""
 danayo_id: 98
 mc_id: 349
 graphemic_classification: 指事
-stand_in: "TRUE"
+stand_in: 両
 aliases:
   - 两
   - 兩

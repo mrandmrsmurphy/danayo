@@ -62,7 +62,7 @@ The following prefecture names were added in 2017
 57. [[夕]] : yū (yū)    
 58. [[本]] : hon (moto)
 59. [[文]] : bun / mon (fumi)    
-60. [[字]] : ji (aza)    
+60. [[字 (char)]] : ji (aza)    
 61. [[学]] : gaku (mana-bu)    
 62. [[校]] : kō (—)    
 63. [[村]] : son (mura)    
@@ -247,7 +247,7 @@ The following prefecture names were added in 2017
 ## Grade 3 - 200
 241. [[丁 (char)]] : chō ; pair
 242. [[世]] : sei ; se , yo, world
-243. [[両]] : ryō , – , both , 
+243. [[両 (char)]] : ryō , – , both , 
 244. [[主]] : shu , nushi;  omo-ni;  omo-na , master , 
 245. [[乗]] : jō , no-ru , ride , 
 246. [[予]] : yo , – , in advance , 

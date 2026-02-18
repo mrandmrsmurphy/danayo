@@ -838,7 +838,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1861. [[罰]] : penalty
 1862. [[閥]] : clique
 1863. [[氾]] : spread out
-1864. [[帆]] : sail
+1864. [[帆 (char)]] : sail
 1865. [[汎]] : pan-
 1866. [[伴]] : consort
 1867. [[畔]] : paddy-ridge

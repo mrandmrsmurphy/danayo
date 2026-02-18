@@ -1,2 +1,4 @@
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚˇㄌ˙ㄚㄥㄉˇㄚㄋ</rt></ruby> - cut in two with one stroke
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> - time passed quickly
+- <ruby>[[一帆風順]]<rt>ㄧㄊㄆㄚㄇㄆㄨㄥㄙ˙ㄨㄋ</rt></ruby> - smooth sailing
+- <ruby>[[一攫千金]]<rt>ㄧㄊㄍˇㄚㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant

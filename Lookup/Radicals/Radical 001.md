@@ -49,7 +49,7 @@ Radical 1 is 一, the number one.
 
 ## +5 Strokes
 * <ruby>[[丞]]<rt>ㄙㄧㄥ</rt></ruby> - rescue
-* <ruby>[[両]]<rt>ㄌ˙ㄚㄥ</rt></ruby> - both
+* <ruby>[[両 (char)]]<rt>ㄌ˙ㄚㄥ</rt></ruby> - both
 * 㐂 --> ancient variant of 喜
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
 * 丠 --> ancient variant of 丘 and 冀
