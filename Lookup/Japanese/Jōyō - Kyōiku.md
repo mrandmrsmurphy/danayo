@@ -349,7 +349,7 @@ The following prefecture names were added in 2017
 342. [[死]] : shi , shi-nu , death , 
 343. [[氷]] : hyō , kōri , ice , 
 344. [[決]] : ketsu , ki-meru;  ki-maru , decide , 
-345. [[油]] : yu , abura , oil , 
+345. [[油 (char)]] : yu , abura , oil , 
 346. [[波]] : ha , nami , wave , 
 347. [[注]] : chū , soso-gu , pour , 
 348. [[泳]] : ei , oyo-gu , swim , 

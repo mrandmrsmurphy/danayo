@@ -1,35 +1,36 @@
 ---
 mandarin:
-- yóu
+  - yóu
 cantonese:
-- jau4
+  - jau4
 korean:
-- 유
-korean_native: ''
+  - 유
+korean_native: ""
 japanese:
-- YU
-- YUU
-japanese_nanori: ''
+  - YU
+  - YUU
+japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: ɨu
-stroke_count: '8'
+stroke_count: 8
 radical: 水
 skip_number: 1-3-5
-grade_level: 2
-pos: ''
+grade_level: "2"
+pos: ""
 english:
-- oil
+  - oil
 羅馬字: yu
-韓文: '[[유]]'
-joyo_level: '3'
-hsk_level: ''
+韓文: 유
+joyo_level: "3"
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2154
 mc_id: 3745
 graphemic_classification: 由
-stand_in: 'TRUE'
+stand_in: 油
 aliases:
+注音: ˙ㄨ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
