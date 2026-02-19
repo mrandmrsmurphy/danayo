@@ -1,7 +1,7 @@
 filters:
   and:
     - file.folder == "characters"
-    - grade_level == "1"
+    - grade_level == "名"
 views:
   - type: table
     name: Table
@@ -33,10 +33,10 @@ views:
       - korean_native
       - mc_id
     sort:
-      - property: stand_in
-        direction: DESC
       - property: 羅馬字
         direction: DESC
+      - property: stand_in
+        direction: ASC
       - property: stroke_count
         direction: ASC
       - property: hanmun_edu_level

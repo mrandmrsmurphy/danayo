@@ -30,6 +30,7 @@ mc_id: 1643
 graphemic_classification: 畀
 stand_in: 鼻
 aliases:
+注音: ㄅㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

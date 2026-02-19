@@ -31,6 +31,7 @@ stand_in: 処
 aliases:
   - 处
   - 處
+注音: ㄑㄛ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

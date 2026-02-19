@@ -32,6 +32,7 @@ aliases:
   - 蚣
   - 蜙
   - 𧌻
+注音: ㄍㄛㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

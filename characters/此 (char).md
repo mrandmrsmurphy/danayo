@@ -29,6 +29,7 @@ mc_id: 51
 graphemic_classification: 匕
 stand_in: 此
 aliases:
+注音: ㄑㄝ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -49,7 +49,7 @@ The following prefecture names were added in 2017
 44. [[口]] : kō (kuchi)    
 45. [[手]] : shu (te)    
 46. [[足 (char)]] : soku (ashi)    
-47. [[見]]  : ken (mi-ru)
+47. [[見 (char)]]  : ken (mi-ru)
 48. [[音]] : on / in (oto, ne)    
 49. [[力 (char)|力]] : ryoku (chikara)    
 50. [[気]] : ki (ke)    

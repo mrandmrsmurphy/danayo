@@ -138,7 +138,7 @@ The first part of our 常用字 list.
 <ruby>[[作]]<rt>작</rt></ruby>,
 <ruby>[[対]]<rt>되</rt></ruby>,
 <ruby>[[究]]<rt>규</rt></ruby>,
-<ruby>[[見]]<rt>견</rt></ruby>,
+<ruby>[[見 (char)]]<rt>견</rt></ruby>,
 <ruby>[[声]]<rt>싱</rt></ruby>,
 <ruby>[[放]]<rt>방</rt></ruby>^,
 <ruby>[[表]]<rt>뱟</rt></ruby>,

@@ -69,20 +69,12 @@ views:
       note.韓文: 69
       note.english: 125
       note.skip_number: 72
-      note.radical: 47
-      note.stroke_count: 87
-      note.danayo_id: 68
-      note.grade_level: 63
-      note.graphemic_classification: 60
       note.mandarin: 71
       note.cantonese: 65
       note.hsk_level: 82
       note.japanese: 58
-      note.japanese_nanori: 86
       note.joyo_level: 73
       note.korean: 58
-      note.korean_native: 57
-      note.hanmun_edu_level: 78
       note.vietnamese: 148
-      note.middle_chinese_initial: 54
-      note.middle_chinese_final: 50
+      note.graphemic_classification: 60
+      note.pos: 332
