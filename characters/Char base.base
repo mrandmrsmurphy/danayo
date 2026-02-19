@@ -21,6 +21,7 @@ views:
       - 羅馬字
       - graphemic_classification
       - pos
+      - grade_level
     sort:
       - property: pos
         direction: DESC
@@ -77,4 +78,5 @@ views:
       note.korean: 58
       note.vietnamese: 148
       note.graphemic_classification: 60
-      note.pos: 332
+      note.pos: 67
+      note.grade_level: 46

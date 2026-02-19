@@ -32,6 +32,7 @@ aliases:
   - 哩
   - 裏
   - 裡
+注音: ㄌㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

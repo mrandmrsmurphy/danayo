@@ -31,6 +31,7 @@ stand_in: 雪
 aliases:
   - 鱈
   - 䨮
+注音: ㄙˇㄝㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

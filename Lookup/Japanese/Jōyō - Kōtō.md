@@ -749,7 +749,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1772. [[吐]] : spit
 1773. [[妬]] : jealousy
 1774. [[途]] : route
-1775. [[渡]] : transit
+1775. [[渡 (char)]] : transit
 1776. [[塗]] : paint
 1777. [[賭]] :  gamble
 1778. [[奴]] : guy

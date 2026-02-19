@@ -31,6 +31,7 @@ graphemic_classification: 凡
 stand_in: 風
 aliases:
   - 风
+注音: ㄆㄨㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

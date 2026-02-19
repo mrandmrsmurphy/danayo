@@ -34,6 +34,7 @@ aliases:
   - 马
   - 瑪
   - 碼
+注音: ㄇㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
