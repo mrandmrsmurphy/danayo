@@ -77,7 +77,7 @@ The following prefecture names were added in 2017
 72. [[竹]] : chiku (take)    
 73. [[糸]] : shi (ito)    
 74. [[貝]] : bai (kai)    
-75. [[車]] : sha (kuruma)    
+75. [[車 (char)]] : sha (kuruma)    
 76. [[金 (char)]] : kin / kon (kane)    
 77. [[雨 (char)]] : u (ame)    
 78. [[赤]] : seki (aka)    

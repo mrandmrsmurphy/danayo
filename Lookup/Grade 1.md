@@ -129,7 +129,7 @@ The first part of our 常用字 list.
 <ruby>[[走 (char)]]<rt>좃</rt></ruby>,
 <ruby>[[売]]<rt>매</rt></ruby>,
 <ruby>[[里 (char)]]<rt>리</rt></ruby>,
-<ruby>[[車]]<rt>차</rt></ruby>,
+<ruby>[[車 (char)]]<rt>차</rt></ruby>,
 <ruby>[[近]]<rt>긴</rt></ruby>,
 <ruby>[[花]]<rt>화</rt></ruby>,
 <ruby>[[村]]<rt>촌</rt></ruby>,

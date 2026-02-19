@@ -13,23 +13,23 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: ia
-stroke_count: "7"
+stroke_count: 7
 radical: 車
 skip_number: 4-7-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - cart
   - car
 羅馬字: ca
-韓文: "[[차]]"
+韓文: 차
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 114
 mc_id: 198
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 車
 aliases:
   - 车
 注音: ㄑㄚ
