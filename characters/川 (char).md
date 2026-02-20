@@ -22,7 +22,7 @@ pos: 名詞
 english:
   - river
 羅馬字: cen
-韓文:  천
+韓文: 천
 joyo_level: "1"
 hsk_level: "4"
 hanmun_edu_level: 中
@@ -32,6 +32,7 @@ graphemic_classification: 象形
 stand_in: 川
 aliases:
   - 巛
+注音: ㄑㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

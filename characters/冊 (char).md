@@ -21,7 +21,7 @@ pos: ""
 english:
   - book
 羅馬字: cag
-韓文:  착
+韓文: 착
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ graphemic_classification: 象形
 stand_in: 冊
 aliases:
   - 册
+注音: ㄑㄚㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

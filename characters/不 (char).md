@@ -23,7 +23,7 @@ pos: 修飾語
 english:
   - not
 羅馬字: bod
-韓文:  볻
+韓文: 볻
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -34,7 +34,7 @@ stand_in: 不
 aliases:
   - 𠀚
   - 𠙐
-注音: ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ
+注音: ㄅㄛㄊ
 ---
 
 ```meta-bind-embed

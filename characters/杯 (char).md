@@ -21,7 +21,7 @@ english:
   - cup
   - cupful
 羅馬字: boi
-韓文:  뵈
+韓文: 뵈
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ mc_id: 2827
 graphemic_classification: 不
 stand_in: 杯
 aliases:
+注音: ㄅㄛ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

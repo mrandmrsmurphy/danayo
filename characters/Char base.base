@@ -7,6 +7,7 @@ views:
     order:
       - file.name
       - 韓文
+      - 羅馬字
       - 注音
       - english
       - skip_number
@@ -18,12 +19,13 @@ views:
       - korean
       - vietnamese
       - date-last-perfect
-      - 羅馬字
       - graphemic_classification
       - pos
       - grade_level
       - danayo_id
     sort:
+      - property: 羅馬字
+        direction: ASC
       - property: 韓文
         direction: ASC
       - property: danayo_id
@@ -32,8 +34,6 @@ views:
         direction: ASC
       - property: pos
         direction: DESC
-      - property: 羅馬字
-        direction: ASC
       - property: 注音
         direction: ASC
       - property: date-last-perfect
@@ -69,7 +69,7 @@ views:
     columnSize:
       file.name: 31
       note.韓文: 63
-      note.注音: 64
+      note.注音: 80
       note.english: 125
       note.skip_number: 72
       note.mandarin: 71
@@ -78,7 +78,7 @@ views:
       note.japanese: 58
       note.joyo_level: 73
       note.korean: 58
-      note.vietnamese: 148
+      note.vietnamese: 91
       note.date-last-perfect: 64
       note.graphemic_classification: 60
       note.pos: 67

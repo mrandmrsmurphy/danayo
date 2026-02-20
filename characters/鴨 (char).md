@@ -20,7 +20,7 @@ pos: ""
 english:
   - duck
 羅馬字: ab
-韓文:  압
+韓文: 압
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ graphemic_classification: 甲
 stand_in: 鴨
 aliases:
   - 鸭
+注音: ㄚㄆ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

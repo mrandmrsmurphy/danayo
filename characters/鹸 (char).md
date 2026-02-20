@@ -22,7 +22,7 @@ english:
   - base
   - alkali
 羅馬字: cem
-韓文:  첨
+韓文: 첨
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -34,6 +34,7 @@ aliases:
   - 鹼
   - 碱
   - 𫠗
+注音: ㄑㄝㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
