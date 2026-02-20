@@ -28,7 +28,7 @@ hanmun_edu_level: ""
 danayo_id: 8201
 mc_id: 3437
 graphemic_classification: 我
-stand_in: "TRUE"
+stand_in: 蛾
 aliases:
 注音: ㄚ
 ---

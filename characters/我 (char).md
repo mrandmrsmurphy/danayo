@@ -50,6 +50,6 @@ date-last-perfect: 2026-02-06
 
 # Notes
 - Neither [[吾]] nor [[瓦]] are not used as pronoun, so this character takes their place.  Pronounced [[ㄚ]].
-- A 會意, but what are the components?  Folk etymologies consider it a hand (手) holding a weapon (戈).  In all likelihood, the pieces are lost.
-- [[HSK Beginner]], [[Korean MS]], [[Jōyō - Kyōiku]], [[Grade 2]]
+- A 會意, but what are the components?  Folk etymologies consider it a hand (手) holding a weapon (戈).  In all likelihood, the pieces are lost. [[ㄚ]]
+- [[HSK Beginner]], [[Korean MS]], [[Jōyō - Kyōiku]], [[Grade 2.base]]
 - [[Swadesh]] word #1

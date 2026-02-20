@@ -5,7 +5,7 @@
 - <ruby>[[絹]]<rt>ㄍㄨㄝㄋ</rt></ruby> - silk
 - <ruby>[[綏]]<rt>ㄙㄨ˙</rt></ruby> - smooth
 - <ruby>[[蜂]]<rt>ㄆㄛㄥ</rt></ruby> - bee/wasp
-- <ruby>[[蛾]]<rt>ㄚ</rt></ruby> - moth
+- <ruby>[[蛾 (char)]]<rt>ㄚ</rt></ruby> - moth
 - <ruby>[[艇]]<rt>ㄉㄝㄥ</rt></ruby> - rowboat
 - [[粳]]
 - <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel
