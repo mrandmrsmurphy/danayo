@@ -30,6 +30,7 @@ mc_id: 3638
 graphemic_classification: 文
 stand_in: 蚊
 aliases:
+注音: ㄇㄨㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

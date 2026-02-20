@@ -27,7 +27,7 @@ english:
   - tree
   - bush
 羅馬字: mog
-韓文:  목
+韓文: 목
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -36,6 +36,7 @@ mc_id: 290
 graphemic_classification: 象形
 stand_in: 木
 aliases:
+注音: ㄇㄛㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

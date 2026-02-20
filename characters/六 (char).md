@@ -22,7 +22,7 @@ english:
   - six
   - "6"
 羅馬字: lug
-韓文:  룩
+韓文: 룩
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 76
 graphemic_classification: 指事
 stand_in: 六
 aliases:
+注音: ㄌㄨㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

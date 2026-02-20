@@ -22,7 +22,7 @@ english:
   - fog
   - mist
 羅馬字: mu
-韓文:  무
+韓文: 무
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -32,6 +32,7 @@ graphemic_classification: 務
 stand_in: 霧
 aliases:
   - 雾
+注音: ㄇㄨ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -20,7 +20,7 @@ pos: ""
 english:
   - dew
 羅馬字: lo
-韓文:  로
+韓文: 로
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,6 +29,7 @@ mc_id: 1123
 graphemic_classification: 路
 stand_in: 露
 aliases:
+注音: ㄌㄛ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

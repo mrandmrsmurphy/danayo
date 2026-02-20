@@ -21,7 +21,7 @@ english:
   - cry
   - chirp
 羅馬字: myeng
-韓文:  명
+韓文: 명
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ graphemic_classification: 會意
 stand_in: 鳴
 aliases:
   - 鸣
+注音: ㄇ˙ㄝㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

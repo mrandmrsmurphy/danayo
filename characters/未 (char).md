@@ -21,7 +21,7 @@ pos: ""
 english:
   - not yet
 羅馬字: mui
-韓文:  뮈
+韓文: 뮈
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -30,6 +30,7 @@ mc_id: 103
 graphemic_classification: 象形
 stand_in: 未
 aliases:
+注音: ㄇㄨ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

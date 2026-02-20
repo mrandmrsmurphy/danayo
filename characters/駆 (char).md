@@ -20,7 +20,7 @@ english:
   - drive
   - spur
 羅馬字: ku
-韓文:  쿠
+韓文: 쿠
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ graphemic_classification: 区
 stand_in: 駆
 aliases:
   - 驅
+注音: ㄎㄨ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

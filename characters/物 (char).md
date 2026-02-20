@@ -22,7 +22,7 @@ english:
   - thing
   - result
 羅馬字: mud
-韓文:  묻
+韓文: 묻
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 156
 graphemic_classification: 勿
 stand_in: 物
 aliases:
+注音: ㄇㄨㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

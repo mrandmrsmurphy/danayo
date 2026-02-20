@@ -23,7 +23,7 @@ english:
   - gather
   - collect
 羅馬字: lyem
-韓文:  렴
+韓文: 렴
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -34,6 +34,7 @@ stand_in: 㪘
 aliases:
   - 斂
   - 敛
+注音: ㄌ˙ㄝㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

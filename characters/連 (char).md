@@ -20,7 +20,7 @@ pos: ""
 english:
   - mutual
 羅馬字: lyen
-韓文:  련
+韓文: 련
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -32,6 +32,7 @@ aliases:
   - 连
   - 聯
   - 联
+注音: ㄌ˙ㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

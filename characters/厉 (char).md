@@ -19,7 +19,7 @@ pos: ""
 english:
   - whetstone
 羅馬字: le
-韓文:  러
+韓文: 러
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -32,6 +32,7 @@ aliases:
   - 蛎
   - 蠣
   - 蠇
+注音: ㄌㄝ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

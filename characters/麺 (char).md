@@ -20,7 +20,7 @@ english:
   - noodles
   - flour
 羅馬字: men
-韓文:  먼
+韓文: 먼
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ graphemic_classification: 面
 stand_in: 麺
 aliases:
   - 麵
+注音: ㄇㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

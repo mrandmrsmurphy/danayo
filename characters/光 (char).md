@@ -20,7 +20,7 @@ pos: ""
 english:
   - light
 羅馬字: kwang
-韓文:  쾅
+韓文: 쾅
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,6 +29,7 @@ mc_id: 264
 graphemic_classification: 指事
 stand_in: 光
 aliases:
+注音: ㄎˇㄚㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

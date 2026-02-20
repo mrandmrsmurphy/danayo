@@ -23,7 +23,7 @@ english:
   - dragon
   - reptile
 羅馬字: lyong
-韓文:  룡
+韓文: 룡
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -38,6 +38,7 @@ aliases:
   - 隴
   - 陇
   - 𨻫
+注音: ㄌ˙ㄛㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

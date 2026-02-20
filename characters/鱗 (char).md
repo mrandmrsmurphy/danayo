@@ -20,7 +20,7 @@ pos: ""
 english:
   - scale (fish)
 羅馬字: lin
-韓文:  린
+韓文: 린
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ graphemic_classification: 粦
 stand_in: 鱗
 aliases:
   - 鳞
+注音: ㄌㄧㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

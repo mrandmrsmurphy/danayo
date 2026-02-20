@@ -21,7 +21,7 @@ pos: ""
 english:
   - thunder
 羅馬字: loi
-韓文:  뢰
+韓文: 뢰
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -30,6 +30,7 @@ mc_id: 989
 graphemic_classification: 會意
 stand_in: 雷
 aliases:
+注音: ㄌㄛ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

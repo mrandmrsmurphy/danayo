@@ -22,7 +22,7 @@ pos: ""
 english:
   - not exist
 羅馬字: mag
-韓文:  막
+韓文: 막
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 221
 graphemic_classification: 象形
 stand_in: 莫
 aliases:
+注音: ㄇㄚㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
