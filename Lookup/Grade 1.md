@@ -52,7 +52,7 @@ The first part of our 常用字 list.
 <ruby>[[母]]<rt>못</rt></ruby>,
 
 ## Nature
-<ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>,
+<ruby>[[山 (char)]]<rt>ㄙㄚㄋ</rt></ruby>,
 <ruby>[[牛]]<rt>ㄋ˙ㄨ</rt></ruby>,
 <ruby>[[石]]<rt>ㄙㄝㄎ</rt></ruby>,
 <ruby>[[虫]]<rt>ㄐㄨㄥ</rt></ruby>,

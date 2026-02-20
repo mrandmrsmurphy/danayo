@@ -21,7 +21,7 @@ english:
   - rabbit
   - hare
 羅馬字: to
-韓文:  토
+韓文: 토
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -31,6 +31,7 @@ graphemic_classification: 象形
 stand_in: 兎
 aliases:
   - 兔
+注音: ㄊㄛ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

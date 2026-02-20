@@ -20,7 +20,7 @@ pos: ""
 english:
   - iron
 羅馬字: ted
-韓文:  턷
+韓文: 턷
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ graphemic_classification: 呈
 stand_in: 鉄
 aliases:
   - 鐵
+注音: ㄊㄝㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

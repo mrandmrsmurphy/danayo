@@ -121,7 +121,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 ### Geography
 - Plains : plain, savannah, meadow, field, prairie
 - Forest : forest/woods - [[森]], grove/copse - [[林 ]]
-- Hills: hill, down, mountain [[山]], range, plateau, crest, peak
+- Hills: hill, down, mountain [[山 (char)]], range, plateau, crest, peak
 - Valley : valley, canyon, cliff
 - Harsh : marsh, swamp, desert, wilderness, jungle
 - Rivers : river -[[川]] , stream - [[河]], brook - [[江]], channel, rapids, portage, source, confluence, delta, bank, waterfall, spring

@@ -20,7 +20,7 @@ pos: ""
 english:
   - -ly (adverbializer)
 羅馬字: yang
-韓文:  양
+韓文: 양
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: ""
@@ -31,6 +31,7 @@ stand_in: 様
 aliases:
   - 樣
   - 样
+注音: ˙ㄚㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

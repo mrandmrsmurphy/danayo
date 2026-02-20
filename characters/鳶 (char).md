@@ -20,7 +20,7 @@ pos: ""
 english:
   - kite
 羅馬字: yen
-韓文:  연
+韓文: 연
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ graphemic_classification: 弋
 stand_in: 鳶
 aliases:
   - 鸢
+注音: ˙ㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

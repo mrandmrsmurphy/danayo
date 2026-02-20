@@ -10,33 +10,22 @@ views:
       - danayo_id
       - date-last-perfect
       - english
-      - 韓文
-      - 羅馬字
       - 注音
-      - stroke_count
       - stand_in
-      - skip_number
-      - radical
       - pos
-      - middle_chinese_initial
-      - middle_chinese_final
-      - mandarin
-      - cantonese
-      - japanese
       - korean
       - vietnamese
       - hanmun_edu_level
       - hsk_level
-      - graphemic_classification
       - joyo_level
       - japanese_nanori
       - korean_native
       - mc_id
     sort:
+      - property: stand_in
+        direction: ASC
       - property: danayo_id
         direction: ASC
-      - property: stand_in
-        direction: DESC
       - property: 羅馬字
         direction: DESC
       - property: stroke_count

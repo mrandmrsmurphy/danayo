@@ -20,7 +20,7 @@ pos: ""
 english:
   - lead (substance)
 羅馬字: yem
-韓文:  염
+韓文: 염
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -30,6 +30,7 @@ graphemic_classification: 㕣
 stand_in: 鉛
 aliases:
   - 铅
+注音: ˙ㄝㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

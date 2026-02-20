@@ -21,7 +21,7 @@ english:
   - bundle
   - package
 羅馬字: syog
-韓文:  쇽
+韓文: 쇽
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -30,6 +30,7 @@ mc_id: 1325
 graphemic_classification: 象形
 stand_in: 束
 aliases:
+注音: ㄙ˙ㄛㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
