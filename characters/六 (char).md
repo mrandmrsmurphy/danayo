@@ -10,7 +10,12 @@ japanese:
   - RIKU
 japanese_nanori: く, むつ
 vietnamese:
-  -  lúc, lục, lóc, trọc, lộc, lụt
+  - lúc
+  - lục
+  - lóc
+  - trọc
+  - lộc
+  - lụt
 middle_chinese_initial: l
 middle_chinese_final: ɨuk
 stroke_count: 4
