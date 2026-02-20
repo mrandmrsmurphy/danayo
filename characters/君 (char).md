@@ -20,7 +20,7 @@ pos: ""
 english:
   - you
 羅馬字: gun
-韓文:  군
+韓文: 군
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,6 +29,7 @@ mc_id: 26
 graphemic_classification: 尹
 stand_in: 君
 aliases:
+注音: ㄍㄨㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -23,7 +23,7 @@ pos: ""
 english:
   - what
 羅馬字: ha
-韓文:  하
+韓文: 하
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 中
@@ -34,6 +34,7 @@ stand_in: 何
 aliases:
 tags:
   - correlative
+注音: ㄏㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

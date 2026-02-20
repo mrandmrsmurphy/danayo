@@ -19,7 +19,7 @@ pos: ""
 english:
   - precipitous
 羅馬字: hem
-韓文:  험
+韓文: 험
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: ""
@@ -29,6 +29,7 @@ graphemic_classification: 㑒
 stand_in: 険
 aliases:
   - 險
+注音: ㄏㄝㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

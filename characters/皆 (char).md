@@ -20,7 +20,7 @@ pos: ""
 english:
   - every
 羅馬字: gye
-韓文:  겨
+韓文: 겨
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,6 +29,7 @@ mc_id: 68
 graphemic_classification: 會意
 stand_in: 皆
 aliases:
+注音: ㄍ˙ㄝ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

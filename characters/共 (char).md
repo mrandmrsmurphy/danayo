@@ -21,7 +21,7 @@ english:
   - with
   - together
 羅馬字: gyong
-韓文:  굥
+韓文: 굥
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -30,6 +30,7 @@ mc_id: 381
 graphemic_classification: 指事
 stand_in: 共
 aliases:
+注音: ㄍ˙ㄛㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -20,7 +20,7 @@ pos: ""
 english:
   - crane
 羅馬字: hag
-韓文:  학
+韓文: 학
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -30,6 +30,7 @@ graphemic_classification: 隺
 stand_in: 鶴
 aliases:
   - 鹤
+注音: ㄏㄚㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
