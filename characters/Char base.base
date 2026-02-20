@@ -2,7 +2,7 @@ filters:
   and:
     - file.inFolder("characters")
 formulas:
-  score: if(hsk_level=="1",303,0)+if(hsk_level=="2",248,0)+if(hsk_level=="3",201,0)+if(hsk_level=="4",111,0)+if(joyo_level=="1",299,0)+if(joyo_level=="2",277,0)+if(joyo_level=="3",254,0)+if(joyo_level=="4",223,0)+if(joyo_level=="5",206,0)+if(joyo_level=="6",179,0)+if(joyo_level=="高等",158,0)+if(joyo_level=="日本人名用漢字",99,0)+if(hanmun_edu_level=="中",401,0)+if(hanmun_edu_level=="高等",222,0)
+  score: if(hsk_level=="1",303,0)+if(hsk_level=="2",248,0)+if(hsk_level=="3",201,0)+if(hsk_level=="4",111,0)+if(joyo_level=="1",299,0)+if(joyo_level=="2",277,0)+if(joyo_level=="3",254,0)+if(joyo_level=="4",223,0)+if(joyo_level=="5",206,0)+if(joyo_level=="6",179,0)+if(joyo_level=="高等",158,0)+if(joyo_level=="日本人名用漢字",99,0)+if(hanmun_edu_level=="中",401,0)+if(hanmun_edu_level=="高等",222,0)+if(hanmun_edu_level=="名",27,0)
 views:
   - type: table
     name: Table
@@ -28,10 +28,12 @@ views:
       - danayo_id
       - formula.score
     sort:
-      - property: hanmun_edu_level
-        direction: DESC
       - property: danayo_id
         direction: ASC
+      - property: formula.score
+        direction: ASC
+      - property: hanmun_edu_level
+        direction: DESC
       - property: 羅馬字
         direction: ASC
       - property: 韓文
