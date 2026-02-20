@@ -23,6 +23,8 @@ views:
       - pos
       - grade_level
     sort:
+      - property: skip_number
+        direction: ASC
       - property: 韓文
         direction: ASC
       - property: pos
@@ -37,8 +39,6 @@ views:
         direction: ASC
       - property: stroke_count
         direction: ASC
-      - property: skip_number
-        direction: DESC
       - property: japanese
         direction: DESC
       - property: cantonese
@@ -67,7 +67,8 @@ views:
         direction: ASC
     columnSize:
       file.name: 31
-      note.韓文: 69
+      note.韓文: 63
+      note.注音: 64
       note.english: 125
       note.skip_number: 72
       note.mandarin: 71
