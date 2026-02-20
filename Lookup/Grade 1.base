@@ -33,6 +33,8 @@ views:
       - korean_native
       - mc_id
     sort:
+      - property: danayo_id
+        direction: ASC
       - property: stand_in
         direction: DESC
       - property: 羅馬字
@@ -44,8 +46,6 @@ views:
       - property: 注音
         direction: ASC
       - property: japanese
-        direction: ASC
-      - property: danayo_id
         direction: ASC
       - property: date-last-perfect
         direction: ASC
