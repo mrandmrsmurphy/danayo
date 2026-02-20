@@ -21,7 +21,7 @@ english:
   - mosquito
   - gnat
 羅馬字: mun
-韓文: "[[문]]"
+韓文: 문
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""

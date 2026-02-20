@@ -11,7 +11,7 @@ middle_chinese_final: ɑm
 stroke_count: 3
 radical: 一
 skip_number: 2-1-2
-grade_level: 1
+grade_level: "1"
 pos: 数詞
 english: three
 羅馬字: sam

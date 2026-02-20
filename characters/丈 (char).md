@@ -16,12 +16,12 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 3
 radical: 一
 skip_number: 4-3-4
-grade_level: 5
+grade_level: "5"
 pos:
 english:
   - only
 羅馬字: cang
-韓文:  창
+韓文: 창
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

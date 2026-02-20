@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 3102
 mc_id: 656
 graphemic_classification: 象形
-stand_in: "[[川]]"
+stand_in: 川
 aliases:
   - 巛
 ---
@@ -37,5 +37,5 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 Rivers are difficult to achieve consensus on.  Koreans use [[江]] as the default word, though many places have 川 in the name.  In Japan, everything is a 川.  But in China, [[河]] is common.  Vietnamese has a native word, but 江 is listed as the old spelling.  This character was chosen because it is so easy, while 江 takes the Japanese meaning of cove/inlet.  Swadesh 152

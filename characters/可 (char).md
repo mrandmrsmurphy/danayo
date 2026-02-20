@@ -21,7 +21,7 @@ pos: 修飾語
 english:
 - can
 羅馬字: ka
-韓文: '[[카]]'
+韓文: '카'
 joyo_level: '5'
 hsk_level: '2'
 hanmun_edu_level: 중

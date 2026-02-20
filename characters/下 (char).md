@@ -13,10 +13,10 @@ vietnamese:
   - xuống
 middle_chinese_initial: ɦ
 middle_chinese_final: ɣa
-stroke_count: "3"
+stroke_count: 3
 radical: 一
 skip_number: 4-3-1
-grade_level: 1
+grade_level: "1"
 pos: 名詞
 english:
   - down
