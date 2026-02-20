@@ -22,7 +22,7 @@ english:
   - seven
   - "7"
 羅馬字: cid
-韓文: "[[칟]]"
+韓文: 칟
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -42,7 +42,7 @@ aliases:
 ```
 ### Numberal
 - seven
--   For anti-forgery purposes, use [[漆]]
+-   For anti-forgery purposes, use [[漆 (char)]]
 ### Words
 * <ruby>[[七十]]<rt>칟십</rt></ruby> - seventy
 * <ruby>[[七百]]<rt>칟박</rt></ruby> - seven hundred

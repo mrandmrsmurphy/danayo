@@ -408,7 +408,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1432. [[執]] : tenacious
 1433. [[湿]] : 	濕	damp
 1434. [[嫉]] : envy
-1435. [[漆]] : lacquer
+1435. [[漆 (char)]] : lacquer
 1436. [[芝]] : turf
 1437. [[赦]] : pardon
 1438. [[斜]] : diagonal
