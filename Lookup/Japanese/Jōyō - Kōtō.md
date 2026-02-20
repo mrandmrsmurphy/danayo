@@ -68,7 +68,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1092. [[穏]] : 	穩	calm
 1093. [[佳]] : excellent
 1094. [[苛]] : torment
-1095. [[架]] : rack
+1095. [[架 (char)]] : rack
 1096. [[華]] : splendor
 1097. [[果|菓]] : confectionery
 1098. [[渦]] : whirlpool
