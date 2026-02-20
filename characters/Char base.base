@@ -22,7 +22,10 @@ views:
       - graphemic_classification
       - pos
       - grade_level
+      - danayo_id
     sort:
+      - property: danayo_id
+        direction: ASC
       - property: skip_number
         direction: ASC
       - property: 韓文
@@ -34,8 +37,6 @@ views:
       - property: 注音
         direction: ASC
       - property: date-last-perfect
-        direction: ASC
-      - property: danayo_id
         direction: ASC
       - property: stroke_count
         direction: ASC
