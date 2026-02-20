@@ -1,6 +1,8 @@
 filters:
   and:
     - file.inFolder("characters")
+formulas:
+  score: if(hsk_level==1,303,0)+if(hsk_level==2,248,0)+if(hsk_level==3,201,0)+if(hsk_level==4,111,0)+if(joyo_level==1,299,0)+if(joyo_level==2,277,0)+if(joyo_level==3,254,0)+if(joyo_level==4,223,0)+if(joyo_level==5,206,0)+if(joyo_level==6,179,0)+if(joyo_level==高等,158,0)
 views:
   - type: table
     name: Table
@@ -23,6 +25,7 @@ views:
       - pos
       - grade_level
       - danayo_id
+      - formula.score
     sort:
       - property: 羅馬字
         direction: ASC
