@@ -15,12 +15,13 @@ radical: 卜
 pos: 名詞
 english: trigram
 羅馬字: gwai
-韓文:  괘
+韓文: 괘
 hanmun_edu_level: 이름
 mc_id: 1567
 graphemic_classification: 圭
 stand_in: 卦
 grade_level: 先進
+注音: ㄍˇㄚ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]
