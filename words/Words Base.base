@@ -20,11 +20,11 @@ views:
       - korean
       - characters
     sort:
+      - property: 羅馬字
+        direction: DESC
       - property: 韓文
         direction: ASC
       - property: file.name
-        direction: ASC
-      - property: 羅馬字
         direction: ASC
       - property: pos
         direction: ASC
