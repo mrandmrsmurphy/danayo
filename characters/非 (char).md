@@ -20,7 +20,7 @@ pos: ""
 english:
   - ain't
 羅馬字: pi
-韓文:  피
+韓文: 피
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -29,6 +29,7 @@ mc_id: 75
 graphemic_classification: 象形
 stand_in: 非
 aliases:
+注音: ㄆㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

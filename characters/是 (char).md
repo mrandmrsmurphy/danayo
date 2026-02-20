@@ -22,7 +22,7 @@ pos: ""
 english:
   - is
 羅馬字: se
-韓文:  서
+韓文: 서
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 31
 graphemic_classification: 止
 stand_in: 是
 aliases:
+注音: ㄙㄝ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

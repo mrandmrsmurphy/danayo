@@ -22,7 +22,7 @@ pos: ""
 english:
   - eat
 羅馬字: sig
-韓文:  식
+韓文: 식
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 110
 graphemic_classification: 象形
 stand_in: 食
 aliases:
+注音: ㄙㄧㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

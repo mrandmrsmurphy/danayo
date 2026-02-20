@@ -19,7 +19,7 @@ pos: ""
 english:
   - giant salamander
 羅馬字: nub
-韓文:  눕
+韓文: 눕
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -29,6 +29,7 @@ graphemic_classification: 内
 stand_in: 魶
 aliases:
   - 𱇔
+注音: ㄋㄨㄆ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -22,7 +22,7 @@ pos: ""
 english:
   - become
 羅馬字: sing
-韓文:  싱
+韓文: 싱
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -32,6 +32,7 @@ graphemic_classification: 丁
 stand_in: 成
 aliases:
   - 鯎
+注音: ㄙㄧㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

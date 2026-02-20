@@ -19,7 +19,7 @@ pos: ""
 english:
   - boisterous
 羅馬字: sau
-韓文:  삿
+韓文: 삿
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -29,6 +29,7 @@ graphemic_classification: 蚤
 stand_in: 騒
 aliases:
   - 騷
+注音: ㄙㄚˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

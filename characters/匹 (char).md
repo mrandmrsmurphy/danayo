@@ -27,7 +27,7 @@ pos: ""
 english:
   - animals
 羅馬字: pid
-韓文:  핃
+韓文: 핃
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
@@ -37,6 +37,7 @@ graphemic_classification: 八
 stand_in: 匹
 aliases:
   - 疋
+注音: ㄆㄧㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

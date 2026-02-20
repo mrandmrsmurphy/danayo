@@ -21,7 +21,7 @@ english:
   - sweetfish
   - sheatfish
 羅馬字: nem
-韓文:  넘
+韓文: 넘
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -32,6 +32,7 @@ stand_in: 鮎
 aliases:
   - 𬵂
   - 鲇
+注音: ㄋㄝㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

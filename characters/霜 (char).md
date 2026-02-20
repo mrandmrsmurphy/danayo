@@ -20,7 +20,7 @@ pos: ""
 english:
   - frost
 羅馬字: swang
-韓文:  솽
+韓文: 솽
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,6 +29,7 @@ mc_id: 1497
 graphemic_classification: 相
 stand_in: 霜
 aliases:
+注音: ㄙˇㄚㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

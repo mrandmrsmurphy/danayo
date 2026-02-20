@@ -21,7 +21,7 @@ english:
   - deceive
   - defraid
 羅馬字: pyen
-韓文:  편
+韓文: 편
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -32,6 +32,7 @@ stand_in: 騙
 aliases:
   - 骗
   - 騗
+注音: ㄆ˙ㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

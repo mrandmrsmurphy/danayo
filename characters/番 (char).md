@@ -22,7 +22,7 @@ english:
   - time
   - occasion
 羅馬字: pan
-韓文:  판
+韓文: 판
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 中
@@ -32,6 +32,7 @@ graphemic_classification: 象形
 stand_in: 番
 aliases:
   - 鄱
+注音: ㄆㄚㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

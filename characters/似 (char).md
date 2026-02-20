@@ -23,7 +23,7 @@ english:
   - resembling
   - as if
 羅馬字: sa
-韓文:  사
+韓文: 사
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -32,6 +32,7 @@ mc_id: 1028
 graphemic_classification: 以
 stand_in: 似
 aliases:
+注音: ㄙㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

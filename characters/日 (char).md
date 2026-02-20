@@ -22,7 +22,7 @@ english:
   - day
   - sun
 羅馬字: nid
-韓文:  닏
+韓文: 닏
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 67
 graphemic_classification: 象形
 stand_in: 日
 aliases:
+注音: ㄋㄧㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
