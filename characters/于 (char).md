@@ -5,11 +5,11 @@ cantonese:
   - jyu1
 korean:
   - 우
-korean_native: ""
+korean_native: 어조사
 japanese:
   - U
   - KU
-japanese_nanori: ""
+japanese_nanori: ここに, ゆく
 vietnamese:
   - vu
   - vo
@@ -20,14 +20,14 @@ stroke_count: 3
 radical: 二
 skip_number: 4-3-1
 grade_level: "1"
-pos: ""
+pos: 格助詞
 english:
   - to
   - <dative>
 羅馬字: u
 韓文: 우
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 22
 mc_id: 70
@@ -37,6 +37,8 @@ aliases:
   - 亐
   - 於
 注音: ㄨ
+品詞: 格助詞
+date-last-perfect: 2026-02-20
 ---
 
 ```meta-bind-embed

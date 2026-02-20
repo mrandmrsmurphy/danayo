@@ -24,7 +24,7 @@ english:
 韓文: 이
 joyo_level: "4"
 hsk_level: "2"
-hanmun_edu_level: 중
+hanmun_edu_level: 中
 danayo_id: 2008
 mc_id: 4
 graphemic_classification: 象形

@@ -24,7 +24,7 @@ english:
 韓文: 션
 joyo_level: "6"
 hsk_level: "4"
-hanmun_edu_level: 중
+hanmun_edu_level: 中
 danayo_id: 4057
 mc_id: 132
 graphemic_classification: 會意

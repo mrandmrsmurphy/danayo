@@ -27,7 +27,7 @@ english:
 韓文: 짇
 joyo_level: 表外字
 hsk_level: 無
-hanmun_edu_level: 이름
+hanmun_edu_level: 名
 danayo_id: 7184
 mc_id: 0
 graphemic_classification: 窒

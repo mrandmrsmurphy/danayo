@@ -15,12 +15,12 @@ middle_chinese_final: iᴇu
 stroke_count: 3
 radical: 小
 skip_number: 1-1-2
-grade_level: 1
+grade_level: "1"
 pos: 性詞
 english:
   - small
-羅馬字: "so"
-韓文:  소
+羅馬字: so
+韓文: 소
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

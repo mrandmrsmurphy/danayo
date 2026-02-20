@@ -18,7 +18,7 @@ english: station
 韓文: 역
 joyo_level: "3"
 hsk_level: 無
-hanmun_edu_level: 고등
+hanmun_edu_level: 高等
 danayo_id: 5363
 mc_id:
 graphemic_classification: 尺

@@ -25,7 +25,7 @@ english:
 韓文: 후
 joyo_level: 高等
 hsk_level: "3"
-hanmun_edu_level: 이름
+hanmun_edu_level: 名
 danayo_id: 6203
 mc_id: 4850
 graphemic_classification: 胃

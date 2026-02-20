@@ -2,7 +2,7 @@ filters:
   and:
     - file.inFolder("characters")
 formulas:
-  score: if(hsk_level==1,303,0)+if(hsk_level==2,248,0)+if(hsk_level==3,201,0)+if(hsk_level==4,111,0)+if(joyo_level==1,299,0)+if(joyo_level==2,277,0)+if(joyo_level==3,254,0)+if(joyo_level==4,223,0)+if(joyo_level==5,206,0)+if(joyo_level==6,179,0)+if(joyo_level==高等,158,0)
+  score: if(hsk_level=="1",303,0)+if(hsk_level=="2",248,0)+if(hsk_level=="3",201,0)+if(hsk_level=="4",111,0)+if(joyo_level=="1",299,0)+if(joyo_level=="2",277,0)+if(joyo_level=="3",254,0)+if(joyo_level=="4",223,0)+if(joyo_level=="5",206,0)+if(joyo_level=="6",179,0)+if(joyo_level=="高等",158,0)+if(joyo_level=="日本人名用漢字",99,0)+if(hanmun_edu_level=="中",401,0)+if(hanmun_edu_level=="高等",222,0)
 views:
   - type: table
     name: Table
@@ -15,9 +15,10 @@ views:
       - skip_number
       - mandarin
       - cantonese
-      - hsk_level
       - japanese
+      - hsk_level
       - joyo_level
+      - hanmun_edu_level
       - korean
       - vietnamese
       - date-last-perfect
@@ -27,11 +28,13 @@ views:
       - danayo_id
       - formula.score
     sort:
+      - property: hanmun_edu_level
+        direction: DESC
+      - property: danayo_id
+        direction: ASC
       - property: 羅馬字
         direction: ASC
       - property: 韓文
-        direction: ASC
-      - property: danayo_id
         direction: ASC
       - property: skip_number
         direction: ASC
@@ -61,8 +64,6 @@ views:
         direction: DESC
       - property: hsk_level
         direction: ASC
-      - property: hanmun_edu_level
-        direction: ASC
       - property: korean
         direction: ASC
       - property: jyutping
@@ -77,13 +78,15 @@ views:
       note.skip_number: 72
       note.mandarin: 71
       note.cantonese: 65
-      note.hsk_level: 82
       note.japanese: 58
+      note.hsk_level: 50
       note.joyo_level: 73
+      note.hanmun_edu_level: 50
       note.korean: 58
       note.vietnamese: 91
       note.date-last-perfect: 64
       note.graphemic_classification: 60
       note.pos: 67
-      note.grade_level: 46
+      note.grade_level: 78
       note.danayo_id: 61
+      formula.score: 112

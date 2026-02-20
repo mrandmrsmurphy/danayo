@@ -15,15 +15,15 @@ vietnamese:
   - đại
 middle_chinese_initial: d
 middle_chinese_final: ɑi
-stroke_count: "3"
+stroke_count: 3
 radical: 大
 skip_number: 4-3-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - big
 羅馬字: dai
-韓文:  대
+韓文: 대
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
