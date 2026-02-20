@@ -22,7 +22,7 @@ pos: ""
 english:
   - snake
 羅馬字: ta
-韓文:  타
+韓文: 타
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -33,6 +33,7 @@ stand_in: 蛇
 aliases:
   - 它
   - 鮀
+注音: ㄊㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

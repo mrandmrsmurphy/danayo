@@ -23,7 +23,7 @@ english:
   - ray
   - skate
 羅馬字: him
-韓文:  힘
+韓文: 힘
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -36,6 +36,7 @@ aliases:
   - 鱘
   - 鱝
   - 鰩
+注音: ㄏㄧㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

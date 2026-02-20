@@ -25,7 +25,7 @@ pos: 事詞
 english:
   - enter
 羅馬字: nib
-韓文:  닙
+韓文: 닙
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中
@@ -34,6 +34,7 @@ mc_id: 96
 graphemic_classification: 象形
 stand_in: 入
 aliases:
+注音: ㄋㄧㄆ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

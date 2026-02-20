@@ -22,7 +22,7 @@ english:
   - nine
   - "9"
 羅馬字: kyu
-韓文:  큐
+韓文: 큐
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 125
 graphemic_classification: 象形
 stand_in: 九
 aliases:
+注音: ㄎ˙ㄨ
 ---
 > This is the character 九.  For the word 'nine', see [[九]]
 ```meta-bind-embed

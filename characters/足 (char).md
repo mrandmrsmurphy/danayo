@@ -22,7 +22,7 @@ pos: ""
 english:
   - foot
 羅馬字: jog
-韓文:  족
+韓文: 족
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ mc_id: 146
 graphemic_classification: 會意
 stand_in: 足
 aliases:
+注音: ㄐㄛㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

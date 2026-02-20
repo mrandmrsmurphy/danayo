@@ -35,6 +35,7 @@ graphemic_classification: 象形
 stand_in: 力
 aliases:
   - 𠠲
+注音: ㄌㄧㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

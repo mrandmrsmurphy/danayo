@@ -21,7 +21,7 @@ pos: 名詞
 english:
   - person
 羅馬字: nin
-韓文:  닌
+韓文: 닌
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -35,6 +35,7 @@ aliases:
   - ⺈
   - 儿
   - 𠂉
+注音: ㄋㄧㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -20,7 +20,7 @@ pos: ""
 english:
   - chapter
 羅馬字: jang
-韓文:  장
+韓文: 장
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -32,6 +32,7 @@ aliases:
   - 嶂
   - 鱆
   - 鮹
+注音: ㄐㄚㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

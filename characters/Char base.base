@@ -1,6 +1,7 @@
 filters:
   and:
     - file.inFolder("characters")
+    - 注音.isEmpty()
 views:
   - type: table
     name: Table
@@ -79,6 +80,7 @@ views:
       note.joyo_level: 73
       note.korean: 58
       note.vietnamese: 148
+      note.date-last-perfect: 64
       note.graphemic_classification: 60
       note.pos: 67
       note.grade_level: 46
