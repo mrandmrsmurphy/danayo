@@ -25,7 +25,7 @@ pos: ""
 english:
   - this
 羅馬字: gi
-韓文:  기
+韓文: 기
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中
@@ -35,6 +35,7 @@ graphemic_classification: 象形
 stand_in: 其
 aliases:
   - 丌
+注音: ㄍㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

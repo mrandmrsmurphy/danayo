@@ -21,7 +21,7 @@ pos: ""
 english:
   - step
 羅馬字: dwan
-韓文:  돤
+韓文: 돤
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -30,6 +30,7 @@ mc_id: 1790
 graphemic_classification: 耑
 stand_in: 段
 aliases:
+注音: ㄉˇㄚㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

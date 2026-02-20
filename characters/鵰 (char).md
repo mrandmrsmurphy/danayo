@@ -21,7 +21,7 @@ english:
   - eagle
   - vulture
 羅馬字: cuu
-韓文:  춧
+韓文: 춧
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 無
@@ -31,6 +31,7 @@ graphemic_classification: 鳥
 stand_in: 鵰
 aliases:
   - 𫛲
+注音: ㄑㄨˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

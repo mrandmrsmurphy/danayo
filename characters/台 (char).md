@@ -37,6 +37,7 @@ aliases:
   - 檯
   - 臺
   - 颱
+注音: ㄉㄚ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]
