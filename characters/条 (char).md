@@ -19,7 +19,7 @@ pos: ""
 english:
   - LONG-THIN
 羅馬字: jo
-韓文: "[[조]]"
+韓文: 조
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: ""
@@ -29,6 +29,7 @@ graphemic_classification: 會意
 stand_in: 条
 aliases:
   - 條
+注音: ㄐㄛ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
