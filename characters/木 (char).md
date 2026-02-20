@@ -27,7 +27,7 @@ english:
   - tree
   - bush
 羅馬字: mog
-韓文: "[[목]]"
+韓文:  목
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: 中

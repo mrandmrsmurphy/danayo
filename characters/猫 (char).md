@@ -24,7 +24,7 @@ pos: 名詞
 english:
   - cat
 羅馬字: myau
-韓文: "[[먓]]"
+韓文:  먓
 joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 이름

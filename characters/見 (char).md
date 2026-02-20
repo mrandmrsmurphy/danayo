@@ -21,7 +21,7 @@ pos: ""
 english:
   - see
 羅馬字: gyen
-韓文: "[[견]]"
+韓文:  견
 joyo_level: ""
 hsk_level: "1"
 hanmun_edu_level: 中

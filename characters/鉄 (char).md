@@ -20,7 +20,7 @@ pos: ""
 english:
   - iron
 羅馬字: ted
-韓文: "[[턷]]"
+韓文:  턷
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: ""

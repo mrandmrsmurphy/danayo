@@ -20,7 +20,7 @@ pos: ""
 english:
   - exist
 羅馬字: jai
-韓文: "[[재]]"
+韓文:  재
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中

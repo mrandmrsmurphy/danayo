@@ -19,7 +19,7 @@ pos: ""
 english:
   - boisterous
 羅馬字: sau
-韓文: "[[삿]]"
+韓文:  삿
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""

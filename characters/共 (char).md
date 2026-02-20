@@ -21,7 +21,7 @@ english:
   - with
   - together
 羅馬字: gyong
-韓文: "[[굥]]"
+韓文:  굥
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

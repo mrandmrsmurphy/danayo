@@ -24,11 +24,11 @@ views:
       - grade_level
       - danayo_id
     sort:
+      - property: 韓文
+        direction: ASC
       - property: danayo_id
         direction: ASC
       - property: skip_number
-        direction: ASC
-      - property: 韓文
         direction: ASC
       - property: pos
         direction: DESC

@@ -22,7 +22,7 @@ pos: 性詞
 english:
   - yellow
 羅馬字: hwang
-韓文: "[[황]]"
+韓文:  황
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

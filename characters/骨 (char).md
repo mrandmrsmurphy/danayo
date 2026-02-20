@@ -21,7 +21,7 @@ english:
   - bone
   - skeleton
 羅馬字: god
-韓文: "[[곧]]"
+韓文:  곧
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中

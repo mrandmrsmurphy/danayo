@@ -23,7 +23,7 @@ english:
   - gather
   - collect
 羅馬字: lyem
-韓文: "[[렴]]"
+韓文:  렴
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

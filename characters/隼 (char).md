@@ -21,7 +21,7 @@ pos: ""
 english:
   - peregrine falcon
 羅馬字: syung
-韓文: "[[슝]]"
+韓文:  슝
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""

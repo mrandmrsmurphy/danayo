@@ -22,7 +22,7 @@ pos: ""
 english:
   - earth
 羅馬字: to
-韓文: "[[토]]"
+韓文:  토
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: 中

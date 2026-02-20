@@ -21,7 +21,7 @@ pos:
 english:
   - only
 羅馬字: cang
-韓文: "[[창]]"
+韓文:  창
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

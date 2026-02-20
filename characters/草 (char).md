@@ -20,7 +20,7 @@ pos: ""
 english:
   - grass
 羅馬字: cau
-韓文: "[[찻]]"
+韓文:  찻
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: 中

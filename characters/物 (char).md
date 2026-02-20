@@ -22,7 +22,7 @@ english:
   - thing
   - result
 羅馬字: mud
-韓文: "[[묻]]"
+韓文:  묻
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

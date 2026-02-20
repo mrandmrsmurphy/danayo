@@ -23,7 +23,7 @@ pos: ""
 english:
   - big
 羅馬字: dai
-韓文: "[[대]]"
+韓文:  대
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

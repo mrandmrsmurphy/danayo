@@ -22,7 +22,7 @@ english:
   - day
   - sun
 羅馬字: nid
-韓文: "[[닏]]"
+韓文:  닏
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

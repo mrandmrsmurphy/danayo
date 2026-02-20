@@ -21,7 +21,7 @@ pos: ""
 english:
   - thunder
 羅馬字: loi
-韓文: "[[뢰]]"
+韓文:  뢰
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

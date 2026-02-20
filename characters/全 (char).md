@@ -21,7 +21,7 @@ pos: ""
 english:
   - whole
 羅馬字: jwen
-韓文: "[[줜]]"
+韓文:  줜
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

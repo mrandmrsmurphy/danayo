@@ -20,7 +20,7 @@ pos: ""
 english:
   - cloud
 羅馬字: un
-韓文: "[[운]]"
+韓文:  운
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中

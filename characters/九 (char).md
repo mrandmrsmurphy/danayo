@@ -22,7 +22,7 @@ english:
   - nine
   - "9"
 羅馬字: kyu
-韓文: "[[큐]]"
+韓文:  큐
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

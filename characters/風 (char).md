@@ -21,7 +21,7 @@ pos: ""
 english:
   - wind
 羅馬字: pung
-韓文: "[[풍]]"
+韓文:  풍
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

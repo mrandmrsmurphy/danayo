@@ -21,7 +21,7 @@ pos: ""
 english:
   - run
 羅馬字: sou
-韓文: "[[솟]]"
+韓文:  솟
 joyo_level: ""
 hsk_level: "1"
 hanmun_edu_level: 中

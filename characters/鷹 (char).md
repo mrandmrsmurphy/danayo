@@ -21,7 +21,7 @@ pos: ""
 english:
   - hawk
 羅馬字: ing
-韓文: "[[잉]]"
+韓文:  잉
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""

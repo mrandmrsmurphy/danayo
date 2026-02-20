@@ -24,7 +24,7 @@ english:
   - meet
   - gather
 羅馬字: hwe
-韓文: "[[훠]]"
+韓文:  훠
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: ""

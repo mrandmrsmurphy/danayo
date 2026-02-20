@@ -25,7 +25,7 @@ pos: ""
 english:
   - this
 羅馬字: gi
-韓文: "[[기]]"
+韓文:  기
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中

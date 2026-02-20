@@ -23,7 +23,7 @@ pos: ""
 english:
   - way
 羅馬字: dau
-韓文: "[[닷]]"
+韓文:  닷
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

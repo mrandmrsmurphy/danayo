@@ -19,7 +19,7 @@ pos: ""
 english:
   - black
 羅馬字: hug
-韓文: "[[훅]]"
+韓文:  훅
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: 中

@@ -15,7 +15,7 @@ grade_level: "5"
 pos: 名詞
 english: station
 羅馬字: "'yeg"
-韓文: "[[역]]"
+韓文:  역
 joyo_level: "3"
 hsk_level: 無
 hanmun_edu_level: 고등

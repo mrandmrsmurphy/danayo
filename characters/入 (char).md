@@ -25,7 +25,7 @@ pos: 事詞
 english:
   - enter
 羅馬字: nib
-韓文: "[[닙]]"
+韓文:  닙
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

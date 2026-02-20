@@ -23,7 +23,7 @@ english:
   - dragon
   - reptile
 羅馬字: lyong
-韓文: "[[룡]]"
+韓文:  룡
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

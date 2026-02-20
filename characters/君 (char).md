@@ -20,7 +20,7 @@ pos: ""
 english:
   - you
 羅馬字: gun
-韓文: "[[군]]"
+韓文:  군
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

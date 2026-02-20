@@ -20,7 +20,7 @@ pos: ""
 english:
   - village
 羅馬字: li
-韓文: "[[리]]"
+韓文:  리
 joyo_level: ""
 hsk_level: "1"
 hanmun_edu_level: 中

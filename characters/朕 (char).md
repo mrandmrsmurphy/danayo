@@ -22,7 +22,7 @@ english:
   - we (royal)
   - I (royalty)
 羅馬字: jum
-韓文: "[[줌]]"
+韓文:  줌
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

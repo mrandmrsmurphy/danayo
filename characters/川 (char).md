@@ -22,7 +22,7 @@ pos: 名詞
 english:
   - river
 羅馬字: cen
-韓文: "[[천]]"
+韓文:  천
 joyo_level: "1"
 hsk_level: "4"
 hanmun_edu_level: 中

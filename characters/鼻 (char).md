@@ -21,7 +21,7 @@ pos: ""
 english:
   - nose
 羅馬字: bi
-韓文: "[[비]]"
+韓文:  비
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

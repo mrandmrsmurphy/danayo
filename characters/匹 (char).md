@@ -27,7 +27,7 @@ pos: ""
 english:
   - animals
 羅馬字: pid
-韓文: "[[핃]]"
+韓文:  핃
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

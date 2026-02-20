@@ -21,7 +21,7 @@ pos: ""
 english:
   - blue
 羅馬字: ceng
-韓文: "[[청]]"
+韓文:  청
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: ""

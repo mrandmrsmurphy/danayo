@@ -21,7 +21,7 @@ english:
   - cry
   - chirp
 羅馬字: myeng
-韓文: "[[명]]"
+韓文:  명
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中

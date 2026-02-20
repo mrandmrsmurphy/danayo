@@ -20,7 +20,7 @@ pos: ""
 english:
   - chapter
 羅馬字: jang
-韓文: "[[장]]"
+韓文:  장
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

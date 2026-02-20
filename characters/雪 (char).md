@@ -20,7 +20,7 @@ pos: ""
 english:
   - snow
 羅馬字: swed
-韓文: "[[숻]]"
+韓文:  숻
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中

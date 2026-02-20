@@ -21,7 +21,7 @@ pos: ""
 english:
   - not yet
 羅馬字: mui
-韓文: "[[뮈]]"
+韓文:  뮈
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

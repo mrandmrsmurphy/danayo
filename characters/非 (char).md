@@ -20,7 +20,7 @@ pos: ""
 english:
   - ain't
 羅馬字: pi
-韓文: "[[피]]"
+韓文:  피
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
