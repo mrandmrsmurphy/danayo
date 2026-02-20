@@ -19,7 +19,7 @@ pos: ""
 english:
   - namely
 羅馬字: wen
-韓文:  원
+韓文: 원
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -30,6 +30,7 @@ stand_in: 為
 aliases:
   - 爲
   - 为
+注音: ˇㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

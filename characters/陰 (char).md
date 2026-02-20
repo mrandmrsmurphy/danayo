@@ -22,7 +22,7 @@ pos: ""
 english:
   - Yin
 羅馬字: im
-韓文:  임
+韓文: 임
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 中
@@ -34,6 +34,7 @@ aliases:
   - 阴
   - 蔭
   - 荫
+注音: ㄧㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

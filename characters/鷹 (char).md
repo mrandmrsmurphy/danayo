@@ -21,7 +21,7 @@ pos: ""
 english:
   - hawk
 羅馬字: ing
-韓文:  잉
+韓文: 잉
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -31,6 +31,7 @@ graphemic_classification: 䧹
 stand_in: 鷹
 aliases:
   - 鹰
+注音: ㄧㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

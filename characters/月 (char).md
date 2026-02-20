@@ -34,7 +34,7 @@ stand_in: 月
 aliases:
   - 𡇹, 𠥱
 swadesh: "148"
-注音: ˇㄝㄋ
+注音: ˇㄝㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

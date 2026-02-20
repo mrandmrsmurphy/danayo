@@ -23,7 +23,7 @@ english:
   - from
   - since
 羅馬字: yuu
-韓文:  윳
+韓文: 윳
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -32,6 +32,7 @@ mc_id: 377
 graphemic_classification: 象形
 stand_in: 由
 aliases:
+注音: ˙ㄨˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

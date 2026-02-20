@@ -22,7 +22,7 @@ english:
   - silver
   - money
 羅馬字: in
-韓文:  인
+韓文: 인
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -32,6 +32,7 @@ graphemic_classification: 艮
 stand_in: 銀
 aliases:
   - 银
+注音: ㄧㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

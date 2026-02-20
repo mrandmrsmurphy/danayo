@@ -16,12 +16,12 @@ stroke_count: 5
 radical: 人
 skip_number: 1-2-3
 grade_level: "2"
-pos: 
+pos:
 english:
   - by
   - using
 羅馬字: i
-韓文:  이
+韓文: 이
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 중
@@ -31,6 +31,7 @@ graphemic_classification: 象形
 stand_in: 以
 aliases:
   - 㠯
+注音: ㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
