@@ -21,7 +21,7 @@ views:
       - characters
     sort:
       - property: 羅馬字
-        direction: DESC
+        direction: ASC
       - property: 韓文
         direction: ASC
       - property: file.name
