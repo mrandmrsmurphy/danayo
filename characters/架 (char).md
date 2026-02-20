@@ -37,6 +37,7 @@ stand_in: 架
 aliases:
   - 榢
 注音: ㄍㄚ
+date-last-perfect: 2026-02-20
 ---
 ```meta-bind-embed
 [[nav/char_info]]
