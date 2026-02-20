@@ -39,6 +39,6 @@ date-last-perfect: 2026-02-11
 ```
 
 # Notes
-**and**, connecting nouns and the like, unlike [[而]]
+**and**, connecting nouns and the like, unlike [[而 (char)]]
 - [[Grade 1.base]], [[Korean MS]], [[Jōyō - Kōtō]], HSK 2
 - [[Radical 001]], [[SKIP-4-3-4]], [[Stroke 03]], [[˙ㄛ]]

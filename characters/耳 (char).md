@@ -11,12 +11,13 @@ japanese:
   - JOU
 japanese_nanori: ""
 vietnamese:
+  - nhĩ
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨ
-stroke_count: "6"
+stroke_count: 6
 radical: 耳
 skip_number: 4-6-1
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - ear
@@ -28,12 +29,11 @@ hanmun_edu_level: 中
 danayo_id: 93
 mc_id: 317
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 耳
 aliases:
 注音: ㄋㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

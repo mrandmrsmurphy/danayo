@@ -79,7 +79,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1103. [[寡]] : widow
 1104. [[個 (char)|箇]] : counters for things
 1105. [[稼]] : earnings
-1106. [[蚊]] : mosquito
+1106. [[蚊 (char)]] : mosquito
 1107. [[牙]] :  tusk
 1108. [[瓦]] : tile
 1109. [[雅]] : gracious

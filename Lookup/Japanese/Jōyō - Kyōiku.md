@@ -45,7 +45,7 @@ The following prefecture names were added in 2017
 40. [[男]] : dan (otoko)    
 41. [[子]] : shi (ko)    
 42. [[目]] : moku (me)    
-43. [[耳]] : ji (mimi)    
+43. [[耳 (char)]] : ji (mimi)    
 44. [[口]] : kō (kuchi)    
 45. [[手]] : shu (te)    
 46. [[足 (char)]] : soku (ashi)    
