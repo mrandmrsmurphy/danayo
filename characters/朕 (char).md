@@ -22,7 +22,7 @@ english:
   - we (royal)
   - I (royalty)
 羅馬字: jum
-韓文:  줌
+韓文: 줌
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -31,6 +31,7 @@ mc_id: 815
 graphemic_classification: 會意
 stand_in: 朕
 aliases:
+注音: ㄐㄨㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -21,7 +21,7 @@ pos: ""
 english:
   - whole
 羅馬字: jwen
-韓文:  줜
+韓文: 줜
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ graphemic_classification: 會意
 stand_in: 全
 aliases:
   - 㒰
+注音: ㄐˇㄝㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

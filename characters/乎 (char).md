@@ -23,7 +23,7 @@ english:
   - did
   - do
 羅馬字: ho
-韓文:  호
+韓文: 호
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中
@@ -34,6 +34,7 @@ stand_in: 乎
 aliases:
   - 𠂞
   - 𠂠
+注音: ㄏㄛ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -21,7 +21,7 @@ pos: ""
 english:
   - brother#older
 羅馬字: hyong
-韓文:  횽
+韓文: 횽
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -30,6 +30,7 @@ mc_id: 461
 graphemic_classification: 會意
 stand_in: 兄
 aliases:
+注音: ㄏ˙ㄛㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

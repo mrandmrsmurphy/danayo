@@ -21,7 +21,7 @@ pos: ""
 english:
   - soul
 羅馬字: hon
-韓文:  혼
+韓文: 혼
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -30,6 +30,7 @@ mc_id: 1505
 graphemic_classification: 云
 stand_in: 魂
 aliases:
+注音: ㄏㄛㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
