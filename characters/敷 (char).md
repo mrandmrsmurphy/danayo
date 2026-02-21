@@ -15,7 +15,7 @@ middle_chinese_final: ɨo
 stroke_count: 15
 radical: 攴
 skip_number: 1-11-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - spread
@@ -35,4 +35,8 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+## Words 
+- [[敷]]
+- [[座敷]] - Japanese parlor
+- [[敷布]] - announce
