@@ -773,7 +773,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1796. [[踏]] : step
 1797. [[謄]] : mimeograph
 1798. [[藤]] : wisteria
-1799. [[闘]] : 	[[鬭]]	fight -------------------------
+1799. [[闘]] : 	[[闘|鬭]]	fight 
 1800. [[騰]] : inflation
 1801. [[洞]] : den
 1802. [[胴]] : trunk
@@ -953,7 +953,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1976. [[紡]] : spinning
 1977. [[傍]] : bystander
 1978. [[帽]] : cap
-1979. [[貌]] : appearance
+1979. [[貌]] : appearance 
 1980. [[膨]] : swell
 1981. [[謀]] : conspire
 1982. [[頬|頰]] : 	cheek
