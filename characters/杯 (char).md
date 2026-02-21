@@ -30,6 +30,7 @@ mc_id: 2827
 graphemic_classification: 不
 stand_in: 杯
 aliases:
+  - 盃
 注音: ㄅㄛ˙
 ---
 ```meta-bind-embed

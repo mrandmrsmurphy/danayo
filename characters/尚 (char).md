@@ -14,7 +14,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 8
 radical: 小
 skip_number: 2-3-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - still
@@ -29,6 +29,7 @@ mc_id: 313
 graphemic_classification: 向
 stand_in: 尚
 aliases:
+  - 尙
 注音: ㄙ˙ㄚㄥ
 ---
 ```meta-bind-embed
