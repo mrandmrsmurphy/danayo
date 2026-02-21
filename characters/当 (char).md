@@ -11,22 +11,22 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ɑŋ
-stroke_count: "6"
+stroke_count: 6
 radical: 小
 skip_number: 2-3-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - while
 羅馬字: dang
-韓文:  당
+韓文: 당
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 96
 mc_id: 152
 graphemic_classification: 尚
-stand_in: "TRUE"
+stand_in: 当
 aliases:
   - 當
   - 噹

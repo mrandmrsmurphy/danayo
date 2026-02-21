@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡s
 middle_chinese_final: ʌi
-stroke_count: "9"
+stroke_count: 9
 radical: 口
 skip_number: 3-6-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - O
@@ -27,7 +27,7 @@ hanmun_edu_level: 中
 danayo_id: 174
 mc_id: 272
 graphemic_classification: 才
-stand_in: "TRUE"
+stand_in: 哉
 aliases:
 注音: ㄐㄚ˙
 ---

@@ -13,10 +13,10 @@ vietnamese:
   - chỉ, giấy
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: iᴇ
-stroke_count: "10"
+stroke_count: 10
 radical: 糸
 skip_number: 1-6-4
-grade_level: 1
+grade_level: "1"
 pos: 名詞
 english:
   - paper
@@ -28,7 +28,7 @@ hanmun_edu_level: 中
 danayo_id: 190
 mc_id: 4708
 graphemic_classification: 氏
-stand_in: "TRUE"
+stand_in: 紙
 aliases:
   - 纸
   - 帋

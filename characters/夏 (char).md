@@ -13,22 +13,22 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣa
-stroke_count: "10"
+stroke_count: 10
 radical: 夊
 skip_number: 2-2-8
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - summer
 羅馬字: hya
-韓文:  햐
+韓文: 햐
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 185
 mc_id: 209
 graphemic_classification: 會意
-stand_in: "TRUE"
+stand_in: 夏
 aliases:
 注音: ㄏ˙ㄚ
 ---

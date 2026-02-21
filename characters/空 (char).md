@@ -31,7 +31,7 @@ hanmun_edu_level: 中
 danayo_id: 144
 mc_id: 632
 graphemic_classification: 工
-stand_in: "TRUE"
+stand_in: 空
 aliases:
   - 𠀝
   - 𢦉

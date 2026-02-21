@@ -12,22 +12,22 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ø
 middle_chinese_final: ʉɐŋ
-stroke_count: "4"
+stroke_count: 4
 radical: 玉
 skip_number: 4-4-1
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - king
 羅馬字: wang
-韓文:  왕
+韓文: 왕
 joyo_level: "1"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 46
 mc_id: 14
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 王
 aliases:
 注音: ˇㄚㄥ
 ---

@@ -43,7 +43,7 @@ aliases:
 
 ## Graphemic Descendants 
 - 打
-- [[正]]
+- [[正 (char)]]
 - [[成 (char)]]
 - 頂
 - 庁

@@ -14,10 +14,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: ei
-stroke_count: "6"
+stroke_count: 6
 radical: 米
 skip_number: 4-6-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - rice (uncooked)
@@ -29,7 +29,7 @@ hanmun_edu_level: 中
 danayo_id: 92
 mc_id: 1319
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 米
 aliases:
 注音: ㄇㄝ˙
 ---

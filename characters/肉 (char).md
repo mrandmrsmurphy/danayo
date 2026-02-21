@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨuk
-stroke_count: "6"
+stroke_count: 6
 radical: 肉
 skip_number: 3-4-2
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - meat
@@ -28,7 +28,7 @@ hanmun_edu_level: 中
 danayo_id: 83
 mc_id: 589
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 肉
 aliases:
 注音: ㄋㄨㄎ
 ---

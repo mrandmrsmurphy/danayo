@@ -14,23 +14,23 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: ɨɐŋ
-stroke_count: "6"
+stroke_count: 6
 radical: 口
 skip_number: 3-3-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - toward
   - -ward
 羅馬字: hyang
-韓文:  향
+韓文: 향
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 101
 mc_id: 792
 graphemic_classification: 郷
-stand_in: "TRUE"
+stand_in: 向
 aliases:
   - 曏
   - 嚮

@@ -16,7 +16,7 @@ middle_chinese_final: ʌp
 stroke_count: 8
 radical: 手
 skip_number: 1-3-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - drag
@@ -30,7 +30,7 @@ hanmun_edu_level: ""
 danayo_id: 6324
 mc_id: 4449
 graphemic_classification: 立
-stand_in: "TRUE"
+stand_in: 拉
 aliases:
 注音: ㄌㄚㄆ
 ---

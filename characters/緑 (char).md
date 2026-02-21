@@ -27,7 +27,7 @@ hanmun_edu_level: ""
 danayo_id: 245
 mc_id: 2419
 graphemic_classification: 彔
-stand_in: "TRUE"
+stand_in: 緑
 aliases:
   - 綠
   - 绿

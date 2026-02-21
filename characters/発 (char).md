@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ʉɐt
-stroke_count: "9"
+stroke_count: 9
 radical: 癶
 skip_number: 2-5-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - issue forth
@@ -29,7 +29,7 @@ hanmun_edu_level: ""
 danayo_id: 162
 mc_id: 226
 graphemic_classification: 癶
-stand_in: "TRUE"
+stand_in: 発
 aliases:
   - 发
   - 發
