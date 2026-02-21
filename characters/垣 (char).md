@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: 0
 middle_chinese_final: ʉɐn
-stroke_count: "9"
+stroke_count: 9
 radical: 土
 skip_number: 1-3-6
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - low wall
@@ -28,7 +28,7 @@ hanmun_edu_level: ""
 danayo_id: 6034
 mc_id: 1577
 graphemic_classification: 亘
-stand_in: "TRUE"
+stand_in: 垣
 aliases:
 注音: ㄛㄋ
 ---

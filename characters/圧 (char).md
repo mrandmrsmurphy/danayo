@@ -11,10 +11,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣap
-stroke_count: "5"
+stroke_count: 5
 radical: 土
 skip_number: 3-2-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - press
@@ -27,7 +27,7 @@ hanmun_edu_level: ""
 danayo_id: 4063
 mc_id: 3189
 graphemic_classification: 厭
-stand_in: "TRUE"
+stand_in: 圧
 aliases:
   - 壓
 注音: ㄚㄊ

@@ -14,7 +14,7 @@ middle_chinese_final: ɣiuᴇn
 stroke_count: 12
 radical: 囗
 skip_number: 3-3-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - encircled area
@@ -26,7 +26,7 @@ hanmun_edu_level: ""
 danayo_id: 6274
 mc_id: 3578
 graphemic_classification: 巻
-stand_in: "TRUE"
+stand_in: 圏
 aliases:
   - 圈
 注音: ㄍˇㄝㄋ
