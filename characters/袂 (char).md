@@ -24,7 +24,7 @@ english:
 韓文: 머
 joyo_level: 表外字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 7307
 mc_id: 3066
 graphemic_classification: 夬
@@ -37,3 +37,4 @@ aliases:
 ```
 
 # Notes
+- Korean Name ㅋ, 
