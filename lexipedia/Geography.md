@@ -18,7 +18,7 @@ The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>, <ruby>大河<
 Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby>, and defense ([[軍事]][[防守]]).
 
 ### Political Development
-Historically, imperial rule ([[帝国]][[制度]]) was dominant.  
+Historically, imperial rule (<ruby>帝国<rt>ㄊㄝ˙ㄍㄛㄎ</rt></ruby>[[制度]]) was dominant.  
 <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝ˙</rt></ruby> governed extensive territory ([[広土]]).  
 <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>天皇<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
 
@@ -46,7 +46,7 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
 - <ruby>[[印度尼西亜]]<rt>ㄧㄋㄉㄛㄋㄧ˙ㄙㄝ˙·ㄚ</rt></ruby>  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
-These states developed along maritime trade routes (海上商路) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
+These states developed along maritime trade routes ([[海上]][[商路]]) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
 
 ## 南亜
 [[南亜]] centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
@@ -62,18 +62,18 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) 
 - Sri Lanka (斯里蘭卡)  
 - Nepal (尼泊爾)  
 - Bhutan (不丹)
-The Himalayan region (喜馬拉雅山地) forms a natural boundary (自然界線).
+The Himalayan region (喜馬拉雅[[山地]]) forms a natural boundary ([[自然]][[界線]]).
 
 ## West and Central Asia
-West Asia ([[西亜]]) includes desert zones (沙漠地帯) and strategic trade routes (商路要地).  
-Central Asia ([[中亜]]) contains steppe regions (草原地帯) historically associated with nomadic peoples (遊牧民族).
+West Asia ([[西亜]]) includes desert zones ([[沙漠]][[地帯]]) and strategic trade routes ([[商路]][[要地]]).  
+Central Asia ([[中亜]]) contains steppe regions ([[草原]][[地帯]]) historically associated with nomadic peoples ([[遊牧]][[民族]]).
 
 Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
 
 ### 西亜
-- Iran (伊朗)  
+- Iran (伊朗) , formerly Persia [[波斯]]
 - Iraq (伊拉克)  
-- Turkey (土耳其)  
+- Turkey (土耳其)  formerly [[奥斯曼]]
 - Syria (叙利亜)  
 - Israel (以色列)  
 - Saudi Arabia (沙烏地阿拉伯)  
