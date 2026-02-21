@@ -1,0 +1,40 @@
+---
+mandarin:
+  - hǔ
+cantonese:
+  - fu2
+korean:
+  - 호
+korean_native: ""
+japanese:
+  - KO
+japanese_nanori: ""
+vietnamese:
+  - hổ
+middle_chinese_initial: h
+middle_chinese_final: uo
+stroke_count: 8
+radical: 虍
+skip_number: 3-4-4
+grade_level: "3"
+pos: ""
+english:
+  - tiger
+羅馬字: ho
+韓文: 호
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3234
+mc_id: 577
+graphemic_classification: 會意
+stand_in: 虎
+aliases:
+  - 乕
+注音: ㄏㄛ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,42 @@
+---
+mandarin:
+  - pín
+cantonese:
+  - pan4
+korean:
+  - 빈
+korean_native: ""
+japanese:
+  - HIN
+  - BIN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: b
+middle_chinese_final: iɪn
+stroke_count: 17
+radical: 頁
+skip_number: 1-9-8
+grade_level: "6"
+pos: ""
+english:
+  - frequent
+  - again and again
+羅馬字: pim
+韓文: 핌
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6390
+mc_id: 3070
+graphemic_classification: 會意
+stand_in: 頻
+aliases:
+  - 频
+注音: ㄆㄧㄇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+needed pim

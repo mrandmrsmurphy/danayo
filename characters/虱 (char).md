@@ -1,0 +1,38 @@
+---
+mandarin:
+  - shī
+cantonese:
+  - sat1
+korean:
+  - 슬
+korean_native: ""
+japanese:
+  - SHITSU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: s
+middle_chinese_final: ɪt
+stroke_count: 8
+radical: 虫
+skip_number: 3-1-7
+grade_level: 名
+pos: ""
+english:
+  - louse (lice)
+羅馬字: sod
+韓文: 솓
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 無
+danayo_id: 8063
+mc_id: 4234
+graphemic_classification: 卂
+stand_in: 虱
+aliases:
+注音: ㄙㄛㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,36 +1,37 @@
 ---
 mandarin:
-  - fèng
+  - yǐ
 cantonese:
-  - fung6
+  - ji2
 korean:
-  - 봉
+  - 의
 korean_native: ""
 japanese:
-  - HOU
+  - I
+  - KI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
-middle_chinese_final: uŋ
+middle_chinese_initial: ʔ
+middle_chinese_final: ɣiᴇ
 stroke_count: 10
 radical: 人
 skip_number: 1-2-8
 grade_level: 先進
 pos: ""
 english:
-  - salary
-  - wages
-羅馬字: bong
-韓文: 봉
-joyo_level: 高等
+  - rely on
+  - depend upon
+羅馬字: wi
+韓文: 위
+joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
-danayo_id: 7105
-mc_id: 4287
-graphemic_classification: 奉
-stand_in: 俸給
+danayo_id: 7023
+mc_id: 1526
+graphemic_classification: 奇
+stand_in: 倚
 aliases:
-注音: ㄅㄛㄥ
+注音: ㄨ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]

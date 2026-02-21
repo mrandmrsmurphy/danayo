@@ -1,0 +1,41 @@
+---
+mandarin:
+  - bǐng
+cantonese:
+  - beng2
+korean:
+korean_native: ""
+japanese:
+  - HEI
+  - HYOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: p
+middle_chinese_final: iᴇŋ
+stroke_count: 17
+radical: 食
+skip_number: 1-9-8
+grade_level: "6"
+pos: ""
+english:
+  - pastry
+  - cake
+  - mochi
+羅馬字: bing
+韓文: 빙
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 無
+danayo_id: 6155
+mc_id: 3919
+graphemic_classification: 并
+stand_in: 餅
+aliases:
+  - 饼
+注音: ㄅㄧㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

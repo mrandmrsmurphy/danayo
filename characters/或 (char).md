@@ -1,0 +1,40 @@
+---
+mandarin:
+  - huò
+cantonese:
+  - waak6
+korean:
+  - 혹
+korean_native: ""
+japanese:
+  - WAKU
+  - IKI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɣ
+middle_chinese_final: wək
+stroke_count: 8
+radical: 戈
+skip_number: 3-4-4
+grade_level: "4"
+pos: ""
+english:
+  - or
+  - perhaps
+羅馬字: hog
+韓文: 혹
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 4113
+mc_id: 213
+graphemic_classification: 會意
+stand_in: 或
+aliases:
+注音: ㄏㄛㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

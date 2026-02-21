@@ -1,0 +1,39 @@
+---
+mandarin:
+  - yí
+cantonese:
+  - ji4
+korean:
+  - 이
+korean_native: ""
+japanese:
+  - I
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: j
+middle_chinese_final: ɨ
+stroke_count: 16
+radical: 頁
+skip_number: 1-9-7
+grade_level: 名
+pos: ""
+english:
+  - chin
+羅馬字: i
+韓文: 이
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 8279
+mc_id: 2089
+graphemic_classification: 會意
+stand_in: 頤
+aliases:
+  - 颐
+注音: ㄧ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

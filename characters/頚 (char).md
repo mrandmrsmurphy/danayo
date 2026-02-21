@@ -1,35 +1,35 @@
 ---
 mandarin:
-  - jiá
+  - jǐng
 cantonese:
-  - gaap3
+  - geng2
 korean:
 korean_native: ""
 japanese:
-  - KYOU
+  - KEI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ep
-stroke_count: 15
+middle_chinese_final: iᴇŋ
+stroke_count: 16
 radical: 頁
-skip_number: 1-6-9
+skip_number: 1-7-9
 grade_level: "6"
 pos: ""
 english:
-  - cheek
-羅馬字: gep
-韓文: 겊
+  - neck
+羅馬字: ging
+韓文: 깅
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
-danayo_id: 6095
-mc_id: 2879
-graphemic_classification: 夾
-stand_in: 頬
+danayo_id: 6003
+mc_id: 1671
+graphemic_classification: 巠
+stand_in: 頚
 aliases:
-  - 頰
-注音: ㄍㄝㄆ
+  - 頸
+注音: ㄍㄧㄥ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

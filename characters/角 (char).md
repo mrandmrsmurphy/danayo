@@ -1,0 +1,41 @@
+---
+mandarin:
+  - jiǎo
+cantonese:
+  - gok3
+korean:
+  - 각
+korean_native: ""
+japanese:
+  - KAKU
+  - ROKU
+  - KOKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: k
+middle_chinese_final: ɣʌk
+stroke_count: 7
+radical: 角
+skip_number: 2-2-5
+grade_level: "2"
+pos: ""
+english:
+  - horn
+  - angle
+羅馬字: gog
+韓文: 곡
+joyo_level: "2"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 2225
+mc_id: 785
+graphemic_classification: 象形
+stand_in: 角
+aliases:
+注音: ㄍㄛㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
