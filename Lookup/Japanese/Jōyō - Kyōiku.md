@@ -851,7 +851,7 @@ The following prefecture names were added in 2017
 849. [[刻]] : koku	kiza-mu	engrave
 850. [[割]] : katsu	wa-ru	divide
 851. [[創]] : sō	tsuku-ru	create
-852. [[劇]] : geki	 	drama
+852. [[劇 (char)]] : geki	 	drama
 853. [[勤]] : kin	tsuto-meru	diligence
 854. [[危]] : ki	aya-ui	dangerous
 855. [[卵]] : ran	tamago	egg

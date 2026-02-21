@@ -11,6 +11,7 @@ japanese:
   - GI
 japanese_nanori: ""
 vietnamese:
+  - ngài
 middle_chinese_initial: ŋ
 middle_chinese_final: ɑ
 stroke_count: 13
