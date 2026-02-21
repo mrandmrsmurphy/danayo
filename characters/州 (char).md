@@ -42,3 +42,5 @@ aliases:
 - Easily confused with [[洲 (char)]]
 - Pure pictogram of an islet in a river
 - Somehow, this is [[SKIP-1-2-4]].
+## Words
+- [[九州]] - Kyushu

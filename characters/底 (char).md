@@ -15,7 +15,7 @@ middle_chinese_final: ei
 stroke_count: 8
 radical: 广
 skip_number: 3-3-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - bottom

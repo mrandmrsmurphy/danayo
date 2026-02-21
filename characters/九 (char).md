@@ -52,6 +52,7 @@ date-last-perfect: 2026-02-20
 - [[九族]] - nine generations
 - [[九官鳥]] - starling
 - [[九尾狐]] - nine-tailed fox
+- [[九州]] - Kyushu
 ### Data check
 ```dataview
 table 韓文, english

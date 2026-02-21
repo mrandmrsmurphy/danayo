@@ -202,7 +202,7 @@ In ancient East Asian thought, the division of the world followed a different st
 2. Western Sea ([[西海]]), 
 3. Southern Sea ([[南海]]), 
 4. and Northern Sea ([[北海]])
-These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the Nine Provinces ([[九州]]), including:
+These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the <ruby>九州<rt>ㄎ˙ㄨㄐㄨˇ</rt></ruby>, including:
 - Ji (冀州),
 - Yan (兗州),
 - Qing (青州),

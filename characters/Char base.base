@@ -13,21 +13,20 @@ views:
       - 注音
       - english
       - skip_number
-      - mandarin
-      - cantonese
-      - japanese
-      - hsk_level
-      - joyo_level
-      - hanmun_edu_level
       - korean
-      - vietnamese
       - date-last-perfect
       - graphemic_classification
       - pos
       - grade_level
       - danayo_id
       - formula.score
+      - middle_chinese_initial
+      - middle_chinese_final
     sort:
+      - property: middle_chinese_final
+        direction: DESC
+      - property: middle_chinese_initial
+        direction: ASC
       - property: 羅馬字
         direction: ASC
       - property: danayo_id
