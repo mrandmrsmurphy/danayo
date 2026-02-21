@@ -15,7 +15,7 @@ middle_chinese_final: ɨun
 stroke_count: 10
 radical: 口
 skip_number: 2-7-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - lips
@@ -29,6 +29,7 @@ mc_id: 2907
 graphemic_classification: 辰
 stand_in: 唇
 aliases:
+  - 脣
 注音: ㄙㄨㄋ
 ---
 ```meta-bind-embed
