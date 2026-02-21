@@ -23,11 +23,11 @@ views:
       - middle_chinese_initial
       - middle_chinese_final
     sort:
+      - property: 羅馬字
+        direction: DESC
       - property: middle_chinese_final
         direction: DESC
       - property: middle_chinese_initial
-        direction: ASC
-      - property: 羅馬字
         direction: ASC
       - property: danayo_id
         direction: ASC

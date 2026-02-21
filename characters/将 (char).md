@@ -15,10 +15,10 @@ vietnamese:
   - tương
 middle_chinese_initial: t͡s
 middle_chinese_final: ɨɐŋ
-stroke_count: "10"
+stroke_count: 10
 radical: 寸
 skip_number: 1-3-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - will
@@ -36,6 +36,8 @@ aliases:
   - 將
   - 鏘
   - 𨪙
+  - 漿
+  - 浆
 注音: ㄐˇㄚㄥ
 ---
 ```meta-bind-embed
@@ -43,3 +45,4 @@ aliases:
 ```
 
 # Notes
+- used for 漿 - "thick fluid"
