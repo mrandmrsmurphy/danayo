@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: pʰ
 middle_chinese_final: ʉɐn
-stroke_count: "18"
+stroke_count: 18
 radical: 羽
 skip_number: 1-12-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - flip
@@ -30,6 +30,7 @@ mc_id: 4924
 graphemic_classification: 番
 stand_in: 翻
 aliases:
+  - 飜
 注音: ㄆㄛㄋ
 ---
 ```meta-bind-embed
