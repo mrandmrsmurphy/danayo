@@ -12,16 +12,17 @@ vietnamese:
   - dược, ước
 middle_chinese_initial: j
 middle_chinese_final: ɨɐk
-stroke_count: "16"
+stroke_count: 16
 radical: 艸
 skip_number: 2-3-13
-grade_level: 1
+grade_level: "1"
 pos: 名詞
 english:
   - drug
   - medicine
+  - chemical
 羅馬字: yag
-韓文:  약
+韓文: 약
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中
