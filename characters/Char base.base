@@ -28,14 +28,14 @@ views:
       - danayo_id
       - formula.score
     sort:
+      - property: 羅馬字
+        direction: ASC
       - property: danayo_id
         direction: ASC
       - property: formula.score
         direction: ASC
       - property: hanmun_edu_level
         direction: DESC
-      - property: 羅馬字
-        direction: ASC
       - property: 韓文
         direction: ASC
       - property: skip_number
