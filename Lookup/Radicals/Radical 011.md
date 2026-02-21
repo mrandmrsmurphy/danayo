@@ -2,7 +2,7 @@
 
 
 ## Stroke
-- <ruby>[[入 (char)]]<rt>닙</rt></ruby>
+- <ruby>[[入 (char)]]<rt>ㄋㄧㄆ</rt></ruby>
 ### +1
 - 𠓛–>集
 ### +2

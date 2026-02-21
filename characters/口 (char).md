@@ -1,39 +1,38 @@
 ---
 mandarin:
-  - shuǐ
+  - kǒu
 cantonese:
-  - seoi2
+  - hau2
 korean:
-  - 수
+  - 구
 korean_native: ""
 japanese:
-  - SUI
+  - KOU
+  - KU
 japanese_nanori: ""
 vietnamese:
-  - thuỷ
-middle_chinese_initial: ɕ
-middle_chinese_final: ɣiuɪ
-stroke_count: 4
-radical: 水
-skip_number: 1-1-3
+  - khẩu
+middle_chinese_initial: kʰ
+middle_chinese_final: əu
+stroke_count: 3
+radical: 口
+skip_number: 4-3-1
 grade_level: "1"
 pos: ""
 english:
-  - water
-羅馬字: su
-韓文: 수
+  - mouth
+羅馬字: kou
+韓文: 콧
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
-danayo_id: 32
-mc_id: 124
+danayo_id: 24
+mc_id: 403
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 口
 aliases:
-注音: ㄙㄨ
+注音: ㄎㄛˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes

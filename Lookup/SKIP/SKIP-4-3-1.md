@@ -6,7 +6,7 @@
 - 刄, a.k.a. 刃 (SKIP-3-3-1)
 - [[弓]]
 - [[己]]	
-- <ruby>[[口]]<rt>콧</rt></ruby>
+- <ruby>[[口 (char)]]<rt>콧</rt></ruby>
 - [[工]]
 - <ruby>[[下 (char)]]<rt>하</rt></ruby>
 - 廴, i.e. Radical 054

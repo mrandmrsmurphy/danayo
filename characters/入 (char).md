@@ -35,9 +35,13 @@ graphemic_classification: 象形
 stand_in: 入
 aliases:
 注音: ㄋㄧㄆ
+date-last-perfect: 2026-02-20
 ---
+> [!tip] This is a page about the character.  For the word, see [[入]].  For the radical, see [[Radical 011]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 # Notes
+- [[Grade 1.base]], [[Korean MS]], [[Jōyō - Kyōiku]], HSK 2
+- [[ㄋㄧㄆ]], [[Stroke 02]]

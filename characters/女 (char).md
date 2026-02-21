@@ -30,7 +30,7 @@ hanmun_edu_level: 中
 danayo_id: 25
 mc_id: 222
 graphemic_classification: 象形
-stand_in: "TRUE"
+stand_in: 女
 aliases:
 注音: ㄋ˙ㄛˇ
 ---

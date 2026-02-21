@@ -21,7 +21,7 @@ The first part of our 常用字 list.
 - <ruby>[[日 (char)]]<rt>ㄋㄧㄊ</rt></ruby> : 'sun/day', used in the word 'Sunday' : <ruby>日曜日<rt>ㄧㄊ·˙ㄛˇ·ㄧㄊ</rt></ruby>
 - <ruby>[[月 (char)]]<rt>ˇㄝㄊ</rt></ruby> : 'moon/month', used in the word 'Monday': <ruby>月曜日<rt>ˇㄝㄊ·˙ㄛˇ·ㄧㄊ</rt></ruby>
 - <ruby>[[火]]<rt>ㄏˇㄚ</rt></ruby> : 'fire', used in the word 'Tuesday' <ruby>火曜日</ruby>
-- <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> : 'water', used in the word 'Wednesday' <ruby>水曜日</ruby>
+- <ruby>[[水 (char)]]<rt>ㄙㄨ</rt></ruby> : 'water', used in the word 'Wednesday' <ruby>水曜日</ruby>
 - <ruby>[[木 (char)]]<rt>ㄇㄛㄎ</rt></ruby> : 'wood', used in the word 'Thursday' <ruby>木曜日</ruby>
 - <ruby>[[金 (char)]]<rt>ㄍㄧㄇ</rt></ruby> : 'metal', used in the word 'Friday' <ruby>金曜日</ruby>
 - <ruby>[[土 (char)]]<rt>ㄊㄛ</rt></ruby> : 'earth', used in the word 'Saturday' <ruby>土曜日</ruby>
@@ -43,9 +43,9 @@ The first part of our 常用字 list.
 <ruby>[[人 (char)]]<rt>닌</rt></ruby>,
 <ruby>[[入 (char)]]<rt>닙</rt></ruby>,
 <ruby>[[子]]<rt>지</rt></ruby>,
-<ruby>[[口]]<rt>콧</rt></ruby>,
+<ruby>[[口 (char)]]<rt>콧</rt></ruby>,
 <ruby>[[男]]<rt>남</rt></ruby>,
-<ruby>[[女]]<rt>뇻</rt></ruby>,
+<ruby>[[女 (char)]]<rt>뇻</rt></ruby>,
 <ruby>[[友]]<rt>윳</rt></ruby>,
 <ruby>[[父]]<rt>부</rt></ruby>,
 <ruby>[[王]]<rt>ˇㄚㄥ</rt></ruby>,
@@ -65,7 +65,7 @@ The first part of our 常用字 list.
 <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby>,
 <ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby>,
 <ruby>[[下 (char)]]<rt>하</rt></ruby>,
-<ruby>[[太]]<rt>태</rt></ruby>,
+<ruby>[[太 (char)]]<rt>태</rt></ruby>,
 <ruby>[[内]]<rt>뇌</rt></ruby>,
 <ruby>[[毛]]<rt>맛</rt></ruby>,
 <ruby>[[犬 (char)]]<rt>퀀</rt></ruby>,

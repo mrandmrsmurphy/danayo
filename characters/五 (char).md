@@ -1,7 +1,8 @@
 ---
 mandarin:
   - wǔ
-cantonese: ng5
+cantonese:
+  - ng5
 korean:
   - 오
 korean_native: 다섯

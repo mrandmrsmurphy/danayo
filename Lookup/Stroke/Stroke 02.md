@@ -8,7 +8,7 @@
 - <ruby>[[了]]<rt>럇</rt></ruby>
 - <ruby>[[二 (char)|二]]<rt>늬</rt></ruby>
 - <ruby>[[人 (char)|人]]<rt>닌</rt></ruby>
-- <ruby>[[入 (char)|入]]<rt>닙</rt></ruby>
+- <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>
 - <ruby>[[八 (char)|八]]<rt>받</rt></ruby>
 - <ruby>[[刀]]<rt>탓</rt></ruby>
 - <ruby>[[力 (char)|力]]<rt>릭</rt></ruby>

@@ -1,7 +1,8 @@
 ---
 mandarin:
   - liù
-cantonese: luk6
+cantonese:
+  - luk6
 korean:
   - 륙
 korean_native: ""
