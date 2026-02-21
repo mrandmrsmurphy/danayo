@@ -1,0 +1,43 @@
+---
+mandarin:
+  - fú
+cantonese:
+  - fuk6
+korean:
+  - 복
+korean_native: ""
+japanese:
+  - FUKU
+  - FUU
+  - BUKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: b
+middle_chinese_final: ɨuk
+stroke_count: 6
+radical: 人
+skip_number: 1-2-4
+grade_level: "4"
+pos: ""
+english:
+  - crouch
+  - prostrate
+  - surrender
+羅馬字: bug
+韓文: 북
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 4013
+mc_id: 561
+graphemic_classification: 會意
+stand_in: 伏
+aliases:
+  - 鮲
+注音: ㄅㄨㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

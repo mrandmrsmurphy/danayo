@@ -44,7 +44,7 @@ date-last-perfect: 2026-01-23
 * For anti-forgery purposes, use [[壱]]
 
 <ruby>一<rt>읻</rt></ruby> is probably the first character most people learn.  It is the easiest: [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Grade 1]].   It is [[SKIP-4-1-4]].  
-It is the first radical in the Kangxi system (see [[Radical 001]] for more details).  Dan'a'yo has sixteen other characters under that heading, though none of them are derived from this one.  <ruby>[[戌]]<rt>숟</rt></ruby> and <ruby>[[乞]]<rt>킫</rt></ruby> are perhaps the only characters visually and phonetically derived from it.  As a <ruby>象形<rt>샹헝</rt></ruby>/pictogram, it is not based on any other character.  
+It is the first radical in the Kangxi system (see [[Radical 001]] for more details).  Dan'a'yo has sixteen other characters under that heading, though none of them are derived from this one.  <ruby>[[戌]]<rt>숟</rt></ruby> and <ruby>[[乞 (char)]]<rt>킫</rt></ruby> are perhaps the only characters visually and phonetically derived from it.  As a <ruby>象形<rt>샹헝</rt></ruby>/pictogram, it is not based on any other character.  
 In compounds, it appears in many, many words.  To disambiguate various numbers, it is sometimes put in front of 溝, 兆, 億, 万, 千, 百, 十, or 半.
 
 * <ruby>[[一月]]<rt>읻웓</rt></ruby> - January

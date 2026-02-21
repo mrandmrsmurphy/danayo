@@ -1,0 +1,45 @@
+---
+mandarin: nǎi
+cantonese:
+  - naai5
+korean: 내
+korean_native: ""
+japanese:
+  - DAI
+  - AI
+  - NAI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: n
+middle_chinese_final: ʌi
+stroke_count: 2
+radical: 丿
+skip_number: 3-1-1
+grade_level: "5"
+pos: 連接詞
+english:
+  - but
+羅馬字: nai
+韓文: 내
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 5161
+mc_id: 63
+graphemic_classification: 象形
+stand_in: 乃
+aliases:
+  - 奈
+品詞: 連接詞
+注音: ㄋㄚ˙
+---
+
+# Notes
+奈=C#1080
+```meta-bind-embed
+[[nav/char_info]]
+```
+## Definition
+- but
+- then; 
+- really, indeed; as it turned out, after all

@@ -1,0 +1,38 @@
+---
+mandarin:
+  - hóu
+cantonese:
+  - hau4
+korean:
+  - 후
+korean_native: ""
+japanese:
+  - KOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɣ
+middle_chinese_final: əu
+stroke_count: 9
+radical: 人
+skip_number: 1-2-7
+grade_level: "5"
+pos: ""
+english:
+  - marquis
+羅馬字: hou
+韓文: 홋
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5351
+mc_id: 33
+graphemic_classification: 象形
+stand_in: 侯
+aliases:
+注音: ㄏㄛˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

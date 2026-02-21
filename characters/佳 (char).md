@@ -1,0 +1,40 @@
+---
+mandarin:
+  - jiā
+cantonese:
+  - gaai1
+korean:
+  - 가
+korean_native: ""
+japanese:
+  - KA
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: k
+middle_chinese_final: ɣɛ
+stroke_count: 8
+radical: 人
+skip_number: 1-2-6
+grade_level: "3"
+pos: ""
+english:
+  - beautiful
+  - good
+  - excellent
+羅馬字: gyai
+韓文: 걔
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3015
+mc_id: 3380
+graphemic_classification: 圭
+stand_in: 佳
+aliases:
+注音: ㄍ˙ㄚ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

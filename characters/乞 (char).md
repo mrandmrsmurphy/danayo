@@ -1,0 +1,39 @@
+---
+mandarin:
+  - qǐ
+cantonese:
+  - hat1
+korean:
+  - 걸
+korean_native: ""
+japanese:
+  - KOTSU
+  - KI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: ɨt
+stroke_count: 3
+radical: 乙
+skip_number: 2-2-1
+grade_level: "6"
+pos: ""
+english:
+  - beg
+羅馬字: kid
+韓文: 킫
+joyo_level: 表外字
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6427
+mc_id: 1253
+graphemic_classification: 一
+stand_in: 乞
+aliases:
+注音: ㄎㄧㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
