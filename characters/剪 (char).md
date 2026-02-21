@@ -1,0 +1,38 @@
+---
+mandarin:
+  - jiǎn
+cantonese:
+  - zin2
+korean:
+  - 전
+korean_native: ""
+japanese:
+  - SEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡s
+middle_chinese_final: iᴇn
+stroke_count: 11
+radical: 刀
+skip_number: 2-3-8
+grade_level: 先進
+pos: ""
+english:
+  - scissors
+羅馬字: jen
+韓文: 전
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7395
+mc_id: 4439
+graphemic_classification: 前
+stand_in: 剪
+aliases:
+注音: ㄐㄝㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

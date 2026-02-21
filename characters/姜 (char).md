@@ -1,0 +1,40 @@
+---
+mandarin:
+  - jiāng
+cantonese:
+  - goeng1
+korean:
+  - 강
+korean_native: ""
+japanese:
+  - KYOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: k
+middle_chinese_final: ɨɐŋ
+stroke_count: 9
+radical: 女
+skip_number: 2-6-3
+grade_level: 名
+pos: ""
+english:
+  - ginger
+羅馬字: gyan
+韓文: 갼
+joyo_level: 表外字
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 8102
+mc_id: 1110
+graphemic_classification: 羊
+stand_in: 姜
+aliases:
+  - 薑
+  - 姜
+注音: ㄍ˙ㄚㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

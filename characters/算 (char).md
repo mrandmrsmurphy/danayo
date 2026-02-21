@@ -1,0 +1,38 @@
+---
+mandarin:
+  - suàn
+cantonese:
+  - syun3
+korean:
+  - 산
+korean_native: ""
+japanese:
+  - SAN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: s
+middle_chinese_final: uɑn
+stroke_count: "14"
+radical: 竹
+skip_number: 2-6-8
+grade_level: 1
+pos: ""
+english:
+  - calculate
+羅馬字: swan
+韓文:  솬
+joyo_level: "2"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 241
+mc_id: 1984
+graphemic_classification: 會意
+stand_in: 算
+aliases:
+注音: ㄙˇㄚㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,39 @@
+---
+mandarin:
+  - lěng
+cantonese:
+  - laang5
+korean:
+  - 냉
+korean_native: ""
+japanese:
+  - REI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: ɣæŋ
+stroke_count: "7"
+radical: 冫
+skip_number: 1-2-5
+grade_level: 2
+pos: ""
+english:
+  - cool
+  - cold
+羅馬字: lang
+韓文: 랑
+joyo_level: "4"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 2028
+mc_id: 2294
+graphemic_classification: 令
+stand_in: 冷
+aliases:
+注音: ㄌㄚㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

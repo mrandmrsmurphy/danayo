@@ -1,0 +1,39 @@
+---
+mandarin:
+  - nòng
+cantonese:
+  - lung6
+korean:
+  - 농
+korean_native: ""
+japanese:
+  - ROU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: uŋ
+stroke_count: 7
+radical: 廾
+skip_number: 2-4-3
+grade_level: 5
+pos: ""
+english:
+  - tamper with
+  - mess with
+羅馬字: long
+韓文: 롱
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5183
+mc_id: 2397
+graphemic_classification: 會意
+stand_in: 弄
+aliases:
+注音: ㄌㄛㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,44 @@
+---
+mandarin:
+  - liú
+cantonese:
+  - lau4
+korean:
+  - 류
+korean_native: 머무를
+japanese:
+  - RYUU
+  - RU
+japanese_nanori: と-める,と-まる
+vietnamese:
+  - lưu
+middle_chinese_initial: l
+middle_chinese_final: ɨu
+stroke_count: 10
+radical: 田
+skip_number: 2-5-5
+grade_level: 2
+pos: 性詞
+english:
+  - remain
+  - stay
+羅馬字: lyu
+韓文: 류
+joyo_level: "5"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 2172
+mc_id: 541
+graphemic_classification: 丣
+stand_in: 留
+aliases:
+  - 畱
+注音: ㄌ˙ㄨ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+- [[卯]] + [[田]] = [[SKIP-2-5-5]], [[Stroke 10]]
+- [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]]

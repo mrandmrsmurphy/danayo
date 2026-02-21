@@ -1,0 +1,39 @@
+---
+mandarin:
+  - chāo
+cantonese:
+  - ciu1
+korean:
+  - 초
+korean_native: ""
+japanese:
+  - CHOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ʈʰ
+middle_chinese_final: ɣiᴇu
+stroke_count: 12
+radical: 走
+skip_number: 3-7-5
+grade_level: 5
+pos: ""
+english:
+  - transcend
+  - surpass
+羅馬字: tau
+韓文: 탓
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5233
+mc_id: 1361
+graphemic_classification: 召
+stand_in: 超
+aliases:
+注音: ㄊㄚˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

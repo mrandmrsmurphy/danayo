@@ -1,0 +1,37 @@
+---
+mandarin:
+  - jí
+cantonese:
+  - kap6
+korean:
+  - 급
+korean_native: ""
+japanese:
+  - KYUU
+japanese_nanori: ""
+vietnamese:
+  - cập
+middle_chinese_initial: g
+middle_chinese_final: ɣiɪp
+stroke_count: 3
+radical: 又
+skip_number: 4-3-1
+grade_level: 3
+pos: ""
+english:
+  - reach out to
+羅馬字: gub
+韓文: 굽
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3048
+mc_id: 90
+graphemic_classification: 會意
+stand_in: 及
+aliases:
+注音: ㄍㄨㄆ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```

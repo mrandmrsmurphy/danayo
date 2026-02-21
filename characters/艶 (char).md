@@ -1,0 +1,41 @@
+---
+mandarin:
+  - yàn
+cantonese:
+  - jim6
+korean:
+  - 염
+korean_native: ""
+japanese:
+  - EN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: j
+middle_chinese_final: iᴇm
+stroke_count: "19"
+radical: 色
+skip_number: 1-13-6
+grade_level: 6
+pos: ""
+english:
+  - plump
+  - voluptuous
+  - beautiful
+羅馬字: yem
+韓文: 염
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6224
+mc_id: 4351
+graphemic_classification: 盍
+stand_in: 艶
+aliases:
+  - 豔
+注音: ˙ㄝㄇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

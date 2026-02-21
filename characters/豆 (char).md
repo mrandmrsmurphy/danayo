@@ -1,0 +1,39 @@
+---
+mandarin:
+  - dòu
+cantonese:
+  - dau6
+korean:
+  - 두
+korean_native: ""
+japanese:
+  - TOU
+  - ZU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: d
+middle_chinese_final: əu
+stroke_count: "7"
+radical: 豆
+skip_number: 2-1-6
+grade_level: 2
+pos: ""
+english:
+  - bean
+羅馬字: dou
+韓文:  돗
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 2239
+mc_id: 1371
+graphemic_classification: 象形
+stand_in: 豆
+aliases:
+注音: ㄉㄛˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

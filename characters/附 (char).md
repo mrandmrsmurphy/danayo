@@ -1,0 +1,40 @@
+---
+mandarin:
+  - fù
+cantonese:
+  - fu6
+korean:
+  - 부
+korean_native: ""
+japanese:
+  - FU
+  - HOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: b
+middle_chinese_final: ɨo
+stroke_count: "8"
+radical: 阜
+skip_number: 1-3-5
+grade_level: 4
+pos: ""
+english:
+  - affix
+  - adhere
+羅馬字: bu
+韓文: 부
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 4292
+mc_id: 895
+graphemic_classification: 付
+stand_in: 附
+aliases:
+注音: ㄅㄨ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,40 @@
+---
+mandarin:
+  - è
+cantonese:
+  - aak1
+korean:
+korean_native: ""
+japanese:
+  - AKU
+  - YAKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ʔ
+middle_chinese_final: ɣɛk
+stroke_count: 11
+radical: 車
+skip_number: 1-7-4
+grade_level: 先進
+pos: ""
+english:
+  - yoke
+羅馬字: ag
+韓文: 악
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7516
+mc_id: 4283
+graphemic_classification: 厄
+stand_in: 軛
+aliases:
+  - 軶
+  - 轭
+注音: ㄚㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,40 @@
+---
+mandarin:
+  - jiù
+cantonese:
+  - kau5
+korean:
+  - 구
+korean_native: ""
+japanese:
+  - KYUU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: g
+middle_chinese_final: ɨu
+stroke_count: "6"
+radical: 臼
+skip_number: 4-6-6
+grade_level: 先進
+pos: ""
+english:
+  - mortar
+  - millstone
+  - socket
+羅馬字: gyuu
+韓文: 귯
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7016
+mc_id: 2374
+graphemic_classification: 象形
+stand_in: 臼
+aliases:
+注音: ㄍ˙ㄨˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

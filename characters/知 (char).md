@@ -1,0 +1,41 @@
+---
+mandarin:
+  - zhī
+cantonese:
+  - zi1
+korean:
+  - 지
+korean_native: ""
+japanese:
+  - CHI
+japanese_nanori: ""
+vietnamese:
+  - tri
+  - trơ
+middle_chinese_initial: ʈ
+middle_chinese_final: ɣiᴇ
+stroke_count: "8"
+radical: 矢
+skip_number: 1-5-3
+grade_level: 1
+pos: ""
+english:
+  - know
+羅馬字: jui
+韓文: 쥐
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 146
+mc_id: 54
+graphemic_classification: 矢
+stand_in: 知
+aliases:
+  - 𥎵
+注音: ㄐㄨ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,42 @@
+---
+mandarin:
+  - qīng
+cantonese:
+  - hing1
+korean:
+  - 경
+korean_native: ""
+japanese:
+  - KYOU
+  - KEI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: ɣiæŋ
+stroke_count: "12"
+radical: 卩
+skip_number: 1-3-9
+grade_level: 先進
+pos: ""
+english:
+  - noble
+  - high officer
+  - sir
+  - m'lord
+羅馬字: kyeng
+韓文: 켱
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 7218
+mc_id: 352
+graphemic_classification: 會意
+stand_in: 卿
+aliases:
+注音: ㄎ˙ㄝㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

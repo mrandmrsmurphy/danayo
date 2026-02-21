@@ -1,0 +1,41 @@
+---
+mandarin:
+  - chá
+cantonese:
+  - caa4
+korean:
+  - 다
+korean_native: ""
+japanese:
+  - CHA
+  - SA
+  - TA
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɖ
+middle_chinese_final: ɣa
+stroke_count: 9
+radical: 艸
+skip_number: 2-3-6
+grade_level: 3
+pos: ""
+english:
+  - tea (drink)
+  - tea (plant)
+羅馬字: ca
+韓文: 차
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: 高等
+danayo_id: 3232
+mc_id: 8436
+graphemic_classification: 余
+stand_in: 茶
+aliases:
+注音: ㄑㄚ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

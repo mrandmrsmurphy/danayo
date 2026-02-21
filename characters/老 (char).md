@@ -1,0 +1,39 @@
+---
+mandarin:
+  - lǎo
+cantonese:
+  - lou5
+korean:
+  - 노
+korean_native: ""
+japanese:
+  - ROU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: ɑu
+stroke_count: 6
+radical: 老
+skip_number: 3-4-2
+grade_level: "2"
+pos: ""
+english:
+  - old person
+  - age
+羅馬字: lau
+韓文: 랏
+joyo_level: "4"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 2203
+mc_id: 369
+graphemic_classification: 會意
+stand_in: 老
+aliases:
+注音: ㄌㄚˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

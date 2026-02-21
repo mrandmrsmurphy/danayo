@@ -1,0 +1,40 @@
+---
+mandarin:
+  - lín
+cantonese:
+  - leon4
+korean:
+  - 린
+korean_native: ""
+japanese:
+  - RIN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: iɪn
+stroke_count: 16
+radical: 阜
+skip_number: 1-3-13
+grade_level: 6
+pos: ""
+english:
+  - neighboring
+  - next door
+羅馬字: lin
+韓文: 린
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6410
+mc_id: 1150
+graphemic_classification: 粦
+stand_in: 隣
+aliases:
+  - 鄰
+注音: ㄌㄧㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

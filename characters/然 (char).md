@@ -1,0 +1,39 @@
+---
+mandarin:
+  - rán
+cantonese:
+  - jin4
+korean:
+  - 연
+korean_native: ""
+japanese:
+  - ZEN
+  - NEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ȵ
+middle_chinese_final: iᴇn
+stroke_count: 12
+radical: 火
+skip_number: 2-8-4
+grade_level: 2
+pos: ""
+english:
+  - so
+羅馬字: nyen
+韓文: 년
+joyo_level: "4"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 2162
+mc_id: 81
+graphemic_classification: 肰
+stand_in: 然
+aliases:
+注音: ㄋ˙ㄝㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

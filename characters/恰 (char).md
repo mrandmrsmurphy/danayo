@@ -1,0 +1,43 @@
+---
+mandarin:
+  - qià
+cantonese:
+  - hap1
+korean:
+  - 흡
+korean_native: 흡사할
+japanese:
+  - KOU
+  - KATSU
+japanese_nanori: あたかも
+vietnamese:
+  - kháp
+middle_chinese_initial: kʰ
+middle_chinese_final: ɣɛp
+stroke_count: 9
+radical: 心
+skip_number: 1-3-6
+grade_level: 先進
+pos: 性詞
+english:
+  - exactly
+  - just
+羅馬字: kab
+韓文: 캅
+joyo_level: 日本人名用漢字
+hsk_level: "3"
+hanmun_edu_level:
+danayo_id: 7359
+mc_id: 8219
+graphemic_classification: 合
+stand_in: 恰
+aliases:
+注音: ㄎㄚㄆ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+- [[Radical 061|忄]] + [[合]] = [[SKIP-1-3-6]] ([[Stroke 09]])
+- [[Korean Name ㅎ]], [[Jinmeiyō]], HSK 3, [[Advanced Grade]]

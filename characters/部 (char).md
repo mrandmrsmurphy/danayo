@@ -1,0 +1,40 @@
+---
+mandarin:
+  - bù
+cantonese:
+  - bou6
+korean:
+  - 부
+korean_native: ""
+japanese:
+  - BU
+  - HO
+  - HOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: b
+middle_chinese_final: əu
+stroke_count: 11
+radical: 邑
+skip_number: 1-8-3
+grade_level: 2
+pos: ""
+english:
+  - part
+羅馬字: bou
+韓文:  봇
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 2256
+mc_id: 704
+graphemic_classification: 咅
+stand_in: 部
+aliases:
+注音: ㄅㄛˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

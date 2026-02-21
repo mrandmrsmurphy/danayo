@@ -1,0 +1,38 @@
+---
+mandarin:
+  - yuē
+cantonese:
+  - joek6
+korean:
+  - 왈
+korean_native: ""
+japanese:
+  - ETSU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: 0
+middle_chinese_final: ʉɐt
+stroke_count: 4
+radical: 曰
+skip_number: 3-3-1
+grade_level: 先進
+pos: ""
+english:
+  - saith
+羅馬字: wed
+韓文: 웓
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7514
+mc_id: 8
+graphemic_classification: 象形
+stand_in: 曰
+aliases:
+注音: ˇㄝㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

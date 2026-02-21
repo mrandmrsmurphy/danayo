@@ -1,0 +1,39 @@
+---
+mandarin:
+  - yáng
+cantonese:
+  - joeng4
+korean:
+  - 양
+korean_native: ""
+japanese:
+  - YOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: j
+middle_chinese_final: ɨɐŋ
+stroke_count: "12"
+radical: 阜
+skip_number: 1-3-9
+grade_level: 3
+pos: ""
+english:
+  - shine
+羅馬字: yang
+韓文: 양
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3265
+mc_id: 66
+graphemic_classification: 昜
+stand_in: 陽
+aliases:
+  - 阳
+注音: ˙ㄚㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,43 @@
+---
+mandarin:
+  - huí
+cantonese:
+  - wui4
+korean:
+  - 회
+korean_native: ""
+japanese:
+  - KAI
+  - E
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɣ
+middle_chinese_final: uʌi
+stroke_count: 6
+radical: 囗
+skip_number: 3-3-3
+grade_level: "1"
+pos: ""
+english:
+  - turns
+羅馬字: hoi
+韓文: 회
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 88
+mc_id: 1120
+graphemic_classification: 象形
+stand_in: 回
+aliases:
+  - 囘
+  - 迴
+  - 廻
+  - 蛔
+注音: ㄏㄛ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

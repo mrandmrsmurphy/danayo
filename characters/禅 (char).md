@@ -1,0 +1,39 @@
+---
+mandarin:
+  - chán
+cantonese:
+  - sim4
+korean:
+korean_native: ""
+japanese:
+  - ZEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ʑ
+middle_chinese_final: iᴇn
+stroke_count: 13
+radical: 示
+skip_number: 1-4-9
+grade_level: 6
+pos: ""
+english:
+  - oneness
+  - Zen
+羅馬字: sen
+韓文: 선
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6183
+mc_id: 1474
+graphemic_classification: 单
+stand_in: 禅
+aliases:
+  - 禪
+注音: ㄙㄝㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

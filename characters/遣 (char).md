@@ -1,0 +1,39 @@
+---
+mandarin:
+  - qiǎn
+cantonese:
+  - hin2
+korean:
+  - 견
+korean_native: ""
+japanese:
+  - KEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: iᴇn
+stroke_count: 13
+radical: 辵
+skip_number: 3-3-10
+grade_level: 6
+pos: ""
+english:
+  - dispatch
+  - send
+羅馬字: ken
+韓文: 컨
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6177
+mc_id: 404
+graphemic_classification: 會意
+stand_in: 遣
+aliases:
+注音: ㄎㄝㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

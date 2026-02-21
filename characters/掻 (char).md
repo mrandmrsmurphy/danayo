@@ -1,0 +1,44 @@
+---
+mandarin:
+  - sāo
+cantonese:
+  - sou1
+korean:
+  - 소
+korean_native: 긁다
+japanese:
+  - SOU
+japanese_nanori: かく
+vietnamese:
+  - tao
+  - trao
+  - lau, lao, lạo, trau
+middle_chinese_initial: s
+middle_chinese_final: ɑu
+stroke_count: 11
+radical: 手
+skip_number: 1-3-8
+grade_level: 先進
+pos: ""
+english:
+  - scratch
+羅馬字: sau
+韓文: 삿
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level:
+danayo_id: 7126
+mc_id: 3325
+graphemic_classification: 蚤
+stand_in: 掻
+aliases:
+  - 搔
+注音: ㄙㄚˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+- [[Radical 064|手]] + [[蚤|𧈡]] = [[SKIP-1-3-8]] ([[Stroke 11]])
+- [[Hyōgai]], [[Korean Name ㅅ]], [[Advanced Grade]]

@@ -1,0 +1,38 @@
+---
+mandarin:
+  - táng
+cantonese:
+  - tong4
+korean:
+  - 당
+korean_native: ""
+japanese:
+  - TOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: d
+middle_chinese_final: ɑŋ
+stroke_count: "16"
+radical: 米
+skip_number: 1-6-10
+grade_level: 4
+pos: ""
+english:
+  - sugar
+羅馬字: dwang
+韓文: 돵
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 4205
+mc_id: 7394
+graphemic_classification: 唐
+stand_in: 糖
+aliases:
+注音: ㄉˇㄚㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

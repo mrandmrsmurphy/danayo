@@ -1,0 +1,42 @@
+---
+mandarin:
+  - dēng
+cantonese:
+  - dang1
+korean:
+  - 정
+korean_native: ""
+japanese:
+  - TOU
+  - TEI
+  - CHOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t
+middle_chinese_final: ǝŋ
+stroke_count: "6"
+radical: 火
+skip_number: 1-4-2
+grade_level: 1
+pos: ""
+english:
+  - lamp
+羅馬字: dung
+韓文:  둥
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 105
+mc_id: 0
+graphemic_classification: 登
+stand_in: 灯
+aliases:
+  - 燈
+注音: ㄉㄨㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+I'm shocked its not old

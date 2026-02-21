@@ -1,0 +1,40 @@
+---
+mandarin:
+  - yòu
+cantonese:
+  - jau6
+korean:
+  - 우
+korean_native: ""
+japanese:
+  - YUU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: 0
+middle_chinese_final: ɨu
+stroke_count: "2"
+radical: 又
+skip_number: 4-2-1
+grade_level: 3
+pos: ""
+english:
+  - or again
+羅馬字: uu
+韓文: 웃
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3047
+mc_id: 147
+graphemic_classification: 象形
+stand_in: 又
+aliases:
+注音: ㄨˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+1. or again
+2. also

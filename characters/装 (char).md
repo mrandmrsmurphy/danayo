@@ -1,0 +1,41 @@
+---
+mandarin:
+  - zhuāng
+cantonese:
+  - zong1
+korean:
+  - 장
+korean_native: ""
+japanese:
+  - SOU
+  - SHOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡ʃ
+middle_chinese_final: ɨɐŋ
+stroke_count: 12
+radical: 衣
+skip_number: 2-6-6
+grade_level: "4"
+pos: ""
+english:
+  - dress up
+  - pretend
+羅馬字: jwang
+韓文: "\b좡"
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 4244
+mc_id: 2585
+graphemic_classification: 壮
+stand_in: 装
+aliases:
+  - 裝
+注音: ㄐˇㄚㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

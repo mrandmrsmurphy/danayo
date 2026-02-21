@@ -1,0 +1,42 @@
+---
+mandarin:
+  - miào
+cantonese:
+  - miu6
+korean:
+  - 묘
+korean_native: ""
+japanese:
+  - MYOU
+  - BYOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: m
+middle_chinese_final: iᴇu
+stroke_count: "7"
+radical: 女
+skip_number: 1-3-4
+grade_level: 5
+pos: ""
+english:
+  - mysterious
+  - subtle
+  - exquisite
+羅馬字: myou
+韓文: 묫
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 5342
+mc_id: 2130
+graphemic_classification: 少
+stand_in: 妙
+aliases:
+  - 玅
+注音: ㄇ˙ㄛˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

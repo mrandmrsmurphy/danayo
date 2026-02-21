@@ -1,0 +1,40 @@
+---
+mandarin:
+  - mèng
+cantonese:
+  - mung6
+korean:
+  - 몽
+korean_native: ""
+japanese:
+  - MU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: m
+middle_chinese_final: ɨuŋ
+stroke_count: 13
+radical: 夕
+skip_number: 2-2-11
+grade_level: 4
+pos: ""
+english:
+  - dream
+羅馬字: mung
+韓文: 뭉
+joyo_level: "4"
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 4069
+mc_id: 1041
+graphemic_classification: 瞢
+stand_in: 夢
+aliases:
+  - 梦
+  - 㒱
+注音: ㄇㄨㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

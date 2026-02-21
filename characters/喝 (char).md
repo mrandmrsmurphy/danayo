@@ -1,0 +1,41 @@
+---
+mandarin:
+  - hē
+cantonese:
+  - hot3
+korean:
+  - 갈
+korean_native: ""
+japanese:
+  - KATSU
+  - AI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ʔ
+middle_chinese_final: ɣai
+stroke_count: "11"
+radical: 口
+skip_number: 1-3-8
+grade_level: 6
+pos: ""
+english:
+  - yell
+  - shout
+羅馬字: hod
+韓文: 혿
+joyo_level: 高等
+hsk_level: "1"
+hanmun_edu_level: ""
+danayo_id: 6335
+mc_id: 4648
+graphemic_classification: 會意
+stand_in: 喝
+aliases:
+  - 曷
+注音: ㄏㄛㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,39 @@
+---
+mandarin:
+  - nǎo
+cantonese:
+  - nou5
+korean:
+korean_native: ""
+japanese:
+  - NOU
+  - DOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: n
+middle_chinese_final: ɑu
+stroke_count: 11
+radical: 肉
+skip_number: 1-4-7
+grade_level: 4
+pos: ""
+english:
+  - brain
+羅馬字: nau
+韓文: 낫
+joyo_level: "5"
+hsk_level: "1"
+hanmun_edu_level: ""
+danayo_id: 4228
+mc_id: 2814
+graphemic_classification: 𡿺
+stand_in: 脳
+aliases:
+  - 腦
+注音: ㄋㄚˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,40 @@
+---
+mandarin:
+  - qí
+cantonese:
+  - kei4
+korean:
+  - 기
+korean_native: ""
+japanese:
+  - KI
+  - GI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: g
+middle_chinese_final: iᴇ
+stroke_count: "7"
+radical: 山
+skip_number: 1-3-4
+grade_level: 6
+pos: ""
+english:
+  - fork (in road)
+羅馬字: ge
+韓文: 거
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6134
+mc_id: 982
+graphemic_classification: 支
+stand_in: 岐
+aliases:
+  - 歧
+注音: ㄍㄝ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

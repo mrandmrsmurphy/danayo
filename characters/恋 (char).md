@@ -1,0 +1,41 @@
+---
+mandarin:
+  - liàn
+cantonese:
+  - lyun2
+korean:
+korean_native: ""
+japanese:
+  - REN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: iuᴇn
+stroke_count: 10
+radical: 心
+skip_number: 2-2-8
+grade_level: 6
+pos: ""
+english:
+  - romance
+  - romantic love
+羅馬字: len
+韓文: 런
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6360
+mc_id: 3590
+graphemic_classification: 䜌
+stand_in: 恋
+aliases:
+  - 戀
+  - 㜻
+  - 恋
+注音: ㄌㄝㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

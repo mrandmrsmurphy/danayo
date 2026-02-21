@@ -1,0 +1,39 @@
+---
+mandarin:
+  - bǔ
+cantonese:
+  - bou6
+korean:
+  - 포
+korean_native: ""
+japanese:
+  - HO
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: b
+middle_chinese_final: uo
+stroke_count: "10"
+radical: 手
+skip_number: 1-3-7
+grade_level: 5
+pos: ""
+english:
+  - catch
+  - grab
+羅馬字: bo
+韓文: 보
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5224
+mc_id: 1098
+graphemic_classification: 甫
+stand_in: 捕
+aliases:
+注音: ㄅㄛ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

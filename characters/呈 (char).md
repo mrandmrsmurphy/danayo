@@ -1,0 +1,39 @@
+---
+mandarin:
+  - chéng
+cantonese:
+  - cing4
+korean:
+  - 정
+korean_native: ""
+japanese:
+  - TEI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɖ
+middle_chinese_final: iᴇŋ
+stroke_count: 7
+radical: 口
+skip_number: 2-3-4
+grade_level: 6
+pos: ""
+english:
+  - display
+  - show
+羅馬字: ding
+韓文: 딩
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6108
+mc_id: 3622
+graphemic_classification: 廷
+stand_in: 呈
+aliases:
+注音: ㄉㄧㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,39 @@
+---
+mandarin:
+  - nà
+cantonese:
+  - naat6
+korean:
+  - 날
+korean_native: ""
+japanese:
+  - NATSU
+  - DATSU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: n
+middle_chinese_final: ɑt
+stroke_count: "11"
+radical: 手
+skip_number: 1-3-8
+grade_level: 名
+pos: ""
+english:
+  - right down stroke
+羅馬字: nad
+韓文: 낟
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 8139
+mc_id: 0
+graphemic_classification: 奈
+stand_in: 捺
+aliases:
+注音: ㄋㄚㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

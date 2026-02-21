@@ -1,0 +1,39 @@
+---
+mandarin:
+  - dūn
+cantonese:
+  - deon1
+korean:
+  - 톤
+korean_native: ""
+japanese:
+  - TON
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t
+middle_chinese_final: uən
+stroke_count: 16
+radical: 口
+skip_number: 1-3-13
+grade_level: 先進
+pos: ""
+english:
+  - ton
+羅馬字: ton
+韓文: 톤
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7226
+mc_id: 0
+graphemic_classification: 頓
+stand_in: 噸
+aliases:
+  - 吨
+注音: ㄊㄛㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

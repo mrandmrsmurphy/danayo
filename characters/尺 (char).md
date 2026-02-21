@@ -1,0 +1,39 @@
+---
+mandarin:
+  - chǐ
+cantonese:
+  - cek3
+korean:
+  - 척
+korean_native: ""
+japanese:
+  - SHAKU
+  - SEKI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡ɕʰ
+middle_chinese_final: iᴇk
+stroke_count: "4"
+radical: 尸
+skip_number: 4-4-1
+grade_level: 3
+pos: ""
+english:
+  - foot (distance)
+羅馬字: ceg
+韓文: 척
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3097
+mc_id: 531
+graphemic_classification: 指事
+stand_in: 尺
+aliases:
+注音: ㄑㄝㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

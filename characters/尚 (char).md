@@ -1,0 +1,38 @@
+---
+mandarin:
+  - shàng
+cantonese:
+  - soeng6
+korean:
+korean_native: ""
+japanese:
+  - SHOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ʑ
+middle_chinese_final: ɨɐŋ
+stroke_count: 8
+radical: 小
+skip_number: 2-3-5
+grade_level: 3
+pos: ""
+english:
+  - still
+  - even more
+羅馬字: syang
+韓文: 샹
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 3095
+mc_id: 313
+graphemic_classification: 向
+stand_in: 尚
+aliases:
+注音: ㄙ˙ㄚㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

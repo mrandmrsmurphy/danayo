@@ -1,0 +1,41 @@
+---
+mandarin:
+  - ěr
+cantonese:
+  - ji5
+korean:
+  - 이
+korean_native: ""
+japanese:
+  - JI
+  - NI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ȵ
+middle_chinese_final: iᴇ
+stroke_count: 14
+radical: 小
+skip_number: 4-14-1
+grade_level: "2"
+pos: ""
+english:
+  - yes
+羅馬字: ne
+韓文: 너
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 2164
+mc_id: 572
+graphemic_classification: 象形
+stand_in: 爾
+aliases:
+  - 尓
+  - 邇
+注音: ㄋㄝ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

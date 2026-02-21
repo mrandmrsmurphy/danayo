@@ -1,0 +1,39 @@
+---
+mandarin:
+  - zhàng
+cantonese:
+  - zoeng6
+korean:
+  - 장
+korean_native: ""
+japanese:
+  - JOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɖ
+middle_chinese_final: ɨɐŋ
+stroke_count: 7
+radical: 木
+skip_number: 1-4-3
+grade_level: 先進
+pos: ""
+english:
+  - staff
+  - stick
+羅馬字: jang
+韓文: 장
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7450
+mc_id: 1365
+graphemic_classification: 丈
+stand_in: 杖
+aliases:
+注音: ㄐㄚㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

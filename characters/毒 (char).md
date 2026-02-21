@@ -1,0 +1,39 @@
+---
+mandarin:
+  - dú
+cantonese:
+  - duk6
+korean:
+  - 독
+korean_native: ""
+japanese:
+  - DOKU
+  - TOKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: d
+middle_chinese_final: uok
+stroke_count: 8
+radical: 毋
+skip_number: 2-4-4
+grade_level: 4
+pos: ""
+english:
+  - poisonous
+羅馬字: dog
+韓文: 독
+joyo_level: "4"
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 4151
+mc_id: 1227
+graphemic_classification: 象形
+stand_in: 毒
+aliases:
+注音: ㄉㄛㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

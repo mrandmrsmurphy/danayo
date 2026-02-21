@@ -1,0 +1,40 @@
+---
+mandarin:
+  - yìng
+cantonese:
+  - jing2
+korean:
+  - 영
+korean_native: ""
+japanese:
+  - EI
+  - YOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ʔ
+middle_chinese_final: ɣiæŋ
+stroke_count: 9
+radical: 日
+skip_number: 1-4-5
+grade_level: 6
+pos: ""
+english:
+  - reflect
+  - project
+羅馬字: yeng
+韓文: 영
+joyo_level: "6"
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6458
+mc_id: 6913
+graphemic_classification: 央
+stand_in: 映
+aliases:
+注音: ˙ㄝㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

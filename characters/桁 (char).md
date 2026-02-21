@@ -1,0 +1,38 @@
+---
+mandarin:
+  - héng
+cantonese:
+  - haang4
+korean:
+  - 항
+korean_native: ""
+japanese:
+  - KOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɣ
+middle_chinese_final: ɑŋ
+stroke_count: 10
+radical: 木
+skip_number: 1-4-6
+grade_level: 先進
+pos: ""
+english:
+  - beam
+羅馬字: hang
+韓文: 항
+joyo_level: 表外字
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7097
+mc_id: 7135
+graphemic_classification: 行
+stand_in: 桁
+aliases:
+注音: ㄏㄚㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

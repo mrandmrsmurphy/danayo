@@ -1,0 +1,39 @@
+---
+mandarin:
+  - yé
+cantonese:
+  - je4
+korean:
+  - 야
+korean_native: ""
+japanese:
+  - YA
+  - JA
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: j
+middle_chinese_final: ia
+stroke_count: "9"
+radical: 耳
+skip_number: 1-6-3
+grade_level: 先進
+pos: ""
+english:
+  - yes?  mm?
+羅馬字: ye
+韓文: 여
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 7068
+mc_id: 1817
+graphemic_classification: 牙
+stand_in: 耶
+aliases:
+注音: ˙ㄝ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

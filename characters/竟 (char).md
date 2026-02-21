@@ -1,0 +1,41 @@
+---
+mandarin:
+  - jìng
+cantonese:
+  - ging2
+korean:
+  - 경
+korean_native: ""
+japanese:
+  - KEI
+  - KYOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: k
+middle_chinese_final: ɣiæŋ
+stroke_count: 11
+radical: 立
+skip_number: 2-5-6
+grade_level: 6
+pos: ""
+english:
+  - finally
+  - after all
+  - at last
+羅馬字: gyeng
+韓文: 경
+joyo_level: 表外字
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6266
+mc_id: 1029
+graphemic_classification: 會意
+stand_in: 竟
+aliases:
+注音: ㄍ˙ㄝㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,40 @@
+---
+mandarin:
+  - kàn
+cantonese:
+  - hon1
+korean:
+  - 간
+korean_native: ""
+japanese:
+  - KAN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: ɑn
+stroke_count: 9
+radical: 目
+skip_number: 3-4-5
+grade_level: 2
+pos: ""
+english:
+  - watch over
+  - look after
+  - watch
+羅馬字: kan
+韓文: 칸
+joyo_level: "6"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 2179
+mc_id: 6498
+graphemic_classification: 會意
+stand_in: 看
+aliases:
+注音: ㄎㄚㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,41 @@
+---
+mandarin:
+  - bǐ
+cantonese:
+  - bei2
+korean:
+  - 비
+korean_native: ""
+japanese:
+  - HI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: b
+middle_chinese_final: iɪ
+stroke_count: 4
+radical: 比
+skip_number: 1-2-2
+grade_level: "2"
+pos: ""
+english:
+  - than
+  - compared too
+羅馬字: bii
+韓文:  븨
+joyo_level: "5"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 2147
+mc_id: 426
+graphemic_classification: 會意
+stand_in: 比
+aliases:
+  - 譬
+注音: ㄅㄧ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+1326

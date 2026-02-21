@@ -1,0 +1,38 @@
+---
+mandarin:
+  - chūn
+cantonese:
+  - ceon1
+korean:
+  - 춘
+korean_native: ""
+japanese:
+  - SHUN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡ɕʰ
+middle_chinese_final: iuɪn
+stroke_count: "9"
+radical: 日
+skip_number: 2-5-4
+grade_level: 1
+pos: ""
+english:
+  - springtime
+羅馬字: cun
+韓文:  춘
+joyo_level: "2"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 166
+mc_id: 211
+graphemic_classification: 屯
+stand_in: 春
+aliases:
+注音: ㄑㄨㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

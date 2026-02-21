@@ -1,0 +1,43 @@
+---
+mandarin:
+  - qiáo
+cantonese:
+  - kiu4
+korean:
+  - 교
+korean_native: 다리
+japanese:
+  - KYOU
+  - KOU
+japanese_nanori: はし
+vietnamese:
+  - kiều, cầu, kéo, kèo
+middle_chinese_initial: g
+middle_chinese_final: ɣiᴇu
+stroke_count: "16"
+radical: 木
+skip_number: 1-4-12
+grade_level: 1
+pos: 名詞
+english:
+  - bridge
+  - beam
+羅馬字: gyau
+韓文:  걋
+joyo_level: "3"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 247
+mc_id: 1825
+graphemic_classification: 喬
+stand_in: 橋
+aliases:
+  - 桥
+注音: ㄍ˙ㄚˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+[[木 (char)]] + [[喬]]

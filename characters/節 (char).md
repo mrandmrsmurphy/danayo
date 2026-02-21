@@ -1,0 +1,43 @@
+---
+mandarin:
+  - jié
+cantonese:
+  - zit3
+korean:
+  - 절
+korean_native: ""
+japanese:
+  - SETSU
+  - SECHI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡s
+middle_chinese_final: et
+stroke_count: 13
+radical: 竹
+skip_number: 2-6-7
+grade_level: 2
+pos: ""
+english:
+  - node
+  - knuckle
+  - joint
+  - holiday
+羅馬字: jed
+韓文: 젇
+joyo_level: "4"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 2193
+mc_id: 295
+graphemic_classification: 即
+stand_in: 節
+aliases:
+  - 节
+注音: ㄐㄝㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

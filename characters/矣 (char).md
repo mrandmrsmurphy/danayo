@@ -1,0 +1,40 @@
+---
+mandarin:
+  - yǐ
+cantonese:
+  - ji5
+korean:
+  - 의
+korean_native: ""
+japanese:
+  - I
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: h
+middle_chinese_final: ɣɛi
+stroke_count: 7
+radical: 矢
+skip_number: 2-2-5
+grade_level: 先進
+pos: ""
+english:
+  - hey
+  - why? (ancient)
+羅馬字: ei
+韓文: 에
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 7274
+mc_id: 49
+graphemic_classification: 厶
+stand_in: 矣
+aliases:
+  - 欸
+注音: ㄝ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

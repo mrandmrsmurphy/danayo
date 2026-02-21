@@ -1,0 +1,42 @@
+---
+mandarin:
+  - dōng
+cantonese:
+  - dung1
+korean:
+  - 동
+korean_native: ""
+japanese:
+  - TOU
+japanese_nanori: ""
+vietnamese:
+  - đông
+middle_chinese_initial: t
+middle_chinese_final: uoŋ
+stroke_count: 5
+radical: 冫
+skip_number: 2-3-2
+grade_level: "1"
+pos: ""
+english:
+  - winter
+羅馬字: tong
+韓文: 통
+joyo_level: "2"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 60
+mc_id: 364
+graphemic_classification: 冬
+stand_in: 冬
+aliases:
+  - 昸
+  - 㫡
+  - 鼕
+注音: ㄊㄛㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

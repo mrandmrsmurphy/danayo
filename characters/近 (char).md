@@ -1,0 +1,40 @@
+---
+mandarin:
+  - jìn
+cantonese:
+  - gan6
+korean:
+  - 근
+korean_native: ""
+japanese:
+  - KIN
+  - KON
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: g
+middle_chinese_final: ɨn
+stroke_count: "7"
+radical: 辵
+skip_number: 3-3-4
+grade_level: 1
+pos: ""
+english:
+  - near
+羅馬字: gin
+韓文:  긴
+joyo_level: "2"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 115
+mc_id: 501
+graphemic_classification: 斤
+stand_in: 近
+aliases:
+  - 𫙧
+注音: ㄍㄧㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

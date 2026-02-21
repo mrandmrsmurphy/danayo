@@ -1,0 +1,38 @@
+---
+mandarin:
+  - yǒng
+cantonese:
+  - wing6
+korean:
+  - 영
+korean_native: ""
+japanese:
+  - EI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: 0
+middle_chinese_final: wɣiæŋ
+stroke_count: 8
+radical: 水
+skip_number: 1-3-5
+grade_level: "3"
+pos: ""
+english:
+  - swim
+羅馬字: wing
+韓文: 윙
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 3176
+mc_id: 5141
+graphemic_classification: 永
+stand_in: 泳
+aliases:
+注音: ˇㄧㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

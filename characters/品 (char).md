@@ -1,0 +1,40 @@
+---
+mandarin:
+  - pǐn
+cantonese:
+  - ban2
+korean:
+  - 품
+korean_native: ""
+japanese:
+  - HIN
+  - HON
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: pʰ
+middle_chinese_final: ɣiɪm
+stroke_count: 9
+radical: 口
+skip_number: 2-3-6
+grade_level: 3
+pos: ""
+english:
+  - article
+  - item
+羅馬字: pum
+韓文: 품
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3059
+mc_id: 1854
+graphemic_classification: 指事
+stand_in: 品
+aliases:
+注音: ㄆㄨㄇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

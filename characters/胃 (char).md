@@ -1,0 +1,39 @@
+---
+mandarin:
+  - wèi
+cantonese:
+  - wai6
+korean:
+  - 위
+korean_native: ""
+japanese:
+  - I
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: 0
+middle_chinese_final: ʉi
+stroke_count: 9
+radical: 肉
+skip_number: 2-5-4
+grade_level: 4
+pos: ""
+english:
+  - stomach
+  - gizzard
+羅馬字: wi
+韓文: 위
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 4225
+mc_id: 1203
+graphemic_classification: 象形
+stand_in: 胃
+aliases:
+注音: ㄨ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

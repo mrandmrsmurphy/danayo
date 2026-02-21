@@ -1,0 +1,38 @@
+---
+mandarin:
+  - wěi
+cantonese:
+  - mei5
+korean:
+  - 미
+korean_native: ""
+japanese:
+  - BI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: m
+middle_chinese_final: ʉi
+stroke_count: 7
+radical: 尸
+skip_number: 3-3-4
+grade_level: 4
+pos: ""
+english:
+  - tail
+羅馬字: mui
+韓文: 뮈
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 4084
+mc_id: 1232
+graphemic_classification: 會意
+stand_in: 尾
+aliases:
+注音: ㄇㄨ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

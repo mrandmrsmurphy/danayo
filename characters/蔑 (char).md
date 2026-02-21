@@ -1,0 +1,40 @@
+---
+mandarin:
+  - miè
+cantonese:
+  - mit6
+korean:
+  - 멸
+korean_native: ""
+japanese:
+  - BETSU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: m
+middle_chinese_final: et
+stroke_count: 14
+radical: 艸
+skip_number: 2-3-11
+grade_level: 6
+pos: ""
+english:
+  - scorn
+羅馬字: med
+韓文: 먿
+joyo_level: 表外字
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6235
+mc_id: 2221
+graphemic_classification: 會意
+stand_in: 蔑
+aliases:
+  - 蔑
+  - 衊
+注音: ㄇㄝㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

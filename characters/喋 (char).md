@@ -1,0 +1,40 @@
+---
+mandarin:
+  - dié
+cantonese:
+  - dip6
+korean:
+  - 첩
+korean_native: ""
+japanese:
+  - CHOU
+  - TOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: d
+middle_chinese_final: ep
+stroke_count: "12"
+radical: 口
+skip_number: 1-3-9
+grade_level: 先進
+pos: ""
+english:
+  - chatter
+  - babble
+羅馬字: deb
+韓文: 덥
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: 無
+danayo_id: 7140
+mc_id: 4282
+graphemic_classification: 枼
+stand_in: 喋
+aliases:
+注音: ㄉㄝㄆ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

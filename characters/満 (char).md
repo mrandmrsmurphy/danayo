@@ -1,0 +1,39 @@
+---
+mandarin:
+  - mǎn
+cantonese:
+  - mun5
+korean:
+korean_native: ""
+japanese:
+  - MAN
+  - BAN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: m
+middle_chinese_final: uɑn
+stroke_count: 12
+radical: 水
+skip_number: 1-3-9
+grade_level: "2"
+pos: ""
+english:
+  - full
+羅馬字: man
+韓文: 만
+joyo_level: "4"
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 2159
+mc_id: 697
+graphemic_classification: 㒼
+stand_in: 満
+aliases:
+  - 滿
+注音: ㄇㄚㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,38 @@
+---
+mandarin:
+  - guì
+cantonese:
+  - gwai6
+korean:
+  - 궤
+korean_native: ""
+japanese:
+  - KI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: ɣiuᴇ
+stroke_count: 13
+radical: 足
+skip_number: 1-7-6
+grade_level: 先進
+pos: ""
+english:
+  - kneel
+羅馬字: kwei
+韓文: 퀘
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 無
+danayo_id: 7319
+mc_id: 1976
+graphemic_classification: 危
+stand_in: 跪
+aliases:
+注音: ㄎˇㄝ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,39 @@
+---
+mandarin:
+  - mù
+cantonese:
+  - muk6
+korean:
+  - 목
+korean_native: ""
+japanese:
+  - MOKU
+  - BOKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: m
+middle_chinese_final: ɨuk
+stroke_count: 5
+radical: 目
+skip_number: 3-3-2
+grade_level: "1"
+pos: ""
+english:
+  - eye
+羅馬字: mug
+韓文: 묵
+joyo_level: "1"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 56
+mc_id: 462
+graphemic_classification: 象形
+stand_in: 目
+aliases:
+注音: ㄇㄨㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

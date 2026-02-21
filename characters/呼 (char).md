@@ -1,0 +1,41 @@
+---
+mandarin:
+  - hū
+cantonese:
+  - fu1
+korean:
+  - 호
+korean_native: ""
+japanese:
+  - KO
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: h
+middle_chinese_final: uo
+stroke_count: "8"
+radical: 口
+skip_number: 1-3-5
+grade_level: 3
+pos: ""
+english:
+  - call
+  - shout
+  - exhale
+羅馬字: ho
+韓文: 호
+joyo_level: "6"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3056
+mc_id: 802
+graphemic_classification: 乎
+stand_in: 呼
+aliases:
+  - 謼
+注音: ㄏㄛ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

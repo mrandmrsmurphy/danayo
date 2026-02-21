@@ -1,0 +1,43 @@
+---
+mandarin:
+  - nèn
+cantonese:
+  - nyun6
+korean:
+  - 눈
+korean_native: ""
+japanese:
+  - DON
+  - NON
+  - ZEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: n
+middle_chinese_final: uən
+stroke_count: "14"
+radical: 女
+skip_number: 1-3-11
+grade_level: 先進
+pos: ""
+english:
+  - delicate
+  - tender
+羅馬字: non
+韓文: 논
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7203
+mc_id: 9163
+graphemic_classification: 而
+stand_in: 嫩
+aliases:
+  - 嫰
+  - 媆
+注音: ㄋㄛㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

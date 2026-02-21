@@ -1,0 +1,44 @@
+---
+mandarin:
+  - xùn
+cantonese:
+  - fan3
+korean:
+  - 훈
+korean_native: ""
+japanese:
+  - KUN
+  - KIN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: x
+middle_chinese_final: ɨun
+stroke_count: 10
+radical: 言
+skip_number: 1-7-3
+grade_level: 4
+pos: ""
+english:
+  - interpret
+  - translate
+  - paraphrase
+  - explicate
+  - exegete
+羅馬字: hun
+韓文: 훈
+joyo_level: "4"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 4250
+mc_id: 1273
+graphemic_classification: 川
+stand_in: 訓
+aliases:
+  - 训
+注音: ㄏㄨㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

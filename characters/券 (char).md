@@ -1,0 +1,40 @@
+---
+mandarin:
+  - quàn
+cantonese:
+  - hyun3
+korean:
+  - 권
+korean_native: ""
+japanese:
+  - KEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: ʉɐn
+stroke_count: 12
+radical: 刀
+skip_number: 2-6-6
+grade_level: 6
+pos: ""
+english:
+  - bond
+  - certificate
+羅馬字: kon
+韓文: 콘
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 無
+danayo_id: 6144
+mc_id: 3332
+graphemic_classification: 巻
+stand_in: 券
+aliases:
+  - 劵
+注音: ㄎㄛㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

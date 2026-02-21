@@ -1,0 +1,39 @@
+---
+mandarin:
+  - lì
+cantonese:
+  - lap6
+korean:
+  - 립
+korean_native: ""
+japanese:
+  - RITSU
+  - RYUU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: iɪp
+stroke_count: 5
+radical: 立
+skip_number: 2-2-3
+grade_level: "1"
+pos: ""
+english:
+  - stand
+羅馬字: lib
+韓文: 립
+joyo_level: "1"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 73
+mc_id: 92
+graphemic_classification: 象形
+stand_in: 立
+aliases:
+注音: ㄌㄧㄆ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

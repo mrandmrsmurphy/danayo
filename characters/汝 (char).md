@@ -1,0 +1,38 @@
+---
+mandarin:
+  - rǔ
+cantonese:
+  - jyu5
+korean:
+  - 여
+korean_native: ""
+japanese:
+  - JO
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ȵ
+middle_chinese_final: ɨʌ
+stroke_count: "6"
+radical: 水
+skip_number: 1-3-3
+grade_level: 6
+pos: ""
+english:
+  - you dear
+羅馬字: noi
+韓文: 뇌
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 6454
+mc_id: 686
+graphemic_classification: 女
+stand_in: 汝
+aliases:
+注音: ㄋㄛ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

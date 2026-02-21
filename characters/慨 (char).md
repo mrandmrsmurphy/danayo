@@ -1,0 +1,39 @@
+---
+mandarin:
+  - kǎi
+cantonese:
+  - koi3
+korean:
+  - 개
+korean_native: ""
+japanese:
+  - GAI
+  - KAI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: ʌi
+stroke_count: "13"
+radical: 心
+skip_number: 1-3-10
+grade_level: 6
+pos: ""
+english:
+  - sigh
+羅馬字: kai
+韓文: 캐
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6446
+mc_id: 2767
+graphemic_classification: 既
+stand_in: 慨
+aliases:
+注音: ㄎㄚ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,39 @@
+---
+mandarin:
+  - zuó
+cantonese:
+  - zok6
+korean:
+  - 작
+korean_native: ""
+japanese:
+  - SAKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: d͡z
+middle_chinese_final: ɑk
+stroke_count: 9
+radical: 日
+skip_number: 1-4-5
+grade_level: 2
+pos: ""
+english:
+  - last
+  - previous
+羅馬字: jag
+韓文: 작
+joyo_level: "4"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 2123
+mc_id: 3844
+graphemic_classification: 乍
+stand_in: 昨
+aliases:
+注音: ㄐㄚㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

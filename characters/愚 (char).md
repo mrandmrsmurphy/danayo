@@ -1,0 +1,38 @@
+---
+mandarin:
+  - yú
+cantonese:
+  - jyu4
+korean:
+  - 우
+korean_native: ""
+japanese:
+  - GU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ŋ
+middle_chinese_final: ɨo
+stroke_count: 13
+radical: 心
+skip_number: 2-9-4
+grade_level: 5
+pos: ""
+english:
+  - foolish
+羅馬字: "'u"
+韓文: 우
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5042
+mc_id: 725
+graphemic_classification: 禺
+stand_in: 愚
+aliases:
+注音: ㄨ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

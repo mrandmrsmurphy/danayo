@@ -1,0 +1,39 @@
+---
+mandarin:
+  - shè
+cantonese:
+  - sip3
+korean:
+korean_native: ""
+japanese:
+  - SETSU
+  - JOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: n
+middle_chinese_final: ep
+stroke_count: "13"
+radical: 手
+skip_number: 1-3-10
+grade_level: 5
+pos: ""
+english:
+  - vicarious
+羅馬字: neb
+韓文: 넙
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 5108
+mc_id: 1382
+graphemic_classification: 耳
+stand_in: 摂
+aliases:
+  - 攝
+注音: ㄋㄝㄆ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

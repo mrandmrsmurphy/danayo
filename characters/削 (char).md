@@ -1,0 +1,41 @@
+---
+mandarin:
+  - xuē
+cantonese:
+  - soek3
+korean:
+  - 삭
+korean_native: ""
+japanese:
+  - SAKU
+  - SHOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: s
+middle_chinese_final: ɨɐk
+stroke_count: 11
+radical: 刀
+skip_number: 1-9-2
+grade_level: 5
+pos: ""
+english:
+  - scrape
+  - whittle
+  - trim
+羅馬字: syag
+韓文: 샥
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5029
+mc_id: 1182
+graphemic_classification: 肖
+stand_in: 削
+aliases:
+注音: ㄙ˙ㄚㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

@@ -1,0 +1,39 @@
+---
+mandarin:
+  - kǔ
+cantonese:
+  - fu2
+korean:
+  - 고
+korean_native: ""
+japanese:
+  - KU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: uo
+stroke_count: "8"
+radical: 艸
+skip_number: 2-3-5
+grade_level: 1
+pos: ""
+english:
+  - suffering
+  - bitter
+羅馬字: ko
+韓文: 코
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 143
+mc_id: 622
+graphemic_classification: 古
+stand_in: 苦
+aliases:
+注音: ㄎㄛ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

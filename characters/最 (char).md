@@ -1,0 +1,38 @@
+---
+mandarin:
+  - zuì
+cantonese:
+  - zeoi3
+korean:
+  - 최
+korean_native: ""
+japanese:
+  - SAI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡s
+middle_chinese_final: uɑi
+stroke_count: 12
+radical: 曰
+skip_number: 2-4-8
+grade_level: 2
+pos: ""
+english:
+  - most
+羅馬字: jwe
+韓文: 줘
+joyo_level: "4"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 2129
+mc_id: 1207
+graphemic_classification: 會意
+stand_in: 最
+aliases:
+注音: ㄐˇㄝ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

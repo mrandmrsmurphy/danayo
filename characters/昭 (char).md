@@ -1,0 +1,39 @@
+---
+mandarin:
+  - zhāo
+cantonese:
+  - ciu1
+korean:
+  - 소
+korean_native: ""
+japanese:
+  - SHOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡ɕ
+middle_chinese_final: iᴇu
+stroke_count: 9
+radical: 日
+skip_number: 1-4-5
+grade_level: 6
+pos: ""
+english:
+  - shine
+  - luminous
+羅馬字: jou
+韓文: 좃
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 6322
+mc_id: 393
+graphemic_classification: 召
+stand_in: 昭
+aliases:
+注音: ㄐㄛˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

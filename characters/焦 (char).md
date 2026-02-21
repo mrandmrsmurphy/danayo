@@ -1,0 +1,39 @@
+---
+mandarin:
+  - jiāo
+cantonese:
+  - ziu1
+korean:
+  - 초
+korean_native: ""
+japanese:
+  - SHOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡s
+middle_chinese_final: iᴇu
+stroke_count: 12
+radical: 火
+skip_number: 2-8-4
+grade_level: 6
+pos: ""
+english:
+  - burned
+  - scorched
+羅馬字: jou
+韓文: 좃
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6223
+mc_id: 1438
+graphemic_classification: 會意
+stand_in: 焦
+aliases:
+注音: ㄐㄛˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

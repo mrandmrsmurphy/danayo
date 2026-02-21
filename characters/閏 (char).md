@@ -1,0 +1,39 @@
+---
+mandarin:
+  - rùn
+cantonese:
+  - jeon6
+korean:
+  - 윤
+korean_native: ""
+japanese:
+  - JUN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ȵ
+middle_chinese_final: iuɪn
+stroke_count: "12"
+radical: 門
+skip_number: 3-8-4
+grade_level: 先進
+pos: ""
+english:
+  - intercalary
+羅馬字: nun
+韓文: 눈
+joyo_level: 日本人名用漢字
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 7147
+mc_id: 1628
+graphemic_classification: 會意
+stand_in: 閏
+aliases:
+  - 闰
+注音: ㄋㄨㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

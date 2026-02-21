@@ -1,0 +1,42 @@
+---
+mandarin:
+  - hè
+cantonese:
+  - hot3
+korean:
+  - 갈
+korean_native: ""
+japanese:
+  - KATSU
+  - KACHI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɣ
+middle_chinese_final: ɑt
+stroke_count: 13
+radical: 衣
+skip_number: 1-5-8
+grade_level: 6
+pos: ""
+english:
+  - brown
+  - dull
+  - dark
+羅馬字: had
+韓文: 핟
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6014
+mc_id: 2411
+graphemic_classification: 喝
+stand_in: 褐
+aliases:
+  - 竭
+注音: ㄏㄚㄊ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

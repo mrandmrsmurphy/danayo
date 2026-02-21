@@ -1,0 +1,47 @@
+---
+mandarin:
+  - èr
+cantonese:
+  - ji6
+korean:
+  - 이
+korean_native: ""
+japanese:
+  - NI
+  - JI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ȵ
+middle_chinese_final: iɪ
+stroke_count: 12
+radical: 貝
+skip_number: 3-3-9
+grade_level: "6"
+pos: ""
+english:
+  - disloyal
+  - betray
+羅馬字: nii
+韓文: 늬
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6418
+mc_id: 1301
+graphemic_classification: 弍
+stand_in: 貳
+aliases:
+  - 贰
+  - 貮
+  - 弐
+注音: ㄋㄧ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+## Notes
+[[Radical 154]] – 貝/shell – has "two" above it and is surrounded by Radical 56, the shoot.  There is, therefore a SURROUNDING component of 3 strokes, and an inner component of 8 strokes, hence [[SKIP-3-3-8]].  This was originally a phono-semantic compound (形聲 / 形声, OC \*njis): semantic 貝 + phonetic 弍 (OC \*njis, “two”).  A "secondary" or "assistant" with respect to money might be "unfaithful" or "disloyal" (for a price).  It has also long been a financial alternative for plain "two"/二.
+
+## Words
+1. 貳臣 was A) an official who retained his position after capitulating to the new dynasty; a turncoat official; or B) a rebel; someone who had rebellious thoughts or behavior.

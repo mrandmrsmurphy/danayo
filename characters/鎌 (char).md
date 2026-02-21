@@ -1,0 +1,39 @@
+---
+mandarin:
+  - lián
+cantonese:
+  - lim4
+korean:
+  - 겸
+korean_native: ""
+japanese:
+  - REN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: iᴇm
+stroke_count: 18
+radical: 金
+skip_number: 1-8-10
+grade_level: 先進
+pos: ""
+english:
+  - sickle
+羅馬字: lem
+韓文: 럼
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7263
+mc_id: 4747
+graphemic_classification: 兼
+stand_in: 鎌
+aliases:
+  - 𰾮
+注音: ㄌㄝㄇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

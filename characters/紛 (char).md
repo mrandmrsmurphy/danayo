@@ -1,0 +1,40 @@
+---
+mandarin:
+  - fēn
+cantonese:
+  - fan1
+korean:
+  - 분
+korean_native: ""
+japanese:
+  - FUN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: pʰ
+middle_chinese_final: ɨun
+stroke_count: "10"
+radical: 糸
+skip_number: 1-6-4
+grade_level: 5
+pos: ""
+english:
+  - numerous
+  - disorderly
+羅馬字: pun
+韓文: 푼
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5271
+mc_id: 1601
+graphemic_classification: 分
+stand_in: 紛
+aliases:
+  - 纷
+注音: ㄆㄨㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

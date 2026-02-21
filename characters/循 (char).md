@@ -1,0 +1,40 @@
+---
+mandarin:
+  - xún
+cantonese:
+  - ceon4
+korean:
+  - 순
+korean_native: ""
+japanese:
+  - JUN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: z
+middle_chinese_final: iuɪn
+stroke_count: "12"
+radical: 彳
+skip_number: 1-3-9
+grade_level: 5
+pos: ""
+english:
+  - to abide by
+  - to follow
+  - to comply with
+羅馬字: syun
+韓文: 슌
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5022
+mc_id: 978
+graphemic_classification: 盾
+stand_in: 循
+aliases:
+注音: ㄙ˙ㄨㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

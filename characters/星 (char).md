@@ -1,0 +1,50 @@
+---
+mandarin:
+  - xīng
+cantonese:
+  - sing1
+korean:
+  - 성
+korean_native: 별
+japanese:
+  - SEI
+  - SHOU
+japanese_nanori: ほし
+vietnamese:
+  - tinh
+middle_chinese_initial: s
+middle_chinese_final: eŋ
+stroke_count: 9
+radical: 日
+skip_number: 2-4-5
+grade_level: 3
+pos: 名詞
+english:
+  - star
+羅馬字: seng
+韓文: 성
+joyo_level: "2"
+hsk_level: "4"
+hanmun_edu_level: 中
+danayo_id: 3151
+mc_id: 437
+graphemic_classification: 生
+stand_in: 星
+aliases:
+  - 曐
+  - 𠻖
+  - 𤯢
+  - 皨
+  - 𤾪
+swadesh: "149"
+注音: ㄙㄝㄥ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
+- stacked [[Radical 072|日]] + [[生]] = [[SKIP-2-4-5]] ([[Stroke 09]]).
+- Japanese [[Jōyō - Kyōiku|second grade]], [[Korean MS]], [[HSK Beginner]].
+- Swadesh #149
+- Derived characters: 惺, 湦, [[猩]], 暒, 煋, 瑆, 腥, 睲, 䃏, 䗌, 謃, [[醒]], 鍟 (𰾝), 鯹 (𬶢), 戥, 篂

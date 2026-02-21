@@ -1,0 +1,40 @@
+---
+mandarin:
+  - jiàn
+cantonese:
+  - gin6
+korean:
+  - 건
+korean_native: ""
+japanese:
+  - KEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: g
+middle_chinese_final: ɣiᴇn
+stroke_count: 17
+radical: 金
+skip_number: 1-8-9
+grade_level: "6"
+pos: ""
+english:
+  - key
+羅馬字: gyen
+韓文: 견
+joyo_level: 表外字
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6282
+mc_id: 4371
+graphemic_classification: 建
+stand_in: 鍵
+aliases:
+  - 騫
+  - 键
+注音: ㄍ˙ㄝㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

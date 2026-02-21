@@ -1,0 +1,40 @@
+---
+mandarin:
+  - zuì
+cantonese:
+  - zeoi6
+korean:
+  - 죄
+korean_native: ""
+japanese:
+  - ZAI
+  - SAI
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: d͡z
+middle_chinese_final: uʌi
+stroke_count: 13
+radical: 网
+skip_number: 2-5-8
+grade_level: 3
+pos: ""
+english:
+  - sin
+  - crime
+羅馬字: joi
+韓文: 죄
+joyo_level: "5"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3221
+mc_id: 216
+graphemic_classification: 會意
+stand_in: 罪
+aliases:
+注音: ㄐㄛ˙
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

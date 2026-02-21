@@ -1,0 +1,39 @@
+---
+mandarin:
+  - fān
+cantonese:
+  - faan1
+korean:
+  - 번
+korean_native: ""
+japanese:
+  - HON
+  - HAN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: pʰ
+middle_chinese_final: ʉɐn
+stroke_count: "18"
+radical: 羽
+skip_number: 1-12-6
+grade_level: 4
+pos: ""
+english:
+  - flip
+羅馬字: pon
+韓文: 폰
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 4219
+mc_id: 4924
+graphemic_classification: 番
+stand_in: 翻
+aliases:
+注音: ㄆㄛㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

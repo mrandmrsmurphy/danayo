@@ -1,0 +1,39 @@
+---
+mandarin:
+  - lüè
+cantonese:
+  - loek6
+korean:
+  - 략
+korean_native: ""
+japanese:
+  - RYAKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: l
+middle_chinese_final: ɨɐk
+stroke_count: 11
+radical: 田
+skip_number: 1-5-6
+grade_level: 4
+pos: ""
+english:
+  - abbreviate
+  - plan
+羅馬字: lyag
+韓文: 략
+joyo_level: "5"
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 4186
+mc_id: 859
+graphemic_classification: 各
+stand_in: 略
+aliases:
+注音: ㄌ˙ㄚㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

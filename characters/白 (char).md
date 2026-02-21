@@ -1,0 +1,39 @@
+---
+mandarin:
+  - bái
+cantonese:
+  - baak6
+korean:
+  - 백
+korean_native: ""
+japanese:
+  - HAKU
+  - BYAKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: b
+middle_chinese_final: ɣæk
+stroke_count: "5"
+radical: 白
+skip_number: 4-5-2
+grade_level: 1
+pos: ""
+english:
+  - white
+羅馬字: bag
+韓文:  박
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 中
+danayo_id: 71
+mc_id: 267
+graphemic_classification: 象形
+stand_in: 白
+aliases:
+注音: ㄅㄚㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

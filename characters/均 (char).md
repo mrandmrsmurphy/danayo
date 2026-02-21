@@ -1,0 +1,41 @@
+---
+mandarin:
+  - jūn
+cantonese:
+  - gwan1
+korean:
+  - 균
+korean_native: ""
+japanese:
+  - KIN
+  - IN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: k
+middle_chinese_final: iuɪn
+stroke_count: "7"
+radical: 土
+skip_number: 1-3-4
+grade_level: 3
+pos: ""
+english:
+  - equal
+  - even
+  - uniform
+羅馬字: gyun
+韓文: 균
+joyo_level: "5"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3064
+mc_id: 1164
+graphemic_classification: 勻
+stand_in: 均
+aliases:
+注音: ㄍ˙ㄨㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

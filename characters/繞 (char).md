@@ -1,0 +1,42 @@
+---
+mandarin:
+  - rào
+cantonese:
+  - jiu5
+korean:
+  - 요
+korean_native: ""
+japanese:
+  - JOU
+  - NYOU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ȵ
+middle_chinese_final: iᴇu
+stroke_count: 18
+radical: 糸
+skip_number: 1-6-12
+grade_level: 先進
+pos: ""
+english:
+  - entwine
+  - surround
+  - enclose
+羅馬字: nou
+韓文: 놋
+joyo_level: ""
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 7295
+mc_id: 2690
+graphemic_classification: 堯
+stand_in: 繞
+aliases:
+  - 绕
+注音: ㄋㄛˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

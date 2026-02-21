@@ -1,0 +1,40 @@
+---
+mandarin:
+  - diǎn
+cantonese:
+  - dim2
+korean:
+  - 점
+korean_native: ""
+japanese:
+  - TEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t
+middle_chinese_final: em
+stroke_count: "9"
+radical: 火
+skip_number: 2-5-4
+grade_level: 1
+pos: ""
+english:
+  - point
+羅馬字: dem
+韓文:  덤
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: ""
+danayo_id: 178
+mc_id: 3957
+graphemic_classification: 占
+stand_in: 点
+aliases:
+  - 點
+  - 奌
+注音: ㄉㄝㄇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

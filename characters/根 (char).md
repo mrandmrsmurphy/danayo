@@ -1,0 +1,39 @@
+---
+mandarin:
+  - gēn
+cantonese:
+  - gan1
+korean:
+  - 근
+korean_native: ""
+japanese:
+  - KON
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: k
+middle_chinese_final: ən
+stroke_count: 10
+radical: 木
+skip_number: 1-4-6
+grade_level: "1"
+pos: ""
+english:
+  - root
+  - foundation
+羅馬字: gan
+韓文:  간
+joyo_level: "3"
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 191
+mc_id: 1165
+graphemic_classification: 艮
+stand_in: 根
+aliases:
+注音: ㄍㄚㄋ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

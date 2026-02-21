@@ -1,0 +1,42 @@
+---
+mandarin:
+  - yóu
+cantonese:
+  - jau4
+korean:
+  - 유
+korean_native: ""
+japanese:
+  - YUU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: j
+middle_chinese_final: ɨu
+stroke_count: "12"
+radical: 犬
+skip_number: 1-3-9
+grade_level: 3
+pos: ""
+english:
+  - furthermore
+  - still
+  - yet
+羅馬字: yuu
+韓文: 윳
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: 中
+danayo_id: 3192
+mc_id: "271.3104"
+graphemic_classification: 酋
+stand_in: 猶
+aliases:
+  - 猷
+  - 犹
+注音: ˙ㄨˇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

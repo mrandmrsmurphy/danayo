@@ -1,0 +1,40 @@
+---
+mandarin:
+  - xiàn
+cantonese:
+  - haam6
+korean:
+korean_native: ""
+japanese:
+  - KAN
+  - KEN
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: ɦ
+middle_chinese_final: ɣɛm
+stroke_count: "10"
+radical: 阜
+skip_number: 1-3-7
+grade_level: 5
+pos: ""
+english:
+  - submerge
+羅馬字: ham
+韓文: 함
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 5099
+mc_id: 1157
+graphemic_classification: 會意
+stand_in: 陥
+aliases:
+  - 陷
+  - 臽
+注音: ㄏㄚㄇ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

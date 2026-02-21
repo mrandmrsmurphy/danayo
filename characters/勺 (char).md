@@ -1,0 +1,39 @@
+---
+mandarin:
+  - sháo
+cantonese:
+  - zoek3
+korean:
+  - 작
+korean_native: ""
+japanese:
+  - SHAKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: t͡ɕ
+middle_chinese_final: ɨɐk
+stroke_count: "3"
+radical: 勹
+skip_number: 3-2-1
+grade_level: 6
+pos: ""
+english:
+  - spoon
+  - laddle
+羅馬字: jwag
+韓文: 좍
+joyo_level: 高等
+hsk_level: ""
+hanmun_edu_level: ""
+danayo_id: 6157
+mc_id: 2644
+graphemic_classification: 象形
+stand_in: 勺
+aliases:
+注音: ㄐˇㄚㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes

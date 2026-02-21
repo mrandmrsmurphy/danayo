@@ -1,0 +1,39 @@
+---
+mandarin:
+  - kū
+cantonese:
+  - huk1
+korean:
+  - 곡
+korean_native: ""
+japanese:
+  - KOKU
+japanese_nanori: ""
+vietnamese:
+middle_chinese_initial: kʰ
+middle_chinese_final: uk
+stroke_count: 10
+radical: 口
+skip_number: 2-6-4
+grade_level: 5
+pos: ""
+english:
+  - cry
+  - weep
+羅馬字: kog
+韓文: 콕
+joyo_level: 表外字
+hsk_level: ""
+hanmun_edu_level: 高等
+danayo_id: 5097
+mc_id: 820
+graphemic_classification: 獄
+stand_in: 哭
+aliases:
+注音: ㄎㄛㄎ
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+# Notes
