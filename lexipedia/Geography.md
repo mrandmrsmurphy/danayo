@@ -25,12 +25,12 @@ Historically, imperial rule (<ruby>帝国<rt>ㄊㄝ˙ㄍㄛㄎ</rt></ruby>[[制�
 In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>共和<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
-Shared writing (<ruby>共通<rt>ㄍ˙ㄛㄥㄊㄛㄥ</rt></ruby>[[書記]]) and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[書記]][[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
+<ruby>共通<rt>ㄍ˙ㄛㄥㄊㄛㄥ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[文学]][[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
 
 ## 東南亜
-[[東南亜]] lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
+<ruby>東南亜<rt>ㄉㄛㄥㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
 The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[島嶼群]]) and straits ([[海峡]]) are common.  
-Maritime transport ([[海上]][[交通]]) forms an economic foundation ([[経済]][[基礎]]).
+<ruby>海上<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby><ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>) forms an economic foundation (<ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>基盤<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 
 Many states experienced colonial rule ([[殖民]][[統治]]) and later established independent states (独立<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures (政治体制) vary.
 
@@ -41,9 +41,9 @@ Many states experienced colonial rule ([[殖民]][[統治]]) and later establish
 - <ruby>寮国<rt>ㄌ˙ㄚˇㄍㄛㄎ</rt></ruby>
 - <ruby>馬来西亜<rt>ㄇㄚㄌㄚ˙ㄙㄝ˙·ㄚ</rt></ruby>
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
-- <ruby>[[印度尼西亜]]<rt>ㄧㄋㄉㄛㄋㄧ˙ㄙㄝ˙·ㄚ</rt></ruby>  
+- <ruby>印度尼西亜<rt>ㄧㄋㄉㄛㄋㄧ˙ㄙㄝ˙·ㄚ</rt></ruby>  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
-These states developed along maritime trade routes ([[海上]][[商路]]) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
+These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
 
 ## 南亜
 [[南亜]] centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
