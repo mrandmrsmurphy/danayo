@@ -1,7 +1,6 @@
 ---
 language: 単亜語
 ---
-
 ## 東亜
 
 <ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛˇ</rt></ruby>. Major states include 
@@ -45,7 +44,7 @@ Many states experienced colonial rule (殖民統治) and later established indep
 - <ruby>寮国<rt>ㄌ˙ㄚˇㄍㄛㄎ</rt></ruby>
 - <ruby>馬来西亜<rt>ㄇㄚㄌㄚ˙ㄙㄝ˙·ㄚ</rt></ruby>
 - Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
-- Indonesia ([[印度]][[尼]][[西]][[亜]])  
+- <ruby>[[印度尼西亜]]<rt>ㄧㄋㄉㄛㄋㄧ˙ㄙㄝ˙·ㄚ</rt></ruby>  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
 These states developed along maritime trade routes (海上商路) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
 
