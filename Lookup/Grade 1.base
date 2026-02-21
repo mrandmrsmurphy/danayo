@@ -22,9 +22,11 @@ views:
       - korean_native
       - mc_id
     sort:
-      - property: stand_in
-        direction: ASC
       - property: danayo_id
+        direction: ASC
+      - property: mc_id
+        direction: ASC
+      - property: stand_in
         direction: ASC
       - property: 羅馬字
         direction: DESC
@@ -43,12 +45,7 @@ views:
       note.danayo_id: 48
       note.date-last-perfect: 72
       note.english: 130
-      note.stroke_count: 33
-      note.middle_chinese_initial: 42
-      note.middle_chinese_final: 56
-      note.cantonese: 80
-      note.japanese: 134
       note.vietnamese: 153
       note.hanmun_edu_level: 58
-      note.graphemic_classification: 65
       note.japanese_nanori: 105
+      note.mc_id: 108

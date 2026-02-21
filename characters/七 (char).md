@@ -35,31 +35,32 @@ aliases:
   - 𠀁
   - 桼
 注音: ㄑㄧㄊ
+date-last-perfect: 2026-02-20
 ---
-> This is the page for the character 七, as opposed to the word [[七]] 'seven'
+> [!tip] This is the page for the character 七, as opposed to the word [[七]] 'seven'
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-### Numberal
+### Numeral
 - seven
 -   For anti-forgery purposes, use [[漆 (char)]]
 ### Words
-* <ruby>[[七十]]<rt>칟십</rt></ruby> - seventy
-* <ruby>[[七百]]<rt>칟박</rt></ruby> - seven hundred
-* <ruby>[[七千]]<rt>칟천</rt></ruby> - seven thousand
-* <ruby>[[七万]]<rt>칟몬</rt></ruby> - seventy thousand
-* <ruby>[[七日]]<rt>칟닏</rt></ruby> - seventh day of the month
-* <ruby>[[七月]]<rt>칟웓</rt></ruby> - July
-* <ruby>[[七夕]]<rt>칟석</rt></ruby> - Qixi (Chinese Valentines)
-* <ruby>[[七情]]<rt>칟칭</rt></ruby> - the Seven Emotions (traditional)
-* <ruby>[[七宝]]<rt>칟밧</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby>)
-* <ruby>[[七事]]<rt>칟지</rt></ruby> - Seven Duties of a Sovereign
-* <ruby>[[七対子]]<rt>칟되지</rt></ruby> - Seven Pairs (Majong)
-* <ruby>[[七面鳥]]<rt>칟면촛</rt></ruby> - turkey
-* <ruby>[[七曜]]<rt>칟욧</rt></ruby> - Seven Heavenly Bodies 
-* <ruby>[[七星]]<rt>칟성</rt></ruby> - Big Dipper
-* <ruby>[[七色]]<rt>칟식</rt></ruby> - ROYGBIV
-* <ruby>[[七角形]]<rt>칟곡헝</rt></ruby> - heptagon
+* <ruby>[[七十]]<rt>ㄑㄧㄊㄙㄧㄆ</rt></ruby> - seventy
+* <ruby>[[七百]]<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> - seven hundred
+* <ruby>[[七千]]<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> - seven thousand
+* <ruby>[[七万]]<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> - seventy thousand
+* <ruby>[[七日]]<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby> - seventh day of the month
+* <ruby>[[七月]]<rt>ㄑㄧㄊ·ˇㄝㄊ</rt></ruby> - July
+* <ruby>[[七夕]]<rt>ㄑㄧㄊㄙㄝㄎ</rt></ruby> - Qixi (Chinese Valentines)
+* <ruby>[[七情]]<rt>ㄑㄧㄊㄑㄧㄥ</rt></ruby> - the Seven Emotions (traditional)
+* <ruby>[[七宝]]<rt>ㄑㄧㄊㄅㄚˇ</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby>)
+* <ruby>[[七事]]<rt>ㄑㄧㄊㄐㄧ</rt></ruby> - Seven Duties of a Sovereign
+* <ruby>[[七対子]]<rt>ㄑㄧㄊㄉㄛ˙ㄐㄧ</rt></ruby> - Seven Pairs (Majong)
+* <ruby>[[七面鳥]]<rt>ㄑㄧㄊㄇ˙ㄝㄋㄑㄛˇ</rt></ruby> - turkey
+* <ruby>[[七曜]]<rt>ㄑㄧㄊ·˙ㄛˇ</rt></ruby> - Seven Heavenly Bodies 
+* <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄥ</rt></ruby> - Big Dipper
+* <ruby>[[七色]]<rt>ㄑㄧㄊㄙㄧㄎ</rt></ruby> - ROYGBIV
+* <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄥ</rt></ruby> - heptagon
 #### Check
 ```dataview
 table 韓文, english
@@ -69,7 +70,7 @@ sort file.name
 ```
 ### Etymologies
 Pictogram (象形) – a vertical stroke and a horizontal stroke bisecting each other – original character of [切] (Old Chinese @sn̥ʰiːds, @sn̥ʰiːd, “to cut”)
-- 七 + 刀 = <ruby>[[切]]<rt>첟</rt></ruby>
-- 七 + 口 = <ruby>[[叱]]<rt>칟</rt></ruby>
+- 七 + 刀 = <ruby>[[切]]<rt>ㄑㄝㄊ</rt></ruby>
+- 七 + 口 = <ruby>[[叱]]<rt>ㄑㄧㄊ</rt></ruby>
 ### Links
 ![[nav/Numerals]]
