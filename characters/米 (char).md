@@ -38,3 +38,5 @@ aliases:
 ```
 
 # Notes
+## Words
+- [[玄米]] - brown rice

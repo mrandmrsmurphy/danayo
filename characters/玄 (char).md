@@ -16,7 +16,7 @@ middle_chinese_final: wen
 stroke_count: 5
 radical: 玄
 skip_number: 2-2-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - deep
@@ -40,3 +40,6 @@ aliases:
 
 # Notes
 * [[Radical 095]] (玄)
+
+## Words
+- [[玄米]] - brown rice
