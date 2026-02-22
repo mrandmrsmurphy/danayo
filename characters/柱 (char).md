@@ -15,7 +15,7 @@ middle_chinese_final: ɨo
 stroke_count: 9
 radical: 木
 skip_number: 1-4-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - pillar
