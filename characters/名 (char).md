@@ -11,6 +11,7 @@ japanese:
   - MYOU
 japanese_nanori: ""
 vietnamese:
+  - danh
 middle_chinese_initial: m
 middle_chinese_final: iᴇŋ
 stroke_count: 6
