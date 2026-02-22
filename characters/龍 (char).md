@@ -5,11 +5,12 @@ cantonese:
   - lung4
 korean:
   - 룡
-korean_native: ""
+korean_native: 룡
 japanese:
   - RYUU
   - ROU
-japanese_nanori: ""
+japanese_nanori:
+  - たつ
 vietnamese:
   - long
 middle_chinese_initial: l
@@ -18,14 +19,14 @@ stroke_count: 16
 radical: 龍
 skip_number: 1-9-7
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - dragon
   - reptile
 羅馬字: lyong
 韓文: 룡
-joyo_level: ""
-hsk_level: ""
+joyo_level: "3"
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4312
 mc_id: 476
@@ -38,10 +39,31 @@ aliases:
   - 隴
   - 陇
   - 𨻫
+  - 㡣
+  - 䮾
+  - 𢅛
 注音: ㄌ˙ㄛㄥ
+date-last-perfect: 2026-02-22
+品詞: 名詞
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- While there are clearly parts ([[SKIP-1-9-7]])
+### Related Characters
+- 攏 forbidden
+- 寵 spoil, indulge
+- 聾 deaf
+- 朧 hazy, cloudy
+- 籠 basket
+- 龐 tall, huge
+## Words
+- [[烏龍]] - Wulong
+- [[地龍]] - earthworm
+- [[龍蝦]] - lobster
+- [[九龍]] - Kowloon
+- [[恐龍]] - dinosaur
+- [[烏龍茶]] - oolong tea
+- [[龍巻]] - tornado
