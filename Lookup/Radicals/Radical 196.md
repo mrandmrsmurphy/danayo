@@ -13,7 +13,7 @@ The bird radical, i.e. [[鳥 (char)]], a.k.a. 鸟.
 #### +5
 - <ruby>[[鴔]]<rt>빕</rt></ruby> - hoopoe
 - <ruby>[[鴛]]<rt>온</rt></ruby> - mallard
-- <ruby>[[鴦]]<rt>안</rt></ruby> - mandarin duck
+- <ruby>[[鴦]]<rt>ㄚㄥ</rt></ruby> - mandarin duck
 - <ruby>[[鴨 (char)]]<rt>압</rt></ruby> - duck
 #### +6
 - <ruby>[[鴻]]<rt>홍</rt></ruby> - swan
