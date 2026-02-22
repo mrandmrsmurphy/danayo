@@ -12,15 +12,15 @@ vietnamese:
   - thiên
 middle_chinese_initial: tʰ
 middle_chinese_final: en
-stroke_count: "4"
+stroke_count: 4
 radical: 大
 skip_number: 4-4-1
-grade_level: 1
+grade_level: "1"
 pos: 名詞
 english:
   - sky
 羅馬字: ten
-韓文:  턴
+韓文: 턴
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
