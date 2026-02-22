@@ -12,7 +12,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ɣa
-stroke_count: "4"
+stroke_count: 4
 radical: 已
 skip_number: 4-4-1
 grade_level: 先進
