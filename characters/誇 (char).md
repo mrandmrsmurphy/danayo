@@ -17,7 +17,7 @@ middle_chinese_final: ɣua
 stroke_count: 13
 radical: 言
 skip_number: 1-7-6
-grade_level: 6
+grade_level: "6"
 pos: 性詞
 english:
   - boast
@@ -42,4 +42,4 @@ aliases:
 
 # Notes
 - [[Radical 149|言]] + [[誇|夸]] = [[SKIP-1-7-6]] ([[Stroke 13]])
-- [[Jōyō - Kōtō|Japanese HS]], [[Korean HS]], HSK 4, [[Grade 6]]
+- [[Jōyō - Kōtō|Japanese HS]], [[Korean HS]], HSK 4, [[Grade 6.base]]

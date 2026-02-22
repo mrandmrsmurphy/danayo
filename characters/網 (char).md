@@ -47,5 +47,5 @@ date-last-perfect: 2026-02-06
 
 # Notes
 - 形声: [[Radical 120|糸]] + <ruby>[[罔]]<rt>ㄇㄚㄥ</rt></riby> = [[SKIP-3-2-4]] ([[Stroke 06]])
-- [[HSK Beginner]], [[Jōyō - Kōtō]], [[Korean Name ㅁ]], [[Grade 6]]
+- [[HSK Beginner]], [[Jōyō - Kōtō]], [[Korean Name ㅁ]], [[Grade 6.base]]
 - 

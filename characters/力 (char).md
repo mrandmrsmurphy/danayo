@@ -41,4 +41,16 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- [[SKIP-4-2-4]] ([[Stroke 02]]) [[ㄌㄧㄎ]]
+- [[Grade 1.base]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Korean MS]]
+## Words
+- [[勢力]] - power
+- [[協力]] - work together
+- [[威力]] - might
+- [[麻力]] - magical power
+- [[独力]] - alone
+- [[尽力]] - exert oneself
+- [[実力]] - strength
+## Chengyu
+- [[心性意力]] - "heart, soul, mind, and strength"
