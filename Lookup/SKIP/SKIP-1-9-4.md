@@ -27,5 +27,5 @@
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
-WHERE skip_number = "1-6-2"
+WHERE skip_number = "1-9-4"
 SORT file.name ASC

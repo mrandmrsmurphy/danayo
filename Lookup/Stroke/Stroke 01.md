@@ -1,7 +1,10 @@
+---
+date-last-perfect: 2026-02-22
+---
 > [[Stroke]]
 
-- <ruby>[[一 (char)|一]]<rt>읻</rt></ruby>
-- <ruby>[[乙 (char)]]<rt>옫</rt></ruby>
+- <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby>
+- <ruby>[[乙 (char)|乙]]<rt>ㄛㄊ</rt></ruby>
 
 These are all alias of other things:
 - 丨
