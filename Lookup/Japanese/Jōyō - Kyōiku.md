@@ -73,7 +73,7 @@ The following prefecture names were added in 2017
 68. [[火]] : ka (hi)    
 69. [[玉]] : gyoku (tama)    
 70. [[王]] : ō (kimi)    
-71. [[石]] : seki (ishi)    
+71. [[石 (char)]] : seki (ishi)    
 72. [[竹]] : chiku (take)    
 73. [[糸]] : shi (ito)    
 74. [[貝]] : bai (kai)    

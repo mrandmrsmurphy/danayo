@@ -19,7 +19,6 @@ grade_level: 先進
 pos: ""
 english:
   - hey
-  - why? (ancient)
 羅馬字: ei
 韓文: 에
 joyo_level: ""
