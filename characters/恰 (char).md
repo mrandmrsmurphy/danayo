@@ -40,4 +40,4 @@ aliases:
 
 # Notes
 - [[Radical 061|忄]] + [[合]] = [[SKIP-1-3-6]] ([[Stroke 09]])
-- [[Korean Name ㅎ]], [[Jinmeiyō]], HSK 3, [[Advanced Grade]]
+- [[Korean Name ㅎ]], [[Jinmeiyō]], HSK 3, [[Grade Advanced.base]]

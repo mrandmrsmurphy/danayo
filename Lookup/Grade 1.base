@@ -22,10 +22,10 @@ views:
       - korean_native
       - mc_id
     sort:
+      - property: danayo_id
+        direction: DESC
       - property: stand_in
         direction: DESC
-      - property: danayo_id
-        direction: ASC
       - property: mc_id
         direction: ASC
       - property: 羅馬字
