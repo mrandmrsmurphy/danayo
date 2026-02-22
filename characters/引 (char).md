@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: iɪn
-stroke_count: "4"
+stroke_count: 4
 radical: 弓
 skip_number: 1-3-1
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - pull

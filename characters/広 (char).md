@@ -15,7 +15,7 @@ middle_chinese_final: wɑŋ
 stroke_count: 5
 radical: 广
 skip_number: 3-3-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - wide
@@ -30,6 +30,9 @@ graphemic_classification: 黃
 stand_in: 広
 aliases:
   - 廣
+  - 昿
+  - 曠
+  - 旷
 注音: ㄍˇㄚㄥ
 ---
 ```meta-bind-embed
