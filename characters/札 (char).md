@@ -15,7 +15,7 @@ middle_chinese_final: ɣɛt
 stroke_count: 5
 radical: 木
 skip_number: 1-4-1
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - letter

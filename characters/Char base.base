@@ -20,9 +20,10 @@ views:
       - grade_level
       - danayo_id
       - formula.score
-      - middle_chinese_initial
-      - middle_chinese_final
+      - stroke_count
     sort:
+      - property: stroke_count
+        direction: ASC
       - property: 羅馬字
         direction: DESC
       - property: middle_chinese_final
@@ -44,8 +45,6 @@ views:
       - property: 注音
         direction: ASC
       - property: date-last-perfect
-        direction: ASC
-      - property: stroke_count
         direction: ASC
       - property: japanese
         direction: DESC

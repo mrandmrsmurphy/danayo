@@ -14,7 +14,7 @@ vietnamese:
   - châu, chu
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: ɨu
-stroke_count: 5
+stroke_count: 6
 radical: 巛
 skip_number: 1-2-4
 grade_level: "5"

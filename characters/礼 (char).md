@@ -16,7 +16,7 @@ middle_chinese_final: ei
 stroke_count: 5
 radical: 示
 skip_number: 1-4-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - manners
