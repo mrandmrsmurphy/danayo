@@ -21,3 +21,11 @@
 # Banned
 - 歃 has many aliases but is gross and rare
 - 靹 J creation
+
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "1-6-2"
+SORT file.name ASC

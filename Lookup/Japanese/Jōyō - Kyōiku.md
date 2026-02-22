@@ -525,7 +525,7 @@ The following prefecture names were added in 2017
 517. [[径]] : kei	 –	diameter
 518. [[徒]] : to	 –	junior
 519. [[得]] : toku	e-ru	acquire
-520. [[必]] : hitsu	kanara-zu	without fail
+520. [[必 (char)]] : hitsu	kanara-zu	without fail
 521. [[念]] : nen	 –	thought
 522. [[愛]] : ai	 –	love
 523. [[成 (char)]] : sei	na-ru	become

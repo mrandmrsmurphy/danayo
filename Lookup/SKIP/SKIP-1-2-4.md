@@ -23,3 +23,10 @@
 - 伉 --> 亢
 - [[伜]] --> [[倅]]
 - 冱 --> 冴
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "1-2-4"
+SORT file.name ASC

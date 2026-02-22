@@ -25,3 +25,10 @@
 - [[絨]]
 - [[翔]]
 - [[聒]]
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "1-6-6"
+SORT file.name ASC
