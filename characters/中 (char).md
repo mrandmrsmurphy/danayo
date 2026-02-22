@@ -21,7 +21,7 @@ pos: ""
 english:
   - -ing
 羅馬字: jung
-韓文:  중
+韓文: 중
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -36,4 +36,4 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
