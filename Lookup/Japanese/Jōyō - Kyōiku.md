@@ -299,7 +299,7 @@ The following prefecture names were added in 2017
 292. [[対]] : tai , – , opposite , 
 293. [[局]] : kyoku , – , office , 
 294. [[屋]] : oku , ya , premise , 
-295. [[岸]] : gan , kishi , shore , 
+295. [[岸 (char)]] : gan , kishi , shore , 
 296. [[島]] : tō , shima , island , 
 297. [[州 (char)]] : shū , – , state , 
 298. [[帳]] : chō , – , account book , 

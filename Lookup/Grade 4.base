@@ -1,0 +1,65 @@
+filters:
+  and:
+    - file.folder == "characters"
+    - grade_level == "4"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - danayo_id
+      - date-last-perfect
+      - english
+      - 韓文
+      - 羅馬字
+      - 注音
+      - stroke_count
+      - stand_in
+      - skip_number
+      - radical
+      - pos
+      - middle_chinese_initial
+      - middle_chinese_final
+      - mandarin
+      - cantonese
+      - japanese
+      - korean
+      - vietnamese
+      - hanmun_edu_level
+      - hsk_level
+      - graphemic_classification
+      - joyo_level
+      - japanese_nanori
+      - korean_native
+      - mc_id
+    sort:
+      - property: 羅馬字
+        direction: DESC
+      - property: stand_in
+        direction: ASC
+      - property: stroke_count
+        direction: ASC
+      - property: hanmun_edu_level
+        direction: ASC
+      - property: 注音
+        direction: ASC
+      - property: japanese
+        direction: ASC
+      - property: danayo_id
+        direction: ASC
+      - property: date-last-perfect
+        direction: ASC
+    columnSize:
+      file.name: 52
+      note.danayo_id: 48
+      note.date-last-perfect: 72
+      note.english: 130
+      note.stroke_count: 33
+      note.middle_chinese_initial: 42
+      note.middle_chinese_final: 56
+      note.cantonese: 80
+      note.japanese: 134
+      note.vietnamese: 153
+      note.hanmun_edu_level: 58
+      note.graphemic_classification: 65
+      note.japanese_nanori: 105
