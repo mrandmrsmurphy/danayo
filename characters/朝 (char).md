@@ -12,15 +12,15 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiᴇu
-stroke_count: "12"
+stroke_count: 12
 radical: 月
 skip_number: 1-8-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - morning
 羅馬字: jau
-韓文:  잣
+韓文: 잣
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,10 +29,13 @@ mc_id: 210
 graphemic_classification: 舟
 stand_in: 朝
 aliases:
+  - 䢁
+  - 𦩻
 注音: ㄐㄚˇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- [[卓|龺]] + [[Radical 074|月]]
