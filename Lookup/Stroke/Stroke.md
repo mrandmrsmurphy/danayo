@@ -1,7 +1,7 @@
 1. [[Stroke 01]] (2 characters) ✅
 2. [[Stroke 02]] (16 characters) ✅
 3. [[Stroke 03]] (40 characters)
-4. [[Stroke 04]] (87 characters)
+4. [[Stroke 04]] (88 characters)
 5. [[Stroke 05]] (123 characters)
 6. [[Stroke 06]] (143 characters)
 7. [[Stroke 07]] (227 characters)
