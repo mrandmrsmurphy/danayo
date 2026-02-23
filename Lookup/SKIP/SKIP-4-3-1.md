@@ -1,3 +1,6 @@
+---
+size: 15
+---
 > [[SKIP]] : [[SKIP-4]] : [[SKIP-4-3]] : [[SKIP-4-0-1]]
 - 尸, i.e. Radical 044
 - [[夕]]	
@@ -21,3 +24,10 @@
 - <ruby>[[干]]<rt>간</rt></ruby>
 - [[久]]
 - [[及]]
+
+## Datacheck
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "4-3-1"
+SORT file.name ASC

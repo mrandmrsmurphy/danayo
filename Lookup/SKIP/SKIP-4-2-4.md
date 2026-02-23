@@ -1,5 +1,6 @@
 ---
 date-last-perfect:
+size: 6
 ---
 
 > [[SKIP]] | [[SKIP-4|4]] | [[SKIP-4-0-4]]
@@ -15,3 +16,9 @@ date-last-perfect:
 - ~~厶~~
 - ~~乄~~
 - ~~乜~~
+## Datacheck
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "4-2-4"
+SORT file.name ASC

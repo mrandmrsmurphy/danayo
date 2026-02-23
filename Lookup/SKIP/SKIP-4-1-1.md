@@ -1,5 +1,5 @@
 ---
-aliases:
+size: 1
 date-last-perfect: 2026-02-06
 ---
 > [[SKIP]]| [[SKIP-4|4]] | [[SKIP-4-1|1]] | [[SKIP-4-0-1]]
@@ -8,7 +8,7 @@ date-last-perfect: 2026-02-06
 
 That's it.  Just one.
 
-### Data double check
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

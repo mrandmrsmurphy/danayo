@@ -1,16 +1,27 @@
-> [[SKIP]] : [[SKIP-4]] : [[SKIP-4-0-1]] : [[SKIP-4-5]]
-- [[正]]	
-- [[凹]]	
-- [[且]]	
-- [[瓦]]	
-- [[玉]]	
-- [[甲]]
-- [[冊 (char)]]	
-- [[皿]]	
-- [[凸]]	
-- [[疋]]	
-- [[丙]]	
-- [[平]]	
-- [[母]]	
+---
+size: 13
+---
+> [[SKIP]] : [[SKIP-4|4]] : [[SKIP-4-0-1]] : [[SKIP-4-5|5]]
+1. [[正]]	
+2. [[凹]]	
+3. [[且]]	
+4.  [[瓦]]	
+5. [[玉]]	
+6. [[甲]]
+7. [[冊 (char)|冊]]	
+8. [[皿]]
+9. [[凸]]	
+10. [[疋]]	
+11. [[丙]]	
+12. [[平]]	
+13. [[母]]	
+
 - 册, an alias of 冊
 - 旡 a.k.a. Radical 071
+
+## Datacheck
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "4-5-1"
+SORT file.name ASC
