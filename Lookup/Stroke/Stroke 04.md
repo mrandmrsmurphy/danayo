@@ -1,3 +1,8 @@
+---
+stroke_count: 4
+date-last-perfect:
+size: 88
+---
 > [[Stroke]]
 
 ### Data check

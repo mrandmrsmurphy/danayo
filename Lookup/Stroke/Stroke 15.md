@@ -1,3 +1,8 @@
+---
+stroke_count: 15
+date-last-perfect:
+size: 203
+---
 > [[Stroke]]
 
 <ruby>[[膣 (char)]]<rt>짇</rt></ruby>

@@ -1,3 +1,8 @@
+---
+stroke_count: 10
+date-last-perfect:
+size: 317
+---
 > [[Stroke]]
 
 ```dataview

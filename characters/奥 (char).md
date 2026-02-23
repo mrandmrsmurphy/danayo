@@ -14,7 +14,7 @@ middle_chinese_final: ɨuk
 stroke_count: 12
 radical: 大
 skip_number: 2-9-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - deep

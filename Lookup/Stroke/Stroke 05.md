@@ -1,3 +1,9 @@
+---
+stroke_count: 5
+date-last-perfect:
+size: 122
+---
+
 > [[Stroke]]
 
 See also 

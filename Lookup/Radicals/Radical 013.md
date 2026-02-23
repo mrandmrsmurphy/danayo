@@ -1,11 +1,12 @@
 ---
-size:
+size: 5
+date-last-perfect:
 ---
 > [[Radicals]]
 
 ## Data search
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "English"
 FROM "characters"
 WHERE radical = "冂"
 SORT file.name ASC

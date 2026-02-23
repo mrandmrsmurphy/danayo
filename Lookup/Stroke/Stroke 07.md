@@ -1,3 +1,9 @@
+---
+stroke_count: 7
+date-last-perfect:
+size: 227
+---
+
 > [[Stroke]]
 
 * [[局]]

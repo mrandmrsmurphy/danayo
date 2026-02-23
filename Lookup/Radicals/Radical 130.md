@@ -1,3 +1,7 @@
+---
+size: 68
+---
+> [[Radicals]]
 "Meat" radical
 
 ### +4

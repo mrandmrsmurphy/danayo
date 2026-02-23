@@ -1,3 +1,8 @@
+---
+stroke_count: 21
+date-last-perfect:
+size: 14
+---
 > [[Stroke]]
 
 - 嚼 --> 爵

@@ -1,3 +1,9 @@
+---
+size: 268
+stroke_count: 13
+date-last-perfect:
+---
+
 > [[Stroke]]
 
 - [[豊]]
@@ -5,7 +11,7 @@
 - [[禁]]
 
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
+TABLE 注音 AS "注音", radical AS "rad", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "13" OR stroke_count = 13
-SORT file.name ASC
+SORT skip_number ASC

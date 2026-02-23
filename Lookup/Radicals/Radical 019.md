@@ -1,3 +1,7 @@
+---
+date-last-perfect:
+size: 28
+---
 > [[Radicals]]
 
 力

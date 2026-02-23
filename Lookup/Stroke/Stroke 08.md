@@ -1,3 +1,8 @@
+---
+stroke_count: 8
+date-last-perfect:
+size: 275
+---
 > [[Stroke]]
 
 - <ruby>[[肥]]<rt>ブイ</rt></ruby> - fertile

@@ -1,3 +1,9 @@
+---
+stroke_count: 11
+date-last-perfect:
+size: 11
+skip_number: 3-3-8
+---
 > [[SKIP]] : [[SKIP-3|3]] : [[SKIP-3-3|3]]
 
 ### Shoot radical (56)
@@ -20,3 +26,10 @@
 * <ruby>[[庵]]<rt>암</rt></ruby> - greenhouse
 ### Corpse (44)
 * <ruby>[[屠]]<rt>도</rt></ruby> - butcher
+
+### Datacheck
+```dataview
+TABLE 注音 AS "Sound", english AS "en"
+FROM "characters"
+WHERE skip_number = "3-3-8"
+SORT file.name ASC

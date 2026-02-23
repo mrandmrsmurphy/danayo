@@ -1,3 +1,8 @@
+---
+stroke_count: 12
+date-last-perfect:
+size: 344
+---
 > [[Stroke]]
 
 - <ruby>[[裂]]<rt>럭</rt></ruby>
