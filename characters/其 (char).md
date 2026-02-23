@@ -5,11 +5,13 @@ cantonese:
   - kei4
 korean:
   - 기
-korean_native: ""
+korean_native: 그
 japanese:
   - KI
   - GI
-japanese_nanori: ""
+japanese_nanori:
+  - その
+  - それ
 vietnamese:
   - khởi
   - kì
@@ -21,7 +23,7 @@ stroke_count: 12
 radical: 八
 skip_number: 2-6-6
 grade_level: "3"
-pos: ""
+pos: 修飾語
 english:
   - this
 羅馬字: gi
