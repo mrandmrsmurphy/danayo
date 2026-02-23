@@ -1,12 +1,12 @@
 ---
-size:
+size: 2
 ---
 > [[Radicals]]
-
 
 ## Data search
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
-WHERE radical = "黑"
+WHERE radical = "麥" OR radical = "麦"
 SORT file.name ASC
+```

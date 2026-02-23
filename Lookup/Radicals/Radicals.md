@@ -251,7 +251,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 189]] 高
 - [[Radical 190]] 髟
 - [[Radical 191]] 鬥
-- [[Radical 192]] 鬯
+- [[Radical 192]] 鬯 - There are no characters here.
 - [[Radical 193]] 鬲 - There are no real characters here.
 - [[Radical 194]] 鬼
 
@@ -264,7 +264,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 200]] 麻 - There is one real character in here.
 
 ## 12 strokes
-- [[Radical 201]] 黃
+- [[Radical 201]] 黃 - There is one real character in here.
 - [[Radical 202]] 黍
 - [[Radical 203]] 黑
 - [[Radical 204]] 黹

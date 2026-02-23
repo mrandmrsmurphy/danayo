@@ -1,21 +1,17 @@
 ---
 size: 1
+radical: 黄
 date-last-perfect: 2026-02-22
-radical:
 ---
+> [[Radicals]]
 
-[[Radicals]]
+- <ruby>[[黄]]<rt>ㄏˇㄚㄥ</rt></ruby> - yellow
 
-## Strokes
-### +0 Stroke
-- <ruby>[[麻]]<rt>마</rt></ruby> - help
-### +3 Strokes
-- forbidden 麼
-- forbidden 麽
+That's it!
 
 ## Data search
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
-WHERE radical = "麻"
+WHERE radical = "黃" OR radical = "黄"
 SORT file.name ASC
