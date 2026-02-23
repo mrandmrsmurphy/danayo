@@ -1,8 +1,13 @@
+---
+stroke_count: 27
+date-last-perfect: 2026-02-23
+size: 2
+---
 > [[Stroke]]
 
 ## Gold
-- <ruby>[[鑽]]<rt>잔</rt></ruby> - auger
-- <ruby>[[鑼]]<rt>라</rt></ruby> - gong
+- <ruby>[[鑽]]<rt>ㄐㄚㄋ</rt></ruby> - auger
+- <ruby>[[鑼]]<rt>ㄌㄚ</rt></ruby> - gong
 
 ## Fish
 - 鱸 --> 盧

@@ -1,10 +1,15 @@
+---
+size: 5
+stroke_count: 25
+date-last-perfect: 2026-02-23
+---
 > [[Stroke]]
 
-- <ruby>[[鼈]]<rt>벋</rt></ruby> - turtle
-- <ruby>[[鬣 (char)]]<rt>롭</rt></ruby> - whiskers
-- <ruby>[[皺]]<rt>주</rt></ruby> - wrinkles
-- <ruby>[[欖]]<rt>람</rt></ruby> - olive
-- <ruby>[[攬]]<rt>람</rt></ruby> - monopolize
+- <ruby>[[鼈]]<rt>ㄅㄝㄊ</rt></ruby> - turtle
+- <ruby>[[鬣 (char)]]<rt>ㄌㄛㄆ</rt></ruby> - whiskers
+- <ruby>[[皺]]<rt>ㄐㄨ</rt></ruby> - wrinkles
+- <ruby>[[欖]]<rt>ㄌㄚㄇ</rt></ruby> - olive
+- <ruby>[[攬]]<rt>ㄌㄚㄇ</rt></ruby> - monopolize
 
 ## Data check
 ```dataview

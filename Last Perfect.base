@@ -9,6 +9,8 @@ views:
       - 韓文
       - size
     sort:
+      - property: size
+        direction: DESC
       - property: date-last-perfect
         direction: DESC
       - property: 羅馬字

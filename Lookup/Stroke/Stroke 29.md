@@ -1,6 +1,13 @@
+---
+stroke_count: 29
+date-last-perfect: 2026-02-23
+size: 1
+---
 > [[Stroke]]
 
-- [[鸛]]
+- <ruby>[[鸛]]<rt>ㄍˇㄚㄋ</rt></ruby> - stork
+
+That's it!
 
 ## Data check
 ```dataview

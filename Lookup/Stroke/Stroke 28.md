@@ -1,6 +1,11 @@
+---
+stroke_count: 28
+date-last-perfect: 2026-02-23
+size: 1
+---
 > [[Stroke]]
 
-- [[鸚]] - parrot
+- <ruby>[[鸚]]<rt>ㄚㄥ</rt></ruby> - parrot
 
 ## Data check
 ```dataview
