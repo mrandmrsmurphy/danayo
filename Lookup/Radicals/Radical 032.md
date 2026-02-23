@@ -1,3 +1,7 @@
+---
+size: 65
+date-last-perfect:
+---
 >  [[Radicals]]
 
 **Radical 32** is 'earth', <ruby>[[土 (char)]]<rt>토</rt></ruby>.

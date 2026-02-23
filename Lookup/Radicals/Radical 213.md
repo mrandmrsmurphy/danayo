@@ -1,3 +1,8 @@
+---
+date-last-perfect: 2026-02-23
+size: 1
+---
+
 > [[Radicals]]
 
 Radical 213 meaning *turtle*/龜/亀 is one of only two of the 214 Kangxi radicals that are composed of 16 strokes.

@@ -1,3 +1,7 @@
+---
+date-last-perfect: 2026-02-23
+size: 4
+---
 **Radical 212**, 龍, 龙, or 竜 meaning "dragon", is one of the two of the 214 Kangxi [[Radicals]] that are composed of 16 strokes. The character arose as a stylized drawing of a Chinese dragon, and refers to a version of the dragon in each East Asian culture:
 
 - Chinese dragon, Lóng in Chinese
@@ -13,14 +17,14 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 
 ## Strokes 
 ### +0 
-<ruby>[[龍 (char)]]<rt>룡</rt></ruby> - dragon
+1. <ruby>[[龍 (char)|龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby> - dragon
 
 ### +2 
 * 龎 --> variant of 龐
 
 ### +3
+2. <ruby>[[龐]]<rt>ㄅㄚㄥ</rt></ruby> - huge
 * 龏 --> variant of 恭
-* <ruby>[[龐]]<rt>방</rt></ruby> - huge
 
 ### +4
 * 龑 - a 9th century made-up name = 龍 + 天
@@ -29,9 +33,9 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 * 龒 --> ancient variant of 龍 
 
 ### +6 
-* 龓 - obscure C character, forbidden
-* <ruby>[[龔]]<rt>공</rt></ruby> - to give/present
-* <ruby>[[龕]]<rt>캄</rt></ruby>/龛 - shrine
+3. <ruby>[[龔]]<rt>ㄍㄛㄥ</rt></ruby> - to give/present
+4. <ruby>[[龕]]<rt>ㄌㄚㄇ</rt></ruby>/龛 - shrine
+* 龓 - obscure C character, forbidden in Dan'a'yo
 
 ### +16 
 * 龖/龘 - (obsolete) vista of a dragon in flight, forbidden

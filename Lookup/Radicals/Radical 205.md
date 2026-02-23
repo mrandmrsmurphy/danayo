@@ -1,4 +1,9 @@
-[[Radicals]]
+---
+date-last-perfect: 2026-02-23
+size: 1
+---
+
+> [[Radicals]]
 ## Strokes
 ### +0 Stroke 
 - 黽, 黾 = this radical
@@ -11,7 +16,7 @@
 ### +11 Strokes
 - 䵹-->蜘
 ###  +12 Strokes 
-<ruby>[[鼈]]<rt>벋</rt></ruby>
+1. <ruby>[[鼈]]<rt>ㄅㄝㄊ</rt></ruby> - a kind of turtle
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
