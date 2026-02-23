@@ -1,28 +1,28 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-02-22
 ---
 > [[Stroke]]
 
-1. <ruby>[[丁 (char)]]<rt>덩</rt></ruby>
-2. <ruby>[[七 (char)|七]]<rt>칟</rt></ruby>
-3. <ruby>[[乂]]<rt>얘</rt></ruby>
-4. <ruby>[[乃]]<rt>내</rt></ruby>
-5. <ruby>[[九 (char)|九]]<rt>큐</rt></ruby>
-6. <ruby>[[了]]<rt>럇</rt></ruby>
-7. <ruby>[[二 (char)|二]]<rt>늬</rt></ruby>
-8. <ruby>[[人 (char)|人]]<rt>닌</rt></ruby>
-9. <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>
-10. <ruby>[[八 (char)|八]]<rt>받</rt></ruby>
-11. <ruby>[[刀]]<rt>탓</rt></ruby>
-12. <ruby>[[力 (char)|力]]<rt>릭</rt></ruby>
-13. <ruby>[[匕]]<rt>픠</rt></ruby>
-14. <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby>
-15. <ruby>[[卜]]<rt>ㄅㄛㄎ</rt></ruby>
-16. <ruby>[[又]]<rt>ㄨˇ</rt></ruby>
+1. <ruby>[[丁 (char)|丁]]<rt>ㄉㄝㄥ</rt></ruby> - fourthly
+2. <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven
+3. <ruby>[[乂]]<rt>˙ㄚ˙</rt></ruby> - govern
+4. <ruby>[[乃 (char)|乃]]<rt>ㄋㄚ˙</rt></ruby> - but
+5. <ruby>[[九 (char)|九]]<rt>ㄎ˙ㄨ</rt></ruby> - nine
+6. <ruby>[[了]]<rt>ㄌ˙ㄚˇ</rt></ruby> - "over"
+7. <ruby>[[二 (char)|二]]<rt>ㄋㄧ˙</rt></ruby> - two
+8. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby> - person
+9. <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby> - enter
+10. <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby> - eight
+11. <ruby>[[刀]]<rt>ㄊㄚˇ</rt></ruby> - blade
+12. <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby> - power
+13. <ruby>[[匕]]<rt>ㄆㄧ˙</rt></ruby> - spoon
+14. <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> - ten
+15. <ruby>[[卜]]<rt>ㄅㄛㄎ</rt></ruby> - prophecy
+16. <ruby>[[又]]<rt>ㄨˇ</rt></ruby> - or again
 
-## Data check
+### Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", 韓文 AS "韓文"
+TABLE stroke_count AS "Stroke", skip_number AS "SKIP", english AS "en", 注音 as "注音"
 FROM "characters"
 WHERE stroke_count = "2" OR stroke_count = 2
 SORT file.name ASC
