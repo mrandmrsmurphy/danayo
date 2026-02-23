@@ -18,7 +18,7 @@ stroke_count: 8
 radical: 亅
 skip_number: 4-8-3
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - thing
   - action
@@ -39,4 +39,4 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes

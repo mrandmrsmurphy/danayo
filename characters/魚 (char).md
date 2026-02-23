@@ -10,6 +10,7 @@ japanese:
   - GYO
 japanese_nanori: ""
 vietnamese:
+  - ngư
 middle_chinese_initial: ŋ
 middle_chinese_final: ɨʌ
 stroke_count: 11
