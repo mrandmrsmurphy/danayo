@@ -1,16 +1,19 @@
+---
+size: 9
+---
 > [[Radicals]]
 
 **Radical 7** is the number 'two', 二
 ## Plus Strokes
 ### +0
-- <ruby>[[二 (char)]]<rt>늬</rt></ruby> 'two', and it's variants 𠄞, 𠄟, and 𠄠.
+- <ruby>[[二 (char)]]<rt>ㄋㄧ˙</rt></ruby> 'two', and it's variants 𠄞, 𠄟, and 𠄠.
 ### +1
-- <ruby>[[于 (char)]]<rt>우</rt></ruby> 'to'
+- <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby> 'to'
 - The forbidden character 亍
 - 亏 which is an variant of 虧
 三 is organized under Radical 1.
 ### +2
-- <ruby>[[五 (char)]]<rt>오</rt></ruby> 'five'
+- <ruby>[[五 (char)]]<rt>ㄛ</rt></ruby> 'five'
 - [[互]]
 - [[井]]
 - 亖 which is a variant of 四

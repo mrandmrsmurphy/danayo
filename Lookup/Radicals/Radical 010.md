@@ -1,3 +1,6 @@
+---
+size: 14
+---
 > [[Radicals]]
 
 ## Data check

@@ -1,5 +1,7 @@
+---
+size: 3
+---
 > [[Radicals]]
-
 
 ## Stroke
 - <ruby>[[入 (char)]]<rt>ㄋㄧㄆ</rt></ruby>
@@ -11,14 +13,14 @@
 -  㒰–>全
 - ~~㒱~~
 ### +4 
-- <ruby>[[全 (char)]]<rt>줜</rt></ruby>
+- <ruby>[[全 (char)]]<rt>ㄐˇㄝㄋ</rt></ruby>
 - 㒲–>財
 ### +5
 - 㒳–>両
 ### +6
 - 兩–>両
 ### +7
-- <ruby>[[兪]]<rt>유</rt></ruby>
+- <ruby>[[兪]]<rt>˙ㄨ</rt></ruby>
 
 # Data search
 ```dataview

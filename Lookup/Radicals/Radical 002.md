@@ -1,3 +1,9 @@
+---
+size: 2
+date-last-perfect: 2026-02-22
+radical: 丨
+---
+
 > [[Radicals]]
 
 **Radical 2**  is a vertical bar, 丨
@@ -9,11 +15,11 @@
 -  个 -> 個
 - forbidden 㐃
 ### +3 Strokes
--  <ruby>[[中 (char)]]<rt>중</rt></ruby>
+-  <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby>
 - 丰-->豊
 - 书-->書
 ### +6 Strokes
-- <ruby>[[串]]<rt>좐</rt></ruby>
+- <ruby>[[串]]<rt>ㄐˇㄚㄋ</rt></ruby>
 ### +7 Strokes
 - 丳-->串
 ### +8 Strokes

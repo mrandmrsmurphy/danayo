@@ -7,13 +7,13 @@ There have been several systems of radicals in use at various times during histo
 - [[Radical 001]] 一 (19 characters)
 - [[Radical 002]] 丨 (2 characters)
 - [[Radical 003]] 丶 (4 characters)
-- [[Radical 004]] 丿 or 乀 or 乁  
-- [[Radical 005]] 乙 or 乚 or 乛 
+- [[Radical 004]] 丿 or 乀 or 乁  (10 characters)
+- [[Radical 005]] 乙 or 乚 or 乛 (7 characters)
 - [[Radical 006]] 亅 
 
 
 ## 2 strokes
-- [[Radical 007]] 二
+- [[Radical 007]] 二 (9 characters)
 - [[Radical 008]] 亠
 - [[Radical 009]] 人 or combining as 亻
 - [[Radical 010]] 儿, ancient 兒

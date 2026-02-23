@@ -1,5 +1,7 @@
 ---
 date-last-perfect: 2026-01-31
+size: 19
+radical: 一
 ---
 > [[Radicals]]
 
@@ -72,9 +74,9 @@ Radical 1 is 一, the number one.
 
 *All other forms are missing from dictionary or are chữ Nôm inventions.*
 
-# Data search
+## Data search
 ```dataview
-TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "一"
 SORT file.name ASC
