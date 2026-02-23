@@ -1,5 +1,5 @@
 ---
-aliases:
+size: 16
 date-last-perfect: 2026-02-07
 ---
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-2|2]]
@@ -24,3 +24,10 @@ date-last-perfect: 2026-02-07
 * 尓 --> 爾
 * ~~㐱~~
 * ~~厼~~
+
+### Datacheck
+```dataview
+TABLE 注音 AS "Sound", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-2-3"
+SORT file.name ASC
