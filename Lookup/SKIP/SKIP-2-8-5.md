@@ -1,8 +1,11 @@
 ---
 aliases:
 date-last-perfect:
+size: 7
+stroke_count: 13
 ---
-> [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-8|8]] ... all [[Stroke 13]].
+> [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-8|8]] 
+> All of these [[Stroke 13]].
 
 - [[雹]] - hail
 - <ruby>[[楚]]<rt>ㄑㄛ</rt></ruby> - clear
@@ -17,3 +20,9 @@ date-last-perfect:
 - 皙 --> 析
 - <ruby>[[禁]]<rt>ㄍㄧㄇ</rt></ruby> - forbidden
 * ~~嗭~~
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-8-5"
+SORT file.name ASC
