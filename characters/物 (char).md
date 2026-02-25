@@ -37,4 +37,5 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- [[勿]] + 

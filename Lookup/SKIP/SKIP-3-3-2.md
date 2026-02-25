@@ -1,3 +1,10 @@
+---
+size: 14
+stroke_count: 5
+date-last-perfect:
+skip_number: 3-3-2
+---
+
 > [[SKIP]] | [[SKIP-3|3]] | [[SKIP-3-3|3]]
 
 - <ruby>[[巨]]<rt>교</rt></ruby>
@@ -16,3 +23,10 @@
 
 - 弍 is an ancient variant of 二
 辻 and 込 are both [[文法 - 98違法字|forbidden]].
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "3-3-2"
+SORT file.name ASC

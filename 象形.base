@@ -1,0 +1,18 @@
+filters:
+  and:
+    - graphemic_classification == "象形"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - danayo_id
+      - pos
+      - english
+      - grade_level
+      - 注音
+    sort:
+      - property: danayo_id
+        direction: ASC
+    columnSize:
+      file.name: 156
