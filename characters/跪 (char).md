@@ -5,7 +5,7 @@ cantonese:
   - gwai6
 korean:
   - 궤
-korean_native: ""
+korean_native: 꿇어앉을
 japanese:
   - KI
 japanese_nanori:
@@ -18,13 +18,13 @@ stroke_count: 13
 radical: 足
 skip_number: 1-7-6
 grade_level: 先進
-pos: ""
+pos: 性詞
 english:
   - kneel
 羅馬字: kwei
 韓文: 퀘
-joyo_level: ""
-hsk_level: ""
+joyo_level: 表外字
+hsk_level: "2"
 hanmun_edu_level: 無
 danayo_id: 7319
 mc_id: 1976
