@@ -12,7 +12,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: iuɪn
-stroke_count: "12"
+stroke_count: 12
 radical: 門
 skip_number: 3-8-4
 grade_level: 先進
