@@ -1,3 +1,9 @@
+---
+size: 21
+---
+> [[SKIP]] : [[SKIP-2|2]] : [[SKIP-2-3|3]]
+
+
 - <ruby>[[莽]]<rt>망</rt></ruby>
 - [[茨]]
 - No: 荏 - plant-version of 任
@@ -41,3 +47,10 @@
 - 茘 - variant of [[荔]] --> 荔枝
 - [[茜]]
 - 夈 - variant of [[斎]]
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-3-6"
+SORT file.name ASC

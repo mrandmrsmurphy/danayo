@@ -1,6 +1,10 @@
+---
+stroke_count: 7
+size: 32
+---
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-3|3]] 
 
-- <ruby>[[壱]]<rt>읻</rt></ruby>
+- <ruby>[[壱]]<rt>ㄧㄊ</rt></ruby>
 - [[花]]
 - [[芥]]
 - [[完]]
@@ -29,3 +33,9 @@
 - [[牢]]
 - [[芬]]
 - [[芦]]
+ ### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-3-4"
+SORT file.name ASC

@@ -15,7 +15,7 @@ middle_chinese_final: iᴇ
 stroke_count: 5
 radical: 口
 skip_number: 2-3-2
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - only
