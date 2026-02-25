@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: ɣæŋ
-stroke_count: "7"
+stroke_count: 7
 radical: 冫
 skip_number: 1-2-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - cool

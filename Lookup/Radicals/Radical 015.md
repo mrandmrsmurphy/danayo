@@ -1,0 +1,13 @@
+---
+size: 9
+radi: 冫
+date-last-perfect:
+---
+
+
+## Dataview
+```dataview
+TABLE 韓文 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
+FROM "characters"
+WHERE radical = "冫"
+SORT stroke_count ASC
