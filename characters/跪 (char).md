@@ -8,8 +8,10 @@ korean:
 korean_native: ""
 japanese:
   - KI
-japanese_nanori: ""
+japanese_nanori:
+  - ひざまずく
 vietnamese:
+  - quỵ
 middle_chinese_initial: kʰ
 middle_chinese_final: ɣiuᴇ
 stroke_count: 13
