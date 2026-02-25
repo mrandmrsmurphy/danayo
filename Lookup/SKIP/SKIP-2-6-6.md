@@ -1,3 +1,8 @@
+---
+size: 24
+stroke_count: 12
+skip_number: 2-6-6
+---
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-6|6]]
 
 - 覃 --> 湛
@@ -24,3 +29,10 @@
 - [[筍]]
 - 筝 --> 箏
 - [[粟]]
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-6-6"
+SORT file.name ASC

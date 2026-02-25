@@ -1,3 +1,8 @@
+---
+size: 11
+stroke_count: 13
+date-last-perfect:
+---
 > [[SKIP]] : [[SKIP-1]] : [[SKIP-1-9]]
 # Used
 - [[献]]

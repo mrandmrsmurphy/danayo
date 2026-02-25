@@ -1,3 +1,8 @@
+---
+size: 20
+date-last-perfect:
+skip_number: 1-7-7
+---
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-7|7]]
 
 ## "words" 

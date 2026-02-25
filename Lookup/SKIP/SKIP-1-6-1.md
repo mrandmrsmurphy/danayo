@@ -1,3 +1,9 @@
+---
+size: 2
+stroke_count: 7
+date-last-perfect:
+---
+
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
 
 - <ruby>[[乱]]<rt>란</rt></ruby>

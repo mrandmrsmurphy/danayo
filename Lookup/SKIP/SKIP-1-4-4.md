@@ -1,3 +1,9 @@
+---
+size: 43
+stroke_count: 8
+date-last-perfect:
+---
+
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-4|4]]
 ### Sun
 - <ruby>[[旺]]<rt>왕</rt></ruby>

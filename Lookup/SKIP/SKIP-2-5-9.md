@@ -1,3 +1,7 @@
+---
+size: 3
+---
+
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-5|5]]
 
 - <ruby>[[嘗]]<rt>샹</rt></ruby> - taste
@@ -6,3 +10,9 @@
 - [[尽|盡]] --> 尽
 
 
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-5-9"
+SORT file.name ASC

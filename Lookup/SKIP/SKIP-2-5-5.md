@@ -1,3 +1,8 @@
+---
+size: 9
+stroke_count: 10
+---
+
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-5|5]]
 
 - <ruby>[[芻]]<rt>추</rt></ruby>
@@ -14,3 +19,10 @@
 ~~畠~~
 ~~唟~~
 ~~丵~~
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-5-5"
+SORT file.name ASC

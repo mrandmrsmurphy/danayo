@@ -1,3 +1,9 @@
+---
+size: 10
+stroke_count: 8
+date-last-perfect:
+---
+
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
 
 - [[卦 (char)]]

@@ -1,3 +1,9 @@
+---
+size: 11
+stroke_count: 13
+date-last-perfect:
+---
+
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
 
  - <ruby>[[継]]<rt>ㄍㄝ˙</rt></ruby> - persist

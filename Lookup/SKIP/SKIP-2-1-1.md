@@ -1,3 +1,9 @@
+---
+size: 1
+stroke_count: 2
+date-last-perfect: 2026-02-25
+---
+
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-1|1]]
 
 Only

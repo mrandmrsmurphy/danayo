@@ -1,3 +1,6 @@
+---
+size: 8
+---
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-4|4]]
 
 * <ruby>[[覓]]<rt>먹</rt></ruby> search
@@ -9,3 +12,10 @@
 * <ruby>[[曼]]<rt>만</rt></ruby> long
 * <ruby>[[晨]]<rt>신</rt></ruby> daybreak
 * <ruby>[[黄 (char)]]<rt>황</rt></ruby> yellow
+
+### Data double check
+```dataview
+TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+FROM "characters"
+WHERE skip_number = "2-4-7"
+SORT file.name ASC

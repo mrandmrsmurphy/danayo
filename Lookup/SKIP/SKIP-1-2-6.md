@@ -1,3 +1,8 @@
+---
+size: 13
+stroke_count: 8
+date-last-perfect:
+---
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-2|2]]
 
 - <ruby>[[依]]<rt>의</rt></ruby> "to rely on"
