@@ -30,11 +30,12 @@ danayo_id: 7319
 mc_id: 1976
 graphemic_classification: 危
 stand_in: 跪
-aliases:
+date-last-perfect: 2026-02-25
 注音: ㄎˇㄝ˙
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- [[足]] + [[危]]
