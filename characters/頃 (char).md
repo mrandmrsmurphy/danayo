@@ -14,10 +14,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: wiᴇŋ
-stroke_count: "11"
+stroke_count: 11
 radical: 頁
 skip_number: 1-2-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - moment
