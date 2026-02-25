@@ -13,7 +13,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: ei
-stroke_count: "7"
+stroke_count: 7
 radical: 弓
 skip_number: 2-2-5
 grade_level: 1
@@ -21,7 +21,7 @@ pos: ""
 english:
   - younger brother
 羅馬字: de
-韓文:  더
+韓文: 더
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
