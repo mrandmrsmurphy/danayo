@@ -1,11 +1,18 @@
 ---
 size: 1
+stroke_count: 1
+date-last-perfect: 2026-02-26
 ---
-> [[SKIP]] : [[SKIP-4]] : [[SKIP-4-0-4]] : [[SKIP-4-1]]
-- <ruby>[[一 (char)]]<rt>읻</rt></ruby>
+> [[SKIP]] : 4 : [[SKIP-4-1|1]] | [[SKIP-4-0-4]]
+
+## Characters
+### Used
+- <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby>
+### Aliases
 - 丶 is an alias of [[Radical 003]], "dot"
 * 丿 is an alias of [[Radical 004]], "slash"
 * 亅 is an alias of [[Radical 006]], "hook" 
+### Forbidden
 
 ## Datacheck
 ```dataview
