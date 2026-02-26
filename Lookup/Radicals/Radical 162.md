@@ -1,3 +1,7 @@
+---
+size: 69
+---
+
 The "Walk" [[Radicals]]
 
 ## Strokes
@@ -30,33 +34,33 @@ The "Walk" [[Radicals]]
 [[週]], [[進]] 
 
 ### +9 Strokes
-
 [[逼]], [[遁]], [[遂]], [[遅]], [[遇]], [[遊]], [[運]], [[遍]], [[過]], [[遒]], [[道]], [[達]], [[違]], [[遗]]
 
 ### +10 Strokes
-
 [[遙]], [[遜]], [[遞]], [[遠]], [[遡]], [[遣]], [[遥]]
 
 ### +11 Strokes
-
 [[適]], [[遭]], [[遮]]
 
 ### +12 Strokes
-
 [[遲]], [[遵]], [[遷]], [[選]], [[遺]], [[遼]], [[遼]]
 
 ### +13 Strokes
-
 [[遽]], [[避]], [[邁]], [[還]]
 
 ### +14 Strokes
-
 [[邇]]
 
 ### +15 Strokes
-
 [[邊]]
 
 ### +19 Strokes
-
 [[邏]], [[邏]]
+
+
+## Data search
+```dataview
+TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+FROM "characters"
+WHERE radical = "辵"
+SORT file.name ASC

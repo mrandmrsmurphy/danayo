@@ -1,3 +1,7 @@
+---
+size: 1
+---
+
 > [[Radicals]]
 
 **Radical 207** is "drum".

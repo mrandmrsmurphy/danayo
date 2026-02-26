@@ -1,3 +1,6 @@
+---
+size: 17
+---
 > [[Radicals]]
 
 The fish/魚 radical

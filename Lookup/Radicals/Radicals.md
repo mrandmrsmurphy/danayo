@@ -300,5 +300,9 @@ views:
       - file.name
       - size
       - radical
+      - date-last-perfect
+    sort:
+      - property: size
+        direction: ASC
 
 ```

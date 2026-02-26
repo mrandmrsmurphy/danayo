@@ -1,3 +1,7 @@
+---
+size: 1
+---
+
 > [[Radicals]]
  
 **Radical 208** is the rat radical, 鼠.  Even that word has been replace with <ruby>鼡<rt>쇼</rt></ruby>.  It's useless!

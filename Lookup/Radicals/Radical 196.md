@@ -1,3 +1,6 @@
+---
+size: 22
+---
 > [[Radicals]]
 
 The bird radical, i.e. [[鳥 (char)]], a.k.a. 鸟.

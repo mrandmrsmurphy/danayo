@@ -1,3 +1,8 @@
+---
+size: 1
+---
+> [[Radicals]]
+
 ## Plus Stroke
 ### +0 Stroke
 - 齊-->斉

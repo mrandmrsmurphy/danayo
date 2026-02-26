@@ -1,3 +1,7 @@
+---
+size: 1
+---
+
 > [[Radicals]]
 
 Only <ruby>[[鼻 (char)]]<rt>비</rt></ruby> - nose

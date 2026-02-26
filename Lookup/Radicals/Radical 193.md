@@ -1,8 +1,11 @@
-[[Radicals]]
+---
+size: 0
+---
+> [[Radicals]]
 
 Unused
 
-- 鬲 ->[[隔]]
+- 鬲 ->隔
 
 ## Data check
 ```dataview

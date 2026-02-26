@@ -1,3 +1,7 @@
+---
+size: 18
+---
+
 > [[Radicals]] - Rain "雨"
 
 ## Strokes

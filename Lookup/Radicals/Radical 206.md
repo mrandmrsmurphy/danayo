@@ -1,3 +1,7 @@
+---
+size: 1
+---
+
 **Radical 206** is "tripod", <ruby>[[鼎]]<rt>딩</rt></ruby>
 
 ## Strokes

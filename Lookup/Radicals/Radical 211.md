@@ -1,3 +1,7 @@
+---
+size: 2
+---
+
 > [[Radicals]]
 
 **Radical 齒** is perhaps a picture of a mouthful of teeth?
