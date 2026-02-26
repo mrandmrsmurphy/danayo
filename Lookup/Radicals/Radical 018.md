@@ -1,7 +1,5 @@
 ---
-size: 9
-radical: 冫
-date-last-perfect:
+size: 39
 ---
 
 
@@ -9,5 +7,5 @@ date-last-perfect:
 ```dataview
 TABLE 韓文 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"
-WHERE radical = "冫"
+WHERE radical = "刀"
 SORT stroke_count ASC
