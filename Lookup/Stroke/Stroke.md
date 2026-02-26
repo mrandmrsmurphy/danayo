@@ -1,6 +1,11 @@
+---
+aliases:
+---
+**Stroke count** is an ancient way of categorizing hanji, though not a very effective one.  We preserve it hear, though we prefer other methods, namely the SKIP technique.  Rather than delineating within each page by radical, this is the system we prefer.
+
 1. [[Stroke 01]] (2 characters) ✅
 2. [[Stroke 02]] (16 characters) ✅
-3. [[Stroke 03]] (40 characters)
+3. [[Stroke 03]] (39 characters)
 4. [[Stroke 04]] (88 characters)
 5. [[Stroke 05]] (123 characters)
 6. [[Stroke 06]] (143 characters)
@@ -12,11 +17,11 @@
 12. [[Stroke 12]] (352 characters)
 13. [[Stroke 13]] (268 characters)
 14. [[Stroke 14]] (190 characters)
-15. [[Stroke 15]] (202 characters)
+15. [[Stroke 15]] (201 characters)
 16. [[Stroke 16]] (141 characters)
 17. [[Stroke 17]] (102 characters)
 18. [[Stroke 18]] (75 characters)
-19. [[Stroke 19]] (56 characters)
+19. [[Stroke 19]] (55 characters)
 20. [[Stroke 20]] (23 characters)
 21. [[Stroke 21]] (14 characters)
 22. [[Stroke 22]] (11 characters)

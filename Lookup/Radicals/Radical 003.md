@@ -5,10 +5,15 @@ date-last-perfect: 2026-02-22
 ---
 > [[Radicals]]
 
+## Characters
+### Used
 1. <ruby>[[丸]]<rt>ㄏˇㄚㄋ</rt></ruby>
 2. <ruby>[[丹]]<rt>ㄉㄚㄋ</rt></ruby>
 3. <ruby>[[主]]<rt>ㄐㄨ</rt></ruby>
 4. <ruby>[[丼]]<rt>ㄊㄛㄇ</rt></ruby>
+### Aliases
+### Forbidden
+- 丷 
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"

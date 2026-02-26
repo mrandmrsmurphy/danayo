@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-02-01
 ---
-> [[SKIP]] 
+> [[SKIP]] : 1
 
 These are pages about <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> defined by a left-right split. The left half uses only one stroke.  The third number is the stroke count of the right half.
 

@@ -4,17 +4,19 @@ stroke_count: 2
 size: 1
 skip_number: 1-1-1
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-1|1]]
+> [[SKIP]] : 1 : [[SKIP-1-1|1]]
 > These are all of [[Stroke 02]].
 
-These are <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> where defined by a left-right split, with one stroke on the left, and one stroke on the right.
-
-- <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby> - eight
-
+## Characters
+### Used
+1. <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby> - eight
+### Aliases
 - 刂 --> Radical 018, from 刀
 - 儿 --> 児
+### Forbidden
+- 丷 --> A Korean 口訣 for '하다'.
 
-### Datacheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
