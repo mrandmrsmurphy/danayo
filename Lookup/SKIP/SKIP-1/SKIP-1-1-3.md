@@ -1,6 +1,8 @@
 ---
 date-last-perfect: 2026-02-01
 size: 2
+stroke_count: 4
+skip_number: 1-1-3
 ---
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-1|1]]
 > All of these are [[Stroke 04]]
