@@ -27,3 +27,24 @@
 27. [[Stroke 27]] (2 characters) ✅
 28. [[Stroke 28]] (1 character) ✅
 29. [[Stroke 29]] (1 character) ✅
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/Stroke"
+    order:
+      - file.name
+      - size
+      - stroke_count
+      - date-last-perfect
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: size
+        direction: DESC
+
+```

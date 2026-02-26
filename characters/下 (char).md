@@ -60,5 +60,5 @@ Originally an 指事/ideogram, a picture of "down".  It used be a line under ano
 - <ruby>[[落下]]<rt>ㄌㄚㄎㄏㄚ</rt></ruby> - to fall
 - <ruby>[[落下傘]]<rt>ㄌㄚㄎㄏㄚㄙㄚㄋ</rt></ruby> - parachute
 ## Info
-- [[Grade 1.base]], [[HSK Beginner]], [[Jōyō - Kyōiku]], [[Korean MS]]
+- [[Grade 1]], [[HSK Beginner]], [[Jōyō - Kyōiku]], [[Korean MS]]
 - [[Radical 001]] ([[SKIP-4-3-1]], [[Stroke 03]])

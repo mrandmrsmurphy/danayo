@@ -1,6 +1,7 @@
 ---
 date-last-perfect: 2026-02-22
 size: 16
+stroke_count: 2
 ---
 > [[Stroke]]
 

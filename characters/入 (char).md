@@ -43,5 +43,5 @@ date-last-perfect: 2026-02-20
 ```
 
 # Notes
-- [[Grade 1.base]], [[Korean MS]], [[Jōyō - Kyōiku]], HSK 2
+- [[Grade 1]], [[Korean MS]], [[Jōyō - Kyōiku]], HSK 2
 - [[ㄋㄧㄆ]], [[Stroke 02]], [[SKIP-4-2-4]]

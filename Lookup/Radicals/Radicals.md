@@ -304,5 +304,4 @@ views:
     sort:
       - property: size
         direction: ASC
-
 ```
