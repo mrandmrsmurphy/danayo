@@ -16,3 +16,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 156
+  - type: cards
+    name: View
+    order:
+      - file.name
