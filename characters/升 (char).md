@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɕ
 middle_chinese_final: ɨŋ
-stroke_count: "4"
+stroke_count: 4
 radical: 十
 skip_number: 4-4-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - litre
