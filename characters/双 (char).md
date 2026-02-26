@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣʌŋ
-stroke_count: "4"
+stroke_count: 4
 radical: 又
 skip_number: 1-2-2
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - pair
