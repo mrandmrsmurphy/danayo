@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: eu
-stroke_count: "5"
+stroke_count: 5
 radical: 口
 skip_number: 1-3-2
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - shout

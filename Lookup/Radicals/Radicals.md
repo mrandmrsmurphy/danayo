@@ -2,8 +2,8 @@ The **Radical**/<ruby>部首<rt>봇슈</rt></ruby> is an essential element of th
 
 There have been several systems of radicals in use at various times during history.  The following describes the Unicode system of radicals, which is based on the traditional 214 radicals of the Kangxi dictionary.
 
-
-## 1 stroke
+## By Stroke 
+### 1 stroke
 - [[Radical 001]] 一 (19 characters)
 - [[Radical 002]] 丨 (2 characters)
 - [[Radical 003]] 丶 (4 characters)
@@ -12,7 +12,7 @@ There have been several systems of radicals in use at various times during histo
 - [[Radical 006]] 亅 
 
 
-## 2 strokes
+### 2 strokes
 - [[Radical 007]] 二 (9 characters)
 - [[Radical 008]] 亠
 - [[Radical 009]] 人 or combining as 亻
@@ -42,7 +42,7 @@ __Combining or simplified radicals with 2 strokes__
 - 163. combining ⻏ (on character's right side), has 3 strokes, but looks like it has 2 strokes, used for radical 邑
 - 170. combining 阝 (on character's left side), has 3 strokes, but looks like it has 2 strokes, used for radical 阜
 
-## 3 strokes
+### 3 strokes
 - [[Radical 030]] 口
 - [[Radical 031]] 囗
 - [[Radical 032]] 土
@@ -88,7 +88,7 @@ __Combining or simplified radicals with 3 strokes__
 - 169. simplified 门, used for radical 門
 - 170. combining 阝 (on character's left side), has 3 strokes, but looks like it has 2 strokes, used for radical 阜
 
-## 4 strokes
+### 4 strokes
 - [[Radical 061]] 心 or combining as 忄
 - [[Radical 062]] 戈
 - [[Radical 063]] 戶
@@ -131,7 +131,7 @@ __Combining or simplified radicals with 4 strokes__
 - 130. combining ⺼ (looks like 月[1]), used for radical 肉
 - 162. combining 辶, has 4 strokes, but sometimes looks like it has 3 strokes, used for radical 辵
 
-## 5 strokes
+### 5 strokes
 - [[Radical 095]] 玄
 - [[Radical 096]] 玉 or combining as 王
 - [[Radical 097]] 瓜
@@ -164,7 +164,7 @@ __Combining or simplified radicals with 5 strokes__
 - 145. combining 衤, used for radical 衣
 
 
-## 6 strokes
+### 6 strokes
 - [[Radical 118]] 竹
 - [[Radical 119]] 米
 - [[Radical 120]] 糸 or combining as 糹 or 纟
@@ -198,7 +198,7 @@ __Combining or simplified radicals with 5 strokes__
 __Combining or simplified radicals with 6 strokes__
 - 118. combining ⺮, used for radical 竹
 
-## 7 strokes
+### 7 strokes
 - [[Radical 147]] 見
 - [[Radical 148]] 角
 - [[Radical 149]] 言
@@ -220,8 +220,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 165]] 釆
 - [[Radical 166]] 里
 
-
-## 8 strokes
+### 8 strokes
 - [[Radical 167]] 金
 - [[Radical 168]] 長
 - [[Radical 169]] 門 - 19 real characters
@@ -232,7 +231,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 174]] 靑
 - [[Radical 175]] 非
 
-## 9 strokes
+### 9 strokes
 - [[Radical 176]] 面
 - [[Radical 177]] 革
 - [[Radical 178]] 韋
@@ -245,7 +244,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 185]] 首
 - [[Radical 186]] 香
 
-## 10 strokes
+### 10 strokes
 - [[Radical 187]] 馬
 - [[Radical 188]] 骨
 - [[Radical 189]] 高
@@ -255,7 +254,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 193]] 鬲 - There are no real characters here.
 - [[Radical 194]] 鬼
 
-## 11 strokes
+### 11 strokes
 - [[Radical 195]] 魚
 - [[Radical 196]] 鳥 - There are 23 characters here.
 - [[Radical 197]] 鹵
@@ -263,28 +262,43 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 199]] 麥
 - [[Radical 200]] 麻 - There is one real character in here.
 
-## 12 strokes
+### 12 strokes
 - [[Radical 201]] 黃 - There is one real character in here.
 - [[Radical 202]] 黍
 - [[Radical 203]] 黑
 - [[Radical 204]] 黹
 
-## 13 strokes
+### 13 strokes
 - [[Radical 205]] 黽 - There is one real character in here.
 - [[Radical 206]] 鼎 - There is one real character in here.
 - [[Radical 207]] 鼓 - There is one real character in here.
 - [[Radical 208]] 鼠 - There is one real character in here.
 
-## 14 strokes
+### 14 strokes
 - [[Radical 209]] 鼻 - There is one real character in here.
 - [[Radical 210]] 齊 - There is one real character in here.
 
-## 15 strokes
+### 15 strokes
 - [[Radical 211]] 齒 - There are two real characters in here.
 
-## 16 strokes
+### 16 strokes
 - [[Radical 212]] 龍 - There are four real characters in here.
 - [[Radical 213]] 龜 - There is only one real character in here.
 
-## 17 strokes
+### 17 strokes
 - [[Radical 214]] 龠 - There are no real characters here.
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/Radicals"
+    order:
+      - file.name
+      - size
+      - radical
+
+```

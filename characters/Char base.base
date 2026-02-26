@@ -20,8 +20,10 @@ views:
       - grade_level
       - danayo_id
       - formula.score
-      - stroke_count
+      - radical
     sort:
+      - property: radical
+        direction: ASC
       - property: stroke_count
         direction: ASC
       - property: 羅馬字
@@ -59,8 +61,6 @@ views:
       - property: file.name
         direction: ASC
       - property: joyo_level
-        direction: DESC
-      - property: radical
         direction: DESC
       - property: hsk_level
         direction: ASC

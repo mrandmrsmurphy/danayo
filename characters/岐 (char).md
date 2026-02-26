@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: iᴇ
-stroke_count: "7"
+stroke_count: 7
 radical: 山
 skip_number: 1-3-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - fork (in road)

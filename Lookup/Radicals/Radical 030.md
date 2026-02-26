@@ -1,10 +1,7 @@
 ---
-size: 15
 date-last-perfect:
-radical: 又
+size: 118
 ---
-
-
 ## Base check
 ```base
 views:
@@ -13,7 +10,7 @@ views:
     filters:
       and:
         - file.folder == "characters"
-        - radical == "又"
+        - radical == "口"
     order:
       - file.name
       - danayo_id
@@ -21,10 +18,8 @@ views:
       - 注音
       - skip_number
       - stroke_count
-    sort:
-      - property: stroke_count
-        direction: ASC
     columnSize:
-      note.danayo_id: 75
-      note.skip_number: 72
+      note.danayo_id: 64
+      note.english: 236
+
 ```

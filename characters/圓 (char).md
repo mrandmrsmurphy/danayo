@@ -12,16 +12,16 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ø
 middle_chinese_final: iuᴇn
-stroke_count: "13"
+stroke_count: 13
 radical: 囗
 skip_number: 3-3-10
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - circle
   - round
 羅馬字: wen
-韓文:  원
+韓文: 원
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
