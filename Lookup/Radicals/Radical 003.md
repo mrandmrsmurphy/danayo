@@ -13,7 +13,7 @@ date-last-perfect: 2026-02-22
 4. <ruby>[[丼]]<rt>ㄊㄛㄇ</rt></ruby>
 ### Aliases
 ### Forbidden
-- 丷 
+- 丷 --> Korean 구결 for '하다'
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
