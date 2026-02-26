@@ -2,6 +2,10 @@
 size: 7
 ---
 > [[Radicals]]
+## Characters
+### Used
+### Aliases
+### Forbidden
 
 ## Data check
 ```dataview

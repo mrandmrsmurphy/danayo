@@ -8,18 +8,19 @@ stroke_count: 2
 
 ## Characters
 ### Used
-- <ruby>[[九 (char)|九]]<rt>ㄍ˙ㄨ</rt></ruby>
-- <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby>
-- <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>
-- <ruby>[[卜]]<rt>ㄅㄛㄎ</rt></ruby>
-- <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby>
-- <ruby>[[乂]]<rt>˙ㄚ˙</rt></ruby>
+1. <ruby>[[九 (char)|九]]<rt>ㄍ˙ㄨ</rt></ruby>
+2. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby>
+3. <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>
+4. <ruby>[[卜]]<rt>ㄅㄛㄎ</rt></ruby>
+5. <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby>
+6. <ruby>[[乂]]<rt>˙ㄚ˙</rt></ruby>
 ### Aliases
 ### Forbidden
-- ~~勹~~
-- ~~厶~~
-- ~~乄~~
-- ~~乜~~
+- 勹
+- 厶
+- 乄 - variant of 〆, an ancient scribal mark for "closed"
+- 乜 - Cantonese/dialects only for "what"
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
