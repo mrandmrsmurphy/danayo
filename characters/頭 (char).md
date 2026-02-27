@@ -23,8 +23,8 @@ english:
   - head
 羅馬字: tou
 韓文: 톳
-joyo_level: ""
-hsk_level: ""
+joyo_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 248
 mc_id: 680

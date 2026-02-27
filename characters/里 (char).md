@@ -16,12 +16,12 @@ stroke_count: 7
 radical: 里
 skip_number: 4-7-1
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - village
 羅馬字: li
-韓文:  리
-joyo_level: ""
+韓文: 리
+joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 113

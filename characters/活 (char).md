@@ -12,17 +12,17 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: uɑt
-stroke_count: "9"
+stroke_count: 9
 radical: 水
 skip_number: 1-3-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - alive
 羅馬字: hwad
-韓文:  홛
-joyo_level: ""
-hsk_level: ""
+韓文: 홛
+joyo_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 164
 mc_id: 1850

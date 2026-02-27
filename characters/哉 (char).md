@@ -22,7 +22,7 @@ english:
 羅馬字: jai
 韓文: 재
 joyo_level: 日本人名用漢字
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 中
 danayo_id: 174
 mc_id: 272

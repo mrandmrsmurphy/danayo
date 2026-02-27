@@ -25,7 +25,7 @@ english:
 羅馬字: mou
 韓文: 못
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 175
 mc_id: 1332

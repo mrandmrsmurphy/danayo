@@ -282,6 +282,10 @@ views:
     sort:
       - property: formula.spot
         direction: ASC
+      - property: joyo_level
+        direction: ASC
+      - property: hanmun_edu_level
+        direction: DESC
       - property: danayo_id
         direction: ASC
     columnSize:

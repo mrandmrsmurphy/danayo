@@ -12,18 +12,18 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: em
-stroke_count: "9"
+stroke_count: 9
 radical: 火
 skip_number: 2-5-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - point
 羅馬字: dem
-韓文:  덤
+韓文: 덤
 joyo_level: "2"
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 178
 mc_id: 3957
 graphemic_classification: 占

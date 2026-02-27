@@ -21,8 +21,8 @@ pos: ""
 english:
   - see
 羅馬字: gyen
-韓文:  견
-joyo_level: ""
+韓文: 견
+joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 126

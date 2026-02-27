@@ -19,9 +19,9 @@ pos: ""
 english:
   - black
 羅馬字: hug
-韓文:  훅
+韓文: 훅
 joyo_level: "1"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 196
 mc_id: 851
