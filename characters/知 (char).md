@@ -5,27 +5,28 @@ cantonese:
   - zi1
 korean:
   - 지
-korean_native: ""
+korean_native: 알
 japanese:
   - CHI
-japanese_nanori: ""
+japanese_nanori:
+  - さとる
 vietnamese:
   - tri
   - trơ
 middle_chinese_initial: ʈ
 middle_chinese_final: ɣiᴇ
-stroke_count: "8"
+stroke_count: 8
 radical: 矢
 skip_number: 1-5-3
-grade_level: 1
-pos: ""
+grade_level: "1"
+pos: 事詞
 english:
   - know
 羅馬字: jui
 韓文: 쥐
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 146
 mc_id: 54
 graphemic_classification: 矢
@@ -39,3 +40,4 @@ aliases:
 ```
 
 # Notes
+矢, 口

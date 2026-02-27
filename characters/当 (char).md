@@ -4,11 +4,14 @@ mandarin:
 cantonese:
   - dong1
 korean:
-korean_native: ""
+  - 당
+korean_native: 당할
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_nanori:
+  - あ-たる,あ-てる
 vietnamese:
+  - đáng, đương
 middle_chinese_initial: t
 middle_chinese_final: ɑŋ
 stroke_count: 6
@@ -20,9 +23,9 @@ english:
   - while
 羅馬字: dang
 韓文: 당
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 96
 mc_id: 152
 graphemic_classification: 尚
@@ -36,4 +39,5 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- [[Korean MS]]
