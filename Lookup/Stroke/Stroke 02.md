@@ -25,6 +25,7 @@ stroke_count: 2
 16. <ruby>[[又]]<rt>ㄨˇ</rt></ruby> - or again
 ### Aliases
 ### Forbidden
+- 乜 - Cantonese/dialects only
 
 ## Data check
 ```dataview

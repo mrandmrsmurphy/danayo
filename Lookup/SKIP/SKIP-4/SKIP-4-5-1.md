@@ -1,5 +1,7 @@
 ---
 size: 13
+skip_number: 4-5-1
+stroke_count: 5
 ---
 > [[SKIP]] : [[SKIP-4|4]] : [[SKIP-4-0-1]] : [[SKIP-4-5|5]]
 1. [[正]]	

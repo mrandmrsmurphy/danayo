@@ -1,5 +1,7 @@
 ---
 size: 15
+skip_number: 4-3-1
+stroke_count: 3
 ---
 > [[SKIP]] : [[SKIP-4]] : [[SKIP-4-3]] : [[SKIP-4-0-1]]
 - 尸, i.e. Radical 044
