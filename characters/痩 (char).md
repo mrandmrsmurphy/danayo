@@ -8,7 +8,7 @@ japanese_nanori: や-せる
 vietnamese: sấu
 middle_chinese_initial: ʃ
 middle_chinese_final: ɨu
-stroke_count: "12"
+stroke_count: 12
 radical: 疒
 skip_number: 3-5-7
 grade_level: 先進
@@ -19,8 +19,8 @@ english: thin
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 名
-danayo_id: "7532"
-mc_id: ""
+danayo_id: 7532
+mc_id:
 graphemic_classification: 叟
 stand_in: 痩
 aliases:
