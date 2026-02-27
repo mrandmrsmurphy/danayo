@@ -1,5 +1,5 @@
 ---
-aliases:
+stroke_count: 2
 date-last-perfect: 2026-02-06
 ---
 > [[SKIP]] : 4 

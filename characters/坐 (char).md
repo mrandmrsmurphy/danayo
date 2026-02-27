@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d͡z
 middle_chinese_final: uɑ
-stroke_count: "7"
+stroke_count: 7
 radical: 土
 skip_number: 4-7-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - sit
