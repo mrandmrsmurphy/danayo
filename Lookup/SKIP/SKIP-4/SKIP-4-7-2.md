@@ -8,7 +8,7 @@ skip_number: 4-7-2
 > [[Stroke 07]]
 
 ## Characters
-1. <ruby>[[坐]]<rt>ㄐˇㄚ</rt></ruby> - sit
+1. <ruby>[[坐 (char)|坐]]<rt>ㄐˇㄚ</rt></ruby> - sit
 
 ## Datacheck
 ```dataview

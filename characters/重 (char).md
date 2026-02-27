@@ -13,15 +13,15 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨoŋ
-stroke_count: "9"
+stroke_count: 9
 radical: 里
 skip_number: 4-9-2
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - heavy
 羅馬字: cong
-韓文:  총
+韓文: 총
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

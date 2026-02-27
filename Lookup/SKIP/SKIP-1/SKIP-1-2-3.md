@@ -3,7 +3,7 @@ stroke_count: 5
 date-last-perfect: 2026-02-22
 size: 8
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-2|2]]
+> [[SKIP]] : 1 : [[SKIP-1-2|2]]
 > All of these are [[Stroke 05]]
 
 - [[以 (char)|以]]
@@ -15,11 +15,11 @@ size: 8
 - [[氷]]
 - [[付]]
 - [[仗]]
-
+### Aliases
 - [[Radical 105|癶]] (Radical 105)
 - 仞 --> 刃
 - 仔 --> 子
-
+### For
 - ~~扒~~
 
 ### Data double check

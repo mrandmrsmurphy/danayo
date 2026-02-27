@@ -1,13 +1,13 @@
 ---
-stroke_count: 7
+stroke_count: 9
 ---
 > [[SKIP]] : 4
-> [[Stroke 07]]
+> [[Stroke 09]]
 
-1. [[SKIP-4-7-1]]: 亜, 巫, 更, 豕, 酉, 里
-2. [[SKIP-4-7-2]]: 坐
-3. [[SKIP-4-7-3]]: 串, 我, 束, 来, 求, 甫, 身, 車
-4. [[SKIP-4-7-4]]: 夹, 寿, 良
+1. [[SKIP-4-9-1]]: 飛
+2. [[SKIP-4-9-2]]: 重
+3. [[SKIP-4-9-3]]: 乗, 柬, 禹, 禺
+4. [[SKIP-4-9-4]]: 咸, 威, 為
 
 ## Base check
 ```base
@@ -17,7 +17,7 @@ views:
     filters:
       and:
         - file.folder == "lookup/SKIP/SKIP-4"
-        - file.hasLink("SKIP-4-7")
+        - file.hasLink("SKIP-4-9")
     order:
       - file.name
 	  - size
