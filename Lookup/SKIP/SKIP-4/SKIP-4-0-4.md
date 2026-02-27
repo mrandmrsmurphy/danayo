@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-02-01
 ---
-> [[SKIP]] | [[SKIP-4|4]]
+> [[SKIP]] : 4
 
 This is the home page for SKIP characters of type 4-x-4.  These are <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> with a box-like or no pattern.
 
@@ -21,3 +21,19 @@ This is the home page for SKIP characters of type 4-x-4.  These are <ruby>漢字
 13. no
 14. no
 15. [[SKIP-4-15-4]] - 畿, 臧
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-4"
+        - file.hasLink("SKIP-4-0-4")
+    order:
+      - file.name
+      - size
+      - skip_number
+      - stroke_count
+```

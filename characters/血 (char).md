@@ -14,7 +14,7 @@ middle_chinese_initial: x
 middle_chinese_final: wet
 stroke_count: 6
 radical: 血
-skip_number: 4-6-6
+skip_number: 4-6-2
 grade_level: "2"
 pos: ""
 english:

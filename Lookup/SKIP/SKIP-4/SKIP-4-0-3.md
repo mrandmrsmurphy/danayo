@@ -16,3 +16,19 @@ date-last-perfect: 2026-02-13
 - [[SKIP-4-10-3|10]]: 乘 (just a variant of 乗)
 - [[SKIP-4-11-3|11]]: 粛
 - [[SKIP-4-13-3|13]]: 肅 (just a variant of 粛)
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-4"
+        - file.hasLink("SKIP-4-0-3")
+    order:
+      - file.name
+      - size
+      - skip_number
+      - stroke_count
+```

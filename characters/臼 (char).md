@@ -12,9 +12,9 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: ɨu
-stroke_count: "6"
+stroke_count: 6
 radical: 臼
-skip_number: 4-6-6
+skip_number: 4-6-2
 grade_level: 先進
 pos: ""
 english:
