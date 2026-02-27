@@ -1,6 +1,0 @@
----
-size:
-radical:
----
-> [[Radicals]]
-

@@ -12,15 +12,15 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: ia
-stroke_count: "8"
+stroke_count: 8
 radical: 夕
 skip_number: 2-2-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - night
 羅馬字: ya
-韓文:  야
+韓文: 야
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中

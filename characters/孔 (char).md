@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: uŋ
-stroke_count: "4"
+stroke_count: 4
 radical: 子
 skip_number: 1-3-1
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - cavity
