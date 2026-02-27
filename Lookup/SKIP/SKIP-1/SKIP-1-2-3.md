@@ -2,10 +2,13 @@
 stroke_count: 5
 date-last-perfect: 2026-02-22
 size: 8
+skip_number: 1-2-3
 ---
 > [[SKIP]] : 1 : [[SKIP-1-2|2]]
 > All of these are [[Stroke 05]]
 
+## Characters
+### Used
 - [[以 (char)|以]]
 - <ruby>[[加]]<rt>ㄍㄚ</rt></ruby>
 - [[士|仕]] --> 士
@@ -19,8 +22,8 @@ size: 8
 - [[Radical 105|癶]] (Radical 105)
 - 仞 --> 刃
 - 仔 --> 子
-### For
-- ~~扒~~
+### Forbidden
+- 扒
 
 ### Data double check
 ```dataview
