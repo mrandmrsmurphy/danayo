@@ -34,8 +34,6 @@ views:
         direction: ASC
       - property: danayo_id
         direction: ASC
-      - property: formula.score
-        direction: ASC
       - property: hanmun_edu_level
         direction: DESC
       - property: 韓文
