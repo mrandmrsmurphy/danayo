@@ -22,8 +22,8 @@ english:
 羅馬字: moi
 韓文: 뫼
 joyo_level: "2"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 80
 mc_id: 1025
 graphemic_classification: 母

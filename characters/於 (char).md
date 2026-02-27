@@ -5,11 +5,12 @@ cantonese:
   - jyu1
 korean:
   - 어
-korean_native: ""
+korean_native: 어조사
 japanese:
   - O
   - YO
-japanese_nanori: ""
+japanese_nanori:
+  - あう, より, おいて
 vietnamese:
   - ư
 middle_chinese_initial: ʔ
@@ -18,16 +19,16 @@ stroke_count: 8
 radical: 方
 skip_number: 1-4-4
 grade_level: "1"
-pos: ""
+pos: 修飾語
 english:
   - in
   - at
   - during
 羅馬字: "'o"
 韓文: 오
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 日本人名用漢字
+hsk_level: "2"
+hanmun_edu_level: 中
 danayo_id: 138
 mc_id: 13
 graphemic_classification: 象形
@@ -42,3 +43,4 @@ aliases:
 ```
 
 # Notes
+方,仒

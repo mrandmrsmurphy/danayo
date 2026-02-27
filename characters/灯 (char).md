@@ -14,18 +14,18 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ǝŋ
-stroke_count: "6"
+stroke_count: 6
 radical: 火
 skip_number: 1-4-2
-grade_level: 1
-pos: ""
+grade_level: "1"
+pos: 名詞
 english:
   - lamp
 羅馬字: dung
-韓文:  둥
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+韓文: 둥
+joyo_level: "3"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 105
 mc_id: 0
 graphemic_classification: 登

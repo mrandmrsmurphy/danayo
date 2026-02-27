@@ -24,8 +24,8 @@ english:
 羅馬字: pad
 韓文: 팓
 joyo_level: "3"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 162
 mc_id: 226
 graphemic_classification: 癶

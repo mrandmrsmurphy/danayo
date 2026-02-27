@@ -16,14 +16,14 @@ stroke_count: 14
 radical: 糸
 skip_number: 1-6-8
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - green
 羅馬字: log
 韓文: 록
 joyo_level: "3"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 245
 mc_id: 2419
 graphemic_classification: 彔
