@@ -31,6 +31,7 @@ mc_id: 3437
 graphemic_classification: 我
 stand_in: 蛾
 aliases:
+  - 蟻
 注音: ㄚ
 ---
 ```meta-bind-embed

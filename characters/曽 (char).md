@@ -16,7 +16,7 @@ middle_chinese_final: əŋ
 stroke_count: 11
 radical: 曰
 skip_number: 2-2-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - great-
