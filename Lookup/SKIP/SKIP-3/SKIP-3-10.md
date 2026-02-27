@@ -16,7 +16,7 @@ Below are the number of strokes for the other material, that is, that which is s
 13. Does not exist
 14. Does not exist
 15. Does not exist
-16. [[SKIP-3-10-16]]
+16. [[SKIP-3-10-16]]: ø
 
 To be sorted
 14	魁	15	魃	鬧	20	鬪	21	魑	26	鬮

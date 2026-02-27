@@ -4,7 +4,7 @@ stroke_count: 9
 size: 1
 skip_number: 1-1-8
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-1|1]]
+> [[SKIP]] : 1 :| [[SKIP-1-1|1]]
 > These are all of [[Stroke 09]].
 
 - <ruby>[[胤]]<rt>·˙ㄨㄋ</rt></ruby> - heir

@@ -2,6 +2,7 @@
 date-last-perfect: 2026-02-22
 stroke_count: 5
 size: 2
+skip_number: 1-4-1
 ---
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-4|4]]
 > All of these are [[Stroke 05]]

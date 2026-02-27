@@ -1,4 +1,4 @@
-> [[SKIP]] | [[SKIP-1|1]]
+> [[SKIP]] : 1
 
 1. [[SKIP-1-4-1]]
 2. [[SKIP-1-4-2]]
@@ -18,3 +18,19 @@
 16. [[SKIP-1-4-16]]
 17. [[SKIP-1-4-17]]
 18. [[SKIP-1-4-18]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-1"
+        - file.hasLink("SKIP-1-4")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```
