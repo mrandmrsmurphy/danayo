@@ -12,7 +12,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: uɑt
-stroke_count: "17"
+stroke_count: 17
 radical: 門
 skip_number: 3-8-9
 grade_level: 先進
