@@ -1,10 +1,11 @@
 ---
 date-last-perfect: 2026-02-13
 ---
-> [[SKIP]] | [[SKIP-4]]
+> [[SKIP]] : 4
 > These are all the "misc." characters with a vertical line visibly prominent.  The second number represents the number of stroke in total.
 
-- [[SKIP-4-2-3]]: 十
+- 1: There are no SKIP-4-1-3 characters
+- [[SKIP-4-2-3|2]]: 十
 - [[SKIP-4-3-3|3]]: 巾, 才, <ruby>千<rt>ㄑㄝㄋ</rt></ruby>, 屮, 廾
 - [[SKIP-4-4-3|4]]: 井, 牛, 手, 升, 中, 屯, 毛, 木
 - [[SKIP-4-5-3|5]]: [[禾]]	[[乎 (char)]] [[申]]	[[半]]	[[本]]	[[末]]	[[未 (char)]]	[[朮]]	

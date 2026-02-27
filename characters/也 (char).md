@@ -19,7 +19,7 @@ grade_level: "3"
 pos: ""
 english:
   - as for
-  - <emphasis>
+  - EMPHASIS
 羅馬字: ya
 韓文: 야
 joyo_level: 日本人名用漢字

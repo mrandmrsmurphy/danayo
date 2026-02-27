@@ -1,8 +1,8 @@
 ---
-size: 1
+size:
 ---
-> [[SKIP]] : 4 : [[SKIP-4-2|2]] | [[SKIP-4-0-3]]
-> [[Stroke 02]]
+> [[SKIP]] : 4 : [[SKIP-4-5|5]] | [[SKIP-4-0-2]]
+> [[Stroke 05]]
 
 ## Characters
 
@@ -10,5 +10,5 @@ size: 1
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
-WHERE skip_number = "4-2-3"
+WHERE skip_number = "4-2-1"
 SORT file.name ASC
