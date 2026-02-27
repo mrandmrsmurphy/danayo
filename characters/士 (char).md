@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d͡ʒ
 middle_chinese_final: ɨ
-stroke_count: "3"
+stroke_count: 3
 radical: 士
 skip_number: 4-3-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - scholar

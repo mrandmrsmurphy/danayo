@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-> [[SKIP]] | [[SKIP-2|2]] 
+> [[SKIP]] : 2
 
 1. None
 2. [[SKIP-2-8-2]]: 隼

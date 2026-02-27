@@ -1,11 +1,18 @@
 ---
-size: 41
+size: 7
+radical: 士
 ---
-```dataview
-LIST
-FROM "characters"
-WHERE radical = "虫"
-```
+> [[Radicals]]
+
+## Characters
+### Used
+1. [[士 (char)]]
+2. [[壬]]
+3. [[壮]]
+4. [[声]]
+5. [[壱 (char)]]
+6. [[売]]
+7. [[壷]]
 
 ## Base check
 ```base
@@ -15,7 +22,7 @@ views:
     filters:
       and:
         - file.folder == "characters"
-        - radical == "虫"
+        - radical == "士"
     order:
       - file.name
       - danayo_id

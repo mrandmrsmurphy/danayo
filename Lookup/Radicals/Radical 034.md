@@ -1,11 +1,11 @@
 ---
-size: 41
+size: 2
+radical: 夂
 ---
-```dataview
-LIST
-FROM "characters"
-WHERE radical = "虫"
-```
+> [[Radicals]]
+
+1. <ruby>[[変 (char)|変]]<rt>ㄅ˙ㄝㄋ</rt></ruby> - change, alter
+2. <ruby>[[夌]]<rt>ㄌ˙ㄨㄥ</rt></ruby> - dawdle
 
 ## Base check
 ```base
@@ -15,7 +15,7 @@ views:
     filters:
       and:
         - file.folder == "characters"
-        - radical == "虫"
+        - radical == "夂"
     order:
       - file.name
       - danayo_id
