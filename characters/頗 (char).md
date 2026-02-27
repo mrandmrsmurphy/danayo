@@ -22,7 +22,7 @@ english:
 羅馬字: pad
 韓文: 파
 joyo_level: 日本人名用漢字
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 240
 mc_id: 1176

@@ -21,10 +21,10 @@ pos: ""
 english:
   - blue
 羅馬字: ceng
-韓文:  청
+韓文: 청
 joyo_level: "1"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 154
 mc_id: 674
 graphemic_classification: 生

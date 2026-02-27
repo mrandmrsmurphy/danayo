@@ -23,7 +23,7 @@ english:
 韓文: 량
 joyo_level: "3"
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 98
 mc_id: 349
 graphemic_classification: 指事
