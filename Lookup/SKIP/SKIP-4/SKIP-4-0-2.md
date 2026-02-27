@@ -2,7 +2,7 @@
 aliases:
 date-last-perfect: 2026-02-06
 ---
-> [[SKIP]] : 4 : 
+> [[SKIP]] : 4
 #### [[SKIP-4-2-2]]
 七	亠	凵
 ### [[SKIP-4-3-2]]

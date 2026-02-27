@@ -9,3 +9,20 @@ These are all the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> of 一 stroke, whe
 - SKIP-4-1-2 does not exist
 - SKIP-4-1-3 does not exist
 - [[SKIP-4-1-4]] is 一.  There are banned/components 丶, 丿, and 亅, but they aren't characters.
+
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-4"
+        - file.hasLink("SKIP-4-1")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```
