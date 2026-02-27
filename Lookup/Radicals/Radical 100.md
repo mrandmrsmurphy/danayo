@@ -1,12 +1,14 @@
 ---
-size: 1
-radical: 長
+size: 3
+radical: 生
 ---
 > [[Radicals]]
 
 ## Characters
 
-1. [[長 (char)|長]]
+1. [[生]]
+2. [[産]]
+3. [[甥 (char)]]
 
 ## Base check
 ```base
@@ -16,7 +18,7 @@ views:
     filters:
       and:
         - file.folder == "characters"
-        - radical == "長"
+        - radical == "生"
     order:
       - file.name
       - danayo_id

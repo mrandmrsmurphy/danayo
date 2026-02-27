@@ -1,7 +1,15 @@
 ---
 size: 170
+radical: 水
 ---
 > [[Radicals]]
+
+## Characters
+```dataview
+LIST
+FROM "characters"
+WHERE radical = "水"
+```
 
 ## Data search
 ```dataview
