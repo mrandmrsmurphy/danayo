@@ -293,7 +293,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1317. [[弧]] : arc
 1318. [[枯]] : wither
 1319. [[雇]] : employ
-1320. [[誇]] : boast
+1320. [[誇 (char)]] : boast
 1321. [[鼓]] : drum
 1322. [[錮]] : tie up
 1323. [[顧]] : look back

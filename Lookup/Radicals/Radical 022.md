@@ -1,7 +1,11 @@
 ---
 size: 1
+date-last-perfect: 2026-02-28
+radical: 匚
 ---
+> [[Radicals]]
 
+1. <ruby>[[匡]]<rt>ㄎˇㄚㄥ</rt></ruby> - revise 
 
 ## Dataview
 ```dataview

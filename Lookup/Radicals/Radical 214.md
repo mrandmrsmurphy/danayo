@@ -1,6 +1,7 @@
 ---
 date-last-perfect: 2026-02-23
 size: 0
+radical: 龠
 ---
 > [[Radicals]]
 > __unused__

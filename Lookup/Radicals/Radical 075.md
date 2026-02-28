@@ -1,7 +1,9 @@
 ---
 size: 157
+date-last-perfect:
+radical: 木
 ---
-
+> [[Radicals]]
 
 
 ## Base check

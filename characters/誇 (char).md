@@ -39,7 +39,6 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
-- [[Radical 149|言]] + [[誇|夸]] = [[SKIP-1-7-6]] ([[Stroke 13]])
+## Notes
+- [[Radical 149|言]] + 夸 = [[SKIP-1-7-6]] ([[Stroke 13]])
 - [[Jōyō - Kōtō|Japanese HS]], [[Korean HS]], HSK 4, [[Grade 6]]
