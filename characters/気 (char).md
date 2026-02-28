@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨi
-stroke_count: "6"
+stroke_count: 6
 radical: 气
 skip_number: 3-4-2
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - feeling

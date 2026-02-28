@@ -16,7 +16,7 @@ middle_chinese_final: uok
 stroke_count: 8
 radical: 毋
 skip_number: 2-4-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - poisonous
