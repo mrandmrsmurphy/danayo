@@ -14,10 +14,10 @@ vietnamese:
   - xiên
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iuᴇn
-stroke_count: "3"
+stroke_count: 3
 radical: 巛
 skip_number: 1-1-2
-grade_level: 3
+grade_level: "3"
 pos: 名詞
 english:
   - river

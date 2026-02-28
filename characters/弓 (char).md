@@ -12,15 +12,15 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɨuŋ
-stroke_count: "3"
+stroke_count: 3
 radical: 弓
 skip_number: 4-3-1
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - bow
 羅馬字: gung
-韓文:  궁
+韓文: 궁
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中

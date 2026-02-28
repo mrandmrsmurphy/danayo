@@ -52,4 +52,4 @@ date-last-perfect: 2026-02-17
 
 # Notes
 - [[Radical 030|口]] + [[交 (char)]] = [[SKIP-1-3-6]] ([[Stroke 09]]) - [[˙ㄚˇ]]
-- [[Hyōgai]], [[Korean Name ㄱ]], HSK 2, [[Grade 6.base]]
+- [[Hyōgai]], [[Korean Name ㄱ]], HSK 2, [[Grade 6]]

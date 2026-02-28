@@ -52,7 +52,7 @@ date-last-perfect: 2026-02-22
 
 ## Notes
 - While there are clearly parts ([[SKIP-1-9-7]]), "dragon" is regarded as a [[Radical 212|radical]], and so is fundamental in some sense
-- [[Jōyō - Kōtō]], [[Korean HS]], HSK 2, [[Grade 4.base]], [[ㄌ˙ㄛㄥ]]
+- [[Jōyō - Kōtō]], [[Korean HS]], HSK 2, [[Grade 4]], [[ㄌ˙ㄛㄥ]]
 - Dan'a'yo rejects the Chinese simplification to 龙 and Shinjitai to 竜.  The Shinjitai is only used when the character alone, and the long-form reappears in compound words in Japanese!  I
 ### Related Characters
 - + 手 = 攏 (but forbidden)

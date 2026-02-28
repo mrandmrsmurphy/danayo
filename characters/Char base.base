@@ -21,10 +21,11 @@ views:
       - danayo_id
       - formula.score
       - radical
+      - stroke_count
     sort:
-      - property: radical
-        direction: ASC
       - property: stroke_count
+        direction: DESC
+      - property: radical
         direction: ASC
       - property: 羅馬字
         direction: DESC

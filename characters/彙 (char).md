@@ -42,7 +42,7 @@ aliases:
 
 # Notes
 - 形聲: [[Radical 058|彑]] +  冖  + 果 (胃) = [[SKIP-2-3-10]] ([[Stroke 13]])
-- [[Korean Name ㅎ]], [[Jōyō - Kōtō]], HSK 3, [[Grade 6.base]]
+- [[Korean Name ㅎ]], [[Jōyō - Kōtō]], HSK 3, [[Grade 6]]
 
 * [[語彙]] vocabulary --> [[詞彙]]
 * [[字彙]] lexicon

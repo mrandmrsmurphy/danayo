@@ -41,4 +41,4 @@ date-last-perfect: 2026-02-21
 
 ## Notes
 - 山 + 厈 = [[SKIP-2-3-5]] ([[Stroke 08]]) [[ㄚㄋ]]
-- [[Jōyō - Kyōiku]], [[Korean HS]], [[Grade 4.base]], HSK 2
+- [[Jōyō - Kyōiku]], [[Korean HS]], [[Grade 4]], HSK 2

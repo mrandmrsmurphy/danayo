@@ -11,6 +11,8 @@ views:
       - english
       - grade_level
       - 注音
+      - skip_number
+      - stroke_count
     sort:
       - property: danayo_id
         direction: ASC

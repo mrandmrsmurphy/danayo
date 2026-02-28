@@ -43,4 +43,4 @@ swadesh: 96
 # Notes
 - [[Swadesh]] #96 and #97
 - [[Radical 030|口]] + [[土 (char)]] = [[SKIP-1-3-3]] ([[Stroke 06]])
-- [[Jōyō - Kōtō]], [[Korean HS]], HSK 3, [[Grade 5.base]]
+- [[Jōyō - Kōtō]], [[Korean HS]], HSK 3, [[Grade 5]]

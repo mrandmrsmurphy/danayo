@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: pʰ
 middle_chinese_final: en
-stroke_count: "4"
+stroke_count: 4
 radical: 片
 skip_number: 4-4-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - slice

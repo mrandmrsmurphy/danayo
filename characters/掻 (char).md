@@ -41,4 +41,4 @@ aliases:
 
 # Notes
 - [[Radical 064|手]] + [[蚤|𧈡]] = [[SKIP-1-3-8]] ([[Stroke 11]])
-- [[Hyōgai]], [[Korean Name ㅅ]], [[Grade Advanced.base]]
+- [[Hyōgai]], [[Korean Name ㅅ]], [[Grade Advanced]]

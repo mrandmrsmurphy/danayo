@@ -8,7 +8,7 @@ japanese_nanori: ともがら
 vietnamese: bối
 middle_chinese_initial: p
 middle_chinese_final: uʌi
-stroke_count: "15"
+stroke_count: 15
 radical: 車
 skip_number: 2-8-7
 grade_level: "3"
@@ -19,8 +19,8 @@ english: generation
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 高等
-danayo_id: "3999"
-mc_id: ""
+danayo_id: 3999
+mc_id:
 graphemic_classification: 非
 stand_in: 輩
 aliases:

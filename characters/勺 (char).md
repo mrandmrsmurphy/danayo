@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: ɨɐk
-stroke_count: "3"
+stroke_count: 3
 radical: 勹
 skip_number: 3-2-1
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - spoon
