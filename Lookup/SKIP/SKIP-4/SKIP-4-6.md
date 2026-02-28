@@ -1,5 +1,6 @@
 ---
 stroke_count: 6
+date-last-perfect: 2026-02-28
 ---
 > [[SKIP]] : 4
 > [[Stroke 06]]
