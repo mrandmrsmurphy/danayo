@@ -1,19 +1,20 @@
 ---
-date-last-perfect:
+date-last-perfected:
 ---
-> [[SKIP]] : 2
+> [[SKIP]] : 2 
 
 1. None
-2. None
-3. [[SKIP-2-7-3]]: 
-4. [[SKIP-2-7-4]]: 
-5. [[SKIP-2-7-5]]
-6. [[SKIP-2-7-6]]
-7. [[SKIP-2-7-7]]
+2. [[SKIP-2-9-2]]: 
+3. [[SKIP-2-9-3]]
+4. [[SKIP-2-9-4]]
+5. [[SKIP-2-9-5]]
+6. [[SKIP-2-9-6]]
+7. [[SKIP-2-9-7]]
 8. None
-9. [[SKIP-2-7-9]]
+9. None
 10. None
-11. [[SKIP-2-7-11]]
+11. None
+12. [[SKIP-2-9-12]]
 
 ## Base check
 ```base
@@ -23,7 +24,7 @@ views:
     filters:
       and:
         - file.folder == "lookup/SKIP/SKIP-2"
-        - file.hasLink("SKIP-2-7")
+        - file.hasLink("SKIP-2-9")
     order:
       - file.name
       - size

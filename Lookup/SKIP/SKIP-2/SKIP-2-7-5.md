@@ -1,6 +1,7 @@
 ---
 size: 4
 stroke_count: 12
+skip_number: 2-7-5
 ---
 > [[SKIP]] : 2 : [[SKIP-2-7|7]]
 > [[Stroke 12]]

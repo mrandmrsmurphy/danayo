@@ -3,7 +3,7 @@ size: 14
 skip_number: 4-4-1
 stroke_count: 4
 ---
-> [[SKIP]] : [[SKIP-4]] : [[SKIP-4-4]] : [[SKIP-4-0-1]]
+> [[SKIP]] : 4 : [[SKIP-4-4|4]] | [[SKIP-4-0-1]]
 
 1. <ruby>[[尺]]<rt>척</rt></ruby>
 2. <ruby>[[尹]]<rt>윤</rt></ruby>
