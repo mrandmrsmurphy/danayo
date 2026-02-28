@@ -17,22 +17,20 @@ views:
       - date-last-perfect
       - graphemic_classification
       - pos
-      - grade_level
-      - danayo_id
       - formula.score
-      - radical
-      - stroke_count
+      - middle_chinese_final
+      - middle_chinese_initial
     sort:
+      - property: middle_chinese_final
+        direction: ASC
+      - property: middle_chinese_initial
+        direction: DESC
       - property: stroke_count
         direction: DESC
       - property: radical
         direction: ASC
       - property: 羅馬字
         direction: DESC
-      - property: middle_chinese_final
-        direction: DESC
-      - property: middle_chinese_initial
-        direction: ASC
       - property: danayo_id
         direction: ASC
       - property: hanmun_edu_level
