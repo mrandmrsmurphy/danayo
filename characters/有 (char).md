@@ -31,6 +31,7 @@ mc_id: 12
 graphemic_classification: 又
 stand_in: 有
 aliases:
+  - 宥
 注音: ˙ㄨ
 ---
 ```meta-bind-embed
