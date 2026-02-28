@@ -4,8 +4,7 @@ stroke_count: 5
 date-last-perfect:
 skip_number: 3-3-2
 ---
-
-> [[SKIP]] | [[SKIP-3|3]] | [[SKIP-3-3|3]]
+> [[SKIP]] : 3 : [[SKIP-3-3|3]]
 
 - <ruby>[[巨]]<rt>교</rt></ruby>
 - <ruby>[[広]]<rt>광</rt></ruby>

@@ -4,7 +4,7 @@ date-last-perfect:
 size: 11
 skip_number: 3-3-8
 ---
-> [[SKIP]] : [[SKIP-3|3]] : [[SKIP-3-3|3]]
+> [[SKIP]] : 3 : [[SKIP-3-3|3]]
 
 ### Shoot radical (56)
 * 貮 alias of 貳

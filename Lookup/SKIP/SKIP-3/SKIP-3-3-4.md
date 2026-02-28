@@ -4,7 +4,7 @@ date-last-perfect:
 size: 16
 skip_number: 3-3-4
 ---
-> [[SKIP]] | [[SKIP-3|3]] | [[SKIP-3-3|3]]
+> [[SKIP]] : 3 : [[SKIP-3-3|3]]
 
 1. [[屁]]
 2. [[応]]

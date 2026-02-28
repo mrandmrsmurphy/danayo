@@ -1,8 +1,7 @@
 ---
 date-last-perfect: 2026-02-01
 ---
-
-> [[SKIP]] | [[SKIP-3|3]]
+> [[SKIP]] : 3
 
 1. [[SKIP-3-2-1]]
 2. [[SKIP-3-2-2]]
