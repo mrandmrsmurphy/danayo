@@ -1,9 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[道徳経 (book)]] in [[List of Books]]
-- [[六芸]] in [[Redeeming the Six Arts]], [[lexipedia/歴史綱要]], [[translation/周礼 (book)]]
-- [[射術]] in [[Redeeming the Six Arts]]
-- [[御術]] in [[Redeeming the Six Arts]]
-- [[書法]] in [[Redeeming the Six Arts]]
 - [[ㄐㄚㄥ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄇㄚㄥ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄙㄧㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
@@ -1021,7 +1016,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[綾]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
 - [[暉]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
 - [[柾]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
-- [[裏]] in [[lookup/Japanese/Jōyō - Kyōiku]]
 - [[迦]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/Radicals/Radical 162]]
 - [[枷]] in [[lookup/Korean/Korean Name ㄱ]]
 - [[痂]] in [[lookup/Korean/Korean Name ㄱ]]

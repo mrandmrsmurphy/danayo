@@ -984,7 +984,7 @@ The following prefecture names were added in 2017:
 981. [[衆]] : shū	 	masses
 982. [[裁]] : sai	saba-ku	judge
 983. [[装]] : sō ; shō	yosoo-u	attire
-984. [[裏]] : ri	ura	back
+984. [[里 (char)|裏]] : ri	ura	back
 985. [[補]] : ho	ogina-u	supplement
 986. [[視]] : shi	mi-ru	look at
 987. [[覧]] : ran	 	perusal
