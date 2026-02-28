@@ -1,10 +1,10 @@
 ---
-size: 7
-stroke_count: 10
-skip_number: 1-8-2
+size: 20
+stroke_count: 6
+skip_number: 1-3-3
 ---
-> [[SKIP]] : 1 : [[SKIP-1-8|8]]
-> [[Stroke 10]]
+> [[SKIP]] : 1 : [[SKIP-1-3|3]]
+> [[Stroke 06]]
 
 ## Characters
 
@@ -12,5 +12,5 @@ skip_number: 1-8-2
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
-WHERE skip_number = "1-8-2"
+WHERE skip_number = "1-6-6"
 SORT file.name ASC
