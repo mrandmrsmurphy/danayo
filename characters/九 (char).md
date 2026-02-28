@@ -38,6 +38,11 @@ date-last-perfect: 2026-02-20
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- 乙 + 1 = [[SKIP-4-2-4]] ([[Stroke 02]])
+- [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Korean MS]], [[Grade 1]]
+- Pictogram ([[象形.base]]) – a stylized hand, with bent wrist/forearm (hence the hook stroke at lower right). Earlier forms resemble 手 (shǒu), 寸 (cùn). The original meaning of the glyph was “elbow”, which is now written [[肘 (char)]] (OC \*tkuʔ).  After the meaning “elbow” was forgotten, 九 was taken to symbolize a fist tightening to bump up against something; thus, there is a metaphorical bumping up of nine against ten, which is the last number when counting on one's fingers.
+- Descendant: [[鳩]] "pigeon"
 ## Words
 - [[九龍]]- Kowloon
 - [[九月]] - September
@@ -48,6 +53,7 @@ date-last-perfect: 2026-02-20
 - [[九天]] - Highest Heaven
 - [[九卿]] - the Nine Ministers
 - [[九經]] - the nine classics
+- [[十九]] - nineteen 
 - [[九十]] - ninety 
 - [[九族]] - nine generations
 - [[九官鳥]] - starling
@@ -60,7 +66,5 @@ from "words"
 where contains(characters, this.file.name)
 sort file.name
 ```
-## Notes
-- [[SKIP-4-2-4]]
 ### Links
 ![[nav/Numerals]]
