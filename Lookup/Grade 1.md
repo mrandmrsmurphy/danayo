@@ -1,36 +1,36 @@
 ---
 size: 250
 ---
-1. <ruby>[[一 (char)]]<rt>ㄧㄊ</rt></ruby> - one, unity, whole	1
-2. <ruby>[[七 (char)]]<rt>ㄑㄧㄊ</rt></ruby> - seven, 7	2
-3. <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> - ten	3
-4. <ruby>[[九 (char)]]<rt>ㄎ˙ㄨ</rt></ruby> - nine, 9	4
-5. <ruby>[[入 (char)]]<rt>ㄋㄧㄆ</rt></ruby> - enter	5
-6. <ruby>[[刀]]<rt>ㄊㄚˇ</rt></ruby> - blade, knife	6
-7. <ruby>[[二 (char)]]<rt>ㄋㄧ˙</rt></ruby> - two, 2	7
-8. <ruby>[[力 (char)]]<rt>ㄌㄧㄎ</rt></ruby> - power, strength	8	
-9. <ruby>[[八 (char)]]<rt>ㄅㄚㄊ</rt></ruby> - eight, 8	9	
-10. <ruby>[[人 (char)]]<rt>ㄋㄧㄋ</rt></ruby> - person	10	
-11. <ruby>[[子]]<rt>ㄐㄧ</rt></ruby> - son, child	11	
-12. <ruby>[[之 (char)]]<rt>ㄊㄧ</rt></ruby> - s, which	12
-13. <ruby>[[已 (char)]]<rt>ㄧ</rt></ruby> - -ed	13	
-14. <ruby>[[与 (char)]]<rt>˙ㄛ</rt></ruby> - and	14
-15. <ruby>[[大 (char)]]<rt>ㄉㄚ˙</rt></ruby> - big	15	
-16. <ruby>[[三 (char)]]<rt>ㄙㄚㄇ</rt></ruby> - three	16
-17. <ruby>[[才]]<rt>ㄐㄚ˙</rt></ruby> - talent, ability	17
-18. <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> - thousand	18	
-19. <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - myriad, ten-thousand	19	
-20. <ruby>[[山 (char)]]<rt>ㄙㄚㄋ</rt></ruby> - mountain	20	
-21. <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - up, above	21	
-22. <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby> - to, <dative>	22
-23. <ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby> - small	23	
-24. <ruby>[[口 (char)]]<rt>ㄎㄛˇ</rt></ruby> - mouth	24	
-25. <ruby>[[女 (char)]]<rt>ㄋ˙ㄛˇ</rt></ruby> - woman	25	
-26. <ruby>[[下 (char)]]<rt>ㄏㄚ</rt></ruby> - down, below	26	
-27. <ruby>[[土 (char)]]<rt>ㄊㄛ</rt></ruby> - earth	27
-28. <ruby>[[太 (char)]]<rt>ㄊㄚ˙</rt></ruby> - great	28	
-29. <ruby>[[友]]<rt>˙ㄨˇ</rt></ruby> - friend	29	
-30. <ruby>[[内]]<rt>ㄋㄛ˙</rt></ruby> - inside	30	
+1. <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one, unity, whole
+2. <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven, 7
+3. <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> - ten
+4. <ruby>[[九 (char)|九]]<rt>ㄎ˙ㄨ</rt></ruby> - nine, 9
+5. <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby> - enter
+6. <ruby>[[刀]]<rt>ㄊㄚˇ</rt></ruby> - blade, knife
+7. <ruby>[[二 (char)|二]]<rt>ㄋㄧ˙</rt></ruby> - two, 2
+8. <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby> - power, strength
+9. <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby> - eight, 8
+10. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby> - person
+11. <ruby>[[子]]<rt>ㄐㄧ</rt></ruby> - son, child
+12. <ruby>[[之 (char)]]<rt>ㄊㄧ</rt></ruby> - s, which
+13. <ruby>[[已 (char)]]<rt>ㄧ</rt></ruby> - -ed
+14. <ruby>[[与 (char)]]<rt>˙ㄛ</rt></ruby> - and
+15. <ruby>[[大 (char)]]<rt>ㄉㄚ˙</rt></ruby> - big
+16. <ruby>[[三 (char)]]<rt>ㄙㄚㄇ</rt></ruby> - three
+17. <ruby>[[才]]<rt>ㄐㄚ˙</rt></ruby> - talent, ability
+18. <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> - thousand
+19. <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - myriad, ten-thousand
+20. <ruby>[[山 (char)]]<rt>ㄙㄚㄋ</rt></ruby> - mountain
+21. <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - up, above
+22. <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby> - to, DATIVE
+23. <ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby> - small
+24. <ruby>[[口 (char)]]<rt>ㄎㄛˇ</rt></ruby> - mouth
+25. <ruby>[[女 (char)]]<rt>ㄋ˙ㄛˇ</rt></ruby> - woman
+26. <ruby>[[下 (char)]]<rt>ㄏㄚ</rt></ruby> - down, below
+27. <ruby>[[土 (char)]]<rt>ㄊㄛ</rt></ruby> - earth
+28. <ruby>[[太 (char)]]<rt>ㄊㄚ˙</rt></ruby> - great
+29. <ruby>[[友]]<rt>˙ㄨˇ</rt></ruby> - friend
+30. <ruby>[[内]]<rt>ㄋㄛ˙</rt></ruby> - inside
 31. <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby> - -ing	31	
 32. <ruby>[[水 (char)]]<rt>ㄙㄨ</rt></ruby> - water	32	
 33. <ruby>[[父]]<rt>ㄅㄨ</rt></ruby> - father	33	
@@ -238,19 +238,19 @@ size: 250
 235. <ruby>[[数]]<rt>ㄙㄨ</rt></ruby> - count, number	235	
 236. <ruby>[[業 (char)]]<rt>ㄝㄆ</rt></ruby> - profession, business	236	
 237. <ruby>[[農]]<rt>ㄋㄛㄥ</rt></ruby> - farming	237	
-238. <ruby>[[意]]<rt>ㄧ</rt></ruby> - significance, meaning	238	
-239. <ruby>[[遠 (char)]]<rt>ㄛㄋ</rt></ruby> - far	239	
-240. <ruby>[[頗 (char)]]<rt>ㄆㄚㄊ</rt></ruby> - very	240	
-241. <ruby>[[算 (char)]]<rt>ㄙˇㄚㄋ</rt></ruby> - calculate	241	
-242. <ruby>[[語]]<rt>˙ㄛ</rt></ruby> - language	242	
-243. <ruby>[[歌]]<rt>ㄍㄚ</rt></ruby> - song	243	
-244. <ruby>[[読]]<rt>ㄉㄛㄎ</rt></ruby> - read	244	
-245. <ruby>[[緑 (char)]]<rt>ㄌㄛㄎ</rt></ruby> - green	245	
-246. <ruby>[[談]]<rt>ㄉㄚㄇ</rt></ruby> - discuss	246	
-247. <ruby>[[橋 (char)]]<rt>ㄍ˙ㄚˇ</rt></ruby> - bridge, beam	247	
-248. <ruby>[[頭 (char)]]<rt>ㄊㄛˇ</rt></ruby> - head	248	
-249. <ruby>[[薬 (char)]]<rt>˙ㄚㄎ</rt></ruby> - drug, medicine, chemical	249	
-250. <ruby>[[顔]]<rt>ㄚㄋ</rt></ruby> - face, reputation	250
+238. <ruby>[[意]]<rt>ㄧ</rt></ruby> - significance, meaning
+239. <ruby>[[遠 (char)]]<rt>ㄛㄋ</rt></ruby> - far
+240. <ruby>[[頗 (char)]]<rt>ㄆㄚㄊ</rt></ruby> - very
+241. <ruby>[[算 (char)]]<rt>ㄙˇㄚㄋ</rt></ruby> - calculate
+242. <ruby>[[語]]<rt>˙ㄛ</rt></ruby> - language
+243. <ruby>[[歌]]<rt>ㄍㄚ</rt></ruby> - song
+244. <ruby>[[読]]<rt>ㄉㄛㄎ</rt></ruby> - read
+245. <ruby>[[緑 (char)]]<rt>ㄌㄛㄎ</rt></ruby> - green
+246. <ruby>[[談]]<rt>ㄉㄚㄇ</rt></ruby> - discuss
+247. <ruby>[[橋 (char)]]<rt>ㄍ˙ㄚˇ</rt></ruby> - bridge, beam
+248. <ruby>[[頭 (char)]]<rt>ㄊㄛˇ</rt></ruby> - head
+249. <ruby>[[薬 (char)]]<rt>˙ㄚㄎ</rt></ruby> - drug, medicine, chemical
+250. <ruby>[[顔]]<rt>ㄚㄋ</rt></ruby> - face, reputation
 
 ## Base check
 ```base
