@@ -1,5 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[ㄐㄚㄥ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄇㄚㄥ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄙㄧㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ˇㄧ]] in [[Syllable Counts]], [[syllables/Syllables]]
@@ -79,8 +78,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[七星]] in [[characters/七 (char)]]
 - [[七色]] in [[characters/七 (char)]]
 - [[七角形]] in [[characters/七 (char)]]
-- [[三十]] in [[characters/三 (char)]], [[characters/十]]
-- [[九九]] in [[characters/九 (char)]]
 - [[九日]] in [[characters/九 (char)]]
 - [[九泉]] in [[characters/九 (char)]]
 - [[九天]] in [[characters/九 (char)]]
