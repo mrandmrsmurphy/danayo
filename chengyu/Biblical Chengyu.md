@@ -30,4 +30,5 @@ Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
 - [[飲食歓楽]] - eat, drink, and be merry ✅
 - [[加哀痛産]] - add sorrow to painful labor ✅
 - [[道活墨殺]] - Letter kills, Spirit life ✅
+- [[勿妄称名]] - Don't take the Name in vain ✅
 - 
