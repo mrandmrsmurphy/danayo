@@ -17,7 +17,7 @@ stroke_count: 3
 radical: 已
 skip_number: 4-3-1
 grade_level: "1"
-pos:
+pos: 修飾語
 english:
   - -ed
 羅馬字: i
@@ -32,6 +32,7 @@ stand_in: 已
 aliases:
   - 㠯
 注音: ㄧ
+date-last-perfect: 2026-03-01
 ---
 ```meta-bind-embed
 [[nav/char_info]]
