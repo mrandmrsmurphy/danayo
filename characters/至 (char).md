@@ -15,7 +15,7 @@ middle_chinese_final: iɪ
 stroke_count: 6
 radical: 至
 skip_number: 2-3-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - until
@@ -35,4 +35,6 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+## Words
+- [[夏至]]

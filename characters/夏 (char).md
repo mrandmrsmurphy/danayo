@@ -35,3 +35,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- [[夏至]]
