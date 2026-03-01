@@ -22,13 +22,15 @@ Between Mars and Jupiter is the Asteroid Belt <ruby>小行星帯<rt>ㄙㄛㄏㄚ
 Our entire solar system is orbiting (<ruby>軌道<rt>ㄍㄨ·ㄉㄚˇ</rt></ruby>) within a galaxy (<ruby>恒星系<rt>ㄏㄨㄥㄙㄝㄥㄏㄝ˙</rt></ruby>), specifically, the Milky Way <ruby>銀河系<rt>ㄧㄋㄏㄚㄏㄝ˙</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>銀河<rt>ㄧㄋㄏㄚ</rt></ruby>.) Looking out, we see nebulae <ruby>星雲<rt>ㄙㄝㄥ·ㄨㄋ</rt></ruby> and novae <ruby>新星<rt>ㄙㄧㄋㄙㄝㄥ</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>星座<rt>ㄙㄝㄥㄐˇㄚ</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>星群<rt>ㄙㄝㄥㄍㄨㄋ</rt></ruby>.
 
 ### Events
-- [[地平線]] - horizon 
+- <ruby>[[地平線]]<rt>ㄉㄧ˙ㄅ˙ㄝㄥㄙ˙ㄝㄋ</rt></ruby> - horizon 
 - [[天頂]] - zenith 
 - [[天底]] - nadir 
 - [[分点]] - equinox  
 - solstice [[至点]] - point, [[至日]] - day
-- [冬至]] and [[夏至]] [[日食]] - solar eclipse
-- lunar = [[月食]]
+- [[冬至]] winter solstice
+- [[夏至]] summer solstice
+- [[日食]] - solar eclipse
+- lunar eclipse = [[月食]]
 
 ### 六十干支 (天干 / 地支)
 
