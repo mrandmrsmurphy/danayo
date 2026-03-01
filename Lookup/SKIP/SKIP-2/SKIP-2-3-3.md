@@ -8,7 +8,7 @@ skip_number: 2-3-3
 > [[Stroke 06]]
 ## Characters
 ### Common
-芋
+1. [[芋]] - taro
 
 ## Data double check
 ```dataview

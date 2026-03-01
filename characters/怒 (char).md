@@ -16,7 +16,7 @@ middle_chinese_final: uo
 stroke_count: 9
 radical: 心
 skip_number: 2-5-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - angry
@@ -35,5 +35,6 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+## Words
+- [[遷怒]]
