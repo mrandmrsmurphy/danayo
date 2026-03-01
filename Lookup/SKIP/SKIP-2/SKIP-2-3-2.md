@@ -3,7 +3,7 @@ size: 7
 date-last-perfect: 2026-02-24
 stroke_count: 5
 ---
-> [[SKIP]] : [[SKIP-2|2]] : [[SKIP-2-3|3]]
+> [[SKIP]] : 2 : [[SKIP-2-3|3]]
 
 - <ruby>[[兄 (char)|兄]]<rt>ㄏ˙ㄛㄥ</rt></ruby> - older brother
 - <ruby>[[冬 (char)|冬]]<rt>ㄊㄛㄥ</rt></ruby> - winter

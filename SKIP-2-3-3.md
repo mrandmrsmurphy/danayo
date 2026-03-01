@@ -6,6 +6,9 @@ skip_number: 2-3-3
 ---
 > [[SKIP]] : 2 : [[SKIP-2-3|3]]
 > [[Stroke 06]]
+## Characters
+### Common
+芋
 
 ## Data double check
 ```dataview
