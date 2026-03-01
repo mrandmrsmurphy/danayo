@@ -25,7 +25,7 @@ english:
 韓文: 걱
 joyo_level: "6"
 hsk_level: "3"
-hanmun_edu_level: kd
+hanmun_edu_level:
 danayo_id: 6666
 mc_id: 1969
 graphemic_classification: 豦

@@ -16,7 +16,7 @@ pos: 名詞
 english: table, desk, stand
 羅馬字: tag
 韓文: 탁
-joyo_level: hyo
+joyo_level: 表外字
 hsk_level: "1"
 hanmun_edu_level: 無
 danayo_id: 5362
