@@ -16,10 +16,10 @@ views:
       - origin
       - date-last-perfect
     sort:
+      - property: origin
+        direction: DESC
       - property: date-last-perfect
         direction: DESC
-      - property: origin
-        direction: ASC
       - property: 韓文
         direction: ASC
     columnSize:

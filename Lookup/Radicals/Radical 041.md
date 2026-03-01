@@ -1,6 +1,6 @@
 ---
 size: 13
-radicals: 寸
+radical: 寸
 ---
 > [[Radicals]]
 
