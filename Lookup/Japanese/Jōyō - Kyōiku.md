@@ -94,7 +94,7 @@ The following prefecture names were added in 2017:
 87. [[太 (char)]] : thick ; ta (futo-i)
 88. [[細]] : thin ; sai (hoso-i)
 89. [[広]] : wide ; kō (hiro-i)
-90. [[長]] : long, leader ; chō (naga-i)
+90. [[長 (char)]] : long, leader ; chō (naga-i)
 91. [[点 (char)]] : point ; ten (bochi)
 92. [[丸]] : circle ; gan (maru)
 93. [[交]] : intersect ; kō (maji-waru)
