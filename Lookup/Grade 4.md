@@ -1,7 +1,12 @@
 ---
 size: 327
 ---
-
+## Characters
+```dataview
+LIST
+FROM "characters"
+WHERE grade_level = "4" OR grade_level = 4
+```
 
 ## Base check
 ```base

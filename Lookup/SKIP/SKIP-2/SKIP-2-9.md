@@ -1,5 +1,5 @@
 ---
-date-last-perfected:
+date-last-perfect:
 ---
 > [[SKIP]] : 2 
 

@@ -8,7 +8,7 @@ japanese_nanori: あららぎ
 vietnamese: tháp, thạp, thóp
 middle_chinese_initial: tʰ
 middle_chinese_final: 塔
-stroke_count: "12"
+stroke_count: 12
 radical: 土
 skip_number: 1-3-9
 grade_level: "4"
@@ -19,8 +19,7 @@ english: pagoda
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等
-danayo_id: "4388"
-mc_id: ""
+danayo_id: 4388
 graphemic_classification: 荅
 stand_in: 塔
 aliases:

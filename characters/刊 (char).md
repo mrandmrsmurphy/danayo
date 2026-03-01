@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɑn
-stroke_count: "5"
+stroke_count: 5
 radical: 刀
 skip_number: 1-3-2
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - publication
@@ -35,5 +35,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [[季刊]]
