@@ -30,7 +30,8 @@
 - !!!枡!!!<-[[桝]]
 - 疼!!!
 ## Our Records
-[[廈]]
+1. [[廈]]
+2. [[歆]] - be pleased
 
 ```base
 version: 1
