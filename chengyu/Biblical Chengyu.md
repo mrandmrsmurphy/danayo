@@ -10,7 +10,6 @@ Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
 - [[帰塵帰土]] - ashes to ashes, dust to dust ✅
 - [[汗食帰泥]] - by the sweat of your brow
 - [[腹行食塵]] - crawl belly eat dust ✅
-- [[痛産夫治]] - painful birth, husband rule
 - [[破頭傷足]] - smash head hurt foot
 - [[家分不立]] - a house divided against itself cannot stand ✅
 - [[豹斑改乎]] - Can a leopard change his spots? ✅
