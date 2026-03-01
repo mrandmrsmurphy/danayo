@@ -32,11 +32,15 @@ graphemic_classification: 象形
 stand_in: 長
 aliases:
   - 长
+  - 镸
 注音: ㄐㄚㄥ
 ---
->[!tip] 
+>[!tip] This is the page for the character 長.  
+>For the word, see [[長]].
+>For the radical, see [[Radical 168]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 # Notes
+- 
