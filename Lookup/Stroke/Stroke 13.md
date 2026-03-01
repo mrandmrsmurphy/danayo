@@ -1,14 +1,18 @@
 ---
-size: 268
+size: 269
 stroke_count: 13
 date-last-perfect:
 ---
 
 > [[Stroke]]
 
-- [[豊]]
-## Grove
-- [[禁]]
+```dataview
+LIST
+FROM "characters"
+WHERE stroke_count = 13
+SORT skip_number ASC
+```
+
 
 ```dataview
 TABLE 注音 AS "注音", radical AS "rad", skip_number AS "SKIP"

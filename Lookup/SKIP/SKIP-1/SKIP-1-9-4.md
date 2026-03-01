@@ -1,29 +1,28 @@
 ---
-size: 11
+size: 12
 stroke_count: 13
 date-last-perfect:
+skip_number: 1-9-4
 ---
-> [[SKIP]] : [[SKIP-1]] : [[SKIP-1-9]]
-# Used
-- [[献]]
-- [[鼓]] - drum
-- 尠 is an alias of [[鮮]]
-- 韵 is an alias of [[韻]]
-- 飩 is an alias of [[沌]]?
-- [[新]] - new
-- [[数]] - number
-- [[戦]]
-- [[殿]]
-- [[猷]]
-- [[斟]]
-- [[飮]]
-- [[歇]]
-- [[靴]]
-- [[毀]]	
-
-# Unused (but up for consideration)
-飫, 飭, 戡
-# Banned
+> [[SKIP]] : 1 : [[SKIP-1-9|9]]
+> [[Stroke 13]]
+## Characters
+### Used
+1. [[献]] - offer, present
+2. [[鼓]] - drum
+3. [[新 (char)]] - new
+4. [[数]] - number
+5. [[戦]] - war, battle
+6. [[殿]] - palace
+7. [[斟]] - pour wine
+8. [[歇]] - stop in the middle
+9. [[靴]] - boot
+10. [[毀 (char)]] - destroy, slader
+11. [[歆]] - be pleased
+12. [[飲 (char)]] - drink
+### Unused (but up for consideration)
+飫, 飭, 戡, [[猷]], [[飮]]
+### Banned
 - 歃 has many aliases but is gross and rare
 - 靹 J creation
 
