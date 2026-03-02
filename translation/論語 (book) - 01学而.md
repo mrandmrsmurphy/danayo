@@ -1,9 +1,9 @@
 ## 1
-<ruby>学習物<rt>ㄏㄚㄎㄙㄧㄆㄇㄨㄊ</rt></ruby><ruby>与<rt>·˙ㄛ</rt></ruby> <ruby>常時<rt>ㄙ˙ㄚㄥㄙㄧ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>練習物<rt>ㄌㄝㄋㄙㄧㄆㄇㄨㄊ</rt></ruby> <ruby>不亦<rt>ㄅㄛㄊ·˙ㄚㄎ</rt></ruby><ruby>喜悦<rt>ㄏㄧ·˙ㄝㄊ엳</rt></ruby><ruby>乎<rt>호</rt></ruby>?<br/>
+<ruby>学習物<rt>ㄏㄚㄎㄙㄧㄆㄇㄨㄊ</rt></ruby><ruby>与<rt>·˙ㄛ</rt></ruby> <ruby>常時<rt>ㄙ˙ㄚㄥㄙㄧ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>練習物<rt>ㄌㄝㄋㄙㄧㄆㄇㄨㄊ</rt></ruby> <ruby>不亦<rt>ㄅㄛㄊ·˙ㄚㄎ</rt></ruby><ruby>喜悦<rt>ㄏㄧ·˙ㄝㄊ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>?<br/>
 
-<ruby>有<rt>유</rt></ruby><ruby>遠方<rt>온팡</rt></ruby><ruby>由<rt>윳</rt></ruby><ruby>来<rt>래</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>友朋<rt>붕윳</rt></ruby><ruby>事<rt>지</rt></ruby> <ruby>不亦<rt>볻역</rt></ruby><ruby>快楽<rt>쾌락</rt></ruby><ruby>乎<rt>호</rt></ruby>?
+<ruby>有<rt>˙ㄨ</rt></ruby><ruby>遠方<rt>·ㄛㄋㄆㄚㄥ</rt></ruby><ruby>由<rt>·˙ㄨˇ</rt></ruby><ruby>来<rt>ㄌㄙ˙</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>友朋<rt>ㄅㄨㄥ·˙ㄨˇ</rt></ruby><ruby>事<rt>ㄐㄧ</rt></ruby> <ruby>不亦<rt>ㄅㄛㄊ·˙ㄚㄎ</rt></ruby><ruby>快楽<rt>ㄎˇㄚ˙ㄌㄚㄎ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>?
 
-<ruby>人等<rt>닌둥</rt></ruby><ruby>不<rt>볻</rt></ruby><ruby>知<rt>쥐</rt></ruby>
+<ruby>人等<rt>ㄋㄧㄋㄉㄛㄥ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>知<rt>ㄐㄨ˙</rt></ruby>
 
 The Confucius said, "Is it not pleasant to learn with a constant perseverance and application? 
 Is it not delightful to have friends coming from distant quarters? 
