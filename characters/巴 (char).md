@@ -39,3 +39,4 @@ aliases:
 ```
 
 # Notes
+- Descendants: [[把]]
