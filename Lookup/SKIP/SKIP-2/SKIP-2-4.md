@@ -1,4 +1,7 @@
-> [[SKIP]] | [[SKIP-2|2]]
+---
+size:
+---
+> [[SKIP]] : 2
 
 1. [[SKIP/2/4/1|1]]
 2. [[SKIP/2/4/2|2]]
@@ -17,3 +20,19 @@
 15. missing
 16. missing
 17. [[SKIP/2/4/17|17]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-2"
+        - file.hasLink("SKIP-2-4")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

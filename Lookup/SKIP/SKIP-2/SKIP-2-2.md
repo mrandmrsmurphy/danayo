@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-> [[SKIP]] : [[SKIP-2|2]]
+> [[SKIP]] : 2
 
 Radical: 亠 𠆢 丷 勹𠂉 人 十八 冖 厶龴 丆 
 
@@ -25,3 +25,19 @@ Radical: 亠 𠆢 丷 勹𠂉 人 十八 冖 厶龴 丆
 18. [[SKIP-2-2-18]]
 19. [[SKIP-2-2-19]]
 20. [[SKIP-2-2-20]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-2"
+        - file.hasLink("SKIP-2-2")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

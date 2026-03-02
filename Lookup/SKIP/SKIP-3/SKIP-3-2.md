@@ -25,3 +25,19 @@ date-last-perfect: 2026-02-01
 20. none
 21. none
 22. [[SKIP-3-2-22]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-3"
+        - file.hasLink("SKIP-3-2")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

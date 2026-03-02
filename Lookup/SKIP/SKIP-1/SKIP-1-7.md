@@ -1,4 +1,8 @@
-> [[SKIP]] | [[SKIP-1|1]]
+---
+size:
+---
+
+> [[SKIP]] : 1
 
 Common radicals: 言 貝 酉 足 車 君
 
@@ -21,3 +25,19 @@ Common radicals: 言 貝 酉 足 車 君
 17.  [[SKIP-1-7-17]]
 18.  [[SKIP-1-7-18]]
 19.  [[SKIP-1-7-19]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-1"
+        - file.hasLink("SKIP-1-7")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

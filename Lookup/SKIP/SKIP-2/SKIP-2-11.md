@@ -1,5 +1,9 @@
-> [[SKIP]] | [[SKIP-2|2]]
+---
+aliases:
+---
+> [[SKIP]] : 2
 These are characters with a clear top-bottom split, and 11 strokes in the top section
+
 1. none
 2. [[SKIP-2-11-2]] 與	鳧	勢	準	
 3. [[SKIP-2-11-3]] 塹	墅	塾	奬
@@ -13,3 +17,19 @@ These are characters with a clear top-bottom split, and 11 strokes in the top se
 11. [[SKIP-2-11-11]] 鷙	鰲	
 12. none
 13. [[SKIP-2-11-13]] 鼇 
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-2"
+        - file.hasLink("SKIP-2-11")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

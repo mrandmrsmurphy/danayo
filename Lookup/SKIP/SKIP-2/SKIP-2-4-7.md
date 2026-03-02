@@ -1,5 +1,7 @@
 ---
 size: 8
+skip_number: 2-4-7
+stroke_count: 11
 ---
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-4|4]]
 

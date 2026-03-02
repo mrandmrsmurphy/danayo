@@ -1,4 +1,7 @@
-> [[SKIP]] | [[SKIP-2|2]]
+---
+aliases:
+---
+> [[SKIP]] : 2
 
 ### [[SKIP-2-5-1]] 
 丞	
@@ -49,3 +52,20 @@
 羇	疉	疊	
 ### [[SKIP-2-5-19]] 
 羈
+
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-2"
+        - file.hasLink("SKIP-2-5")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

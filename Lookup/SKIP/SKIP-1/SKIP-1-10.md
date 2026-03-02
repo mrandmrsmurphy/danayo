@@ -1,4 +1,8 @@
-> [[SKIP]] | [[SKIP-1|1]]
+---
+size:
+---
+
+> [[SKIP]] : 1
 
 創	剩	割	馭	勤	凱	
 骭 鄒	馳	馴	
@@ -28,3 +32,19 @@
 17. [[SKIP-1-10-17]]
 18. [[SKIP-1-10-18]]
 19. [[SKIP-1-10-19]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-1"
+        - file.hasLink("SKIP-1-10")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

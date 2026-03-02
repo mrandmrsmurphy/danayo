@@ -16,7 +16,7 @@ middle_chinese_final: iɪn
 stroke_count: 10
 radical: 示
 skip_number: 1-5-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - god

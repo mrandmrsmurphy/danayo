@@ -20,3 +20,20 @@ aliases:
 15. none
 16. [[SKIP-2-8-16]]
 17. [[SKIP-2-8-17]]
+
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-2"
+        - file.hasLink("SKIP-2-8")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```

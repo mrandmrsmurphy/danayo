@@ -1,6 +1,8 @@
 ---
 size: 16
 date-last-perfect: 2026-02-07
+stroke_count: 5
+skip_number: 2-2-3
 ---
 > [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-2|2]]
 

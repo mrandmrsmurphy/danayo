@@ -1,4 +1,7 @@
-> [[SKIP]] | [[SKIP-2|2]]
+---
+size:
+---
+> [[SKIP]] : 2
 
 1. No
 2. [[SKIP-2-10-2]] - 凖 粤
@@ -20,6 +23,22 @@
 18. No
 19. No
 20. [[SKIP-2-10-20]] - 驫
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-2"
+        - file.hasLink("SKIP-2-10")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```
 
 
 

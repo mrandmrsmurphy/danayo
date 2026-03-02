@@ -1,3 +1,7 @@
+---
+aliases:
+---
+
 These are character with a surrounding element of ten-strokes, typically either the demon-radical or the door-radical
 
 Below are the number of strokes for the other material, that is, that which is surrounded
@@ -20,3 +24,19 @@ Below are the number of strokes for the other material, that is, that which is s
 
 To be sorted
 14	魁	15	魃	鬧	20	鬪	21	魑	26	鬮
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-3"
+        - file.hasLink("SKIP-3-10")
+    order:
+      - file.name
+	  - size
+      - skip_number
+      - stroke_count
+```
