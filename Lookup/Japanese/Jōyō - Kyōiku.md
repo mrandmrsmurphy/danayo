@@ -632,7 +632,7 @@ The following prefecture names were added in 2017:
 623. [[連 (char)]] : ren	tsu-reru ; tsura-neru	take along
 624. [[達]] :  –	tachi	attain
 625. [[選]] : sen	era-bu	choose
-626. [[郡]] : gun	 –	county
+626. [[郡 (char)]] : gun	 –	county
 627. [[量]] : ryō	 –	quantity
 628. [[録]] : roku	 –	record
 629. [[鏡]] : kyō	kagami	mirror
