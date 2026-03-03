@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iᴇk
-stroke_count: "4"
+stroke_count: 4
 radical: 尸
 skip_number: 4-4-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - foot (distance)
@@ -35,5 +35,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Descendants: [[択]]
