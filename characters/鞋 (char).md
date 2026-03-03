@@ -37,4 +37,5 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+-  形声, OC \*ɡreː, \*ɡreː, \*ɡreː): semantic [[Radical 177|革]] (“leather”) + phonetic [[圭]] (OC \*kʷeː) – leather shoes. Originally written as 鞵.
