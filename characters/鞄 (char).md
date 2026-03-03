@@ -36,5 +36,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声, OC \*bruː, \*bruːʔ, \*bruːs, \*pʰruːɡ): semantic [[Radical 177|革]] (“leather”) + phonetic [[鞄 (char)]]包 (OC \*pruː).
