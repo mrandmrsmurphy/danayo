@@ -34,5 +34,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Descendants: [[誹]]
