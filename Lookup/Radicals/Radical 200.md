@@ -1,15 +1,15 @@
 ---
 size: 1
 date-last-perfect: 2026-02-22
-radical:
+radical: 麻
 ---
+> [[Radicals]]
+> The "hemp" radical.
 
-[[Radicals]]
-
-## Strokes
-### +0 Stroke
-- <ruby>[[麻]]<rt>마</rt></ruby> - help
-### +3 Strokes
+## Characters
+### Used
+1.  <ruby>[[麻]]<rt>ㄇㄚ</rt></ruby> - help
+### Forbidden
 - forbidden 麼
 - forbidden 麽
 

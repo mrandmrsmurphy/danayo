@@ -1,22 +1,20 @@
 ---
 date-last-perfect: 2026-02-23
 size: 1
+radical: 黽
 ---
-
 > [[Radicals]]
-## Strokes
-### +0 Stroke 
-- 黽, 黾 = this radical
-### +6 Strokes 
-- 鼄-->蛛
-### +8 Strokes 
-- 鼅-->蜘
-### +10 Strokes 
-- 鼇 --> 鰲
-### +11 Strokes
-- 䵹-->蜘
-###  +12 Strokes 
+> The small-tailed frog radical
+
+## Characters
+### Used
 1. <ruby>[[鼈]]<rt>ㄅㄝㄊ</rt></ruby> - a kind of turtle
+### Redirects
+- 鼄-->蛛
+- 鼅-->蜘
+- 鼇 --> 鰲
+- 䵹-->蜘
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"

@@ -1,11 +1,14 @@
 ---
 size: 1
+date-last-perfect: 2026-03-03
+radical: 鼎
 ---
+> [[Radicals]]
+> **Radical 206** is "tripod"
+> 
+1. <ruby>[[鼎]]<rt>ㄉㄧㄥ</rt></ruby> - tripod
 
-**Radical 206** is "tripod", <ruby>[[鼎]]<rt>딩</rt></ruby>
-
-## Strokes
-### +3 Strokes
+### Redirects
 - 䵺 -> 町
 
 ## Data check
