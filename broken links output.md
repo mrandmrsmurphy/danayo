@@ -1,4 +1,4 @@
-- [[ㄛㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
+- [[syllables/ㄛㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄍ˙ㄨ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄉㄚㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄍㄚㄥ]] in [[Syllable Counts]], [[syllables/Syllables]]
