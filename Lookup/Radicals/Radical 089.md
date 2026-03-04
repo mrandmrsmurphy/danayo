@@ -1,10 +1,11 @@
 ---
 size: 1
-date-last-perfect:
+date-last-perfect: 2026-03-03
 radical: 爻
 ---
 > [[Radicals]]
 
+1. <ruby>[[爽]]<rt>ㄙˇㄚㄥ</rt></ruby> - refreshing, frank
 ## Data search
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

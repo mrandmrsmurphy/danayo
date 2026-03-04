@@ -1,5 +1,7 @@
 ---
 size: 10
+date-last-perfect:
+radical:
 ---
 > [[Radicals]]
 

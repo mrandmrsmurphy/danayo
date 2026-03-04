@@ -1,11 +1,11 @@
 ---
 size: 1
-date-last-perfect:
+date-last-perfect: 2026-03-03
 radical: 气
 ---
 > [[Radicals]]
 
-1. [[気 (char)]]
+1. <ruby>[[気 (char)|気]]<rt>ㄎㄧ˙</rt></ruby> - feeling
 
 ## Data search
 ```dataview
