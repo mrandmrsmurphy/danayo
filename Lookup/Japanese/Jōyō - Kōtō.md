@@ -66,7 +66,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1090. [[俺]] : I, we, myself
 1091. [[卸]] : wholesale
 1092. [[穏]] : 	穩	calm
-1093. [[佳]] : excellent
+1093. [[佳 (char)]] : excellent
 1094. [[苛]] : torment
 1095. [[架 (char)]] : rack
 1096. [[華]] : splendor

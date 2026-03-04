@@ -8,7 +8,7 @@ skip_number: 1-2-6
 
 - <ruby>[[依]]<rt>의</rt></ruby> "to rely on"
 - [[価]]
-- [[佳]]
+- [[佳 (char)]]
 - [[供]]
 - [[協]]
 - <ruby>[[使]]<rt>시</rt></ruby> "envoy"

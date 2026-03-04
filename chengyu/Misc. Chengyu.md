@@ -8,3 +8,4 @@
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ˙ㄚˇㄋ˙ㄝㄋ</rt></ruby> - obvious
 - <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏˇㄝㄥ·ㄧㄊ·ㄨ</rt></ruby> - Manifest Destiny
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋ˙ㄧㄑㄛˇ</rt></ruby> - two birds with one stone
+- <ruby>[[日月星辰]]<rt>ㄋㄧㄊ·ˇㄝㄊㄙㄝㄥㄙㄧㄋ</rt></ruby> - Sun, moon, stars, constellations

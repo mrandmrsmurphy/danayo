@@ -37,4 +37,7 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- 形声: OC \*kreː): semantic [[Radical 009|人]] (“man; person”) + phonetic [[圭]] (OC \*kʷeː).
+- [[SKIP-1-2-6]] ([[Stroke 08]]) [[ㄍ˙ㄚ˙]]
+- [[Korean MS]], [[Jōyō - Kōtō]], [[Grade 3]]
