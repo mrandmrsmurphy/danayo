@@ -35,5 +35,6 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 ## Notes
+- [[暗中]]
+

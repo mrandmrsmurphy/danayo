@@ -6,4 +6,5 @@
 - <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚˇ·ㄧㄊㄙㄝㄎ</rt></ruby> - one morning one evening
 - <ruby>[[一期一会]]<rt>ㄧㄜㄎㄧ·ㄧㄊㄏˇㄝ</rt></ruby>  - one lifetime, one meeting
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ˙ㄚˇㄋ˙ㄝㄋ</rt></ruby> - obvious
+- <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏˇㄝㄥ·ㄧㄊ·ㄨ</rt></ruby> - Manifest Destiny
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋ˙ㄧㄑㄛˇ</rt></ruby> - two birds with one stone

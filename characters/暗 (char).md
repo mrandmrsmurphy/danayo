@@ -15,12 +15,12 @@ middle_chinese_final: ʌm
 stroke_count: 13
 radical: 日
 skip_number: 1-4-9
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - dark
 羅馬字: am
-韓文:  암
+韓文: 암
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -35,5 +35,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [[暗中]]
