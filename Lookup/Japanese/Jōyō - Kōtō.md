@@ -899,7 +899,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1922. [[伏]] : prostrated
 1923. [[幅]] : breadth
 1924. [[覆]] : capsize
-1925. [[拂|払]] :	pay
+1925. [[拂 (char)]] :	pay
 1926. [[沸]] : seethe
 1927. [[紛]] : distract
 1928. [[雰]] : atmosphere

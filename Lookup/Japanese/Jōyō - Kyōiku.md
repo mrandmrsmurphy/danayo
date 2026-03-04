@@ -571,7 +571,7 @@ The following prefecture names were added in 2017:
 562. [[浅]] : sen	asa-i	shallow
 563. [[浴]] : yoku	abi-ru	bathe
 564. [[清]] : sei or shō	kiyo-raka	pure
-565. [[満]] : man	mi-chiru	full
+565. [[満 (char)]] : man	mi-chiru	full
 566. [[漁]] : ryō or gyō	asa-ru	fishing
 567. [[灯]] : tō	hi	lamp
 568. [[無 (char)]] : mu or bu	na-i	nothing

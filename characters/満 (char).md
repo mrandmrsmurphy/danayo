@@ -35,5 +35,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声: OC \*moːnʔ): semantic [[Radical 085|水]] (“water”) + phonetic [[㒼]] (mán).

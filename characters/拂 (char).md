@@ -14,10 +14,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: pʰ
 middle_chinese_final: ɨut
-stroke_count: "8"
+stroke_count: 8
 radical: 手
 skip_number: 1-3-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - shake off
@@ -38,5 +38,6 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声: OC \*pʰɯd): semantic [[Radical 064|扌]] (“hand”) + phonetic [[弗]] (OC \*pɯd).
+	- Recall that Dan'a'yo does not follow the Shinjitai practice of replacing the component 弗 with 厶.
