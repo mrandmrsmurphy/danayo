@@ -1,12 +1,12 @@
 ---
 size: 1
+date-last-perfect: 2026-03-03
+radical: 鼓
 ---
-
 > [[Radicals]]
+> **Radical 207** is "drum".
 
-**Radical 207** is "drum".
-
-- <ruby>[[鼓]]<rt>고</rt></ruby> (鼔) - drum
+- <ruby>[[鼓]]<rt>ㄍㄛ</rt></ruby> - drum
 
 ## Data check
 ```dataview
