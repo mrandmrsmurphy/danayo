@@ -1,12 +1,12 @@
 ---
-size: 143
+size: 144
+radical: 人
 ---
-
 > [[Radicals]]
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "人"
-SORT file.name ASC
+SORT stroke_count ASC

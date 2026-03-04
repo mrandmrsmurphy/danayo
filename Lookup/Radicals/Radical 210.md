@@ -1,18 +1,19 @@
 ---
 size: 1
+date-last-perfect: 2026-03-03
+radical: 齊
 ---
 > [[Radicals]]
+> Radical **210** - even
 
-## Plus Stroke
-### +0 Stroke
+## Characters
+### Used
+- <ruby>[[斉]]<rt>ㄐㄝ˙</rt></ruby> - simultaneous
+
+### Redirects
 - 齊-->斉
 - 齐-->斉
-- <ruby>[[斉]]<rt>제</rt></ruby> - simultaneous
-
-### +3 Strokes
 - 齋-->斎
-
-### +7 Strokes
 - 齎 --> 斉
 
 ## Data check

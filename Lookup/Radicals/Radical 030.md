@@ -1,7 +1,12 @@
 ---
 date-last-perfect:
 size: 118
+radical: 口
 ---
+> [[Radicals]]
+> Mouth radical
+
+
 ## Base check
 ```base
 views:

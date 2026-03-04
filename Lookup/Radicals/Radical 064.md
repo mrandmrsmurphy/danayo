@@ -1,7 +1,9 @@
 ---
 size: 137
+radical: 手
 ---
 > [[Radicals]]
+> Hand
 
 ## Data search
 ```dataview
