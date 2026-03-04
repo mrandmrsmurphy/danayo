@@ -11,7 +11,7 @@ language: English
 	- <ruby>鸚鵡<rt>ㄚㄥㄇㄨ</rt></ruby> parrot
 - <ruby>[[昆虫]]<rt>ㄍㄛㄋㄐㄨㄥ</rt></ruby> "bug", creepy crawly, insect+worm+snake
 - <ruby>猫<rt>ㄇ˙ㄚˇ</rt></ruby> : cat, domestic feline
-- <ruby>[[犬]]<rt>ㄎˇㄝㄋ</rt></ruby> : dog, the pet
+- <ruby>[[words/犬]]<rt>ㄎˇㄝㄋ</rt></ruby> : dog, the pet
 - <ruby>[[鴨]]<rt>ㄚㄆ</rt></ruby> : duck
 - [[魚類]] : fish, a class of animal
 - [[馬]] : horse, members of the species Equus ferus

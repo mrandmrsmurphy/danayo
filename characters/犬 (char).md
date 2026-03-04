@@ -10,6 +10,7 @@ japanese:
   - KEN
 japanese_nanori: ""
 vietnamese:
+  - khuyển
 middle_chinese_initial: kʰ
 middle_chinese_final: wen
 stroke_count: 4
@@ -31,8 +32,9 @@ stand_in: 犬
 aliases:
 注音: ㄎˇㄝㄋ
 ---
+>[!tip] This is about the character.  For the word, see [[words/犬]].
+>For the radical, see [Radical 094](lookup/Radicals/Radical%20094.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

@@ -4,7 +4,7 @@ date-last-perfect: 2026-02-01
 > [SKIP](lookup/SKIP/SKIP.md) : 3
 
 1. [SKIP-3-2-1](lookup/SKIP/SKIP-3/SKIP-3-2-1.md)
-2. [[SKIP-3-2-2]]
+2. [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md)
 3. [[SKIP-3-2-3]]
 4. [[SKIP-3-2-4]]
 5. [[SKIP-3-2-5]]

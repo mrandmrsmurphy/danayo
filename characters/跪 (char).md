@@ -38,5 +38,5 @@ date-last-perfect: 2026-02-25
 ```
 
 ## Notes
-- [[Radical 157|足]] + [[危]] = [[SKIP-1-7-6]] ([[Stoke 13]]) [[ㄎˇㄝ˙]]
-- Not on HSK, Not in Jōyō, Not even in Korean name list, [[Grade Advanced]]
+- [足](/lookup/Radicals/Radical%20157.md) + [危](characters/危.md) = [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) [[ㄎˇㄝ˙]]
+- Not on HSK, Not in Jōyō, Not even in Korean name list, [Grade Advanced](lookup/Grade%20Advanced.md)
