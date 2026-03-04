@@ -18,11 +18,13 @@ views:
       - graphemic_classification
       - pos
       - formula.score
-      - hanmun_edu_level
-      - hsk_level
-      - danayo_id
-      - joyo_level
+      - middle_chinese_initial
+      - middle_chinese_final
     sort:
+      - property: middle_chinese_final
+        direction: DESC
+      - property: middle_chinese_initial
+        direction: ASC
       - property: joyo_level
         direction: ASC
       - property: hsk_level
@@ -30,10 +32,6 @@ views:
       - property: hanmun_edu_level
         direction: ASC
       - property: english
-        direction: DESC
-      - property: middle_chinese_final
-        direction: ASC
-      - property: middle_chinese_initial
         direction: DESC
       - property: stroke_count
         direction: DESC
