@@ -1,7 +1,3 @@
-Don't forget that creating the file from here may create the file in the wrong directory!
-- [[ㄇㄚㄥ]] in [[Syllable Counts]], [[syllables/Syllables]]
-- [[ㄙㄧㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
-- [[ˇㄧ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄛㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄍ˙ㄨ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄉㄚㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]

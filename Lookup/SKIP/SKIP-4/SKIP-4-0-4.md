@@ -6,7 +6,7 @@ date-last-perfect: 2026-02-01
 This is the home page for SKIP characters of type 4-x-4.  These are <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> with a box-like or no pattern.
 
 
-1. [[SKIP-4-1-4]] - 一	 (radicals 丶, 丿, 亅 )
+1. [[SKIP-4-1-4]] - 一
 2. [[SKIP-4-2-4]] - 九, 人, 入, 卜, 力, 乂, 勹, 厶
 3. [[SKIP-4-3-4]] - 丸, 女, 丈, 大, 之, 与 , 宀	幺	广	弋	
 4. [[SKIP-4-4-4]] - 火, 犬, 少, 内, 夫, 片, 匁	卅	夬	夭	戈	爿	
