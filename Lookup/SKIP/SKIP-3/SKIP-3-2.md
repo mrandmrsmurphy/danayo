@@ -1,9 +1,9 @@
 ---
 date-last-perfect: 2026-02-01
 ---
-> [[SKIP]] : 3
+> [SKIP](lookup/SKIP/SKIP.md) : 3
 
-1. [[SKIP-3-2-1]]
+1. [SKIP-3-2-1](lookup/SKIP/SKIP-3/SKIP-3-2-1.md)
 2. [[SKIP-3-2-2]]
 3. [[SKIP-3-2-3]]
 4. [[SKIP-3-2-4]]
@@ -14,7 +14,7 @@ date-last-perfect: 2026-02-01
 9. [[SKIP-3-2-9]]
 10. [[SKIP-3-2-10]]
 11. [[SKIP-3-2-11]]
-12. [[SKIP-3-2-12]]
+12. [SKIP-3-2-12](lookup/SKIP/SKIP-3/SKIP-3-2-12.md)
 13. [[SKIP-3-2-13]]
 14. none
 15. [[SKIP-3-2-15]]
@@ -24,7 +24,7 @@ date-last-perfect: 2026-02-01
 19. none
 20. none
 21. none
-22. [[SKIP-3-2-22]]
+22. [SKIP-3-2-22](lookup/SKIP/SKIP-3/SKIP-3-2-22.md)
 
 ## Base check
 ```base
