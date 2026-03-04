@@ -1,12 +1,14 @@
 ---
 size: 2
 radical: 屮
+date-last-perfect: 2026-03-04
 ---
 > [[Radicals]]
+> This is the **shoot** radical
 
 ## Characters
-1. [[屮]]
-2. [[屯 (char)]]
+1. <ruby>[屮](characters/屮.md)<rt>ㄊㄧㄊ</rt></ruby> - new plant
+2. <ruby>[屯](characters/屯%20(char).md)<rt>ㄉㄨㄋ</rt></ruby> - hamlet
 
 ## Base check
 ```base
