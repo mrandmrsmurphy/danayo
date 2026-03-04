@@ -20,7 +20,7 @@ pos: ""
 english:
   - stomach
   - gizzard
-羅馬字: wi
+羅馬字: "'ui"
 韓文: 위
 joyo_level: ""
 hsk_level: ""

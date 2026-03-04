@@ -31,7 +31,7 @@ mc_id: 1526
 graphemic_classification: 奇
 stand_in: 倚
 aliases:
-注音: ㄨ˙
+注音: ˇㄧ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
