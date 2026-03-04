@@ -1,8 +1,10 @@
 ---
 size: 2
 radical: 夂
+date-last-perfect: 2026-03-04
 ---
 > [[Radicals]]
+> Winter
 
 1. <ruby>[[変 (char)|変]]<rt>ㄅ˙ㄝㄋ</rt></ruby> - change, alter
 2. <ruby>[[夌]]<rt>ㄌ˙ㄨㄥ</rt></ruby> - dawdle

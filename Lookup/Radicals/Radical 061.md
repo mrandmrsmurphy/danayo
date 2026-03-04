@@ -1,7 +1,9 @@
 ---
 size: 102
+radical: 心
 ---
 > [[Radicals]]
+> Heart
 
 ## Data search
 ```dataview

@@ -6,6 +6,8 @@ radical: 口
 > [[Radicals]]
 > Mouth radical
 
+## Characters
+1. [[口 (char)]]
 
 ## Base check
 ```base
