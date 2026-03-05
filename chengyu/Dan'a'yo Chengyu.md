@@ -1,1 +1,2 @@
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧ·ㄧㄊ·ㄨㄇ</rt></ruby> - one character, one sound
+- [[形助顯理]]
