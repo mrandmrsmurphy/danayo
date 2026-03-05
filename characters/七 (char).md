@@ -47,7 +47,7 @@ date-last-perfect: 2026-02-20
 ### Words
 * <ruby>[[七十]]<rt>ㄑㄧㄊㄙㄧㄆ</rt></ruby> - seventy
 * <ruby>[[七百]]<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> - seven hundred
-* <ruby>[[七千]]<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> - seven thousand
+* <ruby>[[words/七千]]<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> - seven thousand
 * <ruby>[[七万]]<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> - seventy thousand
 * <ruby>[[七日]]<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby> - seventh day of the month
 * <ruby>[[七月]]<rt>ㄑㄧㄊ·ˇㄝㄊ</rt></ruby> - July

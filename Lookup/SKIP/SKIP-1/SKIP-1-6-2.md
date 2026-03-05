@@ -20,7 +20,7 @@ date-last-perfect:
 - 劼-->吉
 - [[劾]]
 
-### Data double check
+## Data double check
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
