@@ -1,13 +1,13 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-03-05
 radical: 毛
 ---
 > [[Radicals]]
 
 ## Characters
-1. [[毛 (char)]]
-2. [[毫 (char)]]
+1. <ruby>[毛](/characters/毛%20(char).md)<rt>ㄇㄚˇ</rt></ruby> - fur
+2. <ruby>[毫](/characters/毫%20(char).md)<rt>ㄏㄚˇ</rt></ruby> - hair
 
 ## Data search
 ```dataview

@@ -33,8 +33,10 @@ stand_in: 毛
 aliases:
 注音: ㄇㄚˇ
 ---
+>[!tip] This is about the character 毛.
+>For the word, see [毛](words/毛.md).
+>For the radical, see [Radical 182](lookup/Radicals/Radical%20182.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

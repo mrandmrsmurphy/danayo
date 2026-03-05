@@ -15,3 +15,4 @@ english: <% tp.system.prompt('English meanings comma-separated') %>
 ```meta-bind-embed
 [[nav/word_info]]
 ```
+## Notes
