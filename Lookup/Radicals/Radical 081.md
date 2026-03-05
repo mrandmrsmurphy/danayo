@@ -1,13 +1,13 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-03-04
 radical: 比
 ---
 > [[Radicals]]
 
 ## Characters
-1. [[比 (char)]]
-2. [[毘]]
+1. <ruby>[比](/characters/比%20(char).md)<rt>ㄅㄧ˙</rt></ruby> - than
+2. <ruby>[毘](/characters/毘.md)<rt>ㄅㄧ˙</rt></ruby> - help
 
 ## Data search
 ```dataview

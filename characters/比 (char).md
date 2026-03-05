@@ -33,6 +33,9 @@ aliases:
   - 譬
 注音: ㄅㄧ˙
 ---
+>[!tip] This is about the character 比.
+>For the word, see [比](words/比.md).
+>For the radical, see [Radical 081](lookup/Radicals/Radical%20081.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
