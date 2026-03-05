@@ -33,8 +33,9 @@ aliases:
   - 风
 注音: ㄆㄨㄥ
 ---
+>[!tip] This is about the character.  For the word, see [[風]].
+>For the radical, see [Radical 182](lookup/Radicals/Radical%20182.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

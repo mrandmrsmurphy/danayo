@@ -16,7 +16,7 @@ middle_chinese_final: ʉɐŋ
 stroke_count: 8
 radical: 肉
 skip_number: 1-4-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - fat
@@ -36,5 +36,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[脂肪]] - animal fat

@@ -1,8 +1,14 @@
 ---
 size: 2
 radical: 風
+date-last-perfect: 2026-03-04
 ---
 > [[Radicals]]
+> **wind** radical
+
+## Characters
+1. <ruby>[風](/characters/風%20(char).md)<rt>ㄆㄨㄥ</rt></ruby> - wind
+2. <ruby>[颯](/characters/颯%20(char).md)<rt>ㄙㄚㄆ</rt></ruby> - gale
 
 ## Data check
 ```dataview

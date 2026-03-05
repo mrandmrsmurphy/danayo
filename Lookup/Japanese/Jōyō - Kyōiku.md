@@ -913,7 +913,7 @@ The following prefecture names were added in 2017:
 910. [[揮]] : ki	 	command
 911. [[操]] : sō	ayatsu-ru	maneuver
 912. [[敬]] : kei	uyama-u	respect
-913. [[映]] : ei	utsu-ru	reflect
+913. [映 (char)](characters/映%20(char).md) : ei	utsu-ru	reflect
 914. [[晩]] : ban	 	nightfall
 915. [[暖]] : dan	atata-kai	warmth
 916. [[暮]] : bo	ku-rasu	livelihood
