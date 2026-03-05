@@ -3,7 +3,7 @@
 
 It has the largest intended audience of 1500 million speakers, those from China, Japan, Korea, and to some extent Vietnam.  There is no proto-language which all our source languages are supposedly descended from. Our ancient form is Classical Chinese, which is well-known and actually exists in documented form.
 
-For more information, see <ruby>[[単亜語之文法書]]<rt>ㄉㄚㄋ·ㄚ·˙ㄛㄊㄧㄇㄨㄋㄆㄚ</rt></ruby>
+For more information, see <ruby>[単亜語之文法書](grammar/単亜語之文法書.md)<rt>ㄉㄚㄋ·ㄚ·˙ㄛㄊㄧㄇㄨㄋㄆㄚ</rt></ruby>, or in English [単亜語之文法書.en](grammar/単亜語之文法書.en.md)
 ![[East_asian_flag.png]]
 
 ---
@@ -26,5 +26,3 @@ See LICENSE for details.
 ## About
 
 Created by **武明帥**, 2016-26.
-
-[[信達雅化]]

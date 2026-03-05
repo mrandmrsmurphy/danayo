@@ -14,7 +14,7 @@
 ## 四書
 - 大学
 - 中庸
-- [[論語 (book)]]
+- [論語 (book)](translation/論語%20(book).md)
 - 孟子
 ## 五經
 - 詩經
@@ -55,7 +55,7 @@
 - 涅槃經
 
 ## Daoism
-- [[道徳経 (book)]]
+- [道徳経 (book)](translation/道徳経%20(book).md)
 - 莊子
 - 列子
 - 淮南子
@@ -75,4 +75,4 @@
 - 管子
 
 ## Others
-- [[周礼 (book)]]
+- [周礼 (book)](translation/周礼%20(book).md)
