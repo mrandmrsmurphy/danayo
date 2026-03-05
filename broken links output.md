@@ -1,5 +1,5 @@
 - [[syllables/ㄛㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
-- [[ㄍ˙ㄨ]] in [[Syllable Counts]], [[syllables/Syllables]]
+- [[syllables/ㄍ˙ㄨ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄉㄚㄋ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄍㄚㄥ]] in [[Syllable Counts]], [[syllables/Syllables]]
 - [[ㄅㄚㄎ]] in [[Syllable Counts]], [[syllables/Syllables]]
