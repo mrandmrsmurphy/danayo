@@ -33,24 +33,24 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 	9. [SKIP-2-9](lookup/SKIP/SKIP-2/SKIP-2-9.md)
 	10. [SKIP-2-10](lookup/SKIP/SKIP-2/SKIP-2-10.md)
 	11. [SKIP-2-11](lookup/SKIP/SKIP-2/SKIP-2-11.md)
-	12. [SKIP-2-12](SKIP-2-12)
+	12. [SKIP-2-12](lookup/SKIP/SKIP-2/SKIP-2-12.md)
 	13. [SKIP-2-13](lookup/SKIP/SKIP-2/SKIP-2-13.md)
-	14. [[SKIP-2-14]]
-	15. [[SKIP-2-15]]
+	14. [[lookup/SKIP/SKIP-2/SKIP-2-14]]
+	15. [[lookup/SKIP/SKIP-2/SKIP-2-15]]
 3. These are character where there is a "surround-er", a box or loop which does more than just hover above or to the left, but hems in the rest of the character on two-or-more sides.  Below are the number of strokes possible for the surrounding material:
-	1. [[SKIP-3-1]]
+	1. [[lookup/SKIP/SKIP-3/SKIP-3-1]]
 	2. [[SKIP-3-2]]
 	3. [[SKIP-3-3]]
 	4. [[SKIP-3-4]]
-	5. [[SKIP-3-5]]
-	6. [[SKIP-3-6]]
-	7. [[SKIP-3-7]]
-	8. [[SKIP-3-8]]
-	9. [[SKIP-3-9]]
+	5. [[lookup/SKIP/SKIP-3/SKIP-3-5]]
+	6. [[lookup/SKIP/SKIP-3/SKIP-3-6]]
+	7. [[lookup/SKIP/SKIP-3/SKIP-3-7]]
+	8. [[lookup/SKIP/SKIP-3/SKIP-3-8]]
+	9. [[lookup/SKIP/SKIP-3/SKIP-3-9]]
 	10. [[SKIP-3-10]]
-	11. [[SKIP-3-11]]
+	11. [[lookup/SKIP/SKIP-3/SKIP-3-11]]
 	12. does not exist
-	13. [[SKIP-3-13]]
+	13. [[lookup/SKIP/SKIP-3/SKIP-3-13]]
 4. "Four" is different than all the other SKIPs.  The ''middle'' number is the number of strokes.
 	1. [[SKIP-4-1]]
 	2. [[SKIP-4-2]]
@@ -61,9 +61,9 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 	7. [[SKIP-4-7]]
 	8. [[SKIP-4-8]]
 	9. [[SKIP-4-9]]
-	10. [[SKIP-4-10]]
-	11. [[SKIP-4-11]]
-	12. [[SKIP-4-12]]
+	10. [[lookup/SKIP/SKIP-4/SKIP-4-10]]
+	11. [[lookup/SKIP/SKIP-4/SKIP-4-11]]
+	12. [[lookup/SKIP/SKIP-4/SKIP-4-12]]
 	13. [[SKIP-4-13]]
 	14. [[SKIP-4-14]]
 	15. [[SKIP-4-15]]

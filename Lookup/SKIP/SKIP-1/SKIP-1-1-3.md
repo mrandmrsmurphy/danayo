@@ -4,11 +4,11 @@ size: 2
 stroke_count: 4
 skip_number: 1-1-3
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-1|1]]
-> All of these are [[Stroke 04]]
+> [SKIP](lookup/SKIP/SKIP.md) : 1 : [1](SKIP-1-1)
+> All of these are [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
-- <ruby>[[水 (char)|水]]<rt>ㄙㄨ</rt></ruby> - water
-- <ruby>[[心 (char)|心]]<rt>ㄙㄧㄇ</rt></ruby> - heart
+- <ruby>[水](水%20(char))<rt>ㄙㄨ</rt></ruby> - water
+- <ruby>[心](心%20(char))<rt>ㄙㄧㄇ</rt></ruby> - heart
 
 ### Datacheck
 ```dataview

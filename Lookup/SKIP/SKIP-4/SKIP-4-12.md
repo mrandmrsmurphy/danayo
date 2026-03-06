@@ -1,13 +1,13 @@
 ---
-stroke_count: 9
+stroke_count: 12
 ---
-> [[SKIP]] : 4
-> [[Stroke 09]]
+> [SKIP](lookup/SKIP/SKIP.md) : 4
+> [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
-1. [[SKIP-4-9-1]]: 飛
-2. [[SKIP-4-9-2]]: 重
-3. [[SKIP-4-9-3]]: 乗, 柬, 禹, 禺
-4. [[SKIP-4-9-4]]: 咸, 威, 為
+1. ??
+2. ??
+3. ??
+4. [SKIP-4-12-4](lookup/SKIP/SKIP-4/SKIP-4-12-4.md): 幾
 
 ## Base check
 ```base
@@ -17,7 +17,7 @@ views:
     filters:
       and:
         - file.folder == "lookup/SKIP/SKIP-4"
-        - file.hasLink("SKIP-4-9")
+        - file.hasLink("SKIP-4-12")
     order:
       - file.name
       - size
