@@ -3,7 +3,8 @@ size: 15
 stroke_count: 6
 skip_number: 1-2-4
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-2|2]]
+> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-2|2]]
+> [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 - 收 --> 収
 - [[仮]]

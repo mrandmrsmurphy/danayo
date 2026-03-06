@@ -5,20 +5,20 @@ date-last-perfect:
 skip_number: 1-6-7
 ---
 
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
+> [SKIP](lookup/SKIP/SKIP.md) : 1 : [6](SKIP-1-6)
 
- - <ruby>[[継]]<rt>ㄍㄝ˙</rt></ruby> - persist
-- <ruby>[[続]]<rt>ㄙ˙ㄛㄎ</rt></ruby> - continue
-- <ruby>[[絹]]<rt>ㄍㄨㄝㄋ</rt></ruby> - silk
-- <ruby>[[綏]]<rt>ㄙㄨ˙</rt></ruby> - smooth
-- <ruby>[[蜂]]<rt>ㄆㄛㄥ</rt></ruby> - bee/wasp
-- <ruby>[[蛾 (char)]]<rt>ㄚ</rt></ruby> - moth
-- <ruby>[[艇]]<rt>ㄉㄝㄥ</rt></ruby> - rowboat
+ - <ruby>[継](characters/継.md)<rt>ㄍㄝ˙</rt></ruby> - persist
+- <ruby>[続](characters/続.md)<rt>ㄙ˙ㄛㄎ</rt></ruby> - continue
+- <ruby>[絹](characters/絹%20(char).md)<rt>ㄍㄨㄝㄋ</rt></ruby> - silk
+- <ruby>[綏](characters/綏.md)<rt>ㄙㄨ˙</rt></ruby> - smooth
+- <ruby>[蜂](characters/蜂%20(char).md)<rt>ㄆㄛㄥ</rt></ruby> - bee/wasp
+- <ruby>[蛾](characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> - moth
+- <ruby>[艇](characters/艇%20(char).md)<rt>ㄉㄝㄥ</rt></ruby> - rowboat
 - [[粳]]
-- <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel
-- <ruby>[[辞]]<rt>ㄑㄧ</rt></ruby> - verbal resignation
-- <ruby>[[聘]]<rt>ㄆㄧㄥ</rt></ruby> - betrothe
-- <ruby>[[肆]]<rt>ㄙㄧ˙</rt></ruby> - to act bravenly
+- <ruby>[辟](characters/辟.md)<rt>ㄆㄧㄎ</rt></ruby> - dispel
+- <ruby>[辞](characters/辞.md)<rt>ㄑㄧ</rt></ruby> - verbal resignation
+- <ruby>[聘](characters/聘%20(char).md)<rt>ㄆㄧㄥ</rt></ruby> - betroth
+- <ruby>[肆](characters/肆.md)<rt>ㄙㄧ˙</rt></ruby> - to act brazenly
 * 艀 --> 孚
 * 蜈 --> 呉
 * 絳 --> 降

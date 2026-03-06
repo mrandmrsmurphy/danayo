@@ -4,14 +4,14 @@ stroke_count: 8
 date-last-perfect:
 skip_number: 1-2-6
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-2|2]]
+> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-2|2]]
 
-- <ruby>[[依]]<rt>의</rt></ruby> "to rely on"
+- <ruby>[依](characters/依.md)<rt>의</rt></ruby> "to rely on"
 - [[価]]
 - [[佳 (char)]]
 - [[供]]
 - [[協]]
-- <ruby>[[使]]<rt>시</rt></ruby> "envoy"
+- <ruby>[使](characters/使.md)<rt>시</rt></ruby> "envoy"
 - [[侍]]
 - [[侮]]
 - [[並|併]] --> 並
@@ -32,10 +32,10 @@ skip_number: 1-2-6
 - [[列|冽]] --> 列
 - [[佼]] blend either with 交 or 狡
 - [[侭]] --> 尽
+### Forbidden
+- 侤
 
-~~侤~~ --> [[文法 - 98違法字]]
-
-### Data double check
+## Data double check
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

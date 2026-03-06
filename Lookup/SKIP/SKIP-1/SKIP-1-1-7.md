@@ -4,10 +4,10 @@ stroke_count: 8
 size: 1
 skip_number: 1-1-7
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-1|1]]
-> These are all of [[Stroke 08]]
+> [SKIP](lookup/SKIP/SKIP.md) : 1 :[[SKIP-1-1|1]]
+> These are all of [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
-- <ruby>[[承]]<rt>ㄙㄨㄥ</rt></ruby> - inherit
+- <ruby>[承](characters/承.md)<rt>ㄙㄨㄥ</rt></ruby> - inherit
 
 ### Datacheck
 ```dataview
