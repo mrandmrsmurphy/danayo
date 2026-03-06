@@ -8,7 +8,7 @@ japanese_nanori: かべ
 vietnamese: bích, bệch, bịch, vách
 middle_chinese_initial: p
 middle_chinese_final: ek
-stroke_count: "16"
+stroke_count: 16
 radical: 土
 skip_number: 2-13-3
 grade_level: "5"
@@ -19,8 +19,8 @@ english: wall
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等
-danayo_id: "5361"
-mc_id: "1539"
+danayo_id: 5361
+mc_id: 1539
 graphemic_classification: 辟
 stand_in: 壁
 注音: ㄅㄝㄎ
@@ -29,4 +29,4 @@ stand_in: 壁
 [[nav/char_info]]
 ```
 # Notes
-[[Radical 032]] (Earth).  [[SKIP-2-13-3]].
+[Radical 032](lookup/Radicals/Radical%20032.md) (Earth).  [SKIP-2-13-3](lookup/SKIP/SKIP-2/SKIP-2-13-3.md).

@@ -4,7 +4,7 @@ stroke_count: 8
 date-last-perfect:
 ---
 
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
+> [SKIP](lookup/SKIP/SKIP.md) : 1 : [6](SKIP-1-6)
 
 - [[卦 (char)]]
 - [[効]]
@@ -20,7 +20,7 @@ date-last-perfect:
 - 劼-->吉
 - [[劾]]
 
-## Data double check
+## Data doublecheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

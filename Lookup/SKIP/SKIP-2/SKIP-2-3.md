@@ -7,7 +7,7 @@ aliases:
 2. [[SKIP-2-3-2]]
 3. [[SKIP-2-3-3]]
 4. [[SKIP-2-3-4]]
-5. [[SKIP-2-3-5]]
+5. [[lookup/SKIP/SKIP-2/SKIP-2-3-5]]
 6. [[SKIP-2-3-6]]
 7. [[SKIP-2-3-7]]
 8. [[SKIP-2-3-8]]

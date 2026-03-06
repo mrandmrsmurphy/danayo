@@ -22,19 +22,19 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 	12. [[SKIP-1-12]]
 	13. [[SKIP-1-13]]
 2. These are characters with a clear top-bottom dichotomy.  The following are the possible number of strokes for the top half:
-	1. [[SKIP-2-1]]
-	2. [[SKIP-2-2]]
-	3. [[SKIP-2-3]]
-	4. [[SKIP-2-4]]
-	5. [[SKIP-2-5]]
-	6. [[SKIP-2-6]]
-	7. [[SKIP-2-7]]
-	8. [[SKIP-2-8]]
-	9. [[SKIP-2-9]]
-	10. [[SKIP-2-10]]
-	11. [[SKIP-2-11]]
-	12. [[SKIP-2-12]]
-	13. [[SKIP-2-13]]
+	1. [SKIP-2-1](lookup/SKIP/SKIP-2/SKIP-2-1.md)
+	2. [SKIP-2-2](lookup/SKIP/SKIP-2/SKIP-2-2.md)
+	3. [SKIP-2-3](lookup/SKIP/SKIP-2/SKIP-2-3.md)
+	4. [SKIP-2-4](lookup/SKIP/SKIP-2/SKIP-2-4.md)
+	5. [SKIP-2-5](lookup/SKIP/SKIP-2/SKIP-2-5.md)
+	6. [SKIP-2-6](lookup/SKIP/SKIP-2/SKIP-2-6.md)
+	7. [SKIP-2-7](lookup/SKIP/SKIP-2/SKIP-2-7.md)
+	8. [SKIP-2-8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
+	9. [SKIP-2-9](lookup/SKIP/SKIP-2/SKIP-2-9.md)
+	10. [SKIP-2-10](lookup/SKIP/SKIP-2/SKIP-2-10.md)
+	11. [SKIP-2-11](lookup/SKIP/SKIP-2/SKIP-2-11.md)
+	12. [SKIP-2-12](SKIP-2-12)
+	13. [SKIP-2-13](lookup/SKIP/SKIP-2/SKIP-2-13.md)
 	14. [[SKIP-2-14]]
 	15. [[SKIP-2-15]]
 3. These are character where there is a "surround-er", a box or loop which does more than just hover above or to the left, but hems in the rest of the character on two-or-more sides.  Below are the number of strokes possible for the surrounding material:
