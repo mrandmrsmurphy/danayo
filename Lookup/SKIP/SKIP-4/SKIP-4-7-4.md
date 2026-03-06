@@ -4,13 +4,13 @@ stroke_count: 7
 date-last-perfect: 2026-03-04
 skip_number: 4-7-4
 ---
-> [[SKIP]] : 4 : [[SKIP-4-7|7]] | [[SKIP-4-0-4]]
-> [[Stroke 07]]
+> SKIP : 4 : [7](lookup/SKIP/SKIP-4/SKIP-4-7.md) | [[SKIP-4-0-4]]
+> [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 ## Characters
-1. <ruby>[[夹]]<rt>ㄍ˙ㄚㄆ</rt></ruby> - clip
-2. <ruby>[[寿]]<rt>ㄙ˙ㄨ</rt></ruby> - lifespan
-3. <ruby>[[良]]<rt>ㄌ˙ㄚㄥ</rt></ruby> - kind, type
+1. <ruby>[夹](characters/夹.md)<rt>ㄍ˙ㄚㄆ</rt></ruby> - clip
+2. <ruby>[寿](characters/寿.md)<rt>ㄙ˙ㄨ</rt></ruby> - lifespan
+3. <ruby>[良](characters/良.md)<rt>ㄌ˙ㄚㄥ</rt></ruby> - kind, type
 
 ## Datacheck
 ```dataview
