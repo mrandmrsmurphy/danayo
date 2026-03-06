@@ -24,6 +24,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 86
+      note.注音: 162
       note.韓文: 84
       note.mandarin: 117
       note.cantonese: 158
