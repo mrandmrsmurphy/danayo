@@ -10,7 +10,7 @@ aliases:
 5. [[SKIP-1-3-5]]
 6. [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md)
 7. [[SKIP-1-3-7]]
-8. [[SKIP-1-3-8]]
+8. [[lookup/SKIP/SKIP-1/SKIP-1-3-8]]
 9. [[SKIP-1-3-9]]
 10. [[SKIP-1-3-10]]
 11. [SKIP-1-3-11](lookup/SKIP/SKIP-1/SKIP-1-3-11.md)
