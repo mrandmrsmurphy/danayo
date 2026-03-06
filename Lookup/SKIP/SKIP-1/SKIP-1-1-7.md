@@ -4,7 +4,7 @@ stroke_count: 8
 size: 1
 skip_number: 1-1-7
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 :[[SKIP-1-1|1]]
+> SKIP : 1 :[1](lookup/SKIP/SKIP-1/SKIP-1-1.md)
 > These are all of [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 - <ruby>[承](characters/承.md)<rt>ㄙㄨㄥ</rt></ruby> - inherit

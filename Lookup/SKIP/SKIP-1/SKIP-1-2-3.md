@@ -4,8 +4,8 @@ date-last-perfect: 2026-02-22
 size: 8
 skip_number: 1-2-3
 ---
-> [[SKIP]] : 1 : [[SKIP-1-2|2]]
-> All of these are [[Stroke 05]]
+> SKIP : 1 : [2](lookup/SKIP/SKIP-1/SKIP-1-2.md)
+> All of these are [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
 ## Characters
 ### Used

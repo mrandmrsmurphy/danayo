@@ -74,3 +74,19 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 		4. When the last digit is [SKIP-4-0-4](lookup/SKIP/SKIP-4/SKIP-4-0-4.md), it represents *other*.
 
 ![[SKIP_Kanji_method_examples.svg.png]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("SKIP")
+    order:
+      - file.name
+      - size
+      - skip_number
+      - stroke_count
+      - date-last-perfect
+```

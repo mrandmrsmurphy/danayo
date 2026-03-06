@@ -4,10 +4,10 @@ stroke_count: 9
 size: 1
 skip_number: 1-1-8
 ---
-> [[SKIP]] : 1 :| [[SKIP-1-1|1]]
-> These are all of [[Stroke 09]].
+> SKIP : 1 :| [1](lookup/SKIP/SKIP-1/SKIP-1-1.md)
+> These are all of [Stroke 09](lookup/Stroke/Stroke%2009.md).
 
-- <ruby>[[胤]]<rt>·˙ㄨㄋ</rt></ruby> - heir
+- <ruby>[胤](characters/胤.md)<rt>·˙ㄨㄋ</rt></ruby> - heir
 
 ### Datacheck
 ```dataview

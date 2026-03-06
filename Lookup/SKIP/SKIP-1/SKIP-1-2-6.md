@@ -4,7 +4,8 @@ stroke_count: 8
 date-last-perfect:
 skip_number: 1-2-6
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-2|2]]
+> SKIP : 1 : [2](lookup/SKIP/SKIP-1/SKIP-1-2.md)
+> [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 - <ruby>[依](characters/依.md)<rt>의</rt></ruby> "to rely on"
 - [[価]]

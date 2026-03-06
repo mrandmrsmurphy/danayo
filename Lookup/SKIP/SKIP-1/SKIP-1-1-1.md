@@ -4,12 +4,12 @@ stroke_count: 2
 size: 1
 skip_number: 1-1-1
 ---
-> [[SKIP]] : 1 : [[SKIP-1-1|1]]
-> These are all of [[Stroke 02]].
+> SKIP : 1 : [1](lookup/SKIP/SKIP-1/SKIP-1-1.md)
+> These are all of [Stroke 02](lookup/Stroke/Stroke%2002.md).
 
 ## Characters
 ### Used
-1. <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby> - eight
+1. <ruby>[八](characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight
 ### Aliases
 - 刂 --> Radical 018, from 刀
 - 儿 --> 児

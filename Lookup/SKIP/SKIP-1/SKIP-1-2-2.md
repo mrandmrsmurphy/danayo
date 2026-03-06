@@ -4,8 +4,8 @@ stroke_count: 4
 date-last-perfect: 2026-03-06
 skip_number: 1-2-2
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 : [2](SKIP-1-2)
-> [[Stroke 04]]
+> SKIP : 1 : [2](lookup/SKIP/SKIP-1/SKIP-1-2.md)
+> [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
 1. <ruby>[什](/characters/什.md)<rt>ㄙㄧㄆ</rt></ruby> - tenth
