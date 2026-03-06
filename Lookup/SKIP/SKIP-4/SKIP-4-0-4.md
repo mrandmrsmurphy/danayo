@@ -14,9 +14,9 @@ This is the home page for SKIP characters of type 4-x-4.  These are <ruby>漢字
 6. [SKIP-4-6-4](lookup/SKIP/SKIP-4/SKIP-4-6-4.md) - 夷	曳 舟	成	吏	戍	戌	
 7. [SKIP-4-7-4](lookup/SKIP/SKIP-4/SKIP-4-7-4.md) - 寿	良	夾	曵
 8. [SKIP-4-8-4](SKIP-4-8-4) - 兎	
-9. [[SKIP-4-9-4 - 威	為	咸	臾	
+9. [[SKIP-4-9-4]] - 威	為	咸	臾	
 10. no
-11. [[lookup/SKIP/SKIP-4/SKIP-4-11-4]] - 戚	爽
+11. [SKIP-4-11-4](lookup/SKIP/SKIP-4/SKIP-4-11-4.md) - 戚	爽
 12. [[SKIP-4-12-4]] -  幾
 13. no
 14. no
