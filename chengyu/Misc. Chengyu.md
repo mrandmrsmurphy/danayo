@@ -15,4 +15,6 @@ date-last-perfect:
 - <ruby>[日月星辰](chengyu/日月星辰.md)<rt>ㄋㄧㄊ·ˇㄝㄊㄙㄝㄥㄙㄧㄋ</rt></ruby> - Sun, moon, stars, constellations
 - <ruby>[一触即発](chengyu/一触即発.md)<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> - touch and go
 - <ruby>[鶏鳴狗盗](chengyu/鶏鳴狗盗.md)<rt>ㄍㄝ˙ㄇ˙ㄝㄥㄍㄛˇㄉㄚˇ</rt></ruby> - bad people use dirty tricks
+- <ruby>[金城湯池](chengyu/金城湯池.md)<rt>ㄍㄧㄇㄙㄧㄥㄊㄚㄥㄐㄨ˙</rt></ruby> - impregnable 
 - <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧㄇㄧ˙ㄇㄚㄥㄌ˙ㄚㄥ</rt></ruby> - all the demons
+- <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ˙ㄝㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
