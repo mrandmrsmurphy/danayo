@@ -270,7 +270,7 @@
 - [[SKIP-3-10-11]] in [[lookup/SKIP/SKIP-3/SKIP-3-10]]
 - [[SKIP-4-8-3]] in [[lookup/SKIP/SKIP-4/SKIP-4-0-3]], [[lookup/SKIP/SKIP-4/SKIP-4-8]]
 - [[SKIP-4-8-4]] in [[lookup/SKIP/SKIP-4/SKIP-4-0-4]], [[lookup/SKIP/SKIP-4/SKIP-4-8]]
-- [[SKIP-4-9-2]] in [[lookup/SKIP/SKIP-4/SKIP-4-0-2]], [[lookup/SKIP/SKIP-4/SKIP-4-9]]
+- [[lookup/SKIP/SKIP-4/SKIP-4-9-2]] in [[lookup/SKIP/SKIP-4/SKIP-4-0-2]], [[lookup/SKIP/SKIP-4/SKIP-4-9]]
 - [[SKIP-4-9-3]] in [[lookup/SKIP/SKIP-4/SKIP-4-0-3]], [[lookup/SKIP/SKIP-4/SKIP-4-9]]
 - [[SKIP-4-9-4]] in [[lookup/SKIP/SKIP-4/SKIP-4-0-4]], [[lookup/SKIP/SKIP-4/SKIP-4-9]]
 - [[lookup/SKIP/SKIP-4/SKIP-4-10-2]] in [[lookup/SKIP/SKIP-4/SKIP-4-0-2]]

@@ -11,7 +11,7 @@ date-last-perfect: 2026-02-06
 6. [SKIP-4-6-2](lookup/SKIP/SKIP-4/SKIP-4-6-2.md): 臼	曲	血	自
 7. [SKIP-4-7-2](lookup/SKIP/SKIP-4/SKIP-4-7-2.md): 坐
 8. [SKIP-4-8-2](lookup/SKIP/SKIP-4/SKIP-4-8-2.md): 垂	隹
-9. [[SKIP-4-9-2]]: 重	韭
+9. [[lookup/SKIP/SKIP-4/SKIP-4-9-2]]: 重	韭
 10. [[lookup/SKIP/SKIP-4/SKIP-4-10-2]]: 埀
 
 ## Base check

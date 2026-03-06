@@ -1,11 +1,11 @@
 ---
 stroke_count: 9
 ---
-> [[SKIP]] : 4
-> [[Stroke 09]]
+> [SKIP](lookup/SKIP/SKIP.md) : 4
+> [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
-1. [[SKIP-4-9-1]]: 飛
-2. [[SKIP-4-9-2]]: 重
+1. [SKIP-4-9-1](lookup/SKIP/SKIP-4/SKIP-4-9-1.md): 飛
+2. [SKIP-4-9-2](lookup/SKIP/SKIP-4/SKIP-4-9-2.md): 重
 3. [[SKIP-4-9-3]]: 乗, 柬, 禹, 禺
 4. [[SKIP-4-9-4]]: 咸, 威, 為
 
