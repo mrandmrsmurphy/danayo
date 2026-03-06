@@ -2,6 +2,7 @@
 size: 10
 stroke_count: 8
 date-last-perfect:
+skip_number: 1-6-2
 ---
 
 > [SKIP](lookup/SKIP/SKIP.md) : 1 : [6](SKIP-1-6)

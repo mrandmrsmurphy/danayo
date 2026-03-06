@@ -15,7 +15,7 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 	5. [[SKIP-1-5]]
 	6. [[SKIP-1-6]]
 	7. [[SKIP-1-7]]
-	8. [[SKIP-1-8]]
+	8. [[lookup/SKIP/SKIP-1/SKIP-1-8]]
 	9. [[SKIP-1-9]]
 	10. [[SKIP-1-10]]
 	11. [[SKIP-1-11]]

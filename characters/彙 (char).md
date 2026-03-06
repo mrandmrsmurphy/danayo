@@ -36,13 +36,14 @@ aliases:
   - 匯
 注音: ㄏㄨ
 ---
+>[!tip] This is about the character
+>For the word, see [彙](words/彙.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- 形聲: [彑](Radical%20058) +  冖  + 果 (胃) = [SKIP-2-3-10](lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), HSK 3, [Grade 6](lookup/Grade%206.md)
 
-# Notes
-- 形聲: [[Radical 058|彑]] +  冖  + 果 (胃) = [[SKIP-2-3-10]] ([[Stroke 13]])
-- [[Korean Name ㅎ]], [[Jōyō - Kōtō]], HSK 3, [[Grade 6]]
-
-* [[語彙]] vocabulary --> [[詞彙]]
-* [[字彙]] lexicon
+* [語彙](words/語彙.md) vocabulary --> [詞彙](words/語彙.md)
+* [字彙](字彙) lexicon

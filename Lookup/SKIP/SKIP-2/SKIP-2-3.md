@@ -4,15 +4,15 @@ aliases:
 > [[SKIP]] : 2
 
 1. [[SKIP-2-3-1]]
-2. [[SKIP-2-3-2]]
-3. [[SKIP-2-3-3]]
-4. [[SKIP-2-3-4]]
-5. [[lookup/SKIP/SKIP-2/SKIP-2-3-5]]
-6. [[SKIP-2-3-6]]
+2. [SKIP-2-3-2](lookup/SKIP/SKIP-2/SKIP-2-3-2.md)
+3. [SKIP-2-3-3](lookup/SKIP/SKIP-2/SKIP-2-3-3.md)
+4. [SKIP-2-3-4](lookup/SKIP/SKIP-2/SKIP-2-3-4.md)
+5. [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md)
+6. [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md)
 7. [[SKIP-2-3-7]]
 8. [[SKIP-2-3-8]]
 9. [[SKIP-2-3-9]]
-10. [[SKIP-2-3-10]]
+10. [SKIP-2-3-10](lookup/SKIP/SKIP-2/SKIP-2-3-10.md)
 11. [[SKIP-2-3-11]]
 12. [[SKIP-2-3-12]]
 13. [[SKIP-2-3-13]]
@@ -35,7 +35,9 @@ views:
         - file.hasLink("SKIP-2-3")
     order:
       - file.name
-	  - size
+      - size
       - skip_number
       - stroke_count
+      - date-last-perfect
+
 ```

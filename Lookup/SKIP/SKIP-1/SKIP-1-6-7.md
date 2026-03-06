@@ -2,6 +2,7 @@
 size: 11
 stroke_count: 13
 date-last-perfect:
+skip_number: 1-6-7
 ---
 
 > [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-6|6]]
