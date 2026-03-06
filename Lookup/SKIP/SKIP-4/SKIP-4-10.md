@@ -4,10 +4,10 @@ stroke_count: 10
 > [SKIP](lookup/SKIP/SKIP.md) : 4 
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
-1. ??
-2. ??
-3. [SKIP-4-10-3](lookup/SKIP/SKIP-4/SKIP-4-10-3.md)
-4. ??
+1. No
+2. No
+3. [SKIP-4-10-3](lookup/SKIP/SKIP-4/SKIP-4-10-3.md): ø
+4. No
 
 ## Base check
 ```base

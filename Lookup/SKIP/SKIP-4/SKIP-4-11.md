@@ -4,10 +4,24 @@ stroke_count: 11
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [[Stroke 11]]
 
-1. ?
-2. ?
-3. ?
-4. ?
+```dataviewjs
+const pages = dv.pages()
+  .where(p => p.skip_number === "4-11-4")
+// or stricter: .where(p => p["your_property"] === "value")
+// or for numbers/strings/etc: adjust comparison as needed
+
+const titles = pages
+  .map(p => p.file.name)
+  .sort()                    // optional: alphabetical sort
+  .join(", ");
+
+dv.paragraph(titles || "No matching pages");
+````
+
+1. No
+2. No
+3. [SKIP-4-11-3](SKIP-4-11-3): 粛
+4. [[SKIP-4-11-4]]: 戚, 爽
 
 ## Base check
 ```base
