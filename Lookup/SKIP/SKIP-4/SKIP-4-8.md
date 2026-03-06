@@ -4,8 +4,8 @@ stroke_count: 8
 > [[SKIP]] : 4
 > [[Stroke 08]]
 
-1. [[SKIP-4-8-1]]: 雨
-2. [[SKIP-4-8-2]]: 隹, 垂
+1. [SKIP-4-8-1](lookup/SKIP/SKIP-4/SKIP-4-8-1.md): 雨
+2. [SKIP-4-8-2](lookup/SKIP/SKIP-4/SKIP-4-8-2.md): 隹, 垂
 3. [[SKIP-4-8-3]]: 乖, 事, 東, 秉
 4. [[SKIP-4-8-4]]: 兎
 
@@ -20,7 +20,9 @@ views:
         - file.hasLink("SKIP-4-8")
     order:
       - file.name
-	  - size
+      - size
       - skip_number
       - stroke_count
+      - date-last-perfect
+
 ```
