@@ -1,5 +1,5 @@
 ---
-date-last-pefect: 
+date-last-perfect: 2026-03-06
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 
 These are character with a surrounding element of ten-strokes, typically either the demon-radical or the door-radical.
@@ -8,7 +8,7 @@ Below are the number of strokes for the other material, that is, that which is s
 1. Does not exist
 2. Does not exist
 3. Does not exist
-4. [[SKIP-3-10-4]]: 魁
+4. [SKIP-3-10-4](lookup/SKIP/SKIP-3/SKIP-3-10-4.md): 魁
 5. [SKIP-3-10-5](lookup/SKIP/SKIP-3/SKIP-3-10-5.md): ø
 6. Does not exist
 7. Does not exist
