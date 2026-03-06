@@ -12,7 +12,7 @@ date-last-perfect: 2026-02-13
 - [[SKIP-4-6-3|6]]: 朱, 虫, 米, 朿, 耒, 聿
 - [[SKIP-4-7-3|7]]: [[我]]	[[求]]	[[串]]	[[車 (char)]]	[[身]]	[[束 (char)]] [[釆]]	[[甫]]	[[来 (char)]]	~~亊~~	
 - [[SKIP-4-8-3|8]]: 事, 東, 乖, 來, 秉, 隶	
-- [[SKIP-4-9-3|9]]: 乗, 柬, 禹, 禺
+- [[lookup/SKIP/SKIP-4/SKIP-4-9-3|9]]: 乗, 柬, 禹, 禺
 - [[SKIP-4-10-3|10]]: 乘 (just a variant of 乗)
 - [[lookup/SKIP/SKIP-4/SKIP-4-11-3|11]]: 粛
 - [[SKIP-4-13-3|13]]: 肅 (just a variant of 粛)
