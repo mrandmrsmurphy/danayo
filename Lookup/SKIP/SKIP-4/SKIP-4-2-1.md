@@ -7,9 +7,9 @@ skip_number: 4-2-1
 > All are [[Stroke 02]].
 ## Characters
 ### Used
-1. 丁
-2. 了
-3. 又
+1. <ruby>[丁 (char)](/characters/丁%20(char).md)<rt>ㄉㄝㄥ</rt></ruby>
+2. <ruby>[了 (char)](/characters/了%20(char).md)<rt>ㄌ˙ㄚˇ</rt></ruby>
+3. <ruby>[又 (char)](/characters/又%20(char).md)<rt>ㄨˇ</rt></ruby>
 ### Aliases
 ### Forbidden
 
