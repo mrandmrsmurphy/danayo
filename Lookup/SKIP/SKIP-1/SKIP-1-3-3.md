@@ -3,8 +3,8 @@ size: 20
 stroke_count: 6
 skip_number: 1-3-3
 ---
-> [[SKIP]] : 1 : [[SKIP-1-3|3]]
-> [[Stroke 06]]
+> SKIP : 1 : [3](lookup/SKIP/SKIP-1/SKIP-1-3.md)
+> [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Characters
 
