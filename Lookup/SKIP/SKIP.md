@@ -19,8 +19,8 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 	9. [[SKIP-1-9]]
 	10. [[SKIP-1-10]]
 	11. [[SKIP-1-11]]
-	12. [[SKIP-1-12]]
-	13. [[SKIP-1-13]]
+	12. [[lookup/SKIP/SKIP-1/SKIP-1-12]]
+	13. [[lookup/SKIP/SKIP-1/SKIP-1-13]]
 2. These are characters with a clear top-bottom dichotomy.  The following are the possible number of strokes for the top half:
 	1. [SKIP-2-1](lookup/SKIP/SKIP-2/SKIP-2-1.md)
 	2. [SKIP-2-2](lookup/SKIP/SKIP-2/SKIP-2-2.md)
