@@ -4,7 +4,7 @@ date-last-perfect:
 skip_number: 1-7-7
 stroke_count: 14
 ---
-> [[SKIP]] | [[SKIP-1|1]] | [[SKIP-1-7|7]]
+> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-7|7]]
 
 ## "words" 
 - <ruby>[[語]]<rt>요</rt></rub>
@@ -44,7 +44,7 @@ stroke_count: 14
 - [[辣]]	
 * 赫-->嚇
 
-### Data double check
+## Data double check
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
