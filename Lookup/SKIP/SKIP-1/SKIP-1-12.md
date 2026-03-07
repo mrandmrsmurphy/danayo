@@ -6,12 +6,12 @@ date-last-perfect:
 1. no
 2. [[SKIP-1-12-2]]
 3. [[SKIP-1-12-3]]
-4. [[SKIP-1-12-4]]
-5. [[SKIP-1-12-5]]
-6. [[SKIP-1-12-6]]
-7. [[SKIP-1-12-7]]
+4. [SKIP-1-12-4](lookup/SKIP/SKIP-1/SKIP-1-12-4.md): 獣
+5. [SKIP-1-12-5](lookup/SKIP/SKIP-1/SKIP-1-12-5.md): 黜, 黻
+6. [SKIP-1-12-6](lookup/SKIP/SKIP-1/SKIP-1-12-6.md): 翻
+7. [SKIP-1-12-7](lookup/SKIP/SKIP-1/SKIP-1-12-7.md): 黼
 8. no
-9. [[SKIP-1-12-9]]
+9. [SKIP-1-12-9](lookup/SKIP/SKIP-1/SKIP-1-12-9.md): 顧
 10. [SKIP-1-12-10](lookup/SKIP/SKIP-1/SKIP-1-12-10.md): 懿
 
 ## Base check
