@@ -5,13 +5,13 @@ date-last-perfect: 2026-02-01
 
 1. [SKIP-3-2-1](lookup/SKIP/SKIP-3/SKIP-3-2-1.md)
 2. [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md)
-3. [[SKIP-3-2-3]]
-4. [[SKIP-3-2-4]]
-5. [[SKIP-3-2-5]]
-6. [[SKIP-3-2-6]]
-7. [[SKIP-3-2-7]]
-8. [[SKIP-3-2-8]]
-9. [[SKIP-3-2-9]]
+3. [[lookup/SKIP/SKIP-3/SKIP-3-2-3]]
+4. [[lookup/SKIP/SKIP-3/SKIP-3-2-4]]
+5. [[lookup/SKIP/SKIP-3/SKIP-3-2-5]]
+6. [[lookup/SKIP/SKIP-3/SKIP-3-2-6]]
+7. [[lookup/SKIP/SKIP-3/SKIP-3-2-7]]
+8. [[lookup/SKIP/SKIP-3/SKIP-3-2-8]]
+9. [[lookup/SKIP/SKIP-3/SKIP-3-2-9]]
 10. [[SKIP-3-2-10]]
 11. [[SKIP-3-2-11]]
 12. [SKIP-3-2-12](lookup/SKIP/SKIP-3/SKIP-3-2-12.md)

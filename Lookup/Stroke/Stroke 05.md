@@ -19,7 +19,7 @@ See also
 	- [[SKIP-2-4-1]]: [[丕]], [[氐]], [[旦]]
 - SKIP 3: 
 	- [[lookup/SKIP/SKIP-3/SKIP-3-1-4]]: [[司]]
-	- [[SKIP-3-2-3]]: [[右]], [[用]], 
+	- [[lookup/SKIP/SKIP-3/SKIP-3-2-3]]: [[右]], [[用]], 
 	- [[SKIP-3-3-2]]: [[四 (char)|四]]
 - SKIP 4
 	- [[SKIP-4-5-1]]: [[母]], [[且 (char)|且]]
