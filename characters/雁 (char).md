@@ -30,6 +30,7 @@ graphemic_classification: 厂
 stand_in: 雁
 aliases:
   - 鴈
+  - 鳫
 注音: ㄚㄋ
 ---
 ```meta-bind-embed
