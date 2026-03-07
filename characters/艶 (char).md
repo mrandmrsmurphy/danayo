@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: iᴇm
-stroke_count: "19"
+stroke_count: 19
 radical: 色
 skip_number: 1-13-6
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - plump
