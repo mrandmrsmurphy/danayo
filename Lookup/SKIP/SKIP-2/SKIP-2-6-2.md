@@ -1,25 +1,27 @@
 ---
 stroke_count: 8
 date-last-perfect:
+size: 6
 skip_number: 2-6-2
 ---
 > SKIP : 2 : [6](lookup/SKIP/SKIP-2/SKIP-2-6.md)
 > [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 ## Characters
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.skip_number === "2-6-2")
-// or stricter: .where(p => p["your_property"] === "value"
-// or for numbers/strings/etc: adjust comparison as needed
-
-const titles = pages
-  .map(p => p.file.name)
-  .sort()
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-```
+### Used
+1. [[些]]
+2. [[竺]]
+3. [[其 (char)]]
+4. [[典]]
+5. [[阜]]	
+6. [[券 (char)]]
+### Redirects
+- 兒 --> 児
+- 咒 --> 呪
+- 劵 --> 券
+- 卷 --> 巻
+### Forbidden
+凭	
 
 ## Datacheck
 ```dataview

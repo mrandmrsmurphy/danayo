@@ -19,9 +19,9 @@ vietnamese:
   - cà
 middle_chinese_initial: g
 middle_chinese_final: ɨ
-stroke_count: 12
+stroke_count: 8
 radical: 八
-skip_number: 2-6-6
+skip_number: 2-6-2
 grade_level: "3"
 pos: 修飾語
 english:

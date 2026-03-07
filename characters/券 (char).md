@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ʉɐn
-stroke_count: 12
+stroke_count: 8
 radical: 刀
-skip_number: 2-6-6
-grade_level: 6
+skip_number: 2-6-2
+grade_level: "6"
 pos: ""
 english:
   - bond
