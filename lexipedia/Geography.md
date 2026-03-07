@@ -163,9 +163,9 @@ Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby>[[密度]]) is 
 Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚ˙·˙ㄚㄥ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧ˙·ˇㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛˇㄑㄚˇ</rt></ruby>.
 
 ## The Global System
-The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚ˙</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[体系]]).  
-State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle ([[基本]][[原則]]).  
-International organizations (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[組織]]) mediate disputes ([[調解]][[争端]]).
+The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚ˙</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby> operates within an <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>体系<rt>ㄊㄝ˙ㄏㄝ˙</rt></ruby>.  
+State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle (<ruby>[基本](/words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>[[原則]]).  
+<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>組織<rt>ㄐㄛㄐㄞㄎ</rt></ruby> [[調解]][[争端]].
 
 Economic interdependence ([[経済]][[互依]]) and communication networks (通信網) connect regions globally (全球連結).
 
