@@ -12,7 +12,7 @@ date-last-perfect: 2026-02-01
 7. [[lookup/SKIP/SKIP-3/SKIP-3-2-7]]
 8. [[lookup/SKIP/SKIP-3/SKIP-3-2-8]]
 9. [[lookup/SKIP/SKIP-3/SKIP-3-2-9]]
-10. [[SKIP-3-2-10]]
+10. [[lookup/SKIP/SKIP-3/SKIP-3-2-10]]
 11. [[SKIP-3-2-11]]
 12. [SKIP-3-2-12](lookup/SKIP/SKIP-3/SKIP-3-2-12.md)
 13. [[SKIP-3-2-13]]
