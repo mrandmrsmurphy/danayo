@@ -248,7 +248,7 @@
 - [[SKIP-3-4-14]] in [[lookup/SKIP/SKIP-3/SKIP-3-4]]
 - [[SKIP-3-4-15]] in [[lookup/SKIP/SKIP-3/SKIP-3-4]]
 - [[SKIP-3-4-19]] in [[lookup/SKIP/SKIP-3/SKIP-3-4]]
-- [[ㄅㄛㄎ]] in [[characters/剝]], [[syllables/Syllables]]
+- [[syllables/ㄅㄛㄎ]] in [[characters/剝]], [[syllables/Syllables]]
 - [[ㄋㄧㄆ]] in [[characters/入 (char)]], [[syllables/Syllables]]
 - [[ㄌ˙ㄛㄥ]] in [[characters/龍 (char)]], [[syllables/Syllables]]
 - [[ㄌㄧㄎ]] in [[characters/力 (char)]], [[syllables/Syllables]]
