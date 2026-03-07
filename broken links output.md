@@ -2548,7 +2548,7 @@
 - [[躾]] in [[lookup/Korean/Korean Name ㅁ]]
 - [[軀]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
 - [[車]] in [[lookup/Korean/Korean Name ㅊ]]
-- [[軍事]] in [[lexipedia/Geography]]
+- [[words/軍事]] in [[lexipedia/Geography]]
 - [[軟禁]] in [[characters/禁]]
 - [[軣軣]] in [[characters/軣]]
 - [[軫]] in [[lookup/Korean/Korean Name ㅈ]]

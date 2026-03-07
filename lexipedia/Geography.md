@@ -15,7 +15,7 @@ Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨˇ</rt></rub
 
 ### Landform
 The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>, <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚˇ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>.  
-Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby>, and defense ([[軍事]][[防守]]).
+Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby>, and defense (<ruby>軍事<rt>ㄍㄨㄋㄐㄧ</rt></ruby>[[防守]]).
 
 ### Political Development
 Historically, imperial rule (<ruby>帝国<rt>ㄊㄝ˙ㄍㄛㄎ</rt></ruby>[[制度]]) was dominant.  
@@ -25,14 +25,14 @@ Historically, imperial rule (<ruby>帝国<rt>ㄊㄝ˙ㄍㄛㄎ</rt></ruby>[[制�
 In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>共和<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
-<ruby>共通<rt>ㄍ˙ㄛㄥㄊㄛㄥ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium ([[文学]][[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
+<ruby>共通<rt>ㄍ˙ㄛㄥㄊㄛㄥ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
 
 ## 東南亜
 <ruby>東南亜<rt>ㄉㄛㄥㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
 The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[島嶼群]]) and straits ([[海峡]]) are common.  
 <ruby>海上<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby><ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>) forms an economic foundation (<ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>基盤<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 
-Many states experienced colonial rule ([[殖民]][[統治]]) and later established independent states (独立<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures (政治体制) vary.
+Many states experienced colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) and later established independent states (独立<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures (政治体制) vary.
 
 - <ruby>越南<rt>ˇㄝㄊㄋㄚㄇ</rt></ruby>
 - <ruby>泰国<rt>ㄊㄚ˙ㄍㄛㄎ</rt></ruby>
@@ -59,13 +59,13 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) 
 - Sri Lanka (斯里蘭卡)  
 - Nepal (尼泊爾)  
 - Bhutan (不丹)
-The Himalayan region (喜馬拉雅[[山地]]) forms a natural boundary ([[自然]][[界線]]).
+The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧ˙ㄋ˙ㄝㄋ</rt></ruby>[[界線]]).
 
 ## West and Central Asia
 West Asia ([[西亜]]) includes desert zones ([[沙漠]][[地帯]]) and strategic trade routes ([[商路]][[要地]]).  
-Central Asia ([[中亜]]) contains steppe regions ([[草原]][[地帯]]) historically associated with nomadic peoples ([[遊牧]][[民族]]).
+Central Asia ([[中亜]]) contains steppe regions (<ruby>草原<rt>ㄑㄚˇ·ˇㄝㄋ</rt></ruby>[[地帯]]) historically associated with <ruby>遊牧<rt>˙ㄨˇㄇㄨㄎ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>.
 
-Imperial expansion ([[帝国]][[興起]]) and religious diffusion ([[宗教]][[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
+Imperial expansion (<ruby>帝国<rt>ㄊㄝ˙ㄍㄛㄎ</rt></ruby>[[興起]]) and religious diffusion (<ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby>[[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
 
 ### 西亜
 - Iran (伊朗) , formerly Persia [[波斯]]
@@ -112,7 +112,7 @@ Industrial and political development (政治発展) in these states influenced g
 <ruby>非洲<rt>ㄆㄧㄐㄨˇ</rt></ruby> includes major deserts (大沙漠) and large rivers (<ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby>).  
 Ethnic diversity (<ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>[[多様]]) and linguistic diversity ([[語言]][[多様]]) are significant.
 
-Colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) shaped political boundaries ([[国境]][[形成]]).  
+Colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) shaped political boundaries ([[国境]]<ruby>形成<rt>ㄏㄝㄥㄙㄧㄥ</rt></ruby>).  
 Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) faced uneven development (<ruby>発展<rt>ㄏㄝㄥㄙㄧㄥ</rt></ruby>[[不均]]).
 
 - <ruby>埃及<rt>ㄚ˙ㄍㄨㄆ</rt></ruby>
@@ -160,7 +160,7 @@ Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby>[[密度]]) is 
 - <ruby>新西蘭<rt>ㄙㄧㄋㄙㄝ˙ㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
-Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚ˙·˙ㄚㄥ</rt></ruby>[[航路]]) define regional structure ([[地域]][[構造]]).
+Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚ˙·˙ㄚㄥ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧ˙·ˇㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛˇㄑㄚˇ</rt></ruby>.
 
 ## The Global System
 The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚ˙</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby>) operates within an international system (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[体系]]).  
