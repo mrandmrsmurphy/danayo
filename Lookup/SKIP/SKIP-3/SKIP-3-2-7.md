@@ -1,5 +1,7 @@
 ---
 size: 5
+skip_number: 3-2-7
+stroke_count: 9
 ---
 > SKIP : 3 : [2](lookup/SKIP/SKIP-3/SKIP-3-2.md)
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)

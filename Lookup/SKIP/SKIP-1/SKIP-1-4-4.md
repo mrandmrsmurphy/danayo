@@ -4,7 +4,7 @@ stroke_count: 8
 date-last-perfect:
 skip_number: 1-4-4
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-4|4]]
+> SKIP : 1 : [4](lookup/SKIP/SKIP-1/SKIP-1-4.md)
 > [Stroke 08](lookup/Stroke/Stroke%2008.md)
 ### Sun
 - <ruby>[[旺]]<rt>왕</rt></ruby>
