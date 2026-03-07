@@ -1,6 +1,7 @@
 ---
 size: 19
 stroke_count: 5
+skip_number: 1-3-2
 ---
 > SKIP : 1 : [3](SKIP-1-3)
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)

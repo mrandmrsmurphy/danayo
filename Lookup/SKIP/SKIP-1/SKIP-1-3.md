@@ -1,23 +1,9 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-03-07
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 1
 
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.skip_number === "1-3-11")
-// or stricter: .where(p => p["your_property"] === "value")
-// or for numbers/strings/etc: adjust comparison as needed
-
-const titles = pages
-  .map(p => p.file.name)
-  .sort()                    // optional: alphabetical sort
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-````
-
-1. [[SKIP-1-3-1]]: 孔, 幻, 引
+1. [SKIP-1-3-1](lookup/SKIP/SKIP-1/SKIP-1-3-1.md): 孔, 幻, 引
 2. [SKIP-1-3-2](lookup/SKIP/SKIP-1/SKIP-1-3-2.md): 刊, 功, 北, 卯, 叩, 叫, 叭, 叱, 外, 夗, 奴, 巧, 幼, 弘, 打, 氾, 汀, 汁, 犯
 3. [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md): 兆, 吐, 吸, 地, 壮, 好, 如, 妃, 帆, 弛, 忙, 扱, 汎, 汗, 汚, 汝, 江, 池, 竹, 羽, 行
 4. [[SKIP-1-3-4]]: 吟, 吹, 吻, 吼, 坂, 均, 坊, 坑, 妊, 妍, 妓, 妖, 妙, 妨, 岐, 彷, 役, 快, 扮, 扶, 批, 技, 抄, 把, 抑, 抒, 投, 抗, 折, 抜, 択, 改, 攻, 汪, 汰, 汲, 決, 汽, 沃, 沈, 沌, 沐, 沖, 沙, 沛, 没, 沢, 泛, 状, 狂, 舛, 阮, 防
@@ -27,17 +13,17 @@ dv.paragraph(titles || "No matching pages");
 8. [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md): 唯, 唱, 唵, 唾, 啖, 啡, 喝, 域, 埴, 埼, 堀, 堆, 堵, 婉, 婚, 婢, 婦, 帳, 張, 強, 得, 徙, 悸, 悼, 情, 惇, 惚, 惜, 惧, 惨, 捧, 捨, 捷, 捺, 捻, 掃, 授, 掏, 排, 掘, 掛, 掠, 採, 探, 接, 控, 推, 措, 掬, 掲, 掻, 描, 涯, 液, 涼, 淀, 淋, 淑, 淡, 淫, 淮, 深, 淳, 混, 添, 清, 渇, 済, 渉, 渋, 渓, 渚, 猛, 猜, 猟, 猪, 猫, 術, 郷, 陪, 陰, 陳, 陵, 陶, 陸, 険, 隆
 9. [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md): 卿, 啼, 喀, 喇, 喉, 喊, 喋, 喘, 喚, 喧, 喩, 喫, 堤, 堪, 堰, 場, 塔, 塚, 婿, 媒, 媛, 富, 帽, 幅, 弼, 弾, 御, 徨, 復, 循, 惰, 愉, 慌, 揀, 揄, 提, 揖, 揚, 換, 握, 揮, 援, 揶, 揺, 搭, 淵, 減, 渡, 渣, 渥, 渦, 温, 測, 港, 湆, 湊, 湖, 湘, 湛, 湧, 湯, 湾, 湿, 満, 滋, 猩, 猲, 猶, 粥, 街, 陽, 隅, 隊, 階, 随, 項, 須, 飧
 10. [SKIP-1-3-10](lookup/SKIP/SKIP-1/SKIP-1-3-10.md): 嗅, 嗚, 嘆, 塊, 塩, 填, 媽, 嫁, 嫉, 嫌, 幌, 微, 愧, 慄, 慎, 慨, 搬, 携, 搾, 摂, 摸, 源, 溜, 溝, 溶, 溺, 滅, 滑, 滞, 漠, 漢, 猿, 獅, 隔, 隙
-11. [SKIP-1-3-11](lookup/SKIP/SKIP-1/SKIP-1-3-11.md)
-12. [[SKIP-1-3-12]]
-13. [[SKIP-1-3-13]]
-14. [SKIP-1-3-14](lookup/SKIP/SKIP-1/SKIP-1-3-14.md)
-15. [[SKIP-1-3-15]]
-16. [[SKIP-1-3-16]]
-17. [[SKIP-1-3-17]]
-18. [[SKIP-1-3-18]]
-19. [[SKIP-1-3-19]]
+11. [SKIP-1-3-11](lookup/SKIP/SKIP-1/SKIP-1-3-11.md): 呕, 境, 増, 嫡, 嫩, 徳, 徴, 慢, 慣, 慷, 憎, 摘, 滲, 滴, 滾, 漁, 漂, 漆, 漏, 漑, 演, 漕, 漫, 漬, 漱, 漷, 漸, 獄, 際, 障, 隠, 鳴, 鹵
+12. [SKIP-1-3-12](lookup/SKIP/SKIP-1/SKIP-1-3-12.md): 嘩, 嘱, 嘲, 噴, 墟, 墳, 嬉, 嬌, 幟, 幡, 惮, 憤, 憧, 憫, 憬, 撇, 撐, 撞, 撤, 撫, 播, 撮, 撲, 撹, 潔, 潗, 潘, 潜, 潟, 潤, 潰, 澄, 澈, 衝
+13. [SKIP-1-3-13](lookup/SKIP/SKIP-1/SKIP-1-3-13.md): 嘴, 噫, 噸, 壅, 壇, 壊, 壌, 嬢, 憐, 憶, 憾, 懐, 拠, 擁, 擅, 操, 澪, 激, 濁, 濃, 獲, 衛, 衡, 隣
+14. [SKIP-1-3-14](lookup/SKIP/SKIP-1/SKIP-1-3-14.md): 嚇, 徽, 擡, 擢, 擦, 擬, 擱, 濯, 鴻
+15. [SKIP-1-3-15](lookup/SKIP/SKIP-1/SKIP-1-3-15.md): 擲, 擺, 擾, 攄, 攅, 濫, 瀑
+16. [SKIP-1-3-16](lookup/SKIP/SKIP-1/SKIP-1-3-16.md): 懶, 瀧
+17. [SKIP-1-3-17](lookup/SKIP/SKIP-1/SKIP-1-3-17.md): 瀕, 灌
+18. [SKIP-1-3-18](lookup/SKIP/SKIP-1/SKIP-1-3-18.md): 灋, 灘
+19. [SKIP-1-3-19](lookup/SKIP/SKIP-1/SKIP-1-3-19.md): ø
 20. no
-21. [[SKIP-1-3-21]]
+21. [SKIP-1-3-21](lookup/SKIP/SKIP-1/SKIP-1-3-21.md): ø
 
 ## Base check
 ```base
@@ -50,7 +36,9 @@ views:
         - file.hasLink("SKIP-1-3")
     order:
       - file.name
-	  - size
+      - size
       - skip_number
       - stroke_count
+      - date-last-perfect
+
 ```
