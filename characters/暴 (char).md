@@ -16,7 +16,7 @@ middle_chinese_final: uk
 stroke_count: 15
 radical: 日
 skip_number: 2-4-11
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - violent
