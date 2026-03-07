@@ -1,10 +1,10 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-03-07
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 1 :
 
 1. no
-2. [[SKIP-1-12-2]]
+2. [SKIP-1-12-2](lookup/SKIP/SKIP-1/SKIP-1-12-2.md): 劃
 3. [SKIP-1-12-3](lookup/SKIP/SKIP-1/SKIP-1-12-3.md): 影, 鄧, 鄭
 4. [SKIP-1-12-4](lookup/SKIP/SKIP-1/SKIP-1-12-4.md): 獣
 5. [SKIP-1-12-5](lookup/SKIP/SKIP-1/SKIP-1-12-5.md): 黜, 黻
