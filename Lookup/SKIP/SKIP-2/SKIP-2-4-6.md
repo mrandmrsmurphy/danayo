@@ -1,25 +1,14 @@
 ---
 stroke_count: 10
 date-last-perfect:
+size: 10
 skip_number: 2-4-6
 ---
 > SKIP : 2 : [4](lookup/SKIP/SKIP-2/SKIP-2-4.md)
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
 ## Characters
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.skip_number === "2-4-6")
-// or stricter: .where(p => p["your_property"] === "value"
-// or for numbers/strings/etc: adjust comparison as needed
-
-const titles = pages
-  .map(p => p.file.name)
-  .sort()
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-```
+奚 (char), 挙 (char), 晃, 晏, 爹, 素, 索, 蚕 (char), 蚤, 䍃
 
 ## Datacheck
 ```dataview

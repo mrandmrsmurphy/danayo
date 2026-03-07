@@ -10,10 +10,10 @@ views:
       - size
       - file.mtime
     sort:
-      - property: file.mtime
-        direction: ASC
       - property: size
         direction: DESC
+      - property: file.mtime
+        direction: ASC
       - property: date-last-perfect
         direction: DESC
       - property: 羅馬字
