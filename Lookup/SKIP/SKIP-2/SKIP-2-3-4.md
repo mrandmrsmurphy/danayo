@@ -3,7 +3,8 @@ stroke_count: 7
 size: 32
 skip_number: 2-3-4
 ---
-> [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-3|3]] 
+> SKIP : 2 : [3](lookup/SKIP/SKIP-2/SKIP-2-3.md)
+> [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 - <ruby>[[壱]]<rt>ㄧㄊ</rt></ruby>
 - [[花]]

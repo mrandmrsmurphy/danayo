@@ -1,11 +1,10 @@
 ---
-aliases:
 date-last-perfect:
 size: 7
 stroke_count: 13
 ---
-> [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-8|8]] 
-> All of these [[Stroke 13]].
+> SKIP : 2 : [SKIP-2-8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
+> All of these [Stroke 13](lookup/Stroke/Stroke%2013.md).
 
 - [[雹]] - hail
 - <ruby>[[楚]]<rt>ㄑㄛ</rt></ruby> - clear

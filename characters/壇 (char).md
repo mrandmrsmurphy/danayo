@@ -16,7 +16,7 @@ middle_chinese_final: ɑn
 stroke_count: 16
 radical: 土
 skip_number: 1-3-13
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - altar

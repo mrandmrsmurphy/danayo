@@ -4,7 +4,8 @@ skip_number: 2-4-7
 stroke_count: 11
 date-last-perfect:
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 2 :  [4](lookup/SKIP/SKIP-2/SKIP-2-4.md)
+> SKIP : 2 :  [4](lookup/SKIP/SKIP-2/SKIP-2-4.md)
+> [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 1. <ruby>[[覓]]<rt>먹</rt></ruby> search
 2. <ruby>[[貨]]<rt>화</rt></ruby> goods

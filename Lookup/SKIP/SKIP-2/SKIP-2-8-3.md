@@ -3,7 +3,8 @@ stroke_count: 11
 size: 8
 date-last-perfect: 2026-02-23
 ---
-> [[SKIP]] : [[SKIP-2|2]] : [[SKIP-2-8|8]]
+> SKIP : 2 : [8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
+> [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 - <ruby>[[啓]]<rt>ㄎㄝ˙</rt></ruby> - open
 - <ruby>[[堂]]<rt>ㄉㄚㄥ</rt></ruby> - meeting hall

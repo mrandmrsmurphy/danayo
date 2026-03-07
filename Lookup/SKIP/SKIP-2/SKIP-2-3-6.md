@@ -3,8 +3,8 @@ size: 21
 stroke_count: 9
 skip_number: 2-3-6
 ---
-> [[SKIP]] : [[SKIP-2|2]] : [[SKIP-2-3|3]]
-
+> SKIP : 2 : [SKIP-2-3](lookup/SKIP/SKIP-2/SKIP-2-3.md)
+> [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 - <ruby>[[莽]]<rt>망</rt></ruby>
 - [[茨]]

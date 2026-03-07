@@ -3,8 +3,8 @@ size: 9
 stroke_count: 10
 skip_number: 2-5-5
 ---
-
-> [[SKIP]] | [[SKIP-2|2]] | [[SKIP-2-5|5]]
+> SKIP : 2 : [SKIP-2-5](lookup/SKIP/SKIP-2/SKIP-2-5.md)
+> [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
 - <ruby>[[芻]]<rt>추</rt></ruby>
 - <ruby>[[帯]]<rt>대</rt></ruby>
