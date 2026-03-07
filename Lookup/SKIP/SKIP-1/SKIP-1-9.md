@@ -14,3 +14,20 @@ date-last-perfect:
 8. [[SKIP-1-9-8]]
 9. [[SKIP-1-9-9]]
 10. [[SKIP-1-9-10]]
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "lookup/SKIP/SKIP-1"
+        - file.hasLink("SKIP-1-9")
+    order:
+      - file.name
+      - size
+      - skip_number
+      - stroke_count
+      - date-last-perfect
+```
