@@ -10,6 +10,7 @@ japanese:
   - REN
 japanese_nanori: ""
 vietnamese:
+  - liên
 middle_chinese_initial: l
 middle_chinese_final: iᴇn
 stroke_count: 10

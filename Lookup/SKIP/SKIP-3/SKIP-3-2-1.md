@@ -4,7 +4,7 @@ date-last-perfect: 2026-03-04
 stroke_count: 3
 skip_number: 3-2-1
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 3 : [2](lookup/SKIP/SKIP-3/SKIP-3-2.md)
+> SKIP : 3 : [2](lookup/SKIP/SKIP-3/SKIP-3-2.md)
 > [Stroke 03](lookup/Stroke/Stroke%2003.md)
 
 ## Characters

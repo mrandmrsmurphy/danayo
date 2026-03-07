@@ -4,17 +4,17 @@ size: 6
 stroke_count: 2
 skip_number: 4-2-4
 ---
-
-> [[SKIP]] : 4 : [[SKIP-4-2|2]] | [[SKIP-4-0-4]]
+> SKIP : 4 : [2](lookup/SKIP/SKIP-4/SKIP-4-2.md) | [SKIP-4-0-4](lookup/SKIP/SKIP-4/SKIP-4-0-4.md)
+> [Stroke 02](lookup/Stroke/Stroke%2002.md)
 
 ## Characters
 ### Used
-1. <ruby>[[九 (char)|九]]<rt>ㄍ˙ㄨ</rt></ruby> - nine
-2. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby> - person
-3. <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby> - enter
-4. <ruby>[[卜]]<rt>ㄅㄛㄎ</rt></ruby> - divine
-5. <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby> - power
-6. <ruby>[[乂]]<rt>˙ㄚ˙</rt></ruby> - govern
+1. <ruby>[九](characters/九%20(char).md)<rt>ㄍ˙ㄨ</rt></ruby> - nine
+2. <ruby>[人](characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
+3. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
+4. <ruby>[卜](characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divine
+5. <ruby>[力 (char)](characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power
+6. <ruby>[乂](characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern
 ### Aliases
 ### Forbidden
 - 勹

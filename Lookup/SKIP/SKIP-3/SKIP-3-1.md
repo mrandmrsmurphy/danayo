@@ -3,7 +3,7 @@ date-last-perfect:
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
-## Characters
+1. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md)
 
 ## Base check
 ```base

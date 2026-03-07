@@ -165,9 +165,9 @@ Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>�
 ## The Global System
 The <ruby>現代<rt>ㄏ˙ㄝㄋㄉㄚ˙</rt></ruby><ruby>世界<rt>ㄙㄝㄐ˙ㄝ</rt></ruby> operates within an <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>体系<rt>ㄊㄝ˙ㄏㄝ˙</rt></ruby>.  
 State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle (<ruby>[基本](/words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>[[原則]]).  
-<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>組織<rt>ㄐㄛㄐㄞㄎ</rt></ruby> [[調解]][[争端]].
+<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[[組織]]<rt>ㄐㄛㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄥㄉˇㄚㄋ</rt></ruby>.
 
-Economic interdependence ([[経済]][[互依]]) and communication networks (通信網) connect regions globally (全球連結).
+Economic interdependence (<ruby>[経済](/words/経済.md)<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby>[[互依]]) and communication networks ([[通信]][[網]]) connect regions globally ([[全球]][[連結]]).
 
 Geography remains stable ([[地理]][[相対]]不変).  
 History continues to transform conditions ([[歴史]][[持続]][[変化]]).  

@@ -4,8 +4,8 @@ stroke_count: 5
 size: 2
 skip_number: 1-4-1
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-4|4]]
-> All of these are [[Stroke 05]]
+> SKIP : 1 : [4](lookup/SKIP/SKIP-1/SKIP-1-4.md)
+> All of these are [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
 - <ruby>[札](/characters/札%20(char))<rt>ㄐㄚㄊ</rt></ruby> - letter, note
 - <ruby>[礼](/characters/礼%20(char))<rt>ㄌㄝ˙</rt></ruby> - manners
