@@ -1,5 +1,5 @@
 ---
-size: 24
+size: 19
 stroke_count: 12
 skip_number: 2-6-6
 ---
