@@ -4,7 +4,20 @@ radical: 子
 ---
 > [[Radicals]]
 
-子 孔 (char) 孕 字 (char) 存 孚 孝 (char) 孟 季 孤 孩 学 孫
+## Characters
+1. 子
+2. 孔 (char)
+3. 孕
+4. <ruby>[字](/characters/字%20(char).md)<rt>ㄐㄧ</rt></ruby> - glyph
+5. 存
+6. 孚
+7. 孝 (char)
+8. 孟
+9. 季
+10. 孤
+11. 孩
+12. 学
+13. 孫
 
 ## Base check
 ```base
