@@ -16,7 +16,7 @@ middle_chinese_final: en
 stroke_count: 11
 radical: 玉
 skip_number: 1-4-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - present
@@ -37,5 +37,6 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+- <ruby>[実現](/words/実現.md)<rt>ㄙㄧㄊㄏ˙ㄝㄋ</rt></ruby> - implement

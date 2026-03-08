@@ -39,5 +39,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+
+- <ruby>[可愛](/words/可愛.md)<rt>ㄎㄚ·ㄚ˙</rt></ruby> - cute
