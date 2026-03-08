@@ -39,5 +39,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Derived characters: [乎](characters/乎%20(char).md)
