@@ -4,8 +4,8 @@ stroke_count: 9
 date-last-perfect: 2026-03-06
 skip_number: 4-9-3
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 4 : [9](lookup/SKIP/SKIP-4/SKIP-4-9.md) | [SKIP-4-0-3](lookup/SKIP/SKIP-4/SKIP-4-0-3.md)
-> [[Stroke 09]]
+> SKIP : 4 : [9](lookup/SKIP/SKIP-4/SKIP-4-9.md) | [SKIP-4-0-3](lookup/SKIP/SKIP-4/SKIP-4-0-3.md)
+> [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
 1. <ruby>[乗](/characters/乗%20(char).md)<rt>ㄙㄨㄥ</rt></ruby> - multiply

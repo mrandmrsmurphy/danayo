@@ -4,8 +4,8 @@ stroke_count: 13
 date-last-perfect:
 skip_number: 1-7-6
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-7|7]]
-> These are all [Stroke 13](lookup/Stroke/Stroke%2013.md)
+> SKIP : 1 : [7](lookup/SKIP/SKIP-1/SKIP-1-7.md)
+> [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
 ## Characters
 弒 肆 

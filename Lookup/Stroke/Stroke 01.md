@@ -3,7 +3,7 @@ date-last-perfect: 2026-02-22
 stroke_count: 1
 size: 2
 ---
-> [[Stroke]]
+> [Stroke](lookup/Stroke/Stroke.md)
 
 - <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one
 - <ruby>[[乙 (char)|乙]]<rt>ㄛㄊ</rt></ruby> - second

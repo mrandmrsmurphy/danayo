@@ -7,18 +7,18 @@ date-last-perfect:
 
 1. no
 2. no
-3. [[SKIP-2-12-3]]
-4. [[SKIP-2-12-4]]
-5. [[SKIP-2-12-5]]
+3. [[lookup/SKIP/SKIP-2/SKIP-2-12-3]]
+4. [[lookup/SKIP/SKIP-2/SKIP-2-12-4]]
+5. [[lookup/SKIP/SKIP-2/SKIP-2-12-5]]
 6. No
-7. [[SKIP-2-12-7]]
+7. [[lookup/SKIP/SKIP-2/SKIP-2-12-7]]
 8. no
 9. no
 10. no
 11. no
 12. no
-13. [[SKIP-2-12-13]]
-14. [[SKIP-2-12-14]]
+13. [[lookup/SKIP/SKIP-2/SKIP-2-12-13]]
+14. [[lookup/SKIP/SKIP-2/SKIP-2-12-14]]
 
 ## Base check
 ```base

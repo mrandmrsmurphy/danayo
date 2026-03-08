@@ -4,12 +4,14 @@ views:
     order:
       - file.name
       - date-last-perfect
+      - size
       - 注音
       - 羅馬字
       - 韓文
-      - size
       - file.mtime
     sort:
+      - property: file.name
+        direction: ASC
       - property: size
         direction: DESC
       - property: file.mtime

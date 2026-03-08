@@ -4,8 +4,8 @@ stroke_count: 13
 date-last-perfect:
 skip_number: 1-9-4
 ---
-> [[SKIP]] : 1 : [[SKIP-1-9|9]]
-> [[Stroke 13]]
+> SKIP : 1 : [9](lookup/SKIP/SKIP-1/SKIP-1-9.md)
+> [Stroke 13](lookup/Stroke/Stroke%2013.md)
 ## Characters
 ### Used
 1. [[献]] - offer, present
