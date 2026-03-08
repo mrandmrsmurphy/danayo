@@ -2,9 +2,13 @@
 size: 5
 stroke_count: 10
 skip_number: 2-7-3
+date-last-perfect:
 ---
-> [[SKIP]] : 2 : [[SKIP-2-7|7]]
-> [[Stroke 10]]
+> SKIP : 2 : [7](lookup/SKIP/SKIP-2/SKIP-2-7.md)
+> [Stroke 10](lookup/Stroke/Stroke%2010.md)
+
+## Characters
+哲, 唇 (char), 尃, 差, 辱
 
 ## Datacheck
 ```dataview
