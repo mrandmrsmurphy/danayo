@@ -17,6 +17,7 @@ Every, single one is the sickness radical!
 10. [[SKIP-3-5-10]]: 瘡
 11. No
 12. [[SKIP-3-5-12]]: 厳, 療, 癇, 癌
+13. [[lookup/SKIP/SKIP-3/SKIP-3-5-13]]
 
 
 ## Base check

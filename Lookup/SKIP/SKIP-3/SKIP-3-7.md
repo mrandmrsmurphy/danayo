@@ -3,7 +3,15 @@ date-last-perfect:
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
-## Characters
+1. No
+2. [[SKIP-3-7-2]]: 赴
+3. [[SKIP-3-7-3]]
+4. [[SKIP-3-7-4]]
+5. [[SKIP-3-7-5]]
+6. No
+7. [[SKIP-3-7-7]]
+8. [[SKIP-3-7-8]]
+9. [[SKIP-3-7-9]]
 
 ## Base check
 ```base
