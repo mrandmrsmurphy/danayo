@@ -29,3 +29,24 @@ pen - [[筆]]
 pencil - <ruby>鉛筆<rt>˙ㄝㄇㄅㄧㄊ</rt></ruby>
 
 ## Visual Arts 
+- draw
+- picture
+- paint
+- statue
+- map
+- chart
+- cartoon
+- film
+
+## Music
+- beat
+- meter
+- measure
+- music
+- note
+- sing
+- melody
+- lyrics
+- chord
+- harmony
+- 

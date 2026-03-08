@@ -63,3 +63,48 @@ bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau<
 - liver - <ruby>肝臓<rt>ganjang</rt></ruby>, lungs - <ruby>肺<rt>pye</rt></ruby>, womb - <ruby>子宮<rt>jigung</rt></ruby>, kidney - <ruby>腎臓<rt>sinjang</rt></ruby>, brain - <ruby>脳<rt>nau</rt></ruby>, intestines - <ruby>腸管<rt>canggwen</rt></ruby>
 - skeleton - <ruby>[[骨格]]<rt>곧각</rt></ruby>/<ruby>骸骨<rt>hyegot</rt></ruby>, skull - <ruby>頭骨<rt>dougot</rt></ruby>, rib - <ruby>肋骨<rt>lukgot</rt></ruby>, spine - <ruby>背骨<rt>boigot</rt></ruby>, pelvis - <ruby>骨盤<rt>gotban</rt></ruby>
 - spit - <ruby>唾液<rt>ta'yek</rt></ruby>, snot - <ruby>鼻水<rt>bisui</rt></ruby>, urine - <ruby>尿<rt>nau</rt></ruby>, semen - <ruby>精液<rt>jeng'yek</rt></ruby>, fart - <ruby>屁<rt>pii</rt></ruby>, menstruation - <ruby>月経<rt>'wetgeng</rt></ruby>
+
+## Actions
+- feel
+- gesture
+- hang
+- kick
+- lay
+- lean
+- point
+- reach
+- rest
+- shrug
+- sit
+- stand
+- touch
+- slap
+- scratch
+- caress
+- hug
+
+## Fact
+- blink
+- blow
+- breath
+- faint
+- frown
+- gasp
+- glare
+- grin
+- hiss
+- kiss
+- laugh
+- nod
+- sigh
+- smile
+- swallow
+- yawn, bite, chew, sneeze, drool, choke, vomit, cough, suck, spit, whistle, snore
+
+## Drives
+- wake
+- hunger
+- sex
+- sleep
+- tire
+- thirst

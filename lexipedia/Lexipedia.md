@@ -1,7 +1,6 @@
 ---
 language: English
 ---
-
 ## Lexipedia
 Rosenfelder's helpful book
 
