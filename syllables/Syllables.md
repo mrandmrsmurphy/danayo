@@ -23,7 +23,7 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 Many, many examples with final -ㄆ,-ㄊ,-ㄎ,-ㄋ,-ㄇ, -ㄥ do not exist, but are not technically forbidden.  
 ## A vowels
 ### ㄚ series
-- ㄅ : [[ㄅㄚ]], [[ㄅㄚ˙]], [[ㄅㄚˇ]], [[ㄅㄚㄆ]], [[ㄅㄚㄊ]], [ㄅㄚㄎ](syllables/ㄅㄚㄎ.md), [ㄅㄚㄇ](syllables/ㄅㄚㄇ.md), [[ㄅㄚㄋ]], [[ㄅㄚㄥ]]
+- ㄅ : [[ㄅㄚ]], [[ㄅㄚ˙]], [[ㄅㄚˇ]], [[ㄅㄚㄆ]], [[ㄅㄚㄊ]], [ㄅㄚㄎ](syllables/ㄅㄚㄎ.md), [ㄅㄚㄇ](syllables/ㄅㄚㄇ.md), [[syllables/ㄅㄚㄋ]], [[ㄅㄚㄥ]]
 - ㄆ : [[ㄆㄚ]], [[ㄆㄚ˙]], [[ㄆㄚˇ]], [[ㄆㄚㄆ]], [[ㄆㄚㄊ]], [[ㄆㄚㄎ]], [[ㄆㄚㄇ]], [[ㄆㄚㄋ]], [[ㄆㄚㄥ]]
 - ㄇ : [[ㄇㄚ]], [[ㄇㄚ˙]], [[ㄇㄚˇ]], [[ㄇㄚㄆ]], [[ㄇㄚㄊ]], [[ㄇㄚㄎ]], [[ㄇㄚㄇ]], [[ㄇㄚㄋ]], [[ㄇㄚㄥ]]
 - ㄉ :  [[ㄉㄚ]], [[ㄉㄚ˙]], [[ㄉㄚˇ]], [[ㄉㄚㄆ]], [[ㄉㄚㄊ]], [[ㄉㄚㄎ]], [[ㄉㄚㄇ]], [ㄉㄚㄋ](syllables/ㄉㄚㄋ.md), [[ㄉㄚㄥ]]
