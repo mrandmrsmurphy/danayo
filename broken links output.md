@@ -231,7 +231,7 @@
 - [[剿]] in [[lookup/Korean/Korean Name ㅊ]]
 - [[劈]] in [[lookup/Korean/Korean Name ㅂ]]
 - [[劑]] in [[lookup/Korean/Korean Name ㅈ]]
-- [[加皮]] in [[characters/加]]
+- [[words/加皮]] in [[characters/加]]
 - [[劤]] in [[lookup/Korean/Korean Name ㄱ]]
 - [[勃勃]] in [[chengyu/生機勃勃]]
 - [[勍]] in [[lookup/Korean/Korean Name ㄱ]]
