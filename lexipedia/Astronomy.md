@@ -17,7 +17,13 @@ The basic object in the sky is a "star" <ruby>[星](words/星.md)<rt>ㄙㄝㄥ</
 - Neptune - <ruby>[海王星](words/海王星.md)<rt>ㄏㄚ˙·ˇㄚㄥㄙㄝㄥ</rt></ruby>
 - Pluto - <ruby>[冥王星](words/冥王星.md)<rt>ㄇㄝㄥ·ˇㄚㄥㄙㄝㄥ</rt></ruby> (now a dwarf planet (<ruby>[[矮行星]]<rt>ˇㄚ˙ㄏㄚㄥㄙㄝㄥ</rt></ruby>) because of the discovery of Eris <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄥ</rt></ruby>)
 - 
-Between Mars and Jupiter is the Asteroid Belt <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄥㄙㄝㄥㄉㄚ˙</rt></ruby> (which is made out of asteroids <ruby>[小行星](words/小行星.md)<rt>ㄙㄛㄏㄚㄥㄙㄝㄥ</rt></ruby>), and the region after Neptune is now called the Oort Cloud <ruby>〇<rt>·ㄛ</rt></ruby><ruby>〇<rt>ㄌㄜ</rt></ruby><ruby>〇<rt>ㄊㄜ</rt></ruby><ruby>雲<rt>·ㄨㄋ</rt></ruby>.  It is believed that most comets (<ruby>[彗星](words/彗星.md)<rt>ㄏㄝㄙㄝㄥ</rt></ruby>) come from there.  If one of these or some object enteres our atmosphere, it burns up and becomes as 'shooting star' <ruby>[流星](words/流星.md)<rt>ㄌ˙ㄨㄙㄝㄥ</rt></ruby>.
+Between Mars and Jupiter is the Asteroid Belt <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄥㄙㄝㄥㄉㄚ˙</rt></ruby> (which is made out of asteroids <ruby>[小行星](words/小行星.md)<rt>ㄙㄛㄏㄚㄥㄙㄝㄥ</rt></ruby>), and the region after Neptune is now called the 
+
+Oort Cloud <ruby>◌<rt>ㄛ</rt></ruby><ruby>◌<rt>ㄌㄜ</rt></ruby><ruby>◌<rt>ㄊㄜ</rt></ruby><ruby>雲<rt>·ㄨㄋ</rt></ruby>.  
+
+Oort Cloud <ruby class="vert">⁠<rt>ㄛ</rt></ruby> ⁠ <ruby class="vert">⁠<rt>ㄌ<br>ㄜ</rt></ruby> ⁠ <ruby class="vert">⁠<rt>ㄊ<br>ㄜ</rt></ruby> ⁠ ⁠<ruby>雲<rt>·ㄨㄋ</rt></ruby>.
+
+It is believed that most comets (<ruby>[彗星](words/彗星.md)<rt>ㄏㄝㄙㄝㄥ</rt></ruby>) come from there.  If one of these or some object enteres our atmosphere, it burns up and becomes as 'shooting star' <ruby>[流星](words/流星.md)<rt>ㄌ˙ㄨㄙㄝㄥ</rt></ruby>.
 
 Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·ㄉㄚˇ</rt></ruby>) within a galaxy (<ruby>[恒星系](words/恒星系.md)<rt>ㄏㄨㄥㄙㄝㄥㄏㄝ˙</rt></ruby>), specifically, the Milky Way <ruby>[銀河系](words/銀河系.md)<rt>ㄧㄋㄏㄚㄏㄝ˙</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>[銀河](words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>.) Looking out, we see nebulae <ruby>[星雲](words/星雲.md)<rt>ㄙㄝㄥ·ㄨㄋ</rt></ruby> and novae <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄥ</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>[星坐](words/星坐.md)<rt>ㄙㄝㄥㄐˇㄚ</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>[星群](words/星群.md)<rt>ㄙㄝㄥㄍㄨㄋ</rt></ruby>.
 
