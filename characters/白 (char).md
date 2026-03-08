@@ -13,15 +13,15 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: ɣæk
-stroke_count: "5"
+stroke_count: 5
 radical: 白
 skip_number: 4-5-2
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - white
 羅馬字: bag
-韓文:  박
+韓文: 박
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

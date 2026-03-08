@@ -37,3 +37,5 @@ aliases:
 ```
 
 # Notes
+
+- <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄥ</rt></ruby> - Mercury (planet)

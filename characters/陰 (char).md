@@ -41,3 +41,6 @@ aliases:
 ```
 
 # Notes
+
+
+- <ruby>[陰性](/words/陰性.md)<rt>ㄧㄇㄙㄧㄥ</rt></ruby> - negativity, feminine gender

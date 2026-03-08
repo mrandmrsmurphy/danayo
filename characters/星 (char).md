@@ -17,7 +17,7 @@ middle_chinese_final: eŋ
 stroke_count: 9
 radical: 日
 skip_number: 2-4-5
-grade_level: 3
+grade_level: "3"
 pos: 名詞
 english:
   - star
@@ -48,3 +48,5 @@ swadesh: "149"
 - Japanese [[Jōyō - Kyōiku|second grade]], [[Korean MS]], [[HSK Beginner]].
 - Swadesh #149
 - Derived characters: 惺, 湦, [[猩]], 暒, 煋, 瑆, 腥, 睲, 䃏, 䗌, 謃, [[醒]], 鍟 (𰾝), 鯹 (𬶢), 戥, 篂
+
+- <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄥ</rt></ruby> - Mercury (planet)
