@@ -48,9 +48,6 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 	8. [SKIP-3-8](lookup/SKIP/SKIP-3/SKIP-3-8.md)
 	9. [SKIP-3-9](lookup/SKIP/SKIP-3/SKIP-3-9.md)
 	10. [SKIP-3-10](lookup/SKIP/SKIP-3/SKIP-3-10.md)
-	11. [SKIP-3-11](lookup/SKIP/SKIP-3/SKIP-3-11.md)
-	12. does not exist
-	13. [SKIP-3-13](lookup/SKIP/SKIP-3/SKIP-3-13.md)
 4. "Four" is different than all the other SKIPs.  The ''middle'' number is the number of strokes.
 	1. [SKIP-4-1](lookup/SKIP/SKIP-4/SKIP-4-1.md)
 	2. [SKIP-4-2](lookup/SKIP/SKIP-4/SKIP-4-2.md)

@@ -4,7 +4,8 @@ stroke_count: 12
 date-last-perfect:
 skip_number: 1-6-6
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 : [[SKIP-1-6|6]]
+> SKIP : 1 : [6](lookup/SKIP/SKIP-1/SKIP-1-6.md)
+> [Stroke 12](lookup/Stroke/Stroke%2012.md)
 ### Bug
 - <ruby>[[蛙]]<rt>와</rt></ruby> - frog
 - <ruby>[[蛛]]<rt>주</rt></ruby> - spider

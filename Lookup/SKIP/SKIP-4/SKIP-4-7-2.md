@@ -4,11 +4,11 @@ stroke_count: 7
 date-last-perfect: 2026-02-26
 skip_number: 4-7-2
 ---
-> [[SKIP]] : 4 : [[SKIP-4-7|7]] | [[SKIP-4-0-2]]
-> [[Stroke 07]]
+> SKIP : 4 : [7](lookup/SKIP/SKIP-4/SKIP-4-7.md) | [SKIP-4-0-2](lookup/SKIP/SKIP-4/SKIP-4-0-2.md)
+> [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 ## Characters
-1. <ruby>[[坐 (char)|坐]]<rt>ㄐˇㄚ</rt></ruby> - sit
+1. <ruby>[坐](characters/坐%20(char).md)<rt>ㄐˇㄚ</rt></ruby> - sit
 
 ## Datacheck
 ```dataview

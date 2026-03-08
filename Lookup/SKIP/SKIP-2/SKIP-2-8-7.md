@@ -4,8 +4,8 @@ stroke_count: 15
 date-last-perfect: 2026-02-26
 skip_number: 2-8-7
 ---
-> [[SKIP]] : 2 : [[SKIP-2-8|8]]
-> [[Stroke 15]]
+> SKIP : 2 : [8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
+> [Stroke 15](lookup/Stroke/Stroke%2015.md)
 
 ## Characters
 ### Used

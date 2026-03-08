@@ -4,8 +4,8 @@ stroke_count: 13
 date-last-perfect:
 skip_number: 1-6-7
 ---
-
-> [SKIP](lookup/SKIP/SKIP.md) : 1 : [6](SKIP-1-6)
+> SKIP : 1 : [6](lookup/SKIP/SKIP-1/SKIP-1-6.md)
+> [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
  - <ruby>[継](characters/継.md)<rt>ㄍㄝ˙</rt></ruby> - persist
 - <ruby>[続](characters/続.md)<rt>ㄙ˙ㄛㄎ</rt></ruby> - continue

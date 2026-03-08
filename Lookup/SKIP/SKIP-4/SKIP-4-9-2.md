@@ -4,8 +4,8 @@ stroke_count: 11
 date-last-perfect: 2026-03-06
 skip_number: 4-9-2
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 4 : [9](lookup/SKIP/SKIP-4/SKIP-4-9.md) | [SKIP-4-0-2](lookup/SKIP/SKIP-4/SKIP-4-0-2.md)
-> [[Stroke 11]]
+> SKIP : 4 : [9](lookup/SKIP/SKIP-4/SKIP-4-9.md) | [SKIP-4-0-2](lookup/SKIP/SKIP-4/SKIP-4-0-2.md)
+> [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 1. <ruby>[重](/characters/重%20(char).md)<rt>ㄑㄛㄥ</rt></ruby> - heavy
 
