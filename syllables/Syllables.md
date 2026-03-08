@@ -163,5 +163,5 @@ Many, many examples with final -ㄆ,-ㄊ,-ㄎ,-ㄋ,-ㄇ, -ㄥ do not exist, but 
 - · : [[˙ㄨ]], [[˙ㄨˇ]], [[˙ㄨㄆ]], [[˙ㄨㄊ]], [[˙ㄨㄎ]], [[˙ㄨㄇ]], [[˙ㄨㄋ]], [[˙ㄨㄥ]]
 - ㄏ : [[ㄏ˙ㄨ]], [[ㄏ˙ㄨˇ]], [[ㄏ˙ㄨㄆ]], [[ㄏ˙ㄨㄊ]], [[ㄏ˙ㄨㄎ]], [[ㄏ˙ㄨㄇ]], [[ㄏ˙ㄨㄋ]], [[ㄏ˙ㄨㄥ]]
 
-## Foreign vowel
+## Foreign vowel (◌)
 ㄅㄜ, ㄆㄜ, ㄇㄜ, ㄉㄜ, ㄊㄜ, ㄋㄜ, ㄌㄜ, ㄐㄜ, ㄑㄜ, ㄙㄜ, ㄍㄜ, ㄎㄜ, ㄜ, and ㄏㄜ are all possible when transcribing foreign words.
