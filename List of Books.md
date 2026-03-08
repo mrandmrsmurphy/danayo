@@ -1,3 +1,10 @@
+<ruby class="display: inline-flex;  
+flex-direction: column;  
+align-items: center;  
+justify-content: flex-end;  
+font-size: 0.36em;  
+line-height: 0.9;  
+white-space: nowrap;"
 - 史記
 - 戰國策
 - 楚辭
