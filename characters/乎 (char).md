@@ -40,4 +40,4 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- Derived characters: [乎](characters/乎%20(char).md)
+- Derived characters: [呼](characters/呼%20(char).md)

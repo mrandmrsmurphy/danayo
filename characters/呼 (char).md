@@ -45,6 +45,13 @@ aliases:
 - 形声: OC \*qʰaː): semantic [[Radical 030|口]] (“mouth”) + phonetic [乎](characters/乎%20(char).md) (OC \*ɢaː) – to exhale, call, or shout from the mouth, which is [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([[Stroke 08]])
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), HSK 2, [Grade 3](lookup/Grade%203.md)
 ## Word
+- <ruby>[呼](words/呼.md)<rt>ㄏㄛ</rt></ruby> - call, shout, exhale
+- <ruby>[呼吸](words/呼吸.md)<rt>ㄏㄛㄏㄧㄆ</rt></ruby> - breathe
+- <ruby>[呼吸器](words/呼吸器.md)<rt>ㄏㄛㄏㄧㄆㄎㄧ˙</rt></ruby> - respirator, ventilator
+- <ruby>[呼喚](words/呼喚.md)<rt>ㄏㄛㄏˇㄚㄋ</rt></ruby> shout, cry to
+- <ruby>[呼格](words/呼格.md)<rt>ㄏㄛㄍㄚㄎ</rt></ruby> vocative case
+- <ruby>[歓呼](words/歓呼.md)<rt>ㄏˇㄚㄋㄏㄛ</rt></ruby> hail, cheer
+
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "words"

@@ -3,7 +3,9 @@ size: 13
 skip_number: 4-5-1
 stroke_count: 5
 ---
-> [[SKIP]] : 4 : [[SKIP-4-5|5]] | [[SKIP-4-0-1]]
+> SKIP : 4 : [5](lookup/SKIP/SKIP-4/SKIP-4-5.md) | [SKIP-4-0-1](lookup/SKIP/SKIP-4/SKIP-4-0-1.md)
+> [Stroke 05](lookup/Stroke/Stroke%2005.md)
+
 1. [[正]]	
 2. [[凹]]	
 3. [[且]]	
@@ -13,7 +15,7 @@ stroke_count: 5
 7. [[冊 (char)|冊]]	
 8. [[皿]]
 9. [[凸]]	
-10. [[疋]]	
+10. <ruby>[疋](/characters/疋.md)<rt>ㄙ˙ㄛ</rt></ruby> - bolt of cloth
 11. [[丙]]	
 12. [[平]]	
 13. [[母]]	
