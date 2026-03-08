@@ -861,7 +861,7 @@ The following prefecture names were added in 2017:
 858. [[后]] : gō	kisaki	queen
 859. [[否]] : hi	ina ;  iya	negate
 860. [[吸]] : kyū	su-u	suck
-861. [[呼]] : ko	yo-bu	call
+861. [呼 (char)](characters/呼%20(char).md) : ko	yo-bu	call
 862. [[善]] : zen	yo-i	good
 863. [[困]] : kon	koma-ru	become distressed
 864. [[垂]] : sui	ta-reru	droop
