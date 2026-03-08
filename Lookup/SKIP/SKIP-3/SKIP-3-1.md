@@ -1,9 +1,9 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-03-07
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
-1. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md)
+1. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md): 司
 
 ## Base check
 ```base
