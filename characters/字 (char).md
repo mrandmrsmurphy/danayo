@@ -30,8 +30,8 @@ danayo_id: 86
 mc_id: 594
 graphemic_classification: 子
 stand_in: 字
-aliases:
 注音: ㄐㄧ
+date-last-perfect: 2026-03-08
 ---
 >[!tip] This is about the character.
 > For the word, see [[字]].
@@ -45,10 +45,18 @@ aliases:
 
 ## Words
 - <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - Chinese character
-## Datacheck
-```dataview
-TABLE 注音 AS "Sound", english AS "en"
-FROM "words"
-WHERE contains(characters, "字")
-SORT file.name ASC
-```
+- <ruby>[漢字](/words/漢字.md)<rt>ㄏㄚㄋㄐㄧ</rt></ruby> - Chinese character
+- <ruby>[羅馬字](/words/羅馬字.md)<rt>ㄌㄛㄇㄚㄐㄧ</rt></ruby> - Latin letter
+- <ruby>[卍字](/words/卍字.md)<rt>ㄇㄛㄋㄐㄧ</rt></ruby> - swastika
+- <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄥㄐㄧ</rt></ruby> - Name character
+- <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧ˙ㄐㄧㄙㄧㄥ·˙ㄛ</rt></ruby> - four-character stock phrase
+- <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby> - dictionary
+- <ruby>[字喃](/words/字喃.md)<rt>ㄐㄧㄋㄚㄇ</rt></ruby> - Chu Nom
+- <ruby>[字母](/words/字母.md)<rt>ㄐㄧㄇㄛˇ</rt></ruby> - grapheme
+- <ruby>[字源](/words/字源.md)<rt>ㄐㄧ·ˇㄝㄋ</rt></ruby> - etymology
+- <ruby>[数字](/words/数字.md)<rt>ㄙㄨㄐㄧ</rt></ruby> - numeral
+- <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - script
+- <ruby>[新字体](/words/新字体.md)<rt>ㄙㄧㄋㄐㄧㄊㄝ˙</rt></ruby> - Shinjitai
+- <ruby>[正字](/words/正字.md)<rt>ㄐㄧㄥㄐㄧ</rt></ruby> - correct character
+- <ruby>[正字法](/words/正字法.md)<rt>ㄐㄧㄥㄐㄧㄆㄚㄆ</rt></ruby> - orthography
+- <ruby>[識字](/words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> - literacy
