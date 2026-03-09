@@ -165,3 +165,31 @@ Many, many examples with final -ㄆ,-ㄊ,-ㄎ,-ㄋ,-ㄇ, -ㄥ do not exist, but 
 
 ## Foreign vowel (◌)
 ㄅㄜ, ㄆㄜ, ㄇㄜ, ㄉㄜ, ㄊㄜ, ㄋㄜ, ㄌㄜ, ㄐㄜ, ㄑㄜ, ㄙㄜ, ㄍㄜ, ㄎㄜ, ㄜ, and ㄏㄜ are all possible when transcribing foreign words.
+
+## Base check
+```base
+filters:
+  and:
+    - file.folder == "syllables"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "syllables"
+    order:
+      - file.name
+      - size
+      - date-last-perfect
+      - 注音
+      - 羅馬字
+      - 韓文
+    sort:
+      - property: date-last-perfect
+        direction: ASC
+      - property: size
+        direction: ASC
+    columnSize:
+      note.注音: 81
+
+```
