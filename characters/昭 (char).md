@@ -31,7 +31,7 @@ danayo_id: 6322
 mc_id: 393
 graphemic_classification: 召
 stand_in: 昭
-aliases:
+date-last-perfect: 2026-03-09
 注音: ㄐㄛˇ
 ---
 >[!tip] This is about the character.
@@ -42,4 +42,10 @@ aliases:
 ## Notes
 - 形声: OC \*tjew: semantic [日](Radical%20072) (“sun”) + phonetic [召](characters/召.md) (OC \*dews, \*djews).
 - [SKIP-1-4-5](lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([[Stroke 09]]) - [[ㄐㄛˇ]]
-- 
+- [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md), Not on HSK, [Grade 6](lookup/Grade%206.md)
+
+## Words/Names
+- [[昭明]] - lighting
+- 班昭 - Ban Zhao 45-116
+- 孝昭王 - Hyoso of Shilla 687-702
+- [[昭和]] - Shōwa
