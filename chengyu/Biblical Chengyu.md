@@ -30,4 +30,33 @@ Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
 - [[加哀痛産]] - add sorrow to painful labor ✅
 - [[道活墨殺]] - Letter kills, Spirit life ✅
 - [[勿妄称名]] - Don't take the Name in vain ✅
-- 
+
+## Base check
+```base
+filters:
+  and:
+    - file.folder == "chengyu"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "chengyu"
+        - origin == "Bible"
+    order:
+      - file.name
+      - date-last-perfect
+      - 注音
+      - 羅馬字
+      - 韓文
+      - vietnamese
+    sort:
+      - property: date-last-perfect
+        direction: ASC
+      - property: size
+        direction: ASC
+    columnSize:
+      note.date-last-perfect: 131
+      note.注音: 81
+
+```

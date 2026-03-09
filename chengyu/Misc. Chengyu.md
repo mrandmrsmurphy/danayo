@@ -18,3 +18,36 @@ date-last-perfect:
 - <ruby>[金城湯池](chengyu/金城湯池.md)<rt>ㄍㄧㄇㄙㄧㄥㄊㄚㄥㄐㄨ˙</rt></ruby> - impregnable 
 - <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧㄇㄧ˙ㄇㄚㄥㄌ˙ㄚㄥ</rt></ruby> - all the demons
 - <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ˙ㄝㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
+
+
+## Base check
+```base
+filters:
+  and:
+    - file.folder == "chengyu"
+    - origin != "単亜語"
+    - origin != "Bible"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "chengyu"
+        - origin != "単亜語"
+        - origin != "Bible" 
+    order:
+      - file.name
+      - date-last-perfect
+      - 注音
+      - 羅馬字
+      - 韓文
+      - vietnamese
+    sort:
+      - property: date-last-perfect
+        direction: ASC
+      - property: size
+        direction: ASC
+    columnSize:
+      note.date-last-perfect: 131
+      note.注音: 81
+```

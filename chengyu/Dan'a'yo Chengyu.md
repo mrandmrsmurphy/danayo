@@ -3,3 +3,33 @@
 - <ruby>[覧昭和決](chengyu/覧昭和決.md)<rt>ㄌㄚㄇㄐㄛˇㄏˇㄚㄎˇㄝㄊ</rt></ruby> - Shōwa decides the look
 - <ruby>[朝鮮正音](chengyu/朝鮮正音.md)<rt>ㄐㄚˇㄙ˙ㄝㄋㄐㄧㄥ·ㄨㄇ</rt></ruby> - Joseon standardizes the sound
 - [[形助顯理]]
+
+## Base check
+```base
+filters:
+  and:
+    - file.folder == "chengyu"
+    - origin == "単亜語"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "chengyu"
+        - origin == "単亜語"
+    order:
+      - file.name
+      - date-last-perfect
+      - 注音
+      - 羅馬字
+      - 韓文
+      - vietnamese
+    sort:
+      - property: date-last-perfect
+        direction: ASC
+      - property: size
+        direction: ASC
+    columnSize:
+      note.date-last-perfect: 131
+      note.注音: 81
+```
