@@ -18,6 +18,7 @@ date-last-perfect:
 - <ruby>[金城湯池](chengyu/金城湯池.md)<rt>ㄍㄧㄇㄙㄧㄥㄊㄚㄥㄐㄨ˙</rt></ruby> - impregnable 
 - <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧㄇㄧ˙ㄇㄚㄥㄌ˙ㄚㄥ</rt></ruby> - all the demons
 - <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ˙ㄝㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
+- <ruby>[茫然自失](chengyu/茫然自失.md)<rt>ㄇㄚㄥㄋ˙ㄝㄋㄐㄧ˙ㄙㄧㄊ</rt></ruby> - dazed and confused
 
 
 ## Base check

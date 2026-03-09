@@ -330,7 +330,7 @@ The following prefecture names were added in 2017:
 322. [[旅]] : ryo , tabi , trip , 
 323. [[族]] : zoku , – , tribe , 
 324. [[昔]] : – , mukashi , long ago , 
-325. [[昭]] : shō , – , clear , 
+325. [昭 (char)](characters/昭%20(char).md) : shō , – , clear , 
 326. [[暑]] : sho , atsu-i , hot , 
 327. [[暗]] : an , kura-i , dark , 
 328. [[曲]] : kyoku , ma-garu;  ma-geru , sheet music;  crooked , 

@@ -5,25 +5,27 @@ cantonese:
   - ciu1
 korean:
   - 소
-korean_native: ""
+korean_native: 밝을
 japanese:
   - SHOU
-japanese_nanori: ""
+japanese_nanori:
+  - あきらか
 vietnamese:
+  - chiêu
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: iᴇu
 stroke_count: 9
 radical: 日
 skip_number: 1-4-5
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 性詞
 english:
   - shine
   - luminous
 羅馬字: jou
 韓文: 좃
 joyo_level: "3"
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 6322
 mc_id: 393
@@ -32,8 +34,12 @@ stand_in: 昭
 aliases:
 注音: ㄐㄛˇ
 ---
+>[!tip] This is about the character.
+> For the word, see [昭](words/昭.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声: OC \*tjew: semantic [日](Radical%20072) (“sun”) + phonetic [召](characters/召.md) (OC \*dews, \*djews).
+- [SKIP-1-4-5](lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([[Stroke 09]]) - [[ㄐㄛˇ]]
+- 
