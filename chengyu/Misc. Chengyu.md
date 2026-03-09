@@ -34,20 +34,22 @@ views:
       and:
         - file.folder == "chengyu"
         - origin != "単亜語"
-        - origin != "Bible" 
+        - origin != "Bible"
     order:
       - file.name
+      - english
       - date-last-perfect
       - 注音
       - 羅馬字
       - 韓文
-      - vietnamese
     sort:
       - property: date-last-perfect
         direction: ASC
       - property: size
         direction: ASC
     columnSize:
+      file.name: 87
       note.date-last-perfect: 131
       note.注音: 81
+
 ```
