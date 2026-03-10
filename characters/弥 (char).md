@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: iᴇ
-stroke_count: "8"
+stroke_count: 8
 radical: 弓
 skip_number: 1-3-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - all the more
@@ -37,5 +37,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声: (OC \*mnel) = semantic [弓](Radical%20057) (“bow”) + phonetic [尔](characters/爾%20(char).md) (OC \*njelʔ)

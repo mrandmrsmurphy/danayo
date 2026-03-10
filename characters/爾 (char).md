@@ -32,6 +32,7 @@ stand_in: 爾
 aliases:
   - 尓
   - 邇
+  - 尔
 注音: ㄋㄝ
 ---
 ```meta-bind-embed

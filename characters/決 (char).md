@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: wet
-stroke_count: "7"
+stroke_count: 7
 radical: 水
 skip_number: 1-3-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - determine
@@ -31,10 +31,17 @@ graphemic_classification: 叏
 stand_in: 決
 aliases:
   - 决
+  - 叏
+  - 夬
 注音: ㄎˇㄝㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声: (OC \*kʷeːd, \*qʰʷeːd): semantic [[Radical 085|氵]] + phonetic 夬 (OC \*kʷraːds).  However, we do not retain that original component.  (It was also written 叏.)  It's descendants are:
+	- This character 決
+	- [袂 (char)](characters/袂%20(char).md)
+	- [快 (char)](characters/快%20(char).md)
+	- [缺](characters/缺.md)
+	- [訣](characters/訣.md)

@@ -30,11 +30,12 @@ mc_id: 3066
 graphemic_classification: 夬
 stand_in: 袂
 aliases:
+  - 𣍐
 注音: ㄇㄝ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 - Korean Name ㅋ, 
+- [衤](Radical%20145) + [[夬

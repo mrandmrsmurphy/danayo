@@ -16,7 +16,7 @@ middle_chinese_final: ei
 stroke_count: 7
 radical: 弓
 skip_number: 2-2-5
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - younger brother
