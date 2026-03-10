@@ -812,7 +812,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1835. [[婆]] : old woman
 1836. [[罵]] : insult
 1837. [[杯 (char)]] : counter for cupfuls
-1838. [[排]] : repudiate
+1838. [排 (char)](characters/排%20(char).md) : repudiate
 1839. [[廃]] : 	廢	S	abolish
 1840. [[輩]] : comrade
 1841. [[培]] : cultivate
