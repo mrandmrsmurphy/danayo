@@ -13,16 +13,16 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: iᴇŋ
-stroke_count: "12"
+stroke_count: 12
 radical: 車
 skip_number: 1-7-5
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - light
   - not heavy
 羅馬字: king
-韓文:  킹
+韓文: 킹
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

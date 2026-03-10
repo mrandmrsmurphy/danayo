@@ -15,7 +15,7 @@ middle_chinese_final: ɣɛŋ
 stroke_count: 8
 radical: 艸
 skip_number: 2-3-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - stem

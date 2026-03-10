@@ -185,10 +185,11 @@ views:
       - 羅馬字
       - 韓文
     sort:
-      - property: date-last-perfect
-        direction: ASC
       - property: size
+        direction: ASC
+      - property: date-last-perfect
         direction: ASC
     columnSize:
       note.注音: 81
+
 ```
