@@ -21,6 +21,8 @@ views:
       - middle_chinese_initial
       - middle_chinese_final
     sort:
+      - property: skip_number
+        direction: DESC
       - property: english
         direction: ASC
       - property: 韓文
@@ -44,8 +46,6 @@ views:
       - property: radical
         direction: ASC
       - property: danayo_id
-        direction: ASC
-      - property: skip_number
         direction: ASC
       - property: pos
         direction: DESC
