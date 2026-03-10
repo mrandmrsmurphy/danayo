@@ -19,7 +19,7 @@ grade_level: "3"
 pos: ""
 english:
   - swim
-羅馬字: wing
+羅馬字: "'wing"
 韓文: 윙
 joyo_level: "3"
 hsk_level: ""

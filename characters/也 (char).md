@@ -20,7 +20,7 @@ pos: ""
 english:
   - as for
   - EMPHASIS
-羅馬字: ya
+羅馬字: "'yam"
 韓文: 야
 joyo_level: 日本人名用漢字
 hsk_level: "1"

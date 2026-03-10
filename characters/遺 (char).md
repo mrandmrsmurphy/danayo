@@ -21,7 +21,7 @@ pos: ""
 english:
   - lose
   - leave behind
-羅馬字: yei
+羅馬字: "'yeidi"
 韓文: 예
 joyo_level: 高等
 hsk_level: ""

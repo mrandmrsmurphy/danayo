@@ -20,8 +20,8 @@ pos: ""
 english:
   - domain
   - level
-羅馬字: wig
-韓文:  윅
+羅馬字: "'wigi"
+韓文: 윅
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""

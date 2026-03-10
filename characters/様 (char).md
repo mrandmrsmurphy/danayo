@@ -19,7 +19,7 @@ grade_level: "3"
 pos: ""
 english:
   - -ly (adverbializer)
-羅馬字: yang
+羅馬字: "'yangbu"
 韓文: 양
 joyo_level: "3"
 hsk_level: ""

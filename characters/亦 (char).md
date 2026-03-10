@@ -20,7 +20,7 @@ grade_level: 先進
 pos: ""
 english:
   - too
-羅馬字: yeg
+羅馬字: "'yeg"
 韓文: 역
 joyo_level: 日本人名用漢字
 hsk_level: ""

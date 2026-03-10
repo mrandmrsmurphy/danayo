@@ -21,7 +21,7 @@ pos: 事詞
 english:
   - unravel
   - explain
-羅馬字: yeg
+羅馬字: "'yeg"
 韓文: 역
 joyo_level: 表外字
 hsk_level: 無

@@ -21,7 +21,7 @@ english:
   - horizon
   - shore
   - border
-羅馬字: yai
+羅馬字: "'yai'yai"
 韓文: 얘
 joyo_level: 高等
 hsk_level: ""

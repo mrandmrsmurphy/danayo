@@ -19,7 +19,7 @@ grade_level: "1"
 pos: ""
 english:
   - night
-羅馬字: ya
+羅馬字: "'yam"
 韓文: 야
 joyo_level: "2"
 hsk_level: ""

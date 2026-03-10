@@ -20,7 +20,7 @@ grade_level: 先進
 pos: ""
 english:
   - yes?  mm?
-羅馬字: ye
+羅馬字: "'yeg"
 韓文: 여
 joyo_level: 日本人名用漢字
 hsk_level: ""

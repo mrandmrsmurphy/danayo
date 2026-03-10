@@ -20,7 +20,7 @@ pos: ""
 english:
   - recite
   - chant
-羅馬字: wing
+羅馬字: "'wing"
 韓文: 윙
 注音: ˇㄧㄥ
 joyo_level: ""
