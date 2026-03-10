@@ -5,12 +5,16 @@
 |軽素|     |   |   |   |   |   |  日素  |
 |石素| 玉素 |硼素 |炭素|窒素|養素|弗素 | 霓虹素 |
 |鹼素|苦土素|軽銀|硅素|燐素|硫黄|塩素 | 惰素 |
-|灰素|石灰素 |姫金 |   | 砒素 |   |    |     |
+|灰素|石灰素 | |   | 砒素 |   |    |     |
 
 * No. 21 Scandium = 康金
 * No. 22 Titanium = 巨金
-* No. 23 Chromium = 色金
+* No. 23 Vanadium = 姫金
+* No. 24 Chromium = 色金
+* No. 25 Manganese = 孟金
 * No. 26 Iron = [[鉄]]
+* No. 27 Cobalt = 鬼金
+* No. 28 Nickel = 
 * No. 29 Copper = [[銅]]
 * No. 30 Zinc = [[亜鉛]]
 * No. 47 Silver = [[銀]]
