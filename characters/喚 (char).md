@@ -12,16 +12,16 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: uɑn
-stroke_count: "12"
+stroke_count: 12
 radical: 口
 skip_number: 1-3-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - summon
   - invite
 羅馬字: hwan
-韓文:  환
+韓文: 환
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -31,7 +31,7 @@ graphemic_classification: 奐
 stand_in: 喚
 aliases:
   - 唤
-注音: ㄏㄨㄚㄎ
+注音: ㄏˇㄚㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

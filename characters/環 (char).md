@@ -15,13 +15,13 @@ middle_chinese_final: ɣuan
 stroke_count: 17
 radical: 玉
 skip_number: 1-4-13
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - ring
   - circle
 羅馬字: hwan
-韓文:  환
+韓文: 환
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -31,7 +31,7 @@ graphemic_classification: 瞏
 stand_in: 環
 aliases:
   - 环
-注音: ㄏㄨㄚㄎ
+注音: ㄏˇㄚㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

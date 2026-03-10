@@ -21,7 +21,7 @@ pos: ""
 english:
   - -ification
 羅馬字: hwa
-韓文:  화
+韓文: 화
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -30,7 +30,7 @@ mc_id: 367
 graphemic_classification: 匕
 stand_in: 化
 aliases:
-注音: ㄏㄨㄚ
+注音: ㄏˇㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

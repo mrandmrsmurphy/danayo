@@ -33,7 +33,7 @@ graphemic_classification: 會意
 stand_in: 亘
 aliases:
   - 咺
-注音: ㄏˇㄚㄎ
+注音: ㄏˇㄚㄋ
 ---
 
 ```meta-bind-embed

@@ -32,7 +32,7 @@ graphemic_classification: 象形
 stand_in: 火
 aliases:
   - 灬
-注音: ㄏㄨㄚ
+注音: ㄏˇㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
