@@ -28,7 +28,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 7
 mc_id: 27
-graphemic_classification: 象形
+graphemic_classification: 指事
 stand_in: 二
 aliases:
   - 弍
@@ -42,8 +42,8 @@ date-last-perfect: 2026-01-30
 [[nav/char_info]]
 ```
 ### Notes
-- It is the only [[SKIP-2-1-1]] ([[Stroke 02]]), [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Grade 1]]
-- Our [[Grade 1]], [[HSK Beginner]], Japanese [[Jōyō - Kyōiku|Grade 1]], [[Korean MS]]
+- 指事: two parallel strokes. Compare with 一, one stroke meaning one, 三, three strokes meaning three, and 亖 (sǐ), four strokes meaning four. Duplication of 一 (“one”).
+- It is the only [SKIP-2-1-1](lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md)), [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 ## Words
 - [[二]] - two
 - [[二十]] - twenty

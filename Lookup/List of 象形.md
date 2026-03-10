@@ -1,3 +1,9 @@
+## List
+1. [九 (char)](characters/九%20(char).md)
+2. [勿 (char)](characters/勿%20(char).md)
+3. [長 (char)](characters/長%20(char).md)
+
+
 ## Base check
 ```base
 filters:
@@ -18,6 +24,8 @@ views:
       - date-last-perfect
       - grade_level
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: formula.spot
         direction: DESC
       - property: joyo_level

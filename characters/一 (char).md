@@ -21,7 +21,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 1
 mc_id: 28
-graphemic_classification: 象形
+graphemic_classification: 指事
 stand_in: 一
 date-last-perfect: 2026-01-23
 注音: ㄧㄊ
@@ -41,10 +41,10 @@ date-last-perfect: 2026-01-23
 - whole, wholeness, totality, all at once, ever since
 
 ### Usage Notes 
-* For anti-forgery purposes, use [[壱]]
-
-<ruby>一<rt>읻</rt></ruby> is probably the first character most people learn.  It is the easiest: [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Grade 1]].   It is [[SKIP-4-1-4]].  
-It is the first radical in the Kangxi system (see [[Radical 001]] for more details).  Dan'a'yo has sixteen other characters under that heading, though none of them are derived from this one.  <ruby>[[戌]]<rt>숟</rt></ruby> and <ruby>[[乞 (char)]]<rt>킫</rt></ruby> are perhaps the only characters visually and phonetically derived from it.  As a <ruby>象形<rt>샹헝</rt></ruby>/pictogram, it is not based on any other character.  
+- For anti-forgery purposes, use [[壱]]
+- [[List of 指事]]: a horizontal stroke, indicating the number “one”.
+<ruby>一<rt>읻</rt></ruby> is probably the first character most people learn.  It is the easiest: [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md).   It is [SKIP-4-1-4](lookup/SKIP/SKIP-4/SKIP-4-1-4.md).  
+It is the first radical in the Kangxi system (see [Radical 001](lookup/Radicals/Radical%20001.md) for more details).  Dan'a'yo has sixteen other characters under that heading, though none of them are derived from this one.  <ruby>[[戌]]<rt>숟</rt></ruby> and <ruby>[[乞 (char)]]<rt>킫</rt></ruby> are perhaps the only characters visually and phonetically derived from it.  As a <ruby>象形<rt>샹헝</rt></ruby>/pictogram, it is not based on any other character.  
 In compounds, it appears in many, many words.  To disambiguate various numbers, it is sometimes put in front of 溝, 兆, 億, 万, 千, 百, 十, or 半.
 
 * <ruby>[[一月]]<rt>읻웓</rt></ruby> - January

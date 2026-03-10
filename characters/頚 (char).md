@@ -31,8 +31,9 @@ aliases:
   - 頸
 注音: ㄍㄧㄥ
 ---
+>[!tip] This is about the character.
+>For the word, see [頚](words/頚.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

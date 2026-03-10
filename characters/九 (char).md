@@ -41,7 +41,7 @@ date-last-perfect: 2026-02-20
 ## Notes
 - 乙 + 1 = [SKIP-4-2-4](SKIP-4-2-4) ([[Stroke 02]])
 - [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Korean MS]], [[Grade 1]]
-- Pictogram ([[lookup/象形xxx.base]]) – a stylized hand, with bent wrist/forearm (hence the hook stroke at lower right). Earlier forms resemble 手 (shǒu), 寸 (cùn). The original meaning of the glyph was “elbow”, which is now written [[肘 (char)]] (OC \*tkuʔ).  After the meaning “elbow” was forgotten, 九 was taken to symbolize a fist tightening to bump up against something; thus, there is a metaphorical bumping up of nine against ten, which is the last number when counting on one's fingers.
+- [List of 象形](lookup/List%20of%20象形.md): A stylized hand, with bent wrist/forearm (hence the hook stroke at lower right). Earlier forms resemble 手 (shǒu), 寸 (cùn). The original meaning of the glyph was “elbow”, which is now written [[肘 (char)]] (OC \*tkuʔ).  After the meaning “elbow” was forgotten, 九 was taken to symbolize a fist tightening to bump up against something; thus, there is a metaphorical bumping up of nine against ten, which is the last number when counting on one's fingers.
 - Descendant: 
 	- [[鳩]] "pigeon"
 	- [[究]] "investigate"

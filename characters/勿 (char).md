@@ -40,4 +40,4 @@ aliases:
 ```
 ## Notes
 - more emphatic than [[別]]
-- [[lookup/象形xxx.base]]
+- [List of 象形](lookup/List%20of%20象形.md): blood on a knife; the original character of 刎 (OC \*mɯnʔ, “to cut”). Later jiajie (假借) for 勿 (OC \*mɯd, “do not”) since the time of the oracle bone script.

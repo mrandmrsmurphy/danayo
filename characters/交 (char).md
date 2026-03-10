@@ -38,5 +38,6 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Derived characters
+	- [絞](characters/絞.md)
