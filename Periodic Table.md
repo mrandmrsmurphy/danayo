@@ -18,3 +18,5 @@
 * No. 80 Mercury = <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 * No. 82 Lead = [[鉛]]
 * No. 92 Uranium = [[宙素]]
+* No. 93 Neptunium = [[海素]]
+* No. 94 Plutonium = [[冥素]]
