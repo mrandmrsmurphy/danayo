@@ -38,5 +38,6 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-
+## Words
 - <ruby>[実現](/words/実現.md)<rt>ㄙㄧㄊㄏ˙ㄝㄋ</rt></ruby> - implement
+- <ruby>[現在](/words/現在.md)<rt>ㄏ˙ㄝㄋㄐㄚ˙</rt></ruby> - present

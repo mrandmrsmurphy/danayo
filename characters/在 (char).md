@@ -34,5 +34,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[現在](/words/現在.md)<rt>ㄏ˙ㄝㄋㄐㄚ˙</rt></ruby> - present, now
