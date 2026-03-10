@@ -20,7 +20,7 @@ pos: ""
 english:
   - broad
   - wide
-羅馬字: kwat
+羅馬字: kwad
 韓文: 쾉
 joyo_level: 表外字
 hsk_level: ""
