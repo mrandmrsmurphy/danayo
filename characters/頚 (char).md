@@ -29,6 +29,7 @@ graphemic_classification: 巠
 stand_in: 頚
 aliases:
   - 頸
+  - 颈
 注音: ㄍㄧㄥ
 ---
 >[!tip] This is about the character.
