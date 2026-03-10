@@ -48,7 +48,7 @@ date-last-perfect: 2026-03-01
 ```
 
 # Notes
-- Pictogram ([[象形.base]]) – an old man with long hair; an ancient variant still used is 镸 (e.g., ⾽ and 鬓).  Compare 彡 and the top component of 老 and its variant 考.
+- Pictogram ([[lookup/象形xxx.base]]) – an old man with long hair; an ancient variant still used is 镸 (e.g., ⾽ and 鬓).  Compare 彡 and the top component of 老 and its variant 考.
 - While this is under [[SKIP-2-5-3]] ([[Stroke 08]]), there are no characters that look like those parts.
 - [[Jōyō - Kyōiku]], [[Korean MS]], [[HSK Beginner]], [[Grade 1]]
 - Pronounced [[ㄐㄚㄥ]], a very common syllable.

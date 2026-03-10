@@ -40,4 +40,4 @@ aliases:
 ```
 ## Notes
 - more emphatic than [[別]]
-- [[象形.base]]
+- [[lookup/象形xxx.base]]

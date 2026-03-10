@@ -15,7 +15,7 @@ middle_chinese_final: ʉi
 stroke_count: 9
 radical: 肉
 skip_number: 2-5-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - stomach

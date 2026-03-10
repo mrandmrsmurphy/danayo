@@ -13,11 +13,17 @@ views:
       - 注音
       - skip_number
       - stroke_count
+      - radical
+      - graphemic_classification
     sort:
       - property: danayo_id
         direction: ASC
     columnSize:
       file.name: 156
+      note.danayo_id: 50
+      note.english: 146
+      note.grade_level: 44
+      note.skip_number: 68
   - type: cards
     name: View
     order:

@@ -16,7 +16,7 @@ middle_chinese_final: ɣiɪ
 stroke_count: 9
 radical: 目
 skip_number: 3-4-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - eyebrows
