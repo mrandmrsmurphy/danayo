@@ -21,7 +21,7 @@ pos: ""
 english:
   - suffer from
 羅馬字: hwam
-韓文:  홤
+韓文: 홤
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
@@ -30,7 +30,7 @@ mc_id: 446
 graphemic_classification: 串
 stand_in: 患
 aliases:
-注音: ㄏㄨㄚㄇ
+注音: ㄏˇㄚㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

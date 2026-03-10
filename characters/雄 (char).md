@@ -20,7 +20,7 @@ pos: ""
 english:
   - manly
   - male
-羅馬字: ung
+羅馬字: "'ung"
 韓文: 웅
 joyo_level: ""
 hsk_level: ""

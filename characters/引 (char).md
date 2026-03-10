@@ -20,7 +20,7 @@ pos: ""
 english:
   - pull
   - tug
-羅馬字: in
+羅馬字: "'in"
 韓文: 인
 joyo_level: ""
 hsk_level: ""

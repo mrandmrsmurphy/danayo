@@ -21,7 +21,7 @@ grade_level: "1"
 pos: ""
 english:
   - have
-羅馬字: yu
+羅馬字: "'yu"
 韓文: 유
 joyo_level: "3"
 hsk_level: "1"

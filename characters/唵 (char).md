@@ -21,7 +21,7 @@ pos: ""
 english:
   - Ohm
   - Aum
-羅馬字: om
+羅馬字: "'om"
 韓文: 옴
 joyo_level: ""
 hsk_level: ""

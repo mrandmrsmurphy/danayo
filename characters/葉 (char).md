@@ -20,7 +20,7 @@ grade_level: 2
 pos: ""
 english:
   - leaf
-羅馬字: yob
+羅馬字: "'yob"
 韓文: 욥
 joyo_level: "3"
 hsk_level: ""

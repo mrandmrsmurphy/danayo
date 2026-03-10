@@ -21,7 +21,7 @@ english:
   - plump
   - voluptuous
   - beautiful
-羅馬字: yem
+羅馬字: "'yem"
 韓文: 염
 joyo_level: ""
 hsk_level: ""

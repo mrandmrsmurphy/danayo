@@ -21,7 +21,7 @@ grade_level: "3"
 pos: ""
 english:
   - Yin
-羅馬字: im
+羅馬字: "'im"
 韓文: 임
 joyo_level: ""
 hsk_level: ""

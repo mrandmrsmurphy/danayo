@@ -21,7 +21,7 @@ pos: ""
 english:
   - profession
   - business
-羅馬字: eb
+羅馬字: "'eb"
 韓文: 업
 joyo_level: "3"
 hsk_level: ""

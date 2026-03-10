@@ -20,7 +20,7 @@ grade_level: "2"
 pos: ""
 english:
   - oil
-羅馬字: yu
+羅馬字: "'yu"
 韓文: 유
 joyo_level: "3"
 hsk_level: ""

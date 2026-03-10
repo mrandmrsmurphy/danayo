@@ -21,7 +21,7 @@ english:
   - interchange
   - exchange
 羅馬字: hwam
-韓文:  홤
+韓文: 홤
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -31,7 +31,7 @@ graphemic_classification: 奐
 stand_in: 換
 aliases:
   - 换
-注音: ㄏㄨㄚㄇ
+注音: ㄏˇㄚㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

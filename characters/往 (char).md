@@ -19,7 +19,7 @@ grade_level: 2
 pos: ""
 english:
   - to go towards
-羅馬字: wang
+羅馬字: "'wang"
 韓文: 왕
 joyo_level: "5"
 hsk_level: ""

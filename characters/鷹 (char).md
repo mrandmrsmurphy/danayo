@@ -20,7 +20,7 @@ grade_level: 名
 pos: ""
 english:
   - hawk
-羅馬字: ing
+羅馬字: "'ing"
 韓文: 잉
 joyo_level: 高等
 hsk_level: ""

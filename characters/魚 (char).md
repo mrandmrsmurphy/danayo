@@ -20,7 +20,7 @@ grade_level: "1"
 pos: ""
 english:
   - fish
-羅馬字: yo
+羅馬字: "'yo"
 韓文: 요
 joyo_level: "2"
 hsk_level: ""

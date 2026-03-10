@@ -19,8 +19,8 @@ grade_level: "1"
 pos: ""
 english:
   - cloud
-羅馬字: un
-韓文:  운
+羅馬字: "'unsu"
+韓文: 운
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中

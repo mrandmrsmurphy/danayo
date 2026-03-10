@@ -21,7 +21,7 @@ pos: ""
 english:
   - gush
   - rush up
-羅馬字: yong
+羅馬字: "'yong"
 韓文: 용
 joyo_level: 高等
 hsk_level: ""

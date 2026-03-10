@@ -22,7 +22,7 @@ english:
   - mark off
   - delimit
 羅馬字: hwag
-韓文:  확
+韓文: 확
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -32,7 +32,7 @@ graphemic_classification: 畫
 stand_in: 劃
 aliases:
   - 划
-注音: ㄏㄨㄚㄎ
+注音: ㄏˇㄚㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

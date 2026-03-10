@@ -21,7 +21,7 @@ pos: ""
 english:
   - rely on
   - depend upon
-羅馬字: wi
+羅馬字: "'wig"
 韓文: 위
 joyo_level: ""
 hsk_level: ""

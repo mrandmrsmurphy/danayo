@@ -20,7 +20,7 @@ grade_level: 4
 pos: ""
 english:
   - only
-羅馬字: "'yeidi"
+羅馬字: "'yei"
 韓文: 예
 joyo_level: 高等
 hsk_level: ""

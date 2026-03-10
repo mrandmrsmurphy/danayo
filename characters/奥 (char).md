@@ -18,7 +18,7 @@ grade_level: "6"
 pos: ""
 english:
   - deep
-羅馬字: ug
+羅馬字: "'ug"
 韓文: 욱
 joyo_level: 高等
 hsk_level: ""

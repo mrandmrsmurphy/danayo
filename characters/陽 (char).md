@@ -19,7 +19,7 @@ grade_level: 3
 pos: ""
 english:
   - shine
-羅馬字: "'yangbu"
+羅馬字: "'yang"
 韓文: 양
 joyo_level: "3"
 hsk_level: ""

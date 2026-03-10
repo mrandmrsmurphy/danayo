@@ -22,7 +22,7 @@ english:
   - appearance
   - form
   - figure
-羅馬字: yong
+羅馬字: "'yong"
 韓文: 용
 joyo_level: "5"
 hsk_level: ""

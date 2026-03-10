@@ -21,7 +21,7 @@ grade_level: "2"
 pos: ""
 english:
   - baby
-羅馬字: ei
+羅馬字: "'ei"
 韓文: 에
 joyo_level: "4"
 hsk_level: "1"

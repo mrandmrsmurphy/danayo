@@ -19,7 +19,7 @@ grade_level: 先進
 pos: ""
 english:
   - yoke
-羅馬字: ag
+羅馬字: "'ag"
 韓文: 악
 joyo_level: ""
 hsk_level: ""

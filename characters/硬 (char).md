@@ -21,7 +21,7 @@ pos: ""
 english:
   - hard
   - firm
-羅馬字: ang
+羅馬字: "'ang"
 韓文: 앙
 joyo_level: ""
 hsk_level: ""

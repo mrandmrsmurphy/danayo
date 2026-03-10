@@ -19,7 +19,7 @@ grade_level: 先進
 pos: ""
 english:
   - hey
-羅馬字: ei
+羅馬字: "'ei"
 韓文: 에
 joyo_level: ""
 hsk_level: ""

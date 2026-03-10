@@ -19,7 +19,7 @@ grade_level: "3"
 pos: ""
 english:
   - or again
-羅馬字: uu
+羅馬字: "'uu"
 韓文: 웃
 joyo_level: 高等
 hsk_level: ""

@@ -19,7 +19,7 @@ grade_level: 6
 pos: ""
 english:
   - cherry blossom
-羅馬字: ang
+羅馬字: "'ang"
 韓文: 앙
 joyo_level: "5"
 hsk_level: ""

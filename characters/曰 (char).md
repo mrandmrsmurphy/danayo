@@ -19,7 +19,7 @@ grade_level: 先進
 pos: ""
 english:
   - saith
-羅馬字: wed
+羅馬字: "'wed"
 韓文: 웓
 joyo_level: ""
 hsk_level: ""

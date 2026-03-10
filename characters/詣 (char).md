@@ -21,7 +21,7 @@ pos: ""
 english:
   - visit
   - reach
-羅馬字: ei
+羅馬字: "'ei"
 韓文: 에
 joyo_level: 表外字
 hsk_level: ""

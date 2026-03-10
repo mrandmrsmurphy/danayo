@@ -20,7 +20,7 @@ pos: ""
 english:
   - arm
   - wrist
-羅馬字: wan
+羅馬字: "'wan"
 韓文: 완
 joyo_level: 高等
 hsk_level: ""

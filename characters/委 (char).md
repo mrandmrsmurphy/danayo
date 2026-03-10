@@ -21,7 +21,7 @@ english:
   - appoint
   - send
   - commission
-羅馬字: wei
+羅馬字: "'wei"
 韓文: 웨
 joyo_level: "3"
 hsk_level: ""

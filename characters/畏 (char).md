@@ -23,7 +23,7 @@ english:
   - reverence
   - awe
   - phobia
-羅馬字: oi
+羅馬字: "'oi"
 韓文: 외
 joyo_level: ""
 hsk_level: ""

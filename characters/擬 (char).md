@@ -20,7 +20,7 @@ pos: ""
 english:
   - intend
   - plan
-羅馬字: i
+羅馬字: "'i"
 韓文: 이
 joyo_level: 高等
 hsk_level: ""

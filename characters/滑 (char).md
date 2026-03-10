@@ -21,7 +21,7 @@ pos: ""
 english:
   - slippery
 羅馬字: hwad
-韓文:  홛
+韓文: 홛
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -31,7 +31,7 @@ graphemic_classification: 骨
 stand_in: 滑
 aliases:
   - 猾
-注音: ㄏㄨㄚㄊ
+注音: ㄏˇㄚㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -19,7 +19,7 @@ grade_level: 3
 pos: ""
 english:
   - tile
-羅馬字: wa
+羅馬字: "'wa"
 韓文: 와
 joyo_level: ""
 hsk_level: ""

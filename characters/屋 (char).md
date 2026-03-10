@@ -19,7 +19,7 @@ grade_level: 2
 pos: ""
 english:
   - roof
-羅馬字: og
+羅馬字: "'og"
 韓文: 옥
 joyo_level: "3"
 hsk_level: ""

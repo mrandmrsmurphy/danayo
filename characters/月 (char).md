@@ -22,7 +22,7 @@ pos: 名詞
 english:
   - month
   - moon
-羅馬字: wen
+羅馬字: "'wen"
 韓文: 웓
 joyo_level: "1"
 hsk_level: "1"

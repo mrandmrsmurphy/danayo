@@ -19,7 +19,7 @@ grade_level: 6
 pos: ""
 english:
   - concave
-羅馬字: au
+羅馬字: "'au"
 韓文: 앗
 joyo_level: 高等
 hsk_level: ""

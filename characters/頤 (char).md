@@ -19,7 +19,7 @@ grade_level: 名
 pos: ""
 english:
   - chin
-羅馬字: i
+羅馬字: "'i"
 韓文: 이
 joyo_level: ""
 hsk_level: ""

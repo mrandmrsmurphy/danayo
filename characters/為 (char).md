@@ -18,7 +18,7 @@ grade_level: "3"
 pos: ""
 english:
   - namely
-羅馬字: wen
+羅馬字: "'wen"
 韓文: 원
 joyo_level: 高等
 hsk_level: ""

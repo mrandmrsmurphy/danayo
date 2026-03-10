@@ -21,7 +21,7 @@ english:
   - melt
   - blend
   - harmonize
-羅馬字: yung
+羅馬字: "'yung"
 韓文: 융
 joyo_level: ""
 hsk_level: ""

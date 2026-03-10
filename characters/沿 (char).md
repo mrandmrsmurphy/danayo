@@ -20,7 +20,7 @@ pos: ""
 english:
   - edge
   - side
-羅馬字: wem
+羅馬字: "'wem"
 韓文: 웜
 joyo_level: "6"
 hsk_level: ""

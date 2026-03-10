@@ -25,7 +25,7 @@ english:
   - traitor
   - opposite
   - reverse
-羅馬字: eg
+羅馬字: "'eg"
 韓文: 억
 joyo_level: "5"
 hsk_level: "4"

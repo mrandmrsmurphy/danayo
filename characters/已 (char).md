@@ -20,7 +20,7 @@ grade_level: "1"
 pos: 修飾語
 english:
   - -ed
-羅馬字: i
+羅馬字: "'i"
 韓文: 이
 joyo_level: 日本人名用漢字
 hsk_level: "2"

@@ -19,7 +19,7 @@ grade_level: 6
 pos: ""
 english:
   - cliff
-羅馬字: ai
+羅馬字: "'ai"
 韓文: 애
 joyo_level: 表外字
 hsk_level: ""

@@ -19,7 +19,7 @@ grade_level: 5
 pos: ""
 english:
   - mortgage
-羅馬字: ab
+羅馬字: "'ab"
 韓文: 압
 joyo_level: 高等
 hsk_level: ""

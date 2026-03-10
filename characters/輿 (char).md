@@ -19,7 +19,7 @@ grade_level: 先進
 pos: ""
 english:
   - palanquin
-羅馬字: yo
+羅馬字: "'yo"
 韓文: 요
 joyo_level: 日本人名用漢字
 hsk_level: ""

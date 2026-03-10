@@ -20,7 +20,7 @@ grade_level: 先進
 pos: ""
 english:
   - therefore
-羅馬字: en
+羅馬字: "'en"
 韓文: 언
 joyo_level: ""
 hsk_level: ""

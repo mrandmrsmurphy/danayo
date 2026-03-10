@@ -21,7 +21,7 @@ grade_level: 先進
 pos: ""
 english:
   - wow
-羅馬字: wau
+羅馬字: "'wau"
 韓文: 왓
 joyo_level: 表外字
 hsk_level: ""

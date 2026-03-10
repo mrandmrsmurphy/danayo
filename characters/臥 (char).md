@@ -20,7 +20,7 @@ pos: ""
 english:
   - lie down
   - crouch
-羅馬字: wa
+羅馬字: "'wa"
 韓文: 와
 joyo_level: 日本人名用漢字
 hsk_level: ""

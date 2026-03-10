@@ -21,7 +21,7 @@ grade_level: "3"
 pos: ""
 english:
   - say
-羅馬字: en
+羅馬字: "'en"
 韓文: 언
 joyo_level: "2"
 hsk_level: ""

@@ -22,7 +22,7 @@ grade_level: 名
 pos: ""
 english:
   - alas (ancient)
-羅馬字: ai
+羅馬字: "'ai"
 韓文: 애
 joyo_level: ""
 hsk_level: ""

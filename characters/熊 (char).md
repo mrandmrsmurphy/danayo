@@ -19,7 +19,7 @@ grade_level: 名
 pos: ""
 english:
   - bear
-羅馬字: ung
+羅馬字: "'ung"
 韓文: 웅
 joyo_level: ""
 hsk_level: ""

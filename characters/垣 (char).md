@@ -20,7 +20,7 @@ pos: ""
 english:
   - low wall
   - enclosure
-羅馬字: on
+羅馬字: "'on"
 韓文: 온
 joyo_level: 高等
 hsk_level: ""

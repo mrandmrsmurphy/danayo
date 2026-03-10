@@ -19,7 +19,7 @@ grade_level: 4
 pos: ""
 english:
   - salt
-羅馬字: yem
+羅馬字: "'yem"
 韓文: 염
 joyo_level: ""
 hsk_level: ""

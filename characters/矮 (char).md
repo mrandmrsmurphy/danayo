@@ -20,7 +20,7 @@ grade_level: 6
 pos: ""
 english:
   - short (person)
-羅馬字: wai
+羅馬字: "'wai"
 韓文: 왜
 joyo_level: 表外字
 hsk_level: ""

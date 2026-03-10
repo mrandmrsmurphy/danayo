@@ -20,7 +20,7 @@ pos: ""
 english:
   - bowl
   - dish
-羅馬字: wan
+羅馬字: "'wan"
 韓文: 완
 joyo_level: 日本人名用漢字
 hsk_level: ""

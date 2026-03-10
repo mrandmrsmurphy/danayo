@@ -21,7 +21,7 @@ english:
   - quiet
   - secluded
   - dark
-羅馬字: yuu
+羅馬字: "'yuu"
 韓文: 윳
 joyo_level: 高等
 hsk_level: ""

@@ -19,7 +19,7 @@ grade_level: "3"
 pos: ""
 english:
   - drink
-羅馬字: um
+羅馬字: "'um"
 韓文: 움
 joyo_level: "3"
 hsk_level: ""

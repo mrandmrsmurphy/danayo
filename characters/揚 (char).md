@@ -20,7 +20,7 @@ pos: ""
 english:
   - scatter
   - hurl
-羅馬字: "'yangbu"
+羅馬字: "'yang"
 韓文: 양
 joyo_level: 高等
 hsk_level: ""

@@ -20,8 +20,8 @@ pos: ""
 english:
   - nuture
   - educate
-羅馬字: yug
-韓文:  육
+羅馬字: "'yug"
+韓文: 육
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

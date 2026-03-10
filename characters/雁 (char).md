@@ -19,7 +19,7 @@ grade_level: 名
 pos: ""
 english:
   - wild goose
-羅馬字: an
+羅馬字: "'an"
 韓文: 안
 joyo_level: 日本人名用漢字
 hsk_level: ""

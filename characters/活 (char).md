@@ -30,7 +30,7 @@ graphemic_classification: 舌
 stand_in: 活
 aliases:
   - 𣴠
-注音: ㄏㄨㄚㄊ
+注音: ㄏˇㄚㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

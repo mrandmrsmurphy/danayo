@@ -22,7 +22,7 @@ pos: 名詞
 english:
   - bank
   - shore
-羅馬字: an
+羅馬字: "'an"
 韓文: 안
 joyo_level: "3"
 hsk_level: "2"

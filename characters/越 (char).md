@@ -21,7 +21,7 @@ grade_level: 5
 pos: ""
 english:
   - exceed
-羅馬字: wed
+羅馬字: "'wed"
 韓文: 웓
 joyo_level: ""
 hsk_level: ""

@@ -19,7 +19,7 @@ grade_level: 先進
 pos: ""
 english:
   - obstruct
-羅馬字: ong
+羅馬字: "'ong"
 韓文: 옹
 joyo_level: ""
 hsk_level: ""

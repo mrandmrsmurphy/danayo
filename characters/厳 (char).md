@@ -23,7 +23,7 @@ english:
   - rigorous
   - rigid
   - stern
-羅馬字: yom
+羅馬字: "'yom"
 韓文: 욤
 joyo_level: "6"
 hsk_level: ""

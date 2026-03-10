@@ -20,7 +20,7 @@ pos: ""
 english:
   - "false"
   - artificial
-羅馬字: wei
+羅馬字: "'wei"
 韓文: 웨
 joyo_level: 高等
 hsk_level: ""

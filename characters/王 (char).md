@@ -19,7 +19,7 @@ grade_level: "1"
 pos: ""
 english:
   - king
-羅馬字: wang
+羅馬字: "'wang"
 韓文: 왕
 joyo_level: "1"
 hsk_level: ""

@@ -19,7 +19,7 @@ grade_level: 6
 pos: ""
 english:
   - officer
-羅馬字: ud
+羅馬字: "'ud"
 韓文: 욷
 joyo_level: ""
 hsk_level: ""

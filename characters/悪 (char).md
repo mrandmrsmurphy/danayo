@@ -20,7 +20,7 @@ pos: ""
 english:
   - bad
   - evil
-羅馬字: ag
+羅馬字: "'ag"
 韓文: 악
 joyo_level: "3"
 hsk_level: ""
