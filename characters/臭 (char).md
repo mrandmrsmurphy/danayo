@@ -16,7 +16,7 @@ middle_chinese_final: ɨu
 stroke_count: 9
 radical: 自
 skip_number: 2-6-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - stinky
