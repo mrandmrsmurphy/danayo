@@ -7,7 +7,8 @@
 |鹼素|苦土素|軽銀|硅素|燐素|硫黄|塩素 | 惰素 |
 |灰素|石灰素 |   |   | 砒素 |   |    |     |
 
-* No. 22 Titanium = 巨素
+* No. 21 Scandium = 康金
+* No. 22 Titanium = 巨金
 * No. 26 Iron = [[鉄]]
 * No. 29 Copper = [[銅]]
 * No. 30 Zinc = [[亜鉛]]
@@ -17,6 +18,6 @@
 * No. 79 Gold = <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby>
 * No. 80 Mercury = <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 * No. 82 Lead = [[鉛]]
-* No. 92 Uranium = [[宙素]]
-* No. 93 Neptunium = [[海素]]
-* No. 94 Plutonium = [[冥素]]
+* No. 92 Uranium = [[宙金]]
+* No. 93 Neptunium = [[海金]]
+* No. 94 Plutonium = [[冥金]]
