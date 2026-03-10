@@ -3,19 +3,18 @@ views:
     name: Table
     order:
       - file.name
-      - date-last-perfect
       - size
       - 注音
       - 羅馬字
       - 韓文
       - file.mtime
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: file.name
         direction: ASC
       - property: size
         direction: DESC
-      - property: file.mtime
-        direction: ASC
       - property: date-last-perfect
         direction: DESC
       - property: 羅馬字
@@ -27,6 +26,8 @@ views:
       - property: alias
         direction: ASC
     columnSize:
+      file.name: 176
+      note.date-last-perfect: 123
       note.注音: 132
       note.羅馬字: 160
       note.韓文: 135
