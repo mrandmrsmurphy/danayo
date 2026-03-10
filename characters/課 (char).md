@@ -31,7 +31,7 @@ graphemic_classification: 果
 stand_in: 課
 aliases:
   - 课
-注音: ㄎ˙ㄚㄇ
+注音: ㄎˇㄚㄇ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
