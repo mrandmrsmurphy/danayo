@@ -756,7 +756,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1779. [[怒]] : angry
 1780. [[到]] : arrival
 1781. [[逃]] : escape
-1782. [[倒]] : overthrow
+1782. [倒 (char)](characters/倒%20(char).md) : overthrow
 1783. [[凍]] : frozen 
 1784. [[唐]] : T'ang
 1785. [[桃]] : peach tree
