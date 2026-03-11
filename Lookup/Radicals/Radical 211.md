@@ -1,31 +1,32 @@
 ---
 size: 2
+radical: 歯
+date-last-perfect: 2026-03-11
 ---
 
 > [[Radicals]]
-
-**Radical 齒** is perhaps a picture of a mouthful of teeth?
+> The (simplified) radical itself is ironically not found here.
 
 ## Strokes plus 
 ### 0+ strokes
 - 齒--> 歯
 - 齿-->歯 
-- <ruby>[[歯 (char)]]<rt>치</rt></ruby> - tooth
 
 ### +4 strokes
 * 齖-->牙
 
 ### +5 strokes
+1. <ruby>[齢](characters/齢.md)<rt>ㄌㄝㄥ</rt></ruby> - age
 - 齟 --> [[𪗱]]
 - 齡--> 齢
-- <ruby>[[齢]]<rt>렁</rt></ruby> - age
 - 龄-->齢
 
 ### +6 strokes
-- <ruby>[[齦]]<rt>칸</rt></ruby>
+2. <ruby>[齦](characters/齦.md)<rt>ㄎㄚㄋ</rt></ruby> - gums
 - 齧 --> 咬
 - 齩-->咬
 - 龈-->齦
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"

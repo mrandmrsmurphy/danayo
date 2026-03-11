@@ -1,30 +1,32 @@
 ---
 size: 3
+radical: 入
+date-last-perfect: 2026-03-11
 ---
 > [[Radicals]]
 
-## Stroke
-- <ruby>[[入 (char)]]<rt>ㄋㄧㄆ</rt></ruby>
+## By Stroke
+1. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - to enter
 ### +1
 - 𠓛–>集
 ### +2
 - 內 --> 内
 ### +3
 -  㒰–>全
-- ~~㒱~~
+* Forbidden: 㒱
 ### +4 
-- <ruby>[[全 (char)]]<rt>ㄐˇㄝㄋ</rt></ruby>
+2. <ruby>[全 (char)](characters/全%20(char).md)<rt>ㄐˇㄝㄋ</rt></ruby> - whole
 - 㒲–>財
 ### +5
 - 㒳–>両
 ### +6
 - 兩–>両
 ### +7
-- <ruby>[[兪]]<rt>˙ㄨ</rt></ruby>
+3. <ruby>[兪](characters/兪.md)<rt>˙ㄨㄇ</rt></ruby> - "emperor's consent"
 
 # Data search
 ```dataview
-TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+TABLE file.link AS "Character", radical AS "Radical"
 FROM "characters"
 WHERE radical = "入"
 SORT file.name ASC
