@@ -36,7 +36,7 @@ aliases:
 注音: ㄑㄛ
 ---
 >[!tip] This is about the character.
->For the word, see [[処]].
+>For the word, see [[words/処]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```

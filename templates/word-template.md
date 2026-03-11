@@ -1,18 +1,35 @@
+<%*
+// 1. Gather all inputs
+const char = await tp.system.prompt("Constituent characters");
+const romaji = await tp.system.prompt("羅馬字");
+const hanmun = await tp.system.prompt("韓文");
+const mandarin = await tp.system.prompt("Mandarin pinyin");
+const cantonese = await tp.system.prompt("Cantonese jyutping");
+const korean = await tp.system.prompt("Korean readings");
+const japanese = await tp.system.prompt("Japanese reading");
+const vietnamese = await tp.system.prompt("Vietnamese reading");
+const pos = await tp.system.prompt("Part of speech");
+const pos_jp = await tp.system.prompt("品詞");
+const english = await tp.system.prompt("English meanings");
+const bopomofo = await tp.system.prompt("Bopomofo spelling");
+
+// 2. Build the page
+tR += `---
+characters: ${char}
+羅馬字: ${romaji}
+韓文: ${hanmun}
+mandarin: ${mandarin}
+cantonese: ${cantonese}
+korean: ${korean}
+japanese: ${japanese}
+vietnamese: ${vietnamese}
+pos: ${pos}
+品詞: ${pos_jp}
+english: ${english}
+注音: ${bopomofo}
 ---
-characters: <% tp.system.prompt('Constituent characters comma-separated') %>
-羅馬字: <% tp.system.prompt('羅馬字') %>
-韓文: <% tp.system.prompt('韓文') %>
-mandarin: <% tp.system.prompt('Mandarin pronunciation pinyin') %>
-cantonese: <% tp.system.prompt('Cantonese pronunciation jyutping') %>
-korean: <% tp.system.prompt('Korean readings') %>
-japanese: <% tp.system.prompt('Japanese reading') %>
-vietnamese: <% tp.system.prompt('Vietnamese reading') %>
-pos: <% tp.system.prompt('Part of speech') %>
-品詞: <% tp.system.prompt('品詞') %>
-english: <% tp.system.prompt('English meanings comma-separated') %>
-注音: <% tp.system.prompt('Bopomofo spelling') %>
----
-```meta-bind-embed
+\`\`\`meta-bind-embed
 [[nav/word_info]]
-```
-## Notes
+\`\`\`
+## Notes`
+%>
