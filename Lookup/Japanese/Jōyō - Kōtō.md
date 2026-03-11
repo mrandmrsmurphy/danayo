@@ -716,7 +716,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1739. [[椎]] : oak
 1740. [[墜]] : crash
 1741. [[塚]] : 	[[塚]] hillock
-1742. [[漬]] : pickling
+1742. [漬 (char)](characters/漬%20(char).md) : pickling
 1743. [[坪]] : two-mat area
 1744. [[爪]] : claw
 1745. [[鶴 (char)]] : crane
