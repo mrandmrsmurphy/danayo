@@ -8,7 +8,7 @@ size: 20
 > [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Characters
-争, 交 (char), 亥, 亦 (char), 企, 会 (char), 充, 全 (char), 劦, 合 (char), 年 (char), 旨, 朶, 毎 (char), 牟, 百, 缶, 而 (char), 色, 衣
+争, 交 (char), 亥, 亦 (char), 企, 会 (char), 充, 全 (char), 劦, <ruby>[合](/characters/合%20(char).md)<rt>ㄍㄛㄆ</rt></ruby>, 年 (char), 旨, 朶, 毎 (char), 牟, 百, 缶, 而 (char), 色, 衣
 
 ## Datacheck
 ```dataview

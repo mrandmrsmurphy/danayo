@@ -233,7 +233,7 @@ The following prefecture names were added in 2017:
 226. [[切]] : cut ; setsu (ki-ru)
 227. [[電]] : electricity ; den (inazuma)
 228. [[毎 (char)]] : every ; mai (goto)
-229. [[合]] : fit ; gō (a-u)
+229. [合 (char)](characters/合%20(char).md)合 : fit ; gō (a-u)
 230. [[当]] : this, hit ; tō (a-taru)
 231. [[台 (char)]] : pedestal ; dai, tai ()
 232. [[楽]] : music, pleasure ; gaku, raku (tano-shii)

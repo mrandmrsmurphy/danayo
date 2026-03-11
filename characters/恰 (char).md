@@ -39,5 +39,5 @@ aliases:
 ```
 
 # Notes
-- [[Radical 061|忄]] + [[合]] = [[SKIP-1-3-6]] ([[Stroke 09]])
-- [[Korean Name ㅎ]], [[Jinmeiyō]], HSK 3, [[Grade Advanced]]
+- [忄](Radical%20061) + [合 (char)](characters/合%20(char).md) = [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), HSK 3, [Grade Advanced](lookup/Grade%20Advanced.md)
