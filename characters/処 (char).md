@@ -8,20 +8,22 @@ korean:
 korean_native: ""
 japanese:
   - SHO
-japanese_nanori: ""
+japanese_nanori:
+  - ところ
 vietnamese:
+  - xử, xớ, xở, xứ
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: ɨʌ
 stroke_count: 5
 radical: 几
 skip_number: 3-3-2
 grade_level: "2"
-pos: ""
+pos: 代詞
 english:
   - place
 羅馬字: co
-韓文:  초
-joyo_level: ""
+韓文: 초
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 2279
@@ -33,8 +35,12 @@ aliases:
   - 處
 注音: ㄑㄛ
 ---
+>[!tip] This is about the character.
+>For the word, see [[処]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[一処](/words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby> "together"
