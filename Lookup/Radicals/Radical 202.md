@@ -1,5 +1,6 @@
 ---
 size: 2
+radical: 黍
 ---
 > [[Radicals]]
 
