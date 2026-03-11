@@ -33,8 +33,9 @@ aliases:
   - 姜
 注音: ㄍ˙ㄚㄋ
 ---
+>[!tip] This is about the character.
+>For the word, see [姜](words/姜.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

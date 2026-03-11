@@ -56,6 +56,9 @@ Descendants
 
 Words
 - <ruby>[合金](/words/合金.md)<rt>ㄎㄚㄆㄍㄧㄇ</rt></ruby> - alloy
+- <ruby>[混合](/words/混合.md)<rt>ㄏㄛㄋㄎㄚㄆ</rt></ruby> - blend
+- <ruby>[癒合](/words/癒合.md)<rt>˙ㄨㄎㄚㄆ</rt></ruby> - recover
+- <ruby>[組合](/words/組合.md)<rt>ㄐㄛㄎㄚㄆ</rt></ruby> - assemble
 
 Chengyu
 - [合漢再決](chengyu/合漢再決.md)

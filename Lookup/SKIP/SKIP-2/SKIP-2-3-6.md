@@ -30,7 +30,7 @@ skip_number: 2-3-6
 - [[品]]
 - [[宥]]
 - [[奎]]
-- [[姜]]
+- [姜](characters/姜%20(char).md)
 - No: 峇 - Hokkien character
 - [[彖]]
 - 穽 - variant of [[阱]]

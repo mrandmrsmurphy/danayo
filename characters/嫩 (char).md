@@ -14,7 +14,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: uən
-stroke_count: "14"
+stroke_count: 14
 radical: 女
 skip_number: 1-3-11
 grade_level: 先進
@@ -36,8 +36,9 @@ aliases:
   - 媆
 注音: ㄋㄛㄋ
 ---
+>[!tip] This is about the character
+>For the word, see [嫩](words/嫩.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

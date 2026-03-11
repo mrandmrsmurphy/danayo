@@ -18,7 +18,7 @@ stroke_count: 4
 radical: 大
 skip_number: 2-3-1
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - great
 羅馬字: tai
@@ -37,5 +37,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [太太](words/太太.md) - super-duper

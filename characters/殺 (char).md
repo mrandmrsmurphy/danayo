@@ -14,10 +14,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣɛt
-stroke_count: "10"
+stroke_count: 10
 radical: 殳
 skip_number: 1-6-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - kill
@@ -34,8 +34,9 @@ aliases:
   - 杀
 注音: ㄙㄚㄊ
 ---
+> [!tip] This is about the character.
+> For the word, see [殺](words/殺.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

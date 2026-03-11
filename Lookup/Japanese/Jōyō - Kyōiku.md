@@ -560,7 +560,7 @@ The following prefecture names were added in 2017:
 551. [[欠]] : ketsu	ka-keru	lack
 552. [[歴]] : reki	 –	curriculum
 553. [[残]] : zan	noko-ru	remainder
-554. [[殺]] : satsu	koro-su	kill
+554. [殺 (char)](characters/殺%20(char).md) : satsu	koro-su	kill
 555. [[毒]] : doku	 –	poison
 556. [[氏]] : shi	uji	family name
 557. [[民]] : min	tami	people
