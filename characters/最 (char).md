@@ -15,7 +15,7 @@ middle_chinese_final: uɑi
 stroke_count: 12
 radical: 曰
 skip_number: 2-4-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - most
@@ -31,8 +31,10 @@ stand_in: 最
 aliases:
 注音: ㄐˇㄝ
 ---
+>[!tip] This is a page about the character.
+>For the word, please see [最](words/最.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄍ˙ㄝㄥ](syllables/ㄍ˙ㄝㄥ.md)

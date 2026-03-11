@@ -1,6 +1,6 @@
 ---
 stroke_count: 12
-date-last-perfect:
+date-last-perfect: 2026-03-11
 skip_number: 2-4-8
 size: 8
 ---
@@ -8,20 +8,19 @@ size: 8
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-1. 歯 (char)
-2. 暑 (char)
-3. 最 (char)
-4. 普
-5. 景
-6. 晶
-7. 森
-### Naming
-8. [喬](characters/喬.md) "tall, lofty" but it's a 名専字
+1. <ruby>[歯](/characters/歯%20(char).md)<rt>ㄑㄧ</rt></ruby> "teeth" 
+2. <ruby>[暑](/characters/暑%20(char).md)<rt>ㄙ˙ㄛ</rt></ruby> "hot" 
+3. <ruby>[最](/characters/最%20(char).md)<rt>ㄐˇㄝ</rt></ruby> "most" 
+4. <ruby>[普](/characters/普.md)<rt>ㄆㄛ</rt></ruby> "universal, common" 
+5. <ruby>[景](/characters/景.md)<rt>ㄍ˙ㄝㄥ</rt></ruby> "scenery" 
+6. <ruby>[晶](/characters/晶.md)<rt>ㄐㄧㄥ</rt></ruby> "crystal" 
+7. <ruby>[森](/characters/森.md)<rt>ㄙㄨㄇ</rt></ruby> "forest" 
+8. <ruby>[喬](/characters/喬.md)<rt>ㄎ˙ㄚˇ</rt></ruby> "tall, lofty" 
 
 ## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", english AS "en", stand_in AS "SI", grade_level AS "GL"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "2-4-8"
-SORT grade_level ASC
+SORT file_name ASC
 ```

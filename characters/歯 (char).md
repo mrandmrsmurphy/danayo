@@ -14,7 +14,7 @@ middle_chinese_final: ɨ
 stroke_count: 12
 radical: 止
 skip_number: 2-4-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - teeth
@@ -33,9 +33,11 @@ aliases:
   - 齿
 注音: ㄑㄧ
 ---
+>[!tip] This is a page about the character.
+>For the word, please see [[歯]]
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
-Ironically, even though this is a simplification of 齒, it is listed under [[Radical 077]], not [[Radical 211]]!
+## Notes
+- Ironically, even though this is a simplification of 齒, it is listed under [[Radical 077]], not [[Radical 211]]!
+- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄑㄧ](syllables/ㄑㄧ.md)

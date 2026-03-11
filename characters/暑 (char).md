@@ -16,7 +16,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 12
 radical: 日
 skip_number: 2-4-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - hot (weather)
@@ -32,8 +32,10 @@ stand_in: 暑
 aliases:
 注音: ㄙ˙ㄛ
 ---
+>[!tip] This is a page about the character.
+>For the word, see [暑](words/暑.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([[Stroke 12]]) - [ㄙ˙ㄛ](syllables/ㄙ˙ㄛ.md)
