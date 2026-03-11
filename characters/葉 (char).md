@@ -16,7 +16,7 @@ middle_chinese_final: iᴇp
 stroke_count: 12
 radical: 艸
 skip_number: 2-3-9
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - leaf
@@ -39,3 +39,4 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*hljeb, \*leb): semantic [艸](Radical%20140) + phonetic [枼](characters/枼.md) (“leaf”). 枼 is the original pictogram for this word; 艸 was added to differentiate.

@@ -156,12 +156,12 @@ The following prefecture names were added in 2017:
 149. [[谷]] : valley ; koku (tani)
 150. [[野]] : field ; ya (no)
 151. [[原]] : meadow, plain ; gen (hara)
-152. [[里 (char)]] : hometown ; ri (sato)
+152. [里 (char)](characters/里%20(char).md) : hometown ; ri (sato)
 153. [[市]] : city ; shi (ichi)
 154. [[京]] : capital ; kyō, kei (miyako)
-155. [[風 (char)]] : wind, -style ; fū (kaze)
-156. [[雪 (char)]] : snow ; setsu (yuki)
-157. [[雲 (char)]] : cloud ; un (kumo)
+155. [風 (char)](characters/風%20(char).md) : wind, -style ; fū (kaze)
+156. [雪 (char)](characters/雪%20(char).md) : snow ; setsu (yuki)
+157. [雲 (char)](characters/雲%20(char).md) : cloud ; un (kumo)
 158. [[池]] : pond ; chi (ike)
 159. [[海]] : sea ; kai (umi)
 160. [[岩]] : rock ; gan (iwa)
@@ -174,7 +174,7 @@ The following prefecture names were added in 2017:
 167. [[門]] : gates ; mon (kado)
 168. [[道]] : road ; dō (michi)
 169. [[話]] : talk ; wa (hanashi, hana-su)
-170. [[言]] : say ; gen, gon (i-u, koto)
+170. [言 (char)](characters/言%20(char).md) : say ; gen, gon (i-u, koto)
 171. [[答]] : answer ; tō (kota-eru)
 172. [[声]] : voice ; sei (koe)
 173. [[聞]] : hear, listen, ask  ; bun, mon (ki-ku)
@@ -387,7 +387,7 @@ The following prefecture names were added in 2017:
 379. [[福]] : fuku , – , luck , 
 380. [[秒]] : byō , – , second , 
 381. [[究]] : kyū , – , research , 
-382. [[章 (char)]] : shō , – , chapter , 
+382. [章 (char)](characters/章%20(char).md) : shō , – , chapter , 
 383. [[童]] : dō , – , juvenile , 
 384. [[笛]] : teki , fue , whistle , 
 385. [[第]] : dai ,  , ordinal number prefix , 
@@ -406,8 +406,8 @@ The following prefecture names were added in 2017:
 398. [[苦]] : ku , kuru-shii;  kuru-shimu;  kuru-shimeru;  niga-i;  niga-ru , suffer , 
 399. [[荷]] : ka , ni , luggage , 
 400. [[落]] : raku , o-chiru;  otosu , fall , 
-401. [[葉]] : yō , ha , leaf , 
-402. [[薬 (char)]] : yaku , kusuri , medicine , 
+401. [葉 (char)](characters/葉%20(char).md) : yō , ha , leaf , 
+402. [薬 (char)](characters/薬%20(char).md) : yaku , kusuri , medicine , 
 403. [[血]] : ketsu , chi , blood , 
 404. [[表]] : hyō , omote;  arawa-su;  arawa-reru , list or surface , 
 405. [[詩]] : shi , – , poem , 

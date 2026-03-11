@@ -8,12 +8,20 @@ size: 8
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-喬, 普, 景, 晶, 暑 (char), 最 (char), 森, 歯 (char)
+1. 歯 (char)
+2. 暑 (char)
+3. 最 (char)
+4. 普
+5. 景
+6. 晶
+7. 森
+### Naming
+8. [喬](characters/喬.md) "tall, lofty" but it's a 名専字
 
 ## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", english AS "en"
+TABLE 注音 AS "Sound", english AS "en", stand_in AS "SI", grade_level AS "GL"
 FROM "characters"
 WHERE skip_number = "2-4-8"
-SORT file.name ASC
+SORT grade_level ASC
 ```

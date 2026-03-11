@@ -33,8 +33,12 @@ stand_in: 言
 aliases:
 注音: ㄝㄋ
 ---
+>[!tip] This page is about the character.
+>For the word, see [言](words/言.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[用言](/words/用言.md)<rt>˙ㄛㄥ·ㄝㄋ</rt></ruby> - declinable word
