@@ -1,4 +1,6 @@
-# [[六芸]]Six Arts
+
+## 六芸
+<ruby>[六芸](/words/六芸.md)<rt>ㄌㄨㄎ·ㄝ</rt></ruby>
 - [[礼]]
 	- 儀禮 (Yili), 
 	- 禮記 (Liji), 
