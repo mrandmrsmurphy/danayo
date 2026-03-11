@@ -31,7 +31,7 @@ mc_id: 3269
 graphemic_classification: 夸
 stand_in: 跨
 aliases:
-注音: ㄎ˙ㄚ
+注音: ㄎˇㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

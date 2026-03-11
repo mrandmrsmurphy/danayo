@@ -31,7 +31,7 @@ graphemic_classification: 册
 stand_in: 柵
 aliases:
   - 栅
-注音: ㄑㄚㄊ
+注音: ㄑㄚㄎ
 ---
 ```meta-bind-embed
 [[nav/char_info]]

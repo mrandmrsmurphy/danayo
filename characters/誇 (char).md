@@ -34,7 +34,7 @@ graphemic_classification: 夸
 stand_in: 誇
 aliases:
   - 夸
-注音: ㄎ˙ㄚ
+注音: ㄎˇㄚ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
