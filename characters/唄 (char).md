@@ -32,9 +32,10 @@ aliases:
   - 呗
 注音: ㄅㄚ˙
 ---
+>[!tip] This is about the character.
+>For the word, see [唄](words/唄.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
-I'm shocked its not old
+## Notes
+- Not found in Classical Chinese!

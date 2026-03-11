@@ -450,18 +450,18 @@ The following prefecture names were added in 2017:
 441. [[不]] : fu ;  bu	 –	not
 442. [[争]] : sō	araso-u	conflict
 443. [[付]] : fu	tsu-ku	attach
-444. [[令 (char)]] : rei	 –	orders
+444. [令 (char)](characters/令%20(char).md) : rei	 –	orders
 445. [[以]] : i	 –	since
 446. [[仲]] : chū	naka	go-between
 447. [[伝]] : den	tsuta-eru	transmit
 448. [[位]] : i	kurai	rank
 449. [[低]] : tei	hiku-i	low
 450. [[例]] : rei	tato-eru	example
-451. [[便 (char)]] : ben ;  bin	tayo-ri	convenience
+451. [便 (char)](characters/便%20(char).md) : ben ;  bin	tayo-ri	convenience
 452. [[信]] : shin	 –	trust
 453. [[倉]] : sō	kura	storage
 454. [[候]] : kō	 –	climate
-455. [[借]] : shaku	ka-riru	borrow
+455. [借 (char)](characters/借%20(char).md) : shaku	ka-riru	borrow
 456. [[停]] : tei	 –	halt
 457. [[健]] : ken	 –	healthy
 458. [[側]] : soku	kawa	side

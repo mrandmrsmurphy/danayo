@@ -10,13 +10,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1034. [[嵐]] : storm
 1035. [[依]] : reliant
 1036. [[威]] : intimidate
-1037. [[為 (char)]] : 	爲	do
+1037. [為 (char)](characters/為%20(char).md) : 	爲	do
 1038. [[畏]] : fear
 1039. [[尉]] : military officer
 1040. [[萎]] : wither
 1041. [[偉]] : admirable
 1042. [[椅]] : chair
-1043. [[彙 (char)]] : same kind
+1043. [彙 (char)](characters/彙%20(char).md) : same kind
 1044. [[違]] : differ
 1045. [[維]] : fiber
 1046. [[慰]] : consolation
@@ -27,10 +27,10 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1051. [[咽]] : throat
 1052. [[姻]] : matrimony
 1053. [[淫]] : 	lewdness
-1054. [[陰 (char)]] : shade
+1054. [陰 (char)](characters/陰%20(char).md) : shade
 1055. [[隠]] : 	隱	conceal
 1056. [[韻]] : rhyme
-1057. [[唄]] : songs with samisen
+1057. [唄 (char)](characters/唄%20(char).md) : songs with samisen
 1058. [[郁|鬱]] : depression
 1059. [[畝]] : furrow
 1060. [[浦]] : bay

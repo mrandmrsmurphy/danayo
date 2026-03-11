@@ -33,8 +33,9 @@ aliases:
   - 叶
 注音: ˙ㄛㄆ
 ---
+>[!tip] This page is about the character.
+>For the word, see [葉](words/葉.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
