@@ -661,7 +661,7 @@ The following prefecture names were added in 2017:
 651. [[保]] : ho	tamo-tsu	preserve
 652. [[修]] : shū	osa-meru	discipline
 653. [[俵]] : hyō	tawara	straw bag
-654. [[個 (char)]] : ko	 	individual
+654. [個 (char)](characters/個%20(char).md) : ko	 	individual
 655. [[備]] : bi	sona-eru	provide
 656. [[像]] : zō	 	statue
 657. [[再]] : sai ; sa	futata-bi	again
@@ -680,8 +680,8 @@ The following prefecture names were added in 2017:
 670. [[因]] : in	yo-ru	cause
 671. [[団]] : dan ; ton	 	group
 672. [[圧]] : atsu	 	pressure
-673. [[在 (char)]] : zai	a-ru	exist
-674. [[均]] : kin	 	level
+673. [在 (char)](characters/在%20(char).md) : zai	a-ru	exist
+674. [均 (char)](characters/均%20(char).md) : kin	 	level
 675. [[基]] : ki	moto-duku	foundation
 676. [[報]] : hō	muku-iru	report
 677. [[境]] : kyō	sakai	boundary

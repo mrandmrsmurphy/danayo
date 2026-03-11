@@ -32,12 +32,13 @@ mc_id: 1986
 graphemic_classification: 昔
 stand_in: 借
 aliases:
-  - 借
   - 藉
 注音: ㄐㄚ
 ---
+>[!tip] This page is about the character.
+>For the word, see [借](words/借.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声: (OC \*ʔsjaːɡs, \*ʔsjaːɡ): semantic [人](Radical%20009) (“person”) + phonetic [昔](characters/昔.md) (OC \*sjaːɡ).

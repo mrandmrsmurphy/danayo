@@ -19,6 +19,7 @@ date-last-perfect:
 - <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧㄇㄧ˙ㄇㄚㄥㄌ˙ㄚㄥ</rt></ruby> - all the demons
 - <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ˙ㄝㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
 - <ruby>[茫然自失](chengyu/茫然自失.md)<rt>ㄇㄚㄥㄋ˙ㄝㄋㄐㄧ˙ㄙㄧㄊ</rt></ruby> - dazed and confused
+- <ruby>[孤軍奮闘](chengyu/孤軍奮闘.md)<rt>ㄍㄛㄍㄨㄋㄅㄨㄋㄉㄛˇ</rt></ruby> - to fight on alone
 
 
 ## Base check

@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: iuɪn
-stroke_count: "7"
+stroke_count: 7
 radical: 土
 skip_number: 1-3-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - equal
@@ -34,8 +34,9 @@ stand_in: 均
 aliases:
 注音: ㄍ˙ㄨㄋ
 ---
+>[!tip] This page is about the character.
+>For the word, see [均](words/均.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

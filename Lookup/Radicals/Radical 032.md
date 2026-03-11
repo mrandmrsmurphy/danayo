@@ -13,7 +13,7 @@ date-last-perfect:
 [[在 (char)]] ,  [[圭]] ,   [[地]] 
 
 ### +4 Strokes
-[[坂]] ,  [[均]] ,   [[坐]] , [[坑]] 
+[[坂]] ,  [均 (char)](characters/均%20(char).md) ,   [[坐]] , [[坑]] 
 
 ### +5 Strokes
 [[坤]] ,  [[坦]] , [[坪]] 
