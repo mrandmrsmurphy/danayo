@@ -40,6 +40,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 - [[SKIP-4-2-4]]
+## Words
+- <ruby>[人参](/words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> - ginseng
