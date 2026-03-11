@@ -1,3 +1,4 @@
+> [論語 (book)](translation/論語%20(book).md)
 ## 1
 <ruby>学習物<rt>ㄏㄚㄎㄙㄧㄆㄇㄨㄊ</rt></ruby><ruby>与<rt>·˙ㄛ</rt></ruby> <ruby>常時<rt>ㄙ˙ㄚㄥㄙㄧ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>練習物<rt>ㄌㄝㄋㄙㄧㄆㄇㄨㄊ</rt></ruby> <ruby>不亦<rt>ㄅㄛㄊ·˙ㄚㄎ</rt></ruby><ruby>喜悦<rt>ㄏㄧ·˙ㄝㄊ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>?<br/>
 

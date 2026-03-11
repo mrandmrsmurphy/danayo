@@ -1,23 +1,26 @@
+> [List of Books](List%20of%20Books.md)
+> <ruby>[論語](/words/論語.md)<rt>ㄌㄛㄋ·˙ㄛ</rt></ruby>
+
 1. [[translation/論語 (book) - 01学而]]
-2. [[translation/論語 (book) - 02為政]]
-3. [[translation/論語 (book) - 03八溢]]
-4. [[translation/論語 (book) - 04里仁]]
-5. [[translation/論語 (book) - 05公冶]]
-6. [[translation/論語 (book) - 06雍也]]
-7. [[translation/論語 (book) - 07述而]]
-8. [[translation/論語 (book) - 08泰伯]]
-9. [[translation/論語 (book) - 09子罕]]
-10. [[translation/論語 (book) - 10郷党]]
-11. [[translation/論語 (book) - 11先進]]
-12. [[translation/論語 (book) - 12顔淵]]
-13. [[translation/論語 (book) - 13子路]]
-14. [[translation/論語 (book) - 14憲問]]
-15. [[translation/論語 (book) - 15衛霊]]
-16. [[translation/論語 (book) - 16季氏]]
-17. [[translation/論語 (book) - 17陽貨]]
-18. [[translation/論語 (book) - 18微子]]
-19. [[translation/論語 (book) - 19子張]]
-20. [[translation/論語 (book) - 20尭曰]]
+2. translation/論語 (book) - 02為政
+3. translation/論語 (book) - 03八溢
+4. translation/論語 (book) - 04里仁
+5. translation/論語 (book) - 05公冶
+6. translation/論語 (book) - 06雍也
+7. translation/論語 (book) - 07述而
+8. translation/論語 (book) - 08泰伯
+9. translation/論語 (book) - 09子罕
+10. translation/論語 (book) - 10郷党
+11. translation/論語 (book) - 11先進
+12. translation/論語 (book) - 12顔淵
+13. translation/論語 (book) - 13子路
+14. translation/論語 (book) - 14憲問
+15. translation/論語 (book) - 15衛霊
+16. translation/論語 (book) - 16季氏
+17. translation/論語 (book) - 17陽貨
+18. translation/論語 (book) - 18微子
+19. translation/論語 (book) - 19子張
+20. translation/論語 (book) - 20尭曰
 
 ## Vocabulary 
 While <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ·˙ㄛ</rt></ruby> has a lot in common with Classical/Literary Chinese, they are separate languages.  This is most manifest in the principle that Dan'a'yo does not have an open set of Chinese Characters.  The corpus of classic texts contains some obscure hapax legomena and the like, so some substitution is necessary.

@@ -1,4 +1,6 @@
-<ruby>[礼記](/words/礼記.md)<rt>ㄌㄝ˙ㄍ˙</rt></ruby> - Book of Rites
+> [List of Books](List%20of%20Books.md)
+> <ruby>[礼記](/words/礼記.md)<rt>ㄌㄝ˙ㄍ˙</rt></ruby> - Book of Rites
+
 1. translation/礼記 (book) 01曲礼上 - Qu Li
 2. translation/礼記 (book) 02曲礼下 - Qu Li II
 3. translation/礼記 (book) 03檀弓上 - Tan Gong I

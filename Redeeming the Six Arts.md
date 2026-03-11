@@ -1,11 +1,11 @@
 
 ## 六芸
 <ruby>[六芸](/words/六芸.md)<rt>ㄌㄨㄎ·ㄝ</rt></ruby>
-- [[礼]]
+- <ruby>[礼](/words/礼.md)<rt>ㄌㄝ˙</rt></ruby>
 	- 儀禮 (Yili), 
 	- 禮記 (Liji), 
 	- 周禮 (Zhouli)
-- [[音楽]]
+- <ruby>[音楽](/words/音楽.md)<rt>ㄨㄇㄌㄚㄎ</rt></ruby>
 	- 詩經 (Book of Odes), 
 	- 樂經 fragments, 
 	- 樂論 texts
