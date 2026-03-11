@@ -35,8 +35,12 @@ aliases:
   - 谋
 注音: ㄇㄨˇ
 ---
+>[!tip] This is about the character.
+>For the word, see [謀](words/謀.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[権謀](/words/権謀.md)<rt>ㄍˇㄝㄋㄇㄨˇ</rt></ruby> - power plan

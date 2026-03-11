@@ -719,7 +719,7 @@ The following prefecture names were added in 2017:
 709. [[招]] : shō	mane-ku	beckon
 710. [[授]] : ju	sazu-keru	instruct
 711. [[採]] : sai	to-ru	pick
-712. [[接]] : setsu	ses-suru ; tsu-gu	contact
+712. [接 (char)](characters/接%20(char).md) : setsu	ses-suru ; tsu-gu	contact
 713. [[提]] : tei	sa-geru	present
 714. [[損]] : son	soko-neru	loss
 715. [[支]] : shi	sasa-eru	branch
@@ -730,7 +730,7 @@ The following prefecture names were added in 2017:
 720. [[旧]] : kyū	 	old times
 721. [[易]] : eki	yasa-shii	easy
 722. [[暴]] : bō	aba-ku	outburst
-723. [[条 (char)]] : jō	 	clause
+723. [条 (char)](characters/条%20(char).md) : jō	 	clause
 724. [[枝]] : shi	eda	branch
 725. [[査]] : sa	 	investigate
 726. [[格]] : kaku	 	status
