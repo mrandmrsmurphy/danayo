@@ -29,7 +29,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 ## Nouns
 - Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[鉄]]<rt>ㄊㄝㄊ</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[銀]]<rt>ㄧㄋ</rt></ruby>
 - Territory : nature, world - <ruby>[[世界]]<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>, land
-- Time: week - <ruby>[[週日]]<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>, month - <ruby>[[月]]<rt>ˇㄝㄊ</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>, today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>ㄌㄚ˙ㄋㄧㄊ</rt></ruby>, morning - <ruby>[[朝]]<rt>ㄐㄚˇ</rt></ruby>, afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛˇ</rt></ruby>
+- Time: week - <ruby>[[週日]]<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>, month - <ruby>[月](words/月.md)<rt>ˇㄝㄊ</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>, today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>ㄌㄚ˙ㄋㄧㄊ</rt></ruby>, morning - <ruby>[[朝]]<rt>ㄐㄚˇ</rt></ruby>, afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛˇ</rt></ruby>
 - Season : spring - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>, summer - <ruby>[[夏]]<rt>ㄏ˙ㄚ</rt></ruby>, fall - <ruby>[[秋]]<rt>ㄑㄨˇ</rt></ruby>, winter - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>
 - Geographical : hill, farm, field, island - <ruby>[[島]]<rt>ㄊㄚˇ</rt></ruby>
 - Body Parts : body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝ˙</rt></ruby>, lip - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby>, breast - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄥ</rt></ruby>,  butt - <ruby>[[尻]]<rt>ㄎㄚˇ</rt></ruby>, muscle - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>, brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>

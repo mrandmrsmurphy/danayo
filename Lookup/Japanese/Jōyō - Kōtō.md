@@ -555,7 +555,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1578. [[杉]] : cedar
 1579. [[裾]] : cuff
 1580. [[瀬]] : 	[[瀬|瀨]]	rapids 
-1581. [[是 (char)]] : just so
+1581. [是 (char)](characters/是%20(char).md) : just so
 1582. [[姓]] : surname
 1583. [[征]] : subjugate
 1584. [[斉]] : 	[[斉|齊]]	adjusted
@@ -570,7 +570,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1593. [[析]] : chop
 1594. [[脊]] : stature
 1595. [[只|隻]] : vessels
-1596. [[惜]] : pity
+1596. [惜 (char)](characters/惜%20(char).md) : pity
 1597. [[戚]] : grieve
 1598. [[跡]] : tracks
 1599. [[籍]] : enroll

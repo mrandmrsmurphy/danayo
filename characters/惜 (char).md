@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: iᴇk
-stroke_count: "11"
+stroke_count: 11
 radical: 心
 skip_number: 1-3-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - begrudge
@@ -33,8 +33,10 @@ stand_in: 惜
 aliases:
 注音: ㄙㄝㄎ
 ---
+>[!tip] This is a page about the character.
+>For the word, see [惜](words/惜.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*sjaːɡ): semantic [忄](Radical%20061) (“heart”) + phonetic [昔](characters/昔.md) (OC \*sjaːɡ) – a feeling (of the heart).  Note that 昔 has meaning of “past, ending”, hence connotations of “feelings for the past, feeling about an ending – regret, rue”.
