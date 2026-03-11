@@ -15,7 +15,7 @@ middle_chinese_final: ɑt
 stroke_count: 12
 radical: 刀
 skip_number: 1-10-2
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - cut
@@ -31,7 +31,7 @@ mc_id: 1166
 graphemic_classification: 害
 stand_in: 割
 aliases:
-注音: ㄍㄚㄇ
+注音: ㄍㄚㄊ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
