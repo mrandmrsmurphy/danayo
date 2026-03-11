@@ -15,7 +15,7 @@ middle_chinese_final: uɑn
 stroke_count: 12
 radical: 欠
 skip_number: 1-8-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - item
@@ -30,7 +30,7 @@ mc_id: 2454
 graphemic_classification: 柰
 stand_in: 款
 aliases:
-注音: ㄎ˙ㄚㄋ
+注音: ㄎˇㄚㄋ
 ---
 ```meta-bind-embed
 [[nav/char_info]]
