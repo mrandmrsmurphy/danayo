@@ -7,14 +7,25 @@
 |[[翌]]|following|翌日|翌週|翌月|翌年|翌世紀|
 |[前](words/前.md)|prior|前日|前週|前月|前年|前世紀|
 
+There are also prefixes
+- [[毎]]- = every x
+- [隔](characters/隔.md)- = every other x
+- [連](words/連.md)- = x over x, for successive x
+
 ## Week
-- <ruby>[日曜日](/words/日曜日.md)<rt>ㄋㄧㄊ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Sunday
+Disappointing to the Abrahamic religions, Asian weeks start on Monday
+The beginning of the week - [[週初]].
+The middle of the week - [[週中]].
+The end of the week - [[週末]].
+
 - <ruby>[月曜日](/words/月曜日.md)<rt>ˇㄝㄊ˙ㄛˇㄋㄧㄊ</rt></ruby> - Monday
 - <ruby>[火曜日](/words/火曜日.md)<rt>ㄏˇㄚ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Tuesday
 - <ruby>[水曜日](/words/水曜日.md)<rt>ㄙㄨ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Wednesday
 - <ruby>[木曜日](/words/木曜日.md)<rt>ㄇㄛㄎ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Thursday
 - <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Friday
 - <ruby>[土曜日](/words/土曜日.md)<rt>ㄊㄛ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Saturday
+- <ruby>[日曜日](/words/日曜日.md)<rt>ㄋㄧㄊ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Sunday
+
 
 ## Months
 The beginning of the month - [[月初]].
@@ -67,14 +78,21 @@ The end of the  month - [[月末]].
 30. 三十日
 31. 三十一日
 
-[[本日]] is poetic for today
-[[明日]] is poetic for tomorrow
+[[本日]] is poetic for 'today'
+[[明日]] is poetic for 'tomorrow'
+[[即日]] is business for 'same day'
+[[是日]] is archaic for 'same day'
+[[次日]] is business for 'the following day'
 
 ## Years
 A thousand years is a [[千年紀]].
-
 The first half of the year - [[上半期]].
 The second half of the year - [[下半期]].
+Adjective "of the same year" (in school or the like): [[同年]]
+The beginning of the year - [[千初]].
+The middle of the year - [[千中]].
+The end of the year - [[千末]].
+
 
 ### New Years
 - [新年](words/新年.md) = [[元日]] - new year's day (but which? is ambiguous)
@@ -93,6 +111,13 @@ The second half of the year - [[下半期]].
 - [暦](words/暦.md) — calendar / almanac
 - [[暦法]] — calendrical system
 - [[紀年]] — year reckoning
+
+## Centuries
+世紀
+The beginning of the century - [[千初]].
+The middle of the century - [[千中]].
+The end of the century - [[千末]].
+
 
 ### Eras
 - [[明治]] (1868–1912)   
