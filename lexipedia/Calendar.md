@@ -9,4 +9,5 @@
 
 ## Months
 1. <ruby>[一月](/words/一月.md)<rt>ㄧㄊ·ˇㄝㄋ</rt></ruby> - January
-2. 
+2. <ruby>[二月](/words/二月.md)<rt>ㄋㄧ˙·ˇㄝㄊ</rt></ruby> - February
+3. 
