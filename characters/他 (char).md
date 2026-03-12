@@ -5,10 +5,11 @@ cantonese:
   - taa1
 korean:
   - 타
-korean_native: ""
+korean_native: 남
 japanese:
   - TA
-japanese_nanori: ""
+japanese_nanori:
+  - ひと
 vietnamese:
   - tha
   - thà
@@ -20,11 +21,11 @@ stroke_count: 5
 radical: 人
 skip_number: 1-2-3
 grade_level: "1"
-pos: ""
+pos: 修飾語
 english:
   - another
 羅馬字: ta
-韓文:  타
+韓文: 타
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -40,9 +41,12 @@ aliases:
   - 沱
   - 沲
 注音: ㄊㄚ
+tags:
+  - determiner
 ---
+>[!tip] This is a page about the character.
+>For the word, see [他](words/他.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

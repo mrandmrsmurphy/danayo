@@ -7,7 +7,7 @@ language: English
 _the_ and _a_ are not part of Dan'a'yo
 
 ### Comparatives
-- more
+- more <ruby>[更](/words/更.md)<rt>ㄍㄚㄥ</rt></ruby>
 - most
 - least
 - less
@@ -30,13 +30,13 @@ _the_ and _a_ are not part of Dan'a'yo
 - unless
 
 ### Deictics
-- that
-- this
-- there
-- here
+- that <ruby>[其](/words/其.md)<rt>ㄍㄧ</rt></ruby>
+- this <ruby>[此](/words/此.md)<rt>ㄑㄝ</rt></ruby>
+- there <ruby>[其処](/words/其処.md)<rt>ㄍㄧㄑㄛ</rt></ruby>
+- here <ruby>[此処](/words/此処.md)<rt>ㄑㄝㄑㄛ</rt></ruby>
 
 ### Modals
-- can
+- can <ruby>[可](/words/可.md)<rt>ㄎㄚ</rt></ruby>
 - could
 - may
 - might
@@ -49,17 +49,17 @@ _the_ and _a_ are not part of Dan'a'yo
 - would
 
 ### Particles
-- as
+- as <ruby>[似](/words/似.md)<rt>ㄙㄚ</rt></ruby>
 - instead
 - no
-- not
+- not <ruby>[不](/words/不.md)<rt>ㄅㄛㄊ</rt></ruby>
 - rather
 - so
 - than
 - whatever
 
 ### Contrastives
-- another
+- another <ruby>[他](/words/他.md)<rt>ㄊㄚ</rt></ruby>
 - either
 - neither
 - other
@@ -89,8 +89,10 @@ _the_ and _a_ are not part of Dan'a'yo
 - which
 
 ## Words about Grammar
-- noun [[]]
-- verb
+- noun <ruby>[名詞](/words/名詞.md)<rt>ㄇㄧㄥㄙㄚ</rt></ruby>
+- verb <ruby>[動詞](/words/動詞.md)<rt>ㄉㄛㄥㄙㄚ</rt></ruby>
+	- transitive <ruby>[他動詞](/words/他動詞.md)<rt>ㄊㄚㄉㄛㄥㄙㄚ</rt></ruby>
+	- intransitive <ruby>[自動詞](/words/自動詞.md)<rt>ㄐㄧ˙ㄉㄛㄥㄙㄚ</rt></ruby>
 - adjective
 - gender
 - case
@@ -98,8 +100,8 @@ _the_ and _a_ are not part of Dan'a'yo
 - grammar
 - dialect
 - accusative
-- dative
+- dative (case) <ruby>[与格](/words/与格.md)<rt>˙ㄛㄍㄚㄎ</rt></ruby>
 - alphabet
 	- [[文字]] = writing system
 	- [[字母]] = letter
-- dictionary
+- dictionary <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby>

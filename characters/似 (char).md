@@ -10,13 +10,14 @@ japanese:
   - JI
 japanese_nanori: ""
 vietnamese:
+  - tự, tợ, tựa, từa
 middle_chinese_initial: z
 middle_chinese_final: ɨ
 stroke_count: 7
 radical: 人
 skip_number: 1-2-5
 grade_level: "5"
-pos: ""
+pos: 格助詞
 english:
   - like
   - as
@@ -34,8 +35,9 @@ stand_in: 似
 aliases:
 注音: ㄙㄚ
 ---
+>[!tip] This is the character.
+>For the word, see [似](words/似.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
