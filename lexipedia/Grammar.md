@@ -65,21 +65,21 @@ _the_ and _a_ are not part of Dan'a'yo
 - other
 
 ### Pronoun
-- I : <ruby>我<rt>ㄚ</rt></ruby>
-- thou : <ruby>君<rt>ㄍㄨㄋ</rt></ruby>
-- he/she : <ruby>其人<rt>ㄍㄧㄋ·ㄧㄋ</rt></ruby>
+- I : <ruby>[我](words/我.md)<rt>ㄚ</rt></ruby>
+- thou : <ruby>[君](words/君.md)<rt>ㄍㄨㄋ</rt></ruby>
+- he/she : <ruby>[其人](words/其人.md)<rt>ㄍㄧㄋ·ㄧㄋ</rt></ruby>
 - it
-- we : <ruby>我等<rt>ㄚㄉㄨㄥ</rt></ruby>
-- you : <ruby>君等<rt>ㄍㄨㄋㄉㄨㄥ</rt></ruby>
-- they : <ruby>其人等<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>
+- we : <ruby>[我等](words/我等.md)<rt>ㄚㄉㄨㄥ</rt></ruby>
+- you : <ruby>[君等](words/君等.md)<rt>ㄍㄨㄋㄉㄨㄥ</rt></ruby>
+- they : <ruby>[其人等](words/其人等.md)<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>
 - self : 
-	- grammatical reflexive: <ruby>自己<rt>ㄐㄧ˙ㄍㄧ</rt></ruby>
-	- emphatic: <ruby>自身<rt>ㄐㄧ˙ㄙㄧㄋ</rt></ruby>
-	- ego: <ruby>自我<rt>ㄐㄧ˙·ㄚ</rt></ruby>
+	- grammatical reflexive: <ruby>[自己](words/自己.md)<rt>ㄐㄧ˙ㄍㄧ</rt></ruby>
+	- emphatic: <ruby>[自身](words/自身.md)<rt>ㄐㄧ˙ㄙㄧㄋ</rt></ruby>
+	- ego: <ruby>[自我](words/自我.md)<rt>ㄐㄧ˙·ㄚ</rt></ruby>
 
 ### Interrogatives
-- when : <ruby>何時<rt>ㄏㄚㄙㄧ</rt></ruby>
-- where : <ruby>何処<rt>ㄏㄚㄑㄛ</rt></ruby>
+- when : <ruby>[何時](words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby>
+- where : <ruby>[何処](words/何処.md)<rt>ㄏㄚㄑㄛ</rt></ruby>
 - whether
 - while
 - who : <ruby>[[誰]]<rt>ㄙ˙ㄝ˙</rt></ruby>
@@ -89,7 +89,7 @@ _the_ and _a_ are not part of Dan'a'yo
 - which
 
 ## Words about Grammar
-- noun
+- noun [[]]
 - verb
 - adjective
 - gender

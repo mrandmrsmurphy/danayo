@@ -8,7 +8,7 @@
 - Abe Shinzō ([[安]][[倍]][[晋]]<ruby>[三](/words/三.md)<rt>ㄙㄚㄇ</rt></ruby>) — (1954–2022)
 - Takaichi Sanae ([[高 (char)]][[市]][[早]][[苗]]) — (b. 1961)
 - Tōjō Hideki ([[東]][[条 (char)|條]][[英]][[機]]) — (1884–1948)
-- Yamamoto Isoroku ([[山本]]五十六) — (1884–1943)
+- Yamamoto Isoroku ([[words/山本]]五十六) — (1884–1943)
 - Katsushika Hokusai ([[葛]][[飾]][[北]][[斎]]) — (1760–1849, but enduring influence)
 - Natsume Sōseki ([[夏]][[目]][[漱]][[石]]) — (1867–1916)
 - Hayao Miyazaki ([[宮]][[埼|崎]][[駿]]) — (b. 1941)
