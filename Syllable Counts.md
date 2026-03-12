@@ -1,6 +1,5 @@
 | Value         | Count |
 | ------------- | ----- |
-| gyen          | 5     |
 | bed           | 5     |
 | byen          | 5     |
 | lii           | 5     |
@@ -15,7 +14,6 @@
 | deb           | 5     |
 | jog           | 5     |
 | hoi           | 5     |
-| doi           | 5     |
 | lui           | 5     |
 | sei           | 5     |
 | jid           | 5     |
@@ -26,10 +24,8 @@
 | pud           | 5     |
 | don           | 5     |
 | hwen          | 5     |
-| bin           | 5     |
 | log           | 5     |
 | kyu           | 4     |
-| gim           | 4     |
 | hyu           | 4     |
 | pyen          | 4     |
 | gen           | 4     |
