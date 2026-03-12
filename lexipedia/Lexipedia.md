@@ -6,7 +6,7 @@ Rosenfelder's helpful book
 
 * [[lexipedia/Animals]]
 * [[lexipedia/Art]]
-* [[lexipedia/Astronomy]]
+* [Astronomy](lexipedia/Astronomy.md)
 * [[lexipedia/Body]]
 * [[lexipedia/Buildings]]
 * [[lexipedia/Clothing]]
@@ -62,5 +62,6 @@ Rosenfelder's helpful book
 
 ## Others
 Most of these lists are intended for authors, sometimes of science-fiction and other hypothetical words.  As a functional IAL, Dan'a'yo self-describes:
-* [[lexipedia/Geography]]
-* [[lexipedia/Calendar]]
+* [Geography](lexipedia/Geography.md)
+* [Calendar](lexipedia/Calendar.md)
+* [Periodic Table](lexipedia/Periodic%20Table.md)

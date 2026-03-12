@@ -39,6 +39,6 @@ aliases:
 ```
 
 # Notes
-- [[金 (char)]] + [[固]]
+- [金](Radical%20167) + [[固]]
 - [[禁錮]] to imprison, to shackle
 - Japanese [[Jōyō - Kōtō]] level character

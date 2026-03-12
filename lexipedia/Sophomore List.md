@@ -143,7 +143,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Locations : central - [[中]], upper/high - [[上]], lower/low - [[下]], near, far
 - Directions : north - [[北]], south - [[南]], east - [[東]], west - [[西]]
 - Respect : great/grand - [[太 (char)]], glorious, noble - [[貴]], holy - [[聖]], royal - [[帝]]
-- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[金]], silver - [[銀]], jewel
+- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[words/金]], silver - [[銀]], jewel
 - Descriptive : windy, stinky
 - Color : white - , black - [[黒]], green, yellow - [[黄]], blue, red, orange, brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy

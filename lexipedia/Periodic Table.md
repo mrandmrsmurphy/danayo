@@ -1,4 +1,6 @@
-
+While many elements have common names across the region, it is necessary to invent an overall system made of #neologism s.  The system is
+- Elements in rows 1, 2, and 13-18 end in -素.
+- LanthanidActinide,  
 
 | 1 | 2   | 13 | 14 | 15 | 16 | 17 |  18 |
 |---|-----|----|----|----|----|----|-----|
