@@ -1,6 +1,13 @@
-## Week
-One week is a <ruby>[週日](/words/週日.md)<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>
+|Prefix|Meaning|[[日]]|<ruby>[週日](/words/週日.md)<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>|<ruby>[月](/words/月.md)<rt>ˇㄝㄊ</rt></ruby>|<ruby>[年](/words/年.md)<rt>ㄋㄝㄋ</rt></ruby>|<ruby>[世紀](/words/世紀.md)<rt>ㄙㄝㄍㄧ</rt></ruby>|
+|---|---|---|---|---|---|---|
+|[今](words/今.md)|this|今日|今週|今月|今年|今世紀|
+|[来](words/来.md)|next|来日|来週|来月|来年|来世紀|
+|[昨](words/昨.md)|previous |昨日|昨週|昨月|昨年|昨世紀|
+|[当](words/当.md)|current|当日|当週|当月|当年|当世紀|
+|[翌](characters/翌.md)|following|翌日|翌週|翌月|翌年|翌世紀|
+|[前](words/前.md)|prior|前日|前週|前月|前年|前世紀|
 
+## Week
 - <ruby>[日曜日](/words/日曜日.md)<rt>ㄋㄧㄊ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Sunday
 - <ruby>[月曜日](/words/月曜日.md)<rt>ˇㄝㄊ˙ㄛˇㄋㄧㄊ</rt></ruby> - Monday
 - <ruby>[火曜日](/words/火曜日.md)<rt>ㄏˇㄚ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Tuesday
@@ -10,7 +17,6 @@ One week is a <ruby>[週日](/words/週日.md)<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>
 - <ruby>[土曜日](/words/土曜日.md)<rt>ㄊㄛ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Saturday
 
 ## Months
-A month is a <ruby>[月](/words/月.md)<rt>ˇㄝㄊ</rt></ruby>.
 The beginning of the month - [[月初]].
 The middle of the month - [[月中]].
 The end of the  month - [[月末]].
@@ -29,8 +35,7 @@ The end of the  month - [[月末]].
 - 十一月
 - 十二月
 
-This month = [[本月]] = 
-### Days of the Month
+## Days
 1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>
 2. [[二日]]
 3. [[三日]]
@@ -42,9 +47,11 @@ This month = [[本月]] =
 9. [[九日]]
 10. [[十日]]
 
+[[本日]] is poetic for today
+[[明日]] is poetic for tomorrow
+
 ## Years
-A year is a <ruby>[年](/words/年.md)<rt>ㄋㄝㄋ</rt></ruby>.
-One hundred years is a <ruby>[世紀](/words/世紀.md)<rt>ㄙㄝㄍㄧ</rt></ruby>.
+One hundred years is a .
 A thousand years is a [[千年紀]].
 
 The first half of the year - [[上半期]].
