@@ -17,7 +17,7 @@ stroke_count: 12
 radical: 口
 skip_number: 2-3-9
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - like
   - love
@@ -34,8 +34,9 @@ stand_in: 喜
 aliases:
 注音: ㄏㄧ
 ---
+>[!tip] This is a page about the character.
+>For the word, see [喜](words/喜.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

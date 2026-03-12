@@ -496,7 +496,7 @@ The following prefecture names were added in 2017:
 487. [[告]] : koku	tsu-geru	tell
 488. [[周]] : shū	mawa-ri	circumference
 489. [[唱]] : shō	tona-eru	chant
-490. [[喜]] : ki	yoroko-bu	rejoice
+490. [喜 (char)](characters/喜%20(char).md) : ki	yoroko-bu	rejoice
 491. [[器]] : ki	utsuwa	container
 492. [[囲]] : i	kako-u	surround
 493. [[固]] : ko	kata-maru	harden
@@ -507,7 +507,7 @@ The following prefecture names were added in 2017:
 498. [[変]] : hen	ka-waru	change
 499. [[夫]] : fu fuu bu	otto	husband
 500. [[失]] : shitsu	ushina-u	lose
-501. [[好 (char)]] : kō	su-ku ; kono-mu	like
+501. [好 (char)](characters/好%20(char).md) : kō	su-ku ; kono-mu	like
 502. [[季]] : ki	 –	seasons
 503. [[孫]] : son	mago	grandchild
 504. [[完]] : kan	 –	perfect
@@ -847,21 +847,21 @@ The following prefecture names were added in 2017:
 844. [[傷]] : shō	kizu	wound
 845. [[優]] : yū	yasa-shii	superior
 846. [[党]] : tō	 	political party
-847. [[冊 (char)]] : satsu	 	counter for books
-848. [[処 (char)]] : sho	 	dispose
+847. [冊 (char)](characters/冊%20(char).md) : satsu	 	counter for books
+848. [処 (char)](characters/処%20(char).md) : sho	 	dispose
 849. [[刻]] : koku	kiza-mu	engrave
 850. [[割]] : katsu	wa-ru	divide
 851. [[創]] : sō	tsuku-ru	create
-852. [[劇 (char)]] : geki	 	drama
+852. [劇 (char)](characters/劇%20(char).md) : geki	 	drama
 853. [[勤]] : kin	tsuto-meru	diligence
 854. [[危]] : ki	aya-ui	dangerous
 855. [[卵]] : ran	tamago	egg
 856. [[厳]] : gen	kibi-shii	strict
 857. [[収]] : shū	osa-meru	take in
 858. [[后]] : gō	kisaki	queen
-859. [[否]] : hi	ina ;  iya	negate
+859. [否](characters/否%20(char).md) : hi	ina ;  iya	negate
 860. [[吸]] : kyū	su-u	suck
-861. [呼 (char)](characters/呼%20(char).md) : ko	yo-bu	call
+861. [呼](characters/呼%20(char).md) : ko	yo-bu	call
 862. [[善]] : zen	yo-i	good
 863. [[困]] : kon	koma-ru	become distressed
 864. [[垂]] : sui	ta-reru	droop
@@ -875,7 +875,7 @@ The following prefecture names were added in 2017:
 872. [[宅]] : taku	ie	home
 873. [[宇]] : u	 	eaves
 874. [[宗]] : shū	sō	religion
-875. [[宙 (char)]] : chū	 	mid-air
+875. [宙 (char)](characters/宙%20(char).md) : chū	 	mid-air
 876. [[宝]] : hō	takara	treasure
 877. [[宣]] : sen	notama-u	proclaim
 878. [[密]] : mitsu	 	secrecy

@@ -18,7 +18,7 @@ middle_chinese_final: ɨo
 stroke_count: 8
 radical: 止
 skip_number: 3-4-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - military

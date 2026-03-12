@@ -15,7 +15,7 @@ middle_chinese_final: ɨu
 stroke_count: 7
 radical: 口
 skip_number: 2-4-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - no
@@ -31,8 +31,9 @@ stand_in: 否
 aliases:
 注音: ㄅㄨˇ
 ---
+>[!tip] This page is about the character.
+>For the word, see [否](words/否.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
