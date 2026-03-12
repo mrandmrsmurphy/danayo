@@ -44,4 +44,6 @@ aliases:
 - [[SKIP-4-2-4]]
 ## Words
 - <ruby>[人参](/words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> - ginseng
-- [[人口]]
+- <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby> - population
+- <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron
+- 
