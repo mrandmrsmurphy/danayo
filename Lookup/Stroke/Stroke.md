@@ -1,7 +1,17 @@
 ---
 aliases:
 ---
-**Stroke count** is an ancient way of categorizing hanji, though not a very effective one.  We preserve it hear, though we prefer other methods, namely the SKIP technique.  Rather than delineating within each page by radical, this is the system we prefer.
+## Strokes
+[[永字八法]]
+[[筆画]]
+![forever](images/forever.svg)
+
+1. "dot" or "point" - [点](words/点.md)
+2. “horizontal” "left-to-right" - [[横]] = [[勒]]
+3. “vertical-falling” ([[豎]]) or perpendicular. Notice the initial dot.
+## Stroke Counts
+**Stroke count/[[筆画数]]** is an ancient way of categorizing hanji, though not a very effective one.  We preserve it hear, though we prefer other methods, namely the SKIP technique.  Rather than delineating within each page by radical, this is the system we prefer.
+
 
 1. [[Stroke 01]] (2 characters) ✅
 2. [[Stroke 02]] (16 characters) ✅
