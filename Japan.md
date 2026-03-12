@@ -1,5 +1,5 @@
 
-- Emperor Meiji ([[明治]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby>) — Meiji Tennō (1852–1912, reigned 1867–1912)
+- Emperor Meiji ([[words/明治]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby>) — Meiji Tennō (1852–1912, reigned 1867–1912)
 - Emperor Taishō ([[大正]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby>) — Taishō Tennō (1879–1926, reigned 1912–1926)
 - Emperor Shōwa / Hirohito ([[昭和]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> / [[裕]][[仁]]) — Shōwa Tennō / Hirohito (1901–1989, reigned 1926–1989)
 - Emperor Heisei / Akihito ([[平成]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> / [[明]][[仁]]) — Heisei Tennō / Akihito (b. 1933, reigned 1989–2019)

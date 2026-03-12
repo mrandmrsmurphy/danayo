@@ -157,7 +157,7 @@ The middle of the century - [[世紀中]].
 The end of the century - [[世紀末]].
 
 ### Eras
-- [[明治]] (1868–1912)   
+- [[words/明治]] (1868–1912)   
 - <ruby>[大正](/words/大正.md)<rt>ㄉㄚ˙ㄐㄧㄥ</rt></ruby> (1912–1926)
 - [[昭和]] (1926–1989)
 - [[平成]] (1989–2019)
