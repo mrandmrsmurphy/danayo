@@ -36,3 +36,6 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
+
+- [[人口]]

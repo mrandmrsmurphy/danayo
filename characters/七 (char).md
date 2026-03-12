@@ -47,12 +47,12 @@ date-last-perfect: 2026-02-20
 ### Words
 * <ruby>[[七十]]<rt>ㄑㄧㄊㄙㄧㄆ</rt></ruby> - seventy
 * <ruby>[[七百]]<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> - seven hundred
-* <ruby>[[words/七千]]<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> - seven thousand
-* <ruby>[[七万]]<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> - seventy thousand
+* <ruby>[七千](words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> - seven thousand
+* <ruby>[七万](words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> - seventy thousand
 * <ruby>[[七日]]<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby> - seventh day of the month
 * <ruby>[[七月]]<rt>ㄑㄧㄊ·ˇㄝㄊ</rt></ruby> - July
 * <ruby>[[七夕]]<rt>ㄑㄧㄊㄙㄝㄎ</rt></ruby> - Qixi (Chinese Valentines)
-* <ruby>[[七情]]<rt>ㄑㄧㄊㄑㄧㄥ</rt></ruby> - the Seven Emotions (traditional)
+* <ruby>[[words/七情]]<rt>ㄑㄧㄊㄑㄧㄥ</rt></ruby> - the Seven Emotions (traditional)
 * <ruby>[[七宝]]<rt>ㄑㄧㄊㄅㄚˇ</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby>)
 * <ruby>[[七事]]<rt>ㄑㄧㄊㄐㄧ</rt></ruby> - Seven Duties of a Sovereign
 * <ruby>[[七対子]]<rt>ㄑㄧㄊㄉㄛ˙ㄐㄧ</rt></ruby> - Seven Pairs (Majong)
@@ -69,7 +69,7 @@ where contains(characters, this.file.name)
 sort file.name
 ```
 ### Etymologies
-Pictogram (象形) – a vertical stroke and a horizontal stroke bisecting each other – original character of [切] (Old Chinese @sn̥ʰiːds, @sn̥ʰiːd, “to cut”)
+Pictogram ([List of 象形](lookup/List%20of%20象形.md)) – a vertical stroke and a horizontal stroke bisecting each other – original character of [切] (Old Chinese \*sn̥ʰiːds, \*sn̥ʰiːd, “to cut”)
 - 七 + 刀 = <ruby>[[切]]<rt>ㄑㄝㄊ</rt></ruby>
 - 七 + 口 = <ruby>[[叱]]<rt>ㄑㄧㄊ</rt></ruby>
 ### Links
