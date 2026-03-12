@@ -32,6 +32,7 @@ mc_id: 506
 graphemic_classification: 壴
 stand_in: 喜
 aliases:
+  - 禧
 注音: ㄏㄧ
 ---
 >[!tip] This is a page about the character.
@@ -40,3 +41,4 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
+- [ㄏㄧ](syllables/ㄏㄧ.md)
