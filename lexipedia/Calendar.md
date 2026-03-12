@@ -45,6 +45,40 @@ The end of the  month - [[月末]].
 - 十一月
 - 十二月
 
+An ancient calendar existed:
+
+|Branch|Month|
+|---|---|
+|寅|1|
+|卯|2|
+|辰|3|
+|巳|4|
+|午|5|
+|未|6|
+|申|7|
+|酉|8|
+|戌|9|
+|亥|10|
+|子|11|
+|丑|12|
+
+Or a poetic one:
+
+|Month|Poetic name|Meaning|
+|---|---|---|
+|1|正月|principal month|
+|2|[[杏]]月|apricot blossom month|
+|3|[[桃]]月|peach blossom month|
+|4|[[槐]]月|pagoda-tree month|
+|5|[[榴]]月|pomegranate month|
+|6|[[荷]]月|lotus month|
+|7|[[蘭]]月|orchid month|
+|8|[[桂]]月|osmanthus month|
+|9|[[菊]]月|chrysanthemum month|
+|10|[[良]]月|fine month|
+|11|[[冬]]月|winter month|
+|12|[[臘]]月|sacrifice month|
+
 ## Days
 1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>
 2. 二日
@@ -94,13 +128,18 @@ The middle of the year - [[千中]].
 The end of the year - [[千末]].
 
 
-### New Years
-- [新年](words/新年.md) = [[元日]] - new year's day (but which? is ambiguous)
+### Lunar Calendar
+- [新年](words/新年.md) = [[元日]] - new year's day (but which is ambiguous)
 - [[元旦]] - New Year's Morning, January 1st a.m. (Gregorian morning)
 - [[正月]] - first month of the "year" (varies from country to country)
 - [[春節]] - Chinese/Korean/Vietnamese New Year, Spring Festival
 - [[陰暦年]] = [[旧正月]] - lunar new year = old new year
 
+Lunar months had their own terminology:
+- [朔日](words/朔日.md)
+- [[望]]
+- [[晦]]
+- [弦](words/弦.md)
 ### Leap years
 - [[閏年]] — leap year
 - [[平年]] — common year
@@ -113,15 +152,13 @@ The end of the year - [[千末]].
 - [[紀年]] — year reckoning
 
 ## Centuries
-世紀
-The beginning of the century - [[千初]].
-The middle of the century - [[千中]].
-The end of the century - [[千末]].
-
+The beginning of the century - [[世紀初]].
+The middle of the century - [[世紀中]].
+The end of the century - [[世紀末]].
 
 ### Eras
 - [[明治]] (1868–1912)   
-- [[大正]] (1912–1926)
+- <ruby>[大正](/words/大正.md)<rt>ㄉㄚ˙ㄐㄧㄥ</rt></ruby> (1912–1926)
 - [[昭和]] (1926–1989)
 - [[平成]] (1989–2019)
 - [[令和]] (2019– )
@@ -133,10 +170,27 @@ The end of the century - [[千末]].
 ## Seasons
 [[四季]] - [[季節]]
 
-- [春](words/春.md) --> [[春分]] — spring equinox
-- [秋](words/秋.md) --> [[秋分]] — autumn equinox
-- [夏](words/夏.md) --> [夏至](words/夏至.md) — summer solstice
-- [冬](words/冬.md) --> [[冬至]] — winter solstice
+- <ruby>[春](/words/春.md)<rt>ㄑㄨㄋ</rt></ruby> --> [[春分]] — spring equinox
+- <ruby>[秋](/words/秋.md)<rt>ㄑㄨˇ</rt></ruby> --> [[秋分]] — autumn equinox
+- <ruby>[夏](/words/夏.md)<rt>ㄏ˙ㄚ</rt></ruby> --> <ruby>[夏至](/words/夏至.md)<rt>ㄏ˙ㄚㄐㄧ˙</rt></ruby> — summer solstice
+- <ruby>[冬](/words/冬.md)<rt>ㄊㄛㄥ</rt></ruby> --> [[冬至]] — winter solstice
+
+Using [[孟]], [[仲]], [[季]] produced an ancient calendar:
+
+|Month|Name|Season|
+|---|---|---|
+|1|孟春|early spring|
+|2|仲春|mid spring|
+|3|季春|late spring|
+|4|孟夏|early summer|
+|5|仲夏|mid summer|
+|6|季夏|late summer|
+|7|孟秋|early autumn|
+|8|仲秋|mid autumn|
+|9|季秋|late autumn|
+|10|孟冬|early winter|
+|11|仲冬|mid winter|
+|12|季冬|late winter|
 
 ## Misc
 - [[休日]] — holiday

@@ -11,6 +11,7 @@ japanese:
   - KON
 japanese_nanori: ""
 vietnamese:
+  - kim
 middle_chinese_initial: k
 middle_chinese_final: ɣiɪm
 stroke_count: 8
