@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: uoŋ
-stroke_count: "7"
+stroke_count: 7
 radical: 攴
 skip_number: 1-3-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - attack
@@ -32,8 +32,9 @@ stand_in: 攻
 aliases:
 注音: ㄍㄛㄥ
 ---
+>[!tip] This is a page about the character.
+>For the word, see [攻](words/攻.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
