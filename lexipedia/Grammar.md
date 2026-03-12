@@ -8,7 +8,7 @@ _the_ and _a_ are not part of Dan'a'yo
 
 ### Comparatives
 - more <ruby>[更](/words/更.md)<rt>ㄍㄚㄥ</rt></ruby>
-- most
+- most <ruby>[最](/words/最.md)<rt>ㄐˇㄝ</rt></ruby>
 - least
 - less
 

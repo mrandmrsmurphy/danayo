@@ -20,6 +20,7 @@ date-last-perfect:
 - <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ˙ㄝㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
 - <ruby>[茫然自失](chengyu/茫然自失.md)<rt>ㄇㄚㄥㄋ˙ㄝㄋㄐㄧ˙ㄙㄧㄊ</rt></ruby> - dazed and confused
 - <ruby>[孤軍奮闘](chengyu/孤軍奮闘.md)<rt>ㄍㄛㄍㄨㄋㄅㄨㄋㄉㄛˇ</rt></ruby> - to fight on alone
+- <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄆㄨㄥㄙㄧㄥㄏㄚㄎㄌ·ㄝ</rt></ruby> - panic attack
 
 
 ## Base check

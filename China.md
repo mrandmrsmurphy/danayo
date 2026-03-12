@@ -1,3 +1,8 @@
+---
+language: 単亜語
+---
+<ruby>[中国](/words/中国.md)<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
+
 - <ruby>[光](/characters/光%20(char).md)<rt>ㄎˇㄚㄥ</rt></ruby><ruby>[緒](/characters/緒.md)<rt>ㄙ˙ㄛ</rt></ruby><ruby>[帝](/characters/帝.md)<rt>ㄊㄝ˙</rt></ruby> — Guangxu Di (1875–1908)
 - <ruby>[慈](/characters/慈.md)<rt>ㄐㄧ</rt></ruby>[[禧]]<ruby>[太](/characters/太%20(char).md)<rt>ㄊㄚ˙</rt></ruby><ruby>[后](/characters/后.md)<rt>ㄏㄛˇ</rt></ruby> — Cíxǐ Tàihòu (ruled effectively 1861–1908)
 - [[溥]]<ruby>[儀](/characters/儀.md)<rt>ˇㄧ</rt></ruby> – Pǔyí, Xuantong Emperor (reigned 1908–1912)
