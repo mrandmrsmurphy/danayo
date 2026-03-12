@@ -1,26 +1,26 @@
 ---
 size: 250
 ---
-1. <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one, unity, whole
-2. <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven, 7
-3. <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> - ten
-4. <ruby>[[九 (char)|九]]<rt>ㄎ˙ㄨ</rt></ruby> - nine, 9
-5. <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby> - enter
-6. <ruby>[[刀]]<rt>ㄊㄚˇ</rt></ruby> - blade, knife
-7. <ruby>[[二 (char)|二]]<rt>ㄋㄧ˙</rt></ruby> - two, 2
-8. <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby> - power, strength
-9. <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby> - eight, 8
-10. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby> - person
-11. <ruby>[[子]]<rt>ㄐㄧ</rt></ruby> - son, child
-12. <ruby>[[之 (char)]]<rt>ㄊㄧ</rt></ruby> - s, which
-13. <ruby>[[已 (char)]]<rt>ㄧ</rt></ruby> - -ed
-14. <ruby>[[与 (char)]]<rt>˙ㄛ</rt></ruby> - and
-15. <ruby>[[大 (char)]]<rt>ㄉㄚ˙</rt></ruby> - big
-16. <ruby>[[三 (char)]]<rt>ㄙㄚㄇ</rt></ruby> - three
-17. <ruby>[[才]]<rt>ㄐㄚ˙</rt></ruby> - talent, ability
-18. <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> - thousand
-19. <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - myriad, ten-thousand
-20. <ruby>[[山 (char)]]<rt>ㄙㄚㄋ</rt></ruby> - mountain
+1. <ruby>[一](characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one, unity, whole
+2. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven, 7
+3. <ruby>[十](characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten
+4. <ruby>[九](characters/九%20(char).md)<rt>ㄎ˙ㄨ</rt></ruby> - nine, 9
+5. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
+6. <ruby>[刀](characters/刀.md)<rt>ㄊㄚˇ</rt></ruby> - blade, knife
+7. <ruby>[二](characters/二%20(char).md)<rt>ㄋㄧ˙</rt></ruby> - two, 2
+8. <ruby>[力](characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power, strength
+9. <ruby>[八](characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, 8
+10. <ruby>[人](characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
+11. <ruby>[子](characters/子.md)<rt>ㄐㄧ</rt></ruby> - son, child
+12. <ruby>[之](characters/之%20(char).md)<rt>ㄊㄧ</rt></ruby> - s, which
+13. <ruby>[已](characters/已%20(char).md)<rt>ㄧ</rt></ruby> - -ed
+14. <ruby>[与](characters/与%20(char).md)<rt>˙ㄛ</rt></ruby> - and
+15. <ruby>[大](characters/大%20(char).md)<rt>ㄉㄚ˙</rt></ruby> - big
+16. <ruby>[三](characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
+17. <ruby>[才](characters/才.md)<rt>ㄐㄚ˙</rt></ruby> - talent, ability
+18. <ruby>[千](characters/千.md)<rt>ㄑㄝㄋ</rt></ruby> - thousand
+19. <ruby>[万](characters/萬.md)<rt>ㄇㄛㄋ</rt></ruby> - myriad, ten-thousand
+20. <ruby>[山](characters/山%20(char).md)<rt>ㄙㄚㄋ</rt></ruby> - mountain
 21. <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - up, above
 22. <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby> - to, DATIVE
 23. <ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby> - small
