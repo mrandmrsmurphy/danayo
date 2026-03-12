@@ -6,9 +6,27 @@ aliases:
 [[筆画]]
 ![forever](images/forever.svg)
 
-1. "dot" or "point" - [点](words/点.md)
-2. “horizontal” "left-to-right" - [[横]] = [[勒]]
-3. “vertical-falling” ([[豎]]) or perpendicular. Notice the initial dot.
+1. "dot" or "point" - [点](words/点.md) or [[側]]
+2. “horizontal” "left-to-right" - [[横]]画 = [[勒]]
+3. “vertical-falling” ([[豎]]画) or perpendicular. Notice the initial dot.  [[弩]]=[[努]]'s come in two kinds
+	1. [[懸]][[針]]豎 - hanging needle crossbow - The tip tapers off into a sharp point at the bottom (like the bottom of the character **中**).
+	2. [[垂]][[露]]豎 - dropping dew crossbow - The bottom is rounded and blunt, looking like a heavy drop of dew clinging to a needle (like the vertical strokes in **門**).
+4. “hook” ([[鉤]]). Some hooks go left, others down = [[趯]]
+5. “flick” ([[提]]=[[挑]]) or up-cutting stroke = [[策]]
+6. “concave” ([彎](characters/弯.md)) or curving path  = [[掠]]
+7. “throw away” ([[撇]]) or left-descending stroke =[[啄]]
+8. “press” ([[捺]]) or right-descending stroke
+
+Writing must be in order:
+- Top to bottom
+- Left to right
+- Horizontal then vertical
+- Outside then inside
+- Fill then close  
+- Left descenders then right
+- Middle, then left, then right
+- Dots at the end
+
 ## Stroke Counts
 **Stroke count/[[筆画数]]** is an ancient way of categorizing hanji, though not a very effective one.  We preserve it hear, though we prefer other methods, namely the SKIP technique.  Rather than delineating within each page by radical, this is the system we prefer.
 
