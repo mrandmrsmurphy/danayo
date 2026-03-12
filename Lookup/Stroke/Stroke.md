@@ -1,21 +1,37 @@
 ---
 aliases:
 ---
-## Strokes
-[[永字八法]]
-[[筆画]]
+## 永字八法
 ![forever](images/forever.svg)
 
+[[筆画]]
 1. "dot" or "point" - [点](words/点.md) or [[側]]
-2. “horizontal” "left-to-right" - [[横]]画 = [[勒]]
-3. “vertical-falling” ([[豎]]画) or perpendicular. Notice the initial dot.  [[弩]]=[[努]]'s come in two kinds
-	1. [[懸]][[針]]豎 - hanging needle crossbow - The tip tapers off into a sharp point at the bottom (like the bottom of the character **中**).
-	2. [[垂]][[露]]豎 - dropping dew crossbow - The bottom is rounded and blunt, looking like a heavy drop of dew clinging to a needle (like the vertical strokes in **門**).
+	1. 瓜子点 - melon-seed dot
+	2. 長点 - long dot
+	3. 挑点 - rising dot
+2. “horizontal” "left-to-right" - [[横]] = [[勒]]
+	1. 平勒
+	2. 仰勒 - A stroke that is slightly concave (curving upward like a smile). This is often used for the top stroke in characters like **五** or **立** to create a sense of stability.
+	3. 俯勒 - A stroke that is slightly convex (curving downward like a rainbow). It is often used for the bottom-most stroke of a character (like the last stroke of **三**) to "cover" or ground the character.
+3. “vertical-falling” ([[豎]]) or perpendicular. Notice the initial dot.  [[努]]'s come in two kinds
+	1. 懸針豎 - hanging needle crossbow - The tip tapers off into a sharp point at the bottom (like the bottom of the character **中**).
+	2. 垂露豎 - dropping dew crossbow - The bottom is rounded and blunt, looking like a heavy drop of dew clinging to a needle (like the vertical strokes in **門**).
 4. “hook” ([[鉤]]). Some hooks go left, others down = [[趯]]
+	1. 左向鉤
+	2. 戈鉤 - scythe hook
+	3. 臥鉤 - lying hook: A flattened, curved hook that looks like someone lying down (seen in the character **心**).
 5. “flick” ([[提]]=[[挑]]) or up-cutting stroke = [[策]]
-6. “concave” ([彎](characters/弯.md)) or curving path  = [[掠]]
+	1. 平提: A rising stroke that is more horizontal, used in the left-side radicals like **土** or **王**.
+	2. 斜提: A more vertical/diagonal rising stroke, often seen in the radical for "Ice" (**冫**).
+6. “concave” ([[弯]]) or curving path  = [[掠]]
+	1. 斜掠: The standard 45-degree long sweep. It maintains a consistent diagonal path (found in characters like **人**).
+	2. 竪撇 (shù piě) - "Vertical Sweep":** This stroke starts out almost perfectly vertical (like a **豎 / 弩**) and only curves out to the left at the very bottom. You see this in the left side of **月** or **用**.
 7. “throw away” ([[撇]]) or left-descending stroke =[[啄]]
-8. “press” ([[捺]]) or right-descending stroke
+	1. 蘭葉撇 - orchid leaf sweep: A long, elegant sweep that starts thin, gets thick in the middle, and ends thin—mimicking an orchid leaf.
+	2. 直撇 - vertical sweep: A sweep that stays more vertical than diagonal before flicking at the very end.
+8. “press” ([[捺]]) or right-descending stroke =[[磔]]
+	1. 方頭捺: A "press" stroke with a very sharp, angular "foot" at the end.
+	2. 圓頭捺: A "press" where the ending is more rounded and soft.
 
 Writing must be in order:
 - Top to bottom
