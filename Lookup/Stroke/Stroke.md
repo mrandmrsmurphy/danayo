@@ -25,7 +25,8 @@ aliases:
 	2. 斜提: A more vertical/diagonal rising stroke, often seen in the radical for "Ice" (**冫**).
 6. “concave” ([[弯]]) or curving path  = [[掠]]
 	1. 斜掠: The standard 45-degree long sweep. It maintains a consistent diagonal path (found in characters like **人**).
-	2. 竪撇 (shù piě) - "Vertical Sweep":** This stroke starts out almost perfectly vertical (like a **豎 / 弩**) and only curves out to the left at the very bottom. You see this in the left side of **月** or **用**.
+	2. 豎掠: This stroke starts out almost perfectly vertical and only curves out to the left at the very bottom. You see this in the left side of **月** or **用**.
+	3. 弧掠: A much more rounded, "bow-like" sweep. This is used when the character needs a softer, more circular flow, often appearing in the "grass" radical (**艹**).
 7. “throw away” ([[撇]]) or left-descending stroke =[[啄]]
 	1. 蘭葉撇 - orchid leaf sweep: A long, elegant sweep that starts thin, gets thick in the middle, and ends thin—mimicking an orchid leaf.
 	2. 直撇 - vertical sweep: A sweep that stays more vertical than diagonal before flicking at the very end.
