@@ -966,7 +966,7 @@ The following prefecture names were added in 2017:
 963. [[縦]] : ju	tate	vertical
 964. [[縮]] : shuku	chidi-mu	shrink
 965. [[署]] : sho	 	government office
-966. [[翌]] : yoku	 	the following
+966. [[characters/翌 (char)]] : yoku	 	the following
 967. [[聖]] : sei	 	holy
 968. [[肺]] : hai	 	lung
 969. [[背]] : hai	se	back

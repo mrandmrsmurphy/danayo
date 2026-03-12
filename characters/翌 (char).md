@@ -29,7 +29,7 @@ hanmun_edu_level: ""
 danayo_id: 8156
 mc_id: 5320
 graphemic_classification: 立
-stand_in: 名専字
+stand_in: 翌
 aliases:
 注音: ㄧㄎ
 ---
