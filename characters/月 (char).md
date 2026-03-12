@@ -68,6 +68,6 @@ swadesh: "148"
 11. [[十一月]] November
 12. [[十二月]] December
 - [[昨月]] last month
-- [[[来月]] next month
+- [[来月]] next month
 - [[満月]] month anniversary
 - [[月刊]] monthly magazine

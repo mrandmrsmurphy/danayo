@@ -10,4 +10,19 @@
 ## Months
 1. <ruby>[一月](/words/一月.md)<rt>ㄧㄊ·ˇㄝㄋ</rt></ruby> - January
 2. <ruby>[二月](/words/二月.md)<rt>ㄋㄧ˙·ˇㄝㄊ</rt></ruby> - February
-3. 
+3. <ruby>[三月](/words/三月.md)<rt>ㄙㄚㄇ·ˇㄝㄋ</rt></ruby> - March
+4. <ruby>[四月](/words/四月.md)<rt>ㄙㄧ˙·ˇㄝㄊ</rt></ruby> - April
+5. <ruby>[五月](/words/五月.md)<rt>ㄛ·ˇㄝㄊ</rt></ruby> - May
+6. <ruby>[六月](/words/六月.md)<rt>ㄌㄨㄎ·ˇㄝㄊ</rt></ruby> - June
+
+## Days of the Month
+1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>
+2. [[二日]]
+3. [[三日]]
+4. [[四日]]
+5. [[五日]]
+6. [[六日]]
+7. [[七日]]
+8. [[八日]]
+9. [[九日]]
+10. [[十日]]

@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: iɪt
-stroke_count: "4"
+stroke_count: 4
 radical: 日
 skip_number: 3-3-1
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - day
