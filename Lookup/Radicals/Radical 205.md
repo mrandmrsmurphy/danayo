@@ -14,6 +14,9 @@ radical: 黽
 - 鼅-->蜘
 - 鼇 --> 鰲
 - 䵹-->蜘
+### Under a different radical
+- [蝿](characters/蝿.md)
+- [縄 (char)](characters/縄%20(char).md)
 
 ## Data check
 ```dataview

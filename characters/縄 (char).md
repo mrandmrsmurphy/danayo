@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d͡ʑ
 middle_chinese_final: ɨŋ
-stroke_count: "15"
+stroke_count: 15
 radical: 糸
 skip_number: 1-6-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - rope
@@ -38,9 +38,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 縄.
 >For the word, see [縄](words/縄.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [[Radical 205]] is part of it
