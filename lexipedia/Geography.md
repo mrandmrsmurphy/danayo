@@ -28,7 +28,7 @@ In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]])
 <ruby>共通<rt>ㄍ˙ㄛㄥㄊㄛㄥ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
 
 ## 東南亜
-<ruby>東南亜<rt>ㄉㄛㄥㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
+<ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄥㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
 The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[島嶼群]]) and straits ([[海峡]]) are common.  
 <ruby>海上<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby><ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>) forms an economic foundation (<ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>基盤<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 

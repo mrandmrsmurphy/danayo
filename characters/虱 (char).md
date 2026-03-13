@@ -5,7 +5,7 @@ cantonese:
   - sat1
 korean:
   - 슬
-korean_native: ""
+korean_native: 이
 japanese:
   - SHITSU
 japanese_nanori:
@@ -32,6 +32,8 @@ graphemic_classification: 卂
 stand_in: 虱
 aliases: 蝨
 注音: ㄙㄛㄊ
+date-last-perfect: 2026-03-13
+品詞: 名詞
 ---
 >[!tip] This is a page about the character 虱.
 >For the word, see [虱](words/虱.md)
@@ -39,5 +41,8 @@ aliases: 蝨
 [[nav/char_info]]
 ```
 ## Notes
-- [[lookup/SKIP/SKIP-3/SKIP-3-1-7]] ([[Stroke 08]]) - [ㄙㄛㄊ](syllables/ㄙㄛㄊ.md)
+- [SKIP-3-1-7](lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄙㄛㄊ](syllables/ㄙㄛㄊ.md)
 - [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md), No HSK, [Hyōgai](lookup/Japanese/Hyōgai.md), [Grade Advanced](lookup/Grade%20Advanced.md)
+
+## Words
+- [[壁虱]] - tick, bedbug

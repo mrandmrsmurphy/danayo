@@ -16,7 +16,7 @@ middle_chinese_final: ɨuk
 stroke_count: 19
 radical: 足
 skip_number: 1-7-12
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - kick
@@ -34,9 +34,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 蹴.
 >For the word, see [蹴](words/蹴.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ˙ㄨ</rt></ruby> - soccer

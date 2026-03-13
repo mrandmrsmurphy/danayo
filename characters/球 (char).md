@@ -40,5 +40,8 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ˙ㄨ</rt></ruby> - soccer
+- 

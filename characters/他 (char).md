@@ -42,7 +42,6 @@ aliases:
   - 沲
 注音: ㄊㄚ
 tags:
-  - determiner
 ---
 >[!tip] This is a page about the character.
 >For the word, see [他](words/他.md)
