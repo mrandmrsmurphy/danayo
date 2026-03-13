@@ -1,12 +1,4 @@
-- [[characters/涜.md]]
-- [[characters/胰.md]]
-- [[characters/薮.md]]
-- [[characters/踝.md]]
-- [[characters/髯.md]]
-
 ## Chengyu
-- [[chengyu/一字千金.md]]
-- [[chengyu/一網打尽.md]]
 - [[chengyu/一衣帯水.md]]
 - [[chengyu/一長一短.md]]
 - [[chengyu/万物生長.md]]
@@ -125,8 +117,6 @@
 - [[chengyu/遠交近攻.md]]
 - [[chengyu/選士唯賢.md]]
 - [[chengyu/邪心常悪.md]]
-- [[chengyu/金科玉律.md]]
-- [[chengyu/銀盤呈首.md]]
 - [[chengyu/鏡花水月.md]]
 - [[chengyu/開天辟地.md]]
 - [[chengyu/阿鼻叫喚.md]]

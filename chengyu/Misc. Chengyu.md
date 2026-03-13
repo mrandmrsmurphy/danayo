@@ -23,6 +23,7 @@ date-last-perfect:
 - <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄆㄨㄥㄙㄧㄥㄏㄚㄎㄌ·ㄝ</rt></ruby> - panic attack
 - <ruby>[空中楼閣](chengyu/空中楼閣.md)<rt>ㄎㄛㄥㄐㄨㄥㄌㄛˇㄍㄚㄎ</rt></ruby> - castle in the sky
 - <ruby>[重文軽武](chengyu/重文軽武.md)<rt>ㄑㄛㄥㄇㄨㄋㄎㄧㄥㄇㄨ</rt></ruby> - weighty culture, light war
+- <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎˇㄙㄎ·˙ㄨㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
 
 
 ## Base check

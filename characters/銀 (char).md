@@ -40,5 +40,9 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+
+## Chengyu
+- <ruby>[銀盤呈首](/chengyu/銀盤呈首.md)<rt>ㄧㄋㄅㄚㄋㄉㄧㄥㄙ˙ㄨ</rt></ruby> - head on a silver platter
