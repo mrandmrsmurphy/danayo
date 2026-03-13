@@ -35,9 +35,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 軛.
 >For the word, see [軛](words/軛.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*qreːɡ): semantic [[Radical 159|車]] (“chariot”) + phonetic [厄](characters/厄.md) (OC \*qreːɡ, “yoke”). 厄 originally referred to this word; 車 was added to differentiate.

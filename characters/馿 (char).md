@@ -33,9 +33,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 馿.
 >For the word, see [馿](words/馿.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*b·ra): semantic [馬](Radical%20187) (“horse”) + phonetic [户](characters/戸.md) (OC \*b·raː).

@@ -39,4 +39,6 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- Descendants: [[択]]
+- Descendants: 
+	- [択](characters/択.md)
+	- [䋇](characters/䋇%20(char).md)

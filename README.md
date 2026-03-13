@@ -26,3 +26,33 @@ See LICENSE for details.
 ## About
 
 Created by **武明帥**, 2016-26.
+
+---
+
+### Internal
+
+The following are not content pages, but "programming"
+
+- [character-template](templates/character-template.md)
+- [chengyu-template](templates/chengyu-template.md)
+- [ruby-word template](templates/ruby-word%20template.md)
+- [ruby-char-template](templates/ruby-char-template.md)
+- [word-template](templates/word-template.md)
+- [char_info](nav/char_info.md)
+- [chengyu_info](nav/chengyu_info.md)
+- [numerals](nav/numerals.md)
+- [word_info](nav/word_info.md)
+
+---
+
+## Delete
+
+The following files are supposed to all be temporary:
+
+- [Syllable Counts](Syllable%20Counts.md)
+- [broken links output](broken%20links%20output.md)
+- [orphaned files output](orphaned%20files%20output.md)
+- [Last Perfect](Last%20Perfect.base)
+- [Char base](characters/Char%20base.base)
+- [All Chengyu Base](chengyu/All%20Chengyu%20Base.base)
+- [Words Base](words/Words%20Base.base)

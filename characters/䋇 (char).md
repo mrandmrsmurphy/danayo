@@ -37,9 +37,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 䋇.
 >For the word, see [䋇](words/䋇.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*laːɡ): semantic [糸](Radical%20120) (“silk”) + phonetic [尺 (char)](characters/尺%20(char).md) (OC \*neb, \*laːɡ, \*kuː).
