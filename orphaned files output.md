@@ -154,7 +154,6 @@
 - [[chengyu/雲昼火夜.md]]
 - [[chengyu/電光石火.md]]
 ## Words
-- [[words/䋇.md]]
 - [[words/一億.md]]
 - [[words/一溝.md]]
 - [[words/丁丁.md]]
