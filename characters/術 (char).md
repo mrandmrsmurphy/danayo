@@ -36,9 +36,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 術.
 >For the word, see [術](words/術.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[巫術](/words/巫術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby> - shamanism

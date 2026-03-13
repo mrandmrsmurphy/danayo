@@ -1,7 +1,8 @@
 ---
 mandarin:
   - shàng
-cantonese: seong6
+cantonese:
+  - seong6
 korean:
   - 상
 korean_native: ""
