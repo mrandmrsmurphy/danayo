@@ -1,4 +1,3 @@
-- [[chengyu/重文軽武.md]]
 - [[chengyu/万物生長.md]]
 - [[chengyu/成家立業.md]]
 - [[chengyu/欲求不満.md]]
@@ -75,7 +74,6 @@
 - [[characters/薮.md]]
 - [[chengyu/虎視耽耽.md]]
 - [[characters/腽.md]]
-- [[words/儒学.md]]
 - [[chengyu/一衣帯水.md]]
 - [[characters/蝿.md]]
 - [[chengyu/言行一致.md]]

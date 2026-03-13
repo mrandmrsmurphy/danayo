@@ -22,6 +22,7 @@ date-last-perfect:
 - <ruby>[孤軍奮闘](chengyu/孤軍奮闘.md)<rt>ㄍㄛㄍㄨㄋㄅㄨㄋㄉㄛˇ</rt></ruby> - to fight on alone
 - <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄆㄨㄥㄙㄧㄥㄏㄚㄎㄌ·ㄝ</rt></ruby> - panic attack
 - <ruby>[空中楼閣](chengyu/空中楼閣.md)<rt>ㄎㄛㄥㄐㄨㄥㄌㄛˇㄍㄚㄎ</rt></ruby> - castle in the sky
+- <ruby>[重文軽武](chengyu/重文軽武.md)<rt>ㄑㄛㄥㄇㄨㄋㄎㄧㄥㄇㄨ</rt></ruby> - weighty culture, light war
 
 
 ## Base check

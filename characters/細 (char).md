@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: ei
-stroke_count: "11"
+stroke_count: 11
 radical: 糸
 skip_number: 1-6-5
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - fine

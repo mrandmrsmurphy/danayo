@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: en
-stroke_count: "6"
+stroke_count: 6
 radical: 干
 skip_number: 2-2-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - year

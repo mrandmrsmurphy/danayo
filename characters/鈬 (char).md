@@ -33,9 +33,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 鈬.
 >For the word, see [鈬](words/鈬.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*l'aːɡ): semantic [金](Radical%20167) (“metal”) + phonetic [尺 (char)](characters/尺%20(char).md) (OC \*neb, \*laːɡ, \*kuː).

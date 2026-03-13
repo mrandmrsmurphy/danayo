@@ -18,9 +18,10 @@ views:
       - graphemic_classification
       - pos
       - formula.score
-      - middle_chinese_initial
-      - middle_chinese_final
+      - grade_level
     sort:
+      - property: grade_level
+        direction: ASC
       - property: middle_chinese_final
         direction: ASC
       - property: middle_chinese_initial
@@ -56,8 +57,6 @@ views:
       - property: cantonese
         direction: ASC
       - property: mandarin
-        direction: ASC
-      - property: grade_level
         direction: ASC
       - property: file.name
         direction: ASC
