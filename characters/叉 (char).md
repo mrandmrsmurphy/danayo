@@ -22,6 +22,7 @@ pos: ""
 english:
   - fork
   - prong
+  - tine
 羅馬字: cai
 韓文: 채
 joyo_level: 日本人名用漢字

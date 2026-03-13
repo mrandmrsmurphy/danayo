@@ -35,9 +35,12 @@ aliases:
 ---
 >[!tip] This is a page about the character 石.
 >For the word, see [石](words/石.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+
+## Words
+- <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium
+- 
