@@ -44,7 +44,7 @@ aliases:
 
 # Notes
 - As in Japanese, we officially merge 聯 into this character.  Hence, we find words like
-	- [[連合]] not 聯合
+	- [[words/連合]] not 聯合
 	- [[連盟]] not 聯盟
 	- [[国連]] not 國聯
 	- [[連邦]] not 聯邦

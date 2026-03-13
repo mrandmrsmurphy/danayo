@@ -39,9 +39,9 @@ If the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> cannot be divided, the first 
 	15. [SKIP-2-15](lookup/SKIP/SKIP-2/SKIP-2-15.md)
 3. These are character where there is a "surround-er", a box or loop which does more than just hover above or to the left, but hems in the rest of the character on two-or-more sides.  Below are the number of strokes possible for the surrounding material:
 	1. [SKIP-3-1](lookup/SKIP/SKIP-3/SKIP-3-1.md)
-	2. [[SKIP-3-2]]
-	3. [[SKIP-3-3]]
-	4. [[SKIP-3-4]]
+	2. [SKIP-3-2](lookup/SKIP/SKIP-3/SKIP-3-2.md)
+	3. [SKIP-3-3](lookup/SKIP/SKIP-3/SKIP-3-3.md)
+	4. [SKIP-3-4](lookup/SKIP/SKIP-3/SKIP-3-4.md)
 	5. [SKIP-3-5](lookup/SKIP/SKIP-3/SKIP-3-5.md)
 	6. [SKIP-3-6](lookup/SKIP/SKIP-3/SKIP-3-6.md)
 	7. [SKIP-3-7](lookup/SKIP/SKIP-3/SKIP-3-7.md)

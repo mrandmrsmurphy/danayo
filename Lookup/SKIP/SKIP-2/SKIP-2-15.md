@@ -4,7 +4,7 @@ date-last-perfect:
 > [SKIP](lookup/SKIP/SKIP.md) : 2 :
 
 ## Characters
-1. [[SKIP-2-15-2]]
+1. [[lookup/SKIP/SKIP-2/SKIP-2-15-2]]
 
 ## Base check
 ```base

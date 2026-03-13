@@ -88,7 +88,7 @@
 - [[characters/蝠.md]]
 - [[words/幼稚園.md]]
 - [[characters/蝙.md]]
-- [[characters/頬.md]]
+- [[characters/頬 (char)]]
 - [[words/満洲.md]]
 - [[characters/蝓.md]]
 - [[chengyu/沈魚落雁.md]]

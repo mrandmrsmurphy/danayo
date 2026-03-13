@@ -956,7 +956,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1979. [[貌]] : appearance 
 1980. [[膨]] : swell
 1981. [謀 (char)](characters/謀%20(char).md) : conspire
-1982. [頰](頬) : 	cheek
+1982. [頰](words/頬.md) : 	cheek
 1983. [[朴]] : crude
 1984. [[睦]] : harmonious
 1985. [[僕]] : me

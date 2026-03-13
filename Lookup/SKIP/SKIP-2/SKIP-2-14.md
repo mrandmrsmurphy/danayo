@@ -1,13 +1,13 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-03-13
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 2 :
 
 1. no
-2. [[SKIP-2-14-2]]: 興
-3. [[SKIP-2-14-3]]: 嬰
-4. [[SKIP-2-14-4]]: 懲
-5. [[SKIP-2-14-5]]: 璽, 㽉
+2. [SKIP-2-14-2](lookup/SKIP/SKIP-2/SKIP-2-14-2.md): 興
+3. [SKIP-2-14-3](lookup/SKIP/SKIP-2/SKIP-2-14-3.md): 嬰
+4. [SKIP-2-14-4](lookup/SKIP/SKIP-2/SKIP-2-14-4.md): 懲
+5. [SKIP-2-14-5](lookup/SKIP/SKIP-2/SKIP-2-14-5.md): 璽, 㽉
 
 ## Base check
 ```base
