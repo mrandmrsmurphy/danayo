@@ -31,6 +31,9 @@ stand_in: 柳
 aliases:
 注音: ㄌ˙ㄨ
 ---
+>[!tip] This is a page about the character 柳.
+>For the word, see [柳](words/柳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

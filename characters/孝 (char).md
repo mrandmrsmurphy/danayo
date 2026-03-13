@@ -32,6 +32,9 @@ stand_in: 孝
 aliases:
 注音: ㄏ˙ㄚˇ
 ---
+>[!tip] This is a page about the character 孝.
+>For the word, see [孝](words/孝.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

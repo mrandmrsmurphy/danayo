@@ -33,6 +33,9 @@ stand_in: 快
 aliases:
 注音: ㄎˇㄚ˙
 ---
+>[!tip] This is a page about the character 快.
+>For the word, see [快](words/快.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

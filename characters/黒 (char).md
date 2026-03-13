@@ -31,6 +31,9 @@ aliases:
   - 黑
 注音: ㄏㄨㄎ
 ---
+>[!tip] This is a page about the character 黒.
+>For the word, see [黒](words/黒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

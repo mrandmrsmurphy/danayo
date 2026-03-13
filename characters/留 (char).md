@@ -35,6 +35,9 @@ aliases:
   - 畱
 注音: ㄌ˙ㄨ
 ---
+>[!tip] This is a page about the character 留.
+>For the word, see [留](words/留.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 追
 aliases:
 注音: ㄊㄨ˙
 ---
+>[!tip] This is a page about the character 追.
+>For the word, see [追](words/追.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

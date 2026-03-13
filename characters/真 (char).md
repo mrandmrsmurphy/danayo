@@ -32,6 +32,9 @@ aliases:
   - 眞
 注音: ㄐㄧㄋ
 ---
+>[!tip] This is a page about the character 真.
+>For the word, see [真](words/真.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

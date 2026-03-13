@@ -32,6 +32,9 @@ stand_in: 矢
 aliases:
 注音: ㄙㄧ˙
 ---
+>[!tip] This is a page about the character 矢.
+>For the word, see [矢](words/矢.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

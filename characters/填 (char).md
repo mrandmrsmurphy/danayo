@@ -33,6 +33,9 @@ aliases:
   - 塡
 注音: ㄉㄝㄋ
 ---
+>[!tip] This is a page about the character 填.
+>For the word, see [填](words/填.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

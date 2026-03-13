@@ -34,6 +34,9 @@ stand_in: 摘
 aliases:
 注音: ㄉㄚㄎ
 ---
+>[!tip] This is a page about the character 摘.
+>For the word, see [摘](words/摘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

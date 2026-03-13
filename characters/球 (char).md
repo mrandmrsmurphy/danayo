@@ -34,6 +34,9 @@ aliases:
   - 毬
 注音: ㄍ˙ㄨ
 ---
+>[!tip] This is a page about the character 球.
+>For the word, see [球](words/球.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

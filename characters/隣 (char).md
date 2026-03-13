@@ -33,6 +33,9 @@ aliases:
   - 鄰
 注音: ㄌㄧㄋ
 ---
+>[!tip] This is a page about the character 隣.
+>For the word, see [隣](words/隣.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 吓
 注音: ㄏㄚㄎ
 ---
+>[!tip] This is a page about the character 嚇.
+>For the word, see [嚇](words/嚇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

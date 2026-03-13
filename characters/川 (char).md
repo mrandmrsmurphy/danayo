@@ -34,6 +34,9 @@ aliases:
   - 巛
 注音: ㄑㄝㄋ
 ---
+>[!tip] This is a page about the character 川.
+>For the word, see [川](words/川.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

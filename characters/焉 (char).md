@@ -34,6 +34,9 @@ aliases:
   - 嫣
 注音: ㄝㄋ
 ---
+>[!tip] This is a page about the character 焉.
+>For the word, see [焉](words/焉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

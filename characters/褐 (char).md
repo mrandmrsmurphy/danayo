@@ -35,6 +35,9 @@ aliases:
   - 竭
 注音: ㄏㄚㄊ
 ---
+>[!tip] This is a page about the character 褐.
+>For the word, see [褐](words/褐.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

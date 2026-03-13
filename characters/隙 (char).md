@@ -34,6 +34,9 @@ stand_in: 隙
 aliases:
 注音: ㄎㄝㄎ
 ---
+>[!tip] This is a page about the character 隙.
+>For the word, see [隙](words/隙.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

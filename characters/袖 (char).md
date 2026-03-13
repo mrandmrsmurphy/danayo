@@ -31,6 +31,9 @@ stand_in: 袖
 aliases:
 注音: ㄙㄨˇ
 ---
+>[!tip] This is a page about the character 袖.
+>For the word, see [袖](words/袖.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

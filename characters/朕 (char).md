@@ -33,6 +33,9 @@ stand_in: 朕
 aliases:
 注音: ㄐㄨㄇ
 ---
+>[!tip] This is a page about the character 朕.
+>For the word, see [朕](words/朕.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

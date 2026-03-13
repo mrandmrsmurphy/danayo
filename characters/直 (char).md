@@ -34,6 +34,9 @@ stand_in: 直
 aliases:
 注音: ㄐㄧㄊ
 ---
+>[!tip] This is a page about the character 直.
+>For the word, see [直](words/直.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

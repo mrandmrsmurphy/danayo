@@ -33,6 +33,9 @@ aliases:
   - 络
 注音: ㄌㄚㄎ
 ---
+>[!tip] This is a page about the character 絡.
+>For the word, see [絡](words/絡.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

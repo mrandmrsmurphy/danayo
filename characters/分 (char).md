@@ -34,6 +34,9 @@ aliases:
   - 份
 注音: ㄅㄨㄋ
 ---
+>[!tip] This is a page about the character 分.
+>For the word, see [分](words/分.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

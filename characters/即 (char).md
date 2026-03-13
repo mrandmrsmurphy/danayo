@@ -36,6 +36,9 @@ aliases:
   - 卽
 注音: ㄐㄧㄎ
 ---
+>[!tip] This is a page about the character 即.
+>For the word, see [即](words/即.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

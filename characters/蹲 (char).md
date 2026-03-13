@@ -33,6 +33,9 @@ stand_in: 蹲
 aliases:
 注音: ㄐㄛㄋ
 ---
+>[!tip] This is a page about the character 蹲.
+>For the word, see [蹲](words/蹲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

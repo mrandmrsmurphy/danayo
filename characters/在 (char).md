@@ -31,6 +31,9 @@ stand_in: 在
 aliases:
 注音: ㄐㄚ˙
 ---
+>[!tip] This is a page about the character 在.
+>For the word, see [在](words/在.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

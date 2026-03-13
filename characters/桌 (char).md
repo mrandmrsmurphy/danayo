@@ -27,6 +27,9 @@ aliases:
   - 槕
 注音: ㄊㄚㄎ
 ---
+>[!tip] This is a page about the character 桌.
+>For the word, see [桌](words/桌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

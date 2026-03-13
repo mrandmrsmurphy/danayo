@@ -32,6 +32,9 @@ aliases:
   - 凛
 注音: ㄌㄨㄇ
 ---
+>[!tip] This is a page about the character 凜.
+>For the word, see [凜](words/凜.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 茧
 注音: ㄍ˙ㄝㄥ
 ---
+>[!tip] This is a page about the character 繭.
+>For the word, see [繭](words/繭.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

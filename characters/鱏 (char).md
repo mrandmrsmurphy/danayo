@@ -38,6 +38,9 @@ aliases:
   - 鰩
 注音: ㄏㄧㄇ
 ---
+>[!tip] This is a page about the character 鱏.
+>For the word, see [鱏](words/鱏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 飒
 注音: ㄙㄚㄆ
 ---
+>[!tip] This is a page about the character 颯.
+>For the word, see [颯](words/颯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

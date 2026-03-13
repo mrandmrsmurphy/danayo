@@ -34,6 +34,9 @@ aliases:
   - 亩
 注音: ㄇㄛˇ
 ---
+>[!tip] This is a page about the character 畝.
+>For the word, see [畝](words/畝.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

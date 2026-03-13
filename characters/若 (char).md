@@ -32,6 +32,9 @@ stand_in: 若
 aliases:
 注音: ㄋ˙ㄚ
 ---
+>[!tip] This is a page about the character 若.
+>For the word, see [若](words/若.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

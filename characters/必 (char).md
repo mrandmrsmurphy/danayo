@@ -31,6 +31,9 @@ stand_in: 必
 aliases:
 注音: ㄅㄧㄊ
 ---
+>[!tip] This is a page about the character 必.
+>For the word, see [必](words/必.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

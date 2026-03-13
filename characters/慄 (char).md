@@ -34,6 +34,9 @@ aliases:
   - 栗
 注音: ㄌㄧㄊ
 ---
+>[!tip] This is a page about the character 慄.
+>For the word, see [慄](words/慄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

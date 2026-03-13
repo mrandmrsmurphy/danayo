@@ -35,6 +35,9 @@ aliases:
   - 雙
 注音: ㄙˇㄚㄥ
 ---
+>[!tip] This is a page about the character 双.
+>For the word, see [双](words/双.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

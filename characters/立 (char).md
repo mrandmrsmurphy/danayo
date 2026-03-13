@@ -32,6 +32,9 @@ stand_in: 立
 aliases:
 注音: ㄌㄧㄆ
 ---
+>[!tip] This is a page about the character 立.
+>For the word, see [立](words/立.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

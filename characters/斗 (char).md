@@ -35,6 +35,9 @@ aliases:
   - 鬥
 注音: ㄉㄛˇ
 ---
+>[!tip] This is a page about the character 斗.
+>For the word, see [斗](words/斗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

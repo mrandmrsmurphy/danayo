@@ -32,6 +32,9 @@ aliases:
   - 麵
 注音: ㄇㄝㄋ
 ---
+>[!tip] This is a page about the character 麺.
+>For the word, see [麺](words/麺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

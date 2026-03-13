@@ -41,6 +41,9 @@ aliases:
   - 䥆
 注音: ㄍㄨㄇ
 ---
+>[!tip] This is a page about the character 琴.
+>For the word, see [琴](words/琴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

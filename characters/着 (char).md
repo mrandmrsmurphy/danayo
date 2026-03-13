@@ -34,6 +34,9 @@ aliases:
   - 著
 注音: ㄐˇㄚㄎ
 ---
+>[!tip] This is a page about the character 着.
+>For the word, see [着](words/着.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -35,6 +35,9 @@ aliases:
   - 巷
 注音: ㄍˇㄝㄋ
 ---
+>[!tip] This is a page about the character 巻.
+>For the word, see [巻](words/巻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 罪
 aliases:
 注音: ㄐㄛ˙
 ---
+>[!tip] This is a page about the character 罪.
+>For the word, see [罪](words/罪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

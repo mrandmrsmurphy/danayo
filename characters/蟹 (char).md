@@ -31,6 +31,9 @@ stand_in: 蟹
 aliases:
 注音: ㄏ˙ㄚ˙
 ---
+>[!tip] This is a page about the character 蟹.
+>For the word, see [蟹](words/蟹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

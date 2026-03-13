@@ -33,6 +33,9 @@ stand_in: 堪
 aliases:
 注音: ㄎㄚㄇ
 ---
+>[!tip] This is a page about the character 堪.
+>For the word, see [堪](words/堪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

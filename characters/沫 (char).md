@@ -35,6 +35,9 @@ stand_in: 沫
 aliases:
 注音: ㄇㄚㄊ
 ---
+>[!tip] This is a page about the character 沫.
+>For the word, see [沫](words/沫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

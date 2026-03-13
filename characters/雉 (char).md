@@ -32,6 +32,9 @@ stand_in: 雉
 aliases:
 注音: ㄉㄧ˙
 ---
+>[!tip] This is a page about the character 雉.
+>For the word, see [雉](words/雉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

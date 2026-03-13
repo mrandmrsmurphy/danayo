@@ -31,6 +31,9 @@ stand_in: 更
 aliases:
 注音: ㄍㄚㄥ
 ---
+>[!tip] This is a page about the character 更.
+>For the word, see [更](words/更.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

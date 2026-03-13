@@ -32,6 +32,9 @@ stand_in: 引
 aliases:
 注音: ㄧㄋ
 ---
+>[!tip] This is a page about the character 引.
+>For the word, see [引](words/引.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

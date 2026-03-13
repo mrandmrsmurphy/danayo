@@ -31,6 +31,9 @@ stand_in: 虱
 aliases:
 注音: ㄙㄛㄊ
 ---
+>[!tip] This is a page about the character 虱.
+>For the word, see [虱](words/虱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

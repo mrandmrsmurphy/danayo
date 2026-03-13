@@ -31,6 +31,9 @@ stand_in: 年
 aliases:
 注音: ㄋㄝㄋ
 ---
+>[!tip] This is a page about the character 年.
+>For the word, see [年](words/年.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

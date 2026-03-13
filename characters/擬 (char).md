@@ -33,6 +33,9 @@ aliases:
   - 拟
 注音: ㄧ
 ---
+>[!tip] This is a page about the character 擬.
+>For the word, see [擬](words/擬.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

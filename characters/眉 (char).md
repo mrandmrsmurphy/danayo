@@ -34,6 +34,9 @@ aliases:
   - 嵋
 注音: ㄇㄧ˙
 ---
+>[!tip] This is a page about the character 眉.
+>For the word, see [眉](words/眉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

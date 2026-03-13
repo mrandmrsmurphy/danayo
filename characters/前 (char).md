@@ -35,6 +35,9 @@ aliases:
   - 揃
 注音: ㄐㄝㄋ
 ---
+>[!tip] This is a page about the character 前.
+>For the word, see [前](words/前.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

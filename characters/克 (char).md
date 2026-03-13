@@ -33,6 +33,9 @@ aliases:
   - 剋
 注音: ㄎㄨㄎ
 ---
+>[!tip] This is a page about the character 克.
+>For the word, see [克](words/克.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

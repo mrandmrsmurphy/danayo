@@ -31,6 +31,9 @@ stand_in: 俗
 aliases:
 注音: ㄙㄛㄎ
 ---
+>[!tip] This is a page about the character 俗.
+>For the word, see [俗](words/俗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

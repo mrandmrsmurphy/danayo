@@ -31,6 +31,9 @@ stand_in: 短
 aliases:
 注音: ㄉˇㄚㄋ
 ---
+>[!tip] This is a page about the character 短.
+>For the word, see [短](words/短.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

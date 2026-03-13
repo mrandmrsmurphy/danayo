@@ -33,6 +33,9 @@ aliases:
   - 奌
 注音: ㄉㄝㄇ
 ---
+>[!tip] This is a page about the character 点.
+>For the word, see [点](words/点.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

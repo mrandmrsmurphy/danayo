@@ -34,6 +34,9 @@ aliases:
   - 經
 注音: ㄍㄝㄥ
 ---
+>[!tip] This is a page about the character 経.
+>For the word, see [経](words/経.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 舌
 aliases:
 注音: ㄙㄝㄊ
 ---
+>[!tip] This is a page about the character 舌.
+>For the word, see [舌](words/舌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

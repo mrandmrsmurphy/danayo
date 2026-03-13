@@ -37,6 +37,9 @@ aliases:
   - 奛
 注音: ㄇ˙ㄝㄥ
 ---
+>[!tip] This is a page about the character 明.
+>For the word, see [明](words/明.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

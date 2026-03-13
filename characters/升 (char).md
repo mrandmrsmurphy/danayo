@@ -32,6 +32,9 @@ stand_in: 升
 aliases:
 注音: ㄙㄨㄥ
 ---
+>[!tip] This is a page about the character 升.
+>For the word, see [升](words/升.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

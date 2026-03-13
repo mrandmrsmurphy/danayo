@@ -34,6 +34,9 @@ aliases:
   - 冭
 注音: ㄊㄚ˙
 ---
+>[!tip] This is a page about the character 太.
+>For the word, see [太](words/太.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

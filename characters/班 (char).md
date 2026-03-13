@@ -33,6 +33,9 @@ stand_in: 班
 aliases:
 注音: ㄆㄚㄋ
 ---
+>[!tip] This is a page about the character 班.
+>For the word, see [班](words/班.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

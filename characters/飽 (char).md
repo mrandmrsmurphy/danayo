@@ -35,6 +35,9 @@ aliases:
   - 饱
 注音: ㄅ˙ㄚˇ
 ---
+>[!tip] This is a page about the character 飽.
+>For the word, see [飽](words/飽.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

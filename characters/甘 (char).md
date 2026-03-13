@@ -31,6 +31,9 @@ stand_in: 甘
 aliases:
 注音: ㄍㄚㄇ
 ---
+>[!tip] This is a page about the character 甘.
+>For the word, see [甘](words/甘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

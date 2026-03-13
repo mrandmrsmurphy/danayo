@@ -31,6 +31,9 @@ stand_in: 汗
 aliases:
 注音: ㄏㄚㄋ
 ---
+>[!tip] This is a page about the character 汗.
+>For the word, see [汗](words/汗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 挂
 注音: ㄍˇㄚ˙
 ---
+>[!tip] This is a page about the character 掛.
+>For the word, see [掛](words/掛.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 棺
 aliases:
 注音: ㄍˇㄚㄋ
 ---
+>[!tip] This is a page about the character 棺.
+>For the word, see [棺](words/棺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

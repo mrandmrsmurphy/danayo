@@ -32,6 +32,9 @@ stand_in: 禾
 aliases:
 注音: ㄏˇㄚ
 ---
+>[!tip] This is a page about the character 禾.
+>For the word, see [禾](words/禾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

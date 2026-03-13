@@ -31,6 +31,9 @@ stand_in: 敷
 aliases:
 注音: ㄆㄨ
 ---
+>[!tip] This is a page about the character 敷.
+>For the word, see [敷](words/敷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

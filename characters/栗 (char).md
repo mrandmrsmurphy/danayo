@@ -33,6 +33,9 @@ aliases:
   - 栗
 注音: ㄌㄧㄊ
 ---
+>[!tip] This is a page about the character 栗.
+>For the word, see [栗](words/栗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

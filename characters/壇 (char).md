@@ -33,6 +33,9 @@ aliases:
   - 坛
 注音: ㄉㄚㄋ
 ---
+>[!tip] This is a page about the character 壇.
+>For the word, see [壇](words/壇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -25,6 +25,9 @@ graphemic_classification: 辟
 stand_in: 壁
 注音: ㄅㄝㄎ
 ---
+>[!tip] This is a page about the character 壁.
+>For the word, see [壁](words/壁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

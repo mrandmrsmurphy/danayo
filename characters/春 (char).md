@@ -31,6 +31,9 @@ stand_in: 春
 aliases:
 注音: ㄑㄨㄋ
 ---
+>[!tip] This is a page about the character 春.
+>For the word, see [春](words/春.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 报
 注音: ㄅㄚˇ
 ---
+>[!tip] This is a page about the character 報.
+>For the word, see [報](words/報.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

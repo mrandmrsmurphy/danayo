@@ -33,6 +33,9 @@ stand_in: 佳
 aliases:
 注音: ㄍ˙ㄚ˙
 ---
+>[!tip] This is a page about the character 佳.
+>For the word, see [佳](words/佳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

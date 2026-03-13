@@ -32,6 +32,9 @@ stand_in: 捕
 aliases:
 注音: ㄅㄛ
 ---
+>[!tip] This is a page about the character 捕.
+>For the word, see [捕](words/捕.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

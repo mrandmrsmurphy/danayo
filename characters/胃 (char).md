@@ -32,6 +32,9 @@ stand_in: 胃
 aliases:
 注音: ㄨ˙
 ---
+>[!tip] This is a page about the character 胃.
+>For the word, see [胃](words/胃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

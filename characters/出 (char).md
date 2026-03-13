@@ -34,6 +34,9 @@ aliases:
   - 齣
 注音: ㄑㄨㄊ
 ---
+>[!tip] This is a page about the character 出.
+>For the word, see [出](words/出.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

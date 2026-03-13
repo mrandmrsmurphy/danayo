@@ -33,6 +33,9 @@ aliases:
   - 衊
 注音: ㄇㄝㄊ
 ---
+>[!tip] This is a page about the character 蔑.
+>For the word, see [蔑](words/蔑.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

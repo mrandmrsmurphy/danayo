@@ -32,6 +32,9 @@ stand_in: 去
 aliases:
 注音: ㄎ˙ㄛ
 ---
+>[!tip] This is a page about the character 去.
+>For the word, see [去](words/去.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

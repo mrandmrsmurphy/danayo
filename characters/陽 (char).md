@@ -32,6 +32,9 @@ aliases:
   - 阳
 注音: ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 陽.
+>For the word, see [陽](words/陽.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

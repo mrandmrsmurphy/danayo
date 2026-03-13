@@ -33,6 +33,9 @@ aliases:
   - 滚
 注音: ㄍˇㄚㄋ
 ---
+>[!tip] This is a page about the character 滾.
+>For the word, see [滾](words/滾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ aliases:
   - 險
 注音: ㄏㄝㄇ
 ---
+>[!tip] This is a page about the character 険.
+>For the word, see [険](words/険.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

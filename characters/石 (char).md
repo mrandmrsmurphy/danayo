@@ -33,6 +33,9 @@ stand_in: 石
 aliases:
 注音: ㄙㄝㄎ
 ---
+>[!tip] This is a page about the character 石.
+>For the word, see [石](words/石.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 淺
 注音: ㄑㄝㄋ
 ---
+>[!tip] This is a page about the character 浅.
+>For the word, see [浅](words/浅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

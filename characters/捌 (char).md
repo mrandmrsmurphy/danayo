@@ -34,6 +34,9 @@ stand_in: 捌
 aliases:
 注音: ㄅㄚㄊ
 ---
+>[!tip] This is a page about the character 捌.
+>For the word, see [捌](words/捌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

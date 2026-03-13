@@ -31,6 +31,9 @@ stand_in: 汀
 aliases:
 注音: ㄊㄝㄥ
 ---
+>[!tip] This is a page about the character 汀.
+>For the word, see [汀](words/汀.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

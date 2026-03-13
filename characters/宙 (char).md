@@ -31,6 +31,9 @@ stand_in: 宙
 aliases:
 注音: ㄐㄨˇ
 ---
+>[!tip] This is a page about the character 宙.
+>For the word, see [宙](words/宙.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

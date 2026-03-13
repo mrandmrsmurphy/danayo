@@ -32,6 +32,9 @@ stand_in: 撇
 aliases:
 注音: ㄆㄝㄊ
 ---
+>[!tip] This is a page about the character 撇.
+>For the word, see [撇](words/撇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

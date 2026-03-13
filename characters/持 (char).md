@@ -33,6 +33,9 @@ aliases:
   - 恃
 注音: ㄉㄧ
 ---
+>[!tip] This is a page about the character 持.
+>For the word, see [持](words/持.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

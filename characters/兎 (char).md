@@ -33,6 +33,9 @@ aliases:
   - 兔
 注音: ㄊㄛ
 ---
+>[!tip] This is a page about the character 兎.
+>For the word, see [兎](words/兎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

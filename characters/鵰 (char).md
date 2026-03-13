@@ -33,6 +33,9 @@ aliases:
   - 𫛲
 注音: ㄑㄨˇ
 ---
+>[!tip] This is a page about the character 鵰.
+>For the word, see [鵰](words/鵰.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

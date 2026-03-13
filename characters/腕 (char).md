@@ -32,6 +32,9 @@ stand_in: 腕
 aliases:
 注音: ˇㄚㄋ
 ---
+>[!tip] This is a page about the character 腕.
+>For the word, see [腕](words/腕.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

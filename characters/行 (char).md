@@ -34,6 +34,9 @@ stand_in: 行
 aliases:
 注音: ㄏㄚㄥ
 ---
+>[!tip] This is a page about the character 行.
+>For the word, see [行](words/行.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

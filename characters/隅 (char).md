@@ -34,6 +34,9 @@ stand_in: 隅
 aliases:
 注音: ㄨˇ
 ---
+>[!tip] This is a page about the character 隅.
+>For the word, see [隅](words/隅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

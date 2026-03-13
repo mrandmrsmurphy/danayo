@@ -33,6 +33,9 @@ stand_in: 足
 aliases:
 注音: ㄐㄛㄎ
 ---
+>[!tip] This is a page about the character 足.
+>For the word, see [足](words/足.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

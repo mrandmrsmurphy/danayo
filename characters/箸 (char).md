@@ -32,6 +32,9 @@ stand_in: 箸
 aliases:
 注音: ㄉˇㄚ
 ---
+>[!tip] This is a page about the character 箸.
+>For the word, see [箸](words/箸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

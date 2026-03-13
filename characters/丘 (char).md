@@ -32,6 +32,9 @@ aliases:
   - 㐀
 注音: ㄎ˙ㄨ
 ---
+>[!tip] This is a page about the character 丘.
+>For the word, see [丘](words/丘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

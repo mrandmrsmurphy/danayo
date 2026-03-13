@@ -33,6 +33,9 @@ aliases:
   - 寻
 注音: ㄙㄧㄇ
 ---
+>[!tip] This is a page about the character 尋.
+>For the word, see [尋](words/尋.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

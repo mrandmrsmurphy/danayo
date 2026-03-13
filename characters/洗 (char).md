@@ -32,6 +32,9 @@ stand_in: 洗
 aliases:
 注音: ㄙㄝㄋ
 ---
+>[!tip] This is a page about the character 洗.
+>For the word, see [洗](words/洗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 颐
 注音: ㄧ
 ---
+>[!tip] This is a page about the character 頤.
+>For the word, see [頤](words/頤.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

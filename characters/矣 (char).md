@@ -32,6 +32,9 @@ aliases:
   - 欸
 注音: ㄝ˙
 ---
+>[!tip] This is a page about the character 矣.
+>For the word, see [矣](words/矣.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

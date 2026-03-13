@@ -31,6 +31,9 @@ stand_in: 橘
 aliases:
 注音: ㄍ˙ㄨㄊ
 ---
+>[!tip] This is a page about the character 橘.
+>For the word, see [橘](words/橘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

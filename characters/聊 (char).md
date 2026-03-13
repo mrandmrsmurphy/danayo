@@ -31,6 +31,9 @@ stand_in: 聊
 aliases:
 注音: ㄌ˙ㄚˇ
 ---
+>[!tip] This is a page about the character 聊.
+>For the word, see [聊](words/聊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

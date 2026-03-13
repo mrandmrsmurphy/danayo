@@ -34,6 +34,9 @@ aliases:
   - 瀰
 注音: ㄇㄝ
 ---
+>[!tip] This is a page about the character 弥.
+>For the word, see [弥](words/弥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

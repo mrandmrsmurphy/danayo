@@ -31,6 +31,9 @@ stand_in: 糖
 aliases:
 注音: ㄉˇㄚㄥ
 ---
+>[!tip] This is a page about the character 糖.
+>For the word, see [糖](words/糖.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

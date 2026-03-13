@@ -33,6 +33,9 @@ aliases:
   - 鬻
 注音: ㄐㄨㄎ
 ---
+>[!tip] This is a page about the character 粥.
+>For the word, see [粥](words/粥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

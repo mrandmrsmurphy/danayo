@@ -31,6 +31,9 @@ stand_in: 菊
 aliases:
 注音: ㄍㄨㄎ
 ---
+>[!tip] This is a page about the character 菊.
+>For the word, see [菊](words/菊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

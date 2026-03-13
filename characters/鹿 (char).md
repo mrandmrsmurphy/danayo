@@ -31,6 +31,9 @@ stand_in: 鹿
 aliases:
 注音: ㄌㄛㄎ
 ---
+>[!tip] This is a page about the character 鹿.
+>For the word, see [鹿](words/鹿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

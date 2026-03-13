@@ -34,6 +34,9 @@ aliases:
   - 𨺓
 注音: ㄌㄨㄥ
 ---
+>[!tip] This is a page about the character 隆.
+>For the word, see [隆](words/隆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

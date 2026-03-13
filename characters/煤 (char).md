@@ -33,6 +33,9 @@ stand_in: 煤
 aliases:
 注音: ㄇㄛ˙
 ---
+>[!tip] This is a page about the character 煤.
+>For the word, see [煤](words/煤.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

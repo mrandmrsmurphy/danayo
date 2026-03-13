@@ -34,6 +34,9 @@ aliases:
   - 哪
 注音: ㄋㄚ
 ---
+>[!tip] This is a page about the character 那.
+>For the word, see [那](words/那.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

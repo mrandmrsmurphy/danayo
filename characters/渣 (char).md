@@ -34,6 +34,9 @@ stand_in: 渣
 aliases:
 注音: ㄐˇㄚ
 ---
+>[!tip] This is a page about the character 渣.
+>For the word, see [渣](words/渣.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

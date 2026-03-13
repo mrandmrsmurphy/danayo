@@ -44,6 +44,9 @@ aliases:
   - 𠀑
 注音: ㄊㄝㄋ
 ---
+>[!tip] This is a page about the character 天.
+>For the word, see [天](words/天.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

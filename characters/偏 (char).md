@@ -33,6 +33,9 @@ stand_in: 偏
 aliases:
 注音: ㄆ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 偏.
+>For the word, see [偏](words/偏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

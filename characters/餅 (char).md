@@ -34,6 +34,9 @@ aliases:
   - 饼
 注音: ㄅㄧㄥ
 ---
+>[!tip] This is a page about the character 餅.
+>For the word, see [餅](words/餅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

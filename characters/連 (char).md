@@ -35,6 +35,9 @@ aliases:
   - 联
 注音: ㄌ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 連.
+>For the word, see [連](words/連.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

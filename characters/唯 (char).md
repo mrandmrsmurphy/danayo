@@ -33,6 +33,9 @@ aliases:
   - 惟
 注音: ˙ㄝ˙
 ---
+>[!tip] This is a page about the character 唯.
+>For the word, see [唯](words/唯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

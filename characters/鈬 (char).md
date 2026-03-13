@@ -31,6 +31,9 @@ aliases:
   - 鐸
 注音: ㄉㄚㄎ
 ---
+>[!tip] This is a page about the character 鈬.
+>For the word, see [鈬](words/鈬.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

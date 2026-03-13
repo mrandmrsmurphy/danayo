@@ -34,6 +34,9 @@ stand_in: 耐
 aliases:
 注音: ㄋㄚ˙
 ---
+>[!tip] This is a page about the character 耐.
+>For the word, see [耐](words/耐.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

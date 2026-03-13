@@ -32,6 +32,9 @@ aliases:
   - 脣
 注音: ㄙㄨㄋ
 ---
+>[!tip] This is a page about the character 唇.
+>For the word, see [唇](words/唇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

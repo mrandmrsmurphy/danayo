@@ -33,6 +33,9 @@ aliases:
   - 唤
 注音: ㄏˇㄚㄋ
 ---
+>[!tip] This is a page about the character 喚.
+>For the word, see [喚](words/喚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

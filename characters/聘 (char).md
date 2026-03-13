@@ -33,6 +33,9 @@ aliases:
   - 娉
 注音: ㄆㄧㄥ
 ---
+>[!tip] This is a page about the character 聘.
+>For the word, see [聘](words/聘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

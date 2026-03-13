@@ -33,6 +33,9 @@ stand_in: 翌
 aliases:
 注音: ㄧㄎ
 ---
+>[!tip] This is a page about the character 翌.
+>For the word, see [翌](words/翌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

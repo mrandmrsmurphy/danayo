@@ -34,6 +34,9 @@ aliases:
   - 频
 注音: ㄆㄧㄇ
 ---
+>[!tip] This is a page about the character 頻.
+>For the word, see [頻](words/頻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

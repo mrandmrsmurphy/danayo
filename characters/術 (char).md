@@ -34,6 +34,9 @@ aliases:
   - 术
 注音: ㄙㄨㄊ
 ---
+>[!tip] This is a page about the character 術.
+>For the word, see [術](words/術.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

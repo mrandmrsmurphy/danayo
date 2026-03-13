@@ -31,6 +31,9 @@ stand_in: 叫
 aliases:
 注音: ㄍ˙ㄚ
 ---
+>[!tip] This is a page about the character 叫.
+>For the word, see [叫](words/叫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 气
 注音: ㄎㄧ˙
 ---
+>[!tip] This is a page about the character 気.
+>For the word, see [気](words/気.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

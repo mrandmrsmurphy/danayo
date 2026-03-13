@@ -34,6 +34,9 @@ aliases:
   - 鯎
 注音: ㄙㄧㄥ
 ---
+>[!tip] This is a page about the character 成.
+>For the word, see [成](words/成.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

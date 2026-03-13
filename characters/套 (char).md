@@ -32,6 +32,9 @@ stand_in: 套
 aliases:
 注音: ㄊㄛˇ
 ---
+>[!tip] This is a page about the character 套.
+>For the word, see [套](words/套.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

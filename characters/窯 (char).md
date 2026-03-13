@@ -33,6 +33,9 @@ aliases:
   - 窰
 注音: ˙ㄛˇ
 ---
+>[!tip] This is a page about the character 窯.
+>For the word, see [窯](words/窯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

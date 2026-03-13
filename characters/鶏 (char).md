@@ -36,6 +36,9 @@ aliases:
   - 鸡
 注音: ㄍㄝ˙
 ---
+>[!tip] This is a page about the character 鶏.
+>For the word, see [鶏](words/鶏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

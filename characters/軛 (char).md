@@ -33,6 +33,9 @@ aliases:
   - 轭
 注音: ㄚㄎ
 ---
+>[!tip] This is a page about the character 軛.
+>For the word, see [軛](words/軛.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

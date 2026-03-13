@@ -34,6 +34,9 @@ aliases:
   - 宥
 注音: ˙ㄨ
 ---
+>[!tip] This is a page about the character 有.
+>For the word, see [有](words/有.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

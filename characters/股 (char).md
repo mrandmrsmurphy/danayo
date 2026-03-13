@@ -33,6 +33,9 @@ stand_in: 股
 aliases:
 注音: ㄍㄛ
 ---
+>[!tip] This is a page about the character 股.
+>For the word, see [股](words/股.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

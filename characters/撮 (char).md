@@ -33,6 +33,9 @@ stand_in: 撮
 aliases:
 注音: ㄐˇㄚㄊ
 ---
+>[!tip] This is a page about the character 撮.
+>For the word, see [撮](words/撮.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

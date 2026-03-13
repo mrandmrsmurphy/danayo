@@ -33,6 +33,9 @@ stand_in: 振
 aliases:
 注音: ㄐㄧㄋ
 ---
+>[!tip] This is a page about the character 振.
+>For the word, see [振](words/振.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -35,6 +35,9 @@ aliases:
   - 贴
 注音: ㄊㄝㄆ
 ---
+>[!tip] This is a page about the character 貼.
+>For the word, see [貼](words/貼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

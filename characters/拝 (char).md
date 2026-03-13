@@ -32,6 +32,9 @@ aliases:
   - 拜
 注音: ㄅ˙ㄝ
 ---
+>[!tip] This is a page about the character 拝.
+>For the word, see [拝](words/拝.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

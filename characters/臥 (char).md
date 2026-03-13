@@ -32,6 +32,9 @@ stand_in: 臥
 aliases:
 注音: ˇㄚ
 ---
+>[!tip] This is a page about the character 臥.
+>For the word, see [臥](words/臥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

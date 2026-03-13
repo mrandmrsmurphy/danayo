@@ -32,6 +32,9 @@ stand_in: 乞
 aliases:
 注音: ㄎㄧㄊ
 ---
+>[!tip] This is a page about the character 乞.
+>For the word, see [乞](words/乞.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

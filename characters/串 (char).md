@@ -32,6 +32,9 @@ stand_in: 串
 aliases:
 注音: ㄐˇㄚㄇ
 ---
+>[!tip] This is a page about the character 串.
+>For the word, see [串](words/串.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

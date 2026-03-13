@@ -32,6 +32,9 @@ stand_in: 浮
 aliases:
 注音: ㄅㄨˇ
 ---
+>[!tip] This is a page about the character 浮.
+>For the word, see [浮](words/浮.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

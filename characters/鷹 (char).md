@@ -33,6 +33,9 @@ aliases:
   - 鹰
 注音: ㄧㄥ
 ---
+>[!tip] This is a page about the character 鷹.
+>For the word, see [鷹](words/鷹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 咏
   - 𰵞
 ---
+>[!tip] This is a page about the character 詠.
+>For the word, see [詠](words/詠.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

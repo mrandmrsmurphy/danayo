@@ -32,6 +32,9 @@ aliases:
   - 涕
 注音: ㄊㄝ˙
 ---
+>[!tip] This is a page about the character 剃.
+>For the word, see [剃](words/剃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

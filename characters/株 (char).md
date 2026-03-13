@@ -34,6 +34,9 @@ stand_in: 株
 aliases:
 注音: ㄉㄨ
 ---
+>[!tip] This is a page about the character 株.
+>For the word, see [株](words/株.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

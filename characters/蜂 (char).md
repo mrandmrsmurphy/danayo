@@ -34,6 +34,9 @@ aliases:
   - 蚌
 注音: ㄆㄛㄥ
 ---
+>[!tip] This is a page about the character 蜂.
+>For the word, see [蜂](words/蜂.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

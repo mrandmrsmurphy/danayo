@@ -35,6 +35,9 @@ stand_in: 箱
 aliases:
 注音: ㄙㄚㄥ
 ---
+>[!tip] This is a page about the character 箱.
+>For the word, see [箱](words/箱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

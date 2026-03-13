@@ -31,6 +31,9 @@ aliases:
   - 讓
 注音: ㄋ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 譲.
+>For the word, see [譲](words/譲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

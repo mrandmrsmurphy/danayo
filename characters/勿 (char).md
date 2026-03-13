@@ -35,6 +35,9 @@ stand_in: 勿
 aliases:
 注音: ㄇㄨㄊ
 ---
+>[!tip] This is a page about the character 勿.
+>For the word, see [勿](words/勿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

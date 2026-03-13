@@ -31,6 +31,9 @@ stand_in: 泥
 aliases:
 注音: ㄋㄝ˙
 ---
+>[!tip] This is a page about the character 泥.
+>For the word, see [泥](words/泥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 昨
 aliases:
 注音: ㄐㄚㄎ
 ---
+>[!tip] This is a page about the character 昨.
+>For the word, see [昨](words/昨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -38,6 +38,9 @@ aliases:
 注音: ㄊㄧ
 date-last-perfect: 2026-02-20
 ---
+>[!tip] This is a page about the character 之.
+>For the word, see [之](words/之.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 掘
 aliases:
 注音: ㄍㄨㄊ
 ---
+>[!tip] This is a page about the character 掘.
+>For the word, see [掘](words/掘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

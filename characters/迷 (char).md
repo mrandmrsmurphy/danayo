@@ -32,6 +32,9 @@ stand_in: 迷
 aliases:
 注音: ㄇㄝ˙
 ---
+>[!tip] This is a page about the character 迷.
+>For the word, see [迷](words/迷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

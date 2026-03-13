@@ -32,6 +32,9 @@ stand_in: 碗
 aliases:
 注音: ˇㄚㄋ
 ---
+>[!tip] This is a page about the character 碗.
+>For the word, see [碗](words/碗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

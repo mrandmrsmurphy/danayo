@@ -33,6 +33,9 @@ aliases:
   - 兴
 注音: ㄏㄧㄥ
 ---
+>[!tip] This is a page about the character 興.
+>For the word, see [興](words/興.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

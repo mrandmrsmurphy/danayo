@@ -33,6 +33,9 @@ stand_in: 或
 aliases:
 注音: ㄏㄛㄎ
 ---
+>[!tip] This is a page about the character 或.
+>For the word, see [或](words/或.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

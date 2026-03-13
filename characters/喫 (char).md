@@ -34,6 +34,9 @@ aliases:
   - 吃
 注音: ㄎㄝㄎ
 ---
+>[!tip] This is a page about the character 喫.
+>For the word, see [喫](words/喫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

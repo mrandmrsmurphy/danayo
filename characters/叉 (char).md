@@ -34,6 +34,9 @@ stand_in: 叉
 aliases:
 注音: ㄑㄚ˙
 ---
+>[!tip] This is a page about the character 叉.
+>For the word, see [叉](words/叉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

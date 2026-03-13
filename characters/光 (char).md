@@ -31,6 +31,9 @@ stand_in: 光
 aliases:
 注音: ㄎˇㄚㄥ
 ---
+>[!tip] This is a page about the character 光.
+>For the word, see [光](words/光.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

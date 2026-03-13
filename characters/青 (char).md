@@ -35,6 +35,9 @@ aliases:
   - 菁
 注音: ㄑㄝㄥ
 ---
+>[!tip] This is a page about the character 青.
+>For the word, see [青](words/青.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

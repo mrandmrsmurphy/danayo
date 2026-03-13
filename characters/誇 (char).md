@@ -36,6 +36,9 @@ aliases:
   - 夸
 注音: ㄎˇㄚ
 ---
+>[!tip] This is a page about the character 誇.
+>For the word, see [誇](words/誇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

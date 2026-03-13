@@ -36,6 +36,9 @@ aliases:
   - 碼
 注音: ㄇㄚ
 ---
+>[!tip] This is a page about the character 馬.
+>For the word, see [馬](words/馬.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 目
 aliases:
 注音: ㄇㄨㄎ
 ---
+>[!tip] This is a page about the character 目.
+>For the word, see [目](words/目.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

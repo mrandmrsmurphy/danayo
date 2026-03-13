@@ -33,6 +33,9 @@ stand_in: 枚
 aliases:
 注音: ㄇㄛ˙
 ---
+>[!tip] This is a page about the character 枚.
+>For the word, see [枚](words/枚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 可
 aliases:
 注音: ㄎㄚ
 ---
+>[!tip] This is a page about the character 可.
+>For the word, see [可](words/可.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

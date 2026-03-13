@@ -33,6 +33,9 @@ aliases:
   - 粮
 注音: ㄌ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 糧.
+>For the word, see [糧](words/糧.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 远
 注音: ㄛㄋ
 ---
+>[!tip] This is a page about the character 遠.
+>For the word, see [遠](words/遠.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

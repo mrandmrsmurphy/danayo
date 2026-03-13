@@ -33,6 +33,9 @@ aliases:
   - 疊
 注音: ㄉㄝㄆ
 ---
+>[!tip] This is a page about the character 畳.
+>For the word, see [畳](words/畳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

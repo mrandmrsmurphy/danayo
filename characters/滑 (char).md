@@ -33,6 +33,9 @@ aliases:
   - 猾
 注音: ㄏˇㄚㄊ
 ---
+>[!tip] This is a page about the character 滑.
+>For the word, see [滑](words/滑.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

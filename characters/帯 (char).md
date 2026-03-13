@@ -32,6 +32,9 @@ aliases:
   - 帶
 注音: ㄊㄚ˙
 ---
+>[!tip] This is a page about the character 帯.
+>For the word, see [帯](words/帯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

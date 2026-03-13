@@ -33,6 +33,9 @@ aliases:
   - 慘
 注音: ㄑㄚㄇ
 ---
+>[!tip] This is a page about the character 惨.
+>For the word, see [惨](words/惨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

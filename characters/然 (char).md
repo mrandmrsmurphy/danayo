@@ -32,6 +32,9 @@ stand_in: 然
 aliases:
 注音: ㄋ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 然.
+>For the word, see [然](words/然.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

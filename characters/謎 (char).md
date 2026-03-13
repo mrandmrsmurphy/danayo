@@ -34,6 +34,9 @@ aliases:
   - 谜
 注音: ㄇㄝ˙
 ---
+>[!tip] This is a page about the character 謎.
+>For the word, see [謎](words/謎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

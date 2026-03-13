@@ -33,6 +33,9 @@ aliases:
   - 饮
 注音: ㄨㄇ
 ---
+>[!tip] This is a page about the character 飲.
+>For the word, see [飲](words/飲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

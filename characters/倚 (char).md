@@ -33,6 +33,9 @@ stand_in: 倚
 aliases:
 注音: ˇㄧ
 ---
+>[!tip] This is a page about the character 倚.
+>For the word, see [倚](words/倚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

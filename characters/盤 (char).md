@@ -33,6 +33,9 @@ aliases:
   - 盘
 注音: ㄅㄚㄋ
 ---
+>[!tip] This is a page about the character 盤.
+>For the word, see [盤](words/盤.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 至
 aliases:
 注音: ㄐㄧ˙
 ---
+>[!tip] This is a page about the character 至.
+>For the word, see [至](words/至.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

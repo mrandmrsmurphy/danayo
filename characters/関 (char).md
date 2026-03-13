@@ -33,6 +33,9 @@ aliases:
   - 關
 注音: ㄍˇㄚㄇ
 ---
+>[!tip] This is a page about the character 関.
+>For the word, see [関](words/関.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

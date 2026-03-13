@@ -33,6 +33,9 @@ aliases:
   - 𠀋
 注音: ㄑㄚㄥ
 ---
+>[!tip] This is a page about the character 丈.
+>For the word, see [丈](words/丈.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

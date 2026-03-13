@@ -32,6 +32,9 @@ aliases:
   - 鹽
 注音: ˙ㄝㄇ
 ---
+>[!tip] This is a page about the character 塩.
+>For the word, see [塩](words/塩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

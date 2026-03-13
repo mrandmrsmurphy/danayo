@@ -31,6 +31,9 @@ stand_in: 蹄
 aliases:
 注音: ㄉㄝ˙
 ---
+>[!tip] This is a page about the character 蹄.
+>For the word, see [蹄](words/蹄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

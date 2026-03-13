@@ -33,6 +33,9 @@ aliases:
   - 脫
 注音: ㄉˇㄚㄊ
 ---
+>[!tip] This is a page about the character 脱.
+>For the word, see [脱](words/脱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

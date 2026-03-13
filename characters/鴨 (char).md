@@ -32,6 +32,9 @@ aliases:
   - 鸭
 注音: ㄚㄆ
 ---
+>[!tip] This is a page about the character 鴨.
+>For the word, see [鴨](words/鴨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

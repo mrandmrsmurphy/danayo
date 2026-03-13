@@ -31,6 +31,9 @@ stand_in: 伍
 aliases:
 注音: ㄛ
 ---
+>[!tip] This is a page about the character 伍.
+>For the word, see [伍](words/伍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 翁
 aliases:
 注音: ㄛㄥ
 ---
+>[!tip] This is a page about the character 翁.
+>For the word, see [翁](words/翁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

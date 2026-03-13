@@ -32,6 +32,9 @@ stand_in: 走
 aliases:
 注音: ㄙㄛˇ
 ---
+>[!tip] This is a page about the character 走.
+>For the word, see [走](words/走.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

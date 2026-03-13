@@ -39,6 +39,9 @@ aliases:
 swadesh: "149"
 注音: ㄙㄝㄥ
 ---
+>[!tip] This is a page about the character 星.
+>For the word, see [星](words/星.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

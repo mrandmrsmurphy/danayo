@@ -34,6 +34,9 @@ aliases:
   - 银
 注音: ㄧㄋ
 ---
+>[!tip] This is a page about the character 銀.
+>For the word, see [銀](words/銀.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

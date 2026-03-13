@@ -31,6 +31,9 @@ stand_in: 秒
 aliases:
 注音: ㄇ˙ㄛˇ
 ---
+>[!tip] This is a page about the character 秒.
+>For the word, see [秒](words/秒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

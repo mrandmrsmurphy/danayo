@@ -33,6 +33,9 @@ stand_in: 幽
 aliases:
 注音: ˙ㄨˇ
 ---
+>[!tip] This is a page about the character 幽.
+>For the word, see [幽](words/幽.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

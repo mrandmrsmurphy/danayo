@@ -32,6 +32,9 @@ aliases:
   - 濕
 注音: ㄙㄧㄆ
 ---
+>[!tip] This is a page about the character 湿.
+>For the word, see [湿](words/湿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

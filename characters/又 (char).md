@@ -31,6 +31,9 @@ stand_in: 又
 aliases:
 注音: ㄨˇ
 ---
+>[!tip] This is a page about the character 又.
+>For the word, see [又](words/又.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

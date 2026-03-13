@@ -31,6 +31,9 @@ aliases:
   - 驢
 注音: ㄌ˙ㄛ
 ---
+>[!tip] This is a page about the character 馿.
+>For the word, see [馿](words/馿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

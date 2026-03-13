@@ -32,6 +32,9 @@ aliases:
   - 谁
 注音: ㄙ˙ㄝ˙
 ---
+>[!tip] This is a page about the character 誰.
+>For the word, see [誰](words/誰.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

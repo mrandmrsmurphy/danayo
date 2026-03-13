@@ -34,6 +34,9 @@ stand_in: 唉
 aliases:
 注音: ㄚ˙
 ---
+>[!tip] This is a page about the character 唉.
+>For the word, see [唉](words/唉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 者
 aliases:
 注音: ㄑㄚ
 ---
+>[!tip] This is a page about the character 者.
+>For the word, see [者](words/者.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

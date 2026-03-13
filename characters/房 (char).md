@@ -32,6 +32,9 @@ stand_in: 房
 aliases:
 注音: ㄅㄚㄥ
 ---
+>[!tip] This is a page about the character 房.
+>For the word, see [房](words/房.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

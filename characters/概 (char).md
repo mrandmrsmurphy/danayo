@@ -33,6 +33,9 @@ aliases:
   - 槪
 注音: ㄍㄚ˙
 ---
+>[!tip] This is a page about the character 概.
+>For the word, see [概](words/概.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

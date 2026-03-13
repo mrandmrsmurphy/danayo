@@ -33,6 +33,9 @@ aliases:
   - 缩
 注音: ㄙㄨㄎ
 ---
+>[!tip] This is a page about the character 縮.
+>For the word, see [縮](words/縮.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

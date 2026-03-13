@@ -32,6 +32,9 @@ aliases:
   - 谄
 注音: ㄑㄝㄇ
 ---
+>[!tip] This is a page about the character 諂.
+>For the word, see [諂](words/諂.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

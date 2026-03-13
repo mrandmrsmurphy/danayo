@@ -34,6 +34,9 @@ stand_in: 登
 aliases:
 注音: ㄉㄨㄥ
 ---
+>[!tip] This is a page about the character 登.
+>For the word, see [登](words/登.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

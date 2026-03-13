@@ -33,6 +33,9 @@ aliases:
   - 𫙧
 注音: ㄍㄧㄋ
 ---
+>[!tip] This is a page about the character 近.
+>For the word, see [近](words/近.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

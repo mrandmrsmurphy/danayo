@@ -33,6 +33,9 @@ stand_in: 日
 aliases:
 注音: ㄋㄧㄊ
 ---
+>[!tip] This is a page about the character 日.
+>For the word, see [日](words/日.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

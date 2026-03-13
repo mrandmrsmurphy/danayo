@@ -33,6 +33,9 @@ aliases:
   - 过
 注音: ㄍˇㄚ
 ---
+>[!tip] This is a page about the character 過.
+>For the word, see [過](words/過.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

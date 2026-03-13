@@ -33,6 +33,9 @@ aliases:
   - 鞵
 注音: ㄏ˙ㄚ˙
 ---
+>[!tip] This is a page about the character 鞋.
+>For the word, see [鞋](words/鞋.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 融
 aliases:
 注音: ˙ㄨㄥ
 ---
+>[!tip] This is a page about the character 融.
+>For the word, see [融](words/融.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

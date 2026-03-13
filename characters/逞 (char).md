@@ -32,6 +32,9 @@ stand_in: 逞
 aliases:
 注音: ㄑㄧㄥ
 ---
+>[!tip] This is a page about the character 逞.
+>For the word, see [逞](words/逞.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

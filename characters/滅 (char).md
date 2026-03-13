@@ -33,6 +33,9 @@ aliases:
   - 灭
 注音: ㄇㄝㄊ
 ---
+>[!tip] This is a page about the character 滅.
+>For the word, see [滅](words/滅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -35,6 +35,9 @@ aliases:
   - 荅
 注音: ㄉㄚㄆ
 ---
+>[!tip] This is a page about the character 答.
+>For the word, see [答](words/答.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

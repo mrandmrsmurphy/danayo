@@ -34,6 +34,9 @@ aliases:
   - 轴
 注音: ㄉㄨㄎ
 ---
+>[!tip] This is a page about the character 軸.
+>For the word, see [軸](words/軸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

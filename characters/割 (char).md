@@ -33,6 +33,9 @@ stand_in: 割
 aliases:
 注音: ㄍㄚㄊ
 ---
+>[!tip] This is a page about the character 割.
+>For the word, see [割](words/割.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

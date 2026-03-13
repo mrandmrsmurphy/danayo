@@ -32,6 +32,9 @@ aliases:
   - 冲
 注音: ㄑㄛㄥ
 ---
+>[!tip] This is a page about the character 衝.
+>For the word, see [衝](words/衝.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

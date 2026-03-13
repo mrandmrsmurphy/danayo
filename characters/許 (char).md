@@ -36,6 +36,9 @@ aliases:
   - 浒
 注音: ㄏ˙ㄛ
 ---
+>[!tip] This is a page about the character 許.
+>For the word, see [許](words/許.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

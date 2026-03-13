@@ -32,6 +32,9 @@ aliases:
   - 侦
 注音: ㄊㄧㄥ
 ---
+>[!tip] This is a page about the character 偵.
+>For the word, see [偵](words/偵.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

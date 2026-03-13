@@ -34,6 +34,9 @@ stand_in: 裸
 aliases:
 注音: ㄌㄚ
 ---
+>[!tip] This is a page about the character 裸.
+>For the word, see [裸](words/裸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

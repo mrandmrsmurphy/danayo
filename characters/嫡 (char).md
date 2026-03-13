@@ -32,6 +32,9 @@ stand_in: 嫡
 aliases:
 注音: ㄉㄚㄎ
 ---
+>[!tip] This is a page about the character 嫡.
+>For the word, see [嫡](words/嫡.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

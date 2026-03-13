@@ -34,6 +34,9 @@ aliases:
   - 𠄓
 注音: ㄐㄨˇ
 ---
+>[!tip] This is a page about the character 州.
+>For the word, see [州](words/州.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

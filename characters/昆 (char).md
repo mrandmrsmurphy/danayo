@@ -32,6 +32,9 @@ stand_in: 昆
 aliases:
 注音: ㄍㄛㄋ
 ---
+>[!tip] This is a page about the character 昆.
+>For the word, see [昆](words/昆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

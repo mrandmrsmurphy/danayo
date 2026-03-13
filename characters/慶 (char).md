@@ -34,6 +34,9 @@ aliases:
   - 庆
 注音: ㄎ˙ㄝㄥ
 ---
+>[!tip] This is a page about the character 慶.
+>For the word, see [慶](words/慶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

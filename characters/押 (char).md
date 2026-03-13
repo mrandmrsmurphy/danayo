@@ -32,6 +32,9 @@ aliases:
   - 狎
 注音: ㄚㄆ
 ---
+>[!tip] This is a page about the character 押.
+>For the word, see [押](words/押.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 壅
 aliases:
 注音: ㄛㄥ
 ---
+>[!tip] This is a page about the character 壅.
+>For the word, see [壅](words/壅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

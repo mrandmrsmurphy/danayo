@@ -34,6 +34,9 @@ stand_in: 反
 aliases:
 注音: ㄆㄛㄋ
 ---
+>[!tip] This is a page about the character 反.
+>For the word, see [反](words/反.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 廉
 aliases:
 注音: ㄌ˙ㄝㄇ
 ---
+>[!tip] This is a page about the character 廉.
+>For the word, see [廉](words/廉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

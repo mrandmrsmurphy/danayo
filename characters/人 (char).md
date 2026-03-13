@@ -37,6 +37,9 @@ aliases:
   - 𠂉
 注音: ㄋㄧㄋ
 ---
+>[!tip] This is a page about the character 人.
+>For the word, see [人](words/人.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

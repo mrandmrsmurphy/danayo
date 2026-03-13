@@ -37,6 +37,9 @@ stand_in: 甲
 aliases:
 注音: ㄍㄚㄆ
 ---
+>[!tip] This is a page about the character 甲.
+>For the word, see [甲](words/甲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

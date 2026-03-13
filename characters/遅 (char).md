@@ -33,6 +33,9 @@ aliases:
   - 迟
 注音: ㄑㄧ˙
 ---
+>[!tip] This is a page about the character 遅.
+>For the word, see [遅](words/遅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

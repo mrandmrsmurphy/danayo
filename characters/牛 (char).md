@@ -31,6 +31,9 @@ stand_in: 牛
 aliases:
 注音: ㄋ˙ㄨ
 ---
+>[!tip] This is a page about the character 牛.
+>For the word, see [牛](words/牛.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 视
 注音: ㄙㄧ˙
 ---
+>[!tip] This is a page about the character 視.
+>For the word, see [視](words/視.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

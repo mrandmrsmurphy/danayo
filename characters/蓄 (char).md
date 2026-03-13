@@ -35,6 +35,9 @@ stand_in: 蓄
 aliases:
 注音: ㄑㄨㄎ
 ---
+>[!tip] This is a page about the character 蓄.
+>For the word, see [蓄](words/蓄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

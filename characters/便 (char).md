@@ -35,6 +35,9 @@ stand_in: 便
 aliases:
 注音: ㄅ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 便.
+>For the word, see [便](words/便.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

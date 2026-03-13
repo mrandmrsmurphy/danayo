@@ -33,6 +33,9 @@ aliases:
   - 㒱
 注音: ㄇㄨㄥ
 ---
+>[!tip] This is a page about the character 夢.
+>For the word, see [夢](words/夢.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

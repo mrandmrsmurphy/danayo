@@ -34,6 +34,9 @@ stand_in: 恰
 aliases:
 注音: ㄎㄚㄆ
 ---
+>[!tip] This is a page about the character 恰.
+>For the word, see [恰](words/恰.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 汁
 aliases:
 注音: ㄐㄧㄆ
 ---
+>[!tip] This is a page about the character 汁.
+>For the word, see [汁](words/汁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

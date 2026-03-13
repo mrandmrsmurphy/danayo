@@ -34,6 +34,9 @@ stand_in: 竟
 aliases:
 注音: ㄍ˙ㄝㄥ
 ---
+>[!tip] This is a page about the character 竟.
+>For the word, see [竟](words/竟.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

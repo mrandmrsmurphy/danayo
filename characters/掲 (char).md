@@ -34,6 +34,9 @@ aliases:
   - 揭
 注音: ㄎㄝㄊ
 ---
+>[!tip] This is a page about the character 掲.
+>For the word, see [掲](words/掲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 姬
 注音: ㄍㄧ
 ---
+>[!tip] This is a page about the character 姫.
+>For the word, see [姫](words/姫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

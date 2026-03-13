@@ -32,6 +32,9 @@ aliases:
   - 层
 注音: ㄑㄨㄥ
 ---
+>[!tip] This is a page about the character 層.
+>For the word, see [層](words/層.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 鹤
 注音: ㄏㄚㄎ
 ---
+>[!tip] This is a page about the character 鶴.
+>For the word, see [鶴](words/鶴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

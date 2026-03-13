@@ -32,6 +32,9 @@ aliases:
   - 聽
 注音: ㄑㄝㄥ
 ---
+>[!tip] This is a page about the character 聴.
+>For the word, see [聴](words/聴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

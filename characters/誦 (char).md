@@ -35,6 +35,9 @@ aliases:
   - 诵
 注音: ㄙㄛㄥ
 ---
+>[!tip] This is a page about the character 誦.
+>For the word, see [誦](words/誦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

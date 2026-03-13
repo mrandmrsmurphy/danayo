@@ -32,6 +32,9 @@ stand_in: 破
 aliases:
 注音: ㄆㄚ
 ---
+>[!tip] This is a page about the character 破.
+>For the word, see [破](words/破.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

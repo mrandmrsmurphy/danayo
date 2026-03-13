@@ -31,6 +31,9 @@ stand_in: 汲
 aliases:
 注音: ㄎㄨㄆ
 ---
+>[!tip] This is a page about the character 汲.
+>For the word, see [汲](words/汲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 厚
 aliases:
 注音: ㄏㄛˇ
 ---
+>[!tip] This is a page about the character 厚.
+>For the word, see [厚](words/厚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

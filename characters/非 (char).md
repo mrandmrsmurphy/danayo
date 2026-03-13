@@ -31,6 +31,9 @@ stand_in: 非
 aliases:
 注音: ㄆㄧ
 ---
+>[!tip] This is a page about the character 非.
+>For the word, see [非](words/非.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

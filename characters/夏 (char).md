@@ -32,6 +32,9 @@ stand_in: 夏
 aliases:
 注音: ㄏ˙ㄚ
 ---
+>[!tip] This is a page about the character 夏.
+>For the word, see [夏](words/夏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

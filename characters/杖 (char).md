@@ -32,6 +32,9 @@ stand_in: 杖
 aliases:
 注音: ㄐㄚㄥ
 ---
+>[!tip] This is a page about the character 杖.
+>For the word, see [杖](words/杖.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

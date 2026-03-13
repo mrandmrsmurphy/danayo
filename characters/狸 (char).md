@@ -35,6 +35,9 @@ aliases:
   - 貉
 注音: ㄌㄧ
 ---
+>[!tip] This is a page about the character 狸.
+>For the word, see [狸](words/狸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

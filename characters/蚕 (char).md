@@ -34,6 +34,9 @@ aliases:
   - 蠶
 注音: ㄐㄚㄇ
 ---
+>[!tip] This is a page about the character 蚕.
+>For the word, see [蚕](words/蚕.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

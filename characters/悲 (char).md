@@ -31,6 +31,9 @@ stand_in: 悲
 aliases:
 注音: ㄅㄧ˙
 ---
+>[!tip] This is a page about the character 悲.
+>For the word, see [悲](words/悲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

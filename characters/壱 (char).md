@@ -35,6 +35,9 @@ aliases:
   - 佾
 注音: ㄧㄊ
 ---
+>[!tip] This is a page about the character 壱.
+>For the word, see [壱](words/壱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 铅
 注音: ˙ㄝㄇ
 ---
+>[!tip] This is a page about the character 鉛.
+>For the word, see [鉛](words/鉛.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

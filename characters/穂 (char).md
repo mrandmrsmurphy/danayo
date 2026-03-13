@@ -27,6 +27,9 @@ aliases:
   - 穗
 注音: ㄙㄨ˙
 ---
+>[!tip] This is a page about the character 穂.
+>For the word, see [穂](words/穂.md)
+
 # Notes
 
 ```meta-bind-embed

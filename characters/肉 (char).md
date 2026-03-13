@@ -32,6 +32,9 @@ stand_in: 肉
 aliases:
 注音: ㄋㄨㄎ
 ---
+>[!tip] This is a page about the character 肉.
+>For the word, see [肉](words/肉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

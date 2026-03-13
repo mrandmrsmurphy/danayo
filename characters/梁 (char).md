@@ -31,6 +31,9 @@ stand_in: 梁
 aliases:
 注音: ㄌ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 梁.
+>For the word, see [梁](words/梁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

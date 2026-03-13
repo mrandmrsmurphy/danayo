@@ -31,6 +31,9 @@ stand_in: 梨
 aliases:
 注音: ㄌㄧ˙
 ---
+>[!tip] This is a page about the character 梨.
+>For the word, see [梨](words/梨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

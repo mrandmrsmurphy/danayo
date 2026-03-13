@@ -32,6 +32,9 @@ aliases:
   - 黏
 注音: ㄋㄝㄇ
 ---
+>[!tip] This is a page about the character 粘.
+>For the word, see [粘](words/粘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

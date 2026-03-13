@@ -32,6 +32,9 @@ stand_in: 白
 aliases:
 注音: ㄅㄚㄎ
 ---
+>[!tip] This is a page about the character 白.
+>For the word, see [白](words/白.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

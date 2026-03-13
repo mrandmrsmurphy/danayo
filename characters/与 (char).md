@@ -34,6 +34,9 @@ swadesh: 204
 注音: ˙ㄛ
 date-last-perfect: 2026-02-11
 ---
+>[!tip] This is a page about the character 与.
+>For the word, see [与](words/与.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

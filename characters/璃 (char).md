@@ -31,6 +31,9 @@ stand_in: 璃
 aliases:
 注音: ㄌㄝ
 ---
+>[!tip] This is a page about the character 璃.
+>For the word, see [璃](words/璃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

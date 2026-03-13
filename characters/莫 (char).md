@@ -33,6 +33,9 @@ stand_in: 莫
 aliases:
 注音: ㄇㄚㄎ
 ---
+>[!tip] This is a page about the character 莫.
+>For the word, see [莫](words/莫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

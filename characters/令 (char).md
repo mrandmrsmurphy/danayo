@@ -33,6 +33,9 @@ aliases:
   - 囹
 注音: ㄌㄝㄥ
 ---
+>[!tip] This is a page about the character 令.
+>For the word, see [令](words/令.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

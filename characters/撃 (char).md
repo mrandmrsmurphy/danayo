@@ -34,6 +34,9 @@ aliases:
   - 擊
 注音: ㄍㄝㄎ
 ---
+>[!tip] This is a page about the character 撃.
+>For the word, see [撃](words/撃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 载
 注音: ㄐㄚ˙
 ---
+>[!tip] This is a page about the character 載.
+>For the word, see [載](words/載.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

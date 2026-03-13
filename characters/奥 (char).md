@@ -31,6 +31,9 @@ aliases:
   - 奧
 注音: ㄨㄎ
 ---
+>[!tip] This is a page about the character 奥.
+>For the word, see [奥](words/奥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

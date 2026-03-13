@@ -32,6 +32,9 @@ stand_in: 扉
 aliases:
 注音: ㄅㄨ˙
 ---
+>[!tip] This is a page about the character 扉.
+>For the word, see [扉](words/扉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

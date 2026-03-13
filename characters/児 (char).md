@@ -34,6 +34,9 @@ aliases:
   - 兒
 注音: ㄝ˙
 ---
+>[!tip] This is a page about the character 児.
+>For the word, see [児](words/児.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 绿
 注音: ㄌㄛㄎ
 ---
+>[!tip] This is a page about the character 緑.
+>For the word, see [緑](words/緑.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

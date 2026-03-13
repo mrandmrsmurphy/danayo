@@ -32,6 +32,9 @@ stand_in: 盆
 aliases:
 注音: ㄅㄛㄋ
 ---
+>[!tip] This is a page about the character 盆.
+>For the word, see [盆](words/盆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

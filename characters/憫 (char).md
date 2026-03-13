@@ -33,6 +33,9 @@ aliases:
   - 悯
 注音: ㄇㄧㄋ
 ---
+>[!tip] This is a page about the character 憫.
+>For the word, see [憫](words/憫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

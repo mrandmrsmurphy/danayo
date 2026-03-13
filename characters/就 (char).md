@@ -35,6 +35,9 @@ aliases:
   - 鹫
 注音: ㄐㄨˇ
 ---
+>[!tip] This is a page about the character 就.
+>For the word, see [就](words/就.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 禪
 注音: ㄙㄝㄋ
 ---
+>[!tip] This is a page about the character 禅.
+>For the word, see [禅](words/禅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 亦
 aliases:
 注音: ˙ㄝㄎ
 ---
+>[!tip] This is a page about the character 亦.
+>For the word, see [亦](words/亦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

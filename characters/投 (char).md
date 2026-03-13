@@ -31,6 +31,9 @@ stand_in: 投
 aliases:
 注音: ㄉㄛˇ
 ---
+>[!tip] This is a page about the character 投.
+>For the word, see [投](words/投.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 妾
 aliases:
 注音: ㄑㄛㄆ
 ---
+>[!tip] This is a page about the character 妾.
+>For the word, see [妾](words/妾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

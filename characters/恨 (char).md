@@ -32,6 +32,9 @@ stand_in: 恨
 aliases:
 注音: ㄏㄚㄋ
 ---
+>[!tip] This is a page about the character 恨.
+>For the word, see [恨](words/恨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

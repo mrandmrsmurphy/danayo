@@ -35,6 +35,9 @@ aliases:
   - 𥎵
 注音: ㄐㄨ˙
 ---
+>[!tip] This is a page about the character 知.
+>For the word, see [知](words/知.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

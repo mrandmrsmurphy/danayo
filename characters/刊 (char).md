@@ -32,6 +32,9 @@ stand_in: 刊
 aliases:
 注音: ㄎㄚㄋ
 ---
+>[!tip] This is a page about the character 刊.
+>For the word, see [刊](words/刊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

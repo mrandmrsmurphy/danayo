@@ -32,6 +32,9 @@ stand_in: 赴
 aliases:
 注音: ㄆㄨˇ
 ---
+>[!tip] This is a page about the character 赴.
+>For the word, see [赴](words/赴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

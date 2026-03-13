@@ -27,6 +27,9 @@ aliases:
   - 辈
 注音: ㄅㄛ˙
 ---
+>[!tip] This is a page about the character 輩.
+>For the word, see [輩](words/輩.md)
+
 # Notes
 
 ```meta-bind-embed

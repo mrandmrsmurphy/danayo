@@ -32,6 +32,9 @@ stand_in: 沿
 aliases:
 注音: ˇㄝㄇ
 ---
+>[!tip] This is a page about the character 沿.
+>For the word, see [沿](words/沿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 惡
 注音: ㄚㄎ
 ---
+>[!tip] This is a page about the character 悪.
+>For the word, see [悪](words/悪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

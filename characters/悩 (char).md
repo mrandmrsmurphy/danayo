@@ -32,6 +32,9 @@ aliases:
   - 惱
 注音: ㄋㄚˇ
 ---
+>[!tip] This is a page about the character 悩.
+>For the word, see [悩](words/悩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

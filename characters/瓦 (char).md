@@ -31,6 +31,9 @@ stand_in: 瓦
 aliases:
 注音: ˇㄚ
 ---
+>[!tip] This is a page about the character 瓦.
+>For the word, see [瓦](words/瓦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

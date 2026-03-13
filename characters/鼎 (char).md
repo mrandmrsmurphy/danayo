@@ -31,6 +31,9 @@ stand_in: 鼎
 aliases:
 注音: ㄉㄧㄥ
 ---
+>[!tip] This is a page about the character 鼎.
+>For the word, see [鼎](words/鼎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

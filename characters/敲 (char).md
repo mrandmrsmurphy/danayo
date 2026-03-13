@@ -33,6 +33,9 @@ stand_in: 敲
 aliases:
 注音: ㄎ˙ㄚˇ
 ---
+>[!tip] This is a page about the character 敲.
+>For the word, see [敲](words/敲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

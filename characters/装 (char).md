@@ -34,6 +34,9 @@ aliases:
   - 裝
 注音: ㄐˇㄚㄥ
 ---
+>[!tip] This is a page about the character 装.
+>For the word, see [装](words/装.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

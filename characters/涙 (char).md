@@ -33,6 +33,9 @@ aliases:
   - 淚
 注音: ㄌㄨ˙
 ---
+>[!tip] This is a page about the character 涙.
+>For the word, see [涙](words/涙.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

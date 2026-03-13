@@ -31,6 +31,9 @@ stand_in: 起
 aliases:
 注音: ㄎㄧ
 ---
+>[!tip] This is a page about the character 起.
+>For the word, see [起](words/起.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

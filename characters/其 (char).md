@@ -39,6 +39,9 @@ aliases:
   - 丌
 注音: ㄍㄧ
 ---
+>[!tip] This is a page about the character 其.
+>For the word, see [其](words/其.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

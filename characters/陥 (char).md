@@ -33,6 +33,9 @@ aliases:
   - 臽
 注音: ㄏㄚㄇ
 ---
+>[!tip] This is a page about the character 陥.
+>For the word, see [陥](words/陥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

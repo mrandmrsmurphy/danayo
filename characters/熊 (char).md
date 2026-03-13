@@ -31,6 +31,9 @@ stand_in: 熊
 aliases:
 注音: ㄨㄥ
 ---
+>[!tip] This is a page about the character 熊.
+>For the word, see [熊](words/熊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

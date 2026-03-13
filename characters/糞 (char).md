@@ -34,6 +34,9 @@ aliases:
   - 粪
 注音: ㄆㄨㄋ
 ---
+>[!tip] This is a page about the character 糞.
+>For the word, see [糞](words/糞.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

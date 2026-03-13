@@ -36,6 +36,9 @@ aliases:
 swadesh: 174
 注音: ㄏˇㄚㄥ
 ---
+>[!tip] This is a page about the character 黄.
+>For the word, see [黄](words/黄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

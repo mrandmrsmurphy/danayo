@@ -32,6 +32,9 @@ stand_in: 早
 aliases:
 注音: ㄐㄚˇ
 ---
+>[!tip] This is a page about the character 早.
+>For the word, see [早](words/早.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

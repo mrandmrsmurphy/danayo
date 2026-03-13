@@ -37,6 +37,9 @@ aliases:
   - 屶
 注音: ㄏˇㄝ
 ---
+>[!tip] This is a page about the character 会.
+>For the word, see [会](words/会.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

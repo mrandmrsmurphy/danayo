@@ -33,6 +33,9 @@ stand_in: 循
 aliases:
 注音: ㄙ˙ㄨㄋ
 ---
+>[!tip] This is a page about the character 循.
+>For the word, see [循](words/循.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

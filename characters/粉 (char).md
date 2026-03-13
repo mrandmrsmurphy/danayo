@@ -31,6 +31,9 @@ stand_in: 粉
 aliases:
 注音: ㄅㄨㄋ
 ---
+>[!tip] This is a page about the character 粉.
+>For the word, see [粉](words/粉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

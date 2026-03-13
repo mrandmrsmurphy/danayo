@@ -34,6 +34,9 @@ aliases:
   - 榘
 注音: ㄎ˙ㄛ
 ---
+>[!tip] This is a page about the character 矩.
+>For the word, see [矩](words/矩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

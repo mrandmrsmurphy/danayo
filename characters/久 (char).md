@@ -32,6 +32,9 @@ stand_in: 久
 aliases:
 注音: ㄍ˙ㄨ
 ---
+>[!tip] This is a page about the character 久.
+>For the word, see [久](words/久.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

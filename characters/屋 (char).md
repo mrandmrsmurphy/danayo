@@ -31,6 +31,9 @@ stand_in: 屋
 aliases:
 注音: ㄛㄎ
 ---
+>[!tip] This is a page about the character 屋.
+>For the word, see [屋](words/屋.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 锈
 注音: ㄙ˙ㄨ
 ---
+>[!tip] This is a page about the character 銹.
+>For the word, see [銹](words/銹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

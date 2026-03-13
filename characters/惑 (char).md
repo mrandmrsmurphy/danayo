@@ -33,6 +33,9 @@ stand_in: 惑
 aliases:
 注音: ㄏㄛㄎ
 ---
+>[!tip] This is a page about the character 惑.
+>For the word, see [惑](words/惑.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

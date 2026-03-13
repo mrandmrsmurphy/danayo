@@ -32,6 +32,9 @@ stand_in: 超
 aliases:
 注音: ㄊㄚˇ
 ---
+>[!tip] This is a page about the character 超.
+>For the word, see [超](words/超.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

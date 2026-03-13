@@ -31,6 +31,9 @@ stand_in: 尉
 aliases:
 注音: ㄨㄊ
 ---
+>[!tip] This is a page about the character 尉.
+>For the word, see [尉](words/尉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

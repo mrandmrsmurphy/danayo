@@ -32,6 +32,9 @@ stand_in: 毒
 aliases:
 注音: ㄉㄛㄎ
 ---
+>[!tip] This is a page about the character 毒.
+>For the word, see [毒](words/毒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

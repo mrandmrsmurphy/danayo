@@ -38,6 +38,9 @@ aliases:
   - 𠙺
 注音: ㄐㄧㄥ
 ---
+>[!tip] This is a page about the character 正.
+>For the word, see [正](words/正.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

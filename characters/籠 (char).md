@@ -32,6 +32,9 @@ aliases:
   - 笼
 注音: ㄌㄛㄥ
 ---
+>[!tip] This is a page about the character 籠.
+>For the word, see [籠](words/籠.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

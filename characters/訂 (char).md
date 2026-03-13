@@ -34,6 +34,9 @@ aliases:
   - 订
 注音: ㄊㄝㄥ
 ---
+>[!tip] This is a page about the character 訂.
+>For the word, see [訂](words/訂.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 腹
 aliases:
 注音: ㄅㄨㄎ
 ---
+>[!tip] This is a page about the character 腹.
+>For the word, see [腹](words/腹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

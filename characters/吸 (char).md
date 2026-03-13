@@ -32,6 +32,9 @@ stand_in: 吸
 aliases:
 注音: ㄏㄧㄆ
 ---
+>[!tip] This is a page about the character 吸.
+>For the word, see [吸](words/吸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

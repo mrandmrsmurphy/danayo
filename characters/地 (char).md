@@ -32,6 +32,9 @@ stand_in: 地
 aliases:
 注音: ㄉㄧ˙
 ---
+>[!tip] This is a page about the character 地.
+>For the word, see [地](words/地.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

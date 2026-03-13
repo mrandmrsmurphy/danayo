@@ -35,6 +35,9 @@ aliases:
   - 䛡
 注音: ㄏˇㄚ˙
 ---
+>[!tip] This is a page about the character 話.
+>For the word, see [話](words/話.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

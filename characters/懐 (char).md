@@ -32,6 +32,9 @@ aliases:
   - 懷
 注音: ㄏˇㄚ˙
 ---
+>[!tip] This is a page about the character 懐.
+>For the word, see [懐](words/懐.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

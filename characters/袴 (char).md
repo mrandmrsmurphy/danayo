@@ -32,6 +32,9 @@ stand_in: 袴
 aliases:
 注音: ㄎㄛ
 ---
+>[!tip] This is a page about the character 袴.
+>For the word, see [袴](words/袴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

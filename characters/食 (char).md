@@ -33,6 +33,9 @@ stand_in: 食
 aliases:
 注音: ㄙㄧㄎ
 ---
+>[!tip] This is a page about the character 食.
+>For the word, see [食](words/食.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

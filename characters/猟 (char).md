@@ -31,6 +31,9 @@ aliases:
   - 獵
 注音: ㄌㄛㄆ
 ---
+>[!tip] This is a page about the character 猟.
+>For the word, see [猟](words/猟.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

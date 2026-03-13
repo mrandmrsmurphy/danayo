@@ -32,6 +32,9 @@ stand_in: 淫
 aliases:
 注音: ㄧㄇ
 ---
+>[!tip] This is a page about the character 淫.
+>For the word, see [淫](words/淫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

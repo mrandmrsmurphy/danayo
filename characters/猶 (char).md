@@ -35,6 +35,9 @@ aliases:
   - 犹
 注音: ˙ㄨˇ
 ---
+>[!tip] This is a page about the character 猶.
+>For the word, see [猶](words/猶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

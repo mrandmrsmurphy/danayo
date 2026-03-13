@@ -33,6 +33,9 @@ stand_in: 附
 aliases:
 注音: ㄅㄨ
 ---
+>[!tip] This is a page about the character 附.
+>For the word, see [附](words/附.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

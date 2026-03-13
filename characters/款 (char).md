@@ -32,6 +32,9 @@ stand_in: 款
 aliases:
 注音: ㄎˇㄚㄋ
 ---
+>[!tip] This is a page about the character 款.
+>For the word, see [款](words/款.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

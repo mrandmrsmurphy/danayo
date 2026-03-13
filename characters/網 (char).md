@@ -41,6 +41,9 @@ aliases:
 注音: ㄇㄚㄥ
 date-last-perfect: 2026-02-06
 ---
+>[!tip] This is a page about the character 網.
+>For the word, see [網](words/網.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 重
 aliases:
 注音: ㄑㄛㄥ
 ---
+>[!tip] This is a page about the character 重.
+>For the word, see [重](words/重.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 谒
 注音: ㄝㄊ
 ---
+>[!tip] This is a page about the character 謁.
+>For the word, see [謁](words/謁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

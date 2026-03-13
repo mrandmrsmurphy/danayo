@@ -32,6 +32,9 @@ stand_in: 患
 aliases:
 注音: ㄏˇㄚㄇ
 ---
+>[!tip] This is a page about the character 患.
+>For the word, see [患](words/患.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

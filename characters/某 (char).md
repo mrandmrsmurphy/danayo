@@ -34,6 +34,9 @@ stand_in: 某
 aliases:
 注音: ㄇㄛˇ
 ---
+>[!tip] This is a page about the character 某.
+>For the word, see [某](words/某.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

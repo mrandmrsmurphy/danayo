@@ -31,6 +31,9 @@ aliases:
   - 𱇔
 注音: ㄋㄨㄆ
 ---
+>[!tip] This is a page about the character 魶.
+>For the word, see [魶](words/魶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

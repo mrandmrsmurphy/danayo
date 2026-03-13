@@ -44,6 +44,9 @@ aliases:
 swadesh: 1
 date-last-perfect: 2026-02-06
 ---
+>[!tip] This is a page about the character 我.
+>For the word, see [我](words/我.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

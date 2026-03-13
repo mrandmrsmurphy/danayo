@@ -31,6 +31,9 @@ stand_in: 尻
 aliases:
 注音: ㄎㄚˇ
 ---
+>[!tip] This is a page about the character 尻.
+>For the word, see [尻](words/尻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

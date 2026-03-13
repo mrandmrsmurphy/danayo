@@ -32,6 +32,9 @@ aliases:
   - 㐧
 注音: ㄉㄝ˙
 ---
+>[!tip] This is a page about the character 第.
+>For the word, see [第](words/第.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

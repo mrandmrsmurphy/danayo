@@ -35,6 +35,9 @@ aliases:
   - 几
 注音: ㄍㄧ˙
 ---
+>[!tip] This is a page about the character 幾.
+>For the word, see [幾](words/幾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

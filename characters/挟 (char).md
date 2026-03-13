@@ -34,6 +34,9 @@ aliases:
   - 挾
 注音: ㄏㄝㄆ
 ---
+>[!tip] This is a page about the character 挟.
+>For the word, see [挟](words/挟.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

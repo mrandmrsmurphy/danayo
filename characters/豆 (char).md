@@ -32,6 +32,9 @@ stand_in: 豆
 aliases:
 注音: ㄉㄛˇ
 ---
+>[!tip] This is a page about the character 豆.
+>For the word, see [豆](words/豆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

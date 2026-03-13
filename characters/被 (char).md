@@ -31,6 +31,9 @@ stand_in: 被
 aliases:
 注音: ㄆㄧ
 ---
+>[!tip] This is a page about the character 被.
+>For the word, see [被](words/被.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

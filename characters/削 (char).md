@@ -34,6 +34,9 @@ stand_in: 削
 aliases:
 注音: ㄙ˙ㄚㄎ
 ---
+>[!tip] This is a page about the character 削.
+>For the word, see [削](words/削.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

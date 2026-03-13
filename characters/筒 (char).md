@@ -32,6 +32,9 @@ stand_in: 筒
 aliases:
 注音: ㄉㄛㄥ
 ---
+>[!tip] This is a page about the character 筒.
+>For the word, see [筒](words/筒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

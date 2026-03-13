@@ -35,6 +35,9 @@ aliases:
   - 达
 注音: ㄊㄚㄊ
 ---
+>[!tip] This is a page about the character 達.
+>For the word, see [達](words/達.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

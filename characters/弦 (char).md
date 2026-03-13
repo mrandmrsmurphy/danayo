@@ -35,6 +35,9 @@ aliases:
   - 絃
 注音: ㄏㄝㄋ
 ---
+>[!tip] This is a page about the character 弦.
+>For the word, see [弦](words/弦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

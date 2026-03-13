@@ -32,6 +32,9 @@ aliases:
   - 每
 注音: ㄇㄛ˙
 ---
+>[!tip] This is a page about the character 毎.
+>For the word, see [毎](words/毎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

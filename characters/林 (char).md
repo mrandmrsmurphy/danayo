@@ -31,6 +31,9 @@ stand_in: 林
 aliases:
 注音: ㄌㄧㄇ
 ---
+>[!tip] This is a page about the character 林.
+>For the word, see [林](words/林.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

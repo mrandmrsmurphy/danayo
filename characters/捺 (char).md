@@ -32,6 +32,9 @@ stand_in: 捺
 aliases:
 注音: ㄋㄚㄊ
 ---
+>[!tip] This is a page about the character 捺.
+>For the word, see [捺](words/捺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

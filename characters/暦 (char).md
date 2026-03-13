@@ -32,6 +32,9 @@ aliases:
   - 曆
 注音: ㄌㄝㄎ
 ---
+>[!tip] This is a page about the character 暦.
+>For the word, see [暦](words/暦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

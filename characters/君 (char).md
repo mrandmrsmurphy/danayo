@@ -38,6 +38,9 @@ aliases:
   - 𠱰
 注音: ㄍㄨㄋ
 ---
+>[!tip] This is a page about the character 君.
+>For the word, see [君](words/君.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 焦
 aliases:
 注音: ㄐㄛˇ
 ---
+>[!tip] This is a page about the character 焦.
+>For the word, see [焦](words/焦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

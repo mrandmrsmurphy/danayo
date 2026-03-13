@@ -32,6 +32,9 @@ stand_in: 略
 aliases:
 注音: ㄌ˙ㄚㄎ
 ---
+>[!tip] This is a page about the character 略.
+>For the word, see [略](words/略.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

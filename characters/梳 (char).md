@@ -31,6 +31,9 @@ stand_in: 梳
 aliases:
 注音: ㄙㄛ
 ---
+>[!tip] This is a page about the character 梳.
+>For the word, see [梳](words/梳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -36,6 +36,9 @@ aliases:
   - 𡶸
 注音: ㄙㄚㄋ
 ---
+>[!tip] This is a page about the character 山.
+>For the word, see [山](words/山.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -35,6 +35,9 @@ aliases:
   - 镜
 注音: ㄍ˙ㄝㄥ
 ---
+>[!tip] This is a page about the character 鏡.
+>For the word, see [鏡](words/鏡.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

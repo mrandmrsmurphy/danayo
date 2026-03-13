@@ -31,6 +31,9 @@ stand_in: 少
 aliases:
 注音: ㄙㄛˇ
 ---
+>[!tip] This is a page about the character 少.
+>For the word, see [少](words/少.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

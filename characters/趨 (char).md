@@ -34,6 +34,9 @@ aliases:
   - 趋
 注音: ㄑㄨ
 ---
+>[!tip] This is a page about the character 趨.
+>For the word, see [趨](words/趨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

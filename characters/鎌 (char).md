@@ -32,6 +32,9 @@ aliases:
   - 𰾮
 注音: ㄌㄝㄇ
 ---
+>[!tip] This is a page about the character 鎌.
+>For the word, see [鎌](words/鎌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

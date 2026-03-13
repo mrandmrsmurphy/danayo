@@ -34,6 +34,9 @@ stand_in: 拉
 aliases:
 注音: ㄌㄚㄆ
 ---
+>[!tip] This is a page about the character 拉.
+>For the word, see [拉](words/拉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 骨
 aliases:
 注音: ㄍㄛㄊ
 ---
+>[!tip] This is a page about the character 骨.
+>For the word, see [骨](words/骨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

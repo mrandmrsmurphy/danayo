@@ -34,6 +34,9 @@ aliases:
   - 恋
 注音: ㄌㄝㄋ
 ---
+>[!tip] This is a page about the character 恋.
+>For the word, see [恋](words/恋.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 啊
 注音: ㄚ
 ---
+>[!tip] This is a page about the character 阿.
+>For the word, see [阿](words/阿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

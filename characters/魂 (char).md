@@ -32,6 +32,9 @@ stand_in: 魂
 aliases:
 注音: ㄏㄛㄋ
 ---
+>[!tip] This is a page about the character 魂.
+>For the word, see [魂](words/魂.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

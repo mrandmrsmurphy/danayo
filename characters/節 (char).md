@@ -36,6 +36,9 @@ aliases:
   - 节
 注音: ㄐㄝㄊ
 ---
+>[!tip] This is a page about the character 節.
+>For the word, see [節](words/節.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

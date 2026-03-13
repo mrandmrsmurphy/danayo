@@ -31,6 +31,9 @@ stand_in: 肩
 aliases:
 注音: ㄍㄝㄋ
 ---
+>[!tip] This is a page about the character 肩.
+>For the word, see [肩](words/肩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 戴
 aliases:
 注音: ㄊㄚ˙
 ---
+>[!tip] This is a page about the character 戴.
+>For the word, see [戴](words/戴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

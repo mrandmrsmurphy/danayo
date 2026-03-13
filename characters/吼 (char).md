@@ -33,6 +33,9 @@ stand_in: 吼
 aliases:
 注音: ㄏㄛˇ
 ---
+>[!tip] This is a page about the character 吼.
+>For the word, see [吼](words/吼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

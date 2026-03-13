@@ -33,6 +33,9 @@ aliases:
   - 辖
 注音: ㄏㄚㄊ
 ---
+>[!tip] This is a page about the character 轄.
+>For the word, see [轄](words/轄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

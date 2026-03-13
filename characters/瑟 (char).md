@@ -31,6 +31,9 @@ stand_in: 瑟
 aliases:
 注音: ㄙㄧㄊ
 ---
+>[!tip] This is a page about the character 瑟.
+>For the word, see [瑟](words/瑟.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

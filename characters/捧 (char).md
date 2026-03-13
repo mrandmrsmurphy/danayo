@@ -31,6 +31,9 @@ stand_in: 捧
 aliases:
 注音: ㄆㄛㄥ
 ---
+>[!tip] This is a page about the character 捧.
+>For the word, see [捧](words/捧.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

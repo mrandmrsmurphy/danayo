@@ -32,6 +32,9 @@ stand_in: 冗
 aliases:
 注音: ㄋ˙ㄛㄥ
 ---
+>[!tip] This is a page about the character 冗.
+>For the word, see [冗](words/冗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

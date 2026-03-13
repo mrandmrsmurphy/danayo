@@ -31,6 +31,9 @@ stand_in: 灰
 aliases:
 注音: ㄏㄛ˙
 ---
+>[!tip] This is a page about the character 灰.
+>For the word, see [灰](words/灰.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -36,6 +36,9 @@ aliases:
   - 繩
 注音: ㄙㄧㄥ
 ---
+>[!tip] This is a page about the character 縄.
+>For the word, see [縄](words/縄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

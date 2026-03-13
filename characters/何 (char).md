@@ -36,6 +36,9 @@ tags:
   - correlative
 注音: ㄏㄚ
 ---
+>[!tip] This is a page about the character 何.
+>For the word, see [何](words/何.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

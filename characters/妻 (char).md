@@ -31,6 +31,9 @@ stand_in: 妻
 aliases:
 注音: ㄑㄝ˙
 ---
+>[!tip] This is a page about the character 妻.
+>For the word, see [妻](words/妻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

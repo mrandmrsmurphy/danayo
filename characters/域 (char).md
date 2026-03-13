@@ -32,6 +32,9 @@ stand_in: 域
 aliases:
 注音: ˇㄧㄎ
 ---
+>[!tip] This is a page about the character 域.
+>For the word, see [域](words/域.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

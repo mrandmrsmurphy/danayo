@@ -32,6 +32,9 @@ stand_in: 片
 aliases:
 注音: ㄆㄝㄋ
 ---
+>[!tip] This is a page about the character 片.
+>For the word, see [片](words/片.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

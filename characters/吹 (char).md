@@ -33,6 +33,9 @@ stand_in: 吹
 aliases:
 注音: ㄑㄨ˙
 ---
+>[!tip] This is a page about the character 吹.
+>For the word, see [吹](words/吹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

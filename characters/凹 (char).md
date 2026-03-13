@@ -32,6 +32,9 @@ aliases:
   - 窪
 注音: ㄚˇ
 ---
+>[!tip] This is a page about the character 凹.
+>For the word, see [凹](words/凹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 尙
 注音: ㄙ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 尚.
+>For the word, see [尚](words/尚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

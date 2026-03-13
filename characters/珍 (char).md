@@ -31,6 +31,9 @@ stand_in: 珍
 aliases:
 注音: ㄑㄧㄋ
 ---
+>[!tip] This is a page about the character 珍.
+>For the word, see [珍](words/珍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

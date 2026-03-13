@@ -31,6 +31,9 @@ aliases:
   - 鷗
 注音: ㄛˇ
 ---
+>[!tip] This is a page about the character 鴎.
+>For the word, see [鴎](words/鴎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

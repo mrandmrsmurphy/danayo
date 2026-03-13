@@ -33,6 +33,9 @@ aliases:
   - 栅
 注音: ㄑㄚㄎ
 ---
+>[!tip] This is a page about the character 柵.
+>For the word, see [柵](words/柵.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

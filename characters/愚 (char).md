@@ -31,6 +31,9 @@ stand_in: 愚
 aliases:
 注音: ㄨ
 ---
+>[!tip] This is a page about the character 愚.
+>For the word, see [愚](words/愚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

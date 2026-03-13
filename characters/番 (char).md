@@ -34,6 +34,9 @@ aliases:
   - 鄱
 注音: ㄆㄚㄋ
 ---
+>[!tip] This is a page about the character 番.
+>For the word, see [番](words/番.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

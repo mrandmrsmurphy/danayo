@@ -33,6 +33,9 @@ stand_in: 傍
 aliases:
 注音: ㄆㄚㄥ
 ---
+>[!tip] This is a page about the character 傍.
+>For the word, see [傍](words/傍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

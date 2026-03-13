@@ -34,6 +34,9 @@ stand_in: 底
 aliases:
 注音: ㄉㄝ˙
 ---
+>[!tip] This is a page about the character 底.
+>For the word, see [底](words/底.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

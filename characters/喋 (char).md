@@ -33,6 +33,9 @@ stand_in: 喋
 aliases:
 注音: ㄉㄝㄆ
 ---
+>[!tip] This is a page about the character 喋.
+>For the word, see [喋](words/喋.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

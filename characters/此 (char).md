@@ -31,6 +31,9 @@ stand_in: 此
 aliases:
 注音: ㄑㄝ
 ---
+>[!tip] This is a page about the character 此.
+>For the word, see [此](words/此.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

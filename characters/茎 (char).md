@@ -33,6 +33,9 @@ aliases:
   - 莖
 注音: ㄎㄧㄥ
 ---
+>[!tip] This is a page about the character 茎.
+>For the word, see [茎](words/茎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

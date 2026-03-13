@@ -32,6 +32,9 @@ aliases:
   - 櫻
 注音: ㄚㄥ
 ---
+>[!tip] This is a page about the character 桜.
+>For the word, see [桜](words/桜.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

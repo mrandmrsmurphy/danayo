@@ -40,6 +40,9 @@ aliases:
   - 浆
 注音: ㄐˇㄚㄥ
 ---
+>[!tip] This is a page about the character 将.
+>For the word, see [将](words/将.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

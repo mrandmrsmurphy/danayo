@@ -33,6 +33,9 @@ aliases:
   - 绀
 注音: ㄍㄚㄇ
 ---
+>[!tip] This is a page about the character 紺.
+>For the word, see [紺](words/紺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

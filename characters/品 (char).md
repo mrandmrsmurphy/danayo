@@ -33,6 +33,9 @@ stand_in: 品
 aliases:
 注音: ㄆㄨㄇ
 ---
+>[!tip] This is a page about the character 品.
+>For the word, see [品](words/品.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

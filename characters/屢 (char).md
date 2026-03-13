@@ -35,6 +35,9 @@ aliases:
   - 屡
 注音: ㄌㄨ
 ---
+>[!tip] This is a page about the character 屢.
+>For the word, see [屢](words/屢.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 雩
 注音: ㄨ
 ---
+>[!tip] This is a page about the character 雨.
+>For the word, see [雨](words/雨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

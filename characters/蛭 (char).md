@@ -32,6 +32,9 @@ stand_in: 蛭
 aliases:
 注音: ㄐㄧㄊ
 ---
+>[!tip] This is a page about the character 蛭.
+>For the word, see [蛭](words/蛭.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

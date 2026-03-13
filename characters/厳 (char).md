@@ -39,6 +39,9 @@ aliases:
   - 𠑊
 注音: ˙ㄛㄇ
 ---
+>[!tip] This is a page about the character 厳.
+>For the word, see [厳](words/厳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

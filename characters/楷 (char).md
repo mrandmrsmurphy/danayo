@@ -32,6 +32,9 @@ stand_in: 楷
 aliases:
 注音: ㄎ˙ㄝ
 ---
+>[!tip] This is a page about the character 楷.
+>For the word, see [楷](words/楷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

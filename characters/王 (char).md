@@ -31,6 +31,9 @@ stand_in: 王
 aliases:
 注音: ˇㄚㄥ
 ---
+>[!tip] This is a page about the character 王.
+>For the word, see [王](words/王.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 贪
 注音: ㄊㄚㄇ
 ---
+>[!tip] This is a page about the character 貪.
+>For the word, see [貪](words/貪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

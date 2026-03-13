@@ -33,6 +33,9 @@ aliases:
   - 码
 注音: ㄇㄚ
 ---
+>[!tip] This is a page about the character 碼.
+>For the word, see [碼](words/碼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

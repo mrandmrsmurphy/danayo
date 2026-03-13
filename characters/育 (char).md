@@ -32,6 +32,9 @@ stand_in: 育
 aliases:
 注音: ˙ㄨㄎ
 ---
+>[!tip] This is a page about the character 育.
+>For the word, see [育](words/育.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

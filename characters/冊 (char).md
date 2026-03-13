@@ -33,6 +33,9 @@ aliases:
   - 册
 注音: ㄑㄚㄎ
 ---
+>[!tip] This is a page about the character 冊.
+>For the word, see [冊](words/冊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

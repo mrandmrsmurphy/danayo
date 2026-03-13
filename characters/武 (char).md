@@ -35,6 +35,9 @@ aliases:
   - 㱐
 注音: ㄇㄨ
 ---
+>[!tip] This is a page about the character 武.
+>For the word, see [武](words/武.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

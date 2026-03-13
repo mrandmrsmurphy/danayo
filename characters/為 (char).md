@@ -32,6 +32,9 @@ aliases:
   - 为
 注音: ˇㄝㄋ
 ---
+>[!tip] This is a page about the character 為.
+>For the word, see [為](words/為.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

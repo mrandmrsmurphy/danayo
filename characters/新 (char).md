@@ -31,6 +31,9 @@ stand_in: 新
 aliases:
 注音: ㄙㄧㄋ
 ---
+>[!tip] This is a page about the character 新.
+>For the word, see [新](words/新.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

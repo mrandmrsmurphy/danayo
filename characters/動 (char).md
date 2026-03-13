@@ -40,6 +40,9 @@ aliases:
   - 𢣛
 注音: ㄉㄛㄥ
 ---
+>[!tip] This is a page about the character 動.
+>For the word, see [動](words/動.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

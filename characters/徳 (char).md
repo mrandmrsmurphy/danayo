@@ -32,6 +32,9 @@ aliases:
   - 德
 注音: ㄊㄨㄎ
 ---
+>[!tip] This is a page about the character 徳.
+>For the word, see [徳](words/徳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

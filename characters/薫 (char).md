@@ -34,6 +34,9 @@ aliases:
   - 熏
 注音: ㄏㄨㄋ
 ---
+>[!tip] This is a page about the character 薫.
+>For the word, see [薫](words/薫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

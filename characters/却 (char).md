@@ -36,6 +36,9 @@ aliases:
   - 卻
 注音: ㄎ˙ㄚㄎ
 ---
+>[!tip] This is a page about the character 却.
+>For the word, see [却](words/却.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

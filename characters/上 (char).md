@@ -34,6 +34,9 @@ aliases:
   - 丄
 注音: ㄙ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 上.
+>For the word, see [上](words/上.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

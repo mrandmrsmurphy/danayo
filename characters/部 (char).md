@@ -33,6 +33,9 @@ stand_in: 部
 aliases:
 注音: ㄅㄛˇ
 ---
+>[!tip] This is a page about the character 部.
+>For the word, see [部](words/部.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 铜
 注音: ㄉㄛㄥ
 ---
+>[!tip] This is a page about the character 銅.
+>For the word, see [銅](words/銅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

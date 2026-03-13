@@ -35,6 +35,9 @@ aliases:
   - 咺
 注音: ㄏˇㄚㄋ
 ---
+>[!tip] This is a page about the character 亘.
+>For the word, see [亘](words/亘.md)
+
 
 ```meta-bind-embed
 [[nav/char_info]]

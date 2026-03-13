@@ -32,6 +32,9 @@ stand_in: 解
 aliases:
 注音: ㄍ˙ㄚ˙
 ---
+>[!tip] This is a page about the character 解.
+>For the word, see [解](words/解.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

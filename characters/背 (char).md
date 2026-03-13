@@ -31,6 +31,9 @@ stand_in: 背
 aliases:
 注音: ㄅㄛ˙
 ---
+>[!tip] This is a page about the character 背.
+>For the word, see [背](words/背.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

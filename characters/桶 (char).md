@@ -36,6 +36,9 @@ stand_in: 桶
 aliases:
 注音: ㄊㄛㄥ
 ---
+>[!tip] This is a page about the character 桶.
+>For the word, see [桶](words/桶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

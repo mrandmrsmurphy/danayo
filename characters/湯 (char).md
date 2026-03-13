@@ -33,6 +33,9 @@ aliases:
   - 汤
 注音: ㄊㄚㄥ
 ---
+>[!tip] This is a page about the character 湯.
+>For the word, see [湯](words/湯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

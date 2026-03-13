@@ -35,6 +35,9 @@ stand_in: 郡
 aliases:
 注音: ㄍㄨㄋ
 ---
+>[!tip] This is a page about the character 郡.
+>For the word, see [郡](words/郡.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

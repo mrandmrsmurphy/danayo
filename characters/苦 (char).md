@@ -32,6 +32,9 @@ stand_in: 苦
 aliases:
 注音: ㄎㄛ
 ---
+>[!tip] This is a page about the character 苦.
+>For the word, see [苦](words/苦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -36,6 +36,9 @@ aliases:
   - 𫠗
 注音: ㄑㄝㄇ
 ---
+>[!tip] This is a page about the character 鹸.
+>For the word, see [鹸](words/鹸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

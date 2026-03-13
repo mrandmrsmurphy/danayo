@@ -34,6 +34,9 @@ aliases:
   - 苍
 注音: ㄑˇㄚㄥ
 ---
+>[!tip] This is a page about the character 蒼.
+>For the word, see [蒼](words/蒼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

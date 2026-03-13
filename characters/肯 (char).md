@@ -33,6 +33,9 @@ stand_in: 肯
 aliases:
 注音: ㄎㄨㄥ
 ---
+>[!tip] This is a page about the character 肯.
+>For the word, see [肯](words/肯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

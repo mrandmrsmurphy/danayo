@@ -34,6 +34,9 @@ aliases:
   - 扑
 注音: ㄆㄛㄎ
 ---
+>[!tip] This is a page about the character 撲.
+>For the word, see [撲](words/撲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

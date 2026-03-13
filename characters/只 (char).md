@@ -38,6 +38,9 @@ aliases:
   - 隻
 注音: ㄑㄝ
 ---
+>[!tip] This is a page about the character 只.
+>For the word, see [只](words/只.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

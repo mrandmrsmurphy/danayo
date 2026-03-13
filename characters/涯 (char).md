@@ -33,6 +33,9 @@ stand_in: 涯
 aliases:
 注音: ˙ㄚ˙
 ---
+>[!tip] This is a page about the character 涯.
+>For the word, see [涯](words/涯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -36,6 +36,9 @@ aliases:
   - 垫
 注音: ㄉㄧㄆ
 ---
+>[!tip] This is a page about the character 墊.
+>For the word, see [墊](words/墊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

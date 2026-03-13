@@ -34,6 +34,9 @@ aliases:
   - 叹
 注音: ㄊㄚㄋ
 ---
+>[!tip] This is a page about the character 嘆.
+>For the word, see [嘆](words/嘆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

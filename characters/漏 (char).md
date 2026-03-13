@@ -31,6 +31,9 @@ stand_in: 漏
 aliases:
 注音: ㄌㄛˇ
 ---
+>[!tip] This is a page about the character 漏.
+>For the word, see [漏](words/漏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

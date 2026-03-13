@@ -35,6 +35,9 @@ aliases:
   - 润
 注音: ㄋㄨㄋ
 ---
+>[!tip] This is a page about the character 潤.
+>For the word, see [潤](words/潤.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ aliases:
   - 騷
 注音: ㄙㄚˇ
 ---
+>[!tip] This is a page about the character 騒.
+>For the word, see [騒](words/騒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

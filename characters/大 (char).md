@@ -35,6 +35,9 @@ aliases:
   - 亣
 注音: ㄉㄚ˙
 ---
+>[!tip] This is a page about the character 大.
+>For the word, see [大](words/大.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

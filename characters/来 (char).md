@@ -34,6 +34,9 @@ aliases:
   - 來 (char)
 注音: ㄌㄚ˙
 ---
+>[!tip] This is a page about the character 来.
+>For the word, see [来](words/来.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

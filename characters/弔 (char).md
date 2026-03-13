@@ -35,6 +35,9 @@ aliases:
   - 吊
 注音: ㄐㄝㄎ
 ---
+>[!tip] This is a page about the character 弔.
+>For the word, see [弔](words/弔.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

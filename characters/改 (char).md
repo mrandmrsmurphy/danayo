@@ -32,6 +32,9 @@ stand_in: 改
 aliases:
 注音: ㄍㄚ˙
 ---
+>[!tip] This is a page about the character 改.
+>For the word, see [改](words/改.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

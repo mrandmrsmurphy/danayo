@@ -31,6 +31,9 @@ stand_in: 算
 aliases:
 注音: ㄙˇㄚㄋ
 ---
+>[!tip] This is a page about the character 算.
+>For the word, see [算](words/算.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

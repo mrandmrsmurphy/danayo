@@ -28,6 +28,9 @@ aliases:
   - 𩫊
 注音: ㄊㄚㄆ
 ---
+>[!tip] This is a page about the character 塔.
+>For the word, see [塔](words/塔.md)
+
 # Notes
 
 ```meta-bind-embed

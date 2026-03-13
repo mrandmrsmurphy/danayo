@@ -37,6 +37,9 @@ stand_in: 句
 aliases:
 注音: ㄍㄨ
 ---
+>[!tip] This is a page about the character 句.
+>For the word, see [句](words/句.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

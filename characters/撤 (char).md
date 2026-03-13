@@ -33,6 +33,9 @@ stand_in: 撤
 aliases:
 注音: ㄉㄝㄊ
 ---
+>[!tip] This is a page about the character 撤.
+>For the word, see [撤](words/撤.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

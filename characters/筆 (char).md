@@ -33,6 +33,9 @@ aliases:
   - 笔
 注音: ㄅㄧㄊ
 ---
+>[!tip] This is a page about the character 筆.
+>For the word, see [筆](words/筆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

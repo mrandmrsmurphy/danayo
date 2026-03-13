@@ -34,6 +34,9 @@ stand_in: 陪
 aliases:
 注音: ㄅㄛ˙
 ---
+>[!tip] This is a page about the character 陪.
+>For the word, see [陪](words/陪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

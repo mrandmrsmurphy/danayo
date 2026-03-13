@@ -33,6 +33,9 @@ stand_in: 耳
 aliases:
 注音: ㄋㄧ
 ---
+>[!tip] This is a page about the character 耳.
+>For the word, see [耳](words/耳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

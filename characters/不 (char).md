@@ -36,6 +36,9 @@ aliases:
   - 𠙐
 注音: ㄅㄛㄊ
 ---
+>[!tip] This is a page about the character 不.
+>For the word, see [不](words/不.md)
+
 
 ```meta-bind-embed
 [[nav/char_info]]

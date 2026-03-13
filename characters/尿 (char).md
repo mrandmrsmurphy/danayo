@@ -32,6 +32,9 @@ stand_in: 尿
 aliases:
 注音: ㄋ˙ㄚˇ
 ---
+>[!tip] This is a page about the character 尿.
+>For the word, see [尿](words/尿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

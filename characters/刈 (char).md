@@ -32,6 +32,9 @@ stand_in: 刈
 aliases:
 注音: ˙ㄚ˙
 ---
+>[!tip] This is a page about the character 刈.
+>For the word, see [刈](words/刈.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

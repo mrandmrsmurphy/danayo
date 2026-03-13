@@ -34,6 +34,9 @@ stand_in: 玄
 aliases:
 注音: ㄏˇㄝㄋ
 ---
+>[!tip] This is a page about the character 玄.
+>For the word, see [玄](words/玄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

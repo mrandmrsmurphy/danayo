@@ -33,6 +33,9 @@ aliases:
   - 澐
 注音: ㄨㄋ
 ---
+>[!tip] This is a page about the character 雲.
+>For the word, see [雲](words/雲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

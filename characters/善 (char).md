@@ -42,6 +42,9 @@ aliases:
   - 𧮟
 注音: ㄙ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 善.
+>For the word, see [善](words/善.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

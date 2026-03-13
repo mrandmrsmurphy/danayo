@@ -34,6 +34,9 @@ aliases:
   - 蠇
 注音: ㄌㄝ
 ---
+>[!tip] This is a page about the character 厉.
+>For the word, see [厉](words/厉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

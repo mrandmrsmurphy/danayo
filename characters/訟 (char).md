@@ -33,6 +33,9 @@ aliases:
   - 讼
 注音: ㄙ˙ㄛㄥ
 ---
+>[!tip] This is a page about the character 訟.
+>For the word, see [訟](words/訟.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

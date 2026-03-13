@@ -35,6 +35,9 @@ stand_in: 擦
 aliases:
 注音: ㄑㄚㄊ
 ---
+>[!tip] This is a page about the character 擦.
+>For the word, see [擦](words/擦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

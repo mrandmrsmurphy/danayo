@@ -34,6 +34,9 @@ stand_in: 退
 aliases:
 注音: ㄊㄧ˙
 ---
+>[!tip] This is a page about the character 退.
+>For the word, see [退](words/退.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

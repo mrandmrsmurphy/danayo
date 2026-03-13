@@ -32,6 +32,9 @@ stand_in: 苺
 aliases:
 注音: ㄇㄚ˙
 ---
+>[!tip] This is a page about the character 苺.
+>For the word, see [苺](words/苺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

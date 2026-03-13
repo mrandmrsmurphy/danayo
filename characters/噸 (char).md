@@ -32,6 +32,9 @@ aliases:
   - 吨
 注音: ㄊㄛㄋ
 ---
+>[!tip] This is a page about the character 噸.
+>For the word, see [噸](words/噸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

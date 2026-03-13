@@ -35,6 +35,9 @@ stand_in: 拍
 aliases:
 注音: ㄆㄚㄎ
 ---
+>[!tip] This is a page about the character 拍.
+>For the word, see [拍](words/拍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

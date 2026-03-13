@@ -33,6 +33,9 @@ aliases:
   - 鸣
 注音: ㄇ˙ㄝㄥ
 ---
+>[!tip] This is a page about the character 鳴.
+>For the word, see [鳴](words/鳴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 灬
 注音: ㄏˇㄚ
 ---
+>[!tip] This is a page about the character 火.
+>For the word, see [火](words/火.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

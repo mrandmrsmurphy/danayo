@@ -31,6 +31,9 @@ stand_in: 枯
 aliases:
 注音: ㄎㄛ
 ---
+>[!tip] This is a page about the character 枯.
+>For the word, see [枯](words/枯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

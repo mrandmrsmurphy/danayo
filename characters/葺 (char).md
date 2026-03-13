@@ -31,6 +31,9 @@ stand_in: 葺
 aliases:
 注音: ㄑㄨㄆ
 ---
+>[!tip] This is a page about the character 葺.
+>For the word, see [葺](words/葺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

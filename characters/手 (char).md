@@ -31,6 +31,9 @@ stand_in: 手
 aliases:
 注音: ㄙ˙ㄨ
 ---
+>[!tip] This is a page about the character 手.
+>For the word, see [手](words/手.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

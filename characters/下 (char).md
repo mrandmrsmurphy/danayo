@@ -34,6 +34,9 @@ aliases:
   - 丅
 注音: ㄏㄚ
 ---
+>[!tip] This is a page about the character 下.
+>For the word, see [下](words/下.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

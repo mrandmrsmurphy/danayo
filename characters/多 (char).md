@@ -31,6 +31,9 @@ stand_in: 多
 aliases:
 注音: ㄉㄚ
 ---
+>[!tip] This is a page about the character 多.
+>For the word, see [多](words/多.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

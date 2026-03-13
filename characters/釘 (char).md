@@ -34,6 +34,9 @@ aliases:
   - 钉
 注音: ㄉㄝㄥ
 ---
+>[!tip] This is a page about the character 釘.
+>For the word, see [釘](words/釘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

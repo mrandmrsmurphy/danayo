@@ -33,6 +33,9 @@ stand_in: 弊
 aliases:
 注音: ㄆㄝ˙
 ---
+>[!tip] This is a page about the character 弊.
+>For the word, see [弊](words/弊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

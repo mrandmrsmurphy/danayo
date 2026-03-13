@@ -33,6 +33,9 @@ aliases:
   - 贗赝
 注音: ㄚㄋ
 ---
+>[!tip] This is a page about the character 贋.
+>For the word, see [贋](words/贋.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

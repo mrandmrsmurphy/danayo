@@ -34,6 +34,9 @@ aliases:
   - 鲇
 注音: ㄋㄝㄇ
 ---
+>[!tip] This is a page about the character 鮎.
+>For the word, see [鮎](words/鮎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

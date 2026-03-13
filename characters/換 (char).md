@@ -33,6 +33,9 @@ aliases:
   - 换
 注音: ㄏˇㄚㄇ
 ---
+>[!tip] This is a page about the character 換.
+>For the word, see [換](words/換.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

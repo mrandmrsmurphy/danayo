@@ -32,6 +32,9 @@ stand_in: 速
 aliases:
 注音: ㄙㄛㄎ
 ---
+>[!tip] This is a page about the character 速.
+>For the word, see [速](words/速.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

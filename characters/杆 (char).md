@@ -33,6 +33,9 @@ aliases:
   - 桿
 注音: ㄍㄚㄋ
 ---
+>[!tip] This is a page about the character 杆.
+>For the word, see [杆](words/杆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

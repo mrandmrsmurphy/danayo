@@ -35,6 +35,9 @@ aliases:
   - 尔
 注音: ㄋㄝ
 ---
+>[!tip] This is a page about the character 爾.
+>For the word, see [爾](words/爾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

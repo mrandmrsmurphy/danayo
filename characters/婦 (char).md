@@ -33,6 +33,9 @@ aliases:
   - 妇
 注音: ㄅ˙ㄨ
 ---
+>[!tip] This is a page about the character 婦.
+>For the word, see [婦](words/婦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

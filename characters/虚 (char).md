@@ -33,6 +33,9 @@ aliases:
   - 虛
 注音: ㄏ˙ㄛ
 ---
+>[!tip] This is a page about the character 虚.
+>For the word, see [虚](words/虚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

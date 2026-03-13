@@ -34,6 +34,9 @@ aliases:
   - 𧌻
 注音: ㄍㄛㄥ
 ---
+>[!tip] This is a page about the character 公.
+>For the word, see [公](words/公.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

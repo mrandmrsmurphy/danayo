@@ -34,6 +34,9 @@ stand_in: 通
 aliases:
 注音: ㄊㄛㄥ
 ---
+>[!tip] This is a page about the character 通.
+>For the word, see [通](words/通.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

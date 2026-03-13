@@ -34,6 +34,9 @@ aliases:
   - 伪
 注音: ˇㄝ˙
 ---
+>[!tip] This is a page about the character 偽.
+>For the word, see [偽](words/偽.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

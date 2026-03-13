@@ -35,6 +35,9 @@ aliases:
   - 该
 注音: ㄍㄛ˙
 ---
+>[!tip] This is a page about the character 該.
+>For the word, see [該](words/該.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

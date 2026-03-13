@@ -46,6 +46,9 @@ aliases:
 date-last-perfect: 2026-02-22
 品詞: 名詞
 ---
+>[!tip] This is a page about the character 龍.
+>For the word, see [龍](words/龍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

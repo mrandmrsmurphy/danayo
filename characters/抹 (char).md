@@ -32,6 +32,9 @@ stand_in: 抹
 aliases:
 注音: ㄇㄚㄊ
 ---
+>[!tip] This is a page about the character 抹.
+>For the word, see [抹](words/抹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

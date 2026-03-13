@@ -34,6 +34,9 @@ stand_in: 由
 aliases:
 注音: ˙ㄨˇ
 ---
+>[!tip] This is a page about the character 由.
+>For the word, see [由](words/由.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

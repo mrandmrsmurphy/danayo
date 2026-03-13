@@ -36,6 +36,9 @@ aliases:
   - 箇
 注音: ㄍㄚ
 ---
+>[!tip] This is a page about the character 個.
+>For the word, see [個](words/個.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

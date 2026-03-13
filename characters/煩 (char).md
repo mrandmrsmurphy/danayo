@@ -33,6 +33,9 @@ aliases:
   - 烦
 注音: ㄅㄛㄋ
 ---
+>[!tip] This is a page about the character 煩.
+>For the word, see [煩](words/煩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

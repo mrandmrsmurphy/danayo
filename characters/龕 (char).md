@@ -25,5 +25,8 @@ graphemic_classification: 今
 stand_in: 龕
 注音: ㄎㄚㄇ
 ---
+>[!tip] This is a page about the character 龕.
+>For the word, see [龕](words/龕.md)
+
 # Notes
 

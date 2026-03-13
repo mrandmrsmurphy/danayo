@@ -32,6 +32,9 @@ aliases:
   - 闇
 注音: ㄚㄇ
 ---
+>[!tip] This is a page about the character 暗.
+>For the word, see [暗](words/暗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

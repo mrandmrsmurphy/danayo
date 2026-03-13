@@ -33,6 +33,9 @@ aliases:
   - 鳫
 注音: ㄚㄋ
 ---
+>[!tip] This is a page about the character 雁.
+>For the word, see [雁](words/雁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 纺
 注音: ㄆㄚㄥ
 ---
+>[!tip] This is a page about the character 紡.
+>For the word, see [紡](words/紡.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

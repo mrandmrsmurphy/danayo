@@ -33,6 +33,9 @@ aliases:
   - 䨮
 注音: ㄙˇㄝㄊ
 ---
+>[!tip] This is a page about the character 雪.
+>For the word, see [雪](words/雪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

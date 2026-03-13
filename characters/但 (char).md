@@ -36,6 +36,9 @@ stand_in: 但
 aliases:
 注音: ㄉㄚㄋ
 ---
+>[!tip] This is a page about the character 但.
+>For the word, see [但](words/但.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

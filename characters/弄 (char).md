@@ -32,6 +32,9 @@ stand_in: 弄
 aliases:
 注音: ㄌㄛㄥ
 ---
+>[!tip] This is a page about the character 弄.
+>For the word, see [弄](words/弄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 老
 aliases:
 注音: ㄌㄚˇ
 ---
+>[!tip] This is a page about the character 老.
+>For the word, see [老](words/老.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

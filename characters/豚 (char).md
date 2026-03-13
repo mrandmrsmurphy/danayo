@@ -31,6 +31,9 @@ stand_in: 豚
 aliases:
 注音: ㄊㄨㄋ
 ---
+>[!tip] This is a page about the character 豚.
+>For the word, see [豚](words/豚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

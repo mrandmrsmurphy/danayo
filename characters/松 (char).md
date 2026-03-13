@@ -34,6 +34,9 @@ aliases:
   - 鬆
 注音: ㄙ˙ㄛㄥ
 ---
+>[!tip] This is a page about the character 松.
+>For the word, see [松](words/松.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

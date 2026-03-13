@@ -34,6 +34,9 @@ aliases:
   - 负
 注音: ㄅ˙ㄨ
 ---
+>[!tip] This is a page about the character 負.
+>For the word, see [負](words/負.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

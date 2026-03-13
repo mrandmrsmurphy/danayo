@@ -32,6 +32,9 @@ stand_in: 蹴
 aliases:
 注音: ㄑㄨㄎ
 ---
+>[!tip] This is a page about the character 蹴.
+>For the word, see [蹴](words/蹴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

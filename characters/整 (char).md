@@ -33,6 +33,9 @@ stand_in: 整
 aliases:
 注音: ㄐㄝㄥ
 ---
+>[!tip] This is a page about the character 整.
+>For the word, see [整](words/整.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 肱
 注音: ㄐㄨㄇ
 ---
+>[!tip] This is a page about the character 肘.
+>For the word, see [肘](words/肘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 消
 aliases:
 注音: ㄙ˙ㄛˇ
 ---
+>[!tip] This is a page about the character 消.
+>For the word, see [消](words/消.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

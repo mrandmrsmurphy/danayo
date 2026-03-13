@@ -31,6 +31,9 @@ stand_in: 啄
 aliases:
 注音: ㄊㄛㄎ
 ---
+>[!tip] This is a page about the character 啄.
+>For the word, see [啄](words/啄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

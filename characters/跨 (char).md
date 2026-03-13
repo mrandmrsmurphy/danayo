@@ -33,6 +33,9 @@ stand_in: 跨
 aliases:
 注音: ㄎˇㄚ
 ---
+>[!tip] This is a page about the character 跨.
+>For the word, see [跨](words/跨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

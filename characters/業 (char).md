@@ -34,6 +34,9 @@ aliases:
   - 业
 注音: ㄝㄆ
 ---
+>[!tip] This is a page about the character 業.
+>For the word, see [業](words/業.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

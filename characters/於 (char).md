@@ -38,6 +38,9 @@ aliases:
   - 于
 注音: ㄛ
 ---
+>[!tip] This is a page about the character 於.
+>For the word, see [於](words/於.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

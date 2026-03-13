@@ -34,6 +34,9 @@ aliases:
   - 际
 注音: ㄐㄝ
 ---
+>[!tip] This is a page about the character 際.
+>For the word, see [際](words/際.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

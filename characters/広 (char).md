@@ -35,6 +35,9 @@ aliases:
   - 旷
 注音: ㄍˇㄚㄥ
 ---
+>[!tip] This is a page about the character 広.
+>For the word, see [広](words/広.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

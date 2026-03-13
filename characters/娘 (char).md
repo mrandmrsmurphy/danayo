@@ -34,6 +34,9 @@ aliases:
   - 嬢
 注音: ㄋㄚㄥ
 ---
+>[!tip] This is a page about the character 娘.
+>For the word, see [娘](words/娘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

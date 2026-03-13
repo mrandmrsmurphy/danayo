@@ -34,6 +34,9 @@ aliases:
   - 帋
 注音: ㄐㄝ
 ---
+>[!tip] This is a page about the character 紙.
+>For the word, see [紙](words/紙.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

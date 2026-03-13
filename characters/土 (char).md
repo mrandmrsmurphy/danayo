@@ -37,6 +37,9 @@ aliases:
 date-last-perfect: 2026-02-20
 品詞: 名詞
 ---
+>[!tip] This is a page about the character 土.
+>For the word, see [土](words/土.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

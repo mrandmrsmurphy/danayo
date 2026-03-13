@@ -32,6 +32,9 @@ aliases:
   - 颇
 注音: ㄆㄚㄊ
 ---
+>[!tip] This is a page about the character 頗.
+>For the word, see [頗](words/頗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

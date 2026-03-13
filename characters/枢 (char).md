@@ -33,6 +33,9 @@ aliases:
   - 樞
 注音: ㄑㄨ
 ---
+>[!tip] This is a page about the character 枢.
+>For the word, see [枢](words/枢.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 臼
 aliases:
 注音: ㄍ˙ㄨˇ
 ---
+>[!tip] This is a page about the character 臼.
+>For the word, see [臼](words/臼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

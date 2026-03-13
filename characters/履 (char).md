@@ -31,6 +31,9 @@ stand_in: 履
 aliases:
 注音: ㄌㄧ˙
 ---
+>[!tip] This is a page about the character 履.
+>For the word, see [履](words/履.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -36,6 +36,9 @@ aliases:
   - 灑
 注音: ㄙˇㄚ˙
 ---
+>[!tip] This is a page about the character 洒.
+>For the word, see [洒](words/洒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

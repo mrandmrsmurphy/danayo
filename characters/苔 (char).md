@@ -32,6 +32,9 @@ stand_in: 苔
 aliases:
 注音: ㄊㄛ˙
 ---
+>[!tip] This is a page about the character 苔.
+>For the word, see [苔](words/苔.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 盃
 注音: ㄅㄛ˙
 ---
+>[!tip] This is a page about the character 杯.
+>For the word, see [杯](words/杯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

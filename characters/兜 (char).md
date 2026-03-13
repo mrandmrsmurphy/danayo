@@ -31,6 +31,9 @@ stand_in: 兜
 aliases:
 注音: ㄉㄨ
 ---
+>[!tip] This is a page about the character 兜.
+>For the word, see [兜](words/兜.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

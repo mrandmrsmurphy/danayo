@@ -35,6 +35,9 @@ aliases:
   - 斩
 注音: ㄐㄚㄇ
 ---
+>[!tip] This is a page about the character 斬.
+>For the word, see [斬](words/斬.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 穿
 aliases:
 注音: ㄑㄝㄋ
 ---
+>[!tip] This is a page about the character 穿.
+>For the word, see [穿](words/穿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

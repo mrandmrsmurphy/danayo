@@ -32,6 +32,9 @@ aliases:
   - 钟
 注音: ㄐㄛㄥ
 ---
+>[!tip] This is a page about the character 鐘.
+>For the word, see [鐘](words/鐘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

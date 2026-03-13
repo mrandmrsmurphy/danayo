@@ -32,6 +32,9 @@ stand_in: 冷
 aliases:
 注音: ㄌㄚㄥ
 ---
+>[!tip] This is a page about the character 冷.
+>For the word, see [冷](words/冷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

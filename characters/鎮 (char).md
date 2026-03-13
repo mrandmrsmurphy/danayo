@@ -33,6 +33,9 @@ aliases:
   - 镇
 注音: ㄑㄧㄋ
 ---
+>[!tip] This is a page about the character 鎮.
+>For the word, see [鎮](words/鎮.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

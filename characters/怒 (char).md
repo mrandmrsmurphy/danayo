@@ -32,6 +32,9 @@ stand_in: 怒
 aliases:
 注音: ㄋㄛ
 ---
+>[!tip] This is a page about the character 怒.
+>For the word, see [怒](words/怒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

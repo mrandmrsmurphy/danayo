@@ -33,6 +33,9 @@ aliases:
   - 阎
 注音: ˙ㄝㄇ
 ---
+>[!tip] This is a page about the character 閻.
+>For the word, see [閻](words/閻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

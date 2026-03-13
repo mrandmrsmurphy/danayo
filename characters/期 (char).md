@@ -35,6 +35,9 @@ aliases:
   - 朞
 注音: ㄎㄧ
 ---
+>[!tip] This is a page about the character 期.
+>For the word, see [期](words/期.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

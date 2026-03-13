@@ -31,6 +31,9 @@ stand_in: 往
 aliases:
 注音: ˇㄚㄥ
 ---
+>[!tip] This is a page about the character 往.
+>For the word, see [往](words/往.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

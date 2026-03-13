@@ -35,6 +35,9 @@ aliases:
   - 悬
 注音: ㄏˇㄝㄋ
 ---
+>[!tip] This is a page about the character 懸.
+>For the word, see [懸](words/懸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

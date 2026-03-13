@@ -32,6 +32,9 @@ stand_in: 浸
 aliases:
 注音: ㄑㄧㄇ
 ---
+>[!tip] This is a page about the character 浸.
+>For the word, see [浸](words/浸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

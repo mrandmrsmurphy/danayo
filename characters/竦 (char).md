@@ -31,6 +31,9 @@ stand_in: 竦
 aliases:
 注音: ㄙㄛㄥ
 ---
+>[!tip] This is a page about the character 竦.
+>For the word, see [竦](words/竦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

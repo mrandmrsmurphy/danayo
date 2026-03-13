@@ -33,6 +33,9 @@ aliases:
   - 费
 注音: ㄆㄨ˙
 ---
+>[!tip] This is a page about the character 費.
+>For the word, see [費](words/費.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

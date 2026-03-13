@@ -36,6 +36,9 @@ aliases:
   - 嚮
 注音: ㄏ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 向.
+>For the word, see [向](words/向.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

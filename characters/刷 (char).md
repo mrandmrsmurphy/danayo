@@ -32,6 +32,9 @@ stand_in: 刷
 aliases:
 注音: ㄙˇㄚㄊ
 ---
+>[!tip] This is a page about the character 刷.
+>For the word, see [刷](words/刷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

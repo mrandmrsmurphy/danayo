@@ -34,6 +34,9 @@ aliases:
   - 𥜪
 注音: ㄌㄝ˙
 ---
+>[!tip] This is a page about the character 礼.
+>For the word, see [礼](words/礼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

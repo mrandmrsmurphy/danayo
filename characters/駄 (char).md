@@ -36,6 +36,9 @@ aliases:
   - 馱
 注音: ㄉㄚ
 ---
+>[!tip] This is a page about the character 駄.
+>For the word, see [駄](words/駄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

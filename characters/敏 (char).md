@@ -35,6 +35,9 @@ stand_in: 敏
 aliases:
 注音: ㄇㄧㄋ
 ---
+>[!tip] This is a page about the character 敏.
+>For the word, see [敏](words/敏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

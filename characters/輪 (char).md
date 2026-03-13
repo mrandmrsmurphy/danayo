@@ -35,6 +35,9 @@ aliases:
   - 轮
 注音: ㄌㄨㄋ
 ---
+>[!tip] This is a page about the character 輪.
+>For the word, see [輪](words/輪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

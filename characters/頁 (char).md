@@ -35,6 +35,9 @@ aliases:
   - 页
 注音: ㄏㄝㄊ
 ---
+>[!tip] This is a page about the character 頁.
+>For the word, see [頁](words/頁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

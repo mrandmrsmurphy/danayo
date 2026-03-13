@@ -34,6 +34,9 @@ stand_in: 塚
 aliases:
 注音: ㄑㄛㄥ
 ---
+>[!tip] This is a page about the character 塚.
+>For the word, see [塚](words/塚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

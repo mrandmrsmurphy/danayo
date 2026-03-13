@@ -33,6 +33,9 @@ aliases:
   - 蟺
 注音: ㄙㄝㄋ
 ---
+>[!tip] This is a page about the character 蝉.
+>For the word, see [蝉](words/蝉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

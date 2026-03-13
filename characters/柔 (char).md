@@ -34,6 +34,9 @@ stand_in: 柔
 aliases:
 注音: ㄋ˙ㄨ
 ---
+>[!tip] This is a page about the character 柔.
+>For the word, see [柔](words/柔.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

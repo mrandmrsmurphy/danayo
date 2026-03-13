@@ -37,6 +37,9 @@ aliases:
   - 𠠲
 注音: ㄌㄧㄎ
 ---
+>[!tip] This is a page about the character 力.
+>For the word, see [力](words/力.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

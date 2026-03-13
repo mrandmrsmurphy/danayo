@@ -33,6 +33,9 @@ stand_in: 毫
 aliases:
 注音: ㄏㄚˇ
 ---
+>[!tip] This is a page about the character 毫.
+>For the word, see [毫](words/毫.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

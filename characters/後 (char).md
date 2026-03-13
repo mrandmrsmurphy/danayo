@@ -33,6 +33,9 @@ aliases:
   - 后
 注音: ㄏㄛˇ
 ---
+>[!tip] This is a page about the character 後.
+>For the word, see [後](words/後.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

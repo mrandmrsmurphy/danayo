@@ -34,6 +34,9 @@ aliases:
   - 蟻
 注音: ㄚ
 ---
+>[!tip] This is a page about the character 蛾.
+>For the word, see [蛾](words/蛾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

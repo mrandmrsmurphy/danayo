@@ -34,6 +34,9 @@ aliases:
   - 车
 注音: ㄑㄚ
 ---
+>[!tip] This is a page about the character 車.
+>For the word, see [車](words/車.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

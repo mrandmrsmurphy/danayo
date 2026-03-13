@@ -32,6 +32,9 @@ aliases:
   - 座
 注音: ㄐˇㄚ
 ---
+>[!tip] This is a page about the character 坐.
+>For the word, see [坐](words/坐.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

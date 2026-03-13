@@ -35,6 +35,9 @@ stand_in: 所
 aliases:
 注音: ㄙ˙ㄛ
 ---
+>[!tip] This is a page about the character 所.
+>For the word, see [所](words/所.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

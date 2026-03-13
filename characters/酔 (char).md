@@ -31,6 +31,9 @@ aliases:
   - 醉
 注音: ㄐㄨ˙
 ---
+>[!tip] This is a page about the character 酔.
+>For the word, see [酔](words/酔.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

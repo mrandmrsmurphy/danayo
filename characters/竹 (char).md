@@ -31,6 +31,9 @@ stand_in: 竹
 aliases:
 注音: ㄐㄨㄎ
 ---
+>[!tip] This is a page about the character 竹.
+>For the word, see [竹](words/竹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

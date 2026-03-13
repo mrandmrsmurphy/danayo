@@ -37,6 +37,9 @@ aliases:
   - 请
 注音: ㄑㄧㄥ
 ---
+>[!tip] This is a page about the character 請.
+>For the word, see [請](words/請.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 铃
 注音: ㄌㄝㄥ
 ---
+>[!tip] This is a page about the character 鈴.
+>For the word, see [鈴](words/鈴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -38,6 +38,9 @@ aliases:
   - 屰
 注音: ㄝㄎ
 ---
+>[!tip] This is a page about the character 逆.
+>For the word, see [逆](words/逆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

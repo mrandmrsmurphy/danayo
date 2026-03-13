@@ -34,6 +34,9 @@ aliases:
   - 喰
 注音: ㄑㄚㄋ
 ---
+>[!tip] This is a page about the character 餐.
+>For the word, see [餐](words/餐.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

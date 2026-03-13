@@ -31,6 +31,9 @@ stand_in: 屁
 aliases:
 注音: ㄆㄧ˙
 ---
+>[!tip] This is a page about the character 屁.
+>For the word, see [屁](words/屁.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 各
 aliases:
 注音: ㄍㄚㄎ
 ---
+>[!tip] This is a page about the character 各.
+>For the word, see [各](words/各.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

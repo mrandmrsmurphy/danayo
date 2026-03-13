@@ -32,6 +32,9 @@ stand_in: 勉
 aliases:
 注音: ㄇ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 勉.
+>For the word, see [勉](words/勉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

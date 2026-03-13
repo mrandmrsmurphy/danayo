@@ -39,6 +39,9 @@ aliases:
 注音: ㄚㄋ
 date-last-perfect: 2026-02-21
 ---
+>[!tip] This is a page about the character 岸.
+>For the word, see [岸](words/岸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

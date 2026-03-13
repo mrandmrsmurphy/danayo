@@ -32,6 +32,9 @@ aliases:
   - 亱
 注音: ˙ㄚ
 ---
+>[!tip] This is a page about the character 夜.
+>For the word, see [夜](words/夜.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

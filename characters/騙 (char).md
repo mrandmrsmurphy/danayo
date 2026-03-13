@@ -34,6 +34,9 @@ aliases:
   - 騗
 注音: ㄆ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 騙.
+>For the word, see [騙](words/騙.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

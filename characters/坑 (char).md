@@ -32,6 +32,9 @@ stand_in: 坑
 aliases:
 注音: ㄎㄚㄥ
 ---
+>[!tip] This is a page about the character 坑.
+>For the word, see [坑](words/坑.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

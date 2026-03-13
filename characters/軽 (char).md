@@ -35,6 +35,9 @@ aliases:
   - 轻
 注音: ㄎㄧㄥ
 ---
+>[!tip] This is a page about the character 軽.
+>For the word, see [軽](words/軽.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

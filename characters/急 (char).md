@@ -32,6 +32,9 @@ stand_in: 急
 aliases:
 注音: ㄍㄧㄆ
 ---
+>[!tip] This is a page about the character 急.
+>For the word, see [急](words/急.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

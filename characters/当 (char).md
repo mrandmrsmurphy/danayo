@@ -35,6 +35,9 @@ aliases:
   - 噹
 注音: ㄉㄚㄥ
 ---
+>[!tip] This is a page about the character 当.
+>For the word, see [当](words/当.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

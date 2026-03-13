@@ -32,6 +32,9 @@ aliases:
   - 滿
 注音: ㄇㄚㄋ
 ---
+>[!tip] This is a page about the character 満.
+>For the word, see [満](words/満.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

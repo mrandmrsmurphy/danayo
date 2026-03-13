@@ -31,6 +31,9 @@ stand_in: 露
 aliases:
 注音: ㄌㄛ
 ---
+>[!tip] This is a page about the character 露.
+>For the word, see [露](words/露.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

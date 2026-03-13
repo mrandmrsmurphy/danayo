@@ -33,6 +33,9 @@ aliases:
   - 样
 注音: ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 様.
+>For the word, see [様](words/様.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

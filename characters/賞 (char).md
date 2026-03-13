@@ -32,6 +32,9 @@ aliases:
   - 赏
 注音: ㄙ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 賞.
+>For the word, see [賞](words/賞.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 本
 aliases:
 注音: ㄅㄛㄋ
 ---
+>[!tip] This is a page about the character 本.
+>For the word, see [本](words/本.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

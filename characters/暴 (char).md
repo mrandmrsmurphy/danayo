@@ -35,6 +35,9 @@ stand_in: 暴
 aliases:
 注音: ㄅㄛㄎ
 ---
+>[!tip] This is a page about the character 暴.
+>For the word, see [暴](words/暴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 中
 aliases:
 注音: ㄐㄨㄥ
 ---
+>[!tip] This is a page about the character 中.
+>For the word, see [中](words/中.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

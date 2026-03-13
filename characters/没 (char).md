@@ -32,6 +32,9 @@ aliases:
   - 沒
 注音: ㄇㄛㄊ
 ---
+>[!tip] This is a page about the character 没.
+>For the word, see [没](words/没.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

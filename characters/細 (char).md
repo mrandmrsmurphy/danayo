@@ -36,6 +36,9 @@ aliases:
   - 细
 注音: ㄙㄝ˙
 ---
+>[!tip] This is a page about the character 細.
+>For the word, see [細](words/細.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

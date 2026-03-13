@@ -33,6 +33,9 @@ stand_in: 庸
 aliases:
 注音: ˙ㄛㄥ
 ---
+>[!tip] This is a page about the character 庸.
+>For the word, see [庸](words/庸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

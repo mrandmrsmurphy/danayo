@@ -31,6 +31,9 @@ stand_in: 核
 aliases:
 注音: ㄏㄚㄎ
 ---
+>[!tip] This is a page about the character 核.
+>For the word, see [核](words/核.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

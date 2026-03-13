@@ -32,6 +32,9 @@ stand_in: 配
 aliases:
 注音: ㄆㄛ˙
 ---
+>[!tip] This is a page about the character 配.
+>For the word, see [配](words/配.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

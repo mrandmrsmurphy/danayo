@@ -34,6 +34,9 @@ aliases:
   - 煖
 注音: ㄋㄚㄋ
 ---
+>[!tip] This is a page about the character 暖.
+>For the word, see [暖](words/暖.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

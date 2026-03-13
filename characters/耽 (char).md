@@ -32,6 +32,9 @@ aliases:
   - 㽎
 注音: ㄉㄛㄇ
 ---
+>[!tip] This is a page about the character 耽.
+>For the word, see [耽](words/耽.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

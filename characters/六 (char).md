@@ -39,6 +39,9 @@ stand_in: 六
 aliases:
 注音: ㄌㄨㄎ
 ---
+>[!tip] This is a page about the character 六.
+>For the word, see [六](words/六.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

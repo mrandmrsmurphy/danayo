@@ -34,6 +34,9 @@ aliases:
   - 轨
 注音: ㄎㄨ˙
 ---
+>[!tip] This is a page about the character 軌.
+>For the word, see [軌](words/軌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

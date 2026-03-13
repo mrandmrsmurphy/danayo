@@ -31,6 +31,9 @@ aliases:
   - 涉
 注音: ㄙㄝㄆ
 ---
+>[!tip] This is a page about the character 渉.
+>For the word, see [渉](words/渉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

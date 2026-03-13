@@ -32,6 +32,9 @@ stand_in: 照
 aliases:
 注音: ㄐㄛˇ
 ---
+>[!tip] This is a page about the character 照.
+>For the word, see [照](words/照.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

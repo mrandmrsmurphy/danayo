@@ -32,6 +32,9 @@ stand_in: 鼓
 aliases:
 注音: ㄍㄛ
 ---
+>[!tip] This is a page about the character 鼓.
+>For the word, see [鼓](words/鼓.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

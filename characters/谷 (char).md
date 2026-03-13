@@ -33,6 +33,9 @@ aliases:
   - 穀
 注音: ㄍㄛㄎ
 ---
+>[!tip] This is a page about the character 谷.
+>For the word, see [谷](words/谷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

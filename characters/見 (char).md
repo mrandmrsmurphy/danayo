@@ -33,6 +33,9 @@ aliases:
   - 见
 注音: ㄍ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 見.
+>For the word, see [見](words/見.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -37,6 +37,9 @@ aliases:
   - 训
 注音: ㄏㄨㄋ
 ---
+>[!tip] This is a page about the character 訓.
+>For the word, see [訓](words/訓.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

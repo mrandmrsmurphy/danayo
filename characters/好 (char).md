@@ -34,6 +34,9 @@ stand_in: 好
 aliases:
 注音: ㄏㄚˇ
 ---
+>[!tip] This is a page about the character 好.
+>For the word, see [好](words/好.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

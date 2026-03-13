@@ -32,6 +32,9 @@ stand_in: 也
 aliases:
 注音: ˙ㄚ
 ---
+>[!tip] This is a page about the character 也.
+>For the word, see [也](words/也.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 哉
 aliases:
 注音: ㄐㄚ˙
 ---
+>[!tip] This is a page about the character 哉.
+>For the word, see [哉](words/哉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

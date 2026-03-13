@@ -31,6 +31,9 @@ stand_in: 汝
 aliases:
 注音: ㄋㄛ˙
 ---
+>[!tip] This is a page about the character 汝.
+>For the word, see [汝](words/汝.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

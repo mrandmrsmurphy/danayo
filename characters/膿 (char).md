@@ -33,6 +33,9 @@ aliases:
   - 脓
 注音: ㄋㄛㄥ
 ---
+>[!tip] This is a page about the character 膿.
+>For the word, see [膿](words/膿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

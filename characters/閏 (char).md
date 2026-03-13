@@ -32,6 +32,9 @@ aliases:
   - 闰
 注音: ㄋㄨㄋ
 ---
+>[!tip] This is a page about the character 閏.
+>For the word, see [閏](words/閏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

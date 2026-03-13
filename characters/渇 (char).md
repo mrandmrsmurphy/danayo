@@ -32,6 +32,9 @@ aliases:
   - 渴
 注音: ㄎㄚㄊ
 ---
+>[!tip] This is a page about the character 渇.
+>For the word, see [渇](words/渇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 鸟
 注音: ㄑㄛˇ
 ---
+>[!tip] This is a page about the character 鳥.
+>For the word, see [鳥](words/鳥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

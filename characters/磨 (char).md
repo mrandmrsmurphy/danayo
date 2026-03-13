@@ -35,6 +35,9 @@ aliases:
   - 摩
 注音: ㄇㄚ
 ---
+>[!tip] This is a page about the character 磨.
+>For the word, see [磨](words/磨.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

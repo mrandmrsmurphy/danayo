@@ -36,6 +36,9 @@ aliases:
   - 彆
 注音: ㄅㄝㄊ
 ---
+>[!tip] This is a page about the character 別.
+>For the word, see [別](words/別.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

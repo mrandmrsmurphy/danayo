@@ -32,6 +32,9 @@ aliases:
   - 栉
 注音: ㄐㄨㄊ
 ---
+>[!tip] This is a page about the character 櫛.
+>For the word, see [櫛](words/櫛.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

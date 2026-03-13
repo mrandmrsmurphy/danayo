@@ -35,6 +35,9 @@ aliases:
   - 朿
 注音: ㄑㄧㄎ
 ---
+>[!tip] This is a page about the character 刺.
+>For the word, see [刺](words/刺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 乙
 aliases:
 注音: ㄛㄊ
 ---
+>[!tip] This is a page about the character 乙.
+>For the word, see [乙](words/乙.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

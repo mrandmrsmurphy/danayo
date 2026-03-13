@@ -32,6 +32,9 @@ stand_in: 雷
 aliases:
 注音: ㄌㄛ˙
 ---
+>[!tip] This is a page about the character 雷.
+>For the word, see [雷](words/雷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

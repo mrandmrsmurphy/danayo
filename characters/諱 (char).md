@@ -33,6 +33,9 @@ aliases:
   - 讳
 注音: ㄏㄨ˙
 ---
+>[!tip] This is a page about the character 諱.
+>For the word, see [諱](words/諱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

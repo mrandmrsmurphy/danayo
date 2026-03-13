@@ -33,6 +33,9 @@ stand_in: 佛
 aliases:
 注音: ㄅㄨㄊ
 ---
+>[!tip] This is a page about the character 佛.
+>For the word, see [佛](words/佛.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

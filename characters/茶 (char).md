@@ -34,6 +34,9 @@ stand_in: 茶
 aliases:
 注音: ㄑㄚ
 ---
+>[!tip] This is a page about the character 茶.
+>For the word, see [茶](words/茶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

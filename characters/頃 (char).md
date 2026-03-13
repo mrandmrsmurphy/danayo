@@ -35,6 +35,9 @@ aliases:
   - 顷
 注音: ㄎㄝㄥ
 ---
+>[!tip] This is a page about the character 頃.
+>For the word, see [頃](words/頃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

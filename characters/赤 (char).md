@@ -32,6 +32,9 @@ stand_in: 赤
 aliases:
 注音: ㄑㄝㄎ
 ---
+>[!tip] This is a page about the character 赤.
+>For the word, see [赤](words/赤.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

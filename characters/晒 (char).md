@@ -37,6 +37,9 @@ aliases:
   - 澌
 注音: ㄙ˙ㄚ˙
 ---
+>[!tip] This is a page about the character 晒.
+>For the word, see [晒](words/晒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

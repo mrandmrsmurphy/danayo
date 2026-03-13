@@ -27,6 +27,9 @@ aliases:
   - 瘦
 注音: ㄙ˙ㄨ
 ---
+>[!tip] This is a page about the character 痩.
+>For the word, see [痩](words/痩.md)
+
 # Notes
 
 ```meta-bind-embed

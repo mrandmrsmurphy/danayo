@@ -32,6 +32,9 @@ aliases:
   - 雜
 注音: ㄐㄚㄆ
 ---
+>[!tip] This is a page about the character 雑.
+>For the word, see [雑](words/雑.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

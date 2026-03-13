@@ -23,6 +23,9 @@ stand_in: 卦
 grade_level: 先進
 注音: ㄍˇㄚ˙
 ---
+>[!tip] This is a page about the character 卦.
+>For the word, see [卦](words/卦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

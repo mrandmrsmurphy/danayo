@@ -32,6 +32,9 @@ stand_in: 束
 aliases:
 注音: ㄙ˙ㄛㄎ
 ---
+>[!tip] This is a page about the character 束.
+>For the word, see [束](words/束.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

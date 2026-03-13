@@ -32,6 +32,9 @@ stand_in: 油
 aliases:
 注音: ˙ㄨ
 ---
+>[!tip] This is a page about the character 油.
+>For the word, see [油](words/油.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

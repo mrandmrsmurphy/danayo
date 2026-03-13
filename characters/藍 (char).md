@@ -32,6 +32,9 @@ aliases:
   - 蓝
 注音: ㄌㄚㄇ
 ---
+>[!tip] This is a page about the character 藍.
+>For the word, see [藍](words/藍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -36,6 +36,9 @@ aliases:
   - 针
 注音: ㄐㄧㄇ
 ---
+>[!tip] This is a page about the character 針.
+>For the word, see [針](words/針.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

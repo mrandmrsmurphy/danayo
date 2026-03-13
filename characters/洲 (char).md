@@ -31,6 +31,9 @@ stand_in: 洲
 aliases:
 注音: ㄐㄨˇ
 ---
+>[!tip] This is a page about the character 洲.
+>For the word, see [洲](words/洲.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

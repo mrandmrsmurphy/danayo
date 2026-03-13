@@ -33,6 +33,9 @@ stand_in: 柬
 aliases:
 注音: ㄍ˙ㄚㄋ
 ---
+>[!tip] This is a page about the character 柬.
+>For the word, see [柬](words/柬.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

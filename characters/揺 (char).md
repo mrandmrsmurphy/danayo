@@ -34,6 +34,9 @@ aliases:
   - 摇
 注音: ˙ㄛˇ
 ---
+>[!tip] This is a page about the character 揺.
+>For the word, see [揺](words/揺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

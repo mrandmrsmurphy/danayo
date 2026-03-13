@@ -38,6 +38,9 @@ aliases:
   - 萤
 注音: ㄏㄧㄥ
 ---
+>[!tip] This is a page about the character 蛍.
+>For the word, see [蛍](words/蛍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

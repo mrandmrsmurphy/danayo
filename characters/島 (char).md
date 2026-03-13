@@ -32,6 +32,9 @@ aliases:
   - 岛
 注音: ㄊㄚˇ
 ---
+>[!tip] This is a page about the character 島.
+>For the word, see [島](words/島.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

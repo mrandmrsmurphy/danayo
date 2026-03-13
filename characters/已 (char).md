@@ -34,6 +34,9 @@ aliases:
 注音: ㄧ
 date-last-perfect: 2026-03-01
 ---
+>[!tip] This is a page about the character 已.
+>For the word, see [已](words/已.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

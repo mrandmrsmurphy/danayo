@@ -34,6 +34,9 @@ aliases:
   - 獃
 注音: ㄇㄚ˙
 ---
+>[!tip] This is a page about the character 呆.
+>For the word, see [呆](words/呆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

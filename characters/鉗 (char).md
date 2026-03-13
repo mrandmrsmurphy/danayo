@@ -35,6 +35,9 @@ aliases:
   - 钳
 注音: ㄍㄝㄇ
 ---
+>[!tip] This is a page about the character 鉗.
+>For the word, see [鉗](words/鉗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

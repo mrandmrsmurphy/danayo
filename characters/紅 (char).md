@@ -34,6 +34,9 @@ aliases:
   - 红
 注音: ㄏㄛㄥ
 ---
+>[!tip] This is a page about the character 紅.
+>For the word, see [紅](words/紅.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 裡
 注音: ㄌㄧ
 ---
+>[!tip] This is a page about the character 里.
+>For the word, see [里](words/里.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

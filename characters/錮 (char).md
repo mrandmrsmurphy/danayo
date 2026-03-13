@@ -34,6 +34,9 @@ aliases:
   - 锢
 注音: ㄍㄛ
 ---
+>[!tip] This is a page about the character 錮.
+>For the word, see [錮](words/錮.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

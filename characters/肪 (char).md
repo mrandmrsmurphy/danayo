@@ -33,6 +33,9 @@ stand_in: 肪
 aliases:
 注音: ㄆㄚㄥ
 ---
+>[!tip] This is a page about the character 肪.
+>For the word, see [肪](words/肪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 捻
 aliases:
 注音: ㄋㄝㄆ
 ---
+>[!tip] This is a page about the character 捻.
+>For the word, see [捻](words/捻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

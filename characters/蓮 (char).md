@@ -32,6 +32,9 @@ aliases:
   - 莲
 注音: ㄌ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 蓮.
+>For the word, see [蓮](words/蓮.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

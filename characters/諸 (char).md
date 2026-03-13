@@ -39,6 +39,9 @@ aliases:
   - 诸
 注音: ㄐㄚ
 ---
+>[!tip] This is a page about the character 諸.
+>For the word, see [諸](words/諸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

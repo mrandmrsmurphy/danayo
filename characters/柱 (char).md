@@ -31,6 +31,9 @@ stand_in: 柱
 aliases:
 注音: ㄐㄨ
 ---
+>[!tip] This is a page about the character 柱.
+>For the word, see [柱](words/柱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

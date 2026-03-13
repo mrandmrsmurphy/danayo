@@ -35,6 +35,9 @@ aliases:
   - 侈
 注音: ㄐㄝ˙
 ---
+>[!tip] This is a page about the character 済.
+>For the word, see [済](words/済.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

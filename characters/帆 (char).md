@@ -32,6 +32,9 @@ stand_in: 帆
 aliases:
 注音: ㄆㄚㄇ
 ---
+>[!tip] This is a page about the character 帆.
+>For the word, see [帆](words/帆.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ stand_in: 玉
 aliases:
 注音: ˙ㄛㄎ
 ---
+>[!tip] This is a page about the character 玉.
+>For the word, see [玉](words/玉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

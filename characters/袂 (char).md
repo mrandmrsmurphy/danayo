@@ -33,6 +33,9 @@ aliases:
   - 𣍐
 注音: ㄇㄝ
 ---
+>[!tip] This is a page about the character 袂.
+>For the word, see [袂](words/袂.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

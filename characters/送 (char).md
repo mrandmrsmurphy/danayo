@@ -32,6 +32,9 @@ aliases:
   - 䢠
 注音: ㄙㄛㄥ
 ---
+>[!tip] This is a page about the character 送.
+>For the word, see [送](words/送.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

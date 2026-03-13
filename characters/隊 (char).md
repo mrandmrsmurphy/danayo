@@ -34,6 +34,9 @@ aliases:
   - 队
 注音: ㄉㄛ˙
 ---
+>[!tip] This is a page about the character 隊.
+>For the word, see [隊](words/隊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

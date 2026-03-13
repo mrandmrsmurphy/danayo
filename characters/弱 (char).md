@@ -32,6 +32,9 @@ stand_in: 弱
 aliases:
 注音: ㄋ˙ㄚㄎ
 ---
+>[!tip] This is a page about the character 弱.
+>For the word, see [弱](words/弱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

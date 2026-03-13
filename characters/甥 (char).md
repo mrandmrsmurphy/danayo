@@ -33,6 +33,9 @@ stand_in: 甥
 aliases:
 注音: ㄙㄚㄥ
 ---
+>[!tip] This is a page about the character 甥.
+>For the word, see [甥](words/甥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

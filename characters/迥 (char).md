@@ -33,6 +33,9 @@ stand_in: 迥
 aliases:
 注音: ㄏㄧㄥ
 ---
+>[!tip] This is a page about the character 迥.
+>For the word, see [迥](words/迥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

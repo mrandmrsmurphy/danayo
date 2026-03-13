@@ -33,6 +33,9 @@ stand_in: 寄
 aliases:
 注音: ㄍㄨ˙
 ---
+>[!tip] This is a page about the character 寄.
+>For the word, see [寄](words/寄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

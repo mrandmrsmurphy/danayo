@@ -34,6 +34,9 @@ aliases:
   - 讷
 注音: ㄋㄛㄊ
 ---
+>[!tip] This is a page about the character 訥.
+>For the word, see [訥](words/訥.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

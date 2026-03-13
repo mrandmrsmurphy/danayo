@@ -33,6 +33,9 @@ stand_in: 臭
 aliases:
 注音: ㄑㄨ
 ---
+>[!tip] This is a page about the character 臭.
+>For the word, see [臭](words/臭.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -31,6 +31,9 @@ stand_in: 凸
 aliases:
 注音: ㄉㄛㄊ
 ---
+>[!tip] This is a page about the character 凸.
+>For the word, see [凸](words/凸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

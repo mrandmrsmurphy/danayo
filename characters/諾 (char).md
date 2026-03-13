@@ -32,6 +32,9 @@ aliases:
   - 诺
 注音: ㄋㄚㄎ
 ---
+>[!tip] This is a page about the character 諾.
+>For the word, see [諾](words/諾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

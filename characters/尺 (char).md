@@ -32,6 +32,9 @@ stand_in: 尺
 aliases:
 注音: ㄑㄝㄎ
 ---
+>[!tip] This is a page about the character 尺.
+>For the word, see [尺](words/尺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

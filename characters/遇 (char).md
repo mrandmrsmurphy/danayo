@@ -34,6 +34,9 @@ stand_in: 遇
 aliases:
 注音: ㄨ
 ---
+>[!tip] This is a page about the character 遇.
+>For the word, see [遇](words/遇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

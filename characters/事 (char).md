@@ -35,6 +35,9 @@ aliases:
   - 亊
 注音: ㄐㄧ
 ---
+>[!tip] This is a page about the character 事.
+>For the word, see [事](words/事.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

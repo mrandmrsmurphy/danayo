@@ -32,6 +32,9 @@ aliases:
   - 筺
 注音: ㄎˇㄚㄥ
 ---
+>[!tip] This is a page about the character 筐.
+>For the word, see [筐](words/筐.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

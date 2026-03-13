@@ -33,6 +33,9 @@ aliases:
   - 课
 注音: ㄎˇㄚㄇ
 ---
+>[!tip] This is a page about the character 課.
+>For the word, see [課](words/課.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

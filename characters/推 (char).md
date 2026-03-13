@@ -31,6 +31,9 @@ stand_in: 推
 aliases:
 注音: ㄑㄨ˙
 ---
+>[!tip] This is a page about the character 推.
+>For the word, see [推](words/推.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

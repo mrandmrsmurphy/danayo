@@ -31,6 +31,9 @@ stand_in: 悼
 aliases:
 注音: ㄉㄚˇ
 ---
+>[!tip] This is a page about the character 悼.
+>For the word, see [悼](words/悼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

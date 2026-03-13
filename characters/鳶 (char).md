@@ -32,6 +32,9 @@ aliases:
   - 鸢
 注音: ˙ㄝㄋ
 ---
+>[!tip] This is a page about the character 鳶.
+>For the word, see [鳶](words/鳶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

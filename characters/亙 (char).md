@@ -32,6 +32,9 @@ stand_in: 亙
 aliases:
 注音: ㄍㄨㄥ
 ---
+>[!tip] This is a page about the character 亙.
+>For the word, see [亙](words/亙.md)
+
 
 ```meta-bind-embed
 [[nav/char_info]]

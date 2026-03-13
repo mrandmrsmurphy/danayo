@@ -33,6 +33,9 @@ aliases:
   - 污
 注音: ㄛ
 ---
+>[!tip] This is a page about the character 汚.
+>For the word, see [汚](words/汚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

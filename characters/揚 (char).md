@@ -33,6 +33,9 @@ aliases:
   - 扬
 注音: ˙ㄚㄥ
 ---
+>[!tip] This is a page about the character 揚.
+>For the word, see [揚](words/揚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

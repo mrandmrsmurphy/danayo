@@ -32,6 +32,9 @@ stand_in: 及
 aliases:
 注音: ㄍㄨㄆ
 ---
+>[!tip] This is a page about the character 及.
+>For the word, see [及](words/及.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

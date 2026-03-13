@@ -32,6 +32,9 @@ aliases:
   - 绢
 注音: ㄍˇㄝㄋ
 ---
+>[!tip] This is a page about the character 絹.
+>For the word, see [絹](words/絹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 𡮐
 注音: ㄙㄛ
 ---
+>[!tip] This is a page about the character 小.
+>For the word, see [小](words/小.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

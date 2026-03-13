@@ -32,6 +32,9 @@ stand_in: 鬣
 aliases:
 注音: ㄌㄛㄆ
 ---
+>[!tip] This is a page about the character 鬣.
+>For the word, see [鬣](words/鬣.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

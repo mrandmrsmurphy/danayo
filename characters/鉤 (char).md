@@ -35,6 +35,9 @@ aliases:
   - 𰽭
 注音: ㄍㄛˇ
 ---
+>[!tip] This is a page about the character 鉤.
+>For the word, see [鉤](words/鉤.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

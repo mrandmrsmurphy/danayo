@@ -34,6 +34,9 @@ aliases:
   - 绝
 注音: ㄐˇㄝㄊ
 ---
+>[!tip] This is a page about the character 絶.
+>For the word, see [絶](words/絶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

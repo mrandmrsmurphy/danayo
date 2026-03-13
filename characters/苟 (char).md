@@ -32,6 +32,9 @@ stand_in: 苟
 aliases:
 注音: ㄍㄛˇ
 ---
+>[!tip] This is a page about the character 苟.
+>For the word, see [苟](words/苟.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

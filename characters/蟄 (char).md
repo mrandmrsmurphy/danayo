@@ -33,6 +33,9 @@ aliases:
   - 蛰
 注音: ㄑㄧㄆ
 ---
+>[!tip] This is a page about the character 蟄.
+>For the word, see [蟄](words/蟄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -35,6 +35,9 @@ aliases:
   - 搔
 注音: ㄙㄚˇ
 ---
+>[!tip] This is a page about the character 掻.
+>For the word, see [掻](words/掻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

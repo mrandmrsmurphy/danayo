@@ -34,6 +34,9 @@ aliases:
   - 芩
 注音: ㄍㄧㄇ
 ---
+>[!tip] This is a page about the character 今.
+>For the word, see [今](words/今.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

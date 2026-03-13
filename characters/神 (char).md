@@ -34,6 +34,9 @@ stand_in: 神
 aliases:
 注音: ㄙㄧㄋ
 ---
+>[!tip] This is a page about the character 神.
+>For the word, see [神](words/神.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -35,6 +35,9 @@ stand_in: 密
 aliases:
 注音: ㄇㄧㄊ
 ---
+>[!tip] This is a page about the character 密.
+>For the word, see [密](words/密.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

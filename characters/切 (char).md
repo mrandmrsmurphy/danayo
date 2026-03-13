@@ -34,6 +34,9 @@ stand_in: 切
 aliases:
 注音: ㄑㄝㄊ
 ---
+>[!tip] This is a page about the character 切.
+>For the word, see [切](words/切.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

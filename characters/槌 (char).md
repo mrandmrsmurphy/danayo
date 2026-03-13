@@ -31,6 +31,9 @@ stand_in: 槌
 aliases:
 注音: ㄐˇㄝ˙
 ---
+>[!tip] This is a page about the character 槌.
+>For the word, see [槌](words/槌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

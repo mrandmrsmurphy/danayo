@@ -33,6 +33,9 @@ aliases:
   - 沟
 注音: ㄍㄛˇ
 ---
+>[!tip] This is a page about the character 溝.
+>For the word, see [溝](words/溝.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

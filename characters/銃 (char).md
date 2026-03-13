@@ -33,6 +33,9 @@ aliases:
   - 铳
 注音: ㄑㄨㄥ
 ---
+>[!tip] This is a page about the character 銃.
+>For the word, see [銃](words/銃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 碎
 注音: ㄙㄛ˙
 ---
+>[!tip] This is a page about the character 砕.
+>For the word, see [砕](words/砕.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

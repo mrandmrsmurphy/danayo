@@ -34,6 +34,9 @@ aliases:
   - 鞦
 注音: ㄑㄨˇ
 ---
+>[!tip] This is a page about the character 秋.
+>For the word, see [秋](words/秋.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

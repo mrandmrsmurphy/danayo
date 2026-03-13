@@ -34,6 +34,9 @@ aliases:
   - 遗
 注音: ˙ㄝ˙
 ---
+>[!tip] This is a page about the character 遺.
+>For the word, see [遺](words/遺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

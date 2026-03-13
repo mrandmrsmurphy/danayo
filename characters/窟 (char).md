@@ -32,6 +32,9 @@ stand_in: 窟
 aliases:
 注音: ㄎㄛㄊ
 ---
+>[!tip] This is a page about the character 窟.
+>For the word, see [窟](words/窟.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

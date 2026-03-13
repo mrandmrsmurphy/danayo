@@ -32,6 +32,9 @@ aliases:
   - 秃
 注音: ㄊㄛㄎ
 ---
+>[!tip] This is a page about the character 禿.
+>For the word, see [禿](words/禿.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ aliases:
   - 谛
 注音: ㄊㄝ˙
 ---
+>[!tip] This is a page about the character 諦.
+>For the word, see [諦](words/諦.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

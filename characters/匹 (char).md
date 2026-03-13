@@ -39,6 +39,9 @@ aliases:
   - 疋
 注音: ㄆㄧㄊ
 ---
+>[!tip] This is a page about the character 匹.
+>For the word, see [匹](words/匹.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

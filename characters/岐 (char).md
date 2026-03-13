@@ -33,6 +33,9 @@ aliases:
   - 歧
 注音: ㄍㄝ
 ---
+>[!tip] This is a page about the character 岐.
+>For the word, see [岐](words/岐.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

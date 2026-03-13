@@ -33,6 +33,9 @@ stand_in: 口
 aliases:
 注音: ㄎㄛˇ
 ---
+>[!tip] This is a page about the character 口.
+>For the word, see [口](words/口.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

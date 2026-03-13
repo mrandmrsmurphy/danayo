@@ -32,6 +32,9 @@ stand_in: 化
 aliases:
 注音: ㄏˇㄚ
 ---
+>[!tip] This is a page about the character 化.
+>For the word, see [化](words/化.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

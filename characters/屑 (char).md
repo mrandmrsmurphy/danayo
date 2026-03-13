@@ -32,6 +32,9 @@ stand_in: 屑
 aliases:
 注音: ㄙㄝㄊ
 ---
+>[!tip] This is a page about the character 屑.
+>For the word, see [屑](words/屑.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

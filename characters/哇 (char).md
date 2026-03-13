@@ -33,6 +33,9 @@ stand_in: 哇
 aliases:
 注音: ˇㄚˇ
 ---
+>[!tip] This is a page about the character 哇.
+>For the word, see [哇](words/哇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

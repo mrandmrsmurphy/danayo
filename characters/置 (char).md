@@ -33,6 +33,9 @@ aliases:
   - 寘
 注音: ㄑㄧ
 ---
+>[!tip] This is a page about the character 置.
+>For the word, see [置](words/置.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

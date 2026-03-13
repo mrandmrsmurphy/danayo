@@ -34,6 +34,9 @@ aliases:
   - 划
 注音: ㄏˇㄚㄎ
 ---
+>[!tip] This is a page about the character 劃.
+>For the word, see [劃](words/劃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

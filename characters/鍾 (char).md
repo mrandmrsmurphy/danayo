@@ -34,6 +34,9 @@ aliases:
   - 锺
 注音: ㄐㄛㄥ
 ---
+>[!tip] This is a page about the character 鍾.
+>For the word, see [鍾](words/鍾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

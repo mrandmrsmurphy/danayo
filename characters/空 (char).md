@@ -37,6 +37,9 @@ aliases:
   - 𢦉
 注音: ㄎㄛㄥ
 ---
+>[!tip] This is a page about the character 空.
+>For the word, see [空](words/空.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

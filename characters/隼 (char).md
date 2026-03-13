@@ -32,6 +32,9 @@ stand_in: 隼
 aliases:
 注音: ㄙ˙ㄨㄥ
 ---
+>[!tip] This is a page about the character 隼.
+>For the word, see [隼](words/隼.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

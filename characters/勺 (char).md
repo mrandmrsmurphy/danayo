@@ -32,6 +32,9 @@ stand_in: 勺
 aliases:
 注音: ㄐˇㄚㄎ
 ---
+>[!tip] This is a page about the character 勺.
+>For the word, see [勺](words/勺.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

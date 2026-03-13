@@ -31,6 +31,9 @@ stand_in: 菱
 aliases:
 注音: ㄌㄧㄥ
 ---
+>[!tip] This is a page about the character 菱.
+>For the word, see [菱](words/菱.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

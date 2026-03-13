@@ -34,6 +34,9 @@ aliases:
   - 剧
 注音: ㄍㄝㄎ
 ---
+>[!tip] This is a page about the character 劇.
+>For the word, see [劇](words/劇.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

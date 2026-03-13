@@ -32,6 +32,9 @@ stand_in: 雄
 aliases:
 注音: ㄨㄥ
 ---
+>[!tip] This is a page about the character 雄.
+>For the word, see [雄](words/雄.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

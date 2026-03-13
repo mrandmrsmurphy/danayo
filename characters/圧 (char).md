@@ -32,6 +32,9 @@ aliases:
   - 壓
 注音: ㄚㄊ
 ---
+>[!tip] This is a page about the character 圧.
+>For the word, see [圧](words/圧.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

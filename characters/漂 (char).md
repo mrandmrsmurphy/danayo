@@ -32,6 +32,9 @@ stand_in: 漂
 aliases:
 注音: ㄆ˙ㄛ
 ---
+>[!tip] This is a page about the character 漂.
+>For the word, see [漂](words/漂.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

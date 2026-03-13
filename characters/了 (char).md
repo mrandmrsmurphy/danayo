@@ -34,6 +34,9 @@ aliases:
   - 瞭
 注音: ㄌ˙ㄚˇ
 ---
+>[!tip] This is a page about the character 了.
+>For the word, see [了](words/了.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

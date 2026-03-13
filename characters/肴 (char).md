@@ -33,6 +33,9 @@ aliases:
   - 餚
 注音: ㄏ˙ㄚˇ
 ---
+>[!tip] This is a page about the character 肴.
+>For the word, see [肴](words/肴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

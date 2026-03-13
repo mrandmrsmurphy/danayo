@@ -32,6 +32,9 @@ stand_in: 共
 aliases:
 注音: ㄍ˙ㄛㄥ
 ---
+>[!tip] This is a page about the character 共.
+>For the word, see [共](words/共.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

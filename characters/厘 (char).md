@@ -34,6 +34,9 @@ aliases:
   - 釐
 注音: ㄌㄧ
 ---
+>[!tip] This is a page about the character 厘.
+>For the word, see [厘](words/厘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -34,6 +34,9 @@ aliases:
   - 驰
 注音: ㄐㄨ˙
 ---
+>[!tip] This is a page about the character 馳.
+>For the word, see [馳](words/馳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

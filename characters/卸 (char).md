@@ -32,6 +32,9 @@ stand_in: 卸
 aliases:
 注音: ㄙ˙ㄚ
 ---
+>[!tip] This is a page about the character 卸.
+>For the word, see [卸](words/卸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

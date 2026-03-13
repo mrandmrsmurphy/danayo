@@ -35,6 +35,9 @@ stand_in: 映
 aliases:
 注音: ˙ㄝㄥ
 ---
+>[!tip] This is a page about the character 映.
+>For the word, see [映](words/映.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

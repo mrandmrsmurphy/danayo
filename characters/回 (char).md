@@ -36,6 +36,9 @@ aliases:
   - 蛔
 注音: ㄏㄛ˙
 ---
+>[!tip] This is a page about the character 回.
+>For the word, see [回](words/回.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

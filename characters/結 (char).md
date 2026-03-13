@@ -34,6 +34,9 @@ aliases:
   - 结
 注音: ㄍㄝㄊ
 ---
+>[!tip] This is a page about the character 結.
+>For the word, see [結](words/結.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -32,6 +32,9 @@ aliases:
   - 腦
 注音: ㄋㄚˇ
 ---
+>[!tip] This is a page about the character 脳.
+>For the word, see [脳](words/脳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

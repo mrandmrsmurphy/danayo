@@ -36,6 +36,9 @@ aliases:
   - 弐
 注音: ㄋㄧ˙
 ---
+>[!tip] This is a page about the character 貳.
+>For the word, see [貳](words/貳.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

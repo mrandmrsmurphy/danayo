@@ -33,6 +33,9 @@ stand_in: 帖
 aliases:
 注音: ㄊㄛㄆ
 ---
+>[!tip] This is a page about the character 帖.
+>For the word, see [帖](words/帖.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

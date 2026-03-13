@@ -36,6 +36,9 @@ aliases:
   - 砂
 注音: ㄙㄚ
 ---
+>[!tip] This is a page about the character 沙.
+>For the word, see [沙](words/沙.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

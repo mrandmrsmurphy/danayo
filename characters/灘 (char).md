@@ -34,6 +34,9 @@ aliases:
   - 滩
 注音: ㄊㄚㄋ
 ---
+>[!tip] This is a page about the character 灘.
+>For the word, see [灘](words/灘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -33,6 +33,9 @@ stand_in: 跪
 date-last-perfect: 2026-02-25
 注音: ㄎˇㄝ˙
 ---
+>[!tip] This is a page about the character 跪.
+>For the word, see [跪](words/跪.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

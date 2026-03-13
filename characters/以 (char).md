@@ -33,6 +33,9 @@ aliases:
   - 㠯
 注音: ㄧ
 ---
+>[!tip] This is a page about the character 以.
+>For the word, see [以](words/以.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
