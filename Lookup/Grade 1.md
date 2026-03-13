@@ -69,36 +69,36 @@ size: 250
 66. <ruby>[[玉 (char)]]<rt>˙ㄛㄎ</rt></ruby> - jade	66	
 67. <ruby>[[号]]<rt>ㄏㄚˇ</rt></ruby> - symbol	67	
 68. <ruby>[[外]]<rt>ˇㄚ˙</rt></ruby> - outside	68	
-69. <ruby>[[用]]<rt>˙ㄛㄥ</rt></ruby> - use	69	
-70. <ruby>[[半]]<rt>ㄅㄚㄋ</rt></ruby> - half	70	
-71. <ruby>[[白 (char)]]<rt>ㄅㄚㄎ</rt></ruby> - white	71	
-72. <ruby>[[主]]<rt>ㄐㄨ</rt></ruby> - lord, master	72	
-73. <ruby>[[立 (char)]]<rt>ㄌㄧㄆ</rt></ruby> - stand	73	
-74. <ruby>[[母]]<rt>ㄇㄛˇ</rt></ruby> - mother	74	
-75. <ruby>[[正 (char)]]<rt>ㄐㄧㄥ</rt></ruby> - correct	75	
-76. <ruby>[[左]]<rt>ㄐㄚ</rt></ruby> - left	76	
-77. <ruby>[[四 (char)]]<rt>ㄙㄧ˙</rt></ruby> - four, 4	77
-78. <ruby>[[生]]<rt>ㄙㄚㄥ</rt></ruby> - life	78	
-79. <ruby>[[竹 (char)]]<rt>ㄐㄨㄎ</rt></ruby> - bamboo	79	
-80. <ruby>[[毎 (char)]]<rt>ㄇㄛ˙</rt></ruby> - each	80	
-81. <ruby>[[気 (char)]]<rt>ㄎㄧ˙</rt></ruby> - feeling	81	
-82. <ruby>[[年 (char)]]<rt>ㄋㄝㄋ</rt></ruby> - year	82	
-83. <ruby>[[肉 (char)]]<rt>ㄋㄨㄎ</rt></ruby> - meat	83	
-84. <ruby>[[多 (char)]]<rt>ㄉㄚ</rt></ruby> - many	84	
-85. <ruby>[[休]]<rt>ㄏ˙ㄨ</rt></ruby> - rest	85	
-86. <ruby>[[字 (char)]]<rt>ㄐㄧ</rt></ruby> - glyph	86	
-87. <ruby>[[糸]]<rt>ㄙㄚ</rt></ruby> - silk thread	87	
-88. <ruby>[[回 (char)]]<rt>ㄏㄛ˙</rt></ruby> - turns	88	
-89. <ruby>[[次]]<rt>ㄑㄧ˙</rt></ruby> - order	89	
-90. <ruby>[[先]]<rt>ㄙㄝㄋ</rt></ruby> - prior	90	
-91. <ruby>[[会 (char)]]<rt>ㄏˇㄝ</rt></ruby> - meet, gather	91	
-92. <ruby>[[米 (char)]]<rt>ㄇㄝ˙</rt></ruby> - rice (uncooked)	92	
-93. <ruby>[[耳 (char)]]<rt>ㄋㄧ</rt></ruby> - ear	93	
-94. <ruby>[[地 (char)]]<rt>ㄉㄧ˙</rt></ruby> - land	94	
-95. <ruby>[[有 (char)]]<rt>˙ㄨ</rt></ruby> - have	95	
-96. <ruby>[[当 (char)]]<rt>ㄉㄚㄥ</rt></ruby> - while	96	
-97. <ruby>[[行 (char)]]<rt>ㄏㄚㄥ</rt></ruby> - attend, go to	97	
-98. <ruby>[[両 (char)]]<rt>ㄌ˙ㄚㄥ</rt></ruby> - both	98	
+69. <ruby>[用](characters/用.md)<rt>˙ㄛㄥ</rt></ruby> - use	69	
+70. <ruby>[半](characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - half	70	
+71. <ruby>[白 (char)](characters/白%20(char).md)<rt>ㄅㄚㄎ</rt></ruby> - white	71	
+72. <ruby>[主](characters/主.md)<rt>ㄐㄨ</rt></ruby> - lord, master	72	
+73. <ruby>[立 (char)](characters/立%20(char).md)<rt>ㄌㄧㄆ</rt></ruby> - stand	73	
+74. <ruby>[母](characters/母.md)<rt>ㄇㄛˇ</rt></ruby> - mother	74	
+75. <ruby>[正](characters/正%20(char).md)<rt>ㄐㄧㄥ</rt></ruby> - correct	75	
+76. <ruby>[左](characters/左.md)<rt>ㄐㄚ</rt></ruby> - left	76	
+77. <ruby>[四](characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, 4	77
+78. <ruby>[生](characters/生.md)<rt>ㄙㄚㄥ</rt></ruby> - life	78	
+79. <ruby>[竹](characters/竹%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> - bamboo	79	
+80. <ruby>[毎](characters/毎%20(char).md)<rt>ㄇㄛ˙</rt></ruby> - each	80	
+81. <ruby>[気](characters/気%20(char).md)<rt>ㄎㄧ˙</rt></ruby> - feeling	81	
+82. <ruby>[年](characters/年%20(char).md)<rt>ㄋㄝㄋ</rt></ruby> - year	82	
+83. <ruby>[肉](characters/肉%20(char).md)<rt>ㄋㄨㄎ</rt></ruby> - meat	83	
+84. <ruby>[多](characters/多%20(char).md)<rt>ㄉㄚ</rt></ruby> - many	84	
+85. <ruby>[休](characters/休.md)<rt>ㄏ˙ㄨ</rt></ruby> - rest
+86. <ruby>[字](characters/字%20(char).md)<rt>ㄐㄧ</rt></ruby> - glyph
+87. <ruby>[[糸]]<rt>ㄙㄚ</rt></ruby> - silk thread
+88. <ruby>[[回 (char)]]<rt>ㄏㄛ˙</rt></ruby> - turns
+89. <ruby>[[次]]<rt>ㄑㄧ˙</rt></ruby> - order
+90. <ruby>[[先]]<rt>ㄙㄝㄋ</rt></ruby> - prior
+91. <ruby>[[会 (char)]]<rt>ㄏˇㄝ</rt></ruby> - meet, gather
+92. <ruby>[[米 (char)]]<rt>ㄇㄝ˙</rt></ruby> - rice (uncooked)
+93. <ruby>[[耳 (char)]]<rt>ㄋㄧ</rt></ruby> - ear
+94. <ruby>[[地 (char)]]<rt>ㄉㄧ˙</rt></ruby> - land
+95. <ruby>[[有 (char)]]<rt>˙ㄨ</rt></ruby> - have
+96. <ruby>[[当 (char)]]<rt>ㄉㄚㄥ</rt></ruby> - while
+97. <ruby>[[行 (char)]]<rt>ㄏㄚㄥ</rt></ruby> - attend, go to
+98. <ruby>[両](characters/両%20(char).md)<rt>ㄌ˙ㄚㄥ</rt></ruby> - both	
 99. <ruby>[[死]]<rt>ㄙㄧ˙</rt></ruby> - die	99	
 100. <ruby>[[虫]]<rt>ㄐㄨㄥ</rt></ruby> - bug	100	
 101. <ruby>[[向 (char)]]<rt>ㄏ˙ㄚㄥ</rt></ruby> - toward, -ward	101	
