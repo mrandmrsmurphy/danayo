@@ -16,7 +16,7 @@ middle_chinese_final: ɣiæŋ
 stroke_count: 19
 radical: 金
 skip_number: 1-8-11
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - mirror

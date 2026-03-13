@@ -254,12 +254,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1278. [[傾]] : lean
 1279. [[携]] : portable
 1280. [[継]] : 	繼	inherit
-1281. [[詣]] : visit a temple
+1281. [詣 (char)](characters/詣%20(char).md) : visit a temple
 1282. [[慶]] : jubilation
 1283. [[憬]] : long for
 1284. [[稽]] : consider
 1285. [[憩]] : recess
-1286. [[鶏 (char)]] : 	鷄	chicken
+1286. [鶏 (char)](characters/鶏%20(char).md) : 	鷄	chicken
 1287. [[迎]] : welcome
 1288. [[鯨]] : whale
 1289. [[隙]] : fissure

@@ -34,8 +34,9 @@ aliases:
   - 诣
 注音: ㄝ˙
 ---
+>[!tip] This is about the character.
+>For the word, see [詣](words/詣.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

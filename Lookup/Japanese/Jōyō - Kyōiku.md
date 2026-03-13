@@ -946,7 +946,7 @@ The following prefecture names were added in 2017:
 943. [[皇]] : kō	ō	emperor
 944. [[盛]] : sei	mo-ru	prosper
 945. [[盟]] : mei	 	alliance
-946. [[看]] : kan	 	watch over
+946. [看 (char)](characters/看%20(char).md) : kan	 	watch over
 947. [[沙|砂]] : sa	sha ; suna	sand
 948. [[磁]] : ji	 	magnet
 949. [[私]] : shi	watakushi ; watashi	me

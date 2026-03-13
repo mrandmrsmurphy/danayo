@@ -35,9 +35,16 @@ aliases:
   - 胶
 注音: ㄍ˙ㄛˇ
 ---
+>[!tip] This is about the character.
+>For the word, see [交](words/交.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
 - Derived characters
 	- [絞](characters/絞.md)
+	- <ruby>[咬 (char)](/characters/咬%20(char).md)<rt>˙ㄚˇ</rt></ruby>
+
+
+## Words
+- <ruby>[交流](/words/交流.md)<rt>ㄍ˙ㄚˇㄌ˙ㄨ</rt></ruby> - mix, mingle
