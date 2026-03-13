@@ -27,10 +27,10 @@ language: English
 21. pair <ruby>[双](/words/双.md)<rt>ㄙˇㄚㄥ</rt></ruby>
 22. quarter <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧ˙ㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
 23. first <ruby>[第一](/words/第一.md)<rt>ㄉㄝ˙·ㄧㄊ</rt></ruby>
-24. second
-25. single
-26. third
-27. twice
+24. second <ruby>[第二](/words/第二.md)<rt>ㄉㄝ˙ㄋㄧ˙</rt></ruby>
+25. single [[単独]]
+26. third <ruby>[第三](/words/第三.md)<rt>ㄉㄝ˙ㄙㄚㄇ</rt></ruby>
+27. twice <ruby>[再度](/words/再度.md)<rt>ㄐㄚ˙ㄉㄛ</rt></ruby>, [[二回]], [[二度]]
 28. twin [[双子]]
 
 ## Math
@@ -41,17 +41,19 @@ language: English
 - equal
 - odd
 - even
-- number
+- number 計数
 - real
 - complex
+	- imaginary numbers [[横数]]
 - whole
 - fraction
 - negative
 - exponent
-- infinity
-- logarithm
-- sine
-- cosine
-- tangent
+- infinity [[無限]]
+- logarithm 対数
+- sine <ruby>[正弦](/words/正弦.md)<rt>ㄐㄧㄥㄏㄝㄋ</rt></ruby>
+- cosine <ruby>[余弦](/words/余弦.md)<rt>˙ㄛㄏㄝㄋ</rt></ruby>
+- tangent [[正接]]
+	- geometric sense [[接線]]
 - integrate
 - different
