@@ -39,5 +39,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[回路](/words/回路.md)<rt>ㄏㄛ˙ㄌㄛ</rt></ruby> - loop, circuit 

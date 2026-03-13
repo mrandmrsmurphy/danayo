@@ -33,6 +33,8 @@ aliases:
   - 𦩻
 注音: ㄐㄚˇ
 ---
+>[!tip] This is about the character.
+>For the word, see [朝](words/朝.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
