@@ -8,7 +8,7 @@ size: 13
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
 ## Characters
-嗣, 幹, 盟, 鈴 (char), 鈿, 鉄 (char), 鉗 (char), 鉛 (char), 鉢 (char), 鉤 (char), 鉦, 鉱, 雴, 飴, 飼, 飽 (char), 飾
+嗣, 幹, 盟, 鈴 (char), 鈿, 鉄 (char), 鉗 (char), 鉛 (char), 鉢 (char), 鉤 (char), 鉦, 鉱, [[雴]], 飴, 飼, 飽 (char), 飾
 
 ## Datacheck
 ```dataview

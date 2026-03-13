@@ -3,9 +3,7 @@
 - [[characters/涜.md]]
 - [[characters/胰.md]]
 - [[characters/薮.md]]
-- [[characters/蠖.md]]
 - [[characters/踝.md]]
-- [[characters/雴.md]]
 - [[characters/髯.md]]
 
 ## Chengyu
