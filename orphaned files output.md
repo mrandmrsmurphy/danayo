@@ -67,7 +67,6 @@
 - [[chengyu/諸行無常.md]]
 - [[chengyu/尊王㐮夷.md]]
 - [[chengyu/色即是空.md]]
-- [[characters/閙.md]]
 - [[characters/碍.md]]
 - [[words/罔両.md]]
 - [[characters/涜.md]]

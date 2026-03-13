@@ -7,7 +7,13 @@ skip_number: 3-8-4
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-悶, 開, 閏 (char), 閑, 間, 閔, 閙
+1. 悶
+2. 開
+3. 閏 (char)
+4. 閑
+5. 間
+6. 閔
+7. [[閙]]
 
 ## Datacheck
 ```dataview

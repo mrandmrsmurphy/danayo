@@ -32,6 +32,7 @@
 ## Our Records
 1. [[廈]]
 2. [[歆]] - be pleased
+3. [[閙]]
 
 ```base
 version: 1

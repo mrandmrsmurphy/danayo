@@ -1,12 +1,13 @@
 ---
 size: 18
+radical: 雨
 ---
 
 > [[Radicals]] - Rain "雨"
 
 ## Strokes
 ### +0
-- <ruby>[[雨 (char)]]<rt>우</rt></ruby> (⻗)
+- <ruby>[[雨 (char)]]<rt>ㄨ</rt></ruby> (⻗)
 
 ### +3 
 - [[雪 (char)]]
@@ -16,7 +17,7 @@ size: 18
 ### +5
 - [[零 (char)]]
 - [[雷 (char)]]
-- [[雾]] 
+- [雾](characters/霧%20(char).md)
 ### +6
 - [[需]]
 ### +7
@@ -30,9 +31,9 @@ size: 18
 ### +12
 - [[露 (char)]]
 ### +13
-- [[霸]]
+- [霸](characters/覇.md)
 ### +16
-- [[靈]]
+- [靈](characters/霊.md)
 
 ## Data check
 ```dataview
