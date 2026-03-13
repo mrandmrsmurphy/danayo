@@ -37,5 +37,8 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+
+## Words
+- <ruby>[支那](/words/支那.md)<rt>ㄐㄝㄋㄚ</rt></ruby> - Zhina

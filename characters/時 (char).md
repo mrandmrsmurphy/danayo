@@ -33,8 +33,12 @@ aliases:
   - 时
 注音: ㄙㄧ
 ---
+>[!tip] This is about the character. 
+>For the word, see [時](words/時.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄥㄙㄧ</rt></ruby> - then

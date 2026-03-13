@@ -38,5 +38,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Word
+- <ruby>[大人](/words/大人.md)<rt>ㄉㄚ˙ㄋㄧㄋ</rt></ruby> - adult

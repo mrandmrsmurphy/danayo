@@ -40,4 +40,8 @@ aliases:
 ```
 
 ## Notes
-- [[Korean MS]]
+- [Korean MS](lookup/Korean/Korean%20MS.md)
+-
+
+## Words
+- <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄥㄙㄧ</rt></ruby> - then

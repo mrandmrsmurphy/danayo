@@ -41,9 +41,9 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- [[SKIP-4-2-4]]
+- [SKIP-4-2-4](lookup/SKIP/SKIP-4/SKIP-4-2-4.md)
 ## Words
 - <ruby>[人参](/words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> - ginseng
 - <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby> - population
 - <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron
-- 
+- <ruby>[大人](/words/大人.md)<rt>ㄉㄚ˙ㄋㄧㄋ</rt></ruby> - adult
