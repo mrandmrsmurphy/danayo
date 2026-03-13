@@ -36,8 +36,9 @@ aliases:
   - 敛
 注音: ㄌ˙ㄝㄇ
 ---
+>[!tip] This is a page about the character 㪘.
+>For the word, see [[㪘]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
