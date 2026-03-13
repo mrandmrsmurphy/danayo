@@ -38,16 +38,26 @@ aliases:
 ---
 >[!tip] This is a page about the character 不.
 >For the word, see [不](words/不.md)
-
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 ## Etymologies
 - 木 + 不 = [杯 (char)](characters/杯%20(char).md) 
 - 不 + 口 = [否 (char)](characters/否%20(char).md)
 - 不 + 一 = [丕](characters/丕.md)
+## Words
+- [不但](words/不但.md)
+- [不信](words/不信.md)
+- [不同](words/不同.md)
+- [不平](words/不平.md)
+- [不幸](words/不幸.md)
+- [不当](words/不当.md)
+- [不断](words/不断.md)
+- [不満](words/不満.md)
+- [不用](words/不用.md)
+- [不要](words/不要.md)
+- [不許](words/不許.md)
+- [不過](words/不過.md)
 
 ## Chengyu
 - <ruby>[不共戴天](/chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ˙ㄛㄥㄉㄚ˙ㄊㄝㄋ</rt></ruby>

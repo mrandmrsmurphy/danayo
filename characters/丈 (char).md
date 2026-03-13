@@ -35,10 +35,14 @@ aliases:
 ---
 >[!tip] This is a page about the character 丈.
 >For the word, see [丈](words/丈.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-## Etymologies
+## Notes
+### Etymologies
 - [[杖]] = 木 + 丈
+### Words
+- [丈人](words/丈人.md)
+- [丈夫](words/丈夫.md)
+- [丈母](words/丈母.md)
+- <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄥ</rt></ruby>
