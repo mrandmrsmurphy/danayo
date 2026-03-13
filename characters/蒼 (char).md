@@ -15,7 +15,7 @@ middle_chinese_final: ɑŋ
 stroke_count: 16
 radical: 艸
 skip_number: 2-3-13
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - blue
@@ -36,9 +36,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 蒼.
 >For the word, see [蒼](words/蒼.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

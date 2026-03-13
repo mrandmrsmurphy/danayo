@@ -1104,7 +1104,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[沪]] in [[lookup/Japanese/Hyōgai]]
 - [[麹]] in [[lookup/Japanese/Hyōgai]]
 - [[桝]] in [[lookup/Japanese/Hyōgai]]
-- [[茄]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[characters/茄]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
 - [[掴]] in [[lookup/Japanese/Jinmeiyō]]
 - [[栞]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
 - [[梧]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]

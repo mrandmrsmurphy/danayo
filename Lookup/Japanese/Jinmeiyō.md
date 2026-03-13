@@ -11,7 +11,7 @@
  [[按]] [[挺]] [[挽]] [[捧]] [[捷]] [[捺]] [[掬]] [槙](characters/槙.md)
 
 ## Not Done
-- [[茄]] - eggplant (do it)
+- [[characters/茄]] - eggplant (do it)
 - [[竿]] - bamboo pole (do it)
 - [[諺]] - hangul (do it)
 
@@ -85,7 +85,7 @@
 - 禎 --> 禎
 - 穰 --> 穣
 - 轟 --> 軣
-- 蟬 --> 蝉
+- 蟬 --> [蝉 (char)](characters/蝉%20(char).md)
 - 蠟 --> 蝋
 - 蹟 --> 跡
 - 惟 --> 唯
