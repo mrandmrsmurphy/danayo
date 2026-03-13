@@ -34,9 +34,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 噸.
 >For the word, see [噸](words/噸.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [口](Radical%20030) + [頓](characters/頓.md)

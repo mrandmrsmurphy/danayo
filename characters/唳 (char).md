@@ -35,9 +35,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 唳.
 >For the word, see [唳](words/唳.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [口](Radical%20030) + [戻](characters/戻.md)

@@ -39,5 +39,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*zuːn): semantic [足](Radical%20157) (“foot”) + phonetic [尊](characters/尊.md) (OC \*ʔsuːn) – to sit.
