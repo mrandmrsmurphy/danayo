@@ -1,5 +1,3 @@
-
-- [[characters/檸.md]]
 - [[characters/涜.md]]
 - [[characters/胰.md]]
 - [[characters/薮.md]]
