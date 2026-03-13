@@ -41,3 +41,6 @@ language: English
 - Family: 科
 - Genus: 属
 - Species: 種
+
+## More
+- <ruby>[螳螂](/words/螳螂.md)<rt>ㄉㄚㄥㄌㄚㄥ</rt></ruby> - mantis
