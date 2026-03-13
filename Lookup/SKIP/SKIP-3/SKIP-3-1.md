@@ -3,7 +3,13 @@ date-last-perfect: 2026-03-07
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
-1. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md): 司
+1. no
+2. no
+3. no
+4. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md): 司
+5. no
+6. no
+7. [SKIP-3-1-7](lookup/SKIP/SKIP-3/SKIP-3-1-7.md): 直, 虱
 
 ## Base check
 ```base

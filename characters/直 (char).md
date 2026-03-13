@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨk
-stroke_count: "8"
+stroke_count: 8
 radical: 目
 skip_number: 3-1-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - straight

@@ -8,34 +8,36 @@ korean:
 korean_native: ""
 japanese:
   - SHITSU
-japanese_nanori: ""
+japanese_nanori:
+  - しらみ
 vietnamese:
+  - sắt
 middle_chinese_initial: s
 middle_chinese_final: ɪt
 stroke_count: 8
 radical: 虫
 skip_number: 3-1-7
 grade_level: 名
-pos: ""
+pos: 名詞
 english:
   - louse (lice)
 羅馬字: sod
 韓文: 솓
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: 無
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 8063
 mc_id: 4234
 graphemic_classification: 卂
 stand_in: 虱
-aliases:
+aliases: 蝨
 注音: ㄙㄛㄊ
 ---
 >[!tip] This is a page about the character 虱.
 >For the word, see [虱](words/虱.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [[lookup/SKIP/SKIP-3/SKIP-3-1-7]] ([[Stroke 08]]) - [ㄙㄛㄊ](syllables/ㄙㄛㄊ.md)
+- [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md), No HSK, [Hyōgai](lookup/Japanese/Hyōgai.md), [Grade Advanced](lookup/Grade%20Advanced.md)
