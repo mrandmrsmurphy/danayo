@@ -45,3 +45,6 @@ aliases:
 - [[Radical 001]]
 - [[SKIP-4-3-2]]
 - The noun 'up', 'above'.  Remember, you must use 오 to make this an adverb.
+
+## Words
+- [[上述]] The aforementioned
