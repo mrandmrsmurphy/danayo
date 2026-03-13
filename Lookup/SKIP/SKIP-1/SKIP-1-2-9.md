@@ -8,7 +8,7 @@ skip_number: 1-2-9
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 ## Characters
-倦, 偈, 偏, 偕, 停, 健, 偪, 偰, 偲, 側, 偵, 偶, 偷, 偽, 頂, 頃
+倦, 偈, 偏, 偕, 停, 健, [[偪]], 偰, 偲, 側, 偵, 偶, 偷, 偽, 頂, 頃
 
 ## Datacheck
 ```dataview

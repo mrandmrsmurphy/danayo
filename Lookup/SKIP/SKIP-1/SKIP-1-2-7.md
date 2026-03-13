@@ -8,7 +8,7 @@ skip_number: 1-2-7
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-侠, 侯, 侵, 侶, 便, 俁, 係, 促, 俄, 俊, 俐, 俗, 俘, 保, 信
+侠, 侯, 侵, 侶, 便, 俁, 係, 促, 俄, 俊, 俐, 俗, [[俘]], 保, 信
 
 ## Datacheck
 ```dataview

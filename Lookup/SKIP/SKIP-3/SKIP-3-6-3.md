@@ -1,6 +1,6 @@
 ---
 stroke_count: 9
-date-last-perfect:
+date-last-perfect: 2026-03-12
 size: 3
 skip_number: 3-6-3
 ---
@@ -8,7 +8,9 @@ skip_number: 3-6-3
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-咼, 哉 (char), 彦
+1. <ruby>[咼](/characters/咼.md)<rt>ㄎ˙ㄝ˙</rt></ruby> - slanting
+2. <ruby>[哉](/characters/哉%20(char).md)<rt>ㄐㄚ˙</rt></ruby> - O
+3. <ruby>[彦](/characters/彦.md)<rt>ㄝㄋ</rt></ruby> - nobleman
 
 ## Datacheck
 ```dataview

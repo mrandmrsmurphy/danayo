@@ -8,7 +8,7 @@ size: 12
 > [Stroke 14](lookup/Stroke/Stroke%2014.md)
 
 ## Characters
-暢, 碑, 碩, 磁, 種, 稲, 端, 複, 頗 (char), 領, 颯 (char), 𥈞
+暢, 碑, 碩, 磁, 種, 稲, 端, 複, 頗 (char), 領, 颯 (char), [[𥈞]]
 
 ## Datacheck
 ```dataview
