@@ -45,6 +45,17 @@ aliases:
 ```
 
 ## Etymologies
-- 木 + 不 = 杯 
-- 不 + 口 = 否
-- 不 + 一 = 丕
+- 木 + 不 = [杯 (char)](characters/杯%20(char).md) 
+- 不 + 口 = [否 (char)](characters/否%20(char).md)
+- 不 + 一 = [丕](characters/丕.md)
+
+## Chengyu
+- <ruby>[不共戴天](/chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ˙ㄛㄥㄉㄚ˙ㄊㄝㄋ</rt></ruby>
+- <ruby>[不可思議](/chengyu/不可思議.md)<rt>ㄅㄛㄊㄎㄚㄙㄚ·ˇㄧ</rt></ruby>
+- <ruby>[不可思議](/chengyu/不可思議.md)<rt>ㄅㄛㄊㄎㄚㄙㄚ·ˇㄧ</rt></ruby>
+- <ruby>[不可思議](/chengyu/不可思議.md)<rt>ㄅㄛㄊㄎㄚㄙㄚ·ˇㄧ</rt></ruby>
+- <ruby>[不可思議](/chengyu/不可思議.md)<rt>ㄅㄛㄊㄎㄚㄙㄚ·ˇㄧ</rt></ruby> - a thousand miles isn't far
+- <ruby>[優柔不断](/chengyu/優柔不断.md)<rt>ㄨˇㄋ˙ㄨㄅㄛㄊㄉˇㄚㄋ</rt></ruby> - shilly shally
+- <ruby>[欲求不満](/chengyu/欲求不満.md)<rt>˙ㄛㄎㄍ˙ㄨㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety
+- <ruby>[百聞不如一見](/chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ˙ㄛㄋㄧㄊㄍ˙ㄝㄋ</rt></ruby> - one look is worth a thousand tellings
+- 
