@@ -41,3 +41,4 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*keŋʔ, \*ɡeŋ): phonetic [巠](characters/巠.md) (OC \*keːŋ) + semantic [頁](Radical%20181) (“head”).

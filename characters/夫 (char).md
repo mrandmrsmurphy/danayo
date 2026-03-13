@@ -17,7 +17,7 @@ middle_chinese_final: ɨo
 stroke_count: 4
 radical: 大
 skip_number: 4-4-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - right?
