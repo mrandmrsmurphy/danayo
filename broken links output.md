@@ -516,7 +516,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[月末]] in [[lexipedia/Calendar]]
 - [[槐]] in [[lexipedia/Calendar]], [[lookup/Korean/Korean Name ㄱ]]
 - [[臘]] in [[lexipedia/Calendar]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
-- [[本日]] in [[lexipedia/Calendar]]
+- [[words/本日]] in [[lexipedia/Calendar]]
 - [[即日]] in [[lexipedia/Calendar]]
 - [[是日]] in [[lexipedia/Calendar]]
 - [[次日]] in [[lexipedia/Calendar]]
