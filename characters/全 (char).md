@@ -42,3 +42,8 @@ aliases:
 ```
 ## Notes
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md)
+- By radical, we have to say [入](Radical%20011) + [王](characters/王%20(char).md).  However, according to Shinjitai, the top is 人.  [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md)) - [ㄐˇㄝㄋ](syllables/ㄐˇㄝㄋ.md)
+### Derived Characters
+- 銓 --> 選
+- [[詮]]
+- [栓 (char)](characters/栓%20(char).md)

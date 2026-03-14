@@ -33,9 +33,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 王.
 >For the word, see [王](words/王.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+### Derived Characters
+- [全 (char)](characters/全%20(char).md)
