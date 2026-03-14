@@ -689,7 +689,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鍛冶]] in [[lexipedia/Metals]]
 - [[words/石素]] in [[lexipedia/Periodic Table]]
 - [[玉素]] in [[lexipedia/Periodic Table]]
-- [[硼素]] in [[lexipedia/Periodic Table]]
+- [[words/硼素]] in [[lexipedia/Periodic Table]]
 - [[炭素]] in [[lexipedia/Periodic Table]]
 - [[窒素]] in [[lexipedia/Periodic Table]]
 - [[養素]] in [[lexipedia/Periodic Table]]

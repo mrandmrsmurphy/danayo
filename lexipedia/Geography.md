@@ -105,7 +105,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - Sweden ([[瑞典]])  
 - Norway ([[挪]][[威]])  
 - <ruby>芬蘭<rt>ㄆㄨㄋㄌㄚㄋ</rt></ruby>
-- Denmark (丹麦)
+- <ruby>[丹麦](/words/丹麦.md)<rt>ㄉㄚㄋㄇㄚㄎ</rt></ruby>
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
 ## 非洲
