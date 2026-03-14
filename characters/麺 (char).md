@@ -30,6 +30,7 @@ graphemic_classification: 面
 stand_in: 麺
 aliases:
   - 麵
+  - 麪
 注音: ㄇㄝㄋ
 ---
 >[!tip] This is a page about the character 麺.

@@ -25,9 +25,9 @@
 
 These are all characters with 3-stroke "surrounding radical".  Some important radicals in this family include 辶, 广, 囗, 尸, 廴, 匚.  Some hard to identify "singletons" with this attribute are:
 * [[式]]
-* [[向]]
+* [向 (char)](characters/向%20(char).md)
 * [[民]]
-* [[処 (char)]]
+* [処 (char)](characters/処%20(char).md)
 
 ## Base check
 ```base
