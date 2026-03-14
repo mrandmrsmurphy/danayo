@@ -1,6 +1,6 @@
 |Prefix|Meaning|[[日]]|<ruby>[週日](/words/週日.md)<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>|<ruby>[月](/words/月.md)<rt>ˇㄝㄊ</rt></ruby>|<ruby>[年](/words/年.md)<rt>ㄋㄝㄋ</rt></ruby>|<ruby>[世紀](/words/世紀.md)<rt>ㄙㄝㄍㄧ</rt></ruby>|
 |---|---|---|---|---|---|---|
-|[今](words/今.md)|this|今日|今週|今月|今年|今世紀|
+|[今](words/今.md)|this|[[今日]]|今週|今月|今年|今世紀|
 |[来](words/来.md)|next|来日|来週|来月|来年|来世紀|
 |[昨](words/昨.md)|previous |昨日|昨週|昨月|昨年|昨世紀|
 |[当](words/当.md)|current|当日|当週|当月|当年|当世紀|
