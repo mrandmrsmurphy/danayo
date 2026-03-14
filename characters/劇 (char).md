@@ -41,4 +41,4 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*ɡaɡ): phonetic 豦 (OC *kas, *ɡa) + semantic 刀 (“knife”).
+- 形声 (OC \*ɡaɡ): phonetic [[豦]] (OC \*kas, \*ɡa) + semantic [刀](Radical%20018) (“knife”).
