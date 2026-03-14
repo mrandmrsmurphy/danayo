@@ -1,5 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[words/射術]] in [[Redeeming the Six Arts]], [[words/六芸]]
 - [[words/御術]] in [[Redeeming the Six Arts]], [[words/六芸]]
 - [[words/書法]] in [[Redeeming the Six Arts]], [[words/六芸]]
 - [[words/莊子]] in [[Redeeming the Six Arts]], [[words/混沌]]
@@ -17,7 +16,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/多]] in [[characters/多 (char)]]
 - [[words/太]] in [[characters/太 (char)]]
 - [[words/女]] in [[characters/女 (char)]]
-- [[字]] in [[characters/字 (char)]], [[syllables/ㄐㄧ]]
+- [[words/字]] in [[characters/字 (char)]], [[syllables/ㄐㄧ]]
 - [[words/就]] in [[characters/就 (char)]]
 - [[words/伍]] in [[characters/伍 (char)]]
 - [[words/会]] in [[characters/会 (char)]]
@@ -131,7 +130,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[滲出]] in [[characters/滲]]
 - [[滲漏]] in [[characters/滲]]
 - [[words/漆]] in [[characters/漆 (char)]]
-- [[words/無]] in [[characters/無 (char)]]
 - [[且爵]] in [[characters/爵]]
 - [[words/猟]] in [[characters/猟 (char)]]
 - [[猩紅熱]] in [[characters/猩]]
