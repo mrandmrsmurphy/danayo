@@ -17,7 +17,7 @@ stroke_count: 12
 radical: 火
 skip_number: 2-2-10
 grade_level: "2"
-pos: ""
+pos: 系詞
 english:
   - lack
 羅馬字: mu
@@ -43,3 +43,4 @@ aliases:
 
 ## Chengyu
 - <ruby>[厚顔無恥](/chengyu/厚顔無恥.md)<rt>ㄏㄛˇ·ㄚㄋㄇㄨㄑㄧ</rt></ruby> - utterly shameless
+- <ruby>[諸行無常](/chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄥㄇㄨㄙ˙ㄚㄥ</rt></ruby>
