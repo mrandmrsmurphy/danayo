@@ -9,7 +9,7 @@
 	- 詩經 (Book of Odes), 
 	- 樂經 fragments, 
 	- 樂論 texts
-- [[射術]]
+- [[words/射術]]
 - [[御術]]
 	- 春秋, 
 	- 史記
