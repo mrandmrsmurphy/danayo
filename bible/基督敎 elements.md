@@ -1,1 +1,1 @@
-1. [[bible/使徒信条 t]]
+1. [[bible/使徒信条 critical text]]
