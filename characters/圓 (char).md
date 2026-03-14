@@ -35,9 +35,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 圓.
 >For the word, see [圓](words/圓.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[圓周](/words/圓周.md)<rt>ˇㄝㄋㄐㄨˇ</rt></ruby> - circumference

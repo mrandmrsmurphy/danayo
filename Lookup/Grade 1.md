@@ -21,44 +21,44 @@ size: 250
 18. <ruby>[千](characters/千.md)<rt>ㄑㄝㄋ</rt></ruby> - thousand
 19. <ruby>[万](characters/萬.md)<rt>ㄇㄛㄋ</rt></ruby> - myriad, ten-thousand
 20. <ruby>[山](characters/山%20(char).md)<rt>ㄙㄚㄋ</rt></ruby> - mountain
-21. <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - up, above
-22. <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby> - to, DATIVE
-23. <ruby>[[小 (char)]]<rt>ㄙㄛ</rt></ruby> - small
-24. <ruby>[[口 (char)]]<rt>ㄎㄛˇ</rt></ruby> - mouth
-25. <ruby>[[女 (char)]]<rt>ㄋ˙ㄛˇ</rt></ruby> - woman
-26. <ruby>[[下 (char)]]<rt>ㄏㄚ</rt></ruby> - down, below
+21. <ruby>[上](characters/上%20(char).md)<rt>ㄙ˙ㄚㄥ</rt></ruby> - up, above
+22. <ruby>[于](characters/于%20(char).md)<rt>ㄨ</rt></ruby> - to, DATIVE
+23. <ruby>[小](characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby> - small
+24. <ruby>[口](characters/口%20(char).md)<rt>ㄎㄛˇ</rt></ruby> - mouth
+25. <ruby>[女](characters/女%20(char).md)<rt>ㄋ˙ㄛˇ</rt></ruby> - woman
+26. <ruby>[下](characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down, below
 27. <ruby>[[土 (char)]]<rt>ㄊㄛ</rt></ruby> - earth
-28. <ruby>[[太 (char)]]<rt>ㄊㄚ˙</rt></ruby> - great
-29. <ruby>[[友]]<rt>˙ㄨˇ</rt></ruby> - friend
+28. <ruby>[太](characters/太%20(char).md)<rt>ㄊㄚ˙</rt></ruby> - great
+29. <ruby>[友](characters/友.md)<rt>˙ㄨˇ</rt></ruby> - friend
 30. <ruby>[[内]]<rt>ㄋㄛ˙</rt></ruby> - inside
-31. <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby> - -ing	31	
-32. <ruby>[[水 (char)]]<rt>ㄙㄨ</rt></ruby> - water	32	
-33. <ruby>[[父]]<rt>ㄅㄨ</rt></ruby> - father	33	
-34. <ruby>[[今 (char)]]<rt>ㄍㄧㄇ</rt></ruby> - now	34	
-35. <ruby>[[毛 (char)]]<rt>ㄇㄚˇ</rt></ruby> - fur	35	
-36. <ruby>[[火 (char)]]<rt>ㄏㄨㄚ</rt></ruby> - fire	36	
-37. <ruby>[[犬 (char)]]<rt>ㄎˇㄝㄋ</rt></ruby> - dog	37	
-38. <ruby>[[手 (char)]]<rt>ㄙ˙ㄨ</rt></ruby> - hand	38	
-39. <ruby>[[牛 (char)]]<rt>ㄋ˙ㄨ</rt></ruby> - cow	39	
-40. <ruby>[[午]]<rt>ㄛ</rt></ruby> - noon	40	
-41. <ruby>[[文]]<rt>ㄇㄨㄋ</rt></ruby> - culture	41	
-42. <ruby>[[天 (char)]]<rt>ㄊㄝㄋ</rt></ruby> - sky	42	
-43. <ruby>[[木 (char)]]<rt>ㄇㄛㄎ</rt></ruby> - tree, bush	43	
-44. <ruby>[[分 (char)]]<rt>ㄅㄨㄋ</rt></ruby> - divide	44	
-45. <ruby>[[五 (char)]]<rt>ㄛ</rt></ruby> - five, 5	45
-46. <ruby>[[王 (char)]]<rt>ˇㄚㄥ</rt></ruby> - king	46	
-47. <ruby>[[月 (char)]]<rt>ˇㄝㄊ</rt></ruby> - month, moon	47	
-48. <ruby>[[日 (char)]]<rt>ㄋㄧㄊ</rt></ruby> - day, sun	48	
-49. <ruby>[[六 (char)]]<rt>ㄌㄨㄎ</rt></ruby> - six, 6	49	
-50. <ruby>[[元]]<rt>ˇㄝㄋ</rt></ruby> - element	50	
-51. <ruby>[[少 (char)]]<rt>ㄙㄛˇ</rt></ruby> - few	51	
-52. <ruby>[[心 (char)]]<rt>ㄙㄧㄇ</rt></ruby> - heart	52	
-53. <ruby>[[出 (char)]]<rt>ㄑㄨㄊ</rt></ruby> - exit	53	
-54. <ruby>[[市]]<rt>ㄙㄧ</rt></ruby> - city	54	
-55. <ruby>[[北]]<rt>ㄅㄨㄎ</rt></ruby> - north	55	
-56. <ruby>[[目 (char)]]<rt>ㄇㄨㄎ</rt></ruby> - eye	56	
-57. <ruby>[[田]]<rt>ㄉㄝㄋ</rt></ruby> - field	57	
-58. <ruby>[[本 (char)]]<rt>ㄅㄛㄋ</rt></ruby> - foundation	58	
+31. <ruby>[[中 (char)]]<rt>ㄐㄨㄥ</rt></ruby> - -ing
+32. <ruby>[[水 (char)]]<rt>ㄙㄨ</rt></ruby> - water
+33. <ruby>[[父]]<rt>ㄅㄨ</rt></ruby> - father
+34. <ruby>[[今 (char)]]<rt>ㄍㄧㄇ</rt></ruby> - now
+35. <ruby>[[毛 (char)]]<rt>ㄇㄚˇ</rt></ruby> - fur
+36. <ruby>[[火 (char)]]<rt>ㄏㄨㄚ</rt></ruby> - fire
+37. <ruby>[[犬 (char)]]<rt>ㄎˇㄝㄋ</rt></ruby> - dog
+38. <ruby>[[手 (char)]]<rt>ㄙ˙ㄨ</rt></ruby> - hand
+39. <ruby>[[牛 (char)]]<rt>ㄋ˙ㄨ</rt></ruby> - cow
+40. <ruby>[[午]]<rt>ㄛ</rt></ruby> - noon
+41. <ruby>[[文]]<rt>ㄇㄨㄋ</rt></ruby> - culture
+42. <ruby>[[天 (char)]]<rt>ㄊㄝㄋ</rt></ruby> - sky
+43. <ruby>[[木 (char)]]<rt>ㄇㄛㄎ</rt></ruby> - tree, bush
+44. <ruby>[[分 (char)]]<rt>ㄅㄨㄋ</rt></ruby> - divide
+45. <ruby>[[五 (char)]]<rt>ㄛ</rt></ruby> - five, 5
+46. <ruby>[[王 (char)]]<rt>ˇㄚㄥ</rt></ruby> - king
+47. <ruby>[[月 (char)]]<rt>ˇㄝㄊ</rt></ruby> - month, moon
+48. <ruby>[[日 (char)]]<rt>ㄋㄧㄊ</rt></ruby> - day, sun
+49. <ruby>[[六 (char)]]<rt>ㄌㄨㄎ</rt></ruby> - six, 6
+50. <ruby>[[元]]<rt>ˇㄝㄋ</rt></ruby> - element	
+51. <ruby>[[少 (char)]]<rt>ㄙㄛˇ</rt></ruby> - few
+52. <ruby>[[心 (char)]]<rt>ㄙㄧㄇ</rt></ruby> - heart
+53. <ruby>[[出 (char)]]<rt>ㄑㄨㄊ</rt></ruby> - exit
+54. <ruby>[[市]]<rt>ㄙㄧ</rt></ruby> - city
+55. <ruby>[[北]]<rt>ㄅㄨㄎ</rt></ruby> - north
+56. <ruby>[[目 (char)]]<rt>ㄇㄨㄎ</rt></ruby> - eye
+57. <ruby>[[田]]<rt>ㄉㄝㄋ</rt></ruby> - field
+58. <ruby>[[本 (char)]]<rt>ㄅㄛㄋ</rt></ruby> - foundation
 59. <ruby>[[他 (char)]]<rt>ㄊㄚ</rt></ruby> - another	59	
 60. <ruby>[[冬 (char)]]<rt>ㄊㄛㄥ</rt></ruby> - winter	60	
 61. <ruby>[[去 (char)]]<rt>ㄎ˙ㄛ</rt></ruby> - go	61	

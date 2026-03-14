@@ -14,9 +14,6 @@ vietnamese:
   - chơ
   - chưa
   - chã
-  - chở
-  - chứa
-  - đã
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: ɨa
 stroke_count: 15
@@ -41,9 +38,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 諸.
 >For the word, see [諸](words/諸.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
