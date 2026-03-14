@@ -549,7 +549,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1572. [[穂]] : 	ear
 1573. [[随]] : 	隨	follow
 1574. [[髄]] : 	髓	marrow
-1575. [[枢]] : 	樞	hinge
+1575. [枢 (char)](characters/枢%20(char).md) : 	樞	hinge
 1576. [[崇]] : adore
 1577. [[拠|据]] : set
 1578. [[杉]] : cedar

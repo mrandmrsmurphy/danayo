@@ -32,7 +32,7 @@ skip_number: 1-4-4
 - <ruby>[[林]]<rt>림</rt></ruby>
 - <ruby>[[枚 (char)]]<rt>뫼</rt></ruby>
 - <ruby>[[枝]]<rt>저</rt></ruby>
-- <ruby>[[枢]]<rt>추</rt></ruby>
+- <ruby>[枢 (char)](characters/枢%20(char).md)<rt>추</rt></ruby>
 ### Ward
 - <ruby>[[欧]]<rt>웃</rt></ruby>
 - <ruby>[[殴]]<rt>옷</rt></ruby>

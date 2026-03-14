@@ -35,9 +35,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 枢.
 >For the word, see [枢](words/枢.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*kʰjo): semantic [木](Radical%20075) + phonetic [区](characters/区.md) (OC \*qoː, *kʰo).
