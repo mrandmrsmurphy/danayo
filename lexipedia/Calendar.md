@@ -1,22 +1,20 @@
-|Prefix|Meaning|[[日]]|<ruby>[週日](/words/週日.md)<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>|<ruby>[月](/words/月.md)<rt>ˇㄝㄊ</rt></ruby>|<ruby>[年](/words/年.md)<rt>ㄋㄝㄋ</rt></ruby>|<ruby>[世紀](/words/世紀.md)<rt>ㄙㄝㄍㄧ</rt></ruby>|
+|Prefix|Meaning|<ruby>[日](/words/日.md)<rt>ㄋㄧㄊ</rt></ruby>|<ruby>[週日](/words/週日.md)<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>|<ruby>[月](/words/月.md)<rt>ˇㄝㄊ</rt></ruby>|<ruby>[年](/words/年.md)<rt>ㄋㄝㄋ</rt></ruby>|<ruby>[世紀](/words/世紀.md)<rt>ㄙㄝㄍㄧ</rt></ruby>|
 |---|---|---|---|---|---|---|
-|[今](words/今.md)|this|[[今日]]|今週|今月|今年|今世紀|
-|[来](words/来.md)|next|[[来日]]|来週|来月|来年|来世紀|
-|[昨](words/昨.md)|previous |[[昨日]]|昨週|昨月|昨年|昨世紀|
-|[当](words/当.md)|current|当日|当週|当月|当年|当世紀|
-|[[翌]]|following|翌日|翌週|翌月|翌年|翌世紀|
-|[前](words/前.md)|prior|前日|前週|前月|前年|前世紀|
-
-There are also prefixes
-- [[毎]]- = every x
-- [隔](characters/隔.md)- = every other x
-- [連](words/連.md)- = x over x, for successive x
+|<ruby>[今](/words/今.md)<rt>ㄍㄧㄇ</rt></ruby>|this|[[今日]]|今週|今月|今年|今世紀|
+|<ruby>[来](/words/来.md)<rt>ㄌㄚ˙</rt></ruby>|next|[[来日]]|来週|来月|来年|来世紀|
+|<ruby>[昨](/words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>|previous |[[昨日]]|昨週|昨月|昨年|昨世紀|
+|<ruby>[当](/words/当.md)<rt>ㄉㄚㄥ</rt></ruby>|current|[[当日]]|当週|当月|当年|当世紀|
+|[[翌]]|following|[[翌日]]|翌週|翌月|翌年|翌世紀|
+|[前](words/前.md)|prior|[[前日]]|前週|前月|前年|前世紀|
+|[[毎]]|every|[[毎日]]|毎週|毎月|毎年|毎世紀|
+|[[隔]]|every other|[[隔日]]|隔週|隔月|隔年|隔世紀|
+|[[連]]|x over x|[[連日]]|連週|連月|連年|連世紀|
 
 ## Week
 Disappointing to the Abrahamic religions, Asian weeks start on Monday
 The beginning of the week - [[週初]].
 The middle of the week - [[週中]].
-The end of the week - [[週末]].
+The end of the week - <ruby>[週末](/words/週末.md)<rt>ㄐㄨˇㄇㄚㄊ</rt></ruby>.
 
 - <ruby>[月曜日](/words/月曜日.md)<rt>ˇㄝㄊ˙ㄛˇㄋㄧㄊ</rt></ruby> - Monday
 - <ruby>[火曜日](/words/火曜日.md)<rt>ㄏˇㄚ·˙ㄛˇㄋㄧㄊ</rt></ruby> - Tuesday
@@ -38,12 +36,12 @@ The end of the  month - [[月末]].
 4. <ruby>[四月](/words/四月.md)<rt>ㄙㄧ˙·ˇㄝㄊ</rt></ruby> - April
 5. <ruby>[五月](/words/五月.md)<rt>ㄛ·ˇㄝㄊ</rt></ruby> - May
 6. <ruby>[六月](/words/六月.md)<rt>ㄌㄨㄎ·ˇㄝㄊ</rt></ruby> - June
-7. 七月
-- 八月
-- 九月
-- 十月
-- 十一月
-- 十二月
+7. [[七月]] - July
+8. [[八月]] - August
+9. [[九月]] - September
+10. [[十月]] - October
+11. [[十一月]] - November
+12. [[十二月]] - December
 
 An ancient calendar existed:
 
@@ -81,15 +79,15 @@ Or a poetic one:
 
 ## Days
 1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>
-2. 二日
-3. 三日
-4. 四日
-5. 五日
-6. 六日
-7. 七日
-8. 八日
-9. 九日
-10. 十日
+2. [[二日]]
+3. [[三日]]
+4. [[四日]]
+5. [[五日]]
+6. [[六日]]
+7. [[七日]]
+8. [[八日]]
+9. [[九日]]
+10. [[十日]]
 11. 十一日
 12. 十二日
 13. 十三日
@@ -129,10 +127,10 @@ The end of the year - [[千末]].
 
 
 ### Lunar Calendar
-- [新年](words/新年.md) = [[元日]] - new year's day (but which is ambiguous)
-- [[元旦]] - New Year's Morning, January 1st a.m. (Gregorian morning)
+- <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> = [[元日]] - new year's day (but which is ambiguous)
+- <ruby>[元旦](/words/元旦.md)<rt>ˇㄝㄋㄉㄚㄋ</rt></ruby> - New Year's Morning, January 1st a.m. (Gregorian morning)
 - [[正月]] - first month of the "year" (varies from country to country)
-- [[春節]] - Chinese/Korean/Vietnamese New Year, Spring Festival
+- <ruby>[春節](/words/春節.md)<rt>ㄑㄨㄋㄐㄝㄊ</rt></ruby> - Chinese/Korean/Vietnamese New Year, Spring Festival
 - [[陰暦年]] = [[旧正月]] - lunar new year = old new year
 
 Lunar months had their own terminology:
@@ -157,9 +155,9 @@ The middle of the century - [[世紀中]].
 The end of the century - [[世紀末]].
 
 ### Eras
-- [[words/明治]] (1868–1912)   
+- <ruby>[明治](/words/明治.md)<rt>ㄇ˙ㄝㄥㄑㄧ</rt></ruby> (1868–1912)   
 - <ruby>[大正](/words/大正.md)<rt>ㄉㄚ˙ㄐㄧㄥ</rt></ruby> (1912–1926)
-- [[words/昭和]] (1926–1989)
+- <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛˇㄏˇㄚ</rt></ruby> (1926–1989)
 - [[平成]] (1989–2019)
 - [[令和]] (2019– )
 
