@@ -32,6 +32,7 @@ graphemic_classification: 倉
 stand_in: 蒼
 aliases:
   - 苍
+  - 滄
 注音: ㄑˇㄚㄥ
 ---
 >[!tip] This is a page about the character 蒼.

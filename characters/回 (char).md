@@ -46,3 +46,6 @@ aliases:
 
 ## Words
 - <ruby>[回路](/words/回路.md)<rt>ㄏㄛ˙ㄌㄛ</rt></ruby> - loop, circuit 
+
+## Chengyu
+- <ruby>[起死回生](/chengyu/起死回生.md)<rt>ㄎㄧㄙㄧ˙ㄏㄛ˙ㄙㄚㄥ</rt></ruby>

@@ -17,7 +17,7 @@ middle_chinese_final: ɣa
 stroke_count: 9
 radical: 艸
 skip_number: 2-3-6
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - tea (drink)
