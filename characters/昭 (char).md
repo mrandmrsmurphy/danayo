@@ -48,4 +48,4 @@ date-last-perfect: 2026-03-09
 - [[昭明]] - lighting
 - 班昭 - Ban Zhao 45-116
 - 孝昭王 - Hyoso of Shilla 687-702
-- [[昭和]] - Shōwa
+- [[words/昭和]] - Shōwa

@@ -1,8 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[昭和]] in [[Japan]], [[characters/昭 (char)]], [[grammar/文法 - 03文字法]], [[lexipedia/Calendar]], [[lexipedia/歴史綱要]]
 - [[平成]] in [[Japan]], [[lexipedia/Calendar]], [[lexipedia/歴史綱要]]
 - [[令和]] in [[Japan]], [[lexipedia/Calendar]], [[lexipedia/歴史綱要]]
-- [[駿]] in [[Japan]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]], [[lookup/SKIP/SKIP-1/SKIP-1-10-7]]
 - [[射術]] in [[Redeeming the Six Arts]], [[words/六芸]]
 - [[御術]] in [[Redeeming the Six Arts]], [[words/六芸]]
 - [[書法]] in [[Redeeming the Six Arts]], [[words/六芸]]
@@ -21,7 +19,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/丈]] in [[characters/丈 (char)]]
 - [[words/下]] in [[characters/下 (char)]]
 - [[words/両]] in [[characters/両 (char)]]
-- [[words/之]] in [[characters/之 (char)]]
 - [[words/乎]] in [[characters/乎 (char)]]
 - [[words/乙]] in [[characters/乙 (char)]]
 - [[九日]] in [[characters/九 (char)]]

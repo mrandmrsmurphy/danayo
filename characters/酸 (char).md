@@ -15,7 +15,7 @@ middle_chinese_final: uɑn
 stroke_count: 14
 radical: 酉
 skip_number: 1-7-7
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - acidic

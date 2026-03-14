@@ -1,7 +1,7 @@
 
 - Emperor Meiji ([[words/明治]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby>) — Meiji Tennō (1852–1912, reigned 1867–1912)
 - Emperor Taishō ([[大正]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby>) — Taishō Tennō (1879–1926, reigned 1912–1926)
-- Emperor Shōwa / Hirohito ([[昭和]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> / [[裕]][[仁]]) — Shōwa Tennō / Hirohito (1901–1989, reigned 1926–1989)
+- Emperor Shōwa / Hirohito ([[words/昭和]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> / [[裕]][[仁]]) — Shōwa Tennō / Hirohito (1901–1989, reigned 1926–1989)
 - Emperor Heisei / Akihito ([[平成]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> / [[明]][[仁]]) — Heisei Tennō / Akihito (b. 1933, reigned 1989–2019)
 - Emperor Reiwa / Naruhito ([[令和]]<ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> / [[徳]][[仁]]) — Reiwa Tennō / Naruhito (b. 1960, reigned 2019–present)
 - Itō Hirobumi ([[伊]][[藤]][[博]][[文]]) — (1841–1909)
@@ -11,5 +11,5 @@
 - Yamamoto Isoroku ([[words/山本]]五十六) — (1884–1943)
 - Katsushika Hokusai ([[葛]][[飾]][[北]][[斎]]) — (1760–1849, but enduring influence)
 - Natsume Sōseki ([[夏]][[目]][[漱]][[石]]) — (1867–1916)
-- Hayao Miyazaki ([[宮]][[埼|崎]][[駿]]) — (b. 1941)
+- Hayao Miyazaki ([[宮]][[埼|崎]][駿](characters/俊.md)) — (b. 1941)
 - Akira Kurosawa ([[黒 (char)]][[沢|澤]]明) — (1910–1998)
