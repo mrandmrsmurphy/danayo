@@ -46,4 +46,6 @@ aliases:
 ```
 
 ## Etymology
-Phono-semantic compound (形聲 / 形声, OC ^tjeŋ, ^tjeŋs): phonetic 丁 (OC ^rteːŋ, ^teːŋ) + semantic 止 (“foot”) – to go on a long journey. Original form of 征 (OC ^tjeŋ, “to go on long campaign”).  Later, 丁 was simplified into a horizontal stroke, as in 旦. Folk etymologies do not recognize 丁.
+- 形声 (OC \*tjeŋ, \*tjeŋs): phonetic [[丁]] (OC ^rteːŋ, ^teːŋ) + semantic [[止]] (“foot”) – to go on a long journey. Original form of 征 (OC ^tjeŋ, “to go on long campaign”).  Later, 丁 was simplified into a horizontal stroke, as in 旦. Folk etymologies do not recognize 丁.
+
+<ruby>[公明正大](/chengyu/公明正大.md)<rt>ㄍㄛㄥㄇ˙ㄝㄥㄐㄧㄥㄉㄚ˙</rt></ruby>
