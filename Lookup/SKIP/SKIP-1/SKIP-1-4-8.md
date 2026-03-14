@@ -8,19 +8,7 @@ size: 35
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.skip_number === "1-4-8")
-// or stricter: .where(p => p["your_property"] === "value"
-// or for numbers/strings/etc: adjust comparison as needed
-
-const titles = pages
-  .map(p => p.file.name)
-  .sort()
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-```
+勝, 斑, [[晩 (char)]], 晴, 暁, 期 (char), 棋, 棍, 棒, 棕, 棚 (char), 棟, 棲, 棺 (char), 椅, 椋, 植, 椎, 椒, 検, 極 (char), 殖, 焰, 焼, 牌 (char), 琥, 琳, 琺, 瑛, 脹, 脾, 腔, 腕 (char), 雄 (char), 𦜝
 
 ## Datacheck
 ```dataview

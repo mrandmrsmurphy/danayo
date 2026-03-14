@@ -902,7 +902,7 @@ The following prefecture names were added in 2017:
 899. [[忘]] : bō	wasu-reru	forget
 900. [[忠]] : chū	 	loyalty
 901. [[憲]] : ken	 	constitution
-902. [[我 (char)]] : ga	ware	ego
+902. [我](characters/我%20(char).md) : ga	ware	ego
 903. [[批]] : hi	 	criticism
 904. [[担]] : tan	nina-u	shouldering
 905. [[拝]] : hai	oga-mu	worship
@@ -913,13 +913,13 @@ The following prefecture names were added in 2017:
 910. [[揮]] : ki	 	command
 911. [[操]] : sō	ayatsu-ru	maneuver
 912. [[敬]] : kei	uyama-u	respect
-913. [映 (char)](characters/映%20(char).md) : ei	utsu-ru	reflect
-914. [[晩]] : ban	 	nightfall
+913. [映](characters/映%20(char).md) : ei	utsu-ru	reflect
+914. [晩](characters/晩%20(char).md) : ban	 	nightfall
 915. [[暖]] : dan	atata-kai	warmth
 916. [[暮]] : bo	ku-rasu	livelihood
 917. [[朗]] : rō	hoga-raka	melodious
 918. [[機|机]] : ki	tsukue	desk
-919. [[枚 (char)]] : mai	 	sheet of…
+919. [枚](characters/枚%20(char).md) : mai	 	sheet of…
 920. [[染]] : sen	so-meru	dye
 921. [[株]] : kabu	 	stocks
 922. [[棒]] : bō	 	rod
@@ -927,7 +927,7 @@ The following prefecture names were added in 2017:
 924. [[権]] : ken	 	rights
 925. [[樹]] : ju	ki	trees
 926. [[欲]] : yoku	ho-shii	longing
-927. [[段 (char)]] : dan	 	steps
+927. [段](characters/段%20(char).md) : dan	 	steps
 928. [[沿]] : en	so-u	run alongside
 929. [[泉]] : sen	izumi	fountain
 930. [[洗]] : sen	ara-u	wash
