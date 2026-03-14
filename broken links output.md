@@ -26,7 +26,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/兄]] in [[characters/兄 (char)]]
 - [[words/光]] in [[characters/光 (char)]]
 - [[words/兎]] in [[characters/兎 (char)]]
-- [[words/全]] in [[characters/全 (char)]]
 - [[words/丁]] in [[characters/丁 (char)]]
 - [[words/丈]] in [[characters/丈 (char)]]
 - [[words/下]] in [[characters/下 (char)]]

@@ -50,3 +50,6 @@ aliases:
 - <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby> - population
 - <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron
 - <ruby>[大人](/words/大人.md)<rt>ㄉㄚ˙ㄋㄧㄋ</rt></ruby> - adult
+
+## Chengyu
+- <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄥㄋ˙ㄚㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
