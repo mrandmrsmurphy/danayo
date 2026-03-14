@@ -33,6 +33,7 @@ stand_in: 晩
 aliases:
   - 晚
 注音: ㄇㄛㄋ
+date-last-perfect: 2026-03-13
 ---
 >[!tip] This is a page about the character 晩.
 >For the word, see [晩](words/晩.md)
@@ -46,6 +47,7 @@ aliases:
 
 ## Word
 - <ruby>[今晩安](/words/今晩安.md)<rt>ㄍㄧㄇㄇㄛㄋ·ㄚㄋ</rt></ruby> - good evening
-
+- <ruby>[晩飯](/words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby> - dinner
+- <ruby>[晩餐](/words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby> - supper
 ## Chengyu
 - <ruby>[大器晩成](/chengyu/大器晩成.md)<rt>ㄉㄚ˙ㄎㄧ˙ㄇㄛㄋㄙㄧㄥ</rt></ruby> late bloomer
