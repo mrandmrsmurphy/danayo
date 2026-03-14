@@ -23,46 +23,48 @@
 [柵](characters/柵%20(char).md)
 
 ### 처  
-[[凄]] [[悽]] 
+[凄](characters/凄.md) [悽](characters/凄.md)
 
 ### 척  
-[[陟]] [[倜]] [[刺]] [[剔]] [[擲]] [[滌]] [[瘠]] [[脊]] [[蹠]] [[隻]] [[墌]] [[慼]]
+[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [[滌]] [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) [隻](characters/只%20(char).md) [[墌]] [慼](characters/慼.md)
 
 ### 천 
-[[仟]] [[阡]] [[喘]] [[擅]] [[玔]] [[穿]] [[舛]] [[釧]] [[闡]] [[韆]] [[茜]] 
+[[仟]] [[阡]] [喘](characters/喘.md) [擅](characters/擅.md) [玔](characters/釧.md) [穿](characters/穿%20(char).md) [舛](characters/舛.md) [釧](characters/釧.md) [[闡]] [韆](characters/千.md) [[茜]]
 
 ### 철  
-[[澈]] [[撤]] [[轍]] [[綴]] [[凸]] [[輟]] [[悊]] [[瞮]] 
+[澈](characters/澈.md) [撤](characters/撤%20(char).md) [轍](characters/綴%20(char).md) [綴](characters/綴%20(char).md) [凸](characters/凸%20(char).md) [輟](characters/綴%20(char).md) [[悊]] [[瞮]]
 
 ### 첨 
-[[僉]] [[瞻]] [[沾]] [[簽]] [[籤]] [[詹]] [[諂]] [[甜]]
+[僉](characters/㑒.md) [瞻](characters/瞻.md) [[沾]] [[簽]] [[籤]] [詹](characters/瞻.md) [諂](characters/諂%20(char).md) [甜](characters/甜.md)
 
 ### 첩 
-[[帖]] [[捷]] [[堞]] [[牒]] [[疊]] [[睫]] [[諜]] [[貼]] [[輒]] 
+[帖](characters/帖%20(char).md) [捷](characters/捷.md) [[堞]] [牒](characters/牒.md) [疊](characters/畳%20(char).md) [[睫]] [諜](characters/諜.md) [貼](characters/貼%20(char).md) [輒](characters/輒.md) 
 
 ### 청 
-[[菁]] [[鯖]] 
+[菁](characters/青%20(char).md) [鯖](characters/鯖.md)
 
 ### 체 
-[[締]] [[諦]] [[切]] [[剃]] [[涕]] [[諟]] 
+[締](characters/締%20(char).md) [諦](characters/諦%20(char).md) [切](characters/切%20(char).md) [剃](characters/剃%20(char).md) [涕](characters/剃%20(char).md) [[諟]]
 
 ### 초 
-[[樵]] [[焦]] [[蕉]] [[楚]] [[剿]] [[哨]] [[憔]] [[梢]] [[椒]] [[炒]] [[硝]] [[礁]] [[稍]] [[苕]] [[貂]] [[酢]] [[醋]] [[醮]] [[岧]] [[釥]] [[俏]] 
+[[樵]] [焦](characters/焦%20(char).md) [蕉](characters/蕉.md) [楚](characters/楚.md) [[剿]] [哨](characters/哨.md) [[憔]] [梢](characters/梢.md) [椒](characters/椒.md) [炒](characters/炒%20(char).md) [硝](characters/硝.md) [礁](characters/礁.md) [稍](characters/稍%20(char).md) [[苕]] [貂](characters/貂.md) [酢](characters/酢.md) [醋](characters/酢.md) [[醮]] [[岧]] [[釥]] [[俏]] 
 
 ### 촉  
-[[囑]] [[矗]] [[蜀]] 
+[[囑]] [[矗]] [蜀](characters/蜀.md) 
 
 ### 촌  
-[[忖]] 
+[[忖]]
 
 ### 총 
-[[寵]] [[叢]] [[悤]] [[憁]] [[摠]] [[蔥]] [[冢]]
+[寵](characters/寵.md) [叢](characters/叢.md) [[悤]] [[憁]] [[摠]] [蔥](characters/葱.md) [[冢]]
 
 ### 촬 
-[[撮]] 
+[撮](characters/撮%20(char).md)
 
 ### 최 
-[[崔]] 
+[崔](characters/崔.md)
+
+up to here has been checked.
 
 ### 추 
 [[楸]] [[樞]] [[鄒]] [[錐]] [[錘]] [[墜]] [[椎]] [[湫]] [[皺]] [[芻]] [[萩]] [[諏]] [[趨]] [[酋]] [[鎚]] [[雛]] [[騶]] [[鰌]]
