@@ -36,9 +36,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 無.
 >For the word, see [無](words/無.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[厚顔無恥](/chengyu/厚顔無恥.md)<rt>ㄏㄛˇ·ㄚㄋㄇㄨㄑㄧ</rt></ruby> - utterly shameless

@@ -35,9 +35,11 @@ aliases:
 ---
 >[!tip] This is a page about the character 以.
 >For the word, see [以](words/以.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+
+## Chengyu
+- <ruby>[義以立名](/chengyu/義以立名.md)<rt>ˇㄧ·ㄧㄌㄧㄆㄇㄧㄥ</rt></ruby>
