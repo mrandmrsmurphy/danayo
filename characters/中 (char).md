@@ -39,5 +39,19 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- [[暗中]]
+
+## Words
+1. [[words/中原.md]]
+2. [[words/中国人.md]]
+3. [[words/中国語.md]]
+4. [[words/中学校.md]]
+5. [[words/中庭.md]]
+6. [[words/中心.md]]
+7. [[words/中性子.md]]
+8. [[words/中文.md]]
+9. [[words/中旬.md]]
+10. [[words/中耳.md]]
+11. [[words/中華民国.md]]
+12. [[words/中間.md]]
+13. [[暗中]]
 

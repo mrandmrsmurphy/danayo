@@ -40,5 +40,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨˇㄏˇㄚ·˙ㄚ</rt></ruby> - cloud by day, fire by night

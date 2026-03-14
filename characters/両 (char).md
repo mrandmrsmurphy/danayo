@@ -47,5 +47,8 @@ aliases:
 ```
 
 # Notes
-1. s
+1. 
 2. 借代字 for "tree and rock demon"
+
+## Words
+- [[両親]] - parents
