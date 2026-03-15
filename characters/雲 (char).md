@@ -24,7 +24,7 @@ english:
 羅馬字: "'un"
 韓文: 운
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 217
 mc_id: 611
@@ -34,7 +34,7 @@ aliases:
   - 云
   - 澐
 注音: ㄨㄋ
-date-last-perfect:
+date-last-perfect: 2026-03-15
 ---
 >[!tip] This is a page about the character 雲.
 >For the word, see [雲](words/雲.md)

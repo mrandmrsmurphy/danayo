@@ -36,9 +36,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 有.
 >For the word, see [有](words/有.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[希有](/words/希有.md)<rt>ㄏㄧ˙·˙ㄨ</rt></ruby> - rare
