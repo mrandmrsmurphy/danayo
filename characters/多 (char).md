@@ -33,9 +33,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 多.
 >For the word, see [多](words/多.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+### Derived Characters
+- <ruby>[爹](/characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father

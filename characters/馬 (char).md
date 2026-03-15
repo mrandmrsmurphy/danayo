@@ -38,9 +38,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 馬.
 >For the word, see [馬](words/馬.md)
-
+>For the radical, see [Radical 187](lookup/Radicals/Radical%20187.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
