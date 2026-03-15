@@ -31,6 +31,7 @@ graphemic_classification: 員
 stand_in: 圓
 aliases:
   - 圆
+  - 円
 注音: ˇㄝㄋ
 ---
 >[!tip] This is a page about the character 圓.
