@@ -2,7 +2,7 @@
 size: 470
 ---
 ## Characters
-[[濁]],
+[[濁]], [[硝]]
 
 ## Base check
 ```base

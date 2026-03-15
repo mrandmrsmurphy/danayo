@@ -33,9 +33,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 新.
 >For the word, see [新](words/新.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products

@@ -16,7 +16,7 @@ middle_chinese_final: ɣiɪm
 stroke_count: 9
 radical: 口
 skip_number: 2-3-6
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - article
@@ -35,9 +35,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 品.
 >For the word, see [品](words/品.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Notes
+- <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
