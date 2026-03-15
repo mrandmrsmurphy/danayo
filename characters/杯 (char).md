@@ -5,11 +5,13 @@ cantonese:
   - bui1
 korean:
   - 배
-korean_native: ""
+korean_native: 잔
 japanese:
   - HAI
-japanese_nanori: ""
+japanese_nanori:
+  - さかずき
 vietnamese:
+  - bôi
 middle_chinese_initial: p
 middle_chinese_final: uʌi
 stroke_count: 8

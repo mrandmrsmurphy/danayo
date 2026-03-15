@@ -15,17 +15,17 @@ language: English
 - leg - <ruby>脚<rt>갹</rt></ruby>
 - limb - <ruby>肢体<rt>저테</rt></ruby>
 - shoulder - <ruby>肩<rt>건</rt></ruby>
-- skin - <ruby>皮膚<rt>비푸</rt></ruby>
+- skin - <ruby>皮膚<rt>ㄅㄧㄆㄨ</rt></ruby>
 
 - nipple - <ruby>乳頭<rt>nudou</rt></ruby>; navel - <ruby>𦜝<rt>jei</rt></ruby>; waist - <ruby>腰部<rt>'youbou</rt></ruby>; hip (bone) - <ruby>腰骨<rt>'yougot</rt></ruby>; abdomen - <ruby>腹部<rt>bukbou</rt></ruby> 
-- thumb/big toe - <ruby>大指<rt>daijii</rt></ruby>; knuckle - <ruby>指関節<rt>jiigwamjet</rt></ruby>; palm - <ruby>手掌<rt>syujang</rt></ruby>; elbow - <ruby>肘<rt>jum</rt></ruby> 
-- thigh - <ruby>大腿<rt>daitoi</rt></ruby>; calf - <ruby>脹脛<rt>cangheng</rt></ruby>, heel - <ruby>踵骨<rt>jonggot</rt></ruby>, sole - <ruby>足裏<rt>jokli</rt></ruby>, toe <ruby>足指<rt>jokjii</rt></ruby>
-- vulva - <ruby>陰門<rt>'immon</rt></ruby>; vagina - <ruby>陰道<rt>'imdau</rt></ruby>; clitoris - <ruby>陰核<rt>'imhak</rt></ruby>; penis - <ruby>陰茎<rt>'imhang</rt></ruby> ; testicle - <ruby>睾丸<rt>gauhwan</rt></ruby> or <ruby>精巣<rt>jengjau</rt></ruby>; anus - <ruby>肛門<rt>gangmon</rt></ruby>
+- thumb/big toe - <ruby>大指<rt>ㄉㄚˇㄐㄧ˙</rt></ruby>; knuckle - <ruby>指関節<rt>jiigwamjet</rt></ruby>; palm - <ruby>手掌<rt>ㄙ˙ㄨㄐㄚㄥ</rt></ruby>; elbow - <ruby>肘<rt>ㄐㄨㄇ</rt></ruby> 
+- thigh - <ruby>大腿<rt>ㄉㄚ˙ㄊㄛ˙</rt></ruby>; calf - <ruby>脹脛<rt>ㄑㄚㄥㄏㄝㄥ</rt></ruby>, heel - <ruby>踵骨<rt>ㄐㄛㄥㄍㄛㄊ</rt></ruby>, sole - <ruby>足裏<rt>ㄐㄛㄎㄌㄧ</rt></ruby>, toe <ruby>足指<rt>ㄐㄛㄎㄌㄧ˙</rt></ruby>
+- vulva - <ruby>[陰門](words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>; vagina - <ruby>陰道<rt>ㄧㄇㄉㄚˇ</rt></ruby>; clitoris - <ruby>陰核<rt>ㄧㄇㄏㄚㄎ</rt></ruby>; penis - <ruby>陰茎<rt>ㄧㄇㄏㄚㄥ</rt></ruby> ; testicle - <ruby>睾丸<rt>ㄍㄚˇㄏˇㄚㄋ</rt></ruby> or <ruby>精巣<rt>ㄐㄝㄥㄐㄚˇ</rt></ruby>; anus - <ruby>肛門<rt>ㄍㄚㄥㄇㄛㄋ</rt></ruby>
 
 ## Head
-- cheek - <ruby>頬<rt>gep</rt></ruby>
-- ear - <ruby>耳<rt>ni</rt></ruby>
-- eye - <ruby>目<rt>muk</rt></ruby>
+- cheek - <ruby>頬<rt>ㄍㄝㄆ</rt></ruby>
+- ear - <ruby>耳<rt>ㄋㄧ</rt></ruby>
+- eye - <ruby>目<rt>ㄇㄨㄎ</rt></ruby>
 - face - <ruby>顔面<rt>'anmyen</rt></ruby>
 - forehead - <ruby>額頭<rt>'akdou</rt></ruby>
 - hair - <ruby>頭髪<rt>doupat</rt></ruby>
