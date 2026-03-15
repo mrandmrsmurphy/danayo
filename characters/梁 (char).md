@@ -29,6 +29,7 @@ mc_id: 368
 graphemic_classification: 刅
 stand_in: 梁
 aliases:
+  - 樑
 注音: ㄌ˙ㄚㄥ
 ---
 >[!tip] This is a page about the character 梁.
