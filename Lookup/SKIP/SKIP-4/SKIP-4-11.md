@@ -7,7 +7,7 @@ date-last-perfect: 2026-03-06
 
 ```dataviewjs
 const pages = dv.pages()
-  .where(p => p.skip_number === "4-11-4")
+  .where(p => p.graphemic_classification === "象形")
 // or stricter: .where(p => p["your_property"] === "value")
 // or for numbers/strings/etc: adjust comparison as needed
 
