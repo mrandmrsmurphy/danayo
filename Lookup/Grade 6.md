@@ -1,7 +1,8 @@
 ---
 size: 470
 ---
-
+## Characters
+[[濁]],
 
 ## Base check
 ```base

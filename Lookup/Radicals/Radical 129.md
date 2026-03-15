@@ -1,9 +1,13 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-03-14
 radical: 聿
 ---
 > [[Radicals]]
+> 聿 was a pictogram of a hand holding a brush
+
+1. <ruby>[肆](/characters/肆.md)<rt>ㄙㄧ˙</rt></ruby> - brazenly
+2. <ruby>[肇](/characters/肇.md)<rt>ㄐㄛˇ</rt></ruby> - begin
 
 ## Data search
 ```dataview
