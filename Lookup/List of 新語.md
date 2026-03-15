@@ -15,4 +15,5 @@
 2. <ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> - helium
 3. <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium
 4. <ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> - beryllium
-5. <ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
+5. <ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby> - titanium
+6. <ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium

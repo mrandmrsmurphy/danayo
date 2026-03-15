@@ -1,28 +1,29 @@
 ---
 language: 単亜語
 ---
+_Some of these must be #neologism s because sounds have chanced over time._
 ## 東亜
 
-<ruby>東亜<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>亜洲<rt>ㄚㄐㄨˇ</rt></ruby><ruby>東部<rt>ㄉㄛㄥㄅㄛˇ</rt></ruby>. Major states include 
-- <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
-- <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
+<ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄥ·ㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨˇ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄥㄅㄛˇ</rt></ruby>. Major states include 
+- <ruby>[中国](words/中国.md)<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>
+- <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
 - <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚˇㄙ˙ㄝㄋ</rt></ruby>
-- <ruby>蒙古<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
-- <ruby>西蔵<rt>ㄙㄝ˙ㄑㄚㄥ</rt></ruby>
-- <ruby>台湾<rt>ㄉㄚ˙·ˇㄚㄋ</rt></ruby>
-Historically related regions include <ruby>満洲<rt>ㄇㄚㄋㄐㄨˇ</rt></ruby> and <ruby>瑠球<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
+- <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄥㄍㄛ</rt></ruby>
+- <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝ˙ㄑㄚㄥ</rt></ruby>
+- <ruby>[台湾](words/台湾.md)<rt>ㄉㄚ˙·ˇㄚㄋ</rt></ruby>
+Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨˇ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ˙ㄨㄍ˙ㄨ</rt></ruby>.
 
 ### Landform
-The region contains <ruby>山地<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>, <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>列島<rt>ㄌㄝㄊㄊㄚˇ</rt></ruby>, and <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>.  
-Mountain and sea conditions influence <ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby>, and defense (<ruby>軍事<rt>ㄍㄨㄋㄐㄧ</rt></ruby>[[防守]]).
+The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby><ruby>[流域](words/流域.md)<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚˇ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>.  
+Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>, <ruby>[経済](words/経済.md)<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby>, and defense (<ruby>[軍事](words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby>[[防守]]).
 
 ### Political Development
-Historically, imperial rule (<ruby>帝国<rt>ㄊㄝ˙ㄍㄛㄎ</rt></ruby>[[制度]]) was dominant.  
-<ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>皇帝<rt>ㄏˇㄚㄥㄊㄝ˙</rt></ruby> governed extensive territory ([[広土]]).  
-<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>天皇<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
+Historically, imperial rule (<ruby>[帝国](words/帝国.md)<rt>ㄊㄝ˙ㄍㄛㄎ</rt></ruby>[[制度]]) was dominant.  
+<ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby>ti<ruby>[皇帝](words/皇帝.md)<rt>ㄏˇㄚㄥㄊㄝ˙</rt></ruby> governed extensive territory ([[広土]]).  
+<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>[天皇](words/天皇.md)<rt>ㄊㄝㄋㄏˇㄚㄥ</rt></ruby> served as sovereign ([[国主]]).
 
-In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>共和<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>社会<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
+In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>[共和](words/共和.md)<rt>ㄍ˙ㄛㄥㄏˇㄚ</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>[社会](words/社会.md)<rt>ㄙ˙ㄚㄏˇㄝ</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
 <ruby>共通<rt>ㄍ˙ㄛㄥㄊㄛㄥ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄥㄍ˙ㄚˇ</rt></ruby><ruby>伝播<rt>ㄐˇㄝㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏˇㄚ</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ˙ㄝㄥㄐㄚㄥ</rt></ruby>.
@@ -40,7 +41,7 @@ Many states experienced colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ
 - <ruby>[高綿](words/高綿.md)<rt>ㄍㄚˇㄇ˙ㄝㄋ</rt></ruby>
 - <ruby>[寮国](words/寮国.md)<rt>ㄌ˙ㄚˇㄍㄛㄎ</rt></ruby>
 - <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚ˙ㄙㄝ˙·ㄚ</rt></ruby>
-- Singapore ([[新嘉浦]] for 新嘉坡, 星加坡, 新加坡, 莘嘉浦, 新嘉波) a.k.a. [[獅城]] a.k.a. [[星洲]]
+- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> a.k.a. [[獅城]] a.k.a. [[星洲]]
 - <ruby>印度尼西亜<rt>ㄧㄋㄉㄛㄋㄧ˙ㄙㄝ˙·ㄚ</rt></ruby>  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
