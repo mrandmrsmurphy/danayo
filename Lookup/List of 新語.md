@@ -14,4 +14,5 @@
 1. <ruby>[軽素](/words/軽素.md)<rt>ㄎㄧㄥㄙㄛ</rt></ruby> - hydrogen
 2. <ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> - helium
 3. <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium
-4. <ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
+4. <ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> - beryllium
+5. <ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
