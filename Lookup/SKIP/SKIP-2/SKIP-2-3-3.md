@@ -4,11 +4,13 @@ stroke_count: 6
 date-last-perfect:
 skip_number: 2-3-3
 ---
-> [[SKIP]] : 2 : [[SKIP-2-3|3]]
-> [[Stroke 06]]
+> SKIP : 2 : [3](lookup/SKIP/SKIP-2/SKIP-2-3.md)
+> [Stroke 06](lookup/Stroke/Stroke%2006.md)
+
 ## Characters
 ### Common
-1. [[芋]] - taro
+1. <ruby>[芋](/characters/芋.md)<rt>ㄨ</rt></ruby> - taro
+2. <ruby>[羊](/characters/羊.md)<rt>˙ㄚㄥ</rt></ruby> - sheep
 
 ## Data double check
 ```dataview

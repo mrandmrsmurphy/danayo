@@ -29,7 +29,7 @@ skip_number: 1-2-6
 - [[兆|佻]] --> 兆
 - [[佩]] ... consider adding.  Korean name, HSK/5, component 無, var 珮 姵
 - [[百|佰]] --> 百
-- [[羊|佯]] --> 羊
+- 佯 --> 羊
 - [[列|冽]] --> 列
 - [[佼]] blend either with 交 or 狡
 - [[侭]] --> 尽
