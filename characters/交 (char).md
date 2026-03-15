@@ -43,8 +43,25 @@ aliases:
 ## Notes
 - Derived characters
 	- [絞](characters/絞.md)
-	- <ruby>[咬 (char)](/characters/咬%20(char).md)<rt>˙ㄚˇ</rt></ruby>
+	- <ruby>[咬](/characters/咬%20(char).md)<rt>˙ㄚˇ</rt></ruby>
 
 
 ## Words
 - <ruby>[交流](/words/交流.md)<rt>ㄍ˙ㄚˇㄌ˙ㄨ</rt></ruby> - mix, mingle
+- [[交互]]
+- [[交付]]
+- [[交尾]]
+- [[交差]]
+- [[交情]]
+- [[交接]]
+- [[交換]]
+- [[交易]]
+- [[交溝]]
+- [[交点]]
+- [[交通]]
+- [[交響]]
+- [[外交]]
+- [[援交]]
+- [[社交]]
+- [[雑交]]
+- [[性交]]
