@@ -1,3 +1,5 @@
+These have all bee checked to see which are redirects 
+
 ### 차 
 [叉](characters/叉%20(char).md) [[瑳]] [[侘]] [[嗟]] [[嵯]] [[磋]] [[箚]] [[蹉]] [[遮]] [[硨]] [[奲]] [[姹]] 
 
@@ -64,46 +66,44 @@
 ### 최 
 [崔](characters/崔.md)
 
-up to here has been checked.
-
 ### 추 
-[[楸]] [[樞]] [[鄒]] [[錐]] [[錘]] [[墜]] [[椎]] [[湫]] [[皺]] [[芻]] [[萩]] [[諏]] [[趨]] [[酋]] [[鎚]] [[雛]] [[騶]] [[鰌]]
+[[楸]] [樞](characters/枢%20(char).md) [鄒](characters/鄒.md) [錐](characters/錐.md) [錘](characters/錘.md) [墜](characters/墜.md) [椎](characters/椎.md) [[湫]] [皺](characters/皺.md) [芻](characters/芻.md) [萩](characters/萩.md) [[諏]] [趨](characters/趨%20(char).md) [酋](characters/酋.md) [[鎚]] [雛](characters/雛.md) [[騶]] [鰌](characters/鰌.md)
 
 ### 축  
-[[軸]] [[竺]] [[筑]] [[蹙]] [[蹴]] 
+[軸](characters/軸%20(char).md) [竺](characters/竺.md) [筑](characters/築.md) [[蹙]] [蹴](characters/蹴%20(char).md) 
 
 ### 춘 
-[[椿]] [[瑃]] [[賰]]
+[椿](characters/椿.md) [[瑃]] [[賰]]
 
 ### 출 
-[[朮]] [[黜]] 
+[朮](characters/朮.md) [黜](characters/黜.md) 
 
 ### 충 
-[[珫]] [[沖]] [[衷]] 
+[[珫]] [沖](characters/沖.md) [衷](characters/衷.md) 
 
 ### 췌 
-[[萃]] [[悴]] [[膵]] [[贅]] 
+[[萃]] [[悴]] [膵](characters/胰.md) [[贅]]
 
 ### 취 
-[[翠]] [[聚]] [[嘴]] [[娶]] [[炊]] [[脆]] [[驟]] [[鷲]] 
+[翠](characters/翠.md) [聚](characters/聚.md) [嘴](characters/嘴.md) [娶](characters/娶.md) [炊](characters/炊%20(char).md) [脆](characters/脆.md) [[驟]] [鷲](characters/就%20(char).md) 
 
 ### 측  
-[[仄]] [[惻]] [[廁]] 
+[仄](characters/仄.md) [[惻]] [廁](characters/厠.md) 
 
 ### 치 
-[[熾]] [[峙]] [[雉]] [[馳]] [[侈]] [[嗤]] [[幟]] [[梔]] [[淄]] [[痔]] [[癡]] [[緇]] [[緻]] [[蚩]] [[輜]] [[稚]] 
+[[熾]] [[峙]] [雉](characters/雉%20(char).md) [馳](characters/馳%20(char).md) [侈](characters/済%20(char).md) [[嗤]] [幟](characters/幟%20(char).md) [[梔]] [[淄]] [[痔]] [癡](characters/痴.md) [[緇]] [緻](characters/致%20(char).md) [[蚩]] [[輜]] [稚](characters/稚.md) 
 
 ### 칙 
-[[勅]] [[飭]] 
+[勅](characters/勅.md) [[飭]] 
 
 ### 칠 
-[[柒]] 
+[柒](characters/七%20(char).md)
 
 ### 침 
-[[琛]] [[砧]] [[鍼]] [[棽]] 
+[[琛]] [砧](characters/砧.md) [鍼](characters/針%20(char).md) [[棽]]
 
 ### 칩 
-[[蟄]]
+[蟄](characters/蟄%20(char).md)
 
 ### 칭 
 [[秤]]
