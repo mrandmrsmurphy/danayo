@@ -27,16 +27,17 @@ hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2038
 mc_id: 367
-graphemic_classification: 匕
+graphemic_classification: 會意
 stand_in: 化
 aliases:
+  - 㐶
+  - 𠏁
 注音: ㄏˇㄚ
 ---
 >[!tip] This is a page about the character 化.
 >For the word, see [化](words/化.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 会意 of two 人 (“person”), one upright (亻) and one upside down ([𠤎](Radical%20021)) — reversal; change. Shuowen considers 𠤎 to be a phonetic component.

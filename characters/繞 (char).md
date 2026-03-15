@@ -37,9 +37,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 繞.
 >For the word, see [繞](words/繞.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md)) - [ㄋㄛˇ](syllables/ㄋㄛˇ.md)

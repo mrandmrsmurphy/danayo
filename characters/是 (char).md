@@ -35,9 +35,9 @@ aliases:
 ---
 >[!tip] This is a page about the character 是.
 >For the word, see [是](words/是.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+### Derived Characters
+- <ruby>[匙](/characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
