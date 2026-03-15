@@ -15,7 +15,7 @@ middle_chinese_final: ɑn
 stroke_count: 9
 radical: 火
 skip_number: 2-3-6
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - charcoal
