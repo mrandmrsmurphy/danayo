@@ -207,30 +207,30 @@ size: 250
 204. <ruby>[[船]]<rt>ㄙˇㄝㄇ</rt></ruby> - boat, ship	204	
 205. <ruby>[[進]]<rt>ㄐㄧㄋ</rt></ruby> - advance, progress	205	
 206. <ruby>[[宿]]<rt>ㄙㄨㄎ</rt></ruby> - lodging	206	
-207. <ruby>[[魚 (char)]]<rt>˙ㄛ</rt></ruby> - fish	207	
+207. <ruby>[魚](characters/魚%20(char).md)<rt>˙ㄛ</rt></ruby> - fish	207	
 208. <ruby>[[都]]<rt>ㄉㄛ</rt></ruby> - capital, metropolis	208	
 209. <ruby>[[教]]<rt>ㄍ˙ㄛˇ</rt></ruby> - teach	209	
-210. <ruby>[[黄 (char)]]<rt>ㄏˇㄚㄥ</rt></ruby> - yellow	210	
-211. <ruby>[[章 (char)]]<rt>ㄐㄚㄥ</rt></ruby> - chapter	211	
-212. <ruby>[[細 (char)]]<rt>ㄙㄝ˙</rt></ruby> - fine, thin, slender, quiet (sound)	212	
-213. <ruby>[[軽 (char)]]<rt>ㄎㄧㄥ</rt></ruby> - light, not heavy	213	
-214. <ruby>[[朝 (char)]]<rt>ㄐㄚˇ</rt></ruby> - morning	214	
-215. <ruby>[[短 (char)]]<rt>ㄉˇㄚㄋ</rt></ruby> - short	215	
+210. <ruby>[黄](characters/黄%20(char).md)<rt>ㄏˇㄚㄥ</rt></ruby> - yellow	210	
+211. <ruby>[章](characters/章%20(char).md)<rt>ㄐㄚㄥ</rt></ruby> - chapter	211	
+212. <ruby>[細](characters/細%20(char).md)<rt>ㄙㄝ˙</rt></ruby> - fine, thin, slender, quiet (sound)	212	
+213. <ruby>[軽](characters/軽%20(char).md)<rt>ㄎㄧㄥ</rt></ruby> - light, not heavy	213	
+214. <ruby>[朝](characters/朝%20(char).md)<rt>ㄐㄚˇ</rt></ruby> - morning	214	
+215. <ruby>[短](characters/短%20(char).md)<rt>ㄉˇㄚㄋ</rt></ruby> - short	215	
 216. <ruby>[[開]]<rt>ㄎㄚ˙</rt></ruby> - open	216	
-217. <ruby>[[雲 (char)]]<rt>ㄨㄋ</rt></ruby> - cloud	217	
-218. <ruby>[[筆 (char)]]<rt>ㄅㄧㄊ</rt></ruby> - pen, stylus	218	
+217. <ruby>[雲](characters/雲%20(char).md)<rt>ㄨㄋ</rt></ruby> - cloud	217	
+218. <ruby>[筆](characters/筆%20(char).md)<rt>ㄅㄧㄊ</rt></ruby> - pen, stylus	218	
 219. <ruby>[[湖]]<rt>ㄏㄛˇ</rt></ruby> - lake	219	
 220. <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby> - collect	220	
-221. <ruby>[[等 (char)]]<rt>ㄉㄨㄥ</rt></ruby> - etc., rank	221	
+221. <ruby>[等](characters/等%20(char).md)<rt>ㄉㄨㄥ</rt></ruby> - etc., rank	221	
 222. <ruby>[[場]]<rt>ㄐㄚㄥ</rt></ruby> - market	222	
 223. <ruby>[[晴]]<rt>ㄑㄧㄥ</rt></ruby> - clear	223	
-224. <ruby>[[道 (char)]]<rt>ㄉㄚˇ</rt></ruby> - way	224	
+224. <ruby>[道](characters/道%20(char).md)<rt>ㄉㄚˇ</rt></ruby> - way	224	
 225. <ruby>[[間]]<rt>ㄍㄚㄋ</rt></ruby> - between, among	225	
 226. <ruby>[[買]]<rt>ㄇㄚ˙</rt></ruby> - buy	226	
-227. <ruby>[[着 (char)]]<rt>ㄐˇㄚㄎ</rt></ruby> - wear	227	
-228. <ruby>[[新 (char)]]<rt>ㄙㄧㄋ</rt></ruby> - new	228	
-229. <ruby>[[圓 (char)]]<rt>ˇㄝㄋ</rt></ruby> - circle, round	229	
-230. <ruby>[[話 (char)]]<rt>ㄏˇㄚ˙</rt></ruby> - speak on, talk about	230	
+227. <ruby>[着](characters/着%20(char).md)<rt>ㄐˇㄚㄎ</rt></ruby> - wear	227	
+228. <ruby>[新](characters/新%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> - new	228	
+229. <ruby>[圓](characters/圓%20(char).md)<rt>ˇㄝㄋ</rt></ruby> - circle, round	229	
+230. <ruby>[話](characters/話%20(char).md)<rt>ㄏˇㄚ˙</rt></ruby> - speak on, talk about	230	
 231. <ruby>[[漢]]<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese)	231	
 232. <ruby>[[路]]<rt>ㄌㄛ</rt></ruby> - road, path, journey	232	
 233. <ruby>[[電]]<rt>ㄉㄝㄋ</rt></ruby> - electricity	233	

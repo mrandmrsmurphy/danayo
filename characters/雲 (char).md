@@ -5,21 +5,23 @@ cantonese:
   - wan4
 korean:
   - 운
-korean_native: ""
+korean_native: 구름
 japanese:
   - UN
-japanese_nanori: ""
+japanese_nanori:
+  - も
 vietnamese:
+  - vân
 middle_chinese_initial: 0
 middle_chinese_final: ɨun
 stroke_count: 12
 radical: 雨
 skip_number: 2-8-4
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - cloud
-羅馬字: "'unsu"
+羅馬字: "'un"
 韓文: 운
 joyo_level: "2"
 hsk_level: ""
@@ -32,12 +34,20 @@ aliases:
   - 云
   - 澐
 注音: ㄨㄋ
+date-last-perfect:
 ---
 >[!tip] This is a page about the character 雲.
 >For the word, see [雲](words/雲.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- 云 was the original form of this word, but the weather radical ([雨](Radical%20173)) was added as the meaning "speak" came to be associated with it.  We have no words/chengyu that use this sense, so we fold 云 into this character.
+- [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄨㄋ](syllables/ㄨㄋ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
-# Notes
+## Words
+- <ruby>[雲呑](/words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby> - wontons
+
+## Chengyu
+- <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨˇㄏˇㄚ·˙ㄚ</rt></ruby> - cloud by day, fire by night
