@@ -34,9 +34,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 目.
 >For the word, see [目](words/目.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[題目](/words/題目.md)<rt>ㄊㄝ˙ㄇㄨㄎ</rt></ruby> - topic
