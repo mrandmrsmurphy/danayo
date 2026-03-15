@@ -29,6 +29,7 @@ graphemic_classification: 象形
 stand_in: 奥
 aliases:
   - 奧
+  - 澳
 注音: ㄨㄎ
 ---
 >[!tip] This is a page about the character 奥.

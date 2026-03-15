@@ -19,13 +19,15 @@ views:
       - pos
       - formula.score
       - grade_level
+      - middle_chinese_initial
+      - middle_chinese_final
     sort:
-      - property: grade_level
+      - property: middle_chinese_initial
         direction: ASC
       - property: middle_chinese_final
-        direction: ASC
-      - property: middle_chinese_initial
         direction: DESC
+      - property: grade_level
+        direction: ASC
       - property: skip_number
         direction: DESC
       - property: english
@@ -77,7 +79,4 @@ views:
       note.graphemic_classification: 60
       note.pos: 67
       formula.score: 112
-      note.hanmun_edu_level: 60
-      note.hsk_level: 61
-      note.danayo_id: 61
-      note.joyo_level: 73
+      note.middle_chinese_initial: 94
