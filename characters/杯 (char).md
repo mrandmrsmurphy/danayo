@@ -18,7 +18,7 @@ stroke_count: 8
 radical: 木
 skip_number: 1-4-4
 grade_level: "3"
-pos: ""
+pos: 量詞
 english:
   - cup
   - cupful
@@ -26,7 +26,7 @@ english:
 韓文: 뵈
 joyo_level: 高等
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3162
 mc_id: 2827
 graphemic_classification: 不
@@ -34,12 +34,14 @@ stand_in: 杯
 aliases:
   - 盃
 注音: ㄅㄛ˙
+date-last-perfect:
 ---
 >[!tip] This is a page about the character 杯.
 >For the word, see [杯](words/杯.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [HSK Beginner](lookup/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 3](lookup/Grade%203.md)
+- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄅㄛ˙](syllables/ㄅㄛ˙.md)
+- 
