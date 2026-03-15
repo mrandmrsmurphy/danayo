@@ -42,6 +42,7 @@ aliases:
   - 㡣
   - 䮾
   - 𢅛
+  - 瓏
 注音: ㄌ˙ㄛㄥ
 date-last-perfect: 2026-02-22
 品詞: 名詞
