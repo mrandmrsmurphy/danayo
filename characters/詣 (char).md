@@ -23,7 +23,7 @@ english:
   - reach
 羅馬字: "'ei"
 韓文: 에
-joyo_level: 表外字
+joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 7173
