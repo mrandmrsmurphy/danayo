@@ -21,8 +21,8 @@ english:
 羅馬字: "'ug"
 韓文: 욱
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "3"
+hanmun_edu_level: 名
 danayo_id: 6258
 mc_id: 2369
 graphemic_classification: 象形

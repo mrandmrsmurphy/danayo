@@ -22,9 +22,9 @@ english:
   - obscene
 羅馬字: "'im"
 韓文: 임
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: "4"
+hanmun_edu_level: 高等
 danayo_id: 6440
 mc_id: 724
 graphemic_classification: 壬

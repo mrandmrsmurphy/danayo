@@ -21,9 +21,9 @@ english:
   - obstruct
 羅馬字: "'ong"
 韓文: 옹
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 7240
 mc_id: 1860
 graphemic_classification: 雍

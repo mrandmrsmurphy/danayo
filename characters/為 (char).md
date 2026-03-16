@@ -21,8 +21,8 @@ english:
 羅馬字: "'wen"
 韓文: 원
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 3189
 mc_id: 7
 graphemic_classification: 象形

@@ -21,8 +21,8 @@ english:
 羅馬字: "'ou"
 韓文: 옷
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: 無
+hanmun_edu_level: 高等
 danayo_id: 8247
 mc_id: 7852
 graphemic_classification: 区

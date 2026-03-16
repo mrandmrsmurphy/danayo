@@ -22,8 +22,8 @@ english:
 羅馬字: "'o"
 韓文: 오
 joyo_level: 日本人名用漢字
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "4"
+hanmun_edu_level: 名
 danayo_id: 7500
 mc_id: 1160
 graphemic_classification: 五

@@ -23,7 +23,7 @@ english:
 羅馬字: "'yeg"
 韓文: 여
 joyo_level: 日本人名用漢字
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 7068
 mc_id: 1817

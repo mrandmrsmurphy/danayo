@@ -23,8 +23,8 @@ english:
 羅馬字: "'wei"
 韓文: 웨
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "4"
+hanmun_edu_level: 高等
 danayo_id: 6404
 mc_id: 1144
 graphemic_classification: 為

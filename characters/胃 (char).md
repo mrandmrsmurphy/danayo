@@ -22,8 +22,8 @@ english:
   - gizzard
 羅馬字: "'ui"
 韓文: 위
-joyo_level: ""
-hsk_level: ""
+joyo_level: "4"
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 4225
 mc_id: 1203

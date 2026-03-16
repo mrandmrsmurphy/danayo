@@ -21,9 +21,9 @@ english:
   - salt
 羅馬字: "'yem"
 韓文: 염
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "4"
+hsk_level: "2"
+hanmun_edu_level: 高等
 danayo_id: 4065
 mc_id: 1397
 graphemic_classification: 監

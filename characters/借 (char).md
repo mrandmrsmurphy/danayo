@@ -24,8 +24,8 @@ english:
   - lend
 羅馬字: ja
 韓文: 자
-joyo_level: ""
-hsk_level: ""
+joyo_level: "4"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2016
 mc_id: 1986

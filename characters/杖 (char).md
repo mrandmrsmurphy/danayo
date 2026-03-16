@@ -23,8 +23,8 @@ english:
 羅馬字: jang
 韓文: 장
 joyo_level: 日本人名用漢字
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 7450
 mc_id: 1365
 graphemic_classification: 丈

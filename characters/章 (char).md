@@ -22,7 +22,7 @@ english:
 羅馬字: jang
 韓文: 장
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 211
 mc_id: 365

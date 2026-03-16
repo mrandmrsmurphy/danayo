@@ -133,7 +133,7 @@ All have been checked for redirects.
 [[沄]] [澐](characters/雲%20(char).md) [[耘]] [[賱]] [[夽]] [暈](characters/暈.md) [[橒]] [[殞]] [[熉]] [芸](characters/芸.md) [蕓](characters/芸.md) [[隕]] [[篔]] [[䆬]] [[篔]] ([[䉙]])
 
 ### 울 
-[[蔚]] [鬱](characters/郁.md) 𠃗 [[菀]] 
+[[蔚]] [鬱](characters/欝.md) 𠃗 [[菀]] 
 
 ### 웅 
 [熊](characters/熊%20(char).md)
