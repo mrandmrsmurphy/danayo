@@ -31,7 +31,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1055. [[隠]] : 	隱	conceal
 1056. [[韻]] : rhyme
 1057. [唄 (char)](characters/唄%20(char).md) : songs with samisen
-1058. [[郁|鬱]] : depression
+1058. [鬱](characters/欝.md) : depression
 1059. [[畝]] : furrow
 1060. [[浦]] : bay
 1061. [[詠]] : recitation
@@ -70,14 +70,14 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1094. [[苛]] : torment
 1095. [[架 (char)]] : rack
 1096. [[華]] : splendor
-1097. [[果|菓]] : confectionery
+1097. 菓 : confectionery --- already counted as 果 at level 4
 1098. [[渦]] : whirlpool
 1099. [[嫁]] : marry into
 1100. [[暇]] : spare time
 1101. [[禍]] : 	禍	calamity
 1102. [[靴]] : shoes
 1103. [[寡]] : widow
-1104. [[個 (char)|箇]] : counters for things
+1104. 箇 : counters for things --- already counted as 個 in level 5
 1105. [[稼]] : earnings
 1106. [[蚊 (char)]] : mosquito
 1107. [[牙]] :  tusk
@@ -1112,3 +1112,35 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2134. 枠 : frame    FORBIDDEN!!
 2135. [[湾]] : 	灣	gulf
 2136. [[腕]] : arm
+
+## Datacheck
+```dataviewjs
+function norm(v) {
+  if (v == null) return "";
+  if (Array.isArray(v)) return v.join(", ");
+  return String(v);
+}
+
+let seen = new Set();
+let links = dv.current().file.outlinks;
+
+let pages = links
+  .map(l => dv.page(l))
+  .filter(p => p && p.file.path.startsWith("characters/"))
+  .filter(p => {
+    if (seen.has(p.file.path)) return false;
+    seen.add(p.file.path);
+    return true;
+  })
+  .sort((a, b) => norm(a.japanese).localeCompare(norm(b.japanese), "jp"));
+
+dv.table(
+  ["Character", "Japanese", "Nanori","Level"],
+  pages.map(p => [
+    p.file.link,
+    norm(p.japanese),
+    norm(p.japanese_nanori),
+    norm(p.joyo_level)
+  ])
+);
+```

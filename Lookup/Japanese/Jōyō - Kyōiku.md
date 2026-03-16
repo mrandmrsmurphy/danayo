@@ -660,8 +660,8 @@ The following prefecture names were added in 2017:
 650. [[価]] : ka	atai	value
 651. [[保]] : ho	tamo-tsu	preserve
 652. [[修]] : shū	osa-meru	discipline
-653. [[俵]] : hyō	tawara	straw bag
-654. [個 (char)](characters/個%20(char).md) : ko	 	individual
+653. [個](characters/個%20(char).md) : ko	 	individual
+654. [[俵]] : hyō	tawara	straw bag
 655. [[備]] : bi	sona-eru	provide
 656. [[像]] : zō	 	statue
 657. [[再]] : sai ; sa	futata-bi	again
