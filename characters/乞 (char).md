@@ -5,7 +5,7 @@ cantonese:
   - hat1
 korean:
   - 걸
-korean_native: ""
+korean_native: "빌"
 japanese:
   - KOTSU
   - KI

@@ -5,7 +5,7 @@ cantonese:
   - gin1
 korean:
   - 견
-korean_native: ""
+korean_native: "어깨"
 japanese:
   - KEN
 japanese_nanori: ""

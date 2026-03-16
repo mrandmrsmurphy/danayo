@@ -5,7 +5,7 @@ cantonese:
   - hing1
 korean:
   - 경
-korean_native: ""
+korean_native: "벼슬"
 japanese:
   - KYOU
   - KEI

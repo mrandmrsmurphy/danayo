@@ -5,7 +5,7 @@ cantonese:
   - geng3
 korean:
   - 경
-korean_native: ""
+korean_native: "거울"
 japanese:
   - KYOU
   - KEI

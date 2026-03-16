@@ -20,19 +20,19 @@
 #### 걸
 [傑](characters/傑.md) (뛰어날 걸) , [乞](characters/乞%20(char).md) (빌 걸)
 #### 검
-[[倹|儉]] (검소할 검) , [[剣|劒]] (칼 검) , [[検|檢]] (검사할 검)
+[儉](characters/倹.md)  (검소할 검) , [劒](characters/剣%20(char).md) (칼 검) , [檢](characters/検.md) (검사할 검)
 #### 격
-[[格]] (바로잡을 격) , [[撃|擊]] (부딪칠 격) , [[激]] (과격할 격) , [[隔]] (사이 뜰 격)
+[格](characters/格%20(char).md) (바로잡을 격) , [擊](characters/撃%20(char).md)  (부딪칠 격) , [激](characters/激.md) (과격할 격) , [隔](characters/隔.md) (사이 뜰 격)
 #### 견
-[[肩]] (어깨 견) , [[絹]] (명주 견) , [[遣]] (보낼 견) , [[牽]] (끌 견)
+[肩](characters/肩%20(char).md) (어깨 견) , [絹](characters/絹%20(char).md) (명주 견) , [遣](characters/遣%20(char).md) (보낼 견) , [牽](characters/牽.md) (끌 견)
 #### 결
-[[缺]] (이지러질 결)
+[缺](characters/缺.md) (이지러질 결)
 #### 겸
-[[兼]] (겸할 겸) , [[謙]] (겸손할 겸)
+[兼](characters/兼%20(char).md) (겸할 겸) , [謙](characters/謙.md) (겸손할 겸)
 #### 경
-[[竟]] (다할 경) , [[境]] (지경 경) , [[鏡]] (거울 경) , [[頃]] (잠깐 경) , [[傾]] (기울 경) , [[硬]] (굳을 경) , [[警]] (경계할 경) , [[径|徑]] (지름길 경) , [[卿]] (벼슬 경)
+[竟](characters/竟%20(char).md) (다할 경) , [境](characters/境.md) (지경 경) , [鏡](characters/鏡%20(char).md) (거울 경) , [頃](characters/頃%20(char).md) (잠깐 경) , [傾](characters/傾.md) (기울 경) , [硬](characters/硬%20(char).md) (굳을 경) , [警](characters/警.md) (경계할 경) , [徑](characters/径.md) (지름길 경) , [卿](characters/卿%20(char).md) (벼슬 경)
 #### 계
-[[系]] (이을 계) , [[係]] (걸릴 계) , [[戒]] (경계할 계) , [[械]] (형틀 계) , [[続|繼]] (이을 계) , [[契]] (맺을 계) , [[桂]] (계수나무 계) , [[啓]] (열 계) , [[階]] (섬돌 계) , [[繋|繫]] (맬 계)
+[系](characters/系.md) (이을 계) , [係](characters/係.md) (걸릴 계) , [戒](characters/戒.md) (경계할 계) , [械](characters/械.md) (형틀 계) , [繼](characters/続.md) (이을 계) , [契](characters/契.md) (맺을 계) , [桂](characters/桂.md) (계수나무 계) , [啓](characters/啓.md) (열 계) , [階](characters/階.md) (섬돌 계) , [繫](characters/繋.md) (맬 계)
 #### 고
 [[枯]] (마를 고) , [[姑]] (시어미 고) , [[庫]] (곳집 고) , [[孤]] (외로울 고) , [[鼓]] (북 고) , [[稿]] (볏집 고) , [[顧]] (돌아볼 고)
 #### 곡
@@ -692,11 +692,12 @@ let pages = links
   .sort((a, b) => norm(a.korean).localeCompare(norm(b.korean), "ko"));
 
 dv.table(
-  ["Character", "Korean", "Korean Native"],
+  ["Character", "Korean", "Korean Native","Level"],
   pages.map(p => [
     p.file.link,
     norm(p.korean),
-    norm(p.korean_native)
+    norm(p.korean_native),
+    norm(p.hanmun_edu_level)
   ])
 );
 ```

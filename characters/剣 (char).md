@@ -3,8 +3,8 @@ mandarin:
   - jiàn
 cantonese:
   - gim3
-korean:
-korean_native: ""
+korean: 검
+korean_native: 칼
 japanese:
   - KEN
 japanese_nanori: ""
@@ -14,7 +14,7 @@ middle_chinese_final: iɐm
 stroke_count: 10
 radical: 刀
 skip_number: 1-8-2
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - sword
@@ -22,7 +22,7 @@ english:
 韓文: 곰
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 3282
 mc_id: 916
 graphemic_classification: 㑒

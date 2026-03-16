@@ -5,7 +5,7 @@ cantonese:
   - ngaang6
 korean:
   - 경
-korean_native: ""
+korean_native: "굳을"
 japanese:
   - KOU
   - GOU

@@ -5,7 +5,7 @@ cantonese:
   - ging2
 korean:
   - 경
-korean_native: ""
+korean_native: "다할"
 japanese:
   - KEI
   - KYOU

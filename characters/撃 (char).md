@@ -3,8 +3,8 @@ mandarin:
   - jī
 cantonese:
   - gik1
-korean:
-korean_native: ""
+korean: 격
+korean_native: 부딪칠
 japanese:
   - GEKI
   - KEKI
@@ -15,7 +15,7 @@ middle_chinese_final: ek
 stroke_count: 15
 radical: 手
 skip_number: 2-11-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - strike
@@ -25,7 +25,7 @@ english:
 韓文: 걱
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 6402
 mc_id: 259
 graphemic_classification: 毄

@@ -5,7 +5,7 @@ cantonese:
   - gaak3
 korean:
   - 격
-korean_native: ""
+korean_native: "바로잡을"
 japanese:
   - KOU
   - KAKU

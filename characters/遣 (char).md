@@ -5,7 +5,7 @@ cantonese:
   - hin2
 korean:
   - 견
-korean_native: ""
+korean_native: "보낼"
 japanese:
   - KEN
 japanese_nanori: ""

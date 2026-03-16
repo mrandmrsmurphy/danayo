@@ -5,7 +5,7 @@ cantonese:
   - gim1
 korean:
   - 겸
-korean_native: ""
+korean_native: "겸할"
 japanese:
   - KEN
 japanese_nanori: ""
