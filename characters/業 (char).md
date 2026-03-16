@@ -5,26 +5,28 @@ cantonese:
   - jip6
 korean:
   - 업
-korean_native: ""
+korean_native: 업
 japanese:
   - GYOU
   - GOU
-japanese_nanori: ""
+japanese_nanori:
+  - わざ
 vietnamese:
+  - nghiệp
 middle_chinese_initial: ŋ
 middle_chinese_final: iɐp
 stroke_count: 13
 radical: 木
 skip_number: 2-5-8
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - profession
   - business
 羅馬字: "'eb"
 韓文: 업
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 236
 mc_id: 601

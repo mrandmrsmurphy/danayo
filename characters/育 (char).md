@@ -5,25 +5,27 @@ cantonese:
   - juk6
 korean:
   - 육
-korean_native: ""
+korean_native: 기를
 japanese:
   - IKU
-japanese_nanori: ""
+japanese_nanori:
+  - そだ-つ
 vietnamese:
+  - dục
 middle_chinese_initial: j
 middle_chinese_final: ɨuk
-stroke_count: "8"
+stroke_count: 8
 radical: 肉
 skip_number: 2-2-6
-grade_level: 1
-pos: ""
+grade_level: "1"
+pos: 事詞
 english:
   - nuture
   - educate
 羅馬字: "'yug"
 韓文: 육
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 136
 mc_id: 1270

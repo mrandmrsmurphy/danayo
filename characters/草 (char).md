@@ -5,24 +5,26 @@ cantonese:
   - cou2
 korean:
   - 초
-korean_native: ""
+korean_native: 풀
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_nanori:
+  - くさ
 vietnamese:
+  - thảo, tháu, xáo
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: ɑu
 stroke_count: 9
 radical: 艸
 skip_number: 2-3-6
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - grass
 羅馬字: cau
-韓文:  찻
+韓文: 찻
 joyo_level: "1"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 169
 mc_id: 590

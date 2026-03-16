@@ -5,11 +5,13 @@ cantonese:
   - sam1
 korean:
   - 심
-korean_native: ""
+korean_native: 마음
 japanese:
   - SHIN
-japanese_nanori: ""
+japanese_nanori:
+  - こころ
 vietnamese:
+  - tâm, tấm, tim
 middle_chinese_initial: s
 middle_chinese_final: iɪm
 stroke_count: 4

@@ -5,10 +5,11 @@ cantonese:
   - hung1
 korean:
   - 공
-korean_native: ""
+korean_native: 빌
 japanese:
   - KUU
-japanese_nanori: ""
+japanese_nanori:
+  - そら
 vietnamese:
   - không
   - khỏng
@@ -20,13 +21,13 @@ stroke_count: 8
 radical: 穴
 skip_number: 2-3-5
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - empty
 羅馬字: kong
 韓文: 콩
 joyo_level: "1"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 144
 mc_id: 632

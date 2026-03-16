@@ -5,25 +5,27 @@ cantonese:
   - gan6
 korean:
   - 근
-korean_native: ""
+korean_native: 가까울
 japanese:
   - KIN
   - KON
-japanese_nanori: ""
+japanese_nanori:
+  - ちか-い
 vietnamese:
+  - cận, cặn, gàn, gần
 middle_chinese_initial: g
 middle_chinese_final: ɨn
-stroke_count: "7"
+stroke_count: 7
 radical: 辵
 skip_number: 3-3-4
-grade_level: 1
-pos: ""
+grade_level: "1"
+pos: 性詞
 english:
   - near
 羅馬字: gin
-韓文:  긴
+韓文: 긴
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 115
 mc_id: 501

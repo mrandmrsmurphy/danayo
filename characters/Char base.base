@@ -17,6 +17,13 @@ views:
       - hanmun_edu_level
       - formula.score
       - date-last-perfect
+      - japanese
+      - japanese_nanori
+      - korean
+      - korean_native
+      - mandarin
+      - cantonese
+      - vietnamese
     sort:
       - property: formula.score
         direction: ASC

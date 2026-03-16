@@ -5,25 +5,27 @@ cantonese:
   - fu2
 korean:
   - 고
-korean_native: ""
+korean_native: 쓸
 japanese:
   - KU
-japanese_nanori: ""
+japanese_nanori:
+  - くる-しい
 vietnamese:
+  - khổ, khủ, cỏ
 middle_chinese_initial: kʰ
 middle_chinese_final: uo
-stroke_count: "8"
+stroke_count: 8
 radical: 艸
 skip_number: 2-3-5
-grade_level: 1
-pos: ""
+grade_level: "1"
+pos: 性詞
 english:
   - suffering
   - bitter
 羅馬字: ko
 韓文: 코
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 143
 mc_id: 622
@@ -34,9 +36,16 @@ aliases:
 ---
 >[!tip] This is a page about the character 苦.
 >For the word, see [苦](words/苦.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+* [[苦瓜]] bitter melon
+* [[苦役]] hard labor
+* [[苦難]] miserable, distressing
+* [[苦肉]] desperate measures, last resort
+* [[苦悩]] to agonize over
+* [[刻苦]] industrious, frugal
+* [[苦味]] bitter
