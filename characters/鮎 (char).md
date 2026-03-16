@@ -22,9 +22,9 @@ english:
   - sheatfish
 羅馬字: nem
 韓文: 넘
-joyo_level: 高等
+joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 8266
 mc_id: 8991
 graphemic_classification: 占

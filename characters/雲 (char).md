@@ -42,12 +42,13 @@ date-last-perfect: 2026-03-15
 [[nav/char_info]]
 ```
 ## Notes
-- 云 was the original form of this word, but the weather radical ([雨](Radical%20173)) was added as the meaning "speak" came to be associated with it.  We have no words/chengyu that use this sense, so we fold 云 into this character.
+- 云 was the original form of this word, but the weather radical ([雨](Radical%20173)) was added as the meaning "speak" came to be associated with it.  We fold 云 into this character.
 - [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄨㄋ](syllables/ㄨㄋ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[雲呑](/words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby> - wontons
+- 云云 --> 雲雲 "etc." and it's opposite 云爾-->雲爾 "that is all"
 
 ## Chengyu
 - <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨˇㄏˇㄚ·˙ㄚ</rt></ruby> - cloud by day, fire by night

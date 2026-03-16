@@ -130,7 +130,7 @@ All have been checked for redirects.
 [旭](characters/旭.md) [[昱]] [[煜]] [郁](characters/郁.md) [[頊]] [[彧]] [[勖]] [[栯]] [[燠]] [[稢]] [[稢]] ([[稶]])
 
 ### 운 
-[[沄]] [澐](characters/雲%20(char).md) [[耘]] [[賱]] [[夽]] [暈](characters/暈.md) [[橒]] [[殞]] [[熉]] [芸](characters/芸.md) [蕓](characters/芸.md) [[隕]] [[篔]] [[䆬]] [[篔]] ([[䉙]])
+[[沄]] 澐 --> 雲 [[耘]] [[賱]] [[夽]] [暈](characters/暈.md) [[橒]] [[殞]] [[熉]] [芸](characters/芸.md) [蕓](characters/芸.md) [[隕]] [[篔]] [[䆬]] [[篔]] ([[䉙]])
 
 ### 울 
 [[蔚]] [鬱](characters/欝.md) 𠃗 [[菀]] 
