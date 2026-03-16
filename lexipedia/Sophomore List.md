@@ -5,8 +5,20 @@ language: English
 Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes after Swadesh, which he calls his "Sophomore List".  For more words, see [Lexipedia](lexipedia/Lexipedia.md).
 
 ## Adjectives 
-- Numbers : zero - <ruby>[[零]]<rt>ㄌㄝㄥ</rt></ruby>- half - <ruby>[[一半]]<rt>읻반</rt></ruby>- quarter - <ruby>[[四分之一]]<rt>싀분티읻</rt></ruby> - six - <ruby>[[六]]<rt>룩</rt></ruby> - seven - <ruby>[[七]]<rt>칟</rt></ruby> - eight - <ruby>[[八]]<rt>받</rt></ruby> - nine - <ruby>[[九]]<rt>규</rt></ruby> - ten - <ruby>[[一十]]<rt>읻십</rt></ruby> - hundred - <ruby>[[一百]]<rt>읻박</rt></ruby>
-- Colors : blue - <ruby>[[紺]]<rt>감</rt></ruby>, brown/dark - <ruby>[[褐]]<rt>핟</rt></ruby>, light - <ruby>[[薄]]<rt>박</rt></ruby>
+- Numbers
+	- zero - <ruby>[零](words/零.md)<rt>ㄌㄝㄥ</rt></ruby>
+	- half - <ruby>[一半](words/一半.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>
+	- quarter - <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧ˙ㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
+	- six - <ruby>[六](/words/六.md)<rt>ㄌㄨㄎ</rt></ruby>
+	- seven - <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>
+	- eight - <ruby>[八](/words/八.md)<rt>ㄅㄚㄊ</rt></ruby>
+	- nine - <ruby>[九](/words/九.md)<rt>ㄎ˙ㄨ</rt></ruby>
+	- ten - <ruby>[一十](/words/一十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>
+	- hundred - <ruby>[一百](/words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>
+- Colors : 
+	- blue - <ruby>[紺](/words/紺.md)<rt>ㄍㄚㄇ</rt></ruby>
+	- brown/dark - <ruby>[褐](/words/褐.md)<rt>ㄏㄚㄊ</rt></ruby>
+	- light - <ruby>[柔軟](/words/柔軟.md)<rt>ㄋ˙ㄨㄋㄧㄋ</rt></ruby>
 ### Opposites
 * beautiful - <ruby>[[美]]<rt>미</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>추악</rt></ruby>
 * fast - <ruby>[[速]]<rt>속</rt></ruby>, slow - <ruby>[[緩慢]]<rt>환만</rt></ruby>
