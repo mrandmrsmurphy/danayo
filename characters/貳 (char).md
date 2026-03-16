@@ -23,9 +23,9 @@ english:
   - betray
 羅馬字: nii
 韓文: 늬
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: "4"
+hanmun_edu_level: 高等
 danayo_id: 6418
 mc_id: 1301
 graphemic_classification: 弍

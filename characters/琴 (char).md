@@ -23,7 +23,7 @@ english:
 羅馬字: gum
 韓文: 굼
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5129
 mc_id: 1396

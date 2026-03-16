@@ -22,8 +22,8 @@ english:
 羅馬字: nem
 韓文: 넘
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "2"
+hanmun_edu_level: 名
 danayo_id: 6294
 mc_id: 8493
 graphemic_classification: 占

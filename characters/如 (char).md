@@ -24,7 +24,7 @@ english:
 羅馬字: nyo
 韓文: 뇨
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3070
 mc_id: 59

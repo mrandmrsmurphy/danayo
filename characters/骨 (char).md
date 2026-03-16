@@ -23,7 +23,7 @@ english:
 羅馬字: god
 韓文: 곧
 joyo_level: "6"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 4309
 mc_id: 718

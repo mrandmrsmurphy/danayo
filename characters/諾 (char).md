@@ -21,8 +21,8 @@ english:
   - consent
 羅馬字: nag
 韓文: 낙
-joyo_level: ""
-hsk_level: ""
+joyo_level: 高等
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 5356
 mc_id: 1254

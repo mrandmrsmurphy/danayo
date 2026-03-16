@@ -22,7 +22,7 @@ english:
 羅馬字: gwag
 韓文: 곽
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "6"
 hanmun_edu_level: 高等
 danayo_id: 6167
 mc_id: 821

@@ -21,9 +21,9 @@ english:
   - be with
 羅馬字: gu
 韓文: 구
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 日本人名用漢字
+hsk_level: "2"
+hanmun_edu_level: 高等
 danayo_id: 5345
 mc_id: 568
 graphemic_classification: 具

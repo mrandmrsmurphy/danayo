@@ -25,8 +25,8 @@ english:
 羅馬字: hwan
 韓文: 환
 joyo_level: 日本人名用漢字
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 6465
 mc_id: 5459
 graphemic_classification: 會意

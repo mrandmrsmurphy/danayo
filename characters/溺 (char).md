@@ -24,8 +24,8 @@ english:
 羅馬字: nig
 韓文: 닉
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 6004
 mc_id: 1580
 graphemic_classification: 弱

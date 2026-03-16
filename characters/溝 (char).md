@@ -22,9 +22,9 @@ english:
   - drain
 羅馬字: gou
 韓文: 곳
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: "3"
+hanmun_edu_level: 名
 danayo_id: 6219
 mc_id: 1501
 graphemic_classification: 冓
