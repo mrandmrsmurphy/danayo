@@ -22,8 +22,8 @@ english:
 羅馬字: "'ang"
 韓文: 앙
 joyo_level: "5"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "4"
+hanmun_edu_level: 名
 danayo_id: 6153
 mc_id: 5888
 graphemic_classification: 嬰

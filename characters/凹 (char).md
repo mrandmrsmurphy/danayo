@@ -22,8 +22,8 @@ english:
 羅馬字: "'au"
 韓文: 앗
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "4"
+hanmun_edu_level: 名
 danayo_id: 6088
 mc_id: 9390
 graphemic_classification: 洼

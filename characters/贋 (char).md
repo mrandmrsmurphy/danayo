@@ -22,9 +22,9 @@ english:
   - "false"
 羅馬字: "'an"
 韓文: 안
-joyo_level: 表外字
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 日本人名用漢字
+hsk_level: 無
+hanmun_edu_level: 無
 danayo_id: 7317
 mc_id: 0
 graphemic_classification: 雁

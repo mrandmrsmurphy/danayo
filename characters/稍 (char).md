@@ -23,9 +23,9 @@ english:
   - rather
 羅馬字: syau
 韓文: 샷
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: "2"
+hanmun_edu_level: 名
 danayo_id: 7276
 mc_id: 1228
 graphemic_classification: 肖

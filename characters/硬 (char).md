@@ -23,8 +23,8 @@ english:
   - firm
 羅馬字: "'ang"
 韓文: 앙
-joyo_level: ""
-hsk_level: ""
+joyo_level: 高等
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5239
 mc_id: 3081

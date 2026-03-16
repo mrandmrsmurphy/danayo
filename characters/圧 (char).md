@@ -22,8 +22,8 @@ english:
 羅馬字: "'ad"
 韓文: 앋
 joyo_level: "5"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "2"
+hanmun_edu_level: 高等
 danayo_id: 4063
 mc_id: 3189
 graphemic_classification: 厭

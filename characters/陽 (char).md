@@ -22,7 +22,7 @@ english:
 羅馬字: "'yang"
 韓文: 양
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 3265
 mc_id: 66

@@ -24,9 +24,9 @@ english:
   - alas (ancient)
 羅馬字: "'ai"
 韓文: 애
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: "3"
+hanmun_edu_level: 名
 danayo_id: 8117
 mc_id: 7655
 graphemic_classification: 矣

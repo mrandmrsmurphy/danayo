@@ -24,7 +24,7 @@ english:
 羅馬字: "'en"
 韓文: 언
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 3237
 mc_id: 39

@@ -21,9 +21,9 @@ english:
   - rust
 羅馬字: syu
 韓文: 슈
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: "3"
+hanmun_edu_level: 名
 danayo_id: 7327
 mc_id: 8367
 graphemic_classification: 秀
