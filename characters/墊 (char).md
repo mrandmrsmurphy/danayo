@@ -25,9 +25,9 @@ english:
   - cushion
 羅馬字: dib
 韓文: 딥
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: "3"
+hanmun_edu_level: 無
 danayo_id: 7351
 mc_id: 4368
 graphemic_classification: 執

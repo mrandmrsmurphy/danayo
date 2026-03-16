@@ -22,9 +22,9 @@ english:
   - make good on
 羅馬字: den
 韓文: 던
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: "2"
+hanmun_edu_level: 名
 danayo_id: 6316
 mc_id: 2019
 graphemic_classification: 眞

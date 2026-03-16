@@ -13,6 +13,7 @@ views:
       - joyo_level
       - hanmun_edu_level
       - formula.score
+      - date-last-perfect
     sort:
       - property: 韓文
         direction: ASC
