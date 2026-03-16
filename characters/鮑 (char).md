@@ -21,9 +21,9 @@ english:
   - abalone
 羅馬字: bau
 韓文: 밧
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 8676
 mc_id: 1335
 graphemic_classification: 包

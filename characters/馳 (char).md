@@ -24,8 +24,8 @@ english:
 羅馬字: jui
 韓文: 쥐
 joyo_level: 日本人名用漢字
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "4"
+hanmun_edu_level: 名
 danayo_id: 7179
 mc_id: 946
 graphemic_classification: 也

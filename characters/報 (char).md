@@ -23,7 +23,7 @@ english:
 羅馬字: bau
 韓文: 밧
 joyo_level: "5"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2059
 mc_id: 559

@@ -24,8 +24,8 @@ english:
 羅馬字: myeng
 韓文: 명
 joyo_level: "3"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 5360
 mc_id: 3320
 graphemic_classification: 象形
