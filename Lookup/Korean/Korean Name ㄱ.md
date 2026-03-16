@@ -1,16 +1,14 @@
 ### 가 
 [嘉](characters/嘉.md) [嫁](characters/嫁.md) [稼](characters/稼.md) [賈](characters/賈.md) [駕](characters/駕.md) [伽](characters/伽.md) [迦](characters/珈.md) [柯](characters/柯.md) [呵](characters/呵.md) [哥](characters/歌.md) [[枷]] [珂](characters/珂.md) [痂](characters/加.md) [苛](characters/苛.md) [茄](characters/茄.md) [袈](characters/珈.md) [[訶]] [[跏]] [[軻]] [哿](characters/加.md) 
 
----
-
 ### 각 
-[[珏]] [[恪]] [[殼]] [[愨]] 
+[[珏]] [[恪]] [殼](characters/殻.md) [愨](characters/愨.md)
 
 ### 간 
-[[艮]] [[侃]] [[杆]] [[玕]] [[竿]] [[揀]] [[諫]] [[墾]] [[栞]] [[奸]] [[柬]] [[澗]] [[磵]] [[稈]] [[艱]] [[癇]]
+[艮](characters/艮.md) [侃](characters/侃.md) [[杆]] [[玕]] [竿](characters/竿.md) [揀](characters/揀.md) [諫](characters/諌.md) [墾](characters/墾.md) [[栞]] [奸](characters/姦.md) [柬](words/柬.md) [[澗]] [[磵]] [[稈]] [艱](characters/艱.md) [癇](characters/癇.md)
 
 ### 갈 
-[[葛]] 乫! [[喝]] [[曷]] [[碣]] [[竭]] [[褐]] [[蝎]] scorpion [[鞨]] 
+[葛](characters/葛%20(char).md) 乫! [喝](characters/喝%20(char).md) [曷](characters/喝%20(char).md) [[碣]] [竭](characters/褐%20(char).md) [褐](characters/褐%20(char).md) [[蝎]] scorpion [[鞨]]
 
 ### 감 
 [[勘]] [[堪]] [[瞰]] [[坎]] [[嵌]] [[憾]] [[戡]] [[柑]] [[橄]] [[疳]] [[紺]] [[邯]] [[龕]]

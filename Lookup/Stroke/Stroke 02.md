@@ -12,10 +12,10 @@ stroke_count: 2
 3. <ruby>[乃](characters/乃%20(char).md)<rt>ㄋㄚ˙</rt></ruby> - but (3-1-1)
 4. <ruby>[匕](characters/匕.md)<rt>ㄆㄧ˙</rt></ruby> - spoon (3-1-1)
 5. <ruby>[刀](characters/刀.md)<rt>ㄊㄚˇ</rt></ruby> - blade (3-1-1)
-6. <ruby>[丁 (char)](characters/丁%20(char).md)<rt>ㄉㄝㄥ</rt></ruby> - fourthly
-7. <ruby>[七 (char)](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven
+6. <ruby>[丁](characters/丁%20(char).md)<rt>ㄉㄝㄥ</rt></ruby> - fourthly
+7. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven
 8. <ruby>[乂](characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern
-9. <ruby>[九 (char)](characters/九%20(char).md)<rt>ㄎ˙ㄨ</rt></ruby> - nine
+9. <ruby>[九](characters/九%20(char).md)<rt>ㄎ˙ㄨ</rt></ruby> - nine
 10. <ruby>[了](words/了.md)<rt>ㄌ˙ㄚˇ</rt></ruby> - "over"
 11. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby> - person
 12. <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby> - enter
