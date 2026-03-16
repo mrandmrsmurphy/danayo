@@ -6,9 +6,6 @@ formulas:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - grade_level == "1"
     order:
       - file.name
       - 韓文
@@ -16,14 +13,8 @@ views:
       - joyo_level
       - hanmun_edu_level
       - formula.score
-      - date-last-perfect
-      - japanese
-      - japanese_nanori
-      - korean
-      - korean_native
-      - mandarin
-      - cantonese
-      - vietnamese
+      - english
+      - grade_level
     sort:
       - property: formula.score
         direction: ASC
@@ -74,4 +65,6 @@ views:
     columnSize:
       file.name: 64
       note.韓文: 63
+      note.hanmun_edu_level: 131
       formula.score: 112
+      note.english: 222

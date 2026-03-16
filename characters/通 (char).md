@@ -5,27 +5,29 @@ cantonese:
   - tung1
 korean:
   - 통
-korean_native: ""
+korean_native: 통할
 japanese:
   - TSUU
   - TSU
   - TOU
-japanese_nanori: ""
+japanese_nanori:
+  - とお-る
 vietnamese:
+  - thông
 middle_chinese_initial: tʰ
 middle_chinese_final: uŋ
 stroke_count: 10
 radical: 辵
 skip_number: 3-3-7
 grade_level: "1"
-pos: ""
+pos: 事詞
 english:
   - pass through
   - communicate
 羅馬字: tong
-韓文:  통
+韓文: 통
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 187
 mc_id: 252
