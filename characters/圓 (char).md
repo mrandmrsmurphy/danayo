@@ -5,25 +5,27 @@ cantonese:
   - jyun4
 korean:
   - 원
-korean_native: ""
+korean_native: 둥글
 japanese:
   - EN
-japanese_nanori: ""
+japanese_nanori:
+  - まる-い
 vietnamese:
+  - viên, vin
 middle_chinese_initial: ø
 middle_chinese_final: iuᴇn
 stroke_count: 13
 radical: 囗
 skip_number: 3-3-10
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - circle
   - round
 羅馬字: "'wen"
 韓文: 원
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 229
 mc_id: 1870
@@ -40,6 +42,6 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-
+This is a rare example of a divergence from Shinjitai, as the character 円 is too Japanese, and associated with Japanese money/yen.
 ## Words
 - <ruby>[圓周](/words/圓周.md)<rt>ˇㄝㄋㄐㄨˇ</rt></ruby> - circumference

@@ -5,24 +5,26 @@ cantonese:
   - ciu4
 korean:
   - 조
-korean_native: ""
+korean_native: 아침
 japanese:
   - CHOU
-japanese_nanori: ""
+japanese_nanori:
+  - あさ
 vietnamese:
+  - triều, chầu, chào
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiᴇu
 stroke_count: 12
 radical: 月
 skip_number: 1-8-4
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - morning
 羅馬字: jau
 韓文: 잣
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 214
 mc_id: 210

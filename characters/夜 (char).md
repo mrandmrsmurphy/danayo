@@ -5,24 +5,26 @@ cantonese:
   - je6
 korean:
   - 야
-korean_native: ""
+korean_native: 밤
 japanese:
   - YA
-japanese_nanori: ""
+japanese_nanori:
+  - よ,よる
 vietnamese:
+  - dạ, dà
 middle_chinese_initial: j
 middle_chinese_final: ia
 stroke_count: 8
 radical: 夕
 skip_number: 2-2-6
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - night
 羅馬字: "'yam"
 韓文: 야
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 147
 mc_id: 510

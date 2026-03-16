@@ -5,10 +5,11 @@ cantonese:
   - dung1
 korean:
   - 동
-korean_native: ""
+korean_native: 겨울
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_nanori:
+  - ふゆ
 vietnamese:
   - đông
 middle_chinese_initial: t
@@ -17,13 +18,13 @@ stroke_count: 5
 radical: 冫
 skip_number: 2-3-2
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - winter
 羅馬字: tong
 韓文: 통
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 60
 mc_id: 364
