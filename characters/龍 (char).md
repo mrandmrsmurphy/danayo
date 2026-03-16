@@ -25,7 +25,7 @@ english:
   - reptile
 羅馬字: lyong
 韓文: 룡
-joyo_level: "3"
+joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4312
