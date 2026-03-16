@@ -16,7 +16,7 @@ middle_chinese_final: ɑt
 stroke_count: 13
 radical: 衣
 skip_number: 1-5-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - brown

@@ -1,5 +1,5 @@
 ---
-language: 
+language: 単亜語
 ---
 [[週期表]] - juukibyau
 

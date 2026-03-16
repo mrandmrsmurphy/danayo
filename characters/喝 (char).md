@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣai
-stroke_count: "11"
+stroke_count: 11
 radical: 口
 skip_number: 1-3-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - yell

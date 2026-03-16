@@ -8,13 +8,15 @@
 [艮](characters/艮.md) [侃](characters/侃.md) [[杆]] [[玕]] [竿](characters/竿.md) [揀](characters/揀.md) [諫](characters/諌.md) [墾](characters/墾.md) [[栞]] [奸](characters/姦.md) [柬](words/柬.md) [[澗]] [[磵]] [[稈]] [艱](characters/艱.md) [癇](characters/癇.md)
 
 ### 갈 
-[葛](characters/葛%20(char).md) 乫! [喝](characters/喝%20(char).md) [曷](characters/喝%20(char).md) [[碣]] [竭](characters/褐%20(char).md) [褐](characters/褐%20(char).md) [[蝎]] scorpion [[鞨]]
+[葛](characters/葛%20(char).md) 乫! [喝](characters/喝%20(char).md) [曷](characters/喝%20(char).md) [[碣]] [竭](characters/褐%20(char).md) [褐](characters/褐%20(char).md) [蝎](characters/蝎%20(char).md) [[鞨]]
 
 ### 감 
-[[勘]] [[堪]] [[瞰]] [[坎]] [[嵌]] [[憾]] [[戡]] [[柑]] [[橄]] [[疳]] [[紺]] [[邯]] [[龕]]
+[勘](characters/勘%20(char).md) [堪](characters/堪%20(char).md) [[瞰]] [[坎]] [嵌](characters/嵌.md) [憾](characters/憾.md) [[戡]] [柑](characters/柑.md) [橄](characters/橄.md) [[疳]] [紺](characters/紺%20(char).md) [邯](characters/柑.md) [龕](characters/龕%20(char).md)
 
 ### 갑 
-[[鉀]] potassium?! [[匣]] [[岬]] [[胛]] [[閘]] 
+[[鉀]] potassium?! [[匣]] [岬](characters/岬.md) [[胛]] [[閘]]
+
+-----
 
 ### 강 
 [[杠]] [[堈]] [[岡]] [姜](characters/姜%20(char).md) [[橿]] [[彊]] [[慷]] [[畺]] [[疆]] [[糠]] [[絳]] [[羌]] [[腔]] [[舡]] [[薑]] [鱇](characters/康.md) [[嫝]] [[跭]] [[襁]] [[玒]] 
