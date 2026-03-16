@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - daai3
 korean:
-korean_native: ""
+  - 대
+korean_native: 띠
 japanese:
   - TAI
 japanese_nanori: ""
@@ -14,7 +15,7 @@ middle_chinese_final: ɑi
 stroke_count: 10
 radical: 巾
 skip_number: 2-5-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - sash
@@ -23,7 +24,7 @@ english:
 韓文: 태
 joyo_level: "4"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4090
 mc_id: 1061
 graphemic_classification: 象形

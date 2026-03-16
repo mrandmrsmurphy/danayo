@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - lip6
 korean:
-korean_native: ""
+  - 렵
+korean_native: 사냥
 japanese:
   - RYOU
 japanese_nanori: ""
@@ -22,7 +23,7 @@ english:
 韓文: 롭
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5120
 mc_id: 1334
 graphemic_classification: 鼡
