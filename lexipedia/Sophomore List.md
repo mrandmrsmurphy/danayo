@@ -5,7 +5,7 @@ language: English
 Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes after Swadesh, which he calls his "Sophomore List".  For more words, see [Lexipedia](lexipedia/Lexipedia.md).
 
 ## Adjectives 
-- Numbers : zero - <ruby>[[零]]<rt>렁</rt></ruby>- half - <ruby>[[一半]]<rt>읻반</rt></ruby>- quarter - <ruby>[[四分之一]]<rt>싀분티읻</rt></ruby> - six - <ruby>[[六]]<rt>룩</rt></ruby> - seven - <ruby>[[七]]<rt>칟</rt></ruby> - eight - <ruby>[[八]]<rt>받</rt></ruby> - nine - <ruby>[[九]]<rt>규</rt></ruby> - ten - <ruby>[[一十]]<rt>읻십</rt></ruby> - hundred - <ruby>[[一百]]<rt>읻박</rt></ruby>
+- Numbers : zero - <ruby>[[零]]<rt>ㄌㄝㄥ</rt></ruby>- half - <ruby>[[一半]]<rt>읻반</rt></ruby>- quarter - <ruby>[[四分之一]]<rt>싀분티읻</rt></ruby> - six - <ruby>[[六]]<rt>룩</rt></ruby> - seven - <ruby>[[七]]<rt>칟</rt></ruby> - eight - <ruby>[[八]]<rt>받</rt></ruby> - nine - <ruby>[[九]]<rt>규</rt></ruby> - ten - <ruby>[[一十]]<rt>읻십</rt></ruby> - hundred - <ruby>[[一百]]<rt>읻박</rt></ruby>
 - Colors : blue - <ruby>[[紺]]<rt>감</rt></ruby>, brown/dark - <ruby>[[褐]]<rt>핟</rt></ruby>, light - <ruby>[[薄]]<rt>박</rt></ruby>
 ### Opposites
 * beautiful - <ruby>[[美]]<rt>미</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>추악</rt></ruby>
