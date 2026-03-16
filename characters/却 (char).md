@@ -5,7 +5,7 @@ cantonese:
   - koek3
 korean:
   - 각
-korean_native: ""
+korean_native: "물리칠"
 japanese:
   - KYAKU
 japanese_nanori: ""

@@ -2,15 +2,15 @@
 > All of these that need to be redirects are done.  It remains to check that all have their hanmun level correctly filled out.
 ## ㄱ
 #### 가
-[[架 (char)]] (시렁 가) , [[暇]] (겨를 가)
+[架 (char)](characters/架%20(char).md) (시렁 가) , [暇](characters/暇.md) (겨를 가)
 #### 각
-[[閣]] (누각 각) , [[却]] (물리칠 각) , [[覚|覺]] (깨달을 각) , [[刻]] (새길 각)
+[閣](characters/閣.md) (누각 각) , [却](characters/却%20(char).md) (물리칠 각) , [覺](characters/覚.md) (깨달을 각) , [刻](characters/刻.md) (새길 각)
 #### 간
-[[刊]] (책 펴낼 간) , [[肝]] (간 간) , [[幹]] (줄기 간) , [[簡]] (대쪽 간) , [[姦]] (간사할 간) , [[懇]] (정성 간)
+[刊](characters/刊%20(char).md) (책 펴낼 간) , [肝](characters/肝.md) (간 간) , [幹](characters/幹.md) (줄기 간) , [簡](characters/簡.md) (대쪽 간) , [姦](characters/姦.md) (간사할 간) , [懇](characters/懇.md) (정성 간)
 #### 감
-[[監]] (볼 감) , [[鑑|鑒]] (거울 감)
+[監](characters/監.md) (볼 감) , [鑒](characters/鑑.md) (거울 감)
 #### 강
-[[康]] (편안할 강) , [[剛]] (굳셀 강) , [[鋼]] (강철 강) , [[綱]] (벼리 강)
+[康](characters/康.md) (편안할 강) , [剛](characters/剛.md) (굳셀 강) , [鋼](characters/鋼.md) (강철 강) , [綱](characters/綱.md) (벼리 강)
 #### 개
 [[介]] (끼일 개) , [[慨]] (분개할 개) , [[概|槪]] (대개 개) , [[蓋|盖]] (덮을 개)
 #### 거
