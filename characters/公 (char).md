@@ -21,7 +21,7 @@ english:
   - sir
 羅馬字: gong
 韓文: 공
-joyo_level: ""
+joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2023

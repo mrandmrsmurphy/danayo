@@ -24,7 +24,7 @@ english:
   - not
 羅馬字: bod
 韓文: 볻
-joyo_level: "1"
+joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2001

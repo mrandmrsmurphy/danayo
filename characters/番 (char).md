@@ -23,7 +23,7 @@ english:
   - occasion
 羅馬字: pan
 韓文: 판
-joyo_level: ""
+joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2173

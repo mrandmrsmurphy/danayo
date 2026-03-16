@@ -23,7 +23,7 @@ english:
   - state
 羅馬字: juu
 韓文: 줏
-joyo_level: "2"
+joyo_level: "3"
 hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 5132
