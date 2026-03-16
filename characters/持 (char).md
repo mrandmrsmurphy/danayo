@@ -5,25 +5,27 @@ cantonese:
   - ci4
 korean:
   - 지
-korean_native: ""
+korean_native: 가질
 japanese:
   - JI
   - CHI
-japanese_nanori: ""
+japanese_nanori:
+  - も-つ
 vietnamese:
+  - rì, chày, chiì
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨ
-stroke_count: "9"
+stroke_count: 9
 radical: 手
 skip_number: 1-3-6
-grade_level: 1
-pos: ""
+grade_level: "1"
+pos: 事詞
 english:
   - hold
 羅馬字: di
-韓文:  디
+韓文: 디
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 168
 mc_id: 566

@@ -6,19 +6,21 @@ formulas:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - grade_level == "1"
     order:
       - file.name
       - 韓文
       - hsk_level
       - joyo_level
       - hanmun_edu_level
-      - grade_level
       - formula.score
       - date-last-perfect
     sort:
-      - property: grade_level
-        direction: ASC
       - property: formula.score
+        direction: ASC
+      - property: grade_level
         direction: ASC
       - property: hanmun_edu_level
         direction: DESC

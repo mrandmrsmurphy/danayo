@@ -5,10 +5,11 @@ cantonese:
   - hyun2
 korean:
   - 견
-korean_native: ""
+korean_native: 개
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_nanori:
+  - いぬ
 vietnamese:
   - khuyển
 middle_chinese_initial: kʰ
@@ -17,13 +18,13 @@ stroke_count: 4
 radical: 犬
 skip_number: 4-4-4
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - dog
 羅馬字: kwen
 韓文: 퀀
 joyo_level: "1"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 37
 mc_id: 1088
