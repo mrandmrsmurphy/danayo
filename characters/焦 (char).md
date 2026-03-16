@@ -23,8 +23,8 @@ english:
 羅馬字: jou
 韓文: 좃
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "3"
+hanmun_edu_level: 名
 danayo_id: 6223
 mc_id: 1438
 graphemic_classification: 會意

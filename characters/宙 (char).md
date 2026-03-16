@@ -21,8 +21,8 @@ english:
   - eternity
 羅馬字: juu
 韓文: 줏
-joyo_level: ""
-hsk_level: ""
+joyo_level: "6"
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3084
 mc_id: 3286

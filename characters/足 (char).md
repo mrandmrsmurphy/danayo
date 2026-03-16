@@ -24,7 +24,7 @@ english:
 羅馬字: jog
 韓文: 족
 joyo_level: "1"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 110
 mc_id: 146

@@ -23,7 +23,7 @@ english:
   - let
 羅馬字: juu
 韓文: 줏
-joyo_level: ""
+joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2073

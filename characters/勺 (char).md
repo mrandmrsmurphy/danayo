@@ -23,8 +23,8 @@ english:
 羅馬字: jwag
 韓文: 좍
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "2"
+hanmun_edu_level: 名
 danayo_id: 6157
 mc_id: 2644
 graphemic_classification: 象形

@@ -12,9 +12,14 @@ views:
       - hsk_level
       - joyo_level
       - hanmun_edu_level
+      - grade_level
       - formula.score
       - date-last-perfect
     sort:
+      - property: grade_level
+        direction: ASC
+      - property: formula.score
+        direction: ASC
       - property: hanmun_edu_level
         direction: DESC
       - property: 韓文
@@ -23,8 +28,6 @@ views:
         direction: ASC
       - property: middle_chinese_final
         direction: DESC
-      - property: grade_level
-        direction: ASC
       - property: skip_number
         direction: DESC
       - property: english
@@ -35,8 +38,6 @@ views:
         direction: ASC
       - property: joyo_level
         direction: ASC
-      - property: hsk_level
-        direction: DESC
       - property: stroke_count
         direction: DESC
       - property: radical

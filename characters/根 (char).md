@@ -5,25 +5,27 @@ cantonese:
   - gan1
 korean:
   - 근
-korean_native: ""
+korean_native: 뿌리
 japanese:
   - KON
-japanese_nanori: ""
+japanese_nanori:
+  - ね
 vietnamese:
+  - căn, cằn, cỗi
 middle_chinese_initial: k
 middle_chinese_final: ən
 stroke_count: 10
 radical: 木
 skip_number: 1-4-6
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - root
   - foundation
 羅馬字: gan
-韓文:  간
+韓文: 간
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 191
 mc_id: 1165
