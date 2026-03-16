@@ -23,7 +23,7 @@ english:
 羅馬字: bo
 韓文: 보
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5224
 mc_id: 1098

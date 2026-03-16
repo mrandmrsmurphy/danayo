@@ -21,8 +21,8 @@ english:
   - no
 羅馬字: buu
 韓文: 붓
-joyo_level: ""
-hsk_level: ""
+joyo_level: "6"
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 4052
 mc_id: 1170

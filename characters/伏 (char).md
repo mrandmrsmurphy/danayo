@@ -26,7 +26,7 @@ english:
 羅馬字: bug
 韓文: 북
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 4013
 mc_id: 561

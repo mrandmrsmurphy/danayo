@@ -24,7 +24,7 @@ english:
 羅馬字: bu
 韓文: 부
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 4315
 mc_id: 34

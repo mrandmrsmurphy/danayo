@@ -24,9 +24,9 @@ english:
   - pyeong
 羅馬字: byeng
 韓文: 병
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 7267
 mc_id: 0
 graphemic_classification: 平

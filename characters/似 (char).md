@@ -26,7 +26,7 @@ english:
 羅馬字: sa
 韓文: 사
 joyo_level: "5"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 5330
 mc_id: 1028

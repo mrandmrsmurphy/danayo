@@ -24,9 +24,9 @@ english:
   - plain
   - shitty
 羅馬字: byen
-韓文:  변
+韓文: 변
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2013
 mc_id: 653

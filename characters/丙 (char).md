@@ -24,7 +24,7 @@ english:
 羅馬字: byeng
 韓文: 병
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3004
 mc_id: 843

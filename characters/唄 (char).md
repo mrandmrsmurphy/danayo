@@ -21,9 +21,9 @@ english:
   - ugh
 羅馬字: bai
 韓文: 배
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 6055
 mc_id: 0
 graphemic_classification: 貝

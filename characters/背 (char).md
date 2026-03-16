@@ -21,8 +21,8 @@ english:
   - back
 羅馬字: boi
 韓文: 뵈
-joyo_level: ""
-hsk_level: ""
+joyo_level: "6"
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4226
 mc_id: 906
