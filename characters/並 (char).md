@@ -42,6 +42,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 并=C#652
+### Derived Characters
+- 碰 is forbidden

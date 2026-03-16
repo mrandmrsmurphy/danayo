@@ -4,6 +4,11 @@ date-last-perfect:
 radical: 石
 ---
 > [[Radicals]]
+## Strokes
+
+### +8
+
+- Forbidden: 碰
 
 ## Data search
 ```dataview

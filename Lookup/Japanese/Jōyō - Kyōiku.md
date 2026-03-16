@@ -835,8 +835,8 @@ The following prefecture names were added in 2017:
 825. [[領]] : ryō	 	territory
 826. [[額]] : gaku	hitai	amount
 827. [[飼]] : shi	ka-u	domesticate
-## Grade 6 - 181 ... 191?!?!?
-836. [[並]] : hei	nami ; nara-bu	row
+## Grade 6 - 181 (+10 prefectures)
+836. [並](characters/並%20(char).md) : hei	nami ; nara-bu	row
 837. [[乱]] : ran	mida-reru	riot
 838. [[乳]] : nyū	chichi	milk
 839. [[亡]] : bō	na-kunaru	deceased

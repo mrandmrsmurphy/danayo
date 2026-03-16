@@ -10,6 +10,9 @@ skip_number: 1-5-8
 ## Characters
 睛, 睡, 睦, 矮 (char), 碍, 碗 (char), 祿, 禍, 稗, 稚, 稜, 蜂 (char), 裸 (char), 裾, 褐 (char), 雅, 雉 (char), 雌, 靖
 
+### Forbidden
+- 碰
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
