@@ -25,7 +25,7 @@ english:
 羅馬字: ma
 韓文: 마
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5180
 mc_id: 2913

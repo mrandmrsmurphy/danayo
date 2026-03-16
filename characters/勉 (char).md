@@ -23,7 +23,7 @@ english:
 羅馬字: myen
 韓文: 면
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3035
 mc_id: 1454

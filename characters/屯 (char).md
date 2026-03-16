@@ -26,7 +26,7 @@ english:
 羅馬字: dun
 韓文: 둔
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 6342
 mc_id: 930

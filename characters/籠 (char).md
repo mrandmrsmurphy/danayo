@@ -21,9 +21,9 @@ english:
   - basket
 羅馬字: long
 韓文: 롱
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: "3"
+hanmun_edu_level: 名
 danayo_id: 6248
 mc_id: 2733
 graphemic_classification: 龍

@@ -21,9 +21,9 @@ english:
   - virtue
 羅馬字: tug
 韓文: 툭
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "5"
+hsk_level: "2"
+hanmun_edu_level: 中
 danayo_id: 3114
 mc_id: 102
 graphemic_classification: 惪

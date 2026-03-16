@@ -23,7 +23,7 @@ english:
 羅馬字: lyen
 韓文: 련
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2250
 mc_id: 703

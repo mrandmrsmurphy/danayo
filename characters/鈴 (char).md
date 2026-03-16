@@ -24,8 +24,8 @@ english:
 羅馬字: leng
 韓文: 렁
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "2"
+hanmun_edu_level: 名
 danayo_id: 5357
 mc_id: 4293
 graphemic_classification: 令

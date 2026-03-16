@@ -23,8 +23,8 @@ english:
 羅馬字: li
 韓文: 리
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "2"
+hanmun_edu_level: 名
 danayo_id: 6287
 mc_id: 4376
 graphemic_classification: 里
