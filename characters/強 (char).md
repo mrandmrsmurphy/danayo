@@ -24,7 +24,7 @@ english:
 羅馬字: gyang
 韓文: 걍
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2092
 mc_id: "496.539"

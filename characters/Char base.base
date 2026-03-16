@@ -9,19 +9,13 @@ views:
     order:
       - file.name
       - 韓文
-      - 羅馬字
-      - 注音
-      - english
-      - skip_number
-      - korean
-      - date-last-perfect
-      - graphemic_classification
-      - pos
+      - hsk_level
+      - joyo_level
+      - hanmun_edu_level
       - formula.score
-      - grade_level
-      - middle_chinese_initial
-      - middle_chinese_final
     sort:
+      - property: 韓文
+        direction: ASC
       - property: middle_chinese_initial
         direction: ASC
       - property: middle_chinese_final
@@ -31,8 +25,6 @@ views:
       - property: skip_number
         direction: DESC
       - property: english
-        direction: ASC
-      - property: 韓文
         direction: ASC
       - property: 注音
         direction: DESC
@@ -69,14 +61,6 @@ views:
       - property: file.basename
         direction: ASC
     columnSize:
-      file.name: 31
+      file.name: 64
       note.韓文: 63
-      note.注音: 80
-      note.english: 125
-      note.skip_number: 72
-      note.korean: 58
-      note.date-last-perfect: 64
-      note.graphemic_classification: 60
-      note.pos: 67
       formula.score: 112
-      note.middle_chinese_initial: 94
