@@ -1017,3 +1017,35 @@ The following prefecture names were added in 2017:
 1014. [[革]] : kaku	kawa	leather
 1015. [[頂]] : chou	itada-ku	place on the head
 1016. [[骨 (char)]] : kotsu	hone	bone
+
+## Datacheck
+```dataviewjs
+function norm(v) {
+  if (v == null) return "";
+  if (Array.isArray(v)) return v.join(", ");
+  return String(v);
+}
+
+let seen = new Set();
+let links = dv.current().file.outlinks;
+
+let pages = links
+  .map(l => dv.page(l))
+  .filter(p => p && p.file.path.startsWith("characters/"))
+  .filter(p => {
+    if (seen.has(p.file.path)) return false;
+    seen.add(p.file.path);
+    return true;
+  })
+  .sort((a, b) => norm(a.japanese).localeCompare(norm(b.japanese), "jp"));
+
+dv.table(
+  ["Character", "Japanese", "Nanori","Level"],
+  pages.map(p => [
+    p.file.link,
+    norm(p.japanese),
+    norm(p.japanese_nanori),
+    norm(p.joyo_level)
+  ])
+);
+```

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - him2
 korean:
-korean_native: ""
+  - 험
+korean_native: 험할
 japanese:
   - KEN
 japanese_nanori: ""
@@ -22,7 +23,7 @@ english:
 韓文: 험
 joyo_level: "5"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4295
 mc_id: 1118
 graphemic_classification: 㑒
