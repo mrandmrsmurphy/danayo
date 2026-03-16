@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - ci2
 korean:
-korean_native: ""
+  - 치
+korean_native: 이
 japanese:
   - SHI
 japanese_nanori: ""
@@ -23,7 +24,7 @@ english:
 韓文: 치
 joyo_level: "2"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3170
 mc_id: 1083
 graphemic_classification: 象形

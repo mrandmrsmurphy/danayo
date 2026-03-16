@@ -27,7 +27,7 @@ english:
 韓文: 좡
 joyo_level: "6"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 2072
 mc_id: 41
 graphemic_classification: 會意

@@ -11,10 +11,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ɣɛi
-stroke_count: "8"
+stroke_count: 8
 radical: 手
 skip_number: 1-3-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - bow
@@ -23,7 +23,7 @@ english:
 韓文: 벼
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3138
 mc_id: 294
 graphemic_classification: 會意

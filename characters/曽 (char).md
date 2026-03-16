@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - zang1
 korean:
-korean_native: ""
+  - 증
+korean_native: 일찍
 japanese:
   - ZO
   - SOU
@@ -24,7 +25,7 @@ english:
 韓文: 중
 joyo_level: 表外字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3157
 mc_id: 753
 graphemic_classification: 象形

@@ -25,7 +25,7 @@ english:
 韓文: 싱
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 2104
 mc_id: 93
 graphemic_classification: 丁

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - ok3
 korean:
-korean_native: ""
+  - 악
+korean_native: 악할
 japanese:
   - AKU
   - O
@@ -15,7 +16,7 @@ middle_chinese_final: ɑk
 stroke_count: 11
 radical: 心
 skip_number: 2-7-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - bad
@@ -24,7 +25,7 @@ english:
 韓文: 악
 joyo_level: "3"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3127
 mc_id: 220
 graphemic_classification: 亜

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - ting1
 korean:
-korean_native: ""
+  - 청
+korean_native: 들을
 japanese:
   - CHOU
   - TEI
@@ -12,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: tʰ
 middle_chinese_final: eŋ
-stroke_count: "17"
+stroke_count: 17
 radical: 耳
 skip_number: 1-6-11
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - listen
@@ -23,7 +24,7 @@ english:
 韓文: 청
 joyo_level: ""
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3225
 mc_id: 282
 graphemic_classification: 𡈼

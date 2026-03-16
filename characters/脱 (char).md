@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - tyut3
 korean:
-korean_native: ""
+  - 탈
+korean_native: 벗을
 japanese:
   - DATSU
   - TAI
@@ -16,7 +17,7 @@ middle_chinese_final: uɑt
 stroke_count: 11
 radical: 肉
 skip_number: 1-4-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - undress
@@ -24,7 +25,7 @@ english:
 韓文: 돧
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3227
 mc_id: 1282
 graphemic_classification: 兌

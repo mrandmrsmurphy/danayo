@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - cung4
 korean:
-korean_native: ""
+  - 종
+korean_native: 좇을 종
 japanese:
   - JUU
   - SHOU
@@ -24,7 +25,7 @@ english:
 韓文: 종
 joyo_level: ""
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 2096
 mc_id: 85
 graphemic_classification: 會意

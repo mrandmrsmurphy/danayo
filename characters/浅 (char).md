@@ -4,25 +4,26 @@ mandarin:
 cantonese:
   - cin2
 korean:
-korean_native: ""
+  - 천
+korean_native: 얕을
 japanese:
   - SEN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iᴇn
-stroke_count: "9"
+stroke_count: 9
 radical: 水
 skip_number: 1-3-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - shallow
 羅馬字: cen
-韓文:  천
+韓文: 천
 joyo_level: "4"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 2157
 mc_id: 1412
 graphemic_classification: 㦮

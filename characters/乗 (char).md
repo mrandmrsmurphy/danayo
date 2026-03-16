@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - sing4
 korean:
-korean_native: ""
+  - 승
+korean_native: 탈
 japanese:
   - JOU
   - SHOU
@@ -24,7 +25,7 @@ english:
 韓文: 숭
 joyo_level: "3"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 2004
 mc_id: 269
 graphemic_classification: 乘
