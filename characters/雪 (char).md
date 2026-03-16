@@ -5,24 +5,26 @@ cantonese:
   - syut3
 korean:
   - 설
-korean_native: ""
+korean_native: 눈
 japanese:
   - SETSU
-japanese_nanori: ""
+japanese_nanori:
+  - ゆき
 vietnamese:
+  - tuyết
 middle_chinese_initial: s
 middle_chinese_final: iuᴇt
 stroke_count: 11
 radical: 雨
 skip_number: 2-8-3
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - snow
 羅馬字: swed
-韓文:  숻
+韓文: 숻
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 197
 mc_id: 1547
@@ -39,5 +41,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- cod is [[雪魚]]

@@ -5,11 +5,12 @@ cantonese:
   - muk6
 korean:
   - 목
-korean_native: ""
+korean_native: 나무
 japanese:
   - BOKU
   - MOKU
-japanese_nanori: ""
+japanese_nanori:
+  - き
 vietnamese:
   - mộc
   - móc
@@ -22,14 +23,14 @@ stroke_count: 4
 radical: 木
 skip_number: 4-4-3
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - tree
   - bush
 羅馬字: mog
 韓文: 목
 joyo_level: "1"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 43
 mc_id: 290

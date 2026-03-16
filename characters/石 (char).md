@@ -5,26 +5,28 @@ cantonese:
   - sek6
 korean:
   - 석
-korean_native: ""
+korean_native: 돌
 japanese:
   - SHAKU
   - SEKI
   - KOKU
-japanese_nanori: ""
+japanese_nanori:
+  - いし
 vietnamese:
+  - thạch, đán
 middle_chinese_initial: ʑ
 middle_chinese_final: iᴇk
 stroke_count: 5
 radical: 石
 skip_number: 3-2-3
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - rock
 羅馬字: seg
 韓文: 석
 joyo_level: "1"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 65
 mc_id: 254

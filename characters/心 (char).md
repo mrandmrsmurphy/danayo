@@ -18,13 +18,13 @@ stroke_count: 4
 radical: 心
 skip_number: 1-1-3
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - heart
 羅馬字: sim
 韓文: 심
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 52
 mc_id: 118

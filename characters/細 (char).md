@@ -5,19 +5,21 @@ cantonese:
   - sai3
 korean:
   - 세
-korean_native: ""
+korean_native: 가늘
 japanese:
   - SEI
   - SAI
-japanese_nanori: ""
+japanese_nanori:
+  - ほそ-い
 vietnamese:
+  - tế, tới
 middle_chinese_initial: s
 middle_chinese_final: ei
 stroke_count: 11
 radical: 糸
 skip_number: 1-6-5
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - fine
   - thin
@@ -26,7 +28,7 @@ english:
 羅馬字: sei
 韓文: 세
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 212
 mc_id: 1235
