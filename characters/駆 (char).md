@@ -23,7 +23,7 @@ english:
 韓文: 쿠
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 6391
 mc_id: 1345
 graphemic_classification: 区

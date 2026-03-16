@@ -14,7 +14,7 @@ middle_chinese_final: ɣuɛi
 stroke_count: 16
 radical: 心
 skip_number: 1-3-13
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - miss
@@ -23,7 +23,7 @@ english:
 韓文: 홰
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5087
 mc_id: 575
 graphemic_classification: 褱

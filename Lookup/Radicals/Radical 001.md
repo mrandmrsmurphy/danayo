@@ -33,7 +33,7 @@ Radical 1 is 一, the number one.
 10. <ruby>[[与 (char)]]<rt>·˙ㄛ</rt></ruby> - only
 11. <ruby>[[丐]]<rt>ㄍㄚˇ</rt></ruby> - begger
 - 丏 --> ancient variant of 丐
-- 丑 --> ancient variant of 醜
+- [[丑]] second of 12 earthly branches
 - 专 --> ancient variant of 専
 - 丗 --> ancient variant of 世
 

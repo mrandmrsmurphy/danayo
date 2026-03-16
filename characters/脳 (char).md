@@ -15,7 +15,7 @@ middle_chinese_final: ɑu
 stroke_count: 11
 radical: 肉
 skip_number: 1-4-7
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - brain
@@ -23,7 +23,7 @@ english:
 韓文: 낫
 joyo_level: "5"
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4228
 mc_id: 2814
 graphemic_classification: 𡿺
