@@ -3,8 +3,8 @@ mandarin:
   - gài
 cantonese:
   - koi3
-korean:
-korean_native: ""
+korean: 개
+korean_native: "대개"
 japanese:
   - GAI
   - KAI
@@ -35,9 +35,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 概.
 >For the word, see [概](words/概.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- for the most part [[大槪]]

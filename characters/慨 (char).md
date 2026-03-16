@@ -5,7 +5,7 @@ cantonese:
   - koi3
 korean:
   - 개
-korean_native: ""
+korean_native: 분개할
 japanese:
   - GAI
   - KAI
@@ -13,7 +13,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ʌi
-stroke_count: "13"
+stroke_count: 13
 radical: 心
 skip_number: 1-3-10
 grade_level: 6
@@ -38,5 +38,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[憤慨]] - resent
