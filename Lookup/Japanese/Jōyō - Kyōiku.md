@@ -135,7 +135,7 @@ The following prefecture names were added in 2017:
 128. [[秋]] : autumn ; shū (aki)
 129. [[冬]] : winter ; tō (fuyu)
 130. [[今]] : now ; kon (ima)
-131. [[新]] : new ; shin (atara-shii, ara-ta)
+131. [新 (char)](characters/新%20(char).md) : new ; shin (atara-shii, ara-ta)
 132. [[古]] : old ; ko (furu-i)
 133. [[間]] : interval ; kan, ken (ma, aida)
 134. [[方]] : direction ; hō (kata)

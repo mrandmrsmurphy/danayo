@@ -5,22 +5,24 @@ cantonese:
   - san1
 korean:
   - 신
-korean_native: ""
+korean_native: 새
 japanese:
   - SHIN
-japanese_nanori: ""
+japanese_nanori:
+  - あたら-しい
 vietnamese:
+  - tân, tâng
 middle_chinese_initial: s
 middle_chinese_final: iɪn
 stroke_count: 13
 radical: 斤
 skip_number: 1-9-4
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - new
 羅馬字: sin
-韓文:  신
+韓文: 신
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -28,7 +30,6 @@ danayo_id: 228
 mc_id: 626
 graphemic_classification: 亲
 stand_in: 新
-aliases:
 注音: ㄙㄧㄋ
 ---
 >[!tip] This is a page about the character 新.
@@ -37,6 +38,7 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-
+-  形声 (OC \*siŋ): phonetic [[辛]] (OC \*siŋ) + semantic [斤](Radical%20069) — to chop wood. Original form of [薪](characters/薪.md) (OC \*siŋ, “firewood”). The character was later borrowed to represent 新 (OC \*siŋ, “new”) as an instance of jiajie ([假借](words/仮借.md)).  A semantic [木 (char)](characters/木%20(char).md) was later added in the bronze inscriptions which merged with the 辛.
+- [SKIP-1-9-4](lookup/SKIP/SKIP-1/SKIP-1-9-4.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) - [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
 ## Words
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
