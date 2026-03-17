@@ -24,7 +24,7 @@ english:
   - brush off
 羅馬字: pud
 韓文: 푿
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 6187

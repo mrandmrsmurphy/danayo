@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - joeng4
 korean:
-korean_native: ""
+  - 양
+korean_native: 모양
 japanese:
   - YOU
   - SHOU
@@ -23,7 +24,7 @@ english:
 韓文: 양
 joyo_level: "3"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 3166
 mc_id: 9173
 graphemic_classification: 羊

@@ -4,17 +4,18 @@ mandarin:
 cantonese:
   - sap1
 korean:
-korean_native: ""
+  - 습
+korean_native: 축축할
 japanese:
   - SHITSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɕ
 middle_chinese_final: iɪp
-stroke_count: "12"
+stroke_count: 12
 radical: 水
 skip_number: 1-3-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - wet

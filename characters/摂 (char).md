@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - sip3
 korean:
-korean_native: ""
+  - 섭
+korean_native: 당길
 japanese:
   - SETSU
   - JOU
@@ -12,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: ep
-stroke_count: "13"
+stroke_count: 13
 radical: 手
 skip_number: 1-3-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - vicarious
@@ -23,7 +24,7 @@ english:
 韓文: 넙
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5108
 mc_id: 1382
 graphemic_classification: 耳

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - sou1
 korean:
-korean_native: ""
+  - 소
+korean_native: 떠들
 japanese:
   - SOU
 japanese_nanori: ""
@@ -22,7 +23,7 @@ english:
 韓文: 삿
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5068
 mc_id: 2358
 graphemic_classification: 蚤

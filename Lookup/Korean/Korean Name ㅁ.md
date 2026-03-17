@@ -32,7 +32,7 @@
 [蔑](characters/蔑%20(char).md)
 
 ### 명 
-[溟](characters/冥%20(char).md) [暝](characters/冥%20(char).md) 椧! [皿](characters/皿%20(char).md) [瞑](characters/冥%20(char).md) [[茗]] [[蓂]] [[螟]] [酩](characters/酩.md) [慏](characters/冥%20(char).md) [洺](characters/名%20(char).md) [[眀]] [䳟](characters/明%20(char).md)
+[溟](characters/冥%20(char).md) [暝](characters/冥%20(char).md) 椧! [皿](characters/皿%20(char).md) [瞑](characters/冥%20(char).md) [[茗]] [[蓂]] [[characters/螟]] [酩](characters/酩.md) [慏](characters/冥%20(char).md) [洺](characters/名%20(char).md) [[眀]] [䳟](characters/明%20(char).md)
 
 ### 몌 
 [[袂]] 

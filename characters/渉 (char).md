@@ -4,17 +4,18 @@ mandarin:
 cantonese:
   - sip3
 korean:
-korean_native: ""
+  - 섭
+korean_native: 건널
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ep
-stroke_count: "11"
+stroke_count: 11
 radical: 水
 skip_number: 1-3-8
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - ford
@@ -22,7 +23,7 @@ english:
 韓文: 섭
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5111
 mc_id: 1087
 graphemic_classification: 會意
