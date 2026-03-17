@@ -22,7 +22,7 @@ english:
   - step
 羅馬字: dwan
 韓文: 돤
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4150

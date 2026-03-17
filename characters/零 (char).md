@@ -8,7 +8,6 @@ korean:
 korean_native: 떨어질
 japanese:
   - REI
-  - ...の代わりに,...を代表して
 japanese_nanori: おちる, ふる, こぼれる
 vietnamese:
   - lênh, linh, rinh

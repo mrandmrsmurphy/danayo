@@ -23,7 +23,7 @@ english:
   - stalks of
 羅馬字: moi
 韓文: 뫼
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6145
