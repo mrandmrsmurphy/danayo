@@ -32,6 +32,9 @@ aliases:
   - 蛎
   - 蠣
   - 蠇
+  - 癩
+  - 癘
+  - 疠
 注音: ㄌㄝ
 ---
 >[!tip] This is a page about the character 厉.
@@ -44,3 +47,4 @@ aliases:
 # Notes
 ### 借代字
 - 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[牡厉]]
+- "leprosy", hence --> [[厉病]] (and 厉人 for 'leper')
