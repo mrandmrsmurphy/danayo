@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - zaap6
 korean:
-korean_native: ""
+  - 잡
+korean_native: 섞일
 japanese:
   - ZATSU
   - ZOU
@@ -12,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d͡z
 middle_chinese_final: ʌp
-stroke_count: "14"
+stroke_count: 14
 radical: 隹
 skip_number: 1-6-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - miscellaneous
@@ -23,7 +24,7 @@ english:
 韓文: 잡
 joyo_level: "5"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4299
 mc_id: 1193
 graphemic_classification: 集
