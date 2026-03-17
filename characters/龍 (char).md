@@ -43,6 +43,7 @@ aliases:
   - 䮾
   - 𢅛
   - 瓏
+  - 壟
 注音: ㄌ˙ㄛㄥ
 date-last-perfect: 2026-02-22
 品詞: 名詞
@@ -73,3 +74,4 @@ date-last-perfect: 2026-02-22
 - [[恐龍]] - dinosaur
 - [[烏龍茶]] - oolong tea
 - [[龍巻]] - tornado
+- [[龍断]] - to monopolize (壟斷)

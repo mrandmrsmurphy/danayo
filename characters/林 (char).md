@@ -32,13 +32,16 @@ graphemic_classification: 會意
 stand_in: 林
 aliases:
   - 晽
+  - 霖
+  - 碄
 注音: ㄌㄧㄇ
 ---
 >[!tip] This is a page about the character 林.
 >For the word, see [林](words/林.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[林雨]] (霖雨) long spell of rain, favor from the monarch

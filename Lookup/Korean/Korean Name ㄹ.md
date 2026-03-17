@@ -31,7 +31,7 @@ All of these have been checked for redirects.
 [呂](characters/呂.md) [侶](characters/侶.md) [[閭]] [黎](characters/黎.md) [[儷]] [廬](characters/廬.md) [戾](characters/戻.md) [[櫚]] [[濾]] [[礪]] [[藜]] [蠣](characters/厉%20(char).md) [驢](characters/馿%20(char).md) 驪 --> 麗
 
 ### 력 
-[[瀝]] [[礫]] [[轢]] [[靂]] 
+[[瀝]] [[礫]] [[轢]] 靂 --> 歴
 
 ### 련 
 [煉](characters/錬.md) [[璉]] [[攣]] [[漣]] [[輦]] [[孌]] [[𨏶]] 
@@ -55,7 +55,7 @@ All of these have been checked for redirects.
 !彔! [[碌]] [[菉]] [麓](characters/麓.md)
 
 ### 롱 
-[瀧](characters/瀧.md) [瓏](characters/龍%20(char).md) [籠](characters/籠%20(char).md) [[壟]] [朧](characters/朧.md) [聾](characters/聾.md) 
+[瀧](characters/瀧.md) [瓏](characters/龍%20(char).md) [籠](characters/籠%20(char).md) [壟](characters/龍%20(char).md) [朧](characters/朧.md) [聾](characters/聾.md) 
 
 ### 뢰 
 [瀨](characters/瀬.md) [儡](characters/儡.md) [牢](characters/牢.md) [磊](characters/磊.md) [賂](characters/賂.md) [[賚]] 
@@ -91,10 +91,11 @@ All of these have been checked for redirects.
 [[俚]] [莉](characters/莉.md) [俐](characters/俐.md) [[唎]] [浬](characters/浬%20(char).md) [[籬]] [罹](characters/罹.md) [羸](characters/羸.md) [釐](characters/厘%20(char).md) [[涖]] [[𢻠]] [犂](characters/犂.md) [[摛]] 
 
 ### 린 
-[[潾]] [[璘]] [麟](characters/麟.md) [吝](characters/吝.md) [[燐]] [[藺]] [[躪]] [鱗](characters/鱗%20(char).md) [[撛]] [[鏻]] phosphonium [[獜]] 
+[[潾]] [[璘]] [麟](characters/麟.md) [吝](characters/吝.md)  [[藺]] [[躪]] [鱗](characters/鱗%20(char).md) [[撛]] [獜](characters/麟.md)
+Phosophorus: [[燐]] will eat 磷, [[鏻]]
 
 ### 림 
-[琳](characters/琳.md) [[霖]] [淋](characters/淋%20(char).md) [[棽]] [[碄]] [[晽]]
+[琳](characters/琳.md) [霖](characters/林%20(char).md) [淋](characters/淋%20(char).md) [[棽]] [碄](characters/林%20(char).md) [[晽]]
 
 ### 립 
 [笠](characters/笠.md) [粒](characters/粒.md) [[砬]] 
