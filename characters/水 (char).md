@@ -34,11 +34,12 @@ aliases:
 ---
 >[!tip] This is a page about the character 水.
 >For the word, see [水](words/水.md)
-
+>For the radical, see [Radical 085](lookup/Radicals/Radical%20085.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
-
+## Words
+- <ruby>[水中](/words/水中.md)<rt>ㄙㄨㄐㄨㄥ</rt></ruby> - underwater
 - <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄥ</rt></ruby> - Mercury (planet)

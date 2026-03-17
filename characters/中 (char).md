@@ -33,25 +33,30 @@ aliases:
 注音: ㄐㄨㄥ
 ---
 >[!tip] This is a page about the character 中.
->For the word, see [中](words/中.md)
+>For the word, see [中](中)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-
+1. present tense
+2. midst, middle, center
+3. China ("middle kingdom")
 ## Words
-1. [[words/中原.md]]
-2. [[words/中国人.md]]
-3. [[words/中国語.md]]
-4. [[words/中学校.md]]
-5. [[words/中庭.md]]
-6. [[words/中心.md]]
-7. [[words/中性子.md]]
-8. [[words/中文.md]]
-9. [[words/中旬.md]]
-10. [[words/中耳.md]]
-11. [[words/中華民国.md]]
-12. [[words/中間.md]]
-13. [[暗中]]
+- [[中原]]
+- [[中国人]]
+- [[中国語]]
+- [[中学校]]
+- [[中庭]]
+- [[中心]]
+- [[中性子]]
+- [[中文]]
+- [[中旬]]
+- [[中耳]]
+- [[中華民国]]
+- [[中間]]
+- [[暗中]]
+- <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄥ</rt></ruby> - underwater
 
+## Chengyu
+- <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄥㄐㄨㄥㄌㄛˇㄍㄚㄎ</rt></ruby> - Castle in the Sky

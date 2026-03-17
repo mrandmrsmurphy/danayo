@@ -7,13 +7,13 @@
 |  5  |       you       |  汝   |   你們   |   你哋   |         貴方達          |       汝等 or 汝輩       |             各伴 các bạn             |   <ruby>[[君等]]<rt>ㄍㄨㄋㄉㄨㄥ</rt></ruby>   |     |
 |  6  |      they       | 之,斯  |   他們   |   佢哋   |        彼等, 彼ら        |                      |                户họ                 | <ruby>[[其人等]]<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>  |     |
 |  7  |      this       |  是   |   這    |   呢    |          此れ          |          此는          |               尼 này                |     <ruby>[[此]]<rt>ㄑㄝ</rt></ruby>      |     |
-|  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |  <ruby>[[其 (char)]]<rt>ㄍㄧ</rt></ruby>  |     |
-|     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[[彼 (char)]]<rt>ㄅㄧ</rt></ruby>  |     |
+|  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |  <ruby>[[其]]<rt>ㄍㄧ</rt></ruby>  |     |
+|     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[[彼]]<rt>ㄅㄧ</rt></ruby>  |     |
 |  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |    <ruby>[[此処]]<rt>ㄑㄝㄑㄛ</rt></ruby>    |     |
 | 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |    <ruby>[[其処]]<rt>ㄍㄧㄑㄛ</rt></ruby>    |     |
 |     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |    <ruby>[[彼処]]<rt>ㄅㄧㄑㄛ</rt></ruby>    |     |
-| 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[[誰 (char)]]<rt>ㄙ˙ㄝ˙</rt></ruby> |     |
-| 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |  <ruby>[[何 (char)]]<rt>ㄏㄚ</rt></ruby>  |     |
+| 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[[誰]]<rt>ㄙ˙ㄝ˙</rt></ruby> |     |
+| 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |  <ruby>[[何]]<rt>ㄏㄚ</rt></ruby>  |     |
 | 13  |      where      |  何處  |   哪裡   |   邊度   |          何処          |        奚 or 焉        |               兜 đâu                |    <ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby>    |     |
 | 14  |      when       |  迨   |  甚麼時候  |   幾時   |          何時          |       曷 or 何時        |             欺芇 khi nào             |    <ruby>[[何時]]<rt>ㄏㄚㄙㄧ</rt></ruby>    |     |
 | 15  |       how       |  如何  |   如何   | 如何, 點樣 |          如何          |       焉 or 如何        |             替芇 thế nào             |                 如何 뇨하                 |     |
@@ -64,7 +64,7 @@
 | 47  |       dog       |  犬   |   狗    |   狗    |          犬           |       犬 (개 견)        |                㹥chó                |                 犬 kwen                 |     |
 | 48  |      louse      |  蝨   |   虱    |   蝨    |          虱           |       蝨 (이 슬)        |               𧏶rận                |                 虱 sit                  |     |
 | 49  |      snake      |  蛇   |   蛇    |   蛇    |          蛇           |       蛇 (뱀 사)        |               𧋻rắn                |                  蛇 ta                  |     |
-| 50  |      worm       |      |   蚯蚓   |   蚯蚓   |                      |                      |             蠕虫 nujung              |                                        |     |
+| 50  |      worm       |      |   蚯蚓   |   蚯蚓   |                      |                      |                    | <ruby>[蠕虫](/words/蠕虫.md)<rt>ㄋㄨㄐㄨㄥ</rt></ruby> |
 | 51  |      tree       |  木   |   樹    |   樹    |          木           |       木 (나무 목)       |               𣘃cây                |                 木 mok                  |     |
 | 52  |     forest      |  林   |   森林   |   森林   |         森/林          |       林 (수풀 림)       |               棱rừng                |               森林 simlim                |     |
 | 53  |      stick      |  杖   |   棍    |   棍    |          棒           |       棒 (막대 봉)       |                                    |               棍棒 honbang               |     |

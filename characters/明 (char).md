@@ -39,10 +39,11 @@ aliases:
 ---
 >[!tip] This is a page about the character 明.
 >For the word, see [明](words/明.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 - [[Radical 072|日]] + [[月 (char)]] = [[SKIP-1-4-4]] ([[Stroke 08]])
+
+## Chengyu
+- <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ˙ㄝㄋㄇ˙ㄝㄥ</rt></ruby>
