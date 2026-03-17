@@ -31,6 +31,7 @@ views:
       - hsk_level
       - joyo_level
       - formula.spot
+      - date-last-perfect
     sort:
       - property: formula.spot
         direction: DESC
@@ -45,5 +46,7 @@ views:
       note.english: 98
       note.danayo_id: 64
       note.hanmun_edu_level: 57
+      note.hsk_level: 40
+      note.joyo_level: 39
 
 ```

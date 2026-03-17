@@ -5,25 +5,27 @@ cantonese:
   - fei1
 korean:
   - 비
-korean_native: ""
+korean_native: 아닐
 japanese:
   - HI
-japanese_nanori: ""
+japanese_nanori:
+  - それる
 vietnamese:
+  - phi
 middle_chinese_initial: p
 middle_chinese_final: ʉi
 stroke_count: 8
 radical: 非
 skip_number: 1-4-4
 grade_level: "2"
-pos: ""
+pos: 代詞
 english:
   - ain't
 羅馬字: pi
 韓文: 피
 joyo_level: "5"
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 2265
 mc_id: 75
 graphemic_classification: 象形

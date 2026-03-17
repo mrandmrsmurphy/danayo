@@ -46,7 +46,7 @@ skip_number: 1-4-4
 - <ruby>[[祉]]<rt>치</rt></ruby>
 ### Misc.
 - <ruby>[[門]]<rt>몬</rt></ruby>
-- <ruby>[[非]]<rt>피</rt></ruby>
+- <ruby>[非 (char)](characters/非%20(char).md)<rt>피</rt></ruby>
 - <ruby>[[爬]]<rt>바</rt></ruby>
 - <ruby>[[版]]<rt>판</rt></ruby>
 - <ruby>[[牧]]<rt>묵</rt></ruby>
@@ -54,7 +54,7 @@ skip_number: 1-4-4
 - <ruby>[[玩]]<rt>완</rt></ruby>
 - <ruby>[[所]]<rt>쇼</rt></ruby>
 - <ruby>[[放]]<rt>방</rt></ruby>
-- <ruby>[[於]]<rt>오</rt></ruby>
+- <ruby>[於](characters/于%20(char).md)<rt>오</rt></ruby>
 - <ruby>[[欣]]<rt>힌</rt></ruby>
 
 ```dataview
