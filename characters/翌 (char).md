@@ -24,9 +24,9 @@ english:
   - next
 羅馬字: "'ig"
 韓文: 익
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 8156
 mc_id: 5320
 graphemic_classification: 立

@@ -1,3 +1,4 @@
+## ㅏ
 ### 가 
 [嘉](characters/嘉.md) [嫁](characters/嫁.md) [稼](characters/稼.md) [賈](characters/賈.md) [駕](characters/駕.md) [伽](characters/伽.md) [迦](characters/珈.md) [柯](characters/柯.md) [呵](characters/呵.md) [哥](characters/歌.md) [[枷]] [珂](characters/珂.md) [痂](characters/加.md) [苛](characters/苛.md) [茄](characters/茄.md) [袈](characters/珈.md) [[訶]] [[跏]] [[軻]] [哿](characters/加.md) 
 
@@ -33,6 +34,7 @@
 ### 갹 
 [[醵]] 
 
+## ㅓ
 ### 거 
 [[渠]] [[遽]] [鉅](words/巨金.md) [[炬]] [[倨]] [[据]] [[祛]] [[踞]] [[鋸]]
 
@@ -69,6 +71,7 @@
 ### 계 
 [[誡]] [[烓]] [[屆]] [[悸]] [[棨]] [[稽]] [[谿]]  [[谿]] ([[磎]])
 
+## ㅗ
 ### 고 
 [[叩]] [[敲]] [[皐]] [[暠]] [[呱]] [[尻]] [[拷]] [[槁]] [[沽]] [[痼]] [[睾]] [[羔]] [[股]] [[膏]] [[苽]] [[菰]] [[藁]] [[蠱]] [[袴]] [[誥]] [[賈]] [[辜]] [[錮]] [[雇]] [[杲]]
 
@@ -114,6 +117,7 @@
 ### 교 
 [[僑]] [[喬]] [[嬌]] [[膠]] [[咬]] [[嶠]] [[攪]] [[狡]] [[皎]] [[絞]] [[翹]] [[蕎]] [[蛟]] [[轎]] [[餃]] [[驕]] [鮫](characters/鮫.md) [[姣]] [[佼]] [[噭]] [[憍]] 
 
+## ㅜ
 ### 구 
 [[玖]] [[矩]] [[邱]] 銶 metal-chisel [[溝]] [[購]] [鳩](characters/鳩.md) [[軀]] [[枸]] [[仇]] [[勾]] [[咎]] [[嘔]] [[垢]] [[寇]] [[嶇]] [[柩]] [[歐]] [[毆]] [[毬]] [[灸]] [[瞿]] [[絿]] [[臼]] [[舅]] [[衢]] [[謳]] [[逑]] [鉤](characters/鉤%20(char).md) [[駒]] [鷗](characters/鴎%20(char).md) [[玽]] [[耇]] [[廏]] [[颶]] [[廏]] ([[廐]])
 
@@ -150,6 +154,7 @@
 ### 귤 
 [[橘]]
 
+## ㅡ
 ### 극 
 [[剋]] [[隙]] [[戟]] [[棘]]
 
@@ -168,6 +173,7 @@
 ### 긍 
 [[亘]] [[兢]] [[矜]]
 
+## ㅣ
 ### 기 
 [[淇]] [[琪]] [[璂]] [[棋]] [[祺]] [[錤]] [[騏]] [[麒]] [[玘]] [[杞]] [[埼]] [[崎]] [[琦]] [[綺]] [[錡]] [[箕]] [[岐]] [汽](characters/汽.md) [[沂]] [[圻]] [[耆]] [[璣]] [[磯]] [[譏]] [[冀]] [[驥]] [[嗜]] [[暣]] [[伎]] [[夔]] [[妓]] [[朞]] [[畸]] [[祁]] [[祇]] [[羈]] [[耭]] [[肌]] [[饑]] [[稘]]
 
@@ -176,3 +182,35 @@
 
 ### 끽 
 [[喫]] 
+
+## Datacheck
+```dataviewjs
+function norm(v) {
+  if (v == null) return "";
+  if (Array.isArray(v)) return v.join(", ");
+  return String(v);
+}
+
+let seen = new Set();
+let links = dv.current().file.outlinks;
+
+let pages = links
+  .map(l => dv.page(l))
+  .filter(p => p && p.file.path.startsWith("characters/"))
+  .filter(p => {
+    if (seen.has(p.file.path)) return false;
+    seen.add(p.file.path);
+    return true;
+  })
+  .sort((a, b) => norm(a.korean).localeCompare(norm(b.korean), "ko"));
+
+dv.table(
+  ["Character", "Korean", "Korean Native","Level"],
+  pages.map(p => [
+    p.file.link,
+    norm(p.korean),
+    norm(p.korean_native),
+    norm(p.hanmun_edu_level)
+  ])
+);
+```

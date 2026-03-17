@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - keoi1
 korean:
-korean_native: ""
+  - 구
+korean_native: 몰
 japanese:
   - KU
 japanese_nanori: ""
@@ -21,7 +22,7 @@ english:
   - spur
 羅馬字: ku
 韓文: 쿠
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 6391

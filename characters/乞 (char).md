@@ -5,7 +5,7 @@ cantonese:
   - hat1
 korean:
   - 걸
-korean_native: "빌"
+korean_native: 빌
 japanese:
   - KOTSU
   - KI
@@ -22,7 +22,7 @@ english:
   - beg
 羅馬字: kid
 韓文: 킫
-joyo_level: 表外字
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 6427
