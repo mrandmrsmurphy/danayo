@@ -22,7 +22,7 @@ english:
   - laquer
 羅馬字: cid
 韓文: 칟
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5052

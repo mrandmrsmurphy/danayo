@@ -21,9 +21,9 @@ english:
   - key
 羅馬字: gyen
 韓文: 견
-joyo_level: 表外字
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6282
 mc_id: 4371
 graphemic_classification: 建
