@@ -332,7 +332,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1356. [[稿]] : draft
 1357. [[衡]] : equilibrium
 1358. [[購]] : subscription
-1359. [[乞]] : beg
+1359. [乞 (char)](characters/乞%20(char).md) : beg
 1360. [[拷]] : torture
 1361. [[剛]] : sturdy
 1362. [[傲]] : be proud
