@@ -22,7 +22,7 @@ english:
   - poisonous
 羅馬字: dog
 韓文: 독
-joyo_level: "4"
+joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4151

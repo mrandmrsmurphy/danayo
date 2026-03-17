@@ -25,7 +25,7 @@ english:
   - line
 羅馬字: sing
 韓文: 싱
-joyo_level: 高等
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 6301

@@ -21,7 +21,7 @@ english:
   - powder
 羅馬字: bun
 韓文: 분
-joyo_level: "4"
+joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4204

@@ -23,7 +23,7 @@ english:
   - become
 羅馬字: sing
 韓文: 싱
-joyo_level: ""
+joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2104

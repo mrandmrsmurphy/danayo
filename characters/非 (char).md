@@ -21,7 +21,7 @@ english:
   - ain't
 羅馬字: pi
 韓文: 피
-joyo_level: ""
+joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 2265

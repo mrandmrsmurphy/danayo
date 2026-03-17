@@ -22,7 +22,7 @@ english:
   - scholar
 羅馬字: sai
 韓文: 새
-joyo_level: "3"
+joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2061

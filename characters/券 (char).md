@@ -22,7 +22,7 @@ english:
   - certificate
 羅馬字: kon
 韓文: 콘
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 無
 danayo_id: 6144

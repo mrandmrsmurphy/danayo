@@ -22,7 +22,7 @@ english:
   - break
 羅馬字: pa
 韓文: 파
-joyo_level: ""
+joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2180

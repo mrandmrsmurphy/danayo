@@ -15,13 +15,13 @@ middle_chinese_final: ək
 stroke_count: 14
 radical: 彳
 skip_number: 1-3-11
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - virtue
 羅馬字: tug
 韓文: 툭
-joyo_level: "5"
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3114

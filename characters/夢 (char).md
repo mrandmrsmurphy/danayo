@@ -21,7 +21,7 @@ english:
   - dream
 羅馬字: mung
 韓文: 뭉
-joyo_level: "4"
+joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4069

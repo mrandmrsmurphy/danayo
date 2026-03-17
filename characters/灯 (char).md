@@ -23,7 +23,7 @@ english:
   - lamp
 羅馬字: dung
 韓文: 둥
-joyo_level: "3"
+joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 105
