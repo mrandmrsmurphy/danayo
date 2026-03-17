@@ -22,7 +22,7 @@ english:
   - expense
 羅馬字: pui
 韓文: 퓌
-joyo_level: "4"
+joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4263

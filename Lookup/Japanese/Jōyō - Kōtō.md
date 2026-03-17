@@ -279,7 +279,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1303. [[遣]] : dispatch
 1304. [[賢]] : intelligent
 1305. [[謙]] : self-effacing
-1306. [[鍵]] : key
+1306. [鍵 (char)](characters/鍵%20(char).md) : key
 1307. [[繭]] : cocoon
 1308. [[顕]] : 	顯	appear
 1309. [[懸]] : suspend
