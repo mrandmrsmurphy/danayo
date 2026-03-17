@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - zung3
 korean:
-korean_native: ""
+  - 종
+korean_native: 늘어질
 japanese:
   - JUU
   - SHOU
@@ -12,11 +13,11 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡s
 middle_chinese_final: ɨoŋ
-stroke_count: "16"
+stroke_count: 16
 radical: 糸
 skip_number: 1-6-10
-grade_level: 5
-pos: ""
+grade_level: "5"
+pos: 性詞
 english:
   - selfish
   - arbitrary
@@ -24,7 +25,7 @@ english:
 韓文: 좀
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5152
 mc_id: 1065
 graphemic_classification: 從

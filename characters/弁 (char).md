@@ -5,7 +5,7 @@ cantonese:
   - bin6
 korean:
   - 변
-korean_native: ""
+korean_native: 분별할
 japanese:
   - BEN
   - HEN
@@ -16,8 +16,8 @@ middle_chinese_final: ɣɛn
 stroke_count: 5
 radical: 廾
 skip_number: 2-2-3
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 事詞
 english:
   - discuss
   - distinguish
@@ -25,7 +25,7 @@ english:
 韓文: 뱐
 joyo_level: "5"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 6317
 mc_id: 910
 graphemic_classification: 辡

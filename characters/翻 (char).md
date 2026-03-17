@@ -5,7 +5,7 @@ cantonese:
   - faan1
 korean:
   - 번
-korean_native: ""
+korean_native: 펄럭일
 japanese:
   - HON
   - HAN
@@ -24,7 +24,7 @@ english:
 韓文: 폰
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4219
 mc_id: 4924
 graphemic_classification: 番

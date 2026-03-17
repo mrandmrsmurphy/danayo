@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - tiu4
 korean:
-korean_native: ""
+  - 조
+korean_native: 가지
 japanese:
   - JOU
 japanese_nanori: ""
@@ -15,14 +16,14 @@ stroke_count: 7
 radical: 木
 skip_number: 2-3-4
 grade_level: "4"
-pos: ""
+pos: 量詞
 english:
   - LONG-THIN
 羅馬字: jo
 韓文: 조
 joyo_level: "5"
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4133
 mc_id: 1294
 graphemic_classification: 會意

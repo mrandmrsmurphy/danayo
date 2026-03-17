@@ -25,7 +25,7 @@ english:
   - a.k.a.
 羅馬字: jig
 韓文: 직
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3042

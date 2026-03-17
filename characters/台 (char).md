@@ -5,7 +5,7 @@ cantonese:
   - toi4
 korean:
   - 대
-korean_native: ""
+korean_native: 대
 japanese:
   - DAI
   - TAI
@@ -18,7 +18,7 @@ stroke_count: 5
 radical: 口
 skip_number: 2-2-3
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - pedestal
   - platform
@@ -27,7 +27,7 @@ english:
 韓文: 대
 joyo_level: "2"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4047
 mc_id: 840
 graphemic_classification: 指事

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - caan4
 korean:
-korean_native: ""
+  - 잔
+korean_native: 해칠
 japanese:
   - ZAN
   - SAN
@@ -15,7 +16,7 @@ middle_chinese_final: ɑn
 stroke_count: 10
 radical: 歹
 skip_number: 1-4-6
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - remaining

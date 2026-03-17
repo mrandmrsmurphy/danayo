@@ -24,7 +24,7 @@ english:
 韓文: 몯
 joyo_level: ""
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4153
 mc_id: 1158
 graphemic_classification: 勿

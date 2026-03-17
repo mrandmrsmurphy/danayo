@@ -5,7 +5,7 @@ cantonese:
   - soeng1
 korean:
   - 쌍
-korean_native: ""
+korean_native: 쌍
 japanese:
   - SOU
 japanese_nanori: ""
@@ -26,7 +26,7 @@ english:
 韓文: 솽
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4045
 mc_id: 2183
 graphemic_classification: 會意
