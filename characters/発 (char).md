@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - faat3
 korean:
-korean_native: ""
+  - 발
+korean_native: 쏠
 japanese:
   - HOTSU
   - HOCHI

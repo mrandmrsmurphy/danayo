@@ -12,19 +12,19 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: iuɪ
-stroke_count: "10"
+stroke_count: 10
 radical: 水
 skip_number: 1-3-7
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - tear
   - eye water
 羅馬字: lui
 韓文: 뤼
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5303
 mc_id: 3842
 graphemic_classification: 戻

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - hak1
 korean:
-korean_native: ""
+  - 흑
+korean_native: 검을
 japanese:
   - KOKU
 japanese_nanori: ""

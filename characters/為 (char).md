@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - wai4
 korean:
-korean_native: ""
+  - 위
+korean_native: 할
 japanese:
   - I
 japanese_nanori: ""

@@ -1076,7 +1076,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2098. [[倫]] : ethics
 2099. [[隣]] : neighboring
 2100. [[瑠]] : lapis lazuli
-2101. [[涙]] : 	淚	S	tears
+2101. [涙](characters/涙%20(char).md) : 	淚	S	tears
 2102. [[累]] : accumulate
 2103. [[塁]] : 	壘	S	bases
 2104. [[励]] : 	勵	S	encourage

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - loeng2
 korean:
-korean_native: ""
+  - 량
+korean_native: 두
 japanese:
   - RYOU
 japanese_nanori: ""

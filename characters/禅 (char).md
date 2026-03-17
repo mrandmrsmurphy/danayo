@@ -14,7 +14,7 @@ middle_chinese_final: iᴇn
 stroke_count: 13
 radical: 示
 skip_number: 1-4-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - oneness
@@ -23,7 +23,7 @@ english:
 韓文: 선
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 6183
 mc_id: 1474
 graphemic_classification: 单
