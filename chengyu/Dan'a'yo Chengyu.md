@@ -21,9 +21,7 @@ views:
       - file.name
       - date-last-perfect
       - 注音
-      - 羅馬字
-      - 韓文
-      - vietnamese
+      - english
     sort:
       - property: date-last-perfect
         direction: ASC
@@ -32,4 +30,5 @@ views:
     columnSize:
       note.date-last-perfect: 131
       note.注音: 81
+
 ```

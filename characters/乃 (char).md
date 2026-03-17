@@ -3,7 +3,7 @@ mandarin: nǎi
 cantonese:
   - naai5
 korean: 내
-korean_native: ""
+korean_native: 어찌
 japanese:
   - DAI
   - AI
@@ -23,7 +23,7 @@ english:
 韓文: 내
 joyo_level: "4"
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: 高等
 danayo_id: 5161
 mc_id: 63
 graphemic_classification: 象形

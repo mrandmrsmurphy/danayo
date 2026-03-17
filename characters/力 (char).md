@@ -51,7 +51,7 @@ aliases:
 - [[勢力]] - power
 - [[協力]] - work together
 - [[威力]] - might
-- [[麻力]] - magical power
+- [[words/魔力]] - magical power
 - [[独力]] - alone
 - [[尽力]] - exert oneself
 - [[実力]] - strength

@@ -5,7 +5,7 @@ cantonese:
   - lei5
 korean:
   - 리
-korean_native: ""
+korean_native: 마을
 japanese:
   - RI
 japanese_nanori: ""
@@ -30,15 +30,12 @@ graphemic_classification: 會意
 stand_in: 里
 aliases:
   - 哩
-  - 裏
-  - 裡
 注音: ㄌㄧ
 ---
 >[!tip] This is a page about the character 里.
 >For the word, see [里](words/里.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Because of 毎字明意, we cannot accept the merger of 里 and 裏, as Chinese does.
