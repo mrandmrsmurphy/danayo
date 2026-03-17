@@ -1,4 +1,4 @@
-> Everything that should be a redirect is.  It remains to check if these all have the correct Korean data points.
+> Everything that should be a redirect, is.  All have the correct Hanmun education level.  It remains to check these all for the correct native Korean.
 ## ㄱ
 #### 가
 [[家]] (집 가) [[佳 (char)]] (아름다울 가) [[街]] (거리 가) [[可]] (옳을 가) [[歌]] (노래 가) [[加]] (더할 가) [[価|價]] (값 가) [[仮|假]] (거짓 가)

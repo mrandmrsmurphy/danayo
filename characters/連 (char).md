@@ -5,7 +5,7 @@ cantonese:
   - lin4
 korean:
   - 련
-korean_native: ""
+korean_native: 잇닿을
 japanese:
   - REN
 japanese_nanori: ""
@@ -17,7 +17,7 @@ stroke_count: 10
 radical: 辵
 skip_number: 3-3-7
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - mutual
 羅馬字: lyen

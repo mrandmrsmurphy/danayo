@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - mui5
 korean:
-korean_native: ""
+  - 매
+korean_native: 매양
 japanese:
   - MAI
   - BAI

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - bin3
 korean:
-korean_native: ""
+  - 변
+korean_native: 변할
 japanese:
   - HEN
 japanese_nanori: ""

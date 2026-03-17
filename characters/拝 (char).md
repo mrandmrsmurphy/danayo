@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - baai3
 korean:
-korean_native: ""
+  - 배
+korean_native: 절
 japanese:
   - HAI
 japanese_nanori: ""

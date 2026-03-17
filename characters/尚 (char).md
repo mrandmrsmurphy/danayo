@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - soeng6
 korean:
-korean_native: ""
+  - 상
+korean_native: 오히려
 japanese:
   - SHOU
 japanese_nanori: ""

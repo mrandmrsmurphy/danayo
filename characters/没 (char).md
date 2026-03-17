@@ -4,18 +4,19 @@ mandarin:
 cantonese:
   - mut6
 korean:
-korean_native: ""
+  - 몰
+korean_native: 가라앉을
 japanese:
   - BOTSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: uət
-stroke_count: "7"
+stroke_count: 7
 radical: 水
 skip_number: 1-3-4
-grade_level: 4
-pos: ""
+grade_level: "4"
+pos: 性詞
 english:
   - drown
   - sink
