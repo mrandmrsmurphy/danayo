@@ -35,9 +35,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 幟.
 >For the word, see [幟](words/幟.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ˙ㄝㄋㄇ˙ㄝㄥ</rt></ruby>
