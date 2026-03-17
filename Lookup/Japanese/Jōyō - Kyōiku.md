@@ -656,385 +656,385 @@ The following prefecture names were added in 2017:
 647. [[養]] : yō	yashina-u	foster
 648. [[験]] : ken	 –	test
 ## Grade 5 - 185 ... 193?!??!
-643. [[久]] : kyū	hisa	long time
-644. [[佛|仏]] : hutsu ; butsu	hotoke	Buddha
-645. [[仮]] : ka ; ke	kari	sham
-646. [[件]] : ken	 	affair
-647. [[任]] : nin	maka-seru	responsibility
-648. [[似 (char)]] : ji	ni-ru	becoming
-649. [[余]] : yo	ama-ru	too much
-650. [[価]] : ka	atai	value
-651. [[保]] : ho	tamo-tsu	preserve
-652. [[修]] : shū	osa-meru	discipline
+643. [久](characters/久%20(char).md) : kyū	hisa	long time
+644. [仏](characters/佛%20(char)) : hutsu ; butsu	hotoke	Buddha
+645. [仮](characters/仮.md) : ka ; ke	kari	sham
+646. [件](characters/件.md) : ken	 	affair
+647. [任](characters/任.md) : nin	maka-seru	responsibility
+648. [似 (char)](characters/似%20(char).md) : ji	ni-ru	becoming
+649. [余](characters/余.md) : yo	ama-ru	too much
+650. [価](characters/価.md) : ka	atai	value
+651. [保](characters/保.md) : ho	tamo-tsu	preserve
+652. [修](characters/修.md) : shū	osa-meru	discipline
 653. [個](characters/個%20(char).md) : ko	 	individual
-654. [[停]] : tei	 –	halt
-655. [[備]] : bi	sona-eru	provide
-656. [[像]] : zō	 	statue
-657. [[再]] : sai ; sa	futata-bi	again
-658. [[刊]] : kan	 	publish
-659. [[判]] : han	waka-ru	judge
-660. [[制]] : sei	 	control
-661. [[券]] : ken	 	ticket
-662. [[則]] : soku	notto-ru	rule
-663. [[効]] : kō	ki-ku	effect
-664. [[務]] : mu	tsuto-meru	duty
-665. [[勢]] : sei	ikio-i	power
-666. [[厚]] : kō	atsu-i	thick
-667. [[句]] : ku	 	phrase
-668. [[史]] : shi	 –	history
-669. [[告]] : koku	tsu-geru	tell
-670. [喜 (char)](characters/喜%20(char).md) : ki	yoroko-bu	rejoice
-671. [[可]] : ka	 	possible
-672. [[営]] : ei	itona-mu	manage
-673. [[因]] : in	yo-ru	cause
-674. [[囲]] : i	kako-u	surround
-675. [[団]] : dan ; ton	 	group
-676. [[圧]] : atsu	 	pressure
-677. [在 (char)](characters/在%20(char).md) : zai	a-ru	exist
-678. [[型]] : kei	kata	model
-679. [均 (char)](characters/均%20(char).md) : kin	 	level
-680. [[堂]] : dō	 –	public chamber
-681. [[基]] : ki	moto-duku	foundation
-682. [[報]] : hō	muku-iru	report
-683. [[境]] : kyō	sakai	boundary
-684. [[墓]] : bo	haka	grave
-685. [[士]] : shi	 –	gentleman
-686. [[増]] : zō	ma-su ; fu-eru	increase
-687. [[夢]] : mu	yume	dream
-688. [[妻]] : sai	tsuma	wife
-689. [[婦]] : fu	 	lady
-690. [[容]] : yō	 	contain
-691. [[寄]] : ki	yo-ru	approach
-692. [[導]] : dō	michibi-ku	guide
-693. [[居]] : kyo	i-ru	reside
-694. [[属]] : zoku	 	belong
-695. [[布]] : fu	nuno	linen
-696. [[師]] : shi	 	expert
-697. [[常]] : jō	tsune	normal
-698. [[幹]] : kan	miki	tree-trunk
-699. [[序]] : jo	 	preface
-700. [[弁]] : ben	 	valve
-701. [[張]] : chō	ha-ru	stretch
-702. [[往]] : ō	 	journey
-703. [[復]] : fuku	 	repeating
-704. [[志]] : shi	kokorozashi	intention
-705. [[得]] : toku	e-ru	acquire
-706. [[応]] : ō	 	respond
-707. [[快]] : kai	kokoroyo-i	cheerful
-708. [[性]] : sei shō	saga	gender
-709. [[恩]] : on	 	grace
-710. [[情]] : jō	nasa-ke	feelings
-711. [[態]] : tai	 	condition
-712. [[慣]] : kan	na-reru	accustomed
-713. [[承]] : shō	uketamawa-ru	acquiesce
-714. [[技]] : gi	waza	skill
-715. [[招]] : shō	mane-ku	beckon
-716. [[授]] : ju	sazu-keru	instruct
-717. [[採]] : sai	to-ru	pick
-718. [接 (char)](characters/接%20(char).md) : setsu	ses-suru ; tsu-gu	contact
-719. [[提]] : tei	sa-geru	present
-720. [[損]] : son	soko-neru	loss
-721. [[救]] : kyū	suku-u	salvation
-722. [[支]] : shi	sasa-eru	branch
-723. [[政]] : sei	matsurigoto	politics
-724. [[故]] : ko	yue	circumstances
-725. [[敵]] : teki	kataki	enemy
-726. [[断]] : dan	ta-tsu ; kotowa-ru	cut off
-727. [[旧]] : kyū	 	old times
-728. [[易]] : eki	yasa-shii	easy
-729. [[暴]] : bō	aba-ku	outburst
-730. [条 (char)](characters/条%20(char).md) : jō	 	clause
-731. [[枝]] : shi	eda	branch
-732. [[査]] : sa	 	investigate
-733. [[格]] : kaku	 	status
-734. [[桜]] : ō	sakura	cherry
-735. [殺 (char)](characters/殺%20(char).md) : satsu	koro-su	kill
-736. [[毒]] : doku	 –	poison
-737. [[歴]] : reki	 –	curriculum
-738. [[検]] : ken	 	examine
-739. [[構]] : kō	kama-eru	construct
-740. [[武]] : bu ; mu	 	military
-741. [[比]] : hi	kura-beru	compare
-742. [[永]] : ei	naga-i	eternity
-743. [[河]] : ka	kawa	river
-744. [[液]] : eki	 	fluid
-745. [[混]] : kon	ma-zaru	mix
-746. [[減]] : gen	he-ru	decrease
-747. [[測]] : soku	haka-ru	fathom
-748. [[準]] : jun	 	standard
-749. [[演]] : en	 	perform
-750. [[潔]] : ketsu	isagiyo-i	undefiled
-751. [[災]] : sai	wazawa-i	disaster
-752. [[燃]] : nen	mo-eru	burn
-753. [[版]] : han	 	printing block
-754. [[犯]] : han	oka-su	crime
-755. [[状]] : jō	 	form
-756. [[独]] : doku	hito-ri	alone
-757. [[率]] : ritsu ; sotsu	hiki-iru	rate
-758. [[現]] : gen	arawa-reru	appear
-759. [[留]] : ryū ru	todo-maru	detain
-760. [[略]] : ryaku	 	abbreviation
-761. [[益]] : eki	 	benefit
-762. [[眼]] : gan	me	eyeball
-763. [[破]] : ha	yabu-ru	rend
-764. [[確]] : kaku	tashi-ka	certain
-765. [[示]] : shi	shime-su	indicate
-766. [[祖]] : so	 	ancestor
-767. [[禁]] : kin	 	prohibition
-768. [[移]] : i	utsu-ru	shift
-769. [[程]] : tei	hodo	extent
-770. [[税]] : zei	 	tax
-771. [[築]] : chiku	kizu-ku	fabricate
-772. [[精]] : sei	 	refined
-773. [[素]] : su or so	moto	elementary
-774. [[経]] : kei ; kyō	he-ru	manage
-775. [[統]] : tō	su-beru	unite
-776. [[絶]] : zetsu	ta-tsu	discontinue
-777. [[綿]] : men	wata	cotton
-778. [[総]] : sō	 	whole
-779. [[編]] : hen	a-mu	compile
-780. [[績]] : seki	 	exploits
-781. [[織]] : shiki	o-ru	weave
-782. [[罪]] : zai	tsumi	guilt
-783. [[群]] : gun	mu-reru	flock
-784. [[義]] : gi	 	righteousness
-785. [[耕]] : kō	tagaya-su	till
-786. [[脈]] : myaku	 –	vein
-787. [[職]] : shoku	 	employment
-788. [[肥]] : hi	ko-yasu	fertilizer
-789. [[能]] : nō	 	ability
-790. [[興]] : kyō	oko-su	entertain
-791. [[舌]] : zetsu	shita	tongue
-792. [[舎]] : sha	 	cottage
-793. [[術]] : jutsu	sube	art
-794. [[衛]] : ei	 	defense
-795. [[製]] : sei	 	manufacture
-796. [[複]] : fuku	 	duplicate
-797. [[規]] : ki	 	rule
-798. [[解]] : ge ; kai	to-ku	untie
-799. [[設]] : setsu	mouke-ru	establish
-800. [[許]] : kyo	yuru-su	permit
-801. [[証]] : shō	akashi	evidence
-802. [[評]] : hyō	 	evaluate
-803. [[講]] : kō	 	lecture
-804. [[謝]] : sha	ayama-ru	apologize
-805. [[識]] : shiki	 	discriminating
-806. [[護]] : go	mamo-ru	safeguard
-807. [[豊]] : hō	yuta-ka	bountiful
-808. [[財]] : zai	 	wealth
-809. [[貧]] : hin	mazushi-i	poor
-810. [[責]] : seki	se-meru	blame
-811. [[貸]] : tai	ka-su	lend
-812. [[貿]] : bō	 	trade
-813. [[資]] : shi	 	resources
-814. [[賛]] : san	 	approve
-815. [[質]] : shitsu	 	quality
-816. [[輸]] : yu	 	transport
-817. [[述]] : jutsu	no-beru	mention
-818. [[迷]] : mei	mayo-u	astray
-819. [[退]] : tai	shirizo-ku	retreat
-820. [[逆]] : gyaku	sakara-u	inverted
-821. [[造]] : zō	tsuku-ru	create
-822. [[過]] : ka	ayama-chi	go beyond
-823. [[適]] : teki	 	suitable
-824. [[酸]] : san	 	acid
-825. [[鉱]] : kō	 	mineral
-826. [[銅 (char)]] : dō	 	copper
-827. [[銭]] : sen	zeni	coin
-828. [[防]] : bō	fuse-gu	prevent
-829. [[限]] : gen	kagi-ru	limit
-830. [[険 (char)]] : ken	kewa-shii	precipitous
-831. [[際]] : sai	kiwa	occasion
-832. [[雑]] : zatsu	 	miscellaneous
-833. [[非]] : hi	ara-zu	negative
-834. [[予|預]] : yo	azu-keru	deposit
-835. [[領]] : ryō	 	territory
-836. [[額]] : gaku	hitai	amount
-837. [[飼]] : shi	ka-u	domesticate
+654. [停](characters/停.md) : tei	 –	halt
+655. [備](characters/備.md) : bi	sona-eru	provide
+656. [像](characters/像.md) : zō	 	statue
+657. [再](characters/再.md) : sai ; sa	futata-bi	again
+658. [刊](characters/刊%20(char).md) : kan	 	publish
+659. [判](characters/判.md) : han	waka-ru	judge
+660. [制](characters/制.md) : sei	 	control
+661. [則](characters/則.md) : soku	notto-ru	rule
+662. [効](characters/効.md) : kō	ki-ku	effect
+663. [務](characters/務.md) : mu	tsuto-meru	duty
+664. [勢](characters/勢.md) : sei	ikio-i	power
+665. [厚](characters/厚%20(char).md) : kō	atsu-i	thick
+666. [句](characters/句%20(char).md) : ku	 	phrase
+667. [可](characters/可%20(char).md) : ka	 	possible
+668. [史](characters/史.md) : shi	 –	history
+669. [告](characters/告.md) : koku	tsu-geru	tell
+670. [喜](characters/喜%20(char).md) : ki	yoroko-bu	rejoice
+671. [営](characters/営.md) : ei	itona-mu	manage
+672. [因](characters/因.md) : in	yo-ru	cause
+673. [団](characters/団.md) : dan ; ton	 	group
+674. [囲](characters/囲.md) : i	kako-u	surround
+675. [圧](characters/圧%20(char).md) : atsu	 	pressure
+676. [在](characters/在%20(char).md) : zai	a-ru	exist
+677. [均](characters/均%20(char).md) : kin	 	level
+678. [型](characters/型.md) : kei	kata	model
+679. [基](characters/基.md) : ki	moto-duku	foundation
+680. [堂](characters/堂.md) : dō	 –	public chamber
+681. [報](characters/報%20(char).md) : hō	muku-iru	report
+682. [境](characters/境.md) : kyō	sakai	boundary
+683. [墓](characters/墓.md) : bo	haka	grave
+684. [増](characters/増.md) : zō	ma-su ; fu-eru	increase
+685. [士](characters/士%20(char).md) : shi	 –	gentleman
+686. [夢](characters/夢%20(char).md) : mu	yume	dream
+687. [妻](characters/妻%20(char).md) : sai	tsuma	wife
+688. [婦](characters/婦%20(char).md) : fu	 	lady
+689. [容](characters/容%20(char).md) : yō	 	contain
+690. [寄](characters/寄%20(char).md) : ki	yo-ru	approach
+691. [導](characters/導.md) : dō	michibi-ku	guide
+692. [居](characters/居.md) : kyo	i-ru	reside
+693. [属](characters/属.md) : zoku	 	belong
+694. [布](characters/布.md) : fu	nuno	linen
+695. [師](characters/師.md) : shi	 	expert
+696. [常](characters/常.md) : jō	tsune	normal
+697. [幹](characters/幹.md) : kan	miki	tree-trunk
+698. [序](characters/序.md) : jo	 	preface
+699. [弁](characters/弁%20(char).md) : ben	 	valve
+700. [張](characters/張.md) : chō	ha-ru	stretch
+701. [往](characters/往%20(char).md) : ō	 	journey
+702. [得](characters/得.md) : toku	e-ru	acquire
+703. [復](characters/復.md) : fuku	 	repeating
+704. [志](characters/志.md) : shi	kokorozashi	intention
+705. [応](characters/応%20(char).md) : ō	 	respond
+706. [快](characters/快%20(char).md) : kai	kokoroyo-i	cheerful
+707. [性](characters/性.md) : sei shō	saga	gender
+708. [情](characters/情.md) : jō	nasa-ke	feelings
+709. [態](characters/態.md) : tai	 	condition
+710. [慣](characters/慣.md) : kan	na-reru	accustomed
+711. [技](characters/技.md) : gi	waza	skill
+712. [招](characters/招.md) : shō	mane-ku	beckon
+713. [授](characters/授.md) : ju	sazu-keru	instruct
+714. [採](characters/採.md) : sai	to-ru	pick
+715. [接](characters/接%20(char).md) : setsu	ses-suru ; tsu-gu	contact
+716. [提](characters/提.md) : tei	sa-geru	present
+717. [損](characters/損.md) : son	soko-neru	loss
+718. [支](characters/支.md) : shi	sasa-eru	branch
+719. [政](characters/政.md) : sei	matsurigoto	politics
+720. [故](characters/故.md) : ko	yue	circumstances
+721. [救](characters/救.md) : kyū	suku-u	salvation
+722. [断](characters/断.md) : dan	ta-tsu ; kotowa-ru	cut off
+723. [旧](characters/旧%20(char).md) : kyū	 	old times
+724. [易](characters/易.md) : eki	yasa-shii	easy
+725. [暴](characters/暴%20(char).md) : bō	aba-ku	outburst
+726. [[敵]] : teki	kataki	enemy
+727. [条 (char)](characters/条%20(char).md) : jō	 	clause
+728. [[枝]] : shi	eda	branch
+729. [[査]] : sa	 	investigate
+730. [[格]] : kaku	 	status
+731. [[桜]] : ō	sakura	cherry
+732. [殺 (char)](characters/殺%20(char).md) : satsu	koro-su	kill
+733. [[毒]] : doku	 –	poison
+734. [[歴]] : reki	 –	curriculum
+735. [[検]] : ken	 	examine
+736. [[構]] : kō	kama-eru	construct
+737. [[武]] : bu ; mu	 	military
+738. [[比]] : hi	kura-beru	compare
+739. [[永]] : ei	naga-i	eternity
+740. [[河]] : ka	kawa	river
+741. [[液]] : eki	 	fluid
+742. [[混]] : kon	ma-zaru	mix
+743. [[減]] : gen	he-ru	decrease
+744. [[測]] : soku	haka-ru	fathom
+745. [[準]] : jun	 	standard
+746. [[演]] : en	 	perform
+747. [[潔]] : ketsu	isagiyo-i	undefiled
+748. [[災]] : sai	wazawa-i	disaster
+749. [[燃]] : nen	mo-eru	burn
+750. [[版]] : han	 	printing block
+751. [[犯]] : han	oka-su	crime
+752. [[状]] : jō	 	form
+753. [[独]] : doku	hito-ri	alone
+754. [[率]] : ritsu ; sotsu	hiki-iru	rate
+755. [[現]] : gen	arawa-reru	appear
+756. [[留]] : ryū ru	todo-maru	detain
+757. [[略]] : ryaku	 	abbreviation
+758. [[益]] : eki	 	benefit
+759. [[眼]] : gan	me	eyeball
+760. [[破]] : ha	yabu-ru	rend
+761. [[確]] : kaku	tashi-ka	certain
+762. [[示]] : shi	shime-su	indicate
+763. [[祖]] : so	 	ancestor
+764. [[禁]] : kin	 	prohibition
+765. [[移]] : i	utsu-ru	shift
+766. [[程]] : tei	hodo	extent
+767. [[税]] : zei	 	tax
+768. [[築]] : chiku	kizu-ku	fabricate
+769. [[精]] : sei	 	refined
+770. [[素]] : su or so	moto	elementary
+771. [[経]] : kei ; kyō	he-ru	manage
+772. [[統]] : tō	su-beru	unite
+773. [[絶]] : zetsu	ta-tsu	discontinue
+774. [[綿]] : men	wata	cotton
+775. [[総]] : sō	 	whole
+776. [[編]] : hen	a-mu	compile
+777. [[績]] : seki	 	exploits
+778. [[織]] : shiki	o-ru	weave
+779. [[罪]] : zai	tsumi	guilt
+780. [[群]] : gun	mu-reru	flock
+781. [[義]] : gi	 	righteousness
+782. [[耕]] : kō	tagaya-su	till
+783. [[脈]] : myaku	 –	vein
+784. [[職]] : shoku	 	employment
+785. [[肥]] : hi	ko-yasu	fertilizer
+786. [[能]] : nō	 	ability
+787. [[興]] : kyō	oko-su	entertain
+788. [[舌]] : zetsu	shita	tongue
+789. [[舎]] : sha	 	cottage
+790. [[術]] : jutsu	sube	art
+791. [[衛]] : ei	 	defense
+792. [[製]] : sei	 	manufacture
+793. [[複]] : fuku	 	duplicate
+794. [[規]] : ki	 	rule
+795. [[解]] : ge ; kai	to-ku	untie
+796. [[設]] : setsu	mouke-ru	establish
+797. [[許]] : kyo	yuru-su	permit
+798. [[証]] : shō	akashi	evidence
+799. [[評]] : hyō	 	evaluate
+800. [[講]] : kō	 	lecture
+801. [[謝]] : sha	ayama-ru	apologize
+802. [[識]] : shiki	 	discriminating
+803. [[護]] : go	mamo-ru	safeguard
+804. [[豊]] : hō	yuta-ka	bountiful
+805. [[財]] : zai	 	wealth
+806. [[貧]] : hin	mazushi-i	poor
+807. [[責]] : seki	se-meru	blame
+808. [[貸]] : tai	ka-su	lend
+809. [[貿]] : bō	 	trade
+810. [[資]] : shi	 	resources
+811. [[賛]] : san	 	approve
+812. [[質]] : shitsu	 	quality
+813. [[輸]] : yu	 	transport
+814. [[述]] : jutsu	no-beru	mention
+815. [[迷]] : mei	mayo-u	astray
+816. [[逆]] : gyaku	sakara-u	inverted
+817. [[造]] : zō	tsuku-ru	create
+818. [[過]] : ka	ayama-chi	go beyond
+819. [[適]] : teki	 	suitable
+820. [[酸]] : san	 	acid
+821. [[鉱]] : kō	 	mineral
+822. [[銅 (char)]] : dō	 	copper
+823. [[防]] : bō	fuse-gu	prevent
+824. [[限]] : gen	kagi-ru	limit
+825. [[険 (char)]] : ken	kewa-shii	precipitous
+826. [[際]] : sai	kiwa	occasion
+827. [[雑]] : zatsu	 	miscellaneous
+828. [[非]] : hi	ara-zu	negative
+829. [[領]] : ryō	 	territory
+830. [[額]] : gaku	hitai	amount
+831. [[飼]] : shi	ka-u	domesticate
 ## Grade 6 - 181 (+10 prefectures)
 836. [並](characters/並%20(char).md) : hei	nami ; nara-bu	row
 837. [乱](characters/乱.md) : ran	mida-reru	riot
-838. [[乳]] : nyū	chichi	milk
-839. [[亡]] : bō	na-kunaru	deceased
-840. [[仁]] : jin	 	kindness
-841. [[供]] : kyō ; ku	tomo	offer
-842. [[俳]] : hai	 	actor
-843. [[俵]] : hyō	tawara	straw bag
-844. [[値]] : chi	atai	value
-845. [[傷]] : shō	kizu	wound
-846. [[優]] : yū	yasa-shii	superior
-847. [[党]] : tō	 	political party
-848. [冊 (char)](characters/冊%20(char).md) : satsu	 	counter for books
-849. [処 (char)](characters/処%20(char).md) : sho	 	dispose
-850. [[刻]] : koku	kiza-mu	engrave
-851. [[割]] : katsu	wa-ru	divide
-852. [[創]] : sō	tsuku-ru	create
-853. [劇 (char)](characters/劇%20(char).md) : geki	 	drama
-854. [[勤]] : kin	tsuto-meru	diligence
-855. [[危]] : ki	aya-ui	dangerous
-856. [[卵]] : ran	tamago	egg
-857. [[厳]] : gen	kibi-shii	strict
-858. [[収]] : shū	osa-meru	take in
-859. [[后]] : gō	kisaki	queen
-860. [否](characters/否%20(char).md) : hi	ina ;  iya	negate
-861. [[吸]] : kyū	su-u	suck
-862. [呼](characters/呼%20(char).md) : ko	yo-bu	call
-863. [[善]] : zen	yo-i	good
-864. [[困]] : kon	koma-ru	become distressed
-865. [[垂]] : sui	ta-reru	droop
-866. [[域]] : iki	 	range
-867. [[奏]] : sō	kana-deru	play music
-868. [[奮]] : hun	huru-u	stirred up
-869. [[姿]] : shi	sugata	shape
-870. [[存]] : son	 	suppose
-871. [[孝]] : kō	 	filial piety
-872. [[宅]] : taku	ie	home
-873. [[宇]] : u	 	eaves
-874. [[宗]] : shū	sō	religion
-875. [宙 (char)](characters/宙%20(char).md) : chū	 	mid-air
-876. [[宝]] : hō	takara	treasure
-877. [[宣]] : sen	notama-u	proclaim
-878. [[密]] : mitsu	 	secrecy
-879. [[寸]] : sun	 	measurement
-880. [[専]] : sen	moppa-ra	specialty
-881. [[射]] : sha	i-ru	shoot
-882. [[将]] : shō	 	leader
-883. [[尊]] : son	touto-bu	revered
-884. [[就 (char)]] : shū	tsu-ku	concerning
-885. [[尺]] : shaku	 	measure of length
-886. [[届]] :  	todo-ku	deliver
-887. [[展]] : ten	 	expand
-888. [[層]] : sō	 	stratum
-889. [[己]] : ko	onore	self
-890. [[巻]] : kan	ma-ku	scroll
-891. [[幕]] : maku ; baku	 	curtain
-892. [[干]] : kan	ho-su	dry
-893. [[幼]] : yō	osana-i	infancy
-894. [[庁]] : chō	 	government office
-895. [[坐|座]] : za	suwa-ru	sit
-896. [[延]] : en	no-basu	prolong
-897. [[律]] : ritsu	 	rhythm
-898. [[従]] : jū	shitaga-u	obey
-899. [[忘]] : bō	wasu-reru	forget
-900. [[忠]] : chū	 	loyalty
-901. [[憲]] : ken	 	constitution
-902. [我](characters/我%20(char).md) : ga	ware	ego
-903. [[批]] : hi	 	criticism
-904. [[担]] : tan	nina-u	shouldering
-905. [[拝]] : hai	oga-mu	worship
-906. [[拡]] : kaku	hiro-geru	broaden
-907. [[捨]] : sha	su-teru	throw away
-908. [[探]] : tan	saga-su	grope
-909. [[推]] : sui	 	infer
-910. [[揮]] : ki	 	command
-911. [[操]] : sō	ayatsu-ru	maneuver
-912. [[敬]] : kei	uyama-u	respect
-913. [映](characters/映%20(char).md) : ei	utsu-ru	reflect
-914. [晩](characters/晩%20(char).md) : ban	 	nightfall
-915. [[暖]] : dan	atata-kai	warmth
-916. [[暮]] : bo	ku-rasu	livelihood
-917. [[朗]] : rō	hoga-raka	melodious
-918. [[機|机]] : ki	tsukue	desk
-919. [枚](characters/枚%20(char).md) : mai	 	sheet of…
-920. [[染]] : sen	so-meru	dye
-921. [[株]] : kabu	 	stocks
-922. [[棒]] : bō	 	rod
-923. [[模]] : mo ; bo	 	imitation
-924. [[権]] : ken	 	rights
-925. [[樹]] : ju	ki	trees
-926. [[欲]] : yoku	ho-shii	longing
-927. [段](characters/段%20(char).md) : dan	 	steps
-928. [[沿]] : en	so-u	run alongside
-929. [[泉]] : sen	izumi	fountain
-930. [[洗]] : sen	ara-u	wash
-931. [[派]] : ha	 	sect
-932. [[済]] : sai	su-mu	settle
-933. [[源]] : gen	minamoto	origin
-934. [[潮]] : chō	shio	tide
-935. [[激]] : geki	hage-shii	violent
-936. [[灰]] : kai	hai	ashes
-937. [[熟]] : juku	u-reru	ripen
-938. [[片]] : hen	kata	one-sided
-939. [[班]] : han	 	group
-940. [[異]] : i	koto-naru	uncommon
-941. [[疑]] : gi	utaga-u	doubt
-942. [[痛]] : tsū	ita-i	pain
-943. [[皇]] : kō	ō	emperor
-944. [[盛]] : sei	mo-ru	prosper
-945. [[盟]] : mei	 	alliance
-946. [看 (char)](characters/看%20(char).md) : kan	 	watch over
-947. [[沙|砂]] : sa	sha ; suna	sand
-948. [[磁]] : ji	 	magnet
-949. [[私]] : shi	watakushi ; watashi	me
-950. [[秘]] : hi	 	secret
-951. [[穀]] : koku	 	cereal
-952. [[穴]] : ketsu	ana	hole
-953. [[窓]] : sō	mado	window
-954. [[筋]] : kin	suji	muscle
-955. [[策]] : saku	 	scheme
-956. [[簡]] : kan	 	simplicity
-957. [[糖]] : tō	 	sugar
-958. [[系]] : kei	 	lineage
-959. [[紅]] : kō	beni ; kurenai	deep red
-960. [[納]] : nō	osa-meru	settlement
-961. [[純]] : jun	 	genuine
-962. [[絹]] : ken	kinu	silk
-963. [[縦]] : ju	tate	vertical
-964. [[縮]] : shuku	chidi-mu	shrink
-965. [[署]] : sho	 	government office
-966. [[characters/翌 (char)]] : yoku	 	the following
-967. [[聖]] : sei	 	holy
-968. [[肺]] : hai	 	lung
-969. [[背]] : hai	se	back
-970. [[胸]] : kyō	mune	bosom
-971. [[脳]] : nō	 	brain
-972. [[腹]] : fuku	hara	abdomen
-973. [[胃]] : i	 –	stomach
-974. [[臓]] : zō	 	entrails
-975. [[臨]] : rin	nozo-mu	lookover
-976. [[至]] : shi	ita-ru	climax
-977. [[腸]] : chō	 –	intestines
-978. [[若]] : jaku	waka-i	young
-979. [[着|著]] : cho	arawa-su ; ichijiru-shii	renowned
-980. [[蒸]] : jō	mu-su	steam
-981. [[蔵]] : zō	kura	warehouse
-982. [[蚕]] : san	kaiko	silkworm
-983. [[衆]] : shū	 	masses
-984. [[裁]] : sai	saba-ku	judge
-985. [[装]] : sō ; shō	yosoo-u	attire
-986. [[里 (char)|裏]] : ri	ura	back
-987. [[補]] : ho	ogina-u	supplement
-988. [[視]] : shi	mi-ru	look at
-989. [[覧]] : ran	 	perusal
-990. [[討]] : tō	u-tsu	chastise
-991. [[訪]] : hō	otozu-reru	visit
-992. [[訳]] : yaku	wake	translate
-993. [[詞]] : shi	kotoba	poetry
-994. [[誌]] : shi	 	document
-995. [[認]] : nin	mito-meru	recognize
-996. [[誕]] : tan	 	born
-997. [[誠]] : sei	makoto	sincerity
-998. [[誤]] : go	ayama-ru	mistake
-999. [[論]] : ron	 	theory
-1000. [[諸]] : sho	moro	everything
-1001. [[警]] : kei	 	guard against
-1002. [[貴]] : ki	 	precious
-1003. [[賃]] : chin	 	fare
-1004. [[遺]] : i	 	bequeath
-1005. [[郵]] : yū	 	mail
-1006. [[郷]] : kyou	gou	home town
-1007. [[針]] : shin	hari	needle
-1008. [[鋼]] : kou	hagane	steel
-1009. [[閉]] : hei	shi-meru	closed
-1010. [[閣]] : kaku	 	tall
-1011. [[降]] : kou	o-riru	descend
-1012. [[陛]] : hei	 	majesty
-1013. [[除]] : jo ; ji	nozo-ku	exclude
-1014. [[障]] : shou	sawa-ru	hurt
-1015. [[難]] : nan	muzuka-shii	difficult
-1016. [[革]] : kaku	kawa	leather
-1017. [[頂]] : chou	itada-ku	place on the head
-1018. [[骨 (char)]] : kotsu	hone	bone
+838. [乳](characters/乳.md) : nyū	chichi	milk
+839. [亡](characters/亡.md) : bō	na-kunaru	deceased
+840. [仁](characters/仁.md) : jin	 	kindness
+841. [供](characters/供.md) : kyō ; ku	tomo	offer
+842. [俳](characters/俳.md) : hai	 	actor
+843. [俵](characters/俵.md) : hyō	tawara	straw bag
+844. [値](characters/値.md) : chi	atai	value
+845. [傷](characters/傷.md) : shō	kizu	wound
+846. [優](characters/優.md) : yū	yasa-shii	superior
+847. [党](characters/党.md) : tō	 	political party
+848. [冊](characters/冊%20(char).md) : satsu	 	counter for books
+849. [処](characters/処%20(char).md) : sho	 	dispose
+850. [券](characters/券%20(char).md) : ken	 	ticket
+851. [刻](characters/刻.md) : koku	kiza-mu	engrave
+852. [割](characters/割%20(char).md) : katsu	wa-ru	divide
+853. [創](characters/創.md) : sō	tsuku-ru	create
+854. [劇](characters/劇%20(char).md) : geki	 	drama
+855. [勤](characters/勤.md) : kin	tsuto-meru	diligence
+856. [危](characters/危.md) : ki	aya-ui	dangerous
+857. [卵](characters/卵.md) : ran	tamago	egg
+858. [厳](characters/厳%20(char).md) : gen	kibi-shii	strict
+859. [収](characters/収.md) : shū	osa-meru	take in
+860. [后](characters/後%20(char).md) : gō	kisaki	queen
+861. [否](characters/否%20(char).md) : hi	ina ;  iya	negate
+862. [吸](words/吸.md) : kyū	su-u	suck
+863. [呼](characters/呼%20(char).md) : ko	yo-bu	call
+864. [善](characters/善%20(char).md) : zen	yo-i	good
+865. [困](characters/困.md) : kon	koma-ru	become distressed
+866. [垂](characters/垂.md) : sui	ta-reru	droop
+867. [域](characters/域%20(char).md) : iki	 	range
+868. [奏](characters/奏.md) : sō	kana-deru	play music
+869. [奮](characters/奮.md) : hun	huru-u	stirred up
+870. [姿](characters/姿.md) : shi	sugata	shape
+871. [存](characters/存.md) : son	 	suppose
+872. [孝](words/孝.md) : kō	 	filial piety
+873. [宅](characters/宅.md) : taku	ie	home
+874. [宇](characters/宇.md) : u	 	eaves
+875. [宗](characters/宗.md) : shū	sō	religion
+876. [宙 (char)](characters/宙%20(char).md) : chū	 	mid-air
+877. [宝](characters/宝.md) : hō	takara	treasure
+878. [宣](characters/宣.md) : sen	notama-u	proclaim
+879. [密](characters/密%20(char).md) : mitsu	 	secrecy
+880. [寸](characters/寸%20(char).md) : sun	 	measurement
+881. [専](characters/専.md) : sen	moppa-ra	specialty
+882. [射](characters/射.md) : sha	i-ru	shoot
+883. [[将]] : shō	 	leader
+884. [[尊]] : son	touto-bu	revered
+885. [[就 (char)]] : shū	tsu-ku	concerning
+886. [[尺]] : shaku	 	measure of length
+887. [[届]] :  	todo-ku	deliver
+888. [[展]] : ten	 	expand
+889. [[層]] : sō	 	stratum
+890. [[己]] : ko	onore	self
+891. [[巻]] : kan	ma-ku	scroll
+892. [[幕]] : maku ; baku	 	curtain
+893. [[干]] : kan	ho-su	dry
+894. [[幼]] : yō	osana-i	infancy
+895. [[庁]] : chō	 	government office
+896. [[坐|座]] : za	suwa-ru	sit
+897. [[延]] : en	no-basu	prolong
+898. [[律]] : ritsu	 	rhythm
+899. [[従]] : jū	shitaga-u	obey
+900. [[忘]] : bō	wasu-reru	forget
+901. [[忠]] : chū	 	loyalty
+902. [[憲]] : ken	 	constitution
+903. [[恩]] : on	 	grace
+904. [[承]] : shō	uketamawa-ru	acquiesce
+905. [我](characters/我%20(char).md) : ga	ware	ego
+906. [[批]] : hi	 	criticism
+907. [[担]] : tan	nina-u	shouldering
+908. [[拝]] : hai	oga-mu	worship
+909. [[拡]] : kaku	hiro-geru	broaden
+910. [[捨]] : sha	su-teru	throw away
+911. [[探]] : tan	saga-su	grope
+912. [[推]] : sui	 	infer
+913. [[揮]] : ki	 	command
+914. [[操]] : sō	ayatsu-ru	maneuver
+915. [[敬]] : kei	uyama-u	respect
+916. [映](characters/映%20(char).md) : ei	utsu-ru	reflect
+917. [晩](characters/晩%20(char).md) : ban	 	nightfall
+918. [[暖]] : dan	atata-kai	warmth
+919. [[暮]] : bo	ku-rasu	livelihood
+920. [[朗]] : rō	hoga-raka	melodious
+921. [[機|机]] : ki	tsukue	desk
+922. [枚](characters/枚%20(char).md) : mai	 	sheet of…
+923. [[染]] : sen	so-meru	dye
+924. [[株]] : kabu	 	stocks
+925. [[棒]] : bō	 	rod
+926. [[模]] : mo ; bo	 	imitation
+927. [[権]] : ken	 	rights
+928. [[樹]] : ju	ki	trees
+929. [[欲]] : yoku	ho-shii	longing
+930. [段](characters/段%20(char).md) : dan	 	steps
+931. [[沿]] : en	so-u	run alongside
+932. [[泉]] : sen	izumi	fountain
+933. [[洗]] : sen	ara-u	wash
+934. [[派]] : ha	 	sect
+935. [[済]] : sai	su-mu	settle
+936. [[源]] : gen	minamoto	origin
+937. [[潮]] : chō	shio	tide
+938. [[激]] : geki	hage-shii	violent
+939. [[灰]] : kai	hai	ashes
+940. [[熟]] : juku	u-reru	ripen
+941. [[片]] : hen	kata	one-sided
+942. [[班]] : han	 	group
+943. [[異]] : i	koto-naru	uncommon
+944. [[疑]] : gi	utaga-u	doubt
+945. [[痛]] : tsū	ita-i	pain
+946. [[皇]] : kō	ō	emperor
+947. [[盛]] : sei	mo-ru	prosper
+948. [[盟]] : mei	 	alliance
+949. [看 (char)](characters/看%20(char).md) : kan	 	watch over
+950. [[沙|砂]] : sa	sha ; suna	sand
+951. [[磁]] : ji	 	magnet
+952. [[私]] : shi	watakushi ; watashi	me
+953. [[秘]] : hi	 	secret
+954. [[穀]] : koku	 	cereal
+955. [[穴]] : ketsu	ana	hole
+956. [[窓]] : sō	mado	window
+957. [[筋]] : kin	suji	muscle
+958. [[策]] : saku	 	scheme
+959. [[簡]] : kan	 	simplicity
+960. [[糖]] : tō	 	sugar
+961. [[系]] : kei	 	lineage
+962. [[紅]] : kō	beni ; kurenai	deep red
+963. [[納]] : nō	osa-meru	settlement
+964. [[純]] : jun	 	genuine
+965. [[絹]] : ken	kinu	silk
+966. [[縦]] : ju	tate	vertical
+967. [[縮]] : shuku	chidi-mu	shrink
+968. [[署]] : sho	 	government office
+969. [[characters/翌 (char)]] : yoku	 	the following
+970. [[聖]] : sei	 	holy
+971. [[肺]] : hai	 	lung
+972. [[背]] : hai	se	back
+973. [[胸]] : kyō	mune	bosom
+974. [[脳]] : nō	 	brain
+975. [[腹]] : fuku	hara	abdomen
+976. [[胃]] : i	 –	stomach
+977. [[臓]] : zō	 	entrails
+978. [[臨]] : rin	nozo-mu	lookover
+979. [[至]] : shi	ita-ru	climax
+980. [[腸]] : chō	 –	intestines
+981. [[若]] : jaku	waka-i	young
+982. [[着|著]] : cho	arawa-su ; ichijiru-shii	renowned
+983. [[蒸]] : jō	mu-su	steam
+984. [[蔵]] : zō	kura	warehouse
+985. [[蚕]] : san	kaiko	silkworm
+986. [[衆]] : shū	 	masses
+987. [[裁]] : sai	saba-ku	judge
+988. [[装]] : sō ; shō	yosoo-u	attire
+989. [[里 (char)|裏]] : ri	ura	back
+990. [[補]] : ho	ogina-u	supplement
+991. [[視]] : shi	mi-ru	look at
+992. [[覧]] : ran	 	perusal
+993. [[討]] : tō	u-tsu	chastise
+994. [[訪]] : hō	otozu-reru	visit
+995. [[訳]] : yaku	wake	translate
+996. [[詞]] : shi	kotoba	poetry
+997. [[誌]] : shi	 	document
+998. [[認]] : nin	mito-meru	recognize
+999. [[誕]] : tan	 	born
+1000. [[誠]] : sei	makoto	sincerity
+1001. [[誤]] : go	ayama-ru	mistake
+1002. [[論]] : ron	 	theory
+1003. [[諸]] : sho	moro	everything
+1004. [[警]] : kei	 	guard against
+1005. [[貴]] : ki	 	precious
+1006. [[賃]] : chin	 	fare
+1007. [[遺]] : i	 	bequeath
+1008. [[郵]] : yū	 	mail
+1009. [[郷]] : kyou	gou	home town
+1010. [[針]] : shin	hari	needle
+1011. [[退]] : tai	shirizo-ku	retreat
+1012. [[鋼]] : kou	hagane	steel
+1013. [[閉]] : hei	shi-meru	closed
+1014. [[閣]] : kaku	 	tall
+1015. [[降]] : kou	o-riru	descend
+1016. [[陛]] : hei	 	majesty
+1017. [[銭]] : sen	zeni	coin
+1018. [[除]] : jo ; ji	nozo-ku	exclude
+1019. [[障]] : shou	sawa-ru	hurt
+1020. [[難]] : nan	muzuka-shii	difficult
+1021. [[革]] : kaku	kawa	leather
+1022. [[頂]] : chou	itada-ku	place on the head
+1023. [[骨 (char)]] : kotsu	hone	bone
+1024. [[予|預]] : yo	azu-keru	deposit
 
 ## Datacheck
 ```dataviewjs
