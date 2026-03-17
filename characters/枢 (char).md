@@ -22,9 +22,9 @@ english:
   - pivot
 羅馬字: cu
 韓文: 추
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 7036
 mc_id: 2155
 graphemic_classification: 区
