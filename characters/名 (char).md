@@ -31,6 +31,7 @@ mc_id: 128
 graphemic_classification: 會意
 stand_in: 名
 aliases:
+  - 洺
 注音: ㄇㄧㄥ
 ---
 >[!tip] This is a page about the character 名.

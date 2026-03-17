@@ -15,7 +15,7 @@ middle_chinese_final: eŋ
 stroke_count: 10
 radical: 冖
 skip_number: 2-2-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - dark
@@ -31,6 +31,9 @@ graphemic_classification: 會意
 stand_in: 冥
 aliases:
   - 溟
+  - 暝
+  - 瞑
+  - 慏
 注音: ㄇㄝㄥ
 ---
 >[!tip] This is a page about the character 冥.

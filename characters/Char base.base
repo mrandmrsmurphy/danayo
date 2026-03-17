@@ -15,18 +15,20 @@ views:
       - formula.score
       - english
       - grade_level
+      - middle_chinese_final
+      - middle_chinese_initial
     sort:
+      - property: 韓文
+        direction: DESC
+      - property: middle_chinese_final
+        direction: ASC
+      - property: middle_chinese_initial
+        direction: DESC
       - property: formula.score
         direction: ASC
       - property: grade_level
         direction: ASC
       - property: hanmun_edu_level
-        direction: DESC
-      - property: 韓文
-        direction: ASC
-      - property: middle_chinese_initial
-        direction: ASC
-      - property: middle_chinese_final
         direction: DESC
       - property: skip_number
         direction: DESC
@@ -68,3 +70,4 @@ views:
       note.hanmun_edu_level: 131
       formula.score: 112
       note.english: 222
+      note.middle_chinese_final: 101
