@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - gwaan1
 korean:
-korean_native: ""
+  - 관
+korean_native: 빗장
 japanese:
   - KAN
   - KEN

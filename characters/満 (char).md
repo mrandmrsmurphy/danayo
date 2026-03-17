@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - mun5
 korean:
-korean_native: ""
+  - 만
+korean_native: 찰
 japanese:
   - MAN
   - BAN
