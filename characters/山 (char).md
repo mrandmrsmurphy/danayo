@@ -38,9 +38,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 山.
 >For the word, see [山](words/山.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[千山萬水](/chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby>

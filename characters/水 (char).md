@@ -43,3 +43,6 @@ aliases:
 ## Words
 - <ruby>[水中](/words/水中.md)<rt>ㄙㄨㄐㄨㄥ</rt></ruby> - underwater
 - <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄥ</rt></ruby> - Mercury (planet)
+
+### Chengyu
+- <ruby>[千山萬水](/chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby>
