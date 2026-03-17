@@ -35,6 +35,7 @@ graphemic_classification: 會意
 stand_in: 明
 aliases:
   - 奛
+  - 䳟
 注音: ㄇ˙ㄝㄥ
 ---
 >[!tip] This is a page about the character 明.
@@ -45,5 +46,7 @@ aliases:
 ## Notes
 - [[Radical 072|日]] + [[月 (char)]] = [[SKIP-1-4-4]] ([[Stroke 08]])
 
+## Words
+- 鷦明
 ## Chengyu
 - <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ˙ㄝㄋㄇ˙ㄝㄥ</rt></ruby>
