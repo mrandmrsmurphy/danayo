@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - zong1
 korean:
-korean_native: ""
+  - 압
+korean_native: 누를
 japanese:
   - ATSU
 japanese_nanori: ""
@@ -15,7 +16,7 @@ stroke_count: 5
 radical: 土
 skip_number: 3-2-3
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - press
   - control

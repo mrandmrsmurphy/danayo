@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - waai4
 korean:
-korean_native: ""
+  - 회
+korean_native: 품을
 japanese:
   - KAI
 japanese_nanori: ""
@@ -15,7 +16,7 @@ stroke_count: 16
 radical: 心
 skip_number: 1-3-13
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - miss
   - think of

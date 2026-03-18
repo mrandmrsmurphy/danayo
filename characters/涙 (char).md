@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - leoi6
 korean:
-korean_native: ""
+  - 루
+korean_native: 눈물
 japanese:
   - RUI
   - REI
@@ -16,7 +17,7 @@ stroke_count: 10
 radical: 水
 skip_number: 1-3-7
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - tear
   - eye water

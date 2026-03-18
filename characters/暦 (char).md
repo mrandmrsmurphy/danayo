@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - lik6
 korean:
-korean_native: ""
+  - 력
+korean_native: 책력
 japanese:
   - REKI
 japanese_nanori: ""
@@ -14,8 +15,8 @@ middle_chinese_final: ek
 stroke_count: 14
 radical: 日
 skip_number: 3-2-12
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 名詞
 english:
   - calendar
   - almanac

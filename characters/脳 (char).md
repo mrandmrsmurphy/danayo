@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - nou5
 korean:
-korean_native: ""
+  - 뇌
+korean_native: 뇌
 japanese:
   - NOU
   - DOU
@@ -16,7 +17,7 @@ stroke_count: 11
 radical: 肉
 skip_number: 1-4-7
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - brain
 羅馬字: nau

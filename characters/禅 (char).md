@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - sim4
 korean:
-korean_native: ""
+  - 선
+korean_native: 봉선
 japanese:
   - ZEN
 japanese_nanori: ""
@@ -15,7 +16,7 @@ stroke_count: 13
 radical: 示
 skip_number: 1-4-9
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - oneness
   - Zen

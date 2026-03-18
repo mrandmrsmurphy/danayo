@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - cam2
 korean:
-korean_native: ""
+  - 침
+korean_native: 잠잘
 japanese:
   - SHIN
 japanese_nanori: ""
@@ -14,7 +15,7 @@ middle_chinese_final: iɪm
 stroke_count: 13
 radical: 宀
 skip_number: 2-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sleep
@@ -24,7 +25,7 @@ english:
 韓文: 침
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 6191
 mc_id: 1076
 graphemic_classification: 浸

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - ci4
 korean:
-korean_native: ""
+  - 지
+korean_native: 늦을
 japanese:
   - CHI
 japanese_nanori: ""
@@ -23,7 +24,7 @@ english:
 韓文: 츼
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4280
 mc_id: 1344
 graphemic_classification: 犀

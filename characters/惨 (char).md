@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - caam2
 korean:
-korean_native: ""
+  - 참
+korean_native: 참혹할
 japanese:
   - SAN
   - ZAN
@@ -12,11 +13,11 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: ʌm
-stroke_count: "11"
+stroke_count: 11
 radical: 心
 skip_number: 1-3-8
-grade_level: 5
-pos: ""
+grade_level: "5"
+pos: 性詞
 english:
   - wretched
   - cruel
@@ -24,7 +25,7 @@ english:
 韓文: 참
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5075
 mc_id: 2649
 graphemic_classification: 參

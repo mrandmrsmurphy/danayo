@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - zan3
 korean:
-korean_native: ""
+  - 진
+korean_native: 진압할
 japanese:
   - CHIN
   - TEN
@@ -15,15 +16,15 @@ middle_chinese_final: ɣiɪn
 stroke_count: 18
 radical: 金
 skip_number: 1-8-10
-grade_level: 5
-pos: ""
+grade_level: "5"
+pos: 事詞
 english:
   - tranquilize
 羅馬字: cin
 韓文: 친
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5098
 mc_id: 1745
 graphemic_classification: 真
