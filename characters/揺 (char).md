@@ -4,18 +4,19 @@ mandarin:
 cantonese:
   - jiu4
 korean:
-korean_native: ""
+  - 요
+korean_native: 흔들
 japanese:
   - YOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: iᴇu
-stroke_count: "12"
+stroke_count: 12
 radical: 手
 skip_number: 1-3-9
-grade_level: 5
-pos: ""
+grade_level: "5"
+pos: 事詞
 english:
   - swing
   - shake

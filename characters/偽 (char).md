@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - ngai6
 korean:
-korean_native: ""
+  - 위
+korean_native: 거짓
 japanese:
   - GI
   - KA
@@ -16,7 +17,7 @@ stroke_count: 11
 radical: 人
 skip_number: 1-2-9
 grade_level: "6"
-pos: ""
+pos: 性詞
 english:
   - "false"
   - artificial
