@@ -396,7 +396,7 @@ The following prefecture names were added in 2017:
 388. [[箱]] :  , hako , box , 
 389. [[級]] : kyū , – , rank , 
 390. [[終]] : shū , o-waru;  o-eru , end , 
-391. [[緑]] : ryoku , midori , green , 
+391. [緑 (char)](characters/緑%20(char).md) : ryoku , midori , green , 
 392. [[練]] : ren , ne-ru , practice , 
 393. [[羊]] : yō , hitsuji , sheep , 
 394. [[美]] : bi , utsuku-shii , beauty , 
@@ -891,19 +891,19 @@ The following prefecture names were added in 2017:
 880. [寸](characters/寸%20(char).md) : sun	 	measurement
 881. [専](characters/専.md) : sen	moppa-ra	specialty
 882. [射](characters/射.md) : sha	i-ru	shoot
-883. [[将]] : shō	 	leader
-884. [[尊]] : son	touto-bu	revered
-885. [[就 (char)]] : shū	tsu-ku	concerning
-886. [[尺]] : shaku	 	measure of length
-887. [[届]] :  	todo-ku	deliver
-888. [[展]] : ten	 	expand
-889. [[層]] : sō	 	stratum
-890. [[己]] : ko	onore	self
-891. [[巻]] : kan	ma-ku	scroll
-892. [[幕]] : maku ; baku	 	curtain
-893. [[干]] : kan	ho-su	dry
-894. [[幼]] : yō	osana-i	infancy
-895. [[庁]] : chō	 	government office
+883. [将 (char)](characters/将%20(char).md) : shō	 	leader
+884. [尊](characters/尊.md) : son	touto-bu	revered
+885. [就 (char)](characters/就%20(char).md) : shū	tsu-ku	concerning
+886. [尺 (char)](characters/尺%20(char).md) : shaku	 	measure of length
+887. [届 (char)](characters/届%20(char).md) :  	todo-ku	deliver
+888. [展](characters/展.md) : ten	 	expand
+889. [層 (char)](characters/層%20(char).md) : sō	 	stratum
+890. [己](characters/己.md) : ko	onore	self
+891. [巻 (char)](characters/巻%20(char).md) : kan	ma-ku	scroll
+892. [幕 (char)](characters/幕%20(char).md) : maku ; baku	 	curtain
+893. [干](characters/干.md) : kan	ho-su	dry
+894. [幼](characters/幼.md) : yō	osana-i	infancy
+895. [庁](characters/庁.md) : chō	 	government office
 896. [[坐|座]] : za	suwa-ru	sit
 897. [[延]] : en	no-basu	prolong
 898. [[律]] : ritsu	 	rhythm

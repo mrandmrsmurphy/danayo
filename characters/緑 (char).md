@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - luk6
 korean:
-korean_native: ""
+  - 록
+korean_native: 초록빛
 japanese:
   - RYOKU
   - ROKU
@@ -35,9 +36,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 緑.
 >For the word, see [緑](words/緑.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

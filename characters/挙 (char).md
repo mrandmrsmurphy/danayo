@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - geoi2
 korean:
-korean_native: ""
+  - 거
+korean_native: 들
 japanese:
   - KYO
 japanese_nanori: ""
@@ -14,7 +15,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 10
 radical: 手
 skip_number: 2-4-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - raise

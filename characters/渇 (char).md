@@ -4,18 +4,19 @@ mandarin:
 cantonese:
   - hot3
 korean:
-korean_native: ""
+  - 갈
+korean_native: 목마를
 japanese:
   - KATSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɑt
-stroke_count: "11"
+stroke_count: 11
 radical: 水
 skip_number: 1-3-8
-grade_level: 3
-pos: ""
+grade_level: "3"
+pos: 性詞
 english:
   - thirst
   - thirsty

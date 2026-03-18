@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - gau6
 korean:
-korean_native: ""
+  - 구
+korean_native: 예
 japanese:
   - KYUU
   - GU

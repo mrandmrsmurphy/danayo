@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - gyun2
 korean:
-korean_native: ""
+  - 권
+korean_native: 책 권
 japanese:
   - KAN
   - KEN
@@ -15,7 +16,7 @@ middle_chinese_final: ɣiuᴇn
 stroke_count: 9
 radical: 已
 skip_number: 2-6-3
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - roll

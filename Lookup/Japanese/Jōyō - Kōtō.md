@@ -119,7 +119,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1143. [[掛]] : hang
 1144. [[括]] : fasten
 1145. [[喝]] : 	喝	hoarse
-1146. [[渇]] : 	渴	thirst
+1146. [渇 (char)](characters/渇%20(char).md) : 	渴	thirst
 1147. [[葛]] :  arrowroot
 1148. [[滑]] : slippery
 1149. [[褐]] : 	褐 brown
