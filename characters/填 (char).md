@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - tin4
 korean:
-korean_native: ""
+  - 전
+korean_native: 메울
 japanese:
   - TEN
   - CHIN
@@ -12,11 +13,11 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: en
-stroke_count: "13"
+stroke_count: 13
 radical: 土
 skip_number: 1-3-10
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 事詞
 english:
   - fill in
   - make good on

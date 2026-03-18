@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - beng2
 korean:
-korean_native: ""
+korean_native: 떡
 japanese:
   - HEI
   - HYOU

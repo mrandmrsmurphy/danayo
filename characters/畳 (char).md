@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - dip6
 korean:
-korean_native: ""
+  - 첩
+korean_native: 거듭
 japanese:
   - JOU
   - CHOU
@@ -15,8 +16,8 @@ middle_chinese_final: ep
 stroke_count: 12
 radical: 田
 skip_number: 2-5-7
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 名詞
 english:
   - folding mat
   - tatami mat

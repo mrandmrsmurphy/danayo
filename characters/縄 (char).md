@@ -4,13 +4,16 @@ mandarin:
 cantonese:
   - sing4
 korean:
-korean_native: ""
+  - 승
+korean_native: なわ
 japanese:
   - JOU
   - BIN
   - YOU
-japanese_nanori: ""
+japanese_nanori:
+  - なわ
 vietnamese:
+  - thằng, thừng, xằng
 middle_chinese_initial: d͡ʑ
 middle_chinese_final: ɨŋ
 stroke_count: 15
@@ -34,6 +37,7 @@ graphemic_classification: 黽
 stand_in: 縄
 aliases:
   - 繩
+  - 绳
 注音: ㄙㄧㄥ
 ---
 >[!tip] This is a page about the character 縄.
