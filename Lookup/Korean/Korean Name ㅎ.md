@@ -48,23 +48,24 @@
 [[赫]] [[爀]] [奕](characters/打.md) [[焱]] [[侐]] [[焃]] [[𧹽]] [赩](characters/赩.md)
 
 ### 현
-[[見 (char)]] [[峴]] [[晛]] [[泫]] [[炫]] [[玹]] [[鉉]] [[眩]] [[昡]] [[絢]] [[呟]] [[俔]] [[睍]] [[舷]] [[衒]] [[弦]] [[儇]] [[譞]] [[怰]] [[䧋]] [[鋗]] [[㢺]] [[琄]] 
+[見 (char)](characters/見%20(char).md) [[峴]] [[晛]] [[泫]] [[炫]] [[玹]] [[鉉]] [[眩]] [[昡]] [絢](characters/絢.md) [[呟]] [[俔]] [[睍]] [舷](characters/舷.md) [[衒]] [弦 (char)](characters/弦%20(char).md) [[儇]] [[譞]] [[怰]] [[䧋]] [[鋗]] [[㢺]] [[琄]] 
 
 ### 혈
-[[孑]] [[頁 (char)]] 
+[[孑]] [頁 (char)](characters/頁%20(char).md)
 
 ### 협
 [俠](characters/侠.md) [挾](characters/挟%20(char).md) [峽](characters/峡.md) [[浹]] [夾](characters/夹.md) [狹](characters/狭.md) [[莢]] [鋏 (char)](characters/鋏%20(char).md) [頰](characters/頬%20(char).md) [[冾]]
 
 ### 형
-[[型]] [[邢]] [[珩]] [[泂]] [[炯]] [[瑩]] [[瀅]] [[馨]] [[熒]] [[滎]] [[灐]] [[荊]] [[鎣]] [[迥]]
+[型](characters/型.md) [邢](characters/邢.md) [[珩]] [[泂]] [[炯]] [瑩](characters/瑛.md) [[瀅]] [馨](characters/馨.md) [[熒]] [[滎]] [[灐]] [荊](characters/荊.md) [[鎣]] [迥 (char)](characters/迥%20(char).md)
 
 ### 혜
-[[蕙]] [[彗]] [[譿]] [[寭]] [[憓]] [[暳]] [[蹊]] [[醯]] [[鞋 (char)]] [[譓]] [[鏸]] 
+[[蕙]] [彗](characters/彗.md) [[譿]] [[寭]] [[憓]] [[暳]] [[蹊]] [[醯]] [鞋 (char)](characters/鞋%20(char).md) [[譓]] [[鏸]] 
 
 ## ㅗ
+
 ### 호
-[[晧]] [[皓]] [[昊]] [[淏]] [[濠]] [[灝]] [[祜]] [[琥]] [[瑚]] [[頀]] [[顥]] [[扈]] [[鎬]] [[壕]] [壺](characters/壷.md) [[濩]] [[滸]] [[岵]] [[弧]] [[狐]] [[瓠]] [[糊]] [[縞]] [[葫]] [[蒿]] [[蝴]] [[皞]] [[婋]] [[芐]] [[犒]] 
+[[晧]] [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷.md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫蘆](words/胡芦.md) [[蒿]] [[蝴]] [[皞]] [[婋]] [[芐]] [[犒]] 
 
 ### 혹
 [[酷]] 
