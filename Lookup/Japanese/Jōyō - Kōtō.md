@@ -790,7 +790,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1813. [[貪]] : covet
 1814. [[鈍]] : dull
 1815. [[曇]] : cloudy weather
-1816. [[丼]] : bowl of food
+1816. [丼](characters/井.md) : bowl of food
 1817. [[那]] : what
 1818. [[謎]] : riddle
 1819. [[鍋]] : pot

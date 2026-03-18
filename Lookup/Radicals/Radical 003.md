@@ -1,5 +1,5 @@
 ---
-size: 4
+size: 3
 radical: 丶
 date-last-perfect: 2026-02-22
 ---
@@ -10,8 +10,8 @@ date-last-perfect: 2026-02-22
 1. <ruby>[[丸]]<rt>ㄏˇㄚㄋ</rt></ruby>
 2. <ruby>[[丹]]<rt>ㄉㄚㄋ</rt></ruby>
 3. <ruby>[[主]]<rt>ㄐㄨ</rt></ruby>
-4. <ruby>[[丼]]<rt>ㄊㄛㄇ</rt></ruby>
 ### Aliases
+- 丼 --> 井
 ### Forbidden
 - 丷 --> Korean 구결 for '하다'
 ## Data check
