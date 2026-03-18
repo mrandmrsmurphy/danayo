@@ -5,7 +5,7 @@ cantonese:
   - zong1
 korean:
   - 장
-korean_native: ""
+korean_native: 꾸밀
 japanese:
   - SOU
   - SHOU
@@ -25,7 +25,7 @@ english:
 韓文: "\b좡"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4244
 mc_id: 2585
 graphemic_classification: 壮
