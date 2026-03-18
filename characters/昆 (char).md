@@ -15,7 +15,7 @@ middle_chinese_final: uən
 stroke_count: 8
 radical: 日
 skip_number: 2-4-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - swarm
@@ -30,6 +30,7 @@ mc_id: 988
 graphemic_classification: 象形
 stand_in: 昆
 aliases:
+  - 錕
 注音: ㄍㄛㄋ
 ---
 >[!tip] This is a page about the character 昆.
