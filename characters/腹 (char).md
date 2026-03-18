@@ -15,7 +15,7 @@ middle_chinese_final: ɨuk
 stroke_count: 13
 radical: 肉
 skip_number: 1-4-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - stomach
@@ -31,6 +31,7 @@ mc_id: 886
 graphemic_classification: 复
 stand_in: 腹
 aliases:
+  - 鰒
 注音: ㄅㄨㄎ
 ---
 >[!tip] This is a page about the character 腹.

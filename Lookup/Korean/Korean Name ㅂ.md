@@ -24,49 +24,49 @@
  [閥](characters/閥.md) [[筏]]
 
 ### 범 
- [帆 (char)](characters/帆%20(char).md) [[杋]] [氾](characters/氾.md) [范](characters/範.md) [[梵]] [泛](characters/泛.md) [汎 (char)](characters/汎%20(char).md) [[釩]] [[渢]]
+ [帆 (char)](characters/帆%20(char).md) [[杋]] [氾](characters/氾.md) [范](characters/範.md) [[梵]] [泛](characters/泛.md) [汎 (char)](characters/汎%20(char).md) [[釩]] [渢](characters/風%20(char).md)
 
 ### 법 
- [[琺]]
+ [琺](characters/琺.md)
 
 ### 벽 
- [[璧]] [[闢]] [[僻]] [[劈]] [[擘]] [[檗]] [[癖]] [[霹]] [[辟]] 
+ [璧](characters/璧.md) [闢](characters/辟.md) [僻](characters/僻.md) [[劈]] [[擘]] [檗](characters/檗.md) [癖 (char)](characters/癖%20(char).md) [霹](characters/辟.md) [辟](characters/辟.md) 
 
 ### 변 
- [[卞]] [[弁]] [[便]] [[釆]] 
+ [卞](characters/卞.md) [弁 (char)](characters/弁%20(char).md) [便 (char)](characters/便%20(char).md) [[釆]] 
 
 ### 별 
- [[瞥]] [[鼈]] [襒](characters/撇%20(char).md) [[𩠻]] [[莂]] [[鷩]]
+ [瞥](characters/瞥.md) [鼈 (char)](characters/鼈%20(char).md) [襒](characters/撇%20(char).md) [[𩠻]] [[莂]] [[鷩]]
 
 ### 병 
- [[幷]] [[倂]] [[甁]] [[輧]] [[炳]] [[柄]] [[昞]] [[秉]] [[餠]] [[騈]] [[鉼]] [[抦]]
+ [幷](characters/並%20(char).md) [倂](characters/並%20(char).md) [[甁]] [[輧]] [[炳]] [柄 (char)](characters/柄%20(char).md) [[昞]] [秉](characters/秉.md) [[餠]] [[騈]] [[鉼]] [[抦]]
 
 ### 보 
- [[堡]] [[甫]] [[輔]] [[菩]] [[潽]] [[洑]] [[湺]] [[褓]] [[俌]] [[𤣰]] 
+ [[堡]] [甫](characters/甫.md) [輔](characters/輔.md) [菩](characters/菩.md) [[潽]] [[洑]] [[湺]] [褓](characters/保.md) [[俌]] [[𤣰]] 
 
 ### 복 
- [[馥]] [[鍑]] [[僕]] [[匐]] [[宓]] [[茯]] [[蔔]] [[輹]] [[輻]] [[鰒]]!
+ [[馥]] [[鍑]] [僕](characters/僕.md) [[匐]] [[宓]] [[茯]] [蔔](characters/蔔.md) [[輹]] [[輻]] [鰒](characters/腹%20(char).md)
 
 ### 볼 
- ~~乶~~
+ 乶!
 
 ### 봉 
- [[俸]] [[捧]] [[琫]] [[烽]] [[棒]] [[蓬]] [[鋒]] [[熢]] [[縫]] ~~漨~~
+ [俸](characters/俸.md) [捧 (char)](characters/捧%20(char).md) [[琫]] [[烽]] [棒](characters/棒.md) [蓬](characters/蓬.md) [鋒](characters/鋒.md) [[熢]] [縫](characters/縫.md) 漨!
 
 ### 부 
- [[孚]] [[芙]] [[傅]] [[characters/溥]] [[敷]] [[復]] [[不]] [[俯]] [[剖]] [[咐]] [[埠]] [[孵]] [[斧]] [[缶]] [[腑]] [[艀]] [[莩]] [[訃]] [[賻]] [[趺]] 
+ [孚](characters/孚.md) [[芙]] [傅](characters/傅.md) [[characters/溥]] [敷 (char)](characters/敷%20(char).md) [復](characters/復.md) [不 (char)](characters/不%20(char).md) [俯](characters/俯.md) [剖](characters/剖.md) [[咐]] [埠](characters/埠.md) [孵](characters/孚.md) [斧](characters/斧.md) [缶](characters/缶.md) [腑](characters/府.md) [艀](characters/孚.md) [[莩]] [訃](characters/訃.md) [[賻]] [[趺]]
 
 ### 분 
- [[汾]] [[芬]] [[盆]] [[吩]] [[噴]] [[忿]] [[扮]] [[昐]] [[焚]] [[糞]] [[賁]] [[雰]] 
+ [[汾]] [芬](characters/芬.md) [盆 (char)](characters/盆%20(char).md) [[吩]] [噴](characters/噴.md) [忿](characters/憤.md) [扮 (char)](characters/扮%20(char).md) [[昐]] [焚](characters/焚.md) [糞 (char)](characters/糞%20(char).md) [賁](characters/賁.md) [雰](characters/雰.md) 
 
 ### 불 
- [[彿]] [[弗]] 
+ [彿](characters/彿.md) [弗](characters/弗.md) 
 
 ### 붕 
- [[鵬]] [[棚]] [[characters/硼]] [[繃]] 
+ [鵬](characters/朋.md) [棚 (char)](characters/棚%20(char).md) [硼](characters/硼.md) [繃](characters/繃.md) 
 
 ### 비 
- [[庇]] [[枇]] [[琵]] [[扉]] [[譬]] [[丕]] [[匕]] [[匪]] [[憊]] [[斐]] [[榧]] [[毖]] [[毗]] [[沸]] [[泌]] [[痺]] [[砒]] [[秕]] [[粃]] [[緋]] [[翡]] [[脾]] [[臂]] [[菲]] [[蜚]] [[裨]] [[誹]] [[鄙]] [[棐]] [[庀]] [[奜]]
+ [庇](characters/庇.md) [[枇]] [琵](characters/琵.md) [扉 (char)](characters/扉%20(char).md) [譬](characters/比%20(char).md) [丕](characters/丕.md) [匕](characters/匕.md) [[匪]] [[憊]] [斐](characters/斐.md) [[榧]] [[毖]] [毗](characters/毘.md) [沸](characters/沸.md) [泌](characters/泌.md) [[痺]] [[砒]] [[秕]] [[粃]] [緋](characters/緋.md) [翡翠](words/翡翠.md) [[脾]] [[臂]] [[菲]] [[蜚]] [[裨]] [[誹]] [[鄙]] [[棐]] [[庀]] [[奜]]
 
 ### 빈 
  [[彬]] [[斌]] [[浜 (char)|濱]] [[嬪]] [[穦]] [[儐]] [[璸]] [[玭]] [[嚬]] [[檳]] [[殯]] [[浜]] [[瀕]] [[牝]] [[邠]] [[繽]] [[豳]] [[霦]] [[贇]] [[鑌]] [[擯]]

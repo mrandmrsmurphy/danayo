@@ -21,7 +21,7 @@ pos: ""
 english:
   - wind
 羅馬字: pung
-韓文:  풍
+韓文: 풍
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,6 +31,7 @@ graphemic_classification: 凡
 stand_in: 風
 aliases:
   - 风
+  - 渢
 注音: ㄆㄨㄥ
 ---
 >[!tip] This is about the character.  For the word, see [[風]].

@@ -983,9 +983,9 @@ The following prefecture names were added in 2017:
 972. [[肺]] : hai	 	lung
 973. [[背]] : hai	se	back
 974. [[胸]] : kyō	mune	bosom
-975. [[脳]] : nō	 	brain
-976. [[腹]] : fuku	hara	abdomen
-977. [[胃]] : i	 –	stomach
+975. [脳 (char)](characters/脳%20(char).md) : nō	 	brain
+976. [腹 (char)](characters/腹%20(char).md) : fuku	hara	abdomen
+977. [胃 (char)](characters/胃%20(char).md) : i	 –	stomach
 978. [[臓]] : zō	 	entrails
 979. [[臨]] : rin	nozo-mu	lookover
 980. [[至]] : shi	ita-ru	climax
