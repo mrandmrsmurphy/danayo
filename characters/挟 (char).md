@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - hip3
 korean:
-korean_native: ""
+  - 협
+korean_native: 낄
 japanese:
   - KYOU
   - SHOU
@@ -16,7 +17,7 @@ stroke_count: 9
 radical: 手
 skip_number: 1-3-6
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - clasp
   - hold
@@ -24,7 +25,7 @@ english:
 韓文: 헙
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6099
 mc_id: 1492
 graphemic_classification: 夹
