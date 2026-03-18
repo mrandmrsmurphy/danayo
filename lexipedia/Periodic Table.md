@@ -23,7 +23,7 @@ While many elements have common names across the region, it is necessary to inve
 |4| [[康金]] |<ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby>| [[姫金]] | [[色金]] |[[孟金]] |[[鉄]]| [[鬼金]] | [[鬼銅]] |[[銅]]|<ruby>[亜鉛](/words/亜鉛.md)<rt>ㄚ·˙ㄝㄋ</rt></ruby>
 |5| Y | Zr | Nb | Mo | Tc | Ru | Rh | Pd | [[銀]] | Cd 
 |6| La | Hf | Ta | W | Re | Os | Ir | [[白金]] | <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
-|7| Ac | Rf | Db | Sg | Bh | Hs | Mt | Ds | [[錀]] | Cn 
+|7| Ac | [[鈩金]] | Db | Sg | Bh | Hs | Mt | Ds | [[錀]] | Cn 
 
 La's
 

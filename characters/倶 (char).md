@@ -4,18 +4,21 @@ mandarin:
 cantonese:
   - keoi1
 korean:
-korean_native: ""
+  - 구
+korean_native: 함께
 japanese:
   - KU
-japanese_nanori: ""
+japanese_nanori:
+  - ともに
 vietnamese:
+  - câu, cu
 middle_chinese_initial: k
 middle_chinese_final: ɨo
 stroke_count: 10
 radical: 人
 skip_number: 1-2-8
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - accompany
   - be with
@@ -34,9 +37,9 @@ aliases:
 ---
 >[!tip] This is a page about the character 倶.
 >For the word, see [倶](words/倶.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+"club" - [[倶楽部]]

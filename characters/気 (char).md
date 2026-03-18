@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - hei3
 korean:
-korean_native: ""
+  - 기
+korean_native: 기운
 japanese:
   - KI
   - KE
@@ -16,7 +17,7 @@ stroke_count: 6
 radical: 气
 skip_number: 3-4-2
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - feeling
 羅馬字: kii
