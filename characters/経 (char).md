@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - ging1
 korean:
-korean_native: ""
+  - 경
+korean_native: 경서 경
 japanese:
   - KEI
   - KYOU
@@ -12,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: eŋ
-stroke_count: "11"
+stroke_count: 11
 radical: 糸
 skip_number: 1-6-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - classic
