@@ -908,21 +908,21 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1931. [[憤]] : aroused
 1932. [[丙]] : third class
 1933. [[並|併]] 	倂	join
-1934. [[柄]] : design
+1934. [柄 (char)](characters/柄%20(char).md): design
 1935. 塀 : 	塀	fence - FORBIDDEN!!!
-1936. [[幣]] : cash
-1937. [[弊]] : abuse
-1938. [[蔽]] :  cover
-1939. [[餅]] :  	餠	mochi rice cake
-1940. [[壁]] : wall
-1941. [[璧]] : sphere
-1942. [[癖]] : mannerism
-1943. [[蔑]] : ignore
+1936. [幣 (char)](characters/幣%20(char).md) : cash
+1937. [弊 (char)](characters/弊%20(char).md) : abuse
+1938. [蔽](characters/蔽.md) :  cover
+1939. [餅 (char)](characters/餅%20(char).md) :  	餠	mochi rice cake
+1940. [壁 (char)](characters/壁%20(char).md) : wall
+1941. [璧](characters/璧.md) : sphere
+1942. [癖 (char)](characters/癖%20(char).md) : mannerism
+1943. [蔑 (char)](characters/蔑%20(char).md) : ignore
 1944. [[偏]] : partial
 1945. [[遍]] : everywhere
 1946. [[哺]] : suckle
 1947. [[捕]] : catch
-1948. [[舗]] : pavement
+1948. [舗 (char)](characters/舗%20(char).md) : pavement
 1949. [[募]] : recruit
 1950. [[慕]] : pining
 1951. [[簿]] : register

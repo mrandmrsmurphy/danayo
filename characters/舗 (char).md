@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - pou3
 korean:
-korean_native: ""
+  - 포
+korean_native: 펼
 japanese:
   - HO
 japanese_nanori: ""
@@ -14,7 +15,7 @@ middle_chinese_final: uo
 stroke_count: 15
 radical: 舌
 skip_number: 1-8-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - store
@@ -22,7 +23,7 @@ english:
 韓文: 포
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 無
 danayo_id: 6284
 mc_id: 9626
 graphemic_classification: 甫

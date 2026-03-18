@@ -1,21 +1,21 @@
 
 ### 박 
- [[珀]] [[撲]] [[璞]] [[鉑]] [[舶]] [[剝]] [[樸]] [[箔]] [[粕]] [[縛]] [[膊]] [[雹]] [[駁]] 
+ [珀](characters/珀.md) [撲 (char)](characters/撲%20(char).md) [[璞]] 鉑 [舶](characters/舶.md) [剝](characters/剝.md) [樸](characters/朴.md) [箔](characters/箔.md) [[粕]] [縛](characters/縛.md) [[膊]] [[雹]] [駁](characters/駁.md) 
 
 ### 반 
- [[畔]] [[頒]] [[潘]] [[磐]] [[拌]] [[搬]] [[攀]] [[斑]] [[槃]] [[泮]] [[瘢]] [[盼]] [[磻]] [[礬]] [[絆]] [[蟠]] [[豳]] 
+ [畔 (char)](characters/畔%20(char).md) [頒](characters/頒.md) [潘](characters/潘.md) [磐](characters/磐.md) [拌](characters/拌.md) [搬](characters/搬.md) [攀](characters/攀.md) [斑](characters/斑.md) [[槃]] [[泮]] [[瘢]] [盼](characters/盼.md) [[磻]] [[礬]] [絆](characters/絆.md) [蟠](characters/盤%20(char).md) [[豳]] 
 
 ### 발 
- [[潑]] [[鉢]] [[渤]] [[勃]] [[撥]] [[跋]] [[発 (char)|醱]] [[魃]] 
+ [[潑]] [鉢 (char)](characters/鉢%20(char).md) [[渤]] [勃](characters/勃.md) [[撥]] [[跋]] [醱](characters/発%20(char).md) [魃](characters/災.md) 
 
 ### 방 
- [[坊]] [[彷]] [[昉]] [[龐]] [[榜]] [[尨]] [[旁]] [[枋]] [[滂]] [[磅]] [[紡]] [[肪]] [[膀]] [[舫]] [[蒡]] [[蜂 (char)|蚌]] [[謗]] [[幫]] 
+ [坊](characters/坊.md) [彷](characters/彷.md) [[昉]] [龐](characters/龐.md) [[榜]] [[尨]] [旁](characters/旁.md) [[枋]] [[滂]] [[磅]] [紡 (char)](characters/紡%20(char).md) [肪 (char)](characters/肪%20(char).md) [[膀]] [[舫]] [[蒡]] [蚌](characters/蜂%20(char).md) [謗](characters/謗.md) [幫](characters/幇.md) 
 
 ### 배 
- [[陪]] [[裴]] [[湃]] [[俳]] [[徘]] [[焙]] [[胚]] [[褙]] [[賠]] [[北]]
+ [陪 (char)](characters/陪%20(char).md) [裴](characters/裴.md) [[湃]] [俳](characters/俳.md) [[徘]] [[焙]] [[胚]] [[褙]] [賠](characters/賠.md) [北](characters/北.md)
 
 ### 백 
- [[佰]] [[帛]] [[魄]] [[柏]] [[苩]] 
+ [佰](characters/百.md) [帛](characters/帛.md) [[魄]] [柏 (char)](characters/柏%20(char).md) [[苩]] 
 
 ### 번 
  [[蕃]] [[幡]] [[樊]] [[燔]] [[磻]] [[藩]]
@@ -36,7 +36,7 @@
  [[卞]] [[弁]] [[便]] [[釆]] 
 
 ### 별 
- [[瞥]] [[鼈]] [[襒]] [[𩠻]] [[莂]] [[鷩]]
+ [[瞥]] [[鼈]] [襒](characters/撇%20(char).md) [[𩠻]] [[莂]] [[鷩]]
 
 ### 병 
  [[幷]] [[倂]] [[甁]] [[輧]] [[炳]] [[柄]] [[昞]] [[秉]] [[餠]] [[騈]] [[鉼]] [[抦]]

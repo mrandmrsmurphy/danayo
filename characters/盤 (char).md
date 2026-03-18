@@ -31,6 +31,7 @@ graphemic_classification: 般
 stand_in: 盤
 aliases:
   - 盘
+  - 蟠
 注音: ㄅㄚㄋ
 ---
 >[!tip] This is a page about the character 盤.

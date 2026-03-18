@@ -17,7 +17,7 @@ stroke_count: 13
 radical: 角
 skip_number: 1-7-6
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - explain
 羅馬字: gyai
@@ -41,4 +41,4 @@ aliases:
 ```
 
 ## Notes
-- beware of [[解廌]] not 獬豸
+- beware of [[解廌]] not 獬廌/獬豸
