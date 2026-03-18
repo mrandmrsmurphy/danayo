@@ -5,7 +5,7 @@ cantonese:
   - gaai1
 korean:
   - 개
-korean_native: ""
+korean_native: 다
 japanese:
   - KAI
 japanese_nanori: ""

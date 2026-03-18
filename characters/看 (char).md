@@ -5,7 +5,7 @@ cantonese:
   - hon1
 korean:
   - 간
-korean_native: ""
+korean_native: 볼
 japanese:
   - KAN
 japanese_nanori: ""

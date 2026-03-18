@@ -8,7 +8,7 @@ cantonese:
   - gaap3
 korean:
   - 갑
-korean_native: 갑
+korean_native: 갑옷
 japanese:
   - KOU
   - KAN
@@ -17,7 +17,7 @@ vietnamese:
   - giáp, giẹp, kép, nháp, ráp
 middle_chinese_initial: k
 middle_chinese_final: ɣap
-stroke_count: "5"
+stroke_count: 5
 radical: 田
 skip_number: 4-5-1
 grade_level: 3

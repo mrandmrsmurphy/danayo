@@ -5,7 +5,7 @@ cantonese:
   - kin4
 korean:
   - 건
-korean_native: ""
+korean_native: 하늘
 japanese:
   - KAN
   - KEN

@@ -5,7 +5,7 @@ cantonese:
   - gang1
 korean:
   - 갱
-korean_native: ""
+korean_native: 다시
 japanese:
   - KOU
 japanese_nanori: ""

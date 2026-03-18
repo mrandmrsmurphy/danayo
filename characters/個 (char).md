@@ -5,7 +5,7 @@ cantonese:
   - go3
 korean:
   - 개
-korean_native: ""
+korean_native: 낱
 japanese:
   - KO
   - KA

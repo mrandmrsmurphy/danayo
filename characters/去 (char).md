@@ -5,7 +5,7 @@ cantonese:
   - heoi3
 korean:
   - 거
-korean_native: ""
+korean_native: 갈
 japanese:
   - KYO
   - KO

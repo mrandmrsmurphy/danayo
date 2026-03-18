@@ -5,7 +5,7 @@ cantonese:
   - ce1
 korean:
   - 거
-korean_native: ""
+korean_native: 수레
 japanese:
   - SHA
   - KYO

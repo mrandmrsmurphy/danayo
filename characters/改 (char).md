@@ -5,14 +5,14 @@ cantonese:
   - goi2
 korean:
   - 개
-korean_native: ""
+korean_native: 고칠
 japanese:
   - KAI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ʌi
-stroke_count: "7"
+stroke_count: 7
 radical: 攴
 skip_number: 1-3-4
 grade_level: 2
@@ -21,7 +21,7 @@ english:
   - redo
   - renew
 羅馬字: gai
-韓文:  개
+韓文: 개
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

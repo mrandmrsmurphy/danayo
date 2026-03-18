@@ -5,7 +5,7 @@ cantonese:
   - koeng4
 korean:
   - 강
-korean_native: ""
+korean_native: 굳셀
 japanese:
   - KYOU
   - GOU
@@ -13,7 +13,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: ɨɐŋ
-stroke_count: "11"
+stroke_count: 11
 radical: 弓
 skip_number: 1-3-8
 grade_level: 2
