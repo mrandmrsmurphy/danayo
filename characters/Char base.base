@@ -8,16 +8,16 @@ views:
     name: Table
     order:
       - file.name
-      - 韓文
       - hsk_level
       - joyo_level
+      - korean
       - hanmun_edu_level
       - formula.score
-      - english
-      - grade_level
-      - middle_chinese_final
-      - middle_chinese_initial
     sort:
+      - property: hanmun_edu_level
+        direction: ASC
+      - property: korean
+        direction: DESC
       - property: 韓文
         direction: DESC
       - property: middle_chinese_final
@@ -28,8 +28,6 @@ views:
         direction: ASC
       - property: grade_level
         direction: ASC
-      - property: hanmun_edu_level
-        direction: DESC
       - property: skip_number
         direction: DESC
       - property: english
@@ -57,8 +55,6 @@ views:
       - property: mandarin
         direction: ASC
       - property: file.name
-        direction: ASC
-      - property: korean
         direction: ASC
       - property: jyutping
         direction: ASC

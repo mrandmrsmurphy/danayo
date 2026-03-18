@@ -4,25 +4,28 @@ mandarin:
 cantonese:
   - au1
 korean:
-korean_native: ""
+  - 구
+korean_native: 갈매기
 japanese:
   - OU
-japanese_nanori: ""
+japanese_nanori:
+  - かもめ
 vietnamese:
+  - âu
 middle_chinese_initial: ʔ
 middle_chinese_final: əu
 stroke_count: 15
 radical: 鳥
 skip_number: 1-4-11
 grade_level: 名
-pos: ""
+pos: 名詞
 english:
   - seagull
 羅馬字: "'ou"
 韓文: 옷
-joyo_level: 高等
+joyo_level: 日本人名用漢字
 hsk_level: 無
-hanmun_edu_level: 高等
+hanmun_edu_level: 名
 danayo_id: 8247
 mc_id: 7852
 graphemic_classification: 区

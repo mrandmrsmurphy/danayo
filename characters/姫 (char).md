@@ -24,7 +24,7 @@ english:
 韓文: 기
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 8126
 mc_id: 780
 graphemic_classification: 臣
