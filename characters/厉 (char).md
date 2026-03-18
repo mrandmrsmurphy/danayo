@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - lai6
 korean:
-korean_native: ""
+  - 려
+korean_native: 엄할/숫돌
 japanese:
   - REI
 japanese_nanori: ""
@@ -15,14 +16,14 @@ stroke_count: 5
 radical: 厂
 skip_number: 3-2-3
 grade_level: 先進
-pos: ""
+pos: 名詞
 english:
   - whetstone
 羅馬字: le
 韓文: 러
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 7460
 mc_id: 770
 graphemic_classification: 萬

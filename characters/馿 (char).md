@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - lou4
 korean:
-korean_native: ""
+  - 려
+korean_native: 나귀
 japanese:
   - RO
 japanese_nanori: ""
@@ -15,14 +16,14 @@ stroke_count: 14
 radical: 馬
 skip_number: 1-10-4
 grade_level: 名
-pos: ""
+pos: 名詞
 english:
   - donkey
 羅馬字: lyo
 韓文: 료
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 8673
 mc_id: 3000
 graphemic_classification: 盧
