@@ -12,7 +12,7 @@ date-last-perfect:
 
 ## Data search
 ```dataview
-TABLE english AS "English", radical AS "Radical", stroke_count AS "SC"
+TABLE english AS "English", 羅馬字 as "Sound", stroke_count AS "SC"
 FROM "characters"
 WHERE radical = "馬"
 SORT file.name ASC

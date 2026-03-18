@@ -30,6 +30,7 @@ mc_id: 466
 graphemic_classification: 角
 stand_in: 解
 aliases:
+  - 獬
 注音: ㄍ˙ㄚ˙
 ---
 >[!tip] This is a page about the character 解.
@@ -39,4 +40,5 @@ aliases:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- beware of [[解廌]] not 獬豸
