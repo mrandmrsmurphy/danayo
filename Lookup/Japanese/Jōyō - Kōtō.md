@@ -133,7 +133,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1157. [[缶]] : 	罐	tin can
 1158. [[肝]] : liver
 1159. [[冠]] : crown
-1160. [[陥]] : 	陷	collapse
+1160. [陥 (char)](characters/陥%20(char).md) : 	陷	collapse
 1161. [[乾]] : dry
 1162. [[勘]] : intuition
 1163. [[患]] : afflicted
