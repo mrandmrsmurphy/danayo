@@ -1,3 +1,5 @@
+This have all be checked for redirects.
+
 ## ㅏ
 
 ### 하
@@ -65,86 +67,91 @@
 ## ㅗ
 
 ### 호
-[[晧]] [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷.md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫蘆](words/胡芦.md) [[蒿]] [[蝴]] [[皞]] [[婋]] [[芐]] [[犒]] 
+[[晧]] [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷.md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫](characters/胡.md) [蒿](characters/藁.md) [蝴](characters/胡.md) [[皞]] [[婋]] [[芐]] [[犒]] 
 
 ### 혹
-[[酷]] 
+[酷](characters/酷.md)
 
 ### 혼
 [[渾]] [[琿]] [[俒]] 
 
 ### 홀
-[[惚]] [[笏]] 
+[惚](characters/惚.md) [[笏]]
 
 ### 홍
-[[泓]] [[烘]] [[虹]] [[鉷]] [[哄]] [[汞]] [[訌]] 
+[[泓]] [[烘]] [虹](characters/虹.md) [[鉷]] [哄](characters/哄.md) [[汞]] [[訌]] 
 
 ### 화
-[[嬅]] [[樺]] [[譁]] [[靴]] [[澕]] 
+[[嬅]] [樺](characters/樺.md) [[譁]] [靴](characters/靴.md) [[澕]] 
 
 ### 확
-[[廓]] [[攫]] 
+[[廓]] [[攫]]
 
 ### 환
-[[喚]] [[奐]] [[渙]] [[煥]] [[晥]] [[幻]] [[桓]] [[鐶]] [[驩]] [[宦]] [[紈]] [[鰥]] [[圜]] 
+[喚 (char)](characters/喚%20(char).md) [[奐]] [[渙]] [煥](characters/煥.md) [[晥]] [幻](characters/幻.md) [桓](characters/桓.md) [[鐶]] [[驩]] [[宦]] [[紈]] [[鰥]] [[圜]] 
 
 ### 활
-[[闊]] [[滑]] [[猾]] [[豁]]
+[闊](words/闊.md) [滑 (char)](characters/滑%20(char).md) [猾](characters/滑%20(char).md) [[豁]]
 
 ### 황
-[[凰]] [[堭]] [[媓]] [[晃]] [[滉]] [[榥]] [[煌]] [[璜]] [[熀]] [[幌]] [[徨]] [[恍]] [[惶]] [[愰]] [[慌]] [[湟]] [[潢]] [[篁]] [[簧]] [[蝗]] [[遑]] [[隍]] [[楻]] 
+[凰](characters/凰.md) [[堭]] [[媓]] [晃](characters/晃.md) [[滉]] [[榥]] [煌](characters/煌.md) [[璜]] [[熀]] [幌](characters/幌.md) [徨](characters/徨.md) [[恍]] [[惶]] [[愰]] [慌](characters/慌.md) [[湟]] [[潢]] [[篁]] [簧](characters/黄%20(char).md) [[蝗]] [[遑]] [[隍]] [[楻]] 
 
 ### 회
-[[廻]] [[恢]] [[晦]] [[檜]] [[澮]] [[繪]] [[誨]] [[匯]] [[徊]] [[淮]] [[獪]] [[膾]] [[茴]] [[蛔]] [[賄]] [[灰]] 
+[廻](characters/回%20(char).md) [恢](characters/恢.md) [晦](characters/晦.md) [檜](characters/桧.md) [[澮]] [繪](characters/絵.md) [[誨]] [匯](characters/彙%20(char).md) [[徊]] [淮](characters/淮.md) [[獪]] [[膾]] [[茴]] [蛔](characters/回%20(char).md) [賄](characters/賄.md) [灰 (char)](characters/灰%20(char).md) 
 
 ### 횡
 [[鐄]] [[宖]] 
 
 ### 효
-[[涍]] [[爻]] [[驍]] [[斅]] [[哮]] [[嚆]] [[梟]] [[淆]] [[肴]] [[酵]] [[皛]] [[歊]] [[窙]] [[謼]] [[傚]] 
+[[涍]] [[爻]] [[驍]] [[斅]] [[哮]] [[嚆]] [[梟]] [[淆]] [肴](characters/肴%20(char).md) [酵](characters/酵.md) [[皛]] [[歊]] [[窙]] [謼](characters/呼%20(char).md) [傚](characters/効.md) 
+
 ## ㅜ
+
 ### 후
-[[后]] [[逅]] [[吼]] [[嗅]] [[帿]] [[朽]] [[煦]] [[珝]] [[喉]] 
+[后](characters/後%20(char).md) [[逅]] [吼 (char)](characters/吼%20(char).md) [嗅](characters/嗅.md) [[帿]] [朽](characters/朽.md) [[煦]] [[珝]] [喉](characters/喉.md) 
 
 ### 훈
-[[勳]] [[焄]] [熏](characters/薫%20(char).md) [薰](characters/薫%20(char).md) [[壎]] [[燻]] [[鑂]] [[暈]] || [[壎]]([[塤]]) 
+[勳](characters/勲%20(char).md) [[焄]] [熏](characters/薫%20(char).md) [薰](characters/薫%20(char).md) [[壎]] [[燻]] [[鑂]] [暈](characters/暈.md) || [[壎]] ([[塤]]) 
 
 ### 훙
-[[薨]] 
+[薨](characters/薨.md)
 
 ### 훤
-[[喧]] [[暄]] [[萱]] [[煊]] 
+[喧](characters/喧.md) [[暄]] [萱](characters/萱.md) [[煊]] 
 
 ### 훼
-[[喙]] [[𠦄]]
+[喙](characters/嘴.md) [[𠦄]]
 
 ### 휘
-[[彙 (char)]] [[徽]] [[暉]] [[煇]] [[諱 (char)]] [[麾]] [[煒]] 
+[彙 (char)](characters/彙%20(char).md) [徽](characters/徽.md) [[暉]] [[煇]] [諱 (char)](characters/諱%20(char).md) [[麾]] [[煒]] 
 
 ### 휴
-[[烋]] [[畦]] [[虧]] ||
+[[烋]] [[畦]] [[虧]]
 
 ### 휼
-[[恤]] [[譎]] [[鷸]] ||
+[[恤]] [譎](characters/詰.md) [[鷸]]
 
 ### 흉
-[[兇]] [[匈]] [[洶]] ||
+[[兇]] [匈](characters/匈.md) [[洶]]
+
 ## ㅡ
+
 ### 흔
-[[欣]] [[炘]] [[昕]] [[痕]] [[忻]] 
+[欣](characters/欣.md) [[炘]] [[昕]] [痕](characters/痕.md) [[忻]] 
 
 ### 흘
-[[屹]] [[吃]] [[紇]] [[訖]] [迄](characters/迄.md)
+[[屹]] [吃](characters/喫%20(char).md) [[紇]] [[訖]] [迄](characters/迄.md)
 
 ### 흠
-[[欽]] [欠 (char)](characters/欠%20(char).md) [[歆]] [[鑫]] 
+[欽](characters/欽.md) [欠 (char)](characters/欠%20(char).md) [歆](characters/歆.md) [[鑫]] 
 
 ### 흡
-[[洽]] [[恰]] [[翕]] 
+[[洽]] [恰 (char)](characters/恰%20(char).md) [翕](characters/翕.md)
 
 ## ㅣ
+
 ### 희
-[[姬]] [[晞]] [[僖]] [[橲]] [禧](characters/喜%20(char).md) [[嬉]] [熙](characters/熙.md) [[憙]] [[熹]] [[凞]] [[羲]] [[爔]] [[曦]] [[俙]] [[𡅕]] [[憘]] [犧](characters/犠.md) [[噫]] [[煕]] [[烯]] [[暿]] [[熹]]([[熺]]) [姫](characters/姫%20(char).md)
+[姬](characters/姫%20(char).md) [[晞]] [[僖]] [[橲]] [禧](characters/喜%20(char).md) [嬉](characters/嬉.md) [熙](characters/熙.md) [[憙]] [[熹]] [[凞]] [[羲]] [[爔]] [[曦]] [[俙]] [[𡅕]] [[憘]] [犧](characters/犠.md) [噫](characters/噫.md) [[煕]] [[烯]] [[暿]] [[熹]] ([[熺]]) [姫](characters/姫%20(char).md)
 
 ### 힐
-[[詰]] 
+[詰](characters/詰.md)
