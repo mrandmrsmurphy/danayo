@@ -5,7 +5,7 @@ cantonese:
   - gaai1
 korean:
   - 가
-korean_native: ""
+korean_native: 아름다울
 japanese:
   - KA
 japanese_nanori: ""
@@ -16,7 +16,7 @@ stroke_count: 8
 radical: 人
 skip_number: 1-2-6
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - beautiful
   - good
