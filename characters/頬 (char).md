@@ -25,7 +25,7 @@ hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6095
 mc_id: 2879
-graphemic_classification: 夾
+graphemic_classification: 夹
 stand_in: 頬
 aliases:
   - 頰

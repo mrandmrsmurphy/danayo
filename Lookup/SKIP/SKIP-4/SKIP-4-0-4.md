@@ -12,7 +12,7 @@ This is the home page for SKIP characters of type 4-x-4.  These are <ruby>漢字
 4. [SKIP-4-4-4](lookup/SKIP/SKIP-4/SKIP-4-4-4.md) - 火, 犬, 少, 内, 夫, 片, 匁	卅	夬	夭	戈	爿	
 5. [SKIP-4-5-4](lookup/SKIP/SKIP-4/SKIP-4-5-4.md) - 央 史	失	弗	戊	丼	冉	戉	
 6. [SKIP-4-6-4](lookup/SKIP/SKIP-4/SKIP-4-6-4.md) - 夷	曳 舟	成	吏	戍	戌	
-7. [SKIP-4-7-4](lookup/SKIP/SKIP-4/SKIP-4-7-4.md) - 寿	良	夾	曵
+7. [SKIP-4-7-4](lookup/SKIP/SKIP-4/SKIP-4-7-4.md) - 寿	良	夹	曵
 8. [SKIP-4-8-4](lookup/SKIP/SKIP-4/SKIP-4-8-4.md) - 兎	
 9. [[SKIP-4-9-4]] - 威	為	咸	臾	
 10. no
