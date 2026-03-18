@@ -4,6 +4,7 @@ mandarin:
 cantonese:
   - beng2
 korean:
+  - 병
 korean_native: 떡
 japanese:
   - HEI
@@ -16,7 +17,7 @@ stroke_count: 17
 radical: 食
 skip_number: 1-9-8
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - pastry
   - cake

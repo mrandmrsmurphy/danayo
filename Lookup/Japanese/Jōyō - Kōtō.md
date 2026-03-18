@@ -206,13 +206,13 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1230. [[凶]] : villain
 1231. [[叫]] : shout
 1232. [[狂]] : lunatic
-1233. [[享]] : receive
-1234. [[況]] : condition
-1235. [[峡]] : 	峽	gorge
-1236. [[挟]] : 	挾	pinch
-1237. [[狭]] : 	狹	cramped
-1238. [[恐]] : fear
-1239. [[恭]] : respect
+1233. [享](characters/享.md) : receive
+1234. [況](characters/況.md) : condition
+1235. [峡](characters/峡.md) : 	峽	gorge
+1236. [挟](characters/挟%20(char).md) : 	挾	pinch
+1237. [狭](characters/狭.md) : 	狹	cramped
+1238. [恐](characters/恐.md) : fear
+1239. [恭](characters/恭.md) : respect
 1240. [[脅]] : threaten
 1241. [[矯]] : rectify
 1242. [[響]] : 	響	echo
