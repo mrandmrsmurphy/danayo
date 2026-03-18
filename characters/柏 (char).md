@@ -40,3 +40,4 @@ aliases:
 ```
 
 # Notes
+- 形声 (OC \*praːɡ): semantic [木](Radical%20075) (“tree”) + phonetic [白 (char)](characters/白%20(char).md) (OC \*braːɡ).

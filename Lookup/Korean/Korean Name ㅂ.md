@@ -18,13 +18,13 @@
  [佰](characters/百.md) [帛](characters/帛.md) [[魄]] [柏 (char)](characters/柏%20(char).md) [[苩]] 
 
 ### 번 
- [[蕃]] [[幡]] [[樊]] [[燔]] [[磻]] [[藩]]
+ [蕃](characters/蕃.md) [幡](characters/幡.md) [樊](characters/藩.md) [[燔]] [[磻]] [藩](characters/藩.md)
 
 ### 벌 
- [[閥]] [[筏]]
+ [閥](characters/閥.md) [[筏]]
 
 ### 범 
- [[帆]] [[杋]] [[氾]] [[范]] [[梵]] [[泛]] [[汎]] [[釩]] [[渢]]
+ [帆 (char)](characters/帆%20(char).md) [[杋]] [氾](characters/氾.md) [范](characters/範.md) [[梵]] [泛](characters/泛.md) [汎 (char)](characters/汎%20(char).md) [[釩]] [[渢]]
 
 ### 법 
  [[琺]]
