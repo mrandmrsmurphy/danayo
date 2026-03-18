@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - hyun1
 korean:
-korean_native: ""
+  - 권
+korean_native: 우리
 japanese:
   - KEN
 japanese_nanori: ""
@@ -15,14 +16,14 @@ stroke_count: 12
 radical: 囗
 skip_number: 3-3-9
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - encircled area
 羅馬字: gwen
 韓文: 권
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6274
 mc_id: 3578
 graphemic_classification: 巻

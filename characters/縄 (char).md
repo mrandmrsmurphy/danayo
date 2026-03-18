@@ -17,7 +17,7 @@ stroke_count: 15
 radical: 糸
 skip_number: 1-6-9
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - rope
   - cord

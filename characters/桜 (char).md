@@ -4,19 +4,22 @@ mandarin:
 cantonese:
   - jing1
 korean:
-korean_native: ""
+  - 앵
+korean_native: 앵두
 japanese:
   - OU
   - YOU
-japanese_nanori: ""
+japanese_nanori:
+  - さくら
 vietnamese:
+  - anh
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣɛŋ
 stroke_count: 10
 radical: 木
 skip_number: 1-4-6
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 名詞
 english:
   - cherry blossom
 羅馬字: "'ang"
@@ -34,9 +37,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 桜.
 >For the word, see [桜](words/桜.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

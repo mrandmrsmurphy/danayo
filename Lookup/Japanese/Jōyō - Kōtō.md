@@ -272,7 +272,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1296. [[剣]] : 	劍	sabre
 1297. [[拳]] : fist
 1298. [[軒]] : flats
-1299. [[圏]] : 	圈	sphere
+1299. [圏 (char)](characters/圏%20(char).md) : 	圈	sphere
 1300. [[堅]] : strict
 1301. [[嫌]] : dislike
 1302. [[献]] : 	獻	offering

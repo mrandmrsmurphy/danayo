@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - ou3
 korean:
-korean_native: ""
+  - 오
+korean_native: 깊을
 japanese:
   - OU
 japanese_nanori: ""
@@ -15,7 +16,7 @@ stroke_count: 12
 radical: 大
 skip_number: 2-9-3
 grade_level: "6"
-pos: ""
+pos: 性詞
 english:
   - deep
 羅馬字: "'ug"

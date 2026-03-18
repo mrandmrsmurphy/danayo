@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - syu1
 korean:
-korean_native: ""
+  - 추
+korean_native: 지도리
 japanese:
   - SUU
   - SHU
