@@ -23,7 +23,7 @@ english:
 韓文: 딩
 joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 7410
 mc_id: 836
 graphemic_classification: 象形

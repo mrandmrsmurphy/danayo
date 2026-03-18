@@ -6,7 +6,7 @@ radical: 鼎
 > [[Radicals]]
 > **Radical 206** is "tripod"
 > 
-1. <ruby>[[鼎]]<rt>ㄉㄧㄥ</rt></ruby> - tripod
+1. <ruby>[鼎 (char)](characters/鼎%20(char).md)<rt>ㄉㄧㄥ</rt></ruby> - tripod --> [鼎](words/鼎.md)
 
 ### Redirects
 - 䵺 -> 町
