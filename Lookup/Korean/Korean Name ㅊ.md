@@ -91,7 +91,7 @@ These have all bee checked to see which are redirects
 [仄](characters/仄.md) [[惻]] [廁](characters/厠.md) 
 
 ### 치 
-[[熾]] [[峙]] [雉](characters/雉%20(char).md) [馳](characters/馳%20(char).md) [侈](characters/済%20(char).md) [[嗤]] [幟](characters/幟%20(char).md) [[梔]] [[淄]] [[痔]] [癡](characters/痴.md) [[緇]] [緻](characters/致%20(char).md) [[蚩]] [[輜]] [稚](characters/稚.md) 
+[[熾]] [[峙]] [雉](characters/雉%20(char).md) [馳](characters/馳%20(char).md) [[侈]] [[嗤]] [幟](characters/幟%20(char).md) [[梔]] [[淄]] [[痔]] [癡](characters/痴.md) [[緇]] [緻](characters/致%20(char).md) [[蚩]] [[輜]] [稚](characters/稚.md) 
 
 ### 칙 
 [勅](characters/勅.md) [[飭]] 

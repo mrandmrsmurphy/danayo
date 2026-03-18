@@ -5,7 +5,7 @@ cantonese:
   - wai2
 korean:
   - 훼
-korean_native: ""
+korean_native: 헐
 japanese:
   - KI
 japanese_nanori: ""
@@ -15,7 +15,7 @@ middle_chinese_final: ɣiuᴇ
 stroke_count: 13
 radical: 殳
 skip_number: 1-9-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - destroy
@@ -24,7 +24,7 @@ english:
 韓文: 훼
 joyo_level: 表外字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5116
 mc_id: 855
 graphemic_classification: 毇

@@ -5,7 +5,7 @@ cantonese:
   - dim2
 korean:
   - 점
-korean_native: ""
+korean_native: 점
 japanese:
   - TEN
 japanese_nanori: ""
@@ -16,14 +16,14 @@ stroke_count: 9
 radical: 火
 skip_number: 2-5-4
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - point
 羅馬字: dem
 韓文: 덤
 joyo_level: "2"
 hsk_level: "1"
-hanmun_edu_level: 中
+hanmun_edu_level: 高等
 danayo_id: 178
 mc_id: 3957
 graphemic_classification: 占

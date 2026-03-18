@@ -944,7 +944,7 @@ The following prefecture names were added in 2017:
 933. [[泉]] : sen	izumi	fountain
 934. [[洗]] : sen	ara-u	wash
 935. [[派]] : ha	 	sect
-936. [[済]] : sai	su-mu	settle
+936. [済](characters/済%20(char).md) : sai	su-mu	settle
 937. [[源]] : gen	minamoto	origin
 938. [[潮]] : chō	shio	tide
 939. [[激]] : geki	hage-shii	violent

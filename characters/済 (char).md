@@ -25,7 +25,7 @@ english:
 韓文: 제
 joyo_level: "4"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4161
 mc_id: 579
 graphemic_classification: 斉

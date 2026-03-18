@@ -24,7 +24,7 @@ english:
 韓文: 십
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5305
 mc_id: 1630
 graphemic_classification: 显

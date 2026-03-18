@@ -172,7 +172,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1196. [[幾]] : how many
 1197. [[棋]] : chess piece
 1198. [[棄]] : abandon
-1199. [[毀]] : destroy
+1199. [毀 (char)](characters/毀%20(char).md) : destroy
 1200. [[畿]] : capital
 1201. [[輝]] : radiance
 1202. [[騎]] : equestrian

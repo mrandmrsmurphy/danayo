@@ -5,7 +5,7 @@ cantonese:
   - jim4
 korean:
   - 엄
-korean_native: ""
+korean_native: 엄할
 japanese:
   - GEN
   - GON
@@ -16,7 +16,7 @@ middle_chinese_final: iɐm
 stroke_count: 17
 radical: 厂
 skip_number: 3-5-12
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - strict
@@ -27,7 +27,7 @@ english:
 韓文: 욤
 joyo_level: "6"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 3046
 mc_id: 817
 graphemic_classification: 敢
@@ -45,5 +45,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [[厳然]] not 儼然
