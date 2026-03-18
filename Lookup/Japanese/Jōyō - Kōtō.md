@@ -200,7 +200,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1224. [[巨]] : gigantic
 1225. [[拒]] : repel
 1226. [[拠]] : 	據	foothold
-1227. [[虚]] : 	虛	void
+1227. [虚 (char)](characters/虚%20(char).md) : 	虛	void
 1228. [[距]] : long-distance
 1229. [[御]] : honorable
 1230. [[凶]] : villain

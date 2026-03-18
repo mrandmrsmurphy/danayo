@@ -5,7 +5,7 @@ cantonese:
   - fan1
 korean:
   - 훈
-korean_native: ""
+korean_native: 향풀
 japanese:
   - KUN
 japanese_nanori: ""
@@ -15,7 +15,7 @@ middle_chinese_final: ɨun
 stroke_count: 16
 radical: 艸
 skip_number: 2-3-13
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - fragrant
@@ -24,7 +24,7 @@ english:
 韓文: 훈
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6043
 mc_id: 3356
 graphemic_classification: 黒
@@ -32,6 +32,7 @@ stand_in: 薫
 aliases:
   - 薰
   - 熏
+  - 𤋱
 注音: ㄏㄨㄋ
 ---
 >[!tip] This is a page about the character 薫.

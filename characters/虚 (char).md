@@ -4,27 +4,30 @@ mandarin:
 cantonese:
   - heoi1
 korean:
-korean_native: ""
+  - 효
+korean_native: 빌
 japanese:
   - KYO
   - KO
-japanese_nanori: ""
+japanese_nanori:
+  - むなしい
 vietnamese:
+  - hư
 middle_chinese_initial: x
 middle_chinese_final: ɨʌ
 stroke_count: 11
 radical: 虍
 skip_number: 3-4-7
-grade_level: 4
-pos: ""
+grade_level: "4"
+pos: 名詞
 english:
   - void
   - emptiness
 羅馬字: hyo
 韓文: 효
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "4"
+hanmun_edu_level: 中
 danayo_id: 4240
 mc_id: 398
 graphemic_classification: 虎

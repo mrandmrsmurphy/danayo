@@ -5,7 +5,7 @@ cantonese:
   - wai5
 korean:
   - 휘
-korean_native: ""
+korean_native: 숨길
 japanese:
   - KI
 japanese_nanori: ""
@@ -16,7 +16,7 @@ stroke_count: 16
 radical: 言
 skip_number: 1-7-9
 grade_level: 先進
-pos: ""
+pos: 事詞
 english:
   - shun
   - avoid saying the name of
@@ -24,7 +24,7 @@ english:
 韓文: 휘
 joyo_level: 表外字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 7244
 mc_id: 1306
 graphemic_classification: 韋

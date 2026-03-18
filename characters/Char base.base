@@ -14,10 +14,10 @@ views:
       - hanmun_edu_level
       - formula.score
     sort:
-      - property: hanmun_edu_level
-        direction: ASC
       - property: korean
         direction: DESC
+      - property: hanmun_edu_level
+        direction: ASC
       - property: 韓文
         direction: DESC
       - property: middle_chinese_final

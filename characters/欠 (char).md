@@ -5,7 +5,7 @@ cantonese:
   - him3
 korean:
   - 흠
-korean_native: ""
+korean_native: 하품
 japanese:
   - KETSU
 japanese_nanori: ""
@@ -15,15 +15,15 @@ middle_chinese_final: ɨɐm
 stroke_count: 4
 radical: 缶
 skip_number: 2-2-2
-grade_level: 4
-pos: ""
+grade_level: "4"
+pos: 性詞
 english:
   - yawn
 羅馬字: kyam
 韓文: 캼
 joyo_level: "4"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 4148
 mc_id: 2640
 graphemic_classification: 指事
