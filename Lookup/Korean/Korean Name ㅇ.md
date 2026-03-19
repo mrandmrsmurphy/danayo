@@ -73,7 +73,7 @@ All have been checked for redirects.
 說 --> 説 [咽](characters/咽.md) [[潱]] 
 
 ### 염 
-[琰](characters/炎.md) [艶](characters/艶%20(char).md) [厭](characters/嫌.md) [焰](characters/焰.md) [[苒]] [閻](characters/閻%20(char).md) [[髥]]
+[琰](characters/炎.md) [艶](characters/艶%20(char).md) [厭](characters/嫌.md) [焰](characters/焰.md) [[苒]] [閻](characters/閻%20(char).md) [髥](characters/髯.md)
 
 ### 엽 
 [[燁]] [[曄]] [[熀]] 
