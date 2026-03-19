@@ -45,6 +45,10 @@ The following are not content pages, but "programming"
 
 ---
 
+## To do
+- [[飪]] as nyom
+---
+
 ## Delete
 
 The following files are supposed to all be temporary:

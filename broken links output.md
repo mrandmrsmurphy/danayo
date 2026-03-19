@@ -278,7 +278,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[軣軣]] in [[characters/軣]]
 - [[軽歌劇]] in [[characters/軽 (char)]]
 - [[軽金属]] in [[characters/軽 (char)]]
-- [[軽銀]] in [[characters/軽 (char)]], [[lexipedia/Periodic Table]]
+- [[words/軽銀]] in [[characters/軽 (char)]], [[lexipedia/Periodic Table]]
 - [[軽視]] in [[characters/軽 (char)]]
 - [[軽重]] in [[characters/軽 (char)]]
 - [[海辺]] in [[characters/辺]]
