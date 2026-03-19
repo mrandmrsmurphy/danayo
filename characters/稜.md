@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - ling4
 korean:
-  - 능
+  - 릉
 korean_native: ""
 japanese:
   - RYOU

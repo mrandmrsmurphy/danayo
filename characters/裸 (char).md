@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - lo2
 korean:
-  - 나
+  - 라
 korean_native: 벌거숭이, 벌거벗다
 japanese:
   - RA
@@ -16,7 +16,7 @@ middle_chinese_final: uɑ
 stroke_count: 13
 radical: 衣
 skip_number: 1-5-8
-grade_level: 6
+grade_level: "6"
 pos: 性詞
 english:
   - strip

@@ -155,3 +155,35 @@ This have all be checked for redirects.
 
 ### 힐
 [詰](characters/詰.md)
+
+## Datacheck
+```dataviewjs
+function norm(v) {
+  if (v == null) return "";
+  if (Array.isArray(v)) return v.join(", ");
+  return String(v);
+}
+
+let seen = new Set();
+let links = dv.current().file.outlinks;
+
+let pages = links
+  .map(l => dv.page(l))
+  .filter(p => p && p.file.path.startsWith("characters/"))
+  .filter(p => {
+    if (seen.has(p.file.path)) return false;
+    seen.add(p.file.path);
+    return true;
+  })
+  .sort((a, b) => norm(a.korean).localeCompare(norm(b.korean), "ko"));
+
+dv.table(
+  ["Character", "Korean", "Korean Native","Level"],
+  pages.map(p => [
+    p.file.link,
+    norm(p.korean),
+    norm(p.korean_native),
+    norm(p.hanmun_edu_level)
+  ])
+);
+```
