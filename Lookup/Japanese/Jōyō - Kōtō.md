@@ -294,47 +294,47 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1318. [[枯]] : wither
 1319. [[雇]] : employ
 1320. [[誇 (char)]] : boast
-1321. [[鼓]] : drum
-1322. [[錮]] : tie up
-1323. [[顧]] : look back
-1324. [[互]] : mutually
-1325. [[呉]] : give
-1326. [[娯]] : recreation
-1327. [[悟]] : enlightenment
-1328. [[碁]] : Go
-1329. [[勾]] : capture
-1330. [[孔]] : cavity
-1331. [[巧]] : adroit
-1332. [[甲]] : armor
-1333. [[江]] : inlet
-1334. [[坑]] : pit
-1335. [[抗]] : confront
-1336. [[攻]] : aggression
-1337. [[更]] : grow late
-1338. [[拘]] : arrest
-1339. [[肯]] : agreement
-1340. [[侯]] : marquis
-1341. [[恒]] : 	恆	constancy
-1342. [[洪]] : deluge
-1343. [[荒]] : laid waste
-1344. [[郊]] : outskirts
-1345. [[貢]] : tribute
-1346. [[控]] : withdraw
-1347. [[梗]] : close up
-1348. [[喉]] : throat
-1349. [[慌]] : disconcerted
-1350. [[硬]] : stiff
-1351. [[絞]] : strangle
-1352. [[項]] : paragraph
-1353. [[溝]] : gutter
-1354. [[綱]] : hawser
-1355. [[酵]] : fermentation
-1356. [[稿]] : draft
-1357. [[衡]] : equilibrium
-1358. [[購]] : subscription
+1321. [鼓 (char)](characters/鼓%20(char).md) : drum
+1322. [錮 (char)](characters/錮%20(char).md) : tie up
+1323. [顧](characters/顧.md) : look back
+1324. [互](characters/互.md) : mutually
+1325. [呉](characters/呉.md) : give
+1326. [娯](characters/娯.md) : recreation
+1327. [悟](characters/悟.md) : enlightenment
+1328. [碁](characters/碁.md) : Go
+1329. [勾](characters/勾.md) : capture
+1330. [孔 (char)](characters/孔%20(char).md) : cavity
+1331. [巧](characters/巧.md) : adroit
+1332. [甲 (char)](characters/甲%20(char).md) : armor
+1333. [江](characters/江.md) : inlet
+1334. [坑 (char)](characters/坑%20(char).md) : pit
+1335. [抗](characters/抗.md) : confront
+1336. [攻 (char)](characters/攻%20(char).md) : aggression
+1337. [更 (char)](characters/更%20(char).md) : grow late
+1338. [拘](characters/拘.md) : arrest
+1339. [肯 (char)](characters/肯%20(char).md) : agreement
+1340. [侯 (char)](characters/侯%20(char).md) : marquis
+1341. [恒](characters/恒.md) : 	恆	constancy
+1342. [洪](characters/洪.md) : deluge
+1343. [荒](characters/荒.md) : laid waste
+1344. [郊](characters/郊.md) : outskirts
+1345. [貢](characters/貢.md) : tribute
+1346. [控](characters/控.md) : withdraw
+1347. [梗](characters/梗.md) : close up
+1348. [喉](characters/喉.md) : throat
+1349. [慌](characters/慌.md) : disconcerted
+1350. [硬 (char)](characters/硬%20(char).md) : stiff
+1351. [絞](characters/絞.md) : strangle
+1352. [項 (char)](characters/項%20(char).md) : paragraph
+1353. [溝 (char)](characters/溝%20(char).md) : gutter
+1354. [綱](characters/綱.md) : hawser
+1355. [酵](characters/酵.md) : fermentation
+1356. [稿 (char)](characters/稿%20(char).md) : draft
+1357. [衡](characters/衡.md) : equilibrium
+1358. [購](characters/購.md) : subscription
 1359. [乞 (char)](characters/乞%20(char).md) : beg
-1360. [[拷]] : torture
-1361. [[剛]] : sturdy
+1360. [拷](characters/拷.md) : torture
+1361. [剛](characters/剛.md) : sturdy
 1362. [[傲]] : be proud
 1363. [[豪]] : overpowering
 1364. [[克]] : overcome

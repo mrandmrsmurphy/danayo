@@ -22,9 +22,9 @@ english:
   - merit
 羅馬字: hun
 韓文: 훈
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 7221
 mc_id: 1285
 graphemic_classification: 黒

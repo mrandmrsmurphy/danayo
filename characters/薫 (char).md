@@ -22,7 +22,7 @@ english:
   - smoke
 羅馬字: hun
 韓文: 훈
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名
 danayo_id: 6043

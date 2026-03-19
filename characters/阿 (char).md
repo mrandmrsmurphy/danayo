@@ -23,7 +23,7 @@ english:
 韓文: 아
 joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: 無
+hanmun_edu_level: 名
 danayo_id: 5164
 mc_id: 1089
 graphemic_classification: 可

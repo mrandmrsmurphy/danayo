@@ -15,7 +15,7 @@ middle_chinese_final: ɨu
 stroke_count: 7
 radical: 肉
 skip_number: 1-4-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - elbow
@@ -23,7 +23,7 @@ english:
 韓文: 줌
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: 無
+hanmun_edu_level: 名
 danayo_id: 6061
 mc_id: 2577
 graphemic_classification: 寸

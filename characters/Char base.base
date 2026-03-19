@@ -10,10 +10,13 @@ views:
       - file.name
       - hsk_level
       - joyo_level
+      - japanese
       - korean
       - hanmun_edu_level
       - formula.score
     sort:
+      - property: joyo_level
+        direction: DESC
       - property: korean
         direction: DESC
       - property: hanmun_edu_level
@@ -35,8 +38,6 @@ views:
       - property: 注音
         direction: DESC
       - property: 羅馬字
-        direction: ASC
-      - property: joyo_level
         direction: ASC
       - property: stroke_count
         direction: DESC
@@ -62,8 +63,6 @@ views:
         direction: ASC
     columnSize:
       file.name: 64
-      note.韓文: 63
+      note.japanese: 145
       note.hanmun_edu_level: 131
       formula.score: 112
-      note.english: 222
-      note.middle_chinese_final: 101
