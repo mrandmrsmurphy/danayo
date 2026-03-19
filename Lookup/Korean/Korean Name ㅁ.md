@@ -17,7 +17,7 @@
 [寐](characters/寐.md) [昧](characters/昧%20(char).md) [枚](characters/枚%20(char).md) [煤](characters/煤%20(char).md) [罵](characters/罵.md) [邁](characters/邁.md) [魅](characters/魅.md) [苺](characters/苺%20(char).md)
 
 ### 맥 
-[貊](characters/夷.md) [[陌]] [[驀]]
+貊 --> 夷 [[陌]] [[驀]]
 
 ### 맹 
 [萌](characters/萌.md) [[氓]]

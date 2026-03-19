@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - jat1
 korean:
-korean_native: ""
+  - 일
+korean_native: 한
 japanese:
   - ICHI
   - ITSU
@@ -22,9 +23,9 @@ english:
   - faithful
 羅馬字: "'id"
 韓文: 읻
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 7506
 mc_id: 1256
 graphemic_classification: 吉

@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - min6
 korean:
-korean_native: ""
+  - 면
+korean_native: 국수
 japanese:
   - MEN
 japanese_nanori: ""
@@ -23,7 +24,7 @@ english:
 韓文: 먼
 joyo_level: 高等
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6340
 mc_id: 10656
 graphemic_classification: 面

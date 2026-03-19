@@ -76,7 +76,7 @@ All of these have been checked for redirects.
 侖! [崙](characters/崙.md) [[綸]] [[淪]] [[錀]] roentgenium
 
 ### 률 
-[慄](characters/慄%20(char).md) [[嵂]]
+[慄](characters/慄%20(char).md) [[嵂]] [率](characters/率.md)
 
 ### 륵 
 [勒](characters/勒.md) [肋](characters/肋.md)

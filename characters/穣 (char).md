@@ -4,10 +4,12 @@ mandarin:
 cantonese:
   - joeng4
 korean:
-korean_native: ""
+  - 양
+korean_native: 짚
 japanese:
   - JOU
-japanese_nanori: ""
+japanese_nanori:
+  - みのる
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨɐŋ
@@ -22,7 +24,7 @@ english:
 韓文: 냥
 joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 8325
 mc_id: 1804
 graphemic_classification: 襄

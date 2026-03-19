@@ -13,10 +13,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɳ
 middle_chinese_final: ɨɐŋ
-stroke_count: "10"
+stroke_count: 10
 radical: 女
 skip_number: 1-3-7
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - young woman

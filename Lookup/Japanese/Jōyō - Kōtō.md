@@ -985,11 +985,11 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2007. [[魅]] : fascination
 2008. [[岬]] : headland
 2009. [[蜜]] : honey
-2010. [[妙]] : exquisite
-2011. [[眠]] : sleep
-2012. [[矛]] : halberd
+2010. [妙 (char)](characters/妙%20(char).md) : exquisite
+2011. [眠](characters/眠.md) : sleep
+2012. [矛](characters/矛.md) : halberd
 2013. [[霧 (char)]] : fog
-2014. [[娘]] : daughter
+2014. [娘 (char)](characters/娘%20(char).md) : daughter
 2015. [[冥]] : dark
 2016. [[銘]] : inscription
 2017. [[滅]] : destroy
