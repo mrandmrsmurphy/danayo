@@ -46,7 +46,7 @@ The following are not content pages, but "programming"
 ---
 
 ## To do
-- [[飪]] as nyom
+- [[飪]] of nyom
 ---
 
 ## Delete
