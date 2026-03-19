@@ -104,7 +104,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[厳然]] in [[characters/厳 (char)]]
 - [[words/口]] in [[characters/口 (char)]]
 - [[words/台]] in [[characters/台 (char)]]
-- [[List of 会意]] in [[characters/向 (char)]], [[characters/碍]], [[characters/閙]]
+- [[lookup/List of 会意]] in [[characters/向 (char)]], [[characters/碍]], [[characters/閙]]
 - [[傾向]] in [[characters/向 (char)]]
 - [[words/咬]] in [[characters/咬 (char)]]
 - [[words/在]] in [[characters/在 (char)]]

@@ -38,7 +38,7 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](List%20of%20会意): [十](characters/十.md) (“ten”) + [又 (char)](characters/又%20(char).md) (“hand”) – ten ceg ([尺](characters/尺%20(char).md)) is one cang (丈). Similar but unrelated to 支.
+- [List of 会意](lookup/List%20of%20会意.md): [十](characters/十.md) (“ten”) + [又 (char)](characters/又%20(char).md) (“hand”) – ten ceg ([尺](characters/尺%20(char).md)) is one cang (丈). Similar but unrelated to 支.
 ### Derived Character
 - [[杖]] = 木 + 丈
 
