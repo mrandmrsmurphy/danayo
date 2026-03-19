@@ -516,7 +516,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1539. [[尻]] : buttocks
 1540. [[伸]] : lengthen
 1541. [[心|芯]] : core
-1542. [[辛]] : spicy, zodiac
+1542. [[characters/辛]] : spicy, zodiac
 1543. [[侵]] : encroach
 1544. [[津]] : haven
 1545. [[唇]] : lips

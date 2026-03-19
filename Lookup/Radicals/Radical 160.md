@@ -1,12 +1,12 @@
 ---
-size: 4
+size: 5
 date-last-perfect:
 radical: 辛
 ---
 > [[Radicals]]
 
 ## Characters
-1. [[辛]] - spicy, 8th heavenly stem
+1. [[characters/辛]] - spicy, 8th heavenly stem
 
 ## Data search
 ```dataview
