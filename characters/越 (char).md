@@ -17,7 +17,7 @@ middle_chinese_final: ʉɐt
 stroke_count: 12
 radical: 走
 skip_number: 3-7-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - exceed
@@ -35,9 +35,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 越.
 >For the word, see [越](words/越.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[呉越同舟](/chengyu/呉越同舟.md)<rt>ㄛ·ˇㄝㄊㄉㄛㄥㄐㄨ</rt></ruby>

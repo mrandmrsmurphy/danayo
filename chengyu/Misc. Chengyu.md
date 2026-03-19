@@ -25,6 +25,7 @@ date-last-perfect:
 - <ruby>[重文軽武](chengyu/重文軽武.md)<rt>ㄑㄛㄥㄇㄨㄋㄎㄧㄥㄇㄨ</rt></ruby> - weighty culture, light war
 - <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎˇㄙㄎ·˙ㄨㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
 - <ruby>[人山人海](/chengyu/人山人海.md)<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚ˙</rt></ruby> - a sea of people
+- <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍˇㄚㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
 
 
 ## Base check

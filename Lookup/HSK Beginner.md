@@ -563,22 +563,22 @@
 261. [[陰 (char)]]
 262. [[音]]
 263. [[銀 (char)]]
-264. [[印]]
+264. [印](characters/印.md)
 265. [[応 (char)|應]]
-266. [[英]]
-267. [[迎]]
-268. [[永]]
+266. [英](characters/英.md)
+267. [迎](characters/迎.md)
+268. [永](characters/永.md)
 269. [[由 (char)]]
 270. [[油 (char)]]
 271. [[遊]] [[遊|游]]
-272. [[又]]
+272. [又 (char)](characters/又%20(char).md)
 273. [[於]] [[于 (char)]]
 274. [[魚 (char)]]
-275. [[育]]
-276. [[園]]
-277. [[原]]
-278. [[願]]
-279. [[越]]
+275. [育 (char)](characters/育%20(char).md)
+276. [園](characters/園.md)
+277. [原](characters/原.md)
+278. [願](characters/願.md)
+279. [越 (char)](characters/越%20(char).md)
 280. [[雲 (char)]]
 281. [[運]]
 282. ~~咱~~

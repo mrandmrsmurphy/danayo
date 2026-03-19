@@ -36,9 +36,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 立.
 >For the word, see [立](words/立.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄥㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>

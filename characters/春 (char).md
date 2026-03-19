@@ -40,5 +40,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu 
+- <ruby>[春夏秋冬](/chengyu/春夏秋冬.md)<rt>ㄑㄨㄋㄏ˙ㄚㄥㄑㄨˇㄊㄛㄥ</rt></ruby>

@@ -16,7 +16,7 @@ middle_chinese_final: ʌm
 stroke_count: 11
 radical: 貝
 skip_number: 2-2-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - greedy

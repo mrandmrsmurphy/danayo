@@ -36,9 +36,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 成.
 >For the word, see [成](words/成.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄥㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>

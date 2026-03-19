@@ -38,9 +38,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 即.
 >For the word, see [即](words/即.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[少即是多](/chengyu/少即是多.md)<rt>ㄙㄛˇㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>

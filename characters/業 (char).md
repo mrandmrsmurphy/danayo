@@ -38,9 +38,9 @@ aliases:
 ---
 >[!tip] This is a page about the character 業.
 >For the word, see [業](words/業.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄥㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
