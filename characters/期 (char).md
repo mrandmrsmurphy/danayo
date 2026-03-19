@@ -16,7 +16,7 @@ middle_chinese_final: ɨ
 stroke_count: 12
 radical: 月
 skip_number: 1-4-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - period
