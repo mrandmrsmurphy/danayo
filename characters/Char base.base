@@ -15,7 +15,10 @@ views:
       - hanmun_edu_level
       - formula.score
       - grade_level
+      - graphemic_classification
     sort:
+      - property: graphemic_classification
+        direction: ASC
       - property: joyo_level
         direction: ASC
       - property: grade_level

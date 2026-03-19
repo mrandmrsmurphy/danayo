@@ -1,7 +1,7 @@
 ---
 size: 411
 ---
-This is one of the [[六書]].
+This is one of the [[words/六書]].
 
 ## Base check
 ```base

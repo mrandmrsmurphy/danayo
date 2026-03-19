@@ -1,3 +1,7 @@
+---
+size: 306
+---
+
 ## List
 1. <ruby>[九](/characters/九%20(char).md)<rt>ㄎ˙ㄨ</rt></ruby> - elbow (nine)
 2. <ruby>[勿](/characters/勿%20(char).md)<rt>ㄇㄨㄊ</rt></ruby> - blood on a knife (do not)

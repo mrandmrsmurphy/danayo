@@ -4,7 +4,7 @@
 ## 天官冢宰
 ## 地官·司徒
 _Offices of Earth, Office of the Tutors_
-113. [[保]][[姓氏]]：[[主掌]][[諌議]][[王]]<ruby>[[之]]<rt>ㄊㄧ</rt></ruby>[[悪]]，[[而 (char)]][[養育]][[国子]][[道]][[以]]。[[乃]][[教授]]<ruby>[[之]]<rt>ㄊㄧ</rt></ruby>[[六芸]]：一曰[[五礼]]，二曰[[六楽]]，三曰[[五射]]，四曰[[五馭]]，五曰[[六書]]，六曰[[九数]]。
+113. [[保]][[姓氏]]：[[主掌]][[諌議]][[王]]<ruby>[[之]]<rt>ㄊㄧ</rt></ruby>[[悪]]，[[而 (char)]][[養育]][[国子]][[道]][[以]]。[[乃]][[教授]]<ruby>[[之]]<rt>ㄊㄧ</rt></ruby>[[六芸]]：一曰[[五礼]]，二曰[[六楽]]，三曰[[五射]]，四曰[[五馭]]，五曰[[words/六書]]，六曰[[九数]]。
 - 五礼
 	1. 吉礼 (_jí lǐ_) – Auspicious rites (sacrifices to Heaven, Earth, and ancestors).
 	2. 凶礼 (_xiōng lǐ_) – Inauspicious rites (mourning and funerals).
