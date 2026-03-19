@@ -16,7 +16,7 @@ middle_chinese_final: uɑt
 stroke_count: 13
 radical: 金
 skip_number: 1-8-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - bowl

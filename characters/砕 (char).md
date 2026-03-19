@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - seoi3
 korean:
-korean_native: ""
+  - 쇄
+korean_native: 부술
 japanese:
   - SAI
 japanese_nanori: ""
@@ -14,16 +15,16 @@ middle_chinese_final: uʌi
 stroke_count: 9
 radical: 石
 skip_number: 1-5-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - smash
   - break
 羅馬字: soi
 韓文: 쇠
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6308
 mc_id: 2805
 graphemic_classification: 卒

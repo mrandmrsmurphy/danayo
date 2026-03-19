@@ -342,23 +342,23 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1366. [[獄]] : prison
 1367. [[駒]] : horse
 1368. 込 : crowded  FORBIDDEN!!!!
-1369. [[頃]] : times
-1370. [[昆]] : descendants
-1371. [[恨]] : rancor
-1372. [[婚]] : marriage
-1373. [[痕]] : mark
-1374. [[紺]] : dark blue
-1375. [[魂 (char)]] : soul
-1376. [[墾]] : ground-breaking
-1377. [[懇]] : sociable
-1378. [[沙]] : sand
-1379. [[唆]] : tempt
-1380. [[詐]] : lie
-1381. [[鎖]] : chain
-1382. [[挫]] : sprain
-1383. [[采]] : form
-1384. [[砕]] : 	碎	smash
-1385. [[宰]] : superintend
+1369. [頃 (char)](characters/頃%20(char).md) : times
+1370. [昆 (char)](characters/昆%20(char).md) : descendants
+1371. [恨 (char)](characters/恨%20(char).md) : rancor
+1372. [婚](characters/婚.md) : marriage
+1373. [痕](characters/痕.md) : mark
+1374. [紺 (char)](characters/紺%20(char).md) : dark blue
+1375. [魂 (char)](characters/魂%20(char).md) : soul
+1376. [墾](characters/墾.md) : ground-breaking
+1377. [懇](characters/懇.md) : sociable
+1378. [沙 (char)](characters/沙%20(char).md) : sand
+1379. [唆](characters/唆.md) : tempt
+1380. [詐](characters/詐.md) : lie
+1381. [鎖 (char)](characters/鎖%20(char).md) : chain
+1382. [挫](characters/挫.md) : sprain
+1383. [采](characters/采.md) : form
+1384. [砕 (char)](characters/砕%20(char).md) : 	碎	smash
+1385. [宰](characters/宰.md) : superintend
 1386. [[栽]] : plantation
 1387. [[彩]] : coloring
 1388. [[斎]] : 	齋	purification
