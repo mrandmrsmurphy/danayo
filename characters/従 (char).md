@@ -20,10 +20,11 @@ skip_number: 1-3-7
 grade_level: "2"
 pos: ""
 english:
-  - from
+  - obey
+  - observe
 羅馬字: jong
 韓文: 종
-joyo_level: ""
+joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2096
@@ -39,9 +40,21 @@ aliases:
 ---
 >[!tip] This is a page about the character 従.
 >For the word, see [従](words/従.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 # Notes
+
+## Words
+- [[従事]]
+- [[従業]]
+- 従軍
+- 從者
+- 従事
+- 主従
+- 従前
+- 従属
+- 従来
+- 服従
+- 盲従
+- 

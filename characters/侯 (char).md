@@ -21,7 +21,7 @@ english:
   - marquis
 羅馬字: hou
 韓文: 홋
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5351

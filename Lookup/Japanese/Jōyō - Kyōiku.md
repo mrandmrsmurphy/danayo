@@ -905,22 +905,22 @@ The following prefecture names were added in 2017:
 894. [幼](characters/幼.md) : yō	osana-i	infancy
 895. [庁](characters/庁.md) : chō	 	government office
 896. [[坐|座]] : za	suwa-ru	sit
-897. [[延]] : en	no-basu	prolong
-898. [[律]] : ritsu	 	rhythm
-899. [[従]] : jū	shitaga-u	obey
+897. [延](characters/延.md) : en	no-basu	prolong
+898. [律](characters/律.md) : ritsu	 	rhythm
+899. [従 (char)](characters/従%20(char).md) : jū	shitaga-u	obey
 900. [[忘]] : bō	wasu-reru	forget
 901. [[忠]] : chū	 	loyalty
 902. [[憲]] : ken	 	constitution
 903. [[恩]] : on	 	grace
 904. [[承]] : shō	uketamawa-ru	acquiesce
 905. [我](characters/我%20(char).md) : ga	ware	ego
-906. [[批]] : hi	 	criticism
-907. [[担]] : tan	nina-u	shouldering
-908. [[拝]] : hai	oga-mu	worship
-909. [[拡]] : kaku	hiro-geru	broaden
-910. [[捨]] : sha	su-teru	throw away
-911. [[探]] : tan	saga-su	grope
-912. [[推]] : sui	 	infer
+906. [批](characters/批.md) : hi	 	criticism
+907. [担](characters/担.md) : tan	nina-u	shouldering
+908. [拝 (char)](characters/拝%20(char).md) : hai	oga-mu	worship
+909. [拡](characters/拡.md) : kaku	hiro-geru	broaden
+910. [捨 (char)](characters/捨%20(char).md) : sha	su-teru	throw away
+911. [探](characters/探.md) : tan	saga-su	grope
+912. [推 (char)](characters/推%20(char).md) : sui	 	infer
 913. [[揮]] : ki	 	command
 914. [[操]] : sō	ayatsu-ru	maneuver
 915. [[敬]] : kei	uyama-u	respect
@@ -1019,9 +1019,9 @@ The following prefecture names were added in 2017:
 1008. [[賃]] : chin	 	fare
 1009. [[遺]] : i	 	bequeath
 1010. [[郵]] : yū	 	mail
-1011. [[郷]] : kyou	gou	home town
-1012. [[針]] : shin	hari	needle
-1013. [[退]] : tai	shirizo-ku	retreat
+1011. [[郷 : kyou	gou	home town
+1012. [針 (char)](characters/針%20(char).md) : shin	hari	needle
+1013. [退 (char)](characters/退%20(char).md) : tai	shirizo-ku	retreat
 1014. [[鋼]] : kou	hagane	steel
 1015. [[閉]] : hei	shi-meru	closed
 1016. [[閣]] : kaku	 	tall

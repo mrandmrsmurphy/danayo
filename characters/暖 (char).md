@@ -17,13 +17,13 @@ middle_chinese_final: uɑn
 stroke_count: 13
 radical: 日
 skip_number: 1-4-9
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - warm
 羅馬字: nan
 韓文: 난
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2127

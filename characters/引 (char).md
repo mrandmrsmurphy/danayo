@@ -22,7 +22,7 @@ english:
   - tug
 羅馬字: "'in"
 韓文: 인
-joyo_level: ""
+joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 2090

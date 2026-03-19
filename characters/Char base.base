@@ -14,8 +14,11 @@ views:
       - korean
       - hanmun_edu_level
       - formula.score
+      - grade_level
     sort:
       - property: joyo_level
+        direction: ASC
+      - property: grade_level
         direction: DESC
       - property: korean
         direction: DESC
@@ -28,8 +31,6 @@ views:
       - property: middle_chinese_initial
         direction: DESC
       - property: formula.score
-        direction: ASC
-      - property: grade_level
         direction: ASC
       - property: skip_number
         direction: DESC

@@ -22,6 +22,8 @@ graphemic_classification: 圭
 stand_in: 卦
 grade_level: 先進
 注音: ㄍˇㄚ˙
+joyo_level: 表外字
+hsk_level:
 ---
 >[!tip] This is a page about the character 卦.
 >For the word, see [卦](words/卦.md)
