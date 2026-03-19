@@ -36,19 +36,18 @@ aliases:
 ---
 >[!tip] This is a page about the character 川.
 >For the word, see [川](words/川.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 ## Notes
-Rivers were difficult to achieve consensus on.  Koreans use [[江]] as the default word, though many places have 川 in the name.  In Japan, everything is a 川.  But in China, [[河]] is common.  Vietnamese has a native word, but 江 is listed as the old spelling.  This character was chosen because it is so easy, while 江 takes the Japanese meaning of cove/inlet.
+Rivers were difficult to achieve consensus on.  Koreans use [江](characters/江.md) as the default word, though many places have 川 in the name.  In Japan, everything is a 川.  But in China, [河](characters/河.md) is common.  Vietnamese has a native word, but 江 is listed as the old spelling.  This character was chosen because it is so easy, while 江 takes the Japanese meaning of cove/inlet.
 
-- [[川口]] Kawaguchi
-- [[川崎]] Kawasaki
-- [[小川]] Ogawa
-- [[河川]] rivers
-- [[山川]] mountains and rivers, scenery
+## Words
+- [[words/川口]] Kawaguchi
+- [[words/川埼]] Kawasaki
+- [[words/小川]] Ogawa
+- [[words/河川]] rivers
+- [[words/山川]] mountains and rivers, scenery
 - [[瀧川]] Takigawa
 - [[江戸川]] Edo river
 - [[四川]] Sichuan
