@@ -771,7 +771,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[横数]] in [[lexipedia/Numbers]]
 - [[無限]] in [[lexipedia/Numbers]]
 - [[週期表]] in [[lexipedia/Periodic Table]]
-- [[苦土素]] in [[lexipedia/Periodic Table]]
+- [[words/苦土素]] in [[lexipedia/Periodic Table]]
 - [[硅素]] in [[lexipedia/Periodic Table]]
 - [[燐素]] in [[lexipedia/Periodic Table]]
 - [[塩素]] in [[lexipedia/Periodic Table]]

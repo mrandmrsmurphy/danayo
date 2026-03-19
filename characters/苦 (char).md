@@ -49,3 +49,4 @@ aliases:
 * [[苦悩]] to agonize over
 * [[刻苦]] industrious, frugal
 * [[苦味]] bitter
+* <ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby> - magnesium
