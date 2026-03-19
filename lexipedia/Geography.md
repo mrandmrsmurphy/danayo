@@ -93,6 +93,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - [[愛爾蘭]][[共和國]]
 - <ruby>法国<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>徳国<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
+- <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙˇㄚㄥ·ㄧㄥㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
 - <ruby>西班牙<rt>ㄙㄝ˙ㄆㄚㄋ·ㄚ</rt></ruby>
 - <ruby>葡萄牙<rt>ㄅㄛㄉㄚˇ·ㄚ</rt></ruby>

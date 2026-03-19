@@ -68,4 +68,4 @@ aliases:
 - <ruby>[優柔不断](/chengyu/優柔不断.md)<rt>ㄨˇㄋ˙ㄨㄅㄛㄊㄉˇㄚㄋ</rt></ruby> - shilly shally
 - <ruby>[欲求不満](/chengyu/欲求不満.md)<rt>˙ㄛㄎㄍ˙ㄨㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety
 - <ruby>[百聞不如一見](/chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ˙ㄛㄋㄧㄊㄍ˙ㄝㄋ</rt></ruby> - one look is worth a thousand tellings
-- 
+- <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄥㄎㄧ˙</rt></ruby>

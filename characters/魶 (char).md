@@ -10,6 +10,7 @@ japanese:
   - NATSU
 japanese_nanori: ø
 vietnamese:
+  - ø
 middle_chinese_initial: n
 middle_chinese_final: ʌp
 stroke_count: 15
@@ -34,10 +35,11 @@ aliases:
 ---
 >[!tip] This is a page about the character 魶.
 >For the word, see [魶](words/魶.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
-sound pick
+## Notes
+- Chosen to add to Dan'a'yo for its sound
+- [SKIP-1-11-4](lookup/SKIP/SKIP-1/SKIP-1-11-4.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md)) - [ㄋㄨㄆ](syllables/ㄋㄨㄆ.md)
+- Phono-semantic: [魚](lookup/Radicals/Radical%20195.md) + <ruby>[内](/characters/内.md)<rt>ㄋㄛ˙</rt></ruby>
+- On no one's list!  [Grade Name](lookup/Grade%20Name.md)

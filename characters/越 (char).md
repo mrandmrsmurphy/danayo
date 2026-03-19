@@ -5,7 +5,7 @@ cantonese:
   - jyut6
 korean:
   - 월
-korean_native: ""
+korean_native: 넘을
 japanese:
   - ETSU
   - OCHI
@@ -18,13 +18,13 @@ stroke_count: 12
 radical: 走
 skip_number: 3-7-5
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - exceed
 羅馬字: "'wed"
 韓文: 웓
-joyo_level: ""
-hsk_level: ""
+joyo_level: 高等
+hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 5021
 mc_id: 336

@@ -1,45 +1,45 @@
 For the younger grades, see [[Jōyō - Kyōiku]]
 
-1027. [[亜]] : 	亞	sub-, Asia
-1028. [[哀]] : pathetic
-1029. [[挨]] : push open
-1030. [[曖]] : not clear
-1031. [[握]] : grip
-1032. [[扱]] : handle
-1033. [[宛]] : allocate
-1034. [[嵐]] : storm
-1035. [[依]] : reliant
-1036. [[威]] : intimidate
+1027. [亜](characters/亜.md) : 	亞	sub-, Asia
+1028. [哀](characters/哀.md) : pathetic
+1029. [挨](characters/挨.md) : push open
+1030. [曖](characters/曖.md) : not clear
+1031. [握](characters/握.md) : grip
+1032. [扱 (char)](characters/扱%20(char).md) : handle
+1033. [宛](characters/宛.md) : allocate
+1034. [嵐](characters/嵐.md) : storm
+1035. [依](characters/依.md) : reliant
+1036. [威](characters/威.md) : intimidate
 1037. [為 (char)](characters/為%20(char).md) : 	爲	do
-1038. [[畏]] : fear
-1039. [[尉]] : military officer
-1040. [[萎]] : wither
-1041. [[偉]] : admirable
-1042. [[椅]] : chair
+1038. [畏 (char)](characters/畏%20(char).md) : fear
+1039. [尉 (char)](characters/尉%20(char).md) : military officer
+1040. [萎](characters/萎.md) : wither
+1041. [偉](characters/偉.md) : admirable
+1042. [椅](characters/椅.md) : chair
 1043. [彙 (char)](characters/彙%20(char).md) : same kind
-1044. [[違]] : differ
-1045. [[維]] : fiber
-1046. [[慰]] : consolation
-1047. [[緯]] : horizontal
-1048. [[壱]] : 	壹	one (falsification prevention)
-1049. [[逸]] : 	逸  deviate
-1050. [[芋]] : potato
-1051. [[咽]] : throat
-1052. [[姻]] : matrimony
-1053. [[淫]] : 	lewdness
+1044. [違](characters/違.md) : differ
+1045. [維](characters/維.md) : fiber
+1046. [慰](characters/慰.md) : consolation
+1047. [緯](characters/緯.md) : horizontal
+1048. [壱 (char)](characters/壱%20(char).md) : 	壹	one (falsification prevention)
+1049. [逸 (char)](characters/逸%20(char).md) : 	逸  deviate
+1050. [芋](characters/芋.md) : potato
+1051. [咽](characters/咽.md) : throat
+1052. [姻](characters/姻.md) : matrimony
+1053. [淫 (char)](characters/淫%20(char).md) : 	lewdness
 1054. [陰 (char)](characters/陰%20(char).md) : shade
-1055. [[隠]] : 	隱	conceal
-1056. [[韻]] : rhyme
+1055. [隠](characters/隠.md) : 	隱	conceal
+1056. [韻](characters/韻.md) : rhyme
 1057. [唄 (char)](characters/唄%20(char).md) : songs with samisen
 1058. [鬱](characters/欝.md) : depression
-1059. [[畝]] : furrow
-1060. [[浦]] : bay
-1061. [[詠]] : recitation
-1062. [[影]] : shadow
-1063. [[鋭]] : pointed
-1064. [[疫]] : epidemic
-1065. [[悦]] : ecstasy
-1066. [[越]] : cross over
+1059. [畝 (char)](characters/畝%20(char).md) : furrow
+1060. [浦 (char)](characters/浦%20(char).md) : bay
+1061. [詠 (char)](characters/詠%20(char).md) : recitation
+1062. [影](characters/影.md) : shadow
+1063. [鋭](characters/鋭.md) : pointed
+1064. [疫](characters/疫.md) : epidemic
+1065. [悦](characters/悦.md) : ecstasy
+1066. [越 (char)](characters/越%20(char).md) : cross over
 1067. [[謁]] : 	謁 	audience
 1068. [[閲]] : review
 1069. [[炎]] : inflammation
