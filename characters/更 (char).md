@@ -15,14 +15,14 @@ middle_chinese_final: ɣæŋ
 stroke_count: 7
 radical: 曰
 skip_number: 4-7-1
-grade_level: 3
-pos: ""
+grade_level: "3"
+pos: 副用名詞
 english:
   - more
 羅馬字: gang
 韓文: 강
-joyo_level: ""
-hsk_level: ""
+joyo_level: 高等
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 3156
 mc_id: 399
