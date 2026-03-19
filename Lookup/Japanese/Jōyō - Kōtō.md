@@ -103,28 +103,28 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1127. [[蓋]] : cover
 1128. [[該]] : above-stated
 1129. [[概]] : 	槪	outline
-1130. [[骸]] : dead remains
-1131. [[垣]] : hedge
-1132. [[柿]] : persimmon
-1133. [[核]] : nucleus
-1134. [[殻]] : 	殼	husk
-1135. [[郭]] : enclosure
-1136. [[較]] : contrast
-1137. [[隔]] : isolate
-1138. [[獲]] : seize
-1139. [[嚇]] : menacing
-1140. [[穫]] : harvest
-1141. [[岳]] : 	嶽	point
-1142. [[顎]] : jaw
-1143. [[掛]] : hang
-1144. [[括]] : fasten
-1145. [[喝]] : 	喝	hoarse
+1130. [骸](characters/骸.md) : dead remains
+1131. [垣 (char)](characters/垣%20(char).md) : hedge
+1132. [柿](characters/柿.md) : persimmon
+1133. [核 (char)](characters/核%20(char).md) : nucleus
+1134. [殻](characters/殻.md) : 	殼	husk
+1135. [郭 (char)](characters/郭%20(char).md) : enclosure
+1136. [較](characters/較.md) : contrast
+1137. [隔](characters/隔.md) : isolate
+1138. [獲](characters/獲.md) : seize
+1139. [嚇 (char)](characters/嚇%20(char).md) : menacing
+1140. [穫](characters/穫.md) : harvest
+1141. [岳](characters/岳.md) : 	嶽	point
+1142. [顎](characters/顎.md) : jaw
+1143. [掛 (char)](characters/掛%20(char).md) : hang
+1144. [括](characters/括.md) : fasten
+1145. [喝 (char)](characters/喝%20(char).md) : 	喝	hoarse
 1146. [渇 (char)](characters/渇%20(char).md) : 	渴	thirst
-1147. [[葛]] :  arrowroot
-1148. [[滑]] : slippery
-1149. [[褐]] : 	褐 brown
-1150. [[轄]] : control
-1151. [[且]] : moreover
+1147. [葛 (char)](characters/葛%20(char).md) :  arrowroot
+1148. [滑 (char)](characters/滑%20(char).md) : slippery
+1149. [褐 (char)](characters/褐%20(char).md) : 	褐 brown
+1150. [轄 (char)](characters/轄%20(char).md) : control
+1151. [且 (char)](characters/且%20(char).md) : moreover
 1152. [[釜]] : kettle
 1153. [[鎌]] : sickle
 1154. [[刈]] : reap
@@ -503,7 +503,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1526. [[剰]] : 	剩	surplus
 1527. [[畳]] : 	疊	tatami mat
 1528. [[壌]] : 	壤	lot
-1529. [[嬢]] : 	孃	lass
+1529. [嬢](characters/娘%20(char).md) : 	孃	lass
 1530. [[錠]] : lock
 1531. [[譲]] : 	讓	defer
 1532. [[醸]] : 	brew 
