@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - hang1
 korean:
-korean_native: ""
+  - 경
+korean_native: 줄기
 japanese:
   - KEI
   - KOU
@@ -22,9 +23,9 @@ english:
   - stalk
 羅馬字: king
 韓文: 킹
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6112
 mc_id: 2153
 graphemic_classification: 巠
@@ -35,9 +36,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 茎.
 >For the word, see [茎](words/茎.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

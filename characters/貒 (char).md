@@ -4,10 +4,12 @@ mandarin:
 cantonese:
   - teon1
 korean:
-korean_native: ""
+  - 단
+korean_native: 오소리
 japanese:
   - TAN
-japanese_nanori: ""
+japanese_nanori:
+  - まみ
 vietnamese:
 middle_chinese_initial: tʰ
 middle_chinese_final: uɑn
@@ -15,19 +17,21 @@ stroke_count: 16
 radical: 豸
 skip_number: 1-7-9
 grade_level: 名
-pos: ""
+pos: 名詞
 english:
   - wild boar
 羅馬字: twan
 韓文: 퇀
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level: 無
 danayo_id: 8391
 mc_id: 7387
 graphemic_classification: 耑
 stand_in: 貒
 aliases:
+  - 猯
+  - 䝎
 注音: ㄊˇㄚㄋ
 ---
 >[!tip] This is a page about the character 貒.

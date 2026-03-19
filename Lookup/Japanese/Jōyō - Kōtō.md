@@ -225,35 +225,35 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1249. [[菌]] : germ
 1250. [[琴]] : harp
 1251. [[僅]] :  a wee bit
-1252. [[緊]] : tense
-1253. [[錦]] : brocade
-1254. [[謹]] : 	謹 discreet
-1255. [[襟]] : collar
-1256. [[吟]] : versify
-1257. [[駆 (char)]] : 	驅	drive
-1258. [[惧]] : dread
-1259. [[愚]] : foolish
-1260. [[偶]] : accidentally
-1261. [[遇]] : interview
-1262. [[隅]] : corner
-1263. [[串]] : skewer
-1264. [[屈]] : yield
-1265. [[掘]] : dig
-1266. [[窟]] : cavern
-1267. [[繰]] : winding
-1268. [[勲]] : 	勳	meritorious deed
-1269. [[薫]] : 	薰	fragrant
-1270. [[刑]] : punish
-1271. [[茎]] : 	莖	stalk
-1272. [[契]] : pledge
-1273. [[恵]] : 	惠	favor
-1274. [[啓]] : disclose
-1275. [[掲]] : 	揭	put up (a notice)
-1276. [[渓]] : 	溪	mountain stream
-1277. [[蛍]] : 	螢	lightning-bug
-1278. [[傾]] : lean
-1279. [[携]] : portable
-1280. [[継]] : 	繼	inherit
+1252. [緊](characters/緊.md) : tense
+1253. [錦](characters/錦.md) : brocade
+1254. [謹](characters/謹.md) : 	謹 discreet
+1255. [襟](characters/襟.md) : collar
+1256. [吟](characters/吟.md) : versify
+1257. [駆 (char)](characters/駆%20(char).md) : 	驅	drive
+1258. [惧](characters/惧.md) : dread
+1259. [愚 (char)](characters/愚%20(char).md) : foolish
+1260. [偶](characters/偶.md) : accidentally
+1261. [遇 (char)](characters/遇%20(char).md) : interview
+1262. [隅 (char)](characters/隅%20(char).md) : corner
+1263. [串 (char)](characters/串%20(char).md) : skewer
+1264. [屈 (char)](characters/屈%20(char).md) : yield
+1265. [掘 (char)](characters/掘%20(char).md) : dig
+1266. [窟 (char)](characters/窟%20(char).md) : cavern
+1267. [繰 (char)](characters/繰%20(char).md) : winding
+1268. [勲 (char)](characters/勲%20(char).md) : 	勳	meritorious deed
+1269. [薫 (char)](characters/薫%20(char).md) : 	薰	fragrant
+1270. [刑](characters/刑.md) : punish
+1271. [茎 (char)](characters/茎%20(char).md) : 	莖	stalk
+1272. [契](characters/契.md) : pledge
+1273. [恵](characters/恵.md) : 	惠	favor
+1274. [啓](characters/啓.md) : disclose
+1275. [掲 (char)](characters/掲%20(char).md) : 	揭	put up (a notice)
+1276. [渓](characters/渓.md) : 	溪	mountain stream
+1277. [蛍 (char)](characters/蛍%20(char).md) : 	螢	lightning-bug
+1278. [傾](characters/傾.md) : lean
+1279. [携](characters/携.md) : portable
+1280. [継](characters/継.md) : 	繼	inherit
 1281. [詣 (char)](characters/詣%20(char).md) : visit a temple
 1282. [[慶]] : jubilation
 1283. [[憬]] : long for
