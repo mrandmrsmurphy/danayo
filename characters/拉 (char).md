@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - laai1
 korean:
-  - 납
+  - 랍
 korean_native: ""
 japanese:
   - RATSU
@@ -17,7 +17,7 @@ stroke_count: 8
 radical: 手
 skip_number: 1-3-5
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - drag
   - pull
@@ -26,7 +26,7 @@ english:
 韓文: 랍
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6324
 mc_id: 4449
 graphemic_classification: 立

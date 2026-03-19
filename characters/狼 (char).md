@@ -4,15 +4,15 @@ mandarin:
 cantonese:
   - long4
 korean:
-  - 낭
-korean_native: ""
+  - 랑
+korean_native: 이리
 japanese:
   - ROU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: ɑŋ
-stroke_count: "10"
+stroke_count: 10
 radical: 犬
 skip_number: 1-3-7
 grade_level: 名

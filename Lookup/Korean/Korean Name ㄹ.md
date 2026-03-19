@@ -7,7 +7,7 @@ All of these have been checked for redirects.
 [[珞]] [酪](characters/酪.md) [[烙]] [駱](characters/駱.md) [洛](characters/洛.md)
 
 ### 란
-[瀾](characters/乱.md) [[瓓]] [丹](characters/丹.md) [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md)
+[瀾](characters/乱.md) [[瓓]] 丹 done [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md)
 
 ### 랄
 [剌](characters/剌.md) [辣](characters/辣%20(char).md)

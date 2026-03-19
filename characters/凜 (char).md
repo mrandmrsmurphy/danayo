@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - lam5
 korean:
-  - 늠
+  - 름
 korean_native: ""
 japanese:
   - RIN
@@ -12,7 +12,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: iɪm
-stroke_count: "15"
+stroke_count: 15
 radical: 冫
 skip_number: 1-2-13
 grade_level: 先進

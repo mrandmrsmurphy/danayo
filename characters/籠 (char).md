@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - lung4
 korean:
-  - 농
+  - 롱
 korean_native: ""
 japanese:
   - ROU
@@ -12,10 +12,10 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: uŋ
-stroke_count: "22"
+stroke_count: 22
 radical: 竹
 skip_number: 2-6-16
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - basket

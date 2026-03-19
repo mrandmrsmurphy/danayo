@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - laam4
 korean:
-  - 남
+  - 람
 korean_native: ""
 japanese:
   - RAN
@@ -15,7 +15,7 @@ middle_chinese_final: ɑm
 stroke_count: 18
 radical: 艸
 skip_number: 2-3-15
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - indigo plant
