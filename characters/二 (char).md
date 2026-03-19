@@ -33,7 +33,7 @@ stand_in: 二
 aliases:
   - 弍
   - 𠄠
-date-last-perfect: 2026-01-30
+date-last-perfect: 2026-03-19
 注音: ㄋㄧ˙
 ---
 >[!warning] This is the character 二.  For the word 'two', use [[二]].  
@@ -42,8 +42,9 @@ date-last-perfect: 2026-01-30
 [[nav/char_info]]
 ```
 ### Notes
-- 指事: two parallel strokes. Compare with 一, one stroke meaning one, 三, three strokes meaning three, and 亖 (sǐ), four strokes meaning four. Duplication of 一 (“one”).
-- It is the only [SKIP-2-1-1](lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md)), [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
+- [List of 指事](lookup/List%20of%20指事.md): two parallel strokes. Compare with 一, one stroke meaning one, 三, three strokes meaning three, and 亖 (sǐ), four strokes meaning four. Duplication of 一 (“one”).
+- It is the only [SKIP-2-1-1](lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md)).  Pronounced [[ㄋㄧ˙]]
+- [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 ## Words
 - [[二]] - two
 - [[二十]] - twenty

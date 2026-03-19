@@ -1,42 +1,46 @@
+## 指事 by Stroke
+### 1 and 2
 1. <ruby>[一](/characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one
-2. <ruby>[乂](/characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern
-3. <ruby>[二 (char)](/characters/二%20(char).md)<rt>ㄋㄧ˙</rt></ruby> - two
-4. <ruby>[三 (char)](/characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
-5. <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four
-6. 八
-7. 半
-8. 分
-9. 刀
-10. 刃
-11. 十
-12. 世
-13. 百
-14. 上
-15. 下
-16. 本
-17. 末
-18. 大
-19. 天
-20. 夫
-21. 元
-22. 立
-23. 位
-24. 並
-25. 普
-26. 替
-27. 望
-28. 呈
-29. 程
-30. 聖
-31. 廷
-32. 庭
-33. 氏
-34. 底
-35. 低
-36. 邸
-37. 弟
-38. 第
-39. 姉
+2. <ruby>[乂](/characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern, originally "to cut with scissors"
+3. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧ˙</rt></ruby> - two
+4. <ruby>[八](/characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, originally 
+   "divide"
+5. <ruby>[十](/characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten
+### 3
+1. 刀
+2. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, originally "breathing"
+3. <ruby>[三](/characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
+4. 半
+5. 分
+6. 刃
+7. 世
+8. 百
+9. 上
+10. 下
+11. 本
+12. 末
+13. 大
+14. 天
+15. 夫
+16. 元
+17. 立
+18. 位
+19. 並
+20. 普
+21. 替
+22. 望
+23. 呈
+24. 程
+25. 聖
+26. 廷
+27. 庭
+28. 氏
+29. 底
+30. 低
+31. 邸
+32. 弟
+33. 第
+34. 姉
 
 ## Base check
 ```base
