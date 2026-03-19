@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - aak1
 korean:
-korean_native: ""
+  - 액
+korean_native: 멍에
 japanese:
   - AKU
   - YAKU
@@ -16,14 +17,14 @@ stroke_count: 11
 radical: 車
 skip_number: 1-7-4
 grade_level: 先進
-pos: ""
+pos: 名詞
 english:
   - yoke
 羅馬字: "'ag"
 韓文: 악
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level: 無
 danayo_id: 7516
 mc_id: 4283
 graphemic_classification: 厄

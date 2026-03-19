@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - naap6
 korean:
-korean_native: ""
+  - 납
+korean_native: 도롱뇽
 japanese:
   - NATSU
 japanese_nanori: ø
@@ -15,14 +16,14 @@ stroke_count: 15
 radical: 魚
 skip_number: 1-11-4
 grade_level: 名
-pos: ""
+pos: 名詞
 english:
   - giant salamander
 羅馬字: nub
 韓文: 눕
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level: 無
 danayo_id: 8375
 mc_id: 0
 graphemic_classification: 内

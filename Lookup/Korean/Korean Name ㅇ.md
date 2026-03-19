@@ -94,7 +94,7 @@ All have been checked for redirects.
 [[瑥]] [[媼]] [穩](characters/穏.md) [[瘟]] [[縕]] [[蘊]] [[𥠺]] [𥁕](characters/昷.md)   [𥁕](characters/昷.md) ([昷](characters/昷.md))
 
 ### 올 
-[兀](characters/兀.md) 
+[兀](characters/兀.md)  [腽](characters/腽.md)
 
 ### 옹 
 [雍](characters/雍.md) [壅](characters/壅%20(char).md) [[瓮]] [[甕]] [[癰]] [邕](characters/雍.md) [[饔]] 
