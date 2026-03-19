@@ -37,9 +37,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 暴.
 >For the word, see [暴](words/暴.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- <ruby>[暴飲暴食](/chengyu/暴飲暴食.md)<rt>ㄅㄛㄎ·ㄚㄇㄅㄛㄎㄙㄧㄎ</rt></ruby>

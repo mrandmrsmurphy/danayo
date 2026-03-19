@@ -40,3 +40,6 @@ aliases:
 ```
 
 # Notes
+
+## Chengyu
+- <ruby>[白頭偕老](/chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ˙ㄝㄎㄚˇ</rt></ruby>
