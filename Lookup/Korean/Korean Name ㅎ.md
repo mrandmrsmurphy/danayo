@@ -56,7 +56,7 @@ This have all be checked for redirects.
 [[孑]] [頁 (char)](characters/頁%20(char).md)
 
 ### 협
-[俠](characters/侠.md) [挾](characters/挟%20(char).md) [峽](characters/峡.md) [[浹]] [夾](characters/夹.md) [狹](characters/狭.md) [[莢]] [鋏 (char)](characters/鋏%20(char).md) [頰](characters/頬%20(char).md) [[冾]]
+[俠](characters/侠.md) [挾](characters/挟%20(char).md) [峽](characters/峡.md) [[浹]] [夾](characters/夹.md) [狹](characters/狭.md) [[莢]] [鋏 (char)](characters/鋏%20(char).md) [頰](characters/頬%20(char).md) [[冾]] [劦](characters/劦.md)
 
 ### 형
 [型](characters/型.md) [邢](characters/邢.md) [[珩]] [[泂]] [[炯]] 瑩-->瑛 [[瀅]] [馨](characters/馨.md) [[熒]] [[滎]] [[灐]] [荊](characters/荊.md) [[鎣]] [迥 (char)](characters/迥%20(char).md)

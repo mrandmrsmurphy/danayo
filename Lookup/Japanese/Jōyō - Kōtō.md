@@ -524,31 +524,31 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1547. [[振]] : shake
 1548. [[浸]] : immersed
 1549. [[紳]] : sire
-1550. [[診]] : checkup
-1551. [[寝]] : 	寢	lie down
-1552. [[慎]] : 	愼	humility
-1553. [[審]] : examine
-1554. [[震]] : quake
-1555. [[薪]] : fuel
-1556. [[刃]] : blade
-1557. [[尽]] : 	盡	exhaust
-1558. [[迅]] : swift
-1559. [[甚]] : tremendously
-1560. [[陣]] : camp
-1561. [[尋]] : inquire
-1562. [[腎]] : kidney
-1563. [[須]] : by all means
-1564. [[吹]] : blow
-1565. [[炊]] : cook
-1566. [[帥]] : commander
-1567. [[粋]] : 	粹	chic
-1568. [[衰]] : decline
-1569. [[酔]] : 	醉	drunk
-1570. [[遂]] : consummate
-1571. [[睡]] : drowsy
-1572. [[穂]] : 	ear
-1573. [[随]] : 	隨	follow
-1574. [[髄]] : 	髓	marrow
+1550. [診](characters/診.md) : checkup
+1551. [寝 (char)](characters/寝%20(char).md) : 	寢	lie down
+1552. [慎](characters/慎.md) : 	愼	humility
+1553. [審](characters/審.md) : examine
+1554. [震](characters/震.md) : quake
+1555. [薪](characters/薪.md) : fuel
+1556. [刃](characters/刃.md) : blade
+1557. [尽](characters/尽.md) : 	盡	exhaust
+1558. [迅](characters/迅.md) : swift
+1559. [甚](characters/甚.md) : tremendously
+1560. [陣](characters/陣.md) : camp
+1561. [尋 (char)](characters/尋%20(char).md) : inquire
+1562. [腎](characters/腎.md) : kidney
+1563. [須](characters/須.md) : by all means
+1564. [吹 (char)](characters/吹%20(char).md) : blow
+1565. [炊 (char)](characters/炊%20(char).md) : cook
+1566. [帥](characters/帥.md) : commander
+1567. [粋](characters/粋.md) : 	粹	chic
+1568. [衰](characters/衰.md) : decline
+1569. [酔 (char)](characters/酔%20(char).md) : 	醉	drunk
+1570. [遂](characters/遂.md) : consummate
+1571. [睡](characters/睡.md) : drowsy
+1572. [穂 (char)](characters/穂%20(char).md) : 	ear
+1573. [随](characters/随.md) : 	隨	follow
+1574. [髄](characters/髄.md) : 	髓	marrow
 1575. [枢 (char)](characters/枢%20(char).md) : 	樞	hinge
 1576. [[崇]] : adore
 1577. [[拠|据]] : set

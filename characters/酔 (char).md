@@ -4,25 +4,27 @@ mandarin:
 cantonese:
   - zeoi3
 korean:
-korean_native: ""
+  - 취
+korean_native: 취할
 japanese:
   - SUI
 japanese_nanori: ""
 vietnamese:
+  - túy, xúy
 middle_chinese_initial: t͡s
 middle_chinese_final: iuɪ
 stroke_count: 11
 radical: 酉
 skip_number: 1-7-4
-grade_level: 5
-pos: ""
+grade_level: "5"
+pos: 事詞
 english:
   - drink
 羅馬字: jui
 韓文: 쥐
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 5283
 mc_id: 1600
 graphemic_classification: 卒

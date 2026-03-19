@@ -4,7 +4,8 @@ mandarin:
 cantonese:
   - kit3
 korean:
-korean_native: ""
+  - 게
+korean_native: 높이들
 japanese:
   - KEI
   - KETSU
@@ -12,20 +13,20 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɣiᴇt
-stroke_count: "11"
+stroke_count: 11
 radical: 手
 skip_number: 1-3-8
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 事詞
 english:
   - set up
   - install
   - put up
 羅馬字: ked
 韓文: 컫
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6251
 mc_id: 2472
 graphemic_classification: 喝
