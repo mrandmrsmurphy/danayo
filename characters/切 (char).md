@@ -4,7 +4,7 @@ mandarin:
 cantonese:
   - cit3
 korean:
-  - 절
+  - 체
 korean_native: ""
 japanese:
   - SETSU
@@ -17,7 +17,7 @@ stroke_count: 4
 radical: 刀
 skip_number: 1-2-2
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - cut
   - mince

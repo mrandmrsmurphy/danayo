@@ -37,7 +37,7 @@ All have been checked for redirects.
 [[葯]] [[蒻]]
 
 ### 양 
-[襄](characters/㐮.md) [孃](characters/娘%20(char).md) [[漾]] [佯](characters/羊.md) [[恙]] [攘](characters/㐮.md) [[暘]] [[瀁]] [[煬]] [痒](characters/瘍.md) [瘍](characters/瘍.md) [[禳]] [穰](characters/穣%20(char).md) [釀](characters/醸.md) [椋](characters/椋.md)
+[襄](characters/㐮.md) 孃 --> 娘 [[漾]] [佯](characters/羊.md) [[恙]] [攘](characters/㐮.md) [[暘]] [[瀁]] [[煬]] [痒](characters/瘍.md) [瘍](characters/瘍.md) [[禳]] [穰](characters/穣%20(char).md) [釀](characters/醸.md) 
 
 ### 어 
 [圄](characters/圄.md) [[瘀]] [禦](characters/御.md) [馭](characters/馭.md) [[齬]] [[唹]]
@@ -70,7 +70,7 @@ All have been checked for redirects.
 [衍](characters/延.md) [淵](characters/淵.md) [[姸]] [[娟]] [[涓]] [[沇]] [[筵]] [[瑌]] [[娫]] [[嚥]] [[堧]] [[捐]] [[挻]] [[椽]] [[涎]] [[縯]] [鳶](characters/鳶%20(char).md) [硯](characters/硯.md) [[曣]] [[㜣]] [[醼]] [[兗]] [[嬿]] [[莚]] [[瓀]] [[兗]] ([[兖]]) [[娟]] ([[姢]])  [硯](characters/硯.md) ([䂩](characters/硯.md))
 
 ### 열 
-[說](characters/説.md) [咽](characters/咽.md) [[潱]] 
+說 --> 説 [咽](characters/咽.md) [[潱]] 
 
 ### 염 
 [琰](characters/炎.md) [艶](characters/艶%20(char).md) [厭](characters/嫌.md) [焰](characters/焰.md) [[苒]] [閻](characters/閻%20(char).md) [[髥]]
@@ -103,7 +103,7 @@ All have been checked for redirects.
 [渦](characters/渦.md) [窩](characters/窩.md) [窪](characters/窪.md) [蛙](characters/蛙.md) [蝸](characters/蝸.md) [訛](characters/訛.md)
 
 ### 완 
-[玩](characters/玩.md) [[垸]] [浣](characters/浣.md) [莞](characters/玩.md) [[琓]] [[琬]] [[婠]] [婉](characters/婉.md) [宛](characters/宛.md) [[梡]] [[椀]] [碗](characters/碗%20(char).md) [翫](characters/翫.md) [[脘]] [腕](characters/腕%20(char).md) [[豌]] [阮](characters/阮.md) [頑](characters/頑.md) [[妧]] [[岏]] [[鋺]] 
+[玩](characters/玩.md) [[垸]] 浣 (done) [莞](characters/玩.md) [[琓]] [[琬]] [[婠]] [婉](characters/婉.md) [宛](characters/宛.md) [[梡]] [[椀]] [碗](characters/碗%20(char).md) [翫](characters/翫.md) [[脘]] [腕](characters/腕%20(char).md) [[豌]] [阮](characters/阮.md) [頑](characters/頑.md) [[妧]] [[岏]] [[鋺]] 
 
 ### 왕 
 [旺](characters/旺.md) [汪](characters/汪.md) [枉](characters/枉.md) 
@@ -115,7 +115,7 @@ All have been checked for redirects.
 [[嵬]] [[巍]] [[猥]] 
 
 ### 요 
-[夭](characters/夭.md) [堯](characters/尭.md) [[饒]] [曜](characters/曜.md) [[耀]] [[瑤]] [樂](characters/楽.md) [姚](characters/姚.md) [[僥]] [凹](characters/凹%20(char).md) [妖](characters/妖.md) [[嶢]] [[拗]] [擾](characters/擾.md) [[橈]] [[燿]] [窈](characters/窈.md) [窯](characters/窯%20(char).md) [[繇]] [繞](characters/繞%20(char).md) [[蟯]] [[邀]] [[暚]] 
+[夭](characters/夭.md) [堯](characters/尭.md) [[饒]] [曜](characters/曜.md) [[耀]] [[瑤]] 樂 --> 楽 [姚](characters/姚.md) [[僥]] [凹](characters/凹%20(char).md) [妖](characters/妖.md) [[嶢]] [[拗]] [擾](characters/擾.md) [[橈]] [[燿]] [窈](characters/窈.md) [窯](characters/窯%20(char).md) [[繇]] [繞](characters/繞%20(char).md) [[蟯]] [[邀]] [[暚]] 
 
 ### 욕 
 [[縟]] [[褥]] 

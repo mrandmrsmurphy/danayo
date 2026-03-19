@@ -7,7 +7,6 @@ korean:
   - 낭
 korean_native: ""
 japanese:
-  - JOU
   - NYOU
 japanese_nanori: ""
 vietnamese:
@@ -17,7 +16,7 @@ stroke_count: 10
 radical: 女
 skip_number: 1-3-7
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - young woman
 羅馬字: nang

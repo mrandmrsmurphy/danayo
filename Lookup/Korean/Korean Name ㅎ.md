@@ -18,10 +18,10 @@ This have all be checked for redirects.
 [函](characters/函.md) [[涵]] [艦](characters/艦.md) [喊](characters/喊.md) [[檻]] [[緘]] [[銜]] [鹹](characters/咸.md) [[菡]] || [[銜]] ([[啣]])
 
 ### 합
-[哈](characters/呵.md) [盒](characters/盒.md) [蛤](characters/蛤.md) [閤](characters/合%20(char).md) [[闔]] [陜](characters/陝.md)
+[哈](characters/呵.md) [盒](characters/盒.md) [蛤](characters/蛤.md) [閤](characters/合%20(char).md) [[闔]] 陜 (done)
 
 ### 항
-[亢](characters/亢.md) [[沆]] [[姮]] [伉](characters/亢.md) [[杭]] [桁 (char)](characters/桁%20(char).md) [缸](characters/缸.md) [肛](characters/肛.md) [行 (char)](characters/行%20(char).md) [降](characters/降.md) || [[姮]] ([[嫦]])
+[亢](characters/亢.md) [[沆]] [[姮]] [伉](characters/亢.md) [[杭]] [桁 (char)](characters/桁%20(char).md) [缸](characters/缸.md) [肛](characters/肛.md) [行 (char)](characters/行%20(char).md) 降 (done) || [[姮]] ([[嫦]])
 
 ### 해
 [偕](characters/偕.md) [楷 (char)](characters/楷%20(char).md) [諧](characters/諧.md) [咳](characters/咳.md) [垓](characters/垓.md) [孩](characters/孩.md) [[懈]] [[瀣]] [蟹 (char)](characters/蟹%20(char).md) [[邂]] [駭](characters/亥.md) [骸](characters/骸.md) [[咍]] [[瑎]] 

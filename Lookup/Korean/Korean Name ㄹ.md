@@ -25,7 +25,7 @@ All of these have been checked for redirects.
 [[崍]] [萊](characters/莱.md) [[徠]] 
 
 ### 량 
-[亮](characters/瞭.md) [[倆]] [樑](characters/梁%20(char).md) [[粱]] [輛](characters/両%20(char).md)
+[亮](characters/瞭.md) [[倆]] [樑](characters/梁%20(char).md) [[粱]] [輛](characters/両%20(char).md) [椋](characters/椋.md)
 
 ### 려 
 [呂](characters/呂.md) [侶](characters/侶.md) [[閭]] [黎](characters/黎.md) [[儷]] [廬](characters/廬.md) [戾](characters/戻.md) [[櫚]] [[濾]] [[礪]] [[藜]] [蠣](characters/厉%20(char).md) [驢](characters/馿%20(char).md) 驪 --> 麗

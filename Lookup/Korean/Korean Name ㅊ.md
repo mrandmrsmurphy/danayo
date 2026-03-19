@@ -28,7 +28,7 @@ These have all bee checked to see which are redirects
 [凄](characters/凄.md) [悽](characters/凄.md)
 
 ### 척  
-[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [[滌]] [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) [隻](characters/只%20(char).md) [[墌]] [慼](characters/慼.md)
+[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [[滌]] [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) 隻 --> 只 [[墌]] [慼](characters/慼.md)
 
 ### 천 
 [[仟]] [[阡]] [喘](characters/喘.md) [擅](characters/擅.md) [玔](characters/釧.md) [穿](characters/穿%20(char).md) [舛](characters/舛.md) [釧](characters/釧.md) [[闡]] [韆](characters/千.md) [[茜]]
@@ -82,7 +82,7 @@ These have all bee checked to see which are redirects
 [[珫]] [沖](characters/沖.md) [衷](characters/衷.md) 
 
 ### 췌 
-[[萃]] [[悴]] [膵](characters/胰.md) [[贅]]
+[[萃]] [[悴]] 膵 --> 胰 [[贅]]
 
 ### 취 
 [翠](characters/翠.md) [聚](characters/聚.md) [嘴](characters/嘴.md) [娶](characters/娶.md) [炊](characters/炊%20(char).md) [脆](characters/脆.md) [[驟]] [鷲](characters/就%20(char).md) 
