@@ -3,23 +3,23 @@ size: 15
 skip_number: 4-3-1
 stroke_count: 3
 ---
-> [[SKIP]] : 4 : [[SKIP-4-3|3]] : [[SKIP-4-0-1]]
-> [[Stroke 03]]
+> SKIP : 4 : [3](lookup/SKIP/SKIP-4/SKIP-4-3.md) : [[SKIP-4-0-1]]
+> [Stroke 03](lookup/Stroke/Stroke%2003.md)
 
 ## Characters
 1. [[夕]]	
-2. <ruby>[[于 (char)]]<rt>우</rt></ruby>
+2. <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>
 3. [[兀]]
 4. [[弓]]
 5. [[己]]	
-6. <ruby>[[口 (char)]]<rt>콧</rt></ruby>
+6. <ruby>[[口 (char)]]<rt>ㄎㄛˇ</rt></ruby>
 7. [[工]]
-8. <ruby>[[下 (char)]]<rt>하</rt></ruby>
+8. <ruby>[[下 (char)]]<rt>ㄏㄚ</rt></ruby>
 9. [[叉]]	
-10. <ruby>[[已 (char)]]<rt>이</rt></ruby>
-11. <ruby>[[子]]<rt>지</rt></ruby>
+10. <ruby>[[已 (char)]]<rt>ㄧ</rt></ruby>
+11. <ruby>[[子]]<rt>ㄐㄧ</rt></ruby>
 12. [[巳]]
-13. <ruby>[[干]]<rt>간</rt></ruby>
+13. <ruby>[[干]]<rt>ㄍㄚㄋ</rt></ruby>
 14. [[久]]
 15. [[及]]
 ### Aliases
