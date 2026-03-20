@@ -15,7 +15,7 @@ While many elements have common names across the region, it is necessary to inve
 |2|<ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby>|<ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby>|<ruby>[硼素](/words/硼素.md)<rt>ㄅㄛㄥㄙㄛ</rt></ruby>|<ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby>|<ruby>[窒素](/words/窒素.md)<rt>ㄉㄝㄊㄙㄛ</rt></ruby>|<ruby>[養素](/words/養素.md)<rt>˙ㄚㄥㄙㄛ</rt></ruby>|<ruby>[弗素](/words/弗素.md)<rt>ㄆㄨㄊㄙㄛ</rt></ruby>|<ruby>[霓虹素](/words/霓虹素.md)<rt>ㄝ˙ㄏㄛㄥㄙㄛ</rt></ruby>|
 |3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ˙ㄨㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ˙ㄨㄏˇㄚㄥ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>˙ㄝㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉˇㄚㄙㄛ</rt></ruby>|
 |4|[[鉀]]|[[石灰素]] | [[高素]]|[[徳素]] | [[砒素]] |[[月素]] |[[臭素]] |[[潜素]] |
-|5|茜素| 火紅素 | 紫素 |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| 墨素 | Te | 沃素 | 奇素
+|5|茜素| 火紅素 | 紫素 |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| 墨素 | 土素 | 沃素 | 奇素
 |6|Cs |Ba | Tl |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| Bi | Po | At | Rn
 
 <!--1: kingso, nitso //-->
@@ -31,14 +31,14 @@ While many elements have common names across the region, it is necessary to inve
 |6| La | Hf | Ta | W | Re | Os | Ir | [[白金]] | <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 |7| Ac | [[鈩金]] | Db | Sg | Bh | Hs | Mt | Ds | [[錀]] | Cn 
 
-<!--4: . gyogim, vangim
+<!--4: . gyogim, vangim //-->
 La's
 
 Ac's
 
-| 90 | 91 | 92 | 93 | 94 |
-|----|---|---|---|---|
-| Th | Pa |<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>| [[海金]] | [[冥金]]
+| 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 
+|----|---|---|---|---|---|---|-----|-----|----|---|
+| Th | Pa |<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|[[海金]]|[[冥金]]|美洲金|Bk|Cf|愛因金|費米金|門捷金|諾貝金
 
 
 111 leads to the name [[錀琴]] for röntgens
