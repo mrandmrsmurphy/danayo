@@ -785,7 +785,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[臭素]] in [[lexipedia/Periodic Table]]
 - [[潜素]] in [[lexipedia/Periodic Table]]
 - [[康金]] in [[lexipedia/Periodic Table]]
-- [[釩 (char)]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㅂ]]
+- [[characters/釩 (char)]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㅂ]]
 - [[色金]] in [[lexipedia/Periodic Table]]
 - [[孟金]] in [[lexipedia/Periodic Table]]
 - [[鬼金]] in [[lexipedia/Periodic Table]]
