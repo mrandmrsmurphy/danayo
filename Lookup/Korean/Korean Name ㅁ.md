@@ -1,3 +1,4 @@
+These have been checked for redirects.
 ### 마
 [瑪](characters/馬%20(char).md) [[痲]] [碼](characters/馬%20(char).md) [媽](characters/媽.md)
 
@@ -47,28 +48,28 @@
 [[歿]]
 
 ### 몽 
-[[朦]]
+[朦](characters/蒙.md)
 
 ### 묘 
-[[描]] [[錨]] [[畝]] [[昴]] [[杳]] [[渺]] [[猫]]
+[描](characters/描.md) [[錨]] anchor [畝 (char)](characters/畝%20(char).md) [昴](characters/昴.md) [[杳]] [[渺]] [猫 (char)](characters/猫%20(char).md)
 
 ### 무 
-[[拇]] [[珷]] [[撫]] [[懋]] [[巫]] [[憮]] [[楙]] [[毋]] [[繆]] [[蕪]] [[誣]] [[鵡]] [[橅]] 
+[拇](characters/母.md) [[珷]] [撫](characters/撫.md) [[懋]] [巫](characters/巫.md) [憮](characters/無%20(char).md) [[楙]] [毋](characters/母.md) [繆](characters/謬.md) [蕪](characters/蕪.md) [誣](characters/誣.md) [鵡](characters/鵡.md) [[橅]] 
 
 ### 문 
-[[汶]] [[炆]] [[紋]] [[們]] [[刎]] [[吻]] [[紊]] [[蚊]] [[雯]] [[抆]]
+[汶](characters/文.md) [[炆]] [紋 (char)](characters/紋%20(char).md) !們! [[刎]] [吻](characters/吻.md) [[紊]] [蚊 (char)](characters/蚊%20(char).md) [[雯]] [[抆]]
 
 ### 물 
-[[沕]] 
+[[沕]]
 
 ### 미 
-[[渼]] [[薇]] [[彌]] [[嵄]] [[媄]] [[媚]] [[嵋]] [[梶]] [[楣]] [[湄]] [[謎]] [[靡]] [[黴]] [[躾]] [[媺]] [[濔]] [[煝]] [[娓]] [[洣]] [[侎]] [[瑂]]  
+[[渼]] [薇](characters/薇.md) [彌](characters/弥%20(char).md) [[嵄]] [[媄]] [媚](characters/眉%20(char).md) [嵋](characters/眉%20(char).md) [梶](characters/梶.md) [[楣]] [[湄]] [謎 (char)](characters/謎%20(char).md) [靡](characters/靡.md) [[黴]] [[躾]] [[媺]] [[濔]] [[煝]] [[娓]] [[洣]] [[侎]] [[瑂]]  
 
 ### 민 
-[[玟]] [[旻]] [[旼]] [[閔]] [[珉]] [[岷]] [[忞]] [[慜]] [[敃]] [[愍]] [[潣]] [[暋]] [[䪸]] [[泯]] [[悶]] [[緡]] [[𩔉]] [[鍲]] [[脗]] [[閩]] [[盿]]
+[[玟]] [旻](characters/旻.md) [旼](characters/旻.md) [閔](characters/閔.md) [珉](characters/珉.md) [[岷]] [[忞]] [[慜]] [[敃]] [[愍]] [[潣]] [暋](characters/暋.md) [[䪸]] [[泯]] [悶](characters/悶.md) [[緡]] [[𩔉]] [[鍲]] [[脗]] [[閩]] [[盿]]
 
 ### 밀 
-[[謐]]
+[謐](characters/謐.md)
 
 ## Datacheck
 ```dataviewjs

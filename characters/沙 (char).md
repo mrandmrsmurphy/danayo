@@ -34,6 +34,8 @@ stand_in: 沙
 aliases:
   - 裟
   - 砂
+  - 娑
+  - 䓾
 注音: ㄙㄚ
 ---
 >[!tip] This is a page about the character 沙.

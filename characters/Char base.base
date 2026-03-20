@@ -17,9 +17,9 @@ views:
       - grade_level
       - graphemic_classification
     sort:
-      - property: graphemic_classification
-        direction: ASC
       - property: joyo_level
+        direction: DESC
+      - property: graphemic_classification
         direction: ASC
       - property: grade_level
         direction: DESC

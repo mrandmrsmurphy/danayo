@@ -1,6 +1,6 @@
 
 ### 사  
-[[泗]] [[砂]] [[糸]] [[紗]] [[娑]] [[徙]] [[奢]] [[嗣]] [[赦]] [[乍]] [[些]] [[伺]] [[俟]] [[僿]] [[唆]] [[柶]] [[梭]] [[渣]] [[瀉]] [[獅]] [[祠]] [[肆]] [[莎]] [[蓑]] [[裟]] [[飼]] [[駟]] [[麝]] [[篩]] 
+[[泗]] [砂](characters/沙%20(char).md) [糸](characters/糸.md) [紗](characters/紗.md) [娑](characters/沙%20(char).md) [徙](characters/徙.md) [奢](characters/奢.md) [嗣](characters/嗣.md) [赦](characters/赦.md) [乍](characters/乍.md) [些](characters/些.md) [伺](characters/伺.md) [[俟]] [[僿]] [唆](characters/唆.md) [[柶]] [[梭]] [渣 (char)](characters/渣%20(char).md) [[瀉]] [獅](characters/獅.md) [祠](characters/祠.md) [肆](characters/肆.md) [[莎]] [[蓑]] [裟](characters/沙%20(char).md) [飼](characters/飼.md) [[駟]] [麝香](words/射香.md) [[篩]] 
 
 ### 삭  
 [[數]] [[索]] [[爍]] [[鑠]] 
