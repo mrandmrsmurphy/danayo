@@ -17,6 +17,8 @@ views:
       - grade_level
       - graphemic_classification
     sort:
+      - property: formula.score
+        direction: DESC
       - property: joyo_level
         direction: DESC
       - property: graphemic_classification
@@ -33,8 +35,6 @@ views:
         direction: ASC
       - property: middle_chinese_initial
         direction: DESC
-      - property: formula.score
-        direction: ASC
       - property: skip_number
         direction: DESC
       - property: english

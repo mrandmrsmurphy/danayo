@@ -8,19 +8,7 @@ size: 78
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.skip_number === "1-3-9")
-// or stricter: .where(p => p["your_property"] === "value"
-// or for numbers/strings/etc: adjust comparison as needed
-
-const titles = pages
-  .map(p => p.file.name)
-  .sort()
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-```
+卿 (char), 啼, 喀, 喇, 喉, 喊, 喋 (char), 喘, 喚 (char), 喧, 喩, 喫 (char), 堤, 堪 (char), 堰, 場, 塔 (char), 塚 (char), 婿 (char), 媒, [[媛]], 富, 帽, 幅, 弼, 弾, 御, 徨, 復, 循 (char), 惰, 愉, 慌, 揀, 揄, 提, 揖, 揚 (char), 換 (char), 握, 揮, 援, 揶, 揺 (char), 搭, 淵, 減, 渡 (char), 渣 (char), 渥, 渦, 温, 測, 港, 湆, 湊, 湖, 湘, 湛, 湧 (char), 湯 (char), 湾, 湿 (char), 満 (char), 滋, 猩, 猲, 猶 (char), 粥 (char), 街, 陽 (char), 隅 (char), 隊 (char), 階, 随, 項 (char), 須, 飧
 
 ## Datacheck
 ```dataview
