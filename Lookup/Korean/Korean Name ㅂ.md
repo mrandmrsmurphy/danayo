@@ -25,7 +25,7 @@ These have all been checked for redirects.
  [閥](characters/閥.md) [[筏]]
 
 ### 범 
- [帆 (char)](characters/帆%20(char).md) [[杋]] [氾](characters/氾.md) [范](characters/範.md) [[梵]] [泛](characters/泛.md) [汎 (char)](characters/汎%20(char).md) [[釩]] [渢](characters/風%20(char).md)
+ [帆 (char)](characters/帆%20(char).md) [[杋]] [氾](characters/氾.md) [范](characters/範.md) [[梵]] [泛](characters/泛.md) [汎 (char)](characters/汎%20(char).md) [[釩 (char)]] [渢](characters/風%20(char).md)
 
 ### 법 
  [琺](characters/琺.md)

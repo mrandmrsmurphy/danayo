@@ -4,7 +4,7 @@ language: English
 
 - gold : <ruby>[黄金](words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby>
 - iron: <ruby>[[鉄]]<rt>ㄊㄝㄊ</rt></ruby>
-- lead : <ruby>[[鉛]]<rt>˙ㄝㄇ</rt></ruby>
+- lead : <ruby>[[words/鉛]]<rt>˙ㄝㄇ</rt></ruby>
 - metal : <ruby>[[金属]]<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby>
 - silver : <ruby>[[銀]]<rt>ㄧㄋ</rt></ruby>
 - steel : <ruby>鋼鉄<rt>ㄍㄚㄥㄊㄝㄊ</rt></ruby>
