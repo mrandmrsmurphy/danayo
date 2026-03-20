@@ -31,6 +31,7 @@ mc_id: 110
 graphemic_classification: 象形
 stand_in: 食
 aliases:
+  - 蝕
 注音: ㄙㄧㄎ
 ---
 >[!tip] This is a page about the character 食.
