@@ -42,5 +42,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- <ruby>[巻耳](/words/巻耳.md)<rt>ㄍˇㄝㄋㄋㄧ</rt></ruby>

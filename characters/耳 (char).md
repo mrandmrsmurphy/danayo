@@ -36,8 +36,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 耳.
 >For the word, see [耳](words/耳.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
+- <ruby>[巻耳](/words/巻耳.md)<rt>ㄍˇㄝㄋㄋㄧ</rt></ruby>
