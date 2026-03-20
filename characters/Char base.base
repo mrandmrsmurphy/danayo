@@ -15,6 +15,8 @@ views:
       - grade_level
       - danayo_id
     sort:
+      - property: danayo_id
+        direction: ASC
       - property: hsk_level
         direction: ASC
       - property: formula.score
@@ -46,8 +48,6 @@ views:
       - property: stroke_count
         direction: DESC
       - property: radical
-        direction: ASC
-      - property: danayo_id
         direction: ASC
       - property: pos
         direction: DESC
