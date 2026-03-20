@@ -231,26 +231,26 @@ size: 250
 228. <ruby>[新](characters/新%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> - new	228	
 229. <ruby>[圓](characters/圓%20(char).md)<rt>ˇㄝㄋ</rt></ruby> - circle, round	229	
 230. <ruby>[話](characters/話%20(char).md)<rt>ㄏˇㄚ˙</rt></ruby> - speak on, talk about	230	
-231. <ruby>[[漢]]<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese)	231	
-232. <ruby>[[路]]<rt>ㄌㄛ</rt></ruby> - road, path, journey	232	
-233. <ruby>[[電]]<rt>ㄉㄝㄋ</rt></ruby> - electricity	233	
-234. <ruby>[[想]]<rt>ㄙㄚㄥ</rt></ruby> - thought, concept	234	
-235. <ruby>[[数]]<rt>ㄙㄨ</rt></ruby> - count, number	235	
-236. <ruby>[[業 (char)]]<rt>ㄝㄆ</rt></ruby> - profession, business	236	
-237. <ruby>[[農]]<rt>ㄋㄛㄥ</rt></ruby> - farming	237	
-238. <ruby>[[意]]<rt>ㄧ</rt></ruby> - significance, meaning
-239. <ruby>[[遠 (char)]]<rt>ㄛㄋ</rt></ruby> - far
-240. <ruby>[[頗 (char)]]<rt>ㄆㄚㄊ</rt></ruby> - very
-241. <ruby>[[算 (char)]]<rt>ㄙˇㄚㄋ</rt></ruby> - calculate
-242. <ruby>[[語]]<rt>˙ㄛ</rt></ruby> - language
-243. <ruby>[[歌]]<rt>ㄍㄚ</rt></ruby> - song
-244. <ruby>[[読]]<rt>ㄉㄛㄎ</rt></ruby> - read
-245. <ruby>[[緑 (char)]]<rt>ㄌㄛㄎ</rt></ruby> - green
-246. <ruby>[[談]]<rt>ㄉㄚㄇ</rt></ruby> - discuss
-247. <ruby>[[橋 (char)]]<rt>ㄍ˙ㄚˇ</rt></ruby> - bridge, beam
-248. <ruby>[[頭 (char)]]<rt>ㄊㄛˇ</rt></ruby> - head
-249. <ruby>[[薬 (char)]]<rt>˙ㄚㄎ</rt></ruby> - drug, medicine, chemical
-250. <ruby>[[顔]]<rt>ㄚㄋ</rt></ruby> - face, reputation
+231. <ruby>[漢](characters/漢.md)<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese)	231	
+232. <ruby>[路](characters/路.md)<rt>ㄌㄛ</rt></ruby> - road, path, journey	232	
+233. <ruby>[電](characters/電.md)<rt>ㄉㄝㄋ</rt></ruby> - electricity	233	
+234. <ruby>[想](characters/想.md)<rt>ㄙㄚㄥ</rt></ruby> - thought, concept	234	
+235. <ruby>[数](characters/数.md)<rt>ㄙㄨ</rt></ruby> - count, number	235	
+236. <ruby>[業](characters/業%20(char).md)<rt>ㄝㄆ</rt></ruby> - profession, business	236	
+237. <ruby>[農](characters/農.md)<rt>ㄋㄛㄥ</rt></ruby> - farming	237	
+238. <ruby>[意](characters/意.md)<rt>ㄧ</rt></ruby> - significance, meaning
+239. <ruby>[遠](characters/遠%20(char).md)<rt>ㄛㄋ</rt></ruby> - far
+240. <ruby>[頗](characters/頗%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> - very
+241. <ruby>[算](characters/算%20(char).md)<rt>ㄙˇㄚㄋ</rt></ruby> - calculate
+242. <ruby>[語](characters/語.md)<rt>˙ㄛ</rt></ruby> - language
+243. <ruby>[歌](characters/歌.md)<rt>ㄍㄚ</rt></ruby> - song
+244. <ruby>[読](characters/読.md)<rt>ㄉㄛㄎ</rt></ruby> - read
+245. <ruby>[緑](characters/緑%20(char).md)<rt>ㄌㄛㄎ</rt></ruby> - green
+246. <ruby>[談](characters/談.md)<rt>ㄉㄚㄇ</rt></ruby> - discuss
+247. <ruby>[橋](characters/橋%20(char).md)<rt>ㄍ˙ㄚˇ</rt></ruby> - bridge, beam
+248. <ruby>[頭](characters/頭%20(char).md)<rt>ㄊㄛˇ</rt></ruby> - head
+249. <ruby>[薬](characters/薬%20(char).md)<rt>˙ㄚㄎ</rt></ruby> - drug, medicine, chemical
+250. <ruby>[顔](characters/顔.md)<rt>ㄚㄋ</rt></ruby> - face, reputation
 
 ## Base check
 ```base
@@ -275,13 +275,11 @@ views:
       - 注音
       - english
       - danayo_id
-      - hanmun_edu_level
-      - hsk_level
-      - joyo_level
       - formula.spot
+      - date-last-perfect
     sort:
       - property: formula.spot
-        direction: ASC
+        direction: DESC
       - property: joyo_level
         direction: ASC
       - property: hanmun_edu_level

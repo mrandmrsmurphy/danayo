@@ -27,7 +27,10 @@ views:
       - english
       - graphemic_classification
       - stand_in
+      - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: stand_in
         direction: ASC
       - property: formula.spot
