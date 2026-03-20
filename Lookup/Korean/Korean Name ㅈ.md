@@ -1,41 +1,42 @@
+
 ## ㅏ
 
 ### 자
-[[滋]] [[磁]] [[藉]] [[瓷]] [[咨]] [[孜]] [[炙]] [[煮]] [[疵]] [[茨]] [[蔗]] [[諮]] [[雌]] [[秄]] 
+[滋](characters/滋.md) [磁](characters/磁.md) [藉](characters/借%20(char).md) [[瓷]] [咨](characters/諮.md) [[孜]] [[炙]] [煮](characters/煮.md) [[疵]] [茨](characters/茨.md) [[蔗]] [諮](characters/諮.md) [雌](characters/雌.md) [[秄]] 
 
 ### 작
-[[灼]] [[芍]] [[雀]] [[鵲]] [[勺]] 嚼-->爵 [[斫]] [[炸]] [[綽]] [[舃]]
+[灼](characters/灼.md) [[芍]] [雀](characters/雀.md) [[鵲]] [勺 (char)](characters/勺%20(char).md) 嚼-->爵 [[斫]] [炸](characters/炸.md) [綽](characters/綽.md) [[舃]]
 
 ### 잔
-[[孱]] [[棧]] [[潺]] [[盞]]
+[[孱]] [棧](characters/桟.md) [[潺]] [盞](characters/盞.md)
 
 ### 잠
-[[箴]] [[岑]] [[簪]] [[蠶]] 
+[[箴]] [[岑]] [簪](characters/鈿.md) [蠶](characters/蚕%20(char).md) 
 
 ### 장
-[[匠]] [[杖]] [[奘]] [[漳]] [[樟]] [[璋]] [[暲]] [[薔]] [[蔣]] [[仗]] [[檣]] ~~欌~~ [[漿]] [[狀]] [[獐]] [[臧]] [[贓]] [[醬]] 
+[匠](characters/匠.md) [杖 (char)](characters/杖%20(char).md) [[奘]] [[漳]] [樟](characters/樟.md) [[璋]] [[暲]] [薔](characters/薔.md) [蔣](characters/蒋.md) [仗](characters/仗.md) [[檣]] !欌! [漿](characters/将%20(char).md) [狀](characters/状.md) [[獐]] [臧](characters/臓.md) [[贓]] [醬](characters/醤.md) 
 
 ## ㅐ
 
 ### 재
-[[梓]] [[縡]] [齋](characters/斎.md) [[渽]] [[滓]] [[齎]] [[捚]] [[賳]] 
+[梓](characters/梓.md) [[縡]] [齋](characters/斎.md) [[渽]] [[滓]] [齎](characters/斉.md) [[捚]] [[賳]] 
 
 ### 쟁
-[[錚]] [[箏]] [[諍]] 
+[[錚]] [箏](characters/箏.md) [[諍]] 
 
 ## ㅓ
 
 ### 저
-[[苧]] [[邸]] [[楮]] [[沮]] [[佇]] [[儲]] [[咀]] [[姐]] [[杵]] [[樗]] [[渚]] [[狙]] [[猪]] [[疽]] [[箸]] [[紵]] [[菹]] [[藷]] [[詛]] [[躇]] [[這]] [[雎]] [[齟]] 
+[[苧]] [邸](characters/邸.md) [[楮]] [沮](characters/祖.md) [佇](characters/佇.md) [儲](characters/儲.md) [[咀]] [姐](characters/姉%20(char).md) [[杵]] [[樗]] [渚](characters/渚.md) [狙](characters/狙.md) [猪](characters/猪.md) [疽](characters/疽.md) [箸 (char)](characters/箸%20(char).md) [[紵]] [[菹]] [藷](characters/藷.md) [詛](characters/詛.md) [[躇]] [這](characters/這.md) [雎](characters/狙.md) [[齟]] 
 
 ### 적
-[[迪]] [[勣]] [[吊]] [[嫡]] [[狄]] [[炙]] [[翟]] [[荻]] [[謫]] [[迹]] [[鏑]] [[笛]] [[蹟]] 
+[迪](characters/迪.md) [[勣]] [吊](characters/弔%20(char).md) [嫡 (char)](characters/嫡%20(char).md) [狄](characters/荻.md) [[炙]] [翟](characters/翟.md) [荻](characters/荻.md) [[謫]] [迹](characters/跡.md) [[鏑]] [笛](characters/笛.md) [蹟](characters/跡.md) 
 
 ### 전
-[[佺]] [[栓]] [[詮]] [[銓]] [[琠]] [[甸]] [[塡]] [[奠]] [[荃]] [[雋]] [[顚]] [[佃]] [[剪]] [[塼]] [[廛]] [[悛]] [[氈]] [[澱]] [[煎]] ~~畑~~ [[癲]] [[筌]] [[箋]] [[箭]] [[篆]] [[纏]] [[輾]] [[鈿]] [[鐫]] [[顫]] [[餞]] 
+[[佺]] [栓 (char)](characters/栓%20(char).md) [詮](characters/詮.md) [銓](characters/選.md) [[琠]] [甸](characters/田.md) [塡](characters/填%20(char).md) [奠](characters/鄭.md) [[荃]] [[雋]] [顚](characters/顚.md) [佃](characters/佃.md) [剪 (char)](characters/剪%20(char).md) [[塼]] [[廛]] [[悛]] [[氈]] [澱](characters/淀.md) [煎](characters/煎.md) !畑! [癲](characters/顚.md) [[筌]] [箋](characters/箋.md) [箭](characters/箭.md) [篆](characters/篆.md) [纏](characters/纏.md) [[輾]] [鈿](characters/鈿.md) [[鐫]] [[顫]] [[餞]] 
 
 ### 절
-[[晢]] [[截]] [[浙]] [[癤]] 
+[[晢]] [截](characters/截.md) [[浙]] [[癤]] 
 
 ### 점
 [[岾]] [[粘]] [[霑]] [[鮎 (char)]] 
