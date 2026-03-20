@@ -15,7 +15,7 @@ While many elements have common names across the region, it is necessary to inve
 |1|<ruby>[軽素](/words/軽素.md)<rt>ㄎㄧㄥㄙㄛ</rt></ruby>|  |   |   |   |   |   |<ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> |
 |2|<ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby>|<ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby>|<ruby>[硼素](/words/硼素.md)<rt>ㄅㄛㄥㄙㄛ</rt></ruby>|<ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby>|<ruby>[窒素](/words/窒素.md)<rt>ㄉㄝㄊㄙㄛ</rt></ruby>|<ruby>[養素](/words/養素.md)<rt>˙ㄚㄥㄙㄛ</rt></ruby>|<ruby>[弗素](/words/弗素.md)<rt>ㄆㄨㄊㄙㄛ</rt></ruby>|<ruby>[霓虹素](/words/霓虹素.md)<rt>ㄝ˙ㄏㄛㄥㄙㄛ</rt></ruby>|
 |3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ˙ㄨㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ˙ㄨㄏˇㄚㄥ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>˙ㄝㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉˇㄚㄙㄛ</rt></ruby>|
-|4|[[鉀 (char)]]|[[石灰素]] | [[高素]]|[[徳素]] | [[砒素]] |[[月素]] |[[臭素]] |[[潜素]] |
+|4|[[characters/鉀 (char)]]|[[石灰素]] | [[高素]]|[[徳素]] | [[砒素]] |[[月素]] |[[臭素]] |[[潜素]] |
 |5|茜素| 火紅素 | 紫素 |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| 墨素 | 土素 | 沃素 | 奇素
 |6|Cs |Ba | Tl |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| Bi | Po | At | Rn
 

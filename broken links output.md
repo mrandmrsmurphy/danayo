@@ -776,7 +776,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/燐素]] in [[lexipedia/Periodic Table]]
 - [[words/塩素]] in [[lexipedia/Periodic Table]]
 - [[words/惰素]] in [[lexipedia/Periodic Table]]
-- [[鉀 (char)]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㄱ]]
+- [[characters/鉀 (char)]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㄱ]]
 - [[石灰素]] in [[lexipedia/Periodic Table]]
 - [[高素]] in [[lexipedia/Periodic Table]]
 - [[徳素]] in [[lexipedia/Periodic Table]]
