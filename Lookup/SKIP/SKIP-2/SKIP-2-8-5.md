@@ -7,7 +7,6 @@ skip_number: 2-8-5
 > SKIP : 2 : [SKIP-2-8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
 > All of these [Stroke 13](lookup/Stroke/Stroke%2013.md).
 
-- [[雹]] - hail
 - <ruby>[[楚]]<rt>ㄑㄛ</rt></ruby> - clear
 - <ruby>[[電]]<rt>ㄉㄝㄋ</rt></ruby> - electricity
 - [[督]]

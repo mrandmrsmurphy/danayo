@@ -1,21 +1,21 @@
 
 ### 사  
-[[泗]] [砂](characters/沙%20(char).md) [糸](characters/糸.md) [紗](characters/紗.md) [娑](characters/沙%20(char).md) [徙](characters/徙.md) [奢](characters/奢.md) [嗣](characters/嗣.md) [赦](characters/赦.md) [乍](characters/乍.md) [些](characters/些.md) [伺](characters/伺.md) [[俟]] [[僿]] [唆](characters/唆.md) [[柶]] [[梭]] [渣 (char)](characters/渣%20(char).md) [[瀉]] [獅](characters/獅.md) [祠](characters/祠.md) [肆](characters/肆.md) [[莎]] [[蓑]] [裟](characters/沙%20(char).md) [飼](characters/飼.md) [[駟]] [麝香](words/射香.md) [[篩]] 
+[[泗]] [砂](characters/沙%20(char).md) [糸](characters/糸.md) [紗](characters/紗.md) [娑](characters/沙%20(char).md) [徙](characters/徙.md) [奢](characters/奢.md) [嗣](characters/嗣.md) [赦](characters/赦.md) [乍](characters/乍.md) [些](characters/些.md) [伺](characters/伺.md) [[俟]] [[僿]] [唆](characters/唆.md) [[柶]] [[梭]] [渣 (char)](characters/渣%20(char).md) [[瀉]] [獅](characters/獅.md) [祠](characters/祠.md) [肆](characters/肆.md) [[莎]] [[蓑]] [裟](characters/沙%20(char).md) [飼](characters/飼.md) [[駟]] [麝](characters/射.md) [[篩]] 
 
 ### 삭  
-[[數]] [[索]] [[爍]] [[鑠]] 
+[數](characters/数.md) [索](characters/索.md) [[爍]] [鑠](characters/鑠.md) 
 
 ### 산  
-[[珊]] [[傘]] [[刪]] [[汕]] [[疝]] [[蒜]] [[霰]] [[酸]] [[產]] [[祘]] 
+[珊](characters/珊.md) [傘](characters/傘.md) [刪](characters/刪.md) [[汕]] [[疝]] [[蒜]] [霰](characters/散.md) [酸 (char)](characters/酸%20(char).md) [產](characters/産.md) [[祘]] 
 
 ### 살  
-[[薩]] [[乷]]! [[撒]] [[煞]] 
+[薩](characters/薩.md) 乷! [撒](characters/散.md) [[煞]] 
 
 ### 삼  
-[[參]] [[蔘]] [[杉]] [[衫]] [[滲]] [[芟]] [[森]] 
+[參](characters/参.md) [蔘](characters/参.md) [杉](characters/杉.md) [[衫]] [滲](characters/滲.md) [[芟]] [森](characters/森.md) 
 
 ### 삽 
-[插](characters/挿.md) [[澁]] [[鈒]] [[颯]]
+[插](characters/挿.md) [[澁]] [[鈒]] [颯 (char)](characters/颯%20(char).md)
 
 ### 상  
 [[庠]] [[湘]] [[箱]] [[翔]] [[爽]] [[塽]] [[孀]] [[峠]] [[廂]] [[橡]] [[觴]] [[樣]] [[牀]] [[慡]] [[潒]] 
