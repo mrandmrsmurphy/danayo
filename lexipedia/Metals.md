@@ -3,14 +3,14 @@ language: English
 ---
 
 - gold : <ruby>[黄金](words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby>
-- iron: <ruby>[[鉄]]<rt>ㄊㄝㄊ</rt></ruby>
+- iron: <ruby>[[words/鉄]]<rt>ㄊㄝㄊ</rt></ruby>
 - lead : <ruby>[[words/鉛]]<rt>˙ㄝㄇ</rt></ruby>
 - metal : <ruby>[[金属]]<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby>
-- silver : <ruby>[[銀]]<rt>ㄧㄋ</rt></ruby>
+- silver : <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
 - steel : <ruby>鋼鉄<rt>ㄍㄚㄥㄊㄝㄊ</rt></ruby>
 - tin : <ruby>[朱錫](words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>
 
-- copper : <ruby>[[銅]]<rt>ㄉㄛㄥ</rt></ruby>
+- copper : <ruby>[[words/銅]]<rt>ㄉㄛㄥ</rt></ruby>
 - zinc : <ruby>亜鉛<rt>ㄚ·˙ㄝㄋ</rt></ruby>
 - bronze : <ruby>青銅<rt>ㄑㄝㄥㄉㄛㄥ</rt></ruby>
 - brass : <ruby>黄銅<rt>ㄏˇㄚㄥㄉㄛㄥ</rt></ruby>

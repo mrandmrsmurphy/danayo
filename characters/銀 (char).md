@@ -5,12 +5,14 @@ cantonese:
   - ngan4
 korean:
   - 은
-korean_native: ""
+korean_native: 은
 japanese:
   - GIN
   - GON
-japanese_nanori: ""
+japanese_nanori:
+  - しろがね 
 vietnamese:
+  - ngân
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣiɪn
 stroke_count: 14
@@ -20,7 +22,6 @@ grade_level: "2"
 pos: ""
 english:
   - silver
-  - money
 羅馬字: "'in"
 韓文: 인
 joyo_level: "3"

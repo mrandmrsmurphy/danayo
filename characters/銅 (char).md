@@ -9,19 +9,21 @@ korean_native: ""
 japanese:
   - DOU
   - TOU
-japanese_nanori: ""
+japanese_nanori:
+  - あかがね 
 vietnamese:
+  - đồng 
 middle_chinese_initial: d
 middle_chinese_final: uŋ
 stroke_count: 14
 radical: 金
 skip_number: 1-7-7
 grade_level: "4"
-pos: ""
+pos: 固有名詞
 english:
   - copper
 羅馬字: dong
-韓文:  동
+韓文: 동
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
