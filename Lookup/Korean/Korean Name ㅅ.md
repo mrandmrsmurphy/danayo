@@ -18,47 +18,47 @@
 [插](characters/挿.md) [[澁]] [[鈒]] [颯 (char)](characters/颯%20(char).md)
 
 ### 상  
-[[庠]] [[湘]] [[箱]] [[翔]] [[爽]] [[塽]] [[孀]] [[峠]] [[廂]] [[橡]] [[觴]] [[樣]] [[牀]] [[慡]] [[潒]] 
+[[庠]] [湘](characters/湘.md) [箱 (char)](characters/箱%20(char).md) [翔](characters/翔.md) [爽](characters/爽.md) [[塽]] [[孀]] [[峠]] [[廂]] [[橡]] [[觴]] [樣](characters/様%20(char).md) [[牀]] [[慡]] [[潒]] 
 
 ### 새 
-[[璽]] [[賽]] 
+[璽](characters/璽.md) [賽](characters/賽.md) 
 
 ### 색 
-[[嗇]] [[穡]] [[塞]] 
+[[嗇]] [[穡]] [塞](characters/塞.md) 
 
 ### 생 
-[[牲]] [[甥]] [[省]] [[笙]] 
+[牲](characters/牲.md) [甥 (char)](characters/甥%20(char).md) [省 (char)](characters/省%20(char).md) [笙](characters/笙.md) 
 
 ### 서  
-[[抒]] [[舒]] [[瑞]] [[棲]] [[曙]] [[壻]] [[㥠]] [[諝]] [[墅]] [[嶼]] [[犀]] [[筮]] [[絮]] [[胥]] [[薯]] [[鋤]] [[黍]] [[鼠]] [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
-[[嶼]]([[㠘]]) [[胥]]([[縃]]) [[諝]]([[𧩑]])
+[抒](characters/抒.md) [舒](characters/抒.md) [[瑞]] [棲](characters/棲.md) [[曙]] [[壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[嶼]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼡.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
+[[嶼]] ([[㠘]]) [胥](characters/胥.md) ([縃](characters/胥.md)) [[諝]] ([[𧩑]])
 
 ### 석  
-[[碩]] [[奭]] [[汐]] [[淅]] [[晳]] [[䄷]] [[鉐]] [[錫]] [[潟]] [[蓆]] [[舃]] [[鼫]] 
-[[晳]]([[晰]])
+[碩](characters/碩.md) [[奭]] [[汐]] [[淅]] [[晳]] [[䄷]] 
+- 鉐: for the sound, use 石; for the meaning, use 黄銅
+- [錫](characters/錫.md) [潟](characters/潟.md) [[蓆]] [[舃]] [[鼫]] 
+- [[晳]] ([[晰]])
 
 ### 선 
-[[扇]] [[渲]] [[瑄]] [[愃]] [[墡]] [[膳]] [[繕]] [[琁]] [[璿]] [[璇]] [[羨]] [[嬋]] [[銑]] [[珗]] [[嫙]] [[僊]] [[敾]]! [[煽]] [[癬]] [[腺]] [[蘚]] [蟬](characters/蝉%20(char).md) [[詵]] [[跣]] [[鐥]] [[洒]] [[亘]] 
+[扇](characters/扇.md) [[渲]] [[瑄]] [[愃]] [[墡]] [膳](characters/膳.md) [繕](characters/繕.md) [[琁]] [[璿]] [[璇]] [羨](characters/羨.md) [[嬋]] [銑](characters/銑.md) [[珗]] [[嫙]] [[僊]] !敾! [[煽]] [癬](characters/鮮.md) [腺](characters/腺.md) [蘚](characters/鮮.md) [蟬](characters/蝉%20(char).md) [[詵]] [[跣]] [[鐥]] samarium [洒 (char)](characters/洒%20(char).md) [亘 (char)](characters/亘%20(char).md) 
 
 ### 설  
-[[薛]] [[楔]] [[屑]] [[泄]] [[洩]] [[渫]] [[褻]] [[齧]] [[禼]] [[蔎]] [[偰]]
+[薛](characters/薛.md) [楔](characters/楔.md) [屑 (char)](characters/屑%20(char).md) [泄](characters/洩.md) [洩](characters/洩.md) [渫](characters/洩.md) [[褻]] [齧](characters/咬%20(char).md) [禼](characters/禼.md) [[蔎]] [偰](characters/偰.md)
 
 ### 섬 
-[[纖]] [[暹]] [[蟾]] [[剡]] [[殲]] [[贍]] [[閃]] [[陝]] 
+[纖](characters/繊.md) [[暹]] [蟾蜍](words/詹余.md) [[剡]] [[殲]] [[贍]] [閃](characters/閃.md) [陝](characters/陝.md) 
 
 ### 섭  
 [[燮]] [[㰔]] [[𦁗]] 
 
 ### 성  
-[[珹]] [[娍]] [[瑆]] [[惺]] [[醒]] [[宬]] [[猩]] [[筬]] [[腥]] [[貹]] [[胜]] [[晟]] 
-[[晟]]([[晠]])
+[[珹]] [[娍]] [[瑆]] [[惺]] [醒](characters/醒.md) [[宬]] [猩](characters/猩.md) [[筬]] [[腥]] [[貹]] [胜](characters/勝.md) [[晟]] [[晟]] ([[晠]])
 
 ### 세 
-[[貰]] [[笹]]! [[說]] [[忕]] [[洒]] [[涗]] [[𡜧]] 
+[貰](characters/貰.md) !笹! [說](characters/説.md) [[忕]] [洒 (char)](characters/洒%20(char).md) [[涗]] [[𡜧]] 
 
 ### 소 
-[[沼]] [[炤]] [[紹]] [[邵]] [[韶]] [巢](characters/巣.md) [[遡]] [[柖]] [[玿]] [[嘯]] [[塑]] [[宵]] [[搔]] [[梳]] [[瀟]] [[瘙]] [[篠]] [[簫]] [[蕭]] [[逍]] [[銷]] [[愫]] [[穌]] [[卲]] [[霄]] [[劭]] 
- [[穌]]([[甦]]) [[霄]]([[䨭]])
+[沼](characters/沼.md) [[炤]] [紹](characters/紹.md) [邵](characters/邵.md) [韶](characters/劭.md) [巢](characters/巣.md) [遡](characters/遡.md) [[柖]] [[玿]] [嘯](characters/粛.md) [塑](characters/塑.md) [宵](characters/宵.md) [搔](characters/掻%20(char).md) [梳 (char)](characters/梳%20(char).md) [[瀟]] [[瘙]] [篠](characters/篠.md) [簫](characters/簫.md) [蕭](characters/䔥.md) [逍](characters/逍.md) [[銷]] [[愫]] [[穌]] [[卲]] [霄](characters/肖.md) [劭](characters/劭.md)  [[穌]] ([[甦]]) [[霄]]([[䨭]])
 
 ### 속 
 [[涑]] [[謖]] [[贖]] 
