@@ -10,13 +10,13 @@ views:
       - file.name
       - hsk_level
       - joyo_level
-      - japanese
-      - korean
       - hanmun_edu_level
       - formula.score
       - grade_level
-      - graphemic_classification
+      - danayo_id
     sort:
+      - property: hsk_level
+        direction: ASC
       - property: formula.score
         direction: DESC
       - property: joyo_level
@@ -67,6 +67,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 64
-      note.japanese: 145
       note.hanmun_edu_level: 131
       formula.score: 112
+      note.grade_level: 47
+      note.danayo_id: 64
