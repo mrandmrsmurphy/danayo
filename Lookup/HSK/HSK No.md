@@ -1,3 +1,7 @@
+## Whoops
+, 兮, 冗, 冥, 凜, 勲, 哉, 唄, 唵, 喋, 坪, 垣, 塚, 壅, 奚, 妊, 妙, 妾, 姫, 婿, 嫡, 寝, 尉, , 弥, 扉, 拂, 捨, 捺, 撮, 札, 杖, 枢, 栓, 桁, 楷, 槌, 櫛, 汀, 汎, 汝, 汲, 浦, 浬, 涯, 溺, 漬, 焉, 甥, 癖, 皿, 矢, 禅, 穣, 窺, 竦, 筈, 箸, 紺, 絹, 繰, 翌, 耶, 耽, 肴, 腕, 膿, 臼, 舵, 苔, 苺, 菱, 葛, 薫, 蛭, 蟄, 蟹, 袂, 褐, 褒, 訥, 詣, 諂, 諦, 豚, 賃, 贋, 蹴, 軸, 逞, 遣, 郡, 鉗
+
+## List
 [[皿]]
 [[阮]]
 [[篤]]
@@ -81,10 +85,10 @@
 [[妊]]
 [[羞]]
 [[渋]]
-[[錠]]
+[錠 (char)](characters/錠%20(char).md)
 [[浦]]
 [[殉]]
-[[鉢]]
+[鉢 (char)](characters/鉢%20(char).md)
 [[癒]]
 [[搾]]
 [[詣]]
@@ -99,8 +103,8 @@
 [[稽]]
 [[堀]]
 [[冗]]
-[[鎌]]
-[[隅]]
+[鎌 (char)](characters/鎌%20(char).md)
+[隅 (char)](characters/隅%20(char).md)
 [[陵]]
 [[潟]]
 [[勲]]
@@ -172,7 +176,7 @@
 [[爵]]
 [[遣]]
 [[膳]]
-[[尻]]
+[尻 (char)](characters/尻%20(char).md)
 [[栓]]
 [[拂]]
 [[餌]]
@@ -203,7 +207,7 @@
 [[緯]]
 [[腺]]
 [[禅]]
-[[侯]]
+[侯 (char)](characters/侯%20(char).md)
 [[壌]]
 [[迭]]
 [[璽]]
@@ -234,37 +238,37 @@
 [[宋]]
 [[崔]]
 [[燕]]
-[[雁]]
-[[楠]]
-[[姪]]
-[[椰]]
-[[諡]]
-[[鴻]]
-[[馮]]
-[[姚]]
-[[徨]]
-[[蒋]]
-[[圭]]
-[[譚]]
-[[彭]]
-[[苟]]
-[[祿]]
-[[憫]]
-[[姜]]
-[[罔]]
+[雁 (char)](characters/雁%20(char).md)
+[楠](characters/楠.md)
+[姪](characters/姪.md)
+[椰](characters/椰.md)
+[諡](characters/諡.md)
+[鴻](characters/鴻.md)
+[馮](characters/馮.md)
+[姚](characters/姚.md)
+[徨](characters/徨.md)
+[蒋](characters/蒋.md)
+[圭](characters/圭.md)
+[譚](characters/譚.md)
+[彭](characters/彭.md)
+[苟 (char)](characters/苟%20(char).md)
+[祿](characters/祿.md)
+[憫 (char)](characters/憫%20(char).md)
+[姜 (char)](characters/姜%20(char).md)
+[罔](characters/罔.md)
 [蕭](characters/䔥.md)
-[[丞]]
-[[亘]]
-[[屏]]
-[[婢]]
-[[胤]]
-[[佃]]
-[[蛞]]
-[[巽]]
-[[祀]]
-[[袁]]
-[[魏]]
-[[閏]]
+[丞](characters/丞.md)
+[亘 (char)](characters/亘%20(char).md)
+[屏](characters/屏.md)
+[婢](characters/婢.md)
+[胤](characters/胤.md)
+[佃](characters/佃.md)
+[蛞](characters/蛞.md)
+[巽](characters/巽.md)
+[祀](characters/祀.md)
+[袁](characters/袁.md)
+[魏](characters/魏.md)
+[閏 (char)](characters/閏%20(char).md)
 [[珀]]
 [[耶]]
 [[佑]]
@@ -298,8 +302,8 @@
 [鱒](characters/尊.md)
 [銑](characters/銑.md)
 [茸](characters/茸.md)
-[[頤]]
-[[胰]]
+[頤 (char)](characters/頤%20(char).md)
+[胰](characters/胰.md)
 [[尹]]
 [[邵]]
 [[邱]]
@@ -308,7 +312,7 @@
 [[奄]]
 [[舜]]
 [[嬉]]
-[[鼎]]
+[鼎 (char)](characters/鼎%20(char).md)
 [[凜]]
 [[盧]]
 [[昊]]
@@ -418,10 +422,10 @@
 [[犀]]
 [[肴]]
 [[煌]]
-[[鋏]]
+[鋏 (char)](characters/鋏%20(char).md)
 [[釉]]
 [[叩]]
-[[鞄]]
+[鞄 (char)](characters/鞄%20(char).md)
 [[戈]]
 [[昂]]
 [[槌]]
@@ -471,7 +475,7 @@
 [[悉]]
 [[敖]]
 [[迄]]
-[[颯]]
+[颯 (char)](characters/颯%20(char).md)
 [[雛]]
 [[蝙]]
 [[蝠]]
