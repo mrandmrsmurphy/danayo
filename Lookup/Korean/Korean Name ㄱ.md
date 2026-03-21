@@ -136,7 +136,7 @@ This has been checked for redirects.
 [躬](characters/躬.md) [穹](characters/穹.md) [[芎]] 
 
 ### 권 
-[圈](characters/圏%20(char).md) [[眷]] [倦](characters/倦.md) [捲](characters/巻%20(char).md) [[淃]]
+[圈](characters/圏%20(char).md) [[眷]] [倦](characters/倦.md) 捲-->巻 [[淃]]
 
 ### 궐 
 [闕](characters/闕.md) [[獗]] [[蕨]] [蹶](characters/蹶.md) 
