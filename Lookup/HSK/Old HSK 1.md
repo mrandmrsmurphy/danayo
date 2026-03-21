@@ -46,33 +46,33 @@
 [樣](characters/様%20(char).md): 6
 [样](characters/様%20(char).md): 6
 [[同]]: 6
-[[怎: 6
+怎!!: 6
 [[中]]: 6
 [[常]]: 5
-[[發]]: 5
-[[发]]: 5
+[發](characters/発%20(char).md): 5
+[发](characters/発%20(char).md): 5
 [[現]]: 5
-[[现]]: 5
+[现](characters/現%20(char).md): 5
 [[得]]: 5
 [[方]]: 5
 [[電]]: 5
-[[电]]: 5
-[[多]]: 5
+[电](characters/電.md): 5
+[多 (char)](characters/多%20(char).md): 5
 [[法]]: 5
 [[飯]]: 5
-[[饭]]: 5
+[饭](characters/飯.md): 5
 [[面]]: 5
 [[人]]: 5
 [[習]]: 5
-[[习]]: 5
-[[公]]: 5
-[[里]]: 5
+[习](characters/習.md): 5
+[公 (char)](characters/公%20(char).md): 5
+[里 (char)](characters/里%20(char).md): 5
 [[活]]: 5
 [[見]]: 5
-[[见]]: 5
+[见](characters/見%20(char).md): 5
 [[果]]: 5
-[[經]]: 5
-[[经]]: 5
+[經](characters/経%20(char).md): 5
+[[经]]: 5 --> [经费](words/経費.md)
 [[球]]: 5
 [[思]]: 5
 [[些]]: 5
