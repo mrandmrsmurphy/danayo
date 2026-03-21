@@ -988,26 +988,26 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2010. [妙 (char)](characters/妙%20(char).md) : exquisite
 2011. [眠](characters/眠.md) : sleep
 2012. [矛](characters/矛.md) : halberd
-2013. [[霧 (char)]] : fog
+2013. [霧 (char)](characters/霧%20(char).md) : fog
 2014. [娘 (char)](characters/娘%20(char).md) : daughter
-2015. [[冥]] : dark
-2016. [[銘]] : inscription
-2017. [[滅]] : destroy
-2018. [[免]] : 	免 [4]	S	excuse
-2019. [[麺 (char)]] : 	麵	S	noodles
-2020. [[茂]] : overgrown
-2021. [[妄]] : delusion
-2022. [[盲]] : blind
-2023. [[耗]] : decrease
-2024. [[猛]] : fierce
-2025. [[網]] : netting
-2026. [[黙]] : 	默	S	silence
-2027. [[紋]] : family crest
-2028. [[冶]] : melting
-2029. [[弥]] : 	彌	S	all the more
-2030. [[厄]] : unlucky
-2031. [[躍]] : leap
-2032. [[暗|闇]] : darkness
+2015. [冥 (char)](characters/冥%20(char).md) : dark
+2016. [銘](characters/銘.md) : inscription
+2017. [滅 (char)](characters/滅%20(char).md) : destroy
+2018. [免](characters/免.md) : 	免 [4]	S	excuse
+2019. [麺 (char)](characters/麺%20(char).md) : 	麵	S	noodles
+2020. [茂](characters/茂.md) : overgrown
+2021. [妄](characters/妄.md) : delusion
+2022. [盲](characters/盲.md) : blind
+2023. [耗](characters/耗.md) : decrease
+2024. [猛](characters/猛.md) : fierce
+2025. [網 (char)](characters/網%20(char).md) : netting
+2026. [黙](characters/黙.md) : 	默	S	silence
+2027. [紋 (char)](characters/紋%20(char).md) : family crest
+2028. [冶](characters/冶.md) : melting
+2029. [弥 (char)](characters/弥%20(char).md) : 	彌	S	all the more
+2030. [厄](characters/厄.md) : unlucky
+2031. [躍](characters/躍.md) : leap
+2032. [[暗|闇 : darkness
 2033. [[喩]] : metaphor
 2034. [[愉]] : pleasure
 2035. [[諭]] : rebuke

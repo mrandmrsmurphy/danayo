@@ -16,7 +16,7 @@ aliases:
 3. “vertical-falling” ([[豎]]) or perpendicular. Notice the initial dot.  [[努]]'s come in two kinds
 	1. 懸針豎 - hanging needle crossbow - The tip tapers off into a sharp point at the bottom (like the bottom of the character **中**).
 	2. 垂露豎 - dropping dew crossbow - The bottom is rounded and blunt, looking like a heavy drop of dew clinging to a needle (like the vertical strokes in **門**).
-4. “hook” ([[鉤]]). Some hooks go left, others down = [[趯]]
+4. “hook” ([[鉤]]). Some hooks go left, others down = [趯](characters/躍.md)
 	1. 左向鉤
 	2. 戈鉤 - scythe hook
 	3. 臥鉤 - lying hook: A flattened, curved hook that looks like someone lying down (seen in the character **心**).
@@ -30,7 +30,7 @@ aliases:
 7. “throw away” ([[撇]]) or left-descending stroke =[[啄]]
 	1. 蘭葉撇 - orchid leaf sweep: A long, elegant sweep that starts thin, gets thick in the middle, and ends thin—mimicking an orchid leaf.
 	2. 直撇 - vertical sweep: A sweep that stays more vertical than diagonal before flicking at the very end.
-8. “press” ([[捺]]) or right-descending stroke =[[磔]]
+8. “press” ([[捺]]) or right-descending stroke =[磔](characters/捺%20(char).md)
 	1. 方頭捺: A "press" stroke with a very sharp, angular "foot" at the end.
 	2. 圓頭捺: A "press" where the ending is more rounded and soft.
 

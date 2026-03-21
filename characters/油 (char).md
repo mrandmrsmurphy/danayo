@@ -11,6 +11,7 @@ japanese:
   - YUU
 japanese_nanori: ""
 vietnamese:
+  - du
 middle_chinese_initial: j
 middle_chinese_final: ɨu
 stroke_count: 8

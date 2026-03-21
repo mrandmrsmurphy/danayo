@@ -30,6 +30,7 @@ mc_id: 0
 graphemic_classification: 奈
 stand_in: 捺
 aliases:
+  - 磔
 注音: ㄋㄚㄊ
 ---
 >[!tip] This is a page about the character 捺.

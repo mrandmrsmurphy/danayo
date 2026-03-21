@@ -14,7 +14,13 @@ views:
       - formula.score
       - grade_level
       - danayo_id
+      - middle_chinese_initial
+      - middle_chinese_final
     sort:
+      - property: middle_chinese_final
+        direction: ASC
+      - property: middle_chinese_initial
+        direction: ASC
       - property: danayo_id
         direction: ASC
       - property: hsk_level
@@ -32,10 +38,6 @@ views:
       - property: hanmun_edu_level
         direction: ASC
       - property: 韓文
-        direction: DESC
-      - property: middle_chinese_final
-        direction: ASC
-      - property: middle_chinese_initial
         direction: DESC
       - property: skip_number
         direction: DESC
