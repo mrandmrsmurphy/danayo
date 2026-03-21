@@ -16,7 +16,7 @@ All of these have been checked for redirects.
 [嵐](characters/嵐.md) [攬](characters/攬.md) [欖](characters/欖.md) [籃](characters/籃.md) [[纜]]-->[[[䌫]] [[襤]] [藍](characters/藍%20(char).md) [[㛦]] [[灆]] [[婪]]
 
 ### 랍 
-[拉](characters/拉%20(char).md) [[臘]] [蠟](characters/蝋.md)
+[拉](characters/拉%20(char).md) [[characters/臘]] [蠟](characters/蝋.md)
 
 ### 랑 
 [琅](characters/瑯.md) [瑯](characters/瑯.md) [狼](characters/狼%20(char).md) [朗](characters/朗.md) [[烺]] [蜋](characters/螂.md)

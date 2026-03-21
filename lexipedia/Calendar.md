@@ -75,7 +75,7 @@ Or a poetic one:
 |9|[[菊]]月|chrysanthemum month|
 |10|[[良]]月|fine month|
 |11|[[冬]]月|winter month|
-|12|[[臘]]月|sacrifice month|
+|12|[[characters/臘]]月|sacrifice month|
 
 ## Days
 1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>

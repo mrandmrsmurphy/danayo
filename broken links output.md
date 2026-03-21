@@ -902,15 +902,12 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/鼻]] in [[characters/鼻 (char)]]
 
 ## Chengyu
-- [[諸法無我]] in [[chengyu/諸行無常]]
-- [[chengyu/涅盤寂静]] in [[chengyu/諸行無常]]
 - [[形助顯理]] in [[chengyu/Dan'a'yo Chengyu]], [[grammar/文法 - 05形態]]
 
 ## Articles
 - [[/grammar/文法 - 99Rime Tables]] in [[grammar/単亜語之文法書.en]]
 - [[文法 - 07読本]] in [[grammar/単亜語之文法書]]
 - [[文法 - 99韻図]] in [[grammar/単亜語之文法書]]
-- [[lexipedia/Conflict]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Containers]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Dimensions]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Directions]] in [[lexipedia/Lexipedia]]
@@ -953,7 +950,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 ## New Characters
 - [[蒦]] in [[characters/蠖]]
 - [[壕]] in [[characters/豪]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], 
-- [[臘]] in [[lexipedia/Calendar]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
+- [[characters/臘]] in [[lexipedia/Calendar]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
 - [[挪]] in [[lexipedia/Geography]], [[lookup/Korean/Korean Name ㄴ]]
 - [[錀]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㄹ]]
 - [[樣]] in [[lookup/HSK/HSK Beginner]], [[lookup/Korean/Korean Name ㅅ]]
