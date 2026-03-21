@@ -1,7 +1,7 @@
 ---
-mandarin: "gōng"
-cantonese: "gung1"
-korean: "공"
+mandarin: gōng
+cantonese: gung1
+korean: 공
 korean_native: ""
 japanese:
   - KOU
@@ -19,7 +19,7 @@ english:
 羅馬字: gong
 韓文: 공
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2023
 mc_id: 22

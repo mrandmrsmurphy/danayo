@@ -1,7 +1,7 @@
 ---
-mandarin: "jīng"
-cantonese: "ging1"
-korean: "경"
+mandarin: jīng
+cantonese: ging1
+korean: 경
 korean_native: 경서 경
 japanese:
   - KEI
@@ -30,6 +30,7 @@ graphemic_classification: 巠
 stand_in: 経
 aliases:
   - 經
+  - 经
 注音: ㄍㄝㄥ
 ---
 >[!tip] This is a page about the character 経.
