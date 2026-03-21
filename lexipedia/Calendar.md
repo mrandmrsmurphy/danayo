@@ -37,12 +37,12 @@ The end of the  month - [[月末]].
 4. <ruby>[四月](/words/四月.md)<rt>ㄙㄧ˙·ˇㄝㄊ</rt></ruby> - April
 5. <ruby>[五月](/words/五月.md)<rt>ㄛ·ˇㄝㄊ</rt></ruby> - May
 6. <ruby>[六月](/words/六月.md)<rt>ㄌㄨㄎ·ˇㄝㄊ</rt></ruby> - June
-7. [[七月]] - July
-8. [[八月]] - August
-9. [[九月]] - September
-10. [[十月]] - October
-11. [[十一月]] - November
-12. [[十二月]] - December
+7. <ruby>[七月](/words/七月.md)<rt>ㄑㄧㄊ·ˇㄝㄊ</rt></ruby> - July
+8. <ruby>[八月](/words/八月.md)<rt>ㄅㄚㄊ·ˇㄝㄊ</rt></ruby> - August
+9. <ruby>[九月](/words/九月.md)<rt>ㄎ˙ㄨ·ˇㄝㄊ</rt></ruby> - September
+10. <ruby>[十月](/words/十月.md)<rt>ㄙㄧㄆ·ˇㄝㄊ</rt></ruby> - October
+11. <ruby>[十一月](/words/十一月.md)<rt>ㄙㄧㄆ·ㄧㄊ·ˇㄝㄜ</rt></ruby> - November
+12. <ruby>[十二月](/words/十二月.md)<rt>ㄙㄧㄆㄋㄧ˙·ˇㄝㄊ</rt></ruby> - December
 
 There are also exist <ruby>[旬日](/words/旬日.md)<rt>ㄙ˙ㄨㄋㄋㄧㄊ</rt></ruby>, which are ten days long.  The term is slightly ambiguous, but typically refers to one of the following:
 - <ruby>[上旬](/words/上旬.md)<rt>ㄙ˙ㄚㄥㄙ˙ㄨㄋ</rt></ruby> - 1st through 10th of the month
@@ -55,35 +55,35 @@ An ancient calendar existed:
 
 |Branch|Month|
 |---|---|
-|寅|1|
-|卯|2|
-|辰|3|
-|巳|4|
-|午|5|
-|未|6|
-|申|7|
-|酉|8|
-|戌|9|
-|亥|10|
-|子|11|
-|丑|12|
+|[[寅月]]|1|
+|[[卯月]]|2|
+|[[辰月]]|3|
+|[[巳月]]|4|
+|[[午月]]|5|
+|[[未月]]|6|
+|[[申月]]|7|
+|[[酉月]]|8|
+|[[戌月]]|9|
+|[[亥月]]|10|
+|[[子月]]|11|
+|[[丑月]]|12|
 
 Or a poetic one:
 
 |Month|Poetic name|Meaning|
 |---|---|---|
-|1|正月|principal month|
-|2|[[杏]]月|apricot blossom month|
-|3|[[桃]]月|peach blossom month|
-|4|[[characters/槐]]月|pagoda-tree month|
-|5|[[榴]]月|pomegranate month|
-|6|[[荷]]月|lotus month|
-|7|[[蘭]]月|orchid month|
-|8|[[桂]]月|osmanthus month|
-|9|[[菊]]月|chrysanthemum month|
-|10|[[良]]月|fine month|
-|11|[[冬]]月|winter month|
-|12|[[characters/臘]]月|sacrifice month|
+|1|[[正月]]|principal month|
+|2|[[杏月]]|apricot blossom month|
+|3|[[桃月]]|peach blossom month|
+|4|[[槐月]]|pagoda-tree month|
+|5|[[榴月]]|pomegranate month|
+|6|[[荷月]]|lotus month|
+|7|[[蘭月]]|orchid month|
+|8|[[桂月]]|osmanthus month|
+|9|[[菊月]]|chrysanthemum month|
+|10|[[良月]]|fine month|
+|11|[[冬月]]|winter month|
+|12|[[臘月]]|sacrifice month|
 
 ## Days
 1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>
@@ -142,10 +142,12 @@ The end of the year - [[千末]].
 - [[陰暦年]] = [[旧正月]] - lunar new year = old new year
 
 Lunar months had their own terminology:
-- [朔日](words/朔日.md)
-- [[望]]
-- [[晦]]
-- [弦](words/弦.md)
+- [朔日](words/朔日.md) - first day of the lunar month, when the moon is invisible
+- [[上弦]] - first quarter of the month
+- [[望日]] - 15th day the lunar month, the full moon
+- [[下弦]] - last quarter of the month
+- [[晦日]] - last day of the lunar month
+
 ### Leap years
 - [[閏年]] — leap year
 - [[平年]] — common year
