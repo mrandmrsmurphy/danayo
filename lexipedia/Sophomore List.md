@@ -76,15 +76,15 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>
 - Animals : 
 	- cat - <ruby>[猫](/words/猫.md)<rt>ㄇ˙ㄚˇ</rt></ruby>
-	- cow, 
-	- chicken, 
-	- horse, 
-	- pig, 
-	- mouse, 
-	- monkey, 
-	- lion, 
-	- bug, 
-	- wolf
+	- cow - <ruby>[牛](/words/牛.md)<rt>ㄋ˙ㄨ</rt></ruby>
+	- chicken - <ruby>[鶏](/words/鶏.md)<rt>ㄍㄝ˙</rt></ruby>
+	- horse - <ruby>[馬](/words/馬.md)<rt>ㄇㄚ</rt></ruby>
+	- pig - <ruby>[豚](/words/豚.md)<rt>ㄊㄨㄋ</rt></ruby>
+	- mouse - <ruby>[小鼠](/words/小鼠.md)<rt>ㄙㄛㄙ˙ㄛ</rt></ruby>
+	- monkey - <ruby>[猿猩](/words/猿猩.md)<rt>ㄛㄋㄙㄝㄥ</rt></ruby>
+	- lion - <ruby>[獅子](/words/獅子.md)<rt>ㄙㄧ˙ㄐㄧ</rt></ruby>
+	- bug - <ruby>[昆虫](/words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄥ</rt></ruby>
+	- wolf - <ruby>[狼](/words/狼.md)<rt>ㄌㄚㄥ</rt></ruby>
 - Plants : grain, bread, branch
 - People : girl, boy, girlfriend, boyfriend, friend, baby
 - Family : family, sister, brother, son, daughter

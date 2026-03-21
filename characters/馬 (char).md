@@ -1,7 +1,7 @@
 ---
-mandarin: "mǎ"
-cantonese: "maa5"
-korean: "마"
+mandarin: mǎ
+cantonese: maa5
+korean: 마
 korean_native: ""
 japanese:
   - BA
@@ -9,6 +9,7 @@ japanese:
   - MA
 japanese_nanori: ""
 vietnamese:
+  - mã
 middle_chinese_initial: m
 middle_chinese_final: ɣa
 stroke_count: 10
@@ -19,7 +20,7 @@ pos: ""
 english:
   - horse
 羅馬字: ma
-韓文:  마
+韓文: 마
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

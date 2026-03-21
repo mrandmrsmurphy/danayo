@@ -785,7 +785,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1808. [[凸]] : convex
 1809. [[突]] : 	突	stab
 1810. [[屯]] : barracks
-1811. [[豚]] : pork
+1811. [豚 (char)](characters/豚%20(char).md) : pork
 1812. [[頓]] : suddenly
 1813. [[貪]] : covet
 1814. [[鈍]] : dull
