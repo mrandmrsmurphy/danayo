@@ -897,7 +897,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鳥]] in [[grammar/文法 - 97品詞]]
 - [[草]] in [[grammar/文法 - 97品詞]]
 - [[何]] in [[grammar/文法 - 97品詞]], [[lexipedia/Grammar]], [[lexipedia/Swadesh]]
-- [[毎]] in [[grammar/文法 - 97品詞]], [[lexipedia/Calendar]], [[syllables/ㄇㄛ˙]]
+- [[words/毎]] in [[grammar/文法 - 97品詞]], [[lexipedia/Calendar]], [[syllables/ㄇㄛ˙]]
 - [[誰]] in [[grammar/文法 - 97品詞]], [[lexipedia/Grammar]], [[lexipedia/Swadesh]], [[words/何人]]
 - [[words/鼻]] in [[characters/鼻 (char)]]
 

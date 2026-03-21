@@ -1,20 +1,22 @@
 ---
-mandarin: "měi"
-cantonese: "mui5"
-korean: "매"
+mandarin: měi
+cantonese: mui5
+korean: 매
 korean_native: 매양
 japanese:
   - MAI
   - BAI
-japanese_nanori: ""
+japanese_nanori:
+  - つね
 vietnamese:
+  - mỗi
 middle_chinese_initial: m
 middle_chinese_final: uʌi
 stroke_count: 6
 radical: 毋
 skip_number: 2-2-4
 grade_level: "1"
-pos: ""
+pos: 連接詞
 english:
   - each
 羅馬字: moi
@@ -29,6 +31,9 @@ stand_in: 毎
 aliases:
   - 每
 注音: ㄇㄛ˙
+tags:
+  - adverbial
+  - correlative
 ---
 >[!tip] This is a page about the character 毎.
 >For the word, see [毎](words/毎.md)

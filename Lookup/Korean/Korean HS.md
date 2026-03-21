@@ -22,7 +22,7 @@
 #### 검
 [儉](characters/倹.md)  (검소할 검) , [劒](characters/剣%20(char).md) (칼 검) , [檢](characters/検.md) (검사할 검)
 #### 격
-[格](characters/格%20(char).md) (바로잡을 격) , [擊](characters/撃%20(char).md)  (부딪칠 격) , [激](characters/激.md) (과격할 격) , [隔](characters/隔.md) (사이 뜰 격)
+[格](characters/格%20(char).md) (바로잡을 격) , [擊](characters/撃%20(char).md)  (부딪칠 격) , [激](characters/激.md) (과격할 격) , [隔 (char)](characters/隔%20(char).md) (사이 뜰 격)
 #### 견
 [肩](characters/肩%20(char).md) (어깨 견) , [絹](characters/絹%20(char).md) (명주 견) , [遣](characters/遣%20(char).md) (보낼 견) , [牽](characters/牽.md) (끌 견)
 #### 결

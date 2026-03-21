@@ -110,7 +110,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1134. [殻](characters/殻.md) : 	殼	husk
 1135. [郭 (char)](characters/郭%20(char).md) : enclosure
 1136. [較](characters/較.md) : contrast
-1137. [隔](characters/隔.md) : isolate
+1137. [隔 (char)](characters/隔%20(char).md) : isolate
 1138. [獲](characters/獲.md) : seize
 1139. [嚇 (char)](characters/嚇%20(char).md) : menacing
 1140. [穫](characters/穫.md) : harvest
