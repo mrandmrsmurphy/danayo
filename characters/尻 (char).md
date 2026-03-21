@@ -22,7 +22,7 @@ english:
 羅馬字: kau
 韓文: 캇
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 6010
 mc_id: 3578

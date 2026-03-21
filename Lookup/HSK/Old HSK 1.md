@@ -19,12 +19,12 @@
 [[好]]: 9
 [[有]]: 9
 [[那]]: 9
-[[車]]: 8
+[車 (char)](characters/車%20(char).md): 8
 [[以]]: 8
 [[起]]: 8
 [[然]]: 8
 [[語]]: 8
-[[车]]: 7
+[车](characters/車%20(char).md): 7
 [[到]]: 7
 [[外]]: 7
 [[是]]: 7
@@ -532,7 +532,7 @@
 [[彩]]: 1
 [[神]]: 1
 [[咖]]: 1
-[[啡]]: 1
+[啡](characters/啡.md): 1
 [[病]]: 1
 [[試]]: 1
 [[试]]: 1
@@ -803,12 +803,14 @@ views:
     order:
       - file.name
       - hsk_level
+      - grade_level
     sort:
+      - property: grade_level
+        direction: ASC
       - property: hsk_level
         direction: ASC
     columns:
       - file
       - file.path
       - file.links.length
-
 ```
