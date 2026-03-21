@@ -35,10 +35,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 口.
 >For the word, see [口](words/口.md)
-
+## Notes
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-
-- [[人口]]
+## Words
+- [[人口]] - population
+- <ruby>[唖口](/words/唖口.md)<rt>ㄚㄎㄛˇ</rt></ruby> - mute

@@ -14,7 +14,7 @@ vietnamese:
   - cố
 middle_chinese_initial: k
 middle_chinese_final: uo
-stroke_count: "16"
+stroke_count: 16
 radical: 金
 skip_number: 2-8-8
 grade_level: 先進
