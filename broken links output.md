@@ -743,7 +743,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- [[渡]] in [[syllables/ㄉㄛ]]
 - [[里]] in [[syllables/ㄌㄧ]]
 - [[鱗]] in [[syllables/ㄌㄧㄋ]]
 - [[関]] in [[syllables/ㄍˇㄚㄇ]]
@@ -816,9 +815,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[歯]] in [[characters/歯 (char)]]
 - [[words/毎]] in [[characters/毎 (char)]]
 - [[words/水]] in [[characters/水 (char)]]
-- [[words/油]] in [[characters/油 (char)]]
 - [[words/洲]] in [[characters/洲 (char)]]
-- [[words/渡]] in [[characters/渡 (char)]]
 - [[words/漆]] in [[characters/漆 (char)]]
 - [[廌]] in [[characters/灋]]
 - [[words/猟]] in [[characters/猟 (char)]]
@@ -831,8 +828,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/薬]] in [[characters/薬 (char)]]
 - [[words/蚊]] in [[characters/蚊 (char)]]
 - [[words/蛇]] in [[characters/蛇 (char)]]
-- [[words/蝎]] in [[characters/蝎 (char)]]
-[[lookup/Korean/Korean Name ㅎ]]
+- [[words/蝎]] in [[characters/蝎 (char)]], [[lookup/Korean/Korean Name ㅎ]]
 - [[words/誰]] in [[characters/誰 (char)]]
 - [[words/諱]] in [[characters/諱 (char)]]
 - [[words/走]] in [[characters/走 (char)]]

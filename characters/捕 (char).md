@@ -31,9 +31,14 @@ aliases:
 ---
 >[!tip] This is a page about the character 捕.
 >For the word, see [捕](words/捕.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[捕手]]
+- [[捕鯨]]
+- [[逮捕]]
+- [[捕獲]]
+- 

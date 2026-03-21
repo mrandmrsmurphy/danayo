@@ -1,26 +1,28 @@
 ---
-mandarin: "dù"
-cantonese: "dou6"
-korean: "도"
-korean_native: ""
+mandarin: dù
+cantonese: dou6
+korean: 도
+korean_native: 건널
 japanese:
   - TO
-japanese_nanori: ""
+japanese_nanori:
+  - わた-る,わた-す
 vietnamese:
+  - độ, đò, đác, đạc, dộc
 middle_chinese_initial: d
 middle_chinese_final: uo
 stroke_count: 12
 radical: 水
 skip_number: 1-3-9
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - transit
   - ferry
 羅馬字: do
-韓文:  도
+韓文: 도
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5191
 mc_id: 1665

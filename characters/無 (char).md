@@ -1,7 +1,7 @@
 ---
-mandarin: "wú"
-cantonese: "mou4"
-korean: "무"
+mandarin: wú
+cantonese: mou4
+korean: 무
 korean_native: ""
 japanese:
   - MU
@@ -20,7 +20,7 @@ english:
 羅馬字: mu
 韓文: 무
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2161
 mc_id: 18
@@ -41,3 +41,23 @@ aliases:
 ## Chengyu
 - <ruby>[厚顔無恥](/chengyu/厚顔無恥.md)<rt>ㄏㄛˇ·ㄚㄋㄇㄨㄑㄧ</rt></ruby> - utterly shameless
 - <ruby>[諸行無常](/chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄥㄇㄨㄙ˙ㄚㄥ</rt></ruby>
+- [[有備無患]]
+- [[無為而治]]
+- [[孤立無援]]
+
+## Words
+- [[無名]]
+- [[無双]]
+- [[無政府]]
+- [[無恥]]
+- [[無常]]
+- [[無家]]
+- [[無敵]]
+- [[無然]]
+- [[無私]]
+- [[無線]]
+- [[無義]]
+- [[無定河]]
+- [[無援]]
+- [[無効]]
+- 
