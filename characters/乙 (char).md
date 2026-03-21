@@ -7,7 +7,13 @@ japanese:
   - OTSU
 japanese_nanori: きのと,おと
 vietnamese:
-  - ất , át , ắc , ắt , hắt , ặc , lớt
+  - ất
+  - át
+  - ắc
+  - ắt
+  - hắt
+  - ặc
+  - lớt
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣiɪt
 stroke_count: 1

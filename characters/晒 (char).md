@@ -10,7 +10,7 @@ vietnamese:
   - sái
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣiᴇ
-stroke_count: "10"
+stroke_count: 10
 radical: 日
 skip_number: 1-4-6
 grade_level: "先進"

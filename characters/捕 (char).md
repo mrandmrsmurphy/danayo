@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: uo
-stroke_count: "10"
+stroke_count: 10
 radical: 手
 skip_number: 1-3-7
 grade_level: "5"

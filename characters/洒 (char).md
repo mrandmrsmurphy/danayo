@@ -11,7 +11,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣɛ
-stroke_count: "9"
+stroke_count: 9
 radical: 水
 skip_number: 1-3-6
 grade_level: "先進"

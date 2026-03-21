@@ -8,7 +8,7 @@ japanese_nanori: ひらく
 vietnamese: phơ, bờ, pha, phê, phi, phơi
 middle_chinese_initial: pʰ
 middle_chinese_final: ɣiᴇ
-stroke_count: "8"
+stroke_count: 8
 radical: 手
 skip_number: 1-3-5
 grade_level: "5"

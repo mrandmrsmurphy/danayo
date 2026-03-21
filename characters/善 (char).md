@@ -11,7 +11,7 @@ vietnamese:
   - thiến
 middle_chinese_initial: d͡ʑ
 middle_chinese_final: iᴇn
-stroke_count: "12"
+stroke_count: 12
 radical: 口
 skip_number: 2-3-9
 grade_level: "4"

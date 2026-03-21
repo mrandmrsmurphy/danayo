@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: a
-stroke_count: "11"
+stroke_count: 11
 radical: 舟
 skip_number: 1-6-5
 grade_level: "先進"

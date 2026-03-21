@@ -1,7 +1,7 @@
 ---
-mandarin: "xiōng"
-cantonese: "hung1"
-korean: "흉"
+mandarin: xiōng
+cantonese: hung1
+korean: 흉
 korean_native: ""
 japanese:
   - KYOU
@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: ɨoŋ
-stroke_count: "4"
+stroke_count: 4
 radical: 凵
 skip_number: 3-2-2
 grade_level: "3"

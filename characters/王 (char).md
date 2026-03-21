@@ -8,7 +8,8 @@ japanese:
 japanese_nanori:
   - きみ
 vietnamese:
-  - vương, vướng
+  - vương
+  - vướng
 middle_chinese_initial: ø
 middle_chinese_final: ʉɐŋ
 stroke_count: 4

@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: ei
-stroke_count: "12"
+stroke_count: 12
 radical: 女
 skip_number: 1-3-9
 grade_level: "先進"

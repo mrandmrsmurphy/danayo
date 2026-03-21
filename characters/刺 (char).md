@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iᴇk
-stroke_count: "12"
+stroke_count: 12
 radical: 刀
 skip_number: 1-6-6
 grade_level: "5"

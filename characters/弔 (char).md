@@ -1,7 +1,7 @@
 ---
-mandarin: "diào"
-cantonese: "diu3"
-korean: "조"
+mandarin: diào
+cantonese: diu3
+korean: 조
 korean_native: ""
 japanese:
   - CHOU
@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ek
-stroke_count: "4"
+stroke_count: 4
 radical: 弓
 skip_number: 4-4-1
 grade_level: "5"

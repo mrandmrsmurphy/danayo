@@ -11,7 +11,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨɐk
-stroke_count: "13"
+stroke_count: 13
 radical: 水
 skip_number: 1-3-10
 grade_level: "6"

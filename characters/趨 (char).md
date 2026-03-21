@@ -11,7 +11,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: ɨo
-stroke_count: "17"
+stroke_count: 17
 radical: 走
 skip_number: 3-10-7
 grade_level: "先進"

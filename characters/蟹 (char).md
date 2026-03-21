@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛ
-stroke_count: "19"
+stroke_count: 19
 radical: 虫
 skip_number: 2-6-13
 grade_level: "名"

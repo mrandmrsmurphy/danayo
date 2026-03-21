@@ -11,7 +11,7 @@ vietnamese:
   - kiều, cầu, kéo, kèo
 middle_chinese_initial: g
 middle_chinese_final: ɣiᴇu
-stroke_count: "16"
+stroke_count: 16
 radical: 木
 skip_number: 1-4-12
 grade_level: "1"

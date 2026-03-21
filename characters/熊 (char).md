@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: 0
 middle_chinese_final: ɨuŋ
-stroke_count: "24"
+stroke_count: 24
 radical: 火
 skip_number: 2-10-14
 grade_level: "名"

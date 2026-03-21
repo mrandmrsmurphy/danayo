@@ -1,7 +1,7 @@
 ---
-mandarin: "gān"
-cantonese: "gam1"
-korean: "감"
+mandarin: gān
+cantonese: gam1
+korean: 감
 korean_native: ""
 japanese:
   - KAN
@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɑm
-stroke_count: "5"
+stroke_count: 5
 radical: 甘
 skip_number: 4-5-2
 grade_level: "3"

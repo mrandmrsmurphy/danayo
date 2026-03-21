@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: tʰ
 middle_chinese_final: eŋ
-stroke_count: "5"
+stroke_count: 5
 radical: 水
 skip_number: 1-3-2
 grade_level: "先進"

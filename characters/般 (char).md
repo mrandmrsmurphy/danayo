@@ -11,7 +11,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ɣan
-stroke_count: "10"
+stroke_count: 10
 radical: 舟
 skip_number: 1-6-4
 grade_level: "5"

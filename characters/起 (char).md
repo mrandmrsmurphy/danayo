@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨ
-stroke_count: "10"
+stroke_count: 10
 radical: 走
 skip_number: 3-7-3
 grade_level: "1"

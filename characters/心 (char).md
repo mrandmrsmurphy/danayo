@@ -8,7 +8,9 @@ japanese:
 japanese_nanori:
   - こころ
 vietnamese:
-  - tâm, tấm, tim
+  - tâm
+  - tấm
+  - tim
 middle_chinese_initial: s
 middle_chinese_final: iɪm
 stroke_count: 4

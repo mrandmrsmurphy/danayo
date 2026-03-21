@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t͡ʃʰ
 middle_chinese_final: ɣɛp
-stroke_count: "6"
+stroke_count: 6
 radical: 手
 skip_number: 1-3-3
 grade_level: "先進"

@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: ɑn
-stroke_count: "6"
+stroke_count: 6
 radical: 水
 skip_number: 1-3-3
 grade_level: "5"

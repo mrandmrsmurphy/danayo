@@ -8,7 +8,7 @@ japanese_nanori: くも-る
 vietnamese: đàm
 middle_chinese_initial: d
 middle_chinese_final: ʌm
-stroke_count: "16"
+stroke_count: 16
 radical: 日
 skip_number: 2-4-12
 grade_level: "4"

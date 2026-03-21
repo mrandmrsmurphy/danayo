@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʈ
 middle_chinese_final: ɣæk
-stroke_count: "14"
+stroke_count: 14
 radical: 女
 skip_number: 1-3-11
 grade_level: "先進"

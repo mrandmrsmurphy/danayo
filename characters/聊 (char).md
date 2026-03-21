@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: eu
-stroke_count: "11"
+stroke_count: 11
 radical: 耳
 skip_number: 1-6-5
 grade_level: "先進"

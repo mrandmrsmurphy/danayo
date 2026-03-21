@@ -11,7 +11,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ɨun
-stroke_count: "7"
+stroke_count: 7
 radical: 手
 skip_number: 1-3-4
 grade_level: "先進"

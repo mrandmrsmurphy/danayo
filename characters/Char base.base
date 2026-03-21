@@ -12,9 +12,11 @@ views:
       - danayo_id
       - korean
       - hanmun_edu_level
-      - mandarin
-      - cantonese
+      - stroke_count
+      - vietnamese
     sort:
+      - property: stroke_count
+        direction: ASC
       - property: korean
         direction: ASC
       - property: grade_level
@@ -45,8 +47,6 @@ views:
         direction: DESC
       - property: 羅馬字
         direction: ASC
-      - property: stroke_count
-        direction: DESC
       - property: radical
         direction: ASC
       - property: pos
@@ -67,8 +67,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 64
-      note.hanmun_edu_level: 131
       formula.score: 112
-      note.grade_level: 228
       note.danayo_id: 64
-      note.middle_chinese_final: 107
+      note.hanmun_edu_level: 131
+      note.stroke_count: 205

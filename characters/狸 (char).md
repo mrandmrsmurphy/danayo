@@ -10,7 +10,7 @@ vietnamese:
   - li
 middle_chinese_initial: l
 middle_chinese_final: ɨ
-stroke_count: "10"
+stroke_count: 10
 radical: 犬
 skip_number: 1-3-7
 grade_level: "名"

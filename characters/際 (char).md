@@ -10,7 +10,7 @@ vietnamese:
   - tế
 middle_chinese_initial: t͡s
 middle_chinese_final: iᴇi
-stroke_count: "14"
+stroke_count: 14
 radical: 阜
 skip_number: 1-3-11
 grade_level: "4"

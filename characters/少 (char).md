@@ -1,7 +1,7 @@
 ---
-mandarin: "shǎo"
-cantonese: "siu2"
-korean: "소"
+mandarin: shǎo
+cantonese: siu2
+korean: 소
 korean_native: ""
 japanese:
   - SHOU
@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ɕ
 middle_chinese_final: iᴇu
-stroke_count: "4"
+stroke_count: 4
 radical: 小
 skip_number: 4-4-4
 grade_level: "1"
@@ -17,7 +17,7 @@ pos: ""
 english:
   - few
 羅馬字: sou
-韓文:  솟
+韓文: 솟
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
