@@ -110,7 +110,7 @@ This has been checked for redirects.
 [卦](characters/卦%20(char).md) [[罫]] 
 
 ### 괴 
-[乖](characters/乖.md) [傀](characters/傀.md) [拐](characters/拐.md) [[槐]] (do it) [魁](characters/魁.md) 
+[乖](characters/乖.md) [傀](characters/傀.md) [拐](characters/拐.md) [[characters/槐]] (do it) [魁](characters/魁.md) 
 
 ### 굉 
 [[宏]] [紘](characters/紘.md) [肱](characters/肘%20(char).md) [轟](characters/軣.md)

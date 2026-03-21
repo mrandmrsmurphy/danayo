@@ -957,7 +957,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 ## New Characters
 - [[蒦]] in [[characters/蠖]]
 - [[壕]] in [[characters/豪]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], 
-- [[槐]] in [[lexipedia/Calendar]], [[lookup/Korean/Korean Name ㄱ]]
 - [[臘]] in [[lexipedia/Calendar]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
 - [[挪]] in [[lexipedia/Geography]], [[lookup/Korean/Korean Name ㄴ]]
 - [[錀]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㄹ]]

@@ -67,7 +67,7 @@ Or a poetic one:
 |1|正月|principal month|
 |2|[[杏]]月|apricot blossom month|
 |3|[[桃]]月|peach blossom month|
-|4|[[槐]]月|pagoda-tree month|
+|4|[[characters/槐]]月|pagoda-tree month|
 |5|[[榴]]月|pomegranate month|
 |6|[[荷]]月|lotus month|
 |7|[[蘭]]月|orchid month|
