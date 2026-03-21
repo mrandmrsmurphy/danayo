@@ -1,6 +1,6 @@
 These have been checked for redirects.
 ### 마
-[瑪](characters/馬%20(char).md) [[痲]] [碼](characters/馬%20(char).md) [媽](characters/媽.md)
+[瑪](characters/馬%20(char).md) [痲](characters/麻.md) [碼](characters/馬%20(char).md) [媽](characters/媽.md) [魔](characters/魔.md)
 
 ### 막
 [寞](characters/寞.md) [膜](characters/膜.md) [[邈]]

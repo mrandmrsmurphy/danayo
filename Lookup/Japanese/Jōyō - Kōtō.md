@@ -972,7 +972,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1995. [[麻]] : hemp
 1996. [[磨|摩]] : chafe
 1997. [[磨]] : grind
-1998. [[魔]] : witch
+1998. [[characters/魔]] : witch
 1999. [[昧]] : foolish
 ## 2000
 2000. [[埋]] : bury

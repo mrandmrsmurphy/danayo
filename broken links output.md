@@ -1334,7 +1334,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[綾]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
 - [[暉]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
 - [[柾]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
-- [[魔]] in [[lookup/Japanese/Jōyō - Kōtō]]
 - [[粳]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-6-7]]
 - [[覡]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
 - [[誡]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
@@ -1377,4 +1376,3 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[嫦]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
 - [[誨]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
 - [[紇]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-10-11]]
-- [[characters/䦧]] in [[lookup/SKIP/SKIP-3/SKIP-3-10-16]], [[lookup/SKIP/SKIP-3/SKIP-3-10-8]]
