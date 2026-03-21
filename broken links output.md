@@ -1,5 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[莊子]] in [[Redeeming the Six Arts]], [[words/混沌]]
+
+
 - [[ㄊㄧㄊ]] in [[Syllable Counts]], [[characters/屮]], [[syllables/Syllables]]
 - [[信条]] in [[bible/基督敎 elements]]
 - [[尼西亜]] in [[bible/基督敎 elements]]
