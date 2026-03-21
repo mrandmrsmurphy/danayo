@@ -1,7 +1,7 @@
 ---
-mandarin: "niáng"
-cantonese: "noeng4"
-korean: "낭"
+mandarin: niáng
+cantonese: noeng4
+korean: 낭
 korean_native: ""
 japanese:
   - NYOU
@@ -19,7 +19,7 @@ english:
 羅馬字: nang
 韓文: 낭
 joyo_level: 高等
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 5023
 mc_id: 5193
@@ -32,9 +32,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 娘.
 >For the word, see [娘](words/娘.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- should this be nyang?

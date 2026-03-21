@@ -1,7 +1,7 @@
 ---
-mandarin: "ěr"
-cantonese: "ji5"
-korean: "이"
+mandarin: ěr
+cantonese: ji5
+korean: 이
 korean_native: ""
 japanese:
   - JI
@@ -20,8 +20,8 @@ english:
 羅馬字: ne
 韓文: 너
 joyo_level: 日本人名用漢字
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 2164
 mc_id: 572
 graphemic_classification: 象形
