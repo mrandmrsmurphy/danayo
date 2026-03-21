@@ -9,7 +9,7 @@ language: English
 
 ## Language Arts 
 book - <ruby>書本<rt>ㄙ˙ㄛㄅㄛㄋ</rt></ruby>
-brush - <ruby>刷子<rt>ㄙˇㄚㄊㄐㄧ</rt></ruby>
+brush - <ruby>[刷子](words/刷子.md)<rt>ㄙˇㄚㄊㄐㄧ</rt></ruby>
 chapter - <ruby>章<rt>ㄐㄚㄥ</rt></ruby>
 history - <ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>
 letter - <ruby>文書<rt>ㄇㄨㄋㄙ˙ㄛ</rt></ruby>
