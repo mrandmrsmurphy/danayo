@@ -1,5 +1,5 @@
 ## Whoops
-, 兮, 冗, 冥, 凜, 勲, 哉, 唄, 唵, 喋, 坪, 垣, 塚, 壅, 奚, 妊, 妙, 妾, 姫, 婿, 嫡, 寝, 尉, , 弥, 扉, 拂, 捨, 捺, 撮, 札, 杖, 枢, 栓, 桁, 楷, 槌, 櫛, 汀, 汎, 汝, 汲, 浦, 浬, 涯, 溺, 漬, 焉, 甥, 癖, 皿, 矢, 禅, 穣, 窺, 竦, 筈, 箸, 紺, 絹, 繰, 翌, 耶, 耽, 肴, 腕, 膿, 臼, 舵, 苔, 苺, 菱, 葛, 薫, 蛭, 蟄, 蟹, 袂, 褐, 褒, 訥, 詣, 諂, 諦, 豚, 賃, 贋, 蹴, 軸, 逞, 遣, 郡, 鉗
+, 壅, 奚, 妊, 妙, 妾, 姫, 婿, 嫡, 寝, 尉, , 弥, 扉, 拂, 捨, 捺, 撮, 札, 杖, 枢, 栓, 桁, 楷, 槌, 櫛, 汀, 汎, 汝, 汲, 浦, 浬, 涯, 溺, 漬, 焉, 甥, 癖, 皿, 矢, 禅, 穣, 窺, 竦, 筈, 箸, 紺, 絹, 繰, 翌, 耶, 耽, 肴, 腕, 膿, 臼, 舵, 苔, 苺, 菱, 葛, 薫, 蛭, 蟄, 蟹, 袂, 褐, 褒, 訥, 詣, 諂, 諦, 豚, 賃, 贋, 蹴, 軸, 逞, 遣, 郡, 鉗
 
 ## List
 [[皿]]
@@ -23,8 +23,8 @@
 [[埼]]
 [[姫]]
 [[儒]]
-[[哉]]
-[[兮]]
+[哉 (char)](characters/哉%20(char).md)
+[兮 (char)](characters/兮%20(char).md)
 [[曖]]
 [[朱]]
 [[椎]]
@@ -56,25 +56,25 @@
 [[卯]]
 [[僧]]
 [[劉]]
-[[唄]]
-[[趙]]
-[[呉]]
-[[蔡]]
-[[陛]]
-[[稚]]
-[[潘]]
-[[汎]]
-[[寅]]
-[[亥]]
-[[冥]]
-[[嗣]]
-[[俳]]
-[[坪]]
+[唄 (char)](characters/唄%20(char).md)
+[趙](characters/趙.md)
+[呉](characters/呉.md)
+[蔡](characters/蔡.md)
+[陛](characters/陛.md)
+[稚](characters/稚.md)
+[潘](characters/潘.md)
+[汎 (char)](characters/汎%20(char).md)
+[寅](characters/寅.md)
+[亥](characters/亥.md)
+[冥 (char)](characters/冥%20(char).md)
+[嗣](characters/嗣.md)
+[俳](characters/俳.md)
+[坪 (char)](characters/坪%20(char).md)
 [[兀]]
 [[尉]]
 [[渦]]
 [[厄]]
-[[塚]]
+[塚 (char)](characters/塚%20(char).md)
 [[遂]]
 [[恣]]
 [[癖]]
@@ -98,16 +98,15 @@
 [[赦]]
 [[憧]]
 [[拭]]
-[[吏]]
-[[募]]
-[[稽]]
-[[堀]]
-[[冗]]
+[吏](characters/吏.md)
+[募](characters/募.md)
+[稽](characters/稽.md)
+[堀](characters/堀.md)
+[冗 (char)](characters/冗%20(char).md)
 [鎌 (char)](characters/鎌%20(char).md)
 [隅 (char)](characters/隅%20(char).md)
-[[陵]]
-[[潟]]
-[[勲]]
+[潟](characters/潟.md)
+[勲 (char)](characters/勲%20(char).md)
 [[仲]]
 [[藩]]
 [[枢]]
@@ -136,7 +135,7 @@
 [[胎]]
 [[娠]]
 [[翌]]
-[[垣]]
+[垣 (char)](characters/垣%20(char).md)
 [[綻]]
 [[鈍]]
 [[囚]]
@@ -299,7 +298,6 @@
 [[螂]]
 [鮎 (char)](characters/鮎%20(char).md)
 [旭](characters/旭.md)
-[鱒](characters/尊.md)
 [銑](characters/銑.md)
 [茸](characters/茸.md)
 [頤 (char)](characters/頤%20(char).md)
@@ -313,7 +311,7 @@
 [[舜]]
 [[嬉]]
 [鼎 (char)](characters/鼎%20(char).md)
-[[凜]]
+[凜 (char)](characters/凜%20(char).md)
 [[盧]]
 [[昊]]
 [[蝸]]
@@ -346,12 +344,11 @@
 [[肛]]
 [[剌]]
 [[彦]]
-[[唵]]
+[唵 (char)](characters/唵%20(char).md)
 [[桧]]
 [[穣]]
 [[渚]]
 [[仄]]
-[鷺](characters/路.md)
 [硯](characters/硯.md)
 [閻 (char)](characters/閻%20(char).md)
 [蠣](characters/厉%20(char).md)
@@ -381,7 +378,7 @@
 [[匈]]
 [[貂]]
 [[禹]]
-[[喋]]
+[喋 (char)](characters/喋%20(char).md)
 [鱗 (char)](characters/鱗%20(char).md)
 [[戮]]
 [[蟄]]
@@ -401,7 +398,6 @@
 [[囧]]
 [[朧]]
 [諱 (char)](characters/諱%20(char).md)
-[鮟](characters/安.md)
 [[鰐]]
 [[衲]]
 [[嚢]]
@@ -451,7 +447,6 @@
 [[迂]]
 [[逞]]
 [俣](characters/俁.md)
-[[凰]]
 [[笠]]
 [[鉦]]
 [[乂]]
@@ -557,10 +552,8 @@
 [彿](characters/彿.md)
 [鼈 (char)](characters/鼈%20(char).md)
 [倦](characters/倦.md)
-[閤](characters/合%20(char).md)
 [埴](characters/埴.md)
 [漑](characters/漑.md)
-[摺](characters/折.md)
 [鮐](characters/鮐.md)
 [[鯤]]
 [[雍]]

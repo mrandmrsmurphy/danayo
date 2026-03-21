@@ -1,7 +1,7 @@
 ---
-mandarin: "hóu"
-cantonese: "hau4"
-korean: "후"
+mandarin: hóu
+cantonese: hau4
+korean: 후
 korean_native: ""
 japanese:
   - KOU
@@ -19,7 +19,7 @@ english:
 羅馬字: hou
 韓文: 홋
 joyo_level: 高等
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 5351
 mc_id: 33

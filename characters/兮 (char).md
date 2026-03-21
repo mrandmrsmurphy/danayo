@@ -1,7 +1,7 @@
 ---
-mandarin: "xī"
-cantonese: "hai4"
-korean: "혜"
+mandarin: xī
+cantonese: hai4
+korean: 혜
 korean_native: ""
 japanese:
   - KEI
@@ -19,7 +19,7 @@ english:
 羅馬字: hei
 韓文: 헤
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 5115
 mc_id: 258
