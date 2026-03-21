@@ -373,8 +373,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[十八]] in [[characters/十]]
 - [[五代十国]] in [[characters/十]], [[lexipedia/歴史綱要]]
 
-- [[牡厉]] in [[characters/厉 (char)]]
-- [[厉病]] in [[characters/厉 (char)]]
 - [[厳然]] in [[characters/厳 (char)]]
 - [[傾向]] in [[characters/向 (char)]]
 - [[堅魚]] in [[characters/堅]]

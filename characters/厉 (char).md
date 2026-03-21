@@ -1,25 +1,27 @@
 ---
-mandarin: "lì"
-cantonese: "lai6"
-korean: "려"
+mandarin: lì
+cantonese: lai6
+korean: 려
 korean_native: 엄할/숫돌
 japanese:
   - REI
-japanese_nanori: ""
+japanese_nanori:
+  - きつい
 vietnamese:
+  - lẹ, lệ
 middle_chinese_initial: l
 middle_chinese_final: iᴇi
 stroke_count: 5
 radical: 厂
 skip_number: 3-2-3
-grade_level: "先進"
+grade_level: 先進
 pos: 名詞
 english:
   - whetstone
 羅馬字: le
 韓文: 러
-joyo_level: ""
-hsk_level: ""
+joyo_level: 表外字
+hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 7460
 mc_id: 770
@@ -44,5 +46,5 @@ aliases:
 
 # Notes
 ### 借代字
-- 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[牡厉]]
-- "leprosy", hence --> [[厉病]] (and 厉人 for 'leper')
+- 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[words/牡厉]]
+- "leprosy", hence --> [[words/厉病]] (and 厉人 for 'leper')
