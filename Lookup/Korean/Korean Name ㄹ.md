@@ -1,19 +1,19 @@
 All of these have been checked for redirects.
 
 ### 라
-[螺](characters/螺.md) [喇](characters/喇.md) [懶](characters/懶.md) 癩 --> 厉 [蘿](characters/蘿.md) [裸](characters/裸%20(char).md) [邏](characters/邏.md) [[剆]] [[覶]] [[摞]] [[蓏]] 
+[螺](characters/螺.md) [喇](characters/喇.md) [懶](characters/懶.md) 癩 --> 厉 [蘿](characters/蘿.md) [裸](characters/裸%20(char).md) [邏](characters/邏.md) 剆 覶 摞 蓏 
 
 ### 락
-[[珞]] [酪](characters/酪.md) [[烙]] [駱](characters/駱.md) [洛](characters/洛.md)
+[珞](characters/絡%20(char).md) [酪](characters/酪.md) [烙](characters/落.md) [駱](characters/駱.md) [洛](characters/洛.md)
 
 ### 란
-[瀾](characters/乱.md) [[瓓]] 丹 done [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md)
+[瀾](characters/乱.md) 瓓 [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md)
 
 ### 랄
 [剌](characters/剌.md) [辣](characters/辣%20(char).md)
 
 ### 람 
-[嵐](characters/嵐.md) [攬](characters/攬.md) [欖](characters/欖.md) [籃](characters/籃.md) [[纜]] [[襤]] [藍](characters/藍%20(char).md) [[㛦]] [[灆]] [[婪]]
+[嵐](characters/嵐.md) [攬](characters/攬.md) [欖](characters/欖.md) [籃](characters/籃.md) [[纜]]-->[[[䌫]] [[襤]] [藍](characters/藍%20(char).md) [[㛦]] [[灆]] [[婪]]
 
 ### 랍 
 [拉](characters/拉%20(char).md) [[臘]] [蠟](characters/蝋.md)

@@ -1,7 +1,7 @@
 ---
-mandarin: "luò"
-cantonese: "lok3"
-korean: "락"
+mandarin: luò
+cantonese: lok3
+korean: 락
 korean_native: ""
 japanese:
   - RAKU
@@ -28,13 +28,13 @@ graphemic_classification: 各
 stand_in: 絡
 aliases:
   - 络
+  - 珞
 注音: ㄌㄚㄎ
 ---
 >[!tip] This is a page about the character 絡.
 >For the word, see [絡](words/絡.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 瓔珞 --> [[䋝絡]]/纓絡
