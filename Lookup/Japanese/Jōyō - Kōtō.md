@@ -1065,7 +1065,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2087. [[慮]] : prudence
 2088. [[了]] : finish
 2089. [[涼]] : refreshing
-2090. [[猟 (char)]] : 	獵	game-hunting
+2090. [[characters/獵 (char)]] : 	獵	game-hunting
 2091. [[陵]] : mausoleum
 2092. [[僚]] : colleague
 2093. [[寮]] : dormitory

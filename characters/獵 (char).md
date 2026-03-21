@@ -23,14 +23,13 @@ hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5120
 mc_id: 1334
-graphemic_classification: 鼡
-stand_in: 猟
+graphemic_classification: 鼠
+stand_in: 獵
 aliases:
-  - 獵
 注音: ㄌㄛㄆ
 ---
->[!tip] This is a page about the character 猟.
->For the word, see [猟](words/猟.md)
+>[!tip] This is a page about the character 獵.
+>For the word, see [[獵]
 
 ```meta-bind-embed
 [[nav/char_info]]

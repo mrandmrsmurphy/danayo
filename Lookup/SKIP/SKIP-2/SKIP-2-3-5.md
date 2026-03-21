@@ -9,7 +9,7 @@ skip_number: 2-3-5
 
 ## Characters
 1. [[𡿺]]
-2. [[鼡]]
+2. [[characters/鼠]]
 3. [[茎 (char)]]
 4. [[茉]]
 5. [[茅]]

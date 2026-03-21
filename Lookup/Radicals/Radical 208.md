@@ -7,7 +7,7 @@ radical: 鼠
 > **Radical 208** is the "rat" radical, 鼠.  
 
 ## Characters
-1. <ruby>鼡<rt>ㄙ·ㄛ</rt></ruby> - rat
+1. <ruby>鼠<rt>ㄙ·ㄛ</rt></ruby> - rat
 ### Redirects
 - 鼯 --> 吾
 - 鼴 --> 晏

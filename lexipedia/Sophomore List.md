@@ -20,32 +20,71 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- brown/dark - <ruby>[褐](/words/褐.md)<rt>ㄏㄚㄊ</rt></ruby>
 	- light - <ruby>[柔軟](/words/柔軟.md)<rt>ㄋ˙ㄨㄋㄧㄋ</rt></ruby>
 ### Opposites
-* beautiful - <ruby>[[美]]<rt>미</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>추악</rt></ruby>
-* fast - <ruby>[[速]]<rt>속</rt></ruby>, slow - <ruby>[[緩慢]]<rt>환만</rt></ruby>
-* first - <ruby>[[第一]]<rt>dei'it</rt></ruby> , last - <ruby>[[最後]]<rt>jwehou</rt></ruby>
-* hard - <ruby>[[硬]]<rt>'ang</rt></ruby>, soft - <ruby>[[柔]]<rt>nyu</rt></ruby>
-* full - <ruby>[[満]]<rt>man</rt></ruby>, empty - <ruby>[[空]]<rt>kong</rt></ruby>
-* smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>'u</rt></ruby>
-* real - <ruby>[[真]]<rt>jin</rt></ruby> , fake <ruby>[[不真]]<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>'an</rt></ruby>)
-* upper - 上- , lower - 下-
-* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[便]]<rt>byen</rt></ruby>
-* sweet - <ruby>[[甘]]<rt>gam</rt></ruby> , sour - <ruby>[[酸]]<rt>swam</rt></ruby>
-* strong - <ruby>[[強]]<rt>gyang</rt></ruby> , weak - <ruby>[[柔]]<rt>nyu</rt></ruby>
+* beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>ㄑㄨ·ㄚㄎ</rt></ruby>
+* fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏˇㄚㄋㄇㄚㄋ</rt></ruby>
+* first - <ruby>[[第一]]<rt>ㄉㄝ˙·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐˇㄝㄏㄛˇ</rt></ruby>
+* hard - <ruby>[[硬]]<rt>ㄚㄥ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ˙ㄨ</rt></ruby>
+* full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄥ</rt></ruby>
+* smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
+* real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake <ruby>[[不真]]<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>ㄚㄋ</rt></ruby>)
+* upper - [[上]]- , lower - [[下]]-
+* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[便]]<rt>ㄅ˙ㄝㄋ</rt></ruby>
+* sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙˇㄚㄇ</rt></ruby>
+* strong - <ruby>[[強]]<rt>ㄍ˙ㄚㄥ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ˙ㄨ</rt></ruby>
 * different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
 - Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuudii</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[湾曲]]
-- Emotions : glad - <ruby>[[高興]]<rt>gauhing</rt></ruby>, happy - <ruby>[[歓喜]]<rt>hwanhi</rt></ruby>, sad - <ruby>[[哀傷]]<rt>'aisyang</rt></ruby>, tired - <ruby>[[疲労]]<rt>pilau</rt></ruby> , angry - <ruby>[[怒]]<rt>no</rt></ruby> , crazy - <ruby>[[風狂]]<rt>punggwang</rt></ruby>
+- Emotions : glad - <ruby>[[高興]]<rt>gauhing</rt></ruby>, happy - <ruby>[[歓喜]]<rt>hwanhi</rt></ruby>, sad - <ruby>[[哀傷]]<rt>'aisyang</rt></ruby>, tired - <ruby>[[疲労]]<rt>pilau</rt></ruby> , angry - <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby> , crazy - <ruby>[[風狂]]<rt>punggwang</rt></ruby>
 - Character : careful, lucky, smart, wise, foolish, healthy, sick
 - Value : important, interesting, boring, wonderful, strange
 - Abstractions : funny, easy, difficult, alone, free, normal, special, probable, secret
 
 ## Nouns
-- Natural substances : air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, glass - <ruby>[[璃]]<rt>le</rt></ruby>, iron - <ruby>[[words/鉄]]<rt>ㄊㄝㄊ</rt></ruby>, gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
-- Territory : nature, world - <ruby>[[世界]]<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>, land
-- Time: week - <ruby>[[週日]]<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>, month - <ruby>[月](words/月.md)<rt>ˇㄝㄊ</rt></ruby>, yesterday - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>, today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, tomorrow - <ruby>[[来日]]<rt>ㄌㄚ˙ㄋㄧㄊ</rt></ruby>, morning - <ruby>[[朝]]<rt>ㄐㄚˇ</rt></ruby>, afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛˇ</rt></ruby>
-- Season : spring - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>, summer - <ruby>[[夏]]<rt>ㄏ˙ㄚ</rt></ruby>, fall - <ruby>[[秋]]<rt>ㄑㄨˇ</rt></ruby>, winter - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>
-- Geographical : hill, farm, field, island - <ruby>[[島]]<rt>ㄊㄚˇ</rt></ruby>
-- Body Parts : body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝ˙</rt></ruby>, lip - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby>, breast - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄥ</rt></ruby>,  butt - <ruby>[[尻]]<rt>ㄎㄚˇ</rt></ruby>, muscle - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>, brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>
-- Animals : cat, cow, chicken, horse, pig, mouse, monkey, lion, bug, wolf
+- Natural substances
+	- air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, 
+	- glass - <ruby>[[璃]]<rt>ㄌㄝ</rt></ruby>, 
+	- iron - <ruby>[[words/鉄]]<rt>ㄊㄝㄊ</rt></ruby>, 
+	- gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, 
+	- silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
+- Territory : 
+	- nature, 
+	- world - <ruby>[[世界]]<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>, 
+	- land
+- Time: 
+	- week - <ruby>[[週日]]<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>, 
+	- month - <ruby>[月](words/月.md)<rt>ˇㄝㄊ</rt></ruby>, 
+	- yesterday - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>, 
+	- today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, 
+	- tomorrow - <ruby>[[来日]]<rt>ㄌㄚ˙ㄋㄧㄊ</rt></ruby>, 
+	- morning - <ruby>[[朝]]<rt>ㄐㄚˇ</rt></ruby>, 
+	- afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛˇ</rt></ruby>
+- Season : 
+	- spring - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>, 
+	- summer - <ruby>[[夏]]<rt>ㄏ˙ㄚ</rt></ruby>, 
+	- fall - <ruby>[[秋]]<rt>ㄑㄨˇ</rt></ruby>, 
+	- winter - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>
+- Geographical : 
+	- hill, 
+	- farm, 
+	- field, 
+	- island - <ruby>[[島]]<rt>ㄊㄚˇ</rt></ruby>
+- Body Parts : 
+	- body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝ˙</rt></ruby>, 
+	- lip - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby>, 
+	- breast - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄥ</rt></ruby>,  
+	- butt - <ruby>[[尻]]<rt>ㄎㄚˇ</rt></ruby>, 
+	- muscle - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>, 
+	- brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>
+- Animals : 
+	- cat, 
+	- cow, 
+	- chicken, 
+	- horse, 
+	- pig, 
+	- mouse, 
+	- monkey, 
+	- lion, 
+	- bug, 
+	- wolf
 - Plants : grain, bread, branch
 - People : girl, boy, girlfriend, boyfriend, friend, baby
 - Family : family, sister, brother, son, daughter

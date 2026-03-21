@@ -17,7 +17,7 @@ language: English
 - [[馬]] : horse, members of the species Equus ferus
 - [[怪物]] : monster, mysterious figure
 - [[妖物]] : monster, bewitching figure
-- <ruby>熊鼡<rt>ㄨㄥㄙ˙ㄛ</rt></ruby> : rat
+- <ruby>[[熊鼠]]<rt>ㄨㄥㄙ˙ㄛ</rt></ruby> : rat
 - <ruby>[[兎]]<rt>토</rt></ruby> : rabbit
 - [[蛇]] : snake
 - [[蜘蛛]] : spider
