@@ -48,8 +48,9 @@ aliases:
 ```
 
 # Notes
-1. 
+1. both
 2. 借代字 for "tree and rock demon"
+	1. <ruby>[罔両](/words/罔両.md)<rt>ㄇㄚㄥㄌ˙ㄚㄥ</rt></ruby>
 
 ## Words
 - [[両親]] - parents

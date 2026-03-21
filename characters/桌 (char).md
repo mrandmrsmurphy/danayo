@@ -13,7 +13,7 @@ radical: 木
 skip_number: 2-6-4
 grade_level: "5"
 pos: 名詞
-english: table, desk, stand
+english: [table, desk, stand]
 羅馬字: tag
 韓文: 탁
 joyo_level: 表外字

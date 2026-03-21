@@ -53,3 +53,4 @@ aliases:
 
 ## Chengyu
 - <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄥㄋ˙ㄚㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
+- [[造人像形]]
