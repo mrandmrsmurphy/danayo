@@ -44,4 +44,4 @@ aliases:
 
 # Notes
 - [[卯]] + [[田]] = [[SKIP-2-5-5]], [[Stroke 10]]
-- [[Korean MS]], [[Jōyō - Kyōiku]], [[HSK Beginner]]
+- [[Korean MS]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]]

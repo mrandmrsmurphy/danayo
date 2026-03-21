@@ -960,7 +960,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[臘]] in [[lexipedia/Calendar]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
 - [[挪]] in [[lexipedia/Geography]], [[lookup/Korean/Korean Name ㄴ]]
 - [[錀]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㄹ]]
-- [[樣]] in [[lookup/HSK Beginner]], [[lookup/Korean/Korean Name ㅅ]]
+- [[樣]] in [[lookup/HSK/HSK Beginner]], [[lookup/Korean/Korean Name ㅅ]]
 - [[閾]] in [[lookup/Japanese/Hyōgai]]
 - [[溢]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
 - [[隕]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]

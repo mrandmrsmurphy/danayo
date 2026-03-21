@@ -40,7 +40,7 @@ date-last-perfect: 2026-03-08
 ```
 ## Notes
 - 形声: OC \*zlɯs): semantic [宀](Radical%20040) (“roof”) + phonetic [子](Radical%20039) (OC \*ʔslɯʔ, “child”) - [ㄐㄧ](syllables/ㄐㄧ.md)
-- [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
+- [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 
 
 ## Words

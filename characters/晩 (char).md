@@ -42,7 +42,7 @@ date-last-perfect: 2026-03-13
 ```
 ## Notes
 - 形声 (OC \*monʔ): semantic [日](Radical%20072) + phonetic [免](characters/免.md) (OC \*mronʔ).
-- [HSK Beginner](lookup/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
+- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
 - [SKIP-1-4-8](lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄇㄛㄋ](syllables/ㄇㄛㄋ.md)
 
 ## Word

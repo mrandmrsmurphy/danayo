@@ -48,7 +48,7 @@ date-last-perfect: 2026-03-10
 - Also pronounced /ɣʌp/ in MC: our pronunciation is a merger of the two.
 - 会意: [亼](characters/集.md) + [口](Radical%20030) (“mouth”) : Two mouths speaking together.[[集]]
 - [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md)) - [[ㄍㄛㄆ]]
-- [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 2](lookup/Grade%202.md)
+- [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 2](lookup/Grade%202.md)
 
 Descendants
 - [恰 (char)](characters/恰%20(char).md)

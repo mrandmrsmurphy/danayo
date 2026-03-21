@@ -42,7 +42,7 @@ aliases:
 ```
 ## Notes
 - A pictogram ([象形](lookup/List%20of%20象形.md)) of a fish. A conservative variant is 𤋳.
-- [HSK Beginner](lookup/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
+- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
 - [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [˙ㄛ](syllables/˙ㄛ.md)
 
 ## Words

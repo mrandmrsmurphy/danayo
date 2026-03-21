@@ -46,7 +46,7 @@ aliases:
 
 ## Notes
 - [[SKIP-4-2-4]] ([[Stroke 02]]) [[ㄌㄧㄎ]]
-- [[Grade 1]], [[Jōyō - Kyōiku]], [[HSK Beginner]], [[Korean MS]]
+- [[Grade 1]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]], [[Korean MS]]
 ## Words
 - [[勢力]] - power
 - [[協力]] - work together

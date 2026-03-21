@@ -44,7 +44,7 @@ date-last-perfect: 2026-03-15
 ## Notes
 - 云 was the original form of this word, but the weather radical ([雨](Radical%20173)) was added as the meaning "speak" came to be associated with it.  We fold 云 into this character.
 - [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄨㄋ](syllables/ㄨㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[雲呑](/words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby> - wontons

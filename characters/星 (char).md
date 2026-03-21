@@ -49,7 +49,7 @@ swadesh: "149"
 # Notes
 - stacked [日](Radical%20072) + [生](characters/生.md) 
 - [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md)) - [[ㄙㄝㄥ]]
-- Japanese [second grade](Jōyō%20-%20Kyōiku), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 3](lookup/Grade%203.md) in Dan'a'yo
+- Japanese [second grade](Jōyō%20-%20Kyōiku), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 3](lookup/Grade%203.md) in Dan'a'yo
 - Swadesh #149
 - Derived characters: 惺, 湦, [[猩]], 暒, 煋, 瑆, 腥, 睲, 䃏, 䗌, 謃, [[醒]], 鍟 (𰾝), 鯹 (𬶢), 戥, 篂
 

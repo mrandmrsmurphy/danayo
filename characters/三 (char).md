@@ -34,7 +34,7 @@ date-last-perfect: 2026-01-30
 ## Numeral
 - three, 3, integer more than 2 and less than 4
 - [一](Radical%20001) + [二](二%20(char)) = [SKIP-2-1-2](lookup/SKIP/SKIP-2/SKIP-2-1-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md)) - [ㄙㄚㄇ](syllables/ㄙㄚㄇ.md)
-- [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
+- [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 - [List of 指事](lookup/List%20of%20指事.md) - three parallel strokes. Compare with 一, one stroke meaning “one”, 二, two strokes meaning “two”, and 亖, four strokes meaning “four”. Triplication of 一 (“one”).
 
 ## Usage

@@ -49,6 +49,6 @@ date-last-perfect:
 ## Notes
 - According to Shuowen, a phono-semantic compound (形聲 / 形声, OC \*qrɯm): semantic [阜](Radical%20170) + phonetic 侌 (yīn, which itself is [[今]]+ 云).
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [ㄧㄇ](syllables/ㄧㄇ.md)
-- [HSK Beginner](lookup/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[陰性](/words/陰性.md)<rt>ㄧㄇㄙㄧㄥ</rt></ruby> - negativity, feminine gender

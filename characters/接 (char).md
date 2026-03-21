@@ -40,4 +40,4 @@ aliases:
 ## Notes
 - 形声: OC \*ʔseb): semantic [扌](Radical%20064) + phonetic [妾](characters/妾%20(char).md) (OC \*sʰeb) – to receive (in the hand).
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([[Stroke 11]]) - [[ㄐㄛㄆ]]
-- [HSK Beginner](lookup/HSK%20Beginner.md), [Korean HS](lookup/Korean/Korean%20HS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Grade 2](lookup/Grade%202.md)
+- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Korean HS](lookup/Korean/Korean%20HS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Grade 2](lookup/Grade%202.md)

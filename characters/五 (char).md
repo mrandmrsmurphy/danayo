@@ -45,7 +45,7 @@ date-last-perfect: 2026-02-01
 # Notes
 - For anti-forgery purposes, use [[伍 (char)]]
 - [[Radical 007|二]] = [[SKIP-4-4-1]] ([[Stroke 04]])
-- [[Grade 1]], [[Jōyō - Kyōiku]], [[Korean MS]], [[HSK Beginner]]
+- [[Grade 1]], [[Jōyō - Kyōiku]], [[Korean MS]], [[lookup/HSK/HSK Beginner]]
 ### Descendants
 - 人 + 五 = [[伍 (char)]]
 - 五 + 口 = [[吾]] (see there for more descendants)
