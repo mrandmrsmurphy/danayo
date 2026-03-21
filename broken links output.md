@@ -903,7 +903,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 ## Chengyu
 - [[諸法無我]] in [[chengyu/諸行無常]]
-- [[涅槃寂静]] in [[chengyu/諸行無常]]
+- [[chengyu/涅盤寂静]] in [[chengyu/諸行無常]]
 - [[形助顯理]] in [[chengyu/Dan'a'yo Chengyu]], [[grammar/文法 - 05形態]]
 
 ## Articles
