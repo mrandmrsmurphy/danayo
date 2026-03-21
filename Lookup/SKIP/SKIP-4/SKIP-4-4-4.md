@@ -4,8 +4,8 @@ stroke_count: 4
 date-last-perfect:
 skip_number: 4-4-4
 ---
-> [[SKIP]] : 4 : [[SKIP-4-4|4]] | [[SKIP-4-0-4]]
-> [[Stroke 04]]
+> SKIP : 4 : [4](lookup/SKIP/SKIP-4/SKIP-4-4.md) | [[SKIP-4-0-4]]
+> [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
 

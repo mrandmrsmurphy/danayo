@@ -3,7 +3,8 @@ size: 8
 skip_number: 4-6-1
 stroke_count: 6
 ---
-> [[SKIP]] : 4 : [[SKIP-4-6|6]] | [[SKIP-4-0-1]]
+> SKIP : 4 : [6](lookup/SKIP/SKIP-4/SKIP-4-6.md) | [[SKIP-4-0-1]]
+> [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Datacheck
 ```dataview

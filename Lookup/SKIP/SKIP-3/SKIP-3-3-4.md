@@ -4,11 +4,12 @@ date-last-perfect:
 size: 16
 skip_number: 3-3-4
 ---
-> [[SKIP]] : 3 : [[SKIP-3-3|3]]
+> SKIP : 3 : [3](lookup/SKIP/SKIP-3/SKIP-3-3.md)
+> [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 1. [[屁]]
 2. [[応]]
-3. <ruby>[[局]]<rt>굑</rt></ruby> - office, bureau 
+3. <ruby>[[局]]<rt>ㄍ˙ㄛㄎ</rt></ruby> - office, bureau 
 4. [[近]]
 5. [[迎]]
 6. [[困]]
