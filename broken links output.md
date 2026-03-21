@@ -441,7 +441,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[冬至]] in [[lexipedia/Astronomy]], [[lexipedia/Calendar]]
 - [[天干]] in [[lexipedia/Astronomy]]
 - [[地支]] in [[lexipedia/Astronomy]]
-- [[当日]] in [[lexipedia/Calendar]]
+- [[words/当日]] in [[lexipedia/Calendar]]
 - [[翌日]] in [[lexipedia/Calendar]]
 - [[前日]] in [[lexipedia/Calendar]]
 - [[隔日]] in [[lexipedia/Calendar]]
