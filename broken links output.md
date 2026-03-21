@@ -1,7 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 
 ## 2+ Words
-- [[語用]] in [[grammar/単亜語之文法書]]
 - [[読本]] in [[grammar/単亜語之文法書]]
 - [[韻図]] in [[grammar/単亜語之文法書]]
 - [[前提]] in [[grammar/文法 - 01序文]]
@@ -335,7 +334,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[七色]] in [[characters/七 (char)]]
 - [[七角形]] in [[characters/七 (char)]]
 
-- [[九日]] in [[characters/九 (char)]], [[lexipedia/Calendar]]
 - [[九泉]] in [[characters/九 (char)]]
 - [[九卿]] in [[characters/九 (char)]]
 - [[九經]] in [[characters/九 (char)]]
