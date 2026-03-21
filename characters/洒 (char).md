@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sǎ
-cantonese:
-  - saa2
-korean:
-  - 선
+mandarin: "sǎ"
+cantonese: "saa2"
+korean: "선"
 korean_native: ""
 japanese:
   - SEI
@@ -17,7 +14,7 @@ middle_chinese_final: ɣɛ
 stroke_count: "9"
 radical: 水
 skip_number: 1-3-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - sprinkle

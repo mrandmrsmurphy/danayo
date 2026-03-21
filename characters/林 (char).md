@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lín
-cantonese:
-  - lam4
-korean:
-  - 림
+mandarin: "lín"
+cantonese: "lam4"
+korean: "림"
 korean_native: 수풀
 japanese:
   - RIN

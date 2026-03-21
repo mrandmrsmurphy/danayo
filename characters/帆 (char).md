@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fān fán
-cantonese:
-  - faan4
-korean:
-  - 범
+mandarin: "fān fán"
+cantonese: "faan4"
+korean: "범"
 korean_native: ""
 japanese:
   - HAN
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐm
 stroke_count: "6"
 radical: 巾
 skip_number: 1-3-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sail

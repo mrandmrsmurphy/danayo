@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jǐng
-cantonese:
-  - geng2
-korean:
-  - 경
+mandarin: "jǐng"
+cantonese: "geng2"
+korean: "경"
 korean_native: 목
 japanese:
   - KEI

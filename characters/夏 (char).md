@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xià
-cantonese:
-  - haa6
-korean:
-  - 하
+mandarin: "xià"
+cantonese: "haa6"
+korean: "하"
 korean_native: 여름
 japanese:
   - KA

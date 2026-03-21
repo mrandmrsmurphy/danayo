@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - le
-cantonese:
-  - liu5
-korean:
-  - 료
+mandarin: "le"
+cantonese: "liu5"
+korean: "료"
 korean_native: ""
 japanese:
   - RYOU

@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - bā
-cantonese: baat3
-korean:
-  - 팔
+mandarin: "bā"
+cantonese: "baat3"
+korean: "팔"
 korean_native: 여덟
 japanese:
   - HACHI

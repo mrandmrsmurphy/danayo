@@ -1,7 +1,7 @@
 ---
-mandarin: zhuō, chán, shàn
-cantonese: cheuk3, jeuk3
-korean: 탁
+mandarin: "zhuō, chán, shàn"
+cantonese: "cheuk3, jeuk3"
+korean: "탁"
 korean_native: 탁자
 japanese: TAKU
 japanese_nanori: すぐれる

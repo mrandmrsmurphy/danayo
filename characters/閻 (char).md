@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yán
-cantonese:
-  - jim4
-korean:
-  - 염
+mandarin: "yán"
+cantonese: "jim4"
+korean: "염"
 korean_native: ""
 japanese:
   - EN
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇm
 stroke_count: 16
 radical: 門
 skip_number: 1-8-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - village gate

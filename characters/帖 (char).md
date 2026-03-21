@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tiē
-cantonese:
-  - tip3
-korean:
-  - 첩
+mandarin: "tiē"
+cantonese: "tip3"
+korean: "첩"
 korean_native: ""
 japanese:
   - JOU
@@ -16,7 +13,7 @@ middle_chinese_final: ep
 stroke_count: "8"
 radical: 巾
 skip_number: 1-3-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - invitation

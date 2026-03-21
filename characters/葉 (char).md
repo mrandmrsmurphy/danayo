@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yè
-cantonese:
-  - jip6
-korean:
-  - 섭
+mandarin: "yè"
+cantonese: "jip6"
+korean: "섭"
 korean_native: ""
 japanese:
   - YOU

@@ -1,8 +1,6 @@
 ---
-mandarin:
-  - yǐn
-cantonese:
-  - jam2
+mandarin: "yǐn"
+cantonese: "jam2"
 korean:
 korean_native: ""
 japanese:

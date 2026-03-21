@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jī
-cantonese:
-  - can2
-korean:
-  - 희
+mandarin: "jī"
+cantonese: "can2"
+korean: "희"
 korean_native: ""
 japanese:
   - KI
@@ -15,7 +12,7 @@ middle_chinese_final: ɨ
 stroke_count: 9
 radical: 女
 skip_number: 1-3-6
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - princess

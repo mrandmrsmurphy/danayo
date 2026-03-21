@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gǔn
-cantonese:
-  - gwan2
-korean:
-  - 곤
+mandarin: "gǔn"
+cantonese: "gwan2"
+korean: "곤"
 korean_native: ""
 japanese:
   - KON
@@ -15,7 +12,7 @@ middle_chinese_final: uən
 stroke_count: "14"
 radical: 水
 skip_number: 1-3-11
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - boil

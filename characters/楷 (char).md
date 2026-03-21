@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kǎi
-cantonese:
-  - kaai2
-korean:
-  - 해
+mandarin: "kǎi"
+cantonese: "kaai2"
+korean: "해"
 korean_native: ""
 japanese:
   - KAI
@@ -15,7 +12,7 @@ middle_chinese_final: ɣɛi
 stroke_count: 13
 radical: 木
 skip_number: 1-4-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - model

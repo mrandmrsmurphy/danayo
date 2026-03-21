@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - piào
-cantonese:
-  - piu3
-korean:
-  - 표
+mandarin: "piào"
+cantonese: "piu3"
+korean: "표"
 korean_native: ""
 japanese:
   - HYOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiᴇu
 stroke_count: 11
 radical: 示
 skip_number: 2-6-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - ballot

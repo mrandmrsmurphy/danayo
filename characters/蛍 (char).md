@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yíng
-cantonese:
-  - jing4
-korean:
-  - 형
+mandarin: "yíng"
+cantonese: "jing4"
+korean: "형"
 korean_native: 반디
 japanese:
   - KEI

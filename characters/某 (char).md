@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mǒu
-cantonese:
-  - mau5
-korean:
-  - 모
+mandarin: "mǒu"
+cantonese: "mau5"
+korean: "모"
 korean_native: ""
 japanese:
   - BOU

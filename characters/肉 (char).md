@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ròu
-cantonese:
-  - juk6
-korean:
-  - 육
+mandarin: "ròu"
+cantonese: "juk6"
+korean: "육"
 korean_native: ""
 japanese:
   - NIKU

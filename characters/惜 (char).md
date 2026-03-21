@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xī
-cantonese:
-  - sik1
-korean:
-  - 석
+mandarin: "xī"
+cantonese: "sik1"
+korean: "석"
 korean_native: ""
 japanese:
   - SEKI

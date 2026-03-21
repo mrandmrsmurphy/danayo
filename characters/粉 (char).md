@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fěn
-cantonese:
-  - fan2
-korean:
-  - 분
+mandarin: "fěn"
+cantonese: "fan2"
+korean: "분"
 korean_native: ""
 japanese:
   - FUN
@@ -15,7 +12,7 @@ middle_chinese_final: ɨun
 stroke_count: "10"
 radical: 米
 skip_number: 1-6-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - powder

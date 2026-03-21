@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xù
-cantonese:
-  - sai3
-korean:
-  - 서
+mandarin: "xù"
+cantonese: "sai3"
+korean: "서"
 korean_native: ""
 japanese:
   - SEI
@@ -15,7 +12,7 @@ middle_chinese_final: ei
 stroke_count: "12"
 radical: 女
 skip_number: 1-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bridegroom

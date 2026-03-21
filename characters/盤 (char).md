@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pán
-cantonese:
-  - pun4
-korean:
-  - 반
+mandarin: "pán"
+cantonese: "pun4"
+korean: "반"
 korean_native: ""
 japanese:
   - BAN

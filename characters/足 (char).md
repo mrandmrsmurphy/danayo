@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zú
-cantonese:
-  - zuk1
-korean:
-  - 족
+mandarin: "zú"
+cantonese: "zuk1"
+korean: "족"
 korean_native: ""
 japanese:
   - SOKU

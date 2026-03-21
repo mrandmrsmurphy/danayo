@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yīng
-cantonese:
-  - jing3
-korean:
-  - 응
+mandarin: "yīng"
+cantonese: "jing3"
+korean: "응"
 korean_native: 응할
 japanese:
   - OU

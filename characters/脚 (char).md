@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiǎo
-cantonese:
-  - goek3
-korean:
-  - 각
+mandarin: "jiǎo"
+cantonese: "goek3"
+korean: "각"
 korean_native: ""
 japanese:
   - KYAKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨɐk
 stroke_count: 11
 radical: 肉
 skip_number: 1-4-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - leg

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chún
-cantonese:
-  - seon4
-korean:
-  - 진
+mandarin: "chún"
+cantonese: "seon4"
+korean: "진"
 korean_native: 입술
 japanese:
   - SHIN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huái
-cantonese:
-  - waai4
-korean:
-  - 회
+mandarin: "huái"
+cantonese: "waai4"
+korean: "회"
 korean_native: 품을
 japanese:
   - KAI

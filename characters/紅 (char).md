@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hóng
-cantonese:
-  - hung4
-korean:
-  - 홍
+mandarin: "hóng"
+cantonese: "hung4"
+korean: "홍"
 korean_native: ""
 japanese:
   - KU

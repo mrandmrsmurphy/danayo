@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - xiǎo
-cantonese: siu2
-korean:
-  - 소
+mandarin: "xiǎo"
+cantonese: "siu2"
+korean: "소"
 korean_native: 작을
 japanese:
   - SHOU

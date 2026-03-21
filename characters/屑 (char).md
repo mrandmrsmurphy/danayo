@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiè
-cantonese:
-  - sit3
-korean:
-  - 설
+mandarin: "xiè"
+cantonese: "sit3"
+korean: "설"
 korean_native: ""
 japanese:
   - SETSU
@@ -15,7 +12,7 @@ middle_chinese_final: et
 stroke_count: 10
 radical: 尸
 skip_number: 3-3-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - scraps

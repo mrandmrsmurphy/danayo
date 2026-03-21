@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chī
-cantonese:
-  - hek3
-korean:
-  - 끽
+mandarin: "chī"
+cantonese: "hek3"
+korean: "끽"
 korean_native: ""
 japanese:
   - KITSU

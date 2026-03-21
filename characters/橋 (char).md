@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiáo
-cantonese:
-  - kiu4
-korean:
-  - 교
+mandarin: "qiáo"
+cantonese: "kiu4"
+korean: "교"
 korean_native: 다리
 japanese:
   - KYOU
@@ -17,7 +14,7 @@ middle_chinese_final: ɣiᴇu
 stroke_count: "16"
 radical: 木
 skip_number: 1-4-12
-grade_level: 1
+grade_level: "1"
 pos: 名詞
 english:
   - bridge

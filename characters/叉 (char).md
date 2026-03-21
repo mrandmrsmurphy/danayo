@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chā
-cantonese:
-  - caa1
-korean:
-  - 차
+mandarin: "chā"
+cantonese: "caa1"
+korean: "차"
 korean_native: ""
 japanese:
   - SHA

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nù
-cantonese:
-  - nou6
-korean:
-  - 노
+mandarin: "nù"
+cantonese: "nou6"
+korean: "노"
 korean_native: ""
 japanese:
   - DO

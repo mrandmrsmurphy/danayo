@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zài
-cantonese:
-  - zoi3
-korean:
-  - 재
+mandarin: "zài"
+cantonese: "zoi3"
+korean: "재"
 korean_native: ""
 japanese:
   - SAI
@@ -15,7 +12,7 @@ middle_chinese_final: ʌi
 stroke_count: 13
 radical: 車
 skip_number: 3-6-7
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - carry

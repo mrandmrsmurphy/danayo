@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fēng
-cantonese:
-  - fung1
-korean:
-  - 풍
+mandarin: "fēng"
+cantonese: "fung1"
+korean: "풍"
 korean_native: ""
 japanese:
   - FUU

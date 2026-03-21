@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mǎ
-cantonese:
-  - maa5
-korean:
-  - 마
+mandarin: "mǎ"
+cantonese: "maa5"
+korean: "마"
 korean_native: ""
 japanese:
   - BA

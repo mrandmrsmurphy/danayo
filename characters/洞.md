@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dòng
-cantonese:
-  - dung6
-korean:
-  - 동
+mandarin: "dòng"
+cantonese: "dung6"
+korean: "동"
 korean_native: ""
 japanese:
   - DOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - liú
-cantonese:
-  - lau4
-korean:
-  - 류
+mandarin: "liú"
+cantonese: "lau4"
+korean: "류"
 korean_native: 머무를
 japanese:
   - RYUU
@@ -17,7 +14,7 @@ middle_chinese_final: ɨu
 stroke_count: 10
 radical: 田
 skip_number: 2-5-5
-grade_level: 2
+grade_level: "2"
 pos: 性詞
 english:
   - remain

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xī
-cantonese:
-  - kap1
-korean:
-  - 흡
+mandarin: "xī"
+cantonese: "kap1"
+korean: "흡"
 korean_native: ""
 japanese:
   - KYUU

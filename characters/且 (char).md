@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiě
-cantonese:
-  - ce2
-korean:
-  - 차
+mandarin: "qiě"
+cantonese: "ce2"
+korean: "차"
 korean_native: ""
 japanese:
   - SHA

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wēng
-cantonese:
-  - jung1
-korean:
-  - 옹
+mandarin: "wēng"
+cantonese: "jung1"
+korean: "옹"
 korean_native: ""
 japanese:
   - OU
@@ -15,7 +12,7 @@ middle_chinese_final: uŋ
 stroke_count: 10
 radical: 羽
 skip_number: 2-2-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - venerable old man

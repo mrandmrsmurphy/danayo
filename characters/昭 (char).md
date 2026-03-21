@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhāo
-cantonese:
-  - ciu1
-korean:
-  - 소
+mandarin: "zhāo"
+cantonese: "ciu1"
+korean: "소"
 korean_native: 밝을
 japanese:
   - SHOU

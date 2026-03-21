@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiān
-cantonese:
-  - gin1
-korean:
-  - 견
+mandarin: "jiān"
+cantonese: "gin1"
+korean: "견"
 korean_native: "어깨"
 japanese:
   - KEN
@@ -15,7 +12,7 @@ middle_chinese_final: en
 stroke_count: "8"
 radical: 肉
 skip_number: 2-1-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - shoulder

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kàn
-cantonese:
-  - hon1
-korean:
-  - 간
+mandarin: "kàn"
+cantonese: "hon1"
+korean: "간"
 korean_native: 볼
 japanese:
   - KAN

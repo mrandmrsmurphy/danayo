@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fú
-cantonese:
-  - fat1
-korean:
-  - 불
+mandarin: "fú"
+cantonese: "fat1"
+korean: "불"
 korean_native: ""
 japanese:
   - FUTSU

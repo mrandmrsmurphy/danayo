@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - diāo
-cantonese:
-  - diu1
-korean:
-  - 조
+mandarin: "diāo"
+cantonese: "diu1"
+korean: "조"
 korean_native: ""
 japanese:
   - CHOU
@@ -15,7 +12,7 @@ middle_chinese_final: eu
 stroke_count: 19
 radical: 鳥
 skip_number: 1-8-11
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - eagle

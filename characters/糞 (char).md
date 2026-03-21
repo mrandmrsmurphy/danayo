@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fèn
-cantonese:
-  - fan3
-korean:
-  - 분
+mandarin: "fèn"
+cantonese: "fan3"
+korean: "분"
 korean_native: ""
 japanese:
   - FUN
@@ -15,7 +12,7 @@ middle_chinese_final: ɨun
 stroke_count: 17
 radical: 米
 skip_number: 2-6-11
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - poop

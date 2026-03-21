@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - méi
-cantonese:
-  - mei4
-korean:
-  - 미
+mandarin: "méi"
+cantonese: "mei4"
+korean: "미"
 korean_native: ""
 japanese:
   - BI

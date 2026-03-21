@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qià
-cantonese:
-  - hap1
-korean:
-  - 흡
+mandarin: "qià"
+cantonese: "hap1"
+korean: "흡"
 korean_native: 흡사할
 japanese:
   - KOU
@@ -17,7 +14,7 @@ middle_chinese_final: ɣɛp
 stroke_count: 9
 radical: 心
 skip_number: 1-3-6
-grade_level: 先進
+grade_level: "先進"
 pos: 性詞
 english:
   - exactly

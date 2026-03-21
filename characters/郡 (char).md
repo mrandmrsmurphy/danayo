@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jùn
-cantonese:
-  - gwan6
-korean:
-  - 군
+mandarin: "jùn"
+cantonese: "gwan6"
+korean: "군"
 korean_native: ""
 japanese:
   - GUN
@@ -16,7 +13,7 @@ middle_chinese_final: ɨun
 stroke_count: 10
 radical: 邑
 skip_number: 1-7-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - county

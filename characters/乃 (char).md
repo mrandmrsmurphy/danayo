@@ -1,8 +1,7 @@
 ---
-mandarin: nǎi
-cantonese:
-  - naai5
-korean: 내
+mandarin: "nǎi"
+cantonese: "naai5"
+korean: "내"
 korean_native: 어찌
 japanese:
   - DAI

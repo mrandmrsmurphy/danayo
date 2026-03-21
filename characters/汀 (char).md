@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tīng
-cantonese:
-  - ting1
-korean:
-  - 정
+mandarin: "tīng"
+cantonese: "ting1"
+korean: "정"
 korean_native: ""
 japanese:
   - TEI
@@ -15,7 +12,7 @@ middle_chinese_final: eŋ
 stroke_count: "5"
 radical: 水
 skip_number: 1-3-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - sand bar

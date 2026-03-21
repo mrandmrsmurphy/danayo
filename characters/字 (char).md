@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zì
-cantonese:
-  - zi6
-korean:
-  - 자
+mandarin: "zì"
+cantonese: "zi6"
+korean: "자"
 korean_native: 글자
 japanese:
   - JI

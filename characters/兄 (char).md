@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiōng
-cantonese:
-  - hing1
-korean:
-  - 형
+mandarin: "xiōng"
+cantonese: "hing1"
+korean: "형"
 korean_native: 맏
 japanese:
   - KEI

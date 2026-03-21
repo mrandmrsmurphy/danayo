@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yōng
-cantonese:
-  - jung1
-korean:
-  - 옹
+mandarin: "yōng"
+cantonese: "jung1"
+korean: "옹"
 korean_native: ""
 japanese:
   - YOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: 16
 radical: 土
 skip_number: 1-3-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - obstruct

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huì
-cantonese:
-  - wai6
-korean:
-  - 휘
+mandarin: "huì"
+cantonese: "wai6"
+korean: "휘"
 korean_native: 모을
 japanese:
   - I

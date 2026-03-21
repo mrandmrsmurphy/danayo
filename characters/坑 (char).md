@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kēng
-cantonese:
-  - haang1
-korean:
-  - 갱
+mandarin: "kēng"
+cantonese: "haang1"
+korean: "갱"
 korean_native: ""
 japanese:
   - KOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣæŋ
 stroke_count: "7"
 radical: 土
 skip_number: 1-3-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - pit

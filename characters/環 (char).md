@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huán
-cantonese:
-  - waan4
-korean:
-  - 환
+mandarin: "huán"
+cantonese: "waan4"
+korean: "환"
 korean_native: ""
 japanese:
   - KAN

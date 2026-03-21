@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cè
-cantonese:
-  - caak3
-korean:
-  - 책
+mandarin: "cè"
+cantonese: "caak3"
+korean: "책"
 korean_native: ""
 japanese:
   - SATSU

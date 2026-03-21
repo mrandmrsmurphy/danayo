@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jié
-cantonese:
-  - zit3
-korean:
-  - 절
+mandarin: "jié"
+cantonese: "zit3"
+korean: "절"
 korean_native: ""
 japanese:
   - SETSU
@@ -16,7 +13,7 @@ middle_chinese_final: et
 stroke_count: 13
 radical: 竹
 skip_number: 2-6-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - node

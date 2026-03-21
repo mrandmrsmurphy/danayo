@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǐn
-cantonese:
-  - jan5
-korean:
-  - 인
+mandarin: "yǐn"
+cantonese: "jan5"
+korean: "인"
 korean_native: ""
 japanese:
   - IN

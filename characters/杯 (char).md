@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bēi
-cantonese:
-  - bui1
-korean:
-  - 배
+mandarin: "bēi"
+cantonese: "bui1"
+korean: "배"
 korean_native: 잔
 japanese:
   - HAI

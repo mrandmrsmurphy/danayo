@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lìng
-cantonese:
-  - ling6
-korean:
-  - 령
+mandarin: "lìng"
+cantonese: "ling6"
+korean: "령"
 korean_native: ""
 japanese:
   - REI

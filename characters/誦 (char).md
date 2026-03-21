@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sòng
-cantonese:
-  - zung6
-korean:
-  - 송
+mandarin: "sòng"
+cantonese: "zung6"
+korean: "송"
 korean_native: ""
 japanese:
   - SHOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: 14
 radical: 言
 skip_number: 1-7-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - recite

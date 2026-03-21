@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shā
-cantonese:
-  - saat3
-korean:
-  - 살
+mandarin: "shā"
+cantonese: "saat3"
+korean: "살"
 korean_native: ""
 japanese:
   - SATSU

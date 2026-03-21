@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qǐng
-cantonese:
-  - king2
-korean:
-  - 경
+mandarin: "qǐng"
+cantonese: "king2"
+korean: "경"
 korean_native: "잠깐"
 japanese:
   - KEI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sì
-cantonese:
-  - ci5
-korean:
-  - 사
+mandarin: "sì"
+cantonese: "ci5"
+korean: "사"
 korean_native: ""
 japanese:
   - JI

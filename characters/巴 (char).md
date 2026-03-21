@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bā
-cantonese:
-  - baa1
-korean:
-  - 파
+mandarin: "bā"
+cantonese: "baa1"
+korean: "파"
 korean_native: ""
 japanese:
   - HA
@@ -15,7 +12,7 @@ middle_chinese_final: ɣa
 stroke_count: 4
 radical: 已
 skip_number: 4-4-1
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - song

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lǜ
-cantonese:
-  - luk6
-korean:
-  - 록
+mandarin: "lǜ"
+cantonese: "luk6"
+korean: "록"
 korean_native: 초록빛
 japanese:
   - RYOKU

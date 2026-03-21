@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - quǎn
-cantonese:
-  - hyun2
-korean:
-  - 견
+mandarin: "quǎn"
+cantonese: "hyun2"
+korean: "견"
 korean_native: 개
 japanese:
   - KEN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yù
-cantonese:
-  - juk6
-korean:
-  - 육
+mandarin: "yù"
+cantonese: "juk6"
+korean: "육"
 korean_native: 기를
 japanese:
   - IKU

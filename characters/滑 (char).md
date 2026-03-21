@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huá
-cantonese:
-  - waat6
-korean:
-  - 활
+mandarin: "huá"
+cantonese: "waat6"
+korean: "활"
 korean_native: 미끄러울
 japanese:
   - KATSU

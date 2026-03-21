@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shí
-cantonese:
-  - sik6
-korean:
-  - 식
+mandarin: "shí"
+cantonese: "sik6"
+korean: "식"
 korean_native: ""
 japanese:
   - SHOKU

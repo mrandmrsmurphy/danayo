@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gèn
-cantonese:
-  - gang2
-korean:
-  - 긍
+mandarin: "gèn"
+cantonese: "gang2"
+korean: "긍"
 korean_native: ""
 japanese:
   - KOU

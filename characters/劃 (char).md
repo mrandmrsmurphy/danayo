@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huà
-cantonese:
-  - waak6
-korean:
-  - 획
+mandarin: "huà"
+cantonese: "waak6"
+korean: "획"
 korean_native: ""
 japanese:
   - KAKU
@@ -15,7 +12,7 @@ middle_chinese_final: wɣɛk
 stroke_count: 14
 radical: 刀
 skip_number: 1-12-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - divide

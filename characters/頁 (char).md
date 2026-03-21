@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yè
-cantonese:
-  - jip6
-korean:
-  - 혈
+mandarin: "yè"
+cantonese: "jip6"
+korean: "혈"
 korean_native: ""
 japanese:
   - KETSU
@@ -17,7 +14,7 @@ middle_chinese_final: et
 stroke_count: 9
 radical: 頁
 skip_number: 2-2-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - page

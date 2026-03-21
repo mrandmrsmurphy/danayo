@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - liè
-cantonese:
-  - lip6
-korean:
-  - 렵
+mandarin: "liè"
+cantonese: "lip6"
+korean: "렵"
 korean_native: ""
 japanese:
   - RYOU
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇp
 stroke_count: 25
 radical: 髟
 skip_number: 2-10-15
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - mane

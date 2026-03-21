@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jì
-cantonese:
-  - gei3
-korean:
-  - 기
+mandarin: "jì"
+cantonese: "gei3"
+korean: "기"
 korean_native: ""
 japanese:
   - KI
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiᴇ
 stroke_count: 11
 radical: 宀
 skip_number: 2-3-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - approach

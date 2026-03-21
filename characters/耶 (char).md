@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yé
-cantonese:
-  - je4
-korean:
-  - 야
+mandarin: "yé"
+cantonese: "je4"
+korean: "야"
 korean_native: ""
 japanese:
   - YA
@@ -16,7 +13,7 @@ middle_chinese_final: ia
 stroke_count: 9
 radical: 耳
 skip_number: 1-6-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - yes?  mm?

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bān
-cantonese:
-  - baan1
-korean:
-  - 반
+mandarin: "bān"
+cantonese: "baan1"
+korean: "반"
 korean_native: ""
 japanese:
   - HAN
@@ -15,7 +12,7 @@ middle_chinese_final: ɣan
 stroke_count: 10
 radical: 玉
 skip_number: 1-4-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - group

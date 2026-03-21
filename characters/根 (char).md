@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gēn
-cantonese:
-  - gan1
-korean:
-  - 근
+mandarin: "gēn"
+cantonese: "gan1"
+korean: "근"
 korean_native: 뿌리
 japanese:
   - KON

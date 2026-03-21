@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zòng
-cantonese:
-  - zung3
-korean:
-  - 종
+mandarin: "zòng"
+cantonese: "zung3"
+korean: "종"
 korean_native: 늘어질
 japanese:
   - JUU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nián
-cantonese:
-  - nim4
-korean:
-  - 점
+mandarin: "nián"
+cantonese: "nim4"
+korean: "점"
 korean_native: ""
 japanese:
   - NEN
@@ -15,7 +12,7 @@ middle_chinese_final: em
 stroke_count: 16
 radical: 魚
 skip_number: 1-11-5
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - sweetfish

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chěng
-cantonese:
-  - cing2
-korean:
-  - 령
+mandarin: "chěng"
+cantonese: "cing2"
+korean: "령"
 korean_native: ""
 japanese:
   - TEI
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇŋ
 stroke_count: 11
 radical: 辵
 skip_number: 3-4-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - indulge

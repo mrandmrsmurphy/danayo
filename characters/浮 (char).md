@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fú
-cantonese:
-  - fau4
-korean:
-  - 부
+mandarin: "fú"
+cantonese: "fau4"
+korean: "부"
 korean_native: ""
 japanese:
   - FU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨu
 stroke_count: "10"
 radical: 水
 skip_number: 1-3-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - float

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yú
-cantonese:
-  - jyu1
-korean:
-  - 우
+mandarin: "yú"
+cantonese: "jyu1"
+korean: "우"
 korean_native: 어조사
 japanese:
   - U

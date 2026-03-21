@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mí
-cantonese:
-  - mai4
-korean:
-  - 미
+mandarin: "mí"
+cantonese: "mai4"
+korean: "미"
 korean_native: ""
 japanese:
   - MEI
@@ -15,7 +12,7 @@ middle_chinese_final: ei
 stroke_count: 10
 radical: 辵
 skip_number: 3-4-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - be lost

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pì
-cantonese:
-  - pei3
-korean:
-  - 비
+mandarin: "pì"
+cantonese: "pei3"
+korean: "비"
 korean_native: ""
 japanese:
   - HI
@@ -15,7 +12,7 @@ middle_chinese_final: iɪ
 stroke_count: 7
 radical: 尸
 skip_number: 3-3-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - far

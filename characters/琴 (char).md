@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qín
-cantonese:
-  - kam4
-korean:
-  - 금
+mandarin: "qín"
+cantonese: "kam4"
+korean: "금"
 korean_native: ""
 japanese:
   - KIN
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiɪm
 stroke_count: 12
 radical: 玉
 skip_number: 2-8-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - zither

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fā
-cantonese:
-  - faat3
-korean:
-  - 발
+mandarin: "fā"
+cantonese: "faat3"
+korean: "발"
 korean_native: 쏠
 japanese:
   - HOTSU

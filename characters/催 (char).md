@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cuī
-cantonese:
-  - ceoi1
-korean:
-  - 최
+mandarin: "cuī"
+cantonese: "ceoi1"
+korean: "최"
 korean_native: ""
 japanese:
   - SAI

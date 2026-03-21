@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yù
-cantonese:
-  - wik6
-korean:
-  - 역
+mandarin: "yù"
+cantonese: "wik6"
+korean: "역"
 korean_native: ""
 japanese:
   - IKI

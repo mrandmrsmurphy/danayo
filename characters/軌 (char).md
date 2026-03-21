@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guǐ
-cantonese:
-  - gwai2
-korean:
-  - 궤
+mandarin: "guǐ"
+cantonese: "gwai2"
+korean: "궤"
 korean_native: ""
 japanese:
   - KI
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiuɪ
 stroke_count: 9
 radical: 車
 skip_number: 1-7-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - track

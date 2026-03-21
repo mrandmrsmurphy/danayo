@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kǔ
-cantonese:
-  - fu2
-korean:
-  - 고
+mandarin: "kǔ"
+cantonese: "fu2"
+korean: "고"
 korean_native: 쓸
 japanese:
   - KU

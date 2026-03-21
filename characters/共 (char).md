@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gòng
-cantonese:
-  - gung6
-korean:
-  - 공
+mandarin: "gòng"
+cantonese: "gung6"
+korean: "공"
 korean_native: ""
 japanese:
   - KYOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiē
-cantonese:
-  - zip3
-korean:
-  - 접
+mandarin: "jiē"
+cantonese: "zip3"
+korean: "접"
 korean_native: ""
 japanese:
   - SETSU

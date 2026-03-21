@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhé
-cantonese:
-  - zat6
-korean:
-  - 칩
+mandarin: "zhé"
+cantonese: "zat6"
+korean: "칩"
 korean_native: ""
 japanese:
   - CHITSU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiɪp
 stroke_count: 17
 radical: 虫
 skip_number: 2-11-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - hibernate

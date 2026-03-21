@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gǔ
-cantonese:
-  - guk1
-korean:
-  - 곡
+mandarin: "gǔ"
+cantonese: "guk1"
+korean: "곡"
 korean_native: ""
 japanese:
   - KOKU

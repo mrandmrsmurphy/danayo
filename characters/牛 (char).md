@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - niú
-cantonese:
-  - ngau4
-korean:
-  - 우
+mandarin: "niú"
+cantonese: "ngau4"
+korean: "우"
 korean_native: ""
 japanese:
   - GYUU

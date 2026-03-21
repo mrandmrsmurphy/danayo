@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kè
-cantonese:
-  - hak1
-korean:
-  - 극
+mandarin: "kè"
+cantonese: "hak1"
+korean: "극"
 korean_native: ""
 japanese:
   - KOKU

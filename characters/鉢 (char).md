@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bō
-cantonese:
-  - but3
-korean:
-  - 발
+mandarin: "bō"
+cantonese: "but3"
+korean: "발"
 korean_native: ""
 japanese:
   - HACHI

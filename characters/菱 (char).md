@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - líng
-cantonese:
-  - ling4
-korean:
-  - 릉
+mandarin: "líng"
+cantonese: "ling4"
+korean: "릉"
 korean_native: ""
 japanese:
   - RYOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨŋ
 stroke_count: 11
 radical: 艸
 skip_number: 2-3-8
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - water chestnut

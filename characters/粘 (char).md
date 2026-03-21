@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhān
-cantonese:
-  - zim1
-korean:
-  - 점
+mandarin: "zhān"
+cantonese: "zim1"
+korean: "점"
 korean_native: ""
 japanese:
   - NEN
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiᴇm
 stroke_count: "11"
 radical: 米
 skip_number: 1-6-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sticky

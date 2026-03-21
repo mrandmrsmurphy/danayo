@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - de dì
-cantonese:
-  - dei6
-korean:
-  - 지
+mandarin: "de dì"
+cantonese: "dei6"
+korean: "지"
 korean_native: ""
 japanese:
   - CHI

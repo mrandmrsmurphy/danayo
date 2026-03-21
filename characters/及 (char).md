@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jí
-cantonese:
-  - kap6
-korean:
-  - 급
+mandarin: "jí"
+cantonese: "kap6"
+korean: "급"
 korean_native: ""
 japanese:
   - KYUU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiɪp
 stroke_count: 3
 radical: 又
 skip_number: 4-3-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - reach out to

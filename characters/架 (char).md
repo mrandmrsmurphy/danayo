@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jià
-cantonese:
-  - gaa3
-korean:
-  - 가
+mandarin: "jià"
+cantonese: "gaa3"
+korean: "가"
 korean_native: 시렁
 japanese:
   - KA

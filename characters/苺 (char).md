@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - méi
-cantonese:
-  - mui4
-korean:
-  - 매
+mandarin: "méi"
+cantonese: "mui4"
+korean: "매"
 korean_native: ""
 japanese:
   - MAI
@@ -16,7 +13,7 @@ middle_chinese_final: uʌi
 stroke_count: 8
 radical: 艸
 skip_number: 2-3-5
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - strawberry

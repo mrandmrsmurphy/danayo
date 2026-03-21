@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gān
-cantonese:
-  - gon1
-korean:
-  - 간
+mandarin: "gān"
+cantonese: "gon1"
+korean: "간"
 korean_native: ""
 japanese:
   - KAN
@@ -15,7 +12,7 @@ middle_chinese_final: ɑn
 stroke_count: 7
 radical: 木
 skip_number: 1-4-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - rod

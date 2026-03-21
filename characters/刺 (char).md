@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cì
-cantonese:
-  - ci3
-korean:
-  - 자
+mandarin: "cì"
+cantonese: "ci3"
+korean: "자"
 korean_native: ""
 japanese:
   - SHI
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇk
 stroke_count: "12"
 radical: 刀
 skip_number: 1-6-6
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - stab

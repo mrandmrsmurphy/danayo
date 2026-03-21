@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wěi
-cantonese:
-  - wai2
-korean:
-  - 위
+mandarin: "wěi"
+cantonese: "wai2"
+korean: "위"
 korean_native: ""
 japanese:
   - I
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiuᴇ
 stroke_count: 8
 radical: 女
 skip_number: 2-5-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - appoint

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lín
-cantonese:
-  - leon4
-korean:
-  - 린
+mandarin: "lín"
+cantonese: "leon4"
+korean: "린"
 korean_native: ""
 japanese:
   - RIN

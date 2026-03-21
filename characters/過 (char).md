@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guò
-cantonese:
-  - gwo3
-korean:
-  - 과
+mandarin: "guò"
+cantonese: "gwo3"
+korean: "과"
 korean_native: ""
 japanese:
   - KA
@@ -15,7 +12,7 @@ middle_chinese_final: uɑ
 stroke_count: 13
 radical: 辵
 skip_number: 3-4-9
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - than

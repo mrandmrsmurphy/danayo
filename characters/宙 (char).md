@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhòu
-cantonese:
-  - zau6
-korean:
-  - 주
+mandarin: "zhòu"
+cantonese: "zau6"
+korean: "주"
 korean_native: ""
 japanese:
   - CHUU

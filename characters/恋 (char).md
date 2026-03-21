@@ -1,8 +1,6 @@
 ---
-mandarin:
-  - liàn
-cantonese:
-  - lyun2
+mandarin: "liàn"
+cantonese: "lyun2"
 korean:
 korean_native: ""
 japanese:
@@ -14,7 +12,7 @@ middle_chinese_final: iuᴇn
 stroke_count: 10
 radical: 心
 skip_number: 2-2-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - romance

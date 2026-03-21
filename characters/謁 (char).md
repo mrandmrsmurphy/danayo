@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yè
-cantonese:
-  - jit3
-korean:
-  - 알
+mandarin: "yè"
+cantonese: "jit3"
+korean: "알"
 korean_native: ""
 japanese:
   - ETSU

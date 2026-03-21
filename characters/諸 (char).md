@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhū
-cantonese:
-  - zyu1
-korean:
-  - 제
+mandarin: "zhū"
+cantonese: "zyu1"
+korean: "제"
 korean_native: ""
 japanese:
   - SHO

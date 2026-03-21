@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tún
-cantonese:
-  - tyun4
-korean:
-  - 둔
+mandarin: "tún"
+cantonese: "tyun4"
+korean: "둔"
 korean_native: ""
 japanese:
   - TON

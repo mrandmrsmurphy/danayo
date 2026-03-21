@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - biàn
-cantonese:
-  - bin6
-korean:
-  - 변
+mandarin: "biàn"
+cantonese: "bin6"
+korean: "변"
 korean_native: 분별할
 japanese:
   - BEN

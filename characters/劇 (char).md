@@ -1,7 +1,7 @@
 ---
-mandarin: jù
-cantonese: kek6
-korean: 극
+mandarin: "jù"
+cantonese: "kek6"
+korean: "극"
 korean_native: 심할
 japanese: GEKI
 japanese_nanori: はげしい

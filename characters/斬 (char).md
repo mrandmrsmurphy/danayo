@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhǎn
-cantonese:
-  - zaam2
-korean:
-  - 참
+mandarin: "zhǎn"
+cantonese: "zaam2"
+korean: "참"
 korean_native: ""
 japanese:
   - ZAN

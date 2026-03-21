@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yí
-cantonese:
-  - wai4
-korean:
-  - 유
+mandarin: "yí"
+cantonese: "wai4"
+korean: "유"
 korean_native: ""
 japanese:
   - I
@@ -16,7 +13,7 @@ middle_chinese_final: iuɪ
 stroke_count: 15
 radical: 辵
 skip_number: 3-3-12
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - lose

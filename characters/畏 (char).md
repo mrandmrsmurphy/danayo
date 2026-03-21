@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wèi
-cantonese:
-  - wai3
-korean:
-  - 외
+mandarin: "wèi"
+cantonese: "wai3"
+korean: "외"
 korean_native: ""
 japanese:
   - I
@@ -15,7 +12,7 @@ middle_chinese_final: ʉi
 stroke_count: 9
 radical: 田
 skip_number: 2-5-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - fear

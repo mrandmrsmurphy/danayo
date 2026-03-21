@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chuān
-cantonese:
-  - cyun1
-korean:
-  - 천
+mandarin: "chuān"
+cantonese: "cyun1"
+korean: "천"
 korean_native: 내
 japanese:
   - SEN

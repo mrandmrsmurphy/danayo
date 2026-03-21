@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sāo
-cantonese:
-  - sou1
-korean:
-  - 소
+mandarin: "sāo"
+cantonese: "sou1"
+korean: "소"
 korean_native: 긁다
 japanese:
   - SOU
@@ -18,7 +15,7 @@ middle_chinese_final: ɑu
 stroke_count: 11
 radical: 手
 skip_number: 1-3-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - scratch

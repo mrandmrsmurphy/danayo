@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - juàn
-cantonese:
-  - gyun3
-korean:
-  - 견
+mandarin: "juàn"
+cantonese: "gyun3"
+korean: "견"
 korean_native: "명주"
 japanese:
   - KEN

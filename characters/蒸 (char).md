@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhēng
-cantonese:
-  - zing1
-korean:
-  - 증
+mandarin: "zhēng"
+cantonese: "zing1"
+korean: "증"
 korean_native: ""
 japanese:
   - JOU

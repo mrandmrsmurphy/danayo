@@ -1,8 +1,7 @@
 ---
-mandarin:
-  - yǔ
-cantonese: jyu5
-korean: 여
+mandarin: "yǔ"
+cantonese: "jyu5"
+korean: "여"
 korean_native: 더불
 japanese:
   - YO

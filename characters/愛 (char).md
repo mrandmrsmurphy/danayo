@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ài
-cantonese:
-  - oi3
-korean:
-  - 애
+mandarin: "ài"
+cantonese: "oi3"
+korean: "애"
 korean_native: ""
 japanese:
   - AI

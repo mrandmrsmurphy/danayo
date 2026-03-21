@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lì
-cantonese:
-  - lap6
-korean:
-  - 립
+mandarin: "lì"
+cantonese: "lap6"
+korean: "립"
 korean_native: 설
 japanese:
   - RITSU

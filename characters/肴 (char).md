@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yáo
-cantonese:
-  - ngaau4
-korean:
-  - 효
+mandarin: "yáo"
+cantonese: "ngaau4"
+korean: "효"
 korean_native: ""
 japanese:
   - KOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣau
 stroke_count: 8
 radical: 肉
 skip_number: 2-2-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - cooked meat

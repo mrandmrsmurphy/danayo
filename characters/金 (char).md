@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jīn
-cantonese:
-  - gam1
-korean:
-  - 금
+mandarin: "jīn"
+cantonese: "gam1"
+korean: "금"
 korean_native: 쇠
 japanese:
   - KIN

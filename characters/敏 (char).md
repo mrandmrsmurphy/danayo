@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mǐn
-cantonese:
-  - man5
-korean:
-  - 민
+mandarin: "mǐn"
+cantonese: "man5"
+korean: "민"
 korean_native: ""
 japanese:
   - BIN
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiɪn
 stroke_count: "10"
 radical: 攴
 skip_number: 1-6-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - fast

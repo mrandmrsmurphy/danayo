@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lìn
-cantonese:
-  - jam6
-korean:
-  - 임
+mandarin: "lìn"
+cantonese: "jam6"
+korean: "임"
 korean_native: ""
 japanese:
   - CHIN
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiɪm
 stroke_count: 13
 radical: 貝
 skip_number: 2-6-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - rent

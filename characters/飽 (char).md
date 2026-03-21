@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bǎo
-cantonese:
-  - baau2
-korean:
-  - 포
+mandarin: "bǎo"
+cantonese: "baau2"
+korean: "포"
 korean_native: ""
 japanese:
   - HOU

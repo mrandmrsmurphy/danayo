@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bā
-cantonese:
-  - baat3
-korean:
-  - 팔
+mandarin: "bā"
+cantonese: "baat3"
+korean: "팔"
 korean_native: ""
 japanese:
   - HATSU
@@ -17,7 +14,7 @@ middle_chinese_final: ɣɛt
 stroke_count: "10"
 radical: 手
 skip_number: 1-3-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - disentangle

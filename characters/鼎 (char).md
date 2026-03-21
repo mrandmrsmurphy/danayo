@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dǐng
-cantonese:
-  - ding2
-korean:
-  - 정
+mandarin: "dǐng"
+cantonese: "ding2"
+korean: "정"
 korean_native: ""
 japanese:
   - TEI
@@ -15,7 +12,7 @@ middle_chinese_final: eŋ
 stroke_count: 13
 radical: 鼎
 skip_number: 4-13-1
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - tripod

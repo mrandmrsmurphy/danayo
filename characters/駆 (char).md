@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qū
-cantonese:
-  - keoi1
-korean:
-  - 구
+mandarin: "qū"
+cantonese: "keoi1"
+korean: "구"
 korean_native: 몰
 japanese:
   - KU

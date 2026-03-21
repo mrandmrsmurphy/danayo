@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jú
-cantonese:
-  - guk6
-korean:
-  - 국
+mandarin: "jú"
+cantonese: "guk6"
+korean: "국"
 korean_native: 판
 japanese:
   - KYOKU

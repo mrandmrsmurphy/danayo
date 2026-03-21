@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zǎo
-cantonese:
-  - zou2
-korean:
-  - 조
+mandarin: "zǎo"
+cantonese: "zou2"
+korean: "조"
 korean_native: ""
 japanese:
   - SOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɑu
 stroke_count: 19
 radical: 糸
 skip_number: 1-6-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - reel

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tīng
-cantonese:
-  - ting1
-korean:
-  - 청
+mandarin: "tīng"
+cantonese: "ting1"
+korean: "청"
 korean_native: 들을
 japanese:
   - CHOU

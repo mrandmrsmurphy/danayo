@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dòu
-cantonese:
-  - dau6
-korean:
-  - 두
+mandarin: "dòu"
+cantonese: "dau6"
+korean: "두"
 korean_native: ""
 japanese:
   - TOU
@@ -16,7 +13,7 @@ middle_chinese_final: əu
 stroke_count: "7"
 radical: 豆
 skip_number: 2-1-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - bean

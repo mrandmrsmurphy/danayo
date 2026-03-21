@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wǎn
-cantonese:
-  - wun2
-korean:
-  - 완
+mandarin: "wǎn"
+cantonese: "wun2"
+korean: "완"
 korean_native: ""
 japanese:
   - WAN
@@ -15,7 +12,7 @@ middle_chinese_final: uɑn
 stroke_count: 13
 radical: 石
 skip_number: 1-5-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - bowl

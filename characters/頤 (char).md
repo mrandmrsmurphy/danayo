@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yí
-cantonese:
-  - ji4
-korean:
-  - 이
+mandarin: "yí"
+cantonese: "ji4"
+korean: "이"
 korean_native: ""
 japanese:
   - I
@@ -15,7 +12,7 @@ middle_chinese_final: ɨ
 stroke_count: 16
 radical: 頁
 skip_number: 1-9-7
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - chin

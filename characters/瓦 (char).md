@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wǎ
-cantonese:
-  - ngaa5
-korean:
-  - 와
+mandarin: "wǎ"
+cantonese: "ngaa5"
+korean: "와"
 korean_native: ""
 japanese:
   - GA
@@ -15,7 +12,7 @@ middle_chinese_final: ɣua
 stroke_count: "5"
 radical: 瓦
 skip_number: 4-5-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - tile

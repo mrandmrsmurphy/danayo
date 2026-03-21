@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiāng
-cantonese:
-  - coeng1
-korean:
-  - 창
+mandarin: "qiāng"
+cantonese: "coeng1"
+korean: "창"
 korean_native: ""
 japanese:
   - SOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣæŋ
 stroke_count: 14
 radical: 木
 skip_number: 1-4-10
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - spear

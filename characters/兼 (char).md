@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiān
-cantonese:
-  - gim1
-korean:
-  - 겸
+mandarin: "jiān"
+cantonese: "gim1"
+korean: "겸"
 korean_native: "겸할"
 japanese:
   - KEN

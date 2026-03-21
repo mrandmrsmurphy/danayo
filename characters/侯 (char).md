@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hóu
-cantonese:
-  - hau4
-korean:
-  - 후
+mandarin: "hóu"
+cantonese: "hau4"
+korean: "후"
 korean_native: ""
 japanese:
   - KOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuài
-cantonese:
-  - faai3
-korean:
-  - 쾌
+mandarin: "kuài"
+cantonese: "faai3"
+korean: "쾌"
 korean_native: ""
 japanese:
   - KAI

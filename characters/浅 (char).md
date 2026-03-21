@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiǎn
-cantonese:
-  - cin2
-korean:
-  - 천
+mandarin: "qiǎn"
+cantonese: "cin2"
+korean: "천"
 korean_native: 얕을
 japanese:
   - SEN

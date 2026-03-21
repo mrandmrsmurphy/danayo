@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lí
-cantonese:
-  - lei4
-korean:
-  - 리
+mandarin: "lí"
+cantonese: "lei4"
+korean: "리"
 korean_native: ""
 japanese:
   - RIN
@@ -16,7 +13,7 @@ middle_chinese_final: ɨ
 stroke_count: 9
 radical: 厂
 skip_number: 3-2-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - centi-

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - niào
-cantonese:
-  - niu6
-korean:
-  - 뇨
+mandarin: "niào"
+cantonese: "niu6"
+korean: "뇨"
 korean_native: ""
 japanese:
   - NYOU
@@ -15,7 +12,7 @@ middle_chinese_final: eu
 stroke_count: 7
 radical: 尸
 skip_number: 3-3-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - urine

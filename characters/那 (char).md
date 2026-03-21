@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nà
-cantonese:
-  - naa5
-korean:
-  - 나
+mandarin: "nà"
+cantonese: "naa5"
+korean: "나"
 korean_native: ""
 japanese:
   - DA

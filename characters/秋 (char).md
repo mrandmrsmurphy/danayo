@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiū
-cantonese:
-  - cau1
-korean:
-  - 추
+mandarin: "qiū"
+cantonese: "cau1"
+korean: "추"
 korean_native: 가울
 japanese:
   - SHUU

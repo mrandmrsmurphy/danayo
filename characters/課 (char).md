@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kè
-cantonese:
-  - fo3
-korean:
-  - 과
+mandarin: "kè"
+cantonese: "fo3"
+korean: "과"
 korean_native: ""
 japanese:
   - KA

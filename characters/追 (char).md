@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhuī
-cantonese:
-  - zeoi1
-korean:
-  - 추
+mandarin: "zhuī"
+cantonese: "zeoi1"
+korean: "추"
 korean_native: ""
 japanese:
   - TSUI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiuɪ
 stroke_count: 9
 radical: 辵
 skip_number: 3-3-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - follow

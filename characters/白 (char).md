@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bái
-cantonese:
-  - baak6
-korean:
-  - 백
+mandarin: "bái"
+cantonese: "baak6"
+korean: "백"
 korean_native: ""
 japanese:
   - HAKU

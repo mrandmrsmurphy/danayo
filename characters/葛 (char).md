@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gé
-cantonese:
-  - got3
-korean:
-  - 갈
+mandarin: "gé"
+cantonese: "got3"
+korean: "갈"
 korean_native: ""
 japanese:
   - KATSU
@@ -16,7 +13,7 @@ middle_chinese_final: ɑt
 stroke_count: 12
 radical: 艸
 skip_number: 2-3-9
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - kudzu

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuāng
-cantonese:
-  - hong1
-korean:
-  - 광
+mandarin: "kuāng"
+cantonese: "hong1"
+korean: "광"
 korean_native: ""
 japanese:
   - KYOU
@@ -15,7 +12,7 @@ middle_chinese_final: ʉɐŋ
 stroke_count: 12
 radical: 竹
 skip_number: 2-6-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bamboo bascket

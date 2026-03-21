@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lián
-cantonese:
-  - lin4
-korean:
-  - 련
+mandarin: "lián"
+cantonese: "lin4"
+korean: "련"
 korean_native: ""
 japanese:
   - REN
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇn
 stroke_count: 13
 radical: 艸
 skip_number: 2-3-10
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - lotus

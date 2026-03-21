@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bìng
-cantonese:
-  - bing6
-korean:
-  - 병
+mandarin: "bìng"
+cantonese: "bing6"
+korean: "병"
 korean_native: ""
 japanese:
   - HEI

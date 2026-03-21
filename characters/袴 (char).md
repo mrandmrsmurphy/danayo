@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kù
-cantonese:
-  - fu3
-korean:
-  - 고
+mandarin: "kù"
+cantonese: "fu3"
+korean: "고"
 korean_native: ""
 japanese:
   - KO
@@ -15,7 +12,7 @@ middle_chinese_final: uo
 stroke_count: 11
 radical: 衣
 skip_number: 1-5-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - pants

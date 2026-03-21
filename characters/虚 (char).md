@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xū
-cantonese:
-  - heoi1
-korean:
-  - 효
+mandarin: "xū"
+cantonese: "heoi1"
+korean: "효"
 korean_native: 빌
 japanese:
   - KYO

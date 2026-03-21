@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - biàn
-cantonese:
-  - bin3
-korean:
-  - 변
+mandarin: "biàn"
+cantonese: "bin3"
+korean: "변"
 korean_native: 변할
 japanese:
   - HEN

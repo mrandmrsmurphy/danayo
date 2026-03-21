@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yù
-cantonese:
-  - juk6
-korean:
-  - 옥
+mandarin: "yù"
+cantonese: "juk6"
+korean: "옥"
 korean_native: ""
 japanese:
   - GYOKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨok
 stroke_count: "5"
 radical: 玉
 skip_number: 4-5-1
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - jade

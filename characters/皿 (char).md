@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mǐn
-cantonese:
-  - ming5
-korean:
-  - 명
+mandarin: "mǐn"
+cantonese: "ming5"
+korean: "명"
 korean_native: ""
 japanese:
   - BAI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiæŋ
 stroke_count: "5"
 radical: 皿
 skip_number: 4-5-1
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - dish

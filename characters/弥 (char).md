@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mí
-cantonese:
-  - nei4
-korean:
-  - 미
+mandarin: "mí"
+cantonese: "nei4"
+korean: "미"
 korean_native: ""
 japanese:
   - MI

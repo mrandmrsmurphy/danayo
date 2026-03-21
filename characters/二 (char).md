@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - èr
-cantonese: ji6
-korean:
-  - 이
+mandarin: "èr"
+cantonese: "ji6"
+korean: "이"
 korean_native: 두
 japanese:
   - NI

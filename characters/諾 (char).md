@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nuò
-cantonese:
-  - nok6
-korean:
-  - 낙
+mandarin: "nuò"
+cantonese: "nok6"
+korean: "낙"
 korean_native: ""
 japanese:
   - DAKU

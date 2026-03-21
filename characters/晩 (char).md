@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wǎn
-cantonese:
-  - maan5
-korean:
-  - 만
+mandarin: "wǎn"
+cantonese: "maan5"
+korean: "만"
 korean_native: 늦을
 japanese:
   - BAN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - diàn
-cantonese:
-  - din3
-korean:
-  - 점
+mandarin: "diàn"
+cantonese: "din3"
+korean: "점"
 korean_native: ""
 japanese:
   - TEN
@@ -17,7 +14,7 @@ middle_chinese_final: ep
 stroke_count: 14
 radical: 土
 skip_number: 2-11-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - mat

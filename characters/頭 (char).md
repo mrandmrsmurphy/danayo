@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tóu
-cantonese:
-  - tau4
-korean:
-  - 두
+mandarin: "tóu"
+cantonese: "tau4"
+korean: "두"
 korean_native: ""
 japanese:
   - TOU

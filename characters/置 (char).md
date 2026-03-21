@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - zi3
-korean:
-  - 치
+mandarin: "zhì"
+cantonese: "zi3"
+korean: "치"
 korean_native: ""
 japanese:
   - CHI
@@ -15,7 +12,7 @@ middle_chinese_final: ɨ
 stroke_count: 13
 radical: 网
 skip_number: 2-5-8
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - put

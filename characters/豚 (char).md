@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tún
-cantonese:
-  - tyun4
-korean:
-  - 돈
+mandarin: "tún"
+cantonese: "tyun4"
+korean: "돈"
 korean_native: ""
 japanese:
   - TON
@@ -15,7 +12,7 @@ middle_chinese_final: uən
 stroke_count: 11
 radical: 豕
 skip_number: 1-4-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - pig

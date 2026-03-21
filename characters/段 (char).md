@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - duàn
-cantonese:
-  - dyun6
-korean:
-  - 단
+mandarin: "duàn"
+cantonese: "dyun6"
+korean: "단"
 korean_native: ""
 japanese:
   - DAN

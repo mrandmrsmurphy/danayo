@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cāng
-cantonese:
-  - cong1
-korean:
-  - 창
+mandarin: "cāng"
+cantonese: "cong1"
+korean: "창"
 korean_native: ""
 japanese:
   - SOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pìn
-cantonese:
-  - ping3
-korean:
-  - 빙
+mandarin: "pìn"
+cantonese: "ping3"
+korean: "빙"
 korean_native: ""
 japanese:
   - HEI
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇŋ
 stroke_count: 13
 radical: 耳
 skip_number: 1-6-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - engage

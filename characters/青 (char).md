@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qīng
-cantonese:
-  - cing1
-korean:
-  - 청
+mandarin: "qīng"
+cantonese: "cing1"
+korean: "청"
 korean_native: ""
 japanese:
   - SEI

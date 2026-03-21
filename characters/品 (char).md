@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pǐn
-cantonese:
-  - ban2
-korean:
-  - 품
+mandarin: "pǐn"
+cantonese: "ban2"
+korean: "품"
 korean_native: ""
 japanese:
   - HIN

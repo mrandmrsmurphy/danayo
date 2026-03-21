@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fú
-cantonese:
-  - fuk1
-korean:
-  - 복
+mandarin: "fú"
+cantonese: "fuk1"
+korean: "복"
 korean_native: ""
 japanese:
   - FUKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨuk
 stroke_count: 13
 radical: 示
 skip_number: 1-4-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - blessing

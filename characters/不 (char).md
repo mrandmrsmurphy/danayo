@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - bù
-cantonese: bat1
-korean:
-  - 부
+mandarin: "bù"
+cantonese: "bat1"
+korean: "부"
 korean_native: 아닐
 japanese:
   - FU

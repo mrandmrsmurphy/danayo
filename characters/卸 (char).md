@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiè
-cantonese:
-  - se3
-korean:
-  - 사
+mandarin: "xiè"
+cantonese: "se3"
+korean: "사"
 korean_native: ""
 japanese:
   - SHA
@@ -15,7 +12,7 @@ middle_chinese_final: ia
 stroke_count: 9
 radical: 卩
 skip_number: 1-7-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - retire

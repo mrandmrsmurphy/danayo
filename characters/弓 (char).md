@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gōng
-cantonese:
-  - gung1
-korean:
-  - 궁
+mandarin: "gōng"
+cantonese: "gung1"
+korean: "궁"
 korean_native: ""
 japanese:
   - KYUU

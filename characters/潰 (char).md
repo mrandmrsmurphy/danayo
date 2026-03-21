@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuì
-cantonese:
-  - kui2
-korean:
-  - 궤
+mandarin: "kuì"
+cantonese: "kui2"
+korean: "궤"
 korean_native: ""
 japanese:
   - KAI
@@ -16,7 +13,7 @@ middle_chinese_final: uʌi
 stroke_count: "15"
 radical: 水
 skip_number: 1-3-12
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - crush

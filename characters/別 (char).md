@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bié
-cantonese:
-  - bit6
-korean:
-  - 별
+mandarin: "bié"
+cantonese: "bit6"
+korean: "별"
 korean_native: ""
 japanese:
   - BETSU

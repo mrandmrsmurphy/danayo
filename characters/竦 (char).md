@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sǒng
-cantonese:
-  - sung2
-korean:
-  - 송
+mandarin: "sǒng"
+cantonese: "sung2"
+korean: "송"
 korean_native: ""
 japanese:
   - SHOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: 12
 radical: 立
 skip_number: 1-5-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - awe

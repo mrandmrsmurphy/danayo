@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - róng
-cantonese:
-  - jung4
-korean:
-  - 용
+mandarin: "róng"
+cantonese: "jung4"
+korean: "용"
 korean_native: ""
 japanese:
   - YOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pò
-cantonese:
-  - po3
-korean:
-  - 파
+mandarin: "pò"
+cantonese: "po3"
+korean: "파"
 korean_native: ""
 japanese:
   - HA
@@ -15,7 +12,7 @@ middle_chinese_final: uɑ
 stroke_count: 10
 radical: 石
 skip_number: 1-5-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - rend

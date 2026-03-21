@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - é
-cantonese:
-  - ngo4
-korean:
-  - 아
+mandarin: "é"
+cantonese: "ngo4"
+korean: "아"
 korean_native: ""
 japanese:
   - GA
@@ -17,7 +14,7 @@ middle_chinese_final: ɑ
 stroke_count: 13
 radical: 虫
 skip_number: 1-6-7
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - moth

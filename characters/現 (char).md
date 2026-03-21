@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiàn
-cantonese:
-  - jin6
-korean:
-  - 현
+mandarin: "xiàn"
+cantonese: "jin6"
+korean: "현"
 korean_native: ""
 japanese:
   - GEN

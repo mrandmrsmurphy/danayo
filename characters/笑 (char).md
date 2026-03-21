@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiào
-cantonese:
-  - siu3
-korean:
-  - 소
+mandarin: "xiào"
+cantonese: "siu3"
+korean: "소"
 korean_native: ""
 japanese:
   - SHOU
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇu
 stroke_count: 10
 radical: 竹
 skip_number: 2-6-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - laugh

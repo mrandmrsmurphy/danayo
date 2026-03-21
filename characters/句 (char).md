@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jù
-cantonese:
-  - geoi3
-korean:
-  - 구
+mandarin: "jù"
+cantonese: "geoi3"
+korean: "구"
 korean_native: ""
 japanese:
   - KU

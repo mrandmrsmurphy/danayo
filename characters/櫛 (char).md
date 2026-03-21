@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - zit3
-korean:
-  - 즐
+mandarin: "zhì"
+cantonese: "zit3"
+korean: "즐"
 korean_native: ""
 japanese:
   - SHITSU
@@ -15,7 +12,7 @@ middle_chinese_final: ɪt
 stroke_count: 17
 radical: 木
 skip_number: 1-4-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - comb

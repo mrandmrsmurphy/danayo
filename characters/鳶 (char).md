@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yuān
-cantonese:
-  - jyun1
-korean:
-  - 연
+mandarin: "yuān"
+cantonese: "jyun1"
+korean: "연"
 korean_native: ""
 japanese:
   - EN
@@ -15,7 +12,7 @@ middle_chinese_final: iuᴇn
 stroke_count: 14
 radical: 鳥
 skip_number: 2-3-11
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - kite

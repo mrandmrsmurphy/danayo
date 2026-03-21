@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lì
-cantonese:
-  - lai6
-korean:
-  - 려
+mandarin: "lì"
+cantonese: "lai6"
+korean: "려"
 korean_native: 엄할/숫돌
 japanese:
   - REI
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇi
 stroke_count: 5
 radical: 厂
 skip_number: 3-2-3
-grade_level: 先進
+grade_level: "先進"
 pos: 名詞
 english:
   - whetstone

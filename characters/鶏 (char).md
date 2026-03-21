@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jī
-cantonese:
-  - gai1
-korean:
-  - 계
+mandarin: "jī"
+cantonese: "gai1"
+korean: "계"
 korean_native: 닭
 japanese:
   - KEI

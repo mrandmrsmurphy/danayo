@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiàng
-cantonese:
-  - hong6
-korean:
-  - 항
+mandarin: "xiàng"
+cantonese: "hong6"
+korean: "항"
 korean_native: ""
 japanese:
   - KOU

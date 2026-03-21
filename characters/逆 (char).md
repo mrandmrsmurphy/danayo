@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nì
-cantonese:
-  - jik6
-korean:
-  - 역
+mandarin: "nì"
+cantonese: "jik6"
+korean: "역"
 korean_native: 거스를
 japanese:
   - GYAKU
@@ -17,7 +14,7 @@ middle_chinese_final: ɣiæk
 stroke_count: 9
 radical: 辵
 skip_number: 3-3-6
-grade_level: 4
+grade_level: "4"
 pos: 名詞
 english:
   - rebellion

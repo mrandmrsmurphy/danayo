@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shě
-cantonese:
-  - se2
-korean:
-  - 사
+mandarin: "shě"
+cantonese: "se2"
+korean: "사"
 korean_native: ""
 japanese:
   - SHA
@@ -15,7 +12,7 @@ middle_chinese_final: ia
 stroke_count: "11"
 radical: 手
 skip_number: 1-3-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - throw away

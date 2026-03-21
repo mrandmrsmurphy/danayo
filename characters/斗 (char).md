@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dòu dǒu
-cantonese:
-  - dau3
-korean:
-  - 두
+mandarin: "dòu dǒu"
+cantonese: "dau3"
+korean: "두"
 korean_native: ""
 japanese:
   - TO

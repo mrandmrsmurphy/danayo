@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wù
-cantonese:
-  - mat6
-korean:
-  - 물
+mandarin: "wù"
+cantonese: "mat6"
+korean: "물"
 korean_native: 만물
 japanese:
   - MOTSU

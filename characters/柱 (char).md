@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhù
-cantonese:
-  - cyu5
-korean:
-  - 주
+mandarin: "zhù"
+cantonese: "cyu5"
+korean: "주"
 korean_native: ""
 japanese:
   - CHUU

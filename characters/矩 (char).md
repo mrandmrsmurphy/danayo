@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jǔ
-cantonese:
-  - geoi2
-korean:
-  - 구
+mandarin: "jǔ"
+cantonese: "geoi2"
+korean: "구"
 korean_native: ""
 japanese:
   - KU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨo
 stroke_count: 10
 radical: 矢
 skip_number: 1-5-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - moment (physics)

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - suàn
-cantonese:
-  - syun3
-korean:
-  - 산
+mandarin: "suàn"
+cantonese: "syun3"
+korean: "산"
 korean_native: 셈
 japanese:
   - SAN

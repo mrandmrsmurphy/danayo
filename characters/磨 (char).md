@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mó
-cantonese:
-  - mo4
-korean:
-  - 마
+mandarin: "mó"
+cantonese: "mo4"
+korean: "마"
 korean_native: ""
 japanese:
   - MA

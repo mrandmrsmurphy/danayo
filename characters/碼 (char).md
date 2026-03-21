@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mǎ
-cantonese:
-  - maa5
-korean:
-  - 마
+mandarin: "mǎ"
+cantonese: "maa5"
+korean: "마"
 korean_native: ""
 japanese:
   - BA
@@ -16,7 +13,7 @@ middle_chinese_final: ɣa
 stroke_count: 15
 radical: 石
 skip_number: 1-5-10
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - yard

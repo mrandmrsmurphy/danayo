@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiào
-cantonese:
-  - giu3
-korean:
-  - 규
+mandarin: "jiào"
+cantonese: "giu3"
+korean: "규"
 korean_native: ""
 japanese:
   - KYOU

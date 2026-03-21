@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tòu
-cantonese:
-  - tau3
-korean:
-  - 투
+mandarin: "tòu"
+cantonese: "tau3"
+korean: "투"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: əu
 stroke_count: 10
 radical: 辵
 skip_number: 3-3-7
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - transparent

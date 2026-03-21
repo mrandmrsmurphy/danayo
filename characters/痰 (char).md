@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tán
-cantonese:
-  - taam4
-korean:
-  - 담
+mandarin: "tán"
+cantonese: "taam4"
+korean: "담"
 korean_native: ""
 japanese:
   - TAN
@@ -15,7 +12,7 @@ middle_chinese_final: ɑm
 stroke_count: 13
 radical: 疒
 skip_number: 3-5-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - phlegm

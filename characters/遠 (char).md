@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yuǎn
-cantonese:
-  - jyun5
-korean:
-  - 원
+mandarin: "yuǎn"
+cantonese: "jyun5"
+korean: "원"
 korean_native: ""
 japanese:
   - EN

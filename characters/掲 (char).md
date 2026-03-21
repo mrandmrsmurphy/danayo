@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiē
-cantonese:
-  - kit3
-korean:
-  - 게
+mandarin: "jiē"
+cantonese: "kit3"
+korean: "게"
 korean_native: 높이들
 japanese:
   - KEI

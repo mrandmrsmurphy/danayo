@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shēng
-cantonese:
-  - sing1
-korean:
-  - 승
+mandarin: "shēng"
+cantonese: "sing1"
+korean: "승"
 korean_native: ""
 japanese:
   - SHOU

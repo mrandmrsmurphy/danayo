@@ -1,8 +1,6 @@
 ---
-mandarin:
-  - píng
-cantonese:
-  - ping4
+mandarin: "píng"
+cantonese: "ping4"
 korean:
 korean_native: ""
 japanese:
@@ -15,7 +13,7 @@ middle_chinese_final: eŋ
 stroke_count: "11"
 radical: 瓦
 skip_number: 1-6-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - jug

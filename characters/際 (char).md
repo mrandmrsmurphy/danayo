@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jì
-cantonese:
-  - zai3
-korean:
-  - 제
+mandarin: "jì"
+cantonese: "zai3"
+korean: "제"
 korean_native: 사이
 japanese:
   - SAI
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇi
 stroke_count: "14"
 radical: 阜
 skip_number: 1-3-11
-grade_level: 4
+grade_level: "4"
 pos: 名詞
 english:
   - border

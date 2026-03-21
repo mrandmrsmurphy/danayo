@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiě
-cantonese:
-  - gaai2
-korean:
-  - 해
+mandarin: "jiě"
+cantonese: "gaai2"
+korean: "해"
 korean_native: ""
 japanese:
   - KAI

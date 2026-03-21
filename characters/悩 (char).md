@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nǎo
-cantonese:
-  - nou5
-korean:
-  - 뇌
+mandarin: "nǎo"
+cantonese: "nou5"
+korean: "뇌"
 korean_native: 괴로워할
 japanese:
   - NOU

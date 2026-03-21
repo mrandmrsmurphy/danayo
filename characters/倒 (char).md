@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dào
-cantonese:
-  - dou2
-korean:
-  - 도
+mandarin: "dào"
+cantonese: "dou2"
+korean: "도"
 korean_native: ""
 japanese:
   - TOU

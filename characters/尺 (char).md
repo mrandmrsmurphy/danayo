@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chǐ
-cantonese:
-  - cek3
-korean:
-  - 척
+mandarin: "chǐ"
+cantonese: "cek3"
+korean: "척"
 korean_native: ""
 japanese:
   - SHAKU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mì
-cantonese:
-  - mat6
-korean:
-  - 밀
+mandarin: "mì"
+cantonese: "mat6"
+korean: "밀"
 korean_native: ""
 japanese:
   - MITSU

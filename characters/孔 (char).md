@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kǒng
-cantonese:
-  - hung2
-korean:
-  - 공
+mandarin: "kǒng"
+cantonese: "hung2"
+korean: "공"
 korean_native: ""
 japanese:
   - KOU

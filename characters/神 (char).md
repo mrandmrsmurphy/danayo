@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shén
-cantonese:
-  - san4
-korean:
-  - 신
+mandarin: "shén"
+cantonese: "san4"
+korean: "신"
 korean_native: ""
 japanese:
   - SHIN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuī
-cantonese:
-  - kwai1
-korean:
-  - 규
+mandarin: "kuī"
+cantonese: "kwai1"
+korean: "규"
 korean_native: ""
 japanese:
   - KI
@@ -15,7 +12,7 @@ middle_chinese_final: iuᴇ
 stroke_count: 16
 radical: 穴
 skip_number: 2-3-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - spy on

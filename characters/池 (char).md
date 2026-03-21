@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chí
-cantonese:
-  - ci4
-korean:
-  - 지
+mandarin: "chí"
+cantonese: "ci4"
+korean: "지"
 korean_native: ""
 japanese:
   - CHI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiᴇ
 stroke_count: "6"
 radical: 水
 skip_number: 1-3-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - pond

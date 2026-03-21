@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tǒng
-cantonese:
-  - tung4
-korean:
-  - 통
+mandarin: "tǒng"
+cantonese: "tung4"
+korean: "통"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: uŋ
 stroke_count: 12
 radical: 竹
 skip_number: 2-6-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - cylinder

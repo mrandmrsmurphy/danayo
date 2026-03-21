@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tǔ
-cantonese:
-  - tou2
-korean:
-  - 토
+mandarin: "tǔ"
+cantonese: "tou2"
+korean: "토"
 korean_native: 흙
 japanese:
   - DO

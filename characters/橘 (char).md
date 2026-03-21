@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jú
-cantonese:
-  - gwat1
-korean:
-  - 귤
+mandarin: "jú"
+cantonese: "gwat1"
+korean: "귤"
 korean_native: ""
 japanese:
   - KITSU
@@ -15,7 +12,7 @@ middle_chinese_final: iuɪt
 stroke_count: 16
 radical: 木
 skip_number: 1-4-12
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - tangerine

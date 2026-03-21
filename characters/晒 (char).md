@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shài
-cantonese:
-  - saai3
-korean:
-  - 쇄
+mandarin: "shài"
+cantonese: "saai3"
+korean: "쇄"
 korean_native: 쬘
 japanese:
   - SE, SAI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiᴇ
 stroke_count: "10"
 radical: 日
 skip_number: 1-4-6
-grade_level: 先進
+grade_level: "先進"
 pos: 事詞
 english:
   - expose

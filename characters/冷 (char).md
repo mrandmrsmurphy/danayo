@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lěng
-cantonese:
-  - laang5
-korean:
-  - 냉
+mandarin: "lěng"
+cantonese: "laang5"
+korean: "냉"
 korean_native: ""
 japanese:
   - REI

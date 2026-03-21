@@ -1,8 +1,7 @@
 ---
-mandarin: xiē
-cantonese:
-  - kit3
-korean: 갈
+mandarin: "xiē"
+cantonese: "kit3"
+korean: "갈"
 korean_native: 전갈
 japanese:
   - GACHI
@@ -14,7 +13,7 @@ middle_chinese_final: ɨɐt
 stroke_count: 15
 radical: 虫
 skip_number: 2-6-9
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english: scorpion
 羅馬字: hyed

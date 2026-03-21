@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yán
-cantonese:
-  - jyun4
-korean:
-  - 연
+mandarin: "yán"
+cantonese: "jyun4"
+korean: "연"
 korean_native: ""
 japanese:
   - EN
@@ -15,7 +12,7 @@ middle_chinese_final: iuᴇn
 stroke_count: "8"
 radical: 水
 skip_number: 1-3-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - edge

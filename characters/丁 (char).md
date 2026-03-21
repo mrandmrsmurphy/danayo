@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - dīng
-cantonese: ding1, jaang1, jang1
-korean:
-  - 정
+mandarin: dīng
+cantonese: "ding1"
+korean: 정
 korean_native: 고무래, 장정
 japanese:
   - TEI
@@ -22,7 +20,7 @@ pos: 名詞
 english:
   - fourth
 羅馬字: deng
-韓文:  덩
+韓文: 덩
 joyo_level: "3"
 hsk_level: "3"
 hanmun_edu_level: 中

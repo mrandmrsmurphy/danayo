@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yān
-cantonese:
-  - jin1
-korean:
-  - 언
+mandarin: "yān"
+cantonese: "jin1"
+korean: "언"
 korean_native: ""
 japanese:
   - EN
@@ -16,7 +13,7 @@ middle_chinese_final: ɨɐn
 stroke_count: 11
 radical: 火
 skip_number: 2-5-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - therefore

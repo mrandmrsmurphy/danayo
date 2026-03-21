@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yōng
-cantonese:
-  - jung4
-korean:
-  - 용
+mandarin: "yōng"
+cantonese: "jung4"
+korean: "용"
 korean_native: ""
 japanese:
   - YOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: 11
 radical: 广
 skip_number: 3-3-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - commonplace

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zuò
-cantonese:
-  - zo6
-korean:
-  - 좌
+mandarin: "zuò"
+cantonese: "zo6"
+korean: "좌"
 korean_native: ""
 japanese:
   - ZA

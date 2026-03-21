@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mí
-cantonese:
-  - mai4
-korean:
-  - 미
+mandarin: "mí"
+cantonese: "mai4"
+korean: "미"
 korean_native: ""
 japanese:
   - MEI
@@ -15,7 +12,7 @@ middle_chinese_final: ei
 stroke_count: 17
 radical: 言
 skip_number: 1-7-10
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - riddle

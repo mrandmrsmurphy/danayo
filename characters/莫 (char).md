@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mò
-cantonese:
-  - mok6
-korean:
-  - 막
+mandarin: "mò"
+cantonese: "mok6"
+korean: "막"
 korean_native: ""
 japanese:
   - BO

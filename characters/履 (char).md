@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lǚ
-cantonese:
-  - lei5
-korean:
-  - 리
+mandarin: "lǚ"
+cantonese: "lei5"
+korean: "리"
 korean_native: ""
 japanese:
   - RI
@@ -15,7 +12,7 @@ middle_chinese_final: iɪ
 stroke_count: 15
 radical: 尸
 skip_number: 3-3-12
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - tread on/with

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dēng
-cantonese:
-  - dang1
-korean:
-  - 정
+mandarin: "dēng"
+cantonese: "dang1"
+korean: "정"
 korean_native: ""
 japanese:
   - TOU

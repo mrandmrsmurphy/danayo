@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shěng
-cantonese:
-  - saang2
-korean:
-  - 생
+mandarin: "shěng"
+cantonese: "saang2"
+korean: "생"
 korean_native: ""
 japanese:
   - SEI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiæŋ
 stroke_count: 9
 radical: 目
 skip_number: 2-4-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - government ministry

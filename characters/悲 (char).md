@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bēi
-cantonese:
-  - bei1
-korean:
-  - 비
+mandarin: "bēi"
+cantonese: "bei1"
+korean: "비"
 korean_native: ""
 japanese:
   - HI
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiɪ
 stroke_count: 12
 radical: 心
 skip_number: 2-8-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - be sad

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shū
-cantonese:
-  - so1
-korean:
-  - 소
+mandarin: "shū"
+cantonese: "so1"
+korean: "소"
 korean_native: ""
 japanese:
   - SO
@@ -15,7 +12,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 11
 radical: 木
 skip_number: 1-4-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - comb

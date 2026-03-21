@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - juàn
-cantonese:
-  - gyun2
-korean:
-  - 권
+mandarin: "juàn"
+cantonese: "gyun2"
+korean: "권"
 korean_native: 책 권
 japanese:
   - KAN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nì
-cantonese:
-  - nik6
-korean:
-  - 닉
+mandarin: "nì"
+cantonese: "nik6"
+korean: "닉"
 korean_native: ""
 japanese:
   - DEKI
@@ -17,7 +14,7 @@ middle_chinese_final: ɨɐk
 stroke_count: "13"
 radical: 水
 skip_number: 1-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - drown

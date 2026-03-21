@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yā
-cantonese:
-  - aap3
-korean:
-  - 압
+mandarin: "yā"
+cantonese: "aap3"
+korean: "압"
 korean_native: ""
 japanese:
   - OU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣap
 stroke_count: 16
 radical: 鳥
 skip_number: 1-5-11
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - duck

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tōng
-cantonese:
-  - tung1
-korean:
-  - 통
+mandarin: "tōng"
+cantonese: "tung1"
+korean: "통"
 korean_native: 통할
 japanese:
   - TSUU

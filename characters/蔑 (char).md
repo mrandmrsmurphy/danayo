@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - miè
-cantonese:
-  - mit6
-korean:
-  - 멸
+mandarin: "miè"
+cantonese: "mit6"
+korean: "멸"
 korean_native: ""
 japanese:
   - BETSU
@@ -15,7 +12,7 @@ middle_chinese_final: et
 stroke_count: 14
 radical: 艸
 skip_number: 2-3-11
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - scorn

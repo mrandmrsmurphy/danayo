@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lì
-cantonese:
-  - leoi6
-korean:
-  - 려
+mandarin: "lì"
+cantonese: "leoi6"
+korean: "려"
 korean_native: ""
 japanese:
   - REI
@@ -15,7 +12,7 @@ middle_chinese_final: ei
 stroke_count: "10"
 radical: 口
 skip_number: 1-2-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bird cry

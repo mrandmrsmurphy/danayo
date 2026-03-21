@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bēi
-cantonese:
-  - bei1
-korean:
-  - 비
+mandarin: "bēi"
+cantonese: "bei1"
+korean: "비"
 korean_native: ""
 japanese:
   - HI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - léi
-cantonese:
-  - leoi4
-korean:
-  - 뇌
+mandarin: "léi"
+cantonese: "leoi4"
+korean: "뇌"
 korean_native: ""
 japanese:
   - RAI

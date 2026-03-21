@@ -1,7 +1,7 @@
 ---
-mandarin: kān
-cantonese: ham1
-korean: 감
+mandarin: "kān"
+cantonese: "ham1"
+korean: "감"
 korean_native: ""
 japanese: KON
 japanese_nanori: ずし
@@ -11,7 +11,7 @@ middle_chinese_final: ʌm
 stroke_count: 22
 radical: 龍
 skip_number: 2-2-20
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english: shrine, alcove
 羅馬字: kam

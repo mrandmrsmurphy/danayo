@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yì
-cantonese:
-  - ngaai6
-korean:
-  - 예
+mandarin: "yì"
+cantonese: "ngaai6"
+korean: "예"
 korean_native: ""
 japanese:
   - GAI
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐi
 stroke_count: "4"
 radical: 刀
 skip_number: 1-2-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - cut

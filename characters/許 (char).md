@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xǔ
-cantonese:
-  - heoi2
-korean:
-  - 허
+mandarin: "xǔ"
+cantonese: "heoi2"
+korean: "허"
 korean_native: ""
 japanese:
   - KYO
@@ -16,7 +13,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 11
 radical: 言
 skip_number: 1-7-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - permit

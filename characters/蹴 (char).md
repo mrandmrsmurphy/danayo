@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cù
-cantonese:
-  - cuk1
-korean:
-  - 축
+mandarin: "cù"
+cantonese: "cuk1"
+korean: "축"
 korean_native: ""
 japanese:
   - SHUU

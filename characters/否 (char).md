@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fǒu
-cantonese:
-  - fau2
-korean:
-  - 부
+mandarin: "fǒu"
+cantonese: "fau2"
+korean: "부"
 korean_native: ""
 japanese:
   - HI

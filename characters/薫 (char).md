@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xūn
-cantonese:
-  - fan1
-korean:
-  - 훈
+mandarin: "xūn"
+cantonese: "fan1"
+korean: "훈"
 korean_native: 향풀
 japanese:
   - KUN

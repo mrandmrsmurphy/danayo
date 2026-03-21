@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jí
-cantonese:
-  - gat1
-korean:
-  - 길
+mandarin: "jí"
+cantonese: "gat1"
+korean: "길"
 korean_native: ""
 japanese:
   - KICHI
@@ -16,7 +13,7 @@ middle_chinese_final: iɪt
 stroke_count: 6
 radical: 口
 skip_number: 2-3-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - lucky

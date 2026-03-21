@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qí
-cantonese:
-  - kei4
-korean:
-  - 기
+mandarin: "qí"
+cantonese: "kei4"
+korean: "기"
 korean_native: 그
 japanese:
   - KI

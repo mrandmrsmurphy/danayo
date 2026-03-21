@@ -1,7 +1,7 @@
 ---
-mandarin: yì
-cantonese: yik6
-korean: 역
+mandarin: "yì"
+cantonese: "yik6"
+korean: "역"
 korean_native: 역참
 japanese: EKI
 japanese_nanori: うまや

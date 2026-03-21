@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - gài
-cantonese:
-  - koi3
-korean: 개
+mandarin: "gài"
+cantonese: "koi3"
+korean: "개"
 korean_native: "대개"
 japanese:
   - GAI

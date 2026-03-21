@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xì
-cantonese:
-  - gwik1
-korean:
-  - 극
+mandarin: "xì"
+cantonese: "gwik1"
+korean: "극"
 korean_native: ""
 japanese:
   - GEKI
@@ -17,7 +14,7 @@ middle_chinese_final: ɣiæk
 stroke_count: "13"
 radical: 阜
 skip_number: 1-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - fissure

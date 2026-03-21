@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yàn
-cantonese:
-  - jim6
-korean:
-  - 염
+mandarin: "yàn"
+cantonese: "jim6"
+korean: "염"
 korean_native: ""
 japanese:
   - EN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tū
-cantonese:
-  - tuk1
-korean:
-  - 독
+mandarin: "tū"
+cantonese: "tuk1"
+korean: "독"
 korean_native: ""
 japanese:
   - TOKU
@@ -15,7 +12,7 @@ middle_chinese_final: uk
 stroke_count: 7
 radical: 禾
 skip_number: 2-5-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bald

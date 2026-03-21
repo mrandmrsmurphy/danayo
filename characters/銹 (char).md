@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiù
-cantonese:
-  - sau3
-korean:
-  - 수
+mandarin: "xiù"
+cantonese: "sau3"
+korean: "수"
 korean_native: ""
 japanese:
   - SHUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨu
 stroke_count: 15
 radical: 金
 skip_number: 1-8-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - rust

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tǐng
-cantonese:
-  - ting5
-korean:
-  - 정
+mandarin: "tǐng"
+cantonese: "ting5"
+korean: "정"
 korean_native: ""
 japanese:
   - TEI

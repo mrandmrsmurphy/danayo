@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xī
-cantonese:
-  - hai4
-korean:
-  - 해
+mandarin: "xī"
+cantonese: "hai4"
+korean: "해"
 korean_native: ""
 japanese:
   - KEI
@@ -15,7 +12,7 @@ middle_chinese_final: ei
 stroke_count: 10
 radical: 大
 skip_number: 2-4-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - how

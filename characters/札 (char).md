@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhá
-cantonese:
-  - zaat3
-korean:
-  - 찰
+mandarin: "zhá"
+cantonese: "zaat3"
+korean: "찰"
 korean_native: ""
 japanese:
   - SATSU

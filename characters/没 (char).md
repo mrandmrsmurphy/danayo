@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - méi
-cantonese:
-  - mut6
-korean:
-  - 몰
+mandarin: "méi"
+cantonese: "mut6"
+korean: "몰"
 korean_native: 가라앉을
 japanese:
   - BOTSU

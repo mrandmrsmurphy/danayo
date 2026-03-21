@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jìng
-cantonese:
-  - ging2
-korean:
-  - 경
+mandarin: "jìng"
+cantonese: "ging2"
+korean: "경"
 korean_native: "다할"
 japanese:
   - KEI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiæŋ
 stroke_count: 11
 radical: 立
 skip_number: 2-5-6
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - finally

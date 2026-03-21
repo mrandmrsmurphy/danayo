@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fú
-cantonese:
-  - fuk6
-korean:
-  - 복
+mandarin: "fú"
+cantonese: "fuk6"
+korean: "복"
 korean_native: ""
 japanese:
   - FUKU

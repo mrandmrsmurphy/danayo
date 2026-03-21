@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fú
-cantonese:
-  - fat6
-korean:
-  - 불
+mandarin: "fú"
+cantonese: "fat6"
+korean: "불"
 korean_native: ""
 japanese:
   - BUTSU

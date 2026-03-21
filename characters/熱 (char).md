@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rè
-cantonese:
-  - jit6
-korean:
-  - 열
+mandarin: "rè"
+cantonese: "jit6"
+korean: "열"
 korean_native: ""
 japanese:
   - NETSU
@@ -17,7 +14,7 @@ middle_chinese_final: iᴇt
 stroke_count: 15
 radical: 火
 skip_number: 2-11-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - heat up

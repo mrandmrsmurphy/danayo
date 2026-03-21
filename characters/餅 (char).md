@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bǐng
-cantonese:
-  - beng2
-korean:
-  - 병
+mandarin: "bǐng"
+cantonese: "beng2"
+korean: "병"
 korean_native: 떡
 japanese:
   - HEI

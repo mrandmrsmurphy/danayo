@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuò
-cantonese:
-  - fut3
-korean:
-  - 활
+mandarin: "kuò"
+cantonese: "fut3"
+korean: "활"
 korean_native: ""
 japanese:
   - KATSU
@@ -15,7 +12,7 @@ middle_chinese_final: uɑt
 stroke_count: 17
 radical: 門
 skip_number: 3-8-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - broad

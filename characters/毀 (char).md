@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huǐ
-cantonese:
-  - wai2
-korean:
-  - 훼
+mandarin: "huǐ"
+cantonese: "wai2"
+korean: "훼"
 korean_native: 헐
 japanese:
   - KI

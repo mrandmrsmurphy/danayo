@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hē
-cantonese:
-  - hot3
-korean:
-  - 갈
+mandarin: "hē"
+cantonese: "hot3"
+korean: "갈"
 korean_native: ""
 japanese:
   - KATSU

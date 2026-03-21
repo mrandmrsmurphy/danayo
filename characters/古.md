@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gǔ
-cantonese:
-  - gu2
-korean:
-  - 고
+mandarin: "gǔ"
+cantonese: "gu2"
+korean: "고"
 korean_native: ""
 japanese:
   - KO

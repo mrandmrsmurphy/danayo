@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shā
-cantonese:
-  - saa1
-korean:
-  - 사
+mandarin: "shā"
+cantonese: "saa1"
+korean: "사"
 korean_native: ""
 japanese:
   - SA

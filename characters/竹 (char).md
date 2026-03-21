@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhú
-cantonese:
-  - zuk1
-korean:
-  - 죽
+mandarin: "zhú"
+cantonese: "zuk1"
+korean: "죽"
 korean_native: ""
 japanese:
   - CHIKU

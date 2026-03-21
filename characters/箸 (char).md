@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhù
-cantonese:
-  - zyu6
-korean:
-  - 저
+mandarin: "zhù"
+cantonese: "zyu6"
+korean: "저"
 korean_native: ""
 japanese:
   - CHO
@@ -16,7 +13,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 15
 radical: 竹
 skip_number: 2-6-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - chopsticks

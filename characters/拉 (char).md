@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lā
-cantonese:
-  - laai1
-korean:
-  - 랍
+mandarin: "lā"
+cantonese: "laai1"
+korean: "랍"
 korean_native: ""
 japanese:
   - RATSU

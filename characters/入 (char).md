@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - rù
-cantonese: jap6
-korean:
-  - 입
+mandarin: "rù"
+cantonese: "jap6"
+korean: "입"
 korean_native: 들
 japanese:
   - NYUU

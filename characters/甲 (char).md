@@ -1,13 +1,7 @@
 ---
-mandarin:
-  - jiǎ
-  - shèng
-  - tián
-  - yìng
-cantonese:
-  - gaap3
-korean:
-  - 갑
+mandarin: "jiǎ"
+cantonese: "gaap3"
+korean: "갑"
 korean_native: 갑옷
 japanese:
   - KOU
@@ -20,7 +14,7 @@ middle_chinese_final: ɣap
 stroke_count: 5
 radical: 田
 skip_number: 4-5-1
-grade_level: 3
+grade_level: "3"
 pos: 名詞
 english:
   - armor

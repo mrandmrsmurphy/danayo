@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yìng
-cantonese:
-  - ngaang6
-korean:
-  - 경
+mandarin: "yìng"
+cantonese: "ngaang6"
+korean: "경"
 korean_native: "굳을"
 japanese:
   - KOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣɛŋ
 stroke_count: 12
 radical: 石
 skip_number: 1-5-7
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - hard

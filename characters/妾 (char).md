@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiè
-cantonese:
-  - cip3
-korean:
-  - 첩
+mandarin: "qiè"
+cantonese: "cip3"
+korean: "첩"
 korean_native: ""
 japanese:
   - SHOU
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇp
 stroke_count: 8
 radical: 女
 skip_number: 2-5-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - concubine

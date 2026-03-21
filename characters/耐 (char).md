@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nài
-cantonese:
-  - noi6
-korean:
-  - 내
+mandarin: "nài"
+cantonese: "noi6"
+korean: "내"
 korean_native: ""
 japanese:
   - TAI
@@ -16,7 +13,7 @@ middle_chinese_final: ʌi
 stroke_count: "9"
 radical: 而
 skip_number: 1-6-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - able to tolerate

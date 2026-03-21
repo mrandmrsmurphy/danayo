@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chū
-cantonese:
-  - ceot1
-korean:
-  - 출
+mandarin: "chū"
+cantonese: "ceot1"
+korean: "출"
 korean_native: ""
 japanese:
   - SHUTSU

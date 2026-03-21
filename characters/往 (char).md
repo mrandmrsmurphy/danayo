@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wǎng
-cantonese:
-  - wong5
-korean:
-  - 왕
+mandarin: "wǎng"
+cantonese: "wong5"
+korean: "왕"
 korean_native: ""
 japanese:
   - OU
@@ -15,7 +12,7 @@ middle_chinese_final: ʉɐŋ
 stroke_count: "8"
 radical: 彳
 skip_number: 1-3-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - to go towards

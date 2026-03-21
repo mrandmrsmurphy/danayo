@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chuān
-cantonese:
-  - cyun1
-korean:
-  - 천
+mandarin: "chuān"
+cantonese: "cyun1"
+korean: "천"
 korean_native: ""
 japanese:
   - SEN
@@ -15,7 +12,7 @@ middle_chinese_final: iuᴇn
 stroke_count: "10"
 radical: 穴
 skip_number: 2-3-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - penetrate

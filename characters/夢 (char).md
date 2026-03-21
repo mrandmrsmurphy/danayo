@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mèng
-cantonese:
-  - mung6
-korean:
-  - 몽
+mandarin: "mèng"
+cantonese: "mung6"
+korean: "몽"
 korean_native: ""
 japanese:
   - MU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨuŋ
 stroke_count: 13
 radical: 夕
 skip_number: 2-2-11
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - dream

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhèn
-cantonese:
-  - zan3
-korean:
-  - 진
+mandarin: "zhèn"
+cantonese: "zan3"
+korean: "진"
 korean_native: ""
 japanese:
   - SHIN
@@ -15,7 +12,7 @@ middle_chinese_final: iɪn
 stroke_count: "10"
 radical: 手
 skip_number: 1-3-7
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - shake

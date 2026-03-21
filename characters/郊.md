@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiāo
-cantonese:
-  - gaau1
-korean:
-  - 교
+mandarin: "jiāo"
+cantonese: "gaau1"
+korean: "교"
 korean_native: ""
 japanese:
   - KOU

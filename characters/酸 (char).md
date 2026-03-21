@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - suān
-cantonese:
-  - syun1
-korean:
-  - 산
+mandarin: "suān"
+cantonese: "syun1"
+korean: "산"
 korean_native: ""
 japanese:
   - SAN

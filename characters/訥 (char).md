@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nè
-cantonese:
-  - neot6
-korean:
-  - 눌
+mandarin: "nè"
+cantonese: "neot6"
+korean: "눌"
 korean_native: ""
 japanese:
   - TOTSU
@@ -16,7 +13,7 @@ middle_chinese_final: uət
 stroke_count: 11
 radical: 言
 skip_number: 1-7-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - mumble

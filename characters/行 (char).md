@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xíng
-cantonese:
-  - hang4
-korean:
-  - 항
+mandarin: "xíng"
+cantonese: "hang4"
+korean: "항"
 korean_native: ""
 japanese:
   - KOU

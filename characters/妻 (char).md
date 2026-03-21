@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qī
-cantonese:
-  - cai1
-korean:
-  - 처
+mandarin: "qī"
+cantonese: "cai1"
+korean: "처"
 korean_native: ""
 japanese:
   - SAI
@@ -15,7 +12,7 @@ middle_chinese_final: ei
 stroke_count: 8
 radical: 女
 skip_number: 2-5-3
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - my wife

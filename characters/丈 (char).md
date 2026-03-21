@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - zhàng
-cantonese: zoeng6
-korean:
-  - 장
+mandarin: "zhàng"
+cantonese: "zoeng6"
+korean: "장"
 korean_native: 어른
 japanese:
   - JOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wò
-cantonese:
-  - ngo6
-korean:
-  - 와
+mandarin: "wò"
+cantonese: "ngo6"
+korean: "와"
 korean_native: ""
 japanese:
   - GA
@@ -15,7 +12,7 @@ middle_chinese_final: uɑ
 stroke_count: 9
 radical: 臣
 skip_number: 1-7-2
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - lie down

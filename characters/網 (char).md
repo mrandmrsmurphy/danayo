@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wǎng
-cantonese:
-  - mong5
-korean:
-  - 망
+mandarin: "wǎng"
+cantonese: "mong5"
+korean: "망"
 korean_native: 그물
 japanese:
   - MOU

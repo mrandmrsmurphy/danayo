@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - piē
-cantonese:
-  - pit3
-korean:
-  - 별
+mandarin: "piē"
+cantonese: "pit3"
+korean: "별"
 korean_native: 칠
 japanese:
   - HETSU
@@ -17,7 +14,7 @@ middle_chinese_final: iᴇt
 stroke_count: 15
 radical: 手
 skip_number: 1-3-12
-grade_level: 先進
+grade_level: "先進"
 pos: 事詞
 english:
   - throw away

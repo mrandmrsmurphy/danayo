@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chǔ
-cantonese:
-  - cyu2
-korean:
-  - 처
+mandarin: "chǔ"
+cantonese: "cyu2"
+korean: "처"
 korean_native: ""
 japanese:
   - SHO

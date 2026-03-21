@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - piān
-cantonese:
-  - pin1
-korean:
-  - 편
+mandarin: "piān"
+cantonese: "pin1"
+korean: "편"
 korean_native: ""
 japanese:
   - HEN
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇn
 stroke_count: 15
 radical: 竹
 skip_number: 2-6-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - article

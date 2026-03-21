@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhēn
-cantonese:
-  - zing1
-korean:
-  - 정
+mandarin: "zhēn"
+cantonese: "zing1"
+korean: "정"
 korean_native: ""
 japanese:
   - TEI

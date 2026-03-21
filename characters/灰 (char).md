@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huī
-cantonese:
-  - fui1
-korean:
-  - 회
+mandarin: "huī"
+cantonese: "fui1"
+korean: "회"
 korean_native: ""
 japanese:
   - KAI
@@ -15,7 +12,7 @@ middle_chinese_final: uʌi
 stroke_count: 6
 radical: 火
 skip_number: 3-2-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - ashes

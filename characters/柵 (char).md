@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shān
-cantonese:
-  - caak3
-korean:
-  - 책
+mandarin: "shān"
+cantonese: "caak3"
+korean: "책"
 korean_native: ""
 japanese:
   - SAKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣɛk
 stroke_count: 9
 radical: 木
 skip_number: 1-4-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - fence

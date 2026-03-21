@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiū
-cantonese:
-  - jau1
-korean:
-  - 구
+mandarin: "qiū"
+cantonese: "jau1"
+korean: "구"
 korean_native: ""
 japanese:
   - KYUU

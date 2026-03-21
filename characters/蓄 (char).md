@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xù
-cantonese:
-  - cuk1
-korean:
-  - 축
+mandarin: "xù"
+cantonese: "cuk1"
+korean: "축"
 korean_native: ""
 japanese:
   - CHIKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨuk
 stroke_count: 13
 radical: 艸
 skip_number: 2-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - store

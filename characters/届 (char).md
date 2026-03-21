@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiè
-cantonese:
-  - gaai3
-korean:
-  - 계
+mandarin: "jiè"
+cantonese: "gaai3"
+korean: "계"
 korean_native: 이를
 japanese:
   - KAI

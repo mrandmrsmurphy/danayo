@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sǔn
-cantonese:
-  - zeon2
-korean:
-  - 준
+mandarin: "sǔn"
+cantonese: "zeon2"
+korean: "준"
 korean_native: ""
 japanese:
   - JUN
@@ -16,7 +13,7 @@ middle_chinese_final: iuɪn
 stroke_count: 10
 radical: 隹
 skip_number: 2-8-2
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - peregrine falcon

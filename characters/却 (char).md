@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - què
-cantonese:
-  - koek3
-korean:
-  - 각
+mandarin: "què"
+cantonese: "koek3"
+korean: "각"
 korean_native: "물리칠"
 japanese:
   - KYAKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐk
 stroke_count: 7
 radical: 卩
 skip_number: 1-5-2
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - but

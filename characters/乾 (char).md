@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qián gān
-cantonese:
-  - kin4
-korean:
-  - 건
+mandarin: "qián gān"
+cantonese: "kin4"
+korean: "건"
 korean_native: 하늘
 japanese:
   - KAN

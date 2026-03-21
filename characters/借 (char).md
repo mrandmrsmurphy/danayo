@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiè
-cantonese:
-  - ze3
-korean:
-  - 차
+mandarin: "jiè"
+cantonese: "ze3"
+korean: "차"
 korean_native: ""
 japanese:
   - SHAKU

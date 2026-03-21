@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tǒng
-cantonese:
-  - tung2
-korean:
-  - 통
+mandarin: "tǒng"
+cantonese: "tung2"
+korean: "통"
 korean_native: ""
 japanese:
   - TOU
@@ -16,7 +13,7 @@ middle_chinese_final: uŋ
 stroke_count: 11
 radical: 木
 skip_number: 1-4-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - pail

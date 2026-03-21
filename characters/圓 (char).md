@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yuán
-cantonese:
-  - jyun4
-korean:
-  - 원
+mandarin: "yuán"
+cantonese: "jyun4"
+korean: "원"
 korean_native: 둥글
 japanese:
   - EN

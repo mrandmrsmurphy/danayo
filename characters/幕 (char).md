@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mù
-cantonese:
-  - mok6
-korean:
-  - 막
+mandarin: "mù"
+cantonese: "mok6"
+korean: "막"
 korean_native: ""
 japanese:
   - MAKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɑk
 stroke_count: 13
 radical: 巾
 skip_number: 2-3-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - curtain

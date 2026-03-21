@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - biē
-cantonese:
-  - bit3
-korean:
-  - 별
+mandarin: "biē"
+cantonese: "bit3"
+korean: "별"
 korean_native: ""
 japanese:
   - BETSU
@@ -16,7 +13,7 @@ middle_chinese_final: et
 stroke_count: 25
 radical: 黽
 skip_number: 2-12-13
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - Pelodiscus sinensis (turtle)

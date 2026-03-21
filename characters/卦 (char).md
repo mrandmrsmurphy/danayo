@@ -1,7 +1,7 @@
 ---
-mandarin: guà
-cantonese: gwaa3
-korean: 괘
+mandarin: "guà"
+cantonese: "gwaa3"
+korean: "괘"
 danayo_id: 7530
 stroke_count: 8
 skip_number: 1-6-2
@@ -20,7 +20,7 @@ hanmun_edu_level: 名
 mc_id: 1567
 graphemic_classification: 圭
 stand_in: 卦
-grade_level: 先進
+grade_level: "先進"
 注音: ㄍˇㄚ˙
 joyo_level: 表外字
 hsk_level:

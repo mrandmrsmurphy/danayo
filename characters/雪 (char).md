@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xuě
-cantonese:
-  - syut3
-korean:
-  - 설
+mandarin: "xuě"
+cantonese: "syut3"
+korean: "설"
 korean_native: 눈
 japanese:
   - SETSU

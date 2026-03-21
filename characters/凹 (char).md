@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - āo
-cantonese:
-  - aau3
-korean:
-  - 요
+mandarin: "āo"
+cantonese: "aau3"
+korean: "요"
 korean_native: ""
 japanese:
   - OU
@@ -15,7 +12,7 @@ middle_chinese_final: au
 stroke_count: "5"
 radical: 凵
 skip_number: 4-5-1
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - concave

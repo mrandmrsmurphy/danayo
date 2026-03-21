@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yì
-cantonese:
-  - ngai6
-korean:
-  - 예
+mandarin: "yì"
+cantonese: "ngai6"
+korean: "예"
 korean_native: ""
 japanese:
   - KEI
@@ -16,7 +13,7 @@ middle_chinese_final: ei
 stroke_count: 13
 radical: 言
 skip_number: 1-7-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - visit

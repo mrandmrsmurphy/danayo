@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiǎn
-cantonese:
-  - gaan2
-korean:
-  - 첨
+mandarin: "jiǎn"
+cantonese: "gaan2"
+korean: "첨"
 korean_native: 소금기
 japanese:
   - KEN
@@ -17,7 +14,7 @@ middle_chinese_final: iᴇm
 stroke_count: 19
 radical: 鹵
 skip_number: 1-11-8
-grade_level: 先進
+grade_level: "先進"
 pos: 性詞
 english:
   - base

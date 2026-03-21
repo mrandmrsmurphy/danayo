@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bèi
-cantonese:
-  - pui5
-korean:
-  - 배
+mandarin: "bèi"
+cantonese: "pui5"
+korean: "배"
 korean_native: ""
 japanese:
   - BAI

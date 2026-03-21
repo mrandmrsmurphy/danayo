@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - líng
-cantonese:
-  - ling4
-korean:
-  - 령
+mandarin: "líng"
+cantonese: "ling4"
+korean: "령"
 korean_native: 떨어질
 japanese:
   - REI

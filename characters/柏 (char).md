@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bǎi bó
-cantonese:
-  - paak3
-korean:
-  - 백
+mandarin: "bǎi bó"
+cantonese: "paak3"
+korean: "백"
 korean_native: ""
 japanese:
   - HAKU

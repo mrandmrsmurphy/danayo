@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bāo
-cantonese:
-  - bou1
-korean:
-  - 포
+mandarin: "bāo"
+cantonese: "bou1"
+korean: "포"
 korean_native: ""
 japanese:
   - HOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɑu
 stroke_count: 15
 radical: 衣
 skip_number: 2-2-13
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - praise

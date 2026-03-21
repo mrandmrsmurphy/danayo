@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dǐ
-cantonese:
-  - dai2
-korean:
-  - 저
+mandarin: "dǐ"
+cantonese: "dai2"
+korean: "저"
 korean_native: ""
 japanese:
   - TEI

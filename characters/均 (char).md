@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jūn
-cantonese:
-  - gwan1
-korean:
-  - 균
+mandarin: "jūn"
+cantonese: "gwan1"
+korean: "균"
 korean_native: ""
 japanese:
   - KIN

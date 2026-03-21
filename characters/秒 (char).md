@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - miǎo
-cantonese:
-  - miu5
-korean:
-  - 초
+mandarin: "miǎo"
+cantonese: "miu5"
+korean: "초"
 korean_native: ""
 japanese:
   - BYOU
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇu
 stroke_count: 9
 radical: 禾
 skip_number: 1-5-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - second (time)

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guān
-cantonese:
-  - gwaan1
-korean:
-  - 관
+mandarin: "guān"
+cantonese: "gwaan1"
+korean: "관"
 korean_native: 빗장
 japanese:
   - KAN

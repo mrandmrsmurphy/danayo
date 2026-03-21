@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lín
-cantonese:
-  - leon4
-korean:
-  - 린
+mandarin: "lín"
+cantonese: "leon4"
+korean: "린"
 korean_native: ""
 japanese:
   - RIN
@@ -15,7 +12,7 @@ middle_chinese_final: iɪn
 stroke_count: 23
 radical: 魚
 skip_number: 1-11-12
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - scale (fish)

@@ -1,7 +1,7 @@
 ---
-mandarin: shòu
-cantonese: sau3
-korean: 수
+mandarin: "shòu"
+cantonese: "sau3"
+korean: "수"
 korean_native: ""
 japanese: SOU
 japanese_nanori: や-せる
@@ -11,7 +11,7 @@ middle_chinese_final: ɨu
 stroke_count: 12
 radical: 疒
 skip_number: 3-5-7
-grade_level: 先進
+grade_level: "先進"
 pos: 性詞
 english: thin
 羅馬字: syu

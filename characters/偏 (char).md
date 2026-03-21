@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - piān
-cantonese:
-  - pin1
-korean:
-  - 편
+mandarin: "piān"
+cantonese: "pin1"
+korean: "편"
 korean_native: ""
 japanese:
   - HEN

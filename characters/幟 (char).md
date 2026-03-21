@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - ci3
-korean:
-  - 치
+mandarin: "zhì"
+cantonese: "ci3"
+korean: "치"
 korean_native: ""
 japanese:
   - SHI
@@ -15,7 +12,7 @@ middle_chinese_final: ɨ
 stroke_count: 15
 radical: 巾
 skip_number: 1-3-12
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - pennant

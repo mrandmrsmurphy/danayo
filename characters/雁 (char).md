@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yàn
-cantonese:
-  - ngaan6
-korean:
-  - 안
+mandarin: "yàn"
+cantonese: "ngaan6"
+korean: "안"
 korean_native: ""
 japanese:
   - GAN
@@ -15,7 +12,7 @@ middle_chinese_final: ɣan
 stroke_count: 12
 radical: 隹
 skip_number: 3-2-10
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - wild goose

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tū
-cantonese:
-  - dat6
-korean:
-  - 철
+mandarin: "tū"
+cantonese: "dat6"
+korean: "철"
 korean_native: ""
 japanese:
   - TOTSU
@@ -15,7 +12,7 @@ middle_chinese_final: uət
 stroke_count: "5"
 radical: 凵
 skip_number: 4-5-1
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - convex

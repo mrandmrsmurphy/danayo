@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dìng
-cantonese:
-  - ding3
-korean:
-  - 정
+mandarin: "dìng"
+cantonese: "ding3"
+korean: "정"
 korean_native: ""
 japanese:
   - JOU
@@ -16,7 +13,7 @@ middle_chinese_final: eŋ
 stroke_count: 16
 radical: 金
 skip_number: 1-8-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - lock

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - liǎng
-cantonese:
-  - loeng2
-korean:
-  - 량
+mandarin: "liǎng"
+cantonese: "loeng2"
+korean: "량"
 korean_native: 두
 japanese:
   - RYOU

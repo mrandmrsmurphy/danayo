@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tóng
-cantonese:
-  - tung4
-korean:
-  - 동
+mandarin: "tóng"
+cantonese: "tung4"
+korean: "동"
 korean_native: ""
 japanese:
   - DOU

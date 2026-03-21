@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shǐ
-cantonese:
-  - ci2
-korean:
-  - 시
+mandarin: "shǐ"
+cantonese: "ci2"
+korean: "시"
 korean_native: ""
 japanese:
   - SHI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiɪ
 stroke_count: 5
 radical: 矢
 skip_number: 2-2-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - arrow

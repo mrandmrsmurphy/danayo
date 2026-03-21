@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuò
-cantonese:
-  - kut3
-korean:
-  - 괄
+mandarin: "kuò"
+cantonese: "kut3"
+korean: "괄"
 korean_native: ""
 japanese:
   - KATSU
@@ -15,7 +12,7 @@ middle_chinese_final: uɑt
 stroke_count: 12
 radical: 竹
 skip_number: 2-6-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - nock

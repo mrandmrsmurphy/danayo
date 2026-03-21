@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - è
-cantonese:
-  - aak1
-korean:
-  - 액
+mandarin: "è"
+cantonese: "aak1"
+korean: "액"
 korean_native: 멍에
 japanese:
   - AKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣɛk
 stroke_count: 11
 radical: 車
 skip_number: 1-7-4
-grade_level: 先進
+grade_level: "先進"
 pos: 名詞
 english:
   - yoke

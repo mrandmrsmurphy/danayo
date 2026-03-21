@@ -1,7 +1,7 @@
 ---
-mandarin: bèi
-cantonese: bui3
-korean: 배
+mandarin: "bèi"
+cantonese: "bui3"
+korean: "배"
 korean_native: 무리
 japanese: HAI, HE
 japanese_nanori: ともがら

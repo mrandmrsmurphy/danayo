@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yín
-cantonese:
-  - ngan4
-korean:
-  - 은
+mandarin: "yín"
+cantonese: "ngan4"
+korean: "은"
 korean_native: 은
 japanese:
   - GIN

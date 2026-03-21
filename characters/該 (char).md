@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gāi
-cantonese:
-  - goi1
-korean:
-  - 해
+mandarin: "gāi"
+cantonese: "goi1"
+korean: "해"
 korean_native: ""
 japanese:
   - GAI
@@ -16,7 +13,7 @@ middle_chinese_final: ʌi
 stroke_count: 13
 radical: 言
 skip_number: 1-7-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - should

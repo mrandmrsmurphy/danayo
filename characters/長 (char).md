@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhǎng
-cantonese:
-  - coeng4
-korean:
-  - 장
+mandarin: "zhǎng"
+cantonese: "coeng4"
+korean: "장"
 korean_native: 길
 japanese:
   - CHOU

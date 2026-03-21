@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yún
-cantonese:
-  - wan4
-korean:
-  - 운
+mandarin: "yún"
+cantonese: "wan4"
+korean: "운"
 korean_native: 구름
 japanese:
   - UN

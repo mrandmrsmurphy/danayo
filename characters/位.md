@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wèi
-cantonese:
-  - wai6
-korean:
-  - 위
+mandarin: "wèi"
+cantonese: "wai6"
+korean: "위"
 korean_native: ""
 japanese:
   - I

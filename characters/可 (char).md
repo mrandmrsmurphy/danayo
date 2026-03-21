@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - kě
-cantonese: ho2
-korean:
-  - 가
+mandarin: "kě"
+cantonese: "ho2"
+korean: "가"
 korean_native: 옳을
 japanese:
   - KA

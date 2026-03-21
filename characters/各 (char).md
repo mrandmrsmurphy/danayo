@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gè
-cantonese:
-  - gok3
-korean:
-  - 각
+mandarin: "gè"
+cantonese: "gok3"
+korean: "각"
 korean_native: ""
 japanese:
   - KAKU

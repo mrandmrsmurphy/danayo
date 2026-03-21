@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cán
-cantonese:
-  - caam4
-korean:
-  - 천
+mandarin: "cán"
+cantonese: "caam4"
+korean: "천"
 korean_native: ""
 japanese:
   - SAN

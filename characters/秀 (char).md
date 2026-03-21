@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiù
-cantonese:
-  - sau3
-korean:
-  - 수
+mandarin: "xiù"
+cantonese: "sau3"
+korean: "수"
 korean_native: ""
 japanese:
   - SHUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨu
 stroke_count: 7
 radical: 禾
 skip_number: 2-5-2
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - bear fruit

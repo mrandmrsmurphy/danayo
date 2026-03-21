@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dá
-cantonese:
-  - daat6
-korean:
-  - 달
+mandarin: "dá"
+cantonese: "daat6"
+korean: "달"
 korean_native: ""
 japanese:
   - TATSU

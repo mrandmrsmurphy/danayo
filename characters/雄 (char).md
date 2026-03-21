@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xióng
-cantonese:
-  - hung4
-korean:
-  - 웅
+mandarin: "xióng"
+cantonese: "hung4"
+korean: "웅"
 korean_native: ""
 japanese:
   - YUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨuŋ
 stroke_count: 12
 radical: 隹
 skip_number: 1-4-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - manly

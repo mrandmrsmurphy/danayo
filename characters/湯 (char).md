@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tāng
-cantonese:
-  - tong1
-korean:
-  - 탕
+mandarin: "tāng"
+cantonese: "tong1"
+korean: "탕"
 korean_native: ""
 japanese:
   - TOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɑŋ
 stroke_count: "12"
 radical: 水
 skip_number: 1-3-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - hot water

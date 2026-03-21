@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - luǒ
-cantonese:
-  - lo2
-korean:
-  - 라
+mandarin: "luǒ"
+cantonese: "lo2"
+korean: "라"
 korean_native: 벌거숭이, 벌거벗다
 japanese:
   - RA

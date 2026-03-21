@@ -1,7 +1,7 @@
 ---
-mandarin: tán
-cantonese: taam4
-korean: 담
+mandarin: "tán"
+cantonese: "taam4"
+korean: "담"
 korean_native: 날이 흐리다
 japanese: DON
 japanese_nanori: くも-る

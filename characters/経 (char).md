@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jīng
-cantonese:
-  - ging1
-korean:
-  - 경
+mandarin: "jīng"
+cantonese: "ging1"
+korean: "경"
 korean_native: 경서 경
 japanese:
   - KEI

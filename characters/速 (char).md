@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sù
-cantonese:
-  - cuk1
-korean:
-  - 속
+mandarin: "sù"
+cantonese: "cuk1"
+korean: "속"
 korean_native: ""
 japanese:
   - SOKU
@@ -15,7 +12,7 @@ middle_chinese_final: uk
 stroke_count: 11
 radical: 辵
 skip_number: 3-4-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - quick

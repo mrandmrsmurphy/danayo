@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qī
-cantonese:
-  - cat1
-korean:
-  - 칠
+mandarin: "qī"
+cantonese: "cat1"
+korean: "칠"
 korean_native: ""
 japanese:
   - SHITSU

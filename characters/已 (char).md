@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǐ
-cantonese:
-  - ji5
-korean:
-  - 이
+mandarin: "yǐ"
+cantonese: "ji5"
+korean: "이"
 korean_native: 이미
 japanese:
   - I

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - míng
-cantonese:
-  - ming4
-korean:
-  - 명
+mandarin: "míng"
+cantonese: "ming4"
+korean: "명"
 korean_native: ""
 japanese:
   - MEI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chán
-cantonese:
-  - sim4
-korean:
-  - 선
+mandarin: "chán"
+cantonese: "sim4"
+korean: "선"
 korean_native: 봉선
 japanese:
   - ZEN

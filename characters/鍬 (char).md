@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiāo
-cantonese:
-  - ciu1
-korean:
-  - 초
+mandarin: "qiāo"
+cantonese: "ciu1"
+korean: "초"
 korean_native: ""
 japanese:
   - SHUU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣau
 stroke_count: 17
 radical: 金
 skip_number: 1-8-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - shovel

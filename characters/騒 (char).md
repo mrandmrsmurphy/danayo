@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sāo
-cantonese:
-  - sou1
-korean:
-  - 소
+mandarin: "sāo"
+cantonese: "sou1"
+korean: "소"
 korean_native: 떠들
 japanese:
   - SOU

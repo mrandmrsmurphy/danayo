@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lóng
-cantonese:
-  - lung4
-korean:
-  - 룡
+mandarin: "lóng"
+cantonese: "lung4"
+korean: "룡"
 korean_native: 룡
 japanese:
   - RYUU

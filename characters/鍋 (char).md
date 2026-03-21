@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guō
-cantonese:
-  - wo1
-korean:
-  - 과
+mandarin: "guō"
+cantonese: "wo1"
+korean: "과"
 korean_native: ""
 japanese:
   - KA

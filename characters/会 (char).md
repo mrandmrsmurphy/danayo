@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huì
-cantonese:
-  - wui6
-korean:
-  - 회
+mandarin: "huì"
+cantonese: "wui6"
+korean: "회"
 korean_native: ""
 japanese:
   - KAI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xūn
-cantonese:
-  - fan1
-korean:
-  - 훈
+mandarin: "xūn"
+cantonese: "fan1"
+korean: "훈"
 korean_native: ""
 japanese:
   - KUN
@@ -15,7 +12,7 @@ middle_chinese_final: ɨun
 stroke_count: 15
 radical: 力
 skip_number: 2-11-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - meritorious deed

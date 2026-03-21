@@ -1,7 +1,7 @@
 ---
-mandarin: xì
-cantonese: jik1
-korean: 혁
+mandarin: "xì"
+cantonese: "jik1"
+korean: "혁"
 korean_native: 다툴
 japanese: けき
 japanese_nanori: せめぐ
@@ -11,7 +11,7 @@ middle_chinese_final: ek
 stroke_count: 16
 radical: 門
 skip_number: 3-8-8
-grade_level: 名
+grade_level: "名"
 pos: 事詞
 english: quarrel
 羅馬字: heg

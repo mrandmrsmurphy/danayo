@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sòng
-cantonese:
-  - sung3
-korean:
-  - 송
+mandarin: "sòng"
+cantonese: "sung3"
+korean: "송"
 korean_native: ""
 japanese:
   - SOU
@@ -15,7 +12,7 @@ middle_chinese_final: uŋ
 stroke_count: "9"
 radical: 辵
 skip_number: 3-3-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - give

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kūn
-cantonese:
-  - kwan1
-korean:
-  - 곤
+mandarin: "kūn"
+cantonese: "kwan1"
+korean: "곤"
 korean_native: ""
 japanese:
   - KON

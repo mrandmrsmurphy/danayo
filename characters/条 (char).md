@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tiáo
-cantonese:
-  - tiu4
-korean:
-  - 조
+mandarin: "tiáo"
+cantonese: "tiu4"
+korean: "조"
 korean_native: 가지
 japanese:
   - JOU

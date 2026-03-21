@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dīng
-cantonese:
-  - ding1
-korean:
-  - 정
+mandarin: "dīng"
+cantonese: "ding1"
+korean: "정"
 korean_native: ""
 japanese:
   - TEI
@@ -16,7 +13,7 @@ middle_chinese_final: eŋ
 stroke_count: 10
 radical: 金
 skip_number: 1-8-2
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - nail

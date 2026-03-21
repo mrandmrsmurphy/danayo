@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jué
-cantonese:
-  - kyut3
-korean:
-  - 결
+mandarin: "jué"
+cantonese: "kyut3"
+korean: "결"
 korean_native: ""
 japanese:
   - KETSU

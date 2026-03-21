@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - běn
-cantonese:
-  - bun2
-korean:
-  - 본
+mandarin: "běn"
+cantonese: "bun2"
+korean: "본"
 korean_native: ""
 japanese:
   - HON

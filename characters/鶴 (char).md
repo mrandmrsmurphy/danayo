@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hè
-cantonese:
-  - hok6
-korean:
-  - 학
+mandarin: "hè"
+cantonese: "hok6"
+korean: "학"
 korean_native: ""
 japanese:
   - KAKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɑk
 stroke_count: 21
 radical: 鳥
 skip_number: 1-10-11
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - crane

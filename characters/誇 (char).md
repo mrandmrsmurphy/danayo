@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuā
-cantonese:
-  - kwaa1
-korean:
-  - 과
+mandarin: "kuā"
+cantonese: "kwaa1"
+korean: "과"
 korean_native: 자랑할
 japanese:
   - KO

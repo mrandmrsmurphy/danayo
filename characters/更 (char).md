@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gèng
-cantonese:
-  - gang1
-korean:
-  - 갱
+mandarin: "gèng"
+cantonese: "gang1"
+korean: "갱"
 korean_native: 다시
 japanese:
   - KOU

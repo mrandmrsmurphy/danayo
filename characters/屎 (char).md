@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shǐ
-cantonese:
-  - si2
-korean:
-  - 시
+mandarin: "shǐ"
+cantonese: "si2"
+korean: "시"
 korean_native: ""
 japanese:
   - SHI
@@ -18,7 +15,7 @@ middle_chinese_final: ɣiɪ
 stroke_count: 9
 radical: 尸
 skip_number: 3-3-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - excrement

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dà
-cantonese:
-  - daai6
-korean:
-  - 대
+mandarin: "dà"
+cantonese: "daai6"
+korean: "대"
 korean_native: ""
 japanese:
   - TAI

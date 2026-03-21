@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dōu
-cantonese:
-  - dau1
-korean:
-  - 두
+mandarin: "dōu"
+cantonese: "dau1"
+korean: "두"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: əu
 stroke_count: 11
 radical: 儿
 skip_number: 2-9-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - helmet

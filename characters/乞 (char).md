@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qǐ
-cantonese:
-  - hat1
-korean:
-  - 걸
+mandarin: "qǐ"
+cantonese: "hat1"
+korean: "걸"
 korean_native: 빌
 japanese:
   - KOTSU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhōu
-cantonese:
-  - zuk1
-korean:
-  - 죽
+mandarin: "zhōu"
+cantonese: "zuk1"
+korean: "죽"
 korean_native: ""
 japanese:
   - SHUKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨuk
 stroke_count: "12"
 radical: 米
 skip_number: 1-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - congee

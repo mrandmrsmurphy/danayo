@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dá
-cantonese:
-  - daap3
-korean:
-  - 답
+mandarin: "dá"
+cantonese: "daap3"
+korean: "답"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: ʌp
 stroke_count: 12
 radical: 竹
 skip_number: 2-6-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - answer

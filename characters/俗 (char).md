@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sú
-cantonese:
-  - zuk6
-korean:
-  - 속
+mandarin: "sú"
+cantonese: "zuk6"
+korean: "속"
 korean_native: ""
 japanese:
   - ZOKU

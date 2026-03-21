@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tān
-cantonese:
-  - taam1
-korean:
-  - 탐
+mandarin: "tān"
+cantonese: "taam1"
+korean: "탐"
 korean_native: ""
 japanese:
   - DON

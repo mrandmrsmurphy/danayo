@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - zat6
-korean:
-  - 질
+mandarin: "zhì"
+cantonese: "zat6"
+korean: "질"
 korean_native: 보지
 japanese:
   - CHITSU
@@ -17,7 +14,7 @@ middle_chinese_final: ɣiɪt
 stroke_count: 15
 radical: 肉
 skip_number: 1-4-11
-grade_level: 先進
+grade_level: "先進"
 pos: 名詞
 english:
   - pussy

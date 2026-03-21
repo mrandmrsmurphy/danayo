@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhēn
-cantonese:
-  - zam1
-korean:
-  - 침
+mandarin: "zhēn"
+cantonese: "zam1"
+korean: "침"
 korean_native: ""
 japanese:
   - SHIN

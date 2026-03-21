@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yī
-cantonese:
-  - jat1
-korean:
-  - 일
+mandarin: "yī"
+cantonese: "jat1"
+korean: "일"
 korean_native: 한
 japanese:
   - ICHI
@@ -16,7 +13,7 @@ middle_chinese_final: iɪt
 stroke_count: 7
 radical: 士
 skip_number: 2-3-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - loyal

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - láng
-cantonese:
-  - long4
-korean:
-  - 랑
+mandarin: "láng"
+cantonese: "long4"
+korean: "랑"
 korean_native: 이리
 japanese:
   - ROU
@@ -15,7 +12,7 @@ middle_chinese_final: ɑŋ
 stroke_count: 10
 radical: 犬
 skip_number: 1-3-7
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - wolf

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shé
-cantonese:
-  - se4
-korean:
-  - 사
+mandarin: "shé"
+cantonese: "se4"
+korean: "사"
 korean_native: ""
 japanese:
   - JA

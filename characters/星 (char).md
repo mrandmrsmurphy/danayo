@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xīng
-cantonese:
-  - sing1
-korean:
-  - 성
+mandarin: "xīng"
+cantonese: "sing1"
+korean: "성"
 korean_native: 별
 japanese:
   - SEI

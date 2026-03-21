@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jí
-cantonese:
-  - zik1
-korean:
-  - 즉
+mandarin: "jí"
+cantonese: "zik1"
+korean: "즉"
 korean_native: ""
 japanese:
   - SOKU

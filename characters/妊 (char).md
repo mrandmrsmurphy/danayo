@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rèn
-cantonese:
-  - jam4
-korean:
-  - 임
+mandarin: "rèn"
+cantonese: "jam4"
+korean: "임"
 korean_native: ""
 japanese:
   - NIN
@@ -16,7 +13,7 @@ middle_chinese_final: iɪm
 stroke_count: "7"
 radical: 女
 skip_number: 1-3-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - be pregnant

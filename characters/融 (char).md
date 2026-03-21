@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - róng
-cantonese:
-  - jung4
-korean:
-  - 융
+mandarin: "róng"
+cantonese: "jung4"
+korean: "융"
 korean_native: ""
 japanese:
   - YUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨuŋ
 stroke_count: 16
 radical: 虫
 skip_number: 1-10-6
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - melt

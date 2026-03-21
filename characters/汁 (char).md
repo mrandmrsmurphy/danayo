@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhī
-cantonese:
-  - zap1
-korean:
-  - 즙
+mandarin: "zhī"
+cantonese: "zap1"
+korean: "즙"
 korean_native: ""
 japanese:
   - JUU
@@ -15,7 +12,7 @@ middle_chinese_final: iɪp
 stroke_count: "5"
 radical: 水
 skip_number: 1-3-2
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - soup

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - àn
-cantonese:
-  - am3
-korean:
-  - 암
+mandarin: "àn"
+cantonese: "am3"
+korean: "암"
 korean_native: ""
 japanese:
   - AN

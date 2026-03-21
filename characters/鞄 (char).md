@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - páo
-cantonese:
-  - pok3
-korean:
-  - 포
+mandarin: "páo"
+cantonese: "pok3"
+korean: "포"
 korean_native: ""
 japanese:
   - HOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣʌk
 stroke_count: 14
 radical: 革
 skip_number: 1-9-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bag

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fān
-cantonese:
-  - faan1
-korean:
-  - 번
+mandarin: "fān"
+cantonese: "faan1"
+korean: "번"
 korean_native: ""
 japanese:
   - BAN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yán
-cantonese:
-  - jim4
-korean:
-  - 엄
+mandarin: "yán"
+cantonese: "jim4"
+korean: "엄"
 korean_native: 엄할
 japanese:
   - GEN

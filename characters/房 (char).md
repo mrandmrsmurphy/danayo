@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fáng
-cantonese:
-  - fong4
-korean:
-  - 방
+mandarin: "fáng"
+cantonese: "fong4"
+korean: "방"
 korean_native: ""
 japanese:
   - BOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɑŋ
 stroke_count: "8"
 radical: 戶
 skip_number: 2-1-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - room

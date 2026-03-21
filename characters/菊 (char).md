@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jú
-cantonese:
-  - guk1
-korean:
-  - 국
+mandarin: "jú"
+cantonese: "guk1"
+korean: "국"
 korean_native: ""
 japanese:
   - KIKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨuk
 stroke_count: 11
 radical: 艸
 skip_number: 2-3-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - chrysanthemum

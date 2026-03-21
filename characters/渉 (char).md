@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shè
-cantonese:
-  - sip3
-korean:
-  - 섭
+mandarin: "shè"
+cantonese: "sip3"
+korean: "섭"
 korean_native: 건널
 japanese:
   - SHOU

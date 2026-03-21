@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dūn
-cantonese:
-  - deon1
-korean:
-  - 톤
+mandarin: "dūn"
+cantonese: "deon1"
+korean: "톤"
 korean_native: ""
 japanese:
   - TON
@@ -15,7 +12,7 @@ middle_chinese_final: uən
 stroke_count: 16
 radical: 口
 skip_number: 1-3-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - ton

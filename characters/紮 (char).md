@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zā
-cantonese:
-  - zaat3
-korean:
-  - 찰
+mandarin: "zā"
+cantonese: "zaat3"
+korean: "찰"
 korean_native: ""
 japanese:
   - SATSU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣɛt
 stroke_count: 11
 radical: 糸
 skip_number: 2-5-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - tie

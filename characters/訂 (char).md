@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dìng
-cantonese:
-  - ding3
-korean:
-  - 정
+mandarin: "dìng"
+cantonese: "ding3"
+korean: "정"
 korean_native: ""
 japanese:
   - TEI

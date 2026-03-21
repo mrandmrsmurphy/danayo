@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mèi
-cantonese:
-  - mai6
-korean:
-  - 몌
+mandarin: "mèi"
+cantonese: "mai6"
+korean: "몌"
 korean_native: ""
 japanese:
   - BEI
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇi
 stroke_count: 9
 radical: 衣
 skip_number: 1-5-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - sleeve

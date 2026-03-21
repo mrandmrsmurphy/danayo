@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xié
-cantonese:
-  - hip3
-korean:
-  - 협
+mandarin: "xié"
+cantonese: "hip3"
+korean: "협"
 korean_native: 낄
 japanese:
   - KYOU

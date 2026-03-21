@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cǎo
-cantonese:
-  - cou2
-korean:
-  - 초
+mandarin: "cǎo"
+cantonese: "cou2"
+korean: "초"
 korean_native: 풀
 japanese:
   - SOU

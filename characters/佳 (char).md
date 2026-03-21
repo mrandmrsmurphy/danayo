@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiā
-cantonese:
-  - gaai1
-korean:
-  - 가
+mandarin: "jiā"
+cantonese: "gaai1"
+korean: "가"
 korean_native: 아름다울
 japanese:
   - KA

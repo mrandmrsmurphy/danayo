@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rán
-cantonese:
-  - jin4
-korean:
-  - 연
+mandarin: "rán"
+cantonese: "jin4"
+korean: "연"
 korean_native: ""
 japanese:
   - ZEN

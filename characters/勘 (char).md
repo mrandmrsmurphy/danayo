@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kān
-cantonese:
-  - ham3
-korean:
-  - 감
+mandarin: "kān"
+cantonese: "ham3"
+korean: "감"
 korean_native: ""
 japanese:
   - KAN
@@ -15,7 +12,7 @@ middle_chinese_final: ʌm
 stroke_count: 11
 radical: 力
 skip_number: 1-9-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - investigate

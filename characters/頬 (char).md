@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiá
-cantonese:
-  - gaap3
-korean:
-  - 협
+mandarin: "jiá"
+cantonese: "gaap3"
+korean: "협"
 korean_native: 뺨
 japanese:
   - KYOU

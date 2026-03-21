@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dài
-cantonese:
-  - daai3
-korean:
-  - 대
+mandarin: "dài"
+cantonese: "daai3"
+korean: "대"
 korean_native: 띠
 japanese:
   - TAI

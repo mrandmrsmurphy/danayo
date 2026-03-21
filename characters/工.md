@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gōng
-cantonese:
-  - gung1
-korean:
-  - 공
+mandarin: "gōng"
+cantonese: "gung1"
+korean: "공"
 korean_native: ""
 japanese:
   - KOU

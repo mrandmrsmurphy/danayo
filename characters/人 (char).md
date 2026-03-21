@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - rén
-cantonese: fu1 jan4
-korean:
-  - 인
+mandarin: "rén"
+cantonese: "fu1 jan4"
+korean: "인"
 korean_native: 사람
 japanese:
   - JIN

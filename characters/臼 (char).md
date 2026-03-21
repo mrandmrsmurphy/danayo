@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiù
-cantonese:
-  - kau5
-korean:
-  - 구
+mandarin: "jiù"
+cantonese: "kau5"
+korean: "구"
 korean_native: ""
 japanese:
   - KYUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨu
 stroke_count: 6
 radical: 臼
 skip_number: 4-6-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - mortar

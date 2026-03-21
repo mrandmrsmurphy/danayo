@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xié
-cantonese:
-  - haai4
-korean:
-  - 혜
+mandarin: "xié"
+cantonese: "haai4"
+korean: "혜"
 korean_native: ""
 japanese:
   - AI

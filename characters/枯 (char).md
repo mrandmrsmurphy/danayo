@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kū
-cantonese:
-  - fu1
-korean:
-  - 고
+mandarin: "kū"
+cantonese: "fu1"
+korean: "고"
 korean_native: ""
 japanese:
   - KO
@@ -15,7 +12,7 @@ middle_chinese_final: uo
 stroke_count: 9
 radical: 木
 skip_number: 1-4-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - withered

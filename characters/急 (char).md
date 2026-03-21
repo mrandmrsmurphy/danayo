@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jí
-cantonese:
-  - gap1
-korean:
-  - 급
+mandarin: "jí"
+cantonese: "gap1"
+korean: "급"
 korean_native: 급할
 japanese:
   - KYUU

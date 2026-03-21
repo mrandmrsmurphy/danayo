@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nòng
-cantonese:
-  - lung6
-korean:
-  - 농
+mandarin: "nòng"
+cantonese: "lung6"
+korean: "농"
 korean_native: ""
 japanese:
   - ROU
@@ -15,7 +12,7 @@ middle_chinese_final: uŋ
 stroke_count: 7
 radical: 廾
 skip_number: 2-4-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - tamper with

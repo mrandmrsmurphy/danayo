@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guì
-cantonese:
-  - gwai6
-korean:
-  - 궤
+mandarin: "guì"
+cantonese: "gwai6"
+korean: "궤"
 korean_native: 꿇어앉을
 japanese:
   - KI
@@ -17,7 +14,7 @@ middle_chinese_final: ɣiuᴇ
 stroke_count: 13
 radical: 足
 skip_number: 1-7-6
-grade_level: 先進
+grade_level: "先進"
 pos: 性詞
 english:
   - kneel

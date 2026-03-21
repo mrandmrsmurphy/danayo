@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - zat6
-korean:
-  - 질
+mandarin: "zhì"
+cantonese: "zat6"
+korean: "질"
 korean_native: ""
 japanese:
   - SHITSU
@@ -16,7 +13,7 @@ middle_chinese_final: iɪt
 stroke_count: "12"
 radical: 虫
 skip_number: 1-6-6
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - leech

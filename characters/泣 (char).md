@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qì
-cantonese:
-  - jap1
-korean:
-  - 읍
+mandarin: "qì"
+cantonese: "jap1"
+korean: "읍"
 korean_native: ""
 japanese:
   - KYUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiɪp
 stroke_count: "8"
 radical: 水
 skip_number: 1-3-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - cry

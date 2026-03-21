@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xì
-cantonese:
-  - sai3
-korean:
-  - 세
+mandarin: "xì"
+cantonese: "sai3"
+korean: "세"
 korean_native: 가늘
 japanese:
   - SEI

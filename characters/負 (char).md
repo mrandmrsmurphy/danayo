@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fù
-cantonese:
-  - fu6
-korean:
-  - 부
+mandarin: "fù"
+cantonese: "fu6"
+korean: "부"
 korean_native: ""
 japanese:
   - FU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨu
 stroke_count: 9
 radical: 貝
 skip_number: 2-2-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - carry

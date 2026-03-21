@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - quán
-cantonese:
-  - cyun4
-korean:
-  - 전
+mandarin: "quán"
+cantonese: "cyun4"
+korean: "전"
 korean_native: 온전할
 japanese:
   - ZEN

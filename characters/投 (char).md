@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tóu
-cantonese:
-  - tau4
-korean:
-  - 투
+mandarin: "tóu"
+cantonese: "tau4"
+korean: "투"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: əu
 stroke_count: "7"
 radical: 手
 skip_number: 1-3-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - throw

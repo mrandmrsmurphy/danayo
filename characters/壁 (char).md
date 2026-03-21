@@ -1,7 +1,7 @@
 ---
-mandarin: bì
-cantonese: bek3, bik1, bik3
-korean: 벽
+mandarin: "bì"
+cantonese: "bek3, bik1, bik3"
+korean: "벽"
 korean_native: 벽
 japanese: HEKI
 japanese_nanori: かべ

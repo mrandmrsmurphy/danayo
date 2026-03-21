@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tuó
-cantonese:
-  - to4
-korean:
-  - 태
+mandarin: "tuó"
+cantonese: "to4"
+korean: "태"
 korean_native: ""
 japanese:
   - TA

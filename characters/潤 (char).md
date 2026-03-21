@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rùn
-cantonese:
-  - jeon6
-korean:
-  - 윤
+mandarin: "rùn"
+cantonese: "jeon6"
+korean: "윤"
 korean_native: ""
 japanese:
   - JUN
@@ -15,7 +12,7 @@ middle_chinese_final: iuɪn
 stroke_count: "15"
 radical: 水
 skip_number: 1-3-12
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - soft

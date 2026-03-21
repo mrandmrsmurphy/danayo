@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chí
-cantonese:
-  - ci4
-korean:
-  - 지
+mandarin: "chí"
+cantonese: "ci4"
+korean: "지"
 korean_native: 가질
 japanese:
   - JI

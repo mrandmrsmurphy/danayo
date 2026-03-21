@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bāng
-cantonese:
-  - bong1
-korean:
-  - 빈
+mandarin: "bāng"
+cantonese: "bong1"
+korean: "빈"
 korean_native: ""
 japanese:
   - HIN
@@ -15,7 +12,7 @@ middle_chinese_final: iɪn
 stroke_count: "10"
 radical: 水
 skip_number: 1-3-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - coast

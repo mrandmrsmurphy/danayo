@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zuì
-cantonese:
-  - zeoi3
-korean:
-  - 취
+mandarin: "zuì"
+cantonese: "zeoi3"
+korean: "취"
 korean_native: 취할
 japanese:
   - SUI

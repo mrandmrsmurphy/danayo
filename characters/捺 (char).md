@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nà
-cantonese:
-  - naat6
-korean:
-  - 날
+mandarin: "nà"
+cantonese: "naat6"
+korean: "날"
 korean_native: ""
 japanese:
   - NATSU
@@ -16,7 +13,7 @@ middle_chinese_final: ɑt
 stroke_count: 11
 radical: 手
 skip_number: 1-3-8
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - right down stroke

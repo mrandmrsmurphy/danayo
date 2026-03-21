@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - quān
-cantonese:
-  - hyun1
-korean:
-  - 권
+mandarin: "quān"
+cantonese: "hyun1"
+korean: "권"
 korean_native: 우리
 japanese:
   - KEN

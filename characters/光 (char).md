@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guāng
-cantonese:
-  - gwong1
-korean:
-  - 광
+mandarin: "guāng"
+cantonese: "gwong1"
+korean: "광"
 korean_native: ""
 japanese:
   - KOU

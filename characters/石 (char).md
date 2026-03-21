@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shí
-cantonese:
-  - sek6
-korean:
-  - 석
+mandarin: "shí"
+cantonese: "sek6"
+korean: "석"
 korean_native: 돌
 japanese:
   - SHAKU

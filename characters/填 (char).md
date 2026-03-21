@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tián
-cantonese:
-  - tin4
-korean:
-  - 전
+mandarin: "tián"
+cantonese: "tin4"
+korean: "전"
 korean_native: 메울
 japanese:
   - TEN

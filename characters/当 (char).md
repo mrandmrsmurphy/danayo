@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dāng
-cantonese:
-  - dong1
-korean:
-  - 당
+mandarin: "dāng"
+cantonese: "dong1"
+korean: "당"
 korean_native: 당할
 japanese:
   - TOU

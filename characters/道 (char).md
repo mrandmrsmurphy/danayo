@@ -1,12 +1,10 @@
 ---
-mandarin:
-  - dào
+mandarin: "dào"
 cantonese:
   - dou6
   - dou3
   - dou6-2
-korean:
-  - 도
+korean: "도"
 korean_native: 길
 japanese:
   - DOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fán
-cantonese:
-  - faan4
-korean:
-  - 번
+mandarin: "fán"
+cantonese: "faan4"
+korean: "번"
 korean_native: ""
 japanese:
   - HAN
@@ -16,7 +13,7 @@ middle_chinese_final: ʉɐn
 stroke_count: 13
 radical: 火
 skip_number: 1-4-9
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - toublesome

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kān
-cantonese:
-  - ham1
-korean:
-  - 감
+mandarin: "kān"
+cantonese: "ham1"
+korean: "감"
 korean_native: ""
 japanese:
   - KAN
@@ -16,7 +13,7 @@ middle_chinese_final: ʌm
 stroke_count: "12"
 radical: 土
 skip_number: 1-3-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - withstand

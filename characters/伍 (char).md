@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wǔ
-cantonese:
-  - ng5
-korean:
-  - 오
+mandarin: "wǔ"
+cantonese: "ng5"
+korean: "오"
 korean_native: ""
 japanese:
   - GO
@@ -15,7 +12,7 @@ middle_chinese_final: uo
 stroke_count: 6
 radical: 人
 skip_number: 1-2-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - troops

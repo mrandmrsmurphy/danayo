@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lí
-cantonese:
-  - lei4
-korean:
-  - 리
+mandarin: "lí"
+cantonese: "lei4"
+korean: "리"
 korean_native: ""
 japanese:
   - RI
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇ
 stroke_count: 15
 radical: 玉
 skip_number: 1-4-11
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - glass

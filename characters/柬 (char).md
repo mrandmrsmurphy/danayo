@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiǎn
-cantonese:
-  - gaan2
-korean:
-  - 간
+mandarin: "jiǎn"
+cantonese: "gaan2"
+korean: "간"
 korean_native: ""
 japanese:
   - KAN
@@ -16,7 +13,7 @@ middle_chinese_final: ɣɛn
 stroke_count: 9
 radical: 木
 skip_number: 4-9-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - letter

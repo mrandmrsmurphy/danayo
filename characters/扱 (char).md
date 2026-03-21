@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xī
-cantonese:
-  - kap1
-korean:
-  - 급
+mandarin: "xī"
+cantonese: "kap1"
+korean: "급"
 korean_native: ""
 japanese:
   - SOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣɛp
 stroke_count: "6"
 radical: 手
 skip_number: 1-3-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - handle

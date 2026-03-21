@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lí
-cantonese:
-  - lei4
-korean:
-  - 리
+mandarin: "lí"
+cantonese: "lei4"
+korean: "리"
 korean_native: ""
 japanese:
   - RI
@@ -16,7 +13,7 @@ middle_chinese_final: ɨ
 stroke_count: "10"
 radical: 犬
 skip_number: 1-3-7
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - tanuki

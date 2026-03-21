@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shī
-cantonese:
-  - sat1
-korean:
-  - 슬
+mandarin: "shī"
+cantonese: "sat1"
+korean: "슬"
 korean_native: 이
 japanese:
   - SHITSU
@@ -17,7 +14,7 @@ middle_chinese_final: ɪt
 stroke_count: 8
 radical: 虫
 skip_number: 3-1-7
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english:
   - louse (lice)

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dōng
-cantonese:
-  - dung1
-korean:
-  - 동
+mandarin: "dōng"
+cantonese: "dung1"
+korean: "동"
 korean_native: 겨울
 japanese:
   - TOU

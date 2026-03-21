@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhōng
-cantonese:
-  - zung1
-korean:
-  - 중
+mandarin: "zhōng"
+cantonese: "zung1"
+korean: "중"
 korean_native: ""
 japanese:
   - CHUU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiù
-cantonese:
-  - zau6
-korean:
-  - 취
+mandarin: "jiù"
+cantonese: "zau6"
+korean: "취"
 korean_native: ""
 japanese:
   - SHUU

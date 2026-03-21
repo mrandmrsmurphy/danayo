@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dǎo
-cantonese:
-  - dou2
-korean:
-  - 도
+mandarin: "dǎo"
+cantonese: "dou2"
+korean: "도"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɑu
 stroke_count: 10
 radical: 山
 skip_number: 3-7-3
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - island

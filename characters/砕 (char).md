@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - suì
-cantonese:
-  - seoi3
-korean:
-  - 쇄
+mandarin: "suì"
+cantonese: "seoi3"
+korean: "쇄"
 korean_native: 부술
 japanese:
   - SAI

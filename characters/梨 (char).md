@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lí
-cantonese:
-  - lei4
-korean:
-  - 리
+mandarin: "lí"
+cantonese: "lei4"
+korean: "리"
 korean_native: ""
 japanese:
   - RI
@@ -15,7 +12,7 @@ middle_chinese_final: iɪ
 stroke_count: 11
 radical: 木
 skip_number: 2-7-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - pear

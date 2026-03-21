@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jǔ
-cantonese:
-  - geoi2
-korean:
-  - 거
+mandarin: "jǔ"
+cantonese: "geoi2"
+korean: "거"
 korean_native: 들
 japanese:
   - KYO

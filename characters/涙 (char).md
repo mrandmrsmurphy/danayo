@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lèi
-cantonese:
-  - leoi6
-korean:
-  - 루
+mandarin: "lèi"
+cantonese: "leoi6"
+korean: "루"
 korean_native: 눈물
 japanese:
   - RUI

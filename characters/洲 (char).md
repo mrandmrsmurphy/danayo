@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhōu
-cantonese:
-  - zau1
-korean:
-  - 주
+mandarin: "zhōu"
+cantonese: "zau1"
+korean: "주"
 korean_native: ""
 japanese:
   - SHUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨu
 stroke_count: 9
 radical: 水
 skip_number: 1-3-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - islet

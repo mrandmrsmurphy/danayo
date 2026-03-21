@@ -1,7 +1,7 @@
 ---
-mandarin: yī
-cantonese: jat1
-korean: 일
+mandarin: "yī"
+cantonese: "jat1"
+korean: "일"
 korean_native: 한
 japanese: ICHI, ITSU
 japanese_nanori: をさむ

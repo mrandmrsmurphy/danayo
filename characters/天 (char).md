@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - tiān
-cantonese: tin1
-korean:
-  - 천
+mandarin: "tiān"
+cantonese: "tin1"
+korean: "천"
 korean_native: 하늘
 japanese:
   - TEN

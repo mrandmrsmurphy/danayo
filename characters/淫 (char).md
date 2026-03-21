@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yín
-cantonese:
-  - jam4
-korean:
-  - 음
+mandarin: "yín"
+cantonese: "jam4"
+korean: "음"
 korean_native: ""
 japanese:
   - IN
@@ -15,7 +12,7 @@ middle_chinese_final: iɪm
 stroke_count: "11"
 radical: 水
 skip_number: 1-3-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - lewd

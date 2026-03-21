@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tái
-cantonese:
-  - toi4
-korean:
-  - 대
+mandarin: "tái"
+cantonese: "toi4"
+korean: "대"
 korean_native: 대
 japanese:
   - DAI

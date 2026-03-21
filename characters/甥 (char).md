@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shēng
-cantonese:
-  - sang1
-korean:
-  - 생
+mandarin: "shēng"
+cantonese: "sang1"
+korean: "생"
 korean_native: ""
 japanese:
   - SEI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣæŋ
 stroke_count: 12
 radical: 生
 skip_number: 1-5-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - sister's child

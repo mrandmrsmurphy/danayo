@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pín
-cantonese:
-  - pan4
-korean:
-  - 빈
+mandarin: "pín"
+cantonese: "pan4"
+korean: "빈"
 korean_native: ""
 japanese:
   - HIN

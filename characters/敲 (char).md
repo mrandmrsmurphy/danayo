@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiāo
-cantonese:
-  - haau1
-korean:
-  - 고
+mandarin: "qiāo"
+cantonese: "haau1"
+korean: "고"
 korean_native: ""
 japanese:
   - KOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣau
 stroke_count: 14
 radical: 攴
 skip_number: 2-10-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - knock

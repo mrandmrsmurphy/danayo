@@ -8,16 +8,17 @@ views:
     name: Table
     order:
       - file.name
-      - hsk_level
-      - joyo_level
-      - hanmun_edu_level
       - formula.score
-      - grade_level
       - danayo_id
-      - middle_chinese_initial
-      - middle_chinese_final
-      - 羅馬字
+      - korean
+      - hanmun_edu_level
+      - mandarin
+      - cantonese
     sort:
+      - property: korean
+        direction: ASC
+      - property: grade_level
+        direction: ASC
       - property: middle_chinese_final
         direction: ASC
       - property: middle_chinese_initial
@@ -32,10 +33,6 @@ views:
         direction: DESC
       - property: graphemic_classification
         direction: ASC
-      - property: grade_level
-        direction: DESC
-      - property: korean
-        direction: DESC
       - property: hanmun_edu_level
         direction: ASC
       - property: 韓文
@@ -72,6 +69,6 @@ views:
       file.name: 64
       note.hanmun_edu_level: 131
       formula.score: 112
-      note.grade_level: 47
+      note.grade_level: 228
       note.danayo_id: 64
       note.middle_chinese_final: 107

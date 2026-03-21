@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǎo
-cantonese:
-  - ngaau5
-korean:
-  - 교
+mandarin: "yǎo"
+cantonese: "ngaau5"
+korean: "교"
 korean_native: 지저귀다, 씹다
 japanese:
   - KOU

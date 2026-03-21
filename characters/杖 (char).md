@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhàng
-cantonese:
-  - zoeng6
-korean:
-  - 장
+mandarin: "zhàng"
+cantonese: "zoeng6"
+korean: "장"
 korean_native: ""
 japanese:
   - JOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 7
 radical: 木
 skip_number: 1-4-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - staff

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - māo
-cantonese:
-  - maau1
-korean:
-  - 묘
+mandarin: "māo"
+cantonese: "maau1"
+korean: "묘"
 korean_native: 고양이
 japanese:
   - BYOU

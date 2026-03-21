@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gè
-cantonese:
-  - go3
-korean:
-  - 개
+mandarin: "gè"
+cantonese: "go3"
+korean: "개"
 korean_native: 낱
 japanese:
   - KO

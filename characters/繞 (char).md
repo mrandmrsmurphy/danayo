@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rào
-cantonese:
-  - jiu5
-korean:
-  - 요
+mandarin: "rào"
+cantonese: "jiu5"
+korean: "요"
 korean_native: ""
 japanese:
   - JOU
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇu
 stroke_count: 18
 radical: 糸
 skip_number: 1-6-12
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - entwine

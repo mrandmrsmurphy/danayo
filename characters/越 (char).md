@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yuè
-cantonese:
-  - jyut6
-korean:
-  - 월
+mandarin: "yuè"
+cantonese: "jyut6"
+korean: "월"
 korean_native: 넘을
 japanese:
   - ETSU

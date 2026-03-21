@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fǎng
-cantonese:
-  - fong2
-korean:
-  - 방
+mandarin: "fǎng"
+cantonese: "fong2"
+korean: "방"
 korean_native: ""
 japanese:
   - BOU
@@ -16,7 +13,7 @@ middle_chinese_final: ʉɐŋ
 stroke_count: "10"
 radical: 糸
 skip_number: 1-6-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - spin (yarn)

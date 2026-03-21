@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lüè
-cantonese:
-  - loek6
-korean:
-  - 략
+mandarin: "lüè"
+cantonese: "loek6"
+korean: "략"
 korean_native: ""
 japanese:
   - RYAKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐk
 stroke_count: 11
 radical: 田
 skip_number: 1-5-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - abbreviate

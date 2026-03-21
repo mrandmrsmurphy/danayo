@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chōng
-cantonese:
-  - cung1
-korean:
-  - 충
+mandarin: "chōng"
+cantonese: "cung1"
+korean: "충"
 korean_native: ""
 japanese:
   - SHOU

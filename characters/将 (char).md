@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiāng
-cantonese:
-  - zoeng1
-korean:
-  - 장
+mandarin: "jiāng"
+cantonese: "zoeng1"
+korean: "장"
 korean_native: ""
 japanese:
   - SHOU

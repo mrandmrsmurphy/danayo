@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bàng
-cantonese:
-  - bong6
-korean:
-  - 방
+mandarin: "bàng"
+cantonese: "bong6"
+korean: "방"
 korean_native: ""
 japanese:
   - BOU

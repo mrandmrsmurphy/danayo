@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tān
-cantonese:
-  - taan1
-korean:
-  - 탄
+mandarin: "tān"
+cantonese: "taan1"
+korean: "탄"
 korean_native: ""
 japanese:
   - DAN
@@ -16,7 +13,7 @@ middle_chinese_final: ɑn
 stroke_count: 21
 radical: 水
 skip_number: 1-3-18
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bank

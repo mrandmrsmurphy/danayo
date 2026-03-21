@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bǐ
-cantonese:
-  - bat1
-korean:
-  - 필
+mandarin: "bǐ"
+cantonese: "bat1"
+korean: "필"
 korean_native: 필
 japanese:
   - HITSU

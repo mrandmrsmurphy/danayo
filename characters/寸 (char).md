@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cùn
-cantonese:
-  - cyun3
-korean:
-  - 촌
+mandarin: "cùn"
+cantonese: "cyun3"
+korean: "촌"
 korean_native: ""
 japanese:
   - SUN

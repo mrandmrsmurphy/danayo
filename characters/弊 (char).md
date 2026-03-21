@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bì
-cantonese:
-  - bai6
-korean:
-  - 폐
+mandarin: "bì"
+cantonese: "bai6"
+korean: "폐"
 korean_native: ""
 japanese:
   - HEI
@@ -16,7 +13,7 @@ middle_chinese_final: ei
 stroke_count: 15
 radical: 廾
 skip_number: 2-12-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - evil

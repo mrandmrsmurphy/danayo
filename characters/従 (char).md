@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cóng
-cantonese:
-  - cung4
-korean:
-  - 종
+mandarin: "cóng"
+cantonese: "cung4"
+korean: "종"
 korean_native: 좇을 종
 japanese:
   - JUU

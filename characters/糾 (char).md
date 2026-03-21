@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiū
-cantonese:
-  - gau2
-korean:
-  - 규
+mandarin: "jiū"
+cantonese: "gau2"
+korean: "규"
 korean_native: ""
 japanese:
   - KYUU
@@ -15,7 +12,7 @@ middle_chinese_final: iɪu
 stroke_count: "12"
 radical: 糸
 skip_number: 1-6-6
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - twist

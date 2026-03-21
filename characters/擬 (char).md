@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nǐ
-cantonese:
-  - ji5
-korean:
-  - 의
+mandarin: "nǐ"
+cantonese: "ji5"
+korean: "의"
 korean_native: ""
 japanese:
   - GI
@@ -15,7 +12,7 @@ middle_chinese_final: ɨ
 stroke_count: 17
 radical: 手
 skip_number: 1-3-14
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - intend

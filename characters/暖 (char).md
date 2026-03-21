@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nuǎn
-cantonese:
-  - nyun5
-korean:
-  - 난
+mandarin: "nuǎn"
+cantonese: "nyun5"
+korean: "난"
 korean_native: ""
 japanese:
   - DAN

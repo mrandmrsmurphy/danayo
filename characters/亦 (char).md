@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yì
-cantonese:
-  - jik6
-korean:
-  - 역
+mandarin: "yì"
+cantonese: "jik6"
+korean: "역"
 korean_native: ""
 japanese:
   - EKI
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇk
 stroke_count: 6
 radical: 亠
 skip_number: 2-2-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - too

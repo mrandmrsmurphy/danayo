@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qì
-cantonese:
-  - hei3
-korean:
-  - 기
+mandarin: "qì"
+cantonese: "hei3"
+korean: "기"
 korean_native: 기운
 japanese:
   - KI

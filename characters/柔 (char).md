@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - róu
-cantonese:
-  - jau4
-korean:
-  - 유
+mandarin: "róu"
+cantonese: "jau4"
+korean: "유"
 korean_native: ""
 japanese:
   - NYUU

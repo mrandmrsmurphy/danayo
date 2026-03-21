@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - liáo
-cantonese:
-  - liu4
-korean:
-  - 료
+mandarin: "liáo"
+cantonese: "liu4"
+korean: "료"
 korean_native: ""
 japanese:
   - RYOU
@@ -15,7 +12,7 @@ middle_chinese_final: eu
 stroke_count: "11"
 radical: 耳
 skip_number: 1-6-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - chat

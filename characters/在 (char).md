@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zài
-cantonese:
-  - zoi6
-korean:
-  - 재
+mandarin: "zài"
+cantonese: "zoi6"
+korean: "재"
 korean_native: ""
 japanese:
   - ZAI

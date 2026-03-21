@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dūn
-cantonese:
-  - cyun4
-korean:
-  - 준
+mandarin: "dūn"
+cantonese: "cyun4"
+korean: "준"
 korean_native: ""
 japanese:
   - SON
@@ -16,7 +13,7 @@ middle_chinese_final: uən
 stroke_count: 19
 radical: 足
 skip_number: 1-7-12
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - squat

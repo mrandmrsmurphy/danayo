@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mù
-cantonese:
-  - muk6
-korean:
-  - 목
+mandarin: "mù"
+cantonese: "muk6"
+korean: "목"
 korean_native: 나무
 japanese:
   - BOKU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǐ
-cantonese:
-  - jyut3
-korean:
-  - 을
+mandarin: "yǐ"
+cantonese: "jyut3"
+korean: "을"
 korean_native: 새
 japanese:
   - OTSU

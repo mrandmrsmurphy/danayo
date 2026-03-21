@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǒng
-cantonese:
-  - wing6
-korean:
-  - 영
+mandarin: "yǒng"
+cantonese: "wing6"
+korean: "영"
 korean_native: ""
 japanese:
   - EI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiào
-cantonese:
-  - haau3
-korean:
-  - 효
+mandarin: "xiào"
+cantonese: "haau3"
+korean: "효"
 korean_native: ""
 japanese:
   - KOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣau
 stroke_count: 7
 radical: 子
 skip_number: 3-4-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - filial piety

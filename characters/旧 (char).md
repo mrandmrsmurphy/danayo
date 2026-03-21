@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiù
-cantonese:
-  - gau6
-korean:
-  - 구
+mandarin: "jiù"
+cantonese: "gau6"
+korean: "구"
 korean_native: 예
 japanese:
   - KYUU

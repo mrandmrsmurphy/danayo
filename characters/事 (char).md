@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shì
-cantonese:
-  - si6
-korean:
-  - 사
+mandarin: "shì"
+cantonese: "si6"
+korean: "사"
 korean_native: ""
 japanese:
   - JI

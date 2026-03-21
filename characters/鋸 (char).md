@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jù
-cantonese:
-  - geoi3
-korean:
-  - 거
+mandarin: "jù"
+cantonese: "geoi3"
+korean: "거"
 korean_native: ""
 japanese:
   - KYO
@@ -16,7 +13,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 16
 radical: 金
 skip_number: 1-8-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - saw

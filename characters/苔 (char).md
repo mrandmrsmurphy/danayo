@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tái
-cantonese:
-  - toi4
-korean:
-  - 태
+mandarin: "tái"
+cantonese: "toi4"
+korean: "태"
 korean_native: ""
 japanese:
   - TAI
@@ -15,7 +12,7 @@ middle_chinese_final: ʌi
 stroke_count: 8
 radical: 艸
 skip_number: 2-3-5
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - moss

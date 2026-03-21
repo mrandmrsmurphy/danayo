@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gē
-cantonese:
-  - got3
-korean:
-  - 할
+mandarin: "gē"
+cantonese: "got3"
+korean: "할"
 korean_native: ""
 japanese:
   - KATSU

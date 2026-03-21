@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pěng
-cantonese:
-  - pung2
-korean:
-  - 봉
+mandarin: "pěng"
+cantonese: "pung2"
+korean: "봉"
 korean_native: ""
 japanese:
   - HOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: "11"
 radical: 手
 skip_number: 1-3-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - hold up in two hands

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - děng
-cantonese:
-  - dang2
-korean:
-  - 등
+mandarin: "děng"
+cantonese: "dang2"
+korean: "등"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: əŋ
 stroke_count: "12"
 radical: 竹
 skip_number: 2-6-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - etc.

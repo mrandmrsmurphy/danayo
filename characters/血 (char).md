@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xuè
-cantonese:
-  - hyut3
-korean:
-  - 혈
+mandarin: "xuè"
+cantonese: "hyut3"
+korean: "혈"
 korean_native: ""
 japanese:
   - KETSU

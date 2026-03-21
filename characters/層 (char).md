@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - céng
-cantonese:
-  - cang4
-korean:
-  - 층
+mandarin: "céng"
+cantonese: "cang4"
+korean: "층"
 korean_native: ""
 japanese:
   - SOU
@@ -15,7 +12,7 @@ middle_chinese_final: əŋ
 stroke_count: 14
 radical: 尸
 skip_number: 3-3-11
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - stratum

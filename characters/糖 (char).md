@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - táng
-cantonese:
-  - tong4
-korean:
-  - 당
+mandarin: "táng"
+cantonese: "tong4"
+korean: "당"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɑŋ
 stroke_count: "16"
 radical: 米
 skip_number: 1-6-10
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - sugar

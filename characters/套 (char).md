@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tào
-cantonese:
-  - tou3
-korean:
-  - 투
+mandarin: "tào"
+cantonese: "tou3"
+korean: "투"
 korean_native: ""
 japanese:
   - TOU
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇu
 stroke_count: 10
 radical: 大
 skip_number: 2-3-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - covering

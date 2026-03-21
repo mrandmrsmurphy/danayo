@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qìng
-cantonese:
-  - hing3
-korean:
-  - 경
+mandarin: "qìng"
+cantonese: "hing3"
+korean: "경"
 korean_native: ""
 japanese:
   - KEI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiæŋ
 stroke_count: 15
 radical: 心
 skip_number: 3-3-12
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - congratulate

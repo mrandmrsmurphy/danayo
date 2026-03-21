@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tuān
-cantonese:
-  - teon1
-korean:
-  - 단
+mandarin: "tuān"
+cantonese: "teon1"
+korean: "단"
 korean_native: 오소리
 japanese:
   - TAN
@@ -16,7 +13,7 @@ middle_chinese_final: uɑn
 stroke_count: 16
 radical: 豸
 skip_number: 1-7-9
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english:
   - wild boar

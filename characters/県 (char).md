@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiàn
-cantonese:
-  - jyun6
-korean:
-  - 현
+mandarin: "xiàn"
+cantonese: "jyun6"
+korean: "현"
 korean_native: ""
 japanese:
   - KEN
@@ -16,7 +13,7 @@ middle_chinese_final: wen
 stroke_count: 9
 radical: 目
 skip_number: 2-6-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - county

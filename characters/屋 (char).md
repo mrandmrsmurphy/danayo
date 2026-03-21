@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wū
-cantonese:
-  - uk1
-korean:
-  - 옥
+mandarin: "wū"
+cantonese: "uk1"
+korean: "옥"
 korean_native: ""
 japanese:
   - OKU
@@ -15,7 +12,7 @@ middle_chinese_final: uk
 stroke_count: 9
 radical: 尸
 skip_number: 3-3-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - roof

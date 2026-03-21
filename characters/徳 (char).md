@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dé
-cantonese:
-  - dak1
-korean:
-  - 덕
+mandarin: "dé"
+cantonese: "dak1"
+korean: "덕"
 korean_native: ""
 japanese:
   - TOKU

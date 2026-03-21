@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - liè
-cantonese:
-  - lip6
-korean:
-  - 렵
+mandarin: "liè"
+cantonese: "lip6"
+korean: "렵"
 korean_native: 사냥
 japanese:
   - RYOU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiān
-cantonese:
-  - jyun4
-korean:
-  - 연
+mandarin: "qiān"
+cantonese: "jyun4"
+korean: "연"
 korean_native: ""
 japanese:
   - EN

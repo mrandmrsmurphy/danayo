@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lǐ
-cantonese:
-  - lei5
-korean:
-  - 리
+mandarin: "lǐ"
+cantonese: "lei5"
+korean: "리"
 korean_native: 마을
 japanese:
   - RI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guī
-cantonese:
-  - gwai1
-korean:
-  - 구, 균, 귀
+mandarin: "guī"
+cantonese: "gwai1"
+korean: "구, 균, 귀"
 korean_native: 거북
 japanese:
   - KI

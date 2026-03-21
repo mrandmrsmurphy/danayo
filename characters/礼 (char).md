@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lǐ
-cantonese:
-  - lai5
-korean:
-  - 례
+mandarin: "lǐ"
+cantonese: "lai5"
+korean: "례"
 korean_native: ""
 japanese:
   - REI

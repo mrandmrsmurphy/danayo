@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tuō
-cantonese:
-  - tyut3
-korean:
-  - 탈
+mandarin: "tuō"
+cantonese: "tyut3"
+korean: "탈"
 korean_native: 벗을
 japanese:
   - DATSU

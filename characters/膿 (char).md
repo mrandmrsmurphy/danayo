@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nóng
-cantonese:
-  - nung4
-korean:
-  - 농
+mandarin: "nóng"
+cantonese: "nung4"
+korean: "농"
 korean_native: ""
 japanese:
   - DOU
@@ -16,7 +13,7 @@ middle_chinese_final: uoŋ
 stroke_count: 17
 radical: 肉
 skip_number: 1-4-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - pus

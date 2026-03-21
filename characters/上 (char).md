@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shàng
-cantonese:
-  - seong6
-korean:
-  - 상
+mandarin: "shàng"
+cantonese: "seong6"
+korean: "상"
 korean_native: ""
 japanese:
   - JOU

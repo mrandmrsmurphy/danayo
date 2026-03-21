@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chǎo
-cantonese:
-  - caau2
-korean:
-  - 초
+mandarin: "chǎo"
+cantonese: "caau2"
+korean: "초"
 korean_native: ""
 japanese:
   - SOU
@@ -16,7 +13,7 @@ middle_chinese_final: au
 stroke_count: 8
 radical: 火
 skip_number: 1-4-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - fry

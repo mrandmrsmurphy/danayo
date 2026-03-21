@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chá
-cantonese:
-  - caa4
-korean:
-  - 다
+mandarin: "chá"
+cantonese: "caa4"
+korean: "다"
 korean_native: ""
 japanese:
   - CHA

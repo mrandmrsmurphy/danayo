@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - niǎo
-cantonese:
-  - niu5
-korean:
-  - 조
+mandarin: "niǎo"
+cantonese: "niu5"
+korean: "조"
 korean_native: ""
 japanese:
   - CHOU

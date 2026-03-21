@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kǎi
-cantonese:
-  - koi3
-korean:
-  - 개
+mandarin: "kǎi"
+cantonese: "koi3"
+korean: "개"
 korean_native: 분개할
 japanese:
   - GAI
@@ -16,7 +13,7 @@ middle_chinese_final: ʌi
 stroke_count: 13
 radical: 心
 skip_number: 1-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sigh

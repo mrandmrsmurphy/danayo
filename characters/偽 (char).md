@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wěi
-cantonese:
-  - ngai6
-korean:
-  - 위
+mandarin: "wěi"
+cantonese: "ngai6"
+korean: "위"
 korean_native: 거짓
 japanese:
   - GI

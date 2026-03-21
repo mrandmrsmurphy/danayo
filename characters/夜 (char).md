@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yè
-cantonese:
-  - je6
-korean:
-  - 야
+mandarin: "yè"
+cantonese: "je6"
+korean: "야"
 korean_native: 밤
 japanese:
   - YA

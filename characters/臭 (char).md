@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chòu
-cantonese:
-  - cau3
-korean:
-  - 취
+mandarin: "chòu"
+cantonese: "cau3"
+korean: "취"
 korean_native: ""
 japanese:
   - SHUU

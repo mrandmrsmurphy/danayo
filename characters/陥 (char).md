@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiàn
-cantonese:
-  - haam6
-korean:
-  - 함
+mandarin: "xiàn"
+cantonese: "haam6"
+korean: "함"
 korean_native: 빠질
 japanese:
   - KAN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fú
-cantonese:
-  - fu4
-korean:
-  - 부
+mandarin: "fú"
+cantonese: "fu4"
+korean: "부"
 korean_native: ""
 japanese:
   - FU

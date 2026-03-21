@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lì
-cantonese:
-  - leot6
-korean:
-  - 률
+mandarin: "lì"
+cantonese: "leot6"
+korean: "률"
 korean_native: ""
 japanese:
   - RITSU
@@ -15,7 +12,7 @@ middle_chinese_final: iɪt
 stroke_count: 10
 radical: 木
 skip_number: 2-6-4
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - chestnut

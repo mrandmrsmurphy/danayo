@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mò
-cantonese:
-  - mut6
-korean:
-  - 말
+mandarin: "mò"
+cantonese: "mut6"
+korean: "말"
 korean_native: ""
 japanese:
   - MATSU
@@ -16,7 +13,7 @@ middle_chinese_final: uɑt
 stroke_count: "8"
 radical: 水
 skip_number: 1-3-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - froth

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hé
-cantonese:
-  - ho4
-korean:
-  - 하
+mandarin: "hé"
+cantonese: "ho4"
+korean: "하"
 korean_native: ""
 japanese:
   - KA

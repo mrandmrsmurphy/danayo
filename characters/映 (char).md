@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yìng
-cantonese:
-  - jing2
-korean:
-  - 영
+mandarin: "yìng"
+cantonese: "jing2"
+korean: "영"
 korean_native: 비출
 japanese:
   - EI

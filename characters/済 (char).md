@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jì
-cantonese:
-  - zai3
-korean:
-  - 제
+mandarin: "jì"
+cantonese: "zai3"
+korean: "제"
 korean_native: ""
 japanese:
   - SAI

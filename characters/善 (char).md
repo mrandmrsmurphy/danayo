@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - shàn
-cantonese: sin6
-korean:
-  - 선
+mandarin: "shàn"
+cantonese: "sin6"
+korean: "선"
 korean_native: 착할
 japanese:
   - ZEN
@@ -16,7 +14,7 @@ middle_chinese_final: iᴇn
 stroke_count: "12"
 radical: 口
 skip_number: 2-3-9
-grade_level: 4
+grade_level: "4"
 pos: 性詞
 english:
   - good

@@ -1,7 +1,7 @@
 ---
-mandarin: tǎ, da
-cantonese: taap3
-korean: 탑
+mandarin: "tǎ, da"
+cantonese: "taap3"
+korean: "탑"
 korean_native: 탑
 japanese: TOU
 japanese_nanori: あららぎ

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pàn
-cantonese:
-  - bun6
-korean:
-  - 반
+mandarin: "pàn"
+cantonese: "bun6"
+korean: "반"
 korean_native: ""
 japanese:
   - HAN
@@ -15,7 +12,7 @@ middle_chinese_final: uɑn
 stroke_count: 10
 radical: 田
 skip_number: 1-5-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - ridge

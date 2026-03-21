@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - guō
-cantonese:
-  - gwok3
-korean:
-  - 곽
+mandarin: "guō"
+cantonese: "gwok3"
+korean: "곽"
 korean_native: ""
 japanese:
   - KAKU
@@ -15,7 +12,7 @@ middle_chinese_final: wɑk
 stroke_count: 11
 radical: 邑
 skip_number: 1-8-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - outermost part

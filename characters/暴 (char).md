@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bào
-cantonese:
-  - bou6
-korean:
-  - 포
+mandarin: "bào"
+cantonese: "bou6"
+korean: "포"
 korean_native: ""
 japanese:
   - BOU

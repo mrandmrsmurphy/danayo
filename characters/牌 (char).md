@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pái
-cantonese:
-  - paai4
-korean:
-  - 패
+mandarin: "pái"
+cantonese: "paai4"
+korean: "패"
 korean_native: ""
 japanese:
   - HAI
@@ -15,7 +12,7 @@ middle_chinese_final: ɣɛ
 stroke_count: 12
 radical: 片
 skip_number: 1-4-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - playing card

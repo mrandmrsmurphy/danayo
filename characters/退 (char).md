@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tuì
-cantonese:
-  - teoi3
-korean:
-  - 퇴
+mandarin: "tuì"
+cantonese: "teoi3"
+korean: "퇴"
 korean_native: ""
 japanese:
   - TAI

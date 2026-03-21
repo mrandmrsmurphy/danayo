@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hé
-cantonese:
-  - hap6
-korean:
-  - 합
+mandarin: "hé"
+cantonese: "hap6"
+korean: "합"
 korean_native: 합할
 japanese:
   - GOU

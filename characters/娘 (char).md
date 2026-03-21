@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - niáng
-cantonese:
-  - noeng4
-korean:
-  - 낭
+mandarin: "niáng"
+cantonese: "noeng4"
+korean: "낭"
 korean_native: ""
 japanese:
   - NYOU

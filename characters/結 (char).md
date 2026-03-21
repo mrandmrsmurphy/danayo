@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jié
-cantonese:
-  - git3
-korean:
-  - 결
+mandarin: "jié"
+cantonese: "git3"
+korean: "결"
 korean_native: ""
 japanese:
   - KETSU

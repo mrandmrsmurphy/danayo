@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiàn
-cantonese:
-  - him3
-korean:
-  - 흠
+mandarin: "qiàn"
+cantonese: "him3"
+korean: "흠"
 korean_native: 하품
 japanese:
   - KETSU

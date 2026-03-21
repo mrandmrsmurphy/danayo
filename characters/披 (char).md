@@ -1,7 +1,7 @@
 ---
-mandarin: pī
-cantonese: pei1
-korean: 피
+mandarin: "pī"
+cantonese: "pei1"
+korean: "피"
 korean_native: 헤칠
 japanese: HI
 japanese_nanori: ひらく

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gǎi
-cantonese:
-  - goi2
-korean:
-  - 개
+mandarin: "gǎi"
+cantonese: "goi2"
+korean: "개"
 korean_native: 고칠
 japanese:
   - KAI
@@ -15,7 +12,7 @@ middle_chinese_final: ʌi
 stroke_count: 7
 radical: 攴
 skip_number: 1-3-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - redo

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tuī
-cantonese:
-  - teoi1
-korean:
-  - 추
+mandarin: "tuī"
+cantonese: "teoi1"
+korean: "추"
 korean_native: ""
 japanese:
   - SUI

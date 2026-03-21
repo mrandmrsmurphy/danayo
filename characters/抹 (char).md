@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mǒ
-cantonese:
-  - mut3
-korean:
-  - 말
+mandarin: "mǒ"
+cantonese: "mut3"
+korean: "말"
 korean_native: ""
 japanese:
   - MATSU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shǒu
-cantonese:
-  - sau2
-korean:
-  - 수
+mandarin: "shǒu"
+cantonese: "sau2"
+korean: "수"
 korean_native: ""
 japanese:
   - SHU

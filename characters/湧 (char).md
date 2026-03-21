@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǒng
-cantonese:
-  - jung2
-korean:
-  - 용
+mandarin: "yǒng"
+cantonese: "jung2"
+korean: "용"
 korean_native: ""
 japanese:
   - YUU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: "12"
 radical: 水
 skip_number: 1-3-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - gush

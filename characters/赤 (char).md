@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chì
-cantonese:
-  - cek3
-korean:
-  - 적
+mandarin: "chì"
+cantonese: "cek3"
+korean: "적"
 korean_native: ""
 japanese:
   - SEKI

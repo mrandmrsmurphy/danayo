@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kū
-cantonese:
-  - fat1
-korean:
-  - 굴
+mandarin: "kū"
+cantonese: "fat1"
+korean: "굴"
 korean_native: ""
 japanese:
   - KUTSU
@@ -16,7 +13,7 @@ middle_chinese_final: uət
 stroke_count: 13
 radical: 穴
 skip_number: 2-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - cavern

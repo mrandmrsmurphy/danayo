@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lái
-cantonese:
-  - loi4
-korean:
-  - 래
+mandarin: "lái"
+cantonese: "loi4"
+korean: "래"
 korean_native: ""
 japanese:
   - RAI

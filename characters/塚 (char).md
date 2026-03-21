@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhǒng
-cantonese:
-  - cung2
-korean:
-  - 총
+mandarin: "zhǒng"
+cantonese: "cung2"
+korean: "총"
 korean_native: ""
 japanese:
   - CHOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: "12"
 radical: 土
 skip_number: 1-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - hillock

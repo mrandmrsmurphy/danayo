@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lù
-cantonese:
-  - luk6
-korean:
-  - 녹
+mandarin: "lù"
+cantonese: "luk6"
+korean: "녹"
 korean_native: ""
 japanese:
   - ROKU

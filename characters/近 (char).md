@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jìn
-cantonese:
-  - gan6
-korean:
-  - 근
+mandarin: "jìn"
+cantonese: "gan6"
+korean: "근"
 korean_native: 가까울
 japanese:
   - KIN

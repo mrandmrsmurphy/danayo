@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - suī
-cantonese:
-  - seoi1
-korean:
-  - 수
+mandarin: "suī"
+cantonese: "seoi1"
+korean: "수"
 korean_native: ""
 japanese:
   - SUI
@@ -15,7 +12,7 @@ middle_chinese_final: iuɪ
 stroke_count: 17
 radical: 隹
 skip_number: 1-9-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - though

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhuó
-cantonese:
-  - doek3
-korean:
-  - 탁
+mandarin: "zhuó"
+cantonese: "doek3"
+korean: "탁"
 korean_native: ""
 japanese:
   - TAKU
@@ -15,7 +12,7 @@ middle_chinese_final: uk
 stroke_count: "10"
 radical: 口
 skip_number: 1-3-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - peck at

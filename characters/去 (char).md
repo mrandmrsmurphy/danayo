@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qù
-cantonese:
-  - heoi3
-korean:
-  - 거
+mandarin: "qù"
+cantonese: "heoi3"
+korean: "거"
 korean_native: 갈
 japanese:
   - KYO

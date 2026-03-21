@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - háo
-cantonese:
-  - hou4
-korean:
-  - 호
+mandarin: "háo"
+cantonese: "hou4"
+korean: "호"
 korean_native: ""
 japanese:
   - KOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɑu
 stroke_count: 11
 radical: 毛
 skip_number: 2-2-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - fine hair

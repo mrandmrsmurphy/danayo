@@ -1,7 +1,7 @@
 ---
-mandarin: suì
-cantonese: seui6
-korean: 수
+mandarin: "suì"
+cantonese: "seui6"
+korean: "수"
 korean_native: 이삭
 japanese: SUI
 japanese_nanori: ほ
@@ -11,7 +11,7 @@ middle_chinese_final: iuɪ
 stroke_count: 15
 radical: 禾
 skip_number: 1-5-10
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english: ear of grain
 羅馬字: sui

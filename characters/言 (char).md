@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yán
-cantonese:
-  - jin4
-korean:
-  - 언
+mandarin: "yán"
+cantonese: "jin4"
+korean: "언"
 korean_native: ""
 japanese:
   - GEN

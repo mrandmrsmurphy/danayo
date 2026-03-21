@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - péng
-cantonese:
-  - paang4
-korean:
-  - 붕
+mandarin: "péng"
+cantonese: "paang4"
+korean: "붕"
 korean_native: ""
 japanese:
   - HOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣæŋ
 stroke_count: 12
 radical: 木
 skip_number: 1-4-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - shelf

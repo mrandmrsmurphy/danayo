@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lián
-cantonese:
-  - lim4
-korean:
-  - 겸
+mandarin: "lián"
+cantonese: "lim4"
+korean: "겸"
 korean_native: ""
 japanese:
   - REN
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇm
 stroke_count: 18
 radical: 金
 skip_number: 1-8-10
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - sickle

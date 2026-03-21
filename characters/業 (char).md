@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yè
-cantonese:
-  - jip6
-korean:
-  - 업
+mandarin: "yè"
+cantonese: "jip6"
+korean: "업"
 korean_native: 업
 japanese:
   - GYOU

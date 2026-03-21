@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zá
-cantonese:
-  - zaap6
-korean:
-  - 잡
+mandarin: "zá"
+cantonese: "zaap6"
+korean: "잡"
 korean_native: 섞일
 japanese:
   - ZATSU

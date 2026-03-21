@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huì
-cantonese:
-  - wai6
-korean:
-  - 혜
+mandarin: "huì"
+cantonese: "wai6"
+korean: "혜"
 korean_native: ""
 japanese:
   - KEI
@@ -16,7 +13,7 @@ middle_chinese_final: wei
 stroke_count: 15
 radical: 心
 skip_number: 2-8-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bright

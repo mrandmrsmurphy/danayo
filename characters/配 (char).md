@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pèi
-cantonese:
-  - pui3
-korean:
-  - 배
+mandarin: "pèi"
+cantonese: "pui3"
+korean: "배"
 korean_native: ""
 japanese:
   - HAI
@@ -15,7 +12,7 @@ middle_chinese_final: uʌi
 stroke_count: 10
 radical: 酉
 skip_number: 1-7-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - match

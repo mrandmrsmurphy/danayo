@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zuì
-cantonese:
-  - zeoi6
-korean:
-  - 죄
+mandarin: "zuì"
+cantonese: "zeoi6"
+korean: "죄"
 korean_native: ""
 japanese:
   - ZAI
@@ -16,7 +13,7 @@ middle_chinese_final: uʌi
 stroke_count: 13
 radical: 网
 skip_number: 2-5-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - sin

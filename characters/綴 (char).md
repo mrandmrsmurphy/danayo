@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhuì
-cantonese:
-  - zeoi3
-korean:
-  - 철
+mandarin: "zhuì"
+cantonese: "zeoi3"
+korean: "철"
 korean_native: ""
 japanese:
   - TEI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiuᴇt
 stroke_count: "14"
 radical: 糸
 skip_number: 1-6-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bind

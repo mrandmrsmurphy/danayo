@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wěi
-cantonese:
-  - mei5
-korean:
-  - 미
+mandarin: "wěi"
+cantonese: "mei5"
+korean: "미"
 korean_native: ""
 japanese:
   - BI
@@ -15,7 +12,7 @@ middle_chinese_final: ʉi
 stroke_count: 7
 radical: 尸
 skip_number: 3-3-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - tail

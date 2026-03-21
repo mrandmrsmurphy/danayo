@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bài
-cantonese:
-  - baai3
-korean:
-  - 배
+mandarin: "bài"
+cantonese: "baai3"
+korean: "배"
 korean_native: 절
 japanese:
   - HAI

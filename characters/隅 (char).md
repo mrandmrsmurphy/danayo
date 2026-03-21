@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yú
-cantonese:
-  - jyu4
-korean:
-  - 우
+mandarin: "yú"
+cantonese: "jyu4"
+korean: "우"
 korean_native: ""
 japanese:
   - GUU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨo
 stroke_count: "12"
 radical: 阜
 skip_number: 1-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - nook

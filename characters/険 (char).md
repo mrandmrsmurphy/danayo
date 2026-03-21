@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiǎn
-cantonese:
-  - him2
-korean:
-  - 험
+mandarin: "xiǎn"
+cantonese: "him2"
+korean: "험"
 korean_native: 험할
 japanese:
   - KEN

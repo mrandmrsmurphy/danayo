@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shuān
-cantonese:
-  - saan1
-korean:
-  - 전
+mandarin: "shuān"
+cantonese: "saan1"
+korean: "전"
 korean_native: ""
 japanese:
   - SEN
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiuᴇn
 stroke_count: 10
 radical: 木
 skip_number: 1-4-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - peg

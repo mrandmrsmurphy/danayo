@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yú
-cantonese:
-  - jyu4
-korean:
-  - 여
+mandarin: "yú"
+cantonese: "jyu4"
+korean: "여"
 korean_native: ""
 japanese:
   - YO
@@ -15,7 +12,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 17
 radical: 車
 skip_number: 2-15-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - palanquin

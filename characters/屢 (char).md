@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lǚ
-cantonese:
-  - leoi5
-korean:
-  - 누
+mandarin: "lǚ"
+cantonese: "leoi5"
+korean: "누"
 korean_native: ""
 japanese:
   - RU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨo
 stroke_count: 14
 radical: 尸
 skip_number: 3-3-11
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - frequently

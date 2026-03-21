@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chí
-cantonese:
-  - ci4
-korean:
-  - 치
+mandarin: "chí"
+cantonese: "ci4"
+korean: "치"
 korean_native: ""
 japanese:
   - CHI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiᴇ
 stroke_count: 13
 radical: 馬
 skip_number: 1-10-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - run fast

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gōu
-cantonese:
-  - ngau1
-korean:
-  - 구
+mandarin: "gōu"
+cantonese: "ngau1"
+korean: "구"
 korean_native: ""
 japanese:
   - KOU
@@ -16,7 +13,7 @@ middle_chinese_final: əu
 stroke_count: 13
 radical: 金
 skip_number: 1-8-5
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - hook

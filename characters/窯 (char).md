@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yáo
-cantonese:
-  - jiu4
-korean:
-  - 요
+mandarin: "yáo"
+cantonese: "jiu4"
+korean: "요"
 korean_native: ""
 japanese:
   - YOU
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇu
 stroke_count: 15
 radical: 穴
 skip_number: 2-3-12
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - kiln

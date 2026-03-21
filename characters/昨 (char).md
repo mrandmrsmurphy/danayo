@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zuó
-cantonese:
-  - zok6
-korean:
-  - 작
+mandarin: "zuó"
+cantonese: "zok6"
+korean: "작"
 korean_native: ""
 japanese:
   - SAKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɑk
 stroke_count: 9
 radical: 日
 skip_number: 1-4-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - last

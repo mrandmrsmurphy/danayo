@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cān
-cantonese:
-  - caan1
-korean:
-  - 찬
+mandarin: "cān"
+cantonese: "caan1"
+korean: "찬"
 korean_native: ""
 japanese:
   - SAN
@@ -16,7 +13,7 @@ middle_chinese_final: ɑn
 stroke_count: 16
 radical: 食
 skip_number: 2-7-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - eat

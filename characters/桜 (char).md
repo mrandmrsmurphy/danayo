@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yīng
-cantonese:
-  - jing1
-korean:
-  - 앵
+mandarin: "yīng"
+cantonese: "jing1"
+korean: "앵"
 korean_native: 앵두
 japanese:
   - OU

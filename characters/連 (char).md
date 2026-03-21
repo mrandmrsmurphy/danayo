@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lián
-cantonese:
-  - lin4
-korean:
-  - 련
+mandarin: "lián"
+cantonese: "lin4"
+korean: "련"
 korean_native: 잇닿을
 japanese:
   - REN

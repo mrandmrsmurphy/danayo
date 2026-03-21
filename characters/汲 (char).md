@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jí
-cantonese:
-  - kap1
-korean:
-  - 급
+mandarin: "jí"
+cantonese: "kap1"
+korean: "급"
 korean_native: ""
 japanese:
   - KYUU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiɪp
 stroke_count: "7"
 radical: 水
 skip_number: 1-3-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - draw water

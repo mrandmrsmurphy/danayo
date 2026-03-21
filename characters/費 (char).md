@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fèi
-cantonese:
-  - fai3
-korean:
-  - 비
+mandarin: "fèi"
+cantonese: "fai3"
+korean: "비"
 korean_native: ""
 japanese:
   - HI
@@ -16,7 +13,7 @@ middle_chinese_final: ʉi
 stroke_count: 12
 radical: 貝
 skip_number: 2-5-7
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - expense

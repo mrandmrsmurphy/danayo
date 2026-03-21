@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gǒu
-cantonese:
-  - gau2
-korean:
-  - 구
+mandarin: "gǒu"
+cantonese: "gau2"
+korean: "구"
 korean_native: ""
 japanese:
   - KOU
@@ -16,7 +13,7 @@ middle_chinese_final: əu
 stroke_count: 11
 radical: 艸
 skip_number: 2-6-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - if only

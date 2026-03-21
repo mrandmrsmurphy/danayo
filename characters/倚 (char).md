@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǐ
-cantonese:
-  - ji2
-korean:
-  - 의
+mandarin: "yǐ"
+cantonese: "ji2"
+korean: "의"
 korean_native: ""
 japanese:
   - I
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiᴇ
 stroke_count: 10
 radical: 人
 skip_number: 1-2-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - rely on

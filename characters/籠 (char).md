@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lóng
-cantonese:
-  - lung4
-korean:
-  - 롱
+mandarin: "lóng"
+cantonese: "lung4"
+korean: "롱"
 korean_native: ""
 japanese:
   - ROU

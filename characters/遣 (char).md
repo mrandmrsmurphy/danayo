@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiǎn
-cantonese:
-  - hin2
-korean:
-  - 견
+mandarin: "qiǎn"
+cantonese: "hin2"
+korean: "견"
 korean_native: "보낼"
 japanese:
   - KEN
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇn
 stroke_count: 13
 radical: 辵
 skip_number: 3-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - dispatch

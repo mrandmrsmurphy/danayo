@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qiè
-cantonese:
-  - cit3
-korean:
-  - 체
+mandarin: "qiè"
+cantonese: "cit3"
+korean: "체"
 korean_native: ""
 japanese:
   - SETSU

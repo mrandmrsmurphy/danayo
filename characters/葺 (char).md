@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qì
-cantonese:
-  - cap1
-korean:
-  - 즙
+mandarin: "qì"
+cantonese: "cap1"
+korean: "즙"
 korean_native: ""
 japanese:
   - SHUU
@@ -15,7 +12,7 @@ middle_chinese_final: iɪp
 stroke_count: 12
 radical: 艸
 skip_number: 2-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - roofed with

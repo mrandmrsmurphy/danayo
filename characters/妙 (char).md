@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - miào
-cantonese:
-  - miu6
-korean:
-  - 묘
+mandarin: "miào"
+cantonese: "miu6"
+korean: "묘"
 korean_native: ""
 japanese:
   - MYOU
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇu
 stroke_count: "7"
 radical: 女
 skip_number: 1-3-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - mysterious

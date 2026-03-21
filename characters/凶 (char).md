@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiōng
-cantonese:
-  - hung1
-korean:
-  - 흉
+mandarin: "xiōng"
+cantonese: "hung1"
+korean: "흉"
 korean_native: ""
 japanese:
   - KYOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: "4"
 radical: 凵
 skip_number: 3-2-2
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - unlucky

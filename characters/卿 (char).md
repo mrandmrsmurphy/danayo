@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qīng
-cantonese:
-  - hing1
-korean:
-  - 경
+mandarin: "qīng"
+cantonese: "hing1"
+korean: "경"
 korean_native: "벼슬"
 japanese:
   - KYOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiæŋ
 stroke_count: "12"
 radical: 卩
 skip_number: 1-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - noble

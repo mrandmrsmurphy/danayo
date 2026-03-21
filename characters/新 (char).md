@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xīn
-cantonese:
-  - san1
-korean:
-  - 신
+mandarin: "xīn"
+cantonese: "san1"
+korean: "신"
 korean_native: 새
 japanese:
   - SHIN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yì
-cantonese:
-  - jat6
-korean:
-  - 일
+mandarin: "yì"
+cantonese: "jat6"
+korean: "일"
 korean_native: ""
 japanese:
   - ITSU
@@ -16,7 +13,7 @@ middle_chinese_final: iɪt
 stroke_count: 11
 radical: 辵
 skip_number: 3-3-8
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - flee

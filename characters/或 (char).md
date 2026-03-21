@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huò
-cantonese:
-  - waak6
-korean:
-  - 혹
+mandarin: "huò"
+cantonese: "waak6"
+korean: "혹"
 korean_native: ""
 japanese:
   - WAKU

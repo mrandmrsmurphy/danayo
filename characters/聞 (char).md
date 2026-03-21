@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wén
-cantonese:
-  - man4
-korean:
-  - 문
+mandarin: "wén"
+cantonese: "man4"
+korean: "문"
 korean_native: ""
 japanese:
   - BUN
@@ -16,7 +13,7 @@ middle_chinese_final: ɨun
 stroke_count: "14"
 radical: 耳
 skip_number: 3-8-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - hear

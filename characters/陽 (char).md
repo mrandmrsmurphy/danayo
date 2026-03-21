@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yáng
-cantonese:
-  - joeng4
-korean:
-  - 양
+mandarin: "yáng"
+cantonese: "joeng4"
+korean: "양"
 korean_native: ""
 japanese:
   - YOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: "12"
 radical: 阜
 skip_number: 1-3-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - shine

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kān
-cantonese:
-  - hon1
-korean:
-  - 간
+mandarin: "kān"
+cantonese: "hon1"
+korean: "간"
 korean_native: "책 펴낼"
 japanese:
   - KAN

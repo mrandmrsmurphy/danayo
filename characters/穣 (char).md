@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ráng
-cantonese:
-  - joeng4
-korean:
-  - 양
+mandarin: "ráng"
+cantonese: "joeng4"
+korean: "양"
 korean_native: 짚
 japanese:
   - JOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 22
 radical: 禾
 skip_number: 1-5-17
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - stalks of grain

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nián
-cantonese:
-  - nin4
-korean:
-  - 년
+mandarin: "nián"
+cantonese: "nin4"
+korean: "년"
 korean_native: ""
 japanese:
   - NEN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wáng
-cantonese:
-  - wong4
-korean:
-  - 왕
+mandarin: "wáng"
+cantonese: "wong4"
+korean: "왕"
 korean_native: 임금
 japanese:
   - OU

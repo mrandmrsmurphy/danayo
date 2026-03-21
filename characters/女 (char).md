@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nǚ
-cantonese:
-  - neoi5
-korean:
-  - 녀
+mandarin: "nǚ"
+cantonese: "neoi5"
+korean: "녀"
 korean_native: ""
 japanese:
   - JO

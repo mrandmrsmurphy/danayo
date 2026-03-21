@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhào
-cantonese:
-  - ziu3
-korean:
-  - 조
+mandarin: "zhào"
+cantonese: "ziu3"
+korean: "조"
 korean_native: ""
 japanese:
   - SHOU
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇu
 stroke_count: 13
 radical: 火
 skip_number: 2-9-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - shine

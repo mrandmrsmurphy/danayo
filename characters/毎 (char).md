@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - měi
-cantonese:
-  - mui5
-korean:
-  - 매
+mandarin: "měi"
+cantonese: "mui5"
+korean: "매"
 korean_native: 매양
 japanese:
   - MAI

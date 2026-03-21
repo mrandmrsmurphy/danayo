@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cǐ
-cantonese:
-  - ci2
-korean:
-  - 차
+mandarin: "cǐ"
+cantonese: "ci2"
+korean: "차"
 korean_native: ""
 japanese:
   - SHI

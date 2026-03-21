@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lòu
-cantonese:
-  - lau6
-korean:
-  - 누
+mandarin: "lòu"
+cantonese: "lau6"
+korean: "누"
 korean_native: ""
 japanese:
   - ROU
@@ -15,7 +12,7 @@ middle_chinese_final: əu
 stroke_count: "14"
 radical: 水
 skip_number: 1-3-11
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - leak

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chuàn
-cantonese:
-  - cyun3
-korean:
-  - 곶
+mandarin: "chuàn"
+cantonese: "cyun3"
+korean: "곶"
 korean_native: 곶
 japanese:
   - SEN

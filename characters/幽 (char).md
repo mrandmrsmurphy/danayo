@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yōu
-cantonese:
-  - jau1
-korean:
-  - 유
+mandarin: "yōu"
+cantonese: "jau1"
+korean: "유"
 korean_native: ""
 japanese:
   - YUU
@@ -15,7 +12,7 @@ middle_chinese_final: iɪu
 stroke_count: 9
 radical: 幺
 skip_number: 3-2-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - quiet

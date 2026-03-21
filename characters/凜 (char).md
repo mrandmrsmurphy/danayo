@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lǐn
-cantonese:
-  - lam5
-korean:
-  - 름
+mandarin: "lǐn"
+cantonese: "lam5"
+korean: "름"
 korean_native: ""
 japanese:
   - RIN
@@ -15,7 +12,7 @@ middle_chinese_final: iɪm
 stroke_count: 15
 radical: 冫
 skip_number: 1-2-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - shiver

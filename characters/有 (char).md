@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yǒu
-cantonese:
-  - jau5
-korean:
-  - 유
+mandarin: "yǒu"
+cantonese: "jau5"
+korean: "유"
 korean_native: ""
 japanese:
   - YUU

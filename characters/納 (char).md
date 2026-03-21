@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nà
-cantonese:
-  - naap6
-korean:
-  - 납
+mandarin: "nà"
+cantonese: "naap6"
+korean: "납"
 korean_native: ""
 japanese:
   - TOU
@@ -17,7 +14,7 @@ middle_chinese_final: ʌp
 stroke_count: "10"
 radical: 糸
 skip_number: 1-6-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - receive

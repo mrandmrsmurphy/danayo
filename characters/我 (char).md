@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wǒ
-cantonese:
-  - ngo5
-korean:
-  - 아
+mandarin: "wǒ"
+cantonese: "ngo5"
+korean: "아"
 korean_native: 나
 japanese:
   - GA

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huì
-cantonese:
-  - wai5
-korean:
-  - 휘
+mandarin: "huì"
+cantonese: "wai5"
+korean: "휘"
 korean_native: 숨길
 japanese:
   - KI
@@ -15,7 +12,7 @@ middle_chinese_final: ʉi
 stroke_count: 16
 radical: 言
 skip_number: 1-7-9
-grade_level: 先進
+grade_level: "先進"
 pos: 事詞
 english:
   - shun

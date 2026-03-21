@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xī
-cantonese:
-  - hai4
-korean:
-  - 혜
+mandarin: "xī"
+cantonese: "hai4"
+korean: "혜"
 korean_native: ""
 japanese:
   - KEI

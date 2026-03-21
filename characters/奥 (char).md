@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ào
-cantonese:
-  - ou3
-korean:
-  - 오
+mandarin: "ào"
+cantonese: "ou3"
+korean: "오"
 korean_native: 깊을
 japanese:
   - OU

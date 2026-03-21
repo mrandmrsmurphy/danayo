@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shuāng
-cantonese:
-  - soeng1
-korean:
-  - 상
+mandarin: "shuāng"
+cantonese: "soeng1"
+korean: "상"
 korean_native: ""
 japanese:
   - SOU

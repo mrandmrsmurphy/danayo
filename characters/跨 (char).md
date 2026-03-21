@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuà
-cantonese:
-  - kwaa3
-korean:
-  - 과
+mandarin: "kuà"
+cantonese: "kwaa3"
+korean: "과"
 korean_native: ""
 japanese:
   - KO
@@ -16,7 +13,7 @@ middle_chinese_final: ɣua
 stroke_count: 13
 radical: 足
 skip_number: 1-7-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - straddle

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chòng
-cantonese:
-  - cung3
-korean:
-  - 총
+mandarin: "chòng"
+cantonese: "cung3"
+korean: "총"
 korean_native: ""
 japanese:
   - JUU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨuŋ
 stroke_count: 14
 radical: 金
 skip_number: 1-8-6
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - gun

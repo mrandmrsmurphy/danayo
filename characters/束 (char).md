@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shù
-cantonese:
-  - cuk1
-korean:
-  - 속
+mandarin: "shù"
+cantonese: "cuk1"
+korean: "속"
 korean_native: ""
 japanese:
   - SOKU

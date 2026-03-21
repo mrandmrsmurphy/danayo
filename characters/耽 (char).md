@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dān
-cantonese:
-  - daam1
-korean:
-  - 탐
+mandarin: "dān"
+cantonese: "daam1"
+korean: "탐"
 korean_native: ""
 japanese:
   - TAN
@@ -15,7 +12,7 @@ middle_chinese_final: ʌm
 stroke_count: "10"
 radical: 耳
 skip_number: 1-6-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - indulge in

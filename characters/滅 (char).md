@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - miè
-cantonese:
-  - mit6
-korean:
-  - 멸
+mandarin: "miè"
+cantonese: "mit6"
+korean: "멸"
 korean_native: ""
 japanese:
   - METSU
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇt
 stroke_count: "13"
 radical: 水
 skip_number: 1-3-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - wipe out

@@ -1,8 +1,7 @@
 ---
-mandarin: fán
-cantonese:
-  - faan4
-korean: 범
+mandarin: "fán"
+cantonese: "faan4"
+korean: "범"
 korean_native: 떨칠
 japanese:
   - HAN
@@ -14,7 +13,7 @@ middle_chinese_final: ɨɐm
 stroke_count: 11
 radical: 金
 skip_number: 1-8-3
-grade_level: 名
+grade_level: "名"
 pos: 固有名詞
 english: vanadium
 羅馬字: ban

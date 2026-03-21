@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tǔ
-cantonese:
-  - tou3
-korean:
-  - 토
+mandarin: "tǔ"
+cantonese: "tou3"
+korean: "토"
 korean_native: 토할
 japanese:
   - TO

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - zi6
-korean:
-  - 치
+mandarin: "zhì"
+cantonese: "zi6"
+korean: "치"
 korean_native: ""
 japanese:
   - CHI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiɪ
 stroke_count: 13
 radical: 隹
 skip_number: 1-5-8
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - green pheasant

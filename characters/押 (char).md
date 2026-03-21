@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yā
-cantonese:
-  - aat3
-korean:
-  - 압
+mandarin: "yā"
+cantonese: "aat3"
+korean: "압"
 korean_native: ""
 japanese:
   - OU
@@ -15,7 +12,7 @@ middle_chinese_final: ɣap
 stroke_count: "8"
 radical: 手
 skip_number: 1-3-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - mortgage

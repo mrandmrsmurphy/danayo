@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tiē
-cantonese:
-  - tip3
-korean:
-  - 첩
+mandarin: "tiē"
+cantonese: "tip3"
+korean: "첩"
 korean_native: ""
 japanese:
   - TEN

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hé
-cantonese:
-  - wo4
-korean:
-  - 화
+mandarin: "hé"
+cantonese: "wo4"
+korean: "화"
 korean_native: ""
 japanese:
   - KA
@@ -15,7 +12,7 @@ middle_chinese_final: uɑ
 stroke_count: 5
 radical: 禾
 skip_number: 4-5-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - grain

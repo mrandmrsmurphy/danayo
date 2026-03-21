@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yì
-cantonese:
-  - jik6
-korean:
-  - 익
+mandarin: "yì"
+cantonese: "jik6"
+korean: "익"
 korean_native: ""
 japanese:
   - YOKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨk
 stroke_count: 11
 radical: 羽
 skip_number: 2-6-5
-grade_level: 名
+grade_level: "名"
 pos: 格助詞
 english:
   - the following

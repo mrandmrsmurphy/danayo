@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yàng
-cantonese:
-  - joeng4
-korean:
-  - 양
+mandarin: "yàng"
+cantonese: "joeng4"
+korean: "양"
 korean_native: 모양
 japanese:
   - YOU

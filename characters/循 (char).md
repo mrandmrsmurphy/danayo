@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xún
-cantonese:
-  - ceon4
-korean:
-  - 순
+mandarin: "xún"
+cantonese: "ceon4"
+korean: "순"
 korean_native: ""
 japanese:
   - JUN
@@ -15,7 +12,7 @@ middle_chinese_final: iuɪn
 stroke_count: "12"
 radical: 彳
 skip_number: 1-3-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - to abide by

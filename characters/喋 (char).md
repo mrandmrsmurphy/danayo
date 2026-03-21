@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dié
-cantonese:
-  - dip6
-korean:
-  - 첩
+mandarin: "dié"
+cantonese: "dip6"
+korean: "첩"
 korean_native: ""
 japanese:
   - CHOU
@@ -16,7 +13,7 @@ middle_chinese_final: ep
 stroke_count: "12"
 radical: 口
 skip_number: 1-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - chatter

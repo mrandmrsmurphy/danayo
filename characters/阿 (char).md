@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ā
-cantonese:
-  - aa3
-korean:
-  - 아
+mandarin: "ā"
+cantonese: "aa3"
+korean: "아"
 korean_native: ""
 japanese:
   - A

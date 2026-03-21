@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bǐng
-cantonese:
-  - beng3
-korean:
-  - 병
+mandarin: "bǐng"
+cantonese: "beng3"
+korean: "병"
 korean_native: ""
 japanese:
   - HEI

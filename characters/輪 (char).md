@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lún
-cantonese:
-  - leon4
-korean:
-  - 륜
+mandarin: "lún"
+cantonese: "leon4"
+korean: "륜"
 korean_native: ""
 japanese:
   - RIN
@@ -15,7 +12,7 @@ middle_chinese_final: iuɪn
 stroke_count: 15
 radical: 車
 skip_number: 1-7-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - wheel

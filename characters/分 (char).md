@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fēn
-cantonese:
-  - fan1
-korean:
-  - 분
+mandarin: "fēn"
+cantonese: "fan1"
+korean: "분"
 korean_native: ""
 japanese:
   - BUN

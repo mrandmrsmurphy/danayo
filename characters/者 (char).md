@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhě
-cantonese:
-  - ze2
-korean:
-  - 자
+mandarin: "zhě"
+cantonese: "ze2"
+korean: "자"
 korean_native: ""
 japanese:
   - SHA
@@ -16,7 +13,7 @@ middle_chinese_final: ia
 stroke_count: 8
 radical: 老
 skip_number: 3-4-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - -er

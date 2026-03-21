@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huàn
-cantonese:
-  - waan6
-korean:
-  - 환
+mandarin: "huàn"
+cantonese: "waan6"
+korean: "환"
 korean_native: ""
 japanese:
   - KAN
@@ -16,7 +13,7 @@ middle_chinese_final: ɣuan
 stroke_count: 11
 radical: 心
 skip_number: 2-7-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - suffer from

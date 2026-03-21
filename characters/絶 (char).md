@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jué
-cantonese:
-  - zyut6
-korean:
-  - 절
+mandarin: "jué"
+cantonese: "zyut6"
+korean: "절"
 korean_native: ""
 japanese:
   - ZETSU
@@ -15,7 +12,7 @@ middle_chinese_final: iuᴇt
 stroke_count: "12"
 radical: 糸
 skip_number: 1-6-6
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - discontinue

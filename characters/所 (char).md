@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - suǒ
-cantonese:
-  - so2
-korean:
-  - 소
+mandarin: "suǒ"
+cantonese: "so2"
+korean: "소"
 korean_native: ""
 japanese:
   - SHO

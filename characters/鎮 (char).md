@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhèn
-cantonese:
-  - zan3
-korean:
-  - 진
+mandarin: "zhèn"
+cantonese: "zan3"
+korean: "진"
 korean_native: 진압할
 japanese:
   - CHIN

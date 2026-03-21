@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pǔ
-cantonese:
-  - pou2
-korean:
-  - 포
+mandarin: "pǔ"
+cantonese: "pou2"
+korean: "포"
 korean_native: ""
 japanese:
   - HO

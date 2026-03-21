@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dí
-cantonese:
-  - dik1
-korean:
-  - 적
+mandarin: "dí"
+cantonese: "dik1"
+korean: "적"
 korean_native: ""
 japanese:
   - CHAKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣæk
 stroke_count: "14"
 radical: 女
 skip_number: 1-3-11
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - legitimate wife

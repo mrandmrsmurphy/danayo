@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yuē
-cantonese:
-  - joek6
-korean:
-  - 왈
+mandarin: "yuē"
+cantonese: "joek6"
+korean: "왈"
 korean_native: ""
 japanese:
   - ETSU
@@ -15,7 +12,7 @@ middle_chinese_final: ʉɐt
 stroke_count: 4
 radical: 曰
 skip_number: 3-3-1
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - saith

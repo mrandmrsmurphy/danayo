@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qū
-cantonese:
-  - ceoi1
-korean:
-  - 추
+mandarin: "qū"
+cantonese: "ceoi1"
+korean: "추"
 korean_native: ""
 japanese:
   - SUU
@@ -17,7 +14,7 @@ middle_chinese_final: ɨo
 stroke_count: "17"
 radical: 走
 skip_number: 3-10-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - take many small steps towards

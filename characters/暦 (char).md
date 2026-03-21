@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lì
-cantonese:
-  - lik6
-korean:
-  - 력
+mandarin: "lì"
+cantonese: "lik6"
+korean: "력"
 korean_native: 책력
 japanese:
   - REKI

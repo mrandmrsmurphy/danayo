@@ -1,8 +1,6 @@
 ---
-mandarin:
-  - duó
-cantonese:
-  - dok6
+mandarin: "duó"
+cantonese: "dok6"
 korean:
 korean_native: ""
 japanese:
@@ -14,7 +12,7 @@ middle_chinese_final: ɑk
 stroke_count: 12
 radical: 金
 skip_number: 1-8-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - bronze bell

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xīn
-cantonese:
-  - sam1
-korean:
-  - 심
+mandarin: "xīn"
+cantonese: "sam1"
+korean: "심"
 korean_native: 마음
 japanese:
   - SHIN

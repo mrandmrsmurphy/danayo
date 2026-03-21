@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shǎng
-cantonese:
-  - soeng2
-korean:
-  - 상
+mandarin: "shǎng"
+cantonese: "soeng2"
+korean: "상"
 korean_native: ""
 japanese:
   - SHOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 15
 radical: 貝
 skip_number: 2-5-10
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - reward

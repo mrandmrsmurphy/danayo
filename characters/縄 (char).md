@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shéng
-cantonese:
-  - sing4
-korean:
-  - 승
+mandarin: "shéng"
+cantonese: "sing4"
+korean: "승"
 korean_native: なわ
 japanese:
   - JOU

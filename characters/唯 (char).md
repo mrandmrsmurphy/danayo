@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wéi
-cantonese:
-  - wai4
-korean:
-  - 유
+mandarin: "wéi"
+cantonese: "wai4"
+korean: "유"
 korean_native: 생각할
 japanese:
   - YUI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shuǐ
-cantonese:
-  - seoi2
-korean:
-  - 수
+mandarin: "shuǐ"
+cantonese: "seoi2"
+korean: "수"
 korean_native: ""
 japanese:
   - SUI

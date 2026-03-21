@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiá
-cantonese:
-  - hat6
-korean:
-  - 할
+mandarin: "xiá"
+cantonese: "hat6"
+korean: "할"
 korean_native: ""
 japanese:
   - KATSU

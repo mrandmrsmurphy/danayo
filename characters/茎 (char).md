@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jīng
-cantonese:
-  - hang1
-korean:
-  - 경
+mandarin: "jīng"
+cantonese: "hang1"
+korean: "경"
 korean_native: 줄기
 japanese:
   - KEI

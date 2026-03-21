@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sà
-cantonese:
-  - saap3
-korean:
-  - 삽
+mandarin: "sà"
+cantonese: "saap3"
+korean: "삽"
 korean_native: ""
 japanese:
   - SATSU
@@ -16,7 +13,7 @@ middle_chinese_final: ʌp
 stroke_count: 14
 radical: 風
 skip_number: 1-5-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - sound of wind

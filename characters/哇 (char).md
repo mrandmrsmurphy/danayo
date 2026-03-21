@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wa
-cantonese:
-  - waa1
-korean:
-  - 와
+mandarin: "wa"
+cantonese: "waa1"
+korean: "와"
 korean_native: ""
 japanese:
   - AI
@@ -17,7 +14,7 @@ middle_chinese_final: ɣua
 stroke_count: "9"
 radical: 口
 skip_number: 1-3-6
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - wow

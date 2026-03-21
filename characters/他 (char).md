@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tā
-cantonese:
-  - taa1
-korean:
-  - 타
+mandarin: "tā"
+cantonese: "taa1"
+korean: "타"
 korean_native: 남
 japanese:
   - TA

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - duǎn
-cantonese:
-  - dyun2
-korean:
-  - 단
+mandarin: "duǎn"
+cantonese: "dyun2"
+korean: "단"
 korean_native: 짧을
 japanese:
   - TAN

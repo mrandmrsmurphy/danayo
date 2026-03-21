@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xìng
-cantonese:
-  - hing1
-korean:
-  - 흥
+mandarin: "xìng"
+cantonese: "hing1"
+korean: "흥"
 korean_native: ""
 japanese:
   - KYOU

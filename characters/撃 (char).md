@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - jī
-cantonese:
-  - gik1
-korean: 격
+mandarin: "jī"
+cantonese: "gik1"
+korean: "격"
 korean_native: 부딪칠
 japanese:
   - GEKI

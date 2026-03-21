@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiǒng
-cantonese:
-  - gwing2
-korean:
-  - 형
+mandarin: "jiǒng"
+cantonese: "gwing2"
+korean: "형"
 korean_native: ""
 japanese:
   - KEI
@@ -16,7 +13,7 @@ middle_chinese_final: weŋ
 stroke_count: 9
 radical: 辵
 skip_number: 3-4-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - distant

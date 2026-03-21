@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - duì
-cantonese:
-  - deoi6
-korean:
-  - 대
+mandarin: "duì"
+cantonese: "deoi6"
+korean: "대"
 korean_native: ""
 japanese:
   - TAI
@@ -16,7 +13,7 @@ middle_chinese_final: uʌi
 stroke_count: "12"
 radical: 阜
 skip_number: 1-3-9
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - group

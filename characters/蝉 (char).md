@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chán
-cantonese:
-  - sim4
-korean:
-  - 선
+mandarin: "chán"
+cantonese: "sim4"
+korean: "선"
 korean_native: 매미
 japanese:
   - SEN
@@ -18,7 +15,7 @@ middle_chinese_final: iᴇn
 stroke_count: 15
 radical: 虫
 skip_number: 1-6-9
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english:
   - cicada

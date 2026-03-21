@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bù
-cantonese:
-  - bou6
-korean:
-  - 부
+mandarin: "bù"
+cantonese: "bou6"
+korean: "부"
 korean_native: ""
 japanese:
   - BU

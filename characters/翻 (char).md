@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fān
-cantonese:
-  - faan1
-korean:
-  - 번
+mandarin: "fān"
+cantonese: "faan1"
+korean: "번"
 korean_native: 펄럭일
 japanese:
   - HON

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xuán
-cantonese:
-  - jyun4
-korean:
-  - 현
+mandarin: "xuán"
+cantonese: "jyun4"
+korean: "현"
 korean_native: ""
 japanese:
   - GEN

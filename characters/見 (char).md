@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiàn
-cantonese:
-  - gin3
-korean:
-  - 견
+mandarin: "jiàn"
+cantonese: "gin3"
+korean: "견"
 korean_native: ""
 japanese:
   - KEN

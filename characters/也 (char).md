@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yě
-cantonese:
-  - jaa5
-korean:
-  - 야
+mandarin: "yě"
+cantonese: "jaa5"
+korean: "야"
 korean_native: ""
 japanese:
   - YA

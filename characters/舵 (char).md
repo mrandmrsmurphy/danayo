@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - duò
-cantonese:
-  - to4
-korean:
-  - 타
+mandarin: "duò"
+cantonese: "to4"
+korean: "타"
 korean_native: ""
 japanese:
   - TA
@@ -16,7 +13,7 @@ middle_chinese_final: a
 stroke_count: "11"
 radical: 舟
 skip_number: 1-6-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - rudder

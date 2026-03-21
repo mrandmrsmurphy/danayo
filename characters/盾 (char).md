@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dùn
-cantonese:
-  - teon5
-korean:
-  - 순
+mandarin: "dùn"
+cantonese: "teon5"
+korean: "순"
 korean_native: ""
 japanese:
   - JUN
@@ -16,7 +13,7 @@ middle_chinese_final: iuɪn
 stroke_count: 9
 radical: 目
 skip_number: 3-2-7
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - shield

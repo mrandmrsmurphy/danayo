@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dì
-cantonese:
-  - dai3
-korean:
-  - 체
+mandarin: "dì"
+cantonese: "dai3"
+korean: "체"
 korean_native: ""
 japanese:
   - TEI
@@ -16,7 +13,7 @@ middle_chinese_final: ei
 stroke_count: 16
 radical: 言
 skip_number: 1-7-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - truth (Buddhist)

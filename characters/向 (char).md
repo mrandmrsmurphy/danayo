@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiàng
-cantonese:
-  - hoeng3
-korean:
-  - 향
+mandarin: "xiàng"
+cantonese: "hoeng3"
+korean: "향"
 korean_native: 향할
 japanese:
   - KOU

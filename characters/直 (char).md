@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhí
-cantonese:
-  - zik6
-korean:
-  - 직
+mandarin: "zhí"
+cantonese: "zik6"
+korean: "직"
 korean_native: ""
 japanese:
   - CHOKU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cán
-cantonese:
-  - caan4
-korean:
-  - 잔
+mandarin: "cán"
+cantonese: "caan4"
+korean: "잔"
 korean_native: 해칠
 japanese:
   - ZAN

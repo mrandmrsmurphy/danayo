@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lán
-cantonese:
-  - laam4
-korean:
-  - 람
+mandarin: "lán"
+cantonese: "laam4"
+korean: "람"
 korean_native: ""
 japanese:
   - RAN

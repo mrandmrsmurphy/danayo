@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huà
-cantonese:
-  - faa3
-korean:
-  - 화
+mandarin: "huà"
+cantonese: "faa3"
+korean: "화"
 korean_native: ""
 japanese:
   - KA

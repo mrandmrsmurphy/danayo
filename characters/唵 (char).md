@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ǎn
-cantonese:
-  - am2
-korean:
-  - 암
+mandarin: "ǎn"
+cantonese: "am2"
+korean: "암"
 korean_native: ""
 japanese:
   - AN
@@ -16,7 +13,7 @@ middle_chinese_final: ʌm
 stroke_count: "11"
 radical: 口
 skip_number: 1-3-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - Ohm

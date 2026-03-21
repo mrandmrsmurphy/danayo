@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dié
-cantonese:
-  - dip6
-korean:
-  - 첩
+mandarin: "dié"
+cantonese: "dip6"
+korean: "첩"
 korean_native: 거듭
 japanese:
   - JOU

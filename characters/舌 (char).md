@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shé
-cantonese:
-  - sit3
-korean:
-  - 설
+mandarin: "shé"
+cantonese: "sit3"
+korean: "설"
 korean_native: ""
 japanese:
   - ZETSU
@@ -16,7 +13,7 @@ middle_chinese_final: iᴇt
 stroke_count: 6
 radical: 舌
 skip_number: 2-3-3
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - tongue

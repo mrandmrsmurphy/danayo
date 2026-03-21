@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shù
-cantonese:
-  - seot6
-korean:
-  - 술
+mandarin: "shù"
+cantonese: "seot6"
+korean: "술"
 korean_native: ""
 japanese:
   - JUTSU

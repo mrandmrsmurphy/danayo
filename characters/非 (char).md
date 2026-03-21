@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fēi
-cantonese:
-  - fei1
-korean:
-  - 비
+mandarin: "fēi"
+cantonese: "fei1"
+korean: "비"
 korean_native: 아닐
 japanese:
   - HI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ruò
-cantonese:
-  - joek6
-korean:
-  - 야
+mandarin: "ruò"
+cantonese: "joek6"
+korean: "야"
 korean_native: ""
 japanese:
   - JAKU
@@ -16,7 +13,7 @@ middle_chinese_final: ia
 stroke_count: 8
 radical: 艸
 skip_number: 2-3-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - if

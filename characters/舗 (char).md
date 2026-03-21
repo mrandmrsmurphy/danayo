@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pù
-cantonese:
-  - pou3
-korean:
-  - 포
+mandarin: "pù"
+cantonese: "pou3"
+korean: "포"
 korean_native: 펼
 japanese:
   - HO

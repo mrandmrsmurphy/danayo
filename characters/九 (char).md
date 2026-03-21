@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - jiǔ
-cantonese: gau2
-korean:
-  - 구
+mandarin: "jiǔ"
+cantonese: "gau2"
+korean: "구"
 korean_native: 아홉
 japanese:
   - KYUU

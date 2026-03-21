@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qǐ
-cantonese:
-  - hei2
-korean:
-  - 기
+mandarin: "qǐ"
+cantonese: "hei2"
+korean: "기"
 korean_native: ""
 japanese:
   - KI
@@ -15,7 +12,7 @@ middle_chinese_final: ɨ
 stroke_count: "10"
 radical: 走
 skip_number: 3-7-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - rise up

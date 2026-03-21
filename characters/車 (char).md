@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chē
-cantonese:
-  - ce1
-korean:
-  - 거
+mandarin: "chē"
+cantonese: "ce1"
+korean: "거"
 korean_native: 수레
 japanese:
   - SHA

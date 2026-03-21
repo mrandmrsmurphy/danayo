@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - liǎn
-cantonese:
-  - lim5
-korean:
-  - 렴
+mandarin: "liǎn"
+cantonese: "lim5"
+korean: "렴"
 korean_native: ""
 japanese:
   - REN
@@ -17,7 +14,7 @@ middle_chinese_final: iᴇm
 stroke_count: 12
 radical: 攴
 skip_number: 1-8-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - gather

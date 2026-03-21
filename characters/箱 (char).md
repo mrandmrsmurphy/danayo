@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiāng
-cantonese:
-  - soeng1
-korean:
-  - 상
+mandarin: "xiāng"
+cantonese: "soeng1"
+korean: "상"
 korean_native: ""
 japanese:
   - SHOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: "15"
 radical: 竹
 skip_number: 1-6-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - case

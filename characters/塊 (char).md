@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuài
-cantonese:
-  - faai3
-korean:
-  - 괴
+mandarin: "kuài"
+cantonese: "faai3"
+korean: "괴"
 korean_native: ""
 japanese:
   - KAI
@@ -15,7 +12,7 @@ middle_chinese_final: uʌi
 stroke_count: "13"
 radical: 土
 skip_number: 1-3-10
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - lump

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wù
-cantonese:
-  - mou6
-korean:
-  - 무
+mandarin: "wù"
+cantonese: "mou6"
+korean: "무"
 korean_native: ""
 japanese:
   - MU

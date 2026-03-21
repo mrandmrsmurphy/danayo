@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mù
-cantonese:
-  - muk6
-korean:
-  - 목
+mandarin: "mù"
+cantonese: "muk6"
+korean: "목"
 korean_native: ""
 japanese:
   - BOKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨuk
 stroke_count: 8
 radical: 牛
 skip_number: 1-4-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - shepherd

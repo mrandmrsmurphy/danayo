@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - suǒ
-cantonese:
-  - so2
-korean:
-  - 쇄
+mandarin: "suǒ"
+cantonese: "so2"
+korean: "쇄"
 korean_native: ""
 japanese:
   - SA
@@ -15,7 +12,7 @@ middle_chinese_final: uɑ
 stroke_count: 18
 radical: 金
 skip_number: 1-8-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - chain

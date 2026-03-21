@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rǒng
-cantonese:
-  - jung2
-korean:
-  - 용
+mandarin: "rǒng"
+cantonese: "jung2"
+korean: "용"
 korean_native: ""
 japanese:
   - JOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: 4
 radical: 冖
 skip_number: 2-2-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - superfluous

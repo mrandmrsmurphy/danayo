@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gǔ
-cantonese:
-  - gwat1
-korean:
-  - 골
+mandarin: "gǔ"
+cantonese: "gwat1"
+korean: "골"
 korean_native: ""
 japanese:
   - KOTSU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shū
-cantonese:
-  - syu1
-korean:
-  - 추
+mandarin: "shū"
+cantonese: "syu1"
+korean: "추"
 korean_native: 지도리
 japanese:
   - SUU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨo
 stroke_count: 8
 radical: 木
 skip_number: 1-4-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - hinge

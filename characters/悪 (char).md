@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - è
-cantonese:
-  - ok3
-korean:
-  - 악
+mandarin: "è"
+cantonese: "ok3"
+korean: "악"
 korean_native: 악할
 japanese:
   - AKU

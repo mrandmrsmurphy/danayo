@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - àn
-cantonese:
-  - ngon6
-korean:
-  - 안
+mandarin: "àn"
+cantonese: "ngon6"
+korean: "안"
 korean_native: 언덕
 japanese:
   - GAN

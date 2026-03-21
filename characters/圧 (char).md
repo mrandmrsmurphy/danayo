@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yā
-cantonese:
-  - zong1
-korean:
-  - 압
+mandarin: "yā"
+cantonese: "zong1"
+korean: "압"
 korean_native: 누를
 japanese:
   - ATSU

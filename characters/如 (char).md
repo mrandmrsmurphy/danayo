@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rú
-cantonese:
-  - jyu4
-korean:
-  - 여
+mandarin: "rú"
+cantonese: "jyu4"
+korean: "여"
 korean_native: ""
 japanese:
   - JO
@@ -16,7 +13,7 @@ middle_chinese_final: ɨʌ
 stroke_count: "6"
 radical: 女
 skip_number: 1-3-3
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - like

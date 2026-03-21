@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dāi
-cantonese:
-  - ngoi4
-korean:
-  - 매
+mandarin: "dāi"
+cantonese: "ngoi4"
+korean: "매"
 korean_native: ""
 japanese:
   - BOU
@@ -17,7 +14,7 @@ middle_chinese_final: uʌi
 stroke_count: 7
 radical: 口
 skip_number: 2-3-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - confused

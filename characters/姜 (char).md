@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiāng
-cantonese:
-  - goeng1
-korean:
-  - 강
+mandarin: "jiāng"
+cantonese: "goeng1"
+korean: "강"
 korean_native: ""
 japanese:
   - KYOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 9
 radical: 女
 skip_number: 2-6-3
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - ginger

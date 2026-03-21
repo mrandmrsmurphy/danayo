@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhe
-cantonese:
-  - zoek6
-korean:
-  - 착
+mandarin: "zhe"
+cantonese: "zoek6"
+korean: "착"
 korean_native: ""
 japanese:
   - CHAKU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨɐk
 stroke_count: "12"
 radical: 目
 skip_number: 3-7-5
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - wear

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yīn
-cantonese:
-  - jam1
-korean:
-  - 음
+mandarin: "yīn"
+cantonese: "jam1"
+korean: "음"
 korean_native: 그늘
 japanese:
   - IN

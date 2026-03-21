@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - duō
-cantonese:
-  - do1
-korean:
-  - 다
+mandarin: "duō"
+cantonese: "do1"
+korean: "다"
 korean_native: ""
 japanese:
   - TA

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shāo
-cantonese:
-  - saau2
-korean:
-  - 초
+mandarin: "shāo"
+cantonese: "saau2"
+korean: "초"
 korean_native: ""
 japanese:
   - SOU
@@ -16,7 +13,7 @@ middle_chinese_final: ɣau
 stroke_count: 12
 radical: 禾
 skip_number: 1-5-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - slightly

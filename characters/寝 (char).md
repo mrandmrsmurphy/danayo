@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - qǐn
-cantonese:
-  - cam2
-korean:
-  - 침
+mandarin: "qǐn"
+cantonese: "cam2"
+korean: "침"
 korean_native: 잠잘
 japanese:
   - SHIN

@@ -1,7 +1,7 @@
 ---
-mandarin: sān
-cantonese: saam1
-korean: 삼
+mandarin: "sān"
+cantonese: "saam1"
+korean: "삼"
 korean_native: 셋
 japanese: SAN
 japanese_nanori: かず

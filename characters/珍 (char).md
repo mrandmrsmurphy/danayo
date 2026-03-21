@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhēn
-cantonese:
-  - zan1
-korean:
-  - 진
+mandarin: "zhēn"
+cantonese: "zan1"
+korean: "진"
 korean_native: ""
 japanese:
   - CHIN
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiɪn
 stroke_count: 9
 radical: 玉
 skip_number: 1-4-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - rare

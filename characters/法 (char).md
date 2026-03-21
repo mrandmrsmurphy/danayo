@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fǎ
-cantonese:
-  - faat3
-korean:
-  - 법
+mandarin: "fǎ"
+cantonese: "faat3"
+korean: "법"
 korean_native: ""
 japanese:
   - HOU

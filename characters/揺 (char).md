@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yáo
-cantonese:
-  - jiu4
-korean:
-  - 요
+mandarin: "yáo"
+cantonese: "jiu4"
+korean: "요"
 korean_native: 흔들
 japanese:
   - YOU

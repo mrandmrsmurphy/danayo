@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - rùn
-cantonese:
-  - jeon6
-korean:
-  - 윤
+mandarin: "rùn"
+cantonese: "jeon6"
+korean: "윤"
 korean_native: ""
 japanese:
   - JUN
@@ -15,7 +12,7 @@ middle_chinese_final: iuɪn
 stroke_count: 12
 radical: 門
 skip_number: 3-8-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - intercalary

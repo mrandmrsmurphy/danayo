@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zuò
-cantonese:
-  - zok3
-korean:
-  - 작
+mandarin: "zuò"
+cantonese: "zok3"
+korean: "작"
 korean_native: ""
 japanese:
   - SAKU

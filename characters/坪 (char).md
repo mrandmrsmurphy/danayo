@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - píng
-cantonese:
-  - ping4
-korean:
-  - 평
+mandarin: "píng"
+cantonese: "ping4"
+korean: "평"
 korean_native: ""
 japanese:
   - HEI
@@ -16,7 +13,7 @@ middle_chinese_final: ɣiæŋ
 stroke_count: 8
 radical: 土
 skip_number: 1-3-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - level ground

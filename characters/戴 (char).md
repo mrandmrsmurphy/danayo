@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dài
-cantonese:
-  - daai3
-korean:
-  - 대
+mandarin: "dài"
+cantonese: "daai3"
+korean: "대"
 korean_native: ""
 japanese:
   - TAI
@@ -15,7 +12,7 @@ middle_chinese_final: ʌi
 stroke_count: 17
 radical: 戈
 skip_number: 3-6-11
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - be crowned with

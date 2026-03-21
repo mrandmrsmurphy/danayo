@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - yù
-cantonese:
-  - jyu6
-korean:
-  - 우
+mandarin: "yù"
+cantonese: "jyu6"
+korean: "우"
 korean_native: ""
 japanese:
   - GUU
@@ -16,7 +13,7 @@ middle_chinese_final: ɨo
 stroke_count: 12
 radical: 辵
 skip_number: 3-3-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - meet

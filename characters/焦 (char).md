@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiāo
-cantonese:
-  - ziu1
-korean:
-  - 초
+mandarin: "jiāo"
+cantonese: "ziu1"
+korean: "초"
 korean_native: ""
 japanese:
   - SHOU
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇu
 stroke_count: 12
 radical: 火
 skip_number: 2-8-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - burned

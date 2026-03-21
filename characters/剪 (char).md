@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiǎn
-cantonese:
-  - zin2
-korean:
-  - 전
+mandarin: "jiǎn"
+cantonese: "zin2"
+korean: "전"
 korean_native: ""
 japanese:
   - SEN
@@ -15,7 +12,7 @@ middle_chinese_final: iᴇn
 stroke_count: 11
 radical: 刀
 skip_number: 2-3-8
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - scissors

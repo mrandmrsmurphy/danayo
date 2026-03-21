@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gù
-cantonese:
-  - gu3
-korean:
-  - 고
+mandarin: "gù"
+cantonese: "gu3"
+korean: "고"
 korean_native: 땜질하다, 막다, 붙들어 매다
 japanese:
   - KO
@@ -17,7 +14,7 @@ middle_chinese_final: uo
 stroke_count: 16
 radical: 金
 skip_number: 2-8-8
-grade_level: 先進
+grade_level: "先進"
 pos: 性詞
 english:
   - obstinant

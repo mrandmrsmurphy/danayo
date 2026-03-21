@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - huó
-cantonese:
-  - wut6
-korean:
-  - 활
+mandarin: "huó"
+cantonese: "wut6"
+korean: "활"
 korean_native: ""
 japanese:
   - KATSU

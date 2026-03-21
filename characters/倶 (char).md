@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jù
-cantonese:
-  - keoi1
-korean:
-  - 구
+mandarin: "jù"
+cantonese: "keoi1"
+korean: "구"
 korean_native: 함께
 japanese:
   - KU

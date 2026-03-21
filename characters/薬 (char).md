@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - yào
-cantonese: yeuk6
-korean:
-  - 약
+mandarin: "yào"
+cantonese: "yeuk6"
+korean: "약"
 korean_native: 약
 japanese:
   - YAKU

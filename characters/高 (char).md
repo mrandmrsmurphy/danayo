@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gāo
-cantonese:
-  - gou1
-korean:
-  - 고
+mandarin: "gāo"
+cantonese: "gou1"
+korean: "고"
 korean_native: ""
 japanese:
   - KOU

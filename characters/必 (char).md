@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - bì
-cantonese:
-  - bit1
-korean:
-  - 필
+mandarin: "bì"
+cantonese: "bit1"
+korean: "필"
 korean_native: ""
 japanese:
   - HITSU

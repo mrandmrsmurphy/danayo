@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhóu
-cantonese:
-  - zuk6
-korean:
-  - 축
+mandarin: "zhóu"
+cantonese: "zuk6"
+korean: "축"
 korean_native: ""
 japanese:
   - JIKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨuk
 stroke_count: 12
 radical: 車
 skip_number: 1-7-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - axis

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - wèi
-cantonese:
-  - wai3
-korean:
-  - 위
+mandarin: "wèi"
+cantonese: "wai3"
+korean: "위"
 korean_native: ""
 japanese:
   - I
@@ -15,7 +12,7 @@ middle_chinese_final: ɨut
 stroke_count: 11
 radical: 寸
 skip_number: 1-8-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - officer

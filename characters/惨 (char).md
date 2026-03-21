@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cǎn
-cantonese:
-  - caam2
-korean:
-  - 참
+mandarin: "cǎn"
+cantonese: "caam2"
+korean: "참"
 korean_native: 참혹할
 japanese:
   - SAN

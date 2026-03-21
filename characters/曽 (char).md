@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cēng
-cantonese:
-  - zang1
-korean:
-  - 증
+mandarin: "cēng"
+cantonese: "zang1"
+korean: "증"
 korean_native: 일찍
 japanese:
   - ZO

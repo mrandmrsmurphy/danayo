@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fáng
-cantonese:
-  - fong1
-korean:
-  - 방
+mandarin: "fáng"
+cantonese: "fong1"
+korean: "방"
 korean_native: ""
 japanese:
   - BOU

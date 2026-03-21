@@ -1,9 +1,7 @@
 ---
-mandarin:
-  - jiàn
-cantonese:
-  - gim3
-korean: 검
+mandarin: "jiàn"
+cantonese: "gim3"
+korean: "검"
 korean_native: 칼
 japanese:
   - KEN

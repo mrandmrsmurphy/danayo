@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chūn
-cantonese:
-  - ceon1
-korean:
-  - 춘
+mandarin: "chūn"
+cantonese: "ceon1"
+korean: "춘"
 korean_native: 봄
 japanese:
   - SHUN

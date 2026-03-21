@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chéng
-cantonese:
-  - sing4
-korean:
-  - 성
+mandarin: "chéng"
+cantonese: "sing4"
+korean: "성"
 korean_native: ""
 japanese:
   - SEI

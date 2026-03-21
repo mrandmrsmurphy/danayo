@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - fēng
-cantonese:
-  - fung1
-korean:
-  - 봉
+mandarin: "fēng"
+cantonese: "fung1"
+korean: "봉"
 korean_native: ""
 japanese:
   - HOU

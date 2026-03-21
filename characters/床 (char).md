@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chuáng
-cantonese:
-  - cong4
-korean:
-  - 상
+mandarin: "chuáng"
+cantonese: "cong4"
+korean: "상"
 korean_native: ""
 japanese:
   - SHOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 7
 radical: 广
 skip_number: 3-3-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - bed

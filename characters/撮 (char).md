@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cuō
-cantonese:
-  - cyut3
-korean:
-  - 촬
+mandarin: "cuō"
+cantonese: "cyut3"
+korean: "촬"
 korean_native: ""
 japanese:
   - SATSU
@@ -16,7 +13,7 @@ middle_chinese_final: uɑt
 stroke_count: "15"
 radical: 手
 skip_number: 1-3-12
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - small amount

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhòng
-cantonese:
-  - cung5
-korean:
-  - 중
+mandarin: "zhòng"
+cantonese: "cung5"
+korean: "중"
 korean_native:
 japanese:
   - CHOU

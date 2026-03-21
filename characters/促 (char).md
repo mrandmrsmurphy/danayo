@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - cù
-cantonese:
-  - cuk1
-korean:
-  - 촉
+mandarin: "cù"
+cantonese: "cuk1"
+korean: "촉"
 korean_native: ""
 japanese:
   - SOKU

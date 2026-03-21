@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - kuǎn
-cantonese:
-  - fun2
-korean:
-  - 관
+mandarin: "kuǎn"
+cantonese: "fun2"
+korean: "관"
 korean_native: ""
 japanese:
   - KAN

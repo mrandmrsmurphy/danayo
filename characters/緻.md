@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - zi3
-korean:
-  - 치
+mandarin: "zhì"
+cantonese: "zi3"
+korean: "치"
 korean_native: ""
 japanese:
   - CHI

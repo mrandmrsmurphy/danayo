@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shī
-cantonese:
-  - sap1
-korean:
-  - 습
+mandarin: "shī"
+cantonese: "sap1"
+korean: "습"
 korean_native: 축축할
 japanese:
   - SHITSU

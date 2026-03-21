@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nèn
-cantonese:
-  - nyun6
-korean:
-  - 눈
+mandarin: "nèn"
+cantonese: "nyun6"
+korean: "눈"
 korean_native: ""
 japanese:
   - DON
@@ -17,7 +14,7 @@ middle_chinese_final: uən
 stroke_count: 14
 radical: 女
 skip_number: 1-3-11
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - delicate

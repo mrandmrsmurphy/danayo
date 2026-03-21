@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - jiá
-cantonese:
-  - gaap3
-korean:
-  - 협
+mandarin: "jiá"
+cantonese: "gaap3"
+korean: "협"
 korean_native: ""
 japanese:
   - KYOU
@@ -15,7 +12,7 @@ middle_chinese_final: ep
 stroke_count: 15
 radical: 金
 skip_number: 1-8-7
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - tongs

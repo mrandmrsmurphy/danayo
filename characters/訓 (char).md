@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xùn
-cantonese:
-  - fan3
-korean:
-  - 훈
+mandarin: "xùn"
+cantonese: "fan3"
+korean: "훈"
 korean_native: ""
 japanese:
   - KUN
@@ -16,7 +13,7 @@ middle_chinese_final: ɨun
 stroke_count: 10
 radical: 言
 skip_number: 1-7-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - interpret

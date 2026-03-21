@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - shuā
-cantonese:
-  - caat3
-korean:
-  - 쇄
+mandarin: "shuā"
+cantonese: "caat3"
+korean: "쇄"
 korean_native: ""
 japanese:
   - SATSU

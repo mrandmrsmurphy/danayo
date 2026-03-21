@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - dài
-cantonese:
-  - doi6
-korean:
-  - 대
+mandarin: "dài"
+cantonese: "doi6"
+korean: "대"
 korean_native: ""
 japanese:
   - TAI
@@ -15,7 +12,7 @@ middle_chinese_final: ʌi
 stroke_count: 11
 radical: 衣
 skip_number: 2-5-6
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sack

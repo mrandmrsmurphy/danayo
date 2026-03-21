@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - mǎn
-cantonese:
-  - mun5
-korean:
-  - 만
+mandarin: "mǎn"
+cantonese: "mun5"
+korean: "만"
 korean_native: 찰
 japanese:
   - MAN

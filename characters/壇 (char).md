@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - tán
-cantonese:
-  - taan4
-korean:
-  - 단
+mandarin: "tán"
+cantonese: "taan4"
+korean: "단"
 korean_native: ""
 japanese:
   - DAN

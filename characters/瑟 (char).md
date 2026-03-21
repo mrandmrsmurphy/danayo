@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sè
-cantonese:
-  - sat1
-korean:
-  - 슬
+mandarin: "sè"
+cantonese: "sat1"
+korean: "슬"
 korean_native: ""
 japanese:
   - SHITSU
@@ -15,7 +12,7 @@ middle_chinese_final: ɪt
 stroke_count: 13
 radical: 玉
 skip_number: 2-8-5
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - se (instrument)

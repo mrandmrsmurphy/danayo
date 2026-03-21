@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - hún
-cantonese:
-  - wan4
-korean:
-  - 혼
+mandarin: "hún"
+cantonese: "wan4"
+korean: "혼"
 korean_native: ""
 japanese:
   - KON
@@ -16,7 +13,7 @@ middle_chinese_final: uən
 stroke_count: 14
 radical: 鬼
 skip_number: 1-4-10
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - soul

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - zhì
-cantonese:
-  - zi3
-korean:
-  - 경
+mandarin: "zhì"
+cantonese: "zi3"
+korean: "경"
 korean_native: 가벼울
 japanese:
   - KEI

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - chuí
-cantonese:
-  - ceoi4
-korean:
-  - 퇴
+mandarin: "chuí"
+cantonese: "ceoi4"
+korean: "퇴"
 korean_native: ""
 japanese:
   - TSUI
@@ -15,7 +12,7 @@ middle_chinese_final: ɣiuᴇ
 stroke_count: 13
 radical: 木
 skip_number: 1-4-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - hammer

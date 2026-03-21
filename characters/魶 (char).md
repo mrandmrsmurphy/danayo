@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - nà
-cantonese:
-  - naap6
-korean:
-  - 납
+mandarin: "nà"
+cantonese: "naap6"
+korean: "납"
 korean_native: 도롱뇽
 japanese:
   - NATSU
@@ -16,7 +13,7 @@ middle_chinese_final: ʌp
 stroke_count: 15
 radical: 魚
 skip_number: 1-11-4
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english:
   - giant salamander

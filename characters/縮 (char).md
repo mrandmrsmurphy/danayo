@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - suō
-cantonese:
-  - suk1
-korean:
-  - 축
+mandarin: "suō"
+cantonese: "suk1"
+korean: "축"
 korean_native: ""
 japanese:
   - SHUKU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨuk
 stroke_count: "17"
 radical: 糸
 skip_number: 1-6-11
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - shrink

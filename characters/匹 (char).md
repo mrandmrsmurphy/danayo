@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pǐ
-cantonese:
-  - pat1
-korean:
-  - 필
+mandarin: "pǐ"
+cantonese: "pat1"
+korean: "필"
 korean_native: ""
 japanese:
   - HITSU

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - liáng
-cantonese:
-  - loeng4
-korean:
-  - 량
+mandarin: "liáng"
+cantonese: "loeng4"
+korean: "량"
 korean_native: ""
 japanese:
   - RYOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨɐŋ
 stroke_count: 11
 radical: 木
 skip_number: 2-7-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - girder

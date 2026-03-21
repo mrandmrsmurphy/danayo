@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - pū
-cantonese:
-  - pok3
-korean:
-  - 박
+mandarin: "pū"
+cantonese: "pok3"
+korean: "박"
 korean_native: ""
 japanese:
   - BOKU
@@ -17,7 +14,7 @@ middle_chinese_final: uk
 stroke_count: "15"
 radical: 手
 skip_number: 1-3-12
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - rush at

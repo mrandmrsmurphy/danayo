@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xǐ
-cantonese:
-  - sai2
-korean:
-  - 선
+mandarin: "xǐ"
+cantonese: "sai2"
+korean: "선"
 korean_native: ""
 japanese:
   - SEN

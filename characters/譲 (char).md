@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ràng
-cantonese:
-  - joeng6
-korean:
-  - 양
+mandarin: "ràng"
+cantonese: "joeng6"
+korean: "양"
 korean_native: 사양할
 japanese:
   - JOU

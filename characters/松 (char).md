@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sōng
-cantonese:
-  - cung4
-korean:
-  - 송
+mandarin: "sōng"
+cantonese: "cung4"
+korean: "송"
 korean_native: ""
 japanese:
   - SHOU
@@ -15,7 +12,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: 8
 radical: 木
 skip_number: 1-4-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - pine

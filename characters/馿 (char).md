@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - lǘ
-cantonese:
-  - lou4
-korean:
-  - 려
+mandarin: "lǘ"
+cantonese: "lou4"
+korean: "려"
 korean_native: 나귀
 japanese:
   - RO
@@ -15,7 +12,7 @@ middle_chinese_final: ɨʌ
 stroke_count: 14
 radical: 馬
 skip_number: 1-10-4
-grade_level: 名
+grade_level: "名"
 pos: 名詞
 english:
   - donkey

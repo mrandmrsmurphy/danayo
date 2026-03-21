@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - sháo
-cantonese:
-  - zoek3
-korean:
-  - 작
+mandarin: "sháo"
+cantonese: "zoek3"
+korean: "작"
 korean_native: ""
 japanese:
   - SHAKU

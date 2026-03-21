@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - xiè
-cantonese:
-  - haai5
-korean:
-  - 해
+mandarin: "xiè"
+cantonese: "haai5"
+korean: "해"
 korean_native: ""
 japanese:
   - KAI
@@ -15,7 +12,7 @@ middle_chinese_final: ɣɛ
 stroke_count: "19"
 radical: 虫
 skip_number: 2-6-13
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - crab

@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - ér
-cantonese:
-  - ji4
-korean:
-  - 이
+mandarin: "ér"
+cantonese: "ji4"
+korean: "이"
 korean_native: ""
 japanese:
   - JI

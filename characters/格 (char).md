@@ -1,10 +1,7 @@
 ---
-mandarin:
-  - gé
-cantonese:
-  - gaak3
-korean:
-  - 격
+mandarin: "gé"
+cantonese: "gaak3"
+korean: "격"
 korean_native: "바로잡을"
 japanese:
   - KOU
