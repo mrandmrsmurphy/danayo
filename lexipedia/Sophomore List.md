@@ -75,7 +75,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- muscle - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>, 
 	- brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>
 - Animals : 
-	- cat, 
+	- cat - <ruby>[猫](/words/猫.md)<rt>ㄇ˙ㄚˇ</rt></ruby>
 	- cow, 
 	- chicken, 
 	- horse, 
