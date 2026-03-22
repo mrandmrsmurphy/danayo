@@ -1,12 +1,13 @@
 ---
-mandarin: "lǐ"
-cantonese: "lei5"
-korean: "리"
+mandarin: lǐ
+cantonese: lei5
+korean: 리
 korean_native: 마을
 japanese:
   - RI
 japanese_nanori: ""
 vietnamese:
+  - lý
 middle_chinese_initial: l
 middle_chinese_final: ɨ
 stroke_count: 7
@@ -28,6 +29,7 @@ stand_in: 里
 aliases:
   - 哩
 注音: ㄌㄧ
+kwin: true
 ---
 >[!tip] This is a page about the character 里.
 >For the word, see [里](words/里.md)

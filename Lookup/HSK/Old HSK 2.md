@@ -1,12 +1,12 @@
-[[不]]: 41
-[[大]]: 38
-[[人]]: 26
-[[用]]: 26
-[[面]]: 25
-[[心]]: 24
-[[方]]: 19
-[[好]]: 19
-[[地]]: 19
+[不 (char)](characters/不%20(char).md): 41
+[大 (char)](characters/大%20(char).md): 38
+[人 (char)](characters/人%20(char).md): 26
+[用](characters/用.md): 26
+[面](characters/面.md): 25
+[心 (char)](characters/心%20(char).md): 24
+[方](characters/方.md): 19
+[好 (char)](characters/好%20(char).md): 19
+[[地: 19
 [[自]]: 18
 [[事]]: 18
 [[动]]: 18
@@ -923,46 +923,44 @@
 [[京]]: 2
 [[剧]]: 2
 [[劇]]: 2
-[[镜]]: 2
+[镜](characters/鏡%20(char).md): 2
 [[鏡]]: 2
 [[究]]: 2
 [[局]]: 2
 [[举]]: 2
 [[舉]]: 2
 [[拒]]: 2
-[[绝]]: 2
+[绝](characters/絶%20(char).md): 2
 [[絕]]: 2
 [[俱]]: 2
-[[说]]: 2
-[[說]]: 2
-[[距]]: 2
-[[悟]]: 2
-[[朗]]: 2
-[[姓]]: 2
-[[拜]]: 2
-[[堂]]: 2
-[[里]]: 2
-[[裡]]: 2
-[[髮]]: 2
-[[联]]: 2
-[[聯]]: 2
-[[居]]: 2
-[[零]]: 2
-[[袖]]: 2
-[[船]]: 2
-[[么]]: 2
-[[麼]]: 2
-[[元]]: 2
-[[棉]]: 2
-[[描]]: 2
-[[墨]]: 2
-[[内]]: 2
-[[內]]: 2
-[[那]]: 2
+[说](characters/説.md): 2
+[說](characters/説.md): 2
+[距](characters/距.md): 2
+[悟](characters/悟.md): 2
+[朗](characters/朗.md): 2
+[姓](characters/姓.md): 2
+[拜](characters/拝%20(char).md): 2
+[堂](characters/堂.md): 2
+[裡](characters/裏.md): 2
+[髮](characters/髪.md): 2
+[联](characters/連%20(char).md): 2
+[聯](characters/連%20(char).md): 2
+[居](characters/居.md): 2
+[零 (char)](characters/零%20(char).md): 2
+[袖 (char)](characters/袖%20(char).md): 2
+[船](characters/船.md): 2
+么: 2
+麼: 2
+[元](characters/元.md): 2
+[棉](characters/綿.md): 2
+[描](characters/描.md): 2
+[墨](characters/墨.md): 2
+[内](characters/内.md): 2
+[那 (char)](characters/那%20(char).md): 2
 [[奶]]: 2
-[[耐]]: 2
+[耐 (char)](characters/耐%20(char).md): 2
 [[脑]]: 2
-[[腦]]: 2
+[腦](characters/脳%20(char).md): 2
 [[碰]]: 2
 [[疲]]: 2
 [[脾]]: 2

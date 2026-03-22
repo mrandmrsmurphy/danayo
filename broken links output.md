@@ -735,7 +735,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- [[里]] in [[syllables/ㄌㄧ]]
 - [[鱗]] in [[syllables/ㄌㄧㄋ]]
 - [[関]] in [[syllables/ㄍˇㄚㄇ]]
 - [[魶]] in [[syllables/ㄋㄨㄆ]]
