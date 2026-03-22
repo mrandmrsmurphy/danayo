@@ -73,7 +73,7 @@ All of these have been checked for redirects.
 [戮](characters/戮.md)
 
 ### 륜 
-侖! [崙](characters/崙.md) [[綸]] [[淪]] [[錀]] roentgenium
+侖! [崙](characters/崙.md) [[綸]] [[淪]] [[characters/錀 (char)]] roentgenium
 
 ### 률 
 [慄](characters/慄%20(char).md) [[嵂]] [率](characters/率.md)

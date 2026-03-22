@@ -30,7 +30,7 @@ While many elements have common names across the region, it is necessary to inve
 |4| [[康金]] |<ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby>|<ruby>[[釩金]]<rt>ㄪㄚㄋㄍㄧㄇ</rt></ruby>| [[色金]] |[[孟金]] |<ruby>[鉄](/words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>| [[鬼金]] | [[鬼銅]] |<ruby>[銅](/words/銅.md)<rt>ㄉㄛㄥ</rt></ruby>|<ruby>[亜鉛](/words/亜鉛.md)<rt>ㄚ·˙ㄝㄋ</rt></ruby>
 |5| [[蛍金]] | [[晶金]] | Nb | Mo | Tc | Ru | Rh | Pd |<ruby>[銀](/words/銀.md)<rt>ㄧㄋ</rt></ruby>| Cd 
 |6| La | Hf | Ta | W | Re | Os | Ir | [[白金]] | <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
-|7| Ac | [[鈩金]] | Db | Sg | Bh | Hs | Mt | Ds | [[錀]] | Cn 
+|7| Ac | [[鈩金]] | Db | Sg | Bh | Hs | Mt | Ds | [[characters/錀 (char)]] | Cn 
 
 <!--4: . gyogim, vangim, sikgim //-->
 ### F-Block

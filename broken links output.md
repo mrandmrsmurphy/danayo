@@ -945,7 +945,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[壕]] in [[characters/豪]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], 
 - [[characters/臘]] in [[lexipedia/Calendar]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
 - [[挪]] in [[lexipedia/Geography]], [[lookup/Korean/Korean Name ㄴ]]
-- [[錀]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㄹ]]
+- [[characters/錀 (char)]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㄹ]]
 - [[樣]] in [[lookup/HSK/HSK Beginner]], [[lookup/Korean/Korean Name ㅅ]]
 - [[閾]] in [[lookup/Japanese/Hyōgai]]
 - [[溢]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
