@@ -18,7 +18,7 @@ While many elements have common names across the region, it is necessary to inve
 |4|<ruby>[鉀](/words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](/words/石灰素.md)<rt>ㄙㄝㄎㄏㄛ˙ㄙㄛ</rt></ruby>|<ruby>[高素](/words/高素.md)<rt>ㄍㄚˇㄙㄛ</rt></ruby>|[[徳素]] | [[砒素]] |[[月素]] |[[臭素]] |[[潜素]] |
 |5|茜素| 火紅素 | 紫素 |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| 墨素 | 土素 | 沃素 | 奇素|
 |6|時素| 重素 | 鉈素 |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| 蒼鉛 | 波素 | 不安素 | 射素|
-|7|法素| 射金 | 日本素 | 佛雷素 | 莫斯素 | 利佛素 | 田納素
+|7|法素| 射金 | 日本素 | 佛雷素 | 莫斯素 | 利佛素 | 田納素 | 奥加素 |
 
 <!--1: kingso, nitso //-->
 <!--2: sekso, lokjuso, bongso, tanso, detso, yangso, putso, ejhongso, //-->
@@ -42,7 +42,7 @@ Ac's
 
 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 
 |----|---|---|---|---|---|---|-----|-----|----|---|
-| Th | Pa |<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|[[海金]]|[[冥金]]|美洲金|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金
+| Th | Pa |<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|<ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>|[[冥金]]|美洲金|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金
 
 
 111 leads to the name [[錀琴]] for röntgens
