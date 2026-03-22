@@ -71,4 +71,4 @@ date-last-perfect: 2026-02-22
 - [[恐龍]] - dinosaur
 - [[烏龍茶]] - oolong tea
 - [[龍巻]] - tornado
-- [[龍断]] - to monopolize (壟斷)
+- [[words/龍断]] - to monopolize (壟斷)

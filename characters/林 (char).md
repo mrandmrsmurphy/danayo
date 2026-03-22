@@ -41,4 +41,4 @@ aliases:
 ## Notes
 
 ## Words
-- [[林雨]] (霖雨) long spell of rain, favor from the monarch
+- [[words/林雨]] (霖雨) long spell of rain, favor from the monarch
