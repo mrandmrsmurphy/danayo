@@ -19,7 +19,7 @@ english: quarrel
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無
-danayo_id: 8966
+danayo_id: 8680
 mc_id: 0
 graphemic_classification: 児
 stand_in: 䦧

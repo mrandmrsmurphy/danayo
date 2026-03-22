@@ -1,7 +1,7 @@
 ---
-mandarin: "méi"
-cantonese: "mui4"
-korean: "매"
+mandarin: méi
+cantonese: mui4
+korean: 매
 korean_native: 그을음, 석탄, 먹
 japanese:
   - BAI
@@ -14,7 +14,7 @@ middle_chinese_final: uʌi
 stroke_count: 13
 radical: 火
 skip_number: 1-4-9
-grade_level: "先進"
+grade_level: 先進
 pos: 名詞
 english:
   - soot
@@ -23,7 +23,7 @@ english:
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 名
-danayo_id: 7998
+danayo_id: 7537
 mc_id: 9433
 graphemic_classification: 某
 stand_in: 煤

@@ -20,7 +20,7 @@ english: potassium
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名
-danayo_id: 8866
+danayo_id: 8789
 mc_id: 8866
 graphemic_classification: 甲
 stand_in: 鉀

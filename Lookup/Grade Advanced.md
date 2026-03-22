@@ -26,23 +26,19 @@ views:
       - 注音
       - english
       - danayo_id
-      - hanmun_edu_level
-      - hsk_level
-      - joyo_level
       - formula.spot
     sort:
+      - property: danayo_id
+        direction: ASC
       - property: formula.spot
         direction: DESC
       - property: joyo_level
         direction: ASC
       - property: hanmun_edu_level
         direction: DESC
-      - property: danayo_id
-        direction: ASC
     columnSize:
       file.name: 40
       note.english: 98
-      note.danayo_id: 64
-      note.hanmun_edu_level: 57
+      note.danayo_id: 185
 
 ```
