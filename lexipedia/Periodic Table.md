@@ -17,13 +17,14 @@ While many elements have common names across the region, it is necessary to inve
 |3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ˙ㄨㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ˙ㄨㄏˇㄚㄥ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>˙ㄝㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉˇㄚㄙㄛ</rt></ruby>|
 |4|<ruby>[鉀](/words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](/words/石灰素.md)<rt>ㄙㄝㄎㄏㄛ˙ㄙㄛ</rt></ruby>|<ruby>[高素](/words/高素.md)<rt>ㄍㄚˇㄙㄛ</rt></ruby>|[[徳素]] | [[砒素]] |[[月素]] |[[臭素]] |[[潜素]] |
 |5|茜素| 火紅素 | 紫素 |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| 墨素 | 土素 | 沃素 | 奇素
-|6|時素| 重素 | Tl |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| Bi | Po | At | Rn
+|6|時素| 重素 | 鉈素 |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| Bi | Po | At | Rn
 
 <!--1: kingso, nitso //-->
 <!--2: sekso, lokjuso, bongso, tanso, detso, yangso, putso, ejhongso, //-->
-<!--3: cemso, kotoso, pomso, gykso, linso, lyuhwang, yemso, dwaso //-->
-<!--4: gap, sekhoiso, gauso //-->
+<!--3: cemso, kotoso, pomso, gyokso, linso, lyuhwang, yemso, dwaso //-->
+<!--4: gap, sekhoiso, gauso, dokso //-->
 <!--5: . . . jutso //-->
+<!--6: siso, congso, taso //-->
 ### D-Block
 | |   3 |   4  | 5   | 6   | 7  | 8   | 9   | 10 | 11  |  12 |
 |-|-----|------|-----|-----|----|----|----|---|---|--|
