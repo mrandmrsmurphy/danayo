@@ -41,3 +41,6 @@ aliases:
 
 ## Chengyu
 - <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨˇㄏˇㄚ·˙ㄚ</rt></ruby> - cloud by day, fire by night
+
+## Words
+- <ruby>[火炉](/words/火炉.md)<rt>ㄏˇㄚㄌㄛ</rt></ruby> - furnace
