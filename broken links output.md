@@ -1213,7 +1213,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[噺]] in [[lookup/Japanese/Hyōgai]]
 - [[袢]] in [[lookup/Japanese/Hyōgai]]
 - [[槃]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
-- [[砒]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[characters/砒]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
 - [[痺]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
 - [[臂]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
 - [[枇]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅂ]]
