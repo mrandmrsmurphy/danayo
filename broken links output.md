@@ -855,7 +855,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/鴎]] in [[characters/鴎 (char)]]
 - [[words/鴨]] in [[characters/鴨 (char)]]
 - [[words/鵰]] in [[characters/鵰 (char)]]
-- [[words/鶏]] in [[characters/鶏 (char)]]
 - [[words/鶴]] in [[characters/鶴 (char)]]
 - [[words/鷹]] in [[characters/鷹 (char)]]
 - [[words/鹸]] in [[characters/鹸 (char)]]

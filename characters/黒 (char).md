@@ -1,12 +1,14 @@
 ---
-mandarin: "hēi"
-cantonese: "hak1"
-korean: "흑"
+mandarin: hēi
+cantonese: hak1
+korean: 흑
 korean_native: 검을
 japanese:
   - KOKU
-japanese_nanori: ""
+japanese_nanori:
+  - くろい
 vietnamese:
+  - hắc
 middle_chinese_initial: h
 middle_chinese_final: ək
 stroke_count: 11
