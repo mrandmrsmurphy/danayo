@@ -46,3 +46,5 @@ aliases:
 - [[Radical 053|广]] + [[Radical 061|心]]
 - Appears on the Korean Middle School list as 應
 - In Japan, it is a Grade 5 character
+
+[[因果報応]]
