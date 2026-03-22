@@ -8,7 +8,7 @@ skip_number: 3-3-9
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-圏 (char), 属, 庾, 廃, 廊, 犀, 貳 (char), 逼, 遁, 遂, 遅 (char), 遇 (char), 運, 遍 (char), 道, 道 (char), 達 (char), 遥
+圏 (char), 属, 庾, 廃, 廊, 犀, 貳 (char), [[逼]], 遁, 遂, 遅 (char), 遇 (char), 運, 遍 (char), 道, 道 (char), 達 (char), 遥
 
 ## Datacheck
 ```dataview

@@ -22,7 +22,7 @@ english:
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名
-danayo_id: 9399
+danayo_id: 8321
 mc_id: 0
 graphemic_classification: 侖
 stand_in: 錀

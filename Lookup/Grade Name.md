@@ -1,5 +1,5 @@
 ---
-size: 777
+size: 795
 ---
 
 
@@ -25,10 +25,13 @@ views:
       - file.name
       - 注音
       - english
-      - graphemic_classification
-      - stand_in
       - date-last-perfect
+      - danayo_id
     sort:
+      - property: danayo_id
+        direction: ASC
+      - property: 注音
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
       - property: stand_in
@@ -39,8 +42,6 @@ views:
         direction: ASC
       - property: hanmun_edu_level
         direction: DESC
-      - property: danayo_id
-        direction: ASC
     columnSize:
       file.name: 40
       note.english: 215
