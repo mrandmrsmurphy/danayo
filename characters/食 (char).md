@@ -37,5 +37,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- [[弱肉強食]]
