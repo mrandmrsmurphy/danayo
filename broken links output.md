@@ -559,7 +559,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[双子]] in [[lexipedia/Numbers]]
 - [[横数]] in [[lexipedia/Numbers]]
 - [[無限]] in [[lexipedia/Numbers]]
-- [[高素]] in [[lexipedia/Periodic Table]]
+- [[words/高素]] in [[lexipedia/Periodic Table]]
 - [[徳素]] in [[lexipedia/Periodic Table]]
 - [[砒素]] in [[lexipedia/Periodic Table]]
 - [[月素]] in [[lexipedia/Periodic Table]]
