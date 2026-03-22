@@ -3,9 +3,11 @@ mandarin: lún
 cantonese: leon4
 korean: 륜
 korean_native: 쇠
-japanese: りん
+japanese:
+  - RIN
 japanese_nanori: うさぎあみ
-vietnamese: ""
+vietnamese:
+  - ø
 middle_chinese_initial: l
 middle_chinese_final: iuɪn
 stroke_count: 16
@@ -13,7 +15,8 @@ radical: 金
 skip_number: 1-8-8
 grade_level: 名
 pos: 固有名詞
-english: Roentgen
+english:
+  - roentgenium
 羅馬字: lon
 韓文: 론
 joyo_level: 表外字
@@ -29,3 +32,5 @@ stand_in: 錀
 [[nav/char_info]]
 ```
 ## Notes
+
+- [[錀琴]] roentgens (unit of radiation)

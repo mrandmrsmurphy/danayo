@@ -17,7 +17,7 @@ While many elements have common names across the region, it is necessary to inve
 |3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ˙ㄨㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ˙ㄨㄏˇㄚㄥ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>˙ㄝㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉˇㄚㄙㄛ</rt></ruby>|
 |4|<ruby>[鉀](/words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](/words/石灰素.md)<rt>ㄙㄝㄎㄏㄛ˙ㄙㄛ</rt></ruby>|<ruby>[高素](/words/高素.md)<rt>ㄍㄚˇㄙㄛ</rt></ruby>|[[徳素]] | [[砒素]] |[[月素]] |[[臭素]] |[[潜素]] |
 |5|茜素| 火紅素 | 紫素 |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| 墨素 | 土素 | 沃素 | 奇素
-|6|Cs |Ba | Tl |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| Bi | Po | At | Rn
+|6|時素| 重素 | Tl |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| Bi | Po | At | Rn
 
 <!--1: kingso, nitso //-->
 <!--2: sekso, lokjuso, bongso, tanso, detso, yangso, putso, ejhongso, //-->
@@ -29,8 +29,8 @@ While many elements have common names across the region, it is necessary to inve
 |-|-----|------|-----|-----|----|----|----|---|---|--|
 |4| [[康金]] |<ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby>|<ruby>[[釩金]]<rt>ㄪㄚㄋㄍㄧㄇ</rt></ruby>| [[色金]] |[[孟金]] |<ruby>[鉄](/words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>| [[鬼金]] | [[鬼銅]] |<ruby>[銅](/words/銅.md)<rt>ㄉㄛㄥ</rt></ruby>|<ruby>[亜鉛](/words/亜鉛.md)<rt>ㄚ·˙ㄝㄋ</rt></ruby>
 |5| [[蛍金]] | [[晶金]] | Nb | Mo | Tc | Ru | Rh | Pd |<ruby>[銀](/words/銀.md)<rt>ㄧㄋ</rt></ruby>| Cd 
-|6| La | Hf | Ta | W | Re | Os | Ir | [[白金]] | <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
-|7| Ac | [[鈩金]] | Db | Sg | Bh | Hs | Mt | Ds | [[characters/錀 (char)]] | Cn 
+|6| La | Hf | Ta | W | Re | Os | Ir |<ruby>[白金](/words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>| <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
+|7| Ac | [[鈩金]] | Db | Sg | Bh | Hs | Mt | Ds |<ruby>[錀](/words/錀.md)<rt>ㄌㄛㄋ</rt></ruby>| Cn 
 
 <!--4: . gyogim, vangim, sikgim //-->
 ### F-Block
