@@ -6,87 +6,75 @@
 [心 (char)](characters/心%20(char).md): 24
 [方](characters/方.md): 19
 [好 (char)](characters/好%20(char).md): 19
-[[地: 19
-[[自]]: 18
-[[事]]: 18
-[[动]]: 18
-[[得]]: 17
-[[理]]: 17
-[[動]]: 17
-[[工]]: 17
-[[老]]: 17
-[[部]]: 16
-[[生]]: 16
-[[明]]: 16
-[[重]]: 15
-[[成]]: 15
-[[合]]: 14
-[[时]]: 14
-[[時]]: 14
-[[发]]: 14
-[[会]]: 14
-[[會]]: 14
-[[前]]: 14
-[[有]]: 14
-[[定]]: 13
-[[来]]: 13
-[[來]]: 13
-[[量]]: 13
-[[平]]: 13
-[[學]]: 13
-[[学]]: 13
-[[長]]: 13
-[[长]]: 13
-[[公]]: 13
-[[到]]: 13
-[[作]]: 13
-[[反]]: 13
-[[当]]: 12
-[[當]]: 12
-[[道]]: 12
-[[光]]: 12
-[[行]]: 12
-[[出]]: 12
-[[發]]: 12
-[[年]]: 12
-[[物]]: 12
-[[度]]: 11
-[[对]]: 11
-[[對]]: 11
-[[力]]: 11
-[[期]]: 11
-[[气]]: 11
-[[氣]]: 11
-[[頭]]: 11
-[[头]]: 11
-[[象]]: 11
-[[以]]: 11
-[[是]]: 11
-[[儿]]: 11
-[[兒]]: 11
+[地 (char)](characters/地%20(char).md): 19
+[自](characters/自.md): 18
+[事 (char)](characters/事%20(char).md)): 18
+[动](characters/動%20(char).md): 18
+[得](characters/得.md): 17
+[理](characters/理.md): 17
+[動 (char)](characters/動%20(char).md): 17
+[工](characters/工.md): 17
+[老 (char)](characters/老%20(char).md): 17
+[部 (char)](characters/部%20(char).md): 16
+[生](characters/生.md): 16
+[明 (char)](characters/明%20(char).md): 16
+[重 (char)](characters/重%20(char).md): 15
+[成 (char)](characters/成%20(char).md): 15
+[合 (char)](characters/合%20(char).md): 14
+[時 (char)](characters/時%20(char).md): 14
+[发](characters/発%20(char).md): 14
+[会 (char)](characters/会%20(char).md): 14
+[會](characters/会%20(char).md): 14
+[前 (char)](characters/前%20(char).md): 14
+[有 (char)](characters/有%20(char).md): 14
+[定](characters/定.md): 13
+[来 (char)](characters/来%20(char).md): 13
+[來 (char)](characters/来%20(char).md): 13
+[量](characters/量.md): 13
+[平](characters/平.md): 13
+[學](characters/学.md): 13
+[長 (char)](characters/長%20(char).md): 13
+[公 (char)](characters/公%20(char).md): 13
+[到](characters/到.md): 13
+[作 (char)](characters/作%20(char).md): 13
+[反 (char)](characters/反%20(char).md): 13
+[当 (char)](characters/当%20(char).md): 12
+[道 (char)](characters/道%20(char).md): 12
+[光 (char)](characters/光%20(char).md): 12
+[行 (char)](characters/行%20(char).md): 12
+[出](characters/出%20(char).md): 12
+[發](characters/発%20(char).md): 12
+[年 (char)](characters/年%20(char).md): 12
+[物 (char)](characters/物%20(char).md): 12
+[度](characters/度.md): 11
+[对](characters/対.md): 11
+[力 (char)](characters/力%20(char).md): 11
+[期 (char)](characters/期%20(char).md): 11
+[气](characters/気%20(char).md): 11
+[頭 (char)](characters/頭%20(char).md): 11
+[象](characters/象.md): 11
+[以 (char)](characters/以%20(char).md): 11
+[是 (char)](characters/是%20(char).md): 11
+[兒](characters/児%20(char).md): 11
 [[实]]: 11
-[[實]]: 11
-[[进]]: 11
-[[進]]: 11
-[[手]]: 11
-[[保]]: 10
-[[院]]: 10
-[[造]]: 10
-[[後]]: 10
-[[后]]: 10
-[[业]]: 10
-[[業]]: 10
-[[品]]: 10
-[[小]]: 10
-[[的]]: 10
-[[开]]: 10
-[[開]]: 10
-[[及]]: 10
-[[教]]: 10
-[[接]]: 10
-[[上]]: 10
-[[主]]: 10
-[[本]]: 9
+[實](characters/実.md): 11
+[进](characters/進.md): 11
+[手 (char)](characters/手%20(char).md): 11
+[保](characters/保.md): 10
+[院](characters/院.md): 10
+[造](characters/造.md): 10
+[後 (char)](characters/後%20(char).md): 10
+[业](characters/業%20(char).md): 10
+[品 (char)](characters/品%20(char).md): 10
+[小 (char)](characters/小%20(char).md): 10
+[的](characters/的.md): 10
+[开](characters/開.md): 10
+[及 (char)](characters/及%20(char).md): 10
+[教](characters/教.md): 10
+[接 (char)](characters/接%20(char).md): 10
+[上 (char)](characters/上%20(char).md): 10
+[主](characters/主.md): 10
+[本 (char)](characters/本%20(char).md): 9
 [[告]]: 9
 [[害]]: 9
 [[可]]: 9

@@ -154,12 +154,12 @@ Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄥㄐㄝ
 The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems (自然体系).
 
 ## Oceania
-<ruby>大洋洲<rt>大洋洲</rt></ruby> consists largely of island states ([[島嶼]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
-Marine resources (<ruby>世界<rt>ㄙㄚ˙·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
-Population density (<ruby>人口<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby>[[密度]]) is generally low.
+<ruby>[[大洋洲]]<rt>ㄉㄚ˙·˙ㄚㄥㄐㄨˇ</rt></ruby> consists largely of island states ([[島嶼]]<ruby>[国家](words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
+Marine resources (<ruby>[世界](words/世界.md)<rt>ㄙㄚ˙·˙ㄚㄥ</rt></ruby>[[資源]]) support economic life (<ruby>[経済](words/経済.md)<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>生活<rt>ㄙㄚㄥㄏˇㄚㄊ</rt></ruby>).  
+Population density (<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby>[[密度]]) is generally low.
 
-- <ruby>豪洲<rt>ㄏㄚˇㄐㄨˇ</rt></ruby>
-- <ruby>新西蘭<rt>ㄙㄧㄋㄙㄝ˙ㄌㄚㄋ</rt></ruby>  
+- <ruby>[豪洲](words/豪洲.md)<rt>ㄏㄚˇㄐㄨˇ</rt></ruby>
+- <ruby>[新西蘭](words/新西蘭.md)<rt>ㄙㄧㄋㄙㄝ˙ㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
 Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚ˙·˙ㄚㄥ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧ˙·ˇㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛˇㄑㄚˇ</rt></ruby>.
