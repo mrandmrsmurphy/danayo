@@ -1,10 +1,10 @@
 This has been checked for redirects.
 ## ㅏ
 ### 가 
-[嘉](characters/嘉.md) [嫁](characters/嫁.md) [稼](characters/稼.md) [賈](characters/賈.md) [駕](characters/駕.md) [伽](characters/伽.md) [迦](characters/珈.md) [柯](characters/柯.md) [哥](characters/歌.md) [[枷]] [珂](characters/珂.md) [痂](characters/加.md) [苛](characters/苛.md) [茄](characters/茄.md) [袈](characters/珈.md) [[訶]] [[跏]] [[軻]] [哿](characters/加.md) 
+[嘉](characters/嘉.md) [嫁](characters/嫁.md) [稼](characters/稼.md) [賈](characters/賈.md) [駕](characters/駕.md) [伽](characters/伽.md) [迦](characters/珈.md) [柯](characters/柯.md) [哥](characters/歌.md) [[枷]] [珂](characters/珂.md) [痂](characters/加.md) [苛](characters/苛.md) [茄](characters/茄.md) [袈](characters/珈.md) [[訶]] [跏](characters/加.md) 軻 [哿](characters/加.md) 
 
 ### 각 
-[[珏]] [[恪]] [殼](characters/殻.md) [愨](characters/愨.md)
+珏 恪 [殼](characters/殻.md) [愨](characters/愨.md)
 
 ### 간 
 [艮](characters/艮.md) [侃](characters/侃.md) [[杆]] [[玕]] [竿](characters/竿.md) [揀](characters/揀.md) [諫](characters/諌.md) [墾](characters/墾.md) [[栞]] [奸](characters/姦.md) [柬](words/柬.md) [[澗]] [[磵]] [[稈]] [艱](characters/艱.md) [癇](characters/癇.md)
@@ -16,7 +16,7 @@ This has been checked for redirects.
 [勘](characters/勘%20(char).md) [堪](characters/堪%20(char).md) [[瞰]] [[坎]] [嵌](characters/嵌.md) [憾](characters/憾.md) [[戡]] [柑](characters/柑.md) [橄](characters/橄.md) [[疳]] [紺](characters/紺%20(char).md) [邯](characters/柑.md) [龕](characters/龕%20(char).md)
 
 ### 갑 
-[鉀](characters/鉀%20(char).md) [[匣]] [岬](characters/岬.md) [[胛]] [[閘]]
+[鉀](characters/鉀%20(char).md) 匣 [岬](characters/岬.md) [[胛]] [[閘]]
 
 ### 강 
 [[杠]] [[堈]] [岡](characters/岡.md) [姜](characters/姜%20(char).md) [[橿]] [彊](characters/強%20(char).md) [慷](characters/慷.md) [[畺]] [[疆]] [糠](characters/糠.md) [絳](characters/降.md) [羌](characters/羌.md) [腔](characters/腔.md) [[舡]] [薑](characters/姜%20(char).md) [鱇](characters/康.md) [[嫝]] [[跭]] [[襁]] [[玒]] 

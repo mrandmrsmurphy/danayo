@@ -1,7 +1,7 @@
 ---
-mandarin: "fū"
-cantonese: "fu1"
-korean: "부"
+mandarin: fū
+cantonese: fu1
+korean: 부
 korean_native: ""
 japanese:
   - FU
@@ -28,6 +28,7 @@ mc_id: 34
 graphemic_classification: 象形
 stand_in: 夫
 aliases:
+  - 趺
 注音: ㄅㄨ
 ---
 >[!tip] This is a page about the character 夫.
