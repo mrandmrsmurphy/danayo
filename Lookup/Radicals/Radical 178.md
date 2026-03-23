@@ -7,8 +7,9 @@ radical: 韋
 > The **tanned leather** radical
 
 ## Characters
-1. [[韋]] - tanned leather
-2. [[韓]] - Han Korean
+1. [韋](characters/韋.md) - tanned leather
+	- See here for characters not under this radical but still with this component
+2. [韓](characters/韓.md) - Han Korean
 
 ## Dataview
 ```dataview

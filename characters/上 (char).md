@@ -1,8 +1,8 @@
 ---
-mandarin: "shàng"
-cantonese: "seong6"
-korean: "상"
-korean_native: ""
+mandarin: shàng
+cantonese: seong6
+korean: 상
+korean_native: 윗
 japanese:
   - JOU
   - SHOU
@@ -31,17 +31,17 @@ stand_in: 上
 aliases:
   - 丄
 注音: ㄙ˙ㄚㄥ
+date-last-perfect: 2026-03-22
 ---
 >[!tip] This is a page about the character 上.
 >For the word, see [上](words/上.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 # Notes
-- [[Radical 001]]
-- [[SKIP-4-3-2]]
-- The noun 'up', 'above'.  Remember, you must use 오 to make this an adverb.
+- [List of 指事](lookup/List%20of%20指事.md): A drawing of the idea of "above", [Radical 001](lookup/Radicals/Radical%20001.md)
+- [SKIP-4-3-2](lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md)) - [ㄙ˙ㄚㄥ](syllables/ㄙ˙ㄚㄥ.md)
+- [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md)
 
 ## Words
 - [[上述]] The aforementioned

@@ -1,7 +1,7 @@
-[子](characters/子.md): 16
-[学](characters/学.md): 15
-[意](characters/意.md): 15
-[上 (char)](characters/上%20(char).md): 13
+1. 子: 16
+2. 学: 15
+3. 意: 15
+4. 上: 13
 [邊](characters/辺.md): 12
 [边](characters/辺.md): 12
 [兒](characters/児%20(char).md): 11

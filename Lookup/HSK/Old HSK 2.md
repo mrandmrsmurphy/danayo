@@ -72,7 +72,6 @@
 [及 (char)](characters/及%20(char).md): 10
 [教](characters/教.md): 10
 [接 (char)](characters/接%20(char).md): 10
-[上 (char)](characters/上%20(char).md): 10
 [主](characters/主.md): 10
 [本 (char)](characters/本%20(char).md): 9
 [[告]]: 9

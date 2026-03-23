@@ -1,18 +1,20 @@
 ---
-mandarin: "huì"
-cantonese: "wai5"
-korean: "휘"
+mandarin: huì
+cantonese: wai5
+korean: 휘
 korean_native: 숨길
 japanese:
   - KI
-japanese_nanori: ""
+japanese_nanori:
+  - いむ
 vietnamese:
+  - huý
 middle_chinese_initial: h
 middle_chinese_final: ʉi
 stroke_count: 16
 radical: 言
 skip_number: 1-7-9
-grade_level: "先進"
+grade_level: 先進
 pos: 事詞
 english:
   - shun
@@ -20,7 +22,7 @@ english:
 羅馬字: hui
 韓文: 휘
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 7244
 mc_id: 1306
@@ -29,12 +31,15 @@ stand_in: 諱
 aliases:
   - 讳
 注音: ㄏㄨ˙
+kwin: true
 ---
 >[!tip] This is a page about the character 諱.
 >For the word, see [諱](words/諱.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- 形声 (OC \*qʰʷɯls): semantic [言](Radical%20149) + phonetic [韋](characters/韋.md) (OC \*ɢʷɯl).
+- [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md)) - [ㄏㄨ˙](syllables/ㄏㄨ˙.md)
+- [Grade Name](lookup/Grade%20Name.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
 
-# Notes
