@@ -6,4 +6,17 @@ The easiest place to begin is with the five vowel letters, **a**, **e**, **i**, 
 - ㄝ is /e/ as in "bet".  Perhaps it is the edge of a bed.
 - ㄧ is /i/ as in "ski".  It's a monitor with a flat line, making a beep.
 - ㄛ is /o/ as in "coat".  I needed a hook to hang by coat on.
-- ㄨ is /u/ as in ""
+- ㄨ is /u/ as in "rune".  It's an x-shaped rune, it's true.
+
+If a syllable starts with one of these, but doesn't come first in a word, it is typical  to make it clear with a central dot just before it, i.e. ·ㄚ，·ㄝ，·ㄧ，·ㄛ，·ㄨ。
+
+## Semi-vowels
+Immediately before or after one of these vowels can appear a **y** or **w**.  
+
+Before:
+- **y** is a high dot: ˙ as in ˙ㄚ，˙ㄝ，˙ㄛ，˙ㄨ (**ya**, **ye**, **yo**, **yu**)
+- **w** is a high "hat": ˇ as in ˇㄚ，ˇㄝ (**wa**, **we**)
+After
+- ㄚ˙，ㄝ˙，ㄛ˙，ㄨ˙
+- ㄚˇ，ㄛˇ，ㄨˇ
+- <ruby>乖<rt>ㄍ<sup>ˇ</sup>ㄚ<sup>˙</sup></rt></ruby> vs <ruby>乖<rt>ㄍˇㄚ˙</rt></ruby> vs <ruby>乖<rt><ruby>ㄍ<rt>X</rt></ruby><ruby>ㄚ<rt>⚫️</rt></ruby></rt></ruby>
