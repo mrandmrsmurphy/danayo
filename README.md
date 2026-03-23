@@ -4,7 +4,7 @@
 It has the largest intended audience of 1500 million speakers, those from China, Japan, Korea, and to some extent Vietnam.  There is no proto-language which all our source languages are supposedly descended from. Our ancient form is Classical Chinese, which is well-known and actually exists in documented form.  Occasional <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·˙ㄛ</rt></ruby> are needed, but aim to be transparent.
 
 For more information, see <ruby>[単亜語之文法書](grammar/単亜語之文法書.md)<rt>ㄉㄚㄋ·ㄚ·˙ㄛㄊㄧㄇㄨㄋㄆㄚ</rt></ruby>, or in English [単亜語之文法書.en](grammar/単亜語之文法書.en.md)
-![[East_asian_flag.png]]
+![Far East Asian Flag](images/East_asian_flag.png)
 
 ---
 
@@ -43,10 +43,6 @@ The following are not content pages, but "programming"
 - [numerals](nav/numerals.md)
 - [word_info](nav/word_info.md)
 
----
-
-## To do
-- [[飪]] of nyom
 ---
 
 ## Delete
