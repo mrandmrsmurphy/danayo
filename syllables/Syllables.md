@@ -187,7 +187,7 @@ views:
       - 韓文
     sort:
       - property: size
-        direction: ASC
+        direction: DESC
       - property: date-last-perfect
         direction: ASC
     columnSize:
