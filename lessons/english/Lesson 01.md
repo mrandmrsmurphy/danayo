@@ -19,4 +19,24 @@ Before:
 After
 - ㄚ˙，ㄝ˙，ㄛ˙，ㄨ˙
 - ㄚˇ，ㄛˇ，ㄨˇ
-- <ruby>乖<rt>ㄍ<sup>ˇ</sup>ㄚ<sup>˙</sup></rt></ruby> vs <ruby>乖<rt>ㄍˇㄚ˙</rt></ruby> vs <ruby>乖<rt><ruby>ㄍ<rt>X</rt></ruby><ruby>ㄚ<rt>⚫️</rt></ruby></rt></ruby>
+
+Combinations are possible, but not all actually occur
+
+## Consonants
+- ㄅ is **b**
+- ㄑ is **c** (like English 'ch')
+- ㄉ is **d**
+- ㄈ is **f**, a very rare sound (skip it, if you like)
+- ㄍ is **g**
+- ㄏ is **h**
+- ㄐ is **j**
+- ㄎ **k**
+- ㄌ **l**
+- ㄇ **m**
+- ㄋ **n**
+- ㄥ **ng** (don't worry: it only occurs at the end of a syllable)
+- ㄆ **p**
+- ㄙ **s**
+- ㄊ **t**
+- ㄪ **v**, a very rare sound (skip it, if you like)
+
