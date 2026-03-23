@@ -66,7 +66,7 @@ This has been checked for redirects.
 [鎌 (char)](characters/鎌%20(char).md) [[慊]] [[箝]] [鉗 (char)](characters/鉗%20(char).md) [[嗛]] [[槏]] 
 
 ### 경 
-[[倞]] [鯨](characters/鯨.md) [[坰]] [[耿]] [[炅]] [更 (char)](characters/更%20(char).md) [梗](characters/梗.md) [憬](characters/憬.md) [[璟]] [瓊](characters/瓊.md) [[擎]] [[儆]] [[俓]] [[涇]] [莖](characters/茎%20(char).md) [勁](characters/勁.md) [[逕]] [[熲]] [[冏]] [[勍]] [[烱]] [[璥]] [[痙]] [磬](characters/響.md) [[絅]] [脛](characters/脛.md) [頸](characters/頚%20(char).md) [[鶊]] [檠](characters/檠.md) [[冂]] [[𠗊]] [[憼]] [[璟]] ([[璄]])
+[[倞]] [鯨](characters/鯨.md) [[坰]] [[耿]] [[炅]] [更 (char)](characters/更%20(char).md) [梗](characters/梗.md) [憬](characters/憬.md) [[璟]] [瓊](characters/瓊.md) [[擎]] [[儆]] [[俓]] [[涇]] [莖](characters/茎%20(char).md) [勁](characters/勁.md) [[逕]] [[熲]] [[冏]] [[勍]] [[烱]] [[璥]] [[痙]] [磬](characters/響.md) [[絅]] [脛](characters/脛.md) [頸](characters/頚%20(char).md) [[鶊]] [檠](characters/檠.md) [[冂]] kweng? [[𠗊]] [[憼]] [[璟]] ([[璄]])
 
 ### 계 
 [[誡]] [[烓]] [屆](characters/届%20(char).md) [悸](characters/悸.md) [[棨]] [稽](characters/稽.md) [[谿]]  [[谿]] ([[磎]]) [契](characters/契.md)

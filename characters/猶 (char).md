@@ -1,7 +1,7 @@
 ---
-mandarin: "yóu"
-cantonese: "jau4"
-korean: "유"
+mandarin: yóu
+cantonese: jau4
+korean: 유
 korean_native: ""
 japanese:
   - YUU
@@ -24,7 +24,7 @@ joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3192
-mc_id: "271.3104"
+mc_id: 271
 graphemic_classification: 酋
 stand_in: 猶
 aliases:

@@ -160,7 +160,7 @@ All have been checked for redirects.
 [[聿]] [[燏]] [[汩]] [[䢖]] [[潏]]
 
 ### 융 
-[融](words/融.md) [戎](characters/戎.md) [[瀜]] [絨](characters/絨.md)
+[融 (char)](characters/融%20(char).md) [戎](characters/戎.md) [[瀜]] [絨](characters/絨.md)
 
 ### 은 
 [[垠]] [殷](characters/殷.md) [[誾]] [[溵]] [[珢]] [[慇]] [[濦]] [[㒚]] [[听]] [[𤨒]] [[圻]] [[蘟]] [[檼]] [[檃]] [[訢]] [[蒑]] [[泿]] [[蒽]] [[憖]] [[誾]] ([[𨶡]])
