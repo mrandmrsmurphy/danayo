@@ -977,12 +977,12 @@ The following prefecture names were added in 2017:
 966. [[絹]] : ken	kinu	silk
 967. [[縦]] : ju	tate	vertical
 968. [[縮]] : shuku	chidi-mu	shrink
-969. [[署]] : sho	 	government office
+969. [署](../../characters/署.md) : sho	 	government office
 970. [[characters/翌 (char)]] : yoku	 	the following
-971. [[聖]] : sei	 	holy
-972. [[肺]] : hai	 	lung
-973. [[背]] : hai	se	back
-974. [[胸]] : kyō	mune	bosom
+971. [聖](../../characters/聖.md) : sei	 	holy
+972. [肺](../../characters/肺.md) : hai	 	lung
+973. [背 (char)](../../characters/背%20(char).md) : hai	se	back
+974. [胸](../../characters/胸.md) : kyō	mune	bosom
 975. [脳 (char)](characters/脳%20(char).md) : nō	 	brain
 976. [腹 (char)](characters/腹%20(char).md) : fuku	hara	abdomen
 977. [胃 (char)](characters/胃%20(char).md) : i	 –	stomach
