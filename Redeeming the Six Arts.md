@@ -2,19 +2,19 @@
 ## 六芸
 <ruby>[六芸](/words/六芸.md)<rt>ㄌㄨㄎ·ㄝ</rt></ruby>
 - <ruby>[礼](/words/礼.md)<rt>ㄌㄝ˙</rt></ruby>
-	- 《[[儀]][[礼]]》 (Yili), 
-	- 《禮記》 (Liji), 
-	- 《周禮》 (Zhouli)
+	- 《[[儀礼]]》 (_Etiquette and Ceremonial_), 
+	- 《<ruby>[礼記](/words/礼記.md)<rt>ㄌㄝ˙ㄍ˙</rt></ruby>》 (_Book of Rites_), 
+	- 《[[周]][[礼]]》 (# _Rites of Zhou_)
 - <ruby>[音楽](/words/音楽.md)<rt>ㄨㄇㄌㄚㄎ</rt></ruby>
-	- 詩經 (Book of Odes), 
-	- 樂經 fragments, 
-	- 樂論 texts
+	- [[詩經]] (_Book of Odes_), 
+	- [[楽經]] (_Classic of Music_), 
+	- 楽論 (_Discourse on Music_)
 - [[words/射術]]
 - [[words/御術]]
-	- 春秋, 
-	- 史記
+	- [[春秋]], 
+	- [史記](words/史記.md)
 - [[words/書法]]
-	- 經典 texts in [[四書五経]], [[論語 (book)]], [[孟子]], [[words/荘子]], [[史記]]
+	- [[經典]] texts in [[四書五経]], [[論語 (book)]], [[孟子]], [[words/荘子]], [[史記]]
 - [[数学]]
 	- _九章算術_, 
 	- _周髀算經_, 
