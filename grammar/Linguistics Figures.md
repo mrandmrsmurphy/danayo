@@ -402,117 +402,72 @@ The result is that Classical Chinese is no longer being read as a fluid archaic 
 Japanese, Korean, and Vietnamese "pull Classical Chinese into becoming Dan’a’yo”, not by replacing vocabulary, but by forcing recurrent parsing decisions:
 
 - noun phrase first, particle after
-    
 - dependent clause first, head later
-    
 - discourse topic first, assertion last
-    
 - verbal nucleus earlier, TAM and force later
-    
 
 Over generations, prose that fits this reading style is copied, praised, and imitated. Prose that resists it begins to feel archaic, poetic, or obscure.
 
 ### Phase IV: Early modern koine drift, 1600 to 1800
-
 At this point the shared literary language is no longer Classical Chinese in the old sense. It still quotes the classics and still uses classical lexicon, but its active prose norm has been regularized.
 
 Now you begin to see what would look, in hindsight, like a genuine language:
-
 - topic-comment as default clause architecture
-    
 - relative clauses consistently before nouns with 之
-    
 - adverbs before verbs
-    
 - relational markers obligatorily after noun phrases
-    
 - copular distinctions more stable
-    
 - suffixal TAM and sentence force more expected in ordinary prose
-    
 - less tolerance for category fluidity in formal writing
-    
 
 This is also the point where the language starts to be teachable not just as literary style, but as “the common elegant tongue.” Grammarians begin to write prescriptions. Dictionaries and school texts start classifying words by function more explicitly.
 
-The old language had many things it could do.  
-The new language has things it is supposed to do.
+The old language had many things it _could_ do.  
+The new language has things it is _supposed_ to do.
 
 That is the mark of grammaticalization under school culture.
 
 ### Phase V: Modern Dan’a’yo, 1800 onward
-
-Only now do you get the full language you want.
-
 By this stage:
 
 - the phonology has been leveled across regional readings into a compact CGVC-style syllable canon
-    
 - retroflexes have vanished
-    
 - medials and glides have been regularized
-    
 - many old distinctions survive only etymologically
-    
 
 But more importantly, the grammar now looks like a natural endpoint of a millennium of East Asian literary contact:
 
 - topic-prominent throughout
-    
 - strongly head-final
-    
 - mostly isolating
-    
 - but with agglutinative tendencies in a clearly delimited functional layer
-    
 - postpositions rather than loose classical coverbs
-    
 - stable lexical categories in formal prose
-    
 - classical register preserved as an elevated archaism within the same tradition
-    
 
 So the “classical mode” and “modern mode” are not two separate inventions. They are earlier and later states of the same literary civilization.
 
 ## 4. What steers it toward CGVC
-
-You said not to focus too much on phonology, but there should still be historical pressures.
-
-The main ones are not random sound changes. They are **literacy-driven syllable discipline**.
+The main historic, phonological pressures are not random sound changes. They are **literacy-driven syllable discipline**.
 
 A transregional character language wants:
-
-- one stable reading per graph where possible
-    
+- one stable reading per grapheme
 - compact syllables
-    
 - recoverable medials
-    
 - limited codas
-    
-- no unstable retroflex series
-    
-- no large consonant clusters
-    
-- no heavy inflectional endings
-    
+- no retroflex series
+- no consonant clusters
+- no inflectional endings
 
 That pushes toward a neat canonical syllable shape like CGVC.
 
-Why?
+A character-based koine reading is repeatedly re-learned from tables, primers, rhyme books, glosses, and recitation. Systems that are too regionally marked or too phonetically messy get leveled away. The surviving reading norm is the one easiest to map onto:
 
-Because a character-reading koine is repeatedly re-learned from tables, primers, rhyme books, glosses, and recitation. Systems that are too regionally marked or too phonetically messy get leveled away. The surviving reading norm is the one easiest to map onto:
-
-- character
-    
-- onset
-    
-- medial
-    
-- nucleus
-    
-- coda
-    
+- Per character:
+	- onset
+	- medial
+	- nucleus
+	- coda
 
 Japanese and Korean pressure would strongly favor clear syllable boundaries.  
 Vietnamese pressure would favor analytic clarity and discrete syllables.  
@@ -521,14 +476,9 @@ Cantonese pressure would support preservation of coda discipline and monosyllabi
 So CGVC is not just a phonological outcome. It is a **pedagogical outcome**.
 
 ## 5. How loose classical elements become suffixes and postpositions
-
-This is one of the most important historical pieces.
-
 In Classical Chinese, many function words are versatile. They can be verbs, coverbs, conjunctions, particles, or something between. That flexibility works in a native literary culture with heavy commentary. It works less well in a transregional school language.
 
 So over time, forms are reanalyzed by position.
-
-A plausible path looks like this:
 
 At first, a form like 以 may still be understood semantically as “take, by means of, with.” But in repeated schoolroom parsing it is taught after a noun phrase as the normal instrumental marker. Once that happens for centuries, speakers stop experiencing it as a lexical word and start experiencing it as a required relational suffix/postposition.
 
@@ -540,50 +490,40 @@ Sentence-final elements such as 矣 harden as clause-final force markers, becaus
 
 In short, the language evolves not by affixes eroding phonologically, but by **independent words freezing into fixed grammatical positions**. Since word boundaries remain clear, they feel suffix-like or particle-like without becoming clitics.
 
-That is exactly the sort of agglutinative tendency your language has.
+That is exactly the sort of agglutinative tendency Dan'a'yo language has.
 
 ## 6. Why topic prominence survives the entire millennium
 
 Because all four major contact zones support it.
 
-Classical Chinese already allows discourse-fronted organization.  
-Cantonese is comfortable with topic prominence.  
-Japanese strongly reinforces topic-comment syntax.  
-Korean strongly reinforces topic-comment syntax.  
-Vietnamese is also discourse-friendly and analytic.
+- Classical Chinese already allows discourse-fronted organization.  
+- Cantonese is comfortable with topic prominence.  
+- Japanese strongly reinforces topic-comment syntax.  
+- Korean strongly reinforces topic-comment syntax.  
+- Vietnamese is also discourse-friendly and analytic.
 
 So unlike many alternate histories where prestige grammar gets pulled toward subject-centered Indo-European style, this one would be stabilized in the opposite direction. Topic prominence would not merely survive. It would become the one thing everyone across the Sinosphere agrees is natural.
 
 That gives you a very strong continuous spine:
-
 - ancient concise topic-comment in the early period
-    
 - pedagogically regularized topic-comment in the middle period
-    
 - full modern topic-comment syntax in Dan’a’yo
-    
 
 ## 7. Why head-finality grows stronger
-
 This is where Japanese and Korean have the deepest structural influence.
 
 Classical Chinese is not fully head-final. But it already has many pre-head constructions:
-
 - modifiers before nouns
-    
 - relative material before nouns
-    
 - adverbs before verbs
-    
 - genitive/attributive structures before heads
-    
 
 Japanese and Korean readers then interpret ambiguous classical clauses in ways that delay the main predicate and clarify dependency. Over centuries, the prose styles most suited to this reading tradition become normative. This does not mean every head-final trait is copied wholesale. It means the language drifts toward a default expectation:
 
-Set the scene first.  
-Name the topic.  
-State modifiers and arguments before the main predication.  
-Finish with predicate plus mood/TAM.
+1. Set the scene first.  
+2. Name the topic.  
+3. State modifiers and arguments before the main predication.  
+4. Finish with predicate plus mood/TAM.
 
 That is enough to give you a strongly head-final language without forcing a fully Japonic or Koreanic structure.
 
@@ -591,83 +531,93 @@ That is enough to give you a strongly head-final language without forcing a full
 
 If you want a one-sentence historical claim for the language, it could be this:
 
-Dan’a’yo is the uninterrupted descendant of a post-Tang transregional literary Sinitic, gradually regularized by a millennium of kanbun-style reading, examination prose, and contact with Korean, Japanese, Cantonese, and Vietnamese grammatical habits.
+***Dan’a’yo is the uninterrupted descendant of a post-Tang transregional literary Sinitic, gradually regularized by a millennium of kanbun-style reading, examination prose, and contact with Korean, Japanese, Cantonese, and Vietnamese grammatical habits.***
 
-That gives you continuity without requiring ordinary village-to-village spoken descent.
+That gives continuity without requiring ordinary village-to-village spoken descent.
 
-## 9. What this lets you do lexically and stylistically
-
-This history is useful because it gives you principled layers.
-
+## 9. What this reveals lexically and stylistically
 Older layer:
-
 - looser syntax
-    
 - broader function-word semantics
-    
 - more omission
-    
 - more category fluidity
-    
 - more classical ambiguity
-    
 
 Middle layer:
-
 - commentarial regularization
-    
 - 之-heavy modification
-    
 - clearer particles
-    
 - emerging slot grammar
-    
 
 Modern layer:
-
-- explicit postpositions
-    
+- explicit postpositions    
 - fixed TAM slots
-    
 - rigid lexical categories
-    
 - strong topic-comment syntax
-    
 
 That lets a word or construction have:
-
 - an archaic classical use
-    
 - a medieval commentarial use
-    
 - a modern Dan’a’yo use
-    
 
-Which is exactly what you want for semantic and lexical derivation.
+Which is exactly elucidates semantic and lexical derivation.
 
 ## 10. The key idea
-
-So the fictional history should not be “Middle Chinese slowly changed into Dan’a’yo in ordinary speech.”
-
-It should be:
-
-A classical written civilization kept one common language alive long enough that non-native East Asian reading habits gradually regularized it into a real language.
+***A classical written civilization kept one common language alive long enough that non-native East Asian reading habits gradually regularized it into a real language.***
 
 That is the believable bridge between Tang and Dan’a’yo.
 
-The next useful step would be to write a century-by-century sketch of grammar changes, something like:
+# Kanbun Writ Large
+The pieces fit together unusually well because they all solve the same problem: how to make a compact, under-specified classical text speakable inside a very different native grammar. Once that activity is shared across regions and persists for centuries, it stops being a reading technique and starts acting like a slow grammatical engine.
 
-- 1000: late literary Sinitic
-    
-- 1200: topic-fronting more common
-    
-- 1400: relational words increasingly postpositional
-    
-- 1600: clause-final TAM slots
-    
-- 1800: lexical classes fixed
-    
-- 2000: full Dan’a’yo
+These traditions as **four distinct pressures that converge**
+
+## Korea
+First, the Korean layer, especially 석독구결 and later 음독구결, contributes **explicit syntactic disambiguation**. Korean readers need case and clause structure to be visible. So they habitually interpret classical strings as:
+
+- NP + postposition
+- clause-final predicate    
+- clear topic vs subject distinction  
+    Over time, anything that consistently gets read “as if it had a particle after it” begins to behave like it actually does. That is your path from coverbs to true postpositions.
+
+## Japan
+Second, the Japanese layer, through kundoku and kanbun training, contributes **ordering discipline**. Japanese readers systematically reorder to:
+
+- modifiers before heads
+- predicate at the end
+- dependencies resolved before completion  
+    Even if the written text does not change immediately, preferred prose begins to align with what is easiest to kundoku. That steadily increases head-finality and stabilizes relative clauses before nouns.
+
+## Vietnam
+Third, the Vietnamese layer (chữ Nôm, đọc Hán văn) contributes **analytic clarity and tolerance for overt marking**. Vietnamese is comfortable with:
+
+- explicit particles
+- little or no inflection
+- stable word classes  
+    This pushes against classical ambiguity. It favors one marker per function, discourages multifunctional particles, and helps freeze lexical categories in formal registers.
     
 
-That would give you a true diachronic grammar rather than just a premise.
+## Southern China
+Fourth, the southern Sinitic layer (drawing on Cantonese-like tendencies) preserves **monosyllabic lexical integrity and topic prominence**. That prevents the system from drifting toward polysyllabic erosion or heavy morphology. It also keeps topic-comment natural rather than marked.
+
+When these operate together over a millennium, you get a very specific trajectory:
+- Classical flexibility becomes pedagogically intolerable
+- Pedagogical conventions become habitual parsing
+- Habitual parsing becomes expected grammar
+- Expected grammar becomes the language
+
+One way to formalize this is to think in terms of **“interpretive defaults that fossilize.”** For example:
+
+- If every school tradition consistently explains 於 NP as “NP + locative relation,” it will be reinterpreted as a postposition.
+- If every reader delays the main predicate to the end when explaining a sentence, prose that already places it late will be favored and imitated.
+- If every commentary inserts a topic frame before exposition, authors begin writing with overt topic framing.
+
+That gives you a clean mechanism for grammaticalization without phonological erosion.
+
+Assign each region a dominant grammatical contribution:
+- Korea: case-like structure, topic vs subject distinction
+- Japan: head-final ordering, relative clause discipline
+- Vietnam: analytic transparency, fixed categories
+- Southern Sinitic: topic continuity, compact syllable economy
+
+Dan’a’yo then looks less like an invention and more like the **intersection of their long-term compromises**.
