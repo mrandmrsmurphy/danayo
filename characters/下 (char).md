@@ -1,12 +1,13 @@
 ---
-mandarin: "xià"
-cantonese: "haa6"
-korean: "하"
+mandarin: xià
+cantonese: haa6
+korean: 하
 korean_native: 아래
 japanese:
   - KA
   - GE
-japanese_nanori: した
+japanese_nanori:
+  - した
 vietnamese:
   - xuống
 middle_chinese_initial: ɦ

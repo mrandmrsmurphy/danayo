@@ -1,7 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 
 ## 2+ Words
-- [[読本]] in [[grammar/単亜語之文法書]]
 - [[韻図]] in [[grammar/単亜語之文法書]]
 - [[前提]] in [[grammar/文法 - 01序文]]
 - [[専門]] in [[grammar/文法 - 01序文]]
@@ -187,7 +186,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[禁令]] in [[characters/禁]]
 - [[禁制]] in [[characters/禁]]
 - [[禁忌]] in [[characters/禁]]
-- [[禁慾主義]] in [[characters/禁]]
 - [[禁断]] in [[characters/禁]]
 - [[禁書]] in [[characters/禁]]
 - [[禁煙]] in [[characters/禁]]
@@ -531,7 +529,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[瑞士]] in [[lexipedia/Geography]]
 - [[瑞典]] in [[lexipedia/Geography]], [[lookup/Japanese/Jinmeiyō]]
 - [[黙黙]] in [[characters/黙]]
-- [[旅鼠]] in [[characters/鼠]]
 - [[天竺鼠]] in [[characters/鼠]]
 - [[尖鼠]] in [[characters/鼠]]
 - [[家鼠]] in [[characters/鼠]]
@@ -746,7 +743,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[兎]] in [[lexipedia/Animals]], [[syllables/ㄊㄛ]]
 - [[下]] in [[lexipedia/Sophomore List]]
 - [[words/下]] in [[characters/下 (char)]]
-- [[黒]] in [[lexipedia/Sophomore List]], [[syllables/ㄏㄨㄎ]]
 - [[黄]] in [[lexipedia/Sophomore List]], [[lookup/Radicals/Radical 201]], [[syllables/ㄏˇㄚㄥ]]
 - [[鷹]] in [[lexipedia/Sophomore List]]
 - [[鵰]] in [[lexipedia/Sophomore List]]
