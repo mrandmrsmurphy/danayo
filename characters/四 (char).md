@@ -1,7 +1,7 @@
 ---
-mandarin: "sì"
-cantonese: "sei3"
-korean: "사"
+mandarin: sì
+cantonese: sei3
+korean: 사
 korean_native: 넉
 japanese:
   - SHI
@@ -35,6 +35,7 @@ aliases:
   - 𠁤
   - 𠃢
   - 𦉭
+  - 泗
 date-last-perfect: 2026-01-30
 注音: ㄙㄧ˙
 ---

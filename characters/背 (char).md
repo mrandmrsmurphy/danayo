@@ -30,9 +30,9 @@ aliases:
 ---
 >[!tip] This is a page about the character 背.
 >For the word, see [背](words/背.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+- <ruby>[駝背](/words/駝背.md)<rt>ㄉㄚㄅㄛ˙</rt></ruby>
