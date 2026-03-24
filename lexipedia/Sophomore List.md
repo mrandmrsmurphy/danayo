@@ -177,7 +177,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Harsh : marsh, swamp, desert, wilderness, jungle
 - Rivers : river -[[川]] , stream - [[河]], brook - [[江]], channel, rapids, portage, source, confluence, delta, bank, waterfall, spring
 - Lake : lake - [[湖]], pond - [[池]]
-- Sea : sea - [[海]], ocean - [[洋]], bay - [[湾]], strait - [[海峽]]
+- Sea : sea - [[海洋]], ocean - [[洋]], bay - [[湾]], strait - [[海峽]]
 - Coastline : coast, beach, peninsula - [[半島]], cape, point
 - Island : island - [[島]], archipelago - [[列島]] & [[群島]], atoll - [[環礁]]
 - Local : rock - [[石]], tree - [[words/木]], bridge, ford, dam - [[堰堤,]], park, oasis
