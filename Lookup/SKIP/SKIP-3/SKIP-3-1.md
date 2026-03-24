@@ -3,7 +3,7 @@ date-last-perfect: 2026-03-07
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
-1. no
+1. [SKIP-3-1-1](SKIP-3-1-1.md): 匕
 2. no
 3. no
 4. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md): 司

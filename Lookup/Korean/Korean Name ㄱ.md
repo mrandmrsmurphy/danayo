@@ -95,7 +95,7 @@ This has been checked for redirects.
 [菓](characters/果.md) [跨 (char)](characters/跨%20(char).md) [鍋](characters/鍋%20(char).md) [顆](characters/顆.md) [戈](characters/戈.md) [瓜](characters/瓜.md)
 
 ### 곽 
-[[廓]] [[槨]] [[藿]] 
+[[廓]] [[槨]] [[藿]] [霍](../../characters/霍.md)
 
 ### 관 
 [款 (char)](characters/款%20(char).md) [[琯]] 錧 none [灌](characters/灌.md) [[瓘]] [[梡]] [串](characters/串%20(char).md) [棺 (char)](characters/棺%20(char).md) [罐](characters/缶.md) [菅](characters/菅.md) 
