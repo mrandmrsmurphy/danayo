@@ -1,13 +1,14 @@
 ---
-mandarin: "cán"
-cantonese: "caan4"
-korean: "잔"
+mandarin: cán
+cantonese: caan4
+korean: 잔
 korean_native: 해칠
 japanese:
   - ZAN
   - SAN
 japanese_nanori: ""
 vietnamese:
+  - tàn
 middle_chinese_initial: d͡z
 middle_chinese_final: ɑn
 stroke_count: 10
@@ -21,7 +22,7 @@ english:
 羅馬字: jan
 韓文: 잔
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 5338
 mc_id: 1260
