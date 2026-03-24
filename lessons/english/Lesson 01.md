@@ -40,3 +40,5 @@ Combinations are possible, but not all actually occur
 - ㄊ **t**
 - ㄪ **v**, a very rare sound (skip it, if you like)
 
+**f** and **v** only occur in certain foreign words, like <ruby>珈啡<rt>ㄎㄛㄈㄧ</rt></ruby> (coffee) and <ruby>釩金<rt>ㄪㄚㄋㄙㄛ</rt></ruby> (Vanadium).
+
