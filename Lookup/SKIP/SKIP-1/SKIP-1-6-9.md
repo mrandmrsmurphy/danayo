@@ -8,12 +8,30 @@ size: 19
 > [Stroke 15](lookup/Stroke/Stroke%2015.md)
 
 ## Characters
-箱 (char), 糊, 線, 締 (char), 編, 緩, 縁, 縄 (char), 蝉 (char), 蝓, 蝙, 蝠, 蝦, 蝶, 蝸, 蝿, 輝, 酋, 頬
+1. <ruby>[箱](/characters/箱%20(char).md)<rt>ㄙㄚㄥ</rt></ruby> - case, box
+2. <ruby>[糊](/characters/糊.md)<rt>ㄏㄛˇ</rt></ruby>
+3. <ruby>[線](/characters/線.md)<rt>ㄙ˙ㄝㄋ</rt></ruby>
+4. <ruby>[締](/characters/締%20(char).md)<rt>ㄊㄝ˙</rt></ruby>
+5. 編
+6. 緩
+7. 縁
+8. 縄 (char)
+9. 蝉 (char)
+10. 蝓
+11. 蝙
+12. 蝠
+13. 蝦
+14. 蝶
+15. 蝸
+16. 蝿
+17. 輝
+18. 酋
+19. 頬
 
 ## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", english AS "en"
+TABLE english AS "en", stand_in AS "SI", grade_level AS "GL"
 FROM "characters"
 WHERE skip_number = "1-6-9"
-SORT file.name ASC
+SORT grade_level ASC
 ```

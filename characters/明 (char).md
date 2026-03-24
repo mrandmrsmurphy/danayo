@@ -44,6 +44,7 @@ aliases:
 - [[Radical 072|日]] + [[月 (char)]] = [[SKIP-1-4-4]] ([[Stroke 08]])
 
 ## Words
-- 鷦明
+- [[鷦明]]
+- [[孔明]]
 ## Chengyu
 - <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ˙ㄝㄋㄇ˙ㄝㄥ</rt></ruby>
