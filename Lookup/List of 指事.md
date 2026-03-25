@@ -18,83 +18,83 @@ size: 56
 10. <ruby>[之 (char)](/characters/之%20(char).md)<rt>ㄊㄧ</rt></ruby>
 11. <ruby>[与 (char)](/characters/与%20(char).md)<rt>˙ㄛ</rt></ruby>
 ### 4
-13. <ruby>[中 (char)](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby>
-
-| file name |           english            | stroke_count |
-| --------- | ---------------------------- | ------------ |
-|     乏     |        scarcity, lack        |      4       |
-|     予     |          beforehand          |      4       |
-| 今 (char)  |             now              |      4       |
-|     介     |           mediator           |      4       |
-| 六 (char)  |            six, 6            |      4       |
-|     厄     |       burden, trouble        |      4       |
-|     尹     |       govern, oversee        |      4       |
-| 尺 (char)  |       foot (distance)        |      4       |
-|     幻     |     dillusion, illusion      |      4       |
-| 欠 (char)  |             yawn             |      4       |
-| 丘 (char)  |             hill             |      5       |
-|     占     |            occupy            |      5       |
-|     古     |         ancient, old         |      5       |
-| 台 (char)  | pedestal, platform, machines |      5       |
-| 四 (char)  |           four, 4            |      5       |
-|     央     |        center, middle        |      5       |
-|     弗     |           fluorine           |      5       |
-|     旦     |           daybreak           |      5       |
-|     末     |           end, tip           |      5       |
-| 本 (char)  |          foundation          |      5       |
-| 石 (char)  |             rock             |      5       |
-|     㐱     |    black hair, thick hair    |      5       |
-| 両 (char)  |             both             |      6       |
-| 亙 (char)  |       across, athwart        |      6       |
-| 亦 (char)  |             too              |      6       |
-| 光 (char)  |            light             |      6       |
-| 共 (char)  |        with, together        |      6       |
-|     曲     |          tune, bend          |      6       |
-|     虫     |             bug              |      6       |
-| 行 (char)  |        attend, go to         |      6       |
-|     図     |           diagram            |      7       |
-| 坐 (char)  |             sit              |      7       |
-|     夹     |         clip, holder         |      7       |
-| 見 (char)  |             see              |      7       |
-| 言 (char)  |             say              |      7       |
-|     典     |   dictionary, subject book   |      8       |
-|     学     |            learn             |      8       |
-|     斉     |         simultaneous         |      8       |
-| 品 (char)  |        article, item         |      9       |
-|     昷     |       feed a prisoner        |      9       |
-| 柬 (char)  |      letter, invitation      |      9       |
-|     音     |            sound             |      9       |
-|     具     |       tool, impliment        |      12      |
-
+12. <ruby>[中 (char)](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby>
+13. 乏
+14. 予
+15. 今 (char)
+16. 介
+17. 六 (char)
+18. 厄
+19. 尹
+20. 尺 (char)
+21. 幻
+22. 欠
 ### 5
 14. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, originally "breathing"
+15. 丘 (char)
+16. 占
+17. 古
+18. 台 (char)
+19. 央
+20. 本 (char)
+21. 末
+22. 央
+23. 弗
+24. 旦
+25. 石 (char)
+26. 㐱
+### 6
+- 両 (char)
+- 亙 (char)
+- 亦 (char)
+- 光 (char)
+- 共 (char)
+- 曲
+- 虫
+ - 行 (char)
+### 7
+- 図
+- 坐 (char)
+- 夹
+- 見 (char)
+- 言 (char)
+
+### 8
+- 典
+- 学
+- 斉
+
+
+
 15. 半
 16. 世
 17. 百
-18. 本
-19. 末
-20. [夫 (char)](characters/夫%20(char).md)
-21. 元
-22. 立
-23. 位
-24. 並
-25. 普
-26. 替
-27. 望
-28. 呈
-29. 程
-30. 聖
-31. 廷
-32. 庭
-33. 氏
-34. 底
-35. 低
-36. 邸
-37. 弟
-38. 第
-39. 姉
+18. [夫 (char)](characters/夫%20(char).md)
+19. 元
+20. 立
+21. 位
+22. 並
+23. 普
+24. 替
+25. 望
+26. 呈
+27. 程
+28. 聖
+29. 廷
+30. 庭
+31. 氏
+32. 底
+33. 低
+34. 邸
+35. 弟
+36. 第
+37. 姉
 ### 9
 40. [[昷]]
+41. [[品 (char)]]
+42. [[柬 (char)]]
+43. [[音]]
+44. [[具]]
 
 ## Base check
 ```base
