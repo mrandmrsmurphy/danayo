@@ -32,8 +32,14 @@ views:
       - danayo_id
       - hanmun_edu_level
       - date-last-perfect
-      - grade_level
+      - stroke_count
     sort:
+      - property: stroke_count
+        direction: ASC
+      - property: danayo_id
+        direction: ASC
+      - property: grade_level
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
       - property: formula.spot
@@ -42,10 +48,8 @@ views:
         direction: ASC
       - property: hanmun_edu_level
         direction: DESC
-      - property: danayo_id
-        direction: ASC
     columnSize:
-      file.name: 40
+      file.name: 102
       note.english: 98
       note.danayo_id: 64
       note.hanmun_edu_level: 57
