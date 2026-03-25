@@ -20,3 +20,27 @@
 7. <ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby> - sodium
 8. <ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby> - titanium
 9. <ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
+
+## Base check
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "characters"
+        - file.hasTag("neologism")
+    order:
+      - file.name
+      - english
+      - stroke_count
+      - date-last-perfect
+      - danayo_id
+    sort:
+      - property: stroke_count
+        direction: ASC
+    columnSize:
+      note.english: 147
+      note.stroke_count: 81
+      note.date-last-perfect: 121
+```

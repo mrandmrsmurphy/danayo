@@ -87,5 +87,4 @@ views:
       note.english: 147
       note.stroke_count: 81
       note.date-last-perfect: 121
-
 ```
