@@ -34,4 +34,4 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- A ideograph of 八丂
+- A ideograph of [丂](考.md) "fork in a tree" + [八](Radical%20012) "wind in the trees"

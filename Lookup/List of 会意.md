@@ -10,8 +10,8 @@ This is one of the <ruby>[六書](/words/六書.md)<rt>ㄌㄨㄎㄙ˙ㄛ</rt></r
 3. <ruby>[及](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby> "reach = person + right-hand"
 ### 4
 4. <ruby>[公](/characters/公%20(char).md)<rt>ㄍㄛㄥ</rt></ruby> "public = not + private"
-5. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝ˙</rt></ruby>
-6. 分 (char)
+5. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝ˙</rt></ruby> "pshaw = tree + wind"
+6. <ruby>[分](/characters/分%20(char).md)<rt>ㄅㄨㄋ</rt></ruby>
 7. 勻
 8. 勾
 9. 化 (char)
