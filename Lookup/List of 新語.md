@@ -36,6 +36,7 @@ views:
       - date-last-perfect
       - 注音
       - pos
+      - file.tags
     sort:
       - property: stroke_count
         direction: ASC

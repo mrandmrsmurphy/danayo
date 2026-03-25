@@ -25,7 +25,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 12
 mc_id: 1
-graphemic_classification: 指事
+graphemic_classification: 會意
 stand_in: 之
 aliases:
   - 㞢
@@ -41,7 +41,9 @@ date-last-perfect: 2026-02-20
 [[nav/char_info]]
 ```
 ## Notes
-
+- Ideogrammic compound (會意 / 会意): 止 (“foot”) + 一 (“the beginning place”), originally written as 㞢; compound meaning “to go”. Hence, the character was similar to 出.  Filed under [丿](Radical%20004)
+### Derived Characters
+- [[乏]], [[芝]], 㝎-->定 
 ## Words
 - <ruby>[之間](/words/之間.md)<rt>ㄊㄧㄍㄚㄋ</rt></ruby>
 

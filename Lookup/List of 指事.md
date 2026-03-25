@@ -7,42 +7,40 @@ size: 56
 1. <ruby>[一](/characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one
 2. <ruby>[乂](/characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern, originally "to cut with scissors"
 3. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧ˙</rt></ruby> - two
-4. <ruby>[八](/characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, originally 
-   "divide"
+4. <ruby>[八](/characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, originally "divide"
 5. <ruby>[十](/characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten, originally just a vertical mark
 ### 3
 6. <ruby>[三](/characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
-7. <ruby>[上 (char)](/characters/上%20(char).md)<rt>ㄙ˙ㄚㄥ</rt></ruby>
-8. <ruby>[下 (char)](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby>
-9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄥ</rt></ruby>
-10. <ruby>[之 (char)](/characters/之%20(char).md)<rt>ㄊㄧ</rt></ruby>
-11. <ruby>[与 (char)](/characters/与%20(char).md)<rt>˙ㄛ</rt></ruby>
+7. <ruby>[上](/characters/上%20(char).md)<rt>ㄙ˙ㄚㄥ</rt></ruby> - up
+8. <ruby>[下 (char)](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down
+9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄥ</rt></ruby> die - "edge of a knife"
+10. <ruby>[与 (char)](/characters/与%20(char).md)<rt>˙ㄛ</rt></ruby>
 ### 4
-12. <ruby>[中 (char)](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby>
-13. 乏
-14. 予
-15. 今 (char)
-16. 介
-17. 六 (char)
-18. 厄
-19. 尹
-20. 尺 (char)
-21. 幻
-22. 欠
+11. <ruby>[中 (char)](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby>
+12. 乏
+13. 予
+14. 今 (char)
+15. 介
+16. 六 (char)
+17. 厄
+18. 尹
+19. 尺 (char)
+20. 幻
+21. 欠
 ### 5
-14. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, originally "breathing"
-15. 丘 (char)
-16. 占
-17. 古
-18. 台 (char)
-19. 央
-20. 本 (char)
-21. 末
-22. 央
-23. 弗
-24. 旦
-25. 石 (char)
-26. 㐱
+22. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, originally "breathing"
+23. 丘 (char)
+24. 占
+25. 古
+26. 台 (char)
+27. 央
+28. 本 (char)
+29. 末
+30. 央
+31. 弗
+32. 旦
+33. 石 (char)
+34. 㐱
 ### 6
 - 両 (char)
 - 亙 (char)

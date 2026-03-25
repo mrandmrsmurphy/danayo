@@ -1,12 +1,13 @@
 ---
-mandarin: "bǐ"
-cantonese: "bei2"
-korean: "피"
+mandarin: bǐ
+cantonese: bei2
+korean: 피
 korean_native: ""
 japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
+  - bỉ
 middle_chinese_initial: p
 middle_chinese_final: ɣiᴇ
 stroke_count: 8
