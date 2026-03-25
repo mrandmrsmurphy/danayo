@@ -30,6 +30,8 @@ stand_in: 中
 aliases:
   - 𠁩
 注音: ㄐㄨㄥ
+date-last-perfect: 2026-03-25
+kwin: true
 ---
 >[!tip] This is a page about the character 中.
 >For the word, see [中](中)
@@ -37,7 +39,7 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- Pictogram ([List of 象形](../lookup/List%20of%20象形.md)象形) – a flagpole, as depicted in its original form 𠁩. Based on archaeological evidence, the middle box has been interpreted as a drum (建鼓). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of 中 (OC \*tuŋ, \*tuŋs) is reminiscent of the beating of a drum.
+- Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – a flagpole, as depicted in its original form 𠁩. Based on archaeological evidence, the middle box has been interpreted as a drum (建鼓). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of 中 (OC \*tuŋ, \*tuŋs) is reminiscent of the beating of a drum.
 	- Shuowen interprets the character as a vertical stroke 丨 passing through the center of 口, indicating the center.
 	- It has also been interpreted as an arrow in the center of a target.
 - [[口]] + [丨](Radical%20002)
@@ -47,7 +49,10 @@ aliases:
 ## Definitions
 1. present tense
 2. midst, middle, center
+	- short for [[中央]]
 3. China ("middle kingdom")
+	- short for [[中国]]
+
 ## Words
 - [[中原]]
 - [[中国人]]
