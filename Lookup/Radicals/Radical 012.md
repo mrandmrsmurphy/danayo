@@ -1,7 +1,14 @@
 ---
 size: 10
+radical: 八
 ---
-> [[Radicals]]
+> [Radicals](Radicals.md)
+
+## Characters
+
+
+### Misc
+- [分 (char)](../../characters/分%20(char).md) has this in it, but isn't listed here.
 
 ## Data search
 ```dataview

@@ -1,7 +1,7 @@
 ---
-mandarin: "fēn"
-cantonese: "fan1"
-korean: "분"
+mandarin: fēn
+cantonese: fan1
+korean: 분
 korean_native: ""
 japanese:
   - BUN
@@ -19,7 +19,7 @@ pos: ""
 english:
   - divide
 羅馬字: bun
-韓文:  분
+韓文: 분
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -30,6 +30,7 @@ stand_in: 分
 aliases:
   - 份
 注音: ㄅㄨㄋ
+date-last-perfect: 2026-03-24
 ---
 >[!tip] This is a page about the character 分.
 >For the word, see [分](words/分.md)
@@ -38,12 +39,15 @@ aliases:
 ```
 ## Notes
 - 份 is listed here
+- 会意): [八](Radical%20012) (“to separate”) + [刀](Radical%20018) (“knife”) – to separate with a knife.
 ### Derived Characters
-- [扮 (char)](扮%20(char).md)
+- [扮](扮%20(char).md)
 - [盼](盼.md)
-- [粉 (char)](粉%20(char).md)
-- [紛 (char)](紛%20(char).md) 纷
-- [頒](頒.md) (颁)
+- [粉](粉%20(char).md)
+- [紛](紛%20(char).md)
+- [頒](頒.md)
 - [忿](憤.md)
-- [盆 (char)](盆%20(char).md)
-- [[兺, 蚠, 貧 (贫), 麄, 㞣, 芬, 哛, 雰, 棼, 釁, 氛, 掰, 椕, 㟗
+- [盆](盆%20(char).md)
+- [貧](貧.md)
+- [芬](芬.md)
+- [雰](雰.md)

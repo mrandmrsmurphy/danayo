@@ -1,5 +1,5 @@
 [[行]]: 31
-[分 (char)](characters/分%20(char).md): 30
+分: 30
 [[法]]: 30
 [出](characters/出%20(char).md): 29
 [[名]]: 29
