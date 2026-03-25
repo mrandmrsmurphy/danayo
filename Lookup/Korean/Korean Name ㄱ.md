@@ -86,7 +86,7 @@ This has been checked for redirects.
 [[汨]] 滑 (done)
 
 ### 공 
-[[珙]] [控](characters/控.md) [拱 (char)](characters/拱%20(char).md) [蚣](characters/公%20(char).md) [[鞏]]
+[[珙]] [控](characters/控.md) [拱 (char)](characters/拱%20(char).md) 蚣 --> 公 [[鞏]]
 
 ### 곶 
 [串](characters/串%20(char).md)

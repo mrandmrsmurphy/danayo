@@ -65,7 +65,7 @@
 [[人]]: 5
 [[習]]: 5
 [习](characters/習.md): 5
-[公 (char)](characters/公%20(char).md): 5
+公 : 5
 [里 (char)](characters/里%20(char).md): 5
 [[活]]: 5
 [[見]]: 5

@@ -34,7 +34,6 @@
 [平](characters/平.md): 13
 [學](characters/学.md): 13
 [長 (char)](characters/長%20(char).md): 13
-[公 (char)](characters/公%20(char).md): 13
 [到](characters/到.md): 13
 [作 (char)](characters/作%20(char).md): 13
 [反 (char)](characters/反%20(char).md): 13
