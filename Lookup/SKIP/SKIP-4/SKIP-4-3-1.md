@@ -8,18 +8,18 @@ stroke_count: 3
 
 ## Characters
 1. [[夕]]	
-2. <ruby>[[于 (char)]]<rt>ㄨ</rt></ruby>
+2. <ruby>[于](../../../characters/于%20(char).md)<rt>ㄨ</rt></ruby>
 3. [[兀]]
 4. [[弓]]
 5. [[己]]	
-6. <ruby>[[口 (char)]]<rt>ㄎㄛˇ</rt></ruby>
+6. <ruby>[口](../../../characters/口%20(char).md)<rt>ㄎㄛˇ</rt></ruby>
 7. [[工]]
-8. <ruby>[[下 (char)]]<rt>ㄏㄚ</rt></ruby>
-9. [[叉]]	
-10. <ruby>[[已 (char)]]<rt>ㄧ</rt></ruby>
-11. <ruby>[[子]]<rt>ㄐㄧ</rt></ruby>
+8. <ruby>[下](../../../characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby>
+9. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby>
+10. <ruby>[已](../../../characters/已%20(char).md)<rt>ㄧ</rt></ruby>
+11. <ruby>[子](../../../characters/子.md)<rt>ㄐㄧ</rt></ruby>
 12. [[巳]]
-13. <ruby>[[干]]<rt>ㄍㄚㄋ</rt></ruby>
+13. <ruby>[干](../../../characters/干.md)<rt>ㄍㄚㄋ</rt></ruby>
 14. [[久]]
 15. [[及]]
 ### Aliases

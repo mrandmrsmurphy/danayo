@@ -6,7 +6,7 @@ This is one of the <ruby>[六書](/words/六書.md)<rt>ㄌㄨㄎㄙ˙ㄛ</rt></r
 ## By Stroke
 ### 3
 1. <ruby>[丈](/characters/丈%20(char).md)<rt>ㄑㄚㄥ</rt></ruby> "cang = 10 + ceg"
-2. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby>
+2. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby> "fork = right-hand + dot"
 3. <ruby>[及](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby>
 ### 4
 4. 今 (char)

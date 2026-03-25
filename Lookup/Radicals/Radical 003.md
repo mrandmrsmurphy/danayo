@@ -3,7 +3,7 @@ size: 3
 radical: 丶
 date-last-perfect: 2026-02-22
 ---
-> [[Radicals]]
+> [Radicals](Radicals.md)
 
 ## Characters
 ### Used
@@ -14,6 +14,9 @@ date-last-perfect: 2026-02-22
 - 丼 --> 井
 ### Forbidden
 - 丷 --> Korean 구결 for '하다'
+### Other
+- [叉](../../characters/叉%20(char).md) has a 'dot' in it, but isn't listed under this radical.
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"

@@ -29,6 +29,7 @@ stand_in: 丈
 aliases:
   - 𠀋
 注音: ㄑㄚㄥ
+date-last-perfect: 2026-03-24
 ---
 >[!tip] This is a page about the character 丈.
 >For the word, see [丈](words/丈.md)
@@ -44,11 +45,11 @@ aliases:
 
 ## Definition
 1. An ancient unit of length, about 3.3m
-	1. [[波乱万丈]]
+	1. <ruby>[波乱万丈](/chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄐㄚㄥ</rt></ruby> - agitated from a 10,000 ft tall wave
 	2. When used alone
 2. gentlemen, husband
-	1. [[丈夫]]
-	2. [[丈人]] - father in law
-	3. [[丈母]] - mother in law
-	4. [[姑丈]] - father's sister's husband
+	1. <ruby>[丈夫](/words/丈夫.md)<rt>ㄐㄚㄥㄅㄨ</rt></ruby> - husband
+	2. <ruby>[丈人](/words/丈人.md)<rt>ㄐㄚㄥㄋㄧㄋ</rt></ruby> - father in law
+	3. <ruby>[丈母](/words/丈母.md)<rt>ㄐㄚㄥㄇㄛˇ</rt></ruby> - mother in law
+	4. <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄥ</rt></ruby> - father's sister's husband
 
