@@ -189,23 +189,23 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1213. [[詰]] : packed
 1214. [[却]] : instead
 1215. [[脚]] : leg
-1216. [[虐]] : tyrannize
-1217. [[及]] : reach out
-1218. [[丘]] : hill
-1219. [[朽]] : decay
-1220. [[臼]] : mortar
-1221. [[糾]] : twist
-1222. [[嗅]] : smell
-1223. [[窮]] : hard up
-1224. [[巨]] : gigantic
-1225. [[拒]] : repel
-1226. [[拠]] : 	據	foothold
+1216. [虐](../../characters/虐.md) : tyrannize
+1217. [及 (char)](../../characters/及%20(char).md) : reach out
+1218. [丘 (char)](../../characters/丘%20(char).md) : hill
+1219. [朽](../../characters/朽.md) : decay
+1220. [臼 (char)](../../characters/臼%20(char).md) : mortar
+1221. [糾 (char)](../../characters/糾%20(char).md) : twist
+1222. [嗅](../../characters/嗅.md) : smell
+1223. [窮](../../characters/窮.md) : hard up
+1224. [巨](../../characters/巨.md) : gigantic
+1225. [拒](../../characters/拒.md) : repel
+1226. [拠](../../characters/拠.md) : 	據	foothold
 1227. [虚 (char)](characters/虚%20(char).md) : 	虛	void
-1228. [[距]] : long-distance
-1229. [[御]] : honorable
-1230. [[凶]] : villain
-1231. [[叫]] : shout
-1232. [[狂]] : lunatic
+1228. [距](../../characters/距.md) : long-distance
+1229. [御](../../characters/御.md) : honorable
+1230. [凶 (char)](../../characters/凶%20(char).md) : villain
+1231. [叫 (char)](../../characters/叫%20(char).md) : shout
+1232. [狂](../../characters/狂.md) : lunatic
 1233. [享](characters/享.md) : receive
 1234. [況](characters/況.md) : condition
 1235. [峡](characters/峡.md) : 	峽	gorge

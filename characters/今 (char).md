@@ -25,7 +25,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 34
 mc_id: 80
-graphemic_classification: 會意
+graphemic_classification: 指事
 stand_in: 今
 aliases:
   - 芩
@@ -33,7 +33,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 今.
 >For the word, see [今](words/今.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- 指事 – An inverted 曰 (yuē) ("to speak"), hence 亼 with a horizontal stroke at the bottom, so the inverted mouth means "not to speak".

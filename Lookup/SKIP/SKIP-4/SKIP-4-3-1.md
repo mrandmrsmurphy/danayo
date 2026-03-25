@@ -21,7 +21,7 @@ stroke_count: 3
 12. [[巳]]
 13. <ruby>[干](../../../characters/干.md)<rt>ㄍㄚㄋ</rt></ruby>
 14. [[久]]
-15. [[及]]
+15. [及 (char)](../../../characters/及%20(char).md)
 ### Aliases
 - 尸, i.e. Radical 044
 - 刄, a.k.a. 刃 (SKIP-3-3-1)

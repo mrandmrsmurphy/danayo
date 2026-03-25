@@ -31,6 +31,7 @@ aliases:
   - 﨤
 注音: ㄍㄨㄆ
 kwin: true
+date-last-perfect: 2026-03-24
 ---
 >[!tip] This is a page about the character 及.
 >For the word, see [及](words/及.md)
@@ -40,3 +41,14 @@ kwin: true
 ## Notes
 - 会意: [人](人%20(char).md) (“person”) + [又](Radical%20029) (“hand”) – a hand grabbing a person. (The second is the radical, not the first!)
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄍㄨㄆ](../syllables/ㄍㄨㄆ.md)
+- [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 3](../lookup/Grade%203.md)
+## Words
+- [[埃及]] - Egypt
+- [[不及]] - to be worse than, to fail to reach to
+- [[及第]] - to pass an imperial exam, to pass a grade
+- [[言及]] - to mention, to refer to, to raise (as a topic)
+- [[遡及]] - to apply retroactively
+- [[追及]]
+- [[波及]]
+- [[白及]] - baiji
+- [[普及]] diffuse

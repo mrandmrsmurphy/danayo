@@ -5,9 +5,12 @@ radical: 厶
 ---
 > [[Radicals]]
 
+## Characters
 1. <ruby>[[去 (char)|去]]<rt>ㄎ˙ㄛ</rt></ruby> - go
 2. <ruby>[[参]]<rt>ㄙㄚㄇ</rt></ruby> - participate
 
+### Misc.
+- [[公
 ## Base check
 ```base
 views:

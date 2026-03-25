@@ -33,9 +33,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 公.
 >For the word, see [公](words/公.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 会意 : The traditional interpretation as given by Han Feizi is that 公 is a compound of [八](Radical%20012) (= 背 (“to deviate; opposite”)) and [厶](Radical%20028) (original form of 私 (“individual; private”)), i.e. the opposite of “private” — “public”. This theory is supported by Sun Yirang and Qiang Kaiyun, despite the somewhat different shape of the bottom component from 厶.
