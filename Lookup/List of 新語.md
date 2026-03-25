@@ -28,14 +28,14 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "characters"
+        - file.folder == "words"
         - file.hasTag("neologism")
     order:
       - file.name
       - english
-      - stroke_count
       - date-last-perfect
-      - danayo_id
+      - 注音
+      - pos
     sort:
       - property: stroke_count
         direction: ASC
@@ -43,4 +43,5 @@ views:
       note.english: 147
       note.stroke_count: 81
       note.date-last-perfect: 121
+
 ```
