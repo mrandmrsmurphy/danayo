@@ -8,7 +8,7 @@ This is one of the <ruby>[六書](/words/六書.md)<rt>ㄌㄨㄎㄙ˙ㄛ</rt></r
 1. <ruby>[丈](/characters/丈%20(char).md)<rt>ㄑㄚㄥ</rt></ruby> "cang = 10 + ceg"
 2. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby> "fork = right-hand + dot"
 3. <ruby>[及](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby> "reach = person + right-hand"
-4. [之 (char)](../characters/之%20(char).md)
+4. <ruby>[之](/characters/之%20(char).md)<rt>ㄊㄧ</rt></ruby> "to go = foot + start"
 ### 4
 4. <ruby>[公](/characters/公%20(char).md)<rt>ㄍㄛㄥ</rt></ruby> "public = not + private"
 5. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝ˙</rt></ruby> "pshaw = tree + wind"
