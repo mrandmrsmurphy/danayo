@@ -47,7 +47,7 @@
 [样](characters/様%20(char).md): 6
 [[同]]: 6
 怎!!: 6
-[[中]]: 6
+中: 6
 [[常]]: 5
 [發](characters/発%20(char).md): 5
 [发](characters/発%20(char).md): 5
