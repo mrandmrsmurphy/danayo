@@ -84,62 +84,39 @@ In other words:
 > Treat “hidden” or obsolete phonetic links as irrelevant unless they are productive.
 
 ### Notes for Classification
-- 会意 is the **second-largest category after 形声**, which matches your count (~411).
-    
-- It is the most **useful category for deliberate character creation**, because it preserves semantic transparency.
-    
+- 会意 is the **second-largest category after 形声**.
+- It is the most **useful category for deliberate character creation**, because it preserves semantic transparency.    
 
-Design guidelines:
-
+Guidelines:
 1. **Prefer clear semantic contributions**  
     Each component should visibly support the intended meaning.
-    
 2. **Avoid accidental phonetic drift into 形声**  
     Do not rely on sound resemblance unless you intend a phonetic role.
-    
 3. **Favor interpretability over cleverness**  
     If a reader cannot plausibly infer the meaning, the composition is weak.
-    
 4. **Use it to reduce reliance on phonographic characters**  
     Especially for new vocabulary, 会意 provides a principled alternative to sound-based borrowing.
-    
-
----
 
 ### Practical Boundary with 形声
-
 A recurring ambiguity:
-
 - If one component could be read as either semantic or phonetic, decide by **function**:
-    
     - contributes meaning → 会意
-        
     - contributes sound → 形声
-        
 
 When in doubt, ask:
-
 > Would a learner use this component to guess the meaning, or the pronunciation?
 
 That answer determines the classification.
 
----
-
 ### Summary
-
 - 会意 builds meaning through **semantic composition**
-    
 - It contrasts with:
-    
     - depiction (象形)
-        
     - indication (指事)
-        
     - phonetic structuring (形声)
-        
 - Historical reanalysis does not invalidate its usefulness
-    
-- In a constructed system, it is a **primary tool for controlled, transparent vocabulary expansion**
+- In a constructed system, it is a **primary tool for controlled, transparent vocabulary expansion**.
+
 ## By Stroke
 ### 3
 1. <ruby>[丈](/characters/丈%20(char).md)<rt>ㄑㄚㄥ</rt></ruby> "cang = 10 + ceg"

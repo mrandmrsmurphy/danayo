@@ -35,12 +35,9 @@ date-last-perfect: 2026-02-11
 ---
 >[!tip] This is a page about the character 与.
 >For the word, see [与](words/与.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
-**and**, connecting nouns and the like, unlike [[而 (char)]]
+## Notes
 - [[Grade 1]], [[Korean MS]], [[Jōyō - Kōtō]], HSK 2
 - [[Radical 001]], [[SKIP-4-3-4]], [[Stroke 03]], [[˙ㄛ]]

@@ -39,10 +39,9 @@ kwin: true
 [[nav/char_info]]
 ```
 ## Notes
-- Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – a flagpole, as depicted in its original form 𠁩. Based on archaeological evidence, the middle box has been interpreted as a drum (建鼓). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of 中 (OC \*tuŋ, \*tuŋs) is reminiscent of the beating of a drum.
-	- Shuowen interprets the character as a vertical stroke 丨 passing through the center of 口, indicating the center.
+- Pictogram ([List of 指事](../lookup/List%20of%20指事.md)) – a flagpole, as depicted in its original form 𠁩. Based on archaeological evidence, the middle box has been interpreted as a drum (建鼓). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of 中 (OC \*tuŋ, \*tuŋs) is reminiscent of the beating of a drum.
+	- Shuowen interprets the character as a vertical stroke [丨](Radical%20002) passing through the center of [[口]], indicating the center.
 	- It has also been interpreted as an arrow in the center of a target.
-- [[口]] + [丨](Radical%20002)
 - [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄐㄨㄥ](../syllables/ㄐㄨㄥ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
 
