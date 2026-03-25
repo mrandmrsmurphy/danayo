@@ -1,8 +1,145 @@
 ---
 size: 411
 ---
-This is one of the <ruby>[六書](/words/六書.md)<rt>ㄌㄨㄎㄙ˙ㄛ</rt></ruby> (6 traditional kinds of Chinese characters).  It is a picture made of multiple characters/components but none of them give the sound.  (This usually just means it has been lost to historic sound changes.)
+# 会意— Compound Ideographs
+## Explained
+### Definition
+**会意** refers to characters formed by **combining two or more elements, each contributing meaning**, so that the whole expresses a new, often more abstract or relational idea. The interpretation arises from the interaction of parts, not from depiction (象形) or symbolic marking (指事), and not from a phonetic component (形声).
 
+Common examples:
+- 休 “rest” = 人 (person) + 木 (tree)
+- 明 “bright” = 日 (sun) + 月 (moon)
+- 武 “martial” (traditionally analyzed as 止 “foot/stop” + 戈 “halberd”)
+- 信 “trust” = 人 (person) + 言 (speech)
+
+In practice, 会意 is a productive way to build meaning transparently.
+
+### Structural Characteristics
+A character is best analyzed as 会意 when:
+1. **Multiple components each contribute semantics**  
+    Each part has an identifiable meaning relevant to the whole.
+2. **The whole meaning is an interpretive combination**  
+    Often metaphorical or relational (e.g., “person + tree” → “rest”).
+3. **No component is present primarily for sound**  
+    There is no dedicated phonetic element.
+4. **The structure is compositional and interpretable**  
+    A reader can plausibly recover the intended meaning from the parts.
+
+### Contrast with Other Categories
+**vs. 象形 (pictographs)**
+- 会意 combines elements to form a concept
+- 象形 is a single pictorial form
+
+Example contrast:
+- 林 (grove = 木 + 木) → 会意
+- 木 (tree) → 象形
+
+**vs. 指事 (simple indicatives)**
+- 会意 uses multiple semantic units
+- 指事 uses a single form with a symbolic mark
+
+Example contrast:
+- 本 (root: mark on 木) → 指事
+- 休 (person + tree) → 会意
+
+**vs. 形声 (phono-semantic compounds)**
+- 会意: all parts are semantic
+- 形声: one part is semantic, one part is phonetic
+
+Example contrast:
+- 信 (person + speech) → 会意
+- 清 (water + phonetic 青) → 形声
+
+### How to Classify a Character as 会意
+Use the following decision process:
+1. **Can the character be decomposed into recognizable components?**
+    - No → consider 象形 or 指事
+    - Yes → continue
+2. **Do all components contribute meaning to the whole?**
+    - Yes → continue
+    - No → likely 形声
+3. **Is any component primarily indicating pronunciation?**
+    - Yes → 形声
+    - No → continue
+4. **Does the meaning arise from combining the parts (often metaphorically)?**
+    - Yes → 会意
+    - No → reconsider analysis
+
+A useful diagnostic is substitution:  
+If replacing one component would systematically change the meaning (not just the sound), the structure is likely 会意.
+
+### On the “Lost Phonetic” Problem
+Modern paleographic research often shows that some characters traditionally labeled 会意 were **originally 形声**, where the phonetic relationship has been obscured by sound change or graphic evolution.
+
+Implications:
+- **Diachronic analysis (historical origin)** may differ from
+- **Synchronic analysis (how the character functions now)**
+
+For a working system like Dan’a’yo, the synchronic perspective is typically more useful:
+
+- If no phonetic role is recoverable or operative for users,  
+    classify the character as 会意.
+
+In other words:
+> Treat “hidden” or obsolete phonetic links as irrelevant unless they are productive.
+
+### Notes for Classification
+- 会意 is the **second-largest category after 形声**, which matches your count (~411).
+    
+- It is the most **useful category for deliberate character creation**, because it preserves semantic transparency.
+    
+
+Design guidelines:
+
+1. **Prefer clear semantic contributions**  
+    Each component should visibly support the intended meaning.
+    
+2. **Avoid accidental phonetic drift into 形声**  
+    Do not rely on sound resemblance unless you intend a phonetic role.
+    
+3. **Favor interpretability over cleverness**  
+    If a reader cannot plausibly infer the meaning, the composition is weak.
+    
+4. **Use it to reduce reliance on phonographic characters**  
+    Especially for new vocabulary, 会意 provides a principled alternative to sound-based borrowing.
+    
+
+---
+
+### Practical Boundary with 形声
+
+A recurring ambiguity:
+
+- If one component could be read as either semantic or phonetic, decide by **function**:
+    
+    - contributes meaning → 会意
+        
+    - contributes sound → 形声
+        
+
+When in doubt, ask:
+
+> Would a learner use this component to guess the meaning, or the pronunciation?
+
+That answer determines the classification.
+
+---
+
+### Summary
+
+- 会意 builds meaning through **semantic composition**
+    
+- It contrasts with:
+    
+    - depiction (象形)
+        
+    - indication (指事)
+        
+    - phonetic structuring (形声)
+        
+- Historical reanalysis does not invalidate its usefulness
+    
+- In a constructed system, it is a **primary tool for controlled, transparent vocabulary expansion**
 ## By Stroke
 ### 3
 1. <ruby>[丈](/characters/丈%20(char).md)<rt>ㄑㄚㄥ</rt></ruby> "cang = 10 + ceg"

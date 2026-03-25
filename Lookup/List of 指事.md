@@ -1,6 +1,90 @@
 ---
 size: 56
 ---
+# 指事 — Simple Indicatives
+## Explained
+### Definition
+**指事** refers to characters that represent **abstract or relational concepts** by means of **symbolic marks or modifications**, rather than by pictorial depiction. Instead of drawing an object (as in 象形), these characters “point to” an idea through convention.
+
+Typical examples include:
+- 上 “above”
+- 下 “below”
+- 本 “root, base” (a mark at the base of 木)
+- 末 “tip, end” (a mark at the top of 木)
+
+In traditional accounts of the 六書, this is a small class used to encode concepts that cannot be easily drawn.
+
+### Structural Characteristics
+A character is best analyzed as 指事 when:
+1. **The meaning is abstract, positional, or relational**  
+    Not a concrete object, but something like direction, location, or logical distinction.
+2. **The form uses marks, lines, or slight modifications**  
+    These indicate or “point to” a feature rather than depict it.
+3. **There is no phonetic component**  
+    The graph does not include an element chosen for sound.
+4. **The structure is minimal and non-compositional**  
+    It is not a combination of independent semantic units.
+
+### Contrast with Other Categories
+**vs. 象形 (pictographs)**
+- 指事 encodes an idea symbolically
+- 象形 depicts a visible object
+
+Example contrast:
+- 上 (above) → 指事
+- 山 (mountain) → 象形
+
+**vs. 会意 (compound ideographs)**
+- 指事 uses a single symbolic structure
+- 会意 combines multiple meaningful elements
+
+Example contrast:
+- 本 (root: mark on 木) → 指事
+- 林 (grove: 木 + 木) → 会意
+
+Note: 本 may look composite, but the added stroke is not an independent semantic unit. It is an indicator.
+
+**vs. 形声 (phono-semantic compounds)**
+- 指事 has no phonetic element
+- 形声 includes a phonetic component
+
+Example contrast:
+- 上 → 指事
+- 正 (in many analyses: phonetic component + semantic development) → not 指事
+
+### How to Classify a Character as 指事
+Use the following decision process:
+1. **Is the meaning abstract or relational (e.g., position, degree, logical distinction)?**
+    - Yes → continue
+    - No → consider 象形 or 会意
+2. **Does the graph rely on a simple mark or modification rather than a full depiction?**
+    - Yes → continue
+    - No → consider 象形
+3. **Can the character be decomposed into multiple meaningful parts?**
+    - Yes → 会意 or 形声
+    - No → continue
+4. **Is there any phonetic component?**
+    - Yes → 形声
+    - No → 指事
+
+Ambiguous cases often involve characters like 本 or 末. The key test is whether the added element is an independent semantic component (会意) or merely a positional indicator (指事).
+
+### Notes for Dan’a’yo Classification
+- 指事 remains a **small, tightly defined class**  
+    It is primarily suited for:
+    - spatial relations (上, 下)
+    - intrinsic parts (本, 末)
+    - simple conceptual distinctions
+- We avoid expanding 指事 into general abstraction  
+    Most abstract meanings in practice are better handled by:
+    - 会意 (compositional meaning), or
+    - lexical assignment to existing forms
+- We remain cautious with “marked pictographs”  
+    If a base form is modified by a stroke:
+    - If the stroke _points to a feature_ → 指事
+    - If it _adds a new semantic component_ → 会意
+
+In a constructed system, 指事 is best treated as a **minimal symbolic layer**, used sparingly where pictorial representation is impossible and compositional structure would be excessive.
 
 ## 指事 by Stroke
 ### 1 and 2
@@ -16,7 +100,7 @@ size: 56
 9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄥ</rt></ruby> die - "edge of a knife"
 10. <ruby>[与 (char)](/characters/与%20(char).md)<rt>˙ㄛ</rt></ruby>
 ### 4
-11. <ruby>[中 (char)](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby>
+11. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby>
 12. 乏
 13. 予
 14. 今 (char)

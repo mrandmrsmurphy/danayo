@@ -1,6 +1,85 @@
 ---
 size: 308
 ---
+# 象形 — Pictographs
+## Explained
+### Definition
+**象形** refers to characters that originated as **stylized drawings of concrete objects**. The graph is motivated directly by visual resemblance. Early forms in oracle bone and bronze inscriptions are typically more transparent, with later standard forms becoming abstracted.
+
+Typical examples include:
+- 日 “sun”
+- 月 “moon”
+- 木 “tree”
+- 山 “mountain”
+- 目 “eye”
+
+These are among the oldest strata of the script. In traditional accounts of the 六書, they form a small but foundational set.
+
+### Structural Characteristics
+A character is best analyzed as 象形 when:
+1. **The whole graph corresponds to a single object**  
+    It is not decomposable into meaningful semantic parts.
+2. **The form historically resembles the referent**  
+    The resemblance may be obscured in modern script but is clear in earlier forms.
+3. **No phonetic component is present**  
+    There is no element chosen to indicate pronunciation.
+4. **Meaning is primary and direct**  
+    The graph encodes a thing, not an abstract relation or a compound idea.
+
+### Contrast with Other Categories
+**vs. 指事 (simple indicatives)**
+- 象形 depicts an object
+- 指事 marks an abstract concept using symbols or modifications
+
+Example contrast:
+- 木 (tree) → 象形
+- 上 (above) → 指事
+
+**vs. 会意 (compound ideographs)**
+- 象形 is a single, non-compositional image
+- 会意 combines multiple elements to produce meaning
+
+Example contrast:
+- 木 (tree) → 象形
+- 林 (grove = tree + tree) → 会意
+
+**vs. 形声 (phono-semantic compounds)**
+- 象形 has no phonetic component
+- 形声 includes a phonetic element plus a semantic classifier
+
+Example contrast:
+- 山 (mountain) → 象形
+- 峰 (mountain peak: 山 + phonetic 夆) → 形声
+
+### How to Classify a Character as 象形
+Use the following decision process:
+1. **Is the character decomposable into meaningful parts?**
+    - Yes → not 象形
+    - No → continue
+2. **Does the overall shape historically resemble a physical object?**
+    - Yes → likely 象形
+    - No → consider 指事
+3. **Is there evidence of a phonetic component?**
+    - Yes → 形声
+    - No → continue
+4. **Is the meaning a concrete, visible thing (not relational or abstract)?**
+    - Yes → 象形
+    - No → likely 指事
+
+In ambiguous cases, consulting earlier script forms (oracle bone, bronze) is decisive. Many characters that appear arbitrary in modern form reveal clear pictorial origins historically.
+
+### Notes for Classification
+
+In a constructed system like Dan’a’yo:
+
+- 象形 are treated as a **closed closed class**  
+    New pictographs are difficult to justify unless they are visually obvious and culturally stable.
+- Many characters traditionally labeled 象形 are **better understood historically than synchronically**  
+    Their pictorial nature may not be obvious to users.
+- We do not reinterpret compositional characters as pictographs  
+    If a character can be analyzed into parts with meaning, it belongs elsewhere.
+
+Practically, 象形 remains a **small, core inventory** of basic nouns and natural forms that anchor the system visually and historically.
 
 ## List
 1. <ruby>[乙](/characters/乙%20(char).md)<rt>ㄛㄊ</rt></ruby> - fish cuts
