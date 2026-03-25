@@ -1,43 +1,42 @@
 ---
-size: 411
+size: 410
 ---
 This is one of the <ruby>[六書](/words/六書.md)<rt>ㄌㄨㄎㄙ˙ㄛ</rt></ruby> (6 traditional kinds of Chinese characters).  It is a picture made of multiple characters/components but none of them give the sound.  (This usually just means it has been lost to historic sound changes.)
 
 ## By Stroke
 ### 3
-1. 丈 (char)
-2. 叉 (char)
-3. 及 (char)
+1. <ruby>[丈](/characters/丈%20(char).md)<rt>ㄑㄚㄥ</rt></ruby> "cang = 10 + ceg"
+2. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby>
+3. <ruby>[及](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby>
 ### 4
-4. 仁
-5. 今 (char)
-6. 公 (char)
-7. 兮 (char)
-8. 分 (char)
-9. 勻
-10. 勾
-11. 化 (char)
-12. 双 (char)
-13. 反 (char)
-14. 孔 (char)
-15. 引 (char)
-16. 支
-17. 比 (char)
+4. 今 (char)
+5. 公 (char)
+6. 兮 (char)
+7. 分 (char)
+8. 勻
+9. 勾
+10. 化 (char)
+11. 双 (char)
+12. 反 (char)
+13. 孔 (char)
+14. 引 (char)
+15. 支
+16. 比 (char)
 ### 5
-18. 代
-19. 令 (char)
-20. 兄 (char)
-21. 処 (char)
-22. 北
-23. 卉
-24. 去 (char)
-25. 司
-26. 号
-27. 囚
-28. 外
-29. 左
+17. 代
+18. 令 (char)
+19. 兄 (char)
+20. 処 (char)
+21. 北
+22. 卉
+23. 去 (char)
+24. 司
+25. 号
+26. 囚
+27. 外
+28. 左
 ### 6 
-30. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 同, 名 (char), 吏, 各 (char), 因, 多 (char), 好 (char), 存, 守, 安, 尖, 後 (char), 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 
+29. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 同, 名 (char), 吏, 各 (char), 因, 多 (char), 好 (char), 存, 守, 安, 尖, 後 (char), 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 
 ### 7
 30. 乱, 位, 体, 克 (char), 兵, 初, 別 (char), 利, 労, 即 (char), 吝, 吹 (char), 呆 (char), 呉, 告, 困, 声, 妥, 孝 (char), 孚, 宋, 寿, 尾 (char), 尿 (char), 弄 (char), 役, 戒, 我 (char), 抑, 折, 更 (char), 条 (char), 沙 (char), 災, 牢, 男, 禿 (char), 秀 (char), 系, 舛, 赤 (char), 足 (char), 邑, 里 (char), 㑒, 
 ### 8
@@ -49,7 +48,23 @@ This is one of the <ruby>[六書](/words/六書.md)<rt>ㄌㄨㄎㄙ˙ㄛ</rt></r
 ### 11
 30. 喝 (char), 執, 壷, 婁, 宿, 寇, 尉 (char), 彗, 彪, 悉, 惇, 探, 掬, 斬 (char), 断, 旋, 族, 曼, 曹, 深, 渉 (char), 爽, 甜, 産, 畢, 異, 盗, 票 (char), 祭, 章 (char), 竟 (char), 粛, 翏, 覓, 規, 訥 (char), 設, 豚 (char), 赦, 軣, 逸 (char), 郵, 郭 (char), 郷, 閉, 陳, 麻, 
 ### 12
-30. 備, 制, 卿 (char), 善 (char), 喪, 報 (char), 寒, 尊, 尋 (char), 巽, 嵐, 彭, 戟, 散, 敦, 敢, 斑, 晶, 替, 最 (char), 棗, 棘, 森, 焚, 焦 (char), 畳 (char), 筋, 粥 (char), 絞, 絶 (char), 買, 道 (char), 量, 閑, 閏 (char), 間, 閙, 須, 飧, 勢, 咎, 塞, 嵩, 意, 棄, 楽, 漢, 煩 (char), 罪 (char), 義, 聖, 蒐, 辞, 辟, 遣 (char), 雷 (char), 飾, 鼓 (char), 塵, 墨, 奪, 寡, 徴, 態, 漆 (char), 算 (char), 綿, 罰, 翟, 蔑 (char), 需, 鳴 (char), 器, 審, 履 (char), 慶 (char), 憂, 暴 (char), 毅, 澈, 監, 磊, 罷, 膚, 質, 霅, 叡, 奮, 憩, 獣, 罹, 興 (char), 薦, 霍, 頤 (char), 餐 (char), 爵, 竃, 糞 (char), 頻 (char), 鮮, 叢, 瞻, 竄, 繭 (char), 闖, 䜌, 羅, 覇, 麗, 瀕, 競, 灋, 熊 (char), 欝
+30. 備, 制, 卿 (char), 善 (char), 喪, 報 (char), 寒, 尊, 尋 (char), 巽, 嵐, 彭, 戟, 散, 敦, 敢, 斑, 晶, 替, 最 (char), 棗, 棘, 森, 焚, 焦 (char), 畳 (char), 筋, 粥 (char), 絞, 絶 (char), 買, 道 (char), 量, 閑, 閏 (char), 間, 閙, 須, 飧, 
+### 13
+30. 勢, 咎, 塞, 嵩, 意, 棄, 楽, 漢, 煩 (char), 罪 (char), 義, 聖, 蒐, 辞, 辟, 遣 (char), 雷 (char), 飾, 鼓 (char), 
+### 14
+30. 塵, 墨, 奪, 寡, 徴, 態, 漆 (char), 算 (char), 綿, 罰, 翟, 蔑 (char), 需, 鳴 (char), 
+### 15
+30. 器, 審, 履 (char), 慶 (char), 憂, 暴 (char), 毅, 澈, 監, 磊, 罷, 膚, 質, 霅, 
+### 16
+30. 叡, 奮, 憩, 獣, 罹, 興 (char), 薦, 霍, 頤 (char), 餐 (char), 
+### 17
+30. 爵, 竃, 糞 (char), 頻 (char), 鮮, 
+### 18
+30. 叢, 瞻, 竄, 繭 (char), 闖, 䜌, 
+### 19
+30. 羅, 覇, 麗, 
+### 20+
+30. 瀕, 競, 灋, 熊 (char), 欝
 
 ## Base check
 ```base

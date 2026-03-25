@@ -1,7 +1,7 @@
 ---
-mandarin: "zhàng"
-cantonese: "zoeng6"
-korean: "장"
+mandarin: zhàng
+cantonese: zoeng6
+korean: 장
 korean_native: 어른
 japanese:
   - JOU
@@ -36,10 +36,13 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): [十](characters/十.md) (“ten”) + [又 (char)](characters/又%20(char).md) (“hand”) – ten ceg ([尺](characters/尺%20(char).md)) is one cang (丈). Similar but unrelated to 支.
+- [List of 会意](lookup/List%20of%20会意.md): [十](characters/十.md) (“ten”) + [又 (char)](characters/又%20(char).md) (“hand”) – ten ceg ([尺](characters/尺%20(char).md)) is one cang (丈). Similar but unrelated to 支.  Listed under [Radical 001](../lookup/Radicals/Radical%20001.md).
+- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄑㄚㄥ](../syllables/ㄑㄚㄥ.md)
+- [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Grade 5](../lookup/Grade%205.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md)
 ### Derived Character
 - [[杖]] = 木 + 丈
 
+## Definition
 1. An ancient unit of length, about 3.3m
 	1. [[波乱万丈]]
 	2. When used alone
