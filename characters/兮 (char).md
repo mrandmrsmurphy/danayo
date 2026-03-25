@@ -30,9 +30,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 兮.
 >For the word, see [兮](words/兮.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- A ideograph of 八丂
