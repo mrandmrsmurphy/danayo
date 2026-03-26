@@ -36,15 +36,19 @@ aliases:
   - 癘
   - 疠
 注音: ㄌㄝ
+date-last-perfect: 2026-03-26
+kwin: false
 ---
 >[!tip] This is a page about the character 厉.
 >For the word, see [厉](words/厉.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- 形声: (OC \*m·rads): semantic [厂](Radical%20027) + abbreviated phonetic [万](万.md) (OC \*m̥ʰraːds), also had semantic 石.
+- [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md)) - [ㄌㄝ](../syllables/ㄌㄝ.md)
+- [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
-# Notes
 ### 借代字
 - 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[words/牡厉]]
 - "leprosy", hence --> [[words/厉病]] (and 厉人 for 'leper')

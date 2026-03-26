@@ -350,7 +350,7 @@
 [[仄]]
 [硯](characters/硯.md)
 [閻 (char)](characters/閻%20(char).md)
-[蠣](characters/厉%20(char).md)
+蠣 --> 厉
 [祁](characters/祁.md)
 [[舛]]
 [[琵]]
