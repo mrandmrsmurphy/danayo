@@ -730,7 +730,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- [[鱗]] in [[syllables/ㄌㄧㄋ]]
+- [[words/鱗]] in [[syllables/ㄌㄧㄋ]]
 - [[関]] in [[syllables/ㄍˇㄚㄇ]]
 - [[魶]] in [[syllables/ㄋㄨㄆ]]
 - [[兄]] in [[syllables/ㄏ˙ㄛㄥ]]
