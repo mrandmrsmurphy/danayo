@@ -39,7 +39,8 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- List of : 
+- [List of 会意](../lookup/List%20of%20会意.md): Duplication of [木](Radical%20075) (“tree”) to give the idea of multiple trees (compare 森), thus a forest. See also the top component of 散 in its original version.
+ 
 ### Derived Character
 - [[禁]]
 ## Words

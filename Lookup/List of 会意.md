@@ -31,7 +31,7 @@ A character is best analyzed as 会意 when:
 - 象形 is a single pictorial form
 
 Example contrast:
-- [林 (char)](../characters/林%20(char).md) (grove = 木 + 木) → 会意
+- 林 (grove = 木 + 木) → 会意
 - 木 (tree) → 象形
 
 **vs. 指事 (simple indicatives)**
@@ -48,7 +48,7 @@ Example contrast:
 
 Example contrast:
 - 信 (person + speech) → 会意
-- 清 (water + phonetic 青) → 形声
+- [清](../characters/清.md) (water + phonetic 青) → 形声
 
 ### How to Classify a Character as 会意
 Use the following decision process:
