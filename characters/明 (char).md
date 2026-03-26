@@ -33,6 +33,7 @@ stand_in: 明
 aliases:
   - 奛
   - 䳟
+  - 眀
 注音: ㄇ˙ㄝㄥ
 ---
 >[!tip] This is a page about the character 明.
@@ -41,7 +42,8 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- [[Radical 072|日]] + [[月 (char)]] = [[SKIP-1-4-4]] ([[Stroke 08]])
+-  [List of 会意](../lookup/List%20of%20会意.md): [日](Radical%20072) (“sun”) + [月](月%20(char).md) (“moon”) – the sun just rising and the moon not yet set – dawn (天明 (tiānmíng)). Alternatively, it may be interpreted as two bright celestial bodies – bright. This form was already found in the oracle bone script and was prevalent throughout the eras.
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md)) - [ㄇ˙ㄝㄥ](../syllables/ㄇ˙ㄝㄥ.md)
 
 ## Words
 - [[鷦明]]

@@ -1,5 +1,5 @@
 ---
-size: 411
+size: 412
 ---
 # 会意— Compound Ideographs
 ## Explained
@@ -31,7 +31,7 @@ A character is best analyzed as 会意 when:
 - 象形 is a single pictorial form
 
 Example contrast:
-- 林 (grove = 木 + 木) → 会意
+- [林 (char)](../characters/林%20(char).md) (grove = 木 + 木) → 会意
 - 木 (tree) → 象形
 
 **vs. 指事 (simple indicatives)**
@@ -123,32 +123,33 @@ That answer determines the classification.
 2. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby> "fork = right-hand + dot"
 3. <ruby>[及](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby> "reach = person + right-hand"
 4. <ruby>[之](/characters/之%20(char).md)<rt>ㄊㄧ</rt></ruby> "to go = foot + start"
+5. <ruby>[与](/characters/与%20(char).md)<rt>˙ㄛ</rt></ruby> "offer = hands + tusk"
 ### 4
-4. <ruby>[公](/characters/公%20(char).md)<rt>ㄍㄛㄥ</rt></ruby> "public = not + private"
-5. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝ˙</rt></ruby> "pshaw = tree + wind"
-6. <ruby>[分](/characters/分%20(char).md)<rt>ㄅㄨㄋ</rt></ruby> "divide = separate + knife"
-7. <ruby>[勻](/characters/勻.md)<rt>˙ㄨㄋ</rt></ruby>
-8. 勾
-9. 化 (char)
-10. 双 (char)
-11. 反 (char)
-12. 孔 (char)
-13. 引 (char)
-14. 支
-15. 比 (char)
+6. <ruby>[公](/characters/公%20(char).md)<rt>ㄍㄛㄥ</rt></ruby> "public = not + private"
+7. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝ˙</rt></ruby> "pshaw = tree + wind"
+8. <ruby>[分](/characters/分%20(char).md)<rt>ㄅㄨㄋ</rt></ruby> "divide = separate + knife"
+9. <ruby>[勻](/characters/勻.md)<rt>˙ㄨㄋ</rt></ruby>
+10. 勾
+11. 化 (char)
+12. 双 (char)
+13. 反 (char)
+14. 孔 (char)
+15. 引 (char)
+16. 支
+17. 比 (char)
 ### 5
-16. 代
-17. 令 (char)
-18. 兄 (char)
-19. 処 (char)
-20. 北
-21. 卉
-22. 去 (char)
-23. 司
-24. 号
-25. 囚
-26. 外
-27. 左
+18. 代
+19. 令 (char)
+20. 兄 (char)
+21. 処 (char)
+22. 北
+23. 卉
+24. 去 (char)
+25. 司
+26. 号
+27. 囚
+28. 外
+29. 左
 ### 6 
 28. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 同, 名 (char), 吏, 各 (char), 因, 多 (char), 好 (char), 存, 守, 安, 尖, 後 (char), 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 
 ### 7
@@ -202,4 +203,5 @@ views:
       note.english: 147
       note.stroke_count: 81
       note.date-last-perfect: 121
+
 ```

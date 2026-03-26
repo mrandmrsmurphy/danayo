@@ -98,7 +98,6 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 7. <ruby>[上](/characters/上%20(char).md)<rt>ㄙ˙ㄚㄥ</rt></ruby> - up
 8. <ruby>[下 (char)](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down
 9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄥ</rt></ruby> die - "edge of a knife"
-10. <ruby>[与 (char)](/characters/与%20(char).md)<rt>˙ㄛ</rt></ruby>
 ### 4
 11. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby> center of a square
 12. 乏

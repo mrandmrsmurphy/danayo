@@ -1,7 +1,7 @@
 ---
-mandarin: "yǔ"
-cantonese: "jyu5"
-korean: "여"
+mandarin: yǔ
+cantonese: jyu5
+korean: 여
 korean_native: 더불
 japanese:
   - YO
@@ -25,7 +25,7 @@ hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 14
 mc_id: 32
-graphemic_classification: 指事
+graphemic_classification: 會意
 stand_in: 与
 aliases:
   - 與
@@ -39,5 +39,7 @@ date-last-perfect: 2026-02-11
 [[nav/char_info]]
 ```
 ## Notes
-- [[Grade 1]], [[Korean MS]], [[Jōyō - Kōtō]], HSK 2
-- [[Radical 001]], [[SKIP-4-3-4]], [[Stroke 03]], [[˙ㄛ]]
+- 会意 : Originally a picture of an 牙 (ivory tusk?) being carried on the should? (舁, itself made up of [臼](Radical%20134) "hands" + 廾 "hands")
+- In the historical Kangxi dictionary, this character is written with four strokes: ⿱⺊⿹𠃌一. In modern Japanese (and hence, Dan'a'yo), the character is written slightly differently, with the final 一 stroke extending across ㇉.
+- [Grade 1](../lookup/Grade%201.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md)
+- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md), [Stroke 03](../lookup/Stroke/Stroke%2003.md), [˙ㄛ](../syllables/˙ㄛ.md)

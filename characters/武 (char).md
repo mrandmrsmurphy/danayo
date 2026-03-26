@@ -34,9 +34,9 @@ aliases:
 ---
 >[!tip] This is a page about the character 武.
 >For the word, see [武](words/武.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- [List of 会意](../lookup/List%20of%20会意.md)): [戈](戈.md) (“blade”) + [止](Radical%20077) (“foot; to walk; to stop”) – army going on an expedition. In the character 武, the 戈 component is written above the 止 component.
 
-# Notes

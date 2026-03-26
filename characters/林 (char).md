@@ -39,6 +39,7 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
+- List of : 
 ### Derived Character
 - [[禁]]
 ## Words
