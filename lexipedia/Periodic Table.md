@@ -3,9 +3,7 @@ language: 単亜語
 tags:
   - periodictable
 ---
-<ruby>[週期表](/words/週期表.md)<rt>ㄐㄨˇㄎㄧㄙㄛ</rt></ruby>
-
-While many elements have common names across the region, it is necessary to invent an overall system made of #neologism s.  The system is
+<ruby>[週期表](/words/週期表.md)<rt>ㄐㄨˇㄎㄧㄙㄛ</rt></ruby> - While many elements have common names across the region, it is necessary to invent an overall system made of #neologism s.  The system is
 - Elements in rows 1, 2, and 13-18 end in -素.
 - Lanthanide, Actinide, and rows 2-12 end in 金.\*
 - Common names are followed when all agree.
@@ -38,13 +36,37 @@ While many elements have common names across the region, it is necessary to inve
 
 <!--4: . gyogim, vangim, sikgim //-->
 ### F-Block
-La's
+#### La
+58. Ce
+59. Pr
+60. Nd
+61. Pm
+62. Sm
+63. Eu
+64. Gd
+65. Tb
+66. Dy
+67. Ho
+68. Er
+69. Tm
+70. Yb
+71. Lu
 
-Ac's
-
-| 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 
-|----|---|---|---|---|---|---|-----|-----|----|---|
-| Th | Pa |<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|<ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>|<ruby>[冥金](/words/冥金.md)<rt>ㄇㄝㄥㄍㄧㄇ</rt></ruby>|美洲金|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金
+#### Ac
+90. Th 
+91. Pa
+92. <ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>
+93. <ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>
+94. <ruby>[冥金](/words/冥金.md)<rt>ㄇㄝㄥㄍㄧㄇ</rt></ruby>
+95. 美洲金
+96. Bk
+97. C..
+98. 愛因金
+99. 費米金
+100. 門捷金
+101. 諾貝金
+102. 羅倫金
+103. Lr
 
 
 111 leads to the name [[錀琴]] for röntgens
