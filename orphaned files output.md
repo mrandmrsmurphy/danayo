@@ -1,5 +1,6 @@
 ## To do
-道: 17
+
+[道 (char)](characters/道%20(char).md) 17
 部: 17
 地: 16
 校: 16

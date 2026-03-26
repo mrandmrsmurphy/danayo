@@ -1,10 +1,7 @@
 ---
-mandarin: "dào"
-cantonese:
-  - dou6
-  - dou3
-  - dou6-2
-korean: "도"
+mandarin: dào
+cantonese: dou6
+korean: 도
 korean_native: 길
 japanese:
   - DOU
@@ -36,10 +33,11 @@ aliases:
 ---
 >[!tip] This is a page about the character 道.
 >For the word, see [道](words/道.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 ## Notes
-- 辶,首 = [[SKIP-3-3-9]]
+- [[SKIP-3-3-9]]
+
+## Words
+- 
