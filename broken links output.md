@@ -566,7 +566,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鬼金]] in [[lexipedia/Periodic Table]]
 - [[鬼銅]] in [[lexipedia/Periodic Table]]
 - [[鈩金]] in [[lexipedia/Periodic Table]]
-- [[冥金]] in [[lexipedia/Periodic Table]]
+- [[words/冥金]] in [[lexipedia/Periodic Table]]
 - [[錀琴]] in [[lexipedia/Periodic Table]]
 
 - [[不真]] in [[lexipedia/Sophomore List]]

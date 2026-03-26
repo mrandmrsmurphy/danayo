@@ -31,9 +31,9 @@ In the modern period ([[近代]]), constitutional systems ([[立憲]][[制度]])
 ## 東南亜
 <ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄥㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄥㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·˙ㄚㄥ</rt></ruby>.
 The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[島嶼群]]) and straits ([[海峡]]) are common.  
-<ruby>海上<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby><ruby>交通<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>) forms an economic foundation (<ruby>経済<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>基盤<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
+<ruby>[海上](../words/海上.md)<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby><ruby>[交通](../words/交通.md)<rt>ㄍ˙ㄚㄎㄊㄛㄥ</rt></ruby>) forms an economic foundation (<ruby>[経済](../words/経済.md)<rt>ㄍㄝㄥㄐㄝ˙</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 
-Many states experienced colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) and later established independent states (独立<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures (政治体制) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝㄋㄚ</rt></ruby>.
+Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝㄋㄚ</rt></ruby>.
 
 - <ruby>[越南](words/越南.md)<rt>ˇㄝㄊㄋㄚㄇ</rt></ruby>
 - <ruby>[泰国](words/泰国.md)<rt>ㄊㄚ˙ㄍㄛㄎ</rt></ruby>
@@ -42,7 +42,7 @@ Many states experienced colonial rule ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ
 - <ruby>[寮国](words/寮国.md)<rt>ㄌ˙ㄚˇㄍㄛㄎ</rt></ruby>
 - <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚ˙ㄙㄝ˙·ㄚ</rt></ruby>
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> a.k.a. [[獅城]] a.k.a. [[星洲]]
-- <ruby>印度尼西亜<rt>ㄧㄋㄉㄛㄋㄧ˙ㄙㄝ˙·ㄚ</rt></ruby>  
+- <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛㄋㄧ˙ㄙㄝ˙·ㄚ</rt></ruby>  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚ˙ㄙ˙ㄚㄥ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚ˙ㄏㄝ˙</rt></ruby><ruby>流域<rt>ㄌ˙ㄨ·ˇㄧㄎ</rt></ruby>.
 

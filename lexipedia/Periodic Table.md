@@ -1,5 +1,7 @@
 ---
 language: 単亜語
+tags:
+  - periodictable
 ---
 <ruby>[週期表](/words/週期表.md)<rt>ㄐㄨˇㄎㄧㄙㄛ</rt></ruby>
 
@@ -42,7 +44,7 @@ Ac's
 
 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 
 |----|---|---|---|---|---|---|-----|-----|----|---|
-| Th | Pa |<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|<ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>|[[冥金]]|美洲金|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金
+| Th | Pa |<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|<ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>|<ruby>[冥金](/words/冥金.md)<rt>ㄇㄝㄥㄍㄧㄇ</rt></ruby>|美洲金|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金
 
 
 111 leads to the name [[錀琴]] for röntgens
