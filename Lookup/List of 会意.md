@@ -48,7 +48,7 @@ Example contrast:
 
 Example contrast:
 - 信 (person + speech) → 会意
-- [清](../characters/清.md) (water + phonetic 青) → 形声
+- 清 (water + phonetic 青) → 形声
 
 ### How to Classify a Character as 会意
 Use the following decision process:
@@ -128,8 +128,8 @@ That answer determines the classification.
 6. <ruby>[公](/characters/公%20(char).md)<rt>ㄍㄛㄥ</rt></ruby> "public = not + private"
 7. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝ˙</rt></ruby> "pshaw = tree + wind"
 8. <ruby>[分](/characters/分%20(char).md)<rt>ㄅㄨㄋ</rt></ruby> "divide = separate + knife"
-9. <ruby>[勻](/characters/勻.md)<rt>˙ㄨㄋ</rt></ruby>
-10. 勾
+9. <ruby>[勻](/characters/勻.md)<rt>˙ㄨㄋ</rt></ruby> "equal = person + two bars"
+10. <ruby>[勾](/characters/勾.md)<rt>ㄍㄛˇ</rt></ruby>
 11. 化 (char)
 12. 双 (char)
 13. 反 (char)
@@ -151,9 +151,13 @@ That answer determines the classification.
 28. 外
 29. 左
 ### 6 
-28. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 同, 名 (char), 吏, 各 (char), 因, 多 (char), 好 (char), 存, 守, 安, 尖, 後 (char), 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 
+30. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 同, 名 (char), 吏, 各 (char), 因, 多 (char)
+31. <ruby>[好](/characters/好%20(char).md)<rt>ㄏㄚˇ</rt></ruby>
+32. 存, 守, 安, 尖, 後 (char), 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 
 ### 7
-29. 乱, 位, 体, 克 (char), 兵, 初, 別 (char), 利, 労, 即 (char), 吝, 吹 (char), 呆 (char), 呉, 告, 困, 声, 妥, 孝 (char), 孚, 宋, 寿, 尾 (char), 尿 (char), 弄 (char), 役, 戒, 我 (char), 抑, 折, 更 (char), 条 (char), 沙 (char), 災, 牢, 男, 禿 (char), 秀 (char), 系, 舛, 赤 (char), 足 (char), 邑, 里 (char), 㑒, 
+29. 乱, 位, 体, 克 (char), 兵, 初, 別 (char), 利, 労, 即 (char), 吝, 吹 (char), 呆 (char), 呉, 告, 困, 声, 妥, 孝 (char), 孚, 宋, 寿, 尾 (char), 尿 (char), 弄 (char), 役, 戒, 我 (char), 抑, 折, 更 (char), 条 (char), 沙 (char), 災, 牢, 
+30. 男
+31. 禿 (char), 秀 (char), 系, 舛, 赤 (char), 足 (char), 邑, 里 (char), 㑒, 
 ### 8
 30. 並 (char), 乎 (char), 侃, 卓, 卒, 取, 周, 命, 固, 夌, 奄, 妾 (char), 宗, 官, 実, 岳, 幸, 或 (char), 承, 抛, 拝 (char), 明 (char), 昏, 昌, 昔, 显, 服, 東, 林 (char), 枚 (char), 武 (char), 歩, 沓, 法 (char), 炎, 画, 直 (char), 秉, 突, 股 (char), 肯 (char), 肰, 苗, 若 (char), 虎 (char), 采, 𡿺, 
 ### 9
