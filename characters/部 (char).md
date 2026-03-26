@@ -32,9 +32,25 @@ aliases:
 ---
 >[!tip] This is a page about the character 部.
 >For the word, see [部](words/部.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[北部]]
+- [[腹部]]
+- [[部長]]
+- [[部分]]
+- [[外部]]
+- [[全部]]
+- [[部門]]
+- [[幹部]]
+- [[支部]]
+- [[部隊]]
+- [[内部]]
+- [[西部]]
+- [[南部]]
+- [[部首]]
+- [[腰部]]
+- [[部族]]
