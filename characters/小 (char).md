@@ -32,7 +32,11 @@ aliases:
 ---
 >[!tip] This is a page about the character 小.
 >For the word, see [小](words/小.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+
+
+## Words
+- [[小人]] - petty person
