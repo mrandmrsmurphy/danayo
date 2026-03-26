@@ -1,7 +1,7 @@
 ---
-mandarin: "piān"
-cantonese: "pin1"
-korean: "편"
+mandarin: piān
+cantonese: pin1
+korean: 편
 korean_native: ""
 japanese:
   - HEN
@@ -13,7 +13,7 @@ stroke_count: 15
 radical: 竹
 skip_number: 2-6-9
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - article
   - piece of writing

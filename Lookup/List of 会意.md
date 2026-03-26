@@ -159,9 +159,13 @@ That answer determines the classification.
 30. 男
 31. 禿 (char), 秀 (char), 系, 舛, 赤 (char), 足 (char), 邑, 里 (char), 㑒, 
 ### 8
-30. 並 (char), 乎 (char), 侃, 卓, 卒, 取, 周, 命, 固, 夌, 奄, 妾 (char), 宗, 官, 実, 岳, 幸, 或 (char), 承, 抛, 拝 (char), 明 (char), 昏, 昌, 昔, 显, 服, 東, 林 (char), 枚 (char), 武 (char), 歩, 沓, 法 (char), 炎, 画, 直 (char), 秉, 突, 股 (char), 肯 (char), 肰, 苗, 若 (char), 虎 (char), 采, 𡿺, 
+30. 並 (char), 乎 (char), 侃, 卓, 卒, 取, 周, 命, 固, 夌, 奄, 妾 (char), 宗, 官, 実, 岳, 幸, 或 (char), 承, 抛, 拝 (char), 
+31. <ruby>[明](/characters/明%20(char).md)<rt>ㄇ˙ㄝㄥ</rt></ruby> "bright = sun + moon"
+32. 昏, 昌, 昔, 显, 服, 東, 林 (char), 枚 (char), 武 (char), 歩, 沓, 法 (char), 炎, 画, 直 (char), 秉, 突, 股 (char), 肯 (char), 肰, 苗, 若 (char), 虎 (char), 采, 𡿺, 
 ### 9
-30. 保, 信, 兪, 則, 勅, 卑 (char), 厚 (char), 叚, 咸, 奏, 姥, 姦, 威, 封, 専, 屋 (char), 屎 (char), 幽 (char), 建, 彖, 恒, 扁, 昜, 昼, 某 (char), 枼, 歪, 派, 爰, 甚, 畏 (char), 皆 (char), 相, 県 (char), 看 (char), 祝, 禹, 秋 (char), 臥 (char), 臭 (char), 虐, 計, 負 (char), 軍, 退 (char), 陋, 香
+30. 保
+31. <ruby>[信](/characters/信.md)<rt>ㄙㄧㄋ</rt></ruby> "trust = person + word"
+32. 兪, 則, 勅, 卑 (char), 厚 (char), 叚, 咸, 奏, 姥, 姦, 威, 封, 専, 屋 (char), 屎 (char), 幽 (char), 建, 彖, 恒, 扁, 昜, 昼, 某 (char), 枼, 歪, 派, 爰, 甚, 畏 (char), 皆 (char), 相, 県 (char), 看 (char), 祝, 禹, 秋 (char), 臥 (char), 臭 (char), 虐, 計, 負 (char), 軍, 退 (char), 陋, 香
 ### 10
 30. 倫, 兼 (char), 冥 (char), 原, 員, 夏 (char), 套 (char), 孫, 家, 射, 将 (char), 展, 差, 庫, 弱 (char), 従 (char), 息, 恵, 扇, 挙 (char), 料, 旅, 既, 晋, 朕 (char), 桑, 殷, 浸 (char), 玆, 班 (char), 益, 秦, 穿 (char), 般 (char), 芻, 蚤, 討, 辱, 連 (char), 閃, 陥 (char), 隼 (char), 韋, 
 ### 11
