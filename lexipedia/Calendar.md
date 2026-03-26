@@ -29,7 +29,7 @@ The end of the week - <ruby>[週末](/words/週末.md)<rt>ㄐㄨˇㄇㄚㄊ</rt>
 ## Months
 The beginning of the month - [[月初]].
 The middle of the month - [[月中]].
-The end of the  month - [[月末]].
+The end of the  month - <ruby>[月末](/words/月末.md)<rt>ˇㄝㄊㄇㄚㄊ</rt></ruby>.
 
 1. <ruby>[一月](/words/一月.md)<rt>ㄧㄊ·ˇㄝㄋ</rt></ruby> - January
 2. <ruby>[二月](/words/二月.md)<rt>ㄋㄧ˙·ˇㄝㄊ</rt></ruby> - February
@@ -87,14 +87,14 @@ Or a poetic one:
 
 ## Days
 1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>
-2. [[二日]]
-3. [[三日]]
+2. <ruby>[二日](/words/二日.md)<rt>ㄋㄧ˙ㄋㄧㄊ</rt></ruby>
+3. <ruby>[三日](/words/三日.md)<rt>ㄙㄚㄇㄋㄧㄊ</rt></ruby>
 4. [[四日]]
 5. [[五日]]
 6. [[六日]]
 7. [[七日]]
 8. [[八日]]
-9. [[words/九日]]
+9. <ruby>[九日](/words/九日.md)<rt>ㄎ˙ㄨㄋㄧㄊ</rt></ruby>
 10. [[十日]]
 11. 十一日
 12. 十二日
