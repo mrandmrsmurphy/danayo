@@ -1,11 +1,12 @@
 ---
-mandarin: "yī"
-cantonese: "jat1"
-korean: "일"
+mandarin: yī
+cantonese: jat1
+korean: 일
 korean_native: 한
 japanese: ICHI, ITSU
 japanese_nanori: をさむ
-vietnamese: nhất
+vietnamese:
+  - nhất
 middle_chinese_initial: ʔ
 middle_chinese_final: iɪt
 stroke_count: 1

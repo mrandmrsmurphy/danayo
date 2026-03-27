@@ -27,6 +27,7 @@ views:
       - english
       - date-last-perfect
       - danayo_id
+      - graphemic_classification
     sort:
       - property: danayo_id
         direction: ASC
@@ -45,6 +46,8 @@ views:
     columnSize:
       file.name: 40
       note.english: 215
+      note.date-last-perfect: 97
+      note.danayo_id: 108
       note.graphemic_classification: 87
 
 ```

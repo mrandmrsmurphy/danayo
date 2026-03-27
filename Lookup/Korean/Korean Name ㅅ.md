@@ -119,7 +119,7 @@ Checked for redirects
 [[沁]] [沈](characters/沈.md) [瀋](characters/沈.md) [芯](characters/心%20(char).md) [[諶]]
 
 ### 십 
-[什](characters/什.md) [拾](characters/拾.md)
+[什](../../characters/十.md) [拾](characters/拾.md)
 
 
 ## Datacheck

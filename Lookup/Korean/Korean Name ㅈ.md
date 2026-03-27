@@ -102,7 +102,7 @@ These have been checked for redirects
 [斟](characters/斟.md) [朕 (char)](characters/朕%20(char).md)
 
 ### 집 
-[什](characters/什.md) [潗](characters/潗.md) [輯](characters/集.md) [[楫]] [[鏶]] [[緝]] 
+[潗](characters/潗.md) [輯](characters/集.md) [[楫]] [[鏶]] [[緝]] 
 
 ### 징
 [澄](characters/澄.md)
