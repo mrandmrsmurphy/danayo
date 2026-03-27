@@ -2,20 +2,25 @@
 size:
 ---
 
-> [[SKIP]] : 1
+> [SKIP](../SKIP.md) : 1
 
-創	剩	割	馭	勤	凱	
-骭 鄒	馳	馴	
-骰	駁	穀	駅	歉	歌 駆	馼	駄	歎	
-駈	駟	皺	駛	駝 駐	駘	駒	
-骸	骼	駢	駲	駱	駮 駭	融	
-駿	覬	覯	豁	谿	駻	駸 騁	
-歸	雛	騎	髀	騏	騅	験	雜 難	騒	
-騙	騨	髄	願	顛	
-騷 競	韜 
+```dataviewjs
+const pages = dv.pages()
+  .where(p => p.skip_number === "1-10-4")
+// or stricter: .where(p => p["your_property"] === "value")
+// or for numbers/strings/etc: adjust comparison as needed
+
+const titles = pages
+  .map(p => p.file.name)
+  .sort()                    // optional: alphabetical sort
+  .join(", ");
+
+dv.paragraph(titles || "No matching pages");
+````
+
 1. No
-2. [SKIP-1-10-2](SKIP-1-10-2.md)
-3. [[SKIP-1-10-3]]
+2. [[SKIP-1-10-2]]: 凱, 割, 創, 勤, 馭
+3. [[SKIP-1-10-3]]: 鄒, 馳, 馴
 4. [[SKIP-1-10-4]]
 5. [[SKIP-1-10-5]]
 6. [[SKIP-1-10-6]]
