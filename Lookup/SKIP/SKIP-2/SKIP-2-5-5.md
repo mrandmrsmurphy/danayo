@@ -2,24 +2,30 @@
 size: 9
 stroke_count: 10
 skip_number: 2-5-5
+date-last-perfect: 2026-03-27
 ---
-> SKIP : 2 : [SKIP-2-5](lookup/SKIP/SKIP-2/SKIP-2-5.md)
+> SKIP : 2 : [5](lookup/SKIP/SKIP-2/SKIP-2-5.md)
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
-- <ruby>[[芻]]<rt>추</rt></ruby>
-- <ruby>[[帯]]<rt>대</rt></ruby>
-- <ruby>[[泰]]<rt>타</rt></ruby>
-- <ruby>[[党]]<rt>당</rt></ruby>
-- <ruby>[[烝]]<rt>싱</rt></ruby>
-- <ruby>[[留]]<rt>류</rt></ruby>
-- <ruby>[[冓]]<rt>곳</rt></ruby>
-- <ruby>[[哥]]<rt>가</rt></ruby>
-- <ruby>[[秦]]<rt>진</rt></ruby>
-- [[皐|皋]] --> 皐 
+## Characters
+### In Use
+1. <ruby>[党](/characters/党.md)<rt>ㄉㄚㄥ</rt></ruby> - political party
+2. <ruby>[哥](/characters/哥.md)<rt>ㄍㄚ</rt></ruby> - dear older brother
+3. <ruby>[芻](/characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay
+4. <ruby>[帯](/characters/帯%20(char).md)<rt>ㄊㄚ˙</rt></ruby> - sash
+5. <ruby>[泰](/characters/泰.md)<rt>ㄊㄚ˙</rt></ruby> - peaceful
+6. <ruby>[烝](/characters/烝.md)<rt>ㄙㄧㄥ</rt></ruby> - masses
+7. <ruby>[留 (char)](/characters/留%20(char).md)<rt>ㄌ˙ㄨ</rt></ruby> - remain
+8. <ruby>[祠](/characters/祠.md)<rt>ㄙㄚ</rt></ruby> - ancestor shrine
+9. <ruby>[秦](/characters/秦.md)<rt>ㄐㄧㄋ</rt></ruby> - Qin
+### Redirects
+- 冓 --> 勾
+- 皐 --> 皐 
 - [[祟]]
-~~畠~~
-~~唟~~
-~~丵~~
+## Banned
+- 畠
+- 唟
+- 丵
 
 ### Data double check
 ```dataview

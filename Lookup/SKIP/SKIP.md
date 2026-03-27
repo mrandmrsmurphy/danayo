@@ -1,5 +1,6 @@
 ---
 date-last-perfect: 2026-01-31
+language: 単亜語
 ---
 The System of Kanji Indexing by Patterns (SKIP) gives codes to <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby>. A SKIP code is three numbers. For example 好 has skip code 1-3-3. The first number represents the shape. If a <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> can be divided into two parts vertically, like 相, the first number is "1". If it can be divided horizontally, like 委, it is "2". If it can be divided into an enclosing and enclosed part, like 道, it is "3". The second and third parts are the number of strokes used to draw the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> on the left and right, top and bottom, or enclosed and enclosing parts, respectively.
 
