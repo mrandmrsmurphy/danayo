@@ -43,8 +43,7 @@ date-last-perfect: 2026-03-26
 - [SKIP-1-10-2](../lookup/SKIP/SKIP-1/SKIP-1-10-2.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md)) - [ㄍㄚㄊ](../syllables/ㄍㄚㄊ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Grade 4](../lookup/Grade%204.md)
 ## Words
-- [[余割]]
-- [[正割]]
-- [[割包皮]]
-- [[割引]]
-- 
+- [[余割]] - cosecant
+- [[正割]] - secant
+- [[割包皮]] - circumcision
+- [[割引]] - discount
