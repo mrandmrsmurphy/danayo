@@ -14,7 +14,10 @@ views:
       - hanmun_edu_level
       - stroke_count
       - vietnamese
+      - 品詞
     sort:
+      - property: 品詞
+        direction: ASC
       - property: stroke_count
         direction: ASC
       - property: korean

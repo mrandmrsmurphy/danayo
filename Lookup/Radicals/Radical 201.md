@@ -3,9 +3,9 @@ size: 1
 radical: 黄
 date-last-perfect: 2026-02-22
 ---
-> [[Radicals]]
+> [Radicals](Radicals.md)
 
-- <ruby>[[黄]]<rt>ㄏˇㄚㄥ</rt></ruby> - yellow
+- <ruby>[黄 (char)](../../characters/黄%20(char).md)<rt>ㄏˇㄚㄥ</rt></ruby> - yellow
 
 That's it!
 

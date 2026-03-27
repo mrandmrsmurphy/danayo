@@ -200,7 +200,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- white - 
 	- black - <ruby>[黒](/words/黒.md)<rt>ㄏㄨㄎ</rt></ruby>
 	- green
-	- yellow - [[黄]]
+	- yellow - [[../words/黄]]
 	- blue
 	- red
 	- orange

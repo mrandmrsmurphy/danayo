@@ -517,7 +517,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[共和國]] in [[lexipedia/Geography]]
 - [[荷蘭]] in [[lexipedia/Geography]]
 - [[瑞士]] in [[lexipedia/Geography]]
-- [[瑞典]] in [[lexipedia/Geography]], [[lookup/Japanese/Jinmeiyō]]
 - [[黙黙]] in [[characters/黙]]
 - [[天竺鼠]] in [[characters/鼠]]
 - [[尖鼠]] in [[characters/鼠]]
@@ -558,7 +557,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鬼金]] in [[lexipedia/Periodic Table]]
 - [[鬼銅]] in [[lexipedia/Periodic Table]]
 - [[鈩金]] in [[lexipedia/Periodic Table]]
-- [[words/冥金]] in [[lexipedia/Periodic Table]]
 - [[錀琴]] in [[lexipedia/Periodic Table]]
 
 - [[不真]] in [[lexipedia/Sophomore List]]
@@ -730,7 +728,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鴎]] in [[syllables/ㄛˇ]]
 - [[鴨]] in [[lexipedia/Animals]]
 - [[兎]] in [[lexipedia/Animals]], [[syllables/ㄊㄛ]]
-- [[黄]] in [[lexipedia/Sophomore List]], [[lookup/Radicals/Radical 201]], [[syllables/ㄏˇㄚㄥ]]
 - [[鷹]] in [[lexipedia/Sophomore List]]
 - [[鵰]] in [[lexipedia/Sophomore List]]
 - [[両]] in [[lexipedia/Numbers]]

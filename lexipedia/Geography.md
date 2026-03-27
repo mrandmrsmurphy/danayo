@@ -104,7 +104,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - Poland (波蘭)  
 - Greece (希臘)  
 - <ruby>露斯亜<rt>ㄌㄛㄙㄧ·ㄚ</rt></ruby>
-- Sweden ([[瑞典]])  
+- Sweden ([[../words/瑞典]])  
 - Norway ([[挪]][[威]])  
 - <ruby>芬蘭<rt>ㄆㄨㄋㄌㄚㄋ</rt></ruby>
 - <ruby>[丹麦](/words/丹麦.md)<rt>ㄉㄚㄋㄇㄚㄎ</rt></ruby>
