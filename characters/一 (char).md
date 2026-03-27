@@ -42,10 +42,18 @@ date-last-perfect: 2026-01-23
 - whole, wholeness, totality, all at once, ever since
 
 ### Usage Notes 
-- For anti-forgery purposes, use [壱](characters/壱%20(char).md)
+
 - [List of 指事](lookup/List%20of%20指事.md): a horizontal stroke, indicating the number “one”.
 <ruby>一<rt>ㄧㄊ</rt></ruby> is probably the first character most people learn.  It is the easiest: [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md).   It is [SKIP-4-1-4](lookup/SKIP/SKIP-4/SKIP-4-1-4.md).  
-It is the first radical in the Kangxi system (see [Radical 001](lookup/Radicals/Radical%20001.md) for more details).  Dan'a'yo has sixteen other characters under that heading, though none of them are derived from this one.  <ruby>[戌](characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> and <ruby>[乞 (char)](characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby> are perhaps the only characters visually and phonetically derived from it.  As a <ruby>象形<rt>ㄙ˙ㄚㄥㄏㄝㄥ</rt></ruby>/pictogram, it is not based on any other character.  
+It is the first radical in the Kangxi system (see [Radical 001](lookup/Radicals/Radical%20001.md) for more details).  
+#### Derived Characters
+Dan'a'yo has sixteen other characters under this character as a radical, though none of them are derived from this one directly.  The actual decendants are:
+- <ruby>[戌](characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby>,
+- <ruby>[乞 (char)](characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby>
+- [List of 象形](../lookup/List%20of%20象形.md).
+- Visually only: [之 (char)](之%20(char).md)
+
+## Words
 In compounds, it appears in many, many words.  To disambiguate various numbers, it is sometimes put in front of 溝, 兆, 億, 万, 千, 百, 十, or 半.
 
 * <ruby>[[一月]]<rt>읻웓</rt></ruby> - January

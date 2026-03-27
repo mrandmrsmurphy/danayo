@@ -63,28 +63,26 @@
 [[来]]: 11
 [[学]]: 11
 [军](../../characters/軍.md): 11
-[[軍]]: 11
-[[神]]: 11
-[[工]]: 10
+[軍](../../characters/軍.md): 11
+[神 (char)](../../characters/神%20(char).md): 11
+[工](../../characters/工.md): 10
 [会 (char)](../../characters/会%20(char).md): 10
-[[告]]: 10
-[[道]]: 10
+[告](../../characters/告.md): 10
+[道 (char)](../../characters/道%20(char).md): 10
 [机](../../characters/機.md): 10
-[[機]]: 10
+[機](../../characters/機.md): 10
 [多 (char)](../../characters/多%20(char).md): 10
-[[化]]: 10
-[[外]]: 10
+[化 (char)](../../characters/化%20(char).md): 10
+[外](../../characters/外.md): 10
 [开](../../characters/開.md): 10
-[[開]]: 10
-[[转]]: 10
-[[轉]]: 10
+[開](../../characters/開.md): 10
+[轉](../../characters/転.md): 10
 [下 (char)](../../characters/下%20(char).md): 10
-[[之]]: 10
-[[白]]: 9
-[[理]]: 9
-[[包]]: 9
-[[料]]: 9
-[[想]]: 9
+[白 (char)](../../characters/白%20(char).md): 9
+[理](../../characters/理.md): 9
+[包](../../characters/包.md): 9
+[料](../../characters/料.md): 9
+[想](../../characters/想.md): 9
 [产](../../characters/産.md): 9
 [產](../../characters/産.md): 9
 [[政]]: 9

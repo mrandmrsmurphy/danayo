@@ -121,29 +121,29 @@
 [[友]]: 4
 [[全]]: 4
 [什](../../characters/十.md): 4
-[[候]]: 4
-[[知]]: 4
-[[院]]: 4
-[[原]]: 4
-[[正]]: 4
-[[最]]: 4
+[候](../../characters/候.md): 4
+[知 (char)](../../characters/知%20(char).md): 4
+[院](../../characters/院.md): 4
+[原](../../characters/原.md): 4
+[正 (char)](../../characters/正%20(char).md): 4
+[最 (char)](../../characters/最%20(char).md): 4
 ## 3
-[[加]]: 3
-[[成]]: 3
+[加](../../characters/加.md): 3
+[成 (char)](../../characters/成%20(char).md): 3
 [從](characters/従%20(char).md): 3
 [从](characters/従%20(char).md): 3
 [聲](characters/声.md): 3
-[[声]]: 3
-[[代]]: 3
-[[点]]: 3
+[声](../../characters/声.md): 3
+[代](../../characters/代.md): 3
+[点 (char)](../../characters/点%20(char).md): 3
 [點](characters/点%20(char).md): 3
-[[鐘]]: 3
+[鐘 (char)](../../characters/鐘%20(char).md): 3
 [钟](characters/鐘%20(char).md): 3
-[[店]]: 3
-[[之]]: 3
-[[謝]]: 3
+[店](../../characters/店.md): 3
+[之 (char)](../../characters/之%20(char).md): 3
+[謝](../../characters/謝.md): 3
 [谢](characters/謝.md): 3
-[[部]]: 3
+[部 (char)](../../characters/部%20(char).md): 3
 [高 (char)](../../characters/高%20(char).md): 3
 [業 (char)](../../characters/業%20(char).md): 3
 [作 (char)](../../characters/作%20(char).md): 3

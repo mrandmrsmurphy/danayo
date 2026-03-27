@@ -41,9 +41,13 @@ date-last-perfect: 2026-02-20
 [[nav/char_info]]
 ```
 ## Notes
-- Ideogrammic compound (會意 / 会意): 止 (“foot”) + 一 (“the beginning place”), originally written as 㞢; compound meaning “to go”. Hence, the character was similar to 出.  Filed under [丿](Radical%20004)
+- Ideogrammic compound ([List of 会意](../lookup/List%20of%20会意.md)): [止](止.md) (“foot”) + [一](一%20(char).md)) (“the beginning place”), originally written as 㞢; compound meaning “to go”. Hence, the character was similar to 出.  Filed under [丿](Radical%20004)
+- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄊㄧ](../syllables/ㄊㄧ.md)
+- [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Grade 1](../lookup/Grade%201.md)
 ### Derived Characters
-- [[乏]], [[芝]], 㝎-->定 
+- [[乏]]
+- [[芝]]
+- 㝎-->定 
 ## Words
 - <ruby>[之間](/words/之間.md)<rt>ㄊㄧㄍㄚㄋ</rt></ruby>
 
