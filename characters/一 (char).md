@@ -27,11 +27,18 @@ stand_in: 一
 date-last-perfect: 2026-01-23
 注音: ㄧㄊ
 ---
->[!Warning] This is the character 一.  For the word 'one', please use [一](words/一.md)
+>[!Warning] This is the character 一.  
+> For the word 'one', please use [一](words/一.md)
 > For the radical, see [Radical 001](lookup/Radicals/Radical%20001.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- This is probably the first character most people learn.  It is the easiest: [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md).   
+- It is [SKIP-4-1-4](lookup/SKIP/SKIP-4/SKIP-4-1-4.md) ([Stroke 01](../lookup/Stroke/Stroke%2001.md)).  It is pronounced [ㄧㄊ](../syllables/ㄧㄊ.md).
+- It is the first radical in the Kangxi system (see [Radical 001](lookup/Radicals/Radical%20001.md) for more details).  
+- It was the 28th most used character in Classical Chinese.
+
 ### Numeral 
 - one, once, first, one after another
    - single, singly, sole, unique, one and only
@@ -42,16 +49,13 @@ date-last-perfect: 2026-01-23
 - whole, wholeness, totality, all at once, ever since
 
 ### Usage Notes 
-
 - [List of 指事](lookup/List%20of%20指事.md): a horizontal stroke, indicating the number “one”.
-<ruby>一<rt>ㄧㄊ</rt></ruby> is probably the first character most people learn.  It is the easiest: [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md).   It is [SKIP-4-1-4](lookup/SKIP/SKIP-4/SKIP-4-1-4.md).  
-It is the first radical in the Kangxi system (see [Radical 001](lookup/Radicals/Radical%20001.md) for more details).  
 #### Derived Characters
-Dan'a'yo has sixteen other characters under this character as a radical, though none of them are derived from this one directly.  The actual decendants are:
+Dan'a'yo has sixteen other characters under this character as a radical, though none of them are derived from this one directly.  The actual descendants are:
 - <ruby>[戌](characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby>,
-- <ruby>[乞 (char)](characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby>
-- [List of 象形](../lookup/List%20of%20象形.md).
-- Visually only: [之 (char)](之%20(char).md)
+- <ruby>[乞](characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby>
+Characters using it as an element without sound-borrowing:
+- [之 (char)](之%20(char).md)
 
 ## Words
 In compounds, it appears in many, many words.  To disambiguate various numbers, it is sometimes put in front of 溝, 兆, 億, 万, 千, 百, 十, or 半.
