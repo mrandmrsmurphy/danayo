@@ -1,7 +1,7 @@
 ---
-mandarin: "guǎng"
-cantonese: "gwong2"
-korean: "광"
+mandarin: guǎng
+cantonese: gwong2
+korean: 광
 korean_native: ""
 japanese:
   - KOU
@@ -30,6 +30,7 @@ aliases:
   - 昿
   - 曠
   - 旷
+  - 广
 注音: ㄍˇㄚㄥ
 ---
 >[!tip] This is a page about the character 広.

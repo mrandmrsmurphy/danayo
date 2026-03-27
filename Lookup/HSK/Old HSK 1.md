@@ -401,44 +401,34 @@
 [鋼](../../characters/鋼.md): 1
 [興 (char)](../../characters/興%20(char).md): 1
 [訴](../../characters/訴.md): 1
-[[诉]]: 1
-[[種]]: 1
-[[种]]: 1
-[[廠]]: 1
-[[厂]]: 1
-[[斤]]: 1
-[[園]]: 1
-[[园]]: 1
-[[姑]]: 1
-[[娘]]: 1
-[[故]]: 1
-[[廣]]: 1
-[[广]]: 1
-[[貴]]: 1
-[[贵]]: 1
-[[還]]: 1
-[[还]]: 1
-[[寒]]: 1
-[[吃]]: 1
-[[處]]: 1
-[[处]]: 1
-[[像]]: 1
-[[適]]: 1
-[[适]]: 1
-[[黑]]: 1
-[[板]]: 1
-[[忽]]: 1
-[[互]]: 1
-[[畫]]: 1
-[[画]]: 1
-[[答]]: 1
-[[或]]: 1
-[[者]]: 1
-[[礎]]: 1
-[[础]]: 1
-[[雞]]: 1
-[[鸡]]: 1
-[[極]]: 1
+[種](../../characters/種.md): 1
+[廠](../../characters/廠.md): 1
+[斤](../../characters/斤.md): 1
+[園](../../characters/園.md): 1
+[姑](../../characters/姑.md): 1
+[娘 (char)](../../characters/娘%20(char).md): 1
+[故](../../characters/故.md): 1
+[廣](../../characters/広%20(char).md): 1
+[貴](../../characters/貴.md): 1
+[還](../../characters/還.md): 1
+[还](../../characters/還.md): 1
+[寒](../../characters/寒.md): 1
+[吃](../../characters/喫%20(char).md): 1
+[处](../../characters/処%20(char).md): 1
+[像](../../characters/像.md): 1
+[適](../../characters/適.md): 1
+[黑](../../characters/黒%20(char).md): 1
+[板](../../characters/板.md): 1
+[忽](../../characters/忽.md): 1
+[互](../../characters/互.md): 1
+[畫](../../characters/画.md): 1
+[答 (char)](../../characters/答%20(char).md): 1
+[或 (char)](../../characters/或%20(char).md): 1
+[者 (char)](../../characters/者%20(char).md): 1
+[礎](../../characters/礎.md): 1
+[础](../../characters/礎.md): 1
+[鸡](../../characters/鶏%20(char).md): 1
+[極 (char)](../../characters/極%20(char).md): 1
 [[极]]: 1
 [[集]]: 1
 [[計]]: 1
@@ -459,7 +449,7 @@
 [[简]]: 1
 [[单]]: 1
 [[設]]: 1
-[[设]]: 1
+[设](../../characters/設.md): 1
 [[健]]: 1
 [[康]]: 1
 [[將]]: 1
@@ -498,7 +488,7 @@
 [[礼]]: 1
 [[歷]]: 1
 [[历]]: 1
-[[立]]: 1
+[立 (char)](../../characters/立%20(char).md): 1
 [[刻]]: 1
 [[例]]: 1
 [[如]]: 1
@@ -575,9 +565,8 @@
 [[调]]: 1
 [[產]]: 1
 [[产]]: 1
-[[勝]]: 1
-[[胜]]: 1
-[[十]]: 1
+[勝](../../characters/勝.md): 1
+[十](../../characters/十.md): 1
 [[踐]]: 1
 [[践]]: 1
 [[食]]: 1
@@ -634,78 +623,65 @@
 [[題]]: 1
 [[题]]: 1
 [[屋]]: 1
-[[希]]: 1
-[[望]]: 1
-[[慣]]: 1
-[[惯]]: 1
-[[洗]]: 1
-[[澡]]: 1
-[[夏]]: 1
-[[先]]: 1
-[[香]]: 1
-[[蕉]]: 1
-[[消]]: 1
-[[辛]]: 1
-[[苦]]: 1
-[[聞]]: 1
-[[闻]]: 1
-[[封]]: 1
-[[幸]]: 1
-[[福]]: 1
-[[休]]: 1
-[[需]]: 1
-[[研]]: 1
-[[究]]: 1
-[[顏]]: 1
-[[颜]]: 1
-[[眼]]: 1
-[[睛]]: 1
-[[演]]: 1
-[[求]]: 1
-[[就]]: 1
-[[般]]: 1
-[[塊]]: 1
-[[块]]: 1
-[[切]]: 1
-[[直]]: 1
-[[衣]]: 1
-[[椅]]: 1
-[[義]]: 1
-[[义]]: 1
-[[樂]]: 1
-[[乐]]: 1
-[[銀]]: 1
-[[银]]: 1
-[[應]]: 1
-[[該]]: 1
-[[应]]: 1
-[[该]]: 1
-[[英]]: 1
-[[響]]: 1
-[[响]]: 1
-[[遠]]: 1
-[[远]]: 1
-[[尤]]: 1
-[[其]]: 1
-[[游]]: 1
-[[泳]]: 1
-[[的]]: 1
-[[誼]]: 1
-[[谊]]: 1
-[[愉]]: 1
-[[預]]: 1
-[[预]]: 1
-[[遇]]: 1
-[[諒]]: 1
-[[谅]]: 1
-[[願]]: 1
-[[愿]]: 1
-[[運]]: 1
-[[运]]: 1
-[[晨]]: 1
-[[增]]: 1
-[[覽]]: 1
-[[览]]: 1
+[希](../../characters/希.md): 1
+[望](../../characters/望.md): 1
+[惯](../../characters/慣.md): 1
+[洗 (char)](../../characters/洗%20(char).md): 1
+!!澡!!: 1
+[夏 (char)](../../characters/夏%20(char).md): 1
+[先](../../characters/先.md): 1
+[香](../../characters/香.md): 1
+[蕉](../../characters/蕉.md): 1
+[消 (char)](../../characters/消%20(char).md): 1
+[辛](../../characters/辛.md): 1
+[苦 (char)](../../characters/苦%20(char).md): 1
+[闻](../../characters/聞%20(char).md): 1
+[封](../../characters/封.md): 1
+[幸](../../characters/幸.md): 1
+[福 (char)](../../characters/福%20(char).md): 1
+[休](../../characters/休.md): 1
+[需](../../characters/需.md): 1
+[研](../../characters/研.md): 1
+[究](../../characters/究.md): 1
+[顏](../../characters/顔.md): 1
+[眼](../../characters/眼.md): 1
+[睛](../../characters/睛.md): 1
+[演](../../characters/演.md): 1
+[求](../../characters/求.md): 1
+[就 (char)](../../characters/就%20(char).md): 1
+[般 (char)](../../characters/般%20(char).md): 1
+[塊 (char)](../../characters/塊%20(char).md): 1
+[块](../../characters/塊%20(char).md): 1
+[切 (char)](../../characters/切%20(char).md): 1
+[直 (char)](../../characters/直%20(char).md): 1
+[衣](../../characters/衣.md): 1
+[椅](../../characters/椅.md): 1
+[义](../../characters/義.md): 1
+[樂](../../characters/楽.md): 1
+[乐](../../characters/楽.md): 1 
+[银](../../characters/銀%20(char).md): 1
+[應](../../characters/応%20(char).md): 1
+[該 (char)](../../characters/該%20(char).md): 1
+[该](../../characters/該%20(char).md): 1
+[英](../../characters/英.md): 1
+[响](../../characters/響.md): 1
+[遠 (char)](../../characters/遠%20(char).md): 1
+[尤](../../characters/尤.md): 1
+[其 (char)](../../characters/其%20(char).md): 1
+[游](../../characters/遊.md): 1
+[泳 (char)](../../characters/泳%20(char).md): 1
+[的](../../characters/的.md): 1
+[誼](../../characters/誼.md): 1
+[谊](../../characters/誼.md): 1
+[愉](../../characters/愉.md): 1
+[预](../../characters/予.md)
+[遇 (char)](../../characters/遇%20(char).md): 1
+[谅](../../characters/諒.md): 1
+[願](../../characters/願.md): 1
+[運](../../characters/運.md): 1
+[晨](../../characters/晨.md): 1
+[增](../../characters/増.md): 1
+[覽](../../characters/覧.md): 1
 [掌](../../characters/掌.md): 1
 [顧](../../characters/顧.md): 1
 [齐](../../characters/斉.md): 1

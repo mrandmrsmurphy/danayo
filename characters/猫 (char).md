@@ -1,7 +1,7 @@
 ---
-mandarin: "māo"
-cantonese: "maau1"
-korean: "묘"
+mandarin: māo
+cantonese: maau1
+korean: 묘
 korean_native: 고양이
 japanese:
   - BYOU
@@ -23,7 +23,7 @@ english:
 羅馬字: myau
 韓文: 먓
 joyo_level: 高等
-hsk_level: 無
+hsk_level: "2"
 hanmun_edu_level:
 danayo_id: 6293
 mc_id: 6393
