@@ -4,10 +4,54 @@ radical: 宀
 ---
 > [[Radicals]]
 
-宅 宇 守 安 宋 完 宕 宗 官 宙 (char) 定 宛 宜 宝 実 客 宣 室 宮 宰 害 宴 宵 家 容 (char) 宿 寂 寄 (char) 寅 密 (char) 寇 富 寐 寒 寓 寛 寝 (char) 寞 察 寡 寧 寨 審 寮 寵
+1. 宅
+2. 宇
+3. 守
+4. 安
+5. 宋
+6. 完
+7. 宕
+8. 宗
+9. 官
+10. 宙 (char)
+11. 定
+12. 宛
+13. 宜
+14. 宝
+15. 実
+16. 客
+17. 宣
+18. 室
+19. 宮
+20. 宰
+21. 害
+22. 宴
+23. 宵
+24. 家
+25. 容 (char)
+26. 宿
+27. 寂
+28. 寄 (char)
+29. 寅
+30. 密 (char)
+31. 寇
+32. 富
+33. 寐
+34. 寒
+35. 寓
+36. 寛
+37. 寝 (char)
+38. <ruby>[寞](/characters/寞.md)<rt>ㄇㄚㄎ</rt></ruby>
+39. 察
+40. 寡
+41. 寧
+42. 寨
+43. 審
+44. 寮
+45. 寵
 
 ## Notes
-- [[字 (char)]] is not officially listed here, but bares this radical
+- [字 (char)](../../characters/字%20(char).md) is not officially listed here, but bares this radical
 
 ## Base check
 ```base
@@ -25,7 +69,13 @@ views:
       - 注音
       - skip_number
       - stroke_count
+    sort:
+      - property: stroke_count
+        direction: ASC
     columnSize:
       note.danayo_id: 64
       note.english: 236
+      note.skip_number: 76
+      note.stroke_count: 92
+
 ```
