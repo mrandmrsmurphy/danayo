@@ -7,8 +7,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[相関詞]] in [[grammar/文法 - 01序文]]
 - [[上代]] in [[grammar/文法 - 01序文]]
 - [[原理]] in [[grammar/文法 - 01序文]]
-- [[繁体字]] in [[grammar/文法 - 01序文]], [[grammar/文法 - 03文字法]]
-- [[簡体字]] in [[grammar/文法 - 01序文]], [[grammar/文法 - 03文字法]]
 - [[詞彙]] in [[grammar/文法 - 01序文]]
 - [[人名用]] in [[grammar/文法 - 01序文]]
 - [[最大]] in [[grammar/文法 - 01序文]]
