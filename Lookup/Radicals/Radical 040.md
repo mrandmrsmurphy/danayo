@@ -38,7 +38,7 @@ radical: 宀
 32. 富
 33. 寐
 34. 寒
-35. 寓
+35. <ruby>[寓](/characters/寓.md)<rt>ㄨ</rt></ruby>
 36. 寛
 37. 寝 (char)
 38. <ruby>[寞](/characters/寞.md)<rt>ㄇㄚㄎ</rt></ruby>
