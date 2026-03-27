@@ -34,9 +34,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 近.
 >For the word, see [近](words/近.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚ˙</rt></ruby> - early/near modern period
