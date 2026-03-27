@@ -1,7 +1,7 @@
 ---
-mandarin: "ér"
-cantonese: "ji4"
-korean: "아"
+mandarin: ér
+cantonese: ji4
+korean: 아
 korean_native: ""
 japanese:
   - JI
@@ -29,6 +29,7 @@ graphemic_classification: 兒
 stand_in: 児
 aliases:
   - 兒
+  - 儿
 注音: ㄝ˙
 ---
 >[!tip] This is a page about the character 児.

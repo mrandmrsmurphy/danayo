@@ -1,7 +1,7 @@
 ---
-mandarin: "tīng"
-cantonese: "ting1"
-korean: "청"
+mandarin: tīng
+cantonese: ting1
+korean: 청
 korean_native: 들을
 japanese:
   - CHOU
@@ -28,6 +28,7 @@ graphemic_classification: 𡈼
 stand_in: 聴
 aliases:
   - 聽
+  - 听
 注音: ㄑㄝㄥ
 ---
 >[!tip] This is a page about the character 聴.

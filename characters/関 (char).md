@@ -1,7 +1,7 @@
 ---
-mandarin: "guān"
-cantonese: "gwaan1"
-korean: "관"
+mandarin: guān
+cantonese: gwaan1
+korean: 관
 korean_native: 빗장
 japanese:
   - KAN
@@ -29,6 +29,7 @@ graphemic_classification: 丱
 stand_in: 関
 aliases:
   - 關
+  - 关
 注音: ㄍˇㄚㄇ
 ---
 >[!tip] This is a page about the character 関.
