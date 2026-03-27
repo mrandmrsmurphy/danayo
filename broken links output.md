@@ -730,7 +730,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- [[words/鱗]] in [[syllables/ㄌㄧㄋ]]
 - [[関]] in [[syllables/ㄍˇㄚㄇ]]
 - [[魶]] in [[syllables/ㄋㄨㄆ]]
 - [[兄]] in [[syllables/ㄏ˙ㄛㄥ]]
@@ -775,7 +774,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/多]] in [[characters/多 (char)]]
 - [[words/太]] in [[characters/太 (char)]]
 - [[words/女]] in [[characters/女 (char)]]
-- [[字]] in [[characters/字 (char)]], [[syllables/ㄐㄧ]]
 - [[words/宙]] in [[characters/宙 (char)]]
 - [[words/就]] in [[characters/就 (char)]]
 - [[words/山]] in [[characters/山 (char)]]
@@ -832,7 +830,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/鮎]] in [[characters/鮎 (char)]]
 - [[words/鮑]] in [[characters/鮑 (char)]]
 - [[words/鱏]] in [[characters/鱏 (char)]]
-- [[words/鱗]] in [[characters/鱗 (char)]]
 - [[words/鳥]] in [[characters/鳥 (char)]]
 - [[words/鳴]] in [[characters/鳴 (char)]]
 - [[words/鳶]] in [[characters/鳶 (char)]]
@@ -913,7 +910,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[lexipedia/Valuation]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/War]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Water]] in [[lexipedia/Lexipedia]]
-- [[lexipedia/Work]] in [[lexipedia/Lexipedia]]
 
 ## New Characters
 - [[蒦]] in [[characters/蠖]]

@@ -31,7 +31,7 @@ stand_in: 字
 date-last-perfect: 2026-03-08
 ---
 >[!tip] This is about the character.
-> For the word, see [[字]].
+> For the word, see [[../words/字]].
 ```meta-bind-embed
 [[nav/char_info]]
 ```
