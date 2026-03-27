@@ -4,7 +4,7 @@ language: English
 
 ## The City 
 - arch - <ruby>[拱](/words/拱.md)<rt>ㄍ˙ㄛㄥ</rt></ruby>
-- block - [[街区]]
+- block - [[../words/街区]]
 - bridge - <ruby>[橋](/words/橋.md)<rt>ㄍ˙ㄚˇ</rt></ruby>
 - city - <ruby>都市<rt>dosi</rt></ruby>
 - gate - <ruby>大門<rt>daimon</rt></ruby>
