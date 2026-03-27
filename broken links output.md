@@ -342,7 +342,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[二心]] in [[characters/二 (char)]]
 - [[二次元]] in [[characters/二 (char)]]
 
-- [[五経]] in [[characters/五 (char)]], [[words/四書五経]], [[words/礼記]]
 - [[五戒]] in [[characters/五 (char)]]
 - [[五十]] in [[characters/五 (char)]], [[characters/十]]
 - [[五色]] in [[characters/五 (char)]]
@@ -400,7 +399,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[昭明]] in [[characters/昭 (char)]]
 - [[望月]] in [[characters/月 (char)]]
 - [[大朋鳥]] in [[characters/朋]]
-- [[words/月末]] in [[characters/末]], [[lexipedia/Calendar]]
 - [[千末]] in [[characters/末]], [[lexipedia/Calendar]]
 - [[世紀末]] in [[characters/末]], [[lexipedia/Calendar]]
 - [[伊吹]] in [[characters/桧]]
@@ -437,7 +435,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[週中]] in [[lexipedia/Calendar]]
 - [[月初]] in [[lexipedia/Calendar]]
 - [[月中]] in [[lexipedia/Calendar]]
-- [[words/三日]] in [[lexipedia/Calendar]]
 - [[四日]] in [[lexipedia/Calendar]]
 - [[五日]] in [[lexipedia/Calendar]]
 - [[六日]] in [[lexipedia/Calendar]]

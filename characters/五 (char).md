@@ -47,7 +47,7 @@ date-last-perfect: 2026-02-01
 - 人 + 五 = [[伍 (char)]]
 - 五 + 口 = [[吾]] (see there for more descendants)
 ## Important Words
-* <ruby>[[五経]]<rt>·ㄛㄍㄝㄥ</rt></ruby> - The Five Classics
+* <ruby>[[../words/五経]]<rt>·ㄛㄍㄝㄥ</rt></ruby> - The Five Classics
 * <ruby>[[五月]]<rt>·ㄛ·ㄨㄝㄊ</rt></ruby> - May
 * <ruby>[[五行]]<rt>·ㄛㄏㄚㄥ</rt></ruby> - The Five Elements
 * <ruby>[[五臓]]<rt>·ㄛㄐㄚㄥ</rt></ruby> - The Five Internal Organs
