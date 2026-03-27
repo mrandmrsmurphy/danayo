@@ -7,37 +7,41 @@ radical: 雨
 
 ## Strokes
 ### +0
-- <ruby>[[雨 (char)]]<rt>ㄨ</rt></ruby> (⻗)
-
+1. <ruby>[雨](../../characters/雨%20(char).md)<rt>ㄨ</rt></ruby> - rain
 ### +3 
-- [[雪 (char)]]
+2. <ruby>[雪](/characters/雪%20(char).md)<rt>ㄙˇㄝㄊ</rt></ruby> - snow
 ### +4
-- [[雰]]
-- [[雲 (char)]]
+3. <ruby>[雰](/characters/雰.md)<rt>ㄆㄨㄋ</rt></ruby> - ambience
+4. [[雲 (char)]] - cloud
 ### +5
-- [[零 (char)]]
-- [[雷 (char)]]
-- [雾](characters/霧%20(char).md)
+5. <ruby>[雴](/characters/雴.md)<rt>ㄊㄨㄆ</rt></ruby> - heavy rain
+6. <ruby>[零](/characters/零%20(char).md)<rt>ㄌㄝㄥ</rt></ruby> - zero
+7. <ruby>[雷](/characters/雷%20(char).md)<rt>ㄌㄛ˙</rt></ruby> - thunder
+8. <ruby>[電](/characters/電.md)<rt>ㄉㄝㄋ</rt></ruby> - electricity
+- 雾 --> 霧
 ### +6
-- [[需]]
+9. <ruby>[需](/characters/需.md)<rt>ㄙㄨ</rt></ruby> - need
 ### +7
-- [[震]]
-- [[霊]]
+10. <ruby>[震](/characters/震.md)<rt>ㄐㄧㄋ</rt></ruby> - shake
+11. <ruby>[霊](/characters/霊.md)<rt>ㄌㄝㄥ</rt></ruby> - ghost
+### +8
+12. <ruby>[霍](/characters/霍.md)<rt>ㄍˇㄚㄎ</rt></ruby> - sudden
+13. _ - rainbow
 ### +9
-- [[霜 (char)]]
-- [[霞]] 
+14. [[霜 (char)]]
+15. [[霞]] 
 ### +11
-- [[霧 (char)]]
+16. [[霧 (char)]]
 ### +12
-- [[露 (char)]]
+17. [[露 (char)]]
 ### +13
-- [霸](characters/覇.md)
+18. [霸](characters/覇.md)
 ### +16
-- [靈](characters/霊.md)
+19. [靈](characters/霊.md)
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+TABLE english AS "EN", stroke_count AS "SC", 韓文 AS "Sound"
 FROM "characters"
 WHERE radical = "雨"
-SORT file.name ASC
+SORT stroke_count ASC
