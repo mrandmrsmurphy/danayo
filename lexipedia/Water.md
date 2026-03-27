@@ -1,0 +1,17 @@
+- bath
+- clean
+- dry
+- ice
+- pour
+- wash
+- water
+- wave
+- wet
+- steam
+- liquid
+- splash
+- dam
+- drip
+- spill
+- wippe
+- 

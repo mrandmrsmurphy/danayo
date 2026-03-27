@@ -1,13 +1,14 @@
 ---
-mandarin: "biàn"
-cantonese: "bin6"
-korean: "변"
+mandarin: biàn
+cantonese: bin6
+korean: 변
 korean_native: ""
 japanese:
   - BEN
   - BIN
 japanese_nanori: ""
 vietnamese:
+  - tiện, biền
 middle_chinese_initial: b
 middle_chinese_final: iᴇn
 stroke_count: 9
