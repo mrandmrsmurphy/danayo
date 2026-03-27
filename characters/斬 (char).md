@@ -1,7 +1,7 @@
 ---
-mandarin: "zhǎn"
-cantonese: "zaam2"
-korean: "참"
+mandarin: zhǎn
+cantonese: zaam2
+korean: 참
 korean_native: ""
 japanese:
   - ZAN
@@ -30,6 +30,7 @@ graphemic_classification: 會意
 stand_in: 斬
 aliases:
   - 斩
+  - 塹
 注音: ㄐㄚㄇ
 ---
 >[!tip] This is a page about the character 斬.
@@ -40,3 +41,7 @@ aliases:
 ```
 
 # Notes
+
+
+## Words
+- [[斬壕]] - 塹壕

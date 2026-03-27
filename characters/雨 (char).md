@@ -13,7 +13,7 @@ stroke_count: 8
 radical: 雨
 skip_number: 4-8-1
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - rain
 羅馬字: "'u"
@@ -27,13 +27,13 @@ graphemic_classification: 象形
 stand_in: 雨
 aliases:
   - 雩
+  - 䨒
 注音: ㄨ
 ---
 >[!tip] This is a page about the character 雨.
 >For the word, see [雨](words/雨.md)
-
+>For the radical, see [Radical 173](../lookup/Radicals/Radical%20173.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

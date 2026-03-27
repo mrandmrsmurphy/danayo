@@ -1,6 +1,7 @@
 ---
-size: 18
+size: 19
 radical: 雨
+date-last-perfect: 2026-03-27
 ---
 
 > [[Radicals]] - Rain "雨"
@@ -26,18 +27,20 @@ radical: 雨
 11. <ruby>[霊](/characters/霊.md)<rt>ㄌㄝㄥ</rt></ruby> - ghost
 ### +8
 12. <ruby>[霍](/characters/霍.md)<rt>ㄍˇㄚㄎ</rt></ruby> - sudden
-13. _ - rainbow
+13. <ruby>[霓](/characters/霓.md)<rt>ㄝ˙</rt></ruby> - rainbow
 ### +9
-14. [[霜 (char)]]
-15. [[霞]] 
+14. <ruby>[霜](/characters/霜%20(char).md)<rt>ㄙˇㄚㄥ</rt></ruby> - frost
+15. <ruby>[霞](/characters/霞.md)<rt>ㄏㄚ</rt></ruby> - mist
 ### +11
-16. [[霧 (char)]]
+16. <ruby>[霧](/characters/霧%20(char).md)<rt>ㄇㄨ</rt></ruby> - fog
+17. <ruby>[霫](/characters/霫.md)<rt>ㄙㄨㄆ</rt></ruby> - heavy rain
 ### +12
-17. [[露 (char)]]
+18. <ruby>[露](/characters/露%20(char).md)<rt>ㄌㄛ</rt></ruby> - dew
 ### +13
-18. [霸](characters/覇.md)
+- 霸 --> 覇
 ### +16
-19. [靈](characters/霊.md)
+19. <ruby>[靄](/characters/靄.md)<rt>ㄚ˙</rt></ruby> - hazy
+- 靈 --> 霊
 
 ## Data check
 ```dataview
