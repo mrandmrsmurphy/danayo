@@ -1,7 +1,7 @@
 ---
-mandarin: "rè"
-cantonese: "jit6"
-korean: "열"
+mandarin: rè
+cantonese: jit6
+korean: 열
 korean_native: ""
 japanese:
   - NETSU
@@ -30,6 +30,7 @@ graphemic_classification: 埶
 stand_in: 熱
 aliases:
   - 热
+  - 烧
 注音: ㄋ˙ㄝㄊ
 ---
 >[!tip] This is a page about the character 熱.

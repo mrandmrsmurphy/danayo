@@ -1,7 +1,7 @@
 ---
-mandarin: "dài"
-cantonese: "daai3"
-korean: "대"
+mandarin: dài
+cantonese: daai3
+korean: 대
 korean_native: 띠
 japanese:
   - TAI
@@ -28,6 +28,7 @@ graphemic_classification: 象形
 stand_in: 帯
 aliases:
   - 帶
+  - 带
 注音: ㄊㄚ˙
 ---
 >[!tip] This is a page about the character 帯.

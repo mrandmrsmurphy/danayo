@@ -313,17 +313,16 @@
 [度](../../characters/度.md): 2
 [特](../../characters/特.md): 2
 [件](../../characters/件.md): 2
-[[完]]: 2
-[[危]]: 2
-[[藝]]: 2
-[[艺]]: 2
-[[我]]: 2
-[[握]]: 2
-[[喜]]: 2
-[[信]]: 2
-[[息]]: 2
-[[星]]: 2
-[[期]]: 2
+[完](../../characters/完.md): 2
+[危](../../characters/危.md): 2
+[藝](../../characters/芸.md): 2
+[我 (char)](../../characters/我%20(char).md): 2
+[握](../../characters/握.md): 2
+[喜 (char)](../../characters/喜%20(char).md): 2
+[信](../../characters/信.md): 2
+[息](../../characters/息.md): 2
+[星 (char)](../../characters/星%20(char).md): 2
+[期 (char)](../../characters/期%20(char).md): 2
 [许](../../characters/許%20(char).md): 2
 [校](../../characters/校.md): 2
 [色](../../characters/色.md): 2
@@ -347,80 +346,61 @@
 [周](../../characters/周.md): 2
 [主](../../characters/主.md): 2
 ## 1
-[[觀]]: 1
-[[观]]: 1
-[[績]]: 1
-[[绩]]: 1
-[[城]]: 1
-[[市]]: 1
-[[遲]]: 1
-[[迟]]: 1
-[[除]]: 1
-[[春]]: 1
-[[帶]]: 1
-[[带]]: 1
-[[錯]]: 1
-[[誤]]: 1
-[[错]]: 1
-[[误]]: 1
-[[打]]: 1
-[[算]]: 1
-[[概]]: 1
-[[但]]: 1
-[[當]]: 1
-[[当]]: 1
-[[很]]: 1
-[[地]]: 1
-[[燈]]: 1
-[[灯]]: 1
-[[視]]: 1
-[[视]]: 1
-[[冬]]: 1
-[[鍛]]: 1
-[[鍊]]: 1
-[[锻]]: 1
-[[炼]]: 1
-[[少]]: 1
-[[而]]: 1
-[[且]]: 1
-[[燒]]: 1
-[[烧]]: 1
-[[譯]]: 1
-[[译]]: 1
-[[向]]: 1
-[[訪]]: 1
-[[访]]: 1
-[[放]]: 1
-[[飛]]: 1
-[[飞]]: 1
-[[非]]: 1
-[[豐]]: 1
-[[丰]]: 1
-[[員]]: 1
-[[员]]: 1
-[[輔]]: 1
-[[辅]]: 1
-[[負]]: 1
-[[責]]: 1
-[[负]]: 1
-[[责]]: 1
-[[附]]: 1
-[[雜]]: 1
-[[杂]]: 1
-[[變]]: 1
-[[变]]: 1
-[[乾]]: 1
-[[淨]]: 1
-[[净]]: 1
-[[冒]]: 1
-[[幹]]: 1
-[[剛]]: 1
-[[刚]]: 1
-[[鋼]]: 1
-[[钢]]: 1
-[[興]]: 1
-[[兴]]: 1
-[[訴]]: 1
+[觀](../../characters/観.md): 1
+[績](../../characters/績.md): 1
+[城](../../characters/城.md): 1
+[市](../../characters/市.md): 1
+[遲](../../characters/遅%20(char).md): 1
+[除](../../characters/除.md): 1
+[春 (char)](../../characters/春%20(char).md): 1
+[帶](../../characters/帯%20(char).md): 1
+[錯](../../characters/錯.md): 1
+[誤](../../characters/誤.md): 1
+[错](../../characters/錯.md): 1
+[打](../../characters/打.md): 1
+[算 (char)](../../characters/算%20(char).md): 1
+[概 (char)](../../characters/概%20(char).md): 1
+[但 (char)](../../characters/但%20(char).md): 1
+[當](../../characters/当%20(char).md): 1
+!!很!!: 1
+[地 (char)](../../characters/地%20(char).md): 1
+[燈](../../characters/灯%20(char).md): 1
+[視 (char)](../../characters/視%20(char).md): 1
+[冬 (char)](../../characters/冬%20(char).md): 1
+[鍛](../../characters/鍛.md): 1
+[鍊](../../characters/錬.md): 1
+[锻](../../characters/鍛.md): 1
+[少 (char)](../../characters/少%20(char).md): 1
+[而 (char)](../../characters/而%20(char).md): 1
+[且 (char)](../../characters/且%20(char).md): 1
+[燒](../../characters/焼.md): 1
+[譯](../../characters/訳.md): 1
+[向 (char)](../../characters/向%20(char).md): 1
+[訪](../../characters/訪.md): 1
+[访](../../characters/訪.md): 1
+[放](../../characters/放.md): 1
+[飛](../../characters/飛.md): 1
+[飞](../../characters/飛.md): 1
+[非 (char)](../../characters/非%20(char).md): 1
+[豐](../../characters/豊.md): 1
+[員](../../characters/員.md): 1
+[员](../../characters/員.md): 1
+[輔](../../characters/輔.md): 1
+[辅](../../characters/輔.md): 1
+[負 (char)](../../characters/負%20(char).md): 1
+[責](../../characters/責.md): 1
+[负](../../characters/負%20(char).md): 1
+[附 (char)](../../characters/附%20(char).md): 1
+[雜](../../characters/雑%20(char).md): 1
+[變](../../characters/変%20(char).md): 1
+[乾](../../characters/乾%20(char).md): 1
+[淨](../../characters/浄.md): 1
+[冒](../../characters/冒.md): 1
+[幹](../../characters/幹.md): 1
+[剛](../../characters/剛.md): 1
+[鋼](../../characters/鋼.md): 1
+[興 (char)](../../characters/興%20(char).md): 1
+[訴](../../characters/訴.md): 1
 [[诉]]: 1
 [[種]]: 1
 [[种]]: 1
@@ -726,36 +706,30 @@
 [[增]]: 1
 [[覽]]: 1
 [[览]]: 1
-[[掌]]: 1
-[[顧]]: 1
-[[顾]]: 1
-[[齊]]: 1
-[[齐]]: 1
-[[府]]: 1
-[[治]]: 1
-[[只]]: 1
-[[頭]]: 1
-[[头]]: 1
-[[重]]: 1
-[[圍]]: 1
-[[围]]: 1
-[[注]]: 1
-[[準]]: 1
-[[備]]: 1
-[[准]]: 1
-[[备]]: 1
-[[桌]]: 1
-[[己]]: 1
-[[總]]: 1
-[[总]]: 1
-[[足]]: 1
-[[組]]: 1
-[[織]]: 1
-[[组]]: 1
-[[织]]: 1
-[[祖]]: 1
-[[初]]: 1
-[[昨]]: 1
+[掌](../../characters/掌.md): 1
+[顧](../../characters/顧.md): 1
+[齐](../../characters/斉.md): 1
+[府](../../characters/府.md): 1
+[治](../../characters/治.md): 1
+[只 (char)](../../characters/只%20(char).md): 1
+[頭 (char)](../../characters/頭%20(char).md): 1
+[头](../../characters/頭%20(char).md): 1
+[重 (char)](../../characters/重%20(char).md): 1
+[圍](../../characters/囲.md): 1
+[注](../../characters/注.md): 1
+[準](../../characters/準.md): 1
+[備](../../characters/備.md): 1
+[准](../../characters/准.md): 1
+[桌 (char)](../../characters/桌%20(char).md): 1
+[己](../../characters/己.md): 1
+[总](../../characters/総.md)
+[足 (char)](../../characters/足%20(char).md): 1
+[組](../../characters/組.md): 1
+[織](../../characters/織.md): 1
+[织](../../characters/織.md): 1
+[祖](../../characters/祖.md): 1
+[初](../../characters/初.md): 1
+[昨 (char)](../../characters/昨%20(char).md): 1
 
 ## Datacheck
 ```base

@@ -1,7 +1,7 @@
 ---
-mandarin: "zá"
-cantonese: "zaap6"
-korean: "잡"
+mandarin: zá
+cantonese: zaap6
+korean: 잡
 korean_native: 섞일
 japanese:
   - ZATSU
@@ -28,6 +28,7 @@ graphemic_classification: 集
 stand_in: 雑
 aliases:
   - 雜
+  - 杂
 注音: ㄐㄚㄆ
 ---
 >[!tip] This is a page about the character 雑.
