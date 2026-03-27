@@ -986,7 +986,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[繫]] in [[lookup/Japanese/Hyōgai]]
 - [[睨]] in [[lookup/Japanese/Hyōgai]]
 - [[抉]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
-- [[蕨]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[蕨]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]] as 'kyud'!
 - [[姸]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
 - [[虔]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
 - [[捲]] in [[lookup/Japanese/Hyōgai]]
@@ -997,7 +997,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[菰]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
 - [[壺]] in [[lookup/Japanese/Hyōgai]]
 - [[齬]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
-- [[杭]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
 - [[巷]] in [[lookup/Japanese/Hyōgai]]
 - [[恍]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
 - [[狡]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
