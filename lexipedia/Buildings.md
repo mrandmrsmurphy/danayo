@@ -9,7 +9,7 @@ language: English
 - city/town - <ruby>[都市](/words/都市.md)<rt>ㄉㄛㄙㄧ</rt></ruby>
 - gate - <ruby>[大門](/words/大門.md)<rt>ㄉㄚ˙ㄇㄛㄋ</rt></ruby>
 - road - <ruby>[道路](/words/道路.md)<rt>ㄉㄚˇㄌㄛ</rt></ruby>
-- square/plaza - [[広場]]
+- square/plaza - <ruby>[広場](/words/広場.md)<rt>ㄍˇㄚㄥㄐㄚㄥ</rt></ruby>
 - street - <ruby>[[街道]]<rt>gyaidau</rt></ruby>
 - tunnel - <ruby>[[地下道]]<rt>diihadau</rt></ruby> (also <ruby>隧道<rt>suidau</rt></ruby>)
 - village - <ruby>[[農村]]<rt>nongcon</rt></ruby>
@@ -23,7 +23,7 @@ port, neighborhood, alley, sewer, forum, plaza, courtyard, cemetery, park
 - house
 - office
 - palace
-- prison - <ruby>監獄<rt>gam'yok</rt></ruby>
+- prison - <ruby>[[監獄]]<rt>gam'yok</rt></ruby>
 - station
 - tower
 
@@ -32,7 +32,7 @@ port, neighborhood, alley, sewer, forum, plaza, courtyard, cemetery, park
 ### Cultural 
 - scriptorium, forum, library, school, academy, university, monument, theater, museum, concert hall
 ### Religious 
-- church - <ruby>教会<rt>gyauhwe</rt></ruby>, temple, monastery, shrine, cemetery 
+- church - <ruby>[[教会]]<rt>gyauhwe</rt></ruby>, temple, monastery, shrine, cemetery 
 ### Recreational 
 - bath, pool, tavern, inn, hotel, restaurant, brothel, arena, stadium, race track, park, garden, gambling den, opium den
 ### Infrastructure 
@@ -44,13 +44,13 @@ port, neighborhood, alley, sewer, forum, plaza, courtyard, cemetery, park
 - ceiling
 - cell
 - chamber
-- door - <ruby>門戸<rt>munho</rt></ruby>
+- door - <ruby>[[門戸]]<rt>munho</rt></ruby>
 - floor
 - hall
 - kitchen
 - roof
 - room
-- stair - <ruby>階段<rt>gyedwan</rt></ruby>
+- stair - <ruby>[[階段]]<rt>gyedwan</rt></ruby>
 - step
 - wall
 - window
