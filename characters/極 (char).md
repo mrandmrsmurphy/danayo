@@ -35,9 +35,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 極.
 >For the word, see [極](words/極.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[南極](/words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby> - south pole
