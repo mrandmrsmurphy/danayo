@@ -35,9 +35,11 @@ aliases:
 ---
 >[!tip] This is a page about the character 心.
 >For the word, see [心](words/心.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+
+## Chengyu
+- [[誠心誠意]]
