@@ -24,7 +24,7 @@ skip_number: 1-4-4
 - <ruby>[[杪]]<rt>묘</rt></ruby>
 - <ruby>[[杯 (char)]]<rt>뵈</rt></ruby>
 - <ruby>[[杴]]<rt>혐</rt></ruby>
-- <ruby>[[松]]<rt>숑</rt></ruby>
+- <ruby>[松](../../../characters/松%20(char).md)<rt>숑</rt></ruby>
 - <ruby>[[板]]<rt>판</rt></ruby>
 - <ruby>[[枉]]<rt>왕</rt></ruby>
 - <ruby>[[析]]<rt>석</rt></ruby>

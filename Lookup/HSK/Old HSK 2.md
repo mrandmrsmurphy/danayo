@@ -721,11 +721,11 @@
 [傷](../../characters/傷.md): 2
 [伤](../../characters/傷.md): 2
 [燒](../../characters/焼.md): 2
-[[烧]]: 2
-[[稍]]: 2
-[[首]]: 2
-[[私]]: 2
-[[松]]: 2
+[烧](../../characters/熱%20(char).md): 2
+[稍 (char)](../../characters/稍%20(char).md): 2
+[首](../../characters/首.md): 2
+[私](../../characters/私.md): 2
+[松](../../characters/松%20(char).md): 2
 [[套]]: 2
 [[題]]: 2
 [[题]]: 2
