@@ -9,13 +9,14 @@ japanese:
   - WAN
 japanese_nanori: ""
 vietnamese:
+  - quan
 middle_chinese_initial: k
 middle_chinese_final: ɣuan
 stroke_count: 14
 radical: 門
 skip_number: 3-8-6
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - close
 羅馬字: gwam

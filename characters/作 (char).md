@@ -1,20 +1,21 @@
 ---
-mandarin: "zuò"
-cantonese: "zok3"
-korean: "작"
+mandarin: zuò
+cantonese: zok3
+korean: 작
 korean_native: ""
 japanese:
   - SAKU
   - SA
 japanese_nanori: ""
 vietnamese:
+  - tác
 middle_chinese_initial: t͡s
 middle_chinese_final: ɑk
 stroke_count: 7
 radical: 人
 skip_number: 1-2-5
 grade_level: "1"
-pos: ""
+pos: 事詞
 english:
   - make
   - do
@@ -33,11 +34,13 @@ aliases:
 ---
 >[!tip] This is a page about the character 作.
 >For the word, see [作](words/作.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
-- This is a stand-alone verb of a very generic sense: "to do", "to make".
-- For the verbal prefix "to cause to", see [[令]] (a valency-changing affix).
+## Words
+- [[作用]]
+- [[製作]]
+- [[傑作]]
+- [[作業]]

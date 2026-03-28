@@ -1,13 +1,14 @@
 ---
-mandarin: "mǒu"
-cantonese: "mau5"
-korean: "모"
+mandarin: mǒu
+cantonese: mau5
+korean: 모
 korean_native: ""
 japanese:
   - BOU
   - BAI
 japanese_nanori: ""
 vietnamese:
+  - mỗ
 middle_chinese_initial: m
 middle_chinese_final: əu
 stroke_count: 9
