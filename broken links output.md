@@ -1812,7 +1812,4 @@ HSK means:
 - [[灶]] in [[lookup/HSK/Old HSK 6]]
 - [[嘛]] in [[lookup/HSK/Old HSK 6]]
 - [[噪]] in [[lookup/HSK/Old HSK 6]]
-- [[腻]] in [[lookup/HSK/Old HSK 6]]
-- [[贼]] in [[lookup/HSK/Old HSK 6]]
-- [[赁]] in [[lookup/HSK/Old HSK 6]]
-- [[杰]] in [[lookup/HSK/Old HSK 6]]
+- [[腻]] in [[lookup/HSK/Old HSK 6]] grease, korean  name n
