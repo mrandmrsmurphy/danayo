@@ -458,58 +458,58 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1482. [[盾]] : shield
 1483. [[准]] : quasi-
 1484. [[殉]] : martyrdom
-1485. [[循]] : sequential
-1486. [[潤]] : wet
-1487. [[遵]] : abide by
-1488. [[庶]] : commoner
-1489. [[緒]] : 	緖	S	thong
-1490. [[如]] : likeness
-1491. [[叙]] : 	敍	S	confer
-1492. [[徐]] : gradually
-1493. [[升]] : measuring box
-1494. [[召]] : summon
-1495. [[匠]] : artisan
-1496. [[床]] : bed
-1497. [[抄]] : extract
-1498. [[肖]] : resemblance
-1499. [[尚]] : esteem
+1485. [循 (char)](../../characters/循%20(char).md) : sequential
+1486. [潤 (char)](../../characters/潤%20(char).md) : wet
+1487. [遵](../../characters/遵.md) : abide by
+1488. [庶](../../characters/庶.md) : commoner
+1489. [緒](../../characters/緒.md) : 	緖	S	thong
+1490. [如 (char)](../../characters/如%20(char).md) : likeness
+1491. [叙](../../characters/叙.md) : 	敍	S	confer
+1492. [徐](../../characters/徐.md) : gradually
+1493. [升 (char)](../../characters/升%20(char).md) : measuring box
+1494. [召](../../characters/召.md) : summon
+1495. [匠](../../characters/匠.md) : artisan
+1496. [床 (char)](../../characters/床%20(char).md) : bed
+1497. [抄](../../characters/抄.md) : extract
+1498. [肖](../../characters/肖.md) : resemblance
+1499. [尚 (char)](../../characters/尚%20(char).md) : esteem
 ## 1500
-1500. [[昇]] : rise up
-1501. [[沼]] : marsh
-1502. [[宵]] : wee hours
-1503. [[症]] : symptoms
-1504. [[祥]] : 	祥 auspicious
-1505. [[称]] : 	稱	appellation
-1506. [[渉]] : 	涉	ford
-1507. [[紹]] : introduce
-1508. [[訟]] : sue
-1509. [[掌]] : manipulate
-1510. [[晶]] : sparkle
-1511. [[焦]] : char
-1512. [[硝]] : nitrate
-1513. [[粧]] : cosmetics
-1514. [[詔]] : imperial edict
-1515. [[奨]] : 	奬	S	exhort
-1516. [[詳]] : detailed
-1517. [[彰]] : patent
-1518. [[憧]] : desire
-1519. [[衝]] : collide
-1520. [[償]] : reparation
-1521. [[礁]] : reef
-1522. [[鐘]] : bell
-1523. [[丈 (char)]] : length
-1524. [[冗]] : superfluous
-1525. [[浄]] : 	淨	clean
-1526. [[剰]] : 	剩	surplus
-1527. [[畳]] : 	疊	tatami mat
-1528. [[壌]] : 	壤	lot
+1500. [昇](../../characters/昇.md) : rise up
+1501. [沼](../../characters/沼.md) : marsh
+1502. [宵](../../characters/宵.md) : wee hours
+1503. [症](../../characters/症.md) : symptoms
+1504. [祥](../../characters/祥.md) : 	祥 auspicious
+1505. [称](../../characters/称.md) : 	稱	appellation
+1506. [渉 (char)](../../characters/渉%20(char).md) : 	涉	ford
+1507. [紹](../../characters/紹.md) : introduce
+1508. [訟 (char)](../../characters/訟%20(char).md) : sue
+1509. [掌](../../characters/掌.md) : manipulate
+1510. [晶](../../characters/晶.md) : sparkle
+1511. [焦 (char)](../../characters/焦%20(char).md) : char
+1512. [硝](../../characters/硝.md) : nitrate
+1513. [粧](../../characters/粧.md) : cosmetics
+1514. [詔](../../characters/詔.md) : imperial edict
+1515. [奨](../../characters/奨.md) : 	奬	S	exhort
+1516. [詳](../../characters/詳.md) : detailed
+1517. [彰](../../characters/彰.md) : patent
+1518. [憧](../../characters/憧.md) : desire
+1519. [衝 (char)](../../characters/衝%20(char).md) : collide
+1520. [償](../../characters/償.md) : reparation
+1521. [礁](../../characters/礁.md) : reef
+1522. [鐘 (char)](../../characters/鐘%20(char).md) : bell
+1523. [丈 (char)](../../characters/丈%20(char).md) : length
+1524. [冗 (char)](../../characters/冗%20(char).md) : superfluous
+1525. [浄](../../characters/浄.md) : 	淨	clean
+1526. [剰](../../characters/剰.md) : 	剩	surplus
+1527. [畳 (char)](../../characters/畳%20(char).md) : 	疊	tatami mat
+1528. [壌](../../characters/壌.md) : 	壤	lot
 1529. [嬢](characters/娘%20(char).md) : 	孃	lass
-1530. [[錠]] : lock
-1531. [[譲]] : 	讓	defer
-1532. [[醸]] : 	brew 
-1533. [[拭]] : wipe
-1534. [[殖]] : augment
-1535. [[飾]] : decorate
+1530. [錠 (char)](../../characters/錠%20(char).md) : lock
+1531. [譲 (char)](../../characters/譲%20(char).md) : 	讓	defer
+1532. [醸](../../characters/醸.md) : 	brew 
+1533. [拭](../../characters/拭.md) : wipe
+1534. [殖](../../characters/殖.md) : augment
+1535. [飾](../../characters/飾.md) : decorate
 1536. [[触]] : 	觸	contact
 1537. [[嘱]] : 	囑	entrust
 1538. [[辱]] : embarrass

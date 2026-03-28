@@ -1,7 +1,7 @@
 ---
-mandarin: "sòng"
-cantonese: "zung6"
-korean: "송"
+mandarin: sòng
+cantonese: zung6
+korean: 송
 korean_native: ""
 japanese:
   - SHOU
@@ -20,7 +20,7 @@ english:
 羅馬字: syong
 韓文: 숑
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 6426
 mc_id: 1188
@@ -32,9 +32,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 訟.
 >For the word, see [訟](words/訟.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*sɢloŋ, \*sɢloŋs): semantic [言](Radical%20149) (“say”) + phonetic [公](公%20(char).md) (OC \*kloːŋ).
