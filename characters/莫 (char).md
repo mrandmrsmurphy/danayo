@@ -1,7 +1,7 @@
 ---
-mandarin: "mò"
-cantonese: "mok6"
-korean: "막"
+mandarin: mò
+cantonese: mok6
+korean: 막
 korean_native: ""
 japanese:
   - BO
@@ -9,6 +9,7 @@ japanese:
   - MAKU
 japanese_nanori: ""
 vietnamese:
+  - mạc
 middle_chinese_initial: m
 middle_chinese_final: ɑk
 stroke_count: 13

@@ -1,5 +1,4 @@
 HSK means:
-- [[莫]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[于]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[共]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[由]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/˙ㄨˇ]]
@@ -1705,9 +1704,7 @@ HSK means:
 - [[膛]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[酗]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[絮]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅅ]]
-- [[熏]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[韵]] in [[lookup/HSK/Old HSK 4]]
-- [[哑]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[杨]] in [[lookup/HSK/Old HSK 4]]
 - [[痒]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]]
 - [[癢]] in [[lookup/HSK/Old HSK 4]]
