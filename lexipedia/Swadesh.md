@@ -8,12 +8,12 @@
 |  6  |      they       | 之,斯  |   他們   |   佢哋   |        彼等, 彼ら        |                      |                户họ                 | <ruby>[[其人等]]<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>  |     |
 |  7  |      this       |  是   |   這    |   呢    |          此れ          |          此는          |               尼 này                |     <ruby>[[此]]<rt>ㄑㄝ</rt></ruby>      |     |
 |  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |  <ruby>[[其]]<rt>ㄍㄧ</rt></ruby>  |     |
-|     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[[../words/彼]]<rt>ㄅㄧ</rt></ruby>  |     |
+|     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[彼](../words/彼.md)<rt>ㄅㄧ</rt></ruby>  |     |
 |  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |    <ruby>[[此処]]<rt>ㄑㄝㄑㄛ</rt></ruby>    |     |
 | 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |    <ruby>[[其処]]<rt>ㄍㄧㄑㄛ</rt></ruby>    |     |
 |     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |    <ruby>[[彼処]]<rt>ㄅㄧㄑㄛ</rt></ruby>    |     |
 | 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[[誰]]<rt>ㄙ˙ㄝ˙</rt></ruby> |     |
-| 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |  <ruby>[[何]]<rt>ㄏㄚ</rt></ruby>  |     |
+| 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |  <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>  |     |
 | 13  |      where      |  何處  |   哪裡   |   邊度   |          何処          |        奚 or 焉        |               兜 đâu                |    <ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby>    |     |
 | 14  |      when       |  迨   |  甚麼時候  |   幾時   |          何時          |       曷 or 何時        |             欺芇 khi nào             |    <ruby>[[何時]]<rt>ㄏㄚㄙㄧ</rt></ruby>    |     |
 | 15  |       how       |  如何  |   如何   | 如何, 點樣 |          如何          |       焉 or 如何        |             替芇 thế nào             |                 如何 뇨하                 |     |

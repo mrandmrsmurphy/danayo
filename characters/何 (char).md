@@ -1,7 +1,7 @@
 ---
-mandarin: "hé"
-cantonese: "ho4"
-korean: "하"
+mandarin: hé
+cantonese: ho4
+korean: 하
 korean_native: ""
 japanese:
   - KA
@@ -32,6 +32,7 @@ aliases:
 tags:
   - correlative
 注音: ㄏㄚ
+kwin: true
 ---
 >[!tip] This is a page about the character 何.
 >For the word, see [何](words/何.md)

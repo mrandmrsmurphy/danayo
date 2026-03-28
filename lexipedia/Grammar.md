@@ -85,7 +85,7 @@ _the_ and _a_ are not part of Dan'a'yo
 - who : <ruby>[[誰]]<rt>ㄙ˙ㄝ˙</rt></ruby>
 - how
 - why
-- what : <ruby>[[何]]<rt>ㄏㄚ</rt></ruby>
+- what : <ruby>[[../words/何]]<rt>ㄏㄚ</rt></ruby>
 - which
 
 ## Words about Grammar

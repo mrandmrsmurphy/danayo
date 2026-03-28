@@ -556,7 +556,7 @@
 [[熱]]: 1
 [[热]]: 1
 [[任]]: 1
-[[何]]: 1
+[何 (char)](../../characters/何%20(char).md): 1
 [易](../../characters/易.md): 1
 [散](../../characters/散.md): 1
 [商](../../characters/商.md): 1
