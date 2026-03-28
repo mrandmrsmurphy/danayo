@@ -1,0 +1,1310 @@
+Don't forget that creating the file from here may create the file in the wrong directory!
+
+## 2+ Words
+- 韻図 in grammar/単亜語之文法書
+- 前提 in grammar/文法 - 01序文
+- 専門 in grammar/文法 - 01序文
+- 相関詞 in grammar/文法 - 01序文
+- 上代 in grammar/文法 - 01序文
+- 原理 in grammar/文法 - 01序文
+- 詞彙 in grammar/文法 - 01序文
+- 人名用 in grammar/文法 - 01序文
+- 最大 in grammar/文法 - 01序文
+- 専門語 in grammar/文法 - 01序文
+- 分析 in grammar/文法 - 01序文
+- 汎亜 in grammar/文法 - 01序文
+- 普遍 in grammar/文法 - 01序文
+- 式複 in grammar/文法 - 01序文
+- 合語 in grammar/文法 - 01序文
+- 補助語 in grammar/文法 - 01序文
+- 母語 in grammar/文法 - 01序文
+- 通信 in grammar/文法 - 01序文, lexipedia/Geography
+- 日常 in grammar/文法 - 01序文
+- 中世 in grammar/文法 - 01序文
+- 遺産 in grammar/文法 - 01序文
+- 硬直 in grammar/文法 - 01序文
+- 制度 in grammar/文法 - 01序文, lexipedia/Geography
+- 指標 in grammar/文法 - 01序文
+- 話者 in grammar/文法 - 01序文
+- 視認 in grammar/文法 - 01序文
+- 聴取 in grammar/文法 - 01序文
+- 短期 in grammar/文法 - 01序文
+- 対照 in grammar/文法 - 01序文
+- 理解度 in grammar/文法 - 01序文
+- 急速 in grammar/文法 - 01序文
+- 世宗大王 in grammar/文法 - 02音韻論
+- 正音 in grammar/文法 - 02音韻論
+- 基準 in grammar/文法 - 02音韻論
+- 明確 in grammar/文法 - 02音韻論
+- 精密 in grammar/文法 - 02音韻論
+- 権威 in grammar/文法 - 02音韻論
+- 原則 in grammar/文法 - 02音韻論, lexipedia/Geography
+- 者容易 in grammar/文法 - 02音韻論
+- 韻母 in grammar/文法 - 02音韻論
+- 西洋 in grammar/文法 - 02音韻論
+- 音素 in grammar/文法 - 02音韻論
+- 結合 in grammar/文法 - 02音韻論
+- 異音差 in grammar/文法 - 02音韻論
+- 連続 in grammar/文法 - 02音韻論
+- 長短 in grammar/文法 - 02音韻論
+- 表記 in grammar/文法 - 02音韻論
+- 連声 in grammar/文法 - 02音韻論
+- 独立 in grammar/文法 - 02音韻論, lexipedia/Geography
+- 最高点 in grammar/文法 - 02音韻論
+- 簡略 in grammar/文法 - 03文字法
+- 字形 in grammar/文法 - 03文字法
+- 可読 in grammar/文法 - 03文字法
+- 視覚 in grammar/文法 - 03文字法
+- 折衷 in grammar/文法 - 03文字法
+- 均衡 in grammar/文法 - 03文字法
+- 諸音 in grammar/文法 - 03文字法
+- 偏重 in grammar/文法 - 03文字法
+- 韓語 in grammar/文法 - 03文字法
+- 並立 in grammar/文法 - 03文字法
+- 制約 in grammar/文法 - 03文字法
+- 媒介 in grammar/文法 - 03文字法
+- 偏勝 in grammar/文法 - 03文字法
+- 譬喩 in grammar/文法 - 03文字法
+- 義派 in grammar/文法 - 03文字法
+- 傳統 in grammar/文法 - 03文字法
+- 義派生 in grammar/文法 - 03文字法
+- 単語 in grammar/文法 - 03文字法
+- 一字 in grammar/文法 - 03文字法
+- 双字 in grammar/文法 - 03文字法
+- 慣用句 in grammar/文法 - 03文字法
+- 四字 in grammar/文法 - 03文字法
+- 慣用 in grammar/文法 - 03文字法
+- 国別 in grammar/文法 - 03文字法
+- 代用 in grammar/文法 - 03文字法
+- 稀少 in grammar/文法 - 03文字法
+- 実際 in grammar/文法 - 03文字法
+- 字庫 in grammar/文法 - 03文字法
+- 日用必備 in grammar/文法 - 03文字法
+- 文言承継 in grammar/文法 - 04句法
+- 現代適応 in grammar/文法 - 04句法
+- 接詞 in grammar/文法 - 04句法
+- 附形之助 in grammar/文法 - 05形態
+- 顯句之理 in grammar/文法 - 05形態
+- 連体 in grammar/文法 - 05形態
+- 複数 in grammar/文法 - 05形態
+- 諸語 in grammar/文法 - 05形態
+- 単純 in grammar/文法 - 05形態
+- 標識 in grammar/文法 - 05形態
+- 連帯 in grammar/文法 - 05形態
+- 相当 in grammar/文法 - 05形態
+- 接尾 in grammar/文法 - 05形態
+- 代名詞 in grammar/文法 - 05形態
+- 敬語 in grammar/文法 - 05形態
+- 制限 in grammar/文法 - 05形態
+- 時相 in grammar/文法 - 05形態
+- 完了 in grammar/文法 - 05形態
+- 将然 in grammar/文法 - 05形態
+- 繋辞 in grammar/文法 - 05形態
+- 否定 in grammar/文法 - 05形態
+- 交替 in grammar/文法 - 05形態
+- 要約 in grammar/文法 - 05形態
+- 能力 in grammar/文法 - 05形態
+- 許可 in grammar/文法 - 05形態
+- 受動 in grammar/文法 - 05形態
+- 評詞 in grammar/文法 - 05形態
+- 簡潔 in grammar/文法 - 05形態
+- 重畳 in grammar/文法 - 05形態
+- 韓國語 in grammar/文法 - 05形態
+- 單字 in grammar/文法 - 05形態
+- 合成 in grammar/文法 - 05形態
+- 迂言 in grammar/文法 - 05形態
+- 小辭 in grammar/文法 - 05形態
+- 最極 in grammar/文法 - 05形態
+- 有生 in grammar/文法 - 97品詞
+- 処格 in grammar/文法 - 97品詞
+- 具格 in grammar/文法 - 97品詞
+- 共格 in grammar/文法 - 97品詞
+- 比較格 in grammar/文法 - 97品詞
+- 奪格 in grammar/文法 - 97品詞
+- 終止格 in grammar/文法 - 97品詞
+- 類似格 in grammar/文法 - 97品詞
+- 向格 in grammar/文法 - 97品詞
+- 様態格 in grammar/文法 - 97品詞
+- 修飾語 in grammar/文法 - 97品詞
+- 時制 in grammar/文法 - 97品詞
+- 量化詞 in grammar/文法 - 97品詞
+- 指示詞 in grammar/文法 - 97品詞
+- 情態 in grammar/文法 - 97品詞
+- 可不 in grammar/文法 - 97品詞
+- 不可不 in grammar/文法 - 97品詞
+- 可以 in grammar/文法 - 97品詞
+- 不可以 in grammar/文法 - 97品詞
+- 擬詞 in grammar/文法 - 97品詞
+- 網語体 in grammar/文法 - 97品詞
+- 依存 in grammar/文法 - 97品詞
+- 自立 in grammar/文法 - 97品詞
+- 感詞 in grammar/文法 - 97品詞
+- 皆様 in grammar/文法 - 97品詞
+- 毎多 in grammar/文法 - 97品詞
+- 皆多 in grammar/文法 - 97品詞
+- 何名 in grammar/文法 - 97品詞
+- 虎鯨 in grammar/文法 - 98違法字
+- 虎鯉魚 in grammar/文法 - 98違法字
+
+- 連濁 in characters/濁
+- 滲透 in characters/滲
+- 滲入 in characters/滲
+- 滲出 in characters/滲
+- 滲漏 in characters/滲
+- 燐火 in characters/燐
+- 燐光 in characters/燐
+- 且爵 in characters/爵
+- 猩紅熱 in characters/猩
+- 黒猩 in characters/猩
+- 大猩 in characters/猩
+- 倭猩 in characters/猩
+- 猩蝿 in characters/猩
+- 猿楽 in characters/猿
+- 猿人 in characters/猿
+- 死亡率 in characters/率
+- 效率 in characters/率
+- 出生率 in characters/率
+- 利率 in characters/率
+- 率直 in characters/率
+- 投票率 in characters/率
+- 率先 in characters/率
+- 百分率 in characters/率
+- 真相 in characters/相
+- 弱不禁風 in characters/禁
+- 令行禁止 in characters/禁
+- 禁苑 in characters/禁
+- 嚴禁 in characters/禁
+- 失禁 in characters/禁
+- 拘禁 in characters/禁
+- 海禁 in characters/禁
+- 監禁 in characters/禁
+- 禁令 in characters/禁
+- 禁制 in characters/禁
+- 禁忌 in characters/禁
+- 禁断 in characters/禁
+- 禁書 in characters/禁
+- 禁煙 in characters/禁
+- 禁酒 in characters/禁
+- 紫禁城 in characters/禁
+- 解禁 in characters/禁
+- 禁漁 in characters/禁
+- 禁猟 in characters/禁
+- 軟禁 in characters/禁
+- 羊狂 in characters/羊
+- 磨耗 in characters/耗
+- 肥桶 in characters/肥
+- 肥瘠 in characters/肥
+- 肥大 in characters/肥
+- 肥満 in characters/肥
+- 厩肥 in characters/肥
+- 堆肥 in characters/肥
+- 化学肥料 in characters/肥
+- 合肥 in characters/肥
+- 土肥 in characters/肥
+- 肥育 in characters/肥
+- 臭膣 in characters/膣 (char)
+- 山芋 in characters/芋
+- 馬鈴薯 in characters/芋
+- 甘薯 in characters/芋
+- 苦役 in characters/苦 (char)
+- 苦難 in characters/苦 (char)
+- 苦肉 in characters/苦 (char)
+- 苦悩 in characters/苦 (char)
+- 刻苦 in characters/苦 (char)
+- 苦味 in characters/苦 (char)
+- 壁虱 in characters/虱 (char)
+- 蛍火虫 in characters/蛍 (char), words/蛍
+- 蛍光 in characters/蛍 (char), words/蛍
+- 寒蝉 in characters/蝉 (char)
+- 明蝦 in characters/蝦
+- 解廌 in characters/解 (char)
+- 試驗 in characters/試
+- 跳梁 in characters/跳
+- 跳梁跋扈 in characters/跳
+- 跳高 in characters/跳
+- 軣軣 in characters/軣
+- 軽歌劇 in characters/軽 (char)
+- 軽金属 in characters/軽 (char)
+- 軽視 in characters/軽 (char)
+- 軽重 in characters/軽 (char)
+- 海辺 in characters/辺
+- 周辺 in characters/辺
+- 斜辺 in characters/辺
+- 国連 in characters/連 (char)
+- 週年 in characters/週
+- 週番 in characters/週
+- 今週 in characters/週
+- 每週 in characters/週
+- 隔週 in characters/週
+- 別野 in characters/野
+- 樓閣 in characters/閣
+- 閃電 in characters/電
+- 雷電 in characters/電
+- 雎鳩 in characters/鳩
+- 斑鳩 in characters/鳩
+- 多様 in lexipedia/Geography
+- 語言 in lexipedia/Geography
+- 国境 in lexipedia/Geography
+- 不均 in lexipedia/Geography
+- 南非 in lexipedia/Geography
+- 尼羅河 in lexipedia/Geography
+- 北美 in lexipedia/Geography
+- 南美 in lexipedia/Geography
+- 資源 in lexipedia/Geography
+- 分布 in lexipedia/Geography
+- 島嶼 in lexipedia/Geography
+- 密度 in lexipedia/Geography
+- 航路 in lexipedia/Geography
+- 主権 in lexipedia/Geography
+- 調解 in lexipedia/Geography
+- 互依 in lexipedia/Geography
+- 全球 in lexipedia/Geography
+- 相対 in lexipedia/Geography
+- 持続 in lexipedia/Geography
+- 変動 in lexipedia/Geography
+- 連合国 in lexipedia/Geography
+- 基金 in lexipedia/Geography
+- 多辺 in lexipedia/Geography
+- 協議 in lexipedia/Geography
+- 北美洲 in lexipedia/Geography, words/美洲
+- 南美洲 in lexipedia/Geography, words/美洲
+- 南極洲 in lexipedia/Geography
+- 太平 in lexipedia/Geography
+- 大西洋 in lexipedia/Geography
+- 北冰洋 in lexipedia/Geography
+- 南冰洋 in lexipedia/Geography
+- 地中海 in lexipedia/Geography
+- 南海 in lexipedia/Geography
+- 図法 in lexipedia/Geography
+- 四海 in lexipedia/Geography
+- 東海 in lexipedia/Geography
+- 西海 in lexipedia/Geography
+- 北海 in lexipedia/Geography
+- 方位 in lexipedia/Geography
+- 界水 in lexipedia/Geography
+- 治域 in lexipedia/Geography
+- 環状 in lexipedia/Geography
+- 王域 in lexipedia/Geography
+- 並列 in lexipedia/Geography
+- 宇宙観 in lexipedia/Geography
+- 信条 in bible/基督敎 elements
+- 尼西亜 in bible/基督敎 elements
+- 使徒 in bible/基督敎 elements
+- 君士坦丁堡 in bible/基督敎 elements
+- 迦克敦 in bible/基督敎 elements
+- 三位一体 in bible/基督敎 elements
+- 道成肉身 in bible/基督敎 elements
+- 原罪 in bible/基督敎 elements
+- 救贖 in bible/基督敎 elements
+- 償還 in bible/基督敎 elements
+- 恩寵 in bible/基督敎 elements
+- 恩典 in bible/基督敎 elements
+- 恩德 in bible/基督敎 elements
+- 恩意 in bible/基督敎 elements
+- 恩施 in bible/基督敎 elements
+- 主教 in bible/基督敎 elements
+- 大主教 in bible/基督敎 elements
+- 總主教 in bible/基督敎 elements
+- 枢機 in bible/基督敎 elements
+- 教皇 in bible/基督敎 elements
+- 司鐸 in bible/基督敎 elements
+- 牧師 in bible/基督敎 elements
+- 神父 in bible/基督敎 elements
+- 大教堂 in bible/基督敎 elements
+- 修道院 in bible/基督敎 elements
+- 神学院 in bible/基督敎 elements
+- 聖礼 in bible/基督敎 elements
+- 聖餐 in bible/基督敎 elements
+- 洗礼 in bible/基督敎 elements
+
+- 七宝 in characters/七 (char)
+- 七事 in characters/七 (char)
+- 七対子 in characters/七 (char)
+- 七面鳥 in characters/七 (char)
+- 七曜 in characters/七 (char)
+- 七星 in characters/七 (char)
+- 七色 in characters/七 (char)
+- 七角形 in characters/七 (char)
+
+- 九泉 in characters/九 (char)
+- 九卿 in characters/九 (char)
+- 九經 in characters/九 (char)
+- 十九 in characters/九 (char), characters/十
+- 九族 in characters/九 (char)
+- 九官鳥 in characters/九 (char)
+- 九尾狐 in characters/九 (char)
+- 草亀 in characters/亀 (char)
+- 二百 in characters/二 (char)
+- 二万 in characters/二 (char)
+- 二人 in characters/二 (char), lexipedia/Numbers
+- 二重 in characters/二 (char), lexipedia/Numbers
+- 二心 in characters/二 (char)
+- 二次元 in characters/二 (char)
+
+- 五戒 in characters/五 (char)
+- 五十 in characters/五 (char), characters/十
+- 五色 in characters/五 (char)
+- 五方 in characters/五 (char)
+- 五角形 in characters/五 (char)
+- 五穀 in characters/五 (char)
+- 五更 in characters/五 (char)
+- 五指 in characters/五 (char)
+- 五官 in characters/五 (char)
+- 牛井 in characters/井
+- 親子井 in characters/井
+- 豚井 in characters/井
+- 担任 in characters/任
+
+- 第八 in characters/八 (char)
+- 八日 in characters/八 (char), lexipedia/Calendar
+- 八千 in characters/八 (char)
+
+- 十五 in characters/十
+- 十七 in characters/十
+- 十八 in characters/十
+- 五代十国 in characters/十, lexipedia/歴史綱要
+
+- 厳然 in characters/厳 (char)
+- 傾向 in characters/向 (char)
+- 堅魚 in characters/堅
+- 堅鳥 in characters/堅
+- 私塾 in characters/塾
+- 地境 in characters/境
+- 夢嫌 in characters/嫌
+
+- 仮定 in characters/定
+- 鑑定 in characters/定
+- 既定 in characters/定
+- 規定 in characters/定
+- 協定 in characters/定
+- 宿題 in characters/宿
+- 尊魚 in characters/尊
+- 宇宙局 in characters/局 (char), words/局
+- 消防局 in characters/局 (char), words/局
+- 放送局 in characters/局 (char), words/局
+- 造幣局 in characters/局 (char), words/局
+- 中央情報局 in characters/局 (char), words/局
+- 希釈 in characters/希
+- 希少 in characters/希
+- 古希 in characters/希
+- 拡張 in characters/張
+- 字彙 in characters/彙 (char), grammar/文法 - 01序文
+- 燐彬 in characters/彬
+- 従事 in characters/従 (char)
+- 従業 in characters/従 (char)
+- 憤慨 in characters/慨 (char)
+- 座敷 in characters/敷 (char)
+- 敷布 in characters/敷 (char)
+- 昭明 in characters/昭 (char)
+- 望月 in characters/月 (char)
+- 大朋鳥 in characters/朋
+- 千末 in characters/末, lexipedia/Calendar
+- 世紀末 in characters/末, lexipedia/Calendar
+- 伊吹 in characters/桧
+- 檜木 in characters/桧
+- 棕櫚主日 in characters/棕
+- 大槪 in characters/概 (char)
+- 意欲 in characters/欲
+- 強欲 in characters/欲
+- 情欲 in characters/欲
+- 食欲 in characters/欲
+- 辟歴 in characters/歴
+- 分類学 in lexipedia/Animals
+- 聴衆 in lexipedia/Art
+- 宇宙人 in lexipedia/Astronomy, words/宇宙
+- 啓明 in lexipedia/Astronomy
+- 太白星 in lexipedia/Astronomy
+- 矮行星 in lexipedia/Astronomy
+- 䦧神星 in lexipedia/Astronomy
+- 小行星帯 in lexipedia/Astronomy
+- 新星 in lexipedia/Astronomy
+- 天頂 in lexipedia/Astronomy
+- 天底 in lexipedia/Astronomy
+- 分点 in lexipedia/Astronomy
+- 至点 in lexipedia/Astronomy
+- 至日 in lexipedia/Astronomy
+- 冬至 in lexipedia/Astronomy, lexipedia/Calendar
+- 天干 in lexipedia/Astronomy
+- 地支 in lexipedia/Astronomy
+- 翌日 in lexipedia/Calendar
+- 前日 in lexipedia/Calendar
+- 隔日 in lexipedia/Calendar
+- 連日 in lexipedia/Calendar
+- 週初 in lexipedia/Calendar
+- 週中 in lexipedia/Calendar
+- 月初 in lexipedia/Calendar
+- 月中 in lexipedia/Calendar
+- 四日 in lexipedia/Calendar
+- 五日 in lexipedia/Calendar
+- 六日 in lexipedia/Calendar
+- 十日 in lexipedia/Calendar
+- 即日 in lexipedia/Calendar
+- 是日 in lexipedia/Calendar
+- 次日 in lexipedia/Calendar
+- 千年紀 in lexipedia/Calendar
+- 上半期 in lexipedia/Calendar
+- 下半期 in lexipedia/Calendar
+- 同年 in lexipedia/Calendar
+- 千初 in lexipedia/Calendar
+- 千中 in lexipedia/Calendar
+- 元日 in lexipedia/Calendar
+- 正月 in lexipedia/Calendar
+- 陰暦年 in lexipedia/Calendar
+- 旧正月 in lexipedia/Calendar
+- 閏年 in lexipedia/Calendar
+- 平年 in lexipedia/Calendar
+- 閏月 in lexipedia/Calendar
+- 太陽暦 in lexipedia/Calendar
+- 太陰暦 in lexipedia/Calendar
+- 太陰太陽暦 in lexipedia/Calendar
+- 暦法 in lexipedia/Calendar
+- 紀年 in lexipedia/Calendar
+- 世紀初 in lexipedia/Calendar
+- 世紀中 in lexipedia/Calendar
+- 元号 in lexipedia/Calendar
+- 改元 in lexipedia/Calendar
+- 元年 in lexipedia/Calendar
+- 四季 in lexipedia/Calendar
+- 春分 in lexipedia/Calendar
+- 秋分 in lexipedia/Calendar
+- 休日 in lexipedia/Calendar
+- 祝日 in lexipedia/Calendar
+- 記念日 in lexipedia/Calendar
+- 祭日 in lexipedia/Calendar
+- 予定 in lexipedia/Calendar
+- 日程 in lexipedia/Calendar
+- 締切 in lexipedia/Calendar
+- 期限 in lexipedia/Calendar
+- 茶色 in lexipedia/Color
+- 灰色 in lexipedia/Color
+- 橙色 in lexipedia/Color
+- 桃色 in lexipedia/Color
+- 防守 in lexipedia/Geography
+- 広土 in lexipedia/Geography
+- 国主 in lexipedia/Geography
+- 立憲 in lexipedia/Geography
+- 内乱 in lexipedia/Geography
+- 外戦 in lexipedia/Geography
+- 改革 in lexipedia/Geography
+- 媒体 in lexipedia/Geography
+- 東伝 in lexipedia/Geography
+- 熱帯 in lexipedia/Geography
+- 気候 in lexipedia/Geography
+- 島嶼群 in lexipedia/Geography
+- 海峡 in lexipedia/Geography
+- 殖民 in lexipedia/Geography
+- 獅城 in lexipedia/Geography, words/新嘉浦
+- 星洲 in lexipedia/Geography, words/新嘉浦
+- 商路 in lexipedia/Geography
+- 南亜 in lexipedia/Geography
+- 高山 in lexipedia/Geography
+- 界線 in lexipedia/Geography
+- 西亜 in lexipedia/Geography
+- 沙漠 in lexipedia/Geography
+- 地帯 in lexipedia/Geography
+- 要地 in lexipedia/Geography
+- 中亜 in lexipedia/Geography
+- 興起 in lexipedia/Geography
+- 拡散 in lexipedia/Geography
+- 波斯 in lexipedia/Geography
+- 奥斯曼 in lexipedia/Geography
+- 内海 in lexipedia/Geography
+- 蘇格蘭 in lexipedia/Geography
+- 欽婁 in lexipedia/Geography
+- 愛爾蘭 in lexipedia/Geography
+- 大不列顛 in lexipedia/Geography
+- 共和國 in lexipedia/Geography
+- 荷蘭 in lexipedia/Geography
+- 瑞士 in lexipedia/Geography
+- 黙黙 in characters/黙
+- 天竺鼠 in characters/鼠
+- 尖鼠 in characters/鼠
+- 家鼠 in characters/鼠
+- 田鼠 in characters/鼠
+- 火鼠 in characters/鼠
+- 瞭然 in chengyu/一目瞭然
+- 世仇 in chengyu/世仇宿敵
+- 宿敵 in chengyu/世仇宿敵
+- 世間 in chengyu/世間罪盛
+- 六府 in chengyu/五臓六府
+- 大笑 in chengyu/呵呵大笑
+- 奴家 in chengyu/引出奴家
+- 引出 in chengyu/引出奴家
+- 招災 in chengyu/招災引禍
+- 引禍 in chengyu/招災引禍
+- 生機 in chengyu/生機勃勃
+- 勃勃 in chengyu/生機勃勃
+- 百家 in chengyu/百家共承
+- 空中 in chengyu/空中楼閣
+- 楼閣 in chengyu/空中楼閣
+- 自失 in chengyu/茫然自失
+- 単独 in lexipedia/Numbers
+- 二回 in lexipedia/Numbers
+- 二度 in lexipedia/Numbers
+- 双子 in lexipedia/Numbers
+- 横数 in lexipedia/Numbers
+- 無限 in lexipedia/Numbers
+
+- 徳素 in lexipedia/Periodic Table
+- 砒素 in lexipedia/Periodic Table
+- 月素 in lexipedia/Periodic Table
+- 臭素 in lexipedia/Periodic Table
+- 潜素 in lexipedia/Periodic Table
+- 康金 in lexipedia/Periodic Table
+- 色金 in lexipedia/Periodic Table
+- 孟金 in lexipedia/Periodic Table
+- 鬼金 in lexipedia/Periodic Table
+- 鬼銅 in lexipedia/Periodic Table
+- 鈩金 in lexipedia/Periodic Table
+- 錀琴 in lexipedia/Periodic Table
+
+- 不真 in lexipedia/Sophomore List
+- 湾曲 in lexipedia/Sophomore List
+- 中子 in lexipedia/Sophomore List
+- 海峽 in lexipedia/Sophomore List
+- 堰堤, in lexipedia/Sophomore List
+
+- 奈良 in lexipedia/歴史綱要
+- 三国 in lexipedia/歴史綱要
+- 高句麗 in lexipedia/歴史綱要
+- 新羅 in lexipedia/歴史綱要
+- 統一新羅 in lexipedia/歴史綱要
+- 高麗 in lexipedia/歴史綱要
+- 鎌倉 in lexipedia/歴史綱要
+- 室町 in lexipedia/歴史綱要
+- 安土桃山 in lexipedia/歴史綱要
+- 江戸 in lexipedia/歴史綱要
+- 徳川 in lexipedia/歴史綱要
+- 李氏 in lexipedia/歴史綱要
+- 大韓帝国 in lexipedia/歴史綱要
+- 国民党 in lexipedia/歴史綱要
+- 共産党 in lexipedia/歴史綱要
+- 民国 in lexipedia/歴史綱要
+- 大韓民国 in lexipedia/歴史綱要
+- 小学 in lexipedia/歴史綱要
+- 諸子百家 in lexipedia/歴史綱要
+- 上知 in lexipedia/歴史綱要
+- 下愚 in lexipedia/歴史綱要
+- 法家 in lexipedia/歴史綱要
+- 書院 in lexipedia/歴史綱要
+- 孝廉 in lexipedia/歴史綱要
+- 太学 in lexipedia/歴史綱要
+- 僕射 in lexipedia/歴史綱要
+- 射策 in lexipedia/歴史綱要
+- 律学 in lexipedia/歴史綱要
+- 屠殺 in syllables/ㄉㄛ
+- 杜撰 in syllables/ㄉㄛ
+- 鍍金 in syllables/ㄉㄛ
+- 途中 in syllables/ㄊㄛ
+- 蓬莱 in syllables/ㄌㄚ˙
+- 李子 in syllables/ㄌㄧ
+- 霊柩 in syllables/ㄍ˙ㄨ
+- 赳赳 in syllables/ㄍ˙ㄨ
+- 擱筆 in syllables/ㄍㄚㄎ
+- 桔梗 in syllables/ㄍㄝㄊ
+- 偈陀 in syllables/ㄍㄝㄊ
+- 娼妓 in syllables/ㄍㄧ
+- 囲棋 in syllables/ㄍㄧ
+- 企劃 in syllables/ㄎㄝ
+- 横幅 in syllables/ㄏˇㄚㄥ
+- 荒廃 in syllables/ㄏˇㄚㄥ
+- 寓居 in syllables/ㄨ
+- 主掌 in translation/周礼 (book)
+- 諌議 in translation/周礼 (book)
+- 五礼 in translation/周礼 (book)
+- 六楽 in translation/周礼 (book)
+- 五射 in translation/周礼 (book)
+- 五馭 in translation/周礼 (book)
+- 九数 in translation/周礼 (book)
+- 皮衣 in translation/論語 (book)
+- 魏峨 in translation/論語 (book)
+- 台悦 in translation/論語 (book)
+- 教戒 in translation/論語 (book)
+- 自尊 in translation/論語 (book)
+- 和敬 in translation/論語 (book)
+- 痛哭 in translation/論語 (book)
+- 漢方 in words/七情
+- 医学 in words/七情
+- 萬邦 in words/万邦
+- 参拾 in words/三十
+- 明君 in words/光明
+- 書經 in words/光明
+- 孫子兵法 in words/兵法
+- 印尼 in words/印度尼西亜
+- 肆拾 in words/四十
+- 書経 in words/四書五経
+- 易経 in words/四書五経
+- 圓錐 in words/圓錐曲線
+- 曲線 in words/圓錐曲線
+- 易經 in words/天地
+- 天地人 in words/天地
+- 太易 in words/天地
+- 太初 in words/天地
+- 太素 in words/天地
+- 盤古 in words/天地
+- 弓道 in words/射術
+- 秋田 in words/山本
+- 春秋時代 in words/春秋
+- 麟経 in words/春秋
+- 麟史 in words/春秋
+- 春秋鼎盛 in words/春秋
+- 書契 in words/書法
+- 書道 in words/書法
+- 武士道 in words/武士
+- 武道 in words/武士
+- 懸心 in words/武士
+- 注音 in words/注音符号
+- 無極 in words/混沌
+- 太極 in words/混沌
+- 開天闢地 in words/混沌
+- 魂魄 in words/神霊
+- 天神地祇 in words/神霊
+- 緑柱石 in words/緑柱素
+- 英格蘭 in words/英国
+- 霓虹 in words/霓虹素
+- 狂風 in words/風狂
+- 栄養素 in words/養素
+- 無明 in words/黒暗
+- 嫌悪 in syllables/ㄏㄝㄇ
+- 戯曲 in syllables/ㄏㄨ˙
+- 指揮 in syllables/ㄏㄨ˙
+- 編纂 in syllables/ㄐˇㄚㄋ
+- 料槽 in syllables/ㄐㄚˇ
+- 暗礁 in syllables/ㄐㄚˇ
+- 負債 in syllables/ㄐㄚ˙
+- 栽培 in syllables/ㄐㄚ˙
+- 財産 in syllables/ㄐㄚ˙
+- 斎戒 in syllables/ㄐㄚ˙
+- 暫時 in syllables/ㄐㄚㄇ
+- 男爵 in syllables/ㄐㄚㄎ
+- 狭窄 in syllables/ㄐㄚㄎ
+- 貯蔵 in syllables/ㄐㄛ
+- 租金 in syllables/ㄐㄛ
+- 粗糙 in syllables/ㄐㄛ
+- 癰疽 in syllables/ㄐㄛ
+- 瞻仰 in syllables/ㄐㄝㄇ
+- 践踏 in syllables/ㄐㄝㄋ
+- 磚石 in syllables/ㄐㄝㄋ
+- 賎人 in syllables/ㄐㄝㄋ
+- 梓木 in syllables/ㄐㄧ
+- 鋳造 in syllables/ㄐㄨ
+- 掃帚 in syllables/ㄐㄨ
+- 皺紋 in syllables/ㄐㄨ
+- 誅殺 in syllables/ㄐㄨ
+- 註解 in syllables/ㄐㄨ
+- 邾国 in syllables/ㄐㄨ
+- 牆壁 in syllables/ㄑˇㄚㄥ
+- 瘡口 in syllables/ㄑˇㄚㄥ
+- 雌性 in syllables/ㄑㄝ
+- 厠所 in syllables/ㄑㄧ
+- 心緒 in syllables/ㄙ˙ㄛ
+- 疎忽 in syllables/ㄙ˙ㄛ
+- 容恕 in syllables/ㄙ˙ㄛ
+- 菜蔬 in syllables/ㄙ˙ㄛ
+- 腺体 in syllables/ㄙ˙ㄝㄋ
+- 膳食 in syllables/ㄙ˙ㄝㄋ
+- 杉木 in syllables/ㄙㄚㄇ
+- 早晨 in syllables/ㄙㄧㄋ
+- 既遂 in syllables/ㄙㄨ˙
+- 骨髄 in syllables/ㄙㄨ˙
+- 陳述 in syllables/ㄙㄨㄊ
+- 𧦅歌 in syllables/ㄛˇ
+- 浩大 in syllables/ㄏㄚˇ
+- 消耗 in syllables/ㄏㄚˇ
+- 鎬京 in syllables/ㄏㄚˇ
+- 哄笑 in syllables/ㄏㄛㄥ
+- 鶏肉 in characters/鶏 (char)
+- 鸚哥 in characters/鸚
+- 麦茶 in characters/麦
+
+
+## 1-words
+- 魶 in syllables/ㄋㄨㄆ
+- 兄 in syllables/ㄏ˙ㄛㄥ
+- 険 in syllables/ㄏㄝㄇ
+- 漆 in syllables/ㄑㄧㄊ
+- 鴎 in syllables/ㄛˇ
+- 鴨 in lexipedia/Animals
+- 兎 in lexipedia/Animals, syllables/ㄊㄛ
+- 鷹 in lexipedia/Sophomore List
+- 鵰 in lexipedia/Sophomore List
+- 両 in lexipedia/Numbers
+- words/車 in characters/車 (char)
+- 而 in words/与
+- 菲 in lexipedia/Geography, lookup/Korean/Korean Name ㅂ
+- 㪘 in characters/㪘 (char)
+- words/丁 in characters/丁 (char)
+- 丁 in characters/正 (char)
+- words/両 in characters/両 (char)
+- words/乎 in characters/乎 (char)
+- words/于 in characters/于 (char)
+- words/伍 in characters/伍 (char)
+- words/会 in characters/会 (char)
+- words/何 in characters/何 (char)
+- words/兄 in characters/兄 (char)
+- words/光 in characters/光 (char)
+- words/兎 in characters/兎 (char)
+- words/公 in characters/公 (char)
+- words/共 in characters/共 (char)
+- words/冊 in characters/冊 (char)
+- words/出 in characters/出 (char)
+- words/分 in characters/分 (char)
+- 豦 in characters/劇 (char)
+- words/匹 in characters/匹 (char)
+- words/卦 in characters/卦 (char)
+- words/口 in characters/口 (char)
+- words/台 in characters/台 (char)
+- words/咬 in characters/咬 (char)
+- words/在 in characters/在 (char)
+- words/多 in characters/多 (char)
+- words/太 in characters/太 (char)
+- words/女 in characters/女 (char)
+- words/宙 in characters/宙 (char)
+- words/就 in characters/就 (char)
+- words/山 in characters/山 (char)
+- words/州 in characters/州 (char)
+- words/帆 in characters/帆 (char)
+- words/朕 in characters/朕 (char)
+- words/未 in characters/未 (char)
+- words/束 in characters/束 (char)
+- words/条 in characters/条 (char)
+- words/枚 in characters/枚 (char)
+- words/某 in characters/某 (char)
+- words/業 in characters/業 (char)
+- words/様 in characters/様 (char)
+- 歯 in characters/歯 (char)
+- words/水 in characters/水 (char)
+- words/洲 in characters/洲 (char)
+- words/漆 in characters/漆 (char)
+- 廌 in characters/灋
+- words/猟 in characters/獵 (char)
+- words/由 in characters/由 (char)
+- words/番 in characters/番 (char)
+- words/而 in characters/而 (char)
+- words/皆 in characters/皆 (char)
+- words/草 in characters/草 (char)
+- words/莫 in characters/莫 (char)
+- words/薬 in characters/薬 (char)
+- words/蚊 in characters/蚊 (char)
+- words/蝎 in characters/蝎 (char), lookup/Korean/Korean Name ㅎ
+- words/誰 in characters/誰 (char)
+- words/走 in characters/走 (char)
+- words/足 in characters/足 (char)
+- words/関 in characters/関 (char)
+- words/険 in characters/険 (char)
+- words/隼 in characters/隼 (char)
+- words/雨 in characters/雨 (char)
+- words/雪 in characters/雪 (char)
+- words/雷 in characters/雷 (char)
+- words/霜 in characters/霜 (char)
+- words/霧 in characters/霧 (char)
+- words/露 in characters/露 (char)
+- words/青 in characters/青 (char)
+- words/鞋 in characters/鞋 (char)
+- words/頁 in characters/頁 (char)
+- 風 in characters/風 (char)
+- words/駅 in characters/駅 (char)
+- words/駆 in characters/駆 (char)
+- words/騒 in characters/騒 (char)
+- words/騙 in characters/騙 (char)
+- words/骨 in characters/骨 (char)
+- words/高 in characters/高 (char)
+- words/鬣 in characters/鬣 (char)
+- words/魂 in characters/魂 (char)
+- words/魶 in characters/魶 (char)
+- words/鮎 in characters/鮎 (char)
+- words/鮑 in characters/鮑 (char)
+- words/鱏 in characters/鱏 (char)
+- words/鳥 in characters/鳥 (char)
+- words/鳴 in characters/鳴 (char)
+- words/鳶 in characters/鳶 (char)
+- words/鴎 in characters/鴎 (char)
+- words/鴨 in characters/鴨 (char)
+- words/鵰 in characters/鵰 (char)
+- words/鶴 in characters/鶴 (char)
+- words/鷹 in characters/鷹 (char)
+- words/鹸 in characters/鹸 (char)
+- words/麺 in characters/麺 (char)
+- words/黄 in characters/黄 (char)
+- 在 in grammar/文法 - 97品詞, syllables/ㄐㄚ˙
+- 莫 in grammar/文法 - 97品詞
+- 于 in grammar/文法 - 97品詞
+- 共 in grammar/文法 - 97品詞
+- 由 in grammar/文法 - 97品詞
+- 様 in grammar/文法 - 97品詞
+- 公 in grammar/文法 - 97品詞
+- 未 in grammar/文法 - 97品詞
+- 某 in grammar/文法 - 97品詞
+- 皆 in grammar/文法 - 97品詞
+- 多 in grammar/文法 - 97品詞
+- 朕 in grammar/文法 - 97品詞, words/我
+- 台 in grammar/文法 - 97品詞
+- 匹 in grammar/文法 - 97品詞
+- 冊 in grammar/文法 - 97品詞
+- 枚 in grammar/文法 - 97品詞, syllables/ㄇㄛ˙
+- 条 in grammar/文法 - 97品詞, syllables/ㄐㄛ
+- 番 in grammar/文法 - 97品詞
+- 束 in grammar/文法 - 97品詞
+- 鳥 in grammar/文法 - 97品詞
+- 草 in grammar/文法 - 97品詞
+- 何 in grammar/文法 - 97品詞, lexipedia/Grammar, lexipedia/Swadesh
+- 誰 in grammar/文法 - 97品詞, lexipedia/Grammar, lexipedia/Swadesh, words/何人
+- words/鼻 in characters/鼻 (char)
+
+## Chengyu
+- 形助顯理 in chengyu/Dan'a'yo Chengyu, grammar/文法 - 05形態
+
+## Articles
+- /grammar/文法 - 99Rime Tables in grammar/単亜語之文法書.en
+- 文法 - 07読本 in grammar/単亜語之文法書
+- 文法 - 99韻図 in grammar/単亜語之文法書
+- lexipedia/Containers in lexipedia/Lexipedia
+- lexipedia/Dimensions in lexipedia/Lexipedia
+- lexipedia/Directions in lexipedia/Lexipedia
+- lexipedia/Efforts in lexipedia/Lexipedia
+- lexipedia/Emotions in lexipedia/Lexipedia
+- lexipedia/Events in lexipedia/Lexipedia
+- lexipedia/Existence in lexipedia/Lexipedia
+- lexipedia/Government in lexipedia/Lexipedia
+- lexipedia/Kinship in lexipedia/Lexipedia, words/父父
+- lexipedia/Knowledge in lexipedia/Lexipedia
+- lexipedia/Law in lexipedia/Lexipedia
+- lexipedia/Life in lexipedia/Lexipedia
+- lexipedia/Light in lexipedia/Lexipedia
+- lexipedia/Locatives in lexipedia/Lexipedia
+- lexipedia/Love in lexipedia/Lexipedia
+- lexipedia/Measurement in lexipedia/Lexipedia
+- lexipedia/Mind in lexipedia/Lexipedia
+- lexipedia/Movement in lexipedia/Lexipedia
+- lexipedia/Nature in lexipedia/Lexipedia
+- lexipedia/Physical in lexipedia/Lexipedia
+- lexipedia/Physics in lexipedia/Lexipedia
+- lexipedia/Plants in lexipedia/Lexipedia
+- lexipedia/Possession in lexipedia/Lexipedia
+- lexipedia/Religion in lexipedia/Lexipedia
+- lexipedia/Shape in lexipedia/Lexipedia
+- lexipedia/Sensation in lexipedia/Lexipedia
+- lexipedia/Sex in lexipedia/Lexipedia
+- lexipedia/Sin in lexipedia/Lexipedia
+- lexipedia/Society in lexipedia/Lexipedia
+- lexipedia/Speech in lexipedia/Lexipedia
+- lexipedia/Substances in lexipedia/Lexipedia
+- lexipedia/Time in lexipedia/Lexipedia
+- lexipedia/Tools in lexipedia/Lexipedia
+- lexipedia/Trade in lexipedia/Lexipedia
+- lexipedia/Valuation in lexipedia/Lexipedia
+- lexipedia/War in lexipedia/Lexipedia
+- lexipedia/Water in lexipedia/Lexipedia
+
+## New Characters
+- 蒦 in characters/蠖
+- 壕 in characters/豪, lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, 
+- 挪 in lexipedia/Geography, lookup/Korean/Korean Name ㄴ
+- 樣 in lookup/HSK/HSK Beginner, lookup/Korean/Korean Name ㅅ
+- 閾 in lookup/Japanese/Hyōgai
+- 溢 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 隕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 穢 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 裔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 歉 in lookup/Japanese/Hyōgai
+- 猥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 隈 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 罠 in lookup/Japanese/Hyōgai
+- 翳 in lookup/Japanese/Hyōgai
+- 腋 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 蔭 in lookup/Japanese/Hyōgai
+- 嚥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 嘔 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 謳 in lookup/Japanese/Hyōgai
+- 廓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ, lookup/Korean/Korean Name ㅎ
+- 摑 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 筵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 甕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 瑕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 榎 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 訝 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 衙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 徊 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 鰊 in lookup/Japanese/Hyōgai
+- 攣 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
+- 鶯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 俤 in lookup/Japanese/Hyōgai
+- 跏 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 漉 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 愕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 萼 in lookup/Japanese/Hyōgai
+- 諤 in lookup/Japanese/Hyōgai
+- 廻 in lookup/Japanese/Hyōgai
+- 堺 in lookup/Japanese/Hyōgai
+- 樫 in lookup/Japanese/Hyōgai
+- 絣 in lookup/Japanese/Hyōgai
+- 奸 in lookup/Japanese/Hyōgai
+- 宦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 涵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 澗 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 翰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 諫 in lookup/Japanese/Hyōgai
+- 瞰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 檻 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 頷 in lookup/Japanese/Hyōgai
+- 耆 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 揆 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 櫃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 吃 in lookup/Japanese/Hyōgai
+- 屹 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 拮 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 謔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 笈 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 舅 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 炬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 噓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 欅 in lookup/Japanese/Hyōgai
+- 怯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 俠 in lookup/Japanese/Hyōgai
+- 脇 in lookup/Japanese/Hyōgai
+- 莢 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 橿 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 疆 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 髷 in lookup/Japanese/Hyōgai
+- 軀 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 懼 in lookup/Japanese/Hyōgai
+- 俱 in lookup/Japanese/Hyōgai
+- 喰 in lookup/Japanese/Hyōgai
+- 粂 in lookup/Japanese/Hyōgai
+- 珪 in lookup/Japanese/Hyōgai
+- 畦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 痙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 禊 in lookup/Japanese/Hyōgai
+- 頸 in lookup/Japanese/Hyōgai
+- 髻 in lookup/Japanese/Hyōgai
+- 蹊 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 鮭 in lookup/Japanese/Hyōgai
+- 繫 in lookup/Japanese/Hyōgai
+- 睨 in lookup/Japanese/Hyōgai
+- 抉 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 蕨 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ as 'kyud'!
+- 姸 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 虔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 捲 in lookup/Japanese/Hyōgai
+- 腱 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 呟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 眩 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 涸 in lookup/Japanese/Hyōgai
+- 菰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 齬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 巷 in lookup/Japanese/Hyōgai
+- 恍 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 狡 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 崗 in lookup/Japanese/Hyōgai
+- 閤 in lookup/Japanese/Hyōgai
+- 篝 in lookup/Japanese/Hyōgai
+- 壙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 曠 in lookup/Japanese/Hyōgai
+- 濠 in lookup/Japanese/Hyōgai
+- 噛 in lookup/Japanese/Hyōgai
+- 轟 in lookup/Japanese/Hyōgai
+- 剋 in lookup/Japanese/Hyōgai
+- 渾 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
+- 褌 in lookup/Japanese/Hyōgai
+- 嗟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 蓑 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 鰓 in lookup/Japanese/Hyōgai
+- 榊 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 簀 in lookup/Japanese/Hyōgai
+- 撒 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 霰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 攢 in lookup/Japanese/Hyōgai
+- 讃 in lookup/Japanese/Hyōgai
+- 懺 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 仔 in lookup/Japanese/Hyōgai
+- 址 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 舐 in lookup/Japanese/Hyōgai
+- 疵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 趾 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 覗 in lookup/Japanese/Hyōgai
+- 嗜 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
+- 滓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 熾 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 髭 in lookup/Japanese/Hyōgai
+- 贄 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 峙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 痔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 𠮟 in lookup/Japanese/Hyōgai
+- 柘 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 娑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 闍 in lookup/Japanese/Hyōgai
+- 杓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
+- 諏 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
+- 竪 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 綬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 濡 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 襦 in lookup/Japanese/Hyōgai
+- 箒 in lookup/Japanese/Hyōgai
+- 輯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 揉 in lookup/Japanese/Hyōgai
+- 楯 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 杵 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
+- 薯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 秤 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
+- 娼 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 廂 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 鈔 in lookup/Japanese/Hyōgai
+- 睫 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 蛸 in lookup/Japanese/Hyōgai
+- 摺 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 漿 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 蕭 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 聳 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 囁 in lookup/Japanese/Hyōgai
+- 攘 in lookup/Japanese/Hyōgai
+- 饒 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 蝕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 褥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 沁 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 芯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 宸 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 疹 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 蜃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 鍼 in lookup/Japanese/Hyōgai
+- 靱 in lookup/Japanese/Hyōgai
+- 儘 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 笥 in lookup/Japanese/Hyōgai
+- 祟 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-2/SKIP-2-5-5
+- 隧 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 鮨 in lookup/Japanese/Hyōgai
+- 栖 in lookup/Japanese/Hyōgai
+- 蜻 in lookup/Japanese/Hyōgai
+- 臍 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 瀞 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 贅 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 晰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 蹟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 泄 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 浙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 啜 in lookup/Japanese/Hyōgai
+- 苫 in lookup/Japanese/Hyōgai
+- 揃 in lookup/Japanese/Hyōgai
+- 煽 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 撰 in lookup/Japanese/Hyōgai
+- 賤 in lookup/Japanese/Hyōgai
+- 癬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 疏 in lookup/Japanese/Hyōgai
+- 甦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 齟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 叟 in lookup/Japanese/Hyōgai
+- 艘 in lookup/Japanese/Hyōgai
+- 甑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 藪 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 囃 in lookup/Japanese/Hyōgai
+- 竈 in lookup/Japanese/Hyōgai
+- 鰺 in lookup/Japanese/Hyōgai
+- 杣 in lookup/Japanese/Hyōgai
+- 噂 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 咤 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅌ
+- 荼 in lookup/Japanese/Hyōgai
+- 驒 in lookup/Japanese/Hyōgai
+- 碓 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 頽 in lookup/Japanese/Hyōgai
+- 托 in lookup/Japanese/Hyōgai
+- 鐸 in lookup/Japanese/Hyōgai
+- 襷 in lookup/Japanese/Hyōgai
+- 燵 in lookup/Japanese/Hyōgai
+- 疸 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
+- 毯 in lookup/Japanese/Hyōgai
+- 歎 in lookup/Japanese/Hyōgai
+- 筑 in lookup/Japanese/Hyōgai
+- 冑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 紐 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄴ
+- 疇 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 躊 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 楮 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 瀦 in lookup/Japanese/Hyōgai
+- 躇 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 銚 in lookup/Japanese/Hyōgai
+- 捗 in lookup/Japanese/Hyōgai
+- 鎚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
+- 辻 in lookup/Japanese/Hyōgai
+- 掟 in lookup/Japanese/Hyōgai
+- 梯 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
+- 碇 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 薙 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 鵜 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 轍 in lookup/Japanese/Hyōgai
+- 辿 in lookup/Japanese/Hyōgai
+- 唸 in lookup/Japanese/Hyōgai
+- 塡 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 囀 in lookup/Japanese/Hyōgai
+- 澱 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
+- 臀 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
+- 淘 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
+- 棹 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
+- 樋 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 濤 in lookup/Japanese/Hyōgai
+- 檮 in lookup/Japanese/Hyōgai
+- 瀆 in lookup/Japanese/Hyōgai
+- 吞 in lookup/Japanese/Hyōgai
+- 邇 in lookup/Japanese/Hyōgai
+- 匂 in lookup/Japanese/Hyōgai
+- 禰 in lookup/Japanese/Hyōgai
+- 撚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄴ
+- 囊 in lookup/Japanese/Hyōgai
+- 杷 in lookup/Japanese/Hyōgai
+- 蟇 in lookup/Japanese/Hyōgai
+- 胚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 徘 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 粕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 曝 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅍ
+- 畠 in lookup/Japanese/Hyōgai
+- 撥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 潑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 醱 in lookup/Japanese/Hyōgai
+- 筏 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ, lookup/SKIP/SKIP-2/SKIP-2-6-6
+- 跋 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 噺 in lookup/Japanese/Hyōgai
+- 袢 in lookup/Japanese/Hyōgai
+- 槃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 痺 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 臂 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 枇 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅂ
+- 媚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅁ
+- 憑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 牝 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 鬢 in lookup/Japanese/Hyōgai
+- 腑 in lookup/Japanese/Hyōgai
+- 孵 in lookup/Japanese/Hyōgai
+- 鮒 in lookup/Japanese/Hyōgai
+- 諷 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
+- 祓 in lookup/Japanese/Hyōgai
+- 斃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
+- 襞 in lookup/Japanese/Hyōgai
+- 庖 in lookup/Japanese/Hyōgai
+- 苞 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
+- 芒 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅁ
+- 榜 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 膀 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 鉾 in lookup/Japanese/Hyōgai
+- 吠 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
+- 梵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
+- 俣 in lookup/Japanese/Hyōgai
+- 瞞 in lookup/Japanese/Hyōgai
+- 鬘 in lookup/Japanese/Hyōgai
+- 瞑 in lookup/Japanese/Hyōgai
+- 朦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅁ
+- 籾 in lookup/Japanese/Hyōgai
+- 楡 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 猷 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-1/SKIP-1-9-4
+- 飫 in lookup/Japanese/Hyōgai
+- 拗 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 涌 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
+- 痒 in lookup/Japanese/Hyōgai
+- 熔 in lookup/Japanese/Hyōgai
+- 蠅 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
+- 萊 in lookup/Japanese/Hyōgai
+- 蕾 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
+- 埒 in lookup/Japanese/Hyōgai
+- 瀾 in lookup/Japanese/Hyōgai
+- 鸞 in lookup/Japanese/Hyōgai
+- 籬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
+- 瘤 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
+- 寥 in lookup/Japanese/Hyōgai
+- 蛉 in lookup/Japanese/Hyōgai
+- 蠣 in lookup/Japanese/Hyōgai
+- 櫟 in lookup/Japanese/Hyōgai
+- 礫 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
+- 轢 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
+- 煉 in lookup/Japanese/Hyōgai
+- 漣 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
+- 瘻 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
+- 﨟 in lookup/Japanese/Hyōgai
+- 椀 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 沪 in lookup/Japanese/Hyōgai
+- 麹 in lookup/Japanese/Hyōgai
+- 桝 in lookup/Japanese/Hyōgai
+- 掴 in lookup/Japanese/Jinmeiyō
+- 栞 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
+- 梧 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 耀 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 茜 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-2/SKIP-2-3-6
+- 菖 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
+- 蓉 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 凌 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
+- 竣 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
+- 檎 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
+- 眸 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅁ
+- 稔 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 瑳 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
+- 瑶 in lookup/Japanese/Jinmeiyō
+- 滉 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅎ
+- 芹 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
+- 燎 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
+- 燿 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 葵 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
+- 蒔 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 蔦 in lookup/Japanese/Jinmeiyō
+- 榛 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
+- 蕗 in lookup/Japanese/Jinmeiyō
+- 詢 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 諄 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 麿 in lookup/Japanese/Jinmeiyō
+- 驍 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅎ
+- 鵬 in lookup/Japanese/Jinmeiyō
+- 塙 in lookup/Japanese/Jinmeiyō
+- 奎 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-2/SKIP-2-3-6
+- 惺 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 汐 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 芙 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅂ
+- 孜 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
+- 宏 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
+- 崚 in lookup/Japanese/Jinmeiyō
+- 嵯 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
+- 徠 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
+- 惣 in lookup/Japanese/Jinmeiyō
+- 晟 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 曙 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
+- 柚 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
+- 綸 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
+- 綺 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
+- 綾 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
+- 暉 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅎ
+- 柾 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
+- 粳 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-6-7
+- 覡 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
+- 誡 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
+- 誥 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
+- 梡 in lookup/Korean/Korean Name ㄱ, lookup/Korean/Korean Name ㅇ
+- 佼 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-2-6
+- 衢 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-3-21
+- 兢 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
+- 圻 in lookup/Korean/Korean Name ㄱ, lookup/Korean/Korean Name ㅇ
+- 濔 in lookup/Korean/Korean Name ㄴ, lookup/Korean/Korean Name ㅁ
+- 焞 in lookup/Korean/Korean Name ㄷ, lookup/Korean/Korean Name ㅅ
+- 遯 in lookup/Korean/Korean Name ㄷ, lookup/SKIP/SKIP-3/SKIP-3-4-11
+- 纜 in lookup/Korean/Korean Name ㄹ, lookup/SKIP/SKIP-1/SKIP-1-6-22
+- 躪 in lookup/Korean/Korean Name ㄹ, lookup/SKIP/SKIP-1/SKIP-1-7-19
+- 棽 in lookup/Korean/Korean Name ㄹ, lookup/Korean/Korean Name ㅊ
+- 雹 in lookup/Korean/Korean Name ㅂ, lookup/SKIP/SKIP-2/SKIP-2-8-5
+- 輻 in lookup/Korean/Korean Name ㅂ, lookup/Korean/Korean Name ㅍ
+- 贇 in lookup/Korean/Korean Name ㅂ, lookup/Korean/Korean Name ㅇ
+- 悆 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅇ
+- 舃 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
+- 胜 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
+- 嗽 in lookup/Korean/Korean Name ㅅ, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 諟 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅊ
+- 媞 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
+- 禔 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
+- 熀 in lookup/Korean/Korean Name ㅇ, lookup/Korean/Korean Name ㅎ
+- 塋 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-2/SKIP-2-8-5
+- 纓 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-1/SKIP-1-6-17
+- 勖 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-2/SKIP-2-4-7
+- 毓 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-1/SKIP-1-7-7
+- 珆 in lookup/Korean/Korean Name ㅇ, lookup/Korean/Korean Name ㅌ
+- 讒 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-7-17
+- 讖 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-7-17
+- 漲 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 滌 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 囑 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-3-21
+- 慓 in lookup/Korean/Korean Name ㅍ, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 銜 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 嫦 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-3-11
+- 誨 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-7-7
+- 紇 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-10-11

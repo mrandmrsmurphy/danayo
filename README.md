@@ -48,8 +48,8 @@ The following are not content pages, but "programming"
 ## Delete
 
 The following files are supposed to all be temporary:
-- [broken links output](broken%20links%20output.md)
-- [orphaned files output](orphaned%20files%20output.md)
+- [to be created](to%20be%20created.md)
+- [link to me please](link%20to%20me%20please.md)
 
 ----
 

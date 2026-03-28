@@ -1,1310 +1,4410 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-
-## 2+ Words
-- 韻図 in grammar/単亜語之文法書
-- 前提 in grammar/文法 - 01序文
-- 専門 in grammar/文法 - 01序文
-- 相関詞 in grammar/文法 - 01序文
-- 上代 in grammar/文法 - 01序文
-- 原理 in grammar/文法 - 01序文
-- 詞彙 in grammar/文法 - 01序文
-- 人名用 in grammar/文法 - 01序文
-- 最大 in grammar/文法 - 01序文
-- 専門語 in grammar/文法 - 01序文
-- 分析 in grammar/文法 - 01序文
-- 汎亜 in grammar/文法 - 01序文
-- 普遍 in grammar/文法 - 01序文
-- 式複 in grammar/文法 - 01序文
-- 合語 in grammar/文法 - 01序文
-- 補助語 in grammar/文法 - 01序文
-- 母語 in grammar/文法 - 01序文
-- 通信 in grammar/文法 - 01序文, lexipedia/Geography
-- 日常 in grammar/文法 - 01序文
-- 中世 in grammar/文法 - 01序文
-- 遺産 in grammar/文法 - 01序文
-- 硬直 in grammar/文法 - 01序文
-- 制度 in grammar/文法 - 01序文, lexipedia/Geography
-- 指標 in grammar/文法 - 01序文
-- 話者 in grammar/文法 - 01序文
-- 視認 in grammar/文法 - 01序文
-- 聴取 in grammar/文法 - 01序文
-- 短期 in grammar/文法 - 01序文
-- 対照 in grammar/文法 - 01序文
-- 理解度 in grammar/文法 - 01序文
-- 急速 in grammar/文法 - 01序文
-- 世宗大王 in grammar/文法 - 02音韻論
-- 正音 in grammar/文法 - 02音韻論
-- 基準 in grammar/文法 - 02音韻論
-- 明確 in grammar/文法 - 02音韻論
-- 精密 in grammar/文法 - 02音韻論
-- 権威 in grammar/文法 - 02音韻論
-- 原則 in grammar/文法 - 02音韻論, lexipedia/Geography
-- 者容易 in grammar/文法 - 02音韻論
-- 韻母 in grammar/文法 - 02音韻論
-- 西洋 in grammar/文法 - 02音韻論
-- 音素 in grammar/文法 - 02音韻論
-- 結合 in grammar/文法 - 02音韻論
-- 異音差 in grammar/文法 - 02音韻論
-- 連続 in grammar/文法 - 02音韻論
-- 長短 in grammar/文法 - 02音韻論
-- 表記 in grammar/文法 - 02音韻論
-- 連声 in grammar/文法 - 02音韻論
-- 独立 in grammar/文法 - 02音韻論, lexipedia/Geography
-- 最高点 in grammar/文法 - 02音韻論
-- 簡略 in grammar/文法 - 03文字法
-- 字形 in grammar/文法 - 03文字法
-- 可読 in grammar/文法 - 03文字法
-- 視覚 in grammar/文法 - 03文字法
-- 折衷 in grammar/文法 - 03文字法
-- 均衡 in grammar/文法 - 03文字法
-- 諸音 in grammar/文法 - 03文字法
-- 偏重 in grammar/文法 - 03文字法
-- 韓語 in grammar/文法 - 03文字法
-- 並立 in grammar/文法 - 03文字法
-- 制約 in grammar/文法 - 03文字法
-- 媒介 in grammar/文法 - 03文字法
-- 偏勝 in grammar/文法 - 03文字法
-- 譬喩 in grammar/文法 - 03文字法
-- 義派 in grammar/文法 - 03文字法
-- 傳統 in grammar/文法 - 03文字法
-- 義派生 in grammar/文法 - 03文字法
-- 単語 in grammar/文法 - 03文字法
-- 一字 in grammar/文法 - 03文字法
-- 双字 in grammar/文法 - 03文字法
-- 慣用句 in grammar/文法 - 03文字法
-- 四字 in grammar/文法 - 03文字法
-- 慣用 in grammar/文法 - 03文字法
-- 国別 in grammar/文法 - 03文字法
-- 代用 in grammar/文法 - 03文字法
-- 稀少 in grammar/文法 - 03文字法
-- 実際 in grammar/文法 - 03文字法
-- 字庫 in grammar/文法 - 03文字法
-- 日用必備 in grammar/文法 - 03文字法
-- 文言承継 in grammar/文法 - 04句法
-- 現代適応 in grammar/文法 - 04句法
-- 接詞 in grammar/文法 - 04句法
-- 附形之助 in grammar/文法 - 05形態
-- 顯句之理 in grammar/文法 - 05形態
-- 連体 in grammar/文法 - 05形態
-- 複数 in grammar/文法 - 05形態
-- 諸語 in grammar/文法 - 05形態
-- 単純 in grammar/文法 - 05形態
-- 標識 in grammar/文法 - 05形態
-- 連帯 in grammar/文法 - 05形態
-- 相当 in grammar/文法 - 05形態
-- 接尾 in grammar/文法 - 05形態
-- 代名詞 in grammar/文法 - 05形態
-- 敬語 in grammar/文法 - 05形態
-- 制限 in grammar/文法 - 05形態
-- 時相 in grammar/文法 - 05形態
-- 完了 in grammar/文法 - 05形態
-- 将然 in grammar/文法 - 05形態
-- 繋辞 in grammar/文法 - 05形態
-- 否定 in grammar/文法 - 05形態
-- 交替 in grammar/文法 - 05形態
-- 要約 in grammar/文法 - 05形態
-- 能力 in grammar/文法 - 05形態
-- 許可 in grammar/文法 - 05形態
-- 受動 in grammar/文法 - 05形態
-- 評詞 in grammar/文法 - 05形態
-- 簡潔 in grammar/文法 - 05形態
-- 重畳 in grammar/文法 - 05形態
-- 韓國語 in grammar/文法 - 05形態
-- 單字 in grammar/文法 - 05形態
-- 合成 in grammar/文法 - 05形態
-- 迂言 in grammar/文法 - 05形態
-- 小辭 in grammar/文法 - 05形態
-- 最極 in grammar/文法 - 05形態
-- 有生 in grammar/文法 - 97品詞
-- 処格 in grammar/文法 - 97品詞
-- 具格 in grammar/文法 - 97品詞
-- 共格 in grammar/文法 - 97品詞
-- 比較格 in grammar/文法 - 97品詞
-- 奪格 in grammar/文法 - 97品詞
-- 終止格 in grammar/文法 - 97品詞
-- 類似格 in grammar/文法 - 97品詞
-- 向格 in grammar/文法 - 97品詞
-- 様態格 in grammar/文法 - 97品詞
-- 修飾語 in grammar/文法 - 97品詞
-- 時制 in grammar/文法 - 97品詞
-- 量化詞 in grammar/文法 - 97品詞
-- 指示詞 in grammar/文法 - 97品詞
-- 情態 in grammar/文法 - 97品詞
-- 可不 in grammar/文法 - 97品詞
-- 不可不 in grammar/文法 - 97品詞
-- 可以 in grammar/文法 - 97品詞
-- 不可以 in grammar/文法 - 97品詞
-- 擬詞 in grammar/文法 - 97品詞
-- 網語体 in grammar/文法 - 97品詞
-- 依存 in grammar/文法 - 97品詞
-- 自立 in grammar/文法 - 97品詞
-- 感詞 in grammar/文法 - 97品詞
-- 皆様 in grammar/文法 - 97品詞
-- 毎多 in grammar/文法 - 97品詞
-- 皆多 in grammar/文法 - 97品詞
-- 何名 in grammar/文法 - 97品詞
-- 虎鯨 in grammar/文法 - 98違法字
-- 虎鯉魚 in grammar/文法 - 98違法字
-
-- 連濁 in characters/濁
-- 滲透 in characters/滲
-- 滲入 in characters/滲
-- 滲出 in characters/滲
-- 滲漏 in characters/滲
-- 燐火 in characters/燐
-- 燐光 in characters/燐
-- 且爵 in characters/爵
-- 猩紅熱 in characters/猩
-- 黒猩 in characters/猩
-- 大猩 in characters/猩
-- 倭猩 in characters/猩
-- 猩蝿 in characters/猩
-- 猿楽 in characters/猿
-- 猿人 in characters/猿
-- 死亡率 in characters/率
-- 效率 in characters/率
-- 出生率 in characters/率
-- 利率 in characters/率
-- 率直 in characters/率
-- 投票率 in characters/率
-- 率先 in characters/率
-- 百分率 in characters/率
-- 真相 in characters/相
-- 弱不禁風 in characters/禁
-- 令行禁止 in characters/禁
-- 禁苑 in characters/禁
-- 嚴禁 in characters/禁
-- 失禁 in characters/禁
-- 拘禁 in characters/禁
-- 海禁 in characters/禁
-- 監禁 in characters/禁
-- 禁令 in characters/禁
-- 禁制 in characters/禁
-- 禁忌 in characters/禁
-- 禁断 in characters/禁
-- 禁書 in characters/禁
-- 禁煙 in characters/禁
-- 禁酒 in characters/禁
-- 紫禁城 in characters/禁
-- 解禁 in characters/禁
-- 禁漁 in characters/禁
-- 禁猟 in characters/禁
-- 軟禁 in characters/禁
-- 羊狂 in characters/羊
-- 磨耗 in characters/耗
-- 肥桶 in characters/肥
-- 肥瘠 in characters/肥
-- 肥大 in characters/肥
-- 肥満 in characters/肥
-- 厩肥 in characters/肥
-- 堆肥 in characters/肥
-- 化学肥料 in characters/肥
-- 合肥 in characters/肥
-- 土肥 in characters/肥
-- 肥育 in characters/肥
-- 臭膣 in characters/膣 (char)
-- 山芋 in characters/芋
-- 馬鈴薯 in characters/芋
-- 甘薯 in characters/芋
-- 苦役 in characters/苦 (char)
-- 苦難 in characters/苦 (char)
-- 苦肉 in characters/苦 (char)
-- 苦悩 in characters/苦 (char)
-- 刻苦 in characters/苦 (char)
-- 苦味 in characters/苦 (char)
-- 壁虱 in characters/虱 (char)
-- 蛍火虫 in characters/蛍 (char), words/蛍
-- 蛍光 in characters/蛍 (char), words/蛍
-- 寒蝉 in characters/蝉 (char)
-- 明蝦 in characters/蝦
-- 解廌 in characters/解 (char)
-- 試驗 in characters/試
-- 跳梁 in characters/跳
-- 跳梁跋扈 in characters/跳
-- 跳高 in characters/跳
-- 軣軣 in characters/軣
-- 軽歌劇 in characters/軽 (char)
-- 軽金属 in characters/軽 (char)
-- 軽視 in characters/軽 (char)
-- 軽重 in characters/軽 (char)
-- 海辺 in characters/辺
-- 周辺 in characters/辺
-- 斜辺 in characters/辺
-- 国連 in characters/連 (char)
-- 週年 in characters/週
-- 週番 in characters/週
-- 今週 in characters/週
-- 每週 in characters/週
-- 隔週 in characters/週
-- 別野 in characters/野
-- 樓閣 in characters/閣
-- 閃電 in characters/電
-- 雷電 in characters/電
-- 雎鳩 in characters/鳩
-- 斑鳩 in characters/鳩
-- 多様 in lexipedia/Geography
-- 語言 in lexipedia/Geography
-- 国境 in lexipedia/Geography
-- 不均 in lexipedia/Geography
-- 南非 in lexipedia/Geography
-- 尼羅河 in lexipedia/Geography
-- 北美 in lexipedia/Geography
-- 南美 in lexipedia/Geography
-- 資源 in lexipedia/Geography
-- 分布 in lexipedia/Geography
-- 島嶼 in lexipedia/Geography
-- 密度 in lexipedia/Geography
-- 航路 in lexipedia/Geography
-- 主権 in lexipedia/Geography
-- 調解 in lexipedia/Geography
-- 互依 in lexipedia/Geography
-- 全球 in lexipedia/Geography
-- 相対 in lexipedia/Geography
-- 持続 in lexipedia/Geography
-- 変動 in lexipedia/Geography
-- 連合国 in lexipedia/Geography
-- 基金 in lexipedia/Geography
-- 多辺 in lexipedia/Geography
-- 協議 in lexipedia/Geography
-- 北美洲 in lexipedia/Geography, words/美洲
-- 南美洲 in lexipedia/Geography, words/美洲
-- 南極洲 in lexipedia/Geography
-- 太平 in lexipedia/Geography
-- 大西洋 in lexipedia/Geography
-- 北冰洋 in lexipedia/Geography
-- 南冰洋 in lexipedia/Geography
-- 地中海 in lexipedia/Geography
-- 南海 in lexipedia/Geography
-- 図法 in lexipedia/Geography
-- 四海 in lexipedia/Geography
-- 東海 in lexipedia/Geography
-- 西海 in lexipedia/Geography
-- 北海 in lexipedia/Geography
-- 方位 in lexipedia/Geography
-- 界水 in lexipedia/Geography
-- 治域 in lexipedia/Geography
-- 環状 in lexipedia/Geography
-- 王域 in lexipedia/Geography
-- 並列 in lexipedia/Geography
-- 宇宙観 in lexipedia/Geography
-- 信条 in bible/基督敎 elements
-- 尼西亜 in bible/基督敎 elements
-- 使徒 in bible/基督敎 elements
-- 君士坦丁堡 in bible/基督敎 elements
-- 迦克敦 in bible/基督敎 elements
-- 三位一体 in bible/基督敎 elements
-- 道成肉身 in bible/基督敎 elements
-- 原罪 in bible/基督敎 elements
-- 救贖 in bible/基督敎 elements
-- 償還 in bible/基督敎 elements
-- 恩寵 in bible/基督敎 elements
-- 恩典 in bible/基督敎 elements
-- 恩德 in bible/基督敎 elements
-- 恩意 in bible/基督敎 elements
-- 恩施 in bible/基督敎 elements
-- 主教 in bible/基督敎 elements
-- 大主教 in bible/基督敎 elements
-- 總主教 in bible/基督敎 elements
-- 枢機 in bible/基督敎 elements
-- 教皇 in bible/基督敎 elements
-- 司鐸 in bible/基督敎 elements
-- 牧師 in bible/基督敎 elements
-- 神父 in bible/基督敎 elements
-- 大教堂 in bible/基督敎 elements
-- 修道院 in bible/基督敎 elements
-- 神学院 in bible/基督敎 elements
-- 聖礼 in bible/基督敎 elements
-- 聖餐 in bible/基督敎 elements
-- 洗礼 in bible/基督敎 elements
-
-- 七宝 in characters/七 (char)
-- 七事 in characters/七 (char)
-- 七対子 in characters/七 (char)
-- 七面鳥 in characters/七 (char)
-- 七曜 in characters/七 (char)
-- 七星 in characters/七 (char)
-- 七色 in characters/七 (char)
-- 七角形 in characters/七 (char)
-
-- 九泉 in characters/九 (char)
-- 九卿 in characters/九 (char)
-- 九經 in characters/九 (char)
-- 十九 in characters/九 (char), characters/十
-- 九族 in characters/九 (char)
-- 九官鳥 in characters/九 (char)
-- 九尾狐 in characters/九 (char)
-- 草亀 in characters/亀 (char)
-- 二百 in characters/二 (char)
-- 二万 in characters/二 (char)
-- 二人 in characters/二 (char), lexipedia/Numbers
-- 二重 in characters/二 (char), lexipedia/Numbers
-- 二心 in characters/二 (char)
-- 二次元 in characters/二 (char)
-
-- 五戒 in characters/五 (char)
-- 五十 in characters/五 (char), characters/十
-- 五色 in characters/五 (char)
-- 五方 in characters/五 (char)
-- 五角形 in characters/五 (char)
-- 五穀 in characters/五 (char)
-- 五更 in characters/五 (char)
-- 五指 in characters/五 (char)
-- 五官 in characters/五 (char)
-- 牛井 in characters/井
-- 親子井 in characters/井
-- 豚井 in characters/井
-- 担任 in characters/任
-
-- 第八 in characters/八 (char)
-- 八日 in characters/八 (char), lexipedia/Calendar
-- 八千 in characters/八 (char)
-
-- 十五 in characters/十
-- 十七 in characters/十
-- 十八 in characters/十
-- 五代十国 in characters/十, lexipedia/歴史綱要
-
-- 厳然 in characters/厳 (char)
-- 傾向 in characters/向 (char)
-- 堅魚 in characters/堅
-- 堅鳥 in characters/堅
-- 私塾 in characters/塾
-- 地境 in characters/境
-- 夢嫌 in characters/嫌
-
-- 仮定 in characters/定
-- 鑑定 in characters/定
-- 既定 in characters/定
-- 規定 in characters/定
-- 協定 in characters/定
-- 宿題 in characters/宿
-- 尊魚 in characters/尊
-- 宇宙局 in characters/局 (char), words/局
-- 消防局 in characters/局 (char), words/局
-- 放送局 in characters/局 (char), words/局
-- 造幣局 in characters/局 (char), words/局
-- 中央情報局 in characters/局 (char), words/局
-- 希釈 in characters/希
-- 希少 in characters/希
-- 古希 in characters/希
-- 拡張 in characters/張
-- 字彙 in characters/彙 (char), grammar/文法 - 01序文
-- 燐彬 in characters/彬
-- 従事 in characters/従 (char)
-- 従業 in characters/従 (char)
-- 憤慨 in characters/慨 (char)
-- 座敷 in characters/敷 (char)
-- 敷布 in characters/敷 (char)
-- 昭明 in characters/昭 (char)
-- 望月 in characters/月 (char)
-- 大朋鳥 in characters/朋
-- 千末 in characters/末, lexipedia/Calendar
-- 世紀末 in characters/末, lexipedia/Calendar
-- 伊吹 in characters/桧
-- 檜木 in characters/桧
-- 棕櫚主日 in characters/棕
-- 大槪 in characters/概 (char)
-- 意欲 in characters/欲
-- 強欲 in characters/欲
-- 情欲 in characters/欲
-- 食欲 in characters/欲
-- 辟歴 in characters/歴
-- 分類学 in lexipedia/Animals
-- 聴衆 in lexipedia/Art
-- 宇宙人 in lexipedia/Astronomy, words/宇宙
-- 啓明 in lexipedia/Astronomy
-- 太白星 in lexipedia/Astronomy
-- 矮行星 in lexipedia/Astronomy
-- 䦧神星 in lexipedia/Astronomy
-- 小行星帯 in lexipedia/Astronomy
-- 新星 in lexipedia/Astronomy
-- 天頂 in lexipedia/Astronomy
-- 天底 in lexipedia/Astronomy
-- 分点 in lexipedia/Astronomy
-- 至点 in lexipedia/Astronomy
-- 至日 in lexipedia/Astronomy
-- 冬至 in lexipedia/Astronomy, lexipedia/Calendar
-- 天干 in lexipedia/Astronomy
-- 地支 in lexipedia/Astronomy
-- 翌日 in lexipedia/Calendar
-- 前日 in lexipedia/Calendar
-- 隔日 in lexipedia/Calendar
-- 連日 in lexipedia/Calendar
-- 週初 in lexipedia/Calendar
-- 週中 in lexipedia/Calendar
-- 月初 in lexipedia/Calendar
-- 月中 in lexipedia/Calendar
-- 四日 in lexipedia/Calendar
-- 五日 in lexipedia/Calendar
-- 六日 in lexipedia/Calendar
-- 十日 in lexipedia/Calendar
-- 即日 in lexipedia/Calendar
-- 是日 in lexipedia/Calendar
-- 次日 in lexipedia/Calendar
-- 千年紀 in lexipedia/Calendar
-- 上半期 in lexipedia/Calendar
-- 下半期 in lexipedia/Calendar
-- 同年 in lexipedia/Calendar
-- 千初 in lexipedia/Calendar
-- 千中 in lexipedia/Calendar
-- 元日 in lexipedia/Calendar
-- 正月 in lexipedia/Calendar
-- 陰暦年 in lexipedia/Calendar
-- 旧正月 in lexipedia/Calendar
-- 閏年 in lexipedia/Calendar
-- 平年 in lexipedia/Calendar
-- 閏月 in lexipedia/Calendar
-- 太陽暦 in lexipedia/Calendar
-- 太陰暦 in lexipedia/Calendar
-- 太陰太陽暦 in lexipedia/Calendar
-- 暦法 in lexipedia/Calendar
-- 紀年 in lexipedia/Calendar
-- 世紀初 in lexipedia/Calendar
-- 世紀中 in lexipedia/Calendar
-- 元号 in lexipedia/Calendar
-- 改元 in lexipedia/Calendar
-- 元年 in lexipedia/Calendar
-- 四季 in lexipedia/Calendar
-- 春分 in lexipedia/Calendar
-- 秋分 in lexipedia/Calendar
-- 休日 in lexipedia/Calendar
-- 祝日 in lexipedia/Calendar
-- 記念日 in lexipedia/Calendar
-- 祭日 in lexipedia/Calendar
-- 予定 in lexipedia/Calendar
-- 日程 in lexipedia/Calendar
-- 締切 in lexipedia/Calendar
-- 期限 in lexipedia/Calendar
-- 茶色 in lexipedia/Color
-- 灰色 in lexipedia/Color
-- 橙色 in lexipedia/Color
-- 桃色 in lexipedia/Color
-- 防守 in lexipedia/Geography
-- 広土 in lexipedia/Geography
-- 国主 in lexipedia/Geography
-- 立憲 in lexipedia/Geography
-- 内乱 in lexipedia/Geography
-- 外戦 in lexipedia/Geography
-- 改革 in lexipedia/Geography
-- 媒体 in lexipedia/Geography
-- 東伝 in lexipedia/Geography
-- 熱帯 in lexipedia/Geography
-- 気候 in lexipedia/Geography
-- 島嶼群 in lexipedia/Geography
-- 海峡 in lexipedia/Geography
-- 殖民 in lexipedia/Geography
-- 獅城 in lexipedia/Geography, words/新嘉浦
-- 星洲 in lexipedia/Geography, words/新嘉浦
-- 商路 in lexipedia/Geography
-- 南亜 in lexipedia/Geography
-- 高山 in lexipedia/Geography
-- 界線 in lexipedia/Geography
-- 西亜 in lexipedia/Geography
-- 沙漠 in lexipedia/Geography
-- 地帯 in lexipedia/Geography
-- 要地 in lexipedia/Geography
-- 中亜 in lexipedia/Geography
-- 興起 in lexipedia/Geography
-- 拡散 in lexipedia/Geography
-- 波斯 in lexipedia/Geography
-- 奥斯曼 in lexipedia/Geography
-- 内海 in lexipedia/Geography
-- 蘇格蘭 in lexipedia/Geography
-- 欽婁 in lexipedia/Geography
-- 愛爾蘭 in lexipedia/Geography
-- 大不列顛 in lexipedia/Geography
-- 共和國 in lexipedia/Geography
-- 荷蘭 in lexipedia/Geography
-- 瑞士 in lexipedia/Geography
-- 黙黙 in characters/黙
-- 天竺鼠 in characters/鼠
-- 尖鼠 in characters/鼠
-- 家鼠 in characters/鼠
-- 田鼠 in characters/鼠
-- 火鼠 in characters/鼠
-- 瞭然 in chengyu/一目瞭然
-- 世仇 in chengyu/世仇宿敵
-- 宿敵 in chengyu/世仇宿敵
-- 世間 in chengyu/世間罪盛
-- 六府 in chengyu/五臓六府
-- 大笑 in chengyu/呵呵大笑
-- 奴家 in chengyu/引出奴家
-- 引出 in chengyu/引出奴家
-- 招災 in chengyu/招災引禍
-- 引禍 in chengyu/招災引禍
-- 生機 in chengyu/生機勃勃
-- 勃勃 in chengyu/生機勃勃
-- 百家 in chengyu/百家共承
-- 空中 in chengyu/空中楼閣
-- 楼閣 in chengyu/空中楼閣
-- 自失 in chengyu/茫然自失
-- 単独 in lexipedia/Numbers
-- 二回 in lexipedia/Numbers
-- 二度 in lexipedia/Numbers
-- 双子 in lexipedia/Numbers
-- 横数 in lexipedia/Numbers
-- 無限 in lexipedia/Numbers
-
-- 徳素 in lexipedia/Periodic Table
-- 砒素 in lexipedia/Periodic Table
-- 月素 in lexipedia/Periodic Table
-- 臭素 in lexipedia/Periodic Table
-- 潜素 in lexipedia/Periodic Table
-- 康金 in lexipedia/Periodic Table
-- 色金 in lexipedia/Periodic Table
-- 孟金 in lexipedia/Periodic Table
-- 鬼金 in lexipedia/Periodic Table
-- 鬼銅 in lexipedia/Periodic Table
-- 鈩金 in lexipedia/Periodic Table
-- 錀琴 in lexipedia/Periodic Table
-
-- 不真 in lexipedia/Sophomore List
-- 湾曲 in lexipedia/Sophomore List
-- 中子 in lexipedia/Sophomore List
-- 海峽 in lexipedia/Sophomore List
-- 堰堤, in lexipedia/Sophomore List
-
-- 奈良 in lexipedia/歴史綱要
-- 三国 in lexipedia/歴史綱要
-- 高句麗 in lexipedia/歴史綱要
-- 新羅 in lexipedia/歴史綱要
-- 統一新羅 in lexipedia/歴史綱要
-- 高麗 in lexipedia/歴史綱要
-- 鎌倉 in lexipedia/歴史綱要
-- 室町 in lexipedia/歴史綱要
-- 安土桃山 in lexipedia/歴史綱要
-- 江戸 in lexipedia/歴史綱要
-- 徳川 in lexipedia/歴史綱要
-- 李氏 in lexipedia/歴史綱要
-- 大韓帝国 in lexipedia/歴史綱要
-- 国民党 in lexipedia/歴史綱要
-- 共産党 in lexipedia/歴史綱要
-- 民国 in lexipedia/歴史綱要
-- 大韓民国 in lexipedia/歴史綱要
-- 小学 in lexipedia/歴史綱要
-- 諸子百家 in lexipedia/歴史綱要
-- 上知 in lexipedia/歴史綱要
-- 下愚 in lexipedia/歴史綱要
-- 法家 in lexipedia/歴史綱要
-- 書院 in lexipedia/歴史綱要
-- 孝廉 in lexipedia/歴史綱要
-- 太学 in lexipedia/歴史綱要
-- 僕射 in lexipedia/歴史綱要
-- 射策 in lexipedia/歴史綱要
-- 律学 in lexipedia/歴史綱要
-- 屠殺 in syllables/ㄉㄛ
-- 杜撰 in syllables/ㄉㄛ
-- 鍍金 in syllables/ㄉㄛ
-- 途中 in syllables/ㄊㄛ
-- 蓬莱 in syllables/ㄌㄚ˙
-- 李子 in syllables/ㄌㄧ
-- 霊柩 in syllables/ㄍ˙ㄨ
-- 赳赳 in syllables/ㄍ˙ㄨ
-- 擱筆 in syllables/ㄍㄚㄎ
-- 桔梗 in syllables/ㄍㄝㄊ
-- 偈陀 in syllables/ㄍㄝㄊ
-- 娼妓 in syllables/ㄍㄧ
-- 囲棋 in syllables/ㄍㄧ
-- 企劃 in syllables/ㄎㄝ
-- 横幅 in syllables/ㄏˇㄚㄥ
-- 荒廃 in syllables/ㄏˇㄚㄥ
-- 寓居 in syllables/ㄨ
-- 主掌 in translation/周礼 (book)
-- 諌議 in translation/周礼 (book)
-- 五礼 in translation/周礼 (book)
-- 六楽 in translation/周礼 (book)
-- 五射 in translation/周礼 (book)
-- 五馭 in translation/周礼 (book)
-- 九数 in translation/周礼 (book)
-- 皮衣 in translation/論語 (book)
-- 魏峨 in translation/論語 (book)
-- 台悦 in translation/論語 (book)
-- 教戒 in translation/論語 (book)
-- 自尊 in translation/論語 (book)
-- 和敬 in translation/論語 (book)
-- 痛哭 in translation/論語 (book)
-- 漢方 in words/七情
-- 医学 in words/七情
-- 萬邦 in words/万邦
-- 参拾 in words/三十
-- 明君 in words/光明
-- 書經 in words/光明
-- 孫子兵法 in words/兵法
-- 印尼 in words/印度尼西亜
-- 肆拾 in words/四十
-- 書経 in words/四書五経
-- 易経 in words/四書五経
-- 圓錐 in words/圓錐曲線
-- 曲線 in words/圓錐曲線
-- 易經 in words/天地
-- 天地人 in words/天地
-- 太易 in words/天地
-- 太初 in words/天地
-- 太素 in words/天地
-- 盤古 in words/天地
-- 弓道 in words/射術
-- 秋田 in words/山本
-- 春秋時代 in words/春秋
-- 麟経 in words/春秋
-- 麟史 in words/春秋
-- 春秋鼎盛 in words/春秋
-- 書契 in words/書法
-- 書道 in words/書法
-- 武士道 in words/武士
-- 武道 in words/武士
-- 懸心 in words/武士
-- 注音 in words/注音符号
-- 無極 in words/混沌
-- 太極 in words/混沌
-- 開天闢地 in words/混沌
-- 魂魄 in words/神霊
-- 天神地祇 in words/神霊
-- 緑柱石 in words/緑柱素
-- 英格蘭 in words/英国
-- 霓虹 in words/霓虹素
-- 狂風 in words/風狂
-- 栄養素 in words/養素
-- 無明 in words/黒暗
-- 嫌悪 in syllables/ㄏㄝㄇ
-- 戯曲 in syllables/ㄏㄨ˙
-- 指揮 in syllables/ㄏㄨ˙
-- 編纂 in syllables/ㄐˇㄚㄋ
-- 料槽 in syllables/ㄐㄚˇ
-- 暗礁 in syllables/ㄐㄚˇ
-- 負債 in syllables/ㄐㄚ˙
-- 栽培 in syllables/ㄐㄚ˙
-- 財産 in syllables/ㄐㄚ˙
-- 斎戒 in syllables/ㄐㄚ˙
-- 暫時 in syllables/ㄐㄚㄇ
-- 男爵 in syllables/ㄐㄚㄎ
-- 狭窄 in syllables/ㄐㄚㄎ
-- 貯蔵 in syllables/ㄐㄛ
-- 租金 in syllables/ㄐㄛ
-- 粗糙 in syllables/ㄐㄛ
-- 癰疽 in syllables/ㄐㄛ
-- 瞻仰 in syllables/ㄐㄝㄇ
-- 践踏 in syllables/ㄐㄝㄋ
-- 磚石 in syllables/ㄐㄝㄋ
-- 賎人 in syllables/ㄐㄝㄋ
-- 梓木 in syllables/ㄐㄧ
-- 鋳造 in syllables/ㄐㄨ
-- 掃帚 in syllables/ㄐㄨ
-- 皺紋 in syllables/ㄐㄨ
-- 誅殺 in syllables/ㄐㄨ
-- 註解 in syllables/ㄐㄨ
-- 邾国 in syllables/ㄐㄨ
-- 牆壁 in syllables/ㄑˇㄚㄥ
-- 瘡口 in syllables/ㄑˇㄚㄥ
-- 雌性 in syllables/ㄑㄝ
-- 厠所 in syllables/ㄑㄧ
-- 心緒 in syllables/ㄙ˙ㄛ
-- 疎忽 in syllables/ㄙ˙ㄛ
-- 容恕 in syllables/ㄙ˙ㄛ
-- 菜蔬 in syllables/ㄙ˙ㄛ
-- 腺体 in syllables/ㄙ˙ㄝㄋ
-- 膳食 in syllables/ㄙ˙ㄝㄋ
-- 杉木 in syllables/ㄙㄚㄇ
-- 早晨 in syllables/ㄙㄧㄋ
-- 既遂 in syllables/ㄙㄨ˙
-- 骨髄 in syllables/ㄙㄨ˙
-- 陳述 in syllables/ㄙㄨㄊ
-- 𧦅歌 in syllables/ㄛˇ
-- 浩大 in syllables/ㄏㄚˇ
-- 消耗 in syllables/ㄏㄚˇ
-- 鎬京 in syllables/ㄏㄚˇ
-- 哄笑 in syllables/ㄏㄛㄥ
-- 鶏肉 in characters/鶏 (char)
-- 鸚哥 in characters/鸚
-- 麦茶 in characters/麦
-
-
-## 1-words
-- 魶 in syllables/ㄋㄨㄆ
-- 兄 in syllables/ㄏ˙ㄛㄥ
-- 険 in syllables/ㄏㄝㄇ
-- 漆 in syllables/ㄑㄧㄊ
-- 鴎 in syllables/ㄛˇ
-- 鴨 in lexipedia/Animals
-- 兎 in lexipedia/Animals, syllables/ㄊㄛ
-- 鷹 in lexipedia/Sophomore List
-- 鵰 in lexipedia/Sophomore List
-- 両 in lexipedia/Numbers
-- words/車 in characters/車 (char)
-- 而 in words/与
-- 菲 in lexipedia/Geography, lookup/Korean/Korean Name ㅂ
-- 㪘 in characters/㪘 (char)
-- words/丁 in characters/丁 (char)
-- 丁 in characters/正 (char)
-- words/両 in characters/両 (char)
-- words/乎 in characters/乎 (char)
-- words/于 in characters/于 (char)
-- words/伍 in characters/伍 (char)
-- words/会 in characters/会 (char)
-- words/何 in characters/何 (char)
-- words/兄 in characters/兄 (char)
-- words/光 in characters/光 (char)
-- words/兎 in characters/兎 (char)
-- words/公 in characters/公 (char)
-- words/共 in characters/共 (char)
-- words/冊 in characters/冊 (char)
-- words/出 in characters/出 (char)
-- words/分 in characters/分 (char)
-- 豦 in characters/劇 (char)
-- words/匹 in characters/匹 (char)
-- words/卦 in characters/卦 (char)
-- words/口 in characters/口 (char)
-- words/台 in characters/台 (char)
-- words/咬 in characters/咬 (char)
-- words/在 in characters/在 (char)
-- words/多 in characters/多 (char)
-- words/太 in characters/太 (char)
-- words/女 in characters/女 (char)
-- words/宙 in characters/宙 (char)
-- words/就 in characters/就 (char)
-- words/山 in characters/山 (char)
-- words/州 in characters/州 (char)
-- words/帆 in characters/帆 (char)
-- words/朕 in characters/朕 (char)
-- words/未 in characters/未 (char)
-- words/束 in characters/束 (char)
-- words/条 in characters/条 (char)
-- words/枚 in characters/枚 (char)
-- words/某 in characters/某 (char)
-- words/業 in characters/業 (char)
-- words/様 in characters/様 (char)
-- 歯 in characters/歯 (char)
-- words/水 in characters/水 (char)
-- words/洲 in characters/洲 (char)
-- words/漆 in characters/漆 (char)
-- 廌 in characters/灋
-- words/猟 in characters/獵 (char)
-- words/由 in characters/由 (char)
-- words/番 in characters/番 (char)
-- words/而 in characters/而 (char)
-- words/皆 in characters/皆 (char)
-- words/草 in characters/草 (char)
-- words/莫 in characters/莫 (char)
-- words/薬 in characters/薬 (char)
-- words/蚊 in characters/蚊 (char)
-- words/蝎 in characters/蝎 (char), lookup/Korean/Korean Name ㅎ
-- words/誰 in characters/誰 (char)
-- words/走 in characters/走 (char)
-- words/足 in characters/足 (char)
-- words/関 in characters/関 (char)
-- words/険 in characters/険 (char)
-- words/隼 in characters/隼 (char)
-- words/雨 in characters/雨 (char)
-- words/雪 in characters/雪 (char)
-- words/雷 in characters/雷 (char)
-- words/霜 in characters/霜 (char)
-- words/霧 in characters/霧 (char)
-- words/露 in characters/露 (char)
-- words/青 in characters/青 (char)
-- words/鞋 in characters/鞋 (char)
-- words/頁 in characters/頁 (char)
-- 風 in characters/風 (char)
-- words/駅 in characters/駅 (char)
-- words/駆 in characters/駆 (char)
-- words/騒 in characters/騒 (char)
-- words/騙 in characters/騙 (char)
-- words/骨 in characters/骨 (char)
-- words/高 in characters/高 (char)
-- words/鬣 in characters/鬣 (char)
-- words/魂 in characters/魂 (char)
-- words/魶 in characters/魶 (char)
-- words/鮎 in characters/鮎 (char)
-- words/鮑 in characters/鮑 (char)
-- words/鱏 in characters/鱏 (char)
-- words/鳥 in characters/鳥 (char)
-- words/鳴 in characters/鳴 (char)
-- words/鳶 in characters/鳶 (char)
-- words/鴎 in characters/鴎 (char)
-- words/鴨 in characters/鴨 (char)
-- words/鵰 in characters/鵰 (char)
-- words/鶴 in characters/鶴 (char)
-- words/鷹 in characters/鷹 (char)
-- words/鹸 in characters/鹸 (char)
-- words/麺 in characters/麺 (char)
-- words/黄 in characters/黄 (char)
-- 在 in grammar/文法 - 97品詞, syllables/ㄐㄚ˙
-- 莫 in grammar/文法 - 97品詞
-- 于 in grammar/文法 - 97品詞
-- 共 in grammar/文法 - 97品詞
-- 由 in grammar/文法 - 97品詞
-- 様 in grammar/文法 - 97品詞
-- 公 in grammar/文法 - 97品詞
-- 未 in grammar/文法 - 97品詞
-- 某 in grammar/文法 - 97品詞
-- 皆 in grammar/文法 - 97品詞
-- 多 in grammar/文法 - 97品詞
-- 朕 in grammar/文法 - 97品詞, words/我
-- 台 in grammar/文法 - 97品詞
-- 匹 in grammar/文法 - 97品詞
-- 冊 in grammar/文法 - 97品詞
-- 枚 in grammar/文法 - 97品詞, syllables/ㄇㄛ˙
-- 条 in grammar/文法 - 97品詞, syllables/ㄐㄛ
-- 番 in grammar/文法 - 97品詞
-- 束 in grammar/文法 - 97品詞
-- 鳥 in grammar/文法 - 97品詞
-- 草 in grammar/文法 - 97品詞
-- 何 in grammar/文法 - 97品詞, lexipedia/Grammar, lexipedia/Swadesh
-- 誰 in grammar/文法 - 97品詞, lexipedia/Grammar, lexipedia/Swadesh, words/何人
-- words/鼻 in characters/鼻 (char)
-
-## Chengyu
-- 形助顯理 in chengyu/Dan'a'yo Chengyu, grammar/文法 - 05形態
-
-## Articles
-- /grammar/文法 - 99Rime Tables in grammar/単亜語之文法書.en
-- 文法 - 07読本 in grammar/単亜語之文法書
-- 文法 - 99韻図 in grammar/単亜語之文法書
-- lexipedia/Containers in lexipedia/Lexipedia
-- lexipedia/Dimensions in lexipedia/Lexipedia
-- lexipedia/Directions in lexipedia/Lexipedia
-- lexipedia/Efforts in lexipedia/Lexipedia
-- lexipedia/Emotions in lexipedia/Lexipedia
-- lexipedia/Events in lexipedia/Lexipedia
-- lexipedia/Existence in lexipedia/Lexipedia
-- lexipedia/Government in lexipedia/Lexipedia
-- lexipedia/Kinship in lexipedia/Lexipedia, words/父父
-- lexipedia/Knowledge in lexipedia/Lexipedia
-- lexipedia/Law in lexipedia/Lexipedia
-- lexipedia/Life in lexipedia/Lexipedia
-- lexipedia/Light in lexipedia/Lexipedia
-- lexipedia/Locatives in lexipedia/Lexipedia
-- lexipedia/Love in lexipedia/Lexipedia
-- lexipedia/Measurement in lexipedia/Lexipedia
-- lexipedia/Mind in lexipedia/Lexipedia
-- lexipedia/Movement in lexipedia/Lexipedia
-- lexipedia/Nature in lexipedia/Lexipedia
-- lexipedia/Physical in lexipedia/Lexipedia
-- lexipedia/Physics in lexipedia/Lexipedia
-- lexipedia/Plants in lexipedia/Lexipedia
-- lexipedia/Possession in lexipedia/Lexipedia
-- lexipedia/Religion in lexipedia/Lexipedia
-- lexipedia/Shape in lexipedia/Lexipedia
-- lexipedia/Sensation in lexipedia/Lexipedia
-- lexipedia/Sex in lexipedia/Lexipedia
-- lexipedia/Sin in lexipedia/Lexipedia
-- lexipedia/Society in lexipedia/Lexipedia
-- lexipedia/Speech in lexipedia/Lexipedia
-- lexipedia/Substances in lexipedia/Lexipedia
-- lexipedia/Time in lexipedia/Lexipedia
-- lexipedia/Tools in lexipedia/Lexipedia
-- lexipedia/Trade in lexipedia/Lexipedia
-- lexipedia/Valuation in lexipedia/Lexipedia
-- lexipedia/War in lexipedia/Lexipedia
-- lexipedia/Water in lexipedia/Lexipedia
-
-## New Characters
-- 蒦 in characters/蠖
-- 壕 in characters/豪, lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, 
-- 挪 in lexipedia/Geography, lookup/Korean/Korean Name ㄴ
-- 樣 in lookup/HSK/HSK Beginner, lookup/Korean/Korean Name ㅅ
-- 閾 in lookup/Japanese/Hyōgai
-- 溢 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 隕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 穢 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 裔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 歉 in lookup/Japanese/Hyōgai
-- 猥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 隈 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 罠 in lookup/Japanese/Hyōgai
-- 翳 in lookup/Japanese/Hyōgai
-- 腋 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 蔭 in lookup/Japanese/Hyōgai
-- 嚥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 嘔 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 謳 in lookup/Japanese/Hyōgai
-- 廓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ, lookup/Korean/Korean Name ㅎ
-- 摑 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 筵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 甕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 瑕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 榎 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 訝 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 衙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 徊 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 鰊 in lookup/Japanese/Hyōgai
-- 攣 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
-- 鶯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 俤 in lookup/Japanese/Hyōgai
-- 跏 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 漉 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 愕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 萼 in lookup/Japanese/Hyōgai
-- 諤 in lookup/Japanese/Hyōgai
-- 廻 in lookup/Japanese/Hyōgai
-- 堺 in lookup/Japanese/Hyōgai
-- 樫 in lookup/Japanese/Hyōgai
-- 絣 in lookup/Japanese/Hyōgai
-- 奸 in lookup/Japanese/Hyōgai
-- 宦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 涵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 澗 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 翰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 諫 in lookup/Japanese/Hyōgai
-- 瞰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 檻 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 頷 in lookup/Japanese/Hyōgai
-- 耆 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 揆 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 櫃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 吃 in lookup/Japanese/Hyōgai
-- 屹 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 拮 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 謔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 笈 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 舅 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 炬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 噓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 欅 in lookup/Japanese/Hyōgai
-- 怯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 俠 in lookup/Japanese/Hyōgai
-- 脇 in lookup/Japanese/Hyōgai
-- 莢 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 橿 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 疆 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 髷 in lookup/Japanese/Hyōgai
-- 軀 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 懼 in lookup/Japanese/Hyōgai
-- 俱 in lookup/Japanese/Hyōgai
-- 喰 in lookup/Japanese/Hyōgai
-- 粂 in lookup/Japanese/Hyōgai
-- 珪 in lookup/Japanese/Hyōgai
-- 畦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 痙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 禊 in lookup/Japanese/Hyōgai
-- 頸 in lookup/Japanese/Hyōgai
-- 髻 in lookup/Japanese/Hyōgai
-- 蹊 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 鮭 in lookup/Japanese/Hyōgai
-- 繫 in lookup/Japanese/Hyōgai
-- 睨 in lookup/Japanese/Hyōgai
-- 抉 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 蕨 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ as 'kyud'!
-- 姸 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 虔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 捲 in lookup/Japanese/Hyōgai
-- 腱 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 呟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 眩 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 涸 in lookup/Japanese/Hyōgai
-- 菰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 齬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 巷 in lookup/Japanese/Hyōgai
-- 恍 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 狡 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 崗 in lookup/Japanese/Hyōgai
-- 閤 in lookup/Japanese/Hyōgai
-- 篝 in lookup/Japanese/Hyōgai
-- 壙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 曠 in lookup/Japanese/Hyōgai
-- 濠 in lookup/Japanese/Hyōgai
-- 噛 in lookup/Japanese/Hyōgai
-- 轟 in lookup/Japanese/Hyōgai
-- 剋 in lookup/Japanese/Hyōgai
-- 渾 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅎ
-- 褌 in lookup/Japanese/Hyōgai
-- 嗟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 蓑 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 鰓 in lookup/Japanese/Hyōgai
-- 榊 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 簀 in lookup/Japanese/Hyōgai
-- 撒 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 霰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 攢 in lookup/Japanese/Hyōgai
-- 讃 in lookup/Japanese/Hyōgai
-- 懺 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 仔 in lookup/Japanese/Hyōgai
-- 址 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 舐 in lookup/Japanese/Hyōgai
-- 疵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 趾 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 覗 in lookup/Japanese/Hyōgai
-- 嗜 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄱ
-- 滓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 熾 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 髭 in lookup/Japanese/Hyōgai
-- 贄 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 峙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 痔 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 𠮟 in lookup/Japanese/Hyōgai
-- 柘 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 娑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 闍 in lookup/Japanese/Hyōgai
-- 杓 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
-- 諏 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
-- 竪 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 綬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 濡 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 襦 in lookup/Japanese/Hyōgai
-- 箒 in lookup/Japanese/Hyōgai
-- 輯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 揉 in lookup/Japanese/Hyōgai
-- 楯 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 杵 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
-- 薯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 秤 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
-- 娼 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 廂 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 鈔 in lookup/Japanese/Hyōgai
-- 睫 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 蛸 in lookup/Japanese/Hyōgai
-- 摺 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 漿 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 蕭 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 聳 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 囁 in lookup/Japanese/Hyōgai
-- 攘 in lookup/Japanese/Hyōgai
-- 饒 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 蝕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 褥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 沁 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 芯 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 宸 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 疹 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 蜃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 鍼 in lookup/Japanese/Hyōgai
-- 靱 in lookup/Japanese/Hyōgai
-- 儘 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 笥 in lookup/Japanese/Hyōgai
-- 祟 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-2/SKIP-2-5-5
-- 隧 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 鮨 in lookup/Japanese/Hyōgai
-- 栖 in lookup/Japanese/Hyōgai
-- 蜻 in lookup/Japanese/Hyōgai
-- 臍 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 瀞 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 贅 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 晰 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 蹟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 泄 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 浙 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 啜 in lookup/Japanese/Hyōgai
-- 苫 in lookup/Japanese/Hyōgai
-- 揃 in lookup/Japanese/Hyōgai
-- 煽 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 撰 in lookup/Japanese/Hyōgai
-- 賤 in lookup/Japanese/Hyōgai
-- 癬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 疏 in lookup/Japanese/Hyōgai
-- 甦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 齟 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 叟 in lookup/Japanese/Hyōgai
-- 艘 in lookup/Japanese/Hyōgai
-- 甑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 藪 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 囃 in lookup/Japanese/Hyōgai
-- 竈 in lookup/Japanese/Hyōgai
-- 鰺 in lookup/Japanese/Hyōgai
-- 杣 in lookup/Japanese/Hyōgai
-- 噂 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 咤 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅌ
-- 荼 in lookup/Japanese/Hyōgai
-- 驒 in lookup/Japanese/Hyōgai
-- 碓 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 頽 in lookup/Japanese/Hyōgai
-- 托 in lookup/Japanese/Hyōgai
-- 鐸 in lookup/Japanese/Hyōgai
-- 襷 in lookup/Japanese/Hyōgai
-- 燵 in lookup/Japanese/Hyōgai
-- 疸 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
-- 毯 in lookup/Japanese/Hyōgai
-- 歎 in lookup/Japanese/Hyōgai
-- 筑 in lookup/Japanese/Hyōgai
-- 冑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 紐 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄴ
-- 疇 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 躊 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 楮 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 瀦 in lookup/Japanese/Hyōgai
-- 躇 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 銚 in lookup/Japanese/Hyōgai
-- 捗 in lookup/Japanese/Hyōgai
-- 鎚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅊ
-- 辻 in lookup/Japanese/Hyōgai
-- 掟 in lookup/Japanese/Hyōgai
-- 梯 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
-- 碇 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 薙 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 鵜 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 轍 in lookup/Japanese/Hyōgai
-- 辿 in lookup/Japanese/Hyōgai
-- 唸 in lookup/Japanese/Hyōgai
-- 塡 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 囀 in lookup/Japanese/Hyōgai
-- 澱 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
-- 臀 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
-- 淘 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
-- 棹 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄷ
-- 樋 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 濤 in lookup/Japanese/Hyōgai
-- 檮 in lookup/Japanese/Hyōgai
-- 瀆 in lookup/Japanese/Hyōgai
-- 吞 in lookup/Japanese/Hyōgai
-- 邇 in lookup/Japanese/Hyōgai
-- 匂 in lookup/Japanese/Hyōgai
-- 禰 in lookup/Japanese/Hyōgai
-- 撚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄴ
-- 囊 in lookup/Japanese/Hyōgai
-- 杷 in lookup/Japanese/Hyōgai
-- 蟇 in lookup/Japanese/Hyōgai
-- 胚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 徘 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 粕 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 曝 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅍ
-- 畠 in lookup/Japanese/Hyōgai
-- 撥 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 潑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 醱 in lookup/Japanese/Hyōgai
-- 筏 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ, lookup/SKIP/SKIP-2/SKIP-2-6-6
-- 跋 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 噺 in lookup/Japanese/Hyōgai
-- 袢 in lookup/Japanese/Hyōgai
-- 槃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 痺 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 臂 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 枇 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅂ
-- 媚 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅁ
-- 憑 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 牝 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 鬢 in lookup/Japanese/Hyōgai
-- 腑 in lookup/Japanese/Hyōgai
-- 孵 in lookup/Japanese/Hyōgai
-- 鮒 in lookup/Japanese/Hyōgai
-- 諷 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
-- 祓 in lookup/Japanese/Hyōgai
-- 斃 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
-- 襞 in lookup/Japanese/Hyōgai
-- 庖 in lookup/Japanese/Hyōgai
-- 苞 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
-- 芒 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅁ
-- 榜 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 膀 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 鉾 in lookup/Japanese/Hyōgai
-- 吠 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅍ
-- 梵 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅂ
-- 俣 in lookup/Japanese/Hyōgai
-- 瞞 in lookup/Japanese/Hyōgai
-- 鬘 in lookup/Japanese/Hyōgai
-- 瞑 in lookup/Japanese/Hyōgai
-- 朦 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅁ
-- 籾 in lookup/Japanese/Hyōgai
-- 楡 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 猷 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-1/SKIP-1-9-4
-- 飫 in lookup/Japanese/Hyōgai
-- 拗 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 涌 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅇ
-- 痒 in lookup/Japanese/Hyōgai
-- 熔 in lookup/Japanese/Hyōgai
-- 蠅 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 萊 in lookup/Japanese/Hyōgai
-- 蕾 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō
-- 埒 in lookup/Japanese/Hyōgai
-- 瀾 in lookup/Japanese/Hyōgai
-- 鸞 in lookup/Japanese/Hyōgai
-- 籬 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
-- 瘤 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
-- 寥 in lookup/Japanese/Hyōgai
-- 蛉 in lookup/Japanese/Hyōgai
-- 蠣 in lookup/Japanese/Hyōgai
-- 櫟 in lookup/Japanese/Hyōgai
-- 礫 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
-- 轢 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
-- 煉 in lookup/Japanese/Hyōgai
-- 漣 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
-- 瘻 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㄹ
-- 﨟 in lookup/Japanese/Hyōgai
-- 椀 in lookup/Japanese/Hyōgai, lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 沪 in lookup/Japanese/Hyōgai
-- 麹 in lookup/Japanese/Hyōgai
-- 桝 in lookup/Japanese/Hyōgai
-- 掴 in lookup/Japanese/Jinmeiyō
-- 栞 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
-- 梧 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 耀 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 茜 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-2/SKIP-2-3-6
-- 菖 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
-- 蓉 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 凌 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
-- 竣 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
-- 檎 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
-- 眸 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅁ
-- 稔 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 瑳 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
-- 瑶 in lookup/Japanese/Jinmeiyō
-- 滉 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅎ
-- 芹 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
-- 燎 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
-- 燿 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 葵 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
-- 蒔 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 蔦 in lookup/Japanese/Jinmeiyō
-- 榛 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
-- 蕗 in lookup/Japanese/Jinmeiyō
-- 詢 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 諄 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 麿 in lookup/Japanese/Jinmeiyō
-- 驍 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅎ
-- 鵬 in lookup/Japanese/Jinmeiyō
-- 塙 in lookup/Japanese/Jinmeiyō
-- 奎 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-2/SKIP-2-3-6
-- 惺 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 汐 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 芙 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅂ
-- 孜 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
-- 宏 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
-- 崚 in lookup/Japanese/Jinmeiyō
-- 嵯 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅊ
-- 徠 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
-- 惣 in lookup/Japanese/Jinmeiyō
-- 晟 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 曙 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅅ
-- 柚 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅇ
-- 綸 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
-- 綺 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄱ
-- 綾 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㄹ
-- 暉 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅎ
-- 柾 in lookup/Japanese/Jinmeiyō, lookup/Korean/Korean Name ㅈ
-- 粳 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-6-7
-- 覡 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
-- 誡 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
-- 誥 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
-- 梡 in lookup/Korean/Korean Name ㄱ, lookup/Korean/Korean Name ㅇ
-- 佼 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-2-6
-- 衢 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-3-21
-- 兢 in lookup/Korean/Korean Name ㄱ, lookup/SKIP/SKIP-1/SKIP-1-7-7
-- 圻 in lookup/Korean/Korean Name ㄱ, lookup/Korean/Korean Name ㅇ
-- 濔 in lookup/Korean/Korean Name ㄴ, lookup/Korean/Korean Name ㅁ
-- 焞 in lookup/Korean/Korean Name ㄷ, lookup/Korean/Korean Name ㅅ
-- 遯 in lookup/Korean/Korean Name ㄷ, lookup/SKIP/SKIP-3/SKIP-3-4-11
-- 纜 in lookup/Korean/Korean Name ㄹ, lookup/SKIP/SKIP-1/SKIP-1-6-22
-- 躪 in lookup/Korean/Korean Name ㄹ, lookup/SKIP/SKIP-1/SKIP-1-7-19
-- 棽 in lookup/Korean/Korean Name ㄹ, lookup/Korean/Korean Name ㅊ
-- 雹 in lookup/Korean/Korean Name ㅂ, lookup/SKIP/SKIP-2/SKIP-2-8-5
-- 輻 in lookup/Korean/Korean Name ㅂ, lookup/Korean/Korean Name ㅍ
-- 贇 in lookup/Korean/Korean Name ㅂ, lookup/Korean/Korean Name ㅇ
-- 悆 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅇ
-- 舃 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
-- 胜 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
-- 嗽 in lookup/Korean/Korean Name ㅅ, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 諟 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅊ
-- 媞 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
-- 禔 in lookup/Korean/Korean Name ㅅ, lookup/Korean/Korean Name ㅈ
-- 熀 in lookup/Korean/Korean Name ㅇ, lookup/Korean/Korean Name ㅎ
-- 塋 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-2/SKIP-2-8-5
-- 纓 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-1/SKIP-1-6-17
-- 勖 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-2/SKIP-2-4-7
-- 毓 in lookup/Korean/Korean Name ㅇ, lookup/SKIP/SKIP-1/SKIP-1-7-7
-- 珆 in lookup/Korean/Korean Name ㅇ, lookup/Korean/Korean Name ㅌ
-- 讒 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-7-17
-- 讖 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-7-17
-- 漲 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 滌 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 囑 in lookup/Korean/Korean Name ㅊ, lookup/SKIP/SKIP-1/SKIP-1-3-21
-- 慓 in lookup/Korean/Korean Name ㅍ, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 銜 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 嫦 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-3-11
-- 誨 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-7-7
-- 紇 in lookup/Korean/Korean Name ㅎ, lookup/SKIP/SKIP-1/SKIP-1-10-11
+- [[儀礼]] in [[Redeeming the Six Arts]]
+- [[詩經]] in [[Redeeming the Six Arts]], [[characters/詩]]
+- [[楽經]] in [[Redeeming the Six Arts]]
+- [[經典]] in [[Redeeming the Six Arts]]
+- [[信条]] in [[bible/基督敎 elements]]
+- [[尼西亜]] in [[bible/基督敎 elements]]
+- [[使徒]] in [[bible/基督敎 elements]]
+- [[君士坦丁堡]] in [[bible/基督敎 elements]]
+- [[迦克敦]] in [[bible/基督敎 elements]]
+- [[三位一体]] in [[bible/基督敎 elements]]
+- [[道成肉身]] in [[bible/基督敎 elements]]
+- [[原罪]] in [[bible/基督敎 elements]]
+- [[救贖]] in [[bible/基督敎 elements]]
+- [[償還]] in [[bible/基督敎 elements]]
+- [[恩寵]] in [[bible/基督敎 elements]]
+- [[恩典]] in [[bible/基督敎 elements]]
+- [[恩德]] in [[bible/基督敎 elements]]
+- [[恩意]] in [[bible/基督敎 elements]]
+- [[恩施]] in [[bible/基督敎 elements]]
+- [[主教]] in [[bible/基督敎 elements]]
+- [[大主教]] in [[bible/基督敎 elements]]
+- [[總主教]] in [[bible/基督敎 elements]]
+- [[枢機]] in [[bible/基督敎 elements]]
+- [[教皇]] in [[bible/基督敎 elements]]
+- [[司鐸]] in [[bible/基督敎 elements]]
+- [[牧師]] in [[bible/基督敎 elements]]
+- [[神父]] in [[bible/基督敎 elements]]
+- [[大教堂]] in [[bible/基督敎 elements]]
+- [[修道院]] in [[bible/基督敎 elements]]
+- [[神学院]] in [[bible/基督敎 elements]]
+- [[聖礼]] in [[bible/基督敎 elements]]
+- [[聖餐]] in [[bible/基督敎 elements]]
+- [[洗礼]] in [[bible/基督敎 elements]]
+- [[㪘]] in [[characters/㪘 (char)]]
+- [[七宝]] in [[characters/七 (char)]]
+- [[七事]] in [[characters/七 (char)]]
+- [[七対子]] in [[characters/七 (char)]]
+- [[七面鳥]] in [[characters/七 (char)]]
+- [[七曜]] in [[characters/七 (char)]]
+- [[七星]] in [[characters/七 (char)]]
+- [[七色]] in [[characters/七 (char)]]
+- [[七角形]] in [[characters/七 (char)]]
+- [[words/両]] in [[characters/両 (char)]]
+- [[口]] in [[characters/中 (char)]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[words/乎]] in [[characters/乎 (char)]]
+- [[九泉]] in [[characters/九 (char)]]
+- [[九卿]] in [[characters/九 (char)]]
+- [[九經]] in [[characters/九 (char)]]
+- [[十九]] in [[characters/九 (char)]], [[characters/十]]
+- [[九族]] in [[characters/九 (char)]]
+- [[九官鳥]] in [[characters/九 (char)]]
+- [[九尾狐]] in [[characters/九 (char)]]
+- [[草亀]] in [[characters/亀 (char)]]
+- [[二百]] in [[characters/二 (char)]]
+- [[二万]] in [[characters/二 (char)]]
+- [[二人]] in [[characters/二 (char)]], [[lexipedia/Numbers]]
+- [[二重]] in [[characters/二 (char)]], [[lexipedia/Numbers]]
+- [[二心]] in [[characters/二 (char)]]
+- [[二次元]] in [[characters/二 (char)]]
+- [[words/于]] in [[characters/于 (char)]]
+- [[五戒]] in [[characters/五 (char)]]
+- [[五十]] in [[characters/五 (char)]], [[characters/十]]
+- [[五色]] in [[characters/五 (char)]]
+- [[五方]] in [[characters/五 (char)]]
+- [[五角形]] in [[characters/五 (char)]]
+- [[五穀]] in [[characters/五 (char)]]
+- [[五更]] in [[characters/五 (char)]]
+- [[五指]] in [[characters/五 (char)]]
+- [[五官]] in [[characters/五 (char)]]
+- [[牛井]] in [[characters/井]]
+- [[親子井]] in [[characters/井]]
+- [[豚井]] in [[characters/井]]
+- [[担任]] in [[characters/任]]
+- [[words/伍]] in [[characters/伍 (char)]]
+- [[words/会]] in [[characters/会 (char)]]
+- [[words/兄]] in [[characters/兄 (char)]]
+- [[words/光]] in [[characters/光 (char)]]
+- [[words/兎]] in [[characters/兎 (char)]]
+- [[第八]] in [[characters/八 (char)]]
+- [[八日]] in [[characters/八 (char)]], [[lexipedia/Calendar]]
+- [[八千]] in [[characters/八 (char)]]
+- [[words/公]] in [[characters/公 (char)]]
+- [[公平]] in [[characters/公 (char)]]
+- [[words/共]] in [[characters/共 (char)]]
+- [[words/冊]] in [[characters/冊 (char)]]
+- [[words/出]] in [[characters/出 (char)]]
+- [[words/分]] in [[characters/分 (char)]]
+- [[豦]] in [[characters/劇 (char)]]
+- [[雨包]] in [[characters/包]]
+- [[words/匹]] in [[characters/匹 (char)]]
+- [[十五]] in [[characters/十]]
+- [[十七]] in [[characters/十]]
+- [[十八]] in [[characters/十]]
+- [[五代十国]] in [[characters/十]], [[lexipedia/歴史綱要]]
+- [[卍巴]] in [[characters/卍]]
+- [[words/卦]] in [[characters/卦 (char)]]
+- [[厳然]] in [[characters/厳 (char)]]
+- [[音叉]] in [[characters/叉 (char)]]
+- [[夜叉]] in [[characters/叉 (char)]]
+- [[魚叉]] in [[characters/叉 (char)]]
+- [[叉勺]] in [[characters/叉 (char)]]
+- [[不及]] in [[characters/及 (char)]]
+- [[及第]] in [[characters/及 (char)]]
+- [[言及]] in [[characters/及 (char)]]
+- [[遡及]] in [[characters/及 (char)]]
+- [[追及]] in [[characters/及 (char)]]
+- [[波及]] in [[characters/及 (char)]]
+- [[白及]] in [[characters/及 (char)]]
+- [[普及]] in [[characters/及 (char)]]
+- [[words/口]] in [[characters/口 (char)]]
+- [[words/台]] in [[characters/台 (char)]]
+- [[傾向]] in [[characters/向 (char)]]
+- [[words/咬]] in [[characters/咬 (char)]]
+- [[words/在]] in [[characters/在 (char)]]
+- [[堅魚]] in [[characters/堅]]
+- [[堅鳥]] in [[characters/堅]]
+- [[私塾]] in [[characters/塾]]
+- [[地境]] in [[characters/境]]
+- [[words/多]] in [[characters/多 (char)]]
+- [[words/太]] in [[characters/太 (char)]]
+- [[words/女]] in [[characters/女 (char)]]
+- [[妊娠]] in [[characters/娠]]
+- [[才媛]] in [[characters/媛]]
+- [[愛媛]] in [[characters/媛]]
+- [[夢嫌]] in [[characters/嫌]]
+- [[冊子]] in [[characters/子]]
+- [[words/宙]] in [[characters/宙 (char)]]
+- [[仮定]] in [[characters/定]]
+- [[鑑定]] in [[characters/定]]
+- [[既定]] in [[characters/定]]
+- [[規定]] in [[characters/定]]
+- [[協定]] in [[characters/定]]
+- [[宿題]] in [[characters/宿]]
+- [[尊魚]] in [[characters/尊]]
+- [[words/就]] in [[characters/就 (char)]]
+- [[宇宙局]] in [[characters/局 (char)]], [[words/局]]
+- [[消防局]] in [[characters/局 (char)]], [[words/局]]
+- [[放送局]] in [[characters/局 (char)]], [[words/局]]
+- [[造幣局]] in [[characters/局 (char)]], [[words/局]]
+- [[中央情報局]] in [[characters/局 (char)]], [[words/局]]
+- [[words/山]] in [[characters/山 (char)]]
+- [[瀧川]] in [[characters/川 (char)]]
+- [[江戸川]] in [[characters/川 (char)]]
+- [[四川]] in [[characters/川 (char)]]
+- [[words/州]] in [[characters/州 (char)]]
+- [[words/帆]] in [[characters/帆 (char)]]
+- [[希釈]] in [[characters/希]]
+- [[希少]] in [[characters/希]]
+- [[古希]] in [[characters/希]]
+- [[拡張]] in [[characters/張]]
+- [[字彙]] in [[characters/彙 (char)]], [[grammar/文法 - 01序文]]
+- [[燐彬]] in [[characters/彬]]
+- [[従事]] in [[characters/従 (char)]]
+- [[従業]] in [[characters/従 (char)]]
+- [[憤慨]] in [[characters/慨 (char)]]
+- [[座敷]] in [[characters/敷 (char)]]
+- [[敷布]] in [[characters/敷 (char)]]
+- [[斬壕]] in [[characters/斬 (char)]]
+- [[鷦明]] in [[characters/明 (char)]]
+- [[昭明]] in [[characters/昭 (char)]]
+- [[望月]] in [[characters/月 (char)]]
+- [[大朋鳥]] in [[characters/朋]]
+- [[words/朕]] in [[characters/朕 (char)]]
+- [[words/未]] in [[characters/未 (char)]]
+- [[千末]] in [[characters/末]], [[lexipedia/Calendar]]
+- [[世紀末]] in [[characters/末]], [[lexipedia/Calendar]]
+- [[words/束]] in [[characters/束 (char)]]
+- [[words/条]] in [[characters/条 (char)]]
+- [[words/枚]] in [[characters/枚 (char)]]
+- [[伊吹]] in [[characters/桧]]
+- [[檜木]] in [[characters/桧]]
+- [[棕櫚主日]] in [[characters/棕]]
+- [[words/業]] in [[characters/業 (char)]]
+- [[大槪]] in [[characters/概 (char)]]
+- [[words/様]] in [[characters/様 (char)]]
+- [[矞]] in [[characters/橘 (char)]]
+- [[意欲]] in [[characters/欲]]
+- [[強欲]] in [[characters/欲]]
+- [[情欲]] in [[characters/欲]]
+- [[食欲]] in [[characters/欲]]
+- [[歯]] in [[characters/歯 (char)]]
+- [[辟歴]] in [[characters/歴]]
+- [[殳]] in [[characters/毀 (char)]]
+- [[words/水]] in [[characters/水 (char)]]
+- [[words/洲]] in [[characters/洲 (char)]]
+- [[滲透]] in [[characters/滲]]
+- [[滲入]] in [[characters/滲]]
+- [[滲出]] in [[characters/滲]]
+- [[滲漏]] in [[characters/滲]]
+- [[words/漆]] in [[characters/漆 (char)]]
+- [[連濁]] in [[characters/濁]]
+- [[廌]] in [[characters/灋]]
+- [[燐火]] in [[characters/燐]]
+- [[燐光]] in [[characters/燐]]
+- [[且爵]] in [[characters/爵]]
+- [[猩紅熱]] in [[characters/猩]]
+- [[黒猩]] in [[characters/猩]]
+- [[大猩]] in [[characters/猩]]
+- [[倭猩]] in [[characters/猩]]
+- [[猩蝿]] in [[characters/猩]]
+- [[猿楽]] in [[characters/猿]]
+- [[猿人]] in [[characters/猿]]
+- [[死亡率]] in [[characters/率]]
+- [[效率]] in [[characters/率]]
+- [[出生率]] in [[characters/率]]
+- [[利率]] in [[characters/率]]
+- [[率直]] in [[characters/率]]
+- [[投票率]] in [[characters/率]]
+- [[率先]] in [[characters/率]]
+- [[百分率]] in [[characters/率]]
+- [[ㄙˇㄝ]] in [[characters/瑞]]
+- [[words/由]] in [[characters/由 (char)]]
+- [[words/番]] in [[characters/番 (char)]]
+- [[真相]] in [[characters/相]]
+- [[弱不禁風]] in [[characters/禁]]
+- [[令行禁止]] in [[characters/禁]]
+- [[禁苑]] in [[characters/禁]]
+- [[嚴禁]] in [[characters/禁]]
+- [[失禁]] in [[characters/禁]]
+- [[拘禁]] in [[characters/禁]]
+- [[海禁]] in [[characters/禁]]
+- [[監禁]] in [[characters/禁]]
+- [[禁令]] in [[characters/禁]]
+- [[禁制]] in [[characters/禁]]
+- [[禁忌]] in [[characters/禁]]
+- [[禁断]] in [[characters/禁]]
+- [[禁書]] in [[characters/禁]]
+- [[禁煙]] in [[characters/禁]]
+- [[禁酒]] in [[characters/禁]]
+- [[紫禁城]] in [[characters/禁]]
+- [[解禁]] in [[characters/禁]]
+- [[禁漁]] in [[characters/禁]]
+- [[禁猟]] in [[characters/禁]]
+- [[軟禁]] in [[characters/禁]]
+- [[䋝絡]] in [[characters/絡 (char)]]
+- [[羊狂]] in [[characters/羊]]
+- [[words/而]] in [[characters/而 (char)]]
+- [[磨耗]] in [[characters/耗]]
+- [[肥桶]] in [[characters/肥]]
+- [[肥瘠]] in [[characters/肥]]
+- [[肥大]] in [[characters/肥]]
+- [[肥満]] in [[characters/肥]]
+- [[厩肥]] in [[characters/肥]]
+- [[堆肥]] in [[characters/肥]]
+- [[化学肥料]] in [[characters/肥]]
+- [[合肥]] in [[characters/肥]]
+- [[土肥]] in [[characters/肥]]
+- [[肥育]] in [[characters/肥]]
+- [[臭膣]] in [[characters/膣 (char)]]
+- [[臘八]] in [[characters/臘]]
+- [[臘八節]] in [[characters/臘]]
+- [[臘八粥]] in [[characters/臘]]
+- [[臘月]] in [[characters/臘]], [[lexipedia/Calendar]]
+- [[臘肉]] in [[characters/臘]]
+- [[山芋]] in [[characters/芋]]
+- [[馬鈴薯]] in [[characters/芋]]
+- [[甘薯]] in [[characters/芋]]
+- [[芝草]] in [[characters/芝]]
+- [[芝罘]] in [[characters/芝]]
+- [[芝麻醤]] in [[characters/芝]]
+- [[香芝]] in [[characters/芝]]
+- [[東芝]] in [[characters/芝]]
+- [[苦役]] in [[characters/苦 (char)]]
+- [[苦難]] in [[characters/苦 (char)]]
+- [[苦肉]] in [[characters/苦 (char)]]
+- [[苦悩]] in [[characters/苦 (char)]]
+- [[刻苦]] in [[characters/苦 (char)]]
+- [[苦味]] in [[characters/苦 (char)]]
+- [[words/草]] in [[characters/草 (char)]]
+- [[words/莫]] in [[characters/莫 (char)]]
+- [[words/薬]] in [[characters/薬 (char)]]
+- [[壁虱]] in [[characters/虱 (char)]]
+- [[words/蚊]] in [[characters/蚊 (char)]]
+- [[蛍火虫]] in [[characters/蛍 (char)]], [[words/蛍]]
+- [[蛍光]] in [[characters/蛍 (char)]], [[words/蛍]]
+- [[寒蝉]] in [[characters/蝉 (char)]]
+- [[words/蝎]] in [[characters/蝎 (char)]]
+- [[明蝦]] in [[characters/蝦]]
+- [[蒦]] in [[characters/蠖]]
+- [[解廌]] in [[characters/解 (char)]]
+- [[試驗]] in [[characters/試]]
+- [[漢詩]] in [[characters/詩]]
+- [[劇詩]] in [[characters/詩]]
+- [[詩人]] in [[characters/詩]]
+- [[詩作]] in [[characters/詩]]
+- [[壕]] in [[characters/豪]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
+- [[words/走]] in [[characters/走 (char)]]
+- [[words/足]] in [[characters/足 (char)]]
+- [[跳梁]] in [[characters/跳]]
+- [[跳梁跋扈]] in [[characters/跳]]
+- [[跳高]] in [[characters/跳]]
+- [[軣軣]] in [[characters/軣]]
+- [[軽歌劇]] in [[characters/軽 (char)]]
+- [[軽金属]] in [[characters/軽 (char)]]
+- [[軽視]] in [[characters/軽 (char)]]
+- [[軽重]] in [[characters/軽 (char)]]
+- [[海辺]] in [[characters/辺]]
+- [[周辺]] in [[characters/辺]]
+- [[斜辺]] in [[characters/辺]]
+- [[国連]] in [[characters/連 (char)]]
+- [[週年]] in [[characters/週]]
+- [[週番]] in [[characters/週]]
+- [[今週]] in [[characters/週]]
+- [[每週]] in [[characters/週]]
+- [[隔週]] in [[characters/週]]
+- [[逼迫]] in [[characters/逼]], [[syllables/ㄅㄧㄎ]]
+- [[別野]] in [[characters/野]]
+- [[礬]] in [[characters/釩 (char)]], [[lookup/Korean/Korean Name ㅂ]], [[words/礬素]], [[words/軽銀]]
+- [[錀琴]] in [[characters/錀 (char)]], [[lexipedia/Periodic Table]]
+- [[樓閣]] in [[characters/閣]]
+- [[words/険]] in [[characters/険 (char)]]
+- [[words/隼]] in [[characters/隼 (char)]]
+- [[words/雨]] in [[characters/雨 (char)]]
+- [[words/雪]] in [[characters/雪 (char)]]
+- [[words/雷]] in [[characters/雷 (char)]]
+- [[閃電]] in [[characters/電]]
+- [[雷電]] in [[characters/電]]
+- [[words/霜]] in [[characters/霜 (char)]]
+- [[words/霧]] in [[characters/霧 (char)]]
+- [[words/露]] in [[characters/露 (char)]]
+- [[words/鞋]] in [[characters/鞋 (char)]]
+- [[words/頁]] in [[characters/頁 (char)]]
+- [[風]] in [[characters/風 (char)]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[words/駅]] in [[characters/駅 (char)]]
+- [[words/駆]] in [[characters/駆 (char)]]
+- [[words/騒]] in [[characters/騒 (char)]]
+- [[words/騙]] in [[characters/騙 (char)]]
+- [[words/骨]] in [[characters/骨 (char)]]
+- [[words/高]] in [[characters/高 (char)]]
+- [[words/鬣]] in [[characters/鬣 (char)]]
+- [[words/魂]] in [[characters/魂 (char)]]
+- [[words/魶]] in [[characters/魶 (char)]]
+- [[words/鮎]] in [[characters/鮎 (char)]]
+- [[words/鮑]] in [[characters/鮑 (char)]]
+- [[words/鱏]] in [[characters/鱏 (char)]]
+- [[words/鳥]] in [[characters/鳥 (char)]]
+- [[雎鳩]] in [[characters/鳩]]
+- [[斑鳩]] in [[characters/鳩]]
+- [[words/鳴]] in [[characters/鳴 (char)]]
+- [[words/鳶]] in [[characters/鳶 (char)]]
+- [[words/鴎]] in [[characters/鴎 (char)]]
+- [[words/鴨]] in [[characters/鴨 (char)]]
+- [[words/鵰]] in [[characters/鵰 (char)]]
+- [[鶏肉]] in [[characters/鶏 (char)]]
+- [[words/鶴]] in [[characters/鶴 (char)]]
+- [[words/鷹]] in [[characters/鷹 (char)]]
+- [[鸚哥]] in [[characters/鸚]]
+- [[words/鹸]] in [[characters/鹸 (char)]]
+- [[麦茶]] in [[characters/麦]]
+- [[words/麺]] in [[characters/麺 (char)]]
+- [[魔女]] in [[characters/麻]]
+- [[魔羅]] in [[characters/麻]]
+- [[麻痺]] in [[characters/麻]]
+- [[黙黙]] in [[characters/黙]]
+- [[天竺鼠]] in [[characters/鼠]]
+- [[尖鼠]] in [[characters/鼠]]
+- [[家鼠]] in [[characters/鼠]]
+- [[田鼠]] in [[characters/鼠]]
+- [[火鼠]] in [[characters/鼠]]
+- [[words/鼻]] in [[characters/鼻 (char)]]
+- [[形助顯理]] in [[chengyu/Dan'a'yo Chengyu]], [[grammar/文法 - 05形態]]
+- [[瞭然]] in [[chengyu/一目瞭然]]
+- [[世仇]] in [[chengyu/世仇宿敵]]
+- [[宿敵]] in [[chengyu/世仇宿敵]]
+- [[世間]] in [[chengyu/世間罪盛]]
+- [[六府]] in [[chengyu/五臓六府]]
+- [[大笑]] in [[chengyu/呵呵大笑]]
+- [[奴家]] in [[chengyu/引出奴家]]
+- [[引出]] in [[chengyu/引出奴家]]
+- [[招災]] in [[chengyu/招災引禍]]
+- [[引禍]] in [[chengyu/招災引禍]]
+- [[寂静]] in [[chengyu/涅盤寂静]]
+- [[生機]] in [[chengyu/生機勃勃]]
+- [[勃勃]] in [[chengyu/生機勃勃]]
+- [[百家]] in [[chengyu/百家共承]]
+- [[空中]] in [[chengyu/空中楼閣]]
+- [[楼閣]] in [[chengyu/空中楼閣]]
+- [[自失]] in [[chengyu/茫然自失]]
+- [[無我]] in [[chengyu/諸法無我]]
+- [[/grammar/文法 - 99Rime Tables]] in [[grammar/単亜語之文法書.en]]
+- [[文法 - 07読本]] in [[grammar/単亜語之文法書]]
+- [[文法 - 99韻図]] in [[grammar/単亜語之文法書]]
+- [[韻図]] in [[grammar/単亜語之文法書]]
+- [[前提]] in [[grammar/文法 - 01序文]]
+- [[専門]] in [[grammar/文法 - 01序文]]
+- [[相関詞]] in [[grammar/文法 - 01序文]]
+- [[上代]] in [[grammar/文法 - 01序文]]
+- [[原理]] in [[grammar/文法 - 01序文]]
+- [[詞彙]] in [[grammar/文法 - 01序文]]
+- [[人名用]] in [[grammar/文法 - 01序文]]
+- [[最大]] in [[grammar/文法 - 01序文]]
+- [[専門語]] in [[grammar/文法 - 01序文]]
+- [[分析]] in [[grammar/文法 - 01序文]]
+- [[汎亜]] in [[grammar/文法 - 01序文]]
+- [[普遍]] in [[grammar/文法 - 01序文]]
+- [[式複]] in [[grammar/文法 - 01序文]]
+- [[合語]] in [[grammar/文法 - 01序文]]
+- [[補助語]] in [[grammar/文法 - 01序文]]
+- [[母語]] in [[grammar/文法 - 01序文]]
+- [[通信]] in [[grammar/文法 - 01序文]], [[lexipedia/Geography]]
+- [[日常]] in [[grammar/文法 - 01序文]]
+- [[中世]] in [[grammar/文法 - 01序文]]
+- [[遺産]] in [[grammar/文法 - 01序文]]
+- [[硬直]] in [[grammar/文法 - 01序文]]
+- [[制度]] in [[grammar/文法 - 01序文]], [[lexipedia/Geography]]
+- [[指標]] in [[grammar/文法 - 01序文]]
+- [[話者]] in [[grammar/文法 - 01序文]]
+- [[視認]] in [[grammar/文法 - 01序文]]
+- [[聴取]] in [[grammar/文法 - 01序文]]
+- [[短期]] in [[grammar/文法 - 01序文]]
+- [[対照]] in [[grammar/文法 - 01序文]]
+- [[理解度]] in [[grammar/文法 - 01序文]]
+- [[急速]] in [[grammar/文法 - 01序文]]
+- [[世宗大王]] in [[grammar/文法 - 02音韻論]]
+- [[正音]] in [[grammar/文法 - 02音韻論]]
+- [[基準]] in [[grammar/文法 - 02音韻論]]
+- [[明確]] in [[grammar/文法 - 02音韻論]]
+- [[精密]] in [[grammar/文法 - 02音韻論]]
+- [[権威]] in [[grammar/文法 - 02音韻論]]
+- [[原則]] in [[grammar/文法 - 02音韻論]], [[lexipedia/Geography]]
+- [[者容易]] in [[grammar/文法 - 02音韻論]]
+- [[韻母]] in [[grammar/文法 - 02音韻論]]
+- [[西洋]] in [[grammar/文法 - 02音韻論]]
+- [[音素]] in [[grammar/文法 - 02音韻論]]
+- [[結合]] in [[grammar/文法 - 02音韻論]]
+- [[異音差]] in [[grammar/文法 - 02音韻論]]
+- [[連続]] in [[grammar/文法 - 02音韻論]]
+- [[長短]] in [[grammar/文法 - 02音韻論]]
+- [[表記]] in [[grammar/文法 - 02音韻論]]
+- [[声母]] in [[grammar/文法 - 02音韻論]]
+- [[介位]] in [[grammar/文法 - 02音韻論]]
+- [[核位]] in [[grammar/文法 - 02音韻論]]
+- [[尾位]] in [[grammar/文法 - 02音韻論]]
+- [[連声]] in [[grammar/文法 - 02音韻論]]
+- [[独立]] in [[grammar/文法 - 02音韻論]], [[lexipedia/Geography]]
+- [[最高点]] in [[grammar/文法 - 02音韻論]]
+- [[簡略]] in [[grammar/文法 - 03文字法]]
+- [[字形]] in [[grammar/文法 - 03文字法]]
+- [[可読]] in [[grammar/文法 - 03文字法]]
+- [[視覚]] in [[grammar/文法 - 03文字法]]
+- [[折衷]] in [[grammar/文法 - 03文字法]]
+- [[均衡]] in [[grammar/文法 - 03文字法]]
+- [[諸音]] in [[grammar/文法 - 03文字法]]
+- [[偏重]] in [[grammar/文法 - 03文字法]]
+- [[韓語]] in [[grammar/文法 - 03文字法]]
+- [[並立]] in [[grammar/文法 - 03文字法]]
+- [[制約]] in [[grammar/文法 - 03文字法]]
+- [[媒介]] in [[grammar/文法 - 03文字法]]
+- [[偏勝]] in [[grammar/文法 - 03文字法]]
+- [[譬喩]] in [[grammar/文法 - 03文字法]]
+- [[義派]] in [[grammar/文法 - 03文字法]]
+- [[傳統]] in [[grammar/文法 - 03文字法]]
+- [[義派生]] in [[grammar/文法 - 03文字法]]
+- [[単語]] in [[grammar/文法 - 03文字法]]
+- [[一字]] in [[grammar/文法 - 03文字法]]
+- [[双字]] in [[grammar/文法 - 03文字法]]
+- [[慣用句]] in [[grammar/文法 - 03文字法]]
+- [[四字]] in [[grammar/文法 - 03文字法]]
+- [[慣用]] in [[grammar/文法 - 03文字法]]
+- [[国別]] in [[grammar/文法 - 03文字法]]
+- [[代用]] in [[grammar/文法 - 03文字法]]
+- [[稀少]] in [[grammar/文法 - 03文字法]]
+- [[実際]] in [[grammar/文法 - 03文字法]]
+- [[字庫]] in [[grammar/文法 - 03文字法]]
+- [[日用必備]] in [[grammar/文法 - 03文字法]]
+- [[文音共決]] in [[grammar/文法 - 04句法.en]], [[grammar/文法 - 04句法]]
+- [[文言承継]] in [[grammar/文法 - 04句法]]
+- [[現代適応]] in [[grammar/文法 - 04句法]]
+- [[接詞]] in [[grammar/文法 - 04句法]]
+- [[附形之助]] in [[grammar/文法 - 05形態]]
+- [[顯句之理]] in [[grammar/文法 - 05形態]]
+- [[連体]] in [[grammar/文法 - 05形態]]
+- [[複数]] in [[grammar/文法 - 05形態]]
+- [[諸語]] in [[grammar/文法 - 05形態]]
+- [[単純]] in [[grammar/文法 - 05形態]]
+- [[標識]] in [[grammar/文法 - 05形態]]
+- [[連帯]] in [[grammar/文法 - 05形態]]
+- [[相当]] in [[grammar/文法 - 05形態]]
+- [[接尾]] in [[grammar/文法 - 05形態]]
+- [[代名詞]] in [[grammar/文法 - 05形態]]
+- [[敬語]] in [[grammar/文法 - 05形態]]
+- [[制限]] in [[grammar/文法 - 05形態]]
+- [[時相]] in [[grammar/文法 - 05形態]]
+- [[完了]] in [[grammar/文法 - 05形態]]
+- [[将然]] in [[grammar/文法 - 05形態]]
+- [[繋辞]] in [[grammar/文法 - 05形態]]
+- [[否定]] in [[grammar/文法 - 05形態]]
+- [[交替]] in [[grammar/文法 - 05形態]]
+- [[要約]] in [[grammar/文法 - 05形態]]
+- [[能力]] in [[grammar/文法 - 05形態]]
+- [[許可]] in [[grammar/文法 - 05形態]]
+- [[受動]] in [[grammar/文法 - 05形態]]
+- [[評詞]] in [[grammar/文法 - 05形態]]
+- [[簡潔]] in [[grammar/文法 - 05形態]]
+- [[重畳]] in [[grammar/文法 - 05形態]]
+- [[韓國語]] in [[grammar/文法 - 05形態]]
+- [[單字]] in [[grammar/文法 - 05形態]]
+- [[合成]] in [[grammar/文法 - 05形態]]
+- [[迂言]] in [[grammar/文法 - 05形態]]
+- [[小辭]] in [[grammar/文法 - 05形態]]
+- [[最極]] in [[grammar/文法 - 05形態]]
+- [[在]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/ㄐㄚ˙]]
+- [[莫]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[于]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[有生]] in [[grammar/文法 - 97品詞]]
+- [[処格]] in [[grammar/文法 - 97品詞]]
+- [[具格]] in [[grammar/文法 - 97品詞]]
+- [[共]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[共格]] in [[grammar/文法 - 97品詞]]
+- [[比較格]] in [[grammar/文法 - 97品詞]]
+- [[由]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/˙ㄨˇ]]
+- [[奪格]] in [[grammar/文法 - 97品詞]]
+- [[終止格]] in [[grammar/文法 - 97品詞]]
+- [[類似格]] in [[grammar/文法 - 97品詞]]
+- [[向格]] in [[grammar/文法 - 97品詞]]
+- [[様]] in [[grammar/文法 - 97品詞]]
+- [[様態格]] in [[grammar/文法 - 97品詞]]
+- [[公]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]]
+- [[修飾語]] in [[grammar/文法 - 97品詞]]
+- [[時制]] in [[grammar/文法 - 97品詞]]
+- [[未]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[指示詞]] in [[grammar/文法 - 97品詞]]
+- [[量化詞]] in [[grammar/文法 - 97品詞]]
+- [[多]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[情態]] in [[grammar/文法 - 97品詞]]
+- [[可不]] in [[grammar/文法 - 97品詞]]
+- [[不可不]] in [[grammar/文法 - 97品詞]]
+- [[可以]] in [[grammar/文法 - 97品詞]]
+- [[不可以]] in [[grammar/文法 - 97品詞]]
+- [[擬詞]] in [[grammar/文法 - 97品詞]]
+- [[網語体]] in [[grammar/文法 - 97品詞]]
+- [[朕]] in [[grammar/文法 - 97品詞]], [[words/我]]
+- [[依存]] in [[grammar/文法 - 97品詞]]
+- [[自立]] in [[grammar/文法 - 97品詞]]
+- [[感詞]] in [[grammar/文法 - 97品詞]]
+- [[台]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[匹]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[冊]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]]
+- [[枚]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[syllables/ㄇㄛ˙]]
+- [[条]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/ㄐㄛ]]
+- [[番]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[束]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鳥]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]]
+- [[草]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[皆様]] in [[grammar/文法 - 97品詞]]
+- [[毎多]] in [[grammar/文法 - 97品詞]]
+- [[皆多]] in [[grammar/文法 - 97品詞]]
+- [[何名]] in [[grammar/文法 - 97品詞]]
+- [[虎鯨]] in [[grammar/文法 - 98違法字]]
+- [[虎鯉魚]] in [[grammar/文法 - 98違法字]]
+- [[鴨]] in [[lexipedia/Animals]], [[lookup/HSK/Old HSK 3]]
+- [[兎]] in [[lexipedia/Animals]], [[syllables/ㄊㄛ]]
+- [[猟]] in [[lexipedia/Animals]]
+- [[分類学]] in [[lexipedia/Animals]]
+- [[聴衆]] in [[lexipedia/Art]]
+- [[宇宙人]] in [[lexipedia/Astronomy]], [[words/宇宙]]
+- [[啓明]] in [[lexipedia/Astronomy]]
+- [[太白星]] in [[lexipedia/Astronomy]]
+- [[矮行星]] in [[lexipedia/Astronomy]]
+- [[䦧神星]] in [[lexipedia/Astronomy]]
+- [[小行星帯]] in [[lexipedia/Astronomy]]
+- [[新星]] in [[lexipedia/Astronomy]]
+- [[天頂]] in [[lexipedia/Astronomy]]
+- [[天底]] in [[lexipedia/Astronomy]]
+- [[分点]] in [[lexipedia/Astronomy]]
+- [[至点]] in [[lexipedia/Astronomy]]
+- [[至日]] in [[lexipedia/Astronomy]]
+- [[冬至]] in [[lexipedia/Astronomy]], [[lexipedia/Calendar]]
+- [[天干]] in [[lexipedia/Astronomy]], [[words/乙]]
+- [[地支]] in [[lexipedia/Astronomy]]
+- [[翌日]] in [[lexipedia/Calendar]]
+- [[前日]] in [[lexipedia/Calendar]]
+- [[隔日]] in [[lexipedia/Calendar]]
+- [[連日]] in [[lexipedia/Calendar]]
+- [[週初]] in [[lexipedia/Calendar]]
+- [[週中]] in [[lexipedia/Calendar]]
+- [[月初]] in [[lexipedia/Calendar]]
+- [[月中]] in [[lexipedia/Calendar]]
+- [[寅月]] in [[lexipedia/Calendar]]
+- [[卯月]] in [[lexipedia/Calendar]]
+- [[辰月]] in [[lexipedia/Calendar]]
+- [[巳月]] in [[lexipedia/Calendar]]
+- [[午月]] in [[lexipedia/Calendar]]
+- [[未月]] in [[lexipedia/Calendar]]
+- [[申月]] in [[lexipedia/Calendar]]
+- [[酉月]] in [[lexipedia/Calendar]]
+- [[戌月]] in [[lexipedia/Calendar]]
+- [[亥月]] in [[lexipedia/Calendar]]
+- [[子月]] in [[lexipedia/Calendar]]
+- [[丑月]] in [[lexipedia/Calendar]]
+- [[正月]] in [[lexipedia/Calendar]]
+- [[杏月]] in [[lexipedia/Calendar]]
+- [[桃月]] in [[lexipedia/Calendar]]
+- [[槐月]] in [[lexipedia/Calendar]]
+- [[榴月]] in [[lexipedia/Calendar]]
+- [[荷月]] in [[lexipedia/Calendar]]
+- [[蘭月]] in [[lexipedia/Calendar]]
+- [[桂月]] in [[lexipedia/Calendar]]
+- [[菊月]] in [[lexipedia/Calendar]]
+- [[良月]] in [[lexipedia/Calendar]]
+- [[冬月]] in [[lexipedia/Calendar]]
+- [[四日]] in [[lexipedia/Calendar]]
+- [[五日]] in [[lexipedia/Calendar]]
+- [[六日]] in [[lexipedia/Calendar]]
+- [[十日]] in [[lexipedia/Calendar]]
+- [[即日]] in [[lexipedia/Calendar]]
+- [[是日]] in [[lexipedia/Calendar]]
+- [[次日]] in [[lexipedia/Calendar]]
+- [[千年紀]] in [[lexipedia/Calendar]]
+- [[上半期]] in [[lexipedia/Calendar]]
+- [[下半期]] in [[lexipedia/Calendar]]
+- [[同年]] in [[lexipedia/Calendar]]
+- [[千初]] in [[lexipedia/Calendar]]
+- [[千中]] in [[lexipedia/Calendar]]
+- [[元日]] in [[lexipedia/Calendar]]
+- [[陰暦年]] in [[lexipedia/Calendar]]
+- [[旧正月]] in [[lexipedia/Calendar]]
+- [[上弦]] in [[lexipedia/Calendar]]
+- [[望日]] in [[lexipedia/Calendar]]
+- [[下弦]] in [[lexipedia/Calendar]]
+- [[晦日]] in [[lexipedia/Calendar]]
+- [[閏年]] in [[lexipedia/Calendar]]
+- [[平年]] in [[lexipedia/Calendar]]
+- [[閏月]] in [[lexipedia/Calendar]]
+- [[太陽暦]] in [[lexipedia/Calendar]]
+- [[太陰暦]] in [[lexipedia/Calendar]]
+- [[太陰太陽暦]] in [[lexipedia/Calendar]]
+- [[暦法]] in [[lexipedia/Calendar]]
+- [[紀年]] in [[lexipedia/Calendar]]
+- [[世紀初]] in [[lexipedia/Calendar]]
+- [[世紀中]] in [[lexipedia/Calendar]]
+- [[元号]] in [[lexipedia/Calendar]]
+- [[改元]] in [[lexipedia/Calendar]]
+- [[元年]] in [[lexipedia/Calendar]]
+- [[四季]] in [[lexipedia/Calendar]]
+- [[春分]] in [[lexipedia/Calendar]]
+- [[秋分]] in [[lexipedia/Calendar]]
+- [[休日]] in [[lexipedia/Calendar]]
+- [[祝日]] in [[lexipedia/Calendar]]
+- [[記念日]] in [[lexipedia/Calendar]]
+- [[祭日]] in [[lexipedia/Calendar]]
+- [[予定]] in [[lexipedia/Calendar]]
+- [[日程]] in [[lexipedia/Calendar]]
+- [[締切]] in [[lexipedia/Calendar]]
+- [[期限]] in [[lexipedia/Calendar]]
+- [[茶色]] in [[lexipedia/Color]]
+- [[灰色]] in [[lexipedia/Color]]
+- [[橙色]] in [[lexipedia/Color]]
+- [[桃色]] in [[lexipedia/Color]]
+- [[防守]] in [[lexipedia/Geography]]
+- [[広土]] in [[lexipedia/Geography]]
+- [[国主]] in [[lexipedia/Geography]]
+- [[立憲]] in [[lexipedia/Geography]]
+- [[内乱]] in [[lexipedia/Geography]]
+- [[外戦]] in [[lexipedia/Geography]]
+- [[改革]] in [[lexipedia/Geography]]
+- [[媒体]] in [[lexipedia/Geography]]
+- [[東伝]] in [[lexipedia/Geography]]
+- [[熱帯]] in [[lexipedia/Geography]]
+- [[気候]] in [[lexipedia/Geography]]
+- [[島嶼群]] in [[lexipedia/Geography]]
+- [[海峡]] in [[lexipedia/Geography]]
+- [[殖民]] in [[lexipedia/Geography]]
+- [[体制]] in [[lexipedia/Geography]]
+- [[獅城]] in [[lexipedia/Geography]], [[words/新嘉浦]]
+- [[星洲]] in [[lexipedia/Geography]], [[words/新嘉浦]]
+- [[菲]] in [[lexipedia/Geography]], [[lookup/Korean/Korean Name ㅂ]]
+- [[商路]] in [[lexipedia/Geography]]
+- [[南亜]] in [[lexipedia/Geography]]
+- [[高山]] in [[lexipedia/Geography]]
+- [[界線]] in [[lexipedia/Geography]]
+- [[西亜]] in [[lexipedia/Geography]]
+- [[沙漠]] in [[lexipedia/Geography]]
+- [[地帯]] in [[lexipedia/Geography]]
+- [[要地]] in [[lexipedia/Geography]]
+- [[中亜]] in [[lexipedia/Geography]]
+- [[興起]] in [[lexipedia/Geography]]
+- [[拡散]] in [[lexipedia/Geography]]
+- [[波斯]] in [[lexipedia/Geography]]
+- [[奥斯曼]] in [[lexipedia/Geography]]
+- [[内海]] in [[lexipedia/Geography]]
+- [[蘇格蘭]] in [[lexipedia/Geography]]
+- [[欽婁]] in [[lexipedia/Geography]]
+- [[愛爾蘭]] in [[lexipedia/Geography]]
+- [[大不列顛]] in [[lexipedia/Geography]]
+- [[共和國]] in [[lexipedia/Geography]]
+- [[荷蘭]] in [[lexipedia/Geography]]
+- [[瑞士]] in [[lexipedia/Geography]]
+- [[挪]] in [[lexipedia/Geography]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄴ]]
+- [[多様]] in [[lexipedia/Geography]]
+- [[語言]] in [[lexipedia/Geography]]
+- [[国境]] in [[lexipedia/Geography]]
+- [[不均]] in [[lexipedia/Geography]]
+- [[南非]] in [[lexipedia/Geography]]
+- [[尼羅河]] in [[lexipedia/Geography]]
+- [[北美]] in [[lexipedia/Geography]]
+- [[南美]] in [[lexipedia/Geography]]
+- [[資源]] in [[lexipedia/Geography]]
+- [[分布]] in [[lexipedia/Geography]]
+- [[島嶼]] in [[lexipedia/Geography]]
+- [[密度]] in [[lexipedia/Geography]]
+- [[航路]] in [[lexipedia/Geography]]
+- [[主権]] in [[lexipedia/Geography]]
+- [[調解]] in [[lexipedia/Geography]]
+- [[互依]] in [[lexipedia/Geography]]
+- [[全球]] in [[lexipedia/Geography]]
+- [[相対]] in [[lexipedia/Geography]]
+- [[持続]] in [[lexipedia/Geography]]
+- [[変動]] in [[lexipedia/Geography]]
+- [[連合国]] in [[lexipedia/Geography]]
+- [[基金]] in [[lexipedia/Geography]]
+- [[多辺]] in [[lexipedia/Geography]]
+- [[協議]] in [[lexipedia/Geography]]
+- [[北美洲]] in [[lexipedia/Geography]], [[words/美洲]]
+- [[南美洲]] in [[lexipedia/Geography]], [[words/美洲]]
+- [[南極洲]] in [[lexipedia/Geography]]
+- [[太平]] in [[lexipedia/Geography]]
+- [[大西洋]] in [[lexipedia/Geography]]
+- [[北冰洋]] in [[lexipedia/Geography]]
+- [[南冰洋]] in [[lexipedia/Geography]]
+- [[地中海]] in [[lexipedia/Geography]]
+- [[南海]] in [[lexipedia/Geography]]
+- [[図法]] in [[lexipedia/Geography]]
+- [[四海]] in [[lexipedia/Geography]]
+- [[東海]] in [[lexipedia/Geography]]
+- [[西海]] in [[lexipedia/Geography]]
+- [[北海]] in [[lexipedia/Geography]]
+- [[方位]] in [[lexipedia/Geography]]
+- [[界水]] in [[lexipedia/Geography]]
+- [[治域]] in [[lexipedia/Geography]]
+- [[環状]] in [[lexipedia/Geography]]
+- [[王域]] in [[lexipedia/Geography]]
+- [[並列]] in [[lexipedia/Geography]]
+- [[宇宙観]] in [[lexipedia/Geography]]
+- [[lexipedia/Containers]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Dimensions]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Directions]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Efforts]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Emotions]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Events]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Existence]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Government]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Kinship]] in [[lexipedia/Lexipedia]], [[words/父父]]
+- [[lexipedia/Knowledge]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Law]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Life]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Light]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Locatives]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Love]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Measurement]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Mind]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Movement]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Nature]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Physical]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Physics]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Plants]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Possession]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Religion]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Shape]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Sensation]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Sex]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Sin]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Society]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Speech]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Substances]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Time]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Tools]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Trade]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/Valuation]] in [[lexipedia/Lexipedia]]
+- [[lexipedia/War]] in [[lexipedia/Lexipedia]]
+- [[両]] in [[lexipedia/Numbers]]
+- [[単独]] in [[lexipedia/Numbers]]
+- [[二回]] in [[lexipedia/Numbers]]
+- [[二度]] in [[lexipedia/Numbers]]
+- [[双子]] in [[lexipedia/Numbers]]
+- [[横数]] in [[lexipedia/Numbers]]
+- [[無限]] in [[lexipedia/Numbers]]
+- [[徳素]] in [[lexipedia/Periodic Table]]
+- [[砒素]] in [[lexipedia/Periodic Table]]
+- [[月素]] in [[lexipedia/Periodic Table]]
+- [[臭素]] in [[lexipedia/Periodic Table]]
+- [[潜素]] in [[lexipedia/Periodic Table]]
+- [[康金]] in [[lexipedia/Periodic Table]]
+- [[釩金]] in [[lexipedia/Periodic Table]]
+- [[色金]] in [[lexipedia/Periodic Table]]
+- [[孟金]] in [[lexipedia/Periodic Table]]
+- [[鬼金]] in [[lexipedia/Periodic Table]]
+- [[鬼銅]] in [[lexipedia/Periodic Table]]
+- [[蛍金]] in [[lexipedia/Periodic Table]]
+- [[晶金]] in [[lexipedia/Periodic Table]]
+- [[鈩金]] in [[lexipedia/Periodic Table]]
+- [[不真]] in [[lexipedia/Sophomore List]]
+- [[湾曲]] in [[lexipedia/Sophomore List]]
+- [[中子]] in [[lexipedia/Sophomore List]]
+- [[海峽]] in [[lexipedia/Sophomore List]]
+- [[堰堤,]] in [[lexipedia/Sophomore List]]
+- [[鷹]] in [[lexipedia/Sophomore List]], [[lookup/HSK/Old HSK 4]]
+- [[鵰]] in [[lexipedia/Sophomore List]]
+- [[奈良]] in [[lexipedia/歴史綱要]]
+- [[三国]] in [[lexipedia/歴史綱要]]
+- [[高句麗]] in [[lexipedia/歴史綱要]]
+- [[新羅]] in [[lexipedia/歴史綱要]]
+- [[統一新羅]] in [[lexipedia/歴史綱要]]
+- [[高麗]] in [[lexipedia/歴史綱要]]
+- [[鎌倉]] in [[lexipedia/歴史綱要]]
+- [[室町]] in [[lexipedia/歴史綱要]]
+- [[安土桃山]] in [[lexipedia/歴史綱要]]
+- [[江戸]] in [[lexipedia/歴史綱要]]
+- [[徳川]] in [[lexipedia/歴史綱要]]
+- [[李氏]] in [[lexipedia/歴史綱要]]
+- [[大韓帝国]] in [[lexipedia/歴史綱要]]
+- [[国民党]] in [[lexipedia/歴史綱要]]
+- [[共産党]] in [[lexipedia/歴史綱要]], [[words/越共]]
+- [[民国]] in [[lexipedia/歴史綱要]]
+- [[大韓民国]] in [[lexipedia/歴史綱要]]
+- [[小学]] in [[lexipedia/歴史綱要]]
+- [[諸子百家]] in [[lexipedia/歴史綱要]]
+- [[上知]] in [[lexipedia/歴史綱要]]
+- [[下愚]] in [[lexipedia/歴史綱要]]
+- [[法家]] in [[lexipedia/歴史綱要]]
+- [[書院]] in [[lexipedia/歴史綱要]]
+- [[孝廉]] in [[lexipedia/歴史綱要]]
+- [[太学]] in [[lexipedia/歴史綱要]]
+- [[僕射]] in [[lexipedia/歴史綱要]]
+- [[射策]] in [[lexipedia/歴史綱要]]
+- [[律学]] in [[lexipedia/歴史綱要]]
+- [[樣]] in [[lookup/HSK/HSK Beginner]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[袈]] in [[lookup/HSK/HSK No]]
+- [[銓]] in [[lookup/HSK/HSK No]]
+- [[藪]] in [[lookup/HSK/HSK No]], [[lookup/Japanese/Hyōgai]]
+- [[鱧]] in [[lookup/HSK/HSK No]]
+- [[极]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[计]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[划]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[繼]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[續]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 4]]
+- [[继]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[续]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 4]]
+- [[坚]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[檢]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[检]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[單]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[简]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[单]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[將]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[饺]] in [[lookup/HSK/Old HSK 1]]
+- [[绍]] in [[lookup/HSK/Old HSK 1]]
+- [[紧]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[张]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[濟]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 4]]
+- [[济]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 4]]
+- [[驗]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[验]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[咖]] in [[lookup/HSK/Old HSK 1]]
+- [[试]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[嗽]] in [[lookup/HSK/Old HSK 1]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[难]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[篮]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]]
+- [[驾]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[离]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[禮]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[歷]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[历]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[连]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[聯]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[繫]] in [[lookup/HSK/Old HSK 1]]
+- [[联]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[练]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[凉]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[领]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[錄]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[录]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[烦]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 4]]
+- [[马]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[滿]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[满]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[门]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[內]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[夠]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]]
+- [[够]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]]
+- [[级]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[纪]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[輕]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[轻]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[奶]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[评]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[啤]] in [[lookup/HSK/Old HSK 1]]
+- [[蘋]] in [[lookup/HSK/Old HSK 1]]
+- [[铅]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]]
+- [[况]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[热]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[收]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[錶]] in [[lookup/HSK/Old HSK 1]]
+- [[舒]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[數]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[舍]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[虽]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[阳]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[态]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[讨]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[论]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[别]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[寫]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[圖]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[图]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[书]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[馆]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[團]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[团]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[袜]] in [[lookup/HSK/Old HSK 1]]
+- [[險]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[险]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[伟]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[题]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[3]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[实]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[體]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[從]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[邊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[分]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[电]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[场]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[机]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[步]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[处]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[處]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[费]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[M]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[應]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[应]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[报]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[做]] in [[lookup/HSK/Old HSK 2]]
+- [[K]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[调]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[运]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[著]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[护]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[过]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[话]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[ǚ]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[个]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[关]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[關]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[广]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[结]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[水]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[队]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[而]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[words/与]]
+- [[經]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[经]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[怕]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[區]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[样]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[约]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[爭]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[语]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[复]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[统]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[沒]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[东]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[ǜ]] in [[lookup/HSK/Old HSK 2]]
+- [[观]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[觀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[廣]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[积]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[术]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[座]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[冰]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[补]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[曾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[传]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[黨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[假]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[仅]] in [[lookup/HSK/Old HSK 2]]
+- [[卷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[军]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[鄉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[乡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[针]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[质]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[达]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[产]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[產]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[高]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[节]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[伙]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[确]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[风]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[梯]] in [[lookup/HSK/Old HSK 2]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
+- [[读]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[讀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[女]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[號]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[见]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[谈]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[太]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[顯]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[哪]] in [[lookup/HSK/Old HSK 2]]
+- [[亲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[山]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[适]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[细]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[严]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[嚴]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[优]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[战]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[戰]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[专]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[專]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[创]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[订]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[斷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[赶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[趕]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[挥]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[减]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[就]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[决]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[认]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[胜]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[顺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[隨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[圍]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[围]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鲜]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[线]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[许]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[选]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[则]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[种]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[抓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[轉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[转]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[卫]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[笔]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[條]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[标]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[课]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[间]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[足]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[听]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+- [[聽]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[德]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[园]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鬥]] in [[lookup/HSK/Old HSK 2]]
+- [[觉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[覺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[兴]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[资]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[构]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[规]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[际]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[國]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[红]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[议]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[乎]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[價]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[价]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[值]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[渐]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[讲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[备]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[乐]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[樂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[爷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[现]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[效]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[狀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[览]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[覽]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[总]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[總]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[哎]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[败]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[帮]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[幫]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[并]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[稱]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[朵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[顾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[环]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[奖]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[獎]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[盡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[靜]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[类]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[临]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[另]] in [[lookup/HSK/Old HSK 2]]
+- [[ü]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[貓]] in [[lookup/HSK/Old HSK 2]]
+- [[梦]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[灭]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[闹]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鬧]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[盘]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鐵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[铁]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[涂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[穩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[稳]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[獻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[项]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[壓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[压]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[养]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[灾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[织]] in [[lookup/HSK/Old HSK 2]]
+- [[钻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[办]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[导]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[榜]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[晚]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[证]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[證]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[歉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]]
+- [[鼻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[吗]] in [[lookup/HSK/Old HSK 2]]
+- [[嗎]] in [[lookup/HSK/Old HSK 2]]
+- [[彻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[徹]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[衬]] in [[lookup/HSK/Old HSK 2]]
+- [[衫]] in [[lookup/HSK/Old HSK 2]], [[lookup/Korean/Korean Name ㅅ]]
+- [[襯]] in [[lookup/HSK/Old HSK 2]]
+- [[赞]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[为]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[诚]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[吃]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[陆]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[擔]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[糕]] in [[lookup/HSK/Old HSK 2]]
+- [[视]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[查]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[伍]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[抖]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[荣]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[榮]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[仿]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[纷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[奋]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[刚]] in [[lookup/HSK/Old HSK 2]]
+- [[据]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[據]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[师]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[估]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[骨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[众]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[眾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[罐]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[码]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[坏]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[壞]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[欢]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[歡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[黃]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[忆]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[获]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[艰]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[训]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[阶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[屬]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[剧]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[举]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[舉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[絕]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[俱]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[脑]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[碰]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[餘]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[悄]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[设]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[终]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[维]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[找]] in [[lookup/HSK/Old HSK 2]]
+- [[邀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+- [[醫]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[营]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[營]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[拥]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[游]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[圆]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[阅]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[閱]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[增]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[职]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[庄]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[莊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[仔]] in [[lookup/HSK/Old HSK 2]], [[lookup/Japanese/Hyōgai]]
+- [[拔]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[笨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[闭]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[编]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[踩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[藏]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[册]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[插]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[拆]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[尝]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[吵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[闯]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[趁]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[乘]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[冲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[醋]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[弹]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[彈]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[挡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[擋]] in [[lookup/HSK/Old HSK 2]]
+- [[岛]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[递]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[遞]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[吊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[钓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[顶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[冻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[吨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[夺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[躲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[鹅]] in [[lookup/HSK/Old HSK 2]]
+- [[份]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[逛]] in [[lookup/HSK/Old HSK 2]]
+- [[嘿]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[哼]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[壶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[壺]] in [[lookup/HSK/Old HSK 2]]
+- [[户]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[戶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[货]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[夾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[拣]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[捡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[撿]] in [[lookup/HSK/Old HSK 2]]
+- [[较]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[屆]] in [[lookup/HSK/Old HSK 2]]
+- [[劲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[砍]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[扛]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[烤]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[颗]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[扣]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[宽]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[寬]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[矿]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[礦]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[捆]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[拦]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[攔]] in [[lookup/HSK/Old HSK 2]]
+- [[懒]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[烂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[捞]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[撈]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[雷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[两]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[兩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[铃]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[龙]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[露]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[骂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[迈]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[每]] in [[lookup/HSK/Old HSK 2]]
+- [[庙]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[亩]] in [[lookup/HSK/Old HSK 2]]
+- [[鸟]] in [[lookup/HSK/Old HSK 2]]
+- [[扭]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[浓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[炮]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[赔]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[喷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[飘]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[飄]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㅍ]]
+- [[坡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[扑]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[铺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[鋪]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅍ]]
+- [[牵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[枪]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[抢]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[搶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[瞧]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[穷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[圈]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[劝]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[勸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[卻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[嚷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[扔]] in [[lookup/HSK/Old HSK 2]]
+- [[软]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[撒]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[伞]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[扫]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[杀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[傻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[闪]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[诗]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[濕]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[瘦]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[摔]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[甩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[絲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[丝]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[撕]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[碎]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[缩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[燙]] in [[lookup/HSK/Old HSK 2]]
+- [[烫]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[趟]] in [[lookup/HSK/Old HSK 2]]
+- [[贴]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[铜]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[托]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]]
+- [[挖]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[彎]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[喂]] in [[lookup/HSK/Old HSK 2]]
+- [[闻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[霧]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[雾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[戏]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[吓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[掀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[闲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[縣]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[县]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[鹽]] in [[lookup/HSK/Old HSK 2]]
+- [[盐]] in [[lookup/HSK/Old HSK 2]]
+- [[搖]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[摇]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[咬]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[银]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[與]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[咋]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[扎]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[漲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[涨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[阵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[睜]] in [[lookup/HSK/Old HSK 2]]
+- [[睁]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[组]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[醉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[Ā]] in [[lookup/HSK/Old HSK 2]]
+- [[呀]] in [[lookup/HSK/Old HSK 2]]
+- [[贵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[寶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[纸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[毕]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[宾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[饼]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[脖]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[习]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[佈]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅍ]]
+- [[购]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[厅]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[廁]] in [[lookup/HSK/Old HSK 2]]
+- [[沉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[默]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[讚]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[恳]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[惊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[膀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[叠]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[疊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[蟲]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[廚]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[聪]] in [[lookup/HSK/Old HSK 2]]
+- [[聰]] in [[lookup/HSK/Old HSK 2]]
+- [[扰]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[膽]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[词]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[D]] in [[lookup/HSK/Old HSK 2]]
+- [[敌]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[带]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[帶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[址]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[臺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[懂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[獨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[肚]] in [[lookup/HSK/Old HSK 2]]
+- [[扬]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[范]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[纺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[弃]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[吩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
+- [[咐]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]], [[lookup/Korean/Korean Name ㅂ]]
+- [[愤]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[妇]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[胳]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[膊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]], [[lookup/Korean/Korean Name ㅂ]]
+- [[跟]] in [[lookup/HSK/Old HSK 2]]
+- [[艺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[藝]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[给]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[巩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[鞏]] in [[lookup/HSK/Old HSK 2]], [[lookup/Korean/Korean Name ㄱ]]
+- [[贡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[勵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[挂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[键]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[贯]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[辉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[阔]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[G]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[黑]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[猴]] in [[lookup/HSK/Old HSK 2]]
+- [[亂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鬍]] in [[lookup/HSK/Old HSK 2]]
+- [[畫]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[泼]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[潑]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[跃]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[几]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[锐]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[銳]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[筑]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]]
+- [[酱]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[醬]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[换]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[骄]] in [[lookup/HSK/Old HSK 2]]
+- [[驕]] in [[lookup/HSK/Old HSK 2]]
+- [[觸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[释]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[釋]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[儘]] in [[lookup/HSK/Old HSK 2]], [[lookup/Japanese/Hyōgai]]
+- [[竞]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[纠]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[闢]] in [[lookup/HSK/Old HSK 2]]
+- [[虑]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[怜]] in [[lookup/HSK/Old HSK 2]]
+- [[裤]] in [[lookup/HSK/Old HSK 2]]
+- [[褲]] in [[lookup/HSK/Old HSK 2]]
+- [[筷]] in [[lookup/HSK/Old HSK 2]]
+- [[扩]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[垃]] in [[lookup/HSK/Old HSK 2]]
+- [[圾]] in [[lookup/HSK/Old HSK 2]]
+- [[戀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[粮]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[邻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[鄰]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[灵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[靈]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[钱]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[錢]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[樓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[轮]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[萝]] in [[lookup/HSK/Old HSK 2]]
+- [[买]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[卖]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[賣]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[馒]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[贸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[错]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[丽]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[亮]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[龄]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[齡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[肤]] in [[lookup/HSK/Old HSK 2]]
+- [[劳]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[勞]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[乒]] in [[lookup/HSK/Old HSK 2]]
+- [[乓]] in [[lookup/HSK/Old HSK 2]]
+- [[樸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[它]] in [[lookup/HSK/Old HSK 2]]
+- [[启]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[啟]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[签]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[簽]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅊ]]
+- [[盜]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[桥]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[樑]] in [[lookup/HSK/Old HSK 2]]
+- [[鬆]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[绪]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[庆]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[嗓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[嫂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅅ]]
+- [[脉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[绳]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[繩]] in [[lookup/HSK/Old HSK 2]]
+- [[狮]] in [[lookup/HSK/Old HSK 2]]
+- [[帕]] in [[lookup/HSK/Old HSK 2]]
+- [[树]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[雙]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[稻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[损]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[谓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[毯]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]]
+- [[厌]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[厭]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[倡]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Korean/Korean Name ㅊ]]
+- [[讯]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[击]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[擊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[兔]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[脫]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[网]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[违]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[污]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[误]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[烟]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[牺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
+- [[犧]] in [[lookup/HSK/Old HSK 2]]
+- [[纤]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[纖]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[羡]] in [[lookup/HSK/Old HSK 2]]
+- [[肠]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[皂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[详]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[响]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[麥]] in [[lookup/HSK/Old HSK 2]]
+- [[晓]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[曉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[脏]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[臟]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[势]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[兄]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[syllables/ㄏ˙ㄛㄥ]]
+- [[虛]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[择]] in [[lookup/HSK/Old HSK 2]]
+- [[擇]] in [[lookup/HSK/Old HSK 2]]
+- [[寻]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[肃]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[肅]] in [[lookup/HSK/Old HSK 2]]
+- [[泪]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[淚]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[叶]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[仪]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[异]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[雨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[预]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[預]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[愿]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[输]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[杂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[雜]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[暂]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[贊]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[责]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[这]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[徵]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[执]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[药]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[藥]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[贺]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
+- [[变]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[變]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[综]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+- [[走]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[动]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[儿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[兒]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[气]] in [[lookup/HSK/Old HSK 3]]
+- [[氣]] in [[lookup/HSK/Old HSK 3]]
+- [[實]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[说]] in [[lookup/HSK/Old HSK 3]]
+- [[說]] in [[lookup/HSK/Old HSK 3]]
+- [[头]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[出]] in [[lookup/HSK/Old HSK 3]]
+- [[长]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[无]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[发]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[發]] in [[lookup/HSK/Old HSK 3]]
+- [[对]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[對]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[光]] in [[lookup/HSK/Old HSK 3]]
+- [[拜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[腦]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[惡]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[农]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[裝]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[员]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[负]] in [[lookup/HSK/Old HSK 3]]
+- [[问]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[进]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[测]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[傳]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[汇]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[匯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[飞]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[废]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[廢]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[怀]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[懷]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[务]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[缓]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[强]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[权]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[權]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[溫]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[协]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[掩]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅇ]]
+- [[边]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[财]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[远]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[识]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[亏]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[虧]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅎ]]
+- [[窗]] in [[lookup/HSK/Old HSK 3]]
+- [[纯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[洁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[燈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[笼]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[爐]] in [[lookup/HSK/Old HSK 3]]
+- [[钉]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[礙]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[迹]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[载]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[驶]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[駛]] in [[lookup/HSK/Old HSK 3]]
+- [[监]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[舅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[罩]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[摄]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[攝]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[请]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[伤]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[聲]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[售]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[爱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[氧]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[Y]] in [[lookup/HSK/Old HSK 3]]
+- [[遗]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[镇]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[壯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[哟]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[喲]] in [[lookup/HSK/Old HSK 3]]
+- [[罢]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[摆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[诵]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[疆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[缘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[緣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[辑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[輯]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]]
+- [[剥]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[怎]] in [[lookup/HSK/Old HSK 3]]
+- [[么]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[缝]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[參]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[谋]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[库]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[苍]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[颤]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[顫]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅈ]]
+- [[尘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[迟]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[遲]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[摧]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[毁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[诞]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[腾]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[惦]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[记]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[顿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[锁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[疯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[盖]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[纲]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[币]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[辭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[宫]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[钩]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[辜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄱ]]
+- [[柜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[峽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[宏]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[华]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[哗]] in [[lookup/HSK/Old HSK 3]]
+- [[雪]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[层]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[揭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[鱼]] in [[lookup/HSK/Old HSK 3]]
+- [[俏]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㅊ]]
+- [[廳]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[饮]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[润]] in [[lookup/HSK/Old HSK 3]]
+- [[魂]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[廓]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]], [[lookup/Korean/Korean Name ㅎ]]
+- [[摩]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[胀]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[贫]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[氛]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[舊]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[圣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[剩]] in [[lookup/HSK/Old HSK 3]]
+- [[岁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[歲]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[孙]] in [[lookup/HSK/Old HSK 3]]
+- [[徑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[顽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[奈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[媳]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[悬]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[點]] in [[lookup/HSK/Old HSK 3]]
+- [[疗]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[阴]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[豫]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[佔]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[挣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[掙]] in [[lookup/HSK/Old HSK 3]]
+- [[皱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[奧]] in [[lookup/HSK/Old HSK 3]]
+- [[扒]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[坝]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[壩]] in [[lookup/HSK/Old HSK 3]]
+- [[访]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[瓣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[绑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[綁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[磅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
+- [[袱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[辈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[甭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[辩]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[辯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[拨]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[撥]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[菠]] in [[lookup/HSK/Old HSK 3]]
+- [[骤]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[驟]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅊ]]
+- [[殘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[蠶]] in [[lookup/HSK/Old HSK 3]]
+- [[惭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[慚]] in [[lookup/HSK/Old HSK 3]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[慘]] in [[lookup/HSK/Old HSK 3]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[灿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[仓]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蝇]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[蠅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[舱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[纵]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[縱]] in [[lookup/HSK/Old HSK 3]]
+- [[侧]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[秧]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㅇ]]
+- [[铲]] in [[lookup/HSK/Old HSK 3]]
+- [[鏟]] in [[lookup/HSK/Old HSK 3]]
+- [[厂]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[钞]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[鈔]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]]
+- [[额]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[溼]] in [[lookup/HSK/Old HSK 3]]
+- [[辆]] in [[lookup/HSK/Old HSK 3]]
+- [[輛]] in [[lookup/HSK/Old HSK 3]]
+- [[厢]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[廂]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅅ]]
+- [[扯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[陈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[撑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[帘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[瓷]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅈ]]
+- [[从]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[匆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[丛]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[凑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[窜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[搓]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[档]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[檔]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[屿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[嶼]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㅅ]]
+- [[霉]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[蹬]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[凳]] in [[lookup/HSK/Old HSK 3]]
+- [[瞪]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[垫]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[奠]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[雕]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[盯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[陡]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[浆]] in [[lookup/HSK/Old HSK 3]]
+- [[漿]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]]
+- [[兑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[兌]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅌ]]
+- [[哆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[嗦]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[噁]] in [[lookup/HSK/Old HSK 3]]
+- [[罚]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[滥]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[禦]] in [[lookup/HSK/Old HSK 3]]
+- [[坟]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[粪]] in [[lookup/HSK/Old HSK 3]]
+- [[讽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[諷]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅍ]]
+- [[蚀]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蝕]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[涉]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[岗]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[崗]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]]
+- [[粱]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㄹ]]
+- [[鸽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[鴿]] in [[lookup/HSK/Old HSK 3]]
+- [[颂]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[阂]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[閡]] in [[lookup/HSK/Old HSK 3]]
+- [[顷]] in [[lookup/HSK/Old HSK 3]]
+- [[沟]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[僱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[惯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[溉]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[归]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[歸]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[轨]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[锅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[裹]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[焊]] in [[lookup/HSK/Old HSK 3]]
+- [[狠]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[橫]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[咙]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[嚨]] in [[lookup/HSK/Old HSK 3]]
+- [[衚]] in [[lookup/HSK/Old HSK 3]]
+- [[衕]] in [[lookup/HSK/Old HSK 3]]
+- [[蝴]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[侨]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[唤]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[浑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[渾]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[淆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅎ]]
+- [[该]] in [[lookup/HSK/Old HSK 3]]
+- [[饥]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[饿]] in [[lookup/HSK/Old HSK 3]]
+- [[歼]] in [[lookup/HSK/Old HSK 3]]
+- [[殲]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㅅ]]
+- [[狱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[碱]] in [[lookup/HSK/Old HSK 3]]
+- [[鹼]] in [[lookup/HSK/Old HSK 3]]
+- [[贱]] in [[lookup/HSK/Old HSK 3]]
+- [[賤]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]]
+- [[溅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[濺]] in [[lookup/HSK/Old HSK 3]]
+- [[鉴]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[浇]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[澆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[胶]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[捲]] in [[lookup/HSK/Old HSK 3]]
+- [[狡]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[猾]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[腳]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[搅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[攪]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[竭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[藉]] in [[lookup/HSK/Old HSK 3]]
+- [[谨]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[讶]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[訝]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[鲸]] in [[lookup/HSK/Old HSK 3]]
+- [[惕]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[净]] in [[lookup/HSK/Old HSK 3]]
+- [[淨]] in [[lookup/HSK/Old HSK 3]]
+- [[揪]] in [[lookup/HSK/Old HSK 3]]
+- [[绝]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[舰]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[匀]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[壳]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[殼]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[渴]] in [[lookup/HSK/Old HSK 3]]
+- [[窿]] in [[lookup/HSK/Old HSK 3]]
+- [[夸]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[垮]] in [[lookup/HSK/Old HSK 3]]
+- [[烛]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[骚]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[騷]] in [[lookup/HSK/Old HSK 3]]
+- [[愣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[裡]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[络]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[脸]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[臉]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[炼]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[煉]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[谅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[猎]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[獵]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[氓]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅁ]]
+- [[垄]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[壟]] in [[lookup/HSK/Old HSK 3]]
+- [[拢]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[攏]] in [[lookup/HSK/Old HSK 3]]
+- [[喽]] in [[lookup/HSK/Old HSK 3]]
+- [[嘍]] in [[lookup/HSK/Old HSK 3]]
+- [[搂]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[摟]] in [[lookup/HSK/Old HSK 3]]
+- [[驴]] in [[lookup/HSK/Old HSK 3]]
+- [[驢]] in [[lookup/HSK/Old HSK 3]]
+- [[铝]] in [[lookup/HSK/Old HSK 3]]
+- [[鋁]] in [[lookup/HSK/Old HSK 3]]
+- [[逻]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[锣]] in [[lookup/HSK/Old HSK 3]]
+- [[骆]] in [[lookup/HSK/Old HSK 3]]
+- [[驼]] in [[lookup/HSK/Old HSK 3]]
+- [[瞒]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[瞞]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[泽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[澤]] in [[lookup/HSK/Old HSK 3]]
+- [[诊]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[闷]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[谜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[眯]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[瞇]] in [[lookup/HSK/Old HSK 3]]
+- [[鳴]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鸣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[陌]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]], [[lookup/Korean/Korean Name ㅁ]]
+- [[宁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[拧]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[擰]] in [[lookup/HSK/Old HSK 3]]
+- [[隶]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[隸]] in [[lookup/HSK/Old HSK 3]]
+- [[噢]] in [[lookup/HSK/Old HSK 3]]
+- [[哦]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅇ]]
+- [[尔]] in [[lookup/HSK/Old HSK 3]]
+- [[趴]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[拋]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[偿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[譬]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[凭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[憑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[漆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[syllables/ㄑㄧㄊ]]
+- [[袍]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅍ]]
+- [[帜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[谦]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[墙]] in [[lookup/HSK/Old HSK 3]]
+- [[翘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[翹]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㄱ]]
+- [[倾]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[晰]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅅ]]
+- [[饶]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[饒]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[揉]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[丧]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[纱]] in [[lookup/HSK/Old HSK 3]]
+- [[删]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[烁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[爍]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㅅ]]
+- [[婶]] in [[lookup/HSK/Old HSK 3]]
+- [[嬸]] in [[lookup/HSK/Old HSK 3]]
+- [[掉]] in [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㄷ]]
+- [[蹟]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Hyōgai]]
+- [[壽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[畅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[缚]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[耍]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[拴]] in [[lookup/HSK/Old HSK 3]]
+- [[霜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[稅]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[饲]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[搜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[艘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[塌]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[摊]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[攤]] in [[lookup/HSK/Old HSK 3]], [[lookup/SKIP/SKIP-1/SKIP-1-3-19]]
+- [[滩]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[叹]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[倘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[壤]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[荐]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[吞]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[驮]] in [[lookup/HSK/Old HSK 3]]
+- [[馱]] in [[lookup/HSK/Old HSK 3]]
+- [[胁]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[蚊]] in [[lookup/HSK/Old HSK 3]]
+- [[嗡]] in [[lookup/HSK/Old HSK 3]]
+- [[卧]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[诬]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蹈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[稀]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[锡]] in [[lookup/HSK/Old HSK 3]]
+- [[袭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[悅]] in [[lookup/HSK/Old HSK 3]]
+- [[虾]] in [[lookup/HSK/Old HSK 3]]
+- [[瞎]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[艳]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[艷]] in [[lookup/HSK/Old HSK 3]]
+- [[豔]] in [[lookup/HSK/Old HSK 3]]
+- [[閒]] in [[lookup/HSK/Old HSK 3]]
+- [[宪]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[陷]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[巷]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[赏]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[业]] in [[lookup/HSK/Old HSK 3]]
+- [[業]] in [[lookup/HSK/Old HSK 3]]
+- [[兇]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅎ]]
+- [[绣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[繡]] in [[lookup/HSK/Old HSK 3]]
+- [[锈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[鏽]] in [[lookup/HSK/Old HSK 3]]
+- [[须]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[敘]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[询]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[詢]] in [[lookup/HSK/Old HSK 3]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[鸭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[齿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[齒]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[亚]] in [[lookup/HSK/Old HSK 3]]
+- [[亞]] in [[lookup/HSK/Old HSK 3]]
+- [[囱]] in [[lookup/HSK/Old HSK 3]]
+- [[囪]] in [[lookup/HSK/Old HSK 3]]
+- [[淹]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅇ]]
+- [[窑]] in [[lookup/HSK/Old HSK 3]]
+- [[谣]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[謠]] in [[lookup/HSK/Old HSK 3]]
+- [[遙]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[兽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[獸]] in [[lookup/HSK/Old HSK 3]]
+- [[兰]] in [[lookup/HSK/Old HSK 3]]
+- [[隐]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[隱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[镑]] in [[lookup/HSK/Old HSK 3]]
+- [[鎊]] in [[lookup/HSK/Old HSK 3]]
+- [[婴]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[挤]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[擠]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/SKIP/SKIP-1/SKIP-1-3-14]]
+- [[涌]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[娱]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[娛]] in [[lookup/HSK/Old HSK 3]]
+- [[渔]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[宙]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[销]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[銷]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅅ]]
+- [[钥]] in [[lookup/HSK/Old HSK 3]]
+- [[鑰]] in [[lookup/HSK/Old HSK 3]]
+- [[晕]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[砸]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[凿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[鑿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅊ]]
+- [[赠]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[债]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[沾]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅊ]]
+- [[盏]] in [[lookup/HSK/Old HSK 3]]
+- [[崭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[嶄]] in [[lookup/HSK/Old HSK 3]]
+- [[綫]] in [[lookup/HSK/Old HSK 3]]
+- [[帐]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[耀]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[肿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[纹]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[囑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-21]]
+- [[驻]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[铸]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[鑄]] in [[lookup/HSK/Old HSK 3]]
+- [[砖]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
+- [[赚]] in [[lookup/HSK/Old HSK 3]]
+- [[賺]] in [[lookup/HSK/Old HSK 3]]
+- [[桩]] in [[lookup/HSK/Old HSK 3]]
+- [[樁]] in [[lookup/HSK/Old HSK 3]]
+- [[饰]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[幢]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄷ]]
+- [[会]] in [[lookup/HSK/Old HSK 4]]
+- [[會]] in [[lookup/HSK/Old HSK 4]]
+- [[开]] in [[lookup/HSK/Old HSK 4]]
+- [[义]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[當]] in [[lookup/HSK/Old HSK 4]]
+- [[时]] in [[lookup/HSK/Old HSK 4]]
+- [[學]] in [[lookup/HSK/Old HSK 4]]
+- [[审]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[H]] in [[lookup/HSK/Old HSK 4]]
+- [[S]] in [[lookup/HSK/Old HSK 4]]
+- [[辨]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[纳]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[捐]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Korean/Korean Name ㅇ]]
+- [[惠]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[霸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[搏]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[还]] in [[lookup/HSK/Old HSK 4]]
+- [[邮]] in [[lookup/HSK/Old HSK 4]]
+- [[擴]] in [[lookup/HSK/Old HSK 4]]
+- [[喻]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[敞]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅊ]]
+- [[恶]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[储]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[荡]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[竊]] in [[lookup/HSK/Old HSK 4]]
+- [[帆]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[轰]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[轟]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[洽]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅎ]]
+- [[兢]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[诉]] in [[lookup/HSK/Old HSK 4]]
+- [[譽]] in [[lookup/HSK/Old HSK 4]]
+- [[烹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅍ]]
+- [[滔]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄷ]]
+- [[绿]] in [[lookup/HSK/Old HSK 4]]
+- [[綠]] in [[lookup/HSK/Old HSK 4]]
+- [[贬]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[貶]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅍ]]
+- [[迁]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[惩]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[锋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[筹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[籌]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅈ]]
+- [[饭]] in [[lookup/HSK/Old HSK 4]]
+- [[贷]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[忧]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[叨]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[捣]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[搗]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄷ]]
+- [[颠]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[顛]] in [[lookup/HSK/Old HSK 4]]
+- [[恼]] in [[lookup/HSK/Old HSK 4]]
+- [[惱]] in [[lookup/HSK/Old HSK 4]]
+- [[歧]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[烧]] in [[lookup/HSK/Old HSK 4]]
+- [[燒]] in [[lookup/HSK/Old HSK 4]]
+- [[汉]] in [[lookup/HSK/Old HSK 4]]
+- [[奸]] in [[lookup/HSK/Old HSK 4]]
+- [[镜]] in [[lookup/HSK/Old HSK 4]]
+- [[赖]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[賴]] in [[lookup/HSK/Old HSK 4]]
+- [[淘]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄷ]]
+- [[惟]] in [[lookup/HSK/Old HSK 4]]
+- [[熄]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅅ]]
+- [[橡]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Korean/Korean Name ㅅ]]
+- [[泄]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[诱]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[齐]] in [[lookup/HSK/Old HSK 4]]
+- [[齊]] in [[lookup/HSK/Old HSK 4]]
+- [[颁]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[堡]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
+- [[垒]] in [[lookup/HSK/Old HSK 4]]
+- [[驳]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[馋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[饞]] in [[lookup/HSK/Old HSK 4]]
+- [[阐]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[闡]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅊ]]
+- [[澱]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[塘]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄷ]]
+- [[躇]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[粹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[厦]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[怯]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[簸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[叮]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[丢]] in [[lookup/HSK/Old HSK 4]]
+- [[丟]] in [[lookup/HSK/Old HSK 4]]
+- [[赌]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[抚]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[钢]] in [[lookup/HSK/Old HSK 4]]
+- [[搞]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[蹤]] in [[lookup/HSK/Old HSK 4]]
+- [[佣]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[滚]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[罕]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅎ]]
+- [[捍]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[葫]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[谬]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蝗]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅎ]]
+- [[晤]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅇ]]
+- [[绘]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[繪]] in [[lookup/HSK/Old HSK 4]]
+- [[贿]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[祸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[娇]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[链]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[岭]] in [[lookup/HSK/Old HSK 4]]
+- [[罗]] in [[lookup/HSK/Old HSK 4]]
+- [[薯]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅅ]]
+- [[彌]] in [[lookup/HSK/Old HSK 4]]
+- [[拟]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[酿]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[釀]] in [[lookup/HSK/Old HSK 4]]
+- [[频]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[谱]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[淒]] in [[lookup/HSK/Old HSK 4]]
+- [[岂]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[魄]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
+- [[潛]] in [[lookup/HSK/Old HSK 4]]
+- [[Q]] in [[lookup/HSK/Old HSK 4]]
+- [[俭]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[儉]] in [[lookup/HSK/Old HSK 4]]
+- [[趋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[眶]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[谎]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[謊]] in [[lookup/HSK/Old HSK 4]]
+- [[剎]] in [[lookup/HSK/Old HSK 4]]
+- [[筛]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[篩]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅅ]]
+- [[渗]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[尸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[髦]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[贪]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[伪]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[窝]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[囊]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[乌]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[鸦]] in [[lookup/HSK/Old HSK 4]]
+- [[鴉]] in [[lookup/HSK/Old HSK 4]]
+- [[云]] in [[lookup/HSK/Old HSK 4]]
+- [[耻]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[隘]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅇ]]
+- [[狹]] in [[lookup/HSK/Old HSK 4]]
+- [[衔]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[銜]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[谢]] in [[lookup/HSK/Old HSK 4]]
+- [[榆]] in [[lookup/HSK/Old HSK 4]]
+- [[袄]] in [[lookup/HSK/Old HSK 4]]
+- [[蕾]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[疤]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[掰]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[扳]] in [[lookup/HSK/Old HSK 4]]
+- [[侣]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[雹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[剑]] in [[lookup/HSK/Old HSK 4]]
+- [[劍]] in [[lookup/HSK/Old HSK 4]]
+- [[驰]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[溃]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蹦]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[涕]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[辫]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[辮]] in [[lookup/HSK/Old HSK 4]]
+- [[憋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[淇]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄱ]]
+- [[濤]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[蹭]] in [[lookup/HSK/Old HSK 4]]
+- [[岔]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[诧]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[掺]] in [[lookup/HSK/Old HSK 4]]
+- [[摻]] in [[lookup/HSK/Old HSK 4]]
+- [[搀]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[攙]] in [[lookup/HSK/Old HSK 4]]
+- [[缠]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蟬]] in [[lookup/HSK/Old HSK 4]]
+- [[猖]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅊ]]
+- [[挚]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[秤]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]]
+- [[屉]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[屜]] in [[lookup/HSK/Old HSK 4]]
+- [[绸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[綢]] in [[lookup/HSK/Old HSK 4]]
+- [[稠]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅈ]]
+- [[踌]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[躊]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[锄]] in [[lookup/HSK/Old HSK 4]]
+- [[隻]] in [[lookup/HSK/Old HSK 4]]
+- [[疮]] in [[lookup/HSK/Old HSK 4]]
+- [[捶]] in [[lookup/HSK/Old HSK 4]]
+- [[锤]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蔥]] in [[lookup/HSK/Old HSK 4]]
+- [[鲁]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[揽]] in [[lookup/HSK/Old HSK 4]]
+- [[拇]] in [[lookup/HSK/Old HSK 4]]
+- [[氮]] in [[lookup/HSK/Old HSK 4]]
+- [[唠]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[嘮]] in [[lookup/HSK/Old HSK 4]]
+- [[缔]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[掂]] in [[lookup/HSK/Old HSK 4]]
+- [[缀]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[钮]] in [[lookup/HSK/Old HSK 4]]
+- [[鈕]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄴ]]
+- [[刁]] in [[lookup/HSK/Old HSK 4]]
+- [[叼]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[碟]] in [[lookup/HSK/Old HSK 4]]
+- [[盪]] in [[lookup/HSK/Old HSK 4]]
+- [[栋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[镀]] in [[lookup/HSK/Old HSK 4]]
+- [[缎]] in [[lookup/HSK/Old HSK 4]]
+- [[緞]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄷ]]
+- [[墮]] in [[lookup/HSK/Old HSK 4]]
+- [[跺]] in [[lookup/HSK/Old HSK 4]]
+- [[讹]] in [[lookup/HSK/Old HSK 4]]
+- [[碳]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[贰]] in [[lookup/HSK/Old HSK 4]]
+- [[馈]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[饋]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄱ]]
+- [[畴]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[疇]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[贩]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[汛]] in [[lookup/HSK/Old HSK 4]]
+- [[匪]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
+- [[诽]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[谤]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[丰]] in [[lookup/HSK/Old HSK 4]]
+- [[豐]] in [[lookup/HSK/Old HSK 4]]
+- [[筝]] in [[lookup/HSK/Old HSK 4]]
+- [[凤]] in [[lookup/HSK/Old HSK 4]]
+- [[衍]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[虏]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[辐]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[輻]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅂ]], [[lookup/Korean/Korean Name ㅍ]]
+- [[辅]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[赋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[钙]] in [[lookup/HSK/Old HSK 4]]
+- [[鈣]] in [[lookup/HSK/Old HSK 4]]
+- [[蔗]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅈ]]
+- [[秆]] in [[lookup/HSK/Old HSK 4]]
+- [[稈]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄱ]]
+- [[杠]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄱ]]
+- [[槓]] in [[lookup/HSK/Old HSK 4]]
+- [[桿]] in [[lookup/HSK/Old HSK 4]]
+- [[诫]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[誡]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[疙]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[瘩]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[咏]] in [[lookup/HSK/Old HSK 4]]
+- [[蒂]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[绩]] in [[lookup/HSK/Old HSK 4]]
+- [[汞]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅎ]]
+- [[辖]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[芒]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅁ]]
+- [[龟]] in [[lookup/HSK/Old HSK 4]]
+- [[龜]] in [[lookup/HSK/Old HSK 4]]
+- [[闺]] in [[lookup/HSK/Old HSK 4]]
+- [[矽]] in [[lookup/HSK/Old HSK 4]]
+- [[滤]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[濾]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄹ]]
+- [[滨]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[濱]] in [[lookup/HSK/Old HSK 4]]
+- [[暄]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅎ]]
+- [[併]] in [[lookup/HSK/Old HSK 4]]
+- [[夥]] in [[lookup/HSK/Old HSK 4]]
+- [[蔼]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[藹]] in [[lookup/HSK/Old HSK 4]]
+- [[谐]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[恆]] in [[lookup/HSK/Old HSK 4]]
+- [[烘]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅎ]]
+- [[啸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[嘯]] in [[lookup/HSK/Old HSK 4]]
+- [[吁]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[籲]] in [[lookup/HSK/Old HSK 4]]
+- [[蘆]] in [[lookup/HSK/Old HSK 4]]
+- [[妆]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[妝]] in [[lookup/HSK/Old HSK 4]]
+- [[迴]] in [[lookup/HSK/Old HSK 4]]
+- [[赂]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[浊]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[豁]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅎ]]
+- [[讥]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[譏]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄱ]]
+- [[J]] in [[lookup/HSK/Old HSK 4]]
+- [[妒]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[颊]] in [[lookup/HSK/Old HSK 4]]
+- [[頰]] in [[lookup/HSK/Old HSK 4]]
+- [[韧]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[韌]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+- [[贞]] in [[lookup/HSK/Old HSK 4]]
+- [[茧]] in [[lookup/HSK/Old HSK 4]]
+- [[踐]] in [[lookup/HSK/Old HSK 4]]
+- [[桨]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[槳]] in [[lookup/HSK/Old HSK 4]]
+- [[绞]] in [[lookup/HSK/Old HSK 4]]
+- [[轿]] in [[lookup/HSK/Old HSK 4]]
+- [[轎]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄱ]]
+- [[晉]] in [[lookup/HSK/Old HSK 4]]
+- [[莖]] in [[lookup/HSK/Old HSK 4]]
+- [[頸]] in [[lookup/HSK/Old HSK 4]]
+- [[颈]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[瞩]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[矚]] in [[lookup/HSK/Old HSK 4]]
+- [[锯]] in [[lookup/HSK/Old HSK 4]]
+- [[嚼]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[阀]] in [[lookup/HSK/Old HSK 4]]
+- [[垦]] in [[lookup/HSK/Old HSK 4]]
+- [[凯]] in [[lookup/HSK/Old HSK 4]]
+- [[炕]] in [[lookup/HSK/Old HSK 4]]
+- [[磕]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[啃]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[抠]] in [[lookup/HSK/Old HSK 4]]
+- [[摳]] in [[lookup/HSK/Old HSK 4]]
+- [[挎]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[框]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[葵]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[腊]] in [[lookup/HSK/Old HSK 4]]
+- [[栏]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[狈]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[潦]] in [[lookup/HSK/Old HSK 4]]
+- [[涝]] in [[lookup/HSK/Old HSK 4]]
+- [[澇]] in [[lookup/HSK/Old HSK 4]]
+- [[棱]] in [[lookup/HSK/Old HSK 4]]
+- [[篱]] in [[lookup/HSK/Old HSK 4]]
+- [[籬]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
+- [[睬]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅊ]]
+- [[沥]] in [[lookup/HSK/Old HSK 4]]
+- [[瀝]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄹ]]
+- [[荔]] in [[lookup/HSK/Old HSK 4]], [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
+- [[绵]] in [[lookup/HSK/Old HSK 4]]
+- [[莲]] in [[lookup/HSK/Old HSK 4]]
+- [[镰]] in [[lookup/HSK/Old HSK 4]]
+- [[鐮]] in [[lookup/HSK/Old HSK 4]]
+- [[鏈]] in [[lookup/HSK/Old HSK 4]]
+- [[晾]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[辽]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[磷]] in [[lookup/HSK/Old HSK 4]]
+- [[珑]] in [[lookup/HSK/Old HSK 4]]
+- [[瓏]] in [[lookup/HSK/Old HSK 4]]
+- [[凌]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
+- [[聋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[屡]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[抡]] in [[lookup/HSK/Old HSK 4]]
+- [[掄]] in [[lookup/HSK/Old HSK 4]]
+- [[箩]] in [[lookup/HSK/Old HSK 4]]
+- [[籮]] in [[lookup/HSK/Old HSK 4]]
+- [[骡]] in [[lookup/HSK/Old HSK 4]]
+- [[騾]] in [[lookup/HSK/Old HSK 4]]
+- [[痹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[痺]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[蚂]] in [[lookup/HSK/Old HSK 4]]
+- [[蚁]] in [[lookup/HSK/Old HSK 4]]
+- [[螞]] in [[lookup/HSK/Old HSK 4]]
+- [[蟻]] in [[lookup/HSK/Old HSK 4]]
+- [[碌]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄹ]]
+- [[辙]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[轍]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[玫]] in [[lookup/HSK/Old HSK 4]]
+- [[瑰]] in [[lookup/HSK/Old HSK 4]]
+- [[镁]] in [[lookup/HSK/Old HSK 4]]
+- [[鎂]] in [[lookup/HSK/Old HSK 4]]
+- [[棉]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[麵]] in [[lookup/HSK/Old HSK 4]]
+- [[渺]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅁ]]
+- [[蘑]] in [[lookup/HSK/Old HSK 4]]
+- [[菇]] in [[lookup/HSK/Old HSK 4]]
+- [[睹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄷ]]
+- [[阁]] in [[lookup/HSK/Old HSK 4]]
+- [[撵]] in [[lookup/HSK/Old HSK 4]]
+- [[攆]] in [[lookup/HSK/Old HSK 4]]
+- [[柠]] in [[lookup/HSK/Old HSK 4]]
+- [[纽]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[紐]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄴ]]
+- [[毆]] in [[lookup/HSK/Old HSK 4]]
+- [[嘔]] in [[lookup/HSK/Old HSK 4]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[徘]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[徊]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[庞]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[刨]] in [[lookup/HSK/Old HSK 4]]
+- [[饪]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[飪]] in [[lookup/HSK/Old HSK 4]]
+- [[坯]] in [[lookup/HSK/Old HSK 4]]
+- [[劈]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
+- [[惫]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[憊]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅂ]]
+- [[萍]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅍ]]
+- [[颇]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[仆]] in [[lookup/HSK/Old HSK 4]]
+- [[沏]] in [[lookup/HSK/Old HSK 4]]
+- [[柒]] in [[lookup/HSK/Old HSK 4]]
+- [[鬨]] in [[lookup/HSK/Old HSK 4]]
+- [[砌]] in [[lookup/HSK/Old HSK 4]]
+- [[掐]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[逊]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[钳]] in [[lookup/HSK/Old HSK 4]]
+- [[谴]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[譴]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㄱ]]
+- [[毙]] in [[lookup/HSK/Old HSK 4]]
+- [[斃]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅍ]]
+- [[锹]] in [[lookup/HSK/Old HSK 4]]
+- [[乔]] in [[lookup/HSK/Old HSK 4]]
+- [[钦]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[芹]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[氢]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[氫]] in [[lookup/HSK/Old HSK 4]]
+- [[蜻]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[蜓]] in [[lookup/HSK/Old HSK 4]]
+- [[驱]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[驅]] in [[lookup/HSK/Old HSK 4]]
+- [[瘸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[让]] in [[lookup/HSK/Old HSK 4]]
+- [[讓]] in [[lookup/HSK/Old HSK 4]]
+- [[绒]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[熔]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]]
+- [[腮]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[叁]] in [[lookup/HSK/Old HSK 4]]
+- [[砂]] in [[lookup/HSK/Old HSK 4]]
+- [[冈]] in [[lookup/HSK/Old HSK 4]]
+- [[陕]] in [[lookup/HSK/Old HSK 4]]
+- [[榷]] in [[lookup/HSK/Old HSK 4]]
+- [[晌]] in [[lookup/HSK/Old HSK 4]]
+- [[捎]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[侈]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅊ]]
+- [[绅]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[慾]] in [[lookup/HSK/Old HSK 4]]
+- [[竖]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[帅]] in [[lookup/HSK/Old HSK 4]]
+- [[耸]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[聳]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[蒜]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅅ]]
+- [[隧]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[穗]] in [[lookup/HSK/Old HSK 4]]
+- [[笋]] in [[lookup/HSK/Old HSK 4]]
+- [[颱]] in [[lookup/HSK/Old HSK 4]]
+- [[瘫]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[痪]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[癱]] in [[lookup/HSK/Old HSK 4]]
+- [[瘓]] in [[lookup/HSK/Old HSK 4]]
+- [[坛]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[潭]] in [[lookup/HSK/Old HSK 4]]
+- [[衅]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[釁]] in [[lookup/HSK/Old HSK 4]]
+- [[剂]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[劑]] in [[lookup/HSK/Old HSK 4]]
+- [[滯]] in [[lookup/HSK/Old HSK 4]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[捅]] in [[lookup/HSK/Old HSK 4]]
+- [[掷]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[秃]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[椭]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[橢]] in [[lookup/HSK/Old HSK 4]]
+- [[灣]] in [[lookup/HSK/Old HSK 4]]
+- [[豌]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+- [[惋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[桅]] in [[lookup/HSK/Old HSK 4]]
+- [[瘟]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+- [[呜]] in [[lookup/HSK/Old HSK 4]]
+- [[梧]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[溪]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[涤]] in [[lookup/HSK/Old HSK 4]]
+- [[滌]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[鹊]] in [[lookup/HSK/Old HSK 4]]
+- [[鵲]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅈ]]
+- [[贤]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[馅]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[餡]] in [[lookup/HSK/Old HSK 4]]
+- [[镶]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[鑲]] in [[lookup/HSK/Old HSK 4]]
+- [[鍊]] in [[lookup/HSK/Old HSK 4]]
+- [[挾]] in [[lookup/HSK/Old HSK 4]]
+- [[攜]] in [[lookup/HSK/Old HSK 4]]
+- [[泻]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[瀉]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅅ]]
+- [[疼]] in [[lookup/HSK/Old HSK 4]]
+- [[锌]] in [[lookup/HSK/Old HSK 4]]
+- [[鋅]] in [[lookup/HSK/Old HSK 4]]
+- [[颖]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[穎]] in [[lookup/HSK/Old HSK 4]]
+- [[腥]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅅ]]
+- [[汹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[洶]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅎ]]
+- [[膛]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[酗]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[絮]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅅ]]
+- [[熏]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[韵]] in [[lookup/HSK/Old HSK 4]]
+- [[哑]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[啞]] in [[lookup/HSK/Old HSK 4]]
+- [[杨]] in [[lookup/HSK/Old HSK 4]]
+- [[痒]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]]
+- [[癢]] in [[lookup/HSK/Old HSK 4]]
+- [[麼]] in [[lookup/HSK/Old HSK 4]]
+- [[蠻]] in [[lookup/HSK/Old HSK 4]]
+- [[壹]] in [[lookup/HSK/Old HSK 4]]
+- [[亿]] in [[lookup/HSK/Old HSK 4]]
+- [[译]] in [[lookup/HSK/Old HSK 4]]
+- [[譯]] in [[lookup/HSK/Old HSK 4]]
+- [[秽]] in [[lookup/HSK/Old HSK 4]]
+- [[穢]] in [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[樱]] in [[lookup/HSK/Old HSK 4]]
+- [[櫻]] in [[lookup/HSK/Old HSK 4]]
+- [[鹰]] in [[lookup/HSK/Old HSK 4]]
+- [[赢]] in [[lookup/HSK/Old HSK 4]]
+- [[贏]] in [[lookup/HSK/Old HSK 4]]
+- [[鬱]] in [[lookup/HSK/Old HSK 4]]
+- [[犹]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
+- [[铀]] in [[lookup/HSK/Old HSK 4]]
+- [[鈾]] in [[lookup/HSK/Old HSK 4]]
+- [[舆]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[酝]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[醞]] in [[lookup/HSK/Old HSK 4]]
+- [[蕴]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
+- [[蘊]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+- [[厕]] in [[lookup/HSK/Old HSK 5]]
+- [[宠]] in [[lookup/HSK/Old HSK 5]]
+- [[浏]] in [[lookup/HSK/Old HSK 5]]
+- [[蜡]] in [[lookup/HSK/Old HSK 5]]
+- [[咨]] in [[lookup/HSK/Old HSK 5]]
+- [[哈]] in [[lookup/HSK/Old HSK 5]]
+- [[绕]] in [[lookup/HSK/Old HSK 5]]
+- [[裔]] in [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[贝]] in [[lookup/HSK/Old HSK 5]]
+- [[账]] in [[lookup/HSK/Old HSK 5]]
+- [[嚏]] in [[lookup/HSK/Old HSK 5]]
+- [[揍]] in [[lookup/HSK/Old HSK 6]]
+- [[臂]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[濒]] in [[lookup/HSK/Old HSK 6]]
+- [[恍]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[搁]] in [[lookup/HSK/Old HSK 6]]
+- [[舔]] in [[lookup/HSK/Old HSK 6]]
+- [[觅]] in [[lookup/HSK/Old HSK 6]]
+- [[紊]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅁ]]
+- [[蹋]] in [[lookup/HSK/Old HSK 6]]
+- [[疏]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
+- [[沧]] in [[lookup/HSK/Old HSK 6]]
+- [[沮]] in [[lookup/HSK/Old HSK 6]]
+- [[擎]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄱ]]
+- [[苏]] in [[lookup/HSK/Old HSK 6]]
+- [[尬]] in [[lookup/HSK/Old HSK 6]]
+- [[尴]] in [[lookup/HSK/Old HSK 6]]
+- [[伦]] in [[lookup/HSK/Old HSK 6]]
+- [[攒]] in [[lookup/HSK/Old HSK 6]]
+- [[咀]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅈ]]
+- [[遏]] in [[lookup/HSK/Old HSK 6]]
+- [[瘤]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
+- [[荧]] in [[lookup/HSK/Old HSK 6]]
+- [[瘾]] in [[lookup/HSK/Old HSK 6]]
+- [[墅]] in [[lookup/HSK/Old HSK 6]]
+- [[侦]] in [[lookup/HSK/Old HSK 6]]
+- [[峭]] in [[lookup/HSK/Old HSK 6]]
+- [[涮]] in [[lookup/HSK/Old HSK 6]]
+- [[涵]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[斩]] in [[lookup/HSK/Old HSK 6]]
+- [[讳]] in [[lookup/HSK/Old HSK 6]]
+- [[郑]] in [[lookup/HSK/Old HSK 6]]
+- [[讼]] in [[lookup/HSK/Old HSK 6]]
+- [[诈]] in [[lookup/HSK/Old HSK 6]]
+- [[纬]] in [[lookup/HSK/Old HSK 6]]
+- [[旷]] in [[lookup/HSK/Old HSK 6]]
+- [[诸]] in [[lookup/HSK/Old HSK 6]]
+- [[诺]] in [[lookup/HSK/Old HSK 6]]
+- [[绎]] in [[lookup/HSK/Old HSK 6]]
+- [[榨]] in [[lookup/HSK/Old HSK 6]]
+- [[铭]] in [[lookup/HSK/Old HSK 6]]
+- [[迸]] in [[lookup/HSK/Old HSK 6]]
+- [[谍]] in [[lookup/HSK/Old HSK 6]]
+- [[啥]] in [[lookup/HSK/Old HSK 6]]
+- [[啦]] in [[lookup/HSK/Old HSK 6]]
+- [[啬]] in [[lookup/HSK/Old HSK 6]]
+- [[飙]] in [[lookup/HSK/Old HSK 6]]
+- [[啰]] in [[lookup/HSK/Old HSK 6]]
+- [[缴]] in [[lookup/HSK/Old HSK 6]]
+- [[眨]] in [[lookup/HSK/Old HSK 6]]
+- [[锦]] in [[lookup/HSK/Old HSK 6]]
+- [[锲]] in [[lookup/HSK/Old HSK 6]]
+- [[拄]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅈ]]
+- [[州]] in [[lookup/HSK/Old HSK 6]]
+- [[拽]] in [[lookup/HSK/Old HSK 6]]
+- [[嗨]] in [[lookup/HSK/Old HSK 6]]
+- [[嗯]] in [[lookup/HSK/Old HSK 6]]
+- [[暧]] in [[lookup/HSK/Old HSK 6]]
+- [[篷]] in [[lookup/HSK/Old HSK 6]]
+- [[曝]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅍ]]
+- [[姆]] in [[lookup/HSK/Old HSK 6]]
+- [[婪]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄹ]]
+- [[剔]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅊ]]
+- [[挠]] in [[lookup/HSK/Old HSK 6]]
+- [[嘈]] in [[lookup/HSK/Old HSK 6]]
+- [[灶]] in [[lookup/HSK/Old HSK 6]]
+- [[嘛]] in [[lookup/HSK/Old HSK 6]]
+- [[噪]] in [[lookup/HSK/Old HSK 6]]
+- [[腻]] in [[lookup/HSK/Old HSK 6]]
+- [[贼]] in [[lookup/HSK/Old HSK 6]]
+- [[赁]] in [[lookup/HSK/Old HSK 6]]
+- [[杰]] in [[lookup/HSK/Old HSK 6]]
+- [[閾]] in [[lookup/Japanese/Hyōgai]]
+- [[溢]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[隕]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[猥]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[隈]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[罠]] in [[lookup/Japanese/Hyōgai]]
+- [[翳]] in [[lookup/Japanese/Hyōgai]]
+- [[腋]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[嚥]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[摑]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[筵]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[甕]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[瑕]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[榎]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[衙]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[鰊]] in [[lookup/Japanese/Hyōgai]]
+- [[攣]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
+- [[鶯]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[俤]] in [[lookup/Japanese/Hyōgai]]
+- [[跏]] in [[lookup/Japanese/Hyōgai]]
+- [[漉]] in [[lookup/Japanese/Hyōgai]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[愕]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[萼]] in [[lookup/Japanese/Hyōgai]]
+- [[諤]] in [[lookup/Japanese/Hyōgai]]
+- [[樫]] in [[lookup/Japanese/Hyōgai]]
+- [[絣]] in [[lookup/Japanese/Hyōgai]]
+- [[宦]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[澗]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[翰]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[瞰]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[檻]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[頷]] in [[lookup/Japanese/Hyōgai]]
+- [[耆]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[揆]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[櫃]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[屹]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[拮]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[謔]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[笈]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[炬]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[噓]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[欅]] in [[lookup/Japanese/Hyōgai]]
+- [[莢]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[橿]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[髷]] in [[lookup/Japanese/Hyōgai]]
+- [[軀]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[粂]] in [[lookup/Japanese/Hyōgai]]
+- [[畦]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[痙]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[禊]] in [[lookup/Japanese/Hyōgai]]
+- [[髻]] in [[lookup/Japanese/Hyōgai]]
+- [[蹊]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[鮭]] in [[lookup/Japanese/Hyōgai]]
+- [[睨]] in [[lookup/Japanese/Hyōgai]]
+- [[抉]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[蕨]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[姸]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[虔]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[腱]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[呟]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[眩]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
+- [[涸]] in [[lookup/Japanese/Hyōgai]]
+- [[菰]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[齬]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[覗]] in [[lookup/Japanese/Hyōgai]]
+- [[嗜]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[滓]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[熾]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[髭]] in [[lookup/Japanese/Hyōgai]]
+- [[贄]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[峙]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[痔]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[閤]] in [[lookup/Japanese/Hyōgai]]
+- [[篝]] in [[lookup/Japanese/Hyōgai]]
+- [[壙]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]]
+- [[曠]] in [[lookup/Japanese/Hyōgai]]
+- [[濠]] in [[lookup/Japanese/Hyōgai]]
+- [[剋]] in [[lookup/Japanese/Hyōgai]]
+- [[褌]] in [[lookup/Japanese/Hyōgai]]
+- [[嗟]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[蓑]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[鰓]] in [[lookup/Japanese/Hyōgai]]
+- [[榊]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[簀]] in [[lookup/Japanese/Hyōgai]]
+- [[霰]] in [[lookup/Japanese/Hyōgai]]
+- [[攢]] in [[lookup/Japanese/Hyōgai]]
+- [[讃]] in [[lookup/Japanese/Hyōgai]]
+- [[懺]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[舐]] in [[lookup/Japanese/Hyōgai]]
+- [[疵]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[趾]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[𠮟]] in [[lookup/Japanese/Hyōgai]]
+- [[柘]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[娑]] in [[lookup/Japanese/Hyōgai]]
+- [[闍]] in [[lookup/Japanese/Hyōgai]]
+- [[杓]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅍ]]
+- [[諏]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]]
+- [[竪]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[綬]] in [[lookup/Japanese/Hyōgai]]
+- [[濡]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[襦]] in [[lookup/Japanese/Hyōgai]]
+- [[箒]] in [[lookup/Japanese/Hyōgai]]
+- [[楯]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[杵]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
+- [[娼]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[睫]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[蛸]] in [[lookup/Japanese/Hyōgai]]
+- [[摺]] in [[lookup/Japanese/Hyōgai]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[蕭]] in [[lookup/Japanese/Hyōgai]]
+- [[囁]] in [[lookup/Japanese/Hyōgai]]
+- [[攘]] in [[lookup/Japanese/Hyōgai]]
+- [[褥]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[沁]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅅ]]
+- [[芯]] in [[lookup/Japanese/Hyōgai]]
+- [[宸]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅅ]]
+- [[疹]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[蜃]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅅ]]
+- [[鍼]] in [[lookup/Japanese/Hyōgai]]
+- [[靱]] in [[lookup/Japanese/Hyōgai]]
+- [[笥]] in [[lookup/Japanese/Hyōgai]]
+- [[祟]] in [[lookup/Japanese/Hyōgai]], [[lookup/SKIP/SKIP-2/SKIP-2-5-5]]
+- [[鮨]] in [[lookup/Japanese/Hyōgai]]
+- [[栖]] in [[lookup/Japanese/Hyōgai]]
+- [[臍]] in [[lookup/Japanese/Hyōgai]]
+- [[瀞]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[贅]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[浙]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[啜]] in [[lookup/Japanese/Hyōgai]]
+- [[苫]] in [[lookup/Japanese/Hyōgai]]
+- [[揃]] in [[lookup/Japanese/Hyōgai]]
+- [[煽]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅅ]]
+- [[撰]] in [[lookup/Japanese/Hyōgai]]
+- [[癬]] in [[lookup/Japanese/Hyōgai]]
+- [[甦]] in [[lookup/Japanese/Hyōgai]]
+- [[齟]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[叟]] in [[lookup/Japanese/Hyōgai]]
+- [[甑]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[囃]] in [[lookup/Japanese/Hyōgai]]
+- [[竈]] in [[lookup/Japanese/Hyōgai]]
+- [[鰺]] in [[lookup/Japanese/Hyōgai]]
+- [[杣]] in [[lookup/Japanese/Hyōgai]]
+- [[噂]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[咤]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅌ]]
+- [[荼]] in [[lookup/Japanese/Hyōgai]]
+- [[驒]] in [[lookup/Japanese/Hyōgai]]
+- [[碓]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[頽]] in [[lookup/Japanese/Hyōgai]]
+- [[鐸]] in [[lookup/Japanese/Hyōgai]]
+- [[襷]] in [[lookup/Japanese/Hyōgai]]
+- [[燵]] in [[lookup/Japanese/Hyōgai]]
+- [[疸]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄷ]]
+- [[歎]] in [[lookup/Japanese/Hyōgai]]
+- [[冑]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[楮]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[瀦]] in [[lookup/Japanese/Hyōgai]]
+- [[銚]] in [[lookup/Japanese/Hyōgai]]
+- [[捗]] in [[lookup/Japanese/Hyōgai]]
+- [[鎚]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅊ]]
+- [[辻]] in [[lookup/Japanese/Hyōgai]]
+- [[掟]] in [[lookup/Japanese/Hyōgai]]
+- [[碇]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
+- [[薙]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[鵜]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[辿]] in [[lookup/Japanese/Hyōgai]]
+- [[唸]] in [[lookup/Japanese/Hyōgai]]
+- [[塡]] in [[lookup/Japanese/Hyōgai]]
+- [[囀]] in [[lookup/Japanese/Hyōgai]]
+- [[臀]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄷ]]
+- [[棹]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄷ]]
+- [[樋]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]]
+- [[檮]] in [[lookup/Japanese/Hyōgai]]
+- [[瀆]] in [[lookup/Japanese/Hyōgai]]
+- [[邇]] in [[lookup/Japanese/Hyōgai]]
+- [[匂]] in [[lookup/Japanese/Hyōgai]]
+- [[禰]] in [[lookup/Japanese/Hyōgai]]
+- [[撚]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄴ]]
+- [[杷]] in [[lookup/Japanese/Hyōgai]]
+- [[蟇]] in [[lookup/Japanese/Hyōgai]]
+- [[胚]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[粕]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[畠]] in [[lookup/Japanese/Hyōgai]]
+- [[醱]] in [[lookup/Japanese/Hyōgai]]
+- [[筏]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]], [[lookup/SKIP/SKIP-2/SKIP-2-6-6]]
+- [[跋]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[噺]] in [[lookup/Japanese/Hyōgai]]
+- [[袢]] in [[lookup/Japanese/Hyōgai]]
+- [[槃]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[枇]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅂ]]
+- [[媚]] in [[lookup/Japanese/Hyōgai]]
+- [[牝]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[鬢]] in [[lookup/Japanese/Hyōgai]]
+- [[腑]] in [[lookup/Japanese/Hyōgai]]
+- [[孵]] in [[lookup/Japanese/Hyōgai]]
+- [[鮒]] in [[lookup/Japanese/Hyōgai]]
+- [[祓]] in [[lookup/Japanese/Hyōgai]]
+- [[襞]] in [[lookup/Japanese/Hyōgai]]
+- [[庖]] in [[lookup/Japanese/Hyōgai]]
+- [[苞]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅍ]]
+- [[鉾]] in [[lookup/Japanese/Hyōgai]]
+- [[吠]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅍ]]
+- [[梵]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+- [[俣]] in [[lookup/Japanese/Hyōgai]]
+- [[鬘]] in [[lookup/Japanese/Hyōgai]]
+- [[瞑]] in [[lookup/Japanese/Hyōgai]]
+- [[朦]] in [[lookup/Japanese/Hyōgai]]
+- [[籾]] in [[lookup/Japanese/Hyōgai]]
+- [[楡]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[猷]] in [[lookup/Japanese/Hyōgai]], [[lookup/SKIP/SKIP-1/SKIP-1-9-4]]
+- [[飫]] in [[lookup/Japanese/Hyōgai]]
+- [[拗]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
+- [[萊]] in [[lookup/Japanese/Hyōgai]]
+- [[埒]] in [[lookup/Japanese/Hyōgai]]
+- [[瀾]] in [[lookup/Japanese/Hyōgai]]
+- [[鸞]] in [[lookup/Japanese/Hyōgai]]
+- [[寥]] in [[lookup/Japanese/Hyōgai]]
+- [[蛉]] in [[lookup/Japanese/Hyōgai]]
+- [[蠣]] in [[lookup/Japanese/Hyōgai]]
+- [[櫟]] in [[lookup/Japanese/Hyōgai]]
+- [[礫]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
+- [[轢]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
+- [[漣]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
+- [[瘻]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄹ]]
+- [[﨟]] in [[lookup/Japanese/Hyōgai]]
+- [[椀]] in [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[噛]] in [[lookup/Japanese/Hyōgai]]
+- [[沪]] in [[lookup/Japanese/Hyōgai]]
+- [[麹]] in [[lookup/Japanese/Hyōgai]]
+- [[桝]] in [[lookup/Japanese/Hyōgai]]
+- [[掴]] in [[lookup/Japanese/Jinmeiyō]]
+- [[栞]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[茜]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
+- [[菖]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]]
+- [[蓉]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[竣]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
+- [[檎]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[眸]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅁ]]
+- [[稔]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[瑳]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]]
+- [[瑶]] in [[lookup/Japanese/Jinmeiyō]]
+- [[滉]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
+- [[燎]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
+- [[燿]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[蒔]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[蔦]] in [[lookup/Japanese/Jinmeiyō]]
+- [[榛]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
+- [[蕗]] in [[lookup/Japanese/Jinmeiyō]]
+- [[諄]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[麿]] in [[lookup/Japanese/Jinmeiyō]]
+- [[驍]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
+- [[鵬]] in [[lookup/Japanese/Jinmeiyō]]
+- [[塙]] in [[lookup/Japanese/Jinmeiyō]]
+- [[奎]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
+- [[惺]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[汐]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[芙]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅂ]]
+- [[孜]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
+- [[崚]] in [[lookup/Japanese/Jinmeiyō]]
+- [[嵯]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]]
+- [[徠]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
+- [[惣]] in [[lookup/Japanese/Jinmeiyō]]
+- [[晟]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[曙]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅅ]]
+- [[柚]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
+- [[綸]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
+- [[綺]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
+- [[綾]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄹ]]
+- [[暉]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
+- [[柾]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]
+- [[枷]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[訶]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[玕]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[磵]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[碣]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[鞨]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[坎]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[戡]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[疳]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[胛]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[閘]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[堈]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[畺]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[舡]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[嫝]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[跭]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[襁]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[玒]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[愷]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[塏]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[愾]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[疥]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[玠]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[粳]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-6-7]]
+- [[羹]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[醵]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[倨]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[祛]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[踞]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[楗]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[愆]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[蹇]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[黔]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[檄]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[膈]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[覡]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[鵑]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[慊]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[箝]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[嗛]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[槏]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[倞]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[坰]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[耿]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[炅]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[璟]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[儆]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[俓]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[涇]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[逕]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[熲]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[冏]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[勍]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[烱]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[璥]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[絅]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[鶊]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[冂]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[𠗊]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[憼]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[璄]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[烓]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[棨]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[谿]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[磎]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[暠]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[呱]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[槁]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[痼]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[苽]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[蠱]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[誥]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[杲]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[斛]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[梏]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[崑]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[琨]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[梱]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[衮]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[袞]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[汨]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[珙]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[槨]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[藿]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[琯]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[瓘]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[梡]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/Korean/Korean Name ㅇ]]
+- [[恝]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[侊]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[珖]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[桄]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[罫]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[嶠]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[皎]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[姣]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[佼]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-2-6]]
+- [[噭]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[憍]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[枸]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[瞿]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[絿]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[衢]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-21]]
+- [[玽]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[耇]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[廏]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[颶]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[廐]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[鞫]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[窘]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[裙]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[芎]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[眷]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[淃]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[獗]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[詭]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[晷]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[逵]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[竅]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[邽]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[嫢]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[湀]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[畇]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[筠]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[墐]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[漌]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[劤]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[懃]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[覲]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[衾]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[昑]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[妗]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[擒]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[伋]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[矜]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[琪]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[璂]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[祺]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[錤]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[騏]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[玘]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[琦]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[錡]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[圻]] in [[lookup/Korean/Korean Name ㄱ]], [[lookup/Korean/Korean Name ㅇ]]
+- [[驥]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[暣]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[夔]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[畸]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[羈]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[耭]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[稘]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[姞]] in [[lookup/Korean/Korean Name ㄱ]]
+- [[柰]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[娜]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[儺]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[懦]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[𣃽]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[䏧]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[挐]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[𡖔]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[糯]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[枏]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[恬]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[拈]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[獰]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[駑]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[撓]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[杻]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[柅]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[濔]] in [[lookup/Korean/Korean Name ㄴ]], [[lookup/Korean/Korean Name ㅁ]]
+- [[膩]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[馜]] in [[lookup/Korean/Korean Name ㄴ]]
+- [[𥥸]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[𣘻]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[茤]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[湍]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[袒]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[鄲]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[煓]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[㫜]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[撻]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[澾]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[獺]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[坍]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[憺]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[聃]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[蕁]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[錟]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[倓]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[遝]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[鐺]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[戇]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[棠]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[垈]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[旲]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[岱]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[燾]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[覩]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[韜]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[馟]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[牘]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[犢]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[纛]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[暾]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[燉]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[旽]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[焞]] in [[lookup/Korean/Korean Name ㄷ]], [[lookup/Korean/Korean Name ㅅ]]
+- [[潼]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[垌]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[蝀]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[朣]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[曈]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[烔]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[橦]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[枓]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[竇]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[荳]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[阧]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[芚]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[遯]] in [[lookup/Korean/Korean Name ㄷ]], [[lookup/SKIP/SKIP-3/SKIP-3-4-11]]
+- [[嶝]] in [[lookup/Korean/Korean Name ㄷ]]
+- [[纜]] in [[lookup/Korean/Korean Name ㄹ]], [[lookup/SKIP/SKIP-1/SKIP-1-6-22]]
+- [[[䌫]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[襤]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[㛦]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[灆]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[烺]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[崍]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[倆]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[閭]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[儷]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[櫚]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[礪]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[藜]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[璉]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[輦]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[孌]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[𨏶]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[濂]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[殮]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[姈]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[昤]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[翎]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[聆]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[泠]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[擄]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[潞]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[瀘]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[輅]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[嚧]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[璐]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[菉]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[賚]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[縷]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[蔞]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[褸]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[鏤]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[慺]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[嶁]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[瀏]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[淪]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[嵂]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[廩]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[楞]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[俚]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[唎]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[涖]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[𢻠]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[摛]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[潾]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[璘]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[藺]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[躪]] in [[lookup/Korean/Korean Name ㄹ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-19]]
+- [[撛]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[棽]] in [[lookup/Korean/Korean Name ㄹ]], [[lookup/Korean/Korean Name ㅊ]]
+- [[晽]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[砬]] in [[lookup/Korean/Korean Name ㄹ]]
+- [[邈]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[鏋]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[巒]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[靺]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[輞]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[邙]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[驀]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[沔]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[眄]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[茗]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[蓂]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[眀]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[謨]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[橅]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[鶩]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[歿]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[錨]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[杳]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[珷]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[懋]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[楙]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[炆]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[刎]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[雯]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[抆]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[沕]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[渼]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[嵄]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[媄]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[楣]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[湄]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[黴]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[躾]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[媺]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[煝]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[娓]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[洣]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[侎]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[瑂]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[玟]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[岷]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[忞]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[慜]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[敃]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[愍]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[潣]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[䪸]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[泯]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[緡]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[𩔉]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[鍲]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[脗]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[閩]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[盿]] in [[lookup/Korean/Korean Name ㅁ]]
+- [[璞]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[泮]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[瘢]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[磻]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[豳]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[渤]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[昉]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[尨]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[枋]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[滂]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[舫]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[蒡]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[湃]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[焙]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[褙]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[苩]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[燔]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[杋]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[擘]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[釆]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[𩠻]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[莂]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[鷩]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[甁]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[輧]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[炳]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[昞]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[餠]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[騈]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[鉼]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[抦]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[潽]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[洑]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[湺]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[俌]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[𤣰]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[馥]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[鍑]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[匐]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[宓]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[茯]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[輹]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[琫]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[烽]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[熢]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[莩]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[賻]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[趺]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[汾]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[昐]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[榧]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[毖]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[秕]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[粃]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[翡]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[裨]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[棐]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[庀]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[奜]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[斌]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[嬪]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[穦]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[儐]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[璸]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[玭]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[嚬]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[殯]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[邠]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[繽]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[贇]] in [[lookup/Korean/Korean Name ㅂ]], [[lookup/Korean/Korean Name ㅇ]]
+- [[鑌]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[擯]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[騁]] in [[lookup/Korean/Korean Name ㅂ]]
+- [[俟]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[僿]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[柶]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[梭]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[莎]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[駟]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[汕]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[疝]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[祘]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[煞]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[芟]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[澁]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[鈒]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[庠]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[塽]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[孀]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[峠]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[觴]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[牀]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[慡]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[潒]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[嗇]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[穡]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[壻]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[㥠]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[諝]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[筮]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[藇]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[揟]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[悆]] in [[lookup/Korean/Korean Name ㅅ]], [[lookup/Korean/Korean Name ㅇ]]
+- [[湑]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[偦]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[㠘]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[𧩑]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[奭]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[淅]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[晳]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[䄷]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[蓆]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[舃]] in [[lookup/Korean/Korean Name ㅅ]], [[lookup/Korean/Korean Name ㅈ]]
+- [[鼫]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[渲]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[瑄]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[愃]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[墡]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[琁]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[璿]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[璇]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[嬋]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[珗]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[嫙]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[僊]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[詵]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[跣]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[鐥]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[褻]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[蔎]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[暹]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[剡]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[贍]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[燮]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[㰔]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[𦁗]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[珹]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[娍]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[瑆]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[宬]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[筬]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[貹]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[晠]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[忕]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[涗]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[𡜧]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[炤]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[柖]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[玿]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[瀟]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[瘙]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[愫]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[穌]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[卲]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[涑]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[謖]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[蓀]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[淞]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[悚]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[釗]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[琇]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[銖]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[岫]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[燧]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[璲]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[茱]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[蓚]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[邃]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[䳠]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[賥]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[睢]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[睟]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[瓍]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[峀]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[濉]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[琡]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[璹]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[橚]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[夙]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[潚]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[菽]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[珣]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[錞]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[徇]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[栒]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[橓]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[蓴]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[蕣]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[鉥]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[崧]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[璱]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[褶]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[陞]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[榺]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[氶]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[塍]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[阩]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[嘶]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[蓍]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[豺]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[毸]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[諟]] in [[lookup/Korean/Korean Name ㅅ]], [[lookup/Korean/Korean Name ㅊ]]
+- [[媞]] in [[lookup/Korean/Korean Name ㅅ]], [[lookup/Korean/Korean Name ㅈ]]
+- [[柹]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[愢]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[禔]] in [[lookup/Korean/Korean Name ㅅ]], [[lookup/Korean/Korean Name ㅈ]]
+- [[栻]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[湜]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[軾]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[寔]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[篒]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[莘]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[侁]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[燼]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[藎]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[璶]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[諶]] in [[lookup/Korean/Korean Name ㅅ]]
+- [[妸]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[莪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[婀]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[硪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[皒]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[砑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[婭]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[堊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鍔]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[齷]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𤎝]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[姲]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[婩]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[閼]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[菴]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[怏]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[䝽]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[㶼]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[扼]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[掖]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[縊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[罌]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[捓]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[葯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蒻]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[漾]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[恙]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[暘]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瀁]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[煬]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[禳]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瘀]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[唹]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[檍]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[孼]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蘖]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[糱]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[糵]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[龑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[嶪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[歟]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[璵]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[礖]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[艅]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[茹]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[轝]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[妤]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[晹]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[娟]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[涓]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[沇]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瑌]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[娫]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[堧]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[挻]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[椽]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[涎]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[縯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[曣]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[㜣]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[醼]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[兗]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[嬿]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[莚]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瓀]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[兖]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[姢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[潱]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[苒]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[燁]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[曄]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[熀]] in [[lookup/Korean/Korean Name ㅇ]], [[lookup/Korean/Korean Name ㅎ]]
+- [[渶]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[煐]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瀯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[楹]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鍈]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瓔]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[塋]] in [[lookup/Korean/Korean Name ㅇ]], [[lookup/SKIP/SKIP-2/SKIP-2-8-5]]
+- [[嶸]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[潁]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瀛]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[纓]] in [[lookup/Korean/Korean Name ㅇ]], [[lookup/SKIP/SKIP-1/SKIP-1-6-17]]
+- [[霙]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[嬴]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𢥏]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蠑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[朠]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[濚]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[倪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[汭]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[濊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[猊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[堄]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[橤]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[玴]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[嫕]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蓺]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蕊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𣫙]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[㙯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瘱]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蘂]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[旿]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[珸]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[俉]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[塢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[墺]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[懊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[獒]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鼇]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[浯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[燠]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鰲]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鈺]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瑥]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[媼]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[縕]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𥠺]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瓮]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[癰]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[饔]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[垸]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[琓]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[琬]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[婠]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[脘]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[妧]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[岏]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鋺]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[嵬]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[巍]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瑤]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[僥]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[嶢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[橈]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[繇]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蟯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[暚]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[縟]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鎔]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瑢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[榕]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[埇]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鏞]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[墉]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[俑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[慂]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[傛]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[槦]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[宂]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瑀]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[堣]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[玗]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[釪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[旴]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[禑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[紆]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[扜]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[圩]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[慪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[㥥]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[邘]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[昱]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[煜]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[頊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[彧]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[勖]] in [[lookup/Korean/Korean Name ㅇ]], [[lookup/SKIP/SKIP-2/SKIP-2-4-7]]
+- [[栯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[稢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[稶]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[沄]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[耘]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[賱]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[夽]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[橒]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[殞]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[熉]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[篔]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[䆬]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[䉙]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蔚]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[菀]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[洹]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[沅]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瑗]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[嫄]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[轅]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[湲]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[褑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[朊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[杬]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[笎]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鉞]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瑋]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[暐]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[渭]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蔿]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蝟]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[褘]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[洧]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[秞]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[攸]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[琟]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[萸]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[諛]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蹂]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鍮]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[曘]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[婑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[囿]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[牖]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[逌]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[姷]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[聈]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[堉]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[毓]] in [[lookup/Korean/Korean Name ㅇ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[玧]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鈗]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[阭]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[奫]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[昀]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[荺]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[聿]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[燏]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[汩]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[䢖]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[潏]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瀜]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[垠]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[誾]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[溵]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[珢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[慇]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[濦]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[㒚]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𤨒]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蘟]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[檼]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[檃]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[訢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蒑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[泿]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蒽]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[憖]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𨶡]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[圪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[愔]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[韾]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[膺]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𥌾]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[艤]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[薏]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[珥]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[怡]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[彝]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[痍]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[肄]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[苡]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[荑]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[貽]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[媐]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[杝]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[䏪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[㛅]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[珆]] in [[lookup/Korean/Korean Name ㅇ]], [[lookup/Korean/Korean Name ㅌ]]
+- [[鴯]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[彛]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[翊]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[瀷]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[熤]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[湮]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[絪]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[茵]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[蚓]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[靷]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[芢]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[㲽]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[牣]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[璌]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𣍃]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[氤]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[𦟘]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[諲]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[靭]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[朄]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[鎰]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[馹]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[恁]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[荏]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[䚾]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[芿]] in [[lookup/Korean/Korean Name ㅇ]]
+- [[炙]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[秄]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[芍]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[斫]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[孱]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[潺]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[箴]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[岑]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[奘]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[漳]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[璋]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[暲]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[檣]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[獐]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[贓]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[縡]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[渽]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[捚]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[賳]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[錚]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[諍]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[苧]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[樗]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[紵]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[菹]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[勣]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[謫]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鏑]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[佺]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[琠]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[荃]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[雋]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[塼]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[廛]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[悛]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[氈]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[筌]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[輾]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鐫]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[餞]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[晢]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[癤]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[岾]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[霑]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[玎]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[桯]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[珵]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[姃]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[湞]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[幀]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[珽]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[綎]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[晸]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鋌]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[靚]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鋥]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[炡]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[渟]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[涏]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[𩓞]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[婷]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[旌]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[檉]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[穽]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[諪]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[酊]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[霆]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[𩇕]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[埩]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[佂]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[妌]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[梃]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[眐]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[靘]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[朾]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[瑅]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[薺]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[霽]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[儕]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[晁]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[凋]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[璪]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[簇]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鏃]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[猝]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[倧]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[琮]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[淙]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[悰]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[瑽]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[炷]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[妵]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[澍]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[姝]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[嗾]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[輳]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[燽]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鉒]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[皗]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[䎻]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[絑]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[䝬]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[浚]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[晙]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[焌]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[畯]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[儁]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[埻]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[寯]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[逡]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[葰]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[竴]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[僔]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[陖]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[睃]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[餕]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[迿]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[惷]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[𨶊]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[埈]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[茁]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[楫]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[拯]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[繒]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[沚]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[祗]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鋕]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[咫]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[枳]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[芷]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[洔]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[厎]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[汦]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[吱]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[馶]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[稙]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[瑨]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[瑱]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[璡]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[軫]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[禛]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[縝]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[溱]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[抮]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[嗔]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[搢]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[桭]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[殄]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[畛]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[瞋]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[縉]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[臻]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[蔯]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[袗]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[䑐]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[蓁]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[昣]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[枃]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[稹]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[𤨁]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[瓆]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[侄]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[帙]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[桎]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[鏶]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[緝]] in [[lookup/Korean/Korean Name ㅈ]]
+- [[箚]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[蹉]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[硨]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[奲]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[姹]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[粲]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[澯]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[璨]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[瓚]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[纘]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[饌]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[巑]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[篡]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[欑]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[僭]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[讒]] in [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-17]]
+- [[讖]] in [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-17]]
+- [[昶]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[愴]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[寀]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[綵]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[琗]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[棌]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[婇]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[陟]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[倜]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[瘠]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[墌]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[仟]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[阡]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[悊]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[瞮]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[籤]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[堞]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[樵]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[剿]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[憔]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[苕]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[醮]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[岧]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[釥]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[矗]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[忖]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[悤]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[憁]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[摠]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[冢]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[楸]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[湫]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[騶]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[蹙]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[瑃]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[賰]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[珫]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[萃]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[悴]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[惻]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[嗤]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[梔]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[淄]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[緇]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[蚩]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[輜]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[飭]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[琛]] in [[lookup/Korean/Korean Name ㅊ]]
+- [[倬]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[琸]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[晫]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[坼]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[柝]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[踔]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[眈]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[榻]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[帑]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[邰]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[笞]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[鈦]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[垞]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[褪]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[頹]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[慝]] in [[lookup/Korean/Korean Name ㅌ]]
+- [[浿]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[澎]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[愎]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[翩]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[枰]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[泙]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[嬖]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[匏]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[咆]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[脯]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[逋]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[驃]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[剽]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[飆]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[陂]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[珌]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[苾]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[馝]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[鉍]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[佖]] in [[lookup/Korean/Korean Name ㅍ]]
+- [[遐]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[嘏]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[碬]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[閜]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[赮]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[𧬂]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[壑]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[嗃]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[瀚]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[澖]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[𡽜]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[僩]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[嫺]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[橌]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[䦥]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[緘]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[菡]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[啣]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[闔]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[沆]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[姮]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[嫦]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[懈]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[瀣]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[邂]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[咍]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[瑎]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[涬]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[珦]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[餉]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[麘]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[晑]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[櫶]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[䡣]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[赫]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[爀]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[焱]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[侐]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[焃]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[𧹽]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[峴]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[晛]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[泫]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[炫]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[玹]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鉉]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[昡]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[俔]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[睍]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[衒]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[儇]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[譞]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[怰]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[䧋]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鋗]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[㢺]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[琄]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[孑]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[浹]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[冾]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[珩]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[泂]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[炯]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[瀅]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[熒]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[滎]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[灐]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鎣]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[蕙]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[譿]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[寭]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[憓]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[暳]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[醯]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[譓]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鏸]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[晧]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[淏]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[灝]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[祜]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[頀]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[顥]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[濩]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[岵]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[皞]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[婋]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[芐]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[犒]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[琿]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[俒]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[笏]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[泓]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鉷]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[訌]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[嬅]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[譁]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[澕]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[攫]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[奐]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[渙]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[晥]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鐶]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[驩]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[紈]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鰥]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[圜]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[堭]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[媓]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[榥]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[璜]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[惶]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[愰]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[湟]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[潢]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[篁]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[遑]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[隍]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[楻]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[澮]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[誨]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[獪]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[膾]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[茴]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鐄]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[宖]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[涍]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[爻]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[斅]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[哮]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[嚆]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[梟]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[皛]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[歊]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[窙]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[逅]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[帿]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[煦]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[珝]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[焄]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[壎]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[燻]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鑂]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[塤]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[煊]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[𠦄]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[煇]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[麾]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[煒]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[烋]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[恤]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鷸]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[炘]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[昕]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[忻]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[紇]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-10-11]]
+- [[訖]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[鑫]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[晞]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[僖]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[橲]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[憙]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[熹]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[凞]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[羲]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[爔]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[曦]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[俙]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[𡅕]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[憘]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[煕]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[烯]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[暿]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[熺]] in [[lookup/Korean/Korean Name ㅎ]]
+- [[𪗱]] in [[lookup/Radicals/Radical 211]]
+- [[篪]] in [[lookup/Radicals/Radical 214]]
+- [[伜]] in [[lookup/SKIP/SKIP-1/SKIP-1-2-4]]
+- [[倅]] in [[lookup/SKIP/SKIP-1/SKIP-1-2-4]]
+- [[侭]] in [[lookup/SKIP/SKIP-1/SKIP-1-2-6]]
+- [[潅]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嶋]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[滷]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嘖]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[塲]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嫣]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嫗]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嫖]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嶇]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嶂]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[幗]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[幔]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[慟]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[慓]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[滸]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[嘘]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
+- [[囎]] in [[lookup/SKIP/SKIP-1/SKIP-1-3-19]]
+- [[罎]] in [[lookup/SKIP/SKIP-1/SKIP-1-6-16]]
+- [[艫]] in [[lookup/SKIP/SKIP-1/SKIP-1-6-16]]
+- [[絖]] in [[lookup/SKIP/SKIP-1/SKIP-1-6-6]]
+- [[絋]] in [[lookup/SKIP/SKIP-1/SKIP-1-6-6]]
+- [[讌]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-16]]
+- [[躙]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-16]]
+- [[轣]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-16]]
+- [[轤]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-16]]
+- [[躡]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-18]]
+- [[輓]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[踈]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[貍]] in [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+- [[飮]] in [[lookup/SKIP/SKIP-1/SKIP-1-9-4]]
+- [[蘗]] in [[lookup/SKIP/SKIP-2/SKIP-2-3-17]]
+- [[lookup/SKIP/SKIP-2/SKIP-2-3]]]] in [[lookup/SKIP/SKIP-2/SKIP-2-3-5]]
+- [[lookup/Stroke/Stroke 08]]]] in [[lookup/SKIP/SKIP-2/SKIP-2-3-5]]
+- [[宥]] in [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
+- [[阱]] in [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
+- [[勗]] in [[lookup/SKIP/SKIP-2/SKIP-2-4-7]]
+- [[煢]] in [[lookup/SKIP/SKIP-2/SKIP-2-8-5]]
+- [[魑]] in [[lookup/SKIP/SKIP-3/SKIP-3-10-11]]
+- [[匳]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
+- [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
+- [[筆画数]] in [[lookup/Stroke/Stroke]]
+- [[唇音]] in [[syllables/Syllables]]
+- [[歯茎]] in [[syllables/Syllables]]
+- [[舌背]] in [[syllables/Syllables]]
+- [[濁塞]] in [[syllables/Syllables]]
+- [[ㄙ˙ㄝ]] in [[syllables/Syllables]]
+- [[ㄅ˙ㄛ]] in [[syllables/Syllables]]
+- [[膃肭]] in [[syllables/ˇㄚㄆ]]
+- [[名誉]] in [[syllables/˙ㄛ]]
+- [[喜悅]] in [[syllables/˙ㄝㄊ]]
+- [[検閲]] in [[syllables/˙ㄝㄊ]]
+- [[悠久]] in [[syllables/˙ㄨˇ]]
+- [[誘発]] in [[syllables/˙ㄨˇ]]
+- [[鞭打]] in [[syllables/ㄅ˙ㄝㄋ]]
+- [[稗子]] in [[syllables/ㄅㄚ˙]]
+- [[磐石]] in [[syllables/ㄅㄚㄋ]]
+- [[絆倒]] in [[syllables/ㄅㄚㄋ]]
+- [[肥胖]] in [[syllables/ㄅㄚㄋ]]
+- [[幇助]] in [[syllables/ㄅㄚㄥ]]
+- [[繃帯]] in [[syllables/ㄅㄚㄥ]]
+- [[爆発]] in [[syllables/ㄅㄛㄎ]]
+- [[剝皮]] in [[syllables/ㄅㄛㄎ]]
+- [[泛濫]] in [[syllables/ㄅㄧㄇ]]
+- [[稟告]] in [[syllables/ㄅㄨㄇ]]
+- [[琺瑯]] in [[syllables/ㄆㄚㄆ]]
+- [[噴火]] in [[syllables/ㄆㄛㄋ]]
+- [[支付]] in [[syllables/ㄆㄨ]]
+- [[俯仰]] in [[syllables/ㄆㄨ]]
+- [[杪小]] in [[syllables/ㄇ˙ㄛ]]
+- [[誤謬]] in [[syllables/ㄇ˙ㄨ]]
+- [[牛虻]] in [[syllables/ㄇㄚㄥ]]
+- [[萬物]] in [[syllables/ㄇㄛㄋ]]
+- [[桃子]] in [[syllables/ㄉㄚˇ]]
+- [[窃盗]] in [[syllables/ㄉㄚˇ]]
+- [[掏摸]] in [[syllables/ㄉㄚˇ]]
+- [[逗留]] in [[syllables/ㄉㄚˇ]]
+- [[鞀鼓]] in [[syllables/ㄉㄚˇ]]
+- [[蛋白]] in [[syllables/ㄉㄚㄋ]]
+- [[忌惮]] in [[syllables/ㄉㄚㄋ]]
+- [[破綻]] in [[syllables/ㄉㄚㄋ]]
+- [[檀木]] in [[syllables/ㄉㄚㄋ]]
+- [[屠殺]] in [[syllables/ㄉㄛ]]
+- [[杜撰]] in [[syllables/ㄉㄛ]]
+- [[鍍金]] in [[syllables/ㄉㄛ]]
+- [[途中]] in [[syllables/ㄊㄛ]]
+- [[貞潔]] in [[syllables/ㄊㄧㄥ]]
+- [[魶]] in [[syllables/ㄋㄨㄆ]]
+- [[学寮]] in [[syllables/ㄌ˙ㄚˇ]]
+- [[醜陋]] in [[syllables/ㄌ˙ㄚˇ]]
+- [[蓼藍]] in [[syllables/ㄌ˙ㄚˇ]]
+- [[蓬莱]] in [[syllables/ㄌㄚ˙]]
+- [[李子]] in [[syllables/ㄌㄧ]]
+- [[吝嗇]] in [[syllables/ㄌㄧㄋ]]
+- [[霊柩]] in [[syllables/ㄍ˙ㄨ]]
+- [[赳赳]] in [[syllables/ㄍ˙ㄨ]]
+- [[大蛤]] in [[syllables/ㄍㄚㄆ]]
+- [[擱筆]] in [[syllables/ㄍㄚㄎ]]
+- [[桔梗]] in [[syllables/ㄍㄝㄊ]]
+- [[偈陀]] in [[syllables/ㄍㄝㄊ]]
+- [[娼妓]] in [[syllables/ㄍㄧ]]
+- [[囲棋]] in [[syllables/ㄍㄧ]]
+- [[企劃]] in [[syllables/ㄎㄝ]]
+- [[横幅]] in [[syllables/ㄏˇㄚㄥ]]
+- [[荒廃]] in [[syllables/ㄏˇㄚㄥ]]
+- [[浩大]] in [[syllables/ㄏㄚˇ]]
+- [[消耗]] in [[syllables/ㄏㄚˇ]]
+- [[鎬京]] in [[syllables/ㄏㄚˇ]]
+- [[航行]] in [[syllables/ㄏㄚㄥ]]
+- [[衡量]] in [[syllables/ㄏㄚㄥ]]
+- [[杏子]] in [[syllables/ㄏㄚㄥ]]
+- [[哄笑]] in [[syllables/ㄏㄛㄥ]]
+- [[険]] in [[syllables/ㄏㄝㄇ]]
+- [[嫌悪]] in [[syllables/ㄏㄝㄇ]]
+- [[戯曲]] in [[syllables/ㄏㄨ˙]]
+- [[指揮]] in [[syllables/ㄏㄨ˙]]
+- [[編纂]] in [[syllables/ㄐˇㄚㄋ]]
+- [[料槽]] in [[syllables/ㄐㄚˇ]]
+- [[暗礁]] in [[syllables/ㄐㄚˇ]]
+- [[負債]] in [[syllables/ㄐㄚ˙]]
+- [[栽培]] in [[syllables/ㄐㄚ˙]]
+- [[財産]] in [[syllables/ㄐㄚ˙]]
+- [[斎戒]] in [[syllables/ㄐㄚ˙]]
+- [[暫時]] in [[syllables/ㄐㄚㄇ]]
+- [[男爵]] in [[syllables/ㄐㄚㄎ]]
+- [[狭窄]] in [[syllables/ㄐㄚㄎ]]
+- [[貯蔵]] in [[syllables/ㄐㄛ]]
+- [[租金]] in [[syllables/ㄐㄛ]]
+- [[粗糙]] in [[syllables/ㄐㄛ]]
+- [[瞻仰]] in [[syllables/ㄐㄝㄇ]]
+- [[践踏]] in [[syllables/ㄐㄝㄋ]]
+- [[磚石]] in [[syllables/ㄐㄝㄋ]]
+- [[賎人]] in [[syllables/ㄐㄝㄋ]]
+- [[梓木]] in [[syllables/ㄐㄧ]]
+- [[鋳造]] in [[syllables/ㄐㄨ]]
+- [[掃帚]] in [[syllables/ㄐㄨ]]
+- [[皺紋]] in [[syllables/ㄐㄨ]]
+- [[誅殺]] in [[syllables/ㄐㄨ]]
+- [[註解]] in [[syllables/ㄐㄨ]]
+- [[邾国]] in [[syllables/ㄐㄨ]]
+- [[牆壁]] in [[syllables/ㄑˇㄚㄥ]]
+- [[瘡口]] in [[syllables/ㄑˇㄚㄥ]]
+- [[雌性]] in [[syllables/ㄑㄝ]]
+- [[厠所]] in [[syllables/ㄑㄧ]]
+- [[心緒]] in [[syllables/ㄙ˙ㄛ]]
+- [[疎忽]] in [[syllables/ㄙ˙ㄛ]]
+- [[容恕]] in [[syllables/ㄙ˙ㄛ]]
+- [[菜蔬]] in [[syllables/ㄙ˙ㄛ]]
+- [[歌頌]] in [[syllables/ㄙ˙ㄛㄥ]]
+- [[腺体]] in [[syllables/ㄙ˙ㄝㄋ]]
+- [[膳食]] in [[syllables/ㄙ˙ㄝㄋ]]
+- [[杉木]] in [[syllables/ㄙㄚㄇ]]
+- [[早晨]] in [[syllables/ㄙㄧㄋ]]
+- [[神聖]] in [[syllables/ㄙㄧㄥ]]
+- [[烝民]] in [[syllables/ㄙㄧㄥ]]
+- [[既遂]] in [[syllables/ㄙㄨ˙]]
+- [[骨髄]] in [[syllables/ㄙㄨ˙]]
+- [[陳述]] in [[syllables/ㄙㄨㄊ]]
+- [[𧦅歌]] in [[syllables/ㄛˇ]]
+- [[鴎]] in [[syllables/ㄛˇ]]
+- [[寓居]] in [[syllables/ㄨ]]
+- [[主掌]] in [[translation/周礼 (book)]]
+- [[諌議]] in [[translation/周礼 (book)]]
+- [[五礼]] in [[translation/周礼 (book)]]
+- [[六楽]] in [[translation/周礼 (book)]]
+- [[五射]] in [[translation/周礼 (book)]]
+- [[五馭]] in [[translation/周礼 (book)]]
+- [[九数]] in [[translation/周礼 (book)]]
+- [[皮衣]] in [[translation/論語 (book)]]
+- [[魏峨]] in [[translation/論語 (book)]]
+- [[台悦]] in [[translation/論語 (book)]]
+- [[教戒]] in [[translation/論語 (book)]]
+- [[自尊]] in [[translation/論語 (book)]]
+- [[和敬]] in [[translation/論語 (book)]]
+- [[痛哭]] in [[translation/論語 (book)]]
+- [[漢方]] in [[words/七情]]
+- [[医学]] in [[words/七情]]
+- [[参拾]] in [[words/三十]]
+- [[十干]] in [[words/乙]]
+- [[書経]] in [[words/五経]], [[words/四書五経]]
+- [[易経]] in [[words/五経]], [[words/四書五経]]
+- [[明君]] in [[words/光明]]
+- [[書經]] in [[words/光明]]
+- [[指事]] in [[words/六書]]
+- [[象形]] in [[words/六書]]
+- [[形声]] in [[words/六書]]
+- [[会意]] in [[words/六書]]
+- [[転注]] in [[words/六書]]
+- [[孫子兵法]] in [[words/兵法]]
+- [[冥王]] in [[words/冥金]]
+- [[印尼]] in [[words/印度尼西亜]]
+- [[肆拾]] in [[words/四十]]
+- [[圓錐]] in [[words/圓錐曲線]]
+- [[曲線]] in [[words/圓錐曲線]]
+- [[translation/大学 (book)]] in [[words/大学]]
+- [[易經]] in [[words/天地]]
+- [[天地人]] in [[words/天地]]
+- [[太易]] in [[words/天地]]
+- [[太初]] in [[words/天地]]
+- [[太素]] in [[words/天地]]
+- [[盤古]] in [[words/天地]]
+- [[弓道]] in [[words/射術]]
+- [[words/冊子]] in [[words/小冊子]]
+- [[秋田]] in [[words/山本]]
+- [[春秋時代]] in [[words/春秋]]
+- [[麟経]] in [[words/春秋]]
+- [[麟史]] in [[words/春秋]]
+- [[春秋鼎盛]] in [[words/春秋]]
+- [[書契]] in [[words/書法]]
+- [[書道]] in [[words/書法]]
+- [[武士道]] in [[words/武士]]
+- [[武道]] in [[words/武士]]
+- [[懸心]] in [[words/武士]]
+- [[人数]] in [[words/死亡人数]]
+- [[注音]] in [[words/注音符号]]
+- [[無極]] in [[words/混沌]]
+- [[太極]] in [[words/混沌]]
+- [[開天闢地]] in [[words/混沌]]
+- [[石灰]] in [[words/石灰素]]
+- [[魂魄]] in [[words/神霊]]
+- [[天神地祇]] in [[words/神霊]]
+- [[緑柱石]] in [[words/緑柱素]]
+- [[旧字体]] in [[words/繁体字]]
+- [[英格蘭]] in [[words/英国]]
+- [[鑢]] in [[words/軽銀]]
+- [[霓虹]] in [[words/霓虹素]]
+- [[狂風]] in [[words/風狂]]
+- [[栄養素]] in [[words/養素]]
+- [[高盧]] in [[words/高素]]
+- [[無明]] in [[words/黒暗]]
