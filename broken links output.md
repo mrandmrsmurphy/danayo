@@ -1,5 +1,5 @@
 HSK means:
-- [[于]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[words/于]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[共]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[由]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/˙ㄨˇ]]
 - [[公]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]]
@@ -19,7 +19,6 @@ HSK means:
 - [[鷹]] in [[lexipedia/Sophomore List]], [[lookup/HSK/Old HSK 4]]
 - [[樣]] in [[lookup/HSK/HSK Beginner]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[极]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[计]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
 - [[划]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[繼]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[續]] in [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 4]]

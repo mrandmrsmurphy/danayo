@@ -30,6 +30,7 @@ stand_in: 済
 aliases:
   - 濟
   - 侈
+  - 济
 注音: ㄐㄝ˙
 ---
 >[!tip] This is a page about the character 済.
