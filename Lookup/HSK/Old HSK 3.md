@@ -153,24 +153,23 @@
 [[帶]]: 7
 [[导]]: 7
 [[導]]: 7
-[[火]]: 7
-[[器]]: 7
-[[压]]: 7
-[[壓]]: 7
-[[特]]: 7
-[[时]]: 7
-[[時]]: 7
-[[恶]]: 7 --> [恶魔](../../words/悪魔.md)
+[火 (char)](../../characters/火%20(char).md): 7
+[器](../../characters/器.md): 7
+[压](../../characters/圧%20(char).md)
+[壓](../../characters/圧%20(char).md): 7
+[特](../../characters/特.md): 7
+[時 (char)](../../characters/時%20(char).md): 7
+[恶](../../characters/悪%20(char).md)
 [干](../../characters/幹.md): 7
 [歌](../../characters/歌.md): 7
 [以 (char)](../../characters/以%20(char).md): 7
 [国](../../characters/国.md): 7
 青: 7
-[[害]]: 7
-[[何]]: 7
-[[夜]]: 7
-[[如]]: 7
-[[精]]: 7
+[害](../../characters/害.md): 7
+[何 (char)](../../characters/何%20(char).md): 7
+[夜 (char)](../../characters/夜%20(char).md): 7
+[如 (char)](../../characters/如%20(char).md): 7
+[精](../../characters/精.md): 7
 [[科]]: 7
 [[毛]]: 7
 [[品]]: 7

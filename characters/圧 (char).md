@@ -1,7 +1,7 @@
 ---
-mandarin: "yā"
-cantonese: "zong1"
-korean: "압"
+mandarin: yā
+cantonese: zong1
+korean: 압
 korean_native: 누를
 japanese:
   - ATSU
@@ -28,6 +28,7 @@ graphemic_classification: 厭
 stand_in: 圧
 aliases:
   - 壓
+  - 压
 注音: ㄚㄊ
 ---
 >[!tip] This is a page about the character 圧.

@@ -57,7 +57,7 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄥㄑㄧ</rt></ruby>) 
 - <ruby>[印度](words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>  
 - Pakistan (巴基斯坦)  
 - Bangladesh (孟加拉)  
-- Sri Lanka (斯里蘭卡)  
+- Sri Lanka (獅子国)  
 - Nepal (尼泊爾)  
 - Bhutan (不丹)
 The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧ˙</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧ˙ㄋ˙ㄝㄋ</rt></ruby>[[界線]]).
