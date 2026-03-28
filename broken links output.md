@@ -42,7 +42,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[七色]] in [[characters/七 (char)]]
 - [[七角形]] in [[characters/七 (char)]]
 - [[words/両]] in [[characters/両 (char)]]
-- [[口]] in [[characters/中 (char)]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+- [[words/口]] in [[characters/中 (char)]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
 - [[words/乎]] in [[characters/乎 (char)]]
 - [[九泉]] in [[characters/九 (char)]]
 - [[九卿]] in [[characters/九 (char)]]
