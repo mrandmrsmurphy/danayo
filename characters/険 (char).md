@@ -1,7 +1,7 @@
 ---
-mandarin: "xiǎn"
-cantonese: "him2"
-korean: "험"
+mandarin: xiǎn
+cantonese: him2
+korean: 험
 korean_native: 험할
 japanese:
   - KEN
@@ -27,6 +27,7 @@ graphemic_classification: 㑒
 stand_in: 険
 aliases:
   - 險
+  - 险
 注音: ㄏㄝㄇ
 ---
 >[!tip] This is a page about the character 険.

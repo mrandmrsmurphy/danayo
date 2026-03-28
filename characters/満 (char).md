@@ -1,7 +1,7 @@
 ---
-mandarin: "mǎn"
-cantonese: "mun5"
-korean: "만"
+mandarin: mǎn
+cantonese: mun5
+korean: 만
 korean_native: 찰
 japanese:
   - MAN
@@ -28,6 +28,7 @@ graphemic_classification: 㒼
 stand_in: 満
 aliases:
   - 滿
+  - 满
 注音: ㄇㄚㄋ
 ---
 >[!tip] This is a page about the character 満.

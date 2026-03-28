@@ -1,5 +1,4 @@
 HSK means:
-- [[words/于]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[共]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[由]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/˙ㄨˇ]]
 - [[公]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]]
