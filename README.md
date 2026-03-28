@@ -48,8 +48,13 @@ The following are not content pages, but "programming"
 ## Delete
 
 The following files are supposed to all be temporary:
+- [broken links output](broken%20links%20output.md)
+- [orphaned files output](orphaned%20files%20output.md)
 
-- [Syllable Counts](Syllable%20Counts.md)
+----
+
+## Bases
+
 - [Last Perfect](Last%20Perfect.base)
 - [Char base](characters/Char%20base.base)
 - [All Chengyu Base](chengyu/All%20Chengyu%20Base.base)
