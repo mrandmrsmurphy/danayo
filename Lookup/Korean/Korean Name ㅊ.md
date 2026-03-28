@@ -43,7 +43,7 @@ These have all bee checked to see which are redirects
 [帖](characters/帖%20(char).md) [捷](characters/捷.md) [[堞]] [牒](characters/牒.md) [疊](characters/畳%20(char).md) [[睫]] [諜](characters/諜.md) [貼](characters/貼%20(char).md) [輒](characters/輒.md) 
 
 ### 청 
-[菁](characters/青%20(char).md) [鯖](characters/鯖.md)
+菁 --> 青 [鯖](characters/鯖.md)
 
 ### 체 
 [締](characters/締%20(char).md) [諦](characters/諦%20(char).md) [切](characters/切%20(char).md) [剃](characters/剃%20(char).md) [涕](characters/剃%20(char).md) [[諟]]

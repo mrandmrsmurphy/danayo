@@ -1,7 +1,7 @@
 ---
-mandarin: "è"
-cantonese: "ok3"
-korean: "악"
+mandarin: è
+cantonese: ok3
+korean: 악
 korean_native: 악할
 japanese:
   - AKU
@@ -14,7 +14,7 @@ stroke_count: 11
 radical: 心
 skip_number: 2-7-4
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - bad
   - evil
@@ -29,6 +29,7 @@ graphemic_classification: 亜
 stand_in: 悪
 aliases:
   - 惡
+  - 恶
 注音: ㄚㄎ
 ---
 >[!tip] This is a page about the character 悪.

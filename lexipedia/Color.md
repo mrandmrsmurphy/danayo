@@ -2,8 +2,8 @@
 language: English
 ---
 
-- black - <ruby>黒<rt>훅</rt></ruby>
-- blue - <ruby>青<rt>청</rt></ruby>
+- black - <ruby>[黒](/words/黒.md)<rt>ㄏㄨㄎ</rt></ruby>
+- blue - [青 (char)](../characters/青%20(char).md) [[青]]
 - brown - [[茶色]] tea color, <ruby>褐<rt>핟</rt></ruby>
 - color - <ruby>色彩<rt>식채</rt></ruby>
 - grey - [[灰色]] ash color, [[鼠色]] rat color
