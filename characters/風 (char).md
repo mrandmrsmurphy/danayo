@@ -1,20 +1,21 @@
 ---
-mandarin: "fēng"
-cantonese: "fung1"
-korean: "풍"
+mandarin: fēng
+cantonese: fung1
+korean: 풍
 korean_native: ""
 japanese:
   - FUU
   - FU
 japanese_nanori: ""
 vietnamese:
+  - phong, phông
 middle_chinese_initial: p
 middle_chinese_final: ɨuŋ
 stroke_count: 9
 radical: 風
 skip_number: 3-2-7
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - wind
 羅馬字: pung
@@ -31,7 +32,7 @@ aliases:
   - 渢
 注音: ㄆㄨㄥ
 ---
->[!tip] This is about the character.  For the word, see [[風]].
+>[!tip] This is about the character.  For the word, see [[../words/風]].
 >For the radical, see [Radical 182](lookup/Radicals/Radical%20182.md).
 ```meta-bind-embed
 [[nav/char_info]]

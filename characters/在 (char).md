@@ -1,12 +1,13 @@
 ---
-mandarin: "zài"
-cantonese: "zoi6"
-korean: "재"
+mandarin: zài
+cantonese: zoi6
+korean: 재
 korean_native: ""
 japanese:
   - ZAI
 japanese_nanori: ""
 vietnamese:
+  - tại
 middle_chinese_initial: d͡z
 middle_chinese_final: ʌi
 stroke_count: 6
