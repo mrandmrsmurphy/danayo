@@ -8,6 +8,7 @@ views:
       - 羅馬字
       - 韓文
       - file.mtime
+      - date-last-perfect
     sort:
       - property: file.mtime
         direction: ASC
@@ -27,7 +28,6 @@ views:
         direction: ASC
     columnSize:
       file.name: 176
-      note.date-last-perfect: 123
       note.注音: 132
       note.羅馬字: 160
-      note.韓文: 135
+      note.韓文: 62

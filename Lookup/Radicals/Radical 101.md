@@ -1,9 +1,14 @@
 ---
 size: 3
-date-last-perfect:
+date-last-perfect: 2026-03-27
 radical: 用
 ---
-> [[Radicals]]
+> [Radicals](Radicals.md)
+
+## Characters
+1. <ruby>[用](/characters/用.md)<rt>˙ㄛㄥ</rt></ruby> - use
+2. <ruby>[甫](/characters/甫.md)<rt>ㄆㄨ</rt></ruby> - just now
+3. <ruby>[甬](/characters/甬.md)<rt>˙ㄛㄥ</rt></ruby> - Yong river
 
 ## Data search
 ```dataview
