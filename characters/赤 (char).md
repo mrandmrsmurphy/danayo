@@ -1,20 +1,21 @@
 ---
-mandarin: "chì"
-cantonese: "cek3"
-korean: "적"
+mandarin: chì
+cantonese: cek3
+korean: 적
 korean_native: ""
 japanese:
   - SEKI
   - SHAKU
 japanese_nanori: ""
 vietnamese:
+  - xích
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iᴇk
 stroke_count: 7
 radical: 赤
 skip_number: 2-3-4
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - red
 羅馬字: ceg

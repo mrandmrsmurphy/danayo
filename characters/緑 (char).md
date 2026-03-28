@@ -1,13 +1,15 @@
 ---
-mandarin: "lǜ"
-cantonese: "luk6"
-korean: "록"
+mandarin: lǜ
+cantonese: luk6
+korean: 록
 korean_native: 초록빛
 japanese:
   - RYOKU
   - ROKU
-japanese_nanori: ""
+japanese_nanori:
+  - つか
 vietnamese:
+  - lục
 middle_chinese_initial: l
 middle_chinese_final: ɨok
 stroke_count: 14

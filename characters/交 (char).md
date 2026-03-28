@@ -39,8 +39,9 @@ aliases:
 ```
 ## Notes
 - Derived characters
-	- [絞](characters/絞.md)
+	- <ruby>[絞](/characters/絞.md)<rt>ㄍ˙ㄛˇ</rt></ruby>
 	- <ruby>[咬](/characters/咬%20(char).md)<rt>˙ㄚˇ</rt></ruby>
+	- <ruby>[校](/characters/校.md)<rt>ㄏ˙ㄚˇ</rt></ruby> - schoool
 
 
 ## Words

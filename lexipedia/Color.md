@@ -5,13 +5,18 @@ language: English
 - black - <ruby>[黒](/words/黒.md)<rt>ㄏㄨㄎ</rt></ruby>
 - blue - <ruby>[青](/words/青.md)<rt>ㄑㄝㄥ</rt></ruby>
 - brown 
-	- [[茶色]] tea color, <ruby>[[褐]]<rt>핟</rt></ruby>
-- color - [[色彩]]
-- grey - [[灰色]] ash color, [[鼠色]] rat color
-- green - <ruby>[[緑]]<rt>록</rt></ruby>
-- orange - [[橙色]] orange color
+	- [[茶色]] tea color
+	- <ruby>[[褐]]<rt>핟</rt></ruby>
+- color - <ruby>[色彩](/words/色彩.md)<rt>ㄙㄧㄎㄑㄚ˙</rt></ruby>
+- grey 
+	- [[灰色]] ash color
+	- <ruby>[鼠色](/words/鼠色.md)<rt>ㄙ˙ㄛㄙㄧㄎ</rt></ruby> - rat color
+- green - <ruby>[緑](/words/緑.md)<rt>ㄌㄛㄎ</rt></ruby>
+- orange - [[橙色]] 
 - pink - [[桃色]]
-- purple - [[紫色]]
-- red - <ruby>[[紅]]<rt>홍</rt></ruby> (crimson), <ruby>[[赤]]<rt>척</rt></ruby> 
-- white - <ruby>[[白]]<rt>박</rt></ruby>
-- yellow - <ruby>[[黄]]<rt>황</rt></ruby>
+- purple - <ruby>[紫色](/words/紫色.md)<rt>ㄐㄝㄙㄧㄎ</rt></ruby>
+- red 
+	- <ruby>[紅](/words/紅.md)<rt>ㄏㄛㄥ</rt></ruby> (crimson)
+	- <ruby>[赤](/words/赤.md)<rt>ㄑㄝㄎ</rt></ruby>
+- white - <ruby>[白](/words/白.md)<rt>ㄅㄚㄎ</rt></ruby>
+- yellow - <ruby>[黄](/words/黄.md)<rt>ㄏˇㄚㄥ</rt></ruby>
