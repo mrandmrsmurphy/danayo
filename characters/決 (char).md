@@ -39,9 +39,13 @@ aliases:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声: (OC \*kʷeːd, \*qʰʷeːd): semantic [[Radical 085|氵]] + phonetic 夬 (OC \*kʷraːds).  However, we do not retain that original component.  (It was also written 叏.)  It's descendants are:
-	- This character 決
+- 形声: (OC \*kʷeːd, \*qʰʷeːd): semantic [[Radical 085|氵]] + phonetic 夬 (OC \*kʷraːds).  
+- However, we do not retain that original component 夬.  (It was also written 叏.)  It's descendants are:
+	- This character **決**
 	- [袂 (char)](characters/袂%20(char).md)
 	- [快 (char)](characters/快%20(char).md)
 	- [缺](characters/缺.md)
 	- [訣](characters/訣.md)
+
+## Words
+- <ruby>[解決](/words/解決.md)<rt>ㄍ˙ㄚ˙ㄎˇㄝㄊ</rt></ruby>

@@ -7,8 +7,8 @@ radical: 手
 
 ## Data search
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE english AS "English", stroke_count AS "SC", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "手"
-SORT file.name ASC
+SORT stroke_count ASC
 ```
