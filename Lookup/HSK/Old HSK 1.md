@@ -525,7 +525,7 @@
 [評](../../characters/評.md): 1
 [评](../../characters/評.md): 1
 !!啤: 1
-[酒](../../characters/酒.md): 1
+酒: 1
 [宜](../../characters/宜.md): 1
 [漂 (char)](../../characters/漂%20(char).md): 1
 [蘋](../../characters/苹.md): 1
