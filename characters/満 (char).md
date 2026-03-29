@@ -33,9 +33,10 @@ aliases:
 ---
 >[!tip] This is a page about the character 満.
 >For the word, see [満](words/満.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形声: OC \*moːnʔ): semantic [[Radical 085|水]] (“water”) + phonetic [[㒼]] (mán).
+- 形声 (OC \*moːnʔ): semantic [[Radical 085|水]] (“water”) + phonetic [[㒼]] (mán).
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md)) - [ㄇㄚㄋ](../syllables/ㄇㄚㄋ.md)
+- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 2](../lookup/Grade%202.md)

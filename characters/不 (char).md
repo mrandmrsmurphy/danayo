@@ -40,6 +40,13 @@ aliases:
 [[nav/char_info]]
 ```
 ## Etymologies
+Pictogram ([List of 象形](../lookup/List%20of%20象形.md)): the calyx of a flower. 不 was then composed into a phono-semantic character with the pictograph for mouth (口), to form 否 (OC \*brɯʔ, \*pɯʔ), representing “no” (negation). This composed meaning then spread back to the original character 不, making it a synonym of 否. A new character of 柎 (OC \*po) was eventually created to represent the original meaning of calyx.
+
+Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird flying toward the sky ([一](Radical%20001)). The sky being the limit for the bird, thus the idea of negation.
+- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄅㄛㄊ](../syllables/ㄅㄛㄊ.md)
+- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
+- Second most used character in Classical Chinese
+### Derived characters
 - 木 + 不 = [杯 (char)](characters/杯%20(char).md) 
 - 不 + 口 = [否 (char)](characters/否%20(char).md)
 - 不 + 一 = [丕](characters/丕.md)
