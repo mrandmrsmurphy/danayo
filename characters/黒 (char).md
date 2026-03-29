@@ -33,9 +33,14 @@ aliases:
 ---
 >[!tip] This is a page about the character 黒.
 >For the word, see [黒](words/黒.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[暗黒]]
+- [[黒色]]
+- [[黒板]]
+- [[黒貂]]
+- 
