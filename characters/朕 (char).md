@@ -1,19 +1,20 @@
 ---
-mandarin: "zhèn"
-cantonese: "zam6"
-korean: "짐"
+mandarin: zhèn
+cantonese: zam6
+korean: 짐
 korean_native: ""
 japanese:
   - CHIN
   - JIN
 japanese_nanori: ""
 vietnamese:
+  - chũm
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiɪm
 stroke_count: 10
 radical: 月
 skip_number: 1-4-6
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - we (royal)
@@ -32,10 +33,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 朕.
 >For the word, see [朕](words/朕.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 V pronunciation

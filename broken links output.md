@@ -1,8 +1,4 @@
 HSK means:
-- [[未]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
-- [[多]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
-- [[朕]] in [[grammar/文法 - 97品詞]], [[words/我]]
-- [[匹]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
 - [[冊]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]]
 - [[枚]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[syllables/ㄇㄛ˙]]
 - [[条]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/ㄐㄛ]]
@@ -13,7 +9,6 @@ HSK means:
 - [[挪]] in [[lexipedia/Geography]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄴ]]
 - [[鷹]] in [[lexipedia/Sophomore List]], [[lookup/HSK/Old HSK 4]]
 - [[樣]] in [[lookup/HSK/HSK Beginner]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[分]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
 - [[场]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[机]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
 - [[步]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]

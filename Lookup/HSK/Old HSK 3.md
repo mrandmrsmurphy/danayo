@@ -1,13 +1,12 @@
-[[地]]: 26
-[[#]]: 26
-[[自]]: 25
-[[大]]: 24
-[[行]]: 23
-[[分]]: 23
-[[得]]: 22
-[[物]]: 20
-[[面]]: 19
-[[成]]: 19
+[地 (char)](../../characters/地%20(char).md): 26
+[自](../../characters/自.md): 25
+[大 (char)](../../characters/大%20(char).md)): 24
+[行 (char)](../../characters/行%20(char).md): 23
+分: 23
+[得](../../characters/得.md): 22
+[物 (char)](../../characters/物%20(char).md): 20
+[面](../../characters/面.md): 19
+[成 (char)](../../characters/成%20(char).md): 19
 [口 (char)](../../characters/口%20(char).md): 19
 [心 (char)](../../characters/心%20(char).md): 18
 [动](../../characters/動%20(char).md): 18

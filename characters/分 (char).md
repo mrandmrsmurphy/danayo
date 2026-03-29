@@ -9,6 +9,7 @@ japanese:
   - BU
 japanese_nanori: ""
 vietnamese:
+  - phân
 middle_chinese_initial: b
 middle_chinese_final: ɨun
 stroke_count: 4

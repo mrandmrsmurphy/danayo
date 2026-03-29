@@ -1,23 +1,24 @@
 ---
-mandarin: "duō"
-cantonese: "do1"
-korean: "다"
+mandarin: duō
+cantonese: do1
+korean: 다
 korean_native: ""
 japanese:
   - TA
 japanese_nanori: ""
 vietnamese:
+  - đa
 middle_chinese_initial: t
 middle_chinese_final: ɑ
 stroke_count: 6
 radical: 夕
 skip_number: 2-3-3
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - many
 羅馬字: da
-韓文:  다
+韓文: 다
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
