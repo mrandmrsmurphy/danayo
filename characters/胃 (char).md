@@ -1,13 +1,13 @@
 ---
-mandarin: "wèi"
-cantonese: "wai6"
-korean: "위"
+mandarin: wèi
+cantonese: wai6
+korean: 위
 korean_native: ""
 japanese:
   - I
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: 0
+middle_chinese_initial: "0"
 middle_chinese_final: ʉi
 stroke_count: 9
 radical: 肉
@@ -31,9 +31,13 @@ aliases:
 ---
 >[!tip] This is a page about the character 胃.
 >For the word, see [胃](words/胃.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[胃癌]]
+- [[胃痛]]
+- [[胃酸]]
+- [[胃炎]]
