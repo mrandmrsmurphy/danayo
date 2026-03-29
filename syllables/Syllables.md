@@ -188,8 +188,6 @@ views:
     sort:
       - property: size
         direction: ASC
-      - property: date-last-perfect
-        direction: DESC
     columnSize:
       note.注音: 81
 
