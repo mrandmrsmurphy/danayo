@@ -1,7 +1,7 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 
 ## 2+ Words
-- 韻図 in grammar/単亜語之文法書
+- [[韻図]] in grammar/単亜語之文法書
 - 前提 in grammar/文法 - 01序文
 - 専門 in grammar/文法 - 01序文
 - 相関詞 in grammar/文法 - 01序文
@@ -18,12 +18,12 @@ Don't forget that creating the file from here may create the file in the wrong d
 - 合語 in grammar/文法 - 01序文
 - 補助語 in grammar/文法 - 01序文
 - 母語 in grammar/文法 - 01序文
-- 通信 in grammar/文法 - 01序文, lexipedia/Geography
+- [[通信]] in grammar/文法 - 01序文, lexipedia/Geography
 - 日常 in grammar/文法 - 01序文
 - 中世 in grammar/文法 - 01序文
 - 遺産 in grammar/文法 - 01序文
 - 硬直 in grammar/文法 - 01序文
-- 制度 in grammar/文法 - 01序文, lexipedia/Geography
+- [[制度]] in grammar/文法 - 01序文, lexipedia/Geography
 - 指標 in grammar/文法 - 01序文
 - 話者 in grammar/文法 - 01序文
 - 視認 in grammar/文法 - 01序文
@@ -38,7 +38,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - 明確 in grammar/文法 - 02音韻論
 - 精密 in grammar/文法 - 02音韻論
 - 権威 in grammar/文法 - 02音韻論
-- 原則 in grammar/文法 - 02音韻論, lexipedia/Geography
+- [[原則]] in grammar/文法 - 02音韻論, lexipedia/Geography
 - 者容易 in grammar/文法 - 02音韻論
 - 韻母 in grammar/文法 - 02音韻論
 - 西洋 in grammar/文法 - 02音韻論
@@ -719,18 +719,17 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- 魶 in syllables/ㄋㄨㄆ
-- 兄 in syllables/ㄏ˙ㄛㄥ
-- 険 in syllables/ㄏㄝㄇ
-- 漆 in syllables/ㄑㄧㄊ
-- 鴎 in syllables/ㄛˇ
-- 鴨 in lexipedia/Animals
-- 兎 in lexipedia/Animals, syllables/ㄊㄛ
-- 鷹 in lexipedia/Sophomore List
-- 鵰 in lexipedia/Sophomore List
-- 両 in lexipedia/Numbers
+- [[兄]] in syllables/ㄏ˙ㄛㄥ
+- [[険]] in syllables/ㄏㄝㄇ
+- [[漆]] in syllables/ㄑㄧㄊ
+- [[鴎]] in syllables/ㄛˇ
+- [[鴨]] in lexipedia/Animals
+- [[兎]] in lexipedia/Animals, syllables/ㄊㄛ
+- [[鷹]] in lexipedia/Sophomore List
+- [[鵰]] in lexipedia/Sophomore List
+- [[両]] in lexipedia/Numbers
 - words/車 in characters/車 (char)
-- 而 in words/与
+- [[而]] in words/与
 - 菲 in lexipedia/Geography, lookup/Korean/Korean Name ㅂ
 - 㪘 in characters/㪘 (char)
 - words/丁 in characters/丁 (char)
