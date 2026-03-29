@@ -1,7 +1,7 @@
 ---
-mandarin: "yóu"
-cantonese: "jau4"
-korean: "유"
+mandarin: yóu
+cantonese: jau4
+korean: 유
 korean_native: ""
 japanese:
   - YUU
@@ -9,6 +9,7 @@ japanese:
   - YUI
 japanese_nanori: ""
 vietnamese:
+  - do
 middle_chinese_initial: j
 middle_chinese_final: ɨu
 stroke_count: 5

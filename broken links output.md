@@ -1,11 +1,10 @@
 HSK means:
 - [[共]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[由]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/˙ㄨˇ]]
+- [[words/由]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/˙ㄨˇ]]
 - [[公]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]]
 - [[未]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[多]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
 - [[朕]] in [[grammar/文法 - 97品詞]], [[words/我]]
-- [[台]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[匹]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
 - [[冊]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]]
 - [[枚]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[syllables/ㄇㄛ˙]]

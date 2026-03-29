@@ -1,7 +1,7 @@
 ---
-mandarin: "tái"
-cantonese: "toi4"
-korean: "대"
+mandarin: tái
+cantonese: toi4
+korean: 대
 korean_native: 대
 japanese:
   - DAI
@@ -23,7 +23,7 @@ english:
 羅馬字: dai
 韓文: 대
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4047
 mc_id: 840

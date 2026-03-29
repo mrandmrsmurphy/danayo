@@ -186,6 +186,10 @@ views:
       - 羅馬字
       - 韓文
     sort:
+      - property: file.name
+        direction: ASC
+      - property: date-last-perfect
+        direction: DESC
       - property: size
         direction: ASC
     columnSize:
