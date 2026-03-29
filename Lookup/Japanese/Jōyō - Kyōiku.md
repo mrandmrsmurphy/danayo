@@ -94,25 +94,25 @@ The following prefecture names were added in 2017:
 87. [[太 (char)]] : thick ; ta (futo-i)
 88. [[細]] : thin ; sai (hoso-i)
 89. [[広]] : wide ; kō (hiro-i)
-90. [[長 (char)]] : long, leader ; chō (naga-i)
-91. [[点 (char)]] : point ; ten (bochi)
-92. [[丸]] : circle ; gan (maru)
-93. [[交]] : intersect ; kō (maji-waru)
-94. [[光 (char)]] : light ; kō (hikari)
-95. [[角]] : corner, horn ; kaku (kado, tsuno, sumi)
-96. [[計]] : measure ; kei (haka-ru)
-97. [[直]] : straight, fix ; choku, jiki (tada-chini, nao-su)
-98. [[線]] : line ; sen (suji)
-99. [[矢]] : arrow ; shi (ya)
-100. [[弱]] : weak ; jaku (yowa-i)
-101. [[強]] : strong ; kyō (tsuyo-i)
-102. [[高 (char)]] : high ; kō (taka-i)
-103. [[同]] : same ; dō (ona-ji)
-104. [[親]] : parent ; shin (oya)
-105. [[母]] : mother ; bo (haha, kā)
-106. [[父]] : father ; fu (chichi, tou)
-107. [[姉]] : older sister ; shi (ane)
-108. [[兄 (char) : older brother ; kei, kyō (ani)
+90. [長 (char)](../../characters/長%20(char).md) : long, leader ; chō (naga-i)
+91. [点 (char)](../../characters/点%20(char).md) : point ; ten (bochi)
+92. [丸](../../characters/丸.md) : circle ; gan (maru)
+93. [交 (char)](../../characters/交%20(char).md) : intersect ; kō (maji-waru)
+94. [光 (char)](../../characters/光%20(char).md) : light ; kō (hikari)
+95. [角 (char)](../../characters/角%20(char).md) : corner, horn ; kaku (kado, tsuno, sumi)
+96. [計](../../characters/計.md) : measure ; kei (haka-ru)
+97. [直 (char)](../../characters/直%20(char).md) : straight, fix ; choku, jiki (tada-chini, nao-su)
+98. [線](../../characters/線.md) : line ; sen (suji)
+99. [矢 (char)](../../characters/矢%20(char).md) : arrow ; shi (ya)
+100. [弱 (char)](../../characters/弱%20(char).md) : weak ; jaku (yowa-i)
+101. [強 (char)](../../characters/強%20(char).md) : strong ; kyō (tsuyo-i)
+102. [高 (char)](../../characters/高%20(char).md) : high ; kō (taka-i)
+103. [同](../../characters/同.md) : same ; dō (ona-ji)
+104. [親](../../characters/親.md) : parent ; shin (oya)
+105. [母](../../characters/母.md) : mother ; bo (haha, kā)
+106. [父](../../characters/父.md) : father ; fu (chichi, tou)
+107. [姉 (char)](../../characters/姉%20(char).md) : older sister ; shi (ane)
+108. [兄 (char)](../../characters/兄%20(char).md) : older brother ; kei, kyō (ani)
 109. [弟 (char)](../../characters/弟%20(char).md) : younger brother ; tei, dai (otōto)
 110. [妹](../../characters/妹.md) : younger sister ; mai (imōto)
 111. [自](../../characters/自.md) : oneself ; ji, shi (mizuka-ra)
@@ -120,23 +120,23 @@ The following prefecture names were added in 2017:
 113. [体](../../characters/体.md) : body ; tai (karada)
 114. [毛 (char)](../../characters/毛%20(char).md) : hair ; mō (ke)
 115. [頭 (char)](../../characters/頭%20(char).md) : head ; tō (atama)
-116. [[顔]] : face ; gan (kao)
-117. [[首]] : neck ; shu (kubi)
-118. [[心]] : heart ; shin (kokoro)
-119. [[時 (char)]] : time ; ji (toki)
-120. [[曜]] : day of the week ; yō ()
-121. [[朝]] : morning ; chō (asa)
-122. [[昼]] : daytime ; chū (hiru)
-123. [[夜]] : night ; ya (yoru)
+116. [顔](../../characters/顔.md) : face ; gan (kao)
+117. [首](../../characters/首.md) : neck ; shu (kubi)
+118. [心 (char)](../../characters/心%20(char).md) : heart ; shin (kokoro)
+119. [時 (char)](../../characters/時%20(char).md) : time ; ji (toki)
+120. [曜](../../characters/曜.md) : day of the week ; yō ()
+121. [朝 (char)](../../characters/朝%20(char).md) : morning ; chō (asa)
+122. [昼](../../characters/昼.md) : daytime ; chū (hiru)
+123. [夜 (char)](../../characters/夜%20(char).md) : night ; ya (yoru)
 124. [[分 (char)]] : minute, understand ; fun, bun (wa-karu)
-125. [[週]] : week ; shū ()
-126. [[春]] : spring ; shun (haru)
-127. [[夏]] : summer ; ka (natsu)
-128. [[秋]] : autumn ; shū (aki)
-129. [[冬]] : winter ; tō (fuyu)
-130. [[今]] : now ; kon (ima)
+125. [週](../../characters/週.md) : week ; shū ()
+126. [春 (char)](../../characters/春%20(char).md) : spring ; shun (haru)
+127. [夏 (char)](../../characters/夏%20(char).md) : summer ; ka (natsu)
+128. [秋 (char)](../../characters/秋%20(char).md) : autumn ; shū (aki)
+129. [冬 (char)](../../characters/冬%20(char).md) : winter ; tō (fuyu)
+130. [今 (char)](../../characters/今%20(char).md) : now ; kon (ima)
 131. [新 (char)](characters/新%20(char).md) : new ; shin (atara-shii, ara-ta)
-132. [[古]] : old ; ko (furu-i)
+132. [古](../../characters/古.md) : old ; ko (furu-i)
 133. [[間]] : interval ; kan, ken (ma, aida)
 134. [[方]] : direction ; hō (kata)
 135. [[北]] : north ; hoku (kita)
@@ -397,42 +397,42 @@ The following prefecture names were added in 2017:
 389. [[級]] : kyū , – , rank , 
 390. [[終]] : shū , o-waru;  o-eru , end , 
 391. [緑 (char)](characters/緑%20(char).md) : ryoku , midori , green , 
-392. [[練]] : ren , ne-ru , practice , 
-393. [[羊]] : yō , hitsuji , sheep , 
-394. [[美]] : bi , utsuku-shii , beauty , 
-395. [[習]] : shū , nara-u , learn , 
-396. [[者]] : sha , mono , someone , 
-397. [[育]] : iku , soda-tsu;  soda-teru;  haguku-mu , nurture , 
-398. [[苦]] : ku , kuru-shii;  kuru-shimu;  kuru-shimeru;  niga-i;  niga-ru , suffer , 
-399. [[荷]] : ka , ni , luggage , 
-400. [[落]] : raku , o-chiru;  otosu , fall , 
+392. [練](../../characters/練.md) : ren , ne-ru , practice , 
+393. [羊](../../characters/羊.md) : yō , hitsuji , sheep , 
+394. [美 (char)](../../characters/美%20(char).md) : bi , utsuku-shii , beauty , 
+395. [習](../../characters/習.md) : shū , nara-u , learn , 
+396. [者 (char)](../../characters/者%20(char).md) : sha , mono , someone , 
+397. [育 (char)](../../characters/育%20(char).md) : iku , soda-tsu;  soda-teru;  haguku-mu , nurture , 
+398. [苦 (char)](../../characters/苦%20(char).md) : ku , kuru-shii;  kuru-shimu;  kuru-shimeru;  niga-i;  niga-ru , suffer , 
+399. [荷](../../characters/荷.md) : ka , ni , luggage , 
+400. [落](../../characters/落.md) : raku , o-chiru;  otosu , fall , 
 401. [葉 (char)](characters/葉%20(char).md) : yō , ha , leaf , 
 402. [薬 (char)](characters/薬%20(char).md) : yaku , kusuri , medicine , 
-403. [[血]] : ketsu , chi , blood , 
-404. [[表]] : hyō , omote;  arawa-su;  arawa-reru , list or surface , 
-405. [[詩]] : shi , – , poem , 
-406. [[調]] : chō , shira-beru , investigate , 
-407. [[談]] : dan , – , discuss , 
-408. [[豆]] : tō;  zu , mame , beans , 
-409. [[負]] : fu , ma-keru;  o-u , lose , 
-410. [[起]] : ki , o-kiru;  o-kosu;  o-koru , wake up , 
-411. [[路]] : ro , ji , road , 
-412. [[身]] : shin , mi , body , 
-413. [[転]] : ten , koro-bu , revolve , 
-414. [[軽]] : kei , karu-i , light , 
-415. [[農]] : nō , – , farming , 
-416. [[返]] : hen , kae-su;  kae-ru , return , 
-417. [[追]] : tsui , o-u , follow , 
-418. [[送]] : sō , oku-ru , send , 
-419. [[速]] : soku , haya-i;  haya-maru;  haya-meru , fast , 
-420. [[進]] : shin , susu-mu , advance , 
-421. [[遊]] : yū , aso-bu , play , 
-422. [[運]] : un , hako-bu , carry , 
-423. [[部]] : bu , – , part , 
-424. [[都]] : to;  tsu , miyako , metropolis , 
-425. [[配]] : hai , kuba-ru , distribute , 
-426. [[酒]] : shu , sake;  saka , rice wine , 
-427. [[重]] : jū;  chō , omo-i;  kasa-neru , heavy , 
+403. [血 (char)](../../characters/血%20(char).md) : ketsu , chi , blood , 
+404. [表](../../characters/表.md) : hyō , omote;  arawa-su;  arawa-reru , list or surface , 
+405. [詩](../../characters/詩.md) : shi , – , poem , 
+406. [調](../../characters/調.md) : chō , shira-beru , investigate , 
+407. [談](../../characters/談.md) : dan , – , discuss , 
+408. [豆 (char)](../../characters/豆%20(char).md) : tō;  zu , mame , beans , 
+409. [負 (char)](../../characters/負%20(char).md) : fu , ma-keru;  o-u , lose , 
+410. [起 (char)](../../characters/起%20(char).md) : ki , o-kiru;  o-kosu;  o-koru , wake up , 
+411. [路](../../characters/路.md) : ro , ji , road , 
+412. [身](../../characters/身.md) : shin , mi , body , 
+413. [転](../../characters/転.md) : ten , koro-bu , revolve , 
+414. [軽 (char)](../../characters/軽%20(char).md) : kei , karu-i , light , 
+415. [農](../../characters/農.md) : nō , – , farming , 
+416. [返](../../characters/返.md) : hen , kae-su;  kae-ru , return , 
+417. [追 (char)](../../characters/追%20(char).md) : tsui , o-u , follow , 
+418. [送 (char)](../../characters/送%20(char).md) : sō , oku-ru , send , 
+419. [速 (char)](../../characters/速%20(char).md) : soku , haya-i;  haya-maru;  haya-meru , fast , 
+420. [進](../../characters/進.md) : shin , susu-mu , advance , 
+421. [遊](../../characters/遊.md) : yū , aso-bu , play , 
+422. [運](../../characters/運.md) : un , hako-bu , carry , 
+423. [部 (char)](../../characters/部%20(char).md) : bu , – , part , 
+424. [都](../../characters/都.md) : to;  tsu , miyako , metropolis , 
+425. [配 (char)](../../characters/配%20(char).md) : hai , kuba-ru , distribute , 
+426. [酒](../../characters/酒.md) : shu , sake;  saka , rice wine , 
+427. [重 (char)](../../characters/重%20(char).md) : jū;  chō , omo-i;  kasa-neru , heavy , 
 428. [鉄 (char)](characters/鉄%20(char).md) : tetsu , – , iron , 
 429. [銀 (char)](characters/銀%20(char).md) : gin , – , silver , 
 430. [[開]] : kai , hira-ku;  a-ku;  hira-keru;  a-keru , open , 

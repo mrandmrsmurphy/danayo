@@ -669,8 +669,6 @@
 [府](../../characters/府.md): 1
 [治](../../characters/治.md): 1
 [只 (char)](../../characters/只%20(char).md): 1
-[頭 (char)](../../characters/頭%20(char).md): 1
-[头](../../characters/頭%20(char).md): 1
 [重 (char)](../../characters/重%20(char).md): 1
 [圍](../../characters/囲.md): 1
 [注](../../characters/注.md): 1

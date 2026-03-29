@@ -50,7 +50,7 @@
 [力 (char)](characters/力%20(char).md): 11
 [期 (char)](characters/期%20(char).md): 11
 [气](characters/気%20(char).md): 11
-[頭 (char)](characters/頭%20(char).md): 11
+頭: 11
 [象](characters/象.md): 11
 [以 (char)](characters/以%20(char).md): 11
 [是 (char)](characters/是%20(char).md): 11
@@ -807,7 +807,7 @@
 [[视]]: 2
 [[視]]: 2
 [[查]]: 2
-[[豆]]: 2
+[豆 (char)](../../characters/豆%20(char).md): 2
 [[伍]]: 2
 [[童]]: 2
 [[抖]]: 2
