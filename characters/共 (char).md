@@ -1,26 +1,27 @@
 ---
-mandarin: "gòng"
-cantonese: "gung6"
-korean: "공"
+mandarin: gòng
+cantonese: gung6
+korean: 공
 korean_native: ""
 japanese:
   - KYOU
 japanese_nanori: ""
 vietnamese:
+  - cộng
 middle_chinese_initial: g
 middle_chinese_final: ɨoŋ
 stroke_count: 6
 radical: 八
 skip_number: 2-4-2
 grade_level: "2"
-pos: ""
+pos: 連接詞
 english:
   - with
   - together
 羅馬字: gyong
 韓文: 굥
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2024
 mc_id: 381
