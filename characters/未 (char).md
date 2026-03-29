@@ -1,13 +1,14 @@
 ---
-mandarin: "wèi"
-cantonese: "mei6"
-korean: "미"
+mandarin: wèi
+cantonese: mei6
+korean: 미
 korean_native: ""
 japanese:
   - MI
   - BI
 japanese_nanori: ""
 vietnamese:
+  - vị, mùi
 middle_chinese_initial: m
 middle_chinese_final: ʉi
 stroke_count: 5
@@ -20,7 +21,7 @@ english:
 羅馬字: mui
 韓文: 뮈
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2132
 mc_id: 103

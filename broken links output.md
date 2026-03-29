@@ -1,5 +1,4 @@
 HSK means:
-- [[公]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]]
 - [[未]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[多]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
 - [[朕]] in [[grammar/文法 - 97品詞]], [[words/我]]
@@ -1629,22 +1628,13 @@ HSK means:
 - [[醞]] in [[lookup/HSK/Old HSK 4]]
 - [[蕴]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[蘊]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
-- [[浏]] in [[lookup/HSK/Old HSK 5]]
-- [[蜡]] in [[lookup/HSK/Old HSK 5]]
-- [[咨]] in [[lookup/HSK/Old HSK 5]]
-- [[哈]] in [[lookup/HSK/Old HSK 5]]
-- [[绕]] in [[lookup/HSK/Old HSK 5]]
+- [[浏]] in [[lookup/HSK/Old HSK 5]]+
 - [[裔]] in [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
-- [[贝]] in [[lookup/HSK/Old HSK 5]]
-- [[账]] in [[lookup/HSK/Old HSK 5]]
-- [[嚏]] in [[lookup/HSK/Old HSK 5]]
-- [[揍]] in [[lookup/HSK/Old HSK 6]]
+- [[账]] in [[lookup/HSK/Old HSK 5]]++
+- [[揍]] in [[lookup/HSK/Old HSK 6]]+
 - [[臂]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
-- [[濒]] in [[lookup/HSK/Old HSK 6]]
 - [[恍]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
-- [[搁]] in [[lookup/HSK/Old HSK 6]]
-- [[舔]] in [[lookup/HSK/Old HSK 6]]
-- [[觅]] in [[lookup/HSK/Old HSK 6]]
+- [[舔]] in [[lookup/HSK/Old HSK 6]]+
 - [[紊]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅁ]]
 - [[蹋]] in [[lookup/HSK/Old HSK 6]]
 - [[疏]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]
