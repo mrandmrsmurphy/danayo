@@ -57,7 +57,6 @@
 [以 (char)](characters/以%20(char).md): 11
 [是 (char)](characters/是%20(char).md): 11
 [兒](characters/児%20(char).md): 11
-[实](../../characters/実.md): 11
 [實](characters/実.md): 11
 [进](characters/進.md): 11
 [手 (char)](characters/手%20(char).md): 11
@@ -88,19 +87,16 @@
 [于 (char)](../../characters/于%20(char).md): 9
 [於](../../characters/于%20(char).md): 9
 [员](../../characters/員.md): 9
-[[情]]: 9
-[[体]]: 9
-[[體]]: 9
-[[記]]: 9
-[记](../../characters/記.md): 9
-[[然]]: 9
-[[点]]: 9
-[[程]]: 9
+[情](../../characters/情.md): 9
+[体](../../characters/体.md): 9
+[記](../../characters/記.md): 9
+[然 (char)](../../characters/然%20(char).md): 9
+[点 (char)](../../characters/点%20(char).md): 9
+[程](../../characters/程.md): 9
 [从](../../characters/従%20(char).md): 9
-[[從]]: 9
-[[路]]: 9
-[[感]]: 9
-[[客]]: 9
+[路](../../characters/路.md): 9
+[感](../../characters/感.md): 9
+[客](../../characters/客.md): 9
 [其 (char)](../../characters/其%20(char).md): 9
 [[家]]: 9
 [[形]]: 9
@@ -119,12 +115,11 @@
 [[愛]]: 8
 [[天]]: 8
 [[要]]: 8
-[[邊]]: 8
+[邊](../../characters/辺.md): 8
 [[少]]: 8
 [[衣]]: 8
 [[分]]: 8
 [[打]]: 8
-[[电]]: 8
 [[電]]: 8
 [[活]]: 8
 [[场]]: 8
@@ -1059,8 +1054,7 @@
 [[钓]]: 1
 [[釣]]: 1
 [[跌]]: 1
-[[顶]]: 1
-[[頂]]: 1
+[頂](../../characters/頂.md): 1
 [[冻]]: 1
 [[凍]]: 1
 [[洞]]: 1
@@ -1166,23 +1160,17 @@
 [[捞]]: 1
 [[撈]]: 1
 [[雷]]: 1
-[[梨]]: 1
-[[粒]]: 1
-[[凉]]: 1
-[[涼]]: 1
-[[两]]: 1
-[[兩]]: 1
-[[列]]: 1
-[[铃]]: 1
-[[鈴]]: 1
+[梨 (char)](../../characters/梨%20(char).md): 1
+[粒](../../characters/粒.md): 1
+[涼](../../characters/涼.md): 1
+[兩](../../characters/両%20(char).md): 1
+[列](../../characters/列.md): 1
+[鈴 (char)](../../characters/鈴%20(char).md): 1
 [[龍]]: 1
-[[龙]]: 1
-[[漏]]: 1
-[[露]]: 1
-[[骂]]: 1
+[漏 (char)](../../characters/漏%20(char).md): 1
+[露 (char)](../../characters/露%20(char).md): 1
 [[罵]]: 1
 [[埋]]: 1
-[[迈]]: 1
 [[邁]]: 1
 [[冒]]: 1
 [[每]]: 1
