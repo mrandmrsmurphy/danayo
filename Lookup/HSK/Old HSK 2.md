@@ -45,6 +45,8 @@
 [發](characters/発%20(char).md): 12
 [年 (char)](characters/年%20(char).md): 12
 [物 (char)](characters/物%20(char).md): 12
+
+## 11
 [度](characters/度.md): 11
 [对](characters/対.md): 11
 [力 (char)](characters/力%20(char).md): 11
@@ -55,10 +57,12 @@
 [以 (char)](characters/以%20(char).md): 11
 [是 (char)](characters/是%20(char).md): 11
 [兒](characters/児%20(char).md): 11
-[[实]]: 11
+[实](../../characters/実.md): 11
 [實](characters/実.md): 11
 [进](characters/進.md): 11
 [手 (char)](characters/手%20(char).md): 11
+
+## 10
 [保](characters/保.md): 10
 [院](characters/院.md): 10
 [造](characters/造.md): 10
@@ -72,15 +76,17 @@
 [教](characters/教.md): 10
 [接 (char)](characters/接%20(char).md): 10
 [主](characters/主.md): 10
+
+## 9
 [本 (char)](characters/本%20(char).md): 9
-[[告]]: 9
-[[害]]: 9
-[[可]]: 9
-[[立]]: 9
-[[美]]: 9
-[[同]]: 9
-[[../../words/于]]: 9
-[[於]]: 9
+[告](../../characters/告.md): 9
+[害](../../characters/害.md): 9
+[可 (char)](../../characters/可%20(char).md): 9
+[立 (char)](../../characters/立%20(char).md): 9
+[美 (char)](../../characters/美%20(char).md): 9
+[同](../../characters/同.md): 9
+[于 (char)](../../characters/于%20(char).md): 9
+[於](../../characters/于%20(char).md): 9
 [员](../../characters/員.md): 9
 [[情]]: 9
 [[体]]: 9
@@ -163,7 +169,8 @@
 [[消]]: 7
 [[日]]: 7
 [[指]]: 7
-[[K]]: 6
+
+## 6
 [[此]]: 6
 [[答]]: 6
 [[调]]: 6
@@ -213,6 +220,8 @@
 [[收]]: 6
 [[整]]: 6
 [[越]]: 6
+
+## 5
 [[包]]: 5
 [[等]]: 5
 [[队]]: 5
@@ -269,7 +278,6 @@
 [[者]]: 5
 [[法]]: 5
 [[律]]: 5
-[[ǜ]]: 5
 [[趣]]: 5
 [[加]]: 5
 [[观]]: 5
