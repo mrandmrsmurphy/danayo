@@ -375,8 +375,6 @@
 [[吃]]: 4
 [持 (char)](../../characters/持%20(char).md): 4
 [門](../../characters/門.md): 4
-[[传]]: 4
-[傳](../../characters/伝.md): 4
 [染](../../characters/染.md): 4
 [[汇]]: 4
 [[匯]]: 4

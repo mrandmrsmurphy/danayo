@@ -51,7 +51,6 @@ HSK means:
 - [[冰]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[补]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[曾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
-- [[传]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[黨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[假]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[仅]] in [[lookup/HSK/Old HSK 2]]

@@ -303,7 +303,6 @@
 [[采]]: 4
 [[曾]]: 4
 [[差]]: 4
-[[传]]: 4
 [傳](characters/伝.md): 4
 [袋 (char)](../../characters/袋%20(char).md): 4
 [单](../../characters/単.md): 4
