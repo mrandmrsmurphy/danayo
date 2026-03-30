@@ -1,60 +1,59 @@
-[[行]]: 31
+[行 (char)](../../characters/行%20(char).md): 31
 分: 30
-[[法]]: 30
+[法 (char)](../../characters/法%20(char).md): 30
 [出](characters/出%20(char).md): 29
-[[名]]: 29
-[[外]]: 28
-[[用]]: 27
-[[有]]: 27
-[[度]]: 25
-[[通]]: 24
-[[理]]: 24
-[[手]]: 23
+[名 (char)](../../characters/名%20(char).md): 29
+[外](../../characters/外.md): 28
+[用](../../characters/用.md): 27
+[有 (char)](../../characters/有%20(char).md): 27
+[度](../../characters/度.md): 25
+[通 (char)](../../characters/通%20(char).md): 24
+[理](../../characters/理.md): 24
+[手 (char)](../../characters/手%20(char).md): 23
 [而 (char)](characters/而%20(char).md): 23
-[[可]]: 23
-[[化]]: 23
-[[生]]: 23
+[可 (char)](../../characters/可%20(char).md): 23
+[化 (char)](../../characters/化%20(char).md): 23
+[生](../../characters/生.md): 23
 [發](characters/発%20(char).md): 22
 [气](characters/気%20(char).md): 22
 [氣](characters/気%20(char).md): 22
-[[意]]: 22
-[[发]]: 21
-[[无]]: 21
-[[無]]: 21
-[[面]]: 20
-[[天]]: 20
-[[品]]: 20
-[[失]]: 20
-[[起]]: 20
-[[高]]: 20
-[[情]]: 19
-[[花]]: 19
-[[和]]: 19
-[[性]]: 19
-[[地]]: 19
-[[算]]: 19
-[[产]]: 19
-[[產]]: 19
-[[交]]: 19
-[[小]]: 19
-[[前]]: 19
-[[水]]: 18
-[[收]]: 18
-[[山]]: 18
-[[会]]: 17
-[[會]]: 17
-[[得]]: 17
-[[相]]: 17
+[意](../../characters/意.md): 22
+[发](../../characters/発%20(char).md): 21
+[无](../../characters/無%20(char).md): 21
+
+## 20-19
+[面](../../characters/面.md): 20
+[天 (char)](../../characters/天%20(char).md): 20
+[品 (char)](../../characters/品%20(char).md): 20
+[失](../../characters/失.md): 20
+[起 (char)](../../characters/起%20(char).md): 20
+[高 (char)](../../characters/高%20(char).md): 20
+[情](../../characters/情.md): 19
+[花](../../characters/花.md): 19
+[和](../../characters/和.md): 19
+[性](../../characters/性.md): 19
+[地 (char)](../../characters/地%20(char).md): 19
+[算 (char)](../../characters/算%20(char).md): 19
+[产](../../characters/産.md): 19
+[交 (char)](../../characters/交%20(char).md): 19
+[小 (char)](../../characters/小%20(char).md): 19
+[前 (char)](../../characters/前%20(char).md): 19
+
+## 18-16
+[水 (char)](../../characters/水%20(char).md): 18
+[收](../../characters/収.md): 18
+[山 (char)](../../characters/山%20(char).md): 18
+[会 (char)](../../characters/会%20(char).md): 17
+[得](../../characters/得.md): 17
+[相](../../characters/相.md): 17
 体: 17
-[[同]]: 17
-[[工]]: 17
-[[期]]: 17
-[[国]]: 17
-[[國]]: 17
-[[取]]: 17
-[[信]]: 17
-[[动]]: 16
-[[動]]: 16
+[同](../../characters/同.md): 17
+[工](../../characters/工.md): 17
+[期 (char)](../../characters/期%20(char).md): 17
+[国](../../characters/国.md): 17
+[取](../../characters/取.md): 17
+[信](../../characters/信.md): 17
+[动](../../characters/動%20(char).md): 16
 [風 (char)](../../characters/風%20(char).md): 16
 [解 (char)](../../characters/解%20(char).md): 16
 [商](../../characters/商.md): 16
@@ -63,6 +62,8 @@
 [合 (char)](../../characters/合%20(char).md): 16
 [主](../../characters/主.md): 16
 [深](../../characters/深.md): 16
+
+## 15-14
 [道 (char)](../../characters/道%20(char).md): 15
 [开](../../characters/開.md): 15
 [空 (char)](../../characters/空%20(char).md): 15
@@ -75,26 +76,28 @@
 [年 (char)](../../characters/年%20(char).md): 14
 [選](../../characters/選.md): 14
 [业](../../characters/業%20(char).md): 14
-[[来]]: 14
-[[航]]: 14
-[[要]]: 14
-[[全]]: 14
-[[金]]: 14
-[[老]]: 14
-[[求]]: 13
-[[家]]: 13
-[[害]]: 13
-[[款]]: 13
+[来 (char)](../../characters/来%20(char).md): 14
+[航](../../characters/航.md): 14
+[要](../../characters/要.md): 14
+[全 (char)](../../characters/全%20(char).md): 14
+[金 (char)](../../characters/金%20(char).md): 14
+[老 (char)](../../characters/老%20(char).md): 14
+
+## 13
+[求](../../characters/求.md): 13
+[家](../../characters/家.md): 13
+[害](../../characters/害.md): 13
+[款 (char)](../../characters/款%20(char).md): 13
 [下 (char)](../../characters/下%20(char).md): 13
-[[言]]: 13
-[[局]]: 13
-[[集]]: 13
-[[次]]: 13
-[[入]]: 13
+[言 (char)](../../characters/言%20(char).md): 13
+[局 (char)](../../characters/局%20(char).md): 13
+[集](../../characters/集.md): 13
+[次](../../characters/次.md): 13
+[入 (char)](../../characters/入%20(char).md): 13
 [选](../../characters/選.md): 13
-[[火]]: 13
+[火 (char)](../../characters/火%20(char).md): 13
 [口 (char)](../../characters/口%20(char).md): 13
-[[物]]: 13
+[物 (char)](../../characters/物%20(char).md): 13
 [[新]]: 13
 [[文]]: 13
 [[机]]: 12
@@ -1722,15 +1725,12 @@
 [[榆]]: 2
 
 ## 1
-[[艾]]: 1
-[[滋]]: 1
-[[碍]]: 1
-[[礙]]: 1
-[[详]]: 1
-[[詳]]: 1
-[[凹]]: 1
-[[袄]]: 1
-[[襖]]: 1
+[艾](../../characters/艾.md): 1
+[滋](../../characters/滋.md): 1
+[礙](../../characters/碍.md): 1
+[詳](../../characters/詳.md): 1
+[凹 (char)](../../characters/凹%20(char).md): 1
+[襖](../../characters/襖.md): 1
 [[扒]]: 1
 [[芭]]: 1
 [[蕾]]: 1
@@ -2318,7 +2318,7 @@
 [[碌]]: 1
 [[辙]]: 1
 [[轍]]: 1
-[[枚]]: 1
+[[../../words/枚]]: 1
 [[玫]]: 1
 [[瑰]]: 1
 [[媒]]: 1
@@ -2363,7 +2363,7 @@
 [[奴]]: 1
 [[役]]: 1
 [[吼]]: 1
-[[挪]]: 1
+[挪](../../characters/梛.md): 1
 [[殴]]: 1
 [[毆]]: 1
 [[嘔]]: 1
@@ -2771,7 +2771,7 @@
 [[樱]]: 1
 [[櫻]]: 1
 [[鹰]]: 1
-[[鷹]]: 1
+[[../../words/鷹]]: 1
 [[迎]]: 1
 [[蝇]]: 1
 [[蠅]]: 1

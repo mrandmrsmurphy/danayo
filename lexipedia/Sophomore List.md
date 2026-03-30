@@ -206,4 +206,4 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- orange
 	- brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy
-- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[鷹]], eagle - [[鵰]], dragon - <ruby>[[龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby>, ram - [[綿羊]]
+- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[../words/鷹]], eagle - [[鵰]], dragon - <ruby>[[龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby>, ram - [[綿羊]]

@@ -1,13 +1,14 @@
 ---
-mandarin: "méi"
-cantonese: "mui4"
-korean: "매"
+mandarin: méi
+cantonese: mui4
+korean: 매
 korean_native: ""
 japanese:
   - MAI
   - BAI
 japanese_nanori: ""
 vietnamese:
+  - mai
 middle_chinese_initial: m
 middle_chinese_final: uʌi
 stroke_count: 8

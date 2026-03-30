@@ -725,7 +725,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鴎]] in syllables/ㄛˇ
 - [[鴨]] in lexipedia/Animals
 - [[兎]] in lexipedia/Animals, syllables/ㄊㄛ
-- [[鷹]] in lexipedia/Sophomore List
+- [[words/鷹]] in lexipedia/Sophomore List
 - [[鵰]] in lexipedia/Sophomore List
 - [[両]] in lexipedia/Numbers
 - words/車 in characters/車 (char)

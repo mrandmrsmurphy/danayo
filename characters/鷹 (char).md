@@ -1,20 +1,21 @@
 ---
-mandarin: "yīng"
-cantonese: "jing1"
-korean: "응"
+mandarin: yīng
+cantonese: jing1
+korean: 응
 korean_native: ""
 japanese:
   - YOU
   - OU
 japanese_nanori: ""
 vietnamese:
+  - ưng
 middle_chinese_initial: ʔ
 middle_chinese_final: ɨŋ
 stroke_count: 24
 radical: 鳥
 skip_number: 3-3-21
-grade_level: "名"
-pos: ""
+grade_level: 名
+pos: 名詞
 english:
   - hawk
 羅馬字: "'ing"
@@ -32,9 +33,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 鷹.
 >For the word, see [鷹](words/鷹.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

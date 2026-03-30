@@ -105,7 +105,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - Greece (希臘)  
 - <ruby>露斯亜<rt>ㄌㄛㄙㄧ·ㄚ</rt></ruby>
 - Sweden ([[../words/瑞典]])  
-- Norway ([[挪]][[威]])  
+- Norway ([挪](../characters/梛.md)[[威]])  
 - <ruby>芬蘭<rt>ㄆㄨㄋㄌㄚㄋ</rt></ruby>
 - <ruby>[丹麦](/words/丹麦.md)<rt>ㄉㄚㄋㄇㄚㄎ</rt></ruby>
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.

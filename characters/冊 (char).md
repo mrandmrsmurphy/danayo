@@ -1,13 +1,14 @@
 ---
-mandarin: "cè"
-cantonese: "caak3"
-korean: "책"
+mandarin: cè
+cantonese: caak3
+korean: 책
 korean_native: ""
 japanese:
   - SATSU
   - SAKU
 japanese_nanori: ""
 vietnamese:
+  - sách
 middle_chinese_initial: t͡ʃʰ
 middle_chinese_final: ɣɛk
 stroke_count: 5
@@ -20,7 +21,7 @@ english:
 羅馬字: cag
 韓文: 착
 joyo_level: "6"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3026
 mc_id: 2941
@@ -32,9 +33,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 冊.
 >For the word, see [冊](words/冊.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

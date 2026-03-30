@@ -31,9 +31,17 @@ aliases:
 ---
 >[!tip] This is a page about the character 白.
 >For the word, see [白](words/白.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[白粉]]
+- [[白内障]]
+- [[白日夢]]
+- [[白領]]
+- [[白色]]
+- [[白菜]]
+- [[白熊]]
+- 
