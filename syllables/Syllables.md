@@ -187,7 +187,7 @@ views:
       - 韓文
     sort:
       - property: 注音
-        direction: ASC
+        direction: DESC
       - property: 韓文
         direction: DESC
       - property: file.name
