@@ -12,10 +12,11 @@ views:
       - danayo_id
       - korean
       - hanmun_edu_level
-      - stroke_count
-      - vietnamese
       - 品詞
+      - date-last-perfect
     sort:
+      - property: hanmun_edu_level
+        direction: DESC
       - property: 品詞
         direction: ASC
       - property: stroke_count
@@ -37,8 +38,6 @@ views:
       - property: joyo_level
         direction: DESC
       - property: graphemic_classification
-        direction: ASC
-      - property: hanmun_edu_level
         direction: ASC
       - property: 韓文
         direction: DESC

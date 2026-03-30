@@ -12,7 +12,7 @@ date-last-perfect:
 5. [[lookup/SKIP/SKIP-2/SKIP-2-12-5]]
 6. No
 7. [[lookup/SKIP/SKIP-2/SKIP-2-12-7]]
-8. no
+8. [[SKIP-2-12-8]]
 9. no
 10. no
 11. no

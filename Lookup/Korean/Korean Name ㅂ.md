@@ -4,7 +4,7 @@ These have all been checked for redirects.
  [珀](characters/珀.md) [撲 (char)](characters/撲%20(char).md) [[璞]] 鉑 [舶](characters/舶.md) [剝](characters/剝.md) [樸](characters/朴.md) [箔](characters/箔.md) [[粕]] [縛](characters/縛.md) [[膊]] [雹](characters/包.md) [駁](characters/駁.md) 
 
 ### 반 
- [畔 (char)](characters/畔%20(char).md) [頒](characters/頒.md) [潘](characters/潘.md) [磐](characters/磐.md) [拌](characters/拌.md) [搬](characters/搬.md) [攀](characters/攀.md) [斑](characters/斑.md) [[槃]] [[泮]] [[瘢]] [盼](characters/盼.md) [[磻]] [[礬]] [絆](characters/絆.md) [蟠](characters/盤%20(char).md) [[豳]] 
+ [畔 (char)](characters/畔%20(char).md) [頒](characters/頒.md) [潘](characters/潘.md) [磐](characters/磐.md) [拌](characters/拌.md) [搬](characters/搬.md) [攀](characters/攀.md) [斑](characters/斑.md) [[槃]] [[泮]] [[瘢]] [盼](characters/盼.md) [[磻]] [[../../characters/礬]] [絆](characters/絆.md) [蟠](characters/盤%20(char).md) [[豳]] 
 
 ### 발 
  [[潑]] [鉢 (char)](characters/鉢%20(char).md) [[渤]] [勃](characters/勃.md) [[撥]] [[跋]] [醱](characters/発%20(char).md) [魃](characters/災.md) 
