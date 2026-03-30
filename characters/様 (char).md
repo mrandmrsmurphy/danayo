@@ -1,13 +1,14 @@
 ---
-mandarin: "yàng"
-cantonese: "joeng4"
-korean: "양"
+mandarin: yàng
+cantonese: joeng4
+korean: 양
 korean_native: 모양
 japanese:
   - YOU
   - SHOU
 japanese_nanori: ""
 vietnamese:
+  - dạng, dáng, nhàng
 middle_chinese_initial: ŋ
 middle_chinese_final: ɨɐŋ
 stroke_count: 14
