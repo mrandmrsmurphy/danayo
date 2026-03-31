@@ -1,47 +1,47 @@
 > Everything that should be a redirect, is.  All have the correct Hanmun education level.  It remains to check these all for the correct native Korean.
 ## ㄱ
 #### 가
-[[家]] (집 가) [[佳 (char)]] (아름다울 가) [[街]] (거리 가) [[可]] (옳을 가) [[歌]] (노래 가) [[加]] (더할 가) [[価|價]] (값 가) [[仮|假]] (거짓 가)
+[家](../../characters/家.md) (집 가) [佳](../../characters/佳%20(char).md) (아름다울 가) [街](../../characters/街.md) (거리 가) [可](../../characters/可%20(char).md) (옳을 가) [歌](../../characters/歌.md) (노래 가) [加](../../characters/加.md) (더할 가) [價](../../characters/価.md) (값 가) [假](../../characters/仮.md) (거짓 가)
 #### 각
-[[各]] (하나하나 각) [[角]] (뿔 각) [[脚]] (다리 각)
+[各 (char)](../../characters/各%20(char).md) (하나하나 각) [角 (char)](../../characters/角%20(char).md) (뿔 각) [脚](../../characters/脚%20(char).md) (다리 각)
 #### 간
-[[干]] (방패 간) [[間]] (사이 간) [看 (char)](characters/看%20(char).md) (볼 간)
+[干](../../characters/干.md) (방패 간) [間](../../characters/間.md) (사이 간) [看](characters/看%20(char).md) (볼 간)
 #### 갈
 [渴](characters/渇%20(char).md) (목마를 갈)
 #### 감
-[[甘]] (달 감) [[減]] (덜 감) [[感]] (느낄 감) [[敢]] (감히 감)
+[甘](../../characters/甘%20(char).md) (달 감) [減](../../characters/減.md) (덜 감) [感](../../characters/感.md) (느낄 감) [敢](../../characters/敢.md) (감히 감)
 #### 갑
-[甲 (char)](characters/甲%20(char).md) (갑옷 갑)
+[甲](characters/甲%20(char).md) (갑옷 갑)
 #### 강
-[[江]] (강 강) [[降]] (내릴 강) [[講]] (익힐 강) [强](characters/強%20(char).md) (굳셀 강)
+[江](../../characters/江.md) (강 강) [降](../../characters/降.md) (내릴 강) [講](../../characters/講.md) (익힐 강) [强](characters/強%20(char).md) (굳셀 강)
 #### 개
-[改 (char)](characters/改%20(char).md) (고칠 개) [[皆 (char)]] (다 개) [[個 (char)]] / 箇 (낱 개) [[開]] (열 개)
+[改](characters/改%20(char).md) (고칠 개) [皆](../../characters/皆%20(char).md) (다 개) [個](../../characters/個%20(char).md) / 箇 (낱 개) [開](../../characters/開.md) (열 개)
 #### 객
-[[客]] (손님 객)
+[客](../../characters/客.md) (손님 객)
 #### 갱
-[更 (char)](characters/更%20(char).md) (다시 갱)
+[更](characters/更%20(char).md) (다시 갱)
 #### 거
-[去 (char)](characters/去%20(char).md) (갈 거) [[巨]] (클 거) [[居]] (있을 거) [[車 (char)]] (수레 거) [擧](characters/挙%20(char).md) (들 거)
+[去](characters/去%20(char).md) (갈 거) [巨](../../characters/巨.md) (클 거) [居](../../characters/居.md) (있을 거) [車](../../characters/車%20(char).md) (수레 거) [擧](characters/挙%20(char).md) (들 거)
 #### 건
-[[建]] (세울 건) [乾 (char)](characters/乾%20(char).md) (하늘 건)
+[建](../../characters/建.md) (세울 건) [乾](characters/乾%20(char).md) (하늘 건)
 #### 견
-[[犬 (char)]] (개 견) [[見 (char)]] (볼 견) [[堅]] (굳을 견)
+[犬](../../characters/犬%20(char).md) (개 견) [見](../../characters/見%20(char).md) (볼 견) [堅](../../characters/堅.md) (굳을 견)
 #### 결
-[[決]] (터질 결) [[結]] (맺을 결) [[潔]] (깨끗할 결)
+[決 (char)](../../characters/決%20(char).md) (터질 결) [結](../../characters/結%20(char).md) (맺을 결) [潔](../../characters/潔.md) (깨끗할 결)
 #### 경
-[[京]] (서울 경) [[景]] (볕 경) [[軽|輕]] (가벼울 경) [經](characters/経%20(char).md) (경서 경) [[庚]] (일곱째 천간 경) [[耕]] (밭을 갈 경) [[敬]] (공경할 경) [[驚]] (놀랄 경) [[慶]] (경사 경) [[競]] (겨룰 경)
+[京](../../characters/京.md) (서울 경) [景](../../characters/景.md) (볕 경) [輕](軽) (가벼울 경) [經](characters/経%20(char).md) (경서 경) [庚](../../characters/庚.md) (일곱째 천간 경) [耕](../../characters/耕.md) (밭을 갈 경) [敬](../../characters/敬.md) (공경할 경) [驚](../../characters/驚.md) (놀랄 경) [慶 (char)](../../characters/慶%20(char).md) (경사 경) [競](../../characters/競.md) (겨룰 경)
 #### 계
-[[癸]] (열째 천간 계) [[季]] (끝 계) [[界]] (지경 계) [[計]] (꾀 계) [[渓|溪]] (시내 계) [[鶏 (char)|鷄]] (닭 계)
+[癸](../../characters/癸.md) (열째 천간 계) [季](../../characters/季.md) (끝 계) [界](../../characters/界.md) (지경 계) [計](../../characters/計.md) (꾀 계) [溪](../../characters/渓.md) (시내 계) [鷄](../../characters/鶏%20(char).md) (닭 계)
 #### 고
-[[古]] (옛 고) [[故]] (옛 고) [[固]] (굳을 고) [[苦]] (쓸 고) [[考]] / 攷 (상고할 고) [[高 (char)]] (높을 고) [[告]] (알릴 고)
+[古](../../characters/古.md) (옛 고) [故](../../characters/故.md) (옛 고) [固](../../characters/固.md) (굳을 고) [苦](../../characters/苦%20(char).md) (쓸 고) [考](../../characters/考.md) / 攷 (상고할 고) [高 (char)](../../characters/高%20(char).md) (높을 고) [告](../../characters/告.md) (알릴 고)
 #### 곡
-[[谷]] (골 곡) [[曲]] (굽을 곡) [[穀]] (곡식 곡)
+[谷 (char)](../../characters/谷%20(char).md) (골 곡) [曲](../../characters/曲.md) (굽을 곡) [穀](../../characters/穀.md) (곡식 곡)
 #### 곤
-[[困]] (괴로울 곤) [[坤]] (땅 곤)
+[困](../../characters/困.md) (괴로울 곤) [坤](../../characters/坤.md) (땅 곤)
 #### 골
-[[骨 (char)]] (뼈 골)
+[骨](../../characters/骨%20(char).md) (뼈 골)
 #### 공
-[[工]] (장인 공) [[功]] (공로 공) [[空]] (빌 공) [[共 (char)]] (함께 공) [[公 (char)]] (공변될 공)
+[工](../../characters/工.md) (장인 공) [功](../../characters/功.md) (공로 공) [空)](../../characters/空%20(char).md) (빌 공) [[共 (char)]] (함께 공) [[公 (char)]] (공변될 공)
 #### 과
 [[果]] (과실 과) [[課]] (매길 과) [[科]] (과정 과) [[過]] (지날 과)
 #### 관
