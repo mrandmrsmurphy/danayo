@@ -1,13 +1,13 @@
 ---
-mandarin: "yòu"
-cantonese: "jau6"
-korean: "우"
+mandarin: yòu
+cantonese: jau6
+korean: 우
 korean_native: ""
 japanese:
   - YUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: 0
+middle_chinese_initial: "0"
 middle_chinese_final: ɨu
 stroke_count: 2
 radical: 又

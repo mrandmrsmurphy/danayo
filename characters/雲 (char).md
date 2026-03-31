@@ -1,7 +1,7 @@
 ---
-mandarin: "yún"
-cantonese: "wan4"
-korean: "운"
+mandarin: yún
+cantonese: wan4
+korean: 운
 korean_native: 구름
 japanese:
   - UN
@@ -9,7 +9,7 @@ japanese_nanori:
   - も
 vietnamese:
   - vân
-middle_chinese_initial: 0
+middle_chinese_initial: "0"
 middle_chinese_final: ɨun
 stroke_count: 12
 radical: 雨
