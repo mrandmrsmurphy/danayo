@@ -1,7 +1,7 @@
 ---
-mandarin: "yín"
-cantonese: "ngan4"
-korean: "은"
+mandarin: yín
+cantonese: ngan4
+korean: 은
 korean_native: 은
 japanese:
   - GIN
@@ -16,7 +16,7 @@ stroke_count: 14
 radical: 金
 skip_number: 1-8-6
 grade_level: "2"
-pos: ""
+pos: 名詞
 english:
   - silver
 羅馬字: "'in"
