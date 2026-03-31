@@ -388,14 +388,14 @@ The following prefecture names were added in 2017:
 380. [[秒]] : byō , – , second , 
 381. [[究]] : kyū , – , research , 
 382. [章 (char)](characters/章%20(char).md) : shō , – , chapter , 
-383. [[童]] : dō , – , juvenile , 
-384. [[笛]] : teki , fue , whistle , 
-385. [[第]] : dai ,  , ordinal number prefix , 
-386. [[筆]] : hitsu , fude , writing brush , 
-387. [[等]] : tō , hito-shii , class , 
-388. [[箱]] :  , hako , box , 
-389. [[級]] : kyū , – , rank , 
-390. [[終]] : shū , o-waru;  o-eru , end , 
+383. [童](../../characters/童.md) : dō , – , juvenile , 
+384. [笛](../../characters/笛.md) : teki , fue , whistle , 
+385. [第 (char)](../../characters/第%20(char).md) : dai ,  , ordinal number prefix , 
+386. [筆 (char)](../../characters/筆%20(char).md) : hitsu , fude , writing brush , 
+387. [等 (char)](../../characters/等%20(char).md) : tō , hito-shii , class , 
+388. [箱 (char)](../../characters/箱%20(char).md) :  , hako , box , 
+389. [級](../../characters/級.md) : kyū , – , rank , 
+390. [終](../../characters/終.md) : shū , o-waru;  o-eru , end , 
 391. [緑 (char)](characters/緑%20(char).md) : ryoku , midori , green , 
 392. [練](../../characters/練.md) : ren , ne-ru , practice , 
 393. [羊](../../characters/羊.md) : yō , hitsuji , sheep , 
@@ -435,15 +435,15 @@ The following prefecture names were added in 2017:
 427. [重 (char)](../../characters/重%20(char).md) : jū;  chō , omo-i;  kasa-neru , heavy , 
 428. [鉄 (char)](characters/鉄%20(char).md) : tetsu , – , iron , 
 429. [銀 (char)](characters/銀%20(char).md) : gin , – , silver , 
-430. [[開]] : kai , hira-ku;  a-ku;  hira-keru;  a-keru , open , 
-431. [[院]] : in , – , institution , 
-432. [[陽]] : yō , – , sunshine , 
-433. [[階]] : kai , – , floor of a building , 
-434. [[集]] : shū , atsu-maru;  atsu-meru , collect , 
-435. [[面]] : men , omo-te;  tsura , face , 
-436. [[題]] : dai , – , topic , 
-437. [[飲]] : in , no-mu , drink , 
-438. [[館]] : kan , yakata , public building , 
+430. [開](../../characters/開.md) : kai , hira-ku;  a-ku;  hira-keru;  a-keru , open , 
+431. [院](../../characters/院.md) : in , – , institution , 
+432. [陽 (char)](../../characters/陽%20(char).md) : yō , – , sunshine , 
+433. [階](../../characters/階.md) : kai , – , floor of a building , 
+434. [集](../../characters/集.md) : shū , atsu-maru;  atsu-meru , collect , 
+435. [面](../../characters/面.md) : men , omo-te;  tsura , face , 
+436. [題](../../characters/題.md) : dai , – , topic , 
+437. [飲 (char)](../../characters/飲%20(char).md) : in , no-mu , drink , 
+438. [館](../../characters/館.md) : kan , yakata , public building , 
 439. [駅 (char)](characters/駅%20(char).md) : eki , – , station , 
 440. [鼻 (char)](characters/鼻%20(char).md) : bi , hana , nose 
 ## Grade 4 - 202 kanji
@@ -956,29 +956,29 @@ The following prefecture names were added in 2017:
 945. [疑](../../characters/疑.md) : gi	utaga-u	doubt
 946. [痛](../../characters/痛.md) : tsū	ita-i	pain
 947. [皇](../../characters/皇.md) : kō	ō	emperor
-948. [[盛 : sei	mo-ru	prosper
-949. [[盟]] : mei	 	alliance
+948. [盛](../../characters/盛.md) : sei	mo-ru	prosper
+949. [盟](../../characters/盟.md) : mei	 	alliance
 950. [看 (char)](characters/看%20(char).md) : kan	 	watch over
-951. [[沙|砂]] : sa	sha ; suna	sand
-952. [[磁]] : ji	 	magnet
-953. [[私]] : shi	watakushi ; watashi	me
-954. [[秘]] : hi	 	secret
-955. [[穀]] : koku	 	cereal
-956. [[穴]] : ketsu	ana	hole
-957. [[窓]] : sō	mado	window
-958. [[筋]] : kin	suji	muscle
-959. [[策]] : saku	 	scheme
-960. [[簡]] : kan	 	simplicity
-961. [[糖]] : tō	 	sugar
-962. [[系]] : kei	 	lineage
-963. [[紅]] : kō	beni ; kurenai	deep red
-964. [[納]] : nō	osa-meru	settlement
-965. [[純]] : jun	 	genuine
-966. [[絹]] : ken	kinu	silk
-967. [[縦]] : ju	tate	vertical
-968. [[縮]] : shuku	chidi-mu	shrink
+951. [砂](沙) : sa	sha ; suna	sand
+952. [磁](../../characters/磁.md) : ji	 	magnet
+953. [私](../../characters/私.md) : shi	watakushi ; watashi	me
+954. [秘](../../characters/秘.md) : hi	 	secret
+955. [穀](../../characters/穀.md) : koku	 	cereal
+956. [穴](../../characters/穴.md) : ketsu	ana	hole
+957. [窓](../../characters/窓.md) : sō	mado	window
+958. [筋](../../characters/筋.md) : kin	suji	muscle
+959. [策](../../characters/策.md) : saku	 	scheme
+960. [簡](../../characters/簡.md) : kan	 	simplicity
+961. [糖 (char)](../../characters/糖%20(char).md) : tō	 	sugar
+962. [系](../../characters/系.md) : kei	 	lineage
+963. [紅 (char)](../../characters/紅%20(char).md) : kō	beni ; kurenai	deep red
+964. [納 (char)](../../characters/納%20(char).md) : nō	osa-meru	settlement
+965. [純](../../characters/純.md) : jun	 	genuine
+966. [絹 (char)](../../characters/絹%20(char).md) : ken	kinu	silk
+967. [縦 (char)](../../characters/縦%20(char).md) : ju	tate	vertical
+968. [縮 (char)](../../characters/縮%20(char).md) : shuku	chidi-mu	shrink
 969. [署](../../characters/署.md) : sho	 	government office
-970. [[characters/翌 (char)]] : yoku	 	the following
+970. [翌 (char)](../../characters/翌%20(char).md) : yoku	 	the following
 971. [聖](../../characters/聖.md) : sei	 	holy
 972. [肺](../../characters/肺.md) : hai	 	lung
 973. [背 (char)](../../characters/背%20(char).md) : hai	se	back

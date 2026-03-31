@@ -52,3 +52,6 @@ date-last-perfect: 2026-03-24
 - [貧](貧.md)
 - [芬](芬.md)
 - [雰](雰.md)
+
+## Words
+- <ruby>[気分](/words/気分.md)<rt>ㄎㄧ˙ㄅㄨㄋ</rt></ruby> mood

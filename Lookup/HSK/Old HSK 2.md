@@ -76,7 +76,7 @@
 [接 (char)](characters/接%20(char).md): 10
 [主](characters/主.md): 10
 
-## 9
+## 9-8
 [本 (char)](characters/本%20(char).md): 9
 [告](../../characters/告.md): 9
 [害](../../characters/害.md): 9
@@ -98,35 +98,37 @@
 [感](../../characters/感.md): 9
 [客](../../characters/客.md): 9
 [其 (char)](../../characters/其%20(char).md): 9
-[[家]]: 9
-[[形]]: 9
-[[失]]: 9
-[[西]]: 9
-[[代]]: 8
-[[待]]: 8
-[[干]]: 8
-[[科]]: 8
-[[空]]: 8
+[家](../../characters/家.md): 9
+[形](../../characters/形.md): 9
+[失](../../characters/失.md): 9
+[西](../../characters/西.md): 9
+[代](../../characters/代.md): 8
+[待](../../characters/待.md): 8
+[干](../../characters/干.md): 8
+[科](../../characters/科.md): 8
+[空 (char)](../../characters/空%20(char).md): 8
 [强](../../characters/強%20(char).md): 8
 [強 (char)](../../characters/強%20(char).md): 8
-[[照]]: 8
-[[正]]: 8
+[照 (char)](../../characters/照%20(char).md): 8
+[正 (char)](../../characters/正%20(char).md): 8
 [爱](../../characters/愛%20(char).md): 8
-[[愛]]: 8
-[[天]]: 8
-[[要]]: 8
+[愛 (char)](../../characters/愛%20(char).md): 8
+[天 (char)](../../characters/天%20(char).md): 8
+[要](../../characters/要.md): 8
 [邊](../../characters/辺.md): 8
-[[少]]: 8
-[[衣]]: 8
+[少 (char)](../../characters/少%20(char).md): 8
+[衣](../../characters/衣.md): 8
 分: 8
-[[打]]: 8
-[[電]]: 8
-[[活]]: 8
-[[场]]: 8
-[[場]]: 8
-[[机]]: 8
-[[機]]: 8
-[[看]]: 8
+[打](../../characters/打.md): 8
+[電](../../characters/電.md): 8
+[活 (char)](../../characters/活%20(char).md): 8
+[场](../../characters/場.md): 8
+[場](../../characters/場.md): 8
+[机](../../characters/機.md): 8
+[機](../../characters/機.md): 8
+[看 (char)](../../characters/看%20(char).md): 8
+
+## 7
 [便 (char)](../../characters/便%20(char).md): 7
 [[步]]: 7
 [[处]]: 7
@@ -359,8 +361,8 @@
 [[伙]]: 4
 [[确]]: 4
 [[確]]: 4
-[[风]]: 4
-[[../../words/風]]: 4
+[风](../../characters/風%20(char).md): 4
+[風 (char)](../../characters/風%20(char).md): 4
 [[梯]]: 4
 [[读]]: 4
 [[讀]]: 4
@@ -521,7 +523,7 @@
 [[足]]: 3
 [[複]]: 3
 [[新]]: 3
-[[../../words/在]]: 3
+[在 (char)](../../characters/在%20(char).md): 3
 [[听]]: 3
 [[聽]]: 3
 [[使]]: 3
@@ -842,20 +844,18 @@
 [[泛]]: 2
 [[王]]: 2
 [[久]]: 2
-[[容]]: 2
-[[玩]]: 2
-[[些]]: 2
-[[码]]: 2
-[[碼]]: 2
-[[茶]]: 2
-[[悔]]: 2
-[[糊]]: 2
+[容 (char)](../../characters/容%20(char).md): 2
+[玩](../../characters/玩.md): 2
+[些](../../characters/些.md): 2
+[碼](../../characters/馬%20(char).md): 2
+[茶 (char)](../../characters/茶%20(char).md): 2
+[悔](../../characters/悔.md): 2
+[糊](../../characters/糊.md): 2
 [[坏]]: 2
-[[壞]]: 2
-[[欢]]: 2
-[[歡]]: 2
-[[境]]: 2
-[[../../words/黄]]: 2
+[壞](../../characters/壊.md): 2
+[歡](../../characters/歓.md): 2
+[境](../../characters/境.md): 2
+[黄 (char)](../../characters/黄%20(char).md): 2
 [[黃]]: 2
 [[恢]]: 2
 [[忆]]: 2
