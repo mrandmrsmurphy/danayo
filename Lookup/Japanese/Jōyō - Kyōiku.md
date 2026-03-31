@@ -33,11 +33,11 @@ The following prefecture names were added in 2017:
 27. [[川 (char)]] : sen (kawa)    
 28. [[土 (char)]] : do / to (tsuchi)    
 29. [[空 (char)]]) : kū (sora, kara)    
-30. [[田]] : den (ta)    
+30. [田](../../characters/田.md) : den (ta)    
 31. [[天 (char)]] : ten (ama, ame)    
-32. [[生]] : sei, shō (i-kiru, u-mu, nama)
-33. [[虫]] : chū (mushi)    
-34. [[花]] : ka (hana)    
+32. [生](../../characters/生.md) : sei, shō (i-kiru, u-mu, nama)
+33. [虫](../../characters/虫.md) : chū (mushi)    
+34. [花](../../characters/花.md) : ka (hana)    
 35. [[草 (char)]] : sō (kusa)    
 36. [[犬 (char)]] : ken (inu)    
 37. [[人 (char)]] : jin / nin (hito)    
@@ -62,38 +62,38 @@ The following prefecture names were added in 2017:
 56. [[先]] : sen (saki)    
 57. [[夕]] : yū (yū)    
 58. [[本]] : hon (moto)
-59. [[文]] : bun / mon (fumi)    
+59. [文](../../characters/文.md) : bun / mon (fumi)    
 60. [[字 (char)]] : ji (aza)    
-61. [[学]] : gaku (mana-bu)    
-62. [[校]] : kō (—)    
-63. [[村]] : son (mura)    
-64. [[町]] : chō (machi)    
-65. [[森]] : shin (mori)    
+61. [学](../../characters/学.md) : gaku (mana-bu)    
+62. [校](../../characters/校.md) : kō (—)    
+63. [村](../../characters/村.md) : son (mura)    
+64. [町](../../characters/町.md) : chō (machi)    
+65. [森](../../characters/森.md) : shin (mori)    
 66. [[正 (char)]] : sei / shō (tada-shii)    
 67. [[水 (char)]] : sui (mizu)    
 68. [[火 (char)]] : ka (hi)    
-69. [[玉]] : gyoku (tama)    
-70. [[王]] : ō (kimi)    
+69. [玉 (char)](../../characters/玉%20(char).md) : gyoku (tama)    
+70. [王 (char)](../../characters/王%20(char).md) : ō (kimi)    
 71. [[石 (char)]] : seki (ishi)    
-72. [[竹]] : chiku (take)    
-73. [[糸]] : shi (ito)    
-74. [[貝]] : bai (kai)    
+72. [竹 (char)](../../characters/竹%20(char).md) : chiku (take)    
+73. [糸](../../characters/糸.md) : shi (ito)    
+74. [貝](../../characters/貝.md) : bai (kai)    
 75. [[車 (char)]] : sha (kuruma)    
 76. [[金 (char)]] : kin / kon (kane)    
 77. [[雨 (char)]] : u (ame)    
-78. [[赤]] : seki (aka)    
+78. [赤 (char)](../../characters/赤%20(char).md) : seki (aka)    
 79. [[青 (char)]] : sei / shō (ao)    
-80. [[白]] : haku (shiro)    
+80. [白 (char)](../../characters/白%20(char).md) : haku (shiro)    
 ## Grade 2 - 160
-81. [[数]] : number, count ; sū (kazu)
+81. [数](../../characters/数.md) : number, count ; sū (kazu)
 82. [[多 (char)]] : many, much ; ta (oo-i)
-83. [[少]] : a few, a little ; shō (suku-nai, suko-shi)
-84. [[万]] : ten thousand ; ban, man (yorozu)
-85. [[半]] : half ; han (naka-ba)
-86. [[形]] : shape ; kei, gyō (katachi)
-87. [[太 (char)]] : thick ; ta (futo-i)
-88. [[細]] : thin ; sai (hoso-i)
-89. [[広]] : wide ; kō (hiro-i)
+83. [少 (char)](../../characters/少%20(char).md) : a few, a little ; shō (suku-nai, suko-shi)
+84. [万](../../characters/万.md) : ten thousand ; ban, man (yorozu)
+85. [半](../../characters/半.md) : half ; han (naka-ba)
+86. [形](../../characters/形.md) : shape ; kei, gyō (katachi)
+87. [太 (char)](../../characters/太%20(char).md) : thick ; ta (futo-i)
+88. [細 (char)](../../characters/細%20(char).md) : thin ; sai (hoso-i)
+89. [広 (char)](../../characters/広%20(char).md) : wide ; kō (hiro-i)
 90. [長 (char)](../../characters/長%20(char).md) : long, leader ; chō (naga-i)
 91. [点 (char)](../../characters/点%20(char).md) : point ; ten (bochi)
 92. [丸](../../characters/丸.md) : circle ; gan (maru)
@@ -137,43 +137,43 @@ The following prefecture names were added in 2017:
 130. [今 (char)](../../characters/今%20(char).md) : now ; kon (ima)
 131. [新 (char)](characters/新%20(char).md) : new ; shin (atara-shii, ara-ta)
 132. [古](../../characters/古.md) : old ; ko (furu-i)
-133. [[間]] : interval ; kan, ken (ma, aida)
-134. [[方]] : direction ; hō (kata)
-135. [[北]] : north ; hoku (kita)
-136. [[南]] : south ; nan (minami)
-137. [[東]] : east ; tō (higashi, azuma)
-138. [[西]] : west ; sei, sai (nishi)
-139. [[遠]] : far ; en (tō-i)
-140. [[近]] : near ; kin (chika-i)
-141. [[前]] : before ; zen (mae)
-142. [[後]] : after ; go, kō (nochi, ushi-ro, ato)
-143. [[内]] : inside ; nai (uchi)
-144. [[外]] : outside ; gai, ge (soto, hoka, hazu-su)
-145. [[場]] : place ; jō (ba)
-146. [[地]] : ground ; chi, ji (
-147. [[国]] : country ; koku (kuni)
-148. [[園]] : garden ; en (sono)
-149. [[谷]] : valley ; koku (tani)
-150. [[野]] : field ; ya (no)
-151. [[原]] : meadow, plain ; gen (hara)
+133. [間](../../characters/間.md) : interval ; kan, ken (ma, aida)
+134. [方](../../characters/方.md) : direction ; hō (kata)
+135. [北](../../characters/北.md) : north ; hoku (kita)
+136. [南](../../characters/南.md) : south ; nan (minami)
+137. [東](../../characters/東.md) : east ; tō (higashi, azuma)
+138. [西](../../characters/西.md) : west ; sei, sai (nishi)
+139. [遠 (char)](../../characters/遠%20(char).md) : far ; en (tō-i)
+140. [近 (char)](../../characters/近%20(char).md) : near ; kin (chika-i)
+141. [前 (char)](../../characters/前%20(char).md) : before ; zen (mae)
+142. [後 (char)](../../characters/後%20(char).md) : after ; go, kō (nochi, ushi-ro, ato)
+143. [内](../../characters/内.md) : inside ; nai (uchi)
+144. [外](../../characters/外.md) : outside ; gai, ge (soto, hoka, hazu-su)
+145. [場](../../characters/場.md) : place ; jō (ba)
+146. [地 (char)](../../characters/地%20(char).md) : ground ; chi, ji (
+147. [国](../../characters/国.md) : country ; koku (kuni)
+148. [園](../../characters/園.md) : garden ; en (sono)
+149. [谷 (char)](../../characters/谷%20(char).md) : valley ; koku (tani)
+150. [野](../../characters/野.md) : field ; ya (no)
+151. [原](../../characters/原.md) : meadow, plain ; gen (hara)
 152. [里 (char)](characters/里%20(char).md) : hometown ; ri (sato)
-153. [[市]] : city ; shi (ichi)
-154. [[京]] : capital ; kyō, kei (miyako)
+153. [市](../../characters/市.md) : city ; shi (ichi)
+154. [京](../../characters/京.md) : capital ; kyō, kei (miyako)
 155. [風 (char)](characters/風%20(char).md) : wind, -style ; fū (kaze)
 156. [雪 (char)](characters/雪%20(char).md) : snow ; setsu (yuki)
 157. [雲 (char)](characters/雲%20(char).md) : cloud ; un (kumo)
-158. [[池]] : pond ; chi (ike)
-159. [[海]] : sea ; kai (umi)
-160. [[岩]] : rock ; gan (iwa)
-161. [[星]] : star ; sei (hoshi)
-162. [[室]] : room ; shitsu (muro)
-163. [[戸]] : door ; ko (to, be)
-164. [[家]] : house ; ka, ke ( ie )
- 165. [[寺]] : Buddhist temple ; ji (tera)
-166. [[通]] : pass through, commute ; tsū (tō-ru, kayo-u)
-167. [[門]] : gates ; mon (kado)
-168. [[道]] : road ; dō (michi)
-169. [[話]] : talk ; wa (hanashi, hana-su)
+158. [池 (char)](../../characters/池%20(char).md) : pond ; chi (ike)
+159. [海](../../characters/海.md) : sea ; kai (umi)
+160. [岩](../../characters/岩.md) : rock ; gan (iwa)
+161. [星 (char)](../../characters/星%20(char).md) : star ; sei (hoshi)
+162. [室](../../characters/室.md) : room ; shitsu (muro)
+163. [戸](../../characters/戸.md) : door ; ko (to, be)
+164. [家](../../characters/家.md) : house ; ka, ke ( ie )
+ 165. [寺](../../characters/寺.md) : Buddhist temple ; ji (tera)
+166. [通 (char)](../../characters/通%20(char).md) : pass through, commute ; tsū (tō-ru, kayo-u)
+167. [門](../../characters/門.md) : gates ; mon (kado)
+168. [道 (char)](../../characters/道%20(char).md) : road ; dō (michi)
+169. [話 (char)](../../characters/話%20(char).md) : talk ; wa (hanashi, hana-su)
 170. [言 (char)](characters/言%20(char).md) : say ; gen, gon (i-u, koto)
 171. [[答]] : answer ; tō (kota-eru)
 172. [[声]] : voice ; sei (koe)
@@ -904,15 +904,15 @@ The following prefecture names were added in 2017:
 893. [干](characters/干.md) : kan	ho-su	dry
 894. [幼](characters/幼.md) : yō	osana-i	infancy
 895. [庁](characters/庁.md) : chō	 	government office
-896. [[坐|座]] : za	suwa-ru	sit
+896. [座](坐) : za	suwa-ru	sit
 897. [延](characters/延.md) : en	no-basu	prolong
 898. [律](characters/律.md) : ritsu	 	rhythm
 899. [従 (char)](characters/従%20(char).md) : jū	shitaga-u	obey
-900. [[忘]] : bō	wasu-reru	forget
-901. [[忠]] : chū	 	loyalty
-902. [[憲]] : ken	 	constitution
-903. [[恩]] : on	 	grace
-904. [[承]] : shō	uketamawa-ru	acquiesce
+900. [忘](../../characters/忘.md) : bō	wasu-reru	forget
+901. [忠](../../characters/忠.md) : chū	 	loyalty
+902. [憲](../../characters/憲.md) : ken	 	constitution
+903. [恩](../../characters/恩.md) : on	 	grace
+904. [承](../../characters/承.md) : shō	uketamawa-ru	acquiesce
 905. [我](characters/我%20(char).md) : ga	ware	ego
 906. [批](characters/批.md) : hi	 	criticism
 907. [担](characters/担.md) : tan	nina-u	shouldering
@@ -921,42 +921,42 @@ The following prefecture names were added in 2017:
 910. [捨 (char)](characters/捨%20(char).md) : sha	su-teru	throw away
 911. [探](characters/探.md) : tan	saga-su	grope
 912. [推 (char)](characters/推%20(char).md) : sui	 	infer
-913. [[揮]] : ki	 	command
-914. [[操]] : sō	ayatsu-ru	maneuver
-915. [[敬]] : kei	uyama-u	respect
-916. [[敵]] : teki	kataki	enemy
+913. [揮](../../characters/揮.md) : ki	 	command
+914. [操](../../characters/操.md) : sō	ayatsu-ru	maneuver
+915. [敬](../../characters/敬.md) : kei	uyama-u	respect
+916. [敵](../../characters/敵.md) : teki	kataki	enemy
 917. [映](characters/映%20(char).md) : ei	utsu-ru	reflect
 918. [晩](characters/晩%20(char).md) : ban	 	nightfall
-919. [[暖]] : dan	atata-kai	warmth
-920. [[暮]] : bo	ku-rasu	livelihood
-921. [[朗]] : rō	hoga-raka	melodious
-922. [[機|机]] : ki	tsukue	desk
+919. [暖 (char)](../../characters/暖%20(char).md) : dan	atata-kai	warmth
+920. [暮](../../characters/暮.md) : bo	ku-rasu	livelihood
+921. [朗](../../characters/朗.md) : rō	hoga-raka	melodious
+922. [机](../../characters/機.md) : ki	tsukue	desk
 923. [枚](characters/枚%20(char).md) : mai	 	sheet of…
-924. [[染]] : sen	so-meru	dye
-925. [[株]] : kabu	 	stocks
-926. [[棒]] : bō	 	rod
-927. [[模]] : mo ; bo	 	imitation
-928. [[権]] : ken	 	rights
-929. [[樹]] : ju	ki	trees
-930. [[欲]] : yoku	ho-shii	longing
+924. [染](../../characters/染.md) : sen	so-meru	dye
+925. [株 (char)](../../characters/株%20(char).md) : kabu	 	stocks
+926. [棒](../../characters/棒.md) : bō	 	rod
+927. [模](../../characters/模.md) : mo ; bo	 	imitation
+928. [権](../../characters/権.md) : ken	 	rights
+929. [樹](../../characters/樹.md) : ju	ki	trees
+930. [欲](../../characters/欲.md) : yoku	ho-shii	longing
 931. [段](characters/段%20(char).md) : dan	 	steps
-932. [[沿]] : en	so-u	run alongside
-933. [[泉]] : sen	izumi	fountain
-934. [[洗]] : sen	ara-u	wash
-935. [[派]] : ha	 	sect
+932. [沿 (char)](../../characters/沿%20(char).md) : en	so-u	run alongside
+933. [泉](../../characters/泉.md) : sen	izumi	fountain
+934. [洗 (char)](../../characters/洗%20(char).md) : sen	ara-u	wash
+935. [派](../../characters/派.md) : ha	 	sect
 936. [済](characters/済%20(char).md) : sai	su-mu	settle
-937. [[源]] : gen	minamoto	origin
-938. [[潮]] : chō	shio	tide
-939. [[激]] : geki	hage-shii	violent
-940. [[灰]] : kai	hai	ashes
-941. [[熟]] : juku	u-reru	ripen
-942. [[片]] : hen	kata	one-sided
-943. [[班]] : han	 	group
-944. [[異]] : i	koto-naru	uncommon
-945. [[疑]] : gi	utaga-u	doubt
-946. [[痛]] : tsū	ita-i	pain
-947. [[皇]] : kō	ō	emperor
-948. [[盛]] : sei	mo-ru	prosper
+937. [源](../../characters/源.md) : gen	minamoto	origin
+938. [潮](../../characters/潮.md) : chō	shio	tide
+939. [激](../../characters/激.md) : geki	hage-shii	violent
+940. [灰 (char)](../../characters/灰%20(char).md) : kai	hai	ashes
+941. [熟](../../characters/熟.md) : juku	u-reru	ripen
+942. [片 (char)](../../characters/片%20(char).md) : hen	kata	one-sided
+943. [班 (char)](../../characters/班%20(char).md) : han	 	group
+944. [異](../../characters/異.md) : i	koto-naru	uncommon
+945. [疑](../../characters/疑.md) : gi	utaga-u	doubt
+946. [痛](../../characters/痛.md) : tsū	ita-i	pain
+947. [皇](../../characters/皇.md) : kō	ō	emperor
+948. [[盛 : sei	mo-ru	prosper
 949. [[盟]] : mei	 	alliance
 950. [看 (char)](characters/看%20(char).md) : kan	 	watch over
 951. [[沙|砂]] : sa	sha ; suna	sand
@@ -986,53 +986,53 @@ The following prefecture names were added in 2017:
 975. [脳 (char)](characters/脳%20(char).md) : nō	 	brain
 976. [腹 (char)](characters/腹%20(char).md) : fuku	hara	abdomen
 977. [胃 (char)](characters/胃%20(char).md) : i	 –	stomach
-978. [[臓]] : zō	 	entrails
-979. [[臨]] : rin	nozo-mu	lookover
-980. [[至]] : shi	ita-ru	climax
-981. [[腸]] : chō	 –	intestines
-982. [[舌]] : zetsu	shita	tongue
-983. [[若]] : jaku	waka-i	young
-984. [[着|著]] : cho	arawa-su ; ichijiru-shii	renowned
-985. [[蒸]] : jō	mu-su	steam
-986. [[蔵]] : zō	kura	warehouse
-987. [[蚕]] : san	kaiko	silkworm
-988. [[衆]] : shū	 	masses
-989. [[裁]] : sai	saba-ku	judge
-990. [[装]] : sō ; shō	yosoo-u	attire
-991. [[裏]] : ri	ura	back
-992. [[補]] : ho	ogina-u	supplement
-993. [[視]] : shi	mi-ru	look at
-994. [[覧]] : ran	 	perusal
-995. [[討]] : tō	u-tsu	chastise
-996. [[訪]] : hō	otozu-reru	visit
-997. [[訳]] : yaku	wake	translate
-998. [[詞]] : shi	kotoba	poetry
-999. [[誌]] : shi	 	document
-1000. [[認]] : nin	mito-meru	recognize
-1001. [[誕]] : tan	 	born
-1002. [[誠]] : sei	makoto	sincerity
-1003. [[誤]] : go	ayama-ru	mistake
-1004. [[論]] : ron	 	theory
-1005. [[諸]] : sho	moro	everything
-1006. [[警]] : kei	 	guard against
-1007. [[貴]] : ki	 	precious
-1008. [[賃]] : chin	 	fare
-1009. [[遺]] : i	 	bequeath
-1010. [[郵]] : yū	 	mail
-1011. [[郷 : kyou	gou	home town
+978. [臓](../../characters/臓.md) : zō	 	entrails
+979. [臨](../../characters/臨.md) : rin	nozo-mu	lookover
+980. [至 (char)](../../characters/至%20(char).md) : shi	ita-ru	climax
+981. [腸](../../characters/腸.md) : chō	 –	intestines
+982. [舌 (char)](../../characters/舌%20(char).md) : zetsu	shita	tongue
+983. [若 (char)](../../characters/若%20(char).md) : jaku	waka-i	young
+984. [著](着) : cho	arawa-su ; ichijiru-shii	renowned
+985. [蒸 (char)](../../characters/蒸%20(char).md) : jō	mu-su	steam
+986. [蔵](../../characters/蔵.md) : zō	kura	warehouse
+987. [蚕](../../characters/蚕%20(char).md) : san	kaiko	silkworm
+988. [衆](../../characters/衆.md) : shū	 	masses
+989. [裁](../../characters/裁.md) : sai	saba-ku	judge
+990. [装 (char)](../../characters/装%20(char).md) : sō ; shō	yosoo-u	attire
+991. [裏](../../characters/裏.md) : ri	ura	back
+992. [補](../../characters/補.md) : ho	ogina-u	supplement
+993. [視 (char)](../../characters/視%20(char).md) : shi	mi-ru	look at
+994. [覧](../../characters/覧.md) : ran	 	perusal
+995. [討](../../characters/討.md) : tō	u-tsu	chastise
+996. [訪](../../characters/訪.md) : hō	otozu-reru	visit
+997. [訳](../../characters/訳.md) : yaku	wake	translate
+998. [詞](../../characters/詞.md) : shi	kotoba	poetry
+999. [誌](../../characters/誌.md) : shi	 	document
+1000. [認](../../characters/認.md) : nin	mito-meru	recognize
+1001. [誕](../../characters/誕.md) : tan	 	born
+1002. [誠](../../characters/誠.md) : sei	makoto	sincerity
+1003. [誤](../../characters/誤.md) : go	ayama-ru	mistake
+1004. [論](../../characters/論.md) : ron	 	theory
+1005. [諸 (char)](../../characters/諸%20(char).md) : sho	moro	everything
+1006. [警](../../characters/警.md) : kei	 	guard against
+1007. [貴](../../characters/貴.md) : ki	 	precious
+1008. [賃 (char)](../../characters/賃%20(char).md) : chin	 	fare
+1009. [遺 (char)](../../characters/遺%20(char).md) : i	 	bequeath
+1010. [郵](../../characters/郵.md) : yū	 	mail
+1011. [郷](../../characters/郷.md) : kyou	gou	home town
 1012. [針 (char)](characters/針%20(char).md) : shin	hari	needle
 1013. [退 (char)](characters/退%20(char).md) : tai	shirizo-ku	retreat
-1014. [[鋼]] : kou	hagane	steel
-1015. [[閉]] : hei	shi-meru	closed
-1016. [[閣]] : kaku	 	tall
-1017. [[降]] : kou	o-riru	descend
-1018. [[陛]] : hei	 	majesty
-1019. [[銭]] : sen	zeni	coin
-1020. [[除]] : jo ; ji	nozo-ku	exclude
-1021. [[障]] : shou	sawa-ru	hurt
-1022. [[難]] : nan	muzuka-shii	difficult
-1023. [[革]] : kaku	kawa	leather
-1024. [[頂]] : chou	itada-ku	place on the head
-1025. [[予|預]] : yo	azu-keru	deposit
-1026. [[骨 (char)]] : kotsu	hone	bone
+1014. [鋼](../../characters/鋼.md) : kou	hagane	steel
+1015. [閉](../../characters/閉.md) : hei	shi-meru	closed
+1016. [閣](../../characters/閣.md) : kaku	 	tall
+1017. [降](../../characters/降.md) : kou	o-riru	descend
+1018. [陛](../../characters/陛.md) : hei	 	majesty
+1019. [銭](../../characters/銭.md) : sen	zeni	coin
+1020. [除](../../characters/除.md) : jo ; ji	nozo-ku	exclude
+1021. [障](../../characters/障.md) : shou	sawa-ru	hurt
+1022. [難](../../characters/難.md) : nan	muzuka-shii	difficult
+1023. [革](../../characters/革.md) : kaku	kawa	leather
+1024. [頂](../../characters/頂.md) : chou	itada-ku	place on the head
+1025. [預](../../characters/予.md) : yo	azu-keru	deposit
+1026. [骨 (char)](../../characters/骨%20(char).md) : kotsu	hone	bone
 

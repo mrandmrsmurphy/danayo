@@ -290,31 +290,25 @@
 [發](../../characters/発%20(char).md) (쏠 발)
 
 #### 방
-[方](../../characters/方.md) (모 방) [房](../../characters/房%20(char).md) (방 방) [防](../../characters/防.md) (막을 방) [[放]] (놓을 방) [[訪]] (찾을 방)
+[方](../../characters/方.md) (모 방) [房](../../characters/房%20(char).md) (방 방) [防](../../characters/防.md) (막을 방) [放](../../characters/放.md) (놓을 방) [訪](../../characters/訪.md) (찾을 방)
 
 #### 배
-
-[[拝 (char)|拜]] (절 배) [[杯 (char)|盃]] (잔 배)
+[拜](../../characters/拝%20(char).md) (절 배) [盃](../../characters/杯%20(char).md) (잔 배)
 
 #### 백
-
-[[白]] (흰 백) [[百]] (일백 백)
+[白](../../characters/白%20(char).md) (흰 백) [百](../../characters/百.md) (일백 백)
 
 #### 번
-
-[[番 (char)]] (차례 번)
+[番 (char)](../../characters/番%20(char).md) (차례 번)
 
 #### 벌
-
-[[伐]] (칠 벌)
+[伐](../../characters/伐.md) (칠 벌)
 
 #### 범
-
-[[凡]] (무릇 범)
+[凡](../../characters/凡.md) (무릇 범)
 
 #### 법
-
-[[法]] (법 법)
+[法](../../characters/法%20(char).md) (법 법)
 
 #### 변
 

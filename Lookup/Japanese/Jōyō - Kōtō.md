@@ -40,69 +40,69 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1064. [疫](characters/疫.md) : epidemic
 1065. [悦](characters/悦.md) : ecstasy
 1066. [越 (char)](characters/越%20(char).md) : cross over
-1067. [[謁]] : 	謁 	audience
-1068. [[閲]] : review
-1069. [[炎]] : inflammation
-1070. [[怨]] : grudge
-1071. [[宴]] : banquet
-1072. [[援]] : aid
-1073. [[煙]] : smoke
-1074. [[猿]] : monkey
-1075. [[鉛 (char)]] : lead
-1076. [[縁]] : 	緣	affinity
-1077. [[艶]] : 	艷	glossy
-1078. [[汚]] : dirty
-1079. [[凹]] : concave
-1080. [[押]] : pushed
-1081. [[旺]] : flourishing
-1082. [[欧]] : 	歐	Europe
-1083. [[殴]] : 	毆	assault
-1084. [[翁]] : venerable old man
-1085. [[奥]] : 	奧	heart
-1086. [[憶]] : recollection
-1087. [[臆]] : timidity
-1088. [[虞]] : uneasiness
-1089. [[乙 (char)]] : the latter
-1090. [[俺]] : I, we, myself
-1091. [[卸]] : wholesale
-1092. [[穏]] : 	穩	calm
-1093. [[佳 (char)]] : excellent
-1094. [[苛]] : torment
-1095. [[架 (char)]] : rack
-1096. [[華]] : splendor
+1067. [謁 (char)](../../characters/謁%20(char).md) : 	謁 	audience
+1068. [閲](../../characters/閲.md) : review
+1069. [炎](../../characters/炎.md) : inflammation
+1070. [怨](../../characters/怨.md) : grudge
+1071. [宴](../../characters/宴.md) : banquet
+1072. [援](../../characters/援.md) : aid
+1073. [煙](../../characters/煙.md) : smoke
+1074. [猿](../../characters/猿.md) : monkey
+1075. [鉛 (char)](../../characters/鉛%20(char).md) : lead
+1076. [縁](../../characters/縁.md) : 	緣	affinity
+1077. [艶 (char)](../../characters/艶%20(char).md) : 	艷	glossy
+1078. [汚 (char)](../../characters/汚%20(char).md) : dirty
+1079. [凹 (char)](../../characters/凹%20(char).md) : concave
+1080. [押 (char)](../../characters/押%20(char).md) : pushed
+1081. [旺](../../characters/旺.md) : flourishing
+1082. [欧](../../characters/𧦅.md) : 	歐	Europe
+1083. [殴](../../characters/殴.md) : 	毆	assault
+1084. [翁 (char)](../../characters/翁%20(char).md) : venerable old man
+1085. [奥 (char)](../../characters/奥%20(char).md) : 	奧	heart
+1086. [憶](../../characters/憶.md) : recollection
+1087. [臆](../../characters/臆.md) : timidity
+1088. [虞](../../characters/虞.md) : uneasiness
+1089. [乙 (char)](../../characters/乙%20(char).md) : the latter
+1090. [俺](../../characters/俺.md) : I, we, myself
+1091. [卸 (char)](../../characters/卸%20(char).md) : wholesale
+1092. [穏](../../characters/穏.md) : 	穩	calm
+1093. [佳 (char)](../../characters/佳%20(char).md) : excellent
+1094. [苛](../../characters/苛.md) : torment
+1095. [架 (char)](../../characters/架%20(char).md) : rack
+1096. [華](../../characters/華.md) : splendor
 1097. 菓 : confectionery --- already counted as 果 at level 4
-1098. [[渦]] : whirlpool
-1099. [[嫁]] : marry into
-1100. [[暇]] : spare time
-1101. [[禍]] : 	禍	calamity
-1102. [[靴]] : shoes
-1103. [[寡]] : widow
+1098. [渦](../../characters/渦.md) : whirlpool
+1099. [嫁](../../characters/嫁.md) : marry into
+1100. [暇](../../characters/暇.md) : spare time
+1101. [禍](../../characters/禍.md) : 	禍	calamity
+1102. [靴](../../characters/靴.md) : shoes
+1103. [寡](../../characters/寡.md) : widow
 1104. 箇 : counters for things --- already counted as 個 in level 5
-1105. [[稼]] : earnings
-1106. [[蚊 (char)]] : mosquito
-1107. [[牙]] :  tusk
-1108. [[瓦]] : tile
-1109. [[雅]] : gracious
-1110. [[餓]] : starve
-1111. [[介]] : jammed in
-1112. [[戒]] : commandment
-1113. [[怪]] : suspicious
-1114. [[拐]] : kidnap
-1115. [[悔]] : 	悔 repent
-1116. [[皆 (char)]] : all
-1117. [[塊]] : clod
-1118. [[楷]] : square character style
-1119. [[潰]] : crush
-1120. [[壊]] : 	壞	demolition
-1121. [[懐]] : 	懷	pocket
-1122. [[諧]] : harmony
-1123. [[劾]] : censure
-1124. [[崖]] : cliff
-1125. [[涯]] : horizon
-1126. [[慨]] : 	慨	rue
-1127. [[蓋]] : cover
-1128. [[該]] : above-stated
-1129. [[概]] : 	槪	outline
+1105. [稼](../../characters/稼.md) : earnings
+1106. [蚊 (char)](../../characters/蚊%20(char).md) : mosquito
+1107. [牙](../../characters/牙.md) :  tusk
+1108. [瓦 (char)](../../characters/瓦%20(char).md) : tile
+1109. [雅](../../characters/雅.md) : gracious
+1110. [餓](../../characters/餓.md) : starve
+1111. [介](../../characters/介.md) : jammed in
+1112. [戒](../../characters/戒.md) : commandment
+1113. [怪](../../characters/怪.md) : suspicious
+1114. [拐](../../characters/拐.md) : kidnap
+1115. [悔](../../characters/悔.md) : 	悔 repent
+1116. [皆 (char)](../../characters/皆%20(char).md) : all
+1117. [塊 (char)](../../characters/塊%20(char).md) : clod
+1118. [楷 (char)](../../characters/楷%20(char).md) : square character style
+1119. [潰 (char)](../../characters/潰%20(char).md) : crush
+1120. [壊](../../characters/壊.md) : 	壞	demolition
+1121. [懐 (char)](../../characters/懐%20(char).md) : 	懷	pocket
+1122. [諧](../../characters/諧.md) : harmony
+1123. [劾](../../characters/劾.md) : censure
+1124. [崖 (char)](../../characters/崖%20(char).md) : cliff
+1125. [涯 (char)](../../characters/涯%20(char).md) : horizon
+1126. [慨 (char)](../../characters/慨%20(char).md) : 	慨	rue
+1127. [蓋](../../characters/蓋.md) : cover
+1128. [該 (char)](../../characters/該%20(char).md) : above-stated
+1129. [概 (char)](../../characters/概%20(char).md) : 	槪	outline
 1130. [骸](characters/骸.md) : dead remains
 1131. [垣 (char)](characters/垣%20(char).md) : hedge
 1132. [柿](characters/柿.md) : persimmon
@@ -125,14 +125,14 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1149. [褐 (char)](characters/褐%20(char).md) : 	褐 brown
 1150. [轄 (char)](characters/轄%20(char).md) : control
 1151. [且 (char)](characters/且%20(char).md) : moreover
-1152. [[釜]] : kettle
-1153. [[鎌]] : sickle
-1154. [[刈]] : reap
-1155. [[甘]] : sweet
-1156. [[汗]] : sweat
-1157. [[缶]] : 	罐	tin can
-1158. [[肝]] : liver
-1159. [[冠]] : crown
+1152. [釜](../../characters/釜.md) : kettle
+1153. [鎌 (char)](../../characters/鎌%20(char).md) : sickle
+1154. [刈 (char)](../../characters/刈%20(char).md) : reap
+1155. [甘 (char)](../../characters/甘%20(char).md) : sweet
+1156. [汗 (char)](../../characters/汗%20(char).md) : sweat
+1157. [缶](../../characters/缶.md) : 	罐	tin can
+1158. [肝](../../characters/肝.md) : liver
+1159. [冠](../../characters/冠.md) : crown
 1160. [陥 (char)](characters/陥%20(char).md) : 	陷	collapse
 1161. [[乾]] : dry
 1162. [[勘]] : intuition
@@ -173,22 +173,22 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1197. [[棋]] : chess piece
 1198. [[棄]] : abandon
 1199. [毀 (char)](characters/毀%20(char).md) : destroy
-1200. [[畿]] : capital
-1201. [[輝]] : radiance
-1202. [[騎]] : equestrian
-1203. [[宜]] : best regards
-1204. [[偽]] : 	僞	falsehood
-1205. [[欺]] : deceit
-1206. [[儀]] : ceremony
-1207. [[戯]] : 	戲	frolic
-1208. [[擬]] : mimic
-1209. [[犠]] : 	犧	sacrifice
-1210. [[菊]] : chrysanthemum
-1211. [[吉]] : good luck
-1212. [[喫]] : consume
-1213. [[詰]] : packed
-1214. [[却]] : instead
-1215. [[脚]] : leg
+1200. [畿](../../characters/畿.md) : capital
+1201. [輝](../../characters/輝.md) : radiance
+1202. [騎](../../characters/騎.md) : equestrian
+1203. [宜](../../characters/宜.md) : best regards
+1204. [偽 (char)](../../characters/偽%20(char).md) : 	僞	falsehood
+1205. [欺](../../characters/欺.md) : deceit
+1206. [儀](../../characters/儀.md) : ceremony
+1207. [戯](../../characters/戯.md) : 	戲	frolic
+1208. [擬 (char)](../../characters/擬%20(char).md) : mimic
+1209. [犠](../../characters/犠.md) : 	犧	sacrifice
+1210. [菊 (char)](../../characters/菊%20(char).md) : chrysanthemum
+1211. [吉 (char)](../../characters/吉%20(char).md) : good luck
+1212. [喫 (char)](../../characters/喫%20(char).md) : consume
+1213. [詰](../../characters/詰.md) : packed
+1214. [却 (char)](../../characters/却%20(char).md) : instead
+1215. [脚](../../characters/脚%20(char).md) : leg
 1216. [虐](../../characters/虐.md) : tyrannize
 1217. [及 (char)](../../characters/及%20(char).md) : reach out
 1218. [丘 (char)](../../characters/丘%20(char).md) : hill
@@ -213,18 +213,18 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1237. [狭](characters/狭.md) : 	狹	cramped
 1238. [恐](characters/恐.md) : fear
 1239. [恭](characters/恭.md) : respect
-1240. [[脅]] : threaten
-1241. [[矯]] : rectify
-1242. [[響]] : 	響	echo
-1243. [[驚]] : wonder
-1244. [[仰]] : face-up
-1245. [[暁]] : 	曉	daybreak
-1246. [[凝]] : congeal
-1247. [[巾]] : towel
-1248. [[斤]] : axe
-1249. [[菌]] : germ
-1250. [[琴]] : harp
-1251. [[僅]] :  a wee bit
+1240. [脅](../../characters/脅.md) : threaten
+1241. [矯](../../characters/矯.md) : rectify
+1242. [響](../../characters/響.md) : 	響	echo
+1243. [驚](../../characters/驚.md) : wonder
+1244. [仰](../../characters/仰.md) : face-up
+1245. [暁](../../characters/暁.md) : 	曉	daybreak
+1246. [凝](../../characters/凝.md) : congeal
+1247. [巾](../../characters/巾.md) : towel
+1248. [斤](../../characters/斤.md) : axe
+1249. [菌](../../characters/菌.md) : germ
+1250. [琴 (char)](../../characters/琴%20(char).md) : harp
+1251. [僅](../../characters/僅.md) :  a wee bit
 1252. [緊](characters/緊.md) : tense
 1253. [錦](characters/錦.md) : brocade
 1254. [謹](characters/謹.md) : 	謹 discreet
@@ -255,10 +255,10 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1279. [携](characters/携.md) : portable
 1280. [継](characters/継.md) : 	繼	inherit
 1281. [詣 (char)](characters/詣%20(char).md) : visit a temple
-1282. [[慶]] : jubilation
-1283. [[憬]] : long for
-1284. [[稽]] : consider
-1285. [[憩]] : recess
+1282. [慶 (char)](../../characters/慶%20(char).md) : jubilation
+1283. [憬](../../characters/憬.md) : long for
+1284. [稽](../../characters/稽.md) : consider
+1285. [憩](../../characters/憩.md) : recess
 1286. [鶏 (char)](characters/鶏%20(char).md) : 	鷄	chicken
 1287. [[迎]] : welcome
 1288. [[鯨]] : whale
@@ -273,12 +273,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1297. [[拳]] : fist
 1298. [[軒]] : flats
 1299. [圏 (char)](characters/圏%20(char).md) : 	圈	sphere
-1300. [[堅]] : strict
-1301. [[嫌]] : dislike
-1302. [[献]] : 	獻	offering
-1303. [[遣]] : dispatch
-1304. [[賢]] : intelligent
-1305. [[謙]] : self-effacing
+1300. [堅](../../characters/堅.md) : strict
+1301. [嫌](../../characters/嫌.md) : dislike
+1302. [献](../../characters/献.md) : 	獻	offering
+1303. [遣 (char)](../../characters/遣%20(char).md) : dispatch
+1304. [賢](../../characters/賢.md) : intelligent
+1305. [謙](../../characters/謙.md) : self-effacing
 1306. [鍵 (char)](characters/鍵%20(char).md) : key
 1307. [[繭]] : cocoon
 1308. [[顕]] : 	顯	appear
@@ -335,12 +335,12 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1359. [乞 (char)](characters/乞%20(char).md) : beg
 1360. [拷](characters/拷.md) : torture
 1361. [剛](characters/剛.md) : sturdy
-1362. [[傲]] : be proud
-1363. [[豪]] : overpowering
-1364. [[克]] : overcome
-1365. [[酷]] : cruel
-1366. [[獄]] : prison
-1367. [[駒]] : horse
+1362. [傲](../../characters/傲.md) : be proud
+1363. [豪](../../characters/豪.md) : overpowering
+1364. [克](../../characters/克%20(char).md) : overcome
+1365. [酷](../../characters/酷.md) : cruel
+1366. [獄](../../characters/獄.md) : prison
+1367. [駒](../../characters/駒.md) : horse
 1368. 込 : crowded  FORBIDDEN!!!!
 1369. [頃 (char)](characters/頃%20(char).md) : times
 1370. [昆 (char)](characters/昆%20(char).md) : descendants
@@ -417,7 +417,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1441. [[邪]] : wicked
 1442. [[蛇 (char)]] : snake
 1443. [[酌]] : bartending
-1444. [[釈]] : 	釋	S	explanation
+1444. [[釈]] : 	釋	explanation
 1445. [[爵]] : baron
 1446. [[寂]] : loneliness
 1447. [[朱]] : vermilion
@@ -510,20 +510,20 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1533. [拭](../../characters/拭.md) : wipe
 1534. [殖](../../characters/殖.md) : augment
 1535. [飾](../../characters/飾.md) : decorate
-1536. [[触]] : 	觸	contact
-1537. [[嘱]] : 	囑	entrust
-1538. [[辱]] : embarrass
-1539. [[尻]] : buttocks
-1540. [[伸]] : lengthen
-1541. [[心|芯]] : core
-1542. [[characters/辛]] : spicy, zodiac
-1543. [[侵]] : encroach
-1544. [[津]] : haven
-1545. [[唇]] : lips
-1546. [[娠]] : with child
-1547. [[振]] : shake
-1548. [[浸]] : immersed
-1549. [[紳]] : sire
+1536. [触](../../characters/触.md) : 	觸	contact
+1537. [嘱](../../characters/嘱.md) : 	囑	entrust
+1538. [辱](../../characters/辱.md) : embarrass
+1539. [尻 (char)](../../characters/尻%20(char).md) : buttocks
+1540. [伸](../../characters/伸.md) : lengthen
+1541. [芯](心) : core
+1542. [辛](../../characters/辛.md) : spicy, zodiac
+1543. [侵](../../characters/侵.md) : encroach
+1544. [津](../../characters/津.md) : haven
+1545. [唇 (char)](../../characters/唇%20(char).md) : lips
+1546. [娠](../../characters/娠.md) : with child
+1547. [振 (char)](../../characters/振%20(char).md) : shake
+1548. [浸 (char)](../../characters/浸%20(char).md) : immersed
+1549. [紳](../../characters/紳.md) : sire
 1550. [診](characters/診.md) : checkup
 1551. [寝 (char)](characters/寝%20(char).md) : 	寢	lie down
 1552. [慎](characters/慎.md) : 	愼	humility
@@ -550,11 +550,11 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1573. [随](characters/随.md) : 	隨	follow
 1574. [髄](characters/髄.md) : 	髓	marrow
 1575. [枢 (char)](characters/枢%20(char).md) : 	樞	hinge
-1576. [[崇]] : adore
-1577. [[拠|据]] : set
-1578. [[杉]] : cedar
-1579. [[裾]] : cuff
-1580. [[瀬]] : 	[[瀬|瀨]]	rapids 
+1576. [崇](../../characters/崇.md) : adore
+1577. [据](../../characters/拠.md) : set
+1578. [杉](../../characters/杉.md) : cedar
+1579. [裾](../../characters/裾.md) : cuff
+1580. [瀬](../../characters/瀬.md) : 	[[瀬|瀨]]	rapids 
 1581. [是 (char)](characters/是%20(char).md) : just so
 1582. [[姓]] : surname
 1583. [[征]] : subjugate
@@ -707,19 +707,19 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1730. [[聴]] : 	[[聴|聽]]	listen
 1731. [[懲]] : 	[[懲]] penal
 1732. [[勅]] : 	[[勅|敕]]	imperial order
-1733. ~~捗~~ : make progress     FORBIDDEN
+1733. !!捗!! : make progress     FORBIDDEN
 1734. [[沈]] : sink
 1735. [[珍]] : rare
 1736. [[朕 (char)]] : majestic plural
 1737. [[陳]] : exhibit
 1738. [[鎮]] : 	[[鎮|鎭]]	tranquilize
-1739. [[椎]] : oak
-1740. [[墜]] : crash
-1741. [[塚]] : 	[[塚]] hillock
+1739. [椎](../../characters/椎.md) : oak
+1740. [墜](../../characters/墜.md) : crash
+1741. [塚 (char)](../../characters/塚%20(char).md) : 	[塚 (char)](../../characters/塚%20(char).md) hillock
 1742. [漬 (char)](characters/漬%20(char).md) : pickling
-1743. [[坪]] : two-mat area
-1744. [[爪]] : claw
-1745. [[鶴 (char)]] : crane
+1743. [坪 (char)](../../characters/坪%20(char).md) : two-mat area
+1744. [爪 (char)](../../characters/爪%20(char).md) : claw
+1745. [鶴 (char)](../../characters/鶴%20(char).md) : crane
 1746. [[呈]] : display
 1747. [[廷]] : courts
 1748. [[抵]] : resist
@@ -905,9 +905,9 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1928. [[雰]] : atmosphere
 1929. [[噴]] : erupt
 1930. [[墳]] : tomb
-1931. [[憤]] : aroused
-1932. [[丙]] : third class
-1933. [[並|併]] 	倂	join
+1931. [憤](../../characters/憤.md) : aroused
+1932. [丙 (char)](../../characters/丙%20(char).md) : third class
+1933. [併](並) 	倂	join
 1934. [柄 (char)](characters/柄%20(char).md): design
 1935. 塀 : 	塀	fence - FORBIDDEN!!!
 1936. [幣 (char)](characters/幣%20(char).md) : cash
@@ -918,10 +918,10 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1941. [璧](characters/璧.md) : sphere
 1942. [癖 (char)](characters/癖%20(char).md) : mannerism
 1943. [蔑 (char)](characters/蔑%20(char).md) : ignore
-1944. [[偏]] : partial
-1945. [[遍]] : everywhere
-1946. [[哺]] : suckle
-1947. [[捕]] : catch
+1944. [偏 (char)](../../characters/偏%20(char).md) : partial
+1945. [遍 (char)](../../characters/遍%20(char).md) : everywhere
+1946. [哺](../../characters/哺.md) : suckle
+1947. [捕 (char)](../../characters/捕%20(char).md) : catch
 1948. [舗 (char)](characters/舗%20(char).md) : pavement
 1949. [[募]] : recruit
 1950. [[慕]] : pining
@@ -975,16 +975,16 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1998. [[characters/魔]] : witch
 1999. [[昧]] : foolish
 ## 2000
-2000. [[埋]] : bury
-2001. [[膜]] : membrane
-2002. [[枕]] : pillow
-2003. [[又]] : or again
-2004. [[抹]] : rub
-2005. [[慢]] : ridicule
-2006. [[漫]] : cartoon
-2007. [[魅]] : fascination
-2008. [[岬]] : headland
-2009. [[蜜]] : honey
+2000. [埋](../../characters/埋.md) : bury
+2001. [膜](../../characters/膜.md) : membrane
+2002. [枕](../../characters/枕.md) : pillow
+2003. [又 (char)](../../characters/又%20(char).md) : or again
+2004. [抹 (char)](../../characters/抹%20(char).md) : rub
+2005. [慢](../../characters/慢.md) : ridicule
+2006. [漫](../../characters/漫.md) : cartoon
+2007. [魅](../../characters/魅.md) : fascination
+2008. [岬](../../characters/岬.md) : headland
+2009. [蜜](../../characters/蜜.md) : honey
 2010. [妙 (char)](characters/妙%20(char).md) : exquisite
 2011. [眠](characters/眠.md) : sleep
 2012. [矛](characters/矛.md) : halberd
@@ -1007,20 +1007,20 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2029. [弥 (char)](characters/弥%20(char).md) : 	彌	S	all the more
 2030. [厄](characters/厄.md) : unlucky
 2031. [躍](characters/躍.md) : leap
-2032. [[暗|闇 : darkness
-2033. [[喩]] : metaphor
-2034. [[愉]] : pleasure
-2035. [[諭]] : rebuke
-2036. [[癒]] : healing
-2037. [[唯]] : solely
-2038. [[幽]] : seclude
-2039. [[悠]] : permanence
-2040. [[湧]] : boil
-2041. [[猶]] : furthermore
-2042. [[裕]] : abundant
-2043. [[雄]] : male
-2044. [[誘]] : entice
-2045. [[憂]] : melancholy
+2032. [闇](暗) : darkness
+2033. [喩](../../characters/喩.md) : metaphor
+2034. [愉](../../characters/愉.md) : pleasure
+2035. [諭](../../characters/諭.md) : rebuke
+2036. [癒](../../characters/癒.md) : healing
+2037. [唯 (char)](../../characters/唯%20(char).md) : solely
+2038. [幽 (char)](../../characters/幽%20(char).md) : seclude
+2039. [悠](../../characters/悠.md) : permanence
+2040. [湧 (char)](../../characters/湧%20(char).md) : boil
+2041. [猶 (char)](../../characters/猶%20(char).md) : furthermore
+2042. [裕](../../characters/裕.md) : abundant
+2043. [雄 (char)](../../characters/雄%20(char).md) : male
+2044. [誘](../../characters/誘.md) : entice
+2045. [憂](../../characters/憂.md) : melancholy
 2046. [融 (char)](characters/融%20(char).md) : dissolve
 2047. [[与 (char)]] : 	與	S	give
 2048. [[誉]] : 	譽	S	reputation
@@ -1063,7 +1063,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2085. [[侶]] : companion
 2086. [[虜]] : 	虜 captive
 2087. [[慮]] : prudence
-2088. [[了]] : finish
+2088. [了 (char)](../../characters/了%20(char).md) : finish
 2089. [[涼]] : refreshing
 2090. [[characters/獵 (char)]] : 	獵	game-hunting
 2091. [[陵]] : mausoleum
@@ -1077,39 +1077,39 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 2099. [[隣]] : neighboring
 2100. [[瑠]] : lapis lazuli
 2101. [涙](characters/涙%20(char).md) : 	淚	S	tears
-2102. [[累]] : accumulate
-2103. [[塁]] : 	壘	S	bases
-2104. [[励]] : 	勵	S	encourage
-2105. [[戻]] : 	戾	S	re-
-2106. [[鈴]] : small bell
-2107. [[零 (char)]] : zero
-2108. [[霊]] : 	靈	S	spirits
-2109. [[隷]] : slave
-2110. [[齢]] : 	齡	S	age
-2111. [[麗]] : lovely
-2112. [[暦]] : 	曆	S	calendar
-2113. [[劣]] : inferiority
-2114. [[烈]] : ardent
-2115. [[裂]] : split
-2116. [[恋]] : 	戀	S	romance
-2117. [[廉]] : bargain
-2118. [[錬]] : 	鍊	S	tempering
-2119. [[呂]] : spine
-2120. [[炉]] : 	爐	S	hearth
-2121. [[賂]] : bribe
-2122. [[露 (char)]] : dew
-2123. [[弄]] : tamper with
-2124. [[郎]] : 	郞	son
-2125. [[浪]] : wandering
-2126. [[廊]] : 	廊 	corridor
-2127. [[楼]] : 	樓	watchtower
-2128. [[漏]] : leak
-2129. [[籠]] : basket
-2130. [[麓]] : foot of a mountain
-2131. [[賄]] : bribe, board
-2132. [[脅|脇]] : aside
-2133. [[惑]] : beguile
-2134. 枠 : frame    FORBIDDEN!!
-2135. [[湾]] : 	灣	gulf
-2136. [[腕]] : arm
+2102. [累](../../characters/累.md) : accumulate
+2103. [塁](../../characters/塁.md) : 	壘	S	bases
+2104. [励](../../characters/励.md) : 	勵	S	encourage
+2105. [戻](../../characters/戻.md) : 	戾	S	re-
+2106. [鈴 (char)](../../characters/鈴%20(char).md) : small bell
+2107. [零 (char)](../../characters/零%20(char).md) : zero
+2108. [霊](../../characters/霊.md) : 	靈	S	spirits
+2109. [隷](../../characters/隷.md) : slave
+2110. [齢](../../characters/齢.md) : 	齡	S	age
+2111. [麗](../../characters/麗.md) : lovely
+2112. [暦 (char)](../../characters/暦%20(char).md) : 	曆	S	calendar
+2113. [劣](../../characters/劣.md) : inferiority
+2114. [烈](../../characters/烈.md) : ardent
+2115. [裂](../../characters/裂.md) : split
+2116. [恋 (char)](../../characters/恋%20(char).md) : 	戀	S	romance
+2117. [廉 (char)](../../characters/廉%20(char).md) : bargain
+2118. [錬](../../characters/錬.md) : 	鍊	S	tempering
+2119. [呂](../../characters/呂.md) : spine
+2120. [炉](../../characters/炉.md) : 	爐	S	hearth
+2121. [賂](../../characters/賂.md) : bribe
+2122. [露 (char)](../../characters/露%20(char).md) : dew
+2123. [弄 (char)](../../characters/弄%20(char).md) : tamper with
+2124. [郎](../../characters/郎.md) : 	郞	son
+2125. [浪](../../characters/浪.md) : wandering
+2126. [廊](../../characters/廊.md) : 	廊 	corridor
+2127. [楼](../../characters/楼.md) : 	樓	watchtower
+2128. [漏 (char)](../../characters/漏%20(char).md) : leak
+2129. [籠 (char)](../../characters/籠%20(char).md) : basket
+2130. [麓](../../characters/麓.md) : foot of a mountain
+2131. [賄](../../characters/賄.md) : bribe, board
+2132. [脇](../../characters/脅.md) : aside
+2133. [[惑 : beguile
+2134. !!枠 : frame    FORBIDDEN!!
+2135. [湾](../../characters/湾.md) : 	灣	gulf
+2136. [腕 (char)](../../characters/腕%20(char).md) : arm
 
