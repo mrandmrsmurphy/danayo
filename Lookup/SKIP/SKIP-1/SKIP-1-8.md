@@ -5,7 +5,7 @@ date-last-perfect:
 
 ```dataviewjs
 const pages = dv.pages()
-  .where(p => p.skip_number === "1-8-2")
+  .where(p => p.skip_number === "1-8-15")
 // or stricter: .where(p => p["your_property"] === "value")
 // or for numbers/strings/etc: adjust comparison as needed
 
@@ -30,6 +30,9 @@ dv.paragraph(titles || "No matching pages");
 10. [[SKIP-1-8-10]]
 11. [[SKIP-1-8-11]]
 12. [[SKIP-1-8-12]]
+13. No
+14. No
+15. [[SKIP-1-8-15]]: 鑑, 鑠
 
 ## Radicals
 ### 金
