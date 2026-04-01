@@ -2,59 +2,59 @@
 , 壅, 奚, 妊, 妙, 妾, 姫, 婿, 嫡, 寝, 尉, , 弥, 扉, 拂, 捨, 捺, 撮, 札, 杖, 枢, 栓, 桁, 楷, 槌, 櫛, 汀, 汎, 汝, 汲, 浦, 浬, 涯, 溺, 漬, 焉, 甥, 癖, 皿, 矢, 禅, 穣, 窺, 竦, 筈, 箸, 紺, 絹, 繰, 翌, 耶, 耽, 肴, 腕, 膿, 臼, 舵, 苔, 苺, 菱, 葛, 薫, 蛭, 蟄, 蟹, 袂, 褐, 褒, 訥, 詣, 諂, 諦, 豚, 賃, 贋, 蹴, 軸, 逞, 遣, 郡, 鉗
 
 ## List
-[[皿]]
-[[阮]]
-[[篤]]
-[[淵]]
+[皿 (char)](../../characters/皿%20(char).md)
+[阮](../../characters/阮.md)
+[篤](../../characters/篤.md)
+[淵](../../characters/淵.md)
 [朕 (char)](characters/朕%20(char).md)
-[[酪]]
-[[訃]]
-[[妃]]
-[[顎]]
-[[倫]]
-[[佐]]
+[酪](../../characters/酪.md)
+[訃](../../characters/訃.md)
+[妃](../../characters/妃.md)
+[顎](../../characters/顎.md)
+[倫](../../characters/倫.md)
+[佐](../../characters/佐.md)
 [鶴 (char)](characters/鶴%20(char).md)
-[[瀧]]
-[[嵐]]
-[[紺]]
-[[韓]]
-[[寝]]
-[[栃]]
-[[埼]]
-[[姫]]
-[[儒]]
+[瀧](../../characters/瀧.md)
+[嵐](../../characters/嵐.md)
+[紺 (char)](../../characters/紺%20(char).md)
+[韓](../../characters/韓.md)
+[寝 (char)](../../characters/寝%20(char).md)
+[栃](../../characters/栃.md)
+[埼](../../characters/埼.md)
+[姫 (char)](../../characters/姫%20(char).md)
+[儒](../../characters/儒.md)
 [哉 (char)](characters/哉%20(char).md)
 [兮 (char)](characters/兮%20(char).md)
-[[曖]]
-[[朱]]
-[[椎]]
-[[殃]]
-[[汝]]
-[[札]]
-[[瀑]]
-[[秦]]
-[[町]]
-[[褐]]
-[[矢]]
-[[藻]]
+[曖](../../characters/曖.md)
+[朱](../../characters/朱.md)
+[椎](../../characters/椎.md)
+[殃](../../characters/殃.md)
+[汝 (char)](../../characters/汝%20(char).md)
+[札 (char)](../../characters/札%20(char).md)
+[瀑](../../characters/瀑.md)
+[秦](../../characters/秦.md)
+[町](../../characters/町.md)
+[褐 (char)](../../characters/褐%20(char).md)
+[矢 (char)](../../characters/矢%20(char).md)
+[藻](../../characters/藻.md)
 [豚 (char)](characters/豚%20(char).md)
-[[璧]]
-[[鯉]]
-[[郡]]
-[[邑]]
-[[阜]]
-[[勅]]
-[[碁]]
-[[俺]]
-[[麓]]
-[[暇]]
-[[襟]]
-[[曹]]
-[[繰]]
-[[漬]]
-[[卯]]
-[[僧]]
-[[劉]]
+[璧](../../characters/璧.md)
+[鯉](../../characters/鯉.md)
+[郡 (char)](../../characters/郡%20(char).md)
+[邑](../../characters/邑.md)
+[阜](../../characters/阜.md)
+[勅](../../characters/勅.md)
+[碁](../../characters/碁.md)
+[俺](../../characters/俺.md)
+[麓](../../characters/麓.md)
+[暇](../../characters/暇.md)
+[襟](../../characters/襟.md)
+[曹](../../characters/曹.md)
+[繰 (char)](../../characters/繰%20(char).md)
+[漬 (char)](../../characters/漬%20(char).md)
+[卯](../../characters/卯.md)
+[僧](../../characters/僧.md)
+[劉](../../characters/劉.md)
 [唄 (char)](characters/唄%20(char).md)
 [趙](characters/趙.md)
 [呉](characters/呉.md)
@@ -69,24 +69,24 @@
 [嗣](characters/嗣.md)
 [俳](characters/俳.md)
 [坪 (char)](characters/坪%20(char).md)
-[[兀]]
-[[尉]]
-[[渦]]
-[[厄]]
+[兀](../../characters/兀.md)
+[尉 (char)](../../characters/尉%20(char).md)
+[渦](../../characters/渦.md)
+[厄](../../characters/厄.md)
 [塚 (char)](characters/塚%20(char).md)
-[[遂]]
-[[恣]]
-[[癖]]
-[[媛]]
-[[嫡]]
-[[諦]]
-[[婿]]
-[[妊]]
-[[羞]]
-[[渋]]
+[遂](../../characters/遂.md)
+[恣](../../characters/恣.md)
+[癖 (char)](../../characters/癖%20(char).md)
+[媛](../../characters/媛.md)
+[嫡 (char)](../../characters/嫡%20(char).md)
+[諦 (char)](../../characters/諦%20(char).md)
+[婿 (char)](../../characters/婿%20(char).md)
+[妊 (char)](../../characters/妊%20(char).md)
+[羞](../../characters/羞.md)
+[渋](../../characters/渋.md)
 [錠 (char)](characters/錠%20(char).md)
-[[浦]]
-[[殉]]
+[浦 (char)](../../characters/浦%20(char).md)
+[殉](../../characters/殉.md)
 [鉢 (char)](characters/鉢%20(char).md)
 [[癒]]
 [[搾]]
