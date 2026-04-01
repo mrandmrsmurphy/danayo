@@ -13,7 +13,7 @@ stroke_count: 5
 radical: 甘
 skip_number: 4-5-2
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - sweet
 羅馬字: gam
