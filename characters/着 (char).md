@@ -1,34 +1,33 @@
 ---
-mandarin: "zhe"
-cantonese: "zoek6"
-korean: "착"
-korean_native: ""
+mandarin: zhe
+cantonese: zoek6
+korean: 착
+korean_native: ''
 japanese:
-  - CHAKU
-  - JAKU
-japanese_nanori: ""
-vietnamese:
+- CHAKU
+- JAKU
+japanese_nanori: ''
+vietnamese: null
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨɐk
 stroke_count: 12
 radical: 目
 skip_number: 3-7-5
-grade_level: "1"
-pos: ""
+grade_level: '1'
+pos: ''
 english:
-  - wear
+- wear
 羅馬字: jwag
-韓文:  좍
-joyo_level: "3"
-hsk_level: "1"
+韓文: 좍
+joyo_level: '3'
+hsk_level: '1'
 hanmun_edu_level: 中
 danayo_id: 227
 mc_id: 664
 graphemic_classification: 者
 stand_in: 着
 aliases:
-  - 着
-  - 著
+- 著
 注音: ㄐˇㄚㄎ
 ---
 >[!tip] This is a page about the character 着.

@@ -1,36 +1,35 @@
 ---
-mandarin: "sǎ"
-cantonese: "saa2"
-korean: "선"
-korean_native: ""
+mandarin: sǎ
+cantonese: saa2
+korean: 선
+korean_native: ''
 japanese:
-  - SEI
-  - SEN
-  - SHA
-japanese_nanori: ""
-vietnamese:
+- SEI
+- SEN
+- SHA
+japanese_nanori: ''
+vietnamese: null
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣɛ
 stroke_count: 9
 radical: 水
 skip_number: 1-3-6
-grade_level: "先進"
-pos: ""
+grade_level: 先進
+pos: ''
 english:
-  - sprinkle
-  - spray
+- sprinkle
+- spray
 羅馬字: swai
 韓文: 쇄
 joyo_level: 表外字
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: ''
+hanmun_edu_level: ''
 danayo_id: 7076
 mc_id: 2914
 graphemic_classification: 麗
 stand_in: 洒
 aliases:
-  - 洒
-  - 灑
+- 灑
 注音: ㄙˇㄚ˙
 ---
 >[!tip] This is a page about the character 洒.

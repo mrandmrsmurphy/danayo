@@ -1,33 +1,32 @@
 ---
-mandarin: "qiǎn"
-cantonese: "cin2"
-korean: "천"
+mandarin: qiǎn
+cantonese: cin2
+korean: 천
 korean_native: 얕을
 japanese:
-  - SEN
-japanese_nanori: ""
-vietnamese:
+- SEN
+japanese_nanori: ''
+vietnamese: null
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iᴇn
 stroke_count: 9
 radical: 水
 skip_number: 1-3-6
-grade_level: "2"
-pos: ""
+grade_level: '2'
+pos: ''
 english:
-  - shallow
+- shallow
 羅馬字: cen
 韓文: 천
-joyo_level: "4"
-hsk_level: ""
+joyo_level: '4'
+hsk_level: ''
 hanmun_edu_level: 中
 danayo_id: 2157
 mc_id: 1412
 graphemic_classification: 㦮
 stand_in: 浅
 aliases:
-  - 浅
-  - 淺
+- 淺
 注音: ㄑㄝㄋ
 ---
 >[!tip] This is a page about the character 浅.

@@ -1,36 +1,35 @@
 ---
-mandarin: "què"
-cantonese: "koek3"
-korean: "각"
-korean_native: "물리칠"
+mandarin: què
+cantonese: koek3
+korean: 각
+korean_native: 물리칠
 japanese:
-  - KYAKU
-japanese_nanori: ""
-vietnamese:
+- KYAKU
+japanese_nanori: ''
+vietnamese: null
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨɐk
 stroke_count: 7
 radical: 卩
 skip_number: 1-5-2
-grade_level: "5"
-pos: ""
+grade_level: '5'
+pos: ''
 english:
-  - but
-  - still
-  - rather
-  - all the more
+- but
+- still
+- rather
+- all the more
 羅馬字: kyag
 韓文: 캭
 joyo_level: 高等
-hsk_level: ""
+hsk_level: ''
 hanmun_edu_level: 高等
 danayo_id: 5293
 mc_id: 9007
 graphemic_classification: 去
 stand_in: 却
 aliases:
-  - 却
-  - 卻
+- 卻
 注音: ㄎ˙ㄚㄎ
 ---
 >[!tip] This is a page about the character 却.

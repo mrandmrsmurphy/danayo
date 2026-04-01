@@ -1,33 +1,32 @@
 ---
-mandarin: "kè"
-cantonese: "hak1"
-korean: "극"
-korean_native: ""
+mandarin: kè
+cantonese: hak1
+korean: 극
+korean_native: ''
 japanese:
-  - KOKU
-japanese_nanori: ""
-vietnamese:
+- KOKU
+japanese_nanori: ''
+vietnamese: null
 middle_chinese_initial: kʰ
 middle_chinese_final: ək
 stroke_count: 7
 radical: 儿
 skip_number: 2-2-5
-grade_level: "4"
-pos: ""
+grade_level: '4'
+pos: ''
 english:
-  - practice self-restraint
+- practice self-restraint
 羅馬字: kug
 韓文: 쿡
-joyo_level: ""
-hsk_level: ""
+joyo_level: ''
+hsk_level: ''
 hanmun_edu_level: 高等
 danayo_id: 4025
 mc_id: 729
 graphemic_classification: 會意
 stand_in: 克
 aliases:
-  - 克
-  - 剋
+- 剋
 注音: ㄎㄨㄎ
 ---
 >[!tip] This is a page about the character 克.

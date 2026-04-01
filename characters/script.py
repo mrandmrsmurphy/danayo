@@ -10,15 +10,15 @@ from typing import Any
 try:
     import yaml
 except ImportError:
-    print("This script requires PyYAML. Install it with: pip install pyyaml")
+    print("This script requires PyYAML. In your venv: python -m pip install pyyaml")
     raise
 
 
+CHAR_FILE_RE = re.compile(r"^(?P<char>.) \(char\)\.md$")
 FRONTMATTER_RE = re.compile(r"^(---\n)(.*?)(\n---\n?)", re.DOTALL)
 
 
 def normalize(text: str) -> str:
-    # case-insensitive; change if you want strict matching
     return text.strip().casefold()
 
 
@@ -33,6 +33,12 @@ def coerce_aliases(value: Any) -> list[str]:
 
 
 def process_file(path: Path, apply: bool) -> bool:
+    m = CHAR_FILE_RE.match(path.name)
+    if not m:
+        return False
+
+    char = m.group("char")
+
     try:
         text = path.read_text(encoding="utf-8")
     except Exception as e:
@@ -58,19 +64,18 @@ def process_file(path: Path, apply: bool) -> bool:
     if not aliases:
         return False
 
-    basename = path.stem
-    norm_basename = normalize(basename)
+    norm_char = normalize(char)
 
-    removed = [a for a in aliases if normalize(a) == norm_basename]
+    removed = [a for a in aliases if normalize(a) == norm_char]
     if not removed:
         return False
 
-    new_aliases = [a for a in aliases if normalize(a) != norm_basename]
+    new_aliases = [a for a in aliases if normalize(a) != norm_char]
 
     print(f"\n{path}")
-    print(f"  filename: {basename}")
+    print(f"  character: {char}")
     print(f"  removing: {removed}")
-    print(f"  remaining: {new_aliases if new_aliases else '[] (will delete aliases field)'}")
+    print(f"  remaining: {new_aliases if new_aliases else '[] (aliases will be deleted)'}")
 
     if not apply:
         return True
@@ -95,26 +100,26 @@ def process_file(path: Path, apply: bool) -> bool:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Remove self-aliases from Obsidian notes.")
-    parser.add_argument("--apply", action="store_true", help="Actually modify files")
-    parser.add_argument("--confirm", action="store_true", help="Ask before applying changes")
+    parser = argparse.ArgumentParser(description="Remove self-alias from X (char).md files")
+    parser.add_argument("--apply", action="store_true", help="Modify files")
+    parser.add_argument("--confirm", action="store_true", help="Ask before applying")
     args = parser.parse_args()
 
-    root = Path(".").resolve()
+    root = Path(".")
     matches = []
 
-    for path in root.rglob("*.md"):
+    for path in root.glob("*.md"):
         if process_file(path, apply=False):
             matches.append(path)
 
     if not matches:
-        print("No matches found.")
+        print("No matching aliases found.")
         return
 
-    print(f"\nFound {len(matches)} file(s) with self-aliases.")
+    print(f"\nFound {len(matches)} file(s) with self-alias.")
 
     if not args.apply:
-        print("\nDry run only. Re-run with --apply to make changes.")
+        print("\nDry run only. Re-run with --apply to modify files.")
         return
 
     if args.confirm:
@@ -124,7 +129,7 @@ def main() -> None:
             return
 
     changed = 0
-    for path in root.rglob("*.md"):
+    for path in root.glob("*.md"):
         if process_file(path, apply=True):
             changed += 1
 

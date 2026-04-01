@@ -1,7 +1,7 @@
 ---
-mandarin: "xià"
-cantonese: "haak3"
-korean: "하"
+mandarin: xià
+cantonese: haak3
+korean: 하
 korean_native: ""
 japanese:
   - KAKU
@@ -14,7 +14,7 @@ stroke_count: 17
 radical: 口
 skip_number: 1-3-14
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - scare
   - frighten
