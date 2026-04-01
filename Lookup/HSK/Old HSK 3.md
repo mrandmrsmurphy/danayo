@@ -1333,19 +1333,18 @@
 [[称]]: 1
 [[稱]]: 1
 [[撐]]: 1
-[[撑]]: 1
-[[乘]]: 1
-[[程]]: 1
+[撑](../../characters/撐.md): 1
+[乘](../../characters/乗%20(char).md): 1
+[程](../../characters/程.md): 1
 [寸 (char)](../../characters/寸%20(char).md): 1
 [赤 (char)](../../characters/赤%20(char).md): 1
 [沖](../../characters/沖.md): 1
 [[characters/丑]]: 1
-[卖](../../characters/売.md): 1
 [賣](../../characters/売.md): 1
-[[喘]]: 1
-[[串]]: 1
-[[帘]]: 1
-[[词]]: 1
+[喘](../../characters/喘.md): 1
+[串 (char)](../../characters/串%20(char).md): 1
+[帘](../../characters/簾.md): 1
+[词](../../characters/詞.md): 1
 [[瓷]]: 1
 [[伺]]: 1
 [[从]]: 1

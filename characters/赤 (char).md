@@ -45,3 +45,5 @@ aliases:
 - [List of 会意](../lookup/List%20of%20会意.md): 大 (“person, big”) + 火 (“fire”) – the color of fire (a person by a fire). The original version is 𤆍.
 - [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md)) - [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 2](../lookup/Grade%202.md)
+## Words
+- [[赤道]]
