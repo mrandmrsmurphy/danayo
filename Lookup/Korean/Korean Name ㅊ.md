@@ -28,7 +28,7 @@ These have all bee checked to see which are redirects
 [凄](characters/凄.md) [悽](characters/凄.md)
 
 ### 척  
-[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [[滌]] [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) 隻 --> 只 [[墌]] [慼](characters/慼.md)
+[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [[滌]] [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) 隻 --> 只 [[墌]] [慼](../../characters/戚.md)
 
 ### 천 
 [[仟]] [[阡]] [喘](characters/喘.md) [擅](characters/擅.md) [玔](characters/釧.md) [穿](characters/穿%20(char).md) [舛](characters/舛.md) [釧](characters/釧.md) [[闡]] [韆](characters/千.md) [[茜]]

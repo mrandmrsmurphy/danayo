@@ -832,25 +832,24 @@
 [[庫]]: 2
 [[苍]]: 2
 [[蒼]]: 2
-[[差]]: 2
+[差](../../characters/差.md): 2
 [[颤]]: 2
 [[顫]]: 2
-[[票]]: 2
-[[超]]: 2
-[[湿]]: 2
-[[濕]]: 2
-[[尘]]: 2
-[[塵]]: 2
-[[序]]: 2
-[[迟]]: 2
-[[遲]]: 2
-[[尺]]: 2
-[[充]]: 2
-[[衝]]: 2
-[[恨]]: 2
-[[题]]: 2
-[[題]]: 2
-[[息]]: 2
+[票 (char)](../../characters/票%20(char).md): 2
+[超 (char)](../../characters/超%20(char).md): 2
+[湿 (char)](../../characters/湿%20(char).md): 2
+[尘](../../characters/塵.md): 2
+[塵](../../characters/塵.md): 2
+[序](../../characters/序.md): 2
+[迟](../../characters/遅%20(char).md): 2
+[遲](../../characters/遅%20(char).md): 2
+[尺 (char)](../../characters/尺%20(char).md): 2
+[充](../../characters/充.md): 2
+[衝 (char)](../../characters/衝%20(char).md): 2
+[恨 (char)](../../characters/恨%20(char).md): 2
+[题](../../characters/題.md): 2
+[題](../../characters/題.md): 2
+[息](../../characters/息.md): 2
 [[洋]]: 2
 [[租]]: 2
 [[创]]: 2
