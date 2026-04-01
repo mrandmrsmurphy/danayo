@@ -34,6 +34,7 @@ aliases:
   - 烾
   - 刺
 注音: ㄑㄝㄎ
+date-last-perfect: 2026-04-01
 ---
 >[!tip] This is a page about the character 赤.
 >For the word, see [赤](words/赤.md)
