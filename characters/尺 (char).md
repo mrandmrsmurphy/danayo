@@ -1,7 +1,7 @@
 ---
-mandarin: "chǐ"
-cantonese: "cek3"
-korean: "척"
+mandarin: chǐ
+cantonese: cek3
+korean: 척
 korean_native: ""
 japanese:
   - SHAKU
@@ -14,12 +14,12 @@ stroke_count: 4
 radical: 尸
 skip_number: 4-4-1
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - foot (distance)
 羅馬字: ceg
 韓文: 척
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3097
