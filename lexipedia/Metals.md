@@ -20,4 +20,4 @@ language: English
 - anvil : <ruby>[鉄砧](words/鉄砧.md)<rt>ㄊㄝㄊㄉㄨㄇ</rt></ruby>
 - alloy : <ruby>[合金](words/合金.md)<rt>ㄎㄚㄆㄍㄧㄇ</rt></ruby>
 - ore : <ruby>[鉱石](words/鉱石.md)<rt>ㄍˇㄚㄥㄙㄝㄎ</rt></ruby>
-- to smith [[words/鍛冶]]
+- to smith [[鍛冶]]
