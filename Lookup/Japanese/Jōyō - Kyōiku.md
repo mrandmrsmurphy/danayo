@@ -647,7 +647,7 @@ The following prefecture names were added in 2017:
 638. [飯](characters/飯.md) : han	meshi	meal
 639. [養](characters/養.md) : yō	yashina-u	foster
 640. [香](characters/香.md) - fragrant 
-641. [験](characters/験.md) : ken	 –	test
+641. [験 (char)](../../characters/験%20(char).md) : ken	 –	test
 642. [鹿](characters/鹿%20(char).md) - deer
 ## Grade 5 - 193 kanji
 643. [久](characters/久%20(char).md) : kyū	hisa	long time

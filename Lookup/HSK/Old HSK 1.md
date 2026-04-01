@@ -463,8 +463,8 @@
 [紧](../../characters/緊.md): 1
 [张](../../characters/張.md): 1
 [濟](../../characters/済%20(char).md): 1
-[驗](../../characters/験.md): 1
-[验](../../characters/験.md)
+[驗](../../characters/験%20(char).md): 1
+[验](../../characters/験%20(char).md)
 [彩](../../characters/彩.md): 1
 [神 (char)](../../characters/神%20(char).md): 1
 [咖](../../characters/珈.md): 1
