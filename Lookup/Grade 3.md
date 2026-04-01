@@ -1,7 +1,7 @@
 ---
 size: 289
 ---
-
+尺 (char)
 
 ## Base check
 ```base

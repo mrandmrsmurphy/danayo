@@ -41,7 +41,8 @@ date-last-perfect: 2026-04-01
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): A man (人) with a mark (乙) on his leg to indicate 10 cun (寸) above the foot. (Lin Yiguang, 1920).  Listed under [Radical 044](../lookup/Radicals/Radical%20044.md).
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
-- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 1](../lookup/Grade%201.md)
+- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 3](../lookup/Grade%203.md)
+- 531st most popular character in Classical Chinese
 - Descendants: 
 	- [択](characters/択.md)
 	- [䋇](characters/䋇%20(char).md)

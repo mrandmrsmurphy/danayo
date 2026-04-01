@@ -107,7 +107,7 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 16. 六 (char)
 17. 厄
 18. 尹
-19. 尺 (char)
+19. [[尺 (char)]] A man (人) with a mark (乙) on his leg to indicate 10 cun (寸) above the foot.
 20. 幻
 21. 欠
 ### 5
