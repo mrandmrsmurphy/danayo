@@ -1,7 +1,7 @@
 ---
-mandarin: "qiè"
-cantonese: "cit3"
-korean: "체"
+mandarin: qiè
+cantonese: cit3
+korean: 체
 korean_native: ""
 japanese:
   - SETSU
@@ -21,7 +21,7 @@ english:
   - carve
 羅馬字: ced
 韓文: 첟
-joyo_level: ""
+joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4029

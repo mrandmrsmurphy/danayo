@@ -230,7 +230,7 @@ The following prefecture names were added in 2017:
 223. [船](../../characters/船.md) : ship ; sen (fune)
 224. [明 (char)](../../characters/明%20(char).md) : bright ; mei (aka-rui)
 225. [社](../../characters/社.md) : company ; sha (yashiro)
-226. [切](../../words/切.md) : cut ; setsu (ki-ru)
+226. [切 (char)](../../characters/切%20(char).md) : cut ; setsu (ki-ru)
 227. [電](../../characters/電.md) : electricity ; den (inazuma)
 228. [[毎 (char)]] : every ; mai (goto)
 229. [合 (char)](characters/合%20(char).md)合 : fit ; gō (a-u)
@@ -253,7 +253,7 @@ The following prefecture names were added in 2017:
 245. [乗 (char)](../../characters/乗%20(char).md) : jō , no-ru , ride , 
 246. [予](../../characters/予.md) : yo , – , in advance , 
 247. [[事 (char)]] : ji , koto , abstract thing , 
-248. [仕](士) : shi , tsuka-eru , serve , 
+248. [仕](../../characters/士%20(char).md) : shi , tsuka-eru , serve , 
 249. [[他 (char)]] : ta , hoka , other , 
 250. [代](../../characters/代.md) : dai; tai , ka-waru;  yo , substitute , 
 251. [住](../../characters/住.md) : jū , su-mu , dwell , 
@@ -473,7 +473,7 @@ The following prefecture names were added in 2017:
 464. [共](characters/共%20(char).md) : kyō	tomo	together
 465. [兵](characters/兵.md) : hei ; hyō	tsuwamono	soldier
 466. [典](characters/典.md) : ten	 –	code
-467. [冷](words/冷.md) : rei	tsume-tai ; hi-eru ; sa-meru	cool
+467. [冷 (char)](../../characters/冷%20(char).md) : rei	tsume-tai ; hi-eru ; sa-meru	cool
 468. [初](characters/初.md) : sho	hatsu ; haji-me	first
 469. [別](characters/別%20(char).md) : betsu	waka-reru	separate
 470. [利](characters/利.md) : ri	 –	profit
@@ -578,7 +578,7 @@ The following prefecture names were added in 2017:
 569. [潟](characters/潟.md) - lagoon
 570. [灯](characters/灯%20(char).md) : tō	hi	lamp
 571. [無 (char)](characters/無%20(char).md) : mu or bu	na-i	nothing
-572. [然](words/然.md) : zen or nen	shika-shi	so
+572. [然 (char)](../../characters/然%20(char).md) : zen or nen	shika-shi	so
 573. [焼](characters/焼.md) : shō	ya-ku	bake
 574. [照](characters/照%20(char).md) : shō	te-rasu	illuminate
 575. [熊](characters/熊%20(char).md) - bear
@@ -744,7 +744,7 @@ The following prefecture names were added in 2017:
 734. [歴](characters/歴.md) : reki	 –	curriculum
 735. [殺](characters/殺%20(char).md) : satsu	koro-su	kill
 736. [毒](characters/毒%20(char).md) : doku	 –	poison
-737. [比](words/比.md) : hi	kura-beru	compare
+737. [比 (char)](../../characters/比%20(char).md) : hi	kura-beru	compare
 738. [永](characters/永.md) : ei	naga-i	eternity
 739. [河](characters/河.md) : ka	kawa	river
 740. [液](characters/液.md) : eki	 	fluid
@@ -822,7 +822,7 @@ The following prefecture names were added in 2017:
 812. [貿](characters/貿.md) : bō	 	trade
 813. [資](characters/資.md) : shi	 	resources
 814. [賛](characters/賛.md) : san	 	approve
-815. [賞](words/賞.md) : shō	 –	prize
+815. [賞 (char)](../../characters/賞%20(char).md) : shō	 –	prize
 816. [質](characters/質.md) : shitsu	 	quality
 817. [輸](characters/輸.md) : yu	 	transport
 818. [述](characters/述.md) : jutsu	no-beru	mention
@@ -870,7 +870,7 @@ The following prefecture names were added in 2017:
 859. [収](characters/収.md) : shū	osa-meru	take in
 860. [后](characters/後%20(char).md) : gō	kisaki	queen
 861. [否](characters/否%20(char).md) : hi	ina ;  iya	negate
-862. [吸](words/吸.md) : kyū	su-u	suck
+862. [吸 (char)](../../characters/吸%20(char).md) : kyū	su-u	suck
 863. [呼](characters/呼%20(char).md) : ko	yo-bu	call
 864. [善](characters/善%20(char).md) : zen	yo-i	good
 865. [困](characters/困.md) : kon	koma-ru	become distressed
@@ -880,7 +880,7 @@ The following prefecture names were added in 2017:
 869. [奮](characters/奮.md) : hun	huru-u	stirred up
 870. [姿](characters/姿.md) : shi	sugata	shape
 871. [存](characters/存.md) : son	 	suppose
-872. [孝](words/孝.md) : kō	 	filial piety
+872. [孝 (char)](../../characters/孝%20(char).md) : kō	 	filial piety
 873. [宅](characters/宅.md) : taku	ie	home
 874. [宇](characters/宇.md) : u	 	eaves
 875. [宗](characters/宗.md) : shū	sō	religion
@@ -904,7 +904,7 @@ The following prefecture names were added in 2017:
 893. [干](characters/干.md) : kan	ho-su	dry
 894. [幼](characters/幼.md) : yō	osana-i	infancy
 895. [庁](characters/庁.md) : chō	 	government office
-896. [座](坐) : za	suwa-ru	sit
+896. [座](../../characters/坐%20(char).md) : za	suwa-ru	sit
 897. [延](characters/延.md) : en	no-basu	prolong
 898. [律](characters/律.md) : ritsu	 	rhythm
 899. [従 (char)](characters/従%20(char).md) : jū	shitaga-u	obey
@@ -959,7 +959,7 @@ The following prefecture names were added in 2017:
 948. [盛](../../characters/盛.md) : sei	mo-ru	prosper
 949. [盟](../../characters/盟.md) : mei	 	alliance
 950. [看 (char)](characters/看%20(char).md) : kan	 	watch over
-951. [砂](沙) : sa	sha ; suna	sand
+951. [砂](../../characters/沙%20(char).md) : sa	sha ; suna	sand
 952. [磁](../../characters/磁.md) : ji	 	magnet
 953. [私](../../characters/私.md) : shi	watakushi ; watashi	me
 954. [秘](../../characters/秘.md) : hi	 	secret
@@ -992,7 +992,7 @@ The following prefecture names were added in 2017:
 981. [腸](../../characters/腸.md) : chō	 –	intestines
 982. [舌 (char)](../../characters/舌%20(char).md) : zetsu	shita	tongue
 983. [若 (char)](../../characters/若%20(char).md) : jaku	waka-i	young
-984. [著](着) : cho	arawa-su ; ichijiru-shii	renowned
+984. [著](../../characters/着%20(char).md) : cho	arawa-su ; ichijiru-shii	renowned
 985. [蒸 (char)](../../characters/蒸%20(char).md) : jō	mu-su	steam
 986. [蔵](../../characters/蔵.md) : zō	kura	warehouse
 987. [蚕](../../characters/蚕%20(char).md) : san	kaiko	silkworm
@@ -1036,3 +1036,24 @@ The following prefecture names were added in 2017:
 1025. [預](../../characters/予.md) : yo	azu-keru	deposit
 1026. [骨 (char)](../../characters/骨%20(char).md) : kotsu	hone	bone
 
+
+```base
+version: 1
+views:
+  - type: table
+    name: Outgoing links
+    filters:
+      and:
+        - this.file.hasLink(file)
+    order:
+      - file.name
+      - joyo_level
+      - characters
+    sort:
+      - property: joyo_level
+        direction: ASC
+    columns:
+      - file
+      - file.path
+      - file.links.length
+```
