@@ -1128,20 +1128,22 @@
 [後 (char)](../../characters/後%20(char).md) (뒤 후) [厚 (char)](../../characters/厚%20(char).md) (두터울 후)
 
 #### 훈
-[[訓]] (가르칠 훈)
+[訓 (char)](../../characters/訓%20(char).md) (가르칠 훈)
 
 #### 휴
+[休](../../characters/休.md) (쉴 휴)
 
-[[休]] (쉴 휴)
 #### 흉
+[凶 (char)](../../characters/凶%20(char).md) (흉할 흉) [胸](../../characters/胸.md) (가슴 흉)
 
-[[凶]] (흉할 흉) [[胸]] (가슴 흉)
 #### 흑
 [[黒 (char)|黑]] (검을 흑)
+
 #### 흥
-[[興]] (일어날 흥)
+[興 (char)](../../characters/興%20(char).md) (일어날 흥)
+
 #### 희
-[[希]] (바랄 희) [喜 (char)](characters/喜%20(char).md) (기쁠 희)
+[希](../../characters/希.md) (바랄 희) [喜 (char)](characters/喜%20(char).md) (기쁠 희)
 
 ## Datacheck
 ```dataviewjs
