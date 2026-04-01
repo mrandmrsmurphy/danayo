@@ -1,7 +1,7 @@
 ---
-mandarin: "zhōng"
-cantonese: "zung1"
-korean: "종"
+mandarin: zhōng
+cantonese: zung1
+korean: 종
 korean_native: ""
 japanese:
   - SHOU
@@ -12,11 +12,10 @@ middle_chinese_final: ɨoŋ
 stroke_count: 17
 radical: 金
 skip_number: 1-8-9
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
-  - husband
-  - love
+  - alcohol bottle
 羅馬字: jong
 韓文: 종
 joyo_level: 表外字
