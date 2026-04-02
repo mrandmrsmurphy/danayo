@@ -72,7 +72,7 @@ Or a poetic one:
 
 |Month|Poetic name|Meaning|
 |---|---|---|
-|1|[[正月]]|principal month|
+|1|[[../words/正月]]|principal month|
 |2|[[杏月]]|apricot blossom month|
 |3|[[桃月]]|peach blossom month|
 |4|[[槐月]]|pagoda-tree month|
@@ -137,7 +137,7 @@ The end of the year - [[年末]].
 ### Lunar Calendar
 - <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> = <ruby>[元日](/words/元日.md)<rt>ˇㄝㄋㄋㄧㄊ</rt></ruby> - new year's day (but which is ambiguous)
 - <ruby>[元旦](/words/元旦.md)<rt>ˇㄝㄋㄉㄚㄋ</rt></ruby> - New Year's Morning, January 1st a.m. (Gregorian morning)
-- [[正月]] - first month of the "year" (varies from country to country)
+- [[../words/正月]] - first month of the "year" (varies from country to country)
 - <ruby>[春節](/words/春節.md)<rt>ㄑㄨㄋㄐㄝㄊ</rt></ruby> - Chinese/Korean/Vietnamese New Year, Spring Festival
 - [[陰暦年]] = [[旧正月]] - lunar new year = old new year
 
