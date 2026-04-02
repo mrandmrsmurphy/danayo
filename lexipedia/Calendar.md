@@ -89,7 +89,7 @@ Or a poetic one:
 1. <ruby>[一日](/words/一日.md)<rt>ㄧㄊㄋㄧㄊ</rt></ruby>
 2. <ruby>[二日](/words/二日.md)<rt>ㄋㄧ˙ㄋㄧㄊ</rt></ruby>
 3. <ruby>[三日](/words/三日.md)<rt>ㄙㄚㄇㄋㄧㄊ</rt></ruby>
-4. [[四日]]
+4. [[../words/四日]]
 5. [[五日]]
 6. [[六日]]
 7. [[七日]]
