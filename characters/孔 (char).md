@@ -1,7 +1,7 @@
 ---
-mandarin: "kǒng"
-cantonese: "hung2"
-korean: "공"
+mandarin: kǒng
+cantonese: hung2
+korean: 공
 korean_native: ""
 japanese:
   - KOU
@@ -19,7 +19,7 @@ english:
 羅馬字: kong
 韓文: 콩
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5206
 mc_id: 230
@@ -34,5 +34,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [List of 会意](../lookup/List%20of%20会意.md): [丿](Radical%20004) (“opening”) + [子](Radical%20039) (“child”) – opening in the skull of a newborn, i.e. fontanelle.

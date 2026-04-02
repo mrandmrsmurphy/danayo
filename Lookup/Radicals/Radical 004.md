@@ -16,7 +16,8 @@ radical: 丿
 8. <ruby>[[乎 (char)|乎]]<rt>ㄏㄛ</rt></ruby> -  did, do
 9. <ruby>[[乖]]<rt>ㄍˇㄚ˙</rt></ruby> -  well-behaved, obedient
 10. <ruby>[[乗 (char)|乗]]<rt>ㄙㄨㄥ</rt></ruby> -  multiply, ride
-
+### Other
+- [孔 (char)](../../characters/孔%20(char).md)
 
 ## Data check
 ```dataview
