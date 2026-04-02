@@ -1,5 +1,5 @@
 ---
-size: 31
+size: 34
 date-last-perfect:
 radical: 石
 ---

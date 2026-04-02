@@ -1,7 +1,7 @@
 ---
-mandarin: "wǎng"
-cantonese: "mong5"
-korean: "망"
+mandarin: wǎng
+cantonese: mong5
+korean: 망
 korean_native: 그물
 japanese:
   - MOU
@@ -11,9 +11,9 @@ vietnamese:
   - võng
 middle_chinese_initial: m
 middle_chinese_final: ʉɐŋ
-stroke_count: 6
+stroke_count: 14
 radical: 糸
-skip_number: 3-2-4
+skip_number: 1-6-8
 grade_level: "6"
 pos: 名詞
 english:
