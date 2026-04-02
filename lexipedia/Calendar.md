@@ -6,15 +6,15 @@
 |<ruby>[昨](/words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>|previous|[[昨日]]|昨週|昨月|昨年|昨世紀|
 |<ruby>[当](/words/当.md)<rt>ㄉㄚㄥ</rt></ruby>|current|<ruby>[当日](/words/当日.md)<rt>ㄉㄚㄥㄋㄧㄊ</rt></ruby>|当週|当月|当年|当世紀|
 |<ruby>[翌](/words/翌.md)<rt>ㄧㄎ</rt></ruby>|following|<ruby>[翌日](/words/翌日.md)<rt>ㄧㄎㄋㄧㄊ</rt></ruby>|翌週|翌月|翌年|翌世紀|
-|<ruby>[前](/words/前.md)<rt>ㄐㄝㄋ</rt></ruby>|prior|[[../words/前日]]|前週|前月|前年|前世紀|
+|<ruby>[前](/words/前.md)<rt>ㄐㄝㄋ</rt></ruby>|prior|<ruby>[前日](/words/前日.md)<rt>ㄐㄝㄋㄋㄧㄊ</rt></ruby>|前週|前月|前年|前世紀|
 |<ruby>[毎](/words/毎.md)<rt>ㄇㄛ˙</rt></ruby>|every|<ruby>[毎日](/words/毎日.md)<rt>ㄇㄛ˙ㄋㄧㄊ</rt></ruby>|毎週|毎月|毎年|毎世紀|
 |<ruby>[隔](/words/隔.md)<rt>ㄍㄚㄎ</rt></ruby>|every other|[[隔日]]|隔週|隔月|隔年|隔世紀|
 |<ruby>[連](/words/連.md)<rt>ㄌ˙ㄝㄋ</rt></ruby>|x over x|[[連日]]|連週|連月|連年|連世紀|
 
 ## Week
 Disappointing to the Abrahamic religions, Asian weeks start on Monday
-The beginning of the week - [[週初]].
-The middle of the week - [[週中]].
+The beginning of the week - <ruby>[週初](/words/週初.md)<rt>ㄐㄨˇㄑㄛ</rt></ruby>.
+The middle of the week - <ruby>[週中](/words/週中.md)<rt>ㄐㄨˇㄐㄨㄥ</rt></ruby>.
 The end of the week - <ruby>[週末](/words/週末.md)<rt>ㄐㄨˇㄇㄚㄊ</rt></ruby>.
 
 - <ruby>[月曜日](/words/月曜日.md)<rt>ˇㄝㄊ˙ㄛˇㄋㄧㄊ</rt></ruby> - Monday
@@ -129,9 +129,9 @@ A thousand years is a [[千年紀]].
 The first half of the year - [[上半期]].
 The second half of the year - [[下半期]].
 Adjective "of the same year" (in school or the like): [[同年]]
-The beginning of the year - [[千初]].
-The middle of the year - [[千中]].
-The end of the year - [[千末]].
+The beginning of the year - [[年初]].
+The middle of the year - [[年中]].
+The end of the year - [[年末]].
 
 
 ### Lunar Calendar
