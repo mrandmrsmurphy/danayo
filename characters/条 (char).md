@@ -1,7 +1,7 @@
 ---
-mandarin: "tiáo"
-cantonese: "tiu4"
-korean: "조"
+mandarin: tiáo
+cantonese: tiu4
+korean: 조
 korean_native: 가지
 japanese:
   - JOU
@@ -28,6 +28,7 @@ stand_in: 条
 aliases:
   - 條
 注音: ㄐㄛ
+kwin: true
 ---
 >[!tip] This is a page about the character 条.
 >For the word, see [条](words/条.md)

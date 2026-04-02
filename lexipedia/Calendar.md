@@ -176,7 +176,7 @@ The end of the century - [[世紀末]].
 - [[元年]] — first year of an era
 
 ## Seasons
-[[四季]] - [[季節]]
+<ruby>[四季](/words/四季.md)<rt>ㄙㄧ˙ㄍㄨ˙</rt></ruby> - [[季節]]
 
 - <ruby>[春](/words/春.md)<rt>ㄑㄨㄋ</rt></ruby> --> [[春分]] — spring equinox
 - <ruby>[秋](/words/秋.md)<rt>ㄑㄨˇ</rt></ruby> --> [[秋分]] — autumn equinox

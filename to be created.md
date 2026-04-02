@@ -720,6 +720,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 ## 1-words
 - [[兄]] in syllables/ㄏ˙ㄛㄥ
+- words/兄 in characters/兄 (char)
 - [[険]] in syllables/ㄏㄝㄇ
 - [[漆]] in syllables/ㄑㄧㄊ
 - [[鴎]] in syllables/ㄛˇ
@@ -733,14 +734,13 @@ Don't forget that creating the file from here may create the file in the wrong d
 - 菲 in lexipedia/Geography, lookup/Korean/Korean Name ㅂ
 - 㪘 in characters/㪘 (char)
 - words/丁 in characters/丁 (char)
-- 丁 in characters/正 (char)
+- [[丁]] in characters/正 (char)
 - words/両 in characters/両 (char)
 - words/乎 in characters/乎 (char)
-- words/于 in characters/于 (char)
+- [[words/于]] in characters/于 (char)
 - words/伍 in characters/伍 (char)
 - words/会 in characters/会 (char)
 - words/何 in characters/何 (char)
-- words/兄 in characters/兄 (char)
 - words/光 in characters/光 (char)
 - words/兎 in characters/兎 (char)
 - words/公 in characters/公 (char)
@@ -749,18 +749,16 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/出 in characters/出 (char)
 - words/分 in characters/分 (char)
 - 豦 in characters/劇 (char)
-- words/匹 in characters/匹 (char)
 - words/卦 in characters/卦 (char)
 - words/口 in characters/口 (char)
 - words/台 in characters/台 (char)
 - words/咬 in characters/咬 (char)
 - words/在 in characters/在 (char)
-- words/多 in characters/多 (char)
 - words/太 in characters/太 (char)
-- words/女 in characters/女 (char)
+- [[words/女]] in characters/女 (char)
 - words/宙 in characters/宙 (char)
 - words/就 in characters/就 (char)
-- words/山 in characters/山 (char)
+- [[words/山]] in characters/山 (char)
 - words/州 in characters/州 (char)
 - words/帆 in characters/帆 (char)
 - words/朕 in characters/朕 (char)
@@ -770,9 +768,8 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/枚 in characters/枚 (char)
 - words/某 in characters/某 (char)
 - words/業 in characters/業 (char)
-- words/様 in characters/様 (char)
 - 歯 in characters/歯 (char)
-- words/水 in characters/水 (char)
+- [[words/水]] in characters/水 (char)
 - words/洲 in characters/洲 (char)
 - words/漆 in characters/漆 (char)
 - 廌 in characters/灋

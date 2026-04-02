@@ -1,5 +1,4 @@
 HSK means:
-- [[条]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/ㄐㄛ]]
 - [[番]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[束]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[鳥]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]]

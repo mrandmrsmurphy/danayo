@@ -39,3 +39,6 @@ aliases:
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Grade 4](../lookup/Grade%204.md)
 ## Words
 - <ruby>[駝背](/words/駝背.md)<rt>ㄉㄚㄅㄛ˙</rt></ruby>
+- [[背景]]
+- [[背後]]
+- [[背骨]]
