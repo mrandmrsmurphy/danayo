@@ -2,19 +2,19 @@
 size: 13
 radical: 子
 ---
-> [[Radicals]]
+> [Radicals](Radicals.md)
 
 ## Characters
-1. 子
-2. 孔 (char)
-3. 孕
+1. <ruby>[子](/characters/子.md)<rt>ㄐㄧ</rt></ruby> - child
+2. <ruby>[孔](/characters/孔%20(char).md)<rt>ㄎㄛㄥ</rt></ruby> - cavity
+3. <ruby>[孕](/characters/孕.md)<rt>ㄧㄥ</rt></ruby>
 4. <ruby>[字](/characters/字%20(char).md)<rt>ㄐㄧ</rt></ruby> - glyph
-5. 存
-6. 孚
-7. 孝 (char)
-8. 孟
+5. <ruby>[存](/characters/存.md)<rt>ㄐㄛㄋ</rt></ruby>
+6. <ruby>[孚](/characters/孚.md)<rt>ㄆㄨ</rt></ruby>
+7. <ruby>[孝](/characters/孝%20(char).md)<rt>ㄏ˙ㄚˇ</rt></ruby>
+8. <ruby>[孟](/characters/孟.md)<rt>ㄇㄚㄥ</rt></ruby>
 9. 季
-10. 孤
+10. <ruby>[孤](/characters/孤.md)<rt>ㄍㄛ</rt></ruby> - lone
 11. 孩
 12. 学
 13. 孫
@@ -35,11 +35,14 @@ views:
       - 注音
       - skip_number
       - stroke_count
+      - date-last-perfect
     sort:
       - property: stroke_count
         direction: ASC
     columnSize:
       note.danayo_id: 64
-      note.english: 236
+      note.english: 132
+      note.skip_number: 73
+      note.stroke_count: 71
 
 ```
