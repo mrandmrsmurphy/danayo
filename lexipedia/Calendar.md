@@ -135,7 +135,7 @@ The end of the year - [[年末]].
 
 
 ### Lunar Calendar
-- <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> = [[元日]] - new year's day (but which is ambiguous)
+- <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> = <ruby>[元日](/words/元日.md)<rt>ˇㄝㄋㄋㄧㄊ</rt></ruby> - new year's day (but which is ambiguous)
 - <ruby>[元旦](/words/元旦.md)<rt>ˇㄝㄋㄉㄚㄋ</rt></ruby> - New Year's Morning, January 1st a.m. (Gregorian morning)
 - [[正月]] - first month of the "year" (varies from country to country)
 - <ruby>[春節](/words/春節.md)<rt>ㄑㄨㄋㄐㄝㄊ</rt></ruby> - Chinese/Korean/Vietnamese New Year, Spring Festival
@@ -155,7 +155,7 @@ Lunar months had their own terminology:
 - [[太陽暦]] — solar calendar
 - [[太陰暦]] — lunar calendar
 - [[太陰太陽暦]] — lunisolar calendar
-- [暦](words/暦.md) — calendar / almanac
+- <ruby>[暦](/words/暦.md)<rt>ㄌㄝㄎ</rt></ruby> — calendar / almanac
 - [[暦法]] — calendrical system
 - [[紀年]] — year reckoning
 
