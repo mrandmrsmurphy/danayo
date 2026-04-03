@@ -1,18 +1,17 @@
 ---
-size: 109
+size: o
 ---
-
-
+ɣɨi
 
 ## Datacheck
 ```base
 version: 1
 views:
   - type: table
-    name: Final ɨo
+    name: Final ɨi
     filters:
       and:
-        - middle_chinese_final == "ɨo"
+        - middle_chinese_final == "ɣɨi"
     order:
       - file.name
       - mandarin
@@ -22,6 +21,8 @@ views:
       - middle_chinese_initial
       - middle_chinese_final
     sort:
+      - property: 羅馬字
+        direction: ASC
       - property: middle_chinese_initial
         direction: ASC
       - property: characters
