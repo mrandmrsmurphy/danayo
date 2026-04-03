@@ -10,3 +10,21 @@ We list the most popular characters from across these time period, 1000 at a tim
 - [CC 3000](CC%203000.md)
 
 From the Late Medieval (~1200), there come the Rime Tables of sounds
+
+
+```base
+filters:
+  and:
+    - file.inFolder("lookup/CC/finals")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - size
+      - middle_chinese_final
+    sort:
+      - property: size
+        direction: ASC
+
+```
