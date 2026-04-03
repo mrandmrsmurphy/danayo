@@ -7,7 +7,7 @@ japanese:
   - I
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: "0"
+middle_chinese_initial: ø
 middle_chinese_final: ʉi
 stroke_count: 9
 radical: 肉

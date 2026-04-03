@@ -14,7 +14,10 @@ views:
       - hanmun_edu_level
       - 品詞
       - date-last-perfect
+      - middle_chinese_initial
     sort:
+      - property: middle_chinese_initial
+        direction: ASC
       - property: hanmun_edu_level
         direction: DESC
       - property: 品詞
@@ -26,8 +29,6 @@ views:
       - property: grade_level
         direction: ASC
       - property: middle_chinese_final
-        direction: ASC
-      - property: middle_chinese_initial
         direction: ASC
       - property: danayo_id
         direction: ASC

@@ -1,13 +1,13 @@
 ---
-mandarin: "yǒng"
-cantonese: "wing6"
-korean: "영"
+mandarin: yǒng
+cantonese: wing6
+korean: 영
 korean_native: ""
 japanese:
   - EI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: 0
+middle_chinese_initial: ø
 middle_chinese_final: wɣiæŋ
 stroke_count: 8
 radical: 水

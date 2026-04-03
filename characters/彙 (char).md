@@ -8,7 +8,7 @@ japanese:
 japanese_nanori: はりねずみ
 vietnamese:
   - vừng, vị, vựng, hối
-middle_chinese_initial: 0
+middle_chinese_initial: ø
 middle_chinese_final: ʉi
 stroke_count: 13
 radical: 彐

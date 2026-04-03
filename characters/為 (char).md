@@ -7,7 +7,7 @@ japanese:
   - I
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: 0
+middle_chinese_initial: ø
 middle_chinese_final: ɣiuᴇ
 stroke_count: 9
 radical: 火

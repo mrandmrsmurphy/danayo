@@ -9,7 +9,7 @@ japanese_nanori:
   - も
 vietnamese:
   - vân
-middle_chinese_initial: "0"
+middle_chinese_initial: ø
 middle_chinese_final: ɨun
 stroke_count: 12
 radical: 雨

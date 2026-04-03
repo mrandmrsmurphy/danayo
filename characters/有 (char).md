@@ -9,7 +9,7 @@ japanese:
 japanese_nanori: ""
 vietnamese:
   - hữu
-middle_chinese_initial: 0
+middle_chinese_initial: ø
 middle_chinese_final: ɨu
 stroke_count: 6
 radical: 月

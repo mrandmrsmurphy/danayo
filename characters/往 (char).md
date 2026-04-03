@@ -7,7 +7,7 @@ japanese:
   - OU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: 0
+middle_chinese_initial: ø
 middle_chinese_final: ʉɐŋ
 stroke_count: 8
 radical: 彳

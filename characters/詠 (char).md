@@ -7,7 +7,7 @@ japanese:
   - EI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: 0
+middle_chinese_initial: ø
 middle_chinese_final: wɣiæŋ
 stroke_count: 12
 radical: 言

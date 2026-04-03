@@ -7,7 +7,7 @@ japanese:
   - WAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: 0
+middle_chinese_initial: ø
 middle_chinese_final: uɑn
 stroke_count: 13
 radical: 石
