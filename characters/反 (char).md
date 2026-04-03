@@ -1,7 +1,7 @@
 ---
-mandarin: "fǎn"
-cantonese: "faan2"
-korean: "반"
+mandarin: fǎn
+cantonese: faan2
+korean: 반
 korean_native: ""
 japanese:
   - HAN
@@ -9,7 +9,7 @@ japanese:
   - HON
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: ʉɐn
 stroke_count: 4
 radical: 又

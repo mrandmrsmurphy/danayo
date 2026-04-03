@@ -1,13 +1,13 @@
 ---
-mandarin: "fēng"
-cantonese: "fung1"
-korean: "봉"
+mandarin: fēng
+cantonese: fung1
+korean: 봉
 korean_native: ""
 japanese:
   - HOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: ɨoŋ
 stroke_count: 13
 radical: 虫

@@ -1,14 +1,14 @@
 ---
-mandarin: "fèi"
-cantonese: "fai3"
-korean: "비"
+mandarin: fèi
+cantonese: fai3
+korean: 비
 korean_native: ""
 japanese:
   - HI
   - FUTSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: ʉi
 stroke_count: 12
 radical: 貝

@@ -1,14 +1,14 @@
 ---
-mandarin: "fān"
-cantonese: "faan1"
-korean: "번"
+mandarin: fān
+cantonese: faan1
+korean: 번
 korean_native: 펄럭일
 japanese:
   - HON
   - HAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: ʉɐn
 stroke_count: 18
 radical: 羽

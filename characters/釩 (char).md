@@ -8,7 +8,7 @@ japanese:
 japanese_nanori:
   - はらう
 vietnamese: ""
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: ɨɐm
 stroke_count: 11
 radical: 金

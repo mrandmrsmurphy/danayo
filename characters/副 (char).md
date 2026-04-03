@@ -1,7 +1,7 @@
 ---
-mandarin: "fù"
-cantonese: "fu3"
-korean: "부"
+mandarin: fù
+cantonese: fu3
+korean: 부
 korean_native: ""
 japanese:
   - FUKU
@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
   - phó
   - pho
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: ɨuk
 stroke_count: 11
 radical: 刀

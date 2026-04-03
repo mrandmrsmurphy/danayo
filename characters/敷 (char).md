@@ -1,13 +1,13 @@
 ---
-mandarin: "fū"
-cantonese: "fu1"
-korean: "부"
+mandarin: fū
+cantonese: fu1
+korean: 부
 korean_native: ""
 japanese:
   - FU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: ɨo
 stroke_count: 15
 radical: 攴

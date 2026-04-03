@@ -8,7 +8,7 @@ japanese:
   - HAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
+middle_chinese_initial: fʰ
 middle_chinese_final: uɑn
 stroke_count: 12
 radical: 田
