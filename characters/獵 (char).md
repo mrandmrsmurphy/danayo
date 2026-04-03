@@ -29,7 +29,7 @@ aliases:
 注音: ㄌㄛㄆ
 ---
 >[!tip] This is a page about the character 獵.
->For the word, see [[獵]
+>For the word, see [[獵]]
 
 ```meta-bind-embed
 [[nav/char_info]]

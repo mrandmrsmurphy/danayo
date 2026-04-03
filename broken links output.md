@@ -1,8 +1,4 @@
-HSK means:
-- [[调]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[运]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[著]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[护]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]]
+## 2
 - [[过]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[话]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[个]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
@@ -299,6 +295,7 @@ HSK means:
 - [[砍]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
 - [[扛]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 6]]
 - [[烤]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+### Ugh
 - [[颗]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[扣]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[宽]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
@@ -569,7 +566,7 @@ HSK means:
 - [[脏]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
 - [[臟]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
 - [[势]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
-- [[兄]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[syllables/ㄏ˙ㄛㄥ]]
+- [[words/兄]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[syllables/ㄏ˙ㄛㄥ]]
 - [[虛]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[择]] in [[lookup/HSK/Old HSK 2]]
 - [[擇]] in [[lookup/HSK/Old HSK 2]]
@@ -600,7 +597,8 @@ HSK means:
 - [[变]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[變]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[综]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
-- [[走]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+
+## 3
 - [[动]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[儿]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[兒]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
@@ -1097,16 +1095,10 @@ HSK means:
 - [[樁]] in [[lookup/HSK/Old HSK 3]]
 - [[饰]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[幢]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄷ]]
-- [[会]] in [[lookup/HSK/Old HSK 4]]
-- [[會]] in [[lookup/HSK/Old HSK 4]]
-- [[开]] in [[lookup/HSK/Old HSK 4]]
+## 4
 - [[义]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
-- [[當]] in [[lookup/HSK/Old HSK 4]]
 - [[时]] in [[lookup/HSK/Old HSK 4]]
-- [[學]] in [[lookup/HSK/Old HSK 4]]
 - [[审]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
-- [[H]] in [[lookup/HSK/Old HSK 4]]
-- [[S]] in [[lookup/HSK/Old HSK 4]]
 - [[辨]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[纳]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[捐]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/Korean/Korean Name ㅇ]]
@@ -1602,6 +1594,7 @@ HSK means:
 - [[醞]] in [[lookup/HSK/Old HSK 4]]
 - [[蕴]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[蘊]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+## 5-6
 - [[浏]] in [[lookup/HSK/Old HSK 5]]+
 - [[裔]] in [[lookup/HSK/Old HSK 5]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅇ]]
 - [[账]] in [[lookup/HSK/Old HSK 5]]++

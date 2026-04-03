@@ -718,25 +718,19 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- [[兄]] in syllables/ㄏ˙ㄛㄥ
-- words/兄 in characters/兄 (char)
 - [[険]] in syllables/ㄏㄝㄇ
 - [[漆]] in syllables/ㄑㄧㄊ
 - [[鴎]] in syllables/ㄛˇ
 - [[鴨]] in lexipedia/Animals
 - [[兎]] in lexipedia/Animals, syllables/ㄊㄛ
-- [[words/鷹]] in lexipedia/Sophomore List
 - [[鵰]] in lexipedia/Sophomore List
 - [[両]] in lexipedia/Numbers
 - words/車 in characters/車 (char)
 - [[而]] in words/与
 - 菲 in lexipedia/Geography, lookup/Korean/Korean Name ㅂ
-- 㪘 in characters/㪘 (char)
-- words/丁 in characters/丁 (char)
-- [[丁]] in characters/正 (char)
-- words/両 in characters/両 (char)
-- words/乎 in characters/乎 (char)
-- [[words/于]] in characters/于 (char)
+- [[㪘]] in characters/㪘 (char)
+- [[words/両]] in characters/両 (char)
+- [[words/乎]] in characters/乎 (char)
 - words/伍 in characters/伍 (char)
 - words/会 in characters/会 (char)
 - words/何 in characters/何 (char)
@@ -745,11 +739,10 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/公 in characters/公 (char)
 - words/共 in characters/共 (char)
 - words/冊 in characters/冊 (char)
-- words/出 in characters/出 (char)
+- [[words/出]] in characters/出 (char)
 - words/分 in characters/分 (char)
 - 豦 in characters/劇 (char)
 - words/卦 in characters/卦 (char)
-- words/口 in characters/口 (char)
 - words/台 in characters/台 (char)
 - words/咬 in characters/咬 (char)
 - words/在 in characters/在 (char)
@@ -765,17 +758,14 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/束 in characters/束 (char)
 - words/条 in characters/条 (char)
 - words/枚 in characters/枚 (char)
-- words/某 in characters/某 (char)
 - words/業 in characters/業 (char)
 - 歯 in characters/歯 (char)
 - [[words/水]] in characters/水 (char)
 - words/洲 in characters/洲 (char)
 - words/漆 in characters/漆 (char)
 - 廌 in characters/灋
-- words/猟 in characters/獵 (char)
-- words/由 in characters/由 (char)
 - words/番 in characters/番 (char)
-- words/而 in characters/而 (char)
+- [[words/而]] in characters/而 (char)
 - words/皆 in characters/皆 (char)
 - words/草 in characters/草 (char)
 - words/莫 in characters/莫 (char)
@@ -788,7 +778,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/関 in characters/関 (char)
 - words/険 in characters/険 (char)
 - words/隼 in characters/隼 (char)
-- words/雨 in characters/雨 (char)
+- [[words/雨]] in characters/雨 (char)
 - words/雪 in characters/雪 (char)
 - words/雷 in characters/雷 (char)
 - words/霜 in characters/霜 (char)
@@ -797,7 +787,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/青 in characters/青 (char)
 - words/鞋 in characters/鞋 (char)
 - words/頁 in characters/頁 (char)
-- 風 in characters/風 (char)
 - words/駅 in characters/駅 (char)
 - words/駆 in characters/駆 (char)
 - words/騒 in characters/騒 (char)

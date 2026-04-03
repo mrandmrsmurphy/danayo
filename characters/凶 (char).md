@@ -13,7 +13,7 @@ stroke_count: 4
 radical: 凵
 skip_number: 3-2-2
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - unlucky
   - calamitous
@@ -28,6 +28,7 @@ mc_id: 682
 graphemic_classification: 象形
 stand_in: 凶
 aliases:
+  - 兇
 注音: ㄏ˙ㄨㄥ
 ---
 >[!tip] This is a page about the character 凶.
