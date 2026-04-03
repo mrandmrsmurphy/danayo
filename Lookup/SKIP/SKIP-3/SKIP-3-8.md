@@ -3,16 +3,30 @@ date-last-perfect:
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
+```dataviewjs
+const pages = dv.pages()
+  .where(p => p.skip_number === "3-8-10")
+// or stricter: .where(p => p["your_property"] === "value")
+// or for numbers/strings/etc: adjust comparison as needed
+
+const titles = pages
+  .map(p => p.file.name)
+  .sort()                    // optional: alphabetical sort
+  .join(", ");
+
+dv.paragraph(titles || "No matching pages");
+````
+
 1. No
-2. [[SKIP-3-8-2]]
-3. [[SKIP-3-8-3]]
-4. [[SKIP-3-8-4]]
+2. [[SKIP-3-8-2]]: 勉, 閃
+3. [[SKIP-3-8-3]]: 問, 彪, 閉
+4. [[SKIP-3-8-4]]: 悶, 開, 閏, 閑, 間, 閔, 閙
 5. No
-6. [[SKIP-3-8-6]]
-7. [[SKIP-3-8-7]]
-8. [[SKIP-3-8-8]]
-9. [[SKIP-3-8-9]]
-10. [[SKIP-3-8-10]]
+6. [[SKIP-3-8-6]]: 聞, 関, 閣, 閥, 閨
+7. [[SKIP-3-8-7]]: 閲, 魅
+8. [[SKIP-3-8-8]]: 䦧 (char), 䦨
+9. [[SKIP-3-8-9]]: 闊
+10. [[SKIP-3-8-10]]: 闕, 闖, 闘
 
 
 ## Base check
