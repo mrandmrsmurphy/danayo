@@ -1,6 +1,6 @@
 ---
-size: 28
-middle_chinese_final: ɣiɪ
+size: 42
+middle_chinese_final: iɪ
 ---
 
 
@@ -12,7 +12,7 @@ views:
     name: Final ɨi
     filters:
       and:
-        - middle_chinese_final == "ɣiɪ"
+        - middle_chinese_final == "iɪ"
     order:
       - file.name
       - mandarin
