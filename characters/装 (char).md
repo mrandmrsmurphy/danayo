@@ -19,8 +19,8 @@ english:
   - dress up
   - pretend
 羅馬字: jwang
-韓文: "\b좡"
-joyo_level: ""
+韓文: "좡"
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4244

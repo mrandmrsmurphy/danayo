@@ -153,7 +153,7 @@
 150. [蘇](../../characters/蘇.md)
 151. [蘭](../../characters/蘭.md)
 152. [蝶](../../characters/蝶.md)
-153. [裏](../../characters/裏.md)
+153. 裡 --> 裏
 154. [裳](../../characters/裳.md)
 155. [襖](../../characters/襖.md)
 156. [諒](../../characters/諒.md)

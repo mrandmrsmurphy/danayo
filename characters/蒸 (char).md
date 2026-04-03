@@ -18,7 +18,7 @@ english:
   - steam
 羅馬字: jing
 韓文: 징
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5148

@@ -18,7 +18,7 @@ english:
   - sugar
 羅馬字: dwang
 韓文: 돵
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4205

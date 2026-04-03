@@ -32,7 +32,7 @@ views:
       - formula.spot
     sort:
       - property: formula.spot
-        direction: DESC
+        direction: ASC
       - property: joyo_level
         direction: ASC
       - property: hanmun_edu_level
@@ -44,4 +44,5 @@ views:
       note.english: 98
       note.danayo_id: 64
       note.hanmun_edu_level: 57
+
 ```

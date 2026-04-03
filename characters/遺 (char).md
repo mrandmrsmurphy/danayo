@@ -20,7 +20,7 @@ english:
   - leave behind
 羅馬字: "'yei"
 韓文: 예
-joyo_level: 高等
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3254

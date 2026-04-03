@@ -1,7 +1,7 @@
 ---
-mandarin: "fú"
-cantonese: "fuk1"
-korean: "복"
+mandarin: fú
+cantonese: fuk1
+korean: 복
 korean_native: ""
 japanese:
   - FUKU
@@ -21,9 +21,9 @@ english:
   - prosperity
 羅馬字: pug
 韓文: 푹
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: "3"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 3207
 mc_id: 482
 graphemic_classification: 畐

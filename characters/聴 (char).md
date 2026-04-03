@@ -14,12 +14,12 @@ stroke_count: 17
 radical: 耳
 skip_number: 1-6-11
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - listen
 羅馬字: ceng
 韓文: 청
-joyo_level: ""
+joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 3225

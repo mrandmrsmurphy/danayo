@@ -19,7 +19,7 @@ english:
   - curtain
 羅馬字: mag
 韓文: 막
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5140

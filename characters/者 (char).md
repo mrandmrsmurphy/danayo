@@ -19,7 +19,7 @@ english:
   - -er
 羅馬字: "\bca"
 韓文: 차
-joyo_level: ""
+joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 3223

@@ -1,7 +1,7 @@
 ---
-mandarin: "céng"
-cantonese: "cang4"
-korean: "층"
+mandarin: céng
+cantonese: cang4
+korean: 층
 korean_native: ""
 japanese:
   - SOU
@@ -18,7 +18,7 @@ english:
   - stratum
 羅馬字: cung
 韓文: 충
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 4086

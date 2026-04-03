@@ -19,7 +19,7 @@ english:
   - kowtow
 羅馬字: bye
 韓文: 벼
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3138

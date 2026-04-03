@@ -1,4 +1,3 @@
-For the younger grades, see [[Jōyō - Kyōiku]]
 
 1027. [亜](characters/亜.md) : 	亞	sub-, Asia
 1028. [哀](characters/哀.md) : pathetic
@@ -359,9 +358,9 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1383. [采](characters/采.md) : form
 1384. [砕 (char)](characters/砕%20(char).md) : 	碎	smash
 1385. [宰](characters/宰.md) : superintend
-1386. [[栽]] : plantation
-1387. [[彩]] : coloring
-1388. [[斎]] : 	齋	purification
+1386. [栽](../../characters/栽.md) : plantation
+1387. [彩](../../characters/彩.md) : coloring
+1388. [[斎 : 	齋	purification
 1389. [[債]] : bond
 1390. [[催]] : sponsor
 1391. [[塞]] : obstruct
@@ -704,7 +703,7 @@ For the younger grades, see [[Jōyō - Kyōiku]]
 1727. [[徴]] : 	[[徴|徵]]	indications
 1728. [[嘲]] :  ridicule
 1729. [[澄]] : lucidity
-1730. [[聴]] : 	[[聴|聽]]	listen
+1730. [聴 (char)](../../characters/聴%20(char).md) :	listen
 1731. [[懲]] : 	[[懲]] penal
 1732. [[勅]] : 	[[勅|敕]]	imperial order
 1733. !!捗!! : make progress     FORBIDDEN

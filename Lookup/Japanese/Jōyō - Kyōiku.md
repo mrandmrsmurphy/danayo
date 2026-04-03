@@ -904,7 +904,7 @@ The following prefecture names were added in 2017:
 893. [干](characters/干.md) : kan	ho-su	dry
 894. [幼](characters/幼.md) : yō	osana-i	infancy
 895. [庁](characters/庁.md) : chō	 	government office
-896. [座](../../characters/坐%20(char).md) : za	suwa-ru	sit
+896. 座 --> 坐 : za	suwa-ru	sit
 897. [延](characters/延.md) : en	no-basu	prolong
 898. [律](characters/律.md) : ritsu	 	rhythm
 899. [従 (char)](characters/従%20(char).md) : jū	shitaga-u	obey
@@ -959,7 +959,7 @@ The following prefecture names were added in 2017:
 948. [盛](../../characters/盛.md) : sei	mo-ru	prosper
 949. [盟](../../characters/盟.md) : mei	 	alliance
 950. [看 (char)](characters/看%20(char).md) : kan	 	watch over
-951. [砂](../../characters/沙%20(char).md) : sa	sha ; suna	sand
+951. 砂 --> 沙 : sa	sha ; suna	sand
 952. [磁](../../characters/磁.md) : ji	 	magnet
 953. [私](../../characters/私.md) : shi	watakushi ; watashi	me
 954. [秘](../../characters/秘.md) : hi	 	secret

@@ -21,7 +21,7 @@ english:
   - hand (clock)
 羅馬字: jim
 韓文: 짐
-joyo_level: ""
+joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3256

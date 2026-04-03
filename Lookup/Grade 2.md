@@ -46,7 +46,7 @@ views:
       note.english: 98
       note.danayo_id: 64
       note.hanmun_edu_level: 57
-      note.hsk_level: 40
+      note.hsk_level: 52
       note.joyo_level: 39
 
 ```
