@@ -60,8 +60,8 @@
 [会 (char)](../../characters/会%20(char).md): 10
 [告](../../characters/告.md): 10
 [道 (char)](../../characters/道%20(char).md): 10
-[机](../../characters/機.md): 10
-[機](../../characters/機.md): 10
+[机](../../characters/机.md): 10
+[机](../../characters/机.md): 10
 [多 (char)](../../characters/多%20(char).md): 10
 [化 (char)](../../characters/化%20(char).md): 10
 [外](../../characters/外.md): 10

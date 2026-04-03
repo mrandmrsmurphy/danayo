@@ -14,7 +14,7 @@
 - [[主教]] - overseer, bishop
 	- [[大主教]] - archbishop
 	- [[總主教]] - primate
-	- [[枢機]]主教 - cardinal
+	- [[枢机]]主教 - cardinal
 - [[教皇]] - pope
 - [[司鐸]] - priest vs [[牧師]] pastor/shepherd vs [[神父]] father/EO priest
 - [[大教堂]] - cathedral (主教座堂 - seat of the bishop)

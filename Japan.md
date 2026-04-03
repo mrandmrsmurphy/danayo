@@ -7,7 +7,7 @@
 - Itō Hirobumi (<ruby>[伊](/characters/伊.md)<rt>ㄧ˙</rt></ruby><ruby>[藤](/characters/藤.md)<rt>ㄉㄨㄥ</rt></ruby><ruby>[博](/characters/博.md)<rt>ㄅㄚㄎ</rt></ruby>[[文]]) — (1841–1909)
 - Abe Shinzō ([[安]][[倍]][[晋]]<ruby>[三](/words/三.md)<rt>ㄙㄚㄇ</rt></ruby>) — (1954–2022)
 - Takaichi Sanae (<ruby>[高](/characters/高%20(char).md)<rt>ㄍㄚˇ</rt></ruby>[[市]][[早]][[苗]]) — (b. 1961)
-- Tōjō Hideki ([[東]]<ruby>[条](/characters/条%20(char).md)<rt>ㄐㄛ</rt></ruby>[[英]][[機]]) — (1884–1948)
+- Tōjō Hideki ([[東]]<ruby>[条](/characters/条%20(char).md)<rt>ㄐㄛ</rt></ruby>[[英]][[characters/机]]) — (1884–1948)
 - Yamamoto Isoroku (<ruby>[山本](/words/山本.md)<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby><ruby>[五](/characters/五%20(char).md)<rt>ㄛ</rt></ruby>十六) — (1884–1943)
 - Katsushika Hokusai ([[葛]][[飾]][[北]][[斎]]) — (1760–1849, but enduring influence)
 - Natsume Sōseki ([[夏]][[目]][[漱]][[石]]) — (1867–1916)

@@ -559,7 +559,7 @@ The following prefecture names were added in 2017:
 550. [械](characters/械.md) : kai	 –	contraption
 551. [極](characters/極%20(char).md) : kyoku	kiwa-meru	poles
 552. [標](characters/標.md) : hyō	 –	signpost
-553. [機](characters/機.md) : ki	hata	machine
+553. [机](../../characters/机.md) : ki	hata	machine
 554. [欠](characters/欠%20(char).md) : ketsu	ka-keru	lack
 555. [残](characters/残%20(char).md) : zan	noko-ru	remainder
 556. [氏](characters/氏.md) : shi	uji	family name
@@ -930,7 +930,7 @@ The following prefecture names were added in 2017:
 919. [暖 (char)](../../characters/暖%20(char).md) : dan	atata-kai	warmth
 920. [暮](../../characters/暮.md) : bo	ku-rasu	livelihood
 921. [朗](../../characters/朗.md) : rō	hoga-raka	melodious
-922. [机](../../characters/機.md) : ki	tsukue	desk
+922. [机](../../characters/机.md) : ki	tsukue	desk
 923. [枚](characters/枚%20(char).md) : mai	 	sheet of…
 924. [染](../../characters/染.md) : sen	so-meru	dye
 925. [株 (char)](../../characters/株%20(char).md) : kabu	 	stocks

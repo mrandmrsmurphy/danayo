@@ -135,7 +135,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 ## Courtesy
 please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>gamsya</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>bet</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>hwan'yeng</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>gimnit'an</rt></ruby>, yes - <ruby>[[爾]]<rt>ne</rt></ruby>, no - <ruby>[[否]]<rt>buu</rt></ruby>
 ## Modern
-- Air : airport - <ruby>[[空港]]<rt>konghong</rt></ruby>, airplane - <ruby>[[飛行機]]<rt>pihanggii</rt></ruby>
+- Air : airport - <ruby>[[空港]]<rt>konghong</rt></ruby>, airplane - <ruby>[[../words/飛行机]]<rt>pihanggii</rt></ruby>
 - Cars : car - <ruby>[[車 (char)]]<rt>ca</rt></ruby>, bus - '''basü''', license, gas station, motor, taxi, truck, gasoline - <ruby>[[汽油]]<rt>kii'yuu</rt></ruby>
 - Other : bicycle, railroad, train station, subway, spaceship - <ruby>[[宇宙船]]<rt>'ujuujwen</rt></ruby>
 - Computer : computer - <ruby>[[電脳]]<rt>dennau</rt></ruby>, disk, chip, CPU

@@ -97,8 +97,8 @@
 [[問]]: 4
 [问](characters/問.md): 4
 [假](characters/仮.md): 4
-[[機]]: 4
-[机](characters/機.md): 4
+[[../../characters/机]]: 4
+[机](../../characters/机.md): 4
 [分 (char)](characters/分%20(char).md): 4
 [[感]]: 4
 [[過]]: 4

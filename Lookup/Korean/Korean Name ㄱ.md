@@ -142,7 +142,7 @@ This has been checked for redirects.
 [闕](characters/闕.md) [[獗]] [[蕨]] [蹶](characters/蹶.md) 
 
 ### 궤 
-[机](characters/機.md) [[櫃]] [潰 (char)](characters/潰%20(char).md) [[詭]] [[饋]] 
+[机](../../characters/机.md) [[櫃]] [潰 (char)](characters/潰%20(char).md) [[詭]] [[饋]] 
 
 ### 귀 
 [句 (char)](characters/句%20(char).md) [[晷]] 䤥 a metal tool [龜](characters/亀%20(char).md)

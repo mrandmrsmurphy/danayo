@@ -124,8 +124,8 @@
 [活 (char)](../../characters/活%20(char).md): 8
 [场](../../characters/場.md): 8
 [場](../../characters/場.md): 8
-[机](../../characters/機.md): 8
-[機](../../characters/機.md): 8
+[机](../../characters/机.md): 8
+[机](../../characters/机.md): 8
 [看 (char)](../../characters/看%20(char).md): 8
 
 ## 7

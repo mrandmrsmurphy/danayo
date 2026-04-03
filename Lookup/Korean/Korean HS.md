@@ -86,7 +86,7 @@
 #### 긍
 [肯 (char)](../../characters/肯%20(char).md) (긍정할 긍)
 #### 기
-[紀](../../characters/紀.md) (벼리 기) , [忌](../../characters/忌.md) (꺼릴 기) , [旗](../../characters/旗.md) (기 기) , [欺](../../characters/欺.md) (속일 기) , [奇](../../characters/奇.md) (기이할 기) , [騎](../../characters/騎.md) (말탈 기) , [寄 (char)](../../characters/寄%20(char).md) (부칠 기) , [豈](../../characters/豈.md) (어찌 기) , [棄](../../characters/棄.md) (버릴 기) , [祈](../../characters/祈.md) (빌 기) , [企](../../characters/企.md) (꾀할 기) , [畿](../../characters/畿.md) (경기 기) , [飢](../../characters/飢.md) (주릴 기) , [器](../../characters/器.md) (그릇 기) , [機](../../characters/機.md) (틀 기)
+[紀](../../characters/紀.md) (벼리 기) , [忌](../../characters/忌.md) (꺼릴 기) , [旗](../../characters/旗.md) (기 기) , [欺](../../characters/欺.md) (속일 기) , [奇](../../characters/奇.md) (기이할 기) , [騎](../../characters/騎.md) (말탈 기) , [寄 (char)](../../characters/寄%20(char).md) (부칠 기) , [豈](../../characters/豈.md) (어찌 기) , [棄](../../characters/棄.md) (버릴 기) , [祈](../../characters/祈.md) (빌 기) , [企](../../characters/企.md) (꾀할 기) , [畿](../../characters/畿.md) (경기 기) , [飢](../../characters/飢.md) (주릴 기) , [器](../../characters/器.md) (그릇 기) , [机](../../characters/机.md) (틀 기)
 #### 긴
 [緊](../../characters/緊.md) (긴요할 긴)
 

@@ -305,7 +305,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - 主教 in bible/基督敎 elements
 - 大主教 in bible/基督敎 elements
 - 總主教 in bible/基督敎 elements
-- 枢機 in bible/基督敎 elements
 - 教皇 in bible/基督敎 elements
 - 司鐸 in bible/基督敎 elements
 - 牧師 in bible/基督敎 elements

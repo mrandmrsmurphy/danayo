@@ -26,7 +26,7 @@ Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
 - [[荊棘荻蓬]] - thorns and thistles ✅
 - [[愛隣如自]] - love your neighbor as yourself ✅
 - [[多召少選]] - many are called, few are chosen ✅
-- [[生機勃勃]] - resurrection life ✅
+- [[生机勃勃]] - resurrection life ✅
 - [[飲食歓楽]] - eat, drink, and be merry ✅
 - [[加哀痛産]] - add sorrow to painful labor ✅
 - [[道活墨殺]] - Letter kills, Spirit life ✅
