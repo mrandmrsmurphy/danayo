@@ -1,6 +1,6 @@
 ---
-size: 0
-middle_chinese_final: ɪn
+size: 18
+middle_chinese_final: iɪp
 ---
 
 
@@ -9,10 +9,10 @@ middle_chinese_final: ɪn
 version: 1
 views:
   - type: table
-    name: Final ɪn
+    name: Final iɪp
     filters:
       and:
-        - middle_chinese_final == "ɪn"
+        - middle_chinese_final == "iɪp"
     order:
       - file.name
       - mandarin
@@ -22,9 +22,9 @@ views:
       - middle_chinese_initial
       - middle_chinese_final
     sort:
-      - property: 羅馬字
-        direction: ASC
       - property: middle_chinese_initial
+        direction: ASC
+      - property: 羅馬字
         direction: ASC
       - property: characters
         direction: DESC
