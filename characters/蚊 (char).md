@@ -1,18 +1,18 @@
 ---
-mandarin: "wén"
-cantonese: "man1"
-korean: "문"
+mandarin: wén
+cantonese: man1
+korean: 문
 korean_native: ""
 japanese:
   - BUN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ɨun
 stroke_count: 10
 radical: 虫
 skip_number: 1-6-4
-grade_level: "名"
+grade_level: 名
 pos: ""
 english:
   - mosquito

@@ -1,7 +1,7 @@
 ---
-mandarin: "wù"
-cantonese: "mat6"
-korean: "물"
+mandarin: wù
+cantonese: mat6
+korean: 물
 korean_native: 말
 japanese:
   - BUTSU
@@ -11,7 +11,7 @@ japanese_nanori:
   - なかれ
 vietnamese:
   - vật, vặt, vất
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ɨut
 stroke_count: 4
 radical: 勹

@@ -1,7 +1,7 @@
 ---
-mandarin: "wǎn"
-cantonese: "maan5"
-korean: "만"
+mandarin: wǎn
+cantonese: maan5
+korean: 만
 korean_native: 늦을
 japanese:
   - BAN
@@ -9,7 +9,7 @@ japanese_nanori:
   - くれ, おそ-い
 vietnamese:
   - vãn, muộn
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ʉɐn
 stroke_count: 12
 radical: 日

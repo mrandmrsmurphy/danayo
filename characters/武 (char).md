@@ -1,7 +1,7 @@
 ---
-mandarin: "wǔ"
-cantonese: "mou5"
-korean: "무"
+mandarin: wǔ
+cantonese: mou5
+korean: 무
 korean_native: ""
 japanese:
   - BU
@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
   - vũ
   - võ
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ɨo
 stroke_count: 8
 radical: 止

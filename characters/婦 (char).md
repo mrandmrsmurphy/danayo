@@ -1,13 +1,13 @@
 ---
-mandarin: "fù"
-cantonese: "fu5"
-korean: "부"
+mandarin: fù
+cantonese: fu5
+korean: 부
 korean_native: ""
 japanese:
   - FU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: b
+middle_chinese_initial: v
 middle_chinese_final: ɨu
 stroke_count: 11
 radical: 女

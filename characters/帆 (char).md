@@ -1,13 +1,13 @@
 ---
-mandarin: "fān fán"
-cantonese: "faan4"
-korean: "범"
+mandarin: fān fán
+cantonese: faan4
+korean: 범
 korean_native: ""
 japanese:
   - HAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: b
+middle_chinese_initial: v
 middle_chinese_final: ɨɐm
 stroke_count: 6
 radical: 巾

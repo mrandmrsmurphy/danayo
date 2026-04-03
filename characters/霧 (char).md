@@ -1,14 +1,14 @@
 ---
-mandarin: "wù"
-cantonese: "mou6"
-korean: "무"
+mandarin: wù
+cantonese: mou6
+korean: 무
 korean_native: ""
 japanese:
   - MU
   - BU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ɨo
 stroke_count: 19
 radical: 雨

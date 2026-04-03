@@ -10,7 +10,7 @@ japanese:
 japanese_nanori: ""
 vietnamese:
   - phân
-middle_chinese_initial: b
+middle_chinese_initial: v
 middle_chinese_final: ɨun
 stroke_count: 4
 radical: 刀

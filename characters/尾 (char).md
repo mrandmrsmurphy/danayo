@@ -1,13 +1,13 @@
 ---
-mandarin: "wěi"
-cantonese: "mei5"
-korean: "미"
+mandarin: wěi
+cantonese: mei5
+korean: 미
 korean_native: ""
 japanese:
   - BI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ʉi
 stroke_count: 7
 radical: 尸

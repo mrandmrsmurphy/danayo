@@ -8,7 +8,7 @@ japanese:
   - BU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ɨo
 stroke_count: 12
 radical: 火

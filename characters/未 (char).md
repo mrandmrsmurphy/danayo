@@ -9,7 +9,7 @@ japanese:
 japanese_nanori: ""
 vietnamese:
   - vị, mùi
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ʉi
 stroke_count: 5
 radical: 木

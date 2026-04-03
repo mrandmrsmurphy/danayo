@@ -1,7 +1,7 @@
 ---
-mandarin: "fú"
-cantonese: "fat6"
-korean: "불"
+mandarin: fú
+cantonese: fat6
+korean: 불
 korean_native: ""
 japanese:
   - BUTSU
@@ -9,7 +9,7 @@ japanese:
   - HOTSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: b
+middle_chinese_initial: v
 middle_chinese_final: ɨut
 stroke_count: 7
 radical: 人

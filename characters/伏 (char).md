@@ -1,7 +1,7 @@
 ---
-mandarin: "fú"
-cantonese: "fuk6"
-korean: "복"
+mandarin: fú
+cantonese: fuk6
+korean: 복
 korean_native: ""
 japanese:
   - FUKU
@@ -9,7 +9,7 @@ japanese:
   - BUKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: b
+middle_chinese_initial: v
 middle_chinese_final: ɨuk
 stroke_count: 6
 radical: 人

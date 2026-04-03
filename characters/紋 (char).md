@@ -1,14 +1,14 @@
 ---
-mandarin: "wén"
-cantonese: "man4"
-korean: "문"
+mandarin: wén
+cantonese: man4
+korean: 문
 korean_native: ""
 japanese:
   - MON
   - BUN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: m
+middle_chinese_initial: ɱ
 middle_chinese_final: ɨun
 stroke_count: 10
 radical: 糸
