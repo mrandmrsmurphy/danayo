@@ -1,7 +1,7 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 
 ## 2+ Words
-- [[韻図]] in grammar/単亜語之文法書
+- [[words/韻図]] in grammar/単亜語之文法書
 - 前提 in grammar/文法 - 01序文
 - 専門 in grammar/文法 - 01序文
 - 相関詞 in grammar/文法 - 01序文
