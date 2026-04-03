@@ -1,12 +1,8 @@
 HSK means:
-- [[番]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
-- [[束]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
+- [[words/束]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[鳥]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]]
 - [[草]] in [[grammar/文法 - 97品詞]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[words/鷹]] in [[lexipedia/Sophomore List]], [[lookup/HSK/Old HSK 4]]
-- [[樣]] in [[lookup/HSK/HSK Beginner]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[场]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[机]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]]
 - [[步]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[处]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[處]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]

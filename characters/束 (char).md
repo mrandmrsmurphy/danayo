@@ -1,7 +1,7 @@
 ---
-mandarin: "shù"
-cantonese: "cuk1"
-korean: "속"
+mandarin: shù
+cantonese: cuk1
+korean: 속
 korean_native: ""
 japanese:
   - SOKU
@@ -13,10 +13,9 @@ stroke_count: 7
 radical: 木
 skip_number: 4-7-3
 grade_level: "4"
-pos: ""
+pos: 量詞
 english:
-  - bundle
-  - package
+  - BUNDLE
 羅馬字: syog
 韓文: 쇽
 joyo_level: "4"
