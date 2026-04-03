@@ -9,7 +9,7 @@ japanese:
 japanese_nanori: ""
 vietnamese:
   - phong, phông
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ɨuŋ
 stroke_count: 9
 radical: 風

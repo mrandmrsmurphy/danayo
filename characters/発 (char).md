@@ -1,7 +1,7 @@
 ---
-mandarin: "fā"
-cantonese: "faat3"
-korean: "발"
+mandarin: fā
+cantonese: faat3
+korean: 발
 korean_native: 쏠
 japanese:
   - HOTSU
@@ -9,7 +9,7 @@ japanese:
   - HATSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ʉɐt
 stroke_count: 9
 radical: 癶

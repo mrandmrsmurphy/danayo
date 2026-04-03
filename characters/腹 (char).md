@@ -1,13 +1,13 @@
 ---
-mandarin: "fù"
-cantonese: "fuk1"
-korean: "복"
+mandarin: fù
+cantonese: fuk1
+korean: 복
 korean_native: ""
 japanese:
   - FUKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ɨuk
 stroke_count: 13
 radical: 肉

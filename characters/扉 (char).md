@@ -1,18 +1,18 @@
 ---
-mandarin: "fēi"
-cantonese: "fei1"
-korean: "비"
+mandarin: fēi
+cantonese: fei1
+korean: 비
 korean_native: ""
 japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ʉi
 stroke_count: 12
 radical: 戶
 skip_number: 2-1-11
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - front door

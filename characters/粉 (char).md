@@ -1,13 +1,13 @@
 ---
-mandarin: "fěn"
-cantonese: "fan2"
-korean: "분"
+mandarin: fěn
+cantonese: fan2
+korean: 분
 korean_native: ""
 japanese:
   - FUN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ɨun
 stroke_count: 10
 radical: 米

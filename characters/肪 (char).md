@@ -1,14 +1,14 @@
 ---
-mandarin: "fáng"
-cantonese: "fong1"
-korean: "방"
+mandarin: fáng
+cantonese: fong1
+korean: 방
 korean_native: ""
 japanese:
   - BOU
   - HOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ʉɐŋ
 stroke_count: 8
 radical: 肉

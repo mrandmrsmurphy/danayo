@@ -1,13 +1,13 @@
 ---
-mandarin: "fǒu"
-cantonese: "fau2"
-korean: "부"
+mandarin: fǒu
+cantonese: fau2
+korean: 부
 korean_native: ""
 japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ɨu
 stroke_count: 7
 radical: 口

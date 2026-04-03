@@ -755,5 +755,4 @@ views:
       - file.links.length
     columnSize:
       note.characters: 189
-
 ```

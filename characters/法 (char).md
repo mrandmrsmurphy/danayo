@@ -1,7 +1,7 @@
 ---
-mandarin: "fǎ"
-cantonese: "faat3"
-korean: "법"
+mandarin: fǎ
+cantonese: faat3
+korean: 법
 korean_native: ""
 japanese:
   - HOU
@@ -9,7 +9,7 @@ japanese:
   - HOTSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ɨɐp
 stroke_count: 8
 radical: 水

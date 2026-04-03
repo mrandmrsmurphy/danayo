@@ -1,7 +1,7 @@
 ---
-mandarin: "fēi"
-cantonese: "fei1"
-korean: "비"
+mandarin: fēi
+cantonese: fei1
+korean: 비
 korean_native: 아닐
 japanese:
   - HI
@@ -9,7 +9,7 @@ japanese_nanori:
   - それる
 vietnamese:
   - phi
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ʉi
 stroke_count: 8
 radical: 非

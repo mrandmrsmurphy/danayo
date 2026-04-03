@@ -9,7 +9,7 @@ japanese:
 japanese_nanori: ""
 vietnamese:
   - phu
-middle_chinese_initial: p
+middle_chinese_initial: f
 middle_chinese_final: ɨo
 stroke_count: 4
 radical: 大
