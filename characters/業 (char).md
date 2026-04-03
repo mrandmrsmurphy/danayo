@@ -1,7 +1,7 @@
 ---
-mandarin: "yè"
-cantonese: "jip6"
-korean: "업"
+mandarin: yè
+cantonese: jip6
+korean: 업
 korean_native: 업
 japanese:
   - GYOU
@@ -11,7 +11,7 @@ japanese_nanori:
 vietnamese:
   - nghiệp
 middle_chinese_initial: ŋ
-middle_chinese_final: iɐp
+middle_chinese_final: ɨɐp
 stroke_count: 13
 radical: 木
 skip_number: 2-5-8

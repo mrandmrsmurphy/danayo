@@ -10,7 +10,7 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: f
-middle_chinese_final: ɨɐp
+middle_chinese_final: iɐp
 stroke_count: 8
 radical: 水
 skip_number: 1-3-5
