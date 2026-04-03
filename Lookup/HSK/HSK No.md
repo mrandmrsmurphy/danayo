@@ -88,15 +88,15 @@
 [浦 (char)](../../characters/浦%20(char).md)
 [殉](../../characters/殉.md)
 [鉢 (char)](characters/鉢%20(char).md)
-[[癒]]
-[[搾]]
-[[詣]]
-[[廷]]
-[[簿]]
-[[庶]]
-[[赦]]
-[[憧]]
-[[拭]]
+[癒](../../characters/癒.md)
+[搾](../../characters/搾.md)
+[詣 (char)](../../characters/詣%20(char).md)
+[廷](../../characters/廷.md)
+[簿](../../characters/簿.md)
+[庶](../../characters/庶.md)
+[赦](../../characters/赦.md)
+[憧](../../characters/憧.md)
+[拭](../../characters/拭.md)
 [吏](characters/吏.md)
 [募](characters/募.md)
 [稽](characters/稽.md)
@@ -106,50 +106,50 @@
 [隅 (char)](characters/隅%20(char).md)
 [潟](characters/潟.md)
 [勲 (char)](characters/勲%20(char).md)
-[[仲]]
-[[藩]]
-[[枢]]
-[[酵]]
-[[扉]]
-[[宛]]
-[[粧]]
-[[撮]]
-[[寮]]
-[[岳]]
-[[弥]]
-[[倣]]
-[[賃]]
+[仲](../../characters/仲.md)
+[藩](../../characters/藩.md)
+[枢 (char)](../../characters/枢%20(char).md)
+[酵](../../characters/酵.md)
+[扉 (char)](../../characters/扉%20(char).md)
+[宛](../../characters/宛.md)
+[粧](../../characters/粧.md)
+[撮 (char)](../../characters/撮%20(char).md)
+[寮](../../characters/寮.md)
+[岳](../../characters/岳.md)
+[弥 (char)](../../characters/弥%20(char).md)
+[倣](../../characters/倣.md)
+[賃 (char)](../../characters/賃%20(char).md)
 [嬢](characters/娘%20(char).md)
-[[蹴]]
-[[葛]]
-[[伎]]
-[[虐]]
-[[繕]]
-[[釜]]
-[[駒]]
-[[呪]]
-[[岬]]
-[[賜]]
-[[匿]]
-[[胎]]
-[[娠]]
-[[翌]]
+[蹴 (char)](../../characters/蹴%20(char).md)
+[葛 (char)](../../characters/葛%20(char).md)
+[伎](../../characters/伎.md)
+[虐](../../characters/虐.md)
+[繕](../../characters/繕.md)
+[釜](../../characters/釜.md)
+[駒](../../characters/駒.md)
+[呪](../../characters/呪.md)
+[岬](../../characters/岬.md)
+[賜](../../characters/賜.md)
+[匿](../../characters/匿.md)
+[胎](../../characters/胎.md)
+[娠](../../characters/娠.md)
+[翌 (char)](../../characters/翌%20(char).md)
 [垣 (char)](characters/垣%20(char).md)
-[[綻]]
-[[鈍]]
-[[囚]]
-[[昇]]
-[[呂]]
-[[祉]]
-[[狩]]
-[[憬]]
-[[祭]]
-[[矯]]
-[[俵]]
-[[胴]]
-[[劾]]
-[[墜]]
-[[弧]]
+[綻](../../characters/綻.md)
+[鈍](../../characters/鈍.md)
+[囚](../../characters/囚.md)
+[昇](../../characters/昇.md)
+[呂](../../characters/呂.md)
+[祉](../../characters/祉.md)
+[狩](../../characters/狩.md)
+[憬](../../characters/憬.md)
+[祭](../../characters/祭.md)
+[矯](../../characters/矯.md)
+[俵](../../characters/俵.md)
+[胴](../../characters/胴.md)
+[劾](../../characters/劾.md)
+[墜](../../characters/墜.md)
+[弧](../../characters/弧.md)
 [[舷]]
 [[巣]]
 [魂 (char)](characters/魂%20(char).md)

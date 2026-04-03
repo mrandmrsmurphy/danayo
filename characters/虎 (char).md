@@ -36,5 +36,7 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+### Derived Characters
+- [[彪]]
