@@ -2,10 +2,11 @@
 mandarin: rùn
 cantonese: jeon6
 korean: 윤
-korean_native: ""
+korean_native: 윤달
 japanese:
   - JUN
-japanese_nanori: ""
+japanese_nanori:
+  - うるう
 vietnamese:
   - nhuận
   - nhộn
@@ -31,13 +32,26 @@ graphemic_classification: 會意
 stand_in: 閏
 aliases:
   - 闰
+  - 閠
+  - 䦞
+  - 𥹿
 注音: ㄋㄨㄋ
+date-last-perfect: 2026-04-02
+kwin: false
 ---
 >[!tip] This is a page about the character 閏.
 >For the word, see [閏](words/閏.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+- [List of 会意](../lookup/List%20of%20会意.md): [門](Radical%20169) (“gate”) + [王 (char)](王%20(char).md) (“king”). The original meaning “intercalary” is derived from kings' ancient practice of remaining within the palace gates on a leap day (which was in excess of the lunar calendar's 364 days, whence the meanings “remainder” and “surplus”), not engaging in their usual governing functions.
+- [SKIP-3-8-4](../lookup/SKIP/SKIP-3/SKIP-3-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md)) - [ㄋㄨㄋ](../syllables/ㄋㄨㄋ.md)
+- [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [HSK No](../lookup/HSK/HSK%20No.md), [Grade Advanced](../lookup/Grade%20Advanced.md)
 
-# Notes
+## Words
+- [[閏月]] - "leap month"
+- <ruby>[閏年](/words/閏年.md)<rt>ㄋㄨㄋㄋㄝㄋ</rt></ruby> "leap year"
+- [[閏日]] "leap day"
+- [[閏秒]] "leap second"
+- [[置閏]] "intercalation"

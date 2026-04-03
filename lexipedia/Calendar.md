@@ -149,7 +149,7 @@ Lunar months had their own terminology:
 - [[晦日]] - last day of the lunar month
 
 ### Leap years
-- [[閏年]] — leap year
+- [[../words/閏年]] — leap year
 - [[平年]] — common year
 - [[閏月]] — intercalary month (lunisolar calendars)
 - [[太陽暦]] — solar calendar
