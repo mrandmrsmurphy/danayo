@@ -1,6 +1,6 @@
 ---
 stroke_count: 11
-date-last-perfect:
+date-last-perfect: 2026-04-02
 skip_number: 3-8-3
 size: 3
 ---
@@ -8,7 +8,9 @@ size: 3
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 ## Characters
-問, 彪, 閉
+1. <ruby>[問](/characters/問.md)<rt>ㄇㄨㄋ</rt></ruby> "question"
+2. <ruby>[彪](/characters/彪.md)<rt>ㄅ˙ㄨˇ</rt></ruby> "tiger stripes"
+3. <ruby>[閉](/characters/閉.md)<rt>ㄅㄝ˙</rt></ruby> "close"
 
 ## Datacheck
 ```dataview

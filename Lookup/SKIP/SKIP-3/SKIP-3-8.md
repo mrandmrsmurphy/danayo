@@ -3,20 +3,6 @@ date-last-perfect:
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.skip_number === "3-8-10")
-// or stricter: .where(p => p["your_property"] === "value")
-// or for numbers/strings/etc: adjust comparison as needed
-
-const titles = pages
-  .map(p => p.file.name)
-  .sort()                    // optional: alphabetical sort
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-````
-
 1. No
 2. [[SKIP-3-8-2]]: 勉, 閃
 3. [[SKIP-3-8-3]]: 問, 彪, 閉
