@@ -360,103 +360,103 @@
 1385. [宰](characters/宰.md) : superintend
 1386. [栽](../../characters/栽.md) : plantation
 1387. [彩](../../characters/彩.md) : coloring
-1388. [[斎 : 	齋	purification
-1389. [[債]] : bond
-1390. [[催]] : sponsor
-1391. [[塞]] : obstruct
-1392. [[歳]] : year-end
-1393. [[載]] : ride
-1394. [[剤]] : 	劑	dose
-1395. [[削]] : plane
-1396. [[柵]] : fence
-1397. [[索]] : cord
-1398. [[酢]] : vinegar
-1399. [[搾]] : squeeze
-1400. [[錯]] : confused
-1401. [[笑|咲]] : blossom
-1402. [[刹]] : temple
-1403. [[拶]] : be imminent
-1404. [[撮]] : snapshot
-1405. [[擦]] : grate
-1406. [[桟]] : 	棧	scaffold
-1407. [[惨]] : 	慘	wretched
-1408. [[傘]] : umbrella
-1409. [[斬]] : kill by slicing
-1410. [[暫]] : temporarily
-1411. [[旨]] : delicious
-1412. [[伺]] : pay respects
-1413. [[刺]] : thorn
-1414. [[祉]] : 	祉 welfare
-1415. [[肢]] : limb
-1416. [[施]] : carry out
-1417. [[恣]] : selfish
-1418. [[脂]] : fat
-1419. [[紫]] : purple
+1388. [斎](../../characters/斎.md) : 	齋	purification
+1389. [債](../../characters/債.md) : bond
+1390. [催 (char)](../../characters/催%20(char).md) : sponsor
+1391. [塞](../../characters/塞.md) : obstruct
+1392. [歳](../../characters/歳.md) : year-end
+1393. [載 (char)](../../characters/載%20(char).md) : ride
+1394. [剤](../../characters/剤.md) : 	劑	dose
+1395. [削 (char)](../../characters/削%20(char).md) : plane
+1396. [柵 (char)](../../characters/柵%20(char).md) : fence
+1397. [索](../../characters/索.md) : cord
+1398. [酢](../../characters/酢.md) : vinegar
+1399. [搾](../../characters/搾.md) : squeeze
+1400. [錯](../../characters/錯.md) : confused
+1401. [咲](笑) : blossom
+1402. [刹](../../characters/刹.md) : temple
+1403. [拶](../../characters/拶.md) : be imminent
+1404. [撮 (char)](../../characters/撮%20(char).md) : snapshot
+1405. [擦 (char)](../../characters/擦%20(char).md) : grate
+1406. [桟](../../characters/桟.md) : 	棧	scaffold
+1407. [惨 (char)](../../characters/惨%20(char).md) : 	慘	wretched
+1408. [傘](../../characters/傘.md) : umbrella
+1409. [斬 (char)](../../characters/斬%20(char).md) : kill by slicing
+1410. [暫](../../characters/暫.md) : temporarily
+1411. [旨](../../characters/旨.md) : delicious
+1412. [伺](../../characters/伺.md) : pay respects
+1413. [刺 (char)](../../characters/刺%20(char).md) : thorn
+1414. [祉](../../characters/祉.md) : 	祉 welfare
+1415. [肢](../../characters/肢.md) : limb
+1416. [施](../../characters/施.md) : carry out
+1417. [恣](../../characters/恣.md) : selfish
+1418. [脂](../../characters/脂.md) : fat
+1419. [紫](../../characters/紫.md) : purple
 1420. [[嗣]] : heir
 1421. [[雌]] : feminine
-1422. [[摯]] : seriousness
-1423. [[賜]] : grant
-1424. [[諮]] : consult with
-1425. [[侍]] : waiter
-1426. [[慈]] : mercy
-1427. [[餌]] :  bait
-1428. [[璽]] : emperor's seal
-1429. [[軸]] : axis
-1430. [[叱|𠮟]] :  scold
-1431. [[疾]] : rapidly
-1432. [[執]] : tenacious
-1433. [[湿]] : 	濕	damp
-1434. [[嫉]] : envy
+1422. [摯](../../characters/摯.md) : seriousness
+1423. [賜](../../characters/賜.md) : grant
+1424. [諮](../../characters/諮.md) : consult with
+1425. [侍](../../characters/侍.md) : waiter
+1426. [慈](../../characters/慈.md) : mercy
+1427. [餌](../../characters/餌.md) :  bait
+1428. [璽](../../characters/璽.md) : emperor's seal
+1429. [軸 (char)](../../characters/軸%20(char).md) : axis
+1430. [𠮟](../../characters/叱.md):  scold
+1431. [疾](../../characters/疾.md) : rapidly
+1432. [執](../../characters/執.md) : tenacious
+1433. [湿 (char)](../../characters/湿%20(char).md) : 	濕	damp
+1434. [嫉](../../characters/嫉.md) : envy
 1435. [[漆 (char)]] : lacquer
-1436. [[芝]] : turf
-1437. [[赦]] : pardon
-1438. [[斜]] : diagonal
-1439. [[煮]] : 	煮 boil
-1440. [[遮]] : intercept
-1441. [[邪]] : wicked
+1436. [芝](../../characters/芝.md) : turf
+1437. [赦](../../characters/赦.md) : pardon
+1438. [斜](../../characters/斜.md) : diagonal
+1439. [煮](../../characters/煮.md) : 	煮 boil
+1440. [遮](../../characters/遮.md) : intercept
+1441. [邪](../../characters/邪.md) : wicked
 1442. [[蛇 (char)]] : snake
-1443. [[酌]] : bartending
-1444. [[釈]] : 	釋	explanation
-1445. [[爵]] : baron
-1446. [[寂]] : loneliness
-1447. [[朱]] : vermilion
-1448. [[狩]] : hunt
-1449. [[殊]] : particularly
-1450. [[珠]] : pearl
-1451. [[腫]] : tumor
-1452. [[趣]] : gist
-1453. [[寿]] : 	壽	longevity
-1454. [[呪]] : curse
-1455. [[需]] : demand
-1456. [[儒]] : Confucian
-1457. [[囚]] : captured
-1458. [[舟]] : boat
-1459. [[秀]] : excel
-1460. [[臭]] : 	臭 stinking
-1461. [[袖]] : sleeve
-1462. [[羞]] : feel ashamed
-1463. [[愁]] : distress
-1464. [[酬]] : repay
-1465. [[醜]] : ugly
-1466. [[蹴]] : kick
-1467. [[襲]] : attack
-1468. [[汁]] : soup
-1469. [[充]] : allot
-1470. [[柔]] : tender
-1471. [[渋]] : 	澁	astringent
-1472. [[銃]] : gun
-1473. [[獣]] : 	獸	animal
-1474. [[叔]] : uncle
-1475. [[淑]] : graceful
-1476. [[粛]] : 	肅	solemn
-1477. [[塾]] : cram school
-1478. [[俊]] : genius
-1479. [[瞬]] : wink
-1480. [[旬]] : 10-day period (of the month)
-1481. [[巡]] : patrol
-1482. [[盾]] : shield
-1483. [[准]] : quasi-
-1484. [[殉]] : martyrdom
+1443. [酌](../../characters/酌.md) : bartending
+1444. [釈](../../characters/釈.md) : 	釋	explanation
+1445. [爵](../../characters/爵.md) : baron
+1446. [寂](../../characters/寂.md) : loneliness
+1447. [朱](../../characters/朱.md) : vermilion
+1448. [狩](../../characters/狩.md) : hunt
+1449. [殊](../../characters/殊.md) : particularly
+1450. [珠](../../characters/珠.md) : pearl
+1451. [腫](../../characters/腫.md) : tumor
+1452. [趣](../../characters/趣.md) : gist
+1453. [寿](../../characters/寿.md) : 	壽	longevity
+1454. [呪](../../characters/呪.md) : curse
+1455. [需](../../characters/需.md) : demand
+1456. [儒](../../characters/儒.md) : Confucian
+1457. [囚](../../characters/囚.md) : captured
+1458. [舟](../../characters/舟.md) : boat
+1459. [秀 (char)](../../characters/秀%20(char).md) : excel
+1460. [臭 (char)](../../characters/臭%20(char).md) : 	臭 stinking
+1461. [袖 (char)](../../characters/袖%20(char).md) : sleeve
+1462. [羞](../../characters/羞.md) : feel ashamed
+1463. [愁](../../characters/愁.md) : distress
+1464. [酬](../../characters/酬.md) : repay
+1465. [醜](../../characters/醜.md) : ugly
+1466. [蹴 (char)](../../characters/蹴%20(char).md) : kick
+1467. [襲](../../characters/襲.md) : attack
+1468. [汁 (char)](../../characters/汁%20(char).md) : soup
+1469. [充](../../characters/充.md) : allot
+1470. [柔 (char)](../../characters/柔%20(char).md) : tender
+1471. [渋](../../characters/渋.md) : 	澁	astringent
+1472. [銃 (char)](../../characters/銃%20(char).md) : gun
+1473. [獣](../../characters/獣.md) : 	獸	animal
+1474. [叔](../../characters/叔.md) : uncle
+1475. [淑](../../characters/淑.md) : graceful
+1476. [粛](../../characters/粛.md) : 	肅	solemn
+1477. [塾](../../characters/塾.md) : cram school
+1478. [俊](../../characters/俊.md) : genius
+1479. [瞬](../../characters/瞬.md) : wink
+1480. [旬](../../characters/旬.md) : 10-day period (of the month)
+1481. [巡](../../characters/巡.md) : patrol
+1482. [盾 (char)](../../characters/盾%20(char).md) : shield
+1483. [准](../../characters/准.md) : quasi-
+1484. [殉](../../characters/殉.md) : martyrdom
 1485. [循 (char)](../../characters/循%20(char).md) : sequential
 1486. [潤 (char)](../../characters/潤%20(char).md) : wet
 1487. [遵](../../characters/遵.md) : abide by
