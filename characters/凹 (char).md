@@ -1,14 +1,14 @@
 ---
-mandarin: "āo"
-cantonese: "aau3"
-korean: "요"
+mandarin: āo
+cantonese: aau3
+korean: 요
 korean_native: ""
 japanese:
   - OU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: ʔ
-middle_chinese_final: au
+middle_chinese_final: ɑu
 stroke_count: 5
 radical: 凵
 skip_number: 4-5-1
