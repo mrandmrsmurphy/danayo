@@ -2,6 +2,10 @@
 size: 12
 middle_chinese_final: ɣiuᴇn
 ---
+## Characters
+### To 'wen'
+1. <ruby>[転](/characters/転.md)<rt>ㄐˇㄝㄋ</rt></ruby> -> wen
+
 
 ## Datacheck
 ```base
