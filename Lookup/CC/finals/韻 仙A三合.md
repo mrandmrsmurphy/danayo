@@ -1,6 +1,6 @@
 ---
-size: 6
-middle_chinese_final: wei
+size: 23
+middle_chinese_final: iuᴇn
 ---
 
 ## Datacheck
@@ -8,10 +8,10 @@ middle_chinese_final: wei
 version: 1
 views:
   - type: table
-    name: Final wei
+    name: Final iuᴇn
     filters:
       and:
-        - middle_chinese_final == "wei"
+        - middle_chinese_final == "iuᴇn"
     order:
       - file.name
       - mandarin
