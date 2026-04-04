@@ -1,8 +1,7 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 
 ## 2+ Words
-- [[words/韻図]] in grammar/単亜語之文法書
-- 前提 in grammar/文法 - 01序文
+- [[前提]] in grammar/文法 - 01序文
 - 専門 in grammar/文法 - 01序文
 - 相関詞 in grammar/文法 - 01序文
 - 上代 in grammar/文法 - 01序文
@@ -723,25 +722,19 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鴎]] in syllables/ㄛˇ
 - [[鴨]] in lexipedia/Animals
 - [[兎]] in lexipedia/Animals, syllables/ㄊㄛ
-- [[鵰]] in lexipedia/Sophomore List
 - [[両]] in lexipedia/Numbers
-- words/車 in characters/車 (char)
 - [[而]] in words/与
 - 菲 in lexipedia/Geography, lookup/Korean/Korean Name ㅂ
 - [[㪘]] in characters/㪘 (char)
 - [[words/両]] in characters/両 (char)
 - [[words/乎]] in characters/乎 (char)
-- words/伍 in characters/伍 (char)
-- words/会 in characters/会 (char)
-- words/何 in characters/何 (char)
-- words/光 in characters/光 (char)
-- words/兎 in characters/兎 (char)
-- words/公 in characters/公 (char)
-- words/共 in characters/共 (char)
-- words/冊 in characters/冊 (char)
+- [[words/伍]] in characters/伍 (char)
+- [[words/会]] in characters/会 (char)
+- [[words/光]] in characters/光 (char)
+- [[words/兎]] in characters/兎 (char)
 - [[words/出]] in characters/出 (char)
-- words/分 in characters/分 (char)
-- 豦 in characters/劇 (char)
+- [[words/分]] in characters/分 (char)
+- [[豦 in characters/劇 (char)
 - words/卦 in characters/卦 (char)
 - words/台 in characters/台 (char)
 - words/咬 in characters/咬 (char)

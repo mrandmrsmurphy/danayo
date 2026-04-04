@@ -143,8 +143,20 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Programs : program, game, word processor, compiler
 - Internet : internet, email, web, website, download, browser, blog, post, flame, lurker, newb, chat
 - Disciplines : physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>, chemistry - <ruby>[[化学]]<rt>ㄏˇㄚㄏㄚㄎ</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
-- Physics : atom - <ruby>[[原子]]<rt>ˇㄝㄋㄐㄧ</rt></ruby>, molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>, energy, nuclear, particle, photon - <ruby>[[光子]]<rt>ㄍˇㄚㄥㄐㄧ</rt></ruby>, proton - <ruby>[[陽子]]<rt>˙ㄚㄥㄐㄧ</rt></ruby>, neutron - <ruby>[[../words/中子]]<rt>ㄐㄨㄥㄐㄧ</rt></ruby>, electron - <ruby>[[電子]]<rt>ㄉㄝㄋㄐㄧ</rt></ruby>
-- Biology : cell - <ruby>[[細胞]]<rt>ㄙㄝ˙ㄅ˙ㄚˇ</rt></ruby>, evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏˇㄚ</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>, gene
+- Physics
+	- atom - <ruby>[[原子]]<rt>ˇㄝㄋㄐㄧ</rt></ruby>,
+	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
+	- energy,
+	- nuclear,
+	- particle,
+	- photon - <ruby>[[光子]]<rt>ㄍˇㄚㄥㄐㄧ</rt></ruby>,
+	- proton - <ruby>[[陽子]]<rt>˙ㄚㄥㄐㄧ</rt></ruby>,
+	- neutron - [[中性子]]
+	- electron - <ruby>[[電子]]<rt>ㄉㄝㄋㄐㄧ</rt></ruby>
+- Biology :
+	- cell - <ruby>[[細胞]]<rt>ㄙㄝ˙ㄅ˙ㄚˇ</rt></ruby>,
+	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏˇㄚ</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
+	- gene
 - Substance : plastic
 - Appliance : stove, sink, dishwasher, refrigerator, washer, dryer, furnace, AC
 - Film : camera, film, photo, movie/video, animation, theater
@@ -159,7 +171,12 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Education : college, degree, masters, Ph.D
 - Economy : economy, banknote, credit card, dollar, euro, expenses, income, inflation, standard of living, unemployed, union, welfare, yen, yuan, won, taxes
 - Avocations : chess, rock, soccer, cigarette, drugs
-- Clothing : bikini - '''bikini''', bra - <ruby>[[乳押]]<rt>nu'ap</rt></ruby>, jeans, T-shirt, lipstick - <ruby>[[口紅]]<rt>kouhong</rt></ruby>
+- Clothing :
+	- bikini - '''biiginii''', [[比]][[基]][[尼]]
+	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>,
+	- jeans,
+	- T-shirt,
+	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛˇㄏㄛㄥ</rt></ruby>
 - Health : AIDS/HIV, allergy, addict, antibiotics, bacteria, vaccine, virus, vitamin 
 - Food : candy, hamburger, hot dog, pizza, sushi, taco, tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>, tomato
 - Belief : communism, socialism, fascism, republic, democracy, Green, human rights, liberal, conservative
@@ -206,4 +223,4 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- orange
 	- brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy
-- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[../words/鷹]], eagle - [[鵰]], dragon - <ruby>[[龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby>, ram - [[綿羊]]
+- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[../words/鷹]], eagle - [[../words/鵰]], dragon - <ruby>[[龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby>, ram - [[綿羊]]
