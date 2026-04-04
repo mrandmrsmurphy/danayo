@@ -66,6 +66,7 @@ kwin: true
 - [[中華民国]]
 - [[中間]]
 - [[暗中]]
+- <ruby>[中子](/words/中子.md)<rt>ㄐㄨㄥㄐㄧ</rt></ruby> - neutron
 - <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄥ</rt></ruby> - underwater
 
 ## Chengyu
