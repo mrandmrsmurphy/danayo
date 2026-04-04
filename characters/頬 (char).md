@@ -1,7 +1,7 @@
 ---
-mandarin: "jiá"
-cantonese: "gaap3"
-korean: "협"
+mandarin: jiá
+cantonese: gaap3
+korean: 협
 korean_native: 뺨
 japanese:
   - KYOU
@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - cheek
 羅馬字: gep
-韓文: 겊
+韓文: 겁
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 名
