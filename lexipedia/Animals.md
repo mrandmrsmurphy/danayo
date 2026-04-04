@@ -12,7 +12,7 @@ language: English
 - <ruby>[昆虫](words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄥ</rt></ruby> "bug", creepy crawly, insect+worm+snake
 - <ruby>[猫](words/猫.md)<rt>ㄇ˙ㄚˇ</rt></ruby> : cat, domestic feline
 - <ruby>[犬](words/犬.md)<rt>ㄎˇㄝㄋ</rt></ruby> : dog, the pet
-- <ruby>[[鴨]]<rt>ㄚㄆ</rt></ruby> : duck
+- <ruby>[[../words/鴨]]<rt>ㄚㄆ</rt></ruby> : duck
 - [[魚類]] : fish, a class of animal
 - [[馬]] : horse, members of the species Equus ferus
 - [[怪物]] : monster, mysterious figure

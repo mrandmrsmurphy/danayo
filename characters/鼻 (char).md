@@ -1,7 +1,7 @@
 ---
-mandarin: "bí"
-cantonese: "bei6"
-korean: "비"
+mandarin: bí
+cantonese: bei6
+korean: 비
 korean_native: ""
 japanese:
   - BI
@@ -14,11 +14,11 @@ stroke_count: 14
 radical: 鼻
 skip_number: 2-6-8
 grade_level: "2"
-pos: ""
+pos: 名詞
 english:
   - nose
 羅馬字: bi
-韓文:  비
+韓文: 비
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -28,6 +28,7 @@ graphemic_classification: 畀
 stand_in: 鼻
 aliases:
 注音: ㄅㄧ
+kwin: true
 ---
 >[!tip] This is a page about the character 鼻.
 >For the word, see [鼻](words/鼻.md)

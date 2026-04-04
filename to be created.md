@@ -717,10 +717,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- [[険]] in syllables/ㄏㄝㄇ
-- [[漆]] in syllables/ㄑㄧㄊ
-- [[鴎]] in syllables/ㄛˇ
-- [[鴨]] in lexipedia/Animals
+- [[words/鴨]] in lexipedia/Animals
 - [[兎]] in lexipedia/Animals, syllables/ㄊㄛ
 - [[両]] in lexipedia/Numbers
 - [[而]] in words/与
@@ -733,18 +730,15 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[words/光]] in characters/光 (char)
 - [[words/兎]] in characters/兎 (char)
 - [[words/出]] in characters/出 (char)
-- [[words/分]] in characters/分 (char)
-- [[豦 in characters/劇 (char)
-- words/卦 in characters/卦 (char)
-- words/台 in characters/台 (char)
-- words/咬 in characters/咬 (char)
-- words/在 in characters/在 (char)
-- words/太 in characters/太 (char)
+- [[豦]] in characters/劇 (char)
+- [[words/卦]] in characters/卦 (char)
+- [[words/咬]] in characters/咬 (char)
+- [[words/太]] in characters/太 (char)
 - [[words/女]] in characters/女 (char)
 - words/宙 in characters/宙 (char)
 - words/就 in characters/就 (char)
 - [[words/山]] in characters/山 (char)
-- words/州 in characters/州 (char)
+- [[words/州]] in characters/州 (char)
 - words/帆 in characters/帆 (char)
 - words/朕 in characters/朕 (char)
 - words/未 in characters/未 (char)
@@ -754,7 +748,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/業 in characters/業 (char)
 - 歯 in characters/歯 (char)
 - [[words/水]] in characters/水 (char)
-- words/洲 in characters/洲 (char)
+- [[words/洲]] in characters/洲 (char)
 - words/漆 in characters/漆 (char)
 - 廌 in characters/灋
 - words/番 in characters/番 (char)
@@ -771,7 +765,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/関 in characters/関 (char)
 - words/険 in characters/険 (char)
 - words/隼 in characters/隼 (char)
-- [[words/雨]] in characters/雨 (char)
 - words/雪 in characters/雪 (char)
 - words/雷 in characters/雷 (char)
 - words/霜 in characters/霜 (char)
@@ -792,7 +785,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/鮎 in characters/鮎 (char)
 - words/鮑 in characters/鮑 (char)
 - words/鱏 in characters/鱏 (char)
-- words/鳥 in characters/鳥 (char)
 - words/鳴 in characters/鳴 (char)
 - words/鳶 in characters/鳶 (char)
 - words/鴎 in characters/鴎 (char)
@@ -802,31 +794,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - words/鷹 in characters/鷹 (char)
 - words/鹸 in characters/鹸 (char)
 - words/麺 in characters/麺 (char)
-- words/黄 in characters/黄 (char)
-- 在 in grammar/文法 - 97品詞, syllables/ㄐㄚ˙
-- 莫 in grammar/文法 - 97品詞
-- 于 in grammar/文法 - 97品詞
-- 共 in grammar/文法 - 97品詞
-- 由 in grammar/文法 - 97品詞
-- 様 in grammar/文法 - 97品詞
-- 公 in grammar/文法 - 97品詞
-- 未 in grammar/文法 - 97品詞
-- 某 in grammar/文法 - 97品詞
-- 皆 in grammar/文法 - 97品詞
-- 多 in grammar/文法 - 97品詞
-- 朕 in grammar/文法 - 97品詞, words/我
-- 台 in grammar/文法 - 97品詞
-- 匹 in grammar/文法 - 97品詞
-- 冊 in grammar/文法 - 97品詞
-- 枚 in grammar/文法 - 97品詞, syllables/ㄇㄛ˙
-- 条 in grammar/文法 - 97品詞, syllables/ㄐㄛ
-- 番 in grammar/文法 - 97品詞
-- 束 in grammar/文法 - 97品詞
-- 鳥 in grammar/文法 - 97品詞
-- 草 in grammar/文法 - 97品詞
-- 何 in grammar/文法 - 97品詞, lexipedia/Grammar, lexipedia/Swadesh
-- 誰 in grammar/文法 - 97品詞, lexipedia/Grammar, lexipedia/Swadesh, words/何人
-- words/鼻 in characters/鼻 (char)
+- [[words/鼻]] in characters/鼻 (char)
 
 ## Chengyu
 - 形助顯理 in chengyu/Dan'a'yo Chengyu, grammar/文法 - 05形態

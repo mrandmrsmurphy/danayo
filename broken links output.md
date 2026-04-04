@@ -965,7 +965,7 @@
 - [[譬]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
 - [[凭]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[憑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
-- [[漆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[syllables/ㄑㄧㄊ]]
+- [[words/漆]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[syllables/ㄑㄧㄊ]]
 - [[袍]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅍ]]
 - [[帜]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
 - [[谦]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]

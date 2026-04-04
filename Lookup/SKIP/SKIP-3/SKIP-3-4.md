@@ -2,7 +2,21 @@
 aliases:
 date-last-perfect: 2026-02-02
 ---
-> [[SKIP]] : 3
+> [SKIP](../SKIP.md) : 3
+
+```dataviewjs
+const pages = dv.pages()
+  .where(p => p.skip_number === "3-4-13")
+// or stricter: .where(p => p["your_property"] === "value")
+// or for numbers/strings/etc: adjust comparison as needed
+
+const titles = pages
+  .map(p => p.file.name)
+  .sort()                    // optional: alphabetical sort
+  .join(", ");
+
+dv.paragraph(titles || "No matching pages");
+````
 
 1. No
 2. [[SKIP-3-4-2]]
@@ -17,8 +31,8 @@ date-last-perfect: 2026-02-02
 11. [[SKIP-3-4-11]]
 12. [[SKIP-3-4-12]]
 13. [[SKIP-3-4-13]]
-14. [[SKIP-3-4-14]]
-15. [[SKIP-3-4-15]]
+14. [[SKIP-3-4-14]]: ø
+15. [[SKIP-3-4-15]]: ø
 16. none
 17. none
 18. none

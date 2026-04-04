@@ -1,7 +1,7 @@
 ---
-mandarin: "ōu"
-cantonese: "au1"
-korean: "구"
+mandarin: ōu
+cantonese: au1
+korean: 구
 korean_native: 갈매기
 japanese:
   - OU
@@ -14,7 +14,7 @@ middle_chinese_final: əu
 stroke_count: 15
 radical: 鳥
 skip_number: 1-4-11
-grade_level: "名"
+grade_level: 名
 pos: 名詞
 english:
   - seagull
@@ -29,6 +29,7 @@ graphemic_classification: 区
 stand_in: 鴎
 aliases:
   - 鷗
+  - 鸥
 注音: ㄛˇ
 ---
 >[!tip] This is a page about the character 鴎.

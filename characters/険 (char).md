@@ -7,6 +7,7 @@ japanese:
   - KEN
 japanese_nanori: ""
 vietnamese:
+  - hiểm
 middle_chinese_initial: x
 middle_chinese_final: ɣiᴇm
 stroke_count: 11
