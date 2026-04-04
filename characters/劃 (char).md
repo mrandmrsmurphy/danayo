@@ -1,18 +1,18 @@
 ---
-mandarin: "huà"
-cantonese: "waak6"
-korean: "획"
+mandarin: huà
+cantonese: waak6
+korean: 획
 korean_native: ""
 japanese:
   - KAKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: wɣɛk
+middle_chinese_final: ɣwɛk
 stroke_count: 14
 radical: 刀
 skip_number: 1-12-2
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - divide
