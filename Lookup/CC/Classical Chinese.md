@@ -11,7 +11,25 @@ We list the most popular characters from across these time period, 1000 at a tim
 
 From the Late Medieval (~1200), there come the Rime Tables of sounds
 
+## Initials Check
+```base
+filters:
+  and:
+    - file.inFolder("lookup/CC/initials")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - size
+      - middle_chinese_initial
+    sort:
+      - property: size
+        direction: DESC
 
+```
+
+## Finals Check
 ```base
 filters:
   and:
