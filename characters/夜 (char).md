@@ -1,7 +1,7 @@
 ---
-mandarin: "yè"
-cantonese: "je6"
-korean: "야"
+mandarin: yè
+cantonese: je6
+korean: 야
 korean_native: 밤
 japanese:
   - YA
@@ -18,7 +18,7 @@ grade_level: "1"
 pos: 名詞
 english:
   - night
-羅馬字: "'yam"
+羅馬字: "'ya"
 韓文: 야
 joyo_level: "2"
 hsk_level: "1"

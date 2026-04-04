@@ -1,7 +1,7 @@
 ---
-mandarin: "yě"
-cantonese: "jaa5"
-korean: "야"
+mandarin: yě
+cantonese: jaa5
+korean: 야
 korean_native: ""
 japanese:
   - YA
@@ -17,7 +17,7 @@ pos: ""
 english:
   - as for
   - EMPHASIS
-羅馬字: "'yam"
+羅馬字: "'ya"
 韓文: 야
 joyo_level: 日本人名用漢字
 hsk_level: "1"
