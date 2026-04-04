@@ -1,6 +1,6 @@
 ---
-size: 37
-middle_chinese_final: ʉɐn
+size: 44
+middle_chinese_final: iᴇu
 ---
 
 ## Datacheck
@@ -8,10 +8,10 @@ middle_chinese_final: ʉɐn
 version: 1
 views:
   - type: table
-    name: Final ʉɐn
+    name: Final iᴇu
     filters:
       and:
-        - middle_chinese_final == "ʉɐn"
+        - middle_chinese_final == "iᴇu"
     order:
       - file.name
       - mandarin
