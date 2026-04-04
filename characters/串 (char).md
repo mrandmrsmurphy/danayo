@@ -1,15 +1,15 @@
 ---
-mandarin: "chuàn"
-cantonese: "cyun3"
-korean: "곶"
+mandarin: chuàn
+cantonese: cyun3
+korean: 곶
 korean_native: 곶
 japanese:
   - SEN
   - KAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: k
-middle_chinese_final: ɣuan
+middle_chinese_initial: t͡ɕʰ
+middle_chinese_final: iuᴇn
 stroke_count: 7
 radical: 丨
 skip_number: 4-7-3

@@ -1,14 +1,14 @@
 ---
-mandarin: "jīng"
-cantonese: "hang1"
-korean: "경"
+mandarin: jīng
+cantonese: hang1
+korean: 경
 korean_native: 줄기
 japanese:
   - KEI
   - KOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
+middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛŋ
 stroke_count: 8
 radical: 艸
