@@ -6,7 +6,7 @@ date-last-perfect: 2026-02-02
 
 ```dataviewjs
 const pages = dv.pages()
-  .where(p => p.skip_number === "3-4-13")
+  .where(p => p.skip_number === "3-4-12")
 // or stricter: .where(p => p["your_property"] === "value")
 // or for numbers/strings/etc: adjust comparison as needed
 
@@ -30,7 +30,7 @@ dv.paragraph(titles || "No matching pages");
 10. [[SKIP-3-4-10]]
 11. [[SKIP-3-4-11]]
 12. [[SKIP-3-4-12]]
-13. [[SKIP-3-4-13]]
+13. [[SKIP-3-4-13]]: 遽, 邁
 14. [[SKIP-3-4-14]]: ø
 15. [[SKIP-3-4-15]]: ø
 16. none
