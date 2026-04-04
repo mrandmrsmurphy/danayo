@@ -25,6 +25,6 @@ views:
       - middle_chinese_final
     sort:
       - property: size
-        direction: ASC
+        direction: DESC
 
 ```
