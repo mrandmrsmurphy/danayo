@@ -1,7 +1,7 @@
 ---
-mandarin: "xún"
-cantonese: "cam4"
-korean: "심"
+mandarin: xún
+cantonese: cam4
+korean: 심
 korean_native: ""
 japanese:
   - SHIN
@@ -9,12 +9,12 @@ japanese:
   - IN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: j
+middle_chinese_initial: z
 middle_chinese_final: iɪm
 stroke_count: 23
 radical: 魚
 skip_number: 1-11-12
-grade_level: "名"
+grade_level: 名
 pos: ""
 english:
   - ray
