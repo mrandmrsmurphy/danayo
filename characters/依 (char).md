@@ -1,7 +1,7 @@
 ---
-mandarin: "yī"
-cantonese: "ji1"
-korean: "의"
+mandarin: yī
+cantonese: ji1
+korean: 의
 korean_native: ""
 japanese:
   - I
@@ -17,7 +17,7 @@ grade_level: "4"
 pos: ""
 english:
   - rely on
-  - be set in
+  - accord with
 羅馬字: "'ii"
 韓文: 의
 joyo_level: 高等
@@ -26,7 +26,7 @@ hanmun_edu_level: 中
 danayo_id: 4016
 mc_id: 1211
 graphemic_classification: 衣
-stand_in: 依據
+stand_in: 依
 aliases:
 注音: ㄧ˙
 ---

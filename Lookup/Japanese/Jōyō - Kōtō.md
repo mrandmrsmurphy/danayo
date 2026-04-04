@@ -7,7 +7,7 @@
 1032. [扱 (char)](characters/扱%20(char).md) : handle
 1033. [宛](characters/宛.md) : allocate
 1034. [嵐](characters/嵐.md) : storm
-1035. [依](characters/依.md) : reliant
+1035. [依 (char)](../../characters/依%20(char).md) : reliant
 1036. [威](characters/威.md) : intimidate
 1037. [為 (char)](characters/為%20(char).md) : 	爲	do
 1038. [畏 (char)](characters/畏%20(char).md) : fear

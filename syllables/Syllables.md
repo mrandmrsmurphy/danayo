@@ -185,6 +185,7 @@ views:
       - 注音
       - 羅馬字
       - 韓文
+      - english
     sort:
       - property: size
         direction: DESC
@@ -197,7 +198,9 @@ views:
       - property: date-last-perfect
         direction: DESC
     columnSize:
-      note.size: 129
+      file.name: 85
+      note.size: 47
       note.注音: 81
+      note.韓文: 57
 
 ```
