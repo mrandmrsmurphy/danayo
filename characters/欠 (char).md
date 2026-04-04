@@ -1,14 +1,14 @@
 ---
-mandarin: "qiàn"
-cantonese: "him3"
-korean: "흠"
+mandarin: qiàn
+cantonese: him3
+korean: 흠
 korean_native: 하품
 japanese:
   - KETSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: kʰ
-middle_chinese_final: ɨɐm
+middle_chinese_final: ɨam
 stroke_count: 4
 radical: 缶
 skip_number: 2-2-2
