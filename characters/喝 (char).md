@@ -1,15 +1,15 @@
 ---
-mandarin: "hē"
-cantonese: "hot3"
-korean: "갈"
+mandarin: hē
+cantonese: hot3
+korean: 갈
 korean_native: ""
 japanese:
   - KATSU
   - AI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: ɣai
+middle_chinese_initial: h
+middle_chinese_final: ɑt
 stroke_count: 11
 radical: 口
 skip_number: 1-3-8

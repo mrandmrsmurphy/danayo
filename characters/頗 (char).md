@@ -1,7 +1,7 @@
 ---
-mandarin: "pō pǒ"
-cantonese: "po2"
-korean: "파"
+mandarin: pō pǒ
+cantonese: po2
+korean: 파
 korean_native: ""
 japanese:
   - HA
@@ -16,8 +16,8 @@ grade_level: "1"
 pos: ""
 english:
   - very
-羅馬字: pad
-韓文: 파
+羅馬字: pya
+韓文: 퍄
 joyo_level: 日本人名用漢字
 hsk_level: "4"
 hanmun_edu_level: 高等
@@ -27,7 +27,7 @@ graphemic_classification: 皮
 stand_in: 頗
 aliases:
   - 颇
-注音: ㄆㄚㄊ
+注音: ㄆ˙ㄚ
 ---
 >[!tip] This is a page about the character 頗.
 >For the word, see [頗](words/頗.md)

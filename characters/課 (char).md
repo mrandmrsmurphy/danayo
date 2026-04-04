@@ -36,5 +36,5 @@ aliases:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- pronunciation altered to get a free syllable
