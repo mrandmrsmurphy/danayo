@@ -187,10 +187,10 @@ views:
       - 韓文
       - english
     sort:
-      - property: 韓文
-        direction: ASC
       - property: size
         direction: DESC
+      - property: 韓文
+        direction: ASC
       - property: 注音
         direction: ASC
       - property: file.name
