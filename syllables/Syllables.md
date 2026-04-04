@@ -186,6 +186,8 @@ views:
       - 羅馬字
       - 韓文
     sort:
+      - property: size
+        direction: DESC
       - property: 注音
         direction: ASC
       - property: 韓文
@@ -194,9 +196,8 @@ views:
         direction: ASC
       - property: date-last-perfect
         direction: DESC
-      - property: size
-        direction: ASC
     columnSize:
+      note.size: 129
       note.注音: 81
 
 ```

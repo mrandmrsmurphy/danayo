@@ -617,7 +617,7 @@
 [辛](../../characters/辛.md): 1
 [苦 (char)](../../characters/苦%20(char).md): 1
 [闻](../../characters/聞%20(char).md): 1
-[封](../../characters/封.md): 1
+[封 (char)](../../characters/封%20(char).md): 1
 [幸](../../characters/幸.md): 1
 [福 (char)](../../characters/福%20(char).md): 1
 [休](../../characters/休.md): 1

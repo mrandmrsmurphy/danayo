@@ -1,7 +1,7 @@
 ---
-mandarin: "zhàn"
-cantonese: "zim1"
-korean: "점"
+mandarin: zhàn
+cantonese: zim1
+korean: 점
 korean_native: ""
 japanese:
   - SEN
@@ -24,7 +24,7 @@ hanmun_edu_level: 高等
 danayo_id: 4043
 mc_id: 1107
 graphemic_classification: 指事
-stand_in: 占有
+stand_in: 占
 aliases:
 注音: ㄐㄝㄇ
 ---

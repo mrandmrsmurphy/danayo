@@ -25,7 +25,7 @@ hanmun_edu_level: 高等
 danayo_id: 4080
 mc_id: 175
 graphemic_classification: 會意
-stand_in: 封印
+stand_in: 封
 aliases:
 注音: ㄅㄛㄥ
 ---

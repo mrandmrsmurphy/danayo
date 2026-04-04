@@ -11,7 +11,7 @@ skip_number: 2-2-3
 - <ruby>[[市]]<rt>ㄙㄧ</rt></ruby>
 - <ruby>[[写]]<rt>ㄙ˙ㄚ</rt></ruby>
 - <ruby>[[召]]<rt>ㄙ˙ㄛˇ</rt></ruby>
-- <ruby>[[占]]<rt>ㄐㄝㄇ</rt></ruby>
+- <ruby>[[../../../characters/占 (char)]]<rt>ㄐㄝㄇ</rt></ruby>
 - <ruby>[[台 (char)]]<rt>ㄅ˙ㄚㄋ</rt></ruby>
 - <ruby>[[乍]]<rt>ㄐㄚ</rt></ruby>
 - <ruby>[[弁]]<rt>ㄅ˙ㄚㄋ</rt></ruby>

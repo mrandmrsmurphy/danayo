@@ -285,7 +285,7 @@
 [腹 (char)](../../characters/腹%20(char).md) (배 복)  [複](../../characters/複.md) (겹칠 복)  [卜](../../characters/卜.md) (점 복)  [覆](../../characters/覆.md) (뒤집힐 복)
 
 #### 봉
-[峯](../../characters/峰.md) (봉우리 봉=峰)  [蜂 (char)](../../characters/蜂%20(char).md) (벌 봉)  [封](../../characters/封.md) (봉할 봉)  [鳳](../../characters/鳳.md) (봉황새 봉)
+[峯](../../characters/峰.md) (봉우리 봉=峰)  [蜂 (char)](../../characters/蜂%20(char).md) (벌 봉)  [封 (char)](../../characters/封%20(char).md) (봉할 봉)  [鳳](../../characters/鳳.md) (봉황새 봉)
 
 #### 부
 [付](../../characters/付.md) (줄 부)  [符](../../characters/符.md) (부신 부)  [附 (char)](../../characters/附%20(char).md) (붙을 부)  [府](../../characters/府.md) (마을 부)  [腐](../../characters/腐.md) (썩을 부)  [負 (char)](../../characters/負%20(char).md) (질 부)  [副 (char)](../../characters/副%20(char).md) (버금 부)  [簿](../../characters/簿.md) (장부 부)  [赴 (char)](../../characters/赴%20(char).md) (나아갈 부)  [賦 (char)](../../characters/賦%20(char).md) (구실 부)
@@ -497,7 +497,7 @@
 #### 절
 [[切]] (끊을 절)  [[折]] (꺾을 절)  [[窃|竊]] (훔칠 절)
 #### 점
-[[占]] (차지할 점)  [[点 (char)|點]] (점 점)  [[漸]] (점점 점)
+[[../../characters/占 (char)]] (차지할 점)  [[点 (char)|點]] (점 점)  [[漸]] (점점 점)
 #### 접
 [[蝶]] (나비 접)
 #### 정

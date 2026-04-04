@@ -577,7 +577,7 @@
 1601. [窃](../../characters/窃.md) : 	[[窃|竊]]	stealth
 1602. [摂 (char)](../../characters/摂%20(char).md) : 	[[摂|攝]]	vicarious
 1603. [仙](../../characters/仙.md) : hermit
-1604. [占](../../characters/占.md) : fortune telling
+1604. [占 (char)](../../characters/占%20(char).md) : fortune telling
 1605. [扇](../../characters/扇.md) : fan
 1606. [栓 (char)](../../characters/栓%20(char).md) : plug
 1607. [旋](../../characters/旋.md) : rotation
@@ -895,7 +895,7 @@
 1918. [[譜]] : musical score
 1919. [[侮]] : 	侮 scorn
 1920. [[舞]] : dance
-1921. [[封]] : seal
+1921. [[../../characters/封 (char)]] : seal
 1922. [[伏]] : prostrated
 1923. [[幅]] : breadth
 1924. [[覆]] : capsize
