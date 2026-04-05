@@ -38,3 +38,4 @@ aliases:
 
 ### Derived Characters
 -  <ruby>[爺](/characters/爺.md)<rt>˙ㄚ</rt></ruby> - grandpa
+- <ruby>[椰](/characters/椰.md)<rt>˙ㄚ</rt></ruby> - coconut
