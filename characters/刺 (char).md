@@ -1,20 +1,25 @@
 ---
-mandarin: "cì"
-cantonese: "ci3"
-korean: "자"
-korean_native: ""
+mandarin: cì
+cantonese: ci3
+korean: 자
+korean_native: 찌를
 japanese:
   - SHI
   - SEKI
-japanese_nanori: ""
+japanese_nanori:
+  - さ-す
+  - さ-さる
 vietnamese:
+  - thứ
+  - thích
+  - chích
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iᴇk
 stroke_count: 12
 radical: 刀
 skip_number: 1-6-6
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - stab
   - prick
@@ -22,7 +27,7 @@ english:
 羅馬字: cig
 韓文: 칙
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5300
 mc_id: 497
@@ -34,9 +39,8 @@ aliases:
 ---
 >[!tip] This is a page about the character 刺.
 >For the word, see [刺](words/刺.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Also pronounced in MC as tsʰiᴇ
