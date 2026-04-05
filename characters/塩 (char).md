@@ -1,7 +1,7 @@
 ---
-mandarin: "yán"
-cantonese: "jim4"
-korean: "염"
+mandarin: yán
+cantonese: jim4
+korean: 염
 korean_native: ""
 japanese:
   - EN
@@ -27,6 +27,7 @@ graphemic_classification: 監
 stand_in: 塩
 aliases:
   - 鹽
+  - 盐
 注音: ˙ㄝㄇ
 ---
 >[!tip] This is a page about the character 塩.
