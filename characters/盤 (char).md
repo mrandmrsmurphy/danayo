@@ -1,7 +1,7 @@
 ---
-mandarin: "pán"
-cantonese: "pun4"
-korean: "반"
+mandarin: pán
+cantonese: pun4
+korean: 반
 korean_native: ""
 japanese:
   - BAN
@@ -29,6 +29,7 @@ stand_in: 盤
 aliases:
   - 盘
   - 蟠
+  - 槃
 注音: ㄅㄚㄋ
 ---
 >[!tip] This is a page about the character 盤.
