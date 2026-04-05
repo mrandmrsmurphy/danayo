@@ -180,7 +180,6 @@
 [軸 (char)](../../characters/軸%20(char).md)
 [楷 (char)](../../characters/楷%20(char).md)
 [[詰]]
-[[瘍]]
 [妙 (char)](../../characters/妙%20(char).md)
 [[淑]]
 [[痴]]
