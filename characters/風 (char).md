@@ -30,6 +30,8 @@ stand_in: 風
 aliases:
   - 风
   - 渢
+  - 讽
+  - 諷
 注音: ㄆㄨㄥ
 ---
 >[!tip] This is about the character.  For the word, see [[../words/風]].
