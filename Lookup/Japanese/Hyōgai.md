@@ -336,84 +336,8 @@
 335. [篆](../../characters/篆.md)
 
 
-## Unchecked
-[轍](../../characters/綴%20(char).md)
-[塡](../../characters/填%20(char).md)
-[澱](../../characters/淀.md)
-淘 --> 陶
-[托](../../characters/託.md) 
-[鐸](../../characters/鈬%20(char).md)
-[竈](../../characters/竃.md)
-[疏](../../characters/疎.md)
-[甦](../../characters/蘇.md)
-[揃](../../characters/前%20(char).md)
-[撰](../../characters/選.md)
-[賤](../../characters/賎.md)
-[癬](../../characters/鮮.md)
-[蠣](../../characters/厉%20(char).md)
-[煉](../../characters/錬.md)
-[鸞](../../characters/鵉.md)
-[瀾](../../characters/乱.md)
-[痒](../../characters/瘍.md)
-[熔](../../characters/溶.md)
-[蠅](../../characters/蝿.md)
-[萊](../../characters/莱.md)
-[猷](../../characters/猶%20(char).md)
-[俣](../../characters/俁.md)
-[瞞](../../characters/𥈞.md)
-[瞑](../../characters/冥%20(char).md)
-[朦](../../characters/蒙.md)
-[栖](../../characters/棲.md)
-[臍](../../characters/𦜝.md)
-[腑](../../characters/府.md)
-[孵](../../characters/孚.md)
-[諷](../../characters/風%20(char).md)
-[媚](../../characters/眉%20(char).md)
-[儘](../../characters/尽.md)
-[隧](../../characters/遂.md)
-[畠](../../characters/田.md)
-[醱](../../characters/発%20(char).md)
-[槃](../../characters/盤%20(char).md)
-[囊](../../characters/嚢.md)
-[杷](../../characters/把.md)
-[禰](../../characters/祢.md)
-[跏](../../characters/加.md)
-[眩](../../characters/玄%20(char).md)
-[崗](../../characters/岡.md)
-[邇](../../characters/爾%20(char).md)
-[膀](../../characters/旁.md)
-[歎](../../characters/嘆%20(char).md)
-[筑](../../characters/築.md)
-[蹟](../../characters/跡.md)
-[泄](../../characters/洩.md)
-[閤](../../characters/合%20(char).md)
-[曠](../../characters/広%20(char).md)
-[濠](../../characters/豪.md)
-[轟](../../characters/軣.md)
-[剋](../../characters/克%20(char).md)
-[渾](../../characters/混.md)
-[撒](../../characters/散.md)
-[霰](../../characters/散.md)
-[攢](../../characters/攅.md) 
-[讃](../../characters/𧦅.md)
-[仔](../../characters/子.md)
-[𠮟](../../characters/叱.md)
-[娑](../../characters/沙%20(char).md)
-[綬](../../characters/綏.md)
-[輯](../../characters/集.md)
-[摺](../../characters/折.md)
-[漿](../../characters/将%20(char).md)
-[蕭](../../characters/䔥.md)
-[攘](../../characters/㐮.md)
-[蝕](../../characters/食%20(char).md)
-[芯](../../characters/心%20(char).md)
-[瀆](../../characters/涜.md)
-[吞](../../characters/呑.md)
-[濤](../../characters/涛.md)
-[鍼](../../characters/針%20(char).md)
-
 [[吠]] - barking DO IT
-### Checked
+## Checked
 [[辿]] [[唸]] [[囀]] [[臀]] [[鵜]] [[薙]] [[碇]] [[煽]] 
 [[棹]] [[樋]] [[鎚]] [[辻]] [[掟]] [[梯]] [[捗]] [[瀦]] [[躇]] [[銚]] [[楮]] [[疇]] [[躊]] [[毯]] 
 [[襷]] [[燵]] [[疸]] [[頽]] [[碓]] [[囃]] [[鰺]] [[杣]] [[噂]] [[咤]] [[荼]] [[驒]] [[艘]] [[甑]]  [[齟]] [[叟]]
@@ -424,7 +348,8 @@
 [[閾]] [[溢]] [[隕]] [[穢]] [[裔]] [[歉]] [[猥]] [[隈]] [[罠]] [[翳]] [[腋]] [[嚥]] [[廓]] [[摑]] [[筵]] [[甕]]
 [[瑕]] [[榎]] [[訝]] [[衙]] [[徊]] [[鰊]] [[攣]] [[鶯]] [[俤]]
 [[漉]] [[愕]] [[萼]] [[諤]] [[樫]] [[絣]] [[宦]] [[涵]] [[澗]] [[翰]] [[瞰]] [[檻]] [[頷]] [[耆]] [[揆]]
-[[櫃]] [[屹]] [[拮]] [[謔]] [[笈]] [[舅]] [[炬]] [[噓]] [[欅]] [[怯]] [[莢]] [[橿]] [[疆]] [[髷]] [[軀]] [[粂]] [[畦]]
+[[櫃]] [[屹]] [[拮]] [[謔]] [[笈]] [[舅]] [[炬]] [[噓]] [[欅]] [[怯]] 
+[[莢]] [[橿]] [[疆]] [[髷]] [[軀]] [[粂]] [[畦]]
 [[痙]] [[禊]] [[髻]] [[蹊]] [[鮭]] [[睨]] [[抉]] [[蕨]] [[姸]] [[虔]] [[腱]] [[呟]] [[涸]] [[菰]] [[齬]] 
 [[覗]] [[嗜]] [[滓]] [[熾]] [[髭]] [[贄]] [[峙]] [[痔]] [[恍]] [[狡]] [[匂]] [[襞]] [[椀]]
 [[榜]] [[冑]] [[紐]] [[贅]] [[晰]] [[舐]] [[疵]] [[趾]] [[篝]] [[壙]] [[靱]] [[斃]]
@@ -432,10 +357,83 @@
 [[柘]] [[闍]] [[杓]] [[諏]] [[竪]] [[濡]] [[襦]] [[箒]] [[褥]] [[沁]]
 [[揉]] [[楯]] [[杵]] [[薯]] [[秤]] [[娼]] [[廂]] [[鈔]] [[睫]] [[蛸]] [[聳]] [[囁]] 
 
-[饒舌](../../words/饒舌.md)
-
 
 ## Redirects
+- 轍 --> 綴
+- 塡 --> 填
+- 澱 --> 淀
+- 淘 --> 陶
+- 托 --> 託
+- 鐸 --> 鈬
+- 竈 --> 竃
+- 疏 --> 疎
+- 甦 --> 蘇
+- 揃](../../characters/前%20(char).md)
+- 撰 --> 選
+- 賤](../../characters/賎.md)
+- 癬 --> 鮮
+- 蠣](../../characters/厉%20(char).md)
+- 煉 --> 錬
+- 鸞](../../characters/鵉.md)
+- 瀾 --> 乱
+- 痒](../../characters/瘍.md)
+- 熔 --> 溶
+- 蠅](../../characters/蝿.md)
+- 萊 --> 莱
+- 猷](../../characters/猶%20(char).md)
+- 俣 --> 俁
+- 瞞](../../characters/𥈞.md)
+- 瞑 --> 冥
+- 朦 --> 蒙
+- 栖](../../characters/棲.md)
+- 臍 --> 𦜝.md)
+[腑](../../characters/府.md)
+[孵 --> 孚
+[諷](../../characters/風%20(char).md)
+[媚 --> 眉
+[儘 --> 尽
+[隧](../../characters/遂.md)
+[畠 --> 田
+[醱](../../characters/発%20(char).md)
+[槃 --> 盤
+[囊 --> 嚢
+[杷](../../characters/把.md)
+[禰 --> 祢
+[跏](../../characters/加.md)
+[眩 --> 玄
+[崗 --> 岡
+[邇](../../characters/爾%20(char).md)
+[膀 --> 旁
+[歎](../../characters/嘆%20(char).md)
+[筑 --> 築
+[蹟](../../characters/跡.md)
+[泄 --> 洩
+[閤](../../characters/合%20(char).md)
+[曠 --> 広
+[濠 --> 豪
+[轟](../../characters/軣.md)
+[剋 --> 克
+[渾 --> 混
+[撒](../../characters/散.md)
+[霰 --> 散
+[攢](../../characters/攅.md) 
+[讃 --> 𧦅
+[仔](../../characters/子.md)
+[𠮟 --> 叱
+[娑](../../characters/沙%20(char).md)
+[綬 --> 綏
+[輯](../../characters/集.md)
+[摺 --> 折
+[漿](../../characters/将%20(char).md)
+[蕭 --> 䔥
+[攘](../../characters/㐮.md)
+[蝕 --> 食
+[芯 --> 心
+[瀆 --> 涜
+[吞](../../characters/呑.md)
+[濤 --> 涛
+[鍼](../../characters/針%20(char).md)
+[饒 --> 尭
 - 南 <-- 喃
 - 嚙->[噛](../../characters/咬%20(char).md)
 - 鰻 --> 曼
