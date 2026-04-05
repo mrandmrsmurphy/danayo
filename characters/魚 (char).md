@@ -1,11 +1,12 @@
 ---
-mandarin: "yú"
-cantonese: "jyu4"
-korean: "어"
-korean_native: ""
+mandarin: yú
+cantonese: jyu4
+korean: 어
+korean_native: 물고기
 japanese:
   - GYO
-japanese_nanori: ""
+japanese_nanori:
+  - うお,さかな
 vietnamese:
   - ngư
 middle_chinese_initial: ŋ
