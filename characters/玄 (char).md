@@ -1,7 +1,7 @@
 ---
-mandarin: "xuán"
-cantonese: "jyun4"
-korean: "현"
+mandarin: xuán
+cantonese: jyun4
+korean: 현
 korean_native: ""
 japanese:
   - GEN
@@ -14,7 +14,7 @@ stroke_count: 5
 radical: 玄
 skip_number: 2-2-3
 grade_level: "6"
-pos: ""
+pos: 性詞
 english:
   - deep
   - profound
@@ -29,6 +29,7 @@ mc_id: 659
 graphemic_classification: 象形
 stand_in: 玄
 aliases:
+  - 眩
 注音: ㄏˇㄝㄋ
 ---
 >[!tip] This is a page about the character 玄.
