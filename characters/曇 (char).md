@@ -1,7 +1,7 @@
 ---
-mandarin: "tán"
-cantonese: "taam4"
-korean: "담"
+mandarin: tán
+cantonese: taam4
+korean: 담
 korean_native: 날이 흐리다
 japanese: DON
 japanese_nanori: くも-る
@@ -19,8 +19,8 @@ english: overcast
 joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名
-danayo_id: "4391"
-mc_id: ""
+danayo_id: 4391
+mc_id:
 graphemic_classification: 旦
 stand_in: 曇
 aliases:

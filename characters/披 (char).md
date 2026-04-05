@@ -35,5 +35,5 @@ stand_in: 披
 ```
 
 Pronunciation altered to allow solo use
-* [[披瀝]] to state one's opinion
+* [[../words/披歴]] to state one's opinion
 * [[披露]] to announce/display

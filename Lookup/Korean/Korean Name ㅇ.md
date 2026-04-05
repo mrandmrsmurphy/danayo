@@ -79,7 +79,8 @@ All have been checked for redirects.
 [[燁]] [[曄]] [[熀]] 
 
 ### 영 
-[[渶]] [[煐]] [瑛](characters/瑛.md) [瑩](characters/瑛.md) [[瀯]] [盈](characters/盈.md) [[楹]] [[鍈]] [嬰](characters/嬰.md) [穎](characters/頴.md) [[瓔]] [咏](characters/詠%20(char).md) [[塋]] [[嶸]] [[潁]] [[瀛]] [[纓]] [[霙]] [[嬴]] [[𢥏]] [[蠑]] [[朠]] [[瀯]] ([[濚]])
+[[渶]] [[煐]] [瑛](characters/瑛.md) [瑩](characters/瑛.md) [[瀯]] [盈](characters/盈.md) [[楹]] [[鍈]] [嬰](characters/嬰.md) [穎](characters/頴.md) [[瓔]] [咏](characters/詠%20(char).md) [[塋]] [[嶸]] [[潁]] [[瀛]] [[纓]] [[霙]] [[𢥏]] [[蠑]] [[朠]] [[瀯]] ([[濚]])
+- [[嬴]] may be worth it, as it would encompass 㜲, 瀛, 籝, and 籯
 
 ### 예 
 [叡](characters/叡.md) [預](characters/予.md) [芮](characters/芮.md) [乂](characters/乂.md) [[倪]] [刈](characters/刈%20(char).md) [曳](characters/曳.md) [[汭]] [[濊]] [[猊]] [[穢]] [[裔]] [詣](characters/詣%20(char).md) [霓](characters/霓.md) [[堄]] [[橤]] [[玴]] [[嫕]] [[蓺]] [[蕊]] [[𣫙]] [[艾]] [[㙯]] [[羿]] [[瘱]]  [[叡]]  [[蕊]] ([[蘂]])

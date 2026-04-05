@@ -9,7 +9,8 @@ This have all be checked for redirects.
 [[壑]] [虐](characters/虐.md) [[謔]] [[嗃]]
 
 ### 한
-[澣](characters/浣.md) [[瀚]] [[翰]] 閒->閑 [悍](characters/悍.md) [[罕]] [[澖]] [[𡽜]] [[僩]] [[嫺]] [[橌]] [[䦥]]
+[澣](characters/浣.md) [[瀚]] 閒->閑 [悍](characters/悍.md) [[罕]] [[澖]] [[𡽜]] [[僩]] [[嫺]] [[橌]] [[䦥]]
+- [[翰]] would encompass 瀚
 
 ### 할
 [轄 (char)](characters/轄%20(char).md)
