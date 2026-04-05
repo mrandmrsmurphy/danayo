@@ -2,18 +2,20 @@
 mandarin: yán
 cantonese: jim4
 korean: 염
-korean_native: ""
+korean_native: 소금
 japanese:
   - EN
-japanese_nanori: ""
+japanese_nanori:
+  - しお
 vietnamese:
+  - diêm
 middle_chinese_initial: j
 middle_chinese_final: iᴇm
 stroke_count: 13
 radical: 土
 skip_number: 1-3-10
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - salt
 羅馬字: "'yem"

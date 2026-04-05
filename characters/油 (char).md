@@ -1,12 +1,13 @@
 ---
-mandarin: "yóu"
-cantonese: "jau4"
-korean: "유"
-korean_native: ""
+mandarin: yóu
+cantonese: jau4
+korean: 유
+korean_native: 기름
 japanese:
   - YU
   - YUU
-japanese_nanori: ""
+japanese_nanori:
+  - あぶら
 vietnamese:
   - du
 middle_chinese_initial: j
@@ -15,13 +16,13 @@ stroke_count: 8
 radical: 水
 skip_number: 1-3-5
 grade_level: "2"
-pos: ""
+pos: 名詞
 english:
   - oil
 羅馬字: "'yu"
 韓文: 유
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2154
 mc_id: 3745
