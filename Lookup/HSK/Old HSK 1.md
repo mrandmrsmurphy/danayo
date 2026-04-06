@@ -606,7 +606,7 @@
 [屋 (char)](../../characters/屋%20(char).md): 1
 [希](../../characters/希.md): 1
 [望](../../characters/望.md): 1
-[惯](../../words/習慣%201.md): 1
+[惯](../../characters/慣.md): 1
 [洗 (char)](../../characters/洗%20(char).md): 1
 !!澡!!: 1
 [夏 (char)](../../characters/夏%20(char).md): 1

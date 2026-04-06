@@ -44,7 +44,7 @@
 #### 곽
 [郭 (char)](../../characters/郭%20(char).md) (성곽 곽)
 #### 관
-[館](../../characters/館.md) (객사 관) , [管](../../characters/管.md) (피리 관) , [貫](../../characters/貫.md) (꿸 관) , [習慣 1](../../words/習慣%201.md) (버릇 관) , [冠](../../characters/冠.md) (갓 관) , [寬](../../characters/寛.md) (너그러울 관)
+[館](../../characters/館.md) (객사 관) , [管](../../characters/管.md) (피리 관) , [貫](../../characters/貫.md) (꿸 관) , [慣](../../characters/慣.md) (버릇 관) , [冠](../../characters/冠.md) (갓 관) , [寬](../../characters/寛.md) (너그러울 관)
 #### 광
 [鑛](../../characters/鉱.md) (쇳돌 광) , [狂](../../characters/狂.md) (미칠 광)
 #### 괘

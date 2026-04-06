@@ -717,7 +717,7 @@ The following prefecture names were added in 2017:
 707. [性](characters/性.md) : sei shō	saga	gender
 708. [情](characters/情.md) : jō	nasa-ke	feelings
 709. [態](characters/態.md) : tai	 	condition
-710. [習慣 1](../../words/習慣%201.md) : kan	na-reru	accustomed
+710. [慣](../../characters/慣.md) : kan	na-reru	accustomed
 711. [技](characters/技.md) : gi	waza	skill
 712. [招](characters/招.md) : shō	mane-ku	beckon
 713. [授](characters/授.md) : ju	sazu-keru	instruct
