@@ -1,27 +1,29 @@
 ---
-mandarin: "chòu"
-cantonese: "cau3"
-korean: "취"
-korean_native: ""
+mandarin: chòu
+cantonese: cau3
+korean: 취
+korean_native: 냄새
 japanese:
   - SHUU
   - KYUU
-japanese_nanori: ""
+japanese_nanori:
+  - くさ-い,にお-う
 vietnamese:
+  - xú, xó
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: ɨu
 stroke_count: 9
 radical: 自
 skip_number: 2-6-3
 grade_level: "5"
-pos: ""
+pos: 性詞
 english:
   - stinky
   - smelly
 羅馬字: cu
 韓文: 추
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5189
 mc_id: 1773

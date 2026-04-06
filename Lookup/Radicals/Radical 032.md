@@ -2,18 +2,23 @@
 size: 69
 date-last-perfect:
 ---
->  [[Radicals]]
+>  [Radicals](Radicals.md)
 
-**Radical 32** is 'earth', <ruby>[[土 (char)]]<rt>토</rt></ruby>.
+**Radical 32** is 'earth', <ruby>[[土 (char)]]<rt>ㄊㄛ</rt></ruby>.
 
 ### +2 Strokes
-[[圧]] 
+1. [圧 (char)](../../characters/圧%20(char).md)
 
 ### +3 Strokes
-[[在 (char)]] ,  [[圭]] ,   [[地]] 
+2. [[在 (char)]]
+3. [圭](../../characters/圭.md)
+4. [地 (char)](../../characters/地%20(char).md)
 
 ### +4 Strokes
-[[坂]] ,  [均 (char)](characters/均%20(char).md) ,   [[坐]] , [[坑]] 
+5. [坂](../../characters/坂.md)
+6. [均 (char)](characters/均%20(char).md)
+7. [坐 (char)](../../characters/坐%20(char).md)
+8. [坑 (char)](../../characters/坑%20(char).md)
 
 ### +5 Strokes
 [[坤]] ,  [[坦]] , [[坪]] 
