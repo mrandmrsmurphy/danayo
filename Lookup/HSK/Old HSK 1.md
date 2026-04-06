@@ -11,115 +11,115 @@
 [来 (char)](characters/来%20(char).md): 9
 [去 (char)](characters/去%20(char).md): 9
 [天 (char)](characters/天%20(char).md): 9
-[[大]]: 9
-[[好]]: 9
-[[有]]: 9
-[[那]]: 9
+[大 (char)](../../characters/大%20(char).md)): 9
+[好 (char)](../../characters/好%20(char).md): 9
+[有 (char)](../../characters/有%20(char).md): 9
+[那 (char)](../../characters/那%20(char).md): 9
 [車 (char)](characters/車%20(char).md): 8
-[[以]]: 8
-[[起]]: 8
-[[然]]: 8
-[[語]]: 8
+[以 (char)](../../characters/以%20(char).md): 8
+[起 (char)](../../characters/起%20(char).md): 8
+[然 (char)](../../characters/然%20(char).md): 8
+[語](../../characters/語.md): 8
 [车](characters/車%20(char).md): 7
-[[到]]: 7
-[[外]]: 7
-[[是]]: 7
+[到](../../characters/到.md): 7
+[外](../../characters/外.md): 7
+[是 (char)](../../characters/是%20(char).md): 7
 麼!!: 7
 么!!: 7
 [语](characters/語.md): 7
-[[日]]: 7
-[[行]]: 7
+[日 (char)](../../characters/日%20(char).md): 7
+[行 (char)](../../characters/行%20(char).md): 7
 們!!: 7
 们!!: 7
-[[汽]]: 6
-[[了]]: 6
-[[前]]: 6
-[[家]]: 6
-[[服]]: 6
-[[工]]: 6
+[汽](../../characters/汽.md): 6
+[了 (char)](../../characters/了%20(char).md): 6
+[前 (char)](../../characters/前%20(char).md): 6
+[家](../../characters/家.md): 6
+[服](../../characters/服.md): 6
+[工](../../characters/工.md): 6
 [會](characters/会%20(char).md): 6
 [会 (char)](characters/会%20(char).md): 6
-[[音]]: 6
+[音](../../characters/音.md): 6
 [樣](characters/様%20(char).md): 6
 [样](characters/様%20(char).md): 6
-[[同]]: 6
+[同](../../characters/同.md): 6
 怎!!: 6
 中: 6
-[[常]]: 5
+[常](../../characters/常.md): 5
 [發](characters/発%20(char).md): 5
 [发](characters/発%20(char).md): 5
-[[現]]: 5
+[現 (char)](../../characters/現%20(char).md): 5
 [现](characters/現%20(char).md): 5
-[[得]]: 5
-[[方]]: 5
-[[電]]: 5
+[得](../../characters/得.md): 5
+[方](../../characters/方.md): 5
+[電](../../characters/電.md): 5
 [电](characters/電.md): 5
 [多 (char)](characters/多%20(char).md): 5
-[[法]]: 5
-[[飯]]: 5
+[法 (char)](../../characters/法%20(char).md): 5
+[飯](../../characters/飯.md): 5
 [饭](characters/飯.md): 5
-[[面]]: 5
+[面](../../characters/面.md): 5
 人: 5
-[[習]]: 5
+[習](../../characters/習.md): 5
 [习](characters/習.md): 5
 公 : 5
 [里 (char)](characters/里%20(char).md): 5
-[[活]]: 5
-[[見]]: 5
+[活 (char)](../../characters/活%20(char).md): 5
+[見 (char)](../../characters/見%20(char).md): 5
 [见](characters/見%20(char).md): 5
-[[果]]: 5
+[果](../../characters/果.md)]: 5
 [經](characters/経%20(char).md): 5
 [经](characters/経%20(char).md): 5 
-[[球]]: 5
-[[思]]: 5
-[[些]]: 5
-[[情]]: 5
-[[為]]: 5
+[球 (char)](../../characters/球%20(char).md): 5
+[思](../../characters/思.md): 5
+[些](../../characters/些.md): 5
+[情](../../characters/情.md): 5
+[為 (char)](../../characters/為%20(char).md): 5
 [为](characters/為%20(char).md): 5
-[[午]]: 5
+[午](../../characters/午.md): 5
 [時 (char)](characters/時%20(char).md): 5
 [时](characters/時%20(char).md): 5
 [晚](characters/晩%20(char).md): 5
-[[小]]: 5
-[[要]]: 5
-[[這]]: 5
+[小 (char)](../../characters/小%20(char).md): 5
+[要](../../characters/要.md): 5
+[這](../../characters/這.md)]: 5
 [这](characters/這.md): 5
 ## 4
 [字 (char)](characters/字%20(char).md)): 4
-[[心]]: 4
-[[影]]: 4
-[[西]]: 4
-[[動]]: 4
-[[物]]: 4
-[[展]]: 4
-[[間]]: 4
+[心 (char)](../../characters/心%20(char).md): 4
+[影](../../characters/影.md): 4
+[西](../../characters/西.md): 4
+[動 (char)](../../characters/動%20(char).md): 4
+[物 (char)](../../characters/物%20(char).md): 4
+[展](../../characters/展.md): 4
+[間](../../characters/間.md): 4
 [间](characters/間.md): 4
-[[問]]: 4
+[問](../../characters/問.md): 4
 [问](characters/問.md): 4
 [假](characters/仮.md): 4
-[[../../characters/机]]: 4
+[机](../../characters/机.md): 4
 [机](../../characters/机.md): 4
 [分 (char)](characters/分%20(char).md): 4
-[[感]]: 4
-[[過]]: 4
+[感](../../characters/感.md): 4
+[過 (char)](../../characters/過%20(char).md): 4
 [过](characters/過%20(char).md): 4
-[[看]]: 4
-[[後]]: 4
-[[后]]: 4
-[[回]]: 4
-[[解]]: 4
-[[開]]: 4
+[看 (char)](../../characters/看%20(char).md): 4
+[後 (char)](../../characters/後%20(char).md): 4
+[后](../../characters/后.md): 4
+[回 (char)](../../characters/回%20(char).md): 4
+[解 (char)](../../characters/解%20(char).md): 4
+[開](../../characters/開.md): 4
 [开](characters/開.md): 4
-[[玩]]: 4
-[[課]]: 4
+[玩](../../characters/玩.md): 4
+[課 (char)](../../characters/課%20(char).md): 4
 [课](characters/課%20(char).md): 4
 [口 (char)](characters/口%20(char).md): 4
 [裡](characters/裏.md): 4
-[[快]]: 4
-[[民]]: 4
-[[明]]: 4
-[[友]]: 4
-[[全]]: 4
+[快 (char)](../../characters/快%20(char).md): 4
+[民](../../characters/民.md): 4
+[明 (char)](../../characters/明%20(char).md): 4
+[友](../../characters/友.md): 4
+[全 (char)](../../characters/全%20(char).md): 4
 [什](../../characters/十.md): 4
 [候](../../characters/候.md): 4
 [知 (char)](../../characters/知%20(char).md): 4
@@ -270,7 +270,7 @@
 [考](../../characters/考.md): 2
 [科](../../characters/科.md): 2
 [客](../../characters/客.md): 2
-[空](../../words/空.md): 2
+[空 (char)](../../characters/空%20(char).md): 2
 [困](../../characters/困.md): 2
 [勞](../../characters/労.md): 2
 [老 (char)](../../characters/老%20(char).md): 2
@@ -606,7 +606,7 @@
 [屋 (char)](../../characters/屋%20(char).md): 1
 [希](../../characters/希.md): 1
 [望](../../characters/望.md): 1
-[惯](../../characters/慣.md): 1
+[惯](../../words/習慣%201.md): 1
 [洗 (char)](../../characters/洗%20(char).md): 1
 !!澡!!: 1
 [夏 (char)](../../characters/夏%20(char).md): 1

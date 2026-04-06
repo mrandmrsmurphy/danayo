@@ -1,5 +1,5 @@
 ---
-size: 69
+size: 65
 date-last-perfect:
 radical: 土
 ---
@@ -9,92 +9,96 @@ radical: 土
 
 **Radical 32** is 'earth', <ruby>[[土 (char)]]<rt>ㄊㄛ</rt></ruby>.
 
+### +1
+2. [𡈼](../../characters/𡈼.md)
+
 ### +2 Strokes
-1. [圧 (char)](../../characters/圧%20(char).md)
+3. [圧 (char)](../../characters/圧%20(char).md)
 
 ### +3 Strokes
-2. [[在 (char)]]
-3. [圭](../../characters/圭.md)
-4. [地 (char)](../../characters/地%20(char).md)
+4. [[在 (char)]]
+5. [圭](../../characters/圭.md)
+6. [地 (char)](../../characters/地%20(char).md)
 
 ### +4 Strokes
-5. [坂](../../characters/坂.md)
-6. [均 (char)](characters/均%20(char).md)
-7. [坐 (char)](../../characters/坐%20(char).md)
-8. 坊
-9. [坑 (char)](../../characters/坑%20(char).md)
+8. [坂](../../characters/坂.md)
+9. [均 (char)](characters/均%20(char).md)
+10. [坐 (char)](../../characters/坐%20(char).md)
+11. [坊](../../characters/坊.md)
+12. [坑 (char)](../../characters/坑%20(char).md)
 
 ### +5 Strokes
-9. [[坤]]
-10. [[坦]]
-11. [[坪]] 
-12. 垂
-
-埃, 埋, 城, 域 (char), 埠, 埴, 執, 培, 基, 埼, 堀, 堂, 堅, 堆, 堕, 堤, 堪 (char), 堰, 報 (char), 場, 堵, 塁, 塊 (char), 塑, 塔 (char), 塗, 塚 (char), 塞, 塩 (char), 填 (char), 塵, 塾, 境, 墊 (char), 墓, 増, 墜, 墟, 墨, 墳, 墾, 壁 (char), 壅 (char), 壇 (char), 壊, 壌, 𡈼
+13. [坤](../../characters/坤.md)
+14. [坦](../../characters/坦.md)
+15. [坪 (char)](../../characters/坪%20(char).md)
+16. [垂](../../characters/垂.md)
 
 ### +6 Strokes
-12. [[型]] 
-13. [[垓]]
-14. [[垢]]
-15. [[垣]]
-16. [[城]]
+17. [型](../../characters/型.md)
+18. [垓](../../characters/垓.md)
+19. [垢](../../characters/垢.md)
+20. [垣 (char)](../../characters/垣%20(char).md)
+21. [城](../../characters/城.md)
 
 ### +7 Strokes
-17. [[埃]]
-18. [[埋]] 
+22. [埃](../../characters/埃.md)
+23. [埋](../../characters/埋.md)
 
 ### +8 Strokes
-19. [[域]] 
-20. [[埠]] 
-21. [[埴]] 
-22. [[執]] 
-23. [[培]]
-24. [[基]]
-25. [[埼]]
-26. [[堂]]
-27. [[堅]]
-28. [[堆]]
-29. [[堕]]
-30. [[堵]] 
+24. [域 (char)](../../characters/域%20(char).md)
+25. [埠](../../characters/埠.md)
+26. [埴](../../characters/埴.md)
+27. [執](../../characters/執.md)
+28. [培](../../characters/培.md)
+29. [基](../../characters/基.md)
+30. [埼](../../characters/埼.md)
+31. [堀](../../characters/堀.md)
+32. [堂](../../characters/堂.md)
+33. [堅](../../characters/堅.md)
+34. [堆](../../characters/堆.md)
+35. [堕](../../characters/堕.md)
+36. [堵](../../characters/堵.md)
 
 ### +9 Strokes
-31. [[堤]]
-32. [[堪]]
-33. [[堰]]
-34. [[報]]
-35. [[場]]
-36. [[塁]] 
+37. [堤](../../characters/堤.md)
+38. [堪 (char)](../../characters/堪%20(char).md)
+39. [堰](../../characters/堰.md)
+40. [報 (char)](../../characters/報%20(char).md)
+41. [場](../../characters/場.md)
+42. [塁](../../characters/塁.md)
 
 ### +10 Strokes
-37. [[塊]] 
-38. [[塑]] 
-39. [[塗]]
-40. [塩 (char)](../../characters/塩%20(char).md) 
-41. [[填]]
-42. [[塞]]
-43. [[塚]] 
+43. [塊 (char)](../../characters/塊%20(char).md)
+44. [塑](../../characters/塑.md)
+45. [塗](../../characters/塗.md)
+46. [塔 (char)](../../characters/塔%20(char).md)
+47. [塩 (char)](../../characters/塩%20(char).md) 
+48. [填 (char)](../../characters/填%20(char).md)
+49. [塞](../../characters/塞.md)
+50. [塚 (char)](../../characters/塚%20(char).md)
+
 
 ### +11 Strokes
-44. [[塵]] 
-45. [[塾]]
-46. [[境]]
-47. [[墊]] 
-48. [[墓]] 
-49. [[増]] 
+51. [塵](../../characters/塵.md)
+52. [塾](../../characters/塾.md)
+53. [境](../../characters/境.md)
+54. [墊 (char)](../../characters/墊%20(char).md)
+55. [墓](../../characters/墓.md)
+56. [増](../../characters/増.md)
 
 ### +12 Strokes
-50. [[墜]] 
-51. [[墟]]
-52. [[墨]] 
-53. [[墳]] 
+57. [墜](../../characters/墜.md)
+58. [墟](../../characters/墟.md)
+59. [墨](../../characters/墨.md)
+60. [墳](../../characters/墳.md)
 
 ### +13 Strokes
-54. 墻-->   [[墾]] 
-55. [[壁]] 
-56. [[壅]]
-57. [[壇]]
-58. [[壊]] 
-59. [[壌]] 
+61. 墻-->   [墾](../../characters/墾.md)
+62. [壁 (char)](../../characters/壁%20(char).md)
+63. [壅 (char)](../../characters/壅%20(char).md)
+64. [壇 (char)](../../characters/壇%20(char).md)
+65. [壊](../../characters/壊.md)
+66. [壌](../../characters/壌.md)
 
 ### +14 Strokes
 壓-->  
