@@ -10,11 +10,10 @@ views:
       - file.name
       - formula.score
       - danayo_id
-      - korean
-      - hanmun_edu_level
-      - middle_chinese_initial
-      - middle_chinese_final
+      - cantonese
     sort:
+      - property: cantonese
+        direction: DESC
       - property: middle_chinese_final
         direction: ASC
       - property: middle_chinese_initial
@@ -57,8 +56,6 @@ views:
         direction: ASC
       - property: japanese
         direction: DESC
-      - property: cantonese
-        direction: ASC
       - property: mandarin
         direction: ASC
       - property: file.name
