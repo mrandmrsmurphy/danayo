@@ -1,19 +1,21 @@
 ---
-mandarin: "bào"
-cantonese: "baau1"
-korean: "포"
-korean_native: ""
+mandarin: bào
+cantonese: baau1
+korean: 포
+korean_native: 절인 물고기
 japanese:
   - HOU
-japanese_nanori: ""
+japanese_nanori:
+  - あわび
 vietnamese:
+  - bảo, bào
 middle_chinese_initial: b
 middle_chinese_final: ɣau
 stroke_count: 16
 radical: 魚
 skip_number: 1-11-5
-grade_level: "名"
-pos: ""
+grade_level: 名
+pos: 名詞
 english:
   - abalone
 羅馬字: bau
@@ -31,9 +33,7 @@ aliases:
 ---
 >[!tip] This is a page about the character 鮑.
 >For the word, see [鮑](words/鮑.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
