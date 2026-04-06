@@ -1,25 +1,28 @@
 ---
-mandarin: "bì"
-cantonese: "bit1"
-korean: "필"
-korean_native: ""
+mandarin: bì
+cantonese: bit1
+korean: 필
+korean_native: 반드시
 japanese:
   - HITSU
-japanese_nanori: ""
+japanese_nanori:
+  - かなら-ず
 vietnamese:
+  - tất, ắt
 middle_chinese_initial: p
 middle_chinese_final: iɪt
 stroke_count: 5
 radical: 心
 skip_number: 1-1-4
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - surely
+  - definitely
 羅馬字: bid
 韓文: 빋
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3115
 mc_id: 79
