@@ -1,13 +1,15 @@
 ---
-mandarin: "nǎo"
-cantonese: "nou5"
-korean: "뇌"
+mandarin: nǎo
+cantonese: nou5
+korean: 뇌
 korean_native: 뇌
 japanese:
   - NOU
   - DOU
-japanese_nanori: ""
+japanese_nanori:
+  - なずき
 vietnamese:
+  - não
 middle_chinese_initial: n
 middle_chinese_final: ɑu
 stroke_count: 11
@@ -28,6 +30,8 @@ graphemic_classification: 𡿺
 stand_in: 脳
 aliases:
   - 腦
+  - 脑
+  - 匘
 注音: ㄋㄚˇ
 ---
 >[!tip] This is a page about the character 脳.
