@@ -4,9 +4,12 @@ size: 1
 date-last-perfect: 2026-02-25
 ---
 > [[Radicals]]
+> Abbreviated 飞
 
-- <ruby>[[飛]]<rt>ㄆㄧ</rt></ruby> - fly
+1. <ruby>[[飛]]<rt>ㄆㄧ</rt></ruby> - fly
 
+### Redirects
+- 䬡 --> 翻
 ## Data check
 ```dataview
 TABLE 韓文 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
