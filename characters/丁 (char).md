@@ -31,6 +31,8 @@ stand_in: 丁
 aliases:
   - 𠆤
 注音: ㄉㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 丁.
 >For the word, see [丁](words/丁.md)

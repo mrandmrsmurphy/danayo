@@ -31,6 +31,8 @@ stand_in: 屢
 aliases:
   - 屡
 注音: ㄌㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 屢.
 >For the word, see [屢](words/屢.md)

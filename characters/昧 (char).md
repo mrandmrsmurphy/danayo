@@ -28,6 +28,8 @@ graphemic_classification: 未
 stand_in: 昧
 aliases:
 注音: ㄇㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 昧.
 >For the word, see [昧](words/昧.md)

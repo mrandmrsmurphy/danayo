@@ -31,6 +31,8 @@ stand_in: 弔
 aliases:
   - 吊
 注音: ㄐㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弔.
 >For the word, see [弔](words/弔.md)

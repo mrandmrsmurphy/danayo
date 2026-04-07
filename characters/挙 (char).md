@@ -30,6 +30,8 @@ aliases:
   - 舉
   - 擧
 注音: ㄍ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 挙.
 >For the word, see [挙](words/挙.md)

@@ -31,6 +31,8 @@ aliases:
   - 𰽔
   - 镜
 注音: ㄍ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鏡.
 >For the word, see [鏡](words/鏡.md)

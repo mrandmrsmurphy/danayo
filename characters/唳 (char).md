@@ -29,6 +29,8 @@ stand_in: 唳
 aliases:
   - 悷
 注音: ㄌ˙ㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 唳.
 >For the word, see [唳](words/唳.md)

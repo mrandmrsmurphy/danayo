@@ -29,6 +29,8 @@ aliases:
   - 汙
   - 污
 注音: ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 汚.
 >For the word, see [汚](words/汚.md)

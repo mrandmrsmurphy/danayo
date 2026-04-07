@@ -34,6 +34,8 @@ aliases:
   - 𧾸
   - 𠙺
 注音: ㄐㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 正.
 >For the word, see [正](words/正.md)

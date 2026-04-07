@@ -28,6 +28,8 @@ graphemic_classification: 己
 stand_in: 改
 aliases:
 注音: ㄍㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 改.
 >For the word, see [改](words/改.md)

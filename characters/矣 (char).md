@@ -28,6 +28,8 @@ stand_in: 矣
 aliases:
   - 欸
 注音: ㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 矣.
 >For the word, see [矣](words/矣.md)

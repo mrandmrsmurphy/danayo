@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 臥
 aliases:
 注音: ˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 臥.
 >For the word, see [臥](words/臥.md)

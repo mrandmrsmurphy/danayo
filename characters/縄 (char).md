@@ -36,6 +36,8 @@ aliases:
   - 繩
   - 绳
 注音: ㄙㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 縄.
 >For the word, see [縄](words/縄.md)

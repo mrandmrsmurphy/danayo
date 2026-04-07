@@ -31,6 +31,8 @@ stand_in: 飽
 aliases:
   - 饱
 注音: ㄅ˙ㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 飽.
 >For the word, see [飽](words/飽.md)

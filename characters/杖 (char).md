@@ -28,6 +28,8 @@ graphemic_classification: 丈
 stand_in: 杖
 aliases:
 注音: ㄐㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 杖.
 >For the word, see [杖](words/杖.md)

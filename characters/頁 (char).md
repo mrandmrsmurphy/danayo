@@ -31,6 +31,8 @@ stand_in: 頁
 aliases:
   - 页
 注音: ㄏㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 頁.
 >For the word, see [頁](words/頁.md)

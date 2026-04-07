@@ -32,6 +32,8 @@ stand_in: 割
 aliases:
 注音: ㄍㄚㄊ
 date-last-perfect: 2026-03-26
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 割.
 >For the word, see [割](words/割.md)

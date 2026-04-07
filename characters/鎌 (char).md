@@ -28,6 +28,8 @@ stand_in: 鎌
 aliases:
   - 𰾮
 注音: ㄌㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鎌.
 >For the word, see [鎌](words/鎌.md)

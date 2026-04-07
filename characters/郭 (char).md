@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 郭
 aliases:
 注音: ㄍˇㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 郭.
 >For the word, see [郭](words/郭.md)

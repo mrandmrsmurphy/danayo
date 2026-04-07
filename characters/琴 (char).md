@@ -37,6 +37,8 @@ aliases:
   - 䥅
   - 䥆
 注音: ㄍㄨㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 琴.
 >For the word, see [琴](words/琴.md)

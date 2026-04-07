@@ -30,6 +30,8 @@ aliases:
   - 歎
   - 叹
 注音: ㄊㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 嘆.
 >For the word, see [嘆](words/嘆.md)

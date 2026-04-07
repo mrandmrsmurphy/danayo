@@ -28,6 +28,8 @@ stand_in: 丘
 aliases:
   - 㐀
 注音: ㄎ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 丘.
 >For the word, see [丘](words/丘.md)

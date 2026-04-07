@@ -31,6 +31,8 @@ stand_in: 武
 aliases:
   - 㱐
 注音: ㄇㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 武.
 >For the word, see [武](words/武.md)

@@ -29,6 +29,8 @@ stand_in: 兎
 aliases:
   - 兔
 注音: ㄊㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 兎.
 >For the word, see [兎](words/兎.md)

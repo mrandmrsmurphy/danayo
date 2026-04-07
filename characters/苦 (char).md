@@ -30,6 +30,8 @@ graphemic_classification: 古
 stand_in: 苦
 aliases:
 注音: ㄎㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 苦.
 >For the word, see [苦](words/苦.md)

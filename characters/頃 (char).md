@@ -31,6 +31,8 @@ stand_in: 頃
 aliases:
   - 顷
 注音: ㄎㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 頃.
 >For the word, see [頃](words/頃.md)

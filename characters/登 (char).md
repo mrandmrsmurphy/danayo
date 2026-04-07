@@ -30,6 +30,8 @@ graphemic_classification: 豆
 stand_in: 登
 aliases:
 注音: ㄉㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 登.
 >For the word, see [登](words/登.md)

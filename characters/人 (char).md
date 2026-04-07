@@ -35,6 +35,8 @@ aliases:
 注音: ㄋㄧㄋ
 date-last-perfect: 2026-03-29
 kwin: false
+tags:
+  - character
 ---
 >[!tip] This is a page about the character **人**.
 >For the word, see [人](words/人.md)

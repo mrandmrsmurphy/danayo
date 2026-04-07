@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 甘
 aliases:
 注音: ㄍㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 甘.
 >For the word, see [甘](words/甘.md)

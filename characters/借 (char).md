@@ -31,6 +31,8 @@ stand_in: 借
 aliases:
   - 藉
 注音: ㄐㄚ
+tags:
+  - character
 ---
 >[!tip] This page is about the character.
 >For the word, see [借](words/借.md)

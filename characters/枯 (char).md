@@ -27,6 +27,8 @@ graphemic_classification: 古
 stand_in: 枯
 aliases:
 注音: ㄎㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 枯.
 >For the word, see [枯](words/枯.md)

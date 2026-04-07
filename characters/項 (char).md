@@ -30,6 +30,8 @@ stand_in: 項
 aliases:
   - 项
 注音: ㄏㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 項.
 >For the word, see [項](words/項.md)

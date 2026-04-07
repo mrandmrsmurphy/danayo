@@ -29,6 +29,8 @@ stand_in: 壇
 aliases:
   - 坛
 注音: ㄉㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 壇.
 >For the word, see [壇](words/壇.md)

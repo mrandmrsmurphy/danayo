@@ -31,6 +31,8 @@ aliases:
   - 聯
   - 联
 注音: ㄌ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 連.
 >For the word, see [連](words/連.md)

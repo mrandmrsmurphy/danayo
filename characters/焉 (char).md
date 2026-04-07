@@ -30,6 +30,8 @@ aliases:
   - 鄢
   - 嫣
 注音: ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 焉.
 >For the word, see [焉](words/焉.md)

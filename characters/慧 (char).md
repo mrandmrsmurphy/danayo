@@ -29,6 +29,8 @@ graphemic_classification: 彗
 stand_in: 慧
 aliases:
 注音: ㄏˇㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 慧.
 >For the word, see [慧](words/慧.md)

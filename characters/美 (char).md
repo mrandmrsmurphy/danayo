@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 美
 aliases:
 注音: ㄇㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 美.
 >For the word, see [美](words/美.md)

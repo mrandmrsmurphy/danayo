@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 隼
 aliases:
 注音: ㄙ˙ㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 隼.
 >For the word, see [隼](words/隼.md)

@@ -28,6 +28,8 @@ graphemic_classification: 柰
 stand_in: 款
 aliases:
 注音: ㄎˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 款.
 >For the word, see [款](words/款.md)

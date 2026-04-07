@@ -30,6 +30,8 @@ aliases:
   - 㐶
   - 𠏁
 注音: ㄏˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 化.
 >For the word, see [化](words/化.md)

@@ -38,6 +38,8 @@ aliases:
   - 钇
 注音: ㄛㄊ
 date-last-perfect: 2026-03-25
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 乙.
 >For the word, see [乙](words/乙.md)

@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 厚
 aliases:
 注音: ㄏㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 厚.
 >For the word, see [厚](words/厚.md)

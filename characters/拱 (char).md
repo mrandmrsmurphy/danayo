@@ -27,6 +27,8 @@ graphemic_classification: 共
 stand_in: 拱
 aliases:
 注音: ㄍ˙ㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 拱.
 >For the word, see [拱](words/拱.md)

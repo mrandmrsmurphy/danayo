@@ -28,6 +28,8 @@ stand_in: 剃
 aliases:
   - 涕
 注音: ㄊㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 剃.
 >For the word, see [剃](words/剃.md)

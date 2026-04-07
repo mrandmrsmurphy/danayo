@@ -30,6 +30,8 @@ stand_in: 紮
 aliases:
   - 扎
 注音: ㄐㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 紮.
 >For the word, see [紮](words/紮.md)

@@ -30,6 +30,8 @@ stand_in: 隆
 aliases:
   - 𨺓
 注音: ㄌㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 隆.
 >For the word, see [隆](words/隆.md)

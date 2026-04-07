@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 升
 aliases:
 注音: ㄙㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 升.
 >For the word, see [升](words/升.md)

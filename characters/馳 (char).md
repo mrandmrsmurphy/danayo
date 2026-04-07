@@ -30,6 +30,8 @@ stand_in: 馳
 aliases:
   - 驰
 注音: ㄐㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 馳.
 >For the word, see [馳](words/馳.md)

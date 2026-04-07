@@ -30,6 +30,8 @@ aliases:
   - 齒
   - 齿
 注音: ㄑㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character.
 >For the word, please see [[歯]].

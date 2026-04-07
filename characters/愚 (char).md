@@ -27,6 +27,8 @@ graphemic_classification: 禺
 stand_in: 愚
 aliases:
 注音: ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 愚.
 >For the word, see [愚](words/愚.md)

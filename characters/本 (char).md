@@ -27,6 +27,8 @@ graphemic_classification: 指事
 stand_in: 本
 aliases:
 注音: ㄅㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 本.
 >For the word, see [本](words/本.md)

@@ -32,6 +32,8 @@ aliases:
   - 捲
   - 巷
 注音: ㄍˇㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 巻.
 >For the word, see [巻](words/巻.md)

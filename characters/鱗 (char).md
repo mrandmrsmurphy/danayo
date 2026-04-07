@@ -29,6 +29,8 @@ stand_in: 鱗
 aliases:
   - 鳞
 注音: ㄌㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鱗.
 >For the word, see [鱗](words/鱗.md)

@@ -30,6 +30,8 @@ stand_in: 誰
 aliases:
   - 谁
 注音: ㄙ˙ㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 誰.
 >For the word, see [誰](words/誰.md)

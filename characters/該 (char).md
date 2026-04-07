@@ -31,6 +31,8 @@ stand_in: 該
 aliases:
   - 该
 注音: ㄍㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 該.
 >For the word, see [該](words/該.md)

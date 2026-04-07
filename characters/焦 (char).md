@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 焦
 aliases:
 注音: ㄐㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 焦.
 >For the word, see [焦](words/焦.md)

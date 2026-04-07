@@ -28,6 +28,8 @@ stand_in: 送
 aliases:
   - 䢠
 注音: ㄙㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 送.
 >For the word, see [送](words/送.md)

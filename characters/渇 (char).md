@@ -29,6 +29,8 @@ stand_in: 渇
 aliases:
   - 渴
 注音: ㄎㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 渇.
 >For the word, see [渇](words/渇.md)

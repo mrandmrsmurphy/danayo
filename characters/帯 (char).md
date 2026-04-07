@@ -30,6 +30,8 @@ aliases:
   - 帶
   - 带
 注音: ㄊㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 帯.
 >For the word, see [帯](words/帯.md)

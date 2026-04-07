@@ -1,7 +1,7 @@
 ---
-mandarin: "lóng"
-cantonese: "lung4"
-korean: "롱"
+mandarin: lóng
+cantonese: lung4
+korean: 롱
 korean_native: ""
 japanese:
   - ROU
@@ -13,7 +13,7 @@ stroke_count: 22
 radical: 竹
 skip_number: 2-6-16
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - basket
 羅馬字: long
@@ -28,6 +28,8 @@ stand_in: 籠
 aliases:
   - 笼
 注音: ㄌㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 籠.
 >For the word, see [籠](words/籠.md)

@@ -31,6 +31,8 @@ stand_in: 八
 aliases:
 注音: ㄅㄚㄊ
 date-last-perfect: 2026-03-19
+tags:
+  - character
 ---
 >[!Warning] This is about the character 八.  
 >For the word, see [八](words/八.md)

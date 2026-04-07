@@ -28,6 +28,8 @@ graphemic_classification: 隹
 stand_in: 雉
 aliases:
 注音: ㄉㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 雉.
 >For the word, see [雉](words/雉.md)

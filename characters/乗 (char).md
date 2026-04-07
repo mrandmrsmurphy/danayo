@@ -30,6 +30,8 @@ stand_in: 乗
 aliases:
   - 乘
 注音: ㄙㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 乗.
 >For the word, see [乗](words/乗.md)

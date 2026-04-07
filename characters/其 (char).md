@@ -35,6 +35,8 @@ stand_in: 其
 aliases:
   - 丌
 注音: ㄍㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 其.
 >For the word, see [其](words/其.md)

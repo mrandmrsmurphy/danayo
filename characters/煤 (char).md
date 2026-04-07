@@ -29,6 +29,8 @@ graphemic_classification: 某
 stand_in: 煤
 aliases:
 注音: ㄇㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 煤.
 >For the word, see [煤](words/煤.md)

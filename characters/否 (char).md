@@ -27,6 +27,8 @@ graphemic_classification: 不
 stand_in: 否
 aliases:
 注音: ㄅㄨˇ
+tags:
+  - character
 ---
 >[!tip] This page is about the character.
 >For the word, see [否](words/否.md)

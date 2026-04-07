@@ -30,6 +30,8 @@ stand_in: 灯
 aliases:
   - 燈
 注音: ㄉㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 灯.
 >For the word, see [灯](words/灯.md)

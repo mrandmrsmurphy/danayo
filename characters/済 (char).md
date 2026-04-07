@@ -32,6 +32,8 @@ aliases:
   - 侈
   - 济
 注音: ㄐㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 済.
 >For the word, see [済](words/済.md)

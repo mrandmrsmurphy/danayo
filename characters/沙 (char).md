@@ -34,6 +34,8 @@ aliases:
   - 娑
   - 䓾
 注音: ㄙㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 沙.
 >For the word, see [沙](words/沙.md)

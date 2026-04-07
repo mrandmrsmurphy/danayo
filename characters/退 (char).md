@@ -30,6 +30,8 @@ graphemic_classification: 會意
 stand_in: 退
 aliases:
 注音: ㄊㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 退.
 >For the word, see [退](words/退.md)

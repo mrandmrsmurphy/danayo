@@ -31,6 +31,8 @@ stand_in: 知
 aliases:
   - 𥎵
 注音: ㄐㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 知.
 >For the word, see [知](words/知.md)

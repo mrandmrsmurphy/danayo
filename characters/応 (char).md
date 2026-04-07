@@ -33,6 +33,8 @@ aliases:
   - 𤻮
   - 应
 注音: ㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 応.
 >For the word, see [応](words/応.md)

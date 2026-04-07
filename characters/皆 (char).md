@@ -30,6 +30,8 @@ stand_in: 皆
 aliases:
 注音: ㄍ˙ㄝ
 date-last-perfect: 2026-03-28
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 皆.
 >For the word, see [皆](../words/皆.md).

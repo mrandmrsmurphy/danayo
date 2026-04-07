@@ -29,6 +29,8 @@ graphemic_classification: 敝
 stand_in: 弊
 aliases:
 注音: ㄆㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弊.
 >For the word, see [弊](words/弊.md)

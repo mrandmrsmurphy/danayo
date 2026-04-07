@@ -30,6 +30,8 @@ stand_in: 畳
 aliases:
   - 疊
 注音: ㄉㄝㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 畳.
 >For the word, see [畳](words/畳.md)

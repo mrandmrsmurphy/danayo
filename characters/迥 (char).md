@@ -29,6 +29,8 @@ graphemic_classification: 冋
 stand_in: 迥
 aliases:
 注音: ㄏㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 迥.
 >For the word, see [迥](words/迥.md)

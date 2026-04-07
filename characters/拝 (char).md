@@ -29,6 +29,8 @@ stand_in: 拝
 aliases:
   - 拜
 注音: ㄅ˙ㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 拝.
 >For the word, see [拝](words/拝.md)

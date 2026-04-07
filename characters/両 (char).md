@@ -36,6 +36,8 @@ aliases:
   - 魎
   - 魉
 注音: ㄌ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 両.
 >For the word, see [両](words/両.md)

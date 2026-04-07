@@ -30,6 +30,8 @@ stand_in: 艶
 aliases:
   - 豔
 注音: ˙ㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 艶.
 >For the word, see [艶](words/艶.md)

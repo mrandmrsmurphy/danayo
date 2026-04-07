@@ -31,6 +31,8 @@ stand_in: 塊
 aliases:
   - 块
 注音: ㄎㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 塊.
 >For the word, see [塊](words/塊.md)

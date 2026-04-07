@@ -30,6 +30,8 @@ stand_in: 雖
 aliases:
   - 虽
 注音: ㄙㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 雖.
 >For the word, see [雖](words/雖.md)

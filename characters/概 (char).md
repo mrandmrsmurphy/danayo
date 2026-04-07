@@ -30,6 +30,8 @@ stand_in: 概
 aliases:
   - 槪
 注音: ㄍㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 概.
 >For the word, see [概](words/概.md)

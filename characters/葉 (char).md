@@ -29,6 +29,8 @@ stand_in: 葉
 aliases:
   - 叶
 注音: ˙ㄛㄆ
+tags:
+  - character
 ---
 >[!tip] This page is about the character.
 >For the word, see [葉](words/葉.md)

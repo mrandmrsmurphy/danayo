@@ -29,6 +29,8 @@ graphemic_classification: 夸
 stand_in: 跨
 aliases:
 注音: ㄎˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 跨.
 >For the word, see [跨](words/跨.md)

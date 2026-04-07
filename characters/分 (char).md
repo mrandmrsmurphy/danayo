@@ -32,6 +32,8 @@ aliases:
   - 份
 注音: ㄅㄨㄋ
 date-last-perfect: 2026-03-24
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 分.
 >For the word, see [分](words/分.md)

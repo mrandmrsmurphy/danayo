@@ -34,6 +34,8 @@ stand_in: 細
 aliases:
   - 细
 注音: ㄙㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 細.
 >For the word, see [細](words/細.md)

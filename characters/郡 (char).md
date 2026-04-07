@@ -31,6 +31,8 @@ graphemic_classification: 君
 stand_in: 郡
 aliases:
 注音: ㄍㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 郡.
 >For the word, see [郡](words/郡.md)

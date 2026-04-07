@@ -33,6 +33,8 @@ aliases:
   - 𡇹, 𠥱
 swadesh: "148"
 注音: ˇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [月](words/月.md)

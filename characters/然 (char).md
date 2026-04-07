@@ -28,6 +28,8 @@ graphemic_classification: 肰
 stand_in: 然
 aliases:
 注音: ㄋ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 然.
 >For the word, see [然](words/然.md)

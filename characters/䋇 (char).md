@@ -31,6 +31,8 @@ aliases:
   - 繹
   - 绎
 注音: ˙ㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 䋇.
 >For the word, see [䋇](words/䋇.md)

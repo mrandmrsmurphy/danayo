@@ -29,6 +29,8 @@ graphemic_classification: 圭
 stand_in: 哇
 aliases:
 注音: ˇㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 哇.
 >For the word, see [哇](words/哇.md)

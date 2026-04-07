@@ -30,6 +30,8 @@ stand_in: 霧
 aliases:
   - 雾
 注音: ㄇㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 霧.
 >For the word, see [霧](words/霧.md)

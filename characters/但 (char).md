@@ -32,6 +32,8 @@ graphemic_classification: 旦
 stand_in: 但
 aliases:
 注音: ㄉㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 但.
 >For the word, see [但](words/但.md)

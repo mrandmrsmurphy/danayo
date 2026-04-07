@@ -29,6 +29,8 @@ stand_in: 鼻
 aliases:
 注音: ㄅㄧ
 kwin: true
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鼻.
 >For the word, see [鼻](words/鼻.md)

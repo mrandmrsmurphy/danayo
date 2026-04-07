@@ -28,6 +28,8 @@ graphemic_classification: 半
 stand_in: 畔
 aliases:
 注音: ㄅㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 畔.
 >For the word, see [畔](words/畔.md)

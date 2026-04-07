@@ -29,6 +29,8 @@ stand_in: 券
 aliases:
   - 劵
 注音: ㄎㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 券.
 >For the word, see [券](words/券.md)

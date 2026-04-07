@@ -28,6 +28,8 @@ graphemic_classification: 耑
 stand_in: 段
 aliases:
 注音: ㄉˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 段.
 >For the word, see [段](words/段.md)

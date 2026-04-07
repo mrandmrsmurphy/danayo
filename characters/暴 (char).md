@@ -31,6 +31,8 @@ graphemic_classification: 會意
 stand_in: 暴
 aliases:
 注音: ㄅㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 暴.
 >For the word, see [暴](words/暴.md)

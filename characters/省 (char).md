@@ -28,6 +28,8 @@ graphemic_classification: 生
 stand_in: 省
 aliases:
 注音: ㄙ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 省.
 >For the word, see [省](words/省.md)

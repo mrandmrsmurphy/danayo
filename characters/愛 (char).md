@@ -32,6 +32,8 @@ aliases:
   - 㤅
   - 薆
 注音: ㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 愛.
 >For the word, see [愛](words/愛.md)

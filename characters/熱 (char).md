@@ -32,6 +32,8 @@ aliases:
   - 热
   - 烧
 注音: ㄋ˙ㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 熱.
 >For the word, see [熱](words/熱.md)

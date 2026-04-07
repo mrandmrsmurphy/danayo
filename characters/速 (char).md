@@ -28,6 +28,8 @@ graphemic_classification: 束
 stand_in: 速
 aliases:
 注音: ㄙㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 速.
 >For the word, see [速](words/速.md)

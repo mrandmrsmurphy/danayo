@@ -35,6 +35,8 @@ aliases:
   - 儼
   - 𠑊
 注音: ˙ㄛㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 厳.
 >For the word, see [厳](words/厳.md)

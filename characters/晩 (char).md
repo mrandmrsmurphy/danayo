@@ -31,6 +31,8 @@ aliases:
   - 晚
 注音: ㄇㄛㄋ
 date-last-perfect: 2026-03-13
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 晩.
 >For the word, see [晩](words/晩.md)

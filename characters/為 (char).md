@@ -29,6 +29,8 @@ aliases:
   - 爲
   - 为
 注音: ˇㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 為.
 >For the word, see [為](words/為.md)

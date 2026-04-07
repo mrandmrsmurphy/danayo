@@ -29,6 +29,8 @@ aliases:
   - 鏽
   - 锈
 注音: ㄙ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 銹.
 >For the word, see [銹](words/銹.md)

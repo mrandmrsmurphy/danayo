@@ -31,6 +31,8 @@ stand_in: 誦
 aliases:
   - 诵
 注音: ㄙㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 誦.
 >For the word, see [誦](words/誦.md)

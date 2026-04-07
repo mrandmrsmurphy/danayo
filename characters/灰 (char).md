@@ -27,6 +27,8 @@ graphemic_classification: 又
 stand_in: 灰
 aliases:
 注音: ㄏㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 灰.
 >For the word, see [灰](words/灰.md)

@@ -28,6 +28,8 @@ graphemic_classification: 喝
 stand_in: 葛
 aliases:
 注音: ㄍ˙ㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 葛.
 >For the word, see [葛](words/葛.md)

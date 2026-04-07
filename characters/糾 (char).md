@@ -31,6 +31,8 @@ aliases:
   - 纠
   - 糺
 注音: ㄍ˙ㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 糾.
 >For the word, see [糾](words/糾.md)

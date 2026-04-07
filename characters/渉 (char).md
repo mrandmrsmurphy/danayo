@@ -28,6 +28,8 @@ stand_in: 渉
 aliases:
   - 涉
 注音: ㄙㄝㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 渉.
 >For the word, see [渉](words/渉.md)

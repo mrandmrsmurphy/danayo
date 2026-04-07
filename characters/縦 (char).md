@@ -30,6 +30,8 @@ stand_in: 縦
 aliases:
   - 縱
 注音: ㄐㄛㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 縦.
 >For the word, see [縦](words/縦.md)

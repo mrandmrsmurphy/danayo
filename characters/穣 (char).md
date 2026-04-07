@@ -29,6 +29,8 @@ stand_in: 穣
 aliases:
   - 穰
 注音: ㄋ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 穣.
 >For the word, see [穣](words/穣.md)

@@ -30,6 +30,8 @@ graphemic_classification: 召
 stand_in: 昭
 date-last-perfect: 2026-03-09
 注音: ㄐㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 > For the word, see [昭](words/昭.md).

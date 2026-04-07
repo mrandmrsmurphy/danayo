@@ -29,6 +29,8 @@ graphemic_classification: 甚
 stand_in: 堪
 aliases:
 注音: ㄎㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 堪.
 >For the word, see [堪](words/堪.md)

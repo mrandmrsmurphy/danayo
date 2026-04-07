@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 至
 aliases:
 注音: ㄐㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 至.
 >For the word, see [至](words/至.md)

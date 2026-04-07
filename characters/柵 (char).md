@@ -29,6 +29,8 @@ stand_in: 柵
 aliases:
   - 栅
 注音: ㄑㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 柵.
 >For the word, see [柵](words/柵.md)

@@ -30,6 +30,8 @@ graphemic_classification: 會意
 stand_in: 反
 aliases:
 注音: ㄆㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 反.
 >For the word, see [反](words/反.md)

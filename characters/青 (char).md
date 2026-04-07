@@ -32,6 +32,8 @@ aliases:
   - 𤯞
   - 菁
 注音: ㄑㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 青.
 >For the word, see [青](words/青.md)

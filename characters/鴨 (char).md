@@ -28,6 +28,8 @@ stand_in: 鴨
 aliases:
   - 鸭
 注音: ㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鴨.
 >For the word, see [鴨](words/鴨.md)

@@ -29,6 +29,8 @@ graphemic_classification: 女
 stand_in: 如
 aliases:
 注音: ㄋ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 如.
 >For the word, see [如](words/如.md)

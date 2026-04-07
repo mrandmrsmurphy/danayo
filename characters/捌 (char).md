@@ -30,6 +30,8 @@ graphemic_classification: 別
 stand_in: 捌
 aliases:
 注音: ㄅㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 捌.
 >For the word, see [捌](words/捌.md)

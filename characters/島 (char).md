@@ -28,6 +28,8 @@ stand_in: 島
 aliases:
   - 岛
 注音: ㄊㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 島.
 >For the word, see [島](words/島.md)

@@ -31,6 +31,8 @@ graphemic_classification: 勿
 stand_in: 物
 aliases:
 注音: ㄇㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [物](words/物.md).

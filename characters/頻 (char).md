@@ -30,6 +30,8 @@ stand_in: 頻
 aliases:
   - 频
 注音: ㄆㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 頻.
 >For the word, see [頻](words/頻.md)

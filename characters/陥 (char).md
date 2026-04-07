@@ -30,6 +30,8 @@ aliases:
   - 陷
   - 臽
 注音: ㄏㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 陥.
 >For the word, see [陥](words/陥.md)

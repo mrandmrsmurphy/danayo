@@ -30,6 +30,8 @@ stand_in: 現
 aliases:
   - 现
 注音: ㄏ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 現.
 >For the word, see [現](words/現.md)

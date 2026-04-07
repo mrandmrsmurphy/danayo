@@ -28,6 +28,8 @@ graphemic_classification: 十
 stand_in: 汁
 aliases:
 注音: ㄐㄧㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 汁.
 >For the word, see [汁](words/汁.md)

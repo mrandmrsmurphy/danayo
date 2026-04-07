@@ -36,6 +36,8 @@ aliases:
   - 疋
 注音: ㄆㄧㄊ
 kwin: true
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 匹.
 >For the word, see [匹](words/匹.md)

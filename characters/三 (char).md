@@ -25,6 +25,8 @@ graphemic_classification: 指事
 stand_in: 三
 date-last-perfect: 2026-01-30
 注音: ㄙㄚㄇ
+tags:
+  - character
 ---
 >[!Warning] This is the character 三. For the word 'three', use [三](words/三.md).
 ```meta-bind-embed

@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 血
 aliases:
 注音: ㄏˇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 血.
 >For the word, see [血](words/血.md)

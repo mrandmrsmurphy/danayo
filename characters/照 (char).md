@@ -28,6 +28,8 @@ graphemic_classification: 昭
 stand_in: 照
 aliases:
 注音: ㄐㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 照.
 >For the word, see [照](words/照.md)

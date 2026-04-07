@@ -29,6 +29,8 @@ graphemic_classification: 旁
 stand_in: 傍
 aliases:
 注音: ㄆㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 傍.
 >For the word, see [傍](words/傍.md)

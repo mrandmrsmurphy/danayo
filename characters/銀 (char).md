@@ -31,6 +31,8 @@ stand_in: 銀
 aliases:
   - 银
 注音: ㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 銀.
 >For the word, see [銀](words/銀.md)

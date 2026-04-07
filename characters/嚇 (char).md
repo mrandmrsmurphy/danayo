@@ -30,6 +30,8 @@ stand_in: 嚇
 aliases:
   - 吓
 注音: ㄏㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 嚇.
 >For the word, see [嚇](words/嚇.md)

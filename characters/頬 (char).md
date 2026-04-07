@@ -31,6 +31,8 @@ aliases:
   - 頰
   - 颊
 注音: ㄍㄝㄆ
+tags:
+  - character
 ---
 >[!tip] This is about the character. 
 >For the word, see [頬](words/頬.md)

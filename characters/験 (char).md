@@ -36,6 +36,8 @@ aliases:
   - 騐
 注音: ㄝㄇ
 date-last-perfect: 2026-04-01
+tags:
+  - character
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -29,6 +29,8 @@ mc_id: 462
 graphemic_classification: 象形
 stand_in: 目
 注音: ㄇㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 目.
 >For the word, see [目](words/目.md)

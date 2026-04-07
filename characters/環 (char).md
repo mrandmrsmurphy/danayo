@@ -29,6 +29,8 @@ stand_in: 環
 aliases:
   - 环
 注音: ㄏˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 環.
 >For the word, see [環](words/環.md)

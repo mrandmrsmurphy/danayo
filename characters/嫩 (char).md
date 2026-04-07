@@ -32,6 +32,8 @@ aliases:
   - 嫰
   - 媆
 注音: ㄋㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is about the character
 >For the word, see [嫩](words/嫩.md)

@@ -29,6 +29,8 @@ stand_in: 聞
 aliases:
   - 闻
 注音: ㄇㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 聞.
 >For the word, see [聞](words/聞.md)

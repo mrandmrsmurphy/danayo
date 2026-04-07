@@ -28,6 +28,8 @@ graphemic_classification: 串
 stand_in: 患
 aliases:
 注音: ㄏˇㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 患.
 >For the word, see [患](words/患.md)

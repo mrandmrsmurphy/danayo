@@ -31,6 +31,8 @@ stand_in: 残
 aliases:
   - 殘
 注音: ㄐㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 残.
 >For the word, see [残](words/残.md)

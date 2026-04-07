@@ -31,6 +31,8 @@ graphemic_classification: 生
 stand_in: 甥
 aliases:
 注音: ㄙㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 甥.
 >For the word, see [甥](words/甥.md)

@@ -33,6 +33,8 @@ aliases:
   - 會
   - 屶
 注音: ㄏˇㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 会.
 >For the word, see [会](words/会.md)

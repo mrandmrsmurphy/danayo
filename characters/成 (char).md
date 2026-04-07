@@ -30,6 +30,8 @@ stand_in: 成
 aliases:
   - 鯎
 注音: ㄙㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 成.
 >For the word, see [成](words/成.md)

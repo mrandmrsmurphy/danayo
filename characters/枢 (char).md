@@ -30,6 +30,8 @@ stand_in: 枢
 aliases:
   - 樞
 注音: ㄑㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 枢.
 >For the word, see [枢](words/枢.md)

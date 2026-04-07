@@ -31,6 +31,8 @@ stand_in: 餅
 aliases:
   - 饼
 注音: ㄅㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 餅.
 >For the word, see [餅](words/餅.md)

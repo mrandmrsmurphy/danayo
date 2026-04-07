@@ -30,6 +30,8 @@ graphemic_classification: 象形
 stand_in: 女
 aliases:
 注音: ㄋ˙ㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 女.
 >For the word, see [女](words/女.md)

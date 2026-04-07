@@ -30,6 +30,8 @@ stand_in: 詣
 aliases:
   - 诣
 注音: ㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [詣](words/詣.md)

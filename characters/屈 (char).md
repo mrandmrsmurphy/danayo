@@ -29,6 +29,8 @@ graphemic_classification: 出
 stand_in: 屈
 aliases:
 注音: ㄎㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 屈.
 >For the word, see [屈](words/屈.md)

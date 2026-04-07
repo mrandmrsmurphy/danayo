@@ -28,6 +28,8 @@ graphemic_classification: 屈
 stand_in: 窟
 aliases:
 注音: ㄎㄛㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 窟.
 >For the word, see [窟](words/窟.md)

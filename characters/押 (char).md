@@ -28,6 +28,8 @@ stand_in: 押
 aliases:
   - 狎
 注音: ㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 押.
 >For the word, see [押](words/押.md)

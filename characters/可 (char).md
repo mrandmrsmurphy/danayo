@@ -29,6 +29,8 @@ graphemic_classification: 考
 stand_in: 可
 aliases:
 注音: ㄎㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 可.
 >For the word, see [可](words/可.md)

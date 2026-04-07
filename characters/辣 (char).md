@@ -30,6 +30,8 @@ stand_in: 辣
 aliases:
   - 辢
 注音: ㄌㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 辣.
 >For the word, see [辣](words/辣.md)

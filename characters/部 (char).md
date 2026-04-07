@@ -29,6 +29,8 @@ graphemic_classification: 咅
 stand_in: 部
 aliases:
 注音: ㄅㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 部.
 >For the word, see [部](words/部.md)

@@ -29,6 +29,8 @@ stand_in: 届
 aliases:
 - 屆
 注音: ㄍ˙ㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 届.
 >For the word, see [届](words/届.md)

@@ -29,6 +29,8 @@ stand_in: 駆
 aliases:
   - 驅
 注音: ㄎㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 駆.
 >For the word, see [駆](words/駆.md)

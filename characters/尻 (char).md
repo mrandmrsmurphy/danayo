@@ -31,6 +31,8 @@ aliases:
   - 𡱂
   - 㞍
 注音: ㄎㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 尻.
 >For the word, see [尻](words/尻.md)

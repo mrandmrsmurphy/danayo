@@ -30,6 +30,8 @@ stand_in: 州
 aliases:
   - 𠄓
 注音: ㄐㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 州.
 >For the word, see [州](words/州.md)

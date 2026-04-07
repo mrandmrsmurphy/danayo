@@ -31,6 +31,8 @@ stand_in: 前
 aliases:
   - 揃
 注音: ㄐㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 前.
 >For the word, see [前](words/前.md)

@@ -29,6 +29,8 @@ stand_in: 比
 aliases:
   - 譬
 注音: ㄅㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is about the character 比.
 >For the word, see [比](words/比.md).

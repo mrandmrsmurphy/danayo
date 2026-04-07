@@ -29,6 +29,8 @@ aliases:
   - 舖
   - 铺
 注音: ㄆㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 舗.
 >For the word, see [舗](words/舗.md)

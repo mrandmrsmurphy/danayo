@@ -30,6 +30,8 @@ graphemic_classification: 由
 stand_in: 油
 aliases:
 注音: ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 油.
 >For the word, see [油](words/油.md)

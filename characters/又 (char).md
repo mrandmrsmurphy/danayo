@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 又
 aliases:
 注音: ㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 又.
 >For the word, see [又](words/又.md)

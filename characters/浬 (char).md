@@ -28,6 +28,8 @@ graphemic_classification: 里
 stand_in: 浬
 aliases:
 注音: ㄌㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 浬.
 >For the word, see [浬](words/浬.md)

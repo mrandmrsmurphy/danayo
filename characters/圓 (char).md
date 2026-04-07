@@ -32,6 +32,8 @@ aliases:
   - 圆
   - 円
 注音: ˇㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 圓.
 >For the word, see [圓](words/圓.md)

@@ -29,6 +29,8 @@ graphemic_classification: 高
 stand_in: 敲
 aliases:
 注音: ㄎ˙ㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 敲.
 >For the word, see [敲](words/敲.md)

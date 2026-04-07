@@ -30,6 +30,8 @@ stand_in: 劃
 aliases:
   - 划
 注音: ㄏˇㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 劃.
 >For the word, see [劃](words/劃.md)

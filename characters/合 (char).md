@@ -35,6 +35,8 @@ aliases:
   - 閤
 注音: ㄍㄛㄆ
 date-last-perfect: 2026-03-10
+tags:
+  - character
 ---
 >[!tip] This is about the character
 >For the word, see [合](words/合.md)

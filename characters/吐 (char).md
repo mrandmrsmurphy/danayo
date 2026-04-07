@@ -32,6 +32,8 @@ stand_in: 吐
 aliases:
 swadesh: 96
 注音: ㄊㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 吐.
 >For the word, see [吐](words/吐.md)

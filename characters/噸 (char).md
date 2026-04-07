@@ -28,6 +28,8 @@ stand_in: 噸
 aliases:
   - 吨
 注音: ㄊㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 噸.
 >For the word, see [噸](words/噸.md)

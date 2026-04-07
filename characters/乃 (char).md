@@ -31,6 +31,8 @@ aliases:
   - 奈
 品詞: 連接詞
 注音: ㄋㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 乃.
 >For the word, see [乃](words/乃.md)

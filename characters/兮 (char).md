@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 兮
 aliases:
 注音: ㄏㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 兮.
 >For the word, see [兮](words/兮.md)

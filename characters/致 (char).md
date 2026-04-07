@@ -28,6 +28,8 @@ stand_in: 致
 aliases:
 - 緻
 注音: ㄑㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 致.
 >For the word, see [致](words/致.md)

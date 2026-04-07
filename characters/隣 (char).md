@@ -29,6 +29,8 @@ stand_in: 隣
 aliases:
   - 鄰
 注音: ㄌㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 隣.
 >For the word, see [隣](words/隣.md)

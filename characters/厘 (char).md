@@ -29,6 +29,8 @@ stand_in: 厘
 aliases:
 - 釐
 注音: ㄌㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 厘.
 >For the word, see [厘](words/厘.md)

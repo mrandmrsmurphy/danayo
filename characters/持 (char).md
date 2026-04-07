@@ -31,6 +31,8 @@ stand_in: 持
 aliases:
   - 恃
 注音: ㄉㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 持.
 >For the word, see [持](words/持.md)

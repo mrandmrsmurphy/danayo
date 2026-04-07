@@ -34,6 +34,8 @@ aliases:
   - 𨤾
 注音: ㄍㄧㄇ
 date-last-perfect: 2026-03-12
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [金](words/金.md)

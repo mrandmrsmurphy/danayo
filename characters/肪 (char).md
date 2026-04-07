@@ -29,6 +29,8 @@ graphemic_classification: 方
 stand_in: 肪
 aliases:
 注音: ㄆㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 肪.
 >For the word, see [肪](words/肪.md)

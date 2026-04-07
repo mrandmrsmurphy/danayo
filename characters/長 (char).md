@@ -36,6 +36,8 @@ aliases:
   - 𠇬
 注音: ㄐㄚㄥ
 date-last-perfect: 2026-03-01
+tags:
+  - character
 ---
 >[!tip] This is the page for the character 長.  
 >For the word, see [[長]].

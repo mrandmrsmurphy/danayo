@@ -28,6 +28,8 @@ graphemic_classification: 一
 stand_in: 乞
 aliases:
 注音: ㄎㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 乞.
 >For the word, see [乞](words/乞.md)

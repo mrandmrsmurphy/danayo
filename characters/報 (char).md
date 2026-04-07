@@ -29,6 +29,8 @@ stand_in: 報
 aliases:
   - 报
 注音: ㄅㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 報.
 >For the word, see [報](words/報.md)

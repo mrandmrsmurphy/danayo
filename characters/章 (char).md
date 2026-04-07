@@ -30,6 +30,8 @@ aliases:
   - 鱆
   - 鮹
 注音: ㄐㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 章.
 >For the word, see [章](words/章.md)

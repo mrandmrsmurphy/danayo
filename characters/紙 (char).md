@@ -30,6 +30,8 @@ aliases:
   - 纸
   - 帋
 注音: ㄐㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 紙.
 >For the word, see [紙](words/紙.md)

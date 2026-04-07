@@ -30,6 +30,8 @@ stand_in: 負
 aliases:
   - 负
 注音: ㄅ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 負.
 >For the word, see [負](words/負.md)

@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 束
 aliases:
 注音: ㄙ˙ㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 束.
 >For the word, see [束](words/束.md)

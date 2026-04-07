@@ -28,6 +28,8 @@ stand_in: 賞
 aliases:
   - 赏
 注音: ㄙ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 賞.
 >For the word, see [賞](words/賞.md)

@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 胃
 aliases:
 注音: ㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 胃.
 >For the word, see [胃](words/胃.md)

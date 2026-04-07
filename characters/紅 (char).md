@@ -30,6 +30,8 @@ stand_in: 紅
 aliases:
   - 红
 注音: ㄏㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 紅.
 >For the word, see [紅](words/紅.md)

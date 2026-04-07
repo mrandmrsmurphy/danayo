@@ -30,6 +30,8 @@ graphemic_classification: 勻
 stand_in: 均
 aliases:
 注音: ㄍ˙ㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This page is about the character.
 >For the word, see [均](words/均.md)

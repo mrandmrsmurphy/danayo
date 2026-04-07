@@ -32,6 +32,8 @@ stand_in: 墊
 aliases:
   - 垫
 注音: ㄉㄧㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 墊.
 >For the word, see [墊](words/墊.md)

@@ -28,6 +28,8 @@ graphemic_classification: 扁
 stand_in: 篇
 aliases:
 注音: ㄆ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 篇.
 >For the word, see [篇](words/篇.md)

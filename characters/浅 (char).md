@@ -28,6 +28,8 @@ stand_in: 浅
 aliases:
 - 淺
 注音: ㄑㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 浅.
 >For the word, see [浅](words/浅.md)

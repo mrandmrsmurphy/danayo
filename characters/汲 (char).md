@@ -27,6 +27,8 @@ graphemic_classification: 及
 stand_in: 汲
 aliases:
 注音: ㄎㄨㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 汲.
 >For the word, see [汲](words/汲.md)

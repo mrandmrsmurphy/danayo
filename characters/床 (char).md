@@ -30,6 +30,8 @@ graphemic_classification: 牀
 stand_in: 床
 aliases:
 注音: ㄙ˙ㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 床.
 >For the word, see [床](words/床.md)

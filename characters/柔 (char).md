@@ -30,6 +30,8 @@ graphemic_classification: 矛
 stand_in: 柔
 aliases:
 注音: ㄋ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 柔.
 >For the word, see [柔](words/柔.md)

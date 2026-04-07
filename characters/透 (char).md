@@ -27,6 +27,8 @@ graphemic_classification: 秀
 stand_in: 透
 aliases:
 注音: ㄊㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 透.
 >For the word, see [透](words/透.md)

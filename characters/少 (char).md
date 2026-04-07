@@ -27,6 +27,8 @@ graphemic_classification: 小
 stand_in: 少
 aliases:
 注音: ㄙㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 少.
 >For the word, see [少](words/少.md)

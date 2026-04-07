@@ -30,6 +30,8 @@ graphemic_classification: 谷
 stand_in: 容
 aliases:
 注音: ˙ㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 容.
 >For the word, see [容](words/容.md)

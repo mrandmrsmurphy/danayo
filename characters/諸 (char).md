@@ -32,6 +32,8 @@ stand_in: 諸
 aliases:
   - 诸
 注音: ㄐㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 諸.
 >For the word, see [諸](words/諸.md)

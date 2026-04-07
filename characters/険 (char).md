@@ -30,6 +30,8 @@ aliases:
   - 險
   - 险
 注音: ㄏㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 険.
 >For the word, see [険](words/険.md)

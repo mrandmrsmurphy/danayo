@@ -30,6 +30,8 @@ graphemic_classification: 冢
 stand_in: 塚
 aliases:
 注音: ㄑㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 塚.
 >For the word, see [塚](words/塚.md)

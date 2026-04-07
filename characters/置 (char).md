@@ -29,6 +29,8 @@ stand_in: 置
 aliases:
   - 寘
 注音: ㄑㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 置.
 >For the word, see [置](words/置.md)

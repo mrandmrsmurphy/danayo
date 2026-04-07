@@ -31,6 +31,8 @@ aliases:
   - 兒
   - 儿
 注音: ㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 児.
 >For the word, see [児](words/児.md)

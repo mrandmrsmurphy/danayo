@@ -30,6 +30,8 @@ aliases:
   - 骗
   - 騗
 注音: ㄆ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 騙.
 >For the word, see [騙](words/騙.md)

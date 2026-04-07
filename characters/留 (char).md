@@ -31,6 +31,8 @@ stand_in: 留
 aliases:
   - 畱
 注音: ㄌ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 留.
 >For the word, see [留](words/留.md)

@@ -30,6 +30,8 @@ stand_in: 有
 aliases:
   - 宥
 注音: ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 有.
 >For the word, see [有](words/有.md)

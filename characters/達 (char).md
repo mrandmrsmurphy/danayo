@@ -31,6 +31,8 @@ aliases:
   - 逹
   - 达
 注音: ㄊㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 達.
 >For the word, see [達](words/達.md)

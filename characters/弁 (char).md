@@ -32,6 +32,8 @@ aliases:
   - 瓣
   - 辨
 注音: ㄅ˙ㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弁.
 >For the word, see [弁](words/弁.md)

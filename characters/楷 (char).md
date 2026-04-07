@@ -28,6 +28,8 @@ graphemic_classification: 皆
 stand_in: 楷
 aliases:
 注音: ㄎ˙ㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 楷.
 >For the word, see [楷](words/楷.md)

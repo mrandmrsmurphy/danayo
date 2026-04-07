@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 日
 aliases:
 注音: ㄋㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 日.
 >For the word, see [日](words/日.md)

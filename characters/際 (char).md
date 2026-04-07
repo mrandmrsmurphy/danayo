@@ -30,6 +30,8 @@ stand_in: 際
 aliases:
   - 际
 注音: ㄐㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 際.
 >For the word, see [際](words/際.md)

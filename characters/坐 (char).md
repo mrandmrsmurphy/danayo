@@ -28,6 +28,8 @@ stand_in: 坐
 aliases:
   - 座
 注音: ㄐˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 坐.
 >For the word, see [坐](words/坐.md)

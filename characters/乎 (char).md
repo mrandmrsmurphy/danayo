@@ -32,6 +32,8 @@ aliases:
   - 𠂞
   - 𠂠
 注音: ㄏㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 乎.
 >For the word, see [乎](words/乎.md)

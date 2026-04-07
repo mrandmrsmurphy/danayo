@@ -28,6 +28,8 @@ graphemic_classification: 及
 stand_in: 扱
 aliases:
 注音: ㄑㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 扱.
 >For the word, see [扱](words/扱.md)

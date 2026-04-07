@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 妾
 aliases:
 注音: ㄑㄛㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 妾.
 >For the word, see [妾](words/妾.md)

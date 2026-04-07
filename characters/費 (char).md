@@ -29,6 +29,8 @@ stand_in: 費
 aliases:
   - 费
 注音: ㄆㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 費.
 >For the word, see [費](words/費.md)

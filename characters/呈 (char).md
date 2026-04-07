@@ -28,6 +28,8 @@ graphemic_classification: 廷
 stand_in: 呈
 aliases:
 注音: ㄉㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 呈.
 >For the word, see [呈](words/呈.md)

@@ -29,6 +29,8 @@ graphemic_classification: 盾
 stand_in: 循
 aliases:
 注音: ㄙ˙ㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 循.
 >For the word, see [循](words/循.md)

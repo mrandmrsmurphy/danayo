@@ -34,6 +34,8 @@ aliases:
   - 輕
   - 轻
 注音: ㄎㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 軽.
 >For the word, see [軽](words/軽.md)

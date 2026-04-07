@@ -30,6 +30,8 @@ aliases:
   - 哩
 注音: ㄌㄧ
 kwin: true
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 里.
 >For the word, see [里](words/里.md)

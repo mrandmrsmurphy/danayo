@@ -31,6 +31,8 @@ graphemic_classification: 末
 stand_in: 沫
 aliases:
 注音: ㄇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 沫.
 >For the word, see [沫](words/沫.md)

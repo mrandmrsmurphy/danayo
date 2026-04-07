@@ -29,6 +29,8 @@ stand_in: 出
 aliases:
 - 齣
 注音: ㄑㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 出.
 >For the word, see [出](words/出.md)

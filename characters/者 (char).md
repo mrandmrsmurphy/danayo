@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 者
 aliases:
 注音: ㄑㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 者.
 >For the word, see [者](words/者.md)

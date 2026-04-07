@@ -30,6 +30,8 @@ aliases:
   - 劼
   - 佶
 注音: ㄍㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 吉.
 >For the word, see [吉](words/吉.md)

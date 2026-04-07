@@ -32,6 +32,8 @@ aliases:
   - 霖
   - 碄
 注音: ㄌㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 林.
 >For the word, see [林](words/林.md)

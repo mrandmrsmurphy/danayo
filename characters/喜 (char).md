@@ -31,6 +31,8 @@ stand_in: 喜
 aliases:
   - 禧
 注音: ㄏㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character.
 >For the word, see [喜](words/喜.md)

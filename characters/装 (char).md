@@ -30,6 +30,8 @@ stand_in: 装
 aliases:
   - 裝
 注音: ㄐˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 装.
 >For the word, see [装](words/装.md)

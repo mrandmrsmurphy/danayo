@@ -28,6 +28,8 @@ graphemic_classification: 到
 stand_in: 倒
 aliases:
 注音: ㄊㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is about the character
 >For the word, see [倒](words/倒.md).

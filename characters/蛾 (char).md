@@ -30,6 +30,8 @@ stand_in: 蛾
 aliases:
   - 蟻
 注音: ㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蛾.
 >For the word, see [蛾](words/蛾.md)

@@ -29,6 +29,8 @@ stand_in: 着
 aliases:
 - 著
 注音: ㄐˇㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 着.
 >For the word, see [着](words/着.md)

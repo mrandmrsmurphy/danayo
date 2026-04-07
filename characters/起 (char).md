@@ -27,6 +27,8 @@ graphemic_classification: 巳
 stand_in: 起
 aliases:
 注音: ㄎㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 起.
 >For the word, see [起](words/起.md)

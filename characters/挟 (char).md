@@ -30,6 +30,8 @@ stand_in: 挟
 aliases:
 - 挾
 注音: ㄏㄝㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 挟.
 >For the word, see [挟](words/挟.md)

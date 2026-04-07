@@ -30,6 +30,8 @@ graphemic_classification: 果
 stand_in: 裸
 aliases:
 注音: ㄌㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 裸.
 >For the word, see [裸](words/裸.md)

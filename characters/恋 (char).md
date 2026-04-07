@@ -30,6 +30,8 @@ aliases:
 - 戀
 - 㜻
 注音: ㄌㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 恋.
 >For the word, see [恋](words/恋.md)

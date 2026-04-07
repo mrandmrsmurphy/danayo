@@ -31,6 +31,8 @@ aliases:
   - 勋
   - 勳
 注音: ㄏㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 勲.
 >For the word, see [勲](words/勲.md)

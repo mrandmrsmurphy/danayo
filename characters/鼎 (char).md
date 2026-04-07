@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 鼎
 aliases:
 注音: ㄉㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鼎.
 >For the word, see [鼎](words/鼎.md)

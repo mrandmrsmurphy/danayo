@@ -28,6 +28,8 @@ graphemic_classification: 干
 stand_in: 刊
 aliases:
 注音: ㄎㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 刊.
 >For the word, see [刊](words/刊.md)

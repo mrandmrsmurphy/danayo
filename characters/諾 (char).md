@@ -28,6 +28,8 @@ stand_in: 諾
 aliases:
   - 诺
 注音: ㄋㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 諾.
 >For the word, see [諾](words/諾.md)

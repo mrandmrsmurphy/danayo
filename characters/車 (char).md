@@ -32,6 +32,8 @@ stand_in: 車
 aliases:
   - 车
 注音: ㄑㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 車.
 >For the word, see [車](words/車.md)

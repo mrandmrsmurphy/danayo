@@ -30,6 +30,8 @@ graphemic_classification: 會意
 stand_in: 直
 aliases:
 注音: ㄐㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 直.
 >For the word, see [直](words/直.md)

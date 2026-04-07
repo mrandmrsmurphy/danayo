@@ -28,6 +28,8 @@ stand_in: 輿
 aliases:
   - 舆
 注音: ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 輿.
 >For the word, see [輿](words/輿.md)

@@ -27,6 +27,8 @@ graphemic_classification: 解
 stand_in: 蟹
 aliases:
 注音: ㄏ˙ㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蟹.
 >For the word, see [蟹](words/蟹.md)

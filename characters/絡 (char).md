@@ -30,6 +30,8 @@ aliases:
   - 络
   - 珞
 注音: ㄌㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 絡.
 >For the word, see [絡](words/絡.md)

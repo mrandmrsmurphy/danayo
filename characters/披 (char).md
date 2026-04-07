@@ -24,6 +24,8 @@ mc_id: "2226"
 graphemic_classification: 皮
 stand_in: 披
 注音: ㄆㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 披.
 >For the word, see [披](words/披.md)

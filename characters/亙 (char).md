@@ -28,6 +28,8 @@ graphemic_classification: 指事
 stand_in: 亙
 aliases:
 注音: ㄍㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 亙.
 >For the word, see [亙](words/亙.md)

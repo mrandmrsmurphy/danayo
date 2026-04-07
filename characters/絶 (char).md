@@ -30,6 +30,8 @@ aliases:
   - 絕
   - 绝
 注音: ㄐˇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 絶.
 >For the word, see [絶](words/絶.md)

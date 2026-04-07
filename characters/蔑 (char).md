@@ -28,6 +28,8 @@ stand_in: 蔑
 aliases:
 - 衊
 注音: ㄇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蔑.
 >For the word, see [蔑](words/蔑.md)

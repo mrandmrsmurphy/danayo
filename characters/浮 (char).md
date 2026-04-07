@@ -28,6 +28,8 @@ graphemic_classification: 孚
 stand_in: 浮
 aliases:
 注音: ㄅㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 浮.
 >For the word, see [浮](words/浮.md)

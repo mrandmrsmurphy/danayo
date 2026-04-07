@@ -34,6 +34,8 @@ stand_in: 入
 aliases:
 注音: ㄋㄧㄆ
 date-last-perfect: 2026-02-20
+tags:
+  - character
 ---
 > [!tip] This is a page about the character.  For the word, see [[入]].  For the radical, see [[Radical 011]].
 ```meta-bind-embed

@@ -28,6 +28,8 @@ graphemic_classification: 念
 stand_in: 捻
 aliases:
 注音: ㄋㄝㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 捻.
 >For the word, see [捻](words/捻.md)

@@ -27,6 +27,8 @@ graphemic_classification: 才
 stand_in: 哉
 aliases:
 注音: ㄐㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 哉.
 >For the word, see [哉](words/哉.md)

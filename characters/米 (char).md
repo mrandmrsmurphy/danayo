@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 米
 aliases:
 注音: ㄇㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 米.
 >For the word, see [米](words/米.md)

@@ -28,6 +28,8 @@ stand_in: 克
 aliases:
 - 剋
 注音: ㄎㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 克.
 >For the word, see [克](words/克.md)

@@ -26,6 +26,8 @@ stand_in: 曇
 aliases:
   - 昙
 注音: ㄉㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 曇.
 >For the word, see [曇](words/曇.md)

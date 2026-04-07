@@ -32,6 +32,8 @@ aliases:
   - 斂
   - 敛
 注音: ㄌ˙ㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 㪘.
 >For the word, see [[㪘]].

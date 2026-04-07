@@ -29,6 +29,8 @@ graphemic_classification: 勇
 stand_in: 湧
 aliases:
 注音: ˙ㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 湧.
 >For the word, see [湧](words/湧.md)

@@ -31,6 +31,8 @@ stand_in: 倶
 aliases:
   - 俱
 注音: ㄍㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 倶.
 >For the word, see [倶](words/倶.md)

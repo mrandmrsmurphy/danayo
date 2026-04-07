@@ -28,6 +28,8 @@ graphemic_classification: 乙
 stand_in: 札
 aliases:
 注音: ㄐㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 札.
 >For the word, see [札](words/札.md)

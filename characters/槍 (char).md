@@ -30,6 +30,8 @@ stand_in: 槍
 aliases:
   - 枪
 注音: ㄑˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 槍.
 >For the word, see [槍](words/槍.md)

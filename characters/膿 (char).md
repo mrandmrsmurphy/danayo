@@ -29,6 +29,8 @@ stand_in: 膿
 aliases:
   - 脓
 注音: ㄋㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 膿.
 >For the word, see [膿](words/膿.md)

@@ -28,6 +28,8 @@ graphemic_classification: 艮
 stand_in: 恨
 aliases:
 注音: ㄏㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 恨.
 >For the word, see [恨](words/恨.md)

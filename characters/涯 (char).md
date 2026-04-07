@@ -29,6 +29,8 @@ graphemic_classification: 厓
 stand_in: 涯
 aliases:
 注音: ˙ㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 涯.
 >For the word, see [涯](words/涯.md)

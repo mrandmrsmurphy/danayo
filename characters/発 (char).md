@@ -34,6 +34,8 @@ aliases:
   - 醗
   - 醱
 注音: ㄆㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 発.
 >For the word, see [発](words/発.md)

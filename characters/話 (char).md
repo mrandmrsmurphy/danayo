@@ -31,6 +31,8 @@ aliases:
   - 话
   - 䛡
 注音: ㄏˇㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 話.
 >For the word, see [話](words/話.md)

@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 卑
 aliases:
 注音: ㄅㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 卑.
 >For the word, see [卑](words/卑.md)

@@ -32,6 +32,8 @@ aliases:
   - 幷
   - 倂
 注音: ㄅㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 並.
 >For the word, see [並](words/並.md)

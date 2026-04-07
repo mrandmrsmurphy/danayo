@@ -29,6 +29,8 @@ stand_in: 謁
 aliases:
   - 谒
 注音: ㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 謁.
 >For the word, see [謁](words/謁.md)

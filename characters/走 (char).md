@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 走
 aliases:
 注音: ㄙㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 走.
 >For the word, see [走](words/走.md)

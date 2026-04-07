@@ -33,6 +33,8 @@ aliases:
   - 嗮
   - 澌
 注音: ㄙ˙ㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 晒.
 >For the word, see [晒](words/晒.md)

@@ -30,6 +30,8 @@ stand_in: 撇
 aliases:
   - 襒
 注音: ㄆㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 撇.
 >For the word, see [撇](words/撇.md)

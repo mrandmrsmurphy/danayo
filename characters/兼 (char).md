@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 兼
 aliases:
 注音: ㄍㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 兼.
 >For the word, see [兼](words/兼.md)

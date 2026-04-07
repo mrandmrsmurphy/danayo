@@ -32,6 +32,8 @@ aliases:
   - 廻
   - 蛔
 注音: ㄏㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 回.
 >For the word, see [回](words/回.md)

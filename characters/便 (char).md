@@ -32,6 +32,8 @@ graphemic_classification: 便
 stand_in: 便
 aliases:
 注音: ㄅ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 便.
 >For the word, see [便](words/便.md)

@@ -29,6 +29,8 @@ stand_in: 碼
 aliases:
   - 码
 注音: ㄇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 碼.
 >For the word, see [碼](words/碼.md)

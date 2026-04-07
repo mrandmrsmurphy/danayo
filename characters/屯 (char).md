@@ -31,6 +31,8 @@ graphemic_classification: 象形
 stand_in: 屯
 aliases:
 注音: ㄉㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 屯.
 >For the word, see [屯](words/屯.md)

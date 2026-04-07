@@ -28,6 +28,8 @@ graphemic_classification: 牙
 stand_in: 耶
 aliases:
 注音: ˙ㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 耶.
 >For the word, see [耶](words/耶.md)

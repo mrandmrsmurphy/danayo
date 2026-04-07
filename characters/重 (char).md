@@ -28,6 +28,8 @@ graphemic_classification: 東
 stand_in: 重
 aliases:
 注音: ㄑㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 重.
 >For the word, see [重](words/重.md)

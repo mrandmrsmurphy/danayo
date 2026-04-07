@@ -29,6 +29,8 @@ stand_in: 憫
 aliases:
   - 悯
 注音: ㄇㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 憫.
 >For the word, see [憫](words/憫.md)

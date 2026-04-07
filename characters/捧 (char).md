@@ -27,6 +27,8 @@ graphemic_classification: 奉
 stand_in: 捧
 aliases:
 注音: ㄆㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 捧.
 >For the word, see [捧](words/捧.md)

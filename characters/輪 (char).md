@@ -31,6 +31,8 @@ stand_in: 輪
 aliases:
   - 轮
 注音: ㄌㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 輪.
 >For the word, see [輪](words/輪.md)

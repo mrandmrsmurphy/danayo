@@ -30,6 +30,8 @@ stand_in: 寝
 aliases:
   - 寢
 注音: ㄑㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 寝.
 >For the word, see [寝](words/寝.md)

@@ -28,6 +28,8 @@ graphemic_classification: 辟
 stand_in: 避
 aliases:
 注音: ㄅㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 避.
 >For the word, see [避](words/避.md)

@@ -28,5 +28,7 @@ aliases:
   - 阋
 注音: ㄏㄝㄎ
 kwin: false
+tags:
+  - character
 ---
 ## Notes

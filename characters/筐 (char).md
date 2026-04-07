@@ -28,6 +28,8 @@ stand_in: 筐
 aliases:
   - 筺
 注音: ㄎˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 筐.
 >For the word, see [筐](words/筐.md)

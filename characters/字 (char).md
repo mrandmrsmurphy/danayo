@@ -29,6 +29,8 @@ graphemic_classification: 子
 stand_in: 字
 注音: ㄐㄧ
 date-last-perfect: 2026-03-08
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 > For the word, see [[../words/字]].

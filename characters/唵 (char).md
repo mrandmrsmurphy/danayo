@@ -29,6 +29,8 @@ graphemic_classification: 奄
 stand_in: 唵
 aliases:
 注音: ㄛㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 唵.
 >For the word, see [唵](words/唵.md)

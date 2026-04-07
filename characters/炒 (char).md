@@ -29,6 +29,8 @@ graphemic_classification: 少
 stand_in: 炒
 aliases:
 注音: ㄑㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 炒.
 >For the word, see [炒](words/炒.md)

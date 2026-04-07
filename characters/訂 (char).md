@@ -30,6 +30,8 @@ stand_in: 訂
 aliases:
   - 订
 注音: ㄊㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 訂.
 >For the word, see [訂](words/訂.md)

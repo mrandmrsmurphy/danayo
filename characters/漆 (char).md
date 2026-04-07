@@ -29,6 +29,8 @@ stand_in: 漆
 aliases:
   - 桼
 注音: ㄑㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 漆.
 >For the word, see [漆](words/漆.md)

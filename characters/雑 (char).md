@@ -30,6 +30,8 @@ aliases:
   - 雜
   - 杂
 注音: ㄐㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 雑.
 >For the word, see [雑](words/雑.md)

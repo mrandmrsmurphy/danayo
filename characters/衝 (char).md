@@ -28,6 +28,8 @@ stand_in: 衝
 aliases:
   - 冲
 注音: ㄑㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 衝.
 >For the word, see [衝](words/衝.md)

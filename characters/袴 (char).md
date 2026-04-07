@@ -28,6 +28,8 @@ graphemic_classification: 夸
 stand_in: 袴
 aliases:
 注音: ㄎㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 袴.
 >For the word, see [袴](words/袴.md)

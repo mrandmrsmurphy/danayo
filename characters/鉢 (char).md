@@ -30,6 +30,8 @@ aliases:
   - 盋
   - 钵
 注音: ㄅㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鉢.
 >For the word, see [鉢](words/鉢.md)

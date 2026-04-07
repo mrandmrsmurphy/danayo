@@ -29,6 +29,8 @@ stand_in: 興
 aliases:
   - 兴
 注音: ㄏㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 興.
 >For the word, see [興](words/興.md)

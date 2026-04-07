@@ -29,6 +29,8 @@ graphemic_classification: 也
 stand_in: 池
 aliases:
 注音: ㄐㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 池.
 >For the word, see [池](words/池.md)

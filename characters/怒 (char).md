@@ -28,6 +28,8 @@ graphemic_classification: 奴
 stand_in: 怒
 aliases:
 注音: ㄋㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 怒.
 >For the word, see [怒](words/怒.md)

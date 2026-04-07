@@ -32,6 +32,8 @@ aliases:
   - 㫡
   - 鼕
 注音: ㄊㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 冬.
 >For the word, see [冬](words/冬.md)

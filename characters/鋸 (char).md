@@ -29,6 +29,8 @@ stand_in: 鋸
 aliases:
   - 锯
 注音: ㄍ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鋸.
 >For the word, see [鋸](words/鋸.md)

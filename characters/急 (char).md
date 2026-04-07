@@ -30,6 +30,8 @@ graphemic_classification: 及
 stand_in: 急
 aliases:
 注音: ㄍㄧㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 急.
 >For the word, see [急](words/急.md)

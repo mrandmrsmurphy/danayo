@@ -29,6 +29,8 @@ stand_in: 唯
 aliases:
   - 惟
 注音: ˙ㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 唯.
 >For the word, see [唯](words/唯.md)

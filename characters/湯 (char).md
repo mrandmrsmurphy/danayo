@@ -29,6 +29,8 @@ stand_in: 湯
 aliases:
   - 汤
 注音: ㄊㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 湯.
 >For the word, see [湯](words/湯.md)

@@ -28,6 +28,8 @@ graphemic_classification: 夋
 stand_in: 酸
 aliases:
 注音: ㄙˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 酸.
 >For the word, see [酸](words/酸.md)

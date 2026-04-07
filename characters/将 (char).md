@@ -36,6 +36,8 @@ aliases:
   - 漿
   - 浆
 注音: ㄐˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 将.
 >For the word, see [将](words/将.md)

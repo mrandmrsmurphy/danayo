@@ -29,6 +29,8 @@ graphemic_classification: 包
 stand_in: 鞄
 aliases:
 注音: ㄆㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鞄.
 >For the word, see [鞄](words/鞄.md)

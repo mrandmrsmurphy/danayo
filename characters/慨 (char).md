@@ -28,6 +28,8 @@ graphemic_classification: 既
 stand_in: 慨
 aliases:
 注音: ㄎㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 慨.
 >For the word, see [慨](words/慨.md)

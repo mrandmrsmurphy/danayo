@@ -30,6 +30,8 @@ graphemic_classification: 立
 stand_in: 拉
 aliases:
 注音: ㄌㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 拉.
 >For the word, see [拉](words/拉.md)

@@ -30,6 +30,8 @@ aliases:
   - 彌
   - 瀰
 注音: ㄇㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弥.
 >For the word, see [弥](words/弥.md)

@@ -37,6 +37,8 @@ aliases:
   - 紁
 注音: ㄑㄚ˙
 date-last-perfect: 2026-03-24
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 叉.
 >For the word, see [叉](words/叉.md)

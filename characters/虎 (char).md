@@ -29,6 +29,8 @@ stand_in: 虎
 aliases:
   - 乕
 注音: ㄏㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 虎.
 >For the word, see [虎](words/虎.md)

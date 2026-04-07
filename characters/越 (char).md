@@ -29,6 +29,8 @@ graphemic_classification: 戉
 stand_in: 越
 aliases:
 注音: ˇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 越.
 >For the word, see [越](words/越.md)

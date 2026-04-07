@@ -34,6 +34,8 @@ aliases:
   - 鮀
 注音: ㄊㄚ
 kwin: true
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蛇.
 >For the word, see [蛇](words/蛇.md)

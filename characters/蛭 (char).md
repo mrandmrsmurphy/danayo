@@ -28,6 +28,8 @@ graphemic_classification: 至
 stand_in: 蛭
 aliases:
 注音: ㄐㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蛭.
 >For the word, see [蛭](words/蛭.md)

@@ -33,6 +33,8 @@ stand_in: 請
 aliases:
   - 请
 注音: ㄑㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 請.
 >For the word, see [請](words/請.md)

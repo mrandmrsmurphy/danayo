@@ -34,6 +34,7 @@ aliases:
 tags:
   - adverbial
   - correlative
+  - character
 ---
 >[!tip] This is a page about the character 毎.
 >For the word, see [毎](words/毎.md)

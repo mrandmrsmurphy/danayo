@@ -28,6 +28,8 @@ graphemic_classification: 立
 stand_in: 泣
 aliases:
 注音: ㄎㄧㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 泣.
 >For the word, see [泣](words/泣.md)

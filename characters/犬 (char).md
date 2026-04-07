@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 犬
 aliases:
 注音: ㄎˇㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is about the character.  For the word, see [[words/犬]].
 >For the radical, see [Radical 094](lookup/Radicals/Radical%20094.md).

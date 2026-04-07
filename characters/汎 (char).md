@@ -29,6 +29,8 @@ graphemic_classification: 凡
 stand_in: 汎
 aliases:
 注音: ㄆㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 汎.
 >For the word, see [汎](words/汎.md)

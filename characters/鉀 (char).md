@@ -25,6 +25,8 @@ mc_id: 8866
 graphemic_classification: 甲
 stand_in: 鉀
 注音: ㄍㄚㄆ
+tags:
+  - character
 ---
 ```meta-bind-embed
 [[nav/char_info]]

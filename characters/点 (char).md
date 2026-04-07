@@ -29,6 +29,8 @@ aliases:
   - 點
   - 奌
 注音: ㄉㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 点.
 >For the word, see [点](words/点.md)

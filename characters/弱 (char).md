@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 弱
 aliases:
 注音: ㄋ˙ㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弱.
 >For the word, see [弱](words/弱.md)

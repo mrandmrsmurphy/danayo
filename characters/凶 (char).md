@@ -30,6 +30,8 @@ stand_in: 凶
 aliases:
   - 兇
 注音: ㄏ˙ㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 凶.
 >For the word, see [凶](words/凶.md)

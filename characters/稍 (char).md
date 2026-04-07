@@ -29,6 +29,8 @@ graphemic_classification: 肖
 stand_in: 稍
 aliases:
 注音: ㄙ˙ㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 稍.
 >For the word, see [稍](words/稍.md)

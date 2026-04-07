@@ -29,6 +29,8 @@ stand_in: 尚
 aliases:
   - 尙
 注音: ㄙ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 尚.
 >For the word, see [尚](words/尚.md)

@@ -27,6 +27,8 @@ graphemic_classification: 戸
 stand_in: 肩
 aliases:
 注音: ㄍㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 肩.
 >For the word, see [肩](words/肩.md)

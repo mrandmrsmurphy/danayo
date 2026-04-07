@@ -29,6 +29,8 @@ graphemic_classification: 扁
 stand_in: 偏
 aliases:
 注音: ㄆ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 偏.
 >For the word, see [偏](words/偏.md)

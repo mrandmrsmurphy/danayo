@@ -31,6 +31,8 @@ aliases:
   - 變
 品詞: 性詞
 注音: ㄅ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 変.
 >For the word, see [変](words/変.md)

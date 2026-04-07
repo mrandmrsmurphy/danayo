@@ -29,6 +29,8 @@ graphemic_classification: 會意
 stand_in: 秀
 aliases:
 注音: ㄙㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 秀.
 >For the word, see [秀](words/秀.md)

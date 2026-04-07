@@ -29,6 +29,8 @@ stand_in: 砕
 aliases:
   - 碎
 注音: ㄙㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 砕.
 >For the word, see [砕](words/砕.md)

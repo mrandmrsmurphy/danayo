@@ -30,6 +30,8 @@ aliases:
   - 𬵂
   - 鲇
 注音: ㄋㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鮎.
 >For the word, see [鮎](words/鮎.md)

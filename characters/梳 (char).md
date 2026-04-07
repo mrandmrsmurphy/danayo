@@ -27,6 +27,8 @@ graphemic_classification: 疏
 stand_in: 梳
 aliases:
 注音: ㄙㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 梳.
 >For the word, see [梳](words/梳.md)

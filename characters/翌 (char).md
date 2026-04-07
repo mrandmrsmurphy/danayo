@@ -30,6 +30,8 @@ graphemic_classification: 立
 stand_in: 翌
 aliases:
 注音: ㄧㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 翌.
 >For the word, see [翌](words/翌.md)

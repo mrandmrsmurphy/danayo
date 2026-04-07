@@ -30,6 +30,8 @@ aliases:
   - 聽
   - 听
 注音: ㄑㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 聴.
 >For the word, see [聴](words/聴.md)

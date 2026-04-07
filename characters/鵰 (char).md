@@ -30,6 +30,8 @@ aliases:
   - 𫛲
   - 雕
 注音: ㄑㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鵰.
 >For the word, see [鵰](words/鵰.md)

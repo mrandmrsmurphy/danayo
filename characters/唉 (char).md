@@ -30,6 +30,8 @@ graphemic_classification: 矣
 stand_in: 唉
 aliases:
 注音: ㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 唉.
 >For the word, see [唉](words/唉.md)

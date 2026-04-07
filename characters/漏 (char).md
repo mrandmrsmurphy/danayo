@@ -27,6 +27,8 @@ graphemic_classification: 屚
 stand_in: 漏
 aliases:
 注音: ㄌㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 漏.
 >For the word, see [漏](words/漏.md)

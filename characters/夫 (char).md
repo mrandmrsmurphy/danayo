@@ -30,6 +30,8 @@ stand_in: 夫
 aliases:
   - 趺
 注音: ㄅㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 夫.
 >For the word, see [夫](words/夫.md)

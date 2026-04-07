@@ -27,6 +27,8 @@ graphemic_classification: 王
 stand_in: 往
 aliases:
 注音: ˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 往.
 >For the word, see [往](words/往.md)

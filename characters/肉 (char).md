@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 肉
 aliases:
 注音: ㄋㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 肉.
 >For the word, see [肉](words/肉.md)

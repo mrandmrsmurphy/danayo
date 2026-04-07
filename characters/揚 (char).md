@@ -29,6 +29,8 @@ stand_in: 揚
 aliases:
   - 扬
 注音: ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 揚.
 >For the word, see [揚](words/揚.md)

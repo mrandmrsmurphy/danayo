@@ -29,6 +29,8 @@ stand_in: 悩
 aliases:
   - 惱
 注音: ㄋㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 悩.
 >For the word, see [悩](words/悩.md)

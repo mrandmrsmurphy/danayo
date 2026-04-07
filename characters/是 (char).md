@@ -29,6 +29,8 @@ graphemic_classification: 止
 stand_in: 是
 aliases:
 注音: ㄙㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 是.
 >For the word, see [是](words/是.md)

@@ -27,6 +27,8 @@ graphemic_classification: 指事
 stand_in: 占
 aliases:
 注音: ㄐㄝㄇ
+tags:
+  - character
 ---
 ```meta-bind-embed
 [[nav/char_info]]

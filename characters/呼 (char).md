@@ -32,6 +32,8 @@ stand_in: 呼
 aliases:
   - 謼
 注音: ㄏㄛ
+tags:
+  - character
 ---
 >[!tip] This is about the character
 > For the word, see [呼](words/呼.md).

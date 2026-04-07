@@ -29,6 +29,8 @@ stand_in: 翻
 aliases:
   - 飜
 注音: ㄆㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 翻.
 >For the word, see [翻](words/翻.md)

@@ -27,6 +27,8 @@ graphemic_classification: 皮
 stand_in: 被
 aliases:
 注音: ㄆㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 被.
 >For the word, see [被](words/被.md)

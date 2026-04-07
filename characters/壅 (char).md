@@ -27,6 +27,8 @@ graphemic_classification: 雍
 stand_in: 壅
 aliases:
 注音: ㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 壅.
 >For the word, see [壅](words/壅.md)

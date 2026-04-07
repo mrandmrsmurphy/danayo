@@ -27,6 +27,8 @@ graphemic_classification: 分
 stand_in: 粉
 aliases:
 注音: ㄅㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 粉.
 >For the word, see [粉](words/粉.md)

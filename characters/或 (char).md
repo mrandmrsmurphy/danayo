@@ -29,6 +29,8 @@ graphemic_classification: 會意
 stand_in: 或
 aliases:
 注音: ㄏㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 或.
 >For the word, see [或](words/或.md)

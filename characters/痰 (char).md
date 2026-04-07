@@ -28,6 +28,8 @@ graphemic_classification: 炎
 stand_in: 痰
 aliases:
 注音: ㄉㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 痰.
 >For the word, see [痰](words/痰.md)

@@ -29,6 +29,8 @@ stand_in: 鞋
 aliases:
   - 鞵
 注音: ㄏ˙ㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鞋.
 >For the word, see [鞋](words/鞋.md)

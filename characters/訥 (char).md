@@ -30,6 +30,8 @@ stand_in: 訥
 aliases:
   - 讷
 注音: ㄋㄛㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 訥.
 >For the word, see [訥](words/訥.md)

@@ -33,6 +33,8 @@ aliases:
   - 碱
   - 𫠗
 注音: ㄑㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鹸.
 >For the word, see [鹸](words/鹸.md)

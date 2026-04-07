@@ -27,6 +27,8 @@ graphemic_classification: 匊
 stand_in: 菊
 aliases:
 注音: ㄍㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 菊.
 >For the word, see [菊](words/菊.md)

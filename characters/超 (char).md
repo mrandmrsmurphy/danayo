@@ -28,6 +28,8 @@ graphemic_classification: 召
 stand_in: 超
 aliases:
 注音: ㄊㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 超.
 >For the word, see [超](words/超.md)

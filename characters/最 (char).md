@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 最
 aliases:
 注音: ㄐˇㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character.
 >For the word, please see [最](words/最.md).

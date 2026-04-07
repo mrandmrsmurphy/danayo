@@ -30,6 +30,8 @@ graphemic_classification: 氐
 stand_in: 底
 aliases:
 注音: ㄉㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 底.
 >For the word, see [底](words/底.md)

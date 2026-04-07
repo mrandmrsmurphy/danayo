@@ -27,6 +27,8 @@ graphemic_classification: 永
 stand_in: 泳
 aliases:
 注音: ˇㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 泳.
 >For the word, see [泳](words/泳.md)

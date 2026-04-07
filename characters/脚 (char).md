@@ -29,6 +29,8 @@ stand_in: 脚
 aliases:
 - 腳
 注音: ㄍ˙ㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 脚.
 >For the word, see [脚](words/脚.md)

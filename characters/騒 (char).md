@@ -28,6 +28,8 @@ stand_in: 騒
 aliases:
   - 騷
 注音: ㄙㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 騒.
 >For the word, see [騒](words/騒.md)

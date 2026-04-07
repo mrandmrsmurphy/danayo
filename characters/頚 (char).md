@@ -31,6 +31,8 @@ aliases:
   - 頸
   - 颈
 注音: ㄍㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [頚](words/頚.md).

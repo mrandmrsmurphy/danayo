@@ -29,6 +29,8 @@ graphemic_classification: 會意
 stand_in: 肯
 aliases:
 注音: ㄎㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 肯.
 >For the word, see [肯](words/肯.md)

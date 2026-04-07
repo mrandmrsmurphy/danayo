@@ -27,6 +27,8 @@ aliases:
   - 驛
   - 驿
 注音: ˙ㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 駅.
 >For the word, see [駅](words/駅.md)

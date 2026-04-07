@@ -31,6 +31,8 @@ aliases:
   - 當
   - 噹
 注音: ㄉㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 当.
 >For the word, see [当](words/当.md)

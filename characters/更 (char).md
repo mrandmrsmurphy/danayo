@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 更
 aliases:
 注音: ㄍㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 更.
 >For the word, see [更](words/更.md)

@@ -30,6 +30,8 @@ stand_in: 喫
 aliases:
   - 吃
 注音: ㄎㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 喫.
 >For the word, see [喫](words/喫.md)

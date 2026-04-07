@@ -31,6 +31,8 @@ stand_in: 納
 aliases:
   - 纳
 注音: ㄋㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 納.
 >For the word, see [納](words/納.md)

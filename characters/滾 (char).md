@@ -29,6 +29,8 @@ stand_in: 滾
 aliases:
   - 滚
 注音: ㄍˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 滾.
 >For the word, see [滾](words/滾.md)

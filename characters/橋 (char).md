@@ -31,6 +31,8 @@ stand_in: 橋
 aliases:
   - 桥
 注音: ㄍ˙ㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 橋.
 >For the word, see [橋](words/橋.md)

@@ -28,6 +28,8 @@ stand_in: 杆
 aliases:
 - 桿
 注音: ㄍㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 杆.
 >For the word, see [杆](words/杆.md)

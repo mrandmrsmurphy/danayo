@@ -28,6 +28,8 @@ graphemic_classification: 甫
 stand_in: 捕
 aliases:
 注音: ㄅㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 捕.
 >For the word, see [捕](words/捕.md)

@@ -28,6 +28,8 @@ stand_in: 頤
 aliases:
   - 颐
 注音: ㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 頤.
 >For the word, see [頤](words/頤.md)

@@ -30,6 +30,8 @@ stand_in: 頭
 aliases:
   - 头
 注音: ㄊㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 頭.
 >For the word, see [頭](words/頭.md)

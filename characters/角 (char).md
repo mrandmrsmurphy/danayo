@@ -30,6 +30,8 @@ graphemic_classification: 象形
 stand_in: 角
 aliases:
 注音: ㄍㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 角.
 >For the word, see [角](words/角.md)

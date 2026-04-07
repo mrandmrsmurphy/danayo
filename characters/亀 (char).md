@@ -33,6 +33,8 @@ aliases:
   - 龟
   - 𪚦
 注音: ㄍㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 亀.
 >For the word, see [亀](words/亀.md)

@@ -29,6 +29,8 @@ stand_in: 谷
 aliases:
   - 穀
 注音: ㄍㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 谷.
 >For the word, see [谷](words/谷.md)

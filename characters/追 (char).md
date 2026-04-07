@@ -29,6 +29,8 @@ graphemic_classification: 堆
 stand_in: 追
 aliases:
 注音: ㄊㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 追.
 >For the word, see [追](words/追.md)

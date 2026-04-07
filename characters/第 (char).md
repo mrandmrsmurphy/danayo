@@ -28,6 +28,8 @@ stand_in: 第
 aliases:
   - 㐧
 注音: ㄉㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 第.
 >For the word, see [第](words/第.md)

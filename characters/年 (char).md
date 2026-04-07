@@ -27,6 +27,8 @@ graphemic_classification: 千
 stand_in: 年
 aliases:
 注音: ㄋㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 年.
 >For the word, see [年](words/年.md)

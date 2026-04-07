@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 孔
 aliases:
 注音: ㄎㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 孔.
 >For the word, see [孔](words/孔.md)

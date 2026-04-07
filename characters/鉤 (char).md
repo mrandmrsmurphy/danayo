@@ -31,6 +31,8 @@ aliases:
   - 钩
   - 𰽭
 注音: ㄍㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鉤.
 >For the word, see [鉤](words/鉤.md)

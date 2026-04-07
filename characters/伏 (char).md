@@ -32,6 +32,8 @@ stand_in: 伏
 aliases:
   - 鮲
 注音: ㄅㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 伏.
 >For the word, see [伏](words/伏.md)

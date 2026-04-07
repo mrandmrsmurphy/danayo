@@ -30,6 +30,8 @@ aliases:
   - 滿
   - 满
 注音: ㄇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 満.
 >For the word, see [満](words/満.md)

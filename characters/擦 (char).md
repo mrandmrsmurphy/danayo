@@ -31,6 +31,8 @@ graphemic_classification: 察
 stand_in: 擦
 aliases:
 注音: ㄑㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 擦.
 >For the word, see [擦](words/擦.md)

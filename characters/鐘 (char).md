@@ -28,6 +28,8 @@ stand_in: 鐘
 aliases:
   - 钟
 注音: ㄐㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鐘.
 >For the word, see [鐘](words/鐘.md)

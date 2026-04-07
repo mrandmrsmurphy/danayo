@@ -29,6 +29,8 @@ aliases:
   - 钒
 date-last-perfect:
 注音: ㄅㄚㄋ
+tags:
+  - character
 ---
 ```meta-bind-embed
 [[nav/char_info]]

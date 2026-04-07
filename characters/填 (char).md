@@ -30,6 +30,8 @@ stand_in: 填
 aliases:
   - 塡
 注音: ㄉㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 填.
 >For the word, see [填](words/填.md)

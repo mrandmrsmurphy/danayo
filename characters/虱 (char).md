@@ -31,6 +31,8 @@ aliases: 蝨
 注音: ㄙㄛㄊ
 date-last-perfect: 2026-03-13
 品詞: 名詞
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 虱.
 >For the word, see [虱](words/虱.md)

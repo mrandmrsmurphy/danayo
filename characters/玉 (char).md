@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 玉
 aliases:
 注音: ˙ㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 玉.
 >For the word, see [玉](words/玉.md)

@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 爪
 aliases:
 注音: ㄐˇㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 爪.
 >For the word, see [爪](words/爪.md)

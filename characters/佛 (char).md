@@ -29,6 +29,8 @@ graphemic_classification: 弗
 stand_in: 佛
 aliases:
 注音: ㄅㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 佛.
 >For the word, see [佛](words/佛.md)

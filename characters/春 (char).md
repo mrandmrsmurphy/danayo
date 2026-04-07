@@ -30,6 +30,8 @@ stand_in: 春
 aliases:
   - 萅
 注音: ㄑㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 春.
 >For the word, see [春](words/春.md)

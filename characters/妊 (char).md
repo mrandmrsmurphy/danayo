@@ -29,6 +29,8 @@ graphemic_classification: 壬
 stand_in: 妊
 aliases:
 注音: ㄋㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 妊.
 >For the word, see [妊](words/妊.md)

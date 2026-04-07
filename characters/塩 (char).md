@@ -31,6 +31,8 @@ aliases:
   - 鹽
   - 盐
 注音: ˙ㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 塩.
 >For the word, see [塩](words/塩.md)

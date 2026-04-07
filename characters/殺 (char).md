@@ -30,6 +30,8 @@ stand_in: 殺
 aliases:
   - 杀
 注音: ㄙㄚㄊ
+tags:
+  - character
 ---
 > [!tip] This is about the character.
 > For the word, see [殺](words/殺.md).

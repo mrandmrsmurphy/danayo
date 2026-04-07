@@ -29,6 +29,8 @@ graphemic_classification: 禾
 stand_in: 委
 aliases:
 注音: ˇㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 委.
 >For the word, see [委](words/委.md)

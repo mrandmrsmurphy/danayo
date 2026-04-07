@@ -31,6 +31,8 @@ graphemic_classification: 象形
 stand_in: 由
 aliases:
 注音: ˙ㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 由.
 >For the word, see [由](words/由.md)

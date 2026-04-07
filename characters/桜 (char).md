@@ -31,6 +31,8 @@ stand_in: 桜
 aliases:
   - 櫻
 注音: ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 桜.
 >For the word, see [桜](words/桜.md)

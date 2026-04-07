@@ -28,6 +28,8 @@ stand_in: 圏
 aliases:
   - 圈
 注音: ㄍˇㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 圏.
 >For the word, see [圏](words/圏.md)

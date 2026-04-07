@@ -32,6 +32,8 @@ graphemic_classification: 甬
 stand_in: 通
 aliases:
 注音: ㄊㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 通.
 >For the word, see [通](words/通.md)

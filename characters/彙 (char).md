@@ -32,6 +32,8 @@ aliases:
   - 彚
   - 匯
 注音: ㄏㄨ
+tags:
+  - character
 ---
 >[!tip] This is about the character
 >For the word, see [彙](words/彙.md).

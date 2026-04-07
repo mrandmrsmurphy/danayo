@@ -30,6 +30,8 @@ stand_in: 軸
 aliases:
   - 轴
 注音: ㄉㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 軸.
 >For the word, see [軸](words/軸.md)

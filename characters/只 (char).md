@@ -33,6 +33,8 @@ aliases:
 - 衹
 - 隻
 注音: ㄑㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 只.
 >For the word, see [只](words/只.md)

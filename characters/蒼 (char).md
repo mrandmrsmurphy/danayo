@@ -31,6 +31,8 @@ aliases:
   - 苍
   - 滄
 注音: ㄑˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蒼.
 >For the word, see [蒼](words/蒼.md)

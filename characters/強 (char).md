@@ -31,6 +31,8 @@ aliases:
   - 彊
   - 强
 注音: ㄍ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 強.
 >For the word, see [強](words/強.md)

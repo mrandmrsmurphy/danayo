@@ -28,6 +28,8 @@ graphemic_classification: 妾
 stand_in: 接
 aliases:
 注音: ㄐㄛㄆ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [接](words/接.md)

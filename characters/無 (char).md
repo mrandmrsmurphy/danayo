@@ -30,6 +30,8 @@ aliases:
   - 无
   - 憮
 注音: ㄇㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 無.
 >For the word, see [無](words/無.md)

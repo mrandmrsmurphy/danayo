@@ -28,6 +28,8 @@ stand_in: 肴
 aliases:
 - 餚
 注音: ㄏ˙ㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 肴.
 >For the word, see [肴](words/肴.md)

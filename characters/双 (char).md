@@ -31,6 +31,8 @@ stand_in: 双
 aliases:
   - 雙
 注音: ㄙˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 双.
 >For the word, see [双](words/双.md)

@@ -32,6 +32,8 @@ aliases:
   - 丄
 注音: ㄙ˙ㄚㄥ
 date-last-perfect: 2026-03-22
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 上.
 >For the word, see [上](words/上.md)

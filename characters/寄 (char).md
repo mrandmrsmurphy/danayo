@@ -29,6 +29,8 @@ graphemic_classification: 奇
 stand_in: 寄
 aliases:
 注音: ㄍㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 寄.
 >For the word, see [寄](words/寄.md)

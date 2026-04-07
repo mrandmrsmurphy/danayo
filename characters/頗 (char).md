@@ -28,6 +28,8 @@ stand_in: 頗
 aliases:
   - 颇
 注音: ㄆ˙ㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 頗.
 >For the word, see [頗](words/頗.md)

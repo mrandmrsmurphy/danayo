@@ -30,6 +30,8 @@ stand_in: 惨
 aliases:
   - 慘
 注音: ㄑㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 惨.
 >For the word, see [惨](words/惨.md)

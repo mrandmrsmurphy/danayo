@@ -28,6 +28,8 @@ graphemic_classification: 句
 stand_in: 苟
 aliases:
 注音: ㄍㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 苟.
 >For the word, see [苟](words/苟.md)

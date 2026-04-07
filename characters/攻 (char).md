@@ -28,6 +28,8 @@ graphemic_classification: 工
 stand_in: 攻
 aliases:
 注音: ㄍㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character.
 >For the word, see [攻](words/攻.md)

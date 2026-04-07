@@ -30,6 +30,8 @@ aliases:
   - 阔
   - 濶
 注音: ㄎˇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 闊.
 >For the word, see [闊](words/闊.md)

@@ -28,6 +28,8 @@ stand_in: 暗
 aliases:
   - 闇
 注音: ㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 暗.
 >For the word, see [暗](words/暗.md)

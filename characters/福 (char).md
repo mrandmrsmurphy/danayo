@@ -30,6 +30,8 @@ graphemic_classification: 畐
 stand_in: 福
 aliases:
 注音: ㄆㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 福.
 >For the word, see [福](words/福.md)

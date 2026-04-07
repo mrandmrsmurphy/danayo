@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 奚
 aliases:
 注音: ㄏㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 奚.
 >For the word, see [奚](words/奚.md)

@@ -31,6 +31,8 @@ aliases:
   - 惡
   - 恶
 注音: ㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 悪.
 >For the word, see [悪](words/悪.md)

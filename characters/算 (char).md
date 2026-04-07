@@ -28,6 +28,8 @@ mc_id: 1984
 graphemic_classification: 會意
 stand_in: 算
 注音: ㄙˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 算.
 >For the word, see [算](words/算.md)

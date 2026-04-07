@@ -29,6 +29,8 @@ stand_in: 士
 aliases:
   - 仕
 注音: ㄙㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 士.
 >For the word, see [士](words/士.md)

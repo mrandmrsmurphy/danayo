@@ -28,6 +28,8 @@ graphemic_classification: 句
 stand_in: 局
 aliases:
 注音: ㄍ˙ㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 局.
 >For the word, see [局](words/局.md)

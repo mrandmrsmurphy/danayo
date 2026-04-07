@@ -28,6 +28,8 @@ graphemic_classification: 乍
 stand_in: 昨
 aliases:
 注音: ㄐㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 昨.
 >For the word, see [昨](words/昨.md)

@@ -29,6 +29,8 @@ stand_in: 粥
 aliases:
   - 鬻
 注音: ㄐㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 粥.
 >For the word, see [粥](words/粥.md)

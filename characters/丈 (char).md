@@ -30,6 +30,8 @@ aliases:
   - 𠀋
 注音: ㄑㄚㄥ
 date-last-perfect: 2026-03-24
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 丈.
 >For the word, see [丈](words/丈.md)

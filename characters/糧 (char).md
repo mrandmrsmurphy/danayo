@@ -29,6 +29,8 @@ stand_in: 糧
 aliases:
   - 粮
 注音: ㄌ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 糧.
 >For the word, see [糧](words/糧.md)

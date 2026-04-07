@@ -31,6 +31,8 @@ graphemic_classification: 會意
 stand_in: 屎
 aliases:
 注音: ㄏㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 屎.
 >For the word, see [屎](words/屎.md)

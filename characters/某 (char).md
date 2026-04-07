@@ -31,6 +31,8 @@ graphemic_classification: 會意
 stand_in: 某
 aliases:
 注音: ㄇㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 某.
 >For the word, see [某](words/某.md)

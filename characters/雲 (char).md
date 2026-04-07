@@ -32,6 +32,8 @@ aliases:
   - 澐
 注音: ㄨㄋ
 date-last-perfect: 2026-03-15
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 雲.
 >For the word, see [雲](words/雲.md)

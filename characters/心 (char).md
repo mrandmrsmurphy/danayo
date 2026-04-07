@@ -32,6 +32,8 @@ stand_in: 心
 aliases:
   - 芯
 注音: ㄙㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 心.
 >For the word, see [心](words/心.md)

@@ -29,6 +29,8 @@ stand_in: 尋
 aliases:
   - 寻
 注音: ㄙㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 尋.
 >For the word, see [尋](words/尋.md)

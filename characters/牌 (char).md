@@ -28,6 +28,8 @@ graphemic_classification: 卑
 stand_in: 牌
 aliases:
 注音: ㄅㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 牌.
 >For the word, see [牌](words/牌.md)

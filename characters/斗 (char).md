@@ -30,6 +30,8 @@ stand_in: 斗
 aliases:
 - 鬥
 注音: ㄉㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 斗.
 >For the word, see [斗](words/斗.md)

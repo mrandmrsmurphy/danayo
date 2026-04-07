@@ -28,6 +28,8 @@ graphemic_classification: 壬
 stand_in: 淫
 aliases:
 注音: ㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 淫.
 >For the word, see [淫](words/淫.md)

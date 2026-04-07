@@ -29,6 +29,8 @@ stand_in: 滅
 aliases:
   - 灭
 注音: ㄇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 滅.
 >For the word, see [滅](words/滅.md)

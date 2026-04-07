@@ -28,6 +28,8 @@ graphemic_classification: 白
 stand_in: 柏
 aliases:
 注音: ㄅ˙ㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 柏.
 >For the word, see [柏](words/柏.md)

@@ -28,6 +28,8 @@ stand_in: 蓮
 aliases:
   - 莲
 注音: ㄌ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蓮.
 >For the word, see [蓮](words/蓮.md)

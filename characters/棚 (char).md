@@ -29,6 +29,8 @@ graphemic_classification: 朋
 stand_in: 棚
 aliases:
 注音: ㄅㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 棚.
 >For the word, see [棚](words/棚.md)

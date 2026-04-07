@@ -26,6 +26,8 @@ graphemic_classification: 指事
 stand_in: 一
 date-last-perfect: 2026-01-23
 注音: ㄧㄊ
+tags:
+  - character
 ---
 >[!Warning] This is the character 一.  
 > For the word 'one', please use [一](words/一.md)

@@ -31,6 +31,8 @@ aliases:
   - 邇
   - 尔
 注音: ㄋㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 爾.
 >For the word, see [爾](words/爾.md)

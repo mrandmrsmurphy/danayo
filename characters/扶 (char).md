@@ -28,6 +28,8 @@ graphemic_classification: 夫
 stand_in: 扶
 aliases:
 注音: ㄅㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 扶.
 >For the word, see [扶](words/扶.md)

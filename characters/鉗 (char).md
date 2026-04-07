@@ -31,6 +31,8 @@ stand_in: 鉗
 aliases:
   - 钳
 注音: ㄍㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鉗.
 >For the word, see [鉗](words/鉗.md)

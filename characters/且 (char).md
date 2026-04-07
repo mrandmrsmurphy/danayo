@@ -33,6 +33,8 @@ aliases:
   - 𠀇
   - 𠀃
 注音: ㄑㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 且.
 >For the word, see [且](words/且.md)

@@ -31,6 +31,8 @@ graphemic_classification: 央
 stand_in: 映
 aliases:
 注音: ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 映.
 >For the word, see [映](words/映.md)

@@ -27,6 +27,8 @@ graphemic_classification: 吹
 stand_in: 炊
 aliases:
 注音: ㄑㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 炊.
 >For the word, see [炊](words/炊.md)

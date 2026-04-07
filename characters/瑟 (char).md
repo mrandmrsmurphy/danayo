@@ -27,6 +27,8 @@ graphemic_classification: 必
 stand_in: 瑟
 aliases:
 注音: ㄙㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 瑟.
 >For the word, see [瑟](words/瑟.md)

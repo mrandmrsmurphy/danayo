@@ -31,6 +31,8 @@ stand_in: 漬
 aliases:
   - 渍
 注音: ㄐㄝ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [漬](words/漬.md).

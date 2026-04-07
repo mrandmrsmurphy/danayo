@@ -28,6 +28,8 @@ stand_in: 層
 aliases:
   - 层
 注音: ㄑㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 層.
 >For the word, see [層](words/層.md)

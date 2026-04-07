@@ -29,6 +29,8 @@ graphemic_classification: 高
 stand_in: 稿
 aliases:
 注音: ㄍㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 稿.
 >For the word, see [稿](words/稿.md)

@@ -27,6 +27,8 @@ graphemic_classification: 指事
 stand_in: 欠
 aliases:
 注音: ㄎ˙ㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 欠.
 >For the word, see [欠](words/欠.md)

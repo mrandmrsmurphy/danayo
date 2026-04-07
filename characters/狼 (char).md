@@ -28,6 +28,8 @@ graphemic_classification: 良
 stand_in: 狼
 aliases:
 注音: ㄌㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 狼.
 >For the word, see [狼](words/狼.md)

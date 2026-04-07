@@ -28,6 +28,8 @@ stand_in: 繭
 aliases:
   - 茧
 注音: ㄍ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 繭.
 >For the word, see [繭](words/繭.md)

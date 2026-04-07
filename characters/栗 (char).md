@@ -28,6 +28,8 @@ stand_in: 栗
 aliases:
 - 慄
 注音: ㄌㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 栗.
 >For the word, see [栗](words/栗.md)

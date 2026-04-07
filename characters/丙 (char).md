@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 丙
 aliases:
 注音: ㄅ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 丙.
 >For the word, see [丙](words/丙.md)

@@ -35,6 +35,8 @@ aliases:
   - 恸
   - 𢣛
 注音: ㄉㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 動.
 >For the word, see [動](words/動.md)

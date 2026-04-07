@@ -30,6 +30,8 @@ graphemic_classification: 咅
 stand_in: 陪
 aliases:
 注音: ㄅㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 陪.
 >For the word, see [陪](words/陪.md)

@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 套
 aliases:
 注音: ㄊㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 套.
 >For the word, see [套](words/套.md)

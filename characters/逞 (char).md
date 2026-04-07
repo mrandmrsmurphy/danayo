@@ -28,6 +28,8 @@ graphemic_classification: 呈
 stand_in: 逞
 aliases:
 注音: ㄑㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 逞.
 >For the word, see [逞](words/逞.md)

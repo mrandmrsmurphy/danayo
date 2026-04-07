@@ -29,6 +29,8 @@ graphemic_classification: 屈
 stand_in: 掘
 aliases:
 注音: ㄍㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 掘.
 >For the word, see [掘](words/掘.md)

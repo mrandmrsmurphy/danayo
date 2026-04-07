@@ -30,6 +30,8 @@ aliases:
   - 悌
   - 棣
 注音: ㄉㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弟.
 >For the word, see [弟](words/弟.md)

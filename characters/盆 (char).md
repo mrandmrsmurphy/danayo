@@ -28,6 +28,8 @@ graphemic_classification: 分
 stand_in: 盆
 aliases:
 注音: ㄅㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 盆.
 >For the word, see [盆](words/盆.md)

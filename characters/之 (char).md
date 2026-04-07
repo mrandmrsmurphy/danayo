@@ -34,6 +34,8 @@ aliases:
   - の
 注音: ㄊㄧ
 date-last-perfect: 2026-02-20
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 之.
 >For the word, see [之](words/之.md)

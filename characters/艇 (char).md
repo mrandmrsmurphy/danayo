@@ -29,6 +29,8 @@ graphemic_classification: 廷
 stand_in: 艇
 aliases:
 注音: ㄉㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 艇.
 >For the word, see [艇](words/艇.md)

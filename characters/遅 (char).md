@@ -30,6 +30,8 @@ aliases:
   - 遲
   - 迟
 注音: ㄑㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 遅.
 >For the word, see [遅](words/遅.md)

@@ -32,6 +32,8 @@ aliases:
   - 㽬
   - 褔
 注音: ㄆㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 副.
 >For the word, see [副](words/副.md)

@@ -31,6 +31,8 @@ stand_in: 拂
 aliases:
   - 払
 注音: ㄆㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 拂.
 >For the word, see [拂](words/拂.md)

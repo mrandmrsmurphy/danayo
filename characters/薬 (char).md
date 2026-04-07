@@ -32,6 +32,8 @@ aliases:
   - 藥
   - 药
 注音: ˙ㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 薬.
 >For the word, see [薬](words/薬.md)

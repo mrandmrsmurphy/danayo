@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 鹿
 aliases:
 注音: ㄌㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鹿.
 >For the word, see [鹿](words/鹿.md)

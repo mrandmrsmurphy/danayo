@@ -28,6 +28,8 @@ graphemic_classification: 皮
 stand_in: 彼
 aliases:
 注音: ㄅㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 彼.
 >For the word, see [彼](words/彼.md)

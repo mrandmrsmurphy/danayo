@@ -30,6 +30,8 @@ graphemic_classification: 平
 stand_in: 坪
 aliases:
 注音: ㄅ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 坪.
 >For the word, see [坪](words/坪.md)

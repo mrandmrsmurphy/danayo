@@ -28,6 +28,8 @@ graphemic_classification: 母
 stand_in: 苺
 aliases:
 注音: ㄇㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 苺.
 >For the word, see [苺](words/苺.md)

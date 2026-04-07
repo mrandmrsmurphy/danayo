@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 勺
 aliases:
 注音: ㄐˇㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 勺.
 >For the word, see [勺](words/勺.md)

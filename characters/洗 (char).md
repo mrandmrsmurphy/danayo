@@ -28,6 +28,8 @@ graphemic_classification: 先
 stand_in: 洗
 aliases:
 注音: ㄙㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 洗.
 >For the word, see [洗](words/洗.md)

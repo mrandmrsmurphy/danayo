@@ -31,6 +31,8 @@ aliases:
   - 鷲
   - 鹫
 注音: ㄐㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 就.
 >For the word, see [就](words/就.md)

@@ -29,6 +29,8 @@ stand_in: 幟
 aliases:
   - 帜
 注音: ㄑㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 幟.
 >For the word, see [幟](words/幟.md)

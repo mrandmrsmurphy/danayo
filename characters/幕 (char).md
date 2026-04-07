@@ -28,6 +28,8 @@ graphemic_classification: 莫
 stand_in: 幕
 aliases:
 注音: ㄇㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 幕.
 >For the word, see [幕](words/幕.md)

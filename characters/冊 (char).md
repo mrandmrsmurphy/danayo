@@ -30,6 +30,8 @@ stand_in: 冊
 aliases:
   - 册
 注音: ㄑㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 冊.
 >For the word, see [冊](words/冊.md)

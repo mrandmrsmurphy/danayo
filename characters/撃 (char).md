@@ -31,6 +31,8 @@ stand_in: 撃
 aliases:
   - 擊
 注音: ㄍㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 撃.
 >For the word, see [撃](words/撃.md)

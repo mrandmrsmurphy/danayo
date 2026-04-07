@@ -30,6 +30,8 @@ graphemic_classification: 間
 stand_in: 隙
 aliases:
 注音: ㄎㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 隙.
 >For the word, see [隙](words/隙.md)

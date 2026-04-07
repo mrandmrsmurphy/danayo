@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 曰
 aliases:
 注音: ˇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 曰.
 >For the word, see [曰](words/曰.md)

@@ -30,6 +30,8 @@ graphemic_classification: 朱
 stand_in: 株
 aliases:
 注音: ㄉㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 株.
 >For the word, see [株](words/株.md)

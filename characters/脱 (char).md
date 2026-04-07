@@ -30,6 +30,8 @@ stand_in: 脱
 aliases:
   - 脫
 注音: ㄉˇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 脱.
 >For the word, see [脱](words/脱.md)

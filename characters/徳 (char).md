@@ -28,6 +28,8 @@ stand_in: 徳
 aliases:
   - 德
 注音: ㄊㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 徳.
 >For the word, see [徳](words/徳.md)

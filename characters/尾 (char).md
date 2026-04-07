@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 尾
 aliases:
 注音: ㄇㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 尾.
 >For the word, see [尾](words/尾.md)

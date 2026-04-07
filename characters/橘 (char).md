@@ -28,6 +28,8 @@ stand_in: 橘
 aliases:
   - 桔
 注音: ㄍ˙ㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 橘.
 >For the word, see [橘](words/橘.md)

@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 禾
 aliases:
 注音: ㄏˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 禾.
 >For the word, see [禾](words/禾.md)

@@ -28,6 +28,8 @@ stand_in: 阿
 aliases:
   - 啊
 注音: ㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 阿.
 >For the word, see [阿](words/阿.md)

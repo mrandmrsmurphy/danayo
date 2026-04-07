@@ -29,6 +29,8 @@ aliases:
   - 姐
   - 姊
 注音: ㄐㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 姉.
 >For the word, see [姉](words/姉.md)

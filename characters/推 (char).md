@@ -27,6 +27,8 @@ graphemic_classification: 隹
 stand_in: 推
 aliases:
 注音: ㄑㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 推.
 >For the word, see [推](words/推.md)

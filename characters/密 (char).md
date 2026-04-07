@@ -31,6 +31,8 @@ graphemic_classification: 宓
 stand_in: 密
 aliases:
 注音: ㄇㄧㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 密.
 >For the word, see [密](words/密.md)

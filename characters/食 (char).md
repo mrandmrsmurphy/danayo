@@ -30,6 +30,8 @@ stand_in: 食
 aliases:
   - 蝕
 注音: ㄙㄧㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 食.
 >For the word, see [食](words/食.md)

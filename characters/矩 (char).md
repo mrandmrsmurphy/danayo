@@ -30,6 +30,8 @@ stand_in: 矩
 aliases:
   - 榘
 注音: ㄎ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 矩.
 >For the word, see [矩](words/矩.md)

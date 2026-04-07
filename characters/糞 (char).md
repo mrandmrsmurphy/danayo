@@ -30,6 +30,8 @@ aliases:
   - 𥻔
   - 粪
 注音: ㄆㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 糞.
 >For the word, see [糞](words/糞.md)

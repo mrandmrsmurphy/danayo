@@ -34,6 +34,8 @@ aliases:
   - 螢
   - 萤
 注音: ㄏㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蛍.
 >For the word, see [蛍](words/蛍.md)

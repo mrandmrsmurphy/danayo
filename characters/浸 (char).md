@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 浸
 aliases:
 注音: ㄑㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 浸.
 >For the word, see [浸](words/浸.md)

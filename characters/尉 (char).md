@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 尉
 aliases:
 注音: ㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 尉.
 >For the word, see [尉](words/尉.md)

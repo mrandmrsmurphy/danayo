@@ -30,6 +30,8 @@ stand_in: 鉛
 aliases:
   - 铅
 注音: ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鉛.
 >For the word, see [鉛](words/鉛.md)

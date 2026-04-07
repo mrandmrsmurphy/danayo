@@ -32,6 +32,8 @@ aliases:
   - 滸
   - 浒
 注音: ㄏ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 許.
 >For the word, see [許](words/許.md)

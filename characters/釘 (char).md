@@ -30,6 +30,8 @@ stand_in: 釘
 aliases:
   - 钉
 注音: ㄉㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 釘.
 >For the word, see [釘](words/釘.md)

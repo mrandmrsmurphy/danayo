@@ -28,6 +28,8 @@ graphemic_classification: 代
 stand_in: 袋
 aliases:
 注音: ㄉㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 袋.
 >For the word, see [袋](words/袋.md)

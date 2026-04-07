@@ -28,6 +28,8 @@ stand_in: 唄
 aliases:
   - 呗
 注音: ㄅㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [唄](words/唄.md)

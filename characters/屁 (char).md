@@ -27,6 +27,8 @@ graphemic_classification: 比
 stand_in: 屁
 aliases:
 注音: ㄆㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 屁.
 >For the word, see [屁](words/屁.md)

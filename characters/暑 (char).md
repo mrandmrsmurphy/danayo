@@ -28,6 +28,8 @@ graphemic_classification: 者
 stand_in: 暑
 aliases:
 注音: ㄙ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character.
 >For the word, see [暑](words/暑.md)

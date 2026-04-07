@@ -28,6 +28,8 @@ stand_in: 凹
 aliases:
   - 窪
 注音: ㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 凹.
 >For the word, see [凹](words/凹.md)

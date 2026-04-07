@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 履
 aliases:
 注音: ㄌㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 履.
 >For the word, see [履](words/履.md)

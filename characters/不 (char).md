@@ -33,6 +33,8 @@ aliases:
   - 𠀚
   - 𠙐
 注音: ㄅㄛㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 不.
 >For the word, see [不](words/不.md)

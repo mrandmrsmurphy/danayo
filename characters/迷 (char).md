@@ -28,6 +28,8 @@ graphemic_classification: 米
 stand_in: 迷
 aliases:
 注音: ㄇㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 迷.
 >For the word, see [迷](words/迷.md)

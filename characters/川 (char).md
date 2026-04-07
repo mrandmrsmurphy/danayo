@@ -30,6 +30,8 @@ stand_in: 川
 aliases:
   - 巛
 注音: ㄑㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 川.
 >For the word, see [川](words/川.md)

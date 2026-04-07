@@ -35,6 +35,8 @@ aliases:
   - 嚮
 注音: ㄏ˙ㄚㄥ
 date-last-perfect: 2026-03-13
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 向.
 >For the word, see [向](words/向.md)

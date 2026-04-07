@@ -31,6 +31,8 @@ aliases:
   - 䢁
   - 𦩻
 注音: ㄐㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [朝](words/朝.md)

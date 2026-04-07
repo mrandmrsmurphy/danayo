@@ -29,6 +29,8 @@ graphemic_classification: 分
 stand_in: 扮
 aliases:
 注音: ㄅㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 扮.
 >For the word, see [扮](words/扮.md)

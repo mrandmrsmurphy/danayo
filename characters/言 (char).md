@@ -29,6 +29,8 @@ graphemic_classification: 指事
 stand_in: 言
 aliases:
 注音: ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This page is about the character.
 >For the word, see [言](words/言.md)

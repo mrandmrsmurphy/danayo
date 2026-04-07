@@ -29,6 +29,8 @@ aliases:
   - 蠍
 注音: ㄏ˙ㄝㄊ
 date-last-perfect: 2026-03-15
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蝎.
 >For the word, see [[words/蝎]]

@@ -28,6 +28,8 @@ graphemic_classification: 㕞
 stand_in: 刷
 aliases:
 注音: ㄙˇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 刷.
 >For the word, see [刷](words/刷.md)

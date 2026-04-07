@@ -30,6 +30,8 @@ stand_in: 錮
 aliases:
   - 锢
 注音: ㄍㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 錮.
 >For the word, see [錮](words/錮.md)

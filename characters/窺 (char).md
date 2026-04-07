@@ -28,6 +28,8 @@ stand_in: 窺
 aliases:
   - 窥
 注音: ㄎㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 窺.
 >For the word, see [窺](words/窺.md)

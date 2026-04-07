@@ -29,6 +29,8 @@ graphemic_classification: 或
 stand_in: 惑
 aliases:
 注音: ㄏㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 惑.
 >For the word, see [惑](words/惑.md)

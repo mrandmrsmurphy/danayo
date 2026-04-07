@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 牛
 aliases:
 注音: ㄋ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 牛.
 >For the word, see [牛](words/牛.md)

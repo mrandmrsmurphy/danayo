@@ -30,6 +30,8 @@ stand_in: 夜
 aliases:
   - 亱
 注音: ˙ㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 夜.
 >For the word, see [夜](words/夜.md)

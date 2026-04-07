@@ -31,6 +31,8 @@ aliases:
   - 处
   - 處
 注音: ㄑㄛ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [[words/処]].

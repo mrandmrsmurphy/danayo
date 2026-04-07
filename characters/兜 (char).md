@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 兜
 aliases:
 注音: ㄉㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 兜.
 >For the word, see [兜](words/兜.md)

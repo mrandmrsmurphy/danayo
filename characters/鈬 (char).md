@@ -28,6 +28,8 @@ stand_in: 鈬
 aliases:
   - 鐸
 注音: ㄉㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鈬.
 >For the word, see [鈬](words/鈬.md)

@@ -31,6 +31,8 @@ aliases:
   - 鱈
   - 䨮
 注音: ㄙˇㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 雪.
 >For the word, see [雪](words/雪.md)

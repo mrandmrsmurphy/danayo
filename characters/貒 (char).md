@@ -30,6 +30,8 @@ aliases:
   - 猯
   - 䝎
 注音: ㄊˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 貒.
 >For the word, see [貒](words/貒.md)

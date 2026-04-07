@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 非
 注音: ㄆㄧ
 date-last-perfect: 2026-03-17
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 非.
 >For the word, see [非](words/非.md).

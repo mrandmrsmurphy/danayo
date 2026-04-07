@@ -30,6 +30,8 @@ graphemic_classification: 而
 stand_in: 耐
 aliases:
 注音: ㄋㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 耐.
 >For the word, see [耐](words/耐.md)

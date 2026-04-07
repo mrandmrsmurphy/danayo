@@ -27,6 +27,8 @@ graphemic_classification: 尼
 stand_in: 泥
 aliases:
 注音: ㄋㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 泥.
 >For the word, see [泥](words/泥.md)

@@ -30,6 +30,8 @@ stand_in: 餐
 aliases:
   - 喰
 注音: ㄑㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 餐.
 >For the word, see [餐](words/餐.md)

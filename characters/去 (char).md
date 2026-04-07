@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 去
 aliases:
 注音: ㄎ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 去.
 >For the word, see [去](words/去.md)

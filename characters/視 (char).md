@@ -30,6 +30,8 @@ stand_in: 視
 aliases:
   - 视
 注音: ㄙㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 視.
 >For the word, see [視](words/視.md)

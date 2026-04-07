@@ -32,6 +32,8 @@ stand_in: 駄
 aliases:
   - 馱
 注音: ㄉㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 駄.
 >For the word, see [駄](words/駄.md)

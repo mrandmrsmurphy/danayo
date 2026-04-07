@@ -29,6 +29,8 @@ graphemic_classification: 會意
 stand_in: 班
 aliases:
 注音: ㄆㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 班.
 >For the word, see [班](words/班.md)

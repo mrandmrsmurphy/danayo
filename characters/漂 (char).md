@@ -28,6 +28,8 @@ graphemic_classification: 票
 stand_in: 漂
 aliases:
 注音: ㄆ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 漂.
 >For the word, see [漂](words/漂.md)

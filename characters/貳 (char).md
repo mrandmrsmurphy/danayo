@@ -32,6 +32,8 @@ aliases:
   - 貮
   - 弐
 注音: ㄋㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 貳.
 >For the word, see [貳](words/貳.md)

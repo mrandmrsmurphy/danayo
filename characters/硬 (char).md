@@ -29,6 +29,8 @@ graphemic_classification: 更
 stand_in: 硬
 aliases:
 注音: ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 硬.
 >For the word, see [硬](words/硬.md)

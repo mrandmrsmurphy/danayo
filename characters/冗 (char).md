@@ -28,6 +28,8 @@ graphemic_classification: 儿
 stand_in: 冗
 aliases:
 注音: ㄋ˙ㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 冗.
 >For the word, see [冗](words/冗.md)

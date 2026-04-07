@@ -27,6 +27,8 @@ graphemic_classification: 鼠
 stand_in: 獵
 aliases:
 注音: ㄌㄛㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 獵.
 >For the word, see [[獵]]

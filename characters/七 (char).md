@@ -34,6 +34,8 @@ aliases:
   - 桼
 注音: ㄑㄧㄊ
 date-last-perfect: 2026-02-20
+tags:
+  - character
 ---
 > [!tip] This is the page for the character 七, as opposed to the word [[七]] 'seven'
 ```meta-bind-embed

@@ -29,6 +29,8 @@ stand_in: 過
 aliases:
   - 过
 注音: ㄍˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 過.
 >For the word, see [過](words/過.md)

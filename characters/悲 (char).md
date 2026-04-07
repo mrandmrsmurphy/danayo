@@ -27,6 +27,8 @@ graphemic_classification: 非
 stand_in: 悲
 aliases:
 注音: ㄅㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 悲.
 >For the word, see [悲](words/悲.md)

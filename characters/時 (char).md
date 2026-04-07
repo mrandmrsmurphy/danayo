@@ -29,6 +29,8 @@ stand_in: 時
 aliases:
   - 时
 注音: ㄙㄧ
+tags:
+  - character
 ---
 >[!tip] This is about the character. 
 >For the word, see [時](words/時.md)

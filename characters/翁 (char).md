@@ -27,6 +27,8 @@ graphemic_classification: 公
 stand_in: 翁
 aliases:
 注音: ㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 翁.
 >For the word, see [翁](words/翁.md)

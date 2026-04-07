@@ -30,6 +30,8 @@ graphemic_classification: 申
 stand_in: 神
 aliases:
 注音: ㄙㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 神.
 >For the word, see [神](words/神.md)

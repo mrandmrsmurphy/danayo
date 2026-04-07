@@ -29,6 +29,8 @@ stand_in: 捺
 aliases:
   - 磔
 注音: ㄋㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 捺.
 >For the word, see [捺](words/捺.md)

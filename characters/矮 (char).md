@@ -28,6 +28,8 @@ graphemic_classification: 委
 stand_in: 矮
 aliases:
 注音: ˇㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 矮.
 >For the word, see [矮](words/矮.md)

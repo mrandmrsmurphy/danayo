@@ -32,6 +32,8 @@ stand_in: 節
 aliases:
   - 节
 注音: ㄐㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 節.
 >For the word, see [節](words/節.md)

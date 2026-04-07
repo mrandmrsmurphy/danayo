@@ -28,6 +28,8 @@ stand_in: 馿
 aliases:
   - 驢
 注音: ㄌ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 馿.
 >For the word, see [馿](words/馿.md)

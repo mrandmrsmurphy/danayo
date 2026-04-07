@@ -31,6 +31,8 @@ stand_in: 幾
 aliases:
   - 几
 注音: ㄍㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 幾.
 >For the word, see [幾](words/幾.md)

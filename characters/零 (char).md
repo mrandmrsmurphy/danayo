@@ -29,6 +29,8 @@ stand_in: 零
 aliases:
   - 〇
 注音: ㄌㄝㄥ
+tags:
+  - character
 ---
 >[!Warning] This is about the character.  For the word, see [[零]]
 ```meta-bind-embed

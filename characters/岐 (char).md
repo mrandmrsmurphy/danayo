@@ -29,6 +29,8 @@ stand_in: 岐
 aliases:
   - 歧
 注音: ㄍㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 岐.
 >For the word, see [岐](words/岐.md)

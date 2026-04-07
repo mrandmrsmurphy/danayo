@@ -31,6 +31,8 @@ aliases:
   - 僞
   - 伪
 注音: ˇㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 偽.
 >For the word, see [偽](words/偽.md)

@@ -30,6 +30,8 @@ stand_in: 潰
 aliases:
   - 溃
 注音: ㄏㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 潰.
 >For the word, see [潰](words/潰.md)

@@ -38,6 +38,8 @@ aliases:
 注音: ㄌㄝ
 date-last-perfect: 2026-03-26
 kwin: false
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 厉.
 >For the word, see [厉](words/厉.md)

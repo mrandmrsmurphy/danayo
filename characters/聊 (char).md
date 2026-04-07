@@ -27,6 +27,8 @@ graphemic_classification: 卯
 stand_in: 聊
 aliases:
 注音: ㄌ˙ㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 聊.
 >For the word, see [聊](words/聊.md)

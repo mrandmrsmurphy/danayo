@@ -32,6 +32,8 @@ aliases:
 注音: ㄍㄨㄆ
 kwin: true
 date-last-perfect: 2026-03-24
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 及.
 >For the word, see [及](words/及.md)

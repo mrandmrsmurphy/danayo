@@ -31,6 +31,8 @@ graphemic_classification: 戸
 stand_in: 所
 aliases:
 注音: ㄙ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 所.
 >For the word, see [所](words/所.md)

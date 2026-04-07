@@ -30,7 +30,8 @@ graphemic_classification: 可
 stand_in: 何
 aliases:
 tags:
-  - correlative
+  - - correlative
+  - character
 注音: ㄏㄚ
 kwin: true
 ---

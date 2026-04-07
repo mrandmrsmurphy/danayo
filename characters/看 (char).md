@@ -29,6 +29,8 @@ graphemic_classification: 會意
 stand_in: 看
 aliases:
 注音: ㄎㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [看](words/看.md)

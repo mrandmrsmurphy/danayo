@@ -30,6 +30,8 @@ aliases:
   - 畮
   - 亩
 注音: ㄇㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 畝.
 >For the word, see [畝](words/畝.md)

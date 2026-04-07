@@ -36,6 +36,8 @@ stand_in: 刺
 aliases:
   - 朿
 注音: ㄑㄧㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 刺.
 >For the word, see [刺](words/刺.md)

@@ -27,6 +27,8 @@ graphemic_classification: 咅
 stand_in: 倍
 aliases:
 注音: ㄅㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 倍.
 >For the word, see [倍](words/倍.md)

@@ -29,6 +29,8 @@ stand_in: 小
 aliases:
   - 𡮐
 注音: ㄙㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 小.
 >For the word, see [小](words/小.md)

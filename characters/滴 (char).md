@@ -27,6 +27,8 @@ graphemic_classification: 帝
 stand_in: 滴
 aliases:
 注音: ㄉㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 滴.
 >For the word, see [滴](words/滴.md)

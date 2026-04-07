@@ -32,6 +32,8 @@ aliases:
   - 𠙸
   - 𡶸
 注音: ㄙㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 山.
 >For the word, see [山](words/山.md)

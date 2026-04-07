@@ -31,6 +31,8 @@ graphemic_classification: 會意
 stand_in: 卿
 aliases:
 注音: ㄎ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 卿.
 >For the word, see [卿](words/卿.md)

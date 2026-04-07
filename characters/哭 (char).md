@@ -28,6 +28,8 @@ graphemic_classification: 獄
 stand_in: 哭
 aliases:
 注音: ㄎㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 哭.
 >For the word, see [哭](words/哭.md)

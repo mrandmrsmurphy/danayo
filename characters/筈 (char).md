@@ -27,6 +27,8 @@ graphemic_classification: 舌
 stand_in: 筈
 aliases:
 注音: ㄍˇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 筈.
 >For the word, see [筈](words/筈.md)

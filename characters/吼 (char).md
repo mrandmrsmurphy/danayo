@@ -29,6 +29,8 @@ graphemic_classification: 孔
 stand_in: 吼
 aliases:
 注音: ㄏㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 吼.
 >For the word, see [吼](words/吼.md)

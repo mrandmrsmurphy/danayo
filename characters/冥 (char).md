@@ -32,6 +32,8 @@ aliases:
   - 瞑
   - 慏
 注音: ㄇㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 冥.
 >For the word, see [冥](words/冥.md)

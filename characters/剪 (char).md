@@ -27,6 +27,8 @@ graphemic_classification: 前
 stand_in: 剪
 aliases:
 注音: ㄐㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 剪.
 >For the word, see [剪](words/剪.md)

@@ -27,6 +27,8 @@ graphemic_classification: 咠
 stand_in: 葺
 aliases:
 注音: ㄑㄨㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 葺.
 >For the word, see [葺](words/葺.md)

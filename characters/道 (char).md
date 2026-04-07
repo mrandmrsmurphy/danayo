@@ -30,6 +30,8 @@ graphemic_classification: 會意
 stand_in: 道
 aliases:
 注音: ㄉㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 道.
 >For the word, see [道](words/道.md)

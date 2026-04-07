@@ -30,6 +30,8 @@ aliases:
   - 飮
   - 饮
 注音: ㄨㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 飲.
 >For the word, see [飲](words/飲.md)

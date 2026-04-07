@@ -31,6 +31,8 @@ stand_in: 妙
 aliases:
   - 玅
 注音: ㄇ˙ㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 妙.
 >For the word, see [妙](words/妙.md)

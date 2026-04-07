@@ -32,6 +32,8 @@ aliases:
   - 斩
   - 塹
 注音: ㄐㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 斬.
 >For the word, see [斬](words/斬.md)

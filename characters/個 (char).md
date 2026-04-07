@@ -32,6 +32,8 @@ aliases:
   - 个
   - 箇
 注音: ㄍㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 個.
 >For the word, see [個](words/個.md)

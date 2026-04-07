@@ -28,6 +28,8 @@ graphemic_classification: 宛
 stand_in: 腕
 aliases:
 注音: ˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 腕.
 >For the word, see [腕](words/腕.md)

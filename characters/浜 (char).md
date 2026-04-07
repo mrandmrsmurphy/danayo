@@ -30,6 +30,8 @@ stand_in: 浜
 aliases:
   - 濱
 注音: ㄅㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 浜.
 >For the word, see [浜](words/浜.md)

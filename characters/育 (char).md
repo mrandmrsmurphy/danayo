@@ -30,6 +30,8 @@ graphemic_classification: 肉
 stand_in: 育
 aliases:
 注音: ˙ㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 育.
 >For the word, see [育](words/育.md)

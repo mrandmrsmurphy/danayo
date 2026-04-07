@@ -30,6 +30,8 @@ stand_in: 軌
 aliases:
   - 轨
 注音: ㄎㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 軌.
 >For the word, see [軌](words/軌.md)

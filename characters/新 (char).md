@@ -29,6 +29,8 @@ graphemic_classification: 亲
 stand_in: 新
 注音: ㄙㄧㄋ
 date-last-perfect: 2026-03-17
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 新.
 >For the word, see [新](words/新.md)

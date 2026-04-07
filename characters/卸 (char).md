@@ -28,6 +28,8 @@ graphemic_classification: 午
 stand_in: 卸
 aliases:
 注音: ㄙ˙ㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 卸.
 >For the word, see [卸](words/卸.md)

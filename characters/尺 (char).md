@@ -32,6 +32,8 @@ aliases:
   - 睪
 注音: ㄑㄝㄎ
 date-last-perfect: 2026-04-01
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 尺.
 >For the word, see [尺](words/尺.md)

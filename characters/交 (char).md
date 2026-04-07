@@ -31,6 +31,8 @@ stand_in: 交
 aliases:
   - 胶
 注音: ㄍ˙ㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [交](words/交.md)

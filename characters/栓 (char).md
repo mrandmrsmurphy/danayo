@@ -28,6 +28,8 @@ graphemic_classification: 全
 stand_in: 栓
 aliases:
 注音: ㄙˇㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 栓.
 >For the word, see [栓](words/栓.md)

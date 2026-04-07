@@ -29,6 +29,8 @@ stand_in: 閻
 aliases:
   - 阎
 注音: ˙ㄝㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 閻.
 >For the word, see [閻](words/閻.md)

@@ -28,6 +28,8 @@ graphemic_classification: 厷
 stand_in: 雄
 aliases:
 注音: ㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 雄.
 >For the word, see [雄](words/雄.md)

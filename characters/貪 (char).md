@@ -29,6 +29,8 @@ stand_in: 貪
 aliases:
   - 贪
 注音: ㄊㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 貪.
 >For the word, see [貪](words/貪.md)

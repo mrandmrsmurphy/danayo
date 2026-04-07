@@ -28,6 +28,8 @@ graphemic_classification: 卜
 stand_in: 赴
 aliases:
 注音: ㄆㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 赴.
 >For the word, see [赴](words/赴.md)

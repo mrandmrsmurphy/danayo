@@ -29,6 +29,8 @@ graphemic_classification: 衣
 stand_in: 依
 aliases:
 注音: ㄧ˙
+tags:
+  - character
 ---
 ```meta-bind-embed
 [[nav/char_info]]

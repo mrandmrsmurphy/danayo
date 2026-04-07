@@ -30,6 +30,8 @@ stand_in: 涙
 aliases:
   - 淚
 注音: ㄌㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 涙.
 >For the word, see [涙](words/涙.md)

@@ -33,6 +33,8 @@ stand_in: 劇
 aliases:
   - 剧
 注音: ㄍㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 劇.
 >For the word, see [劇](words/劇.md)

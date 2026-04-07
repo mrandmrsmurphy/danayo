@@ -29,6 +29,8 @@ graphemic_classification: 弱
 stand_in: 溺
 aliases:
 注音: ㄋㄧㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 溺.
 >For the word, see [溺](words/溺.md)

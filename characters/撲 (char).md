@@ -30,6 +30,8 @@ stand_in: 撲
 aliases:
   - 扑
 注音: ㄆㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 撲.
 >For the word, see [撲](words/撲.md)

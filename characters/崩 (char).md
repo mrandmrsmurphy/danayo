@@ -30,6 +30,8 @@ graphemic_classification: 朋
 stand_in: 崩
 aliases:
 注音: ㄅㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 崩.
 >For the word, see [崩](words/崩.md)

@@ -31,6 +31,8 @@ stand_in: 作
 aliases:
   - 做
 注音: ㄐㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 作.
 >For the word, see [作](words/作.md)

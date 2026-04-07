@@ -27,6 +27,8 @@ graphemic_classification: 相
 stand_in: 霜
 aliases:
 注音: ㄙˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 霜.
 >For the word, see [霜](words/霜.md)

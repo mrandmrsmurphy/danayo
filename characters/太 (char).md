@@ -30,6 +30,8 @@ stand_in: 太
 aliases:
   - 冭
 注音: ㄊㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 太.
 >For the word, see [太](words/太.md)

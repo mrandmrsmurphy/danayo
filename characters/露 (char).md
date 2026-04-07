@@ -27,6 +27,8 @@ graphemic_classification: 路
 stand_in: 露
 aliases:
 注音: ㄌㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 露.
 >For the word, see [露](words/露.md)

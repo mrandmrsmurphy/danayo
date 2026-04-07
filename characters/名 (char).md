@@ -30,6 +30,8 @@ stand_in: 名
 aliases:
   - 洺
 注音: ㄇㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 名.
 >For the word, see [名](words/名.md)

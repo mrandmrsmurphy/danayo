@@ -29,6 +29,8 @@ stand_in: 鍬
 aliases:
   - 锹
 注音: ㄑㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鍬.
 >For the word, see [鍬](words/鍬.md)

@@ -30,6 +30,8 @@ stand_in: 乾
 aliases:
 - 干
 注音: ㄍ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 乾.
 >For the word, see [乾](words/乾.md)

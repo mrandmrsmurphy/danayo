@@ -30,6 +30,8 @@ stand_in: 締
 aliases:
   - 缔
 注音: ㄊㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 締.
 >For the word, see [締](words/締.md)

@@ -31,6 +31,8 @@ stand_in: 九
 aliases:
 注音: ㄎ˙ㄨ
 date-last-perfect: 2026-02-20
+tags:
+  - character
 ---
 > [!tip] This is the character 九.  For the word 'nine', see [[九]]
 ```meta-bind-embed

@@ -32,6 +32,8 @@ aliases:
   - 關
   - 关
 注音: ㄍˇㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 関.
 >For the word, see [関](words/関.md)

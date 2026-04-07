@@ -28,6 +28,8 @@ graphemic_classification: 才
 stand_in: 在
 aliases:
 注音: ㄐㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 在.
 >For the word, see [在](words/在.md)

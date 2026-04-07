@@ -35,6 +35,8 @@ aliases:
   - 䳟
   - 眀
 注音: ㄇ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 明.
 >For the word, see [明](words/明.md)

@@ -32,6 +32,8 @@ aliases:
   - 旷
   - 广
 注音: ㄍˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 広.
 >For the word, see [広](words/広.md)

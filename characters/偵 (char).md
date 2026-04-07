@@ -28,6 +28,8 @@ stand_in: 偵
 aliases:
   - 侦
 注音: ㄊㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 偵.
 >For the word, see [偵](words/偵.md)

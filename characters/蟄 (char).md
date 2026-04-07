@@ -29,6 +29,8 @@ stand_in: 蟄
 aliases:
   - 蛰
 注音: ㄑㄧㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蟄.
 >For the word, see [蟄](words/蟄.md)

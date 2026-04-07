@@ -27,6 +27,8 @@ graphemic_classification: 丩
 stand_in: 叫
 aliases:
 注音: ㄍ˙ㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 叫.
 >For the word, see [叫](words/叫.md)

@@ -30,6 +30,8 @@ stand_in: 慶
 aliases:
   - 庆
 注音: ㄎ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 慶.
 >For the word, see [慶](words/慶.md)

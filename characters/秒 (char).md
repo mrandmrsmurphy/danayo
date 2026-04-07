@@ -27,6 +27,8 @@ graphemic_classification: 少
 stand_in: 秒
 aliases:
 注音: ㄇ˙ㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 秒.
 >For the word, see [秒](words/秒.md)

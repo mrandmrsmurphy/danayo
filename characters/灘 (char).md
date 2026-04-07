@@ -30,6 +30,8 @@ stand_in: 灘
 aliases:
   - 滩
 注音: ㄊㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 灘.
 >For the word, see [灘](words/灘.md)

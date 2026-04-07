@@ -30,6 +30,8 @@ aliases:
   - 壓
   - 压
 注音: ㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 圧.
 >For the word, see [圧](words/圧.md)

@@ -29,6 +29,8 @@ stand_in: 婦
 aliases:
   - 妇
 注音: ㄅ˙ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 婦.
 >For the word, see [婦](words/婦.md)

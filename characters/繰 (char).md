@@ -28,6 +28,8 @@ stand_in: 繰
 aliases:
   - 缲
 注音: ㄐㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 繰.
 >For the word, see [繰](words/繰.md)

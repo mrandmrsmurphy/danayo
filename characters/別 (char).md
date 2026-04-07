@@ -32,6 +32,8 @@ aliases:
   - 别
   - 彆
 注音: ㄅㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 別.
 >For the word, see [別](words/別.md)

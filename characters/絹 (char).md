@@ -28,6 +28,8 @@ stand_in: 絹
 aliases:
   - 绢
 注音: ㄍˇㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 絹.
 >For the word, see [絹](words/絹.md)

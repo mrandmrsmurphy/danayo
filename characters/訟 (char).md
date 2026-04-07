@@ -29,6 +29,8 @@ stand_in: 訟
 aliases:
   - 讼
 注音: ㄙ˙ㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 訟.
 >For the word, see [訟](words/訟.md)

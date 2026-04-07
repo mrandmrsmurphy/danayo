@@ -31,6 +31,8 @@ stand_in: 褐
 aliases:
   - 竭
 注音: ㄏㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 褐.
 >For the word, see [褐](words/褐.md)

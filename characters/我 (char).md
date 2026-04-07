@@ -40,6 +40,8 @@ aliases:
 注音: ㄚ
 swadesh: 1
 date-last-perfect: 2026-02-06
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 我.
 >For the word, see [我](words/我.md)

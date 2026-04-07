@@ -27,6 +27,8 @@ graphemic_classification: 烝
 stand_in: 蒸
 aliases:
 注音: ㄐㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蒸.
 >For the word, see [蒸](words/蒸.md)

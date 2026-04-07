@@ -30,6 +30,8 @@ stand_in: 術
 aliases:
   - 术
 注音: ㄙㄨㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 術.
 >For the word, see [術](words/術.md)

@@ -30,6 +30,8 @@ stand_in: 詠
 aliases:
   - 咏
   - 𰵞
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 詠.
 >For the word, see [詠](words/詠.md)

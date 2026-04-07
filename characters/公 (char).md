@@ -33,6 +33,8 @@ aliases:
   - 𧌻
 注音: ㄍㄛㄥ
 date-last-perfect: 2026-03-24
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 公.
 >For the word, see [公](words/公.md)

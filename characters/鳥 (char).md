@@ -28,6 +28,8 @@ stand_in: 鳥
 aliases:
   - 鸟
 注音: ㄑㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鳥.
 >For the word, see [鳥](words/鳥.md)

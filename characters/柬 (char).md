@@ -29,6 +29,8 @@ graphemic_classification: 指事
 stand_in: 柬
 aliases:
 注音: ㄍ˙ㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 柬.
 >For the word, see [柬](words/柬.md)

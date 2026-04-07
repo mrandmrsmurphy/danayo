@@ -29,6 +29,8 @@ stand_in: 昆
 aliases:
   - 錕
 注音: ㄍㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 昆.
 >For the word, see [昆](words/昆.md)

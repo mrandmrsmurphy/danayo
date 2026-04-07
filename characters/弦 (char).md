@@ -31,6 +31,8 @@ stand_in: 弦
 aliases:
   - 絃
 注音: ㄏㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弦.
 >For the word, see [弦](words/弦.md)

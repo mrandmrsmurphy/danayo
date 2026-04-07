@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 各
 aliases:
 注音: ㄍㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 各.
 >For the word, see [各](words/各.md)

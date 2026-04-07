@@ -27,6 +27,8 @@ graphemic_classification: 亥
 stand_in: 核
 aliases:
 注音: ㄏㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 核.
 >For the word, see [核](words/核.md)

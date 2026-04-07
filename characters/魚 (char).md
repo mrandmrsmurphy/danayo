@@ -31,6 +31,8 @@ aliases:
   - 鱼
   - 𤋳
 注音: ˙ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character.
 >For the word, see [魚](words/魚.md).

@@ -27,6 +27,8 @@ graphemic_classification: 屮
 stand_in: 妻
 aliases:
 注音: ㄑㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 妻.
 >For the word, see [妻](words/妻.md)

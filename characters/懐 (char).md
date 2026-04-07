@@ -29,6 +29,8 @@ stand_in: 懐
 aliases:
   - 懷
 注音: ㄏˇㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 懐.
 >For the word, see [懐](words/懐.md)

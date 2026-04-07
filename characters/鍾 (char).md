@@ -29,6 +29,8 @@ aliases:
   - 钟
   - 锺
 注音: ㄐㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鍾.
 >For the word, see [鍾](words/鍾.md)

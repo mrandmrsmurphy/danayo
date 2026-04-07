@@ -42,6 +42,8 @@ aliases:
 swadesh: 94
 date-last-perfect: 2026-02-17
 品詞: 事詞
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 咬.
 >For the word, see [咬](words/咬.md)

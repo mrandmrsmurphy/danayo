@@ -29,6 +29,8 @@ graphemic_classification: 徹
 stand_in: 撤
 aliases:
 注音: ㄉㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 撤.
 >For the word, see [撤](words/撤.md)

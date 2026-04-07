@@ -29,6 +29,8 @@ graphemic_classification: 辰
 stand_in: 振
 aliases:
 注音: ㄐㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 振.
 >For the word, see [振](words/振.md)

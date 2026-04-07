@@ -30,6 +30,8 @@ graphemic_classification: 帝
 stand_in: 摘
 aliases:
 注音: ㄉㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 摘.
 >For the word, see [摘](words/摘.md)

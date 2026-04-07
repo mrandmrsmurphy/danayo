@@ -31,6 +31,8 @@ aliases:
   - 樣
   - 样
 注音: ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 様.
 >For the word, see [様](words/様.md)

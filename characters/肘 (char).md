@@ -28,6 +28,8 @@ stand_in: 肘
 aliases:
   - 肱
 注音: ㄐㄨㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 肘.
 >For the word, see [肘](words/肘.md)

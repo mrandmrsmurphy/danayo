@@ -28,6 +28,8 @@ stand_in: 梁
 aliases:
   - 樑
 注音: ㄌ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 梁.
 >For the word, see [梁](words/梁.md)

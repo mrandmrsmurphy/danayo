@@ -34,6 +34,8 @@ stand_in: 逆
 aliases:
   - 屰
 注音: ㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 逆.
 >For the word, see [逆](words/逆.md)

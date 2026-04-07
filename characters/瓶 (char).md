@@ -30,6 +30,8 @@ graphemic_classification: 并
 stand_in: 瓶
 aliases:
 注音: ㄅㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 瓶.
 >For the word, see [瓶](words/瓶.md)

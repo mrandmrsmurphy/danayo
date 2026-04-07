@@ -27,6 +27,8 @@ graphemic_classification: 五
 stand_in: 伍
 aliases:
 注音: ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 伍.
 >For the word, see [伍](words/伍.md)

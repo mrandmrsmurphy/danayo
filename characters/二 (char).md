@@ -33,6 +33,8 @@ aliases:
   - 𠄠
 date-last-perfect: 2026-03-19
 注音: ㄋㄧ˙
+tags:
+  - character
 ---
 >[!warning] This is the character 二.  For the word 'two', use [[二]].  
 >See also [[Radical 007]].

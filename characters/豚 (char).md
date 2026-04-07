@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 豚
 aliases:
 注音: ㄊㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 豚.
 >For the word, see [豚](words/豚.md)

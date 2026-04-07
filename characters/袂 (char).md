@@ -29,6 +29,8 @@ stand_in: 袂
 aliases:
   - 𣍐
 注音: ㄇㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 袂.
 >For the word, see [袂](words/袂.md)

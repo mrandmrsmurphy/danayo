@@ -30,6 +30,8 @@ stand_in: 掛
 aliases:
   - 挂
 注音: ㄍˇㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 掛.
 >For the word, see [掛](words/掛.md)

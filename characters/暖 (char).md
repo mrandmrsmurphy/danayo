@@ -30,6 +30,8 @@ stand_in: 暖
 aliases:
   - 煖
 注音: ㄋㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 暖.
 >For the word, see [暖](words/暖.md)

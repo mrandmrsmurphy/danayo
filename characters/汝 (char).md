@@ -27,6 +27,8 @@ graphemic_classification: 女
 stand_in: 汝
 aliases:
 注音: ㄋㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 汝.
 >For the word, see [汝](words/汝.md)

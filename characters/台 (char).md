@@ -34,6 +34,8 @@ aliases:
 - 臺
 - 颱
 注音: ㄉㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 台.
 >For the word, see [台](words/台.md)

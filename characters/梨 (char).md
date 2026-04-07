@@ -27,6 +27,8 @@ graphemic_classification: 利
 stand_in: 梨
 aliases:
 注音: ㄌㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 梨.
 >For the word, see [梨](words/梨.md)

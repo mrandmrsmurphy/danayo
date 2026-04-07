@@ -28,6 +28,8 @@ stand_in: 活
 aliases:
   - 𣴠
 注音: ㄏˇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 活.
 >For the word, see [活](words/活.md)

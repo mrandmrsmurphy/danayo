@@ -38,6 +38,8 @@ aliases:
 - 䥫
 - 鋨
 注音: ㄊㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鉄.
 >For the word, see [鉄](words/鉄.md)

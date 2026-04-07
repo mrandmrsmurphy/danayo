@@ -27,6 +27,8 @@ graphemic_classification: 指事
 stand_in: 光
 aliases:
 注音: ㄎˇㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 光.
 >For the word, see [光](words/光.md)

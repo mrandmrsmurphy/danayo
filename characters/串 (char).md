@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 串
 aliases:
 注音: ㄐˇㄚㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 串.
 >For the word, see [串](words/串.md)

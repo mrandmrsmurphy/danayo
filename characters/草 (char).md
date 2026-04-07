@@ -30,6 +30,8 @@ stand_in: 草
 aliases:
   - 艸
 注音: ㄑㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 草.
 >For the word, see [草](words/草.md)

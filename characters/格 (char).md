@@ -31,6 +31,8 @@ stand_in: 格
 aliases:
   - 骼
 注音: ㄍㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 格.
 >For the word, see [格](words/格.md)

@@ -33,6 +33,8 @@ aliases:
   - 脑
   - 匘
 注音: ㄋㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 脳.
 >For the word, see [脳](words/脳.md)

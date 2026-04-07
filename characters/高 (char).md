@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 高
 aliases:
 注音: ㄍㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 高.
 >For the word, see [高](words/高.md)

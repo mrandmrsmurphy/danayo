@@ -31,6 +31,8 @@ stand_in: 磨
 aliases:
   - 摩
 注音: ㄇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 磨.
 >For the word, see [磨](words/磨.md)

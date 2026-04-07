@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 片
 aliases:
 注音: ㄆㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 片.
 >For the word, see [片](words/片.md)

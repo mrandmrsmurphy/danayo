@@ -27,6 +27,8 @@ graphemic_classification: 束
 stand_in: 竦
 aliases:
 注音: ㄙㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 竦.
 >For the word, see [竦](words/竦.md)

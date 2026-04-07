@@ -27,6 +27,8 @@ graphemic_classification: 帝
 stand_in: 蹄
 aliases:
 注音: ㄉㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蹄.
 >For the word, see [蹄](words/蹄.md)

@@ -28,6 +28,8 @@ graphemic_classification: 末
 stand_in: 抹
 aliases:
 注音: ㄇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 抹.
 >For the word, see [抹](words/抹.md)

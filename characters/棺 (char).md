@@ -27,6 +27,8 @@ graphemic_classification: 官
 stand_in: 棺
 aliases:
 注音: ㄍˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 棺.
 >For the word, see [棺](words/棺.md)

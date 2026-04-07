@@ -29,6 +29,8 @@ stand_in: 遠
 aliases:
   - 远
 注音: ㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 遠.
 >For the word, see [遠](words/遠.md)

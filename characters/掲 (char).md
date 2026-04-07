@@ -31,6 +31,8 @@ stand_in: 掲
 aliases:
   - 揭
 注音: ㄎㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 掲.
 >For the word, see [掲](words/掲.md)

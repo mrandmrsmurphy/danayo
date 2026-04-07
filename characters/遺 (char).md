@@ -30,6 +30,8 @@ stand_in: 遺
 aliases:
   - 遗
 注音: ˙ㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 遺.
 >For the word, see [遺](words/遺.md)

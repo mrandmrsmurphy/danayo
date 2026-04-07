@@ -29,6 +29,8 @@ stand_in: 賃
 aliases:
   - 赁
 注音: ㄋㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 賃.
 >For the word, see [賃](words/賃.md)

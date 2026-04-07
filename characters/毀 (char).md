@@ -29,6 +29,8 @@ stand_in: 毀
 aliases:
   - 毁
 注音: ㄏˇㄝ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 毀.
 >For the word, see [毀](words/毀.md)

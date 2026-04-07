@@ -41,6 +41,8 @@ aliases:
   - 靔
   - 𠀑
 注音: ㄊㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 天.
 >For the word, see [天](words/天.md)

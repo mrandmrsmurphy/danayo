@@ -28,6 +28,8 @@ graphemic_classification: 或
 stand_in: 域
 aliases:
 注音: ˇㄧㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 域.
 >For the word, see [域](words/域.md)

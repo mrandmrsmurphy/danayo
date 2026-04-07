@@ -29,6 +29,8 @@ stand_in: 暦
 aliases:
   - 曆
 注音: ㄌㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 暦.
 >For the word, see [暦](words/暦.md)

@@ -32,6 +32,8 @@ aliases:
   - 綠
   - 绿
 注音: ㄌㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 緑.
 >For the word, see [緑](words/緑.md)

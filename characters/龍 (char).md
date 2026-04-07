@@ -44,6 +44,8 @@ aliases:
 注音: ㄌ˙ㄛㄥ
 date-last-perfect: 2026-02-22
 品詞: 名詞
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 龍.
 >For the word, see [龍](words/龍.md)

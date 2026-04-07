@@ -29,6 +29,8 @@ stand_in: 笑
 aliases:
   - 咲
 注音: ㄙ˙ㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 笑.
 >For the word, see [笑](words/笑.md)

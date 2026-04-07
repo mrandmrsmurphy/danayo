@@ -29,6 +29,8 @@ stand_in: 没
 aliases:
   - 沒
 注音: ㄇㄛㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 没.
 >For the word, see [没](words/没.md)

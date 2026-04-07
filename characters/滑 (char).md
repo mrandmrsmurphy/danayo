@@ -29,6 +29,8 @@ stand_in: 滑
 aliases:
   - 猾
 注音: ㄏˇㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 滑.
 >For the word, see [滑](words/滑.md)

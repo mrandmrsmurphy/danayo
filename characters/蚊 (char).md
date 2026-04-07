@@ -28,6 +28,8 @@ graphemic_classification: 文
 stand_in: 蚊
 aliases:
 注音: ㄇㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蚊.
 >For the word, see [蚊](words/蚊.md)

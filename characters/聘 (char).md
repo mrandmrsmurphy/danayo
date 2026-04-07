@@ -29,6 +29,8 @@ stand_in: 聘
 aliases:
   - 娉
 注音: ㄆㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 聘.
 >For the word, see [聘](words/聘.md)

@@ -30,6 +30,8 @@ stand_in: 鷹
 aliases:
   - 鹰
 注音: ㄧㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鷹.
 >For the word, see [鷹](words/鷹.md)

@@ -29,6 +29,8 @@ graphemic_classification: 指事
 stand_in: 品
 aliases:
 注音: ㄆㄨㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 品.
 >For the word, see [品](words/品.md)

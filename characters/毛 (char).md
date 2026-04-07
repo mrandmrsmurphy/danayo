@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 毛
 aliases:
 注音: ㄇㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is about the character 毛.
 >For the word, see [毛](words/毛.md).

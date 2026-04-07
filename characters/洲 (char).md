@@ -27,6 +27,8 @@ graphemic_classification: 州
 stand_in: 洲
 aliases:
 注音: ㄐㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 洲.
 >For the word, see [洲](words/洲.md)

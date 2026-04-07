@@ -29,6 +29,8 @@ graphemic_classification: 昔
 stand_in: 惜
 aliases:
 注音: ㄙㄝㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character.
 >For the word, see [惜](words/惜.md).

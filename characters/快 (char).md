@@ -29,6 +29,8 @@ graphemic_classification: 叏
 stand_in: 快
 aliases:
 注音: ㄎˇㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 快.
 >For the word, see [快](words/快.md)

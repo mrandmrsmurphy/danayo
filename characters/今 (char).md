@@ -30,6 +30,8 @@ stand_in: 今
 aliases:
   - 芩
 注音: ㄍㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 今.
 >For the word, see [今](words/今.md)

@@ -29,6 +29,8 @@ aliases:
   - 敝
   - 币
 注音: ㄆㄝ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 幣.
 >For the word, see [幣](words/幣.md)

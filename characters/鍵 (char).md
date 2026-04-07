@@ -29,6 +29,8 @@ aliases:
   - 騫
   - 键
 注音: ㄍ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鍵.
 >For the word, see [鍵](words/鍵.md)

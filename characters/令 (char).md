@@ -29,6 +29,8 @@ stand_in: 令
 aliases:
   - 囹
 注音: ㄌㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 令.
 >For the word, see [令](words/令.md)

@@ -31,6 +31,8 @@ stand_in: 近
 aliases:
   - 𫙧
 注音: ㄍㄧㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 近.
 >For the word, see [近](words/近.md)

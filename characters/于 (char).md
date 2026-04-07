@@ -36,6 +36,8 @@ aliases:
 注音: ㄨ
 品詞: 格助詞
 date-last-perfect: 2026-02-20
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 于.
 >For the word, see [于](words/于.md)

@@ -28,6 +28,8 @@ graphemic_classification: 林
 stand_in: 淋
 aliases:
 注音: ㄌㄧㄇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 淋.
 >For the word, see [淋](words/淋.md)

@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 老
 aliases:
 注音: ㄌㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 老.
 >For the word, see [老](words/老.md)

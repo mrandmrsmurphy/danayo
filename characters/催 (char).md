@@ -31,6 +31,8 @@ stand_in: 催
 aliases:
   - 摧
 注音: ㄑㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 催.
 >For the word, see [催](words/催.md)

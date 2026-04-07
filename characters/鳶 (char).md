@@ -28,6 +28,8 @@ stand_in: 鳶
 aliases:
   - 鸢
 注音: ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鳶.
 >For the word, see [鳶](words/鳶.md)

@@ -28,6 +28,8 @@ graphemic_classification: 攵
 stand_in: 牧
 aliases:
 注音: ㄇㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 牧.
 >For the word, see [牧](words/牧.md)

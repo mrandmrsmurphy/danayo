@@ -34,6 +34,8 @@ aliases:
   - 𠱭
   - 𠱰
 注音: ㄍㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 君.
 >For the word, see [君](words/君.md)

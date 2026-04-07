@@ -30,6 +30,8 @@ stand_in: 火
 aliases:
   - 灬
 注音: ㄏˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 火.
 >For the word, see [火](words/火.md)

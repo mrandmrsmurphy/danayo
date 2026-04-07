@@ -30,6 +30,8 @@ aliases:
   - 媚
   - 嵋
 注音: ㄇㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 眉.
 >For the word, see [眉](words/眉.md)

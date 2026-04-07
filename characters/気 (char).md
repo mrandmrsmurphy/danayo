@@ -30,6 +30,8 @@ aliases:
   - 氣
   - 气
 注音: ㄎㄧ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 気.
 >For the word, see [気](words/気.md)

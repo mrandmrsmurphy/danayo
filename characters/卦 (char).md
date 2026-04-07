@@ -24,6 +24,8 @@ grade_level: "先進"
 注音: ㄍˇㄚ˙
 joyo_level: 表外字
 hsk_level:
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 卦.
 >For the word, see [卦](words/卦.md)

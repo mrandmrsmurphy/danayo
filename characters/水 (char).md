@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 水
 aliases:
 注音: ㄙㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 水.
 >For the word, see [水](words/水.md)

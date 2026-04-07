@@ -29,6 +29,8 @@ stand_in: 縮
 aliases:
   - 缩
 注音: ㄙㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 縮.
 >For the word, see [縮](words/縮.md)

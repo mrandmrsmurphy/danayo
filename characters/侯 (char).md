@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 侯
 aliases:
 注音: ㄏㄛˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 侯.
 >For the word, see [侯](words/侯.md)

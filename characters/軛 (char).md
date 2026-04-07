@@ -30,6 +30,8 @@ aliases:
   - 軶
   - 轭
 注音: ㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 軛.
 >For the word, see [軛](words/軛.md)

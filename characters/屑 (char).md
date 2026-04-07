@@ -28,6 +28,8 @@ graphemic_classification: 八
 stand_in: 屑
 aliases:
 注音: ㄙㄝㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 屑.
 >For the word, see [屑](words/屑.md)

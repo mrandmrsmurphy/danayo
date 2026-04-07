@@ -28,6 +28,8 @@ graphemic_classification: 同
 stand_in: 筒
 aliases:
 注音: ㄉㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 筒.
 >For the word, see [筒](words/筒.md)

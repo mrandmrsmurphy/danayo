@@ -30,6 +30,8 @@ stand_in: 趨
 aliases:
   - 趋
 注音: ㄑㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 趨.
 >For the word, see [趨](words/趨.md)

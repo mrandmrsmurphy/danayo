@@ -31,6 +31,8 @@ graphemic_classification: 以
 stand_in: 似
 aliases:
 注音: ㄙㄚ
+tags:
+  - character
 ---
 >[!tip] This is the character.
 >For the word, see [似](words/似.md)

@@ -30,6 +30,8 @@ stand_in: 曽
 aliases:
   - 曾
 注音: ㄐㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 曽.
 >For the word, see [曽](words/曽.md)

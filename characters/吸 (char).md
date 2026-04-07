@@ -28,6 +28,8 @@ graphemic_classification: 及
 stand_in: 吸
 aliases:
 注音: ㄏㄧㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 吸.
 >For the word, see [吸](words/吸.md)

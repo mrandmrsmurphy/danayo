@@ -35,6 +35,8 @@ aliases:
   - 榢
 注音: ㄍㄚ
 date-last-perfect: 2026-02-20
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 架.
 >For the word, see [架](words/架.md)

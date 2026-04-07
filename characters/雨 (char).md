@@ -30,6 +30,8 @@ aliases:
   - 䨒
 注音: ㄨ
 kwin: true
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 雨.
 >For the word, see [雨](words/雨.md)

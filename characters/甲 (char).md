@@ -30,6 +30,8 @@ graphemic_classification: 象形
 stand_in: 甲
 aliases:
 注音: ㄍㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 甲.
 >For the word, see [甲](words/甲.md)

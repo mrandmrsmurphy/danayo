@@ -31,6 +31,8 @@ graphemic_classification: 畜
 stand_in: 蓄
 aliases:
 注音: ㄑㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蓄.
 >For the word, see [蓄](words/蓄.md)

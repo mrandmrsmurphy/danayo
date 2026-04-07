@@ -31,6 +31,8 @@ stand_in: 事
 aliases:
   - 亊
 注音: ㄐㄧ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 事.
 >For the word, see [事](words/事.md)

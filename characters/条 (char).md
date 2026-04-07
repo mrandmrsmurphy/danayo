@@ -29,6 +29,8 @@ aliases:
   - 條
 注音: ㄐㄛ
 kwin: true
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 条.
 >For the word, see [条](words/条.md)

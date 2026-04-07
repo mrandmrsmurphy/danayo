@@ -29,6 +29,8 @@ stand_in: 喚
 aliases:
   - 唤
 注音: ㄏˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 喚.
 >For the word, see [喚](words/喚.md)

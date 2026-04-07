@@ -30,6 +30,8 @@ graphemic_classification: 禺
 stand_in: 隅
 aliases:
 注音: ㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 隅.
 >For the word, see [隅](words/隅.md)

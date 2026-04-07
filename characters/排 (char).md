@@ -34,6 +34,8 @@ mc_id: 2459
 graphemic_classification: 非
 stand_in: 排
 注音: ㄆㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [排](words/排.md)

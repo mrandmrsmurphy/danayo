@@ -29,6 +29,8 @@ graphemic_classification: 占
 stand_in: 帖
 aliases:
 注音: ㄊㄛㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 帖.
 >For the word, see [帖](words/帖.md)

@@ -27,6 +27,8 @@ graphemic_classification: 豕
 stand_in: 啄
 aliases:
 注音: ㄊㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 啄.
 >For the word, see [啄](words/啄.md)

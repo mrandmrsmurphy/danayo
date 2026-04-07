@@ -29,6 +29,8 @@ graphemic_classification: 足
 stand_in: 促
 aliases:
 注音: ㄑㄛㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 促.
 >For the word, see [促](words/促.md)

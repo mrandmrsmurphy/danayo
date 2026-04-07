@@ -30,6 +30,8 @@ stand_in: 蜂
 aliases:
   - 蚌
 注音: ㄆㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蜂.
 >For the word, see [蜂](words/蜂.md)

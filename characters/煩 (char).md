@@ -29,6 +29,8 @@ stand_in: 煩
 aliases:
   - 烦
 注音: ㄅㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 煩.
 >For the word, see [煩](words/煩.md)

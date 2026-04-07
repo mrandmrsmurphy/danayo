@@ -29,6 +29,8 @@ graphemic_classification: 丙
 stand_in: 柄
 aliases:
 注音: ㄅ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 柄.
 >For the word, see [柄](words/柄.md)

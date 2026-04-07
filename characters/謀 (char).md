@@ -31,6 +31,8 @@ stand_in: 謀
 aliases:
   - 谋
 注音: ㄇㄨˇ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [謀](words/謀.md).

@@ -28,6 +28,8 @@ graphemic_classification: 甫
 stand_in: 浦
 aliases:
 注音: ㄆㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 浦.
 >For the word, see [浦](words/浦.md)

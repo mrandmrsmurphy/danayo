@@ -29,6 +29,8 @@ stand_in: 捨
 aliases:
   - 舍
 注音: ㄙ˙ㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 捨.
 >For the word, see [捨](words/捨.md)

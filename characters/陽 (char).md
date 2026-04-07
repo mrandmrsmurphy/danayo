@@ -28,6 +28,8 @@ stand_in: 陽
 aliases:
   - 阳
 注音: ˙ㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 陽.
 >For the word, see [陽](words/陽.md)

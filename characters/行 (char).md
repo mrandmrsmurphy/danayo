@@ -30,6 +30,8 @@ graphemic_classification: 指事
 stand_in: 行
 aliases:
 注音: ㄏㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 行.
 >For the word, see [行](words/行.md)

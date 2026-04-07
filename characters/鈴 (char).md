@@ -30,6 +30,8 @@ stand_in: 鈴
 aliases:
   - 铃
 注音: ㄌㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 鈴.
 >For the word, see [鈴](words/鈴.md)

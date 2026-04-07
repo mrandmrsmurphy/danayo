@@ -29,6 +29,8 @@ stand_in: 紛
 aliases:
   - 纷
 注音: ㄆㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 紛.
 >For the word, see [紛](words/紛.md)

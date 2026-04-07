@@ -28,6 +28,8 @@ graphemic_classification: 亢
 stand_in: 坑
 aliases:
 注音: ㄎㄚㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 坑.
 >For the word, see [坑](words/坑.md)

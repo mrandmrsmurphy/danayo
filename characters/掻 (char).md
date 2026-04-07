@@ -31,6 +31,8 @@ stand_in: 掻
 aliases:
   - 搔
 注音: ㄙㄚˇ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 掻.
 >For the word, see [掻](words/掻.md)

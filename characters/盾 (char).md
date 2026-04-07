@@ -28,6 +28,8 @@ graphemic_classification: 象形
 stand_in: 盾
 aliases:
 注音: ㄐㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 盾.
 >For the word, see [盾](words/盾.md)

@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 遣
 aliases:
 注音: ㄎㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 遣.
 >For the word, see [遣](words/遣.md)

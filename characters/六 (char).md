@@ -35,6 +35,8 @@ graphemic_classification: 指事
 stand_in: 六
 aliases:
 注音: ㄌㄨㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 六.
 >For the word, see [六](words/六.md)

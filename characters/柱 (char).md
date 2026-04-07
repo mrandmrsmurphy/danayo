@@ -27,6 +27,8 @@ graphemic_classification: 主
 stand_in: 柱
 aliases:
 注音: ㄐㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 柱.
 >For the word, see [柱](words/柱.md)

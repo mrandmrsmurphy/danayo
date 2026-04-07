@@ -29,6 +29,8 @@ graphemic_classification: 尊
 stand_in: 蹲
 aliases:
 注音: ㄐㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 蹲.
 >For the word, see [蹲](words/蹲.md)

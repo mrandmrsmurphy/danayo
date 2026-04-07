@@ -28,6 +28,8 @@ stand_in: 鍋
 aliases:
   - 锅
 注音: ㄍˇㄚ
+tags:
+  - character
 ---
 >[!tip] This is about the character.  For the word, see [[鍋]].
 ```meta-bind-embed

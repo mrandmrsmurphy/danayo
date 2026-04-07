@@ -29,6 +29,8 @@ graphemic_classification: 指事
 stand_in: 寸
 aliases:
 注音: ㄑㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 寸.
 >For the word, see [寸](words/寸.md)

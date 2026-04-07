@@ -28,6 +28,8 @@ graphemic_classification: 會意
 stand_in: 弄
 aliases:
 注音: ㄌㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弄.
 >For the word, see [弄](words/弄.md)

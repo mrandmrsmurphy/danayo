@@ -27,6 +27,8 @@ graphemic_classification: 厓
 stand_in: 崖
 aliases:
 注音: ㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 崖.
 >For the word, see [崖](words/崖.md)

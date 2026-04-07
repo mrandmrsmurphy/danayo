@@ -31,6 +31,8 @@ stand_in: 貼
 aliases:
   - 贴
 注音: ㄊㄝㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 貼.
 >For the word, see [貼](words/貼.md)

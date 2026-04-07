@@ -30,6 +30,8 @@ graphemic_classification: 會意
 stand_in: 法
 aliases:
 注音: ㄆㄚㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 法.
 >For the word, see [法](words/法.md)

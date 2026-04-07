@@ -31,6 +31,8 @@ stand_in: 却
 aliases:
 - 卻
 注音: ㄎ˙ㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 却.
 >For the word, see [却](words/却.md)

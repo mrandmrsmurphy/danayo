@@ -27,6 +27,8 @@ graphemic_classification: 象形
 stand_in: 弓
 aliases:
 注音: ㄍㄨㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 弓.
 >For the word, see [弓](words/弓.md)

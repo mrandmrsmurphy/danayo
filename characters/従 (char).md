@@ -34,6 +34,8 @@ aliases:
   - 慫
   - 怂
 注音: ㄐㄛㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 従.
 >For the word, see [従](words/従.md)

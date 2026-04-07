@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 皿
 aliases:
 注音: ㄇ˙ㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 皿.
 >For the word, see [皿](words/皿.md)

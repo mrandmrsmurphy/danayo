@@ -30,6 +30,8 @@ stand_in: 舵
 aliases:
   - 杕
 注音: ㄉㄚ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 舵.
 >For the word, see [舵](words/舵.md)

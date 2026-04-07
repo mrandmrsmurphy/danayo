@@ -32,6 +32,8 @@ aliases:
   - 讳
 注音: ㄏㄨ˙
 kwin: true
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 諱.
 >For the word, see [諱](words/諱.md)

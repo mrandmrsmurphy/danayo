@@ -29,6 +29,8 @@ graphemic_classification: 象形
 stand_in: 未
 aliases:
 注音: ㄇㄨ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 未.
 >For the word, see [未](words/未.md)

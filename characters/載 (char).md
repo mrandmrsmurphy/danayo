@@ -29,6 +29,8 @@ stand_in: 載
 aliases:
   - 载
 注音: ㄐㄚ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 載.
 >For the word, see [載](words/載.md)

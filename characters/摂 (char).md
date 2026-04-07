@@ -29,6 +29,8 @@ stand_in: 摂
 aliases:
   - 攝
 注音: ㄋㄝㄆ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 摂.
 >For the word, see [摂](words/摂.md)

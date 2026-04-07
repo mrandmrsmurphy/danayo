@@ -30,6 +30,8 @@ graphemic_classification: 禺
 stand_in: 遇
 aliases:
 注音: ㄨ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 遇.
 >For the word, see [遇](words/遇.md)

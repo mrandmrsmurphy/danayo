@@ -28,6 +28,8 @@ graphemic_classification: 台
 stand_in: 苔
 aliases:
 注音: ㄊㄛ˙
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 苔.
 >For the word, see [苔](words/苔.md)

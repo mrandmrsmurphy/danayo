@@ -29,6 +29,8 @@ graphemic_classification: 豆
 stand_in: 短
 aliases:
 注音: ㄉˇㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 短.
 >For the word, see [短](words/短.md)

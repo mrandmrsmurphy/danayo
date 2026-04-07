@@ -28,6 +28,8 @@ graphemic_classification: 帝
 stand_in: 嫡
 aliases:
 注音: ㄉㄚㄎ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 嫡.
 >For the word, see [嫡](words/嫡.md)

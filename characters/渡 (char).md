@@ -30,6 +30,8 @@ graphemic_classification: 度
 stand_in: 渡
 aliases:
 注音: ㄉㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 渡.
 >For the word, see [渡](words/渡.md)

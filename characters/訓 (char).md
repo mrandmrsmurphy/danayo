@@ -33,6 +33,8 @@ stand_in: 訓
 aliases:
   - 训
 注音: ㄏㄨㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 訓.
 >For the word, see [訓](words/訓.md)

@@ -28,6 +28,8 @@ graphemic_classification: 亘
 stand_in: 垣
 aliases:
 注音: ㄛㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 垣.
 >For the word, see [垣](words/垣.md)

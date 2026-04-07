@@ -28,6 +28,8 @@ graphemic_classification: 免
 stand_in: 勉
 aliases:
 注音: ㄇ˙ㄝㄋ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 勉.
 >For the word, see [勉](words/勉.md)

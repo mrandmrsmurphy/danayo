@@ -29,6 +29,8 @@ stand_in: 轄
 aliases:
   - 辖
 注音: ㄏㄚㄊ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 轄.
 >For the word, see [轄](words/轄.md)

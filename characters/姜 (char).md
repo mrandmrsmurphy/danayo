@@ -28,6 +28,8 @@ stand_in: 姜
 aliases:
 - 薑
 注音: ㄍ˙ㄚㄋ
+tags:
+  - character
 ---
 >[!tip] This is about the character.
 >For the word, see [姜](words/姜.md).

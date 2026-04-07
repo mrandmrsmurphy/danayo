@@ -29,6 +29,8 @@ stand_in: 錠
 aliases:
   - 锭
 注音: ㄐㄝㄥ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 錠.
 >For the word, see [錠](words/錠.md)

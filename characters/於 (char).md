@@ -34,6 +34,8 @@ aliases:
   - 扵
   - 于
 注音: ㄛ
+tags:
+  - character
 ---
 >[!tip] This is a page about the character 於.
 >For the word, see [於](words/於.md)
