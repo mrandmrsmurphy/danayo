@@ -1,7 +1,7 @@
 ---
-mandarin: "huá"
-cantonese: "waat6"
-korean: "활"
+mandarin: huá
+cantonese: waat6
+korean: 활
 korean_native: 미끄러울
 japanese:
   - KATSU
@@ -19,8 +19,8 @@ english:
   - slippery
 羅馬字: hwad
 韓文: 홛
-joyo_level: ""
-hsk_level: ""
+joyo_level: 高等
+hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 6295
 mc_id: 1496
@@ -34,9 +34,8 @@ tags:
 ---
 >[!tip] This is a page about the character 滑.
 >For the word, see [滑](words/滑.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*ɡruːd, \*kuːd, \*ɡuːd): semantic [水](Radical%20085) (“water”) + phonetic [骨 (char)](骨%20(char).md) (OC \*kuːd).
