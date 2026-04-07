@@ -3,7 +3,7 @@ radical: 飛
 size: 1
 date-last-perfect: 2026-02-25
 ---
-> [[Radicals]]
+> [Radicals](Radicals.md)
 > Abbreviated 飞
 
 1. <ruby>[[飛]]<rt>ㄆㄧ</rt></ruby> - fly

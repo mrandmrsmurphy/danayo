@@ -642,50 +642,50 @@
 1666. [[惰]] : lazy
 1667. [[駄]] : burdensome
 1668. [[耐]] : resistant
-1669. [[怠]] : neglect
-1670. [[胎]] : womb
-1671. [[泰]] : peaceful
-1672. [[堆]] : piled high
-1673. [[袋]] : sack
-1674. [[逮]] : apprehend
-1675. [[替]] : exchange
-1676. [[滞]] : 	[[滞|滯]]	stagnate
-1677. [[戴]] : be crowned with
-1678. [[瀧|滝]]	waterfall
-1679. [[択]] : 	[[択|擇]]	choose
-1680. [[沢]] : 	[[沢|澤]]	swamp
-1681. [[卓]] : eminent
-1682. [[拓]] : clear (the land)
-1683. [[託]] : consign
-1684. [[濯]] : laundry
-1685. [[諾]] : consent
-1686. [[濁]] : voiced
-1687. [[但]] : however
-1688. [[脱]] : undress
-1689. [[奪]] : rob
-1690. [[棚]] : shelf
+1669. [怠](../../characters/怠.md) : neglect
+1670. [胎](../../characters/胎.md) : womb
+1671. [泰](../../characters/泰.md) : peaceful
+1672. [堆](../../characters/堆.md) : piled high
+1673. [袋 (char)](../../characters/袋%20(char).md) : sack
+1674. [逮](../../characters/逮.md) : apprehend
+1675. [替](../../characters/替.md) : exchange
+1676. [滞](../../characters/滞.md) : 	滯	stagnate
+1677. [戴 (char)](../../characters/戴%20(char).md) : be crowned with
+1678. [滝](../../characters/瀧.md)	waterfall
+1679. [択](../../characters/択.md) : 	擇	choose
+1680. [沢](../../characters/沢.md) : 	澤	swamp
+1681. [卓](../../characters/卓.md) : eminent
+1682. [拓](../../characters/拓.md) : clear (the land)
+1683. [託](../../characters/託.md) : consign
+1684. [濯](../../characters/濯.md) : laundry
+1685. [諾 (char)](../../characters/諾%20(char).md) : consent
+1686. [濁](../../characters/濁.md) : voiced
+1687. [但 (char)](../../characters/但%20(char).md) : however
+1688. [脱 (char)](../../characters/脱%20(char).md) : undress
+1689. [奪](../../characters/奪.md) : rob
+1690. [棚 (char)](../../characters/棚%20(char).md) : shelf
 1691. [[誰 (char)]] : who (question word)
-1692. [[丹]] : cinnabar
-1693. [[旦]] : daybreak
-1694. [[胆]] : 	[[胆|膽]]	gall bladder
-1695. [[淡]] : thin
-1696. [[嘆]] : 	[[嘆]]	sigh
-1697. [[端]] : edge
-1698. [[綻]] : rip
-1699. [[鍛]] : forge
-1700. [[弾]] : 	[[弾|彈]]	bullet
-1701. [[壇]] : podium
-1702. [[恥]] : shame
-1703. [[致]] : (to) do
-1704. [[遅]] : 	[[遅|遲]]	slow
-1705. [[痴]] : 	[[痴|癡]]	stupid 
-1706. [[稚]] : immature
-1707. [[緻]] : fine (not coarse)
-1708. [[畜]] : livestock
-1709. [[逐]] : pursue
-1710. [[蓄]] : amass
-1711. [[秩]] : regularity
-1712. [[窒]] : plug up
+1692. [丹](../../characters/丹.md) : cinnabar
+1693. [旦](../../characters/旦.md) : daybreak
+1694. [胆](../../characters/胆.md) : 	膽	gall bladder
+1695. [淡](../../characters/淡.md) : thin
+1696. [嘆 (char)](../../characters/嘆%20(char).md) : 	嘆	sigh
+1697. [端](../../characters/端.md) : edge
+1698. [綻](../../characters/綻.md) : rip
+1699. [鍛](../../characters/鍛.md) : forge
+1700. [弾](../../characters/弾.md) : 	彈	bullet
+1701. [壇 (char)](../../characters/壇%20(char).md) : podium
+1702. [恥](../../characters/恥.md) : shame
+1703. [致 (char)](../../characters/致%20(char).md) : (to) do
+1704. [遅 (char)](../../characters/遅%20(char).md) : 	遲	slow
+1705. [痴](../../characters/痴.md) : 	癡	stupid 
+1706. [稚](../../characters/稚.md) : immature
+1707. [緻](../../characters/緻.md) : fine (not coarse)
+1708. [畜](../../characters/畜.md) : livestock
+1709. [逐](../../characters/逐.md) : pursue
+1710. [蓄 (char)](../../characters/蓄%20(char).md) : amass
+1711. [秩](../../characters/秩.md) : regularity
+1712. [窒](../../characters/窒.md) : plug up
 1713. [[嫡]] : legitimate wife
 1714. [[抽]] : pluck
 1715. [[衷]] : inmost
