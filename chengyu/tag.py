@@ -36,19 +36,19 @@ def transform(content):
 
         if tag_match:
             existing = parse_tags(tag_match.group(1))
-            if "word" in existing:
+            if "chengyu" in existing:
                 return content, False
 
-            existing.append("word")
+            existing.append("chengyu")
             new_tags = format_tags(existing)
             new_fm = fm[:tag_match.start()] + new_tags + fm[tag_match.end():]
         else:
-            new_fm = fm.strip() + "\n" + format_tags(["word"])
+            new_fm = fm.strip() + "\n" + format_tags(["chengyu"])
 
         new_content = f"---\n{new_fm.strip()}\n---\n{body}"
         return new_content, True
 
-    new_content = f"---\n{format_tags(['word'])}\n---\n\n{content}"
+    new_content = f"---\n{format_tags(['chengyu'])}\n---\n\n{content}"
     return new_content, True
 
 def show_diff(old, new, path):

@@ -1,3 +1,8 @@
+---
+tags:
+  - chengyu
+---
+
 Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
 
 - [[指記二碑]] - the two tables of the law ✅

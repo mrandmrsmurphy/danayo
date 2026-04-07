@@ -1,3 +1,8 @@
+---
+tags:
+  - chengyu
+---
+
 - <ruby>[合漢再決](chengyu/合漢再決.md)<rt>ㄍㄛㄆㄏㄚㄋㄐㄚ˙ㄎˇㄝㄊ</rt></ruby></ruby> - The Renew Sinosphere Chooses Unity
 - <ruby>[一字一音](chengyu/一字一音.md)<rt>ㄧㄊㄐㄧ·ㄧㄊ·ㄨㄇ</rt></ruby> - one character, one sound
 - <ruby>[覧昭和決](chengyu/覧昭和決.md)<rt>ㄌㄚㄇㄐㄛˇㄏˇㄚㄎˇㄝㄊ</rt></ruby> - Shōwa decides the look

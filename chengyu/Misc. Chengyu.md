@@ -1,5 +1,7 @@
 ---
 date-last-perfect:
+tags:
+  - chengyu
 ---
 
 - <ruby>[一刀両断](chengyu/一刀両断.md)<rt>ㄧㄊㄊㄚˇㄌ˙ㄚㄥㄉˇㄚㄋ</rt></ruby> - cut in two with one stroke
