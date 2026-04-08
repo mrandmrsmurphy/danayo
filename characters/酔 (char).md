@@ -1,11 +1,12 @@
 ---
-mandarin: "zuì"
-cantonese: "zeoi3"
-korean: "취"
+mandarin: zuì
+cantonese: zeoi3
+korean: 취
 korean_native: 취할
 japanese:
   - SUI
-japanese_nanori: ""
+japanese_nanori:
+  - よ-う
 vietnamese:
   - túy, xúy
 middle_chinese_initial: t͡s
@@ -16,11 +17,11 @@ skip_number: 1-7-4
 grade_level: "5"
 pos: 事詞
 english:
-  - drink
+  - drunk
 羅馬字: jui
 韓文: 쥐
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5283
 mc_id: 1600
