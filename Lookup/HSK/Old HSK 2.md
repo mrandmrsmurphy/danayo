@@ -134,30 +134,29 @@
 [處](../../characters/処%20(char).md): 7
 [建](../../characters/建.md): 7
 [名 (char)](../../characters/名%20(char).md): 7
-[[求]]: 7
-[[數]]: 7
-[[数]]: 7
+[求](../../characters/求.md): 7
+[數](../../characters/数.md): 7
 [所 (char)](../../characters/所%20(char).md): 7
 [相](../../characters/相.md): 7
 [油 (char)](../../characters/油%20(char).md): 7
 [论](../../characters/論.md): 7
 [原](../../characters/原.md): 7
 [口 (char)](../../characters/口%20(char).md): 7
-[[外]]: 7
-[[任]]: 7
+[外](../../characters/外.md): 7
+[任](../../characters/任.md): 7
 [做](../../characters/作%20(char).md): 7
-[[球]]: 7
-[[放]]: 7
-[[改]]: 7
-[[具]]: 7
-[[交]]: 7
-[[展]]: 7
-[[制]]: 7
-[[文]]: 7
-[[目]]: 7
-[[消]]: 7
-[[日]]: 7
-[[指]]: 7
+[球 (char)](../../characters/球%20(char).md): 7
+[放](../../characters/放.md): 7
+[改 (char)](../../characters/改%20(char).md): 7
+[具](../../characters/具.md): 7
+[交 (char)](../../characters/交%20(char).md): 7
+[展](../../characters/展.md): 7
+[制](../../characters/制.md): 7
+[文](../../characters/文.md): 7
+[目 (char)](../../characters/目%20(char).md): 7
+[消 (char)](../../characters/消%20(char).md): 7
+[日 (char)](../../characters/日%20(char).md): 7
+[指](../../characters/指.md): 7
 
 ## 6
 [此 (char)](../../characters/此%20(char).md): 6
@@ -778,50 +777,49 @@
 [[担]]: 2
 [[擔]]: 2
 [[糕]]: 2
-[[低]]: 2
-[[扇]]: 2
-[[视]]: 2
-[[視]]: 2
-[[查]]: 2
+[低](../../characters/低.md): 2
+[扇](../../characters/扇.md): 2
+[視 (char)](../../characters/視%20(char).md): 2
+[查](../../characters/査.md): 2
 [豆 (char)](../../characters/豆%20(char).md): 2
-[[伍]]: 2
-[[童]]: 2
+[伍 (char)](../../characters/伍%20(char).md): 2
+[童](../../characters/童.md): 2
 [[抖]]: 2
-[[言]]: 2
-[[繁]]: 2
-[[荣]]: 2
-[[榮]]: 2
-[[仿]]: 2
-[[配]]: 2
-[[纷]]: 2
-[[紛]]: 2
-[[粉]]: 2
-[[奋]]: 2
-[[奮]]: 2
-[[怒]]: 2
-[[俗]]: 2
-[[革]]: 2
-[[概]]: 2
-[[杯]]: 2
-[[脆]]: 2
-[[燥]]: 2
-[[刚]]: 2
-[[剛]]: 2
-[[据]]: 2
-[[據]]: 2
-[[师]]: 2
-[[師]]: 2
-[[固]]: 2
+[言 (char)](../../characters/言%20(char).md): 2
+[繁](../../characters/繁.md): 2
+[荣](../../characters/栄.md)
+[榮](../../characters/栄.md): 2
+[仿](../../characters/倣.md)
+[配 (char)](../../characters/配%20(char).md): 2
+[纷](../../characters/紛%20(char).md): 2
+[紛 (char)](../../characters/紛%20(char).md): 2
+[粉 (char)](../../characters/粉%20(char).md): 2
+[奋](../../characters/奮.md): 2
+[奮](../../characters/奮.md): 2
+[怒 (char)](../../characters/怒%20(char).md): 2
+[俗 (char)](../../characters/俗%20(char).md): 2
+[革](../../characters/革.md): 2
+[概 (char)](../../characters/概%20(char).md): 2
+[杯 (char)](../../characters/杯%20(char).md): 2
+[脆](../../characters/脆.md): 2
+[燥](../../characters/燥.md): 2
+[刚](../../characters/剛.md): 2
+[剛](../../characters/剛.md): 2
+[据](../../characters/拠.md): 2
+[據](../../characters/拠.md): 2
+[师](../../characters/師.md): 2
+[師](../../characters/師.md): 2
+[固](../../characters/固.md): 2
 [[估]]: 2
-[[姑]]: 2
-[[骨]]: 2
-[[众]]: 2
-[[眾]]: 2
-[[冠]]: 2
-[[罐]]: 2
-[[泛]]: 2
-[[王]]: 2
-[[久]]: 2
+[姑](../../characters/姑.md): 2
+[骨 (char)](../../characters/骨%20(char).md): 2
+[众](../../characters/衆.md): 2
+[眾](../../characters/衆.md): 2
+[冠](../../characters/冠.md): 2
+[罐](../../characters/缶.md): 2
+[泛](../../characters/泛.md): 2
+[王 (char)](../../characters/王%20(char).md): 2
+[久 (char)](../../characters/久%20(char).md): 2
 [容 (char)](../../characters/容%20(char).md): 2
 [玩](../../characters/玩.md): 2
 [些](../../characters/些.md): 2
@@ -829,48 +827,45 @@
 [茶 (char)](../../characters/茶%20(char).md): 2
 [悔](../../characters/悔.md): 2
 [糊](../../characters/糊.md): 2
-[[坏]]: 2
+[坏](../../characters/壊.md)
 [壞](../../characters/壊.md): 2
 [歡](../../characters/歓.md): 2
 [境](../../characters/境.md): 2
 [黄 (char)](../../characters/黄%20(char).md): 2
-[[黃]]: 2
-[[恢]]: 2
-[[忆]]: 2
-[[憶]]: 2
-[[获]]: 2
-[[床]]: 2
-[[械]]: 2
-[[累]]: 2
-[[季]]: 2
-[[也]]: 2
-[[艰]]: 2
-[[艱]]: 2
-[[轻]]: 2
-[[輕]]: 2
-[[流]]: 2
-[[郊]]: 2
-[[傲]]: 2
-[[训]]: 2
-[[訓]]: 2
-[[阶]]: 2
-[[階]]: 2
-[[属]]: 2
-[[屬]]: 2
-[[攻]]: 2
-[[京]]: 2
-[[剧]]: 2
-[[劇]]: 2
+[黃](../../characters/黄%20(char).md): 2
+[恢](../../characters/恢.md): 2
+[忆](../../characters/憶.md): 2
+[憶](../../characters/憶.md): 2
+[获](../../characters/穫.md): 2
+[床 (char)](../../characters/床%20(char).md): 2
+[械](../../characters/械.md): 2
+[累](../../characters/累.md): 2
+[季](../../characters/季.md): 2
+[也 (char)](../../characters/也%20(char).md): 2
+[艰](../../characters/艱.md): 2
+[艱](../../characters/艱.md): 2
+[轻](../../characters/軽%20(char).md): 2
+[流](../../characters/流.md): 2
+[郊](../../characters/郊.md): 2
+[傲](../../characters/傲.md): 2
+[训](../../characters/訓%20(char).md): 2
+[阶](../../characters/階.md): 2
+[階](../../characters/階.md): 2
+[屬](../../characters/属.md): 2
+[攻 (char)](../../characters/攻%20(char).md): 2
+[京](../../characters/京.md): 2
+[剧](../../characters/劇%20(char).md): 2
+[劇 (char)](../../characters/劇%20(char).md): 2
 [镜](characters/鏡%20(char).md): 2
-[[鏡]]: 2
-[[究]]: 2
-[[局]]: 2
-[[举]]: 2
-[[舉]]: 2
-[[拒]]: 2
+[鏡 (char)](../../characters/鏡%20(char).md): 2
+[究](../../characters/究.md): 2
+[局 (char)](../../characters/局%20(char).md): 2
+[举](../../characters/挙%20(char).md)
+[舉](../../characters/挙%20(char).md): 2
+[拒](../../characters/拒.md): 2
 [绝](characters/絶%20(char).md): 2
-[[絕]]: 2
-[[俱]]: 2
+[絕](../../characters/絶%20(char).md): 2
+[俱](../../characters/倶%20(char).md): 2
 [说](characters/説.md): 2
 [說](characters/説.md): 2
 [距](characters/距.md): 2

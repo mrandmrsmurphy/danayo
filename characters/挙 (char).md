@@ -1,7 +1,7 @@
 ---
-mandarin: "jǔ"
-cantonese: "geoi2"
-korean: "거"
+mandarin: jǔ
+cantonese: geoi2
+korean: 거
 korean_native: 들
 japanese:
   - KYO
@@ -29,6 +29,7 @@ stand_in: 挙
 aliases:
   - 舉
   - 擧
+  - 举
 注音: ㄍ˙ㄛ
 tags:
   - character
