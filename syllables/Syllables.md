@@ -188,7 +188,7 @@ views:
       - english
     sort:
       - property: size
-        direction: DESC
+        direction: ASC
       - property: 韓文
         direction: ASC
       - property: 注音
