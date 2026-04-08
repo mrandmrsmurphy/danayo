@@ -1,26 +1,28 @@
 ---
-mandarin: "lán"
-cantonese: "laam4"
-korean: "람"
-korean_native: ""
+mandarin: lán
+cantonese: laam4
+korean: 람
+korean_native: 쪽빛
 japanese:
   - RAN
-japanese_nanori: ""
+japanese_nanori:
+  - あい
 vietnamese:
+  - lam
 middle_chinese_initial: l
 middle_chinese_final: ɑm
 stroke_count: 18
 radical: 艸
 skip_number: 2-3-15
 grade_level: "4"
-pos: ""
+pos: 固有名詞
 english:
   - indigo plant
 羅馬字: lam
 韓文: 람
 joyo_level: 高等
-hsk_level: ""
-hanmun_edu_level: ""
+hsk_level: "1"
+hanmun_edu_level: 高等
 danayo_id: 4239
 mc_id: 2348
 graphemic_classification: 監
@@ -33,9 +35,8 @@ tags:
 ---
 >[!tip] This is a page about the character 藍.
 >For the word, see [藍](words/藍.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Added to the Korean HS list in 2000
