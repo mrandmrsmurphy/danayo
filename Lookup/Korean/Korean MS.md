@@ -1086,7 +1086,7 @@
 [協](../../characters/協.md) (화할 협)
 
 #### 형
-[[兄 (char)]] (맏 형) [刑](../../characters/刑.md) (형벌 형) [形](../../characters/形.md) (모양 형)
+[[兄 (char)]] (맏 형) [刑](../../characters/刑.md) (형벌 형) [形 (char)](../../characters/形%20(char).md) (모양 형)
 
 #### 혜
 [[恵|惠]] (은혜 혜)

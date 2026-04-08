@@ -99,7 +99,7 @@
 [客](../../characters/客.md): 9
 [其 (char)](../../characters/其%20(char).md): 9
 [家](../../characters/家.md): 9
-[形](../../characters/形.md): 9
+[形 (char)](../../characters/形%20(char).md): 9
 [失](../../characters/失.md): 9
 [西](../../characters/西.md): 9
 [代](../../characters/代.md): 8
