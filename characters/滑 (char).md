@@ -6,8 +6,10 @@ korean_native: 미끄러울
 japanese:
   - KATSU
   - KOTSU
-japanese_nanori: ""
+japanese_nanori:
+  - すべ-る
 vietnamese:
+  - hoạt
 middle_chinese_initial: h
 middle_chinese_final: ɣuɛt
 stroke_count: 13
@@ -39,3 +41,5 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*ɡruːd, \*kuːd, \*ɡuːd): semantic [水](Radical%20085) (“water”) + phonetic [骨 (char)](骨%20(char).md) (OC \*kuːd).
+- [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 

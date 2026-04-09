@@ -1,14 +1,14 @@
 ---
-mandarin: "xiàn"
-cantonese: "haam6"
-korean: "함"
+mandarin: xiàn
+cantonese: haam6
+korean: 함
 korean_native: 빠질
 japanese:
   - KAN
   - KEN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɦ
+middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛm
 stroke_count: 10
 radical: 阜

@@ -1,7 +1,7 @@
 ---
-mandarin: "hū"
-cantonese: "fu4"
-korean: "호"
+mandarin: hū
+cantonese: fu4
+korean: 호
 korean_native: ""
 japanese:
   - KO
@@ -9,7 +9,7 @@ japanese_nanori: ""
 vietnamese:
   - hồ
   - hô
-middle_chinese_initial: ɦ
+middle_chinese_initial: ɣ
 middle_chinese_final: uo
 stroke_count: 8
 radical: 丿

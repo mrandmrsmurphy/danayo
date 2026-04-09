@@ -10,7 +10,7 @@ japanese_nanori:
   - した
 vietnamese:
   - xuống
-middle_chinese_initial: ɦ
+middle_chinese_initial: ɣ
 middle_chinese_final: ɣa
 stroke_count: 3
 radical: 一

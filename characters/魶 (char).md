@@ -9,7 +9,7 @@ japanese_nanori: ø
 vietnamese:
   - ø
 middle_chinese_initial: n
-middle_chinese_final: ap
+middle_chinese_final: ɑp
 stroke_count: 15
 radical: 魚
 skip_number: 1-11-4

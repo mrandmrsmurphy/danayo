@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
   - hà
   - gã
-middle_chinese_initial: ɦ
+middle_chinese_initial: ɣ
 middle_chinese_final: ɑ
 stroke_count: 7
 radical: 人
@@ -30,7 +30,7 @@ graphemic_classification: 可
 stand_in: 何
 aliases:
 tags:
-  - - correlative
+  - correlative
   - character
 注音: ㄏㄚ
 kwin: true
