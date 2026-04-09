@@ -1,8 +1,7 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 
 ## 2+ Words
-- [[前提]] in grammar/文法 - 01序文
-- 専門 in grammar/文法 - 01序文
+- [[専門]] in grammar/文法 - 01序文
 - 相関詞 in grammar/文法 - 01序文
 - 上代 in grammar/文法 - 01序文
 - 原理 in grammar/文法 - 01序文
