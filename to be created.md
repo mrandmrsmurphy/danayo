@@ -1016,7 +1016,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - 笥 in lookup/Japanese/Hyōgai
 - 祟 in lookup/Japanese/Hyōgai, lookup/SKIP/SKIP-2/SKIP-2-5-5
 - 隧 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅅ
-- 鮨 in lookup/Japanese/Hyōgai
 - 栖 in lookup/Japanese/Hyōgai
 - 蜻 in lookup/Japanese/Hyōgai
 - 臍 in lookup/Japanese/Hyōgai, lookup/Korean/Korean Name ㅈ
