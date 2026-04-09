@@ -1,7 +1,7 @@
 ---
-mandarin: "huì"
-cantonese: "wui6"
-korean: "회"
+mandarin: huì
+cantonese: wui6
+korean: 회
 korean_native: ""
 japanese:
   - KAI
@@ -10,7 +10,7 @@ japanese_nanori: ""
 vietnamese:
   - hội
   - hụi
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: uɑi
 stroke_count: 6
 radical: 人

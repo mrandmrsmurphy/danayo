@@ -1,7 +1,7 @@
 ---
-mandarin: "hū"
-cantonese: "fu1"
-korean: "호"
+mandarin: hū
+cantonese: fu1
+korean: 호
 korean_native: 부를
 japanese:
   - KO
@@ -9,7 +9,7 @@ japanese_nanori:
   - よ-ぶ
 vietnamese:
   - hô, há, hao, hào
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: uo
 stroke_count: 8
 radical: 口

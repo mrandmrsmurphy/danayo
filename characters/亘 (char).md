@@ -1,7 +1,7 @@
 ---
-mandarin: "gèn"
-cantonese: "gang2"
-korean: "긍"
+mandarin: gèn
+cantonese: gang2
+korean: 긍
 korean_native: ""
 japanese:
   - SEN
@@ -9,7 +9,7 @@ japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: ʉɐn
 stroke_count: 6
 radical: 二

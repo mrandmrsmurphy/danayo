@@ -8,7 +8,7 @@ japanese:
 japanese_nanori:
   - すくもむし
 vietnamese: hiết, hạt, yết
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: ɨɐt
 stroke_count: 15
 radical: 虫

@@ -1,7 +1,7 @@
 ---
-mandarin: "huǒ"
-cantonese: "fo2"
-korean: "화"
+mandarin: huǒ
+cantonese: fo2
+korean: 화
 korean_native: ""
 japanese:
   - KA
@@ -9,7 +9,7 @@ japanese:
 japanese_nanori: ""
 vietnamese:
   - hoả
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: uɑ
 stroke_count: 4
 radical: 火

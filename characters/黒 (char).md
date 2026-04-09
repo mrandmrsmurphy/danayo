@@ -9,7 +9,7 @@ japanese_nanori:
   - くろい
 vietnamese:
   - hắc
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: ək
 stroke_count: 11
 radical: 黒

@@ -1,19 +1,19 @@
 ---
-mandarin: "hǒu"
-cantonese: "hau3"
-korean: "후"
+mandarin: hǒu
+cantonese: hau3
+korean: 후
 korean_native: ""
 japanese:
   - KOU
   - KU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: əu
 stroke_count: 7
 radical: 口
 skip_number: 1-3-4
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - roar

@@ -8,7 +8,7 @@ japanese:
   - AI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: ɑt
 stroke_count: 11
 radical: 口

@@ -1,14 +1,14 @@
 ---
-mandarin: "hǔ"
-cantonese: "fu2"
-korean: "호"
+mandarin: hǔ
+cantonese: fu2
+korean: 호
 korean_native: ""
 japanese:
   - KO
 japanese_nanori: ""
 vietnamese:
   - hổ
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: uo
 stroke_count: 8
 radical: 虍

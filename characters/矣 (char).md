@@ -1,18 +1,18 @@
 ---
-mandarin: "yǐ"
-cantonese: "ji5"
-korean: "의"
+mandarin: yǐ
+cantonese: ji5
+korean: 의
 korean_native: ""
 japanese:
   - I
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: ɣɛi
 stroke_count: 7
 radical: 矢
 skip_number: 2-2-5
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - hey

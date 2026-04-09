@@ -1,14 +1,14 @@
 ---
-mandarin: "hòu"
-cantonese: "hau6"
-korean: "후"
+mandarin: hòu
+cantonese: hau6
+korean: 후
 korean_native: ""
 japanese:
   - GO
   - KOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: əu
 stroke_count: 6
 radical: 彳

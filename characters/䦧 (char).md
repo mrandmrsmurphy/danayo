@@ -6,7 +6,7 @@ korean_native: 다툴
 japanese: けき
 japanese_nanori: せめぐ
 vietnamese: huých, huỵch
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: ek
 stroke_count: 16
 radical: 門

@@ -9,7 +9,7 @@ japanese_nanori:
   - いむ
 vietnamese:
   - huý
-middle_chinese_initial: h
+middle_chinese_initial: x
 middle_chinese_final: ʉi
 stroke_count: 16
 radical: 言
