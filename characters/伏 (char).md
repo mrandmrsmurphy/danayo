@@ -2,20 +2,22 @@
 mandarin: fú
 cantonese: fuk6
 korean: 복
-korean_native: ""
+korean_native: 안을
 japanese:
   - FUKU
   - FUU
   - BUKU
-japanese_nanori: ""
+japanese_nanori:
+  - ふ-せる,ふ-す
 vietnamese:
+  - phục
 middle_chinese_initial: v
 middle_chinese_final: ɨuk
 stroke_count: 6
 radical: 人
 skip_number: 1-2-4
 grade_level: "4"
-pos: ""
+pos: 性詞
 english:
   - crouch
   - prostrate
@@ -41,5 +43,5 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+[[潜伏]] - hide, conceal

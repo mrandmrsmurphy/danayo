@@ -6,6 +6,7 @@ radical: 寸
 
 寸 (char) 寺 対 寿 封 専 尃 射 将 (char) 尉 (char) 尊 尋 (char) 導
 
+寽 red
 ## Base check
 ```base
 views:
