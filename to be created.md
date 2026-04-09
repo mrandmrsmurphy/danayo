@@ -716,8 +716,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 
 
 ## 1-words
-- [[words/鴨]] in lexipedia/Animals
-- [[兎]] in lexipedia/Animals, syllables/ㄊㄛ
 - [[両]] in lexipedia/Numbers
 - [[而]] in words/与
 - 菲 in lexipedia/Geography, lookup/Korean/Korean Name ㅂ

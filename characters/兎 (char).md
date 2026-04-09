@@ -1,7 +1,7 @@
 ---
-mandarin: "tù"
-cantonese: "tou3"
-korean: "토"
+mandarin: tù
+cantonese: tou3
+korean: 토
 korean_native: ""
 japanese:
   - TO
@@ -31,6 +31,7 @@ aliases:
 注音: ㄊㄛ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 兎.
 >For the word, see [兎](words/兎.md)

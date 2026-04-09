@@ -18,7 +18,7 @@ language: English
 - [[怪物]] : monster, mysterious figure
 - [[妖物]] : monster, bewitching figure
 - <ruby>[[熊鼠]]<rt>ㄨㄥㄙ˙ㄛ</rt></ruby> : rat
-- <ruby>[[兎]]<rt>토</rt></ruby> : rabbit
+- <ruby>[[../words/兎]]<rt>토</rt></ruby> : rabbit
 - [[words/蛇]] : snake
 - [[蜘蛛]] : spider
 - dragon = <ruby>[[龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby>; fairy/elf = [[妖精]]; den = [[巣窟]]; burrow/tunnel; hole = [[巣穴]]; beehive = [[蜂巣]]; (bird's) 
