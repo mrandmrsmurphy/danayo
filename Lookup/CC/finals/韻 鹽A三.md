@@ -20,6 +20,7 @@ views:
       - middle_chinese_initial
       - middle_chinese_final
       - 韓文
+      - 羅馬字
     sort:
       - property: 羅馬字
         direction: ASC
