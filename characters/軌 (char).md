@@ -35,9 +35,8 @@ tags:
 ---
 >[!tip] This is a page about the character 軌.
 >For the word, see [軌](words/軌.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Added to the Korean HS list in 2000.

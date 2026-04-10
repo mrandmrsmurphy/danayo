@@ -37,6 +37,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- Added to the Korean HS list in 2000.
 
 ## Words
 - <ruby>[間隔](/words/間隔.md)<rt>ㄍㄚㄋㄍㄚㄎ</rt></ruby>

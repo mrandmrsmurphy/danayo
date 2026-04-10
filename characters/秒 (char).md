@@ -1,7 +1,7 @@
 ---
-mandarin: "miǎo"
-cantonese: "miu5"
-korean: "초"
+mandarin: miǎo
+cantonese: miu5
+korean: 초
 korean_native: ""
 japanese:
   - BYOU
@@ -13,7 +13,7 @@ stroke_count: 9
 radical: 禾
 skip_number: 1-5-4
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - second (time)
 羅馬字: myou
@@ -32,9 +32,8 @@ tags:
 ---
 >[!tip] This is a page about the character 秒.
 >For the word, see [秒](words/秒.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Added to the Korean HS list in 2000.

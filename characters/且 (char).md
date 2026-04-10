@@ -38,9 +38,10 @@ tags:
 ---
 >[!tip] This is a page about the character 且.
 >For the word, see [且](words/且.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+### Derived Characters
+- [[祖]]

@@ -36,9 +36,8 @@ tags:
 ---
 >[!tip] This is a page about the character 糾.
 >For the word, see [糾](words/糾.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Added to the Korean HS list in 2000.

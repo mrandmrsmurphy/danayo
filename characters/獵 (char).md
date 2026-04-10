@@ -32,9 +32,8 @@ tags:
 ---
 >[!tip] This is a page about the character 獵.
 >For the word, see [[獵]]
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Added to the Korean HS list in 2000.
