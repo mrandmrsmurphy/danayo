@@ -1,4 +1,8 @@
 ## Singletons
+- [[words/鶴]] in [[characters/鶴 (char)]]
+- [[words/鹸]] in [[characters/鹸 (char)]]
+- [[words/麺]] in [[characters/麺 (char)]]
+- [[両]] in [[lexipedia/Numbers]]
 - [[words/霜]] in [[characters/霜 (char)]]
 - [[words/霧]] in [[characters/霧 (char)]]
 - [[words/露]] in [[characters/露 (char)]]
@@ -51,24 +55,6 @@
 - [[壕]] in [[characters/豪]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
 - [[words/走]] in [[characters/走 (char)]]
 - [[words/足]] in [[characters/足 (char)]]
-
-## Syllables
-- [[夭折]] in [[characters/夭]], [[syllables/˙ㄛˇ]]
-- [[妊娠]] in [[characters/娠]], [[syllables/ㄐㄧㄋ]]
-- [[蓬莱]] in [[characters/蓬]], [[syllables/ㄌㄚ˙]]
-- [[逼迫]] in [[characters/逼]], [[syllables/ㄅㄧㄎ]]
-- [[錀琴]] in [[characters/錀 (char)]], [[lexipedia/Periodic Table]]
-- [[閏月]] in [[characters/閏 (char)]], [[lexipedia/Calendar]]
-- [[閏日]] in [[characters/閏 (char)]]
-- [[閏秒]] in [[characters/閏 (char)]]
-- [[置閏]] in [[characters/閏 (char)]]
-- [[閃電]] in [[characters/電]]
-- [[雷電]] in [[characters/電]]
-- [[鶏肉]] in [[characters/鶏 (char)]]
-- [[鸚哥]] in [[characters/鸚]]
-- [[words/鶴]] in [[characters/鶴 (char)]]
-- [[words/鹸]] in [[characters/鹸 (char)]]
-- [[words/麺]] in [[characters/麺 (char)]]
 
 ## Chengyu Parts
 - [[形助顯理]] in [[chengyu/Dan'a'yo Chengyu]], [[grammar/文法 - 05形態]]
@@ -129,13 +115,8 @@
 - [[lexipedia/Trade]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Valuation]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/War]] in [[lexipedia/Lexipedia]]
-- [[両]] in [[lexipedia/Numbers]]
-- [[単独]] in [[lexipedia/Numbers]]
-- [[二回]] in [[lexipedia/Numbers]]
-- [[二度]] in [[lexipedia/Numbers]]
-- [[双子]] in [[lexipedia/Numbers]]
-- [[横数]] in [[lexipedia/Numbers]]
-- [[無限]] in [[lexipedia/Numbers]]
+
+## Periodic Table
 - [[砒素]] in [[lexipedia/Periodic Table]]
 - [[月素]] in [[lexipedia/Periodic Table]]
 - [[臭素]] in [[lexipedia/Periodic Table]]
@@ -153,38 +134,10 @@
 - [[湾曲]] in [[lexipedia/Sophomore List]]
 - [[海峽]] in [[lexipedia/Sophomore List]]
 - [[堰堤,]] in [[lexipedia/Sophomore List]]
-- [[奈良]] in [[lexipedia/歴史綱要]]
-- [[三国]] in [[lexipedia/歴史綱要]]
-- [[高句麗]] in [[lexipedia/歴史綱要]]
-- [[新羅]] in [[lexipedia/歴史綱要]]
-- [[統一新羅]] in [[lexipedia/歴史綱要]]
-- [[高麗]] in [[lexipedia/歴史綱要]]
-- [[鎌倉]] in [[lexipedia/歴史綱要]]
-- [[室町]] in [[lexipedia/歴史綱要]]
-- [[安土桃山]] in [[lexipedia/歴史綱要]]
-- [[江戸]] in [[lexipedia/歴史綱要]]
-- [[徳川]] in [[lexipedia/歴史綱要]]
-- [[李氏]] in [[lexipedia/歴史綱要]]
-- [[大韓帝国]] in [[lexipedia/歴史綱要]]
-- [[国民党]] in [[lexipedia/歴史綱要]]
-- [[共産党]] in [[lexipedia/歴史綱要]], [[words/越共]]
-- [[民国]] in [[lexipedia/歴史綱要]]
-- [[大韓民国]] in [[lexipedia/歴史綱要]]
-- [[小学]] in [[lexipedia/歴史綱要]]
-- [[諸子百家]] in [[lexipedia/歴史綱要]]
-- [[上知]] in [[lexipedia/歴史綱要]]
-- [[下愚]] in [[lexipedia/歴史綱要]]
-- [[法家]] in [[lexipedia/歴史綱要]]
-- [[書院]] in [[lexipedia/歴史綱要]]
-- [[孝廉]] in [[lexipedia/歴史綱要]]
-- [[太学]] in [[lexipedia/歴史綱要]]
-- [[僕射]] in [[lexipedia/歴史綱要]]
-- [[射策]] in [[lexipedia/歴史綱要]]
-- [[律学]] in [[lexipedia/歴史綱要]]
-- [[蕤]] in [[lookup/CC/CC 2000]]
-- [[古文]] in [[lookup/CC/Classical Chinese]]
-- [[文言]] in [[lookup/CC/Classical Chinese]]
+
 - [[紇]] in [[lookup/CC/finals/韻 麧]], [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-10-11]]
+
+## HSK
 - [[呢]] in [[lookup/HSK/HSK Beginner]]
 - [[收]] in [[lookup/HSK/Old HSK 2]]
 - [[书]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
@@ -718,6 +671,8 @@
 - [[况]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[态]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[综]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 5]]
+
+### 3
 - [[长]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[无]] in [[lookup/HSK/Old HSK 3]]
 - [[发]] in [[lookup/HSK/Old HSK 3]]
@@ -1263,6 +1218,8 @@
 - [[樁]] in [[lookup/HSK/Old HSK 3]]
 - [[饰]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[幢]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㄷ]]
+
+### 4
 - [[儿]] in [[lookup/HSK/Old HSK 4]]
 - [[兒]] in [[lookup/HSK/Old HSK 4]]
 - [[义]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
@@ -1781,6 +1738,8 @@
 - [[醞]] in [[lookup/HSK/Old HSK 4]]
 - [[蕴]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[蘊]] in [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
+
+### Other
 - [[卫]] in [[lookup/HSK/Old HSK 5]]
 - [[仿]] in [[lookup/HSK/Old HSK 5]]
 - [[痒]] in [[lookup/HSK/Old HSK 5]]
@@ -1854,6 +1813,8 @@
 - [[剔]] in [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅊ]]
 - [[挠]] in [[lookup/HSK/Old HSK 6]]
 - [[腻]] in [[lookup/HSK/Old HSK 6]]
+
+## Hyō
 - [[吠]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅍ]]
 - [[辿]] in [[lookup/Japanese/Hyōgai]]
 - [[唸]] in [[lookup/Japanese/Hyōgai]]
@@ -2034,6 +1995,8 @@
 - [[沪]] in [[lookup/Japanese/Hyōgai]]
 - [[麹]] in [[lookup/Japanese/Hyōgai]]
 - [[桝]] in [[lookup/Japanese/Hyōgai]]
+
+### Jin
 - [[掴]] in [[lookup/Japanese/Jinmeiyō]]
 - [[栞]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
 - [[茜]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
@@ -2104,6 +2067,7 @@
 - [[讖]] in [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-17]]
 - [[嫦]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-11]]
 - [[誨]] in [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-7-7]]
+
 - [[𪗱]] in [[lookup/Radicals/Radical 211]]
 - [[篪]] in [[lookup/Radicals/Radical 214]]
 - [[伜]] in [[lookup/SKIP/SKIP-1/SKIP-1-2-4]]
@@ -2150,6 +2114,22 @@
 - [[魑]] in [[lookup/SKIP/SKIP-3/SKIP-3-10-11]]
 - [[匳]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 - [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
+
+## Syllables
+- [[夭折]] in [[characters/夭]], [[syllables/˙ㄛˇ]]
+- [[妊娠]] in [[characters/娠]], [[syllables/ㄐㄧㄋ]]
+- [[蓬莱]] in [[characters/蓬]], [[syllables/ㄌㄚ˙]]
+- [[逼迫]] in [[characters/逼]], [[syllables/ㄅㄧㄎ]]
+- [[錀琴]] in [[characters/錀 (char)]], [[lexipedia/Periodic Table]]
+- [[閏月]] in [[characters/閏 (char)]], [[lexipedia/Calendar]]
+- [[閏日]] in [[characters/閏 (char)]]
+- [[閏秒]] in [[characters/閏 (char)]]
+- [[置閏]] in [[characters/閏 (char)]]
+- [[閃電]] in [[characters/電]]
+- [[雷電]] in [[characters/電]]
+- [[鶏肉]] in [[characters/鶏 (char)]]
+- [[鸚哥]] in [[characters/鸚]]
+
 - [[筆画数]] in [[lookup/Stroke/Stroke]]
 - [[唇音]] in [[syllables/Syllables]]
 - [[歯茎]] in [[syllables/Syllables]]
