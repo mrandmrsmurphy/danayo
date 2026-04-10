@@ -21,7 +21,7 @@ english:
 韓文: 토
 joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 5347
 mc_id: 9935
 graphemic_classification: 象形
@@ -35,9 +35,8 @@ kwin: true
 ---
 >[!tip] This is a page about the character 兎.
 >For the word, see [兎](words/兎.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Dropped from the Korean HS list in 2000.

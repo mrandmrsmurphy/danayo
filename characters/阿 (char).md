@@ -33,9 +33,8 @@ tags:
 ---
 >[!tip] This is a page about the character 阿.
 >For the word, see [阿](words/阿.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Dropped from the Korean HS list in 2000.

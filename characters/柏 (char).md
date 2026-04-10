@@ -1,7 +1,7 @@
 ---
-mandarin: "bǎi bó"
-cantonese: "paak3"
-korean: "백"
+mandarin: bǎi bó
+cantonese: paak3
+korean: 백
 korean_native: ""
 japanese:
   - HAKU
@@ -21,12 +21,13 @@ english:
 韓文: 뱍
 joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 5324
 mc_id: 1593
 graphemic_classification: 白
 stand_in: 柏
 aliases:
+  - 栢
 注音: ㄅ˙ㄚㄎ
 tags:
   - character
@@ -40,3 +41,4 @@ tags:
 
 # Notes
 - 形声 (OC \*praːɡ): semantic [木](Radical%20075) (“tree”) + phonetic [白 (char)](characters/白%20(char).md) (OC \*braːɡ).
+- 栢 was dropped from the Korean HS list in 2000.

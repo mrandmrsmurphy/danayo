@@ -1,7 +1,7 @@
 ---
-mandarin: "xián"
-cantonese: "jin4"
-korean: "현"
+mandarin: xián
+cantonese: jin4
+korean: 현
 korean_native: ""
 japanese:
   - GEN
@@ -23,7 +23,7 @@ english:
 韓文: 헌
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6444
 mc_id: 1291
 graphemic_classification: 玄
@@ -36,9 +36,8 @@ tags:
 ---
 >[!tip] This is a page about the character 弦.
 >For the word, see [弦](words/弦.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Dropped from the Korean HS list in 2000.

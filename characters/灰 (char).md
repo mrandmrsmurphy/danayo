@@ -1,7 +1,7 @@
 ---
-mandarin: "huī"
-cantonese: "fui1"
-korean: "회"
+mandarin: huī
+cantonese: fui1
+korean: 회
 korean_native: ""
 japanese:
   - KAI
@@ -20,7 +20,7 @@ english:
 韓文: 회
 joyo_level: "6"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 4171
 mc_id: 2408
 graphemic_classification: 又
@@ -32,9 +32,8 @@ tags:
 ---
 >[!tip] This is a page about the character 灰.
 >For the word, see [灰](words/灰.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Dropped from the Korean HS list in 2000.

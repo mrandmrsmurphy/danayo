@@ -1,7 +1,7 @@
 ---
-mandarin: "shēng"
-cantonese: "sing1"
-korean: "승"
+mandarin: shēng
+cantonese: sing1
+korean: 승
 korean_native: ""
 japanese:
   - SHOU
@@ -21,7 +21,7 @@ english:
 韓文: 숭
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 5186
 mc_id: 415
 graphemic_classification: 象形
@@ -33,9 +33,8 @@ tags:
 ---
 >[!tip] This is a page about the character 升.
 >For the word, see [升](words/升.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Dropped from the Korean HS list in 2000.

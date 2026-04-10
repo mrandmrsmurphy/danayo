@@ -1,7 +1,7 @@
 ---
-mandarin: "dùn"
-cantonese: "teon5"
-korean: "순"
+mandarin: dùn
+cantonese: teon5
+korean: 순
 korean_native: ""
 japanese:
   - JUN
@@ -21,7 +21,7 @@ english:
 韓文: 준
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 5313
 mc_id: 1699
 graphemic_classification: 象形
@@ -33,9 +33,8 @@ tags:
 ---
 >[!tip] This is a page about the character 盾.
 >For the word, see [盾](words/盾.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Dropped from the Korean HS list in 2000.
