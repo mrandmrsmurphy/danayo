@@ -503,7 +503,7 @@ The following prefecture names were added in 2017:
 494. [変](characters/変%20(char).md) : hen	ka-waru	change
 495. [夫](characters/夫%20(char).md) : fu fuu bu	otto	husband
 496. [失](characters/失.md) : shitsu	ushina-u	lose
-497. [奈](characters/乃%20(char).md) - but
+497. [[奈]] - apple tree
 498. [好](characters/好%20(char).md) : kō	su-ku ; kono-mu	like
 499. [媛](characters/媛.md) - beauty
 500. [季](characters/季.md) : ki	 –	seasons

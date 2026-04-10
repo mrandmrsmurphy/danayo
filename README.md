@@ -43,14 +43,6 @@ The following are not content pages, but "programming"
 - [numerals](nav/numerals.md)
 - [word_info](nav/word_info.md)
 
----
-
-## Delete
-
-The following files are supposed to all be temporary:
-- [to be created](to%20be%20created.md)
-- [link to me please](link%20to%20me%20please.md)
-
 ----
 
 ## Bases
@@ -60,5 +52,5 @@ The following files are supposed to all be temporary:
 - [All Chengyu Base](chengyu/All%20Chengyu%20Base.base)
 - [Words Base](words/Words%20Base.base)
 
-塗, 隷, 僚, 侮, 冒, 誓, 逝, 攝, 垂, 搜, 押, 躍, 擁, 凝, 宰, 殿, 竊, 奏, 珠, 鑄, 震, 滯, 逮, 遞, 卓, 誕, 嫌, 衡
+隷, 僚, 侮, 冒, 誓, 逝, 攝, 垂, 搜, 押, 躍, 擁, 凝, 宰, 殿, 竊, 奏, 珠, 鑄, 震, 滯, 逮, 遞, 卓, 誕, 嫌, 衡
 

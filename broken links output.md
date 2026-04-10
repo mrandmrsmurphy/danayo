@@ -1,9 +1,6 @@
 ## Singletons
-- [[而]] in [[words/与]]
-- [[words/鶴]] in [[characters/鶴 (char)]]
 - [[words/鹸]] in [[characters/鹸 (char)]]
 - [[words/麺]] in [[characters/麺 (char)]]
-- [[両]] in [[lexipedia/Numbers]]
 - [[words/霜]] in [[characters/霜 (char)]]
 - [[words/霧]] in [[characters/霧 (char)]]
 - [[words/露]] in [[characters/露 (char)]]
@@ -45,7 +42,6 @@
 - [[words/洲]] in [[characters/洲 (char)]]
 - [[廌]] in [[characters/灋]]
 - [[獵]] in [[characters/獵 (char)]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[syllables/ㄌㄛㄆ]]
-- [[words/而]] in [[characters/而 (char)]]
 - [[words/薬]] in [[characters/薬 (char)]]
 - [[words/蚊]] in [[characters/蚊 (char)]]
 - [[words/隼]] in [[characters/隼 (char)]]

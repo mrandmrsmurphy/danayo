@@ -1,7 +1,7 @@
 These have all been checked for redirects.
 
 ### 나  
-[奈](characters/乃%20(char).md) [[柰]] [[娜]] [拏](characters/拿.md) [[儺]] [喇](characters/喇.md) [[懦]] [拿](characters/拿.md) [[𣃽]] [[䏧]] [[挐]] [挪](../../characters/梛.md) [[𡖔]] [梛](characters/梛.md) [[糯]] 
+[[奈]] [[柰]] [[娜]] [拏](characters/拿.md) [[儺]] [喇](characters/喇.md) [[懦]] [拿](characters/拿.md) [[𣃽]] [[䏧]] [[挐]] [挪](../../characters/梛.md) [[𡖔]] [梛](characters/梛.md) [[糯]] 
 
 ### 난  
 [煖](characters/暖%20(char).md)

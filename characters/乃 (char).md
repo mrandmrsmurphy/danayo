@@ -1,7 +1,7 @@
 ---
-mandarin: "nǎi"
-cantonese: "naai5"
-korean: "내"
+mandarin: nǎi
+cantonese: naai5
+korean: 내
 korean_native: 어찌
 japanese:
   - DAI
@@ -20,15 +20,14 @@ english:
   - but
 羅馬字: nai
 韓文: 내
-joyo_level: "4"
+joyo_level:
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: 中
 danayo_id: 5161
 mc_id: 63
 graphemic_classification: 象形
 stand_in: 乃
 aliases:
-  - 奈
 品詞: 連接詞
 注音: ㄋㄚ˙
 tags:
@@ -36,10 +35,7 @@ tags:
 ---
 >[!tip] This is a page about the character 乃.
 >For the word, see [乃](words/乃.md)
-
-
-# Notes
-奈=C#1080
+## Notes
 ```meta-bind-embed
 [[nav/char_info]]
 ```
