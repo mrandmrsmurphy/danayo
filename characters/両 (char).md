@@ -1,7 +1,7 @@
 ---
-mandarin: "liǎng"
-cantonese: "loeng2"
-korean: "량"
+mandarin: liǎng
+cantonese: loeng2
+korean: 량
 korean_native: 두
 japanese:
   - RYOU
@@ -38,6 +38,7 @@ aliases:
 注音: ㄌ˙ㄚㄥ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 両.
 >For the word, see [両](words/両.md)
