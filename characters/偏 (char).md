@@ -34,9 +34,8 @@ tags:
 ---
 >[!tip] This is a page about the character 偏.
 >For the word, see [偏](words/偏.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 偏 was added to the Korean HS list in 2000.

@@ -2,7 +2,8 @@
 > All of these that need to be redirects are done.  It remains to check that all have their hanmun level correctly filled out.
 ## ㄱ
 #### 가
-[架 (char)](characters/架%20(char).md) (시렁 가) , [暇](characters/暇.md) (겨를 가)
+1. [架](characters/架%20(char).md) (시렁 가)
+2. [暇](characters/暇.md) (겨를 가)
 #### 각
 [閣](characters/閣.md) (누각 각) , [却](characters/却%20(char).md) (물리칠 각) , [覺](characters/覚.md) (깨달을 각) , [刻](characters/刻.md) (새길 각)
 #### 간

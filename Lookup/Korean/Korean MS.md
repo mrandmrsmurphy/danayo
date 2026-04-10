@@ -1,11 +1,20 @@
 > Everything that should be a redirect, is.  All have the correct Hanmun education level.  It remains to check these all for the correct native Korean.
 ## ㄱ
 #### 가
-[家](../../characters/家.md) (집 가) [佳](../../characters/佳%20(char).md) (아름다울 가) [街](../../characters/街.md) (거리 가) [可](../../characters/可%20(char).md) (옳을 가) [歌](../../characters/歌.md) (노래 가) [加](../../characters/加.md) (더할 가) [價](../../characters/価.md) (값 가) [假](../../characters/仮.md) (거짓 가)
+1. [家](../../characters/家.md) (집 가)
+2. [佳](../../characters/佳%20(char).md) (아름다울 가)
+3. [街](../../characters/街.md) (거리 가)
+4. [可](../../characters/可%20(char).md) (옳을 가)
+5. [歌](../../characters/歌.md) (노래 가)
+6. [加](../../characters/加.md) (더할 가)
+7. [價](../../characters/価.md) (값 가)
+8. [假](../../characters/仮.md) (거짓 가)
 #### 각
-[各 (char)](../../characters/各%20(char).md) (하나하나 각) [角 (char)](../../characters/角%20(char).md) (뿔 각) [脚](../../characters/脚%20(char).md) (다리 각)
+9. [各](../../characters/各%20(char).md) (하나하나 각)
+10. [角](../../characters/角%20(char).md) (뿔 각)
+11. [脚](../../characters/脚%20(char).md) (다리 각)
 #### 간
-[干](../../characters/干.md) (방패 간) [間](../../characters/間.md) (사이 간) [看](characters/看%20(char).md) (볼 간)
+12. [干](../../characters/干.md) (방패 간) [間](../../characters/間.md) (사이 간) [看](characters/看%20(char).md) (볼 간)
 #### 갈
 [渴](characters/渇%20(char).md) (목마를 갈)
 #### 감

@@ -1,8 +1,8 @@
 ---
-mandarin: "jiǎo"
-cantonese: "gok3"
-korean: "각"
-korean_native: ""
+mandarin: jiǎo
+cantonese: gok3
+korean: 각
+korean_native: 뿔
 japanese:
   - KAKU
   - ROKU

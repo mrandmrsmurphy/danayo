@@ -1,8 +1,8 @@
 ---
-mandarin: "gè"
-cantonese: "gok3"
-korean: "각"
-korean_native: ""
+mandarin: gè
+cantonese: gok3
+korean: 각
+korean_native: 각각
 japanese:
   - KAKU
 japanese_nanori: ""

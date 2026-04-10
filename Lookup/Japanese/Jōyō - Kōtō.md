@@ -606,42 +606,42 @@
 1630. [塑](../../characters/塑.md) : model
 1631. [遡](../../characters/遡.md) :  go upstream
 1632. [礎](../../characters/礎.md) : cornerstone
-1633. [[双]] : 	[[双|雙]]	pair
-1634. [[壮]] : 	[[壮|壯]]	robust
-1635. [[荘]] : 	[[荘|莊]]	villa
-1636. [[捜]] : 	[[捜|搜]]	search
-1637. [[挿]] : 	[[挿|插]]	insert
-1638. [[桑]] : mulberry
-1639. [[掃]] : sweep
-1640. [[曹]] : cadet
-1641. [[曽]] : 	[[曽|曾]]	formerly
-1642. [[爽]] : refreshing
-1643. [[喪]] : miss
-1644. [[痩]] : 	get thin
-1645. [[葬]] : interment
-1646. [[僧]] : 	[[僧]] Buddhist priest
-1647. [[遭]] : encounter
-1648. [[槽]] : vat
-1649. [[踪]] : remains
-1650. [[燥]] : parch
+1633. [双 (char)](../../characters/双%20(char).md) : 	雙	pair
+1634. [壮](../../characters/壮.md) : 	壯	robust
+1635. [荘](../../characters/荘.md) : 	莊	villa
+1636. [捜](../../characters/捜.md) :  搜	search
+1637. [挿](../../characters/挿.md) : 	插	insert
+1638. [桑](../../characters/桑.md) : mulberry
+1639. [掃](../../characters/掃.md) : sweep
+1640. [曹](../../characters/曹.md) : cadet
+1641. [曽 (char)](../../characters/曽%20(char).md) : 	formerly
+1642. [爽](../../characters/爽.md) : refreshing
+1643. [喪](../../characters/喪.md) : miss
+1644. [痩 (char)](../../characters/痩%20(char).md) : 	get thin
+1645. [葬](../../characters/葬.md) : interment
+1646. [僧](../../characters/僧.md) : 	僧 Buddhist priest
+1647. [遭](../../characters/遭.md) : encounter
+1648. [槽](../../characters/槽.md) : vat
+1649. [踪](../../characters/踪.md) : remains
+1650. [燥](../../characters/燥.md) : parch
 1651. [[霜 (char)]] : frost
-1652. [[騒 (char)]] : 	[[騒 (char)|騷]]	boisterous
-1653. [[藻]] : seaweed
-1654. [[憎]] : 	[[憎]] hate
-1655. [[贈]] : 	[[贈]] presents
-1656. [[即 (char)]] : 	[[即 (char)|卽]] instant
-1657. [[促]] : stimulate
-1658. [[捉]] : capture
-1659. [[俗]] : vulgar
-1660. [[賊]] : burglar
-1661. [[遜]] :  humble
-1662. [[汰]] : luxury
-1663. [[妥]] : gentle
-1664. [[唾]] : saliva
-1665. [[堕]] : 	[[堕|墮]]	degenerate
-1666. [[惰]] : lazy
-1667. [[駄]] : burdensome
-1668. [[耐]] : resistant
+1652. [[騒 (char)]] : 	騷	boisterous
+1653. [藻](../../characters/藻.md) : seaweed
+1654. [憎](../../characters/憎.md) : 	憎 hate
+1655. [贈](../../characters/贈.md) : 	贈 presents
+1656. [[即 (char)]] : 	卽 instant
+1657. [促 (char)](../../characters/促%20(char).md) : stimulate
+1658. [捉](../../characters/捉.md) : capture
+1659. [俗 (char)](../../characters/俗%20(char).md) : vulgar
+1660. [賊](../../characters/賊.md) : burglar
+1661. [遜](../../characters/遜.md) :  humble
+1662. [汰](../../characters/汰.md) : luxury
+1663. [妥](../../characters/妥.md) : gentle
+1664. [唾](../../characters/唾.md) : saliva
+1665. [堕](../../characters/堕.md) : 	墮	degenerate
+1666. [惰](../../characters/惰.md) : lazy
+1667. [駄 (char)](../../characters/駄%20(char).md) : burdensome
+1668. [耐 (char)](../../characters/耐%20(char).md) : resistant
 1669. [怠](../../characters/怠.md) : neglect
 1670. [胎](../../characters/胎.md) : womb
 1671. [泰](../../characters/泰.md) : peaceful
@@ -686,32 +686,32 @@
 1710. [蓄 (char)](../../characters/蓄%20(char).md) : amass
 1711. [秩](../../characters/秩.md) : regularity
 1712. [窒](../../characters/窒.md) : plug up
-1713. [[嫡]] : legitimate wife
-1714. [[抽]] : pluck
-1715. [[衷]] : inmost
-1716. [[酎]] : sake
-1717. [[鋳]] : 	[[鋳|鑄]]	casting
-1718. [[駐]] : stop-over
-1719. [[弔]] : condolences
-1720. [[挑]] : challenge
-1721. [[彫]] : carve
-1722. [[眺]] : stare
-1723. [[釣]] : angling
-1724. [[貼]] : paste
-1725. [[超]] : transcend
-1726. [[跳]] : hop
-1727. [[徴]] : 	[[徴|徵]]	indications
-1728. [[嘲]] :  ridicule
-1729. [[澄]] : lucidity
+1713. [嫡 (char)](../../characters/嫡%20(char).md) : legitimate wife
+1714. [抽](../../characters/抽.md) : pluck
+1715. [衷](../../characters/衷.md) : inmost
+1716. [酎](../../characters/酎.md) : sake
+1717. [鋳](../../characters/鋳.md) : 	鑄	casting
+1718. [駐](../../characters/駐.md) : stop-over
+1719. [弔 (char)](../../characters/弔%20(char).md) : condolences
+1720. [挑](../../characters/挑.md) : challenge
+1721. [彫](../../characters/彫.md) : carve
+1722. [眺](../../characters/眺.md) : stare
+1723. [釣](../../characters/釣.md) : angling
+1724. [貼 (char)](../../characters/貼%20(char).md) : paste
+1725. [超 (char)](../../characters/超%20(char).md) : transcend
+1726. [跳](../../characters/跳.md) : hop
+1727. [徴](../../characters/徴.md) : 	徵	indications
+1728. [嘲](../../characters/嘲.md) :  ridicule
+1729. [澄](../../characters/澄.md) : lucidity
 1730. [聴 (char)](../../characters/聴%20(char).md) :	listen
-1731. [[懲]] : 	[[懲]] penal
-1732. [[勅]] : 	[[勅|敕]]	imperial order
+1731. [懲](../../characters/懲.md) : 	懲 penal
+1732. [勅](../../characters/勅.md) : 	敕	imperial order
 1733. !!捗!! : make progress     FORBIDDEN
-1734. [[沈]] : sink
-1735. [[珍]] : rare
+1734. [沈](../../characters/沈.md) : sink
+1735. [珍 (char)](../../characters/珍%20(char).md) : rare
 1736. [[朕 (char)]] : majestic plural
-1737. [[陳]] : exhibit
-1738. [[鎮]] : 	[[鎮|鎭]]	tranquilize
+1737. [陳](../../characters/陳.md) : exhibit
+1738. [鎮 (char)](../../characters/鎮%20(char).md) : 	鎭	tranquilize
 1739. [椎](../../characters/椎.md) : oak
 1740. [墜](../../characters/墜.md) : crash
 1741. [塚 (char)](../../characters/塚%20(char).md) : 	[塚 (char)](../../characters/塚%20(char).md) hillock
@@ -719,10 +719,10 @@
 1743. [坪 (char)](../../characters/坪%20(char).md) : two-mat area
 1744. [爪 (char)](../../characters/爪%20(char).md) : claw
 1745. [鶴 (char)](../../characters/鶴%20(char).md) : crane
-1746. [[呈]] : display
-1747. [[廷]] : courts
-1748. [[抵]] : resist
-1749. [[邸]] : residence
+1746. [呈 (char)](../../characters/呈%20(char).md) : display
+1747. [廷](../../characters/廷.md) : courts
+1748. [抵](../../characters/抵.md) : resist
+1749. [邸](../../characters/邸.md) : residence
 ### 1750
 1750. [[亭]] : pavilion
 1751. [[貞]] : upright
@@ -851,60 +851,60 @@
 1874. [[範]] : pattern
 1875. [[繁]] : 	繁	luxuriant
 1876. [[藩]] : clan
-1877. [[蛮]] : 	蠻	barbarian
-1878. [[盤]] : tray
-1879. [[妃]] : queen
+1877. [蛮](../../characters/蛮.md) : 	蠻	barbarian
+1878. [盤 (char)](../../characters/盤%20(char).md) : tray
+1879. [妃](../../characters/妃.md) : queen
 1880. [[彼 (char)]] : he
-1881. [[披]] : expose 
-1882. [[卑]] : 	卑 lowly
-1883. [[疲]] : exhausted
-1884. [[被]] : incur
-1885. [[扉]] : front door
-1886. [[碑]] : 	碑 tombstone
-1887. [[罷]] : quit
-1888. [[避]] : evade
-1889. [[尾]] : tail
-1890. [[眉]] : eyebrow
-1891. [[微]] : delicate
-1892. [[膝]] : knee
-1893. [[肘]] : elbow
+1881. [披 (char)](../../characters/披%20(char).md) : expose 
+1882. [卑 (char)](../../characters/卑%20(char).md) : 	卑 lowly
+1883. [疲](../../characters/疲.md) : exhausted
+1884. [被 (char)](../../characters/被%20(char).md) : incur
+1885. [扉 (char)](../../characters/扉%20(char).md) : front door
+1886. [碑](../../characters/碑.md) : 	碑 tombstone
+1887. [罷](../../characters/罷.md) : quit
+1888. [避 (char)](../../characters/避%20(char).md) : evade
+1889. [尾 (char)](../../characters/尾%20(char).md) : tail
+1890. [眉 (char)](../../characters/眉%20(char).md) : eyebrow
+1891. [微](../../characters/微.md) : delicate
+1892. [膝](../../characters/膝.md) : knee
+1893. [肘 (char)](../../characters/肘%20(char).md) : elbow
 1894. [[匹 (char)]] : equal
-1895. [[泌]] : ooze
-1896. [[姫]] : princess
-1897. [[漂]] : drift
-1898. [[苗]] : seedling
-1899. [[描]] : sketch
+1895. [泌](../../characters/泌.md) : ooze
+1896. [姫 (char)](../../characters/姫%20(char).md) : princess
+1897. [漂 (char)](../../characters/漂%20(char).md) : drift
+1898. [苗](../../characters/苗.md) : seedling
+1899. [描](../../characters/描.md) : sketch
 1900. [[猫 (char)]] : cat
-1901. [[浜]] : 	濱 seacoast
-1902. [[賓]] : 	賓 V.I.P.
-1903. [[頻]] : 	頻 repeatedly
-1904. [[敏]] : 	敏 cleverness
-1905. [[瓶]] : 	甁	flower pot
-1906. [[扶]] : aid
-1907. [[怖]] : dreadful
-1908. [[附]] : affixed
-1909. [[訃]] : obituary
-1910. [[赴]] : proceed
-1911. [[浮]] : floating
-1912. [[符]] : token
-1913. [[普]] : universal
-1914. [[腐]] : rot
-1915. [[敷]] : spread
-1916. [[膚]] : skin
-1917. [[賦]] : levy
-1918. [[譜]] : musical score
-1919. [[侮]] : 	侮 scorn
-1920. [[舞]] : dance
+1901. [浜 (char)](../../characters/浜%20(char).md) : 	濱 seacoast
+1902. [賓](../../characters/賓.md) : 	賓 V.I.P.
+1903. [頻 (char)](../../characters/頻%20(char).md) : 	頻 repeatedly
+1904. [敏 (char)](../../characters/敏%20(char).md) : 	敏 cleverness
+1905. [瓶 (char)](../../characters/瓶%20(char).md) : 	甁	flower pot
+1906. [扶 (char)](../../characters/扶%20(char).md) : aid
+1907. [怖](../../characters/怖.md) : dreadful
+1908. [附 (char)](../../characters/附%20(char).md) : affixed
+1909. [訃](../../characters/訃.md) : obituary
+1910. [赴 (char)](../../characters/赴%20(char).md) : proceed
+1911. [浮 (char)](../../characters/浮%20(char).md) : floating
+1912. [符](../../characters/符.md) : token
+1913. [普](../../characters/普.md) : universal
+1914. [腐](../../characters/腐.md) : rot
+1915. [敷 (char)](../../characters/敷%20(char).md) : spread
+1916. [膚](../../characters/膚.md) : skin
+1917. [賦 (char)](../../characters/賦%20(char).md) : levy
+1918. [譜](../../characters/譜.md) : musical score
+1919. [侮](../../characters/侮.md) : 	侮 scorn
+1920. [舞](../../characters/舞.md) : dance
 1921. [[../../characters/封 (char)]] : seal
-1922. [[伏]] : prostrated
-1923. [[幅]] : breadth
-1924. [[覆]] : capsize
-1925. [[拂 (char)]] :	pay
-1926. [[沸]] : seethe
-1927. [[紛]] : distract
-1928. [[雰]] : atmosphere
-1929. [[噴]] : erupt
-1930. [[墳]] : tomb
+1922. [伏 (char)](../../characters/伏%20(char).md) : prostrated
+1923. [幅](../../characters/幅.md) : breadth
+1924. [覆](../../characters/覆.md) : capsize
+1925. [拂 (char)](../../characters/拂%20(char).md) :	pay
+1926. [沸](../../characters/沸.md) : seethe
+1927. [紛 (char)](../../characters/紛%20(char).md) : distract
+1928. [雰](../../characters/雰.md) : atmosphere
+1929. [噴](../../characters/噴.md) : erupt
+1930. [墳](../../characters/墳.md) : tomb
 1931. [憤](../../characters/憤.md) : aroused
 1932. [丙 (char)](../../characters/丙%20(char).md) : third class
 1933. [併](並) 	倂	join
@@ -1043,22 +1043,22 @@
 2065. [羅](../../characters/羅.md) : gauze
 2066. [[雷 (char)]] : thunder
 2067. [頼](../../characters/頼.md) : 	賴	S	trust
-2068. [[絡]] : entwine
-2069. [[酪]] : dairy products
-2070. [[辣]] : bitter
-2071. [[濫]] : excessive
-2072. [[藍]] : indigo
-2073. [[欄]] : 	欄 column
-2074. [[吏]] : officer
-2075. [[痢]] : diarrhea
-2076. [[履]] : footgear
-2077. [[璃]] : glassy
-2078. [[離]] : detach
-2079. [[慄]] : fear
-2080. [[柳]] : willow
-2081. [[龍 (char)|竜]] : 	龍	dragon
-2082. [[粒]] : grains
-2083. [[隆]] : 	隆 hump
+2068. [絡 (char)](../../characters/絡%20(char).md) : entwine
+2069. [酪](../../characters/酪.md) : dairy products
+2070. [辣 (char)](../../characters/辣%20(char).md) : bitter
+2071. [濫](../../characters/濫.md) : excessive
+2072. [藍 (char)](../../characters/藍%20(char).md) : indigo
+2073. [欄](../../characters/欄.md) : 	欄 column
+2074. [吏](../../characters/吏.md) : officer
+2075. [痢](../../characters/痢.md) : diarrhea
+2076. [履 (char)](../../characters/履%20(char).md) : footgear
+2077. [璃 (char)](../../characters/璃%20(char).md) : glassy
+2078. [離](../../characters/離.md) : detach
+2079. [慄 (char)](../../characters/慄%20(char).md) : fear
+2080. [柳 (char)](../../characters/柳%20(char).md) : willow
+2081. [竜](../../characters/龍%20(char).md) : 	龍	dragon
+2082. [粒](../../characters/粒.md) : grains
+2083. [隆 (char)](../../characters/隆%20(char).md) : 	隆 hump
 2084. [硫](../../characters/硫.md) : sulphur
 2085. [侶](../../characters/侶.md) : companion
 2086. [虜](../../characters/虜.md) : 	虜 captive

@@ -2,7 +2,7 @@
 mandarin: gān
 cantonese: gam1
 korean: 감
-korean_native: ""
+korean_native: 달
 japanese:
   - KAN
 japanese_nanori: ""
