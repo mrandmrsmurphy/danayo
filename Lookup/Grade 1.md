@@ -67,19 +67,19 @@ size: 250
 64. <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> - hit	
 65. <ruby>[[石 (char)]]<rt>ㄙㄝㄎ</rt></ruby> - rock	
 66. <ruby>[[玉 (char)]]<rt>˙ㄛㄎ</rt></ruby> - jade	
-67. <ruby>[[号]]<rt>ㄏㄚˇ</rt></ruby> - symbol	67	
-68. <ruby>[[外]]<rt>ˇㄚ˙</rt></ruby> - outside	68	
-69. <ruby>[用](characters/用.md)<rt>˙ㄛㄥ</rt></ruby> - use	69	
-70. <ruby>[半](characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - half	70	
-71. <ruby>[白 (char)](characters/白%20(char).md)<rt>ㄅㄚㄎ</rt></ruby> - white	71	
-72. <ruby>[主](characters/主.md)<rt>ㄐㄨ</rt></ruby> - lord, master	72	
-73. <ruby>[立 (char)](characters/立%20(char).md)<rt>ㄌㄧㄆ</rt></ruby> - stand	73	
-74. <ruby>[母](characters/母.md)<rt>ㄇㄛˇ</rt></ruby> - mother	74	
-75. <ruby>[正](characters/正%20(char).md)<rt>ㄐㄧㄥ</rt></ruby> - correct	75	
-76. <ruby>[左](characters/左.md)<rt>ㄐㄚ</rt></ruby> - left	76	
-77. <ruby>[四](characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, 4	77
-78. <ruby>[生](characters/生.md)<rt>ㄙㄚㄥ</rt></ruby> - life	78	
-79. <ruby>[竹](characters/竹%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> - bamboo	79	
+67. <ruby>[[号]]<rt>ㄏㄚˇ</rt></ruby> - symbol	
+68. <ruby>[[外]]<rt>ˇㄚ˙</rt></ruby> - outside	
+69. <ruby>[用](characters/用.md)<rt>˙ㄛㄥ</rt></ruby> - use	
+70. <ruby>[半](characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - half	
+71. <ruby>[白 (char)](characters/白%20(char).md)<rt>ㄅㄚㄎ</rt></ruby> - white	
+72. <ruby>[主](characters/主.md)<rt>ㄐㄨ</rt></ruby> - lord, master	
+73. <ruby>[立 (char)](characters/立%20(char).md)<rt>ㄌㄧㄆ</rt></ruby> - stand	
+74. <ruby>[母](characters/母.md)<rt>ㄇㄛˇ</rt></ruby> - mother	
+75. <ruby>[正](characters/正%20(char).md)<rt>ㄐㄧㄥ</rt></ruby> - correct	
+76. <ruby>[左](characters/左.md)<rt>ㄐㄚ</rt></ruby> - left	
+77. <ruby>[四](characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, 4
+78. <ruby>[生](characters/生.md)<rt>ㄙㄚㄥ</rt></ruby> - life	
+79. <ruby>[竹](characters/竹%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> - bamboo	
 80. <ruby>[毎](characters/毎%20(char).md)<rt>ㄇㄛ˙</rt></ruby> - each	80	
 81. <ruby>[気](characters/気%20(char).md)<rt>ㄎㄧ˙</rt></ruby> - feeling	81	
 82. <ruby>[年](characters/年%20(char).md)<rt>ㄋㄝㄋ</rt></ruby> - year	82	

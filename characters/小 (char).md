@@ -34,10 +34,12 @@ tags:
 ---
 >[!tip] This is a page about the character 小.
 >For the word, see [小](words/小.md)
+>For the radical, see [Radical 042](../lookup/Radicals/Radical%20042.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 指事](../lookup/List%20of%20指事.md): three small dots = small.
 
 
 ## Words

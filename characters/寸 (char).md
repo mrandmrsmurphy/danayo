@@ -34,7 +34,7 @@ tags:
 ---
 >[!tip] This is a page about the character 寸.
 >For the word, see [寸](words/寸.md)
-
+>For the radical see [Radical 041](../lookup/Radicals/Radical%20041.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```

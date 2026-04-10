@@ -96,8 +96,9 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 ### 3
 6. <ruby>[三](/characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
 7. <ruby>[上](/characters/上%20(char).md)<rt>ㄙ˙ㄚㄥ</rt></ruby> - up
-8. <ruby>[下 (char)](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down
+8. <ruby>[下](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down
 9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄥ</rt></ruby> die - "edge of a knife"
+10. <ruby>[小](/characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby> - three small dots = small
 ### 4
 11. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby> center of a square
 12. 乏
@@ -125,57 +126,54 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 33. 石 (char)
 34. 㐱
 ### 6
-- 両 (char)
-- 亙 (char)
-- 亦 (char)
-- 光 (char)
-- 共 (char)
-- 曲
-- 虫
- - 行 (char)
+35. 両 (char)
+36. 亙 (char)
+37. 亦 (char)
+38. 光 (char)
+39. 共 (char)
+40. 曲
+41. 虫
+42. 行 (char)
 ### 7
-- 図
-- 坐 (char)
-- 夹
-- 見 (char)
-- 言 (char)
+43. 図
+44. 坐 (char)
+45. 夹
+46. 見 (char)
+47. 言 (char)
 
 ### 8
-- 典
-- 学
-- 斉
-
-
-
-15. 半
-16. 世
-17. 百
-18. [夫 (char)](characters/夫%20(char).md)
-19. 元
-20. 立
-21. 位
-22. 並
-23. 普
-24. 替
-25. 望
-26. 呈
-27. 程
-28. 聖
-29. 廷
-30. 庭
-31. 氏
-32. 底
-33. 低
-34. 邸
-35. 弟
-36. 第
-37. 姉
+49. 典
+50. 学
+51. 斉
+52. 半
+53. 世
+54. 百
+55. [夫 (char)](characters/夫%20(char).md)
+56. 元
+57. 立
+58. 位
+59. 並
+60. 普
+61. 替
+62. 望
+63. 呈
+64. 程
+65. 聖
+66. 廷
+67. 庭
+68. 氏
+69. 底
+70. 低
+71. 邸
+72. 弟
+73. 第
+74. 姉
 ### 9
-40. [[昷]]
-41. [[品 (char)]]
-42. [[柬 (char)]]
-43. [[音]]
-44. [[具]]
+75. [[昷]]
+76. [[品 (char)]]
+77. [[柬 (char)]]
+78. [[音]]
+79. [[具]]
 
 ## Base check
 ```base
