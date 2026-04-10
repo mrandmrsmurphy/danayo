@@ -32,9 +32,16 @@ tags:
 ---
 >[!tip] This is a page about the character 少.
 >For the word, see [少](words/少.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[多少]]
+- [[少女]]
+- [[些少]]
+- [[少年]]
+- [[鮮少]]
+- [[更少]]
+- 
