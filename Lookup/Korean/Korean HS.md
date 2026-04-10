@@ -101,7 +101,7 @@
 #### 낭
 [娘 (char)](characters/娘%20(char).md) (아가씨 낭)
 #### 내
-[[奈]] (어찌 내)  [耐 (char)](../../characters/耐%20(char).md) (견딜 내)
+[[../../characters/奈]] (어찌 내)  [耐 (char)](../../characters/耐%20(char).md) (견딜 내)
 #### 녕
 [寧](../../characters/寧.md) (편안할 녕)
 #### 노

@@ -52,5 +52,5 @@ The following are not content pages, but "programming"
 - [All Chengyu Base](chengyu/All%20Chengyu%20Base.base)
 - [Words Base](words/Words%20Base.base)
 
-隷, 僚, 侮, 冒, 誓, 逝, 攝, 垂, 搜, 押, 躍, 擁, 凝, 宰, 殿, 竊, 奏, 珠, 鑄, 震, 滯, 逮, 遞, 卓, 誕, 嫌, 衡
+冒, 誓, 逝, 攝, 垂, 搜, 押, 躍, 擁, 凝, 宰, 殿, 竊, 奏, 珠, 鑄, 震, 滯, 逮, 遞, 卓, 誕, 嫌, 
 

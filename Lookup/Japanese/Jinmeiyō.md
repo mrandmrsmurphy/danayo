@@ -552,7 +552,7 @@
 - 裡 --> 裏
 - 穰 --> 穣
 - 轟 --> 軣
-- 乃 merged with 奈
+- [乃 (char)](../../characters/乃%20(char).md) 
 - 蟬 --> [蝉 (char)](characters/蝉%20(char).md)
 - 蠟 --> 蝋
 - 蹟 --> 跡

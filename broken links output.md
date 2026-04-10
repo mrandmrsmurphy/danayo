@@ -845,7 +845,7 @@
 - [[孙]] in [[lookup/HSK/Old HSK 3]]
 - [[徑]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[顽]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
-- [[奈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
+- [[characters/奈]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
 - [[媳]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 6]]
 - [[悬]] in [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[點]] in [[lookup/HSK/Old HSK 3]]

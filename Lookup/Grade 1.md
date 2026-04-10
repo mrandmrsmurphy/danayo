@@ -58,15 +58,15 @@ size: 250
 55. <ruby>[[北]]<rt>ㄅㄨㄎ</rt></ruby> - north
 56. <ruby>[[目 (char)]]<rt>ㄇㄨㄎ</rt></ruby> - eye
 57. <ruby>[[田]]<rt>ㄉㄝㄋ</rt></ruby> - field
-58. <ruby>[[本 (char)]]<rt>ㄅㄛㄋ</rt></ruby> - foundation
-59. <ruby>[[他 (char)]]<rt>ㄊㄚ</rt></ruby> - another	59	
-60. <ruby>[[冬 (char)]]<rt>ㄊㄛㄥ</rt></ruby> - winter	60	
-61. <ruby>[[去 (char)]]<rt>ㄎ˙ㄛ</rt></ruby> - go	61	
-62. <ruby>[[右]]<rt>˙ㄨ</rt></ruby> - right (direction)	62	
-63. <ruby>[[世]]<rt>ㄙㄝ</rt></ruby> - world, society	63	
-64. <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> - hit	64	
-65. <ruby>[[石 (char)]]<rt>ㄙㄝㄎ</rt></ruby> - rock	65	
-66. <ruby>[[玉 (char)]]<rt>˙ㄛㄎ</rt></ruby> - jade	66	
+58. <ruby>[[本]]<rt>ㄅㄛㄋ</rt></ruby> - foundation
+59. <ruby>[[他]]<rt>ㄊㄚ</rt></ruby> - another	
+60. <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby> - winter	
+61. <ruby>[[去 (char)]]<rt>ㄎ˙ㄛ</rt></ruby> - go	
+62. <ruby>[[右]]<rt>˙ㄨ</rt></ruby> - right (direction)	
+63. <ruby>[[世]]<rt>ㄙㄝ</rt></ruby> - world, society	
+64. <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> - hit	
+65. <ruby>[[石 (char)]]<rt>ㄙㄝㄎ</rt></ruby> - rock	
+66. <ruby>[[玉 (char)]]<rt>˙ㄛㄎ</rt></ruby> - jade	
 67. <ruby>[[号]]<rt>ㄏㄚˇ</rt></ruby> - symbol	67	
 68. <ruby>[[外]]<rt>ˇㄚ˙</rt></ruby> - outside	68	
 69. <ruby>[用](characters/用.md)<rt>˙ㄛㄥ</rt></ruby> - use	69	
