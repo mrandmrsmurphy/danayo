@@ -39,4 +39,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- Vietnamese pronunciation chosen to fill a vac
+- Vietnamese pronunciation chosen to fill a vacant syllable

@@ -17,8 +17,8 @@ grade_level: "4"
 pos: ""
 english:
   - toublesome
-羅馬字: bon
-韓文: 본
+羅馬字: fom
+韓文: 뽐
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -28,15 +28,14 @@ graphemic_classification: 會意
 stand_in: 煩
 aliases:
   - 烦
-注音: ㄅㄛㄋ
+注音: ㄈㄛㄇ
 tags:
   - character
 ---
 >[!tip] This is a page about the character 煩.
 >For the word, see [煩](words/煩.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- pronunciation altered to final -m for a unique syllable
