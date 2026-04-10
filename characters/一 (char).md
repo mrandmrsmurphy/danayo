@@ -81,11 +81,16 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 * <ruby>[一処](/words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby> - together, in one place
 * <ruby>[[一致]]<rt>읻츼</rt></ruby> - unanimous, agree with
 * <ruby>[[一体]]<rt>읻테</rt></ruby> - organic whole, unity
+* [[統一]]
 ## Chengyu
 - <ruby>[一字千金](/chengyu/一字千金.md)<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby>
 - <ruby>[一網打尽](/chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄥㄉㄚㄐㄧㄋ</rt></ruby>
 - <ruby>[一衣帯水](/chengyu/一衣帯水.md)<rt>ㄧㄊ·ㄧ˙ㄉㄚ˙ㄙㄨ</rt></ruby>
 - <ruby>[一長一短](/chengyu/一長一短.md)<rt>ㄧㄊㄐㄚㄥ·ㄧㄊㄉˇㄚㄋ</rt></ruby>
+- [[千編一律]]
+- [[渾然一体]]
+- [[言行一致]]
+- 
 
 ## Links
 ![[nav/Numerals]]
