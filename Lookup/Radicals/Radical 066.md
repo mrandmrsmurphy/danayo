@@ -5,7 +5,26 @@ radical: 攴
 ---
 > [Radicals](Radicals.md)
 ## Characters
-改 (char), 攻 (char), 放, 政, 故, 敏 (char), 救, 敖, 敗, 教, 敢, 散, 敦, 敬, 数, 敲 (char), 整 (char), 敵, 敷 (char), 㪘 (char)
+1. 改 (char)
+2. 攻 (char)
+3. <ruby>[放](/characters/放.md)<rt>ㄅㄚㄥ</rt></ruby>
+4. 政
+5. 故
+6. 敏 (char)
+7. 救
+8. 敖
+9. 敗
+10. 教
+11. 敢
+12. 散
+13. 敦
+14. 敬
+15. 数
+16. 敲 (char)
+17. 整 (char)
+18. 敵
+19. 敷 (char)
+20. 㪘 (char)
 
 ## Other
 - 肇 has this radical as a component, but is not listed under this.

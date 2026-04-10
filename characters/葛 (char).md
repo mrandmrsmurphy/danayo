@@ -30,13 +30,12 @@ aliases:
 注音: ㄍ˙ㄚㄊ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 葛.
 >For the word, see [葛](words/葛.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
-V pronunciation for sound pick
+## Notes
+V pronunciation 

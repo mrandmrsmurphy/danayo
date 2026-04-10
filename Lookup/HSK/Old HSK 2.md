@@ -146,7 +146,7 @@
 [任](../../characters/任.md): 7
 [做](../../characters/作%20(char).md): 7
 [球 (char)](../../characters/球%20(char).md): 7
-[放](../../characters/放.md): 7
+放: 7
 [改 (char)](../../characters/改%20(char).md): 7
 [具](../../characters/具.md): 7
 [交 (char)](../../characters/交%20(char).md): 7
