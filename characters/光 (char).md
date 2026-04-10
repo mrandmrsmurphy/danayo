@@ -32,9 +32,12 @@ tags:
 ---
 >[!tip] This is a page about the character 光.
 >For the word, see [光](words/光.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[圓光]]
+- [[陽光]]
+- [[閃光]]
