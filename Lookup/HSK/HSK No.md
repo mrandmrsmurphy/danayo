@@ -175,22 +175,22 @@
 [栓 (char)](../../characters/栓%20(char).md)
 [拂 (char)](../../characters/拂%20(char).md)
 [餌](../../characters/餌.md)
-[[邸]
-[[拶]]
+[邸](../../characters/邸.md)
+[拶](../../characters/拶.md)
 [軸 (char)](../../characters/軸%20(char).md)
 [楷 (char)](../../characters/楷%20(char).md)
-[[詰]]
+[詰](../../characters/詰.md)
 [妙 (char)](../../characters/妙%20(char).md)
-[[淑]]
-[[痴]]
-[[狙]]
-[[骸]]
+[淑](../../characters/淑.md)
+[痴](../../characters/痴.md)
+[狙](../../characters/狙.md)
+[骸](../../characters/骸.md)
 [溺 (char)](../../characters/溺%20(char).md)
-[[宵]]
-[[虞]]
-[[瞳]]
-[[謄]]
-[[俸]]
+[宵](../../characters/宵.md)
+[虞](../../characters/虞.md)
+[瞳](../../characters/瞳.md)
+[謄](../../characters/謄.md)
+[俸](../../characters/俸.md)
 [涯 (char)](../../characters/涯%20(char).md)
 [[軒]]
 [[契]]
