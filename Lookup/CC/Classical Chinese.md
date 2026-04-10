@@ -1,5 +1,5 @@
 
-The written Chinese language used from the Zhou Dynasty (1045 B.C.) (especially the Spring and Autumn Period), through to the end of the Han Dynasty (220 A.D.). In Chinese, [[古文]] (“Ancient Writing”) or, formally, [[古典]][[漢語]] (“Classical Chinese”). The language of many classics of Chinese literature.
+The written Chinese language used from the Zhou Dynasty (1045 B.C.) (especially the Spring and Autumn Period), through to the end of the Han Dynasty (220 A.D.). In Chinese, [[古文]] (“Ancient Writing”) or, formally, <ruby>[古典](/words/古典.md)<rt>ㄍㄛㄐㄝㄋ</rt></ruby><ruby>[漢語](/words/漢語.md)<rt>ㄏㄚㄋ·˙ㄛ</rt></ruby> (“Classical Chinese”). The language of many classics of Chinese literature.
 
 The language used after the fall of the Han Dynasty is Literary Chinese – [[文言]] (“literary writing”).
 

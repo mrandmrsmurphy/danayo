@@ -147,35 +147,35 @@
 [劾](../../characters/劾.md)
 [墜](../../characters/墜.md)
 [弧](../../characters/弧.md)
-[[舷]]
-[[巣]]
+[舷](../../characters/舷.md)
+[巣](../../characters/巣.md)
 [魂 (char)](characters/魂%20(char).md)
-[[諮]]
+[諮](../../characters/諮.md)
 [銃 (char)](characters/銃%20(char).md)
 [駅 (char)](characters/駅%20(char).md)
-[[肌]]
-[[憎]]
-[[遡]]
-[[茨]]
-[[濯]]
+[肌](../../characters/肌.md)
+[憎](../../characters/憎.md)
+[遡](../../characters/遡.md)
+[茨](../../characters/茨.md)
+[濯](../../characters/濯.md)
 [桁 (char)](../../characters/桁%20(char).md)
-[[桟]]
+[桟](../../characters/桟.md)
 [褒 (char)](../../characters/褒%20(char).md)
-[[臆]]
-[[箋]]
-[[苛]]
+[臆](../../characters/臆.md)
+[箋](../../characters/箋.md)
+[苛](../../characters/苛.md)
 [箸 (char)](../../characters/箸%20(char).md)
-[[詮]]
-[[憩]]
-[[詔]]
-[[爵]]
+[詮](../../characters/詮.md)
+[憩](../../characters/憩.md)
+[詔](../../characters/詔.md)
+[爵](../../characters/爵.md)
 [遣 (char)](../../characters/遣%20(char).md)
-[[膳]]
+[膳](../../characters/膳.md)
 [尻 (char)](characters/尻%20(char).md)
 [栓 (char)](../../characters/栓%20(char).md)
 [拂 (char)](../../characters/拂%20(char).md)
-[[餌]]
-[[邸]]
+[餌](../../characters/餌.md)
+[[邸]
 [[拶]]
 [軸 (char)](../../characters/軸%20(char).md)
 [楷 (char)](../../characters/楷%20(char).md)

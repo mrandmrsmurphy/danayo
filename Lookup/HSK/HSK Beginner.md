@@ -1,37 +1,37 @@
 ## Oops
-幾, 広, 床, 弄, 弟, 当, 心, 快, 急, 成, 或, 房, 所, 手, 拉, 換, 改, 於, 早, 明, 春, 昨, 最, 期, 本, 桌, 正, 比, 毛, 気, 没, 法, 洗, 活, 漂, 火, 灯, 点, 然, 照, 片, 牛, 班, 現, 瓶, 留, 発, 白, 目, 直, 省, 真, 着, 
+, 或, 房, 所, 手, 拉, 換, 改, 於, 早, 明, 春, 昨, 最, 期, 本, 桌, 正, 比, 毛, 気, 没, 法, 洗, 活, 漂, , 点, 然, 照, 片, 牛, 班, 現, 瓶, 留, 発, 白, 目, 直, 省, 真, 着, 
 
 ## 1
 1. [愛 (char)](../../characters/愛%20(char).md)
 2. [[八 (char)]]
 3. !!爸!! -> Use 父
 4. [巴 (char)](../../characters/巴%20(char).md) 吧
-5. [[白]]
-6. [[百]]
-7. [[班]]
-8. [[半]]
-9. [[幇|幫]]
-10. [[包]]
+5. [白 (char)](../../characters/白%20(char).md)
+6. [百](../../characters/百.md)
+7. [班 (char)](../../characters/班%20(char).md)
+8. [半](../../characters/半.md)
+9. [幫](../../characters/幇.md)
+10. [包](../../characters/包.md)
 11. [杯](characters/杯%20(char).md)
-12. [[北]]
-13. [[備]]
-14. [[本]]
-15. [[比]]
+12. [北](../../characters/北.md)
+13. [備](../../characters/備.md)
+14. [本 (char)](../../characters/本%20(char).md)
+15. [比 (char)](../../characters/比%20(char).md)
 16. [[辺|邊]]
 17. [別 (char)](../../characters/別%20(char).md)/彆
-18. [[病]]
+18. [病](../../characters/病.md)
 19. [不 (char)](characters/不%20(char).md)
-20. [[菜]]
-21. [[茶]]
-22. [[差]]
-23. [[常]]
-24. [[場]]
-25. [[唱]]
+20. [菜](../../characters/菜.md)
+21. [茶 (char)](../../characters/茶%20(char).md)
+22. [差](../../characters/差.md)
+23. [常](../../characters/常.md)
+24. [場](../../characters/場.md)
+25. [唱](../../characters/唱.md)
 26. [車 (char)](characters/車%20(char).md)
 27. [喫 (char)](../../characters/喫%20(char).md) 吃
 28. [出 (char)](characters/出%20(char).md)
 29. [[穿]]
-30. [[床]]
+30. [床 (char)](../../characters/床%20(char).md)
 31. [[次]]
 32. [從](characters/従%20(char).md)
 33. [[錯]]
@@ -45,7 +45,7 @@
 41. [地 (char)](../../characters/地%20(char).md)
 42. [[的]]
 43. [等 (char)](../../characters/等%20(char).md)
-44. [[弟]]
+44. [弟 (char)](../../characters/弟%20(char).md)
 45. [[第]]
 46. [[点|點]]
 47. [[電]]
@@ -101,40 +101,40 @@
 97. [[歓|歡]]
 98. [回 (char)](../../characters/回%20(char).md)
 99. [[会 (char)|會]]
-100. [[火]]
+100. [火 (char)](../../characters/火%20(char).md)
 101. [[../../characters/机]]
 102. [[鶏 (char)|雞]]
 103. [幾 (char)](../../characters/幾%20(char).md)
-104. [[記]]
-105. [[家]] 
+104. [記](../../characters/記.md)
+105. [家](../../characters/家.md)
 106. [[仮|假]]
-107. [[間]]
+107. [間](../../characters/間.md)
 108. [見 (char)](characters/見%20(char).md)
-109. [[教]]
+109. [教](../../characters/教.md)
 110. [叫 (char)](../../characters/叫%20(char).md)
 111. [[覚|覺]]
 112. [姉](../../words/姉.md) 姐
-113. [[介]]
+113. [介](../../characters/介.md)
 114. [今 (char)](../../characters/今%20(char).md)
-115. [[進]]
-116. [[京]]
+115. [進](../../characters/進.md)
+116. [京](../../characters/京.md)
 117. [[浄|淨]]
 118. [九 (char)](characters/九%20(char).md)
 119. [就 (char)](characters/就%20(char).md)
-120. [[開]]
+120. [開](../../characters/開.md)
 121. [看 (char)](characters/看%20(char).md)
-122. [[考]]
+122. [考](../../characters/考.md)
 123. [渴](characters/渇%20(char).md)
-124. [[客]]
-125. [[課]]
+124. [客](../../characters/客.md)
+125. [課 (char)](../../characters/課%20(char).md)
 126. [口 (char)](characters/口%20(char).md)
 127. [塊 (char)](../../characters/塊%20(char).md)
-128. [[快]]
+128. [快 (char)](../../characters/快%20(char).md)
 129. [[来 (char)|來]]
-130. [[老]]
+130. [老 (char)](../../characters/老%20(char).md)
 131. [了 (char)](../../characters/了%20(char).md)
-132. [[瞭]]
-133. [[累]]
+132. [瞭](../../characters/瞭.md)
+133. [累](../../characters/累.md)
 134. [冷 (char)](../../characters/冷%20(char).md)
 135. [裏](../../characters/裏.md)
 136. [[里 (char)]]
@@ -142,14 +142,14 @@
 138. [[零 (char)]]
 139. [[六 (char)]]
 140. [[楼|樓]]
-141. [[路]]
-142. [[媽]]
+141. [路](../../characters/路.md)
+142. [媽](../../characters/媽.md)
 143. [[馬 (char)]]
 144. !!嗎!! --> 乎
-145. [[買]]
-146. [[慢]]
-147. [[忙]]
-148. [[毛]]
+145. [買](../../characters/買.md)
+146. [慢](../../characters/慢.md)
+147. [忙](../../characters/忙.md)
+148. [毛 (char)](../../characters/毛%20(char).md)
 149. 麼 --> 何
 150. [[没|沒]]
 151. [[妹]]
@@ -329,22 +329,22 @@
 320. [層 (char)](../../characters/層%20(char).md)
 321. [[査|查]]
 322. [[長 (char)]]
-323. [[超]]
-324. [[晨]]
+323. [超 (char)](../../characters/超%20(char).md)
+324. [晨](../../characters/晨.md)
 325. [[称|稱]]
-326. [[成]]
-327. [[楚]]
+326. [成 (char)](../../characters/成%20(char).md)
+327. [楚](../../characters/楚.md)
 328. [[処 (char)|處]]
-329. [[船]]
+329. [船](../../characters/船.md)
 330. [吹 (char)](../../characters/吹%20(char).md)
-331. [[春]]
-332. [[詞]]
+331. [春 (char)](../../characters/春%20(char).md)
+332. [詞](../../characters/詞.md)
 333. [帯 (char)](../../characters/帯%20(char).md)
 334. [[単|單]]
 335. [但 (char)](../../characters/但%20(char).md)
-336. [[当|當]]
+336. [當](../../characters/当%20(char).md)
 337. [倒 (char)](characters/倒%20(char).md)
-338. [[灯|燈]]
+338. [燈](../../characters/灯%20(char).md)
 339. [[低]]
 340. [[典]]
 341. !!掉!! --> 了
@@ -374,29 +374,29 @@
 365. [[顧]]
 366. [[観|觀]]
 367. [慣](../../characters/慣.md)
-368. [[広|廣]]
+368. [廣](広)
 369. [[海]]
 370. [[喊]]
 371. [合 (char)](characters/合%20(char).md)
 372. [[河]]
 373. [[黒 (char)|黑]]
-374. [[紅]]
-375. [[忽]]
-376. [[湖]]
-377. [[護]]
+374. [紅 (char)](../../characters/紅%20(char).md)
+375. [忽](../../characters/忽.md)
+376. [湖](../../characters/湖.md)
+377. [護](../../characters/護.md)
 378. [劃 (char)](characters/劃%20(char).md) 划
 379. [[画|畫]]
-380. [[換]]
+380. [換 (char)](../../characters/換%20(char).md)
 381. [黃](characters/黄%20(char).md)
-382. [[活]]
-383. [[或]]
-384. [[級]]
-385. [[急]]
-386. [[己]]
-387. [[計]]
-388. [[際]]
-389. [[績]]
-390. [[加]]
+382. [活 (char)](../../characters/活%20(char).md)
+383. [或 (char)](../../characters/或%20(char).md)
+384. [級](../../characters/級.md)
+385. [急 (char)](../../characters/急%20(char).md)
+386. [己](../../characters/己.md)
+387. [計](../../characters/計.md)
+388. [際 (char)](../../characters/際%20(char).md)
+389. [績](../../characters/績.md)
+390. [加](../../characters/加.md)
 391. [[検|檢]]
 392. [[件]]
 393. [[健]]
@@ -456,7 +456,7 @@
 447. [[末]]
 448. [[目]]
 449. [[鳥 (char)]]
-450. [[弄]]
+450. [弄 (char)](../../characters/弄%20(char).md)
 451. [[努]]
 452. [[爬]]
 453. ~~怕~~
@@ -545,12 +545,12 @@
 536. [向](characters/向%20(char).md) [[向 (char)|嚮]]
 537. [[像]]
 538. [鞋 (char)](characters/鞋%20(char).md)
-539. [[心]]
-540. [[信]]
-541. [[姓]]
-542. [[須]]
-543. [[許]]
-544. [[選]]
+539. [心 (char)](../../characters/心%20(char).md)
+540. [信](../../characters/信.md)
+541. [姓](../../characters/姓.md)
+542. [須](../../characters/須.md)
+543. [許 (char)](../../characters/許%20(char).md)
+544. [選](../../characters/選.md)
 545. [雪 (char)](characters/雪%20(char).md)
 546. [言 (char)](characters/言%20(char).md)
 547. [[顔|顏]]

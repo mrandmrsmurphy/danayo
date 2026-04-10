@@ -724,133 +724,133 @@
 1748. [抵](../../characters/抵.md) : resist
 1749. [邸](../../characters/邸.md) : residence
 ### 1750
-1750. [[亭]] : pavilion
-1751. [[貞]] : upright
-1752. [[帝]] : sovereign
-1753. [[訂]] : revise
-1754. [[逓]] : 	[[逓|遞]]	relay
-1755. [[偵]] : spy
-1756. [[堤]] : dike
-1757. [[艇]] : rowboat
-1758. [[締]] : tighten
-1759. [[諦]] : abandon
-1760. [[泥]] : mud
-1761. [[摘]] : pinch
-1762. [[滴]] : drip
-1763. [[溺]] : drown
-1764. [[迭]] : transfer
-1765. [[哲]] : philosophy
-1766. [[澈|徹]] : penetrate
-1767. [[撤]] : remove
-1768. [[添]] : annexed
-1769. [[填|塡]] :  fill in
-1770. [[殿]] : Mr.
-1771. [[斗]] : Big Dipper
-1772. [[吐]] : spit
-1773. [[妬]] : jealousy
-1774. [[途]] : route
+1750. [亭](../../characters/亭.md) : pavilion
+1751. [貞](../../characters/貞.md) : upright
+1752. [帝](../../characters/帝.md) : sovereign
+1753. [訂 (char)](../../characters/訂%20(char).md) : revise
+1754. [逓](../../characters/逓.md) : 	遞	relay
+1755. [偵 (char)](../../characters/偵%20(char).md) : spy
+1756. [堤](../../characters/堤.md) : dike
+1757. [艇 (char)](../../characters/艇%20(char).md) : rowboat
+1758. [締 (char)](../../characters/締%20(char).md) : tighten
+1759. [諦 (char)](../../characters/諦%20(char).md) : abandon
+1760. [泥 (char)](../../characters/泥%20(char).md) : mud
+1761. [摘 (char)](../../characters/摘%20(char).md) : pinch
+1762. [滴 (char)](../../characters/滴%20(char).md) : drip
+1763. [溺 (char)](../../characters/溺%20(char).md) : drown
+1764. [迭](../../characters/迭.md) : transfer
+1765. [哲](../../characters/哲.md) : philosophy
+1766. [徹](../../characters/澈.md) : penetrate
+1767. [撤 (char)](../../characters/撤%20(char).md) : remove
+1768. [添](../../characters/添.md) : annexed
+1769. [塡](填) :  fill in
+1770. [殿](../../characters/殿.md) : Mr.
+1771. [斗 (char)](../../characters/斗%20(char).md) : Big Dipper
+1772. [吐 (char)](../../characters/吐%20(char).md) : spit
+1773. [妬](../../characters/妬.md) : jealousy
+1774. [途](../../characters/途.md) : route
 1775. [[渡 (char)]] : transit
-1776. [[塗]] : paint
-1777. [[賭]] :  gamble
-1778. [[奴]] : guy
-1779. [[怒]] : angry
-1780. [[到]] : arrival
-1781. [[逃]] : escape
+1776. [塗](../../characters/塗.md) : paint
+1777. [賭](../../characters/賭.md) :  gamble
+1778. [奴](../../characters/奴.md) : guy
+1779. [怒 (char)](../../characters/怒%20(char).md) : angry
+1780. [到](../../characters/到.md) : arrival
+1781. [逃](../../characters/逃.md) : escape
 1782. [倒 (char)](characters/倒%20(char).md) : overthrow
-1783. [[凍]] : frozen 
-1784. [[唐]] : T'ang
-1785. [[桃]] : peach tree
-1786. [[透]] : transparent
-1787. [[悼]] : lament
-1788. [[盗]] : 	[[盗|盜]]	steal
-1789. [[陶]] : pottery
-1790. [[塔]] : pagoda
-1791. [[搭]] : board
-1792. [[棟]] : ridgepole
-1793. [[痘]] : pox
-1794. [[筒]] : cylinder
-1795. [[稲]] : 	[[稲|稻]]	rice plant
-1796. [[踏]] : step
-1797. [[謄]] : mimeograph
-1798. [[藤]] : wisteria
-1799. [[闘]] : 	[[闘|鬭]]	fight 
-1800. [[騰]] : inflation
-1801. [[洞]] : den
-1802. [[胴]] : trunk
-1803. [[瞳]] : pupil
+1783. [凍](../../characters/凍.md) : frozen 
+1784. [唐](../../characters/唐.md) : T'ang
+1785. [桃](../../characters/桃.md) : peach tree
+1786. [透 (char)](../../characters/透%20(char).md) : transparent
+1787. [悼 (char)](../../characters/悼%20(char).md) : lament
+1788. [盗](../../characters/盗.md) : 	盜	steal
+1789. [陶](../../characters/陶.md) : pottery
+1790. [塔 (char)](../../characters/塔%20(char).md) : pagoda
+1791. [搭](../../characters/搭.md) : board
+1792. [棟](../../characters/棟.md) : ridgepole
+1793. [痘](../../characters/痘.md) : pox
+1794. [筒 (char)](../../characters/筒%20(char).md) : cylinder
+1795. [稲](../../characters/稲.md) : 	稻	rice plant
+1796. [踏](../../characters/踏.md) : step
+1797. [謄](../../characters/謄.md) : mimeograph
+1798. [藤](../../characters/藤.md) : wisteria
+1799. [闘](../../characters/闘.md) : 	鬭	fight 
+1800. [騰](../../characters/騰.md) : inflation
+1801. [洞](../../characters/洞.md) : den
+1802. [胴](../../characters/胴.md) : trunk
+1803. [瞳](../../characters/瞳.md) : pupil
 1804. 峠 : mountain peak    FORBIDDEN!!!
-1805. [[匿]] : hide
-1806. [[督]] : coach
-1807. [[篤]] : fervent
-1808. [[凸]] : convex
-1809. [[突]] : 	突	stab
-1810. [[屯]] : barracks
+1805. [匿](../../characters/匿.md) : hide
+1806. [督](../../characters/督.md) : coach
+1807. [篤](../../characters/篤.md) : fervent
+1808. [凸 (char)](../../characters/凸%20(char).md) : convex
+1809. [突](../../characters/突.md) : 	突	stab
+1810. [屯 (char)](../../characters/屯%20(char).md) : barracks
 1811. [豚 (char)](characters/豚%20(char).md) : pork
-1812. [[頓]] : suddenly
-1813. [[貪]] : covet
-1814. [[鈍]] : dull
-1815. [[曇]] : cloudy weather
+1812. [頓](../../characters/頓.md) : suddenly
+1813. [貪 (char)](../../characters/貪%20(char).md) : covet
+1814. [鈍](../../characters/鈍.md) : dull
+1815. [曇 (char)](../../characters/曇%20(char).md) : cloudy weather
 1816. [丼](characters/井.md) : bowl of food
-1817. [[那]] : what
-1818. [[謎]] : riddle
-1819. [[鍋]] : pot
-1820. [[軟]] : soft
-1821. [[尼]] : nun
-1822. [[貳|弐]] :	two (falsification prevention)
+1817. [那 (char)](../../characters/那%20(char).md) : what
+1818. [謎 (char)](../../characters/謎%20(char).md) : riddle
+1819. [鍋 (char)](../../characters/鍋%20(char).md) : pot
+1820. [軟](../../characters/軟.md) : soft
+1821. [尼](../../characters/尼.md) : nun
+1822. [弐](貳) :	two (falsification prevention)
 1823. 匂 : scent      FORBIDDEN!!!
-1824. [[虹]] : rainbow
-1825. [[尿]] : urine
-1826. [[妊]] : pregnancy
-1827. [[忍]] : endure
-1828. [[寧]] : rather
-1829. [[捻]] : twist
-1830. [[粘]] : sticky
-1831. [[悩]] : 	惱	S	trouble
-1832. [[濃]] : concentrated
-1833. [[把]] : grasp
-1834. [[覇]] : 	霸	S	hegemony
-1835. [[婆]] : old woman
-1836. [[罵]] : insult
+1824. [虹](../../characters/虹.md) : rainbow
+1825. [尿 (char)](../../characters/尿%20(char).md) : urine
+1826. [妊 (char)](../../characters/妊%20(char).md) : pregnancy
+1827. [忍](../../characters/忍.md) : endure
+1828. [寧](../../characters/寧.md) : rather
+1829. [捻 (char)](../../characters/捻%20(char).md) : twist
+1830. [粘 (char)](../../characters/粘%20(char).md) : sticky
+1831. [悩 (char)](../../characters/悩%20(char).md) : 	惱	S	trouble
+1832. [濃](../../characters/濃.md) : concentrated
+1833. [把](../../characters/把.md) : grasp
+1834. [覇](../../characters/覇.md) : 	霸	S	hegemony
+1835. [婆](../../characters/婆.md) : old woman
+1836. [罵](../../characters/罵.md) : insult
 1837. [[杯 (char)]] : counter for cupfuls
 1838. [排 (char)](characters/排%20(char).md) : repudiate
-1839. [[廃]] : 	廢	S	abolish
-1840. [[輩]] : comrade
-1841. [[培]] : cultivate
-1842. [[陪]] : obeisance
-1843. [[媒]] : mediator
-1844. [[賠]] : compensation
-1845. [[伯]] : chief
-1846. [[拍]] : clap
-1847. [[泊]] : overnight
-1848. [[迫]] : urge
-1849. [[剝]] : peel
-1850. [[舶]] : liner
-1851. [[薄]] : dilute
-1852. [[漠]] : vague
-1853. [[縛]] : truss
-1854. [[爆]] : explode
-1855. [[箸]] : chopsticks
-1856. [[肌]] : texture
-1857. [[鉢]] : bowl
-1858. [[髪]] : 	髮	S	hair of the head
-1859. [[伐]] : fell
-1860. [[抜]] : 	拔	S	slip out
-1861. [[罰]] : penalty
-1862. [[閥]] : clique
-1863. [[氾]] : spread out
+1839. [廃](../../characters/廃.md) : 	廢	S	abolish
+1840. [輩 (char)](../../characters/輩%20(char).md) : comrade
+1841. [培](../../characters/培.md) : cultivate
+1842. [陪 (char)](../../characters/陪%20(char).md) : obeisance
+1843. [媒](../../characters/媒.md) : mediator
+1844. [賠](../../characters/賠.md) : compensation
+1845. [伯](../../characters/伯.md) : chief
+1846. [拍 (char)](../../characters/拍%20(char).md) : clap
+1847. [泊](../../characters/泊.md) : overnight
+1848. [迫](../../characters/迫.md) : urge
+1849. [剝](../../characters/剝.md) : peel
+1850. [舶](../../characters/舶.md) : liner
+1851. [薄](../../characters/薄.md) : dilute
+1852. [漠](../../characters/漠.md) : vague
+1853. [縛](../../characters/縛.md) : truss
+1854. [爆](../../characters/爆.md) : explode
+1855. [箸 (char)](../../characters/箸%20(char).md) : chopsticks
+1856. [肌](../../characters/肌.md) : texture
+1857. [鉢 (char)](../../characters/鉢%20(char).md) : bowl
+1858. [髪](../../characters/髪.md) : 	髮	S	hair of the head
+1859. [伐](../../characters/伐.md) : fell
+1860. [抜](../../characters/抜.md) : 	拔	S	slip out
+1861. [罰](../../characters/罰.md) : penalty
+1862. [閥](../../characters/閥.md) : clique
+1863. [氾](../../characters/氾.md) : spread out
 1864. [[帆 (char)]] : sail
-1865. [[汎]] : pan-
-1866. [[伴]] : consort
-1867. [[畔]] : paddy-ridge
-1868. [[般]] : generally
-1869. [[販]] : marketing
-1870. [[斑]] : blemish
-1871. [[搬]] : conveyor
-1872. [[煩]] : anxiety
-1873. [[頒]] : partition
-1874. [[範]] : pattern
-1875. [[繁]] : 	繁	luxuriant
-1876. [[藩]] : clan
+1865. [汎 (char)](../../characters/汎%20(char).md) : pan-
+1866. [伴](../../characters/伴.md) : consort
+1867. [畔 (char)](../../characters/畔%20(char).md) : paddy-ridge
+1868. [般 (char)](../../characters/般%20(char).md) : generally
+1869. [販](../../characters/販.md) : marketing
+1870. [斑](../../characters/斑.md) : blemish
+1871. [搬](../../characters/搬.md) : conveyor
+1872. [煩 (char)](../../characters/煩%20(char).md) : anxiety
+1873. [頒](../../characters/頒.md) : partition
+1874. [範](../../characters/範.md) : pattern
+1875. [繁](../../characters/繁.md) : 	繁	luxuriant
+1876. [藩](../../characters/藩.md) : clan
 1877. [蛮](../../characters/蛮.md) : 	蠻	barbarian
 1878. [盤 (char)](../../characters/盤%20(char).md) : tray
 1879. [妃](../../characters/妃.md) : queen
