@@ -7,16 +7,15 @@ views:
       - 注音
       - 羅馬字
       - 韓文
-      - file.mtime
       - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: file.mtime
         direction: ASC
       - property: file.name
         direction: ASC
       - property: size
-        direction: DESC
-      - property: date-last-perfect
         direction: DESC
       - property: 羅馬字
         direction: ASC

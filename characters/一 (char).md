@@ -88,7 +88,6 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 - <ruby>[一衣帯水](/chengyu/一衣帯水.md)<rt>ㄧㄊ·ㄧ˙ㄉㄚ˙ㄙㄨ</rt></ruby>
 - <ruby>[一長一短](/chengyu/一長一短.md)<rt>ㄧㄊㄐㄚㄥ·ㄧㄊㄉˇㄚㄋ</rt></ruby>
 - [[千編一律]]
-- [[渾然一体]]
 - [[言行一致]]
 - 
 
