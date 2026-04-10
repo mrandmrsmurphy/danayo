@@ -37,9 +37,8 @@ tags:
 ---
 >[!tip] This is a page about the character 壱.
 >For the word, see [壱](words/壱.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 壹 was dropped from the Korean MS list in 2000.

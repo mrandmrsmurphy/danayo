@@ -22,7 +22,7 @@ english:
 韓文: 람
 joyo_level: 高等
 hsk_level: "1"
-hanmun_edu_level: 高等
+hanmun_edu_level: 名
 danayo_id: 4239
 mc_id: 2348
 graphemic_classification: 監
@@ -39,4 +39,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- Added to the Korean HS list in 2000
+- Dropped from the Korean HS list in 2000.

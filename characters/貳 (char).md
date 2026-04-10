@@ -1,7 +1,7 @@
 ---
-mandarin: "èr"
-cantonese: "ji6"
-korean: "이"
+mandarin: èr
+cantonese: ji6
+korean: 이
 korean_native: ""
 japanese:
   - NI
@@ -22,7 +22,7 @@ english:
 韓文: 늬
 joyo_level: 高等
 hsk_level: "4"
-hanmun_edu_level: 高等
+hanmun_edu_level: 名
 danayo_id: 6418
 mc_id: 1301
 graphemic_classification: 弍
@@ -37,12 +37,11 @@ tags:
 ---
 >[!tip] This is a page about the character 貳.
 >For the word, see [貳](words/貳.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 ## Notes
+- Dropped from the Korean MS list in 2000
 [[Radical 154]] – 貝/shell – has "two" above it and is surrounded by Radical 56, the shoot.  There is, therefore a SURROUNDING component of 3 strokes, and an inner component of 8 strokes, hence [[SKIP-3-3-8]].  This was originally a phono-semantic compound (形聲 / 形声, OC \*njis): semantic 貝 + phonetic 弍 (OC \*njis, “two”).  A "secondary" or "assistant" with respect to money might be "unfaithful" or "disloyal" (for a price).  It has also long been a financial alternative for plain "two"/二.
 
 ## Words
