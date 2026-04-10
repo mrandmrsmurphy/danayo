@@ -16,8 +16,8 @@ grade_level: "6"
 pos: ""
 english:
   - prose-poetry
-羅馬字: pu
-韓文: 푸
+羅馬字: fu
+韓文: 뿌
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -27,7 +27,7 @@ graphemic_classification: 武
 stand_in: 賦
 aliases:
   - 赋
-注音: ㄆㄨ
+注音: ㄈㄨ
 tags:
   - character
 ---

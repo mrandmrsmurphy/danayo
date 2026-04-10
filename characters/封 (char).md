@@ -17,8 +17,8 @@ grade_level: "4"
 pos: ""
 english:
   - seal
-羅馬字: bong
-韓文: 봉
+羅馬字: fong
+韓文: 뽕
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -27,7 +27,7 @@ mc_id: 175
 graphemic_classification: 會意
 stand_in: 封
 aliases:
-注音: ㄅㄛㄥ
+注音: ㄈㄛㄥ
 tags:
   - character
 ---

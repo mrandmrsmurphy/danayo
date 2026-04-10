@@ -7,6 +7,7 @@ japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
+  - phi
 middle_chinese_initial: f
 middle_chinese_final: ʉi
 stroke_count: 12
@@ -17,8 +18,8 @@ pos: ""
 english:
   - front door
   - cover
-羅馬字: bui
-韓文: 뷔
+羅馬字: fui
+韓文: 쀠
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -27,7 +28,7 @@ mc_id: 4811
 graphemic_classification: 非
 stand_in: 扉
 aliases:
-注音: ㄅㄨ˙
+注音: ㄈㄨ˙
 tags:
   - character
 ---

@@ -17,8 +17,8 @@ pos: ""
 english:
   - poop
   - shit
-羅馬字: pun
-韓文: 푼
+羅馬字: fun
+韓文: 뿐
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -29,7 +29,7 @@ stand_in: 糞
 aliases:
   - 𥻔
   - 粪
-注音: ㄆㄨㄋ
+注音: ㄈㄨㄋ
 tags:
   - character
 ---

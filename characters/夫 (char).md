@@ -18,8 +18,8 @@ grade_level: "4"
 pos: ""
 english:
   - right?
-羅馬字: bu
-韓文: 부
+羅馬字: fu
+韓文: 뿌
 joyo_level: "4"
 hsk_level: "4"
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 夫
 aliases:
   - 趺
-注音: ㄅㄨ
+注音: ㄈㄨ
 tags:
   - character
 ---

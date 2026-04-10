@@ -16,8 +16,8 @@ grade_level: "4"
 pos: ""
 english:
   - no
-羅馬字: buu
-韓文: 붓
+羅馬字: fuu
+韓文: 뿟
 joyo_level: "6"
 hsk_level: "4"
 hanmun_edu_level: 中
@@ -26,7 +26,7 @@ mc_id: 1170
 graphemic_classification: 不
 stand_in: 否
 aliases:
-注音: ㄅㄨˇ
+注音: ㄈㄨˇ
 tags:
   - character
 ---

@@ -19,8 +19,8 @@ pos: ""
 english:
   - rule
   - law
-羅馬字: pab
-韓文: 팝
+羅馬字: fab
+韓文: 빱
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ mc_id: 149
 graphemic_classification: 會意
 stand_in: 法
 aliases:
-注音: ㄆㄚㄆ
+注音: ㄈㄚㄆ
 tags:
   - character
 ---

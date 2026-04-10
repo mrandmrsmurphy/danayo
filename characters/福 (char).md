@@ -19,8 +19,8 @@ english:
   - happiness
   - good fortune
   - prosperity
-羅馬字: pug
-韓文: 푹
+羅馬字: fug
+韓文: 뿍
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ mc_id: 482
 graphemic_classification: 畐
 stand_in: 福
 aliases:
-注音: ㄆㄨㄎ
+注音: ㄈㄨㄎ
 tags:
   - character
 ---

@@ -18,8 +18,8 @@ english:
   - stomach
   - belly
   - abdomen
-羅馬字: bug
-韓文: 북
+羅馬字: fug
+韓文: 뿍
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -29,7 +29,7 @@ graphemic_classification: 复
 stand_in: 腹
 aliases:
   - 鰒
-注音: ㄅㄨㄎ
+注音: ㄈㄨㄎ
 tags:
   - character
 ---

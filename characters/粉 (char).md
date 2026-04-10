@@ -16,8 +16,8 @@ grade_level: "4"
 pos: ""
 english:
   - powder
-羅馬字: bun
-韓文: 분
+羅馬字: fun
+韓文: 뿐
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -26,7 +26,7 @@ mc_id: 3242
 graphemic_classification: 分
 stand_in: 粉
 aliases:
-注音: ㄅㄨㄋ
+注音: ㄈㄨㄋ
 tags:
   - character
 ---

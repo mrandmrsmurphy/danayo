@@ -18,8 +18,8 @@ pos: ""
 english:
   - fat
   - obese
-羅馬字: pang
-韓文: 팡
+羅馬字: fang
+韓文: 빵
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -28,7 +28,7 @@ mc_id: 9251
 graphemic_classification: 方
 stand_in: 肪
 aliases:
-注音: ㄆㄚㄥ
+注音: ㄈㄚㄥ
 tags:
   - character
 ---
