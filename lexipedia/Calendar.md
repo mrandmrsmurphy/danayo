@@ -90,8 +90,8 @@ Or a poetic one:
 2. <ruby>[二日](/words/二日.md)<rt>ㄋㄧ˙ㄋㄧㄊ</rt></ruby>
 3. <ruby>[三日](/words/三日.md)<rt>ㄙㄚㄇㄋㄧㄊ</rt></ruby>
 4. <ruby>[四日](/words/四日.md)<rt>ㄙㄧ˙ㄋㄧㄊ</rt></ruby>
-5. [[五日]]
-6. [[六日]]
+5. <ruby>[五日](/words/五日.md)<rt>ㄛㄋㄧㄊ</rt></ruby>
+6. <ruby>[六日](/words/六日.md)<rt>ㄌㄨㄎㄋㄝㄊ</rt></ruby>
 7. <ruby>[七日](/words/七日.md)<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby>
 8. [[八日]]
 9. <ruby>[九日](/words/九日.md)<rt>ㄎ˙ㄨㄋㄧㄊ</rt></ruby>
@@ -116,7 +116,7 @@ Or a poetic one:
 28. 二十八日
 29. 二十九日
 30. 三十日
-31. 三十一日
+31. [[../words/三十一日]]
 
 - <ruby>[本日](/words/本日.md)<rt>ㄏㄛㄋㄋㄧㄊ</rt></ruby> is poetic for 'today'
 - <ruby>[明日](/words/明日.md)<rt>ㄇ˙ㄝㄥㄋㄧㄊ</rt></ruby> is poetic for 'tomorrow'
