@@ -35,9 +35,18 @@ tags:
 ---
 >[!tip] This is a page about the character 女.
 >For the word, see [女](words/女.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[女性]]
+- [[女女]]
+- [[織女星]]
+- [[女皇]]
+- [[女優]]
+- [[婢女]]
+- [[姪女]]
+- [[孫女]]
+- 
