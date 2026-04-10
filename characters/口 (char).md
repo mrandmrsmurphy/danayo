@@ -41,3 +41,7 @@ tags:
 ## Words
 - [[人口]] - population
 - <ruby>[唖口](/words/唖口.md)<rt>ㄚㄎㄛˇ</rt></ruby> - mute
+- [[口臭]]
+- [[口訣]]
+- [[口笛]]
+- 

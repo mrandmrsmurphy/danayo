@@ -36,9 +36,14 @@ tags:
 ---
 >[!tip] This is a page about the character 所.
 >For the word, see [所](words/所.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[事務所]]
+- [[所在]]
+- [[所有]]
+- [[所以]]
+- 
