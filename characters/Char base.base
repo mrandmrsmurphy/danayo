@@ -6,12 +6,19 @@ formulas:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - middle_chinese_initial == "v"
     order:
       - file.name
       - formula.score
       - danayo_id
-      - cantonese
+      - 注音
+      - 羅馬字
+      - 韓文
     sort:
+      - property: 注音
+        direction: ASC
       - property: cantonese
         direction: DESC
       - property: middle_chinese_final
@@ -44,8 +51,6 @@ views:
         direction: DESC
       - property: english
         direction: ASC
-      - property: 注音
-        direction: DESC
       - property: 羅馬字
         direction: ASC
       - property: radical

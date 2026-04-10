@@ -18,8 +18,8 @@ grade_level: 先進
 pos: ""
 english:
   - pan-
-羅馬字: pam
-韓文: 팜
+羅馬字: fam
+韓文: 빰
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -28,7 +28,7 @@ mc_id: 2778
 graphemic_classification: 凡
 stand_in: 汎
 aliases:
-注音: ㄆㄚㄇ
+注音: ㄈㄚㄇ
 tags:
   - character
 ---

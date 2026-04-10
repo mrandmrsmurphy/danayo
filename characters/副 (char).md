@@ -19,8 +19,8 @@ grade_level: "4"
 pos: ""
 english:
   - vice-
-羅馬字: pug
-韓文: 푹
+羅馬字: fug
+韓文: 뿍
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -31,7 +31,7 @@ stand_in: 副
 aliases:
   - 㽬
   - 褔
-注音: ㄆㄨㄎ
+注音: ㄈㄨㄎ
 tags:
   - character
 ---

@@ -16,8 +16,8 @@ grade_level: "6"
 pos: ""
 english:
   - spread
-羅馬字: pu
-韓文: 푸
+羅馬字: fu
+韓文: 뿌
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
@@ -26,7 +26,7 @@ mc_id: 2520
 graphemic_classification: 旉
 stand_in: 敷
 aliases:
-注音: ㄆㄨ
+注音: ㄈㄨ
 tags:
   - character
 ---

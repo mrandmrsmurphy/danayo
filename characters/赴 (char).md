@@ -17,8 +17,8 @@ pos: ""
 english:
   - attend
   - visit
-羅馬字: puu
-韓文: 풋
+羅馬字: fuu
+韓文: 뿟
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -27,7 +27,7 @@ mc_id: 1530
 graphemic_classification: 卜
 stand_in: 赴
 aliases:
-注音: ㄆㄨˇ
+注音: ㄈㄨˇ
 tags:
   - character
 ---

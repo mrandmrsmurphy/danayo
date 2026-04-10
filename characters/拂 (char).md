@@ -19,8 +19,8 @@ pos: ""
 english:
   - shake off
   - brush off
-羅馬字: pud
-韓文: 푿
+羅馬字: fud
+韓文: 뿓
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -30,7 +30,7 @@ graphemic_classification: 弗
 stand_in: 拂
 aliases:
   - 払
-注音: ㄆㄨㄊ
+注音: ㄈㄨㄊ
 tags:
   - character
 ---

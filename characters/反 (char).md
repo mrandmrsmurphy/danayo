@@ -19,8 +19,8 @@ pos: ""
 english:
   - anti-
   - wrong side up
-羅馬字: pon
-韓文: 폰
+羅馬字: fon
+韓文: 뽄
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ mc_id: 186
 graphemic_classification: 會意
 stand_in: 反
 aliases:
-注音: ㄆㄛㄋ
+注音: ㄈㄛㄋ
 tags:
   - character
 ---

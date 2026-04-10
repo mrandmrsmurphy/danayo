@@ -17,8 +17,8 @@ grade_level: "6"
 pos: ""
 english:
   - spin (yarn)
-羅馬字: pang
-韓文: 팡
+羅馬字: fang
+韓文: 빵
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -28,7 +28,7 @@ graphemic_classification: 方
 stand_in: 紡
 aliases:
   - 纺
-注音: ㄆㄚㄥ
+注音: ㄈㄚㄥ
 tags:
   - character
 ---

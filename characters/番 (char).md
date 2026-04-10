@@ -18,8 +18,8 @@ pos: 量詞
 english:
   - time
   - occasion
-羅馬字: pan
-韓文: 판
+羅馬字: fan
+韓文: 빤
 joyo_level: "2"
 hsk_level: "3"
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 番
 aliases:
   - 鄱
-注音: ㄆㄚㄋ
+注音: ㄈㄚㄋ
 tags:
   - character
 ---

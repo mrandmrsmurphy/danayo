@@ -18,8 +18,8 @@ english:
   - bee
   - wasp
   - hornet
-羅馬字: pong
-韓文: 퐁
+羅馬字: fong
+韓文: 뽕
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -29,7 +29,7 @@ graphemic_classification: 豊
 stand_in: 蜂
 aliases:
   - 蚌
-注音: ㄆㄛㄥ
+注音: ㄈㄛㄥ
 tags:
   - character
 ---

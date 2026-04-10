@@ -17,8 +17,8 @@ pos: ""
 english:
   - numerous
   - disorderly
-羅馬字: pun
-韓文: 푼
+羅馬字: fun
+韓文: 뿐
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -28,7 +28,7 @@ graphemic_classification: 分
 stand_in: 紛
 aliases:
   - 纷
-注音: ㄆㄨㄋ
+注音: ㄈㄨㄋ
 tags:
   - character
 ---

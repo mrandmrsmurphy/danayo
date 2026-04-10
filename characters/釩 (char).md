@@ -16,8 +16,8 @@ skip_number: 1-8-3
 grade_level: 名
 pos: 固有名詞
 english: vanadium
-羅馬字: ban
-韓文: 반
+羅馬字: fan
+韓文: 빤
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無
@@ -28,7 +28,7 @@ stand_in: 釩金
 aliases:
   - 钒
 date-last-perfect:
-注音: ㄅㄚㄋ
+注音: ㄈㄚㄋ
 tags:
   - character
 ---

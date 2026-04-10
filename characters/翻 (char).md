@@ -17,8 +17,8 @@ grade_level: "4"
 pos: ""
 english:
   - flip
-羅馬字: pon
-韓文: 폰
+羅馬字: fon
+韓文: 뽄
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -28,7 +28,7 @@ graphemic_classification: 番
 stand_in: 翻
 aliases:
   - 飜
-注音: ㄆㄛㄋ
+注音: ㄈㄛㄋ
 tags:
   - character
 ---
