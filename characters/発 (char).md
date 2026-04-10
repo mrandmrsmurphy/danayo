@@ -9,6 +9,7 @@ japanese:
   - HATSU
 japanese_nanori: ""
 vietnamese:
+  - phát, phắt, phết
 middle_chinese_initial: f
 middle_chinese_final: ʉɐt
 stroke_count: 9
@@ -19,8 +20,8 @@ pos: ""
 english:
   - issue forth
   - discharge
-羅馬字: pad
-韓文: 팓
+羅馬字: fad
+韓文: ㆄㅏㄷ
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -33,7 +34,7 @@ aliases:
   - 發
   - 醗
   - 醱
-注音: ㄆㄚㄊ
+注音: ㄈㄚㄊ
 tags:
   - character
 ---

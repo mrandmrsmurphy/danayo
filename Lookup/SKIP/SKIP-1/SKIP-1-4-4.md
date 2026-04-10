@@ -37,25 +37,25 @@ skip_number: 1-4-4
 - <ruby>[[欧]]<rt>웃</rt></ruby>
 - <ruby>[[殴]]<rt>옷</rt></ruby>
 ### Fire
-- <ruby>[[炉]]<rt>로</rt></ruby>
+- <ruby>[[炉]]<rt>ㄌㄛ</rt></ruby>
 - <ruby>[[炊]]<rt>취</rt></ruby>
 - <ruby>[[炒]]<rt>찻</rt></ruby>
 ### Show
-- <ruby>[[祇]]<rt>기</rt></ruby>
+- <ruby>[[祇]]<rt>ㄍㄧ</rt></ruby>
 - <ruby>[[祈]]<rt>긔</rt></ruby>
 - <ruby>[[祉]]<rt>치</rt></ruby>
 ### Misc.
-- <ruby>[[門]]<rt>몬</rt></ruby>
+- <ruby>[[門]]<rt>ㄇㄛㄋ</rt></ruby>
 - <ruby>[非 (char)](characters/非%20(char).md)<rt>피</rt></ruby>
-- <ruby>[[爬]]<rt>바</rt></ruby>
+- <ruby>[[爬]]<rt>ㄅㄚ</rt></ruby>
 - <ruby>[[版]]<rt>판</rt></ruby>
-- <ruby>[[牧]]<rt>묵</rt></ruby>
-- <ruby>[[物 (char)]]<rt>묻</rt></ruby>
-- <ruby>[[玩]]<rt>완</rt></ruby>
-- <ruby>[[所]]<rt>쇼</rt></ruby>
-- <ruby>[[放]]<rt>방</rt></ruby>
-- <ruby>[於](characters/于%20(char).md)<rt>오</rt></ruby>
-- <ruby>[[欣]]<rt>힌</rt></ruby>
+- <ruby>[[牧]]<rt>ㄇㄛㄎ</rt></ruby>
+- <ruby>[[物 (char)]]<rt>ㄇㄨㄊ</rt></ruby>
+- <ruby>[[玩]]<rt>ˇㄚㄋ</rt></ruby>
+- <ruby>[[所]]<rt>ㄙ˙ㄛ</rt></ruby>
+- <ruby>[[放]]<rt>ㄈㄚㄥ</rt></ruby>
+- <ruby>[於](characters/于%20(char).md)<rt>ㄛ</rt></ruby>
+- <ruby>[[欣]]<rt>ㄏㄧㄋ</rt></ruby>
 
 ```dataview
 TABLE file.link AS "Character", 韓文 AS "Sound", skip_number AS "SKIP"

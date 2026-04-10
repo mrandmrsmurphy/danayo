@@ -129,7 +129,7 @@ size: 250
 126. <ruby>[[見 (char)]]<rt>ㄍ˙ㄝㄋ</rt></ruby> - see	126	
 127. <ruby>[[声]]<rt>ㄙㄧㄥ</rt></ruby> - sound	127	
 128. <ruby>[[事 (char)]]<rt>ㄐㄧ</rt></ruby> - thing, action	128	
-129. <ruby>[[放]]<rt>ㄅㄚㄥ</rt></ruby> - release	129	
+129. <ruby>[[放]]<rt>ㄈㄚㄥ</rt></ruby> - release
 130. <ruby>[[表]]<rt>ㄅ˙ㄚˇ</rt></ruby> - show, indicate	130	
 131. <ruby>[[所 (char)]]<rt>ㄙ˙ㄛ</rt></ruby> - -ee	131	
 132. <ruby>[[妹]]<rt>ㄇㄛ˙</rt></ruby> - younger sister	132	
@@ -162,7 +162,7 @@ size: 250
 159. <ruby>[[送 (char)]]<rt>ㄙㄛㄥ</rt></ruby> - give	159	
 160. <ruby>[[音]]<rt>ㄨㄇ</rt></ruby> - sound	160	
 161. <ruby>[[思]]<rt>ㄙㄚ</rt></ruby> - think	161	
-162. <ruby>[[発 (char)]]<rt>ㄆㄚㄊ</rt></ruby> - issue forth, discharge	162	
+162. <ruby>[[発]]<rt>ㄈㄚㄊ</rt></ruby> - issue forth, discharge
 163. <ruby>[[研]]<rt>ㄝㄋ</rt></ruby> - research, sharpen	163	
 164. <ruby>[[活 (char)]]<rt>ㄏㄨㄚㄊ</rt></ruby> - alive	164	
 165. <ruby>[[急 (char)]]<rt>ㄍㄧㄆ</rt></ruby> - quick, urgent	165	
