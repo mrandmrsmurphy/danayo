@@ -20,13 +20,13 @@ After
 - ㄚ˙，ㄝ˙，ㄛ˙，ㄨ˙
 - ㄚˇ，ㄛˇ，ㄨˇ
 
-Combinations are possible, but not all actually occur
+Most combinations are possible, but not all actually occur.
 
 ## Consonants
 - ㄅ is **b**
 - ㄑ is **c** (like English 'ch')
 - ㄉ is **d**
-- ㄈ is **f**, a very rare sound (skip it, if you like)
+- ㄈ is **f**
 - ㄍ is **g**
 - ㄏ is **h**
 - ㄐ is **j**
@@ -40,5 +40,5 @@ Combinations are possible, but not all actually occur
 - ㄊ **t**
 - ㄪ **v**, a very rare sound (skip it, if you like)
 
-**f** and **v** only occur in certain foreign words, like <ruby>珈啡<rt>ㄎㄛㄈㄧ</rt></ruby> (coffee) and <ruby>釩金<rt>ㄪㄚㄋㄙㄛ</rt></ruby> (Vanadium).
+**v** only occurㄙ in certain foreign words like <ruby>釩金<rt>ㄪㄚㄋㄙㄛ</rt></ruby> (Vanadium).
 
