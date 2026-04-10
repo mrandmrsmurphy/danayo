@@ -1,40 +1,42 @@
 ---
-mandarin: "bāo"
-cantonese: "bou1"
-korean: "포"
-korean_native: ""
+mandarin: bāo
+cantonese: bou1
+korean: 포
+korean_native: 기릴
 japanese:
   - HOU
-japanese_nanori: ""
+japanese_nanori:
+  - ほ-める
 vietnamese:
+  - bao
 middle_chinese_initial: p
 middle_chinese_final: ɑu
 stroke_count: 15
 radical: 衣
 skip_number: 2-2-13
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - praise
 羅馬字: pau
 韓文: 팟
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+joyo_level: 高等
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 6046
 mc_id: 1297
 graphemic_classification: 保
 stand_in: 褒
 aliases:
+  - 襃
 注音: ㄆㄚˇ
 tags:
   - character
 ---
 >[!tip] This is a page about the character 褒.
 >For the word, see [褒](words/褒.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- 形声 (OC \*puː, \*puː): semantic [衣](Radical%20145) + phonetic [保](保.md) (OC \*puːʔ).

@@ -923,38 +923,38 @@
 1946. [哺](../../characters/哺.md) : suckle
 1947. [捕 (char)](../../characters/捕%20(char).md) : catch
 1948. [舗 (char)](characters/舗%20(char).md) : pavement
-1949. [[募]] : recruit
-1950. [[慕]] : pining
-1951. [[簿]] : register
-1952. [[芳]] : perfume
-1953. [[邦]] : home country
-1954. [[奉]] : observance
-1955. [[抱]] : embrace
-1956. [[泡]] : bubbles
-1957. [[胞]] : placenta
-1958. [[俸]] : salary
-1959. [[倣]] : emulate
-1960. [[峰]] : summit
-1961. [[砲]] : cannon
-1962. [[崩]] : crumble
-1963. [[蜂]] : bee
-1964. [[飽]] : sated
-1965. [[褒]] : 	襃	praise
-1966. [[縫]] : sew
-1967. [[乏]] : scarce
-1968. [[忙]] : busy
-1969. [[坊]] : boy
-1970. [[妨]] : disturb
-1971. [[房]] : tassel
-1972. [[肪]] : obese
+1949. [募](../../characters/募.md) : recruit
+1950. [慕](../../characters/慕.md) : pining
+1951. [簿](../../characters/簿.md) : register
+1952. [芳](../../characters/芳.md) : perfume
+1953. [邦](../../characters/邦.md) : home country
+1954. [奉](../../characters/奉.md) : observance
+1955. [抱](../../characters/抱.md) : embrace
+1956. [泡](../../characters/泡.md) : bubbles
+1957. [胞](../../characters/胞.md) : placenta
+1958. [俸](../../characters/俸.md) : salary
+1959. [倣](../../characters/倣.md) : emulate
+1960. [峰](../../characters/峰.md) : summit
+1961. [砲](../../characters/砲.md) : cannon
+1962. [崩 (char)](../../characters/崩%20(char).md) : crumble
+1963. [蜂 (char)](../../characters/蜂%20(char).md) : bee
+1964. [飽 (char)](../../characters/飽%20(char).md) : sated
+1965. [褒 (char)](../../characters/褒%20(char).md) : 	襃	praise
+1966. [縫](../../characters/縫.md) : sew
+1967. [乏](../../characters/乏.md) : scarce
+1968. [忙](../../characters/忙.md) : busy
+1969. [坊](../../characters/坊.md) : boy
+1970. [妨](../../characters/妨.md) : disturb
+1971. [房 (char)](../../characters/房%20(char).md): tassel
+1972. [肪 (char)](../../characters/肪%20(char).md) : obese
 1973. [[某 (char)]] : so-and-so
-1974. [[冒]] : risk
-1975. [[剖]] : divide
-1976. [[紡]] : spinning
-1977. [[傍]] : bystander
-1978. [[帽]] : cap
-1979. [[貌]] : appearance 
-1980. [[膨]] : swell
+1974. [冒](../../characters/冒.md) : risk
+1975. [剖](../../characters/剖.md) : divide
+1976. [紡 (char)](../../characters/紡%20(char).md) : spinning
+1977. [傍 (char)](../../characters/傍%20(char).md) : bystander
+1978. [帽](../../characters/帽.md) : cap
+1979. [貌](../../characters/貌.md) : appearance 
+1980. [膨](../../characters/膨.md) : swell
 1981. [謀 (char)](characters/謀%20(char).md) : conspire
 1982. [頰](characters/頬%20(char).md) : 	cheek
 1983. [朴](../../characters/朴.md) : crude
