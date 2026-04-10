@@ -51,8 +51,6 @@ views:
         direction: DESC
       - property: english
         direction: ASC
-      - property: 羅馬字
-        direction: ASC
       - property: radical
         direction: ASC
       - property: pos
