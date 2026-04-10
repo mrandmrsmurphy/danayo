@@ -17,8 +17,8 @@ pos: ""
 english:
   - poop
   - shit
-羅馬字: fun
-韓文: 뿐
+羅馬字: fum
+韓文: 뿜
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -29,15 +29,15 @@ stand_in: 糞
 aliases:
   - 𥻔
   - 粪
-注音: ㄈㄨㄋ
+注音: ㄈㄨㄇ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 糞.
 >For the word, see [糞](words/糞.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- Pronunciation altered to -m so that cursing has no homophony.
