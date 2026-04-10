@@ -6,7 +6,6 @@
 - [[曾]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 5]]
 - [[黨]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
 - [[假]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
-- [[仅]] in [[lookup/HSK/Old HSK 2]]
 - [[卷]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[军]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]]
 - [[鄉]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
