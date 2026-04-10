@@ -18,8 +18,8 @@ grade_level: "1"
 pos: 名詞
 english:
   - wind
-羅馬字: pung
-韓文: 풍
+羅馬字: fung
+韓文: 뿡
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -32,7 +32,7 @@ aliases:
   - 渢
   - 讽
   - 諷
-注音: ㄆㄨㄥ
+注音: ㄈㄨㄥ
 tags:
   - character
 ---

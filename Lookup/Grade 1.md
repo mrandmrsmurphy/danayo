@@ -176,8 +176,8 @@ size: 250
 173. <ruby>[[指]]<rt>ㄐㄧ˙</rt></ruby> - finger, toe	173	
 174. <ruby>[[哉 (char)]]<rt>ㄐㄚ˙</rt></ruby> - O	174	
 175. <ruby>[[某 (char)]]<rt>ㄇㄛˇ</rt></ruby> - some, any, certain	175	
-176. <ruby>[[皆 (char)]]<rt>ㄍ˙ㄝ</rt></ruby> - every	176	
-177. <ruby>[[風 (char)]]<rt>ㄆㄨㄥ</rt></ruby> - wind	177	
+176. <ruby>[[皆 (char)]]<rt>ㄍ˙ㄝ</rt></ruby> - every
+177. <ruby>[[風]]<rt>ㄈㄨㄥ</rt></ruby> - wind
 178. <ruby>[[点 (char)]]<rt>ㄉㄝㄇ</rt></ruby> - point	178	
 179. <ruby>[[前 (char)]]<rt>ㄐㄝㄋ</rt></ruby> - front, before, preceeding	179	
 180. <ruby>[[流]]<rt>ㄌ˙ㄨ</rt></ruby> - flow	180	
