@@ -120,12 +120,12 @@ Or a poetic one:
 
 - <ruby>[本日](/words/本日.md)<rt>ㄏㄛㄋㄋㄧㄊ</rt></ruby> is poetic for 'today'
 - <ruby>[明日](/words/明日.md)<rt>ㄇ˙ㄝㄥㄋㄧㄊ</rt></ruby> is poetic for 'tomorrow'
-- [[即日]] is business for 'same day'
-- [[是日]] is archaic for 'same day'
+- [[../words/即日]] is business for 'same day'
+- [[../words/是日]] is archaic for 'same day'
 - [[次日]] is business for 'the following day'
 
 ## Years
-A thousand years is a [[千年紀]].
+A thousand years is a [[../words/千年紀]].
 The first half of the year - [[上半期]].
 The second half of the year - [[下半期]].
 Adjective "of the same year" (in school or the like): [[同年]]
