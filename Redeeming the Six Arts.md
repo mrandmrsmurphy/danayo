@@ -7,14 +7,14 @@
 	- 《[[周]][[礼]]》 (_Rites of Zhou_)
 - <ruby>[音楽](/words/音楽.md)<rt>ㄨㄇㄌㄚㄎ</rt></ruby>
 	- [[詩経]] (_Book of Odes_), 
-	- [[words/楽経]] (_Classic of Music_), 
+	- [[楽経]] (_Classic of Music_), 
 	- 楽論 (_Discourse on Music_)
 - [[射術]]
 - [[御術]]
 	- [[春秋]], 
 	- [史記](words/史記.md)
 - [[書法]]
-	- [[經典]] texts in [[四書五経]], [[論語 (book)]], [[孟子]], [[荘子]], [[史記]]
+	- [[経典]] texts in [[四書五経]], [[論語 (book)]], [[孟子]], [[荘子]], [[史記]]
 - [[数学]]
 	- _九章算術_, 
 	- _周髀算經_, 

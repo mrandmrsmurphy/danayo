@@ -1,6 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[words/楽経]] in [[Redeeming the Six Arts]]
-- [[經典]] in [[Redeeming the Six Arts]]
 - [[信条]] in [[bible/基督敎 elements]]
 - [[尼西亜]] in [[bible/基督敎 elements]]
 - [[使徒]] in [[bible/基督敎 elements]]
