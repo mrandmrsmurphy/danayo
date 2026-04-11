@@ -35,4 +35,4 @@ tags:
 ```
 ## Notes
 
-- [[錀琴]] roentgens (unit of radiation)
+- [[../words/錀琴]] roentgens (unit of radiation)

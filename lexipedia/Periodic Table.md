@@ -69,4 +69,4 @@ tags:
 103. Lr
 
 
-111 leads to the name [[錀琴]] for röntgens
+111 leads to the name <ruby>[錀琴](/words/錀琴.md)<rt>ㄌㄛㄋㄍㄨㄇ</rt></ruby> for röntgens
