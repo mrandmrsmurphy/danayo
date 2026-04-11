@@ -1,7 +1,7 @@
 ---
-mandarin: "diǎn"
-cantonese: "dim2"
-korean: "점"
+mandarin: diǎn
+cantonese: dim2
+korean: 점
 korean_native: 점
 japanese:
   - TEN
