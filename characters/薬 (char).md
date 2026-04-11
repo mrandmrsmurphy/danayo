@@ -1,7 +1,7 @@
 ---
-mandarin: "yào"
-cantonese: "yeuk6"
-korean: "약"
+mandarin: yào
+cantonese: yeuk6
+korean: 약
 korean_native: 약
 japanese:
   - YAKU
@@ -34,6 +34,7 @@ aliases:
 注音: ˙ㄚㄎ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 薬.
 >For the word, see [薬](words/薬.md)
