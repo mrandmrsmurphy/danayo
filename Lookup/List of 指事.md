@@ -99,18 +99,18 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 8. <ruby>[下](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down
 9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄥ</rt></ruby> die - "edge of a knife"
 10. <ruby>[小](/characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby> - three small dots = small
+11. <ruby>[寸 (char)](/characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> a line on the hand, emphasizing the elbow.
 ### 4
 11. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby> center of a square
-12. 乏
-13. 予
-14. 今 (char)
-15. 介
-16. 六 (char)
-17. 厄
-18. 尹
-19. [[尺 (char)]] A man (人) with a mark (乙) on his leg to indicate 10 cun (寸) above the foot.
-20. 幻
-21. 欠
+12. <ruby>[乏](/characters/乏.md)<rt>ㄅㄚㄆ</rt></ruby> reversal of "right"
+13. <ruby>[今](/characters/今%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> inverted "to speak"
+14. [[介]]
+15. [[六 (char)]]
+16. [[厄]]
+17. [[尹]]
+18. [[尺 (char)]] A man (人) with a mark (乙) on his leg to indicate 10 cun (寸) above the foot.
+19. [[幻]]
+20. [[欠]]
 ### 5
 22. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, originally "breathing"
 23. 丘 (char)

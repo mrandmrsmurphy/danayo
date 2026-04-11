@@ -17,7 +17,7 @@ grade_level: "3"
 pos: ""
 english:
   - -er
-羅馬字: "\bca"
+羅馬字: "ca"
 韓文: 차
 joyo_level: "3"
 hsk_level: ""
