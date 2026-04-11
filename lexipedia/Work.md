@@ -7,14 +7,14 @@
 - patch
 - produce
 - provide
-- practicle
+- practical 
 - remake
 - skill
 - supply
 - structure
 - task
 - work
-- 
+
 - invent
 - toil
 - artificial
@@ -24,3 +24,6 @@
 adjust
 guild
 factory
+
+## Addendum
+- retire <ruby>[退職](/words/退職.md)<rt>ㄊㄛ˙ㄐㄧㄎ</rt></ruby>
