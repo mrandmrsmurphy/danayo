@@ -113,9 +113,9 @@
 
 ## Periodic Table
 55. [[words/砒素]] in [[lexipedia/Periodic Table]]
-56. [[月素]] in [[lexipedia/Periodic Table]]
-57. [[臭素]] in [[lexipedia/Periodic Table]]
-58. [[潜素]] in [[lexipedia/Periodic Table]]
+56. [[words/月素]] in [[lexipedia/Periodic Table]]
+57. [[words/臭素]] in [[lexipedia/Periodic Table]]
+58. [[words/潜素]] in [[lexipedia/Periodic Table]]
 59. [[康金]] in [[lexipedia/Periodic Table]]
 60. [[釩金]] in [[lexipedia/Periodic Table]]
 61. [[色金]] in [[lexipedia/Periodic Table]]
