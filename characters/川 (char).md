@@ -1,7 +1,7 @@
 ---
-mandarin: "chuān"
-cantonese: "cyun1"
-korean: "천"
+mandarin: chuān
+cantonese: cyun1
+korean: 천
 korean_native: 내
 japanese:
   - SEN
@@ -18,8 +18,8 @@ grade_level: "3"
 pos: 名詞
 english:
   - river
-羅馬字: cen
-韓文: 천
+羅馬字: cwan
+韓文: 촨
 joyo_level: "1"
 hsk_level: "4"
 hanmun_edu_level: 中
@@ -29,9 +29,10 @@ graphemic_classification: 象形
 stand_in: 川
 aliases:
   - 巛
-注音: ㄑㄝㄋ
+注音: ㄑˇㄚㄋ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 川.
 >For the word, see [川](words/川.md)
@@ -39,7 +40,8 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-Rivers were difficult to achieve consensus on.  Koreans use [江](characters/江.md) as the default word, though many places have 川 in the name.  In Japan, everything is a 川.  But in China, [河](characters/河.md) is common.  Vietnamese has a native word, but 江 is listed as the old spelling.  This character was chosen because it is so easy, while 江 takes the Japanese meaning of cove/inlet.
+- Pronunciation changed to Mandarin's to use an available syllable
+- Rivers were difficult to achieve consensus on.  Koreans use [江](characters/江.md) as the default word, though many places have 川 in the name.  In Japan, everything is a 川.  But in China, [河](characters/河.md) is common.  Vietnamese has a native word, but 江 is listed as the old spelling.  This character was chosen because it is so easy, while 江 takes the Japanese meaning of cove/inlet.
 
 ## Words
 - [[words/川口]] Kawaguchi
