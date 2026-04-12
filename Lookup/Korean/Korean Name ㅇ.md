@@ -122,7 +122,7 @@ All have been checked for redirects.
 [[縟]] [[褥]] 
 
 ### 용 
-[溶](characters/溶.md) [[鎔]] [[瑢]] [[榕]] [[蓉]] [[涌]] [[埇]] [踊](characters/踊.md) [[鏞]] [茸](characters/茸.md) [[墉]] [甬](characters/甬.md) [[俑]] [傭](characters/傭.md) [[慂]] [[聳]] [[傛]] [[槦]] [[宂]] 
+[溶](characters/溶.md) [鎔](../../characters/溶.md) [[瑢]] [[榕]] [[蓉]] [[涌]] [[埇]] [踊](characters/踊.md) [[鏞]] [茸](characters/茸.md) [[墉]] [甬](characters/甬.md) [[俑]] [傭](characters/傭.md) [[慂]] [[聳]] [[傛]] [[槦]] [[宂]] 
 
 ### 우 
 [佑](characters/佑.md) [祐](characters/祐.md) [禹](characters/禹.md) [[瑀]] [寓](characters/寓.md) [[堣]] [隅](characters/隅%20(char).md) [[玗]] [[釪]] [迂](characters/迂.md) 䨒-->雨 [[旴]] [盂](characters/盂.md) [[禑]] [[紆]] [芋](characters/芋.md) [藕](characters/禺.md) [虞](characters/虞.md) 雩-->雨 [[扜]] [[圩]] [[慪]] [[燠]] [[㥥]] [俁](characters/俁.md) [[邘]] 

@@ -45,7 +45,7 @@ These have been checked for redirects.
 [穆](characters/穆.md) [[鶩]] [沐](characters/沐.md)
 
 ### 몰 
-[[歿]]
+[歿](../../characters/没%20(char).md)
 
 ### 몽 
 [朦](characters/蒙.md)
