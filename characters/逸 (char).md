@@ -1,7 +1,7 @@
 ---
-mandarin: "yì"
-cantonese: "jat6"
-korean: "일"
+mandarin: yì
+cantonese: jat6
+korean: 일
 korean_native: ""
 japanese:
   - ITSU
@@ -29,6 +29,7 @@ graphemic_classification: 會意
 stand_in: 逸
 aliases:
   - 𨓜
+  - 佚
 注音: ㄧㄊ
 tags:
   - character
@@ -39,5 +40,7 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[安逸]]

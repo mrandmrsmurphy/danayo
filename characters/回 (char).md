@@ -37,7 +37,6 @@ tags:
 ---
 >[!tip] This is a page about the character 回.
 >For the word, see [回](words/回.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -45,6 +44,10 @@ tags:
 
 ## Words
 - <ruby>[回路](/words/回路.md)<rt>ㄏㄛ˙ㄌㄛ</rt></ruby> - loop, circuit 
+- [[迂回]]
+- [[回天]]
+- [[回転]]
+- [[回廊]]
 
 ## Chengyu
 - <ruby>[起死回生](/chengyu/起死回生.md)<rt>ㄎㄧㄙㄧ˙ㄏㄛ˙ㄙㄚㄥ</rt></ruby>

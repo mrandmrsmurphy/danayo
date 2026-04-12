@@ -4,7 +4,7 @@ All have been checked for redirects.
 [娥](characters/娥.md) [峨](characters/峨.md) [[衙]] [[妸]] [俄](characters/俄.md) [啞](characters/唖.md) [[莪]] [蛾](characters/蛾%20(char).md) [[訝]] [鴉](characters/烏.md) [鵝](characters/鵝.md) [阿](characters/阿%20(char).md) [[婀]] [[哦]] [[硪]] [[皒]] [[砑]] [[婭]]
 
 ### 악 
-樂 --> 楽 [[堊]] [嶽](characters/岳.md) [[愕]] [握](characters/握.md) [渥](characters/渥.md) [鄂](characters/鄂.md) [[鍔]] [顎](characters/顎.md) [鰐](characters/鰐.md) [[齷]] 
+樂 --> 楽 堊-->亜 [嶽](characters/岳.md) [[愕]] [握](characters/握.md) [渥](characters/渥.md) [鄂](characters/鄂.md) [[鍔]] [顎](characters/顎.md) [鰐](characters/鰐.md) [[齷]] 
 
 ### 안 
 [晏](characters/晏.md) [按](characters/按.md) [鞍](characters/鞍.md) [鮟](characters/安.md) [[𤎝]] [[姲]] [[婩]] 
