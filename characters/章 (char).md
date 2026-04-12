@@ -35,10 +35,12 @@ tags:
 ---
 >[!tip] This is a page about the character 章.
 >For the word, see [章](words/章.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
-by loan, "octopus" but needs [[章魚]]
+## Chengyu
+- [[断章取義]]
+## Words
+- by loan, "octopus" but needs [[章魚]]

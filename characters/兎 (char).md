@@ -40,3 +40,6 @@ kwin: true
 ```
 ## Notes
 - Dropped from the Korean HS list in 2000.
+
+## Chengyu
+- [[守株待兎]]

@@ -45,3 +45,7 @@ tags:
 ```
 ## Notes
 - 形声: OC \*kʰoːŋ, \*kʰoːŋs): semantic [[Radical 116|穴]] (“cave, hole”) + phonetic [[工]] (OC \*koːŋ).
+
+
+## Chengyu
+- [[空前絶後]]

@@ -41,5 +41,7 @@ tags:
 ```
 ## Notes
 
+## Chengyu
+- [[神経衰]]
 ## Words 
 - <ruby>[神巫](/words/神巫.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> - shaman, wizard

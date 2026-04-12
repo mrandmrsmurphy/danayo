@@ -41,6 +41,8 @@ tags:
 -  形声 (OC \*siŋ): phonetic [[characters/辛]] (OC \*siŋ) + semantic [斤](Radical%20069) — to chop wood. Original form of [薪](characters/薪.md) (OC \*siŋ, “firewood”). The character was later borrowed to represent 新 (OC \*siŋ, “new”) as an instance of jiajie ([假借](words/仮借.md)).  A semantic [木 (char)](characters/木%20(char).md) was later added in the bronze inscriptions which merged with the 辛.
 - [SKIP-1-9-4](lookup/SKIP/SKIP-1/SKIP-1-9-4.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) - [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
+## Chengyu
+- [[温故知新]]
 ## Words
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
 - <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> - New Year

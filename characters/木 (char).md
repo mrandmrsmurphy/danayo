@@ -40,9 +40,10 @@ tags:
 ---
 >[!tip] This is a page about the character 木.
 >For the word, see [木](words/木.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- [[朽木粪墙]]

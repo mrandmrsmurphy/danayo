@@ -38,5 +38,8 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+
+## Chengyu
+- [[喜怒哀楽]]
 ## Words
 - [[遷怒]]
