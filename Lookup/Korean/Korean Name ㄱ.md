@@ -179,7 +179,7 @@ This has been checked for redirects.
 ## ㅣ
 
 ### 기 
-[[淇]] [[琪]] [[璂]] [棋](characters/棋.md) [[祺]] [[錤]] [[騏]] [麒](characters/麒.md) [[玘]] [杞](characters/杞.md) [埼](characters/埼.md) [崎](characters/埼.md) [[琦]] [[綺]] [[錡]] [箕](characters/箕.md) [岐 (char)](characters/岐%20(char).md) [汽](characters/汽.md) [沂](characters/祈.md) [[圻]] [[耆]] [璣](characters/璣.md) [磯](characters/磯.md) [[譏]] [冀](characters/希.md) [[驥]] [[嗜]] [[暣]] [伎](characters/伎.md) [[夔]] [妓](characters/妓.md) [朞](characters/期%20(char).md) [[畸]] [祁](characters/祁.md) [祇](characters/祇.md) [[羈]] [[耭]] [肌](characters/肌.md) [饑](characters/飢.md) [[稘]]
+[[淇]] [[琪]] [[璂]] [棋](characters/棋.md) [[祺]] [[錤]] [[騏]] [麒](characters/麒.md) [[玘]] [杞](characters/杞.md) [埼](characters/埼.md) [崎](characters/埼.md) [[琦]] [綺](../../characters/奇.md) [[錡]] [箕](characters/箕.md) [岐 (char)](characters/岐%20(char).md) [汽](characters/汽.md) [沂](characters/祈.md) [[圻]] [[耆]] [璣](characters/璣.md) [磯](characters/磯.md) [[譏]] [冀](characters/希.md) [[驥]] [[嗜]] [[暣]] [伎](characters/伎.md) [[夔]] [妓](characters/妓.md) [朞](characters/期%20(char).md) [[畸]] [祁](characters/祁.md) [祇](characters/祇.md) [[羈]] [[耭]] [肌](characters/肌.md) [饑](characters/飢.md) [[稘]]
 
 ### 길 
 [佶](characters/吉%20(char).md) [桔](characters/桔.md) [[姞]] [[拮]]

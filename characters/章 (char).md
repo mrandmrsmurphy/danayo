@@ -44,4 +44,5 @@ tags:
 - [[断章取義]]
 - [[周章狼狽]]
 ## Words
+- [[徽章]]/記章
 - by loan, "octopus" but needs [[章魚]]

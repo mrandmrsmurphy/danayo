@@ -35,9 +35,12 @@ tags:
 ---
 >[!tip] This is a page about the character 凶.
 >For the word, see [凶](words/凶.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[凶悪]]
+- [[凶器]]
+- [[凶手]]
