@@ -27,6 +27,8 @@ graphemic_classification: 會意
 stand_in: 条
 aliases:
   - 條
+  - 縧
+  - 絛
 注音: ㄐㄛ
 kwin: true
 tags:

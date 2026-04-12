@@ -1,7 +1,7 @@
 ---
-mandarin: "tuì"
-cantonese: "teoi3"
-korean: "퇴"
+mandarin: tuì
+cantonese: teoi3
+korean: 퇴
 korean_native: ""
 japanese:
   - TAI
@@ -29,6 +29,7 @@ mc_id: 528
 graphemic_classification: 會意
 stand_in: 退
 aliases:
+  - 頽
 注音: ㄊㄧ˙
 tags:
   - character

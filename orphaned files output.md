@@ -37,7 +37,7 @@
 4. [[words/乞丐.md]]
 5. [[words/乱離.md]]
 6. [[words/乳酪.md]]
-7. [[words/乾淨.md]]
+7. [[words/乾浄]]
 8. [[words/乾達婆.md]]
 9. [[words/了解.md]]
 10. [[words/予習.md]]
