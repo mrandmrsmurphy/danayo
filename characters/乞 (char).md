@@ -38,3 +38,6 @@ tags:
 ```
 ## Notes
 - Added to the Korean HS list in 2000.
+
+## Words
+- <ruby>[乞丐](/words/乞丐.md)<rt>ㄎㄧㄊㄍㄚ˙</rt></ruby> "beggar"

@@ -1,7 +1,7 @@
 ---
-mandarin: "kuò"
-cantonese: "fut3"
-korean: "활"
+mandarin: kuò
+cantonese: fut3
+korean: 활
 korean_native: ""
 japanese:
   - KATSU
@@ -12,13 +12,13 @@ middle_chinese_final: uɑt
 stroke_count: 17
 radical: 門
 skip_number: 3-8-9
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - broad
   - wide
 羅馬字: kwad
-韓文: 쾉
+韓文: 괃
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -35,9 +35,10 @@ tags:
 ---
 >[!tip] This is a page about the character 闊.
 >For the word, see [闊](words/闊.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- <ruby>[久闊](/words/久闊.md)<rt>ㄍ˙ㄨㄎˇㄚㄊ</rt></ruby> "long period of separation"

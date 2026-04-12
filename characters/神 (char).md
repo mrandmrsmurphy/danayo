@@ -42,6 +42,7 @@ tags:
 ## Notes
 
 ## Chengyu
-- [[神経衰]]
+- [神経衰弱](../chengyu/神経衰弱.md)
+- [[除我莫神]]
 ## Words 
 - <ruby>[神巫](/words/神巫.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> - shaman, wizard

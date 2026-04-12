@@ -33,7 +33,10 @@ tags:
 ---
 >[!tip] This is a page about the character 久.
 >For the word, see [久](words/久.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+
+## Words
+- <ruby>[久闊](/words/久闊.md)<rt>ㄍ˙ㄨㄎˇㄚㄊ</rt></ruby> "long period of separation"

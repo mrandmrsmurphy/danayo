@@ -40,3 +40,6 @@ tags:
 ## Notes
 ### Derived Characters
 - <ruby>[匙](/characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
+
+## Chengyu
+- [[色即是空]]

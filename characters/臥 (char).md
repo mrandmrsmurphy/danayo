@@ -37,5 +37,7 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Chengyu
+- [[臥薪嘗胆]]

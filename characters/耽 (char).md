@@ -33,7 +33,12 @@ tags:
 ---
 >[!tip] This is a page about the character 耽.
 >For the word, see [耽](words/耽.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
+
+## Words
+- [[眈眈]] glaring covetously 
+## Chengyu
+- [[虎視耽耽]]
