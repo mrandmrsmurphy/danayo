@@ -35,9 +35,11 @@ tags:
 ---
 >[!tip] This is a page about the character 挟.
 >For the word, see [挟](words/挟.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[挟攻]]
+- [[挟撃]]

@@ -29,6 +29,8 @@ stand_in: 薫
 aliases:
   - 薰
   - 熏
+  - 燻
+  - 爋
   - 𤋱
 注音: ㄏㄨㄋ
 tags:

@@ -26,6 +26,7 @@ mc_id: 2640
 graphemic_classification: 指事
 stand_in: 欠
 aliases:
+  - 歇
 注音: ㄎ˙ㄚㄇ
 tags:
   - character
@@ -36,5 +37,7 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[間欠]] not 間歇

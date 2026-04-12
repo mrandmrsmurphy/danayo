@@ -30,6 +30,7 @@ aliases:
   - 决
   - 叏
   - 夬
+  - 蹶
 注音: ㄎˇㄝㄊ
 tags:
   - character

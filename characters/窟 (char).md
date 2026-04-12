@@ -1,7 +1,7 @@
 ---
-mandarin: "kū"
-cantonese: "fat1"
-korean: "굴"
+mandarin: kū
+cantonese: fat1
+korean: 굴
 korean_native: ""
 japanese:
   - KUTSU
@@ -21,7 +21,7 @@ english:
 韓文: 콛
 joyo_level: 表外字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 名
 danayo_id: 6244
 mc_id: 3629
 graphemic_classification: 屈
