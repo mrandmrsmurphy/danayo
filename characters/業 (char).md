@@ -42,4 +42,7 @@ tags:
 ```
 ## Notes
 
+## Words
+- [[業業]] (ideo) lofty; large ; fearfully; apprehensively
+## Chengyu
 - <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄥㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>

@@ -48,3 +48,6 @@ tags:
 ## Words
 - <ruby>[魚雷](/words/魚雷.md)<rt>˙ㄛㄌㄛ˙</rt></ruby> "torpedo"
 - <ruby>[周魚](/words/周魚.md)<rt>ㄐㄨˇ·˙ㄛ</rt></ruby> "sea bream"
+
+## Chengyu
+- [[沈魚落雁]]

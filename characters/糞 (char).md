@@ -40,4 +40,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- Pronunciation altered to -m so that cursing has no homophony.
+- Pronunciation altered to -m so that there's no homophony.
+
+## Chengyu
+- [[朽木糞牆]]

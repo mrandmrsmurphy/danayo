@@ -43,3 +43,6 @@ tags:
 ```
 ## Notes
 - Derived characters: [呼](characters/呼%20(char).md)
+
+## Words
+- To make rhetorical questions, use [[不亦V乎]]
