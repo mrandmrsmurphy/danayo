@@ -19,6 +19,7 @@ pos: ""
 english:
   - anti-
   - wrong side up
+  - rebel
 羅馬字: fon
 韓文: 뽄
 joyo_level: "3"
@@ -29,6 +30,7 @@ mc_id: 186
 graphemic_classification: 會意
 stand_in: 反
 aliases:
+  - 叛
 注音: ㄈㄛㄋ
 tags:
   - character
@@ -39,5 +41,6 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- We follow Japanese and fold 叛 into this character.
+##

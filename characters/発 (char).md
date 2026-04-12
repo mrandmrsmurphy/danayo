@@ -34,6 +34,7 @@ aliases:
   - 發
   - 醗
   - 醱
+  - 潑
 注音: ㄈㄚㄊ
 tags:
   - character
