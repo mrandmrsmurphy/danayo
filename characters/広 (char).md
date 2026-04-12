@@ -41,5 +41,7 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[広範]] for 廣泛 , 广泛, 廣範 , 広汎
