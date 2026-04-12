@@ -42,3 +42,6 @@ tags:
 
 ### Derived Characters
 - [全 (char)](characters/全%20(char).md)
+
+## Chengyu
+- [[尊王㐮夷]]

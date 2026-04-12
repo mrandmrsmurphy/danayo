@@ -74,3 +74,8 @@ tags:
 - [[烏龍茶]] - oolong tea
 - [[龍巻]] - tornado
 - [[words/龍断]] - to monopolize (壟斷)
+- [[烏龍麺]]
+- [[龍王]]
+- [[龍眼]]
+## Chengyu
+- [[画龍点睛]]

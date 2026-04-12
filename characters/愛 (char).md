@@ -43,5 +43,8 @@ tags:
 ```
 ## Notes
 
-
+## Words
 - <ruby>[可愛](/words/可愛.md)<rt>ㄎㄚ·ㄚ˙</rt></ruby> - cute
+
+## Chengyu
+- [[愛偕者神]]
