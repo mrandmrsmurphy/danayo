@@ -39,5 +39,5 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- In Japanese, this character is sometimes replaced with 画 (daiyōji).

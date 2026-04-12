@@ -9,7 +9,7 @@ These are characters with a clear top-bottom split, and 11 strokes in the top se
 3. [[SKIP-2-11-3]] 塹	墅	塾	奬
 4. [[SKIP-2-11-4]] 慾	勲	撃	暫	熟	熱	黙	慰	慙 慫	憇	摯	樂	槧	漿	熈	熨	熬	獎 熙
 5. [[SKIP-2-11-5]] 磬	曁	整	舉	盥	
-6. [[SKIP-2-11-6]] 螯	螫 蟄	繋	麋	翳	聳	聲	擧	
+6. [[SKIP-2-11-6]] 螯	螫 蟄	繋	麋	聳	聲	擧	
 7. [[SKIP-2-11-7]] 麌	謦 豐	贄	贅	蹙	醫	
 8. [[SKIP-2-11-8]] 鏖	鏨	麑	麕
 9. [[SKIP-2-11-9]] 響	馨	譽	
