@@ -20,8 +20,8 @@ pos: 名詞
 english:
   - cart
   - car
-羅馬字: ca
-韓文: 차
+羅馬字: cwa
+韓文: 촤
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,9 +31,10 @@ graphemic_classification: 象形
 stand_in: 車
 aliases:
   - 车
-注音: ㄑㄚ
+注音: ㄑˇㄚ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 車.
 >For the word, see [車](words/車.md)
@@ -41,3 +42,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- Pronunciation altered to get a free syllable
