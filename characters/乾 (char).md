@@ -35,9 +35,12 @@ tags:
 ---
 >[!tip] This is a page about the character 乾.
 >For the word, see [乾](words/乾.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[乾浄]]
+- [[乾達婆]]
+- 

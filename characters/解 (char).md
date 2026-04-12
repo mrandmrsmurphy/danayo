@@ -34,10 +34,16 @@ tags:
 ---
 >[!tip] This is a page about the character 解.
 >For the word, see [解](words/解.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 ## Notes
+
+## Words
+- [[了解]]
+- [[理解]]
+- [[解放]]
+- [[諒解]]
+- 
 - beware of [[解廌]] not 獬廌/獬豸
+
