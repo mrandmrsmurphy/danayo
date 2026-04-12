@@ -41,7 +41,9 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 - [[Grade 1]], [[Korean MS]], [[Jōyō - Kyōiku]], HSK 2
 - [[ㄋㄧㄆ]], [[Stroke 02]], [[SKIP-4-2-4]]
+
+## Chengyu
+- [[単刀直入]]

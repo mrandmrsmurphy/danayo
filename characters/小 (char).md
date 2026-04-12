@@ -44,3 +44,4 @@ tags:
 
 ## Words
 - [[小人]] - petty person
+- [[小冊子]]

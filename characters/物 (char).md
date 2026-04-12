@@ -43,3 +43,6 @@ tags:
 - 形声 (OC \*mɯd): semantic [[Radical 093|牛]] + phonetic [勿](characters/勿%20(char).md) (OC \*mɯd).
 - [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md)
 - [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
+
+## Chengyu
+- [[勿貪隣物]]

@@ -71,3 +71,6 @@ tags:
 - [[来月]] next month
 - [[満月]] month anniversary
 - [[月刊]] monthly magazine
+
+## Chengyu
+- [[呉牛喘月]]

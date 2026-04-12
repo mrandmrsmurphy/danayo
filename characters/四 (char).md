@@ -52,5 +52,8 @@ tags:
 - [[Grade 1]], [[Korean MS]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]]
 - The anti-forgery 'four' is [[肆]].
 - In order to keep the ancient Far Eastern symbolism of 'four' being homophonous with 'death', the Korean pronunciation as 사 was *not* adopted for this character. 
+
+## Chengyu
+- [[四面楚歌]]
 ### Links
 ![[nav/Numerals]]
