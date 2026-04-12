@@ -1,7 +1,7 @@
 ---
-mandarin: "gōu"
-cantonese: "kau1"
-korean: "구"
+mandarin: gōu
+cantonese: kau1
+korean: 구
 korean_native: ""
 japanese:
   - KOU
@@ -28,6 +28,7 @@ graphemic_classification: 冓
 stand_in: 溝
 aliases:
   - 沟
+  - 媾
 注音: ㄍㄛˇ
 tags:
   - character

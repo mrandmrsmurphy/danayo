@@ -1,7 +1,7 @@
 ---
-mandarin: "jiāo"
-cantonese: "gaau1"
-korean: "교"
+mandarin: jiāo
+cantonese: gaau1
+korean: 교
 korean_native: ""
 japanese:
   - KOU
@@ -30,6 +30,7 @@ graphemic_classification: 象形
 stand_in: 交
 aliases:
   - 胶
+  - 淆
 注音: ㄍ˙ㄛˇ
 tags:
   - character
