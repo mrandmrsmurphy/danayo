@@ -1,7 +1,7 @@
 ---
-mandarin: "guō"
-cantonese: "gwok3"
-korean: "곽"
+mandarin: guō
+cantonese: gwok3
+korean: 곽
 korean_native: ""
 japanese:
   - KAKU
@@ -26,6 +26,7 @@ mc_id: 821
 graphemic_classification: 會意
 stand_in: 郭
 aliases:
+  - 廓
 注音: ㄍˇㄚㄎ
 tags:
   - character
@@ -36,5 +37,6 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
+- [[郭清]]
+- [[輪郭]]

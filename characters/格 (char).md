@@ -40,5 +40,7 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[骨格]]
