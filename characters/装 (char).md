@@ -1,7 +1,7 @@
 ---
-mandarin: "zhuāng"
-cantonese: "zong1"
-korean: "장"
+mandarin: zhuāng
+cantonese: zong1
+korean: 장
 korean_native: 꾸밀
 japanese:
   - SOU
@@ -17,9 +17,9 @@ grade_level: "4"
 pos: ""
 english:
   - dress up
-  - pretend
+  - clothe
 羅馬字: jwang
-韓文: "좡"
+韓文: 좡
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -29,6 +29,7 @@ graphemic_classification: 壮
 stand_in: 装
 aliases:
   - 裝
+  - 裳
 注音: ㄐˇㄚㄥ
 tags:
   - character

@@ -317,7 +317,7 @@
 [削 (char)](../../characters/削%20(char).md) (깎을 삭) [朔](../../characters/朔.md) (초하루 삭)
 
 #### 상
-[嘗](../../characters/嘗.md) (맛볼 상) [裳](../../characters/裳.md) (치마 상) [詳](../../characters/詳.md) (자세할 상) [祥](../../characters/祥.md) (상서로울 상) [床 (char)](../../characters/床%20(char).md) (상 상) [象](../../characters/象.md) (코 끼리 상) [像](../../characters/像.md) (형상 상) [桑](../../characters/桑.md) (뽕나무 상) [償](../../characters/償.md) (갚을 상) [狀](../../characters/状.md) (형상 상)
+[嘗](../../characters/嘗.md) (맛볼 상) [裳](../../characters/装%20(char).md) (치마 상) [詳](../../characters/詳.md) (자세할 상) [祥](../../characters/祥.md) (상서로울 상) [床 (char)](../../characters/床%20(char).md) (상 상) [象](../../characters/象.md) (코 끼리 상) [像](../../characters/像.md) (형상 상) [桑](../../characters/桑.md) (뽕나무 상) [償](../../characters/償.md) (갚을 상) [狀](../../characters/状.md) (형상 상)
 
 #### 쌍
 [雙](../../characters/双%20(char).md) (쌍 쌍)

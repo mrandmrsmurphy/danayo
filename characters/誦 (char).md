@@ -1,7 +1,7 @@
 ---
-mandarin: "sòng"
-cantonese: "zung6"
-korean: "송"
+mandarin: sòng
+cantonese: zung6
+korean: 송
 korean_native: ""
 japanese:
   - SHOU
@@ -13,7 +13,7 @@ middle_chinese_final: ɨoŋ
 stroke_count: 14
 radical: 言
 skip_number: 1-7-7
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - recite
@@ -22,7 +22,7 @@ english:
 羅馬字: song
 韓文: 송
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 7196
 mc_id: 1499
