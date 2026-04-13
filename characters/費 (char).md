@@ -17,8 +17,8 @@ grade_level: "4"
 pos: ""
 english:
   - expense
-羅馬字: fui
-韓文: 쀠
+羅馬字: fai
+韓文: 빼
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -28,7 +28,7 @@ graphemic_classification: 弗
 stand_in: 費
 aliases:
   - 费
-注音: ㄈㄨ˙
+注音: ㄈㄚ˙
 tags:
   - character
 ---
