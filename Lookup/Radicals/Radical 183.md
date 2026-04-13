@@ -6,7 +6,7 @@ date-last-perfect: 2026-02-25
 > [Radicals](Radicals.md)
 > Abbreviated 飞
 
-1. <ruby>[[飛]]<rt>ㄆㄧ</rt></ruby> - fly
+1. <ruby>[[../../characters/飛 (char)]]<rt>ㄆㄧ</rt></ruby> - fly
 
 ### Redirects
 - 䬡 --> 翻

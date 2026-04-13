@@ -8,7 +8,7 @@ skip_number: 4-9-1
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-1. <ruby>[飛](/characters/飛.md)<rt>ㄆㄧ</rt></ruby> - fly
+1. <ruby>[飛 (char)](../../../characters/飛%20(char).md)<rt>ㄆㄧ</rt></ruby> - fly
 
 ## Datacheck
 ```dataview

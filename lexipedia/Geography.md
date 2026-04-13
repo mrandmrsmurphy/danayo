@@ -161,7 +161,7 @@ Population density (<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛˇ</rt></r
 - <ruby>[豪洲](words/豪洲.md)<rt>ㄏㄚˇㄐㄨˇ</rt></ruby>
 - <ruby>[新西蘭](words/新西蘭.md)<rt>ㄙㄧㄋㄙㄝ˙ㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
-- Fiji ([[斐]][[済|濟]]) [[飛]][[枝]]
+- Fiji ([[斐]][[済|濟]]) [[../characters/飛 (char)]][[枝]]
 Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚ˙·˙ㄚㄥ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧ˙·ˇㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛˇㄑㄚˇ</rt></ruby>.
 
 ## The Global System

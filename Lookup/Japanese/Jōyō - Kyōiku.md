@@ -643,7 +643,7 @@ The following prefecture names were added in 2017:
 634. [順](characters/順.md) : jun	 –	obey
 635. [願](characters/願.md) : gan	nega-u	request
 636. [類](characters/類.md) : rui	 –	sort
-637. [飛](characters/飛.md) : hi	to-bu	fly
+637. [飛 (char)](../../characters/飛%20(char).md) : hi	to-bu	fly
 638. [飯](characters/飯.md) : han	meshi	meal
 639. [養](characters/養.md) : yō	yashina-u	foster
 640. [香](characters/香.md) - fragrant 

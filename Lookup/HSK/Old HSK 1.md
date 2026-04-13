@@ -379,8 +379,8 @@
 [訪](../../characters/訪.md): 1
 [访](../../characters/訪.md): 1
 [放](../../characters/放.md): 1
-[飛](../../characters/飛.md): 1
-[飞](../../characters/飛.md): 1
+[飛 (char)](../../characters/飛%20(char).md): 1
+[飞](../../characters/飛%20(char).md): 1
 [非 (char)](../../characters/非%20(char).md): 1
 [豐](../../characters/豊.md): 1
 [員](../../characters/員.md): 1
