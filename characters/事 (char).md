@@ -36,9 +36,17 @@ tags:
 ---
 >[!tip] This is a page about the character 事.
 >For the word, see [事](words/事.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
 ## Notes
+
+## Words
+- [[事実]]
+- [[事情]]
+- [[事物]]
+- [[故事]]
+- [[百科事典]]
+- [[禍事]]
+- [[行事]]
+- [[逸事]]

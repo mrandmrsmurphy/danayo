@@ -36,12 +36,15 @@ tags:
 ---
 >[!tip] This is a page about the character 連.
 >For the word, see [連](words/連.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 
-# Notes
+## Words
+- [[互連網]]
+- [[対連]]
+- 
 - As in Japanese, we officially merge 聯 into this character.  Hence, we find words like
 	- [[words/連合]] not 聯合
 	- [[連盟]] not 聯盟
