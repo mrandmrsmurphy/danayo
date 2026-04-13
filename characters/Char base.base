@@ -6,9 +6,6 @@ formulas:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - middle_chinese_initial == "v"
     order:
       - file.name
       - formula.score
@@ -16,7 +13,10 @@ views:
       - 注音
       - 羅馬字
       - 韓文
+      - english
     sort:
+      - property: english
+        direction: ASC
       - property: 注音
         direction: ASC
       - property: cantonese
@@ -49,8 +49,6 @@ views:
         direction: DESC
       - property: skip_number
         direction: DESC
-      - property: english
-        direction: ASC
       - property: radical
         direction: ASC
       - property: pos

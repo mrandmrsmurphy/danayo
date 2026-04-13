@@ -14,6 +14,8 @@ views:
       - english
       - 品詞
     sort:
+      - property: english
+        direction: ASC
       - property: 品詞
         direction: ASC
       - property: 韓文

@@ -7,6 +7,7 @@ japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
+  - phầu
 middle_chinese_initial: f
 middle_chinese_final: ɨu
 stroke_count: 7
@@ -16,8 +17,8 @@ grade_level: "4"
 pos: ""
 english:
   - no
-羅馬字: fuu
-韓文: 뿟
+羅馬字: fau
+韓文: 빳
 joyo_level: "6"
 hsk_level: "4"
 hanmun_edu_level: 中
@@ -26,7 +27,7 @@ mc_id: 1170
 graphemic_classification: 不
 stand_in: 否
 aliases:
-注音: ㄈㄨˇ
+注音: ㄈㄚˇ
 tags:
   - character
 ---
