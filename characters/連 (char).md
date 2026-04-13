@@ -44,7 +44,8 @@ tags:
 ## Words
 - [[互連網]]
 - [[対連]]
-- 
+- [[連接]]
+- [[連接詞]]
 - As in Japanese, we officially merge 聯 into this character.  Hence, we find words like
 	- [[words/連合]] not 聯合
 	- [[連盟]] not 聯盟
