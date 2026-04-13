@@ -16,8 +16,8 @@ grade_level: 先進
 pos: ""
 english:
   - hey
-羅馬字: "'ei"
-韓文: 에
+羅馬字: we
+韓文: 워
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 中
@@ -27,9 +27,10 @@ graphemic_classification: 厶
 stand_in: 矣
 aliases:
   - 欸
-注音: ㄝ˙
+注音: ˇㄝ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 矣.
 >For the word, see [矣](words/矣.md)
