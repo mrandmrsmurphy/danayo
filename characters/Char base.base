@@ -10,17 +10,19 @@ views:
       - file.name
       - formula.score
       - danayo_id
-      - 注音
-      - 羅馬字
       - 韓文
       - english
+      - cantonese
+      - mandarin
     sort:
+      - property: mandarin
+        direction: ASC
+      - property: cantonese
+        direction: ASC
       - property: english
         direction: ASC
       - property: 注音
         direction: ASC
-      - property: cantonese
-        direction: DESC
       - property: middle_chinese_final
         direction: ASC
       - property: middle_chinese_initial
@@ -57,8 +59,6 @@ views:
         direction: ASC
       - property: japanese
         direction: DESC
-      - property: mandarin
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: jyutping
