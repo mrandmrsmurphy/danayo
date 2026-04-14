@@ -170,6 +170,21 @@ Many, many examples with final -ㄆ,-ㄊ,-ㄎ,-ㄋ,-ㄇ, -ㄥ do not exist, but 
 - ㄏ : [[ㄏ˙ㄨ]], ㄏ˙ㄨˇ, ㄏ˙ㄨㄆ, ㄏ˙ㄨㄊ, ㄏ˙ㄨㄎ, ㄏ˙ㄨㄇ, ㄏ˙ㄨㄋ, [[ㄏ˙ㄨㄥ]]
 
 ## Foreign vowel (◌)
+      ㄜ ㄜㄆ ㄜㄊ ㄜㄎ ㄜㄇ ㄜㄋ ㄜㄥ
+ㄅ
+ㄆ
+ㄇ
+ㄈ
+ㄉ
+ㄊ
+ㄋ
+ㄍ
+ㄎ
+ㄏ
+ㄐ
+ㄑ
+ㄙ
+
 ㄈㄜ, ㄅㄜ, ㄆㄜ, ㄇㄜ, ㄉㄜ, ㄊㄜ, ㄋㄜ, ㄌㄜ, ㄐㄜ, ㄑㄜ, ㄙㄜ, ㄍㄜ, ㄎㄜ, ㄜ, and ㄏㄜ are all possible when transcribing foreign words.
 
 ## Base check
