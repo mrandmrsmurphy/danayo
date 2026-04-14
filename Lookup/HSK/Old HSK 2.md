@@ -474,7 +474,7 @@
 [卫](../../characters/衛.md): 3
 [衛](../../characters/衛.md): 3
 [抱](../../characters/抱.md): 3
-[筆 (char)](../../characters/筆%20(char).md): 3
+筆 3
 [笔](../../characters/筆%20(char).md): 3
 [必 (char)](../../characters/必%20(char).md): 3
 [条 (char)](../../characters/条%20(char).md): 3

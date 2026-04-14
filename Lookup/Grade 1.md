@@ -218,7 +218,7 @@ size: 250
 215. <ruby>[短](characters/短%20(char).md)<rt>ㄉˇㄚㄋ</rt></ruby> - short	215	
 216. <ruby>[[開]]<rt>ㄎㄚ˙</rt></ruby> - open	216	
 217. <ruby>[雲](characters/雲%20(char).md)<rt>ㄨㄋ</rt></ruby> - cloud	217	
-218. <ruby>[筆](characters/筆%20(char).md)<rt>ㄅㄧㄊ</rt></ruby> - pen, stylus	218	
+218. <ruby>[筆](characters/筆%20(char).md)<rt>ㄆㄨㄊ</rt></ruby> - pen, stylus	218	
 219. <ruby>[[湖]]<rt>ㄏㄛˇ</rt></ruby> - lake	219	
 220. <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby> - collect	220	
 221. <ruby>[等](characters/等%20(char).md)<rt>ㄉㄨㄥ</rt></ruby> - etc., rank	221	

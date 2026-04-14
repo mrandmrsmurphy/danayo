@@ -26,7 +26,7 @@ tale
 write - <ruby>記録<rt>ㄍㄧㄌㄛㄎ</rt></ruby>
 poem/poetry - <ruby>詩歌<rt>ㄙㄧㄍㄚ</rt></ruby>
 pen - [[筆]]
-pencil - <ruby>鉛筆<rt>˙ㄝㄇㄅㄧㄊ</rt></ruby>
+pencil - <ruby>鉛筆<rt>˙ㄝㄇㄆㄨㄊ</rt></ruby>
 
 ## Visual Arts 
 - draw

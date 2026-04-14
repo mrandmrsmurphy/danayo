@@ -315,7 +315,7 @@
 306. [[飽]]
 307. [報 (char)](../../characters/報%20(char).md)
 308. [背 (char)](../../characters/背%20(char).md)
-309. [[筆]]
+309. [筆 (char)](../../characters/筆%20(char).md)
 310. [[必 (char)]]
 311. [変](../../words/変.md) 變
 312. [[便 (char)]]

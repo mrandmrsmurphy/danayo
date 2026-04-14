@@ -19,7 +19,7 @@ skip_number: 2-6-6
 - [[筒]]
 - [[筈]]
 - [[筏]] - korean name, hyogai
-- [[筆]]
+- [筆 (char)](../../../characters/筆%20(char).md)
 - <ruby>[[裂]]<rt>럭</rt></ruby> - split
 - 單 --> 単
 - 朞 --> 期
