@@ -1,7 +1,7 @@
 ---
-mandarin: "bā"
-cantonese: "baat3"
-korean: "팔"
+mandarin: bā
+cantonese: baat3
+korean: 팔
 korean_native: ""
 japanese:
   - HATSU
@@ -14,13 +14,13 @@ middle_chinese_final: ɣɛt
 stroke_count: 10
 radical: 手
 skip_number: 1-3-7
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - disentangle
   - sell well
-羅馬字: bad
-韓文: 받
+羅馬字: pad
+韓文: 팓
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -29,9 +29,10 @@ mc_id: 8402
 graphemic_classification: 別
 stand_in: 捌
 aliases:
-注音: ㄅㄚㄊ
+注音: ㄆㄚㄊ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 捌.
 >For the word, see [捌](words/捌.md)
