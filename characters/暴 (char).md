@@ -1,13 +1,14 @@
 ---
-mandarin: "bào"
-cantonese: "bou6"
-korean: "포"
+mandarin: bào
+cantonese: bou6
+korean: 포
 korean_native: ""
 japanese:
   - BOU
   - BAKU
 japanese_nanori: ""
 vietnamese:
+  - bộc
 middle_chinese_initial: b
 middle_chinese_final: uk
 stroke_count: 15
