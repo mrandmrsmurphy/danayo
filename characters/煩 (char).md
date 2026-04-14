@@ -31,6 +31,7 @@ aliases:
 注音: ㄈㄛㄇ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 煩.
 >For the word, see [煩](words/煩.md)
