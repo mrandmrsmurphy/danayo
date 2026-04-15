@@ -17,8 +17,8 @@ pos: ""
 english:
   - numerous
   - disorderly
-羅馬字: fun
-韓文: 뿐
+羅馬字: fǝn
+韓文: 쁜
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -28,9 +28,10 @@ graphemic_classification: 分
 stand_in: 紛
 aliases:
   - 纷
-注音: ㄈㄨㄋ
+注音: ㄈㄜㄋ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 紛.
 >For the word, see [紛](words/紛.md)
