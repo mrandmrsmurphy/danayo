@@ -1,7 +1,7 @@
 ---
-mandarin: "jí"
-cantonese: "zik1"
-korean: "즉"
+mandarin: jí
+cantonese: zik1
+korean: 즉
 korean_native: ""
 japanese:
   - SOKU
@@ -20,8 +20,8 @@ english:
   - namely
   - in other words
   - a.k.a.
-羅馬字: jig
-韓文: 직
+羅馬字: jǝg
+韓文: 즉
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中
@@ -31,7 +31,7 @@ graphemic_classification: 會意
 stand_in: 即
 aliases:
   - 卽
-注音: ㄐㄧㄎ
+注音: ㄐㄜㄎ
 tags:
   - character
 ---

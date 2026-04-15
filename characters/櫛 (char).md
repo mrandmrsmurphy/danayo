@@ -1,7 +1,7 @@
 ---
-mandarin: "zhì"
-cantonese: "zit3"
-korean: "즐"
+mandarin: zhì
+cantonese: zit3
+korean: 즐
 korean_native: ""
 japanese:
   - SHITSU
@@ -12,12 +12,12 @@ middle_chinese_final: ɪt
 stroke_count: 17
 radical: 木
 skip_number: 1-4-13
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - comb
-羅馬字: jud
-韓文: 줃
+羅馬字: jǝd
+韓文: 즏
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level:
@@ -27,7 +27,7 @@ graphemic_classification: 節
 stand_in: 櫛
 aliases:
   - 栉
-注音: ㄐㄨㄊ
+注音: ㄐㄜㄊ
 tags:
   - character
 ---

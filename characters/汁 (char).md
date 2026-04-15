@@ -1,7 +1,7 @@
 ---
-mandarin: "zhī"
-cantonese: "zap1"
-korean: "즙"
+mandarin: zhī
+cantonese: zap1
+korean: 즙
 korean_native: ""
 japanese:
   - JUU
@@ -17,8 +17,8 @@ pos: ""
 english:
   - soup
   - juice
-羅馬字: jib
-韓文: 집
+羅馬字: jǝb
+韓文: 즙
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -27,7 +27,7 @@ mc_id: 2312
 graphemic_classification: 十
 stand_in: 汁
 aliases:
-注音: ㄐㄧㄆ
+注音: ㄐㄜㄆ
 tags:
   - character
 ---

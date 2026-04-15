@@ -1,7 +1,7 @@
 ---
-mandarin: "cēng"
-cantonese: "zang1"
-korean: "증"
+mandarin: cēng
+cantonese: zang1
+korean: 증
 korean_native: 일찍
 japanese:
   - ZO
@@ -18,8 +18,8 @@ grade_level: "3"
 pos: ""
 english:
   - great-
-羅馬字: jung
-韓文: 중
+羅馬字: jǝng
+韓文: 증
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 曽
 aliases:
   - 曾
-注音: ㄐㄨㄥ
+注音: ㄐㄜㄥ
 tags:
   - character
 ---

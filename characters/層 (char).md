@@ -16,8 +16,8 @@ grade_level: "4"
 pos: ""
 english:
   - stratum
-羅馬字: cung
-韓文: 충
+羅馬字: cǝng
+韓文: 층
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -27,7 +27,7 @@ graphemic_classification: 曽
 stand_in: 層
 aliases:
   - 层
-注音: ㄑㄨㄥ
+注音: ㄑㄜㄥ
 tags:
   - character
 ---
