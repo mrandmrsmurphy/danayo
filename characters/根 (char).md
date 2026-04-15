@@ -1,7 +1,7 @@
 ---
-mandarin: "gēn"
-cantonese: "gan1"
-korean: "근"
+mandarin: gēn
+cantonese: gan1
+korean: 근
 korean_native: 뿌리
 japanese:
   - KON
@@ -19,8 +19,8 @@ pos: 名詞
 english:
   - root
   - foundation
-羅馬字: gan
-韓文: 간
+羅馬字: gǝn
+韓文: 근
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ mc_id: 1165
 graphemic_classification: 艮
 stand_in: 根
 aliases:
-注音: ㄍㄚㄋ
+注音: ㄍㄜㄋ
 tags:
   - character
 ---

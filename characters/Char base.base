@@ -8,12 +8,12 @@ views:
     name: Table
     filters:
       and:
-        - 羅馬字 == "ga"
+        - 羅馬字 == "tug"
     order:
       - file.name
       - formula.score
       - danayo_id
-      - 韓文
+      - korean
       - english
       - cantonese
       - mandarin
@@ -21,6 +21,8 @@ views:
       - middle_chinese_final
       - stand_in
     sort:
+      - property: korean
+        direction: ASC
       - property: middle_chinese_initial
         direction: ASC
       - property: cantonese
@@ -38,8 +40,6 @@ views:
       - property: 品詞
         direction: ASC
       - property: stroke_count
-        direction: ASC
-      - property: korean
         direction: ASC
       - property: grade_level
         direction: ASC
