@@ -24,8 +24,8 @@ pos: 性詞
 english:
   - second
   - latter (second heavenly stem)
-羅馬字: "'od"
-韓文: 옫
+羅馬字: "'ǝd"
+韓文: 읃
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 中
@@ -36,7 +36,7 @@ stand_in: 乙
 aliases:
   - 釔
   - 钇
-注音: ㄛㄊ
+注音: ㄜㄊ
 date-last-perfect: 2026-03-25
 tags:
   - character

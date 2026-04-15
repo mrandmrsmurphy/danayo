@@ -23,8 +23,8 @@ english:
   - cord
   - string
   - line
-羅馬字: sing
-韓文: 싱
+羅馬字: sǝng
+韓文: 승
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 名
@@ -35,7 +35,7 @@ stand_in: 縄
 aliases:
   - 繩
   - 绳
-注音: ㄙㄧㄥ
+注音: ㄙㄜㄥ
 tags:
   - character
 ---

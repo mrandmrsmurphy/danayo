@@ -8,7 +8,7 @@ views:
     name: Table
     filters:
       and:
-        - 羅馬字 == "tug"
+        - korean == "은"
     order:
       - file.name
       - formula.score
