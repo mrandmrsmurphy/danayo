@@ -19,8 +19,8 @@ grade_level: "2"
 pos: 量詞
 english:
   - individual
-羅馬字: ga
-韓文: 가
+羅馬字: gǝ
+韓文: 그
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,7 +31,7 @@ stand_in: 個
 aliases:
   - 个
   - 箇
-注音: ㄍㄚ
+注音: ㄍㄜ
 tags:
   - character
 ---

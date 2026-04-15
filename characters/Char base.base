@@ -6,6 +6,9 @@ formulas:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - 羅馬字 == "ga"
     order:
       - file.name
       - formula.score
@@ -16,7 +19,10 @@ views:
       - mandarin
       - middle_chinese_initial
       - middle_chinese_final
+      - stand_in
     sort:
+      - property: middle_chinese_initial
+        direction: ASC
       - property: cantonese
         direction: ASC
       - property: mandarin
@@ -26,8 +32,6 @@ views:
       - property: 注音
         direction: ASC
       - property: middle_chinese_final
-        direction: ASC
-      - property: middle_chinese_initial
         direction: ASC
       - property: hanmun_edu_level
         direction: DESC
@@ -73,4 +77,4 @@ views:
       note.danayo_id: 64
       note.english: 183
       note.cantonese: 102
-      note.middle_chinese_initial: 46
+      note.middle_chinese_initial: 67

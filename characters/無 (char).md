@@ -17,8 +17,8 @@ grade_level: "2"
 pos: 系詞
 english:
   - lack
-羅馬字: mu
-韓文: 무
+羅馬字: mǝ
+韓文: 므
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ stand_in: 無
 aliases:
   - 无
   - 憮
-注音: ㄇㄨ
+注音: ㄇㄜ
 tags:
   - character
 ---

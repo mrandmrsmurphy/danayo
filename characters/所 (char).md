@@ -20,8 +20,8 @@ grade_level: "1"
 pos: ""
 english:
   - -ee
-羅馬字: syo
-韓文: 쇼
+羅馬字: sǝ
+韓文: 스
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -30,7 +30,7 @@ mc_id: 19
 graphemic_classification: 戸
 stand_in: 所
 aliases:
-注音: ㄙ˙ㄛ
+注音: ㄙㄜ
 tags:
   - character
 ---
