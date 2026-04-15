@@ -14,10 +14,12 @@ views:
       - english
       - cantonese
       - mandarin
+      - middle_chinese_initial
+      - middle_chinese_final
     sort:
-      - property: mandarin
-        direction: ASC
       - property: cantonese
+        direction: ASC
+      - property: mandarin
         direction: ASC
       - property: english
         direction: ASC
@@ -69,5 +71,6 @@ views:
       file.name: 64
       formula.score: 112
       note.danayo_id: 64
-      note.hanmun_edu_level: 131
-      note.stroke_count: 205
+      note.english: 183
+      note.cantonese: 102
+      note.middle_chinese_initial: 46

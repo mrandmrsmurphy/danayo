@@ -8,7 +8,8 @@ japanese:
 japanese_nanori:
   - しき
 vietnamese:
-  - phô, phu
+  - phô
+  - phu
 middle_chinese_initial: fʰ
 middle_chinese_final: ɨo
 stroke_count: 15

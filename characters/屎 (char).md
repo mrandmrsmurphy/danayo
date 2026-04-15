@@ -1,7 +1,7 @@
 ---
-mandarin: "shǐ"
-cantonese: "si2"
-korean: "시"
+mandarin: xī
+cantonese: hei1
+korean: 히
 korean_native: ""
 japanese:
   - SHI
@@ -10,18 +10,18 @@ japanese_nanori: ""
 vietnamese:
   - thỉ
   - xái
-middle_chinese_initial: ɕ
-middle_chinese_final: ɣiɪ
+middle_chinese_initial: x
+middle_chinese_final: iɪ
 stroke_count: 9
 radical: 尸
 skip_number: 3-3-6
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - excrement
   - excresion
-羅馬字: hii
-韓文: 희
+羅馬字: hǝ
+韓文: 흐
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""
@@ -30,9 +30,10 @@ mc_id: 4079
 graphemic_classification: 會意
 stand_in: 屎
 aliases:
-注音: ㄏㄧ˙
+注音: ㄏㄜ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 屎.
 >For the word, see [屎](words/屎.md)
