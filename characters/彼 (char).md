@@ -17,8 +17,8 @@ grade_level: "1"
 pos: ""
 english:
   - yon
-羅馬字: bi
-韓文: 비
+羅馬字: bǝ
+韓文: 브
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 中
@@ -27,7 +27,7 @@ mc_id: 529
 graphemic_classification: 皮
 stand_in: 彼
 aliases:
-注音: ㄅㄧ
+注音: ㄅㄜ
 tags:
   - character
 ---

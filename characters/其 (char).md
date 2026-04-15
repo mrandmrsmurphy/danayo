@@ -1,7 +1,7 @@
 ---
-mandarin: "qí"
-cantonese: "kei4"
-korean: "기"
+mandarin: qí
+cantonese: kei4
+korean: 기
 korean_native: 그
 japanese:
   - KI
@@ -23,8 +23,8 @@ grade_level: "3"
 pos: 修飾語
 english:
   - this
-羅馬字: gi
-韓文: 기
+羅馬字: gǝ
+韓文: 그
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中
@@ -34,7 +34,7 @@ graphemic_classification: 象形
 stand_in: 其
 aliases:
   - 丌
-注音: ㄍㄧ
+注音: ㄍㄜ
 tags:
   - character
 ---

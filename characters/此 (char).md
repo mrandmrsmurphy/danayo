@@ -16,8 +16,8 @@ grade_level: "2"
 pos: ""
 english:
   - this
-羅馬字: ce
-韓文: 처
+羅馬字: cǝ
+韓文: 츠
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中
@@ -26,7 +26,7 @@ mc_id: 51
 graphemic_classification: 匕
 stand_in: 此
 aliases:
-注音: ㄑㄝ
+注音: ㄑㄜ
 tags:
   - character
 ---
