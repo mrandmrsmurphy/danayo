@@ -1,7 +1,7 @@
 ---
-mandarin: "xìng"
-cantonese: "hing1"
-korean: "흥"
+mandarin: xìng
+cantonese: hing1
+korean: 흥
 korean_native: ""
 japanese:
   - KYOU
@@ -17,8 +17,8 @@ grade_level: "2"
 pos: ""
 english:
   - entertain
-羅馬字: hing
-韓文: 힝
+羅馬字: hǝng
+韓文: 흥
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -28,7 +28,7 @@ graphemic_classification: 會意
 stand_in: 興
 aliases:
   - 兴
-注音: ㄏㄧㄥ
+注音: ㄏㄜㄥ
 tags:
   - character
 ---
