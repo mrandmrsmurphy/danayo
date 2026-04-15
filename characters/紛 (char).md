@@ -35,9 +35,7 @@ tags:
 ---
 >[!tip] This is a page about the character 紛.
 >For the word, see [紛](words/紛.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes

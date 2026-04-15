@@ -1,5 +1,5 @@
 ---
-mandarin: de dì
+mandarin: dì
 cantonese: dei6
 korean: 지
 korean_native: ""

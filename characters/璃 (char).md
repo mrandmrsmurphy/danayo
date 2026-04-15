@@ -1,7 +1,7 @@
 ---
-mandarin: "lí"
-cantonese: "lei4"
-korean: "리"
+mandarin: lí
+cantonese: lei4
+korean: 리
 korean_native: ""
 japanese:
   - RI
@@ -16,8 +16,8 @@ grade_level: "6"
 pos: ""
 english:
   - glass
-羅馬字: le
-韓文: 러
+羅馬字: lǝ
+韓文: 르
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 無
@@ -26,7 +26,7 @@ mc_id: 5900
 graphemic_classification: 离
 stand_in: 璃
 aliases:
-注音: ㄌㄝ
+注音: ㄌㄜ
 tags:
   - character
 ---

@@ -1,7 +1,7 @@
 ---
-mandarin: "shì"
-cantonese: "si6"
-korean: "사"
+mandarin: shì
+cantonese: si6
+korean: 사
 korean_native: ""
 japanese:
   - SHI
@@ -31,6 +31,7 @@ aliases:
 注音: ㄙㄚ˙
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 士.
 >For the word, see [士](words/士.md)

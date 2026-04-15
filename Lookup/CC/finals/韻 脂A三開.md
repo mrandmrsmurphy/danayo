@@ -18,9 +18,10 @@ views:
       - mandarin
       - cantonese
       - korean
-      - 羅馬字
       - middle_chinese_initial
       - middle_chinese_final
+      - 羅馬字
+      - file.tags
     sort:
       - property: 羅馬字
         direction: ASC
@@ -39,5 +40,6 @@ views:
       note.cantonese: 71
       note.korean: 43
       note.middle_chinese_initial: 97
+      note.middle_chinese_final: 67
 
 ```
