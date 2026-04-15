@@ -1,12 +1,13 @@
 ---
-mandarin: "mó"
-cantonese: "mo4"
-korean: "마"
+mandarin: mó
+cantonese: mo4
+korean: 마
 korean_native: ""
 japanese:
   - MA
 japanese_nanori: ""
 vietnamese:
+  - ma, mài
 middle_chinese_initial: m
 middle_chinese_final: uɑ
 stroke_count: 16

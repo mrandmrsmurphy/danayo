@@ -1,12 +1,13 @@
 ---
-mandarin: "pò"
-cantonese: "po3"
-korean: "파"
+mandarin: pò
+cantonese: po3
+korean: 파
 korean_native: ""
 japanese:
   - HA
 japanese_nanori: ""
 vietnamese:
+  - vỡ
 middle_chinese_initial: pʰ
 middle_chinese_final: uɑ
 stroke_count: 10
@@ -17,8 +18,8 @@ pos: ""
 english:
   - rend
   - break
-羅馬字: pa
-韓文: 파
+羅馬字: pǝ
+韓文: 프
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 中
@@ -27,7 +28,7 @@ mc_id: 385
 graphemic_classification: 皮
 stand_in: 破
 aliases:
-注音: ㄆㄚ
+注音: ㄆㄜ
 tags:
   - character
 ---
