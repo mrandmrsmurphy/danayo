@@ -1,7 +1,7 @@
 ---
-mandarin: "yǐ"
-cantonese: "ji5"
-korean: "이"
+mandarin: yǐ
+cantonese: ji5
+korean: 이
 korean_native: 이미
 japanese:
   - I
@@ -17,8 +17,8 @@ grade_level: "1"
 pos: 修飾語
 english:
   - -ed
-羅馬字: "'i"
-韓文: 이
+羅馬字: "'ǝ"
+韓文: 으
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 中
@@ -28,7 +28,7 @@ graphemic_classification: 象形
 stand_in: 已
 aliases:
   - 㠯
-注音: ㄧ
+注音: ㄜ
 date-last-perfect: 2026-03-01
 tags:
   - character
