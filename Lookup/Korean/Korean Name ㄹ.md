@@ -82,7 +82,7 @@ All of these have been checked for redirects.
 [勒](characters/勒.md) [肋](characters/肋.md)
 
 ### 름 
-[[廩]] [凜](characters/凜%20(char).md)
+[[廩]] [凜](characters/凜%20(char).md) [[菻]] [[澟]] [[懍]]
 
 ### 릉 
 [[綾]] [菱](characters/菱%20(char).md) [稜](characters/稜.md) [[凌]] [[楞]] 

@@ -17,8 +17,8 @@ pos: ""
 english:
   - wet
   - damp
-羅馬字: sib
-韓文: 십
+羅馬字: sǝb
+韓文: 습
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等
@@ -28,7 +28,7 @@ graphemic_classification: 显
 stand_in: 湿
 aliases:
   - 濕
-注音: ㄙㄧㄆ
+注音: ㄙㄜㄆ
 tags:
   - character
 ---

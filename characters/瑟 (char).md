@@ -1,7 +1,7 @@
 ---
-mandarin: "sè"
-cantonese: "sat1"
-korean: "슬"
+mandarin: sè
+cantonese: sat1
+korean: 슬
 korean_native: ""
 japanese:
   - SHITSU
@@ -12,12 +12,12 @@ middle_chinese_final: ɪt
 stroke_count: 13
 radical: 玉
 skip_number: 2-8-5
-grade_level: "名"
+grade_level: 名
 pos: ""
 english:
   - se (instrument)
-羅馬字: sid
-韓文: 싣
+羅馬字: sǝd
+韓文: 슫
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
@@ -26,7 +26,7 @@ mc_id: 1585
 graphemic_classification: 必
 stand_in: 瑟
 aliases:
-注音: ㄙㄧㄊ
+注音: ㄙㄜㄊ
 tags:
   - character
 ---
