@@ -1,7 +1,7 @@
 ---
-mandarin: "nǚ"
-cantonese: "neoi5"
-korean: "녀"
+mandarin: nǚ
+cantonese: neoi5
+korean: 녀
 korean_native: ""
 japanese:
   - JO
@@ -19,8 +19,8 @@ grade_level: "1"
 pos: ""
 english:
   - woman
-羅馬字: nyou
-韓文: 뇻
+羅馬字: nǝ
+韓文: 느
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -29,7 +29,7 @@ mc_id: 222
 graphemic_classification: 象形
 stand_in: 女
 aliases:
-注音: ㄋ˙ㄛˇ
+注音: ㄋㄜ
 tags:
   - character
 ---
