@@ -1411,3 +1411,147 @@
 {"file": "磯.md", "query_used": "磯", "korean": "기", "old_korean_native": "", "new_korean_native": "물가", "aliases": ["矶"], "source": "naver_hanja"}
 {"file": "礎.md", "query_used": "礎", "korean": "초", "old_korean_native": "", "new_korean_native": "주춧돌", "aliases": ["础"], "source": "naver_hanja"}
 {"file": "示.md", "query_used": "示", "korean": "시", "old_korean_native": "", "new_korean_native": "보일", "aliases": [], "source": "naver_hanja"}
+{"file": "礼 (char).md", "query_used": "礼", "korean": "례", "old_korean_native": "", "new_korean_native": "예도", "aliases": ["禮", "𥜪"], "source": "naver_hanja"}
+{"file": "社.md", "query_used": "社", "korean": "사", "old_korean_native": "", "new_korean_native": "토지신", "aliases": [], "source": "naver_hanja"}
+{"file": "祀.md", "query_used": "祀", "korean": "사", "old_korean_native": "", "new_korean_native": "제사", "aliases": [], "source": "naver_hanja"}
+{"file": "祁.md", "query_used": "祁", "korean": "기", "old_korean_native": "", "new_korean_native": "성할", "aliases": [], "source": "naver_hanja"}
+{"file": "祇.md", "query_used": "祇", "korean": "기", "old_korean_native": "", "new_korean_native": "땅귀신", "aliases": [], "source": "naver_hanja"}
+{"file": "祈.md", "query_used": "祈", "korean": "기", "old_korean_native": "", "new_korean_native": "빌", "aliases": ["沂"], "source": "naver_hanja"}
+{"file": "祉.md", "query_used": "祉", "korean": "지", "old_korean_native": "", "new_korean_native": "복", "aliases": [], "source": "naver_hanja"}
+{"file": "祐.md", "query_used": "祐", "korean": "우", "old_korean_native": "", "new_korean_native": "도울", "aliases": [], "source": "naver_hanja"}
+{"file": "祖.md", "query_used": "祖", "korean": "조", "old_korean_native": "", "new_korean_native": "할아버지", "aliases": ["沮"], "source": "naver_hanja"}
+{"file": "祚.md", "query_used": "祚", "korean": "조", "old_korean_native": "", "new_korean_native": "복", "aliases": [], "source": "naver_hanja"}
+{"file": "祝.md", "query_used": "祝", "korean": "축", "old_korean_native": "", "new_korean_native": "빌", "aliases": [], "source": "naver_hanja"}
+{"file": "神 (char).md", "query_used": "神", "korean": "신", "old_korean_native": "", "new_korean_native": "귀신", "aliases": [], "source": "naver_hanja"}
+{"file": "祠.md", "query_used": "祠", "korean": "사", "old_korean_native": "", "new_korean_native": "사당", "aliases": [], "source": "naver_hanja"}
+{"file": "祥.md", "query_used": "祥", "korean": "상", "old_korean_native": "", "new_korean_native": "복", "aliases": [], "source": "naver_hanja"}
+{"file": "票 (char).md", "query_used": "票", "korean": "표", "old_korean_native": "", "new_korean_native": "표", "aliases": ["嫖", "慓"], "source": "naver_hanja"}
+{"file": "祭.md", "query_used": "祭", "korean": "제", "old_korean_native": "", "new_korean_native": "제사", "aliases": [], "source": "naver_hanja"}
+{"file": "禍.md", "query_used": "禍", "korean": "화", "old_korean_native": "", "new_korean_native": "재앙", "aliases": ["祸"], "source": "naver_hanja"}
+{"file": "禎.md", "query_used": "禎", "korean": "정", "old_korean_native": "", "new_korean_native": "상서로울", "aliases": ["祯"], "source": "naver_hanja"}
+{"file": "福 (char).md", "query_used": "福", "korean": "복", "old_korean_native": "", "new_korean_native": "복", "aliases": [], "source": "naver_hanja"}
+{"file": "禹.md", "query_used": "禹", "korean": "우", "old_korean_native": "", "new_korean_native": "하우씨", "aliases": [], "source": "naver_hanja"}
+{"file": "禺.md", "query_used": "禺", "korean": "옹", "old_korean_native": "", "new_korean_native": "어리석을", "aliases": ["藕"], "source": "naver_hanja"}
+{"file": "禽.md", "query_used": "禽", "korean": "금", "old_korean_native": "", "new_korean_native": "새", "aliases": [], "source": "naver_hanja"}
+{"file": "禾 (char).md", "query_used": "禾", "korean": "화", "old_korean_native": "", "new_korean_native": "벼", "aliases": [], "source": "naver_hanja"}
+{"file": "禿 (char).md", "query_used": "禿", "korean": "독", "old_korean_native": "", "new_korean_native": "대머리", "aliases": ["秃"], "source": "naver_hanja"}
+{"file": "秀 (char).md", "query_used": "秀", "korean": "수", "old_korean_native": "", "new_korean_native": "빼어날", "aliases": [], "source": "naver_hanja"}
+{"file": "私.md", "query_used": "私", "korean": "사", "old_korean_native": "", "new_korean_native": "사사", "aliases": ["厶"], "source": "naver_hanja"}
+{"file": "秉.md", "query_used": "秉", "korean": "병", "old_korean_native": "", "new_korean_native": "잡을", "aliases": [], "source": "naver_hanja"}
+{"file": "科.md", "query_used": "科", "korean": "과", "old_korean_native": "", "new_korean_native": "과목", "aliases": [], "source": "naver_hanja"}
+{"file": "秒 (char).md", "query_used": "秒", "korean": "초", "old_korean_native": "", "new_korean_native": "분초", "aliases": [], "source": "naver_hanja"}
+{"file": "秘.md", "query_used": "秘", "korean": "비", "old_korean_native": "", "new_korean_native": "숨길", "aliases": [], "source": "naver_hanja"}
+{"file": "租.md", "query_used": "租", "korean": "조", "old_korean_native": "", "new_korean_native": "조세", "aliases": [], "source": "naver_hanja"}
+{"file": "秩.md", "query_used": "秩", "korean": "질", "old_korean_native": "", "new_korean_native": "차례", "aliases": [], "source": "naver_hanja"}
+{"file": "移.md", "query_used": "移", "korean": "이", "old_korean_native": "", "new_korean_native": "옮길", "aliases": [], "source": "naver_hanja"}
+{"file": "程.md", "query_used": "程", "korean": "정", "old_korean_native": "", "new_korean_native": "한도", "aliases": [], "source": "naver_hanja"}
+{"file": "稍 (char).md", "query_used": "稍", "korean": "초", "old_korean_native": "", "new_korean_native": "점점", "aliases": [], "source": "naver_hanja"}
+{"file": "稚.md", "query_used": "稚", "korean": "치", "old_korean_native": "", "new_korean_native": "어릴", "aliases": [], "source": "naver_hanja"}
+{"file": "稜.md", "query_used": "稜", "korean": "릉", "old_korean_native": "", "new_korean_native": "모날", "aliases": [], "source": "naver_hanja"}
+{"file": "稟.md", "query_used": "稟", "korean": "품", "old_korean_native": "", "new_korean_native": "여쭐", "aliases": ["禀"], "source": "naver_hanja"}
+{"file": "種.md", "query_used": "種", "korean": "종", "old_korean_native": "", "new_korean_native": "씨", "aliases": ["种"], "source": "naver_hanja"}
+{"file": "稷.md", "query_used": "稷", "korean": "직", "old_korean_native": "", "new_korean_native": "피", "aliases": ["黍"], "source": "naver_hanja"}
+{"file": "稼.md", "query_used": "稼", "korean": "가", "old_korean_native": "", "new_korean_native": "심을", "aliases": [], "source": "naver_hanja"}
+{"file": "稽.md", "query_used": "稽", "korean": "계", "old_korean_native": "", "new_korean_native": "상고할", "aliases": ["𥡴"], "source": "naver_hanja"}
+{"file": "稿 (char).md", "query_used": "稿", "korean": "고", "old_korean_native": "", "new_korean_native": "초고", "aliases": [], "source": "naver_hanja"}
+{"file": "穀.md", "query_used": "穀", "korean": "곡", "old_korean_native": "", "new_korean_native": "곡식", "aliases": ["谷"], "source": "naver_hanja"}
+{"file": "穆.md", "query_used": "穆", "korean": "목", "old_korean_native": "", "new_korean_native": "화목할", "aliases": [], "source": "naver_hanja"}
+{"file": "積.md", "query_used": "積", "korean": "적", "old_korean_native": "", "new_korean_native": "쌓을", "aliases": ["积"], "source": "naver_hanja"}
+{"file": "穫.md", "query_used": "穫", "korean": "확", "old_korean_native": "", "new_korean_native": "거둘", "aliases": ["获"], "source": "naver_hanja"}
+{"file": "穴.md", "query_used": "穴", "korean": "혈", "old_korean_native": "", "new_korean_native": "구멍", "aliases": [], "source": "naver_hanja"}
+{"file": "穹.md", "query_used": "穹", "korean": "궁", "old_korean_native": "", "new_korean_native": "하늘", "aliases": [], "source": "naver_hanja"}
+{"file": "穿 (char).md", "query_used": "穿", "korean": "천", "old_korean_native": "", "new_korean_native": "뚫을", "aliases": [], "source": "naver_hanja"}
+{"file": "突.md", "query_used": "突", "korean": "돌", "old_korean_native": "", "new_korean_native": "갑자기", "aliases": [], "source": "naver_hanja"}
+{"file": "窄.md", "query_used": "窄", "korean": "착", "old_korean_native": "", "new_korean_native": "좁을", "aliases": ["齪"], "source": "naver_hanja"}
+{"file": "窆.md", "query_used": "窆", "korean": "폄", "old_korean_native": "", "new_korean_native": "하관할", "aliases": [], "source": "naver_hanja"}
+{"file": "窈.md", "query_used": "窈", "korean": "요", "old_korean_native": "", "new_korean_native": "고요할", "aliases": [], "source": "naver_hanja"}
+{"file": "窒.md", "query_used": "窒", "korean": "질", "old_korean_native": "", "new_korean_native": "막힐", "aliases": [], "source": "naver_hanja"}
+{"file": "窕.md", "query_used": "窕", "korean": "조", "old_korean_native": "", "new_korean_native": "으늑할", "aliases": [], "source": "naver_hanja"}
+{"file": "窟 (char).md", "query_used": "窟", "korean": "굴", "old_korean_native": "", "new_korean_native": "굴", "aliases": [], "source": "naver_hanja"}
+{"file": "窩.md", "query_used": "窩", "korean": "와", "old_korean_native": "", "new_korean_native": "움집", "aliases": ["窝"], "source": "naver_hanja"}
+{"file": "窪.md", "query_used": "窪", "korean": "와", "old_korean_native": "", "new_korean_native": "웅덩이", "aliases": ["洼"], "source": "naver_hanja"}
+{"file": "窺 (char).md", "query_used": "窺", "korean": "규", "old_korean_native": "", "new_korean_native": "엿볼", "aliases": ["窥"], "source": "naver_hanja"}
+{"file": "竄.md", "query_used": "竄", "korean": "찬", "old_korean_native": "", "new_korean_native": "숨을", "aliases": ["窜"], "source": "naver_hanja"}
+{"file": "站.md", "query_used": "站", "korean": "참", "old_korean_native": "", "new_korean_native": "역마을", "aliases": ["跕"], "source": "naver_hanja"}
+{"file": "章 (char).md", "query_used": "章", "korean": "장", "old_korean_native": "", "new_korean_native": "글", "aliases": ["嶂", "鱆", "鮹"], "source": "naver_hanja"}
+{"file": "童.md", "query_used": "童", "korean": "동", "old_korean_native": "", "new_korean_native": "아이", "aliases": [], "source": "naver_hanja"}
+{"file": "竦 (char).md", "query_used": "竦", "korean": "송", "old_korean_native": "", "new_korean_native": "공경할", "aliases": [], "source": "naver_hanja"}
+{"file": "端.md", "query_used": "端", "korean": "단", "old_korean_native": "", "new_korean_native": "끝", "aliases": [], "source": "naver_hanja"}
+{"file": "競.md", "query_used": "競", "korean": "경", "old_korean_native": "", "new_korean_native": "다툴", "aliases": ["竞"], "source": "naver_hanja"}
+{"file": "竹 (char).md", "query_used": "竹", "korean": "죽", "old_korean_native": "", "new_korean_native": "대", "aliases": [], "source": "naver_hanja"}
+{"file": "竺.md", "query_used": "竺", "korean": "축", "old_korean_native": "", "new_korean_native": "대나무", "aliases": [], "source": "naver_hanja"}
+{"file": "竿.md", "query_used": "竿", "korean": "간", "old_korean_native": "", "new_korean_native": "낚싯대", "aliases": ["杆"], "source": "naver_hanja"}
+{"file": "笑 (char).md", "query_used": "笑", "korean": "소", "old_korean_native": "", "new_korean_native": "웃음", "aliases": ["咲"], "source": "naver_hanja"}
+{"file": "笙.md", "query_used": "笙", "korean": "생", "old_korean_native": "", "new_korean_native": "생황", "aliases": [], "source": "naver_hanja"}
+{"file": "笛.md", "query_used": "笛", "korean": "적", "old_korean_native": "", "new_korean_native": "피리", "aliases": [], "source": "naver_hanja"}
+{"file": "笠.md", "query_used": "笠", "korean": "립", "old_korean_native": "", "new_korean_native": "삿갓", "aliases": [], "source": "naver_hanja"}
+{"file": "符.md", "query_used": "符", "korean": "부", "old_korean_native": "", "new_korean_native": "부호", "aliases": [], "source": "naver_hanja"}
+{"file": "第 (char).md", "query_used": "第", "korean": "제", "old_korean_native": "", "new_korean_native": "차례", "aliases": ["㐧"], "source": "naver_hanja"}
+{"file": "笭.md", "query_used": "笭", "korean": "령", "old_korean_native": "", "new_korean_native": "종다래끼", "aliases": [], "source": "naver_hanja"}
+{"file": "筈 (char).md", "query_used": "筈", "korean": "괄", "old_korean_native": "", "new_korean_native": "오늬", "aliases": [], "source": "naver_hanja"}
+{"file": "筋.md", "query_used": "筋", "korean": "근", "old_korean_native": "", "new_korean_native": "힘줄", "aliases": [], "source": "naver_hanja"}
+{"file": "筍.md", "query_used": "筍", "korean": "순", "old_korean_native": "", "new_korean_native": "죽순", "aliases": ["笋", "荀"], "source": "naver_hanja"}
+{"file": "筐 (char).md", "query_used": "筐", "korean": "광", "old_korean_native": "", "new_korean_native": "광주리", "aliases": ["筺"], "source": "naver_hanja"}
+{"file": "筒 (char).md", "query_used": "筒", "korean": "통", "old_korean_native": "", "new_korean_native": "대통", "aliases": [], "source": "naver_hanja"}
+{"file": "答 (char).md", "query_used": "答", "korean": "답", "old_korean_native": "", "new_korean_native": "대답", "aliases": ["荅"], "source": "naver_hanja"}
+{"file": "策.md", "query_used": "策", "korean": "책", "old_korean_native": "", "new_korean_native": "대쪽", "aliases": [], "source": "naver_hanja"}
+{"file": "箋.md", "query_used": "箋", "korean": "전", "old_korean_native": "", "new_korean_native": "찌지", "aliases": ["笺"], "source": "naver_hanja"}
+{"file": "箏.md", "query_used": "箏", "korean": "쟁", "old_korean_native": "", "new_korean_native": "쟁", "aliases": ["筝"], "source": "naver_hanja"}
+{"file": "箔.md", "query_used": "箔", "korean": "박", "old_korean_native": "", "new_korean_native": "발", "aliases": [], "source": "naver_hanja"}
+{"file": "箕.md", "query_used": "箕", "korean": "기", "old_korean_native": "", "new_korean_native": "키", "aliases": [], "source": "naver_hanja"}
+{"file": "管.md", "query_used": "管", "korean": "관", "old_korean_native": "", "new_korean_native": "대롱", "aliases": [], "source": "naver_hanja"}
+{"file": "箭.md", "query_used": "箭", "korean": "전", "old_korean_native": "", "new_korean_native": "화살", "aliases": [], "source": "naver_hanja"}
+{"file": "箱 (char).md", "query_used": "箱", "korean": "상", "old_korean_native": "", "new_korean_native": "상자", "aliases": [], "source": "naver_hanja"}
+{"file": "箸 (char).md", "query_used": "箸", "korean": "저", "old_korean_native": "", "new_korean_native": "젓가락", "aliases": [], "source": "naver_hanja"}
+{"file": "節 (char).md", "query_used": "節", "korean": "절", "old_korean_native": "", "new_korean_native": "마디", "aliases": ["节"], "source": "naver_hanja"}
+{"file": "範.md", "query_used": "範", "korean": "범", "old_korean_native": "", "new_korean_native": "법", "aliases": ["范"], "source": "naver_hanja"}
+{"file": "篆.md", "query_used": "篆", "korean": "전", "old_korean_native": "", "new_korean_native": "전자", "aliases": [], "source": "naver_hanja"}
+{"file": "篇 (char).md", "query_used": "篇", "korean": "편", "old_korean_native": "", "new_korean_native": "책", "aliases": [], "source": "naver_hanja"}
+{"file": "築.md", "query_used": "築", "korean": "축", "old_korean_native": "", "new_korean_native": "쌓을", "aliases": ["筑"], "source": "naver_hanja"}
+{"file": "篠.md", "query_used": "篠", "korean": "소", "old_korean_native": "", "new_korean_native": "조릿대", "aliases": [], "source": "naver_hanja"}
+{"file": "篤.md", "query_used": "篤", "korean": "독", "old_korean_native": "", "new_korean_native": "도타울", "aliases": ["笃"], "source": "naver_hanja"}
+{"file": "簞.md", "query_used": "簞", "korean": "단", "old_korean_native": "", "new_korean_native": "소쿠리", "aliases": ["蓧", "箪"], "source": "naver_hanja"}
+{"file": "簫.md", "query_used": "簫", "korean": "소", "old_korean_native": "", "new_korean_native": "퉁소", "aliases": ["箫"], "source": "naver_hanja"}
+{"file": "簾.md", "query_used": "簾", "korean": "렴", "old_korean_native": "", "new_korean_native": "발", "aliases": ["帘"], "source": "naver_hanja"}
+{"file": "簿.md", "query_used": "簿", "korean": "부", "old_korean_native": "", "new_korean_native": "문서", "aliases": [], "source": "naver_hanja"}
+{"file": "籍.md", "query_used": "籍", "korean": "적", "old_korean_native": "", "new_korean_native": "문서", "aliases": [], "source": "naver_hanja"}
+{"file": "籠 (char).md", "query_used": "籠", "korean": "롱", "old_korean_native": "", "new_korean_native": "대바구니", "aliases": ["笼"], "source": "naver_hanja"}
+{"file": "米 (char).md", "query_used": "米", "korean": "미", "old_korean_native": "", "new_korean_native": "쌀", "aliases": [], "source": "naver_hanja"}
+{"file": "粉 (char).md", "query_used": "粉", "korean": "분", "old_korean_native": "", "new_korean_native": "가루", "aliases": [], "source": "naver_hanja"}
+{"file": "粒.md", "query_used": "粒", "korean": "립", "old_korean_native": "", "new_korean_native": "낟알", "aliases": [], "source": "naver_hanja"}
+{"file": "粗.md", "query_used": "粗", "korean": "조", "old_korean_native": "", "new_korean_native": "거칠", "aliases": [], "source": "naver_hanja"}
+{"file": "粘 (char).md", "query_used": "粘", "korean": "점", "old_korean_native": "", "new_korean_native": "붙을", "aliases": ["黏"], "source": "naver_hanja"}
+{"file": "粟.md", "query_used": "粟", "korean": "속", "old_korean_native": "", "new_korean_native": "조", "aliases": [], "source": "naver_hanja"}
+{"file": "粥 (char).md", "query_used": "粥", "korean": "죽", "old_korean_native": "", "new_korean_native": "죽", "aliases": ["鬻"], "source": "naver_hanja"}
+{"file": "粧.md", "query_used": "粧", "korean": "장", "old_korean_native": "", "new_korean_native": "단장할", "aliases": ["妝"], "source": "naver_hanja"}
+{"file": "精.md", "query_used": "精", "korean": "정", "old_korean_native": "", "new_korean_native": "정할", "aliases": [], "source": "naver_hanja"}
+{"file": "糊.md", "query_used": "糊", "korean": "호", "old_korean_native": "", "new_korean_native": "죽", "aliases": [], "source": "naver_hanja"}
+{"file": "糖 (char).md", "query_used": "糖", "korean": "당", "old_korean_native": "", "new_korean_native": "엿", "aliases": [], "source": "naver_hanja"}
+{"file": "糞 (char).md", "query_used": "糞", "korean": "분", "old_korean_native": "", "new_korean_native": "똥", "aliases": ["𥻔", "粪"], "source": "naver_hanja"}
+{"file": "糠.md", "query_used": "糠", "korean": "강", "old_korean_native": "", "new_korean_native": "겨", "aliases": [], "source": "naver_hanja"}
+{"file": "糧 (char).md", "query_used": "糧", "korean": "량", "old_korean_native": "", "new_korean_native": "양식", "aliases": ["粮"], "source": "naver_hanja"}
+{"file": "糾 (char).md", "query_used": "糾", "korean": "규", "old_korean_native": "", "new_korean_native": "꼴", "aliases": ["丩", "纠", "糺"], "source": "naver_hanja"}
+{"file": "紀.md", "query_used": "紀", "korean": "기", "old_korean_native": "", "new_korean_native": "벼리", "aliases": ["纪"], "source": "naver_hanja"}
+{"file": "約.md", "query_used": "約", "korean": "약", "old_korean_native": "", "new_korean_native": "맺을", "aliases": ["约"], "source": "naver_hanja"}
+{"file": "紅 (char).md", "query_used": "紅", "korean": "홍", "old_korean_native": "", "new_korean_native": "붉을", "aliases": ["红"], "source": "naver_hanja"}
+{"file": "紋 (char).md", "query_used": "紋", "korean": "문", "old_korean_native": "", "new_korean_native": "무늬", "aliases": ["纹"], "source": "naver_hanja"}
+{"file": "納 (char).md", "query_used": "納", "korean": "납", "old_korean_native": "", "new_korean_native": "들일", "aliases": ["纳"], "source": "naver_hanja"}
+{"file": "紗.md", "query_used": "紗", "korean": "사", "old_korean_native": "", "new_korean_native": "비단", "aliases": ["纱"], "source": "naver_hanja"}
+{"file": "紘.md", "query_used": "紘", "korean": "굉", "old_korean_native": "", "new_korean_native": "끈", "aliases": ["纮"], "source": "naver_hanja"}
+{"file": "級.md", "query_used": "級", "korean": "급", "old_korean_native": "", "new_korean_native": "등급", "aliases": ["级"], "source": "naver_hanja"}
+{"file": "紛 (char).md", "query_used": "紛", "korean": "분", "old_korean_native": "", "new_korean_native": "어지러울", "aliases": ["纷"], "source": "naver_hanja"}
+{"file": "素.md", "query_used": "素", "korean": "소", "old_korean_native": "", "new_korean_native": "본디", "aliases": [], "source": "naver_hanja"}
+{"file": "紡 (char).md", "query_used": "紡", "korean": "방", "old_korean_native": "", "new_korean_native": "길쌈", "aliases": ["纺"], "source": "naver_hanja"}
+{"file": "索.md", "query_used": "索", "korean": "삭", "old_korean_native": "", "new_korean_native": "노", "aliases": [], "source": "naver_hanja"}
+{"file": "紫.md", "query_used": "紫", "korean": "자", "old_korean_native": "", "new_korean_native": "자줏빛", "aliases": [], "source": "naver_hanja"}
+{"file": "紬.md", "query_used": "紬", "korean": "주", "old_korean_native": "", "new_korean_native": "명주", "aliases": ["綢", "䌷"], "source": "naver_hanja"}
+{"file": "紮 (char).md", "query_used": "紮", "korean": "찰", "old_korean_native": "", "new_korean_native": "감을", "aliases": ["扎"], "source": "naver_hanja"}
+{"file": "紹.md", "query_used": "紹", "korean": "소", "old_korean_native": "", "new_korean_native": "이을", "aliases": ["绍"], "source": "naver_hanja"}
+{"file": "紺 (char).md", "query_used": "紺", "korean": "감", "old_korean_native": "", "new_korean_native": "감색", "aliases": ["绀"], "source": "naver_hanja"}
+{"file": "終.md", "query_used": "終", "korean": "종", "old_korean_native": "", "new_korean_native": "끝", "aliases": ["终"], "source": "naver_hanja"}
+{"file": "組.md", "query_used": "組", "korean": "조", "old_korean_native": "", "new_korean_native": "짤", "aliases": ["组"], "source": "naver_hanja"}
+{"file": "絆.md", "query_used": "絆", "korean": "반", "old_korean_native": "", "new_korean_native": "끈", "aliases": ["绊"], "source": "naver_hanja"}
+{"file": "結 (char).md", "query_used": "結", "korean": "결", "old_korean_native": "", "new_korean_native": "맺을", "aliases": ["结"], "source": "naver_hanja"}
+{"file": "絡 (char).md", "query_used": "絡", "korean": "락", "old_korean_native": "", "new_korean_native": "이을", "aliases": ["络", "珞"], "source": "naver_hanja"}
+{"file": "絢.md", "query_used": "絢", "korean": "현", "old_korean_native": "", "new_korean_native": "무늬", "aliases": ["绚"], "source": "naver_hanja"}
+{"file": "給.md", "query_used": "給", "korean": "급", "old_korean_native": "", "new_korean_native": "줄", "aliases": ["给"], "source": "naver_hanja"}

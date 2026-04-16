@@ -1,7 +1,7 @@
 ---
-mandarin: "yì"
-cantonese: "jik6"
-korean: "역"
+mandarin: yì
+cantonese: jik6
+korean: 역
 korean_native: ""
 japanese:
   - EKI
@@ -13,12 +13,12 @@ middle_chinese_final: iᴇk
 stroke_count: 6
 radical: 亠
 skip_number: 2-2-4
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - too
-羅馬字: "'yeg"
-韓文: 역
+羅馬字: "'ǝg"
+韓文: 윽
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中
@@ -27,7 +27,7 @@ mc_id: 120
 graphemic_classification: 指事
 stand_in: 亦
 aliases:
-注音: ˙ㄝㄎ
+注音: ㄜㄎ
 tags:
   - character
 ---
