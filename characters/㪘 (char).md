@@ -1,18 +1,18 @@
 ---
 mandarin: "liǎn"
-cantonese: "lim5"
+cantonese: lim5
 korean: "렴"
-korean_native: ""
+korean_native: "거둘"
 japanese:
   - REN
   - REMU
-japanese_nanori: おさめる
+japanese_nanori: "おさめる"
 vietnamese:
   - kiếm, liễm, liệm
 middle_chinese_initial: l
-middle_chinese_final: iᴇm
+middle_chinese_final: "iᴇm"
 stroke_count: 12
-radical: 攴
+radical: "攴"
 skip_number: 1-8-4
 grade_level: "先進"
 pos: ""
@@ -20,18 +20,18 @@ english:
   - gather
   - collect
 羅馬字: lyem
-韓文: 렴
+韓文: "렴"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7385
 mc_id: 1153
-graphemic_classification: 㑒
-stand_in: 㪘
+graphemic_classification: "㑒"
+stand_in: "㪘"
 aliases:
   - 斂
   - 敛
-注音: ㄌ˙ㄝㄇ
+注音: "ㄌ˙ㄝㄇ"
 tags:
   - character
 ---
