@@ -8,10 +8,10 @@ import sys
 import time
 from dataclasses import dataclass, asdict
 from pathlib import Path
-from typing import Any, Iterable
+from typing import Any
+from urllib.parse import quote
 
-import yaml
-
+from playwright.sync_api import sync_playwright
 
 FILENAME_RE = re.compile(r"^(?P<char>.+?)(?: \(char\))?\.md$")
 DEFAULT_REVIEW_FILE = "korean_native_review.jsonl"
@@ -28,30 +28,8 @@ class ReviewEntry:
     source: str = "naver_hanja"
 
 
-def load_frontmatter(text: str) -> tuple[dict[str, Any], str]:
-    if not text.startswith("---\n"):
-        raise ValueError("Missing YAML frontmatter")
-
-    parts = text.split("---\n", 2)
-    if len(parts) < 3:
-        raise ValueError("Malformed YAML frontmatter")
-
-    yaml_text = parts[1]
-    body = parts[2]
-    data = yaml.safe_load(yaml_text) or {}
-    if not isinstance(data, dict):
-        raise ValueError("YAML frontmatter is not a mapping")
-    return data, body
-
-
-def dump_frontmatter(data: dict[str, Any], body: str) -> str:
-    yaml_text = yaml.safe_dump(
-        data,
-        allow_unicode=True,
-        sort_keys=False,
-        default_flow_style=False,
-    )
-    return f"---\n{yaml_text}---\n{body}"
+def is_target_markdown(path: Path) -> bool:
+    return path.is_file() and bool(FILENAME_RE.match(path.name))
 
 
 def extract_filename_char(path: Path) -> str | None:
@@ -61,26 +39,134 @@ def extract_filename_char(path: Path) -> str | None:
     return m.group("char")
 
 
-def is_target_markdown(path: Path) -> bool:
-    return path.is_file() and bool(FILENAME_RE.match(path.name))
-
-
 def korean_native_is_filled(value: Any) -> bool:
     return isinstance(value, str) and value.strip() != ""
 
 
+def yaml_quote(s: str) -> str:
+    escaped = s.replace("\\", "\\\\").replace('"', '\\"')
+    return f'"{escaped}"'
+
+
+def parse_scalar(value: str) -> Any:
+    v = value.strip()
+    if v == '""':
+        return ""
+    if v == "''":
+        return ""
+    if len(v) >= 2 and ((v[0] == '"' and v[-1] == '"') or (v[0] == "'" and v[-1] == "'")):
+        return v[1:-1]
+    if re.fullmatch(r"-?\d+", v):
+        try:
+            return int(v)
+        except ValueError:
+            return v
+    if v.lower() == "true":
+        return True
+    if v.lower() == "false":
+        return False
+    return v
+
+
+def load_frontmatter(text: str) -> tuple[dict[str, Any], str]:
+    if not text.startswith("---\n"):
+        raise ValueError("Missing YAML frontmatter")
+
+    end_marker = "\n---\n"
+    end_idx = text.find(end_marker, 4)
+    if end_idx == -1:
+        raise ValueError("Could not find end of YAML frontmatter")
+
+    yaml_text = text[4:end_idx]
+    body = text[end_idx + len(end_marker):]
+
+    lines = yaml_text.splitlines()
+    data: dict[str, Any] = {}
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        if not line.strip():
+            i += 1
+            continue
+
+        if line.startswith(" ") or line.startswith("\t"):
+            raise ValueError(f"Unexpected indentation in YAML frontmatter: {line!r}")
+
+        if ":" not in line:
+            raise ValueError(f"Malformed YAML line: {line!r}")
+
+        key, rest = line.split(":", 1)
+        key = key.strip()
+        rest = rest.rstrip()
+
+        if rest.strip() == "":
+            items: list[Any] = []
+            i += 1
+            while i < len(lines):
+                sub = lines[i]
+                if not sub.strip():
+                    i += 1
+                    continue
+                if not (sub.startswith("  - ") or sub.startswith("\t- ")):
+                    break
+                item = sub[sub.index("-") + 1 :].strip()
+                items.append(parse_scalar(item))
+                i += 1
+            data[key] = items
+            continue
+
+        data[key] = parse_scalar(rest.strip())
+        i += 1
+
+    return data, body
+
+
+def dump_frontmatter(data: dict[str, Any], body: str) -> str:
+    lines = ["---"]
+    for key, value in data.items():
+        if isinstance(value, list):
+            lines.append(f"{key}:")
+            for item in value:
+                if isinstance(item, str):
+                    lines.append(f"  - {item}")
+                else:
+                    lines.append(f"  - {item}")
+        elif isinstance(value, bool):
+            lines.append(f"{key}: {'true' if value else 'false'}")
+        elif isinstance(value, int):
+            lines.append(f"{key}: {value}")
+        elif isinstance(value, str):
+            if value == "":
+                lines.append(f'{key}: ""')
+            elif re.fullmatch(r"[A-Za-z0-9_./+-]+", value):
+                lines.append(f"{key}: {value}")
+            else:
+                lines.append(f"{key}: {yaml_quote(value)}")
+        elif value is None:
+            lines.append(f'{key}: ""')
+        else:
+            lines.append(f"{key}: {yaml_quote(str(value))}")
+    lines.append("---")
+    return "\n".join(lines) + "\n" + body
+
+
 def normalize_aliases(value: Any) -> list[str]:
     if isinstance(value, list):
-        return [x.strip() for x in value if isinstance(x, str) and x.strip()]
+        out = []
+        for x in value:
+            if isinstance(x, str) and x.strip():
+                out.append(x.strip())
+        return out
     return []
 
 
 def build_query_candidates(path: Path, data: dict[str, Any]) -> list[str]:
     queries: list[str] = []
 
-    primary = extract_filename_char(path)
-    if primary:
-        queries.append(primary)
+    ch = extract_filename_char(path)
+    if ch:
+        queries.append(ch)
 
     aliases = normalize_aliases(data.get("aliases"))
     for alias in aliases:
@@ -90,40 +176,19 @@ def build_query_candidates(path: Path, data: dict[str, Any]) -> list[str]:
     return queries
 
 
-def prompt_choice(prompt: str, valid: set[str], default: str | None = None) -> str:
-    while True:
-        raw = input(prompt).strip().lower()
-        if raw == "" and default is not None:
-            return default
-        if raw in valid:
-            return raw
-        print(f"Please enter one of: {', '.join(sorted(valid))}")
-
-
-def prompt_yes_no_skip_quit(
-    header_lines: Iterable[str],
-    allow_all: bool = False,
-    default: str = "n",
-) -> str:
-    print()
-    print("=" * 70)
-    for line in header_lines:
-        print(line)
-    print("=" * 70)
-
-    valid = {"y", "n", "q"}
-    suffix = "[y/N/q]"
-    if allow_all:
-        valid.add("a")
-        suffix = "[y/N/q/a]"
-
-    return prompt_choice(f"Choose {suffix}: ", valid=valid, default=default)
-
-
 def find_markdown_files(root: Path) -> list[Path]:
     files = [p for p in root.rglob("*.md") if is_target_markdown(p)]
     files.sort()
     return files
+
+
+def read_markdown_data(path: Path) -> tuple[dict[str, Any], str]:
+    text = path.read_text(encoding="utf-8")
+    return load_frontmatter(text)
+
+
+def write_markdown_data(path: Path, data: dict[str, Any], body: str) -> None:
+    path.write_text(dump_frontmatter(data, body), encoding="utf-8")
 
 
 def load_review_entries(review_path: Path) -> list[ReviewEntry]:
@@ -140,9 +205,7 @@ def load_review_entries(review_path: Path) -> list[ReviewEntry]:
                 obj = json.loads(raw)
                 entries.append(ReviewEntry(**obj))
             except Exception as e:
-                raise ValueError(
-                    f"Could not parse review file {review_path} line {line_no}: {e}"
-                ) from e
+                raise ValueError(f"Invalid review file line {line_no}: {e}") from e
     return entries
 
 
@@ -151,148 +214,138 @@ def append_review_entry(review_path: Path, entry: ReviewEntry) -> None:
         f.write(json.dumps(asdict(entry), ensure_ascii=False) + "\n")
 
 
-def already_in_review(review_entries: list[ReviewEntry], file_path: Path) -> bool:
+def already_in_review(existing: list[ReviewEntry], file_path: Path) -> bool:
     target = str(file_path)
-    return any(entry.file == target for entry in review_entries)
+    return any(entry.file == target for entry in existing)
 
 
-def read_markdown_data(path: Path) -> tuple[dict[str, Any], str]:
-    text = path.read_text(encoding="utf-8")
-    return load_frontmatter(text)
+def fetch_hanja_entry_from_naver(page, query_char: str) -> dict[str, str] | None:
+    url = f"https://hanja.dict.naver.com/#/search?query={quote(query_char)}&range=all"
+    page.goto(url, wait_until="domcontentloaded")
+    page.wait_for_timeout(3500)
+
+    text = page.locator("body").inner_text()
+
+    patterns = [
+        re.compile(rf"음·한자\s+\d+\s+{re.escape(query_char)}\s+([가-힣]+)\s+([가-힣]+)", re.MULTILINE),
+        re.compile(rf"{re.escape(query_char)}\s+([가-힣]+)\s+([가-힣]+)")
+    ]
+
+    for pattern in patterns:
+        m = pattern.search(text)
+        if m:
+            return {
+                "query": query_char,
+                "korean_native": m.group(1).strip(),
+                "korean": m.group(2).strip(),
+            }
+
+    return None
 
 
-def write_markdown_data(path: Path, data: dict[str, Any], body: str) -> None:
-    text = dump_frontmatter(data, body)
-    path.write_text(text, encoding="utf-8")
-
-
-def should_skip_for_collect(path: Path, data: dict[str, Any]) -> tuple[bool, str]:
-    if korean_native_is_filled(data.get("korean_native")):
-        return True, "korean_native already filled"
-    if not build_query_candidates(path, data):
-        return True, "no query candidates"
-    return False, ""
-
-
-def should_skip_for_apply(path: Path, data: dict[str, Any], entry: ReviewEntry) -> tuple[bool, str]:
-    if korean_native_is_filled(data.get("korean_native")):
-        return True, "korean_native already filled now"
-    if not entry.new_korean_native.strip():
-        return True, "review entry has empty new_korean_native"
-    return False, ""
-
-
-# ----------------------------------------------------------------------
-# Scraping hook
-# ----------------------------------------------------------------------
-def fetch_korean_native_from_naver(query_char: str, expected_korean: str | None) -> str | None:
-    """
-    Replace this stub with your real Naver logic.
-
-    Contract:
-    - Input: a single hanja query character and optionally the expected 음 (e.g. '삽')
-    - Output: the 훈/native Korean string only (e.g. '껄끄러울'), or None if not found
-
-    Suggested implementation options:
-    1. Direct JSON endpoint discovered in browser DevTools
-    2. Browser automation with Playwright
-    3. Manual lookup fallback during development
-
-    For now, this function prompts the user manually so the rest of the
-    two-phase agent is fully usable immediately.
-    """
-    print()
-    print(f"Query character: {query_char}")
-    if expected_korean:
-        print(f"Expected korean 음: {expected_korean}")
-    value = input("Enter scraped korean_native value manually, or leave blank if not found: ").strip()
-    return value or None
-
-
-def collect_phase(root: Path, review_path: Path, delay_seconds: float) -> int:
+def collect_phase(
+    root: Path,
+    review_path: Path,
+    delay_seconds: float,
+    headless: bool,
+) -> int:
     existing_entries = load_review_entries(review_path)
     files = find_markdown_files(root)
-
     added = 0
-    accept_all = False
 
-    for path in files:
-        if already_in_review(existing_entries, path):
-            print(f"SKIP {path}: already present in review file")
-            continue
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=headless)
+        page = browser.new_page()
 
         try:
-            data, _body = read_markdown_data(path)
-        except Exception as e:
-            print(f"ERROR {path}: {e}")
-            continue
+            for idx, path in enumerate(files, start=1):
+                try:
+                    if already_in_review(existing_entries, path):
+                        print(f"[{idx}/{len(files)}] SKIP {path}: already in review file")
+                        continue
 
-        skip, reason = should_skip_for_collect(path, data)
-        if skip:
-            print(f"SKIP {path}: {reason}")
-            continue
+                    data, _body = read_markdown_data(path)
 
-        queries = build_query_candidates(path, data)
-        korean = data.get("korean")
-        aliases = normalize_aliases(data.get("aliases"))
-        old_native = data.get("korean_native")
+                    if korean_native_is_filled(data.get("korean_native")):
+                        print(f"[{idx}/{len(files)}] SKIP {path}: korean_native already filled")
+                        continue
 
-        found_entry: ReviewEntry | None = None
+                    queries = build_query_candidates(path, data)
+                    if not queries:
+                        print(f"[{idx}/{len(files)}] SKIP {path}: no query candidates")
+                        continue
 
-        for query in queries:
-            new_native = fetch_korean_native_from_naver(query, korean)
-            if not new_native:
-                print(f"NOT FOUND for {path} using query {query}")
-                time.sleep(delay_seconds)
-                continue
+                    yaml_korean = data.get("korean")
+                    yaml_korean = yaml_korean.strip() if isinstance(yaml_korean, str) else None
+                    aliases = normalize_aliases(data.get("aliases"))
+                    old_native = data.get("korean_native")
+                    old_native = old_native if isinstance(old_native, str) else None
 
-            lines = [
-                f"File:              {path}",
-                f"Query used:        {query}",
-                f"korean:            {korean or ''}",
-                f"old korean_native: {old_native or ''}",
-                f"new korean_native: {new_native}",
-                f"aliases:           {aliases}",
-                "Add this to review file?",
-            ]
+                    matched: ReviewEntry | None = None
 
-            if accept_all:
-                choice = "y"
-            else:
-                choice = prompt_yes_no_skip_quit(lines, allow_all=True, default="n")
+                    for query in queries:
+                        try:
+                            result = fetch_hanja_entry_from_naver(page, query)
+                        except Exception as e:
+                            print(f"[{idx}/{len(files)}] ERROR {path}: query {query}: {e}")
+                            result = None
 
-            if choice == "q":
-                print("Stopped by user.")
-                return added
-            if choice == "a":
-                accept_all = True
-                choice = "y"
+                        if not result:
+                            print(f"[{idx}/{len(files)}] MISS {path}: query {query}")
+                            time.sleep(delay_seconds)
+                            continue
 
-            if choice == "y":
-                found_entry = ReviewEntry(
-                    file=str(path),
-                    query_used=query,
-                    korean=korean if isinstance(korean, str) else None,
-                    old_korean_native=old_native if isinstance(old_native, str) else None,
-                    new_korean_native=new_native,
-                    aliases=aliases,
-                )
-                append_review_entry(review_path, found_entry)
-                existing_entries.append(found_entry)
-                added += 1
-                print(f"ADDED review entry for {path}")
-                break
+                        scraped_korean = result["korean"]
+                        scraped_native = result["korean_native"]
 
-            print(f"SKIPPED candidate for {path} using query {query}")
-            # if user said no, continue to next query candidate
-            time.sleep(delay_seconds)
+                        if yaml_korean and scraped_korean != yaml_korean:
+                            print(
+                                f"[{idx}/{len(files)}] REJECT {path}: query {query} "
+                                f"gave korean={scraped_korean}, expected={yaml_korean}"
+                            )
+                            time.sleep(delay_seconds)
+                            continue
 
-        if found_entry is None:
-            print(f"NO REVIEW ENTRY for {path}")
+                        matched = ReviewEntry(
+                            file=str(path),
+                            query_used=query,
+                            korean=yaml_korean,
+                            old_korean_native=old_native,
+                            new_korean_native=scraped_native,
+                            aliases=aliases,
+                        )
+                        append_review_entry(review_path, matched)
+                        existing_entries.append(matched)
+                        added += 1
+                        print(
+                            f"[{idx}/{len(files)}] ADD {path}: "
+                            f"query={query} korean={scraped_korean} native={scraped_native}"
+                        )
+                        break
 
-        time.sleep(delay_seconds)
+                    if matched is None:
+                        print(f"[{idx}/{len(files)}] NO MATCH {path}")
+
+                    time.sleep(delay_seconds)
+
+                except Exception as e:
+                    print(f"[{idx}/{len(files)}] ERROR {path}: {e}")
+                    time.sleep(delay_seconds)
+
+        finally:
+            browser.close()
 
     return added
+
+
+def prompt_choice(prompt: str, valid: set[str], default: str | None = None) -> str:
+    while True:
+        raw = input(prompt).strip().lower()
+        if raw == "" and default is not None:
+            return default
+        if raw in valid:
+            return raw
+        print(f"Please enter one of: {', '.join(sorted(valid))}")
 
 
 def apply_phase(review_path: Path, delay_seconds: float) -> int:
@@ -304,37 +357,36 @@ def apply_phase(review_path: Path, delay_seconds: float) -> int:
     changed = 0
     accept_all = False
 
-    for entry in entries:
+    for idx, entry in enumerate(entries, start=1):
         path = Path(entry.file)
 
         if not path.exists():
-            print(f"SKIP {path}: file no longer exists")
+            print(f"[{idx}/{len(entries)}] SKIP {path}: file missing")
             continue
 
         try:
             data, body = read_markdown_data(path)
         except Exception as e:
-            print(f"ERROR {path}: {e}")
+            print(f"[{idx}/{len(entries)}] ERROR {path}: {e}")
             continue
 
-        skip, reason = should_skip_for_apply(path, data, entry)
-        if skip:
-            print(f"SKIP {path}: {reason}")
+        if korean_native_is_filled(data.get("korean_native")):
+            print(f"[{idx}/{len(entries)}] SKIP {path}: korean_native already filled")
             continue
 
-        lines = [
-            f"File:              {path}",
-            f"Query used:        {entry.query_used}",
-            f"korean:            {entry.korean or ''}",
-            f"old korean_native: {entry.old_korean_native or ''}",
-            f"new korean_native: {entry.new_korean_native}",
-            "Write this value into the markdown file?",
-        ]
+        print()
+        print("=" * 70)
+        print(f"[{idx}/{len(entries)}] File:              {path}")
+        print(f"Query used:        {entry.query_used}")
+        print(f"korean:            {entry.korean or ''}")
+        print(f"old korean_native: {entry.old_korean_native or ''}")
+        print(f"new korean_native: {entry.new_korean_native}")
+        print("=" * 70)
 
         if accept_all:
             choice = "y"
         else:
-            choice = prompt_yes_no_skip_quit(lines, allow_all=True, default="n")
+            choice = prompt_choice("Apply? [y/N/q/a]: ", {"y", "n", "q", "a"}, default="n")
 
         if choice == "q":
             print("Stopped by user.")
@@ -344,17 +396,18 @@ def apply_phase(review_path: Path, delay_seconds: float) -> int:
             choice = "y"
 
         if choice != "y":
-            print(f"SKIP {path}: not applied")
+            print(f"[{idx}/{len(entries)}] SKIP {path}: not applied")
             time.sleep(delay_seconds)
             continue
 
         data["korean_native"] = entry.new_korean_native
+
         try:
             write_markdown_data(path, data, body)
             changed += 1
-            print(f"UPDATED {path}")
+            print(f"[{idx}/{len(entries)}] UPDATED {path}")
         except Exception as e:
-            print(f"ERROR writing {path}: {e}")
+            print(f"[{idx}/{len(entries)}] ERROR writing {path}: {e}")
 
         time.sleep(delay_seconds)
 
@@ -363,50 +416,19 @@ def apply_phase(review_path: Path, delay_seconds: float) -> int:
 
 def build_argparser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Two-phase agent for collecting and applying korean_native values in Obsidian markdown files."
+        description="Two-phase Naver hanja collector/apply tool for Obsidian character markdown files."
     )
-
     subparsers = parser.add_subparsers(dest="command", required=True)
 
-    p_collect = subparsers.add_parser(
-        "collect",
-        help="Scan markdown files and build the review file.",
-    )
-    p_collect.add_argument(
-        "--root",
-        type=Path,
-        default=Path("."),
-        help="Root directory to scan. Default: current directory.",
-    )
-    p_collect.add_argument(
-        "--review-file",
-        type=Path,
-        default=Path(DEFAULT_REVIEW_FILE),
-        help=f"Review file path. Default: {DEFAULT_REVIEW_FILE}",
-    )
-    p_collect.add_argument(
-        "--delay",
-        type=float,
-        default=1.5,
-        help="Delay in seconds between lookups. Default: 1.5",
-    )
+    p_collect = subparsers.add_parser("collect", help="Collect candidate korean_native values into a review file.")
+    p_collect.add_argument("--root", type=Path, default=Path("."), help="Root directory to scan. Default: current directory.")
+    p_collect.add_argument("--review-file", type=Path, default=Path(DEFAULT_REVIEW_FILE), help="Review file path.")
+    p_collect.add_argument("--delay", type=float, default=4.0, help="Delay in seconds between requests. Default: 4.0")
+    p_collect.add_argument("--show-browser", action="store_true", help="Show browser window while collecting.")
 
-    p_apply = subparsers.add_parser(
-        "apply",
-        help="Read the review file and apply approved values into markdown files.",
-    )
-    p_apply.add_argument(
-        "--review-file",
-        type=Path,
-        default=Path(DEFAULT_REVIEW_FILE),
-        help=f"Review file path. Default: {DEFAULT_REVIEW_FILE}",
-    )
-    p_apply.add_argument(
-        "--delay",
-        type=float,
-        default=0.5,
-        help="Delay in seconds between writes. Default: 0.5",
-    )
+    p_apply = subparsers.add_parser("apply", help="Prompt and apply review file values into markdown files.")
+    p_apply.add_argument("--review-file", type=Path, default=Path(DEFAULT_REVIEW_FILE), help="Review file path.")
+    p_apply.add_argument("--delay", type=float, default=0.5, help="Delay in seconds between writes. Default: 0.5")
 
     return parser
 
@@ -420,6 +442,7 @@ def main() -> int:
             root=args.root,
             review_path=args.review_file,
             delay_seconds=args.delay,
+            headless=not args.show_browser,
         )
         print(f"\nDone. Added {added} review entr{'y' if added == 1 else 'ies'}.")
         return 0
@@ -432,7 +455,6 @@ def main() -> int:
         print(f"\nDone. Applied {changed} change{'s' if changed != 1 else ''}.")
         return 0
 
-    parser.error("Unknown command")
     return 2
 
 
