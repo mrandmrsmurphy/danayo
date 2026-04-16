@@ -1,33 +1,33 @@
 ---
-mandarin: kū
+mandarin: "kū"
 cantonese: fat1
-korean: 굴
-korean_native: ""
+korean: "굴"
+korean_native: "굴"
 japanese:
   - KUTSU
   - KOTSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: uət
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "uət"
 stroke_count: 13
-radical: 穴
+radical: "穴"
 skip_number: 2-3-10
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - cavern
 羅馬字: kod
-韓文: 콛
-joyo_level: 表外字
+韓文: "콛"
+joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 6244
 mc_id: 3629
-graphemic_classification: 屈
-stand_in: 窟
+graphemic_classification: "屈"
+stand_in: "窟"
 aliases:
-注音: ㄎㄛㄊ
+注音: "ㄎㄛㄊ"
 tags:
   - character
 ---

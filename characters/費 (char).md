@@ -1,34 +1,34 @@
 ---
-mandarin: fèi
+mandarin: "fèi"
 cantonese: fai3
-korean: 비
-korean_native: ""
+korean: "비"
+korean_native: "쓸"
 japanese:
   - HI
   - FUTSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: fʰ
-middle_chinese_final: ʉi
+middle_chinese_initial: "fʰ"
+middle_chinese_final: "ʉi"
 stroke_count: 12
-radical: 貝
+radical: "貝"
 skip_number: 2-5-7
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - expense
 羅馬字: fai
-韓文: 빼
-joyo_level: "5"
+韓文: "빼"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4263
 mc_id: 1046
-graphemic_classification: 弗
-stand_in: 費
+graphemic_classification: "弗"
+stand_in: "費"
 aliases:
   - 费
-注音: ㄈㄚ˙
+注音: "ㄈㄚ˙"
 tags:
   - character
 ---

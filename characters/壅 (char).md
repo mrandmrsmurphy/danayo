@@ -1,32 +1,32 @@
 ---
 mandarin: "yōng"
-cantonese: "jung1"
+cantonese: jung1
 korean: "옹"
-korean_native: ""
+korean_native: "막을"
 japanese:
   - YOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: ɨoŋ
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "ɨoŋ"
 stroke_count: 16
-radical: 土
+radical: "土"
 skip_number: 1-3-13
 grade_level: "先進"
 pos: ""
 english:
   - obstruct
 羅馬字: "'ong"
-韓文: 옹
-joyo_level: 表外字
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "옹"
+joyo_level: "表外字"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 7240
 mc_id: 1860
-graphemic_classification: 雍
-stand_in: 壅
+graphemic_classification: "雍"
+stand_in: "壅"
 aliases:
-注音: ㄛㄥ
+注音: "ㄛㄥ"
 tags:
   - character
 ---

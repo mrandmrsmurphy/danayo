@@ -1,36 +1,36 @@
 ---
-mandarin: zuò
+mandarin: "zuò"
 cantonese: zok3
-korean: 작
-korean_native: ""
+korean: "작"
+korean_native: "지을"
 japanese:
   - SAKU
   - SA
 japanese_nanori: ""
 vietnamese:
   - tác
-middle_chinese_initial: t͡s
-middle_chinese_final: ɑk
+middle_chinese_initial: "t͡s"
+middle_chinese_final: "ɑk"
 stroke_count: 7
-radical: 人
+radical: "人"
 skip_number: 1-2-5
-grade_level: "1"
-pos: 事詞
+grade_level: 1
+pos: "事詞"
 english:
   - make
   - do
 羅馬字: jag
-韓文: 작
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "작"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 122
 mc_id: 199
-graphemic_classification: 乍
-stand_in: 作
+graphemic_classification: "乍"
+stand_in: "作"
 aliases:
   - 做
-注音: ㄐㄚㄎ
+注音: "ㄐㄚㄎ"
 tags:
   - character
 ---

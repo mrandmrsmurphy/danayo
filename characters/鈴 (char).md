@@ -1,8 +1,8 @@
 ---
 mandarin: "líng"
-cantonese: "ling4"
+cantonese: ling4
 korean: "령"
-korean_native: ""
+korean_native: "방울"
 japanese:
   - REI
   - RIN
@@ -10,26 +10,26 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: eŋ
+middle_chinese_final: "eŋ"
 stroke_count: 13
-radical: 金
+radical: "金"
 skip_number: 1-8-5
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - small bell
 羅馬字: leng
-韓文: 렁
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 名
+韓文: "렁"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "名"
 danayo_id: 5357
 mc_id: 4293
-graphemic_classification: 令
-stand_in: 鈴
+graphemic_classification: "令"
+stand_in: "鈴"
 aliases:
   - 铃
-注音: ㄌㄝㄥ
+注音: "ㄌㄝㄥ"
 tags:
   - character
 ---

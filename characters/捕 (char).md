@@ -1,8 +1,8 @@
 ---
 mandarin: "bǔ"
-cantonese: "bou6"
+cantonese: bou6
 korean: "포"
-korean_native: ""
+korean_native: "잡을"
 japanese:
   - HO
 japanese_nanori: ""
@@ -10,24 +10,24 @@ vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: uo
 stroke_count: 10
-radical: 手
+radical: "手"
 skip_number: 1-3-7
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - catch
   - grab
 羅馬字: bo
-韓文: 보
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 高等
+韓文: "보"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "高等"
 danayo_id: 5224
 mc_id: 1098
-graphemic_classification: 甫
-stand_in: 捕
+graphemic_classification: "甫"
+stand_in: "捕"
 aliases:
-注音: ㄅㄛ
+注音: "ㄅㄛ"
 tags:
   - character
 ---

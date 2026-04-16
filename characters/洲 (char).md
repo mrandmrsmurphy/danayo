@@ -1,32 +1,32 @@
 ---
 mandarin: "zhōu"
-cantonese: "zau1"
+cantonese: zau1
 korean: "주"
-korean_native: ""
+korean_native: "물가"
 japanese:
   - SHUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: ɨu
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "ɨu"
 stroke_count: 9
-radical: 水
+radical: "水"
 skip_number: 1-3-6
 grade_level: "先進"
 pos: ""
 english:
   - islet
 羅馬字: juu
-韓文: 줏
-joyo_level: 日本人名用漢字
-hsk_level: "4"
-hanmun_edu_level: 高等
+韓文: "줏"
+joyo_level: "日本人名用漢字"
+hsk_level: 4
+hanmun_edu_level: "高等"
 danayo_id: 7503
 mc_id: 3213
-graphemic_classification: 州
-stand_in: 洲
+graphemic_classification: "州"
+stand_in: "洲"
 aliases:
-注音: ㄐㄨˇ
+注音: "ㄐㄨˇ"
 tags:
   - character
 ---

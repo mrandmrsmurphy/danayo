@@ -1,8 +1,8 @@
 ---
 mandarin: "nù"
-cantonese: "nou6"
+cantonese: nou6
 korean: "노"
-korean_native: ""
+korean_native: "성낼"
 japanese:
   - DO
   - NU
@@ -11,23 +11,23 @@ vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: uo
 stroke_count: 9
-radical: 心
+radical: "心"
 skip_number: 2-5-4
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - angry
 羅馬字: no
-韓文: 노
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "노"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 3120
 mc_id: 400
-graphemic_classification: 奴
-stand_in: 怒
+graphemic_classification: "奴"
+stand_in: "怒"
 aliases:
-注音: ㄋㄛ
+注音: "ㄋㄛ"
 tags:
   - character
 ---

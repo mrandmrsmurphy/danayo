@@ -1,33 +1,33 @@
 ---
-mandarin: fǒu
+mandarin: "fǒu"
 cantonese: fau2
-korean: 부
-korean_native: ""
+korean: "부"
+korean_native: "아닐"
 japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
   - phầu
 middle_chinese_initial: f
-middle_chinese_final: ɨu
+middle_chinese_final: "ɨu"
 stroke_count: 7
-radical: 口
+radical: "口"
 skip_number: 2-4-3
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - no
 羅馬字: fau
-韓文: 빳
-joyo_level: "6"
-hsk_level: "4"
-hanmun_edu_level: 中
+韓文: "빳"
+joyo_level: 6
+hsk_level: 4
+hanmun_edu_level: "中"
 danayo_id: 4052
 mc_id: 1170
-graphemic_classification: 不
-stand_in: 否
+graphemic_classification: "不"
+stand_in: "否"
 aliases:
-注音: ㄈㄚˇ
+注音: "ㄈㄚˇ"
 tags:
   - character
 ---

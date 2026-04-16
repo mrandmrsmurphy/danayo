@@ -1,35 +1,35 @@
 ---
-mandarin: fù
+mandarin: "fù"
 cantonese: fuk1
-korean: 복
-korean_native: ""
+korean: "복"
+korean_native: "배"
 japanese:
   - FUKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: f
-middle_chinese_final: ɨuk
+middle_chinese_final: "ɨuk"
 stroke_count: 13
-radical: 肉
+radical: "肉"
 skip_number: 1-4-9
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - stomach
   - belly
   - abdomen
 羅馬字: fug
-韓文: 뿍
-joyo_level: "6"
+韓文: "뿍"
+joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5321
 mc_id: 886
-graphemic_classification: 复
-stand_in: 腹
+graphemic_classification: "复"
+stand_in: "腹"
 aliases:
   - 鰒
-注音: ㄈㄨㄎ
+注音: "ㄈㄨㄎ"
 tags:
   - character
 ---

@@ -1,36 +1,36 @@
 ---
 mandarin: "shì"
-cantonese: "si6"
+cantonese: si6
 korean: "사"
-korean_native: ""
+korean_native: "일"
 japanese:
   - JI
   - SHI
 japanese_nanori: ""
 vietnamese:
   - sự
-middle_chinese_initial: d͡ʒ
-middle_chinese_final: ɨ
+middle_chinese_initial: "d͡ʒ"
+middle_chinese_final: "ɨ"
 stroke_count: 8
-radical: 亅
+radical: "亅"
 skip_number: 4-8-3
-grade_level: "1"
-pos: 名詞
+grade_level: 1
+pos: "名詞"
 english:
   - thing
   - action
 羅馬字: ji
-韓文: 지
-joyo_level: "3"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "지"
+joyo_level: 3
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 128
 mc_id: 42
-graphemic_classification: 吏
-stand_in: 事
+graphemic_classification: "吏"
+stand_in: "事"
 aliases:
   - 亊
-注音: ㄐㄧ
+注音: "ㄐㄧ"
 tags:
   - character
 ---

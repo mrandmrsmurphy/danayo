@@ -1,16 +1,16 @@
 ---
 mandarin: "guǐ"
-cantonese: "gwai2"
+cantonese: gwai2
 korean: "궤"
-korean_native: ""
+korean_native: "바큇자국"
 japanese:
   - KI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ɣiuɪ
+middle_chinese_final: "ɣiuɪ"
 stroke_count: 9
-radical: 車
+radical: "車"
 skip_number: 1-7-2
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - path
   - rut
 羅馬字: kui
-韓文: 퀴
+韓文: "퀴"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 7066
 mc_id: 1608
-graphemic_classification: 九
-stand_in: 軌
+graphemic_classification: "九"
+stand_in: "軌"
 aliases:
   - 轨
-注音: ㄎㄨ˙
+注音: "ㄎㄨ˙"
 tags:
   - character
 ---

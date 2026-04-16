@@ -1,18 +1,18 @@
 ---
 mandarin: "yè"
-cantonese: "jip6"
+cantonese: jip6
 korean: "혈"
-korean_native: ""
+korean_native: "머리"
 japanese:
   - KETSU
   - YOU
   - KECHI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
+middle_chinese_initial: "ɣ"
 middle_chinese_final: et
 stroke_count: 9
-radical: 頁
+radical: "頁"
 skip_number: 2-2-7
 grade_level: "先進"
 pos: ""
@@ -20,17 +20,17 @@ english:
   - page
   - sheet
 羅馬字: hed
-韓文:  헏
-joyo_level: 日本人名用漢字
-hsk_level: "1"
+韓文: "헏"
+joyo_level: "日本人名用漢字"
+hsk_level: 1
 hanmun_edu_level: ""
 danayo_id: 7125
 mc_id: 2684
-graphemic_classification: 象形
-stand_in: 頁
+graphemic_classification: "象形"
+stand_in: "頁"
 aliases:
   - 页
-注音: ㄏㄝㄊ
+注音: "ㄏㄝㄊ"
 tags:
   - character
 ---

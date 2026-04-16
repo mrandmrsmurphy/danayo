@@ -1,34 +1,34 @@
 ---
 mandarin: "huán"
-cantonese: "waan4"
+cantonese: waan4
 korean: "환"
-korean_native: ""
+korean_native: "고리"
 japanese:
   - KAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: ɣuan
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "ɣuan"
 stroke_count: 17
-radical: 玉
+radical: "玉"
 skip_number: 1-4-13
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - ring
   - circle
 羅馬字: hwan
-韓文: 환
-joyo_level: 高等
+韓文: "환"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5308
 mc_id: 1493
-graphemic_classification: 瞏
-stand_in: 環
+graphemic_classification: "瞏"
+stand_in: "環"
 aliases:
   - 环
-注音: ㄏˇㄚㄋ
+注音: "ㄏˇㄚㄋ"
 tags:
   - character
 ---

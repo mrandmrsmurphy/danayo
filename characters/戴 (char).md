@@ -1,33 +1,33 @@
 ---
 mandarin: "dài"
-cantonese: "daai3"
+cantonese: daai3
 korean: "대"
-korean_native: ""
+korean_native: "일"
 japanese:
   - TAI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
-middle_chinese_final: ʌi
+middle_chinese_final: "ʌi"
 stroke_count: 17
-radical: 戈
+radical: "戈"
 skip_number: 3-6-11
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - be crowned with
   - wear on top
 羅馬字: tai
-韓文: 태
-joyo_level: 表外字
+韓文: "태"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6330
 mc_id: 1279
-graphemic_classification: 代
-stand_in: 戴
+graphemic_classification: "代"
+stand_in: "戴"
 aliases:
-注音: ㄊㄚ˙
+注音: "ㄊㄚ˙"
 tags:
   - character
 ---

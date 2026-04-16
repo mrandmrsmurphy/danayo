@@ -1,33 +1,33 @@
 ---
 mandarin: "tū"
-cantonese: "tuk1"
+cantonese: tuk1
 korean: "독"
-korean_native: ""
+korean_native: "대머리"
 japanese:
   - TOKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: tʰ
+middle_chinese_initial: "tʰ"
 middle_chinese_final: uk
 stroke_count: 7
-radical: 禾
+radical: "禾"
 skip_number: 2-5-2
 grade_level: "先進"
 pos: ""
 english:
   - bald
 羅馬字: tog
-韓文: 톡
-joyo_level: 表外字
+韓文: "톡"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7466
 mc_id: 3839
-graphemic_classification: 會意
-stand_in: 禿
+graphemic_classification: "會意"
+stand_in: "禿"
 aliases:
   - 秃
-注音: ㄊㄛㄎ
+注音: "ㄊㄛㄎ"
 tags:
   - character
 ---

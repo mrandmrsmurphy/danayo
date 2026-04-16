@@ -1,34 +1,34 @@
 ---
 mandarin: "huò"
-cantonese: "waak6"
+cantonese: waak6
 korean: "혹"
-korean_native: ""
+korean_native: "미혹할"
 japanese:
   - WAKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: wǝk
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "wǝk"
 stroke_count: 12
-radical: 心
+radical: "心"
 skip_number: 2-8-4
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - annoying
   - confusing
   - baffling
 羅馬字: hog
-韓文: 혹
-joyo_level: 高等
+韓文: "혹"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6349
 mc_id: 803
-graphemic_classification: 或
-stand_in: 惑
+graphemic_classification: "或"
+stand_in: "惑"
 aliases:
-注音: ㄏㄛㄎ
+注音: "ㄏㄛㄎ"
 tags:
   - character
 ---

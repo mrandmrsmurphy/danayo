@@ -1,34 +1,34 @@
 ---
 mandarin: "xiù"
-cantonese: "sau3"
+cantonese: sau3
 korean: "수"
-korean_native: ""
+korean_native: "녹슬"
 japanese:
   - SHUU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
-middle_chinese_final: ɨu
+middle_chinese_final: "ɨu"
 stroke_count: 15
-radical: 金
+radical: "金"
 skip_number: 1-8-7
 grade_level: "先進"
 pos: ""
 english:
   - rust
 羅馬字: syu
-韓文: 슈
-joyo_level: 表外字
-hsk_level: "3"
-hanmun_edu_level: 名
+韓文: "슈"
+joyo_level: "表外字"
+hsk_level: 3
+hanmun_edu_level: "名"
 danayo_id: 7327
 mc_id: 8367
-graphemic_classification: 秀
-stand_in: 銹
+graphemic_classification: "秀"
+stand_in: "銹"
 aliases:
   - 鏽
   - 锈
-注音: ㄙ˙ㄨ
+注音: "ㄙ˙ㄨ"
 tags:
   - character
 ---

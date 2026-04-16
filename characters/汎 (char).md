@@ -1,34 +1,34 @@
 ---
-mandarin: fàn
+mandarin: "fàn"
 cantonese: faan4
-korean: 범
-korean_native: ""
+korean: "범"
+korean_native: "넓을"
 japanese:
   - HAN
   - FUU
   - HOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: fʰ
-middle_chinese_final: ɨɐm
+middle_chinese_initial: "fʰ"
+middle_chinese_final: "ɨɐm"
 stroke_count: 6
-radical: 水
+radical: "水"
 skip_number: 1-3-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - pan-
 羅馬字: fam
-韓文: 빰
+韓文: "빰"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7508
 mc_id: 2778
-graphemic_classification: 凡
-stand_in: 汎
+graphemic_classification: "凡"
+stand_in: "汎"
 aliases:
-注音: ㄈㄚㄇ
+注音: "ㄈㄚㄇ"
 tags:
   - character
 ---

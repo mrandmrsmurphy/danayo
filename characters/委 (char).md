@@ -1,34 +1,34 @@
 ---
 mandarin: "wěi"
-cantonese: "wai2"
+cantonese: wai2
 korean: "위"
-korean_native: ""
+korean_native: "맡길"
 japanese:
   - I
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: ɣiuᴇ
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "ɣiuᴇ"
 stroke_count: 8
-radical: 女
+radical: "女"
 skip_number: 2-5-3
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - appoint
   - send
   - commission
 羅馬字: "'wei"
-韓文: 웨
-joyo_level: "3"
+韓文: "웨"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4073
 mc_id: 1045
-graphemic_classification: 禾
-stand_in: 委
+graphemic_classification: "禾"
+stand_in: "委"
 aliases:
-注音: ˇㄝ˙
+注音: "ˇㄝ˙"
 tags:
   - character
 ---

@@ -1,33 +1,33 @@
 ---
 mandarin: "yǐn"
-cantonese: "jan5"
+cantonese: jan5
 korean: "인"
-korean_native: ""
+korean_native: "끌"
 japanese:
   - IN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: iɪn
+middle_chinese_final: "iɪn"
 stroke_count: 4
-radical: 弓
+radical: "弓"
 skip_number: 1-3-1
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - pull
   - tug
 羅馬字: "'in"
-韓文: 인
-joyo_level: "2"
+韓文: "인"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2090
 mc_id: 569
-graphemic_classification: 會意
-stand_in: 引
+graphemic_classification: "會意"
+stand_in: "引"
 aliases:
-注音: ㄧㄋ
+注音: "ㄧㄋ"
 tags:
   - character
 ---

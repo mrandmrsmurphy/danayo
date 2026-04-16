@@ -1,35 +1,35 @@
 ---
 mandarin: "lì"
-cantonese: "leot6"
+cantonese: leot6
 korean: "률"
-korean_native: ""
+korean_native: "떨릴"
 japanese:
   - RITSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: iɪt
+middle_chinese_final: "iɪt"
 stroke_count: 13
-radical: 心
+radical: "心"
 skip_number: 1-3-10
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - tremble
   - shudder
   - shiver
 羅馬字: lid
-韓文: 릳
-joyo_level: 表外字
+韓文: "릳"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6346
 mc_id: 2316
-graphemic_classification: 栗
-stand_in: 慄
+graphemic_classification: "栗"
+stand_in: "慄"
 aliases:
   - 栗
-注音: ㄌㄧㄊ
+注音: "ㄌㄧㄊ"
 tags:
   - character
 ---

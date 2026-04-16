@@ -1,33 +1,33 @@
 ---
 mandarin: "lián"
-cantonese: "lim4"
+cantonese: lim4
 korean: "렴"
-korean_native: ""
+korean_native: "청렴할"
 japanese:
   - REN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: iᴇm
+middle_chinese_final: "iᴇm"
 stroke_count: 13
-radical: 广
+radical: "广"
 skip_number: 3-3-10
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - upright
   - honest
 羅馬字: lyem
-韓文: 렴
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 高等
+韓文: "렴"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "高等"
 danayo_id: 6380
 mc_id: 744
-graphemic_classification: 兼
-stand_in: 廉
+graphemic_classification: "兼"
+stand_in: "廉"
 aliases:
-注音: ㄌ˙ㄝㄇ
+注音: "ㄌ˙ㄝㄇ"
 tags:
   - character
 ---

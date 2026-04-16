@@ -1,34 +1,34 @@
 ---
 mandarin: "xī"
-cantonese: "sik1"
+cantonese: sik1
 korean: "석"
-korean_native: ""
+korean_native: "아낄"
 japanese:
   - SEKI
   - SHAKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
-middle_chinese_final: iᴇk
+middle_chinese_final: "iᴇk"
 stroke_count: 11
-radical: 心
+radical: "心"
 skip_number: 1-3-8
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - begrudge
   - rue
 羅馬字: seg
-韓文: 석
-joyo_level: 高等
+韓文: "석"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3128
 mc_id: 1961
-graphemic_classification: 昔
-stand_in: 惜
+graphemic_classification: "昔"
+stand_in: "惜"
 aliases:
-注音: ㄙㄝㄎ
+注音: "ㄙㄝㄎ"
 tags:
   - character
 ---

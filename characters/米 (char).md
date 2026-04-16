@@ -1,8 +1,8 @@
 ---
 mandarin: "mǐ"
-cantonese: "mai5"
+cantonese: mai5
 korean: "미"
-korean_native: ""
+korean_native: "쌀"
 japanese:
   - BEI
   - MAI
@@ -12,23 +12,23 @@ vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: ei
 stroke_count: 6
-radical: 米
+radical: "米"
 skip_number: 4-6-3
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - rice (uncooked)
 羅馬字: mei
-韓文: 메
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "메"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 92
 mc_id: 1319
-graphemic_classification: 象形
-stand_in: 米
+graphemic_classification: "象形"
+stand_in: "米"
 aliases:
-注音: ㄇㄝ˙
+注音: "ㄇㄝ˙"
 tags:
   - character
 ---

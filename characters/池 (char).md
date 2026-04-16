@@ -1,34 +1,34 @@
 ---
 mandarin: "chí"
-cantonese: "ci4"
+cantonese: ci4
 korean: "지"
-korean_native: ""
+korean_native: "못"
 japanese:
   - CHI
   - TA
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɣiᴇ
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɣiᴇ"
 stroke_count: 6
-radical: 水
+radical: "水"
 skip_number: 1-3-3
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - pond
   - reservoir
 羅馬字: jui
-韓文: 쥐
-joyo_level: "2"
+韓文: "쥐"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4152
 mc_id: 1070
-graphemic_classification: 也
-stand_in: 池
+graphemic_classification: "也"
+stand_in: "池"
 aliases:
-注音: ㄐㄨ˙
+注音: "ㄐㄨ˙"
 tags:
   - character
 ---

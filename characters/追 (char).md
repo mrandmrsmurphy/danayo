@@ -1,34 +1,34 @@
 ---
 mandarin: "zhuī"
-cantonese: "zeoi1"
+cantonese: zeoi1
 korean: "추"
-korean_native: ""
+korean_native: "쫓을"
 japanese:
   - TSUI
   - TAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʈ
-middle_chinese_final: ɣiuɪ
+middle_chinese_initial: "ʈ"
+middle_chinese_final: "ɣiuɪ"
 stroke_count: 9
-radical: 辵
+radical: "辵"
 skip_number: 3-3-6
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - follow
   - hunt
 羅馬字: tui
-韓文: 튀
-joyo_level: "3"
+韓文: "튀"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2247
 mc_id: 752
-graphemic_classification: 堆
-stand_in: 追
+graphemic_classification: "堆"
+stand_in: "追"
 aliases:
-注音: ㄊㄨ˙
+注音: "ㄊㄨ˙"
 tags:
   - character
 ---

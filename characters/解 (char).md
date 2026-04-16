@@ -1,34 +1,34 @@
 ---
 mandarin: "jiě"
-cantonese: "gaai2"
+cantonese: gaai2
 korean: "해"
-korean_native: ""
+korean_native: "풀"
 japanese:
   - KAI
   - GE
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ɣɛ
+middle_chinese_final: "ɣɛ"
 stroke_count: 13
-radical: 角
+radical: "角"
 skip_number: 1-7-6
-grade_level: "3"
-pos: 事詞
+grade_level: 3
+pos: "事詞"
 english:
   - explain
 羅馬字: gyai
-韓文: 걔
-joyo_level: "5"
+韓文: "걔"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3236
 mc_id: 466
-graphemic_classification: 角
-stand_in: 解
+graphemic_classification: "角"
+stand_in: "解"
 aliases:
   - 獬
-注音: ㄍ˙ㄚ˙
+注音: "ㄍ˙ㄚ˙"
 tags:
   - character
 ---

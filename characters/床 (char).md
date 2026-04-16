@@ -1,18 +1,18 @@
 ---
 mandarin: "chuáng"
-cantonese: "cong4"
+cantonese: cong4
 korean: "상"
-korean_native: ""
+korean_native: "평상"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: d͡ʒ
-middle_chinese_final: ɨɐŋ
+middle_chinese_initial: "d͡ʒ"
+middle_chinese_final: "ɨɐŋ"
 stroke_count: 7
-radical: 广
+radical: "广"
 skip_number: 3-3-4
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - bed
@@ -20,16 +20,16 @@ english:
   - chassis
   - frame
 羅馬字: syam
-韓文: 샴
-joyo_level: 高等
-hsk_level: "1"
-hanmun_edu_level: 高等
+韓文: "샴"
+joyo_level: "高等"
+hsk_level: 1
+hanmun_edu_level: "高等"
 danayo_id: 4094
 mc_id: 1827
-graphemic_classification: 牀
-stand_in: 床
+graphemic_classification: "牀"
+stand_in: "床"
 aliases:
-注音: ㄙ˙ㄚㄇ
+注音: "ㄙ˙ㄚㄇ"
 tags:
   - character
 ---

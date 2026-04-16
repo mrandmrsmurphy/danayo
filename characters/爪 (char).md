@@ -1,33 +1,33 @@
 ---
 mandarin: "zhǎo"
-cantonese: "zaau2"
+cantonese: zaau2
 korean: "조"
-korean_native: ""
+korean_native: "손톱"
 japanese:
   - SOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ʃ
-middle_chinese_final: ɣau
+middle_chinese_initial: "t͡ʃ"
+middle_chinese_final: "ɣau"
 stroke_count: 4
-radical: 爪
+radical: "爪"
 skip_number: 3-3-1
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - animal foot
   - claw
 羅馬字: jwau
-韓文: 좟
-joyo_level: 表外字
+韓文: "좟"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6141
 mc_id: 1942
-graphemic_classification: 象形
-stand_in: 爪
+graphemic_classification: "象形"
+stand_in: "爪"
 aliases:
-注音: ㄐˇㄚˇ
+注音: "ㄐˇㄚˇ"
 tags:
   - character
 ---

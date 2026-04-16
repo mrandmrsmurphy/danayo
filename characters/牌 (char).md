@@ -1,16 +1,16 @@
 ---
 mandarin: "pái"
-cantonese: "paai4"
+cantonese: paai4
 korean: "패"
-korean_native: ""
+korean_native: "패"
 japanese:
   - HAI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
-middle_chinese_final: ɣɛ
+middle_chinese_final: "ɣɛ"
 stroke_count: 12
-radical: 片
+radical: "片"
 skip_number: 1-4-8
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - playing card
   - tile
 羅馬字: bai
-韓文: 배
-joyo_level: 表外字
-hsk_level: "2"
-hanmun_edu_level: 名
+韓文: "배"
+joyo_level: "表外字"
+hsk_level: 2
+hanmun_edu_level: "名"
 danayo_id: 7205
 mc_id: 0
-graphemic_classification: 卑
-stand_in: 牌
+graphemic_classification: "卑"
+stand_in: "牌"
 aliases:
-注音: ㄅㄚ˙
+注音: "ㄅㄚ˙"
 tags:
   - character
 ---

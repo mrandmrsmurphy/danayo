@@ -1,34 +1,34 @@
 ---
-mandarin: fǎng
+mandarin: "fǎng"
 cantonese: fong2
-korean: 방
-korean_native: ""
+korean: "방"
+korean_native: "길쌈"
 japanese:
   - BOU
   - HOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: fʰ
-middle_chinese_final: ʉɐŋ
+middle_chinese_initial: "fʰ"
+middle_chinese_final: "ʉɐŋ"
 stroke_count: 10
-radical: 糸
+radical: "糸"
 skip_number: 1-6-4
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - spin (yarn)
 羅馬字: fang
-韓文: 빵
+韓文: "빵"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6104
 mc_id: 3377
-graphemic_classification: 方
-stand_in: 紡
+graphemic_classification: "方"
+stand_in: "紡"
 aliases:
   - 纺
-注音: ㄈㄚㄥ
+注音: "ㄈㄚㄥ"
 tags:
   - character
 ---

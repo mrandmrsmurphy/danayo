@@ -1,32 +1,32 @@
 ---
 mandarin: "tóu"
-cantonese: "tau4"
+cantonese: tau4
 korean: "투"
-korean_native: ""
+korean_native: "던질"
 japanese:
   - TOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: əu
+middle_chinese_final: "əu"
 stroke_count: 7
-radical: 手
+radical: "手"
 skip_number: 1-3-4
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - throw
 羅馬字: dou
-韓文:  돗
-joyo_level: "3"
+韓文: "돗"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2109
 mc_id: 1287
-graphemic_classification: 殳
-stand_in: 投
+graphemic_classification: "殳"
+stand_in: "投"
 aliases:
-注音: ㄉㄛˇ
+注音: "ㄉㄛˇ"
 tags:
   - character
 ---

@@ -1,17 +1,17 @@
 ---
 mandarin: "háo"
-cantonese: "hou4"
+cantonese: hou4
 korean: "호"
-korean_native: ""
+korean_native: "터럭"
 japanese:
   - KOU
   - GOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: ɑu
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "ɑu"
 stroke_count: 11
-radical: 毛
+radical: "毛"
 skip_number: 2-2-9
 grade_level: "先進"
 pos: ""
@@ -19,16 +19,16 @@ english:
   - fine hair
   - milli-
 羅馬字: hau
-韓文: 핫
-joyo_level: 表外字
+韓文: "핫"
+joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 7117
 mc_id: 2274
-graphemic_classification: 高
-stand_in: 毫
+graphemic_classification: "高"
+stand_in: "毫"
 aliases:
-注音: ㄏㄚˇ
+注音: "ㄏㄚˇ"
 tags:
   - character
 ---

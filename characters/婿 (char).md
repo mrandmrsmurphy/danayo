@@ -1,8 +1,8 @@
 ---
 mandarin: "xù"
-cantonese: "sai3"
+cantonese: sai3
 korean: "서"
-korean_native: ""
+korean_native: "사위"
 japanese:
   - SEI
 japanese_nanori: ""
@@ -10,7 +10,7 @@ vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: ei
 stroke_count: 12
-radical: 女
+radical: "女"
 skip_number: 1-3-9
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - bridegroom
   - son-in-law
 羅馬字: sei
-韓文: 세
+韓文: "세"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7144
 mc_id: 2565
-graphemic_classification: 胥
-stand_in: 婿
+graphemic_classification: "胥"
+stand_in: "婿"
 aliases:
-注音: ㄙㄝ˙
+注音: "ㄙㄝ˙"
 tags:
   - character
 ---

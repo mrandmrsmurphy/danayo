@@ -1,34 +1,34 @@
 ---
 mandarin: "kěn"
-cantonese: "hang2"
+cantonese: hang2
 korean: "긍"
-korean_native: ""
+korean_native: "즐길"
 japanese:
   - KOU
   - KAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: əŋ
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "əŋ"
 stroke_count: 8
-radical: 肉
+radical: "肉"
 skip_number: 2-4-4
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - agree
   - be willing
 羅馬字: kung
-韓文: 쿵
+韓文: "쿵"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5240
 mc_id: 1049
-graphemic_classification: 會意
-stand_in: 肯
+graphemic_classification: "會意"
+stand_in: "肯"
 aliases:
-注音: ㄎㄨㄥ
+注音: "ㄎㄨㄥ"
 tags:
   - character
 ---

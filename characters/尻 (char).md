@@ -1,36 +1,36 @@
 ---
 mandarin: "kāo"
-cantonese: "haau1"
+cantonese: haau1
 korean: "고"
-korean_native: ""
+korean_native: "꽁무니"
 japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: ɑu
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "ɑu"
 stroke_count: 5
-radical: 尸
+radical: "尸"
 skip_number: 3-3-2
-grade_level: "6"
-pos: 名詞
+grade_level: 6
+pos: "名詞"
 english:
   - buttocks
 羅馬字: kau
-韓文: 캇
-joyo_level: 表外字
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "캇"
+joyo_level: "表外字"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 6010
 mc_id: 3578
-graphemic_classification: 九
-stand_in: 尻
+graphemic_classification: "九"
+stand_in: "尻"
 aliases:
   - 𡰼
   - 𡱧
   - 𡱂
   - 㞍
-注音: ㄎㄚˇ
+注音: "ㄎㄚˇ"
 tags:
   - character
 ---

@@ -1,19 +1,19 @@
 ---
 mandarin: "xiāng"
-cantonese: "soeng1"
+cantonese: soeng1
 korean: "상"
-korean_native: ""
+korean_native: "상자"
 japanese:
   - SHOU
   - SOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
-middle_chinese_final: ɨɐŋ
+middle_chinese_final: "ɨɐŋ"
 stroke_count: 15
-radical: 竹
+radical: "竹"
 skip_number: 1-6-9
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - case
@@ -21,16 +21,16 @@ english:
   - chest
   - trunk
 羅馬字: sang
-韓文: 상
-joyo_level: "3"
+韓文: "상"
+joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 5327
 mc_id: 3909
-graphemic_classification: 相
-stand_in: 箱
+graphemic_classification: "相"
+stand_in: "箱"
 aliases:
-注音: ㄙㄚㄥ
+注音: "ㄙㄚㄥ"
 tags:
   - character
 ---

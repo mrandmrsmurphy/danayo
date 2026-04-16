@@ -1,34 +1,34 @@
 ---
 mandarin: "míng"
-cantonese: "ming4"
+cantonese: ming4
 korean: "명"
-korean_native: ""
+korean_native: "울"
 japanese:
   - MEI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
-middle_chinese_final: ɣiæŋ
+middle_chinese_final: "ɣiæŋ"
 stroke_count: 14
-radical: 鳥
+radical: "鳥"
 skip_number: 1-3-11
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - cry
   - chirp
 羅馬字: myeng
-韓文: 명
-joyo_level: "2"
+韓文: "명"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2276
 mc_id: 865
-graphemic_classification: 會意
-stand_in: 鳴
+graphemic_classification: "會意"
+stand_in: "鳴"
 aliases:
   - 鸣
-注音: ㄇ˙ㄝㄥ
+注音: "ㄇ˙ㄝㄥ"
 tags:
   - character
 ---

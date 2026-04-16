@@ -1,17 +1,17 @@
 ---
 mandarin: "kuà"
-cantonese: "kwaa3"
+cantonese: kwaa3
 korean: "과"
-korean_native: ""
+korean_native: "넘을"
 japanese:
   - KO
   - KA
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: ɣua
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "ɣua"
 stroke_count: 13
-radical: 足
+radical: "足"
 skip_number: 1-7-6
 grade_level: "先進"
 pos: ""
@@ -19,16 +19,16 @@ english:
   - straddle
   - ride
 羅馬字: kwa
-韓文: 콰
-joyo_level: 日本人名用漢字
+韓文: "콰"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7180
 mc_id: 3269
-graphemic_classification: 夸
-stand_in: 跨
+graphemic_classification: "夸"
+stand_in: "跨"
 aliases:
-注音: ㄎˇㄚ
+注音: "ㄎˇㄚ"
 tags:
   - character
 ---

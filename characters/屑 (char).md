@@ -1,8 +1,8 @@
 ---
 mandarin: "xiè"
-cantonese: "sit3"
+cantonese: sit3
 korean: "설"
-korean_native: ""
+korean_native: "가루"
 japanese:
   - SETSU
 japanese_nanori: ""
@@ -10,7 +10,7 @@ vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: et
 stroke_count: 10
-radical: 尸
+radical: "尸"
 skip_number: 3-3-7
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - scraps
   - waste tidbits
 羅馬字: sed
-韓文: 섣
-joyo_level: 日本人名用漢字
+韓文: "섣"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7355
 mc_id: 3098
-graphemic_classification: 八
-stand_in: 屑
+graphemic_classification: "八"
+stand_in: "屑"
 aliases:
-注音: ㄙㄝㄊ
+注音: "ㄙㄝㄊ"
 tags:
   - character
 ---

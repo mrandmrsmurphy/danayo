@@ -1,36 +1,36 @@
 ---
 mandarin: "qī"
-cantonese: "kei4"
+cantonese: kei4
 korean: "기"
-korean_native: ""
+korean_native: "기약할"
 japanese:
   - KI
   - GO
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: g
-middle_chinese_final: ɨ
+middle_chinese_final: "ɨ"
 stroke_count: 12
-radical: 月
+radical: "月"
 skip_number: 1-4-8
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - period
   - time
   - season
 羅馬字: ki
-韓文: 키
-joyo_level: "3"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "키"
+joyo_level: 3
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 2131
 mc_id: 675
-graphemic_classification: 其
-stand_in: 期
+graphemic_classification: "其"
+stand_in: "期"
 aliases:
   - 朞
-注音: ㄎㄧ
+注音: "ㄎㄧ"
 tags:
   - character
 ---

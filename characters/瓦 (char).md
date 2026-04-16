@@ -1,32 +1,32 @@
 ---
 mandarin: "wǎ"
-cantonese: "ngaa5"
+cantonese: ngaa5
 korean: "와"
-korean_native: ""
+korean_native: "기와"
 japanese:
   - GA
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ŋ
-middle_chinese_final: ɣua
+middle_chinese_initial: "ŋ"
+middle_chinese_final: "ɣua"
 stroke_count: 5
-radical: 瓦
+radical: "瓦"
 skip_number: 4-5-1
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - tile
 羅馬字: "'wa"
-韓文: 와
-joyo_level: 高等
-hsk_level: "3"
-hanmun_edu_level: 中
+韓文: "와"
+joyo_level: "高等"
+hsk_level: 3
+hanmun_edu_level: "中"
 danayo_id: 3194
 mc_id: 1738
-graphemic_classification: 象形
-stand_in: 瓦
+graphemic_classification: "象形"
+stand_in: "瓦"
 aliases:
-注音: ˇㄚ
+注音: "ˇㄚ"
 tags:
   - character
 ---

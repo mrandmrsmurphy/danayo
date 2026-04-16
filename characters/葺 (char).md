@@ -1,32 +1,32 @@
 ---
 mandarin: "qì"
-cantonese: "cap1"
+cantonese: cap1
 korean: "즙"
-korean_native: ""
+korean_native: "기울"
 japanese:
   - SHUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: iɪp
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "iɪp"
 stroke_count: 12
-radical: 艸
+radical: "艸"
 skip_number: 2-3-9
 grade_level: "先進"
 pos: ""
 english:
   - roofed with
 羅馬字: cub
-韓文: 춥
-joyo_level: 日本人名用漢字
+韓文: "춥"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7305
 mc_id: 5288
-graphemic_classification: 咠
-stand_in: 葺
+graphemic_classification: "咠"
+stand_in: "葺"
 aliases:
-注音: ㄑㄨㄆ
+注音: "ㄑㄨㄆ"
 tags:
   - character
 ---

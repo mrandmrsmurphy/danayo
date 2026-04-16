@@ -1,32 +1,32 @@
 ---
 mandarin: "wēng"
-cantonese: "jung1"
+cantonese: jung1
 korean: "옹"
-korean_native: ""
+korean_native: "늙은이"
 japanese:
   - OU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: uŋ
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "uŋ"
 stroke_count: 10
-radical: 羽
+radical: "羽"
 skip_number: 2-2-8
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - venerable old man
 羅馬字: "'ong"
-韓文: 옹
-joyo_level: 高等
+韓文: "옹"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6384
 mc_id: 1689
-graphemic_classification: 公
-stand_in: 翁
+graphemic_classification: "公"
+stand_in: "翁"
 aliases:
-注音: ㄛㄥ
+注音: "ㄛㄥ"
 tags:
   - character
 ---

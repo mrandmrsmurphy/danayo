@@ -1,32 +1,32 @@
 ---
 mandarin: "lí"
-cantonese: "lei4"
+cantonese: lei4
 korean: "리"
-korean_native: ""
+korean_native: "배나무"
 japanese:
   - RI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: iɪ
+middle_chinese_final: "iɪ"
 stroke_count: 11
-radical: 木
+radical: "木"
 skip_number: 2-7-4
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - pear
 羅馬字: lii
-韓文: 릐
-joyo_level: "4"
+韓文: "릐"
+joyo_level: 4
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5215
 mc_id: 3411
-graphemic_classification: 利
-stand_in: 梨
+graphemic_classification: "利"
+stand_in: "梨"
 aliases:
-注音: ㄌㄧ˙
+注音: "ㄌㄧ˙"
 tags:
   - character
 ---

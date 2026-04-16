@@ -1,8 +1,8 @@
 ---
-mandarin: wǔ
+mandarin: "wǔ"
 cantonese: mou5
-korean: 무
-korean_native: ""
+korean: "무"
+korean_native: "호반"
 japanese:
   - BU
   - MU
@@ -10,27 +10,27 @@ japanese_nanori: ""
 vietnamese:
   - vũ
   - võ
-middle_chinese_initial: ɱ
-middle_chinese_final: ɨo
+middle_chinese_initial: "ɱ"
+middle_chinese_final: "ɨo"
 stroke_count: 8
-radical: 止
+radical: "止"
 skip_number: 3-4-4
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - military
 羅馬字: mu
-韓文: 무
-joyo_level: "5"
+韓文: "무"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3169
 mc_id: 134
-graphemic_classification: 會意
-stand_in: 武
+graphemic_classification: "會意"
+stand_in: "武"
 aliases:
   - 㱐
-注音: ㄇㄨ
+注音: "ㄇㄨ"
 tags:
   - character
 ---

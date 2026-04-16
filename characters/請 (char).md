@@ -1,20 +1,20 @@
 ---
 mandarin: "qǐng"
-cantonese: "cing2"
+cantonese: cing2
 korean: "청"
-korean_native: ""
+korean_native: "청할"
 japanese:
   - SEI
   - SHOU
   - SHIN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: iᴇŋ
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "iᴇŋ"
 stroke_count: 15
-radical: 言
+radical: "言"
 skip_number: 1-7-8
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - ask
@@ -22,17 +22,17 @@ english:
   - request
   - please
 羅馬字: cing
-韓文: 칭
-joyo_level: 高等
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "칭"
+joyo_level: "高等"
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 3242
 mc_id: 219
-graphemic_classification: 青
-stand_in: 請
+graphemic_classification: "青"
+stand_in: "請"
 aliases:
   - 请
-注音: ㄑㄧㄥ
+注音: "ㄑㄧㄥ"
 tags:
   - character
 ---

@@ -1,34 +1,34 @@
 ---
 mandarin: "cù"
-cantonese: "cuk1"
+cantonese: cuk1
 korean: "촉"
-korean_native: ""
+korean_native: "재촉할"
 japanese:
   - SOKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: ɨok
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "ɨok"
 stroke_count: 9
-radical: 人
+radical: "人"
 skip_number: 1-2-7
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - hurry
   - rush
   - hasten
 羅馬字: cog
-韓文: 촉
-joyo_level: 高等
+韓文: "촉"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6405
 mc_id: 2587
-graphemic_classification: 足
-stand_in: 促
+graphemic_classification: "足"
+stand_in: "促"
 aliases:
-注音: ㄑㄛㄎ
+注音: "ㄑㄛㄎ"
 tags:
   - character
 ---

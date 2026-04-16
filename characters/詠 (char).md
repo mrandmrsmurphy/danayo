@@ -1,32 +1,32 @@
 ---
 mandarin: "yǒng"
-cantonese: "wing6"
+cantonese: wing6
 korean: "영"
-korean_native: ""
+korean_native: "읊을"
 japanese:
   - EI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ø
-middle_chinese_final: wɣiæŋ
+middle_chinese_initial: "ø"
+middle_chinese_final: "wɣiæŋ"
 stroke_count: 12
-radical: 言
+radical: "言"
 skip_number: 1-7-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - recite
   - chant
 羅馬字: "'wing"
-韓文: 윙
-注音: ˇㄧㄥ
+韓文: "윙"
+注音: "ˇㄧㄥ"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6398
 mc_id: 2714
-graphemic_classification: 永
-stand_in: 詠
+graphemic_classification: "永"
+stand_in: "詠"
 aliases:
   - 咏
   - 𰵞

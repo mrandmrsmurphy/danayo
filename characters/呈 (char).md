@@ -1,33 +1,33 @@
 ---
 mandarin: "chéng"
-cantonese: "cing4"
+cantonese: cing4
 korean: "정"
-korean_native: ""
+korean_native: "드릴"
 japanese:
   - TEI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: iᴇŋ
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "iᴇŋ"
 stroke_count: 7
-radical: 口
+radical: "口"
 skip_number: 2-3-4
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - display
   - show
 羅馬字: ding
-韓文: 딩
+韓文: "딩"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6108
 mc_id: 3622
-graphemic_classification: 廷
-stand_in: 呈
+graphemic_classification: "廷"
+stand_in: "呈"
 aliases:
-注音: ㄉㄧㄥ
+注音: "ㄉㄧㄥ"
 tags:
   - character
 ---

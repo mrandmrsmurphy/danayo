@@ -1,36 +1,36 @@
 ---
-mandarin: wén
+mandarin: "wén"
 cantonese: man4
-korean: 문
-korean_native: ""
+korean: "문"
+korean_native: "무늬"
 japanese:
   - MON
   - BUN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɱ
-middle_chinese_final: ɨun
+middle_chinese_initial: "ɱ"
+middle_chinese_final: "ɨun"
 stroke_count: 10
-radical: 糸
+radical: "糸"
 skip_number: 1-6-4
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - mark
   - line
   - symbol
 羅馬字: mun
-韓文: 문
-joyo_level: 高等
+韓文: "문"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6247
 mc_id: 7695
-graphemic_classification: 文
-stand_in: 紋
+graphemic_classification: "文"
+stand_in: "紋"
 aliases:
   - 纹
-注音: ㄇㄨㄋ
+注音: "ㄇㄨㄋ"
 tags:
   - character
 ---

@@ -1,34 +1,34 @@
 ---
 mandarin: "xiāo"
-cantonese: "siu1"
+cantonese: siu1
 korean: "소"
-korean_native: ""
+korean_native: "사라질"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
-middle_chinese_final: iᴇu
+middle_chinese_final: "iᴇu"
 stroke_count: 10
-radical: 水
+radical: "水"
 skip_number: 1-3-7
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - vanish
   - die out
   - melt away
 羅馬字: syou
-韓文: 숏
-joyo_level: "3"
+韓文: "숏"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 5137
 mc_id: 1281
-graphemic_classification: 肖
-stand_in: 消
+graphemic_classification: "肖"
+stand_in: "消"
 aliases:
-注音: ㄙ˙ㄛˇ
+注音: "ㄙ˙ㄛˇ"
 tags:
   - character
 ---

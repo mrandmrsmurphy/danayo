@@ -1,18 +1,18 @@
 ---
 mandarin: "jǐ"
-cantonese: "gei2"
+cantonese: gei2
 korean: "기"
-korean_native: ""
+korean_native: "조짐"
 japanese:
   - KI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: g
-middle_chinese_final: ɨi
+middle_chinese_final: "ɨi"
 stroke_count: 12
-radical: 幺
+radical: "幺"
 skip_number: 4-12-4
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - several
@@ -20,17 +20,17 @@ english:
   - some
   - several
 羅馬字: gii
-韓文: 긔
-joyo_level: 高等
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "긔"
+joyo_level: "高等"
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 3107
 mc_id: 678
-graphemic_classification: 戍
-stand_in: 幾
+graphemic_classification: "戍"
+stand_in: "幾"
 aliases:
   - 几
-注音: ㄍㄧ˙
+注音: "ㄍㄧ˙"
 tags:
   - character
 ---

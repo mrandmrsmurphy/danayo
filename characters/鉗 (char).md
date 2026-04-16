@@ -1,17 +1,17 @@
 ---
 mandarin: "qián"
-cantonese: "kim4"
+cantonese: kim4
 korean: "겸"
-korean_native: ""
+korean_native: "칼"
 japanese:
   - KAN
   - KEN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɡ
-middle_chinese_final: ɣiᴇm
+middle_chinese_initial: "ɡ"
+middle_chinese_final: "ɣiᴇm"
 stroke_count: 13
-radical: 金
+radical: "金"
 skip_number: 1-8-5
 grade_level: "先進"
 pos: ""
@@ -20,17 +20,17 @@ english:
   - pliers
   - forceps
 羅馬字: gem
-韓文: 검
-joyo_level: 表外字
+韓文: "검"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7324
 mc_id: 2701
-graphemic_classification: 甘
-stand_in: 鉗
+graphemic_classification: "甘"
+stand_in: "鉗"
 aliases:
   - 钳
-注音: ㄍㄝㄇ
+注音: "ㄍㄝㄇ"
 tags:
   - character
 ---

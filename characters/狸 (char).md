@@ -1,36 +1,36 @@
 ---
 mandarin: "lí"
-cantonese: "lei4"
+cantonese: lei4
 korean: "리"
-korean_native: ""
+korean_native: "삵"
 japanese:
   - RI
 japanese_nanori: ""
 vietnamese:
   - li
 middle_chinese_initial: l
-middle_chinese_final: ɨ
+middle_chinese_final: "ɨ"
 stroke_count: 10
-radical: 犬
+radical: "犬"
 skip_number: 1-3-7
 grade_level: "名"
 pos: ""
 english:
   - tanuki
 羅馬字: li
-韓文: 리
-joyo_level: 表外字
+韓文: "리"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 8111
 mc_id: 3008
-graphemic_classification: 里
-stand_in: 狸
+graphemic_classification: "里"
+stand_in: "狸"
 aliases:
   - 貍
   - 狢
   - 貉
-注音: ㄌㄧ
+注音: "ㄌㄧ"
 tags:
   - character
 ---

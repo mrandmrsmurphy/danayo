@@ -2,7 +2,7 @@
 mandarin: fú
 cantonese: fau4
 korean: 부
-korean_native: ""
+korean_native: 뜰
 japanese:
   - FU
 japanese_nanori: ""

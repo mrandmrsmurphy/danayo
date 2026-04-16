@@ -1,16 +1,16 @@
 ---
 mandarin: "tǒng"
-cantonese: "tung4"
+cantonese: tung4
 korean: "통"
-korean_native: ""
+korean_native: "대통"
 japanese:
   - TOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: uŋ
+middle_chinese_final: "uŋ"
 stroke_count: 12
-radical: 竹
+radical: "竹"
 skip_number: 2-6-6
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - cylinder
   - tube
 羅馬字: dong
-韓文: 동
-joyo_level: 高等
-hsk_level: "3"
-hanmun_edu_level: 名
+韓文: "동"
+joyo_level: "高等"
+hsk_level: 3
+hanmun_edu_level: "名"
 danayo_id: 7145
 mc_id: 6459
-graphemic_classification: 同
-stand_in: 筒
+graphemic_classification: "同"
+stand_in: "筒"
 aliases:
-注音: ㄉㄛㄥ
+注音: "ㄉㄛㄥ"
 tags:
   - character
 ---

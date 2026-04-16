@@ -1,16 +1,16 @@
 ---
 mandarin: "shuān"
-cantonese: "saan1"
+cantonese: saan1
 korean: "전"
-korean_native: ""
+korean_native: "마개"
 japanese:
   - SEN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʃ
-middle_chinese_final: ɣiuᴇn
+middle_chinese_initial: "ʃ"
+middle_chinese_final: "ɣiuᴇn"
 stroke_count: 10
-radical: 木
+radical: "木"
 skip_number: 1-4-6
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - peg
   - stopper
 羅馬字: swen
-韓文: 숸
+韓文: "숸"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7090
 mc_id: 0
-graphemic_classification: 全
-stand_in: 栓
+graphemic_classification: "全"
+stand_in: "栓"
 aliases:
-注音: ㄙˇㄝㄋ
+注音: "ㄙˇㄝㄋ"
 tags:
   - character
 ---

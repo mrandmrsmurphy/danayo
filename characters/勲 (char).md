@@ -1,16 +1,16 @@
 ---
 mandarin: "xūn"
-cantonese: "fan1"
+cantonese: fan1
 korean: "훈"
-korean_native: ""
+korean_native: "공"
 japanese:
   - KUN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: ɨun
+middle_chinese_final: "ɨun"
 stroke_count: 15
-radical: 力
+radical: "力"
 skip_number: 2-11-4
 grade_level: "先進"
 pos: ""
@@ -18,19 +18,19 @@ english:
   - meritorious deed
   - merit
 羅馬字: hun
-韓文: 훈
-joyo_level: 高等
+韓文: "훈"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 7221
 mc_id: 1285
-graphemic_classification: 黒
-stand_in: 勲
+graphemic_classification: "黒"
+stand_in: "勲"
 aliases:
   - 勛
   - 勋
   - 勳
-注音: ㄏㄨㄋ
+注音: "ㄏㄨㄋ"
 tags:
   - character
 ---

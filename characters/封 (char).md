@@ -1,33 +1,33 @@
 ---
-mandarin: fēng
+mandarin: "fēng"
 cantonese: fung1
-korean: 봉
-korean_native: ""
+korean: "봉"
+korean_native: "봉할"
 japanese:
   - FUU
   - HOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: f
-middle_chinese_final: ɨoŋ
+middle_chinese_final: "ɨoŋ"
 stroke_count: 9
-radical: 寸
+radical: "寸"
 skip_number: 1-6-3
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - seal
 羅馬字: fong
-韓文: 뽕
-joyo_level: 高等
+韓文: "뽕"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4080
 mc_id: 175
-graphemic_classification: 會意
-stand_in: 封
+graphemic_classification: "會意"
+stand_in: "封"
 aliases:
-注音: ㄈㄛㄥ
+注音: "ㄈㄛㄥ"
 tags:
   - character
 ---

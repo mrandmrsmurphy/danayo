@@ -1,35 +1,35 @@
 ---
 mandarin: "zhóu"
-cantonese: "zuk6"
+cantonese: zuk6
 korean: "축"
-korean_native: ""
+korean_native: "굴대"
 japanese:
   - JIKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɨuk
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɨuk"
 stroke_count: 12
-radical: 車
+radical: "車"
 skip_number: 1-7-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - axis
   - axle
   - pivot
 羅馬字: dug
-韓文: 둑
+韓文: "둑"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6050
 mc_id: 2287
-graphemic_classification: 由
-stand_in: 軸
+graphemic_classification: "由"
+stand_in: "軸"
 aliases:
   - 轴
-注音: ㄉㄨㄎ
+注音: "ㄉㄨㄎ"
 tags:
   - character
 ---

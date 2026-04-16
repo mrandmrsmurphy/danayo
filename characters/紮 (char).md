@@ -1,16 +1,16 @@
 ---
 mandarin: "zā"
-cantonese: "zaat3"
+cantonese: zaat3
 korean: "찰"
-korean_native: ""
+korean_native: "감을"
 japanese:
   - SATSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ʃ
-middle_chinese_final: ɣɛt
+middle_chinese_initial: "t͡ʃ"
+middle_chinese_final: "ɣɛt"
 stroke_count: 11
-radical: 糸
+radical: "糸"
 skip_number: 2-5-6
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - fasten
   - bind
 羅馬字: jad
-韓文: 잗
-joyo_level: 表外字
+韓文: "잗"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7292
 mc_id: 6215
-graphemic_classification: 札
-stand_in: 紮
+graphemic_classification: "札"
+stand_in: "紮"
 aliases:
   - 扎
-注音: ㄐㄚㄊ
+注音: "ㄐㄚㄊ"
 tags:
   - character
 ---

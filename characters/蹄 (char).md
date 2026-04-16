@@ -1,8 +1,8 @@
 ---
 mandarin: "tí"
-cantonese: "tai4"
+cantonese: tai4
 korean: "제"
-korean_native: ""
+korean_native: "굽"
 japanese:
   - TEI
 japanese_nanori: ""
@@ -10,23 +10,23 @@ vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: ei
 stroke_count: 16
-radical: 足
+radical: "足"
 skip_number: 1-7-9
 grade_level: "名"
 pos: ""
 english:
   - hoof
 羅馬字: dei
-韓文: 데
-joyo_level: 日本人名用漢字
+韓文: "데"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 8265
 mc_id: 2932
-graphemic_classification: 帝
-stand_in: 蹄
+graphemic_classification: "帝"
+stand_in: "蹄"
 aliases:
-注音: ㄉㄝ˙
+注音: "ㄉㄝ˙"
 tags:
   - character
 ---

@@ -1,33 +1,33 @@
 ---
 mandarin: "pèi"
-cantonese: "pui3"
+cantonese: pui3
 korean: "배"
-korean_native: ""
+korean_native: "짝"
 japanese:
   - HAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
-middle_chinese_final: uʌi
+middle_chinese_initial: "pʰ"
+middle_chinese_final: "uʌi"
 stroke_count: 10
-radical: 酉
+radical: "酉"
 skip_number: 1-7-3
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - match
   - pair
 羅馬字: poi
-韓文: 푀
-joyo_level: "3"
+韓文: "푀"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4284
 mc_id: 1341
-graphemic_classification: 己
-stand_in: 配
+graphemic_classification: "己"
+stand_in: "配"
 aliases:
-注音: ㄆㄛ˙
+注音: "ㄆㄛ˙"
 tags:
   - character
 ---

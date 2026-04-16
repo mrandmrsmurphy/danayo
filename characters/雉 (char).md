@@ -1,33 +1,33 @@
 ---
 mandarin: "zhì"
-cantonese: "zi6"
+cantonese: zi6
 korean: "치"
-korean_native: ""
+korean_native: "꿩"
 japanese:
   - CHI
   - JI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɣiɪ
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɣiɪ"
 stroke_count: 13
-radical: 隹
+radical: "隹"
 skip_number: 1-5-8
 grade_level: "名"
 pos: ""
 english:
   - green pheasant
 羅馬字: dii
-韓文: 듸
-joyo_level: 表外字
+韓文: "듸"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 8762
 mc_id: 1610
-graphemic_classification: 隹
-stand_in: 雉
+graphemic_classification: "隹"
+stand_in: "雉"
 aliases:
-注音: ㄉㄧ˙
+注音: "ㄉㄧ˙"
 tags:
   - character
 ---

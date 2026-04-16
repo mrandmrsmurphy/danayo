@@ -1,8 +1,8 @@
 ---
 mandarin: "lǐ"
-cantonese: "lai5"
+cantonese: lai5
 korean: "례"
-korean_native: ""
+korean_native: "예도"
 japanese:
   - REI
   - RAI
@@ -11,25 +11,25 @@ vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: ei
 stroke_count: 5
-radical: 示
+radical: "示"
 skip_number: 1-4-1
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - manners
 羅馬字: lei
-韓文: 레
-joyo_level: "3"
+韓文: "레"
+joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 3206
 mc_id: 115
-graphemic_classification: 豊
-stand_in: 礼
+graphemic_classification: "豊"
+stand_in: "礼"
 aliases:
   - 禮
   - 𥜪
-注音: ㄌㄝ˙
+注音: "ㄌㄝ˙"
 tags:
   - character
 ---

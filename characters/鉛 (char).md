@@ -1,8 +1,8 @@
 ---
 mandarin: "qiān"
-cantonese: "jyun4"
+cantonese: jyun4
 korean: "연"
-korean_native: ""
+korean_native: "납"
 japanese:
   - EN
 japanese_nanori:
@@ -10,26 +10,26 @@ japanese_nanori:
 vietnamese:
   - duyên
 middle_chinese_initial: j
-middle_chinese_final: iuᴇn
+middle_chinese_final: "iuᴇn"
 stroke_count: 13
-radical: 金
+radical: "金"
 skip_number: 1-8-5
-grade_level: "5"
-pos: 固有名詞
+grade_level: 5
+pos: "固有名詞"
 english:
   - lead (substance)
 羅馬字: "'yen"
-韓文: 연
-joyo_level: 高等
+韓文: "연"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5095
 mc_id: 3902
-graphemic_classification: 㕣
-stand_in: 鉛
+graphemic_classification: "㕣"
+stand_in: "鉛"
 aliases:
   - 铅
-注音: ˙ㄝㄋ
+注音: "˙ㄝㄋ"
 tags:
   - character
 ---

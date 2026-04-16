@@ -1,33 +1,33 @@
 ---
-mandarin: dì
+mandarin: "dì"
 cantonese: dei6
-korean: 지
-korean_native: ""
+korean: "지"
+korean_native: "땅"
 japanese:
   - CHI
   - JI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: iɪ
+middle_chinese_final: "iɪ"
 stroke_count: 6
-radical: 土
+radical: "土"
 skip_number: 1-3-3
-grade_level: "1"
-pos: 名詞
+grade_level: 1
+pos: "名詞"
 english:
   - land
 羅馬字: dii
-韓文: 듸
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "듸"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 94
 mc_id: 86
-graphemic_classification: 也
-stand_in: 地
+graphemic_classification: "也"
+stand_in: "地"
 aliases:
-注音: ㄉㄧ˙
+注音: "ㄉㄧ˙"
 tags:
   - character
 ---

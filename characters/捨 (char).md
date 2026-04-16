@@ -1,34 +1,34 @@
 ---
 mandarin: "shě"
-cantonese: "se2"
+cantonese: se2
 korean: "사"
-korean_native: ""
+korean_native: "버릴"
 japanese:
   - SHA
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɕ
+middle_chinese_initial: "ɕ"
 middle_chinese_final: ia
 stroke_count: 11
-radical: 手
+radical: "手"
 skip_number: 1-3-8
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - throw away
   - discard
 羅馬字: sya
-韓文: 샤
-joyo_level: "6"
+韓文: "샤"
+joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6259
 mc_id: 2581
-graphemic_classification: 舎
-stand_in: 捨
+graphemic_classification: "舎"
+stand_in: "捨"
 aliases:
   - 舍
-注音: ㄙ˙ㄚ
+注音: "ㄙ˙ㄚ"
 tags:
   - character
 ---

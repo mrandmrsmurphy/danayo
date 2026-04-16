@@ -1,8 +1,8 @@
 ---
 mandarin: "gǔ"
-cantonese: "gu2"
+cantonese: gu2
 korean: "고"
-korean_native: ""
+korean_native: "넓적다리"
 japanese:
   - KO
 japanese_nanori: ""
@@ -10,25 +10,25 @@ vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: uo
 stroke_count: 8
-radical: 肉
+radical: "肉"
 skip_number: 1-4-4
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - crotch
   - groin
   - fork
 羅馬字: go
-韓文: 고
-joyo_level: 表外字
+韓文: "고"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6238
 mc_id: 1484
-graphemic_classification: 會意
-stand_in: 股
+graphemic_classification: "會意"
+stand_in: "股"
 aliases:
-注音: ㄍㄛ
+注音: "ㄍㄛ"
 tags:
   - character
 ---

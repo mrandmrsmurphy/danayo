@@ -1,34 +1,34 @@
 ---
 mandarin: "yuǎn"
-cantonese: "jyun5"
+cantonese: jyun5
 korean: "원"
-korean_native: ""
+korean_native: "멀"
 japanese:
   - EN
   - ON
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ø
-middle_chinese_final: ʉɐn
+middle_chinese_initial: "ø"
+middle_chinese_final: "ʉɐn"
 stroke_count: 13
-radical: 辵
+radical: "辵"
 skip_number: 3-3-10
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - far
 羅馬字: "'on"
-韓文: 온
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "온"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 239
 mc_id: 284
-graphemic_classification: 袁
-stand_in: 遠
+graphemic_classification: "袁"
+stand_in: "遠"
 aliases:
   - 远
-注音: ㄛㄋ
+注音: "ㄛㄋ"
 tags:
   - character
 ---

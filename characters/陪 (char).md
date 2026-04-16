@@ -1,35 +1,35 @@
 ---
 mandarin: "péi"
-cantonese: "pui4"
+cantonese: pui4
 korean: "배"
-korean_native: ""
+korean_native: "모실"
 japanese:
   - BAI
   - HAI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: uʌi
+middle_chinese_final: "uʌi"
 stroke_count: 11
-radical: 阜
+radical: "阜"
 skip_number: 1-3-8
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - accompany
   - be with
   - keep company
 羅馬字: boi
-韓文: 뵈
-joyo_level: 高等
+韓文: "뵈"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6299
 mc_id: 2715
-graphemic_classification: 咅
-stand_in: 陪
+graphemic_classification: "咅"
+stand_in: "陪"
 aliases:
-注音: ㄅㄛ˙
+注音: "ㄅㄛ˙"
 tags:
   - character
 ---

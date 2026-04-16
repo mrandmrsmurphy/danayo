@@ -1,35 +1,35 @@
 ---
 mandarin: "pū"
-cantonese: "pok3"
+cantonese: pok3
 korean: "박"
-korean_native: ""
+korean_native: "칠"
 japanese:
   - BOKU
   - HAKU
   - HOKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
+middle_chinese_initial: "pʰ"
 middle_chinese_final: uk
 stroke_count: 15
-radical: 手
+radical: "手"
 skip_number: 1-3-12
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - rush at
 羅馬字: pog
-韓文: 폭
+韓文: "폭"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6310
 mc_id: 2958
-graphemic_classification: 菐
-stand_in: 撲
+graphemic_classification: "菐"
+stand_in: "撲"
 aliases:
   - 扑
-注音: ㄆㄛㄎ
+注音: "ㄆㄛㄎ"
 tags:
   - character
 ---

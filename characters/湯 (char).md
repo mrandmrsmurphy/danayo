@@ -1,34 +1,34 @@
 ---
 mandarin: "tāng"
-cantonese: "tong1"
+cantonese: tong1
 korean: "탕"
-korean_native: ""
+korean_native: "끓일"
 japanese:
   - TOU
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: tʰ
-middle_chinese_final: ɑŋ
+middle_chinese_initial: "tʰ"
+middle_chinese_final: "ɑŋ"
 stroke_count: 12
-radical: 水
+radical: "水"
 skip_number: 1-3-9
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - hot water
 羅馬字: tang
-韓文: 탕
-joyo_level: "3"
+韓文: "탕"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 3187
 mc_id: 409
-graphemic_classification: 昜
-stand_in: 湯
+graphemic_classification: "昜"
+stand_in: "湯"
 aliases:
   - 汤
-注音: ㄊㄚㄥ
+注音: "ㄊㄚㄥ"
 tags:
   - character
 ---

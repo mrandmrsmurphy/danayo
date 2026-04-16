@@ -1,17 +1,17 @@
 ---
 mandarin: "zhā"
-cantonese: "zaa1"
+cantonese: zaa1
 korean: "사"
-korean_native: ""
+korean_native: "찌꺼기"
 japanese:
   - SA
   - SHA
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ʃ
-middle_chinese_final: ɣa
+middle_chinese_initial: "t͡ʃ"
+middle_chinese_final: "ɣa"
 stroke_count: 12
-radical: 水
+radical: "水"
 skip_number: 1-3-9
 grade_level: "先進"
 pos: ""
@@ -20,16 +20,16 @@ english:
   - lees
   - sediment
 羅馬字: jwa
-韓文: 좌
+韓文: "좌"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7377
 mc_id: 0
-graphemic_classification: 査
-stand_in: 渣
+graphemic_classification: "査"
+stand_in: "渣"
 aliases:
-注音: ㄐˇㄚ
+注音: "ㄐˇㄚ"
 tags:
   - character
 ---

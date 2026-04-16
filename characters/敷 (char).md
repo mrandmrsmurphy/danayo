@@ -1,8 +1,8 @@
 ---
-mandarin: fū
+mandarin: "fū"
 cantonese: fu1
-korean: 부
-korean_native: ""
+korean: "부"
+korean_native: "펼"
 japanese:
   - FU
 japanese_nanori:
@@ -10,26 +10,26 @@ japanese_nanori:
 vietnamese:
   - phô
   - phu
-middle_chinese_initial: fʰ
-middle_chinese_final: ɨo
+middle_chinese_initial: "fʰ"
+middle_chinese_final: "ɨo"
 stroke_count: 15
-radical: 攴
+radical: "攴"
 skip_number: 1-11-4
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - spread
 羅馬字: fu
-韓文: 뿌
-joyo_level: 高等
+韓文: "뿌"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6067
 mc_id: 2520
-graphemic_classification: 旉
-stand_in: 敷
+graphemic_classification: "旉"
+stand_in: "敷"
 aliases:
-注音: ㄈㄨ
+注音: "ㄈㄨ"
 tags:
   - character
 ---

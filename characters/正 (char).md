@@ -1,31 +1,31 @@
 ---
 mandarin: "zhèng"
-cantonese: "zing3"
+cantonese: zing3
 korean: "정"
-korean_native: ""
+korean_native: "바를"
 japanese:
   - SEI
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: iᴇŋ
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "iᴇŋ"
 stroke_count: 5
-radical: 止
+radical: "止"
 skip_number: 4-5-1
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - correct
 羅馬字: jing
-韓文: 징
-joyo_level: "1"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "징"
+joyo_level: 1
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 75
 mc_id: 136
-graphemic_classification: 丁
-stand_in: 正
+graphemic_classification: "丁"
+stand_in: "正"
 aliases:
   - 疋
   - 𤴓
@@ -33,7 +33,7 @@ aliases:
   - 𣥔
   - 𧾸
   - 𠙺
-注音: ㄐㄧㄥ
+注音: "ㄐㄧㄥ"
 tags:
   - character
 ---

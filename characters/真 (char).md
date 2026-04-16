@@ -1,33 +1,33 @@
 ---
 mandarin: "zhēn"
-cantonese: "zan1"
+cantonese: zan1
 korean: "진"
-korean_native: ""
+korean_native: "참"
 japanese:
   - SHIN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: iɪn
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "iɪn"
 stroke_count: 10
-radical: 目
+radical: "目"
 skip_number: 2-2-8
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
-  - "true"
+  - true
 羅馬字: jin
-韓文: 진
-joyo_level: "3"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "진"
+joyo_level: 3
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 192
 mc_id: 924
-graphemic_classification: 眞
-stand_in: 真
+graphemic_classification: "眞"
+stand_in: "真"
 aliases:
   - 眞
-注音: ㄐㄧㄋ
+注音: "ㄐㄧㄋ"
 tags:
   - character
 ---

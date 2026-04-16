@@ -1,33 +1,33 @@
 ---
 mandarin: "mèi"
-cantonese: "mui6"
+cantonese: mui6
 korean: "매"
-korean_native: ""
+korean_native: "어두울"
 japanese:
   - MAI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
-middle_chinese_final: ɑi
+middle_chinese_final: "ɑi"
 stroke_count: 9
-radical: 日
+radical: "日"
 skip_number: 1-4-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - dark
   - benighted
 羅馬字: mai
-韓文: 매
-joyo_level: 高等
+韓文: "매"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6139
 mc_id: 1534
-graphemic_classification: 未
-stand_in: 昧
+graphemic_classification: "未"
+stand_in: "昧"
 aliases:
-注音: ㄇㄚ˙
+注音: "ㄇㄚ˙"
 tags:
   - character
 ---

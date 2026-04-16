@@ -1,33 +1,33 @@
 ---
 mandarin: "gǔ"
-cantonese: "gwat1"
+cantonese: gwat1
 korean: "골"
-korean_native: ""
+korean_native: "뼈"
 japanese:
   - KOTSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: uət
+middle_chinese_final: "uət"
 stroke_count: 10
-radical: 骨
+radical: "骨"
 skip_number: 2-6-4
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - bone
   - skeleton
 羅馬字: god
-韓文: 곧
-joyo_level: "6"
-hsk_level: "4"
-hanmun_edu_level: 中
+韓文: "곧"
+joyo_level: 6
+hsk_level: 4
+hanmun_edu_level: "中"
 danayo_id: 4309
 mc_id: 718
-graphemic_classification: 冎
-stand_in: 骨
+graphemic_classification: "冎"
+stand_in: "骨"
 aliases:
-注音: ㄍㄛㄊ
+注音: "ㄍㄛㄊ"
 tags:
   - character
 ---

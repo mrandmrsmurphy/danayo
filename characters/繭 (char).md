@@ -1,8 +1,8 @@
 ---
 mandarin: "jiǎn"
-cantonese: "gaan2"
+cantonese: gaan2
 korean: "견"
-korean_native: ""
+korean_native: "고치"
 japanese:
   - KEN
 japanese_nanori: ""
@@ -10,24 +10,24 @@ vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: en
 stroke_count: 18
-radical: 糸
+radical: "糸"
 skip_number: 2-3-15
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - cocoon
 羅馬字: gyem
-韓文: 겸
+韓文: "겸"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6111
 mc_id: 2886
-graphemic_classification: 會意
-stand_in: 繭
+graphemic_classification: "會意"
+stand_in: "繭"
 aliases:
   - 茧
-注音: ㄍ˙ㄝㄥ
+注音: "ㄍ˙ㄝㄥ"
 tags:
   - character
 ---

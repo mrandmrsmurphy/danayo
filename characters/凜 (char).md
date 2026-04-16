@@ -1,34 +1,34 @@
 ---
-mandarin: lǐn
+mandarin: "lǐn"
 cantonese: lam5
-korean: 름
-korean_native: ""
+korean: "름"
+korean_native: "찰"
 japanese:
   - RIN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: iɪm
+middle_chinese_final: "iɪm"
 stroke_count: 15
-radical: 冫
+radical: "冫"
 skip_number: 1-2-13
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - solemn
 羅馬字: lum
-韓文: 룸
-joyo_level: 日本人名用漢字
+韓文: "룸"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7470
 mc_id: 6213
-graphemic_classification: 稟
-stand_in: 凜
+graphemic_classification: "稟"
+stand_in: "凜"
 aliases:
   - 凛
   - 澟
-注音: ㄌㄨㄇ
+注音: "ㄌㄨㄇ"
 tags:
   - character
 ---

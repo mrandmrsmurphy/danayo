@@ -1,17 +1,17 @@
 ---
 mandarin: "yǐ"
-cantonese: "ji2"
+cantonese: ji2
 korean: "의"
-korean_native: ""
+korean_native: "의지할"
 japanese:
   - I
   - KI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: ɣiᴇ
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "ɣiᴇ"
 stroke_count: 10
-radical: 人
+radical: "人"
 skip_number: 1-2-8
 grade_level: "先進"
 pos: ""
@@ -19,16 +19,16 @@ english:
   - rely on
   - depend upon
 羅馬字: "'wig"
-韓文: 위
-joyo_level: 表外字
-hsk_level: "3"
-hanmun_edu_level: 名
+韓文: "위"
+joyo_level: "表外字"
+hsk_level: 3
+hanmun_edu_level: "名"
 danayo_id: 7023
 mc_id: 1526
-graphemic_classification: 奇
-stand_in: 倚
+graphemic_classification: "奇"
+stand_in: "倚"
 aliases:
-注音: ˇㄧ
+注音: "ˇㄧ"
 tags:
   - character
 ---

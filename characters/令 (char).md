@@ -1,34 +1,34 @@
 ---
 mandarin: "lìng"
-cantonese: "ling6"
+cantonese: ling6
 korean: "령"
-korean_native: ""
+korean_native: "하여금"
 japanese:
   - REI
   - RYOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: eŋ
+middle_chinese_final: "eŋ"
 stroke_count: 5
-radical: 人
+radical: "人"
 skip_number: 2-2-3
-grade_level: "3"
-pos: 修飾語
+grade_level: 3
+pos: "修飾語"
 english:
   - cause (causative)
 羅馬字: leng
-韓文: 렁
-joyo_level: "4"
+韓文: "렁"
+joyo_level: 4
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3009
 mc_id: 88
-graphemic_classification: 會意
-stand_in: 令
+graphemic_classification: "會意"
+stand_in: "令"
 aliases:
   - 囹
-注音: ㄌㄝㄥ
+注音: "ㄌㄝㄥ"
 tags:
   - character
 ---

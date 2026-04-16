@@ -1,34 +1,34 @@
 ---
 mandarin: "zhōu"
-cantonese: "zuk1"
+cantonese: zuk1
 korean: "죽"
-korean_native: ""
+korean_native: "죽"
 japanese:
   - SHUKU
   - IKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: ɨuk
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "ɨuk"
 stroke_count: 12
-radical: 米
+radical: "米"
 skip_number: 1-3-9
 grade_level: "先進"
 pos: ""
 english:
   - congee
 羅馬字: jug
-韓文: 죽
-joyo_level: 日本人名用漢字
+韓文: "죽"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7150
 mc_id: 2080
-graphemic_classification: 會意
-stand_in: 粥
+graphemic_classification: "會意"
+stand_in: "粥"
 aliases:
   - 鬻
-注音: ㄐㄨㄎ
+注音: "ㄐㄨㄎ"
 tags:
   - character
 ---

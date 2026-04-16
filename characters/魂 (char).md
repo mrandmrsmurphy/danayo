@@ -1,33 +1,33 @@
 ---
-mandarin: hún
+mandarin: "hún"
 cantonese: wan4
-korean: 혼
-korean_native: ""
+korean: "혼"
+korean_native: "넋"
 japanese:
   - KON
   - GON
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: uən
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "uən"
 stroke_count: 14
-radical: 鬼
+radical: "鬼"
 skip_number: 1-4-10
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - soul
 羅馬字: hon
-韓文: 혼
-joyo_level: 高等
+韓文: "혼"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 7202
 mc_id: 1505
-graphemic_classification: 云
-stand_in: 魂
+graphemic_classification: "云"
+stand_in: "魂"
 aliases:
-注音: ㄏㄛㄋ
+注音: "ㄏㄛㄋ"
 tags:
   - character
 ---

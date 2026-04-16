@@ -1,35 +1,35 @@
 ---
 mandarin: "yù"
-cantonese: "jyu6"
+cantonese: jyu6
 korean: "우"
-korean_native: ""
+korean_native: "만날"
 japanese:
   - GUU
   - KU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ŋ
-middle_chinese_final: ɨo
+middle_chinese_initial: "ŋ"
+middle_chinese_final: "ɨo"
 stroke_count: 12
-radical: 辵
+radical: "辵"
 skip_number: 3-3-9
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - meet
   - come across
   - encounter
 羅馬字: "'u"
-韓文: 우
+韓文: "우"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3252
 mc_id: 603
-graphemic_classification: 禺
-stand_in: 遇
+graphemic_classification: "禺"
+stand_in: "遇"
 aliases:
-注音: ㄨ
+注音: "ㄨ"
 tags:
   - character
 ---

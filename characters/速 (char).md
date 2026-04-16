@@ -1,8 +1,8 @@
 ---
 mandarin: "sù"
-cantonese: "cuk1"
+cantonese: cuk1
 korean: "속"
-korean_native: ""
+korean_native: "빠를"
 japanese:
   - SOKU
 japanese_nanori: ""
@@ -10,24 +10,24 @@ vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: uk
 stroke_count: 11
-radical: 辵
+radical: "辵"
 skip_number: 3-4-7
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - quick
   - fast
 羅馬字: sog
-韓文: 속
-joyo_level: "3"
+韓文: "속"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2249
 mc_id: 1363
-graphemic_classification: 束
-stand_in: 速
+graphemic_classification: "束"
+stand_in: "速"
 aliases:
-注音: ㄙㄛㄎ
+注音: "ㄙㄛㄎ"
 tags:
   - character
 ---

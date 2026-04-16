@@ -1,34 +1,34 @@
 ---
-mandarin: wèi
+mandarin: "wèi"
 cantonese: mei6
-korean: 미
-korean_native: ""
+korean: "미"
+korean_native: "아닐"
 japanese:
   - MI
   - BI
 japanese_nanori: ""
 vietnamese:
   - vị, mùi
-middle_chinese_initial: ɱ
-middle_chinese_final: ʉi
+middle_chinese_initial: "ɱ"
+middle_chinese_final: "ʉi"
 stroke_count: 5
-radical: 木
+radical: "木"
 skip_number: 4-5-3
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - not yet
 羅馬字: mui
-韓文: 뮈
-joyo_level: "4"
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "뮈"
+joyo_level: 4
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 2132
 mc_id: 103
-graphemic_classification: 象形
-stand_in: 未
+graphemic_classification: "象形"
+stand_in: "未"
 aliases:
-注音: ㄇㄨ˙
+注音: "ㄇㄨ˙"
 tags:
   - character
 ---

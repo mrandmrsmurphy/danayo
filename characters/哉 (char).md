@@ -1,32 +1,32 @@
 ---
 mandarin: "zāi"
-cantonese: "zoi1"
+cantonese: zoi1
 korean: "재"
-korean_native: ""
+korean_native: "비롯할"
 japanese:
   - SAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡s
-middle_chinese_final: ʌi
+middle_chinese_initial: "t͡s"
+middle_chinese_final: "ʌi"
 stroke_count: 9
-radical: 口
+radical: "口"
 skip_number: 3-6-3
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - O
 羅馬字: jai
-韓文: 재
-joyo_level: 日本人名用漢字
-hsk_level: 無
-hanmun_edu_level: 中
+韓文: "재"
+joyo_level: "日本人名用漢字"
+hsk_level: "無"
+hanmun_edu_level: "中"
 danayo_id: 174
 mc_id: 272
-graphemic_classification: 才
-stand_in: 哉
+graphemic_classification: "才"
+stand_in: "哉"
 aliases:
-注音: ㄐㄚ˙
+注音: "ㄐㄚ˙"
 tags:
   - character
 ---

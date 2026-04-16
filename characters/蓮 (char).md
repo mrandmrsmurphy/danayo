@@ -1,33 +1,33 @@
 ---
 mandarin: "lián"
-cantonese: "lin4"
+cantonese: lin4
 korean: "련"
-korean_native: ""
+korean_native: "연꽃"
 japanese:
   - REN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: iᴇn
+middle_chinese_final: "iᴇn"
 stroke_count: 13
-radical: 艸
+radical: "艸"
 skip_number: 2-3-10
 grade_level: "名"
 pos: ""
 english:
   - lotus
 羅馬字: lyen
-韓文: 련
-joyo_level: 日本人名用漢字
-hsk_level: "4"
-hanmun_edu_level: 高等
+韓文: "련"
+joyo_level: "日本人名用漢字"
+hsk_level: 4
+hanmun_edu_level: "高等"
 danayo_id: 8611
 mc_id: 4459
-graphemic_classification: 連
-stand_in: 蓮
+graphemic_classification: "連"
+stand_in: "蓮"
 aliases:
   - 莲
-注音: ㄌ˙ㄝㄋ
+注音: "ㄌ˙ㄝㄋ"
 tags:
   - character
 ---

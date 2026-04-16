@@ -1,33 +1,33 @@
 ---
 mandarin: "mù"
-cantonese: "mok6"
+cantonese: mok6
 korean: "막"
-korean_native: ""
+korean_native: "장막"
 japanese:
   - MAKU
   - BAKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
-middle_chinese_final: ɑk
+middle_chinese_final: "ɑk"
 stroke_count: 13
-radical: 巾
+radical: "巾"
 skip_number: 2-3-10
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - curtain
 羅馬字: mag
-韓文: 막
-joyo_level: "6"
+韓文: "막"
+joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5140
 mc_id: 1999
-graphemic_classification: 莫
-stand_in: 幕
+graphemic_classification: "莫"
+stand_in: "幕"
 aliases:
-注音: ㄇㄚㄎ
+注音: "ㄇㄚㄎ"
 tags:
   - character
 ---

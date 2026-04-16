@@ -1,33 +1,33 @@
 ---
 mandarin: "gé"
-cantonese: "got3"
+cantonese: got3
 korean: "갈"
-korean_native: ""
+korean_native: "칡"
 japanese:
   - KATSU
   - KACHI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ɑt
+middle_chinese_final: "ɑt"
 stroke_count: 12
-radical: 艸
+radical: "艸"
 skip_number: 2-3-9
 grade_level: "名"
 pos: ""
 english:
   - kudzu
 羅馬字: gyad
-韓文: 갿
-joyo_level: 表外字
+韓文: "갿"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 8215
 mc_id: 1671
-graphemic_classification: 喝
-stand_in: 葛
+graphemic_classification: "喝"
+stand_in: "葛"
 aliases:
-注音: ㄍ˙ㄚㄊ
+注音: "ㄍ˙ㄚㄊ"
 tags:
   - character
   - hapax

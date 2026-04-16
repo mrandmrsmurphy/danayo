@@ -1,32 +1,32 @@
 ---
 mandarin: "dào"
-cantonese: "dou6"
+cantonese: dou6
 korean: "도"
-korean_native: ""
+korean_native: "슬퍼할"
 japanese:
   - TOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: ɑu
+middle_chinese_final: "ɑu"
 stroke_count: 11
-radical: 心
+radical: "心"
 skip_number: 1-3-8
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - lament
 羅馬字: dau
-韓文: 닷
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 名
+韓文: "닷"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "名"
 danayo_id: 6135
 mc_id: 1222
-graphemic_classification: 卓
-stand_in: 悼
+graphemic_classification: "卓"
+stand_in: "悼"
 aliases:
-注音: ㄉㄚˇ
+注音: "ㄉㄚˇ"
 tags:
   - character
 ---

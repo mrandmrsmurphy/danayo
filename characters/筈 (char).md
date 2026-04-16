@@ -1,32 +1,32 @@
 ---
 mandarin: "kuò"
-cantonese: "kut3"
+cantonese: kut3
 korean: "괄"
-korean_native: ""
+korean_native: "오늬"
 japanese:
   - KATSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: uɑt
+middle_chinese_final: "uɑt"
 stroke_count: 12
-radical: 竹
+radical: "竹"
 skip_number: 2-6-6
 grade_level: "先進"
 pos: ""
 english:
   - nock
 羅馬字: gwad
-韓文: 괃
-joyo_level: 日本人名用漢字
+韓文: "괃"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7442
 mc_id: 8377
-graphemic_classification: 舌
-stand_in: 筈
+graphemic_classification: "舌"
+stand_in: "筈"
 aliases:
-注音: ㄍˇㄚㄊ
+注音: "ㄍˇㄚㄊ"
 tags:
   - character
 ---

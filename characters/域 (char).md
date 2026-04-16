@@ -1,33 +1,33 @@
 ---
 mandarin: "yù"
-cantonese: "wik6"
+cantonese: wik6
 korean: "역"
-korean_native: ""
+korean_native: "지경"
 japanese:
   - IKI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ø
-middle_chinese_final: wɨk
+middle_chinese_initial: "ø"
+middle_chinese_final: "wɨk"
 stroke_count: 11
-radical: 土
+radical: "土"
 skip_number: 1-3-8
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - domain
   - level
 羅馬字: "'wig"
-韓文: 윅
-joyo_level: "6"
+韓文: "윅"
+joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 5141
 mc_id: 1277
-graphemic_classification: 或
-stand_in: 域
+graphemic_classification: "或"
+stand_in: "域"
 aliases:
-注音: ˇㄧㄎ
+注音: "ˇㄧㄎ"
 tags:
   - character
 ---

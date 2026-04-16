@@ -1,32 +1,32 @@
 ---
 mandarin: "bèi"
-cantonese: "pui5"
+cantonese: pui5
 korean: "배"
-korean_native: ""
+korean_native: "곱"
 japanese:
   - BAI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: ʌi
+middle_chinese_final: "ʌi"
 stroke_count: 10
-radical: 人
+radical: "人"
 skip_number: 1-2-8
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - times
 羅馬字: bai
-韓文: 배
-joyo_level: "3"
-hsk_level: "1"
-hanmun_edu_level: 高等
+韓文: "배"
+joyo_level: 3
+hsk_level: 1
+hanmun_edu_level: "高等"
 danayo_id: 3021
 mc_id: 997
-graphemic_classification: 咅
-stand_in: 倍
+graphemic_classification: "咅"
+stand_in: "倍"
 aliases:
-注音: ㄅㄚ˙
+注音: "ㄅㄚ˙"
 tags:
   - character
 ---

@@ -1,8 +1,8 @@
 ---
 mandarin: "zhuó"
-cantonese: "doek3"
+cantonese: doek3
 korean: "탁"
-korean_native: ""
+korean_native: "쫄"
 japanese:
   - TAKU
 japanese_nanori: ""
@@ -10,23 +10,23 @@ vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: uk
 stroke_count: 10
-radical: 口
+radical: "口"
 skip_number: 1-3-7
 grade_level: "先進"
 pos: ""
 english:
   - peck at
 羅馬字: tog
-韓文: 톡
-joyo_level: 日本人名用漢字
+韓文: "톡"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7137
 mc_id: 2962
-graphemic_classification: 豕
-stand_in: 啄
+graphemic_classification: "豕"
+stand_in: "啄"
 aliases:
-注音: ㄊㄛㄎ
+注音: "ㄊㄛㄎ"
 tags:
   - character
 ---

@@ -1,35 +1,35 @@
 ---
 mandarin: "jué"
-cantonese: "zyut6"
+cantonese: zyut6
 korean: "절"
-korean_native: ""
+korean_native: "끊을"
 japanese:
   - ZETSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: d͡z
-middle_chinese_final: iuᴇt
+middle_chinese_initial: "d͡z"
+middle_chinese_final: "iuᴇt"
 stroke_count: 12
-radical: 糸
+radical: "糸"
 skip_number: 1-6-6
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - discontinue
   - break off
 羅馬字: jwed
-韓文: 줟
-joyo_level: "5"
+韓文: "줟"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3220
 mc_id: 332
-graphemic_classification: 會意
-stand_in: 絶
+graphemic_classification: "會意"
+stand_in: "絶"
 aliases:
   - 絕
   - 绝
-注音: ㄐˇㄝㄊ
+注音: "ㄐˇㄝㄊ"
 tags:
   - character
 ---

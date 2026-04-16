@@ -1,36 +1,36 @@
 ---
 mandarin: "qián"
-cantonese: "cin4"
+cantonese: cin4
 korean: "전"
-korean_native: ""
+korean_native: "앞"
 japanese:
   - ZEN
   - SEN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: d͡z
+middle_chinese_initial: "d͡z"
 middle_chinese_final: en
 stroke_count: 9
-radical: 刀
+radical: "刀"
 skip_number: 2-3-6
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - front
   - before
   - preceeding
 羅馬字: jen
-韓文: 전
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "전"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 179
 mc_id: 235
-graphemic_classification: 歬
-stand_in: 前
+graphemic_classification: "歬"
+stand_in: "前"
 aliases:
   - 揃
-注音: ㄐㄝㄋ
+注音: "ㄐㄝㄋ"
 tags:
   - character
 ---

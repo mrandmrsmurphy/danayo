@@ -1,16 +1,16 @@
 ---
 mandarin: "chěng"
-cantonese: "cing2"
+cantonese: cing2
 korean: "령"
-korean_native: ""
+korean_native: "쾌할"
 japanese:
   - TEI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʈʰ
-middle_chinese_final: iᴇŋ
+middle_chinese_initial: "ʈʰ"
+middle_chinese_final: "iᴇŋ"
 stroke_count: 11
-radical: 辵
+radical: "辵"
 skip_number: 3-4-7
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - indulge
   - brag
 羅馬字: cing
-韓文: 칭
-joyo_level: 日本人名用漢字
+韓文: "칭"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7321
 mc_id: 2761
-graphemic_classification: 呈
-stand_in: 逞
+graphemic_classification: "呈"
+stand_in: "逞"
 aliases:
-注音: ㄑㄧㄥ
+注音: "ㄑㄧㄥ"
 tags:
   - character
 ---

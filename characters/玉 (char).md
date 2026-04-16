@@ -1,33 +1,33 @@
 ---
 mandarin: "yù"
-cantonese: "juk6"
+cantonese: juk6
 korean: "옥"
-korean_native: ""
+korean_native: "구슬"
 japanese:
   - GYOKU
   - GOKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ŋ
-middle_chinese_final: ɨok
+middle_chinese_initial: "ŋ"
+middle_chinese_final: "ɨok"
 stroke_count: 5
-radical: 玉
+radical: "玉"
 skip_number: 4-5-1
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - jade
 羅馬字: "'yog"
-韓文: 욕
-joyo_level: "1"
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "욕"
+joyo_level: 1
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 66
 mc_id: 463
-graphemic_classification: 象形
-stand_in: 玉
+graphemic_classification: "象形"
+stand_in: "玉"
 aliases:
-注音: ˙ㄛㄎ
+注音: "˙ㄛㄎ"
 tags:
   - character
 ---

@@ -1,19 +1,19 @@
 ---
 mandarin: "dàn"
-cantonese: "daan6"
+cantonese: daan6
 korean: "단"
-korean_native: ""
+korean_native: "다만"
 japanese:
   - TAN
   - DAN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: ɑn
+middle_chinese_final: "ɑn"
 stroke_count: 7
-radical: 人
+radical: "人"
 skip_number: 1-2-5
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - only
@@ -22,16 +22,16 @@ english:
   - yet
   - still
 羅馬字: dan
-韓文: 단
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "단"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 3011
 mc_id: 1241
-graphemic_classification: 旦
-stand_in: 但
+graphemic_classification: "旦"
+stand_in: "但"
 aliases:
-注音: ㄉㄚㄋ
+注音: "ㄉㄚㄋ"
 tags:
   - character
 ---

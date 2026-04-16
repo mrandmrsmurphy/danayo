@@ -1,32 +1,32 @@
 ---
 mandarin: "bèi"
-cantonese: "bui3"
+cantonese: bui3
 korean: "배"
-korean_native: ""
+korean_native: "등"
 japanese:
   - HAI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: uʌi
+middle_chinese_final: "uʌi"
 stroke_count: 9
-radical: 肉
+radical: "肉"
 skip_number: 2-5-4
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - back
 羅馬字: boi
-韓文: 뵈
-joyo_level: "6"
-hsk_level: "2"
-hanmun_edu_level: 高等
+韓文: "뵈"
+joyo_level: 6
+hsk_level: 2
+hanmun_edu_level: "高等"
 danayo_id: 4226
 mc_id: 906
-graphemic_classification: 北
-stand_in: 背
+graphemic_classification: "北"
+stand_in: "背"
 aliases:
-注音: ㄅㄛ˙
+注音: "ㄅㄛ˙"
 tags:
   - character
 ---

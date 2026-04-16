@@ -1,8 +1,8 @@
 ---
 mandarin: "mí"
-cantonese: "mai4"
+cantonese: mai4
 korean: "미"
-korean_native: ""
+korean_native: "미혹할"
 japanese:
   - MEI
 japanese_nanori: ""
@@ -10,24 +10,24 @@ vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: ei
 stroke_count: 10
-radical: 辵
+radical: "辵"
 skip_number: 3-4-6
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - be lost
   - be confused
 羅馬字: mei
-韓文: 메
-joyo_level: "5"
+韓文: "메"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4277
 mc_id: 1520
-graphemic_classification: 米
-stand_in: 迷
+graphemic_classification: "米"
+stand_in: "迷"
 aliases:
-注音: ㄇㄝ˙
+注音: "ㄇㄝ˙"
 tags:
   - character
 ---

@@ -1,33 +1,33 @@
 ---
 mandarin: "duàn"
-cantonese: "dyun6"
+cantonese: dyun6
 korean: "단"
-korean_native: ""
+korean_native: "조각"
 japanese:
   - DAN
   - TAN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: uɑn
+middle_chinese_final: "uɑn"
 stroke_count: 9
-radical: 殳
+radical: "殳"
 skip_number: 1-5-4
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - step
 羅馬字: dwan
-韓文: 돤
-joyo_level: "6"
+韓文: "돤"
+joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4150
 mc_id: 1790
-graphemic_classification: 耑
-stand_in: 段
+graphemic_classification: "耑"
+stand_in: "段"
 aliases:
-注音: ㄉˇㄚㄋ
+注音: "ㄉˇㄚㄋ"
 tags:
   - character
 ---

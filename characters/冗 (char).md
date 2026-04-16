@@ -1,16 +1,16 @@
 ---
 mandarin: "rǒng"
-cantonese: "jung2"
+cantonese: jung2
 korean: "용"
-korean_native: ""
+korean_native: "한가로울"
 japanese:
   - JOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ȵ
-middle_chinese_final: ɨoŋ
+middle_chinese_initial: "ȵ"
+middle_chinese_final: "ɨoŋ"
 stroke_count: 4
-radical: 冖
+radical: "冖"
 skip_number: 2-2-2
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - superfluous
   - excessive
 羅馬字: nyong
-韓文: 뇽
+韓文: "뇽"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7006
 mc_id: 3706
-graphemic_classification: 儿
-stand_in: 冗
+graphemic_classification: "儿"
+stand_in: "冗"
 aliases:
-注音: ㄋ˙ㄛㄥ
+注音: "ㄋ˙ㄛㄥ"
 tags:
   - character
 ---

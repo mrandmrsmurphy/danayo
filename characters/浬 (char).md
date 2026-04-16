@@ -1,16 +1,16 @@
 ---
 mandarin: "lǐ"
-cantonese: "lei5"
+cantonese: lei5
 korean: "리"
-korean_native: ""
+korean_native: "해리"
 japanese:
   - RI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: ɨ
+middle_chinese_final: "ɨ"
 stroke_count: 10
-radical: 水
+radical: "水"
 skip_number: 1-3-7
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - nautical mile
   - knot
 羅馬字: li
-韓文: 리
-joyo_level: 日本人名用漢字
+韓文: "리"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7087
 mc_id: 0
-graphemic_classification: 里
-stand_in: 浬
+graphemic_classification: "里"
+stand_in: "浬"
 aliases:
-注音: ㄌㄧ
+注音: "ㄌㄧ"
 tags:
   - character
 ---

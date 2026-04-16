@@ -1,36 +1,36 @@
 ---
 mandarin: "zì"
-cantonese: "zi3"
+cantonese: zi3
 korean: "지"
-korean_native: ""
+korean_native: "담글"
 japanese:
   - SHI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: d͡z
-middle_chinese_final: iᴇ
+middle_chinese_initial: "d͡z"
+middle_chinese_final: "iᴇ"
 stroke_count: 14
-radical: 水
+radical: "水"
 skip_number: 1-3-11
-grade_level: "6"
-pos: 事詞
+grade_level: 6
+pos: "事詞"
 english:
   - pickle
   - salt
   - soak
   - steep
 羅馬字: je
-韓文: 저
+韓文: "저"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6045
 mc_id: 3101
-graphemic_classification: 責
-stand_in: 漬
+graphemic_classification: "責"
+stand_in: "漬"
 aliases:
   - 渍
-注音: ㄐㄝ
+注音: "ㄐㄝ"
 tags:
   - character
 ---

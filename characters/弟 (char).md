@@ -1,8 +1,8 @@
 ---
 mandarin: "dì"
-cantonese: "dai6"
+cantonese: dai6
 korean: "제"
-korean_native: ""
+korean_native: "아우"
 japanese:
   - TEI
   - DAI
@@ -11,25 +11,25 @@ vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: ei
 stroke_count: 7
-radical: 弓
+radical: "弓"
 skip_number: 2-2-5
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - younger brother
 羅馬字: de
-韓文: 더
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "더"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 116
 mc_id: 245
-graphemic_classification: 象形
-stand_in: 弟
+graphemic_classification: "象形"
+stand_in: "弟"
 aliases:
   - 悌
   - 棣
-注音: ㄉㄝ
+注音: "ㄉㄝ"
 tags:
   - character
 ---

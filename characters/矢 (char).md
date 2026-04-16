@@ -1,33 +1,33 @@
 ---
 mandarin: "shǐ"
-cantonese: "ci2"
+cantonese: ci2
 korean: "시"
-korean_native: ""
+korean_native: "화살"
 japanese:
   - SHI
 japanese_nanori: ""
 vietnamese:
   - thỉ
-middle_chinese_initial: ɕ
-middle_chinese_final: ɣiɪ
+middle_chinese_initial: "ɕ"
+middle_chinese_final: "ɣiɪ"
 stroke_count: 5
-radical: 矢
+radical: "矢"
 skip_number: 2-2-3
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - arrow
 羅馬字: sii
-韓文: 싀
-joyo_level: "2"
+韓文: "싀"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6453
 mc_id: 925
-graphemic_classification: 象形
-stand_in: 矢
+graphemic_classification: "象形"
+stand_in: "矢"
 aliases:
-注音: ㄙㄧ˙
+注音: "ㄙㄧ˙"
 tags:
   - character
 ---

@@ -1,16 +1,16 @@
 ---
 mandarin: "bāng"
-cantonese: "bong1"
+cantonese: bong1
 korean: "빈"
-korean_native: ""
+korean_native: "물가"
 japanese:
   - HIN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
-middle_chinese_final: iɪn
+middle_chinese_final: "iɪn"
 stroke_count: 10
-radical: 水
+radical: "水"
 skip_number: 1-3-7
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - edge
   - bank
 羅馬字: bin
-韓文: 빈
-joyo_level: 高等
+韓文: "빈"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7085
 mc_id: 2355
-graphemic_classification: 兵
-stand_in: 浜
+graphemic_classification: "兵"
+stand_in: "浜"
 aliases:
   - 濱
-注音: ㄅㄧㄋ
+注音: "ㄅㄧㄋ"
 tags:
   - character
 ---

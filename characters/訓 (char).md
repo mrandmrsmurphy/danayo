@@ -1,19 +1,19 @@
 ---
 mandarin: "xùn"
-cantonese: "fan3"
+cantonese: fan3
 korean: "훈"
-korean_native: ""
+korean_native: "가르칠"
 japanese:
   - KUN
   - KIN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: ɨun
+middle_chinese_final: "ɨun"
 stroke_count: 10
-radical: 言
+radical: "言"
 skip_number: 1-7-3
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - interpret
@@ -22,17 +22,17 @@ english:
   - explicate
   - exegete
 羅馬字: hun
-韓文: 훈
-joyo_level: "4"
+韓文: "훈"
+joyo_level: 4
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 4250
 mc_id: 1273
-graphemic_classification: 川
-stand_in: 訓
+graphemic_classification: "川"
+stand_in: "訓"
 aliases:
   - 训
-注音: ㄏㄨㄋ
+注音: "ㄏㄨㄋ"
 tags:
   - character
 ---

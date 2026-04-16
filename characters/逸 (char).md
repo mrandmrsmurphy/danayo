@@ -1,36 +1,36 @@
 ---
-mandarin: yì
+mandarin: "yì"
 cantonese: jat6
-korean: 일
-korean_native: ""
+korean: "일"
+korean_native: "달아날"
 japanese:
   - ITSU
   - ICHI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: iɪt
+middle_chinese_final: "iɪt"
 stroke_count: 11
-radical: 辵
+radical: "辵"
 skip_number: 3-3-8
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - flee
   - escape
 羅馬字: "'id"
-韓文: 읻
+韓文: "읻"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5352
 mc_id: 1572
-graphemic_classification: 會意
-stand_in: 逸
+graphemic_classification: "會意"
+stand_in: "逸"
 aliases:
   - 𨓜
   - 佚
-注音: ㄧㄊ
+注音: "ㄧㄊ"
 tags:
   - character
 ---

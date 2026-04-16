@@ -1,34 +1,34 @@
 ---
 mandarin: "kǒu"
-cantonese: "hau2"
+cantonese: hau2
 korean: "구"
-korean_native: ""
+korean_native: "입"
 japanese:
   - KOU
   - KU
 japanese_nanori: ""
 vietnamese:
   - khẩu
-middle_chinese_initial: kʰ
-middle_chinese_final: əu
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "əu"
 stroke_count: 3
-radical: 口
+radical: "口"
 skip_number: 4-3-1
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - mouth
 羅馬字: kou
-韓文: 콧
-joyo_level: "1"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "콧"
+joyo_level: 1
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 24
 mc_id: 403
-graphemic_classification: 象形
-stand_in: 口
+graphemic_classification: "象形"
+stand_in: "口"
 aliases:
-注音: ㄎㄛˇ
+注音: "ㄎㄛˇ"
 tags:
   - character
 ---

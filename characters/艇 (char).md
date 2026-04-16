@@ -1,34 +1,34 @@
 ---
 mandarin: "tǐng"
-cantonese: "ting5"
+cantonese: ting5
 korean: "정"
-korean_native: ""
+korean_native: "배"
 japanese:
   - TEI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: eŋ
+middle_chinese_final: "eŋ"
 stroke_count: 13
-radical: 舟
+radical: "舟"
 skip_number: 1-6-7
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - dinghy
   - rowboat
   - boat
 羅馬字: deng
-韓文: 덩
-joyo_level: 高等
+韓文: "덩"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6113
 mc_id: 6475
-graphemic_classification: 廷
-stand_in: 艇
+graphemic_classification: "廷"
+stand_in: "艇"
 aliases:
-注音: ㄉㄝㄥ
+注音: "ㄉㄝㄥ"
 tags:
   - character
 ---

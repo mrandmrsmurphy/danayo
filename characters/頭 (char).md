@@ -1,8 +1,8 @@
 ---
-mandarin: tóu
+mandarin: "tóu"
 cantonese: tau4
-korean: 두
-korean_native: ""
+korean: "두"
+korean_native: "머리"
 japanese:
   - TOU
   - ZU
@@ -10,26 +10,26 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: əu
+middle_chinese_final: "əu"
 stroke_count: 16
-radical: 頁
+radical: "頁"
 skip_number: 1-7-9
-grade_level: "1"
-pos: 名詞
+grade_level: 1
+pos: "名詞"
 english:
   - head
 羅馬字: tou
-韓文: 톳
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "톳"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 248
 mc_id: 680
-graphemic_classification: 豆
-stand_in: 頭
+graphemic_classification: "豆"
+stand_in: "頭"
 aliases:
   - 头
-注音: ㄊㄛˇ
+注音: "ㄊㄛˇ"
 tags:
   - character
 ---

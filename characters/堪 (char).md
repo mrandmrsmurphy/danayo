@@ -1,34 +1,34 @@
 ---
 mandarin: "kān"
-cantonese: "ham1"
+cantonese: ham1
 korean: "감"
-korean_native: ""
+korean_native: "견딜"
 japanese:
   - KAN
   - TAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: ʌm
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "ʌm"
 stroke_count: 12
-radical: 土
+radical: "土"
 skip_number: 1-3-9
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - withstand
   - endure
 羅馬字: kam
-韓文: 캄
-joyo_level: 高等
+韓文: "캄"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6101
 mc_id: 1574
-graphemic_classification: 甚
-stand_in: 堪
+graphemic_classification: "甚"
+stand_in: "堪"
 aliases:
-注音: ㄎㄚㄇ
+注音: "ㄎㄚㄇ"
 tags:
   - character
 ---

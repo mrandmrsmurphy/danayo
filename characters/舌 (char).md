@@ -1,34 +1,34 @@
 ---
 mandarin: "shé"
-cantonese: "sit3"
+cantonese: sit3
 korean: "설"
-korean_native: ""
+korean_native: "혀"
 japanese:
   - ZETSU
   - SETSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: d͡ʑ
-middle_chinese_final: iᴇt
+middle_chinese_initial: "d͡ʑ"
+middle_chinese_final: "iᴇt"
 stroke_count: 6
-radical: 舌
+radical: "舌"
 skip_number: 2-3-3
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - tongue
   - clapper
 羅馬字: sed
-韓文: 섣
-joyo_level: "6"
+韓文: "섣"
+joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3229
 mc_id: 1457
-graphemic_classification: 象形
-stand_in: 舌
+graphemic_classification: "象形"
+stand_in: "舌"
 aliases:
-注音: ㄙㄝㄊ
+注音: "ㄙㄝㄊ"
 tags:
   - character
 ---

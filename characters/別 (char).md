@@ -1,37 +1,37 @@
 ---
 mandarin: "bié"
-cantonese: "bit6"
+cantonese: bit6
 korean: "별"
-korean_native: ""
+korean_native: "나눌"
 japanese:
   - BETSU
   - BECHI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: ɣiᴇt
+middle_chinese_final: "ɣiᴇt"
 stroke_count: 7
-radical: 刀
+radical: "刀"
 skip_number: 1-5-2
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - don’t
   - distinct
   - other
 羅馬字: bed
-韓文: 벋
-joyo_level: "4"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "벋"
+joyo_level: 4
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 2031
 mc_id: 657
-graphemic_classification: 會意
-stand_in: 別
+graphemic_classification: "會意"
+stand_in: "別"
 aliases:
   - 别
   - 彆
-注音: ㄅㄝㄊ
+注音: "ㄅㄝㄊ"
 tags:
   - character
 ---

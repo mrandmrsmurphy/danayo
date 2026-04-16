@@ -1,37 +1,37 @@
 ---
-mandarin: hū
+mandarin: "hū"
 cantonese: fu4
-korean: 호
-korean_native: ""
+korean: "호"
+korean_native: "어조사"
 japanese:
   - KO
 japanese_nanori: ""
 vietnamese:
   - hồ
   - hô
-middle_chinese_initial: ɣ
+middle_chinese_initial: "ɣ"
 middle_chinese_final: uo
 stroke_count: 8
-radical: 丿
+radical: "丿"
 skip_number: 4-5-3
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - did
   - do
 羅馬字: ho
-韓文: 호
-joyo_level: 日本人名用漢字
+韓文: "호"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2003
 mc_id: 69
-graphemic_classification: 會意
-stand_in: 乎
+graphemic_classification: "會意"
+stand_in: "乎"
 aliases:
   - 𠂞
   - 𠂠
-注音: ㄏㄛ
+注音: "ㄏㄛ"
 tags:
   - character
 ---

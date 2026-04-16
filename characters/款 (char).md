@@ -1,33 +1,33 @@
 ---
 mandarin: "kuǎn"
-cantonese: "fun2"
+cantonese: fun2
 korean: "관"
-korean_native: ""
+korean_native: "항목"
 japanese:
   - KAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: uɑn
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "uɑn"
 stroke_count: 12
-radical: 欠
+radical: "欠"
 skip_number: 1-8-4
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - item
   - article
 羅馬字: kwan
-韓文: 콴
-joyo_level: 高等
+韓文: "콴"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6279
 mc_id: 2454
-graphemic_classification: 柰
-stand_in: 款
+graphemic_classification: "柰"
+stand_in: "款"
 aliases:
-注音: ㄎˇㄚㄋ
+注音: "ㄎˇㄚㄋ"
 tags:
   - character
 ---

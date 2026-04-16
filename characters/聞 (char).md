@@ -1,34 +1,34 @@
 ---
-mandarin: wén
+mandarin: "wén"
 cantonese: man4
-korean: 문
-korean_native: ""
+korean: "문"
+korean_native: "들을"
 japanese:
   - BUN
   - MON
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɱ
-middle_chinese_final: ɨun
+middle_chinese_initial: "ɱ"
+middle_chinese_final: "ɨun"
 stroke_count: 14
-radical: 耳
+radical: "耳"
 skip_number: 3-8-6
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - hear
 羅馬字: mun
-韓文: 문
-joyo_level: "2"
+韓文: "문"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2205
 mc_id: 99
-graphemic_classification: 門
-stand_in: 聞
+graphemic_classification: "門"
+stand_in: "聞"
 aliases:
   - 闻
-注音: ㄇㄨㄋ
+注音: "ㄇㄨㄋ"
 tags:
   - character
 ---

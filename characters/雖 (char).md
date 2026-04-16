@@ -1,35 +1,35 @@
 ---
 mandarin: "suī"
-cantonese: "seoi1"
+cantonese: seoi1
 korean: "수"
-korean_native: ""
+korean_native: "비록"
 japanese:
   - SUI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
-middle_chinese_final: iuɪ
+middle_chinese_final: "iuɪ"
 stroke_count: 17
-radical: 隹
+radical: "隹"
 skip_number: 1-9-8
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - though
   - although
   - even if
 羅馬字: sui
-韓文: 쉬
-joyo_level: 表外字
+韓文: "쉬"
+joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 4300
 mc_id: 201
-graphemic_classification: 唯
-stand_in: 雖
+graphemic_classification: "唯"
+stand_in: "雖"
 aliases:
   - 虽
-注音: ㄙㄨ˙
+注音: "ㄙㄨ˙"
 tags:
   - character
 ---

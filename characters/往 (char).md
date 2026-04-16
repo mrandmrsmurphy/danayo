@@ -1,32 +1,32 @@
 ---
 mandarin: "wǎng"
-cantonese: "wong5"
+cantonese: wong5
 korean: "왕"
-korean_native: ""
+korean_native: "갈"
 japanese:
   - OU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ø
-middle_chinese_final: ʉɐŋ
+middle_chinese_initial: "ø"
+middle_chinese_final: "ʉɐŋ"
 stroke_count: 8
-radical: 彳
+radical: "彳"
 skip_number: 1-3-5
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - to go towards
 羅馬字: "'wang"
-韓文: 왕
-joyo_level: "5"
+韓文: "왕"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2094
 mc_id: 335
-graphemic_classification: 王
-stand_in: 往
+graphemic_classification: "王"
+stand_in: "往"
 aliases:
-注音: ˇㄚㄥ
+注音: "ˇㄚㄥ"
 tags:
   - character
 ---

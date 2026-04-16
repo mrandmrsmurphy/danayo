@@ -1,33 +1,33 @@
 ---
 mandarin: "zhá"
-cantonese: "zaat3"
+cantonese: zaat3
 korean: "찰"
-korean_native: ""
+korean_native: "편지"
 japanese:
   - SATSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ʃ
-middle_chinese_final: ɣɛt
+middle_chinese_initial: "t͡ʃ"
+middle_chinese_final: "ɣɛt"
 stroke_count: 5
-radical: 木
+radical: "木"
 skip_number: 1-4-1
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - letter
   - note
 羅馬字: jad
-韓文: 잗
-joyo_level: "4"
+韓文: "잗"
+joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6059
 mc_id: 2183
-graphemic_classification: 乙
-stand_in: 札
+graphemic_classification: "乙"
+stand_in: "札"
 aliases:
-注音: ㄐㄚㄊ
+注音: "ㄐㄚㄊ"
 tags:
   - character
 ---

@@ -1,33 +1,33 @@
 ---
-mandarin: zhī
+mandarin: "zhī"
 cantonese: zap1
-korean: 즙
-korean_native: ""
+korean: "즙"
+korean_native: "즙"
 japanese:
   - JUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: iɪp
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "iɪp"
 stroke_count: 5
-radical: 水
+radical: "水"
 skip_number: 1-3-2
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - soup
   - juice
-羅馬字: jǝb
-韓文: 즙
+羅馬字: "jǝb"
+韓文: "즙"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6069
 mc_id: 2312
-graphemic_classification: 十
-stand_in: 汁
+graphemic_classification: "十"
+stand_in: "汁"
 aliases:
-注音: ㄐㄜㄆ
+注音: "ㄐㄜㄆ"
 tags:
   - character
 ---

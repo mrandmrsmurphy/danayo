@@ -1,32 +1,32 @@
 ---
 mandarin: "xiè"
-cantonese: "haai5"
+cantonese: haai5
 korean: "해"
-korean_native: ""
+korean_native: "게"
 japanese:
   - KAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: ɣɛ
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "ɣɛ"
 stroke_count: 19
-radical: 虫
+radical: "虫"
 skip_number: 2-6-13
 grade_level: "名"
 pos: ""
 english:
   - crab
 羅馬字: hyai
-韓文: 햬
-joyo_level: 日本人名用漢字
+韓文: "햬"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 8311
 mc_id: 3998
-graphemic_classification: 解
-stand_in: 蟹
+graphemic_classification: "解"
+stand_in: "蟹"
 aliases:
-注音: ㄏ˙ㄚ˙
+注音: "ㄏ˙ㄚ˙"
 tags:
   - character
 ---

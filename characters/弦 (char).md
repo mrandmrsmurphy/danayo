@@ -1,18 +1,18 @@
 ---
-mandarin: xián
+mandarin: "xián"
 cantonese: jin4
-korean: 현
-korean_native: ""
+korean: "현"
+korean_native: "활시위"
 japanese:
   - GEN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
+middle_chinese_initial: "ɣ"
 middle_chinese_final: en
 stroke_count: 8
-radical: 弓
+radical: "弓"
 skip_number: 1-3-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - bowstring
@@ -20,17 +20,17 @@ english:
   - string
   - hypotenuse
 羅馬字: hen
-韓文: 헌
+韓文: "헌"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 6444
 mc_id: 1291
-graphemic_classification: 玄
-stand_in: 弦
+graphemic_classification: "玄"
+stand_in: "弦"
 aliases:
   - 絃
-注音: ㄏㄝㄋ
+注音: "ㄏㄝㄋ"
 tags:
   - character
 ---

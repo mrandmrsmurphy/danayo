@@ -1,8 +1,8 @@
 ---
-mandarin: pǐ
+mandarin: "pǐ"
 cantonese: pat1
-korean: 필
-korean_native: ""
+korean: "필"
+korean_native: "짝"
 japanese:
   - HITSU
   - HIKI
@@ -14,27 +14,27 @@ vietnamese:
   - sớt
   - sứt
   - thớt
-middle_chinese_initial: pʰ
-middle_chinese_final: iɪt
+middle_chinese_initial: "pʰ"
+middle_chinese_final: "iɪt"
 stroke_count: 4
-radical: 匸
+radical: "匸"
 skip_number: 3-2-2
-grade_level: "3"
-pos: 量詞
+grade_level: 3
+pos: "量詞"
 english:
   - animals
 羅馬字: pid
-韓文: 핃
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "핃"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 3040
 mc_id: 1079
-graphemic_classification: 八
-stand_in: 匹
+graphemic_classification: "八"
+stand_in: "匹"
 aliases:
   - 疋
-注音: ㄆㄧㄊ
+注音: "ㄆㄧㄊ"
 kwin: true
 tags:
   - character

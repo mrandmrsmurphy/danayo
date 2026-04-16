@@ -1,34 +1,34 @@
 ---
-mandarin: fán
+mandarin: "fán"
 cantonese: faan4
-korean: 번
-korean_native: ""
+korean: "번"
+korean_native: "번거로울"
 japanese:
   - HAN
   - BON
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: v
-middle_chinese_final: ʉɐn
+middle_chinese_final: "ʉɐn"
 stroke_count: 13
-radical: 火
+radical: "火"
 skip_number: 1-4-9
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - toublesome
 羅馬字: fom
-韓文: 뽐
+韓文: "뽐"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4176
 mc_id: 1037
-graphemic_classification: 會意
-stand_in: 煩
+graphemic_classification: "會意"
+stand_in: "煩"
 aliases:
   - 烦
-注音: ㄈㄛㄇ
+注音: "ㄈㄛㄇ"
 tags:
   - character
   - hapax

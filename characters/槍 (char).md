@@ -1,17 +1,17 @@
 ---
 mandarin: "qiāng"
-cantonese: "coeng1"
+cantonese: coeng1
 korean: "창"
-korean_native: ""
+korean_native: "창"
 japanese:
   - SOU
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ʃʰ
-middle_chinese_final: ɣæŋ
+middle_chinese_initial: "t͡ʃʰ"
+middle_chinese_final: "ɣæŋ"
 stroke_count: 14
-radical: 木
+radical: "木"
 skip_number: 1-4-10
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - spear
   - lance
 羅馬字: cwang
-韓文: 촹
-joyo_level: 日本人名用漢字
+韓文: "촹"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7190
 mc_id: 4006
-graphemic_classification: 倉
-stand_in: 槍
+graphemic_classification: "倉"
+stand_in: "槍"
 aliases:
   - 枪
-注音: ㄑˇㄚㄥ
+注音: "ㄑˇㄚㄥ"
 tags:
   - character
 ---

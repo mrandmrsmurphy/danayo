@@ -1,35 +1,35 @@
 ---
-mandarin: wù
+mandarin: "wù"
 cantonese: mou6
-korean: 무
-korean_native: ""
+korean: "무"
+korean_native: "안개"
 japanese:
   - MU
   - BU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɱ
-middle_chinese_final: ɨo
+middle_chinese_initial: "ɱ"
+middle_chinese_final: "ɨo"
 stroke_count: 19
-radical: 雨
+radical: "雨"
 skip_number: 2-8-11
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - fog
   - mist
 羅馬字: mu
-韓文: 무
-joyo_level: 高等
+韓文: "무"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5246
 mc_id: 2097
-graphemic_classification: 務
-stand_in: 霧
+graphemic_classification: "務"
+stand_in: "霧"
 aliases:
   - 雾
-注音: ㄇㄨ
+注音: "ㄇㄨ"
 tags:
   - character
 ---

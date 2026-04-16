@@ -1,34 +1,34 @@
 ---
 mandarin: "gàn"
-cantonese: "gam3"
+cantonese: gam3
 korean: "감"
-korean_native: ""
+korean_native: "감색"
 japanese:
   - KON
   - KAN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ʌm
+middle_chinese_final: "ʌm"
 stroke_count: 11
-radical: 糸
+radical: "糸"
 skip_number: 1-6-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - navy blue
 羅馬字: gam
-韓文: 감
+韓文: "감"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6036
 mc_id: 3799
-graphemic_classification: 甘
-stand_in: 紺
+graphemic_classification: "甘"
+stand_in: "紺"
 aliases:
   - 绀
-注音: ㄍㄚㄇ
+注音: "ㄍㄚㄇ"
 tags:
   - character
 ---

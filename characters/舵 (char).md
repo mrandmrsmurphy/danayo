@@ -1,8 +1,8 @@
 ---
 mandarin: "duò"
-cantonese: "to4"
+cantonese: to4
 korean: "타"
-korean_native: ""
+korean_native: "키"
 japanese:
   - TA
   - DA
@@ -11,7 +11,7 @@ vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: a
 stroke_count: 11
-radical: 舟
+radical: "舟"
 skip_number: 1-6-5
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - rudder
   - helm
 羅馬字: da
-韓文: 다
-joyo_level: 日本人名用漢字
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "다"
+joyo_level: "日本人名用漢字"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 7304
 mc_id: 0
-graphemic_classification: 蛇
-stand_in: 舵
+graphemic_classification: "蛇"
+stand_in: "舵"
 aliases:
   - 杕
-注音: ㄉㄚ
+注音: "ㄉㄚ"
 tags:
   - character
 ---

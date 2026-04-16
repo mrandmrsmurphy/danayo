@@ -1,8 +1,8 @@
 ---
 mandarin: "nuǎn"
-cantonese: "nyun5"
+cantonese: nyun5
 korean: "난"
-korean_native: ""
+korean_native: "따뜻할"
 japanese:
   - DAN
   - KEN
@@ -10,26 +10,26 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: n
-middle_chinese_final: uɑn
+middle_chinese_final: "uɑn"
 stroke_count: 13
-radical: 日
+radical: "日"
 skip_number: 1-4-9
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - warm
 羅馬字: nan
-韓文: 난
-joyo_level: "6"
+韓文: "난"
+joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2127
 mc_id: 2629
-graphemic_classification: 爰
-stand_in: 暖
+graphemic_classification: "爰"
+stand_in: "暖"
 aliases:
   - 煖
-注音: ㄋㄚㄋ
+注音: "ㄋㄚㄋ"
 tags:
   - character
 ---

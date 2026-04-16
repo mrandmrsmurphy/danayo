@@ -1,32 +1,32 @@
 ---
 mandarin: "hòu"
-cantonese: "hau5"
+cantonese: hau5
 korean: "후"
-korean_native: ""
+korean_native: "두터울"
 japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: əu
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "əu"
 stroke_count: 9
-radical: 厂
+radical: "厂"
 skip_number: 3-2-7
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - thick
 羅馬字: hou
-韓文: 홋
-joyo_level: "5"
+韓文: "홋"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3044
 mc_id: 456
-graphemic_classification: 會意
-stand_in: 厚
+graphemic_classification: "會意"
+stand_in: "厚"
 aliases:
-注音: ㄏㄛˇ
+注音: "ㄏㄛˇ"
 tags:
   - character
 ---

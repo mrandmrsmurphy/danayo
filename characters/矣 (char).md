@@ -1,33 +1,33 @@
 ---
-mandarin: yǐ
+mandarin: "yǐ"
 cantonese: ji5
-korean: 의
-korean_native: ""
+korean: "의"
+korean_native: "어조사"
 japanese:
   - I
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: ɣɛi
+middle_chinese_final: "ɣɛi"
 stroke_count: 7
-radical: 矢
+radical: "矢"
 skip_number: 2-2-5
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - hey
 羅馬字: we
-韓文: 워
+韓文: "워"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 7274
 mc_id: 49
-graphemic_classification: 厶
-stand_in: 矣
+graphemic_classification: "厶"
+stand_in: "矣"
 aliases:
   - 欸
-注音: ˇㄝ
+注音: "ˇㄝ"
 tags:
   - character
   - hapax

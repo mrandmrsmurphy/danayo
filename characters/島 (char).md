@@ -1,33 +1,33 @@
 ---
 mandarin: "dǎo"
-cantonese: "dou2"
+cantonese: dou2
 korean: "도"
-korean_native: ""
+korean_native: "섬"
 japanese:
   - TOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
-middle_chinese_final: ɑu
+middle_chinese_final: "ɑu"
 stroke_count: 10
-radical: 山
+radical: "山"
 skip_number: 3-7-3
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - island
 羅馬字: tau
-韓文: 탓
-joyo_level: "2"
+韓文: "탓"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2077
 mc_id: 4188
-graphemic_classification: 鳥
-stand_in: 島
+graphemic_classification: "鳥"
+stand_in: "島"
 aliases:
   - 岛
-注音: ㄊㄚˇ
+注音: "ㄊㄚˇ"
 tags:
   - character
 ---

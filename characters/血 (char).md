@@ -1,8 +1,8 @@
 ---
 mandarin: "xuè"
-cantonese: "hyut3"
+cantonese: hyut3
 korean: "혈"
-korean_native: ""
+korean_native: "피"
 japanese:
   - KETSU
 japanese_nanori: ""
@@ -10,23 +10,23 @@ vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: wet
 stroke_count: 6
-radical: 血
+radical: "血"
 skip_number: 4-6-2
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - blood
 羅馬字: hwed
-韓文: 훧
-joyo_level: "3"
+韓文: "훧"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2219
 mc_id: 637
-graphemic_classification: 會意
-stand_in: 血
+graphemic_classification: "會意"
+stand_in: "血"
 aliases:
-注音: ㄏˇㄝㄊ
+注音: "ㄏˇㄝㄊ"
 tags:
   - character
 ---

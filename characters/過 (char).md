@@ -1,34 +1,34 @@
 ---
 mandarin: "guò"
-cantonese: "gwo3"
+cantonese: gwo3
 korean: "과"
-korean_native: ""
+korean_native: "지날"
 japanese:
   - KA
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: uɑ
+middle_chinese_final: "uɑ"
 stroke_count: 13
-radical: 辵
+radical: "辵"
 skip_number: 3-4-9
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - than
   - too
 羅馬字: gwa
-韓文:  과
-joyo_level: "5"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "과"
+joyo_level: 5
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 2252
 mc_id: 194
-graphemic_classification: 咼
-stand_in: 過
+graphemic_classification: "咼"
+stand_in: "過"
 aliases:
   - 过
-注音: ㄍˇㄚ
+注音: "ㄍˇㄚ"
 tags:
   - character
 ---

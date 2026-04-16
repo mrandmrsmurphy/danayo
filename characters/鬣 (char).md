@@ -1,16 +1,16 @@
 ---
 mandarin: "liè"
-cantonese: "lip6"
+cantonese: lip6
 korean: "렵"
-korean_native: ""
+korean_native: "갈기"
 japanese:
   - RYOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: iᴇp
+middle_chinese_final: "iᴇp"
 stroke_count: 25
-radical: 髟
+radical: "髟"
 skip_number: 2-10-15
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - mane
   - whiskers
 羅馬字: lob
-韓文: 롭
+韓文: "롭"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7416
 mc_id: 3632
-graphemic_classification: 巤
-stand_in: 鬣
+graphemic_classification: "巤"
+stand_in: "鬣"
 aliases:
-注音: ㄌㄛㄆ
+注音: "ㄌㄛㄆ"
 tags:
   - character
 ---

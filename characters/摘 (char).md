@@ -1,35 +1,35 @@
 ---
 mandarin: "zhāi"
-cantonese: "zaak6"
+cantonese: zaak6
 korean: "적"
-korean_native: ""
+korean_native: "딸"
 japanese:
   - TEKI
   - TAKU
   - CHAKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʈ
-middle_chinese_final: ɣɛk
+middle_chinese_initial: "ʈ"
+middle_chinese_final: "ɣɛk"
 stroke_count: 14
-radical: 手
+radical: "手"
 skip_number: 1-3-11
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - pinch
   - pluck
 羅馬字: dag
-韓文: 닥
-joyo_level: 高等
+韓文: "닥"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5185
 mc_id: 4839
-graphemic_classification: 帝
-stand_in: 摘
+graphemic_classification: "帝"
+stand_in: "摘"
 aliases:
-注音: ㄉㄚㄎ
+注音: "ㄉㄚㄎ"
 tags:
   - character
 ---

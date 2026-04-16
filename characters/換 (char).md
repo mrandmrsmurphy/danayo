@@ -1,34 +1,34 @@
 ---
 mandarin: "huàn"
-cantonese: "wun6"
+cantonese: wun6
 korean: "환"
-korean_native: ""
+korean_native: "바꿀"
 japanese:
   - KAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: uɑn
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "uɑn"
 stroke_count: 12
-radical: 手
+radical: "手"
 skip_number: 1-3-9
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - interchange
   - exchange
 羅馬字: hwam
-韓文: 홤
-joyo_level: 高等
+韓文: "홤"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4122
 mc_id: 4851
-graphemic_classification: 奐
-stand_in: 換
+graphemic_classification: "奐"
+stand_in: "換"
 aliases:
   - 换
-注音: ㄏˇㄚㄇ
+注音: "ㄏˇㄚㄇ"
 tags:
   - character
 ---

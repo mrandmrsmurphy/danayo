@@ -1,33 +1,33 @@
 ---
 mandarin: "ā"
-cantonese: "aa3"
+cantonese: aa3
 korean: "아"
-korean_native: ""
+korean_native: "언덕"
 japanese:
   - A
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: ɑ
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "ɑ"
 stroke_count: 8
-radical: 阜
+radical: "阜"
 skip_number: 1-3-5
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - ah
 羅馬字: "'a"
-韓文: 아
-joyo_level: 日本人名用漢字
+韓文: "아"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 5164
 mc_id: 1089
-graphemic_classification: 可
-stand_in: 阿
+graphemic_classification: "可"
+stand_in: "阿"
 aliases:
   - 啊
-注音: ㄚ
+注音: "ㄚ"
 tags:
   - character
 ---

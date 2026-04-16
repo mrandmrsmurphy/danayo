@@ -1,17 +1,17 @@
 ---
 mandarin: "yì"
-cantonese: "ngai6"
+cantonese: ngai6
 korean: "예"
-korean_native: ""
+korean_native: "이를"
 japanese:
   - KEI
   - GEI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ŋ
+middle_chinese_initial: "ŋ"
 middle_chinese_final: ei
 stroke_count: 13
-radical: 言
+radical: "言"
 skip_number: 1-7-6
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - visit
   - reach
 羅馬字: "'ei"
-韓文: 에
-joyo_level: 高等
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "에"
+joyo_level: "高等"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 7173
 mc_id: 1027
-graphemic_classification: 旨
-stand_in: 詣
+graphemic_classification: "旨"
+stand_in: "詣"
 aliases:
   - 诣
-注音: ㄝ˙
+注音: "ㄝ˙"
 tags:
   - character
 ---

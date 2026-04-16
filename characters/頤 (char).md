@@ -1,33 +1,33 @@
 ---
-mandarin: yí
+mandarin: "yí"
 cantonese: ji4
-korean: 이
-korean_native: ""
+korean: "이"
+korean_native: "턱"
 japanese:
   - I
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: ɨ
+middle_chinese_final: "ɨ"
 stroke_count: 16
-radical: 頁
+radical: "頁"
 skip_number: 1-9-7
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - chin
 羅馬字: "'i"
-韓文: 이
-joyo_level: 表外字
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "이"
+joyo_level: "表外字"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 8279
 mc_id: 2089
-graphemic_classification: 會意
-stand_in: 頤
+graphemic_classification: "會意"
+stand_in: "頤"
 aliases:
   - 颐
-注音: ㄧ
+注音: "ㄧ"
 tags:
   - character
 ---

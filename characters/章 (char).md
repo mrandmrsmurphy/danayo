@@ -1,35 +1,35 @@
 ---
 mandarin: "zhāng"
-cantonese: "zoeng1"
+cantonese: zoeng1
 korean: "장"
-korean_native: ""
+korean_native: "글"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: ɨɐŋ
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "ɨɐŋ"
 stroke_count: 11
-radical: 立
+radical: "立"
 skip_number: 2-2-9
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - chapter
 羅馬字: jang
-韓文: 장
-joyo_level: "3"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "장"
+joyo_level: 3
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 211
 mc_id: 365
-graphemic_classification: 會意
-stand_in: 章
+graphemic_classification: "會意"
+stand_in: "章"
 aliases:
   - 嶂
   - 鱆
   - 鮹
-注音: ㄐㄚㄥ
+注音: "ㄐㄚㄥ"
 tags:
   - character
 ---

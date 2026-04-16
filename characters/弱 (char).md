@@ -1,33 +1,33 @@
 ---
 mandarin: "ruò"
-cantonese: "joek6"
+cantonese: joek6
 korean: "약"
-korean_native: ""
+korean_native: "약할"
 japanese:
   - JAKU
   - NYAKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ȵ
-middle_chinese_final: ɨɐk
+middle_chinese_initial: "ȵ"
+middle_chinese_final: "ɨɐk"
 stroke_count: 10
-radical: 弓
+radical: "弓"
 skip_number: 1-5-5
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - weak
 羅馬字: nyag
-韓文: 냑
-joyo_level: "2"
+韓文: "냑"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2091
 mc_id: 550
-graphemic_classification: 會意
-stand_in: 弱
+graphemic_classification: "會意"
+stand_in: "弱"
 aliases:
-注音: ㄋ˙ㄚㄎ
+注音: "ㄋ˙ㄚㄎ"
 tags:
   - character
 ---

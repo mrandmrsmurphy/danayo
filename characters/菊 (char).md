@@ -1,32 +1,32 @@
 ---
 mandarin: "jú"
-cantonese: "guk1"
+cantonese: guk1
 korean: "국"
-korean_native: ""
+korean_native: "국화"
 japanese:
   - KIKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ɨuk
+middle_chinese_final: "ɨuk"
 stroke_count: 11
-radical: 艸
+radical: "艸"
 skip_number: 2-3-8
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - chrysanthemum
 羅馬字: gug
-韓文: 국
-joyo_level: 高等
+韓文: "국"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6399
 mc_id: 4551
-graphemic_classification: 匊
-stand_in: 菊
+graphemic_classification: "匊"
+stand_in: "菊"
 aliases:
-注音: ㄍㄨㄎ
+注音: "ㄍㄨㄎ"
 tags:
   - character
 ---

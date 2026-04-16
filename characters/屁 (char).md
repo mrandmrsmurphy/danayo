@@ -1,32 +1,32 @@
 ---
 mandarin: "pì"
-cantonese: "pei3"
+cantonese: pei3
 korean: "비"
-korean_native: ""
+korean_native: "방귀"
 japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: pʰ
-middle_chinese_final: iɪ
+middle_chinese_initial: "pʰ"
+middle_chinese_final: "iɪ"
 stroke_count: 7
-radical: 尸
+radical: "尸"
 skip_number: 3-3-4
 grade_level: "先進"
 pos: ""
 english:
   - far
 羅馬字: pii
-韓文: 픠
-joyo_level: 表外字
+韓文: "픠"
+joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: 無
+hanmun_edu_level: "無"
 danayo_id: 7278
 mc_id: 0
-graphemic_classification: 比
-stand_in: 屁
+graphemic_classification: "比"
+stand_in: "屁"
 aliases:
-注音: ㄆㄧ˙
+注音: "ㄆㄧ˙"
 tags:
   - character
 ---

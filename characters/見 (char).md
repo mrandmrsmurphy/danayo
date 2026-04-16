@@ -1,8 +1,8 @@
 ---
 mandarin: "jiàn"
-cantonese: "gin3"
+cantonese: gin3
 korean: "견"
-korean_native: ""
+korean_native: "볼"
 japanese:
   - KEN
 japanese_nanori: ""
@@ -11,24 +11,24 @@ vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: en
 stroke_count: 7
-radical: 見
+radical: "見"
 skip_number: 2-5-2
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - see
 羅馬字: gyen
-韓文: 견
-joyo_level: "1"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "견"
+joyo_level: 1
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 126
 mc_id: 61
-graphemic_classification: 指事
-stand_in: 見
+graphemic_classification: "指事"
+stand_in: "見"
 aliases:
   - 见
-注音: ㄍ˙ㄝㄋ
+注音: "ㄍ˙ㄝㄋ"
 tags:
   - character
 ---

@@ -1,33 +1,33 @@
 ---
 mandarin: "zhào"
-cantonese: "ziu3"
+cantonese: ziu3
 korean: "조"
-korean_native: ""
+korean_native: "비칠"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
   - chiếu
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: iᴇu
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "iᴇu"
 stroke_count: 13
-radical: 火
+radical: "火"
 skip_number: 2-9-4
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - shine
 羅馬字: jou
-韓文: 좃
-joyo_level: "4"
+韓文: "좃"
+joyo_level: 4
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4175
 mc_id: 1562
-graphemic_classification: 昭
-stand_in: 照
+graphemic_classification: "昭"
+stand_in: "照"
 aliases:
-注音: ㄐㄛˇ
+注音: "ㄐㄛˇ"
 tags:
   - character
 ---

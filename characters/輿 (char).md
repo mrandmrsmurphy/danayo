@@ -1,33 +1,33 @@
 ---
 mandarin: "yú"
-cantonese: "jyu4"
+cantonese: jyu4
 korean: "여"
-korean_native: ""
+korean_native: "수레"
 japanese:
   - YO
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: ɨʌ
+middle_chinese_final: "ɨʌ"
 stroke_count: 17
-radical: 車
+radical: "車"
 skip_number: 2-15-2
 grade_level: "先進"
 pos: ""
 english:
   - palanquin
 羅馬字: "'yo"
-韓文: 요
-joyo_level: 日本人名用漢字
+韓文: "요"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 7247
 mc_id: 957
-graphemic_classification: 与
-stand_in: 輿
+graphemic_classification: "与"
+stand_in: "輿"
 aliases:
   - 舆
-注音: ˙ㄛ
+注音: "˙ㄛ"
 tags:
   - character
 ---

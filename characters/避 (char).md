@@ -1,33 +1,33 @@
 ---
 mandarin: "bì"
-cantonese: "bei6"
+cantonese: bei6
 korean: "피"
-korean_native: ""
+korean_native: "피할"
 japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: iᴇ
+middle_chinese_final: "iᴇ"
 stroke_count: 16
-radical: 辵
+radical: "辵"
 skip_number: 3-3-13
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - evade
   - dodge
 羅馬字: be
-韓文: 버
-joyo_level: 高等
+韓文: "버"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5229
 mc_id: 842
-graphemic_classification: 辟
-stand_in: 避
+graphemic_classification: "辟"
+stand_in: "避"
 aliases:
-注音: ㄅㄝ
+注音: "ㄅㄝ"
 tags:
   - character
 ---

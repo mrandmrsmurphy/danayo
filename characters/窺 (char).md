@@ -1,33 +1,33 @@
 ---
 mandarin: "kuī"
-cantonese: "kwai1"
+cantonese: kwai1
 korean: "규"
-korean_native: ""
+korean_native: "엿볼"
 japanese:
   - KI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: iuᴇ
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "iuᴇ"
 stroke_count: 16
-radical: 穴
+radical: "穴"
 skip_number: 2-3-13
 grade_level: "先進"
 pos: ""
 english:
   - spy on
 羅馬字: kui
-韓文: 퀴
-joyo_level: 日本人名用漢字
+韓文: "퀴"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7444
 mc_id: 2132
-graphemic_classification: 規
-stand_in: 窺
+graphemic_classification: "規"
+stand_in: "窺"
 aliases:
   - 窥
-注音: ㄎㄨ˙
+注音: "ㄎㄨ˙"
 tags:
   - character
 ---

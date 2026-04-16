@@ -1,36 +1,36 @@
 ---
-mandarin: fú
+mandarin: "fú"
 cantonese: fat1
-korean: 불
-korean_native: ""
+korean: "불"
+korean_native: "떨칠"
 japanese:
   - FUTSU
   - HOTSU
   - HITSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: fʰ
-middle_chinese_final: ɨut
+middle_chinese_initial: "fʰ"
+middle_chinese_final: "ɨut"
 stroke_count: 8
-radical: 手
+radical: "手"
 skip_number: 1-3-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - shake off
   - brush off
 羅馬字: fud
-韓文: 뿓
-joyo_level: 高等
+韓文: "뿓"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6187
 mc_id: 2019
-graphemic_classification: 弗
-stand_in: 拂
+graphemic_classification: "弗"
+stand_in: "拂"
 aliases:
   - 払
-注音: ㄈㄨㄊ
+注音: "ㄈㄨㄊ"
 tags:
   - character
 ---

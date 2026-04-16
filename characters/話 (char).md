@@ -1,36 +1,36 @@
 ---
 mandarin: "huà"
-cantonese: "waa6"
+cantonese: waa6
 korean: "화"
-korean_native: ""
+korean_native: "말씀"
 japanese:
   - WA
   - KAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: ɣuai
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "ɣuai"
 stroke_count: 13
-radical: 言
+radical: "言"
 skip_number: 1-7-6
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - speak on
   - talk about
 羅馬字: hwai
-韓文: 홰
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "홰"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 230
 mc_id: 4322
-graphemic_classification: 舌
-stand_in: 話
+graphemic_classification: "舌"
+stand_in: "話"
 aliases:
   - 话
   - 䛡
-注音: ㄏˇㄚ˙
+注音: "ㄏˇㄚ˙"
 tags:
   - character
 ---

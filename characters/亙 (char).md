@@ -1,33 +1,33 @@
 ---
 mandarin: "gèn"
-cantonese: "gang2"
+cantonese: gang2
 korean: "긍"
-korean_native: ""
+korean_native: "뻗칠"
 japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: əŋ
+middle_chinese_final: "əŋ"
 stroke_count: 6
-radical: 二
+radical: "二"
 skip_number: 4-6-1
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - across
   - athwart
 羅馬字: gung
-韓文: 궁
-joyo_level: 日本人名用漢字
+韓文: "궁"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6001
 mc_id: 6537
-graphemic_classification: 指事
-stand_in: 亙
+graphemic_classification: "指事"
+stand_in: "亙"
 aliases:
-注音: ㄍㄨㄥ
+注音: "ㄍㄨㄥ"
 tags:
   - character
 ---

@@ -1,32 +1,32 @@
 ---
 mandarin: "xiù"
-cantonese: "zau6"
+cantonese: zau6
 korean: "수"
-korean_native: ""
+korean_native: "소매"
 japanese:
   - SHUU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: z
-middle_chinese_final: ɨu
+middle_chinese_final: "ɨu"
 stroke_count: 10
-radical: 衣
+radical: "衣"
 skip_number: 1-5-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - sleeve
 羅馬字: suu
-韓文: 숫
-joyo_level: 高等
+韓文: "숫"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6297
 mc_id: 2775
-graphemic_classification: 由
-stand_in: 袖
+graphemic_classification: "由"
+stand_in: "袖"
 aliases:
-注音: ㄙㄨˇ
+注音: "ㄙㄨˇ"
 tags:
   - character
 ---

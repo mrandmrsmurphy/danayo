@@ -1,34 +1,34 @@
 ---
 mandarin: "qū"
-cantonese: "wat1"
+cantonese: wat1
 korean: "굴"
-korean_native: ""
+korean_native: "굽힐"
 japanese:
   - KUTSU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ɨut
+middle_chinese_final: "ɨut"
 stroke_count: 8
-radical: 尸
+radical: "尸"
 skip_number: 3-3-5
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - bend
   - flex
   - crouch
 羅馬字: kud
-韓文: 쿧
+韓文: "쿧"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6318
 mc_id: 923
-graphemic_classification: 出
-stand_in: 屈
+graphemic_classification: "出"
+stand_in: "屈"
 aliases:
-注音: ㄎㄨㄊ
+注音: "ㄎㄨㄊ"
 tags:
   - character
 ---

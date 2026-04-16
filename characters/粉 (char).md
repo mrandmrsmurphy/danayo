@@ -1,32 +1,32 @@
 ---
-mandarin: fěn
+mandarin: "fěn"
 cantonese: fan2
-korean: 분
-korean_native: ""
+korean: "분"
+korean_native: "가루"
 japanese:
   - FUN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: f
-middle_chinese_final: ɨun
+middle_chinese_final: "ɨun"
 stroke_count: 10
-radical: 米
+radical: "米"
 skip_number: 1-6-4
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - powder
 羅馬字: fun
-韓文: 뿐
-joyo_level: "5"
+韓文: "뿐"
+joyo_level: 5
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4204
 mc_id: 3242
-graphemic_classification: 分
-stand_in: 粉
+graphemic_classification: "分"
+stand_in: "粉"
 aliases:
-注音: ㄈㄨㄋ
+注音: "ㄈㄨㄋ"
 tags:
   - character
 ---

@@ -1,34 +1,34 @@
 ---
 mandarin: "zhé"
-cantonese: "zat6"
+cantonese: zat6
 korean: "칩"
-korean_native: ""
+korean_native: "동면할"
 japanese:
   - CHITSU
   - CHUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɣiɪp
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɣiɪp"
 stroke_count: 17
-radical: 虫
+radical: "虫"
 skip_number: 2-11-6
 grade_level: "先進"
 pos: ""
 english:
   - hibernate
 羅馬字: cib
-韓文: 칩
+韓文: "칩"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7326
 mc_id: 2302
-graphemic_classification: 執
-stand_in: 蟄
+graphemic_classification: "執"
+stand_in: "蟄"
 aliases:
   - 蛰
-注音: ㄑㄧㄆ
+注音: "ㄑㄧㄆ"
 tags:
   - character
 ---

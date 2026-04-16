@@ -1,34 +1,34 @@
 ---
 mandarin: "kuài"
-cantonese: "faai3"
+cantonese: faai3
 korean: "쾌"
-korean_native: ""
+korean_native: "쾌할"
 japanese:
   - KAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: ɣuai
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "ɣuai"
 stroke_count: 7
-radical: 心
+radical: "心"
 skip_number: 1-3-4
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - sharp
   - quick
   - happy
 羅馬字: kwai
-韓文: 쾌
-joyo_level: "5"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "쾌"
+joyo_level: 5
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 2099
 mc_id: 1968
-graphemic_classification: 叏
-stand_in: 快
+graphemic_classification: "叏"
+stand_in: "快"
 aliases:
-注音: ㄎˇㄚ˙
+注音: "ㄎˇㄚ˙"
 tags:
   - character
 ---

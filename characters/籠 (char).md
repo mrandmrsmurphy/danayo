@@ -1,33 +1,33 @@
 ---
-mandarin: lóng
+mandarin: "lóng"
 cantonese: lung4
-korean: 롱
-korean_native: ""
+korean: "롱"
+korean_native: "대바구니"
 japanese:
   - ROU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: uŋ
+middle_chinese_final: "uŋ"
 stroke_count: 22
-radical: 竹
+radical: "竹"
 skip_number: 2-6-16
-grade_level: "6"
-pos: 名詞
+grade_level: 6
+pos: "名詞"
 english:
   - basket
 羅馬字: long
-韓文: 롱
-joyo_level: 高等
-hsk_level: "3"
-hanmun_edu_level: 名
+韓文: "롱"
+joyo_level: "高等"
+hsk_level: 3
+hanmun_edu_level: "名"
 danayo_id: 6248
 mc_id: 2733
-graphemic_classification: 龍
-stand_in: 籠
+graphemic_classification: "龍"
+stand_in: "籠"
 aliases:
   - 笼
-注音: ㄌㄛㄥ
+注音: "ㄌㄛㄥ"
 tags:
   - character
 ---

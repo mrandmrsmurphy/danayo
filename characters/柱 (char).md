@@ -1,32 +1,32 @@
 ---
 mandarin: "zhù"
-cantonese: "cyu5"
+cantonese: cyu5
 korean: "주"
-korean_native: ""
+korean_native: "기둥"
 japanese:
   - CHUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɨo
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɨo"
 stroke_count: 9
-radical: 木
+radical: "木"
 skip_number: 1-4-5
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - pillar
 羅馬字: ju
-韓文: 주
-joyo_level: "3"
+韓文: "주"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 4136
 mc_id: 1398
-graphemic_classification: 主
-stand_in: 柱
+graphemic_classification: "主"
+stand_in: "柱"
 aliases:
-注音: ㄐㄨ
+注音: "ㄐㄨ"
 tags:
   - character
 ---

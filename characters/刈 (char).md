@@ -1,33 +1,33 @@
 ---
-mandarin: yì
+mandarin: "yì"
 cantonese: ngaai6
-korean: 예
-korean_native: ""
+korean: "예"
+korean_native: "벨"
 japanese:
   - GAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ŋ
-middle_chinese_final: ɨɐi
+middle_chinese_initial: "ŋ"
+middle_chinese_final: "ɨɐi"
 stroke_count: 4
-radical: 刀
+radical: "刀"
 skip_number: 1-2-2
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - cut
   - mow
 羅馬字: "'yai"
-韓文: 얘
-joyo_level: 高等
+韓文: "얘"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7515
 mc_id: 3233
-graphemic_classification: 乂
-stand_in: 刈
+graphemic_classification: "乂"
+stand_in: "刈"
 aliases:
-注音: ˙ㄚ˙
+注音: "˙ㄚ˙"
 tags:
   - character
 ---

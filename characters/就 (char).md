@@ -1,36 +1,36 @@
 ---
 mandarin: "jiù"
-cantonese: "zau6"
+cantonese: zau6
 korean: "취"
-korean_native: ""
+korean_native: "나아갈"
 japanese:
   - SHUU
   - JU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: d͡z
-middle_chinese_final: ɨu
+middle_chinese_initial: "d͡z"
+middle_chinese_final: "ɨu"
 stroke_count: 12
-radical: 尢
+radical: "尢"
 skip_number: 1-8-4
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - about
   - let
 羅馬字: juu
-韓文: 줏
-joyo_level: "6"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "줏"
+joyo_level: 6
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 2073
 mc_id: 552
-graphemic_classification: 尤
-stand_in: 就
+graphemic_classification: "尤"
+stand_in: "就"
 aliases:
   - 鷲
   - 鹫
-注音: ㄐㄨˇ
+注音: "ㄐㄨˇ"
 tags:
   - character
 ---

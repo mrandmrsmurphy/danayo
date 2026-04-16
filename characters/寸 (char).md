@@ -1,34 +1,34 @@
 ---
 mandarin: "cùn"
-cantonese: "cyun3"
+cantonese: cyun3
 korean: "촌"
-korean_native: ""
+korean_native: "마디"
 japanese:
   - SUN
   - SON
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: uən
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "uən"
 stroke_count: 3
-radical: 寸
+radical: "寸"
 skip_number: 3-2-1
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - inch
   - measurement
 羅馬字: con
-韓文: 촌
-joyo_level: "6"
+韓文: "촌"
+joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3091
 mc_id: 666
-graphemic_classification: 指事
-stand_in: 寸
+graphemic_classification: "指事"
+stand_in: "寸"
 aliases:
-注音: ㄑㄛㄋ
+注音: "ㄑㄛㄋ"
 tags:
   - character
 ---

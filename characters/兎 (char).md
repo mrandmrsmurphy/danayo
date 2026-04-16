@@ -1,34 +1,34 @@
 ---
-mandarin: tù
+mandarin: "tù"
 cantonese: tou3
-korean: 토
-korean_native: ""
+korean: "토"
+korean_native: "토끼"
 japanese:
   - TO
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: tʰ
+middle_chinese_initial: "tʰ"
 middle_chinese_final: uo
 stroke_count: 8
-radical: 儿
+radical: "儿"
 skip_number: 4-8-4
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - rabbit
   - hare
 羅馬字: to
-韓文: 토
-joyo_level: 日本人名用漢字
+韓文: "토"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 5347
 mc_id: 9935
-graphemic_classification: 象形
-stand_in: 兎
+graphemic_classification: "象形"
+stand_in: "兎"
 aliases:
   - 兔
-注音: ㄊㄛ
+注音: "ㄊㄛ"
 tags:
   - character
 kwin: true

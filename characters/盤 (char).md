@@ -1,36 +1,36 @@
 ---
-mandarin: pán
+mandarin: "pán"
 cantonese: pun4
-korean: 반
-korean_native: ""
+korean: "반"
+korean_native: "소반"
 japanese:
   - BAN
   - HAN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: uɑn
+middle_chinese_final: "uɑn"
 stroke_count: 15
-radical: 皿
+radical: "皿"
 skip_number: 2-10-5
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - tray
 羅馬字: ban
-韓文: 반
+韓文: "반"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5317
 mc_id: 2118
-graphemic_classification: 般
-stand_in: 盤
+graphemic_classification: "般"
+stand_in: "盤"
 aliases:
   - 盘
   - 蟠
   - 槃
-注音: ㄅㄚㄋ
+注音: "ㄅㄚㄋ"
 tags:
   - character
 ---

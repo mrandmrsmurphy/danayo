@@ -1,16 +1,16 @@
 ---
 mandarin: "gǔn"
-cantonese: "gwan2"
+cantonese: gwan2
 korean: "곤"
-korean_native: ""
+korean_native: "흐를"
 japanese:
   - KON
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: uən
+middle_chinese_final: "uən"
 stroke_count: 14
-radical: 水
+radical: "水"
 skip_number: 1-3-11
 grade_level: "先進"
 pos: ""
@@ -18,17 +18,17 @@ english:
   - boil
   - roll
 羅馬字: gwan
-韓文: 관
+韓文: "관"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7378
 mc_id: 0
-graphemic_classification: 袞
-stand_in: 滾
+graphemic_classification: "袞"
+stand_in: "滾"
 aliases:
   - 滚
-注音: ㄍˇㄚㄋ
+注音: "ㄍˇㄚㄋ"
 tags:
   - character
 ---

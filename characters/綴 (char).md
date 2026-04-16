@@ -1,17 +1,17 @@
 ---
 mandarin: "zhuì"
-cantonese: "zeoi3"
+cantonese: zeoi3
 korean: "철"
-korean_native: ""
+korean_native: "꿰맬"
 japanese:
   - TEI
   - TETSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʈ
-middle_chinese_final: ɣiuᴇt
+middle_chinese_initial: "ʈ"
+middle_chinese_final: "ɣiuᴇt"
 stroke_count: 14
-radical: 糸
+radical: "糸"
 skip_number: 1-6-8
 grade_level: "先進"
 pos: ""
@@ -19,19 +19,19 @@ english:
   - bind
   - stop
 羅馬字: jwed
-韓文: 줟
-joyo_level: 日本人名用漢字
+韓文: "줟"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7522
 mc_id: 2552
-graphemic_classification: 叕
-stand_in: 綴
+graphemic_classification: "叕"
+stand_in: "綴"
 aliases:
   - 輟
   - 轍
   - 缀
-注音: ㄐˇㄝㄊ
+注音: "ㄐˇㄝㄊ"
 tags:
   - character
 ---

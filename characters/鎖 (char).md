@@ -1,33 +1,33 @@
 ---
 mandarin: "suǒ"
-cantonese: "so2"
+cantonese: so2
 korean: "쇄"
-korean_native: ""
+korean_native: "쇠사슬"
 japanese:
   - SA
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
-middle_chinese_final: uɑ
+middle_chinese_final: "uɑ"
 stroke_count: 18
-radical: 金
+radical: "金"
 skip_number: 1-8-10
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - chain
 羅馬字: swa
-韓文: 솨
-joyo_level: 高等
+韓文: "솨"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5002
 mc_id: 5055
-graphemic_classification: 貝
-stand_in: 鎖
+graphemic_classification: "貝"
+stand_in: "鎖"
 aliases:
   - 锁
-注音: ㄙˇㄚ
+注音: "ㄙˇㄚ"
 tags:
   - character
 ---

@@ -1,8 +1,8 @@
 ---
 mandarin: "shān"
-cantonese: "saan1"
+cantonese: saan1
 korean: "산"
-korean_native: ""
+korean_native: "메"
 japanese:
   - SAN
   - SEN
@@ -10,28 +10,28 @@ japanese_nanori: ""
 vietnamese:
   - sơn
   - san
-middle_chinese_initial: ʃ
-middle_chinese_final: ɣɛn
+middle_chinese_initial: "ʃ"
+middle_chinese_final: "ɣɛn"
 stroke_count: 3
-radical: 山
+radical: "山"
 skip_number: 3-2-1
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - mountain
 羅馬字: san
-韓文: 산
-joyo_level: "1"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "산"
+joyo_level: 1
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 20
 mc_id: 117
-graphemic_classification: 象形
-stand_in: 山
+graphemic_classification: "象形"
+stand_in: "山"
 aliases:
   - 𠙸
   - 𡶸
-注音: ㄙㄚㄋ
+注音: "ㄙㄚㄋ"
 tags:
   - character
 ---

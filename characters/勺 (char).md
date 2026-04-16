@@ -1,33 +1,33 @@
 ---
 mandarin: "sháo"
-cantonese: "zoek3"
+cantonese: zoek3
 korean: "작"
-korean_native: ""
+korean_native: "구기"
 japanese:
   - SHAKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: ɨɐk
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "ɨɐk"
 stroke_count: 3
-radical: 勹
+radical: "勹"
 skip_number: 3-2-1
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - spoon
   - laddle
 羅馬字: jwag
-韓文: 좍
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 名
+韓文: "좍"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "名"
 danayo_id: 6157
 mc_id: 2644
-graphemic_classification: 象形
-stand_in: 勺
+graphemic_classification: "象形"
+stand_in: "勺"
 aliases:
-注音: ㄐˇㄚㄎ
+注音: "ㄐˇㄚㄎ"
 tags:
   - character
 ---

@@ -1,16 +1,16 @@
 ---
 mandarin: "zhǒng"
-cantonese: "cung2"
+cantonese: cung2
 korean: "총"
-korean_native: ""
+korean_native: "무덤"
 japanese:
   - CHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʈ
-middle_chinese_final: ɨoŋ
+middle_chinese_initial: "ʈ"
+middle_chinese_final: "ɨoŋ"
 stroke_count: 12
-radical: 土
+radical: "土"
 skip_number: 1-3-9
 grade_level: "先進"
 pos: ""
@@ -20,16 +20,16 @@ english:
   - tumulus
   - burial mound
 羅馬字: cong
-韓文: 총
+韓文: "총"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7325
 mc_id: 3978
-graphemic_classification: 冢
-stand_in: 塚
+graphemic_classification: "冢"
+stand_in: "塚"
 aliases:
-注音: ㄑㄛㄥ
+注音: "ㄑㄛㄥ"
 tags:
   - character
 ---

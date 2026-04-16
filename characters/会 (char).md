@@ -1,8 +1,8 @@
 ---
-mandarin: huì
+mandarin: "huì"
 cantonese: wui6
-korean: 회
-korean_native: ""
+korean: "회"
+korean_native: "모일"
 japanese:
   - KAI
   - E
@@ -11,28 +11,28 @@ vietnamese:
   - hội
   - hụi
 middle_chinese_initial: x
-middle_chinese_final: uɑi
+middle_chinese_final: "uɑi"
 stroke_count: 6
-radical: 人
+radical: "人"
 skip_number: 2-2-4
-grade_level: "1"
+grade_level: 1
 pos:
 english:
   - meet
   - gather
 羅馬字: hwe
-韓文: 훠
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "훠"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 91
 mc_id: 248
-graphemic_classification: 會意
-stand_in: 会
+graphemic_classification: "會意"
+stand_in: "会"
 aliases:
   - 會
   - 屶
-注音: ㄏˇㄝ
+注音: "ㄏˇㄝ"
 tags:
   - character
 ---

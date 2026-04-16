@@ -1,8 +1,8 @@
 ---
 mandarin: "zhū"
-cantonese: "zyu1"
+cantonese: zyu1
 korean: "제"
-korean_native: ""
+korean_native: "모두"
 japanese:
   - SHO
 japanese_nanori: ""
@@ -11,27 +11,27 @@ vietnamese:
   - chơ
   - chưa
   - chã
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: ɨa
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "ɨa"
 stroke_count: 15
-radical: 言
+radical: "言"
 skip_number: 1-7-8
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - various
 羅馬字: ja
-韓文: 자
-joyo_level: "6"
-hsk_level: "4"
-hanmun_edu_level: 中
+韓文: "자"
+joyo_level: 6
+hsk_level: 4
+hanmun_edu_level: "中"
 danayo_id: 4316
 mc_id: 77
-graphemic_classification: 者
-stand_in: 諸
+graphemic_classification: "者"
+stand_in: "諸"
 aliases:
   - 诸
-注音: ㄐㄚ
+注音: "ㄐㄚ"
 tags:
   - character
 ---

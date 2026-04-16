@@ -1,35 +1,35 @@
 ---
 mandarin: "yān"
-cantonese: "jin1"
+cantonese: jin1
 korean: "언"
-korean_native: ""
+korean_native: "어찌"
 japanese:
   - EN
   - I
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: ɨɐn
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "ɨɐn"
 stroke_count: 11
-radical: 火
+radical: "火"
 skip_number: 2-5-6
 grade_level: "先進"
 pos: ""
 english:
   - therefore
 羅馬字: "'en"
-韓文: 언
-joyo_level: 表外字
-hsk_level: 無
-hanmun_edu_level: 高等
+韓文: "언"
+joyo_level: "表外字"
+hsk_level: "無"
+hanmun_edu_level: "高等"
 danayo_id: 7114
 mc_id: 109
-graphemic_classification: 象形
-stand_in: 焉
+graphemic_classification: "象形"
+stand_in: "焉"
 aliases:
   - 鄢
   - 嫣
-注音: ㄝㄋ
+注音: "ㄝㄋ"
 tags:
   - character
 ---

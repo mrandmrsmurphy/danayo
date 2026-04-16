@@ -1,36 +1,36 @@
 ---
-mandarin: róng
+mandarin: "róng"
 cantonese: jung4
-korean: 융
-korean_native: ""
+korean: "융"
+korean_native: "녹을"
 japanese:
   - YUU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: ɨuŋ
+middle_chinese_final: "ɨuŋ"
 stroke_count: 16
-radical: 虫
+radical: "虫"
 skip_number: 1-10-6
-grade_level: "6"
-pos: 事詞
+grade_level: 6
+pos: "事詞"
 english:
   - melt
   - blend
   - harmonize
 羅馬字: "'yung"
-韓文: 융
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 名
+韓文: "융"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "名"
 danayo_id: 6089
 mc_id: 1372
-graphemic_classification: 蟲
-stand_in: 融
+graphemic_classification: "蟲"
+stand_in: "融"
 aliases:
   - 螎
   - 𧖓
-注音: ˙ㄨㄥ
+注音: "˙ㄨㄥ"
 tags:
   - character
 ---

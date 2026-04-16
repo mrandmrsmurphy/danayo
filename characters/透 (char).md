@@ -1,32 +1,32 @@
 ---
 mandarin: "tòu"
-cantonese: "tau3"
+cantonese: tau3
 korean: "투"
-korean_native: ""
+korean_native: "뛸"
 japanese:
   - TOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: tʰ
-middle_chinese_final: əu
+middle_chinese_initial: "tʰ"
+middle_chinese_final: "əu"
 stroke_count: 10
-radical: 辵
+radical: "辵"
 skip_number: 3-3-7
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - transparent
 羅馬字: tou
-韓文: 톳
-joyo_level: 高等
+韓文: "톳"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5242
 mc_id: 8799
-graphemic_classification: 秀
-stand_in: 透
+graphemic_classification: "秀"
+stand_in: "透"
 aliases:
-注音: ㄊㄛˇ
+注音: "ㄊㄛˇ"
 tags:
   - character
 ---

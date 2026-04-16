@@ -1,34 +1,34 @@
 ---
 mandarin: "zǐ"
-cantonese: "zi2"
+cantonese: zi2
 korean: "자"
-korean_native: ""
+korean_native: "윗누이"
 japanese:
   - SHI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡s
+middle_chinese_initial: "t͡s"
 middle_chinese_final: ia
 stroke_count: 8
-radical: 女
+radical: "女"
 skip_number: 1-3-5
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - elder sister
 羅馬字: ja
-韓文: 자
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "자"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 139
 mc_id: 1552
-graphemic_classification: 巾
-stand_in: 姉
+graphemic_classification: "巾"
+stand_in: "姉"
 aliases:
   - 姐
   - 姊
-注音: ㄐㄚ
+注音: "ㄐㄚ"
 tags:
   - character
 ---

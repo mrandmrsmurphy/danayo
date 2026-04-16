@@ -1,8 +1,8 @@
 ---
-mandarin: mǎ
+mandarin: "mǎ"
 cantonese: maa5
-korean: 마
-korean_native: ""
+korean: "마"
+korean_native: "말"
 japanese:
   - BA
   - ME
@@ -11,28 +11,28 @@ japanese_nanori: ""
 vietnamese:
   - mã
 middle_chinese_initial: m
-middle_chinese_final: ɣa
+middle_chinese_final: "ɣa"
 stroke_count: 10
-radical: 馬
+radical: "馬"
 skip_number: 3-6-4
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - horse
 羅馬字: ma
-韓文: 마
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "마"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 182
 mc_id: 145
-graphemic_classification: 象形
-stand_in: 馬
+graphemic_classification: "象形"
+stand_in: "馬"
 aliases:
   - 马
   - 瑪
   - 碼
-注音: ㄇㄚ
+注音: "ㄇㄚ"
 tags:
   - character
 ---

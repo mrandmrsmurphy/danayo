@@ -1,33 +1,33 @@
 ---
 mandarin: "suān"
-cantonese: "syun1"
+cantonese: syun1
 korean: "산"
-korean_native: ""
+korean_native: "실"
 japanese:
   - SAN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: s
-middle_chinese_final: uɑn
+middle_chinese_final: "uɑn"
 stroke_count: 14
-radical: 酉
+radical: "酉"
 skip_number: 1-7-7
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - acidic
   - sour
 羅馬字: swan
-韓文: 솬
-joyo_level: "5"
+韓文: "솬"
+joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 4285
 mc_id: 1717
-graphemic_classification: 夋
-stand_in: 酸
+graphemic_classification: "夋"
+stand_in: "酸"
 aliases:
-注音: ㄙˇㄚㄋ
+注音: "ㄙˇㄚㄋ"
 tags:
   - character
 ---

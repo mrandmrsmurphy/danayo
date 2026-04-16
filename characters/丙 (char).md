@@ -1,34 +1,34 @@
 ---
 mandarin: "bǐng"
-cantonese: "bing2"
+cantonese: bing2
 korean: "병"
-korean_native: ""
+korean_native: "남녘"
 japanese:
   - HEI
   - HYOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
-middle_chinese_final: ɣiæŋ
+middle_chinese_final: "ɣiæŋ"
 stroke_count: 5
-radical: 一
+radical: "一"
 skip_number: 4-5-1
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - third class
   - tertiary
 羅馬字: byeng
-韓文: 병
-joyo_level: 高等
-hsk_level: "3"
-hanmun_edu_level: 中
+韓文: "병"
+joyo_level: "高等"
+hsk_level: 3
+hanmun_edu_level: "中"
 danayo_id: 3004
 mc_id: 843
-graphemic_classification: 象形
-stand_in: 丙
+graphemic_classification: "象形"
+stand_in: "丙"
 aliases:
-注音: ㄅ˙ㄝㄥ
+注音: "ㄅ˙ㄝㄥ"
 tags:
   - character
 ---

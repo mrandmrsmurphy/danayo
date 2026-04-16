@@ -1,8 +1,8 @@
 ---
-mandarin: jiāo
+mandarin: "jiāo"
 cantonese: gaau1
-korean: 교
-korean_native: ""
+korean: "교"
+korean_native: "사귈"
 japanese:
   - KOU
   - KYOU
@@ -10,28 +10,28 @@ japanese_nanori: ""
 vietnamese:
   - giao
 middle_chinese_initial: k
-middle_chinese_final: ɣau
+middle_chinese_final: "ɣau"
 stroke_count: 6
-radical: 亠
+radical: "亠"
 skip_number: 2-2-4
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - mix
   - exchange
 羅馬字: gyou
-韓文: 굣
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "굣"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 108
 mc_id: 498
-graphemic_classification: 象形
-stand_in: 交
+graphemic_classification: "象形"
+stand_in: "交"
 aliases:
   - 胶
   - 淆
-注音: ㄍ˙ㄛˇ
+注音: "ㄍ˙ㄛˇ"
 tags:
   - character
 ---

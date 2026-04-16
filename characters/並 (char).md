@@ -1,37 +1,37 @@
 ---
 mandarin: "bìng"
-cantonese: "bing6"
+cantonese: bing6
 korean: "병"
-korean_native: ""
+korean_native: "나란히"
 japanese:
   - HEI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: eŋ
+middle_chinese_final: "eŋ"
 stroke_count: 8
-radical: 一
+radical: "一"
 skip_number: 2-3-5
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - side by side
 羅馬字: beng
-韓文: 벙
-joyo_level: "6"
-hsk_level: "2"
-hanmun_edu_level: 高等
+韓文: "벙"
+joyo_level: 6
+hsk_level: 2
+hanmun_edu_level: "高等"
 danayo_id: 4319
 mc_id: 610
-graphemic_classification: 會意
-stand_in: 並
+graphemic_classification: "會意"
+stand_in: "並"
 aliases:
   - 并
   - 併
   - 竝
   - 幷
   - 倂
-注音: ㄅㄝㄥ
+注音: "ㄅㄝㄥ"
 tags:
   - character
 ---

@@ -1,34 +1,34 @@
 ---
 mandarin: "tán"
-cantonese: "taan4"
+cantonese: taan4
 korean: "단"
-korean_native: ""
+korean_native: "단"
 japanese:
   - DAN
   - TAN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: ɑn
+middle_chinese_final: "ɑn"
 stroke_count: 16
-radical: 土
+radical: "土"
 skip_number: 1-3-13
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - altar
 羅馬字: dan
-韓文: 단
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 高等
+韓文: "단"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "高等"
 danayo_id: 6365
 mc_id: 1741
-graphemic_classification: 亶
-stand_in: 壇
+graphemic_classification: "亶"
+stand_in: "壇"
 aliases:
   - 坛
-注音: ㄉㄚㄋ
+注音: "ㄉㄚㄋ"
 tags:
   - character
 ---

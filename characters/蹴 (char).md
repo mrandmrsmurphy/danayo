@@ -1,33 +1,33 @@
 ---
 mandarin: "cù"
-cantonese: "cuk1"
+cantonese: cuk1
 korean: "축"
-korean_native: ""
+korean_native: "찰"
 japanese:
   - SHUU
   - SHUKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: ɨuk
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "ɨuk"
 stroke_count: 19
-radical: 足
+radical: "足"
 skip_number: 1-7-12
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - kick
 羅馬字: cug
-韓文: 축
-joyo_level: 高等
+韓文: "축"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6013
 mc_id: 3403
-graphemic_classification: 就
-stand_in: 蹴
+graphemic_classification: "就"
+stand_in: "蹴"
 aliases:
-注音: ㄑㄨㄎ
+注音: "ㄑㄨㄎ"
 tags:
   - character
 ---

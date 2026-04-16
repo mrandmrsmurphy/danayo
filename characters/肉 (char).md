@@ -1,33 +1,33 @@
 ---
 mandarin: "ròu"
-cantonese: "juk6"
+cantonese: juk6
 korean: "육"
-korean_native: ""
+korean_native: "고기"
 japanese:
   - NIKU
   - JUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ȵ
-middle_chinese_final: ɨuk
+middle_chinese_initial: "ȵ"
+middle_chinese_final: "ɨuk"
 stroke_count: 6
-radical: 肉
+radical: "肉"
 skip_number: 3-4-2
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - meat
 羅馬字: nug
-韓文: 눅
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "눅"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 83
 mc_id: 589
-graphemic_classification: 象形
-stand_in: 肉
+graphemic_classification: "象形"
+stand_in: "肉"
 aliases:
-注音: ㄋㄨㄎ
+注音: "ㄋㄨㄎ"
 tags:
   - character
 ---

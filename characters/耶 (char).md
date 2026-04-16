@@ -1,8 +1,8 @@
 ---
-mandarin: yé
+mandarin: "yé"
 cantonese: je4
-korean: 야
-korean_native: ""
+korean: "야"
+korean_native: "어조사"
 japanese:
   - YA
   - JA
@@ -11,23 +11,23 @@ vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: ia
 stroke_count: 9
-radical: 耳
+radical: "耳"
 skip_number: 1-6-3
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - yes?  mm?
 羅馬字: "'ye"
-韓文: 여
-joyo_level: 日本人名用漢字
-hsk_level: 無
-hanmun_edu_level: 高等
+韓文: "여"
+joyo_level: "日本人名用漢字"
+hsk_level: "無"
+hanmun_edu_level: "高等"
 danayo_id: 7068
 mc_id: 1817
-graphemic_classification: 牙
-stand_in: 耶
+graphemic_classification: "牙"
+stand_in: "耶"
 aliases:
-注音: ˙ㄝ
+注音: "˙ㄝ"
 tags:
   - character
 ---

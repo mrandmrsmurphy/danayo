@@ -1,33 +1,33 @@
 ---
 mandarin: "rán"
-cantonese: "jin4"
+cantonese: jin4
 korean: "연"
-korean_native: ""
+korean_native: "불탈"
 japanese:
   - ZEN
   - NEN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ȵ
-middle_chinese_final: iᴇn
+middle_chinese_initial: "ȵ"
+middle_chinese_final: "iᴇn"
 stroke_count: 12
-radical: 火
+radical: "火"
 skip_number: 2-8-4
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - so
 羅馬字: nyen
-韓文: 년
-joyo_level: "4"
+韓文: "년"
+joyo_level: 4
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2162
 mc_id: 81
-graphemic_classification: 肰
-stand_in: 然
+graphemic_classification: "肰"
+stand_in: "然"
 aliases:
-注音: ㄋ˙ㄝㄋ
+注音: "ㄋ˙ㄝㄋ"
 tags:
   - character
 ---

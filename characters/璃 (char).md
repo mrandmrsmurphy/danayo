@@ -1,32 +1,32 @@
 ---
-mandarin: lí
+mandarin: "lí"
 cantonese: lei4
-korean: 리
-korean_native: ""
+korean: "리"
+korean_native: "유리"
 japanese:
   - RI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: l
-middle_chinese_final: iᴇ
+middle_chinese_final: "iᴇ"
 stroke_count: 15
-radical: 玉
+radical: "玉"
 skip_number: 1-4-11
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - glass
-羅馬字: lǝ
-韓文: 르
-joyo_level: 高等
+羅馬字: "lǝ"
+韓文: "르"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 無
+hanmun_edu_level: "無"
 danayo_id: 6262
 mc_id: 5900
-graphemic_classification: 离
-stand_in: 璃
+graphemic_classification: "离"
+stand_in: "璃"
 aliases:
-注音: ㄌㄜ
+注音: "ㄌㄜ"
 tags:
   - character
 ---

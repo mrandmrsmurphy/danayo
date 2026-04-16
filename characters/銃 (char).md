@@ -1,34 +1,34 @@
 ---
 mandarin: "chòng"
-cantonese: "cung3"
+cantonese: cung3
 korean: "총"
-korean_native: ""
+korean_native: "총"
 japanese:
   - JUU
   - SHUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕʰ
-middle_chinese_final: ɨuŋ
+middle_chinese_initial: "t͡ɕʰ"
+middle_chinese_final: "ɨuŋ"
 stroke_count: 14
-radical: 金
+radical: "金"
 skip_number: 1-8-6
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - gun
 羅馬字: cung
-韓文: 충
-joyo_level: 高等
+韓文: "충"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6163
 mc_id: 0
-graphemic_classification: 充
-stand_in: 銃
+graphemic_classification: "充"
+stand_in: "銃"
 aliases:
   - 铳
-注音: ㄑㄨㄥ
+注音: "ㄑㄨㄥ"
 tags:
   - character
 ---

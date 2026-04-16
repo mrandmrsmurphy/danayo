@@ -1,32 +1,32 @@
 ---
 mandarin: "sú"
-cantonese: "zuk6"
+cantonese: zuk6
 korean: "속"
-korean_native: ""
+korean_native: "풍속"
 japanese:
   - ZOKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: z
-middle_chinese_final: ɨok
+middle_chinese_final: "ɨok"
 stroke_count: 9
-radical: 人
+radical: "人"
 skip_number: 1-2-7
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - vulgar
 羅馬字: sog
-韓文: 속
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "속"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 3018
 mc_id: 560
-graphemic_classification: 谷
-stand_in: 俗
+graphemic_classification: "谷"
+stand_in: "俗"
 aliases:
-注音: ㄙㄛㄎ
+注音: "ㄙㄛㄎ"
 tags:
   - character
 ---

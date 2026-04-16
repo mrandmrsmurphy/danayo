@@ -1,8 +1,8 @@
 ---
 mandarin: "ní"
-cantonese: "nai4"
+cantonese: nai4
 korean: "니"
-korean_native: ""
+korean_native: "진흙"
 japanese:
   - DEI
 japanese_nanori: ""
@@ -10,23 +10,23 @@ vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: ei
 stroke_count: 8
-radical: 水
+radical: "水"
 skip_number: 1-3-5
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - mud
 羅馬字: nei
-韓文: 네
-joyo_level: 高等
+韓文: "네"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5298
 mc_id: 1978
-graphemic_classification: 尼
-stand_in: 泥
+graphemic_classification: "尼"
+stand_in: "泥"
 aliases:
-注音: ㄋㄝ˙
+注音: "ㄋㄝ˙"
 tags:
   - character
 ---

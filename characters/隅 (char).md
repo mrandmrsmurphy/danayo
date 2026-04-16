@@ -1,35 +1,35 @@
 ---
-mandarin: yú
+mandarin: "yú"
 cantonese: jyu4
-korean: 우
-korean_native: ""
+korean: "우"
+korean_native: "모퉁이"
 japanese:
   - GUU
   - GU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ŋ
-middle_chinese_final: ɨo
+middle_chinese_initial: "ŋ"
+middle_chinese_final: "ɨo"
 stroke_count: 12
-radical: 阜
+radical: "阜"
 skip_number: 1-3-9
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - nook
   - corner
   - side
 羅馬字: "'uu"
-韓文: 웃
-joyo_level: 高等
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "웃"
+joyo_level: "高等"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 7152
 mc_id: 1814
-graphemic_classification: 禺
-stand_in: 隅
+graphemic_classification: "禺"
+stand_in: "隅"
 aliases:
-注音: ㄨˇ
+注音: "ㄨˇ"
 tags:
   - character
 ---

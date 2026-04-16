@@ -1,17 +1,17 @@
 ---
 mandarin: "cān"
-cantonese: "caan1"
+cantonese: caan1
 korean: "찬"
-korean_native: ""
+korean_native: "밥"
 japanese:
   - SAN
   - SON
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: ɑn
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "ɑn"
 stroke_count: 16
-radical: 食
+radical: "食"
 skip_number: 2-7-9
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - eat
   - dine
 羅馬字: can
-韓文: 찬
-joyo_level: 日本人名用漢字
+韓文: "찬"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7236
 mc_id: 2476
-graphemic_classification: 會意
-stand_in: 餐
+graphemic_classification: "會意"
+stand_in: "餐"
 aliases:
   - 喰
-注音: ㄑㄚㄋ
+注音: "ㄑㄚㄋ"
 tags:
   - character
 ---

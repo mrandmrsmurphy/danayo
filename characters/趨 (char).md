@@ -1,35 +1,35 @@
 ---
 mandarin: "qū"
-cantonese: "ceoi1"
+cantonese: ceoi1
 korean: "추"
-korean_native: ""
+korean_native: "달아날"
 japanese:
   - SUU
   - SHU
   - SOKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: ɨo
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "ɨo"
 stroke_count: 17
-radical: 走
+radical: "走"
 skip_number: 3-10-7
 grade_level: "先進"
 pos: ""
 english:
   - take many small steps towards
 羅馬字: cu
-韓文: 추
-joyo_level: 表外字
+韓文: "추"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7382
 mc_id: 1085
-graphemic_classification: 芻
-stand_in: 趨
+graphemic_classification: "芻"
+stand_in: "趨"
 aliases:
   - 趋
-注音: ㄑㄨ
+注音: "ㄑㄨ"
 tags:
   - character
 ---

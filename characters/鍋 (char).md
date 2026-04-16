@@ -1,33 +1,33 @@
 ---
 mandarin: "guō"
-cantonese: "wo1"
+cantonese: wo1
 korean: "과"
-korean_native: ""
+korean_native: "노구솥"
 japanese:
   - KA
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: uɑ
+middle_chinese_final: "uɑ"
 stroke_count: 17
-radical: 金
+radical: "金"
 skip_number: 1-8-9
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - pot
 羅馬字: gwa
-韓文: 과
+韓文: "과"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6283
 mc_id: 10623
-graphemic_classification: 咼
-stand_in: 鍋
+graphemic_classification: "咼"
+stand_in: "鍋"
 aliases:
   - 锅
-注音: ㄍˇㄚ
+注音: "ㄍˇㄚ"
 tags:
   - character
 ---

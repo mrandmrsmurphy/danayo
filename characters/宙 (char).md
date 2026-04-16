@@ -1,32 +1,32 @@
 ---
 mandarin: "zhòu"
-cantonese: "zau6"
+cantonese: zau6
 korean: "주"
-korean_native: ""
+korean_native: "집"
 japanese:
   - CHUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɨu
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɨu"
 stroke_count: 8
-radical: 宀
+radical: "宀"
 skip_number: 2-3-5
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - eternity
 羅馬字: juu
-韓文: 줏
-joyo_level: "6"
-hsk_level: "3"
-hanmun_edu_level: 中
+韓文: "줏"
+joyo_level: 6
+hsk_level: 3
+hanmun_edu_level: "中"
 danayo_id: 3084
 mc_id: 3286
-graphemic_classification: 由
-stand_in: 宙
+graphemic_classification: "由"
+stand_in: "宙"
 aliases:
-注音: ㄐㄨˇ
+注音: "ㄐㄨˇ"
 tags:
   - character
 ---

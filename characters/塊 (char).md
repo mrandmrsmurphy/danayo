@@ -1,18 +1,18 @@
 ---
 mandarin: "kuài"
-cantonese: "faai3"
+cantonese: faai3
 korean: "괴"
-korean_native: ""
+korean_native: "흙덩이"
 japanese:
   - KAI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: uʌi
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "uʌi"
 stroke_count: 13
-radical: 土
+radical: "土"
 skip_number: 1-3-10
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - lump
@@ -20,17 +20,17 @@ english:
   - chunk
   - clump
 羅馬字: koi
-韓文: 쾨
-joyo_level: 高等
-hsk_level: "1"
-hanmun_edu_level: 高等
+韓文: "쾨"
+joyo_level: "高等"
+hsk_level: 1
+hanmun_edu_level: "高等"
 danayo_id: 4064
 mc_id: 3137
-graphemic_classification: 鬼
-stand_in: 塊
+graphemic_classification: "鬼"
+stand_in: "塊"
 aliases:
   - 块
-注音: ㄎㄛ˙
+注音: "ㄎㄛ˙"
 tags:
   - character
 ---

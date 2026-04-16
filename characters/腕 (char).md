@@ -1,33 +1,33 @@
 ---
 mandarin: "wàn"
-cantonese: "wun2"
+cantonese: wun2
 korean: "완"
-korean_native: ""
+korean_native: "팔뚝"
 japanese:
   - WAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: uɑn
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "uɑn"
 stroke_count: 12
-radical: 肉
+radical: "肉"
 skip_number: 1-4-8
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - arm
   - wrist
 羅馬字: "'wan"
-韓文: 완
-joyo_level: 高等
+韓文: "완"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6024
 mc_id: 3621
-graphemic_classification: 宛
-stand_in: 腕
+graphemic_classification: "宛"
+stand_in: "腕"
 aliases:
-注音: ˇㄚㄋ
+注音: "ˇㄚㄋ"
 tags:
   - character
 ---

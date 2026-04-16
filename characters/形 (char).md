@@ -1,35 +1,35 @@
 ---
 mandarin: "xíng"
-cantonese: "jing4"
+cantonese: jing4
 korean: "형"
-korean_native: ""
+korean_native: "모양"
 japanese:
   - KEI
   - GYOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: eŋ
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "eŋ"
 stroke_count: 7
-radical: 彡
+radical: "彡"
 skip_number: 1-4-3
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - shape
   - form
   - type
 羅馬字: heng
-韓文: 헝
-joyo_level: "2"
+韓文: "헝"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2093
 mc_id: 359
-graphemic_classification: 开
-stand_in: 形
+graphemic_classification: "开"
+stand_in: "形"
 aliases:
-注音: ㄏㄝㄥ
+注音: "ㄏㄝㄥ"
 tags:
   - character
 ---

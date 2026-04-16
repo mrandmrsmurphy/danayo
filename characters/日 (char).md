@@ -1,34 +1,34 @@
 ---
 mandarin: "rì"
-cantonese: "jat6"
+cantonese: jat6
 korean: "일"
-korean_native: ""
+korean_native: "날"
 japanese:
   - NICHI
   - JITSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ȵ
-middle_chinese_final: iɪt
+middle_chinese_initial: "ȵ"
+middle_chinese_final: "iɪt"
 stroke_count: 4
-radical: 日
+radical: "日"
 skip_number: 3-3-1
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - day
   - sun
 羅馬字: nid
-韓文: 닏
-joyo_level: "1"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "닏"
+joyo_level: 1
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 48
 mc_id: 67
-graphemic_classification: 象形
-stand_in: 日
+graphemic_classification: "象形"
+stand_in: "日"
 aliases:
-注音: ㄋㄧㄊ
+注音: "ㄋㄧㄊ"
 tags:
   - character
 ---

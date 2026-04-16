@@ -1,35 +1,35 @@
 ---
 mandarin: "chéng"
-cantonese: "sing4"
+cantonese: sing4
 korean: "성"
-korean_native: ""
+korean_native: "이룰"
 japanese:
   - SEI
   - JOU
 japanese_nanori: ""
 vietnamese:
   - thành, thình
-middle_chinese_initial: ʑ
-middle_chinese_final: iᴇŋ
+middle_chinese_initial: "ʑ"
+middle_chinese_final: "iᴇŋ"
 stroke_count: 6
-radical: 戈
+radical: "戈"
 skip_number: 4-6-4
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - become
 羅馬字: sing
-韓文: 싱
-joyo_level: "4"
+韓文: "싱"
+joyo_level: 4
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2104
 mc_id: 93
-graphemic_classification: 丁
-stand_in: 成
+graphemic_classification: "丁"
+stand_in: "成"
 aliases:
   - 鯎
-注音: ㄙㄧㄥ
+注音: "ㄙㄧㄥ"
 tags:
   - character
 ---

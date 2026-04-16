@@ -1,33 +1,33 @@
 ---
 mandarin: "zhōng"
-cantonese: "zung1"
+cantonese: zung1
 korean: "종"
-korean_native: ""
+korean_native: "쇠북"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕ
-middle_chinese_final: ɨoŋ
+middle_chinese_initial: "t͡ɕ"
+middle_chinese_final: "ɨoŋ"
 stroke_count: 20
-radical: 金
+radical: "金"
 skip_number: 1-8-12
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - bell
 羅馬字: jong
-韓文: 종
+韓文: "종"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3257
 mc_id: 1289
-graphemic_classification: 童
-stand_in: 鐘
+graphemic_classification: "童"
+stand_in: "鐘"
 aliases:
   - 钟
-注音: ㄐㄛㄥ
+注音: "ㄐㄛㄥ"
 tags:
   - character
 ---

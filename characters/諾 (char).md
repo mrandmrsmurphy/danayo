@@ -1,33 +1,33 @@
 ---
 mandarin: "nuò"
-cantonese: "nok6"
+cantonese: nok6
 korean: "낙"
-korean_native: ""
+korean_native: "허락할"
 japanese:
   - DAKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: n
-middle_chinese_final: ɑk
+middle_chinese_final: "ɑk"
 stroke_count: 16
-radical: 言
+radical: "言"
 skip_number: 1-7-9
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - consent
 羅馬字: nag
-韓文: 낙
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 高等
+韓文: "낙"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "高等"
 danayo_id: 5356
 mc_id: 1254
-graphemic_classification: 若
-stand_in: 諾
+graphemic_classification: "若"
+stand_in: "諾"
 aliases:
   - 诺
-注音: ㄋㄚㄎ
+注音: "ㄋㄚㄎ"
 tags:
   - character
 ---

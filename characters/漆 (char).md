@@ -1,34 +1,34 @@
 ---
 mandarin: "qī"
-cantonese: "cat1"
+cantonese: cat1
 korean: "칠"
-korean_native: ""
+korean_native: "옻"
 japanese:
   - SHITSU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: iɪt
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "iɪt"
 stroke_count: 14
-radical: 水
+radical: "水"
 skip_number: 1-3-11
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - varnish
   - laquer
 羅馬字: cid
-韓文: 칟
-joyo_level: 高等
+韓文: "칟"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5052
 mc_id: 1720
-graphemic_classification: 會意
-stand_in: 漆
+graphemic_classification: "會意"
+stand_in: "漆"
 aliases:
   - 桼
-注音: ㄑㄧㄊ
+注音: "ㄑㄧㄊ"
 tags:
   - character
 ---

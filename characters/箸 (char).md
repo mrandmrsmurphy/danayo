@@ -1,33 +1,33 @@
 ---
 mandarin: "zhù"
-cantonese: "zyu6"
+cantonese: zyu6
 korean: "저"
-korean_native: ""
+korean_native: "젓가락"
 japanese:
   - CHO
   - CHAKU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʈ
-middle_chinese_final: ɨʌ
+middle_chinese_initial: "ʈ"
+middle_chinese_final: "ɨʌ"
 stroke_count: 15
-radical: 竹
+radical: "竹"
 skip_number: 2-6-9
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - chopsticks
 羅馬字: dwa
-韓文: 돠
-joyo_level: 表外字
+韓文: "돠"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6022
 mc_id: 2871
-graphemic_classification: 者
-stand_in: 箸
+graphemic_classification: "者"
+stand_in: "箸"
 aliases:
-注音: ㄉˇㄚ
+注音: "ㄉˇㄚ"
 tags:
   - character
 ---

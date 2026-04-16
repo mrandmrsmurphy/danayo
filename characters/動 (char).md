@@ -1,30 +1,30 @@
 ---
 mandarin: "dòng"
-cantonese: "dung6"
+cantonese: dung6
 korean: "동"
-korean_native: ""
+korean_native: "움직일"
 japanese:
   - DOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: uŋ
+middle_chinese_final: "uŋ"
 stroke_count: 11
-radical: 力
+radical: "力"
 skip_number: 1-9-2
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - move
 羅馬字: dong
-韓文: 동
-joyo_level: "4"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "동"
+joyo_level: 4
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 199
 mc_id: 338
-graphemic_classification: 重
-stand_in: 動
+graphemic_classification: "重"
+stand_in: "動"
 aliases:
   - 动
   - 𨔝
@@ -34,7 +34,7 @@ aliases:
   - 慟
   - 恸
   - 𢣛
-注音: ㄉㄛㄥ
+注音: "ㄉㄛㄥ"
 tags:
   - character
 ---

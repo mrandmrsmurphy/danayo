@@ -1,34 +1,34 @@
 ---
 mandarin: "bàng"
-cantonese: "bong6"
+cantonese: bong6
 korean: "방"
-korean_native: ""
+korean_native: "곁"
 japanese:
   - BOU
   - HOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: ɑŋ
+middle_chinese_final: "ɑŋ"
 stroke_count: 12
-radical: 人
+radical: "人"
 skip_number: 1-2-10
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - beside
   - close
 羅馬字: pang
-韓文: 팡
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 高等
+韓文: "팡"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "高等"
 danayo_id: 5198
 mc_id: 2042
-graphemic_classification: 旁
-stand_in: 傍
+graphemic_classification: "旁"
+stand_in: "傍"
 aliases:
-注音: ㄆㄚㄥ
+注音: "ㄆㄚㄥ"
 tags:
   - character
 ---

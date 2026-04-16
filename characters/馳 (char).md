@@ -1,17 +1,17 @@
 ---
 mandarin: "chí"
-cantonese: "ci4"
+cantonese: ci4
 korean: "치"
-korean_native: ""
+korean_native: "달릴"
 japanese:
   - CHI
   - JI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɣiᴇ
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɣiᴇ"
 stroke_count: 13
-radical: 馬
+radical: "馬"
 skip_number: 1-10-3
 grade_level: "先進"
 pos: ""
@@ -19,17 +19,17 @@ english:
   - run fast
   - drive quickly
 羅馬字: jui
-韓文: 쥐
-joyo_level: 日本人名用漢字
-hsk_level: "4"
-hanmun_edu_level: 名
+韓文: "쥐"
+joyo_level: "日本人名用漢字"
+hsk_level: 4
+hanmun_edu_level: "名"
 danayo_id: 7179
 mc_id: 946
-graphemic_classification: 也
-stand_in: 馳
+graphemic_classification: "也"
+stand_in: "馳"
 aliases:
   - 驰
-注音: ㄐㄨ˙
+注音: "ㄐㄨ˙"
 tags:
   - character
 ---

@@ -1,8 +1,8 @@
 ---
 mandarin: "jí"
-cantonese: "gik6"
+cantonese: gik6
 korean: "극"
-korean_native: ""
+korean_native: "극진할"
 japanese:
   - GOKU
   - KYOKU
@@ -10,28 +10,28 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: g
-middle_chinese_final: ɨk
+middle_chinese_final: "ɨk"
 stroke_count: 12
-radical: 木
+radical: "木"
 skip_number: 1-4-8
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - extreme
   - of the highest degree
   - utmost
 羅馬字: gig
-韓文: 긱
-joyo_level: "4"
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "긱"
+joyo_level: 4
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 2139
 mc_id: 500
-graphemic_classification: 亟
-stand_in: 極
+graphemic_classification: "亟"
+stand_in: "極"
 aliases:
   - 极
-注音: ㄍㄧㄎ
+注音: "ㄍㄧㄎ"
 tags:
   - character
 ---

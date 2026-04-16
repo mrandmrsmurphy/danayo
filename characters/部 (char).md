@@ -1,8 +1,8 @@
 ---
 mandarin: "bù"
-cantonese: "bou6"
+cantonese: bou6
 korean: "부"
-korean_native: ""
+korean_native: "거느릴"
 japanese:
   - BU
   - HO
@@ -10,25 +10,25 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: b
-middle_chinese_final: əu
+middle_chinese_final: "əu"
 stroke_count: 11
-radical: 邑
+radical: "邑"
 skip_number: 1-8-3
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - part
 羅馬字: bou
-韓文: 봇
-joyo_level: "3"
+韓文: "봇"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2256
 mc_id: 704
-graphemic_classification: 咅
-stand_in: 部
+graphemic_classification: "咅"
+stand_in: "部"
 aliases:
-注音: ㄅㄛˇ
+注音: "ㄅㄛˇ"
 tags:
   - character
 ---

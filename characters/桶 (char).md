@@ -1,17 +1,17 @@
 ---
 mandarin: "tǒng"
-cantonese: "tung2"
+cantonese: tung2
 korean: "통"
-korean_native: ""
+korean_native: "통"
 japanese:
   - TOU
   - YOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: tʰ
-middle_chinese_final: uŋ
+middle_chinese_initial: "tʰ"
+middle_chinese_final: "uŋ"
 stroke_count: 11
-radical: 木
+radical: "木"
 skip_number: 1-4-7
 grade_level: "先進"
 pos: ""
@@ -22,16 +22,16 @@ english:
   - cask
   - keg
 羅馬字: tong
-韓文: 통
-joyo_level: 日本人名用漢字
+韓文: "통"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7135
 mc_id: 5815
-graphemic_classification: 甬
-stand_in: 桶
+graphemic_classification: "甬"
+stand_in: "桶"
 aliases:
-注音: ㄊㄛㄥ
+注音: "ㄊㄛㄥ"
 tags:
   - character
 ---

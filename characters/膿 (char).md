@@ -1,34 +1,34 @@
 ---
 mandarin: "nóng"
-cantonese: "nung4"
+cantonese: nung4
 korean: "농"
-korean_native: ""
+korean_native: "고름"
 japanese:
   - DOU
   - NOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: n
-middle_chinese_final: uoŋ
+middle_chinese_final: "uoŋ"
 stroke_count: 17
-radical: 肉
+radical: "肉"
 skip_number: 1-4-13
 grade_level: "先進"
 pos: ""
 english:
   - pus
 羅馬字: nong
-韓文: 농
-joyo_level: 表外字
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "농"
+joyo_level: "表外字"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 7485
 mc_id: 2735
-graphemic_classification: 農
-stand_in: 膿
+graphemic_classification: "農"
+stand_in: "膿"
 aliases:
   - 脓
-注音: ㄋㄛㄥ
+注音: "ㄋㄛㄥ"
 tags:
   - character
 ---

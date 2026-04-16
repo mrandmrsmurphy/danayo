@@ -1,32 +1,32 @@
 ---
 mandarin: "guāng"
-cantonese: "gwong1"
+cantonese: gwong1
 korean: "광"
-korean_native: ""
+korean_native: "빛"
 japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: wɑŋ
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "wɑŋ"
 stroke_count: 6
-radical: 儿
+radical: "儿"
 skip_number: 2-4-2
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - light
 羅馬字: kwang
-韓文: 쾅
-joyo_level: "2"
+韓文: "쾅"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2021
 mc_id: 264
-graphemic_classification: 指事
-stand_in: 光
+graphemic_classification: "指事"
+stand_in: "光"
 aliases:
-注音: ㄎˇㄚㄥ
+注音: "ㄎˇㄚㄥ"
 tags:
   - character
 ---

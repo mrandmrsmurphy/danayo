@@ -1,34 +1,34 @@
 ---
 mandarin: "jiàn"
-cantonese: "gin6"
+cantonese: gin6
 korean: "건"
-korean_native: ""
+korean_native: "열쇠"
 japanese:
   - KEN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: g
-middle_chinese_final: ɣiᴇn
+middle_chinese_final: "ɣiᴇn"
 stroke_count: 17
-radical: 金
+radical: "金"
 skip_number: 1-8-9
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - key
 羅馬字: gyen
-韓文: 견
-joyo_level: 高等
+韓文: "견"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 6282
 mc_id: 4371
-graphemic_classification: 建
-stand_in: 鍵
+graphemic_classification: "建"
+stand_in: "鍵"
 aliases:
   - 騫
   - 键
-注音: ㄍ˙ㄝㄋ
+注音: "ㄍ˙ㄝㄋ"
 tags:
   - character
 ---

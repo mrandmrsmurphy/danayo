@@ -1,32 +1,32 @@
 ---
 mandarin: "qiè"
-cantonese: "cip3"
+cantonese: cip3
 korean: "첩"
-korean_native: ""
+korean_native: "첩"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡sʰ
-middle_chinese_final: iᴇp
+middle_chinese_initial: "t͡sʰ"
+middle_chinese_final: "iᴇp"
 stroke_count: 8
-radical: 女
+radical: "女"
 skip_number: 2-5-3
 grade_level: "先進"
 pos: ""
 english:
   - concubine
 羅馬字: cob
-韓文: 촙
-joyo_level: 表外字
+韓文: "촙"
+joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 7045
 mc_id: 913
-graphemic_classification: 會意
-stand_in: 妾
+graphemic_classification: "會意"
+stand_in: "妾"
 aliases:
-注音: ㄑㄛㄆ
+注音: "ㄑㄛㄆ"
 tags:
   - character
 ---

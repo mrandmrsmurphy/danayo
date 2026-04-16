@@ -1,37 +1,37 @@
 ---
-mandarin: èr
+mandarin: "èr"
 cantonese: ji6
-korean: 이
-korean_native: ""
+korean: "이"
+korean_native: "두"
 japanese:
   - NI
   - JI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ȵ
-middle_chinese_final: iɪ
+middle_chinese_initial: "ȵ"
+middle_chinese_final: "iɪ"
 stroke_count: 12
-radical: 貝
+radical: "貝"
 skip_number: 3-3-9
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - disloyal
   - betray
 羅馬字: nii
-韓文: 늬
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 名
+韓文: "늬"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "名"
 danayo_id: 6418
 mc_id: 1301
-graphemic_classification: 弍
-stand_in: 貳
+graphemic_classification: "弍"
+stand_in: "貳"
 aliases:
   - 贰
   - 貮
   - 弐
-注音: ㄋㄧ˙
+注音: "ㄋㄧ˙"
 tags:
   - character
 ---

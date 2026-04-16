@@ -1,34 +1,34 @@
 ---
 mandarin: "mǐn"
-cantonese: "ming5"
+cantonese: ming5
 korean: "명"
-korean_native: ""
+korean_native: "그릇"
 japanese:
   - BAI
   - MYOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: m
-middle_chinese_final: ɣiæŋ
+middle_chinese_final: "ɣiæŋ"
 stroke_count: 5
-radical: 皿
+radical: "皿"
 skip_number: 4-5-1
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - dish
   - container
 羅馬字: myeng
-韓文: 명
-joyo_level: "3"
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "명"
+joyo_level: 3
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 5360
 mc_id: 3320
-graphemic_classification: 象形
-stand_in: 皿
+graphemic_classification: "象形"
+stand_in: "皿"
 aliases:
-注音: ㄇ˙ㄝㄥ
+注音: "ㄇ˙ㄝㄥ"
 tags:
   - character
 ---

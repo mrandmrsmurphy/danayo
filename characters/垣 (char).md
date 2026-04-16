@@ -1,33 +1,33 @@
 ---
 mandarin: "yuán"
-cantonese: "wun4"
+cantonese: wun4
 korean: "원"
-korean_native: ""
+korean_native: "담"
 japanese:
   - EN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ø
-middle_chinese_final: ʉɐn
+middle_chinese_initial: "ø"
+middle_chinese_final: "ʉɐn"
 stroke_count: 9
-radical: 土
+radical: "土"
 skip_number: 1-3-6
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - low wall
   - enclosure
 羅馬字: "'on"
-韓文: 온
-joyo_level: 高等
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "온"
+joyo_level: "高等"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 6034
 mc_id: 1577
-graphemic_classification: 亘
-stand_in: 垣
+graphemic_classification: "亘"
+stand_in: "垣"
 aliases:
-注音: ㄛㄋ
+注音: "ㄛㄋ"
 tags:
   - character
 ---

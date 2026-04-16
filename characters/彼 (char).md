@@ -1,33 +1,33 @@
 ---
-mandarin: bǐ
+mandarin: "bǐ"
 cantonese: bei2
-korean: 피
-korean_native: ""
+korean: "피"
+korean_native: "저"
 japanese:
   - HI
 japanese_nanori: ""
 vietnamese:
   - bỉ
 middle_chinese_initial: p
-middle_chinese_final: ɣiᴇ
+middle_chinese_final: "ɣiᴇ"
 stroke_count: 8
-radical: 彳
+radical: "彳"
 skip_number: 1-3-5
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - yon
-羅馬字: bǝ
-韓文: 브
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 中
+羅馬字: "bǝ"
+韓文: "브"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "中"
 danayo_id: 149
 mc_id: 529
-graphemic_classification: 皮
-stand_in: 彼
+graphemic_classification: "皮"
+stand_in: "彼"
 aliases:
-注音: ㄅㄜ
+注音: "ㄅㄜ"
 tags:
   - character
 ---

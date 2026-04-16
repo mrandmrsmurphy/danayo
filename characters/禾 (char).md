@@ -1,16 +1,16 @@
 ---
 mandarin: "hé"
-cantonese: "wo4"
+cantonese: wo4
 korean: "화"
-korean_native: ""
+korean_native: "벼"
 japanese:
   - KA
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
-middle_chinese_final: uɑ
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "uɑ"
 stroke_count: 5
-radical: 禾
+radical: "禾"
 skip_number: 4-5-3
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - grain
   - cereal
 羅馬字: hwa
-韓文: 화
-joyo_level: 日本人名用漢字
+韓文: "화"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 7009
 mc_id: 1318
-graphemic_classification: 象形
-stand_in: 禾
+graphemic_classification: "象形"
+stand_in: "禾"
 aliases:
-注音: ㄏˇㄚ
+注音: "ㄏˇㄚ"
 tags:
   - character
 ---

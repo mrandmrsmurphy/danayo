@@ -1,33 +1,33 @@
 ---
 mandarin: "tàn"
-cantonese: "taan3"
+cantonese: taan3
 korean: "탄"
-korean_native: ""
+korean_native: "숯"
 japanese:
   - TAN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: tʰ
-middle_chinese_final: ɑn
+middle_chinese_initial: "tʰ"
+middle_chinese_final: "ɑn"
 stroke_count: 9
-radical: 火
+radical: "火"
 skip_number: 2-3-6
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - charcoal
   - coal
 羅馬字: tan
-韓文: 탄
-joyo_level: "3"
+韓文: "탄"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5136
 mc_id: 2311
-graphemic_classification: 屵
-stand_in: 炭
+graphemic_classification: "屵"
+stand_in: "炭"
 aliases:
-注音: ㄊㄚㄋ
+注音: "ㄊㄚㄋ"
 tags:
   - character
 ---

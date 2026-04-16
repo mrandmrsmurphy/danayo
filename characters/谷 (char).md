@@ -1,8 +1,8 @@
 ---
 mandarin: "gǔ"
-cantonese: "guk1"
+cantonese: guk1
 korean: "곡"
-korean_native: ""
+korean_native: "골"
 japanese:
   - KOKU
   - YOKU
@@ -11,24 +11,24 @@ vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: uk
 stroke_count: 7
-radical: 谷
+radical: "谷"
 skip_number: 2-2-5
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - valley
 羅馬字: gog
-韓文: 곡
-joyo_level: "2"
+韓文: "곡"
+joyo_level: 2
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2238
 mc_id: 783
-graphemic_classification: 象形
-stand_in: 谷
+graphemic_classification: "象形"
+stand_in: "谷"
 aliases:
   - 穀
-注音: ㄍㄛㄎ
+注音: "ㄍㄛㄎ"
 tags:
   - character
 ---

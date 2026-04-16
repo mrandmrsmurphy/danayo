@@ -1,34 +1,34 @@
 ---
 mandarin: "yán"
-cantonese: "jin4"
+cantonese: jin4
 korean: "언"
-korean_native: ""
+korean_native: "말씀"
 japanese:
   - GEN
   - GON
   - GIN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ŋ
-middle_chinese_final: ɨɐn
+middle_chinese_initial: "ŋ"
+middle_chinese_final: "ɨɐn"
 stroke_count: 7
-radical: 言
+radical: "言"
 skip_number: 2-1-6
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - say
 羅馬字: "'en"
-韓文: 언
-joyo_level: "2"
-hsk_level: "4"
-hanmun_edu_level: 中
+韓文: "언"
+joyo_level: 2
+hsk_level: 4
+hanmun_edu_level: "中"
 danayo_id: 3237
 mc_id: 39
-graphemic_classification: 指事
-stand_in: 言
+graphemic_classification: "指事"
+stand_in: "言"
 aliases:
-注音: ㄝㄋ
+注音: "ㄝㄋ"
 tags:
   - character
 ---

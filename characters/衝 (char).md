@@ -1,33 +1,33 @@
 ---
 mandarin: "chōng"
-cantonese: "cung1"
+cantonese: cung1
 korean: "충"
-korean_native: ""
+korean_native: "찌를"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: t͡ɕʰ
-middle_chinese_final: ɨoŋ
+middle_chinese_initial: "t͡ɕʰ"
+middle_chinese_final: "ɨoŋ"
 stroke_count: 15
-radical: 行
+radical: "行"
 skip_number: 1-3-12
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - collide
 羅馬字: cong
-韓文: 총
+韓文: "총"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5061
 mc_id: 1639
-graphemic_classification: 重
-stand_in: 衝
+graphemic_classification: "重"
+stand_in: "衝"
 aliases:
   - 冲
-注音: ㄑㄛㄥ
+注音: "ㄑㄛㄥ"
 tags:
   - character
 ---

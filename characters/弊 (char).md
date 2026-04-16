@@ -1,8 +1,8 @@
 ---
 mandarin: "bì"
-cantonese: "bai6"
+cantonese: bai6
 korean: "폐"
-korean_native: ""
+korean_native: "폐단"
 japanese:
   - HEI
   - HETSU
@@ -11,24 +11,24 @@ vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: ei
 stroke_count: 15
-radical: 廾
+radical: "廾"
 skip_number: 2-12-3
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - evil
   - wrong
 羅馬字: pei
-韓文: 페
-joyo_level: 高等
+韓文: "페"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5359
 mc_id: 1351
-graphemic_classification: 敝
-stand_in: 弊
+graphemic_classification: "敝"
+stand_in: "弊"
 aliases:
-注音: ㄆㄝ˙
+注音: "ㄆㄝ˙"
 tags:
   - character
 ---

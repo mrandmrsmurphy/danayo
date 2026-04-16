@@ -1,35 +1,35 @@
 ---
 mandarin: "dìng"
-cantonese: "ding3"
+cantonese: ding3
 korean: "정"
-korean_native: ""
+korean_native: "바로잡을"
 japanese:
   - TEI
   - CHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: tʰ
-middle_chinese_final: eŋ
+middle_chinese_initial: "tʰ"
+middle_chinese_final: "eŋ"
 stroke_count: 9
-radical: 言
+radical: "言"
 skip_number: 1-7-2
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - revise
   - correct
 羅馬字: teng
-韓文: 텅
-joyo_level: 高等
+韓文: "텅"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5278
 mc_id: 5273
-graphemic_classification: 丁
-stand_in: 訂
+graphemic_classification: "丁"
+stand_in: "訂"
 aliases:
   - 订
-注音: ㄊㄝㄥ
+注音: "ㄊㄝㄥ"
 tags:
   - character
 ---

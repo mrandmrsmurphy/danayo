@@ -1,34 +1,34 @@
 ---
 mandarin: "yán"
-cantonese: "jim4"
+cantonese: jim4
 korean: "염"
-korean_native: ""
+korean_native: "마을"
 japanese:
   - EN
   - SEN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: iᴇm
+middle_chinese_final: "iᴇm"
 stroke_count: 16
-radical: 門
+radical: "門"
 skip_number: 1-8-8
 grade_level: "先進"
 pos: ""
 english:
   - village gate
 羅馬字: "'yem"
-韓文: 염
+韓文: "염"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7098
 mc_id: 2250
-graphemic_classification: 陥
-stand_in: 閻
+graphemic_classification: "陥"
+stand_in: "閻"
 aliases:
   - 阎
-注音: ˙ㄝㄇ
+注音: "˙ㄝㄇ"
 tags:
   - character
 ---

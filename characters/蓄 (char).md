@@ -1,19 +1,19 @@
 ---
 mandarin: "xù"
-cantonese: "cuk1"
+cantonese: cuk1
 korean: "축"
-korean_native: ""
+korean_native: "모을"
 japanese:
   - CHIKU
   - KIKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: ɨuk
+middle_chinese_final: "ɨuk"
 stroke_count: 13
-radical: 艸
+radical: "艸"
 skip_number: 2-3-10
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - store
@@ -21,16 +21,16 @@ english:
   - hoard
   - gather
 羅馬字: cug
-韓文: 축
+韓文: "축"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 6362
 mc_id: 1859
-graphemic_classification: 畜
-stand_in: 蓄
+graphemic_classification: "畜"
+stand_in: "蓄"
 aliases:
-注音: ㄑㄨㄎ
+注音: "ㄑㄨㄎ"
 tags:
   - character
 ---

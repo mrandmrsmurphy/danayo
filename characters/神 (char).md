@@ -1,35 +1,35 @@
 ---
 mandarin: "shén"
-cantonese: "san4"
+cantonese: san4
 korean: "신"
-korean_native: ""
+korean_native: "귀신"
 japanese:
   - SHIN
   - JIN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: d͡ʑ
-middle_chinese_final: iɪn
+middle_chinese_initial: "d͡ʑ"
+middle_chinese_final: "iɪn"
 stroke_count: 10
-radical: 示
+radical: "示"
 skip_number: 1-5-5
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - god
   - deity
   - spirit
 羅馬字: sin
-韓文: 신
-joyo_level: "3"
+韓文: "신"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2184
 mc_id: 218
-graphemic_classification: 申
-stand_in: 神
+graphemic_classification: "申"
+stand_in: "神"
 aliases:
-注音: ㄙㄧㄋ
+注音: "ㄙㄧㄋ"
 tags:
   - character
 ---

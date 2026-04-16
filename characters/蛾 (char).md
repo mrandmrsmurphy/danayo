@@ -1,35 +1,35 @@
 ---
 mandarin: "é"
-cantonese: "ngo4"
+cantonese: ngo4
 korean: "아"
-korean_native: ""
+korean_native: "나방"
 japanese:
   - GA
   - GI
 japanese_nanori: ""
 vietnamese:
   - ngài
-middle_chinese_initial: ŋ
-middle_chinese_final: ɑ
+middle_chinese_initial: "ŋ"
+middle_chinese_final: "ɑ"
 stroke_count: 13
-radical: 虫
+radical: "虫"
 skip_number: 1-6-7
 grade_level: "名"
 pos: ""
 english:
   - moth
 羅馬字: "'a"
-韓文: 아
-joyo_level: 表外字
+韓文: "아"
+joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 8201
 mc_id: 3437
-graphemic_classification: 我
-stand_in: 蛾
+graphemic_classification: "我"
+stand_in: "蛾"
 aliases:
   - 蟻
-注音: ㄚ
+注音: "ㄚ"
 tags:
   - character
 ---

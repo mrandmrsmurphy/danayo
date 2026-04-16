@@ -1,34 +1,34 @@
 ---
 mandarin: "jù"
-cantonese: "geoi3"
+cantonese: geoi3
 korean: "거"
-korean_native: ""
+korean_native: "톱"
 japanese:
   - KYO
   - KO
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: k
-middle_chinese_final: ɨʌ
+middle_chinese_final: "ɨʌ"
 stroke_count: 16
-radical: 金
+radical: "金"
 skip_number: 1-8-8
 grade_level: "先進"
 pos: ""
 english:
   - saw
 羅馬字: gyo
-韓文: 교
-joyo_level: 日本人名用漢字
+韓文: "교"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7229
 mc_id: 3673
-graphemic_classification: 居
-stand_in: 鋸
+graphemic_classification: "居"
+stand_in: "鋸"
 aliases:
   - 锯
-注音: ㄍ˙ㄛ
+注音: "ㄍ˙ㄛ"
 tags:
   - character
 ---

@@ -1,32 +1,32 @@
 ---
 mandarin: "zhēn"
-cantonese: "zan1"
+cantonese: zan1
 korean: "진"
-korean_native: ""
+korean_native: "보배"
 japanese:
   - CHIN
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʈ
-middle_chinese_final: ɣiɪn
+middle_chinese_initial: "ʈ"
+middle_chinese_final: "ɣiɪn"
 stroke_count: 9
-radical: 玉
+radical: "玉"
 skip_number: 1-4-5
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - rare
 羅馬字: cin
-韓文: 친
+韓文: "친"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5093
 mc_id: 1543
-graphemic_classification: 㐱
-stand_in: 珍
+graphemic_classification: "㐱"
+stand_in: "珍"
 aliases:
-注音: ㄑㄧㄋ
+注音: "ㄑㄧㄋ"
 tags:
   - character
 ---

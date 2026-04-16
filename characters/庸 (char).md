@@ -1,34 +1,34 @@
 ---
 mandarin: "yōng"
-cantonese: "jung4"
+cantonese: jung4
 korean: "용"
-korean_native: ""
+korean_native: "쓸"
 japanese:
   - YOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: ɨoŋ
+middle_chinese_final: "ɨoŋ"
 stroke_count: 11
-radical: 广
+radical: "广"
 skip_number: 3-3-8
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - commonplace
   - ordinary
   - mediocre
 羅馬字: "'yong"
-韓文: 용
-joyo_level: 高等
-hsk_level: "4"
-hanmun_edu_level: 高等
+韓文: "용"
+joyo_level: "高等"
+hsk_level: 4
+hanmun_edu_level: "高等"
 danayo_id: 6392
 mc_id: 1093
-graphemic_classification: 用
-stand_in: 庸
+graphemic_classification: "用"
+stand_in: "庸"
 aliases:
-注音: ˙ㄛㄥ
+注音: "˙ㄛㄥ"
 tags:
   - character
 ---

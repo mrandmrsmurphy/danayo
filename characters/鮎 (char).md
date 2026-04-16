@@ -1,8 +1,8 @@
 ---
 mandarin: "nián"
-cantonese: "nim4"
+cantonese: nim4
 korean: "점"
-korean_native: ""
+korean_native: "메기"
 japanese:
   - NEN
 japanese_nanori: ""
@@ -10,7 +10,7 @@ vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: em
 stroke_count: 16
-radical: 魚
+radical: "魚"
 skip_number: 1-11-5
 grade_level: "名"
 pos: ""
@@ -18,18 +18,18 @@ english:
   - sweetfish
   - sheatfish
 羅馬字: nem
-韓文: 넘
-joyo_level: 日本人名用漢字
+韓文: "넘"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 8266
 mc_id: 8991
-graphemic_classification: 占
-stand_in: 鮎
+graphemic_classification: "占"
+stand_in: "鮎"
 aliases:
   - 𬵂
   - 鲇
-注音: ㄋㄝㄇ
+注音: "ㄋㄝㄇ"
 tags:
   - character
 ---

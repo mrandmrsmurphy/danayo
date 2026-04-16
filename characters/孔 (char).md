@@ -1,32 +1,32 @@
 ---
-mandarin: kǒng
+mandarin: "kǒng"
 cantonese: hung2
-korean: 공
-korean_native: ""
+korean: "공"
+korean_native: "구멍"
 japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: kʰ
-middle_chinese_final: uŋ
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "uŋ"
 stroke_count: 4
-radical: 子
+radical: "子"
 skip_number: 1-3-1
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - cavity
 羅馬字: kong
-韓文: 콩
-joyo_level: 高等
-hsk_level: "2"
-hanmun_edu_level: 高等
+韓文: "콩"
+joyo_level: "高等"
+hsk_level: 2
+hanmun_edu_level: "高等"
 danayo_id: 5206
 mc_id: 230
-graphemic_classification: 會意
-stand_in: 孔
+graphemic_classification: "會意"
+stand_in: "孔"
 aliases:
-注音: ㄎㄛㄥ
+注音: "ㄎㄛㄥ"
 tags:
   - character
 ---

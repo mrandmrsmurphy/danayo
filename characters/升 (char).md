@@ -1,33 +1,33 @@
 ---
-mandarin: shēng
+mandarin: "shēng"
 cantonese: sing1
-korean: 승
-korean_native: ""
+korean: "승"
+korean_native: "되"
 japanese:
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɕ
-middle_chinese_final: ɨŋ
+middle_chinese_initial: "ɕ"
+middle_chinese_final: "ɨŋ"
 stroke_count: 4
-radical: 十
+radical: "十"
 skip_number: 4-4-3
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - litre
   - liter
 羅馬字: sung
-韓文: 숭
-joyo_level: 高等
+韓文: "숭"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 5186
 mc_id: 415
-graphemic_classification: 象形
-stand_in: 升
+graphemic_classification: "象形"
+stand_in: "升"
 aliases:
-注音: ㄙㄨㄥ
+注音: "ㄙㄨㄥ"
 tags:
   - character
 ---

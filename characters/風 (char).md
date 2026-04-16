@@ -1,8 +1,8 @@
 ---
-mandarin: fēng
+mandarin: "fēng"
 cantonese: fung1
-korean: 풍
-korean_native: ""
+korean: "풍"
+korean_native: "바람"
 japanese:
   - FUU
   - FU
@@ -10,29 +10,29 @@ japanese_nanori: ""
 vietnamese:
   - phong, phông
 middle_chinese_initial: f
-middle_chinese_final: ɨuŋ
+middle_chinese_final: "ɨuŋ"
 stroke_count: 9
-radical: 風
+radical: "風"
 skip_number: 3-2-7
-grade_level: "1"
-pos: 名詞
+grade_level: 1
+pos: "名詞"
 english:
   - wind
 羅馬字: fung
-韓文: 뿡
-joyo_level: "2"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "뿡"
+joyo_level: 2
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 177
 mc_id: 279
-graphemic_classification: 凡
-stand_in: 風
+graphemic_classification: "凡"
+stand_in: "風"
 aliases:
   - 风
   - 渢
   - 讽
   - 諷
-注音: ㄈㄨㄥ
+注音: "ㄈㄨㄥ"
 tags:
   - character
 ---

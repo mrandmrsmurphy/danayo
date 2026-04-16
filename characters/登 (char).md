@@ -1,35 +1,35 @@
 ---
 mandarin: "dēng"
-cantonese: "dang1"
+cantonese: dang1
 korean: "등"
-korean_native: ""
+korean_native: "오를"
 japanese:
   - TOU
   - TO
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
-middle_chinese_final: ǝŋ
+middle_chinese_final: "ǝŋ"
 stroke_count: 12
-radical: 癶
+radical: "癶"
 skip_number: 2-5-7
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - mount
   - board
   - climb
 羅馬字: dung
-韓文:  둥
-joyo_level: "3"
+韓文: "둥"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 2174
 mc_id: 767
-graphemic_classification: 豆
-stand_in: 登
+graphemic_classification: "豆"
+stand_in: "登"
 aliases:
-注音: ㄉㄨㄥ
+注音: "ㄉㄨㄥ"
 tags:
   - character
 ---

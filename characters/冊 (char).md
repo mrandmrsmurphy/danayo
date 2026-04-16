@@ -1,35 +1,35 @@
 ---
-mandarin: cè
+mandarin: "cè"
 cantonese: caak3
-korean: 책
-korean_native: ""
+korean: "책"
+korean_native: "책"
 japanese:
   - SATSU
   - SAKU
 japanese_nanori: ""
 vietnamese:
   - sách
-middle_chinese_initial: t͡ʃʰ
-middle_chinese_final: ɣɛk
+middle_chinese_initial: "t͡ʃʰ"
+middle_chinese_final: "ɣɛk"
 stroke_count: 5
-radical: 冂
+radical: "冂"
 skip_number: 4-5-1
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - book
 羅馬字: cag
-韓文: 착
-joyo_level: "6"
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "착"
+joyo_level: 6
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 3026
 mc_id: 2941
-graphemic_classification: 象形
-stand_in: 冊
+graphemic_classification: "象形"
+stand_in: "冊"
 aliases:
   - 册
-注音: ㄑㄚㄎ
+注音: "ㄑㄚㄎ"
 tags:
   - character
 ---

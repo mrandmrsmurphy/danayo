@@ -1,35 +1,35 @@
 ---
-mandarin: fù
+mandarin: "fù"
 cantonese: fu6
-korean: 부
-korean_native: ""
+korean: "부"
+korean_native: "질"
 japanese:
   - FU
   - BU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: v
-middle_chinese_final: ɨu
+middle_chinese_final: "ɨu"
 stroke_count: 9
-radical: 貝
+radical: "貝"
 skip_number: 2-2-7
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - carry
   - bear
 羅馬字: byu
-韓文: 뷰
-joyo_level: "3"
+韓文: "뷰"
+joyo_level: 3
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 3246
 mc_id: 754
-graphemic_classification: 會意
-stand_in: 負
+graphemic_classification: "會意"
+stand_in: "負"
 aliases:
   - 负
-注音: ㄅ˙ㄨ
+注音: "ㄅ˙ㄨ"
 tags:
   - character
 ---

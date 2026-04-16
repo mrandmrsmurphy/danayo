@@ -1,16 +1,16 @@
 ---
 mandarin: "zhàng"
-cantonese: "zoeng6"
+cantonese: zoeng6
 korean: "장"
-korean_native: ""
+korean_native: "지팡이"
 japanese:
   - JOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɖ
-middle_chinese_final: ɨɐŋ
+middle_chinese_initial: "ɖ"
+middle_chinese_final: "ɨɐŋ"
 stroke_count: 7
-radical: 木
+radical: "木"
 skip_number: 1-4-3
 grade_level: "先進"
 pos: ""
@@ -18,16 +18,16 @@ english:
   - staff
   - stick
 羅馬字: jang
-韓文: 장
-joyo_level: 日本人名用漢字
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "장"
+joyo_level: "日本人名用漢字"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 7450
 mc_id: 1365
-graphemic_classification: 丈
-stand_in: 杖
+graphemic_classification: "丈"
+stand_in: "杖"
 aliases:
-注音: ㄐㄚㄥ
+注音: "ㄐㄚㄥ"
 tags:
   - character
 ---

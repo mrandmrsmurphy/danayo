@@ -1,8 +1,8 @@
 ---
-mandarin: nǚ
+mandarin: "nǚ"
 cantonese: neoi5
-korean: 녀
-korean_native: ""
+korean: "녀"
+korean_native: "여자"
 japanese:
   - JO
   - NYO
@@ -10,26 +10,26 @@ japanese:
 japanese_nanori: ""
 vietnamese:
   - nữ
-middle_chinese_initial: ɳ
-middle_chinese_final: ɨʌ
+middle_chinese_initial: "ɳ"
+middle_chinese_final: "ɨʌ"
 stroke_count: 3
-radical: 女
+radical: "女"
 skip_number: 4-3-4
-grade_level: "1"
+grade_level: 1
 pos: ""
 english:
   - woman
-羅馬字: nǝ
-韓文: 느
-joyo_level: "1"
-hsk_level: "1"
-hanmun_edu_level: 中
+羅馬字: "nǝ"
+韓文: "느"
+joyo_level: 1
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 25
 mc_id: 222
-graphemic_classification: 象形
-stand_in: 女
+graphemic_classification: "象形"
+stand_in: "女"
 aliases:
-注音: ㄋㄜ
+注音: "ㄋㄜ"
 tags:
   - character
 ---

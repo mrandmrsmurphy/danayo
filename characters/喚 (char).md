@@ -1,34 +1,34 @@
 ---
 mandarin: "huàn"
-cantonese: "wun6"
+cantonese: wun6
 korean: "환"
-korean_native: ""
+korean_native: "부를"
 japanese:
   - KAN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: uɑn
+middle_chinese_final: "uɑn"
 stroke_count: 12
-radical: 口
+radical: "口"
 skip_number: 1-3-9
-grade_level: "6"
+grade_level: 6
 pos: ""
 english:
   - summon
   - invite
 羅馬字: hwan
-韓文: 환
-joyo_level: 高等
+韓文: "환"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6198
 mc_id: 7867
-graphemic_classification: 奐
-stand_in: 喚
+graphemic_classification: "奐"
+stand_in: "喚"
 aliases:
   - 唤
-注音: ㄏˇㄚㄋ
+注音: "ㄏˇㄚㄋ"
 tags:
   - character
 ---

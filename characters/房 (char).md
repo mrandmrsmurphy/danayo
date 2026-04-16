@@ -1,33 +1,33 @@
 ---
-mandarin: fáng
+mandarin: "fáng"
 cantonese: fong4
-korean: 방
-korean_native: ""
+korean: "방"
+korean_native: "방"
 japanese:
   - BOU
   - HOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: v
-middle_chinese_final: ɑŋ
+middle_chinese_final: "ɑŋ"
 stroke_count: 8
-radical: 戶
+radical: "戶"
 skip_number: 2-1-7
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - room
 羅馬字: bang
-韓文: 방
-joyo_level: 高等
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "방"
+joyo_level: "高等"
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 3133
 mc_id: 980
-graphemic_classification: 方
-stand_in: 房
+graphemic_classification: "方"
+stand_in: "房"
 aliases:
-注音: ㄅㄚㄥ
+注音: "ㄅㄚㄥ"
 tags:
   - character
 ---

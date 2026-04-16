@@ -1,17 +1,17 @@
 ---
 mandarin: "shāo"
-cantonese: "saau2"
+cantonese: saau2
 korean: "초"
-korean_native: ""
+korean_native: "점점"
 japanese:
   - SOU
   - SHOU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʃ
-middle_chinese_final: ɣau
+middle_chinese_initial: "ʃ"
+middle_chinese_final: "ɣau"
 stroke_count: 12
-radical: 禾
+radical: "禾"
 skip_number: 1-5-7
 grade_level: "先進"
 pos: ""
@@ -19,16 +19,16 @@ english:
   - slightly
   - rather
 羅馬字: syau
-韓文: 샷
-joyo_level: 表外字
-hsk_level: "2"
-hanmun_edu_level: 名
+韓文: "샷"
+joyo_level: "表外字"
+hsk_level: 2
+hanmun_edu_level: "名"
 danayo_id: 7276
 mc_id: 1228
-graphemic_classification: 肖
-stand_in: 稍
+graphemic_classification: "肖"
+stand_in: "稍"
 aliases:
-注音: ㄙ˙ㄚˇ
+注音: "ㄙ˙ㄚˇ"
 tags:
   - character
 ---

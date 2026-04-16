@@ -1,8 +1,8 @@
 ---
 mandarin: "dēng"
-cantonese: "dang1"
+cantonese: dang1
 korean: "정"
-korean_native: ""
+korean_native: "불"
 japanese:
   - TOU
   - TEI
@@ -10,26 +10,26 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
-middle_chinese_final: ǝŋ
+middle_chinese_final: "ǝŋ"
 stroke_count: 6
-radical: 火
+radical: "火"
 skip_number: 1-4-2
-grade_level: "1"
-pos: 名詞
+grade_level: 1
+pos: "名詞"
 english:
   - lamp
 羅馬字: dung
-韓文: 둥
-joyo_level: "4"
-hsk_level: "1"
-hanmun_edu_level: 中
+韓文: "둥"
+joyo_level: 4
+hsk_level: 1
+hanmun_edu_level: "中"
 danayo_id: 105
 mc_id: 0
-graphemic_classification: 登
-stand_in: 灯
+graphemic_classification: "登"
+stand_in: "灯"
 aliases:
   - 燈
-注音: ㄉㄨㄥ
+注音: "ㄉㄨㄥ"
 tags:
   - character
 ---

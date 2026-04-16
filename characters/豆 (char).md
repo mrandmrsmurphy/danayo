@@ -1,33 +1,33 @@
 ---
-mandarin: dòu
+mandarin: "dòu"
 cantonese: dau6
-korean: 두
-korean_native: ""
+korean: "두"
+korean_native: "콩"
 japanese:
   - TOU
   - ZU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: d
-middle_chinese_final: əu
+middle_chinese_final: "əu"
 stroke_count: 7
-radical: 豆
+radical: "豆"
 skip_number: 2-1-6
-grade_level: "2"
+grade_level: 2
 pos: ""
 english:
   - bean
 羅馬字: dou
-韓文: 돗
-joyo_level: "3"
-hsk_level: "2"
-hanmun_edu_level: 中
+韓文: "돗"
+joyo_level: 3
+hsk_level: 2
+hanmun_edu_level: "中"
 danayo_id: 2239
 mc_id: 1371
-graphemic_classification: 象形
-stand_in: 豆
+graphemic_classification: "象形"
+stand_in: "豆"
 aliases:
-注音: ㄉㄛˇ
+注音: "ㄉㄛˇ"
 tags:
   - character
 ---

@@ -1,33 +1,33 @@
 ---
-mandarin: wèi
+mandarin: "wèi"
 cantonese: wai6
-korean: 위
-korean_native: ""
+korean: "위"
+korean_native: "위장"
 japanese:
   - I
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ø
-middle_chinese_final: ʉi
+middle_chinese_initial: "ø"
+middle_chinese_final: "ʉi"
 stroke_count: 9
-radical: 肉
+radical: "肉"
 skip_number: 2-5-4
-grade_level: "4"
+grade_level: 4
 pos: ""
 english:
   - stomach
   - gizzard
 羅馬字: "'ui"
-韓文: 위
-joyo_level: "4"
-hsk_level: "3"
-hanmun_edu_level: 高等
+韓文: "위"
+joyo_level: 4
+hsk_level: 3
+hanmun_edu_level: "高等"
 danayo_id: 4225
 mc_id: 1203
-graphemic_classification: 象形
-stand_in: 胃
+graphemic_classification: "象形"
+stand_in: "胃"
 aliases:
-注音: ㄨ˙
+注音: "ㄨ˙"
 tags:
   - character
 ---

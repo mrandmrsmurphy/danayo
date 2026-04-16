@@ -1,8 +1,8 @@
 ---
 mandarin: "jié"
-cantonese: "git3"
+cantonese: git3
 korean: "결"
-korean_native: ""
+korean_native: "맺을"
 japanese:
   - KETSU
   - KEI
@@ -11,25 +11,25 @@ vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: et
 stroke_count: 12
-radical: 糸
+radical: "糸"
 skip_number: 1-6-6
-grade_level: "3"
+grade_level: 3
 pos: ""
 english:
   - tie
   - join
 羅馬字: ged
-韓文: 걷
-joyo_level: "4"
+韓文: "걷"
+joyo_level: 4
 hsk_level:
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 3218
 mc_id: 750
-graphemic_classification: 吉
-stand_in: 結
+graphemic_classification: "吉"
+stand_in: "結"
 aliases:
   - 结
-注音: ㄍㄝㄊ
+注音: "ㄍㄝㄊ"
 tags:
   - character
 ---

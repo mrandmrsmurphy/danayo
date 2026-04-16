@@ -1,32 +1,32 @@
 ---
-mandarin: xī
+mandarin: "xī"
 cantonese: hai4
-korean: 혜
-korean_native: ""
+korean: "혜"
+korean_native: "어조사"
 japanese:
   - KEI
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ɣ
+middle_chinese_initial: "ɣ"
 middle_chinese_final: ei
 stroke_count: 4
-radical: 八
+radical: "八"
 skip_number: 2-2-2
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - pshaw
 羅馬字: hei
-韓文: 헤
-joyo_level: 表外字
-hsk_level: 無
-hanmun_edu_level: 高等
+韓文: "헤"
+joyo_level: "表外字"
+hsk_level: "無"
+hanmun_edu_level: "高等"
 danayo_id: 5115
 mc_id: 258
-graphemic_classification: 會意
-stand_in: 兮
+graphemic_classification: "會意"
+stand_in: "兮"
 aliases:
-注音: ㄏㄝ˙
+注音: "ㄏㄝ˙"
 tags:
   - character
 ---

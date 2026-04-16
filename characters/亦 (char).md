@@ -1,33 +1,33 @@
 ---
-mandarin: yì
+mandarin: "yì"
 cantonese: jik6
-korean: 역
-korean_native: ""
+korean: "역"
+korean_native: "또"
 japanese:
   - EKI
   - YAKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: iᴇk
+middle_chinese_final: "iᴇk"
 stroke_count: 6
-radical: 亠
+radical: "亠"
 skip_number: 2-2-4
-grade_level: 先進
+grade_level: "先進"
 pos: ""
 english:
   - too
 羅馬字: "'ǝg"
-韓文: 윽
-joyo_level: 日本人名用漢字
+韓文: "윽"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 中
+hanmun_edu_level: "中"
 danayo_id: 7017
 mc_id: 120
-graphemic_classification: 指事
-stand_in: 亦
+graphemic_classification: "指事"
+stand_in: "亦"
 aliases:
-注音: ㄜㄎ
+注音: "ㄜㄎ"
 tags:
   - character
 ---

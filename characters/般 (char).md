@@ -1,8 +1,8 @@
 ---
 mandarin: "bān"
-cantonese: "bun1"
+cantonese: bun1
 korean: "반"
-korean_native: ""
+korean_native: "일반"
 japanese:
   - HAN
   - BAN
@@ -10,25 +10,25 @@ japanese:
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
-middle_chinese_final: ɣan
+middle_chinese_final: "ɣan"
 stroke_count: 10
-radical: 舟
+radical: "舟"
 skip_number: 1-6-4
-grade_level: "5"
+grade_level: 5
 pos: ""
 english:
   - category
 羅馬字: ban
-韓文: 반
-joyo_level: 高等
+韓文: "반"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 5012
 mc_id: 2134
-graphemic_classification: 會意
-stand_in: 般
+graphemic_classification: "會意"
+stand_in: "般"
 aliases:
-注音: ㄅㄚㄋ
+注音: "ㄅㄚㄋ"
 tags:
   - character
 ---
