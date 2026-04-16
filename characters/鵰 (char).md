@@ -1,8 +1,8 @@
 ---
-mandarin: diāo
+mandarin: "diāo"
 cantonese: diu1
-korean: 조
-korean_native: ""
+korean: "조"
+korean_native: "독수리"
 japanese:
   - CHOU
 japanese_nanori: ""
@@ -10,26 +10,26 @@ vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: eu
 stroke_count: 19
-radical: 鳥
+radical: "鳥"
 skip_number: 1-8-11
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - eagle
   - vulture
 羅馬字: cuu
-韓文: 춧
+韓文: "춧"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: 無
+hanmun_edu_level: "無"
 danayo_id: 8308
 mc_id: 5429
-graphemic_classification: 鳥
-stand_in: 鵰
+graphemic_classification: "鳥"
+stand_in: "鵰"
 aliases:
   - 𫛲
   - 雕
-注音: ㄑㄨˇ
+注音: "ㄑㄨˇ"
 tags:
   - character
 ---

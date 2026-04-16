@@ -1,29 +1,29 @@
 ---
 mandarin: "kān"
-cantonese: "ham1"
+cantonese: ham1
 korean: "감"
-korean_native: ""
+korean_native: "감실"
 japanese: KON
-japanese_nanori: ずし
+japanese_nanori: "ずし"
 vietnamese: ""
-middle_chinese_initial: kʰ
-middle_chinese_final: ʌm
+middle_chinese_initial: "kʰ"
+middle_chinese_final: "ʌm"
 stroke_count: 22
-radical: 龍
+radical: "龍"
 skip_number: 2-2-20
 grade_level: "名"
-pos: 名詞
-english: shrine, alcove
+pos: "名詞"
+english: "shrine, alcove"
 羅馬字: kam
-韓文: 캄
-joyo_level: 表外字
-hsk_level: 無
-hanmun_edu_level: 名
+韓文: "캄"
+joyo_level: "表外字"
+hsk_level: "無"
+hanmun_edu_level: "名"
 danayo_id: 8781
 mc_id:
-graphemic_classification: 今
-stand_in: 龕
-注音: ㄎㄚㄇ
+graphemic_classification: "今"
+stand_in: "龕"
+注音: "ㄎㄚㄇ"
 tags:
   - character
 ---

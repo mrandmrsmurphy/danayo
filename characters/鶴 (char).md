@@ -1,34 +1,34 @@
 ---
-mandarin: hè
+mandarin: "hè"
 cantonese: hok6
-korean: 학
-korean_native: ""
+korean: "학"
+korean_native: "학"
 japanese:
   - KAKU
 japanese_nanori: ""
 vietnamese:
   - hạc
-middle_chinese_initial: ɣ
-middle_chinese_final: ɑk
+middle_chinese_initial: "ɣ"
+middle_chinese_final: "ɑk"
 stroke_count: 21
-radical: 鳥
+radical: "鳥"
 skip_number: 1-10-11
-grade_level: 名
+grade_level: "名"
 pos: ""
 english:
   - crane
 羅馬字: hag
-韓文: 학
-joyo_level: 高等
+韓文: "학"
+joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: "高等"
 danayo_id: 8320
 mc_id: 2383
-graphemic_classification: 隺
-stand_in: 鶴
+graphemic_classification: "隺"
+stand_in: "鶴"
 aliases:
   - 鹤
-注音: ㄏㄚㄎ
+注音: "ㄏㄚㄎ"
 tags:
   - character
 ---

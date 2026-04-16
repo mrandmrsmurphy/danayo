@@ -1,33 +1,33 @@
 ---
 mandarin: "yuān"
-cantonese: "jyun1"
+cantonese: jyun1
 korean: "연"
-korean_native: ""
+korean_native: "솔개"
 japanese:
   - EN
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: j
-middle_chinese_final: iuᴇn
+middle_chinese_final: "iuᴇn"
 stroke_count: 14
-radical: 鳥
+radical: "鳥"
 skip_number: 2-3-11
 grade_level: "名"
 pos: ""
 english:
   - kite
 羅馬字: "'yeng"
-韓文: 연
-joyo_level: 日本人名用漢字
+韓文: "연"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 8223
 mc_id: 3264
-graphemic_classification: 弋
-stand_in: 鳶
+graphemic_classification: "弋"
+stand_in: "鳶"
 aliases:
   - 鸢
-注音: ˙ㄝㄋ
+注音: "˙ㄝㄋ"
 tags:
   - character
 ---

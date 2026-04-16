@@ -1,33 +1,33 @@
 ---
-mandarin: yā
+mandarin: "yā"
 cantonese: aap3
-korean: 압
-korean_native: ""
+korean: "압"
+korean_native: "오리"
 japanese:
   - OU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: ʔ
-middle_chinese_final: ɣap
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "ɣap"
 stroke_count: 16
-radical: 鳥
+radical: "鳥"
 skip_number: 1-5-11
-grade_level: 名
-pos: 名詞
+grade_level: "名"
+pos: "名詞"
 english:
   - duck
 羅馬字: "'ab"
-韓文: 압
-joyo_level: 日本人名用漢字
-hsk_level: "3"
-hanmun_edu_level: 名
+韓文: "압"
+joyo_level: "日本人名用漢字"
+hsk_level: 3
+hanmun_edu_level: "名"
 danayo_id: 8684
 mc_id: 6117
-graphemic_classification: 甲
-stand_in: 鴨
+graphemic_classification: "甲"
+stand_in: "鴨"
 aliases:
   - 鸭
-注音: ㄚㄆ
+注音: "ㄚㄆ"
 tags:
   - character
 ---

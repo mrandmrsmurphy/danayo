@@ -1,32 +1,32 @@
 ---
 mandarin: "dǐng"
-cantonese: "ding2"
+cantonese: ding2
 korean: "정"
-korean_native: ""
+korean_native: "솥"
 japanese:
   - TEI
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
-middle_chinese_final: eŋ
+middle_chinese_final: "eŋ"
 stroke_count: 13
-radical: 鼎
+radical: "鼎"
 skip_number: 4-13-1
 grade_level: "先進"
 pos: ""
 english:
   - tripod
 羅馬字: ding
-韓文: 딩
-joyo_level: 日本人名用漢字
+韓文: "딩"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 7410
 mc_id: 836
-graphemic_classification: 象形
-stand_in: 鼎
+graphemic_classification: "象形"
+stand_in: "鼎"
 aliases:
-注音: ㄉㄧㄥ
+注音: "ㄉㄧㄥ"
 tags:
   - character
 ---

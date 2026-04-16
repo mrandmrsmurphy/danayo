@@ -1,35 +1,35 @@
 ---
-mandarin: yīng
+mandarin: "yīng"
 cantonese: jing1
-korean: 응
-korean_native: ""
+korean: "응"
+korean_native: "매"
 japanese:
   - YOU
   - OU
 japanese_nanori: ""
 vietnamese:
   - ưng
-middle_chinese_initial: ʔ
-middle_chinese_final: ɨŋ
+middle_chinese_initial: "ʔ"
+middle_chinese_final: "ɨŋ"
 stroke_count: 24
-radical: 鳥
+radical: "鳥"
 skip_number: 3-3-21
-grade_level: 名
-pos: 名詞
+grade_level: "名"
+pos: "名詞"
 english:
   - hawk
 羅馬字: "'ing"
-韓文: 잉
-joyo_level: 日本人名用漢字
+韓文: "잉"
+joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 8334
 mc_id: 2452
-graphemic_classification: 䧹
-stand_in: 鷹
+graphemic_classification: "䧹"
+stand_in: "鷹"
 aliases:
   - 鹰
-注音: ㄧㄥ
+注音: "ㄧㄥ"
 tags:
   - character
 ---
