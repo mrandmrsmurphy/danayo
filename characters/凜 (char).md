@@ -27,6 +27,7 @@ graphemic_classification: 稟
 stand_in: 凜
 aliases:
   - 凛
+  - 澟
 注音: ㄌㄨㄇ
 tags:
   - character
