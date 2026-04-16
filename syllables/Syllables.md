@@ -208,7 +208,7 @@ views:
       - english
     sort:
       - property: size
-        direction: DESC
+        direction: ASC
       - property: 注音
         direction: ASC
       - property: file.name
