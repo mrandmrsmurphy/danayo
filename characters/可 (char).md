@@ -1,7 +1,7 @@
 ---
-mandarin: "kě"
-cantonese: "ho2"
-korean: "가"
+mandarin: kě
+cantonese: ho2
+korean: 가
 korean_native: 옳을
 japanese:
   - KA
@@ -18,8 +18,8 @@ grade_level: "3"
 pos: 修飾語
 english:
   - can
-羅馬字: ka
-韓文: 카
+羅馬字: kǝ
+韓文: 크
 joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 中
@@ -28,7 +28,7 @@ mc_id: 35
 graphemic_classification: 考
 stand_in: 可
 aliases:
-注音: ㄎㄚ
+注音: ㄎㄜ
 tags:
   - character
 ---
