@@ -17,8 +17,8 @@ grade_level: "1"
 pos: 性詞
 english:
   - many
-羅馬字: da
-韓文: 다
+羅馬字: dǝ
+韓文: 드
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -27,7 +27,7 @@ mc_id: 137
 graphemic_classification: 會意
 stand_in: 多
 aliases:
-注音: ㄉㄚ
+注音: ㄉㄜ
 tags:
   - character
 ---

@@ -4,41 +4,42 @@ cantonese: taa1
 korean: 타
 korean_native: 남
 japanese:
-- TA
+  - TA
 japanese_nanori:
-- ひと
+  - ひと
 vietnamese:
-- tha
-- thà
-- thè
-- thơ
+  - tha
+  - thà
+  - thè
+  - thơ
 middle_chinese_initial: tʰ
 middle_chinese_final: ɑ
 stroke_count: 5
 radical: 人
 skip_number: 1-2-3
-grade_level: '1'
+grade_level: "1"
 pos: 修飾語
 english:
-- another
-羅馬字: ta
-韓文: 타
-joyo_level: '3'
-hsk_level: '1'
+  - another
+  - additional
+羅馬字: tǝ
+韓文: 트
+joyo_level: "3"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 59
 mc_id: 1055
 graphemic_classification: 蛇
 stand_in: 他
 aliases:
-- 她
-- 牠
-- 祂
-- 沱
-- 沲
-注音: ㄊㄚ
+  - 她
+  - 牠
+  - 祂
+  - 沱
+  - 沲
+注音: ㄊㄜ
 tags:
-  - null
+  - 
   - character
 ---
 >[!tip] This is a page about the character.
