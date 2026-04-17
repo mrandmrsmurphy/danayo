@@ -1,21 +1,22 @@
 ---
-mandarin: "miàn"
-cantonese: "min6"
-korean: "면"
+mandarin: miàn
+cantonese: min6
+korean: 면
 korean_native: 국수
 japanese:
   - MEN
-japanese_nanori: ""
+japanese_nanori:
+  - むぎこ 
 vietnamese:
+  - miến
 middle_chinese_initial: m
 middle_chinese_final: en
 stroke_count: 16
 radical: 麦
 skip_number: 3-7-9
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
-  - noodles
   - flour
 羅馬字: men
 韓文: 먼
