@@ -106,7 +106,7 @@
 54. [[lexipedia/War]] in [[lexipedia/Lexipedia]]
 
 ## Periodic Table
-55. [[康金]] in [[lexipedia/Periodic Table]]
+55. [[words/康金]] in [[lexipedia/Periodic Table]]
 56. [[釩金]] in [[lexipedia/Periodic Table]]
 57. [[色金]] in [[lexipedia/Periodic Table]]
 58. [[孟金]] in [[lexipedia/Periodic Table]]

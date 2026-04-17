@@ -1,7 +1,7 @@
 ---
-mandarin: "jīn"
-cantonese: "gam1"
-korean: "금"
+mandarin: jīn
+cantonese: gam1
+korean: 김
 korean_native: 쇠
 japanese:
   - KIN
@@ -36,6 +36,7 @@ aliases:
 date-last-perfect: 2026-03-12
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is about the character.
 >For the word, see [金](words/金.md)
