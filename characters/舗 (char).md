@@ -1,23 +1,24 @@
 ---
-mandarin: "pù"
-cantonese: "pou3"
-korean: "포"
+mandarin: pù
+cantonese: pou3
+korean: 포
 korean_native: 펼
 japanese:
   - HO
 japanese_nanori: ""
 vietnamese:
+  - hô, phố, pho
 middle_chinese_initial: pʰ
 middle_chinese_final: uo
 stroke_count: 15
 radical: 舌
 skip_number: 1-8-7
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - store
-羅馬字: po
-韓文: 포
+羅馬字: pou
+韓文: 폿
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 無
@@ -28,9 +29,10 @@ stand_in: 舗
 aliases:
   - 舖
   - 铺
-注音: ㄆㄛ
+注音: ㄆㄛˇ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 舗.
 >For the word, see [舗](words/舗.md)

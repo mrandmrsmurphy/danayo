@@ -12,10 +12,15 @@ views:
       - danayo_id
       - korean
       - english
-      - mandarin
       - hanmun_edu_level
-      - korean_native
+      - japanese
+      - cantonese
+      - 羅馬字
     sort:
+      - property: cantonese
+        direction: ASC
+      - property: mandarin
+        direction: ASC
       - property: hanmun_edu_level
         direction: ASC
       - property: korean_native
@@ -23,10 +28,6 @@ views:
       - property: korean
         direction: ASC
       - property: middle_chinese_initial
-        direction: ASC
-      - property: cantonese
-        direction: ASC
-      - property: mandarin
         direction: ASC
       - property: english
         direction: ASC
@@ -73,5 +74,6 @@ views:
       formula.score: 112
       note.danayo_id: 64
       note.english: 183
+      note.hanmun_edu_level: 58
+      note.japanese: 142
       note.cantonese: 102
-      note.middle_chinese_initial: 67
