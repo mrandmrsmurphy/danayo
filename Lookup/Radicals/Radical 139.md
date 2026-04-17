@@ -1,11 +1,13 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-04-17
 radical: 色
 ---
 > [Radicals](Radicals.md)
 
-
+## Characters
+1. <ruby>[色](/characters/色.md)<rt>ㄙㄧㄎ</rt></ruby> "color"
+2. <ruby>[艶](/characters/艶%20(char).md)<rt>˙ㄝㄇ</rt></ruby> "voluptuous"
 
 ## Data search
 ```dataview
