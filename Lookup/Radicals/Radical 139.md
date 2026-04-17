@@ -3,7 +3,9 @@ size: 2
 date-last-perfect:
 radical: 色
 ---
-> [[Radicals
+> [Radicals](Radicals.md)
+
+
 
 ## Data search
 ```dataview
