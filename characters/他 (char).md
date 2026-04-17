@@ -48,3 +48,6 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+
+## Words
+- [[他鄉]]
