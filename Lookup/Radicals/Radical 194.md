@@ -1,6 +1,9 @@
 ---
 size: 5
+radical: 鬼
 ---
+## Characters
+鬼, 魁, 魂 (char), 魅, 魏, 魔
 
 ## Data search
 ```dataview
