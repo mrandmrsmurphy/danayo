@@ -56,7 +56,7 @@
 #### 관
 [官](../../characters/官.md) (벼슬 관) [觀](../../characters/観.md) (볼 관) [關](../../characters/関%20(char).md) (빗장 관)
 #### 광
-[光 (char)](../../characters/光%20(char).md) (빛 광) [廣](広) (넓을 광)
+[光 (char)](../../characters/光%20(char).md) (빛 광) [廣](../../characters/広%20(char).md) (넓을 광)
 #### 교
 [交](../../characters/交%20(char).md) (사귈 교) [校](../../characters/校.md) (학교 교) [橋 (char)](../../characters/橋%20(char).md) (다리 교) [敎](../../characters/教.md) (가르칠 교)
 #### 구
@@ -320,32 +320,25 @@
 [法](../../characters/法%20(char).md) (법 법)
 
 #### 변
-
 [[変 (char)|變]] (변할 변)
 
 #### 별
-
-[[別]] (나눌 별)
+[別 (char)](../../characters/別%20(char).md) (나눌 별)
 
 #### 병
-
-[[丙]] (남녘 병) [[病]] (병 병) [[兵]] (군사 병)
+[丙 (char)](../../characters/丙%20(char).md) (남녘 병) [病](../../characters/病.md) (병 병) [兵](../../characters/兵.md) (군사 병)
 
 #### 보
-
-[[保]] (지킬 보) [[歩|步]] (걸음 보) [[報]] (갚을 보)
+[保](../../characters/保.md) (지킬 보) [步](../../characters/歩.md) (걸음 보) [報 (char)](../../characters/報%20(char).md) (갚을 보)
 
 #### 복
-
-[[福]] (복 복) [[伏]] (엎드릴 복) [[服]] (옷 복) [[復]] (돌아올 복)
+[福 (char)](../../characters/福%20(char).md) (복 복) [伏 (char)](../../characters/伏%20(char).md) (엎드릴 복) [服](../../characters/服.md) (옷 복) [復](../../characters/復.md) (돌아올 복)
 
 #### 본
-
-[[本]] (밑 본)
+[本 (char)](../../characters/本%20(char).md) (밑 본)
 
 #### 봉
-
-[[奉]] (받들 봉) [[逢]] (만날 봉)
+[奉](../../characters/奉.md) (받들 봉) [逢](../../characters/逢.md) (만날 봉)
 
 #### 부
 [夫 (char)](../../characters/夫%20(char).md) (지아비 부) [扶 (char)](../../characters/扶%20(char).md) (도울 부) [父](../../characters/父.md) (아비 부) [富](../../characters/富.md) (넉넉할 부) [部 (char)](../../characters/部%20(char).md) (거느릴 부) [婦 (char)](../../characters/婦%20(char).md) (며느리 부) [否 (char)](characters/否%20(char).md) (아닐 부) [浮 (char)](../../characters/浮%20(char).md) (뜰 부)
@@ -396,56 +389,43 @@
 [[色]] (빛 색)
 
 #### 생
-
-[[生]] (날 생)
+[生](../../characters/生.md) (날 생)
 
 #### 서
-
-[[西]] (서녘 서) [[序]] (차례 서) [[書]] (쓸 서) [[暑]] (더울 서)
+[西](../../characters/西.md) (서녘 서) [序](../../characters/序.md) (차례 서) [書](../../characters/書.md) (쓸 서) [暑 (char)](../../characters/暑%20(char).md) (더울 서)
 
 #### 석
-
-[[石 (char)]] (돌 석) [[夕]] (저녁 석) [昔](characters/昔.md) (옛 석) [惜 (char)](characters/惜%20(char).md) (아낄 석) [[席]] (자리 석)
+[[石 (char)]] (돌 석) [夕](../../characters/夕.md) (저녁 석) [昔](characters/昔.md) (옛 석) [惜 (char)](characters/惜%20(char).md) (아낄 석) [席](../../characters/席.md) (자리 석)
 
 #### 선
-
-[[先]] (먼저 선) [[仙]] (신선 선) [[線]] (줄 선) [[鮮]] (고울 선) [[善]] (착할 선) [[船]] (배 선) [[選]] (가릴 선)
+[先](../../characters/先.md) (먼저 선) [仙](../../characters/仙.md) (신선 선) [線](../../characters/線.md) (줄 선) [鮮](../../characters/鮮.md) (고울 선) [善 (char)](../../characters/善%20(char).md) (착할 선) [船](../../characters/船.md) (배 선) [選](../../characters/選.md) (가릴 선)
 
 #### 설
-
-[[雪 (char)]] (눈 설) [[説|說]] (말씀 설) [[設]] (베풀 설) [[舌]] (혀 설)
+[[雪 (char)]] (눈 설) [[説|說]] (말씀 설) [設](../../characters/設.md) (베풀 설) [舌 (char)](../../characters/舌%20(char).md) (혀 설)
 
 #### 성
-
-[[姓]] (성 성) [[性]] (성품 성) [[成 (char)]] (이룰 성) [[城]] (성 성) [[誠]] (정성 성) [[盛]] (담을 성) [[省]] (살필 성) [星 (char)](../../characters/星%20(char).md) (별 성) [[聖]] (성스러울 성) [[声|聲]] (소리 성)
+[姓](../../characters/姓.md) (성 성) [性](../../characters/性.md) (성품 성) [[成 (char)]] (이룰 성) [城](../../characters/城.md) (성 성) [誠](../../characters/誠.md) (정성 성) [盛](../../characters/盛.md) (담을 성) [省 (char)](../../characters/省%20(char).md) (살필 성) [星 (char)](../../characters/星%20(char).md) (별 성) [聖](../../characters/聖.md) (성스러울 성) [聲](../../characters/声.md) (소리 성)
 
 #### 세
-
-[[世]] (세상 세) [[洗]] (씻을 세) [[税|稅]] (세금 세) [[細]] (가늘 세) [[勢]] (기세 세) [[歳|歲]] (해 세)
+[世](../../characters/世.md) (세상 세) [洗 (char)](../../characters/洗%20(char).md) (씻을 세) [[税|稅]] (세금 세) [細 (char)](../../characters/細%20(char).md) (가늘 세) [勢](../../characters/勢.md) (기세 세) [[歳|歲]] (해 세)
 
 #### 소
-
-[[小]] (작을 소) [[少]] (적을 소) [[所]] (바 소) [[消]] (사라질 소) [[素]] (흴 소) [[笑]] (웃을 소)
+[小 (char)](../../characters/小%20(char).md) (작을 소) [少 (char)](../../characters/少%20(char).md) (적을 소) [所 (char)](../../characters/所%20(char).md) (바 소) [消 (char)](../../characters/消%20(char).md) (사라질 소) [素](../../characters/素.md) (흴 소) [笑 (char)](../../characters/笑%20(char).md) (웃을 소)
 
 #### 속
-
-[[俗]] (풍속 속) [[速]] (빠를 속) [[続|續]] (이을 속)
+[俗 (char)](../../characters/俗%20(char).md) (풍속 속) [速 (char)](../../characters/速%20(char).md) (빠를 속) [續](../../characters/続.md) (이을 속)
 
 #### 손
-
-[[孫]] (손자 손)
+[孫](../../characters/孫.md) (손자 손)
 
 #### 송
-
 [松](../../characters/松%20(char).md) (소나무 송) [送 (char)](../../characters/送%20(char).md) (보낼 송)
 
 #### 수
-
-[[水 (char)]] (물 수) [[手]] (손 수) [[受]] (받을 수) [[授]] (줄 수) [[首]] (머리 수) [[守]] (지킬 수) [[収|收]] (거둘 수) [[誰 (char)]] (누구 수) [[須]] (모름지기 수) [[雖]] (비록 수) [[愁]] (시름 수) [[樹]] (나무 수) [[寿|壽]] (목숨 수) [[数|數]] (셀 수) [[修]] (닦을 수) [[秀]] (빼어날 수)
+[[水 (char)]] (물 수) [手 (char)](../../characters/手%20(char).md) (손 수) [受](../../characters/受.md) (받을 수) [授](../../characters/授.md) (줄 수) [首](../../characters/首.md) (머리 수) [守](../../characters/守.md) (지킬 수) [收](../../characters/収.md) (거둘 수) [誰 (char)](../../characters/誰%20(char).md) (누구 수) [須](../../characters/須.md) (모름지기 수) [雖 (char)](../../characters/雖%20(char).md) (비록 수) [愁](../../characters/愁.md) (시름 수) [樹](../../characters/樹.md) (나무 수) [壽](../../characters/寿.md) (목숨 수) [數](../../characters/数.md) (셀 수) [修](../../characters/修.md) (닦을 수) [秀 (char)](../../characters/秀%20(char).md) (빼어날 수)
 
 #### 숙
-
-[[叔]] (아재비 숙) [[淑]] (맑을 숙) [[宿]] (묵을 숙)
+[叔](../../characters/叔.md) (아재비 숙) [淑](../../characters/淑.md) (맑을 숙) [宿](../../characters/宿.md) (묵을 숙)
 
 #### 순
 
@@ -476,205 +456,156 @@
 [[氏]] (각시 씨)
 
 #### 식
-
-[[食 (char)]] (먹을 식) [[式]] (법 식) [[植]] (심을 식) [[識]] (알 식)
+[[食 (char)]] (먹을 식) [式](../../characters/式.md) (법 식) [植](../../characters/植.md) (심을 식) [識](../../characters/識.md) (알 식)
 
 #### 신
-
-[[身]] (몸 신) [[申]] (원숭이 신) [[神]] (귀신 신) [[臣]] (신하 신) [[信]] (믿을 신) [[characters/辛]] (매울 신) [新 (char)](characters/新%20(char).md) (새 신)
+[身](../../characters/身.md) (몸 신) [申](../../characters/申.md) (원숭이 신) [神 (char)](../../characters/神%20(char).md) (귀신 신) [臣](../../characters/臣.md) (신하 신) [信](../../characters/信.md) (믿을 신) [[characters/辛]] (매울 신) [新 (char)](characters/新%20(char).md) (새 신)
 
 #### 실
-
-[[失]] (잃을 실) [[室]] (집 실) [[実|實]] (열매 실)
+[失](../../characters/失.md) (잃을 실) [室](../../characters/室.md) (집 실) [實](../../characters/実.md) (열매 실)
 
 #### 심
-
-[[心]] (마음 심) [[甚]] (심할 심) [[深]] (깊을 심)
+[心 (char)](../../characters/心%20(char).md) (마음 심) [甚](../../characters/甚.md) (심할 심) [深](../../characters/深.md) (깊을 심)
 
 #### 십
-
-[[十]] (열 십)
+[十](../../characters/十.md) (열 십)
 
 ## ㅇ 
-
 #### 아
-
 [[児 (char)|兒]] (아이 아) [[我 (char)]] (나 아)
 
 #### 악
-
 [[悪 (char)|惡]] (악할 악)
 
 #### 안
-
-[[安]] (편안할 안) [[案]] (책상 안) [[顔]] (얼굴 안) [[眼]] (눈 안)
+[安](../../characters/安.md) (편안할 안) [案](../../characters/案.md) (책상 안) [顔](../../characters/顔.md) (얼굴 안) [眼](../../characters/眼.md) (눈 안)
 
 #### 암
-
-[[暗]] (어두울 암) [[岩|巖]] / [[岩]] (바위 암)
+[暗 (char)](../../characters/暗%20(char).md) (어두울 암) [巖](../../characters/岩.md) /岩 (바위 암)
 
 #### 앙
-
-[[仰]] (우러를 앙)
+[仰](../../characters/仰.md) (우러를 앙)
 
 #### 애
-
-[[愛]] (사랑 애) [[哀]] (슬플 애)
+[愛 (char)](../../characters/愛%20(char).md) (사랑 애) [哀](../../characters/哀.md) (슬플 애)
 
 #### 야
-
-[[也]] (어조사 야) [[夜]] (밤 야) [[野]] (들 야)
+[也 (char)](../../characters/也%20(char).md) (어조사 야) [夜 (char)](../../characters/夜%20(char).md) (밤 야) [野](../../characters/野.md) (들 야)
 
 #### 약
-
-[[弱]] (약할 약) [[若]] (같을 약) [[約]] (약속할 약) [[薬 (char)|藥]] (약 약)
+[弱 (char)](../../characters/弱%20(char).md) (약할 약) [若 (char)](../../characters/若%20(char).md) (같을 약) [約](../../characters/約.md) (약속할 약) [藥](../../characters/薬%20(char).md) (약 약)
 
 #### 양
-
-[[羊]] (양 양) [[洋]] (바다 양) [[養]] (기를 양) [[揚]] (오를 양) [[陽]] (볕 양) [[譲 (char)|讓]] (사양할 양)
+[羊](../../characters/羊.md) (양 양) [洋](../../characters/洋.md) (바다 양) [養](../../characters/養.md) (기를 양) [揚 (char)](../../characters/揚%20(char).md) (오를 양) [陽 (char)](../../characters/陽%20(char).md) (볕 양) [[譲 (char)|讓]] (사양할 양)
 
 #### 어
-
-[魚 (char)](characters/魚%20(char).md) (물고기 어) [[漁]] (고기 잡을 어) [[於]] (어조사 어) [[語]] (말씀 어)
+[魚 (char)](characters/魚%20(char).md) (물고기 어) [漁](../../characters/漁.md) (고기 잡을 어) [於 (char)](../../characters/於%20(char).md) (어조사 어) [語](../../characters/語.md) (말씀 어)
 
 #### 억
-
-[[億]] (억 억) [[憶]] (생각할 억)
+[億](../../characters/億.md) (억 억) [憶](../../characters/憶.md) (생각할 억)
 
 #### 언
 
 [言 (char)](characters/言%20(char).md) (말씀 언)
 
 #### 엄
-
-[嚴](厳) (엄할 엄)
+[[厳 (char)|嚴]] (엄할 엄)
 
 #### 업
-
 [業 (char)](characters/業%20(char).md) (업 업)
 
 #### 여
-
-[[余]] (나 여) [[余|餘]] (남을 여) [[如]] (같을 여) [[汝]] (너 여) [[与 (char)|與]] (줄 여)
+[余](../../characters/余.md) (나 여) 余 <-- 餘 (남을 여) [如 (char)](../../characters/如%20(char).md) (같을 여) [汝 (char)](../../characters/汝%20(char).md) (너 여) [[与 (char)|與]] (줄 여)
 
 #### 역
-
-[[亦]] (또 역) [[易]] (바꿀 역) [[逆]] (거스를 역)
+[亦 (char)](../../characters/亦%20(char).md) (또 역) [易](../../characters/易.md) (바꿀 역) [逆 (char)](../../characters/逆%20(char).md) (거스를 역)
 
 #### 연
-
-[[然]] (그러할 연) [[煙]] (연기 연) [[研|硏]] (갈 연)
+[然 (char)](../../characters/然%20(char).md) (그러할 연) [煙](../../characters/煙.md) (연기 연) [硏](../../characters/研.md) (갈 연)
 
 #### 열
-
-[[熱]] (더울 열) [[悦|悅]] (기쁠 열)
+[熱 (char)](../../characters/熱%20(char).md) (더울 열) [悅](../../characters/悦.md) (기쁠 열)
 
 #### 염
-
-[[炎]] (불탈 염)
+[炎](../../characters/炎.md) (불탈 염)
 
 #### 엽
-
 [葉 (char)](characters/葉%20(char).md) (잎 엽)
 
 #### 영
-
-[[永]] (길 영) [[英]] (꽃부리 영) [[迎]] (맞이할 영) [[栄|榮]] (영화로울 영)
+[永](../../characters/永.md) (길 영) [英](../../characters/英.md) (꽃부리 영) [迎](../../characters/迎.md) (맞이할 영) [[栄|榮]] (영화로울 영)
 
 #### 예
-
 [[芸|藝]] (기예 예)
 
 #### 오
-
-[[五 (char)|五]] (다섯 오) [[吾]] (나 오) [[悟]] (깨달을 오) [[午]] (낮 오) [[誤]] (그르칠 오) [[烏]] (까마귀 오)
+[[五 (char)|五]] (다섯 오) [吾](../../characters/吾.md) (나 오) [悟](../../characters/悟.md) (깨달을 오) [午](../../characters/午.md) (낮 오) [誤](../../characters/誤.md) (그르칠 오) [烏](../../characters/烏.md) (까마귀 오)
 
 #### 옥
-
-[[玉]] (구슬 옥) [[屋]] (집 옥)
+[玉 (char)](../../characters/玉%20(char).md) (구슬 옥) [屋 (char)](../../characters/屋%20(char).md) (집 옥)
 
 #### 와
-
-[[瓦]] (기와 와) [[臥]] (누울 와)
+[瓦 (char)](../../characters/瓦%20(char).md) (기와 와) [臥 (char)](../../characters/臥%20(char).md) (누울 와)
 
 #### 완
-
-[[完]] (완전할 완)
+[完](../../characters/完.md) (완전할 완)
 
 #### 왈
-
-[[曰]] (가로 왈)
+[曰 (char)](../../characters/曰%20(char).md) (가로 왈)
 
 #### 왕
-
-[[王]] (임금 왕) [[往]] (갈 왕)
+[王 (char)](../../characters/王%20(char).md) (임금 왕) [往 (char)](../../characters/往%20(char).md) (갈 왕)
 
 #### 외
 
 [[外]] (밖 외)
 
 #### 요
-
-[[要]] (구할 요)
+[要](../../characters/要.md) (구할 요)
 
 #### 욕
-
-[[欲]] (하고자 할 욕) [[浴]] (목욕할 욕)
+[欲](../../characters/欲.md) (하고자 할 욕) [浴](../../characters/浴.md) (목욕할 욕)
 
 #### 용
-
-[[用]] (쓸 용) [[容]] (얼굴 용) [[勇]] (날랠 용)
+[用](../../characters/用.md) (쓸 용) [容 (char)](../../characters/容%20(char).md) (얼굴 용) [勇](../../characters/勇.md) (날랠 용)
 
 #### 우
-
-[[于 (char)]] (어조사 우) [[宇]] (집 우) [[右]] (오른쪽 우) [[友]] (벗 우) [[牛]] (소 우) [雨](characters/雨%20(char).md) (비 우) [[憂]] (근심할 우) [[又]] (또 우) [[尤]] (더욱 우) [[遇]] (만날 우)
+[[于 (char)]] (어조사 우) [宇](../../characters/宇.md) (집 우) [右](../../characters/右.md) (오른쪽 우) [友](../../characters/友.md) (벗 우) [牛 (char)](../../characters/牛%20(char).md) (소 우) [雨](characters/雨%20(char).md) (비 우) [憂](../../characters/憂.md) (근심할 우) [又 (char)](../../characters/又%20(char).md) (또 우) [尤](../../characters/尤.md) (더욱 우) [遇 (char)](../../characters/遇%20(char).md) (만날 우)
 
 #### 운
-
-[[雲 (char)|云]] (이를 운) [[雲 (char)]] (구름 운) [[運]] (돌 운)
+[[雲 (char)|云]] (이를 운) [[雲 (char)]] (구름 운) [運](../../characters/運.md) (돌 운)
 
 #### 웅
-
-[[雄]] (수컷 웅)
+[雄 (char)](../../characters/雄%20(char).md) (수컷 웅)
 
 #### 원
-
-[[元]] (으뜸 원) [[原]] (근원 원) [[願]] (바랄 원) [[遠]] (멀 원) [[園]] (동산 원) [[怨]] (원망할 원) [圓](characters/圓%20(char).md) (둥글 원)
+[元](../../characters/元.md) (으뜸 원) [原](../../characters/原.md) (근원 원) [願](../../characters/願.md) (바랄 원) [遠 (char)](../../characters/遠%20(char).md) (멀 원) [園](../../characters/園.md) (동산 원) [怨](../../characters/怨.md) (원망할 원) [圓](characters/圓%20(char).md) (둥글 원)
 
 #### 월
-
 [月](characters/月%20(char).md) (달 월)
 
 #### 위
-
-[[位]] (자리 위) [[危]] (위태할 위) [[為 (char)|爲]] (할 위) [[偉]] (훌륭할 위) [[威]] (위엄 위)
+[位](../../characters/位.md) (자리 위) [危](../../characters/危.md) (위태할 위) [[為 (char)|爲]] (할 위) [偉](../../characters/偉.md) (훌륭할 위) [威](../../characters/威.md) (위엄 위)
 
 #### 유
-
-[[由 (char)]] (말미암을 유) [[油 (char)]] (기름 유) [[酉]] (닭 유) [有](characters/有%20(char).md) (있을 유) [[猶]] (오히려 유) [[唯]] (오직 유) [[遊]] (놀 유) [[柔]] (부드러울 유) [[遺]] (끼칠 유) [[幼]] (어릴 유)
+[[由 (char)]] (말미암을 유) [[油 (char)]] (기름 유) [酉](../../characters/酉.md) (닭 유) [有](characters/有%20(char).md) (있을 유) [猶 (char)](../../characters/猶%20(char).md) (오히려 유) [唯 (char)](../../characters/唯%20(char).md) (오직 유) [遊](../../characters/遊.md) (놀 유) [柔 (char)](../../characters/柔%20(char).md) (부드러울 유) [遺 (char)](../../characters/遺%20(char).md) (끼칠 유) [幼](../../characters/幼.md) (어릴 유)
 
 #### 육
-
-[[肉]] (고기 육) [[育]] (기를 육)
+[肉 (char)](../../characters/肉%20(char).md) (고기 육) [育 (char)](../../characters/育%20(char).md) (기를 육)
 
 #### 은
-
-[[恩]] (은혜 은) [[銀 (char)]] (은 은)
+[恩](../../characters/恩.md) (은혜 은) [[銀 (char)]] (은 은)
 
 #### 을
-
 [[乙 (char)]] (새 을)
 
 #### 음
-
-[[音]] (소리 음) [[吟]] (읊을 음) [[飲|飮]] (마실 음) [[陰 (char)]] (그늘 음)
+[音](../../characters/音.md) (소리 음) [吟](../../characters/吟.md) (읊을 음) [[飲|飮]] (마실 음) [[陰 (char)]] (그늘 음)
 
 #### 읍
-
-[[邑]] (고을 읍) [[泣]] (울 읍)
+[邑](../../characters/邑.md) (고을 읍) [泣 (char)](../../characters/泣%20(char).md) (울 읍)
 
 #### 응
-
 [[応|應]] (응할 응)
 
 #### 의
@@ -708,48 +639,37 @@
 [作 (char)](../../characters/作%20(char).md) (지을 작) [昨 (char)](../../characters/昨%20(char).md) (어제 작)
 
 #### 장
-
-[[長 (char)]] (길 장) [[章 (char)]] (글 장) [[場]] (마당 장) [[将 (char)|將]] (장차 장) [[壮|壯]] (씩씩할 장)
+[[長 (char)]] (길 장) [[章 (char)]] (글 장) [場](../../characters/場.md) (마당 장) [[将 (char)|將]] (장차 장) [[壮|壯]] (씩씩할 장)
 
 #### 재
-
-[[才]] (재주 재) [[材]] (재목 재) [[財]] (재물 재) [[在 (char)]] (있을 재) [[栽]] (심을 재) [[再]] (두 재) [[哉]] (어조사 재)
+[才](../../characters/才.md) (재주 재) [材](../../characters/材.md) (재목 재) [財](../../characters/財.md) (재물 재) [[在 (char)]] (있을 재) [栽](../../characters/栽.md) (심을 재) [再](../../characters/再.md) (두 재) [哉 (char)](../../characters/哉%20(char).md) (어조사 재)
 
 #### 쟁
-
-[[争|爭]] (다툴 쟁)
+[爭](../../characters/争.md) (다툴 쟁)
 
 #### 저
-
-[著](characters/着%20(char).md) (나타날 저) [[貯]] (쌓을 저) [[低]] (밑 저)
+[著](characters/着%20(char).md) (나타날 저) [貯](../../characters/貯.md) (쌓을 저) [低](../../characters/低.md) (밑 저)
 
 #### 적
-
-[的](../../characters/的.md) (과녁 적) [赤 (char)](../../characters/赤%20(char).md) (붉을 적) [適](../../characters/適.md) (갈 적) [[敵]] (원수 적)
+[的](../../characters/的.md) (과녁 적) [赤 (char)](../../characters/赤%20(char).md) (붉을 적) [適](../../characters/適.md) (갈 적) [敵](../../characters/敵.md) (원수 적)
 
 #### 전
-
-[[田]] (밭 전) [全](characters/全%20(char).md) (온전할 전) [[典]] (법 전) [[前]] (앞 전) [[展]] (펼 전) [[戦|戰]] (싸울 전) [[電]] (번개 전) [[銭|錢]] (돈 전) [[伝|傳]] (전할 전)
+[田](../../characters/田.md) (밭 전) [全](characters/全%20(char).md) (온전할 전) [典](../../characters/典.md) (법 전) [前 (char)](../../characters/前%20(char).md) (앞 전) [展](../../characters/展.md) (펼 전) [戰](../../characters/戦.md) (싸울 전) [電](../../characters/電.md) (번개 전) [錢](../../characters/銭.md) (돈 전) [傳](../../characters/伝.md) (전할 전)
 
 #### 절
-
-[[節]] (마디 절) [[絶]] (끊을 절)
+[節 (char)](../../characters/節%20(char).md) (마디 절) [絶 (char)](../../characters/絶%20(char).md) (끊을 절)
 
 #### 점
-
-[[店]] (가게 점)
+[店](../../characters/店.md) (가게 점)
 
 #### 접
-
 [接](characters/接%20(char).md) (사귈 접)
 
 #### 정
-
-[丁 (char)](characters/丁%20(char).md) (고무래 정) [[停]] (머무를 정) [[頂]] (정수리 정) [[井]] (우물 정) [[正]] (바를 정) [[政]] (정사 정) [[定]] (정할 정) [[貞]] (곧을 정) [[精]] (정할 정) [[情]] (뜻 정) [[静|靜]] (고요할 정) [[浄|淨]] (깨끗할 정) [[庭]] (뜰 정)
+[丁 (char)](characters/丁%20(char).md) (고무래 정) [停](../../characters/停.md) (머무를 정) [頂](../../characters/頂.md) (정수리 정) [井](../../characters/井.md) (우물 정) [正 (char)](../../characters/正%20(char).md) (바를 정) [政](../../characters/政.md) (정사 정) [定](../../characters/定.md) (정할 정) [貞](../../characters/貞.md) (곧을 정) [精](../../characters/精.md) (정할 정) [情](../../characters/情.md) (뜻 정) [靜](../../characters/静.md) (고요할 정) [淨](../../characters/浄.md) (깨끗할 정) [庭](../../characters/庭.md) (뜰 정)
 
 #### 제
-
-[[弟]] (아우 제) [[第]] (차례 제) [[祭]] (제사 제) [[帝]] (임금 제) [[題]] (표제 제) [[除]] (덜 제) [[諸]] (모두 제) [[製]] (지을 제)
+[弟 (char)](../../characters/弟%20(char).md) (아우 제) [第 (char)](../../characters/第%20(char).md) (차례 제) [祭](../../characters/祭.md) (제사 제) [帝](../../characters/帝.md) (임금 제) [題](../../characters/題.md) (표제 제) [除](../../characters/除.md) (덜 제) [諸 (char)](../../characters/諸%20(char).md) (모두 제) [製](../../characters/製.md) (지을 제)
 
 #### 조
 
@@ -760,52 +680,40 @@
 [足 (char)](characters/足%20(char).md) (발 족) [[族]] (겨레 족)
 
 #### 존
-
-[[存]] (있을 존) [[尊]] (높을 존)
+[存](../../characters/存.md) (있을 존) [尊](../../characters/尊.md) (높을 존)
 
 #### 졸
-
-[[卒]] (군사 졸)
+[卒](../../characters/卒.md) (군사 졸)
 
 #### 종
-
-[[宗]] (마루 종) [[種]] (씨 종) [[鐘]] (종 종) [[終]] (끝날 종) [[従 (char)|從]] (좇을 종)
+[宗](../../characters/宗.md) (마루 종) [種](../../characters/種.md) (씨 종) [鐘 (char)](../../characters/鐘%20(char).md) (종 종) [終](../../characters/終.md) (끝날 종) [[従 (char)|從]] (좇을 종)
 
 #### 좌
-
-[[左]] (왼 좌) [[坐]] (앉을 좌)
+[左](../../characters/左.md) (왼 좌) [坐 (char)](../../characters/坐%20(char).md) (앉을 좌)
 
 #### 죄
-
-[[罪]] (허물 죄)
+[罪 (char)](../../characters/罪%20(char).md) (허물 죄)
 
 #### 주
-
-[[主]] (주인 주) [[注]] (물댈 주) [[住]] (살 주) [[朱]] (붉을 주) [[宙 (char)]] (집 주) [[走 (char)]] (달릴 주) [[酒]] (술 주) [[昼|晝]] (낮 주)
+[主](../../characters/主.md) (주인 주) [注](../../characters/注.md) (물댈 주) [住](../../characters/住.md) (살 주) [朱](../../characters/朱.md) (붉을 주) [[宙 (char)]] (집 주) [[走 (char)]] (달릴 주) [酒](../../characters/酒.md) (술 주) [[昼|晝]] (낮 주)
 
 #### 죽
-
-[[竹]] (대 죽)
+[竹 (char)](../../characters/竹%20(char).md) (대 죽)
 
 #### 중
-
-[[中 (char)]] (가운데 중) [[重]] (무거울 중) [[衆]] (무리 중)
+[[中 (char)]] (가운데 중) [重 (char)](../../characters/重%20(char).md) (무거울 중) [衆](../../characters/衆.md) (무리 중)
 
 #### 즉
-
 [[即 (char)|卽]] (곧 즉)
 
 #### 증
-
 [[曽 (char)|曾]] (일찍 증) [[増|增]] (더할 증) [[証|證]] (증거 증)
 
 #### 지
-
-[[只]] (다만 지) [[支]] (지탱할 지) [[枝]] (가지 지) [[止]] (그칠 지) [[之 (char)]] (갈 지) [[知]] (알 지) [[地]] (땅 지) [[指]] (손가락 지) [[志]] (뜻 지) [[至]] (이를 지) [[紙]] (종이 지) [[持]] (가질 지)
+[只 (char)](../../characters/只%20(char).md) (다만 지) [支](../../characters/支.md) (지탱할 지) [枝](../../characters/枝.md) (가지 지) [止](../../characters/止.md) (그칠 지) [[之 (char)]] (갈 지) [知 (char)](../../characters/知%20(char).md) (알 지) [地 (char)](../../characters/地%20(char).md) (땅 지) [指](../../characters/指.md) (손가락 지) [志](../../characters/志.md) (뜻 지) [至 (char)](../../characters/至%20(char).md) (이를 지) [紙 (char)](../../characters/紙%20(char).md) (종이 지) [持 (char)](../../characters/持%20(char).md) (가질 지)
 
 #### 직
-
-[[直]] (곧을 직)
+[直 (char)](../../characters/直%20(char).md) (곧을 직)
 
 #### 진
 [辰](../../characters/辰.md) (별 진) [[真 (char)|眞]] (참 진) [進](../../characters/進.md) (나아갈 진) [[尽|盡]] (다할 진)
@@ -860,44 +768,34 @@
 [靑](../../characters/青%20(char).md) (푸를 청) [淸](../../characters/清.md) (맑을 청) [晴](../../characters/晴.md) (갤 청) [請 (char)](../../characters/請%20(char).md) (청할 청) [聽](../../characters/聴%20(char).md) (들을 청)
 
 #### 체
-
 [體](../../characters/体.md) (몸 체)
 
 #### 초
-
-[[初]] (처음 초) [[草 (char)]] (풀 초) [[招]] (부를 초)
+[初](../../characters/初.md) (처음 초) [[草 (char)]] (풀 초) [招](../../characters/招.md) (부를 초)
 
 #### 촌
-
-[[寸]] (마디 촌) [[村]] (마을 촌)
+[寸 (char)](../../characters/寸%20(char).md) (마디 촌) [村](../../characters/村.md) (마을 촌)
 
 #### 최
-
-[[最]] (가장 최)
+[最 (char)](../../characters/最%20(char).md) (가장 최)
 
 #### 추
-
-[[秋]] (가을 추) [[追]] (쫓을 추) [推 (char)](characters/推%20(char).md) (밀 추)
+[秋 (char)](../../characters/秋%20(char).md) (가을 추) [追 (char)](../../characters/追%20(char).md) (쫓을 추) [推 (char)](characters/推%20(char).md) (밀 추)
 
 #### 축
-
-[[characters/丑]] (소 축) [[祝]] (빌 축)
+[[characters/丑]] (소 축) [祝](../../characters/祝.md) (빌 축)
 
 #### 춘
-
-[[春]] (봄 춘)
+[春 (char)](../../characters/春%20(char).md) (봄 춘)
 
 #### 출
-
 [[出 (char)]] (날 출)
 
 #### 충
-
-[[充]] (찰 충) [[忠]] (충성 충) <btn class="btn-warning">蟲</btn> (벌레 충)
+[充](../../characters/充.md) (찰 충) [忠](../../characters/忠.md) (충성 충) [蟲](../../characters/虫.md) (벌레 충)
 
 #### 취
-
-[[取]] (취할 취) [[吹]] (불 취) [[就 (char)]] (이룰 취)
+[取](../../characters/取.md) (취할 취) [吹 (char)](../../characters/吹%20(char).md) (불 취) [[就 (char)]] (이룰 취)
 
 #### 치
 [治](../../characters/治.md) (다스릴 치) [致 (char)](../../characters/致%20(char).md) (보낼 치) [[歯 (char)|齒]] (이 치)
