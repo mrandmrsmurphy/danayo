@@ -1,3 +1,7 @@
+---
+tags: book
+---
+
 > [List of Books](List%20of%20Books.md)
 > _Rites of Zhou_
 

@@ -1,5 +1,7 @@
 ---
 size: 81
+tags:
+  - book
 ---
 > [List of Books](List%20of%20Books.md)
 ## 1

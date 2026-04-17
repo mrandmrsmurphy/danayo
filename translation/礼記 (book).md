@@ -1,3 +1,7 @@
+---
+tags: book
+---
+
 > [List of Books](List%20of%20Books.md)
 > <ruby>[礼記](/words/礼記.md)<rt>ㄌㄝ˙ㄍ˙</rt></ruby> - Book of Rites
 

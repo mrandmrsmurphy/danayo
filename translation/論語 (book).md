@@ -1,3 +1,9 @@
+---
+size: 20
+tags:
+  - book
+---
+
 > [List of Books](List%20of%20Books.md)
 > <ruby>[論語](/words/論語.md)<rt>ㄌㄛㄋ·˙ㄛ</rt></ruby>
 
