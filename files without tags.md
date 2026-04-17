@@ -1,7 +1,7 @@
 
 ```dataview
 TABLE file.link, file.tags
-FROM outgoing([[lookup/Korean/Korean HS]])
+FROM outgoing([[lookup/Korean/Korean MS]])
 WHERE contains(file.tags, "#word")
 SORT file.name ASC
 ```
