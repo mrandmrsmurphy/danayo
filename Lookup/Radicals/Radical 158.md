@@ -1,9 +1,14 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-04-17
 radical: 身
 ---
-> [[Radicals]]
+> [Radicals](Radicals.md)
+> The **body** radical
+
+## Characters
+1. <ruby>[身](/characters/身.md)<rt>ㄙㄧㄋ</rt></ruby> "body"
+2. <ruby>[躬](/characters/躬.md)<rt>ㄍㄨㄥ</rt></ruby> "the emperor's body"
 
 ## Data search
 ```dataview

@@ -306,9 +306,9 @@ views:
       - radical
       - date-last-perfect
     sort:
-      - property: file.name
-        direction: DESC
       - property: size
+        direction: ASC
+      - property: file.name
         direction: DESC
 
 ```
