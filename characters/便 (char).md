@@ -1,8 +1,8 @@
 ---
 mandarin: biàn
 cantonese: bin6
-korean: 변
-korean_native: ""
+korean: 편
+korean_native: 편할
 japanese:
   - BEN
   - BIN

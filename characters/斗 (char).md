@@ -2,33 +2,33 @@
 mandarin: dòu dǒu
 cantonese: dau3
 korean: 두
-korean_native: ''
+korean_native: 말
 japanese:
-- TO
-- TOU
-japanese_nanori: ''
-vietnamese: null
+  - TO
+  - TOU
+japanese_nanori: ""
+vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ǝu
 stroke_count: 4
 radical: 斗
 skip_number: 3-2-2
-grade_level: '3'
-pos: ''
+grade_level: "3"
+pos: ""
 english:
-- peck
-- Dipper
+  - peck
+  - Dipper
 羅馬字: dou
 韓文: 돗
 joyo_level: 高等
-hsk_level: ''
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3147
 mc_id: 944
 graphemic_classification: 象形
 stand_in: 斗
 aliases:
-- 鬥
+  - 鬥
 注音: ㄉㄛˇ
 tags:
   - character

@@ -1,8 +1,8 @@
 ---
-mandarin: "lù"
-cantonese: "lou6"
-korean: "노"
-korean_native: ""
+mandarin: lù
+cantonese: lou6
+korean: 로
+korean_native: 이슬
 japanese:
   - RO
 japanese_nanori: ""

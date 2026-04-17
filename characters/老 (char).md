@@ -1,7 +1,7 @@
 ---
 mandarin: lǎo
 cantonese: lou5
-korean: 노
+korean: 로
 korean_native: 늙은이
 japanese:
   - ROU
