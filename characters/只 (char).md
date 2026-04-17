@@ -2,36 +2,36 @@
 mandarin: zhǐ
 cantonese: zi2
 korean: 지
-korean_native: ''
+korean_native: 다만
 japanese:
-- SHI
-japanese_nanori: ''
-vietnamese: null
+  - SHI
+japanese_nanori: ""
+vietnamese:
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: iᴇ
 stroke_count: 5
 radical: 口
 skip_number: 2-3-2
-grade_level: '3'
-pos: ''
+grade_level: "3"
+pos: ""
 english:
-- only
-- just
-- simply
-- merely
+  - only
+  - just
+  - simply
+  - merely
 羅馬字: ce
 韓文: 처
 joyo_level: 日本人名用漢字
-hsk_level: ''
+hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 3052
 mc_id: 2110
 graphemic_classification: 象形
 stand_in: 只
 aliases:
-- 戠
-- 衹
-- 隻
+  - 戠
+  - 衹
+  - 隻
 注音: ㄑㄝ
 tags:
   - character

@@ -1,8 +1,8 @@
 ---
-mandarin: "ruò"
-cantonese: "joek6"
-korean: "야"
-korean_native: ""
+mandarin: ruò
+cantonese: joek6
+korean: 야
+korean_native: 같을
 japanese:
   - JAKU
   - NYAKU

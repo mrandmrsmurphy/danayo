@@ -1,8 +1,8 @@
 ---
-mandarin: "nòng"
-cantonese: "lung6"
-korean: "농"
-korean_native: ""
+mandarin: nòng
+cantonese: lung6
+korean: 롱
+korean_native: 희롱할
 japanese:
   - ROU
 japanese_nanori: ""
@@ -30,6 +30,7 @@ aliases:
 注音: ㄌㄛㄥ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 弄.
 >For the word, see [弄](words/弄.md)

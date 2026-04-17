@@ -1,8 +1,8 @@
 ---
-mandarin: "lù"
-cantonese: "luk6"
-korean: "녹"
-korean_native: ""
+mandarin: lù
+cantonese: luk6
+korean: 록
+korean_native: 사슴
 japanese:
   - ROKU
 japanese_nanori: ""

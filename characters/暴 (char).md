@@ -2,7 +2,7 @@
 mandarin: bào
 cantonese: bou6
 korean: 포
-korean_native: ""
+korean_native: 사나울
 japanese:
   - BOU
   - BAKU
