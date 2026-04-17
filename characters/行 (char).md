@@ -1,8 +1,8 @@
 ---
-mandarin: "xíng"
-cantonese: "hang4"
-korean: "항"
-korean_native: ""
+mandarin: xíng
+cantonese: hang4
+korean: 행
+korean_native: 다닐
 japanese:
   - KOU
   - GYOU

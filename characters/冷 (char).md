@@ -1,8 +1,8 @@
 ---
-mandarin: "lěng"
-cantonese: "laang5"
-korean: "냉"
-korean_native: ""
+mandarin: lěng
+cantonese: laang5
+korean: 랭
+korean_native: 찰
 japanese:
   - REI
 japanese_nanori: ""

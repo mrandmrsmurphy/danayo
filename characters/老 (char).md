@@ -1,8 +1,8 @@
 ---
-mandarin: "lǎo"
-cantonese: "lou5"
-korean: "노"
-korean_native: ""
+mandarin: lǎo
+cantonese: lou5
+korean: 노
+korean_native: 늙은이
 japanese:
   - ROU
 japanese_nanori: ""
