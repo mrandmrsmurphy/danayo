@@ -107,8 +107,8 @@
 
 ## Periodic Table
 55. [[words/康金]] in [[lexipedia/Periodic Table]]
-56. [[釩金]] in [[lexipedia/Periodic Table]]
-57. [[色金]] in [[lexipedia/Periodic Table]]
+56. [[words/釩金]] in [[lexipedia/Periodic Table]]
+57. [[words/色金]] in [[lexipedia/Periodic Table]]
 58. [[孟金]] in [[lexipedia/Periodic Table]]
 59. [[鬼金]] in [[lexipedia/Periodic Table]]
 60. [[鬼銅]] in [[lexipedia/Periodic Table]]
