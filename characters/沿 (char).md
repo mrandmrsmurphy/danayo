@@ -1,8 +1,8 @@
 ---
-mandarin: "yán"
-cantonese: "jyun4"
-korean: "연"
-korean_native: ""
+mandarin: yán
+cantonese: jyun4
+korean: 연
+korean_native: 따를
 japanese:
   - EN
 japanese_nanori: ""

@@ -6,9 +6,6 @@ formulas:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - hanmun_edu_level == "高等"
     order:
       - file.name
       - formula.score
@@ -19,9 +16,9 @@ views:
       - hanmun_edu_level
       - korean_native
     sort:
-      - property: korean_native
-        direction: ASC
       - property: hanmun_edu_level
+        direction: ASC
+      - property: korean_native
         direction: ASC
       - property: korean
         direction: ASC

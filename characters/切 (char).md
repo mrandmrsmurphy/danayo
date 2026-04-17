@@ -2,7 +2,7 @@
 mandarin: qiè
 cantonese: cit3
 korean: 체
-korean_native: ""
+korean_native: 끊을
 japanese:
   - SETSU
   - SAI
