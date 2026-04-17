@@ -1,8 +1,8 @@
 ---
-mandarin: "shěng"
-cantonese: "saang2"
-korean: "생"
-korean_native: ""
+mandarin: shěng
+cantonese: saang2
+korean: 성
+korean_native: 살필
 japanese:
   - SEI
   - SHOU

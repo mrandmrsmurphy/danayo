@@ -1,8 +1,8 @@
 ---
-mandarin: "xǐ"
-cantonese: "sai2"
-korean: "선"
-korean_native: ""
+mandarin: xǐ
+cantonese: sai2
+korean: 선
+korean_native: 씻을
 japanese:
   - SEN
 japanese_nanori: ""
@@ -30,6 +30,7 @@ aliases:
 注音: ㄙㄝㄋ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 洗.
 >For the word, see [洗](words/洗.md)

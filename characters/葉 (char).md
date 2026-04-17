@@ -1,8 +1,8 @@
 ---
-mandarin: "yè"
-cantonese: "jip6"
-korean: "섭"
-korean_native: ""
+mandarin: yè
+cantonese: jip6
+korean: 엽
+korean_native: 잎
 japanese:
   - YOU
   - SHOU
