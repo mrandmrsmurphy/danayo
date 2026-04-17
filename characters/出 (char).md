@@ -14,7 +14,7 @@ stroke_count: 5
 radical: 凵
 skip_number: 4-5-2
 grade_level: "1"
-pos: ""
+pos: 事詞
 english:
   - exit
 羅馬字: cud

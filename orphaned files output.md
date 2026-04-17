@@ -510,7 +510,7 @@
 509. [[words/技能.md]]
 510. [[words/技術.md]]
 511. [[words/抗拒.md]]
-512. [[words/拉麵.md]]
+512. [[words/拉麺]]
 513. [[words/拍手.md]]
 514. [[words/拘束.md]]
 515. [[words/拘泥.md]]
