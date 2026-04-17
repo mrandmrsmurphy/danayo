@@ -1,5 +1,4 @@
 
-> All of these that need to be redirects are done.  It remains to check that all have their hanmun level correctly filled out.
 ## ㄱ
 #### 가
 1. [架](characters/架%20(char).md) (시렁 가)
@@ -63,7 +62,7 @@
 #### 교
 [郊](../../characters/郊.md) (성 밖 교) , [較](../../characters/較.md) (견줄 교) , [巧](../../characters/巧.md) (공교할 교) , [矯](../../characters/矯.md) (바로잡을 교)
 #### 구
-[具](../../characters/具.md) (갖출 구) , [俱](characters/倶%20(char).md) (함께 구) , [區](../../characters/区.md) (지경 구) , [驅](../../characters/駆%20(char).md) (몰 구) , [苟 (char)](../../characters/苟%20(char).md) (진실로 구) , [拘](../../characters/拘.md) (잡을 구) , [狗](../../characters/狗.md) (개 구) , [丘 (char)](../../characters/丘%20(char).md) (언덕 구) , [懼](../../characters/惧.md) (두려워할 구) , [龜](亀) (땅 이름 구) , [構](../../characters/構.md) (얽을 구) , [球 (char)](../../characters/球%20(char).md) (공 구)
+[具](../../characters/具.md) (갖출 구) , [俱](characters/倶%20(char).md) (함께 구) , [區](../../characters/区.md) (지경 구) , [驅](../../characters/駆%20(char).md) (몰 구) , [苟 (char)](../../characters/苟%20(char).md) (진실로 구) , [拘](../../characters/拘.md) (잡을 구) , [狗](../../characters/狗.md) (개 구) , [丘 (char)](../../characters/丘%20(char).md) (언덕 구) , [懼](../../characters/惧.md) (두려워할 구) , [龜](../../characters/亀%20(char).md) (땅 이름 구) , [構](../../characters/構.md) (얽을 구) , [球 (char)](../../characters/球%20(char).md) (공 구)
 #### 국
 [菊 (char)](../../characters/菊%20(char).md) (국화 국) , [局 (char)](../../characters/局%20(char).md) (판 국)
 #### 군
@@ -608,7 +607,7 @@
 #### 초
 [[肖]] (닮을 초)  [[超]] (넘을 초)  [[抄]] (베낄 초)  [[礎]] (주춧돌 초)  [[秒]] (초 초)
 #### 촉
-[[促]] (재촉할 촉)  [[燭]] (촛불 촉)  [[触|觸]] (닿을 촉)
+[促 (char)](../../characters/促%20(char).md) (재촉할 촉)  [[燭]] (촛불 촉)  [[触|觸]] (닿을 촉)
 #### 총
 [[銃]] (총 총)  [[総|總]] (거느릴 총)  [[聡|聰]] (총명할 총)
 #### 최
@@ -638,41 +637,41 @@
 #### 타
 [[妥]] (온당할 타) , [[堕|墮]] (떨어질 타)
 #### 탁
-[[濁]] (흐릴 탁) , 託 <-- 托 (밀 탁) , [[濯]] (씻을 탁) , [[卓]] (높을 탁)
+[濁](../../characters/濁.md) (흐릴 탁) , 託 <-- 托 (밀 탁) , [濯](../../characters/濯.md) (씻을 탁) , [卓](../../characters/卓.md) (높을 탁)
 #### 탄
-[[炭]] (숯 탄) , [[嘆|歎]] (탄식할 탄) , [[弾|彈]] (탄알 탄) , [[誕]] (태어날 탄)
+[炭 (char)](../../characters/炭%20(char).md) (숯 탄) , [歎](../../characters/嘆%20(char).md) (탄식할 탄) , [彈](../../characters/弾.md) (탄알 탄) , [誕](../../characters/誕.md) (태어날 탄)
 #### 탈
-[[奪]] (빼앗을 탈)
+[奪](../../characters/奪.md) (빼앗을 탈)
 #### 탐
-[[貪]] (탐할 탐)
+[貪 (char)](../../characters/貪%20(char).md) (탐할 탐)
 #### 탑
-[[塔]] (탑 탑)
+[[塔 (탑 탑)
 #### 탕
 [[湯]] (끓일 탕)
 #### 태
 [[怠]] (게으름 태) , [[殆]] (위태할 태) , [[態]] (모양 태)
 #### 택
-[[沢|澤]] (못 택) , [[択|擇]] (가릴 택)
+[澤](../../characters/沢.md) (못 택) , [擇](../../characters/択.md) (가릴 택)
 #### 토
-[[吐]] (토할 토) , [[討]] (칠 토)
+[吐 (char)](../../characters/吐%20(char).md) (토할 토) , [討](../../characters/討.md) (칠 토)
 #### 통
-[[痛]] (아플 통)
+[痛](../../characters/痛.md) (아플 통)
 #### 투
-[[透]] (통할 투) , [[闘|鬪]] (싸움 투)
+[透 (char)](../../characters/透%20(char).md) (통할 투) , [鬪](../../characters/闘.md) (싸움 투)
 
 ## ㅍ
 #### 파
- [[派]](물 갈래 파) , [[播]](뿌릴 파) , [[罷]](방면할 파) , [[頗]](자못 파) , [[把]](잡을 파)
+ [派](../../characters/派.md) (물 갈래 파) , [播](../../characters/播.md) (뿌릴 파) , [罷](../../characters/罷.md) (방면할 파) , [頗 (char)](../../characters/頗%20(char).md) (자못 파) , [把](../../characters/把.md) (잡을 파)
 #### 판
- [[板]](널빤지 판) , [[販]](팔 판) , [[版]](판목 판)
+ [板](../../characters/板.md) (널빤지 판) , [販](../../characters/販.md) (팔 판) , [版](../../characters/版.md) (판목 판)
 #### 편
- [[編]](엮을 편) , [[遍]](두루 편) , [[偏]](치우칠 편)
+ [編](../../characters/編.md) (엮을 편) , [遍 (char)](../../characters/遍%20(char).md) (두루 편) , [偏 (char)](../../characters/偏%20(char).md)(치우칠 편)
 #### 평
- [[評]](평론할 평)
+ [評](../../characters/評.md) (평론할 평)
 #### 폐
- [[肺]](허파 폐) , [[廃|廢]](폐할 폐) , [[弊]](폐단 폐) , [[蔽]](덮을 폐) , [[幣]](비단 폐)
+ [肺](../../characters/肺.md) (허파 폐) , [廢](../../characters/廃.md) (폐할 폐) , [弊 (char)](../../characters/弊%20(char).md) (폐단 폐) , [蔽](../../characters/蔽.md) (덮을 폐) , [幣 (char)](../../characters/幣%20(char).md) (비단 폐)
 #### 포
- [[包]](쌀 포) , [[胞]](태보 포) , [[飽]](배부를 포) , [[浦]](물가 포) , [[捕]](사로잡을 포)
+ [包](../../characters/包.md) (쌀 포) , [胞](../../characters/胞.md) (태보 포) , [飽 (char)](../../characters/飽%20(char).md) (배부를 포) , [浦 (char)](../../characters/浦%20(char).md)(물가 포) , [捕 (char)](../../characters/捕%20(char).md)(사로잡을 포)
 #### 폭
  [[爆]](터질 폭) , [[幅]](너비 폭)
 #### 표
@@ -724,11 +723,11 @@
 #### 홀
 忽 (소홀히 할 홀) already done in MS
 #### 홍
-[[洪]] (큰물 홍)  [[弘]] (넓을 홍)  [[鴻]] (큰 기러기 홍)
+[洪](../../characters/洪.md) (큰물 홍)  [[弘]] (넓을 홍)  [[鴻]] (큰 기러기 홍)
 #### 화
-[[禾]] (벼 화)  [[禍]] (재앙 화)
+[禾 (char)](../../characters/禾%20(char).md) (벼 화)  [禍](../../characters/禍.md) (재앙 화)
 #### 확
-[[確]] (굳을 확:碻)  [[穫]] (벼 벨 확)  [[拡|擴]] (넓힐 확)
+[確](../../characters/確.md) (굳을 확:碻)  [穫](../../characters/穫.md) (벼 벨 확)  [擴](../../characters/拡.md) (넓힐 확)
 #### 환
 [丸](../../characters/丸.md) (알 환)  [換 (char)](../../characters/換%20(char).md) (바꿀 환)  [環 (char)](../../characters/環%20(char).md) (고리 환)  [還](../../characters/還.md) (돌아올 환)
 #### 황

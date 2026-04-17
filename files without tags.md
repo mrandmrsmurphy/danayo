@@ -1,3 +1,11 @@
+
+```dataview
+TABLE file.link, file.tags
+FROM outgoing([[lookup/Korean/Korean HS]])
+WHERE contains(file.tags, "#word")
+SORT file.name ASC
+```
+
 - [[words/骨.md]]
 - [[words/隔日.md]]
 - [[words/而.md]]
