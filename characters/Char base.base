@@ -8,19 +8,21 @@ views:
     name: Table
     filters:
       and:
-        - korean == "은"
+        - hanmun_edu_level == "中"
     order:
       - file.name
       - formula.score
       - danayo_id
       - korean
       - english
-      - cantonese
       - mandarin
-      - middle_chinese_initial
-      - middle_chinese_final
-      - stand_in
+      - hanmun_edu_level
+      - korean_native
     sort:
+      - property: korean_native
+        direction: ASC
+      - property: hanmun_edu_level
+        direction: ASC
       - property: korean
         direction: ASC
       - property: middle_chinese_initial
@@ -35,8 +37,6 @@ views:
         direction: ASC
       - property: middle_chinese_final
         direction: ASC
-      - property: hanmun_edu_level
-        direction: DESC
       - property: 品詞
         direction: ASC
       - property: stroke_count
