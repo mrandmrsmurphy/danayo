@@ -1,8 +1,8 @@
 ---
-mandarin: "lǚ"
-cantonese: "leoi5"
-korean: "누"
-korean_native: ""
+mandarin: lǚ
+cantonese: leoi5
+korean: 루
+korean_native: 창
 japanese:
   - RU
 japanese_nanori: ""
