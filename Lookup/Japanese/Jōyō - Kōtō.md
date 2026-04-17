@@ -373,7 +373,7 @@
 1398. [酢](../../characters/酢.md) : vinegar
 1399. [搾](../../characters/搾.md) : squeeze
 1400. [錯](../../characters/錯.md) : confused
-1401. [咲](笑) : blossom
+1401. [咲](../../characters/笑%20(char).md) : blossom
 1402. [刹](../../characters/刹.md) : temple
 1403. [拶](../../characters/拶.md) : be imminent
 1404. [撮 (char)](../../characters/撮%20(char).md) : snapshot
@@ -514,7 +514,7 @@
 1538. [辱](../../characters/辱.md) : embarrass
 1539. [尻 (char)](../../characters/尻%20(char).md) : buttocks
 1540. [伸](../../characters/伸.md) : lengthen
-1541. [芯](心) : core
+1541. [芯](../../characters/心%20(char).md) : core
 1542. [辛](../../characters/辛.md) : spicy, zodiac
 1543. [侵](../../characters/侵.md) : encroach
 1544. [津](../../characters/津.md) : haven
@@ -568,14 +568,14 @@
 1592. [斥](../../characters/斥.md) : reject
 1593. [析](../../characters/析.md) : chop
 1594. [脊](../../characters/脊.md) : stature
-1595. [隻](只) : vessels
+1595. [隻](../../characters/只%20(char).md) : vessels
 1596. [惜 (char)](characters/惜%20(char).md) : pity
 1597. [戚](../../characters/戚.md) : grieve
 1598. [跡](../../characters/跡.md) : tracks
 1599. [籍](../../characters/籍.md) : enroll
 1600. [拙](../../characters/拙.md) : bungling
 1601. [窃](../../characters/窃.md) : 	[[窃|竊]]	stealth
-1602. [摂 (char)](../../characters/摂%20(char).md) : 	[[摂|攝]]	vicarious
+1602. [摂 (char)](../../characters/摂%20(char).md) : 	攝	vicarious
 1603. [仙](../../characters/仙.md) : hermit
 1604. [占 (char)](../../characters/占%20(char).md) : fortune telling
 1605. [扇](../../characters/扇.md) : fan
@@ -743,7 +743,7 @@
 1766. [徹](../../characters/澈.md) : penetrate
 1767. [撤 (char)](../../characters/撤%20(char).md) : remove
 1768. [添](../../characters/添.md) : annexed
-1769. [塡](填) :  fill in
+1769. [塡](../../characters/填%20(char).md) :  fill in
 1770. [殿](../../characters/殿.md) : Mr.
 1771. [斗 (char)](../../characters/斗%20(char).md) : Big Dipper
 1772. [吐 (char)](../../characters/吐%20(char).md) : spit
@@ -796,7 +796,7 @@
 1819. [鍋 (char)](../../characters/鍋%20(char).md) : pot
 1820. [軟](../../characters/軟.md) : soft
 1821. [尼](../../characters/尼.md) : nun
-1822. [弐](貳) :	two (falsification prevention)
+1822. [弐](../../characters/貳%20(char).md) :	two (falsification prevention)
 1823. 匂 : scent      FORBIDDEN!!!
 1824. [虹](../../characters/虹.md) : rainbow
 1825. [尿 (char)](../../characters/尿%20(char).md) : urine
@@ -907,7 +907,7 @@
 1930. [墳](../../characters/墳.md) : tomb
 1931. [憤](../../characters/憤.md) : aroused
 1932. [丙 (char)](../../characters/丙%20(char).md) : third class
-1933. [併](並) 	倂	join
+1933. [併](../../characters/並%20(char).md) 	倂	join
 1934. [柄 (char)](characters/柄%20(char).md): design
 1935. 塀 : 	塀	fence - FORBIDDEN!!!
 1936. [幣 (char)](characters/幣%20(char).md) : cash
@@ -970,7 +970,7 @@
 1993. [凡](../../characters/凡.md) : mediocre
 1994. [盆 (char)](../../characters/盆%20(char).md) : basin
 1995. [麻](../../characters/麻.md) : hemp
-1996. [摩](磨) : chafe
+1996. [摩](../../characters/磨%20(char).md) : chafe
 1997. [磨 (char)](../../characters/磨%20(char).md) : grind
 1998. [[characters/魔]] : witch
 1999. [昧 (char)](../../characters/昧%20(char).md) : foolish
@@ -1007,7 +1007,7 @@
 2029. [弥 (char)](characters/弥%20(char).md) : 	彌	S	all the more
 2030. [厄](characters/厄.md) : unlucky
 2031. [躍](characters/躍.md) : leap
-2032. [闇](暗) : darkness
+2032. [闇](../../characters/暗%20(char).md) : darkness
 2033. [喩](../../characters/喩.md) : metaphor
 2034. [愉](../../characters/愉.md) : pleasure
 2035. [諭](../../characters/諭.md) : rebuke
