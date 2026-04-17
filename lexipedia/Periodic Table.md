@@ -29,7 +29,7 @@ tags:
 ### D-Block
 | |   3 |   4  | 5   | 6   | 7  | 8   | 9   | 10 | 11  |  12 |
 |-|-----|------|-----|-----|----|----|----|---|---|--|
-|4| <ruby>[康金](/words/康金.md)<rt>ㄎㄚㄥㄍㄧㄇ</rt></ruby> |<ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby>|<ruby>[釩金](../words/釩金.md)<rt>ㄪㄚㄋㄍㄧㄇ</rt></ruby>| [[../words/色金]] |[[孟金]] |<ruby>[鉄](/words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>| [[鬼金]] | [[鬼銅]] |<ruby>[銅](/words/銅.md)<rt>ㄉㄛㄥ</rt></ruby>|<ruby>[亜鉛](/words/亜鉛.md)<rt>ㄚ·˙ㄝㄋ</rt></ruby>
+|4| <ruby>[康金](/words/康金.md)<rt>ㄎㄚㄥㄍㄧㄇ</rt></ruby> |<ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby>|<ruby>[釩金](../words/釩金.md)<rt>ㄪㄚㄋㄍㄧㄇ</rt></ruby>| <ruby>[色金](/words/色金.md)<rt>ㄙㄧㄎㄍㄧㄇ</rt></ruby> |[[孟金]] |<ruby>[鉄](/words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>| [[鬼金]] | [[鬼銅]] |<ruby>[銅](/words/銅.md)<rt>ㄉㄛㄥ</rt></ruby>|<ruby>[亜鉛](/words/亜鉛.md)<rt>ㄚ·˙ㄝㄋ</rt></ruby>
 |5| [[蛍金]] | [[晶金]] | Nb | Mo | Tc | Ru | Rh | Pd |<ruby>[銀](/words/銀.md)<rt>ㄧㄋ</rt></ruby>| Cd 
 |6| La | Hf | Ta | W | Re | Os | Ir |<ruby>[白金](/words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>| <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 |7| Ac | [[鈩金]] | Db | Sg | Bh | Hs | Mt | Ds |<ruby>[錀](/words/錀.md)<rt>ㄌㄛㄋ</rt></ruby>| Cn 
