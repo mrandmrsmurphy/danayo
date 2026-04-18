@@ -1,7 +1,7 @@
 ---
-mandarin: "qiáng"
-cantonese: "koeng4"
-korean: "강"
+mandarin: qiáng
+cantonese: koeng4
+korean: 강
 korean_native: 굳셀
 japanese:
   - KYOU
@@ -24,7 +24,7 @@ joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2092
-mc_id: "496.539"
+mc_id: "496"
 graphemic_classification: 弘
 stand_in: 強
 aliases:
