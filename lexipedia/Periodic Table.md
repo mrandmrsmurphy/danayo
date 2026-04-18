@@ -32,12 +32,12 @@ tags:
 |-|-----|------|-----|-----|----|----|----|---|---|--|
 |4| <ruby>[康金](/words/康金.md)<rt>ㄎㄚㄥㄍㄧㄇ</rt></ruby> |<ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby>|<ruby>[釩金](../words/釩金.md)<rt>ㄪㄚㄋㄍㄧㄇ</rt></ruby>| <ruby>[色金](/words/色金.md)<rt>ㄙㄧㄎㄍㄧㄇ</rt></ruby> | <ruby>[孟金](/words/孟金.md)<rt>ㄇㄚㄥㄍㄧㄇ</rt></ruby> |<ruby>[鉄](/words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>| <ruby>[鬼金](/words/鬼金.md)<rt>ㄍㄨ˙ㄍㄧㄇ</rt></ruby> | <ruby>[魔銅](/words/魔銅.md)<rt>ㄇㄚㄉㄛㄥ</rt></ruby> |<ruby>[銅](/words/銅.md)<rt>ㄉㄛㄥ</rt></ruby>|<ruby>[亜鉛](/words/亜鉛.md)<rt>ㄚ·˙ㄝㄋ</rt></ruby>
 |5| <ruby>[蛍金](/words/蛍金.md)<rt>ㄏㄧㄥㄍㄧㄇ</rt></ruby> | <ruby>[晶金](/words/晶金.md)<rt>ㄐㄧㄥㄍㄧㄇ</rt></ruby> | <ruby>[孝金](/words/孝金.md)<rt>ㄏ˙ㄚˇㄍㄧㄇ</rt></ruby> | 硬金 | 造金 | 露金 | 薔薇金 | 護金 |<ruby>[銀](/words/銀.md)<rt>ㄧㄋ</rt></ruby>| 炉甘金 
-|6| La | Hf | <ruby>[渇金](/words/渇金.md)<rt>ㄎㄚㄊㄍㄧㄇ</rt></ruby> | W | Re | Os | Ir |<ruby>[白金](/words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>| <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
+|6| 隠金 | Hf | <ruby>[渇金](/words/渇金.md)<rt>ㄎㄚㄊㄍㄧㄇ</rt></ruby> | W | Re | Os | Ir |<ruby>[白金](/words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>| <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 |7| Ac | <ruby>[拉金](../words/拉金.md)<rt>ㄌㄚㄆㄍㄧㄇ</rt></ruby> | Db | Sg | Bh | Hs | Mt | Ds |<ruby>[錀](/words/錀.md)<rt>ㄌㄛㄋ</rt></ruby>| Cn 
 
 <!--4: kanggim, gyogim, vangim, sikgim, manggim, tet, guigim, madong, dong, ayen //-->
 <!--5: hinggim, jinggim, hyaugim, .anggim  , caugim , logim , cwangmiiso, hogim, in, logamgim  //-->
-<!--6: . , . , katgim //-->
+<!--6: ǝn , . , katgim //-->
 <!--7: . , lapgim //-->
 ### F-Block
 #### La
