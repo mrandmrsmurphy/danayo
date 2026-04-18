@@ -114,7 +114,7 @@
 60. [[words/魔銅]] in [[lexipedia/Periodic Table]]
 61. [[words/蛍金]] in [[lexipedia/Periodic Table]]
 62. [[words/晶金]] in [[lexipedia/Periodic Table]]
-63. [[words/鈩金]] in [[lexipedia/Periodic Table]]
+63. [[words/拉金]] in [[lexipedia/Periodic Table]]
 64. [[不真]] in [[lexipedia/Sophomore List]]
 65. [[湾曲]] in [[lexipedia/Sophomore List]]
 66. [[海峽]] in [[lexipedia/Sophomore List]]
