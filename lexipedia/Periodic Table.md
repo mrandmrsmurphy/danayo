@@ -36,7 +36,7 @@ tags:
 |7| Ac | <ruby>[拉金](../words/拉金.md)<rt>ㄌㄚㄆㄍㄧㄇ</rt></ruby> | Db | Sg | Bh | Hs | Mt | Ds |<ruby>[錀](/words/錀.md)<rt>ㄌㄛㄋ</rt></ruby>| Cn 
 
 <!--4: kanggim, gyogim, vangim, sikgim, manggim, tet, guigim, madong, dong, ayen //-->
-<!--5: hinggim, jinggim, hyaugim, .  , . , logim , cwangmiiso   //-->
+<!--5: hinggim, jinggim, hyaugim, .anggim  , caugim , logim , cwangmiiso, hogim, in  //-->
 <!--6: . , . , katgim //-->
 <!--7: . , lapgim //-->
 ### F-Block
