@@ -1,33 +1,33 @@
 ---
-mandarin: "zhòng"
+mandarin: zhòng
 cantonese: cung5
-korean: "중"
-korean_native: "무거울"
+korean: 중
+korean_native: 무거울
 japanese:
   - CHOU
   - JUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: "ɖ"
-middle_chinese_final: "ɨoŋ"
+middle_chinese_initial: ɖ
+middle_chinese_final: ɨoŋ
 stroke_count: 9
-radical: "里"
+radical: 里
 skip_number: 4-9-2
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - heavy
 羅馬字: cong
-韓文: "총"
-joyo_level: 3
-hsk_level: 1
-hanmun_edu_level: "中"
+韓文: 총
+joyo_level: "3"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 157
 mc_id: 183
-graphemic_classification: "東"
-stand_in: "重"
+graphemic_classification: 東
+stand_in: 重
 aliases:
-注音: "ㄑㄛㄥ"
+注音: ㄑㄛㄥ
 tags:
   - character
 ---
