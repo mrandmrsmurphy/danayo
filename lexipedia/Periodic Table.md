@@ -16,7 +16,7 @@ tags:
 |2|<ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby>|<ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby>|<ruby>[硼素](/words/硼素.md)<rt>ㄅㄛㄥㄙㄛ</rt></ruby>|<ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby>|<ruby>[窒素](/words/窒素.md)<rt>ㄉㄝㄊㄙㄛ</rt></ruby>|<ruby>[養素](/words/養素.md)<rt>˙ㄚㄥㄙㄛ</rt></ruby>|<ruby>[弗素](/words/弗素.md)<rt>ㄈㄨㄊㄙㄛ</rt></ruby>|<ruby>[霓虹素](/words/霓虹素.md)<rt>ㄝ˙ㄏㄛㄥㄙㄛ</rt></ruby>|
 |3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ˙ㄨㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ˙ㄨㄏˇㄚㄥ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>˙ㄝㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉˇㄚㄙㄛ</rt></ruby>|
 |4|<ruby>[鉀](/words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](/words/石灰素.md)<rt>ㄙㄝㄎㄏㄛ˙ㄙㄛ</rt></ruby>|<ruby>[高素](/words/高素.md)<rt>ㄍㄚˇㄙㄛ</rt></ruby>|<ruby>[徳素](/words/徳素.md)<rt>ㄊㄨㄎㄙㄛ</rt></ruby>|<ruby>[砒素](/words/砒素.md)<rt>ㄆㄧㄙㄛ</rt></ruby>|<ruby>[月素](/words/月素.md)<rt>ˇㄝㄊㄙㄛ</rt></ruby>|<ruby>[臭素](/words/臭素.md)<rt>ㄑㄨㄙㄛ</rt></ruby>|<ruby>[潜素](/words/潜素.md)<rt>ㄐㄝㄇㄙㄛ</rt></ruby>|
-|5|<ruby>[茜素](/words/茜素.md)<rt>ㄑㄝㄋㄙㄛ</rt></ruby>| [[火紅素]] | [[紫素]] |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| [[墨素]] | [[土素]] | [[沃素]] | [[奇素]]|
+|5|<ruby>[茜素](/words/茜素.md)<rt>ㄑㄝㄋㄙㄛ</rt></ruby>| [[../words/火紅素]] | [[紫素]] |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| [[墨素]] | [[土素]] | [[沃素]] | [[奇素]]|
 |6|[[時素]]| [[重素]] | [[鉈素]] |<ruby>[鉛](/words/鉛.md)<rt>˙ㄝㄋ</rt></ruby>| [[蒼鉛]] | [[波素]] | [[不安素]] | [[射素]] |
 |7|法素| 射金 | 日本素 | 佛雷素 | 莫斯素 | 利佛素 | 田納素 | 奥加素 |
 
