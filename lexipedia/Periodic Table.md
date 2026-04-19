@@ -31,8 +31,8 @@ tags:
 | |   3 |   4  | 5   | 6   | 7  | 8   | 9   | 10 | 11  |  12 |
 |-|-----|------|-----|-----|----|----|----|---|---|--|
 |4| <ruby>[康金](/words/康金.md)<rt>ㄎㄚㄥㄍㄧㄇ</rt></ruby> |<ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby>|<ruby>[釩金](../words/釩金.md)<rt>ㄪㄚㄋㄍㄧㄇ</rt></ruby>|<ruby>[色金](/words/色金.md)<rt>ㄙㄧㄎㄍㄧㄇ</rt></ruby> | <ruby>[孟金](/words/孟金.md)<rt>ㄇㄚㄥㄍㄧㄇ</rt></ruby> |<ruby>[鉄](/words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>| <ruby>[鬼金](/words/鬼金.md)<rt>ㄍㄨ˙ㄍㄧㄇ</rt></ruby> | <ruby>[魔銅](/words/魔銅.md)<rt>ㄇㄚㄉㄛㄥ</rt></ruby> |<ruby>[銅](/words/銅.md)<rt>ㄉㄛㄥ</rt></ruby>|<ruby>[亜鉛](/words/亜鉛.md)<rt>ㄚ·˙ㄝㄋ</rt></ruby>
-|5| <ruby>[蛍金](/words/蛍金.md)<rt>ㄏㄧㄥㄍㄧㄇ</rt></ruby> | <ruby>[晶金](/words/晶金.md)<rt>ㄐㄧㄥㄍㄧㄇ</rt></ruby> | <ruby>[孝金](/words/孝金.md)<rt>ㄏ˙ㄚˇㄍㄧㄇ</rt></ruby>|<ruby>[硬金](/words/硬金.md)<rt>ㄚㄥㄍㄧㄇ</rt></ruby>|<ruby>[造金](/words/造金.md)<rt>ㄐㄛㄍㄧㄇ</rt></ruby>|<ruby>[露金](/words/露金.md)<rt>ㄌㄛㄍㄧㄇ</rt></ruby>| [[../words/薔薇金]] | [[../words/護金]] |<ruby>[銀](/words/銀.md)<rt>ㄧㄋ</rt></ruby>| 炉甘金 
-|6| [[隠金]] | [[丹金]] | <ruby>[渇金](/words/渇金.md)<rt>ㄎㄚㄊㄍㄧㄇ</rt></ruby> | [[狼金]] | [[莱金]] | [[嗅金]] | [[霓金]] |<ruby>[白金](/words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>| <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
+|5| <ruby>[蛍金](/words/蛍金.md)<rt>ㄏㄧㄥㄍㄧㄇ</rt></ruby> | <ruby>[晶金](/words/晶金.md)<rt>ㄐㄧㄥㄍㄧㄇ</rt></ruby> | <ruby>[孝金](/words/孝金.md)<rt>ㄏ˙ㄚˇㄍㄧㄇ</rt></ruby>|<ruby>[硬金](/words/硬金.md)<rt>ㄚㄥㄍㄧㄇ</rt></ruby>|<ruby>[造金](/words/造金.md)<rt>ㄐㄛㄍㄧㄇ</rt></ruby>|<ruby>[露金](/words/露金.md)<rt>ㄌㄛㄍㄧㄇ</rt></ruby>|<ruby>[薔薇金](/words/薔薇金.md)<rt>ㄍㄚㄥㄇㄧ˙ㄐㄧㄇ</rt></ruby>|<ruby>[護金](/words/護金.md)<rt>ㄏㄛㄍㄧㄇ</rt></ruby>|<ruby>[銀](/words/銀.md)<rt>ㄧㄋ</rt></ruby>|[[炉甘金]] 
+|6| [[隠金]] | [[丹金]] | <ruby>[渇金](/words/渇金.md)<rt>ㄎㄚㄊㄍㄧㄇ</rt></ruby> | [[狼金]] | [[莱金]] | [[../words/嗅金]] |<ruby>[霓金](/words/霓金.md)<rt>ㄝ˙ㄍㄧㄇ</rt></ruby>|<ruby>[白金](/words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>| <ruby>[黄金](/words/黄金.md)<rt>ㄏˇㄚㄥㄍㄧㄇ</rt></ruby> | <ruby>[水銀](/words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 |7| [[始金]] | <ruby>[拉金](../words/拉金.md)<rt>ㄌㄚㄆㄍㄧㄇ</rt></ruby> | [[杜金]] | [[西博金]] | Bh | Hs | Mt | Ds |<ruby>[錀](/words/錀.md)<rt>ㄌㄛㄋ</rt></ruby>| Cn 
 
 <!--4: kanggim, gyogim, vangim, sikgim, manggim, tet, guigim, madong, dong, ayen //-->
@@ -42,8 +42,8 @@ tags:
 ### F-Block
 |   |    |   |    |   |   |     |    |   |   |   |   |   |   |
 |---|----|---|----|---|---|-----|----|---|---|---|---|---|---|
-|穀金|韮金|磁金|孫子|吸金|欧金|加多金|翠金|難金|褐金|桃金|嬴金|核金|沼金|
-|雷金|副金|<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|<ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>|<ruby>[冥金](/words/冥金.md)<rt>ㄇㄝㄥㄍㄧㄇ</rt></ruby>|美洲金|Cm|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金|Lr
+|[[穀金]]|[[韮金]]|[[磁金]]|[[孫子]]|[[吸金]]|[[欧金]]|[[加多金]]|[[翠金]]|[[難金]]|[[褐金]]|[[桃金]]|[[嬴金]]|[[核金]]|[[沼金]]|
+|[[雷金]]|[[副金]]|<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|<ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>|<ruby>[冥金](/words/冥金.md)<rt>ㄇㄝㄥㄍㄧㄇ</rt></ruby>|美洲金|Cm|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金|Lr
 
 
 111 leads to the name <ruby>[錀琴](/words/錀琴.md)<rt>ㄌㄛㄋㄍㄨㄇ</rt></ruby> for röntgens
