@@ -12,7 +12,7 @@ middle_chinese_final: ɑu
 stroke_count: 12
 radical: 土
 skip_number: 1-8-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - report
