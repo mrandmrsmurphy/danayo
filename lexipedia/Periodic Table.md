@@ -40,21 +40,22 @@ tags:
 <!--6: ǝngim, dangim , katgim, langgim, laigim,  honggim, bakgim, hwanggim,su'in//-->
 <!--7: sigim, lapgim //-->
 ### F-Block
-#### La
-58. Ce
-59. Pr
-60. Nd
-61. Pm
-62. Sm
-63. Eu
-64. Gd
-65. Tb
-66. Dy
-67. Ho
-68. Er
-69. Tm
-70. Yb
-71. Lu
+|   |    | | | | | |
+|---|----|-|-|-|-|-|
+|穀金|韮金|
+8. Pr
+9. Nd
+10. Pm
+11. Sm
+12. Eu
+13. Gd
+14. Tb
+15. Dy
+16. Ho
+17. Er
+18. Tm
+19. Yb
+20. Lu
 
 #### Ac
 90. Th 
