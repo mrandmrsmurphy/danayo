@@ -49,13 +49,20 @@ tags:
 - [乗](../words/乗.md) - multiply
 - [[乗員]] - the crew
 - [[乗務]] - to serve as crew
+- [[添乗]] - to guide, to escort, to lead
 - [[乗客]] - passenger
 - [[乗降]] - embarkation and disembarkation
 - [[乗車]] - to board (a train, car, etc.)
-- [[乗船]] - to board (a ship, plane, etc.)
-- [[乗数]] - multiplier (b in axb)
+- [[乗船]] - to board (a ship, boat, etc.)
+- [[搭乘]] - to board (a plane, zeppelin, etc.)
 - [[乗馬]] - to ride a horse
 - [[騎乗]] - to ride (a horse, motorcycle, bicycle, etc.)
+- [[便乗]] - to hitchhike, to phoresy, to deadhead
+- [[大乗]] - Mahayana
+- [[万乗]] (archaic)
+- [[乗数]] - multiplier (b in axb)
+- [[自乗]] - to square
 - [[乗算]] - to multiply
 - [[乘法]] - multiplication
 - [[階乗]] - factorial
+- Need a terms for exponentiation...
