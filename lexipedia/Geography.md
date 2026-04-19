@@ -89,10 +89,10 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 ## 歐洲
 <ruby>欧洲|欧洲<rt>ㄛˇㄐㄨˇ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚˇ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
-- <ruby>英国<rt>ㄝㄥㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not [[大不列顛]]
+- <ruby>[英国](../words/英国.md)<rt>ㄝㄥㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not [[大不列顛]]
 - [[愛爾蘭]][[共和國]]
-- <ruby>法国<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
-- <ruby>徳国<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
+- <ruby>[法国](../words/法国.md)<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
+- <ruby>[徳国](../words/徳国.md)<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
 - <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙˇㄚㄥ·ㄧㄥㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
 - <ruby>西班牙<rt>ㄙㄝ˙ㄆㄚㄋ·ㄚ</rt></ruby>
@@ -101,12 +101,12 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - Belgium (比利時)  
 - Switzerland ([[瑞士]])  
 - <ruby>双鷹国<rt>ㄙˇㄚㄥ·ㄧㄥㄍㄛㄎ</rt></ruby>
-- Poland (波蘭)  
+- [[波蘭]]  
 - Greece (希臘)  
 - <ruby>露斯亜<rt>ㄌㄛㄙㄧ·ㄚ</rt></ruby>
-- Sweden ([[../words/瑞典]])  
+- <ruby>[瑞典](/words/瑞典.md)<rt>ㄙˇㄝㄉㄝㄋ</rt></ruby>
 - Norway ([挪](../characters/梛.md)[[威]])  
-- <ruby>芬蘭<rt>ㄆㄨㄋㄌㄚㄋ</rt></ruby>
+- <ruby>[芬蘭](../words/芬蘭.md)<rt>ㄆㄨㄋㄌㄚㄋ</rt></ruby>
 - <ruby>[丹麦](/words/丹麦.md)<rt>ㄉㄚㄋㄇㄚㄎ</rt></ruby>
 Industrial and political development (政治発展) in these states influenced global structure (全球構造).  The European Union is quite important.
 
