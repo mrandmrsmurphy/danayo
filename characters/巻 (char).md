@@ -39,9 +39,11 @@ tags:
 ---
 >[!tip] This is a page about the character 巻.
 >For the word, see [巻](words/巻.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
+
+## Words
 - <ruby>[巻耳](/words/巻耳.md)<rt>ㄍˇㄝㄋㄋㄧ</rt></ruby>
+- <ruby>[龍巻](/words/龍巻.md)<rt>ㄌ˙ㄛㄥㄍˇㄝㄋ</rt></ruby> "twister"
