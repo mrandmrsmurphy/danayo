@@ -46,7 +46,7 @@ tags:
 - [[剰]]
 ## Words
 - [[千乗]]
-- [乗](../words/乗.md) - multiply
+- [乗](../words/乗.md) - ride
 - [[乗員]] - the crew
 - [[乗務]] - to serve as crew
 - [[添乗]] - to guide, to escort, to lead
@@ -65,4 +65,4 @@ tags:
 - [[乗算]] - to multiply
 - [[乘法]] - multiplication
 - [[階乗]] - factorial
-- Need a terms for exponentiation...
+- exponentiation: 累乘/冪乗/指数乗
