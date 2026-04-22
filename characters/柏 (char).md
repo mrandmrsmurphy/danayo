@@ -1,34 +1,34 @@
 ---
-mandarin: "bǎi bó"
+mandarin: bǎi bó
 cantonese: paak3
-korean: "백"
-korean_native: "측백"
+korean: 백
+korean_native: 측백
 japanese:
   - HAKU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: p
-middle_chinese_final: "ɣæk"
+middle_chinese_final: ɣæk
 stroke_count: 9
-radical: "木"
+radical: 木
 skip_number: 1-4-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - cypress
   - cedar
 羅馬字: byag
-韓文: "뱍"
-joyo_level: "日本人名用漢字"
+韓文: 뱍
+joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 5324
 mc_id: 1593
-graphemic_classification: "白"
-stand_in: "柏"
+graphemic_classification: 白
+stand_in: 柏
 aliases:
   - 栢
-注音: "ㄅ˙ㄚㄎ"
+注音: ㄅ˙ㄚㄎ
 tags:
   - character
 ---
