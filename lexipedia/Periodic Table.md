@@ -42,7 +42,7 @@ tags:
 ### F-Block
 |   |    |   |    |   |   |     |    |   |   |   |   |   |   |
 |---|----|---|----|---|---|-----|----|---|---|---|---|---|---|
-|<ruby>[穀金](/words/穀金.md)<rt>ㄍㄛㄎㄍㄧㄇ</rt></ruby>|<ruby>[韮金](/words/韮金.md)<rt>ㄍ˙ㄨㄍㄧㄇ</rt></ruby>|<ruby>[磁金](/words/磁金.md)<rt>ㄐㄧㄍㄧㄇ</rt></ruby>|<ruby>[孫金](/words/孫金.md)<rt>ㄙㄛㄋㄍㄧㄇ</rt></ruby>|<ruby>[吸金](/words/吸金.md)<rt>ㄏㄧㄆㄍㄧㄇ</rt></ruby>|<ruby>[欧金](/words/欧金.md)<rt>ㄛˇㄍㄧㄇ</rt></ruby>|[[../words/加多金]]|[[翠金]]|[[難金]]|[[褐金]]|[[桃金]]|[[嬴金]]|[[核金]]|[[沼金]]|
+|<ruby>[穀金](/words/穀金.md)<rt>ㄍㄛㄎㄍㄧㄇ</rt></ruby>|<ruby>[韮金](/words/韮金.md)<rt>ㄍ˙ㄨㄍㄧㄇ</rt></ruby>|<ruby>[磁金](/words/磁金.md)<rt>ㄐㄧㄍㄧㄇ</rt></ruby>|<ruby>[孫金](/words/孫金.md)<rt>ㄙㄛㄋㄍㄧㄇ</rt></ruby>|<ruby>[吸金](/words/吸金.md)<rt>ㄏㄧㄆㄍㄧㄇ</rt></ruby>|<ruby>[欧金](/words/欧金.md)<rt>ㄛˇㄍㄧㄇ</rt></ruby>|[[../words/加多金]]|[[../words/翠金]]|[[難金]]|[[褐金]]|[[桃金]]|[[嬴金]]|[[核金]]|[[沼金]]|
 |[[雷金]]|[[副金]]|<ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby>|<ruby>[海金](/words/海金.md)<rt>ㄏㄚ˙ㄍㄧㄇ</rt></ruby>|<ruby>[冥金](/words/冥金.md)<rt>ㄇㄝㄥㄍㄧㄇ</rt></ruby>|美洲金|Cm|Bk|Cf|愛因金|費米金|門捷金|諾貝金|羅倫金|Lr
 
 
