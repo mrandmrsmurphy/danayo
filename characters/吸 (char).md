@@ -1,33 +1,33 @@
 ---
-mandarin: "xī"
+mandarin: xī
 cantonese: kap1
-korean: "흡"
-korean_native: "마실"
+korean: 흡
+korean_native: 마실
 japanese:
   - KYUU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: "ɣiɪp"
+middle_chinese_final: ɣiɪp
 stroke_count: 6
-radical: "口"
+radical: 口
 skip_number: 1-3-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - suck
   - inhale
 羅馬字: hib
-韓文: "힙"
-joyo_level: 6
+韓文: 힙
+joyo_level: "6"
 hsk_level: ""
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 4053
 mc_id: 2349
-graphemic_classification: "及"
-stand_in: "吸"
+graphemic_classification: 及
+stand_in: 吸
 aliases:
-注音: "ㄏㄧㄆ"
+注音: ㄏㄧㄆ
 tags:
   - character
 ---
