@@ -44,7 +44,11 @@ The following are not content pages, but "programming"
 - [word_info](nav/word_info.md)
 
 ---
-<ruby>単<rt>ㄉㄚㄋ</rt></ruby>
+
+<ruby>単<rt>ㄆㆹㆼㆿ</rt></ruby>
+<ruby>単<rt>ㄆ㇠㇣㇏㇟</rt></ruby>
+<ruby>単<rt>ㄆ⼄⼆⼟</rt></ruby>
+
 ----
 
 ## Bases
