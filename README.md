@@ -43,6 +43,8 @@ The following are not content pages, but "programming"
 - [numerals](nav/numerals.md)
 - [word_info](nav/word_info.md)
 
+---
+<ruby>単<rt>ㄉㄚㄋ</rt></ruby>
 ----
 
 ## Bases
