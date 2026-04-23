@@ -45,9 +45,8 @@ The following are not content pages, but "programming"
 
 ---
 
-<ruby>単<rt>ㄆㆹㆼㆿ</rt></ruby>
-<ruby>単<rt>ㄆ㇠㇣㇏㇟</rt></ruby>
-<ruby>単<rt>ㄆ⼄⼆⼟</rt></ruby>
+<ruby>単<rt>⼫⺒</rt></ruby>
+<ruby>単<rt>ㄈㄚ</rt></ruby>
 
 ----
 
