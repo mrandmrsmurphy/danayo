@@ -19,7 +19,7 @@
 6. <ruby>[虹素](../words/虹素.md)<rt>ㄝ˙ㄏㄛㄥㄙㄛ</rt></ruby> - neon
 7. <ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby> - sodium
 8. <ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby> - titanium
-9. <ruby>[宙金](/words/宙金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
+9. <ruby>[天金](../words/天金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
 
 ## Base check
 ```base

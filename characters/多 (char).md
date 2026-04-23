@@ -1,33 +1,33 @@
 ---
-mandarin: "duō"
+mandarin: duō
 cantonese: do1
-korean: "다"
-korean_native: "많을"
+korean: 다
+korean_native: 많을
 japanese:
   - TA
 japanese_nanori: ""
 vietnamese:
   - đa
 middle_chinese_initial: t
-middle_chinese_final: "ɑ"
+middle_chinese_final: ɑ
 stroke_count: 6
-radical: "夕"
+radical: 夕
 skip_number: 2-3-3
-grade_level: 1
-pos: "性詞"
+grade_level: "1"
+pos: 性詞
 english:
   - many
-羅馬字: "dǝ"
-韓文: "드"
-joyo_level: 2
-hsk_level: 1
-hanmun_edu_level: "中"
+羅馬字: dǝ
+韓文: 드
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 84
 mc_id: 137
-graphemic_classification: "會意"
-stand_in: "多"
+graphemic_classification: 會意
+stand_in: 多
 aliases:
-注音: "ㄉㄜ"
+注音: ㄉㄜ
 tags:
   - character
 ---
