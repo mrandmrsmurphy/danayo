@@ -25,7 +25,7 @@ tags:
 - <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄆㄨㄫㄙㄧㄫㄏㄚㄎㄌ·ㄝ</rt></ruby> - panic attack
 - <ruby>[空中楼閣](chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - castle in the sky
 - <ruby>[重文軽武](chengyu/重文軽武.md)<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> - weighty culture, light war
-- <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎˇㄙㄎ·⼜ㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
+- <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎㆼㄎ·⼜ㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
 - <ruby>[人山人海](/chengyu/人山人海.md)<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> - a sea of people
 - <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍㆼㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
 
