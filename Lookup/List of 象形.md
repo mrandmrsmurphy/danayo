@@ -112,8 +112,6 @@ views:
       - 注音
       - english
       - danayo_id
-      - hanmun_edu_level
-      - date-last-perfect
       - stroke_count
     sort:
       - property: stroke_count
@@ -133,7 +131,6 @@ views:
     columnSize:
       file.name: 102
       note.english: 98
-      note.danayo_id: 64
-      note.hanmun_edu_level: 57
+      note.danayo_id: 148
 
 ```

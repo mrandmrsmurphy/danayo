@@ -1,0 +1,1 @@
+Now that you are able to sound out words, it's time to tackle the 3000 kilogram elephant in the room: Chinese characters.  While there are 3310 of these in Dan'a'yo, that's actually all of them.  In Chinese and Japanese, these are open sets.  Technically of 
