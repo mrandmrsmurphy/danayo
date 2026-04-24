@@ -8,7 +8,7 @@ size: 1
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-1. <ruby>[赴](/characters/赴%20(char).md)<rt>ㄆㄨˇ</rt></ruby> - attend
+1. <ruby>[赴](/characters/赴%20(char).md)<rt>ㄆㄨㄛ</rt></ruby> - attend
 
 ## Datacheck
 ```dataview

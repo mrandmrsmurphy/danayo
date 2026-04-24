@@ -28,7 +28,7 @@ mc_id: 3577
 graphemic_classification: "高"
 stand_in: "稿"
 aliases:
-注音: "ㄍㄚˇ"
+注音: "ㄍㄚㄨ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ graphemic_classification: 𡿺
 stand_in: 悩
 aliases:
   - 惱
-注音: ㄋㄚˇ
+注音: ㄋㄚㄨ
 tags:
   - character
 ---

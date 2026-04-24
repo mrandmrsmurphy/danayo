@@ -28,7 +28,7 @@ stand_in: "飛"
 aliases:
   - 飞
   - 蜚
-注音: "ㄈㄝ˙"
+注音: "ㄈㄝㄧ"
 tags:
   - character
   - hapax

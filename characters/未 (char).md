@@ -28,7 +28,7 @@ mc_id: 103
 graphemic_classification: "象形"
 stand_in: "未"
 aliases:
-注音: "ㄇㄨ˙"
+注音: "ㄇㄨㄧ"
 tags:
   - character
 ---

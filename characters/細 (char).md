@@ -33,7 +33,7 @@ graphemic_classification: 四
 stand_in: 細
 aliases:
   - 细
-注音: ㄙㄝ˙
+注音: ㄙㄝㄧ
 tags:
   - character
 ---

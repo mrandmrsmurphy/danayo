@@ -26,7 +26,7 @@ mc_id: 2932
 graphemic_classification: "帝"
 stand_in: "蹄"
 aliases:
-注音: "ㄉㄝ˙"
+注音: "ㄉㄝㄧ"
 tags:
   - character
 ---

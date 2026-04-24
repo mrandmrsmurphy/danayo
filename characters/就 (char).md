@@ -18,7 +18,7 @@ pos: ""
 english:
   - about
   - let
-羅馬字: juu
+羅馬字: juo
 韓文: "줏"
 joyo_level: 6
 hsk_level: 1
@@ -30,7 +30,7 @@ stand_in: "就"
 aliases:
   - 鷲
   - 鹫
-注音: "ㄐㄨˇ"
+注音: "ㄐㄨㄛ"
 tags:
   - character
 ---

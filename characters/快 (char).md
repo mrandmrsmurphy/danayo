@@ -28,7 +28,7 @@ mc_id: 1968
 graphemic_classification: "叏"
 stand_in: "快"
 aliases:
-注音: "ㄎㆼ˙"
+注音: "ㄎㆼㄧ"
 tags:
   - character
 ---

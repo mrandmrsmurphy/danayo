@@ -29,7 +29,7 @@ graphemic_classification: 隹
 stand_in: 誰
 aliases:
   - 谁
-注音: ㄙ⼶˙
+注音: ㄙ⼶ㄧ
 tags:
   - character
 ---

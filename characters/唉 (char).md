@@ -29,7 +29,7 @@ mc_id: 7655
 graphemic_classification: "矣"
 stand_in: "唉"
 aliases:
-注音: "ㄚ˙"
+注音: "ㄚㄧ"
 tags:
   - character
 ---

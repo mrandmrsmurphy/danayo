@@ -28,7 +28,7 @@ mc_id: 1838
 graphemic_classification: "會意"
 stand_in: "吹"
 aliases:
-注音: "ㄑㄨ˙"
+注音: "ㄑㄨㄧ"
 tags:
   - character
 ---

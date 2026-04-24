@@ -16,7 +16,7 @@ grade_level: 6
 pos: ""
 english:
   - tread on/with
-羅馬字: lii
+羅馬字: liǝ
 韓文: "릐"
 joyo_level: "高等"
 hsk_level: ""
@@ -26,7 +26,7 @@ mc_id: 996
 graphemic_classification: "會意"
 stand_in: "履"
 aliases:
-注音: "ㄌㄧ˙"
+注音: "ㄌㄧㄜ"
 tags:
   - character
 ---

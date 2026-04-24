@@ -28,7 +28,7 @@ mc_id: 216
 graphemic_classification: "會意"
 stand_in: "罪"
 aliases:
-注音: "ㄐㄛ˙"
+注音: "ㄐㄛㄧ"
 tags:
   - character
 ---

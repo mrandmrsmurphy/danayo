@@ -27,7 +27,7 @@ mc_id: 0
 graphemic_classification: "會意"
 stand_in: "套"
 aliases:
-注音: "ㄊㄛˇ"
+注音: "ㄊㄛㄨ"
 tags:
   - character
 ---

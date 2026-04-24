@@ -17,7 +17,7 @@ date-last-perfect: 2026-03-27
 ### +5
 5. <ruby>[雴](/characters/雴.md)<rt>ㄊㄨㄆ</rt></ruby> - heavy rain
 6. <ruby>[零](/characters/零%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - zero
-7. <ruby>[雷](/characters/雷%20(char).md)<rt>ㄌㄛ˙</rt></ruby> - thunder
+7. <ruby>[雷](/characters/雷%20(char).md)<rt>ㄌㄛㄧ</rt></ruby> - thunder
 8. <ruby>[電](/characters/電.md)<rt>ㄉㄝㄋ</rt></ruby> - electricity
 - 雾 --> 霧
 ### +6
@@ -27,7 +27,7 @@ date-last-perfect: 2026-03-27
 11. <ruby>[霊](/characters/霊.md)<rt>ㄌㄝㄫ</rt></ruby> - ghost
 ### +8
 12. <ruby>[霍](/characters/霍.md)<rt>ㄍㆼㄎ</rt></ruby> - sudden
-13. <ruby>[霓](/characters/霓.md)<rt>ㄝ˙</rt></ruby> - rainbow
+13. <ruby>[霓](/characters/霓.md)<rt>ㄝㄧ</rt></ruby> - rainbow
 ### +9
 14. <ruby>[霜](/characters/霜%20(char).md)<rt>ㄙㆼㄫ</rt></ruby> - frost
 15. <ruby>[霞](/characters/霞.md)<rt>ㄏㄚ</rt></ruby> - mist
@@ -39,7 +39,7 @@ date-last-perfect: 2026-03-27
 ### +13
 - 霸 --> 覇
 ### +16
-19. <ruby>[靄](/characters/靄.md)<rt>ㄚ˙</rt></ruby> - hazy
+19. <ruby>[靄](/characters/靄.md)<rt>ㄚㄧ</rt></ruby> - hazy
 - 靈 --> 霊
 
 ## Data check

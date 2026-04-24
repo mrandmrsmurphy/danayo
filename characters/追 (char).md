@@ -28,7 +28,7 @@ mc_id: 752
 graphemic_classification: "堆"
 stand_in: "追"
 aliases:
-注音: "ㄊㄨ˙"
+注音: "ㄊㄨㄧ"
 tags:
   - character
 ---

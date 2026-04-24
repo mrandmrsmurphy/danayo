@@ -19,7 +19,7 @@ english:
   - conspire
   - plan
   - scheme
-羅馬字: muu
+羅馬字: muo
 韓文: "뭇"
 joyo_level: "高等"
 hsk_level: ""
@@ -30,7 +30,7 @@ graphemic_classification: "某"
 stand_in: "謀"
 aliases:
   - 谋
-注音: "ㄇㄨˇ"
+注音: "ㄇㄨㄛ"
 tags:
   - character
 ---
@@ -42,4 +42,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[権謀](/words/権謀.md)<rt>ㄍ⼔ㄋㄇㄨˇ</rt></ruby> - power plan
+- <ruby>[権謀](/words/権謀.md)<rt>ㄍ⼔ㄋㄇㄨㄛ</rt></ruby> - power plan

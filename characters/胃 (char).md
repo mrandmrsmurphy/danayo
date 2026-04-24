@@ -27,7 +27,7 @@ mc_id: 1203
 graphemic_classification: "象形"
 stand_in: "胃"
 aliases:
-注音: "ㄨ˙"
+注音: "ㄨㄧ"
 tags:
   - character
 ---

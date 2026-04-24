@@ -28,7 +28,7 @@ graphemic_classification: "𢦏"
 stand_in: "載"
 aliases:
   - 载
-注音: "ㄐㄚ˙"
+注音: "ㄐㄚㄧ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ graphemic_classification: "洼"
 stand_in: "凹"
 aliases:
   - 窪
-注音: "ㄚˇ"
+注音: "ㄚㄨ"
 tags:
   - character
 ---

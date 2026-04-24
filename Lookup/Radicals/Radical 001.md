@@ -31,7 +31,7 @@ Radical 1 is 一, the number one.
 ## +3 Strokes
 9. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
 10. <ruby>[[与 (char)]]<rt>·⼄</rt></ruby> - only
-11. <ruby>[[丐]]<rt>ㄍㄚˇ</rt></ruby> - begger
+11. <ruby>[[丐]]<rt>ㄍㄚㄨ</rt></ruby> - begger
 - 丏 --> ancient variant of 丐
 - [[characters/丑]] second of 12 earthly branches
 - 专 --> ancient variant of 専

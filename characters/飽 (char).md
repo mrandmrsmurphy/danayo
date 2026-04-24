@@ -30,7 +30,7 @@ graphemic_classification: "包"
 stand_in: "飽"
 aliases:
   - 饱
-注音: "ㄅ⼘ˇ"
+注音: "ㄅ⼘ㄨ"
 tags:
   - character
 ---

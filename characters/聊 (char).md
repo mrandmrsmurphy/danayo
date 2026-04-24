@@ -26,7 +26,7 @@ mc_id: 2114
 graphemic_classification: 卯
 stand_in: 聊
 aliases:
-注音: ㄌ⼘ˇ
+注音: ㄌ⼘ㄨ
 tags:
   - character
 ---

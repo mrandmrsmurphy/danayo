@@ -27,7 +27,7 @@ mc_id: 7402
 graphemic_classification: "母"
 stand_in: "苺"
 aliases:
-注音: "ㄇㄚ˙"
+注音: "ㄇㄚㄧ"
 tags:
   - character
 ---

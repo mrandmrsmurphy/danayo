@@ -25,7 +25,7 @@ graphemic_classification: 非
 stand_in: 輩
 aliases:
   - 辈
-注音: ㄅㄛ˙
+注音: ㄅㄛㄧ
 tags:
   - character
 ---

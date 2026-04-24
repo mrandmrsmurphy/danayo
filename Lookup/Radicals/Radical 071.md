@@ -6,7 +6,7 @@ radical: 无
 > [[Radicals]]
 
 ## Characters
-1. <ruby>[[既]]<rt>ㄍㄧ˙</rt></ruby> - already
+1. <ruby>[[既]]<rt>ㄍㄧㄜ</rt></ruby> - already
 
 ## Data search
 ```dataview

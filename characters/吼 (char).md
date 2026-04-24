@@ -28,7 +28,7 @@ mc_id: 7936
 graphemic_classification: "孔"
 stand_in: "吼"
 aliases:
-注音: "ㄏㄛˇ"
+注音: "ㄏㄛㄨ"
 tags:
   - character
 ---

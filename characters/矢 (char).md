@@ -17,7 +17,7 @@ grade_level: 6
 pos: ""
 english:
   - arrow
-羅馬字: sii
+羅馬字: siǝ
 韓文: "싀"
 joyo_level: 2
 hsk_level: ""
@@ -27,7 +27,7 @@ mc_id: 925
 graphemic_classification: "象形"
 stand_in: "矢"
 aliases:
-注音: "ㄙㄧ˙"
+注音: "ㄙㄧㄜ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ graphemic_classification: 弗
 stand_in: 費
 aliases:
   - 费
-注音: ㄈㄚ˙
+注音: ㄈㄚㄧ
 tags:
   - character
 ---

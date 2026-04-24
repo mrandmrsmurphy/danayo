@@ -43,4 +43,4 @@ tags:
 ## Notes
 
 ## Chengyu
-- <ruby>[少即是多](/chengyu/少即是多.md)<rt>ㄙㄛˇㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>
+- <ruby>[少即是多](/chengyu/少即是多.md)<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>

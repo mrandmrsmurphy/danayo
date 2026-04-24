@@ -28,7 +28,7 @@ graphemic_classification: 隹
 stand_in: 唯
 aliases:
   - 惟
-注音: ⼶˙
+注音: ⼶ㄧ
 tags:
   - character
 ---

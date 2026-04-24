@@ -27,7 +27,7 @@ mc_id: 2141
 graphemic_classification: "到"
 stand_in: "倒"
 aliases:
-注音: "ㄊㄚˇ"
+注音: "ㄊㄚㄨ"
 tags:
   - character
 ---

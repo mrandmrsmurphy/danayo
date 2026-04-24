@@ -30,7 +30,7 @@ stand_in: 朝
 aliases:
   - 䢁
   - 𦩻
-注音: ㄐㄚˇ
+注音: ㄐㄚㄨ
 tags:
   - character
 ---

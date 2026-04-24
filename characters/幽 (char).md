@@ -18,7 +18,7 @@ english:
   - quiet
   - secluded
   - dark
-羅馬字: "'yuu"
+羅馬字: "'yuo"
 韓文: "윳"
 joyo_level: "高等"
 hsk_level: ""
@@ -28,7 +28,7 @@ mc_id: 868
 graphemic_classification: "會意"
 stand_in: "幽"
 aliases:
-注音: "⼜ˇ"
+注音: "⼜ㄛ"
 tags:
   - character
 ---

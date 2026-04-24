@@ -27,7 +27,7 @@ mc_id: 1438
 graphemic_classification: "會意"
 stand_in: "焦"
 aliases:
-注音: "ㄐㄛˇ"
+注音: "ㄐㄛㄨ"
 tags:
   - character
 ---

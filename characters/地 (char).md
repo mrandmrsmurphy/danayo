@@ -17,7 +17,7 @@ grade_level: 1
 pos: "名詞"
 english:
   - land
-羅馬字: dii
+羅馬字: diǝ
 韓文: "듸"
 joyo_level: 2
 hsk_level: 1
@@ -27,7 +27,7 @@ mc_id: 86
 graphemic_classification: "也"
 stand_in: "地"
 aliases:
-注音: "ㄉㄧ˙"
+注音: "ㄉㄧㄜ"
 tags:
   - character
 ---

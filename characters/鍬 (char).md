@@ -28,7 +28,7 @@ graphemic_classification: "秋"
 stand_in: "鍬"
 aliases:
   - 锹
-注音: "ㄑㄚˇ"
+注音: "ㄑㄚㄨ"
 tags:
   - character
 ---

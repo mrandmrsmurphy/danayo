@@ -25,7 +25,7 @@ graphemic_classification: 思
 stand_in: 穂
 aliases:
   - 穗
-注音: ㄙㄨ˙
+注音: ㄙㄨㄧ
 tags:
   - character
 ---

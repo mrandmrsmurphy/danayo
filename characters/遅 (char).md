@@ -17,7 +17,7 @@ pos: ""
 english:
   - late
   - slow
-羅馬字: cii
+羅馬字: ciǝ
 韓文: 츼
 joyo_level: 高等
 hsk_level: ""
@@ -29,7 +29,7 @@ stand_in: 遅
 aliases:
   - 遲
   - 迟
-注音: ㄑㄧ˙
+注音: ㄑㄧㄜ
 tags:
   - character
 ---

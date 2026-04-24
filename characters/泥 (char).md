@@ -26,7 +26,7 @@ mc_id: 1978
 graphemic_classification: "尼"
 stand_in: "泥"
 aliases:
-注音: "ㄋㄝ˙"
+注音: "ㄋㄝㄧ"
 tags:
   - character
 ---

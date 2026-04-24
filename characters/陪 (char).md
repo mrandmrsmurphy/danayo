@@ -29,7 +29,7 @@ mc_id: 2715
 graphemic_classification: "咅"
 stand_in: "陪"
 aliases:
-注音: "ㄅㄛ˙"
+注音: "ㄅㄛㄧ"
 tags:
   - character
 ---

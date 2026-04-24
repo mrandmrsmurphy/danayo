@@ -30,7 +30,7 @@ graphemic_classification: "亥"
 stand_in: "該"
 aliases:
   - 该
-注音: "ㄍㄛ˙"
+注音: "ㄍㄛㄧ"
 tags:
   - character
 ---

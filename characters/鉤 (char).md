@@ -30,7 +30,7 @@ stand_in: "鉤"
 aliases:
   - 钩
   - 𰽭
-注音: "ㄍㄛˇ"
+注音: "ㄍㄛㄨ"
 tags:
   - character
 ---

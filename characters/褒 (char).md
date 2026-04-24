@@ -29,7 +29,7 @@ graphemic_classification: 保
 stand_in: 褒
 aliases:
   - 襃
-注音: ㄆㄚˇ
+注音: ㄆㄚㄨ
 tags:
   - character
 ---

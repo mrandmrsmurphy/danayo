@@ -20,7 +20,7 @@ pos: 数詞
 english:
   - four
   - "4"
-羅馬字: sii
+羅馬字: siǝ
 韓文: 싀
 joyo_level: "1"
 hsk_level: "1"
@@ -37,7 +37,7 @@ aliases:
   - 𦉭
   - 泗
 date-last-perfect: 2026-01-30
-注音: ㄙㄧ˙
+注音: ㄙㄧㄜ
 tags:
   - character
 ---

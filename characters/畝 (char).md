@@ -29,7 +29,7 @@ stand_in: "畝"
 aliases:
   - 畮
   - 亩
-注音: "ㄇㄛˇ"
+注音: "ㄇㄛㄨ"
 tags:
   - character
 ---

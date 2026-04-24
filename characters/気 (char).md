@@ -17,7 +17,7 @@ grade_level: "1"
 pos: 名詞
 english:
   - feeling
-羅馬字: kii
+羅馬字: kiǝ
 韓文: 킈
 joyo_level: "1"
 hsk_level: "1"
@@ -29,7 +29,7 @@ stand_in: 気
 aliases:
   - 氣
   - 气
-注音: ㄎㄧ˙
+注音: ㄎㄧㄜ
 tags:
   - character
 ---
@@ -41,4 +41,4 @@ tags:
 ## Notes
 
 ## Word
-- <ruby>[気分](/words/気分.md)<rt>ㄎㄧ˙ㄅㄨㄋ</rt></ruby> - mood
+- <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> - mood

@@ -26,7 +26,7 @@ mc_id: 906
 graphemic_classification: "北"
 stand_in: "背"
 aliases:
-注音: "ㄅㄛ˙"
+注音: "ㄅㄛㄧ"
 tags:
   - character
 ---
@@ -37,10 +37,10 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*pɯːɡs, \*bɯːɡs): phonetic [北](北.md) (OC \*pɯːɡ) + semantic [月](Radical%20130) (“meat”). Originally written as 北, semantic 肉 was added to be distinguished from the derived meaning of 北 (“north”).
-- [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md)) - [ㄅㄛ˙](../syllables/ㄅㄛ˙.md)
+- [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md)) - [ㄅㄛㄧ](../syllables/ㄅㄛㄧ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Grade 4](../lookup/Grade%204.md)
 ## Words
-- <ruby>[駝背](/words/駝背.md)<rt>ㄉㄚㄅㄛ˙</rt></ruby>
+- <ruby>[駝背](/words/駝背.md)<rt>ㄉㄚㄅㄛㄧ</rt></ruby>
 - [[背景]]
 - [[背後]]
 - [[背骨]]

@@ -28,7 +28,7 @@ mc_id: 4811
 graphemic_classification: "非"
 stand_in: "扉"
 aliases:
-注音: "ㄈㄨ˙"
+注音: "ㄈㄨㄧ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ graphemic_classification: "規"
 stand_in: "窺"
 aliases:
   - 窥
-注音: "ㄎㄨ˙"
+注音: "ㄎㄨㄧ"
 tags:
   - character
 ---

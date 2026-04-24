@@ -16,7 +16,7 @@ grade_level: 3
 pos: ""
 english:
   - eternity
-羅馬字: juu
+羅馬字: juo
 韓文: "줏"
 joyo_level: 6
 hsk_level: 3
@@ -26,7 +26,7 @@ mc_id: 3286
 graphemic_classification: "由"
 stand_in: "宙"
 aliases:
-注音: "ㄐㄨˇ"
+注音: "ㄐㄨㄛ"
 tags:
   - character
 ---

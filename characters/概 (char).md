@@ -29,7 +29,7 @@ graphemic_classification: 旣
 stand_in: 概
 aliases:
   - 槪
-注音: ㄍㄚ˙
+注音: ㄍㄚㄧ
 tags:
   - character
 ---

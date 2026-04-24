@@ -27,7 +27,7 @@ mc_id: 7750
 graphemic_classification: "台"
 stand_in: "苔"
 aliases:
-注音: "ㄊㄛ˙"
+注音: "ㄊㄛㄧ"
 tags:
   - character
 ---

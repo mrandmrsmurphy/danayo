@@ -26,7 +26,7 @@ mc_id: 5141
 graphemic_classification: "永"
 stand_in: "泳"
 aliases:
-注音: "ˇㄧㄫ"
+注音: "ㄨㄧㄫ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ mc_id: 1534
 graphemic_classification: "未"
 stand_in: "昧"
 aliases:
-注音: "ㄇㄚ˙"
+注音: "ㄇㄚㄧ"
 tags:
   - character
 ---

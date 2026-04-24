@@ -30,7 +30,7 @@ graphemic_classification: "崔"
 stand_in: "催"
 aliases:
   - 摧
-注音: "ㄑㄛ˙"
+注音: "ㄑㄛㄧ"
 tags:
   - character
 ---

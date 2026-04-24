@@ -26,7 +26,7 @@ mc_id: 2721
 graphemic_classification: 吹
 stand_in: 炊
 aliases:
-注音: ㄑㄨ˙
+注音: ㄑㄨㄧ
 tags:
   - character
 ---

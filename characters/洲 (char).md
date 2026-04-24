@@ -16,7 +16,7 @@ grade_level: "先進"
 pos: ""
 english:
   - islet
-羅馬字: juu
+羅馬字: juo
 韓文: "줏"
 joyo_level: "日本人名用漢字"
 hsk_level: 4
@@ -26,7 +26,7 @@ mc_id: 3213
 graphemic_classification: "州"
 stand_in: "洲"
 aliases:
-注音: "ㄐㄨˇ"
+注音: "ㄐㄨㄛ"
 tags:
   - character
 ---

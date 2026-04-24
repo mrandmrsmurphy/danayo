@@ -29,7 +29,7 @@ graphemic_classification: "帝"
 stand_in: "締"
 aliases:
   - 缔
-注音: "ㄊㄝ˙"
+注音: "ㄊㄝㄧ"
 tags:
   - character
 ---

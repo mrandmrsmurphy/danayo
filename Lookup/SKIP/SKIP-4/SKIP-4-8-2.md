@@ -8,8 +8,8 @@ skip_number: 4-8-2
 > [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 ## Characters
-1. <ruby>[垂](/characters/垂.md)<rt>ㄐㄨ˙</rt></ruby> - dangle
-2. <ruby>[隹](/characters/隹.md)<rt>ㄉㄛ˙</rt></ruby> - short-tailed bird
+1. <ruby>[垂](/characters/垂.md)<rt>ㄐㄨㄧ</rt></ruby> - dangle
+2. <ruby>[隹](/characters/隹.md)<rt>ㄉㄛㄧ</rt></ruby> - short-tailed bird
 
 ## Datacheck
 ```dataview

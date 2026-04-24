@@ -26,7 +26,7 @@ mc_id: 1667
 graphemic_classification: 屚
 stand_in: 漏
 aliases:
-注音: ㄌㄛˇ
+注音: ㄌㄛㄨ
 tags:
   - character
 ---

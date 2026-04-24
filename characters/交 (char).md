@@ -31,7 +31,7 @@ stand_in: 交
 aliases:
   - 胶
   - 淆
-注音: ㄍ⼄ˇ
+注音: ㄍ⼄ㄨ
 tags:
   - character
 ---
@@ -42,13 +42,13 @@ tags:
 ```
 ## Notes
 - Derived characters
-	- <ruby>[絞](/characters/絞.md)<rt>ㄍ⼄ˇ</rt></ruby>
-	- <ruby>[咬](/characters/咬%20(char).md)<rt>⼘ˇ</rt></ruby>
-	- <ruby>[校](/characters/校.md)<rt>ㄏ⼘ˇ</rt></ruby> - schoool
+	- <ruby>[絞](/characters/絞.md)<rt>ㄍ⼄ㄨ</rt></ruby>
+	- <ruby>[咬](/characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby>
+	- <ruby>[校](/characters/校.md)<rt>ㄏ⼘ㄨ</rt></ruby> - schoool
 
 
 ## Words
-- <ruby>[交流](/words/交流.md)<rt>ㄍ⼘ˇㄌ⼜</rt></ruby> - mix, mingle
+- <ruby>[交流](/words/交流.md)<rt>ㄍ⼘ㄨㄌ⼜</rt></ruby> - mix, mingle
 - [[交互]]
 - [[交付]]
 - [[交尾]]

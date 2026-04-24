@@ -29,7 +29,7 @@ graphemic_classification: "象形"
 stand_in: "了"
 aliases:
   - 瞭
-注音: "ㄌ⼘ˇ"
+注音: "ㄌ⼘ㄨ"
 tags:
   - character
 ---

@@ -41,4 +41,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[希有](/words/希有.md)<rt>ㄏㄧ˙·⼜</rt></ruby> - rare
+- <ruby>[希有](/words/希有.md)<rt>ㄏㄧㄜ·⼜</rt></ruby> - rare

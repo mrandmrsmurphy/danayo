@@ -29,7 +29,7 @@ stand_in: 帯
 aliases:
   - 帶
   - 带
-注音: ㄊㄚ˙
+注音: ㄊㄚㄧ
 tags:
   - character
 ---

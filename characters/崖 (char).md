@@ -26,7 +26,7 @@ mc_id: 2615
 graphemic_classification: "厓"
 stand_in: "崖"
 aliases:
-注音: "ㄚ˙"
+注音: "ㄚㄧ"
 tags:
   - character
 ---

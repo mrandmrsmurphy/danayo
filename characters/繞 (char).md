@@ -30,7 +30,7 @@ graphemic_classification: "堯"
 stand_in: "繞"
 aliases:
   - 绕
-注音: "ㄋㄛˇ"
+注音: "ㄋㄛㄨ"
 tags:
   - character
 ---
@@ -40,4 +40,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md)) - [ㄋㄛˇ](syllables/ㄋㄛˇ.md)
+- [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md)) - [ㄋㄛㄨ](syllables/ㄋㄛㄨ.md)

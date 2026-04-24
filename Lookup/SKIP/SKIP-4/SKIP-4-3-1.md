@@ -12,10 +12,10 @@ stroke_count: 3
 3. [[兀]]
 4. [[弓]]
 5. [[己]]	
-6. <ruby>[口](../../../characters/口%20(char).md)<rt>ㄎㄛˇ</rt></ruby>
+6. <ruby>[口](../../../characters/口%20(char).md)<rt>ㄎㄛㄨ</rt></ruby>
 7. [[工]]
 8. <ruby>[下](../../../characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby>
-9. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby>
+9. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚㄧ</rt></ruby>
 10. <ruby>[已](../../../characters/已%20(char).md)<rt>ㄧ</rt></ruby>
 11. <ruby>[子](../../../characters/子.md)<rt>ㄐㄧ</rt></ruby>
 12. [[巳]]

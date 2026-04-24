@@ -7,9 +7,9 @@ skip_number: 2-8-3
 > SKIP : 2 : [8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
-- <ruby>[[啓]]<rt>ㄎㄝ˙</rt></ruby> - open
+- <ruby>[[啓]]<rt>ㄎㄝㄧ</rt></ruby> - open
 - <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> - meeting hall
-- <ruby>[[堕]]<rt>ㄙㄨ˙</rt></ruby> - degenerate, corrupted
+- <ruby>[[堕]]<rt>ㄙㄨㄧ</rt></ruby> - degenerate, corrupted
 - <ruby>[[娶]]<rt>ㄑㄨ </rt></ruby> - marry
 - <ruby>[[婁]]<rt>ㄌㄨ </rt></ruby> - wear, bond
 - <ruby>[[婆]]<rt>ㄅㄚ </rt></ruby> - granny (paternal)

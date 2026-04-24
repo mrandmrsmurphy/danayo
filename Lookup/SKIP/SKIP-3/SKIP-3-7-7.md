@@ -8,7 +8,7 @@ skip_number: 3-7-7
 > [Stroke 14](lookup/Stroke/Stroke%2014.md)
 
 ## Characters
-1. <ruby>[趙](/characters/趙.md)<rt>ㄐㄚˇ</rt></ruby> - Zhao
+1. <ruby>[趙](/characters/趙.md)<rt>ㄐㄚㄨ</rt></ruby> - Zhao
 
 ## Datacheck
 ```dataview

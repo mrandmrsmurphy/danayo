@@ -29,7 +29,7 @@ stand_in: "礼"
 aliases:
   - 禮
   - 𥜪
-注音: "ㄌㄝ˙"
+注音: "ㄌㄝㄧ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ mc_id: 1361
 graphemic_classification: "召"
 stand_in: "超"
 aliases:
-注音: "ㄊㄚˇ"
+注音: "ㄊㄚㄨ"
 tags:
   - character
 ---

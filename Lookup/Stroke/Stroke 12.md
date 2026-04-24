@@ -8,7 +8,7 @@ size: 344
 1. SKIP-1
 	1. SKIP-1-11-1: No
 	2. [[SKIP-1-10-2]]: 
-		1. <ruby>[凱](/characters/凱.md)<rt>ㄎㄚ˙</rt></ruby>
+		1. <ruby>[凱](/characters/凱.md)<rt>ㄎㄚㄧ</rt></ruby>
 		2. <ruby>[割](/characters/割%20(char).md)<rt>ㄍㄚㄊ</rt></ruby>
 		3. <ruby>[創](/characters/創.md)<rt>ㄑㆼㄫ</rt></ruby>
 		4. <ruby>[勤](/characters/勤.md)<rt>ㄍㄧㄋ</rt></ruby>

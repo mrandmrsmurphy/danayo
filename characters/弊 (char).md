@@ -28,7 +28,7 @@ mc_id: 1351
 graphemic_classification: "敝"
 stand_in: "弊"
 aliases:
-注音: "ㄆㄝ˙"
+注音: "ㄆㄝㄧ"
 tags:
   - character
 ---

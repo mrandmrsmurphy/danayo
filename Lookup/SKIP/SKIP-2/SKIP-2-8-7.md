@@ -9,13 +9,13 @@ skip_number: 2-8-7
 
 ## Characters
 ### Used
-1. <ruby>[[黎]]<rt>ㄌㄝ˙</rt></ruby> - Lii
+1. <ruby>[[黎]]<rt>ㄌㄝㄧ</rt></ruby> - Liǝ
 2. <ruby>[[賛]]<rt>ㄐㄚㄋ</rt></ruby> - help, support
 3. <ruby>[[質]]<rt>ㄐㄧㄊ</rt></ruby> - essense, nature
 4. <ruby>[[震]]<rt>ㄐㄧㄋ</rt></ruby> - shake
-5. <ruby>[[輩 (char)|輩]]<rt>ㄅㄛ˙</rt></ruby> - generation
+5. <ruby>[[輩 (char)|輩]]<rt>ㄅㄛㄧ</rt></ruby> - generation
 6. <ruby>[[霊]]<rt>ㄌㄝㄫ</rt></ruby> - ghost
-7. <ruby>[[慧 (char)|慧]]<rt>ㄏ⼔˙</rt></ruby> - bright, intelligent
+7. <ruby>[[慧 (char)|慧]]<rt>ㄏ⼔ㄧ</rt></ruby> - bright, intelligent
 8. <ruby>[[霅]]<rt>ㄙㄛㄆ</rt></ruby> - pitter patter
 ### Aliases
 - 瑩 --> 瑛

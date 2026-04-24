@@ -40,4 +40,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[題目](/words/題目.md)<rt>ㄊㄝ˙ㄇㄨㄎ</rt></ruby> - topic
+- <ruby>[題目](/words/題目.md)<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby> - topic

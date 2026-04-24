@@ -27,7 +27,7 @@ mc_id: 722
 graphemic_classification: 己
 stand_in: 改
 aliases:
-注音: ㄍㄚ˙
+注音: ㄍㄚㄧ
 tags:
   - character
 ---

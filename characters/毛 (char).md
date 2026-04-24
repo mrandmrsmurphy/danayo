@@ -28,7 +28,7 @@ mc_id: 951
 graphemic_classification: "象形"
 stand_in: "毛"
 aliases:
-注音: "ㄇㄚˇ"
+注音: "ㄇㄚㄨ"
 tags:
   - character
 ---

@@ -1,7 +1,7 @@
 This is the list of <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> required in Japanese grammar school.  For the other 1000+ characters, see [[Jōyō - Kōtō]].
 
 The following prefecture names were added in 2017:
-- 4th: 茨 (Ibaraki), 媛 (Ehime), 岡 (Shizuoka, Okayama and Fukuoka), 潟 (Niigata), 岐 (Gifu), 熊 (Kumamoto), 香 (Kagawa), 佐 (Saga), 埼 (Saitama), 崎 (Nagasaki and Miyazaki), 滋 (Shiga), 鹿 (Kagoshima), 縄 (Okinawa)
+- 4th: 茨 (Ibaraki), 媛 (Ehime), 岡 (Shizuoka, Okayama and Fukuoka), 潟 (Niǝgata), 岐 (Gifu), 熊 (Kumamoto), 香 (Kagawa), 佐 (Saga), 埼 (Saitama), 崎 (Nagasaki and Miyazaki), 滋 (Shiga), 鹿 (Kagoshima), 縄 (Okinawa)
 - 5th: 井 (Fukui), 沖 (Okinawa), 栃 (Tochigi), 奈 (Kanagawa and Nara), 梨 (Yamanashi), 阪 (Ōsaka), 阜 (Gifu)
 ## Grade 1 - 80
 1. [一](一%20(char)) : ichi (hito-tsu)    
@@ -21,8 +21,8 @@ The following prefecture names were added in 2017:
 15. [左](characters/左.md) : sa (hidari)    
 16. [右](characters/右.md) : u / yū (migi)    
 17. [[中 (char)]] : chū (naka)    
-18. [[大 (char)]] : dai / tai (ō-kii)    
-19. [[小 (char)]] : shō (chii-sai)    
+18. [[大 (char)]] : dai / tai (ō-kiǝ)    
+19. [[小 (char)]] : shō (chiǝ-sai)    
 20. [[月 (char)]] : getsu / gatsu (tsuki)    
 21. [[日 (char)]] : nichi / jitsu (hi, ka)    
 22. [[年 (char)]] : nen (toshi)    
@@ -69,7 +69,7 @@ The following prefecture names were added in 2017:
 63. [村](../../characters/村.md) : son (mura)    
 64. [町](../../characters/町.md) : chō (machi)    
 65. [森](../../characters/森.md) : shin (mori)    
-66. [[正 (char)]] : sei / shō (tada-shii)    
+66. [[正 (char)]] : sei / shō (tada-shiǝ)    
 67. [[水 (char)]] : sui (mizu)    
 68. [[火 (char)]] : ka (hi)    
 69. [玉 (char)](../../characters/玉%20(char).md) : gyoku (tama)    
@@ -135,7 +135,7 @@ The following prefecture names were added in 2017:
 128. [秋 (char)](../../characters/秋%20(char).md) : autumn ; shū (aki)
 129. [冬 (char)](../../characters/冬%20(char).md) : winter ; tō (fuyu)
 130. [今 (char)](../../characters/今%20(char).md) : now ; kon (ima)
-131. [新 (char)](characters/新%20(char).md) : new ; shin (atara-shii, ara-ta)
+131. [新 (char)](characters/新%20(char).md) : new ; shin (atara-shiǝ, ara-ta)
 132. [古](../../characters/古.md) : old ; ko (furu-i)
 133. [間](../../characters/間.md) : interval ; kan, ken (ma, aida)
 134. [方](../../characters/方.md) : direction ; hō (kata)
@@ -236,7 +236,7 @@ The following prefecture names were added in 2017:
 229. [合 (char)](characters/合%20(char).md)合 : fit ; gō (a-u)
 230. [当 (char)](../../characters/当%20(char).md) : this, hit ; tō (a-taru)
 231. [[台 (char)]] : pedestal ; dai, tai ()
-232. [楽](../../characters/楽.md) : music, pleasure ; gaku, raku (tano-shii)
+232. [楽](../../characters/楽.md) : music, pleasure ; gaku, raku (tano-shiǝ)
 233. [[公 (char)]] : public ; kō (ōyake)
 234. [引 (char)](../../characters/引%20(char).md) : pull ; in (hi-ku)
 235. [科](../../characters/科.md) : section, grade ; ka ()
@@ -315,7 +315,7 @@ The following prefecture names were added in 2017:
 307. [急 (char)](../../characters/急%20(char).md) : kyū , iso-gu , hurry , 
 308. [息](../../characters/息.md) : soku , iki , breath , 
 309. [悪 (char)](../../characters/悪%20(char).md) : aku , waru-i , bad , 
-310. [悲 (char)](../../characters/悲%20(char).md) : hi , kana-shii , sad , 
+310. [悲 (char)](../../characters/悲%20(char).md) : hi , kana-shiǝ , sad , 
 311. [想](../../characters/想.md) : sō , – , thought , 
 312. [意](../../characters/意.md) : i , – , idea , 
 313. [感](../../characters/感.md) : kan , – , feel , 
@@ -392,18 +392,18 @@ The following prefecture names were added in 2017:
 384. [笛](../../characters/笛.md) : teki , fue , whistle , 
 385. [第 (char)](../../characters/第%20(char).md) : dai ,  , ordinal number prefix , 
 386. [筆 (char)](../../characters/筆%20(char).md) : hitsu , fude , writing brush , 
-387. [等 (char)](../../characters/等%20(char).md) : tō , hito-shii , class , 
+387. [等 (char)](../../characters/等%20(char).md) : tō , hito-shiǝ , class , 
 388. [箱 (char)](../../characters/箱%20(char).md) :  , hako , box , 
 389. [級](../../characters/級.md) : kyū , – , rank , 
 390. [終](../../characters/終.md) : shū , o-waru;  o-eru , end , 
 391. [緑 (char)](characters/緑%20(char).md) : ryoku , midori , green , 
 392. [練](../../characters/練.md) : ren , ne-ru , practice , 
 393. [羊](../../characters/羊.md) : yō , hitsuji , sheep , 
-394. [美 (char)](../../characters/美%20(char).md) : bi , utsuku-shii , beauty , 
+394. [美 (char)](../../characters/美%20(char).md) : bi , utsuku-shiǝ , beauty , 
 395. [習](../../characters/習.md) : shū , nara-u , learn , 
 396. [者 (char)](../../characters/者%20(char).md) : sha , mono , someone , 
 397. [育 (char)](../../characters/育%20(char).md) : iku , soda-tsu;  soda-teru;  haguku-mu , nurture , 
-398. [苦 (char)](../../characters/苦%20(char).md) : ku , kuru-shii;  kuru-shimu;  kuru-shimeru;  niga-i;  niga-ru , suffer , 
+398. [苦 (char)](../../characters/苦%20(char).md) : ku , kuru-shiǝ;  kuru-shimu;  kuru-shimeru;  niga-i;  niga-ru , suffer , 
 399. [荷](../../characters/荷.md) : ka , ni , luggage , 
 400. [落](../../characters/落.md) : raku , o-chiru;  otosu , fall , 
 401. [葉 (char)](characters/葉%20(char).md) : yō , ha , leaf , 
@@ -501,7 +501,7 @@ The following prefecture names were added in 2017:
 492. [埼](characters/埼.md)
 493. [塩](characters/塩%20(char).md) : en	shio	salt
 494. [変](characters/変%20(char).md) : hen	ka-waru	change
-495. [夫](characters/夫%20(char).md) : fu fuu bu	otto	husband
+495. [夫](characters/夫%20(char).md) : fu fuo bu	otto	husband
 496. [失](characters/失.md) : shitsu	ushina-u	lose
 497. [[../../characters/奈]] - apple tree
 498. [好](characters/好%20(char).md) : kō	su-ku ; kono-mu	like
@@ -731,7 +731,7 @@ The following prefecture names were added in 2017:
 721. [救](characters/救.md) : kyū	suku-u	salvation
 722. [断](characters/断.md) : dan	ta-tsu ; kotowa-ru	cut off
 723. [旧](characters/旧%20(char).md) : kyū	 	old times
-724. [易](characters/易.md) : eki	yasa-shii	easy
+724. [易](characters/易.md) : eki	yasa-shiǝ	easy
 725. [暴](characters/暴%20(char).md) : bō	aba-ku	outburst
 726. [条](characters/条%20(char).md) : jō	 	clause
 727. [枝](characters/枝.md) : shi	eda	branch
@@ -836,7 +836,7 @@ The following prefecture names were added in 2017:
 826. [銅](characters/銅%20(char).md) : dō	 	copper
 827. [防](characters/防.md) : bō	fuse-gu	prevent
 828. [限](characters/限.md) : gen	kagi-ru	limit
-829. [険](characters/険%20(char).md) : ken	kewa-shii	precipitous
+829. [険](characters/険%20(char).md) : ken	kewa-shiǝ	precipitous
 830. [際](characters/際%20(char).md) : sai	kiwa	occasion
 831. [雑](characters/雑%20(char).md) : zatsu	 	miscellaneous
 832. [非](characters/非%20(char).md) : hi	ara-zu	negative
@@ -854,7 +854,7 @@ The following prefecture names were added in 2017:
 843. [俵](characters/俵.md) : hyō	tawara	straw bag
 844. [値](characters/値.md) : chi	atai	value
 845. [傷](characters/傷.md) : shō	kizu	wound
-846. [優](characters/優.md) : yū	yasa-shii	superior
+846. [優](characters/優.md) : yū	yasa-shiǝ	superior
 847. [党](characters/党.md) : tō	 	political party
 848. [冊](characters/冊%20(char).md) : satsu	 	counter for books
 849. [処](characters/処%20(char).md) : sho	 	dispose
@@ -866,7 +866,7 @@ The following prefecture names were added in 2017:
 855. [勤](characters/勤.md) : kin	tsuto-meru	diligence
 856. [危](characters/危.md) : ki	aya-ui	dangerous
 857. [卵](characters/卵.md) : ran	tamago	egg
-858. [厳](characters/厳%20(char).md) : gen	kibi-shii	strict
+858. [厳](characters/厳%20(char).md) : gen	kibi-shiǝ	strict
 859. [収](characters/収.md) : shū	osa-meru	take in
 860. [后](characters/後%20(char).md) : gō	kisaki	queen
 861. [否](characters/否%20(char).md) : hi	ina ;  iya	negate
@@ -938,7 +938,7 @@ The following prefecture names were added in 2017:
 927. [模](../../characters/模.md) : mo ; bo	 	imitation
 928. [権](../../characters/権.md) : ken	 	rights
 929. [樹](../../characters/樹.md) : ju	ki	trees
-930. [欲](../../characters/欲.md) : yoku	ho-shii	longing
+930. [欲](../../characters/欲.md) : yoku	ho-shiǝ	longing
 931. [段](characters/段%20(char).md) : dan	 	steps
 932. [沿 (char)](../../characters/沿%20(char).md) : en	so-u	run alongside
 933. [泉](../../characters/泉.md) : sen	izumi	fountain
@@ -947,7 +947,7 @@ The following prefecture names were added in 2017:
 936. [済](characters/済%20(char).md) : sai	su-mu	settle
 937. [源](../../characters/源.md) : gen	minamoto	origin
 938. [潮](../../characters/潮.md) : chō	shio	tide
-939. [激](../../characters/激.md) : geki	hage-shii	violent
+939. [激](../../characters/激.md) : geki	hage-shiǝ	violent
 940. [灰 (char)](../../characters/灰%20(char).md) : kai	hai	ashes
 941. [熟](../../characters/熟.md) : juku	u-reru	ripen
 942. [片 (char)](../../characters/片%20(char).md) : hen	kata	one-sided
@@ -992,7 +992,7 @@ The following prefecture names were added in 2017:
 981. [腸](../../characters/腸.md) : chō	 –	intestines
 982. [舌 (char)](../../characters/舌%20(char).md) : zetsu	shita	tongue
 983. [若 (char)](../../characters/若%20(char).md) : jaku	waka-i	young
-984. [著](../../characters/着%20(char).md) : cho	arawa-su ; ichijiru-shii	renowned
+984. [著](../../characters/着%20(char).md) : cho	arawa-su ; ichijiru-shiǝ	renowned
 985. [蒸 (char)](../../characters/蒸%20(char).md) : jō	mu-su	steam
 986. [蔵](../../characters/蔵.md) : zō	kura	warehouse
 987. [蚕](../../characters/蚕%20(char).md) : san	kaiko	silkworm
@@ -1030,7 +1030,7 @@ The following prefecture names were added in 2017:
 1019. [銭](../../characters/銭.md) : sen	zeni	coin
 1020. [除](../../characters/除.md) : jo ; ji	nozo-ku	exclude
 1021. [障](../../characters/障.md) : shou	sawa-ru	hurt
-1022. [難](../../characters/難.md) : nan	muzuka-shii	difficult
+1022. [難](../../characters/難.md) : nan	muzuka-shiǝ	difficult
 1023. [革](../../characters/革.md) : kaku	kawa	leather
 1024. [頂](../../characters/頂.md) : chou	itada-ku	place on the head
 1025. [預](../../characters/予.md) : yo	azu-keru	deposit

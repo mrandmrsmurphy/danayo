@@ -26,4 +26,4 @@ guild
 factory
 
 ## Addendum
-- retire <ruby>[退職](/words/退職.md)<rt>ㄊㄛ˙ㄐㄧㄎ</rt></ruby>
+- retire <ruby>[退職](/words/退職.md)<rt>ㄊㄛㄧㄐㄧㄎ</rt></ruby>

@@ -26,7 +26,7 @@ mc_id: 1232
 graphemic_classification: "會意"
 stand_in: "尾"
 aliases:
-注音: "ㄇㄨ˙"
+注音: "ㄇㄨㄧ"
 tags:
   - character
 ---

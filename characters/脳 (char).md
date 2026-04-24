@@ -32,7 +32,7 @@ aliases:
   - 腦
   - 脑
   - 匘
-注音: ㄋㄚˇ
+注音: ㄋㄚㄨ
 tags:
   - character
 ---

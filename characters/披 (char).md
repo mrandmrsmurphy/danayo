@@ -23,7 +23,7 @@ danayo_id: "5467"
 mc_id: "2226"
 graphemic_classification: 皮
 stand_in: 披
-注音: ㄆㄨ˙
+注音: ㄆㄨㄧ
 tags:
   - character
 ---

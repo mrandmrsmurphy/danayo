@@ -26,7 +26,7 @@ mc_id: 686
 graphemic_classification: "女"
 stand_in: "汝"
 aliases:
-注音: "ㄋㄛ˙"
+注音: "ㄋㄛㄧ"
 tags:
   - character
 ---

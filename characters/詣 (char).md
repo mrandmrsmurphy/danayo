@@ -29,7 +29,7 @@ graphemic_classification: "旨"
 stand_in: "詣"
 aliases:
   - 诣
-注音: "ㄝ˙"
+注音: "ㄝㄧ"
 tags:
   - character
 ---

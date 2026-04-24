@@ -8,7 +8,7 @@ skip_number: 3-6-4
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
 ## Characters
-1. <ruby>[栽](/characters/栽.md)<rt>ㄐㄚ˙</rt></ruby> - cultivate
+1. <ruby>[栽](/characters/栽.md)<rt>ㄐㄚㄧ</rt></ruby> - cultivate
 2. <ruby>[烏](/characters/烏.md)<rt>ㄛ</rt></ruby> - bird
 3. <ruby>[馬](/characters/馬%20(char).md)<rt>ㄇㄚ</rt></ruby> - horse
 

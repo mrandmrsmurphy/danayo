@@ -8,7 +8,7 @@ skip_number: 3-7-4
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 ## Characters
-1. <ruby>[鳥](/characters/鳥%20(char).md)<rt>ㄑㄛˇ</rt></ruby> - bird
+1. <ruby>[鳥](/characters/鳥%20(char).md)<rt>ㄑㄛㄨ</rt></ruby> - bird
 
 ## Datacheck
 ```dataview

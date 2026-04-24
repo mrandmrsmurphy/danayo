@@ -17,7 +17,7 @@ pos: ""
 english:
   - attend
   - visit
-羅馬字: fuu
+羅馬字: fuo
 韓文: "뿟"
 joyo_level: "高等"
 hsk_level: ""
@@ -27,7 +27,7 @@ mc_id: 1530
 graphemic_classification: "卜"
 stand_in: "赴"
 aliases:
-注音: "ㄈㄨˇ"
+注音: "ㄈㄨㄛ"
 tags:
   - character
 ---

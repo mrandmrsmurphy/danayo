@@ -27,7 +27,7 @@ mc_id: 1341
 graphemic_classification: "己"
 stand_in: "配"
 aliases:
-注音: "ㄆㄛ˙"
+注音: "ㄆㄛㄧ"
 tags:
   - character
 ---

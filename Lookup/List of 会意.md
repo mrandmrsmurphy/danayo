@@ -120,16 +120,16 @@ That answer determines the classification.
 ## By Stroke
 ### 3
 1. <ruby>[丈](/characters/丈%20(char).md)<rt>ㄑㄚㄫ</rt></ruby> "cang = 10 + ceg"
-2. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚ˙</rt></ruby> "fork = right-hand + dot"
+2. <ruby>[叉](/characters/叉%20(char).md)<rt>ㄑㄚㄧ</rt></ruby> "fork = right-hand + dot"
 3. <ruby>[及](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby> "reach = person + right-hand"
 4. <ruby>[之](/characters/之%20(char).md)<rt>ㄊㄧ</rt></ruby> "to go = foot + start"
 5. <ruby>[与](/characters/与%20(char).md)<rt>⼄</rt></ruby> "offer = hands + tusk"
 ### 4
 6. <ruby>[公](/characters/公%20(char).md)<rt>ㄍㄛㄫ</rt></ruby> "public = not + private"
-7. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝ˙</rt></ruby> "pshaw = tree + wind"
+7. <ruby>[兮](/characters/兮%20(char).md)<rt>ㄏㄝㄧ</rt></ruby> "pshaw = tree + wind"
 8. <ruby>[分](/characters/分%20(char).md)<rt>ㄅㄨㄋ</rt></ruby> "divide = separate + knife"
 9. <ruby>[勻](/characters/勻.md)<rt>⼜ㄋ</rt></ruby> "equal = person + two bars"
-10. <ruby>[勾](/characters/勾.md)<rt>ㄍㄛˇ</rt></ruby>
+10. <ruby>[勾](/characters/勾.md)<rt>ㄍㄛㄨ</rt></ruby>
 11. 化 (char)
 12. 双 (char)
 13. 反 (char)
@@ -152,7 +152,7 @@ That answer determines the classification.
 29. 左
 ### 6 
 30. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 同, 名 (char), 吏, 各 (char), 因, 多 (char)
-31. <ruby>[好](/characters/好%20(char).md)<rt>ㄏㄚˇ</rt></ruby>
+31. <ruby>[好](/characters/好%20(char).md)<rt>ㄏㄚㄨ</rt></ruby>
 32. 存, 守, 安, 尖, 後 (char), 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 
 ### 7
 29. 乱, 位, 体, 克 (char), 兵, 初, 別 (char), 利, 労, 即 (char), 吝, 吹 (char), 呆 (char), 呉, 告, 困, 声, 妥, 孝 (char), 孚, 宋, 寿, 尾 (char), 尿 (char), 弄 (char), 役, 戒, 我 (char), 抑, 折, 更 (char), 条 (char), 沙 (char), 災, 牢, 
@@ -170,7 +170,7 @@ That answer determines the classification.
 30. 倫, 兼 (char), 冥 (char), 原, 員, 夏 (char), 套 (char), 孫, 家, 射, 将 (char), 展, 差, 庫, 弱 (char), 従 (char), 息, 恵, 扇, 挙 (char), 料, 旅, 既, 晋, 朕 (char), 桑, 殷, 浸 (char), 玆, 班 (char), 益, 秦, 穿 (char), 般 (char), 芻, 蚤, 討, 辱, 連 (char), 閃, 陥 (char), 隼 (char), 韋, 
 ### 11
 30. 喝 (char), 執, 壷, 婁, 宿, 寇, 尉 (char), 彗, 
-31. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ˇ</rt></ruby> "tiger stripes" = "tiger" + "stripes"
+31. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes" = "tiger" + "stripes"
 32. 悉, 惇, 探, 掬, 斬 (char), 断, 旋, 族, 曼, 曹, 深, 渉 (char), 爽, 甜, 産, 畢, 異, 盗, 票 (char), 祭, 章 (char), 竟 (char), 粛, 翏, 覓, 規, 訥 (char), 設, 豚 (char), 赦, 軣, 逸 (char), 郵, 郭 (char), 郷, 閉, 陳, 麻, 
 ### 12
 30. 備, 制, 卿 (char), 善 (char), 喪, 報 (char), 寒, 尊, 尋 (char), 巽, 嵐, 彭, 戟, 散, 敦, 敢, 斑, 晶, 替, 最 (char), 棗, 棘, 森, 焚, 焦 (char), 畳 (char), 筋, 粥 (char), 絞, 絶 (char), 買, 道 (char), 量, 閑, 閏 (char), 間, 閙, 須, 飧, 

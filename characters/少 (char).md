@@ -26,7 +26,7 @@ mc_id: 189
 graphemic_classification: "小"
 stand_in: "少"
 aliases:
-注音: "ㄙㄛˇ"
+注音: "ㄙㄛㄨ"
 tags:
   - character
 ---

@@ -21,7 +21,7 @@ mc_id: 1567
 graphemic_classification: 圭
 stand_in: 卦
 grade_level: "先進"
-注音: ㄍㆼ˙
+注音: ㄍㆼㄧ
 joyo_level: 表外字
 hsk_level:
 tags:

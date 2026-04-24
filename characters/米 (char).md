@@ -28,7 +28,7 @@ mc_id: 1319
 graphemic_classification: "象形"
 stand_in: "米"
 aliases:
-注音: "ㄇㄝ˙"
+注音: "ㄇㄝㄧ"
 tags:
   - character
 ---

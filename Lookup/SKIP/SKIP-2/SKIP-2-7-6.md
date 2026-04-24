@@ -7,7 +7,7 @@ date-last-perfect: 2026-03-20
 > SKIP : 2 : [7](lookup/SKIP/SKIP-2/SKIP-2-7.md)
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 ## Characters
-1. <ruby>[資](/characters/資.md)<rt>ㄐㄧ˙</rt></ruby> - property
+1. <ruby>[資](/characters/資.md)<rt>ㄐㄧㄜ</rt></ruby> - property
 
 ## Datacheck
 ```dataview

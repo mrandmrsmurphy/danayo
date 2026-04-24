@@ -28,7 +28,7 @@ mc_id: 2274
 graphemic_classification: "高"
 stand_in: "毫"
 aliases:
-注音: "ㄏㄚˇ"
+注音: "ㄏㄚㄨ"
 tags:
   - character
 ---

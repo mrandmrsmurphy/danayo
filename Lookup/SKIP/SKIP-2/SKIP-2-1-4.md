@@ -9,7 +9,7 @@ size: 3
 
 ## Characters
 1. <ruby>[主](/characters/主.md)<rt>ㄐㄨ</rt></ruby> - lord
-2. <ruby>[永](/characters/永.md)<rt>ˇㄧㄫ</rt></ruby> - eternal
+2. <ruby>[永](/characters/永.md)<rt>ㄨㄧㄫ</rt></ruby> - eternal
 3. <ruby>[示](/characters/示.md)<rt>ㄍㄝ</rt></ruby> - reveal
 
 ## Datacheck

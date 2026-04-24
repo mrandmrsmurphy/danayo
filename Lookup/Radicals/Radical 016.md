@@ -9,7 +9,7 @@ date-last-perfect: 2026-04-02
 1. <ruby>[凡](/characters/凡.md)<rt>ㄅㄛㄇ</rt></ruby> - ordinary
 2. <ruby>[処](/characters/処%20(char).md)<rt>ㄑㄛ</rt></ruby> - place
 3. <ruby>[凰](/characters/凰.md)<rt>ㄏㆼㄫ</rt></ruby> - female phoenix
-4. <ruby>[凱](/characters/凱.md)<rt>ㄎㄚ˙</rt></ruby> - triumphant song
+4. <ruby>[凱](/characters/凱.md)<rt>ㄎㄚㄧ</rt></ruby> - triumphant song
 
 
 ## Dataview

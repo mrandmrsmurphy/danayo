@@ -1,9 +1,9 @@
 
 ## 六芸
 <ruby>[六芸](/words/六芸.md)<rt>ㄌㄨㄎ·ㄝ</rt></ruby>
-- <ruby>[礼](/words/礼.md)<rt>ㄌㄝ˙</rt></ruby>
+- <ruby>[礼](/words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>
 	- 《[[儀礼]]》 (_Etiquette and Ceremonial_), 
-	- 《<ruby>[礼記](/words/礼記.md)<rt>ㄌㄝ˙ㄍ˙</rt></ruby>》 (_Book of Rites_), 
+	- 《<ruby>[礼記](/words/礼記.md)<rt>ㄌㄝㄧㄍ˙</rt></ruby>》 (_Book of Rites_), 
 	- 《[[周]][[礼]]》 (_Rites of Zhou_)
 - <ruby>[音楽](/words/音楽.md)<rt>ㄨㄇㄌㄚㄎ</rt></ruby>
 	- [[詩経]] (_Book of Odes_), 

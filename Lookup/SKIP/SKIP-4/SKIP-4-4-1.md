@@ -17,7 +17,7 @@ date-last-perfect: 2026-03-20
 8. <ruby>[互](characters/互.md)<rt>ㄏㄛ</rt></ruby>
 9. <ruby>[弔](characters/弔%20(char).md)<rt>ㄐㄝㄎ</rt></ruby>
 10. <ruby>[牙](characters/牙.md)<rt>ㄚ</rt></ruby>
-11. <ruby>[丐](characters/丐.md)<rt>ㄍㄚ˙</rt></ruby>
+11. <ruby>[丐](characters/丐.md)<rt>ㄍㄚㄧ</rt></ruby>
 12. <ruby>[巴](characters/巴%20(char).md)<rt>ㄆㄚ</rt></ruby>
 13. <ruby>[歹](characters/歹.md)<rt>ㄚㄊ</rt></ruby>
 14. <ruby>[𡈼](/characters/𡈼.md)<rt>ㄊㄧㄋ</rt></ruby> - stalk

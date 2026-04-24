@@ -29,7 +29,7 @@ graphemic_classification: 戻
 stand_in: 涙
 aliases:
   - 淚
-注音: ㄌㄨ˙
+注音: ㄌㄨㄧ
 tags:
   - character
 ---

@@ -62,8 +62,8 @@ tags:
 * <ruby>[[五角形]]<rt>·ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> - pentagon
 * <ruby>[[五穀]]<rt>·ㄛㄍㄛㄎ</rt></ruby> - The Five Grains
 * <ruby>[[五更]]<rt>·ㄛㄍㄚㄫ</rt></ruby> - the five watches of the night
-* <ruby>[[五指]]<rt>·ㄛㄐㄨˇ</rt></ruby> - the five fingers/top five
+* <ruby>[[五指]]<rt>·ㄛㄐㄨㄛ</rt></ruby> - the five fingers/top five
 * <ruby>[[五官]]<rt>·ㄛㄍㄨㄚㄋ</rt></ruby> - The Five Sense-Organs
-* <ruby>[[words/四捨五入]]<rt>ㄙㄧ˙ㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> - rounding
+* <ruby>[[words/四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> - rounding
 ### Links
 ![[nav/Numerals]]

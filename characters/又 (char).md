@@ -16,7 +16,7 @@ grade_level: 3
 pos: ""
 english:
   - or again
-羅馬字: "'uu"
+羅馬字: "'uo"
 韓文: "웃"
 joyo_level: "高等"
 hsk_level: 1
@@ -26,7 +26,7 @@ mc_id: 147
 graphemic_classification: "象形"
 stand_in: "又"
 aliases:
-注音: "ㄨˇ"
+注音: "ㄨㄛ"
 tags:
   - character
 ---

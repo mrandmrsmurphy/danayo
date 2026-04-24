@@ -18,7 +18,7 @@ english:
   - mortar
   - millstone
   - socket
-羅馬字: gyuu
+羅馬字: gyuo
 韓文: "귯"
 joyo_level: "高等"
 hsk_level: ""
@@ -28,7 +28,7 @@ mc_id: 2374
 graphemic_classification: "象形"
 stand_in: "臼"
 aliases:
-注音: "ㄍ⼜ˇ"
+注音: "ㄍ⼜ㄛ"
 tags:
   - character
 ---

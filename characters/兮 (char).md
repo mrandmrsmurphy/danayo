@@ -26,7 +26,7 @@ mc_id: 258
 graphemic_classification: "會意"
 stand_in: "兮"
 aliases:
-注音: "ㄏㄝ˙"
+注音: "ㄏㄝㄧ"
 tags:
   - character
 ---

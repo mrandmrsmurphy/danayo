@@ -26,7 +26,7 @@ mc_id: 804
 graphemic_classification: "隹"
 stand_in: "推"
 aliases:
-注音: "ㄑㄨ˙"
+注音: "ㄑㄨㄧ"
 tags:
   - character
 ---

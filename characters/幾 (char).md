@@ -19,7 +19,7 @@ english:
   - a few
   - some
   - several
-羅馬字: gii
+羅馬字: giǝ
 韓文: "긔"
 joyo_level: "高等"
 hsk_level: 1
@@ -30,7 +30,7 @@ graphemic_classification: "戍"
 stand_in: "幾"
 aliases:
   - 几
-注音: "ㄍㄧ˙"
+注音: "ㄍㄧㄜ"
 tags:
   - character
 ---

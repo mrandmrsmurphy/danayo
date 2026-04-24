@@ -29,7 +29,7 @@ graphemic_classification: 包
 stand_in: 鮑
 aliases:
   - 鲍
-注音: ㄅㄚˇ
+注音: ㄅㄚㄨ
 tags:
   - character
 ---

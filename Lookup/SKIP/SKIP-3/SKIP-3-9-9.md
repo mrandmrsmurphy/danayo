@@ -8,7 +8,7 @@ skip_number: 3-9-9
 > [Stroke 18](lookup/Stroke/Stroke%2018.md)
 
 ## Characters
-1. <ruby>[題](/characters/題.md)<rt>ㄊㄝ˙</rt></ruby> - topic
+1. <ruby>[題](/characters/題.md)<rt>ㄊㄝㄧ</rt></ruby> - topic
 
 ## Datacheck
 ```dataview

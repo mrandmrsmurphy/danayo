@@ -43,4 +43,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[茂密](/words/茂密.md)<rt>ㄇㄛˇㄇㄧㄊ</rt></ruby>
+- <ruby>[茂密](/words/茂密.md)<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby>

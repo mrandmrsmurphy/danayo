@@ -30,7 +30,7 @@ stand_in: 鴎
 aliases:
   - 鷗
   - 鸥
-注音: ㄛˇ
+注音: ㄛㄨ
 tags:
   - character
 ---
@@ -41,4 +41,4 @@ tags:
 ```
 ## Notes
 - Dropped from the Korean HS list in 2000.
-- [[ㄛˇ]]
+- [[ㄛㄨ]]

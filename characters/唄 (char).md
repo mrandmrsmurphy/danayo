@@ -27,7 +27,7 @@ graphemic_classification: 貝
 stand_in: 唄
 aliases:
   - 呗
-注音: ㄅㄚ˙
+注音: ㄅㄚㄧ
 tags:
   - character
 ---

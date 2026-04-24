@@ -8,7 +8,7 @@ size: 1
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-1. <ruby>[裁](/characters/裁.md)<rt>ㄑㄚ˙</rt></ruby> - tailor
+1. <ruby>[裁](/characters/裁.md)<rt>ㄑㄚㄧ</rt></ruby> - tailor
 
 ## Datacheck
 ```dataview

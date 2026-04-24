@@ -29,7 +29,7 @@ graphemic_classification: "豆"
 stand_in: "頭"
 aliases:
   - 头
-注音: "ㄊㄛˇ"
+注音: "ㄊㄛㄨ"
 tags:
   - character
 ---
@@ -40,7 +40,7 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*doː): phonetic [豆 (char)](豆%20(char).md) (OC \*doːs) + semantic [頁](Radical%20181) (“head”).
-- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md)) - [ㄊㄛˇ](../syllables/ㄊㄛˇ.md)
+- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md)) - [ㄊㄛㄨ](../syllables/ㄊㄛㄨ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
 
 - ## Chengyu

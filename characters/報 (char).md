@@ -28,7 +28,7 @@ graphemic_classification: 會意
 stand_in: 報
 aliases:
   - 报
-注音: ㄅㄚˇ
+注音: ㄅㄚㄨ
 tags:
   - character
 ---

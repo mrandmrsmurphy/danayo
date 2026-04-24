@@ -30,7 +30,7 @@ graphemic_classification: "少"
 stand_in: "妙"
 aliases:
   - 玅
-注音: "ㄇ⼄ˇ"
+注音: "ㄇ⼄ㄨ"
 tags:
   - character
 ---

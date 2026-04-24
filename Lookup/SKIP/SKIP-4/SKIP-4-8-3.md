@@ -8,7 +8,7 @@ skip_number: 4-8-3
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 ## Characters
-1. <ruby>[乖](/characters/乖.md)<rt>ㄍㆼ˙</rt></ruby> - obedient
+1. <ruby>[乖](/characters/乖.md)<rt>ㄍㆼㄧ</rt></ruby> - obedient
 2. <ruby>[事](/characters/事%20(char).md)<rt>ㄐㄧ</rt></ruby> - action
 3. <ruby>[東](/characters/東.md)<rt>ㄉㄛㄫ</rt></ruby> - east
 4. <ruby>[秉](/characters/秉.md)<rt>ㄅㄧㄫ</rt></ruby> - bundle

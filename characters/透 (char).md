@@ -26,7 +26,7 @@ mc_id: 8799
 graphemic_classification: "秀"
 stand_in: "透"
 aliases:
-注音: "ㄊㄛˇ"
+注音: "ㄊㄛㄨ"
 tags:
   - character
 ---

@@ -8,9 +8,9 @@ skip_number: 3-1-1
 > [Stroke 02](lookup/Stroke/Stroke%2002.md)
 
 ## Characters
-1. <ruby>[乃](/characters/乃%20(char).md)<rt>ㄋㄚ˙</rt></ruby> - but
-2. <ruby>[刀](/characters/刀.md)<rt>ㄊㄚˇ</rt></ruby> - knife
-3. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧ˙</rt></ruby> - spoon
+1. <ruby>[乃](/characters/乃%20(char).md)<rt>ㄋㄚㄧ</rt></ruby> - but
+2. <ruby>[刀](/characters/刀.md)<rt>ㄊㄚㄨ</rt></ruby> - knife
+3. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - spoon
 
 ## Datacheck
 ```dataview

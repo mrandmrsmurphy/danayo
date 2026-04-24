@@ -72,4 +72,4 @@ tags:
 - <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
 
 ## Chengyu
-- <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛˇㄍㄚㄎ</rt></ruby> - Castle in the Sky
+- <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - Castle in the Sky

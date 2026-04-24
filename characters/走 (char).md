@@ -27,7 +27,7 @@ mc_id: 525
 graphemic_classification: "象形"
 stand_in: "走"
 aliases:
-注音: "ㄙㄛˇ"
+注音: "ㄙㄛㄨ"
 tags:
   - character
 ---

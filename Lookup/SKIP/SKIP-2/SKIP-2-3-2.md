@@ -11,9 +11,9 @@ skip_number: 2-3-2
 - <ruby>[冬](characters/冬%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - winter
 - <ruby>[去](characters/去%20(char).md)<rt>ㄎ⼄</rt></ruby> - go
 - <ruby>[只](characters/只%20(char).md)<rt>ㄑㄝ</rt></ruby> - only, just
-- <ruby>[号](characters/号.md)<rt>ㄏㄚˇ</rt></ruby> - symbol, mark
+- <ruby>[号](characters/号.md)<rt>ㄏㄚㄨ</rt></ruby> - symbol, mark
 - <ruby>[穴](characters/穴.md)<rt>ㄏ⼔ㄊ</rt></ruby> - cave
-- <ruby>[艾](characters/艾.md)<rt>ㄚ˙</rt></ruby> - mugwort
+- <ruby>[艾](characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
 
 ## Data double check
 ```dataview

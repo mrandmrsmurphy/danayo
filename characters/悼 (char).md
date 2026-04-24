@@ -26,7 +26,7 @@ mc_id: 1222
 graphemic_classification: "卓"
 stand_in: "悼"
 aliases:
-注音: "ㄉㄚˇ"
+注音: "ㄉㄚㄨ"
 tags:
   - character
 ---

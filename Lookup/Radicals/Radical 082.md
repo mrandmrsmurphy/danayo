@@ -6,8 +6,8 @@ radical: 毛
 > [[Radicals]]
 
 ## Characters
-1. <ruby>[毛](/characters/毛%20(char).md)<rt>ㄇㄚˇ</rt></ruby> - fur
-2. <ruby>[毫](/characters/毫%20(char).md)<rt>ㄏㄚˇ</rt></ruby> - hair
+1. <ruby>[毛](/characters/毛%20(char).md)<rt>ㄇㄚㄨ</rt></ruby> - fur
+2. <ruby>[毫](/characters/毫%20(char).md)<rt>ㄏㄚㄨ</rt></ruby> - hair
 
 ## Data search
 ```dataview

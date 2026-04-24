@@ -29,7 +29,7 @@ graphemic_classification: "唯"
 stand_in: "雖"
 aliases:
   - 虽
-注音: "ㄙㄨ˙"
+注音: "ㄙㄨㄧ"
 tags:
   - character
 ---

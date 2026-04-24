@@ -10,7 +10,7 @@ radical: 彡
 2. 彤
 3. 彦
 4. 彩
-5. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ˇ</rt></ruby> "tiger stripes"
+5. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes"
 6. 彫
 7. 彬
 8. 彭

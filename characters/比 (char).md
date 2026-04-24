@@ -17,7 +17,7 @@ pos: ""
 english:
   - than
   - compared too
-羅馬字: bii
+羅馬字: biǝ
 韓文: "븨"
 joyo_level: 5
 hsk_level: 1
@@ -28,7 +28,7 @@ graphemic_classification: "會意"
 stand_in: "比"
 aliases:
   - 譬
-注音: "ㄅㄧ˙"
+注音: "ㄅㄧㄜ"
 tags:
   - character
 ---

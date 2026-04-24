@@ -8,7 +8,7 @@ skip_number: 2-1-1
 > [Stroke 02](lookup/Stroke/Stroke%2002.md)
 
 Only
-- <ruby>[[二]]<rt>ㄋㄧ˙</rt></ruby> - two
+- <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> - two
 
 ### Data double check
 ```dataview

@@ -30,7 +30,7 @@ graphemic_classification: "鬼"
 stand_in: "塊"
 aliases:
   - 块
-注音: "ㄎㄛ˙"
+注音: "ㄎㄛㄧ"
 tags:
   - character
 ---

@@ -29,7 +29,7 @@ mc_id: 268
 graphemic_classification: "會意"
 stand_in: "好"
 aliases:
-注音: "ㄏㄚˇ"
+注音: "ㄏㄚㄨ"
 tags:
   - character
 ---

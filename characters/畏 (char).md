@@ -30,7 +30,7 @@ mc_id: 650
 graphemic_classification: "會意"
 stand_in: "畏"
 aliases:
-注音: "ㄛ˙"
+注音: "ㄛㄧ"
 tags:
   - character
 ---

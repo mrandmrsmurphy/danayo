@@ -27,7 +27,7 @@ mc_id: 898
 graphemic_classification: "句"
 stand_in: "苟"
 aliases:
-注音: "ㄍㄛˇ"
+注音: "ㄍㄛㄨ"
 tags:
   - character
 ---

@@ -30,7 +30,7 @@ graphemic_classification: 喬
 stand_in: 橋
 aliases:
   - 桥
-注音: ㄍ⼘ˇ
+注音: ㄍ⼘ㄨ
 tags:
   - character
 ---

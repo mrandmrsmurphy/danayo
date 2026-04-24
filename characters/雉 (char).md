@@ -17,7 +17,7 @@ grade_level: "名"
 pos: ""
 english:
   - green pheasant
-羅馬字: dii
+羅馬字: diǝ
 韓文: "듸"
 joyo_level: "表外字"
 hsk_level: ""
@@ -27,7 +27,7 @@ mc_id: 1610
 graphemic_classification: "隹"
 stand_in: "雉"
 aliases:
-注音: "ㄉㄧ˙"
+注音: "ㄉㄧㄜ"
 tags:
   - character
 ---

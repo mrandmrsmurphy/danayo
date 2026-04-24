@@ -27,7 +27,7 @@ mc_id: 1350
 graphemic_classification: "會意"
 stand_in: "早"
 aliases:
-注音: "ㄐㄚˇ"
+注音: "ㄐㄚㄨ"
 tags:
   - character
 ---

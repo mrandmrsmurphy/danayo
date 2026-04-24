@@ -26,7 +26,7 @@ mc_id: 491
 graphemic_classification: "屮"
 stand_in: "妻"
 aliases:
-注音: "ㄑㄝ˙"
+注音: "ㄑㄝㄧ"
 tags:
   - character
 ---

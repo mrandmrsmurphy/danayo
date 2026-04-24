@@ -19,7 +19,7 @@ english:
   - paleo-
   - former
   - old
-羅馬字: gyuu
+羅馬字: gyuo
 韓文: 귯
 joyo_level: "5"
 hsk_level: ""
@@ -30,7 +30,7 @@ graphemic_classification: 臼
 stand_in: 旧
 aliases:
   - 舊
-注音: ㄍ⼜ˇ
+注音: ㄍ⼜ㄛ
 tags:
   - character
 ---

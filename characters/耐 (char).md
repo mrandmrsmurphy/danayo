@@ -29,7 +29,7 @@ mc_id: 3121
 graphemic_classification: "而"
 stand_in: "耐"
 aliases:
-注音: "ㄋㄚ˙"
+注音: "ㄋㄚㄧ"
 tags:
   - character
 ---

@@ -8,7 +8,7 @@ skip_number: 3-6-7
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
 ## Characters
-1. <ruby>[載](/characters/載%20(char).md)<rt>ㄐㄚ˙</rt></ruby> - carry
+1. <ruby>[載](/characters/載%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - carry
 
 ## Datacheck
 ```dataview

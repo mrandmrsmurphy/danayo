@@ -27,7 +27,7 @@ mc_id: 1562
 graphemic_classification: "昭"
 stand_in: "照"
 aliases:
-注音: "ㄐㄛˇ"
+注音: "ㄐㄛㄨ"
 tags:
   - character
 ---

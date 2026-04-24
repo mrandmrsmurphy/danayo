@@ -16,7 +16,7 @@ grade_level: 4
 pos: ""
 english:
   - until
-羅馬字: jii
+羅馬字: jiǝ
 韓文: "즤"
 joyo_level: 6
 hsk_level: ""
@@ -26,7 +26,7 @@ mc_id: 47
 graphemic_classification: "象形"
 stand_in: "至"
 aliases:
-注音: "ㄐㄧ˙"
+注音: "ㄐㄧㄜ"
 tags:
   - character
 ---

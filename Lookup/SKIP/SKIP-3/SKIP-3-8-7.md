@@ -9,7 +9,7 @@ skip_number: 3-8-7
 
 ## Characters
 1. <ruby>[閲](/characters/閲.md)<rt>⼶ㄊ</rt></ruby> - inspect
-2. <ruby>[魅](/characters/魅.md)<rt>ㄇㄧ˙</rt></ruby> - charm
+2. <ruby>[魅](/characters/魅.md)<rt>ㄇㄧㄜ</rt></ruby> - charm
 
 ## Datacheck
 ```dataview

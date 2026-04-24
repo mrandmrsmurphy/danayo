@@ -7,7 +7,7 @@ language: English
 - brown 
 	- [[茶色]] tea color
 	- <ruby>[[褐]]<rt>핟</rt></ruby>
-- color - <ruby>[色彩](/words/色彩.md)<rt>ㄙㄧㄎㄑㄚ˙</rt></ruby>
+- color - <ruby>[色彩](/words/色彩.md)<rt>ㄙㄧㄎㄑㄚㄧ</rt></ruby>
 - grey 
 	- [[灰色]] ash color
 	- <ruby>[鼠色](/words/鼠色.md)<rt>ㄙ⼄ㄙㄧㄎ</rt></ruby> - rat color

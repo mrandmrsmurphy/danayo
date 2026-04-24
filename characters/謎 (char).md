@@ -29,7 +29,7 @@ graphemic_classification: "迷"
 stand_in: "謎"
 aliases:
   - 谜
-注音: "ㄇㄝ˙"
+注音: "ㄇㄝㄧ"
 tags:
   - character
 ---

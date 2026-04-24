@@ -28,7 +28,7 @@ graphemic_classification: "角"
 stand_in: "解"
 aliases:
   - 獬
-注音: "ㄍ⼘˙"
+注音: "ㄍ⼘ㄧ"
 tags:
   - character
 ---

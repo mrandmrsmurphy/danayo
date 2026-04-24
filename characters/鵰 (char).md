@@ -17,7 +17,7 @@ pos: ""
 english:
   - eagle
   - vulture
-羅馬字: cuu
+羅馬字: cuo
 韓文: "춧"
 joyo_level: ""
 hsk_level: ""
@@ -29,7 +29,7 @@ stand_in: "鵰"
 aliases:
   - 𫛲
   - 雕
-注音: "ㄑㄨˇ"
+注音: "ㄑㄨㄛ"
 tags:
   - character
 ---

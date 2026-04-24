@@ -28,7 +28,7 @@ graphemic_classification: "象形"
 stand_in: "士"
 aliases:
   - 仕
-注音: "ㄙㄚ˙"
+注音: "ㄙㄚㄧ"
 tags:
   - character
   - hapax
@@ -42,5 +42,5 @@ tags:
 1194
 
 ## Chengyu
-- <ruby>[国士無双](/chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚ˙ㄇㄨㄍㆼㄫ</rt></ruby>
+- <ruby>[国士無双](/chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍㆼㄫ</rt></ruby>
 - [[選士唯賢]]

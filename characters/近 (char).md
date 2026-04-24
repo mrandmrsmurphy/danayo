@@ -42,4 +42,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚ˙</rt></ruby> - early/near modern period
+- <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby> - early/near modern period

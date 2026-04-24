@@ -27,7 +27,7 @@ mc_id: 1279
 graphemic_classification: "代"
 stand_in: "戴"
 aliases:
-注音: "ㄊㄚ˙"
+注音: "ㄊㄚㄧ"
 tags:
   - character
 ---

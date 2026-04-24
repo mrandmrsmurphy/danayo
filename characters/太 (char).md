@@ -29,7 +29,7 @@ graphemic_classification: 大
 stand_in: 太
 aliases:
   - 冭
-注音: ㄊㄚ˙
+注音: ㄊㄚㄧ
 tags:
   - character
 ---

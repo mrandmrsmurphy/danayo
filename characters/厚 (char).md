@@ -26,7 +26,7 @@ mc_id: 456
 graphemic_classification: "會意"
 stand_in: "厚"
 aliases:
-注音: "ㄏㄛˇ"
+注音: "ㄏㄛㄨ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ mc_id: 989
 graphemic_classification: 會意
 stand_in: 雷
 aliases:
-注音: ㄌㄛ˙
+注音: ㄌㄛㄧ
 tags:
   - character
 ---

@@ -31,7 +31,7 @@ aliases:
   - 濟
   - 侈
   - 济
-注音: "ㄐㄝ˙"
+注音: "ㄐㄝㄧ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ mc_id: 1520
 graphemic_classification: "米"
 stand_in: "迷"
 aliases:
-注音: "ㄇㄝ˙"
+注音: "ㄇㄝㄧ"
 tags:
   - character
 ---

@@ -17,7 +17,7 @@ grade_level: 5
 pos: ""
 english:
   - eyebrows
-羅馬字: mii
+羅馬字: miǝ
 韓文: "믜"
 joyo_level: ""
 hsk_level: ""
@@ -29,7 +29,7 @@ stand_in: "眉"
 aliases:
   - 媚
   - 嵋
-注音: "ㄇㄧ˙"
+注音: "ㄇㄧㄜ"
 tags:
   - character
 ---

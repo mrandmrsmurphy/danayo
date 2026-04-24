@@ -12,11 +12,11 @@ skip_number: 1-2-2
 2. <ruby>[仇](/characters/仇.md)<rt>ㄍ⼜</rt></ruby> - foe
 3. <ruby>[仍](/characters/仍.md)<rt>ㄋㄧㄫ</rt></ruby> - yet, still
 4. <ruby>[切](/characters/切%20(char).md)<rt>ㄑㄝㄊ</rt></ruby> - carve
-5. <ruby>[刈](/characters/刈%20(char).md)<rt>⼘˙</rt></ruby> - mow
+5. <ruby>[刈](/characters/刈%20(char).md)<rt>⼘ㄧ</rt></ruby> - mow
 6. <ruby>[化](/characters/化%20(char).md)<rt>ㄏㄨㄚ</rt></ruby> -ification
 7. <ruby>[双](/characters/双%20(char).md)<rt>ㄙㆼㄫ</rt></ruby> - twin
-8. <ruby>[収](/characters/収.md)<rt>ㄙㄨˇ</rt></ruby> - gather
-9. <ruby>[比](/characters/比%20(char).md)<rt>ㄅㄧ˙</rt></ruby> - than
+8. <ruby>[収](/characters/収.md)<rt>ㄙㄨㄛ</rt></ruby> - gather
+9. <ruby>[比](/characters/比%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - than
 
 ## Datacheck
 ```dataview

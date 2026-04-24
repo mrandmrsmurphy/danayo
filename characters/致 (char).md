@@ -16,7 +16,7 @@ grade_level: "3"
 pos: ""
 english:
   - cause
-羅馬字: cii
+羅馬字: ciǝ
 韓文: 츼
 joyo_level: 高等
 hsk_level: ""
@@ -27,7 +27,7 @@ graphemic_classification: 至
 stand_in: 致
 aliases:
   - 緻
-注音: ㄑㄧ˙
+注音: ㄑㄧㄜ
 tags:
   - character
 ---

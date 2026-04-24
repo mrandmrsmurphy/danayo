@@ -30,7 +30,7 @@ mc_id: 1332
 graphemic_classification: "會意"
 stand_in: "某"
 aliases:
-注音: "ㄇㄛˇ"
+注音: "ㄇㄛㄨ"
 tags:
   - character
 ---

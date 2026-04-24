@@ -29,7 +29,7 @@ graphemic_classification: "䝿"
 stand_in: "遺"
 aliases:
   - 遗
-注音: "⼶˙"
+注音: "⼶ㄧ"
 tags:
   - character
 ---

@@ -5,7 +5,7 @@ radical: 高
 ---
 > [[Radicals]]
 
-1. <ruby>[[高 (char)|高]]<rt>ㄍㄚˇ</rt></ruby> - high
+1. <ruby>[[高 (char)|高]]<rt>ㄍㄚㄨ</rt></ruby> - high
 
 ## Data check
 ```dataview

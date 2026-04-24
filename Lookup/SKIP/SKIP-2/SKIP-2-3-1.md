@@ -8,7 +8,7 @@ skip_number: 2-3-1
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
-1. <ruby>[太](/characters/太%20(char).md)<rt>ㄊㄚ˙</rt></ruby> - great
+1. <ruby>[太](/characters/太%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - great
 
 ## Datacheck
 ```dataview

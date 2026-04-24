@@ -29,7 +29,7 @@ stand_in: "溝"
 aliases:
   - 沟
   - 媾
-注音: "ㄍㄛˇ"
+注音: "ㄍㄛㄨ"
 tags:
   - character
 ---

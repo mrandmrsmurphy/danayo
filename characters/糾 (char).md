@@ -17,7 +17,7 @@ pos: ""
 english:
   - twist
   - investigate
-羅馬字: gyuu
+羅馬字: gyuo
 韓文: "귯"
 joyo_level: "高等"
 hsk_level: 2
@@ -30,7 +30,7 @@ aliases:
   - 丩
   - 纠
   - 糺
-注音: "ㄍ⼜ˇ"
+注音: "ㄍ⼜ㄛ"
 tags:
   - character
 ---

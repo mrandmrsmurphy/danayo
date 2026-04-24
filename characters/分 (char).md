@@ -56,4 +56,4 @@ tags:
 - [雰](雰.md)
 
 ## Words
-- <ruby>[気分](/words/気分.md)<rt>ㄎㄧ˙ㄅㄨㄋ</rt></ruby> mood
+- <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> mood

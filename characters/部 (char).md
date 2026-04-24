@@ -28,7 +28,7 @@ mc_id: 704
 graphemic_classification: "咅"
 stand_in: "部"
 aliases:
-注音: "ㄅㄛˇ"
+注音: "ㄅㄛㄨ"
 tags:
   - character
 ---

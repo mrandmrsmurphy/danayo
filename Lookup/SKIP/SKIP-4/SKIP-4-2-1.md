@@ -8,8 +8,8 @@ skip_number: 4-2-1
 ## Characters
 ### Used
 1. <ruby>[丁 (char)](/characters/丁%20(char).md)<rt>ㄉㄝㄫ</rt></ruby>
-2. <ruby>[了 (char)](/characters/了%20(char).md)<rt>ㄌ⼘ˇ</rt></ruby>
-3. <ruby>[又 (char)](/characters/又%20(char).md)<rt>ㄨˇ</rt></ruby>
+2. <ruby>[了 (char)](/characters/了%20(char).md)<rt>ㄌ⼘ㄨ</rt></ruby>
+3. <ruby>[又 (char)](/characters/又%20(char).md)<rt>ㄨㄛ</rt></ruby>
 ### Aliases
 ### Forbidden
 

@@ -28,7 +28,7 @@ mc_id: 1673
 graphemic_classification: "奇"
 stand_in: "寄"
 aliases:
-注音: "ㄍㄨ˙"
+注音: "ㄍㄨㄧ"
 tags:
   - character
 ---

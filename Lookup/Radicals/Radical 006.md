@@ -5,7 +5,7 @@ date-last-perfect: 2026-03-11
 ---
 > [[Radicals]]
 
-1. <ruby>[了](/characters/了%20(char).md)<rt>ㄌ⼘ˇ</rt></ruby> - over
+1. <ruby>[了](/characters/了%20(char).md)<rt>ㄌ⼘ㄨ</rt></ruby> - over
 2. <ruby>[予](/characters/予.md)<rt>⼄</rt></ruby> - beforehand
 3. <ruby>[争](/characters/争.md)<rt>ㄐㄚㄫ</rt></ruby> - fight
 4. <ruby>[事](/characters/事%20(char).md)<rt>ㄐㄧ</rt></ruby> - action

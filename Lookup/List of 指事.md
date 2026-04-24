@@ -89,8 +89,8 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 ## 指事 by Stroke
 ### 1 and 2
 1. <ruby>[一](/characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one
-2. <ruby>[乂](/characters/乂.md)<rt>⼘˙</rt></ruby> - govern, originally "to cut with scissors"
-3. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧ˙</rt></ruby> - two
+2. <ruby>[乂](/characters/乂.md)<rt>⼘ㄧ</rt></ruby> - govern, originally "to cut with scissors"
+3. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two
 4. <ruby>[八](/characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, originally "divide"
 5. <ruby>[十](/characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten, originally just a vertical mark
 ### 3
@@ -112,7 +112,7 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 19. [[幻]]
 20. [[欠]]
 ### 5
-22. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby> - four, originally "breathing"
+22. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - four, originally "breathing"
 23. 丘 (char)
 24. 占
 25. 古

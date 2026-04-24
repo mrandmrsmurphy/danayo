@@ -19,12 +19,12 @@ radical: 力
 6. <ruby>[助](/characters/助.md)<rt>ㄐㄛ</rt></ruby>
 7. <ruby>[努](/characters/努.md)<rt>ㄋㄛ</rt></ruby>
 8. <ruby>[劫](/characters/劫.md)<rt>ㄍㄚㄆ</rt></ruby>
-9. <ruby>[劭](/characters/劭.md)<rt>ㄙㄛˇ</rt></ruby>
+9. <ruby>[劭](/characters/劭.md)<rt>ㄙㄛㄨ</rt></ruby>
 10. <ruby>[励](/characters/励.md)<rt>ㄌㄝ</rt></ruby>
-11. <ruby>[労](/characters/労.md)<rt>ㄌㄚˇ</rt></ruby>
+11. <ruby>[労](/characters/労.md)<rt>ㄌㄚㄨ</rt></ruby>
 ### +6
-12. <ruby>[効](/characters/効.md)<rt>ㄏ⼘ˇ</rt></ruby>
-13. <ruby>[劾](/characters/劾.md)<rt>ㄏㄚ˙</rt></ruby>
+12. <ruby>[効](/characters/効.md)<rt>ㄏ⼘ㄨ</rt></ruby>
+13. <ruby>[劾](/characters/劾.md)<rt>ㄏㄚㄧ</rt></ruby>
 ### +7
 14. <ruby>[勁](/characters/勁.md)<rt>ㄍㄧㄫ</rt></ruby>
 15. <ruby>[勃](/characters/勃.md)<rt>ㄅㄛㄊ</rt></ruby>

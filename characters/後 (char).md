@@ -28,7 +28,7 @@ graphemic_classification: "會意"
 stand_in: "後"
 aliases:
   - 后
-注音: "ㄏㄛˇ"
+注音: "ㄏㄛㄨ"
 tags:
   - character
 ---

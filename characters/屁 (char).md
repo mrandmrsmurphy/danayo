@@ -16,7 +16,7 @@ grade_level: "先進"
 pos: ""
 english:
   - far
-羅馬字: pii
+羅馬字: piǝ
 韓文: "픠"
 joyo_level: "表外字"
 hsk_level: ""
@@ -26,7 +26,7 @@ mc_id: 0
 graphemic_classification: "比"
 stand_in: "屁"
 aliases:
-注音: "ㄆㄧ˙"
+注音: "ㄆㄧㄜ"
 tags:
   - character
 ---

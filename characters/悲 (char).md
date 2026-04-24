@@ -16,7 +16,7 @@ grade_level: 2
 pos: ""
 english:
   - be sad
-羅馬字: bii
+羅馬字: biǝ
 韓文: "븨"
 joyo_level: 3
 hsk_level: ""
@@ -26,7 +26,7 @@ mc_id: 1033
 graphemic_classification: "非"
 stand_in: "悲"
 aliases:
-注音: "ㄅㄧ˙"
+注音: "ㄅㄧㄜ"
 tags:
   - character
 ---

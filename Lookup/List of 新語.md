@@ -16,10 +16,10 @@
 3. <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium
 4. <ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> - beryllium
 5. <ruby>[養素](/words/養素.md)<rt>⼘ㄫㄙㄛ</rt></ruby> - oxygen
-6. <ruby>[虹素](../words/虹素.md)<rt>ㄝ˙ㄏㄛㄫㄙㄛ</rt></ruby> - neon
+6. <ruby>[虹素](../words/虹素.md)<rt>ㄝㄧㄏㄛㄫㄙㄛ</rt></ruby> - neon
 7. <ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby> - sodium
 8. <ruby>[巨金](/words/巨金.md)<rt>ㄍ⼄ㄍㄧㄇ</rt></ruby> - titanium
-9. <ruby>[天金](../words/天金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
+9. <ruby>[天金](../words/天金.md)<rt>ㄐㄨㄛㄍㄧㄇ</rt></ruby> - uranium
 
 ## Base check
 ```base

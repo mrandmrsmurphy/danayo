@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 斗
 aliases:
   - 鬥
-注音: ㄉㄛˇ
+注音: ㄉㄛㄨ
 tags:
   - character
 ---

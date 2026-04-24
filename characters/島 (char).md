@@ -27,7 +27,7 @@ graphemic_classification: "鳥"
 stand_in: "島"
 aliases:
   - 岛
-注音: "ㄊㄚˇ"
+注音: "ㄊㄚㄨ"
 tags:
   - character
 ---

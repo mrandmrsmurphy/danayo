@@ -18,7 +18,7 @@ english:
   - furthermore
   - still
   - yet
-羅馬字: "'yuu"
+羅馬字: "'yuo"
 韓文: "윳"
 joyo_level: "高等"
 hsk_level: ""
@@ -30,7 +30,7 @@ stand_in: "猶"
 aliases:
   - 猷
   - 犹
-注音: "⼜ˇ"
+注音: "⼜ㄛ"
 tags:
   - character
 ---

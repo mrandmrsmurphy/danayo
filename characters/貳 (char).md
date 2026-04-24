@@ -18,7 +18,7 @@ pos: ""
 english:
   - disloyal
   - betray
-羅馬字: nii
+羅馬字: niǝ
 韓文: "늬"
 joyo_level: "高等"
 hsk_level: 4
@@ -31,7 +31,7 @@ aliases:
   - 贰
   - 貮
   - 弐
-注音: "ㄋㄧ˙"
+注音: "ㄋㄧㄜ"
 tags:
   - character
 ---

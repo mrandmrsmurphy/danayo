@@ -28,7 +28,7 @@ mc_id: 1045
 graphemic_classification: "禾"
 stand_in: "委"
 aliases:
-注音: "⼔˙"
+注音: "⼔ㄧ"
 tags:
   - character
 ---

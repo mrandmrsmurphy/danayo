@@ -29,7 +29,7 @@ mc_id: 1449
 graphemic_classification: "會意"
 stand_in: "枚"
 aliases:
-注音: "ㄇㄛ˙"
+注音: "ㄇㄛㄧ"
 tags:
   - character
 ---

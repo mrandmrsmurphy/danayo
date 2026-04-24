@@ -27,7 +27,7 @@ mc_id: 1170
 graphemic_classification: "不"
 stand_in: "否"
 aliases:
-注音: "ㄈㄚˇ"
+注音: "ㄈㄚㄨ"
 tags:
   - character
 ---

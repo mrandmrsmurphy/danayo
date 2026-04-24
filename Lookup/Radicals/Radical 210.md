@@ -8,7 +8,7 @@ radical: 齊
 
 ## Characters
 ### Used
-- <ruby>[[斉]]<rt>ㄐㄝ˙</rt></ruby> - simultaneous
+- <ruby>[[斉]]<rt>ㄐㄝㄧ</rt></ruby> - simultaneous
 
 ### Redirects
 - 齊-->斉

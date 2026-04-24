@@ -54,4 +54,4 @@ tags:
 - <ruby>[之間](/words/之間.md)<rt>ㄊㄧㄍㄚㄋ</rt></ruby>
 
 ## Chengyu
-- <ruby>[糟糠之妻](/chengyu/糟糠之妻.md)<rt>ㄐㄚˇㄎㄚㄫㄊㄧㄑㄝ˙</rt></ruby>
+- <ruby>[糟糠之妻](/chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby>

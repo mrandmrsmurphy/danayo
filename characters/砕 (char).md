@@ -28,7 +28,7 @@ graphemic_classification: 卒
 stand_in: 砕
 aliases:
   - 碎
-注音: ㄙㄛ˙
+注音: ㄙㄛㄧ
 tags:
   - character
 ---

@@ -14,7 +14,7 @@ skip_number: 4-2-4
 3. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
 4. <ruby>[卜](characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divine
 5. <ruby>[力 (char)](characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power
-6. <ruby>[乂](characters/乂.md)<rt>⼘˙</rt></ruby> - govern
+6. <ruby>[乂](characters/乂.md)<rt>⼘ㄧ</rt></ruby> - govern
 ### Aliases
 ### Forbidden
 - 勹

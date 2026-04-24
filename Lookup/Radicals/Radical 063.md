@@ -14,7 +14,7 @@ radical: 戶
 5. <ruby>[扁](/characters/扁.md)<rt>ㄆ⼶ㄋ</rt></ruby>
 6. <ruby>[扇](/characters/扇.md)<rt>ㄙ⼶ㄋ</rt></ruby>
 7. <ruby>[扈](/characters/扈.md)<rt>ㄏㄛ</rt></ruby>
-8. <ruby>[扉](/characters/扉%20(char).md)<rt>ㄅㄨ˙</rt></ruby>
+8. <ruby>[扉](/characters/扉%20(char).md)<rt>ㄅㄨㄧ</rt></ruby>
 
 ## Data search
 ```dataview

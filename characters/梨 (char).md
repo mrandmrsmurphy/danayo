@@ -16,7 +16,7 @@ grade_level: 5
 pos: ""
 english:
   - pear
-羅馬字: lii
+羅馬字: liǝ
 韓文: "릐"
 joyo_level: 4
 hsk_level: ""
@@ -26,7 +26,7 @@ mc_id: 3411
 graphemic_classification: "利"
 stand_in: "梨"
 aliases:
-注音: "ㄌㄧ˙"
+注音: "ㄌㄧㄜ"
 tags:
   - character
 ---

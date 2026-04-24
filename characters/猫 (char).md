@@ -31,7 +31,7 @@ graphemic_classification: 苗
 stand_in: 猫
 aliases:
   - 貓
-注音: ㄇ⼘ˇ
+注音: ㄇ⼘ㄨ
 tags:
   - character
 ---

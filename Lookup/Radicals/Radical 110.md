@@ -5,7 +5,7 @@ radical: 矛
 ---
 > [[Radicals]]
 
-1. <ruby>[[矛]]<rt>ㄇㄚˇ</rt></ruby> - pike
+1. <ruby>[[矛]]<rt>ㄇㄚㄨ</rt></ruby> - pike
 ## Data search
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

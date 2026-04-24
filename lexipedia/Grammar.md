@@ -73,16 +73,16 @@ _the_ and _a_ are not part of Dan'a'yo
 - you : <ruby>[君等](../words/君等.md)<rt>ㄍㄨㄋㄉㄨㄫ</rt></ruby>
 - they : <ruby>[其人等](../words/其人等.md)<rt>ㄍㄧㄋㄧㄋㄉㄨㄫ</rt></ruby>
 - self : 
-	- grammatical reflexive: <ruby>[自己](../words/自己.md)<rt>ㄐㄧ˙ㄍㄧ</rt></ruby>
-	- emphatic: <ruby>[自身](../words/自身.md)<rt>ㄐㄧ˙ㄙㄧㄋ</rt></ruby>
-	- ego: <ruby>[自我](../words/自我.md)<rt>ㄐㄧ˙·ㄚ</rt></ruby>
+	- grammatical reflexive: <ruby>[自己](../words/自己.md)<rt>ㄐㄧㄜㄍㄧ</rt></ruby>
+	- emphatic: <ruby>[自身](../words/自身.md)<rt>ㄐㄧㄜㄙㄧㄋ</rt></ruby>
+	- ego: <ruby>[自我](../words/自我.md)<rt>ㄐㄧㄜ·ㄚ</rt></ruby>
 
 ### Interrogatives
 - when : <ruby>[何時](../words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby>
 - where : <ruby>[何処](../words/何処.md)<rt>ㄏㄚㄑㄛ</rt></ruby>
 - whether
 - while
-- who : <ruby>[誰](../words/誰.md)<rt>ㄙ⼶˙</rt></ruby>
+- who : <ruby>[誰](../words/誰.md)<rt>ㄙ⼶ㄧ</rt></ruby>
 - how
 - why
 - what : <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>
@@ -92,7 +92,7 @@ _the_ and _a_ are not part of Dan'a'yo
 - noun <ruby>[名詞](../words/名詞.md)<rt>ㄇㄧㄫㄙㄚ</rt></ruby>
 - verb <ruby>[動詞](../words/動詞.md)<rt>ㄉㄛㄫㄙㄚ</rt></ruby>
 	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄚㄉㄛㄫㄙㄚ</rt></ruby>
-	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧ˙ㄉㄛㄫㄙㄚ</rt></ruby>
+	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby>
 - adjective
 - gender
 - case

@@ -8,7 +8,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Numbers
 	- zero - <ruby>[零](words/零.md)<rt>ㄌㄝㄫ</rt></ruby>
 	- half - <ruby>[一半](words/一半.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>
-	- quarter - <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧ˙ㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
+	- quarter - <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
 	- six - <ruby>[六](/words/六.md)<rt>ㄌㄨㄎ</rt></ruby>
 	- seven - <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>
 	- eight - <ruby>[八](/words/八.md)<rt>ㄅㄚㄊ</rt></ruby>
@@ -22,7 +22,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 ### Opposites
 * beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>ㄑㄨ·ㄚㄎ</rt></ruby>
 * fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏㆼㄋㄇㄚㄋ</rt></ruby>
-* first - <ruby>[[第一]]<rt>ㄉㄝ˙·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛˇ</rt></ruby>
+* first - <ruby>[[第一]]<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>
 * hard - <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby>
 * smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
@@ -32,7 +32,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 * sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙㆼㄇ</rt></ruby>
 * strong - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
-- Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuudii</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[湾曲]]
+- Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuodiǝ</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[湾曲]]
 - Emotions : glad - <ruby>[[高興]]<rt>gauhing</rt></ruby>, happy - <ruby>[[歓喜]]<rt>hwanhi</rt></ruby>, sad - <ruby>[[哀傷]]<rt>'aisyang</rt></ruby>, tired - <ruby>[[疲労]]<rt>pilau</rt></ruby> , angry - <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby> , crazy - <ruby>[[風狂]]<rt>punggwang</rt></ruby>
 - Character : careful, lucky, smart, wise, foolish, healthy, sick
 - Value : important, interesting, boring, wonderful, strange
@@ -40,7 +40,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 
 ## Nouns
 - Natural substances
-	- air - <ruby>[[空気]]<rt>kongkii</rt></ruby>, 
+	- air - <ruby>[[空気]]<rt>kongkiǝ</rt></ruby>, 
 	- glass - <ruby>[[璃]]<rt>ㄌㄝ</rt></ruby>, 
 	- iron - <ruby>[[words/鉄]]<rt>ㄊㄝㄊ</rt></ruby>, 
 	- gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, 
@@ -50,39 +50,39 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- world - <ruby>[[世界]]<rt>ㄙㄝㄍ⼶</rt></ruby>, 
 	- land
 - Time: 
-	- week - <ruby>[[週日]]<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>, 
+	- week - <ruby>[[週日]]<rt>ㄐㄨㄛㄋㄧㄊ</rt></ruby>, 
 	- month - <ruby>[月](words/月.md)<rt>⼔ㄊ</rt></ruby>, 
 	- yesterday - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>, 
 	- today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, 
-	- tomorrow - <ruby>[[来日]]<rt>ㄌㄚ˙ㄋㄧㄊ</rt></ruby>, 
-	- morning - <ruby>[[朝]]<rt>ㄐㄚˇ</rt></ruby>, 
-	- afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛˇ</rt></ruby>
+	- tomorrow - <ruby>[[来日]]<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby>, 
+	- morning - <ruby>[[朝]]<rt>ㄐㄚㄨ</rt></ruby>, 
+	- afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛㄨ</rt></ruby>
 - Season : 
 	- spring - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>, 
 	- summer - <ruby>[[夏]]<rt>ㄏ⼘</rt></ruby>, 
-	- fall - <ruby>[[秋]]<rt>ㄑㄨˇ</rt></ruby>, 
+	- fall - <ruby>[[秋]]<rt>ㄑㄨㄛ</rt></ruby>, 
 	- winter - <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby>
 - Geographical : 
 	- hill, 
 	- farm, 
 	- field, 
-	- island - <ruby>[[島]]<rt>ㄊㄚˇ</rt></ruby>
+	- island - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby>
 - Body Parts : 
-	- body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝ˙</rt></ruby>, 
+	- body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝㄧ</rt></ruby>, 
 	- lip - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby>, 
 	- breast - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄫ</rt></ruby>,  
-	- butt - <ruby>[[尻]]<rt>ㄎㄚˇ</rt></ruby>, 
+	- butt - <ruby>[[尻]]<rt>ㄎㄚㄨ</rt></ruby>, 
 	- muscle - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>, 
-	- brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>
+	- brain - <ruby>[[脳]]<rt>ㄋㄚㄨ</rt></ruby>
 - Animals : 
-	- cat - <ruby>[猫](/words/猫.md)<rt>ㄇ⼘ˇ</rt></ruby>
+	- cat - <ruby>[猫](/words/猫.md)<rt>ㄇ⼘ㄨ</rt></ruby>
 	- cow - <ruby>[牛](/words/牛.md)<rt>ㄋ⼜</rt></ruby>
-	- chicken - <ruby>[鶏](/words/鶏.md)<rt>ㄍㄝ˙</rt></ruby>
+	- chicken - <ruby>[鶏](/words/鶏.md)<rt>ㄍㄝㄧ</rt></ruby>
 	- horse - <ruby>[馬](/words/馬.md)<rt>ㄇㄚ</rt></ruby>
 	- pig - <ruby>[豚](/words/豚.md)<rt>ㄊㄨㄋ</rt></ruby>
 	- mouse - <ruby>[小鼠](/words/小鼠.md)<rt>ㄙㄛㄙ⼄</rt></ruby>
 	- monkey - <ruby>[猿猩](/words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>
-	- lion - <ruby>[獅子](/words/獅子.md)<rt>ㄙㄧ˙ㄐㄧ</rt></ruby>
+	- lion - <ruby>[獅子](/words/獅子.md)<rt>ㄙㄧㄜㄐㄧ</rt></ruby>
 	- bug - <ruby>[昆虫](/words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>
 	- wolf - <ruby>[狼](/words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>
 - Plants : grain, bread, branch
@@ -133,11 +133,11 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Time : now, then, again, next
 - Degree : very - <ruby>[[頗]]<rt>pa</rt></ruby>, too, enough
 ## Courtesy
-please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>gamsya</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>bet</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>hwan'yeng</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>gimnit'an</rt></ruby>, yes - <ruby>[[爾]]<rt>ne</rt></ruby>, no - <ruby>[[否]]<rt>buu</rt></ruby>
+please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>gamsya</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>bet</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>hwan'yeng</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>gimnit'an</rt></ruby>, yes - <ruby>[[爾]]<rt>ne</rt></ruby>, no - <ruby>[[否]]<rt>buo</rt></ruby>
 ## Modern
-- Air : airport - <ruby>[[空港]]<rt>konghong</rt></ruby>, airplane - <ruby>[[../words/飛行机]]<rt>pihanggii</rt></ruby>
-- Cars : car - <ruby>[[車 (char)]]<rt>ca</rt></ruby>, bus - '''basü''', license, gas station, motor, taxi, truck, gasoline - <ruby>[[汽油]]<rt>kii'yuu</rt></ruby>
-- Other : bicycle, railroad, train station, subway, spaceship - <ruby>[[宇宙船]]<rt>'ujuujwen</rt></ruby>
+- Air : airport - <ruby>[[空港]]<rt>konghong</rt></ruby>, airplane - <ruby>[[../words/飛行机]]<rt>pihanggiǝ</rt></ruby>
+- Cars : car - <ruby>[[車 (char)]]<rt>ca</rt></ruby>, bus - '''basü''', license, gas station, motor, taxi, truck, gasoline - <ruby>[[汽油]]<rt>kiǝ'yuo</rt></ruby>
+- Other : bicycle, railroad, train station, subway, spaceship - <ruby>[[宇宙船]]<rt>'ujuojwen</rt></ruby>
 - Computer : computer - <ruby>[[電脳]]<rt>dennau</rt></ruby>, disk, chip, CPU
 - Accessories : DVD, hard drive, keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>, mouse - <ruby>[[滑鼠]]<rt>gotsyo</rt></ruby>, monitor
 - Programs : program, game, word processor, compiler
@@ -154,7 +154,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- neutron - [[中性子]]
 	- electron - <ruby>[[電子]]<rt>ㄉㄝㄋㄐㄧ</rt></ruby>
 - Biology :
-	- cell - <ruby>[[細胞]]<rt>ㄙㄝ˙ㄅ⼘ˇ</rt></ruby>,
+	- cell - <ruby>[[細胞]]<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>,
 	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏㆼ</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
 	- gene
 - Substance : plastic
@@ -172,16 +172,16 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Economy : economy, banknote, credit card, dollar, euro, expenses, income, inflation, standard of living, unemployed, union, welfare, yen, yuan, won, taxes
 - Avocations : chess, rock, soccer, cigarette, drugs
 - Clothing :
-	- bikini - '''biiginii''', [[比]][[基]][[尼]]
+	- bikini - '''biǝginiǝ''', [[比]][[基]][[尼]]
 	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>,
 	- jeans,
 	- T-shirt,
-	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛˇㄏㄛㄫ</rt></ruby>
+	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby>
 - Health : AIDS/HIV, allergy, addict, antibiotics, bacteria, vaccine, virus, vitamin 
 - Food : candy, hamburger, hot dog, pizza, sushi, taco, tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>, tomato
 - Belief : communism, socialism, fascism, republic, democracy, Green, human rights, liberal, conservative
 - Position : president, prime minister, representative, parliament, council, dictator, party
-- Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ˇ</rt></ruby>
+- Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>
 
 ## Place Names
 ''These are for place names, not the words themselves''

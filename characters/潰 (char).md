@@ -29,7 +29,7 @@ graphemic_classification: "䝿"
 stand_in: "潰"
 aliases:
   - 溃
-注音: "ㄏㄛ˙"
+注音: "ㄏㄛㄧ"
 tags:
   - character
 ---

@@ -8,7 +8,7 @@ skip_number: 3-2-3
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
 ## Characters
-1. <ruby>[包](/characters/包.md)<rt>ㄅ⼘ˇ</rt></ruby> - wrap
+1. <ruby>[包](/characters/包.md)<rt>ㄅ⼘ㄨ</rt></ruby> - wrap
 2. <ruby>[厉](/characters/厉%20(char).md)<rt>ㄌㄝ</rt></ruby> - whetstone
 3. <ruby>[句](/characters/句%20(char).md)<rt>ㄍㄨ</rt></ruby> - phrase
 4. <ruby>[可](/characters/可%20(char).md)<rt>ㄎㄚ</rt></ruby> - can

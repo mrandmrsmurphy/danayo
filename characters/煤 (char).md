@@ -28,7 +28,7 @@ mc_id: 9433
 graphemic_classification: 某
 stand_in: 煤
 aliases:
-注音: ㄇㄛ˙
+注音: ㄇㄛㄧ
 tags:
   - character
 ---

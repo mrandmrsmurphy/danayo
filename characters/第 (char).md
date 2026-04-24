@@ -27,7 +27,7 @@ graphemic_classification: "弟"
 stand_in: "第"
 aliases:
   - 㐧
-注音: "ㄉㄝ˙"
+注音: "ㄉㄝㄧ"
 tags:
   - character
 ---

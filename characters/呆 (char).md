@@ -29,7 +29,7 @@ graphemic_classification: "會意"
 stand_in: "呆"
 aliases:
   - 獃
-注音: "ㄇㄚ˙"
+注音: "ㄇㄚㄧ"
 tags:
   - character
 ---

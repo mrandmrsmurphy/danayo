@@ -29,7 +29,7 @@ graphemic_classification: "也"
 stand_in: "馳"
 aliases:
   - 驰
-注音: "ㄐㄨ˙"
+注音: "ㄐㄨㄧ"
 tags:
   - character
 ---

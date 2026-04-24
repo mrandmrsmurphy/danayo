@@ -6,7 +6,7 @@ size: 9
 **Radical 7** is the number 'two', 二
 ## Plus Strokes
 ### +0
-1. <ruby>[二](../../characters/二%20(char).md)<rt>ㄋㄧ˙</rt></ruby> 'two', and it's variants 𠄞, 𠄟, and 𠄠.
+1. <ruby>[二](../../characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> 'two', and it's variants 𠄞, 𠄟, and 𠄠.
 ### +1
 2. <ruby>[于 (char)](../../characters/于%20(char).md)<rt>ㄨ</rt></ruby> 'to'
 - The forbidden character 亍

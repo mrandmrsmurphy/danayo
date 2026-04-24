@@ -27,7 +27,7 @@ graphemic_classification: 喿
 stand_in: 繰
 aliases:
   - 缲
-注音: ㄐㄚˇ
+注音: ㄐㄚㄨ
 tags:
   - character
 ---

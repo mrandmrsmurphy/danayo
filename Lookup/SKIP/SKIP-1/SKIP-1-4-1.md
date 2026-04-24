@@ -8,7 +8,7 @@ skip_number: 1-4-1
 > All of these are [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
 - <ruby>[札](/characters/札%20(char))<rt>ㄐㄚㄊ</rt></ruby> - letter, note
-- <ruby>[礼](/characters/礼%20(char))<rt>ㄌㄝ˙</rt></ruby> - manners
+- <ruby>[礼](/characters/礼%20(char))<rt>ㄌㄝㄧ</rt></ruby> - manners
 
 ### Data double check
 ```dataview

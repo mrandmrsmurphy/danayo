@@ -17,7 +17,7 @@ pos: ""
 english:
   - float
   - waft
-羅馬字: buu
+羅馬字: buo
 韓文: 붓
 joyo_level: 高等
 hsk_level: ""
@@ -27,7 +27,7 @@ mc_id: 903
 graphemic_classification: 孚
 stand_in: 浮
 aliases:
-注音: ㄅㄨˇ
+注音: ㄅㄨㄛ
 tags:
   - character
 ---

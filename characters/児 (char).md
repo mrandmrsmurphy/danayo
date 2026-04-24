@@ -30,7 +30,7 @@ stand_in: "児"
 aliases:
   - 兒
   - 儿
-注音: "ㄝ˙"
+注音: "ㄝㄧ"
 tags:
   - character
 ---

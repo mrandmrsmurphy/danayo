@@ -31,7 +31,7 @@ aliases:
   - 雞
   - 鷄
   - 鸡
-注音: ㄍㄝ˙
+注音: ㄍㄝㄧ
 tags:
   - character
 ---

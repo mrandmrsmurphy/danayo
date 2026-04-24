@@ -28,7 +28,7 @@ mc_id: 2317
 graphemic_classification: "彗"
 stand_in: "慧"
 aliases:
-注音: "ㄏ⼔˙"
+注音: "ㄏ⼔ㄧ"
 tags:
   - character
 ---

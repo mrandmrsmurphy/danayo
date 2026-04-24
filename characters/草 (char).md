@@ -29,7 +29,7 @@ graphemic_classification: 早
 stand_in: 草
 aliases:
   - 艸
-注音: ㄑㄚˇ
+注音: ㄑㄚㄨ
 tags:
   - character
 ---

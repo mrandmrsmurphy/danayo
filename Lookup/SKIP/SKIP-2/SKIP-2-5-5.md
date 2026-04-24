@@ -12,8 +12,8 @@ date-last-perfect: 2026-03-27
 1. <ruby>[党](/characters/党.md)<rt>ㄉㄚㄫ</rt></ruby> - political party
 2. <ruby>[哥](/characters/哥.md)<rt>ㄍㄚ</rt></ruby> - dear older brother
 3. <ruby>[芻](/characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay
-4. <ruby>[帯](/characters/帯%20(char).md)<rt>ㄊㄚ˙</rt></ruby> - sash
-5. <ruby>[泰](/characters/泰.md)<rt>ㄊㄚ˙</rt></ruby> - peaceful
+4. <ruby>[帯](/characters/帯%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - sash
+5. <ruby>[泰](/characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
 6. <ruby>[烝](/characters/烝.md)<rt>ㄙㄧㄫ</rt></ruby> - masses
 7. <ruby>[留 (char)](/characters/留%20(char).md)<rt>ㄌ⼜</rt></ruby> - remain
 8. <ruby>[祠](/characters/祠.md)<rt>ㄙㄚ</rt></ruby> - ancestor shrine

@@ -26,7 +26,7 @@ mc_id: 954
 graphemic_classification: "象形"
 stand_in: "奚"
 aliases:
-注音: "ㄏㄝ˙"
+注音: "ㄏㄝㄧ"
 tags:
   - character
 ---

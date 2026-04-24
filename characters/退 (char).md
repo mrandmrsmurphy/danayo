@@ -19,7 +19,7 @@ english:
   - retreat
   - recede
   - withdraw
-羅馬字: tii
+羅馬字: tiǝ
 韓文: "틔"
 joyo_level: 6
 hsk_level: ""
@@ -30,7 +30,7 @@ graphemic_classification: "會意"
 stand_in: "退"
 aliases:
   - 頽
-注音: "ㄊㄧ˙"
+注音: "ㄊㄧㄜ"
 tags:
   - character
 ---

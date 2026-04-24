@@ -27,7 +27,7 @@ mc_id: 0
 graphemic_classification: "代"
 stand_in: "袋"
 aliases:
-注音: "ㄉㄚ˙"
+注音: "ㄉㄚㄧ"
 tags:
   - character
 ---

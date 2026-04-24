@@ -52,4 +52,4 @@ kwin: true
 - The most common surname in [Korea](Korea.md).
 - <ruby>[黄金](/words/黄金.md)<rt>ㄏㆼㄫㄍㄧㄇ</rt></ruby> - gold
 - <ruby>[金属](/words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby> - metal
-- <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ˇㄋㄧㄊ</rt></ruby> - Friday
+- <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> - Friday

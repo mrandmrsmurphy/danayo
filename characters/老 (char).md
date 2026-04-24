@@ -27,7 +27,7 @@ mc_id: 369
 graphemic_classification: 會意
 stand_in: 老
 aliases:
-注音: ㄌㄚˇ
+注音: ㄌㄚㄨ
 tags:
   - character
 ---
@@ -41,4 +41,4 @@ tags:
 # Notes
 
 ## Chengyu
-- <ruby>[白頭偕老](/chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄎㄚˇ</rt></ruby>
+- <ruby>[白頭偕老](/chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄎㄚㄨ</rt></ruby>

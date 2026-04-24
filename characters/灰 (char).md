@@ -26,7 +26,7 @@ mc_id: 2408
 graphemic_classification: "又"
 stand_in: "灰"
 aliases:
-注音: "ㄏㄛ˙"
+注音: "ㄏㄛㄧ"
 tags:
   - character
 ---

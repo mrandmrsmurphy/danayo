@@ -28,7 +28,7 @@ mc_id: 3380
 graphemic_classification: 圭
 stand_in: 佳
 aliases:
-注音: ㄍ⼘˙
+注音: ㄍ⼘ㄧ
 tags:
   - character
 ---
@@ -41,5 +41,5 @@ tags:
 
 ## Notes
 - 形声: OC \*kreː): semantic [[Radical 009|人]] (“man; person”) + phonetic [[圭]] (OC \*kʷeː).
-- [[SKIP-1-2-6]] ([[Stroke 08]]) [[ㄍ⼘˙]]
+- [[SKIP-1-2-6]] ([[Stroke 08]]) [[ㄍ⼘ㄧ]]
 - [[Korean MS]], [[Jōyō - Kōtō]], [[Grade 3]]

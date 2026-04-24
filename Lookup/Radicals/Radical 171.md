@@ -7,7 +7,7 @@ date-last-perfect: 2026-03-03
 
 ## Characters
 
-1. <ruby>[[隷]]<rt>ㄌㄝ˙</rt></ruby> - slave
+1. <ruby>[[隷]]<rt>ㄌㄝㄧ</rt></ruby> - slave
 
 ## Base check
 ```base

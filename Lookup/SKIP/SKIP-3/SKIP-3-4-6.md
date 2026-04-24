@@ -9,7 +9,7 @@ skip_number: 3-4-6
 
 ## Characters
 1. <ruby>[翅](/characters/翅.md)<rt>ㄙㄧ</rt></ruby> - shark fin
-2. <ruby>[迷](/characters/迷%20(char).md)<rt>ㄇㄝ˙</rt></ruby> - confused
+2. <ruby>[迷](/characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - confused
 
 ## Datacheck
 ```dataview

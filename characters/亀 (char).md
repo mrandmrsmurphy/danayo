@@ -19,7 +19,7 @@ grade_level: "6"
 pos: 名詞
 english:
   - turtle
-羅馬字: guu
+羅馬字: guo
 韓文: 굿
 joyo_level: 高等
 hsk_level: "4"
@@ -32,7 +32,7 @@ aliases:
   - 龜
   - 龟
   - 𪚦
-注音: ㄍㄨˇ
+注音: ㄍㄨㄛ
 tags:
   - character
 ---

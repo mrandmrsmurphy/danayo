@@ -16,7 +16,7 @@ grade_level: 6
 pos: ""
 english:
   - sleeve
-羅馬字: suu
+羅馬字: suo
 韓文: "숫"
 joyo_level: "高等"
 hsk_level: ""
@@ -26,7 +26,7 @@ mc_id: 2775
 graphemic_classification: "由"
 stand_in: "袖"
 aliases:
-注音: "ㄙㄨˇ"
+注音: "ㄙㄨㄛ"
 tags:
   - character
 ---

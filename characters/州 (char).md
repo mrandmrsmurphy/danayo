@@ -18,7 +18,7 @@ grade_level: "5"
 pos: 名詞
 english:
   - state
-羅馬字: juu
+羅馬字: juo
 韓文: 줏
 joyo_level: "3"
 hsk_level: "4"
@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 州
 aliases:
   - 𠄓
-注音: ㄐㄨˇ
+注音: ㄐㄨㄛ
 tags:
   - character
 ---

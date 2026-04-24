@@ -29,7 +29,7 @@ graphemic_classification: 卒
 stand_in: 酔
 aliases:
   - 醉
-注音: ㄐㄨ˙
+注音: ㄐㄨㄧ
 tags:
   - character
 ---

@@ -26,7 +26,7 @@ mc_id: 33
 graphemic_classification: "象形"
 stand_in: "侯"
 aliases:
-注音: "ㄏㄛˇ"
+注音: "ㄏㄛㄨ"
 tags:
   - character
 ---

@@ -30,7 +30,7 @@ stand_in: 偽
 aliases:
   - 僞
   - 伪
-注音: ⼔˙
+注音: ⼔ㄧ
 tags:
   - character
 ---

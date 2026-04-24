@@ -30,7 +30,7 @@ graphemic_classification: 矢
 stand_in: 知
 aliases:
   - 𥎵
-注音: ㄐㄨ˙
+注音: ㄐㄨㄧ
 tags:
   - character
 ---

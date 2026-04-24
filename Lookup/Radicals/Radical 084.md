@@ -5,7 +5,7 @@ radical: 气
 ---
 > [[Radicals]]
 
-1. <ruby>[[気 (char)|気]]<rt>ㄎㄧ˙</rt></ruby> - feeling
+1. <ruby>[[気 (char)|気]]<rt>ㄎㄧㄜ</rt></ruby> - feeling
 
 ## Data search
 ```dataview

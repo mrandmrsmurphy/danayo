@@ -18,7 +18,7 @@ pos: ""
 english:
   - rely on
   - accord with
-羅馬字: "'ii"
+羅馬字: "'iǝ"
 韓文: "의"
 joyo_level: "高等"
 hsk_level: ""
@@ -28,7 +28,7 @@ mc_id: 1211
 graphemic_classification: "衣"
 stand_in: "依"
 aliases:
-注音: "ㄧ˙"
+注音: "ㄧㄜ"
 tags:
   - character
 ---

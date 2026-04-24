@@ -30,7 +30,7 @@ graphemic_classification: "象形"
 stand_in: "大"
 aliases:
   - 亣
-注音: "ㄉㄚ˙"
+注音: "ㄉㄚㄧ"
 tags:
   - character
 ---
@@ -47,7 +47,7 @@ tags:
 - [[因小失大]]
 
 ## Word
-- <ruby>[大人](/words/大人.md)<rt>ㄉㄚ˙ㄋㄧㄋ</rt></ruby> - adult
+- <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> - adult
 1. [[大洋洲]]
 2. [[大概]]
 3. [[大義]]

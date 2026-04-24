@@ -6,8 +6,8 @@ radical: 比
 > [[Radicals]]
 
 ## Characters
-1. <ruby>[比](/characters/比%20(char).md)<rt>ㄅㄧ˙</rt></ruby> - than
-2. <ruby>[毘](/characters/毘.md)<rt>ㄅㄧ˙</rt></ruby> - help
+1. <ruby>[比](/characters/比%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - than
+2. <ruby>[毘](/characters/毘.md)<rt>ㄅㄧㄜ</rt></ruby> - help
 
 ## Data search
 ```dataview

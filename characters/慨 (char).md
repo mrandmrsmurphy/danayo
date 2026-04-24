@@ -27,7 +27,7 @@ mc_id: 2767
 graphemic_classification: 既
 stand_in: 慨
 aliases:
-注音: ㄎㄚ˙
+注音: ㄎㄚㄧ
 tags:
   - character
 ---

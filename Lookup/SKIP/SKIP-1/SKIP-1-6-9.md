@@ -9,9 +9,9 @@ size: 19
 
 ## Characters
 1. <ruby>[箱](/characters/箱%20(char).md)<rt>ㄙㄚㄫ</rt></ruby> - case, box
-2. <ruby>[糊](/characters/糊.md)<rt>ㄏㄛˇ</rt></ruby> - muddled
+2. <ruby>[糊](/characters/糊.md)<rt>ㄏㄛㄨ</rt></ruby> - muddled
 3. <ruby>[線](/characters/線.md)<rt>ㄙ⼶ㄋ</rt></ruby>
-4. <ruby>[締](/characters/締%20(char).md)<rt>ㄊㄝ˙</rt></ruby>
+4. <ruby>[締](/characters/締%20(char).md)<rt>ㄊㄝㄧ</rt></ruby>
 5. <ruby>[編](/characters/編.md)<rt>ㄅ⼶ㄋ</rt></ruby>
 6. <ruby>[緩](/characters/緩.md)<rt>ㄏㆼㄋ</rt></ruby>
 7. <ruby>[縁](/characters/縁.md)<rt>⼶ㄋ</rt></ruby>

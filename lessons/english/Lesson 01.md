@@ -18,8 +18,8 @@ Before:
 - **y** is a high dot: ˙ as in ⼘，⼶，⼄，⼜ (**ya**, **ye**, **yo**, **yu**)
 - **w** is a high "hat": ˇ as in ㆼ，⼔ (**wa**, **we**)
 After
-- ㄚ˙，ㄝ˙，ㄛ˙，ㄨ˙
-- ㄚˇ，ㄛˇ，ㄨˇ
+- ㄚㄧ，ㄝㄧ，ㄛㄧ，ㄨㄧ
+- ㄚㄨ，ㄛㄨ，ㄨㄛ
 
 Most combinations are possible, but not all actually occur.
 

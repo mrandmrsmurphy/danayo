@@ -27,7 +27,7 @@ mc_id: 1277
 graphemic_classification: "或"
 stand_in: "域"
 aliases:
-注音: "ˇㄧㄎ"
+注音: "ㄨㄧㄎ"
 tags:
   - character
 ---

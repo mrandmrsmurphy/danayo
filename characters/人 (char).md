@@ -51,12 +51,12 @@ tags:
 - 10th most used character in Classical Chinese
 ### Derived Characters (not the radical)
 - <ruby>[及 (char)](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby>
-- <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧ˙</rt></ruby>
+- <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby>
 ## Words
 - <ruby>[人参](/words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> - ginseng
-- <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛˇ</rt></ruby> - population
+- <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> - population
 - <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron
-- <ruby>[大人](/words/大人.md)<rt>ㄉㄚ˙ㄋㄧㄋ</rt></ruby> - adult
+- <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> - adult
 1. [[善人]]
 2. [[官人]]
 3. [[蛮人]]

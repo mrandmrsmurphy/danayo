@@ -28,7 +28,7 @@ mc_id: 7495
 graphemic_classification: "少"
 stand_in: "炒"
 aliases:
-注音: "ㄑㄚˇ"
+注音: "ㄑㄚㄨ"
 tags:
   - character
 ---

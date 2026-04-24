@@ -19,7 +19,7 @@ pos: 名詞
 english:
 - autumn
 - fall
-羅馬字: cuu
+羅馬字: cuo
 韓文: 춧
 joyo_level: '2'
 hsk_level: '1'
@@ -32,7 +32,7 @@ aliases:
 - 鞦
 - 龝
 - 穐
-注音: ㄑㄨˇ
+注音: ㄑㄨㄛ
 tags:
   - character
 ---

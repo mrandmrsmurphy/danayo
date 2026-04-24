@@ -42,4 +42,4 @@ tags:
 ## Notes
 ## Words
 - <ruby>[実現](/words/実現.md)<rt>ㄙㄧㄊㄏ⼶ㄋ</rt></ruby> - implement
-- <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚ˙</rt></ruby> - present
+- <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby> - present

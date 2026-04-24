@@ -29,7 +29,7 @@ graphemic_classification: "象形"
 stand_in: "来"
 aliases:
   - 來 (char)
-注音: "ㄌㄚ˙"
+注音: "ㄌㄚㄧ"
 tags:
   - character
 ---

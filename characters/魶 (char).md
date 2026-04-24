@@ -40,5 +40,5 @@ tags:
 ## Notes
 - Chosen to add to Dan'a'yo for its sound
 - [SKIP-1-11-4](lookup/SKIP/SKIP-1/SKIP-1-11-4.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md)) - [ㄋㄨㄆ](syllables/ㄋㄨㄆ.md)
-- Phono-semantic: [魚](lookup/Radicals/Radical%20195.md) + <ruby>[内](/characters/内.md)<rt>ㄋㄛ˙</rt></ruby>
+- Phono-semantic: [魚](lookup/Radicals/Radical%20195.md) + <ruby>[内](/characters/内.md)<rt>ㄋㄛㄧ</rt></ruby>
 - On no one's list!  [Grade Name](lookup/Grade%20Name.md)

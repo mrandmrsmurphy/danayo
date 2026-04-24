@@ -29,7 +29,7 @@ stand_in: 舗
 aliases:
   - 舖
   - 铺
-注音: ㄆㄛˇ
+注音: ㄆㄛㄨ
 tags:
   - character
   - hapax

@@ -31,7 +31,7 @@ stand_in: 杯
 aliases:
   - 盃
   - 桮
-注音: ㄅㄛ˙
+注音: ㄅㄛㄧ
 date-last-perfect: 2026-03-15
 tags:
   - character
@@ -43,5 +43,5 @@ tags:
 ```
 ## Notes
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 3](lookup/Grade%203.md)
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄅㄛ˙](syllables/ㄅㄛ˙.md)
+- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄅㄛㄧ](syllables/ㄅㄛㄧ.md)
 - 形声 (OC \*plɯː): semantic [木](Radical%20075) + phonetic [不](characters/不%20(char).md) (OC \*pɯ, \*pɯʔ, \*pɯ'). According to a variant, the phonetic component is 否, which also had the ancient meaning of "to block", perhaps referred to liquids in a glass.

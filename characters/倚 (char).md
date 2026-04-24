@@ -28,7 +28,7 @@ mc_id: 1526
 graphemic_classification: "奇"
 stand_in: "倚"
 aliases:
-注音: "ˇㄧ"
+注音: "ㄨㄧ"
 tags:
   - character
 ---

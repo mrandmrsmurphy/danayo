@@ -30,7 +30,7 @@ graphemic_classification: 蚤
 stand_in: 掻
 aliases:
   - 搔
-注音: ㄙㄚˇ
+注音: ㄙㄚㄨ
 tags:
   - character
 ---

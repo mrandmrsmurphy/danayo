@@ -33,7 +33,7 @@ aliases:
 - 檯
 - 臺
 - 颱
-注音: ㄉㄚ˙
+注音: ㄉㄚㄧ
 tags:
   - character
 ---

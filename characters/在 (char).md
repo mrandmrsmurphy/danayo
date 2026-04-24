@@ -27,7 +27,7 @@ mc_id: 71
 graphemic_classification: "才"
 stand_in: "在"
 aliases:
-注音: "ㄐㄚ˙"
+注音: "ㄐㄚㄧ"
 tags:
   - character
 ---
@@ -40,4 +40,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚ˙</rt></ruby> - present, now
+- <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby> - present, now

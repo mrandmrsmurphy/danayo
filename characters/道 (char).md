@@ -29,7 +29,7 @@ mc_id: 57
 graphemic_classification: 會意
 stand_in: 道
 aliases:
-注音: ㄉㄚˇ
+注音: ㄉㄚㄨ
 tags:
   - character
 ---

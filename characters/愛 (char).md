@@ -31,7 +31,7 @@ aliases:
   - 爱
   - 㤅
   - 薆
-注音: "ㄚ˙"
+注音: "ㄚㄧ"
 tags:
   - character
 ---
@@ -44,7 +44,7 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[可愛](/words/可愛.md)<rt>ㄎㄚ·ㄚ˙</rt></ruby> - cute
+- <ruby>[可愛](/words/可愛.md)<rt>ㄎㄚ·ㄚㄧ</rt></ruby> - cute
 - [[恩愛]]
 - [[愛好]]
 - [[愛惜]]

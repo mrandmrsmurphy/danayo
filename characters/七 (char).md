@@ -53,11 +53,11 @@ tags:
 * <ruby>[[七月]]<rt>ㄑㄧㄊ·⼔ㄊ</rt></ruby> - July
 * <ruby>[[七夕]]<rt>ㄑㄧㄊㄙㄝㄎ</rt></ruby> - Qixi (Chinese Valentines)
 * <ruby>[[words/七情]]<rt>ㄑㄧㄊㄑㄧㄫ</rt></ruby> - the Seven Emotions (traditional)
-* <ruby>[[七宝]]<rt>ㄑㄧㄊㄅㄚˇ</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ⼘ˇ</rt></ruby>)
+* <ruby>[[七宝]]<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>)
 * <ruby>[[七事]]<rt>ㄑㄧㄊㄐㄧ</rt></ruby> - Seven Duties of a Sovereign
-* <ruby>[[七対子]]<rt>ㄑㄧㄊㄉㄛ˙ㄐㄧ</rt></ruby> - Seven Pairs (Majong)
-* <ruby>[[七面鳥]]<rt>ㄑㄧㄊㄇ⼶ㄋㄑㄛˇ</rt></ruby> - turkey
-* <ruby>[[七曜]]<rt>ㄑㄧㄊ·⼄ˇ</rt></ruby> - Seven Heavenly Bodies 
+* <ruby>[[七対子]]<rt>ㄑㄧㄊㄉㄛㄧㄐㄧ</rt></ruby> - Seven Pairs (Majong)
+* <ruby>[[七面鳥]]<rt>ㄑㄧㄊㄇ⼶ㄋㄑㄛㄨ</rt></ruby> - turkey
+* <ruby>[[七曜]]<rt>ㄑㄧㄊ·⼄ㄨ</rt></ruby> - Seven Heavenly Bodies 
 * <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby> - Big Dipper
 * <ruby>[[七色]]<rt>ㄑㄧㄊㄙㄧㄎ</rt></ruby> - ROYGBIV
 * <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> - heptagon

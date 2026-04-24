@@ -7,7 +7,7 @@ date-last-perfect: 2026-03-14
 > 匕 is a spoon
 
 ## Characters
-1. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧ˙</rt></ruby> - spoon
+1. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - spoon
 2. <ruby>[化](/characters/化%20(char).md)<rt>ㄏㆼ</rt></ruby> - -ification
 3. <ruby>[北](/characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> - north
 4. <ruby>[匙](/characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon

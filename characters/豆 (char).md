@@ -27,7 +27,7 @@ mc_id: 1371
 graphemic_classification: "象形"
 stand_in: "豆"
 aliases:
-注音: "ㄉㄛˇ"
+注音: "ㄉㄛㄨ"
 tags:
   - character
 ---
@@ -39,8 +39,8 @@ tags:
 ```
 ## Notes
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – some kind of container. Borrowed phonetically for the plant name. Displaced Old Chinese 菽 (shū). Unrelated to the bottom part of 豊.
-- [SKIP-2-1-6](../lookup/SKIP/SKIP-2/SKIP-2-1-6.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md)) - [ㄉㄛˇ](../syllables/ㄉㄛˇ.md)
+- [SKIP-2-1-6](../lookup/SKIP/SKIP-2/SKIP-2-1-6.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md)) - [ㄉㄛㄨ](../syllables/ㄉㄛㄨ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 2](../lookup/Grade%202.md)
   
 ### Derived characters
-- <ruby>[頭 (char)](/characters/頭%20(char).md)<rt>ㄊㄛˇ</rt></ruby>
+- <ruby>[頭 (char)](/characters/頭%20(char).md)<rt>ㄊㄛㄨ</rt></ruby>

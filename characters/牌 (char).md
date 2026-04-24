@@ -27,7 +27,7 @@ mc_id: 0
 graphemic_classification: "卑"
 stand_in: "牌"
 aliases:
-注音: "ㄅㄚ˙"
+注音: "ㄅㄚㄧ"
 tags:
   - character
 ---

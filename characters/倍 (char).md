@@ -26,7 +26,7 @@ mc_id: 997
 graphemic_classification: "咅"
 stand_in: "倍"
 aliases:
-注音: "ㄅㄚ˙"
+注音: "ㄅㄚㄧ"
 tags:
   - character
 ---

@@ -15,7 +15,7 @@ size: 8
 5. <ruby>[景](/characters/景.md)<rt>ㄍ⼶ㄫ</rt></ruby> "scenery" 
 6. <ruby>[晶](/characters/晶.md)<rt>ㄐㄧㄫ</rt></ruby> "crystal" 
 7. <ruby>[森](/characters/森.md)<rt>ㄙㄨㄇ</rt></ruby> "forest" 
-8. <ruby>[喬](/characters/喬.md)<rt>ㄎ⼘ˇ</rt></ruby> "tall, lofty" 
+8. <ruby>[喬](/characters/喬.md)<rt>ㄎ⼘ㄨ</rt></ruby> "tall, lofty" 
 
 ## Datacheck
 ```dataview

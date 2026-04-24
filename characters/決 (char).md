@@ -51,4 +51,4 @@ tags:
 	- [訣](characters/訣.md)
 
 ## Words
-- <ruby>[解決](/words/解決.md)<rt>ㄍ⼘˙ㄎ⼔ㄊ</rt></ruby>
+- <ruby>[解決](/words/解決.md)<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby>

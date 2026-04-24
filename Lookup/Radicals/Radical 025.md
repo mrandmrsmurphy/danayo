@@ -9,7 +9,7 @@ radical: 卜
 1. <ruby>[卜](/characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divination
 2. <ruby>[卞](/characters/卞.md)<rt>ㄅ⼶ㄋ</rt></ruby> - impatient
 3. <ruby>[占 (char)](../../characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - occupy
-4. <ruby>[卦](/characters/卦%20(char).md)<rt>ㄍㆼ˙</rt></ruby> - trigram
+4. <ruby>[卦](/characters/卦%20(char).md)<rt>ㄍㆼㄧ</rt></ruby> - trigram
 
 ## Dataview
 ```dataview

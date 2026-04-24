@@ -54,12 +54,12 @@ Originally an 指事/ideogram, a picture of "down".  It used be a line under ano
 - 門 + 下 = 閇, an alias of 閉
 ## Words
 - <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> - the world
-- <ruby>[[陛下]]<rt>ㄅㄝ˙ㄏㄚ</rt></ruby> - your majesty
-- <ruby>[[低下]]<rt>ㄉㄝ˙ㄏㄚ</rt></ruby> - to lower, to droop
-- <ruby>[[地下道]]<rt>ㄉㄧ˙ㄏㄚㄉㄚˇ</rt></ruby> - tunnel, underpass
+- <ruby>[[陛下]]<rt>ㄅㄝㄧㄏㄚ</rt></ruby> - your majesty
+- <ruby>[[低下]]<rt>ㄉㄝㄧㄏㄚ</rt></ruby> - to lower, to droop
+- <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> - tunnel, underpass
 - <ruby>[[下顎]]<rt>ㄏㄚ·ㄚㄎ</rt></ruby> - jaw, chin
 - <ruby>[[下降]]<rt>ㄏㄚㄍㄚㄫ</rt></ruby> - to descend, to fall
-- <ruby>[[下痢]]<rt>ㄏㄚㄌㄧ˙</rt></ruby> - diarrhea
+- <ruby>[[下痢]]<rt>ㄏㄚㄌㄧㄜ</rt></ruby> - diarrhea
 - <ruby>[[下旬]]<rt>ㄏㄚㄙ⼜ㄋ</rt></ruby> - end of the month
 - <ruby>[[落下]]<rt>ㄌㄚㄎㄏㄚ</rt></ruby> - to fall
 - <ruby>[[落下傘]]<rt>ㄌㄚㄎㄏㄚㄙㄚㄋ</rt></ruby> - parachute

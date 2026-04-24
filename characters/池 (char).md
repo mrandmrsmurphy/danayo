@@ -28,7 +28,7 @@ mc_id: 1070
 graphemic_classification: "也"
 stand_in: "池"
 aliases:
-注音: "ㄐㄨ˙"
+注音: "ㄐㄨㄧ"
 tags:
   - character
 ---

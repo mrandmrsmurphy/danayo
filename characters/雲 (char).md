@@ -50,4 +50,4 @@ tags:
 - 云云 --> 雲雲 "etc." and it's opposite 云爾-->雲爾 "that is all"
 
 ## Chengyu
-- <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨˇㄏㆼ·⼘</rt></ruby> - cloud by day, fire by night
+- <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨㄛㄏㆼ·⼘</rt></ruby> - cloud by day, fire by night

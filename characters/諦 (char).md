@@ -28,7 +28,7 @@ graphemic_classification: "帝"
 stand_in: "諦"
 aliases:
   - 谛
-注音: "ㄊㄝ˙"
+注音: "ㄊㄝㄧ"
 tags:
   - character
 ---

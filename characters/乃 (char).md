@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 乃
 aliases:
 品詞: 連接詞
-注音: ㄋㄚ˙
+注音: ㄋㄚㄧ
 tags:
   - character
 ---

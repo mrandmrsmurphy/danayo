@@ -46,4 +46,4 @@ tags:
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
 ## Chengyu
 - <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
-- <ruby>[義以立名](/chengyu/義以立名.md)<rt>ˇㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>
+- <ruby>[義以立名](/chengyu/義以立名.md)<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>

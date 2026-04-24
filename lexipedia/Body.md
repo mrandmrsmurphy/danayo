@@ -18,9 +18,9 @@ language: English
 - skin - <ruby>皮膚<rt>ㄅㄧㄆㄨ</rt></ruby>
 
 - nipple - <ruby>乳頭<rt>nudou</rt></ruby>; navel - <ruby>𦜝<rt>jei</rt></ruby>; waist - <ruby>腰部<rt>'youbou</rt></ruby>; hip (bone) - <ruby>腰骨<rt>'yougot</rt></ruby>; abdomen - <ruby>腹部<rt>bukbou</rt></ruby> 
-- thumb/big toe - <ruby>大指<rt>ㄉㄚˇㄐㄧ˙</rt></ruby>; knuckle - <ruby>指関節<rt>jiigwamjet</rt></ruby>; palm - <ruby>手掌<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>; elbow - <ruby>肘<rt>ㄐㄨㄇ</rt></ruby> 
-- thigh - <ruby>大腿<rt>ㄉㄚ˙ㄊㄛ˙</rt></ruby>; calf - <ruby>脹脛<rt>ㄑㄚㄫㄏㄝㄫ</rt></ruby>, heel - <ruby>踵骨<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby>, sole - <ruby>足裏<rt>ㄐㄛㄎㄌㄧ</rt></ruby>, toe <ruby>足指<rt>ㄐㄛㄎㄌㄧ˙</rt></ruby>
-- vulva - <ruby>[陰門](words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>; vagina - <ruby>陰道<rt>ㄧㄇㄉㄚˇ</rt></ruby>; clitoris - <ruby>陰核<rt>ㄧㄇㄏㄚㄎ</rt></ruby>; penis - <ruby>陰茎<rt>ㄧㄇㄏㄚㄫ</rt></ruby> ; testicle - <ruby>睾丸<rt>ㄍㄚˇㄏㆼㄋ</rt></ruby> or <ruby>精巣<rt>ㄐㄝㄫㄐㄚˇ</rt></ruby>; anus - <ruby>肛門<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>
+- thumb/big toe - <ruby>大指<rt>ㄉㄚㄨㄐㄧㄜ</rt></ruby>; knuckle - <ruby>指関節<rt>jiǝgwamjet</rt></ruby>; palm - <ruby>手掌<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>; elbow - <ruby>肘<rt>ㄐㄨㄇ</rt></ruby> 
+- thigh - <ruby>大腿<rt>ㄉㄚㄧㄊㄛㄧ</rt></ruby>; calf - <ruby>脹脛<rt>ㄑㄚㄫㄏㄝㄫ</rt></ruby>, heel - <ruby>踵骨<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby>, sole - <ruby>足裏<rt>ㄐㄛㄎㄌㄧ</rt></ruby>, toe <ruby>足指<rt>ㄐㄛㄎㄌㄧㄜ</rt></ruby>
+- vulva - <ruby>[陰門](words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>; vagina - <ruby>陰道<rt>ㄧㄇㄉㄚㄨ</rt></ruby>; clitoris - <ruby>陰核<rt>ㄧㄇㄏㄚㄎ</rt></ruby>; penis - <ruby>陰茎<rt>ㄧㄇㄏㄚㄫ</rt></ruby> ; testicle - <ruby>睾丸<rt>ㄍㄚㄨㄏㆼㄋ</rt></ruby> or <ruby>精巣<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>; anus - <ruby>肛門<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>
 
 ## Head
 - cheek - <ruby>頬<rt>ㄍㄝㄆ</rt></ruby>
@@ -47,12 +47,12 @@ language: English
 - tail - <ruby>尾<rt>mui</rt></ruby>
 - wing - <ruby>羽翼<rt>'u'ik</rt></ruby>
 
-bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau</rt></ruby>, fin - <ruby>鰭<rt>gii</rt></ruby>, hoof - <ruby>蹄<rt>dei</rt></ruby>, horn - <ruby>角<rt>gok</rt></ruby>, mane - <ruby>鬣<rt>lop</rt></ruby>, tusk - <ruby>長牙<rt>jang'a</rt></ruby>
+bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau</rt></ruby>, fin - <ruby>鰭<rt>giǝ</rt></ruby>, hoof - <ruby>蹄<rt>dei</rt></ruby>, horn - <ruby>角<rt>gok</rt></ruby>, mane - <ruby>鬣<rt>lop</rt></ruby>, tusk - <ruby>長牙<rt>jang'a</rt></ruby>
 
 ## Organ 
 - blood - <ruby>血<rt>hwet</rt></ruby>
 - bone - <ruby>骨<rt>got</rt></ruby>
-- fat - <ruby>脂肪<rt>jiipang</rt></ruby>
+- fat - <ruby>脂肪<rt>jiǝpang</rt></ruby>
 - heart - <ruby>心臓<rt>simjang</rt></ruby>
 - muscle - <ruby>筋肉<rt>ginnuk</rt></ruby>
 - shit - <ruby>大便<rt>daibyen</rt></ruby>
@@ -62,7 +62,7 @@ bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau<
 
 - liver - <ruby>肝臓<rt>ganjang</rt></ruby>, lungs - <ruby>肺<rt>pye</rt></ruby>, womb - <ruby>子宮<rt>jigung</rt></ruby>, kidney - <ruby>腎臓<rt>sinjang</rt></ruby>, brain - <ruby>脳<rt>nau</rt></ruby>, intestines - <ruby>腸管<rt>canggwen</rt></ruby>
 - skeleton - <ruby>[[骨格]]<rt>곧각</rt></ruby>/<ruby>骸骨<rt>hyegot</rt></ruby>, skull - <ruby>頭骨<rt>dougot</rt></ruby>, rib - <ruby>肋骨<rt>lukgot</rt></ruby>, spine - <ruby>背骨<rt>boigot</rt></ruby>, pelvis - <ruby>骨盤<rt>gotban</rt></ruby>
-- spit - [[唾液]], snot - <ruby>鼻水<rt>bisui</rt></ruby>, urine - <ruby>尿<rt>nau</rt></ruby>, semen - [[精液]], fart - <ruby>屁<rt>pii</rt></ruby>, menstruation - <ruby>月経<rt>'wetgeng</rt></ruby>
+- spit - [[唾液]], snot - <ruby>鼻水<rt>bisui</rt></ruby>, urine - <ruby>尿<rt>nau</rt></ruby>, semen - [[精液]], fart - <ruby>屁<rt>piǝ</rt></ruby>, menstruation - <ruby>月経<rt>'wetgeng</rt></ruby>
 
 ## Actions
 - feel

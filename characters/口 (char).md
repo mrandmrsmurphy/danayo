@@ -28,7 +28,7 @@ mc_id: 403
 graphemic_classification: "象形"
 stand_in: "口"
 aliases:
-注音: "ㄎㄛˇ"
+注音: "ㄎㄛㄨ"
 tags:
   - character
 ---
@@ -40,7 +40,7 @@ tags:
 ```
 ## Words
 - [[人口]] - population
-- <ruby>[唖口](/words/唖口.md)<rt>ㄚㄎㄛˇ</rt></ruby> - mute
+- <ruby>[唖口](/words/唖口.md)<rt>ㄚㄎㄛㄨ</rt></ruby> - mute
 - [[口臭]]
 - [[口訣]]
 - [[口笛]]

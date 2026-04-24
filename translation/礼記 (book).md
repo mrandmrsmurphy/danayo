@@ -3,7 +3,7 @@ tags: book
 ---
 
 > [List of Books](List%20of%20Books.md)
-> <ruby>[礼記](/words/礼記.md)<rt>ㄌㄝ˙ㄍ˙</rt></ruby> - Book of Rites
+> <ruby>[礼記](/words/礼記.md)<rt>ㄌㄝㄧㄍ˙</rt></ruby> - Book of Rites
 
 1. translation/礼記 (book) 01曲礼上 - Qu Li
 2. translation/礼記 (book) 02曲礼下 - Qu Li II
