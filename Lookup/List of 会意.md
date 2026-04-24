@@ -207,6 +207,8 @@ views:
       - date-last-perfect
       - danayo_id
     sort:
+      - property: danayo_id
+        direction: ASC
       - property: stroke_count
         direction: ASC
     columnSize:

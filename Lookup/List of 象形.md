@@ -4,7 +4,7 @@ size: 308
 # 象形 — Pictographs
 ## Explained
 ### Definition
-**象形** refers to characters that originated as **stylized drawings of concrete objects**. The graph is motivated directly by visual resemblance. Early forms in oracle bone and bronze inscriptions are typically more transparent, with later standard forms becoming abstracted.
+**[[象形]]** refers to characters that originated as **stylized drawings of concrete objects**. The graph is motivated directly by visual resemblance. Early forms in oracle bone and bronze inscriptions are typically more transparent, with later standard forms becoming abstracted.
 
 Typical examples include:
 - 日 “sun”
@@ -114,9 +114,9 @@ views:
       - danayo_id
       - stroke_count
     sort:
-      - property: stroke_count
-        direction: ASC
       - property: danayo_id
+        direction: ASC
+      - property: stroke_count
         direction: ASC
       - property: grade_level
         direction: ASC
