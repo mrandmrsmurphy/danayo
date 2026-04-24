@@ -41,3 +41,5 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+1. green
+2. abbreviation for 
