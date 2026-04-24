@@ -49,40 +49,16 @@ tags:
 111 leads to the name <ruby>[錀琴](/words/錀琴.md)<rt>ㄌㄛㄋㄍㄨㄇ</rt></ruby> for röntgens
 
 ## Abbreviated
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8">
-<title>Abbr PT Table</title>
-<style>
-  body { font-family: sans-serif; padding: 1rem; background: #fff; color: #111; }
-  .wrap { overflow-x: auto; }
-  table { border-collapse: collapse; table-layout: fixed; font-size: 15px; }
-  th, td { width: 36px; min-width: 36px; max-width: 36px; padding: 5px 4px; border: 1px solid #ccc; text-align: center; overflow: hidden; white-space: nowrap; }
-  th { background: #f5f5f5; font-size: 11px; font-weight: 600; color: #666; font-family: monospace; }
-  td.row-hdr { background: #f5f5f5; font-size: 11px; font-weight: 600; color: #666; font-family: monospace; }
-  td.empty { color: #ccc; }
-  tr:hover td { background: #f9f9f9; }
-  tr:hover td.row-hdr { background: #eee; }
-</style>
-</head>
-<body>
-<div class="wrap">
-<table>
-<thead><tr>
-  <th></th>
-  <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th>
-</tr></thead>
-<tbody>
-<tr><td class="row-hdr">1</td><td>軽</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td>日</td></tr>
-<tr><td class="row-hdr">2</td><td>石</td><td>緑</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td>硼</td><td>炭</td><td>窒</td><td>養</td><td>弗</td><td>虹</td><td class="empty">·</td></tr>
-<tr><td class="row-hdr">3</td><td>鹸</td><td>苦</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td class="empty">·</td><td>礬</td><td>硅</td><td>燐</td><td>硫</td><td>塩</td><td>惰</td><td class="empty">·</td></tr>
-<tr><td class="row-hdr">4</td><td>鉀</td><td>灰</td><td>康</td><td>巨</td><td>釩</td><td>色</td><td>孟</td><td>鉄</td><td>鬼</td><td>魔</td><td>銅</td><td>亜</td><td>高</td><td>徳</td><td>砒</td><td>月</td><td>臭</td><td>潜</td></tr>
-<tr><td class="row-hdr">5</td><td>茜</td><td>火</td><td>蛍</td><td>晶</td><td>孝</td><td>硬</td><td>造</td><td>露</td><td>薇</td><td>護</td><td>銀</td><td>甘</td><td>紫</td><td>朱</td><td>墨</td><td>土</td><td>沃</td><td>奇</td></tr>
-<tr><td class="row-hdr">6</td><td>青</td><td>重</td><td>隠</td><td>丹</td><td>渇</td><td>狼</td><td>莱</td><td>嗅</td><td>霓</td><td>白</td><td>黄</td><td>水</td><td>蕤</td><td>鉛</td><td>蒼</td><td>波</td><td>穏</td><td>射</td></tr>
-<tr><td class="row-hdr">7</td><td>法</td><td>放</td><td>始</td><td>鈩</td><td>杜</td><td>西</td><td>玻</td><td>黒</td><td>邁</td><td>達</td><td>錀</td><td>哥</td><td>本</td><td>佛</td><td>莫</td><td>利</td><td>田</td><td>奥</td></tr>
-</tbody>
-</table>
-</div>
-</body>
-</html>
+```
+────┼─────────────────────────────────────────────────
+ 1  │ 軽 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · ·  ·  · 日
+ 2  │ 石 緑 ·  ·  ·  ·  ·  ·  ·  ·  ·  硼 炭 窒 養 弗 虹
+ 3  │ 鹸 苦 ·  ·  ·  ·  ·  ·  ·  ·  ·  礬 硅 燐 硫 塩 惰
+ 4  │ 鉀 灰 康 巨 釩 色 孟 鉄 鬼 魔 銅 亜 高 徳 砒 月 臭 潜
+ 5  │ 茜 火 蛍 晶 孝 硬 造 露 薇 護 銀 甘 紫 朱 墨 土 沃 奇
+ 6  │ 青 重 隠 丹 渇 狼 莱 嗅 霓 白 黄 水 蕤 鉛 蒼 波 穏 射
+ 7  │ 法 放 始 鈩 杜 西 玻 黒 邁 達 錀 哥 本 佛 莫 利 田 奥
+ 
+ L  | 穀 韮 磁 孫 吸 欧 多 翠 難 褐 桃 嬴 核 沼 
+ A  | 雷 副 天 海 冥 美 里 柏 加 愛 費 門 諾 倫
+```
