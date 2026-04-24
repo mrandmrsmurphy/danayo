@@ -40,10 +40,11 @@ tags:
 ---
 >[!tip] This is a page about the character 鹸.
 >For the word, see [鹸](words/鹸.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 HSK/3, 이름
+
+1. alkali
+2. abbreviation for "sodium" <ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>

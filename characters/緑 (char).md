@@ -42,4 +42,4 @@ tags:
 ```
 ## Notes
 1. green
-2. abbreviation for 
+2. abbreviation for <ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium"
