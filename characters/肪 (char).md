@@ -1,34 +1,34 @@
 ---
-mandarin: "fáng"
+mandarin: fáng
 cantonese: fong1
-korean: "방"
-korean_native: "살질"
+korean: 방
+korean_native: 살질
 japanese:
   - BOU
   - HOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: f
-middle_chinese_final: "ʉɐŋ"
+middle_chinese_final: ʉɐŋ
 stroke_count: 8
-radical: "肉"
+radical: 肉
 skip_number: 1-4-4
-grade_level: 6
-pos: ""
+grade_level: "6"
+pos: 性詞
 english:
   - fat
   - obese
 羅馬字: fang
-韓文: "빵"
-joyo_level: ""
-hsk_level: ""
-hanmun_edu_level: ""
+韓文: 빵
+joyo_level: 高等
+hsk_level: "6"
+hanmun_edu_level: 名
 danayo_id: 6081
 mc_id: 9251
-graphemic_classification: "方"
-stand_in: "肪"
+graphemic_classification: 方
+stand_in: 肪
 aliases:
-注音: "ㄈㄚㄫ"
+注音: ㄈㄚㄫ
 tags:
   - character
 ---

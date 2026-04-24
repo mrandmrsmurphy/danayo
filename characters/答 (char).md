@@ -1,18 +1,18 @@
 ---
-mandarin: "dá"
+mandarin: dá
 cantonese: daap3
-korean: "답"
-korean_native: "대답"
+korean: 답
+korean_native: 대답
 japanese:
   - TOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: t
-middle_chinese_final: "ʌp"
+middle_chinese_final: ʌp
 stroke_count: 12
-radical: "竹"
+radical: 竹
 skip_number: 2-6-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - answer
@@ -20,17 +20,17 @@ english:
   - assent
   - return
 羅馬字: dab
-韓文: "답"
-joyo_level: 2
-hsk_level: 1
-hanmun_edu_level: "中"
+韓文: 답
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 2192
 mc_id: 1066
-graphemic_classification: "合"
-stand_in: "答"
+graphemic_classification: 合
+stand_in: 答
 aliases:
   - 荅
-注音: "ㄉㄚㄆ"
+注音: ㄉㄚㄆ
 tags:
   - character
 ---
