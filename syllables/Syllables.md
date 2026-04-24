@@ -11,10 +11,9 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 | 鼻音      | ㄇ m    | ㄋ n     |      | ㄫ ŋ     |
 | 流音      | ㄈ f    | ㄌ l     | ㄙ s  | ㄏ h     |
 
-- w on-glide may not have a w off-glide, except ㆼㄨ.
+- w on-glide generally does not have a w off-glide.
 - w on-glide may not go with an initial labial (ㄅ, ㄆ, or ㄇ)
-- No ㄝ-vowel may have a w off-glide
-- y on-glide may not have a y off-glide, except for velars (ㄍ, ㄎ, ㄫ, ㄏ) + ㄚ/ㄝ and ㄙ⼶ㄧ
+- No e-type-vowel may have a w off-glide
 - ㄉ and ㄊ may not have a y or w on-glide, except for the ㄉ⼔-series
 - ㄐ and ㄑ may not have a y or w on-glide, except for the ㄐㆼ and ㄐ⼔-series
 - ㄋ and ㄌ may not have a w on-glide

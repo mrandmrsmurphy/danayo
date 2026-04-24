@@ -1,34 +1,34 @@
 ---
-mandarin: "yōu"
+mandarin: yōu
 cantonese: jau1
-korean: "유"
-korean_native: "그윽할"
+korean: 유
+korean_native: 그윽할
 japanese:
   - YUU
 japanese_nanori: ""
 vietnamese:
-middle_chinese_initial: "ʔ"
-middle_chinese_final: "iɪu"
+middle_chinese_initial: ʔ
+middle_chinese_final: iɪu
 stroke_count: 9
-radical: "幺"
+radical: 幺
 skip_number: 3-2-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - quiet
   - secluded
   - dark
 羅馬字: "'yuo"
-韓文: "윳"
-joyo_level: "高等"
+韓文: 윳
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 6354
 mc_id: 868
-graphemic_classification: "會意"
-stand_in: "幽"
+graphemic_classification: 會意
+stand_in: 幽
 aliases:
-注音: "⼜ㄛ"
+注音: ⼜ㄛ
 tags:
   - character
 ---
