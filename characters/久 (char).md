@@ -27,7 +27,7 @@ mc_id: 411
 graphemic_classification: "象形"
 stand_in: "久"
 aliases:
-注音: "ㄍ˙ㄨ"
+注音: "ㄍ⼜"
 tags:
   - character
 ---
@@ -39,4 +39,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[久闊](/words/久闊.md)<rt>ㄍ˙ㄨㄎˇㄚㄊ</rt></ruby> "long period of separation"
+- <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎㆼㄊ</rt></ruby> "long period of separation"

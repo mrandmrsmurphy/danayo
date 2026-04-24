@@ -27,7 +27,7 @@ danayo_id: 241
 mc_id: 1984
 graphemic_classification: 會意
 stand_in: 算
-注音: ㄙˇㄚㄋ
+注音: ㄙㆼㄋ
 tags:
   - character
 ---

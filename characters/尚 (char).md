@@ -28,7 +28,7 @@ graphemic_classification: 向
 stand_in: 尚
 aliases:
   - 尙
-注音: ㄙ˙ㄚㄥ
+注音: ㄙ⼘ㄫ
 tags:
   - character
 ---

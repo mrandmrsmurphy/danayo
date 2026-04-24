@@ -26,7 +26,7 @@ mc_id: 9819
 graphemic_classification: "丁"
 stand_in: "汀"
 aliases:
-注音: "ㄊㄝㄥ"
+注音: "ㄊㄝㄫ"
 tags:
   - character
 ---

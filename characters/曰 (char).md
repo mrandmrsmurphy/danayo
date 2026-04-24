@@ -26,7 +26,7 @@ mc_id: 8
 graphemic_classification: "象形"
 stand_in: "曰"
 aliases:
-注音: "ˇㄝㄊ"
+注音: "⼔ㄊ"
 tags:
   - character
 ---

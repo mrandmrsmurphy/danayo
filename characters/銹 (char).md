@@ -28,7 +28,7 @@ stand_in: "銹"
 aliases:
   - 鏽
   - 锈
-注音: "ㄙ˙ㄨ"
+注音: "ㄙ⼜"
 tags:
   - character
 ---

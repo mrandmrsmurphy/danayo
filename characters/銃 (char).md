@@ -28,7 +28,7 @@ graphemic_classification: "充"
 stand_in: "銃"
 aliases:
   - 铳
-注音: "ㄑㄨㄥ"
+注音: "ㄑㄨㄫ"
 tags:
   - character
 ---

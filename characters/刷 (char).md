@@ -27,7 +27,7 @@ mc_id: 4964
 graphemic_classification: "㕞"
 stand_in: "刷"
 aliases:
-注音: "ㄙˇㄚㄊ"
+注音: "ㄙㆼㄊ"
 tags:
   - character
 ---

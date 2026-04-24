@@ -31,7 +31,7 @@ aliases:
   - 竝
   - 幷
   - 倂
-注音: "ㄅㄝㄥ"
+注音: "ㄅㄝㄫ"
 tags:
   - character
 ---

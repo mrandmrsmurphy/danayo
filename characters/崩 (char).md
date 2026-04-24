@@ -29,7 +29,7 @@ mc_id: 726
 graphemic_classification: "朋"
 stand_in: "崩"
 aliases:
-注音: "ㄅㄨㄥ"
+注音: "ㄅㄨㄫ"
 tags:
   - character
 ---

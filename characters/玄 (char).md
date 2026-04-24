@@ -30,7 +30,7 @@ graphemic_classification: 象形
 stand_in: 玄
 aliases:
   - 眩
-注音: ㄏˇㄝㄋ
+注音: ㄏ⼔ㄋ
 tags:
   - character
 ---

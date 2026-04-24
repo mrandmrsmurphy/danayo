@@ -7,7 +7,7 @@ date-last-perfect: 2026-03-04
 > **wind** radical
 
 ## Characters
-1. <ruby>[風](/characters/風%20(char).md)<rt>ㄈㄨㄥ</rt></ruby> - wind
+1. <ruby>[風](/characters/風%20(char).md)<rt>ㄈㄨㄫ</rt></ruby> - wind
 2. <ruby>[颯](/characters/颯%20(char).md)<rt>ㄙㄚㄆ</rt></ruby> - gale
 
 ## Data check

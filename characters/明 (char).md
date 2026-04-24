@@ -34,7 +34,7 @@ aliases:
   - 奛
   - 䳟
   - 眀
-注音: ㄇ˙ㄝㄥ
+注音: ㄇ⼶ㄫ
 tags:
   - character
 ---
@@ -45,10 +45,10 @@ tags:
 ```
 ## Notes
 -  [List of 会意](../lookup/List%20of%20会意.md): [日](Radical%20072) (“sun”) + [月](月%20(char).md) (“moon”) – the sun just rising and the moon not yet set – dawn (天明 (tiānmíng)). Alternatively, it may be interpreted as two bright celestial bodies – bright. This form was already found in the oracle bone script and was prevalent throughout the eras.
-- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md)) - [ㄇ˙ㄝㄥ](../syllables/ㄇ˙ㄝㄥ.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md)) - [ㄇ⼶ㄫ](../syllables/ㄇ⼶ㄫ.md)
 
 ## Words
 - [[鷦明]]
 - [[孔明]]
 ## Chengyu
-- <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ˙ㄝㄋㄇ˙ㄝㄥ</rt></ruby>
+- <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby>

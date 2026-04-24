@@ -27,7 +27,7 @@ mc_id: 2454
 graphemic_classification: "柰"
 stand_in: "款"
 aliases:
-注音: "ㄎˇㄚㄋ"
+注音: "ㄎㆼㄋ"
 tags:
   - character
 ---

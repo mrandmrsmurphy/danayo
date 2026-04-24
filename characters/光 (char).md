@@ -26,7 +26,7 @@ mc_id: 264
 graphemic_classification: "指事"
 stand_in: "光"
 aliases:
-注音: "ㄎˇㄚㄥ"
+注音: "ㄎㆼㄫ"
 tags:
   - character
 ---

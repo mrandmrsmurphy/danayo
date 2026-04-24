@@ -28,7 +28,7 @@ graphemic_classification: "會意"
 stand_in: "令"
 aliases:
   - 囹
-注音: "ㄌㄝㄥ"
+注音: "ㄌㄝㄫ"
 tags:
   - character
 ---

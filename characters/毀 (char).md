@@ -28,7 +28,7 @@ graphemic_classification: 會意
 stand_in: 毀
 aliases:
   - 毁
-注音: ㄏˇㄝ˙
+注音: ㄏ⼔˙
 tags:
   - character
 ---

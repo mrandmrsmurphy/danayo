@@ -26,7 +26,7 @@ mc_id: 5656
 graphemic_classification: 追
 stand_in: 槌
 aliases:
-注音: ㄐˇㄝ˙
+注音: ㄐ⼔˙
 tags:
   - character
 ---

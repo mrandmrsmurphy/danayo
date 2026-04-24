@@ -31,7 +31,7 @@ aliases:
   - 輟
   - 轍
   - 缀
-注音: "ㄐˇㄝㄊ"
+注音: "ㄐ⼔ㄊ"
 tags:
   - character
 ---

@@ -9,7 +9,7 @@ date-last-perfect: 2026-03-11
 
 ## Characters
 1. <ruby>[番](/characters/番%20(char).md)<rt>ㄆㄚㄋ</rt></ruby> - TIMES
-2. <ruby>[盛](/characters/盛.md)<rt>ㄙㄧㄥ</rt></ruby> - flourish
+2. <ruby>[盛](/characters/盛.md)<rt>ㄙㄧㄫ</rt></ruby> - flourish
 3. <ruby>[禼](/characters/禼.md)<rt>ㄙㄝㄊ</rt></ruby> - old names
 4. <ruby>[貿](/characters/貿.md)<rt>ㄇㄛˇ</rt></ruby> - commerce
 

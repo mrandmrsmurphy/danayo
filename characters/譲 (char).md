@@ -27,7 +27,7 @@ graphemic_classification: 襄
 stand_in: 譲
 aliases:
   - 讓
-注音: ㄋ˙ㄚㄥ
+注音: ㄋ⼘ㄫ
 tags:
   - character
 ---

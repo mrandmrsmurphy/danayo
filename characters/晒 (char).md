@@ -32,7 +32,7 @@ aliases:
   - 曬
   - 嗮
   - 澌
-注音: ㄙ˙ㄚ˙
+注音: ㄙ⼘˙
 tags:
   - character
   - hapax

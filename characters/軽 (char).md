@@ -33,7 +33,7 @@ stand_in: 軽
 aliases:
   - 輕
   - 轻
-注音: ㄎㄧㄥ
+注音: ㄎㄧㄫ
 tags:
   - character
 ---

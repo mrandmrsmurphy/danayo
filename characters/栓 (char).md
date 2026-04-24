@@ -27,7 +27,7 @@ mc_id: 0
 graphemic_classification: "全"
 stand_in: "栓"
 aliases:
-注音: "ㄙˇㄝㄋ"
+注音: "ㄙ⼔ㄋ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ graphemic_classification: "圭"
 stand_in: "鞋"
 aliases:
   - 鞵
-注音: "ㄏ˙ㄚ˙"
+注音: "ㄏ⼘˙"
 tags:
   - character
 ---

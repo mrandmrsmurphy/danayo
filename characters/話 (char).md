@@ -30,7 +30,7 @@ stand_in: "話"
 aliases:
   - 话
   - 䛡
-注音: "ㄏˇㄚ˙"
+注音: "ㄏㆼ˙"
 tags:
   - character
 ---

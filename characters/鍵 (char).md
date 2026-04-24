@@ -28,7 +28,7 @@ stand_in: "鍵"
 aliases:
   - 騫
   - 键
-注音: "ㄍ˙ㄝㄋ"
+注音: "ㄍ⼶ㄋ"
 tags:
   - character
 ---

@@ -30,7 +30,7 @@ stand_in: 雪
 aliases:
   - 鱈
   - 䨮
-注音: ㄙˇㄝㄊ
+注音: ㄙ⼔ㄊ
 tags:
   - character
 ---

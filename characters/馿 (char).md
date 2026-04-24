@@ -27,7 +27,7 @@ graphemic_classification: 盧
 stand_in: 馿
 aliases:
   - 驢
-注音: ㄌ˙ㄛ
+注音: ㄌ⼄
 tags:
   - character
 ---

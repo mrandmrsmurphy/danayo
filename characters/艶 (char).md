@@ -29,7 +29,7 @@ graphemic_classification: 盍
 stand_in: 艶
 aliases:
   - 豔
-注音: ˙ㄝㄇ
+注音: ⼶ㄇ
 tags:
   - character
 ---

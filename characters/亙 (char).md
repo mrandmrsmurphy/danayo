@@ -27,7 +27,7 @@ mc_id: 6537
 graphemic_classification: "指事"
 stand_in: "亙"
 aliases:
-注音: "ㄍㄨㄥ"
+注音: "ㄍㄨㄫ"
 tags:
   - character
 ---

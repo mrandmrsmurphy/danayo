@@ -27,7 +27,7 @@ mc_id: 3
 graphemic_classification: 象形
 stand_in: 也
 aliases:
-注音: ˙ㄚ
+注音: ⼘
 tags:
   - character
 ---

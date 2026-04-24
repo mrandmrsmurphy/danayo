@@ -27,7 +27,7 @@ graphemic_classification: "貝"
 stand_in: "鎖"
 aliases:
   - 锁
-注音: "ㄙˇㄚ"
+注音: "ㄙㆼ"
 tags:
   - character
 ---

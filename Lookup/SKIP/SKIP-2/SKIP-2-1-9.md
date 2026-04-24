@@ -8,7 +8,7 @@ size: 1
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
 ## Characters
-1. <ruby>[扇](/characters/扇.md)<rt>ㄙ˙ㄝㄋ</rt></ruby> - fan
+1. <ruby>[扇](/characters/扇.md)<rt>ㄙ⼶ㄋ</rt></ruby> - fan
 
 ## Datacheck
 ```dataview

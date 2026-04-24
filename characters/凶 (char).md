@@ -29,7 +29,7 @@ graphemic_classification: "象形"
 stand_in: "凶"
 aliases:
   - 兇
-注音: "ㄏ˙ㄨㄥ"
+注音: "ㄏ⼜ㄫ"
 tags:
   - character
 ---

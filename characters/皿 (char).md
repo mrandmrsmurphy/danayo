@@ -28,7 +28,7 @@ mc_id: 3320
 graphemic_classification: "象形"
 stand_in: "皿"
 aliases:
-注音: "ㄇ˙ㄝㄥ"
+注音: "ㄇ⼶ㄫ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ graphemic_classification: "公"
 stand_in: "訟"
 aliases:
   - 讼
-注音: "ㄙ˙ㄛㄥ"
+注音: "ㄙ⼄ㄫ"
 tags:
   - character
 ---

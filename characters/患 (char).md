@@ -27,7 +27,7 @@ mc_id: 446
 graphemic_classification: "串"
 stand_in: "患"
 aliases:
-注音: "ㄏˇㄚㄇ"
+注音: "ㄏㆼㄇ"
 tags:
   - character
 ---

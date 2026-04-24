@@ -27,7 +27,7 @@ mc_id: 5597
 graphemic_classification: "會意"
 stand_in: "尿"
 aliases:
-注音: "ㄋ˙ㄚˇ"
+注音: "ㄋ⼘ˇ"
 tags:
   - character
 ---

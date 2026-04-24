@@ -28,7 +28,7 @@ mc_id: 3758
 graphemic_classification: "厓"
 stand_in: "涯"
 aliases:
-注音: "˙ㄚ˙"
+注音: "⼘˙"
 tags:
   - character
 ---

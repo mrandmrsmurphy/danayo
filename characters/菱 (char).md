@@ -26,7 +26,7 @@ mc_id: 5223
 graphemic_classification: "夌"
 stand_in: "菱"
 aliases:
-注音: "ㄌㄜㄥ"
+注音: "ㄌㄜㄫ"
 tags:
   - character
 ---

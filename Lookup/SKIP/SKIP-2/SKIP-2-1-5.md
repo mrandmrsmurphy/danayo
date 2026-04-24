@@ -8,7 +8,7 @@ size: 1
 > [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Characters
-1. <ruby>[亘](/characters/亘%20(char).md)<rt>ㄏˇㄚㄎ</rt></ruby>
+1. <ruby>[亘](/characters/亘%20(char).md)<rt>ㄏㆼㄎ</rt></ruby>
 
 ## Datacheck
 ```dataview

@@ -29,7 +29,7 @@ mc_id: 3745
 graphemic_classification: 由
 stand_in: 油
 aliases:
-注音: ˙ㄨ
+注音: ⼜
 tags:
   - character
 ---

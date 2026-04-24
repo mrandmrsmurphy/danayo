@@ -28,7 +28,7 @@ graphemic_classification: "果"
 stand_in: "課"
 aliases:
   - 课
-注音: "ㄎˇㄚㄇ"
+注音: "ㄎㆼㄇ"
 tags:
   - character
 ---

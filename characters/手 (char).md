@@ -26,7 +26,7 @@ mc_id: 540
 graphemic_classification: "象形"
 stand_in: "手"
 aliases:
-注音: "ㄙ˙ㄨ"
+注音: "ㄙ⼜"
 tags:
   - character
 ---

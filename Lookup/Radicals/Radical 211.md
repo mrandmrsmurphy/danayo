@@ -16,7 +16,7 @@ date-last-perfect: 2026-03-11
 * 齖-->牙
 
 ### +5 strokes
-1. <ruby>[齢](characters/齢.md)<rt>ㄌㄝㄥ</rt></ruby> - age
+1. <ruby>[齢](characters/齢.md)<rt>ㄌㄝㄫ</rt></ruby> - age
 - 齟 --> [[𪗱]]
 - 齡--> 齢
 - 龄-->齢

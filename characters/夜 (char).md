@@ -29,7 +29,7 @@ graphemic_classification: 亦
 stand_in: 夜
 aliases:
   - 亱
-注音: ˙ㄚ
+注音: ⼘
 tags:
   - character
 ---

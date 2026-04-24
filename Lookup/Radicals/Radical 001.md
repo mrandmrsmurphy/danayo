@@ -11,7 +11,7 @@ Radical 1 is 一, the number one.
 1. <ruby>[[一 (char)|一]]<rt>·ㄧㄊ</rt></ruby> - one
 
 ## +1 Stroke
-2. <ruby>[[丁 (char)]]<rt>ㄉㄝㄥ</rt></ruby> - fourth
+2. <ruby>[[丁 (char)]]<rt>ㄉㄝㄫ</rt></ruby> - fourth
 3. <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven 
 - 丂 --> ancient variant of 于 and of 考
 - 丄 --> ancient variant of 上
@@ -20,9 +20,9 @@ Radical 1 is 一, the number one.
 
 ## +2 Strokes
 4. <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
-5. <ruby>[[丈 (char)]]<rt>ㄐㄚㄥ</rt></ruby> - only
+5. <ruby>[[丈 (char)]]<rt>ㄐㄚㄫ</rt></ruby> - only
 6. <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
-7. <ruby>[[上 (char)]]<rt>ㄙ˙ㄚㄥ</rt></ruby> - above
+7. <ruby>[[上 (char)]]<rt>ㄙ⼘ㄫ</rt></ruby> - above
 8. <ruby>[[下 (char)]]<rt>ㄏㄚ</rt></ruby> - below
 - 丌 --> ancient variant of 其
 - 亐 --> ancient variant of 于
@@ -30,7 +30,7 @@ Radical 1 is 一, the number one.
 
 ## +3 Strokes
 9. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
-10. <ruby>[[与 (char)]]<rt>·˙ㄛ</rt></ruby> - only
+10. <ruby>[[与 (char)]]<rt>·⼄</rt></ruby> - only
 11. <ruby>[[丐]]<rt>ㄍㄚˇ</rt></ruby> - begger
 - 丏 --> ancient variant of 丐
 - [[characters/丑]] second of 12 earthly branches
@@ -40,8 +40,8 @@ Radical 1 is 一, the number one.
 ## +4 Strokes
 12. <ruby>[[且]]<rt>ㄑㄛ</rt></ruby> - also
 13. <ruby>[[世]]<rt>ㄙㄝ</rt></ruby> - world
-14. <ruby>[[丘]]<rt>ㄎ˙ㄨ</rt></ruby> - hill
-15. <ruby>[[丙]]<rt>ㄅ˙ㄝㄥ</rt></ruby> - tertiary
+14. <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> - hill
+15. <ruby>[[丙]]<rt>ㄅ⼶ㄫ</rt></ruby> - tertiary
 16. <ruby>[[丕]]<rt>ㄆㄧ</rt></ruby> - grand
 - 业 --> ancient variant of 業, 丘, and 北
 - 丛 --> ancient variant of 叢
@@ -50,8 +50,8 @@ Radical 1 is 一, the number one.
 - 㐀 --> ancient variant of 丘 
 
 ## +5 Strokes
-17. <ruby>[[丞]]<rt>ㄙㄧㄥ</rt></ruby> - rescue
-18. <ruby>[[両 (char)]]<rt>ㄌ˙ㄚㄥ</rt></ruby> - both
+17. <ruby>[[丞]]<rt>ㄙㄧㄫ</rt></ruby> - rescue
+18. <ruby>[[両 (char)]]<rt>ㄌ⼘ㄫ</rt></ruby> - both
 - 㐂 --> ancient variant of 喜
 - 丠 --> ancient variant of 丘 and 冀
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
@@ -66,7 +66,7 @@ Radical 1 is 一, the number one.
 - 𠀧 --> V variant of 三
 
 ## +7 Strokes
-19. <ruby>[[並]]<rt>ㄅㄝㄥ</rt></ruby> - side-by-side
+19. <ruby>[[並]]<rt>ㄅㄝㄫ</rt></ruby> - side-by-side
 - 丧 --> ancient variant of 喪
 
 ## +8 Strokes 

@@ -29,7 +29,7 @@ mc_id: 1827
 graphemic_classification: "牀"
 stand_in: "床"
 aliases:
-注音: "ㄙ˙ㄚㄇ"
+注音: "ㄙ⼘ㄇ"
 tags:
   - character
 ---

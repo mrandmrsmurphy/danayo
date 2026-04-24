@@ -29,7 +29,7 @@ graphemic_classification: "圭"
 stand_in: "掛"
 aliases:
   - 挂
-注音: "ㄍˇㄚ˙"
+注音: "ㄍㆼ˙"
 tags:
   - character
 ---

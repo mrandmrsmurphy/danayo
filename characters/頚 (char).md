@@ -30,7 +30,7 @@ stand_in: 頚
 aliases:
   - 頸
   - 颈
-注音: ㄍㄧㄥ
+注音: ㄍㄧㄫ
 tags:
   - character
 ---

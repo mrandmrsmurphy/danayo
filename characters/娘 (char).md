@@ -28,7 +28,7 @@ stand_in: "娘"
 aliases:
   - 孃
   - 嬢
-注音: "ㄋㄚㄥ"
+注音: "ㄋㄚㄫ"
 tags:
   - character
 ---

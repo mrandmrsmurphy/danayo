@@ -28,7 +28,7 @@ graphemic_classification: 者
 stand_in: 着
 aliases:
   - 著
-注音: ㄐˇㄚㄎ
+注音: ㄐㆼㄎ
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ graphemic_classification: "咼"
 stand_in: "過"
 aliases:
   - 过
-注音: "ㄍˇㄚ"
+注音: "ㄍㆼ"
 tags:
   - character
 ---

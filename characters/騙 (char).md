@@ -29,7 +29,7 @@ stand_in: "騙"
 aliases:
   - 骗
   - 騗
-注音: "ㄆ˙ㄝㄋ"
+注音: "ㄆ⼶ㄋ"
 tags:
   - character
 ---

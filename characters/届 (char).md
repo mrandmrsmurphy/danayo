@@ -28,7 +28,7 @@ graphemic_classification: 凷
 stand_in: 届
 aliases:
 - 屆
-注音: ㄍ˙ㄝ
+注音: ㄍ⼶
 tags:
   - character
 ---

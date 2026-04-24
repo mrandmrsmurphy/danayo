@@ -39,4 +39,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- <ruby>[巻耳](/words/巻耳.md)<rt>ㄍˇㄝㄋㄋㄧ</rt></ruby>
+- <ruby>[巻耳](/words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>

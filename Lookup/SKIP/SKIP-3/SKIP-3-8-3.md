@@ -9,7 +9,7 @@ size: 3
 
 ## Characters
 1. <ruby>[問](/characters/問.md)<rt>ㄇㄨㄋ</rt></ruby> "question"
-2. <ruby>[彪](/characters/彪.md)<rt>ㄅ˙ㄨˇ</rt></ruby> "tiger stripes"
+2. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ˇ</rt></ruby> "tiger stripes"
 3. <ruby>[閉](/characters/閉.md)<rt>ㄅㄝ˙</rt></ruby> "close"
 
 ## Datacheck

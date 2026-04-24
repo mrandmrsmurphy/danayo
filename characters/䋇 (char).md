@@ -30,7 +30,7 @@ stand_in: 䋇
 aliases:
   - 繹
   - 绎
-注音: ˙ㄝㄎ
+注音: ⼶ㄎ
 tags:
   - character
 ---

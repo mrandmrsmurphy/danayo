@@ -31,7 +31,7 @@ stand_in: 経
 aliases:
   - 經
   - 经
-注音: ㄍㄝㄥ
+注音: ㄍㄝㄫ
 tags:
   - character
 ---

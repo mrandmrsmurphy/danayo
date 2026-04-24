@@ -27,7 +27,7 @@ graphemic_classification: "厶"
 stand_in: "矣"
 aliases:
   - 欸
-注音: "ˇㄝ"
+注音: "⼔"
 tags:
   - character
   - hapax

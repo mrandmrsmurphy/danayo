@@ -10,7 +10,7 @@ skip_number: 2-3-3
 ## Characters
 ### Common
 1. <ruby>[芋](/characters/芋.md)<rt>ㄨ</rt></ruby> - taro
-2. <ruby>[羊](/characters/羊.md)<rt>˙ㄚㄥ</rt></ruby> - sheep
+2. <ruby>[羊](/characters/羊.md)<rt>⼘ㄫ</rt></ruby> - sheep
 
 ## Data double check
 ```dataview

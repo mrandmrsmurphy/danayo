@@ -15,8 +15,8 @@ If a syllable starts with one of these, but doesn't come first in a word, it is 
 Immediately before or after a vowels can appear a **y** or **w**.  
 
 Before:
-- **y** is a high dot: ˙ as in ˙ㄚ，˙ㄝ，˙ㄛ，˙ㄨ (**ya**, **ye**, **yo**, **yu**)
-- **w** is a high "hat": ˇ as in ˇㄚ，ˇㄝ (**wa**, **we**)
+- **y** is a high dot: ˙ as in ⼘，⼶，⼄，⼜ (**ya**, **ye**, **yo**, **yu**)
+- **w** is a high "hat": ˇ as in ㆼ，⼔ (**wa**, **we**)
 After
 - ㄚ˙，ㄝ˙，ㄛ˙，ㄨ˙
 - ㄚˇ，ㄛˇ，ㄨˇ
@@ -35,7 +35,7 @@ Most combinations are possible, but not all actually occur.
 - ㄌ **l**
 - ㄇ **m**
 - ㄋ **n**
-- ㄥ **ng** (don't worry: it only occurs at the end of a syllable)
+- ㄫ **ng** (don't worry: it only occurs at the end of a syllable)
 - ㄆ **p**
 - ㄙ **s**
 - ㄊ **t**

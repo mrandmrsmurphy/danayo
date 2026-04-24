@@ -27,7 +27,7 @@ graphemic_classification: "指事"
 stand_in: "坐"
 aliases:
   - 座
-注音: "ㄐˇㄚ"
+注音: "ㄐㆼ"
 tags:
   - character
 ---

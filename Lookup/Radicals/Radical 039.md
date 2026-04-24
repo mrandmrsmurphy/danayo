@@ -6,13 +6,13 @@ radical: 子
 
 ## Characters
 1. <ruby>[子](/characters/子.md)<rt>ㄐㄧ</rt></ruby> - child
-2. <ruby>[孔](/characters/孔%20(char).md)<rt>ㄎㄛㄥ</rt></ruby> - cavity
-3. <ruby>[孕](/characters/孕.md)<rt>ㄧㄥ</rt></ruby>
+2. <ruby>[孔](/characters/孔%20(char).md)<rt>ㄎㄛㄫ</rt></ruby> - cavity
+3. <ruby>[孕](/characters/孕.md)<rt>ㄧㄫ</rt></ruby>
 4. <ruby>[字](/characters/字%20(char).md)<rt>ㄐㄧ</rt></ruby> - glyph
 5. <ruby>[存](/characters/存.md)<rt>ㄐㄛㄋ</rt></ruby>
 6. <ruby>[孚](/characters/孚.md)<rt>ㄆㄨ</rt></ruby>
-7. <ruby>[孝](/characters/孝%20(char).md)<rt>ㄏ˙ㄚˇ</rt></ruby>
-8. <ruby>[孟](/characters/孟.md)<rt>ㄇㄚㄥ</rt></ruby>
+7. <ruby>[孝](/characters/孝%20(char).md)<rt>ㄏ⼘ˇ</rt></ruby>
+8. <ruby>[孟](/characters/孟.md)<rt>ㄇㄚㄫ</rt></ruby>
 9. 季
 10. <ruby>[孤](/characters/孤.md)<rt>ㄍㄛ</rt></ruby> - lone
 11. 孩

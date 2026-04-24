@@ -8,10 +8,10 @@ date-last-perfect: 2026-03-20
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 1. <ruby>[尺](characters/尺%20(char).md)<rt>ㄑㄝㄎ</rt></ruby>
-2. <ruby>[尹](characters/尹.md)<rt>˙ㄨㄋ</rt></ruby>
+2. <ruby>[尹](characters/尹.md)<rt>⼜ㄋ</rt></ruby>
 3. <ruby>[天](characters/天%20(char).md)<rt>ㄊㄝㄋ</rt></ruby>
 4. <ruby>[五](characters/五%20(char).md)<rt>ㄛ</rt></ruby>
-5. <ruby>[王](characters/王%20(char).md)<rt>ˇㄚㄥ</rt></ruby> 
+5. <ruby>[王](characters/王%20(char).md)<rt>ㆼㄫ</rt></ruby> 
 6. <ruby>[不](characters/不%20(char).md)<rt>ㄅㄛㄊ</rt></ruby>
 7. <ruby>[丹](characters/丹.md)<rt>ㄉㄚㄋ</rt></ruby>
 8. <ruby>[互](characters/互.md)<rt>ㄏㄛ</rt></ruby>

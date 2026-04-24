@@ -29,7 +29,7 @@ mc_id: 40
 graphemic_classification: 指事
 stand_in: 行
 aliases:
-注音: ㄏㄚㄥ
+注音: ㄏㄚㄫ
 tags:
   - character
 ---

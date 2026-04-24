@@ -30,7 +30,7 @@ mc_id: 2862
 graphemic_classification: 生
 stand_in: 甥
 aliases:
-注音: ㄙㄚㄥ
+注音: ㄙㄚㄫ
 tags:
   - character
 ---

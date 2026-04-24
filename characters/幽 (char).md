@@ -28,7 +28,7 @@ mc_id: 868
 graphemic_classification: "會意"
 stand_in: "幽"
 aliases:
-注音: "˙ㄨˇ"
+注音: "⼜ˇ"
 tags:
   - character
 ---

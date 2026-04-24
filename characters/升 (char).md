@@ -27,7 +27,7 @@ mc_id: 415
 graphemic_classification: "象形"
 stand_in: "升"
 aliases:
-注音: "ㄙㄨㄥ"
+注音: "ㄙㄨㄫ"
 tags:
   - character
 ---

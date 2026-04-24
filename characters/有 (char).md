@@ -29,7 +29,7 @@ graphemic_classification: "又"
 stand_in: "有"
 aliases:
   - 宥
-注音: "˙ㄨ"
+注音: "⼜"
 tags:
   - character
 ---
@@ -41,4 +41,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[希有](/words/希有.md)<rt>ㄏㄧ˙·˙ㄨ</rt></ruby> - rare
+- <ruby>[希有](/words/希有.md)<rt>ㄏㄧ˙·⼜</rt></ruby> - rare

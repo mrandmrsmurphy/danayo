@@ -27,7 +27,7 @@ graphemic_classification: 曷
 stand_in: 蝎
 aliases:
   - 蠍
-注音: ㄏ˙ㄝㄊ
+注音: ㄏ⼶ㄊ
 date-last-perfect: 2026-03-15
 tags:
   - character

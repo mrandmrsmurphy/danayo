@@ -15,14 +15,14 @@ date-last-perfect: 2026-03-11
 -  㒰–>全
 * Forbidden: 㒱
 ### +4 
-2. <ruby>[全 (char)](characters/全%20(char).md)<rt>ㄐˇㄝㄋ</rt></ruby> - whole
+2. <ruby>[全 (char)](characters/全%20(char).md)<rt>ㄐ⼔ㄋ</rt></ruby> - whole
 - 㒲–>財
 ### +5
 - 㒳–>両
 ### +6
 - 兩–>両
 ### +7
-3. <ruby>[兪](characters/兪.md)<rt>˙ㄨㄇ</rt></ruby> - "emperor's consent"
+3. <ruby>[兪](characters/兪.md)<rt>⼜ㄇ</rt></ruby> - "emperor's consent"
 
 # Data search
 ```dataview

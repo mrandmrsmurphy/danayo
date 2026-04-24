@@ -28,7 +28,7 @@ mc_id: 843
 graphemic_classification: "象形"
 stand_in: "丙"
 aliases:
-注音: "ㄅ˙ㄝㄥ"
+注音: "ㄅ⼶ㄫ"
 tags:
   - character
 ---

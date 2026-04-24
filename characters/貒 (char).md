@@ -29,7 +29,7 @@ stand_in: 貒
 aliases:
   - 猯
   - 䝎
-注音: ㄊˇㄚㄋ
+注音: ㄊㆼㄋ
 tags:
   - character
 ---

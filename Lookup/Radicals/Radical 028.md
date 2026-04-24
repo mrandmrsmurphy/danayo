@@ -6,7 +6,7 @@ radical: 厶
 > [Radicals](Radicals.md)
 
 ## Characters
-1. <ruby>[[去 (char)|去]]<rt>ㄎ˙ㄛ</rt></ruby> - go
+1. <ruby>[[去 (char)|去]]<rt>ㄎ⼄</rt></ruby> - go
 2. <ruby>[[参]]<rt>ㄙㄚㄇ</rt></ruby> - participate
 
 ### Misc.

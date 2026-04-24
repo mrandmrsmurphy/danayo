@@ -7,8 +7,8 @@ skip_number: 3-3-2
 > SKIP : 3 : [3](lookup/SKIP/SKIP-3/SKIP-3-3.md)
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
-- <ruby>[[巨]]<rt>ㄨ˙ㄛ</rt></ruby>
-- <ruby>[[広]]<rt>ㄍˇㄚㄥ</rt></ruby>
+- <ruby>[[巨]]<rt>ㄨ⼄</rt></ruby>
+- <ruby>[[広]]<rt>ㄍㆼㄫ</rt></ruby>
 - <ruby>[[四]]<rt>ㄙㄧ˙</rt></ruby>
 - <ruby>[[囚]]<rt>숫</rt></ruby>
 - <ruby>[[処 (char)]]<rt>초</rt></ruby>	

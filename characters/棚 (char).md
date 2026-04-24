@@ -28,7 +28,7 @@ mc_id: 6814
 graphemic_classification: 朋
 stand_in: 棚
 aliases:
-注音: ㄅㄚㄥ
+注音: ㄅㄚㄫ
 tags:
   - character
 ---

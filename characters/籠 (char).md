@@ -27,7 +27,7 @@ graphemic_classification: "龍"
 stand_in: "籠"
 aliases:
   - 笼
-注音: "ㄌㄛㄥ"
+注音: "ㄌㄛㄫ"
 tags:
   - character
 ---

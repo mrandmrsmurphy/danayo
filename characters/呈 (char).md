@@ -27,7 +27,7 @@ mc_id: 3622
 graphemic_classification: "廷"
 stand_in: "呈"
 aliases:
-注音: "ㄉㄧㄥ"
+注音: "ㄉㄧㄫ"
 tags:
   - character
 ---

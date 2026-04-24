@@ -28,7 +28,7 @@ mc_id: 5049
 graphemic_classification: "冋"
 stand_in: "迥"
 aliases:
-注音: "ㄏㄧㄥ"
+注音: "ㄏㄧㄫ"
 tags:
   - character
 ---

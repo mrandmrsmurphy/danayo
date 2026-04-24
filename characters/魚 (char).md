@@ -30,7 +30,7 @@ stand_in: 魚
 aliases:
   - 鱼
   - 𤋳
-注音: ˙ㄛ
+注音: ⼄
 tags:
   - character
 ---
@@ -43,11 +43,11 @@ tags:
 ## Notes
 - A pictogram ([象形](lookup/List%20of%20象形.md)) of a fish. A conservative variant is 𤋳.
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
-- [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [˙ㄛ](syllables/˙ㄛ.md)
+- [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [⼄](syllables/⼄.md)
 
 ## Words
-- <ruby>[魚雷](/words/魚雷.md)<rt>˙ㄛㄌㄛ˙</rt></ruby> "torpedo"
-- <ruby>[周魚](/words/周魚.md)<rt>ㄐㄨˇ·˙ㄛ</rt></ruby> "sea bream"
+- <ruby>[魚雷](/words/魚雷.md)<rt>⼄ㄌㄛ˙</rt></ruby> "torpedo"
+- <ruby>[周魚](/words/周魚.md)<rt>ㄐㄨˇ·⼄</rt></ruby> "sea bream"
 
 ## Chengyu
 - [[沈魚落雁]]

@@ -27,7 +27,7 @@ mc_id: 819
 graphemic_classification: "扁"
 stand_in: "篇"
 aliases:
-注音: "ㄆ˙ㄝㄋ"
+注音: "ㄆ⼶ㄋ"
 tags:
   - character
 ---

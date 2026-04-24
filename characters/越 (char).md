@@ -28,7 +28,7 @@ mc_id: 336
 graphemic_classification: 戉
 stand_in: 越
 aliases:
-注音: ˇㄝㄊ
+注音: ⼔ㄊ
 tags:
   - character
 ---
@@ -40,4 +40,4 @@ tags:
 ## Notes
 
 ## Chengyu
-- <ruby>[呉越同舟](/chengyu/呉越同舟.md)<rt>ㄛ·ˇㄝㄊㄉㄛㄥㄐㄨ</rt></ruby>
+- <ruby>[呉越同舟](/chengyu/呉越同舟.md)<rt>ㄛ·⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby>

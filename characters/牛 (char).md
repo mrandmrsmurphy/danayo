@@ -26,7 +26,7 @@ mc_id: 503
 graphemic_classification: "象形"
 stand_in: "牛"
 aliases:
-注音: "ㄋ˙ㄨ"
+注音: "ㄋ⼜"
 tags:
   - character
 ---

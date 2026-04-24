@@ -28,7 +28,7 @@ graphemic_classification: 令
 stand_in: 零
 aliases:
   - 〇
-注音: ㄌㄝㄥ
+注音: ㄌㄝㄫ
 tags:
   - character
 ---

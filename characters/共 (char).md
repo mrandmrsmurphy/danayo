@@ -28,7 +28,7 @@ mc_id: 381
 graphemic_classification: "指事"
 stand_in: "共"
 aliases:
-注音: "ㄍ˙ㄛㄥ"
+注音: "ㄍ⼄ㄫ"
 tags:
   - character
 ---

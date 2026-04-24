@@ -7,7 +7,7 @@ date-last-perfect: 2026-02-27
 
 ## Characters
 
-1. <ruby>[[長 (char)|長]]<rt>ㄐㄚㄥ</rt></ruby> - long
+1. <ruby>[[長 (char)|長]]<rt>ㄐㄚㄫ</rt></ruby> - long
 
 ## Base check
 ```base

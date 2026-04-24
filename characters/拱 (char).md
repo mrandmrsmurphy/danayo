@@ -26,7 +26,7 @@ mc_id: 2449
 graphemic_classification: 共
 stand_in: 拱
 aliases:
-注音: ㄍ˙ㄛㄥ
+注音: ㄍ⼄ㄫ
 tags:
   - character
 ---

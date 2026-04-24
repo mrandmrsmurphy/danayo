@@ -29,7 +29,7 @@ mc_id: 0
 graphemic_classification: "査"
 stand_in: "渣"
 aliases:
-注音: "ㄐˇㄚ"
+注音: "ㄐㆼ"
 tags:
   - character
 ---

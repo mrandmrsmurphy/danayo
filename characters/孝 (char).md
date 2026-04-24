@@ -27,7 +27,7 @@ mc_id: 225
 graphemic_classification: "會意"
 stand_in: "孝"
 aliases:
-注音: "ㄏ˙ㄚˇ"
+注音: "ㄏ⼘ˇ"
 tags:
   - character
 ---

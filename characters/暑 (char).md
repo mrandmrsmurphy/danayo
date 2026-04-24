@@ -27,7 +27,7 @@ mc_id: 1374
 graphemic_classification: "者"
 stand_in: "暑"
 aliases:
-注音: "ㄙ˙ㄛ"
+注音: "ㄙ⼄"
 tags:
   - character
 ---
@@ -37,4 +37,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([[Stroke 12]]) - [ㄙ˙ㄛ](syllables/ㄙ˙ㄛ.md)
+- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([[Stroke 12]]) - [ㄙ⼄](syllables/ㄙ⼄.md)

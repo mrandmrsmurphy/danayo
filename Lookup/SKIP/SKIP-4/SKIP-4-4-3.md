@@ -8,8 +8,8 @@ skip_number: 4-4-3
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
-1. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby> - middle
-2. <ruby>[井](/characters/井.md)<rt>ㄐㄧㄥ</rt></ruby> - well
+1. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> - middle
+2. <ruby>[井](/characters/井.md)<rt>ㄐㄧㄫ</rt></ruby> - well
 3. 升 (char)
 4. 屯 (char)
 5. 手 (char)

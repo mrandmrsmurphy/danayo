@@ -27,7 +27,7 @@ mc_id: 671
 graphemic_classification: 生
 stand_in: 省
 aliases:
-注音: ㄙ˙ㄝㄥ
+注音: ㄙ⼶ㄫ
 tags:
   - character
 ---

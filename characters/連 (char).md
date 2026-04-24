@@ -30,7 +30,7 @@ aliases:
   - 连
   - 聯
   - 联
-注音: ㄌ˙ㄝㄋ
+注音: ㄌ⼶ㄋ
 tags:
   - character
 ---

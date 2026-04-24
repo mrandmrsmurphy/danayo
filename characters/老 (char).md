@@ -41,4 +41,4 @@ tags:
 # Notes
 
 ## Chengyu
-- <ruby>[白頭偕老](/chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ˙ㄝㄎㄚˇ</rt></ruby>
+- <ruby>[白頭偕老](/chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄎㄚˇ</rt></ruby>

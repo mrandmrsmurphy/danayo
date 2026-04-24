@@ -30,7 +30,7 @@ mc_id: 377
 graphemic_classification: "象形"
 stand_in: "由"
 aliases:
-注音: "˙ㄨˇ"
+注音: "⼜ˇ"
 tags:
   - character
 ---

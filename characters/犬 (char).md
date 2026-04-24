@@ -28,7 +28,7 @@ mc_id: 1088
 graphemic_classification: 象形
 stand_in: 犬
 aliases:
-注音: ㄎˇㄝㄋ
+注音: ㄎ⼔ㄋ
 tags:
   - character
 ---

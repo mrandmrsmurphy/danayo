@@ -83,13 +83,13 @@ Practically, 象形 remains a **small, core inventory** of basic nouns and natur
 
 ## List
 1. <ruby>[乙](/characters/乙%20(char).md)<rt>ㄛㄊ</rt></ruby> - fish cuts
-2. <ruby>[九](/characters/九%20(char).md)<rt>ㄎ˙ㄨ</rt></ruby> - elbow (nine)
+2. <ruby>[九](/characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - elbow (nine)
 3. <ruby>[勿](/characters/勿%20(char).md)<rt>ㄇㄨㄊ</rt></ruby> - blood on a knife (do not)
-4. <ruby>[長](/characters/長%20(char).md)<rt>ㄐㄚㄥ</rt></ruby> - old man with long hair (long)
-5. <ruby>[羊](/characters/羊.md)<rt>˙ㄚㄥ</rt></ruby> - sheep
+4. <ruby>[長](/characters/長%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - old man with long hair (long)
+5. <ruby>[羊](/characters/羊.md)<rt>⼘ㄫ</rt></ruby> - sheep
 6. <ruby>[己](/characters/己.md)<rt>ㄍㄧ</rt></ruby> - silk rope (self)
-7. <ruby>[魚](/characters/魚%20(char).md)<rt>˙ㄛ</rt></ruby> - fish
-8. <ruby>[月](/characters/月%20(char).md)<rt>ˇㄝㄊ</rt></ruby> - moon
+7. <ruby>[魚](/characters/魚%20(char).md)<rt>⼄</rt></ruby> - fish
+8. <ruby>[月](/characters/月%20(char).md)<rt>⼔ㄊ</rt></ruby> - moon
 9. <ruby>[立 (char)](/characters/立%20(char).md)<rt>ㄌㄧㄆ</rt></ruby> - person standing
 10. <ruby>[豆 (char)](/characters/豆%20(char).md)<rt>ㄉㄛˇ</rt></ruby> - a pot of beans
 

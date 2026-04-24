@@ -31,7 +31,7 @@ stand_in: 関
 aliases:
   - 關
   - 关
-注音: ㄍˇㄚㄇ
+注音: ㄍㆼㄇ
 tags:
   - character
 ---

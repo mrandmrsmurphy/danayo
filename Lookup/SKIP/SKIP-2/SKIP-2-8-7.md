@@ -14,8 +14,8 @@ skip_number: 2-8-7
 3. <ruby>[[質]]<rt>ㄐㄧㄊ</rt></ruby> - essense, nature
 4. <ruby>[[震]]<rt>ㄐㄧㄋ</rt></ruby> - shake
 5. <ruby>[[輩 (char)|輩]]<rt>ㄅㄛ˙</rt></ruby> - generation
-6. <ruby>[[霊]]<rt>ㄌㄝㄥ</rt></ruby> - ghost
-7. <ruby>[[慧 (char)|慧]]<rt>ㄏˇㄝ˙</rt></ruby> - bright, intelligent
+6. <ruby>[[霊]]<rt>ㄌㄝㄫ</rt></ruby> - ghost
+7. <ruby>[[慧 (char)|慧]]<rt>ㄏ⼔˙</rt></ruby> - bright, intelligent
 8. <ruby>[[霅]]<rt>ㄙㄛㄆ</rt></ruby> - pitter patter
 ### Aliases
 - 瑩 --> 瑛

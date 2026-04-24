@@ -27,7 +27,7 @@ graphemic_classification: "指事"
 stand_in: "丘"
 aliases:
   - 㐀
-注音: "ㄎ˙ㄨ"
+注音: "ㄎ⼜"
 tags:
   - character
 ---

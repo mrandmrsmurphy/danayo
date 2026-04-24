@@ -29,7 +29,7 @@ mc_id: 767
 graphemic_classification: "豆"
 stand_in: "登"
 aliases:
-注音: "ㄉㄨㄥ"
+注音: "ㄉㄨㄫ"
 tags:
   - character
 ---

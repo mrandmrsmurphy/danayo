@@ -30,7 +30,7 @@ stand_in: 様
 aliases:
   - 樣
   - 样
-注音: ˙ㄚㄥ
+注音: ⼘ㄫ
 tags:
   - character
 ---

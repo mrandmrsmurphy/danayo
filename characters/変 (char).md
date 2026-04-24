@@ -30,7 +30,7 @@ stand_in: 変
 aliases:
   - 變
 品詞: 性詞
-注音: ㄅ˙ㄝㄋ
+注音: ㄅ⼶ㄋ
 tags:
   - character
 ---

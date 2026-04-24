@@ -29,7 +29,7 @@ graphemic_classification: "會意"
 stand_in: "負"
 aliases:
   - 负
-注音: "ㄅ˙ㄨ"
+注音: "ㄅ⼜"
 tags:
   - character
 ---

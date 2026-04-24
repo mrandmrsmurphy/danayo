@@ -26,7 +26,7 @@ mc_id: 1325
 graphemic_classification: "象形"
 stand_in: "束"
 aliases:
-注音: "ㄙ˙ㄛㄎ"
+注音: "ㄙ⼄ㄎ"
 tags:
   - character
 ---

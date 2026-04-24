@@ -29,7 +29,7 @@ graphemic_classification: "丁"
 stand_in: "釘"
 aliases:
   - 钉
-注音: "ㄉㄝㄥ"
+注音: "ㄉㄝㄫ"
 tags:
   - character
 ---

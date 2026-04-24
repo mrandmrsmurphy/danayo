@@ -42,4 +42,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[権謀](/words/権謀.md)<rt>ㄍˇㄝㄋㄇㄨˇ</rt></ruby> - power plan
+- <ruby>[権謀](/words/権謀.md)<rt>ㄍ⼔ㄋㄇㄨˇ</rt></ruby> - power plan

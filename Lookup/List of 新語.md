@@ -2,23 +2,23 @@
 
 ## Grammar
 1. <ruby>[事詞](/words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby> - action word
-2. <ruby>[単亜語](/words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ·˙ㄛ</rt></ruby> - Dan'a'yo
+2. <ruby>[単亜語](/words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ·⼄</rt></ruby> - Dan'a'yo
 3. [名専字](lookup/名専字.md) - "name only character"
 4. <ruby>[実詞](/words/実詞.md)<rt>ㄙㄧㄊㄙㄚ</rt></ruby> - content word
-5. <ruby>[性詞](/words/性詞.md)<rt>ㄙㄧㄥㄙㄚ</rt></ruby> - stative word
+5. <ruby>[性詞](/words/性詞.md)<rt>ㄙㄧㄫㄙㄚ</rt></ruby> - stative word
 
 ## Lexical
-1. <ruby>[射術](/words/射術.md)<rt>ㄊ˙ㄚㄙㄨㄊ</rt></ruby> - classical Asian archery
-2. <ruby>[御術](/words/御術.md)<rt>˙ㄛㄙㄨㄊ</rt></ruby> - classical Asian charioteering
+1. <ruby>[射術](/words/射術.md)<rt>ㄊ⼘ㄙㄨㄊ</rt></ruby> - classical Asian archery
+2. <ruby>[御術](/words/御術.md)<rt>⼄ㄙㄨㄊ</rt></ruby> - classical Asian charioteering
 ### Periodic Table
-1. <ruby>[軽素](/words/軽素.md)<rt>ㄎㄧㄥㄙㄛ</rt></ruby> - hydrogen
+1. <ruby>[軽素](/words/軽素.md)<rt>ㄎㄧㄫㄙㄛ</rt></ruby> - hydrogen
 2. <ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> - helium
 3. <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium
 4. <ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> - beryllium
-5. <ruby>[養素](/words/養素.md)<rt>˙ㄚㄥㄙㄛ</rt></ruby> - oxygen
-6. <ruby>[虹素](../words/虹素.md)<rt>ㄝ˙ㄏㄛㄥㄙㄛ</rt></ruby> - neon
+5. <ruby>[養素](/words/養素.md)<rt>⼘ㄫㄙㄛ</rt></ruby> - oxygen
+6. <ruby>[虹素](../words/虹素.md)<rt>ㄝ˙ㄏㄛㄫㄙㄛ</rt></ruby> - neon
 7. <ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby> - sodium
-8. <ruby>[巨金](/words/巨金.md)<rt>ㄍ˙ㄛㄍㄧㄇ</rt></ruby> - titanium
+8. <ruby>[巨金](/words/巨金.md)<rt>ㄍ⼄ㄍㄧㄇ</rt></ruby> - titanium
 9. <ruby>[天金](../words/天金.md)<rt>ㄐㄨˇㄍㄧㄇ</rt></ruby> - uranium
 
 ## Base check

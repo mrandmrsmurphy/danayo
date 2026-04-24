@@ -6,8 +6,8 @@ date-last-perfect: 2026-03-04
 > [[Radicals]]
 
 ## Characters
-1. <ruby>[[尤]]<rt>˙ㄨˇ</rt></ruby> - especially
-2. <ruby>[[尭]]<rt>˙ㄚˇ</rt></ruby> - lofty
+1. <ruby>[[尤]]<rt>⼜ˇ</rt></ruby> - especially
+2. <ruby>[[尭]]<rt>⼘ˇ</rt></ruby> - lofty
 3. <ruby>[[就 (char)|就]]<rt>ㄐㄨˇ</rt></ruby> - let
 
 ## Base check

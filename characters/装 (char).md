@@ -30,7 +30,7 @@ stand_in: 装
 aliases:
   - 裝
   - 裳
-注音: ㄐˇㄚㄥ
+注音: ㄐㆼㄫ
 tags:
   - character
 ---

@@ -32,7 +32,7 @@ aliases:
   - 渢
   - 讽
   - 諷
-注音: "ㄈㄨㄥ"
+注音: "ㄈㄨㄫ"
 tags:
   - character
 ---

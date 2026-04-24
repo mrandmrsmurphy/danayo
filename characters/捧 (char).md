@@ -26,7 +26,7 @@ mc_id: 4456
 graphemic_classification: "奉"
 stand_in: "捧"
 aliases:
-注音: "ㄆㄛㄥ"
+注音: "ㄆㄛㄫ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ graphemic_classification: "重"
 stand_in: "衝"
 aliases:
   - 冲
-注音: "ㄑㄛㄥ"
+注音: "ㄑㄛㄫ"
 tags:
   - character
 ---

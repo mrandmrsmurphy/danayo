@@ -33,7 +33,7 @@ stand_in: 蛍
 aliases:
   - 螢
   - 萤
-注音: ㄏㄧㄥ
+注音: ㄏㄧㄫ
 tags:
   - character
 ---

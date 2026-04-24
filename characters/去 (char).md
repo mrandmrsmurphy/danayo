@@ -27,7 +27,7 @@ mc_id: 159
 graphemic_classification: 會意
 stand_in: 去
 aliases:
-注音: ㄎ˙ㄛ
+注音: ㄎ⼄
 tags:
   - character
 ---

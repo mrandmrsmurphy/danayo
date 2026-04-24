@@ -29,7 +29,7 @@ mc_id: 4170
 graphemic_classification: "并"
 stand_in: "瓶"
 aliases:
-注音: "ㄅㄝㄥ"
+注音: "ㄅㄝㄫ"
 tags:
   - character
 ---

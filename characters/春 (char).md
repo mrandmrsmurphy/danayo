@@ -42,4 +42,4 @@ tags:
 ## Notes
 
 ## Chengyu 
-- <ruby>[春夏秋冬](/chengyu/春夏秋冬.md)<rt>ㄑㄨㄋㄏ˙ㄚㄥㄑㄨˇㄊㄛㄥ</rt></ruby>
+- <ruby>[春夏秋冬](/chengyu/春夏秋冬.md)<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨˇㄊㄛㄫ</rt></ruby>

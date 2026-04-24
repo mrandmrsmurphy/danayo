@@ -31,7 +31,7 @@ stand_in: 圓
 aliases:
   - 圆
   - 円
-注音: ˇㄝㄋ
+注音: ⼔ㄋ
 tags:
   - character
 ---
@@ -43,4 +43,4 @@ tags:
 ## Notes
 This is a rare example of a divergence from Shinjitai, as the character 円 is too Japanese, and associated with Japanese money/yen.
 ## Words
-- <ruby>[圓周](/words/圓周.md)<rt>ˇㄝㄋㄐㄨˇ</rt></ruby> - circumference
+- <ruby>[圓周](/words/圓周.md)<rt>⼔ㄋㄐㄨˇ</rt></ruby> - circumference

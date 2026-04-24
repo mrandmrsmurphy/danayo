@@ -8,7 +8,7 @@ size: 2
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-1. <ruby>[彭](/characters/彭.md)<rt>ㄅㄚㄥ</rt></ruby> - ancient country
+1. <ruby>[彭](/characters/彭.md)<rt>ㄅㄚㄫ</rt></ruby> - ancient country
 2. <ruby>[鄂](/characters/鄂.md)<rt>ㄚㄎ</rt></ruby> - E
 
 ## Datacheck

@@ -29,7 +29,7 @@ graphemic_classification: "丁"
 stand_in: "成"
 aliases:
   - 鯎
-注音: "ㄙㄧㄥ"
+注音: "ㄙㄧㄫ"
 tags:
   - character
 ---
@@ -41,4 +41,4 @@ tags:
 ## Notes
 
 ## Chengyu
-- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄥㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
+- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>

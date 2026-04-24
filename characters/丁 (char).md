@@ -30,7 +30,7 @@ graphemic_classification: 象形
 stand_in: 丁
 aliases:
   - 𠆤
-注音: ㄉㄝㄥ
+注音: ㄉㄝㄫ
 tags:
   - character
 ---
@@ -54,5 +54,5 @@ tags:
 - [釘 (char)](characters/釘%20(char).md)
 - [町](characters/町.md)
 ### Words
-- <ruby>[丁丁](/words/丁丁.md)<rt>ㄉㄝㄥㄉㄝㄥ</rt></ruby>
-- <ruby>[丁香](/words/丁香.md)<rt>ㄉㄝㄥㄏ˙ㄚㄥ</rt></ruby>
+- <ruby>[丁丁](/words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>
+- <ruby>[丁香](/words/丁香.md)<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby>

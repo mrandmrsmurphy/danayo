@@ -8,12 +8,12 @@ date-last-perfect: 2026-04-02
 ## Characters
 ### Used
 1. <ruby>[乙](../../characters/乙%20(char).md)<rt>ㄛㄊ</rt></ruby> - second
-2. <ruby>[九](/characters/九%20(char).md)<rt>ㄎ˙ㄨ</rt></ruby> - nine
+2. <ruby>[九](/characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - nine
 3. <ruby>[乞](/characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby> - beg
-4. <ruby>[也](/characters/也%20(char).md)<rt>˙ㄚ</rt></ruby> - as for
+4. <ruby>[也](/characters/也%20(char).md)<rt>⼘</rt></ruby> - as for
 5. <ruby>[乱](/characters/乱.md)<rt>ㄌㄚㄋ</rt></ruby> - chaotic
 6. <ruby>[乳](/characters/乳.md)<rt>ㄋㄨ</rt></ruby> - milk
-7. <ruby>[乾](/characters/乾%20(char).md)<rt>ㄍ˙ㄝㄋ</rt></ruby> - heavenly
+7. <ruby>[乾](/characters/乾%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - heavenly
 
 ### Aliases
 ### Forbidden

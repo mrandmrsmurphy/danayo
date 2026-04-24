@@ -84,9 +84,9 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 * [[統一]]
 ## Chengyu
 - <ruby>[一字千金](/chengyu/一字千金.md)<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby>
-- <ruby>[一網打尽](/chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄥㄉㄚㄐㄧㄋ</rt></ruby>
+- <ruby>[一網打尽](/chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby>
 - <ruby>[一衣帯水](/chengyu/一衣帯水.md)<rt>ㄧㄊ·ㄧ˙ㄉㄚ˙ㄙㄨ</rt></ruby>
-- <ruby>[一長一短](/chengyu/一長一短.md)<rt>ㄧㄊㄐㄚㄥ·ㄧㄊㄉˇㄚㄋ</rt></ruby>
+- <ruby>[一長一短](/chengyu/一長一短.md)<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉㆼㄋ</rt></ruby>
 - [[千編一律]]
 - [[言行一致]]
 - 

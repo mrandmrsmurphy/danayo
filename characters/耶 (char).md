@@ -27,7 +27,7 @@ mc_id: 1817
 graphemic_classification: "牙"
 stand_in: "耶"
 aliases:
-注音: "˙ㄝ"
+注音: "⼶"
 tags:
   - character
 ---
@@ -39,5 +39,5 @@ tags:
 ## Notes
 
 ### Derived Characters
--  <ruby>[爺](/characters/爺.md)<rt>˙ㄚ</rt></ruby> - grandpa
-- <ruby>[椰](/characters/椰.md)<rt>˙ㄚ</rt></ruby> - coconut
+-  <ruby>[爺](/characters/爺.md)<rt>⼘</rt></ruby> - grandpa
+- <ruby>[椰](/characters/椰.md)<rt>⼘</rt></ruby> - coconut

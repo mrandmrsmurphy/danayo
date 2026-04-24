@@ -28,7 +28,7 @@ mc_id: 1281
 graphemic_classification: "肖"
 stand_in: "消"
 aliases:
-注音: "ㄙ˙ㄛˇ"
+注音: "ㄙ⼄ˇ"
 tags:
   - character
 ---

@@ -8,7 +8,7 @@ skip_number: 2-5-1
 > [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Characters
-1. <ruby>[丞](/characters/丞.md)<rt>ㄙㄧㄥ</rt></ruby> - rescue
+1. <ruby>[丞](/characters/丞.md)<rt>ㄙㄧㄫ</rt></ruby> - rescue
 
 ## Datacheck
 ```dataview

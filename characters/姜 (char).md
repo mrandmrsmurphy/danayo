@@ -27,7 +27,7 @@ graphemic_classification: 羊
 stand_in: 姜
 aliases:
 - 薑
-注音: ㄍ˙ㄚㄋ
+注音: ㄍ⼘ㄋ
 tags:
   - character
 ---

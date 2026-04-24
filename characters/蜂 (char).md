@@ -29,7 +29,7 @@ graphemic_classification: "豊"
 stand_in: "蜂"
 aliases:
   - 蚌
-注音: "ㄈㄛㄥ"
+注音: "ㄈㄛㄫ"
 tags:
   - character
 ---

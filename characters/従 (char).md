@@ -33,7 +33,7 @@ aliases:
   - 从
   - 慫
   - 怂
-注音: ㄐㄛㄥ
+注音: ㄐㄛㄫ
 tags:
   - character
 ---

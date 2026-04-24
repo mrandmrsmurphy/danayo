@@ -27,7 +27,7 @@ graphemic_classification: "刅"
 stand_in: "梁"
 aliases:
   - 樑
-注音: "ㄌ˙ㄚㄥ"
+注音: "ㄌ⼘ㄫ"
 tags:
   - character
 ---

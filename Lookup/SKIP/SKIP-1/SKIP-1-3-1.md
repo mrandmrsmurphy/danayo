@@ -8,7 +8,7 @@ size: 3
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
-1. <ruby>[孔](/characters/孔%20(char).md)<rt>ㄎㄛㄥ</rt></ruby> - cavity
+1. <ruby>[孔](/characters/孔%20(char).md)<rt>ㄎㄛㄫ</rt></ruby> - cavity
 2. <ruby>[幻](/characters/幻.md)<rt>ㄏㄨㄚㄎ</rt></ruby> - delusion
 3. <ruby>[引](/characters/引%20(char).md)<rt>ㄧㄋ</rt></ruby> - pull
 

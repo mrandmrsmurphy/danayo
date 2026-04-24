@@ -31,7 +31,7 @@ mc_id: 653
 graphemic_classification: 便
 stand_in: 便
 aliases:
-注音: ㄅ˙ㄝㄋ
+注音: ㄅ⼶ㄋ
 tags:
   - character
 ---

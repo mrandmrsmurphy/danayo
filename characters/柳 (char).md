@@ -26,7 +26,7 @@ mc_id: 1513
 graphemic_classification: "卯"
 stand_in: "柳"
 aliases:
-注音: "ㄌ˙ㄨ"
+注音: "ㄌ⼜"
 tags:
   - character
 ---

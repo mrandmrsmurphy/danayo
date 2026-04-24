@@ -27,7 +27,7 @@ mc_id: 175
 graphemic_classification: "會意"
 stand_in: "封"
 aliases:
-注音: "ㄈㄛㄥ"
+注音: "ㄈㄛㄫ"
 tags:
   - character
 ---

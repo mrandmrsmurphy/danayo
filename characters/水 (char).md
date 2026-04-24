@@ -40,8 +40,8 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[水中](/words/水中.md)<rt>ㄙㄨㄐㄨㄥ</rt></ruby> - underwater
-- <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄥ</rt></ruby> - Mercury (planet)
+- <ruby>[水中](/words/水中.md)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
+- <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby> - Mercury (planet)
 1. [[墨水]]
 2. [[潜水艦]]
 3. [[鼻水]]

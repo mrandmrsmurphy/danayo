@@ -28,7 +28,7 @@ mc_id: 2374
 graphemic_classification: "象形"
 stand_in: "臼"
 aliases:
-注音: "ㄍ˙ㄨˇ"
+注音: "ㄍ⼜ˇ"
 tags:
   - character
 ---

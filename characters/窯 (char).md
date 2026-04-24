@@ -28,7 +28,7 @@ stand_in: 窯
 aliases:
   - 窑
   - 窰
-注音: ˙ㄛˇ
+注音: ⼄ˇ
 tags:
   - character
 ---

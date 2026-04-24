@@ -27,7 +27,7 @@ mc_id: 280
 graphemic_classification: "工"
 stand_in: "攻"
 aliases:
-注音: "ㄍㄛㄥ"
+注音: "ㄍㄛㄫ"
 tags:
   - character
 ---

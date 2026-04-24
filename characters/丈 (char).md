@@ -28,7 +28,7 @@ graphemic_classification: 會意
 stand_in: 丈
 aliases:
   - 𠀋
-注音: ㄑㄚㄥ
+注音: ㄑㄚㄫ
 date-last-perfect: 2026-03-24
 tags:
   - character
@@ -40,18 +40,18 @@ tags:
 ```
 ## Notes
 - [List of 会意](lookup/List%20of%20会意.md): [十](characters/十.md) (“ten”) + [又 (char)](characters/又%20(char).md) (“hand”) – ten ceg (尺) is one cang (丈). Similar but unrelated to 支.  Listed under [Radical 001](../lookup/Radicals/Radical%20001.md).
-- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄑㄚㄥ](../syllables/ㄑㄚㄥ.md)
+- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄑㄚㄫ](../syllables/ㄑㄚㄫ.md)
 - [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Grade 5](../lookup/Grade%205.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md)
 ### Derived Character
 - [[杖]] = 木 + 丈
 
 ## Definition
 1. An ancient unit of length, about 3.3m
-	1. <ruby>[波乱万丈](/chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄐㄚㄥ</rt></ruby> - agitated from a 10,000 ft tall wave
+	1. <ruby>[波乱万丈](/chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄐㄚㄫ</rt></ruby> - agitated from a 10,000 ft tall wave
 	2. When used alone
 2. gentlemen, husband
-	1. <ruby>[丈夫](/words/丈夫.md)<rt>ㄐㄚㄥㄅㄨ</rt></ruby> - husband
-	2. <ruby>[丈人](/words/丈人.md)<rt>ㄐㄚㄥㄋㄧㄋ</rt></ruby> - father in law
-	3. <ruby>[丈母](/words/丈母.md)<rt>ㄐㄚㄥㄇㄛˇ</rt></ruby> - mother in law
-	4. <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄥ</rt></ruby> - father's sister's husband
+	1. <ruby>[丈夫](/words/丈夫.md)<rt>ㄐㄚㄫㄅㄨ</rt></ruby> - husband
+	2. <ruby>[丈人](/words/丈人.md)<rt>ㄐㄚㄫㄋㄧㄋ</rt></ruby> - father in law
+	3. <ruby>[丈母](/words/丈母.md)<rt>ㄐㄚㄫㄇㄛˇ</rt></ruby> - mother in law
+	4. <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby> - father's sister's husband
 

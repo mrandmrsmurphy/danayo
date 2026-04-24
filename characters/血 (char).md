@@ -26,7 +26,7 @@ mc_id: 637
 graphemic_classification: "會意"
 stand_in: "血"
 aliases:
-注音: "ㄏˇㄝㄊ"
+注音: "ㄏ⼔ㄊ"
 tags:
   - character
 ---

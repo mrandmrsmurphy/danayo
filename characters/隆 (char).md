@@ -29,7 +29,7 @@ graphemic_classification: "夅"
 stand_in: "隆"
 aliases:
   - 𨺓
-注音: "ㄌㄨㄥ"
+注音: "ㄌㄨㄫ"
 tags:
   - character
 ---

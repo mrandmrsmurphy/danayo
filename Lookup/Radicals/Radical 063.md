@@ -9,10 +9,10 @@ radical: 戶
 ## Characters
 1. <ruby>[戸](/characters/戸.md)<rt>ㄏㄛ</rt></ruby> - door
 2. <ruby>[戻](/characters/戻.md)<rt>ㄌㄝㄊ</rt></ruby> - re-
-3. <ruby>[房](/characters/房%20(char).md)<rt>ㄅㄚㄥ</rt></ruby>
-4. <ruby>[所](/characters/所%20(char).md)<rt>ㄙ˙ㄛ</rt></ruby>
-5. <ruby>[扁](/characters/扁.md)<rt>ㄆ˙ㄝㄋ</rt></ruby>
-6. <ruby>[扇](/characters/扇.md)<rt>ㄙ˙ㄝㄋ</rt></ruby>
+3. <ruby>[房](/characters/房%20(char).md)<rt>ㄅㄚㄫ</rt></ruby>
+4. <ruby>[所](/characters/所%20(char).md)<rt>ㄙ⼄</rt></ruby>
+5. <ruby>[扁](/characters/扁.md)<rt>ㄆ⼶ㄋ</rt></ruby>
+6. <ruby>[扇](/characters/扇.md)<rt>ㄙ⼶ㄋ</rt></ruby>
 7. <ruby>[扈](/characters/扈.md)<rt>ㄏㄛ</rt></ruby>
 8. <ruby>[扉](/characters/扉%20(char).md)<rt>ㄅㄨ˙</rt></ruby>
 

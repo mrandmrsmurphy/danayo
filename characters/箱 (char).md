@@ -30,7 +30,7 @@ mc_id: 3909
 graphemic_classification: "相"
 stand_in: "箱"
 aliases:
-注音: "ㄙㄚㄥ"
+注音: "ㄙㄚㄫ"
 tags:
   - character
 ---

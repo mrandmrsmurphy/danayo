@@ -8,16 +8,16 @@ skip_number: 1-6-7
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
  - <ruby>[継](characters/継.md)<rt>ㄍㄝ˙</rt></ruby> - persist
-- <ruby>[続](characters/続.md)<rt>ㄙ˙ㄛㄎ</rt></ruby> - continue
+- <ruby>[続](characters/続.md)<rt>ㄙ⼄ㄎ</rt></ruby> - continue
 - <ruby>[絹](characters/絹%20(char).md)<rt>ㄍㄨㄝㄋ</rt></ruby> - silk
 - <ruby>[綏](characters/綏.md)<rt>ㄙㄨ˙</rt></ruby> - smooth
-- <ruby>[蜂](characters/蜂%20(char).md)<rt>ㄆㄛㄥ</rt></ruby> - bee/wasp
+- <ruby>[蜂](characters/蜂%20(char).md)<rt>ㄆㄛㄫ</rt></ruby> - bee/wasp
 - <ruby>[蛾](characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> - moth
-- <ruby>[艇](characters/艇%20(char).md)<rt>ㄉㄝㄥ</rt></ruby> - rowboat
+- <ruby>[艇](characters/艇%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - rowboat
 - [[粳]]
 - <ruby>[辟](characters/辟.md)<rt>ㄆㄧㄎ</rt></ruby> - dispel
 - <ruby>[辞](characters/辞.md)<rt>ㄑㄧ</rt></ruby> - verbal resignation
-- <ruby>[聘](characters/聘%20(char).md)<rt>ㄆㄧㄥ</rt></ruby> - betroth
+- <ruby>[聘](characters/聘%20(char).md)<rt>ㄆㄧㄫ</rt></ruby> - betroth
 - <ruby>[肆](characters/肆.md)<rt>ㄙㄧ˙</rt></ruby> - to act brazenly
 * 艀 --> 孚
 * 蜈 --> 呉

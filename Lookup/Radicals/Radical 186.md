@@ -5,10 +5,10 @@ date-last-perfect: 2026-02-25
 ---
 > [[Radicals]]
 ### +0
-- <ruby>[[香]]<rt>ㄏ·ㄚㄥ</rt></ruby> - incense
+- <ruby>[[香]]<rt>ㄏ·ㄚㄫ</rt></ruby> - incense
 
 ### +11
-- <ruby>[[馨]]<rt>ㄏㄝㄥ</rt></ruby> - fragrent
+- <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby> - fragrent
 ## Data check
 ```dataview
 TABLE 韓文 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"

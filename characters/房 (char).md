@@ -27,7 +27,7 @@ mc_id: 980
 graphemic_classification: "方"
 stand_in: "房"
 aliases:
-注音: "ㄅㄚㄥ"
+注音: "ㄅㄚㄫ"
 tags:
   - character
 ---

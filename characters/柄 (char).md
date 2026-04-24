@@ -28,7 +28,7 @@ mc_id: 1880
 graphemic_classification: "丙"
 stand_in: "柄"
 aliases:
-注音: "ㄅ˙ㄝㄥ"
+注音: "ㄅ⼶ㄫ"
 tags:
   - character
 ---

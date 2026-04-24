@@ -29,7 +29,7 @@ stand_in: 聴
 aliases:
   - 聽
   - 听
-注音: ㄑㄝㄥ
+注音: ㄑㄝㄫ
 tags:
   - character
 ---

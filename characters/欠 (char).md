@@ -27,7 +27,7 @@ graphemic_classification: 指事
 stand_in: 欠
 aliases:
   - 歇
-注音: ㄎ˙ㄚㄇ
+注音: ㄎ⼘ㄇ
 tags:
   - character
 ---

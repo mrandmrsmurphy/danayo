@@ -8,7 +8,7 @@ radical: 玄
 ## Strokes
 
 ### +0 Stroke
-1. <ruby>[[玄]]<rt>ㄏˇㄝㄋ</rt></ruby> - profound
+1. <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby> - profound
 ### +4 Strokes
 * 玅 --> 妙
 ### +5 Strokes

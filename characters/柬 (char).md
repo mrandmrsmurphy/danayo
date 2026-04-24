@@ -28,7 +28,7 @@ mc_id: 5112
 graphemic_classification: "指事"
 stand_in: "柬"
 aliases:
-注音: "ㄍ˙ㄚㄋ"
+注音: "ㄍ⼘ㄋ"
 tags:
   - character
 ---

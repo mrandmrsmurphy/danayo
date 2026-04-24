@@ -30,7 +30,7 @@ graphemic_classification: 并
 stand_in: 餅
 aliases:
   - 饼
-注音: ㄅㄧㄥ
+注音: ㄅㄧㄫ
 tags:
   - character
 ---

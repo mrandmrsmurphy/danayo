@@ -27,7 +27,7 @@ mc_id: 1433
 graphemic_classification: 良
 stand_in: 狼
 aliases:
-注音: ㄌㄚㄥ
+注音: ㄌㄚㄫ
 tags:
   - character
 ---

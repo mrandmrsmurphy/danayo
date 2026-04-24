@@ -29,7 +29,7 @@ graphemic_classification: 兌
 stand_in: 脱
 aliases:
   - 脫
-注音: ㄉˇㄚㄊ
+注音: ㄉㆼㄊ
 tags:
   - character
 ---

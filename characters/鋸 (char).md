@@ -28,7 +28,7 @@ graphemic_classification: "居"
 stand_in: "鋸"
 aliases:
   - 锯
-注音: "ㄍ˙ㄛ"
+注音: "ㄍ⼄"
 tags:
   - character
 ---

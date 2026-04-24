@@ -8,7 +8,7 @@ skip_number: 3-6-3
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-1. <ruby>[咼](/characters/咼.md)<rt>ㄎ˙ㄝ˙</rt></ruby> - slanting
+1. <ruby>[咼](/characters/咼.md)<rt>ㄎ⼶˙</rt></ruby> - slanting
 2. <ruby>[哉](/characters/哉%20(char).md)<rt>ㄐㄚ˙</rt></ruby> - O
 3. <ruby>[彦](/characters/彦.md)<rt>ㄝㄋ</rt></ruby> - nobleman
 

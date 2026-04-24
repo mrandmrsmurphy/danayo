@@ -26,7 +26,7 @@ mc_id: 887
 graphemic_classification: "象形"
 stand_in: "弓"
 aliases:
-注音: "ㄍㄨㄥ"
+注音: "ㄍㄨㄫ"
 tags:
   - character
 ---

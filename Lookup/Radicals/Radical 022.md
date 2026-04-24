@@ -5,7 +5,7 @@ radical: 匚
 ---
 > [[Radicals]]
 
-1. <ruby>[[匡]]<rt>ㄎˇㄚㄥ</rt></ruby> - revise 
+1. <ruby>[[匡]]<rt>ㄎㆼㄫ</rt></ruby> - revise 
 
 ## Dataview
 ```dataview

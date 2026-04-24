@@ -27,7 +27,7 @@ mc_id: 2761
 graphemic_classification: "呈"
 stand_in: "逞"
 aliases:
-注音: "ㄑㄧㄥ"
+注音: "ㄑㄧㄫ"
 tags:
   - character
 ---

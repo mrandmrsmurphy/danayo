@@ -28,7 +28,7 @@ graphemic_classification: "指事"
 stand_in: "見"
 aliases:
   - 见
-注音: "ㄍ˙ㄝㄋ"
+注音: "ㄍ⼶ㄋ"
 tags:
   - character
 ---

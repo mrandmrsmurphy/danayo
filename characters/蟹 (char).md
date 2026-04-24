@@ -26,7 +26,7 @@ mc_id: 3998
 graphemic_classification: "解"
 stand_in: "蟹"
 aliases:
-注音: "ㄏ˙ㄚ˙"
+注音: "ㄏ⼘˙"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ mc_id: 3706
 graphemic_classification: "儿"
 stand_in: "冗"
 aliases:
-注音: "ㄋ˙ㄛㄥ"
+注音: "ㄋ⼄ㄫ"
 tags:
   - character
 ---

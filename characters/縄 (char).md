@@ -35,7 +35,7 @@ stand_in: 縄
 aliases:
   - 繩
   - 绳
-注音: ㄙㄜㄥ
+注音: ㄙㄜㄫ
 tags:
   - character
 ---

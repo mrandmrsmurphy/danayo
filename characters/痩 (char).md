@@ -25,7 +25,7 @@ graphemic_classification: "叟"
 stand_in: "痩"
 aliases:
   - 瘦
-注音: "ㄙ˙ㄨ"
+注音: "ㄙ⼜"
 tags:
   - character
 ---

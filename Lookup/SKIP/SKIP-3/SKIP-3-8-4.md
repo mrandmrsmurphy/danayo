@@ -14,7 +14,7 @@ date-last-perfect: 2026-04-02
 4. <ruby>[閑](/characters/閑.md)<rt>ㄏㄚㄋ</rt></ruby> - free time
 5. <ruby>[間](/characters/間.md)<rt>ㄍㄚㄋ</rt></ruby> - between
 6. <ruby>[閔](/characters/閔.md)<rt>ㄇㄧㄇ</rt></ruby> - urge
-7. <ruby>[閙](/characters/閙.md)<rt>ㄋ˙ㄚˇ</rt></ruby> - noisy
+7. <ruby>[閙](/characters/閙.md)<rt>ㄋ⼘ˇ</rt></ruby> - noisy
 
 ## Datacheck
 ```dataview

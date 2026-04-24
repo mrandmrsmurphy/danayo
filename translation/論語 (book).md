@@ -5,7 +5,7 @@ tags:
 ---
 
 > [List of Books](List%20of%20Books.md)
-> <ruby>[論語](/words/論語.md)<rt>ㄌㄛㄋ·˙ㄛ</rt></ruby>
+> <ruby>[論語](/words/論語.md)<rt>ㄌㄛㄋ·⼄</rt></ruby>
 
 1. [[translation/論語 (book) - 01学而]]
 2. translation/論語 (book) - 02為政
@@ -29,7 +29,7 @@ tags:
 20. translation/論語 (book) - 20尭曰
 
 ## Vocabulary 
-While <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ·˙ㄛ</rt></ruby> has a lot in common with Classical/Literary Chinese, they are separate languages.  This is most manifest in the principle that Dan'a'yo does not have an open set of Chinese Characters.  The corpus of classic texts contains some obscure hapax legomena and the like, so some substitution is necessary.
+While <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ·⼄</rt></ruby> has a lot in common with Classical/Literary Chinese, they are separate languages.  This is most manifest in the principle that Dan'a'yo does not have an open set of Chinese Characters.  The corpus of classic texts contains some obscure hapax legomena and the like, so some substitution is necessary.
 
 - 裘 6x --> [[皮衣]] - Translation + Component
 - 巍 6x --> [[魏峨]] - Component + Translation

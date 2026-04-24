@@ -27,7 +27,7 @@ graphemic_classification: 爻
 stand_in: 肴
 aliases:
 - 餚
-注音: ㄏ˙ㄚˇ
+注音: ㄏ⼘ˇ
 tags:
   - character
 ---

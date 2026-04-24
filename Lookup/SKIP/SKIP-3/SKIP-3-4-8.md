@@ -8,7 +8,7 @@ skip_number: 3-4-8
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-1. <ruby>[量](/characters/量.md)<rt>ㄌ˙ㄚㄥ</rt></ruby> - measure
+1. <ruby>[量](/characters/量.md)<rt>ㄌ⼘ㄫ</rt></ruby> - measure
 
 ## Datacheck
 ```dataview

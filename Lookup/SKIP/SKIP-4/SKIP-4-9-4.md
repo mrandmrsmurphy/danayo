@@ -10,7 +10,7 @@ skip_number: 4-9-4
 ## Characters
 1. <ruby>[咸](/characters/咸.md)<rt>ㄏㄚㄇ</rt></ruby> - complete
 2. <ruby>[威](/characters/威.md)<rt>ㄛ˙</rt></ruby> - power
-3. <ruby>[為](/characters/為%20(char).md)<rt>ˇㄝㄋ</rt></ruby> - namely
+3. <ruby>[為](/characters/為%20(char).md)<rt>⼔ㄋ</rt></ruby> - namely
 
 ## Datacheck
 ```dataview

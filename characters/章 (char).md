@@ -29,7 +29,7 @@ aliases:
   - 嶂
   - 鱆
   - 鮹
-注音: "ㄐㄚㄥ"
+注音: "ㄐㄚㄫ"
 tags:
   - character
 ---

@@ -6,31 +6,31 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 
 ## Adjectives 
 - Numbers
-	- zero - <ruby>[零](words/零.md)<rt>ㄌㄝㄥ</rt></ruby>
+	- zero - <ruby>[零](words/零.md)<rt>ㄌㄝㄫ</rt></ruby>
 	- half - <ruby>[一半](words/一半.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>
 	- quarter - <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧ˙ㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
 	- six - <ruby>[六](/words/六.md)<rt>ㄌㄨㄎ</rt></ruby>
 	- seven - <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>
 	- eight - <ruby>[八](/words/八.md)<rt>ㄅㄚㄊ</rt></ruby>
-	- nine - <ruby>[九](/words/九.md)<rt>ㄎ˙ㄨ</rt></ruby>
+	- nine - <ruby>[九](/words/九.md)<rt>ㄎ⼜</rt></ruby>
 	- ten - <ruby>[一十](/words/一十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>
 	- hundred - <ruby>[一百](/words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>
 - Colors : 
 	- blue - <ruby>[紺](/words/紺.md)<rt>ㄍㄚㄇ</rt></ruby>
 	- brown/dark - <ruby>[褐](/words/褐.md)<rt>ㄏㄚㄊ</rt></ruby>
-	- light - <ruby>[柔軟](/words/柔軟.md)<rt>ㄋ˙ㄨㄋㄧㄋ</rt></ruby>
+	- light - <ruby>[柔軟](/words/柔軟.md)<rt>ㄋ⼜ㄋㄧㄋ</rt></ruby>
 ### Opposites
 * beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>ㄑㄨ·ㄚㄎ</rt></ruby>
-* fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏˇㄚㄋㄇㄚㄋ</rt></ruby>
-* first - <ruby>[[第一]]<rt>ㄉㄝ˙·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐˇㄝㄏㄛˇ</rt></ruby>
-* hard - <ruby>[[硬]]<rt>ㄚㄥ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ˙ㄨ</rt></ruby>
-* full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄥ</rt></ruby>
+* fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏㆼㄋㄇㄚㄋ</rt></ruby>
+* first - <ruby>[[第一]]<rt>ㄉㄝ˙·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛˇ</rt></ruby>
+* hard - <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
+* full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby>
 * smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
 * real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake <ruby>[[不真]]<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>ㄚㄋ</rt></ruby>)
 * upper - [[上]]- , lower - [[下]]-
-* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[../words/便]]<rt>ㄅ˙ㄝㄋ</rt></ruby>
-* sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙˇㄚㄇ</rt></ruby>
-* strong - <ruby>[[強]]<rt>ㄍ˙ㄚㄥ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ˙ㄨ</rt></ruby>
+* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[../words/便]]<rt>ㄅ⼶ㄋ</rt></ruby>
+* sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙㆼㄇ</rt></ruby>
+* strong - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
 - Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuudii</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[湾曲]]
 - Emotions : glad - <ruby>[[高興]]<rt>gauhing</rt></ruby>, happy - <ruby>[[歓喜]]<rt>hwanhi</rt></ruby>, sad - <ruby>[[哀傷]]<rt>'aisyang</rt></ruby>, tired - <ruby>[[疲労]]<rt>pilau</rt></ruby> , angry - <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby> , crazy - <ruby>[[風狂]]<rt>punggwang</rt></ruby>
@@ -47,11 +47,11 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
 - Territory : 
 	- nature, 
-	- world - <ruby>[[世界]]<rt>ㄙㄝㄍ˙ㄝ</rt></ruby>, 
+	- world - <ruby>[[世界]]<rt>ㄙㄝㄍ⼶</rt></ruby>, 
 	- land
 - Time: 
 	- week - <ruby>[[週日]]<rt>ㄐㄨˇㄋㄧㄊ</rt></ruby>, 
-	- month - <ruby>[月](words/月.md)<rt>ˇㄝㄊ</rt></ruby>, 
+	- month - <ruby>[月](words/月.md)<rt>⼔ㄊ</rt></ruby>, 
 	- yesterday - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>, 
 	- today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, 
 	- tomorrow - <ruby>[[来日]]<rt>ㄌㄚ˙ㄋㄧㄊ</rt></ruby>, 
@@ -59,9 +59,9 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛˇ</rt></ruby>
 - Season : 
 	- spring - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>, 
-	- summer - <ruby>[[夏]]<rt>ㄏ˙ㄚ</rt></ruby>, 
+	- summer - <ruby>[[夏]]<rt>ㄏ⼘</rt></ruby>, 
 	- fall - <ruby>[[秋]]<rt>ㄑㄨˇ</rt></ruby>, 
-	- winter - <ruby>[[冬]]<rt>ㄊㄛㄥ</rt></ruby>
+	- winter - <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby>
 - Geographical : 
 	- hill, 
 	- farm, 
@@ -70,21 +70,21 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Body Parts : 
 	- body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝ˙</rt></ruby>, 
 	- lip - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby>, 
-	- breast - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄥ</rt></ruby>,  
+	- breast - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄫ</rt></ruby>,  
 	- butt - <ruby>[[尻]]<rt>ㄎㄚˇ</rt></ruby>, 
 	- muscle - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>, 
 	- brain - <ruby>[[脳]]<rt>ㄋㄚˇ</rt></ruby>
 - Animals : 
-	- cat - <ruby>[猫](/words/猫.md)<rt>ㄇ˙ㄚˇ</rt></ruby>
-	- cow - <ruby>[牛](/words/牛.md)<rt>ㄋ˙ㄨ</rt></ruby>
+	- cat - <ruby>[猫](/words/猫.md)<rt>ㄇ⼘ˇ</rt></ruby>
+	- cow - <ruby>[牛](/words/牛.md)<rt>ㄋ⼜</rt></ruby>
 	- chicken - <ruby>[鶏](/words/鶏.md)<rt>ㄍㄝ˙</rt></ruby>
 	- horse - <ruby>[馬](/words/馬.md)<rt>ㄇㄚ</rt></ruby>
 	- pig - <ruby>[豚](/words/豚.md)<rt>ㄊㄨㄋ</rt></ruby>
-	- mouse - <ruby>[小鼠](/words/小鼠.md)<rt>ㄙㄛㄙ˙ㄛ</rt></ruby>
-	- monkey - <ruby>[猿猩](/words/猿猩.md)<rt>ㄛㄋㄙㄝㄥ</rt></ruby>
+	- mouse - <ruby>[小鼠](/words/小鼠.md)<rt>ㄙㄛㄙ⼄</rt></ruby>
+	- monkey - <ruby>[猿猩](/words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>
 	- lion - <ruby>[獅子](/words/獅子.md)<rt>ㄙㄧ˙ㄐㄧ</rt></ruby>
-	- bug - <ruby>[昆虫](/words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄥ</rt></ruby>
-	- wolf - <ruby>[狼](/words/狼.md)<rt>ㄌㄚㄥ</rt></ruby>
+	- bug - <ruby>[昆虫](/words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>
+	- wolf - <ruby>[狼](/words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>
 - Plants : grain, bread, branch
 - People : girl, boy, girlfriend, boyfriend, friend, baby
 - Family : family, sister, brother, son, daughter
@@ -142,20 +142,20 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Accessories : DVD, hard drive, keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>, mouse - <ruby>[[滑鼠]]<rt>gotsyo</rt></ruby>, monitor
 - Programs : program, game, word processor, compiler
 - Internet : internet, email, web, website, download, browser, blog, post, flame, lurker, newb, chat
-- Disciplines : physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>, chemistry - <ruby>[[化学]]<rt>ㄏˇㄚㄏㄚㄎ</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
+- Disciplines : physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>, chemistry - <ruby>[[化学]]<rt>ㄏㆼㄏㄚㄎ</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
 - Physics
-	- atom - <ruby>[[原子]]<rt>ˇㄝㄋㄐㄧ</rt></ruby>,
+	- atom - <ruby>[[原子]]<rt>⼔ㄋㄐㄧ</rt></ruby>,
 	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
 	- energy,
 	- nuclear,
 	- particle,
-	- photon - <ruby>[[光子]]<rt>ㄍˇㄚㄥㄐㄧ</rt></ruby>,
-	- proton - <ruby>[[陽子]]<rt>˙ㄚㄥㄐㄧ</rt></ruby>,
+	- photon - <ruby>[[光子]]<rt>ㄍㆼㄫㄐㄧ</rt></ruby>,
+	- proton - <ruby>[[陽子]]<rt>⼘ㄫㄐㄧ</rt></ruby>,
 	- neutron - [[中性子]]
 	- electron - <ruby>[[電子]]<rt>ㄉㄝㄋㄐㄧ</rt></ruby>
 - Biology :
-	- cell - <ruby>[[細胞]]<rt>ㄙㄝ˙ㄅ˙ㄚˇ</rt></ruby>,
-	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏˇㄚ</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
+	- cell - <ruby>[[細胞]]<rt>ㄙㄝ˙ㄅ⼘ˇ</rt></ruby>,
+	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏㆼ</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
 	- gene
 - Substance : plastic
 - Appliance : stove, sink, dishwasher, refrigerator, washer, dryer, furnace, AC
@@ -176,12 +176,12 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>,
 	- jeans,
 	- T-shirt,
-	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛˇㄏㄛㄥ</rt></ruby>
+	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛˇㄏㄛㄫ</rt></ruby>
 - Health : AIDS/HIV, allergy, addict, antibiotics, bacteria, vaccine, virus, vitamin 
 - Food : candy, hamburger, hot dog, pizza, sushi, taco, tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>, tomato
 - Belief : communism, socialism, fascism, republic, democracy, Green, human rights, liberal, conservative
 - Position : president, prime minister, representative, parliament, council, dictator, party
-- Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby>
+- Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ˇ</rt></ruby>
 
 ## Place Names
 ''These are for place names, not the words themselves''
@@ -223,4 +223,4 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- orange
 	- brown
 - Water : fast, slow, clear, muddy, noisy, laughing, reedy
-- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[../words/鷹]], eagle - [[../words/鵰]], dragon - <ruby>[[龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby>, ram - [[綿羊]]
+- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[../words/鷹]], eagle - [[../words/鵰]], dragon - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby>, ram - [[綿羊]]

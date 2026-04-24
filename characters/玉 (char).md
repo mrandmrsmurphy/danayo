@@ -27,7 +27,7 @@ mc_id: 463
 graphemic_classification: "象形"
 stand_in: "玉"
 aliases:
-注音: "˙ㄛㄎ"
+注音: "⼄ㄎ"
 tags:
   - character
 ---

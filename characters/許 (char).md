@@ -31,7 +31,7 @@ aliases:
   - 许
   - 滸
   - 浒
-注音: "ㄏ˙ㄛ"
+注音: "ㄏ⼄"
 tags:
   - character
 ---

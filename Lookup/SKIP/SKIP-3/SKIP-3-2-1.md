@@ -10,7 +10,7 @@ skip_number: 3-2-1
 ## Characters
 1. <ruby>[万](/characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - myriad
 2. <ruby>[凡](/characters/凡.md)<rt>ㄅㄛㄇ</rt></ruby> - ordinary
-3. <ruby>[勺](/characters/勺%20(char).md)<rt>ㄐˇㄚㄎ</rt></ruby> - spoon
+3. <ruby>[勺](/characters/勺%20(char).md)<rt>ㄐㆼㄎ</rt></ruby> - spoon
 4. <ruby>[寸](/characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> - inch
 5. <ruby>[山](/characters/山%20(char).md)<rt>ㄙㄚㄋ</rt></ruby> - mountain
 

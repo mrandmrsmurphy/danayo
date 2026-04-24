@@ -27,7 +27,7 @@ graphemic_classification: 巻
 stand_in: 圏
 aliases:
   - 圈
-注音: ㄍˇㄝㄋ
+注音: ㄍ⼔ㄋ
 tags:
   - character
 ---

@@ -33,7 +33,7 @@ stand_in: 空
 aliases:
   - 𠀝
   - 𢦉
-注音: ㄎㄛㄥ
+注音: ㄎㄛㄫ
 tags:
   - character
 ---

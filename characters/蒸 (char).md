@@ -26,7 +26,7 @@ mc_id: 2105
 graphemic_classification: "烝"
 stand_in: "蒸"
 aliases:
-注音: "ㄐㄧㄥ"
+注音: "ㄐㄧㄫ"
 tags:
   - character
 ---

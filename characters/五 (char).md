@@ -49,21 +49,21 @@ tags:
 - 人 + 五 = [[伍 (char)]]
 - 五 + 口 = [[吾]] (see there for more descendants)
 ## Important Words
-* <ruby>[[../words/五経]]<rt>·ㄛㄍㄝㄥ</rt></ruby> - The Five Classics
+* <ruby>[[../words/五経]]<rt>·ㄛㄍㄝㄫ</rt></ruby> - The Five Classics
 * <ruby>[[五月]]<rt>·ㄛ·ㄨㄝㄊ</rt></ruby> - May
-* <ruby>[[五行]]<rt>·ㄛㄏㄚㄥ</rt></ruby> - The Five Elements
-* <ruby>[[五臓]]<rt>·ㄛㄐㄚㄥ</rt></ruby> - The Five Internal Organs
+* <ruby>[[五行]]<rt>·ㄛㄏㄚㄫ</rt></ruby> - The Five Elements
+* <ruby>[[五臓]]<rt>·ㄛㄐㄚㄫ</rt></ruby> - The Five Internal Organs
 * <ruby>[[五倫]]<rt>·ㄛㄌㄨㄋ</rt></ruby> - The Five Relationships
-* <ruby>[[五常]]<rt>·ㄛㄙ·ㄚㄥ</rt></ruby> - The Five Virtues
-* <ruby>[[五戒]]<rt>·ㄛㄍ˙ㄝ</rt></ruby> - The Five Precepts
+* <ruby>[[五常]]<rt>·ㄛㄙ·ㄚㄫ</rt></ruby> - The Five Virtues
+* <ruby>[[五戒]]<rt>·ㄛㄍ⼶</rt></ruby> - The Five Precepts
 * <ruby>[[五十]]<rt>·ㄛㄙㄧㄆ</rt></ruby> - fifty
 * <ruby>[[五色]]<rt>·ㄛㄙㄧㄎ</rt></ruby> - The Five Colors
-* <ruby>[[五方]]<rt>·ㄛㄆㄚㄥ</rt></ruby> - The Five Cardinal Directions
-* <ruby>[[五角形]]<rt>·ㄛㄍㄛㄎㄏㄝㄥ</rt></ruby> - pentagon
+* <ruby>[[五方]]<rt>·ㄛㄆㄚㄫ</rt></ruby> - The Five Cardinal Directions
+* <ruby>[[五角形]]<rt>·ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> - pentagon
 * <ruby>[[五穀]]<rt>·ㄛㄍㄛㄎ</rt></ruby> - The Five Grains
-* <ruby>[[五更]]<rt>·ㄛㄍㄚㄥ</rt></ruby> - the five watches of the night
+* <ruby>[[五更]]<rt>·ㄛㄍㄚㄫ</rt></ruby> - the five watches of the night
 * <ruby>[[五指]]<rt>·ㄛㄐㄨˇ</rt></ruby> - the five fingers/top five
 * <ruby>[[五官]]<rt>·ㄛㄍㄨㄚㄋ</rt></ruby> - The Five Sense-Organs
-* <ruby>[[words/四捨五入]]<rt>ㄙㄧ˙ㄙ˙ㄚ·ㄛㄋㄧㄆ</rt></ruby> - rounding
+* <ruby>[[words/四捨五入]]<rt>ㄙㄧ˙ㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> - rounding
 ### Links
 ![[nav/Numerals]]

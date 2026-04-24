@@ -27,7 +27,7 @@ mc_id: 1365
 graphemic_classification: "丈"
 stand_in: "杖"
 aliases:
-注音: "ㄐㄚㄥ"
+注音: "ㄐㄚㄫ"
 tags:
   - character
 ---

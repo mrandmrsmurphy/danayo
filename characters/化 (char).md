@@ -29,7 +29,7 @@ stand_in: "化"
 aliases:
   - 㐶
   - 𠏁
-注音: "ㄏˇㄚ"
+注音: "ㄏㆼ"
 tags:
   - character
 ---

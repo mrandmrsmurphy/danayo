@@ -5,7 +5,7 @@ size: 1
 ---
 > [[Stroke]]
 
-- <ruby>[[欝]]<rt>˙ㄨㄊ</rt></ruby> - dense, moody
+- <ruby>[[欝]]<rt>⼜ㄊ</rt></ruby> - dense, moody
 
 ```dataview
 TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"

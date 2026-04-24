@@ -5,7 +5,7 @@ date-last-perfect: 2026-02-25
 ---
 > [[Radicals]]
 
-1. <ruby>[[面]]<rt>ㄇ˙ㄝㄋ</rt></ruby> - surface
+1. <ruby>[[面]]<rt>ㄇ⼶ㄋ</rt></ruby> - surface
 
 
 ## Dataview

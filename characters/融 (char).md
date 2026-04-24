@@ -30,7 +30,7 @@ stand_in: "融"
 aliases:
   - 螎
   - 𧖓
-注音: "˙ㄨㄥ"
+注音: "⼜ㄫ"
 tags:
   - character
 ---

@@ -29,7 +29,7 @@ mc_id: 3978
 graphemic_classification: "冢"
 stand_in: "塚"
 aliases:
-注音: "ㄑㄛㄥ"
+注音: "ㄑㄛㄫ"
 tags:
   - character
 ---

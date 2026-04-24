@@ -7,7 +7,7 @@ skip_number: 2-8-2
 > SKIP : 2 : [SKIP-2-8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
 
 - 隻 --> 只
-- <ruby>[[隼 (char)|隼]]<rt>ㄙ˙ㄨㄥ</rt></ruby> - peregrine falcon
+- <ruby>[[隼 (char)|隼]]<rt>ㄙ⼜ㄫ</rt></ruby> - peregrine falcon
 - ~~叟~~ - appears on [[Hyōgai]], but is really just a component in many, many other characters
 - 鬯 --> 暢
 

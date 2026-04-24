@@ -8,7 +8,7 @@ radical: 身
 
 ## Characters
 1. <ruby>[身](/characters/身.md)<rt>ㄙㄧㄋ</rt></ruby> "body"
-2. <ruby>[躬](/characters/躬.md)<rt>ㄍㄨㄥ</rt></ruby> "the emperor's body"
+2. <ruby>[躬](/characters/躬.md)<rt>ㄍㄨㄫ</rt></ruby> "the emperor's body"
 
 ## Data search
 ```dataview

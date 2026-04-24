@@ -5,7 +5,7 @@ radical: 韮
 ---
 > [[Radicals]]
 
-1. <ruby>[[韮]]<rt>ㄍ˙ㄨ</rt></ruby> - garlic
+1. <ruby>[[韮]]<rt>ㄍ⼜</rt></ruby> - garlic
 
 ## Dataview
 ```dataview

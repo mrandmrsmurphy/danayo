@@ -29,7 +29,7 @@ graphemic_classification: 㕣
 stand_in: 鉛
 aliases:
   - 铅
-注音: ˙ㄝㄋ
+注音: ⼶ㄋ
 tags:
   - character
 ---

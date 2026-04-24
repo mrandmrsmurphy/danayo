@@ -28,7 +28,7 @@ graphemic_classification: 象形
 stand_in: 乗
 aliases:
   - 乘
-注音: ㄙㄨㄥ
+注音: ㄙㄨㄫ
 tags:
   - character
 ---

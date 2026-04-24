@@ -29,7 +29,7 @@ mc_id: 1270
 graphemic_classification: 肉
 stand_in: 育
 aliases:
-注音: ˙ㄨㄎ
+注音: ⼜ㄎ
 tags:
   - character
 ---

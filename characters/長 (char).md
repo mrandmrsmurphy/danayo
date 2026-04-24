@@ -34,7 +34,7 @@ aliases:
   - 𠑿
   - 𡕣
   - 𠇬
-注音: ㄐㄚㄥ
+注音: ㄐㄚㄫ
 date-last-perfect: 2026-03-01
 tags:
   - character
@@ -50,4 +50,4 @@ tags:
 - [List of 象形](lookup/List%20of%20象形.md): an old man with long hair; an ancient variant still used is 镸 (e.g., ⾽ and 鬓).  Compare 彡 and the top component of 老 and its variant 考.
 - While this is under [SKIP-2-5-3](lookup/SKIP/SKIP-2/SKIP-2-5-3.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)), there are no characters that look like those parts.
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
-- Pronounced [ㄐㄚㄥ](syllables/ㄐㄚㄥ.md), a very common syllable.
+- Pronounced [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md), a very common syllable.

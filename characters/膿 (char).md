@@ -28,7 +28,7 @@ graphemic_classification: "農"
 stand_in: "膿"
 aliases:
   - 脓
-注音: "ㄋㄛㄥ"
+注音: "ㄋㄛㄫ"
 tags:
   - character
 ---

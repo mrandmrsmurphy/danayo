@@ -50,4 +50,4 @@ tags:
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [ㄧㄇ](syllables/ㄧㄇ.md)
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
-- <ruby>[陰性](/words/陰性.md)<rt>ㄧㄇㄙㄧㄥ</rt></ruby> - negativity, feminine gender
+- <ruby>[陰性](/words/陰性.md)<rt>ㄧㄇㄙㄧㄫ</rt></ruby> - negativity, feminine gender

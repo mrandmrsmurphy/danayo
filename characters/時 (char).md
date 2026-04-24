@@ -40,4 +40,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄥㄙㄧ</rt></ruby> - then
+- <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby> - then

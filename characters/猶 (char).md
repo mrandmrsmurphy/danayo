@@ -30,7 +30,7 @@ stand_in: "猶"
 aliases:
   - 猷
   - 犹
-注音: "˙ㄨˇ"
+注音: "⼜ˇ"
 tags:
   - character
 ---

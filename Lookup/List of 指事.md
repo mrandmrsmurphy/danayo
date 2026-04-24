@@ -89,19 +89,19 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 ## 指事 by Stroke
 ### 1 and 2
 1. <ruby>[一](/characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one
-2. <ruby>[乂](/characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern, originally "to cut with scissors"
+2. <ruby>[乂](/characters/乂.md)<rt>⼘˙</rt></ruby> - govern, originally "to cut with scissors"
 3. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧ˙</rt></ruby> - two
 4. <ruby>[八](/characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, originally "divide"
 5. <ruby>[十](/characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten, originally just a vertical mark
 ### 3
 6. <ruby>[三](/characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
-7. <ruby>[上](/characters/上%20(char).md)<rt>ㄙ˙ㄚㄥ</rt></ruby> - up
+7. <ruby>[上](/characters/上%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - up
 8. <ruby>[下](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down
-9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄥ</rt></ruby> die - "edge of a knife"
+9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄫ</rt></ruby> die - "edge of a knife"
 10. <ruby>[小](/characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby> - three small dots = small
 11. <ruby>[寸 (char)](/characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> a line on the hand, emphasizing the elbow.
 ### 4
-11. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby> center of a square
+11. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> center of a square
 12. <ruby>[乏](/characters/乏.md)<rt>ㄅㄚㄆ</rt></ruby> reversal of "right"
 13. <ruby>[今](/characters/今%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> inverted "to speak"
 14. [[介]]

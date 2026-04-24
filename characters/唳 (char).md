@@ -28,7 +28,7 @@ graphemic_classification: "戻"
 stand_in: "唳"
 aliases:
   - 悷
-注音: "ㄌ˙ㄝ"
+注音: "ㄌ⼶"
 tags:
   - character
 ---

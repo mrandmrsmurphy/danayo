@@ -30,7 +30,7 @@ graphemic_classification: 去
 stand_in: 却
 aliases:
 - 卻
-注音: ㄎ˙ㄚㄎ
+注音: ㄎ⼘ㄎ
 tags:
   - character
 ---

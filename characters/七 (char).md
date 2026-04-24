@@ -50,17 +50,17 @@ tags:
 * <ruby>[七千](words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> - seven thousand
 * <ruby>[七万](words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> - seventy thousand
 * <ruby>[[七日]]<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby> - seventh day of the month
-* <ruby>[[七月]]<rt>ㄑㄧㄊ·ˇㄝㄊ</rt></ruby> - July
+* <ruby>[[七月]]<rt>ㄑㄧㄊ·⼔ㄊ</rt></ruby> - July
 * <ruby>[[七夕]]<rt>ㄑㄧㄊㄙㄝㄎ</rt></ruby> - Qixi (Chinese Valentines)
-* <ruby>[[words/七情]]<rt>ㄑㄧㄊㄑㄧㄥ</rt></ruby> - the Seven Emotions (traditional)
-* <ruby>[[七宝]]<rt>ㄑㄧㄊㄅㄚˇ</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ˙ㄚˇ</rt></ruby>)
+* <ruby>[[words/七情]]<rt>ㄑㄧㄊㄑㄧㄫ</rt></ruby> - the Seven Emotions (traditional)
+* <ruby>[[七宝]]<rt>ㄑㄧㄊㄅㄚˇ</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ⼘ˇ</rt></ruby>)
 * <ruby>[[七事]]<rt>ㄑㄧㄊㄐㄧ</rt></ruby> - Seven Duties of a Sovereign
 * <ruby>[[七対子]]<rt>ㄑㄧㄊㄉㄛ˙ㄐㄧ</rt></ruby> - Seven Pairs (Majong)
-* <ruby>[[七面鳥]]<rt>ㄑㄧㄊㄇ˙ㄝㄋㄑㄛˇ</rt></ruby> - turkey
-* <ruby>[[七曜]]<rt>ㄑㄧㄊ·˙ㄛˇ</rt></ruby> - Seven Heavenly Bodies 
-* <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄥ</rt></ruby> - Big Dipper
+* <ruby>[[七面鳥]]<rt>ㄑㄧㄊㄇ⼶ㄋㄑㄛˇ</rt></ruby> - turkey
+* <ruby>[[七曜]]<rt>ㄑㄧㄊ·⼄ˇ</rt></ruby> - Seven Heavenly Bodies 
+* <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby> - Big Dipper
 * <ruby>[[七色]]<rt>ㄑㄧㄊㄙㄧㄎ</rt></ruby> - ROYGBIV
-* <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄥ</rt></ruby> - heptagon
+* <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> - heptagon
 #### Check
 ```dataview
 table 韓文, english

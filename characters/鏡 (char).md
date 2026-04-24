@@ -30,7 +30,7 @@ stand_in: 鏡
 aliases:
   - 𰽔
   - 镜
-注音: ㄍ˙ㄝㄥ
+注音: ㄍ⼶ㄫ
 tags:
   - character
 ---

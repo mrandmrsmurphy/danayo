@@ -27,7 +27,7 @@ mc_id: 550
 graphemic_classification: "會意"
 stand_in: "弱"
 aliases:
-注音: "ㄋ˙ㄚㄎ"
+注音: "ㄋ⼘ㄎ"
 tags:
   - character
 ---

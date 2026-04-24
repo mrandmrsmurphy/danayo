@@ -9,7 +9,7 @@ size: 7
 - <ruby>[[邏]]<rt>ㄌㄚ</rt></ruby> - patrol, watch 
 - <ruby>[[鑑]]<rt>ㄍㄚㄇ</rt></ruby> - mirror
 - <ruby>[[鑠]]<rt>ㄙㄚㄎ</rt></ruby> - melt, smelt
-- <ruby>[[驚]]<rt>ㄍ˙ㄝㄥ</rt></ruby> - startle, frighten
+- <ruby>[[驚]]<rt>ㄍ⼶ㄫ</rt></ruby> - startle, frighten
 - <ruby>[[鱏 (char)]]<rt>ㄏㄧㄇ</rt></ruby> - ray, skate
 - <ruby>[[鱗 (char)]]<rt>ㄌㄧㄋ</rt></ruby> - fish scale
 

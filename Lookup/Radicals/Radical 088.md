@@ -7,7 +7,7 @@ radical: 父
 ## Characters
 1. <ruby>[父](/characters/父.md)<rt>ㄅㄨ</rt></ruby> - dad
 2. <ruby>[爹](/characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father
-3. <ruby>[爺](/characters/爺.md)<rt>˙ㄚ</rt></ruby> - grandpa
+3. <ruby>[爺](/characters/爺.md)<rt>⼘</rt></ruby> - grandpa
 
 ## Data search
 ```dataview

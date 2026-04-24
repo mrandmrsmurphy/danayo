@@ -39,4 +39,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ˙ㄨ</rt></ruby> - soccer
+- <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby> - soccer

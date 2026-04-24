@@ -32,7 +32,7 @@ stand_in: 月
 aliases:
   - 𡇹, 𠥱
 swadesh: "148"
-注音: ˇㄝㄊ
+注音: ⼔ㄊ
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ stand_in: "鍾"
 aliases:
   - 钟
   - 锺
-注音: "ㄐㄛㄥ"
+注音: "ㄐㄛㄫ"
 tags:
   - character
 ---

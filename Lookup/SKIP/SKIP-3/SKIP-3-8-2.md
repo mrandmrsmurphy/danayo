@@ -8,7 +8,7 @@ size: 2
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
 ## Characters
-1. <ruby>[勉](/characters/勉%20(char).md)<rt>ㄇ˙ㄝㄋ</rt></ruby> - urge
+1. <ruby>[勉](/characters/勉%20(char).md)<rt>ㄇ⼶ㄋ</rt></ruby> - urge
 2. <ruby>[閃](/characters/閃.md)<rt>ㄙㄝㄇ</rt></ruby> - glint
 
 ## Datacheck

@@ -26,7 +26,7 @@ mc_id: 1436
 graphemic_classification: "會意"
 stand_in: "熊"
 aliases:
-注音: "ㄨㄥ"
+注音: "ㄨㄫ"
 tags:
   - character
 ---

@@ -27,7 +27,7 @@ graphemic_classification: "會意"
 stand_in: "郭"
 aliases:
   - 廓
-注音: "ㄍˇㄚㄎ"
+注音: "ㄍㆼㄎ"
 tags:
   - character
 ---

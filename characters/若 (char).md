@@ -27,7 +27,7 @@ mc_id: 87
 graphemic_classification: 會意
 stand_in: 若
 aliases:
-注音: ㄋ˙ㄚ
+注音: ㄋ⼘
 tags:
   - character
 ---

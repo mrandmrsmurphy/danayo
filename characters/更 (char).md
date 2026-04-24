@@ -26,7 +26,7 @@ mc_id: 399
 graphemic_classification: 會意
 stand_in: 更
 aliases:
-注音: ㄍㄚㄥ
+注音: ㄍㄚㄫ
 tags:
   - character
 ---

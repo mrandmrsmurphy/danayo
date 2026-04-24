@@ -29,7 +29,7 @@ graphemic_classification: "巨"
 stand_in: "矩"
 aliases:
   - 榘
-注音: "ㄎ˙ㄛ"
+注音: "ㄎ⼄"
 tags:
   - character
 ---

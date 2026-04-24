@@ -29,7 +29,7 @@ graphemic_classification: 巠
 stand_in: 茎
 aliases:
   - 莖
-注音: ㄎㄧㄥ
+注音: ㄎㄧㄫ
 tags:
   - character
 ---

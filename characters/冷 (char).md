@@ -27,7 +27,7 @@ mc_id: 2294
 graphemic_classification: 令
 stand_in: 冷
 aliases:
-注音: ㄌㄚㄥ
+注音: ㄌㄚㄫ
 tags:
   - character
 ---

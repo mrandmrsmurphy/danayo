@@ -27,7 +27,7 @@ mc_id: 183
 graphemic_classification: 東
 stand_in: 重
 aliases:
-注音: ㄑㄛㄥ
+注音: ㄑㄛㄫ
 tags:
   - character
 ---

@@ -29,7 +29,7 @@ mc_id: 553
 graphemic_classification: "谷"
 stand_in: "容"
 aliases:
-注音: "˙ㄛㄥ"
+注音: "⼄ㄫ"
 tags:
   - character
 ---

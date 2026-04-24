@@ -28,7 +28,7 @@ graphemic_classification: "會意"
 stand_in: "鳴"
 aliases:
   - 鸣
-注音: "ㄇ˙ㄝㄥ"
+注音: "ㄇ⼶ㄫ"
 tags:
   - character
 ---

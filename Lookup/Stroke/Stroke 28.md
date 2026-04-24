@@ -5,7 +5,7 @@ size: 1
 ---
 > [[Stroke]]
 
-- <ruby>[[鸚]]<rt>ㄚㄥ</rt></ruby> - parrot
+- <ruby>[[鸚]]<rt>ㄚㄫ</rt></ruby> - parrot
 
 ## Data check
 ```dataview

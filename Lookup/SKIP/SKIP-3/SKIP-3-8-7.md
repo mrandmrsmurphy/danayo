@@ -8,7 +8,7 @@ skip_number: 3-8-7
 > [Stroke 15](lookup/Stroke/Stroke%2015.md)
 
 ## Characters
-1. <ruby>[閲](/characters/閲.md)<rt>˙ㄝㄊ</rt></ruby> - inspect
+1. <ruby>[閲](/characters/閲.md)<rt>⼶ㄊ</rt></ruby> - inspect
 2. <ruby>[魅](/characters/魅.md)<rt>ㄇㄧ˙</rt></ruby> - charm
 
 ## Datacheck

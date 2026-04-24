@@ -30,7 +30,7 @@ graphemic_classification: 丣
 stand_in: 留
 aliases:
   - 畱
-注音: ㄌ˙ㄨ
+注音: ㄌ⼜
 tags:
   - character
 ---

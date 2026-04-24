@@ -28,7 +28,7 @@ mc_id: 978
 graphemic_classification: "盾"
 stand_in: "循"
 aliases:
-注音: "ㄙ˙ㄨㄋ"
+注音: "ㄙ⼜ㄋ"
 tags:
   - character
 ---

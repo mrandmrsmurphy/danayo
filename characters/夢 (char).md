@@ -28,7 +28,7 @@ stand_in: "夢"
 aliases:
   - 梦
   - 㒱
-注音: "ㄇㄨㄥ"
+注音: "ㄇㄨㄫ"
 tags:
   - character
 ---

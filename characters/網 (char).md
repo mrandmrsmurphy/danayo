@@ -35,7 +35,7 @@ aliases:
   - 纲
   - 𮉦𦋟𦁒
   - 䋞
-注音: ㄇㄚㄥ
+注音: ㄇㄚㄫ
 date-last-perfect: 2026-02-06
 tags:
   - character
@@ -48,6 +48,6 @@ tags:
 ```
 
 # Notes
-- 形声: [[Radical 120|糸]] + <ruby>[[罔]]<rt>ㄇㄚㄥ</rt></riby> = [[lookup/SKIP/SKIP-3/SKIP-3-2-4]] ([[Stroke 06]])
+- 形声: [[Radical 120|糸]] + <ruby>[[罔]]<rt>ㄇㄚㄫ</rt></riby> = [[lookup/SKIP/SKIP-3/SKIP-3-2-4]] ([[Stroke 06]])
 - [[lookup/HSK/HSK Beginner]], [[Jōyō - Kōtō]], [[Korean Name ㅁ]], [[Grade 6]]
 - 

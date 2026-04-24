@@ -31,7 +31,7 @@ aliases:
   - 暝
   - 瞑
   - 慏
-注音: ㄇㄝㄥ
+注音: ㄇㄝㄫ
 tags:
   - character
 ---

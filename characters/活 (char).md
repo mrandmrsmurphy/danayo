@@ -27,7 +27,7 @@ graphemic_classification: "舌"
 stand_in: "活"
 aliases:
   - 𣴠
-注音: "ㄏˇㄚㄊ"
+注音: "ㄏㆼㄊ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ mc_id: 1093
 graphemic_classification: "用"
 stand_in: "庸"
 aliases:
-注音: "˙ㄛㄥ"
+注音: "⼄ㄫ"
 tags:
   - character
 ---

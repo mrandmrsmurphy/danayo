@@ -27,7 +27,7 @@ mc_id: 1671
 graphemic_classification: "喝"
 stand_in: "葛"
 aliases:
-注音: "ㄍ˙ㄚㄊ"
+注音: "ㄍ⼘ㄊ"
 tags:
   - character
   - hapax

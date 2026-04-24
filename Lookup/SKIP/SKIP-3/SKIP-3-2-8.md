@@ -9,7 +9,7 @@ date-last-perfect: 2026-03-07
 
 ## Characters
 1. <ruby>[匿](/characters/匿.md)<rt>ㄋㄧㄎ</rt></ruby> - hide
-2. <ruby>[原](/characters/原.md)<rt>ˇㄝㄋ</rt></ruby> - original
+2. <ruby>[原](/characters/原.md)<rt>⼔ㄋ</rt></ruby> - original
 
 ## Datacheck
 ```dataview

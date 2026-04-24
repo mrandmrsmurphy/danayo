@@ -1,9 +1,9 @@
 # danayo
-<ruby>[単亜語](words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ·˙ㄛ</rt></ruby> is a zonal auxlang intended to be quickly learnable, readily comprehensible, and mutually communicative between persons of the East Asian cultural sphere. It has an underlying foundation of Chinese characters for every word, with some glyphs being simplified according to the <ruby>[新字体](words/新字体.md)<rt>ㄙㄧㄋㄐㄧㄊㄝ˙</rt></ruby> standards of Japan. The <ruby>[注音符号](words/注音符号.md)<rt>ㄐㄨ·ㄨㄇㄅㄨㄏㄚˇ</rt></ruby> alphabet is presented at the same time (whenever possible), and is also used for phonetic transcription. It is not tonal, mostly analytic, SVO, topic-prominent, uses classifiers, is pro-drop, and uses postpositions.
+<ruby>[単亜語](words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ·⼄</rt></ruby> is a zonal auxlang intended to be quickly learnable, readily comprehensible, and mutually communicative between persons of the East Asian cultural sphere. It has an underlying foundation of Chinese characters for every word, with some glyphs being simplified according to the <ruby>[新字体](words/新字体.md)<rt>ㄙㄧㄋㄐㄧㄊㄝ˙</rt></ruby> standards of Japan. The <ruby>[注音符号](words/注音符号.md)<rt>ㄐㄨ·ㄨㄇㄅㄨㄏㄚˇ</rt></ruby> alphabet is presented at the same time (whenever possible), and is also used for phonetic transcription. It is not tonal, mostly analytic, SVO, topic-prominent, uses classifiers, is pro-drop, and uses postpositions.
 
-It has the largest intended audience of 1500 million speakers, those from China, Japan, Korea, and to some extent Vietnam.  There is no proto-language which all our source languages are supposedly descended from. Our ancient form is Classical Chinese, which is well-known and actually exists in documented form.  Occasional <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·˙ㄛ</rt></ruby> are needed, but aim to be transparent.
+It has the largest intended audience of 1500 million speakers, those from China, Japan, Korea, and to some extent Vietnam.  There is no proto-language which all our source languages are supposedly descended from. Our ancient form is Classical Chinese, which is well-known and actually exists in documented form.  Occasional <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> are needed, but aim to be transparent.
 
-For more information, see <ruby>[単亜語之文法書](grammar/単亜語之文法書.md)<rt>ㄉㄚㄋ·ㄚ·˙ㄛㄊㄧㄇㄨㄋㄆㄚ</rt></ruby>, or in English [単亜語之文法書.en](grammar/単亜語之文法書.en.md)
+For more information, see <ruby>[単亜語之文法書](grammar/単亜語之文法書.md)<rt>ㄉㄚㄋ·ㄚ·⼄ㄊㄧㄇㄨㄋㄆㄚ</rt></ruby>, or in English [単亜語之文法書.en](grammar/単亜語之文法書.en.md)
 ![Far East Asian Flag](images/East_asian_flag.png)
 
 ---
@@ -42,13 +42,6 @@ The following are not content pages, but "programming"
 - [chengyu_info](nav/chengyu_info.md)
 - [numerals](nav/numerals.md)
 - [word_info](nav/word_info.md)
-
----
-
-<ruby>単<rt>ㄎㆼ</rt></ruby>
-<ruby>単<rt>ㄎ㇟</rt></ruby>
-<ruby>単<rt>ㄎ㇣</rt></ruby>
-
 
 ----
 

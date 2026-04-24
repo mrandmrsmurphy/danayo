@@ -26,7 +26,7 @@ mc_id: 7394
 graphemic_classification: "唐"
 stand_in: "糖"
 aliases:
-注音: "ㄉˇㄚㄥ"
+注音: "ㄉㆼㄫ"
 tags:
   - character
 ---

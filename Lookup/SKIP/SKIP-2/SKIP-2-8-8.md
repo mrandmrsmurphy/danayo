@@ -9,7 +9,7 @@ skip_number: 2-8-8
 
 ## Characters
 1. <ruby>[錮](/characters/錮%20(char).md)<rt>ㄍㄛ</rt></ruby> - obstinant
-2. <ruby>[霍](/characters/霍.md)<rt>ㄍˇㄚㄎ</rt></ruby> - quick
+2. <ruby>[霍](/characters/霍.md)<rt>ㄍㆼㄎ</rt></ruby> - quick
 
 ## Datacheck
 ```dataview

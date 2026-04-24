@@ -28,7 +28,7 @@ graphemic_classification: "方"
 stand_in: "紡"
 aliases:
   - 纺
-注音: "ㄈㄚㄥ"
+注音: "ㄈㄚㄫ"
 tags:
   - character
 ---

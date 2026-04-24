@@ -27,7 +27,7 @@ graphemic_classification: 月
 stand_in: 絹
 aliases:
   - 绢
-注音: ㄍˇㄝㄋ
+注音: ㄍ⼔ㄋ
 tags:
   - character
 ---

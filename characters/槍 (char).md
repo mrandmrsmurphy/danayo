@@ -29,7 +29,7 @@ graphemic_classification: "倉"
 stand_in: "槍"
 aliases:
   - 枪
-注音: "ㄑˇㄚㄥ"
+注音: "ㄑㆼㄫ"
 tags:
   - character
 ---

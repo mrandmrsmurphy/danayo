@@ -32,7 +32,7 @@ aliases:
   - 應
   - 𤻮
   - 应
-注音: ㄧㄥ
+注音: ㄧㄫ
 tags:
   - character
 ---

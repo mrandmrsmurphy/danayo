@@ -27,7 +27,7 @@ mc_id: 1318
 graphemic_classification: "象形"
 stand_in: "禾"
 aliases:
-注音: "ㄏˇㄚ"
+注音: "ㄏㆼ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ graphemic_classification: "量"
 stand_in: "糧"
 aliases:
   - 粮
-注音: "ㄌ˙ㄚㄥ"
+注音: "ㄌ⼘ㄫ"
 tags:
   - character
 ---

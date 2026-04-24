@@ -30,7 +30,7 @@ stand_in: 当
 aliases:
   - 當
   - 噹
-注音: ㄉㄚㄥ
+注音: ㄉㄚㄫ
 tags:
   - character
 ---
@@ -46,4 +46,4 @@ tags:
 -
 
 ## Words
-- <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄥㄙㄧ</rt></ruby> - then
+- <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby> - then

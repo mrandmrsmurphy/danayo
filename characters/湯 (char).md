@@ -28,7 +28,7 @@ graphemic_classification: "昜"
 stand_in: "湯"
 aliases:
   - 汤
-注音: "ㄊㄚㄥ"
+注音: "ㄊㄚㄫ"
 tags:
   - character
 ---

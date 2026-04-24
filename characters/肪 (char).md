@@ -28,7 +28,7 @@ mc_id: 9251
 graphemic_classification: "方"
 stand_in: "肪"
 aliases:
-注音: "ㄈㄚㄥ"
+注音: "ㄈㄚㄫ"
 tags:
   - character
 ---

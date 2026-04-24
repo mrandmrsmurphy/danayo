@@ -9,20 +9,20 @@ skip_number: 2-2-3
 
 - <ruby>[[古]]<rt>ㄍㄛ</rt></ruby>
 - <ruby>[[市]]<rt>ㄙㄧ</rt></ruby>
-- <ruby>[[写]]<rt>ㄙ˙ㄚ</rt></ruby>
-- <ruby>[[召]]<rt>ㄙ˙ㄛˇ</rt></ruby>
+- <ruby>[[写]]<rt>ㄙ⼘</rt></ruby>
+- <ruby>[[召]]<rt>ㄙ⼄ˇ</rt></ruby>
 - <ruby>[[../../../characters/占 (char)]]<rt>ㄐㄝㄇ</rt></ruby>
-- <ruby>[[台 (char)]]<rt>ㄅ˙ㄚㄋ</rt></ruby>
+- <ruby>[[台 (char)]]<rt>ㄅ⼘ㄋ</rt></ruby>
 - <ruby>[[乍]]<rt>ㄐㄚ</rt></ruby>
-- <ruby>[[弁]]<rt>ㄅ˙ㄚㄋ</rt></ruby>
+- <ruby>[[弁]]<rt>ㄅ⼘ㄋ</rt></ruby>
 - <ruby>[[矛]]<rt>ㄇㄚˇ</rt></ruby>
 - <ruby>[[矢]]<rt>ㄙㄧ˙</rt></ruby>
 - <ruby>[[立]]<rt>ㄌㄧㄆ</rt></ruby>
-- <ruby>[[令 (char)]]<rt>ㄌㄝㄥ</rt></ruby>
+- <ruby>[[令 (char)]]<rt>ㄌㄝㄫ</rt></ruby>
 - <ruby>[[卉]]<rt>ㄏㄨ˙</rt></ruby>
-- <ruby>[[孕]]<rt>ㄧㄥ</rt></ruby>
-- <ruby>[[玄]]<rt>ㄏˇㄝㄋ</rt></ruby>
-- <ruby>[[玄]]<rt>ㄏˇㄝㄋ</rt></ruby>
+- <ruby>[[孕]]<rt>ㄧㄫ</rt></ruby>
+- <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby>
+- <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby>
 
 * 尓 --> 爾
 * ~~㐱~~

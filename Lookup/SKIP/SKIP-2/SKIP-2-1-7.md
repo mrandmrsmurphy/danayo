@@ -7,7 +7,7 @@ skip_number: 2-1-7
 > SKIP : 2 : [1](lookup/SKIP/SKIP-2/SKIP-2-1.md)
 > [[Stroke 08]]
 
-1. <ruby>[房](/characters/房%20(char).md)<rt>ㄅㄚㄥ</rt></ruby> - room
+1. <ruby>[房](/characters/房%20(char).md)<rt>ㄅㄚㄫ</rt></ruby> - room
 2. <ruby>[肩](/characters/肩%20(char).md)<rt>ㄍㄝㄋ</rt></ruby> - shoulder
 
 ## Datacheck

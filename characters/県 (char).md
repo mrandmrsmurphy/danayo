@@ -31,7 +31,7 @@ graphemic_classification: "會意"
 stand_in: "県"
 aliases:
   - 縣
-注音: "ㄏˇㄝㄋ"
+注音: "ㄏ⼔ㄋ"
 tags:
   - character
 ---

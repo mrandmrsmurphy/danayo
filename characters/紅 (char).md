@@ -29,7 +29,7 @@ graphemic_classification: 工
 stand_in: 紅
 aliases:
   - 红
-注音: ㄏㄛㄥ
+注音: ㄏㄛㄫ
 tags:
   - character
 ---

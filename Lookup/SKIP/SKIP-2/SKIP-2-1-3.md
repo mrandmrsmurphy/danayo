@@ -9,7 +9,7 @@ skip_number: 2-1-3
 
 ## Characters
 1. <ruby>[乏](/characters/乏.md)<rt>ㄅㄚㄆ</rt></ruby> - lack
-2. <ruby>[元](/characters/元.md)<rt>ˇㄝㄋ</rt></ruby> - element
+2. <ruby>[元](/characters/元.md)<rt>⼔ㄋ</rt></ruby> - element
 3. <ruby>[戸](/characters/戸.md)<rt>ㄏㄛ</rt></ruby> - door
 
 ## Datacheck

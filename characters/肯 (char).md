@@ -28,7 +28,7 @@ mc_id: 1049
 graphemic_classification: "會意"
 stand_in: "肯"
 aliases:
-注音: "ㄎㄨㄥ"
+注音: "ㄎㄨㄫ"
 tags:
   - character
 ---

@@ -29,7 +29,7 @@ graphemic_classification: "會意"
 stand_in: "慶"
 aliases:
   - 庆
-注音: "ㄎ˙ㄝㄥ"
+注音: "ㄎ⼶ㄫ"
 tags:
   - character
 ---

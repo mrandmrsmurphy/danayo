@@ -30,7 +30,7 @@ stand_in: 塩
 aliases:
   - 鹽
   - 盐
-注音: ˙ㄝㄇ
+注音: ⼶ㄇ
 tags:
   - character
 ---

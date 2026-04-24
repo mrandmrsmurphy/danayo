@@ -33,7 +33,7 @@ aliases:
   - 卷
   - 捲
   - 巷
-注音: ㄍˇㄝㄋ
+注音: ㄍ⼔ㄋ
 tags:
   - character
 ---
@@ -45,5 +45,5 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[巻耳](/words/巻耳.md)<rt>ㄍˇㄝㄋㄋㄧ</rt></ruby>
-- <ruby>[龍巻](/words/龍巻.md)<rt>ㄌ˙ㄛㄥㄍˇㄝㄋ</rt></ruby> "twister"
+- <ruby>[巻耳](/words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>
+- <ruby>[龍巻](/words/龍巻.md)<rt>ㄌ⼄ㄫㄍ⼔ㄋ</rt></ruby> "twister"

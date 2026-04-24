@@ -8,7 +8,7 @@ size: 2
 > [Stroke 17](lookup/Stroke/Stroke%2017.md)
 
 ## Characters
-1. <ruby>[霜](/characters/霜%20(char).md)<rt>ㄙˇㄚㄥ</rt></ruby> - frost
+1. <ruby>[霜](/characters/霜%20(char).md)<rt>ㄙㆼㄫ</rt></ruby> - frost
 2. <ruby>[霞](/characters/霞.md)<rt>ㄏㄚ</rt></ruby> - mist
 
 ## Datacheck

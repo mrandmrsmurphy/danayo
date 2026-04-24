@@ -31,7 +31,7 @@ aliases:
   - 靑
   - 𤯞
   - 菁
-注音: ㄑㄝㄥ
+注音: ㄑㄝㄫ
 tags:
   - character
 ---

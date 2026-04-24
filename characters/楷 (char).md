@@ -27,7 +27,7 @@ mc_id: 3864
 graphemic_classification: "皆"
 stand_in: "楷"
 aliases:
-注音: "ㄎ˙ㄝ"
+注音: "ㄎ⼶"
 tags:
   - character
 ---

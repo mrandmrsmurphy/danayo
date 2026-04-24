@@ -51,4 +51,4 @@ tags:
 - [[回虫]]
 
 ## Chengyu
-- <ruby>[起死回生](/chengyu/起死回生.md)<rt>ㄎㄧㄙㄧ˙ㄏㄛ˙ㄙㄚㄥ</rt></ruby>
+- <ruby>[起死回生](/chengyu/起死回生.md)<rt>ㄎㄧㄙㄧ˙ㄏㄛ˙ㄙㄚㄫ</rt></ruby>

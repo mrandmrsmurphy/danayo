@@ -29,7 +29,7 @@ graphemic_classification: "丁"
 stand_in: "訂"
 aliases:
   - 订
-注音: "ㄊㄝㄥ"
+注音: "ㄊㄝㄫ"
 tags:
   - character
 ---

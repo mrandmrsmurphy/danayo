@@ -27,7 +27,7 @@ mc_id: 2871
 graphemic_classification: "者"
 stand_in: "箸"
 aliases:
-注音: "ㄉˇㄚ"
+注音: "ㄉㆼ"
 tags:
   - character
 ---

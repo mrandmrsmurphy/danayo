@@ -29,7 +29,7 @@ mc_id: 209
 graphemic_classification: 會意
 stand_in: 夏
 aliases:
-注音: ㄏ˙ㄚ
+注音: ㄏ⼘
 tags:
   - character
 ---

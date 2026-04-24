@@ -27,7 +27,7 @@ mc_id: 81
 graphemic_classification: "肰"
 stand_in: "然"
 aliases:
-注音: "ㄋ˙ㄝㄋ"
+注音: "ㄋ⼶ㄋ"
 tags:
   - character
 ---

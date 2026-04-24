@@ -31,7 +31,7 @@ graphemic_classification: 虎
 stand_in: 虚
 aliases:
   - 虛
-注音: ㄏ˙ㄛ
+注音: ㄏ⼄
 tags:
   - character
 ---

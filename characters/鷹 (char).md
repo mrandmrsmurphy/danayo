@@ -29,7 +29,7 @@ graphemic_classification: "䧹"
 stand_in: "鷹"
 aliases:
   - 鹰
-注音: "ㄧㄥ"
+注音: "ㄧㄫ"
 tags:
   - character
 ---

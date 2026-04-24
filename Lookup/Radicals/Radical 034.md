@@ -6,8 +6,8 @@ date-last-perfect: 2026-03-04
 > [[Radicals]]
 > Winter
 
-1. <ruby>[[変 (char)|変]]<rt>ㄅ˙ㄝㄋ</rt></ruby> - change, alter
-2. <ruby>[[夌]]<rt>ㄌ˙ㄨㄥ</rt></ruby> - dawdle
+1. <ruby>[[変 (char)|変]]<rt>ㄅ⼶ㄋ</rt></ruby> - change, alter
+2. <ruby>[[夌]]<rt>ㄌ⼜ㄫ</rt></ruby> - dawdle
 
 ## Base check
 ```base

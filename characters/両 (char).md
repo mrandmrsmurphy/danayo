@@ -35,7 +35,7 @@ aliases:
   - 㒳
   - 魎
   - 魉
-注音: ㄌ˙ㄚㄥ
+注音: ㄌ⼘ㄫ
 tags:
   - character
 kwin: true
@@ -50,7 +50,7 @@ kwin: true
 # Notes
 1. both
 2. 借代字 for "tree and rock demon"
-	1. <ruby>[罔両](/words/罔両.md)<rt>ㄇㄚㄥㄌ˙ㄚㄥ</rt></ruby>
+	1. <ruby>[罔両](/words/罔両.md)<rt>ㄇㄚㄫㄌ⼘ㄫ</rt></ruby>
 
 ## Words
 - [[両親]] - parents

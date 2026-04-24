@@ -29,7 +29,7 @@ stand_in: "闊"
 aliases:
   - 阔
   - 濶
-注音: "ㄎˇㄚㄊ"
+注音: "ㄎㆼㄊ"
 tags:
   - character
 ---
@@ -41,4 +41,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[久闊](/words/久闊.md)<rt>ㄍ˙ㄨㄎˇㄚㄊ</rt></ruby> "long period of separation"
+- <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎㆼㄊ</rt></ruby> "long period of separation"

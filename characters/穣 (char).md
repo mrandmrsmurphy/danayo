@@ -28,7 +28,7 @@ graphemic_classification: 襄
 stand_in: 穣
 aliases:
   - 穰
-注音: ㄋ˙ㄚㄥ
+注音: ㄋ⼘ㄫ
 tags:
   - character
 ---

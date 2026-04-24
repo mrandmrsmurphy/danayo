@@ -26,7 +26,7 @@ mc_id: 1860
 graphemic_classification: "雍"
 stand_in: "壅"
 aliases:
-注音: "ㄛㄥ"
+注音: "ㄛㄫ"
 tags:
   - character
 ---

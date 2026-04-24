@@ -27,7 +27,7 @@ graphemic_classification: "与"
 stand_in: "輿"
 aliases:
   - 舆
-注音: "˙ㄛ"
+注音: "⼄"
 tags:
   - character
 ---

@@ -58,9 +58,9 @@ Originally an 指事/ideogram, a picture of "down".  It used be a line under ano
 - <ruby>[[低下]]<rt>ㄉㄝ˙ㄏㄚ</rt></ruby> - to lower, to droop
 - <ruby>[[地下道]]<rt>ㄉㄧ˙ㄏㄚㄉㄚˇ</rt></ruby> - tunnel, underpass
 - <ruby>[[下顎]]<rt>ㄏㄚ·ㄚㄎ</rt></ruby> - jaw, chin
-- <ruby>[[下降]]<rt>ㄏㄚㄍㄚㄥ</rt></ruby> - to descend, to fall
+- <ruby>[[下降]]<rt>ㄏㄚㄍㄚㄫ</rt></ruby> - to descend, to fall
 - <ruby>[[下痢]]<rt>ㄏㄚㄌㄧ˙</rt></ruby> - diarrhea
-- <ruby>[[下旬]]<rt>ㄏㄚㄙ˙ㄨㄋ</rt></ruby> - end of the month
+- <ruby>[[下旬]]<rt>ㄏㄚㄙ⼜ㄋ</rt></ruby> - end of the month
 - <ruby>[[落下]]<rt>ㄌㄚㄎㄏㄚ</rt></ruby> - to fall
 - <ruby>[[落下傘]]<rt>ㄌㄚㄎㄏㄚㄙㄚㄋ</rt></ruby> - parachute
 ## Info

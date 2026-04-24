@@ -7,7 +7,7 @@ radical: 艮
 
 ## Characters
 1. <ruby>[艮](/characters/艮.md)<rt>ㄍㄚㄋ</rt></ruby>
-2. <ruby>[良](/characters/良.md)<rt>ㄌ˙ㄚㄥ</rt></ruby>
+2. <ruby>[良](/characters/良.md)<rt>ㄌ⼘ㄫ</rt></ruby>
 3. <ruby>[艱](/characters/艱.md)<rt>ㄍㄚㄋ</rt></ruby>
 
 艰 -->

@@ -21,9 +21,9 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 
 ## Characters
 ### Used
-1. <ruby>[[龍 (char)|龍]]<rt>ㄌ˙ㄛㄥ</rt></ruby> - dragon
-2. <ruby>[[龐]]<rt>ㄅㄚㄥ</rt></ruby> - huge
-3. <ruby>[[龔]]<rt>ㄍㄛㄥ</rt></ruby> - to give/present
+1. <ruby>[[龍 (char)|龍]]<rt>ㄌ⼄ㄫ</rt></ruby> - dragon
+2. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - huge
+3. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - to give/present
 4. <ruby>[[龕]]<rt>ㄌㄚㄇ</rt></ruby> - shrine
 
 ### Variants

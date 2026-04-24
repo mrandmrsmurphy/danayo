@@ -29,7 +29,7 @@ graphemic_classification: 指事
 stand_in: 中
 aliases:
   - 𠁩
-注音: ㄐㄨㄥ
+注音: ㄐㄨㄫ
 date-last-perfect: 2026-03-25
 kwin: true
 tags:
@@ -44,7 +44,7 @@ tags:
 - Pictogram ([List of 指事](../lookup/List%20of%20指事.md)) – a flagpole, as depicted in its original form 𠁩. Based on archaeological evidence, the middle box has been interpreted as a drum (建鼓). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of 中 (OC \*tuŋ, \*tuŋs) is reminiscent of the beating of a drum.
 	- Shuowen interprets the character as a vertical stroke [丨](Radical%20002) passing through the center of [[../words/口]], indicating the center.
 	- It has also been interpreted as an arrow in the center of a target.
-- [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄐㄨㄥ](../syllables/ㄐㄨㄥ.md)
+- [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄐㄨㄫ](../syllables/ㄐㄨㄫ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
 
 ## Definitions
@@ -68,8 +68,8 @@ tags:
 - [[中華民国]]
 - [[中間]]
 - [[暗中]]
-- <ruby>[中子](/words/中子.md)<rt>ㄐㄨㄥㄐㄧ</rt></ruby> - neutron
-- <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄥ</rt></ruby> - underwater
+- <ruby>[中子](/words/中子.md)<rt>ㄐㄨㄫㄐㄧ</rt></ruby> - neutron
+- <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
 
 ## Chengyu
-- <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄥㄐㄨㄥㄌㄛˇㄍㄚㄎ</rt></ruby> - Castle in the Sky
+- <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛˇㄍㄚㄎ</rt></ruby> - Castle in the Sky

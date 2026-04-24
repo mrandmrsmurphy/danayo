@@ -27,7 +27,7 @@ mc_id: 6459
 graphemic_classification: "同"
 stand_in: "筒"
 aliases:
-注音: "ㄉㄛㄥ"
+注音: "ㄉㄛㄫ"
 tags:
   - character
 ---

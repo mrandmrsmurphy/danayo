@@ -8,7 +8,7 @@ skip_number: 4-7-2
 > [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 ## Characters
-1. <ruby>[坐](characters/坐%20(char).md)<rt>ㄐˇㄚ</rt></ruby> - sit
+1. <ruby>[坐](characters/坐%20(char).md)<rt>ㄐㆼ</rt></ruby> - sit
 
 ## Datacheck
 ```dataview

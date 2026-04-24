@@ -40,4 +40,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[用言](/words/用言.md)<rt>˙ㄛㄥ·ㄝㄋ</rt></ruby> - declinable word
+- <ruby>[用言](/words/用言.md)<rt>⼄ㄫ·ㄝㄋ</rt></ruby> - declinable word

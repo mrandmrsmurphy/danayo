@@ -7,7 +7,7 @@ radical: 攴
 ## Characters
 1. 改 (char)
 2. 攻 (char)
-3. <ruby>[放](/characters/放.md)<rt>ㄈㄚㄥ</rt></ruby>
+3. <ruby>[放](/characters/放.md)<rt>ㄈㄚㄫ</rt></ruby>
 4. 政
 5. 故
 6. 敏 (char)

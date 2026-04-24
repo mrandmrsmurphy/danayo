@@ -27,7 +27,7 @@ graphemic_classification: "童"
 stand_in: "鐘"
 aliases:
   - 钟
-注音: "ㄐㄛㄥ"
+注音: "ㄐㄛㄫ"
 tags:
   - character
 ---

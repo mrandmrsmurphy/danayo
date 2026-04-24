@@ -27,7 +27,7 @@ graphemic_classification: "笑"
 stand_in: "送"
 aliases:
   - 䢠
-注音: "ㄙㄛㄥ"
+注音: "ㄙㄛㄫ"
 tags:
   - character
 ---

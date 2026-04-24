@@ -7,7 +7,7 @@ radical: 臣
 
 ## Character
 1. <ruby>[臣](/characters/臣.md)<rt>ㄙㄧㄋ</rt></ruby> "minister" 
-2. <ruby>[臥 (char)](/characters/臥%20(char).md)<rt>ˇㄚ</rt></ruby> "crouch"
+2. <ruby>[臥 (char)](/characters/臥%20(char).md)<rt>ㆼ</rt></ruby> "crouch"
 3. <ruby>[臨](/characters/臨.md)<rt>ㄌㄧㄇ</rt></ruby> "approach"
 
 Unrelated to [頤 (char)](../../characters/頤%20(char).md)

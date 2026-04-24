@@ -28,7 +28,7 @@ graphemic_classification: "帚"
 stand_in: "婦"
 aliases:
   - 妇
-注音: "ㄅ˙ㄨ"
+注音: "ㄅ⼜"
 tags:
   - character
 ---

@@ -29,7 +29,7 @@ graphemic_classification: "登"
 stand_in: "灯"
 aliases:
   - 燈
-注音: "ㄉㄨㄥ"
+注音: "ㄉㄨㄫ"
 tags:
   - character
 ---

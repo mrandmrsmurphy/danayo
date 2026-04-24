@@ -15,7 +15,7 @@ stroke_count: 5
 7. [[冊 (char)|冊]]	
 8. [[皿]]
 9. [[凸]]	
-10. <ruby>[疋](/characters/疋.md)<rt>ㄙ˙ㄛ</rt></ruby> - bolt of cloth
+10. <ruby>[疋](/characters/疋.md)<rt>ㄙ⼄</rt></ruby> - bolt of cloth
 11. [[丙]]	
 12. [[平]]	
 13. [[母]]	

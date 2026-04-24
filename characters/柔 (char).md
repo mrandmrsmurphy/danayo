@@ -29,7 +29,7 @@ mc_id: 983
 graphemic_classification: "矛"
 stand_in: "柔"
 aliases:
-注音: "ㄋ˙ㄨ"
+注音: "ㄋ⼜"
 tags:
   - character
 ---

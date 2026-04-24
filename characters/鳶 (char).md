@@ -27,7 +27,7 @@ graphemic_classification: "弋"
 stand_in: "鳶"
 aliases:
   - 鸢
-注音: "˙ㄝㄋ"
+注音: "⼶ㄋ"
 tags:
   - character
 ---

@@ -26,7 +26,7 @@ mc_id: 230
 graphemic_classification: "會意"
 stand_in: "孔"
 aliases:
-注音: "ㄎㄛㄥ"
+注音: "ㄎㄛㄫ"
 tags:
   - character
 ---

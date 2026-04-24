@@ -28,7 +28,7 @@ mc_id: 2067
 graphemic_classification: "正"
 stand_in: "整"
 aliases:
-注音: "ㄐㄝㄥ"
+注音: "ㄐㄝㄫ"
 tags:
   - character
 ---

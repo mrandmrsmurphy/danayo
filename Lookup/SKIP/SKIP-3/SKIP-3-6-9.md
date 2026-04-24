@@ -8,7 +8,7 @@ skip_number: 3-6-9
 > [Stroke 15](lookup/Stroke/Stroke%2015.md)
 
 ## Characters
-1. <ruby>[慮](/characters/慮.md)<rt>ㄌ˙ㄛ</rt></ruby> - anxious
+1. <ruby>[慮](/characters/慮.md)<rt>ㄌ⼄</rt></ruby> - anxious
 
 ## Datacheck
 ```dataview

@@ -34,7 +34,7 @@ aliases:
   - 严
   - 儼
   - 𠑊
-注音: ˙ㄛㄇ
+注音: ⼄ㄇ
 tags:
   - character
 ---

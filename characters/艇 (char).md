@@ -28,7 +28,7 @@ mc_id: 6475
 graphemic_classification: "廷"
 stand_in: "艇"
 aliases:
-注音: "ㄉㄝㄥ"
+注音: "ㄉㄝㄫ"
 tags:
   - character
 ---

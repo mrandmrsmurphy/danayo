@@ -28,7 +28,7 @@ graphemic_classification: 却
 stand_in: 脚
 aliases:
   - 腳
-注音: ㄍ˙ㄚㄎ
+注音: ㄍ⼘ㄎ
 tags:
   - character
 ---

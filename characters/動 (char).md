@@ -34,7 +34,7 @@ aliases:
   - 慟
   - 恸
   - 𢣛
-注音: ㄉㄛㄥ
+注音: ㄉㄛㄫ
 tags:
   - character
 ---

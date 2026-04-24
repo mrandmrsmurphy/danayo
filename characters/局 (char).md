@@ -27,7 +27,7 @@ mc_id: 3117
 graphemic_classification: 句
 stand_in: 局
 aliases:
-注音: ㄍ˙ㄛㄎ
+注音: ㄍ⼄ㄎ
 tags:
   - character
 ---

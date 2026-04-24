@@ -28,7 +28,7 @@ mc_id: 59
 graphemic_classification: "女"
 stand_in: "如"
 aliases:
-注音: "ㄋ˙ㄛ"
+注音: "ㄋ⼄"
 tags:
   - character
 ---

@@ -52,5 +52,5 @@ tags:
 	- [[訳]]
 	- [[沢]]
 ## Words
-- <ruby>[尺蒦](/words/尺蒦.md)<rt>ㄑㄝㄎㄏˇㄚㄎ</rt></ruby> "inchworm"
-- <ruby>[公尺](/words/公尺.md)<rt>ㄍㄛㄥㄑㄝㄎ</rt></ruby> "meter"
+- <ruby>[尺蒦](/words/尺蒦.md)<rt>ㄑㄝㄎㄏㆼㄎ</rt></ruby> "inchworm"
+- <ruby>[公尺](/words/公尺.md)<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"

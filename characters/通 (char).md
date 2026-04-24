@@ -31,7 +31,7 @@ mc_id: 252
 graphemic_classification: 甬
 stand_in: 通
 aliases:
-注音: ㄊㄛㄥ
+注音: ㄊㄛㄫ
 tags:
   - character
 ---

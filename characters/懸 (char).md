@@ -30,7 +30,7 @@ graphemic_classification: "絶"
 stand_in: "懸"
 aliases:
   - 悬
-注音: "ㄏˇㄝㄋ"
+注音: "ㄏ⼔ㄋ"
 tags:
   - character
 ---

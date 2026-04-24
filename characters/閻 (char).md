@@ -28,7 +28,7 @@ graphemic_classification: "陥"
 stand_in: "閻"
 aliases:
   - 阎
-注音: "˙ㄝㄇ"
+注音: "⼶ㄇ"
 tags:
   - character
 ---

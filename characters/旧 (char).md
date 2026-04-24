@@ -30,7 +30,7 @@ graphemic_classification: 臼
 stand_in: 旧
 aliases:
   - 舊
-注音: ㄍ˙ㄨˇ
+注音: ㄍ⼜ˇ
 tags:
   - character
 ---

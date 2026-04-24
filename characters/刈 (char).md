@@ -27,7 +27,7 @@ mc_id: 3233
 graphemic_classification: "乂"
 stand_in: "刈"
 aliases:
-注音: "˙ㄚ˙"
+注音: "⼘˙"
 tags:
   - character
 ---

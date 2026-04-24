@@ -31,7 +31,7 @@ mc_id: 5815
 graphemic_classification: "甬"
 stand_in: "桶"
 aliases:
-注音: "ㄊㄛㄥ"
+注音: "ㄊㄛㄫ"
 tags:
   - character
 ---

@@ -53,7 +53,7 @@ tags:
 - <ruby>[[三綱]]<rt>ㄙㄚㄇ강</rt></ruby> - the three relationships
 - <ruby>[[三菱]]<rt>ㄙㄚㄇ링</rt></ruby> - Mitsubishi
 - <ruby>[[三角]]<rt>ㄙㄚㄇ곡</rt></ruby> - triangle
-	- <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄥ</rt></ruby>
+	- <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby>
 
 ### Links
 ![[nav/Numerals]]

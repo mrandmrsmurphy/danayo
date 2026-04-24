@@ -26,7 +26,7 @@ mc_id: 2580
 graphemic_classification: "束"
 stand_in: "竦"
 aliases:
-注音: "ㄙㄛㄥ"
+注音: "ㄙㄛㄫ"
 tags:
   - character
 ---

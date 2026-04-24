@@ -46,4 +46,4 @@ tags:
 - [[業業]] (ideo) lofty; large ; fearfully; apprehensively
 - [[漁業]]
 ## Chengyu
-- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄥㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
+- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>

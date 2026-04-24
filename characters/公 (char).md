@@ -31,7 +31,7 @@ aliases:
   - 蚣
   - 蜙
   - 𧌻
-注音: ㄍㄛㄥ
+注音: ㄍㄛㄫ
 date-last-perfect: 2026-03-24
 tags:
   - character
@@ -43,7 +43,7 @@ tags:
 ```
 ## Notes
 - 会意 : The traditional interpretation as given by Han Feizi is that 公 is a compound of [八](Radical%20012) (= 背 (“to deviate; opposite”)) and [厶](Radical%20028) (original form of 私 (“individual; private”)), i.e. the opposite of “private” — “public”. This theory is supported by Sun Yirang and Qiang Kaiyun, despite the somewhat different shape of the bottom component from 厶.
-- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄍㄛㄥ](../syllables/ㄍㄛㄥ.md)
+- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄍㄛㄫ](../syllables/ㄍㄛㄫ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 2](../lookup/Grade%202.md)
 
 ## Words

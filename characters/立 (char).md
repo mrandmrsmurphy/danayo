@@ -45,5 +45,5 @@ tags:
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md)) - [ㄌㄧㄆ](../syllables/ㄌㄧㄆ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
 ## Chengyu
-- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄥㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
-- <ruby>[義以立名](/chengyu/義以立名.md)<rt>ˇㄧ·ㄧㄌㄧㄆㄇㄧㄥ</rt></ruby>
+- <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
+- <ruby>[義以立名](/chengyu/義以立名.md)<rt>ˇㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>

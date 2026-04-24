@@ -31,7 +31,7 @@ aliases:
   - 昸
   - 㫡
   - 鼕
-注音: ㄊㄛㄥ
+注音: ㄊㄛㄫ
 tags:
   - character
 ---

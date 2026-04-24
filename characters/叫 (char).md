@@ -26,7 +26,7 @@ mc_id: 3564
 graphemic_classification: "丩"
 stand_in: "叫"
 aliases:
-注音: "ㄍ˙ㄚ"
+注音: "ㄍ⼘"
 tags:
   - character
 ---

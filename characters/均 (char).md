@@ -29,7 +29,7 @@ mc_id: 1164
 graphemic_classification: "勻"
 stand_in: "均"
 aliases:
-注音: "ㄍ˙ㄨㄋ"
+注音: "ㄍ⼜ㄋ"
 tags:
   - character
 ---

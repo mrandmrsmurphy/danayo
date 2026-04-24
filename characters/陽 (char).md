@@ -27,7 +27,7 @@ graphemic_classification: "昜"
 stand_in: "陽"
 aliases:
   - 阳
-注音: "˙ㄚㄥ"
+注音: "⼘ㄫ"
 tags:
   - character
 ---

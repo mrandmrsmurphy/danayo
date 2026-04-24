@@ -26,7 +26,7 @@ mc_id: 7135
 graphemic_classification: 行
 stand_in: 桁
 aliases:
-注音: ㄏㄚㄥ
+注音: ㄏㄚㄫ
 tags:
   - character
 ---

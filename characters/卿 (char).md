@@ -32,7 +32,7 @@ mc_id: 352
 graphemic_classification: 會意
 stand_in: 卿
 aliases:
-注音: ㄎ˙ㄝㄥ
+注音: ㄎ⼶ㄫ
 tags:
   - character
 ---

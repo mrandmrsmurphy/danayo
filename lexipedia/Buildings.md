@@ -3,13 +3,13 @@ language: English
 ---
 
 ## The City 
-- arch - <ruby>[拱](/words/拱.md)<rt>ㄍ˙ㄛㄥ</rt></ruby>
-- block - <ruby>[街区](/words/街区.md)<rt>ㄍ˙ㄚ˙ㄎㄨ</rt></ruby>
-- bridge - <ruby>[橋](/words/橋.md)<rt>ㄍ˙ㄚˇ</rt></ruby>
+- arch - <ruby>[拱](/words/拱.md)<rt>ㄍ⼄ㄫ</rt></ruby>
+- block - <ruby>[街区](/words/街区.md)<rt>ㄍ⼘˙ㄎㄨ</rt></ruby>
+- bridge - <ruby>[橋](/words/橋.md)<rt>ㄍ⼘ˇ</rt></ruby>
 - city/town - <ruby>[都市](/words/都市.md)<rt>ㄉㄛㄙㄧ</rt></ruby>
 - gate - <ruby>[大門](/words/大門.md)<rt>ㄉㄚ˙ㄇㄛㄋ</rt></ruby>
 - road - <ruby>[道路](/words/道路.md)<rt>ㄉㄚˇㄌㄛ</rt></ruby>
-- square/plaza - <ruby>[広場](/words/広場.md)<rt>ㄍˇㄚㄥㄐㄚㄥ</rt></ruby>
+- square/plaza - <ruby>[広場](/words/広場.md)<rt>ㄍㆼㄫㄐㄚㄫ</rt></ruby>
 - street - <ruby>[[街道]]<rt>gyaidau</rt></ruby>
 - tunnel - <ruby>[[地下道]]<rt>diihadau</rt></ruby> (also <ruby>隧道<rt>suidau</rt></ruby>)
 - village - <ruby>[[農村]]<rt>nongcon</rt></ruby>

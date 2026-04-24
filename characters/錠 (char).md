@@ -28,7 +28,7 @@ graphemic_classification: 定
 stand_in: 錠
 aliases:
   - 锭
-注音: ㄐㄝㄥ
+注音: ㄐㄝㄫ
 tags:
   - character
 ---

@@ -42,7 +42,7 @@ tags:
 
 
 ## Chengyu
-- <ruby>[義以立名](/chengyu/義以立名.md)<rt>ˇㄧ·ㄧㄌㄧㄆㄇㄧㄥ</rt></ruby>
+- <ruby>[義以立名](/chengyu/義以立名.md)<rt>ˇㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>
 
 ## Words
 - [[以前]]

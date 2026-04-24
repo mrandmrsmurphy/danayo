@@ -31,7 +31,7 @@ aliases:
   - 叏
   - 夬
   - 蹶
-注音: "ㄎˇㄝㄊ"
+注音: "ㄎ⼔ㄊ"
 tags:
   - character
 ---
@@ -51,4 +51,4 @@ tags:
 	- [訣](characters/訣.md)
 
 ## Words
-- <ruby>[解決](/words/解決.md)<rt>ㄍ˙ㄚ˙ㄎˇㄝㄊ</rt></ruby>
+- <ruby>[解決](/words/解決.md)<rt>ㄍ⼘˙ㄎ⼔ㄊ</rt></ruby>

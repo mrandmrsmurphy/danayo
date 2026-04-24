@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 川
 aliases:
   - 巛
-注音: ㄑˇㄚㄋ
+注音: ㄑㆼㄋ
 tags:
   - character
   - hapax

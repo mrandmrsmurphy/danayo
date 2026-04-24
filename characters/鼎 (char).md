@@ -26,7 +26,7 @@ mc_id: 836
 graphemic_classification: "象形"
 stand_in: "鼎"
 aliases:
-注音: "ㄉㄧㄥ"
+注音: "ㄉㄧㄫ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ mc_id: 1976
 graphemic_classification: 危
 stand_in: 跪
 date-last-perfect: 2026-02-25
-注音: ㄎˇㄝ˙
+注音: ㄎ⼔˙
 tags:
   - character
 ---
@@ -40,5 +40,5 @@ tags:
 ```
 
 ## Notes
-- [足](/lookup/Radicals/Radical%20157.md) + [危](characters/危.md) = [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) [[ㄎˇㄝ˙]]
+- [足](/lookup/Radicals/Radical%20157.md) + [危](characters/危.md) = [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) [[ㄎ⼔˙]]
 - Not on HSK, Not in Jōyō, Not even in Korean name list, [Grade Advanced](lookup/Grade%20Advanced.md)

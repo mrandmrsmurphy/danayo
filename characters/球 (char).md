@@ -29,7 +29,7 @@ graphemic_classification: "求"
 stand_in: "球"
 aliases:
   - 毬
-注音: "ㄍ˙ㄨ"
+注音: "ㄍ⼜"
 tags:
   - character
 ---
@@ -42,5 +42,5 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ˙ㄨ</rt></ruby> - soccer
+- <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby> - soccer
 - 

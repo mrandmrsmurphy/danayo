@@ -5,7 +5,7 @@ date-last-perfect: 2026-02-22
 ---
 > [Radicals](Radicals.md)
 
-- <ruby>[黄 (char)](../../characters/黄%20(char).md)<rt>ㄏˇㄚㄥ</rt></ruby> - yellow
+- <ruby>[黄 (char)](../../characters/黄%20(char).md)<rt>ㄏㆼㄫ</rt></ruby> - yellow
 
 That's it!
 

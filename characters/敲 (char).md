@@ -28,7 +28,7 @@ mc_id: 6526
 graphemic_classification: "高"
 stand_in: "敲"
 aliases:
-注音: "ㄎ˙ㄚˇ"
+注音: "ㄎ⼘ˇ"
 tags:
   - character
 ---

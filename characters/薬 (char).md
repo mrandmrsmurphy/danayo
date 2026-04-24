@@ -31,7 +31,7 @@ stand_in: 薬
 aliases:
   - 藥
   - 药
-注音: ˙ㄚㄎ
+注音: ⼘ㄎ
 tags:
   - character
 kwin: true

@@ -30,7 +30,7 @@ stand_in: 蒼
 aliases:
   - 苍
   - 滄
-注音: ㄑˇㄚㄥ
+注音: ㄑㆼㄫ
 tags:
   - character
 ---

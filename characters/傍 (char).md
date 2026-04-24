@@ -28,7 +28,7 @@ mc_id: 2042
 graphemic_classification: "旁"
 stand_in: "傍"
 aliases:
-注音: "ㄆㄚㄥ"
+注音: "ㄆㄚㄫ"
 tags:
   - character
 ---

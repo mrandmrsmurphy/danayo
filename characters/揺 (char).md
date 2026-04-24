@@ -30,7 +30,7 @@ stand_in: 揺
 aliases:
   - 搖
   - 摇
-注音: ˙ㄛˇ
+注音: ⼄ˇ
 tags:
   - character
 ---

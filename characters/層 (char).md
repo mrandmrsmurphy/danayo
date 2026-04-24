@@ -27,7 +27,7 @@ graphemic_classification: "曽"
 stand_in: "層"
 aliases:
   - 层
-注音: "ㄑㄜㄥ"
+注音: "ㄑㄜㄫ"
 tags:
   - character
 ---

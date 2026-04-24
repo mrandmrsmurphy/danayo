@@ -27,7 +27,7 @@ graphemic_classification: "會意"
 stand_in: "繭"
 aliases:
   - 茧
-注音: "ㄍ˙ㄝㄥ"
+注音: "ㄍ⼶ㄫ"
 tags:
   - character
 ---

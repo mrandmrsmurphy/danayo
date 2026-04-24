@@ -28,7 +28,7 @@ graphemic_classification: 白
 stand_in: 柏
 aliases:
   - 栢
-注音: ㄅ˙ㄚㄎ
+注音: ㄅ⼘ㄎ
 tags:
   - character
 ---

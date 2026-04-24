@@ -5,7 +5,7 @@ date-last-perfect: 2026-02-26
 ---
 > [[Radicals]]
 
-1. <ruby>[[夏]]<rt>ㄏ˙ㄚ</rt></ruby> - summer
+1. <ruby>[[夏]]<rt>ㄏ⼘</rt></ruby> - summer
 
 ## Base check
 ```base

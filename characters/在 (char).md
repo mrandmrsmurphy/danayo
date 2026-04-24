@@ -40,4 +40,4 @@ tags:
 ## Notes
 
 ## Words
-- <ruby>[現在](/words/現在.md)<rt>ㄏ˙ㄝㄋㄐㄚ˙</rt></ruby> - present, now
+- <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚ˙</rt></ruby> - present, now

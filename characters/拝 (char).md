@@ -28,7 +28,7 @@ graphemic_classification: 會意
 stand_in: 拝
 aliases:
   - 拜
-注音: ㄅ˙ㄝ
+注音: ㄅ⼶
 tags:
   - character
 ---

@@ -32,7 +32,7 @@ graphemic_classification: "青"
 stand_in: "請"
 aliases:
   - 请
-注音: "ㄑㄧㄥ"
+注音: "ㄑㄧㄫ"
 tags:
   - character
 ---

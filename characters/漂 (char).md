@@ -27,7 +27,7 @@ mc_id: 2744
 graphemic_classification: "票"
 stand_in: "漂"
 aliases:
-注音: "ㄆ˙ㄛ"
+注音: "ㄆ⼄"
 tags:
   - character
 ---

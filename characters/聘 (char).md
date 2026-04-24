@@ -28,7 +28,7 @@ graphemic_classification: "甹"
 stand_in: "聘"
 aliases:
   - 娉
-注音: "ㄆㄧㄥ"
+注音: "ㄆㄧㄫ"
 tags:
   - character
 ---

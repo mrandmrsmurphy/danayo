@@ -28,7 +28,7 @@ graphemic_classification: "夭"
 stand_in: "笑"
 aliases:
   - 咲
-注音: "ㄙ˙ㄛˇ"
+注音: "ㄙ⼄ˇ"
 tags:
   - character
 ---

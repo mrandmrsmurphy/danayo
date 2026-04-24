@@ -38,7 +38,7 @@ aliases:
   - 𧨅
   - 𧬆
   - 𧮟
-注音: ㄙ˙ㄝㄋ
+注音: ㄙ⼶ㄋ
 tags:
   - character
 ---

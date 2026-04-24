@@ -28,7 +28,7 @@ graphemic_classification: "袞"
 stand_in: "滾"
 aliases:
   - 滚
-注音: "ㄍˇㄚㄋ"
+注音: "ㄍㆼㄋ"
 tags:
   - character
 ---

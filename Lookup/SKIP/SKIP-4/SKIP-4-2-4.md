@@ -9,12 +9,12 @@ skip_number: 4-2-4
 
 ## Characters
 ### Used
-1. <ruby>[九](characters/九%20(char).md)<rt>ㄍ˙ㄨ</rt></ruby> - nine
+1. <ruby>[九](characters/九%20(char).md)<rt>ㄍ⼜</rt></ruby> - nine
 2. <ruby>[人](characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
 3. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
 4. <ruby>[卜](characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divine
 5. <ruby>[力 (char)](characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power
-6. <ruby>[乂](characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern
+6. <ruby>[乂](characters/乂.md)<rt>⼘˙</rt></ruby> - govern
 ### Aliases
 ### Forbidden
 - 勹

@@ -29,7 +29,7 @@ graphemic_classification: "畫"
 stand_in: "劃"
 aliases:
   - 划
-注音: "ㄏˇㄚㄎ"
+注音: "ㄏㆼㄎ"
 tags:
   - character
 ---

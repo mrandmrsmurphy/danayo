@@ -31,7 +31,7 @@ stand_in: "熱"
 aliases:
   - 热
   - 烧
-注音: "ㄋ˙ㄝㄊ"
+注音: "ㄋ⼶ㄊ"
 tags:
   - character
 ---

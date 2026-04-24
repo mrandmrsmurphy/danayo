@@ -30,7 +30,7 @@ aliases:
   - 丩
   - 纠
   - 糺
-注音: "ㄍ˙ㄨˇ"
+注音: "ㄍ⼜ˇ"
 tags:
   - character
 ---

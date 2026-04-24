@@ -49,4 +49,4 @@ tags:
 - <ruby>[晩飯](/words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby> - dinner
 - <ruby>[晩餐](/words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby> - supper
 ## Chengyu
-- <ruby>[大器晩成](/chengyu/大器晩成.md)<rt>ㄉㄚ˙ㄎㄧ˙ㄇㄛㄋㄙㄧㄥ</rt></ruby> late bloomer
+- <ruby>[大器晩成](/chengyu/大器晩成.md)<rt>ㄉㄚ˙ㄎㄧ˙ㄇㄛㄋㄙㄧㄫ</rt></ruby> late bloomer

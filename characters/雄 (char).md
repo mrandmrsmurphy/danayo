@@ -27,7 +27,7 @@ mc_id: 1106
 graphemic_classification: "厷"
 stand_in: "雄"
 aliases:
-注音: "ㄨㄥ"
+注音: "ㄨㄫ"
 tags:
   - character
 ---

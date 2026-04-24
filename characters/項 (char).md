@@ -29,7 +29,7 @@ graphemic_classification: "工"
 stand_in: "項"
 aliases:
   - 项
-注音: "ㄏㄚㄥ"
+注音: "ㄏㄚㄫ"
 tags:
   - character
 ---

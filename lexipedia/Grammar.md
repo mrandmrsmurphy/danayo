@@ -7,8 +7,8 @@ language: English
 _the_ and _a_ are not part of Dan'a'yo
 
 ### Comparatives
-- more <ruby>[更](/words/更.md)<rt>ㄍㄚㄥ</rt></ruby>
-- most <ruby>[最](/words/最.md)<rt>ㄐˇㄝ</rt></ruby>
+- more <ruby>[更](/words/更.md)<rt>ㄍㄚㄫ</rt></ruby>
+- most <ruby>[最](/words/最.md)<rt>ㄐ⼔</rt></ruby>
 - least
 - less
 
@@ -69,9 +69,9 @@ _the_ and _a_ are not part of Dan'a'yo
 - thou : <ruby>[君](../words/君.md)<rt>ㄍㄨㄋ</rt></ruby>
 - he/she : <ruby>[其人](../words/其人.md)<rt>ㄍㄧㄋ·ㄧㄋ</rt></ruby>
 - it
-- we : <ruby>[我等](../words/我等.md)<rt>ㄚㄉㄨㄥ</rt></ruby>
-- you : <ruby>[君等](../words/君等.md)<rt>ㄍㄨㄋㄉㄨㄥ</rt></ruby>
-- they : <ruby>[其人等](../words/其人等.md)<rt>ㄍㄧㄋㄧㄋㄉㄨㄥ</rt></ruby>
+- we : <ruby>[我等](../words/我等.md)<rt>ㄚㄉㄨㄫ</rt></ruby>
+- you : <ruby>[君等](../words/君等.md)<rt>ㄍㄨㄋㄉㄨㄫ</rt></ruby>
+- they : <ruby>[其人等](../words/其人等.md)<rt>ㄍㄧㄋㄧㄋㄉㄨㄫ</rt></ruby>
 - self : 
 	- grammatical reflexive: <ruby>[自己](../words/自己.md)<rt>ㄐㄧ˙ㄍㄧ</rt></ruby>
 	- emphatic: <ruby>[自身](../words/自身.md)<rt>ㄐㄧ˙ㄙㄧㄋ</rt></ruby>
@@ -82,17 +82,17 @@ _the_ and _a_ are not part of Dan'a'yo
 - where : <ruby>[何処](../words/何処.md)<rt>ㄏㄚㄑㄛ</rt></ruby>
 - whether
 - while
-- who : <ruby>[誰](../words/誰.md)<rt>ㄙ˙ㄝ˙</rt></ruby>
+- who : <ruby>[誰](../words/誰.md)<rt>ㄙ⼶˙</rt></ruby>
 - how
 - why
 - what : <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>
 - which
 
 ## Words about Grammar
-- noun <ruby>[名詞](../words/名詞.md)<rt>ㄇㄧㄥㄙㄚ</rt></ruby>
-- verb <ruby>[動詞](../words/動詞.md)<rt>ㄉㄛㄥㄙㄚ</rt></ruby>
-	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄚㄉㄛㄥㄙㄚ</rt></ruby>
-	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧ˙ㄉㄛㄥㄙㄚ</rt></ruby>
+- noun <ruby>[名詞](../words/名詞.md)<rt>ㄇㄧㄫㄙㄚ</rt></ruby>
+- verb <ruby>[動詞](../words/動詞.md)<rt>ㄉㄛㄫㄙㄚ</rt></ruby>
+	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄚㄉㄛㄫㄙㄚ</rt></ruby>
+	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧ˙ㄉㄛㄫㄙㄚ</rt></ruby>
 - adjective
 - gender
 - case
@@ -100,7 +100,7 @@ _the_ and _a_ are not part of Dan'a'yo
 - grammar
 - dialect
 - accusative
-- dative (case) <ruby>[与格](../words/与格.md)<rt>˙ㄛㄍㄚㄎ</rt></ruby>
+- dative (case) <ruby>[与格](../words/与格.md)<rt>⼄ㄍㄚㄎ</rt></ruby>
 - alphabet
 	- [[文字]] = writing system
 	- [[字母]] = letter

@@ -27,7 +27,7 @@ mc_id: 4813
 graphemic_classification: 㕣
 stand_in: 沿
 aliases:
-注音: ˇㄝㄇ
+注音: ⼔ㄇ
 tags:
   - character
 ---

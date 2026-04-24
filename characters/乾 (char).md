@@ -29,7 +29,7 @@ graphemic_classification: 倝
 stand_in: 乾
 aliases:
 - 干
-注音: ㄍ˙ㄝㄋ
+注音: ㄍ⼶ㄋ
 tags:
   - character
 ---

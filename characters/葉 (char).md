@@ -28,7 +28,7 @@ graphemic_classification: 枼
 stand_in: 葉
 aliases:
   - 叶
-注音: ˙ㄛㄆ
+注音: ⼄ㄆ
 tags:
   - character
 ---

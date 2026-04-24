@@ -27,7 +27,7 @@ graphemic_classification: "尚"
 stand_in: "賞"
 aliases:
   - 赏
-注音: "ㄙ˙ㄚㄥ"
+注音: "ㄙ⼘ㄫ"
 tags:
   - character
 ---

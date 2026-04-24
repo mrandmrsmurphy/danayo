@@ -27,7 +27,7 @@ mc_id: 3621
 graphemic_classification: "宛"
 stand_in: "腕"
 aliases:
-注音: "ˇㄚㄋ"
+注音: "ㆼㄋ"
 tags:
   - character
 ---

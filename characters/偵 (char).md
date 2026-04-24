@@ -27,7 +27,7 @@ graphemic_classification: "貞"
 stand_in: "偵"
 aliases:
   - 侦
-注音: "ㄊㄧㄥ"
+注音: "ㄊㄧㄫ"
 tags:
   - character
 ---

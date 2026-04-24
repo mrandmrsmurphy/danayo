@@ -31,7 +31,7 @@ mc_id: 291
 graphemic_classification: 寺
 stand_in: 等
 aliases:
-注音: ㄉㄨㄥ
+注音: ㄉㄨㄫ
 date-last-perfect: 2026-04-04
 kwin: true
 tags:
@@ -46,7 +46,7 @@ tags:
 - There were two pronunciations in MC: /tʌi/ and /təŋ/
 - 形声 (OC \*tɯːʔ, \*tɯːŋʔ): semantic [竹](Radical%20118) (“bamboo”) + phonetic [寺](寺.md) (OC \*ljɯs).
 - [SKIP-2-6-6](../lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 291st most used character in Classical Chinese.  [[聲 端|Initial t]] + [[韻 登開|əŋ]] = [ㄉㄨㄥ](../syllables/ㄉㄨㄥ.md)
+- 291st most used character in Classical Chinese.  [[聲 端|Initial t]] + [[韻 登開|əŋ]] = [ㄉㄨㄫ](../syllables/ㄉㄨㄫ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
 
 

@@ -30,7 +30,7 @@ graphemic_classification: 同
 stand_in: 銅
 aliases:
   - 铜
-注音: ㄉㄛㄥ
+注音: ㄉㄛㄫ
 tags:
   - character
 ---

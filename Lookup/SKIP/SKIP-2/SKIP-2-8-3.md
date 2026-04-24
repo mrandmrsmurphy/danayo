@@ -8,13 +8,13 @@ skip_number: 2-8-3
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 - <ruby>[[啓]]<rt>ㄎㄝ˙</rt></ruby> - open
-- <ruby>[[堂]]<rt>ㄉㄚㄥ</rt></ruby> - meeting hall
+- <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> - meeting hall
 - <ruby>[[堕]]<rt>ㄙㄨ˙</rt></ruby> - degenerate, corrupted
 - <ruby>[[娶]]<rt>ㄑㄨ </rt></ruby> - marry
 - <ruby>[[婁]]<rt>ㄌㄨ </rt></ruby> - wear, bond
 - <ruby>[[婆]]<rt>ㄅㄚ </rt></ruby> - granny (paternal)
 - <ruby>[[彗]]<rt>ㄏㄝ </rt></ruby> - comet
-- <ruby>[[雪 (char)|雪]]<rt>ㄙˇㄝㄊ</rt></ruby> - snow
+- <ruby>[[雪 (char)|雪]]<rt>ㄙ⼔ㄊ</rt></ruby> - snow
 
 ### Data double check
 ```dataview

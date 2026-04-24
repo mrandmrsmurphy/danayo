@@ -27,7 +27,7 @@ mc_id: 6746
 graphemic_classification: "午"
 stand_in: "卸"
 aliases:
-注音: "ㄙ˙ㄚ"
+注音: "ㄙ⼘"
 tags:
   - character
 ---

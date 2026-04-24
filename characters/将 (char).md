@@ -35,7 +35,7 @@ aliases:
   - 𨪙
   - 漿
   - 浆
-注音: "ㄐˇㄚㄥ"
+注音: "ㄐㆼㄫ"
 tags:
   - character
 ---

@@ -16,16 +16,16 @@ stroke_count: 2
 4. <ruby>[匕](characters/匕.md)<rt>ㄆㄧ˙</rt></ruby> - spoon (3-1-1)
 5. <ruby>[刀](characters/刀.md)<rt>ㄊㄚˇ</rt></ruby> - blade (3-1-1)
 #### 4-2-1
-6. <ruby>[丁](characters/丁%20(char).md)<rt>ㄉㄝㄥ</rt></ruby> - fourthly
+6. <ruby>[丁](characters/丁%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - fourthly
 7. <ruby>[又](../../characters/又%20(char).md)<rt>ㄨˇ</rt></ruby> - or again
-8. <ruby>[了](words/了.md)<rt>ㄌ˙ㄚˇ</rt></ruby> - "over"
+8. <ruby>[了](words/了.md)<rt>ㄌ⼘ˇ</rt></ruby> - "over"
 #### 4-2-2
 9. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven
 #### 4-2-3
 10. <ruby>[十](../../characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten
 #### 4-2-4
-11. <ruby>[乂](characters/乂.md)<rt>˙ㄚ˙</rt></ruby> - govern
-12. <ruby>[九](characters/九%20(char).md)<rt>ㄎ˙ㄨ</rt></ruby> - nine
+11. <ruby>[乂](characters/乂.md)<rt>⼘˙</rt></ruby> - govern
+12. <ruby>[九](characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - nine
 13. <ruby>[人](../../characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
 14. <ruby>[入](../../characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
 15. <ruby>[力](../../characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power

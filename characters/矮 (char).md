@@ -27,7 +27,7 @@ mc_id: 9899
 graphemic_classification: "委"
 stand_in: "矮"
 aliases:
-注音: "ˇㄚ˙"
+注音: "ㆼ˙"
 tags:
   - character
 ---

@@ -26,7 +26,7 @@ stand_in: 駅
 aliases:
   - 驛
   - 驿
-注音: ˙ㄝㄎ
+注音: ⼶ㄎ
 tags:
   - character
 ---

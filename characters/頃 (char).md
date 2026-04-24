@@ -30,7 +30,7 @@ graphemic_classification: 匕
 stand_in: 頃
 aliases:
   - 顷
-注音: ㄎㄝㄥ
+注音: ㄎㄝㄫ
 tags:
   - character
 ---

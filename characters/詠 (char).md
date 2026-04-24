@@ -19,7 +19,7 @@ english:
   - chant
 羅馬字: "'wing"
 韓文: "윙"
-注音: "ˇㄧㄥ"
+注音: "ˇㄧㄫ"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

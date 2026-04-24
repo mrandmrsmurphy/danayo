@@ -29,7 +29,7 @@ graphemic_classification: 象形
 stand_in: 曽
 aliases:
   - 曾
-注音: ㄐㄜㄥ
+注音: ㄐㄜㄫ
 tags:
   - character
 ---

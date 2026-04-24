@@ -8,7 +8,7 @@ skip_number: 3-5-4
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-1. <ruby>[疫](/characters/疫.md)<rt>˙ㄝㄎ</rt></ruby> - plague
+1. <ruby>[疫](/characters/疫.md)<rt>⼶ㄎ</rt></ruby> - plague
 
 ## Datacheck
 ```dataview

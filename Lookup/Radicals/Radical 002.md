@@ -14,11 +14,11 @@ radical: 丨
 -  个 -> 個
 - forbidden 㐃
 ### +3 Strokes
-1. <ruby>[中](../../characters/中%20(char).md)<rt>ㄐㄨㄥ</rt></ruby> - center
+1. <ruby>[中](../../characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> - center
 - 丰-->豊
 - 书-->書
 ### +6 Strokes
-2. <ruby>[串](../../characters/串%20(char).md)<rt>ㄐˇㄚㄋ</rt></ruby> - skewer
+2. <ruby>[串](../../characters/串%20(char).md)<rt>ㄐㆼㄋ</rt></ruby> - skewer
 ### +7 Strokes
 - 丳-->串
 ### +8 Strokes

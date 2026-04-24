@@ -27,7 +27,7 @@ mc_id: 3256
 graphemic_classification: "會意"
 stand_in: "隼"
 aliases:
-注音: "ㄙ˙ㄨㄥ"
+注音: "ㄙ⼜ㄫ"
 tags:
   - character
 ---

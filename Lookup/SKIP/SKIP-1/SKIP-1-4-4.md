@@ -51,9 +51,9 @@ skip_number: 1-4-4
 - <ruby>[[版]]<rt>판</rt></ruby>
 - <ruby>[[牧]]<rt>ㄇㄛㄎ</rt></ruby>
 - <ruby>[[物 (char)]]<rt>ㄇㄨㄊ</rt></ruby>
-- <ruby>[[玩]]<rt>ˇㄚㄋ</rt></ruby>
-- <ruby>[[所]]<rt>ㄙ˙ㄛ</rt></ruby>
-- <ruby>[[放]]<rt>ㄈㄚㄥ</rt></ruby>
+- <ruby>[[玩]]<rt>ㆼㄋ</rt></ruby>
+- <ruby>[[所]]<rt>ㄙ⼄</rt></ruby>
+- <ruby>[[放]]<rt>ㄈㄚㄫ</rt></ruby>
 - <ruby>[於](characters/于%20(char).md)<rt>ㄛ</rt></ruby>
 - <ruby>[[欣]]<rt>ㄏㄧㄋ</rt></ruby>
 

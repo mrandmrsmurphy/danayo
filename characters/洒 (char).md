@@ -30,7 +30,7 @@ graphemic_classification: 麗
 stand_in: 洒
 aliases:
 - 灑
-注音: ㄙˇㄚ˙
+注音: ㄙㆼ˙
 tags:
   - character
 ---

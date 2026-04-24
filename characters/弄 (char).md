@@ -27,7 +27,7 @@ mc_id: 2397
 graphemic_classification: 會意
 stand_in: 弄
 aliases:
-注音: ㄌㄛㄥ
+注音: ㄌㄛㄫ
 tags:
   - character
 kwin: true

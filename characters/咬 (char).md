@@ -38,7 +38,7 @@ aliases:
   - 囓
   - 啮
   - 𪘂
-注音: ˙ㄚˇ
+注音: ⼘ˇ
 swadesh: 94
 date-last-perfect: 2026-02-17
 品詞: 事詞
@@ -53,5 +53,5 @@ tags:
 ```
 
 # Notes
-- [[Radical 030|口]] + [[交 (char)]] = [[SKIP-1-3-6]] ([[Stroke 09]]) - [[˙ㄚˇ]]
+- [[Radical 030|口]] + [[交 (char)]] = [[SKIP-1-3-6]] ([[Stroke 09]]) - [[⼘ˇ]]
 - [[Hyōgai]], [[Korean Name ㄱ]], HSK 2, [[Grade 6]]

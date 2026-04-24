@@ -47,9 +47,9 @@ tags:
 - <ruby>[呼](words/呼.md)<rt>ㄏㄛ</rt></ruby> - call, shout, exhale
 - <ruby>[呼吸](words/呼吸.md)<rt>ㄏㄛㄏㄧㄆ</rt></ruby> - breathe
 - <ruby>[呼吸器](words/呼吸器.md)<rt>ㄏㄛㄏㄧㄆㄎㄧ˙</rt></ruby> - respirator, ventilator
-- <ruby>[呼喚](words/呼喚.md)<rt>ㄏㄛㄏˇㄚㄋ</rt></ruby> shout, cry to
+- <ruby>[呼喚](words/呼喚.md)<rt>ㄏㄛㄏㆼㄋ</rt></ruby> shout, cry to
 - <ruby>[呼格](words/呼格.md)<rt>ㄏㄛㄍㄚㄎ</rt></ruby> vocative case
-- <ruby>[歓呼](words/歓呼.md)<rt>ㄏˇㄚㄋㄏㄛ</rt></ruby> hail, cheer
+- <ruby>[歓呼](words/歓呼.md)<rt>ㄏㆼㄋㄏㄛ</rt></ruby> hail, cheer
 
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

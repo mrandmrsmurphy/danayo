@@ -28,7 +28,7 @@ graphemic_classification: "會意"
 stand_in: "興"
 aliases:
   - 兴
-注音: "ㄏㄜㄥ"
+注音: "ㄏㄜㄫ"
 tags:
   - character
 ---
