@@ -47,7 +47,8 @@ tags:
 ## Words
 * [[軽歌劇]] light opera
 * [[軽金属]] light metals
-* [[words/軽銀]] aluminium
+* [[軽銀]] aluminium
+* [[軽素]] hydrogen, abbreviated 軽
 * [[軽罪]] misdemeanor
 * [[軽視]] distain
 * [[軽重]] light and heavy
