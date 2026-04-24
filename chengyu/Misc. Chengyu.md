@@ -13,7 +13,7 @@ tags:
 - <ruby>[一期一会](chengyu/一期一会.md)<rt>ㄧㄜㄎㄧ·ㄧㄊㄏ⼔</rt></ruby>  - one lifetime, one meeting
 - <ruby>[一目瞭然](chengyu/一目瞭然.md)<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> - obvious
 - <ruby>[八紘一宇](chengyu/八紘一宇.md)<rt>ㄅㄚㄊㄏ⼔ㄫ·ㄧㄊ·ㄨ</rt></ruby> - Manifest Destiny
-- <ruby>[一石二鳥](chengyu/一石二鳥.md)<rt>ㄧㄊㄙㄝㄎㄋ˙ㄧㄑㄛㄨ</rt></ruby> - two birds with one stone
+- <ruby>[一石二鳥](chengyu/一石二鳥.md)<rt>ㄧㄊㄙㄝㄎㄋㄧㄑㄛㄨ</rt></ruby> - two birds with one stone
 - <ruby>[日月星辰](chengyu/日月星辰.md)<rt>ㄋㄧㄊ·⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> - Sun, moon, stars, constellations
 - <ruby>[一触即発](chengyu/一触即発.md)<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> - touch and go
 - <ruby>[鶏鳴狗盗](chengyu/鶏鳴狗盗.md)<rt>ㄍㄝㄧㄇ⼶ㄫㄍㄛㄨㄉㄚㄨ</rt></ruby> - bad people use dirty tricks

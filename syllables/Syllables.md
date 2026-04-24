@@ -13,11 +13,11 @@ Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 
 - w on-glide may not have a w off-glide, except ㆼㄨ.
 - w on-glide may not go with an initial labial (ㄅ, ㄆ, or ㄇ)
-- No ㄝ-vowel may have a ˇ off-glide
-- ˙ on-glide may not have a ˙ off-glide, except for velars (ㄍ, ㄎ, ㄫ, ㄏ) + ㄚ/ㄝ and ㄙ⼶ㄧ
-- ㄉ and ㄊ may not have a ˙ or ˇ on-glide, except for the ㄉ⼔-series
-- ㄐ and ㄑ may not have a ˙ or ˇ on-glide, except for the ㄐㆼ and ㄐ⼔-series
-- ㄋ and ㄌ may not have a ˇ on-glide
+- No ㄝ-vowel may have a w off-glide
+- y on-glide may not have a y off-glide, except for velars (ㄍ, ㄎ, ㄫ, ㄏ) + ㄚ/ㄝ and ㄙ⼶ㄧ
+- ㄉ and ㄊ may not have a y or w on-glide, except for the ㄉ⼔-series
+- ㄐ and ㄑ may not have a y or w on-glide, except for the ㄐㆼ and ㄐ⼔-series
+- ㄋ and ㄌ may not have a w on-glide
 
 
 Many, many examples with final -ㄆ,-ㄊ,-ㄎ,-ㄋ,-ㄇ, -ㄫ do not exist, but are not technically forbidden.  
@@ -110,7 +110,7 @@ Many, many examples with final -ㄆ,-ㄊ,-ㄎ,-ㄋ,-ㄇ, -ㄫ do not exist, but 
 - ㄍ : [[ㄍㄧ]], [[ㄍㄧㄜ]], [[ㄍㄧㄆ]], [[ㄍㄧㄊ]], [[ㄍㄧㄎ]], [[ㄍㄧㄇ]], [[ㄍㄧㄋ]], [[ㄍㄧㄫ]]
 - ㄎ : [[ㄎㄧ]], [[ㄎㄧㄜ]], [[ㄎㄧㄆ]], [[ㄎㄧㄊ]], [[ㄎㄧㄎ]], [[ㄎㄧㄇ]], [[ㄎㄧㄋ]], [[ㄎㄧㄫ]]
 - · : [[ㄧ]], [[ㄧㄜ]], [[ㄧㄆ]], [[ㄧㄊ]], [[ㄧㄎ]], [[ㄧㄇ]], [[ㄧㄋ]], [[ㄧㄫ]]
-- ˇ : [[ㄨㄧ]], --- , ㄨㄧㄆ, ㄨㄧㄊ, [[ㄨㄧㄎ]], ㄨㄧㄇ, ㄨㄧㄋ, [[ㄨㄧㄫ]]
+- ㄨ : [[ㄨㄧ]], --- , ㄨㄧㄆ, ㄨㄧㄊ, [[ㄨㄧㄎ]], ㄨㄧㄇ, ㄨㄧㄋ, [[ㄨㄧㄫ]]
 - ㄏ : [[ㄏㄧ]], [[ㄏㄧㄜ]], [[ㄏㄧㄆ]], [[ㄏㄧㄊ]], [[ㄏㄧㄎ]], [[ㄏㄧㄇ]], [[ㄏㄧㄋ]], [[ㄏㄧㄫ]]
 ## O vowels
 ### ㄛ series
