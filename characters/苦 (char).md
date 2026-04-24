@@ -39,7 +39,8 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-
+1. bitter
+2. abbreviation for "magnesium" 
 ## Words
 * [[苦瓜]] bitter melon
 * [[苦役]] hard labor
@@ -48,4 +49,4 @@ tags:
 * [[苦悩]] to agonize over
 * [[刻苦]] industrious, frugal
 * [[苦味]] bitter
-* <ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby> - magnesium
+* <ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby> - magnesium 
