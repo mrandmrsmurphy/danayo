@@ -1,36 +1,37 @@
 ---
-mandarin: "xìng"
+mandarin: xìng
 cantonese: hing1
-korean: "흥"
-korean_native: "일"
+korean: 흥
+korean_native: 일
 japanese:
   - KYOU
   - KOU
 japanese_nanori: ""
 vietnamese:
 middle_chinese_initial: x
-middle_chinese_final: "ɨŋ"
+middle_chinese_final: ɨŋ
 stroke_count: 16
-radical: "臼"
+radical: 臼
 skip_number: 2-14-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - entertain
-羅馬字: "hǝng"
-韓文: "흥"
-joyo_level: 5
-hsk_level: 1
-hanmun_edu_level: "中"
+羅馬字: hǝng
+韓文: 흥
+joyo_level: "5"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 2209
 mc_id: 315
-graphemic_classification: "會意"
-stand_in: "興"
+graphemic_classification: 會意
+stand_in: 興
 aliases:
   - 兴
-注音: "ㄏㄜㄫ"
+注音: ㄏㄜㄫ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 興.
 >For the word, see [興](words/興.md)
