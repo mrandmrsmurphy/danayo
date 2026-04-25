@@ -5,8 +5,11 @@ korean: "대"
 korean_native: "일"
 japanese:
   - TAI
-japanese_native: いただ
+japanese_nanori: ""
 vietnamese:
+  - dải
+  - trải
+  - đái
 middle_chinese_initial: t
 middle_chinese_final: "ʌi"
 stroke_count: 17

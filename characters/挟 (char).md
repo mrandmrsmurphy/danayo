@@ -6,8 +6,10 @@ korean_native: 낄
 japanese:
 - KYOU
 - SHOU
-japanese_native: はさ
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - giáp
+  - hiệp
 middle_chinese_initial: ɣ
 middle_chinese_final: ep
 stroke_count: 9

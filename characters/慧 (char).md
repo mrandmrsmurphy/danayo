@@ -6,8 +6,10 @@ korean_native: "슬기로울"
 japanese:
   - KEI
   - E
-japanese_native: さとい
+japanese_nanori: ""
 vietnamese:
+  - huệ
+  - tuệ
 middle_chinese_initial: "ɣ"
 middle_chinese_final: wei
 stroke_count: 15

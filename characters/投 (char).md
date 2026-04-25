@@ -5,8 +5,10 @@ korean: "투"
 korean_native: "던질"
 japanese:
   - TOU
-japanese_native: な
+japanese_nanori: ""
 vietnamese:
+  - nhầu
+  - đầu
 middle_chinese_initial: d
 middle_chinese_final: "əu"
 stroke_count: 7

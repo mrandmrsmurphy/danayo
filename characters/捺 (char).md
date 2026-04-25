@@ -6,8 +6,11 @@ korean_native: "누를"
 japanese:
   - NATSU
   - DATSU
-japanese_native: さ
+japanese_nanori: ""
 vietnamese:
+  - nài
+  - nại
+  - nậy
 middle_chinese_initial: n
 middle_chinese_final: "ɑt"
 stroke_count: 11

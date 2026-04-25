@@ -6,8 +6,10 @@ korean_native: "혹"
 japanese:
   - WAKU
   - IKI
-japanese_native: あ
+japanese_nanori: ""
 vietnamese:
+  - hoắc
+  - hoặc
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "wək"
 stroke_count: 8

@@ -7,8 +7,13 @@ japanese:
   - FUTSU
   - HOTSU
   - HITSU
-japanese_native: はら
+japanese_nanori: ""
 vietnamese:
+  - phất
+  - phắt
+  - phớt
+  - phứt
+  - phựt
 middle_chinese_initial: fʰ
 middle_chinese_final: ɨut
 stroke_count: 8

@@ -6,8 +6,12 @@ korean_native: "도울"
 japanese:
   - FU
   - HO
-japanese_native: たす
+japanese_nanori: ""
 vietnamese:
+  - hùa
+  - phò
+  - phù
+  - vùa
 middle_chinese_initial: v
 middle_chinese_final: "ɨo"
 stroke_count: 7

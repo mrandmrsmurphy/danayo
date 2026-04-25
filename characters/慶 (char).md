@@ -6,8 +6,10 @@ korean_native: "경사"
 japanese:
   - KEI
   - KYOU
-japanese_native: よろこ
+japanese_nanori: ""
 vietnamese:
+  - khánh
+  - khương
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣiæŋ"
 stroke_count: 15

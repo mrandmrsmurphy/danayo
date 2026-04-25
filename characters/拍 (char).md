@@ -6,8 +6,13 @@ korean_native: "칠"
 japanese:
   - HAKU
   - HYOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - phách
+  - phạch
+  - phếch
+  - phệch
+  - vạch
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "ɣæk"
 stroke_count: 8

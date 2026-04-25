@@ -5,8 +5,21 @@ korean: 진
 korean_native: 떨칠
 japanese:
   - SHIN
-japanese_native: ふ
+japanese_nanori: ""
 vietnamese:
+  - chan
+  - chán
+  - chạn
+  - chấn
+  - chận
+  - chắn
+  - chẵn
+  - chặn
+  - dấn
+  - nấn
+  - sán
+  - xán
+  - xắn
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: iɪn
 stroke_count: 10

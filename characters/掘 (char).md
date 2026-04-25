@@ -6,8 +6,15 @@ korean_native: "팔"
 japanese:
   - KUTSU
   - KOTSU
-japanese_native: ほ
+japanese_nanori: ""
 vietnamese:
+  - oặt
+  - quát
+  - quạt
+  - quất
+  - quật
+  - quặt
+  - quịt
 middle_chinese_initial: g
 middle_chinese_final: "ɨut"
 stroke_count: 11

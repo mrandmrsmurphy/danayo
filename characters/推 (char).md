@@ -5,8 +5,14 @@ korean: "추"
 korean_native: "밀"
 japanese:
   - SUI
-japanese_native: お
+japanese_nanori: ""
 vietnamese:
+  - chui
+  - suy
+  - thoi
+  - thòi
+  - thôi
+  - tòi
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "iuɪ"
 stroke_count: 11

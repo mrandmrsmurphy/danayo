@@ -5,8 +5,13 @@ korean: "포"
 korean_native: "잡을"
 japanese:
   - HO
-japanese_native: と
+japanese_nanori: ""
 vietnamese:
+  - buả
+  - bõ
+  - bố
+  - bổ
+  - bủa
 middle_chinese_initial: b
 middle_chinese_final: uo
 stroke_count: 10

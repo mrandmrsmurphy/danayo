@@ -5,8 +5,23 @@ korean: "급"
 korean_native: "미칠"
 japanese:
   - SOU
-japanese_native: あつか
+japanese_nanori: ""
 vietnamese:
+  - chắp
+  - chặp
+  - cắp
+  - cặp
+  - dập
+  - ghép
+  - gấp
+  - gắp
+  - gặp
+  - kẹp
+  - rấp
+  - tráp
+  - vập
+  - đập
+  - đắp
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɣɛp"
 stroke_count: 6

@@ -6,8 +6,27 @@ korean_native: 끌
 japanese:
   - RATSU
   - ROU
-japanese_native: らっ
+japanese_nanori: ""
 vietnamese:
+  - dập
+  - giập
+  - loạt
+  - láp
+  - lạp
+  - lấp
+  - lắp
+  - lọp
+  - lớp
+  - lợp
+  - ráp
+  - rấp
+  - rập
+  - rắp
+  - sắp
+  - sụp
+  - xập
+  - xệp
+  - đập
 middle_chinese_initial: l
 middle_chinese_final: ʌp
 stroke_count: 8

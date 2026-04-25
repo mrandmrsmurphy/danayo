@@ -6,8 +6,9 @@ korean_native: 근심할
 japanese:
   - BIN
   - MIN
-japanese_native: あわれ
+japanese_nanori: ""
 vietnamese:
+  - mẫn
 middle_chinese_initial: m
 middle_chinese_final: ɣiɪn
 stroke_count: 15

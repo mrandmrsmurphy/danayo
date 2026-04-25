@@ -5,8 +5,9 @@ korean: 거
 korean_native: 들
 japanese:
   - KYO
-japanese_native: あ
+japanese_nanori: ""
 vietnamese:
+  - cử
 middle_chinese_initial: k
 middle_chinese_final: ɨʌ
 stroke_count: 10

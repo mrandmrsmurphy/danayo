@@ -5,8 +5,10 @@ korean: "봉"
 korean_native: "받들"
 japanese:
   - HOU
-japanese_native: ささ
+japanese_nanori: ""
 vietnamese:
+  - bồng
+  - bổng
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "ɨoŋ"
 stroke_count: 11

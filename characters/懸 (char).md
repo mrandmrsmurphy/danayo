@@ -6,8 +6,9 @@ korean_native: "달"
 japanese:
   - KEN
   - KE
-japanese_native: か
+japanese_nanori: ""
 vietnamese:
+  - huyền
 middle_chinese_initial: "ɣ"
 middle_chinese_final: wen
 stroke_count: 20

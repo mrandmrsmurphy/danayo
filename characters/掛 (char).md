@@ -6,8 +6,16 @@ korean_native: "걸"
 japanese:
   - KA
   - KAI
-japanese_native: か
+japanese_nanori: ""
 vietnamese:
+  - khoải
+  - quai
+  - quải
+  - quảy
+  - quấy
+  - quẩy
+  - quẫy
+  - quậy
 middle_chinese_initial: k
 middle_chinese_final: "ɣuɛ"
 stroke_count: 11

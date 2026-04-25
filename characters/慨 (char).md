@@ -6,8 +6,10 @@ korean_native: 분개할
 japanese:
   - GAI
   - KAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khái
+  - khới
 middle_chinese_initial: kʰ
 middle_chinese_final: ʌi
 stroke_count: 13

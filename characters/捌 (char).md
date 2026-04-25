@@ -7,8 +7,12 @@ japanese:
   - HATSU
   - HACHI
   - BETSU
-japanese_native: さば
+japanese_nanori: ""
 vietnamese:
+  - bát
+  - bít
+  - bắt
+  - bịt
 middle_chinese_initial: p
 middle_chinese_final: "ɣɛt"
 stroke_count: 10

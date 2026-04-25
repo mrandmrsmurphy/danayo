@@ -5,8 +5,9 @@ korean: "사"
 korean_native: "버릴"
 japanese:
   - SHA
-japanese_native: す
+japanese_nanori: ""
 vietnamese:
+  - xả
 middle_chinese_initial: "ɕ"
 middle_chinese_final: ia
 stroke_count: 11

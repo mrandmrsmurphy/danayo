@@ -5,8 +5,12 @@ korean: "공"
 korean_native: ""
 japanese:
   - KYOU
-japanese_native: こまぬ
+japanese_nanori: ""
 vietnamese:
+  - cõng
+  - cùng
+  - cũng
+  - củng
 middle_chinese_initial: k
 middle_chinese_final: ɨoŋ
 stroke_count: 9
