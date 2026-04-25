@@ -5,8 +5,12 @@ korean: "최"
 korean_native: "재촉할"
 japanese:
   - SAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thoi
+  - thui
+  - thòi
+  - thôi
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "uʌi"
 stroke_count: 13

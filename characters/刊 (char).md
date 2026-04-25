@@ -5,8 +5,10 @@ korean: "간"
 korean_native: "책 펴낼"
 japanese:
   - KAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khan
+  - san
 middle_chinese_initial: kʰ
 middle_chinese_final: ɑn
 stroke_count: 5

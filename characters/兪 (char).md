@@ -7,6 +7,7 @@ japanese:
   - YU
 japanese_native: ""
 vietnamese:
+  - dũ
 middle_chinese_initial: j
 middle_chinese_final: ɨo
 stroke_count: 9

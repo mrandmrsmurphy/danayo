@@ -5,8 +5,9 @@ korean: "요"
 korean_native: "오목할"
 japanese:
   - OU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - ao
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɑu"
 stroke_count: 5

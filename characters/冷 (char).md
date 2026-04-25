@@ -5,8 +5,18 @@ korean: 랭
 korean_native: 찰
 japanese:
   - REI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - linh
+  - liểng
+  - lành
+  - lãnh
+  - lênh
+  - lạnh
+  - lảnh
+  - lểnh
+  - rãnh
+  - rảnh
 middle_chinese_initial: l
 middle_chinese_final: ɣæŋ
 stroke_count: 7

@@ -5,8 +5,14 @@ korean: "획"
 korean_native: "그을"
 japanese:
   - KAKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - dạch
+  - gạch
+  - hoa
+  - hoạch
+  - vạch
+  - đạch
 middle_chinese_initial: x
 middle_chinese_final: "ɣwɛk"
 stroke_count: 14

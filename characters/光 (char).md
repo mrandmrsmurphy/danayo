@@ -5,8 +5,12 @@ korean: "광"
 korean_native: "빛"
 japanese:
   - KOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cuông
+  - quang
+  - quàng
+  - quăng
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "wɑŋ"
 stroke_count: 6

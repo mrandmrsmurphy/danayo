@@ -5,8 +5,11 @@ korean: 명
 korean_native: 어두울
 japanese:
   - MEI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - minh
+  - mênh
+  - mưng
 middle_chinese_initial: m
 middle_chinese_final: eŋ
 stroke_count: 10

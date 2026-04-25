@@ -5,8 +5,9 @@ korean: "두"
 korean_native: "투구"
 japanese:
   - TOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đâu
 middle_chinese_initial: d
 middle_chinese_final: "əu"
 stroke_count: 11

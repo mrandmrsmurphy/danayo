@@ -6,8 +6,12 @@ korean_native: 끊을
 japanese:
   - SETSU
   - SAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - siết
+  - thiếc
+  - thiết
+  - thướt
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: et
 stroke_count: 4

@@ -6,8 +6,12 @@ korean_native: "깎을"
 japanese:
   - SAKU
   - SHOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tước
+  - tướt
+  - tược
+  - tượt
 middle_chinese_initial: s
 middle_chinese_final: "ɨɐk"
 stroke_count: 11

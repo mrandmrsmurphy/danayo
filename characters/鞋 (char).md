@@ -16,7 +16,7 @@ stroke_count: 15
 radical: 革
 skip_number: 1-9-6
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - shoe
 羅馬字: hyai

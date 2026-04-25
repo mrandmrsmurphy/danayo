@@ -5,8 +5,9 @@ korean: "예"
 korean_native: "벨"
 japanese:
   - GAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - ngãi
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨɐi"
 stroke_count: 4

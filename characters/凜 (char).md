@@ -5,8 +5,9 @@ korean: "름"
 korean_native: "찰"
 japanese:
   - RIN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - lẫm
 middle_chinese_initial: l
 middle_chinese_final: "iɪm"
 stroke_count: 15

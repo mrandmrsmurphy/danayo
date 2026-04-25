@@ -6,8 +6,9 @@ korean_native: 거짓
 japanese:
   - GI
   - KA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - nguỵ
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣiuᴇ
 stroke_count: 11

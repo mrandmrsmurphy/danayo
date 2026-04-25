@@ -5,8 +5,10 @@ korean: "전"
 korean_native: "가위"
 japanese:
   - SEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tiễn
+  - tiện
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "iᴇn"
 stroke_count: 11

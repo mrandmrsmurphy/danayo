@@ -5,8 +5,13 @@ korean: "겸"
 korean_native: "겸할"
 japanese:
   - KEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - côm
+  - cồm
+  - kem
+  - kiêm
+  - kèm
 middle_chinese_initial: k
 middle_chinese_final: em
 stroke_count: 10

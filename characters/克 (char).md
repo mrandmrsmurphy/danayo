@@ -5,8 +5,9 @@ korean: 극
 korean_native: 이길
 japanese:
   - KOKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khắc
 middle_chinese_initial: kʰ
 middle_chinese_final: ək
 stroke_count: 7

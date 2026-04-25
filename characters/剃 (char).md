@@ -5,8 +5,10 @@ korean: "체"
 korean_native: "눈물"
 japanese:
   - TEI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thí
+  - thế
 middle_chinese_initial: "tʰ"
 middle_chinese_final: ei
 stroke_count: 9

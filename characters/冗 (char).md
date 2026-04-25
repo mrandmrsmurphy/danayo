@@ -5,8 +5,12 @@ korean: "용"
 korean_native: "한가로울"
 japanese:
   - JOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - nhõng
+  - nhùng
+  - nhũng
+  - nũng
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨoŋ"
 stroke_count: 4

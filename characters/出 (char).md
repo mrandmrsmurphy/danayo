@@ -6,8 +6,11 @@ korean_native: 날
 japanese:
   - SHUTSU
   - SUI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - xuất
+  - xọt
+  - xốt
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iuɪt
 stroke_count: 5

@@ -5,8 +5,14 @@ korean: "쇄"
 korean_native: "인쇄할"
 japanese:
   - SATSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - loát
+  - loét
+  - loạt
+  - loẹt
+  - nhoét
+  - soát
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣuat"
 stroke_count: 8

@@ -5,8 +5,10 @@ korean: "토"
 korean_native: "토끼"
 japanese:
   - TO
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thỏ
+  - thố
 middle_chinese_initial: "tʰ"
 middle_chinese_final: uo
 stroke_count: 8

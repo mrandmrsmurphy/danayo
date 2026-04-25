@@ -6,8 +6,12 @@ korean_native: "곁"
 japanese:
   - BOU
   - HOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bàng
+  - phàng
+  - phành
+  - vàng
 middle_chinese_initial: b
 middle_chinese_final: "ɑŋ"
 stroke_count: 12

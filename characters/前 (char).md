@@ -6,8 +6,10 @@ korean_native: "앞"
 japanese:
   - ZEN
   - SEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tiền
+  - tèn
 middle_chinese_initial: "d͡z"
 middle_chinese_final: en
 stroke_count: 9

@@ -8,6 +8,10 @@ japanese:
   - SHOU
 japanese_native: ""
 vietnamese:
+  - thừa
+  - thặng
+  - thắng
+  - thằng
 middle_chinese_initial: d͡ʑ
 middle_chinese_final: ɨŋ
 stroke_count: 12

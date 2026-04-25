@@ -5,8 +5,11 @@ korean: "정"
 korean_native: "염탐할"
 japanese:
   - TEI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - rình
+  - trinh
+  - triệng
 middle_chinese_initial: "ʈʰ"
 middle_chinese_final: "iᴇŋ"
 stroke_count: 11

@@ -5,8 +5,9 @@ korean: "철"
 korean_native: "볼록할"
 japanese:
   - TOTSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đột
 middle_chinese_initial: d
 middle_chinese_final: "uət"
 stroke_count: 5

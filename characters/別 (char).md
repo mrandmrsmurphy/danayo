@@ -6,8 +6,16 @@ korean_native: "나눌"
 japanese:
   - BETSU
   - BECHI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - biết
+  - biệt
+  - bét
+  - bít
+  - bẹt
+  - bết
+  - bệt
+  - bịt
 middle_chinese_initial: b
 middle_chinese_final: "ɣiᴇt"
 stroke_count: 7
