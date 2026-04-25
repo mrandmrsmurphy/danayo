@@ -6,8 +6,10 @@ korean_native: "벨"
 japanese:
   - ZAN
   - SAN
-japanese_native: き
+japanese_nanori: ""
 vietnamese:
+  - chém
+  - trảm
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɣɛm"
 stroke_count: 11

@@ -5,8 +5,11 @@ korean: "찰"
 korean_native: "문지를"
 japanese:
   - SATSU
-japanese_native: す
+japanese_nanori: ""
 vietnamese:
+  - sát
+  - xát
+  - xớt
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɣat"
 stroke_count: 17

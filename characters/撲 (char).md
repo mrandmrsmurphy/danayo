@@ -7,8 +7,13 @@ japanese:
   - BOKU
   - HAKU
   - HOKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - buộc
+  - phác
+  - phốc
+  - vọc
+  - vục
 middle_chinese_initial: "pʰ"
 middle_chinese_final: uk
 stroke_count: 15

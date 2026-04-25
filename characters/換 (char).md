@@ -5,8 +5,9 @@ korean: "환"
 korean_native: "바꿀"
 japanese:
   - KAN
-japanese_native: か
+japanese_nanori: ""
 vietnamese:
+  - hoán
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uɑn"
 stroke_count: 12

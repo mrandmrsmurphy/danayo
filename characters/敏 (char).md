@@ -6,8 +6,11 @@ korean_native: "민첩할"
 japanese:
   - BIN
   - MIN
-japanese_native: さとい
+japanese_nanori: ""
 vietnamese:
+  - mẩn
+  - mẫn
+  - mắn
 middle_chinese_initial: m
 middle_chinese_final: "ɣiɪn"
 stroke_count: 10

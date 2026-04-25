@@ -6,8 +6,9 @@ korean_native: 예
 japanese:
   - KYUU
   - GU
-japanese_native: ふる
+japanese_nanori: ""
 vietnamese:
+  - cựu
 middle_chinese_initial: g
 middle_chinese_final: ɨu
 stroke_count: 5

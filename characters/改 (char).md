@@ -5,8 +5,12 @@ korean: "개"
 korean_native: 고칠
 japanese:
   - KAI
-japanese_native: あらた
+japanese_nanori: ""
 vietnamese:
+  - cãi
+  - cải
+  - gởi
+  - gửi
 middle_chinese_initial: k
 middle_chinese_final: ʌi
 stroke_count: 7

@@ -5,8 +5,15 @@ korean: "양"
 korean_native: "날릴"
 japanese:
   - YOU
-japanese_native: あ
+japanese_nanori: ""
 vietnamese:
+  - dang
+  - duồng
+  - dàng
+  - dâng
+  - dương
+  - giàng
+  - nhàng
 middle_chinese_initial: j
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 12

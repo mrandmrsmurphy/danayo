@@ -6,8 +6,9 @@ korean_native: "이를"
 japanese:
   - SOU
   - SATSU
-japanese_native: はや
+japanese_nanori: ""
 vietnamese:
+  - tảo
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "ɑu"
 stroke_count: 6

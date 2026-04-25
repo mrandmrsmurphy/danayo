@@ -6,8 +6,11 @@ korean_native: "모을"
 japanese:
   - SATSU
   - SAI
-japanese_native: と
+japanese_nanori: ""
 vietnamese:
+  - duỗi
+  - toát
+  - tòi
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "uɑt"
 stroke_count: 15

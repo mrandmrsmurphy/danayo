@@ -6,8 +6,12 @@ korean_native: 말
 japanese:
   - TO
   - TOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tẩu
+  - điếu
+  - đấu
+  - đẩu
 middle_chinese_initial: t
 middle_chinese_final: ǝu
 stroke_count: 4

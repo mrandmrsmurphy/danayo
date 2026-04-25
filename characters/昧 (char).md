@@ -5,8 +5,10 @@ korean: "매"
 korean_native: "어두울"
 japanese:
   - MAI
-japanese_native: くら
+japanese_nanori: ""
 vietnamese:
+  - muội
+  - mội
 middle_chinese_initial: m
 middle_chinese_final: "ɑi"
 stroke_count: 9

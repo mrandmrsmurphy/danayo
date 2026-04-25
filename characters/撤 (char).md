@@ -5,8 +5,13 @@ korean: "철"
 korean_native: "거둘"
 japanese:
   - TETSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - triệt
+  - trê
+  - trẹt
+  - trệt
+  - trịt
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣiᴇt"
 stroke_count: 15

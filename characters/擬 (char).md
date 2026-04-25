@@ -5,8 +5,10 @@ korean: "의"
 korean_native: "헤아릴"
 japanese:
   - GI
-japanese_native: まが
+japanese_nanori: ""
 vietnamese:
+  - nghĩ
+  - nghỉ
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨ"
 stroke_count: 17

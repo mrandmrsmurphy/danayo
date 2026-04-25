@@ -7,8 +7,12 @@ japanese:
   - HETSU
   - HECHI
   - HEI
-japanese_native: ぬぐ
+japanese_nanori: ""
 vietnamese:
+  - phiết
+  - phét
+  - phết
+  - phệt
 middle_chinese_initial: pʰ
 middle_chinese_final: iᴇt
 stroke_count: 15

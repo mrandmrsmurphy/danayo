@@ -6,8 +6,12 @@ korean_native: "때"
 japanese:
   - JI
   - SHI
-japanese_native: とき
+japanese_nanori: ""
 vietnamese:
+  - thà
+  - thì
+  - thìa
+  - thời
 middle_chinese_initial: "ʑ"
 middle_chinese_final: "ɨ"
 stroke_count: 10

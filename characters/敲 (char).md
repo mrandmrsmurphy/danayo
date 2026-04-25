@@ -5,8 +5,11 @@ korean: "고"
 korean_native: "두드릴"
 japanese:
   - KOU
-japanese_native: たた
+japanese_nanori: ""
 vietnamese:
+  - sao
+  - xao
+  - xào
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣau"
 stroke_count: 14

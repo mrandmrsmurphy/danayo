@@ -5,8 +5,9 @@ korean: "작"
 korean_native: "어제"
 japanese:
   - SAKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tạc
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "ɑk"
 stroke_count: 9

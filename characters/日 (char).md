@@ -6,8 +6,12 @@ korean_native: 날
 japanese:
   - NICHI
   - JITSU
-japanese_native: ひ
+japanese_nanori: ""
 vietnamese:
+  - nhạt
+  - nhật
+  - nhặt
+  - nhựt
 middle_chinese_initial: ȵ
 middle_chinese_final: iɪt
 stroke_count: 4
