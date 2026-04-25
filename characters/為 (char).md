@@ -1,12 +1,14 @@
 ---
-mandarin: "wèi"
-cantonese: "wai4"
-korean: "위"
+mandarin: wèi
+cantonese: wai4
+korean: 위
 korean_native: 할
 japanese:
   - I
-japanese_nanori: ""
+japanese_nanori:
+  - さだ
 vietnamese:
+  - vi, vị, vĩ
 middle_chinese_initial: ø
 middle_chinese_final: ɣiuᴇ
 stroke_count: 9
@@ -16,8 +18,8 @@ grade_level: "3"
 pos: ""
 english:
   - namely
-羅馬字: "'wen"
-韓文: 원
+羅馬字: "'wi"
+韓文: 위
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -28,7 +30,7 @@ stand_in: 為
 aliases:
   - 爲
   - 为
-注音: ⼔ㄋ
+注音: ㄨㄧ
 tags:
   - character
 ---
