@@ -22,7 +22,7 @@ date-last-perfect: 2026-03-11
 ### +6
 - 兩–>両
 ### +7
-3. <ruby>[兪](characters/兪.md)<rt>⼜ㄇ</rt></ruby> - "emperor's consent"
+3. <ruby>[兪 (char)](../../characters/兪%20(char).md)<rt>⼜ㄇ</rt></ruby> - "emperor's consent"
 
 # Data search
 ```dataview
