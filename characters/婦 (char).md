@@ -5,8 +5,10 @@ korean: "부"
 korean_native: "며느리"
 japanese:
   - FU
-japanese_native: よめ
+japanese_nanori: ""
 vietnamese:
+  - phụ
+  - vợ
 middle_chinese_initial: v
 middle_chinese_final: "ɨu"
 stroke_count: 11

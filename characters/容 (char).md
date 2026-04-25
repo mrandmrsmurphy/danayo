@@ -5,8 +5,16 @@ korean: "용"
 korean_native: "얼굴"
 japanese:
   - YOU
-japanese_native: い
+japanese_nanori: ""
 vietnamese:
+  - dong
+  - dung
+  - dông
+  - gióng
+  - giông
+  - rung
+  - ròng
+  - rông
 middle_chinese_initial: j
 middle_chinese_final: "ɨoŋ"
 stroke_count: 10

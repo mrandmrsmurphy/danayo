@@ -5,8 +5,10 @@ korean: "자"
 korean_native: "윗누이"
 japanese:
   - SHI
-japanese_native: あね
+japanese_nanori: ""
 vietnamese:
+  - chị
+  - tỷ
 middle_chinese_initial: "t͡s"
 middle_chinese_final: ia
 stroke_count: 8

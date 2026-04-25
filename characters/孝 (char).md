@@ -6,8 +6,10 @@ korean_native: "효도"
 japanese:
   - KOU
   - KYOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hiếu
+  - hếu
 middle_chinese_initial: x
 middle_chinese_final: "ɣau"
 stroke_count: 7

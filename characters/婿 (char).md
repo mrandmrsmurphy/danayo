@@ -5,8 +5,10 @@ korean: "서"
 korean_native: "사위"
 japanese:
   - SEI
-japanese_native: むこ
+japanese_nanori: ""
 vietnamese:
+  - rể
+  - tế
 middle_chinese_initial: s
 middle_chinese_final: ei
 stroke_count: 12

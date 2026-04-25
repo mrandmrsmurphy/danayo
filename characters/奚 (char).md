@@ -5,8 +5,9 @@ korean: "해"
 korean_native: "어찌"
 japanese:
   - KEI
-japanese_native: なんぞ
+japanese_nanori: ""
 vietnamese:
+  - hề
 middle_chinese_initial: "ɣ"
 middle_chinese_final: ei
 stroke_count: 10

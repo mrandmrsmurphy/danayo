@@ -6,8 +6,13 @@ korean_native: "같을"
 japanese:
   - JO
   - NYO
-japanese_native: ごと
+japanese_nanori: ""
 vietnamese:
+  - dừ
+  - nhơ
+  - như
+  - nhừ
+  - rừ
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨʌ"
 stroke_count: 6

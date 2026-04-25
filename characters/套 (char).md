@@ -5,8 +5,10 @@ korean: "투"
 korean_native: "씌울"
 japanese:
   - TOU
-japanese_native: かさ
+japanese_nanori: ""
 vietnamese:
+  - sáo
+  - thạo
 middle_chinese_initial: t
 middle_chinese_final: "iᴇu"
 stroke_count: 10

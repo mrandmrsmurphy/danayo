@@ -5,8 +5,11 @@ korean: "낭"
 korean_native: "여자"
 japanese:
   - NYOU
-japanese_native: むすめ
+japanese_nanori: ""
 vietnamese:
+  - nàng
+  - nương
+  - nường
 middle_chinese_initial: "ɳ"
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 10

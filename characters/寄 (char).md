@@ -5,8 +5,13 @@ korean: "기"
 korean_native: "부칠"
 japanese:
   - KI
-japanese_native: よ
+japanese_nanori: ""
 vietnamese:
+  - gửi
+  - ké
+  - kí
+  - ký
+  - kẹ
 middle_chinese_initial: k
 middle_chinese_final: "ɣiᴇ"
 stroke_count: 11

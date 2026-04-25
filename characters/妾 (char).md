@@ -5,8 +5,10 @@ korean: "첩"
 korean_native: "첩"
 japanese:
   - SHOU
-japanese_native: めかけ
+japanese_nanori: ""
 vietnamese:
+  - thiếp
+  - thê
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iᴇp"
 stroke_count: 8

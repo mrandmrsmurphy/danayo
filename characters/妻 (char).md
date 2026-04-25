@@ -5,8 +5,10 @@ korean: "처"
 korean_native: "아내"
 japanese:
   - SAI
-japanese_native: つま
+japanese_nanori: ""
 vietnamese:
+  - thê
+  - thế
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: ei
 stroke_count: 8

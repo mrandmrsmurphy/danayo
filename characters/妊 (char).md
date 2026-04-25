@@ -6,8 +6,9 @@ korean_native: "임신할"
 japanese:
   - NIN
   - JIN
-japanese_native: はら
+japanese_nanori: ""
 vietnamese:
+  - nhâm
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iɪm"
 stroke_count: 7

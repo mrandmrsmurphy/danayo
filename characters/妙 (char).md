@@ -6,8 +6,15 @@ korean_native: "묘할"
 japanese:
   - MYOU
   - BYOU
-japanese_native: たえ
+japanese_nanori: ""
 vietnamese:
+  - diệu
+  - dìu
+  - díu
+  - dẹo
+  - dịu
+  - xẹo
+  - xệu
 middle_chinese_initial: m
 middle_chinese_final: "iᴇu"
 stroke_count: 7

@@ -5,8 +5,11 @@ korean: "위"
 korean_native: "맡길"
 japanese:
   - I
-japanese_native: ゆだ
+japanese_nanori: ""
 vietnamese:
+  - uế
+  - uể
+  - uỷ
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣiuᴇ"
 stroke_count: 8

@@ -5,8 +5,9 @@ korean: "오"
 korean_native: 깊을
 japanese:
   - OU
-japanese_native: おく
+japanese_nanori: ""
 vietnamese:
+  - áo
 middle_chinese_initial: ʔ
 middle_chinese_final: ɨuk
 stroke_count: 12

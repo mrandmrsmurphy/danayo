@@ -6,8 +6,9 @@ korean_native: "정실"
 japanese:
   - CHAKU
   - TEKI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đích
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɣæk"
 stroke_count: 14

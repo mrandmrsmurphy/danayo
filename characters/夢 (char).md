@@ -5,8 +5,15 @@ korean: "몽"
 korean_native: "꿈"
 japanese:
   - MU
-japanese_native: ゆめ
+japanese_nanori: ""
 vietnamese:
+  - muống
+  - mòng
+  - mọng
+  - mống
+  - mồng
+  - mộng
+  - mụn
 middle_chinese_initial: m
 middle_chinese_final: "ɨuŋ"
 stroke_count: 13

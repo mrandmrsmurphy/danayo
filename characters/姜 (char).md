@@ -5,8 +5,11 @@ korean: 강
 korean_native: ''
 japanese:
 - KYOU
-japanese_native: こう
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - cưng
+  - gừng
+  - khương
 middle_chinese_initial: k
 middle_chinese_final: ɨɐŋ
 stroke_count: 9

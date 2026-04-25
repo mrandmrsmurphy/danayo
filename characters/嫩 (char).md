@@ -7,8 +7,14 @@ japanese:
   - DON
   - NON
   - ZEN
-japanese_native: わか
+japanese_nanori: ""
 vietnamese:
+  - non
+  - nõn
+  - nọn
+  - nỏn
+  - nồn
+  - nộn
 middle_chinese_initial: n
 middle_chinese_final: "uən"
 stroke_count: 14

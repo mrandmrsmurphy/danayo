@@ -5,8 +5,13 @@ korean: "공"
 korean_native: "구멍"
 japanese:
   - KOU
-japanese_native: あな
+japanese_nanori: ""
 vietnamese:
+  - hỏng
+  - hổng
+  - khỏng
+  - khổng
+  - khủng
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uŋ"
 stroke_count: 4

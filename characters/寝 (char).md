@@ -5,8 +5,9 @@ korean: "침"
 korean_native: 잠잘
 japanese:
   - SHIN
-japanese_native: ね
+japanese_nanori: ""
 vietnamese:
+  - tẩm
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iɪm
 stroke_count: 13
