@@ -5,8 +5,9 @@ korean: "순"
 korean_native: "돌"
 japanese:
   - JUN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tuần
 middle_chinese_initial: z
 middle_chinese_final: "iuɪn"
 stroke_count: 12

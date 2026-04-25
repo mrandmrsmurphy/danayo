@@ -5,8 +5,11 @@ korean: "범"
 korean_native: "돛"
 japanese:
   - HAN
-japanese_native: ほ
+japanese_nanori: ""
 vietnamese:
+  - buồm
+  - buồng
+  - phàm
 middle_chinese_initial: v
 middle_chinese_final: "ɨɐm"
 stroke_count: 6

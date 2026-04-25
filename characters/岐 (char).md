@@ -6,8 +6,9 @@ korean_native: "갈림길"
 japanese:
   - KI
   - GI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - kì
 middle_chinese_initial: g
 middle_chinese_final: "iᴇ"
 stroke_count: 7

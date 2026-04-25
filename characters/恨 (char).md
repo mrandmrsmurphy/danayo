@@ -5,8 +5,12 @@ korean: "한"
 korean_native: "한할"
 japanese:
   - KON
-japanese_native: うら
+japanese_nanori: ""
 vietnamese:
+  - giận
+  - hận
+  - hằn
+  - hờn
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ən"
 stroke_count: 9

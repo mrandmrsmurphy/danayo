@@ -5,8 +5,9 @@ korean: "위"
 korean_native: ""
 japanese:
   - I
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - uý
 middle_chinese_initial: ʔ
 middle_chinese_final: ɨut
 stroke_count: 11

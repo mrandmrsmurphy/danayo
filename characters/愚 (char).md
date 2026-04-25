@@ -5,8 +5,9 @@ korean: "우"
 korean_native: "어리석을"
 japanese:
   - GU
-japanese_native: おろ
+japanese_nanori: ""
 vietnamese:
+  - ngu
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨo"
 stroke_count: 13

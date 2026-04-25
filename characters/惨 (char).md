@@ -6,8 +6,10 @@ korean_native: 참혹할
 japanese:
   - SAN
   - ZAN
-japanese_native: みじ
+japanese_nanori: ""
 vietnamese:
+  - thom
+  - thảm
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: ʌm
 stroke_count: 11

@@ -5,8 +5,9 @@ korean: "비"
 korean_native: "방귀"
 japanese:
   - HI
-japanese_native: へ
+japanese_nanori: ""
 vietnamese:
+  - thí
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iɪ"
 stroke_count: 7

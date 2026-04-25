@@ -5,8 +5,10 @@ korean: "옥"
 korean_native: "집"
 japanese:
   - OKU
-japanese_native: や
+japanese_nanori: ""
 vietnamese:
+  - ọc
+  - ốc
 middle_chinese_initial: "ʔ"
 middle_chinese_final: uk
 stroke_count: 9

@@ -6,8 +6,10 @@ korean_native: "약할"
 japanese:
   - JAKU
   - NYAKU
-japanese_native: よわ
+japanese_nanori: ""
 vietnamese:
+  - nhược
+  - ních
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨɐk"
 stroke_count: 10

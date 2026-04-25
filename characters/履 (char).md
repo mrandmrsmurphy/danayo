@@ -5,8 +5,11 @@ korean: "리"
 korean_native: "밟을"
 japanese:
   - RI
-japanese_native: は
+japanese_nanori: ""
 vietnamese:
+  - giày
+  - giầy
+  - lí
 middle_chinese_initial: l
 middle_chinese_final: "iɪ"
 stroke_count: 15

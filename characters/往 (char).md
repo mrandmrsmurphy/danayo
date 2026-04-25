@@ -5,8 +5,14 @@ korean: "왕"
 korean_native: "갈"
 japanese:
   - OU
-japanese_native: い
+japanese_nanori: ""
 vietnamese:
+  - váng
+  - vãn
+  - vãng
+  - vạng
+  - vảng
+  - vởn
 middle_chinese_initial: "ø"
 middle_chinese_final: "ʉɐŋ"
 stroke_count: 8

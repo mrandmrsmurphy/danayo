@@ -6,8 +6,9 @@ korean_native: "조상할"
 japanese:
   - CHOU
   - TEKI
-japanese_native: とむら
+japanese_nanori: ""
 vietnamese:
+  - điếu
 middle_chinese_initial: t
 middle_chinese_final: ek
 stroke_count: 4

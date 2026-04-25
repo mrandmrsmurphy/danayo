@@ -5,8 +5,11 @@ korean: "년"
 korean_native: "해"
 japanese:
   - NEN
-japanese_native: とし
+japanese_nanori: ""
 vietnamese:
+  - niên
+  - nên
+  - năm
 middle_chinese_initial: n
 middle_chinese_final: en
 stroke_count: 6

@@ -5,8 +5,11 @@ korean: "궁"
 korean_native: "활"
 japanese:
   - KYUU
-japanese_native: ゆみ
+japanese_nanori: ""
 vietnamese:
+  - cong
+  - cung
+  - củng
 middle_chinese_initial: k
 middle_chinese_final: "ɨuŋ"
 stroke_count: 3

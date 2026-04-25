@@ -5,8 +5,12 @@ korean: "심"
 korean_native: "찾을"
 japanese:
   - JIN
-japanese_native: たず
+japanese_nanori: ""
 vietnamese:
+  - chầm
+  - tìm
+  - tùm
+  - tầm
 middle_chinese_initial: z
 middle_chinese_final: "iɪm"
 stroke_count: 12

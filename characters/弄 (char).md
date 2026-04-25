@@ -5,8 +5,15 @@ korean: 롱
 korean_native: 희롱할
 japanese:
   - ROU
-japanese_native: いじく
+japanese_nanori: ""
 vietnamese:
+  - luồng
+  - lòng
+  - lóng
+  - lồng
+  - lộng
+  - lụng
+  - trổng
 middle_chinese_initial: l
 middle_chinese_final: uŋ
 stroke_count: 7

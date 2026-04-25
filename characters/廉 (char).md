@@ -5,8 +5,11 @@ korean: "렴"
 korean_native: "청렴할"
 japanese:
   - REN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - liêm
+  - lèm
+  - rèm
 middle_chinese_initial: l
 middle_chinese_final: "iᴇm"
 stroke_count: 13

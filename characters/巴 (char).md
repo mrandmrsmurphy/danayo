@@ -5,8 +5,13 @@ korean: 파
 korean_native: 바랄
 japanese:
   - HA
-japanese_native: ともえ
+japanese_nanori: ""
 vietnamese:
+  - ba
+  - bơ
+  - bư
+  - bưa
+  - va
 middle_chinese_initial: p
 middle_chinese_final: ɣa
 stroke_count: 4

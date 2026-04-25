@@ -5,8 +5,14 @@ korean: "저"
 korean_native: "밑"
 japanese:
   - TEI
-japanese_native: そこ
+japanese_nanori: ""
 vietnamese:
+  - đáy
+  - đây
+  - đé
+  - đẻ
+  - đẽ
+  - để
 middle_chinese_initial: t
 middle_chinese_final: ei
 stroke_count: 8

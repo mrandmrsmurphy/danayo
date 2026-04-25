@@ -5,8 +5,14 @@ korean: "상"
 korean_native: "평상"
 japanese:
   - SHOU
-japanese_native: とこ
+japanese_nanori: ""
 vietnamese:
+  - giàn
+  - giàng
+  - giường
+  - rương
+  - sàng
+  - sường
 middle_chinese_initial: "d͡ʒ"
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 7

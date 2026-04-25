@@ -5,8 +5,10 @@ korean: "도"
 korean_native: "섬"
 japanese:
   - TOU
-japanese_native: しま
+japanese_nanori: ""
 vietnamese:
+  - láo
+  - đảo
 middle_chinese_initial: t
 middle_chinese_final: "ɑu"
 stroke_count: 10

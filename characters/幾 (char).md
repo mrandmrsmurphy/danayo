@@ -5,8 +5,10 @@ korean: "기"
 korean_native: "조짐"
 japanese:
   - KI
-japanese_native: いく
+japanese_nanori: ""
 vietnamese:
+  - cơ
+  - kỉ
 middle_chinese_initial: g
 middle_chinese_final: "ɨi"
 stroke_count: 12

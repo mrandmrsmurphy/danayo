@@ -5,8 +5,10 @@ korean: "도"
 korean_native: "슬퍼할"
 japanese:
   - TOU
-japanese_native: いた
+japanese_nanori: ""
 vietnamese:
+  - xịu
+  - điệu
 middle_chinese_initial: d
 middle_chinese_final: "ɑu"
 stroke_count: 11

@@ -5,8 +5,10 @@ korean: "폐"
 korean_native: "화폐"
 japanese:
   - HEI
-japanese_native: ぬさ
+japanese_nanori: ""
 vietnamese:
+  - giẻ
+  - tệ
 middle_chinese_initial: b
 middle_chinese_final: "iᴇi"
 stroke_count: 15

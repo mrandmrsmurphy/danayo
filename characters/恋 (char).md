@@ -5,8 +5,9 @@ korean: null
 korean_native: ''
 japanese:
 - REN
-japanese_native: こ
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - luyến
 middle_chinese_initial: l
 middle_chinese_final: iuᴇn
 stroke_count: 10

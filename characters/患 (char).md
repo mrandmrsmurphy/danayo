@@ -6,8 +6,9 @@ korean_native: "근심"
 japanese:
   - KAN
   - GEN
-japanese_native: わずら
+japanese_nanori: ""
 vietnamese:
+  - hoạn
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣuan"
 stroke_count: 11

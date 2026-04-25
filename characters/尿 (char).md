@@ -5,8 +5,9 @@ korean: "뇨"
 korean_native: "오줌"
 japanese:
   - NYOU
-japanese_native: ゆばり
+japanese_nanori: ""
 vietnamese:
+  - niệu
 middle_chinese_initial: n
 middle_chinese_final: eu
 stroke_count: 7

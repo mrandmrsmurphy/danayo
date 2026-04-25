@@ -6,8 +6,9 @@ korean_native: "뒤"
 japanese:
   - GO
   - KOU
-japanese_native: のち
+japanese_nanori: ""
 vietnamese:
+  - hậu
 middle_chinese_initial: x
 middle_chinese_final: "əu"
 stroke_count: 6

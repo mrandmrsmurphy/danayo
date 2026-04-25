@@ -6,8 +6,16 @@ korean_native: 굳셀
 japanese:
   - KYOU
   - GOU
-japanese_native: つよ
+japanese_nanori: ""
 vietnamese:
+  - càng
+  - cường
+  - cưỡng
+  - gàn
+  - gàng
+  - gương
+  - gượng
+  - ngượng
 middle_chinese_initial: g
 middle_chinese_final: ɨɐŋ
 stroke_count: 11

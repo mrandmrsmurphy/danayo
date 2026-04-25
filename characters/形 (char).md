@@ -6,8 +6,10 @@ korean_native: "모양"
 japanese:
   - KEI
   - GYOU
-japanese_native: かた
+japanese_nanori: ""
 vietnamese:
+  - hình
+  - hềnh
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "eŋ"
 stroke_count: 7

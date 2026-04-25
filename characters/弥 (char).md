@@ -5,8 +5,9 @@ korean: "미"
 korean_native: ""
 japanese:
   - MI
-japanese_native: や
+japanese_nanori: ""
 vietnamese:
+  - di
 middle_chinese_initial: m
 middle_chinese_final: iᴇ
 stroke_count: 8

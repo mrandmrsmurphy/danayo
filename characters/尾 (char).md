@@ -5,8 +5,13 @@ korean: "미"
 korean_native: "꼬리"
 japanese:
   - BI
-japanese_native: お
+japanese_nanori: ""
 vietnamese:
+  - vã
+  - vãi
+  - vĩ
+  - vả
+  - vải
 middle_chinese_initial: "ɱ"
 middle_chinese_final: "ʉi"
 stroke_count: 7

@@ -5,8 +5,11 @@ korean: "상"
 korean_native: 오히려
 japanese:
   - SHOU
-japanese_native: なお
+japanese_nanori: ""
 vietnamese:
+  - chuộng
+  - sượng
+  - thằng
 middle_chinese_initial: ʑ
 middle_chinese_final: ɨɐŋ
 stroke_count: 8

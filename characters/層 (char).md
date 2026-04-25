@@ -5,8 +5,12 @@ korean: "층"
 korean_native: "층"
 japanese:
   - SOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tàng
+  - tầng
+  - tằng
+  - từng
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "əŋ"
 stroke_count: 14

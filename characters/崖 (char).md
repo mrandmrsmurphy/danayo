@@ -5,8 +5,11 @@ korean: "애"
 korean_native: "언덕"
 japanese:
   - GAI
-japanese_native: がけ
+japanese_nanori: ""
 vietnamese:
+  - day
+  - giay
+  - nhai
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɣɛ"
 stroke_count: 11

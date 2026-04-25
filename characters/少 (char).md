@@ -5,8 +5,15 @@ korean: "소"
 korean_native: "적을"
 japanese:
   - SHOU
-japanese_native: すく
+japanese_nanori: ""
 vietnamese:
+  - thiếu
+  - thiểu
+  - thẹo
+  - thẻo
+  - thểu
+  - thỉu
+  - xíu
 middle_chinese_initial: "ɕ"
 middle_chinese_final: "iᴇu"
 stroke_count: 4

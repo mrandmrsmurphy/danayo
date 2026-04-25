@@ -5,8 +5,14 @@ korean: 루
 korean_native: 창
 japanese:
   - RU
-japanese_native: しばしば
+japanese_nanori: ""
 vietnamese:
+  - cũ
+  - luã
+  - lú
+  - lũ
+  - rũ
+  - rủ
 middle_chinese_initial: l
 middle_chinese_final: ɨo
 stroke_count: 14

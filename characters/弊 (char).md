@@ -6,8 +6,10 @@ korean_native: "폐단"
 japanese:
   - HEI
   - HETSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - giẻ
+  - tệ
 middle_chinese_initial: b
 middle_chinese_final: ei
 stroke_count: 15

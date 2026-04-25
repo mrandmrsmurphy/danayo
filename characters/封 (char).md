@@ -6,8 +6,9 @@ korean_native: "봉할"
 japanese:
   - FUU
   - HOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - phong
 middle_chinese_initial: f
 middle_chinese_final: "ɨoŋ"
 stroke_count: 9

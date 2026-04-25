@@ -6,8 +6,12 @@ korean_native: "문서"
 japanese:
   - JOU
   - CHOU
-japanese_native: かきもの
+japanese_nanori: ""
 vietnamese:
+  - thiêm
+  - thiếp
+  - thiệp
+  - thếp
 middle_chinese_initial: "tʰ"
 middle_chinese_final: ep
 stroke_count: 8

@@ -6,8 +6,10 @@ korean_native: "아우"
 japanese:
   - TEI
   - DAI
-japanese_native: おとうと
+japanese_nanori: ""
 vietnamese:
+  - dễ
+  - đệ
 middle_chinese_initial: d
 middle_chinese_final: ei
 stroke_count: 7

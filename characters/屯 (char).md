@@ -6,8 +6,24 @@ korean_native: 진칠
 japanese:
   - TON
   - CHUN
-japanese_native: たむろ
+japanese_nanori: ""
 vietnamese:
+  - chồn
+  - dùn
+  - dồn
+  - giùn
+  - giùng
+  - giỡn
+  - nhún
+  - rùn
+  - sồn
+  - thùn
+  - truân
+  - tòn
+  - đún
+  - đần
+  - đốn
+  - đồn
 middle_chinese_initial: d
 middle_chinese_final: uən
 stroke_count: 4

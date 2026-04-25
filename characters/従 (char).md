@@ -7,8 +7,9 @@ japanese:
   - JUU
   - SHOU
   - JU
-japanese_native: したが
+japanese_nanori: ""
 vietnamese:
+  - tùng
 middle_chinese_initial: d͡z
 middle_chinese_final: ɨoŋ
 stroke_count: 10

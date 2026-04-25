@@ -5,8 +5,12 @@ korean: "용"
 korean_native: "쓸"
 japanese:
   - YOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - dong
+  - dung
+  - dông
+  - giông
 middle_chinese_initial: j
 middle_chinese_final: "ɨoŋ"
 stroke_count: 11

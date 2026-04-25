@@ -5,8 +5,9 @@ korean: 계
 korean_native: 이를
 japanese:
 - KAI
-japanese_native: とど
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - giới
 middle_chinese_initial: k
 middle_chinese_final: ɣɛi
 stroke_count: 8

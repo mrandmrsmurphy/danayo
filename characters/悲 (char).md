@@ -5,8 +5,12 @@ korean: "비"
 korean_native: "슬플"
 japanese:
   - HI
-japanese_native: かな
+japanese_nanori: ""
 vietnamese:
+  - bay
+  - bi
+  - bây
+  - bầy
 middle_chinese_initial: p
 middle_chinese_final: "ɣiɪ"
 stroke_count: 12

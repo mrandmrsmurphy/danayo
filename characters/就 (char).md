@@ -6,8 +6,9 @@ korean_native: "나아갈"
 japanese:
   - SHUU
   - JU
-japanese_native: つ
+japanese_nanori: ""
 vietnamese:
+  - tựu
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "ɨu"
 stroke_count: 12

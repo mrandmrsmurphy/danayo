@@ -5,8 +5,9 @@ korean: "혹"
 korean_native: "미혹할"
 japanese:
   - WAKU
-japanese_native: まど
+japanese_nanori: ""
 vietnamese:
+  - hoặc
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "wǝk"
 stroke_count: 12

@@ -5,8 +5,10 @@ korean: "률"
 korean_native: "떨릴"
 japanese:
   - RITSU
-japanese_native: ふる
+japanese_nanori: ""
 vietnamese:
+  - lật
+  - rất
 middle_chinese_initial: l
 middle_chinese_final: "iɪt"
 stroke_count: 13

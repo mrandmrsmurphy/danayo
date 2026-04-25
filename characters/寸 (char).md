@@ -6,8 +6,13 @@ korean_native: "마디"
 japanese:
   - SUN
   - SON
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - dón
+  - són
+  - thuỗn
+  - thốn
+  - xốn
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "uən"
 stroke_count: 3

@@ -6,8 +6,9 @@ korean_native: 분별할
 japanese:
   - BEN
   - HEN
-japanese_native: かんむり
+japanese_nanori: ""
 vietnamese:
+  - biền
 middle_chinese_initial: b
 middle_chinese_final: ɣɛn
 stroke_count: 5

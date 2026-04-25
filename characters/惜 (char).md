@@ -6,8 +6,10 @@ korean_native: "아낄"
 japanese:
   - SEKI
   - SHAKU
-japanese_native: お
+japanese_nanori: ""
 vietnamese:
+  - tiếc
+  - tích
 middle_chinese_initial: s
 middle_chinese_final: "iᴇk"
 stroke_count: 11

@@ -6,8 +6,9 @@ korean_native: "장막"
 japanese:
   - MAKU
   - BAKU
-japanese_native: とばり
+japanese_nanori: ""
 vietnamese:
+  - mạc
 middle_chinese_initial: m
 middle_chinese_final: "ɑk"
 stroke_count: 13
