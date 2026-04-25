@@ -19,7 +19,7 @@ pos: "事詞"
 english:
   - come
 羅馬字: lai
-韓文: "래"
+諺文: "래"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

@@ -19,7 +19,7 @@ pos: ""
 english:
   - is
 羅馬字: se
-韓文: "서"
+諺文: "서"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: "中"

@@ -21,7 +21,7 @@ english:
   - camp
   - station
 羅馬字: dun
-韓文: 둔
+諺文: 둔
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 高等

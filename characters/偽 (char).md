@@ -19,7 +19,7 @@ english:
   - "false"
   - artificial
 羅馬字: "'wei"
-韓文: 웨
+諺文: 웨
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 高等

@@ -17,7 +17,7 @@ pos: ""
 english:
   - solemn
 羅馬字: lum
-韓文: "룸"
+諺文: "룸"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -19,7 +19,7 @@ pos: ""
 english:
   - take many small steps towards
 羅馬字: cu
-韓文: "추"
+諺文: "추"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

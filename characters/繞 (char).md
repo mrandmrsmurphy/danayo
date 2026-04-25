@@ -20,7 +20,7 @@ english:
   - surround
   - enclose
 羅馬字: nou
-韓文: "놋"
+諺文: "놋"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

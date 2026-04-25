@@ -18,7 +18,7 @@ english:
 - deliver
 - arrive
 羅馬字: gye
-韓文: 겨
+諺文: 겨
 joyo_level: '5'
 hsk_level: ''
 hanmun_edu_level: 名

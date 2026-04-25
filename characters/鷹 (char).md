@@ -19,7 +19,7 @@ pos: "名詞"
 english:
   - hawk
 羅馬字: "'ing"
-韓文: "잉"
+諺文: "잉"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "名"

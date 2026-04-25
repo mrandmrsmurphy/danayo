@@ -22,7 +22,7 @@ english:
   - toward
   - -ward
 羅馬字: hyang
-韓文: 향
+諺文: 향
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

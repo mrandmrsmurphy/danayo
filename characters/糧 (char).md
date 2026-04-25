@@ -18,7 +18,7 @@ pos: ""
 english:
   - provisions
 羅馬字: lyang
-韓文: "량"
+諺文: "량"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

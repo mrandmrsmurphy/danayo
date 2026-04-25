@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - morning
 羅馬字: jau
-韓文: 잣
+諺文: 잣
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

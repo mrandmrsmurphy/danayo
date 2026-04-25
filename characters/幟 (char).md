@@ -18,7 +18,7 @@ english:
   - pennant
   - banner
 羅馬字: ci
-韓文: "치"
+諺文: "치"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

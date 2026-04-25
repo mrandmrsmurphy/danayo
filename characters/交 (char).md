@@ -20,7 +20,7 @@ english:
   - mix
   - exchange
 羅馬字: gyou
-韓文: 굣
+諺文: 굣
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

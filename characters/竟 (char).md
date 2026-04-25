@@ -20,7 +20,7 @@ english:
   - after all
   - at last
 羅馬字: gyeng
-韓文: 경
+諺文: 경
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: 高等

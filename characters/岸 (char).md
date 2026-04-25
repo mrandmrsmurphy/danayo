@@ -20,7 +20,7 @@ english:
   - bank
   - shore
 羅馬字: "'an"
-韓文: 안
+諺文: 안
 joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: 高等

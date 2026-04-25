@@ -19,7 +19,7 @@ english:
   - hard
   - firm
 羅馬字: "'ang"
-韓文: 앙
+諺文: 앙
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

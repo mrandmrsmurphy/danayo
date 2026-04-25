@@ -20,7 +20,7 @@ english:
   - ought
   - have to
 羅馬字: goi
-韓文: "괴"
+諺文: "괴"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

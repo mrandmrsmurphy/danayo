@@ -17,7 +17,7 @@ pos: ""
 english:
   - pshaw
 羅馬字: hei
-韓文: "헤"
+諺文: "헤"
 joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "高等"

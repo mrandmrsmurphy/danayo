@@ -17,7 +17,7 @@ pos: ""
 english:
   - or again
 羅馬字: "'uo"
-韓文: "웃"
+諺文: "웃"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: "中"

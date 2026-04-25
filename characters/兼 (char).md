@@ -18,7 +18,7 @@ english:
   - double as
   - dual-
 羅馬字: gem
-韓文: 검
+諺文: 검
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

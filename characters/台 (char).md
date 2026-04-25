@@ -21,7 +21,7 @@ english:
 - platform
 - machines
 羅馬字: dai
-韓文: 대
+諺文: 대
 joyo_level: '2'
 hsk_level: '2'
 hanmun_edu_level: 高等

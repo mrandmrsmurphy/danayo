@@ -19,7 +19,7 @@ english:
   - calamitous
   - sinister
 羅馬字: hyung
-韓文: "흉"
+諺文: "흉"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

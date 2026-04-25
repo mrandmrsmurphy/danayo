@@ -23,7 +23,7 @@ english:
   - sir
   - m'lord
 羅馬字: kyeng
-韓文: 켱
+諺文: 켱
 joyo_level: 日本人名用漢字
 hsk_level: 無
 hanmun_edu_level: 高等

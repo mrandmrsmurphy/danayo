@@ -17,7 +17,7 @@ pos: ""
 english:
   - rust
 羅馬字: syu
-韓文: "슈"
+諺文: "슈"
 joyo_level: "表外字"
 hsk_level: 3
 hanmun_edu_level: "名"

@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - fourth
 羅馬字: deng
-韓文: 덩
+諺文: 덩
 joyo_level: "3"
 hsk_level: "3"
 hanmun_edu_level: 中

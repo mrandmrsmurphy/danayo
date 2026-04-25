@@ -17,7 +17,7 @@ pos: ''
 english:
 - ginger
 羅馬字: gyan
-韓文: 갼
+諺文: 갼
 joyo_level: 表外字
 hsk_level: ''
 hanmun_edu_level: ''

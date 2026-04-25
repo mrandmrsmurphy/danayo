@@ -18,7 +18,7 @@ english:
   - evade
   - dodge
 羅馬字: be
-韓文: "버"
+諺文: "버"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

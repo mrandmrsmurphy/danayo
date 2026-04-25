@@ -17,7 +17,7 @@ pos: ""
 english:
   - sickle
 羅馬字: lem
-韓文: "럼"
+諺文: "럼"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

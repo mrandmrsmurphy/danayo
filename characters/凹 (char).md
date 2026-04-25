@@ -17,7 +17,7 @@ pos: ""
 english:
   - concave
 羅馬字: "'au"
-韓文: "앗"
+諺文: "앗"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "名"

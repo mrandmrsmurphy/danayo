@@ -17,7 +17,7 @@ pos: ""
 english:
   - cook
 羅馬字: cui
-韓文: 취
+諺文: 취
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

@@ -17,7 +17,7 @@ pos: "名詞"
 english:
   - rain
 羅馬字: "'u"
-韓文: "우"
+諺文: "우"
 joyo_level: 1
 hsk_level: 1
 hanmun_edu_level: "中"

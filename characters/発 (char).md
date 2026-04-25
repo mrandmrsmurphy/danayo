@@ -21,7 +21,7 @@ english:
   - issue forth
   - discharge
 羅馬字: fad
-韓文: 빧
+諺文: 빧
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

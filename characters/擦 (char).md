@@ -21,7 +21,7 @@ english:
   - scour
   - brush
 羅馬字: cad
-韓文: "찯"
+諺文: "찯"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

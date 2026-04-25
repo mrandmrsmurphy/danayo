@@ -20,7 +20,7 @@ english:
   - again and again
   - repeatedly
 羅馬字: lu
-韓文: 루
+諺文: 루
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: 高等

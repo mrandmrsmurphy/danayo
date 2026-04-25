@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - earth
 羅馬字: to
-韓文: 토
+諺文: 토
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

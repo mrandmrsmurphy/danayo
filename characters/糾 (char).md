@@ -18,7 +18,7 @@ english:
   - twist
   - investigate
 羅馬字: gyuo
-韓文: "귯"
+諺文: "귯"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - navy blue
 羅馬字: gam
-韓文: "감"
+諺文: "감"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

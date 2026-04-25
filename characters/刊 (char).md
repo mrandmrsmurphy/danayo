@@ -18,7 +18,7 @@ english:
   - publication
   - periodical
 羅馬字: kan
-韓文: 칸
+諺文: 칸
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等

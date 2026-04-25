@@ -18,7 +18,7 @@ pos: 数詞
 english:
   - zero
 羅馬字: leng
-韓文: 렁
+諺文: 렁
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 高等

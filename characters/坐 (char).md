@@ -17,7 +17,7 @@ pos: ""
 english:
   - sit
 羅馬字: jwa
-韓文: "좌"
+諺文: "좌"
 joyo_level: "日本人名用漢字"
 hsk_level: 1
 hanmun_edu_level: "中"

@@ -18,7 +18,7 @@ english:
   - drive
   - spur
 羅馬字: ku
-韓文: 쿠
+諺文: 쿠
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

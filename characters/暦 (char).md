@@ -18,7 +18,7 @@ english:
   - calendar
   - almanac
 羅馬字: leg
-韓文: 럭
+諺文: 럭
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 高等

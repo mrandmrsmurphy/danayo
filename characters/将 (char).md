@@ -21,7 +21,7 @@ english:
   - will
   - shall
 羅馬字: jwang
-韓文: "좡"
+諺文: "좡"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

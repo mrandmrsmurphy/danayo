@@ -20,7 +20,7 @@ english:
   - whittle
   - trim
 羅馬字: syag
-韓文: "샥"
+諺文: "샥"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

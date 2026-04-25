@@ -18,7 +18,7 @@ english:
   - drown
   - sink
 羅馬字: mod
-韓文: 몯
+諺文: 몯
 joyo_level: ""
 hsk_level: "1"
 hanmun_edu_level: 高等

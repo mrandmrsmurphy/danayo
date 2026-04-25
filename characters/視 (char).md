@@ -19,7 +19,7 @@ english:
   - look at
   - inspect
 羅馬字: siǝ
-韓文: "싀"
+諺文: "싀"
 joyo_level: 6
 hsk_level: 1
 hanmun_edu_level: "中"

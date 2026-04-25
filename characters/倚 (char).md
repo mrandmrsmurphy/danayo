@@ -19,7 +19,7 @@ english:
   - rely on
   - depend upon
 羅馬字: "'ǝi"
-韓文: 읫
+諺文: 읫
 joyo_level: 表外字
 hsk_level: "3"
 hanmun_edu_level: 名

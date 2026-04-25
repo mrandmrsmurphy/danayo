@@ -19,7 +19,7 @@ english:
   - evil
   - wrong
 羅馬字: pei
-韓文: "페"
+諺文: "페"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

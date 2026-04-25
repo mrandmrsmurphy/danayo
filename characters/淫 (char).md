@@ -18,7 +18,7 @@ english:
   - lewd
   - obscene
 羅馬字: "'im"
-韓文: "임"
+諺文: "임"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "高等"

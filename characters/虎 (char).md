@@ -18,7 +18,7 @@ pos: ""
 english:
   - tiger
 羅馬字: ho
-韓文: "호"
+諺文: "호"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

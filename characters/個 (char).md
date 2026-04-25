@@ -20,7 +20,7 @@ pos: 量詞
 english:
   - individual
 羅馬字: gǝ
-韓文: 그
+諺文: 그
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中

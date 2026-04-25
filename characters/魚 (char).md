@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - fish
 羅馬字: "'yo"
-韓文: 요
+諺文: 요
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

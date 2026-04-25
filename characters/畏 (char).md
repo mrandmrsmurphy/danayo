@@ -21,7 +21,7 @@ english:
   - awe
   - phobia
 羅馬字: "'oi"
-韓文: "외"
+諺文: "외"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

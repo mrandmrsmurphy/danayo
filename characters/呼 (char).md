@@ -21,7 +21,7 @@ english:
   - shout
   - exhale
 羅馬字: ho
-韓文: 호
+諺文: 호
 joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: 中

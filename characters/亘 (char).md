@@ -20,7 +20,7 @@ english:
   - swirl
   - whirlpool
 羅馬字: hwan
-韓文: "환"
+諺文: "환"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "名"

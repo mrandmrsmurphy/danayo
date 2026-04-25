@@ -17,7 +17,7 @@ pos: ""
 english:
   - hunt
 羅馬字: lob
-韓文: 롭
+諺文: 롭
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

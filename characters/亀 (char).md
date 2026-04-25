@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - turtle
 羅馬字: guo
-韓文: 굿
+諺文: 굿
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 高等

@@ -18,7 +18,7 @@ english:
   - as for
   - EMPHASIS
 羅馬字: "'ya"
-韓文: 야
+諺文: 야
 joyo_level: 日本人名用漢字
 hsk_level: "1"
 hanmun_edu_level: 中

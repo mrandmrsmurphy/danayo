@@ -21,7 +21,7 @@ english:
   - pack
   - carry
 羅馬字: da
-韓文: "다"
+諺文: "다"
 joyo_level: "高等"
 hsk_level: 3
 hanmun_edu_level: "名"

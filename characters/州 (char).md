@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - state
 羅馬字: juo
-韓文: 줏
+諺文: 줏
 joyo_level: "3"
 hsk_level: "4"
 hanmun_edu_level: 高等

@@ -20,7 +20,7 @@ english:
   - seven
   - "7"
 羅馬字: cid
-韓文: 칟
+諺文: 칟
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

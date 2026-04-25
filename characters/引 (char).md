@@ -18,7 +18,7 @@ english:
   - pull
   - tug
 羅馬字: "'in"
-韓文: "인"
+諺文: "인"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -17,7 +17,7 @@ pos: ""
 english:
   - peck at
 羅馬字: tog
-韓文: "톡"
+諺文: "톡"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

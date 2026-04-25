@@ -19,7 +19,7 @@ english:
   - rely on
   - accord with
 羅馬字: "'iǝ"
-韓文: "의"
+諺文: "의"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

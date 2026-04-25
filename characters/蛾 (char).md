@@ -19,7 +19,7 @@ pos: ""
 english:
   - moth
 羅馬字: "'a"
-韓文: "아"
+諺文: "아"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -17,7 +17,7 @@ pos: ""
 english:
   - bird
 羅馬字: cou
-韓文: "촛"
+諺文: "촛"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

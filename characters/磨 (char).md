@@ -21,7 +21,7 @@ english:
   - rub
   - wear out
 羅馬字: ma
-韓文: "마"
+諺文: "마"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "高等"

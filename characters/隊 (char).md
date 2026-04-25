@@ -19,7 +19,7 @@ english:
   - group
   - team
 羅馬字: doi
-韓文: "되"
+諺文: "되"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

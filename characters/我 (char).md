@@ -21,7 +21,7 @@ english:
   - I
   - me
 羅馬字: "'a"
-韓文: 아
+諺文: 아
 joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中

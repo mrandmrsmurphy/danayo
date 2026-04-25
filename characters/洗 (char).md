@@ -18,7 +18,7 @@ english:
   - wash
   - rinse
 羅馬字: sen
-韓文: 선
+諺文: 선
 joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中

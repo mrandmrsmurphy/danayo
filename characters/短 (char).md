@@ -19,7 +19,7 @@ pos: 性詞
 english:
   - short
 羅馬字: dwan
-韓文: 돤
+諺文: 돤
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

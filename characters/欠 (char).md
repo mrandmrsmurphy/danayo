@@ -17,7 +17,7 @@ pos: 性詞
 english:
   - yawn
 羅馬字: kyam
-韓文: 캼
+諺文: 캼
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 名

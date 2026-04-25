@@ -18,7 +18,7 @@ english:
   - idiosyncrasy
   - habit
 羅馬字: peg
-韓文: "퍽"
+諺文: "퍽"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

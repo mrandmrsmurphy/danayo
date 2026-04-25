@@ -18,7 +18,7 @@ pos: ""
 english:
   - tanuki
 羅馬字: li
-韓文: "리"
+諺文: "리"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

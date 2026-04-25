@@ -20,7 +20,7 @@ english:
   - former
   - old
 羅馬字: gyuo
-韓文: 귯
+諺文: 귯
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 中

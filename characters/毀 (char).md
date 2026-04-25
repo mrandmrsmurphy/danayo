@@ -18,7 +18,7 @@ english:
   - destroy
   - slander
 羅馬字: hwei
-韓文: 훼
+諺文: 훼
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

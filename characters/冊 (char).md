@@ -19,7 +19,7 @@ pos: ""
 english:
   - book
 羅馬字: cag
-韓文: "착"
+諺文: "착"
 joyo_level: 6
 hsk_level: 2
 hanmun_edu_level: "中"

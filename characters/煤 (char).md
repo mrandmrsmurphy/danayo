@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - soot
 羅馬字: moi
-韓文: 뫼
+諺文: 뫼
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 名

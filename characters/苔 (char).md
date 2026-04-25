@@ -18,7 +18,7 @@ english:
   - moss
   - lichen
 羅馬字: toi
-韓文: "퇴"
+諺文: "퇴"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

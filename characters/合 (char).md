@@ -23,7 +23,7 @@ english:
   - fit together
   - combine
 羅馬字: gob
-韓文: 곱
+諺文: 곱
 joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: 中

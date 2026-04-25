@@ -19,7 +19,7 @@ pos: ""
 english:
   - rice (uncooked)
 羅馬字: mei
-韓文: "메"
+諺文: "메"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

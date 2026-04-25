@@ -20,7 +20,7 @@ pos: 性詞
 english:
   - slippery
 羅馬字: hwad
-韓文: 홛
+諺文: 홛
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 名

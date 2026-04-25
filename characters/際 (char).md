@@ -19,7 +19,7 @@ english:
   - border
   - occasion
 羅馬字: je
-韓文: 저
+諺文: 저
 joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 高等

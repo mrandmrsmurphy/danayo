@@ -18,7 +18,7 @@ pos: ""
 english:
   - jade
 羅馬字: "'yog"
-韓文: "욕"
+諺文: "욕"
 joyo_level: 1
 hsk_level: 2
 hanmun_edu_level: "中"

@@ -19,7 +19,7 @@ pos: ""
 english:
   - undress
 羅馬字: dwad
-韓文: 돧
+諺文: 돧
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

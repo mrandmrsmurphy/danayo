@@ -17,7 +17,7 @@ pos: ""
 english:
   - bear
 羅馬字: "'ung"
-韓文: "웅"
+諺文: "웅"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: ""

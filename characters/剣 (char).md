@@ -17,7 +17,7 @@ pos: ""
 english:
   - sword
 羅馬字: gom
-韓文: 곰
+諺文: 곰
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

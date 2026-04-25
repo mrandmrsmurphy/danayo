@@ -19,7 +19,7 @@ english:
   - stem
   - stalk
 羅馬字: king
-韓文: 킹
+諺文: 킹
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名

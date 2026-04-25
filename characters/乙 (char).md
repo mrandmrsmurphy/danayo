@@ -25,7 +25,7 @@ english:
   - second
   - latter (second heavenly stem)
 羅馬字: "'ǝd"
-韓文: 읃
+諺文: 읃
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 中

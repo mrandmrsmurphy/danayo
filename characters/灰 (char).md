@@ -17,7 +17,7 @@ pos: ""
 english:
   - ashes
 羅馬字: hoi
-韓文: "회"
+諺文: "회"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "名"

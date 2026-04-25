@@ -18,7 +18,7 @@ english:
   - smash
   - break
 羅馬字: soi
-韓文: 쇠
+諺文: 쇠
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名

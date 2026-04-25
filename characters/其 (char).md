@@ -24,7 +24,7 @@ pos: 修飾語
 english:
   - this
 羅馬字: gǝ
-韓文: 그
+諺文: 그
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中

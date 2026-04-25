@@ -17,7 +17,7 @@ pos: ""
 english:
   - side by side
 羅馬字: beng
-韓文: "벙"
+諺文: "벙"
 joyo_level: 6
 hsk_level: 2
 hanmun_edu_level: "高等"

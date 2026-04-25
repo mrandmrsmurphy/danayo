@@ -20,7 +20,7 @@ english:
   - line
   - symbol
 羅馬字: mun
-韓文: "문"
+諺文: "문"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

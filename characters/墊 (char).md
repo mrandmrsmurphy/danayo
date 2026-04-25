@@ -21,7 +21,7 @@ english:
   - pad
   - cushion
 羅馬字: dib
-韓文: "딥"
+諺文: "딥"
 joyo_level: "表外字"
 hsk_level: 3
 hanmun_edu_level: "無"

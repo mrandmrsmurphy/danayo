@@ -18,7 +18,7 @@ english:
   - immerse
   - dunk
 羅馬字: cim
-韓文: "침"
+諺文: "침"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

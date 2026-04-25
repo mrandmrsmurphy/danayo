@@ -17,7 +17,7 @@ grade_level: 名
 pos: 名詞
 english: scorpion
 羅馬字: hyed
-韓文: 혇
+諺文: 혇
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

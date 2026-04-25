@@ -18,7 +18,7 @@ english:
   - neighboring
   - next door
 羅馬字: lin
-韓文: "린"
+諺文: "린"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -19,7 +19,7 @@ english:
   - agree
   - be willing
 羅馬字: kung
-韓文: "쿵"
+諺文: "쿵"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

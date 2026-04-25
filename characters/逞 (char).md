@@ -18,7 +18,7 @@ english:
   - indulge
   - brag
 羅馬字: cing
-韓文: "칭"
+諺文: "칭"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

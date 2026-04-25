@@ -18,7 +18,7 @@ english:
   - handle
   - deal with
 羅馬字: cab
-韓文: "찹"
+諺文: "찹"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -17,7 +17,7 @@ pos: ""
 english:
   - flatter
 羅馬字: cem
-韓文: "첨"
+諺文: "첨"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

@@ -23,7 +23,7 @@ english:
   - prostrate
   - surrender
 羅馬字: bug
-韓文: 북
+諺文: 북
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 中

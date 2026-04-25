@@ -20,7 +20,7 @@ english:
   - underside
   - base
 羅馬字: dei
-韓文: "데"
+諺文: "데"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

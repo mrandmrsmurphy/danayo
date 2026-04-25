@@ -17,7 +17,7 @@ pos: ""
 english:
   - se (instrument)
 羅馬字: sǝd
-韓文: 슫
+諺文: 슫
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

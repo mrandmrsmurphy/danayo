@@ -18,7 +18,7 @@ english:
   - each
   - individually
 羅馬字: gag
-韓文: 각
+諺文: 각
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

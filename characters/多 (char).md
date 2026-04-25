@@ -18,7 +18,7 @@ pos: 性詞
 english:
   - many
 羅馬字: dǝ
-韓文: 드
+諺文: 드
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

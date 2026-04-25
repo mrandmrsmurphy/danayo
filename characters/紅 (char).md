@@ -19,7 +19,7 @@ english:
   - crimson
   - red
 羅馬字: hong
-韓文: 홍
+諺文: 홍
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: 中

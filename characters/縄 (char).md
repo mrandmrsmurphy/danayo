@@ -24,7 +24,7 @@ english:
   - string
   - line
 羅馬字: sǝng
-韓文: 승
+諺文: 승
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 名

@@ -15,7 +15,7 @@ grade_level: "5"
 pos: 名詞
 english: [table, desk, stand]
 羅馬字: tag
-韓文: 탁
+諺文: 탁
 joyo_level: 表外字
 hsk_level: "1"
 hanmun_edu_level: 無

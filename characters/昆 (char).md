@@ -18,7 +18,7 @@ english:
   - swarm
   - descendants
 羅馬字: gon
-韓文: "곤"
+諺文: "곤"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

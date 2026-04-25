@@ -20,7 +20,7 @@ english:
   - receive
   - accept
 羅馬字: nab
-韓文: "납"
+諺文: "납"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "高等"

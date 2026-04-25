@@ -19,7 +19,7 @@ english:
   - distant
   - far
 羅馬字: hing
-韓文: "힝"
+諺文: "힝"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

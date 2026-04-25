@@ -19,7 +19,7 @@ english:
   - fine hair
   - milli-
 羅馬字: hau
-韓文: "핫"
+諺文: "핫"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "高等"

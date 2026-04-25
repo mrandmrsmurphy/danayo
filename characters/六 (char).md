@@ -25,7 +25,7 @@ english:
   - six
   - 6
 羅馬字: lug
-韓文: "룩"
+諺文: "룩"
 joyo_level: 1
 hsk_level: 1
 hanmun_edu_level: "中"

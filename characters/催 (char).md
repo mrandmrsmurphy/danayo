@@ -20,7 +20,7 @@ english:
   - request
   - demand
 羅馬字: coi
-韓文: "최"
+諺文: "최"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

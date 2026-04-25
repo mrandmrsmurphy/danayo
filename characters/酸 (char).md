@@ -18,7 +18,7 @@ english:
   - acidic
   - sour
 羅馬字: swan
-韓文: "솬"
+諺文: "솬"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: ""

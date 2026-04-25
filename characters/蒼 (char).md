@@ -19,7 +19,7 @@ english:
   - green
   - grey
 羅馬字: cwang
-韓文: 촹
+諺文: 촹
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 高等

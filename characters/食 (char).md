@@ -19,7 +19,7 @@ pos: ""
 english:
   - eat
 羅馬字: sig
-韓文: "식"
+諺文: "식"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

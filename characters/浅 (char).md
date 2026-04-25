@@ -17,7 +17,7 @@ pos: ''
 english:
 - shallow
 羅馬字: cen
-韓文: 천
+諺文: 천
 joyo_level: '4'
 hsk_level: ''
 hanmun_edu_level: 中

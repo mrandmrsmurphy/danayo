@@ -18,7 +18,7 @@ pos: ""
 english:
   - kick
 羅馬字: cug
-韓文: "축"
+諺文: "축"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

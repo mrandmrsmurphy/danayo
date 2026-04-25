@@ -21,7 +21,7 @@ english:
   - of the highest degree
   - utmost
 羅馬字: gig
-韓文: "긱"
+諺文: "긱"
 joyo_level: 4
 hsk_level: 2
 hanmun_edu_level: "中"

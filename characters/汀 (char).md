@@ -17,7 +17,7 @@ pos: ""
 english:
   - sand bar
 羅馬字: teng
-韓文: "텅"
+諺文: "텅"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

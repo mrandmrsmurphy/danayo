@@ -18,7 +18,7 @@ english:
   - exert
   - urge
 羅馬字: myen
-韓文: "면"
+諺文: "면"
 joyo_level: 3
 hsk_level: 3
 hanmun_edu_level: "中"

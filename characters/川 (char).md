@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - river
 羅馬字: cwan
-韓文: 촨
+諺文: 촨
 joyo_level: "1"
 hsk_level: "4"
 hanmun_edu_level: 中

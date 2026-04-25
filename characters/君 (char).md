@@ -19,7 +19,7 @@ pos: 代詞
 english:
   - you
 羅馬字: gun
-韓文: 군
+諺文: 군
 joyo_level: "3"
 hsk_level: "4"
 hanmun_edu_level: 中

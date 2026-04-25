@@ -18,7 +18,7 @@ english:
   - phlegm
   - sputum
 羅馬字: dam
-韓文: "담"
+諺文: "담"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

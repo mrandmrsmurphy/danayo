@@ -17,7 +17,7 @@ pos: 名詞
 english:
   - point
 羅馬字: dem
-韓文: 덤
+諺文: 덤
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 高等

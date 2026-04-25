@@ -19,7 +19,7 @@ english:
   - mark off
   - delimit
 羅馬字: hwag
-韓文: "확"
+諺文: "확"
 joyo_level: "表外字"
 hsk_level: 1
 hanmun_edu_level: "高等"

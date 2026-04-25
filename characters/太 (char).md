@@ -19,7 +19,7 @@ pos: 性詞
 english:
   - great
 羅馬字: tai
-韓文: 태
+諺文: 태
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

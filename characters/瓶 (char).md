@@ -20,7 +20,7 @@ english:
   - bottle
   - pot
 羅馬字: beng
-韓文: "벙"
+諺文: "벙"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

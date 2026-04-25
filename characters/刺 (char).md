@@ -25,7 +25,7 @@ english:
   - prick
   - sting
 羅馬字: cig
-韓文: 칙
+諺文: 칙
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

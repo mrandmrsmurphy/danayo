@@ -18,7 +18,7 @@ pos: ""
 english:
   - -ification
 羅馬字: hwa
-韓文: "화"
+諺文: "화"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

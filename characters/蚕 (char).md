@@ -18,7 +18,7 @@ pos: ""
 english:
   - silkworm
 羅馬字: jam
-韓文: "잠"
+諺文: "잠"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "名"

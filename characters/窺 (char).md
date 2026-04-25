@@ -17,7 +17,7 @@ pos: ""
 english:
   - spy on
 羅馬字: kui
-韓文: "퀴"
+諺文: "퀴"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

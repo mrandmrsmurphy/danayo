@@ -18,7 +18,7 @@ pos: ""
 english:
   - shepherd
 羅馬字: mug
-韓文: "묵"
+諺文: "묵"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

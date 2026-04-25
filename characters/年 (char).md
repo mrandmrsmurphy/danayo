@@ -17,7 +17,7 @@ pos: ""
 english:
   - year
 羅馬字: nen
-韓文: "넌"
+諺文: "넌"
 joyo_level: 1
 hsk_level: 1
 hanmun_edu_level: "中"

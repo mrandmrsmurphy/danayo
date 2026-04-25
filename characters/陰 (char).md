@@ -22,7 +22,7 @@ english:
   - Yin
   - shade
 羅馬字: "'im"
-韓文: 임
+諺文: 임
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

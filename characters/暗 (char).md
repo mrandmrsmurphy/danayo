@@ -17,7 +17,7 @@ pos: ""
 english:
   - dark
 羅馬字: "'am"
-韓文: "암"
+諺文: "암"
 joyo_level: 3
 hsk_level: 2
 hanmun_edu_level: "中"

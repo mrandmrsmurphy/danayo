@@ -19,7 +19,7 @@ english:
   - yell
   - shout
 羅馬字: hod
-韓文: "혿"
+諺文: "혿"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: ""

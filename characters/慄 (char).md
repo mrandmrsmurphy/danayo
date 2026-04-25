@@ -19,7 +19,7 @@ english:
   - shudder
   - shiver
 羅馬字: lid
-韓文: "릳"
+諺文: "릳"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

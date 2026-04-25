@@ -20,7 +20,7 @@ english:
   - full
   - satisfied
 羅馬字: byau
-韓文: "뱟"
+諺文: "뱟"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

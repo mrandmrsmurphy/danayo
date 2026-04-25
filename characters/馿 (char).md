@@ -17,7 +17,7 @@ pos: 名詞
 english:
   - donkey
 羅馬字: lyo
-韓文: 료
+諺文: 료
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 名

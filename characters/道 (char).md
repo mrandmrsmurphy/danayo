@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - way
 羅馬字: dau
-韓文: 닷
+諺文: 닷
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

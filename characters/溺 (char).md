@@ -19,7 +19,7 @@ pos: ""
 english:
   - drown
 羅馬字: nig
-韓文: "닉"
+諺文: "닉"
 joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"

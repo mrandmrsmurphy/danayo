@@ -19,7 +19,7 @@ english:
   - excite
   - rouse
 羅馬字: jin
-韓文: 진
+諺文: 진
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

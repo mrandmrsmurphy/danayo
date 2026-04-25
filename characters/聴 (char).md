@@ -18,7 +18,7 @@ pos: 性詞
 english:
   - listen
 羅馬字: ceng
-韓文: 청
+諺文: 청
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -18,7 +18,7 @@ english:
   - superfluous
   - excessive
 羅馬字: nyong
-韓文: "뇽"
+諺文: "뇽"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

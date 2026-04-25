@@ -18,7 +18,7 @@ pos: 事詞
 english:
   - tranquilize
 羅馬字: cin
-韓文: 친
+諺文: 친
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

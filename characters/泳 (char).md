@@ -17,7 +17,7 @@ pos: ""
 english:
   - swim
 羅馬字: "'wing"
-韓文: "윙"
+諺文: "윙"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "高等"

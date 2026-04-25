@@ -17,7 +17,7 @@ pos: ""
 english:
   - elder sister
 羅馬字: ja
-韓文: "자"
+諺文: "자"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

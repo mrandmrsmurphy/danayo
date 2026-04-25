@@ -18,7 +18,7 @@ pos: 修飾語
 english:
   - only
 羅馬字: "'yei"
-韓文: 예
+諺文: 예
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

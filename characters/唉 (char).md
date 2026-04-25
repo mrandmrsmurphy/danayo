@@ -20,7 +20,7 @@ pos: ""
 english:
   - alas (ancient)
 羅馬字: "'ai"
-韓文: "애"
+諺文: "애"
 joyo_level: "表外字"
 hsk_level: 3
 hanmun_edu_level: "名"

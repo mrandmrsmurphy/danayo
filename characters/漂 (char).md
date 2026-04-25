@@ -18,7 +18,7 @@ english:
   - drift
   - float
 羅馬字: pyo
-韓文: "표"
+諺文: "표"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

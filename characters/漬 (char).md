@@ -20,7 +20,7 @@ english:
   - soak
   - steep
 羅馬字: je
-韓文: "저"
+諺文: "저"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

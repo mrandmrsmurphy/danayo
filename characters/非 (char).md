@@ -19,7 +19,7 @@ pos: 代詞
 english:
   - ain't
 羅馬字: fi
-韓文: 삐
+諺文: 삐
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中

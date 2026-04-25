@@ -17,7 +17,7 @@ pos: ""
 english:
   - my wife
 羅馬字: cei
-韓文: "체"
+諺文: "체"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

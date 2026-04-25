@@ -19,7 +19,7 @@ english:
   - roar
   - howl
 羅馬字: hou
-韓文: "홋"
+諺文: "홋"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

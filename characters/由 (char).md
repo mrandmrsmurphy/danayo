@@ -21,7 +21,7 @@ english:
   - from
   - since
 羅馬字: "'yuo"
-韓文: 윳
+諺文: 윳
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

@@ -18,7 +18,7 @@ english:
   - domain
   - level
 羅馬字: "'wig"
-韓文: "윅"
+諺文: "윅"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: ""

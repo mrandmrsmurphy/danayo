@@ -19,7 +19,7 @@ english:
   - or
   - perhaps
 羅馬字: hog
-韓文: "혹"
+諺文: "혹"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "中"

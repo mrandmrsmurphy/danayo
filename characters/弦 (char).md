@@ -20,7 +20,7 @@ english:
   - string
   - hypotenuse
 羅馬字: hen
-韓文: "헌"
+諺文: "헌"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "名"

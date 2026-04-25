@@ -15,7 +15,7 @@ grade_level: "5"
 pos: 名詞
 english: wall
 羅馬字: beg
-韓文: 벅
+諺文: 벅
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

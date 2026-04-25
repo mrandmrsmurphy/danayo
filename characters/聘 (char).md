@@ -18,7 +18,7 @@ english:
   - engage
   - betroth
 羅馬字: ping
-韓文: "핑"
+諺文: "핑"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

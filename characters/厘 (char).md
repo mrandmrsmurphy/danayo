@@ -18,7 +18,7 @@ pos: ''
 english:
 - centi-
 羅馬字: li
-韓文: 리
+諺文: 리
 joyo_level: 高等
 hsk_level: '2'
 hanmun_edu_level: 名

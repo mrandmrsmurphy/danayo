@@ -19,7 +19,7 @@ english:
   - unravel
   - explain
 羅馬字: "'yeg"
-韓文: 역
+諺文: 역
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

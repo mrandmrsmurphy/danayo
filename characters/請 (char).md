@@ -22,7 +22,7 @@ english:
   - request
   - please
 羅馬字: cing
-韓文: "칭"
+諺文: "칭"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: "中"

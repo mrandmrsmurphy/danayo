@@ -19,7 +19,7 @@ english:
   - loyal
   - faithful
 羅馬字: "'id"
-韓文: 읻
+諺文: 읻
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名

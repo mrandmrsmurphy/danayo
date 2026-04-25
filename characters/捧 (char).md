@@ -17,7 +17,7 @@ pos: ""
 english:
   - hold up in two hands
 羅馬字: pong
-韓文: "퐁"
+諺文: "퐁"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -19,7 +19,7 @@ pos: "名詞"
 english:
   - lamp
 羅馬字: dung
-韓文: "둥"
+諺文: "둥"
 joyo_level: 4
 hsk_level: 1
 hanmun_edu_level: "中"

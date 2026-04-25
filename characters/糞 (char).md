@@ -18,7 +18,7 @@ english:
   - poop
   - shit
 羅馬字: fum
-韓文: "뿜"
+諺文: "뿜"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

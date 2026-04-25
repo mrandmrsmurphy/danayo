@@ -18,7 +18,7 @@ english:
   - attack
   - criticize
 羅馬字: gong
-韓文: "공"
+諺文: "공"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

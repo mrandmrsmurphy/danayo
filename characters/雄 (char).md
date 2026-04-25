@@ -18,7 +18,7 @@ english:
   - manly
   - male
 羅馬字: "'ung"
-韓文: "웅"
+諺文: "웅"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

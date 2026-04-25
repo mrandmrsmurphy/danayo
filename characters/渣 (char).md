@@ -20,7 +20,7 @@ english:
   - lees
   - sediment
 羅馬字: jwa
-韓文: "좌"
+諺文: "좌"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

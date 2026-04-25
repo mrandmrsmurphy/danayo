@@ -18,7 +18,7 @@ english:
   - old person
   - age
 羅馬字: lau
-韓文: 랏
+諺文: 랏
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中

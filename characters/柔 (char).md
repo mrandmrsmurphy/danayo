@@ -20,7 +20,7 @@ english:
   - soft
   - weak
 羅馬字: nyu
-韓文: "뉴"
+諺文: "뉴"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

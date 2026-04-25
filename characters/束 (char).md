@@ -17,7 +17,7 @@ pos: "量詞"
 english:
   - BUNDLE
 羅馬字: syog
-韓文: "쇽"
+諺文: "쇽"
 joyo_level: 4
 hsk_level: 1
 hanmun_edu_level: "高等"

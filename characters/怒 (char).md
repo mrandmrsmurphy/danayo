@@ -18,7 +18,7 @@ pos: ""
 english:
   - angry
 羅馬字: no
-韓文: "노"
+諺文: "노"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "中"

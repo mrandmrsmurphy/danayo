@@ -20,7 +20,7 @@ english:
   - before
   - preceeding
 羅馬字: jen
-韓文: "전"
+諺文: "전"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

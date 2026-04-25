@@ -19,7 +19,7 @@ english:
   - voluptuous
   - beautiful
 羅馬字: "'yem"
-韓文: 염
+諺文: 염
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

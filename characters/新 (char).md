@@ -19,7 +19,7 @@ pos: 性詞
 english:
   - new
 羅馬字: sin
-韓文: 신
+諺文: 신
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

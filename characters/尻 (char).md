@@ -17,7 +17,7 @@ pos: "名詞"
 english:
   - buttocks
 羅馬字: kau
-韓文: "캇"
+諺文: "캇"
 joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"

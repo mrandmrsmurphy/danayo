@@ -19,7 +19,7 @@ english:
   - be pregnant
   - conceive
 羅馬字: nim
-韓文: "님"
+諺文: "님"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

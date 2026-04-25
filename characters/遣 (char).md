@@ -18,7 +18,7 @@ english:
   - dispatch
   - send
 羅馬字: ken
-韓文: 컨
+諺文: 컨
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

@@ -18,7 +18,7 @@ pos: ""
 english:
   - go
 羅馬字: kyo
-韓文: 쿄
+諺文: 쿄
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -19,7 +19,7 @@ english:
   - invitation
   - card
 羅馬字: tob
-韓文: "톱"
+諺文: "톱"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

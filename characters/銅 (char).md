@@ -20,7 +20,7 @@ pos: 固有名詞
 english:
   - copper
 羅馬字: dong
-韓文: 동
+諺文: 동
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等

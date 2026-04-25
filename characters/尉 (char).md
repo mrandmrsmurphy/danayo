@@ -17,7 +17,7 @@ pos: ""
 english:
   - officer
 羅馬字: "'ud"
-韓文: 욷
+諺文: 욷
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

@@ -18,7 +18,7 @@ english:
   - rub
   - wipe
 羅馬字: mad
-韓文: "맏"
+諺文: "맏"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

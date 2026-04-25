@@ -17,7 +17,7 @@ pos: ""
 english:
   - shoulder
 羅馬字: gen
-韓文: 건
+諺文: 건
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 高等

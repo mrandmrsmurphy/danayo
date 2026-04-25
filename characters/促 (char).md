@@ -19,7 +19,7 @@ english:
   - rush
   - hasten
 羅馬字: cog
-韓文: "촉"
+諺文: "촉"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

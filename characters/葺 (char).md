@@ -17,7 +17,7 @@ pos: ""
 english:
   - roofed with
 羅馬字: cub
-韓文: "춥"
+諺文: "춥"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

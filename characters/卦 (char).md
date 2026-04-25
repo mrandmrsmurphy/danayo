@@ -15,7 +15,7 @@ radical: 卜
 pos: 名詞
 english: trigram
 羅馬字: gwai
-韓文: 괘
+諺文: 괘
 hanmun_edu_level: 名
 mc_id: 1567
 graphemic_classification: 圭

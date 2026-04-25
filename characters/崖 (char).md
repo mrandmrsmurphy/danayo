@@ -17,7 +17,7 @@ pos: ""
 english:
   - cliff
 羅馬字: "'ai"
-韓文: "애"
+諺文: "애"
 joyo_level: "表外字"
 hsk_level: 4
 hanmun_edu_level: "名"

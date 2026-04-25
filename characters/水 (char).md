@@ -18,7 +18,7 @@ pos: ""
 english:
   - water
 羅馬字: su
-韓文: "수"
+諺文: "수"
 joyo_level: 1
 hsk_level: 1
 hanmun_edu_level: "中"

@@ -18,7 +18,7 @@ pos: 連接詞
 english:
   - and
 羅馬字: ni
-韓文: 니
+諺文: 니
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中

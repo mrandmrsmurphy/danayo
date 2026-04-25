@@ -18,7 +18,7 @@ pos: ""
 english:
   - scale (fish)
 羅馬字: lin
-韓文: "린"
+諺文: "린"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

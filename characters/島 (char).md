@@ -17,7 +17,7 @@ pos: ""
 english:
   - island
 羅馬字: tau
-韓文: "탓"
+諺文: "탓"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

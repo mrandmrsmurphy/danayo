@@ -19,7 +19,7 @@ english:
   - straddle
   - ride
 羅馬字: kwa
-韓文: "콰"
+諺文: "콰"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

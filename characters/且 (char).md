@@ -21,7 +21,7 @@ pos: ""
 english:
   - also
 羅馬字: co
-韓文: "초"
+諺文: "초"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

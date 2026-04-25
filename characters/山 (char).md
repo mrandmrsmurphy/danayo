@@ -20,7 +20,7 @@ pos: ""
 english:
   - mountain
 羅馬字: san
-韓文: "산"
+諺文: "산"
 joyo_level: 1
 hsk_level: 1
 hanmun_edu_level: "中"

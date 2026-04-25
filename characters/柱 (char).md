@@ -17,7 +17,7 @@ pos: ""
 english:
   - pillar
 羅馬字: ju
-韓文: "주"
+諺文: "주"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "高等"

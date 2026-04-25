@@ -18,7 +18,7 @@ pos: ""
 english:
   - skewer
 羅馬字: jwam
-韓文: 좜
+諺文: 좜
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""

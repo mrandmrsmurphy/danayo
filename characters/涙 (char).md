@@ -19,7 +19,7 @@ english:
   - tear
   - eye water
 羅馬字: lui
-韓文: 뤼
+諺文: 뤼
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

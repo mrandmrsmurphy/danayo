@@ -21,7 +21,7 @@ english:
   - month
   - moon
 羅馬字: "'wed"
-韓文: 웓
+諺文: 웓
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

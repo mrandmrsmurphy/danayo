@@ -15,7 +15,7 @@ grade_level: "先進"
 pos: "性詞"
 english: thin
 羅馬字: syu
-韓文: "슈"
+諺文: "슈"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "名"

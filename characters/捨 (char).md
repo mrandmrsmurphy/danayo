@@ -18,7 +18,7 @@ english:
   - throw away
   - discard
 羅馬字: sya
-韓文: "샤"
+諺文: "샤"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ english:
   - model
   - pattern
 羅馬字: kye
-韓文: "켜"
+諺文: "켜"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

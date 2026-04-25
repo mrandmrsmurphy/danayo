@@ -19,7 +19,7 @@ pos: ""
 english:
   - mouth
 羅馬字: kou
-韓文: 콧
+諺文: 콧
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

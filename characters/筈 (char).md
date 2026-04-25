@@ -17,7 +17,7 @@ pos: ""
 english:
   - nock
 羅馬字: gwad
-韓文: "괃"
+諺文: "괃"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

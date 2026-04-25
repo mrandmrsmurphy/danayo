@@ -18,7 +18,7 @@ pos: ""
 english:
   - twist
 羅馬字: neb
-韓文: "넙"
+諺文: "넙"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

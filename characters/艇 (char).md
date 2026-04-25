@@ -19,7 +19,7 @@ english:
   - rowboat
   - boat
 羅馬字: deng
-韓文: "덩"
+諺文: "덩"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

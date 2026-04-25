@@ -19,7 +19,7 @@ english:
   - bad
   - evil
 羅馬字: "'ag"
-韓文: 악
+諺文: 악
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

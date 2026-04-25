@@ -17,7 +17,7 @@ pos: ""
 english:
   - lament
 羅馬字: dau
-韓文: "닷"
+諺文: "닷"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "名"

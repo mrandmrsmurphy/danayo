@@ -18,7 +18,7 @@ english:
   - upright
   - honest
 羅馬字: lyem
-韓文: "렴"
+諺文: "렴"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "高等"

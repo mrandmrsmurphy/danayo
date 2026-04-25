@@ -18,7 +18,7 @@ pos: ""
 english:
   - filial piety
 羅馬字: hyau
-韓文: "햣"
+諺文: "햣"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -224,6 +224,6 @@ views:
       file.name: 85
       note.size: 47
       note.注音: 81
-      note.韓文: 57
+      note.諺文: 57
 
 ```

@@ -18,7 +18,7 @@ pos: ""
 english:
   - yard
 羅馬字: ma
-韓文: "마"
+諺文: "마"
 joyo_level: "表外字"
 hsk_level: 2
 hanmun_edu_level: "名"

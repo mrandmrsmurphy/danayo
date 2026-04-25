@@ -19,7 +19,7 @@ pos: ""
 english:
   - rush at
 羅馬字: pog
-韓文: "폭"
+諺文: "폭"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

@@ -19,7 +19,7 @@ english:
   - mystery
   - enigma
 羅馬字: mei
-韓文: "메"
+諺文: "메"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

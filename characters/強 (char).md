@@ -19,7 +19,7 @@ english:
   - strong
   - powerful
 羅馬字: gyang
-韓文: 걍
+諺文: 걍
 joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: 中

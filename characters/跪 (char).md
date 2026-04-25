@@ -19,7 +19,7 @@ pos: 性詞
 english:
   - kneel
 羅馬字: kwei
-韓文: 퀘
+諺文: 퀘
 joyo_level: 表外字
 hsk_level: "2"
 hanmun_edu_level: 無

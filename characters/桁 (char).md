@@ -17,7 +17,7 @@ pos: ""
 english:
   - beam
 羅馬字: hang
-韓文: 항
+諺文: 항
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""

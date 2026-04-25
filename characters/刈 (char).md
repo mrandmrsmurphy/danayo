@@ -18,7 +18,7 @@ english:
   - cut
   - mow
 羅馬字: "'yai"
-韓文: "얘"
+諺文: "얘"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -18,7 +18,7 @@ english:
   - lesson
   - chapter
 羅馬字: kwam
-韓文: "쾀"
+諺文: "쾀"
 joyo_level: 4
 hsk_level: 1
 hanmun_edu_level: "中"

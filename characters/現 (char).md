@@ -19,7 +19,7 @@ english:
   - present
   - revealed
 羅馬字: hyen
-韓文: "현"
+諺文: "현"
 joyo_level: 5
 hsk_level: 1
 hanmun_edu_level: "中"

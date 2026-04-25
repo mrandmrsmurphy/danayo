@@ -18,7 +18,7 @@ english:
   - numerous
   - disorderly
 羅馬字: "fǝn"
-韓文: "쁜"
+諺文: "쁜"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

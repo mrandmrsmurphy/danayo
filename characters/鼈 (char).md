@@ -18,7 +18,7 @@ pos: ""
 english:
   - Pelodiscus sinensis (turtle)
 羅馬字: bed
-韓文: "벋"
+諺文: "벋"
 joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"

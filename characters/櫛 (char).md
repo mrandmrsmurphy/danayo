@@ -17,7 +17,7 @@ pos: ""
 english:
   - comb
 羅馬字: "jǝd"
-韓文: "즏"
+諺文: "즏"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level:

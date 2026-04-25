@@ -17,7 +17,7 @@ pos: ""
 english:
   - shine
 羅馬字: "'yang"
-韓文: "양"
+諺文: "양"
 joyo_level: 3
 hsk_level: 4
 hanmun_edu_level: "中"

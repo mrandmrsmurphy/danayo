@@ -18,7 +18,7 @@ pos: ""
 english:
   - soul
 羅馬字: hon
-韓文: "혼"
+諺文: "혼"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -17,7 +17,7 @@ pos: ""
 english:
   - leak
 羅馬字: lou
-韓文: 롯
+諺文: 롯
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

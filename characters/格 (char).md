@@ -20,7 +20,7 @@ english:
   - case
   - status
 羅馬字: gag
-韓文: 각
+諺文: 각
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等

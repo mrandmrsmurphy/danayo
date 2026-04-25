@@ -20,7 +20,7 @@ english:
   - bridge
   - beam
 羅馬字: gyau
-韓文:  걋
+諺文:  걋
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -19,7 +19,7 @@ pos: 事詞
 english:
   - throw away
 羅馬字: ped
-韓文: 펃
+諺文: 펃
 joyo_level: 表外字
 hsk_level: "4"
 hanmun_edu_level: 名

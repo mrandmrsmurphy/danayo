@@ -18,7 +18,7 @@ english:
   - peg
   - stopper
 羅馬字: swen
-韓文: "숸"
+諺文: "숸"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

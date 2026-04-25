@@ -18,7 +18,7 @@ english:
   - mane
   - whiskers
 羅馬字: lob
-韓文: "롭"
+諺文: "롭"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

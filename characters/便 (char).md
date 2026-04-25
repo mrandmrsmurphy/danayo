@@ -22,7 +22,7 @@ english:
   - plain
   - shitty
 羅馬字: byen
-韓文: 변
+諺文: 변
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 中

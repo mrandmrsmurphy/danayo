@@ -21,7 +21,7 @@ pos: 名詞
 english:
   - snake
 羅馬字: ta
-韓文: 타
+諺文: 타
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 高等

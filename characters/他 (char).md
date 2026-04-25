@@ -23,7 +23,7 @@ english:
   - another
   - additional
 羅馬字: tǝ
-韓文: 트
+諺文: 트
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

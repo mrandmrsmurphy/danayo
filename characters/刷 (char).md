@@ -18,7 +18,7 @@ english:
   - brush
   - scrub
 羅馬字: swad
-韓文: "솯"
+諺文: "솯"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

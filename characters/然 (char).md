@@ -18,7 +18,7 @@ pos: ""
 english:
   - so
 羅馬字: nyen
-韓文: "년"
+諺文: "년"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "中"

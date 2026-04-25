@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - neck
 羅馬字: ging
-韓文: 깅
+諺文: 깅
 joyo_level: 表外字
 hsk_level: "4"
 hanmun_edu_level: 名

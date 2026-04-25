@@ -22,7 +22,7 @@ english:
   - light
   - not heavy
 羅馬字: king
-韓文: 킹
+諺文: 킹
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

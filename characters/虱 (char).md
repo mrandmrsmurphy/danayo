@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - louse (lice)
 羅馬字: sod
-韓文: 솓
+諺文: 솓
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

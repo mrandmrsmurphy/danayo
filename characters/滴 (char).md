@@ -17,7 +17,7 @@ pos: ""
 english:
   - drip
 羅馬字: deg
-韓文: "덕"
+諺文: "덕"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - beg
 羅馬字: kid
-韓文: 킫
+諺文: 킫
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

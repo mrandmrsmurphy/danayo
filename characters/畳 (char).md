@@ -19,7 +19,7 @@ english:
   - folding mat
   - tatami mat
 羅馬字: deb
-韓文: 덥
+諺文: 덥
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 名

@@ -17,7 +17,7 @@ pos: ""
 english:
   - reward
 羅馬字: syang
-韓文: "샹"
+諺文: "샹"
 joyo_level: 4
 hsk_level: 3
 hanmun_edu_level: "中"

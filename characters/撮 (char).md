@@ -19,7 +19,7 @@ english:
   - small amount
   - pinch
 羅馬字: jwad
-韓文: "좓"
+諺文: "좓"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

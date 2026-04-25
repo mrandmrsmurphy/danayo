@@ -18,7 +18,7 @@ pos: ""
 english:
   - kudzu
 羅馬字: gyad
-韓文: "갿"
+諺文: "갿"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

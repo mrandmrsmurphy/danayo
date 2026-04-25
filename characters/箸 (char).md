@@ -18,7 +18,7 @@ pos: ""
 english:
   - chopsticks
 羅馬字: dwa
-韓文: "돠"
+諺文: "돠"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

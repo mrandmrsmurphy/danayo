@@ -17,7 +17,7 @@ pos: ""
 english:
   - lotus
 羅馬字: lyen
-韓文: "련"
+諺文: "련"
 joyo_level: "日本人名用漢字"
 hsk_level: 4
 hanmun_edu_level: "高等"

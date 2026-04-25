@@ -18,7 +18,7 @@ english:
   - oneness
   - Zen
 羅馬字: sen
-韓文: 선
+諺文: 선
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

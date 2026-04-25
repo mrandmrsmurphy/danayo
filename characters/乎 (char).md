@@ -20,7 +20,7 @@ english:
   - did
   - do
 羅馬字: ho
-韓文: "호"
+諺文: "호"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "中"

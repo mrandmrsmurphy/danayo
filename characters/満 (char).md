@@ -18,7 +18,7 @@ pos: ""
 english:
   - full
 羅馬字: man
-韓文: 만
+諺文: 만
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中

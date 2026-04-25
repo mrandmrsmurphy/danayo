@@ -17,7 +17,7 @@ pos: ""
 english:
   - marquis
 羅馬字: hou
-韓文: "홋"
+諺文: "홋"
 joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "高等"

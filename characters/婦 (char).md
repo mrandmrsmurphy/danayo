@@ -18,7 +18,7 @@ english:
   - lady
   - woman
 羅馬字: byu
-韓文: "뷰"
+諺文: "뷰"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

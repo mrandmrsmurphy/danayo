@@ -17,7 +17,7 @@ pos: ""
 english:
   - back
 羅馬字: boi
-韓文: "뵈"
+諺文: "뵈"
 joyo_level: 6
 hsk_level: 2
 hanmun_edu_level: "高等"

@@ -19,7 +19,7 @@ english:
   - mumble
   - stammer
 羅馬字: nod
-韓文: 녿
+諺文: 녿
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

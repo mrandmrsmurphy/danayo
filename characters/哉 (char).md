@@ -17,7 +17,7 @@ pos: ""
 english:
   - O
 羅馬字: jai
-韓文: "재"
+諺文: "재"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "中"

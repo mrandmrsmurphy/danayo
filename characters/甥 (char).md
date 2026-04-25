@@ -21,7 +21,7 @@ english:
   - sister's child
   - sororal niece or nephew
 羅馬字: sang
-韓文: 상
+諺文: 상
 joyo_level: 日本人名用漢字
 hsk_level: 無
 hanmun_edu_level: 名

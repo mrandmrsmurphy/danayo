@@ -20,7 +20,7 @@ english:
   - armor
   - first heavenly stem
 羅馬字: gab
-韓文: 갑
+諺文: 갑
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 中

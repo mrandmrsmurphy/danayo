@@ -18,7 +18,7 @@ pos: ""
 english:
   - government ministry
 羅馬字: syeng
-韓文: 셩
+諺文: 셩
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

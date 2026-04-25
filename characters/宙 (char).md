@@ -17,7 +17,7 @@ pos: ""
 english:
   - eternity
 羅馬字: juo
-韓文: "줏"
+諺文: "줏"
 joyo_level: 6
 hsk_level: 3
 hanmun_edu_level: "中"

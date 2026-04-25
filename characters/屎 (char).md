@@ -21,7 +21,7 @@ english:
   - excrement
   - excresion
 羅馬字: hǝ
-韓文: 흐
+諺文: 흐
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""

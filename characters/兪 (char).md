@@ -17,7 +17,7 @@ pos: 事詞
 english:
   - agree to
 羅馬字: "'yum"
-韓文: 윰
+諺文: 윰
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

@@ -19,7 +19,7 @@ pos: 副用名詞
 english:
   - -ing
 羅馬字: jung
-韓文: 중
+諺文: 중
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

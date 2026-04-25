@@ -19,7 +19,7 @@ pos: 性詞
 english:
   - obstinant
 羅馬字: go
-韓文: 고
+諺文: 고
 joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名

@@ -18,7 +18,7 @@ english:
   - report
   - tell
 羅馬字: bau
-韓文: 밧
+諺文: 밧
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中

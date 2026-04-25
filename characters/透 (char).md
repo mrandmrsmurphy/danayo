@@ -17,7 +17,7 @@ pos: ""
 english:
   - transparent
 羅馬字: tou
-韓文: "톳"
+諺文: "톳"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - too
 羅馬字: "'ǝg"
-韓文: "윽"
+諺文: "윽"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - long time (ago)
 羅馬字: gyu
-韓文: "규"
+諺文: "규"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

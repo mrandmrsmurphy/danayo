@@ -18,7 +18,7 @@ pos: 性詞
 english:
   - small
 羅馬字: so
-韓文: 소
+諺文: 소
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -22,7 +22,7 @@ pos: 性詞
 english:
   - intercalary
 羅馬字: nun
-韓文: 눈
+諺文: 눈
 joyo_level: 日本人名用漢字
 hsk_level: 無
 hanmun_edu_level: 高等

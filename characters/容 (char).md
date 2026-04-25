@@ -20,7 +20,7 @@ english:
   - form
   - figure
 羅馬字: "'yong"
-韓文: "용"
+諺文: "용"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

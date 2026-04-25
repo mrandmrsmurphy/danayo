@@ -18,7 +18,7 @@ english:
   - drain
   - drip
 羅馬字: lim
-韓文: 림
+諺文: 림
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""

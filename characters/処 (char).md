@@ -19,7 +19,7 @@ pos: "代詞"
 english:
   - place
 羅馬字: co
-韓文: "초"
+諺文: "초"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

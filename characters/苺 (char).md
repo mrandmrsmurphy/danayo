@@ -18,7 +18,7 @@ pos: ""
 english:
   - strawberry
 羅馬字: mai
-韓文: "매"
+諺文: "매"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

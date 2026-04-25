@@ -16,7 +16,7 @@ grade_level: "1"
 pos: 数詞
 english: one, unity, whole
 羅馬字: "'id"
-韓文: 읻
+諺文: 읻
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

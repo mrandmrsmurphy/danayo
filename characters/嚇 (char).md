@@ -19,7 +19,7 @@ english:
   - scare
   - frighten
 羅馬字: hag
-韓文: "학"
+諺文: "학"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

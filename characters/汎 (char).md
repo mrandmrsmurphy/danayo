@@ -19,7 +19,7 @@ pos: ""
 english:
   - pan-
 羅馬字: fam
-韓文: "빰"
+諺文: "빰"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - cheek
 羅馬字: gep
-韓文: 겁
+諺文: 겁
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 名

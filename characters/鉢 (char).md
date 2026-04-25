@@ -18,7 +18,7 @@ pos: ""
 english:
   - bowl
 羅馬字: bad
-韓文: "받"
+諺文: "받"
 joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"

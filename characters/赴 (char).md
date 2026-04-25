@@ -18,7 +18,7 @@ english:
   - attend
   - visit
 羅馬字: fuo
-韓文: "뿟"
+諺文: "뿟"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

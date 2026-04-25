@@ -19,7 +19,7 @@ english:
   - devour
   - ingest
 羅馬字: keg
-韓文: "컥"
+諺文: "컥"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: ""

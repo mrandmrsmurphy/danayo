@@ -20,7 +20,7 @@ english:
   - pull
   - play a bowed instrument
 羅馬字: lab
-韓文: 랍
+諺文: 랍
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名

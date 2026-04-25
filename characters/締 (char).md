@@ -19,7 +19,7 @@ english:
   - knot
   - conclusion
 羅馬字: tei
-韓文: "테"
+諺文: "테"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

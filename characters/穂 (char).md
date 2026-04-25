@@ -15,7 +15,7 @@ grade_level: "名"
 pos: 名詞
 english: ear of grain
 羅馬字: sui
-韓文: 쉬
+諺文: 쉬
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 名

@@ -20,7 +20,7 @@ english:
   - sheets of
   - stalks of
 羅馬字: moi
-韓文: "뫼"
+諺文: "뫼"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: ""

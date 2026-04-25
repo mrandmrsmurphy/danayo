@@ -19,7 +19,7 @@ english:
   - look after
   - watch
 羅馬字: kan
-韓文: 칸
+諺文: 칸
 joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - summer
 羅馬字: hya
-韓文: 햐
+諺文: 햐
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

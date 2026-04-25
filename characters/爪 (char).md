@@ -18,7 +18,7 @@ english:
   - animal foot
   - claw
 羅馬字: jwau
-韓文: "좟"
+諺文: "좟"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

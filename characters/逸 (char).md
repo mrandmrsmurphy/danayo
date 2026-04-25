@@ -19,7 +19,7 @@ english:
   - flee
   - escape
 羅馬字: "'id"
-韓文: "읻"
+諺文: "읻"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

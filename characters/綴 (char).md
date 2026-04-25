@@ -19,7 +19,7 @@ english:
   - bind
   - stop
 羅馬字: jwed
-韓文: "줟"
+諺文: "줟"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

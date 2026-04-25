@@ -20,7 +20,7 @@ english:
   - horn
   - angle
 羅馬字: gog
-韓文: 곡
+諺文: 곡
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 中

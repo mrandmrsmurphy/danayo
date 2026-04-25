@@ -20,7 +20,7 @@ english:
   - transit
   - ferry
 羅馬字: do
-韓文: 도
+諺文: 도
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

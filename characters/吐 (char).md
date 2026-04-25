@@ -21,7 +21,7 @@ english:
   - cough up
   - spew
 羅馬字: to
-韓文: 토
+諺文: 토
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

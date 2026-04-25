@@ -20,7 +20,7 @@ english:
   - be with
   - keep company
 羅馬字: boi
-韓文: "뵈"
+諺文: "뵈"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

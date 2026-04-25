@@ -19,7 +19,7 @@ english:
   - although
   - even if
 羅馬字: sui
-韓文: "쉬"
+諺文: "쉬"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "中"

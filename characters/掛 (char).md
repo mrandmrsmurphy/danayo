@@ -19,7 +19,7 @@ english:
   - hang
   - suspend
 羅馬字: gwai
-韓文: "괘"
+諺文: "괘"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

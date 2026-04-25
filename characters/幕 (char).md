@@ -18,7 +18,7 @@ pos: ""
 english:
   - curtain
 羅馬字: mag
-韓文: "막"
+諺文: "막"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ english:
   - pants
   - trousers
 羅馬字: ko
-韓文: "코"
+諺文: "코"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

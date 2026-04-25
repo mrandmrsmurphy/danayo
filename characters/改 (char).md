@@ -18,7 +18,7 @@ english:
   - redo
   - renew
 羅馬字: gai
-韓文: 개
+諺文: 개
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

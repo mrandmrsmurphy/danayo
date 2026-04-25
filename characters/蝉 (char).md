@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - cicada
 羅馬字: sen
-韓文: 선
+諺文: 선
 joyo_level: 日本人名用漢字
 hsk_level: "4"
 hanmun_edu_level: 名

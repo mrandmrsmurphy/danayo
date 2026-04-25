@@ -19,7 +19,7 @@ pos: ""
 english:
   - small bell
 羅馬字: leng
-韓文: "렁"
+諺文: "렁"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "名"

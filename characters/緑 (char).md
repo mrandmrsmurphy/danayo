@@ -20,7 +20,7 @@ pos: 性詞
 english:
   - green
 羅馬字: log
-韓文: 록
+諺文: 록
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

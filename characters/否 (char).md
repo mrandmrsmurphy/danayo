@@ -18,7 +18,7 @@ pos: ""
 english:
   - no
 羅馬字: fau
-韓文: "빳"
+諺文: "빳"
 joyo_level: 6
 hsk_level: 4
 hanmun_edu_level: "中"

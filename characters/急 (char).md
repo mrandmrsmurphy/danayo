@@ -20,7 +20,7 @@ english:
   - quick
   - urgent
 羅馬字: gib
-韓文: 깁
+諺文: 깁
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

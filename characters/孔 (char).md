@@ -17,7 +17,7 @@ pos: ""
 english:
   - cavity
 羅馬字: kong
-韓文: "콩"
+諺文: "콩"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "高等"

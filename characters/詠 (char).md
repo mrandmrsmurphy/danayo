@@ -18,7 +18,7 @@ english:
   - recite
   - chant
 羅馬字: "'wing"
-韓文: "윙"
+諺文: "윙"
 注音: "ㄨㄧㄫ"
 joyo_level: ""
 hsk_level: ""

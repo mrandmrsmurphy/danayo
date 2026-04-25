@@ -19,7 +19,7 @@ pos: 性詞
 english:
   - long
 羅馬字: jang
-韓文: 장
+諺文: 장
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

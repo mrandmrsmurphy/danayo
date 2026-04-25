@@ -17,7 +17,7 @@ pos: ""
 english:
   - how
 羅馬字: hei
-韓文: "헤"
+諺文: "헤"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -19,7 +19,7 @@ pos: 代詞
 english:
   - who
 羅馬字: syei
-韓文: 셰
+諺文: 셰
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

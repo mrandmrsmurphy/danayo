@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - ear
 羅馬字: ni
-韓文: 니
+諺文: 니
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

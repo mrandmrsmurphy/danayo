@@ -19,7 +19,7 @@ pos: 代詞
 english:
   - every
 羅馬字: gye
-韓文: 겨
+諺文: 겨
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 中

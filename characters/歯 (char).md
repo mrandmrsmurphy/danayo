@@ -18,7 +18,7 @@ english:
   - teeth
   - gear
 羅馬字: ci
-韓文: 치
+諺文: 치
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

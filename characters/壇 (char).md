@@ -18,7 +18,7 @@ pos: ""
 english:
   - altar
 羅馬字: dan
-韓文: "단"
+諺文: "단"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "高等"

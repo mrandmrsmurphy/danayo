@@ -19,7 +19,7 @@ english:
   - collection
   - class
 羅馬字: hu
-韓文: 후
+諺文: 후
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 名

@@ -17,7 +17,7 @@ pos: 名詞
 english:
   - lips
 羅馬字: sun
-韓文: 순
+諺文: 순
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

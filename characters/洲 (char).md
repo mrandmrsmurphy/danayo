@@ -17,7 +17,7 @@ pos: ""
 english:
   - islet
 羅馬字: juo
-韓文: "줏"
+諺文: "줏"
 joyo_level: "日本人名用漢字"
 hsk_level: 4
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - very
 羅馬字: fa
-韓文: "빠"
+諺文: "빠"
 joyo_level: "日本人名用漢字"
 hsk_level: 4
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - both
 羅馬字: lyang
-韓文: 량
+諺文: 량
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

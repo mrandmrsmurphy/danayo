@@ -19,7 +19,7 @@ english:
   - chicken
   - rooster
 羅馬字: gei
-韓文: 게
+諺文: 게
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

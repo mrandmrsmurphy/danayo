@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - flour
 羅馬字: men
-韓文: 먼
+諺文: 먼
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 名

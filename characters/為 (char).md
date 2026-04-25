@@ -19,7 +19,7 @@ pos: ""
 english:
   - namely
 羅馬字: "'wi"
-韓文: 위
+諺文: 위
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

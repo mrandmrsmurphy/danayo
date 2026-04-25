@@ -22,7 +22,7 @@ english:
   - play
   - opera
 羅馬字: geg
-韓文: 걱
+諺文: 걱
 joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: 高等

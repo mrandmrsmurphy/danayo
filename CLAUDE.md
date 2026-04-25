@@ -36,7 +36,7 @@ mandarin, cantonese, korean, korean_native, japanese, japanese_nanori, vietnames
 middle_chinese_initial, middle_chinese_final
 stroke_count, radical, skip_number
 grade_level, joyo_level, hsk_level, hanmun_edu_level
-pos, english, 羅馬字, 韓文, 注音
+pos, english, 羅馬字, 諺文, 注音
 danayo_id, mc_id, graphemic_classification, stand_in
 date-last-perfect
 tags: [character]
@@ -44,7 +44,7 @@ tags: [character]
 
 **Word** frontmatter fields:
 ```
-characters, 羅馬字, 韓文, mandarin, cantonese, korean, japanese, vietnamese, pos, 品詞, english, 注音
+characters, 羅馬字, 諺文, mandarin, cantonese, korean, japanese, vietnamese, pos, 品詞, english, 注音
 ```
 
 ## Creating new entries

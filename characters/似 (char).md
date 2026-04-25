@@ -21,7 +21,7 @@ english:
   - resembling
   - as if
 羅馬字: sa
-韓文: "사"
+諺文: "사"
 joyo_level: 5
 hsk_level: 4
 hanmun_edu_level: "高等"

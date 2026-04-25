@@ -17,7 +17,7 @@ pos: ""
 english:
   - cause
 羅馬字: ciǝ
-韓文: 츼
+諺文: 츼
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

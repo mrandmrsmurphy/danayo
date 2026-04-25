@@ -18,7 +18,7 @@ english:
   - float
   - waft
 羅馬字: buo
-韓文: 붓
+諺文: 붓
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

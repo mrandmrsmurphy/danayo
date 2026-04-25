@@ -19,7 +19,7 @@ english:
   - dish
   - container
 羅馬字: myeng
-韓文: "명"
+諺文: "명"
 joyo_level: 3
 hsk_level: "無"
 hanmun_edu_level: "名"

@@ -17,7 +17,7 @@ pos: ""
 english:
   - virtue
 羅馬字: tug
-韓文: "툭"
+諺文: "툭"
 joyo_level: 4
 hsk_level: 2
 hanmun_edu_level: "中"

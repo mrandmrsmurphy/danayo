@@ -18,7 +18,7 @@ pos: ""
 english:
   - basin
 羅馬字: bon
-韓文: "본"
+諺文: "본"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

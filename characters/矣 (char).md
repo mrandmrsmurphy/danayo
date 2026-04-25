@@ -17,7 +17,7 @@ pos: ""
 english:
   - hey
 羅馬字: we
-韓文: "워"
+諺文: "워"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

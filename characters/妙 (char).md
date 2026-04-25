@@ -20,7 +20,7 @@ english:
   - subtle
   - exquisite
 羅馬字: myou
-韓文: "묫"
+諺文: "묫"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

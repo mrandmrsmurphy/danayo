@@ -18,7 +18,7 @@ pos: ""
 english:
   - zither
 羅馬字: gum
-韓文: "굼"
+諺文: "굼"
 joyo_level: "高等"
 hsk_level: 3
 hanmun_edu_level: "高等"

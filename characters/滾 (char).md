@@ -18,7 +18,7 @@ english:
   - boil
   - roll
 羅馬字: gwan
-韓文: "관"
+諺文: "관"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

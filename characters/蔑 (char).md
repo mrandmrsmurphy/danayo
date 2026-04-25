@@ -17,7 +17,7 @@ pos: ''
 english:
 - scorn
 羅馬字: med
-韓文: 먿
+諺文: 먿
 joyo_level: 表外字
 hsk_level: ''
 hanmun_edu_level: ''

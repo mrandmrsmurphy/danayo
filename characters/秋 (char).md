@@ -20,7 +20,7 @@ english:
 - autumn
 - fall
 羅馬字: cuo
-韓文: 춧
+諺文: 춧
 joyo_level: '2'
 hsk_level: '1'
 hanmun_edu_level: 中

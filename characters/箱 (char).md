@@ -21,7 +21,7 @@ english:
   - chest
   - trunk
 羅馬字: sang
-韓文: "상"
+諺文: "상"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: ""

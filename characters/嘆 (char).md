@@ -18,7 +18,7 @@ english:
   - moan
   - sigh
 羅馬字: tan
-韓文: "탄"
+諺文: "탄"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

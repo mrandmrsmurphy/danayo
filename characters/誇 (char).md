@@ -21,7 +21,7 @@ english:
   - brag
   - exaggerate
 羅馬字: kwa
-韓文: 콰
+諺文: 콰
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 高等

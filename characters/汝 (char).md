@@ -17,7 +17,7 @@ pos: "代詞"
 english:
   - you dear
 羅馬字: noi
-韓文: "뇌"
+諺文: "뇌"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "中"

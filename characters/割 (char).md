@@ -21,7 +21,7 @@ english:
   - divide
   - separate
 羅馬字: gad
-韓文: 갇
+諺文: 갇
 joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: 高等

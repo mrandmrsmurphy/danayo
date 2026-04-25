@@ -19,7 +19,7 @@ english:
   - like
   - as
 羅馬字: nyo
-韓文: "뇨"
+諺文: "뇨"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "中"

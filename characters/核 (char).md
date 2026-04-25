@@ -17,7 +17,7 @@ pos: ""
 english:
   - nucleus
 羅馬字: hag
-韓文: 학
+諺文: 학
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

@@ -18,7 +18,7 @@ english:
   - soup
   - juice
 羅馬字: "jǝb"
-韓文: "즙"
+諺文: "즙"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

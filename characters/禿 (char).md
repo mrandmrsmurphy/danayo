@@ -17,7 +17,7 @@ pos: ""
 english:
   - bald
 羅馬字: tog
-韓文: "톡"
+諺文: "톡"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

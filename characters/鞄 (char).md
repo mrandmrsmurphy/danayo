@@ -19,7 +19,7 @@ english:
   - bag
   - luggage
 羅馬字: pag
-韓文: "팍"
+諺文: "팍"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "無"

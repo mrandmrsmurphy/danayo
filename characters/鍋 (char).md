@@ -17,7 +17,7 @@ pos: ""
 english:
   - pot
 羅馬字: gwa
-韓文: "과"
+諺文: "과"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

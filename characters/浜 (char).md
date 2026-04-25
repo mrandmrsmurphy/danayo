@@ -19,7 +19,7 @@ english:
   - edge
   - bank
 羅馬字: bin
-韓文: "빈"
+諺文: "빈"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

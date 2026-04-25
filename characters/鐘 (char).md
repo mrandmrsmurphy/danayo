@@ -17,7 +17,7 @@ pos: ""
 english:
   - bell
 羅馬字: jong
-韓文: "종"
+諺文: "종"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

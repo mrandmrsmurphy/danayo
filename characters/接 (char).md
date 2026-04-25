@@ -18,7 +18,7 @@ english:
   - contact
   - connect
 羅馬字: job
-韓文: "좁"
+諺文: "좁"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -20,7 +20,7 @@ english:
   - ray
   - skate
 羅馬字: him
-韓文: "힘"
+諺文: "힘"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

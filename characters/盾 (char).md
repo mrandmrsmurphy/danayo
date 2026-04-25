@@ -18,7 +18,7 @@ pos: ""
 english:
   - shield
 羅馬字: jun
-韓文: "준"
+諺文: "준"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "名"

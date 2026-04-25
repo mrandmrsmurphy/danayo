@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - shelf
 羅馬字: bang
-韓文: 방
+諺文: 방
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 名

@@ -18,7 +18,7 @@ english:
   - fragrant
   - smoke
 羅馬字: hun
-韓文: 훈
+諺文: 훈
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名

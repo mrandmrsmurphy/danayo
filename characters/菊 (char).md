@@ -17,7 +17,7 @@ pos: ""
 english:
   - chrysanthemum
 羅馬字: gug
-韓文: "국"
+諺文: "국"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

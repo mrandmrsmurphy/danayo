@@ -18,7 +18,7 @@ english:
   - stomach
   - gizzard
 羅馬字: "'ui"
-韓文: "위"
+諺文: "위"
 joyo_level: 4
 hsk_level: 3
 hanmun_edu_level: "高等"

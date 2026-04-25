@@ -17,7 +17,7 @@ pos: ""
 english:
   - hammer
 羅馬字: jwei
-韓文: 줴
+諺文: 줴
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""

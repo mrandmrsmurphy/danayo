@@ -21,7 +21,7 @@ english:
   - fog
   - mist
 羅馬字: mu
-韓文: 무
+諺文: 무
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

@@ -18,7 +18,7 @@ english:
   - sail
   - sailboat
 羅馬字: pam
-韓文: "팜"
+諺文: "팜"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

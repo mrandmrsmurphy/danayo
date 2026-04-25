@@ -19,7 +19,7 @@ pos: 修飾語
 english:
   - can
 羅馬字: kǝ
-韓文: 크
+諺文: 크
 joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 中

@@ -22,7 +22,7 @@ english:
   - cask
   - keg
 羅馬字: tong
-韓文: "통"
+諺文: "통"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

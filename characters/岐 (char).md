@@ -18,7 +18,7 @@ pos: ""
 english:
   - fork (in road)
 羅馬字: ge
-韓文: "거"
+諺文: "거"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: ""

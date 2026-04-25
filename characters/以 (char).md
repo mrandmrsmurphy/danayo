@@ -19,7 +19,7 @@ english:
   - by
   - using
 羅馬字: "'i"
-韓文: 이
+諺文: 이
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 中

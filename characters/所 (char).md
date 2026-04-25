@@ -21,7 +21,7 @@ pos: ""
 english:
   - -ee
 羅馬字: "sǝ"
-韓文: "스"
+諺文: "스"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

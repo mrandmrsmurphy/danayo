@@ -18,7 +18,7 @@ pos: ""
 english:
   - hot water
 羅馬字: tang
-韓文: "탕"
+諺文: "탕"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "高等"

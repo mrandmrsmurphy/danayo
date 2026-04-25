@@ -19,7 +19,7 @@ english:
   - time
   - occasion
 羅馬字: fan
-韓文: "빤"
+諺文: "빤"
 joyo_level: 2
 hsk_level: 3
 hanmun_edu_level: "中"

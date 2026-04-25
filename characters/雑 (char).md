@@ -18,7 +18,7 @@ pos: ""
 english:
   - miscellaneous
 羅馬字: jab
-韓文: 잡
+諺文: 잡
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等

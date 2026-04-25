@@ -19,7 +19,7 @@ english:
   - neat
   - tidy
 羅馬字: jeng
-韓文: "정"
+諺文: "정"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "高等"

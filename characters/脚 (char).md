@@ -18,7 +18,7 @@ pos: ""
 english:
   - leg
 羅馬字: gyag
-韓文: 갹
+諺文: 갹
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

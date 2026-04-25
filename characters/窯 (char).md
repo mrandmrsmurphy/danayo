@@ -17,7 +17,7 @@ pos: ""
 english:
   - kiln
 羅馬字: "'you"
-韓文: 욧
+諺文: 욧
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 名

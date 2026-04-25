@@ -17,7 +17,7 @@ pos: ""
 english:
   - water chestnut
 羅馬字: "lǝng"
-韓文: "릉"
+諺文: "릉"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "名"

@@ -18,7 +18,7 @@ english:
   - bridegroom
   - son-in-law
 羅馬字: sei
-韓文: "세"
+諺文: "세"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

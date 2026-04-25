@@ -20,7 +20,7 @@ english:
   - channel
   - warp
 羅馬字: geng
-韓文: 겅
+諺文: 겅
 joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 中

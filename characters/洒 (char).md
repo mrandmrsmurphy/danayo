@@ -20,7 +20,7 @@ english:
 - sprinkle
 - spray
 羅馬字: swai
-韓文: 쇄
+諺文: 쇄
 joyo_level: 表外字
 hsk_level: ''
 hanmun_edu_level: ''

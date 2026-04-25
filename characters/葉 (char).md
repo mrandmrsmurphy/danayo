@@ -18,7 +18,7 @@ pos: ""
 english:
   - leaf
 羅馬字: "'yob"
-韓文: 욥
+諺文: 욥
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

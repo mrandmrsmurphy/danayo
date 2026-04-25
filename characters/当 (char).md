@@ -19,7 +19,7 @@ pos: ""
 english:
   - while
 羅馬字: dang
-韓文: 당
+諺文: 당
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

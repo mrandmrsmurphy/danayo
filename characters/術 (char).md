@@ -19,7 +19,7 @@ english:
   - method
   - technique
 羅馬字: sud
-韓文: "숟"
+諺文: "숟"
 joyo_level: 5
 hsk_level: 1
 hanmun_edu_level: "高等"

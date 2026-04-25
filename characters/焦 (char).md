@@ -18,7 +18,7 @@ english:
   - burned
   - scorched
 羅馬字: jou
-韓文: "좃"
+諺文: "좃"
 joyo_level: "高等"
 hsk_level: 3
 hanmun_edu_level: "名"

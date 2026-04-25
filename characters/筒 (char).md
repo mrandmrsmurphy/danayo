@@ -18,7 +18,7 @@ english:
   - cylinder
   - tube
 羅馬字: dong
-韓文: "동"
+諺文: "동"
 joyo_level: "高等"
 hsk_level: 3
 hanmun_edu_level: "名"

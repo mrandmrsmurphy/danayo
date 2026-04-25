@@ -20,7 +20,7 @@ pos: 事詞
 english:
   - hold
 羅馬字: di
-韓文: 디
+諺文: 디
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

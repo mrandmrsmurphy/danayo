@@ -19,7 +19,7 @@ pos: "名詞"
 english:
   - head
 羅馬字: tou
-韓文: "톳"
+諺文: "톳"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

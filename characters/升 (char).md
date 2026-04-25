@@ -18,7 +18,7 @@ english:
   - litre
   - liter
 羅馬字: sung
-韓文: "숭"
+諺文: "숭"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "名"

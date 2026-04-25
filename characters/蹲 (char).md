@@ -19,7 +19,7 @@ english:
   - squat
   - crouch
 羅馬字: jon
-韓文: "존"
+諺文: "존"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "無"

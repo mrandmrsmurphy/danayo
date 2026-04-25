@@ -18,7 +18,7 @@ english:
   - nautical mile
   - knot
 羅馬字: li
-韓文: "리"
+諺文: "리"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -22,7 +22,7 @@ english:
   - explicate
   - exegete
 羅馬字: hun
-韓文: "훈"
+諺文: "훈"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "中"

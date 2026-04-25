@@ -20,7 +20,7 @@ english:
   - hit
   - beat
 羅馬字: geg
-韓文: 걱
+諺文: 걱
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

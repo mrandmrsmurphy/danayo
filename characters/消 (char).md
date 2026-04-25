@@ -19,7 +19,7 @@ english:
   - die out
   - melt away
 羅馬字: syou
-韓文: "숏"
+諺文: "숏"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

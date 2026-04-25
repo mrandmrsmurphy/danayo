@@ -19,7 +19,7 @@ english:
 - clasp
 - hold
 羅馬字: heb
-韓文: 헙
+諺文: 헙
 joyo_level: 高等
 hsk_level: ''
 hanmun_edu_level: 名

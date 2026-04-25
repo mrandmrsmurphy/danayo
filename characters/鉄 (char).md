@@ -19,7 +19,7 @@ pos: 固有名詞
 english:
 - iron
 羅馬字: ted
-韓文: 턷
+諺文: 턷
 joyo_level: '3'
 hsk_level: '2'
 hanmun_edu_level: 中

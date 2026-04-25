@@ -20,7 +20,7 @@ english:
   - attend
   - go to
 羅馬字: hang
-韓文: 항
+諺文: 항
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

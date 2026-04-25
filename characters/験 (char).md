@@ -21,7 +21,7 @@ english:
   - check
   - examine
 羅馬字: "'em"
-韓文: 엄
+諺文: 엄
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 高等

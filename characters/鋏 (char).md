@@ -17,7 +17,7 @@ pos: ""
 english:
   - tongs
 羅馬字: geb
-韓文: "겁"
+諺文: "겁"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

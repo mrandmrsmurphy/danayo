@@ -20,7 +20,7 @@ english:
   - tumulus
   - burial mound
 羅馬字: cong
-韓文: "총"
+諺文: "총"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

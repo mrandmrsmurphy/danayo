@@ -18,7 +18,7 @@ pos: ""
 english:
   - greedy
 羅馬字: tam
-韓文: "탐"
+諺文: "탐"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

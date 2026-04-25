@@ -22,7 +22,7 @@ english:
   - to
   - <dative>
 羅馬字: "'u"
-韓文: 우
+諺文: 우
 joyo_level: 表外字
 hsk_level: "2"
 hanmun_edu_level: 中

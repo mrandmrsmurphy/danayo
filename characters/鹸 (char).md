@@ -22,7 +22,7 @@ english:
   - base
   - alkali
 羅馬字: cem
-韓文: 첨
+諺文: 첨
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無

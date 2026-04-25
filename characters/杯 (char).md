@@ -20,7 +20,7 @@ english:
   - cup
   - cupful
 羅馬字: boi
-韓文: 뵈
+諺文: 뵈
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -21,7 +21,7 @@ english:
   - cart
   - car
 羅馬字: cwa
-韓文: 촤
+諺文: 촤
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

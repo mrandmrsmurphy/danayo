@@ -18,7 +18,7 @@ english:
   - bond
   - certificate
 羅馬字: kon
-韓文: "콘"
+諺文: "콘"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "無"

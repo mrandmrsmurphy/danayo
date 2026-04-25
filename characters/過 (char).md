@@ -18,7 +18,7 @@ english:
   - than
   - too
 羅馬字: gwa
-韓文: "과"
+諺文: "과"
 joyo_level: 5
 hsk_level: 1
 hanmun_edu_level: "中"

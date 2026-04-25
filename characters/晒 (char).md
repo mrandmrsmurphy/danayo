@@ -20,7 +20,7 @@ english:
   - dry in the sun
   - bleach
 羅馬字: syai
-韓文: 섀
+諺文: 섀
 joyo_level: 表外字
 hsk_level: "5"
 hanmun_edu_level: 名

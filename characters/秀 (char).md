@@ -19,7 +19,7 @@ english:
   - blossom
   - shoot
 羅馬字: suo
-韓文: 숫
+諺文: 숫
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

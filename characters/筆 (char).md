@@ -20,7 +20,7 @@ english:
   - pen
   - stylus
 羅馬字: pud
-韓文: 푿
+諺文: 푿
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

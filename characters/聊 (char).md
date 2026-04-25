@@ -17,7 +17,7 @@ pos: ""
 english:
   - chat
 羅馬字: lyau
-韓文: 럇
+諺文: 럇
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: ""

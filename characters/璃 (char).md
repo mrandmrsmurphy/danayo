@@ -17,7 +17,7 @@ pos: ""
 english:
   - glass
 羅馬字: "lǝ"
-韓文: "르"
+諺文: "르"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "無"

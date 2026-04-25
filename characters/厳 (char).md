@@ -21,7 +21,7 @@ english:
   - rigid
   - stern
 羅馬字: "'yom"
-韓文: 욤
+諺文: 욤
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等

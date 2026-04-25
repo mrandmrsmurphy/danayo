@@ -18,7 +18,7 @@ pos: ""
 english:
   - eyebrows
 羅馬字: miǝ
-韓文: "믜"
+諺文: "믜"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

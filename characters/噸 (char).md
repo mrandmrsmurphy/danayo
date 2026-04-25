@@ -17,7 +17,7 @@ pos: ""
 english:
   - ton
 羅馬字: ton
-韓文: 톤
+諺文: 톤
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

@@ -21,7 +21,7 @@ english:
   - clever
   - smart
 羅馬字: min
-韓文: "민"
+諺文: "민"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - heavy
 羅馬字: cong
-韓文: 총
+諺文: 총
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

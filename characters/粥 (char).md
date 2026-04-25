@@ -18,7 +18,7 @@ pos: ""
 english:
   - congee
 羅馬字: jug
-韓文: "죽"
+諺文: "죽"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

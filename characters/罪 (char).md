@@ -19,7 +19,7 @@ english:
   - sin
   - crime
 羅馬字: joi
-韓文: "죄"
+諺文: "죄"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

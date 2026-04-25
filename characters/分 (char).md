@@ -20,7 +20,7 @@ pos: ""
 english:
   - divide
 羅馬字: bun
-韓文: "분"
+諺文: "분"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

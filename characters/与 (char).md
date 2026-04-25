@@ -19,7 +19,7 @@ pos: 連接詞
 english:
   - and
 羅馬字: "'yo"
-韓文: 요
+諺文: 요
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 中

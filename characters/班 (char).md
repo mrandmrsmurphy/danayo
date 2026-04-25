@@ -19,7 +19,7 @@ english:
   - party
   - section
 羅馬字: pan
-韓文: "판"
+諺文: "판"
 joyo_level: 6
 hsk_level: 1
 hanmun_edu_level: "高等"

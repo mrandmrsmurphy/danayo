@@ -23,7 +23,7 @@ english:
   - opposite
   - reverse
 羅馬字: "'eg"
-韓文: 억
+諺文: 억
 joyo_level: "5"
 hsk_level: "4"
 hanmun_edu_level: 中

@@ -18,7 +18,7 @@ pos: ""
 english:
   - gun
 羅馬字: cung
-韓文: "충"
+諺文: "충"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

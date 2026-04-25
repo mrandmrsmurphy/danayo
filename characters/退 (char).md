@@ -20,7 +20,7 @@ english:
   - recede
   - withdraw
 羅馬字: tiǝ
-韓文: "틔"
+諺文: "틔"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

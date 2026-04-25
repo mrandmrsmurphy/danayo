@@ -20,7 +20,7 @@ pos: ""
 english:
   - military
 羅馬字: mu
-韓文: "무"
+諺文: "무"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

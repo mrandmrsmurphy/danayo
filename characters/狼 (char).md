@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - wolf
 羅馬字: lang
-韓文: 랑
+諺文: 랑
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 名

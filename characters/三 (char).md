@@ -15,7 +15,7 @@ grade_level: "1"
 pos: 数詞
 english: three
 羅馬字: sam
-韓文: 삼
+諺文: 삼
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

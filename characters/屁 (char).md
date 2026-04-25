@@ -17,7 +17,7 @@ pos: ""
 english:
   - far
 羅馬字: piǝ
-韓文: "픠"
+諺文: "픠"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "無"

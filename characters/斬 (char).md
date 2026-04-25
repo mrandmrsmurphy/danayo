@@ -20,7 +20,7 @@ english:
   - chop
   - sever
 羅馬字: jam
-韓文: "잠"
+諺文: "잠"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

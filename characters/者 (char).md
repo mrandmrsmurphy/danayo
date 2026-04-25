@@ -18,7 +18,7 @@ pos: ""
 english:
   - -er
 羅馬字: ca
-韓文: "차"
+諺文: "차"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: ""

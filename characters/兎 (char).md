@@ -18,7 +18,7 @@ english:
   - rabbit
   - hare
 羅馬字: to
-韓文: "토"
+諺文: "토"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "名"

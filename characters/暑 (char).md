@@ -18,7 +18,7 @@ pos: ""
 english:
   - hot (weather)
 羅馬字: syo
-韓文: "쇼"
+諺文: "쇼"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

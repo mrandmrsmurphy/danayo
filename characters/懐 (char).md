@@ -18,7 +18,7 @@ english:
   - miss
   - think of
 羅馬字: hwai
-韓文: 홰
+諺文: 홰
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

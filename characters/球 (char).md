@@ -19,7 +19,7 @@ english:
   - sphere
   - ball
 羅馬字: gyu
-韓文: "규"
+諺文: "규"
 joyo_level: 3
 hsk_level: 1
 hanmun_edu_level: "高等"

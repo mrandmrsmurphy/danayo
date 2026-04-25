@@ -18,7 +18,7 @@ english:
   - cry
   - weep
 羅馬字: kog
-韓文: "콕"
+諺文: "콕"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "高等"

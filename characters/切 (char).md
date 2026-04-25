@@ -20,7 +20,7 @@ english:
   - mince
   - carve
 羅馬字: ced
-韓文: 첟
+諺文: 첟
 joyo_level: "2"
 hsk_level: ""
 hanmun_edu_level: 高等

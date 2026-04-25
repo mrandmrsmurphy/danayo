@@ -20,7 +20,7 @@ english:
   - suffering
   - bitter
 羅馬字: ko
-韓文: 코
+諺文: 코
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

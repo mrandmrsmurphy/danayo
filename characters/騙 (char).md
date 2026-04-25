@@ -18,7 +18,7 @@ english:
   - deceive
   - defraid
 羅馬字: pyen
-韓文: "편"
+諺文: "편"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

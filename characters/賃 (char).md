@@ -18,7 +18,7 @@ pos: ""
 english:
   - rent
 羅馬字: nim
-韓文: "님"
+諺文: "님"
 joyo_level: 6
 hsk_level: "無"
 hanmun_edu_level: "高等"

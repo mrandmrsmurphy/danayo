@@ -18,7 +18,7 @@ pos: ""
 english:
   - legitimate wife
 羅馬字: dag
-韓文: "닥"
+諺文: "닥"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

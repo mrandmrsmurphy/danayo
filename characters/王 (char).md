@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - king
 羅馬字: "'wang"
-韓文: 왕
+諺文: 왕
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

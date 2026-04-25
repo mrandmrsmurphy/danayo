@@ -20,7 +20,7 @@ pos: ""
 english:
   - dress up
 羅馬字: fin
-韓文: "삔"
+諺文: "삔"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

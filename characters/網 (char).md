@@ -21,7 +21,7 @@ english:
   - net
   - network
 羅馬字: mang
-韓文: 망
+諺文: 망
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 名

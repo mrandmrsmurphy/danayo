@@ -18,7 +18,7 @@ english:
   - letter
   - note
 羅馬字: jad
-韓文: "잗"
+諺文: "잗"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: ""

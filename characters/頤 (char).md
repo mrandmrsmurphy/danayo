@@ -17,7 +17,7 @@ pos: ""
 english:
   - chin
 羅馬字: "'i"
-韓文: "이"
+諺文: "이"
 joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"

@@ -19,7 +19,7 @@ english:
   - inclined
   - biased
 羅馬字: pyen
-韓文: "편"
+諺文: "편"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

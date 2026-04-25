@@ -21,7 +21,7 @@ english:
   - void
   - emptiness
 羅馬字: hyo
-韓文: 효
+諺文: 효
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 中

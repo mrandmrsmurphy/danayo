@@ -20,7 +20,7 @@ english:
   - respond
   - reply
 羅馬字: "'ing"
-韓文: 잉
+諺文: 잉
 joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 中

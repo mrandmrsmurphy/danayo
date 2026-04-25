@@ -18,7 +18,7 @@ pos: ""
 english:
   - saw
 羅馬字: gyo
-韓文: "교"
+諺文: "교"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

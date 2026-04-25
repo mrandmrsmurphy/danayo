@@ -17,7 +17,7 @@ pos: ""
 english:
   - convex
 羅馬字: dod
-韓文: "돋"
+諺文: "돋"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -20,7 +20,7 @@ english:
   - die
   - fall apart
 羅馬字: bung
-韓文: "붕"
+諺文: "붕"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

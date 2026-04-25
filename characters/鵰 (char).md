@@ -18,7 +18,7 @@ english:
   - eagle
   - vulture
 羅馬字: cuo
-韓文: "춧"
+諺文: "춧"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "無"

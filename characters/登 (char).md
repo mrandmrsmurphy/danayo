@@ -20,7 +20,7 @@ english:
   - board
   - climb
 羅馬字: dung
-韓文: "둥"
+諺文: "둥"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -19,7 +19,7 @@ english:
   - fill in
   - make good on
 羅馬字: den
-韓文: 던
+諺文: 던
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 名

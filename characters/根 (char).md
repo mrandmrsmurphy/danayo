@@ -20,7 +20,7 @@ english:
   - root
   - foundation
 羅馬字: gǝn
-韓文: 근
+諺文: 근
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -19,7 +19,7 @@ english:
   - bank
   - shoal
 羅馬字: tan
-韓文: "탄"
+諺文: "탄"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

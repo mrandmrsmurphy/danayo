@@ -17,7 +17,7 @@ pos: ""
 english:
   - withered
 羅馬字: ko
-韓文: "코"
+諺文: "코"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

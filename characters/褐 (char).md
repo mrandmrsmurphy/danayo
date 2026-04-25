@@ -20,7 +20,7 @@ english:
   - dull
   - dark
 羅馬字: had
-韓文: 핟
+諺文: 핟
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""

@@ -18,7 +18,7 @@ pos: ""
 english:
   - expense
 羅馬字: fai
-韓文: 빼
+諺文: 빼
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等

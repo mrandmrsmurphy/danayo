@@ -19,7 +19,7 @@ pos: ""
 english:
   - kill
 羅馬字: sad
-韓文: "삳"
+諺文: "삳"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

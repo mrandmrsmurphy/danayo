@@ -21,7 +21,7 @@ english:
   - prefecture
   - subdivision
 羅馬字: hwen
-韓文: "훤"
+諺文: "훤"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: ""

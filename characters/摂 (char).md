@@ -18,7 +18,7 @@ pos: ""
 english:
   - vicarious
 羅馬字: neb
-韓文: 넙
+諺文: 넙
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

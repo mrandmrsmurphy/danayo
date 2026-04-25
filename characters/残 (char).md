@@ -20,7 +20,7 @@ english:
   - remaining
   - not broken off
 羅馬字: jan
-韓文: 잔
+諺文: 잔
 joyo_level: "4"
 hsk_level: "4"
 hanmun_edu_level: 高等

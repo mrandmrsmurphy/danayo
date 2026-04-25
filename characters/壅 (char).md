@@ -17,7 +17,7 @@ pos: ""
 english:
   - obstruct
 羅馬字: "'ong"
-韓文: "옹"
+諺文: "옹"
 joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"

@@ -18,7 +18,7 @@ pos: "代詞"
 english:
   - when
 羅馬字: si
-韓文: "시"
+諺文: "시"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

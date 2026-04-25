@@ -18,7 +18,7 @@ pos: ""
 english:
   - younger brother
 羅馬字: de
-韓文: "더"
+諺文: "더"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

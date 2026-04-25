@@ -18,7 +18,7 @@ pos: ""
 english:
   - far
 羅馬字: "'on"
-韓文: "온"
+諺文: "온"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

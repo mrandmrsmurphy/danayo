@@ -19,7 +19,7 @@ english:
   - wretched
   - cruel
 羅馬字: cam
-韓文: 참
+諺文: 참
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

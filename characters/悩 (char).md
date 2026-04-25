@@ -18,7 +18,7 @@ english:
   - angered
   - mad
 羅馬字: nau
-韓文: 낫
+諺文: 낫
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

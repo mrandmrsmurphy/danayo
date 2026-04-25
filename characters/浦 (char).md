@@ -19,7 +19,7 @@ english:
   - riverbank
   - shore
 羅馬字: po
-韓文: 포
+諺文: 포
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

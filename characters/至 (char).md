@@ -17,7 +17,7 @@ pos: ""
 english:
   - until
 羅馬字: jiǝ
-韓文: "즤"
+諺文: "즤"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

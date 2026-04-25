@@ -19,7 +19,7 @@ pos: 修飾語
 english:
   - sir
 羅馬字: gong
-韓文: 공
+諺文: 공
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

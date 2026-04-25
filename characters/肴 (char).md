@@ -17,7 +17,7 @@ pos: ''
 english:
 - cooked meat
 羅馬字: hyau
-韓文: 햣
+諺文: 햣
 joyo_level: 日本人名用漢字
 hsk_level: ''
 hanmun_edu_level: ''

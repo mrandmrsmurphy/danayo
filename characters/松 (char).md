@@ -18,7 +18,7 @@ english:
   - pine
   - fir
 羅馬字: syong
-韓文: 숑
+諺文: 숑
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 中

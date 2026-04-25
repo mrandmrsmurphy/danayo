@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - wild boar
 羅馬字: twan
-韓文: 퇀
+諺文: 퇀
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無

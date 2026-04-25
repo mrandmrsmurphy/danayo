@@ -19,7 +19,7 @@ english:
   - frequent
   - again and again
 羅馬字: pim
-韓文: "핌"
+諺文: "핌"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

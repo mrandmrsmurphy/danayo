@@ -20,7 +20,7 @@ pos: ""
 english:
   - horse
 羅馬字: ma
-韓文: "마"
+諺文: "마"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

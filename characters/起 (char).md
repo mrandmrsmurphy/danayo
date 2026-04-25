@@ -17,7 +17,7 @@ pos: ""
 english:
   - rise up
 羅馬字: ki
-韓文: "키"
+諺文: "키"
 joyo_level: 3
 hsk_level: 1
 hanmun_edu_level: "中"

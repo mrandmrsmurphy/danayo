@@ -18,7 +18,7 @@ pos: ""
 english:
   - shovel
 羅馬字: cau
-韓文: "찻"
+諺文: "찻"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "無"

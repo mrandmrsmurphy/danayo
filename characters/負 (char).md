@@ -19,7 +19,7 @@ english:
   - carry
   - bear
 羅馬字: byu
-韓文: "뷰"
+諺文: "뷰"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "高等"

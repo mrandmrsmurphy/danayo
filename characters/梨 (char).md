@@ -17,7 +17,7 @@ pos: ""
 english:
   - pear
 羅馬字: liǝ
-韓文: "릐"
+諺文: "릐"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

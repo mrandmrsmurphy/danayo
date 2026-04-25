@@ -22,7 +22,7 @@ english:
   - glow worm
   - lightning bug
 羅馬字: hing
-韓文: 힝
+諺文: 힝
 joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 高等

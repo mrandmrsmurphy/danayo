@@ -17,7 +17,7 @@ pos: ""
 english:
   - cocoon
 羅馬字: gyem
-韓文: "겸"
+諺文: "겸"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

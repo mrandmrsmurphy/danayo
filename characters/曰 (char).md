@@ -17,7 +17,7 @@ pos: ""
 english:
   - saith
 羅馬字: "'wed"
-韓文: "웓"
+諺文: "웓"
 joyo_level: "表外字"
 hsk_level: 4
 hanmun_edu_level: "中"

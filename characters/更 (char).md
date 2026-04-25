@@ -17,7 +17,7 @@ pos: 副用名詞
 english:
   - more
 羅馬字: gang
-韓文: 강
+諺文: 강
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

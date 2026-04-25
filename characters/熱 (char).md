@@ -20,7 +20,7 @@ english:
   - heat up
   - be hot
 羅馬字: nyed
-韓文: "녇"
+諺文: "녇"
 joyo_level: 4
 hsk_level: 1
 hanmun_edu_level: "中"

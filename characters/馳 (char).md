@@ -19,7 +19,7 @@ english:
   - run fast
   - drive quickly
 羅馬字: jui
-韓文: "쥐"
+諺文: "쥐"
 joyo_level: "日本人名用漢字"
 hsk_level: 4
 hanmun_edu_level: "名"

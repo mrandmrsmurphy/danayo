@@ -17,7 +17,7 @@ pos: ""
 english:
   - willow
 羅馬字: lyu
-韓文: "류"
+諺文: "류"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

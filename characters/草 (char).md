@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - grass
 羅馬字: cau
-韓文: 찻
+諺文: 찻
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

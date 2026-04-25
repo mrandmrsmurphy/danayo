@@ -17,7 +17,7 @@ pos: ""
 english:
   - pig
 羅馬字: tun
-韓文: "툰"
+諺文: "툰"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

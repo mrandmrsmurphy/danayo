@@ -18,7 +18,7 @@ english:
   - determine
   - decide
 羅馬字: kwed
-韓文: "퀃"
+諺文: "퀃"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

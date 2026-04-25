@@ -18,7 +18,7 @@ english:
   - match
   - pair
 羅馬字: poi
-韓文: "푀"
+諺文: "푀"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "高等"

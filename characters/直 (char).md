@@ -20,7 +20,7 @@ english:
   - erect
   - aligned
 羅馬字: jig
-韓文: "직"
+諺文: "직"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

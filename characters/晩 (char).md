@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - evening
 羅馬字: mon
-韓文: 몬
+諺文: 몬
 joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中

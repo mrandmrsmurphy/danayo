@@ -18,7 +18,7 @@ english:
   - abbreviate
   - plan
 羅馬字: lyag
-韓文: "략"
+諺文: "략"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "高等"

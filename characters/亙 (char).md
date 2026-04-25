@@ -18,7 +18,7 @@ english:
   - across
   - athwart
 羅馬字: gung
-韓文: "궁"
+諺文: "궁"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -20,7 +20,7 @@ english:
   - disentangle
   - sell well
 羅馬字: pad
-韓文: "팓"
+諺文: "팓"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

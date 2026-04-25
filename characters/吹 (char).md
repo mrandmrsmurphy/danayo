@@ -19,7 +19,7 @@ english:
   - puff
   - bluster
 羅馬字: cui
-韓文: "취"
+諺文: "취"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

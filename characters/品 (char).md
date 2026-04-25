@@ -19,7 +19,7 @@ english:
   - article
   - item
 羅馬字: pum
-韓文: 품
+諺文: 품
 joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: 中

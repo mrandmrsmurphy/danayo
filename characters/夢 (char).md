@@ -17,7 +17,7 @@ pos: ""
 english:
   - dream
 羅馬字: mung
-韓文: "뭉"
+諺文: "뭉"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "高等"

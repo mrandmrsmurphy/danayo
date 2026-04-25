@@ -18,7 +18,7 @@ pos: ""
 english:
   - sleeve
 羅馬字: me
-韓文: "머"
+諺文: "머"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "名"

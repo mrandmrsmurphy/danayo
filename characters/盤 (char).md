@@ -18,7 +18,7 @@ pos: ""
 english:
   - tray
 羅馬字: ban
-韓文: "반"
+諺文: "반"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

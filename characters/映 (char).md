@@ -21,7 +21,7 @@ english:
   - reflect
   - project
 羅馬字: "'yeng"
-韓文: 영
+諺文: 영
 joyo_level: "6"
 hsk_level: "4"
 hanmun_edu_level: 高等

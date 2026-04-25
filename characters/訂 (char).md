@@ -19,7 +19,7 @@ english:
   - revise
   - correct
 羅馬字: teng
-韓文: "텅"
+諺文: "텅"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

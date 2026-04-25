@@ -17,7 +17,7 @@ pos: ""
 english:
   - hoof
 羅馬字: dei
-韓文: "데"
+諺文: "데"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

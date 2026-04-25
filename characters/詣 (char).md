@@ -19,7 +19,7 @@ english:
   - visit
   - reach
 羅馬字: "'ei"
-韓文: "에"
+諺文: "에"
 joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"

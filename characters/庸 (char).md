@@ -19,7 +19,7 @@ english:
   - ordinary
   - mediocre
 羅馬字: "'yong"
-韓文: "용"
+諺文: "용"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "高等"

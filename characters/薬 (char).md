@@ -20,7 +20,7 @@ english:
   - medicine
   - chemical
 羅馬字: "'yag"
-韓文: 약
+諺文: 약
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

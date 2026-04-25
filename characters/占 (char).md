@@ -17,7 +17,7 @@ pos: ""
 english:
   - occupy
 羅馬字: jem
-韓文: "점"
+諺文: "점"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

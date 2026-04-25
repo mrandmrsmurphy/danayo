@@ -17,7 +17,7 @@ pos: ""
 english:
   - this
 羅馬字: "cǝ"
-韓文: "츠"
+諺文: "츠"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "中"

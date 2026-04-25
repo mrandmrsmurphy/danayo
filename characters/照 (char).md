@@ -18,7 +18,7 @@ pos: ""
 english:
   - shine
 羅馬字: jou
-韓文: "좃"
+諺文: "좃"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

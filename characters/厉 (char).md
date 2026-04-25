@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - whetstone
 羅馬字: le
-韓文: 러
+諺文: 러
 joyo_level: 表外字
 hsk_level: "2"
 hanmun_edu_level: 名

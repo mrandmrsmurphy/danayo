@@ -23,7 +23,7 @@ english:
   - slender
   - quiet (sound)
 羅馬字: sei
-韓文: 세
+諺文: 세
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

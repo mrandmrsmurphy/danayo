@@ -18,7 +18,7 @@ english:
   - enmesh
   - wrap around
 羅馬字: lag
-韓文: "락"
+諺文: "락"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -20,7 +20,7 @@ pos: ""
 english:
   - not exist
 羅馬字: mag
-韓文: 막
+諺文: 막
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中

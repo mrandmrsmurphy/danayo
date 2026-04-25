@@ -17,7 +17,7 @@ pos: ""
 english:
   - alcohol bottle
 羅馬字: jong
-韓文: "종"
+諺文: "종"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

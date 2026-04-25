@@ -18,7 +18,7 @@ english:
   - slice
   - flake
 羅馬字: pen
-韓文: 펀
+諺文: 펀
 joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中

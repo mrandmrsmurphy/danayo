@@ -18,7 +18,7 @@ pos: ""
 english:
   - flip
 羅馬字: fon
-韓文: 뽄
+諺文: 뽄
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

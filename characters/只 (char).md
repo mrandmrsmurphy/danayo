@@ -20,7 +20,7 @@ english:
   - simply
   - merely
 羅馬字: ce
-韓文: 처
+諺文: 처
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 中

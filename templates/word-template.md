@@ -17,7 +17,7 @@ const bopomofo = await tp.system.prompt("Bopomofo spelling");
 tR += `---
 characters: ${char}
 羅馬字: ${romaji}
-韓文: ${hanmun}
+諺文: ${hanmun}
 mandarin: ${mandarin}
 cantonese: ${cantonese}
 korean: ${korean}

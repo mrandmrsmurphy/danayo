@@ -20,7 +20,7 @@ english:
   - assent
   - return
 羅馬字: dab
-韓文: 답
+諺文: 답
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

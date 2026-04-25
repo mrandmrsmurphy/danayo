@@ -17,7 +17,7 @@ pos: ""
 english:
   - hill
 羅馬字: kyu
-韓文: "큐"
+諺文: "큐"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

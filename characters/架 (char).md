@@ -23,7 +23,7 @@ english:
   - stand
   - prop
 羅馬字: ga
-韓文: 가
+諺文: 가
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

@@ -17,7 +17,7 @@ pos: ""
 english:
   - cash
 羅馬字: pe
-韓文: "퍼"
+諺文: "퍼"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

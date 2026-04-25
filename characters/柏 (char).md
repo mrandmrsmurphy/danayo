@@ -18,7 +18,7 @@ english:
   - cypress
   - cedar
 羅馬字: byag
-韓文: 뱍
+諺文: 뱍
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 名

@@ -19,7 +19,7 @@ english:
   - speak on
   - talk about
 羅馬字: hwai
-韓文: "홰"
+諺文: "홰"
 joyo_level: 2
 hsk_level: 1
 hanmun_edu_level: "中"

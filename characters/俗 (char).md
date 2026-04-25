@@ -17,7 +17,7 @@ pos: ""
 english:
   - vulgar
 羅馬字: sog
-韓文: "속"
+諺文: "속"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "中"

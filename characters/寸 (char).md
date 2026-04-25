@@ -19,7 +19,7 @@ english:
   - inch
   - measurement
 羅馬字: con
-韓文: "촌"
+諺文: "촌"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

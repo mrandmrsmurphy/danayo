@@ -19,7 +19,7 @@ english:
   - attain
   - acheive
 羅馬字: tad
-韓文: 탇
+諺文: 탇
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

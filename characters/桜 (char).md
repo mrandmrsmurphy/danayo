@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - cherry blossom
 羅馬字: "'ang"
-韓文: 앙
+諺文: 앙
 joyo_level: "5"
 hsk_level: "4"
 hanmun_edu_level: 名

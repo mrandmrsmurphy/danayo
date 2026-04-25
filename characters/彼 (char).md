@@ -18,7 +18,7 @@ pos: ""
 english:
   - yon
 羅馬字: "bǝ"
-韓文: "브"
+諺文: "브"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "中"

@@ -18,7 +18,7 @@ english:
   - cry
   - sob
 羅馬字: kib
-韓文: "킵"
+諺文: "킵"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "中"

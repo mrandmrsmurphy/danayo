@@ -20,7 +20,7 @@ english:
   - deity
   - spirit
 羅馬字: sin
-韓文: "신"
+諺文: "신"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

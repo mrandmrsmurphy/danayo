@@ -17,7 +17,7 @@ pos: ""
 english:
   - comb
 羅馬字: so
-韓文: "소"
+諺文: "소"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

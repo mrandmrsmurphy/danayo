@@ -17,7 +17,7 @@ pos: ""
 english:
   - awe
 羅馬字: song
-韓文: "송"
+諺文: "송"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

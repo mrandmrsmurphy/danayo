@@ -19,7 +19,7 @@ english:
   - front door
   - cover
 羅馬字: fui
-韓文: "쀠"
+諺文: "쀠"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

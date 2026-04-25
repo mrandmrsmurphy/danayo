@@ -18,7 +18,7 @@ pos: "事詞"
 english:
   - explain
 羅馬字: gyai
-韓文: "걔"
+諺文: "걔"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - salt
 羅馬字: "'yem"
-韓文: 염
+諺文: 염
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 高等

@@ -18,7 +18,7 @@ pos: ""
 english:
   - manners
 羅馬字: lei
-韓文: "레"
+諺文: "레"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: ""

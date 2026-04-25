@@ -18,7 +18,7 @@ english:
   - sack
   - bag
 羅馬字: dai
-韓文: "대"
+諺文: "대"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

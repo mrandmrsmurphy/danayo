@@ -17,7 +17,7 @@ pos: "名詞"
 english:
   - second (time)
 羅馬字: myou
-韓文: "묫"
+諺文: "묫"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "高等"

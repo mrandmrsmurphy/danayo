@@ -19,7 +19,7 @@ pos: ""
 english:
   - confused
 羅馬字: mai
-韓文: "매"
+諺文: "매"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "無"

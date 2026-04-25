@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - dog
 羅馬字: kwen
-韓文: 퀀
+諺文: 퀀
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

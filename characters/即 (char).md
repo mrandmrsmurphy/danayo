@@ -21,7 +21,7 @@ english:
   - in other words
   - a.k.a.
 羅馬字: "jǝg"
-韓文: "즉"
+諺文: "즉"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

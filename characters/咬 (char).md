@@ -22,7 +22,7 @@ english:
   - gnaw
   - chew
 羅馬字: "'yau"
-韓文: 얏
+諺文: 얏
 joyo_level: 表外字
 hsk_level: "2"
 hanmun_edu_level: 名

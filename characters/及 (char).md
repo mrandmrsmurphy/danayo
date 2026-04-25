@@ -19,7 +19,7 @@ pos: 事詞
 english:
   - reach out to
 羅馬字: gub
-韓文: 굽
+諺文: 굽
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 中

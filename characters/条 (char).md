@@ -17,7 +17,7 @@ pos: 量詞
 english:
   - LONG-THIN
 羅馬字: jo
-韓文: 조
+諺文: 조
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 高等

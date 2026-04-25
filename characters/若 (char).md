@@ -18,7 +18,7 @@ pos: ""
 english:
   - if
 羅馬字: nya
-韓文: 냐
+諺文: 냐
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 中

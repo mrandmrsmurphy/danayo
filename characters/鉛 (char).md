@@ -19,7 +19,7 @@ pos: 固有名詞
 english:
   - lead (substance)
 羅馬字: "'yen"
-韓文: 연
+諺文: 연
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

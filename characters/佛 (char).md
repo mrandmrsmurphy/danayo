@@ -19,7 +19,7 @@ pos: ""
 english:
   - Buddha
 羅馬字: bud
-韓文: 붇
+諺文: 붇
 joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 中

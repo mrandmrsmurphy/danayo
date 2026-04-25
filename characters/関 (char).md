@@ -20,7 +20,7 @@ pos: 事詞
 english:
   - close
 羅馬字: gwam
-韓文: 괌
+諺文: 괌
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中

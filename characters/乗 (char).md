@@ -18,7 +18,7 @@ pos: ""
 english:
   - ride
 羅馬字: sung
-韓文: 숭
+諺文: 숭
 joyo_level: "3"
 hsk_level: "3"
 hanmun_edu_level: 中

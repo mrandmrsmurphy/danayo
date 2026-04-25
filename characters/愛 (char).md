@@ -19,7 +19,7 @@ pos: ""
 english:
   - love
 羅馬字: "'ai"
-韓文: 애
+諺文: 애
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中

@@ -18,7 +18,7 @@ pos: 性詞
 english:
   - mutual
 羅馬字: lyen
-韓文: 련
+諺文: 련
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 中

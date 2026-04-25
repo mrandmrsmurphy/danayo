@@ -18,7 +18,7 @@ pos: ""
 english:
   - toublesome
 羅馬字: fom
-韓文: "뽐"
+諺文: "뽐"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

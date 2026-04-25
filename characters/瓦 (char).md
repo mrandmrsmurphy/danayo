@@ -17,7 +17,7 @@ pos: ""
 english:
   - tile
 羅馬字: "'wa"
-韓文: 와
+諺文: 와
 joyo_level: 高等
 hsk_level: 3
 hanmun_edu_level: 中

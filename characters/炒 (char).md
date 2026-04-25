@@ -19,7 +19,7 @@ english:
   - fry
   - sauté
 羅馬字: cau
-韓文: "찻"
+諺文: "찻"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

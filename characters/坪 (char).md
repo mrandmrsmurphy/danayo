@@ -20,7 +20,7 @@ english:
   - 36 square shaku
   - pyeong
 羅馬字: byeng
-韓文: "병"
+諺文: "병"
 joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"

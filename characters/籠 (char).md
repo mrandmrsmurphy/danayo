@@ -17,7 +17,7 @@ pos: "名詞"
 english:
   - basket
 羅馬字: long
-韓文: "롱"
+諺文: "롱"
 joyo_level: "高等"
 hsk_level: 3
 hanmun_edu_level: "名"

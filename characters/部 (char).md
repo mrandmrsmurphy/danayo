@@ -19,7 +19,7 @@ pos: ""
 english:
   - part
 羅馬字: bou
-韓文: "봇"
+諺文: "봇"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

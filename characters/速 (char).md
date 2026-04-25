@@ -18,7 +18,7 @@ english:
   - quick
   - fast
 羅馬字: sog
-韓文: "속"
+諺文: "속"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - frost
 羅馬字: swang
-韓文: 솽
+諺文: 솽
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

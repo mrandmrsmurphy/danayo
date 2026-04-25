@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - yoke
 羅馬字: "'ag"
-韓文: 악
+諺文: 악
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無

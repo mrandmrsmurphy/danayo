@@ -18,7 +18,7 @@ english:
   - urine
   - urinate
 羅馬字: nyau
-韓文: "냣"
+諺文: "냣"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

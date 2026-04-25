@@ -19,7 +19,7 @@ english:
   - path
   - rut
 羅馬字: kui
-韓文: "퀴"
+諺文: "퀴"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

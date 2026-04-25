@@ -18,7 +18,7 @@ pos: ""
 english:
   - lock
 羅馬字: jeng
-韓文: 정
+諺文: 정
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

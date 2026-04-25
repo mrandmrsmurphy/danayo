@@ -19,7 +19,7 @@ english:
   - hot
   - cruel
 羅馬字: lad
-韓文: "랃"
+諺文: "랃"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

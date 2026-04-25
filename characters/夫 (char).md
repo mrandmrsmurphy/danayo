@@ -19,7 +19,7 @@ pos: ""
 english:
   - right?
 羅馬字: "fǝ"
-韓文: "쁘"
+諺文: "쁘"
 joyo_level: 4
 hsk_level: 4
 hanmun_edu_level: "中"

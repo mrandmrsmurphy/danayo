@@ -19,7 +19,7 @@ english:
   - eat
   - dine
 羅馬字: can
-韓文: "찬"
+諺文: "찬"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -19,7 +19,7 @@ english:
   - hook
   - barb
 羅馬字: gou
-韓文: "곳"
+諺文: "곳"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

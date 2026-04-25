@@ -17,7 +17,7 @@ pos: ""
 english:
   - outermost part
 羅馬字: gwag
-韓文: "곽"
+諺文: "곽"
 joyo_level: "高等"
 hsk_level: 6
 hanmun_edu_level: "高等"

@@ -20,7 +20,7 @@ english:
   - good fortune
   - prosperity
 羅馬字: fug
-韓文: "뿍"
+諺文: "뿍"
 joyo_level: 3
 hsk_level: 1
 hanmun_edu_level: "中"

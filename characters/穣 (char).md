@@ -18,7 +18,7 @@ pos: ""
 english:
   - stalks of grain
 羅馬字: nyang
-韓文: 냥
+諺文: 냥
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 名

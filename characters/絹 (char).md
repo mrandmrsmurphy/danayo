@@ -17,7 +17,7 @@ pos: ""
 english:
   - silk
 羅馬字: gwen
-韓文: 권
+諺文: 권
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等

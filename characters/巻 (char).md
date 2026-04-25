@@ -21,7 +21,7 @@ english:
   - roll
   - roll up
 羅馬字: gwen
-韓文: 권
+諺文: 권
 joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: 中

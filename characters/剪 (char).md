@@ -17,7 +17,7 @@ pos: ""
 english:
   - scissors
 羅馬字: jen
-韓文: "전"
+諺文: "전"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

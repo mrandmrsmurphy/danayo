@@ -17,7 +17,7 @@ pos: ""
 english:
   - wide
 羅馬字: gwang
-韓文: "광"
+諺文: "광"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

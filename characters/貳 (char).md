@@ -19,7 +19,7 @@ english:
   - disloyal
   - betray
 羅馬字: niǝ
-韓文: "늬"
+諺文: "늬"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "名"

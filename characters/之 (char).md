@@ -19,7 +19,7 @@ english:
   - s
   - which
 羅馬字: ti
-韓文: 티
+諺文: 티
 joyo_level: 日本人名用漢字
 hsk_level: "1"
 hanmun_edu_level: 中

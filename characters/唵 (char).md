@@ -18,7 +18,7 @@ pos: ""
 english:
   - Ohm
 羅馬字: "'om"
-韓文: "옴"
+諺文: "옴"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

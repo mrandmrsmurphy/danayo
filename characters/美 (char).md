@@ -19,7 +19,7 @@ english:
   - beautiful
   - pretty
 羅馬字: mi
-韓文: "미"
+諺文: "미"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

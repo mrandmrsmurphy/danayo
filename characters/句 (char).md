@@ -23,7 +23,7 @@ english:
   - clause
   - pericope
 羅馬字: gu
-韓文: "구"
+諺文: "구"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

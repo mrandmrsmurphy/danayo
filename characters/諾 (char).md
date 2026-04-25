@@ -17,7 +17,7 @@ pos: ""
 english:
   - consent
 羅馬字: nag
-韓文: 낙
+諺文: 낙
 joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 高等

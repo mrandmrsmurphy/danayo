@@ -19,7 +19,7 @@ english:
   - flex
   - crouch
 羅馬字: kud
-韓文: "쿧"
+諺文: "쿧"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

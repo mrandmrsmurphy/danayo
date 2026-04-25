@@ -17,7 +17,7 @@ pos: ""
 english:
   - times
 羅馬字: bai
-韓文: "배"
+諺文: "배"
 joyo_level: 3
 hsk_level: 1
 hanmun_edu_level: "高等"

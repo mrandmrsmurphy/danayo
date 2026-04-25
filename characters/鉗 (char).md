@@ -20,7 +20,7 @@ english:
   - pliers
   - forceps
 羅馬字: gem
-韓文: "검"
+諺文: "검"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

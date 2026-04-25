@@ -20,7 +20,7 @@ pos: 性詞
 english:
   - near
 羅馬字: gin
-韓文: 긴
+諺文: 긴
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

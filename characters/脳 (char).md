@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - brain
 羅馬字: nau
-韓文: 낫
+諺文: 낫
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 高等

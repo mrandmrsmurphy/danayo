@@ -19,7 +19,7 @@ english:
   - quick
   - happy
 羅馬字: kwai
-韓文: "쾌"
+諺文: "쾌"
 joyo_level: 5
 hsk_level: 1
 hanmun_edu_level: "中"

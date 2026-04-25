@@ -21,7 +21,7 @@ pos: 感詞
 english:
   - do not ever
 羅馬字: mud
-韓文: 묻
+諺文: 묻
 joyo_level: 日本人名用漢字
 hsk_level: "4"
 hanmun_edu_level: 中

@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - feeling
 羅馬字: kiǝ
-韓文: 킈
+諺文: 킈
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

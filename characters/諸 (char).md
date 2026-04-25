@@ -21,7 +21,7 @@ pos: ""
 english:
   - various
 羅馬字: ja
-韓文: "자"
+諺文: "자"
 joyo_level: 6
 hsk_level: 4
 hanmun_edu_level: "中"

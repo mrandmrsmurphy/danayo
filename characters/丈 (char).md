@@ -18,7 +18,7 @@ grade_level: "5"
 pos: 名詞
 english: zhang
 羅馬字: cang
-韓文: 창
+諺文: 창
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

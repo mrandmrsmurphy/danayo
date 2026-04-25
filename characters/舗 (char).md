@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - store
 羅馬字: pou
-韓文: 폿
+諺文: 폿
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 無

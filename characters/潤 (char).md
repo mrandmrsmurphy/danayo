@@ -20,7 +20,7 @@ english:
   - wet
   - increasing
 羅馬字: nun
-韓文: "눈"
+諺文: "눈"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -17,7 +17,7 @@ pos: ""
 english:
   - -ee (but a prefix)
 羅馬字: pi
-韓文: "피"
+諺文: "피"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

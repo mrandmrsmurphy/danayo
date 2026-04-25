@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - springtime
 羅馬字: cun
-韓文: 춘
+諺文: 춘
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

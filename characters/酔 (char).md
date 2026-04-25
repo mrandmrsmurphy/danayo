@@ -19,7 +19,7 @@ pos: 事詞
 english:
   - drunk
 羅馬字: jui
-韓文: 쥐
+諺文: 쥐
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

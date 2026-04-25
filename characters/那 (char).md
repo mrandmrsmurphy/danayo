@@ -19,7 +19,7 @@ english:
   - then
   - in that case
 羅馬字: na
-韓文: "나"
+諺文: "나"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: "高等"

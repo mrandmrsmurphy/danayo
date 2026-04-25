@@ -20,7 +20,7 @@ english:
   - after
   - next
 羅馬字: "'ig"
-韓文: "익"
+諺文: "익"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "名"

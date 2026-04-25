@@ -23,7 +23,7 @@ english:
   - power
   - strength
 羅馬字: lig
-韓文: 릭
+諺文: 릭
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

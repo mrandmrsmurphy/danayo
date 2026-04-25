@@ -17,7 +17,7 @@ pos: ""
 english:
   - sticky
 羅馬字: nem
-韓文: "넘"
+諺文: "넘"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "名"

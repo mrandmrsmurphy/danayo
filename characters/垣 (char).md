@@ -18,7 +18,7 @@ english:
   - low wall
   - enclosure
 羅馬字: "'on"
-韓文: "온"
+諺文: "온"
 joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"

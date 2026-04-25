@@ -20,7 +20,7 @@ english:
   - surely
   - definitely
 羅馬字: bid
-韓文: 빋
+諺文: 빋
 joyo_level: "4"
 hsk_level: "3"
 hanmun_edu_level: 中

@@ -17,7 +17,7 @@ pos: ""
 english:
   - bamboo bascket
 羅馬字: kwang
-韓文: "쾅"
+諺文: "쾅"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

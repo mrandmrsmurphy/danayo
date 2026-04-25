@@ -19,7 +19,7 @@ pos: 事詞
 english:
   - praise
 羅馬字: pau
-韓文: 팟
+諺文: 팟
 joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名

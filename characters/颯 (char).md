@@ -19,7 +19,7 @@ english:
   - sound of wind
   - gale
 羅馬字: sab
-韓文: 삽
+諺文: 삽
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""

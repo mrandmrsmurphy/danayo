@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - dew
 羅馬字: lo
-韓文: 로
+諺文: 로
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 中

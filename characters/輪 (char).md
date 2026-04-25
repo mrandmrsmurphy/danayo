@@ -20,7 +20,7 @@ english:
   - ring
   - loop
 羅馬字: lun
-韓文: "룬"
+諺文: "룬"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

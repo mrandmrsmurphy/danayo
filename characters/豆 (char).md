@@ -18,7 +18,7 @@ pos: ""
 english:
   - bean
 羅馬字: dou
-韓文: "돗"
+諺文: "돗"
 joyo_level: 3
 hsk_level: 2
 hanmun_edu_level: "中"

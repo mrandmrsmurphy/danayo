@@ -18,7 +18,7 @@ english:
   - princess
   - goddess
 羅馬字: gi
-韓文: "기"
+諺文: "기"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "名"

@@ -18,7 +18,7 @@ english:
   - broad
   - wide
 羅馬字: kwad
-韓文: "괃"
+諺文: "괃"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

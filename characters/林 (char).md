@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - grove
 羅馬字: lim
-韓文: 림
+諺文: 림
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

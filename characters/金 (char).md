@@ -21,7 +21,7 @@ english:
   - metal
   - gold
 羅馬字: gim
-韓文: 김
+諺文: 김
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

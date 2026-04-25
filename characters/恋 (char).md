@@ -18,7 +18,7 @@ english:
 - romance
 - romantic love
 羅馬字: len
-韓文: 런
+諺文: 런
 joyo_level: ''
 hsk_level: ''
 hanmun_edu_level: ''

@@ -17,7 +17,7 @@ pos: "名詞"
 english:
   - duck
 羅馬字: "'ab"
-韓文: "압"
+諺文: "압"
 joyo_level: "日本人名用漢字"
 hsk_level: 3
 hanmun_edu_level: "名"

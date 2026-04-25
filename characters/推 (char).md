@@ -17,7 +17,7 @@ pos: ""
 english:
   - push
 羅馬字: cui
-韓文: "취"
+諺文: "취"
 joyo_level: 6
 hsk_level: 1
 hanmun_edu_level: "中"

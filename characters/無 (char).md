@@ -18,7 +18,7 @@ pos: 系詞
 english:
   - lack
 羅馬字: mǝ
-韓文: 므
+諺文: 므
 joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: 中

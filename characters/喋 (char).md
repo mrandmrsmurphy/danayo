@@ -19,7 +19,7 @@ english:
   - chatter
   - babble
 羅馬字: deb
-韓文: "덥"
+諺文: "덥"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "無"

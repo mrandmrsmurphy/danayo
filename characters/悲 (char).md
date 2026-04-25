@@ -17,7 +17,7 @@ pos: ""
 english:
   - be sad
 羅馬字: biǝ
-韓文: "븨"
+諺文: "븨"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

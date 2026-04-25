@@ -21,7 +21,7 @@ english:
   - hoard
   - gather
 羅馬字: cug
-韓文: "축"
+諺文: "축"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

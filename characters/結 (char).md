@@ -19,7 +19,7 @@ english:
   - tie
   - join
 羅馬字: ged
-韓文: "걷"
+諺文: "걷"
 joyo_level: 4
 hsk_level:
 hanmun_edu_level: "中"

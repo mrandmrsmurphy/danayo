@@ -20,7 +20,7 @@ english:
   - page
   - sheet
 羅馬字: hed
-韓文: "헏"
+諺文: "헏"
 joyo_level: "日本人名用漢字"
 hsk_level: 1
 hanmun_edu_level: ""

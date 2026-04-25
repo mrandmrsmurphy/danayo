@@ -18,7 +18,7 @@ pos: ""
 english:
   - pus
 羅馬字: nong
-韓文: "농"
+諺文: "농"
 joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"

@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - paper
 羅馬字: je
-韓文: 저
+諺文: 저
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

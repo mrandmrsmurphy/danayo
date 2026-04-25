@@ -18,7 +18,7 @@ pos: ""
 english:
   - therefore
 羅馬字: "'en"
-韓文: "언"
+諺文: "언"
 joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "高等"

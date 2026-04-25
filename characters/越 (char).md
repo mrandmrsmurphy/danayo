@@ -19,7 +19,7 @@ pos: 事詞
 english:
   - exceed
 羅馬字: "'wed"
-韓文: 웓
+諺文: 웓
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 高等

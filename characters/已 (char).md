@@ -18,7 +18,7 @@ pos: 修飾語
 english:
   - -ed
 羅馬字: "'ǝ"
-韓文: 으
+諺文: 으
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 中

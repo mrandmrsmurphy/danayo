@@ -18,7 +18,7 @@ english:
   - ballot
   - ticket
 羅馬字: pyau
-韓文: "퍗"
+諺文: "퍗"
 joyo_level: 4
 hsk_level: 1
 hanmun_edu_level: "高等"

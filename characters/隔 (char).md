@@ -21,7 +21,7 @@ english:
   - separate
   - every other
 羅馬字: gag
-韓文: 각
+諺文: 각
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等

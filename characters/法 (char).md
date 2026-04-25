@@ -20,7 +20,7 @@ english:
   - rule
   - law
 羅馬字: fab
-韓文: "빱"
+諺文: "빱"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -18,7 +18,7 @@ pos: ""
 english:
   - lucky
 羅馬字: gid
-韓文: "긷"
+諺文: "긷"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

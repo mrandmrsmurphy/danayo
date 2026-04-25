@@ -19,7 +19,7 @@ english:
   - follow
   - hunt
 羅馬字: tui
-韓文: "튀"
+諺文: "튀"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

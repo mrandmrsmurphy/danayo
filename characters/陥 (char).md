@@ -18,7 +18,7 @@ pos: 性詞
 english:
   - submerge
 羅馬字: ham
-韓文: 함
+諺文: 함
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

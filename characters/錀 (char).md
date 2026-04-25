@@ -18,7 +18,7 @@ pos: 固有名詞
 english:
   - roentgenium
 羅馬字: lon
-韓文: 론
+諺文: 론
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

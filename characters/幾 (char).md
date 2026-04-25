@@ -20,7 +20,7 @@ english:
   - some
   - several
 羅馬字: giǝ
-韓文: "긔"
+諺文: "긔"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: "中"

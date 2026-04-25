@@ -18,7 +18,7 @@ pos: ""
 english:
   - after
 羅馬字: hou
-韓文: "홋"
+諺文: "홋"
 joyo_level: 6
 hsk_level: 1
 hanmun_edu_level: "中"

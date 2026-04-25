@@ -20,7 +20,7 @@ english:
   - shake off
   - brush off
 羅馬字: fud
-韓文: 뿓
+諺文: 뿓
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

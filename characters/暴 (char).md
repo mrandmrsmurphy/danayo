@@ -22,7 +22,7 @@ english:
   - fierce
   - tyrannical
 羅馬字: bog
-韓文: 복
+諺文: 복
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 中

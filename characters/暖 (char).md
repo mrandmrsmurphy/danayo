@@ -19,7 +19,7 @@ pos: ""
 english:
   - warm
 羅馬字: nan
-韓文: "난"
+諺文: "난"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

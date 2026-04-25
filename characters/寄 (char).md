@@ -19,7 +19,7 @@ english:
   - send
   - rely on
 羅馬字: gui
-韓文: "귀"
+諺文: "귀"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "高等"

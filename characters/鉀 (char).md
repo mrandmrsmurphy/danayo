@@ -16,7 +16,7 @@ grade_level: 名
 pos: 固有名詞
 english: potassium
 羅馬字: gab
-韓文: 갑
+諺文: 갑
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

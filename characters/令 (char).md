@@ -18,7 +18,7 @@ pos: "修飾語"
 english:
   - cause (causative)
 羅馬字: leng
-韓文: "렁"
+諺文: "렁"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "中"

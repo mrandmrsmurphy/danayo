@@ -18,7 +18,7 @@ pos: ""
 english:
   - seal
 羅馬字: fong
-韓文: "뽕"
+諺文: "뽕"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

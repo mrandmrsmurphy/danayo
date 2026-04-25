@@ -20,7 +20,7 @@ english:
   - moment
   - occasion
 羅馬字: keng
-韓文: 컹
+諺文: 컹
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: 高等

@@ -19,7 +19,7 @@ english:
   - rudder
   - helm
 羅馬字: da
-韓文: "다"
+諺文: "다"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "名"

@@ -20,7 +20,7 @@ english:
   - shun
   - avoid saying the name of
 羅馬字: hui
-韓文: 휘
+諺文: 휘
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

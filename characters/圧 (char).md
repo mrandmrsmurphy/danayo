@@ -18,7 +18,7 @@ english:
   - press
   - control
 羅馬字: "'ad"
-韓文: 앋
+諺文: 앋
 joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 高等

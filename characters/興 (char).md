@@ -18,7 +18,7 @@ pos: ""
 english:
   - entertain
 羅馬字: hǝng
-韓文: 흥
+諺文: 흥
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中

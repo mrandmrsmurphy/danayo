@@ -19,7 +19,7 @@ english:
   - discuss
   - distinguish
 羅馬字: byan
-韓文: 뱐
+諺文: 뱐
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等

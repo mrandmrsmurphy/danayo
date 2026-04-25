@@ -20,7 +20,7 @@ english:
   - install
   - put up
 羅馬字: ked
-韓文: 컫
+諺文: 컫
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名

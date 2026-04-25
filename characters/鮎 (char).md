@@ -18,7 +18,7 @@ english:
   - sweetfish
   - sheatfish
 羅馬字: nem
-韓文: "넘"
+諺文: "넘"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: "名"

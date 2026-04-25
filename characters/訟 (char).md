@@ -18,7 +18,7 @@ pos: ""
 english:
   - sue
 羅馬字: syong
-韓文: "숑"
+諺文: "숑"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "高等"

@@ -19,7 +19,7 @@ english:
   - dig
   - excavate
 羅馬字: gud
-韓文: "굳"
+諺文: "굳"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

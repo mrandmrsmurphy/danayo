@@ -18,7 +18,7 @@ pos: ""
 english:
   - pity
 羅馬字: min
-韓文: 민
+諺文: 민
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: 高等

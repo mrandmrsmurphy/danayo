@@ -18,7 +18,7 @@ english:
   - discontinue
   - break off
 羅馬字: jwed
-韓文: "줟"
+諺文: "줟"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - giant salamander
 羅馬字: nub
-韓文: 눕
+諺文: 눕
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無

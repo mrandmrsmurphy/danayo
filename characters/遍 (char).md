@@ -17,7 +17,7 @@ pos: ""
 english:
   - everywhere
 羅馬字: ben
-韓文: "번"
+諺文: "번"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

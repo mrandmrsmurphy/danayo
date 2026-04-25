@@ -18,7 +18,7 @@ english:
   - visit
   - pay respect
 羅馬字: "'ed"
-韓文: "얻"
+諺文: "얻"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

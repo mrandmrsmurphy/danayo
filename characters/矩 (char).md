@@ -19,7 +19,7 @@ english:
   - carpenter's square
   - quadrature
 羅馬字: kyo
-韓文: "쿄"
+諺文: "쿄"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -19,7 +19,7 @@ english:
   - fasten
   - bind
 羅馬字: jad
-韓文: "잗"
+諺文: "잗"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

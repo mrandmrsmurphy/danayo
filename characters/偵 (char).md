@@ -17,7 +17,7 @@ pos: ""
 english:
   - spy
 羅馬字: ting
-韓文: "팅"
+諺文: "팅"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

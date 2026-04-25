@@ -20,7 +20,7 @@ english:
   - chunk
   - clump
 羅馬字: koi
-韓文: "쾨"
+諺文: "쾨"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: "高等"

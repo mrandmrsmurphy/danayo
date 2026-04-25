@@ -19,7 +19,7 @@ pos: ""
 english:
   - baby
 羅馬字: "'ei"
-韓文: "에"
+諺文: "에"
 joyo_level: 4
 hsk_level: 1
 hanmun_edu_level: "中"

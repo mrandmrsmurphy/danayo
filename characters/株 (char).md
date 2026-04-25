@@ -20,7 +20,7 @@ english:
   - root
   - stump
 羅馬字: du
-韓文: "두"
+諺文: "두"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -20,7 +20,7 @@ english:
   - remain
   - stay
 羅馬字: lyu
-韓文: 류
+諺文: 류
 joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: 中

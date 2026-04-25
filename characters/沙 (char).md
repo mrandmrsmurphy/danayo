@@ -20,7 +20,7 @@ english:
   - gravel
   - pebbles
 羅馬字: sa
-韓文: "사"
+諺文: "사"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

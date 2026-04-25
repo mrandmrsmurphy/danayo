@@ -22,7 +22,7 @@ english:
   - at
   - during
 羅馬字: "'o"
-韓文: 오
+諺文: 오
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 中

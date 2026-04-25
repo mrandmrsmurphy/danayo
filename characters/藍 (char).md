@@ -19,7 +19,7 @@ pos: 固有名詞
 english:
   - indigo plant
 羅馬字: lam
-韓文: 람
+諺文: 람
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 名

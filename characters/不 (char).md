@@ -21,7 +21,7 @@ pos: 修飾語
 english:
   - not
 羅馬字: bod
-韓文: 볻
+諺文: 볻
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中

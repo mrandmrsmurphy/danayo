@@ -18,7 +18,7 @@ english:
   - intend
   - plan
 羅馬字: "'i"
-韓文: "이"
+諺文: "이"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

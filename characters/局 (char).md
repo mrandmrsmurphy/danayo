@@ -18,7 +18,7 @@ pos: 名詞
 english:
   - office
 羅馬字: gyog
-韓文: 굑
+諺文: 굑
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 高等

@@ -17,7 +17,7 @@ pos: ""
 english:
   - tread on/with
 羅馬字: liǝ
-韓文: "릐"
+諺文: "릐"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

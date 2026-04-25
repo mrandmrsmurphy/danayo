@@ -20,7 +20,7 @@ english:
   - able to endure
   - resistant
 羅馬字: nai
-韓文: "내"
+諺文: "내"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

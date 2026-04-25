@@ -18,7 +18,7 @@ english:
   - suck
   - inhale
 羅馬字: hib
-韓文: 힙
+諺文: 힙
 joyo_level: "6"
 hsk_level: ""
 hanmun_edu_level: 高等

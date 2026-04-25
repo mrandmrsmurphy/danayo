@@ -17,7 +17,7 @@ pos: ""
 english:
   - stratum
 羅馬字: "cǝng"
-韓文: "층"
+諺文: "층"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "高等"

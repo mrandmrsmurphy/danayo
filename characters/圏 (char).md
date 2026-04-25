@@ -17,7 +17,7 @@ pos: 名詞
 english:
   - encircled area
 羅馬字: gwen
-韓文: 권
+諺文: 권
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 名

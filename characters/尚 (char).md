@@ -18,7 +18,7 @@ english:
   - still
   - even more
 羅馬字: syang
-韓文: 샹
+諺文: 샹
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

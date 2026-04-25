@@ -18,7 +18,7 @@ english:
   - cool
   - cold
 羅馬字: lang
-韓文: 랑
+諺文: 랑
 joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中

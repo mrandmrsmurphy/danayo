@@ -17,7 +17,7 @@ pos: ""
 english:
   - ford
 羅馬字: seb
-韓文: 섭
+諺文: 섭
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

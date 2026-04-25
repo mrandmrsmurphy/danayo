@@ -18,7 +18,7 @@ english:
   - put
   - place
 羅馬字: ci
-韓文: "치"
+諺文: "치"
 joyo_level: 4
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - night
 羅馬字: "'ya"
-韓文: 야
+諺文: 야
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

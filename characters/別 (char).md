@@ -20,7 +20,7 @@ english:
   - distinct
   - other
 羅馬字: bed
-韓文: "벋"
+諺文: "벋"
 joyo_level: 4
 hsk_level: 1
 hanmun_edu_level: "中"

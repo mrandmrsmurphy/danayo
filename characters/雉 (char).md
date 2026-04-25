@@ -18,7 +18,7 @@ pos: ""
 english:
   - green pheasant
 羅馬字: diǝ
-韓文: "듸"
+諺文: "듸"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

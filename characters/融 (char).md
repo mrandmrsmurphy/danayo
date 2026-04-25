@@ -19,7 +19,7 @@ english:
   - blend
   - harmonize
 羅馬字: "'yung"
-韓文: "융"
+諺文: "융"
 joyo_level: "高等"
 hsk_level: 4
 hanmun_edu_level: "名"

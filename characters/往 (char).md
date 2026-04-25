@@ -17,7 +17,7 @@ pos: ""
 english:
   - to go towards
 羅馬字: "'wang"
-韓文: "왕"
+諺文: "왕"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "中"

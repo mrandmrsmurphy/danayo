@@ -17,7 +17,7 @@ pos: ""
 english:
   - venerable old man
 羅馬字: "'ong"
-韓文: "옹"
+諺文: "옹"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

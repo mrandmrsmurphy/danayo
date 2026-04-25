@@ -19,7 +19,7 @@ english:
   - axle
   - pivot
 羅馬字: dug
-韓文: "둑"
+諺文: "둑"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

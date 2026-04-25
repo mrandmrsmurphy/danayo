@@ -18,7 +18,7 @@ english:
   - interchange
   - exchange
 羅馬字: hwam
-韓文: "홤"
+諺文: "홤"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

@@ -19,7 +19,7 @@ pos: ""
 english:
   - wow
 羅馬字: "'wau"
-韓文: "왓"
+諺文: "왓"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "無"

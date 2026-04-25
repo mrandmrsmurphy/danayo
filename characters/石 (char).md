@@ -21,7 +21,7 @@ pos: 名詞
 english:
   - rock
 羅馬字: seg
-韓文: 석
+諺文: 석
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

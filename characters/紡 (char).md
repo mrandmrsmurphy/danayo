@@ -18,7 +18,7 @@ pos: 事詞
 english:
   - spin (yarn)
 羅馬字: fang
-韓文: 빵
+諺文: 빵
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 名

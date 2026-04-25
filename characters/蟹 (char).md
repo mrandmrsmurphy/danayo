@@ -17,7 +17,7 @@ pos: ""
 english:
   - crab
 羅馬字: hyai
-韓文: "햬"
+諺文: "햬"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
 hanmun_edu_level: ""

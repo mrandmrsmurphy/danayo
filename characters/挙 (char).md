@@ -18,7 +18,7 @@ english:
   - raise
   - example
 羅馬字: gyo
-韓文: 교
+諺文: 교
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 中

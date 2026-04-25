@@ -20,7 +20,7 @@ english:
   - shine
   - luminous
 羅馬字: jou
-韓文: 좃
+諺文: 좃
 joyo_level: "3"
 hsk_level: 無
 hanmun_edu_level: 高等

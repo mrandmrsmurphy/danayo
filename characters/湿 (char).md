@@ -18,7 +18,7 @@ english:
   - wet
   - damp
 羅馬字: sǝb
-韓文: 습
+諺文: 습
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 高等

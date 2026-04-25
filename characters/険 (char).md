@@ -18,7 +18,7 @@ pos: ""
 english:
   - precipitous
 羅馬字: hem
-韓文: 험
+諺文: 험
 joyo_level: "5"
 hsk_level: ""
 hanmun_edu_level: 高等

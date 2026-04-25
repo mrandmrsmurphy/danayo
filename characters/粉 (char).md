@@ -17,7 +17,7 @@ pos: ""
 english:
   - powder
 羅馬字: fun
-韓文: "뿐"
+諺文: "뿐"
 joyo_level: 5
 hsk_level: ""
 hanmun_edu_level: "高等"

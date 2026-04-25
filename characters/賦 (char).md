@@ -17,7 +17,7 @@ pos: ""
 english:
   - prose-poetry
 羅馬字: fu
-韓文: "뿌"
+諺文: "뿌"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

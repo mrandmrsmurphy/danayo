@@ -19,7 +19,7 @@ english:
   - copy
   - rough draft
 羅馬字: gau
-韓文: "갓"
+諺文: "갓"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "高等"

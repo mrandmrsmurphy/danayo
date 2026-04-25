@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - eye
 羅馬字: mug
-韓文: 묵
+諺文: 묵
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

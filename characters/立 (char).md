@@ -20,7 +20,7 @@ pos: 性詞
 english:
   - stand
 羅馬字: lib
-韓文: 립
+諺文: 립
 joyo_level: "1"
 hsk_level: "2"
 hanmun_edu_level: 中

@@ -17,7 +17,7 @@ pos: ""
 english:
   - elbow
 羅馬字: jum
-韓文: "줌"
+諺文: "줌"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "名"

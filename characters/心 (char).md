@@ -21,7 +21,7 @@ pos: 名詞
 english:
   - heart
 羅馬字: sim
-韓文: 심
+諺文: 심
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

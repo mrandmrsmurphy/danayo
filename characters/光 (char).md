@@ -17,7 +17,7 @@ pos: ""
 english:
   - light
 羅馬字: kwang
-韓文: "쾅"
+諺文: "쾅"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

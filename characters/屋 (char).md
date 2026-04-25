@@ -17,7 +17,7 @@ pos: ""
 english:
   - roof
 羅馬字: "'og"
-韓文: "옥"
+諺文: "옥"
 joyo_level: 3
 hsk_level: ""
 hanmun_edu_level: "中"

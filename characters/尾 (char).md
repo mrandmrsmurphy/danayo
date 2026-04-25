@@ -17,7 +17,7 @@ pos: ""
 english:
   - tail
 羅馬字: mui
-韓文: "뮈"
+諺文: "뮈"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

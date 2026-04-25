@@ -18,7 +18,7 @@ english:
   - investigate
   - compare
 羅馬字: kam
-韓文: "캄"
+諺文: "캄"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

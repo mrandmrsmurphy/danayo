@@ -18,7 +18,7 @@ english:
   - song
   - tomoe
 羅馬字: pa
-韓文: 파
+諺文: 파
 joyo_level: 日本人名用漢字
 hsk_level: "1"
 hanmun_edu_level: ""

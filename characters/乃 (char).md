@@ -19,7 +19,7 @@ pos: 連接詞
 english:
   - but
 羅馬字: nai
-韓文: 내
+諺文: 내
 joyo_level:
 hsk_level: ""
 hanmun_edu_level: 中

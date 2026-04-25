@@ -19,7 +19,7 @@ pos: ""
 english:
   - name
 羅馬字: ming
-韓文: "밍"
+諺文: "밍"
 joyo_level: 1
 hsk_level: 1
 hanmun_edu_level: "中"

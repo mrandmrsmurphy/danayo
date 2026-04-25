@@ -20,7 +20,7 @@ english:
   - delicate
   - tender
 羅馬字: non
-韓文: "논"
+諺文: "논"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

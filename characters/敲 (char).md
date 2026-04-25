@@ -19,7 +19,7 @@ english:
   - tap
   - rap
 羅馬字: kyau
-韓文: "캿"
+諺文: "캿"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: ""

@@ -18,7 +18,7 @@ english:
   - thirst
   - thirsty
 羅馬字: kad
-韓文: 칻
+諺文: 칻
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中

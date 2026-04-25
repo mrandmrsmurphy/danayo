@@ -20,7 +20,7 @@ english:
   - come across
   - encounter
 羅馬字: "'u"
-韓文: "우"
+諺文: "우"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: "中"

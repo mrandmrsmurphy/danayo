@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - abalone
 羅馬字: bau
-韓文: 밧
+諺文: 밧
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名

@@ -17,7 +17,7 @@ pos: ""
 english:
   - permit
 羅馬字: nyang
-韓文: 냥
+諺文: 냥
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: 中

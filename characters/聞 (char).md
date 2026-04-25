@@ -18,7 +18,7 @@ pos: ""
 english:
   - hear
 羅馬字: mun
-韓文: "문"
+諺文: "문"
 joyo_level: 2
 hsk_level: ""
 hanmun_edu_level: "中"

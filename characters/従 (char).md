@@ -20,7 +20,7 @@ english:
   - obey
   - observe
 羅馬字: jong
-韓文: 종
+諺文: 종
 joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中

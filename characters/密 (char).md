@@ -21,7 +21,7 @@ english:
   - intimate
   - secret
 羅馬字: mid
-韓文: "믿"
+諺文: "믿"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

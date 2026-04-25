@@ -20,7 +20,7 @@ english:
   - plan
   - scheme
 羅馬字: muo
-韓文: "뭇"
+諺文: "뭇"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"

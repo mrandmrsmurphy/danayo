@@ -19,7 +19,7 @@ pos: 名詞
 english:
   - star
 羅馬字: seng
-韓文: 성
+諺文: 성
 joyo_level: "2"
 hsk_level: "4"
 hanmun_edu_level: 中

@@ -20,7 +20,7 @@ pos: ""
 english:
   - vice-
 羅馬字: fug
-韓文: 뿍
+諺文: 뿍
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 高等

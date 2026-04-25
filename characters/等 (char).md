@@ -22,7 +22,7 @@ english:
   - etc.
   - rank
 羅馬字: dung
-韓文: 둥
+諺文: 둥
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中

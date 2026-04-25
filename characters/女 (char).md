@@ -20,7 +20,7 @@ pos: ""
 english:
   - woman
 羅馬字: "nǝ"
-韓文: "느"
+諺文: "느"
 joyo_level: 1
 hsk_level: 1
 hanmun_edu_level: "中"

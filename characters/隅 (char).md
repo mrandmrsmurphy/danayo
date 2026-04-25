@@ -20,7 +20,7 @@ english:
   - corner
   - side
 羅馬字: "'uo"
-韓文: "웃"
+諺文: "웃"
 joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"

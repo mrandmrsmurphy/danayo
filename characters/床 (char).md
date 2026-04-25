@@ -20,7 +20,7 @@ english:
   - chassis
   - frame
 羅馬字: syam
-韓文: "샴"
+諺文: "샴"
 joyo_level: "高等"
 hsk_level: 1
 hanmun_edu_level: "高等"

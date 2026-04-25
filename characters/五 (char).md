@@ -19,7 +19,7 @@ english:
   - five
   - "5"
 羅馬字: "'o"
-韓文: 오
+諺文: 오
 joyo_level: "1"
 hsk_level: "1"
 hanmun_edu_level: 中

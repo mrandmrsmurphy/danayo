@@ -18,7 +18,7 @@ english:
   - spoon
   - laddle
 羅馬字: jwag
-韓文: "좍"
+諺文: "좍"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "名"

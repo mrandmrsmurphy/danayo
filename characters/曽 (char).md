@@ -19,7 +19,7 @@ pos: ""
 english:
   - great-
 羅馬字: jǝng
-韓文: 증
+諺文: 증
 joyo_level: 表外字
 hsk_level: ""
 hanmun_edu_level: 中

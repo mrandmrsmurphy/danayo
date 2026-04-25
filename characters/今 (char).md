@@ -19,7 +19,7 @@ pos: 副用名詞
 english:
   - now
 羅馬字: gim
-韓文: 김
+諺文: 김
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中

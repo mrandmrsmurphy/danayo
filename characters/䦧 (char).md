@@ -15,7 +15,7 @@ grade_level: 名
 pos: 事詞
 english: quarrel
 羅馬字: heg
-韓文: 헉
+諺文: 헉
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無

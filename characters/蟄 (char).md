@@ -18,7 +18,7 @@ pos: ""
 english:
   - hibernate
 羅馬字: cib
-韓文: "칩"
+諺文: "칩"
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""

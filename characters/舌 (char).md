@@ -19,7 +19,7 @@ english:
   - tongue
   - clapper
 羅馬字: sed
-韓文: "섣"
+諺文: "섣"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

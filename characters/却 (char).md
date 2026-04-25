@@ -20,7 +20,7 @@ english:
 - rather
 - all the more
 羅馬字: kyag
-韓文: 캭
+諺文: 캭
 joyo_level: 高等
 hsk_level: ''
 hanmun_edu_level: 高等

@@ -20,7 +20,7 @@ pos: 名詞
 english:
   - foot (distance)
 羅馬字: ceg
-韓文: 척
+諺文: 척
 joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: 中

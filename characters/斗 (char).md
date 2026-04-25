@@ -19,7 +19,7 @@ english:
   - peck
   - Dipper
 羅馬字: dou
-韓文: 돗
+諺文: 돗
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 中

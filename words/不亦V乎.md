@@ -3,7 +3,7 @@ characters:
   - 不 (char)
   - 亦 (char)
   - 乎 (char)
-韓文: 볻역...호
+諺文: 볻역...호
 羅馬字: bod'yeg...ho
 english: <circumfix for rhetorical Qs>
 pos: 修飾語

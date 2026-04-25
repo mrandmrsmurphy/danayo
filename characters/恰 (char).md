@@ -20,7 +20,7 @@ english:
   - exactly
   - just
 羅馬字: kab
-韓文: 캅
+諺文: 캅
 joyo_level: 日本人名用漢字
 hsk_level: "3"
 hanmun_edu_level:

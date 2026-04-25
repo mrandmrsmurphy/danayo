@@ -17,7 +17,7 @@ pos: ""
 english:
   - chestnut
 羅馬字: lid
-韓文: 릳
+諺文: 릳
 joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: 高等

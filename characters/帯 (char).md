@@ -18,7 +18,7 @@ english:
   - sash
   - belt
 羅馬字: tai
-韓文: 태
+諺文: 태
 joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: 高等

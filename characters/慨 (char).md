@@ -18,7 +18,7 @@ pos: ""
 english:
   - sigh
 羅馬字: kai
-韓文: 캐
+諺文: 캐
 joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等

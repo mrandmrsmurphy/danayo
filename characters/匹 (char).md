@@ -24,7 +24,7 @@ pos: "量詞"
 english:
   - animals
 羅馬字: pid
-韓文: "핃"
+諺文: "핃"
 joyo_level: "高等"
 hsk_level: 2
 hanmun_edu_level: "中"

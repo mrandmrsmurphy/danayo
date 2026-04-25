@@ -19,7 +19,7 @@ english:
   - lose
   - leave behind
 羅馬字: "'yei"
-韓文: "예"
+諺文: "예"
 joyo_level: 6
 hsk_level: ""
 hanmun_edu_level: "中"

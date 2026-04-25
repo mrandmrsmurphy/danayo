@@ -20,7 +20,7 @@ english:
   - accompany
   - be with
 羅馬字: gu
-韓文: 구
+諺文: 구
 joyo_level: 日本人名用漢字
 hsk_level: "2"
 hanmun_edu_level: 高等

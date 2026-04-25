@@ -18,7 +18,7 @@ pos: ""
 english:
   - hold on to for support
 羅馬字: bu
-韓文: "부"
+諺文: "부"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "中"

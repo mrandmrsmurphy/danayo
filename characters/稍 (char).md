@@ -19,7 +19,7 @@ english:
   - slightly
   - rather
 羅馬字: syau
-韓文: "샷"
+諺文: "샷"
 joyo_level: "表外字"
 hsk_level: 2
 hanmun_edu_level: "名"

@@ -18,7 +18,7 @@ english:
   - ridge
   - boundary
 羅馬字: ban
-韓文: "반"
+諺文: "반"
 joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: ""

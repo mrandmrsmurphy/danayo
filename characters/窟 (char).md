@@ -18,7 +18,7 @@ pos: ""
 english:
   - cavern
 羅馬字: kod
-韓文: "콛"
+諺文: "콛"
 joyo_level: "表外字"
 hsk_level: ""
 hanmun_edu_level: "名"
