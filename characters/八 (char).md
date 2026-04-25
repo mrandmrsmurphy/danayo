@@ -6,7 +6,7 @@ korean_native: 여덟
 japanese:
   - HACHI
   - HATSU
-japanese_nanori: " な ,は,はっ ,はつ ,やち ,やつ"
+japanese_native: " な ,は,はっ ,はつ ,やち ,やつ"
 vietnamese:
   - bát
 middle_chinese_initial: p

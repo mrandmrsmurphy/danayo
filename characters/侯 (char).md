@@ -7,6 +7,8 @@ japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
+  - hầu
+  - hậu
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "əu"
 stroke_count: 9

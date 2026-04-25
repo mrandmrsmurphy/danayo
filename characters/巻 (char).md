@@ -6,7 +6,7 @@ korean_native: 책 권
 japanese:
   - KAN
   - KEN
-japanese_nanori:
+japanese_native:
   - ま-く,まき
 vietnamese:
   - quyển

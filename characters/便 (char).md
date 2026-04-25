@@ -6,7 +6,7 @@ korean_native: 편할
 japanese:
   - BEN
   - BIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tiện, biền
 middle_chinese_initial: b

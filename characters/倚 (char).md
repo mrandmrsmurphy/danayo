@@ -8,6 +8,9 @@ japanese:
   - KI
 japanese_nanori: ""
 vietnamese:
+  - ấy
+  - ỉa
+  - ỷ
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣiᴇ
 stroke_count: 10

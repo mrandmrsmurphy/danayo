@@ -5,7 +5,7 @@ korean: "활"
 korean_native: "살"
 japanese:
   - KATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uɑt"

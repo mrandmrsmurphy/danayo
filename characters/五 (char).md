@@ -5,7 +5,7 @@ korean: "오"
 korean_native: 다섯
 japanese:
   - GO
-japanese_nanori: いつつ
+japanese_native: いつつ
 vietnamese:
   - ngũ
 middle_chinese_initial: ŋ

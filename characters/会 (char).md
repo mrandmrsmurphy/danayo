@@ -6,7 +6,7 @@ korean_native: "모일"
 japanese:
   - KAI
   - E
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hội
   - hụi

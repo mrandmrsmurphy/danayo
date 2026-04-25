@@ -5,7 +5,7 @@ korean: 여
 korean_native: 더불
 japanese:
   - YO
-japanese_nanori: とも
+japanese_native: とも
 vietnamese:
   - và
   - với

@@ -5,7 +5,7 @@ korean: 약
 korean_native: 약
 japanese:
   - YAKU
-japanese_nanori: くすり
+japanese_native: くすり
 vietnamese:
   - dược, ước
 middle_chinese_initial: j

@@ -5,7 +5,7 @@ korean: "설"
 korean_native: 눈
 japanese:
   - SETSU
-japanese_nanori:
+japanese_native:
   - ゆき
 vietnamese:
   - tuyết

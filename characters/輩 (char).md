@@ -4,7 +4,7 @@ cantonese: "bui3"
 korean: "배"
 korean_native: 무리
 japanese: HAI, HE
-japanese_nanori: ともがら
+japanese_native: ともがら
 vietnamese: bối
 middle_chinese_initial: p
 middle_chinese_final: uʌi

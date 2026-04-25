@@ -7,7 +7,7 @@ japanese:
   - HOU
   - HATSU
   - HOTSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: f
 middle_chinese_final: "iɐp"

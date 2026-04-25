@@ -7,7 +7,7 @@ japanese:
   - KI
   - KYUU
   - KIN
-japanese_nanori: かめ
+japanese_native: かめ
 vietnamese:
   - qui, quân, quy
 middle_chinese_initial: k

@@ -7,7 +7,7 @@ japanese:
   - BUN
   - FUN
   - BU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phân
 middle_chinese_initial: v

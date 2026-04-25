@@ -6,7 +6,7 @@ korean_native: 그
 japanese:
   - KI
   - GI
-japanese_nanori:
+japanese_native:
   - その
   - それ
 vietnamese:

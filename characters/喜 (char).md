@@ -6,7 +6,7 @@ korean_native: "기쁠"
 japanese:
   - KI
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: "ɨ"

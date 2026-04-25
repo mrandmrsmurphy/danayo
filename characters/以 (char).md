@@ -5,7 +5,7 @@ korean: "이"
 korean_native: 써
 japanese:
   - I
-japanese_nanori: もち
+japanese_native: もち
 vietnamese:
   - dĩ
 middle_chinese_initial: j

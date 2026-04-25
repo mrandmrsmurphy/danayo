@@ -7,6 +7,10 @@ japanese:
   - KA
 japanese_nanori: ""
 vietnamese:
+  - dai
+  - giai
+  - lai
+  - trai
 middle_chinese_initial: k
 middle_chinese_final: ɣɛ
 stroke_count: 8

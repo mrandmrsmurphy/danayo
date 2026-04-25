@@ -5,7 +5,7 @@ korean: "선"
 korean_native: 착할
 japanese:
   - ZEN
-japanese_nanori: よし
+japanese_native: よし
 vietnamese:
   - thiện
   - thiến

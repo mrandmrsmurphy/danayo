@@ -8,6 +8,10 @@ japanese:
   - DAN
 japanese_nanori: ""
 vietnamese:
+  - giãn
+  - giản
+  - đản
+  - đởn
 middle_chinese_initial: d
 middle_chinese_final: "ɑn"
 stroke_count: 7

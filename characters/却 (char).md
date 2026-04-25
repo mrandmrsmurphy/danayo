@@ -5,7 +5,7 @@ korean: 각
 korean_native: 물리칠
 japanese:
 - KYAKU
-japanese_nanori: ''
+japanese_native: ''
 vietnamese: null
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨɐk

@@ -6,7 +6,7 @@ korean_native: 빠질
 japanese:
   - KAN
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛm

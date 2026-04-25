@@ -5,7 +5,7 @@ korean: "소"
 korean_native: "얼레빗"
 japanese:
   - SO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɨʌ"

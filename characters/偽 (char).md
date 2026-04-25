@@ -6,7 +6,7 @@ korean_native: 거짓
 japanese:
   - GI
   - KA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣiuᴇ

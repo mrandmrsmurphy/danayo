@@ -5,7 +5,7 @@ korean: 타
 korean_native: 남
 japanese:
   - TA
-japanese_nanori:
+japanese_native:
   - ひと
 vietnamese:
   - tha

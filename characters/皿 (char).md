@@ -6,7 +6,7 @@ korean_native: "그릇"
 japanese:
   - BAI
   - MYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣiæŋ"

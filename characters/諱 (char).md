@@ -5,7 +5,7 @@ korean: 휘
 korean_native: 숨길
 japanese:
   - KI
-japanese_nanori:
+japanese_native:
   - いむ
 vietnamese:
   - huý

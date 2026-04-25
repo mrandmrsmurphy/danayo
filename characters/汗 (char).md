@@ -5,7 +5,7 @@ korean: "한"
 korean_native: "땀"
 japanese:
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɑn"

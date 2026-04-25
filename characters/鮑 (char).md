@@ -5,7 +5,7 @@ korean: 포
 korean_native: 절인 물고기
 japanese:
   - HOU
-japanese_nanori:
+japanese_native:
   - あわび
 vietnamese:
   - bảo, bào

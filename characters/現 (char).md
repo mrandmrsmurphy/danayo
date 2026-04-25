@@ -6,7 +6,7 @@ korean_native: "나타날"
 japanese:
   - GEN
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: en

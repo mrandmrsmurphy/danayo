@@ -5,7 +5,7 @@ korean: "압"
 korean_native: "오리"
 japanese:
   - OU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣap"

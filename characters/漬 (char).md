@@ -5,7 +5,7 @@ korean: "지"
 korean_native: "담글"
 japanese:
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "iᴇ"

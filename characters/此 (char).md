@@ -5,7 +5,7 @@ korean: "차"
 korean_native: "이"
 japanese:
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iᴇ"

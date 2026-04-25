@@ -5,7 +5,7 @@ korean: "도"
 korean_native: "섬"
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: "ɑu"

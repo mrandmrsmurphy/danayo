@@ -5,7 +5,7 @@ korean: 천
 korean_native: 내
 japanese:
   - SEN
-japanese_nanori: かわ
+japanese_native: かわ
 vietnamese:
   - xuyên
   - xiên

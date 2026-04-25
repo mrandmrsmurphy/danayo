@@ -5,7 +5,7 @@ korean: "령"
 korean_native: 떨어질
 japanese:
   - REI
-japanese_nanori: おちる, ふる, こぼれる
+japanese_native: おちる, ふる, こぼれる
 vietnamese:
   - lênh, linh, rinh
 middle_chinese_initial: l

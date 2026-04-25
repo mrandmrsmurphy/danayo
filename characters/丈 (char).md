@@ -6,7 +6,7 @@ korean_native: 어른
 japanese:
   - JOU
   - CHOU
-japanese_nanori: たけ
+japanese_native: たけ
 vietnamese:
   - trượng
 middle_chinese_initial: ɖ

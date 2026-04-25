@@ -5,7 +5,7 @@ korean: "견"
 korean_native: 개
 japanese:
   - KEN
-japanese_nanori:
+japanese_native:
   - いぬ
 vietnamese:
   - khuyển

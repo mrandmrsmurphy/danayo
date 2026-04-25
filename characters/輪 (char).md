@@ -5,7 +5,7 @@ korean: "륜"
 korean_native: "바퀴"
 japanese:
   - RIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "iuɪn"

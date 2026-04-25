@@ -6,7 +6,7 @@ korean_native: "호반"
 japanese:
   - BU
   - MU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - vũ
   - võ

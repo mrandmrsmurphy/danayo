@@ -5,7 +5,7 @@ korean: "덕"
 korean_native: "클"
 japanese:
   - TOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: "ək"

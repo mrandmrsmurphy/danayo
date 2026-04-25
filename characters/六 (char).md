@@ -6,7 +6,7 @@ korean_native: "여섯"
 japanese:
   - ROKU
   - RIKU
-japanese_nanori: "く, むつ"
+japanese_native: "く, むつ"
 vietnamese:
   - lúc
   - lục

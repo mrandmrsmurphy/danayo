@@ -5,7 +5,7 @@ korean: "단"
 korean_native: 오소리
 japanese:
   - TAN
-japanese_nanori:
+japanese_native:
   - まみ
 vietnamese:
 middle_chinese_initial: tʰ

@@ -5,7 +5,7 @@ korean: "간"
 korean_native: 볼
 japanese:
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɑn

@@ -6,7 +6,7 @@ korean_native: "병"
 japanese:
   - HEI
   - BIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "eŋ"

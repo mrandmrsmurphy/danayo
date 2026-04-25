@@ -6,7 +6,7 @@ korean_native: 자랑할
 japanese:
   - KO
   - KA
-japanese_nanori: ほこ-る
+japanese_native: ほこ-る
 vietnamese:
   - khoe, khoa, sua, thua
 middle_chinese_initial: kʰ

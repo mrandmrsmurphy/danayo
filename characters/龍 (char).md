@@ -6,7 +6,7 @@ korean_native: 룡
 japanese:
   - RYUU
   - ROU
-japanese_nanori:
+japanese_native:
   - たつ
 vietnamese:
   - long

@@ -5,7 +5,7 @@ korean: "림"
 korean_native: 수풀
 japanese:
   - RIN
-japanese_nanori:
+japanese_native:
   - はやし
 vietnamese:
   - lâm

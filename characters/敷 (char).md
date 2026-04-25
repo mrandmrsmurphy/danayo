@@ -5,7 +5,7 @@ korean: "부"
 korean_native: "펼"
 japanese:
   - FU
-japanese_nanori:
+japanese_native:
   - しき
 vietnamese:
   - phô

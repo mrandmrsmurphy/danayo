@@ -5,7 +5,7 @@ korean: "굴"
 korean_native: "굽힐"
 japanese:
   - KUTSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɨut"

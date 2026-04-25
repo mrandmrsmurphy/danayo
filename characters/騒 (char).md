@@ -5,7 +5,7 @@ korean: "소"
 korean_native: 떠들
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: ɑu

@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "드릴"
 japanese:
   - TEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "iᴇŋ"

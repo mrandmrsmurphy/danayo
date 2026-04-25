@@ -6,7 +6,7 @@ korean_native: 생각할
 japanese:
   - YUI
   - I
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: iuɪ

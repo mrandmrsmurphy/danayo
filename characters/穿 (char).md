@@ -5,7 +5,7 @@ korean: "천"
 korean_native: "뚫을"
 japanese:
   - SEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡ɕʰ"
 middle_chinese_final: "iuᴇn"

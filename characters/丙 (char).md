@@ -6,7 +6,7 @@ korean_native: "남녘"
 japanese:
   - HEI
   - HYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - biếng
   - bính

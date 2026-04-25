@@ -5,7 +5,7 @@ korean: "전"
 korean_native: "가위"
 japanese:
   - SEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "iᴇn"

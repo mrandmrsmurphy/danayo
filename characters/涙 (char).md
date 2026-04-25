@@ -6,7 +6,7 @@ korean_native: 눈물
 japanese:
   - RUI
   - REI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: iuɪ

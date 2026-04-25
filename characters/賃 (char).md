@@ -6,7 +6,7 @@ korean_native: "품삯"
 japanese:
   - CHIN
   - JIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɳ"
 middle_chinese_final: "ɣiɪm"

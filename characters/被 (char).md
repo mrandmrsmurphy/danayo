@@ -5,7 +5,7 @@ korean: "피"
 korean_native: "입을"
 japanese:
   - HI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "ɣiᴇ"

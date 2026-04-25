@@ -6,7 +6,7 @@ korean_native: 누를
 japanese:
   - KOU
   - OU
-japanese_nanori: き
+japanese_native: き
 vietnamese:
   - hoàng
 middle_chinese_initial: ɣ

@@ -5,7 +5,7 @@ korean: 협
 korean_native: 뺨
 japanese:
   - KYOU
-japanese_nanori:
+japanese_native:
   - ほお
 vietnamese:
   - giáp

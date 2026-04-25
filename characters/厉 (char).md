@@ -5,7 +5,7 @@ korean: 려
 korean_native: 엄할/숫돌
 japanese:
   - REI
-japanese_nanori:
+japanese_native:
   - きつい
 vietnamese:
   - lẹ, lệ

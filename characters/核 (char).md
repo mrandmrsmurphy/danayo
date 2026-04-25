@@ -5,7 +5,7 @@ korean: 핵
 korean_native: 씨
 japanese:
   - KAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛk

@@ -6,7 +6,7 @@ korean_native: "자주"
 japanese:
   - HIN
   - BIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "iɪn"

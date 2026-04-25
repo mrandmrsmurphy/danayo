@@ -5,7 +5,7 @@ korean: "갈"
 korean_native: 목마를
 japanese:
   - KATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɑt

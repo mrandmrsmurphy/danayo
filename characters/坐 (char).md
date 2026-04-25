@@ -5,7 +5,7 @@ korean: "좌"
 korean_native: "앉을"
 japanese:
   - ZA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "uɑ"

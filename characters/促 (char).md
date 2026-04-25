@@ -7,6 +7,9 @@ japanese:
   - SOKU
 japanese_nanori: ""
 vietnamese:
+  - thúc
+  - xóc
+  - xúc
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "ɨok"
 stroke_count: 9

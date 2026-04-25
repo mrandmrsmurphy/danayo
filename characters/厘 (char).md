@@ -6,7 +6,7 @@ korean_native: ''
 japanese:
 - RIN
 - TEN
-japanese_nanori: ''
+japanese_native: ''
 vietnamese: null
 middle_chinese_initial: l
 middle_chinese_final: ɨ

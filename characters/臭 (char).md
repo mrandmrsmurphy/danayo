@@ -6,7 +6,7 @@ korean_native: 냄새
 japanese:
   - SHUU
   - KYUU
-japanese_nanori:
+japanese_native:
   - くさ-い,にお-う
 vietnamese:
   - xú, xó

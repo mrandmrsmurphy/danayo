@@ -5,7 +5,7 @@ korean: "피"
 korean_native: "저"
 japanese:
   - HI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bỉ
 middle_chinese_initial: p

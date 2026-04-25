@@ -9,6 +9,12 @@ japanese:
   - KOU
 japanese_nanori: ""
 vietnamese:
+  - cắng
+  - cẳng
+  - cẵng
+  - cứng
+  - gắng
+  - hẵng
 middle_chinese_initial: x
 middle_chinese_final: "ʉɐn"
 stroke_count: 6

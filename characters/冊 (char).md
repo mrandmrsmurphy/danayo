@@ -6,7 +6,7 @@ korean_native: "책"
 japanese:
   - SATSU
   - SAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sách
 middle_chinese_initial: "t͡ʃʰ"

@@ -5,7 +5,7 @@ korean: 험
 korean_native: 험할
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hiểm
 middle_chinese_initial: x

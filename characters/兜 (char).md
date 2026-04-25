@@ -5,7 +5,7 @@ korean: "두"
 korean_native: "투구"
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: "əu"

@@ -4,7 +4,7 @@ cantonese: "saam1"
 korean: "삼"
 korean_native: 셋
 japanese: SAN
-japanese_nanori: かず
+japanese_native: かず
 vietnamese: tam
 middle_chinese_initial: s
 middle_chinese_final: ɑm

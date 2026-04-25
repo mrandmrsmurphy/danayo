@@ -5,7 +5,7 @@ korean: "뇌"
 korean_native: 괴로워할
 japanese:
   - NOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: ɑu

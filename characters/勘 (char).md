@@ -5,7 +5,7 @@ korean: "감"
 korean_native: "헤아릴"
 japanese:
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ʌm"

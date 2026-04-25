@@ -7,8 +7,16 @@ japanese:
   - DAI
   - AI
   - NAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
+  - bèn
+  - náy
+  - nãi
+  - nãy
+  - nải
+  - nảy
+  - nấy
+  - nới
 middle_chinese_initial: n
 middle_chinese_final: ʌi
 stroke_count: 2

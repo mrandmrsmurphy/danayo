@@ -6,7 +6,7 @@ korean_native: 옳을
 japanese:
   - KA
   - KOKU
-japanese_nanori: " よい ,べし ,ばかり"
+japanese_native: " よい ,べし ,ばかり"
 vietnamese:
   - khả, khá, tài
 middle_chinese_initial: kʰ

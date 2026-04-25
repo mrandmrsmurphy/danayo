@@ -5,7 +5,7 @@ korean: "압"
 korean_native: "누를"
 japanese:
   - OU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣap"

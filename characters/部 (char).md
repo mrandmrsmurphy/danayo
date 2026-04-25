@@ -7,7 +7,7 @@ japanese:
   - BU
   - HO
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "əu"

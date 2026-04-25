@@ -5,7 +5,7 @@ korean: 슬
 korean_native: ""
 japanese:
   - SHITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ʃ
 middle_chinese_final: ɪt

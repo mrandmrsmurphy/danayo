@@ -4,7 +4,7 @@ cantonese: jat1
 korean: 일
 korean_native: 한
 japanese: ICHI, ITSU
-japanese_nanori: をさむ
+japanese_native: をさむ
 vietnamese:
   - nhất
 middle_chinese_initial: ʔ

@@ -5,7 +5,7 @@ korean: 상
 korean_native: 서리
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sương
 middle_chinese_initial: ʃ

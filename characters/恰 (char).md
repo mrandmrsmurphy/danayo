@@ -6,7 +6,7 @@ korean_native: 흡사할
 japanese:
   - KOU
   - KATSU
-japanese_nanori: あたかも
+japanese_native: あたかも
 vietnamese:
   - kháp
 middle_chinese_initial: kʰ

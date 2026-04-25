@@ -7,6 +7,9 @@ japanese:
   - HEN
 japanese_nanori: ""
 vietnamese:
+  - thiên
+  - xen
+  - xiên
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iᴇn"
 stroke_count: 11

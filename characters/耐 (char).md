@@ -6,7 +6,7 @@ korean_native: "견딜"
 japanese:
   - TAI
   - DOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: "ʌi"

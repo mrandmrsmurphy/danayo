@@ -5,7 +5,7 @@ korean: "경"
 korean_native: 목
 japanese:
   - KEI
-japanese_nanori:
+japanese_native:
   - くび
 vietnamese:
   - nghỉnh, cảnh

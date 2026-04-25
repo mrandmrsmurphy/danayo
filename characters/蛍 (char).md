@@ -7,7 +7,7 @@ japanese:
   - KEI
   - EI
   - GYOU
-japanese_nanori: ほたる
+japanese_native: ほたる
 vietnamese:
   - huỳnh
 middle_chinese_initial: ɣ

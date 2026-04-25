@@ -6,7 +6,7 @@ korean_native: "바람"
 japanese:
   - FUU
   - FU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phong, phông
 middle_chinese_initial: f

@@ -6,7 +6,7 @@ korean_native: 미끄러울
 japanese:
   - KATSU
   - KOTSU
-japanese_nanori:
+japanese_native:
   - すべ-る
 vietnamese:
   - hoạt

@@ -6,7 +6,7 @@ korean_native: 굳셀
 japanese:
   - KYOU
   - GOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: ɨɐŋ

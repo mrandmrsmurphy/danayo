@@ -4,7 +4,7 @@ cantonese: gaap3
 korean: 갑
 korean_native: 갑옷
 japanese: KYOU
-japanese_nanori: よろい
+japanese_native: よろい
 vietnamese:
   - giáp
 middle_chinese_initial: k

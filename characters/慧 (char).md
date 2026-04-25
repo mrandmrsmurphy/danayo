@@ -6,7 +6,7 @@ korean_native: "슬기로울"
 japanese:
   - KEI
   - E
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: wei

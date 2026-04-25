@@ -5,7 +5,7 @@ korean: "토"
 korean_native: "토끼"
 japanese:
   - TO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: uo

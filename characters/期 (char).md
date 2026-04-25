@@ -6,7 +6,7 @@ korean_native: "기약할"
 japanese:
   - KI
   - GO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: "ɨ"

@@ -6,7 +6,7 @@ korean_native: 그물
 japanese:
   - MOU
   - BOU
-japanese_nanori: あみ
+japanese_native: あみ
 vietnamese:
   - võng
 middle_chinese_initial: m

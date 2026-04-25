@@ -5,7 +5,7 @@ korean: 효
 korean_native: ''
 japanese:
 - KOU
-japanese_nanori: ''
+japanese_native: ''
 vietnamese: null
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣau

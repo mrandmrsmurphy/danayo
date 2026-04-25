@@ -5,7 +5,7 @@ korean: 포
 korean_native: 펼
 japanese:
   - HO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hô, phố, pho
 middle_chinese_initial: pʰ

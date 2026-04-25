@@ -6,7 +6,7 @@ korean_native: 사귈
 japanese:
   - KOU
   - KYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - giao
 middle_chinese_initial: k

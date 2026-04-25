@@ -6,7 +6,7 @@ korean_native: "모을"
 japanese:
   - CHIKU
   - KIKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: "ɨuk"

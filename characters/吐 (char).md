@@ -5,7 +5,7 @@ korean: "토"
 korean_native: 토할
 japanese:
   - TO
-japanese_nanori: は-く
+japanese_native: は-く
 vietnamese:
   - thổ, nhổ, giổ, giỗ
 middle_chinese_initial: tʰ

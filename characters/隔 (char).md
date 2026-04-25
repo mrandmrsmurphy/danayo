@@ -5,7 +5,7 @@ korean: 격
 korean_native: 사이 뜰
 japanese:
   - KAKU
-japanese_nanori:
+japanese_native:
   - へだてる
 vietnamese:
   - cách

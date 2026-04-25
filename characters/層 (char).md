@@ -5,7 +5,7 @@ korean: "층"
 korean_native: "층"
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "əŋ"

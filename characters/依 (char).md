@@ -8,6 +8,10 @@ japanese:
   - E
 japanese_nanori: ""
 vietnamese:
+  - e
+  - y
+  - ỉa
+  - ỷ
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɨi"
 stroke_count: 8

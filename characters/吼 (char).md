@@ -6,7 +6,7 @@ korean_native: "울부짖을"
 japanese:
   - KOU
   - KU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: "əu"

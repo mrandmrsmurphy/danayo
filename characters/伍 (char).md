@@ -7,6 +7,7 @@ japanese:
   - GO
 japanese_nanori: ""
 vietnamese:
+  - ngũ
 middle_chinese_initial: ŋ
 middle_chinese_final: uo
 stroke_count: 6

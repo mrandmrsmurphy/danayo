@@ -6,7 +6,7 @@ korean_native: 윗
 japanese:
   - JOU
   - SHOU
-japanese_nanori: あおい
+japanese_native: あおい
 vietnamese:
   - thượng
 middle_chinese_initial: d͡ʑ

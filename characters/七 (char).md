@@ -6,7 +6,7 @@ korean_native: 일곱
 japanese:
   - SHICHI
   - SHITSU
-japanese_nanori: さとる
+japanese_native: さとる
 vietnamese:
   - thất
 middle_chinese_initial: t͡sʰ

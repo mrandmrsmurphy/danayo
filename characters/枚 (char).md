@@ -6,7 +6,7 @@ korean_native: "낱"
 japanese:
   - MAI
   - BAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mai
 middle_chinese_initial: m

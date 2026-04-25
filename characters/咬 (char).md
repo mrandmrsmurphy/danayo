@@ -7,7 +7,7 @@ japanese:
   - KOU
   - GOU
   - YOU
-japanese_nanori: かむ
+japanese_native: かむ
 vietnamese:
   - giảo, rao
 middle_chinese_initial: ŋ

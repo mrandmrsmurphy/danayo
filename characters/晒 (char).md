@@ -5,7 +5,7 @@ korean: "쇄"
 korean_native: 쬘
 japanese:
   - SE, SAI
-japanese_nanori: さらす
+japanese_native: さらす
 vietnamese:
   - sái
 middle_chinese_initial: ʃ

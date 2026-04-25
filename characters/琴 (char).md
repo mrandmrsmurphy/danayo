@@ -5,7 +5,7 @@ korean: "금"
 korean_native: "거문고"
 japanese:
   - KIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cầm
 middle_chinese_initial: g

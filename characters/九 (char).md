@@ -6,7 +6,7 @@ korean_native: 아홉
 japanese:
   - KYUU
   - KU
-japanese_nanori: いちじく,いちのく ,この ,ひさし
+japanese_native: いちじく,いちのく ,この ,ひさし
 vietnamese:
   - cửu
 middle_chinese_initial: k

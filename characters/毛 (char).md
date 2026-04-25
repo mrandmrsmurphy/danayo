@@ -6,7 +6,7 @@ korean_native: 터럭
 japanese:
   - MOU
   - BOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mao
 middle_chinese_initial: m

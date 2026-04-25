@@ -4,7 +4,7 @@ cantonese: "seui6"
 korean: "수"
 korean_native: 이삭
 japanese: SUI
-japanese_nanori: ほ
+japanese_native: ほ
 vietnamese: tuệ
 middle_chinese_initial: z
 middle_chinese_final: iuɪ

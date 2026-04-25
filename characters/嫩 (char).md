@@ -7,7 +7,7 @@ japanese:
   - DON
   - NON
   - ZEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: "uən"

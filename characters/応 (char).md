@@ -6,7 +6,7 @@ korean_native: 응할
 japanese:
   - OU
   - YOU
-japanese_nanori: こた-える
+japanese_native: こた-える
 vietnamese:
   - ứng, ưng, ừng
 middle_chinese_initial: ʔ

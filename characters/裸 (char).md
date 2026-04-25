@@ -5,7 +5,7 @@ korean: "라"
 korean_native: 벌거숭이, 벌거벗다
 japanese:
   - RA
-japanese_nanori: はだか
+japanese_native: はだか
 vietnamese:
   - lỏa, loả, khỏa, khoả, lõa, loã
 middle_chinese_initial: l

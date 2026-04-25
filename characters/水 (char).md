@@ -5,7 +5,7 @@ korean: "수"
 korean_native: "물"
 japanese:
   - SUI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thuỷ
 middle_chinese_initial: "ɕ"

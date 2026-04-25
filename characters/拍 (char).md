@@ -6,7 +6,7 @@ korean_native: "칠"
 japanese:
   - HAKU
   - HYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "ɣæk"

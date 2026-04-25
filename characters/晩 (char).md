@@ -5,7 +5,7 @@ korean: 만
 korean_native: 늦을
 japanese:
   - BAN
-japanese_nanori:
+japanese_native:
   - くれ, おそ-い
 vietnamese:
   - vãn, muộn

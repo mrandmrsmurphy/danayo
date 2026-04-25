@@ -6,7 +6,7 @@ korean_native: 아래
 japanese:
   - KA
   - GE
-japanese_nanori:
+japanese_native:
   - した
 vietnamese:
   - xuống

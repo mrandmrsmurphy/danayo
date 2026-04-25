@@ -5,8 +5,9 @@ korean: "병"
 korean_native: "나란히"
 japanese:
   - HEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
+  - tịnh
 middle_chinese_initial: b
 middle_chinese_final: "eŋ"
 stroke_count: 8

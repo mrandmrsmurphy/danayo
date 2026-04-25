@@ -7,8 +7,16 @@ japanese:
 - KAN
 - KEN
 - GEN
-japanese_nanori: ''
-vietnamese: null
+japanese_native: ''
+vietnamese:
+  - can
+  - càn
+  - càng
+  - cạn
+  - gàn
+  - khan
+  - kiền
+  - kìn
 middle_chinese_initial: g
 middle_chinese_final: ɣiᴇn
 stroke_count: 11

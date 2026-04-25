@@ -5,7 +5,7 @@ korean: "고"
 korean_native: "마를"
 japanese:
   - KO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: uo

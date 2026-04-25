@@ -4,7 +4,7 @@ cantonese: jik1
 korean: 혁
 korean_native: 다툴
 japanese: けき
-japanese_nanori: せめぐ
+japanese_native: せめぐ
 vietnamese: huých, huỵch
 middle_chinese_initial: x
 middle_chinese_final: ek

@@ -7,7 +7,7 @@ stroke_count: 8
 skip_number: 1-6-2
 korean_native: 점괘
 japanese: KE
-japanese_nanori: うらかた
+japanese_native: うらかた
 vietnamese: quái
 middle_chinese_initial: k
 middle_chinese_final: ˠuɛ

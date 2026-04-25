@@ -6,7 +6,7 @@ korean_native: 가질
 japanese:
   - JI
   - CHI
-japanese_nanori:
+japanese_native:
   - も-つ
 vietnamese:
   - rì, chày, chiì

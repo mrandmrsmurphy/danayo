@@ -5,7 +5,7 @@ korean: "조"
 korean_native: "손톱"
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɣau"

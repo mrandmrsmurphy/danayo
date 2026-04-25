@@ -4,7 +4,7 @@ cantonese: taam4
 korean: 담
 korean_native: 날이 흐리다
 japanese: DON
-japanese_nanori: くも-る
+japanese_native: くも-る
 vietnamese: đàm
 middle_chinese_initial: d
 middle_chinese_final: ʌm

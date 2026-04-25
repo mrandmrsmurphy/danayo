@@ -7,7 +7,7 @@ japanese:
   - JI
   - NI
   - GEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ŋ"
 middle_chinese_final: ei

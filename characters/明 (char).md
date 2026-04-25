@@ -6,7 +6,7 @@ korean_native: 밝을
 japanese:
   - MEI
   - MYOU
-japanese_nanori: あ-かり,あか-るい,あか-るむ,あか-らむ
+japanese_native: あ-かり,あか-るい,あか-るむ,あか-らむ
 vietnamese:
   - mừng
   - minh

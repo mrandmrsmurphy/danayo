@@ -5,7 +5,7 @@ korean: "선"
 korean_native: 봉선
 japanese:
   - ZEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ʑ
 middle_chinese_final: iᴇn

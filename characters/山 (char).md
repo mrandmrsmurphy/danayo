@@ -6,7 +6,7 @@ korean_native: "메"
 japanese:
   - SAN
   - SEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sơn
   - san

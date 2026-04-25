@@ -6,7 +6,7 @@ korean_native: 설
 japanese:
   - RITSU
   - RYUU
-japanese_nanori:
+japanese_native:
   - た-つ
 vietnamese:
   - lập, lụp, sập

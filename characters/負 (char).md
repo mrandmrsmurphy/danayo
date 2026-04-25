@@ -6,7 +6,7 @@ korean_native: "질"
 japanese:
   - FU
   - BU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: v
 middle_chinese_final: "ɨu"

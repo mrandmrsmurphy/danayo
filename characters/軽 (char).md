@@ -7,7 +7,7 @@ japanese:
   - KEI
   - KYOU
   - KIN
-japanese_nanori:
+japanese_native:
   - かる-い
 vietnamese:
   - khinh, khỉnh

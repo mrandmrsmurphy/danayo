@@ -5,7 +5,7 @@ korean: "소"
 korean_native: 긁다
 japanese:
   - SOU
-japanese_nanori: かく
+japanese_native: かく
 vietnamese:
   - tao
   - trao

@@ -6,7 +6,7 @@ korean_native: 다리
 japanese:
   - KYOU
   - KOU
-japanese_nanori: はし
+japanese_native: はし
 vietnamese:
   - kiều, cầu, kéo, kèo
 middle_chinese_initial: g

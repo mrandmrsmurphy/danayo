@@ -5,7 +5,7 @@ korean: "총"
 korean_native: "무덤"
 japanese:
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɨoŋ"

@@ -5,7 +5,7 @@ korean: "연"
 korean_native: "솔개"
 japanese:
   - EN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: "iuᴇn"

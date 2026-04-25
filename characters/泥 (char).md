@@ -5,7 +5,7 @@ korean: "니"
 korean_native: "진흙"
 japanese:
   - DEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: ei

@@ -6,7 +6,7 @@ korean_native: 귀
 japanese:
   - JI
   - JOU
-japanese_nanori:
+japanese_native:
   - みみ
 vietnamese:
   - nhĩ

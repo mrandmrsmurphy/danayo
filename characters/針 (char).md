@@ -5,7 +5,7 @@ korean: "침"
 korean_native: "바늘"
 japanese:
   - SHIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪm"

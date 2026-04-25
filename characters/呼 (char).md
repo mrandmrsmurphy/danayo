@@ -5,7 +5,7 @@ korean: 호
 korean_native: 부를
 japanese:
   - KO
-japanese_nanori:
+japanese_native:
   - よ-ぶ
 vietnamese:
   - hô, há, hao, hào

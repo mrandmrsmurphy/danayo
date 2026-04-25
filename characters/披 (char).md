@@ -4,7 +4,7 @@ cantonese: "pei1"
 korean: "피"
 korean_native: 헤칠
 japanese: HI
-japanese_nanori: ひらく
+japanese_native: ひらく
 vietnamese: phơ, bờ, pha, phê, phi, phơi
 middle_chinese_initial: pʰ
 middle_chinese_final: ɣiᴇ

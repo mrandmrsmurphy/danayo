@@ -5,8 +5,13 @@ korean: 야
 korean_native: 잇기
 japanese:
   - YA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
+  - dã
+  - dạ
+  - giã
+  - giãi
+  - rã
 middle_chinese_initial: j
 middle_chinese_final: ia
 stroke_count: 3

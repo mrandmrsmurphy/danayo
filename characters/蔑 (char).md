@@ -5,7 +5,7 @@ korean: 멸
 korean_native: ''
 japanese:
 - BETSU
-japanese_nanori: ''
+japanese_native: ''
 vietnamese: null
 middle_chinese_initial: m
 middle_chinese_final: et

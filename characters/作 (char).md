@@ -6,7 +6,7 @@ korean_native: "지을"
 japanese:
   - SAKU
   - SA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tác
 middle_chinese_initial: "t͡s"

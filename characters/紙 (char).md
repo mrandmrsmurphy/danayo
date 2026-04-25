@@ -5,7 +5,7 @@ korean: "지"
 korean_native: 종이
 japanese:
   - SHI
-japanese_nanori: かみ
+japanese_native: かみ
 vietnamese:
   - chỉ, giấy
 middle_chinese_initial: t͡ɕ

@@ -5,7 +5,7 @@ korean: 필
 korean_native: 필
 japanese:
   - HITSU
-japanese_nanori:
+japanese_native:
   - ふで
 vietnamese:
   - bút

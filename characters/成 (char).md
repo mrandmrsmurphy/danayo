@@ -6,7 +6,7 @@ korean_native: "이룰"
 japanese:
   - SEI
   - JOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thành, thình
 middle_chinese_initial: "ʑ"

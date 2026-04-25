@@ -9,6 +9,8 @@ japanese:
   - HOTSU
 japanese_nanori: ""
 vietnamese:
+  - phất
+  - phật
 middle_chinese_initial: v
 middle_chinese_final: ɨut
 stroke_count: 7

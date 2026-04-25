@@ -5,7 +5,7 @@ korean: 연
 korean_native: 납
 japanese:
   - EN
-japanese_nanori:
+japanese_native:
   - なまり
 vietnamese:
   - duyên

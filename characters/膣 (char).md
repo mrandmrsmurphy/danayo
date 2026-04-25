@@ -5,7 +5,7 @@ korean: "질"
 korean_native: 보지
 japanese:
   - CHITSU
-japanese_nanori: ちち
+japanese_native: ちち
 vietnamese:
   - chất
   - trất

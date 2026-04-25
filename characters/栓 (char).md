@@ -5,7 +5,7 @@ korean: "전"
 korean_native: "마개"
 japanese:
   - SEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣiuᴇn"

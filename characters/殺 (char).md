@@ -7,7 +7,7 @@ japanese:
   - SATSU
   - SETSU
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣɛt"

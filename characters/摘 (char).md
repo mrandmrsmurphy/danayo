@@ -7,7 +7,7 @@ japanese:
   - TEKI
   - TAKU
   - CHAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɣɛk"

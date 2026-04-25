@@ -5,7 +5,7 @@ korean: "옹"
 korean_native: "늙은이"
 japanese:
   - OU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "uŋ"

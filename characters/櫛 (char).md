@@ -5,7 +5,7 @@ korean: "즐"
 korean_native: "빗"
 japanese:
   - SHITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɪt"

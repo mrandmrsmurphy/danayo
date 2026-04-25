@@ -5,7 +5,7 @@ korean: 위
 korean_native: 할
 japanese:
   - I
-japanese_nanori:
+japanese_native:
   - さだ
 vietnamese:
   - vi, vị, vĩ

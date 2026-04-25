@@ -6,7 +6,7 @@ korean_native: 그을음, 석탄, 먹
 japanese:
   - BAI
   - MAI
-japanese_nanori: すす
+japanese_native: すす
 vietnamese:
   - môi, muồi, mai
 middle_chinese_initial: m

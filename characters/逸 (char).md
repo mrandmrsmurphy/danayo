@@ -6,7 +6,7 @@ korean_native: "달아날"
 japanese:
   - ITSU
   - ICHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: "iɪt"

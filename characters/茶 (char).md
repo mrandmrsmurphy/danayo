@@ -7,7 +7,7 @@ japanese:
   - CHA
   - SA
   - TA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣa"

@@ -5,7 +5,7 @@ korean: "추"
 korean_native: "밀"
 japanese:
   - SUI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "iuɪ"

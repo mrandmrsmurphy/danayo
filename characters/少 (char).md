@@ -5,7 +5,7 @@ korean: "소"
 korean_native: "적을"
 japanese:
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɕ"
 middle_chinese_final: "iᴇu"

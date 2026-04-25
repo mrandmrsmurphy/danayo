@@ -6,7 +6,7 @@ korean_native: 머무를
 japanese:
   - RYUU
   - RU
-japanese_nanori: と-める,と-まる
+japanese_native: と-める,と-まる
 vietnamese:
   - lưu
 middle_chinese_initial: l

@@ -5,7 +5,7 @@ korean: "최"
 korean_native: "가장"
 japanese:
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "uɑi"

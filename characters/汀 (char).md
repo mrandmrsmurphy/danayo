@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "물가"
 japanese:
   - TEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "eŋ"

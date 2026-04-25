@@ -6,7 +6,7 @@ korean_native: "일"
 japanese:
   - JI
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sự
 middle_chinese_initial: "d͡ʒ"

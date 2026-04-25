@@ -5,7 +5,7 @@ korean: "지"
 korean_native: "이를"
 japanese:
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪ"

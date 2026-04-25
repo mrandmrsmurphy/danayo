@@ -6,7 +6,7 @@ korean_native: 땜질하다, 막다, 붙들어 매다
 japanese:
   - KO
   - KU
-japanese_nanori: ふさぐ
+japanese_native: ふさぐ
 vietnamese:
   - cố
 middle_chinese_initial: k

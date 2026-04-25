@@ -5,7 +5,7 @@ korean: 륜
 korean_native: 쇠
 japanese:
   - RIN
-japanese_nanori: うさぎあみ
+japanese_native: うさぎあみ
 vietnamese:
   - ø
 middle_chinese_initial: l

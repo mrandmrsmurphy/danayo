@@ -6,7 +6,7 @@ korean_native: 늘어질
 japanese:
   - JUU
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t͡s
 middle_chinese_final: ɨoŋ

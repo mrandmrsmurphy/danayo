@@ -7,6 +7,12 @@ japanese:
   - BAI
 japanese_nanori: ""
 vietnamese:
+  - buạ
+  - bạu
+  - bậu
+  - bội
+  - bụa
+  - vội
 middle_chinese_initial: b
 middle_chinese_final: "ʌi"
 stroke_count: 10

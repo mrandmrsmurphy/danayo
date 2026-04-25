@@ -5,7 +5,7 @@ korean: "료"
 korean_native: ""
 japanese:
   - RYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: eu

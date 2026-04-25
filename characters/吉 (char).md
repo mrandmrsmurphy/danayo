@@ -6,7 +6,7 @@ korean_native: "길할"
 japanese:
   - KICHI
   - KITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "iɪt"

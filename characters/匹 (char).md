@@ -6,7 +6,7 @@ korean_native: "짝"
 japanese:
   - HITSU
   - HIKI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thất
   - sất

@@ -6,7 +6,7 @@ korean_native: 달
 japanese:
   - GETSU
   - GATSU
-japanese_nanori: つき
+japanese_native: つき
 vietnamese:
   - nguyệt
   - ngoạt

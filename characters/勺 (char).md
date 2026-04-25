@@ -5,7 +5,7 @@ korean: "작"
 korean_native: "구기"
 japanese:
   - SHAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨɐk"

@@ -6,7 +6,7 @@ korean_native: "두를"
 japanese:
   - JOU
   - NYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iᴇu"

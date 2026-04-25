@@ -5,7 +5,7 @@ korean: "첩"
 korean_native: "첩"
 japanese:
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iᴇp"

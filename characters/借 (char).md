@@ -9,6 +9,7 @@ japanese:
   - SEKI
 japanese_nanori: ""
 vietnamese:
+  - tá
 middle_chinese_initial: "t͡s"
 middle_chinese_final: ia
 stroke_count: 10

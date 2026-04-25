@@ -4,7 +4,7 @@ cantonese: "bek3, bik1, bik3"
 korean: "벽"
 korean_native: 벽
 japanese: HEKI
-japanese_nanori: かべ
+japanese_native: かべ
 vietnamese: bích, bệch, bịch, vách
 middle_chinese_initial: p
 middle_chinese_final: ek

@@ -7,7 +7,7 @@ japanese:
   - BO
   - BAKU
   - MAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mạc
 middle_chinese_initial: m

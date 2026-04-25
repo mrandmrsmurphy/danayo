@@ -6,7 +6,7 @@ korean_native: "들"
 japanese:
   - HEI
   - HYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "ɣiæŋ"

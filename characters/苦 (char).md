@@ -5,7 +5,7 @@ korean: "고"
 korean_native: 쓸
 japanese:
   - KU
-japanese_nanori:
+japanese_native:
   - くる-しい
 vietnamese:
   - khổ, khủ, cỏ

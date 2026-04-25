@@ -5,7 +5,7 @@ korean: 을
 korean_native: 새
 japanese:
   - OTSU
-japanese_nanori: きのと,おと
+japanese_native: きのと,おと
 vietnamese:
   - ất
   - át

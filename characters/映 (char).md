@@ -6,7 +6,7 @@ korean_native: 비출
 japanese:
   - EI
   - YOU
-japanese_nanori:
+japanese_native:
   - うつ-る,うつ-す,は-える
 vietnamese:
   - ánh, tử

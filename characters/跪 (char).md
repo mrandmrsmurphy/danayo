@@ -5,7 +5,7 @@ korean: "궤"
 korean_native: 꿇어앉을
 japanese:
   - KI
-japanese_nanori:
+japanese_native:
   - ひざまずく
 vietnamese:
   - quỵ

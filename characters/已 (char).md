@@ -5,7 +5,7 @@ korean: 이
 korean_native: 이미
 japanese:
   - I
-japanese_nanori: すでに
+japanese_native: すでに
 vietnamese:
   - dĩ
 middle_chinese_initial: j

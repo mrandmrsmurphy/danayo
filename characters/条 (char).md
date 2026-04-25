@@ -5,7 +5,7 @@ korean: 조
 korean_native: 가지
 japanese:
   - JOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: eu

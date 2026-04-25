@@ -6,7 +6,7 @@ korean_native: "못"
 japanese:
   - TEI
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: "eŋ"

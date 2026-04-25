@@ -7,7 +7,7 @@ japanese:
   - FUKU
   - FUU
   - BUKU
-japanese_nanori:
+japanese_native:
   - ふ-せる,ふ-す
 vietnamese:
   - phục

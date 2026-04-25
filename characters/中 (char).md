@@ -5,7 +5,7 @@ korean: 중
 korean_native: 가운데
 japanese:
   - CHUU
-japanese_nanori:
+japanese_native:
   - なか
 vietnamese:
   - trung

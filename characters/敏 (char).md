@@ -6,7 +6,7 @@ korean_native: "민첩할"
 japanese:
   - BIN
   - MIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣiɪn"

@@ -6,7 +6,7 @@ korean_native: "이름"
 japanese:
   - MEI
   - MYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - danh
 middle_chinese_initial: m

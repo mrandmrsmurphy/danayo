@@ -6,7 +6,7 @@ korean_native: 날
 japanese:
   - SHUTSU
   - SUI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iuɪt

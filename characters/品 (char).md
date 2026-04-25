@@ -6,7 +6,7 @@ korean_native: 물건
 japanese:
   - HIN
   - HON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: pʰ
 middle_chinese_final: ɣiɪm

@@ -5,7 +5,7 @@ korean: "국"
 korean_native: 판
 japanese:
   - KYOKU
-japanese_nanori: つぼね
+japanese_native: つぼね
 vietnamese:
   - cục, cộc, cuộc, gục, ngúc
 middle_chinese_initial: g

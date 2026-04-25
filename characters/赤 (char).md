@@ -6,7 +6,7 @@ korean_native: 붉을
 japanese:
   - SEKI
   - SHAKU
-japanese_nanori:
+japanese_native:
   - あかい
 vietnamese:
   - xích

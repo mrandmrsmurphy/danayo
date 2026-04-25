@@ -6,7 +6,7 @@ korean_native: "난쟁이"
 japanese:
   - WAI
   - AI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣɛ"

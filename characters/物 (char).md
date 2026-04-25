@@ -6,7 +6,7 @@ korean_native: 만물
 japanese:
   - MOTSU
   - BUTSU
-japanese_nanori:
+japanese_native:
   - もの
 vietnamese:
   - vật

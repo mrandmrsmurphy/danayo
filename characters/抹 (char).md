@@ -5,7 +5,7 @@ korean: "말"
 korean_native: "지울"
 japanese:
   - MATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "uɑt"

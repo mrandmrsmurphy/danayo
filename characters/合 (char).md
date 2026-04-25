@@ -7,7 +7,7 @@ japanese:
   - GOU
   - KATSU
   - GATSU
-japanese_nanori:
+japanese_native:
   - あ-う,あ-わす,あ-わせる
 vietnamese:
   - hợp, cáp, cóp, góp, gộp, họp, hạp

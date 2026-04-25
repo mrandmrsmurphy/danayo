@@ -5,7 +5,7 @@ korean: "퇴"
 korean_native: ""
 japanese:
   - TSUI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiuᴇ

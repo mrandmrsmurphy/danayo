@@ -4,7 +4,7 @@ cantonese: "cheuk3, jeuk3"
 korean: "탁"
 korean_native: 탁자
 japanese: TAKU
-japanese_nanori: すぐれる
+japanese_native: すぐれる
 vietnamese: trác, chác, giạt
 middle_chinese_initial: t
 middle_chinese_final: ɣʌk

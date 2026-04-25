@@ -5,7 +5,7 @@ korean: "겸"
 korean_native: "낫"
 japanese:
   - REN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "iᴇm"

@@ -5,7 +5,7 @@ korean: "서"
 korean_native: "더울"
 japanese:
   - SHO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thử
 middle_chinese_initial: "ɕ"

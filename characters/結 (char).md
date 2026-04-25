@@ -6,7 +6,7 @@ korean_native: "맺을"
 japanese:
   - KETSU
   - KEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: et

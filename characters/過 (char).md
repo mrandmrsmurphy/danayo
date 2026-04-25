@@ -5,7 +5,7 @@ korean: "과"
 korean_native: "지날"
 japanese:
   - KA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "uɑ"

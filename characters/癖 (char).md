@@ -5,7 +5,7 @@ korean: "벽"
 korean_native: "버릇"
 japanese:
   - HEKI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iᴇk"

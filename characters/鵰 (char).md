@@ -5,7 +5,7 @@ korean: "조"
 korean_native: "독수리"
 japanese:
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: eu

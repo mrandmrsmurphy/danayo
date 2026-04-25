@@ -5,7 +5,7 @@ korean: "검"
 korean_native: 칼
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: iɐm

@@ -6,7 +6,7 @@ korean_native: 별
 japanese:
   - SEI
   - SHOU
-japanese_nanori: ほし
+japanese_native: ほし
 vietnamese:
   - tinh
 middle_chinese_initial: s

@@ -5,7 +5,7 @@ korean: "진"
 korean_native: 입술
 japanese:
   - SHIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ɕ
 middle_chinese_final: ɨun

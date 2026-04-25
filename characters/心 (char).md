@@ -5,7 +5,7 @@ korean: "심"
 korean_native: 마음
 japanese:
   - SHIN
-japanese_nanori:
+japanese_native:
   - こころ
 vietnamese:
   - tâm

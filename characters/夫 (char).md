@@ -6,7 +6,7 @@ korean_native: "지아비"
 japanese:
   - FU
   - FUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phu
 middle_chinese_initial: f

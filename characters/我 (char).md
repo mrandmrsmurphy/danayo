@@ -5,7 +5,7 @@ korean: "아"
 korean_native: 나
 japanese:
   - GA
-japanese_nanori: われ,わ
+japanese_native: われ,わ
 vietnamese:
   - tôi
   - anh

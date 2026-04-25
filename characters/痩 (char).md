@@ -4,7 +4,7 @@ cantonese: sau3
 korean: "수"
 korean_native: "여윌"
 japanese: SOU
-japanese_nanori: "や-せる"
+japanese_native: "や-せる"
 vietnamese: "sấu"
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɨu"

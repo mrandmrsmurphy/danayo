@@ -5,7 +5,7 @@ korean: "축"
 korean_native: "줄일"
 japanese:
   - SHUKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɨuk"

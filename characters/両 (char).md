@@ -5,7 +5,7 @@ korean: 량
 korean_native: 두
 japanese:
   - RYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cả hai
 middle_chinese_initial: l

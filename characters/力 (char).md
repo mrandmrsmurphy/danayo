@@ -6,7 +6,7 @@ korean_native: 힘
 japanese:
   - RYOKU
   - RIKI
-japanese_nanori: いさお
+japanese_native: いさお
 vietnamese:
   - lực
   - sức

@@ -5,7 +5,7 @@ korean: "국"
 korean_native: "국화"
 japanese:
   - KIKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɨuk"

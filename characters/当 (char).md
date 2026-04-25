@@ -5,7 +5,7 @@ korean: "당"
 korean_native: 당할
 japanese:
   - TOU
-japanese_nanori:
+japanese_native:
   - あ-たる,あ-てる
 vietnamese:
   - đáng, đương

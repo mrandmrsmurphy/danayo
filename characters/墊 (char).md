@@ -7,7 +7,7 @@ japanese:
   - TEN
   - TEU
   - DEU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: ep

@@ -6,7 +6,7 @@ korean_native: 기름
 japanese:
   - YU
   - YUU
-japanese_nanori:
+japanese_native:
   - あぶら
 vietnamese:
   - du

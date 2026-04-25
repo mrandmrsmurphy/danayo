@@ -5,7 +5,7 @@ korean: "개"
 korean_native: 고칠
 japanese:
   - KAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ʌi

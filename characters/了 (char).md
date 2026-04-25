@@ -5,8 +5,14 @@ korean: "료"
 korean_native: "마칠"
 japanese:
   - RYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
+  - liễu
+  - léo
+  - líu
+  - lẽo
+  - lếu
+  - lểu
 middle_chinese_initial: l
 middle_chinese_final: eu
 stroke_count: 2

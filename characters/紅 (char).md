@@ -6,7 +6,7 @@ korean_native: 붉을
 japanese:
   - KU
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: uŋ

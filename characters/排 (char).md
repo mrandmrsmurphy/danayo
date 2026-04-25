@@ -6,7 +6,7 @@ cantonese: "paai4"
 korean: "배"
 korean_native: 밀칠
 japanese: HAI
-japanese_nanori: おしひらく
+japanese_native: おしひらく
 vietnamese:
   - bài
   - bai

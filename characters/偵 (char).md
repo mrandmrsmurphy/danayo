@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "염탐할"
 japanese:
   - TEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʈʰ"
 middle_chinese_final: "iᴇŋ"

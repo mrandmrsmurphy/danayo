@@ -6,7 +6,7 @@ korean_native: 우레
 japanese:
   - RAI
   - RUI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: uʌi

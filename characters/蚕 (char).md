@@ -6,7 +6,7 @@ korean_native: "지렁이"
 japanese:
   - SAN
   - TEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "ʌm"

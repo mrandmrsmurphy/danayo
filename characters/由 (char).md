@@ -7,7 +7,7 @@ japanese:
   - YUU
   - YU
   - YUI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - do
 middle_chinese_initial: j

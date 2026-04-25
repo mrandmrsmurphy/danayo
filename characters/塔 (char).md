@@ -4,7 +4,7 @@ cantonese: taap3
 korean: 탑
 korean_native: 탑
 japanese: TOU
-japanese_nanori: あららぎ
+japanese_native: あららぎ
 vietnamese: tháp, thạp, thóp
 middle_chinese_initial: tʰ
 middle_chinese_final: ɑp

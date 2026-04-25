@@ -5,7 +5,7 @@ korean: "탁"
 korean_native: "쫄"
 japanese:
   - TAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: uk

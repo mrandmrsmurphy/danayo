@@ -5,7 +5,7 @@ korean: "가"
 korean_native: 시렁
 japanese:
   - KA
-japanese_nanori: か-ける,か-かる
+japanese_native: か-ける,か-かる
 vietnamese:
   - giá
   - dứa

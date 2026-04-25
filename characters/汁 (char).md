@@ -5,7 +5,7 @@ korean: "즙"
 korean_native: "즙"
 japanese:
   - JUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪp"

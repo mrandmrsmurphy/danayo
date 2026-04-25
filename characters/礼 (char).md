@@ -6,7 +6,7 @@ korean_native: "예도"
 japanese:
   - REI
   - RAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: ei

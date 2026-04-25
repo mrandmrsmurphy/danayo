@@ -5,7 +5,7 @@ korean: "첨"
 korean_native: "아첨할"
 japanese:
   - TEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʈʰ"
 middle_chinese_final: "ɣiᴇm"

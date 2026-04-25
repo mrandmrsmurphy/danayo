@@ -6,7 +6,7 @@ korean_native: 초록빛
 japanese:
   - RYOKU
   - ROKU
-japanese_nanori:
+japanese_native:
   - つか
 vietnamese:
   - lục

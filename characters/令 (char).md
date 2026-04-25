@@ -8,6 +8,14 @@ japanese:
   - RYOU
 japanese_nanori: ""
 vietnamese:
+  - lanh
+  - liệng
+  - loanh
+  - lành
+  - lênh
+  - lình
+  - lệnh
+  - lịnh
 middle_chinese_initial: l
 middle_chinese_final: "eŋ"
 stroke_count: 5

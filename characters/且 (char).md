@@ -6,7 +6,7 @@ korean_native: "또"
 japanese:
   - SHA
   - SHO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thả
   - thư

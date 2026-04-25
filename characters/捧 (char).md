@@ -5,7 +5,7 @@ korean: "봉"
 korean_native: "받들"
 japanese:
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "ɨoŋ"

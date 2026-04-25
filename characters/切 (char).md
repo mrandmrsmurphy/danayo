@@ -6,7 +6,7 @@ korean_native: 끊을
 japanese:
   - SETSU
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: et

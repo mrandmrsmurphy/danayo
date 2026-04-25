@@ -7,7 +7,7 @@ japanese:
   - TEI
   - CHOU
   - TOU
-japanese_nanori: ひのと, あたる, よぼろ
+japanese_native: ひのと, あたる, よぼろ
 vietnamese:
   - đinh
 middle_chinese_initial: t

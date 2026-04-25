@@ -6,7 +6,7 @@ korean_native: 쇠
 japanese:
   - KIN
   - KON
-japanese_nanori:
+japanese_native:
   - かね,（かな）
 vietnamese:
   - kim

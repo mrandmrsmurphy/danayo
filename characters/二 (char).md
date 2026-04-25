@@ -6,7 +6,7 @@ korean_native: 두
 japanese:
   - NI
   - JI
-japanese_nanori: ふた
+japanese_native: ふた
 vietnamese:
   - nhị
 middle_chinese_initial: ȵ

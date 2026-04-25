@@ -5,7 +5,7 @@ korean: "호"
 korean_native: "어조사"
 japanese:
   - KO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hồ
   - hô

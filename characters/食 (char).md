@@ -7,7 +7,7 @@ japanese:
   - SHOKU
   - SHI
   - JIKI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "ɨk"

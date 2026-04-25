@@ -5,7 +5,7 @@ korean: "처"
 korean_native: "곳"
 japanese:
   - SHO
-japanese_nanori:
+japanese_native:
   - ところ
 vietnamese:
   - xử, xớ, xở, xứ

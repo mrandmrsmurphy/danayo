@@ -5,7 +5,7 @@ korean: "마"
 korean_native: "갈"
 japanese:
   - MA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - ma, mài
 middle_chinese_initial: m

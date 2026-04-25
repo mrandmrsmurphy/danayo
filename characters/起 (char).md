@@ -5,7 +5,7 @@ korean: "기"
 korean_native: "일어날"
 japanese:
   - KI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɨ"

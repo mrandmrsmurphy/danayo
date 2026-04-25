@@ -6,7 +6,7 @@ korean_native: "마디"
 japanese:
   - SUN
   - SON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "uən"

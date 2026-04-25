@@ -5,7 +5,7 @@ korean: "톤"
 korean_native: ""
 japanese:
   - TON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: uən

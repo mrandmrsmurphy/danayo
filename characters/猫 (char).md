@@ -7,7 +7,7 @@ japanese:
   - BYOU
   - BOU
   - MYOU
-japanese_nanori: びょう
+japanese_native: びょう
 vietnamese:
   - mèo
   - meo

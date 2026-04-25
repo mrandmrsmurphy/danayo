@@ -7,6 +7,8 @@ japanese:
   - ZOKU
 japanese_nanori: ""
 vietnamese:
+  - thói
+  - tục
 middle_chinese_initial: z
 middle_chinese_final: "ɨok"
 stroke_count: 9

@@ -6,7 +6,7 @@ korean_native: "될"
 japanese:
   - KA
   - KE
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: "ɣua"

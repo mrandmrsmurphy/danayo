@@ -7,7 +7,7 @@ japanese:
   - SHAKU
   - SEKI
   - KOKU
-japanese_nanori:
+japanese_native:
   - いし
 vietnamese:
   - thạch, đán

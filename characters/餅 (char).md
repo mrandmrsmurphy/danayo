@@ -6,7 +6,7 @@ korean_native: 떡
 japanese:
   - HEI
   - HYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: iᴇŋ

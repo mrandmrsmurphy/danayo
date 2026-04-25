@@ -6,7 +6,7 @@ korean_native: "마노"
 japanese:
   - BA
   - ME
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣa"

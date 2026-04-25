@@ -6,7 +6,7 @@ korean_native: "어찌"
 japanese:
   - KA
   - GA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hà
   - gã

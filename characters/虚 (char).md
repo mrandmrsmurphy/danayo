@@ -6,7 +6,7 @@ korean_native: 빌
 japanese:
   - KYO
   - KO
-japanese_nanori:
+japanese_native:
   - むなしい
 vietnamese:
   - hư

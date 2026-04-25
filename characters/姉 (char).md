@@ -5,7 +5,7 @@ korean: "자"
 korean_native: "윗누이"
 japanese:
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: ia

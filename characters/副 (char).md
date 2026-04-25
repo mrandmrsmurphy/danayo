@@ -6,7 +6,7 @@ korean_native: 버금
 japanese:
   - FUKU
   - FU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phó
   - pho

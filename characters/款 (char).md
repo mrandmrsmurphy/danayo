@@ -5,7 +5,7 @@ korean: "관"
 korean_native: "항목"
 japanese:
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uɑn"

@@ -6,7 +6,7 @@ korean_native: 수레
 japanese:
   - SHA
   - KYO
-japanese_nanori:
+japanese_native:
   - くるま
 vietnamese:
   - xa, xe, xế

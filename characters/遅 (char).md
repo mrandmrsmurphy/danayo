@@ -5,7 +5,7 @@ korean: "지"
 korean_native: 늦을
 japanese:
   - CHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiɪ

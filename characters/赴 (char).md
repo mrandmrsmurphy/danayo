@@ -5,7 +5,7 @@ korean: "부"
 korean_native: "다다를"
 japanese:
   - FU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "fʰ"
 middle_chinese_final: "ɨo"

@@ -5,7 +5,7 @@ korean: 동
 korean_native: 움직일
 japanese:
   - DOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: uŋ

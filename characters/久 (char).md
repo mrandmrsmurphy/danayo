@@ -6,8 +6,9 @@ korean_native: "오랠"
 japanese:
   - KYUU
   - KU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
+  - cửu
 middle_chinese_initial: k
 middle_chinese_final: "ɨu"
 stroke_count: 3

@@ -7,7 +7,7 @@ japanese:
   - HOTSU
   - HOCHI
   - HATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phát, phắt, phết
 middle_chinese_initial: f

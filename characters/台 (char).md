@@ -7,7 +7,7 @@ japanese:
 - DAI
 - TAI
 - I
-japanese_nanori: ''
+japanese_native: ''
 vietnamese: null
 middle_chinese_initial: d
 middle_chinese_final: ʌi

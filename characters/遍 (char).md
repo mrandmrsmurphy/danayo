@@ -5,7 +5,7 @@ korean: "편"
 korean_native: "두루"
 japanese:
   - HEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: en

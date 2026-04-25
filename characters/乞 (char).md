@@ -6,8 +6,11 @@ korean_native: 빌
 japanese:
   - KOTSU
   - KI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
+  - gật
+  - khất
+  - khắt
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨt
 stroke_count: 3

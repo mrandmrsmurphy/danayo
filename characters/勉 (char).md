@@ -5,7 +5,7 @@ korean: "면"
 korean_native: "힘쓸"
 japanese:
   - BEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣiᴇn"

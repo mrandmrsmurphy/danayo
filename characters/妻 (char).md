@@ -5,7 +5,7 @@ korean: "처"
 korean_native: "아내"
 japanese:
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: ei

@@ -5,7 +5,7 @@ korean: "사"
 korean_native: "풀"
 japanese:
   - SHA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: ia

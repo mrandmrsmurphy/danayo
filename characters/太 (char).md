@@ -6,7 +6,7 @@ korean_native: 클
 japanese:
   - TA
   - TAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thái
 middle_chinese_initial: tʰ

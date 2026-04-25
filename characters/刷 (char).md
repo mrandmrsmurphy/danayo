@@ -5,7 +5,7 @@ korean: "쇄"
 korean_native: "인쇄할"
 japanese:
   - SATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣuat"

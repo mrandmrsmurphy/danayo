@@ -5,7 +5,7 @@ korean: "밀"
 korean_native: "빽빽할"
 japanese:
   - MITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣiɪt"

@@ -6,7 +6,7 @@ korean_native: 끌
 japanese:
   - RATSU
   - ROU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: ʌp

@@ -6,7 +6,7 @@ korean_native: "거둘"
 japanese:
   - REN
   - REMU
-japanese_nanori: "おさめる"
+japanese_native: "おさめる"
 vietnamese:
   - kiếm, liễm, liệm
 middle_chinese_initial: l

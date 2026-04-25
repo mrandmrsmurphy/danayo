@@ -6,7 +6,7 @@ korean_native: 해칠
 japanese:
   - ZAN
   - SAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tàn
 middle_chinese_initial: d͡z

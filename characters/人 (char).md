@@ -6,7 +6,7 @@ korean_native: 사람
 japanese:
   - JIN
   - NIN
-japanese_nanori: " きよ ,さね ,じ ,たみ"
+japanese_native: " きよ ,さね ,じ ,たみ"
 vietnamese:
   - nhân
 middle_chinese_initial: ȵ

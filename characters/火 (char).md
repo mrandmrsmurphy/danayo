@@ -6,7 +6,7 @@ korean_native: "불"
 japanese:
   - KA
   - KO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hoả
 middle_chinese_initial: x

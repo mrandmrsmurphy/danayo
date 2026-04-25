@@ -6,7 +6,7 @@ korean_native: 흙
 japanese:
   - DO
   - TO
-japanese_nanori: つち
+japanese_native: つち
 vietnamese:
   - thổ
 middle_chinese_initial: tʰ

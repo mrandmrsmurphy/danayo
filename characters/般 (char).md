@@ -7,7 +7,7 @@ japanese:
   - HAN
   - BAN
   - HATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: "ɣan"

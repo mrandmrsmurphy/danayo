@@ -5,7 +5,7 @@ korean: "체"
 korean_native: "눈물"
 japanese:
   - TEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: ei

@@ -5,7 +5,7 @@ korean: "파"
 korean_native: "깨뜨릴"
 japanese:
   - HA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - vỡ
 middle_chinese_initial: "pʰ"

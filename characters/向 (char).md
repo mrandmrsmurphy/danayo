@@ -7,7 +7,7 @@ japanese:
   - KOU
   - KYOU
   - SHOU
-japanese_nanori:
+japanese_native:
   - む-く,む-ける,む-かう,む-こう
 vietnamese:
   - hướng

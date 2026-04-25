@@ -6,7 +6,7 @@ korean_native: "꿰맬"
 japanese:
   - TEI
   - TETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɣiuᴇt"

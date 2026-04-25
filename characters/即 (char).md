@@ -6,7 +6,7 @@ korean_native: "곧"
 japanese:
   - SOKU
   - SHOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tức
 middle_chinese_initial: "t͡s"

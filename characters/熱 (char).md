@@ -7,7 +7,7 @@ japanese:
   - NETSU
   - ZETSU
   - NECHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iᴇt"

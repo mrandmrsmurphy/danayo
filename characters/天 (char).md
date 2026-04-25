@@ -5,7 +5,7 @@ korean: "천"
 korean_native: 하늘
 japanese:
   - TEN
-japanese_nanori: " かみ"
+japanese_native: " かみ"
 vietnamese:
   - thiên
 middle_chinese_initial: tʰ

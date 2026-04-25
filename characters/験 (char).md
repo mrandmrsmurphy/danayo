@@ -6,7 +6,7 @@ korean_native: 시험할
 japanese:
   - KEN
   - GEN
-japanese_nanori:
+japanese_native:
   - いさお
 vietnamese:
   - nghiệm

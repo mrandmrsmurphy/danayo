@@ -5,7 +5,7 @@ korean: "호"
 korean_native: "범"
 japanese:
   - KO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hổ
 middle_chinese_initial: x

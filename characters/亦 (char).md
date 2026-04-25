@@ -8,6 +8,7 @@ japanese:
   - YAKU
 japanese_nanori: ""
 vietnamese:
+  - diệc
 middle_chinese_initial: j
 middle_chinese_final: "iᴇk"
 stroke_count: 6

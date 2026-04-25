@@ -5,7 +5,7 @@ korean: "휘"
 korean_native: 모을
 japanese:
   - I
-japanese_nanori: はりねずみ
+japanese_native: はりねずみ
 vietnamese:
   - vừng, vị, vựng, hối
 middle_chinese_initial: ø

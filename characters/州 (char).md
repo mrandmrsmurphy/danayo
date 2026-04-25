@@ -6,7 +6,7 @@ korean_native: 고을
 japanese:
   - SHUU
   - SU
-japanese_nanori: す
+japanese_native: す
 vietnamese:
   - châu, chu
 middle_chinese_initial: t͡ɕ

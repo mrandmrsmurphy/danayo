@@ -6,7 +6,7 @@ korean_native: 맏
 japanese:
   - KEI
   - KYOU
-japanese_nanori:
+japanese_native:
   - あに
 vietnamese:
   - huynh

@@ -6,7 +6,7 @@ korean_native: "무늬"
 japanese:
   - MON
   - BUN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ɱ"
 middle_chinese_final: "ɨun"

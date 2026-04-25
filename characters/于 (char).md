@@ -6,7 +6,7 @@ korean_native: 어조사
 japanese:
   - U
   - KU
-japanese_nanori: ここに, ゆく
+japanese_native: ここに, ゆく
 vietnamese:
   - vu
   - vo

@@ -6,7 +6,7 @@ korean_native: "이"
 japanese:
   - ZE
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thị
 middle_chinese_initial: "d͡ʑ"

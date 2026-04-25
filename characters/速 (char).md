@@ -5,7 +5,7 @@ korean: "속"
 korean_native: "빠를"
 japanese:
   - SOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: uk

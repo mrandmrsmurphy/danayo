@@ -7,7 +7,7 @@ japanese:
   - BOKU
   - HAKU
   - HOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "pʰ"
 middle_chinese_final: uk

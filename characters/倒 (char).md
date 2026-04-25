@@ -7,6 +7,7 @@ japanese:
   - TOU
 japanese_nanori: ""
 vietnamese:
+  - đảo
 middle_chinese_initial: t
 middle_chinese_final: "ɑu"
 stroke_count: 10

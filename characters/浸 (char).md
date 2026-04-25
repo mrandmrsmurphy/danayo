@@ -5,7 +5,7 @@ korean: "침"
 korean_native: "잠길"
 japanese:
   - SHIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iɪm"

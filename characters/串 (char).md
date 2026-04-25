@@ -6,8 +6,12 @@ korean_native: 곶
 japanese:
   - SEN
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
+  - quán
+  - xiên
+  - xuyên
+  - xuyến
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iuᴇn
 stroke_count: 7

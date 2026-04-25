@@ -7,7 +7,7 @@ japanese:
   - SHA
   - SAI
   - SA
-japanese_nanori:
+japanese_native:
   - また 
 vietnamese:
   - xoa

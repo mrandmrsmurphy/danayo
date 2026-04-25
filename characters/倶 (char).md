@@ -5,7 +5,7 @@ korean: "구"
 korean_native: 함께
 japanese:
   - KU
-japanese_nanori:
+japanese_native:
   - ともに
 vietnamese:
   - câu, cu

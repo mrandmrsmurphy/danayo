@@ -4,7 +4,7 @@ cantonese: "yik6"
 korean: "역"
 korean_native: 역참
 japanese: EKI
-japanese_nanori: うまや
+japanese_native: うまや
 vietnamese: dịch
 middle_chinese_initial: j
 middle_chinese_final: iᴇk

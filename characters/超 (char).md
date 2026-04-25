@@ -5,7 +5,7 @@ korean: "초"
 korean_native: "뛰어넘을"
 japanese:
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʈʰ"
 middle_chinese_final: "ɣiᴇu"

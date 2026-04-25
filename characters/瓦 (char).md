@@ -5,7 +5,7 @@ korean: 와
 korean_native: 기와
 japanese:
   - GA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣua

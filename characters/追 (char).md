@@ -6,7 +6,7 @@ korean_native: "쫓을"
 japanese:
   - TSUI
   - TAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɣiuɪ"

@@ -6,7 +6,7 @@ korean_native: "아닐"
 japanese:
   - MI
   - BI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - vị, mùi
 middle_chinese_initial: "ɱ"

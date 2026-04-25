@@ -5,7 +5,7 @@ korean: "권"
 korean_native: "문서"
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ʉɐn"

@@ -6,7 +6,7 @@ korean_native: 이제
 japanese:
   - KON
   - KIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - kim
 middle_chinese_initial: k

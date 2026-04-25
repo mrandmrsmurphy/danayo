@@ -5,7 +5,7 @@ korean: "역"
 korean_native: 실 뽑을
 japanese:
   - YAKU
-japanese_nanori: ぬく
+japanese_native: ぬく
 vietnamese:
   - gịt, dịch, dịt
 middle_chinese_initial: j

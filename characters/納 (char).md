@@ -7,7 +7,7 @@ japanese:
   - TOU
   - NOU
   - NA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: "ʌp"

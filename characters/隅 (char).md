@@ -6,7 +6,7 @@ korean_native: "모퉁이"
 japanese:
   - GUU
   - GU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨo"

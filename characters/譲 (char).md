@@ -5,7 +5,7 @@ korean: "양"
 korean_native: 사양할
 japanese:
   - JOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨɐŋ

@@ -5,7 +5,7 @@ korean: "융"
 korean_native: "녹을"
 japanese:
   - YUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: "ɨuŋ"

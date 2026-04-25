@@ -5,7 +5,7 @@ korean: 로
 korean_native: 이슬
 japanese:
   - RO
-japanese_nanori:
+japanese_native:
   - あきら
 vietnamese:
   - lộ

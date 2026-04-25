@@ -5,7 +5,7 @@ korean: "계"
 korean_native: 닭
 japanese:
   - KEI
-japanese_nanori: にわとり
+japanese_native: にわとり
 vietnamese:
   - ke, kê
 middle_chinese_initial: k

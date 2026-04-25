@@ -7,7 +7,7 @@ japanese:
   - JO
   - NYO
   - NYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nữ
 middle_chinese_initial: "ɳ"

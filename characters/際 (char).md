@@ -5,7 +5,7 @@ korean: "제"
 korean_native: 사이
 japanese:
   - SAI
-japanese_nanori: きわ
+japanese_native: きわ
 vietnamese:
   - tế
 middle_chinese_initial: t͡s

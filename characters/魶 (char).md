@@ -5,7 +5,7 @@ korean: 납
 korean_native: 도롱뇽
 japanese:
   - NATSU
-japanese_nanori: ø
+japanese_native: ø
 vietnamese:
   - ø
 middle_chinese_initial: n

@@ -6,7 +6,7 @@ korean_native: "나눌"
 japanese:
   - BETSU
   - BECHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "ɣiᴇt"
