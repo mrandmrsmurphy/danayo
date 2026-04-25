@@ -5,7 +5,7 @@ korean: "해"
 korean_native: "어찌"
 japanese:
   - KEI
-japanese_native: ""
+japanese_native: なんぞ
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: ei

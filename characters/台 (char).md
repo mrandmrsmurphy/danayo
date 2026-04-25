@@ -8,6 +8,7 @@ japanese:
 - TAI
 - I
 japanese_nanori: ''
+japanese_native: うてな
 vietnamese:
   - hai
   - thai

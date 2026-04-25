@@ -7,6 +7,7 @@ japanese:
   - BETSU
   - BECHI
 japanese_nanori: ""
+japanese_native: わか
 vietnamese:
   - biết
   - biệt

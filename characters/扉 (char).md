@@ -5,7 +5,7 @@ korean: "비"
 korean_native: "사립문"
 japanese:
   - HI
-japanese_native: ""
+japanese_native: とびら
 vietnamese:
   - phi
 middle_chinese_initial: f

@@ -7,6 +7,7 @@ japanese:
   - KYO
   - KO
 japanese_nanori: ""
+japanese_native: さ
 vietnamese:
   - khứ
   - khử

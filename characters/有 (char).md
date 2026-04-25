@@ -6,7 +6,7 @@ korean_native: "있을"
 japanese:
   - YUU
   - U
-japanese_native: ""
+japanese_native: あ
 vietnamese:
   - hữu
 middle_chinese_initial: "ø"

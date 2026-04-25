@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "솥"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: かなえ
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: "eŋ"

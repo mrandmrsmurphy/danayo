@@ -7,6 +7,7 @@ japanese:
   - KICHI
   - KITSU
 japanese_nanori: ""
+japanese_native: よし
 vietnamese:
   - cát
   - kiết

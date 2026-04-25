@@ -6,7 +6,7 @@ korean_native: "눈썹"
 japanese:
   - BI
   - MI
-japanese_native: ""
+japanese_native: まゆ
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣiɪ"

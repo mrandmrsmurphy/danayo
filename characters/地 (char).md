@@ -6,8 +6,10 @@ korean_native: "땅"
 japanese:
   - CHI
   - JI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - rịa
+  - địa
 middle_chinese_initial: d
 middle_chinese_final: "iɪ"
 stroke_count: 6

@@ -6,7 +6,7 @@ korean_native: "마실"
 japanese:
   - IN
   - ON
-japanese_native: ""
+japanese_native: の
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣiɪm"

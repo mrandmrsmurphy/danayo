@@ -7,7 +7,7 @@ japanese:
   - KAKU
   - ROKU
   - KOKU
-japanese_native: ""
+japanese_native: かど
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɣʌk

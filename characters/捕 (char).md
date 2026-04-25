@@ -5,7 +5,7 @@ korean: "포"
 korean_native: "잡을"
 japanese:
   - HO
-japanese_native: ""
+japanese_native: と
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: uo

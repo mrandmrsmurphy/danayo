@@ -7,7 +7,7 @@ japanese:
   - HAN
   - FUU
   - HOU
-japanese_native: ""
+japanese_native: ただよ
 vietnamese:
 middle_chinese_initial: "fʰ"
 middle_chinese_final: "ɨɐm"

@@ -5,7 +5,7 @@ korean: 점
 korean_native: 점
 japanese:
   - TEN
-japanese_native: ""
+japanese_native: つ
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: em

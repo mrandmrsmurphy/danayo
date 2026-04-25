@@ -5,7 +5,7 @@ korean: "견"
 korean_native: "고치"
 japanese:
   - KEN
-japanese_native: ""
+japanese_native: まゆ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: en

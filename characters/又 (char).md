@@ -6,6 +6,7 @@ korean_native: "또"
 japanese:
   - YUU
 japanese_nanori: ""
+japanese_native: また
 vietnamese:
   - hựu
   - lại

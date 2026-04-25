@@ -6,7 +6,7 @@ korean_native: 푸를
 japanese:
   - SEI
   - SHOU
-japanese_native: ""
+japanese_native: あお
 vietnamese:
   - thanh
 middle_chinese_initial: t͡sʰ

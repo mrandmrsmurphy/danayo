@@ -7,7 +7,7 @@ japanese:
   - REI
   - RIN
   - RYOU
-japanese_native: ""
+japanese_native: すず
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "eŋ"

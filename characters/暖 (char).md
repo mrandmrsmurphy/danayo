@@ -7,7 +7,7 @@ japanese:
   - DAN
   - KEN
   - NON
-japanese_native: ""
+japanese_native: あたた
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: "uɑn"

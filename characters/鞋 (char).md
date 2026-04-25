@@ -6,7 +6,7 @@ korean_native: 신
 japanese:
   - AI
   - KAI
-japanese_native: ""
+japanese_native: わらじ
 vietnamese:
   - giày
   - hài

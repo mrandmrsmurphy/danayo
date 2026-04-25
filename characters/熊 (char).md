@@ -5,7 +5,7 @@ korean: "웅"
 korean_native: "곰"
 japanese:
   - YUU
-japanese_native: ""
+japanese_native: くま
 vietnamese:
 middle_chinese_initial: "ø"
 middle_chinese_final: "ɨuŋ"

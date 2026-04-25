@@ -6,6 +6,7 @@ korean_native: 물리칠
 japanese:
 - KYAKU
 japanese_nanori: ''
+japanese_native: かえ
 vietnamese:
   - khước
 middle_chinese_initial: kʰ

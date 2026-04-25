@@ -5,7 +5,7 @@ korean: "문"
 korean_native: "모기"
 japanese:
   - BUN
-japanese_native: ""
+japanese_native: か
 vietnamese:
 middle_chinese_initial: "ɱ"
 middle_chinese_final: "ɨun"

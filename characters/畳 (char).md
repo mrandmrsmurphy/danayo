@@ -6,7 +6,7 @@ korean_native: 거듭
 japanese:
   - JOU
   - CHOU
-japanese_native: ""
+japanese_native: たた
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: ep

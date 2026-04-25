@@ -5,7 +5,7 @@ korean: "반"
 korean_native: "밭두둑"
 japanese:
   - HAN
-japanese_native: ""
+japanese_native: あぜ
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "uɑn"

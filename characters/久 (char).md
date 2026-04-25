@@ -6,7 +6,7 @@ korean_native: "오랠"
 japanese:
   - KYUU
   - KU
-japanese_native: ""
+japanese_native: ひさ
 vietnamese:
   - cửu
 middle_chinese_initial: k

@@ -6,6 +6,7 @@ korean_native: "되"
 japanese:
   - SHOU
 japanese_nanori: ""
+japanese_native: ます
 vietnamese:
   - thăng
   - thưng

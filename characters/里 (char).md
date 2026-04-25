@@ -5,7 +5,7 @@ korean: 리
 korean_native: 마을
 japanese:
   - RI
-japanese_native: ""
+japanese_native: さと
 vietnamese:
   - lý
 middle_chinese_initial: l

@@ -6,7 +6,7 @@ korean_native: "달릴"
 japanese:
   - SOU
   - SHU
-japanese_native: ""
+japanese_native: はし
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "ǝu"

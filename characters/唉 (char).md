@@ -8,8 +8,17 @@ japanese:
   - KI
   - AI
   - I
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: ああ
 vietnamese:
+  - ai
+  - hãy
+  - hĩ
+  - hơi
+  - hẽ
+  - hễ
+  - hởi
+  - hỡi
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ʌi"
 stroke_count: 10

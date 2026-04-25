@@ -5,7 +5,7 @@ korean: "의"
 korean_native: "헤아릴"
 japanese:
   - GI
-japanese_native: ""
+japanese_native: まが
 vietnamese:
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨ"

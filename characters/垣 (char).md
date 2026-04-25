@@ -5,8 +5,9 @@ korean: "원"
 korean_native: "담"
 japanese:
   - EN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - viên
 middle_chinese_initial: "ø"
 middle_chinese_final: "ʉɐn"
 stroke_count: 9

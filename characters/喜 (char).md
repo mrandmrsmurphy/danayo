@@ -6,8 +6,13 @@ korean_native: "기쁠"
 japanese:
   - KI
   - SHI
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: よろこ
 vietnamese:
+  - hẻ
+  - hỉ
+  - hởi
+  - hỷ
 middle_chinese_initial: x
 middle_chinese_final: "ɨ"
 stroke_count: 12

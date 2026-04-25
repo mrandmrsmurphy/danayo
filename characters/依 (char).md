@@ -7,6 +7,7 @@ japanese:
   - I
   - E
 japanese_nanori: ""
+japanese_native: よ
 vietnamese:
   - e
   - y

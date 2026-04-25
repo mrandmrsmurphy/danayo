@@ -6,7 +6,7 @@ korean_native: 멍에
 japanese:
   - AKU
   - YAKU
-japanese_native: ""
+japanese_native: くびき
 vietnamese:
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣɛk

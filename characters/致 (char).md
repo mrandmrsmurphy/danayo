@@ -5,7 +5,7 @@ korean: 치
 korean_native: 보낼
 japanese:
   - CHI
-japanese_native: ""
+japanese_native: いた
 vietnamese:
 middle_chinese_initial: ʈ
 middle_chinese_final: ɣiɪ

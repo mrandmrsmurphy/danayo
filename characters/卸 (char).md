@@ -6,6 +6,7 @@ korean_native: "풀"
 japanese:
   - SHA
 japanese_nanori: ""
+japanese_native: おろ
 vietnamese:
   - dỡ
   - hằm

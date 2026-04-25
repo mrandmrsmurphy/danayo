@@ -6,7 +6,7 @@ korean_native: "붙을"
 japanese:
   - FU
   - HOU
-japanese_native: ""
+japanese_native: つ
 vietnamese:
 middle_chinese_initial: v
 middle_chinese_final: "ɨo"

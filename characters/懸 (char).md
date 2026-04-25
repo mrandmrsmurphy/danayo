@@ -6,7 +6,7 @@ korean_native: "달"
 japanese:
   - KEN
   - KE
-japanese_native: ""
+japanese_native: か
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: wen

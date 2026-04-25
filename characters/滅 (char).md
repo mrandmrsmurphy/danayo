@@ -6,7 +6,7 @@ korean_native: "다할"
 japanese:
   - METSU
   - BETSU
-japanese_native: ""
+japanese_native: ほろ
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "iᴇt"

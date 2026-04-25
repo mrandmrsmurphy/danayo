@@ -6,6 +6,7 @@ korean_native: "투구"
 japanese:
   - TOU
 japanese_nanori: ""
+japanese_native: かぶと
 vietnamese:
   - đâu
 middle_chinese_initial: d

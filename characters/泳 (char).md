@@ -5,7 +5,7 @@ korean: "영"
 korean_native: "헤엄칠"
 japanese:
   - EI
-japanese_native: ""
+japanese_native: およ
 vietnamese:
 middle_chinese_initial: "ø"
 middle_chinese_final: "wɣiæŋ"

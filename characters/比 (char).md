@@ -5,7 +5,7 @@ korean: "비"
 korean_native: "견줄"
 japanese:
   - HI
-japanese_native: ""
+japanese_native: くら
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "iɪ"

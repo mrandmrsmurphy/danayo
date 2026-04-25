@@ -5,7 +5,7 @@ korean: "본"
 korean_native: "근본"
 japanese:
   - HON
-japanese_native: ""
+japanese_native: もと
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: "uən"

@@ -6,7 +6,7 @@ korean_native: "키"
 japanese:
   - TA
   - DA
-japanese_native: ""
+japanese_native: かじ
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: a

@@ -8,6 +8,7 @@ japanese:
   - E
   - WA
 japanese_nanori: ""
+japanese_native: かい
 vietnamese:
   - oa
   - oà

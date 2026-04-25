@@ -5,7 +5,7 @@ korean: "재"
 korean_native: "있을"
 japanese:
   - ZAI
-japanese_native: ""
+japanese_native: あ
 vietnamese:
   - tại
 middle_chinese_initial: "d͡z"

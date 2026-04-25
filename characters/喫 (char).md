@@ -6,8 +6,15 @@ korean_native: "먹을"
 japanese:
   - KITSU
   - KEKI
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: の
 vietnamese:
+  - khiết
+  - khè
+  - khế
+  - khịa
+  - khịt
+  - ngật
 middle_chinese_initial: "kʰ"
 middle_chinese_final: ek
 stroke_count: 12

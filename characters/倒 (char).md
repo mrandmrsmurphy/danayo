@@ -6,6 +6,7 @@ korean_native: "넘어질"
 japanese:
   - TOU
 japanese_nanori: ""
+japanese_native: たお
 vietnamese:
   - đảo
 middle_chinese_initial: t

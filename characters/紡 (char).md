@@ -6,7 +6,7 @@ korean_native: 길쌈
 japanese:
   - BOU
   - HOU
-japanese_native: ""
+japanese_native: つむ
 vietnamese:
 middle_chinese_initial: fʰ
 middle_chinese_final: ʉɐŋ

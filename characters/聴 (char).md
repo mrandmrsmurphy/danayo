@@ -6,7 +6,7 @@ korean_native: 들을
 japanese:
   - CHOU
   - TEI
-japanese_native: ""
+japanese_native: き
 vietnamese:
 middle_chinese_initial: tʰ
 middle_chinese_final: eŋ

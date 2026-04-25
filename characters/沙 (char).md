@@ -6,7 +6,7 @@ korean_native: "모래"
 japanese:
   - SA
   - SHA
-japanese_native: ""
+japanese_native: すな
 vietnamese:
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣa"

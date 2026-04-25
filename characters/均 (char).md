@@ -6,8 +6,9 @@ korean_native: "고를"
 japanese:
   - KIN
   - IN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - quân
 middle_chinese_initial: k
 middle_chinese_final: "iuɪn"
 stroke_count: 7

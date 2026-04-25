@@ -6,7 +6,7 @@ korean_native: "아름다울"
 japanese:
   - BI
   - MI
-japanese_native: ""
+japanese_native: うつく
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣiɪ"

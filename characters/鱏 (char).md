@@ -7,7 +7,7 @@ japanese:
   - SHIN
   - JIN
   - IN
-japanese_native: ""
+japanese_native: かじき
 vietnamese:
 middle_chinese_initial: z
 middle_chinese_final: "iɪm"

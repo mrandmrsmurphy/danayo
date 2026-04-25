@@ -6,7 +6,7 @@ korean_native: "갈고리"
 japanese:
   - KOU
   - KU
-japanese_native: ""
+japanese_native: かぎ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "əu"

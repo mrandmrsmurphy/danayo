@@ -5,7 +5,7 @@ korean: "렵"
 korean_native: "갈기"
 japanese:
   - RYOU
-japanese_native: ""
+japanese_native: たてがみ
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "iᴇp"

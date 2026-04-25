@@ -5,7 +5,7 @@ korean: "사"
 korean_native: "같을"
 japanese:
   - JI
-japanese_native: ""
+japanese_native: に
 vietnamese:
   - tự, tợ, tựa, từa
 middle_chinese_initial: z

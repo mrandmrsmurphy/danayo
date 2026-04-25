@@ -6,7 +6,7 @@ korean_native: 기운
 japanese:
   - KI
   - KE
-japanese_native: ""
+japanese_native: いき
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨi

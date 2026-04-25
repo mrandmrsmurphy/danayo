@@ -6,7 +6,7 @@ korean_native: "죽"
 japanese:
   - SHUKU
   - IKU
-japanese_native: ""
+japanese_native: かゆ
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨuk"

@@ -6,7 +6,7 @@ korean_native: "말씀"
 japanese:
   - WA
   - KAI
-japanese_native: ""
+japanese_native: はな
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣuai"

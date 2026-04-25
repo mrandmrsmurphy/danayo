@@ -5,8 +5,11 @@ korean: "좌"
 korean_native: "앉을"
 japanese:
   - ZA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - ngồi
+  - toà
+  - toạ
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "uɑ"
 stroke_count: 7

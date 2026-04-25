@@ -6,7 +6,7 @@ korean_native: "밥"
 japanese:
   - SAN
   - SON
-japanese_native: ""
+japanese_native: の
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "ɑn"

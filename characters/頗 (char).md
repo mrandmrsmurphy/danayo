@@ -5,7 +5,7 @@ korean: "파"
 korean_native: "자못"
 japanese:
   - HA
-japanese_native: ""
+japanese_native: すこぶ
 vietnamese:
   - phả
 middle_chinese_initial: "pʰ"

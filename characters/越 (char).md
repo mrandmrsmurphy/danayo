@@ -7,7 +7,7 @@ japanese:
   - ETSU
   - OCHI
   - KATSU
-japanese_native: ""
+japanese_native: こ
 vietnamese:
 middle_chinese_initial: ø
 middle_chinese_final: ʉɐt

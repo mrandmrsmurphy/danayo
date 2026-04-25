@@ -6,7 +6,7 @@ korean_native: 꾸밀
 japanese:
   - SOU
   - SHOU
-japanese_native: ""
+japanese_native: よそお
 vietnamese:
 middle_chinese_initial: t͡ʃ
 middle_chinese_final: ɨɐŋ

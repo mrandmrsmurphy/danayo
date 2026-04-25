@@ -6,7 +6,7 @@ korean_native: "물러날"
 japanese:
   - TAI
   - TON
-japanese_native: ""
+japanese_native: しりぞ
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "uʌi"

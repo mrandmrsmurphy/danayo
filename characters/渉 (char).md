@@ -5,7 +5,7 @@ korean: "섭"
 korean_native: 건널
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: わた
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ep

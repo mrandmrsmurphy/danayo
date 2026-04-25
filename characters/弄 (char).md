@@ -5,7 +5,7 @@ korean: 롱
 korean_native: 희롱할
 japanese:
   - ROU
-japanese_native: ""
+japanese_native: いじく
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: uŋ

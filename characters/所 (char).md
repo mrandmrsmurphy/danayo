@@ -6,7 +6,7 @@ korean_native: "바"
 japanese:
   - SHO
   - SO
-japanese_native: ""
+japanese_native: ところ
 vietnamese:
   - sỡ
   - sở

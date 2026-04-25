@@ -5,7 +5,7 @@ korean: 답
 korean_native: 대답
 japanese:
   - TOU
-japanese_native: ""
+japanese_native: こた
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ʌp

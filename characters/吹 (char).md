@@ -6,6 +6,7 @@ korean_native: "불"
 japanese:
   - SUI
 japanese_nanori: ""
+japanese_native: ふ
 vietnamese:
   - xi
   - xoe

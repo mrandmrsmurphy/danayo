@@ -5,7 +5,7 @@ korean: "희"
 korean_native: "여자"
 japanese:
   - KI
-japanese_native: ""
+japanese_native: ひめ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɨ"

@@ -5,7 +5,7 @@ korean: "쇄"
 korean_native: 부술
 japanese:
   - SAI
-japanese_native: ""
+japanese_native: くだ
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: uʌi

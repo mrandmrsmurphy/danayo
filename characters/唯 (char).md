@@ -6,8 +6,23 @@ korean_native: 생각할
 japanese:
   - YUI
   - I
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: ただ
 vietnamese:
+  - duy
+  - duối
+  - duỗi
+  - dói
+  - dõi
+  - dúi
+  - dạ
+  - dọi
+  - gioè
+  - giói
+  - giúi
+  - giọi
+  - giỏi
+  - thui
 middle_chinese_initial: j
 middle_chinese_final: iuɪ
 stroke_count: 11

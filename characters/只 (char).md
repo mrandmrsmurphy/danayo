@@ -6,6 +6,7 @@ korean_native: 다만
 japanese:
   - SHI
 japanese_nanori: ""
+japanese_native: ただ
 vietnamese:
   - chích
   - chỉ

@@ -7,7 +7,7 @@ japanese:
   - SEI
   - SHOU
   - SHIN
-japanese_native: ""
+japanese_native: こ
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iᴇŋ"

@@ -6,7 +6,7 @@ korean_native: 한
 japanese:
   - ICHI
   - ITSU
-japanese_native: ""
+japanese_native: ひとつ
 vietnamese:
 middle_chinese_initial: ʔ
 middle_chinese_final: iɪt

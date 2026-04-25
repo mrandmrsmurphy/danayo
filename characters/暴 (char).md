@@ -6,7 +6,7 @@ korean_native: 사나울
 japanese:
   - BOU
   - BAKU
-japanese_native: ""
+japanese_native: あば
 vietnamese:
   - bộc
 middle_chinese_initial: b

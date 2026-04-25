@@ -6,7 +6,7 @@ korean_native: 살필
 japanese:
   - SEI
   - SHOU
-japanese_native: ""
+japanese_native: かえり
 vietnamese:
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣiæŋ

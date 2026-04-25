@@ -6,7 +6,7 @@ korean_native: "방패"
 japanese:
   - JUN
   - TON
-japanese_native: ""
+japanese_native: たて
 vietnamese:
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "iuɪn"

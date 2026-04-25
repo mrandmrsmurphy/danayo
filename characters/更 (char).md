@@ -5,7 +5,7 @@ korean: "갱"
 korean_native: 다시
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: さら
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɣæŋ

@@ -6,6 +6,7 @@ korean_native: "재촉할"
 japanese:
   - SAI
 japanese_nanori: ""
+japanese_native: もよう
 vietnamese:
   - thoi
   - thui

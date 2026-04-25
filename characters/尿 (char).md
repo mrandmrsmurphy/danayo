@@ -5,7 +5,7 @@ korean: "뇨"
 korean_native: "오줌"
 japanese:
   - NYOU
-japanese_native: ""
+japanese_native: ゆばり
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: eu

@@ -6,6 +6,7 @@ korean_native: 어두울
 japanese:
   - MEI
 japanese_nanori: ""
+japanese_native: くら
 vietnamese:
   - minh
   - mênh

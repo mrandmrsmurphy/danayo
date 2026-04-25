@@ -7,7 +7,7 @@ japanese:
   - BA
   - ME
   - MA
-japanese_native: ""
+japanese_native: うま
 vietnamese:
   - mã
 middle_chinese_initial: m

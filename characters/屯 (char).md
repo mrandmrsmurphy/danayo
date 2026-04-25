@@ -6,7 +6,7 @@ korean_native: 진칠
 japanese:
   - TON
   - CHUN
-japanese_native: ""
+japanese_native: たむろ
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: uən

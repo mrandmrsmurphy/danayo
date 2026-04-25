@@ -5,7 +5,7 @@ korean: "복"
 korean_native: "배"
 japanese:
   - FUKU
-japanese_native: ""
+japanese_native: はら
 vietnamese:
 middle_chinese_initial: f
 middle_chinese_final: "ɨuk"

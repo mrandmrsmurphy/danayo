@@ -6,7 +6,7 @@ korean_native: 날
 japanese:
   - NICHI
   - JITSU
-japanese_native: ""
+japanese_native: ひ
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: iɪt

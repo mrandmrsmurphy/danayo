@@ -5,7 +5,7 @@ korean: "림"
 korean_native: ""
 japanese:
   - RIN
-japanese_native: ""
+japanese_native: さび
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: iɪm

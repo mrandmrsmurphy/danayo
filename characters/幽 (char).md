@@ -5,7 +5,7 @@ korean: 유
 korean_native: 그윽할
 japanese:
   - YUU
-japanese_native: ""
+japanese_native: ふか
 vietnamese:
 middle_chinese_initial: ʔ
 middle_chinese_final: iɪu

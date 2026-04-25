@@ -5,7 +5,7 @@ korean: 유
 korean_native: 대답할
 japanese:
   - YU
-japanese_native: ""
+japanese_native: しかり
 vietnamese:
   - dũ
 middle_chinese_initial: j

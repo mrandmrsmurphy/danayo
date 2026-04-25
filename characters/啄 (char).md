@@ -5,8 +5,12 @@ korean: "탁"
 korean_native: "쫄"
 japanese:
   - TAKU
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: ついば
 vietnamese:
+  - chác
+  - trác
+  - trốc
 middle_chinese_initial: t
 middle_chinese_final: uk
 stroke_count: 10

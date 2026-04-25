@@ -6,6 +6,7 @@ korean_native: ""
 japanese:
   - GO
 japanese_nanori: ""
+japanese_native: いつつ
 vietnamese:
   - ngũ
 middle_chinese_initial: ŋ

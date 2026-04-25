@@ -5,7 +5,7 @@ korean: 선
 korean_native: 씻을
 japanese:
   - SEN
-japanese_native: ""
+japanese_native: あら
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: en

@@ -7,7 +7,7 @@ japanese:
   - KETSU
   - YOU
   - KECHI
-japanese_native: ""
+japanese_native: ぺえじ
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: et

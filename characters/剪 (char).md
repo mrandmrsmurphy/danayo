@@ -6,6 +6,7 @@ korean_native: "가위"
 japanese:
   - SEN
 japanese_nanori: ""
+japanese_native: き
 vietnamese:
   - tiễn
   - tiện

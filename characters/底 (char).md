@@ -5,7 +5,7 @@ korean: "저"
 korean_native: "밑"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: そこ
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ei

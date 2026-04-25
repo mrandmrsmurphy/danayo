@@ -6,7 +6,7 @@ korean_native: "같을"
 japanese:
   - JO
   - NYO
-japanese_native: ""
+japanese_native: ごと
 vietnamese:
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨʌ"

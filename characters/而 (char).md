@@ -6,7 +6,7 @@ korean_native: 말 이을
 japanese:
   - JI
   - NI
-japanese_native: ""
+japanese_native: しこ
 vietnamese:
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨ

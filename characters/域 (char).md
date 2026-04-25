@@ -5,8 +5,13 @@ korean: "역"
 korean_native: "지경"
 japanese:
   - IKI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bực
+  - vác
+  - vặc
+  - vức
+  - vực
 middle_chinese_initial: "ø"
 middle_chinese_final: "wɨk"
 stroke_count: 11

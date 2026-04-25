@@ -6,7 +6,7 @@ korean_native: "건널"
 japanese:
   - SAI
   - SEI
-japanese_native: ""
+japanese_native: す
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: ei

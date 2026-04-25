@@ -7,6 +7,7 @@ japanese:
   - GI
   - KA
 japanese_nanori: ""
+japanese_native: いつわ
 vietnamese:
   - nguỵ
 middle_chinese_initial: ŋ

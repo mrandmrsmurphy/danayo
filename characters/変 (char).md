@@ -5,7 +5,7 @@ korean: "변"
 korean_native: 변할
 japanese:
   - HEN
-japanese_native: ""
+japanese_native: か
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ɣiᴇn

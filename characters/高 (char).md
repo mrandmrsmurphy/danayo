@@ -5,7 +5,7 @@ korean: "고"
 korean_native: "높을"
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: たか
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɑu"

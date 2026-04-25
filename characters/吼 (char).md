@@ -7,6 +7,7 @@ japanese:
   - KOU
   - KU
 japanese_nanori: ""
+japanese_native: ほ
 vietnamese:
   - hống
   - hổng

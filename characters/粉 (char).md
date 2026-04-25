@@ -5,7 +5,7 @@ korean: "분"
 korean_native: "가루"
 japanese:
   - FUN
-japanese_native: ""
+japanese_native: デシメートル
 vietnamese:
 middle_chinese_initial: f
 middle_chinese_final: "ɨun"

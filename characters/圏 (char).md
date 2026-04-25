@@ -5,7 +5,7 @@ korean: "권"
 korean_native: 우리
 japanese:
   - KEN
-japanese_native: ""
+japanese_native: かこ
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: ɣiuᴇn

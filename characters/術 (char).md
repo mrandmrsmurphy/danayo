@@ -5,7 +5,7 @@ korean: "술"
 korean_native: "재주"
 japanese:
   - JUTSU
-japanese_native: ""
+japanese_native: すべ
 vietnamese:
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "iuɪt"

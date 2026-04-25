@@ -5,7 +5,7 @@ korean: "급"
 korean_native: "미칠"
 japanese:
   - SOU
-japanese_native: ""
+japanese_native: あつか
 vietnamese:
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɣɛp"

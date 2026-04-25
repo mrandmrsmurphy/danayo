@@ -6,7 +6,7 @@ korean_native: "가릴"
 japanese:
   - KAN
   - KEN
-japanese_native: ""
+japanese_native: えら
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɣɛn"

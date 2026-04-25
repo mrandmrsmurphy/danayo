@@ -5,7 +5,7 @@ korean: "자"
 korean_native: "놈"
 japanese:
   - SHA
-japanese_native: ""
+japanese_native: もの
 vietnamese:
   - giả
 middle_chinese_initial: "t͡ɕ"

@@ -5,7 +5,7 @@ korean: "훈"
 korean_native: 향풀
 japanese:
   - KUN
-japanese_native: ""
+japanese_native: かお
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: ɨun

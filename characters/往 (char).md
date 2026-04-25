@@ -5,7 +5,7 @@ korean: "왕"
 korean_native: "갈"
 japanese:
   - OU
-japanese_native: ""
+japanese_native: い
 vietnamese:
 middle_chinese_initial: "ø"
 middle_chinese_final: "ʉɐŋ"

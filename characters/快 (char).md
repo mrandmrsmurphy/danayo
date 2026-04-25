@@ -5,7 +5,7 @@ korean: "쾌"
 korean_native: "쾌할"
 japanese:
   - KAI
-japanese_native: ""
+japanese_native: こころよ
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣuai"

@@ -5,7 +5,7 @@ korean: 수
 korean_native: 빼어날
 japanese:
   - SHUU
-japanese_native: ""
+japanese_native: ひい
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: ɨu

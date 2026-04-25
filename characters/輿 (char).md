@@ -5,7 +5,7 @@ korean: "여"
 korean_native: "수레"
 japanese:
   - YO
-japanese_native: ""
+japanese_native: かご
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: "ɨʌ"

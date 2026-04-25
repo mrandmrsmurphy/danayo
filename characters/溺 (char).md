@@ -7,7 +7,7 @@ japanese:
   - DEKI
   - JOU
   - NYOU
-japanese_native: ""
+japanese_native: いばり
 vietnamese:
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨɐk"

@@ -6,7 +6,7 @@ korean_native: "약할"
 japanese:
   - JAKU
   - NYAKU
-japanese_native: ""
+japanese_native: よわ
 vietnamese:
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨɐk"

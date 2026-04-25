@@ -5,7 +5,7 @@ korean: "사"
 korean_native: "버릴"
 japanese:
   - SHA
-japanese_native: ""
+japanese_native: す
 vietnamese:
 middle_chinese_initial: "ɕ"
 middle_chinese_final: ia

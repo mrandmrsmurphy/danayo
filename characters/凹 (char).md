@@ -6,6 +6,7 @@ korean_native: "오목할"
 japanese:
   - OU
 japanese_nanori: ""
+japanese_native: くぼ
 vietnamese:
   - ao
 middle_chinese_initial: "ʔ"

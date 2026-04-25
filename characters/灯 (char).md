@@ -7,7 +7,7 @@ japanese:
   - TOU
   - TEI
   - CHOU
-japanese_native: ""
+japanese_native: ひ
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: "ǝŋ"

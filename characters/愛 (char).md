@@ -5,7 +5,7 @@ korean: 애
 korean_native: 사랑
 japanese:
   - AI
-japanese_native: ""
+japanese_native: いと
 vietnamese:
   - ái
   - áy

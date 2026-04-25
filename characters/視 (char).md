@@ -5,7 +5,7 @@ korean: "시"
 korean_native: "볼"
 japanese:
   - SHI
-japanese_native: ""
+japanese_native: み
 vietnamese:
   - thị
 middle_chinese_initial: "d͡ʑ"

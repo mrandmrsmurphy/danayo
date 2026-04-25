@@ -5,7 +5,7 @@ korean: "미"
 korean_native: "꼬리"
 japanese:
   - BI
-japanese_native: ""
+japanese_native: お
 vietnamese:
 middle_chinese_initial: "ɱ"
 middle_chinese_final: "ʉi"

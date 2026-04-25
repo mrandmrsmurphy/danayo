@@ -5,7 +5,7 @@ korean: "완"
 korean_native: "사발"
 japanese:
   - WAN
-japanese_native: ""
+japanese_native: こばち
 vietnamese:
 middle_chinese_initial: "ø"
 middle_chinese_final: "uɑn"

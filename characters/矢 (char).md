@@ -5,7 +5,7 @@ korean: "시"
 korean_native: "화살"
 japanese:
   - SHI
-japanese_native: ""
+japanese_native: や
 vietnamese:
   - thỉ
 middle_chinese_initial: "ɕ"

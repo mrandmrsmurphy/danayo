@@ -5,7 +5,7 @@ korean: "리"
 korean_native: "삵"
 japanese:
   - RI
-japanese_native: ""
+japanese_native: たぬき
 vietnamese:
   - li
 middle_chinese_initial: l

@@ -5,7 +5,7 @@ korean: 루
 korean_native: 샐
 japanese:
   - ROU
-japanese_native: ""
+japanese_native: も
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: əu

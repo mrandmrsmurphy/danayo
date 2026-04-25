@@ -8,6 +8,7 @@ japanese:
   - SHA
   - SEKI
 japanese_nanori: ""
+japanese_native: か
 vietnamese:
   - tá
 middle_chinese_initial: "t͡s"

@@ -5,7 +5,7 @@ korean: "귤"
 korean_native: "귤나무"
 japanese:
   - KITSU
-japanese_native: ""
+japanese_native: たちばな
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "iuɪt"

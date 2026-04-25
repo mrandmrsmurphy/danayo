@@ -5,7 +5,7 @@ korean: "요"
 korean_native: ""
 japanese:
   - YOU
-japanese_native: ""
+japanese_native: かま
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: iᴇu

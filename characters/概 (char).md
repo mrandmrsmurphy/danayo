@@ -6,7 +6,7 @@ korean_native: "대개"
 japanese:
   - GAI
   - KAI
-japanese_native: ""
+japanese_native: おおむ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ʌi

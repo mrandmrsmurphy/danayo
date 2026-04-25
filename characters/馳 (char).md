@@ -6,7 +6,7 @@ korean_native: "달릴"
 japanese:
   - CHI
   - JI
-japanese_native: ""
+japanese_native: は
 vietnamese:
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣiᴇ"

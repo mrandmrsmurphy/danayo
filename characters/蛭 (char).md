@@ -6,7 +6,7 @@ korean_native: "거머리"
 japanese:
   - SHITSU
   - CHITSU
-japanese_native: ""
+japanese_native: ひる
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪt"

@@ -5,7 +5,7 @@ korean: 편
 korean_native: 조각
 japanese:
   - HEN
-japanese_native: ""
+japanese_native: かた
 vietnamese:
 middle_chinese_initial: pʰ
 middle_chinese_final: en

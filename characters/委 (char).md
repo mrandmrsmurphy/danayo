@@ -5,7 +5,7 @@ korean: "위"
 korean_native: "맡길"
 japanese:
   - I
-japanese_native: ""
+japanese_native: ゆだ
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣiuᴇ"

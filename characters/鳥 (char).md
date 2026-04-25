@@ -5,7 +5,7 @@ korean: "조"
 korean_native: "새"
 japanese:
   - CHOU
-japanese_native: ""
+japanese_native: とり
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: eu

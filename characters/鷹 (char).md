@@ -6,7 +6,7 @@ korean_native: "매"
 japanese:
   - YOU
   - OU
-japanese_native: ""
+japanese_native: たか
 vietnamese:
   - ưng
 middle_chinese_initial: "ʔ"

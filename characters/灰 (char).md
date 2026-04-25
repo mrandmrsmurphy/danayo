@@ -5,7 +5,7 @@ korean: "회"
 korean_native: "재"
 japanese:
   - KAI
-japanese_native: ""
+japanese_native: はい
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: "uʌi"

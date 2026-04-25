@@ -7,6 +7,7 @@ japanese:
   - BOU
   - HOU
 japanese_nanori: ""
+japanese_native: かたわ
 vietnamese:
   - bàng
   - phàng

@@ -6,6 +6,7 @@ korean_native: 각각
 japanese:
   - KAKU
 japanese_nanori: ""
+japanese_native: おのおの
 vietnamese:
   - các
   - cắc

@@ -6,7 +6,7 @@ korean_native: "항목"
 japanese:
   - KOU
   - GOU
-japanese_native: ""
+japanese_native: うなじ
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣʌŋ"

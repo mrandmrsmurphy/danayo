@@ -7,7 +7,7 @@ japanese:
   - DATSU
   - TAI
   - ETSU
-japanese_native: ""
+japanese_native: ぬ
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: uɑt

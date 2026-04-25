@@ -5,7 +5,7 @@ korean: "취"
 korean_native: ""
 japanese:
   - SUI
-japanese_native: ""
+japanese_native: た
 vietnamese:
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iuᴇ

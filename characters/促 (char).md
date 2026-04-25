@@ -6,6 +6,7 @@ korean_native: "재촉할"
 japanese:
   - SOKU
 japanese_nanori: ""
+japanese_native: うなが
 vietnamese:
   - thúc
   - xóc

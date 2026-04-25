@@ -5,7 +5,7 @@ korean: "부"
 korean_native: "며느리"
 japanese:
   - FU
-japanese_native: ""
+japanese_native: よめ
 vietnamese:
 middle_chinese_initial: v
 middle_chinese_final: "ɨu"

@@ -6,8 +6,9 @@ korean_native: "들"
 japanese:
   - HEI
   - HYOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bình
 middle_chinese_initial: b
 middle_chinese_final: "ɣiæŋ"
 stroke_count: 8

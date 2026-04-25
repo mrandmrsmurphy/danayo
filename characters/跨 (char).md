@@ -6,7 +6,7 @@ korean_native: "넘을"
 japanese:
   - KO
   - KA
-japanese_native: ""
+japanese_native: また
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣua"

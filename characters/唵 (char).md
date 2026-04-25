@@ -6,8 +6,11 @@ korean_native: "머금을"
 japanese:
   - AN
   - ON
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: ふく
 vietnamese:
+  - úm
+  - ướm
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ʌm"
 stroke_count: 11

@@ -5,7 +5,7 @@ korean: "양"
 korean_native: "볕"
 japanese:
   - YOU
-japanese_native: ""
+japanese_native: ひ
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: "ɨɐŋ"

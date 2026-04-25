@@ -5,7 +5,7 @@ korean: 부
 korean_native: 뜰
 japanese:
   - FU
-japanese_native: ""
+japanese_native: う
 vietnamese:
 middle_chinese_initial: v
 middle_chinese_final: ɨu

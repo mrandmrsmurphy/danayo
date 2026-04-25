@@ -5,7 +5,7 @@ korean: "몽"
 korean_native: "꿈"
 japanese:
   - MU
-japanese_native: ""
+japanese_native: ゆめ
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɨuŋ"

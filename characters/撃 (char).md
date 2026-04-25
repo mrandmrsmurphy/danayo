@@ -6,7 +6,7 @@ korean_native: 부딪칠
 japanese:
   - GEKI
   - KEKI
-japanese_native: ""
+japanese_native: う
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ek

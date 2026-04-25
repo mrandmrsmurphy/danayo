@@ -6,7 +6,7 @@ korean_native: "바를"
 japanese:
   - SEI
   - SHOU
-japanese_native: ""
+japanese_native: ただ
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iᴇŋ"

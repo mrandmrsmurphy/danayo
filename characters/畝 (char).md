@@ -6,7 +6,7 @@ korean_native: "이랑"
 japanese:
   - HO
   - BOU
-japanese_native: ""
+japanese_native: せ
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "əu"

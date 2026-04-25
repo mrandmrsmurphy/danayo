@@ -7,7 +7,7 @@ japanese:
   - TAI
   - DAI
   - TA
-japanese_native: ""
+japanese_native: おお
 vietnamese:
   - đại
 middle_chinese_initial: d

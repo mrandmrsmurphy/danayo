@@ -5,7 +5,7 @@ korean: 검
 korean_native: 칼
 japanese:
   - KEN
-japanese_native: ""
+japanese_native: つるぎ
 vietnamese:
   - kiếm
 middle_chinese_initial: k

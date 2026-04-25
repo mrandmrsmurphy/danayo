@@ -6,7 +6,7 @@ korean_native: "볶을"
 japanese:
   - SOU
   - SHOU
-japanese_native: ""
+japanese_native: い
 vietnamese:
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɑu"

@@ -6,6 +6,7 @@ korean_native: "점령할"
 japanese:
   - SEN
 japanese_nanori: ""
+japanese_native: し
 vietnamese:
   - chem
   - chiêm

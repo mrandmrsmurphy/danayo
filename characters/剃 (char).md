@@ -6,6 +6,7 @@ korean_native: "눈물"
 japanese:
   - TEI
 japanese_nanori: ""
+japanese_native: まい
 vietnamese:
   - thí
   - thế

@@ -6,7 +6,7 @@ korean_native: "경사"
 japanese:
   - KEI
   - KYOU
-japanese_native: ""
+japanese_native: よろこ
 vietnamese:
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣiæŋ"

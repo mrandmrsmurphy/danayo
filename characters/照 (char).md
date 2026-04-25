@@ -5,7 +5,7 @@ korean: "조"
 korean_native: "비칠"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: て
 vietnamese:
   - chiếu
 middle_chinese_initial: "t͡ɕ"

@@ -5,7 +5,7 @@ korean: "안"
 korean_native: ""
 japanese:
   - GAN
-japanese_native: ""
+japanese_native: にせ
 vietnamese:
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣan

@@ -5,7 +5,7 @@ korean: "절"
 korean_native: "끊을"
 japanese:
   - ZETSU
-japanese_native: ""
+japanese_native: た
 vietnamese:
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "iuᴇt"

@@ -6,7 +6,7 @@ korean_native: "장막"
 japanese:
   - MAKU
   - BAKU
-japanese_native: ""
+japanese_native: とばり
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɑk"

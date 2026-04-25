@@ -6,7 +6,7 @@ korean_native: 붙을
 japanese:
   - CHAKU
   - JAKU
-japanese_native: ""
+japanese_native: き
 vietnamese:
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨɐk

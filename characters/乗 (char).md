@@ -6,7 +6,7 @@ korean_native: 탈
 japanese:
   - JOU
   - SHOU
-japanese_native: ""
+japanese_native: の
 vietnamese:
   - thừa
   - thặng

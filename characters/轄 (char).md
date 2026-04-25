@@ -5,7 +5,7 @@ korean: "할"
 korean_native: "다스릴"
 japanese:
   - KATSU
-japanese_native: ""
+japanese_native: くさび
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣat"

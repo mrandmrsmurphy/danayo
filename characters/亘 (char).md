@@ -8,6 +8,7 @@ japanese:
   - KAN
   - KOU
 japanese_nanori: ""
+japanese_native: わた
 vietnamese:
   - cắng
   - cẳng

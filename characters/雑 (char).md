@@ -6,7 +6,7 @@ korean_native: 섞일
 japanese:
   - ZATSU
   - ZOU
-japanese_native: ""
+japanese_native: まじ
 vietnamese:
 middle_chinese_initial: d͡z
 middle_chinese_final: ʌp

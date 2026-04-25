@@ -7,7 +7,7 @@ japanese:
 - SEI
 - SEN
 - SHA
-japanese_native: ''
+japanese_native: すす
 vietnamese: null
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣɛ

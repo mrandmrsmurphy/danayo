@@ -7,6 +7,7 @@ japanese:
   - SAKU
   - SHOU
 japanese_nanori: ""
+japanese_native: けず
 vietnamese:
   - tước
   - tướt

@@ -6,7 +6,7 @@ korean_native: "그루"
 japanese:
   - CHU
   - SHU
-japanese_native: ""
+japanese_native: かぶ
 vietnamese:
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɨo"

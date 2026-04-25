@@ -7,7 +7,7 @@ japanese:
   - KAN
   - KEN
   - WAN
-japanese_native: ""
+japanese_native: せき
 vietnamese:
   - quan
 middle_chinese_initial: k

@@ -5,7 +5,7 @@ korean: 송
 korean_native: 소나무
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: まつ
 vietnamese:
 middle_chinese_initial: z
 middle_chinese_final: ɨoŋ

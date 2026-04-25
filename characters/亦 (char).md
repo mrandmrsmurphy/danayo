@@ -7,6 +7,7 @@ japanese:
   - EKI
   - YAKU
 japanese_nanori: ""
+japanese_native: また
 vietnamese:
   - diệc
 middle_chinese_initial: j

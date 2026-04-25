@@ -7,7 +7,7 @@ japanese:
   - HETSU
   - HECHI
   - HEI
-japanese_native: ""
+japanese_native: ぬぐ
 vietnamese:
 middle_chinese_initial: pʰ
 middle_chinese_final: iᴇt

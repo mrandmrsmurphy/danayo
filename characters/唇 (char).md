@@ -6,6 +6,7 @@ korean_native: 입술
 japanese:
   - SHIN
 japanese_nanori: ""
+japanese_native: くちびる
 vietnamese:
   - thần
 middle_chinese_initial: ɕ

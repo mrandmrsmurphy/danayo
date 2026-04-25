@@ -5,7 +5,7 @@ korean: "독"
 korean_native: "대머리"
 japanese:
   - TOKU
-japanese_native: ""
+japanese_native: ちび
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: uk

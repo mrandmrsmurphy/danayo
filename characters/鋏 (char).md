@@ -5,7 +5,7 @@ korean: "협"
 korean_native: "집게"
 japanese:
   - KYOU
-japanese_native: ""
+japanese_native: はさみ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ep

@@ -5,7 +5,7 @@ korean: "수"
 korean_native: "녹슬"
 japanese:
   - SHUU
-japanese_native: ""
+japanese_native: さび
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: "ɨu"

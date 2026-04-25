@@ -5,8 +5,9 @@ korean: "옹"
 korean_native: "막을"
 japanese:
   - YOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - ung
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɨoŋ"
 stroke_count: 16

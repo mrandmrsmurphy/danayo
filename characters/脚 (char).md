@@ -6,7 +6,7 @@ korean_native: 다리
 japanese:
   - KYAKU
   - KYA
-japanese_native: ""
+japanese_native: あし
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɨɐk

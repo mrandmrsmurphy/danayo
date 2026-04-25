@@ -5,7 +5,7 @@ korean: "체"
 korean_native: "맺을"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: し
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: ei

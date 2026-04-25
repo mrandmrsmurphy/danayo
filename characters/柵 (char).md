@@ -6,7 +6,7 @@ korean_native: "울타리"
 japanese:
   - SAKU
   - SAN
-japanese_native: ""
+japanese_native: しがら
 vietnamese:
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɣɛk"

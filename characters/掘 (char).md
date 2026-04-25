@@ -6,7 +6,7 @@ korean_native: "팔"
 japanese:
   - KUTSU
   - KOTSU
-japanese_native: ""
+japanese_native: ほ
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: "ɨut"

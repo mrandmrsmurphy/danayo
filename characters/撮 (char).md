@@ -6,7 +6,7 @@ korean_native: "모을"
 japanese:
   - SATSU
   - SAI
-japanese_native: ""
+japanese_native: と
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "uɑt"

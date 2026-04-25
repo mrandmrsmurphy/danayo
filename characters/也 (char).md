@@ -5,7 +5,7 @@ korean: 야
 korean_native: 잇기
 japanese:
   - YA
-japanese_native: ""
+japanese_native: なり
 vietnamese:
   - dã
   - dạ

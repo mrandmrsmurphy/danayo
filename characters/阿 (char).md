@@ -5,7 +5,7 @@ korean: "아"
 korean_native: "언덕"
 japanese:
   - A
-japanese_native: ""
+japanese_native: おもね
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɑ"

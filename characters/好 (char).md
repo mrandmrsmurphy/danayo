@@ -5,7 +5,7 @@ korean: "호"
 korean_native: "좋을"
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: この
 vietnamese:
   - hiếu
   - hảo

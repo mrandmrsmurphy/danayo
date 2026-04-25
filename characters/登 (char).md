@@ -6,7 +6,7 @@ korean_native: "오를"
 japanese:
   - TOU
   - TO
-japanese_native: ""
+japanese_native: のぼ
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: "ǝŋ"

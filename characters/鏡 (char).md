@@ -6,7 +6,7 @@ korean_native: "거울"
 japanese:
   - KYOU
   - KEI
-japanese_native: ""
+japanese_native: かがみ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɣiæŋ

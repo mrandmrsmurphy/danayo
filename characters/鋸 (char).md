@@ -6,7 +6,7 @@ korean_native: "톱"
 japanese:
   - KYO
   - KO
-japanese_native: ""
+japanese_native: のこ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɨʌ"

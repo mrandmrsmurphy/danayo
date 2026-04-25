@@ -7,6 +7,7 @@ japanese:
   - I
   - KI
 japanese_nanori: ""
+japanese_native: よ
 vietnamese:
   - ấy
   - ỉa

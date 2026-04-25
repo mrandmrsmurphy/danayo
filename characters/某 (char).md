@@ -6,7 +6,7 @@ korean_native: "아무"
 japanese:
   - BOU
   - BAI
-japanese_native: ""
+japanese_native: それがし
 vietnamese:
   - mỗ
 middle_chinese_initial: m

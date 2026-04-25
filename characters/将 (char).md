@@ -6,7 +6,7 @@ korean_native: "장수"
 japanese:
   - SHOU
   - SOU
-japanese_native: ""
+japanese_native: まさ
 vietnamese:
   - tướng
   - tương

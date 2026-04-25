@@ -5,7 +5,7 @@ korean: "력"
 korean_native: 책력
 japanese:
   - REKI
-japanese_native: ""
+japanese_native: こよみ
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: ek

@@ -6,7 +6,7 @@ korean_native: "만날"
 japanese:
   - GUU
   - KU
-japanese_native: ""
+japanese_native: あ
 vietnamese:
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨo"

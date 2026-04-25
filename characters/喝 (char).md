@@ -6,8 +6,16 @@ korean_native: "꾸짖을"
 japanese:
   - KATSU
   - AI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hát
+  - hét
+  - hít
+  - hết
+  - kệ
+  - ái
+  - ạc
+  - ặc
 middle_chinese_initial: x
 middle_chinese_final: "ɑt"
 stroke_count: 11

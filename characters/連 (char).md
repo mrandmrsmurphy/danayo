@@ -5,7 +5,7 @@ korean: "련"
 korean_native: 잇닿을
 japanese:
   - REN
-japanese_native: ""
+japanese_native: つら
 vietnamese:
   - liên
 middle_chinese_initial: l

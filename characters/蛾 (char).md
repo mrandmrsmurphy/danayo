@@ -6,7 +6,7 @@ korean_native: "나방"
 japanese:
   - GA
   - GI
-japanese_native: ""
+japanese_native: ひむし
 vietnamese:
   - ngài
 middle_chinese_initial: "ŋ"

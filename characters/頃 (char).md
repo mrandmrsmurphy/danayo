@@ -7,7 +7,7 @@ japanese:
   - KEI
   - KYOU
   - KI
-japanese_native: ""
+japanese_native: ころ
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: wiᴇŋ

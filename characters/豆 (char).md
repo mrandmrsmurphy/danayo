@@ -6,7 +6,7 @@ korean_native: "콩"
 japanese:
   - TOU
   - ZU
-japanese_native: ""
+japanese_native: まめ
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: "əu"

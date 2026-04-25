@@ -5,7 +5,7 @@ korean: "부"
 korean_native: "아닐"
 japanese:
   - HI
-japanese_native: ""
+japanese_native: いな
 vietnamese:
   - phầu
 middle_chinese_initial: f

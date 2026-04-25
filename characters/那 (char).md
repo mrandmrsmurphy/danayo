@@ -6,7 +6,7 @@ korean_native: "어찌"
 japanese:
   - DA
   - NA
-japanese_native: ""
+japanese_native: なに
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: "ɑ"

@@ -6,7 +6,7 @@ korean_native: 진압할
 japanese:
   - CHIN
   - TEN
-japanese_native: ""
+japanese_native: しず
 vietnamese:
 middle_chinese_initial: ʈ
 middle_chinese_final: ɣiɪn

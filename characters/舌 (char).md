@@ -6,7 +6,7 @@ korean_native: "혀"
 japanese:
   - ZETSU
   - SETSU
-japanese_native: ""
+japanese_native: した
 vietnamese:
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "iᴇt"

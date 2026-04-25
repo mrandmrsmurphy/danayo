@@ -6,7 +6,7 @@ korean_native: "두"
 japanese:
   - NI
   - JI
-japanese_native: ""
+japanese_native: ふた
 vietnamese:
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iɪ"

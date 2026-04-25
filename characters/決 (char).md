@@ -5,7 +5,7 @@ korean: "결"
 korean_native: "결단할"
 japanese:
   - KETSU
-japanese_native: ""
+japanese_native: き
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: wet

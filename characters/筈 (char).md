@@ -5,7 +5,7 @@ korean: "괄"
 korean_native: "오늬"
 japanese:
   - KATSU
-japanese_native: ""
+japanese_native: はず
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "uɑt"

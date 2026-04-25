@@ -5,7 +5,7 @@ korean: "상"
 korean_native: "평상"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: とこ
 vietnamese:
 middle_chinese_initial: "d͡ʒ"
 middle_chinese_final: "ɨɐŋ"

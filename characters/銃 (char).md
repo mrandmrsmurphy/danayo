@@ -6,7 +6,7 @@ korean_native: "총"
 japanese:
   - JUU
   - SHUU
-japanese_native: ""
+japanese_native: つつ
 vietnamese:
 middle_chinese_initial: "t͡ɕʰ"
 middle_chinese_final: "ɨuŋ"

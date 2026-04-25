@@ -5,7 +5,7 @@ korean: "회"
 korean_native: 품을
 japanese:
   - KAI
-japanese_native: ""
+japanese_native: ふところ
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣuɛi

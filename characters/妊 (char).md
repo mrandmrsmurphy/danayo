@@ -6,7 +6,7 @@ korean_native: "임신할"
 japanese:
   - NIN
   - JIN
-japanese_native: ""
+japanese_native: はら
 vietnamese:
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iɪm"

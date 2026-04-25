@@ -5,7 +5,7 @@ korean: "인"
 korean_native: "끌"
 japanese:
   - IN
-japanese_native: ""
+japanese_native: ひ
 vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: "iɪn"

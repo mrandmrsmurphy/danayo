@@ -5,7 +5,7 @@ korean: "급"
 korean_native: "길을"
 japanese:
   - KYUU
-japanese_native: ""
+japanese_native: く
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɣiɪp"

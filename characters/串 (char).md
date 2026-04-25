@@ -6,7 +6,7 @@ korean_native: 곶
 japanese:
   - SEN
   - KAN
-japanese_native: ""
+japanese_native: くし
 vietnamese:
   - quán
   - xiên

@@ -5,7 +5,7 @@ korean: "수"
 korean_native: "비록"
 japanese:
   - SUI
-japanese_native: ""
+japanese_native: いえど
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: "iuɪ"

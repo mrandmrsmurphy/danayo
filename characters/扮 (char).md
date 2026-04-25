@@ -7,7 +7,7 @@ japanese:
   - FUN
   - HAN
   - HEN
-japanese_native: ""
+japanese_native: ふん
 vietnamese:
   - phẫn
 middle_chinese_initial: p

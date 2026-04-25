@@ -5,7 +5,7 @@ korean: "산"
 korean_native: "실"
 japanese:
   - SAN
-japanese_native: ""
+japanese_native: す
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: "uɑn"

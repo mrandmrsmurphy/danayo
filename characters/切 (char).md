@@ -7,6 +7,7 @@ japanese:
   - SETSU
   - SAI
 japanese_nanori: ""
+japanese_native: き
 vietnamese:
   - siết
   - thiếc

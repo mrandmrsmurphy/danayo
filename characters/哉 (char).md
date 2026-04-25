@@ -6,6 +6,7 @@ korean_native: "비롯할"
 japanese:
   - SAI
 japanese_nanori: ""
+japanese_native: かな
 vietnamese:
   - tai
   - tơi

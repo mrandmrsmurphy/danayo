@@ -7,8 +7,9 @@ japanese:
   - TEN
   - TEU
   - DEU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - điếm
 middle_chinese_initial: d
 middle_chinese_final: ep
 stroke_count: 14

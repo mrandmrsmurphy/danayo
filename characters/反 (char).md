@@ -8,6 +8,7 @@ japanese:
   - TAN
   - HON
 japanese_nanori: ""
+japanese_native: そ
 vietnamese:
   - phản
 middle_chinese_initial: "fʰ"

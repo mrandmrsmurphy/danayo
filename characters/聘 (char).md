@@ -5,7 +5,7 @@ korean: "빙"
 korean_native: "부를"
 japanese:
   - HEI
-japanese_native: ""
+japanese_native: へい
 vietnamese:
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iᴇŋ"

@@ -6,7 +6,7 @@ korean_native: 높이들
 japanese:
   - KEI
   - KETSU
-japanese_native: ""
+japanese_native: かか
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: ɣiᴇt

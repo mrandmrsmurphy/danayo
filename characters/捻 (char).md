@@ -6,7 +6,7 @@ korean_native: "비틀"
 japanese:
   - NEN
   - JOU
-japanese_native: ""
+japanese_native: ね
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: ep

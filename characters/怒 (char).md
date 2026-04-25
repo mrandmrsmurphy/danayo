@@ -6,7 +6,7 @@ korean_native: "성낼"
 japanese:
   - DO
   - NU
-japanese_native: ""
+japanese_native: いか
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: uo

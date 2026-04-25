@@ -7,7 +7,7 @@ japanese:
   - GOKU
   - KYOKU
   - GOKI
-japanese_native: ""
+japanese_native: きわ
 vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: "ɨk"

@@ -5,8 +5,9 @@ korean: "총"
 korean_native: "무덤"
 japanese:
   - CHOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - trủng
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɨoŋ"
 stroke_count: 12

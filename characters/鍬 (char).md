@@ -6,7 +6,7 @@ korean_native: "가래"
 japanese:
   - SHUU
   - SHOU
-japanese_native: ""
+japanese_native: くわ
 vietnamese:
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "ɣau"

@@ -6,7 +6,7 @@ korean_native: 빌
 japanese:
   - KOTSU
   - KI
-japanese_native: ""
+japanese_native: こ
 vietnamese:
   - gật
   - khất

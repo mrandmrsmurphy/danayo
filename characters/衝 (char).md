@@ -5,7 +5,7 @@ korean: "충"
 korean_native: "찌를"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: つ
 vietnamese:
 middle_chinese_initial: "t͡ɕʰ"
 middle_chinese_final: "ɨoŋ"

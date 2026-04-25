@@ -5,7 +5,7 @@ korean: "왈"
 korean_native: "가로"
 japanese:
   - ETSU
-japanese_native: ""
+japanese_native: いわ
 vietnamese:
 middle_chinese_initial: "ø"
 middle_chinese_final: "ʉɐt"

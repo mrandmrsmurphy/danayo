@@ -5,7 +5,7 @@ korean: "패"
 korean_native: "패"
 japanese:
   - HAI
-japanese_native: ""
+japanese_native: ぱい
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: "ɣɛ"

@@ -6,7 +6,7 @@ korean_native: "마디"
 japanese:
   - SETSU
   - SECHI
-japanese_native: ""
+japanese_native: ふし
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: et

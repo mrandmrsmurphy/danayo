@@ -6,7 +6,7 @@ korean_native: "무너질"
 japanese:
   - KAI
   - E
-japanese_native: ""
+japanese_native: つぶ
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uʌi"

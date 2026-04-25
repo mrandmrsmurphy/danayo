@@ -5,7 +5,7 @@ korean: "오"
 korean_native: "더러울"
 japanese:
   - O
-japanese_native: ""
+japanese_native: けが
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: uo

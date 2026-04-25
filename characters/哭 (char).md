@@ -6,6 +6,7 @@ korean_native: "울"
 japanese:
   - KOKU
 japanese_nanori: ""
+japanese_native: なげ
 vietnamese:
   - khóc
   - khốc

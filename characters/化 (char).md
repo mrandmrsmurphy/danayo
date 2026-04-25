@@ -7,6 +7,7 @@ japanese:
   - KA
   - KE
 japanese_nanori: ""
+japanese_native: ば
 vietnamese:
   - goá
   - hoa

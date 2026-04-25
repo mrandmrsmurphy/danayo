@@ -8,6 +8,7 @@ japanese:
   - GAI
   - HOU
 japanese_nanori: ""
+japanese_native: ほけ
 vietnamese:
   - dại
   - ngai

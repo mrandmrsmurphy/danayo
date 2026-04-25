@@ -5,7 +5,7 @@ korean: "소"
 korean_native: "웃음"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: わら
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: "iᴇu"

@@ -7,6 +7,7 @@ japanese:
   - HIN
   - HON
 japanese_nanori: ""
+japanese_native: しな
 vietnamese:
   - phẩm
 middle_chinese_initial: pʰ

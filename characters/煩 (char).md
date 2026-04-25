@@ -6,7 +6,7 @@ korean_native: "번거로울"
 japanese:
   - HAN
   - BON
-japanese_native: ""
+japanese_native: わずら
 vietnamese:
 middle_chinese_initial: v
 middle_chinese_final: "ʉɐn"

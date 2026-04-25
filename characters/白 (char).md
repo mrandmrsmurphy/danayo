@@ -6,7 +6,7 @@ korean_native: "흰"
 japanese:
   - HAKU
   - BYAKU
-japanese_native: ""
+japanese_native: しろ
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "ɣæk"

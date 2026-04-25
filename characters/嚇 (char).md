@@ -6,8 +6,9 @@ korean_native: "웃음소리"
 japanese:
   - KAKU
   - KA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hách
 middle_chinese_initial: x
 middle_chinese_final: "ɣæk"
 stroke_count: 17

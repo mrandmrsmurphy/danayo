@@ -6,7 +6,7 @@ korean_native: 악할
 japanese:
   - AKU
   - O
-japanese_native: ""
+japanese_native: わる
 vietnamese:
 middle_chinese_initial: ʔ
 middle_chinese_final: ɑk

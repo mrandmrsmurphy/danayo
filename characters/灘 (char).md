@@ -6,7 +6,7 @@ korean_native: "여울"
 japanese:
   - DAN
   - KAN
-japanese_native: ""
+japanese_native: なだ
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "ɑn"

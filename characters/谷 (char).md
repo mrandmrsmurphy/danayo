@@ -6,7 +6,7 @@ korean_native: "골"
 japanese:
   - KOKU
   - YOKU
-japanese_native: ""
+japanese_native: たに
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: uk

@@ -6,7 +6,7 @@ korean_native: "멀"
 japanese:
   - EN
   - ON
-japanese_native: ""
+japanese_native: とお
 vietnamese:
 middle_chinese_initial: "ø"
 middle_chinese_final: "ʉɐn"

@@ -5,7 +5,7 @@ korean: 대
 korean_native: 띠
 japanese:
   - TAI
-japanese_native: ""
+japanese_native: お
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: ɑi

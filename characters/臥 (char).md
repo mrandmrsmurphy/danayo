@@ -5,7 +5,7 @@ korean: "와"
 korean_native: "누울"
 japanese:
   - GA
-japanese_native: ""
+japanese_native: ふせ
 vietnamese:
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "uɑ"

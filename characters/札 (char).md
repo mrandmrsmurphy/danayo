@@ -5,7 +5,7 @@ korean: "찰"
 korean_native: "편지"
 japanese:
   - SATSU
-japanese_native: ""
+japanese_native: ふだ
 vietnamese:
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɣɛt"

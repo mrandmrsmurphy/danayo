@@ -5,7 +5,7 @@ korean: "배"
 korean_native: 절
 japanese:
   - HAI
-japanese_native: ""
+japanese_native: おが
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: ɣɛi

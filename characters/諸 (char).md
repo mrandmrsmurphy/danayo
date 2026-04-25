@@ -5,7 +5,7 @@ korean: "제"
 korean_native: "모두"
 japanese:
   - SHO
-japanese_native: ""
+japanese_native: もろ
 vietnamese:
   - chư
   - chơ

@@ -5,7 +5,7 @@ korean: 훈
 korean_native: 공
 japanese:
   - KUN
-japanese_native: ""
+japanese_native: いさお
 vietnamese:
   - huân
 middle_chinese_initial: x

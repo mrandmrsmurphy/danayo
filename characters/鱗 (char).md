@@ -5,7 +5,7 @@ korean: "린"
 korean_native: "비늘"
 japanese:
   - RIN
-japanese_native: ""
+japanese_native: うろこ
 vietnamese:
   - lân
 middle_chinese_initial: l

@@ -5,7 +5,7 @@ korean: "견"
 korean_native: "보낼"
 japanese:
   - KEN
-japanese_native: ""
+japanese_native: つか
 vietnamese:
 middle_chinese_initial: kʰ
 middle_chinese_final: iᴇn

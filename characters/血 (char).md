@@ -5,7 +5,7 @@ korean: "혈"
 korean_native: "피"
 japanese:
   - KETSU
-japanese_native: ""
+japanese_native: ち
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: wet

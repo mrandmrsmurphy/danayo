@@ -6,7 +6,7 @@ korean_native: "근심"
 japanese:
   - KAN
   - GEN
-japanese_native: ""
+japanese_native: わずら
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣuan"

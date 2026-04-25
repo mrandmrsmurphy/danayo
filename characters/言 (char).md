@@ -7,7 +7,7 @@ japanese:
   - GEN
   - GON
   - GIN
-japanese_native: ""
+japanese_native: い
 vietnamese:
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨɐn"

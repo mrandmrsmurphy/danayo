@@ -5,7 +5,7 @@ korean: "미"
 korean_native: "미혹할"
 japanese:
   - MEI
-japanese_native: ""
+japanese_native: まよ
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: ei

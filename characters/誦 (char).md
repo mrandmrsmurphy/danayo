@@ -6,7 +6,7 @@ korean_native: "외울"
 japanese:
   - SHOU
   - JU
-japanese_native: ""
+japanese_native: とな
 vietnamese:
 middle_chinese_initial: z
 middle_chinese_final: "ɨoŋ"

@@ -6,8 +6,11 @@ korean_native: "재재거릴"
 japanese:
   - CHOU
   - TOU
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: しゃべ
 vietnamese:
+  - nhịp
+  - điệp
 middle_chinese_initial: d
 middle_chinese_final: ep
 stroke_count: 12

@@ -5,7 +5,7 @@ korean: 다
 korean_native: 많을
 japanese:
   - TA
-japanese_native: ""
+japanese_native: おお
 vietnamese:
   - đa
 middle_chinese_initial: t

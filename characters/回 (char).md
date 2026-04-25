@@ -6,8 +6,10 @@ korean_native: "돌아올"
 japanese:
   - KAI
   - E
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hòi
+  - hồi
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uʌi"
 stroke_count: 6

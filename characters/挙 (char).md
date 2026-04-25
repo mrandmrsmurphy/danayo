@@ -5,7 +5,7 @@ korean: 거
 korean_native: 들
 japanese:
   - KYO
-japanese_native: ""
+japanese_native: あ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɨʌ

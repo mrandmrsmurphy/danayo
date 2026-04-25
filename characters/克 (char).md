@@ -6,6 +6,7 @@ korean_native: 이길
 japanese:
   - KOKU
 japanese_nanori: ""
+japanese_native: か
 vietnamese:
   - khắc
 middle_chinese_initial: kʰ

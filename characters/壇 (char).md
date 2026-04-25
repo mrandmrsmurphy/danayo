@@ -6,8 +6,10 @@ korean_native: "단"
 japanese:
   - DAN
   - TAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đàn
+  - đườn
 middle_chinese_initial: d
 middle_chinese_final: "ɑn"
 stroke_count: 16

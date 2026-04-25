@@ -7,7 +7,7 @@ japanese:
   - HATSU
   - HACHI
   - BETSU
-japanese_native: ""
+japanese_native: さば
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: "ɣɛt"

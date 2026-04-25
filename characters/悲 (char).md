@@ -5,7 +5,7 @@ korean: "비"
 korean_native: "슬플"
 japanese:
   - HI
-japanese_native: ""
+japanese_native: かな
 vietnamese:
 middle_chinese_initial: p
 middle_chinese_final: "ɣiɪ"

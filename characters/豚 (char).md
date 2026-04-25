@@ -5,7 +5,7 @@ korean: "돈"
 korean_native: "돼지"
 japanese:
   - TON
-japanese_native: ""
+japanese_native: ぶた
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: "uən"

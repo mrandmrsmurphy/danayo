@@ -5,7 +5,7 @@ korean: "쇄"
 korean_native: "쇠사슬"
 japanese:
   - SA
-japanese_native: ""
+japanese_native: くさり
 vietnamese:
 middle_chinese_initial: s
 middle_chinese_final: "uɑ"

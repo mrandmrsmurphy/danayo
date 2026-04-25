@@ -6,7 +6,7 @@ korean_native: "나아갈"
 japanese:
   - SHUU
   - JU
-japanese_native: ""
+japanese_native: つ
 vietnamese:
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "ɨu"

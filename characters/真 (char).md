@@ -5,7 +5,7 @@ korean: "진"
 korean_native: "참"
 japanese:
   - SHIN
-japanese_native: ""
+japanese_native: ま
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪn"

@@ -6,7 +6,7 @@ korean_native: 엄할
 japanese:
   - GEN
   - GON
-japanese_native: ""
+japanese_native: おごそ
 vietnamese:
 middle_chinese_initial: ŋ
 middle_chinese_final: iɐm

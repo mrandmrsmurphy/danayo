@@ -7,7 +7,7 @@ japanese:
   - DAI
   - AI
   - NAI
-japanese_native: ""
+japanese_native: の
 vietnamese:
   - bèn
   - náy

@@ -5,7 +5,7 @@ korean: "외"
 korean_native: "두려워할"
 japanese:
   - I
-japanese_native: ""
+japanese_native: おそ
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ʉi"

@@ -6,7 +6,7 @@ korean_native: ""
 japanese:
   - SHI
   - KI
-japanese_native: ""
+japanese_native: くそ
 vietnamese:
   - thỉ
   - xái

@@ -6,7 +6,7 @@ korean_native: "끓일"
 japanese:
   - TOU
   - SHOU
-japanese_native: ""
+japanese_native: ゆ
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "ɑŋ"

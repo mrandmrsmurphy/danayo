@@ -6,7 +6,7 @@ korean_native: "어찌"
 japanese:
   - EN
   - I
-japanese_native: ""
+japanese_native: いずく
 vietnamese:
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɨɐn"

@@ -5,7 +5,7 @@ korean: "치"
 korean_native: 이
 japanese:
   - SHI
-japanese_native: ""
+japanese_native: よわい
 vietnamese:
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: ɨ

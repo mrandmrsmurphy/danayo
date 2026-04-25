@@ -6,6 +6,7 @@ korean_native: "인쇄할"
 japanese:
   - SATSU
 japanese_nanori: ""
+japanese_native: す
 vietnamese:
   - loát
   - loét

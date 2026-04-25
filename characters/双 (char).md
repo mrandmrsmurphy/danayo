@@ -6,6 +6,7 @@ korean_native: 쌍
 japanese:
   - SOU
 japanese_nanori: ""
+japanese_native: ふた
 vietnamese:
   - rong
   - rông

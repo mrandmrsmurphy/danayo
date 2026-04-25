@@ -6,7 +6,7 @@ korean_native: 근심할
 japanese:
   - BIN
   - MIN
-japanese_native: ""
+japanese_native: あわれ
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: ɣiɪn

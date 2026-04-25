@@ -5,7 +5,7 @@ korean: "공"
 korean_native: "함께"
 japanese:
   - KYOU
-japanese_native: ""
+japanese_native: とも
 vietnamese:
   - cộng
 middle_chinese_initial: g

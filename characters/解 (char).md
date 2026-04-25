@@ -6,7 +6,7 @@ korean_native: "풀"
 japanese:
   - KAI
   - GE
-japanese_native: ""
+japanese_native: と
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "ɣɛ"

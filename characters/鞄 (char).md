@@ -6,7 +6,7 @@ korean_native: "혁공"
 japanese:
   - HOU
   - HAKU
-japanese_native: ""
+japanese_native: かばん
 vietnamese:
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "ɣʌk"

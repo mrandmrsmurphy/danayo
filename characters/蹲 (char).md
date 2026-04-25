@@ -6,7 +6,7 @@ korean_native: "쭈그릴"
 japanese:
   - SON
   - SHUN
-japanese_native: ""
+japanese_native: つくば
 vietnamese:
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "uən"

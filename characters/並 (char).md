@@ -5,7 +5,7 @@ korean: "병"
 korean_native: "나란히"
 japanese:
   - HEI
-japanese_native: ""
+japanese_native: な
 vietnamese:
   - tịnh
 middle_chinese_initial: b

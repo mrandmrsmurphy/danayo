@@ -5,7 +5,7 @@ korean: "폐"
 korean_native: "화폐"
 japanese:
   - HEI
-japanese_native: ""
+japanese_native: ぬさ
 vietnamese:
 middle_chinese_initial: b
 middle_chinese_final: "iᴇi"

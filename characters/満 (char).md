@@ -6,7 +6,7 @@ korean_native: 찰
 japanese:
   - MAN
   - BAN
-japanese_native: ""
+japanese_native: み
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: uɑn

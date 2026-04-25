@@ -6,6 +6,7 @@ korean_native: "토끼"
 japanese:
   - TO
 japanese_nanori: ""
+japanese_native: うさぎ
 vietnamese:
   - thỏ
   - thố

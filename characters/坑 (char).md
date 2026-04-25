@@ -5,8 +5,10 @@ korean: "갱"
 korean_native: "구덩이"
 japanese:
   - KOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - ganh
+  - khanh
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣæŋ"
 stroke_count: 7

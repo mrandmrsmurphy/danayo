@@ -6,6 +6,7 @@ korean_native: ""
 japanese:
   - BAI
 japanese_nanori: ""
+japanese_native: うた
 vietnamese:
   - bái
 middle_chinese_initial: b

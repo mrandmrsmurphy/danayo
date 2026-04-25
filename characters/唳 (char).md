@@ -5,8 +5,10 @@ korean: "려"
 korean_native: "울"
 japanese:
   - REI
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: れつ
 vietnamese:
+  - lệ
 middle_chinese_initial: l
 middle_chinese_final: ei
 stroke_count: 10

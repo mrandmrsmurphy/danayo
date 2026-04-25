@@ -6,8 +6,11 @@ korean_native: "견딜"
 japanese:
   - KAN
   - TAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - kham
+  - khom
+  - khăm
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ʌm"
 stroke_count: 12

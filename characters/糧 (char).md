@@ -6,7 +6,7 @@ korean_native: "양식"
 japanese:
   - RYOU
   - ROU
-japanese_native: ""
+japanese_native: かて
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "ɨɐŋ"

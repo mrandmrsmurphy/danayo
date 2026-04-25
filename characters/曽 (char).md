@@ -7,7 +7,7 @@ japanese:
   - ZO
   - SOU
   - SO
-japanese_native: ""
+japanese_native: かつ
 vietnamese:
 middle_chinese_initial: d͡z
 middle_chinese_final: əŋ

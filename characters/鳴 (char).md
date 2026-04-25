@@ -5,7 +5,7 @@ korean: "명"
 korean_native: "울"
 japanese:
   - MEI
-japanese_native: ""
+japanese_native: な
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "ɣiæŋ"

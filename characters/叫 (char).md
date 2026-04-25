@@ -6,6 +6,7 @@ korean_native: "부르짖을"
 japanese:
   - KYOU
 japanese_nanori: ""
+japanese_native: さけ
 vietnamese:
   - khiếu
   - kêu

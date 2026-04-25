@@ -5,7 +5,7 @@ korean: "공"
 korean_native: "칠"
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: せ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "uoŋ"

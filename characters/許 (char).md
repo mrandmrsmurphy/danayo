@@ -6,7 +6,7 @@ korean_native: "허락할"
 japanese:
   - KYO
   - KO
-japanese_native: ""
+japanese_native: ゆる
 vietnamese:
 middle_chinese_initial: x
 middle_chinese_final: "ɨʌ"

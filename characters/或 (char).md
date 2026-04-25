@@ -6,7 +6,7 @@ korean_native: "혹"
 japanese:
   - WAKU
   - IKI
-japanese_native: ""
+japanese_native: あ
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "wək"

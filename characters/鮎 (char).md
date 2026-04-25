@@ -5,7 +5,7 @@ korean: "점"
 korean_native: "메기"
 japanese:
   - NEN
-japanese_native: ""
+japanese_native: あゆ
 vietnamese:
 middle_chinese_initial: n
 middle_chinese_final: em

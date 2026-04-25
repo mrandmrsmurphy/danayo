@@ -6,6 +6,7 @@ korean_native: "볼록할"
 japanese:
   - TOTSU
 japanese_nanori: ""
+japanese_native: でこ
 vietnamese:
   - đột
 middle_chinese_initial: d

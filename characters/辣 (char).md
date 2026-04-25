@@ -5,7 +5,7 @@ korean: "랄"
 korean_native: "매울"
 japanese:
   - RATSU
-japanese_native: ""
+japanese_native: から
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "ɑt"

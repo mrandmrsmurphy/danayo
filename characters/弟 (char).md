@@ -6,7 +6,7 @@ korean_native: "아우"
 japanese:
   - TEI
   - DAI
-japanese_native: ""
+japanese_native: おとうと
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: ei

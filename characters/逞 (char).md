@@ -5,7 +5,7 @@ korean: "령"
 korean_native: "쾌할"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: たくま
 vietnamese:
 middle_chinese_initial: "ʈʰ"
 middle_chinese_final: "iᴇŋ"

@@ -5,7 +5,7 @@ korean: "대"
 korean_native: "자루"
 japanese:
   - TAI
-japanese_native: ""
+japanese_native: ふくろ
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: "ʌi"

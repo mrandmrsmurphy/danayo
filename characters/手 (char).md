@@ -5,7 +5,7 @@ korean: "수"
 korean_native: "손"
 japanese:
   - SHU
-japanese_native: ""
+japanese_native: て
 vietnamese:
 middle_chinese_initial: "ɕ"
 middle_chinese_final: "ɨu"

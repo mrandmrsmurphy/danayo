@@ -6,6 +6,7 @@ korean_native: "빛"
 japanese:
   - KOU
 japanese_nanori: ""
+japanese_native: ひか
 vietnamese:
   - cuông
   - quang

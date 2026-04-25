@@ -5,7 +5,7 @@ korean: "골"
 korean_native: "뼈"
 japanese:
   - KOTSU
-japanese_native: ""
+japanese_native: ほね
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "uət"

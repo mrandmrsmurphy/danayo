@@ -6,6 +6,7 @@ korean_native: "치우칠"
 japanese:
   - HEN
 japanese_nanori: ""
+japanese_native: かたよ
 vietnamese:
   - thiên
   - xen

@@ -6,7 +6,7 @@ korean_native: "매달"
 japanese:
   - KEN
   - KYOU
-japanese_native: ""
+japanese_native: か
 vietnamese:
 middle_chinese_initial: "ɣ"
 middle_chinese_final: wen

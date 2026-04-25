@@ -5,7 +5,7 @@ korean: "탐"
 korean_native: "처질"
 japanese:
   - TAN
-japanese_native: ""
+japanese_native: ふけ
 vietnamese:
 middle_chinese_initial: t
 middle_chinese_final: "ʌm"

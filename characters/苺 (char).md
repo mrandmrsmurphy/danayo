@@ -6,7 +6,7 @@ korean_native: "딸기"
 japanese:
   - MAI
   - BAI
-japanese_native: ""
+japanese_native: いちご
 vietnamese:
 middle_chinese_initial: m
 middle_chinese_final: "uʌi"

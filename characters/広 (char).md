@@ -5,7 +5,7 @@ korean: "광"
 korean_native: "넓을"
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: ひろ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: "wɑŋ"

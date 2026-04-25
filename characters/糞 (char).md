@@ -5,7 +5,7 @@ korean: "분"
 korean_native: "똥"
 japanese:
   - FUN
-japanese_native: ""
+japanese_native: くそ
 vietnamese:
 middle_chinese_initial: f
 middle_chinese_final: "ɨun"

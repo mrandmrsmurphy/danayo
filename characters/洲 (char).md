@@ -5,7 +5,7 @@ korean: "주"
 korean_native: "물가"
 japanese:
   - SHUU
-japanese_native: ""
+japanese_native: しま
 vietnamese:
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨu"

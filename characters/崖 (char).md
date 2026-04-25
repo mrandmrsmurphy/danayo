@@ -5,7 +5,7 @@ korean: "애"
 korean_native: "언덕"
 japanese:
   - GAI
-japanese_native: ""
+japanese_native: がけ
 vietnamese:
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɣɛ"

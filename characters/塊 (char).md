@@ -5,8 +5,13 @@ korean: "괴"
 korean_native: "흙덩이"
 japanese:
   - KAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cỏi
+  - hòn
+  - khói
+  - khỏi
+  - khối
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uʌi"
 stroke_count: 13

@@ -6,6 +6,7 @@ korean_native: 찰
 japanese:
   - REI
 japanese_nanori: ""
+japanese_native: つめ
 vietnamese:
   - linh
   - liểng

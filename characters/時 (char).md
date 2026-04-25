@@ -6,7 +6,7 @@ korean_native: "때"
 japanese:
   - JI
   - SHI
-japanese_native: ""
+japanese_native: とき
 vietnamese:
 middle_chinese_initial: "ʑ"
 middle_chinese_final: "ɨ"

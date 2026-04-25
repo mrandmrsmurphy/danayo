@@ -7,6 +7,7 @@ japanese:
   - SHUTSU
   - SUI
 japanese_nanori: ""
+japanese_native: で
 vietnamese:
   - xuất
   - xọt

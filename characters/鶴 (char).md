@@ -5,7 +5,7 @@ korean: "학"
 korean_native: "학"
 japanese:
   - KAKU
-japanese_native: ""
+japanese_native: つる
 vietnamese:
   - hạc
 middle_chinese_initial: "ɣ"

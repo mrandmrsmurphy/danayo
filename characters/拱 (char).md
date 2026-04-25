@@ -5,7 +5,7 @@ korean: "공"
 korean_native: ""
 japanese:
   - KYOU
-japanese_native: ""
+japanese_native: こまぬ
 vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ɨoŋ

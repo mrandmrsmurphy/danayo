@@ -6,8 +6,12 @@ korean_native: "선비"
 japanese:
   - SHI
   - JI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - sãi
+  - sõi
+  - sĩ
+  - sỡi
 middle_chinese_initial: "d͡ʒ"
 middle_chinese_final: "ɨ"
 stroke_count: 3

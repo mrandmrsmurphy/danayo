@@ -6,6 +6,7 @@ korean_native: "찰"
 japanese:
   - RIN
 japanese_nanori: ""
+japanese_native: きびし
 vietnamese:
   - lẫm
 middle_chinese_initial: l

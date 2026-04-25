@@ -5,8 +5,15 @@ korean: "탄"
 korean_native: "탄식할"
 japanese:
   - TAN
-japanese_native: ""
+japanese_nanori: ""
+japanese_native: なげ
 vietnamese:
+  - han
+  - hen
+  - than
+  - thán
+  - thăn
+  - thơn
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "ɑn"
 stroke_count: 13

@@ -6,7 +6,7 @@ korean_native: "곧을"
 japanese:
   - CHOKU
   - JIKI
-japanese_native: ""
+japanese_native: ただ
 vietnamese:
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɨk"

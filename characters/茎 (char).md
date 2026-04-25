@@ -6,7 +6,7 @@ korean_native: 줄기
 japanese:
   - KEI
   - KOU
-japanese_native: ""
+japanese_native: くき
 vietnamese:
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛŋ

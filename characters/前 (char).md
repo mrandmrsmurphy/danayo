@@ -7,6 +7,7 @@ japanese:
   - ZEN
   - SEN
 japanese_nanori: ""
+japanese_native: まえ
 vietnamese:
   - tiền
   - tèn

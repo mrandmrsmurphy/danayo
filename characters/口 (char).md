@@ -6,7 +6,7 @@ korean_native: 입
 japanese:
   - KOU
   - KU
-japanese_native: ""
+japanese_native: くち
 vietnamese:
   - khẩu
 middle_chinese_initial: kʰ

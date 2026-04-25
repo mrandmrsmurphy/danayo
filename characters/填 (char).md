@@ -6,8 +6,10 @@ korean_native: 메울
 japanese:
   - TEN
   - CHIN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - điền
+  - đền
 middle_chinese_initial: d
 middle_chinese_final: en
 stroke_count: 13

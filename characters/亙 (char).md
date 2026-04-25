@@ -6,6 +6,7 @@ korean_native: "뻗칠"
 japanese:
   - KOU
 japanese_nanori: ""
+japanese_native: わた
 vietnamese:
   - cắng
   - cẳng

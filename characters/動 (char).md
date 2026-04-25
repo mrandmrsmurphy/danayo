@@ -6,6 +6,7 @@ korean_native: 움직일
 japanese:
   - DOU
 japanese_nanori: ""
+japanese_native: うご
 vietnamese:
   - động
   - đụng

@@ -5,7 +5,7 @@ korean: "리"
 korean_native: "밟을"
 japanese:
   - RI
-japanese_native: ""
+japanese_native: は
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "iɪ"

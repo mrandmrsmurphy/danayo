@@ -7,6 +7,7 @@ japanese:
   - TAN
   - DAN
 japanese_nanori: ""
+japanese_native: ただ
 vietnamese:
   - giãn
   - giản

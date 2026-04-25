@@ -6,7 +6,7 @@ korean_native: 모양
 japanese:
   - YOU
   - SHOU
-japanese_native: ""
+japanese_native: さま
 vietnamese:
   - dạng, dáng, nhàng
 middle_chinese_initial: ŋ

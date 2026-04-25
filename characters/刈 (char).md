@@ -6,6 +6,7 @@ korean_native: "벨"
 japanese:
   - GAI
 japanese_nanori: ""
+japanese_native: か
 vietnamese:
   - ngãi
 middle_chinese_initial: "ŋ"

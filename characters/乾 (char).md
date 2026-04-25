@@ -7,7 +7,7 @@ japanese:
 - KAN
 - KEN
 - GEN
-japanese_native: ''
+japanese_native: かわ
 vietnamese:
   - can
   - càn

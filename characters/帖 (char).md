@@ -6,7 +6,7 @@ korean_native: "문서"
 japanese:
   - JOU
   - CHOU
-japanese_native: ""
+japanese_native: かきもの
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: ep

@@ -5,7 +5,7 @@ korean: "린"
 korean_native: "이웃"
 japanese:
   - RIN
-japanese_native: ""
+japanese_native: とな
 vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: "iɪn"

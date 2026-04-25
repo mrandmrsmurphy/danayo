@@ -5,8 +5,9 @@ korean: "톤"
 korean_native: ""
 japanese:
   - TON
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đốn
 middle_chinese_initial: t
 middle_chinese_final: uən
 stroke_count: 16

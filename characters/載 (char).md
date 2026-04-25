@@ -5,7 +5,7 @@ korean: "재"
 korean_native: "실을"
 japanese:
   - SAI
-japanese_native: ""
+japanese_native: の
 vietnamese:
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "ʌi"

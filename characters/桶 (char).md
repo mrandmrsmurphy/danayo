@@ -6,7 +6,7 @@ korean_native: "통"
 japanese:
   - TOU
   - YOU
-japanese_native: ""
+japanese_native: おけ
 vietnamese:
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "uŋ"

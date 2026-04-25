@@ -6,6 +6,7 @@ korean_native: "그을"
 japanese:
   - KAKU
 japanese_nanori: ""
+japanese_native: わ
 vietnamese:
   - dạch
   - gạch

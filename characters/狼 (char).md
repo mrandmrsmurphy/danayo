@@ -5,7 +5,7 @@ korean: 랑
 korean_native: 이리
 japanese:
   - ROU
-japanese_native: ""
+japanese_native: おおかみ
 vietnamese:
   - lang
 middle_chinese_initial: l
