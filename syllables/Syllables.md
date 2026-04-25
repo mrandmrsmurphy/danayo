@@ -209,7 +209,7 @@ views:
       - english
     sort:
       - property: 羅馬字
-        direction: DESC
+        direction: ASC
       - property: size
         direction: ASC
       - property: file.name
