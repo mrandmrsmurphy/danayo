@@ -7,8 +7,14 @@ japanese:
   - BOU
   - GAI
   - HOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - dại
+  - ngai
+  - ngãi
+  - ngóc
+  - ngố
+  - ngốc
 middle_chinese_initial: m
 middle_chinese_final: "uʌi"
 stroke_count: 7

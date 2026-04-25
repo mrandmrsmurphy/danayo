@@ -5,8 +5,12 @@ korean: "사"
 korean_native: "풀"
 japanese:
   - SHA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - dỡ
+  - hằm
+  - tá
+  - xả
 middle_chinese_initial: s
 middle_chinese_final: ia
 stroke_count: 9

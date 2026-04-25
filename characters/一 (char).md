@@ -3,7 +3,8 @@ mandarin: yī
 cantonese: jat1
 korean: 일
 korean_native: 한
-japanese: ICHI, ITSU
+japanese:
+  - ICHI, ITSU
 japanese_native: をさむ
 vietnamese:
   - nhất

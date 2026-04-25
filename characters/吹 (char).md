@@ -5,8 +5,25 @@ korean: "취"
 korean_native: "불"
 japanese:
   - SUI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - xi
+  - xoe
+  - xua
+  - xui
+  - xuy
+  - xuê
+  - xuôi
+  - xuý
+  - xuế
+  - xuề
+  - xuể
+  - xì
+  - xôi
+  - xùi
+  - xơi
+  - xỉ
+  - xủi
 middle_chinese_initial: "t͡ɕʰ"
 middle_chinese_final: "iuᴇ"
 stroke_count: 7

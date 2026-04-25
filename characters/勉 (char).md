@@ -5,8 +5,12 @@ korean: "면"
 korean_native: "힘쓸"
 japanese:
   - BEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - miễn
+  - mến
+  - mễn
+  - mịn
 middle_chinese_initial: m
 middle_chinese_final: "ɣiᴇn"
 stroke_count: 10

@@ -6,8 +6,13 @@ korean_native: "될"
 japanese:
   - KA
   - KE
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - goá
+  - hoa
+  - hoá
+  - hoé
+  - huế
 middle_chinese_initial: x
 middle_chinese_final: "ɣua"
 stroke_count: 4

@@ -6,8 +6,10 @@ korean_native: "길할"
 japanese:
   - KICHI
   - KITSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cát
+  - kiết
 middle_chinese_initial: k
 middle_chinese_final: "iɪt"
 stroke_count: 6

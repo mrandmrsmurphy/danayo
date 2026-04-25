@@ -5,8 +5,10 @@ korean: 동
 korean_native: 움직일
 japanese:
   - DOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - động
+  - đụng
 middle_chinese_initial: d
 middle_chinese_final: uŋ
 stroke_count: 11

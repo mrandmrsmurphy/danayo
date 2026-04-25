@@ -5,8 +5,16 @@ korean: "정"
 korean_native: "드릴"
 japanese:
   - TEI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - chiềng
+  - chiệng
+  - chường
+  - rềnh
+  - triềng
+  - trành
+  - trình
+  - xình
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "iᴇŋ"
 stroke_count: 7

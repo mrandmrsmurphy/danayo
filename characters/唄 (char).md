@@ -5,8 +5,9 @@ korean: "패"
 korean_native: ""
 japanese:
   - BAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bái
 middle_chinese_initial: b
 middle_chinese_final: ɣai
 stroke_count: 10

@@ -5,8 +5,12 @@ korean: "쌍"
 korean_native: 쌍
 japanese:
   - SOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - rong
+  - rông
+  - song
+  - xong
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣʌŋ
 stroke_count: 4

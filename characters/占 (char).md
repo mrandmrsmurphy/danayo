@@ -5,8 +5,23 @@ korean: "점"
 korean_native: "점령할"
 japanese:
   - SEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - chem
+  - chiêm
+  - chiếm
+  - chàm
+  - chím
+  - chúm
+  - chăm
+  - chầm
+  - chắm
+  - chằm
+  - chẻm
+  - chễm
+  - coi
+  - giếm
+  - xem
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iᴇm"
 stroke_count: 5

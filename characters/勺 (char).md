@@ -5,8 +5,12 @@ korean: "작"
 korean_native: "구기"
 japanese:
   - SHAKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - chước
+  - duộc
+  - giuộc
+  - thược
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨɐk"
 stroke_count: 3

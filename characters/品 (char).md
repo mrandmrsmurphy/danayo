@@ -6,8 +6,9 @@ korean_native: 물건
 japanese:
   - HIN
   - HON
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - phẩm
 middle_chinese_initial: pʰ
 middle_chinese_final: ɣiɪm
 stroke_count: 9

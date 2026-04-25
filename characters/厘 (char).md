@@ -6,8 +6,10 @@ korean_native: ''
 japanese:
 - RIN
 - TEN
-japanese_native: ''
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - li
+  - ly
 middle_chinese_initial: l
 middle_chinese_final: ɨ
 stroke_count: 9

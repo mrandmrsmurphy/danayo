@@ -5,8 +5,10 @@ korean: "곡"
 korean_native: "울"
 japanese:
   - KOKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khóc
+  - khốc
 middle_chinese_initial: "kʰ"
 middle_chinese_final: uk
 stroke_count: 10

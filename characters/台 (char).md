@@ -7,8 +7,14 @@ japanese:
 - DAI
 - TAI
 - I
-japanese_native: ''
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - hai
+  - thai
+  - thay
+  - thơi
+  - đài
+  - đày
 middle_chinese_initial: d
 middle_chinese_final: ʌi
 stroke_count: 5

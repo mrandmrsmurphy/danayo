@@ -7,8 +7,10 @@ japanese:
   - AI
   - E
   - WA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - oa
+  - oà
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣua"
 stroke_count: 9

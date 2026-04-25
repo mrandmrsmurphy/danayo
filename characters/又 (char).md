@@ -5,8 +5,10 @@ korean: "우"
 korean_native: "또"
 japanese:
   - YUU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hựu
+  - lại
 middle_chinese_initial: "ø"
 middle_chinese_final: "ɨu"
 stroke_count: 2

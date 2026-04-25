@@ -5,8 +5,16 @@ korean: 흡
 korean_native: 마실
 japanese:
   - KYUU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cạp
+  - cặp
+  - cộp
+  - gạp
+  - húp
+  - hút
+  - hấp
+  - hớp
 middle_chinese_initial: x
 middle_chinese_final: ɣiɪp
 stroke_count: 6

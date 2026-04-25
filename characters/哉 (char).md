@@ -5,8 +5,10 @@ korean: "재"
 korean_native: "비롯할"
 japanese:
   - SAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tai
+  - tơi
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "ʌi"
 stroke_count: 9

@@ -5,8 +5,9 @@ korean: "진"
 korean_native: 입술
 japanese:
   - SHIN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thần
 middle_chinese_initial: ɕ
 middle_chinese_final: ɨun
 stroke_count: 10

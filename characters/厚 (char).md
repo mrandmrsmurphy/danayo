@@ -5,8 +5,9 @@ korean: "후"
 korean_native: "두터울"
 japanese:
   - KOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hậu
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "əu"
 stroke_count: 9

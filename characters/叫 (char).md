@@ -5,8 +5,11 @@ korean: "규"
 korean_native: "부르짖을"
 japanese:
   - KYOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khiếu
+  - kêu
+  - kíu
 middle_chinese_initial: k
 middle_chinese_final: eu
 stroke_count: 5

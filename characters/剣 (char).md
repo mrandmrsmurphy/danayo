@@ -1,24 +1,25 @@
 ---
-mandarin: "jiàn"
-cantonese: "gim3"
-korean: "검"
+mandarin: jiàn
+cantonese: gim3
+korean: 검
 korean_native: 칼
 japanese:
   - KEN
 japanese_native: ""
 vietnamese:
+  - kiếm
 middle_chinese_initial: k
 middle_chinese_final: iɐm
 stroke_count: 10
 radical: 刀
 skip_number: 1-8-2
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - sword
 羅馬字: gom
 諺文: 곰
-joyo_level: ""
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 3282

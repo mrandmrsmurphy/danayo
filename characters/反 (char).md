@@ -7,8 +7,9 @@ japanese:
   - HAN
   - TAN
   - HON
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - phản
 middle_chinese_initial: "fʰ"
 middle_chinese_final: "ʉɐn"
 stroke_count: 4

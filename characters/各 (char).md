@@ -5,8 +5,13 @@ korean: 각
 korean_native: 각각
 japanese:
   - KAKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - các
+  - cắc
+  - gác
+  - gạc
+  - gật
 middle_chinese_initial: k
 middle_chinese_final: ɑk
 stroke_count: 6

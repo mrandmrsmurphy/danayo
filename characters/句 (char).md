@@ -6,8 +6,10 @@ korean_native: "글귀"
 japanese:
   - KU
   - KOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - câu
+  - cú
 middle_chinese_initial: g
 middle_chinese_final: "ɨo"
 stroke_count: 5

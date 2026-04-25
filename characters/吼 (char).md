@@ -6,8 +6,13 @@ korean_native: "울부짖을"
 japanese:
   - KOU
   - KU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hống
+  - hổng
+  - khỏng
+  - khống
+  - rống
 middle_chinese_initial: x
 middle_chinese_final: "əu"
 stroke_count: 7

@@ -5,8 +5,11 @@ korean: "비"
 korean_native: "낮을"
 japanese:
   - HI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bấy
+  - te
+  - ti
 middle_chinese_initial: p
 middle_chinese_final: "iᴇ"
 stroke_count: 9

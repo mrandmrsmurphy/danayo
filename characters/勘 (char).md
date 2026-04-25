@@ -5,8 +5,10 @@ korean: "감"
 korean_native: "헤아릴"
 japanese:
   - KAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khám
+  - khóm
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ʌm"
 stroke_count: 11

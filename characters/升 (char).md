@@ -5,8 +5,10 @@ korean: "승"
 korean_native: "되"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thăng
+  - thưng
 middle_chinese_initial: "ɕ"
 middle_chinese_final: "ɨŋ"
 stroke_count: 4
