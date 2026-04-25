@@ -55,3 +55,4 @@ tags:
 ## Words
 - <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby> - Mercury (planet)
 - <ruby>[流星](/words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby> - shooting star
+[[Lookup/CC/initials/聲 心]]

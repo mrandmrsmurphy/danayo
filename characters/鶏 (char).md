@@ -46,3 +46,4 @@ tags:
 - Old spelling on the [[Korean MS]], [[lookup/HSK/HSK Beginner]]; Shinjitai on [[Jōyō - Kōtō]].
 - [[鶏肉]] chicken meat
 - [[奚]] + [[Radical 196|鳥]] = [[SKIP-1-8-11]]
+[[Lookup/CC/initials/聲 見]]

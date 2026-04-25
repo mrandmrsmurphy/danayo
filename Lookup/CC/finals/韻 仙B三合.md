@@ -23,7 +23,7 @@ views:
       - korean
       - middle_chinese_initial
       - middle_chinese_final
-      - 韓文
+      - 諺文
     sort:
       - property: 羅馬字
         direction: ASC

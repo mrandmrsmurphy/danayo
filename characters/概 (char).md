@@ -42,3 +42,4 @@ tags:
 
 ## Words
 - for the most part [[大槪]]
+[[Lookup/CC/initials/聲 見]]

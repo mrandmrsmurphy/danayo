@@ -42,3 +42,4 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*luŋ): semantic [鬲](Radical%20142) (“cauldron”) + phonetic [蟲](characters/虫.md) (OC \*l'uŋ, \*l'uŋs).
+[[Lookup/CC/initials/聲 以]]

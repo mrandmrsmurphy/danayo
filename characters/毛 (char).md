@@ -1,8 +1,8 @@
 ---
-mandarin: "máo"
+mandarin: máo
 cantonese: mou4
-korean: "모"
-korean_native: "터럭"
+korean: 모
+korean_native: 터럭
 japanese:
   - MOU
   - BOU
@@ -10,25 +10,25 @@ japanese_nanori: ""
 vietnamese:
   - mao
 middle_chinese_initial: m
-middle_chinese_final: "ɑu"
+middle_chinese_final: ɑu
 stroke_count: 4
-radical: "毛"
+radical: 毛
 skip_number: 4-4-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - fur
 羅馬字: mau
-諺文: "맛"
-joyo_level: 2
-hsk_level: 1
-hanmun_edu_level: "中"
+諺文: 맛
+joyo_level: "2"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 35
 mc_id: 951
-graphemic_classification: "象形"
-stand_in: "毛"
+graphemic_classification: 象形
+stand_in: 毛
 aliases:
-注音: "ㄇㄚㄨ"
+注音: ㄇㄚㄨ
 tags:
   - character
 ---
@@ -39,3 +39,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+[[Lookup/CC/initials/聲 明]]

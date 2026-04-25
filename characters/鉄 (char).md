@@ -50,3 +50,4 @@ tags:
 
 ## Chengyu 
 - [[磨穿鉄硯]]
+[[Lookup/CC/initials/聲 透]]

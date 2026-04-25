@@ -46,3 +46,4 @@ tags:
 - [[除我莫神]]
 ## Words 
 - <ruby>[神巫](/words/神巫.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> - shaman, wizard
+[[Lookup/CC/initials/聲 禪]]

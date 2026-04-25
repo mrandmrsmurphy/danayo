@@ -39,3 +39,4 @@ tags:
 ```
 ## Notes
 V pronunciation 
+[[Lookup/CC/initials/聲 見]]

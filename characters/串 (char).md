@@ -40,3 +40,4 @@ tags:
 
 # Notes
 Pronunciation is altered
+[[Lookup/CC/initials/聲 昌]]

@@ -43,3 +43,4 @@ tags:
 
 ## Chengyu
 - [[弱肉強食]]
+[[Lookup/CC/initials/聲 禪]]

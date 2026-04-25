@@ -44,3 +44,4 @@ tags:
 - [[逮捕]]
 - [[捕獲]]
 - 
+[[Lookup/CC/initials/聲 並]]

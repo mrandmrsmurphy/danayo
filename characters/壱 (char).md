@@ -42,3 +42,4 @@ tags:
 ```
 ## Notes
 - 壹 was dropped from the Korean MS list in 2000.
+[[Lookup/CC/initials/聲 影]]

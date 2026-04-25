@@ -43,3 +43,4 @@ tags:
 # Notes
 ## Words
 - [[柔軟]]
+[[Lookup/CC/initials/聲 日]]

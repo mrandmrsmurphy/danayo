@@ -44,3 +44,4 @@ tags:
 
 ## Words
 - cod is [[雪魚]]
+[[Lookup/CC/initials/聲 心]]

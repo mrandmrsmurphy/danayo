@@ -42,3 +42,4 @@ tags:
 ## Notes
 
 "club" - [[倶楽部]]
+[[Lookup/CC/initials/聲 見]]

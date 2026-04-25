@@ -41,3 +41,4 @@ tags:
 
 # Notes
 1326
+[[Lookup/CC/initials/聲 並]]

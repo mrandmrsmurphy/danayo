@@ -51,3 +51,4 @@ tags:
 - While this is under [SKIP-2-5-3](lookup/SKIP/SKIP-2/SKIP-2-5-3.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)), there are no characters that look like those parts.
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 - Pronounced [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md), a very common syllable.
+[[Lookup/CC/initials/聲 澄]]

@@ -40,3 +40,4 @@ tags:
 
 ## Words
 - <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby> - soccer
+[[Lookup/CC/initials/聲 清]]

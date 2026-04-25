@@ -52,3 +52,4 @@ tags:
 - [[瀧川]] Takigawa
 - [[江戸川]] Edo river
 - [[四川]] Sichuan
+[[Lookup/CC/initials/聲 昌]]

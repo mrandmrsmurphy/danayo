@@ -74,3 +74,4 @@ tags:
 
 ## Chengyu
 - [[呉牛喘月]]
+[[Lookup/CC/initials/聲 疑]]

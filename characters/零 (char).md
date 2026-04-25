@@ -42,3 +42,4 @@ tags:
 - [[lookup/HSK/HSK Beginner]], [[Jōyō - Kōtō]], [[Korean HS]], [[Grade 4]]
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 來]]

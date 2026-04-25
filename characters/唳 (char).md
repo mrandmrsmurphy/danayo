@@ -39,3 +39,4 @@ tags:
 ```
 ## Notes
 - [口](Radical%20030) + [戻](characters/戻.md)
+[[Lookup/CC/initials/聲 來]]

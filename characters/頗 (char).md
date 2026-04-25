@@ -40,3 +40,4 @@ tags:
 ```
 ## Notes
 - Vietnamese pronunciation chosen to fill a vacant syllable
+[[Lookup/CC/initials/聲 滂]]

@@ -42,3 +42,4 @@ tags:
 
 ### Derived Characters
 - [寞](寞.md)
+[[Lookup/CC/initials/聲 明]]

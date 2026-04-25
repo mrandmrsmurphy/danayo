@@ -41,3 +41,4 @@ tags:
 ```
 ## Words
 - [[夏至]]
+[[Lookup/CC/initials/聲 匣]]

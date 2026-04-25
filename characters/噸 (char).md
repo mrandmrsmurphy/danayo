@@ -38,3 +38,4 @@ tags:
 ```
 ## Notes
 - [口](Radical%20030) + [頓](characters/頓.md)
+[[Lookup/CC/initials/聲 端]]

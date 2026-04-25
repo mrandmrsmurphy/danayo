@@ -40,3 +40,4 @@ tags:
 
 # Notes
 Learned borrowing from Sanskrit ॐ (oṃ).
+[[Lookup/CC/initials/聲 影]]

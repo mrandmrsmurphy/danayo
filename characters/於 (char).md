@@ -46,3 +46,4 @@ tags:
 
 # Notes
 方,仒
+[[Lookup/CC/initials/聲 影]]

@@ -79,3 +79,4 @@ tags:
 - [[龍眼]]
 ## Chengyu
 - [[画龍点睛]]
+[[Lookup/CC/initials/聲 來]]

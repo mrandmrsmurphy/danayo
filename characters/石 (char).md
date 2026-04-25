@@ -45,3 +45,4 @@ tags:
 ## Words
 - <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium, abbreviated 石
 - 
+[[Lookup/CC/initials/聲 船]]

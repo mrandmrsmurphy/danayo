@@ -46,3 +46,4 @@ tags:
 - Somehow, this is [[SKIP-1-2-4]].
 ## Words
 - [[九州]] - Kyushu
+[[Lookup/CC/initials/聲 章]]

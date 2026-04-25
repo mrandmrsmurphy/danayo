@@ -76,3 +76,4 @@ tags:
 - [[天主]]
 - [[天狼星]]
 - 
+[[Lookup/CC/initials/聲 透]]

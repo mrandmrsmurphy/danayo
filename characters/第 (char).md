@@ -41,3 +41,4 @@ tags:
 # Notes
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 定]]

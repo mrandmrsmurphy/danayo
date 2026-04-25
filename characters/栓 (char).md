@@ -38,3 +38,4 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*sroːn, \*sron): semantic [木](Radical%20075) (“wood”) + phonetic [全](characters/全%20(char).md) (OC \*zlon) – a wooden peg.
+[[Lookup/CC/initials/聲 生]]

@@ -46,3 +46,4 @@ tags:
 - [[黒板]]
 - [[黒貂]]
 - 
+[[Lookup/CC/initials/聲 曉]]

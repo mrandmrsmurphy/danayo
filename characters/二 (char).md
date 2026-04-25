@@ -59,3 +59,4 @@ tags:
 - [[二次元]] - 2D
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 日]]

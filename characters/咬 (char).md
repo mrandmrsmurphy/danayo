@@ -55,3 +55,4 @@ tags:
 # Notes
 - [[Radical 030|口]] + [[交 (char)]] = [[SKIP-1-3-6]] ([[Stroke 09]]) - [[⼘ㄨ]]
 - [[Hyōgai]], [[Korean Name ㄱ]], HSK 2, [[Grade 6]]
+[[Lookup/CC/initials/聲 疑]]

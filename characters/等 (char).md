@@ -61,3 +61,4 @@ tags:
 * [[等分]]
 * [[等待]]
 * 
+[[Lookup/CC/initials/聲 端]]

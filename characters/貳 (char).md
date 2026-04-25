@@ -46,3 +46,4 @@ tags:
 
 ## Words
 1. 貳臣 was A) an official who retained his position after capitulating to the new dynasty; a turncoat official; or B) a rebel; someone who had rebellious thoughts or behavior.
+[[Lookup/CC/initials/聲 日]]

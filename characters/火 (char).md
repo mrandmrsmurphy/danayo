@@ -52,3 +52,4 @@ tags:
 - [[烈火]]
 - [[鬼火]]
 - 
+[[Lookup/CC/initials/聲 曉]]

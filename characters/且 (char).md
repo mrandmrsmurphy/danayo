@@ -45,3 +45,4 @@ tags:
 
 ### Derived Characters
 - [[祖]]
+[[Lookup/CC/initials/聲 清]]

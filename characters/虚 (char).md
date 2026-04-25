@@ -44,3 +44,4 @@ tags:
 
 ### Derived Characters
 - [[戯]]
+[[Lookup/CC/initials/聲 曉]]

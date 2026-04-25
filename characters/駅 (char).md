@@ -39,3 +39,4 @@ tags:
 # Notes
 
 Japanese coined, but common
+[[Lookup/CC/initials/聲 以]]

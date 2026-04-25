@@ -39,3 +39,4 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*sjaːɡ): semantic [忄](Radical%20061) (“heart”) + phonetic [昔](characters/昔.md) (OC \*sjaːɡ) – a feeling (of the heart).  Note that 昔 has meaning of “past, ending”, hence connotations of “feelings for the past, feeling about an ending – regret, rue”.
+[[Lookup/CC/initials/聲 心]]

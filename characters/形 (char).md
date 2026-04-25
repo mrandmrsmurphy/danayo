@@ -43,3 +43,4 @@ While this character can appear alone, it is somewhat rare to do so.
 - **形 ** Tends to be more **abstract or conceptual**. It refers to the "form" or "appearance" as a category or a philosophical state. It is often used to describe the essence of how something manifests (e.g., "having form vs. being formless").
     
 - **[[形状]]** Refers specifically to the **physical geometry or outline** of an object. If you are asking "What does it look like?" or describing a circle vs. a square, you are talking about _形状_.
+[[Lookup/CC/initials/聲 匣]]

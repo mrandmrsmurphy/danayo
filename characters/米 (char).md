@@ -42,3 +42,4 @@ tags:
 # Notes
 ## Words
 - [[玄米]] - brown rice
+[[Lookup/CC/initials/聲 明]]

@@ -57,3 +57,4 @@ tags:
 - [[実力]] - strength
 ## Chengyu
 - [[心性意力]] - "heart, soul, mind, and strength"
+[[Lookup/CC/initials/聲 來]]

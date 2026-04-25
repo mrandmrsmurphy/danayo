@@ -39,3 +39,4 @@ tags:
 ```
 ## Notes
 - 偏 was added to the Korean HS list in 2000.
+[[Lookup/CC/initials/聲 滂]]

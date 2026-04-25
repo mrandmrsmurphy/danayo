@@ -48,3 +48,4 @@ HSK/3, 이름
 
 1. alkali
 2. abbreviation for "sodium" <ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>
+[[Lookup/CC/initials/聲 清]]

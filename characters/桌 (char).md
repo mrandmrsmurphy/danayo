@@ -37,3 +37,4 @@ tags:
 ```
 # Notes
 Don't follow Japan's and Korea's conflation of this <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> with the highly similar character [[卓]]/excellent!
+[[Lookup/CC/initials/聲 端]]

@@ -45,3 +45,4 @@ tags:
 ## Words
 - <ruby>[支那](/words/支那.md)<rt>ㄐㄝㄋㄚ</rt></ruby> - Zhina
 - 
+[[Lookup/CC/initials/聲 泥]]

@@ -39,5 +39,4 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*bɯːŋ, \*brɯːŋ, \*brɯːŋ): semantic [木](Radical%20075) (“tree”) + phonetic [朋](朋.md) (OC \*bɯːŋ)
-
-
+[[Lookup/CC/initials/聲 並]]

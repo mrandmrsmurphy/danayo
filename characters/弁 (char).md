@@ -44,3 +44,4 @@ tags:
 
 # Notes
 1180
+[[Lookup/CC/initials/聲 並]]

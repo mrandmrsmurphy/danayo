@@ -44,3 +44,4 @@ tags:
 
 # Notes
 needed dib
+[[Lookup/CC/initials/聲 定]]

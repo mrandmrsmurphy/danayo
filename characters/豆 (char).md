@@ -44,3 +44,4 @@ tags:
   
 ### Derived characters
 - <ruby>[頭 (char)](/characters/頭%20(char).md)<rt>ㄊㄛㄨ</rt></ruby>
+[[Lookup/CC/initials/聲 定]]

@@ -43,3 +43,4 @@ tags:
 
 ## Chengyu
 - [[色即是空]]
+[[Lookup/CC/initials/聲 禪]]

@@ -42,3 +42,4 @@ tags:
 
 # Notes
 needed pim
+[[Lookup/CC/initials/聲 並]]

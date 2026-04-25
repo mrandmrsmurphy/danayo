@@ -47,3 +47,4 @@ tags:
 
 ## Chengyu
 - [[単刀直入]]
+[[Lookup/CC/initials/聲 日]]

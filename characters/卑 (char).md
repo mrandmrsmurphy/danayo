@@ -42,3 +42,4 @@ tags:
 
 Descendants 
 - 稗
+[[Lookup/CC/initials/聲 幫]]

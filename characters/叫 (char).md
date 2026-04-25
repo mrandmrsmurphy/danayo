@@ -52,3 +52,4 @@ LIST FROM "words"
 WHERE contains(characters, this.file.name)
 SORT file.name
 ```
+[[Lookup/CC/initials/聲 見]]

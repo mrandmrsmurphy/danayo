@@ -47,3 +47,4 @@ tags:
 - [[所有]]
 - [[所以]]
 - 
+[[Lookup/CC/initials/聲 生]]

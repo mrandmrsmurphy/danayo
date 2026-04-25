@@ -39,3 +39,4 @@ tags:
 Pronunciation altered to allow solo use
 * [[../words/披歴]] to state one's opinion
 * [[披露]] to announce/display
+[[Lookup/CC/initials/聲 滂]]

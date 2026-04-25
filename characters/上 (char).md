@@ -47,3 +47,4 @@ tags:
 
 ## Words
 - [[上述]] The aforementioned
+[[Lookup/CC/initials/聲 禪]]

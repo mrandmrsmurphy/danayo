@@ -52,3 +52,4 @@ tags:
 * [[軽罪]] misdemeanor
 * [[軽視]] distain
 * [[軽重]] light and heavy
+[[Lookup/CC/initials/聲 溪]]

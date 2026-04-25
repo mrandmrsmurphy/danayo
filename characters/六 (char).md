@@ -48,7 +48,7 @@ tags:
 - [[words/六十]] sixty
 #### Data check
 ```dataview
-table 韓文, english
+table 諺文, english
 from "words"
 where contains(characters, this.file.name)
 sort file.name
@@ -56,3 +56,4 @@ sort file.name
 ## Notes
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 來]]

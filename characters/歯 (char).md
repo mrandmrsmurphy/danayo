@@ -42,3 +42,4 @@ tags:
 ## Notes
 - Ironically, even though this is a simplification of 齒, it is listed under [Radical 077](lookup/Radicals/Radical%20077.md)!
 - [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄑㄧ](syllables/ㄑㄧ.md)
+[[Lookup/CC/initials/聲 昌]]

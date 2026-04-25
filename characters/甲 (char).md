@@ -45,3 +45,4 @@ tags:
 ## Definition
 1. armor
 2. first heavenly stem (see [[Astronomy]])
+[[Lookup/CC/initials/聲 見]]

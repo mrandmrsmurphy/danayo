@@ -49,3 +49,4 @@ tags:
 
 ## Chengyu
 - [[空前絶後]]
+[[Lookup/CC/initials/聲 溪]]

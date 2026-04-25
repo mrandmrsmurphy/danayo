@@ -44,3 +44,4 @@ tags:
 
 # Notes
 Pronunciation from K
+[[Lookup/CC/initials/聲 曉]]

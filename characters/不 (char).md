@@ -73,3 +73,4 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 - <ruby>[欲求不満](/chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety
 - <ruby>[百聞不如一見](/chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> - one look is worth a thousand tellings
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby>
+[[Lookup/CC/initials/聲 幫]]

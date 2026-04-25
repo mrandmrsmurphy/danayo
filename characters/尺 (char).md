@@ -54,3 +54,4 @@ tags:
 ## Words
 - <ruby>[尺蒦](/words/尺蒦.md)<rt>ㄑㄝㄎㄏㆼㄎ</rt></ruby> "inchworm"
 - <ruby>[公尺](/words/公尺.md)<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
+[[Lookup/CC/initials/聲 昌]]

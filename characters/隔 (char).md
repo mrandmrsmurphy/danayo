@@ -42,3 +42,4 @@ tags:
 ## Words
 - <ruby>[間隔](/words/間隔.md)<rt>ㄍㄚㄋㄍㄚㄎ</rt></ruby>
 - [[words/隔]]
+[[Lookup/CC/initials/聲 見]]

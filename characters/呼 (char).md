@@ -57,3 +57,4 @@ FROM "words"
 WHERE contains(characters, "呼")
 SORT file.name ASC
 ```
+[[Lookup/CC/initials/聲 曉]]

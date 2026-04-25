@@ -45,3 +45,4 @@ tags:
 
 ## Words
 - [[広範]] for 廣泛 , 广泛, 廣範 , 広汎
+[[Lookup/CC/initials/聲 見]]

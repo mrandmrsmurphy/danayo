@@ -39,3 +39,4 @@ tags:
 [[nav/char_info]]
 ```
 This is used as the anti-forgery of [[七 (char)]]
+[[Lookup/CC/initials/聲 清]]

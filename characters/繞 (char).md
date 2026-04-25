@@ -41,3 +41,4 @@ tags:
 ```
 ## Notes
 - [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md)) - [ㄋㄛㄨ](syllables/ㄋㄛㄨ.md)
+[[Lookup/CC/initials/聲 日]]

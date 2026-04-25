@@ -47,3 +47,4 @@ tags:
 - 形声 (OC \*l̥ʰaːl, \*ɦljaːl, \*lal): semantic [虫](Radical%20142) + phonetic **它** (OC \*l̥ʰaːl). 它 was also the original pictographic form of this character.  Therefore
 	- Pictogram (象形): a snake. This is now written as the derivative 蛇 (OC *l̥ʰaːl, *ɦljaːl, *lal).
 - We also fold in 鮀 (catfish) into this character
+[[Lookup/CC/initials/聲 透]]

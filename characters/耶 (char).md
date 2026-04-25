@@ -41,3 +41,4 @@ tags:
 ### Derived Characters
 -  <ruby>[爺](/characters/爺.md)<rt>⼘</rt></ruby> - grandpa
 - <ruby>[椰](/characters/椰.md)<rt>⼘</rt></ruby> - coconut
+[[Lookup/CC/initials/聲 以]]

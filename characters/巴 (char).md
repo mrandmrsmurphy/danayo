@@ -42,3 +42,4 @@ tags:
 
 # Notes
 - Descendants: [[把]]
+[[Lookup/CC/initials/聲 幫]]

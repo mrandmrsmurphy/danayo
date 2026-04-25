@@ -45,3 +45,4 @@ tags:
 并=C#652
 ### Derived Characters
 - 碰 is forbidden
+[[Lookup/CC/initials/聲 並]]

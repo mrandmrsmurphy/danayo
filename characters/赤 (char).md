@@ -50,3 +50,4 @@ tags:
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 2](../lookup/Grade%202.md)
 ## Words
 - [[赤道]]
+[[Lookup/CC/initials/聲 昌]]

@@ -42,3 +42,4 @@ tags:
 # Notes
 - 形声 (OC \*praːɡ): semantic [木](Radical%20075) (“tree”) + phonetic [白 (char)](characters/白%20(char).md) (OC \*braːɡ).
 - 栢 was dropped from the Korean HS list in 2000.
+[[Lookup/CC/initials/聲 幫]]

@@ -53,3 +53,4 @@ kwin: true
 - [[愛護]]
 ## Chengyu
 - [[愛偕者神]]
+[[Lookup/CC/initials/聲 影]]

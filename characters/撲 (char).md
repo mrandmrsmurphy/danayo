@@ -41,3 +41,4 @@ tags:
 ```
 
 # Notes
+[[Lookup/CC/initials/聲 滂]]

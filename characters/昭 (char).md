@@ -48,3 +48,4 @@ tags:
 - 班昭 - Ban Zhao 45-116
 - 孝昭王 - Hyoso of Shilla 687-702
 - [[words/昭和]] - Shōwa
+[[Lookup/CC/initials/聲 章]]

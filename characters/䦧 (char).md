@@ -32,3 +32,4 @@ tags:
   - character
 ---
 ## Notes
+[[Lookup/CC/initials/聲 曉]]

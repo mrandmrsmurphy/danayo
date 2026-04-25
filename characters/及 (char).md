@@ -54,3 +54,4 @@ tags:
 - [[波及]]
 - [[白及]] - baiji
 - [[普及]] diffuse
+[[Lookup/CC/initials/聲 群]]

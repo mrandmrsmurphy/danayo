@@ -57,3 +57,4 @@ tags:
 
 ## Words
 - <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> mood
+[[Lookup/CC/initials/聲 奉]]

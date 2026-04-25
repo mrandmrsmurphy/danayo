@@ -45,3 +45,4 @@ tags:
 
 ## Etymology
 [[糸]] + [[氏]]
+[[Lookup/CC/initials/聲 章]]

@@ -51,3 +51,4 @@ tags:
 
 ## Words
 - [[他鄉]]
+[[Lookup/CC/initials/聲 透]]

@@ -42,3 +42,4 @@ tags:
 
 ## Words
 - [[理屈]]
+[[Lookup/CC/initials/聲 見]]

@@ -42,3 +42,4 @@ tags:
 
 ## Chengyu
 - <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍㆼㄋ·ㄛㄌㄧ</rt></ruby>
+[[Lookup/CC/initials/聲 影]]

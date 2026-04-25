@@ -43,3 +43,4 @@ tags:
 ```
 ## Notes
 - Pronunciation altered to get a free syllable
+[[Lookup/CC/initials/聲 昌]]

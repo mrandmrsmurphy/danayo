@@ -46,3 +46,4 @@ tags:
 - Descendants: 
 	- [誹](characters/誹.md)
 	- [排 (char)](characters/排%20(char).md)
+[[Lookup/CC/initials/聲 非]]

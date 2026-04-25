@@ -44,3 +44,4 @@ tags:
 
 # Notes
 - Most language have this as "pV" and only Japanese routinely has the final -k.  However, to keep it in-line with other 
+[[Lookup/CC/initials/聲 敷]]

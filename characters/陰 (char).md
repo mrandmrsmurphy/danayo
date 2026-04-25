@@ -51,3 +51,4 @@ tags:
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[陰性](/words/陰性.md)<rt>ㄧㄇㄙㄧㄫ</rt></ruby> - negativity, feminine gender
+[[Lookup/CC/initials/聲 影]]

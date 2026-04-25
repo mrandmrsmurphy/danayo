@@ -43,3 +43,4 @@ tags:
 
 # Notes
 don't use 對答
+[[Lookup/CC/initials/聲 端]]

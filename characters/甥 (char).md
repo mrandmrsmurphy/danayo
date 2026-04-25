@@ -42,3 +42,4 @@ tags:
 ## Notes
 - Phono-semantic: [生](Radical%20100) + [男](男.md)
 - K dictionaries list the meaning as 甥姪
+[[Lookup/CC/initials/聲 生]]

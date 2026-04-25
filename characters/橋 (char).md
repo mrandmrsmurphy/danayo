@@ -43,3 +43,4 @@ tags:
 
 # Notes
 [[木 (char)]] + [[喬]]
+[[Lookup/CC/initials/聲 群]]

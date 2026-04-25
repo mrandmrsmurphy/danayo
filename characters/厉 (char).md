@@ -54,3 +54,4 @@ tags:
 ### 借代字
 - 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[words/牡厉]]
 - "leprosy", hence --> [[words/厉病]] (and 厉人 for 'leper')
+[[Lookup/CC/initials/聲 來]]

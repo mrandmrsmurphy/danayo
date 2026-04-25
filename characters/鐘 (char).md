@@ -40,3 +40,4 @@ tags:
 
 # Notes
 鍾???
+[[Lookup/CC/initials/聲 章]]

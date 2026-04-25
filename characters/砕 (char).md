@@ -40,3 +40,4 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*suːds): semantic [石](Radical%20112) (“stone”) + phonetic [卒](卒.md) (OC \*ʔsuːd, \*sʰuːd, \*ʔsud).
+[[Lookup/CC/initials/聲 心]]

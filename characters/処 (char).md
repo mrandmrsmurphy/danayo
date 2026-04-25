@@ -43,3 +43,4 @@ tags:
 
 ## Words
 - <ruby>[一処](/words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby> "together"
+[[Lookup/CC/initials/聲 昌]]

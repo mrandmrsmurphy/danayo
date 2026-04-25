@@ -40,3 +40,4 @@ tags:
 # Notes
 1. or again
 2. also
+[[Lookup/CC/initials/聲 云]]

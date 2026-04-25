@@ -50,3 +50,4 @@ tags:
 - In Japan, it is a Grade 5 character
 
 [[因果報応]]
+[[Lookup/CC/initials/聲 影]]

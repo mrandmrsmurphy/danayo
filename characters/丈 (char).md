@@ -54,4 +54,4 @@ tags:
 	2. <ruby>[丈人](/words/丈人.md)<rt>ㄐㄚㄫㄋㄧㄋ</rt></ruby> - father in law
 	3. <ruby>[丈母](/words/丈母.md)<rt>ㄐㄚㄫㄇㄛㄨ</rt></ruby> - mother in law
 	4. <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby> - father's sister's husband
-
+[[Lookup/CC/initials/聲 澄]]

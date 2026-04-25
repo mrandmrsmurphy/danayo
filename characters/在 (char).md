@@ -41,3 +41,4 @@ tags:
 
 ## Words
 - <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby> - present, now
+[[Lookup/CC/initials/聲 從]]

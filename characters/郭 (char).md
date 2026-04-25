@@ -40,3 +40,4 @@ tags:
 ## Notes
 - [[郭清]]
 - [[輪郭]]
+[[Lookup/CC/initials/聲 見]]

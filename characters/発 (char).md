@@ -57,3 +57,4 @@ tags:
 - [[発財]] make a fortune
 - [[発電]] generate power
 - [[発音]] pronounce
+[[Lookup/CC/initials/聲 非]]

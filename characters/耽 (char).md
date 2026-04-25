@@ -42,3 +42,4 @@ tags:
 - [[眈眈]] glaring covetously 
 ## Chengyu
 - [[虎視耽耽]]
+[[Lookup/CC/initials/聲 端]]

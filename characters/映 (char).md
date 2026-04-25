@@ -44,3 +44,4 @@ tags:
 - 形声: OC \*qaːŋʔ, \*qraŋs): semantic [日](Radical%20072) (“sun”) + phonetic [央](characters/央.md) (OC \*qaŋ).
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md), HSK 4, [Grade 6](lookup/Grade%206.md)
 - [[SKIP-1-4-5]] = [Stroke 09](lookup/Stroke/Stroke%2009.md) ([[⼶ㄫ]])
+[[Lookup/CC/initials/聲 影]]

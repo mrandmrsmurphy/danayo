@@ -99,3 +99,4 @@ tags:
 ## Chengyu
 - <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
 - [[造人像形]]
+[[Lookup/CC/initials/聲 日]]

@@ -67,3 +67,4 @@ tags:
 * <ruby>[[words/四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> - rounding
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 疑]]

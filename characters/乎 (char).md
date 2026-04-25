@@ -46,3 +46,4 @@ tags:
 
 ## Words
 - To make rhetorical questions, use [[不亦V乎]]
+[[Lookup/CC/initials/聲 匣]]

@@ -57,3 +57,4 @@ tags:
 - [[閏日]] "leap day"
 - [[閏秒]] "leap second"
 - [[置閏]] "intercalation"
+[[Lookup/CC/initials/聲 日]]

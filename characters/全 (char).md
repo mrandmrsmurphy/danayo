@@ -46,3 +46,4 @@ tags:
 - 銓 --> 選
 - [[詮]]
 - [栓 (char)](characters/栓%20(char).md)
+[[Lookup/CC/initials/聲 從]]

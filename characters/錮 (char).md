@@ -44,3 +44,4 @@ tags:
 - [金](Radical%20167) + [[固]]
 - [[../words/禁錮]] to imprison, to shackle
 - Japanese [[Jōyō - Kōtō]] level character
+[[Lookup/CC/initials/聲 見]]

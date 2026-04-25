@@ -55,3 +55,4 @@ tags:
 - [[陣地]] - military position
 - [[墓地]] - cemetery
 - [[地震]] - earthquake
+[[Lookup/CC/initials/聲 定]]

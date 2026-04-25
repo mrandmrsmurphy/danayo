@@ -42,3 +42,4 @@ tags:
 
 # Notes
 Pronunciation collision
+[[Lookup/CC/initials/聲 端]]

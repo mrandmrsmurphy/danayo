@@ -49,3 +49,4 @@ tags:
 - [[今朝安]]
 - [[古今]]
 - 
+[[Lookup/CC/initials/聲 見]]

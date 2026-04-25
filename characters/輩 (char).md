@@ -37,3 +37,4 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+[[Lookup/CC/initials/聲 幫]]

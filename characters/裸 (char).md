@@ -42,3 +42,4 @@ tags:
 
 # Notes
 The Chinese have  赤裸, but that is not international.
+[[Lookup/CC/initials/聲 來]]

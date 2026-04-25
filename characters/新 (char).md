@@ -48,3 +48,4 @@ tags:
 - <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> - New Year
 - <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> - neologism
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> - Singapore
+[[Lookup/CC/initials/聲 心]]

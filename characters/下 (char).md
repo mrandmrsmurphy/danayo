@@ -66,3 +66,4 @@ Originally an 指事/ideogram, a picture of "down".  It used be a line under ano
 ## Info
 - [[Grade 1]], [[lookup/HSK/HSK Beginner]], [[Jōyō - Kyōiku]], [[Korean MS]]
 - [[Radical 001]] ([[SKIP-4-3-1]], [[Stroke 03]])
+[[Lookup/CC/initials/聲 匣]]

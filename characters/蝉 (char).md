@@ -46,3 +46,4 @@ tags:
 - [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md), HSK 4, [Grade Name](lookup/Grade%20Name.md)
 
 - [[寒蝉]] winter cicadas
+[[Lookup/CC/initials/聲 船]]

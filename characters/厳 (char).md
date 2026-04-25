@@ -46,3 +46,4 @@ tags:
 ```
 ## Notes
 - [[厳然]] not 儼然
+[[Lookup/CC/initials/聲 疑]]

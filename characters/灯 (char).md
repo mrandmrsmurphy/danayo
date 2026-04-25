@@ -42,3 +42,4 @@ tags:
 
 # Notes
 I'm shocked its not old
+[[Lookup/CC/initials/聲 端]]

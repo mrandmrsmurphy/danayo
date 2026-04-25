@@ -39,3 +39,4 @@ tags:
 ```
 ## Notes
 - should this be nyang?
+[[Lookup/CC/initials/聲 娘]]

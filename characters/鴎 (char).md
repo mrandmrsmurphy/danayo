@@ -42,3 +42,4 @@ tags:
 ## Notes
 - Dropped from the Korean HS list in 2000.
 - [[ㄛㄨ]]
+[[Lookup/CC/initials/聲 影]]

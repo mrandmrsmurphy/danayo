@@ -41,3 +41,4 @@ tags:
 ```
 ## Notes
 - [ㄏㄧ](syllables/ㄏㄧ.md)
+[[Lookup/CC/initials/聲 曉]]

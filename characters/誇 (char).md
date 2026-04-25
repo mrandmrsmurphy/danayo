@@ -44,3 +44,4 @@ tags:
 ## Notes
 - [[Radical 149|言]] + 夸 = [[SKIP-1-7-6]] ([[Stroke 13]])
 - [[Jōyō - Kōtō|Japanese HS]], [[Korean HS]], HSK 4, [[Grade 6]]
+[[Lookup/CC/initials/聲 溪]]

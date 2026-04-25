@@ -42,3 +42,4 @@ tags:
 
 ## Words
 - <ruby>[希有](/words/希有.md)<rt>ㄏㄧㄜ·⼜</rt></ruby> - rare
+[[Lookup/CC/initials/聲 云]]

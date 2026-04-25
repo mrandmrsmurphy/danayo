@@ -48,3 +48,4 @@ tags:
 
 # Notes
 - used for 漿 - "thick fluid"
+[[Lookup/CC/initials/聲 精]]

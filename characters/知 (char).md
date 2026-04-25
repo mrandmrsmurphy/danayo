@@ -51,3 +51,4 @@ tags:
 - [[通知]]
 - [[報知]]
 - 
+[[Lookup/CC/initials/聲 知]]

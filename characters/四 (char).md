@@ -57,3 +57,4 @@ tags:
 - [[四面楚歌]]
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 心]]

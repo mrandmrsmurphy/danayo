@@ -51,3 +51,4 @@ tags:
 
 ## Chengyu
 - <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨㄛㄏㆼ·⼘</rt></ruby> - cloud by day, fire by night
+[[Lookup/CC/initials/聲 云]]

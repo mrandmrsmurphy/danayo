@@ -55,3 +55,4 @@ tags:
 * [[魚叉]] harpoon
 * [[叉勺]] spork
 * [[交叉]] - intersection ("fork in the road"!)
+[[Lookup/CC/initials/聲 初]]

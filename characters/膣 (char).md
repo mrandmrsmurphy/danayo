@@ -48,3 +48,4 @@ tags:
 
 ## Words
 - [[臭膣]] - bitch
+[[Lookup/CC/initials/聲 知]]

@@ -40,3 +40,4 @@ tags:
 ```
 ## Notes
 - pronunciation altered to final -m for a unique syllable
+[[Lookup/CC/initials/聲 奉]]

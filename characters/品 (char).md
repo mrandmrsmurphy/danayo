@@ -41,3 +41,4 @@ tags:
 
 ## Notes
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
+[[Lookup/CC/initials/聲 滂]]

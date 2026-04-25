@@ -47,3 +47,4 @@ tags:
 
 ## Chengyu
 - [[朽木粪墙]]
+[[Lookup/CC/initials/聲 明]]

@@ -52,3 +52,4 @@ tags:
 - [[孔明]]
 ## Chengyu
 - <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby>
+[[Lookup/CC/initials/聲 明]]

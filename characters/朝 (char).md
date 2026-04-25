@@ -42,3 +42,4 @@ tags:
 
 ## Notes
 - [[卓|龺]] + [[Radical 074|月]]
+[[Lookup/CC/initials/聲 澄]]

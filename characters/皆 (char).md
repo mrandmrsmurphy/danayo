@@ -43,3 +43,4 @@ tags:
 - [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md)) - [ㄍ⼶](../syllables/ㄍ⼶.md)
 - 68th most used character in Classical Chinese
 - [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Grade 1](../lookup/Grade%201.md)
+[[Lookup/CC/initials/聲 見]]

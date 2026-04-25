@@ -41,3 +41,4 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+[[Lookup/CC/initials/聲 泥]]

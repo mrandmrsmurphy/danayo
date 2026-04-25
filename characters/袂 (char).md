@@ -41,3 +41,4 @@ tags:
 ## Notes
 - Korean Name ㅋ, 
 - [衤](Radical%20145) + [[夬
+[[Lookup/CC/initials/聲 明]]

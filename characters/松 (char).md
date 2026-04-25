@@ -41,3 +41,4 @@ tags:
 - 形声 (OC \*sɢloŋ): semantic [木](Radical%20075) (“wood”) + phonetic [公 (char)](公%20(char).md) (OC \*kloːŋ).
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md)) - [ㄙ⼄ㄫ](../syllables/ㄙ⼄ㄫ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Grade 2](../lookup/Grade%202.md)
+[[Lookup/CC/initials/聲 邪]]

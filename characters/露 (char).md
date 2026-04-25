@@ -42,3 +42,4 @@ tags:
 - [SKIP-2-8-3](../lookup/SKIP/SKIP-2/SKIP-2-8-3.md) ([Stroke 21](../lookup/Stroke/Stroke%2021.md))
 - [Korean MS](../lookup/Korean/Korean%20MS.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Grade 3](../lookup/Grade%203.md)
 - 1123rd most common characters in Classical Chinese.  [[聲 來|Initial L]] + [[韻 模|Final uo]]
+[[Lookup/CC/initials/聲 來]]

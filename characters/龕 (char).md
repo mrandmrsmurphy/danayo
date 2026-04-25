@@ -31,4 +31,4 @@ tags:
 >For the word, see [龕](words/龕.md)
 
 # Notes
-
+[[Lookup/CC/initials/聲 溪]]

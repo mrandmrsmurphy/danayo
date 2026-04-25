@@ -47,3 +47,4 @@ tags:
 - [[禁]]
 ## Words
 - [[words/林雨]] (霖雨) long spell of rain, favor from the monarch
+[[Lookup/CC/initials/聲 來]]

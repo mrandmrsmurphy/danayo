@@ -45,3 +45,4 @@ tags:
 - [[鮮少]]
 - [[更少]]
 - 
+[[Lookup/CC/initials/聲 書]]

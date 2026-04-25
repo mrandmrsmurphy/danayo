@@ -38,3 +38,4 @@ tags:
 ```
 ## Notes
 - [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([[Stroke 12]]) - [ㄙ⼄](syllables/ㄙ⼄.md)
+[[Lookup/CC/initials/聲 書]]

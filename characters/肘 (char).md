@@ -40,3 +40,4 @@ tags:
 
 # Notes
 um, what?
+[[Lookup/CC/initials/聲 知]]

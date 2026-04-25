@@ -49,3 +49,4 @@ tags:
 ## Word
 - [[経験]] "experience"
 - [[試験]] "test, examine"
+[[Lookup/CC/initials/聲 疑]]

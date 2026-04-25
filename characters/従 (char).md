@@ -57,3 +57,4 @@ tags:
 - 服従
 - 盲従
 - 
+[[Lookup/CC/initials/聲 從]]

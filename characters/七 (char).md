@@ -63,7 +63,7 @@ tags:
 * <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> - heptagon
 #### Check
 ```dataview
-table 韓文, english
+table 諺文, english
 from "words"
 where contains(characters, this.file.name)
 sort file.name
@@ -74,3 +74,4 @@ Pictogram ([List of 象形](lookup/List%20of%20象形.md)) – a vertical stroke
 - 七 + 口 = <ruby>[[叱]]<rt>ㄑㄧㄊ</rt></ruby>
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 清]]

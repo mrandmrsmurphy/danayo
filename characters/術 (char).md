@@ -42,3 +42,4 @@ tags:
 
 ## Words
 - <ruby>[巫術](/words/巫術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby> - shamanism
+[[Lookup/CC/initials/聲 禪]]

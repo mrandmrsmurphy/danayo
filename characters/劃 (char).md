@@ -41,3 +41,4 @@ tags:
 ```
 ## Notes
 - In Japanese, this character is sometimes replaced with 画 (daiyōji).
+[[Lookup/CC/initials/聲 曉]]

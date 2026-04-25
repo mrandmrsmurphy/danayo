@@ -46,3 +46,4 @@ tags:
 ```
 ## Notes
 - [[Radical 205]] is part of it
+[[Lookup/CC/initials/聲 禪]]

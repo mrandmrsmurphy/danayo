@@ -41,3 +41,4 @@ tags:
 
 ## Words
 - <ruby>[用言](/words/用言.md)<rt>⼄ㄫ·ㄝㄋ</rt></ruby> - declinable word
+[[Lookup/CC/initials/聲 疑]]

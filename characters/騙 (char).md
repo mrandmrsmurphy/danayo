@@ -42,3 +42,4 @@ tags:
 
 # Notes
 sound
+[[Lookup/CC/initials/聲 滂]]

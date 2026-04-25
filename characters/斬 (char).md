@@ -47,3 +47,4 @@ tags:
 
 ## Words
 - [[斬壕]] - 塹壕
+[[Lookup/CC/initials/聲 莊]]

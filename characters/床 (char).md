@@ -42,3 +42,4 @@ tags:
 
 # Notes
 Pronunciation changed
+[[Lookup/CC/initials/聲 崇]]

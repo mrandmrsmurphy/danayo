@@ -51,3 +51,4 @@ tags:
 - alone, it is only a postposition
 - for "direction", use [[方向]]
 - for "lean, incline" (verbal) use [[傾向]]
+[[Lookup/CC/initials/聲 曉]]

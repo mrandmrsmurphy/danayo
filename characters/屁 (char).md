@@ -39,3 +39,4 @@ tags:
 
 # Notes
 too rude
+[[Lookup/CC/initials/聲 滂]]

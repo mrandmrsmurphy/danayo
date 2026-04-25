@@ -43,3 +43,4 @@ tags:
 ```
 ## Notes
 - Ideogrammic compound ([List of 会意](../lookup/List%20of%20会意.md)) (OC \*kʰraŋ): semantic 𠨍 (“two men facing each other”) + phonetic 皀 (OC \*pqrɯɡ, \*pqrɯb, \*krɯb, \*qʰaŋ, “food vessel with a stand”) – people engaged in ritual feasting (Yang, 1965). The character was once indistinguishable from 鄉 (OC \*qʰaŋ); [𠂎](Radical%20026) + [即 (char)](即%20(char).md)
+[[Lookup/CC/initials/聲 溪]]

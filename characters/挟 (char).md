@@ -43,3 +43,4 @@ tags:
 ## Words
 - [[挟攻]]
 - [[挟撃]]
+[[Lookup/CC/initials/聲 匣]]

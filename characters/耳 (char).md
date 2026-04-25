@@ -40,3 +40,4 @@ tags:
 ```
 ## Notes
 - <ruby>[巻耳](/words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>
+[[Lookup/CC/initials/聲 日]]

@@ -41,3 +41,4 @@ tags:
 
 ## Words
 - [[憤慨]] - resent
+[[Lookup/CC/initials/聲 溪]]

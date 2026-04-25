@@ -45,3 +45,4 @@ tags:
 ```
 ## Notes
 [[潜伏]] - hide, conceal
+[[Lookup/CC/initials/聲 奉]]

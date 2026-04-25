@@ -43,3 +43,4 @@ tags:
 - [[短音]]
 
 - 
+[[Lookup/CC/initials/聲 端]]

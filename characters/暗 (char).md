@@ -39,3 +39,4 @@ tags:
 ```
 ## Notes
 - [[暗中]]
+[[Lookup/CC/initials/聲 影]]

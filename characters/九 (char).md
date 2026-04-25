@@ -64,3 +64,4 @@ tags:
 
 ### Links
 ![[nav/Numerals]]
+[[Lookup/CC/initials/聲 見]]

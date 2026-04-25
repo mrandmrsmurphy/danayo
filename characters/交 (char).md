@@ -69,3 +69,4 @@ tags:
 
 ## Chengyu
 - [[遠交近攻]]
+[[Lookup/CC/initials/聲 見]]

@@ -47,3 +47,4 @@ tags:
 # Notes
 - Use this instead of the more Mandarin [[叛]].
 - 辶 + 屰
+[[Lookup/CC/initials/聲 疑]]

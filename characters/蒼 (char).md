@@ -41,3 +41,4 @@ tags:
 ```
 ## Notes
 - 滄 was dropped from the Korean HS list in 2000.
+[[Lookup/CC/initials/聲 清]]

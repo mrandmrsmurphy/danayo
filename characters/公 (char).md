@@ -48,3 +48,4 @@ tags:
 
 ## Words
 - [[公平]]
+[[Lookup/CC/initials/聲 見]]

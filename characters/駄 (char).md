@@ -44,3 +44,4 @@ tags:
 
 # Notes
 WTF Shinjitai?
+[[Lookup/CC/initials/聲 定]]

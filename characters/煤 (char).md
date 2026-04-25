@@ -42,3 +42,4 @@ tags:
 # Notes
 - [[Radical 086|火]] + [[某 (char)]] = [[SKIP-1-4-9]] ([[Stroke 13]]) 
 - [[Jinmeiyō]], [[Korean Name ㅁ]], HSK 2, [[Grade Advanced]]
+[[Lookup/CC/initials/聲 明]]

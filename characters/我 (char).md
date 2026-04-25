@@ -55,3 +55,4 @@ tags:
 - A 會意, but what are the components?  Folk etymologies consider it a hand (手) holding a weapon (戈).  In all likelihood, the pieces are lost. [[ㄚ]]
 - [[lookup/HSK/HSK Beginner]], [[Korean MS]], [[Jōyō - Kyōiku]], [[Grade 2]]
 - [[Swadesh]] word #1
+[[Lookup/CC/initials/聲 疑]]

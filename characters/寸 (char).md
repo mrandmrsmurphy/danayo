@@ -40,3 +40,4 @@ tags:
 ```
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): a line on the hand, emphasizing the elbow.
+[[Lookup/CC/initials/聲 清]]

@@ -44,3 +44,4 @@ tags:
 ## Notes
 ### 借代字
 - 鷲 "eagle", hence 鷲鳥 -> [[就鳥]]
+[[Lookup/CC/initials/聲 從]]

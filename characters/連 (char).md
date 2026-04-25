@@ -52,3 +52,4 @@ tags:
 	- [[国連]] not 國聯
 	- [[連邦]] not 聯邦
 	- [[蘇連]] not [[蘇連]]
+[[Lookup/CC/initials/聲 來]]

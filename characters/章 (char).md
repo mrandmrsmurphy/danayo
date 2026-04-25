@@ -46,3 +46,4 @@ tags:
 ## Words
 - [[徽章]]/記章
 - by loan, "octopus" but needs [[章魚]]
+[[Lookup/CC/initials/聲 章]]

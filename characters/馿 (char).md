@@ -38,3 +38,4 @@ tags:
 ```
 ## Notes
 - 形声 (OC \*b·ra): semantic [馬](Radical%20187) (“horse”) + phonetic [户](characters/戸.md) (OC \*b·raː).
+[[Lookup/CC/initials/聲 來]]

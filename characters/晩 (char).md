@@ -50,3 +50,4 @@ tags:
 - <ruby>[晩餐](/words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby> - supper
 ## Chengyu
 - <ruby>[大器晩成](/chengyu/大器晩成.md)<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> late bloomer
+[[Lookup/CC/initials/聲 微]]
