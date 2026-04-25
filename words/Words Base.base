@@ -14,6 +14,8 @@ views:
       - english
       - 品詞
     sort:
+      - property: 羅馬字
+        direction: DESC
       - property: english
         direction: ASC
       - property: 品詞
@@ -25,8 +27,6 @@ views:
       - property: japanese
         direction: ASC
       - property: pos
-        direction: ASC
-      - property: 羅馬字
         direction: ASC
       - property: file.name
         direction: ASC
