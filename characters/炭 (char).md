@@ -40,3 +40,4 @@ tags:
 1. coal
 2. abbreviation for <ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby> "carbon"
 [[Lookup/CC/initials/聲 透]]
+[[Lookup/CC/finals/韻 寒]]

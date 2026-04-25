@@ -42,3 +42,4 @@ tags:
 # Notes
 1284
 [[Lookup/CC/initials/聲 並]]
+[[Lookup/CC/finals/韻 祭A三開]]

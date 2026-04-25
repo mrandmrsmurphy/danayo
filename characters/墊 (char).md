@@ -45,3 +45,4 @@ tags:
 # Notes
 needed dib
 [[Lookup/CC/initials/聲 定]]
+[[Lookup/CC/finals/韻 帖]]

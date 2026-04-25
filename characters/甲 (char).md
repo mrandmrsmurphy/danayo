@@ -46,3 +46,4 @@ tags:
 1. armor
 2. first heavenly stem (see [[Astronomy]])
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 狎]]

@@ -63,3 +63,4 @@ Words
 Chengyu
 - [合漢再決](chengyu/合漢再決.md)
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 合]]

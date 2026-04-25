@@ -45,3 +45,4 @@ tags:
 ## Words
 - <ruby>[茂密](/words/茂密.md)<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby>
 [[Lookup/CC/initials/聲 明]]
+[[Lookup/CC/finals/韻 質開]]

@@ -42,3 +42,4 @@ tags:
 - 形声 (OC \*ŋo): semantic [𨸏](Radical%20170) (“mound”) + phonetic [禺](禺.md) (OC \*ŋo, \*ŋos).
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md)) - [ㄨㄛ](../syllables/ㄨㄛ.md)
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 虞]]

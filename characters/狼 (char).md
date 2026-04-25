@@ -42,3 +42,4 @@ tags:
 ## Chengyu
 - [[羊衣餓狼]]
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 唐開]]

@@ -39,3 +39,4 @@ tags:
 ## Notes
 - Originally just 𦣞, meaning it was a 象形 of the chin.  Now therefore a [List of 会意](../lookup/List%20of%20会意.md)) (OC \*lɯ): phonetic [𦣞](Radical%20131) (yí, “chin”) + semantic [頁](Radical%20181) (“head”).
 [[Lookup/CC/initials/聲 以]]
+[[Lookup/CC/finals/韻 之]]

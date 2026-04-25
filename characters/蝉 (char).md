@@ -47,3 +47,4 @@ tags:
 
 - [[寒蝉]] winter cicadas
 [[Lookup/CC/initials/聲 船]]
+[[Lookup/CC/finals/韻 仙A三開]]

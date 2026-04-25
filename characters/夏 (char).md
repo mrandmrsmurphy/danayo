@@ -42,3 +42,4 @@ tags:
 ## Words
 - [[夏至]]
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 麻二開]]

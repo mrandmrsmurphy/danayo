@@ -44,3 +44,4 @@ tags:
 ## Chengyu
 - [[刻舟求剣]]
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 凡]]

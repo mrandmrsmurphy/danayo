@@ -50,3 +50,4 @@ tags:
 - [[経験]] "experience"
 - [[試験]] "test, examine"
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 鹽B三]]

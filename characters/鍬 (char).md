@@ -42,3 +42,4 @@ tags:
 # Notes
 pronunciation is a guess
 [[Lookup/CC/initials/聲 清]]
+[[Lookup/CC/finals/韻 肴]]

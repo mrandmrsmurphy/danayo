@@ -39,3 +39,4 @@ tags:
 ## Notes
 - Not found in Classical Chinese!
 [[Lookup/CC/initials/聲 並]]
+[[Lookup/CC/finals/韻 夬開]]

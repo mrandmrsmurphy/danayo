@@ -45,3 +45,4 @@ tags:
 - [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md), [Grade 6](../lookup/Grade%206.md)
 - 1496th most common character in Classical Chinese: [[聲 匣|Initial ɣ]] + [[韻 鎋合|Final ɣuɛt]]
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 鎋合]]

@@ -39,3 +39,4 @@ tags:
 ## Notes
 - 形声 (OC \*l'aːɡ): semantic [金](Radical%20167) (“metal”) + phonetic [尺 (char)](characters/尺%20(char).md) (OC \*neb, \*laːɡ, \*kuː).
 [[Lookup/CC/initials/聲 定]]
+[[Lookup/CC/finals/韻 鐸開]]

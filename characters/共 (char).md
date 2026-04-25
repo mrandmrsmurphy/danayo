@@ -47,3 +47,4 @@ tags:
 - [[越共]]
 - 
 [[Lookup/CC/initials/聲 群]]
+[[Lookup/CC/finals/韻 鍾]]

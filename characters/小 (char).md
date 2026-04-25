@@ -46,3 +46,4 @@ tags:
 - [[小人]] - petty person
 - [[小冊子]]
 [[Lookup/CC/initials/聲 心]]
+[[Lookup/CC/finals/韻 宵A]]

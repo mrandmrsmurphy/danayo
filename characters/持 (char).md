@@ -44,3 +44,4 @@ tags:
 # Notes
 1310
 [[Lookup/CC/initials/聲 澄]]
+[[Lookup/CC/finals/韻 之]]

@@ -40,3 +40,4 @@ tags:
 
 Japanese coined, but common
 [[Lookup/CC/initials/聲 以]]
+[[Lookup/CC/finals/韻 昔開]]

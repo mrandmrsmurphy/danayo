@@ -48,3 +48,4 @@ tags:
 ## Words
 - [[上述]] The aforementioned
 [[Lookup/CC/initials/聲 禪]]
+[[Lookup/CC/finals/韻 陽開]]

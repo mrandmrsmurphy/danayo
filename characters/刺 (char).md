@@ -47,3 +47,4 @@ tags:
 ## Notes
 - Also pronounced in MC as tsʰiᴇ
 [[Lookup/CC/initials/聲 清]]
+[[Lookup/CC/finals/韻 昔開]]

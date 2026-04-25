@@ -42,3 +42,4 @@ see also [[与 (char)]]
 ## Classical
 In CC, this character mean "and", but could also mean 'your' or 'can', which meanings are not retained.
 [[Lookup/CC/initials/聲 日]]
+[[Lookup/CC/finals/韻 之]]

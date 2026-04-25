@@ -49,3 +49,4 @@ tags:
 
 <ruby>[公明正大](/chengyu/公明正大.md)<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby>
 [[Lookup/CC/initials/聲 章]]
+[[Lookup/CC/finals/韻 清開]]

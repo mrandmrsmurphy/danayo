@@ -43,3 +43,4 @@ tags:
 - [足](/lookup/Radicals/Radical%20157.md) + [危](characters/危.md) = [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) [[ㄎ⼔ㄧ]]
 - Not on HSK, Not in Jōyō, Not even in Korean name list, [Grade Advanced](lookup/Grade%20Advanced.md)
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 支B三合]]

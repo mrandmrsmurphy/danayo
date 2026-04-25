@@ -41,3 +41,4 @@ tags:
 - [[郭清]]
 - [[輪郭]]
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 鐸合]]

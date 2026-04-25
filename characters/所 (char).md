@@ -48,3 +48,4 @@ tags:
 - [[所以]]
 - 
 [[Lookup/CC/initials/聲 生]]
+[[Lookup/CC/finals/韻 魚]]

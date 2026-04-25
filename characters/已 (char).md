@@ -43,3 +43,4 @@ tags:
 - a verbal postposition to indicated the perfective aspect (often comparable to past tense, but not really)
 	- [[矣]] (while not identical) is conflated with this character.
 [[Lookup/CC/initials/聲 以]]
+[[Lookup/CC/finals/韻 之]]

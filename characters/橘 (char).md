@@ -42,3 +42,4 @@ tags:
 - [SKIP-1-4-12](../lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md)) - [ㄍ⼜ㄊ](../syllables/ㄍ⼜ㄊ.md)
 - [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md), [Grade Name](../lookup/Grade%20Name.md)
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 術]]

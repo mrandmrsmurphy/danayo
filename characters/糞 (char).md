@@ -45,3 +45,4 @@ tags:
 ## Chengyu
 - [[朽木糞牆]]
 [[Lookup/CC/initials/聲 非]]
+[[Lookup/CC/finals/韻 文]]

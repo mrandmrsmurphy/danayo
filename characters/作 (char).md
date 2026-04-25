@@ -47,3 +47,4 @@ tags:
 - [[傑作]]
 - [[作業]]
 [[Lookup/CC/initials/聲 精]]
+[[Lookup/CC/finals/韻 鐸開]]

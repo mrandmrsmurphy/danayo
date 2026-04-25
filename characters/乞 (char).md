@@ -42,3 +42,4 @@ tags:
 ## Words
 - <ruby>[乞丐](/words/乞丐.md)<rt>ㄎㄧㄊㄍㄚㄧ</rt></ruby> "beggar"
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 迄]]

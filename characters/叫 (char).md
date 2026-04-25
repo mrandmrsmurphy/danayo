@@ -53,3 +53,4 @@ WHERE contains(characters, this.file.name)
 SORT file.name
 ```
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 蕭]]

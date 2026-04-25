@@ -44,3 +44,4 @@ tags:
 - [[SKIP-1-2-6]] ([[Stroke 08]]) [[ㄍ⼘ㄧ]]
 - [[Korean MS]], [[Jōyō - Kōtō]], [[Grade 3]]
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 佳開]]

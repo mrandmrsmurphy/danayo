@@ -41,3 +41,4 @@ tags:
 # Notes
 Pronunciation is altered
 [[Lookup/CC/initials/聲 昌]]
+[[Lookup/CC/finals/韻 仙A三合]]

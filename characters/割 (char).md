@@ -50,3 +50,4 @@ tags:
 - [[割包皮]] - circumcision
 - [[割引]] - discount
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 曷]]

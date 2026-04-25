@@ -51,3 +51,4 @@ tags:
 ## Chengyu
 - <ruby>[大器晩成](/chengyu/大器晩成.md)<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> late bloomer
 [[Lookup/CC/initials/聲 微]]
+[[Lookup/CC/finals/韻 元合]]

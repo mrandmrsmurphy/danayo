@@ -43,3 +43,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 陽開]]

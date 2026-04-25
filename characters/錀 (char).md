@@ -37,3 +37,4 @@ tags:
 
 - [[../words/錀琴]] roentgens (unit of radiation)
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 諄]]

@@ -64,3 +64,4 @@ tags:
 ### Chengyu
 - <ruby>[千山萬水](/chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby>
 [[Lookup/CC/initials/聲 書]]
+[[Lookup/CC/finals/韻 脂B合]]

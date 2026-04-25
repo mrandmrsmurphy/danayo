@@ -45,3 +45,4 @@ tags:
 - [[../words/禁錮]] to imprison, to shackle
 - Japanese [[Jōyō - Kōtō]] level character
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 模]]

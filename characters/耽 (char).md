@@ -43,3 +43,4 @@ tags:
 ## Chengyu
 - [[虎視耽耽]]
 [[Lookup/CC/initials/聲 端]]
+[[Lookup/CC/finals/韻 覃]]

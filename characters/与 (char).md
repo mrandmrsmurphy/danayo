@@ -46,3 +46,4 @@ tags:
 - [Grade 1](../lookup/Grade%201.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md)
 - [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md), [Stroke 03](../lookup/Stroke/Stroke%2003.md), [⼄](../syllables/⼄.md)
 [[Lookup/CC/initials/聲 以]]
+[[Lookup/CC/finals/韻 魚]]

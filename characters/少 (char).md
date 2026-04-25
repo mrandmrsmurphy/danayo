@@ -46,3 +46,4 @@ tags:
 - [[更少]]
 - 
 [[Lookup/CC/initials/聲 書]]
+[[Lookup/CC/finals/韻 宵A]]

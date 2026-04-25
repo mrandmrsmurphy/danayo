@@ -44,3 +44,4 @@ tags:
 - [[胃酸]]
 - [[胃炎]]
 [[Lookup/CC/initials/聲 云]]
+[[Lookup/CC/finals/韻 微合]]

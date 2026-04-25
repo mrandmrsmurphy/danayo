@@ -49,3 +49,4 @@ tags:
 - [[猶太]]
 - 
 [[Lookup/CC/initials/聲 透]]
+[[Lookup/CC/finals/韻 泰開]]

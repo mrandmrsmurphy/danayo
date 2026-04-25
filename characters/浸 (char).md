@@ -39,3 +39,4 @@ tags:
 ## Notes
 - We do not follow Japanese mix 滲 into this.
 [[Lookup/CC/initials/聲 清]]
+[[Lookup/CC/finals/韻 侵A]]

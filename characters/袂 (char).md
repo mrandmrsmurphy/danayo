@@ -42,3 +42,4 @@ tags:
 - Korean Name ㅋ, 
 - [衤](Radical%20145) + [[夬
 [[Lookup/CC/initials/聲 明]]
+[[Lookup/CC/finals/韻 祭A三開]]

@@ -56,3 +56,4 @@ tags:
 * [[叉勺]] spork
 * [[交叉]] - intersection ("fork in the road"!)
 [[Lookup/CC/initials/聲 初]]
+[[Lookup/CC/finals/韻 佳開]]

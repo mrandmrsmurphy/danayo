@@ -60,3 +60,4 @@ tags:
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 日]]
+[[Lookup/CC/finals/韻 脂A三開]]

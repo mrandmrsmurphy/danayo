@@ -44,3 +44,4 @@ kwin: true
 ## Chengyu
 - [[守株待兎]]
 [[Lookup/CC/initials/聲 透]]
+[[Lookup/CC/finals/韻 模]]

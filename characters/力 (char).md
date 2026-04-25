@@ -58,3 +58,4 @@ tags:
 ## Chengyu
 - [[心性意力]] - "heart, soul, mind, and strength"
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 職開]]

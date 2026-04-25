@@ -41,3 +41,4 @@ tags:
 ## Notes
 - 形声 (OC \*qreːɡ): semantic [[Radical 159|車]] (“chariot”) + phonetic [厄](characters/厄.md) (OC \*qreːɡ, “yoke”). 厄 originally referred to this word; 車 was added to differentiate.
 [[Lookup/CC/initials/聲 影]]
+[[Lookup/CC/finals/韻 麥開]]

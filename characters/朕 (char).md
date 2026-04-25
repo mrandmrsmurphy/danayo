@@ -41,3 +41,4 @@ tags:
 ## Notes
 V pronunciation
 [[Lookup/CC/initials/聲 澄]]
+[[Lookup/CC/finals/韻 侵B]]

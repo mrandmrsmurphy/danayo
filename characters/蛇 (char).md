@@ -48,3 +48,4 @@ tags:
 	- Pictogram (象形): a snake. This is now written as the derivative 蛇 (OC *l̥ʰaːl, *ɦljaːl, *lal).
 - We also fold in 鮀 (catfish) into this character
 [[Lookup/CC/initials/聲 透]]
+[[Lookup/CC/finals/韻 歌]]

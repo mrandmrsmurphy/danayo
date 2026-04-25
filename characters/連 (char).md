@@ -53,3 +53,4 @@ tags:
 	- [[連邦]] not 聯邦
 	- [[蘇連]] not [[蘇連]]
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 仙A三開]]

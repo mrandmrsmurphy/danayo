@@ -43,3 +43,4 @@ tags:
 # Notes
 - [[SKIP-1-1-4]]
 [[Lookup/CC/initials/聲 幫]]
+[[Lookup/CC/finals/韻 質三]]

@@ -62,3 +62,4 @@ tags:
 * [[等待]]
 * 
 [[Lookup/CC/initials/聲 端]]
+[[Lookup/CC/finals/韻 登開]]

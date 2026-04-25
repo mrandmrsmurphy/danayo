@@ -43,3 +43,4 @@ tags:
 ## Words
 - <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎㆼㄊ</rt></ruby> "long period of separation"
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 末]]

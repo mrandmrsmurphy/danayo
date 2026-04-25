@@ -48,3 +48,4 @@ This character is a rare example of Dan'a'yo not following Shinjitai, because �
 * [[陸亀]] - land turtle/tortoise
 * [[草亀]]/草龜 - Dermochelys coriacea
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 尤]]

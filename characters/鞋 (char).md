@@ -42,3 +42,4 @@ tags:
 ## Notes
 -  形声, OC \*ɡreː, \*ɡreː, \*ɡreː): semantic [[Radical 177|革]] (“leather”) + phonetic [[圭]] (OC \*kʷeː) – leather shoes. Originally written as 鞵.
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 佳開]]

@@ -55,3 +55,4 @@ kwin: true
 ## Words
 - [[両親]] - parents
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 陽開]]

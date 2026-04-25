@@ -45,3 +45,4 @@ tags:
 - [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md)) - [ㄏㄨㄧ](syllables/ㄏㄨㄧ.md)
 - [Grade Name](lookup/Grade%20Name.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 微合]]

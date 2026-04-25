@@ -50,3 +50,4 @@ tags:
 ## Chengyu
 - [[空前絶後]]
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 東一]]

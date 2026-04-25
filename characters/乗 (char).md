@@ -67,3 +67,4 @@ tags:
 - [[階乗]] - factorial
 - exponentiation: 累乘/冪乗/指数乗
 [[Lookup/CC/initials/聲 禪]]
+[[Lookup/CC/finals/韻 蒸]]

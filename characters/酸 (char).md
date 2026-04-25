@@ -39,3 +39,4 @@ tags:
 ## Notes
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 心]]
+[[Lookup/CC/finals/韻 桓]]

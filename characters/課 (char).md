@@ -41,3 +41,4 @@ tags:
 ## Notes
 - pronunciation altered to get a free syllable
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 戈一合]]

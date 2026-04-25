@@ -41,3 +41,4 @@ tags:
 ## Notes
 - [List of 会意](../lookup/List%20of%20会意.md): [女](Radical%20038) (“woman”) + [子](子.md) (“child”). 
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 豪]]

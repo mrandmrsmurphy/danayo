@@ -43,3 +43,4 @@ tags:
 ### Derived Characters
 - [[彪]]
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 模]]

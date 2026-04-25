@@ -45,3 +45,4 @@ tags:
 ## Words
 - [[骨格]]
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 鐸開]]

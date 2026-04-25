@@ -56,3 +56,4 @@ tags:
 ## Chengyu
 - <ruby>[糟糠之妻](/chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby>
 [[Lookup/CC/initials/聲 章]]
+[[Lookup/CC/finals/韻 之]]

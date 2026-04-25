@@ -40,3 +40,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 娘]]
+[[Lookup/CC/finals/韻 鹽B三]]

@@ -42,3 +42,4 @@ kwin: true
 
 # Notes
 [[Lookup/CC/initials/聲 昌]]
+[[Lookup/CC/finals/韻 術]]

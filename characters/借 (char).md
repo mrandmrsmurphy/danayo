@@ -43,3 +43,4 @@ tags:
 - 形声: (OC \*ʔsjaːɡs, \*ʔsjaːɡ): semantic [人](Radical%20009) (“person”) + phonetic [昔](characters/昔.md) (OC \*sjaːɡ).
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
 [[Lookup/CC/initials/聲 精]]
+[[Lookup/CC/finals/韻 麻三開]]

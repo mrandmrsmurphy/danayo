@@ -47,3 +47,4 @@ tags:
 ## Chengyu
 - <ruby>[銀盤呈首](/chengyu/銀盤呈首.md)<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> - head on a silver platter
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 眞B開]]

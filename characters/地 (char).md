@@ -56,3 +56,4 @@ tags:
 - [[墓地]] - cemetery
 - [[地震]] - earthquake
 [[Lookup/CC/initials/聲 定]]
+[[Lookup/CC/finals/韻 脂A三開]]

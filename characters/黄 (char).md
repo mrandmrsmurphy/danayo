@@ -45,3 +45,4 @@ tags:
 # Notes
 * Fifth most common Vietnamese surname
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 唐合]]

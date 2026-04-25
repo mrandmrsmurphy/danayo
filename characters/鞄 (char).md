@@ -41,3 +41,4 @@ tags:
 ## Notes
 - 形声, OC \*bruː, \*bruːʔ, \*bruːs, \*pʰruːɡ): semantic [[Radical 177|革]] (“leather”) + phonetic [[鞄 (char)]]包 (OC \*pruː).
 [[Lookup/CC/initials/聲 滂]]
+[[Lookup/CC/finals/韻 覺]]

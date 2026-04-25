@@ -46,3 +46,4 @@ tags:
 ## Etymology
 [[糸]] + [[氏]]
 [[Lookup/CC/initials/聲 章]]
+[[Lookup/CC/finals/韻 支三開]]

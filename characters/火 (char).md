@@ -53,3 +53,4 @@ tags:
 - [[鬼火]]
 - 
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 戈一合]]

@@ -47,3 +47,4 @@ tags:
 ## Chengyu
 - [[勿貪隣物]]
 [[Lookup/CC/initials/聲 微]]
+[[Lookup/CC/finals/韻 物]]

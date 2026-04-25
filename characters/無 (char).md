@@ -64,3 +64,4 @@ tags:
 - [[無効]]
 - 
 [[Lookup/CC/initials/聲 微]]
+[[Lookup/CC/finals/韻 虞]]

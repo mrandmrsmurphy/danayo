@@ -43,3 +43,4 @@ tags:
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 青開]]

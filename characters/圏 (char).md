@@ -40,3 +40,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 群]]
+[[Lookup/CC/finals/韻 仙B三合]]

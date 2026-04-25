@@ -40,3 +40,4 @@ tags:
 ## Notes
 - 形声 (OC \*sɢloŋ, \*sɢloŋs): semantic [言](Radical%20149) (“say”) + phonetic [公](公%20(char).md) (OC \*kloːŋ).
 [[Lookup/CC/initials/聲 邪]]
+[[Lookup/CC/finals/韻 鍾]]

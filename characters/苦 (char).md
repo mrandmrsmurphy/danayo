@@ -51,3 +51,4 @@ tags:
 * [[苦味]] bitter
 * <ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby> - magnesium <ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 模]]

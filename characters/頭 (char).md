@@ -62,3 +62,4 @@ tags:
 - [[頭骨]]
 - [[念頭]]
 [[Lookup/CC/initials/聲 定]]
+[[Lookup/CC/finals/韻 侯]]

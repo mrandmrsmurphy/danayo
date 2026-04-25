@@ -45,3 +45,4 @@ tags:
 ## Chengyu
 - <ruby>[少即是多](/chengyu/少即是多.md)<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>
 [[Lookup/CC/initials/聲 精]]
+[[Lookup/CC/finals/韻 職開]]

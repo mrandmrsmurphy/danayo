@@ -55,3 +55,4 @@ tags:
 - [[白及]] - baiji
 - [[普及]] diffuse
 [[Lookup/CC/initials/聲 群]]
+[[Lookup/CC/finals/韻 緝B三]]

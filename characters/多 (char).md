@@ -41,3 +41,4 @@ tags:
 ### Derived Characters
 - <ruby>[爹](/characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father
 [[Lookup/CC/initials/聲 端]]
+[[Lookup/CC/finals/韻 歌]]

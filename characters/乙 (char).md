@@ -56,3 +56,4 @@ tags:
 - [SKIP-4-1-1](../lookup/SKIP/SKIP-4/SKIP-4-1-1.md) ([Stroke 01](../lookup/Stroke/Stroke%2001.md)) describes a strange character with a horizontal line of 1 stroke.  This is the only character that matches that description.
 - [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 3](../lookup/Grade%203.md)
 [[Lookup/CC/initials/聲 影]]
+[[Lookup/CC/finals/韻 質開]]

@@ -48,3 +48,4 @@ tags:
 - Ideogrammic compound ([List of 会意](lookup/List%20of%20会意.md): 口 + 儿 to convey the idea of giving orders. The original meaning of "elder brother" refers to the fact that the elder brother gives order to the younger brothers and his sisters. Compare 令, in which an open mouth on top of the character conveys the same idea of giving orders. Similar to 欠, in which there is a kneeling man with an open mouth.### Descended characters
 - [[況]]
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 庚三合]]

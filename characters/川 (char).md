@@ -53,3 +53,4 @@ tags:
 - [[江戸川]] Edo river
 - [[四川]] Sichuan
 [[Lookup/CC/initials/聲 昌]]
+[[Lookup/CC/finals/韻 仙A三合]]

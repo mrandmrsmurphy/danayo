@@ -44,3 +44,4 @@ tags:
 ```
 ## Notes
 [[Lookup/CC/initials/聲 生]]
+[[Lookup/CC/finals/韻 支B三開]]

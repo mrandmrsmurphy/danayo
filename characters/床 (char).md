@@ -43,3 +43,4 @@ tags:
 # Notes
 Pronunciation changed
 [[Lookup/CC/initials/聲 崇]]
+[[Lookup/CC/finals/韻 陽開]]

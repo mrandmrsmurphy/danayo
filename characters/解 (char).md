@@ -47,3 +47,4 @@ tags:
 - 
 - beware of [[解廌]] not 獬廌/獬豸
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 佳開]]

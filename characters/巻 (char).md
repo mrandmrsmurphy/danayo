@@ -48,3 +48,4 @@ tags:
 - <ruby>[巻耳](/words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>
 - <ruby>[龍巻](/words/龍巻.md)<rt>ㄌ⼄ㄫㄍ⼔ㄋ</rt></ruby> "twister"
 [[Lookup/CC/initials/聲 群]]
+[[Lookup/CC/finals/韻 仙B三合]]

@@ -42,3 +42,4 @@ tags:
 
 - <ruby>[可愛](/words/可愛.md)<rt>ㄎㄚ·ㄚㄧ</rt></ruby> - cute
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 歌]]

@@ -45,3 +45,4 @@ tags:
 # Notes
 Pronunciation from K
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 脂A三開]]

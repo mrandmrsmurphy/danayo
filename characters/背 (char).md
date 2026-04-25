@@ -45,3 +45,4 @@ tags:
 - [[背後]]
 - [[背骨]]
 [[Lookup/CC/initials/聲 並]]
+[[Lookup/CC/finals/韻 灰]]

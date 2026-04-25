@@ -48,3 +48,4 @@ tags:
 - Use this instead of the more Mandarin [[叛]].
 - 辶 + 屰
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 陌三開]]

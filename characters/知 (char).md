@@ -52,3 +52,4 @@ tags:
 - [[報知]]
 - 
 [[Lookup/CC/initials/聲 知]]
+[[Lookup/CC/finals/韻 支B三開]]

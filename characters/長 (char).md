@@ -52,3 +52,4 @@ tags:
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 - Pronounced [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md), a very common syllable.
 [[Lookup/CC/initials/聲 澄]]
+[[Lookup/CC/finals/韻 陽開]]

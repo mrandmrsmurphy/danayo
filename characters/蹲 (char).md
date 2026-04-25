@@ -41,3 +41,4 @@ tags:
 ## Notes
 - 形声 (OC \*zuːn): semantic [足](Radical%20157) (“foot”) + phonetic [尊](characters/尊.md) (OC \*ʔsuːn) – to sit.
 [[Lookup/CC/initials/聲 從]]
+[[Lookup/CC/finals/韻 魂]]

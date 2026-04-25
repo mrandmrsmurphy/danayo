@@ -40,3 +40,4 @@ tags:
 ## Notes
 - should this be nyang?
 [[Lookup/CC/initials/聲 娘]]
+[[Lookup/CC/finals/韻 陽開]]

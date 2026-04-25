@@ -40,3 +40,4 @@ tags:
 ## Notes
 - [虫](Radical%20142) + [曷](characters/喝%20(char).md)
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 月開]]

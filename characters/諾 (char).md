@@ -41,3 +41,4 @@ kwin: true
 
 # Notes
 [[Lookup/CC/initials/聲 泥]]
+[[Lookup/CC/finals/韻 鐸開]]

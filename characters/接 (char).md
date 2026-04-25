@@ -41,3 +41,4 @@ tags:
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([[Stroke 11]]) - [[ㄐㄛㄆ]]
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Korean HS](lookup/Korean/Korean%20HS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Grade 2](lookup/Grade%202.md)
 [[Lookup/CC/initials/聲 精]]
+[[Lookup/CC/finals/韻 葉三]]

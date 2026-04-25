@@ -42,3 +42,4 @@ tags:
 ## Words
 - <ruby>[題目](/words/題目.md)<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby> - topic
 [[Lookup/CC/initials/聲 明]]
+[[Lookup/CC/finals/韻 屋三]]

@@ -48,3 +48,4 @@ tags:
 - [[王冠]]
 - [[王妃]]
 [[Lookup/CC/initials/聲 云]]
+[[Lookup/CC/finals/韻 陽合]]

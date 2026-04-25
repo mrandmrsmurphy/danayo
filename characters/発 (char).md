@@ -58,3 +58,4 @@ tags:
 - [[発電]] generate power
 - [[発音]] pronounce
 [[Lookup/CC/initials/聲 非]]
+[[Lookup/CC/finals/韻 月合]]

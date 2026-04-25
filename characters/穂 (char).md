@@ -38,3 +38,4 @@ tags:
 [[nav/char_info]]
 ```
 [[Lookup/CC/initials/聲 邪]]
+[[Lookup/CC/finals/韻 脂A合]]

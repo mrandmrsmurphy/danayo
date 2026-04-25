@@ -42,3 +42,4 @@ tags:
 ## Words
 - <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby> - then
 [[Lookup/CC/initials/聲 船]]
+[[Lookup/CC/finals/韻 之]]

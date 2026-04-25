@@ -43,3 +43,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 滂]]
+[[Lookup/CC/finals/韻 模]]

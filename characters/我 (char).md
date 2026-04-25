@@ -56,3 +56,4 @@ tags:
 - [[lookup/HSK/HSK Beginner]], [[Korean MS]], [[Jōyō - Kyōiku]], [[Grade 2]]
 - [[Swadesh]] word #1
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 歌]]

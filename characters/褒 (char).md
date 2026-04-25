@@ -41,3 +41,4 @@ tags:
 ## Notes
 - 形声 (OC \*puː, \*puː): semantic [衣](Radical%20145) + phonetic [保](保.md) (OC \*puːʔ).
 [[Lookup/CC/initials/聲 幫]]
+[[Lookup/CC/finals/韻 豪]]

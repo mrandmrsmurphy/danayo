@@ -43,3 +43,4 @@ tags:
 # Notes
 - Descendants: [[把]]
 [[Lookup/CC/initials/聲 幫]]
+[[Lookup/CC/finals/韻 麻二開]]

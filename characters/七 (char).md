@@ -75,3 +75,4 @@ Pictogram ([List of 象形](lookup/List%20of%20象形.md)) – a vertical stroke
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 清]]
+[[Lookup/CC/finals/韻 質三]]

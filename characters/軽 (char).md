@@ -53,3 +53,4 @@ tags:
 * [[軽視]] distain
 * [[軽重]] light and heavy
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 清開]]

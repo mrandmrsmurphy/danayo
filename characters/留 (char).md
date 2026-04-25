@@ -45,3 +45,4 @@ tags:
 - [[卯]] + [[田]] = [[SKIP-2-5-5]], [[Stroke 10]]
 - [[Korean MS]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]]
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 尤]]

@@ -46,3 +46,4 @@ tags:
 1. [[交際]] - socialize, hangout
 2. [[国際]] - international
 [[Lookup/CC/initials/聲 精]]
+[[Lookup/CC/finals/韻 祭A三開]]

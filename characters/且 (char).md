@@ -46,3 +46,4 @@ tags:
 ### Derived Characters
 - [[祖]]
 [[Lookup/CC/initials/聲 清]]
+[[Lookup/CC/finals/韻 魚]]

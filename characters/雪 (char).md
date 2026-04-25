@@ -45,3 +45,4 @@ tags:
 ## Words
 - cod is [[雪魚]]
 [[Lookup/CC/initials/聲 心]]
+[[Lookup/CC/finals/韻 薛A三合]]

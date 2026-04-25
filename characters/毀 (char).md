@@ -42,3 +42,4 @@ tags:
 ## Words
 -  [List of 会意](../lookup/List%20of%20会意.md): [臼 (char)](臼%20(char).md) (“cracked skull”) + [工](工.md) (“tool”) + [[殳]] (“hand action”), a man being hit in the head.
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 支B三合]]

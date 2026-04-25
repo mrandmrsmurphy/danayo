@@ -42,3 +42,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 鹽B三]]

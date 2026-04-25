@@ -57,3 +57,4 @@ tags:
 - [[安心立命]]
 - [[邪心常悪]]
 [[Lookup/CC/initials/聲 心]]
+[[Lookup/CC/finals/韻 侵A]]

@@ -44,3 +44,4 @@ tags:
 - [[挟攻]]
 - [[挟撃]]
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 帖]]

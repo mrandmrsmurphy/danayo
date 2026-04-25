@@ -48,3 +48,4 @@ tags:
 - also called a [[蛍火虫]]/萤火虫
 - [[蛍光]] - florescence
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 青合]]

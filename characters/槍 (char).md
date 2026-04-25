@@ -42,3 +42,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 初]]
+[[Lookup/CC/finals/韻 庚二開]]

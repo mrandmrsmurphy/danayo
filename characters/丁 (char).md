@@ -57,3 +57,4 @@ tags:
 - <ruby>[丁丁](/words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>
 - <ruby>[丁香](/words/丁香.md)<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby>
 [[Lookup/CC/initials/聲 端]]
+[[Lookup/CC/finals/韻 青開]]

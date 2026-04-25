@@ -47,3 +47,4 @@ tags:
 * [語彙](words/語彙.md) vocabulary --> [詞彙](words/語彙.md)
 * [字彙](字彙) lexicon
 [[Lookup/CC/initials/聲 云]]
+[[Lookup/CC/finals/韻 微合]]

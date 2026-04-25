@@ -54,3 +54,4 @@ kwin: true
 - <ruby>[金属](/words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby> - metal
 - <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> - Friday
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 侵B]]

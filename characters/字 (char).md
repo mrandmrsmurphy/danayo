@@ -60,3 +60,4 @@ tags:
 - <ruby>[正字法](/words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄆㄚㄆ</rt></ruby> - orthography
 - <ruby>[識字](/words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> - literacy
 [[Lookup/CC/initials/聲 從]]
+[[Lookup/CC/finals/韻 之]]

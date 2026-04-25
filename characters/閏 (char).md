@@ -58,3 +58,4 @@ tags:
 - [[閏秒]] "leap second"
 - [[置閏]] "intercalation"
 [[Lookup/CC/initials/聲 日]]
+[[Lookup/CC/finals/韻 諄]]

@@ -47,3 +47,4 @@ tags:
 ## Words 
 - <ruby>[神巫](/words/神巫.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> - shaman, wizard
 [[Lookup/CC/initials/聲 禪]]
+[[Lookup/CC/finals/韻 眞A開]]

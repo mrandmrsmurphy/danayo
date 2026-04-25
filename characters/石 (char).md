@@ -46,3 +46,4 @@ tags:
 - <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium, abbreviated 石
 - 
 [[Lookup/CC/initials/聲 船]]
+[[Lookup/CC/finals/韻 昔開]]

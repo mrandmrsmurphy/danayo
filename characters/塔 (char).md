@@ -1,13 +1,13 @@
 ---
-mandarin: "tǎ, da"
-cantonese: "taap3"
-korean: "탑"
+mandarin: tǎ, da
+cantonese: taap3
+korean: 탑
 korean_native: 탑
 japanese: TOU
 japanese_nanori: あららぎ
 vietnamese: tháp, thạp, thóp
 middle_chinese_initial: tʰ
-middle_chinese_final: 塔
+middle_chinese_final: ɑp
 stroke_count: 12
 radical: 土
 skip_number: 1-3-9
@@ -32,10 +32,9 @@ tags:
 ---
 >[!tip] This is a page about the character 塔.
 >For the word, see [塔](words/塔.md)
-
-# Notes
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Notes
 [[Lookup/CC/initials/聲 透]]
+[[Lookup/CC/finals/韻 盍]]

@@ -42,3 +42,4 @@ tags:
 # Notes
 short for 佛陀
 [[Lookup/CC/initials/聲 奉]]
+[[Lookup/CC/finals/韻 物]]

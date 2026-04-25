@@ -41,3 +41,4 @@ tags:
 ## Notes
 - Because of 毎字明意, we cannot accept the merger of 里 and 裏/裡, as Chinese does.
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 之]]

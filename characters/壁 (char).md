@@ -36,3 +36,4 @@ tags:
 # Notes
 [Radical 032](lookup/Radicals/Radical%20032.md) (Earth).  [SKIP-2-13-3](lookup/SKIP/SKIP-2/SKIP-2-13-3.md).
 [[Lookup/CC/initials/聲 幫]]
+[[Lookup/CC/finals/韻 錫開]]

@@ -47,3 +47,4 @@ tags:
 - [[Radical 030|口]] + [[土 (char)]] = [[SKIP-1-3-3]] ([[Stroke 06]])
 - [[Jōyō - Kōtō]], [[Korean HS]], HSK 3, [[Grade 5]]
 [[Lookup/CC/initials/聲 透]]
+[[Lookup/CC/finals/韻 模]]

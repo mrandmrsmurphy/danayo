@@ -51,3 +51,4 @@ tags:
 - [[孫女]]
 - 
 [[Lookup/CC/initials/聲 娘]]
+[[Lookup/CC/finals/韻 魚]]

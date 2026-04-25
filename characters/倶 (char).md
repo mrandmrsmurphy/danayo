@@ -43,3 +43,4 @@ tags:
 
 "club" - [[倶楽部]]
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 虞]]

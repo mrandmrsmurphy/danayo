@@ -48,3 +48,4 @@ tags:
 - [[凶暴]]
 - [[元凶]]
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 鍾]]

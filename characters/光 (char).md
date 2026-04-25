@@ -42,3 +42,4 @@ tags:
 - [[陽光]]
 - [[閃光]]
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 唐合]]

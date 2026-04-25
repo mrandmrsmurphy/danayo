@@ -41,3 +41,4 @@ tags:
 # Notes
 Learned borrowing from Sanskrit ॐ (oṃ).
 [[Lookup/CC/initials/聲 影]]
+[[Lookup/CC/finals/韻 覃]]

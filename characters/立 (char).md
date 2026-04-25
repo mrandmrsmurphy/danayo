@@ -48,3 +48,4 @@ tags:
 - <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
 - <ruby>[義以立名](/chengyu/義以立名.md)<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>
 [[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 緝A三]]

@@ -44,3 +44,4 @@ tags:
  - [SKIP-1-3-11](lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md)) - [ㄐㄝ](syllables/ㄐㄝ.md)
  - [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅈ](lookup/Korean/Korean%20Name%20ㅈ.md), [Grade 6](lookup/Grade%206.md), HSK______---
 [[Lookup/CC/initials/聲 從]]
+[[Lookup/CC/finals/韻 支三開]]

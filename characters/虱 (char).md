@@ -46,3 +46,4 @@ tags:
 ## Words
 - [[壁虱]] - tick, bedbug
 [[Lookup/CC/initials/聲 心]]
+[[Lookup/CC/finals/韻 櫛]]

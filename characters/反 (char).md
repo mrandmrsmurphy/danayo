@@ -45,3 +45,4 @@ tags:
 - We follow Japanese and fold 叛 into this character.
 ##
 [[Lookup/CC/initials/聲 敷]]
+[[Lookup/CC/finals/韻 元合]]

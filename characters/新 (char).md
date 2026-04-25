@@ -49,3 +49,4 @@ tags:
 - <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> - neologism
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> - Singapore
 [[Lookup/CC/initials/聲 心]]
+[[Lookup/CC/finals/韻 眞A開]]

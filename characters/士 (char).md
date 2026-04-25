@@ -45,3 +45,4 @@ tags:
 - <ruby>[国士無双](/chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍㆼㄫ</rt></ruby>
 - [[選士唯賢]]
 [[Lookup/CC/initials/聲 崇]]
+[[Lookup/CC/finals/韻 之]]

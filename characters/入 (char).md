@@ -48,3 +48,4 @@ tags:
 ## Chengyu
 - [[単刀直入]]
 [[Lookup/CC/initials/聲 日]]
+[[Lookup/CC/finals/韻 緝A三]]

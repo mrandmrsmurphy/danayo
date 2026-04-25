@@ -44,3 +44,4 @@ tags:
 ## Words
 - <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby> - early/near modern period
 [[Lookup/CC/initials/聲 群]]
+[[Lookup/CC/finals/韻 欣]]

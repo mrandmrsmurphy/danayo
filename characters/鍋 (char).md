@@ -39,3 +39,4 @@ tags:
 - 形声: OC \*kloːl): semantic [[Radical 167|金]] (“metal”) + phonetic [[咼]] (OC \*kʰʷroːl).
 - [[SKIP-1-8-9]] ([[Stroke 17]]) [[ㄍㆼ]]
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 戈一合]]

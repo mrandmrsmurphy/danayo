@@ -44,3 +44,4 @@ tags:
 # Notes
 - contrastive "but"
 [[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 藥開]]

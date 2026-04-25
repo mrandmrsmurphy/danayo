@@ -41,3 +41,4 @@ tags:
 ## Notes
 - 形声 (OC \*kʰjo): semantic [木](Radical%20075) + phonetic [区](characters/区.md) (OC \*qoː, *kʰo).
 [[Lookup/CC/initials/聲 昌]]
+[[Lookup/CC/finals/韻 虞]]

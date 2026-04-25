@@ -68,3 +68,4 @@ tags:
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 模]]

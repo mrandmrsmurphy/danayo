@@ -49,3 +49,4 @@ tags:
 - 孝昭王 - Hyoso of Shilla 687-702
 - [[words/昭和]] - Shōwa
 [[Lookup/CC/initials/聲 章]]
+[[Lookup/CC/finals/韻 宵A]]

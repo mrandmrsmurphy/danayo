@@ -51,3 +51,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 禪]]
+[[Lookup/CC/finals/韻 仙A三開]]

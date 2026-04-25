@@ -51,3 +51,4 @@ tags:
 - [[行事]]
 - [[逸事]]
 [[Lookup/CC/initials/聲 崇]]
+[[Lookup/CC/finals/韻 之]]

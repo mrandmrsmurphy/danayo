@@ -42,3 +42,4 @@ tags:
 ## Chengyu
 - [[臥薪嘗胆]]
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 戈一合]]

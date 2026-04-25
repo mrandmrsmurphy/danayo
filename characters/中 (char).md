@@ -74,3 +74,4 @@ tags:
 ## Chengyu
 - <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - Castle in the Sky
 [[Lookup/CC/initials/聲 知]]
+[[Lookup/CC/finals/韻 東三]]

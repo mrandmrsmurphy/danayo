@@ -53,3 +53,4 @@ tags:
 - [[沈魚落雁]]
 - [[轄魚鳥牲]]
 [[Lookup/CC/initials/聲 疑]]
+[[Lookup/CC/finals/韻 魚]]

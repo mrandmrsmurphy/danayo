@@ -48,3 +48,4 @@ tags:
 - [[玄武岩]]
 - [[玄米茶]]
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 先合]]

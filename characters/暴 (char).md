@@ -45,3 +45,4 @@ tags:
 ## Chengyu
 - <ruby>[暴飲暴食](/chengyu/暴飲暴食.md)<rt>ㄅㄛㄎ·ㄚㄇㄅㄛㄎㄙㄧㄎ</rt></ruby>
 [[Lookup/CC/initials/聲 並]]
+[[Lookup/CC/finals/韻 屋一]]

@@ -44,3 +44,4 @@ tags:
 ## Words
 - [[柔軟]]
 [[Lookup/CC/initials/聲 日]]
+[[Lookup/CC/finals/韻 尤]]

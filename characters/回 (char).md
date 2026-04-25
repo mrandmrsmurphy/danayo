@@ -53,3 +53,4 @@ tags:
 ## Chengyu
 - <ruby>[起死回生](/chengyu/起死回生.md)<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby>
 [[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 灰]]

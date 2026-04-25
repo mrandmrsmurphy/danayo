@@ -40,3 +40,4 @@ tags:
 ```
 This is used as the anti-forgery of [[七 (char)]]
 [[Lookup/CC/initials/聲 清]]
+[[Lookup/CC/finals/韻 質三]]

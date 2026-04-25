@@ -44,3 +44,4 @@ tags:
 - 形声: OC \*pʰɯd): semantic [[Radical 064|扌]] (“hand”) + phonetic [[弗]] (OC \*pɯd).
 	- Recall that Dan'a'yo does not follow the Shinjitai practice of replacing the component 弗 with 厶.
 [[Lookup/CC/initials/聲 敷]]
+[[Lookup/CC/finals/韻 物]]

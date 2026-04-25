@@ -52,3 +52,4 @@ tags:
 - [[lookup/HSK/HSK Beginner]], [[Jōyō - Kōtō]], [[Korean Name ㅁ]], [[Grade 6]]
 - 
 [[Lookup/CC/initials/聲 明]]
+[[Lookup/CC/finals/韻 陽合]]

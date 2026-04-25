@@ -31,6 +31,7 @@ aliases:
 注音: ㄋㄨㄆ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 魶.
 >For the word, see [魶](words/魶.md)
@@ -43,3 +44,4 @@ tags:
 - Phono-semantic: [魚](lookup/Radicals/Radical%20195.md) + <ruby>[内](/characters/内.md)<rt>ㄋㄛㄧ</rt></ruby>
 - On no one's list!  [Grade Name](lookup/Grade%20Name.md)
 [[Lookup/CC/initials/聲 泥]]
+[[Lookup/CC/finals/韻 盍]]

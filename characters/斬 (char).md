@@ -48,3 +48,4 @@ tags:
 ## Words
 - [[斬壕]] - 塹壕
 [[Lookup/CC/initials/聲 莊]]
+[[Lookup/CC/finals/韻 咸]]

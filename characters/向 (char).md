@@ -52,3 +52,4 @@ tags:
 - for "direction", use [[方向]]
 - for "lean, incline" (verbal) use [[傾向]]
 [[Lookup/CC/initials/聲 曉]]
+[[Lookup/CC/finals/韻 陽開]]

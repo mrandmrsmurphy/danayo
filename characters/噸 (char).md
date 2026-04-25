@@ -39,3 +39,4 @@ tags:
 ## Notes
 - [口](Radical%20030) + [頓](characters/頓.md)
 [[Lookup/CC/initials/聲 端]]
+[[Lookup/CC/finals/韻 魂]]

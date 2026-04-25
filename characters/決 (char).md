@@ -53,3 +53,4 @@ tags:
 ## Words
 - <ruby>[解決](/words/解決.md)<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby>
 [[Lookup/CC/initials/聲 見]]
+[[Lookup/CC/finals/韻 屑合]]

@@ -41,3 +41,4 @@ tags:
 1. or again
 2. also
 [[Lookup/CC/initials/聲 云]]
+[[Lookup/CC/finals/韻 尤]]

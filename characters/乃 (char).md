@@ -44,3 +44,4 @@ tags:
 - then; 
 - really, indeed; as it turned out, after all
 [[Lookup/CC/initials/聲 泥]]
+[[Lookup/CC/finals/韻 咍]]
