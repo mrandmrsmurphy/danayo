@@ -34,3 +34,5 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 狎]]
+
+1. potassium
