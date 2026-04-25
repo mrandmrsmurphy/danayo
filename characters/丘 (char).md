@@ -7,6 +7,9 @@ japanese:
   - KYUU
 japanese_nanori: ""
 vietnamese:
+  - kheo
+  - khâu
+  - khưu
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɨu"
 stroke_count: 5

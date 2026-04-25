@@ -8,6 +8,8 @@ japanese:
   - HYOU
 japanese_nanori: ""
 vietnamese:
+  - biếng
+  - bính
 middle_chinese_initial: p
 middle_chinese_final: "ɣiæŋ"
 stroke_count: 5
