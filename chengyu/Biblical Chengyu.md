@@ -54,7 +54,7 @@ views:
       - date-last-perfect
       - 注音
       - 羅馬字
-      - 韓文
+      - 諺文
       - vietnamese
     sort:
       - property: date-last-perfect

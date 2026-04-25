@@ -6,7 +6,7 @@ radical: 糸
 
 ## Data check
 ```dataview
-TABLE stroke_count AS "S", english AS "EN", 韓文 AS "Sound"
+TABLE stroke_count AS "S", english AS "EN", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "糸"
 SORT stroke_count ASC

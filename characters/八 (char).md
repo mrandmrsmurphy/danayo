@@ -56,7 +56,7 @@ tags:
 - [[八千]]
 ### Data check
 ```dataview
-table 韓文, english
+table 諺文, english
 from "words"
 where contains(characters, this.file.name)
 sort file.name

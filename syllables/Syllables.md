@@ -205,7 +205,7 @@ views:
       - date-last-perfect
       - 注音
       - 羅馬字
-      - 韓文
+      - 諺文
       - english
     sort:
       - property: 羅馬字
@@ -216,7 +216,7 @@ views:
         direction: ASC
       - property: 注音
         direction: ASC
-      - property: 韓文
+      - property: 諺文
         direction: ASC
       - property: date-last-perfect
         direction: DESC

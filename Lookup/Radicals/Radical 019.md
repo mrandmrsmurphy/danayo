@@ -50,7 +50,7 @@ radical: 力
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "hwek", 韓文 AS "Sound"
+TABLE file.link AS "Character", stroke_count AS "hwek", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "力"
 SORT file.name ASC

@@ -29,7 +29,7 @@ date-last-perfect: 2026-03-11
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "齒"
 SORT file.name ASC

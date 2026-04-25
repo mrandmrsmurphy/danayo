@@ -44,7 +44,7 @@ date-last-perfect: 2026-03-27
 
 ## Data check
 ```dataview
-TABLE english AS "EN", stroke_count AS "SC", 韓文 AS "Sound"
+TABLE english AS "EN", stroke_count AS "SC", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "雨"
 SORT stroke_count ASC

@@ -39,7 +39,7 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", radical AS "Radical", 韓文 AS "Sound"
+TABLE file.link AS "Character", radical AS "Radical", 諺文 AS "Sound"
 FROM "characters"
 WHERE radical = "龍"
 SORT file.name ASC

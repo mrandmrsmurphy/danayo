@@ -2,7 +2,7 @@
 // 1. Gather all inputs
 const char = await tp.system.prompt("Constituent characters");
 const romaji = await tp.system.prompt("羅馬字");
-const hanmun = await tp.system.prompt("韓文");
+const hanmun = await tp.system.prompt("諺文");
 const mandarin = await tp.system.prompt("Mandarin pinyin");
 const cantonese = await tp.system.prompt("Cantonese jyutping");
 const korean = await tp.system.prompt("Korean readings");

@@ -20,7 +20,7 @@ size: 7
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", 韓文 AS "韓文"
+TABLE file.link AS "Character", stroke_count AS "Stroke", 注音 AS "注音"
 FROM "characters"
 WHERE stroke_count = "23" OR stroke_count = 23
 SORT file.name ASC

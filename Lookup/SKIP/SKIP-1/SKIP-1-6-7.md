@@ -31,7 +31,7 @@ skip_number: 1-6-7
 
 ## Data search
 ```dataview
-TABLE radical AS "Radical", 韓文 AS "Sound", skip_number AS "SKIP"
+TABLE radical AS "Radical", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE skip_number = "1-6-7"
 SORT file.name ASC
