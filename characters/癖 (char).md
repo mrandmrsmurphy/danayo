@@ -5,8 +5,10 @@ korean: "벽"
 korean_native: "버릇"
 japanese:
   - HEKI
-japanese_native: くせ
+japanese_nanori: ""
 vietnamese:
+  - phích
+  - tịch
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iᴇk"
 stroke_count: 18

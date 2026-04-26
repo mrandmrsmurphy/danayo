@@ -6,8 +6,13 @@ korean_native: "동이"
 japanese:
   - BON
   - HON
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - buồn
+  - bòn
+  - bồn
+  - dồn
+  - vồn
 middle_chinese_initial: b
 middle_chinese_final: "uən"
 stroke_count: 9

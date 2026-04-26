@@ -6,8 +6,10 @@ korean_native: "소반"
 japanese:
   - BAN
   - HAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bàn
+  - mâm
 middle_chinese_initial: b
 middle_chinese_final: "uɑn"
 stroke_count: 15

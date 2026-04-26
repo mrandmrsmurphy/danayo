@@ -5,8 +5,10 @@ korean: "략"
 korean_native: "다스릴"
 japanese:
   - RYAKU
-japanese_native: ほぼ
+japanese_nanori: ""
 vietnamese:
+  - lược
+  - trước
 middle_chinese_initial: l
 middle_chinese_final: "ɨɐk"
 stroke_count: 11

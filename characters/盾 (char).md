@@ -6,8 +6,10 @@ korean_native: "방패"
 japanese:
   - JUN
   - TON
-japanese_native: たて
+japanese_nanori: ""
 vietnamese:
+  - thuẫn
+  - thuỗn
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "iuɪn"
 stroke_count: 9

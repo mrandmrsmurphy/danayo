@@ -5,8 +5,12 @@ korean: "외"
 korean_native: "두려워할"
 japanese:
   - I
-japanese_native: おそ
+japanese_nanori: ""
 vietnamese:
+  - hoay
+  - hoáy
+  - uý
+  - ối
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ʉi"
 stroke_count: 9

@@ -6,8 +6,12 @@ korean_native: "차례"
 japanese:
   - BAN
   - HAN
-japanese_native: つが
+japanese_nanori: ""
 vietnamese:
+  - phan
+  - phen
+  - phiên
+  - phiện
 middle_chinese_initial: "fʰ"
 middle_chinese_final: "uɑn"
 stroke_count: 12

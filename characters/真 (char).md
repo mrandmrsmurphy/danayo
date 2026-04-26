@@ -5,8 +5,12 @@ korean: "진"
 korean_native: "참"
 japanese:
   - SHIN
-japanese_native: ま
+japanese_nanori: ""
 vietnamese:
+  - chan
+  - chang
+  - chân
+  - sân
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪn"
 stroke_count: 10

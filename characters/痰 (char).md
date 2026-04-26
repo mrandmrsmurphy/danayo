@@ -5,8 +5,10 @@ korean: "담"
 korean_native: "가래"
 japanese:
   - TAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đàm
+  - đờm
 middle_chinese_initial: d
 middle_chinese_final: "ɑm"
 stroke_count: 13

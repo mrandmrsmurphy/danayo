@@ -6,8 +6,21 @@ korean_native: "예도"
 japanese:
   - REI
   - RAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - lãi
+  - lạy
+  - lấy
+  - lẩy
+  - lẫy
+  - lẻ
+  - lể
+  - lễ
+  - lởi
+  - lỡi
+  - rẽ
+  - trẩy
+  - trễ
 middle_chinese_initial: l
 middle_chinese_final: ei
 stroke_count: 5

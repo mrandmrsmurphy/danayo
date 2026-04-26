@@ -6,8 +6,12 @@ korean_native: "눈썹"
 japanese:
   - BI
   - MI
-japanese_native: まゆ
+japanese_nanori: ""
 vietnamese:
+  - mi
+  - mày
+  - mì
+  - mầy
 middle_chinese_initial: m
 middle_chinese_final: "ɣiɪ"
 stroke_count: 9

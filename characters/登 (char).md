@@ -6,8 +6,10 @@ korean_native: "오를"
 japanese:
   - TOU
   - TO
-japanese_native: のぼ
+japanese_nanori: ""
 vietnamese:
+  - đăng
+  - đắng
 middle_chinese_initial: t
 middle_chinese_final: "ǝŋ"
 stroke_count: 12

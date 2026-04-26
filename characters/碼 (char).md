@@ -6,8 +6,9 @@ korean_native: "마노"
 japanese:
   - BA
   - ME
-japanese_native: やあど
+japanese_nanori: ""
 vietnamese:
+  - mã
 middle_chinese_initial: m
 middle_chinese_final: "ɣa"
 stroke_count: 15

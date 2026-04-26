@@ -5,8 +5,14 @@ korean: "의"
 korean_native: "어조사"
 japanese:
   - I
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - hĩ
+  - hơi
+  - hẻ
+  - hỉ
+  - hở
+  - hỹ
 middle_chinese_initial: x
 middle_chinese_final: "ɣɛi"
 stroke_count: 7

@@ -6,8 +6,11 @@ korean_native: "곧을"
 japanese:
   - CHOKU
   - JIKI
-japanese_native: ただ
+japanese_nanori: ""
 vietnamese:
+  - chực
+  - sực
+  - trực
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɨk"
 stroke_count: 8

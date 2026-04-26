@@ -6,8 +6,9 @@ korean_native: "굳을"
 japanese:
   - KOU
   - GOU
-japanese_native: かた
+japanese_nanori: ""
 vietnamese:
+  - ngạnh
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣɛŋ
 stroke_count: 12

@@ -5,8 +5,12 @@ korean: "간"
 korean_native: 볼
 japanese:
   - KAN
-japanese_native: み
+japanese_nanori: ""
 vietnamese:
+  - khan
+  - khán
+  - khản
+  - khớn
 middle_chinese_initial: kʰ
 middle_chinese_final: ɑn
 stroke_count: 9

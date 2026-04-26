@@ -6,8 +6,10 @@ korean_native: 붙을
 japanese:
   - CHAKU
   - JAKU
-japanese_native: き
+japanese_nanori: ""
 vietnamese:
+  - nước
+  - trước
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨɐk
 stroke_count: 12

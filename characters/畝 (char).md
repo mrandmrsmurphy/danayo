@@ -6,8 +6,10 @@ korean_native: "이랑"
 japanese:
   - HO
   - BOU
-japanese_native: せ
+japanese_nanori: ""
 vietnamese:
+  - mẩu
+  - mẫu
 middle_chinese_initial: m
 middle_chinese_final: "əu"
 stroke_count: 10

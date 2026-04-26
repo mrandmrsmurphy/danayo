@@ -5,8 +5,10 @@ korean: "완"
 korean_native: "사발"
 japanese:
   - WAN
-japanese_native: こばち
+japanese_nanori: ""
 vietnamese:
+  - oản
+  - uyển
 middle_chinese_initial: "ø"
 middle_chinese_final: "uɑn"
 stroke_count: 13

@@ -6,8 +6,11 @@ korean_native: "난쟁이"
 japanese:
   - WAI
   - AI
-japanese_native: ひく
+japanese_nanori: ""
 vietnamese:
+  - nuỵ
+  - oải
+  - ải
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣɛ"
 stroke_count: 13

@@ -6,8 +6,13 @@ korean_native: "그릇"
 japanese:
   - BAI
   - MYOU
-japanese_native: さら
+japanese_nanori: ""
 vietnamese:
+  - mãnh
+  - mạnh
+  - mảng
+  - mảnh
+  - mịn
 middle_chinese_initial: m
 middle_chinese_final: "ɣiæŋ"
 stroke_count: 5

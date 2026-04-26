@@ -6,8 +6,14 @@ korean_native: 살필
 japanese:
   - SEI
   - SHOU
-japanese_native: かえり
+japanese_nanori: ""
 vietnamese:
+  - tểnh
+  - tễnh
+  - tỉnh
+  - xĩnh
+  - xển
+  - xỉnh
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣiæŋ
 stroke_count: 9

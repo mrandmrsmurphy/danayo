@@ -6,8 +6,10 @@ korean_native: "흰"
 japanese:
   - HAKU
   - BYAKU
-japanese_native: しろ
+japanese_nanori: ""
 vietnamese:
+  - bạc
+  - bạch
 middle_chinese_initial: b
 middle_chinese_final: "ɣæk"
 stroke_count: 5
