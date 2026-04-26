@@ -6,8 +6,10 @@ korean_native: "죽"
 japanese:
   - SHUKU
   - IKU
-japanese_native: かゆ
+japanese_nanori: ""
 vietnamese:
+  - cháo
+  - chúc
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨuk"
 stroke_count: 12

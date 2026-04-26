@@ -5,8 +5,11 @@ korean: "점"
 korean_native: "붙을"
 japanese:
   - NEN
-japanese_native: ねば
+japanese_nanori: ""
 vietnamese:
+  - chiêm
+  - dính
+  - niêm
 middle_chinese_initial: "ɳ"
 middle_chinese_final: "ɣiᴇm"
 stroke_count: 11

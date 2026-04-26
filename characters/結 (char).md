@@ -6,8 +6,13 @@ korean_native: "맺을"
 japanese:
   - KETSU
   - KEI
-japanese_native: むす
+japanese_nanori: ""
 vietnamese:
+  - chắc
+  - cứt
+  - kiết
+  - kít
+  - kết
 middle_chinese_initial: k
 middle_chinese_final: et
 stroke_count: 12

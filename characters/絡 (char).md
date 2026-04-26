@@ -5,8 +5,10 @@ korean: "락"
 korean_native: "이을"
 japanese:
   - RAKU
-japanese_native: から
+japanese_nanori: ""
 vietnamese:
+  - lạc
+  - rạc
 middle_chinese_initial: l
 middle_chinese_final: "ɑk"
 stroke_count: 12

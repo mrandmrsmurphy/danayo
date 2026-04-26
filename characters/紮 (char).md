@@ -5,8 +5,9 @@ korean: "찰"
 korean_native: "감을"
 japanese:
   - SATSU
-japanese_native: からげる
+japanese_nanori: ""
 vietnamese:
+  - trát
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɣɛt"
 stroke_count: 11

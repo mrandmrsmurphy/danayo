@@ -6,8 +6,9 @@ korean_native: 경서 경
 japanese:
   - KEI
   - KYOU
-japanese_native: へ
+japanese_nanori: ""
 vietnamese:
+  - kinh
 middle_chinese_initial: k
 middle_chinese_final: eŋ
 stroke_count: 11

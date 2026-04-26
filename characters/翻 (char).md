@@ -6,8 +6,9 @@ korean_native: 펄럭일
 japanese:
   - HON
   - HAN
-japanese_native: ひるがえ
+japanese_nanori: ""
 vietnamese:
+  - phiên
 middle_chinese_initial: fʰ
 middle_chinese_final: ʉɐn
 stroke_count: 18

@@ -5,8 +5,10 @@ korean: "분"
 korean_native: "어지러울"
 japanese:
   - FUN
-japanese_native: まぎ
+japanese_nanori: ""
 vietnamese:
+  - phân
+  - phăn
 middle_chinese_initial: "fʰ"
 middle_chinese_final: "ɨun"
 stroke_count: 10

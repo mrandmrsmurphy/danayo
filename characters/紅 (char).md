@@ -6,8 +6,10 @@ korean_native: 붉을
 japanese:
   - KU
   - KOU
-japanese_native: べに
+japanese_nanori: ""
 vietnamese:
+  - hường
+  - hồng
 middle_chinese_initial: ɣ
 middle_chinese_final: uŋ
 stroke_count: 9

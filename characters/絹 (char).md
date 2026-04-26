@@ -5,8 +5,9 @@ korean: "견"
 korean_native: "명주"
 japanese:
   - KEN
-japanese_native: きぬ
+japanese_nanori: ""
 vietnamese:
+  - quyến
 middle_chinese_initial: k
 middle_chinese_final: iuᴇn
 stroke_count: 13

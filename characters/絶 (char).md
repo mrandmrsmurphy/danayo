@@ -5,8 +5,13 @@ korean: "절"
 korean_native: "끊을"
 japanese:
   - ZETSU
-japanese_native: た
+japanese_nanori: ""
 vietnamese:
+  - tiệt
+  - toẹt
+  - tuyệt
+  - tít
+  - tịt
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "iuᴇt"
 stroke_count: 12

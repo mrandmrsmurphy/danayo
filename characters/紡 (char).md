@@ -6,8 +6,11 @@ korean_native: 길쌈
 japanese:
   - BOU
   - HOU
-japanese_native: つむ
+japanese_nanori: ""
 vietnamese:
+  - phưởng
+  - vướng
+  - vưởng
 middle_chinese_initial: fʰ
 middle_chinese_final: ʉɐŋ
 stroke_count: 10

@@ -6,8 +6,12 @@ korean_native: "무늬"
 japanese:
   - MON
   - BUN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - vân
+  - văn
+  - vằn
+  - vện
 middle_chinese_initial: "ɱ"
 middle_chinese_final: "ɨun"
 stroke_count: 10

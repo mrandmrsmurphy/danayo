@@ -6,8 +6,13 @@ korean_native: "아름다울"
 japanese:
   - BI
   - MI
-japanese_native: うつく
+japanese_nanori: ""
 vietnamese:
+  - mĩ
+  - mẻ
+  - mẽ
+  - mỉ
+  - mỉa
 middle_chinese_initial: m
 middle_chinese_final: "ɣiɪ"
 stroke_count: 9

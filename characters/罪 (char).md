@@ -6,8 +6,10 @@ korean_native: "허물"
 japanese:
   - ZAI
   - SAI
-japanese_native: つみ
+japanese_nanori: ""
 vietnamese:
+  - tội
+  - tụi
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "uʌi"
 stroke_count: 13

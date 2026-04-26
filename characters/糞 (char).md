@@ -5,8 +5,10 @@ korean: "분"
 korean_native: "똥"
 japanese:
   - FUN
-japanese_native: くそ
+japanese_nanori: ""
 vietnamese:
+  - phân
+  - phẩn
 middle_chinese_initial: f
 middle_chinese_final: "ɨun"
 stroke_count: 17

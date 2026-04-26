@@ -7,8 +7,20 @@ japanese:
   - TOU
   - NOU
   - NA
-japanese_native: おさ
+japanese_nanori: ""
 vietnamese:
+  - nuốt
+  - nép
+  - nóp
+  - núp
+  - nượp
+  - nạp
+  - nấp
+  - nầm
+  - nập
+  - nốp
+  - nộp
+  - nớp
 middle_chinese_initial: n
 middle_chinese_final: "ʌp"
 stroke_count: 10

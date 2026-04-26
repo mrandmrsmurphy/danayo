@@ -6,8 +6,11 @@ korean_native: "감색"
 japanese:
   - KON
   - KAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cám
+  - tim
+  - tím
 middle_chinese_initial: k
 middle_chinese_final: "ʌm"
 stroke_count: 11

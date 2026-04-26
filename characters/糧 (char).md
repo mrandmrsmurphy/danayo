@@ -6,8 +6,9 @@ korean_native: "양식"
 japanese:
   - RYOU
   - ROU
-japanese_native: かて
+japanese_nanori: ""
 vietnamese:
+  - lương
 middle_chinese_initial: l
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 18

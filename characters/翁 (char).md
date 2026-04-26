@@ -5,8 +5,12 @@ korean: "옹"
 korean_native: "늙은이"
 japanese:
   - OU
-japanese_native: おきな
+japanese_nanori: ""
 vietnamese:
+  - òng
+  - ông
+  - ồng
+  - ổng
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "uŋ"
 stroke_count: 10

@@ -5,8 +5,9 @@ korean: "규"
 korean_native: "꼴"
 japanese:
   - KYUU
-japanese_native: ただ
+japanese_nanori: ""
 vietnamese:
+  - củ
 middle_chinese_initial: k
 middle_chinese_final: "iɪu"
 stroke_count: 12

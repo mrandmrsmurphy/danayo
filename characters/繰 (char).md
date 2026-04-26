@@ -5,8 +5,9 @@ korean: "조"
 korean_native: ""
 japanese:
   - SOU
-japanese_native: く
+japanese_nanori: ""
 vietnamese:
+  - thao
 middle_chinese_initial: t͡s
 middle_chinese_final: ɑu
 stroke_count: 19

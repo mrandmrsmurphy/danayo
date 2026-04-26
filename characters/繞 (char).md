@@ -6,8 +6,19 @@ korean_native: "두를"
 japanese:
   - JOU
   - NYOU
-japanese_native: めぐ
+japanese_nanori: ""
 vietnamese:
+  - diễu
+  - díu
+  - nhiễu
+  - nhão
+  - nhảu
+  - nhẹo
+  - nhẻo
+  - nhẽo
+  - nhếu
+  - nhểu
+  - thêu
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iᴇu"
 stroke_count: 18

@@ -5,8 +5,16 @@ korean: 로
 korean_native: 늙은이
 japanese:
   - ROU
-japanese_native: お
+japanese_nanori: ""
 vietnamese:
+  - láu
+  - lão
+  - lảo
+  - lảu
+  - lẩu
+  - lẽo
+  - lếu
+  - rảu
 middle_chinese_initial: l
 middle_chinese_final: ɑu
 stroke_count: 6

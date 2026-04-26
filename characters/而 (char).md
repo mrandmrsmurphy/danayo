@@ -6,8 +6,9 @@ korean_native: 말 이을
 japanese:
   - JI
   - NI
-japanese_native: しこ
+japanese_nanori: ""
 vietnamese:
+  - nhi
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨ
 stroke_count: 6

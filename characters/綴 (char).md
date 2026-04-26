@@ -6,8 +6,11 @@ korean_native: "꿰맬"
 japanese:
   - TEI
   - TETSU
-japanese_native: と
+japanese_nanori: ""
 vietnamese:
+  - chuế
+  - chuỗi
+  - xuyết
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɣiuᴇt"
 stroke_count: 14

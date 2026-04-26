@@ -1,16 +1,14 @@
 ---
-mandarin: "shí"
-cantonese: "sek6"
-korean: "석"
+mandarin: shí
+cantonese: sek6
+korean: 석
 korean_native: 돌
 japanese:
-  - SHAKU
   - SEKI
-  - KOKU
 japanese_native:
   - いし
 vietnamese:
-  - thạch, đán
+  - thạch
 middle_chinese_initial: ʑ
 middle_chinese_final: iᴇk
 stroke_count: 5
