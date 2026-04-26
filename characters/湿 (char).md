@@ -1,7 +1,7 @@
 ---
-mandarin: "shī"
-cantonese: "sap1"
-korean: "습"
+mandarin: shī
+cantonese: sap1
+korean: 습
 korean_native: 축축할
 japanese:
   - SHITSU
@@ -32,6 +32,7 @@ aliases:
 注音: ㄙㄜㄆ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 湿.
 >For the word, see [湿](words/湿.md)
