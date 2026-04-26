@@ -6,8 +6,10 @@ korean_native: "다할"
 japanese:
   - KEI
   - KYOU
-japanese_native: おわ
+japanese_nanori: ""
 vietnamese:
+  - cánh
+  - cạnh
 middle_chinese_initial: k
 middle_chinese_final: ɣiæŋ
 stroke_count: 11

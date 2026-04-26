@@ -5,8 +5,9 @@ korean: "화"
 korean_native: "벼"
 japanese:
   - KA
-japanese_native: いね
+japanese_nanori: ""
 vietnamese:
+  - hoà
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uɑ"
 stroke_count: 5

@@ -5,8 +5,9 @@ korean: "송"
 korean_native: "공경할"
 japanese:
   - SHOU
-japanese_native: すく
+japanese_nanori: ""
 vietnamese:
+  - tủng
 middle_chinese_initial: s
 middle_chinese_final: "ɨoŋ"
 stroke_count: 12

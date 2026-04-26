@@ -5,8 +5,9 @@ korean: 수
 korean_native: 빼어날
 japanese:
   - SHUU
-japanese_native: ひい
+japanese_nanori: ""
 vietnamese:
+  - tú
 middle_chinese_initial: s
 middle_chinese_final: ɨu
 stroke_count: 7

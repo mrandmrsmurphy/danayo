@@ -7,8 +7,10 @@ japanese:
   - BEI
   - MAI
   - ME
-japanese_native: こめ
+japanese_nanori: ""
 vietnamese:
+  - mè
+  - mễ
 middle_chinese_initial: m
 middle_chinese_final: ei
 stroke_count: 6

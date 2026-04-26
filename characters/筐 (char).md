@@ -5,8 +5,9 @@ korean: "광"
 korean_native: "광주리"
 japanese:
   - KYOU
-japanese_native: かたみ
+japanese_nanori: ""
 vietnamese:
+  - khuông
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ʉɐŋ"
 stroke_count: 12

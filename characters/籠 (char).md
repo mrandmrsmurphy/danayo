@@ -5,8 +5,15 @@ korean: "롱"
 korean_native: "대바구니"
 japanese:
   - ROU
-japanese_native: かご
+japanese_nanori: ""
 vietnamese:
+  - lung
+  - luông
+  - luồng
+  - lồng
+  - rong
+  - ruồng
+  - trông
 middle_chinese_initial: l
 middle_chinese_final: "uŋ"
 stroke_count: 22

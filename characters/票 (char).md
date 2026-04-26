@@ -5,8 +5,9 @@ korean: "표"
 korean_native: "표"
 japanese:
   - HYOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - phiếu
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "ɣiᴇu"
 stroke_count: 11

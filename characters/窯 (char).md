@@ -5,8 +5,9 @@ korean: "요"
 korean_native: ""
 japanese:
   - YOU
-japanese_native: かま
+japanese_nanori: ""
 vietnamese:
+  - dao
 middle_chinese_initial: j
 middle_chinese_final: iᴇu
 stroke_count: 15

@@ -5,8 +5,10 @@ korean: "소"
 korean_native: "웃음"
 japanese:
   - SHOU
-japanese_native: わら
+japanese_nanori: ""
 vietnamese:
+  - tiếu
+  - téo
 middle_chinese_initial: s
 middle_chinese_final: "iᴇu"
 stroke_count: 10

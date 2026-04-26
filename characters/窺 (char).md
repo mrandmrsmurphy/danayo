@@ -5,8 +5,9 @@ korean: "규"
 korean_native: "엿볼"
 japanese:
   - KI
-japanese_native: うかが
+japanese_nanori: ""
 vietnamese:
+  - khuy
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "iuᴇ"
 stroke_count: 16

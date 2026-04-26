@@ -5,8 +5,9 @@ korean: "통"
 korean_native: "대통"
 japanese:
   - TOU
-japanese_native: つつ
+japanese_nanori: ""
 vietnamese:
+  - đồng
 middle_chinese_initial: d
 middle_chinese_final: "uŋ"
 stroke_count: 12

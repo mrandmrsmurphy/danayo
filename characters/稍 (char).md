@@ -6,8 +6,11 @@ korean_native: "점점"
 japanese:
   - SOU
   - SHOU
-japanese_native: やや
+japanese_nanori: ""
 vietnamese:
+  - rảo
+  - sảo
+  - xao
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣau"
 stroke_count: 12

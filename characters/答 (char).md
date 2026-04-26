@@ -5,8 +5,11 @@ korean: 답
 korean_native: 대답
 japanese:
   - TOU
-japanese_native: こた
+japanese_nanori: ""
 vietnamese:
+  - hóp
+  - đáp
+  - đớp
 middle_chinese_initial: t
 middle_chinese_final: ʌp
 stroke_count: 12

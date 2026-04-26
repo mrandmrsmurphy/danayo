@@ -5,8 +5,13 @@ korean: "독"
 korean_native: "대머리"
 japanese:
   - TOKU
-japanese_native: ちび
+japanese_nanori: ""
 vietnamese:
+  - ngốc
+  - sốc
+  - thóc
+  - thốc
+  - trọc
 middle_chinese_initial: "tʰ"
 middle_chinese_final: uk
 stroke_count: 7

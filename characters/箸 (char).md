@@ -6,8 +6,12 @@ korean_native: "젓가락"
 japanese:
   - CHO
   - CHAKU
-japanese_native: はし
+japanese_nanori: ""
 vietnamese:
+  - chước
+  - giạ
+  - trứ
+  - đũa
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɨʌ"
 stroke_count: 15

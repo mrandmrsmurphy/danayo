@@ -5,8 +5,10 @@ korean: "선"
 korean_native: 봉선
 japanese:
   - ZEN
-japanese_native: しずか
+japanese_nanori: ""
 vietnamese:
+  - thiền
+  - xèng
 middle_chinese_initial: ʑ
 middle_chinese_final: iᴇn
 stroke_count: 13

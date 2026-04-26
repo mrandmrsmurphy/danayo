@@ -6,8 +6,14 @@ korean_native: "마디"
 japanese:
   - SETSU
   - SECHI
-japanese_native: ふし
+japanese_nanori: ""
 vietnamese:
+  - tiết
+  - tét
+  - típ
+  - tít
+  - tết
+  - tịt
 middle_chinese_initial: "t͡s"
 middle_chinese_final: et
 stroke_count: 13

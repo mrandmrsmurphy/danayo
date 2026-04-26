@@ -5,8 +5,10 @@ korean: "초"
 korean_native: "분초"
 japanese:
   - BYOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - miểu
+  - sao
 middle_chinese_initial: m
 middle_chinese_final: "iᴇu"
 stroke_count: 9

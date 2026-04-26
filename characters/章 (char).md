@@ -5,8 +5,10 @@ korean: "장"
 korean_native: "글"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - chương
+  - trương
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 11

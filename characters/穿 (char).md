@@ -5,8 +5,10 @@ korean: "천"
 korean_native: "뚫을"
 japanese:
   - SEN
-japanese_native: うが
+japanese_nanori: ""
 vietnamese:
+  - xoen
+  - xuyên
 middle_chinese_initial: "t͡ɕʰ"
 middle_chinese_final: "iuᴇn"
 stroke_count: 10

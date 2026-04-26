@@ -6,8 +6,11 @@ korean_native: "상자"
 japanese:
   - SHOU
   - SOU
-japanese_native: はこ
+japanese_nanori: ""
 vietnamese:
+  - rương
+  - sương
+  - tương
 middle_chinese_initial: s
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 15

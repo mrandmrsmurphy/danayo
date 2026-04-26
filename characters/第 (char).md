@@ -5,8 +5,10 @@ korean: "제"
 korean_native: "차례"
 japanese:
   - DAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đậy
+  - đệ
 middle_chinese_initial: d
 middle_chinese_final: ei
 stroke_count: 11

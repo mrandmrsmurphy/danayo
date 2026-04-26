@@ -6,8 +6,9 @@ korean_native: "굴"
 japanese:
   - KUTSU
   - KOTSU
-japanese_native: いわや
+japanese_nanori: ""
 vietnamese:
+  - quật
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uət"
 stroke_count: 13

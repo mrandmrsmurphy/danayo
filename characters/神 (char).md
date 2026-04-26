@@ -6,8 +6,10 @@ korean_native: "귀신"
 japanese:
   - SHIN
   - JIN
-japanese_native: かみ
+japanese_nanori: ""
 vietnamese:
+  - thườn
+  - thần
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "iɪn"
 stroke_count: 10

@@ -5,8 +5,9 @@ korean: "편"
 korean_native: "책"
 japanese:
   - HEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thiên
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iᴇn"
 stroke_count: 15
