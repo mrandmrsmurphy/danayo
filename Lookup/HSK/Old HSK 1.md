@@ -699,7 +699,10 @@ views:
       - file.name
       - hsk_level
       - grade_level
+      - characters
     sort:
+      - property: characters
+        direction: DESC
       - property: grade_level
         direction: ASC
       - property: hsk_level
@@ -708,4 +711,5 @@ views:
       - file
       - file.path
       - file.links.length
+
 ```
