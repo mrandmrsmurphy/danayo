@@ -31,7 +31,7 @@ mc_id: 5350
 graphemic_classification: "圭"
 stand_in: "哇"
 aliases:
-注音: "ㆼㄨ"
+注音: "⺢ㄨ"
 tags:
   - character
 ---

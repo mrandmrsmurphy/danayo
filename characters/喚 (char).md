@@ -30,7 +30,7 @@ graphemic_classification: "奐"
 stand_in: "喚"
 aliases:
   - 唤
-注音: "ㄏㆼㄋ"
+注音: "ㄏ⺢ㄋ"
 tags:
   - character
 ---

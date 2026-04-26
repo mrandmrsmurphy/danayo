@@ -36,7 +36,7 @@ graphemic_classification: "畫"
 stand_in: "劃"
 aliases:
   - 划
-注音: "ㄏㆼㄎ"
+注音: "ㄏ⺢ㄎ"
 tags:
   - character
 ---

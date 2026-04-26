@@ -33,7 +33,7 @@ graphemic_classification: "咼"
 stand_in: "過"
 aliases:
   - 过
-注音: "ㄍㆼ"
+注音: "ㄍ⺢"
 tags:
   - character
 ---

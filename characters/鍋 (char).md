@@ -28,7 +28,7 @@ graphemic_classification: "咼"
 stand_in: "鍋"
 aliases:
   - 锅
-注音: "ㄍㆼ"
+注音: "ㄍ⺢"
 tags:
   - character
 ---
@@ -38,6 +38,6 @@ tags:
 ```
 ## Notes
 - 形声: OC \*kloːl): semantic [[Radical 167|金]] (“metal”) + phonetic [[咼]] (OC \*kʰʷroːl).
-- [[SKIP-1-8-9]] ([[Stroke 17]]) [[ㄍㆼ]]
+- [[SKIP-1-8-9]] ([[Stroke 17]]) [[ㄍ⺢]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 戈一合]]

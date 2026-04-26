@@ -28,7 +28,7 @@ mc_id: 1278
 graphemic_classification: "會意"
 stand_in: "臥"
 aliases:
-注音: "ㆼ"
+注音: "⺢"
 tags:
   - character
 ---

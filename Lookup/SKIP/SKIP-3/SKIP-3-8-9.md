@@ -8,7 +8,7 @@ skip_number: 3-8-9
 > [Stroke 17](lookup/Stroke/Stroke%2017.md)
 
 ## Characters
-1. <ruby>[闊](/characters/闊%20(char).md)<rt>ㄎㆼㄊ</rt></ruby> - broad
+1. <ruby>[闊](/characters/闊%20(char).md)<rt>ㄎ⺢ㄊ</rt></ruby> - broad
 
 ## Datacheck
 ```dataview

@@ -31,7 +31,7 @@ stand_in: "話"
 aliases:
   - 话
   - 䛡
-注音: "ㄏㆼㄧ"
+注音: "ㄏ⺢ㄧ"
 tags:
   - character
 ---

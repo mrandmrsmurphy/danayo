@@ -19,4 +19,4 @@ language: English
 	- <ruby>[紅](/words/紅.md)<rt>ㄏㄛㄫ</rt></ruby> (crimson)
 	- <ruby>[赤](/words/赤.md)<rt>ㄑㄝㄎ</rt></ruby>
 - white - <ruby>[白](/words/白.md)<rt>ㄅㄚㄎ</rt></ruby>
-- yellow - <ruby>[黄](/words/黄.md)<rt>ㄏㆼㄫ</rt></ruby>
+- yellow - <ruby>[黄](/words/黄.md)<rt>ㄏ⺢ㄫ</rt></ruby>

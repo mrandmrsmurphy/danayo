@@ -31,7 +31,7 @@ mc_id: 8213
 graphemic_classification: 象形
 stand_in: 串
 aliases:
-注音: ㄐㆼㄇ
+注音: ㄐ⺢ㄇ
 tags:
   - character
 ---

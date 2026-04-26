@@ -37,7 +37,7 @@ graphemic_classification: "會意"
 stand_in: "亘"
 aliases:
   - 咺
-注音: "ㄏㆼㄋ"
+注音: "ㄏ⺢ㄋ"
 tags:
   - character
 ---

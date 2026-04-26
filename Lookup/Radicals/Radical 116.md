@@ -14,15 +14,15 @@ radical: 穴
 6. <ruby>[[窆]]<rt>ㄅ⼶ㄇ</rt></ruby> put a coffin in a grave
 7. <ruby>[[窈]]<rt>⼄ㄨ</rt></ruby> graceful
 8. <ruby>[[窒]]<rt>ㄉㄝㄊ</rt></ruby> suffocate, choke
-9. <ruby>[[窓]]<rt>ㄑㆼㄫ</rt></ruby> window
+9. <ruby>[[窓]]<rt>ㄑ⺢ㄫ</rt></ruby> window
 10. <ruby>[[窕]]<rt>ㄉㄛㄨ</rt></ruby> elegant
 11. <ruby>[[窟 (char)|窟]]<rt>ㄎㄛㄊ</rt></ruby> cavern
-12. <ruby>[[窩]]<rt>ㄍㆼ</rt></ruby> fossa
-13. <ruby>[[窪]]<rt>ㆼ</rt></ruby> hollow, pit, depression
+12. <ruby>[[窩]]<rt>ㄍ⺢</rt></ruby> fossa
+13. <ruby>[[窪]]<rt>⺢</rt></ruby> hollow, pit, depression
 14. <ruby>[[窮]]<rt>ㄍㄨㄫ</rt></ruby> poverty
 15. <ruby>[[窯 (char)|窯]]<rt>⼄ㄨ</rt></ruby> kiln
 16. <ruby>[[窺 (char)|窺]]<rt>ㄎㄨㄧ</rt></ruby> spy on
-17. <ruby>[[竃]]<rt>ㄐㆼ</rt></ruby> kitchen stove
+17. <ruby>[[竃]]<rt>ㄐ⺢</rt></ruby> kitchen stove
 18. <ruby>[[竄]]<rt>ㄑㄚㄋ</rt></ruby> revise, edit
 19. <ruby>[[穿 (char)|穿]]<rt>ㄑㄝㄋ</rt></ruby> penetrate, pierce, drill
 20. <ruby>[[究]]<rt>ㄍ⼜</rt></ruby> research, investigate

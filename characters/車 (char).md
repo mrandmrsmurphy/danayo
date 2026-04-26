@@ -31,7 +31,7 @@ graphemic_classification: 象形
 stand_in: 車
 aliases:
   - 车
-注音: ㄑㆼ
+注音: ㄑ⺢
 tags:
   - character
   - hapax

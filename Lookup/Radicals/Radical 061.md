@@ -25,7 +25,7 @@ radical: 心
 8. <ruby>[応](../../characters/応%20(char).md)<rt>ㄧㄫ</rt></ruby> - respond
 9. <ruby>[忝](../../characters/忝.md)<rt>ㄊㄧㄇ</rt></ruby> - shame
 10. <ruby>[忠](../../characters/忠.md)<rt>ㄊㄨㄫ</rt></ruby> - loyalty
-11. <ruby>[快](../../characters/快%20(char).md)<rt>ㄎㆼㄧ</rt></ruby> - sharp
+11. <ruby>[快](../../characters/快%20(char).md)<rt>ㄎ⺢ㄧ</rt></ruby> - sharp
 
 ### +4 Strokes
 12. <ruby>[念](../../characters/念.md)<rt>ㄋㄝㄇ</rt></ruby> - thought
@@ -33,7 +33,7 @@ radical: 心
 14. <ruby>[怖](../../characters/怖.md)<rt>ㄆㄛ</rt></ruby> - dreadful
 15. <ruby>[怗](../../characters/怗.md)<rt>ㄊㄧㄆ</rt></ruby> - observant
 16. <ruby>[性](../../characters/性.md)<rt>ㄙㄧㄫ</rt></ruby> - gender
-17. <ruby>[怪](../../characters/怪.md)<rt>ㄍㆼㄧ</rt></ruby> - strange
+17. <ruby>[怪](../../characters/怪.md)<rt>ㄍ⺢ㄧ</rt></ruby> - strange
 
 ### +5 Strokes
 18. <ruby>[怒](../../characters/怒%20(char).md)<rt>ㄋㄛ</rt></ruby> - angry
@@ -66,7 +66,7 @@ radical: 心
 ### +7 Strokes
 42. <ruby>[悉](../../characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - comprehend
 43. <ruby>[悠](../../characters/悠.md)<rt>⼜ㄛ</rt></ruby> - remote
-44. <ruby>[患](../../characters/患%20(char).md)<rt>ㄏㆼㄇ</rt></ruby> - suffer from
+44. <ruby>[患](../../characters/患%20(char).md)<rt>ㄏ⺢ㄇ</rt></ruby> - suffer from
 45. <ruby>[悪](../../characters/悪%20(char).md)<rt>ㄚㄎ</rt></ruby> - bad
 46. <ruby>[悸](../../characters/悸.md)<rt>ㄍㄧ</rt></ruby> - perturbed
 47. <ruby>[悼](../../characters/悼%20(char).md)<rt>ㄉㄚㄨ</rt></ruby> - lament
@@ -81,9 +81,9 @@ radical: 心
 54. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad
 55. <ruby>[悶](../../characters/悶.md)<rt>ㄇㄛㄋ</rt></ruby> - agony
 56. <ruby>[惑](../../characters/惑%20(char).md)<rt>ㄏㄛㄎ</rt></ruby> - annoying
-57. <ruby>[惰](../../characters/惰.md)<rt>ㄉㆼ</rt></ruby> - lazy
+57. <ruby>[惰](../../characters/惰.md)<rt>ㄉ⺢</rt></ruby> - lazy
 58. <ruby>[愉](../../characters/愉.md)<rt>⼜ㄇ</rt></ruby> - pleasure
-59. <ruby>[慌](../../characters/慌.md)<rt>ㄏㆼㄫ</rt></ruby> - nervous
+59. <ruby>[慌](../../characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - nervous
 
 ### +9 Strokes
 60. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
@@ -128,7 +128,7 @@ radical: 心
 93. <ruby>[憲](../../characters/憲.md)<rt>ㄏㄝㄋ</rt></ruby> - constitution
 94. <ruby>[憶](../../characters/憶.md)<rt>ㄧㄎ</rt></ruby> - recollect
 95. <ruby>[憾](../../characters/憾.md)<rt>ㄏㄚㄇ</rt></ruby> - regrettable
-96. <ruby>[懐](../../characters/懐%20(char).md)<rt>ㄏㆼㄧ</rt></ruby> - miss
+96. <ruby>[懐](../../characters/懐%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - miss
 
 ### +13 Strokes
 97. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere

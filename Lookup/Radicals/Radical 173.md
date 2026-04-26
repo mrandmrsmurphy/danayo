@@ -26,10 +26,10 @@ date-last-perfect: 2026-03-27
 10. <ruby>[震](/characters/震.md)<rt>ㄐㄧㄋ</rt></ruby> - shake
 11. <ruby>[霊](/characters/霊.md)<rt>ㄌㄝㄫ</rt></ruby> - ghost
 ### +8
-12. <ruby>[霍](/characters/霍.md)<rt>ㄍㆼㄎ</rt></ruby> - sudden
+12. <ruby>[霍](/characters/霍.md)<rt>ㄍ⺢ㄎ</rt></ruby> - sudden
 13. <ruby>[霓](/characters/霓.md)<rt>ㄝㄧ</rt></ruby> - rainbow
 ### +9
-14. <ruby>[霜](/characters/霜%20(char).md)<rt>ㄙㆼㄫ</rt></ruby> - frost
+14. <ruby>[霜](/characters/霜%20(char).md)<rt>ㄙ⺢ㄫ</rt></ruby> - frost
 15. <ruby>[霞](/characters/霞.md)<rt>ㄏㄚ</rt></ruby> - mist
 ### +11
 16. <ruby>[霧](/characters/霧%20(char).md)<rt>ㄇㄨ</rt></ruby> - fog

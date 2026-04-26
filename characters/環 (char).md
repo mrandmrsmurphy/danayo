@@ -29,7 +29,7 @@ graphemic_classification: "瞏"
 stand_in: "環"
 aliases:
   - 环
-注音: "ㄏㆼㄋ"
+注音: "ㄏ⺢ㄋ"
 tags:
   - character
 ---

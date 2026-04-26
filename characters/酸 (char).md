@@ -28,7 +28,7 @@ mc_id: 1717
 graphemic_classification: "夋"
 stand_in: "酸"
 aliases:
-注音: "ㄙㆼㄋ"
+注音: "ㄙ⺢ㄋ"
 tags:
   - character
 ---

@@ -28,7 +28,7 @@ graphemic_classification: 褱
 stand_in: 懐
 aliases:
   - 懷
-注音: ㄏㆼㄧ
+注音: ㄏ⺢ㄧ
 tags:
   - character
 ---

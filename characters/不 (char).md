@@ -69,7 +69,7 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 ## Chengyu
 - <ruby>[不共戴天](/chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby>
 - [[不遠千里]]
-- <ruby>[優柔不断](/chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉㆼㄋ</rt></ruby> - shilly shally
+- <ruby>[優柔不断](/chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> - shilly shally
 - <ruby>[欲求不満](/chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety
 - <ruby>[百聞不如一見](/chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> - one look is worth a thousand tellings
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby>

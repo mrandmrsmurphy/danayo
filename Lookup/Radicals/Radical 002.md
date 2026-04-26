@@ -18,7 +18,7 @@ radical: 丨
 - 丰-->豊
 - 书-->書
 ### +6 Strokes
-2. <ruby>[串](../../characters/串%20(char).md)<rt>ㄐㆼㄋ</rt></ruby> - skewer
+2. <ruby>[串](../../characters/串%20(char).md)<rt>ㄐ⺢ㄋ</rt></ruby> - skewer
 ### +7 Strokes
 - 丳-->串
 ### +8 Strokes

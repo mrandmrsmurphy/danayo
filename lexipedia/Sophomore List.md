@@ -21,7 +21,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- light - <ruby>[柔軟](/words/柔軟.md)<rt>ㄋ⼜ㄋㄧㄋ</rt></ruby>
 ### Opposites
 * beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>ㄑㄨ·ㄚㄎ</rt></ruby>
-* fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏㆼㄋㄇㄚㄋ</rt></ruby>
+* fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby>
 * first - <ruby>[[第一]]<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>
 * hard - <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby>
@@ -29,7 +29,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 * real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake <ruby>[[不真]]<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>ㄚㄋ</rt></ruby>)
 * upper - [[上]]- , lower - [[下]]-
 * expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[../words/便]]<rt>ㄅ⼶ㄋ</rt></ruby>
-* sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙㆼㄇ</rt></ruby>
+* sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙ⺢ㄇ</rt></ruby>
 * strong - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
 - Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuodiǝ</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[湾曲]]
@@ -142,20 +142,20 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Accessories : DVD, hard drive, keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>, mouse - <ruby>[[滑鼠]]<rt>gotsyo</rt></ruby>, monitor
 - Programs : program, game, word processor, compiler
 - Internet : internet, email, web, website, download, browser, blog, post, flame, lurker, newb, chat
-- Disciplines : physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>, chemistry - <ruby>[[化学]]<rt>ㄏㆼㄏㄚㄎ</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
+- Disciplines : physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>, chemistry - <ruby>[[化学]]<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
 - Physics
 	- atom - <ruby>[[原子]]<rt>⼔ㄋㄐㄧ</rt></ruby>,
 	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
 	- energy,
 	- nuclear,
 	- particle,
-	- photon - <ruby>[[光子]]<rt>ㄍㆼㄫㄐㄧ</rt></ruby>,
+	- photon - <ruby>[[光子]]<rt>ㄍ⺢ㄫㄐㄧ</rt></ruby>,
 	- proton - <ruby>[[陽子]]<rt>⼘ㄫㄐㄧ</rt></ruby>,
 	- neutron - [[中性子]]
 	- electron - <ruby>[[電子]]<rt>ㄉㄝㄋㄐㄧ</rt></ruby>
 - Biology :
 	- cell - <ruby>[[細胞]]<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>,
-	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏㆼ</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
+	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏ⺢</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
 	- gene
 - Substance : plastic
 - Appliance : stove, sink, dishwasher, refrigerator, washer, dryer, furnace, AC

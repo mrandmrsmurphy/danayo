@@ -34,7 +34,7 @@ graphemic_classification: 兌
 stand_in: 脱
 aliases:
   - 脫
-注音: ㄉㆼㄊ
+注音: ㄉ⺢ㄊ
 tags:
   - character
 ---

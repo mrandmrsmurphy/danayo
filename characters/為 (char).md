@@ -42,7 +42,7 @@ tags:
 ```
 
 # Notes
-- 為 is a "copulative particle", a prefix for a verbal complement, as is <ruby>[[words/謂之]]<rt>ㄨㄧㄊㄧ</rt></ruby><ruby>光明<rt>ㄍㆼㄫㄇ⼶ㄫ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby>、- "he named the light 'day',"
+- 為 is a "copulative particle", a prefix for a verbal complement, as is <ruby>[[words/謂之]]<rt>ㄨㄧㄊㄧ</rt></ruby><ruby>光明<rt>ㄍ⺢ㄫㄇ⼶ㄫ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby>、- "he named the light 'day',"
 - Graphemic descendant: [[偽 (char)]]
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 支B三合]]

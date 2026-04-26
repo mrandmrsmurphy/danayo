@@ -29,7 +29,7 @@ mc_id: 3269
 graphemic_classification: "夸"
 stand_in: "跨"
 aliases:
-注音: "ㄎㆼ"
+注音: "ㄎ⺢"
 tags:
   - character
 ---

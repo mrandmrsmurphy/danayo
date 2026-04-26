@@ -41,7 +41,7 @@ radical: 鳥
 #### +17
 21. <ruby>[鸚](../../characters/鸚.md)<rt>ㄚㄫ</rt></ruby> - parrot
 #### +18
-22. <ruby>[鸛](../../characters/鸛.md)<rt>ㄍㆼㄋ</rt></ruby> - stork
+22. <ruby>[鸛](../../characters/鸛.md)<rt>ㄍ⺢ㄋ</rt></ruby> - stork
 
 ## Data check
 ```dataview

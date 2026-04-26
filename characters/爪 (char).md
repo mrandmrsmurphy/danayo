@@ -31,7 +31,7 @@ mc_id: 1942
 graphemic_classification: "象形"
 stand_in: "爪"
 aliases:
-注音: "ㄐㆼㄨ"
+注音: "ㄐ⺢ㄨ"
 tags:
   - character
 ---

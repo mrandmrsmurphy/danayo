@@ -10,12 +10,12 @@ The basic object in the sky is a "star" <ruby>[星](words/星.md)<rt>ㄙㄝㄫ</
 - Mercury - <ruby>[水星](words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby>
 - Venus - <ruby>[金星](words/金星.md)<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby> (ancient people were unaware that this was the same as the Morning Star <ruby>[[啓明]]<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> and the Evening Star <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby>)
 - Earth - <ruby>[地球](words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>
-- Mars - <ruby>[火星](words/火星.md)<rt>ㄏㆼㄙㄝㄫ</rt></ruby>
+- Mars - <ruby>[火星](words/火星.md)<rt>ㄏ⺢ㄙㄝㄫ</rt></ruby>
 - Jupiter - <ruby>[木星](words/木星.md)<rt>ㄇㄛㄎㄙㄝㄫ</rt></ruby>
 - Saturn - <ruby>[土星](words/土星.md)<rt>ㄊㄛㄙㄝㄫ</rt></ruby> (notice that, skipping the Earth, this order is ''not'' the same as the days of the week)
-- Uranus - <ruby>[天王星](words/天王星.md)<rt>ㄊㄝㄋ·ㆼㄫㄙㄝㄫ</rt></ruby>
-- Neptune - <ruby>[海王星](words/海王星.md)<rt>ㄏㄚㄧ·ㆼㄫㄙㄝㄫ</rt></ruby>
-- Pluto - <ruby>[冥王星](words/冥王星.md)<rt>ㄇㄝㄫ·ㆼㄫㄙㄝㄫ</rt></ruby> (now a dwarf planet (<ruby>[[矮行星]]<rt>ㆼㄧㄏㄚㄫㄙㄝㄫ</rt></ruby>) because of the discovery of Eris <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby>)
+- Uranus - <ruby>[天王星](words/天王星.md)<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby>
+- Neptune - <ruby>[海王星](words/海王星.md)<rt>ㄏㄚㄧ·⺢ㄫㄙㄝㄫ</rt></ruby>
+- Pluto - <ruby>[冥王星](words/冥王星.md)<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> (now a dwarf planet (<ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby>) because of the discovery of Eris <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby>)
 - 
 Between Mars and Jupiter is the Asteroid Belt <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄉㄚㄧ</rt></ruby> (which is made out of asteroids <ruby>[小行星](words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby>), and the region after Neptune is now called the 
 
@@ -25,7 +25,7 @@ Oort Cloud <ruby class="vert">⁠<rt>ㄛ</rt></ruby> ⁠ <ruby class="vert">⁠<
 
 It is believed that most comets (<ruby>[彗星](words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>) come from there.  If one of these or some object enteres our atmosphere, it burns up and becomes as 'shooting star' <ruby>[流星](words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>.
 
-Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·ㄉㄚㄨ</rt></ruby>) within a galaxy (<ruby>[恒星系](words/恒星系.md)<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby>), specifically, the Milky Way <ruby>[銀河系](words/銀河系.md)<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>[銀河](words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>.) Looking out, we see nebulae <ruby>[星雲](words/星雲.md)<rt>ㄙㄝㄫ·ㄨㄋ</rt></ruby> and novae <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>[星坐](words/星坐.md)<rt>ㄙㄝㄫㄐㆼ</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>[星群](words/星群.md)<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby>.
+Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·ㄉㄚㄨ</rt></ruby>) within a galaxy (<ruby>[恒星系](words/恒星系.md)<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby>), specifically, the Milky Way <ruby>[銀河系](words/銀河系.md)<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>[銀河](words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>.) Looking out, we see nebulae <ruby>[星雲](words/星雲.md)<rt>ㄙㄝㄫ·ㄨㄋ</rt></ruby> and novae <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>[星坐](words/星坐.md)<rt>ㄙㄝㄫㄐ⺢</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>[星群](words/星群.md)<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby>.
 
 ### Events
 - <ruby>[地平線](words/地平線.md)<rt>ㄉㄧㄜㄅ⼶ㄫㄙ⼶ㄋ</rt></ruby> - horizon 

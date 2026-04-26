@@ -5,7 +5,7 @@ size: 1
 ---
 > [[Stroke]]
 
-- <ruby>[[鸛]]<rt>ㄍㆼㄋ</rt></ruby> - stork
+- <ruby>[[鸛]]<rt>ㄍ⺢ㄋ</rt></ruby> - stork
 
 That's it!
 

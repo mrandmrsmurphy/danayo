@@ -29,7 +29,7 @@ mc_id: 14
 graphemic_classification: 象形
 stand_in: 王
 aliases:
-注音: ㆼㄫ
+注音: ⺢ㄫ
 tags:
   - character
 ---

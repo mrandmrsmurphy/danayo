@@ -26,7 +26,7 @@ mc_id: 8377
 graphemic_classification: "舌"
 stand_in: "筈"
 aliases:
-注音: "ㄍㆼㄊ"
+注音: "ㄍ⺢ㄊ"
 tags:
   - character
 ---

@@ -46,7 +46,7 @@ radical: 木
 27. <ruby>[杴](../../characters/杴.md)<rt>ㄏ⼶ㄇ</rt></ruby> - water shovel
 28. <ruby>[松](../../characters/松%20(char).md)<rt>ㄙ⼄ㄫ</rt></ruby> - pine
 29. <ruby>[板](../../characters/板.md)<rt>ㄆㄚㄋ</rt></ruby> - plank
-30. <ruby>[枉](../../characters/枉.md)<rt>ㆼㄫ</rt></ruby> - bent
+30. <ruby>[枉](../../characters/枉.md)<rt>⺢ㄫ</rt></ruby> - bent
 31. <ruby>[析](../../characters/析.md)<rt>ㄙㄝㄎ</rt></ruby> - parse
 32. <ruby>[枕](../../characters/枕.md)<rt>ㄐㄧㄇ</rt></ruby> - pillow
 33. <ruby>[林](../../characters/林%20(char).md)<rt>ㄌㄧㄇ</rt></ruby> - grove
@@ -55,7 +55,7 @@ radical: 木
 36. <ruby>[枢](../../characters/枢%20(char).md)<rt>ㄑㄨ</rt></ruby> - hinge
 
 ### +5 Strokes
-37. <ruby>[果](../../characters/果.md)<rt>ㄍㆼ</rt></ruby> - fruit
+37. <ruby>[果](../../characters/果.md)<rt>ㄍ⺢</rt></ruby> - fruit
 38. <ruby>[枯](../../characters/枯%20(char).md)<rt>ㄎㄛ</rt></ruby> - withered
 39. <ruby>[架](../../characters/架%20(char).md)<rt>ㄍㄚ</rt></ruby> - rack
 40. <ruby>[枼](../../characters/枼.md)<rt>ㄨㄆ</rt></ruby> - table leaf
@@ -72,7 +72,7 @@ radical: 木
 51. <ruby>[柯](../../characters/柯.md)<rt>ㄍㄚ</rt></ruby> - axe handle
 52. <ruby>[柱](../../characters/柱%20(char).md)<rt>ㄐㄨ</rt></ruby> - pillar
 53. <ruby>[柳](../../characters/柳%20(char).md)<rt>ㄌ⼜</rt></ruby> - willow
-54. <ruby>[柴](../../characters/柴.md)<rt>ㄐㆼㄧ</rt></ruby> - firewood
+54. <ruby>[柴](../../characters/柴.md)<rt>ㄐ⺢ㄧ</rt></ruby> - firewood
 55. <ruby>[柵](../../characters/柵%20(char).md)<rt>ㄑㄚㄎ</rt></ruby> - fence
 56. <ruby>[査](../../characters/査.md)<rt>ㄐㄚ</rt></ruby> - investigate
 57. <ruby>[柿](../../characters/柿.md)<rt>ㄙㄜ</rt></ruby> - persimmon
@@ -96,11 +96,11 @@ radical: 木
 73. <ruby>[桌](../../characters/桌%20(char).md)<rt>ㄊㄚㄎ</rt></ruby> - table
 74. <ruby>[桐](../../characters/桐.md)<rt>ㄉㄛㄫ</rt></ruby> - paulownia
 75. <ruby>[桑](../../characters/桑.md)<rt>ㄙㄚㄫ</rt></ruby> - mulberry
-76. <ruby>[桓](../../characters/桓.md)<rt>ㄏㆼㄋ</rt></ruby> - soapberry
+76. <ruby>[桓](../../characters/桓.md)<rt>ㄏ⺢ㄋ</rt></ruby> - soapberry
 77. <ruby>[桔](../../characters/桔.md)<rt>ㄍㄝㄊ</rt></ruby> - balloon flower
 78. <ruby>[桜](../../characters/桜%20(char).md)<rt>ㄚㄫ</rt></ruby> - cherry blossom
 79. <ruby>[桟](../../characters/桟.md)<rt>ㄐㄚㄋ</rt></ruby> - inn
-80. <ruby>[桧](../../characters/桧.md)<rt>ㄍㆼㄧ</rt></ruby> - tree kind
+80. <ruby>[桧](../../characters/桧.md)<rt>ㄍ⺢ㄧ</rt></ruby> - tree kind
 81. <ruby>[梅](../../characters/梅.md)<rt>ㄇㄛㄧ</rt></ruby> - plum
 
 ### +7 Strokes
@@ -127,7 +127,7 @@ radical: 木
 100. <ruby>[棟](../../characters/棟.md)<rt>ㄉㄛㄫ</rt></ruby> - ridgepole
 101. <ruby>[森](../../characters/森.md)<rt>ㄙㄨㄇ</rt></ruby> - forest
 102. <ruby>[棲](../../characters/棲.md)<rt>ㄙㄝㄧ</rt></ruby> - loft
-103. <ruby>[棺](../../characters/棺%20(char).md)<rt>ㄍㆼㄋ</rt></ruby> - coffin
+103. <ruby>[棺](../../characters/棺%20(char).md)<rt>ㄍ⺢ㄋ</rt></ruby> - coffin
 104. <ruby>[椅](../../characters/椅.md)<rt>ㄜㄧ</rt></ruby> - chair
 105. <ruby>[椋](../../characters/椋.md)<rt>ㄌ⼘ㄫ</rt></ruby> - starling
 106. <ruby>[植](../../characters/植.md)<rt>ㄙㄧㄎ</rt></ruby> - plants
@@ -158,12 +158,12 @@ radical: 木
 127. <ruby>[概](../../characters/概%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - rough idea
 128. <ruby>[榴](../../characters/榴.md)<rt>ㄌ⼜</rt></ruby> - pomegranate
 129. <ruby>[構](../../characters/構.md)<rt>ㄍㄛㄨ</rt></ruby> - build
-130. <ruby>[槍](../../characters/槍%20(char).md)<rt>ㄑㆼㄫ</rt></ruby> - spear
-131. <ruby>[槐](../../characters/槐.md)<rt>ㄏㆼㄧ</rt></ruby> - pagoda tree
+130. <ruby>[槍](../../characters/槍%20(char).md)<rt>ㄑ⺢ㄫ</rt></ruby> - spear
+131. <ruby>[槐](../../characters/槐.md)<rt>ㄏ⺢ㄧ</rt></ruby> - pagoda tree
 132. <ruby>[様](../../characters/様%20(char).md)<rt>⼘ㄫ</rt></ruby> - ly (adverbializer)
 133. <ruby>[槙](../../characters/槙.md)<rt>ㄉㄝㄋ</rt></ruby> - tree tip
 134. <ruby>[模](../../characters/模.md)<rt>ㄇㄛ</rt></ruby> - imitate
-135. <ruby>[樺](../../characters/樺.md)<rt>ㄏㆼ</rt></ruby> - birch
+135. <ruby>[樺](../../characters/樺.md)<rt>ㄏ⺢</rt></ruby> - birch
 
 ### +11 Strokes
 136. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree
@@ -171,7 +171,7 @@ radical: 木
 138. <ruby>[標](../../characters/標.md)<rt>ㄅ⼄</rt></ruby> - sign
 139. <ruby>[樟](../../characters/樟.md)<rt>ㄐㄚㄫ</rt></ruby> - camphor tree
 140. <ruby>[権](../../characters/権.md)<rt>ㄍ⼔ㄋ</rt></ruby> - power
-141. <ruby>[横](../../characters/横.md)<rt>ㄏㆼㄫ</rt></ruby> - horizontal
+141. <ruby>[横](../../characters/横.md)<rt>ㄏ⺢ㄫ</rt></ruby> - horizontal
 
 ### +12 Strokes
 142. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant

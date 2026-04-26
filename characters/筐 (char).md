@@ -28,7 +28,7 @@ graphemic_classification: "匡"
 stand_in: "筐"
 aliases:
   - 筺
-注音: "ㄎㆼㄫ"
+注音: "ㄎ⺢ㄫ"
 tags:
   - character
 ---

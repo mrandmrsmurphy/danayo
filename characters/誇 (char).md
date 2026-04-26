@@ -31,7 +31,7 @@ graphemic_classification: 夸
 stand_in: 誇
 aliases:
   - 夸
-注音: ㄎㆼ
+注音: ㄎ⺢
 tags:
   - character
 ---

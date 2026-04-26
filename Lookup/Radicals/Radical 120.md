@@ -57,7 +57,7 @@ radical: 糸
 36. <ruby>[給](../../characters/給.md)<rt>ㄍㄧㄆ</rt></ruby> - supply
 37. <ruby>[絨](../../characters/絨.md)<rt>ㄋㄨㄫ</rt></ruby> - velvet
 38. <ruby>[統](../../characters/統.md)<rt>ㄊㄛㄫ</rt></ruby> - command
-39. <ruby>[絵](../../characters/絵.md)<rt>ㄏㆼㄧ</rt></ruby> - draw
+39. <ruby>[絵](../../characters/絵.md)<rt>ㄏ⺢ㄧ</rt></ruby> - draw
 40. <ruby>[絶](../../characters/絶%20(char).md)<rt>ㄐ⼔ㄊ</rt></ruby> - discontinue
 
 ### +7 Strokes
@@ -84,7 +84,7 @@ radical: 糸
 57. <ruby>[線](../../characters/線.md)<rt>ㄙ⼶ㄋ</rt></ruby> - line
 58. <ruby>[締](../../characters/締%20(char).md)<rt>ㄊㄝㄧ</rt></ruby> - connection
 59. <ruby>[編](../../characters/編.md)<rt>ㄅ⼶ㄋ</rt></ruby> - compile
-60. <ruby>[緩](../../characters/緩.md)<rt>ㄏㆼㄋ</rt></ruby> - sluggish
+60. <ruby>[緩](../../characters/緩.md)<rt>ㄏ⺢ㄋ</rt></ruby> - sluggish
 61. <ruby>[縁](../../characters/縁.md)<rt>⼶ㄋ</rt></ruby> - fate
 62. <ruby>[縄](../../characters/縄%20(char).md)<rt>ㄙㄜㄫ</rt></ruby> - rope
 
@@ -115,7 +115,7 @@ radical: 糸
 80. <ruby>[繰](../../characters/繰%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> - reel
 
 ### +14 Strokes
-81. <ruby>[纂](../../characters/纂.md)<rt>ㄐㆼㄋ</rt></ruby> - compile
+81. <ruby>[纂](../../characters/纂.md)<rt>ㄐ⺢ㄋ</rt></ruby> - compile
 
 ### +15 Strokes
 82. <ruby>[纏](../../characters/纏.md)<rt>ㄐㄝㄋ</rt></ruby> - wrap

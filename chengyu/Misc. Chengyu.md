@@ -4,10 +4,10 @@ tags:
   - chengyu
 ---
 
-- <ruby>[一刀両断](chengyu/一刀両断.md)<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉㆼㄋ</rt></ruby> - cut in two with one stroke
+- <ruby>[一刀両断](chengyu/一刀両断.md)<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> - cut in two with one stroke
 - <ruby>[一刻千金](chengyu/一刻千金.md)<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> - time passed quickly
 - <ruby>[一帆風順](chengyu/一帆風順.md)<rt>ㄧㄊㄆㄚㄇㄆㄨㄫㄙ⼜ㄋ</rt></ruby> - smooth sailing
-- <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄍㆼㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
+- <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄍ⺢ㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
 - <ruby>[一日三秋](chengyu/一日三秋.md)<rt>ㄧㄊㄋㄞㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> - one day is like three autumns
 - <ruby>[一朝一夕](chengyu/一朝一夕.md)<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> - one morning one evening
 - <ruby>[一期一会](chengyu/一期一会.md)<rt>ㄧㄜㄎㄧ·ㄧㄊㄏ⼔</rt></ruby>  - one lifetime, one meeting
@@ -25,9 +25,9 @@ tags:
 - <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄆㄨㄫㄙㄧㄫㄏㄚㄎㄌ·ㄝ</rt></ruby> - panic attack
 - <ruby>[空中楼閣](chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - castle in the sky
 - <ruby>[重文軽武](chengyu/重文軽武.md)<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> - weighty culture, light war
-- <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎㆼㄎ·⼜ㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
+- <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎ⺢ㄎ·⼜ㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
 - <ruby>[人山人海](/chengyu/人山人海.md)<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> - a sea of people
-- <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍㆼㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
+- <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
 
 
 ## Base check

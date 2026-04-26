@@ -46,7 +46,7 @@ size: 250
 43. <ruby>[[木 (char)]]<rt>ㄇㄛㄎ</rt></ruby> - tree, bush
 44. <ruby>[[分 (char)]]<rt>ㄅㄨㄋ</rt></ruby> - divide
 45. <ruby>[[五 (char)]]<rt>ㄛ</rt></ruby> - five, 5
-46. <ruby>[[王 (char)]]<rt>ㆼㄫ</rt></ruby> - king
+46. <ruby>[[王 (char)]]<rt>⺢ㄫ</rt></ruby> - king
 47. <ruby>[[月 (char)]]<rt>⼔ㄊ</rt></ruby> - month, moon
 48. <ruby>[[日 (char)]]<rt>ㄋㄧㄊ</rt></ruby> - day, sun
 49. <ruby>[[六 (char)]]<rt>ㄌㄨㄎ</rt></ruby> - six, 6
@@ -68,7 +68,7 @@ size: 250
 65. <ruby>[[石 (char)]]<rt>ㄙㄝㄎ</rt></ruby> - rock	
 66. <ruby>[[玉 (char)]]<rt>⼄ㄎ</rt></ruby> - jade	
 67. <ruby>[[号]]<rt>ㄏㄚㄨ</rt></ruby> - symbol	
-68. <ruby>[[外]]<rt>ㆼㄧ</rt></ruby> - outside	
+68. <ruby>[[外]]<rt>⺢ㄧ</rt></ruby> - outside	
 69. <ruby>[用](characters/用.md)<rt>⼄ㄫ</rt></ruby> - use	
 70. <ruby>[半](characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - half	
 71. <ruby>[白 (char)](characters/白%20(char).md)<rt>ㄅㄚㄎ</rt></ruby> - white	
@@ -210,12 +210,12 @@ size: 250
 207. <ruby>[魚](characters/魚%20(char).md)<rt>⼄</rt></ruby> - fish	207	
 208. <ruby>[[都]]<rt>ㄉㄛ</rt></ruby> - capital, metropolis	208	
 209. <ruby>[[教]]<rt>ㄍ⼄ㄨ</rt></ruby> - teach	209	
-210. <ruby>[黄](characters/黄%20(char).md)<rt>ㄏㆼㄫ</rt></ruby> - yellow	210	
+210. <ruby>[黄](characters/黄%20(char).md)<rt>ㄏ⺢ㄫ</rt></ruby> - yellow	210	
 211. <ruby>[章](characters/章%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - chapter	211	
 212. <ruby>[細](characters/細%20(char).md)<rt>ㄙㄝㄧ</rt></ruby> - fine, thin, slender, quiet (sound)	212	
 213. <ruby>[軽](characters/軽%20(char).md)<rt>ㄎㄧㄫ</rt></ruby> - light, not heavy	213	
 214. <ruby>[朝](characters/朝%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> - morning	214	
-215. <ruby>[短](characters/短%20(char).md)<rt>ㄉㆼㄋ</rt></ruby> - short	215	
+215. <ruby>[短](characters/短%20(char).md)<rt>ㄉ⺢ㄋ</rt></ruby> - short	215	
 216. <ruby>[[開]]<rt>ㄎㄚㄧ</rt></ruby> - open	216	
 217. <ruby>[雲](characters/雲%20(char).md)<rt>ㄨㄋ</rt></ruby> - cloud	217	
 218. <ruby>[筆](characters/筆%20(char).md)<rt>ㄆㄨㄊ</rt></ruby> - pen, stylus	218	
@@ -227,10 +227,10 @@ size: 250
 224. <ruby>[道](characters/道%20(char).md)<rt>ㄉㄚㄨ</rt></ruby> - way	224	
 225. <ruby>[[間]]<rt>ㄍㄚㄋ</rt></ruby> - between, among	225	
 226. <ruby>[[買]]<rt>ㄇㄚㄧ</rt></ruby> - buy	226	
-227. <ruby>[着](characters/着%20(char).md)<rt>ㄐㆼㄎ</rt></ruby> - wear	227	
+227. <ruby>[着](characters/着%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - wear	227	
 228. <ruby>[新](characters/新%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> - new	228	
 229. <ruby>[圓](characters/圓%20(char).md)<rt>⼔ㄋ</rt></ruby> - circle, round	229	
-230. <ruby>[話](characters/話%20(char).md)<rt>ㄏㆼㄧ</rt></ruby> - speak on, talk about	230	
+230. <ruby>[話](characters/話%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - speak on, talk about	230	
 231. <ruby>[漢](characters/漢.md)<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese)	231	
 232. <ruby>[路](characters/路.md)<rt>ㄌㄛ</rt></ruby> - road, path, journey	232	
 233. <ruby>[電](characters/電.md)<rt>ㄉㄝㄋ</rt></ruby> - electricity	233	
@@ -241,7 +241,7 @@ size: 250
 238. <ruby>[意](characters/意.md)<rt>ㄧ</rt></ruby> - significance, meaning
 239. <ruby>[遠](characters/遠%20(char).md)<rt>ㄛㄋ</rt></ruby> - far
 240. <ruby>[頗](characters/頗%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> - very
-241. <ruby>[算](characters/算%20(char).md)<rt>ㄙㆼㄋ</rt></ruby> - calculate
+241. <ruby>[算](characters/算%20(char).md)<rt>ㄙ⺢ㄋ</rt></ruby> - calculate
 242. <ruby>[語](characters/語.md)<rt>⼄</rt></ruby> - language
 243. <ruby>[歌](characters/歌.md)<rt>ㄍㄚ</rt></ruby> - song
 244. <ruby>[読](characters/読.md)<rt>ㄉㄛㄎ</rt></ruby> - read

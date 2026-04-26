@@ -30,7 +30,7 @@ graphemic_classification: "指事"
 stand_in: "坐"
 aliases:
   - 座
-注音: "ㄐㆼ"
+注音: "ㄐ⺢"
 tags:
   - character
 ---

@@ -31,7 +31,7 @@ mc_id: 2644
 graphemic_classification: "象形"
 stand_in: "勺"
 aliases:
-注音: "ㄐㆼㄎ"
+注音: "ㄐ⺢ㄎ"
 tags:
   - character
 ---

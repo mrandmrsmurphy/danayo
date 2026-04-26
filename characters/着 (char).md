@@ -30,7 +30,7 @@ graphemic_classification: 者
 stand_in: 着
 aliases:
   - 著
-注音: ㄐㆼㄎ
+注音: ㄐ⺢ㄎ
 tags:
   - character
 ---

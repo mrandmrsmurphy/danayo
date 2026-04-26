@@ -20,7 +20,7 @@ language: English
 - nipple - <ruby>乳頭<rt>nudou</rt></ruby>; navel - <ruby>𦜝<rt>jei</rt></ruby>; waist - <ruby>腰部<rt>'youbou</rt></ruby>; hip (bone) - <ruby>腰骨<rt>'yougot</rt></ruby>; abdomen - <ruby>腹部<rt>bukbou</rt></ruby> 
 - thumb/big toe - <ruby>大指<rt>ㄉㄚㄨㄐㄧㄜ</rt></ruby>; knuckle - <ruby>指関節<rt>jiǝgwamjet</rt></ruby>; palm - <ruby>手掌<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>; elbow - <ruby>肘<rt>ㄐㄨㄇ</rt></ruby> 
 - thigh - <ruby>大腿<rt>ㄉㄚㄧㄊㄛㄧ</rt></ruby>; calf - <ruby>脹脛<rt>ㄑㄚㄫㄏㄝㄫ</rt></ruby>, heel - <ruby>踵骨<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby>, sole - <ruby>足裏<rt>ㄐㄛㄎㄌㄧ</rt></ruby>, toe <ruby>足指<rt>ㄐㄛㄎㄌㄧㄜ</rt></ruby>
-- vulva - <ruby>[陰門](words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>; vagina - <ruby>陰道<rt>ㄧㄇㄉㄚㄨ</rt></ruby>; clitoris - <ruby>陰核<rt>ㄧㄇㄏㄚㄎ</rt></ruby>; penis - <ruby>陰茎<rt>ㄧㄇㄏㄚㄫ</rt></ruby> ; testicle - <ruby>睾丸<rt>ㄍㄚㄨㄏㆼㄋ</rt></ruby> or <ruby>精巣<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>; anus - <ruby>肛門<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>
+- vulva - <ruby>[陰門](words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>; vagina - <ruby>陰道<rt>ㄧㄇㄉㄚㄨ</rt></ruby>; clitoris - <ruby>陰核<rt>ㄧㄇㄏㄚㄎ</rt></ruby>; penis - <ruby>陰茎<rt>ㄧㄇㄏㄚㄫ</rt></ruby> ; testicle - <ruby>睾丸<rt>ㄍㄚㄨㄏ⺢ㄋ</rt></ruby> or <ruby>精巣<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>; anus - <ruby>肛門<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>
 
 ## Head
 - cheek - <ruby>頬<rt>ㄍㄝㄆ</rt></ruby>

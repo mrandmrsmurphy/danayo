@@ -50,7 +50,7 @@ kwin: true
 - [SKIP-2-2-6](lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄍㄧㄇ](syllables/ㄍㄧㄇ.md)
 ## Words
 - The most common surname in [Korea](Korea.md).
-- <ruby>[黄金](/words/黄金.md)<rt>ㄏㆼㄫㄍㄧㄇ</rt></ruby> - gold
+- <ruby>[黄金](/words/黄金.md)<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> - gold
 - <ruby>[金属](/words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby> - metal
 - <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> - Friday
 [[Lookup/CC/initials/聲 見]]

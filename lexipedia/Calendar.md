@@ -18,7 +18,7 @@ The middle of the week - <ruby>[週中](/words/週中.md)<rt>ㄐㄨㄛㄐㄨㄫ<
 The end of the week - <ruby>[週末](/words/週末.md)<rt>ㄐㄨㄛㄇㄚㄊ</rt></ruby>.
 
 - <ruby>[月曜日](/words/月曜日.md)<rt>⼔ㄊ⼄ㄨㄋㄧㄊ</rt></ruby> - Monday
-- <ruby>[火曜日](/words/火曜日.md)<rt>ㄏㆼ·⼄ㄨㄋㄧㄊ</rt></ruby> - Tuesday
+- <ruby>[火曜日](/words/火曜日.md)<rt>ㄏ⺢·⼄ㄨㄋㄧㄊ</rt></ruby> - Tuesday
 - <ruby>[水曜日](/words/水曜日.md)<rt>ㄙㄨ·⼄ㄨㄋㄧㄊ</rt></ruby> - Wednesday
 - <ruby>[木曜日](/words/木曜日.md)<rt>ㄇㄛㄎ·⼄ㄨㄋㄧㄊ</rt></ruby> - Thursday
 - <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> - Friday
@@ -167,7 +167,7 @@ The end of the century - [[世紀末]].
 ### Eras
 - <ruby>[明治](/words/明治.md)<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby> (1868–1912)   
 - <ruby>[大正](/words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby> (1912–1926)
-- <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏㆼ</rt></ruby> (1926–1989)
+- <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby> (1926–1989)
 - <ruby>[平成](/words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby> (1989–2019)
 - [[令和]] (2019– )
 

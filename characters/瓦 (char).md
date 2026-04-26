@@ -29,7 +29,7 @@ mc_id: 1738
 graphemic_classification: 象形
 stand_in: 瓦
 aliases:
-注音: ㆼ
+注音: ⺢
 tags:
   - character
 ---

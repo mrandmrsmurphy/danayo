@@ -1,7 +1,7 @@
 ---
-size: 83
+size: 28
 date-last-perfect:
-radical: 糸
+radical: 衣
 ---
 > [[Radicals]]
 
@@ -9,5 +9,5 @@ radical: 糸
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
-WHERE radical = "糸"
+WHERE radical = "衣"
 SORT file.name ASC

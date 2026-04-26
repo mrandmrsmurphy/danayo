@@ -27,7 +27,7 @@ mc_id: 1541
 graphemic_classification: "官"
 stand_in: "棺"
 aliases:
-注音: "ㄍㆼㄋ"
+注音: "ㄍ⺢ㄋ"
 tags:
   - character
 ---

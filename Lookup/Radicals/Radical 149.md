@@ -24,7 +24,7 @@ radical: 言
 9. <ruby>[記](../../characters/記.md)<rt>ㄍㄧ</rt></ruby> - write
 
 ### +4 Strokes
-10. <ruby>[訛](../../characters/訛.md)<rt>ㆼ</rt></ruby> - error
+10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error
 11. <ruby>[訟](../../characters/訟%20(char).md)<rt>ㄙ⼄ㄫ</rt></ruby> - sue
 12. <ruby>[訣](../../characters/訣.md)<rt>ㄍ⼔ㄊ</rt></ruby> - secret
 13. <ruby>[訥](../../characters/訥%20(char).md)<rt>ㄋㄛㄊ</rt></ruby> - mumble
@@ -52,11 +52,11 @@ radical: 言
 31. <ruby>[詫](../../characters/詫.md)<rt>ㄊㄚ</rt></ruby> - brag
 32. <ruby>[詮](../../characters/詮.md)<rt>ㄑㄝㄋ</rt></ruby> - decode
 33. <ruby>[詰](../../characters/詰.md)<rt>ㄎㄧㄊ</rt></ruby> - investigate
-34. <ruby>[話](../../characters/話%20(char).md)<rt>ㄏㆼㄧ</rt></ruby> - speak on
+34. <ruby>[話](../../characters/話%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - speak on
 35. <ruby>[該](../../characters/該%20(char).md)<rt>ㄍㄛㄧ</rt></ruby> - should
 36. <ruby>[詳](../../characters/詳.md)<rt>ㄙㄚㄫ</rt></ruby> - detailed
 37. <ruby>[誅](../../characters/誅.md)<rt>ㄐㄨ</rt></ruby> - execute
-38. <ruby>[誇](../../characters/誇%20(char).md)<rt>ㄎㆼ</rt></ruby> - boast
+38. <ruby>[誇](../../characters/誇%20(char).md)<rt>ㄎ⺢</rt></ruby> - boast
 39. <ruby>[誉](../../characters/誉.md)<rt>⼄</rt></ruby> - reputation
 40. <ruby>[誠](../../characters/誠.md)<rt>ㄙㄧㄫ</rt></ruby> - sincere
 
@@ -75,7 +75,7 @@ radical: 言
 ### +8 Strokes
 51. <ruby>[誕](../../characters/誕.md)<rt>ㄉㄚㄋ</rt></ruby> - be born
 52. <ruby>[誰](../../characters/誰%20(char).md)<rt>ㄙ⼶ㄧ</rt></ruby> - who
-53. <ruby>[課](../../characters/課%20(char).md)<rt>ㄎㆼㄇ</rt></ruby> - lesson
+53. <ruby>[課](../../characters/課%20(char).md)<rt>ㄎ⺢ㄇ</rt></ruby> - lesson
 54. <ruby>[誹](../../characters/誹.md)<rt>ㄈㄧ</rt></ruby> - slander
 55. <ruby>[誼](../../characters/誼.md)<rt>ㄜㄧ</rt></ruby> - friendship
 56. <ruby>[調](../../characters/調.md)<rt>ㄐㄨㄛ</rt></ruby> - transfer

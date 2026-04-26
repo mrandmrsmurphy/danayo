@@ -29,7 +29,7 @@ graphemic_classification: "象形"
 stand_in: "火"
 aliases:
   - 灬
-注音: "ㄏㆼ"
+注音: "ㄏ⺢"
 tags:
   - character
 ---
@@ -42,10 +42,10 @@ tags:
 ## Notes
 
 ## Chengyu
-- <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨㄛㄏㆼ·⼘</rt></ruby> - cloud by day, fire by night
+- <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> - cloud by day, fire by night
 
 ## Words
-- <ruby>[火炉](/words/火炉.md)<rt>ㄏㆼㄌㄛ</rt></ruby> - furnace
+- <ruby>[火炉](/words/火炉.md)<rt>ㄏ⺢ㄌㄛ</rt></ruby> - furnace
 - [[火山]]
 - [[火山島]]
 - [[火車]]

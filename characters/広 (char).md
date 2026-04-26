@@ -31,7 +31,7 @@ aliases:
   - 曠
   - 旷
   - 广
-注音: "ㄍㆼㄫ"
+注音: "ㄍ⺢ㄫ"
 tags:
   - character
 ---

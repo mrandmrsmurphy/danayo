@@ -7,7 +7,7 @@ date-last-perfect: 2026-02-22
 
 ## Characters
 ### Used
-1. <ruby>[[丸]]<rt>ㄏㆼㄋ</rt></ruby>
+1. <ruby>[[丸]]<rt>ㄏ⺢ㄋ</rt></ruby>
 2. <ruby>[[丹]]<rt>ㄉㄚㄋ</rt></ruby>
 3. <ruby>[[主]]<rt>ㄐㄨ</rt></ruby>
 ### Aliases

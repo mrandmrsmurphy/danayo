@@ -49,20 +49,20 @@ radical: 手
 29. <ruby>[拉](../../characters/拉%20(char).md)<rt>ㄌㄚㄆ</rt></ruby> - drag
 30. <ruby>[拌](../../characters/拌.md)<rt>ㄅㄚㄋ</rt></ruby> - mix
 31. <ruby>[拍](../../characters/拍%20(char).md)<rt>ㄆㄚㄎ</rt></ruby> - tap
-32. <ruby>[拐](../../characters/拐.md)<rt>ㄍㆼㄧ</rt></ruby> - kidnap
+32. <ruby>[拐](../../characters/拐.md)<rt>ㄍ⺢ㄧ</rt></ruby> - kidnap
 33. <ruby>[拒](../../characters/拒.md)<rt>ㄍ⼄</rt></ruby> - repel
 34. <ruby>[拓](../../characters/拓.md)<rt>ㄊㄚㄎ</rt></ruby> - expand
 35. <ruby>[拖](../../characters/拖.md)<rt>ㄊㄚ</rt></ruby> - drag
 36. <ruby>[拘](../../characters/拘.md)<rt>ㄍㄨ</rt></ruby> - constrain
 37. <ruby>[招](../../characters/招.md)<rt>ㄑㄛㄨ</rt></ruby> - beckon
 38. <ruby>[拝](../../characters/拝%20(char).md)<rt>ㄅ⼶</rt></ruby> - bow
-39. <ruby>[拡](../../characters/拡.md)<rt>ㄏㆼㄎ</rt></ruby> - expand
+39. <ruby>[拡](../../characters/拡.md)<rt>ㄏ⺢ㄎ</rt></ruby> - expand
 
 ### +5 Strokes
-40. <ruby>[括](../../characters/括.md)<rt>ㄍㆼㄊ</rt></ruby> - embrace
+40. <ruby>[括](../../characters/括.md)<rt>ㄍ⺢ㄊ</rt></ruby> - embrace
 41. <ruby>[拭](../../characters/拭.md)<rt>ㄙㄧㄎ</rt></ruby> - wipe
 42. <ruby>[拱](../../characters/拱%20(char).md)<rt>ㄍ⼄ㄫ</rt></ruby> - arch
-43. <ruby>[拶](../../characters/拶.md)<rt>ㄐㆼㄊ</rt></ruby> - compel
+43. <ruby>[拶](../../characters/拶.md)<rt>ㄐ⺢ㄊ</rt></ruby> - compel
 44. <ruby>[拷](../../characters/拷.md)<rt>ㄎㄚㄨ</rt></ruby> - torture
 45. <ruby>[拼](../../characters/拼.md)<rt>ㄅㄚㄫ</rt></ruby> - spell
 46. <ruby>[拾](../../characters/拾.md)<rt>ㄙㄜㄆ</rt></ruby> - pick up
@@ -77,7 +77,7 @@ radical: 手
 53. <ruby>[拿](../../characters/拿.md)<rt>ㄋㄚ</rt></ruby> - take, grasp
 54. <ruby>[挙](../../characters/挙%20(char).md)<rt>ㄍ⼄</rt></ruby> - raise
 55. <ruby>[挨](../../characters/挨.md)<rt>ㄚㄧ</rt></ruby> - dawdle
-56. <ruby>[挫](../../characters/挫.md)<rt>ㄐㆼ</rt></ruby> - failure
+56. <ruby>[挫](../../characters/挫.md)<rt>ㄐ⺢</rt></ruby> - failure
 57. <ruby>[振](../../characters/振%20(char).md)<rt>ㄐㄧㄋ</rt></ruby> - shake
 58. <ruby>[挺](../../characters/挺.md)<rt>ㄉㄝㄫ</rt></ruby> - stand upright
 59. <ruby>[挽](../../characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> - recover
@@ -101,7 +101,7 @@ radical: 手
 75. <ruby>[掏](../../characters/掏.md)<rt>ㄉㄚㄨ</rt></ruby> - pickpocket
 76. <ruby>[排](../../characters/排%20(char).md)<rt>ㄆㄚㄧ</rt></ruby> - row, rank, line
 77. <ruby>[掘](../../characters/掘%20(char).md)<rt>ㄍㄨㄊ</rt></ruby> - dig
-78. <ruby>[掛](../../characters/掛%20(char).md)<rt>ㄍㆼㄧ</rt></ruby> - hang
+78. <ruby>[掛](../../characters/掛%20(char).md)<rt>ㄍ⺢ㄧ</rt></ruby> - hang
 79. <ruby>[掠](../../characters/掠.md)<rt>ㄌ⼘ㄎ</rt></ruby> - rob
 80. <ruby>[採](../../characters/採.md)<rt>ㄑㄚㄧ</rt></ruby> - gather
 81. <ruby>[探](../../characters/探.md)<rt>ㄊㄚㄇ</rt></ruby> - search
@@ -121,7 +121,7 @@ radical: 手
 93. <ruby>[提](../../characters/提.md)<rt>ㄙㄝ</rt></ruby> - produce
 94. <ruby>[揖](../../characters/揖.md)<rt>ㄜㄆ</rt></ruby> - bow
 95. <ruby>[揚](../../characters/揚%20(char).md)<rt>⼘ㄫ</rt></ruby> - scatter
-96. <ruby>[換](../../characters/換%20(char).md)<rt>ㄏㆼㄇ</rt></ruby> - interchange
+96. <ruby>[換](../../characters/換%20(char).md)<rt>ㄏ⺢ㄇ</rt></ruby> - interchange
 97. <ruby>[握](../../characters/握.md)<rt>ㄚㄎ</rt></ruby> - grasp
 98. <ruby>[揮](../../characters/揮.md)<rt>ㄏㄨㄧ</rt></ruby> - command
 99. <ruby>[援](../../characters/援.md)<rt>ㄛㄋ</rt></ruby> - aid
@@ -145,11 +145,11 @@ radical: 手
 111. <ruby>[撃](../../characters/撃%20(char).md)<rt>ㄍㄝㄎ</rt></ruby> - strike
 112. <ruby>[撇](../../characters/撇%20(char).md)<rt>ㄆㄝㄊ</rt></ruby> - throw away
 113. <ruby>[撐](../../characters/撐.md)<rt>ㄊㄚㄫ</rt></ruby> - support
-114. <ruby>[撞](../../characters/撞.md)<rt>ㄊㆼㄫ</rt></ruby> - hit
+114. <ruby>[撞](../../characters/撞.md)<rt>ㄊ⺢ㄫ</rt></ruby> - hit
 115. <ruby>[撤](../../characters/撤%20(char).md)<rt>ㄉㄝㄊ</rt></ruby> - omit
 116. <ruby>[撫](../../characters/撫.md)<rt>ㄈㄨ</rt></ruby> - pat
 117. <ruby>[播](../../characters/播.md)<rt>ㄅㄚ</rt></ruby> - sow
-118. <ruby>[撮](../../characters/撮%20(char).md)<rt>ㄐㆼㄊ</rt></ruby> - small amount
+118. <ruby>[撮](../../characters/撮%20(char).md)<rt>ㄐ⺢ㄊ</rt></ruby> - small amount
 119. <ruby>[撲](../../characters/撲%20(char).md)<rt>ㄆㄛㄎ</rt></ruby> - rush at
 120. <ruby>[撹](../../characters/撹.md)<rt>ㄍ⼄ㄨ</rt></ruby> - stir up
 

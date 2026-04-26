@@ -19,7 +19,7 @@ Most of these vowels have versions that can take an **on-glide**.  There are two
 - **yo** is spelled ⼄
 - **yu** is spelled ⼜
 ### W-Vowels
-- **wa** is spelled ㆼ
+- **wa** is spelled ⺢
 - **we** is spelled ⼔
 ### Off-glides
 In addition to on-glides, there are also off-glide.   Most combinations are possible, but not all actually occur.  If you've been paying attention, you already know the off-glide:
@@ -51,7 +51,7 @@ In addition to on-glides, there are also off-glide.   Most combinations are poss
 So, you should now be able to sound out the writing above the Chinese characters.  Each character has one and only one syllable for it's pronunciation, and it's always the same!  Syllables aren't allowed to effect each other, so don't say ㄋㄧㄋㄍㄚㄋ with a "ning".  Feel free to have a small pause between syllables to avoid this.
 
 A syllable is, therefore, 
-- Just one letter, if that letter is a vowel (ㄚ, ㄝ, ㄧ, ㄛ, ㄨ, ㄜ, ⼘, ㆼ, ⼶, ⼔, ⼄, or ⼜)
+- Just one letter, if that letter is a vowel (ㄚ, ㄝ, ㄧ, ㄛ, ㄨ, ㄜ, ⼘, ⺢, ⼶, ⼔, ⼄, or ⼜)
 - Just two letters, if it is CV or VC 
 - Maximally three letter, CVC
 That description is a little bit cheating, because the final consonant can technically be another vowel, in the form of an off-glide.

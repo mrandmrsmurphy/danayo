@@ -32,7 +32,7 @@ mc_id: 335
 graphemic_classification: "王"
 stand_in: "往"
 aliases:
-注音: "ㆼㄫ"
+注音: "⺢ㄫ"
 tags:
   - character
 ---

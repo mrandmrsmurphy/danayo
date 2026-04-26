@@ -52,7 +52,7 @@ tags:
 	- [[訳]]
 	- [[沢]]
 ## Words
-- <ruby>[尺蒦](/words/尺蒦.md)<rt>ㄑㄝㄎㄏㆼㄎ</rt></ruby> "inchworm"
+- <ruby>[尺蒦](/words/尺蒦.md)<rt>ㄑㄝㄎㄏ⺢ㄎ</rt></ruby> "inchworm"
 - <ruby>[公尺](/words/公尺.md)<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 昔開]]

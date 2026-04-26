@@ -24,7 +24,7 @@ language: English
 18. couple <ruby>[夫婦](/words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>, [[二人]]
 19. double [[二重]]
 20. dozen 打数??
-21. pair <ruby>[双](/words/双.md)<rt>ㄙㆼㄫ</rt></ruby>
+21. pair <ruby>[双](/words/双.md)<rt>ㄙ⺢ㄫ</rt></ruby>
 22. quarter <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
 23. first <ruby>[第一](/words/第一.md)<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby>
 24. second <ruby>[第二](/words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>

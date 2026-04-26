@@ -22,7 +22,7 @@ radical: 艸
 7. <ruby>[芬](../../characters/芬.md)<rt>ㄈㄨㄋ</rt></ruby> - fragrant
 8. <ruby>[芭](../../characters/芭.md)<rt>ㄅㄚ</rt></ruby> - Japanese banana
 9. <ruby>[芮](../../characters/芮.md)<rt>ㄋㄝ</rt></ruby> - water's edge
-10. <ruby>[花](../../characters/花.md)<rt>ㄏㆼ</rt></ruby> - flower
+10. <ruby>[花](../../characters/花.md)<rt>ㄏ⺢</rt></ruby> - flower
 11. <ruby>[芳](../../characters/芳.md)<rt>ㄈㄚㄫ</rt></ruby> - fragrant
 12. <ruby>[芸](../../characters/芸.md)<rt>ㄝ</rt></ruby> - skill
 13. <ruby>[芼](../../characters/芼.md)<rt>ㄇㄚㄨ</rt></ruby> - cook
@@ -52,8 +52,8 @@ radical: 艸
 33. <ruby>[荇](../../characters/荇.md)<rt>ㄏ⼶ㄫ</rt></ruby> - Limnanthemum nymphoides
 34. <ruby>[草](../../characters/草%20(char).md)<rt>ㄑㄚㄨ</rt></ruby> - grass
 35. <ruby>[荊](../../characters/荊.md)<rt>ㄎ⼶ㄫ</rt></ruby> - thorn
-36. <ruby>[荒](../../characters/荒.md)<rt>ㄏㆼㄫ</rt></ruby> - laid waste
-37. <ruby>[荘](../../characters/荘.md)<rt>ㄐㆼㄫ</rt></ruby> - villa
+36. <ruby>[荒](../../characters/荒.md)<rt>ㄏ⺢ㄫ</rt></ruby> - laid waste
+37. <ruby>[荘](../../characters/荘.md)<rt>ㄐ⺢ㄫ</rt></ruby> - villa
 38. <ruby>[莽](../../characters/莽.md)<rt>ㄇㄚㄫ</rt></ruby> - poisonous
 
 ### +7 Strokes
@@ -63,7 +63,7 @@ radical: 艸
 42. <ruby>[莉](../../characters/莉.md)<rt>ㄌㄝㄧ</rt></ruby> - white jasmin
 43. <ruby>[莱](../../characters/莱.md)<rt>ㄌㄚㄧ</rt></ruby> - Penglai
 44. <ruby>[茜](/characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
-45. <ruby>[華](../../characters/華.md)<rt>ㄏㆼ</rt></ruby> - gorgeous
+45. <ruby>[華](../../characters/華.md)<rt>ㄏ⺢</rt></ruby> - gorgeous
 
 ### +8 Strokes
 45. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only
@@ -124,10 +124,10 @@ radical: 艸
 
 ### +13 Strokes
 92. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia
-93. <ruby>[蒼](../../characters/蒼%20(char).md)<rt>ㄑㆼㄫ</rt></ruby> - blue
+93. <ruby>[蒼](../../characters/蒼%20(char).md)<rt>ㄑ⺢ㄫ</rt></ruby> - blue
 94. <ruby>[薄](../../characters/薄.md)<rt>ㄅㄚㄎ</rt></ruby> - thin
 95. <ruby>[薇](../../characters/薇.md)<rt>ㄇㄧㄜ</rt></ruby> - rose
-96. <ruby>[薔](../../characters/薔.md)<rt>ㄑㆼㄫ</rt></ruby> - rose
+96. <ruby>[薔](../../characters/薔.md)<rt>ㄑ⺢ㄫ</rt></ruby> - rose
 97. <ruby>[薛](../../characters/薛.md)<rt>ㄙㄝㄊ</rt></ruby> - wormwood
 98. <ruby>[薦](../../characters/薦.md)<rt>ㄐㄝㄋ</rt></ruby> - recommend
 99. <ruby>[薨](../../characters/薨.md)<rt>ㄏㄛㄫ</rt></ruby> - feudal lord's death

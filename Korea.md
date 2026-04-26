@@ -12,7 +12,7 @@ language: 単亜語
 - Kim Jong-un (김정은 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby><ruby>[恩](/characters/恩.md)<rt>ㄚㄋ</rt></ruby>) — Kim Jong-un (b. 1984)
 - Kim Ju-ae (김주애 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[主](/characters/主.md)<rt>ㄐㄨ</rt></ruby>[[愛 (char)]]) — Kim Ju-ae (b. ~2013)
 - Park Chung-hee (박정희 / <ruby>[朴](/characters/朴.md)<rt>ㄆㄚㄎ</rt></ruby><ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby><ruby>[熙](/characters/熙.md)<rt>ㄏㄧ</rt></ruby>) — Bak Jeong-hui (1917–1979)
-- Chun Doo-hwan (전두환 / [[全 (char)]]<ruby>[斗](/characters/斗%20(char).md)<rt>ㄉㄛㄨ</rt></ruby><ruby>[煥](/characters/煥.md)<rt>ㄏㆼㄋ</rt></ruby>) — Jeon Du-hwan (1931–2021)
+- Chun Doo-hwan (전두환 / [[全 (char)]]<ruby>[斗](/characters/斗%20(char).md)<rt>ㄉㄛㄨ</rt></ruby><ruby>[煥](/characters/煥.md)<rt>ㄏ⺢ㄋ</rt></ruby>) — Jeon Du-hwan (1931–2021)
 - Roh Tae-woo (노태우 / <ruby>[盧](/characters/盧.md)<rt>ㄌㄛ</rt></ruby><ruby>[泰](/characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby>[[愚 (char)]]) — Ro Tae-u (1932–2021)
 - Park Geun-hye (박근혜 / <ruby>[朴](/characters/朴.md)<rt>ㄆㄚㄎ</rt></ruby>[[菫|槿]][[恵|惠]]) — Bak Geun-hye (b. 1952)
 - Yoon Suk-yeol (윤석열 / <ruby>[尹](/characters/尹.md)<rt>⼜ㄋ</rt></ruby><ruby>[錫](/characters/錫.md)<rt>ㄙㄝㄎ</rt></ruby>[[悦|悅]]) — Yun Seok-yeol (b. 1960)

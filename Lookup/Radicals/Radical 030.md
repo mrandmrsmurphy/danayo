@@ -66,7 +66,7 @@ radical: 口
 47. <ruby>[呼](../../characters/呼%20(char).md)<rt>ㄏㄛ</rt></ruby> - call
 48. <ruby>[命](../../characters/命.md)<rt>ㄇ⼶ㄫ</rt></ruby> - life
 49. <ruby>[咅](../../characters/咅.md)<rt>ㄆ⼄ㄨ</rt></ruby> - spit
-50. <ruby>[和](../../characters/和.md)<rt>ㄏㆼ</rt></ruby> - peaceful
+50. <ruby>[和](../../characters/和.md)<rt>ㄏ⺢</rt></ruby> - peaceful
 
 ### +6 Strokes
 51. <ruby>[咬](../../characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby> - bite
@@ -77,7 +77,7 @@ radical: 口
 56. <ruby>[哀](../../characters/哀.md)<rt>ㄚㄧ</rt></ruby> - sad
 57. <ruby>[品](../../characters/品%20(char).md)<rt>ㄆㄨㄇ</rt></ruby> - article
 58. <ruby>[哄](../../characters/哄.md)<rt>ㄏㄛㄫ</rt></ruby> - resound with laughter
-59. <ruby>[哇](../../characters/哇%20(char).md)<rt>ㆼㄨ</rt></ruby> - wow
+59. <ruby>[哇](../../characters/哇%20(char).md)<rt>⺢ㄨ</rt></ruby> - wow
 60. <ruby>[哉](../../characters/哉%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - O
 
 ### +7 Strokes
@@ -89,17 +89,17 @@ radical: 口
 66. <ruby>[哲](../../characters/哲.md)<rt>ㄐㄝㄊ</rt></ruby> - philosophy
 67. <ruby>[哺](../../characters/哺.md)<rt>ㄅㄛ</rt></ruby> - suckle
 68. <ruby>[唄](../../characters/唄%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - ugh
-69. <ruby>[唆](../../characters/唆.md)<rt>ㄙㆼ</rt></ruby> - incite
+69. <ruby>[唆](../../characters/唆.md)<rt>ㄙ⺢</rt></ruby> - incite
 70. <ruby>[唇](../../characters/唇%20(char).md)<rt>ㄙㄨㄋ</rt></ruby> - lips
 71. <ruby>[唉](../../characters/唉%20(char).md)<rt>ㄚㄧ</rt></ruby> - alas
-72. <ruby>[唐](../../characters/唐.md)<rt>ㄉㆼㄫ</rt></ruby> - Tang
+72. <ruby>[唐](../../characters/唐.md)<rt>ㄉ⺢ㄫ</rt></ruby> - Tang
 73. <ruby>[唖](../../characters/唖.md)<rt>ㄚ</rt></ruby> - dumb
 74. <ruby>[唳](../../characters/唳%20(char).md)<rt>ㄌ⼶</rt></ruby> - bird cry
 75. <ruby>[啄](../../characters/啄%20(char).md)<rt>ㄊㄛㄎ</rt></ruby> - peck at
 
 ### +8 Strokes
 76. <ruby>[唯](../../characters/唯%20(char).md)<rt>⼶ㄧ</rt></ruby> - only
-77. <ruby>[唱](../../characters/唱.md)<rt>ㄑㆼㄫ</rt></ruby> - chant
+77. <ruby>[唱](../../characters/唱.md)<rt>ㄑ⺢ㄫ</rt></ruby> - chant
 78. <ruby>[唵](../../characters/唵%20(char).md)<rt>ㄛㄇ</rt></ruby> - Ohm
 79. <ruby>[唾](../../characters/唾.md)<rt>ㄊㄚ</rt></ruby> - spit
 80. <ruby>[商](../../characters/商.md)<rt>ㄙ⼘ㄫ</rt></ruby> - commerce
@@ -118,7 +118,7 @@ radical: 口
 91. <ruby>[喊](../../characters/喊.md)<rt>ㄏㄚㄇ</rt></ruby> - war cry
 92. <ruby>[喋](../../characters/喋%20(char).md)<rt>ㄉㄝㄆ</rt></ruby> - chatter
 93. <ruby>[喘](../../characters/喘.md)<rt>ㄑㄝㄋ</rt></ruby> - asthma
-94. <ruby>[喚](../../characters/喚%20(char).md)<rt>ㄏㆼㄋ</rt></ruby> - summon
+94. <ruby>[喚](../../characters/喚%20(char).md)<rt>ㄏ⺢ㄋ</rt></ruby> - summon
 95. <ruby>[喜](../../characters/喜%20(char).md)<rt>ㄏㄧ</rt></ruby> - like
 96. <ruby>[喧](../../characters/喧.md)<rt>ㄏㄛㄋ</rt></ruby> - noise
 97. <ruby>[喩](../../characters/喩.md)<rt>⼜ㄇ</rt></ruby> - metaphor
@@ -129,7 +129,7 @@ radical: 口
 
 ### +10 Strokes
 102. <ruby>[咎](../../characters/咎.md)<rt>ㄍ⼜</rt></ruby> - calamity
-103. <ruby>[喿](../../characters/喿.md)<rt>ㄙㆼㄨ</rt></ruby> - chirp
+103. <ruby>[喿](../../characters/喿.md)<rt>ㄙ⺢ㄨ</rt></ruby> - chirp
 104. <ruby>[嗅](../../characters/嗅.md)<rt>ㄏ⼜</rt></ruby> - smell
 105. <ruby>[嗚](../../characters/嗚.md)<rt>ㄛ</rt></ruby> - sob
 106. <ruby>[嗣](../../characters/嗣.md)<rt>ㄙㄜ</rt></ruby> - heir
@@ -141,7 +141,7 @@ radical: 口
 110. <ruby>[嘗](../../characters/嘗.md)<rt>ㄙ⼘ㄫ</rt></ruby> - taste
 
 ### +12 Strokes
-111. <ruby>[嘩](../../characters/嘩.md)<rt>ㄏㆼ</rt></ruby> - thump
+111. <ruby>[嘩](../../characters/嘩.md)<rt>ㄏ⺢</rt></ruby> - thump
 112. <ruby>[嘱](../../characters/嘱.md)<rt>ㄐㄛㄎ</rt></ruby> - order, instruct
 113. <ruby>[嘲](../../characters/嘲.md)<rt>ㄑㄚㄨ</rt></ruby> - ridicule
 114. <ruby>[噌](../../characters/噌.md)<rt>ㄑㄨㄫ</rt></ruby> - whoosh

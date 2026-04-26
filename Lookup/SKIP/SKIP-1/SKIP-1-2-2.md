@@ -14,7 +14,7 @@ skip_number: 1-2-2
 4. <ruby>[切](/characters/切%20(char).md)<rt>ㄑㄝㄊ</rt></ruby> - carve
 5. <ruby>[刈](/characters/刈%20(char).md)<rt>⼘ㄧ</rt></ruby> - mow
 6. <ruby>[化](/characters/化%20(char).md)<rt>ㄏㄨㄚ</rt></ruby> -ification
-7. <ruby>[双](/characters/双%20(char).md)<rt>ㄙㆼㄫ</rt></ruby> - twin
+7. <ruby>[双](/characters/双%20(char).md)<rt>ㄙ⺢ㄫ</rt></ruby> - twin
 8. <ruby>[収](/characters/収.md)<rt>ㄙㄨㄛ</rt></ruby> - gather
 9. <ruby>[比](/characters/比%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - than
 

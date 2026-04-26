@@ -14,7 +14,7 @@ radical: 丿
 6. <ruby>[尹](../../characters/尹.md)<rt>⼜ㄋ</rt></ruby> -  govern, oversee
 7. <ruby>[乍](../../characters/乍.md)<rt>ㄐㄚ</rt></ruby> -  first time, for the first time
 8. <ruby>[[乎 (char)|乎]]<rt>ㄏㄛ</rt></ruby> -  did, do
-9. <ruby>[乖](../../characters/乖.md)<rt>ㄍㆼㄧ</rt></ruby> -  well-behaved, obedient
+9. <ruby>[乖](../../characters/乖.md)<rt>ㄍ⺢ㄧ</rt></ruby> -  well-behaved, obedient
 10. <ruby>[[乗 (char)|乗]]<rt>ㄙㄨㄫ</rt></ruby> -  multiply, ride
 ### Other
 - [孔 (char)](../../characters/孔%20(char).md)

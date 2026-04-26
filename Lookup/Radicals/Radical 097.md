@@ -1,9 +1,14 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-04-26
 radical: 瓜
 ---
 > [[Radicals]]
+> The cucumber radical - 
+
+## Characters
+1. <ruby>[瓜](/characters/瓜.md)<rt>ㄍ⺢</rt></ruby> - cucumber
+2. <ruby>[瓢](/characters/瓢.md)<rt>ㄅ⼄ㄨ</rt></ruby> - ladle 
 
 ## Data search
 ```dataview

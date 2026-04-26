@@ -29,7 +29,7 @@ mc_id: 1790
 graphemic_classification: "耑"
 stand_in: "段"
 aliases:
-注音: "ㄉㆼㄋ"
+注音: "ㄉ⺢ㄋ"
 tags:
   - character
 ---

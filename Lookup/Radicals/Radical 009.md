@@ -44,7 +44,7 @@ radical: 人
 27. <ruby>[休](../../characters/休.md)<rt>ㄏ⼜</rt></ruby> - rest
 28. <ruby>[会](../../characters/会%20(char).md)<rt>ㄏ⼔</rt></ruby> - meet
 29. <ruby>[伝](../../characters/伝.md)<rt>ㄐ⼔ㄋ</rt></ruby> - transmit
-30. <ruby>[佤](../../characters/佤.md)<rt>ㆼㄊ</rt></ruby> - Wa people
+30. <ruby>[佤](../../characters/佤.md)<rt>⺢ㄊ</rt></ruby> - Wa people
 
 ### +5 Strokes
 31. <ruby>[伯](../../characters/伯.md)<rt>ㄅㄚㄎ</rt></ruby> - uncle
@@ -110,7 +110,7 @@ radical: 人
 85. <ruby>[俵](../../characters/俵.md)<rt>ㄅ⼘ㄨ</rt></ruby> - bag
 86. <ruby>[俸](../../characters/俸.md)<rt>ㄈㄛㄫ</rt></ruby> - salary
 87. <ruby>[俺](../../characters/俺.md)<rt>ㄝㄇ</rt></ruby> - I (humble)
-88. <ruby>[倉](../../characters/倉.md)<rt>ㄑㆼㄫ</rt></ruby> - granary
+88. <ruby>[倉](../../characters/倉.md)<rt>ㄑ⺢ㄫ</rt></ruby> - granary
 89. <ruby>[個](../../characters/個%20(char).md)<rt>ㄍㄜ</rt></ruby> - individual
 90. <ruby>[倍](../../characters/倍%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - times
 91. <ruby>[倒](../../characters/倒%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> - turn over
@@ -176,7 +176,7 @@ radical: 人
 ### +15 Strokes
 138. <ruby>[償](../../characters/償.md)<rt>ㄙ⼘ㄫ</rt></ruby> - repay
 139. <ruby>[儡](../../characters/儡.md)<rt>ㄌㄛㄧ</rt></ruby> - puppet
-140. <ruby>[儧](../../characters/儧.md)<rt>ㄐㆼㄋ</rt></ruby> - accumulate
+140. <ruby>[儧](../../characters/儧.md)<rt>ㄐ⺢ㄋ</rt></ruby> - accumulate
 141. <ruby>[優](../../characters/優.md)<rt>ㄨㄛ</rt></ruby> - excellent
 142. <ruby>[儲](../../characters/儲.md)<rt>ㄐㄛ</rt></ruby> - store
 

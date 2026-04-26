@@ -31,7 +31,7 @@ aliases:
   - 黃
   - 簧
 swadesh: 174
-注音: ㄏㆼㄫ
+注音: ㄏ⺢ㄫ
 tags:
   - character
 ---

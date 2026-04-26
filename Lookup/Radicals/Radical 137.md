@@ -14,7 +14,7 @@ radical: 舟
 6. <ruby>[舷](/characters/舷.md)<rt>ㄏㄝㄋ</rt></ruby> "gunwale"
 7. <ruby>[船](/characters/船.md)<rt>ㄙ⼔ㄇ</rt></ruby> "ship"
 8. <ruby>[艇](/characters/艇%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> "rowboat"
-9. <ruby>[艙](/characters/艙.md)<rt>ㄑㆼㄫ</rt></ruby> "cabin"
+9. <ruby>[艙](/characters/艙.md)<rt>ㄑ⺢ㄫ</rt></ruby> "cabin"
 10. <ruby>[艦](/characters/艦.md)<rt>ㄏㄚㄇ</rt></ruby> "warship"
 
 ## Data search

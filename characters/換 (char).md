@@ -29,7 +29,7 @@ graphemic_classification: "奐"
 stand_in: "換"
 aliases:
   - 换
-注音: "ㄏㆼㄇ"
+注音: "ㄏ⺢ㄇ"
 tags:
   - character
 ---

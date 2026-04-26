@@ -3,7 +3,7 @@ language: 単亜語
 ---
 <ruby>[中国](/words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
 
-- <ruby>[光](/characters/光%20(char).md)<rt>ㄎㆼㄫ</rt></ruby><ruby>[緒](/characters/緒.md)<rt>ㄙ⼄</rt></ruby><ruby>[帝](/characters/帝.md)<rt>ㄊㄝㄧ</rt></ruby> — Guangxu Di (1875–1908)
+- <ruby>[光](/characters/光%20(char).md)<rt>ㄎ⺢ㄫ</rt></ruby><ruby>[緒](/characters/緒.md)<rt>ㄙ⼄</rt></ruby><ruby>[帝](/characters/帝.md)<rt>ㄊㄝㄧ</rt></ruby> — Guangxu Di (1875–1908)
 - <ruby>[慈](/characters/慈.md)<rt>ㄐㄧ</rt></ruby><ruby>[喜](/characters/喜%20(char).md)<rt>ㄏㄧ</rt></ruby><ruby>[太](/characters/太%20(char).md)<rt>ㄊㄚㄧ</rt></ruby><ruby>[后](/characters/后.md)<rt>ㄏㄛㄨ</rt></ruby> — Cíxǐ Tàihòu (ruled effectively 1861–1908)
 - <ruby>[溥](/characters/溥.md)<rt>ㄆㄨ</rt></ruby><ruby>[儀](/characters/儀.md)<rt>ㄨㄧ</rt></ruby> – Pǔyí, Xuantong Emperor (reigned 1908–1912)
 - Sun Yat-sen (<ruby>[孫](/characters/孫.md)<rt>ㄙㄛㄋ</rt></ruby><ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby><ruby>[山](/characters/山%20(char).md)<rt>ㄙㄚㄋ</rt></ruby>) — Sūn Zhōngshān (1866–1925)

@@ -31,7 +31,7 @@ mc_id: 3966
 graphemic_classification: "最"
 stand_in: "撮"
 aliases:
-注音: "ㄐㆼㄊ"
+注音: "ㄐ⺢ㄊ"
 tags:
   - character
 ---
