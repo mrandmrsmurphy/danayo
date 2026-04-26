@@ -5,8 +5,11 @@ korean: "겸"
 korean_native: "낫"
 japanese:
   - REN
-japanese_native: かま
+japanese_nanori: ""
 vietnamese:
+  - gươm
+  - liêm
+  - liềm
 middle_chinese_initial: l
 middle_chinese_final: "iᴇm"
 stroke_count: 18

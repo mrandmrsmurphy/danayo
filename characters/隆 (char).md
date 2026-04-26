@@ -5,8 +5,10 @@ korean: "륭"
 korean_native: "높을"
 japanese:
   - RYUU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - long
+  - lung
 middle_chinese_initial: l
 middle_chinese_final: "ɨuŋ"
 stroke_count: 11

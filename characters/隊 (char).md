@@ -6,8 +6,18 @@ korean_native: "무리"
 japanese:
   - TAI
   - TSUI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - dội
+  - dụi
+  - giọi
+  - nhụi
+  - đòi
+  - đôi
+  - đọi
+  - đỗi
+  - đội
+  - đụi
 middle_chinese_initial: d
 middle_chinese_final: "uʌi"
 stroke_count: 12

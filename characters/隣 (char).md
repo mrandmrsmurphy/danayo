@@ -5,8 +5,9 @@ korean: "린"
 korean_native: "이웃"
 japanese:
   - RIN
-japanese_native: とな
+japanese_nanori: ""
 vietnamese:
+  - lân
 middle_chinese_initial: l
 middle_chinese_final: "iɪn"
 stroke_count: 16

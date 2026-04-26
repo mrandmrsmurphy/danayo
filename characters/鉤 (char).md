@@ -6,8 +6,9 @@ korean_native: "갈고리"
 japanese:
   - KOU
   - KU
-japanese_native: かぎ
+japanese_nanori: ""
 vietnamese:
+  - câu
 middle_chinese_initial: k
 middle_chinese_final: "əu"
 stroke_count: 13

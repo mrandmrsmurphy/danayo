@@ -6,8 +6,15 @@ korean_native: "칼"
 japanese:
   - KAN
   - KEN
-japanese_native: つぐ
+japanese_nanori: ""
 vietnamese:
+  - cùm
+  - cườm
+  - ghìm
+  - kiềm
+  - kèm
+  - kìm
+  - kềm
 middle_chinese_initial: "ɡ"
 middle_chinese_final: "ɣiᴇm"
 stroke_count: 13

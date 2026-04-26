@@ -5,8 +5,15 @@ korean: "쇄"
 korean_native: "쇠사슬"
 japanese:
   - SA
-japanese_native: くさり
+japanese_nanori: ""
 vietnamese:
+  - khoá
+  - soã
+  - toả
+  - toẻ
+  - tuả
+  - tủa
+  - xoã
 middle_chinese_initial: s
 middle_chinese_final: "uɑ"
 stroke_count: 18

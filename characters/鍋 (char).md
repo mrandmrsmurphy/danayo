@@ -5,8 +5,9 @@ korean: "과"
 korean_native: "노구솥"
 japanese:
   - KA
-japanese_native: なべ
+japanese_nanori: ""
 vietnamese:
+  - oa
 middle_chinese_initial: k
 middle_chinese_final: "uɑ"
 stroke_count: 17

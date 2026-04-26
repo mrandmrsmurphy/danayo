@@ -6,8 +6,14 @@ korean_native: "거울"
 japanese:
   - KYOU
   - KEI
-japanese_native: かがみ
+japanese_nanori: ""
 vietnamese:
+  - gương
+  - kiến
+  - kiếng
+  - kiểng
+  - kính
+  - kẻng
 middle_chinese_initial: k
 middle_chinese_final: ɣiæŋ
 stroke_count: 19

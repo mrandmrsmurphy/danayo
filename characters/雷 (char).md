@@ -6,8 +6,12 @@ korean_native: 우레
 japanese:
   - RAI
   - RUI
-japanese_native: かみなり
+japanese_nanori: ""
 vietnamese:
+  - loay
+  - loi
+  - lôi
+  - rôi
 middle_chinese_initial: l
 middle_chinese_final: uʌi
 stroke_count: 13

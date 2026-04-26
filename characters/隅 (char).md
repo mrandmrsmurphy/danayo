@@ -6,8 +6,11 @@ korean_native: "모퉁이"
 japanese:
   - GUU
   - GU
-japanese_native: すみ
+japanese_nanori: ""
 vietnamese:
+  - ngong
+  - ngung
+  - ngóng
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨo"
 stroke_count: 12

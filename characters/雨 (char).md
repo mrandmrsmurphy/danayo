@@ -5,8 +5,9 @@ korean: "우"
 korean_native: "비"
 japanese:
   - U
-japanese_native: あめ
+japanese_nanori: ""
 vietnamese:
+  - vũ
 middle_chinese_initial: "ø"
 middle_chinese_final: "ɨo"
 stroke_count: 8

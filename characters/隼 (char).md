@@ -6,8 +6,9 @@ korean_native: "송골매"
 japanese:
   - JUN
   - SHUN
-japanese_native: はやぶさ
+japanese_nanori: ""
 vietnamese:
+  - chuẩn
 middle_chinese_initial: s
 middle_chinese_final: "iuɪn"
 stroke_count: 10

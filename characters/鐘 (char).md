@@ -5,8 +5,10 @@ korean: "종"
 korean_native: "쇠북"
 japanese:
   - SHOU
-japanese_native: かね
+japanese_nanori: ""
 vietnamese:
+  - chung
+  - chuông
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨoŋ"
 stroke_count: 20

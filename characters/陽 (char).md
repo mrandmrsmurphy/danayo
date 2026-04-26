@@ -5,8 +5,11 @@ korean: "양"
 korean_native: "볕"
 japanese:
   - YOU
-japanese_native: ひ
+japanese_nanori: ""
 vietnamese:
+  - dàng
+  - dương
+  - giang
 middle_chinese_initial: j
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 12

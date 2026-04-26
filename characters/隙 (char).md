@@ -7,8 +7,9 @@ japanese:
   - GEKI
   - KEKI
   - KYAKU
-japanese_native: すき
+japanese_nanori: ""
 vietnamese:
+  - khích
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣiæk"
 stroke_count: 13

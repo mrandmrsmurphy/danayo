@@ -6,8 +6,15 @@ korean_native: "꿩"
 japanese:
   - CHI
   - JI
-japanese_native: きじ
+japanese_nanori: ""
 vietnamese:
+  - dẽ
+  - giẽ
+  - rẽ
+  - trĩ
+  - trảy
+  - trẩy
+  - trễ
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣiɪ"
 stroke_count: 13

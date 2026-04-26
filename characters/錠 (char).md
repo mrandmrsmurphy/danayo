@@ -6,8 +6,9 @@ korean_native: ""
 japanese:
   - JOU
   - TEI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đĩnh
 middle_chinese_initial: d
 middle_chinese_final: eŋ
 stroke_count: 16

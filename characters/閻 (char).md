@@ -6,8 +6,10 @@ korean_native: "마을"
 japanese:
   - EN
   - SEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - diêm
+  - dàm
 middle_chinese_initial: j
 middle_chinese_final: "iᴇm"
 stroke_count: 16

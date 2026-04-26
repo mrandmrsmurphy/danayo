@@ -6,8 +6,9 @@ korean_native: "바리때"
 japanese:
   - HACHI
   - HATSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bát
 middle_chinese_initial: p
 middle_chinese_final: "uɑt"
 stroke_count: 13

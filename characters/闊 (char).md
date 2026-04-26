@@ -5,8 +5,10 @@ korean: "활"
 korean_native: "넓을"
 japanese:
   - KATSU
-japanese_native: ひろ
+japanese_nanori: ""
 vietnamese:
+  - khoát
+  - khoắt
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uɑt"
 stroke_count: 17

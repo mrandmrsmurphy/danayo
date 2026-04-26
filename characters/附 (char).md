@@ -6,8 +6,10 @@ korean_native: "붙을"
 japanese:
   - FU
   - HOU
-japanese_native: つ
+japanese_nanori: ""
 vietnamese:
+  - phò
+  - phụ
 middle_chinese_initial: v
 middle_chinese_final: "ɨo"
 stroke_count: 8

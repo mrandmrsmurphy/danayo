@@ -6,8 +6,16 @@ korean_native: 진압할
 japanese:
   - CHIN
   - TEN
-japanese_native: しず
+japanese_nanori: ""
 vietnamese:
+  - chận
+  - chắn
+  - dấn
+  - giấn
+  - sán
+  - sấn
+  - trấn
+  - trớn
 middle_chinese_initial: ʈ
 middle_chinese_final: ɣiɪn
 stroke_count: 18

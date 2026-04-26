@@ -5,8 +5,9 @@ korean: "수"
 korean_native: "비록"
 japanese:
   - SUI
-japanese_native: いえど
+japanese_nanori: ""
 vietnamese:
+  - tuy
 middle_chinese_initial: s
 middle_chinese_final: "iuɪ"
 stroke_count: 17

@@ -6,8 +6,9 @@ korean_native: "가래"
 japanese:
   - SHUU
   - SHOU
-japanese_native: くわ
+japanese_nanori: ""
 vietnamese:
+  - thiêu
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "ɣau"
 stroke_count: 17

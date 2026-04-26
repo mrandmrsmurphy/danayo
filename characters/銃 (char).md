@@ -6,8 +6,10 @@ korean_native: "총"
 japanese:
   - JUU
   - SHUU
-japanese_native: つつ
+japanese_nanori: ""
 vietnamese:
+  - súng
+  - xúng
 middle_chinese_initial: "t͡ɕʰ"
 middle_chinese_final: "ɨuŋ"
 stroke_count: 14

@@ -5,8 +5,9 @@ korean: "웅"
 korean_native: "수컷"
 japanese:
   - YUU
-japanese_native: お
+japanese_nanori: ""
 vietnamese:
+  - hùng
 middle_chinese_initial: "ø"
 middle_chinese_final: "ɨuŋ"
 stroke_count: 12

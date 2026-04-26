@@ -5,8 +5,10 @@ korean: "협"
 korean_native: "집게"
 japanese:
   - KYOU
-japanese_native: はさみ
+japanese_nanori: ""
 vietnamese:
+  - kiệp
+  - kẹp
 middle_chinese_initial: k
 middle_chinese_final: ep
 stroke_count: 15
