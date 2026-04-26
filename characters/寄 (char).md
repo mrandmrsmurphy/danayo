@@ -1,8 +1,8 @@
 ---
-mandarin: "jì"
+mandarin: jì
 cantonese: gei3
-korean: "기"
-korean_native: "부칠"
+korean: 기
+korean_native: 부칠
 japanese:
   - KI
 japanese_nanori: ""
@@ -13,27 +13,27 @@ vietnamese:
   - ký
   - kẹ
 middle_chinese_initial: k
-middle_chinese_final: "ɣiᴇ"
+middle_chinese_final: ɣiᴇ
 stroke_count: 11
-radical: "宀"
+radical: 宀
 skip_number: 2-3-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - approach
   - send
   - rely on
 羅馬字: gui
-諺文: "귀"
-joyo_level: 5
+諺文: 귀
+joyo_level: "5"
 hsk_level: ""
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 4079
 mc_id: 1673
-graphemic_classification: "奇"
-stand_in: "寄"
+graphemic_classification: 奇
+stand_in: 寄
 aliases:
-注音: "ㄍㄨㄧ"
+注音: ㄍㄨㄧ
 tags:
   - character
 ---

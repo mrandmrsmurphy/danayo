@@ -1,9 +1,7 @@
 ## Periodic Table
-55. [[不真]] in [[lexipedia/Sophomore List]]
-56. [[湾曲]] in [[lexipedia/Sophomore List]]
-57. [[海峽]] in [[lexipedia/Sophomore List]]
-58. [[堰堤,]] in [[lexipedia/Sophomore List]]
-59. [[紇]] in [[lookup/CC/finals/韻 麧]], [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-10-11]]
+55. [[海峽]] in [[lexipedia/Sophomore List]]
+56. [[堰堤,]] in [[lexipedia/Sophomore List]]
+57. [[紇]] in [[lookup/CC/finals/韻 麧]], [[lookup/Korean/Korean Name ㅎ]], [[lookup/SKIP/SKIP-1/SKIP-1-10-11]]
 
 ## HSK
 69. [[书]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]]
