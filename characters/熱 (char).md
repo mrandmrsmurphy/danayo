@@ -1,8 +1,8 @@
 ---
-mandarin: "rè"
+mandarin: rè
 cantonese: jit6
-korean: "열"
-korean_native: "더울"
+korean: 열
+korean_native: 더울
 japanese:
   - NETSU
   - ZETSU
@@ -12,29 +12,29 @@ vietnamese:
   - nhiệt
   - nhét
   - nhẹt
-middle_chinese_initial: "ȵ"
-middle_chinese_final: "iᴇt"
+middle_chinese_initial: ȵ
+middle_chinese_final: iᴇt
 stroke_count: 15
-radical: "火"
+radical: 火
 skip_number: 2-11-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - heat up
   - be hot
 羅馬字: nyed
-諺文: "녇"
-joyo_level: 4
-hsk_level: 1
-hanmun_edu_level: "中"
+諺文: 녇
+joyo_level: "4"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 2163
 mc_id: 641
-graphemic_classification: "埶"
-stand_in: "熱"
+graphemic_classification: 埶
+stand_in: 熱
 aliases:
   - 热
   - 烧
-注音: "ㄋ⼶ㄊ"
+注音: ㄋ⼶ㄊ
 tags:
   - character
 ---
