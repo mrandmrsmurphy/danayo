@@ -1889,7 +1889,7 @@
 ### Jin
 1904. [[掴]] in [[lookup/Japanese/Jinmeiyō]]
 1905. [[栞]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㄱ]]
-1906. [[茜]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
+1906. [[characters/茜]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]], [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
 1907. [[菖]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅊ]]
 1908. [[蓉]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅇ]]
 1909. [[竣]] in [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅈ]]

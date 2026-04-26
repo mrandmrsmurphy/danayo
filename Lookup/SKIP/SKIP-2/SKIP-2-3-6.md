@@ -47,7 +47,7 @@ skip_number: 2-3-6
 - [[茫]]
 - 茗 - "tea buds", same sound as [[名 (char)]]??
 - 茘 - variant of [[荔]] --> 荔枝
-- [[茜]]
+- [[../../../characters/茜]]
 - 夈 - variant of [[斎]]
 
 ### Data double check
