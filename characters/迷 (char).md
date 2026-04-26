@@ -5,8 +5,14 @@ korean: "미"
 korean_native: "미혹할"
 japanese:
   - MEI
-japanese_native: まよ
+japanese_nanori: ""
 vietnamese:
+  - me
+  - muồi
+  - mài
+  - mê
+  - mơ
+  - mế
 middle_chinese_initial: m
 middle_chinese_final: ei
 stroke_count: 10

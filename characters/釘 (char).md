@@ -6,8 +6,12 @@ korean_native: "못"
 japanese:
   - TEI
   - CHOU
-japanese_native: くぎ
+japanese_nanori: ""
 vietnamese:
+  - đanh
+  - đinh
+  - đính
+  - đĩnh
 middle_chinese_initial: t
 middle_chinese_final: "eŋ"
 stroke_count: 10

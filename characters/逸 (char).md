@@ -6,8 +6,15 @@ korean_native: "달아날"
 japanese:
   - ITSU
   - ICHI
-japanese_native: そ
+japanese_nanori: ""
 vietnamese:
+  - dật
+  - dắt
+  - dặt
+  - dụt
+  - giật
+  - giặt
+  - giợt
 middle_chinese_initial: j
 middle_chinese_final: "iɪt"
 stroke_count: 11

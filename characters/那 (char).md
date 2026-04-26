@@ -6,8 +6,12 @@ korean_native: "어찌"
 japanese:
   - DA
   - NA
-japanese_native: なに
+japanese_nanori: ""
 vietnamese:
+  - na
+  - nà
+  - ná
+  - nả
 middle_chinese_initial: n
 middle_chinese_final: "ɑ"
 stroke_count: 7

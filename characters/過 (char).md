@@ -5,8 +5,13 @@ korean: "과"
 korean_native: "지날"
 japanese:
   - KA
-japanese_native: す
+japanese_nanori: ""
 vietnamese:
+  - goá
+  - qua
+  - quá
+  - quớ
+  - quở
 middle_chinese_initial: k
 middle_chinese_final: "uɑ"
 stroke_count: 13

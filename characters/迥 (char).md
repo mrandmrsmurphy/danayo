@@ -6,8 +6,11 @@ korean_native: "멀"
 japanese:
   - KEI
   - GYOU
-japanese_native: はるか
+japanese_nanori: ""
 vietnamese:
+  - huếnh
+  - quánh
+  - quýnh
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "weŋ"
 stroke_count: 9

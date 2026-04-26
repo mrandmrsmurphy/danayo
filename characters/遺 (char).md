@@ -6,8 +6,9 @@ korean_native: "남길"
 japanese:
   - I
   - YUI
-japanese_native: のこ
+japanese_nanori: ""
 vietnamese:
+  - di
 middle_chinese_initial: j
 middle_chinese_final: "iuɪ"
 stroke_count: 15

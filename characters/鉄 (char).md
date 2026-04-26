@@ -5,9 +5,13 @@ korean: 철
 korean_native: 쇠
 japanese:
 - TETSU
-japanese_native: くろがね
+japanese_nanori:
 - くろがね
 vietnamese:
+  - sắt
+  - thiếc
+  - thiết
+  - thét
 - thiết, sắt
 middle_chinese_initial: tʰ
 middle_chinese_final: et

@@ -5,8 +5,10 @@ korean: "견"
 korean_native: "보낼"
 japanese:
   - KEN
-japanese_native: つか
+japanese_nanori: ""
 vietnamese:
+  - khiến
+  - khiển
 middle_chinese_initial: kʰ
 middle_chinese_final: iᴇn
 stroke_count: 13

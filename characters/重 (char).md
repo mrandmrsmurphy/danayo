@@ -6,8 +6,17 @@ korean_native: 무거울
 japanese:
   - CHOU
   - JUU
-japanese_native: え
+japanese_nanori: ""
 vietnamese:
+  - chuộng
+  - chõng
+  - chùng
+  - chồng
+  - trùng
+  - trọng
+  - trộng
+  - trụng
+  - trửng
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨoŋ
 stroke_count: 9

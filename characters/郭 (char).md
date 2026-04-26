@@ -5,8 +5,9 @@ korean: "곽"
 korean_native: "둘레"
 japanese:
   - KAKU
-japanese_native: くるわ
+japanese_nanori: ""
 vietnamese:
+  - quách
 middle_chinese_initial: k
 middle_chinese_final: "wɑk"
 stroke_count: 11

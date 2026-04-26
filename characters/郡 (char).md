@@ -6,8 +6,13 @@ korean_native: "고을"
 japanese:
   - GUN
   - KUN
-japanese_native: こおり
+japanese_nanori: ""
 vietnamese:
+  - quạnh
+  - quấn
+  - quẩn
+  - quận
+  - quặn
 middle_chinese_initial: g
 middle_chinese_final: "ɨun"
 stroke_count: 10

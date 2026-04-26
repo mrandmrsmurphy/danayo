@@ -6,8 +6,12 @@ korean_native: "멀"
 japanese:
   - EN
   - ON
-japanese_native: とお
+japanese_nanori: ""
 vietnamese:
+  - viển
+  - viễn
+  - vẻn
+  - vỏn
 middle_chinese_initial: "ø"
 middle_chinese_final: "ʉɐn"
 stroke_count: 13

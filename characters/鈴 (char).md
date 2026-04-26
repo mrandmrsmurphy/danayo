@@ -7,8 +7,10 @@ japanese:
   - REI
   - RIN
   - RYOU
-japanese_native: すず
+japanese_nanori: ""
 vietnamese:
+  - linh
+  - lệnh
 middle_chinese_initial: l
 middle_chinese_final: "eŋ"
 stroke_count: 13

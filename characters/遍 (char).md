@@ -5,8 +5,10 @@ korean: "편"
 korean_native: "두루"
 japanese:
   - HEN
-japanese_native: あまね
+japanese_nanori: ""
 vietnamese:
+  - biến
+  - bận
 middle_chinese_initial: p
 middle_chinese_final: en
 stroke_count: 12

@@ -5,8 +5,9 @@ korean: "산"
 korean_native: "실"
 japanese:
   - SAN
-japanese_native: す
+japanese_nanori: ""
 vietnamese:
+  - toan
 middle_chinese_initial: s
 middle_chinese_final: "uɑn"
 stroke_count: 14

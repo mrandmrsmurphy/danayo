@@ -6,8 +6,15 @@ korean_native: "물러날"
 japanese:
   - TAI
   - TON
-japanese_native: しりぞ
+japanese_nanori: ""
 vietnamese:
+  - thoái
+  - thui
+  - thói
+  - thúi
+  - thối
+  - thụi
+  - thủi
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "uʌi"
 stroke_count: 9

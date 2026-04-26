@@ -5,8 +5,9 @@ korean: "피"
 korean_native: "피할"
 japanese:
   - HI
-japanese_native: さ
+japanese_nanori: ""
 vietnamese:
+  - tị
 middle_chinese_initial: b
 middle_chinese_final: "iᴇ"
 stroke_count: 16

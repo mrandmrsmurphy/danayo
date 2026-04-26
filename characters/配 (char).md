@@ -5,8 +5,11 @@ korean: "배"
 korean_native: "짝"
 japanese:
   - HAI
-japanese_native: くば
+japanese_nanori: ""
 vietnamese:
+  - phôi
+  - phối
+  - phới
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "uʌi"
 stroke_count: 10

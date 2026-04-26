@@ -6,8 +6,9 @@ korean_native: "만날"
 japanese:
   - GUU
   - KU
-japanese_native: あ
+japanese_nanori: ""
 vietnamese:
+  - ngộ
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨo"
 stroke_count: 12

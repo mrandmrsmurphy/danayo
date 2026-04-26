@@ -5,8 +5,9 @@ korean:
 korean_native: "방울"
 japanese:
   - TAKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - xích
 middle_chinese_initial: d
 middle_chinese_final: "ɑk"
 stroke_count: 12

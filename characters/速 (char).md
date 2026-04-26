@@ -5,8 +5,11 @@ korean: "속"
 korean_native: "빠를"
 japanese:
   - SOKU
-japanese_native: はや
+japanese_nanori: ""
 vietnamese:
+  - nhanh
+  - rốc
+  - tốc
 middle_chinese_initial: s
 middle_chinese_final: uk
 stroke_count: 11

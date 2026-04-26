@@ -6,8 +6,17 @@ korean_native: 통달할
 japanese:
   - TATSU
   - DACHI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thớt
+  - đác
+  - đát
+  - đạt
+  - đật
+  - đặt
+  - địt
+  - đớt
+  - đợt
 middle_chinese_initial: tʰ
 middle_chinese_final: ɑt
 stroke_count: 12

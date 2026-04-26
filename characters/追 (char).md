@@ -6,8 +6,10 @@ korean_native: "쫓을"
 japanese:
   - TSUI
   - TAI
-japanese_native: お
+japanese_nanori: ""
 vietnamese:
+  - choai
+  - truy
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɣiuɪ"
 stroke_count: 9

@@ -7,8 +7,10 @@ japanese:
   - BU
   - HO
   - HOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - bõ
+  - bộ
 middle_chinese_initial: b
 middle_chinese_final: "əu"
 stroke_count: 11

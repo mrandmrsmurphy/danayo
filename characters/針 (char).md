@@ -5,8 +5,15 @@ korean: "침"
 korean_native: "바늘"
 japanese:
   - SHIN
-japanese_native: はり
+japanese_nanori: ""
 vietnamese:
+  - cham
+  - châm
+  - chăm
+  - chảm
+  - găm
+  - kim
+  - trâm
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪm"
 stroke_count: 10
