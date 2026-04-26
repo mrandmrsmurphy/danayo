@@ -5,8 +5,11 @@ korean: "혈"
 korean_native: "피"
 japanese:
   - KETSU
-japanese_native: ち
+japanese_nanori: ""
 vietnamese:
+  - hoét
+  - huyết
+  - tiết
 middle_chinese_initial: x
 middle_chinese_final: wet
 stroke_count: 6

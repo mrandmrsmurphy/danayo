@@ -5,8 +5,10 @@ korean: "알"
 korean_native: "아뢸"
 japanese:
   - ETSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - yết
+  - ét
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɨɐt"
 stroke_count: 15

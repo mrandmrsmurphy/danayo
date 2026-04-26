@@ -6,8 +6,10 @@ korean_native: "소매"
 japanese:
   - BEI
   - KETSU
-japanese_native: たまと
+japanese_nanori: ""
 vietnamese:
+  - khuyết
+  - quyết
 middle_chinese_initial: m
 middle_chinese_final: "iᴇi"
 stroke_count: 9

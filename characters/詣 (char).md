@@ -6,8 +6,9 @@ korean_native: "이를"
 japanese:
   - KEI
   - GEI
-japanese_native: けい
+japanese_nanori: ""
 vietnamese:
+  - nghệ
 middle_chinese_initial: "ŋ"
 middle_chinese_final: ei
 stroke_count: 13

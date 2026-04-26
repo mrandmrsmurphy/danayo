@@ -7,8 +7,14 @@ japanese:
   - KAKU
   - ROKU
   - KOKU
-japanese_native: かど
+japanese_nanori: ""
 vietnamese:
+  - chác
+  - dạc
+  - giác
+  - giạc
+  - giốc
+  - góc
 middle_chinese_initial: k
 middle_chinese_final: ɣʌk
 stroke_count: 7

@@ -6,8 +6,10 @@ korean_native: "풀"
 japanese:
   - KAI
   - GE
-japanese_native: と
+japanese_nanori: ""
 vietnamese:
+  - giãi
+  - giải
 middle_chinese_initial: k
 middle_chinese_final: "ɣɛ"
 stroke_count: 13

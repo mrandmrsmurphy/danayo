@@ -7,8 +7,12 @@ japanese:
   - SEI
   - SHOU
   - SHIN
-japanese_native: こ
+japanese_nanori: ""
 vietnamese:
+  - thinh
+  - thín
+  - thảnh
+  - thỉnh
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iᴇŋ"
 stroke_count: 15

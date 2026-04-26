@@ -6,8 +6,10 @@ korean_native: "바로잡을"
 japanese:
   - TEI
   - CHOU
-japanese_native: ただ
+japanese_nanori: ""
 vietnamese:
+  - dính
+  - đính
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "eŋ"
 stroke_count: 9

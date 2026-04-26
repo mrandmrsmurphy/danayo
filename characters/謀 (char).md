@@ -6,8 +6,9 @@ korean_native: "꾀"
 japanese:
   - BOU
   - MU
-japanese_native: はか
+japanese_nanori: ""
 vietnamese:
+  - mưu
 middle_chinese_initial: m
 middle_chinese_final: "ɨu"
 stroke_count: 16

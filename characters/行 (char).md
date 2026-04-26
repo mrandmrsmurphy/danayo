@@ -7,8 +7,14 @@ japanese:
   - KOU
   - GYOU
   - AN
-japanese_native: い
+japanese_nanori: ""
 vietnamese:
+  - hàng
+  - hành
+  - hãng
+  - hăng
+  - hạnh
+  - ngành
 middle_chinese_initial: ɣ
 middle_chinese_final: ɑŋ
 stroke_count: 6

@@ -7,8 +7,14 @@ japanese:
   - GEN
   - GON
   - GIN
-japanese_native: い
+japanese_nanori: ""
 vietnamese:
+  - ngôn
+  - ngỏn
+  - ngồn
+  - ngổn
+  - ngộn
+  - ngủn
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨɐn"
 stroke_count: 7

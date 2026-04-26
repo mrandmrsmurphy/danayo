@@ -5,8 +5,16 @@ korean: "충"
 korean_native: "찌를"
 japanese:
   - SHOU
-japanese_native: つ
+japanese_nanori: ""
 vietnamese:
+  - giong
+  - tông
+  - xoang
+  - xong
+  - xung
+  - xóng
+  - xông
+  - xúng
 middle_chinese_initial: "t͡ɕʰ"
 middle_chinese_final: "ɨoŋ"
 stroke_count: 15

@@ -6,8 +6,9 @@ korean_native: "송사할"
 japanese:
   - SHOU
   - JU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tụng
 middle_chinese_initial: z
 middle_chinese_final: "ɨoŋ"
 stroke_count: 11

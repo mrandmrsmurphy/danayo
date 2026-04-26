@@ -6,8 +6,9 @@ korean_native: "말씀"
 japanese:
   - WA
   - KAI
-japanese_native: はな
+japanese_nanori: ""
 vietnamese:
+  - thoại
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣuai"
 stroke_count: 13

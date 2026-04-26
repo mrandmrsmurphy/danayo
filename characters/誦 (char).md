@@ -6,8 +6,11 @@ korean_native: "외울"
 japanese:
   - SHOU
   - JU
-japanese_native: とな
+japanese_nanori: ""
 vietnamese:
+  - tọng
+  - tộng
+  - tụng
 middle_chinese_initial: z
 middle_chinese_final: "ɨoŋ"
 stroke_count: 14

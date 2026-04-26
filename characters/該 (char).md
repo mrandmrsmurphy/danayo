@@ -6,8 +6,10 @@ korean_native: "갖출"
 japanese:
   - GAI
   - KAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cai
+  - cơi
 middle_chinese_initial: k
 middle_chinese_final: "ʌi"
 stroke_count: 13

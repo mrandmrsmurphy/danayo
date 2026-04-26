@@ -5,8 +5,9 @@ korean: "술"
 korean_native: "재주"
 japanese:
   - JUTSU
-japanese_native: すべ
+japanese_nanori: ""
 vietnamese:
+  - thuật
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "iuɪt"
 stroke_count: 11

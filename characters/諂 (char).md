@@ -5,8 +5,10 @@ korean: "첨"
 korean_native: "아첨할"
 japanese:
   - TEN
-japanese_native: へつら
+japanese_nanori: ""
 vietnamese:
+  - siểm
+  - xiểm
 middle_chinese_initial: "ʈʰ"
 middle_chinese_final: "ɣiᴇm"
 stroke_count: 15

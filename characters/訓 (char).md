@@ -6,8 +6,9 @@ korean_native: "가르칠"
 japanese:
   - KUN
   - KIN
-japanese_native: おし
+japanese_nanori: ""
 vietnamese:
+  - huấn
 middle_chinese_initial: x
 middle_chinese_final: "ɨun"
 stroke_count: 10

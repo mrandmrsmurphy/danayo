@@ -5,8 +5,10 @@ korean: "대"
 korean_native: "자루"
 japanese:
   - TAI
-japanese_native: ふくろ
+japanese_nanori: ""
 vietnamese:
+  - đãy
+  - đại
 middle_chinese_initial: d
 middle_chinese_final: "ʌi"
 stroke_count: 11

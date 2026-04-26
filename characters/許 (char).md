@@ -6,8 +6,15 @@ korean_native: "허락할"
 japanese:
   - KYO
   - KO
-japanese_native: ゆる
+japanese_nanori: ""
 vietnamese:
+  - hớ
+  - hở
+  - hứa
+  - hử
+  - hữ
+  - hự
+  - ngỏ
 middle_chinese_initial: x
 middle_chinese_final: "ɨʌ"
 stroke_count: 11

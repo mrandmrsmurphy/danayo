@@ -6,8 +6,14 @@ korean_native: ""
 japanese:
   - TOTSU
   - DOTSU
-japanese_native: ども
+japanese_nanori: ""
 vietnamese:
+  - dốt
+  - nhốt
+  - nuốt
+  - nói
+  - nốt
+  - nột
 middle_chinese_initial: n
 middle_chinese_final: uət
 stroke_count: 11

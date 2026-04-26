@@ -5,8 +5,14 @@ korean: "과"
 korean_native: "공부할"
 japanese:
   - KA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khoá
+  - khoả
+  - thoả
+  - thuả
+  - thuở
+  - thủa
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uɑ"
 stroke_count: 15
