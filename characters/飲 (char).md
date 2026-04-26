@@ -6,8 +6,12 @@ korean_native: "마실"
 japanese:
   - IN
   - ON
-japanese_native: の
+japanese_nanori: ""
 vietnamese:
+  - hẩm
+  - ẩm
+  - ỏm
+  - ỡm
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɣiɪm"
 stroke_count: 13

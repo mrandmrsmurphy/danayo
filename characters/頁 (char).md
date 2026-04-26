@@ -7,8 +7,10 @@ japanese:
   - KETSU
   - YOU
   - KECHI
-japanese_native: ぺえじ
+japanese_nanori: ""
 vietnamese:
+  - hiệt
+  - hệt
 middle_chinese_initial: "ɣ"
 middle_chinese_final: et
 stroke_count: 9

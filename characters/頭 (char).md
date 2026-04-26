@@ -7,8 +7,9 @@ japanese:
   - TOU
   - ZU
   - TO
-japanese_native: あたま
+japanese_nanori: ""
 vietnamese:
+  - đầu
 middle_chinese_initial: d
 middle_chinese_final: "əu"
 stroke_count: 16

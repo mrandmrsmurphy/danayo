@@ -7,8 +7,10 @@ japanese:
   - SHOKU
   - SHI
   - JIKI
-japanese_native: く
+japanese_nanori: ""
 vietnamese:
+  - thực
+  - tự
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "ɨk"
 stroke_count: 9

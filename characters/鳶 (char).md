@@ -5,8 +5,10 @@ korean: "연"
 korean_native: "솔개"
 japanese:
   - EN
-japanese_native: とび
+japanese_nanori: ""
 vietnamese:
+  - diên
+  - diều
 middle_chinese_initial: j
 middle_chinese_final: "iuᴇn"
 stroke_count: 14

@@ -5,8 +5,13 @@ korean: "조"
 korean_native: "새"
 japanese:
   - CHOU
-japanese_native: とり
+japanese_nanori: ""
 vietnamese:
+  - đeo
+  - điểu
+  - đéo
+  - đẻo
+  - đẽo
 middle_chinese_initial: t
 middle_chinese_final: eu
 stroke_count: 11

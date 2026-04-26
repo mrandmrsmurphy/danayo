@@ -5,8 +5,10 @@ korean: "점"
 korean_native: "메기"
 japanese:
   - NEN
-japanese_native: あゆ
+japanese_nanori: ""
 vietnamese:
+  - chẻm
+  - niềm
 middle_chinese_initial: n
 middle_chinese_final: em
 stroke_count: 16

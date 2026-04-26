@@ -6,8 +6,11 @@ korean_native: "항목"
 japanese:
   - KOU
   - GOU
-japanese_native: うなじ
+japanese_nanori: ""
 vietnamese:
+  - háng
+  - hạng
+  - hảng
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣʌŋ"
 stroke_count: 12

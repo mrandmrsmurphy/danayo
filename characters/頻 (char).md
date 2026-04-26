@@ -6,8 +6,11 @@ korean_native: "자주"
 japanese:
   - HIN
   - BIN
-japanese_native: しき
+japanese_nanori: ""
 vietnamese:
+  - tần
+  - tằn
+  - từng
 middle_chinese_initial: b
 middle_chinese_final: "iɪn"
 stroke_count: 17

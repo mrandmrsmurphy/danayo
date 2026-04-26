@@ -5,8 +5,9 @@ korean: "명"
 korean_native: "울"
 japanese:
   - MEI
-japanese_native: な
+japanese_nanori: ""
 vietnamese:
+  - minh
 middle_chinese_initial: m
 middle_chinese_final: "ɣiæŋ"
 stroke_count: 14

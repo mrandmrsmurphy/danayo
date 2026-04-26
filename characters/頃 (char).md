@@ -7,8 +7,12 @@ japanese:
   - KEI
   - KYOU
   - KI
-japanese_native: ころ
+japanese_nanori: ""
 vietnamese:
+  - cảnh
+  - khoanh
+  - khoảnh
+  - khỉnh
 middle_chinese_initial: kʰ
 middle_chinese_final: wiᴇŋ
 stroke_count: 11

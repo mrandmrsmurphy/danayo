@@ -5,8 +5,10 @@ korean: "비"
 korean_native: "날"
 japanese:
   - HI
-japanese_native: と
+japanese_nanori: ""
 vietnamese:
+  - bay
+  - phi
 middle_chinese_initial: f
 middle_chinese_final: "ʉi"
 stroke_count: 9

@@ -6,8 +6,9 @@ korean_native: "달릴"
 japanese:
   - CHI
   - JI
-japanese_native: は
+japanese_nanori: ""
 vietnamese:
+  - trì
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣiᴇ"
 stroke_count: 13

@@ -6,8 +6,10 @@ korean_native: ""
 japanese:
   - SATSU
   - SOU
-japanese_native: さっ
+japanese_nanori: ""
 vietnamese:
+  - bùng
+  - táp
 middle_chinese_initial: s
 middle_chinese_final: ʌp
 stroke_count: 14

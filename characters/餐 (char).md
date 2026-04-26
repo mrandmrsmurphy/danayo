@@ -6,8 +6,11 @@ korean_native: "밥"
 japanese:
   - SAN
   - SON
-japanese_native: の
+japanese_nanori: ""
 vietnamese:
+  - san
+  - xan
+  - xun
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "ɑn"
 stroke_count: 16

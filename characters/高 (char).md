@@ -5,8 +5,10 @@ korean: "고"
 korean_native: "높을"
 japanese:
   - KOU
-japanese_native: たか
+japanese_nanori: ""
 vietnamese:
+  - cao
+  - sào
 middle_chinese_initial: k
 middle_chinese_final: "ɑu"
 stroke_count: 10

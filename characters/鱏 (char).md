@@ -7,8 +7,9 @@ japanese:
   - SHIN
   - JIN
   - IN
-japanese_native: かじき
+japanese_nanori: ""
 vietnamese:
+  - tầm
 middle_chinese_initial: z
 middle_chinese_final: "iɪm"
 stroke_count: 23

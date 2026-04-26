@@ -6,8 +6,9 @@ korean_native: "혁공"
 japanese:
   - HOU
   - HAKU
-japanese_native: かばん
+japanese_nanori: ""
 vietnamese:
+  - bạc
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "ɣʌk"
 stroke_count: 14

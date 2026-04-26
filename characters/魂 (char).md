@@ -6,8 +6,11 @@ korean_native: "넋"
 japanese:
   - KON
   - GON
-japanese_native: たましい
+japanese_nanori: ""
 vietnamese:
+  - hun
+  - hùn
+  - hồn
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uən"
 stroke_count: 14

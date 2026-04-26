@@ -6,8 +6,10 @@ korean_native: 떡
 japanese:
   - HEI
   - HYOU
-japanese_native: もち
+japanese_nanori: ""
 vietnamese:
+  - bánh
+  - bính
 middle_chinese_initial: p
 middle_chinese_final: iᴇŋ
 stroke_count: 17
