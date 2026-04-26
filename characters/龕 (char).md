@@ -4,8 +4,12 @@ cantonese: ham1
 korean: "감"
 korean_native: "감실"
 japanese: KON
-japanese_native: "ずし"
-vietnamese: ""
+japanese_nanori: "ずし"
+vietnamese:
+  - kham
+  - khám
+  - khắm
+  - khẳm
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ʌm"
 stroke_count: 22

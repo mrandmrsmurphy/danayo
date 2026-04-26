@@ -5,8 +5,12 @@ korean: "정"
 korean_native: "솥"
 japanese:
   - TEI
-japanese_native: かなえ
+japanese_nanori: ""
 vietnamese:
+  - đềnh
+  - đểnh
+  - đễnh
+  - đỉnh
 middle_chinese_initial: t
 middle_chinese_final: "eŋ"
 stroke_count: 13

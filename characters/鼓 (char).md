@@ -5,8 +5,9 @@ korean: "고"
 korean_native: "북"
 japanese:
   - KO
-japanese_native: つづみ
+japanese_nanori: ""
 vietnamese:
+  - cổ
 middle_chinese_initial: k
 middle_chinese_final: uo
 stroke_count: 13

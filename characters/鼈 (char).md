@@ -6,8 +6,9 @@ korean_native: "자라"
 japanese:
   - BETSU
   - HETSU
-japanese_native: すっぽん
+japanese_nanori: ""
 vietnamese:
+  - biết
 middle_chinese_initial: p
 middle_chinese_final: et
 stroke_count: 25

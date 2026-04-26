@@ -6,8 +6,9 @@ korean_native: "코"
 japanese:
   - BI
   - HI
-japanese_native: はな
+japanese_nanori: ""
 vietnamese:
+  - tị
 middle_chinese_initial: b
 middle_chinese_final: "iɪ"
 stroke_count: 14
