@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-04-26
-size: 114
+size: 115
 radical: 艸
 ---
 > [[Radicals]]
@@ -62,7 +62,8 @@ radical: 艸
 41. <ruby>[荻](../../characters/荻.md)<rt>ㄉㄧㄎ</rt></ruby> - Miscanthus sacchariflorus
 42. <ruby>[莉](../../characters/莉.md)<rt>ㄌㄝㄧ</rt></ruby> - white jasmin
 43. <ruby>[莱](../../characters/莱.md)<rt>ㄌㄚㄧ</rt></ruby> - Penglai
-44. <ruby>[華](../../characters/華.md)<rt>ㄏㆼ</rt></ruby> - gorgeous
+44. <ruby>[茜](/characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
+45. <ruby>[華](../../characters/華.md)<rt>ㄏㆼ</rt></ruby> - gorgeous
 
 ### +8 Strokes
 45. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only
