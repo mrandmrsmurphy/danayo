@@ -5,8 +5,13 @@ korean: "애"
 korean_native: "물가"
 japanese:
   - GAI
-japanese_native: はて
+japanese_nanori: ""
 vietnamese:
+  - nhai
+  - nhười
+  - nhầy
+  - rười
+  - rượi
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɣɛ"
 stroke_count: 11

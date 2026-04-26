@@ -6,8 +6,11 @@ korean_native: "다할"
 japanese:
   - METSU
   - BETSU
-japanese_native: ほろ
+japanese_nanori: ""
 vietnamese:
+  - diệt
+  - dột
+  - riết
 middle_chinese_initial: m
 middle_chinese_final: "iᴇt"
 stroke_count: 13

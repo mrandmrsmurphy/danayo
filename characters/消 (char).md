@@ -5,8 +5,11 @@ korean: "소"
 korean_native: "사라질"
 japanese:
   - SHOU
-japanese_native: き
+japanese_nanori: ""
 vietnamese:
+  - teo
+  - tiu
+  - tiêu
 middle_chinese_initial: s
 middle_chinese_final: "iᴇu"
 stroke_count: 10

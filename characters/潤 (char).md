@@ -5,8 +5,10 @@ korean: "윤"
 korean_native: "불을"
 japanese:
   - JUN
-japanese_native: うるお
+japanese_nanori: ""
 vietnamese:
+  - nhuần
+  - nhuận
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iuɪn"
 stroke_count: 15

@@ -7,8 +7,9 @@ japanese:
   - TOU
   - TEI
   - CHOU
-japanese_native: ひ
+japanese_nanori: ""
 vietnamese:
+  - đăng
 middle_chinese_initial: t
 middle_chinese_final: "ǝŋ"
 stroke_count: 6

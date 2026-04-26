@@ -5,8 +5,15 @@ korean: "침"
 korean_native: "잠길"
 japanese:
   - SHIN
-japanese_native: ひた
+japanese_nanori: ""
 vietnamese:
+  - rẫm
+  - thâm
+  - thấm
+  - trẩm
+  - trẫm
+  - tẩm
+  - tắm
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iɪm"
 stroke_count: 10

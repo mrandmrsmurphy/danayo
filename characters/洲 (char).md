@@ -5,8 +5,10 @@ korean: "주"
 korean_native: "물가"
 japanese:
   - SHUU
-japanese_native: しま
+japanese_nanori: ""
 vietnamese:
+  - chao
+  - châu
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨu"
 stroke_count: 9

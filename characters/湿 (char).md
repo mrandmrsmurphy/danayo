@@ -5,8 +5,9 @@ korean: "습"
 korean_native: 축축할
 japanese:
   - SHITSU
-japanese_native: しめ
+japanese_nanori: ""
 vietnamese:
+  - thấp
 middle_chinese_initial: ɕ
 middle_chinese_final: iɪp
 stroke_count: 12

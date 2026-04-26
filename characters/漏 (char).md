@@ -5,8 +5,12 @@ korean: 루
 korean_native: 샐
 japanese:
   - ROU
-japanese_native: も
+japanese_nanori: ""
 vietnamese:
+  - làu
+  - lâu
+  - lạu
+  - lậu
 middle_chinese_initial: l
 middle_chinese_final: əu
 stroke_count: 14

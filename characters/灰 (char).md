@@ -5,8 +5,14 @@ korean: "회"
 korean_native: "재"
 japanese:
   - KAI
-japanese_native: はい
+japanese_nanori: ""
 vietnamese:
+  - hoi
+  - hui
+  - hôi
+  - khói
+  - khôi
+  - vôi
 middle_chinese_initial: x
 middle_chinese_final: "uʌi"
 stroke_count: 6

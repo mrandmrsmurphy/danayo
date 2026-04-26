@@ -6,8 +6,9 @@ korean_native: "찌꺼기"
 japanese:
   - SA
   - SHA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - tra
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɣa"
 stroke_count: 12

@@ -5,8 +5,10 @@ korean: "영"
 korean_native: "헤엄칠"
 japanese:
   - EI
-japanese_native: およ
+japanese_nanori: ""
 vietnamese:
+  - vạnh
+  - vịnh
 middle_chinese_initial: "ø"
 middle_chinese_final: "wɣiæŋ"
 stroke_count: 8

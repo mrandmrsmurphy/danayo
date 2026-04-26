@@ -5,8 +5,15 @@ korean: "읍"
 korean_native: "울"
 japanese:
   - KYUU
-japanese_native: な
+japanese_nanori: ""
 vietnamese:
+  - khóc
+  - khấp
+  - khắp
+  - lớp
+  - rấp
+  - rập
+  - rắp
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣiɪp"
 stroke_count: 8

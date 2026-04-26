@@ -5,8 +5,11 @@ korean: "취"
 korean_native: ""
 japanese:
   - SUI
-japanese_native: た
+japanese_nanori: ""
 vietnamese:
+  - sôi
+  - xuy
+  - xôi
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iuᴇ
 stroke_count: 8

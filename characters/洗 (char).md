@@ -5,8 +5,14 @@ korean: 선
 korean_native: 씻을
 japanese:
   - SEN
-japanese_native: あら
+japanese_nanori: ""
 vietnamese:
+  - dẫy
+  - giẫy
+  - rải
+  - rảy
+  - tiển
+  - tẩy
 middle_chinese_initial: s
 middle_chinese_final: en
 stroke_count: 9

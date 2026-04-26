@@ -5,8 +5,10 @@ korean: 천
 korean_native: 얕을
 japanese:
 - SEN
-japanese_native: あさ
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - thiển
+  - tiên
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: iᴇn
 stroke_count: 9

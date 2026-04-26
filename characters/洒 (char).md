@@ -7,8 +7,16 @@ japanese:
 - SEI
 - SEN
 - SHA
-japanese_native: すす
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - rưới
+  - rải
+  - rảy
+  - rẩy
+  - sái
+  - tưới
+  - tẩy
+  - vẩy
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣɛ
 stroke_count: 9

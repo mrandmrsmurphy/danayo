@@ -5,8 +5,14 @@ korean: "적"
 korean_native: "물방울"
 japanese:
   - TEKI
-japanese_native: しずく
+japanese_nanori: ""
 vietnamese:
+  - nhích
+  - nhếch
+  - rích
+  - trích
+  - tách
+  - tích
 middle_chinese_initial: t
 middle_chinese_final: ek
 stroke_count: 14

@@ -5,8 +5,19 @@ korean: "음"
 korean_native: "음란할"
 japanese:
   - IN
-japanese_native: ひた
+japanese_nanori: ""
 vietnamese:
+  - dâm
+  - dầm
+  - dẫm
+  - giâm
+  - giầm
+  - râm
+  - rầm
+  - sầm
+  - đầm
+  - đẫm
+  - đằm
 middle_chinese_initial: j
 middle_chinese_final: "iɪm"
 stroke_count: 11

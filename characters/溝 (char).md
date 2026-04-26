@@ -5,8 +5,9 @@ korean: "구"
 korean_native: "도랑"
 japanese:
   - KOU
-japanese_native: みぞ
+japanese_nanori: ""
 vietnamese:
+  - câu
 middle_chinese_initial: k
 middle_chinese_final: "əu"
 stroke_count: 13

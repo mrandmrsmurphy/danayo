@@ -6,8 +6,12 @@ korean_native: "무너질"
 japanese:
   - KAI
   - E
-japanese_native: つぶ
+japanese_nanori: ""
 vietnamese:
+  - hòi
+  - hói
+  - hội
+  - quấy
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uʌi"
 stroke_count: 15

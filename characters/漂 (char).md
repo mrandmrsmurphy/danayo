@@ -5,8 +5,19 @@ korean: "표"
 korean_native: "떠다닐"
 japanese:
   - HYOU
-japanese_native: ただよ
+japanese_nanori: ""
 vietnamese:
+  - pheo
+  - phiêu
+  - phiếu
+  - phêu
+  - phếu
+  - phều
+  - phịu
+  - veo
+  - xiêu
+  - xẻo
+  - xều
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iᴇu"
 stroke_count: 14

@@ -5,8 +5,9 @@ korean: "빈"
 korean_native: "물가"
 japanese:
   - HIN
-japanese_native: はま
+japanese_nanori: ""
 vietnamese:
+  - banh
 middle_chinese_initial: p
 middle_chinese_final: "iɪn"
 stroke_count: 10

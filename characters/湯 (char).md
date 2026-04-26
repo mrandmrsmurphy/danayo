@@ -6,8 +6,10 @@ korean_native: "끓일"
 japanese:
   - TOU
   - SHOU
-japanese_native: ゆ
+japanese_nanori: ""
 vietnamese:
+  - thang
+  - thoang
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "ɑŋ"
 stroke_count: 12

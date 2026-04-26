@@ -5,8 +5,15 @@ korean: "림"
 korean_native: ""
 japanese:
   - RIN
-japanese_native: さび
+japanese_nanori: ""
 vietnamese:
+  - lem
+  - luôm
+  - lâm
+  - lấm
+  - lầm
+  - rướm
+  - rấm
 middle_chinese_initial: l
 middle_chinese_final: iɪm
 stroke_count: 11

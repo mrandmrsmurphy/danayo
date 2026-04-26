@@ -5,8 +5,9 @@ korean: "리"
 korean_native: "해리"
 japanese:
   - RI
-japanese_native: かいり
+japanese_nanori: ""
 vietnamese:
+  - rí
 middle_chinese_initial: l
 middle_chinese_final: "ɨ"
 stroke_count: 10

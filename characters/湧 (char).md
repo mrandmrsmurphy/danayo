@@ -6,8 +6,11 @@ korean_native: ""
 japanese:
   - YUU
   - YOU
-japanese_native: わ
+japanese_nanori: ""
 vietnamese:
+  - dũng
+  - dộng
+  - rụng
 middle_chinese_initial: j
 middle_chinese_final: ɨoŋ
 stroke_count: 12

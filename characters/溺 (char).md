@@ -7,8 +7,12 @@ japanese:
   - DEKI
   - JOU
   - NYOU
-japanese_native: いばり
+japanese_nanori: ""
 vietnamese:
+  - niệu
+  - ních
+  - nịch
+  - nịu
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨɐk"
 stroke_count: 13

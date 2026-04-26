@@ -5,8 +5,14 @@ korean: "니"
 korean_native: "진흙"
 japanese:
   - DEI
-japanese_native: どろ
+japanese_nanori: ""
 vietnamese:
+  - ne
+  - nè
+  - nê
+  - nề
+  - nể
+  - nệ
 middle_chinese_initial: n
 middle_chinese_final: ei
 stroke_count: 8

@@ -5,8 +5,9 @@ korean: "칠"
 korean_native: "옻"
 japanese:
   - SHITSU
-japanese_native: うるし
+japanese_nanori: ""
 vietnamese:
+  - tất
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iɪt"
 stroke_count: 14

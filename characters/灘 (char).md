@@ -6,8 +6,9 @@ korean_native: "여울"
 japanese:
   - DAN
   - KAN
-japanese_native: なだ
+japanese_nanori: ""
 vietnamese:
+  - than
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "ɑn"
 stroke_count: 21

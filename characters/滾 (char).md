@@ -5,8 +5,12 @@ korean: "곤"
 korean_native: "흐를"
 japanese:
   - KON
-japanese_native: たぎ
+japanese_nanori: ""
 vietnamese:
+  - cuộn
+  - cổn
+  - củn
+  - ngổn
 middle_chinese_initial: k
 middle_chinese_final: "uən"
 stroke_count: 14

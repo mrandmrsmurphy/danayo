@@ -5,8 +5,10 @@ korean: 부
 korean_native: 뜰
 japanese:
   - FU
-japanese_native: う
+japanese_nanori: ""
 vietnamese:
+  - nổi
+  - phù
 middle_chinese_initial: v
 middle_chinese_final: ɨu
 stroke_count: 10
