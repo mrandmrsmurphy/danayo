@@ -3,7 +3,7 @@
 |**Prefix**|**Meaning**|day|week|month|year|century| 
 |<ruby>[今](/words/今.md)<rt>ㄍㄧㄇ</rt></ruby>|this|<ruby>[今日](/words/今日.md)<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>|今週|今月|今年|今世紀|
 |<ruby>[来](/words/来.md)<rt>ㄌㄚㄧ</rt></ruby>|next|<ruby>[来日](/words/来日.md)<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby>|来週|来月|来年|来世紀|
-|<ruby>[昨](/words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>|previous|昨日|昨週|昨月|昨年|昨世紀|
+|<ruby>[昨](/words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>|previous|[[昨日]]|昨週|昨月|昨年|昨世紀|
 |<ruby>[当](/words/当.md)<rt>ㄉㄚㄫ</rt></ruby>|current|<ruby>[当日](/words/当日.md)<rt>ㄉㄚㄫㄋㄧㄊ</rt></ruby>|当週|当月|当年|当世紀|
 |<ruby>[翌](/words/翌.md)<rt>ㄧㄎ</rt></ruby>|following|<ruby>[翌日](/words/翌日.md)<rt>ㄧㄎㄋㄧㄊ</rt></ruby>|翌週|翌月|翌年|翌世紀|
 |<ruby>[前](/words/前.md)<rt>ㄐㄝㄋ</rt></ruby>|prior|<ruby>[前日](/words/前日.md)<rt>ㄐㄝㄋㄋㄧㄊ</rt></ruby>|前週|前月|前年|前世紀|
