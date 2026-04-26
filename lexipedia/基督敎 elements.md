@@ -1,6 +1,6 @@
 [基督敎](words/基督教.md)
 
-- [[信条]] - creed
+- [[../words/信条]] - creed
 	- [[尼西亜]] - Nicea
 	- [[使徒]] - apostle
 	- [[君士坦丁堡]] - Constantinople 

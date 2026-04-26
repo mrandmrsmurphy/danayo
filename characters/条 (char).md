@@ -37,11 +37,12 @@ tags:
 ---
 >[!tip] This is a page about the character 条.
 >For the word, see [条](words/条.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 蕭]]
+
+## Words
+- <ruby>[信条](/words/信条.md)<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "creed"
