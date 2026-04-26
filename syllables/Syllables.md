@@ -208,6 +208,8 @@ views:
       - 諺文
       - english
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: 羅馬字
         direction: ASC
       - property: size
@@ -218,8 +220,6 @@ views:
         direction: ASC
       - property: 諺文
         direction: ASC
-      - property: date-last-perfect
-        direction: DESC
     columnSize:
       file.name: 85
       note.size: 47

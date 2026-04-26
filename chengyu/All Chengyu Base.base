@@ -20,7 +20,7 @@ views:
         direction: ASC
       - property: date-last-perfect
         direction: ASC
-      - property: 韓文
+      - property: 諺文
         direction: ASC
     columnSize:
       file.name: 86

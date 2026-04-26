@@ -20,7 +20,7 @@ views:
         direction: ASC
       - property: 品詞
         direction: ASC
-      - property: 韓文
+      - property: 諺文
         direction: ASC
       - property: 注音
         direction: ASC

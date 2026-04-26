@@ -51,7 +51,7 @@ views:
         direction: DESC
       - property: graphemic_classification
         direction: ASC
-      - property: 韓文
+      - property: 諺文
         direction: DESC
       - property: skip_number
         direction: DESC
