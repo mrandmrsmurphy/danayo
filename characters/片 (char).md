@@ -5,8 +5,10 @@ korean: 편
 korean_native: 조각
 japanese:
   - HEN
-japanese_native: かた
+japanese_nanori: ""
 vietnamese:
+  - phiến
+  - phiện
 middle_chinese_initial: pʰ
 middle_chinese_final: en
 stroke_count: 4

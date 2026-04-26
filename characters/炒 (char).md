@@ -6,8 +6,11 @@ korean_native: "볶을"
 japanese:
   - SOU
   - SHOU
-japanese_native: い
+japanese_nanori: ""
 vietnamese:
+  - sao
+  - xào
+  - xáo
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɑu"
 stroke_count: 8

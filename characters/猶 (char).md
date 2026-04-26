@@ -5,8 +5,9 @@ korean: 유
 korean_native: 오히려
 japanese:
   - YUU
-japanese_native: なお
+japanese_nanori: ""
 vietnamese:
+  - do
 middle_chinese_initial: j
 middle_chinese_final: ɨu
 stroke_count: 12

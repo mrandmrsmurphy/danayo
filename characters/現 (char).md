@@ -6,8 +6,11 @@ korean_native: "나타날"
 japanese:
   - GEN
   - KEN
-japanese_native: あらわ
+japanese_nanori: ""
 vietnamese:
+  - hiện
+  - hẹn
+  - kén
 middle_chinese_initial: "ɣ"
 middle_chinese_final: en
 stroke_count: 11

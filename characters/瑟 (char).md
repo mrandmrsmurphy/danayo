@@ -5,8 +5,9 @@ korean: 슬
 korean_native: ""
 japanese:
   - SHITSU
-japanese_native: おおごと
+japanese_nanori: ""
 vietnamese:
+  - sắt
 middle_chinese_initial: ʃ
 middle_chinese_final: ɪt
 stroke_count: 13

@@ -5,8 +5,11 @@ korean: 탄
 korean_native: 숯
 japanese:
   - TAN
-japanese_native: すみ
+japanese_nanori: ""
 vietnamese:
+  - than
+  - thán
+  - tro
 middle_chinese_initial: tʰ
 middle_chinese_final: ɑn
 stroke_count: 9

@@ -6,8 +6,9 @@ korean_native: "병"
 japanese:
   - HEI
   - BIN
-japanese_native: かめ
+japanese_nanori: ""
 vietnamese:
+  - bình
 middle_chinese_initial: b
 middle_chinese_final: "eŋ"
 stroke_count: 11

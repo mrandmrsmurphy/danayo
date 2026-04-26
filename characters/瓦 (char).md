@@ -5,8 +5,11 @@ korean: 와
 korean_native: 기와
 japanese:
   - GA
-japanese_native: かわら
+japanese_nanori: ""
 vietnamese:
+  - ngoa
+  - ngoã
+  - ngói
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣua
 stroke_count: 5

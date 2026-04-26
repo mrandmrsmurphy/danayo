@@ -7,8 +7,11 @@ japanese:
   - NETSU
   - ZETSU
   - NECHI
-japanese_native: あつ
+japanese_nanori: ""
 vietnamese:
+  - nhiệt
+  - nhét
+  - nhẹt
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iᴇt"
 stroke_count: 15

@@ -6,8 +6,11 @@ korean_native: "불탈"
 japanese:
   - ZEN
   - NEN
-japanese_native: しか
+japanese_nanori: ""
 vietnamese:
+  - nhen
+  - nhiên
+  - nhơn
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iᴇn"
 stroke_count: 12

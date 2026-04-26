@@ -6,8 +6,10 @@ korean_native: 없을
 japanese:
   - MU
   - BU
-japanese_native: な
+japanese_nanori: ""
 vietnamese:
+  - mô
+  - vô
 middle_chinese_initial: ɱ
 middle_chinese_final: ɨo
 stroke_count: 12

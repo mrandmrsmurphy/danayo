@@ -5,8 +5,9 @@ korean: "웅"
 korean_native: "곰"
 japanese:
   - YUU
-japanese_native: くま
+japanese_nanori: ""
 vietnamese:
+  - hùng
 middle_chinese_initial: "ø"
 middle_chinese_final: "ɨuŋ"
 stroke_count: 24

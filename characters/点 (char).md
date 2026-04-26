@@ -5,8 +5,11 @@ korean: 점
 korean_native: 점
 japanese:
   - TEN
-japanese_native: つ
+japanese_nanori: ""
 vietnamese:
+  - bếp
+  - chấm
+  - điểm
 middle_chinese_initial: t
 middle_chinese_final: em
 stroke_count: 9

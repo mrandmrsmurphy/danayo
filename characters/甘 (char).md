@@ -5,8 +5,9 @@ korean: 감
 korean_native: 달
 japanese:
   - KAN
-japanese_native: あま
+japanese_nanori: ""
 vietnamese:
+  - cam
 middle_chinese_initial: k
 middle_chinese_final: ɑm
 stroke_count: 5

@@ -6,8 +6,9 @@ korean_native: "번거로울"
 japanese:
   - HAN
   - BON
-japanese_native: わずら
+japanese_nanori: ""
 vietnamese:
+  - phiền
 middle_chinese_initial: v
 middle_chinese_final: "ʉɐn"
 stroke_count: 13

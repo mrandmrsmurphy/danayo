@@ -5,8 +5,12 @@ korean: "조"
 korean_native: "손톱"
 japanese:
   - SOU
-japanese_native: つめ
+japanese_nanori: ""
 vietnamese:
+  - trảo
+  - trảu
+  - trẩu
+  - vuốt
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɣau"
 stroke_count: 4

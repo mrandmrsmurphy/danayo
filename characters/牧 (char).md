@@ -6,8 +6,10 @@ korean_native: "칠"
 japanese:
   - BOKU
   - MOKU
-japanese_native: まき
+japanese_nanori: ""
 vietnamese:
+  - mặt
+  - mục
 middle_chinese_initial: m
 middle_chinese_final: "ɨuk"
 stroke_count: 8

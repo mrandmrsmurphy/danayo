@@ -6,8 +6,12 @@ korean_native: "너"
 japanese:
   - JI
   - NI
-japanese_native: なんじ
+japanese_nanori: ""
 vietnamese:
+  - nhãi
+  - nhĩ
+  - nhẽ
+  - nỉ
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iᴇ"
 stroke_count: 14

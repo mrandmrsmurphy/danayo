@@ -5,8 +5,10 @@ korean: "진"
 korean_native: "보배"
 japanese:
   - CHIN
-japanese_native: めずら
+japanese_nanori: ""
 vietnamese:
+  - trân
+  - trằn
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɣiɪn"
 stroke_count: 9

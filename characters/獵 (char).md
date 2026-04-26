@@ -5,8 +5,12 @@ korean: "렵"
 korean_native: 사냥
 japanese:
   - RYOU
-japanese_native: かり
+japanese_nanori: ""
 vietnamese:
+  - liệp
+  - lạp
+  - lốp
+  - lộp
 middle_chinese_initial: l
 middle_chinese_final: iᴇp
 stroke_count: 11

@@ -5,8 +5,14 @@ korean: "패"
 korean_native: "패"
 japanese:
   - HAI
-japanese_native: ぱい
+japanese_nanori: ""
 vietnamese:
+  - bi
+  - bia
+  - bài
+  - bìa
+  - bịa
+  - bời
 middle_chinese_initial: p
 middle_chinese_final: "ɣɛ"
 stroke_count: 12

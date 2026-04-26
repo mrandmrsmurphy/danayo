@@ -6,8 +6,10 @@ korean_native: "어찌"
 japanese:
   - EN
   - I
-japanese_native: いずく
+japanese_nanori: ""
 vietnamese:
+  - vờn
+  - yên
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ɨɐn"
 stroke_count: 11

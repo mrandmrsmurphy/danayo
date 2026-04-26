@@ -5,8 +5,13 @@ korean: "우"
 korean_native: "소"
 japanese:
   - GYUU
-japanese_native: うし
+japanese_nanori: ""
 vietnamese:
+  - ngâu
+  - ngõ
+  - ngưu
+  - ngọ
+  - ngỏ
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨu"
 stroke_count: 4

@@ -5,8 +5,11 @@ korean: "반"
 korean_native: "나눌"
 japanese:
   - HAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - ban
+  - băn
+  - bươn
 middle_chinese_initial: p
 middle_chinese_final: "ɣan"
 stroke_count: 10

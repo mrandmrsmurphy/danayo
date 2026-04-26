@@ -6,8 +6,9 @@ korean_native: "구슬"
 japanese:
   - GYOKU
   - GOKU
-japanese_native: たま
+japanese_nanori: ""
 vietnamese:
+  - ngọc
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨok"
 stroke_count: 5

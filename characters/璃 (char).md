@@ -5,8 +5,11 @@ korean: "리"
 korean_native: "유리"
 japanese:
   - RI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - li
+  - ly
+  - lê
 middle_chinese_initial: l
 middle_chinese_final: "iᴇ"
 stroke_count: 15

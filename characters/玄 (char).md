@@ -6,8 +6,9 @@ korean_native: 검을
 japanese:
   - GEN
   - KEN
-japanese_native: くろ
+japanese_nanori: ""
 vietnamese:
+  - huyền
 middle_chinese_initial: ɣ
 middle_chinese_final: wen
 stroke_count: 5
