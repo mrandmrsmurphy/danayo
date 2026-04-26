@@ -1,5 +1,5 @@
 ---
-size: 144
+size: 142
 radical: 人
 ---
 > [[Radicals]]

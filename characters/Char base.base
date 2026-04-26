@@ -16,7 +16,10 @@ views:
       - japanese
       - cantonese
       - 羅馬字
+      - vietnamese
     sort:
+      - property: vietnamese
+        direction: ASC
       - property: cantonese
         direction: ASC
       - property: mandarin
