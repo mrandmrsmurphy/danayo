@@ -6,8 +6,19 @@ korean_native: 잎
 japanese:
   - YOU
   - SHOU
-japanese_native: は
+japanese_nanori: ""
 vietnamese:
+  - diếp
+  - diệp
+  - dịp
+  - dớp
+  - dợp
+  - giấp
+  - giẹp
+  - nhịp
+  - riếp
+  - xẹp
+  - đẹp
 middle_chinese_initial: j
 middle_chinese_final: iᴇp
 stroke_count: 12

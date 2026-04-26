@@ -6,8 +6,9 @@ korean_native: "칡"
 japanese:
   - KATSU
   - KACHI
-japanese_native: つづら
+japanese_nanori: ""
 vietnamese:
+  - cát
 middle_chinese_initial: k
 middle_chinese_final: "ɑt"
 stroke_count: 12

@@ -5,8 +5,9 @@ korean: "해"
 korean_native: "게"
 japanese:
   - KAI
-japanese_native: かに
+japanese_nanori: ""
 vietnamese:
+  - giải
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɣɛ"
 stroke_count: 19

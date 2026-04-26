@@ -6,8 +6,11 @@ korean_native: "지렁이"
 japanese:
   - SAN
   - TEN
-japanese_native: かいこ
+japanese_nanori: ""
 vietnamese:
+  - tàm
+  - tòm
+  - tằm
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "ʌm"
 stroke_count: 10

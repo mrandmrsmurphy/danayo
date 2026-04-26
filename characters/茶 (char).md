@@ -7,8 +7,11 @@ japanese:
   - CHA
   - SA
   - TA
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - chè
+  - sà
+  - trà
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣa"
 stroke_count: 9

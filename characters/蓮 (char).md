@@ -5,8 +5,12 @@ korean: "련"
 korean_native: "연꽃"
 japanese:
   - REN
-japanese_native: はす
+japanese_nanori: ""
 vietnamese:
+  - liên
+  - lên
+  - ren
+  - sen
 middle_chinese_initial: l
 middle_chinese_final: "iᴇn"
 stroke_count: 13

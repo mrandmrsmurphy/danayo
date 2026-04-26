@@ -5,8 +5,9 @@ korean: "즙"
 korean_native: "기울"
 japanese:
   - SHUU
-japanese_native: あし
+japanese_nanori: ""
 vietnamese:
+  - tập
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iɪp"
 stroke_count: 12

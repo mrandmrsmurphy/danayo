@@ -6,8 +6,9 @@ korean_native: "모을"
 japanese:
   - CHIKU
   - KIKU
-japanese_native: たくわ
+japanese_nanori: ""
 vietnamese:
+  - súc
 middle_chinese_initial: x
 middle_chinese_final: "ɨuk"
 stroke_count: 13

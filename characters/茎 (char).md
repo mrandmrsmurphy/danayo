@@ -6,8 +6,10 @@ korean_native: 줄기
 japanese:
   - KEI
   - KOU
-japanese_native: くき
+japanese_nanori: ""
 vietnamese:
+  - hành
+  - kinh
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛŋ
 stroke_count: 8

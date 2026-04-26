@@ -5,8 +5,9 @@ korean: "융"
 korean_native: "녹을"
 japanese:
   - YUU
-japanese_native: と
+japanese_nanori: ""
 vietnamese:
+  - dung
 middle_chinese_initial: j
 middle_chinese_final: "ɨuŋ"
 stroke_count: 16

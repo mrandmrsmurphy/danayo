@@ -5,8 +5,9 @@ korean: 창
 korean_native: 푸를
 japanese:
   - SOU
-japanese_native: あお
+japanese_nanori: ""
 vietnamese:
+  - thương
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: ɑŋ
 stroke_count: 16

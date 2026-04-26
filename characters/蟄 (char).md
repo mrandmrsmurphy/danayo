@@ -6,8 +6,12 @@ korean_native: "동면할"
 japanese:
   - CHITSU
   - CHUU
-japanese_native: ちっ
+japanese_nanori: ""
 vietnamese:
+  - chẫu
+  - chập
+  - chặp
+  - trập
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣiɪp"
 stroke_count: 17

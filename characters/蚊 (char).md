@@ -5,8 +5,10 @@ korean: "문"
 korean_native: "모기"
 japanese:
   - BUN
-japanese_native: か
+japanese_nanori: ""
 vietnamese:
+  - mân
+  - văn
 middle_chinese_initial: "ɱ"
 middle_chinese_final: "ɨun"
 stroke_count: 10

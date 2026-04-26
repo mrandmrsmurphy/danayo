@@ -6,8 +6,12 @@ korean_native: "거머리"
 japanese:
   - SHITSU
   - CHITSU
-japanese_native: ひる
+japanese_nanori: ""
 vietnamese:
+  - chí
+  - chất
+  - chấy
+  - điệt
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iɪt"
 stroke_count: 12

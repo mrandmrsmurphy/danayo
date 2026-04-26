@@ -5,8 +5,11 @@ korean: "릉"
 korean_native: "마름"
 japanese:
   - RYOU
-japanese_native: ひし
+japanese_nanori: ""
 vietnamese:
+  - lăng
+  - năng
+  - trăng
 middle_chinese_initial: l
 middle_chinese_final: "ɨŋ"
 stroke_count: 11

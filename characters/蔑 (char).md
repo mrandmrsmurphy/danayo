@@ -5,8 +5,16 @@ korean: 멸
 korean_native: ''
 japanese:
 - BETSU
-japanese_native: ないがしろ
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - miết
+  - miệt
+  - mít
+  - mút
+  - mệt
+  - mốt
+  - một
+  - vạt
 middle_chinese_initial: m
 middle_chinese_final: et
 stroke_count: 14

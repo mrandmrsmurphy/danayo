@@ -6,8 +6,12 @@ korean_native: "진실로"
 japanese:
   - KOU
   - KU
-japanese_native: いやしく
+japanese_nanori: ""
 vietnamese:
+  - càu
+  - cú
+  - cảu
+  - cẩu
 middle_chinese_initial: k
 middle_chinese_final: "əu"
 stroke_count: 11

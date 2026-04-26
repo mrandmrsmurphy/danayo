@@ -5,8 +5,10 @@ korean: "증"
 korean_native: "찔"
 japanese:
   - JOU
-japanese_native: む
+japanese_nanori: ""
 vietnamese:
+  - chưng
+  - chừng
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "ɨŋ"
 stroke_count: 13
