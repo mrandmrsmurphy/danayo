@@ -5,8 +5,12 @@ korean: 핵
 korean_native: 씨
 japanese:
   - KAKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cây
+  - cơi
+  - hạch
+  - hột
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣɛk
 stroke_count: 10

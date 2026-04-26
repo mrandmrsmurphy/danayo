@@ -6,8 +6,9 @@ korean_native: "울타리"
 japanese:
   - SAKU
   - SAN
-japanese_native: しがら
+japanese_nanori: ""
 vietnamese:
+  - sách
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɣɛk"
 stroke_count: 9

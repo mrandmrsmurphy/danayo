@@ -7,8 +7,11 @@ japanese:
   - ZO
   - SOU
   - SO
-japanese_native: かつ
+japanese_nanori: ""
 vietnamese:
+  - tâng
+  - tưng
+  - từng
 middle_chinese_initial: d͡z
 middle_chinese_final: əŋ
 stroke_count: 11

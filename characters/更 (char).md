@@ -5,8 +5,11 @@ korean: "갱"
 korean_native: 다시
 japanese:
   - KOU
-japanese_native: さら
+japanese_nanori: ""
 vietnamese:
+  - canh
+  - cánh
+  - ngạnh
 middle_chinese_initial: k
 middle_chinese_final: ɣæŋ
 stroke_count: 7

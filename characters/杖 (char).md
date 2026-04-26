@@ -5,8 +5,10 @@ korean: "장"
 korean_native: "지팡이"
 japanese:
   - JOU
-japanese_native: つえ
+japanese_nanori: ""
 vietnamese:
+  - rường
+  - trượng
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 7

@@ -5,8 +5,9 @@ korean: "력"
 korean_native: 책력
 japanese:
   - REKI
-japanese_native: こよみ
+japanese_nanori: ""
 vietnamese:
+  - lịch
 middle_chinese_initial: l
 middle_chinese_final: ek
 stroke_count: 14

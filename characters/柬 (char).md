@@ -6,8 +6,9 @@ korean_native: "가릴"
 japanese:
   - KAN
   - KEN
-japanese_native: えら
+japanese_nanori: ""
 vietnamese:
+  - giản
 middle_chinese_initial: k
 middle_chinese_final: "ɣɛn"
 stroke_count: 9

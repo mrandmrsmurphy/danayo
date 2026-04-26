@@ -5,8 +5,10 @@ korean: "전"
 korean_native: "마개"
 japanese:
   - SEN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - thoen
+  - thuyên
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣiuᴇn"
 stroke_count: 10

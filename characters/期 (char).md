@@ -6,8 +6,12 @@ korean_native: "기약할"
 japanese:
   - KI
   - GO
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cờ
+  - kì
+  - kề
+  - kỳ
 middle_chinese_initial: g
 middle_chinese_final: "ɨ"
 stroke_count: 12

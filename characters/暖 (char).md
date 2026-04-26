@@ -7,8 +7,10 @@ japanese:
   - DAN
   - KEN
   - NON
-japanese_native: あたた
+japanese_nanori: ""
 vietnamese:
+  - hoãn
+  - noãn
 middle_chinese_initial: n
 middle_chinese_final: "uɑn"
 stroke_count: 13

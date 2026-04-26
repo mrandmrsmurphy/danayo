@@ -5,8 +5,10 @@ korean: 백
 korean_native: 측백
 japanese:
   - HAKU
-japanese_native: かしわ
+japanese_nanori: ""
 vietnamese:
+  - bá
+  - bách
 middle_chinese_initial: p
 middle_chinese_final: ɣæk
 stroke_count: 9

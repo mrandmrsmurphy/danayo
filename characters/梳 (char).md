@@ -5,8 +5,9 @@ korean: "소"
 korean_native: "얼레빗"
 japanese:
   - SO
-japanese_native: と
+japanese_nanori: ""
 vietnamese:
+  - sơ
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɨʌ"
 stroke_count: 11

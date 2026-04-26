@@ -5,8 +5,9 @@ korean: "주"
 korean_native: "기둥"
 japanese:
   - CHUU
-japanese_native: はしら
+japanese_nanori: ""
 vietnamese:
+  - trụ
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɨo"
 stroke_count: 9

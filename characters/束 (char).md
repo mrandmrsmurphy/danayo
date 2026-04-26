@@ -5,8 +5,13 @@ korean: "속"
 korean_native: "묶을"
 japanese:
   - SOKU
-japanese_native: たば
+japanese_nanori: ""
 vietnamese:
+  - súc
+  - thóc
+  - thót
+  - thúc
+  - thút
 middle_chinese_initial: "ɕ"
 middle_chinese_final: "ɨok"
 stroke_count: 7

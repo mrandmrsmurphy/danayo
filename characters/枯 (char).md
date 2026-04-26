@@ -5,8 +5,11 @@ korean: "고"
 korean_native: "마를"
 japanese:
   - KO
-japanese_native: か
+japanese_nanori: ""
 vietnamese:
+  - gỗ
+  - khò
+  - khô
 middle_chinese_initial: "kʰ"
 middle_chinese_final: uo
 stroke_count: 9

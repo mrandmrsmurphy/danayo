@@ -6,8 +6,13 @@ korean_native: "통"
 japanese:
   - TOU
   - YOU
-japanese_native: おけ
+japanese_nanori: ""
 vietnamese:
+  - dũng
+  - thòng
+  - thông
+  - thùng
+  - thống
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "uŋ"
 stroke_count: 11

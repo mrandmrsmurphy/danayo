@@ -5,8 +5,15 @@ korean: 률
 korean_native: 밤나무
 japanese:
   - RITSU
-japanese_native: くり
+japanese_nanori: ""
 vietnamese:
+  - lật
+  - lặt
+  - lứt
+  - rật
+  - rứt
+  - sật
+  - sựt
 middle_chinese_initial: l
 middle_chinese_final: iɪt
 stroke_count: 10

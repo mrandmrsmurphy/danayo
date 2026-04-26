@@ -7,8 +7,10 @@ japanese:
   - KOU
   - KAKU
   - KYAKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - cách
+  - ghếch
 middle_chinese_initial: k
 middle_chinese_final: ɑk
 stroke_count: 10

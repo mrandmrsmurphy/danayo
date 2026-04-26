@@ -5,8 +5,9 @@ korean: "암"
 korean_native: "어두울"
 japanese:
   - AN
-japanese_native: くら
+japanese_nanori: ""
 vietnamese:
+  - ám
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ʌm"
 stroke_count: 13

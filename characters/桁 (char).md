@@ -5,8 +5,11 @@ korean: "항"
 korean_native: ""
 japanese:
   - KOU
-japanese_native: けた
+japanese_nanori: ""
 vietnamese:
+  - hàng
+  - hành
+  - hằng
 middle_chinese_initial: ɣ
 middle_chinese_final: ɑŋ
 stroke_count: 10

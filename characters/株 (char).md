@@ -6,8 +6,10 @@ korean_native: "그루"
 japanese:
   - CHU
   - SHU
-japanese_native: かぶ
+japanese_nanori: ""
 vietnamese:
+  - châu
+  - chò
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɨo"
 stroke_count: 10

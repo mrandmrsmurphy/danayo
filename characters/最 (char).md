@@ -5,8 +5,13 @@ korean: "최"
 korean_native: "가장"
 japanese:
   - SAI
-japanese_native: もっと
+japanese_nanori: ""
 vietnamese:
+  - tíu
+  - túi
+  - tếu
+  - tối
+  - tụi
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "uɑi"
 stroke_count: 12

@@ -6,8 +6,9 @@ korean_native: "자루"
 japanese:
   - HEI
   - HYOU
-japanese_native: がら
+japanese_nanori: ""
 vietnamese:
+  - bính
 middle_chinese_initial: p
 middle_chinese_final: "ɣiæŋ"
 stroke_count: 9

@@ -6,8 +6,10 @@ korean_native: 지도리
 japanese:
   - SUU
   - SHU
-japanese_native: とぼそ
+japanese_nanori: ""
 vietnamese:
+  - khu
+  - xu
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: ɨo
 stroke_count: 8

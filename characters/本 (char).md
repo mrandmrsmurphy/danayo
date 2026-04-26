@@ -5,8 +5,17 @@ korean: "본"
 korean_native: "근본"
 japanese:
   - HON
-japanese_native: もと
+japanese_nanori: ""
 vietnamese:
+  - bản
+  - bọn
+  - bỏn
+  - bốn
+  - bổn
+  - bộn
+  - bủn
+  - vỏn
+  - vốn
 middle_chinese_initial: p
 middle_chinese_final: "uən"
 stroke_count: 5

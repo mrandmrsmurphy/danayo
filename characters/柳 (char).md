@@ -5,8 +5,9 @@ korean: "류"
 korean_native: "버들"
 japanese:
   - RYUU
-japanese_native: やなぎ
+japanese_nanori: ""
 vietnamese:
+  - liễu
 middle_chinese_initial: l
 middle_chinese_final: "ɨu"
 stroke_count: 9

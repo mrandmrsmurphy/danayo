@@ -5,8 +5,12 @@ korean: "왈"
 korean_native: "가로"
 japanese:
   - ETSU
-japanese_native: いわ
+japanese_nanori: ""
 vietnamese:
+  - viết
+  - vít
+  - vất
+  - vết
 middle_chinese_initial: "ø"
 middle_chinese_final: "ʉɐt"
 stroke_count: 4

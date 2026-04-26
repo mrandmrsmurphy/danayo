@@ -6,8 +6,9 @@ korean_native: "부드러울"
 japanese:
   - NYUU
   - JUU
-japanese_native: やわ
+japanese_nanori: ""
 vietnamese:
+  - nhu
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨu"
 stroke_count: 9
