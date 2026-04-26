@@ -6,8 +6,10 @@ korean_native: "쭈그릴"
 japanese:
   - SON
   - SHUN
-japanese_native: つくば
+japanese_nanori: ""
 vietnamese:
+  - tôn
+  - đôn
 middle_chinese_initial: "d͡z"
 middle_chinese_final: "uən"
 stroke_count: 19

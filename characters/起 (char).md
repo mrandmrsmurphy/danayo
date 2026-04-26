@@ -5,8 +5,10 @@ korean: "기"
 korean_native: "일어날"
 japanese:
   - KI
-japanese_native: お
+japanese_nanori: ""
 vietnamese:
+  - khỉ
+  - khởi
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɨ"
 stroke_count: 10

@@ -6,8 +6,10 @@ korean_native: "질"
 japanese:
   - FU
   - BU
-japanese_native: ま
+japanese_nanori: ""
 vietnamese:
+  - phũ
+  - phụ
 middle_chinese_initial: v
 middle_chinese_final: "ɨu"
 stroke_count: 9

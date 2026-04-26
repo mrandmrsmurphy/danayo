@@ -5,8 +5,10 @@ korean: "제"
 korean_native: "굽"
 japanese:
   - TEI
-japanese_native: ひづめ
+japanese_nanori: ""
 vietnamese:
+  - đế
+  - đề
 middle_chinese_initial: d
 middle_chinese_final: ei
 stroke_count: 16

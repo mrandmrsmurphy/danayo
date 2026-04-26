@@ -6,8 +6,11 @@ korean_native: "골"
 japanese:
   - KOKU
   - YOKU
-japanese_native: たに
+japanese_nanori: ""
 vietnamese:
+  - cốc
+  - góc
+  - hốc
 middle_chinese_initial: k
 middle_chinese_final: uk
 stroke_count: 7

@@ -5,8 +5,9 @@ korean: "돈"
 korean_native: "돼지"
 japanese:
   - TON
-japanese_native: ぶた
+japanese_nanori: ""
 vietnamese:
+  - đồn
 middle_chinese_initial: d
 middle_chinese_final: "uən"
 stroke_count: 11

@@ -7,8 +7,11 @@ japanese:
   - SUU
   - SHU
   - SOKU
-japanese_native: しゅ
+japanese_nanori: ""
 vietnamese:
+  - so
+  - xu
+  - xô
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "ɨo"
 stroke_count: 17

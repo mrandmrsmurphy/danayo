@@ -6,8 +6,9 @@ korean_native: "붙일"
 japanese:
   - TEN
   - CHOU
-japanese_native: は
+japanese_nanori: ""
 vietnamese:
+  - thiếp
 middle_chinese_initial: "tʰ"
 middle_chinese_final: ep
 stroke_count: 12

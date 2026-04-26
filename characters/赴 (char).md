@@ -5,8 +5,9 @@ korean: "부"
 korean_native: "다다를"
 japanese:
   - FU
-japanese_native: おもむ
+japanese_nanori: ""
 vietnamese:
+  - phó
 middle_chinese_initial: "fʰ"
 middle_chinese_final: "ɨo"
 stroke_count: 9

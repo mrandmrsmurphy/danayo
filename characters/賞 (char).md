@@ -5,8 +5,9 @@ korean: "상"
 korean_native: "상줄"
 japanese:
   - SHOU
-japanese_native: ほ
+japanese_nanori: ""
 vietnamese:
+  - thưởng
 middle_chinese_initial: "ɕ"
 middle_chinese_final: "ɨɐŋ"
 stroke_count: 15

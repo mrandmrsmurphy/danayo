@@ -5,8 +5,9 @@ korean: "여"
 korean_native: "수레"
 japanese:
   - YO
-japanese_native: かご
+japanese_nanori: ""
 vietnamese:
+  - dư
 middle_chinese_initial: j
 middle_chinese_final: "ɨʌ"
 stroke_count: 17

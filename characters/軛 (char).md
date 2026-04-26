@@ -6,8 +6,9 @@ korean_native: 멍에
 japanese:
   - AKU
   - YAKU
-japanese_native: くびき
+japanese_nanori: ""
 vietnamese:
+  - ách
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣɛk
 stroke_count: 11

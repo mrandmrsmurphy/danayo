@@ -6,8 +6,10 @@ korean_native: "달릴"
 japanese:
   - SOU
   - SHU
-japanese_native: はし
+japanese_nanori: ""
 vietnamese:
+  - rảo
+  - tẩu
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "ǝu"
 stroke_count: 7

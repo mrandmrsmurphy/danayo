@@ -7,8 +7,16 @@ japanese:
   - ETSU
   - OCHI
   - KATSU
-japanese_native: こ
+japanese_nanori: ""
 vietnamese:
+  - nhông
+  - việt
+  - vác
+  - vát
+  - vót
+  - vượt
+  - vẹt
+  - vệt
 middle_chinese_initial: ø
 middle_chinese_final: ʉɐt
 stroke_count: 12

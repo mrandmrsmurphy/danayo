@@ -5,8 +5,12 @@ korean: "초"
 korean_native: "뛰어넘을"
 japanese:
   - CHOU
-japanese_native: こ
+japanese_nanori: ""
 vietnamese:
+  - siêu
+  - sêu
+  - sếu
+  - xiêu
 middle_chinese_initial: "ʈʰ"
 middle_chinese_final: "ɣiᴇu"
 stroke_count: 12

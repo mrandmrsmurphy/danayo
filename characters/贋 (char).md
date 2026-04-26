@@ -5,8 +5,9 @@ korean: "안"
 korean_native: ""
 japanese:
   - GAN
-japanese_native: にせ
+japanese_nanori: ""
 vietnamese:
+  - nhạn
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣan
 stroke_count: 19

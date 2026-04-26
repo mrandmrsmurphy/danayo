@@ -6,8 +6,9 @@ korean_native: "탐낼"
 japanese:
   - DON
   - TON
-japanese_native: むさぼ
+japanese_nanori: ""
 vietnamese:
+  - tham
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "ʌm"
 stroke_count: 11

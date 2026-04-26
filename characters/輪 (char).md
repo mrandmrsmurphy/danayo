@@ -5,8 +5,11 @@ korean: "륜"
 korean_native: "바퀴"
 japanese:
   - RIN
-japanese_native: わ
+japanese_nanori: ""
 vietnamese:
+  - lon
+  - luân
+  - luôn
 middle_chinese_initial: l
 middle_chinese_final: "iuɪn"
 stroke_count: 15

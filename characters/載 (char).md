@@ -5,8 +5,11 @@ korean: "재"
 korean_native: "실을"
 japanese:
   - SAI
-japanese_native: の
+japanese_nanori: ""
 vietnamese:
+  - tưới
+  - tưởi
+  - tải
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "ʌi"
 stroke_count: 13

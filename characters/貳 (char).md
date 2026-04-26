@@ -6,8 +6,11 @@ korean_native: "두"
 japanese:
   - NI
   - JI
-japanese_native: ふた
+japanese_nanori: ""
 vietnamese:
+  - nhì
+  - nhẹ
+  - nhị
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iɪ"
 stroke_count: 12

@@ -5,8 +5,14 @@ korean: "랄"
 korean_native: "매울"
 japanese:
   - RATSU
-japanese_native: から
+japanese_nanori: ""
 vietnamese:
+  - lát
+  - lướt
+  - lượt
+  - lạt
+  - nhạt
+  - nhợt
 middle_chinese_initial: l
 middle_chinese_final: "ɑt"
 stroke_count: 14

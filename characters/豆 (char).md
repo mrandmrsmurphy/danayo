@@ -6,8 +6,10 @@ korean_native: "콩"
 japanese:
   - TOU
   - ZU
-japanese_native: まめ
+japanese_nanori: ""
 vietnamese:
+  - dấu
+  - đậu
 middle_chinese_initial: d
 middle_chinese_final: "əu"
 stroke_count: 7

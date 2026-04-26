@@ -5,8 +5,11 @@ korean: "궤"
 korean_native: "바큇자국"
 japanese:
   - KI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - quĩ
+  - quẫy
+  - quỹ
 middle_chinese_initial: k
 middle_chinese_final: "ɣiuɪ"
 stroke_count: 9

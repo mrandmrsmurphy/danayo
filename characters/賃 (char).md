@@ -6,8 +6,9 @@ korean_native: "품삯"
 japanese:
   - CHIN
   - JIN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - nhẫm
 middle_chinese_initial: "ɳ"
 middle_chinese_final: "ɣiɪm"
 stroke_count: 13

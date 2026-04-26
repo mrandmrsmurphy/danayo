@@ -5,8 +5,9 @@ korean: "축"
 korean_native: "굴대"
 japanese:
   - JIKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - trục
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɨuk"
 stroke_count: 12

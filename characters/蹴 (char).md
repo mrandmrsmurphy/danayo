@@ -6,8 +6,9 @@ korean_native: "찰"
 japanese:
   - SHUU
   - SHUKU
-japanese_native: け
+japanese_nanori: ""
 vietnamese:
+  - xúc
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "ɨuk"
 stroke_count: 19

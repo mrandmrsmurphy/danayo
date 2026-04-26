@@ -6,8 +6,11 @@ korean_native: 쓸
 japanese:
   - HI
   - FUTSU
-japanese_native: つい
+japanese_nanori: ""
 vietnamese:
+  - bí
+  - phí
+  - phía
 middle_chinese_initial: fʰ
 middle_chinese_final: ʉi
 stroke_count: 12

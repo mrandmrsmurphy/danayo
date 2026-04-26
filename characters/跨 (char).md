@@ -6,8 +6,9 @@ korean_native: "넘을"
 japanese:
   - KO
   - KA
-japanese_native: また
+japanese_nanori: ""
 vietnamese:
+  - khoá
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣua"
 stroke_count: 13
