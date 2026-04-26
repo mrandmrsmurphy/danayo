@@ -6,8 +6,9 @@ korean_native: 살질
 japanese:
   - BOU
   - HOU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - phòng
 middle_chinese_initial: f
 middle_chinese_final: ʉɐŋ
 stroke_count: 8

@@ -5,8 +5,12 @@ korean: "배"
 korean_native: "등"
 japanese:
   - HAI
-japanese_native: せ
+japanese_nanori: ""
 vietnamese:
+  - bối
+  - bồi
+  - bổi
+  - bội
 middle_chinese_initial: b
 middle_chinese_final: "uʌi"
 stroke_count: 9

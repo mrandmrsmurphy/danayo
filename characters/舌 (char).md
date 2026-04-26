@@ -6,8 +6,10 @@ korean_native: "혀"
 japanese:
   - ZETSU
   - SETSU
-japanese_native: した
+japanese_nanori: ""
 vietnamese:
+  - thiệt
+  - thịt
 middle_chinese_initial: "d͡ʑ"
 middle_chinese_final: "iᴇt"
 stroke_count: 6

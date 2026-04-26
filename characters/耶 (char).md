@@ -6,8 +6,9 @@ korean_native: "어조사"
 japanese:
   - YA
   - JA
-japanese_native: か
+japanese_nanori: ""
 vietnamese:
+  - gia
 middle_chinese_initial: j
 middle_chinese_final: ia
 stroke_count: 9

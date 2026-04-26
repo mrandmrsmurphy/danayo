@@ -6,8 +6,11 @@ korean_native: "즐길"
 japanese:
   - KOU
   - KAI
-japanese_native: がえんじ
+japanese_nanori: ""
 vietnamese:
+  - khẳng
+  - khứng
+  - khừng
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "əŋ"
 stroke_count: 8

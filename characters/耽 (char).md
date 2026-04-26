@@ -5,8 +5,11 @@ korean: "탐"
 korean_native: "처질"
 japanese:
   - TAN
-japanese_native: ふけ
+japanese_nanori: ""
 vietnamese:
+  - xẩm
+  - đam
+  - đắm
 middle_chinese_initial: t
 middle_chinese_final: "ʌm"
 stroke_count: 10

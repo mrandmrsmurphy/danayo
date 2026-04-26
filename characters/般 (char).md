@@ -7,8 +7,12 @@ japanese:
   - HAN
   - BAN
   - HATSU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - ban
+  - bàn
+  - bát
+  - bơn
 middle_chinese_initial: p
 middle_chinese_final: "ɣan"
 stroke_count: 10

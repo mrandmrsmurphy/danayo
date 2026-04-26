@@ -5,8 +5,9 @@ korean: "와"
 korean_native: "누울"
 japanese:
   - GA
-japanese_native: ふせ
+japanese_nanori: ""
 vietnamese:
+  - ngoạ
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "uɑ"
 stroke_count: 9

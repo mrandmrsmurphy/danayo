@@ -5,8 +5,10 @@ korean: "복"
 korean_native: "배"
 japanese:
   - FUKU
-japanese_native: はら
+japanese_nanori: ""
 vietnamese:
+  - phúc
+  - phục
 middle_chinese_initial: f
 middle_chinese_final: "ɨuk"
 stroke_count: 13

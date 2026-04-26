@@ -6,8 +6,11 @@ korean_native: "고름"
 japanese:
   - DOU
   - NOU
-japanese_native: う
+japanese_nanori: ""
 vietnamese:
+  - nùng
+  - nọng
+  - nồng
 middle_chinese_initial: n
 middle_chinese_final: "uoŋ"
 stroke_count: 17

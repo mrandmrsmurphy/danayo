@@ -6,8 +6,9 @@ korean_native: "고기"
 japanese:
   - NIKU
   - JUU
-japanese_native: しし
+japanese_nanori: ""
 vietnamese:
+  - nhục
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨuk"
 stroke_count: 6

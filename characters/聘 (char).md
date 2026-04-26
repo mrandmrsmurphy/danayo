@@ -5,8 +5,10 @@ korean: "빙"
 korean_native: "부를"
 japanese:
   - HEI
-japanese_native: へい
+japanese_nanori: ""
 vietnamese:
+  - sánh
+  - sính
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "iᴇŋ"
 stroke_count: 13

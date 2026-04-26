@@ -5,8 +5,10 @@ korean: "주"
 korean_native: "팔꿈치"
 japanese:
   - CHUU
-japanese_native: ひじ
+japanese_nanori: ""
 vietnamese:
+  - khuỷu
+  - trửu
 middle_chinese_initial: "ʈ"
 middle_chinese_final: "ɨu"
 stroke_count: 7

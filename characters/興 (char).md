@@ -6,8 +6,15 @@ korean_native: 일
 japanese:
   - KYOU
   - KOU
-japanese_native: おこ
+japanese_nanori: ""
 vietnamese:
+  - hên
+  - hăng
+  - hưng
+  - hẩng
+  - hẫng
+  - hứng
+  - hững
 middle_chinese_initial: x
 middle_chinese_final: ɨŋ
 stroke_count: 16

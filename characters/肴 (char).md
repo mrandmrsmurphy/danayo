@@ -5,8 +5,9 @@ korean: 효
 korean_native: ''
 japanese:
 - KOU
-japanese_native: さかな
-vietnamese: null
+japanese_nanori: ''
+vietnamese:
+  - hào
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣau
 stroke_count: 8

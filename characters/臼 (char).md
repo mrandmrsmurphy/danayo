@@ -5,8 +5,10 @@ korean: "구"
 korean_native: "절구"
 japanese:
   - KYUU
-japanese_native: うす
+japanese_nanori: ""
 vietnamese:
+  - cối
+  - cữu
 middle_chinese_initial: g
 middle_chinese_final: "ɨu"
 stroke_count: 6

@@ -6,8 +6,11 @@ korean_native: "견딜"
 japanese:
   - TAI
   - DOU
-japanese_native: た
+japanese_nanori: ""
 vietnamese:
+  - nài
+  - nại
+  - nề
 middle_chinese_initial: n
 middle_chinese_final: "ʌi"
 stroke_count: 9

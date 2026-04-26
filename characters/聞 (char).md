@@ -6,8 +6,9 @@ korean_native: "들을"
 japanese:
   - BUN
   - MON
-japanese_native: き
+japanese_nanori: ""
 vietnamese:
+  - văn
 middle_chinese_initial: "ɱ"
 middle_chinese_final: "ɨun"
 stroke_count: 14

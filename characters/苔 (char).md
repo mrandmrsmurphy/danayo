@@ -5,8 +5,14 @@ korean: "태"
 korean_native: "이끼"
 japanese:
   - TAI
-japanese_native: こけ
+japanese_nanori: ""
 vietnamese:
+  - dày
+  - dầy
+  - thai
+  - đài
+  - đày
+  - đầy
 middle_chinese_initial: d
 middle_chinese_final: "ʌi"
 stroke_count: 8

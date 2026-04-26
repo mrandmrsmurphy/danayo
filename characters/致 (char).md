@@ -5,8 +5,10 @@ korean: 치
 korean_native: 보낼
 japanese:
   - CHI
-japanese_native: いた
+japanese_nanori: ""
 vietnamese:
+  - nhí
+  - trí
 middle_chinese_initial: ʈ
 middle_chinese_final: ɣiɪ
 stroke_count: 10

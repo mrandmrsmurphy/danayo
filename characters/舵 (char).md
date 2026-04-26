@@ -6,8 +6,9 @@ korean_native: "키"
 japanese:
   - TA
   - DA
-japanese_native: かじ
+japanese_nanori: ""
 vietnamese:
+  - đà
 middle_chinese_initial: d
 middle_chinese_final: a
 stroke_count: 11

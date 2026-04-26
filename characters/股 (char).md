@@ -5,8 +5,10 @@ korean: "고"
 korean_native: "넓적다리"
 japanese:
   - KO
-japanese_native: また
+japanese_nanori: ""
 vietnamese:
+  - cổ
+  - cỗ
 middle_chinese_initial: k
 middle_chinese_final: uo
 stroke_count: 8

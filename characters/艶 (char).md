@@ -5,8 +5,10 @@ korean: 염
 korean_native: 고울
 japanese:
   - EN
-japanese_native: つや
+japanese_nanori: ""
 vietnamese:
+  - diễm
+  - dém
 middle_chinese_initial: j
 middle_chinese_final: iᴇm
 stroke_count: 19

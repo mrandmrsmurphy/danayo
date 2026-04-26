@@ -5,8 +5,9 @@ korean: "료"
 korean_native: ""
 japanese:
   - RYOU
-japanese_native: いささか
+japanese_nanori: ""
 vietnamese:
+  - liêu
 middle_chinese_initial: l
 middle_chinese_final: eu
 stroke_count: 11

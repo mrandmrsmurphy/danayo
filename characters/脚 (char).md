@@ -6,8 +6,10 @@ korean_native: 다리
 japanese:
   - KYAKU
   - KYA
-japanese_native: あし
+japanese_nanori: ""
 vietnamese:
+  - cuốc
+  - cước
 middle_chinese_initial: k
 middle_chinese_final: ɨɐk
 stroke_count: 11

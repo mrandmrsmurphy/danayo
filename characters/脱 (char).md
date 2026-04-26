@@ -7,8 +7,13 @@ japanese:
   - DATSU
   - TAI
   - ETSU
-japanese_native: ぬ
+japanese_nanori: ""
 vietnamese:
+  - thoát
+  - thoạt
+  - thoắt
+  - xoát
+  - xoắt
 middle_chinese_initial: d
 middle_chinese_final: uɑt
 stroke_count: 11
