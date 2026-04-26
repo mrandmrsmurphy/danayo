@@ -48,7 +48,7 @@ tags:
 ```
 
 # Notes
-- 形声: [[Radical 120|糸]] + <ruby>[[罔]]<rt>ㄇㄚㄫ</rt></riby> = [[lookup/SKIP/SKIP-3/SKIP-3-2-4]] ([[Stroke 06]])
+- 形声: [[../lookup/Radicals/Radical 145|糸]] + <ruby>[[罔]]<rt>ㄇㄚㄫ</rt></riby> = [[lookup/SKIP/SKIP-3/SKIP-3-2-4]] ([[Stroke 06]])
 - [[lookup/HSK/HSK Beginner]], [[Jōyō - Kōtō]], [[Korean Name ㅁ]], [[Grade 6]]
 - 
 [[Lookup/CC/initials/聲 明]]

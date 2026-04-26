@@ -1,12 +1,13 @@
 ---
 size: 83
+date-last-perfect:
 radical: 糸
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
-## Data check
+## Data search
 ```dataview
-TABLE stroke_count AS "S", english AS "EN", 注音 AS "Sound"
+TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "糸"
-SORT stroke_count ASC
+SORT file.name ASC

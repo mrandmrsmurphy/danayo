@@ -40,6 +40,6 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*laːɡ): semantic [糸](Radical%20120) (“silk”) + phonetic [尺 (char)](characters/尺%20(char).md) (OC \*neb, \*laːɡ, \*kuː).
+- 形声 (OC \*laːɡ): semantic [糸](../lookup/Radicals/Radical%20145.md) (“silk”) + phonetic [尺 (char)](characters/尺%20(char).md) (OC \*neb, \*laːɡ, \*kuː).
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 昔開]]

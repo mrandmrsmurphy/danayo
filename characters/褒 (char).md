@@ -39,6 +39,6 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*puː, \*puː): semantic [衣](Radical%20145) + phonetic [保](保.md) (OC \*puːʔ).
+- 形声 (OC \*puː, \*puː): semantic [衣](../lookup/Radicals/Radical%20120.md) + phonetic [保](保.md) (OC \*puːʔ).
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 豪]]

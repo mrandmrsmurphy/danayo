@@ -196,7 +196,7 @@ __Combining or simplified radicals with 5 strokes__
 - [[Radical 142]] 虫
 - [[Radical 143]] 血
 - [[Radical 144]] 行
-- [[Radical 145]] 衣 or combining as 衤
+- [[Radical 120]] 衣 or combining as 衤
 - [[Radical 146]] 西 or combining as 覀
 
 __Combining or simplified radicals with 6 strokes__
