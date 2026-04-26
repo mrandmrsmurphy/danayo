@@ -5,8 +5,9 @@ korean: 연
 korean_native: 따를
 japanese:
   - EN
-japanese_native: そ
+japanese_nanori: ""
 vietnamese:
+  - duyên
 middle_chinese_initial: j
 middle_chinese_final: iuᴇn
 stroke_count: 8

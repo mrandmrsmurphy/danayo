@@ -6,8 +6,9 @@ korean_native: "대개"
 japanese:
   - GAI
   - KAI
-japanese_native: おおむ
+japanese_nanori: ""
 vietnamese:
+  - khái
 middle_chinese_initial: k
 middle_chinese_final: ʌi
 stroke_count: 14

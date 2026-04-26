@@ -5,8 +5,11 @@ korean: "한"
 korean_native: "땀"
 japanese:
   - KAN
-japanese_native: あせ
+japanese_nanori: ""
 vietnamese:
+  - cạn
+  - hãn
+  - khan
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "ɑn"
 stroke_count: 6

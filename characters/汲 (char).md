@@ -5,8 +5,10 @@ korean: "급"
 korean_native: "길을"
 japanese:
   - KYUU
-japanese_native: く
+japanese_nanori: ""
 vietnamese:
+  - cấp
+  - ngập
 middle_chinese_initial: k
 middle_chinese_final: "ɣiɪp"
 stroke_count: 7

@@ -5,8 +5,11 @@ korean: "차"
 korean_native: "이"
 japanese:
   - SHI
-japanese_native: これ
+japanese_nanori: ""
 vietnamese:
+  - nảy
+  - thử
+  - thửa
 middle_chinese_initial: "t͡sʰ"
 middle_chinese_final: "iᴇ"
 stroke_count: 6

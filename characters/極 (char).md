@@ -7,8 +7,11 @@ japanese:
   - GOKU
   - KYOKU
   - GOKI
-japanese_native: きわ
+japanese_nanori: ""
 vietnamese:
+  - cặc
+  - cọc
+  - cực
 middle_chinese_initial: g
 middle_chinese_final: "ɨk"
 stroke_count: 12

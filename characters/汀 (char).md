@@ -5,8 +5,11 @@ korean: "정"
 korean_native: "물가"
 japanese:
   - TEI
-japanese_native: みぎわ
+japanese_nanori: ""
 vietnamese:
+  - thinh
+  - đinh
+  - đênh
 middle_chinese_initial: "tʰ"
 middle_chinese_final: "eŋ"
 stroke_count: 5

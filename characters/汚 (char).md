@@ -5,8 +5,11 @@ korean: "오"
 korean_native: "더러울"
 japanese:
   - O
-japanese_native: けが
+japanese_nanori: ""
 vietnamese:
+  - ô
+  - ố
+  - ồ
 middle_chinese_initial: "ʔ"
 middle_chinese_final: uo
 stroke_count: 6

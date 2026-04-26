@@ -6,8 +6,13 @@ korean_native: "못"
 japanese:
   - CHI
   - TA
-japanese_native: いけ
+japanese_nanori: ""
 vietnamese:
+  - tri
+  - trì
+  - trầy
+  - trề
+  - đìa
 middle_chinese_initial: "ɖ"
 middle_chinese_final: "ɣiᴇ"
 stroke_count: 6

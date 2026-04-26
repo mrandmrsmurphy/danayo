@@ -5,8 +5,18 @@ korean: "여"
 korean_native: "너"
 japanese:
   - JO
-japanese_native: なんじ
+japanese_nanori: ""
 vietnamese:
+  - dử
+  - nhớ
+  - nhờ
+  - nhở
+  - nhởi
+  - nhứ
+  - nhừ
+  - nhử
+  - nhữ
+  - nở
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨʌ"
 stroke_count: 6

@@ -6,8 +6,10 @@ korean_native: "창"
 japanese:
   - SOU
   - SHOU
-japanese_native: やり
+japanese_nanori: ""
 vietnamese:
+  - sang
+  - thương
 middle_chinese_initial: "t͡ʃʰ"
 middle_chinese_final: "ɣæŋ"
 stroke_count: 14

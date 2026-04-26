@@ -6,8 +6,10 @@ korean_native: "독"
 japanese:
   - DOKU
   - TOKU
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - nọc
+  - độc
 middle_chinese_initial: d
 middle_chinese_final: uok
 stroke_count: 8

@@ -5,8 +5,9 @@ korean: 흠
 korean_native: 하품
 japanese:
   - KETSU
-japanese_native: か
+japanese_nanori: ""
 vietnamese:
+  - khiếm
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨam
 stroke_count: 4

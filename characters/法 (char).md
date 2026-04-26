@@ -7,8 +7,13 @@ japanese:
   - HOU
   - HATSU
   - HOTSU
-japanese_native: のり
+japanese_nanori: ""
 vietnamese:
+  - pháp
+  - phép
+  - phăm
+  - phấp
+  - phắp
 middle_chinese_initial: f
 middle_chinese_final: "iɐp"
 stroke_count: 8

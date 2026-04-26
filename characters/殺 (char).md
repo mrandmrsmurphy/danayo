@@ -7,8 +7,15 @@ japanese:
   - SATSU
   - SETSU
   - SAI
-japanese_native: ころ
+japanese_nanori: ""
 vietnamese:
+  - sái
+  - sát
+  - sét
+  - sít
+  - sướt
+  - sượt
+  - sịt
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣɛt"
 stroke_count: 10

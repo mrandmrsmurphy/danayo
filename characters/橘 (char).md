@@ -5,8 +5,12 @@ korean: "귤"
 korean_native: "귤나무"
 japanese:
   - KITSU
-japanese_native: たちばな
+japanese_nanori: ""
 vietnamese:
+  - quít
+  - quất
+  - quầng
+  - quắt
 middle_chinese_initial: k
 middle_chinese_final: "iuɪt"
 stroke_count: 16

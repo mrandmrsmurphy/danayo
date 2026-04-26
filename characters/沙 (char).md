@@ -6,8 +6,12 @@ korean_native: "모래"
 japanese:
   - SA
   - SHA
-japanese_native: すな
+japanese_nanori: ""
 vietnamese:
+  - nhểu
+  - sa
+  - sà
+  - xoà
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣa"
 stroke_count: 7

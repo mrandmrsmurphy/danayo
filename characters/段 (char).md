@@ -6,8 +6,10 @@ korean_native: "조각"
 japanese:
   - DAN
   - TAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - đoàn
+  - đoạn
 middle_chinese_initial: d
 middle_chinese_final: "uɑn"
 stroke_count: 9

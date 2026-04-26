@@ -5,8 +5,9 @@ korean: "관"
 korean_native: "항목"
 japanese:
   - KAN
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - khoản
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uɑn"
 stroke_count: 12

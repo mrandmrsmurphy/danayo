@@ -5,8 +5,9 @@ korean: 훼
 korean_native: 헐
 japanese:
   - KI
-japanese_native: こぼ
+japanese_nanori: ""
 vietnamese:
+  - huỷ
 middle_chinese_initial: x
 middle_chinese_final: ɣiuᴇ
 stroke_count: 13

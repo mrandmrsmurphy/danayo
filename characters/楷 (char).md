@@ -5,8 +5,10 @@ korean: "해"
 korean_native: "본보기"
 japanese:
   - KAI
-japanese_native: ""
+japanese_nanori: ""
 vietnamese:
+  - giai
+  - khai
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɣɛi"
 stroke_count: 13

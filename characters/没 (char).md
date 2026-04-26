@@ -5,8 +5,10 @@ korean: 몰
 korean_native: 가라앉을
 japanese:
   - BOTSU
-japanese_native: おぼ
+japanese_nanori: ""
 vietnamese:
+  - mốt
+  - một
 middle_chinese_initial: m
 middle_chinese_final: uət
 stroke_count: 7

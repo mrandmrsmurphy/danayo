@@ -6,8 +6,14 @@ korean_native: "바를"
 japanese:
   - SEI
   - SHOU
-japanese_native: ただ
+japanese_nanori: ""
 vietnamese:
+  - chiếng
+  - chánh
+  - chênh
+  - chính
+  - chếnh
+  - giêng
 middle_chinese_initial: "t͡ɕ"
 middle_chinese_final: "iᴇŋ"
 stroke_count: 5

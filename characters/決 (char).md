@@ -5,8 +5,10 @@ korean: "결"
 korean_native: "결단할"
 japanese:
   - KETSU
-japanese_native: き
+japanese_nanori: ""
 vietnamese:
+  - quyết
+  - quết
 middle_chinese_initial: k
 middle_chinese_final: wet
 stroke_count: 7

@@ -5,8 +5,9 @@ korean: "즐"
 korean_native: "빗"
 japanese:
   - SHITSU
-japanese_native: くし
+japanese_nanori: ""
 vietnamese:
+  - trất
 middle_chinese_initial: "t͡ʃ"
 middle_chinese_final: "ɪt"
 stroke_count: 17

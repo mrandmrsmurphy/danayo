@@ -7,8 +7,10 @@ japanese:
   - HAN
   - FUU
   - HOU
-japanese_native: ただよ
+japanese_nanori: ""
 vietnamese:
+  - phiếm
+  - vàm
 middle_chinese_initial: "fʰ"
 middle_chinese_final: "ɨɐm"
 stroke_count: 6

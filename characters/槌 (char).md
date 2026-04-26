@@ -5,8 +5,10 @@ korean: "퇴"
 korean_native: ""
 japanese:
   - TSUI
-japanese_native: つち
+japanese_nanori: ""
 vietnamese:
+  - chuỳ
+  - dùi
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiuᴇ
 stroke_count: 13

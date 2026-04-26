@@ -6,8 +6,12 @@ korean_native: "물거품"
 japanese:
   - MATSU
   - BATSU
-japanese_native: あわ
+japanese_nanori: ""
 vietnamese:
+  - mát
+  - mướt
+  - mượt
+  - mạt
 middle_chinese_initial: m
 middle_chinese_final: "uɑt"
 stroke_count: 8
