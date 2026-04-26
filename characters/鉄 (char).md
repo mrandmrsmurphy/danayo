@@ -12,7 +12,6 @@ vietnamese:
   - thiếc
   - thiết
   - thét
-- thiết, sắt
 middle_chinese_initial: tʰ
 middle_chinese_final: et
 stroke_count: 13

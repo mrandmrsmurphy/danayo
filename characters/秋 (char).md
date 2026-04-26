@@ -9,7 +9,6 @@ japanese_nanori:
 - あき
 vietnamese:
   - thu
-- thu
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: ɨu
 stroke_count: 9
