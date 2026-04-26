@@ -32,7 +32,7 @@ Supporting content:
 
 **Character** frontmatter fields (all present on every entry):
 ```
-mandarin, cantonese, korean, korean_native, japanese, japanese_nanori, vietnamese
+mandarin, cantonese, korean, korean_native, japanese, japanese_native, vietnamese
 middle_chinese_initial, middle_chinese_final
 stroke_count, radical, skip_number
 grade_level, joyo_level, hsk_level, hanmun_edu_level
