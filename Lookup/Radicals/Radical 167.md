@@ -1,5 +1,6 @@
 ---
 size: 62
+radical: 金
 ---
 > [[Radicals]]
 
