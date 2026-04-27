@@ -45,6 +45,7 @@ tags:
 - [[黒色]]
 - [[黒板]]
 - [[黒貂]]
+- <ruby>[黒洞](/words/黒洞.md)<rt>ㄉㄛㄫ</rt></ruby> "blackhole"
 - 
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 德開]]

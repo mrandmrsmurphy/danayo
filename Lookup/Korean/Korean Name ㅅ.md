@@ -49,7 +49,7 @@ Checked for redirects
 [薛](characters/薛.md) [楔](characters/楔.md) [屑 (char)](characters/屑%20(char).md) [泄](characters/洩.md) [洩](characters/洩.md) [渫](characters/洩.md) [[褻]] [齧](characters/咬%20(char).md) [禼](characters/禼.md) [[蔎]] [偰](characters/偰.md)
 
 ### 섬 
-[纖](characters/繊.md) [[暹]] [蟾蜍](words/詹余.md) [[剡]] [[殲]] [[贍]] [閃](characters/閃.md) [陝](characters/陝.md) 
+[纖](characters/繊.md) [[暹]] [蟾蜍](../../words/瞻余.md) [[剡]] [[殲]] [[贍]] [閃](characters/閃.md) [陝](characters/陝.md) 
 
 ### 섭  
 [[燮]] [[㰔]] [[𦁗]] 

@@ -1925,7 +1925,7 @@
 2014. [[阱]] in [[lookup/SKIP/SKIP-2/SKIP-2-3-6]]
 2015. [[勗]] in [[lookup/SKIP/SKIP-2/SKIP-2-4-7]]
 2016. [[煢]] in [[lookup/SKIP/SKIP-2/SKIP-2-8-5]]
-2017. [[魑]] in [[lookup/SKIP/SKIP-3/SKIP-3-10-11]]
+2017. [[characters/魑]] in [[lookup/SKIP/SKIP-3/SKIP-3-10-11]]
 2018. [[匳]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 2019. [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 
