@@ -1,14 +1,10 @@
 ---
-size: 68
+size: 69
+radical: 肉
 ---
 > [[Radicals]]
-"Meat" radical
 
-### +4
-- [[肥]]
 
-### +11
-- [[膣 (char)]]
 # Data search
 ```dataview
 TABLE radical AS "Radical", 注音 AS "Sound", stroke_count AS "S"
