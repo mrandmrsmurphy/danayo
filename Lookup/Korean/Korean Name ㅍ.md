@@ -30,7 +30,7 @@ Redirected checked for
 [坪 (char)](characters/坪%20(char).md) [[枰]] [[泙]] [[萍]] 
 
 ### 폐 
-[陛](characters/陛.md) [[吠]] [[嬖]] [[斃]] 
+[陛](characters/陛.md) [[../../characters/吠]] [[嬖]] [[斃]] 
 
 ### 포 
 [葡](characters/葡.md) [褒 (char)](characters/褒%20(char).md) [砲](characters/砲.md) [[鋪]] [[佈]] [匍](characters/爬.md) [[匏]] [[咆]] [哺](characters/哺.md) [圃](characters/圃.md) [怖](characters/怖.md) [暴 (char)](characters/暴%20(char).md) [泡](characters/泡.md) [疱](characters/疱.md) [[脯]] [[苞]] [蒲](characters/蒲.md) [[袍]] [[逋]] [鮑 (char)](characters/鮑%20(char).md) [拋](characters/抛.md)
