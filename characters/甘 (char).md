@@ -41,3 +41,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 談]]
+- [[甘露]] "honeydew, nectar, amrita"
+- [[甘藷]] "sweet potato"
+- [[甘味]] "sweetness, sweet taste"

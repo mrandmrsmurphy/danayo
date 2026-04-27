@@ -47,3 +47,4 @@ tags:
 - [[広範]] for 廣泛 , 广泛, 廣範 , 広汎
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 唐合]]
+- [[広野]] "wilderness"

@@ -47,3 +47,4 @@ tags:
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [ㄆㄚㄧ](syllables/ㄆㄚㄧ.md)
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 皆開]]
+- [[排球]] "volleyball"

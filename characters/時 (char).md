@@ -47,3 +47,6 @@ tags:
 - <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby> - then
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 之]]
+- [[時間]] "time, hour"
+- [[時節]] "seasons"
+- [[時宜]] "timely, be right time"

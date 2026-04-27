@@ -48,3 +48,5 @@ tags:
 - [[奚]] + [[Radical 196|鳥]] = [[SKIP-1-8-11]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 齊開]]
+- [[鶏鳴]] "cock's crow, daybreak, 2 a.m."
+- [[鶏卵]] "chicken eggs"

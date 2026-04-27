@@ -42,3 +42,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 戈一合]]
+- [[禾稲]] "rice"

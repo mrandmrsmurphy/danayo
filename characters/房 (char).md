@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 唐開]]
+- [[房室]] "house, room, apartment"

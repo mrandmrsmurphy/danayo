@@ -45,3 +45,6 @@ tags:
 - 
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 昔開]]
+- [[石版]] "lithograph, slabstone"
+- [[石英]] "quartz"
+- [[石像]] "statue"

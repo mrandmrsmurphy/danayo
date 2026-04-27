@@ -45,3 +45,4 @@ tags:
 2. abbreviation for <ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium"
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 燭]]
+- [[緑色]] "green"

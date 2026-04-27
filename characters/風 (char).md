@@ -44,3 +44,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 東三]]
+- [[風刺]] "satarize, mock"
+- [[風笛]] "bagpipes"
+- [[風潮]] "tempest"

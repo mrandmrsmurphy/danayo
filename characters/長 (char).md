@@ -53,3 +53,5 @@ tags:
 - Pronounced [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md), a very common syllable.
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 陽開]]
+- [[長期]] "long time"
+- [[長上]] "elder, superior"

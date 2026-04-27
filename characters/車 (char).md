@@ -45,3 +45,4 @@ tags:
 - Pronunciation altered to get a free syllable
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 麻三開]]
+- [[車庫]] "garage"

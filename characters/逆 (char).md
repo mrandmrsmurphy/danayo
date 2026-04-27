@@ -49,3 +49,4 @@ tags:
 - 辶 + 屰
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 陌三開]]
+- [[逆数]] "reciprocal"

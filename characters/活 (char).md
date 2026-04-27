@@ -44,3 +44,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 末]]
+- [[活動]] "move, engage in activity"

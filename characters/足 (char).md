@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 燭]]
+- [[足球]] "football"

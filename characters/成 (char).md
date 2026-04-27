@@ -44,3 +44,7 @@ tags:
 - <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 清開]]
+- [[成立]] "be born, gain approval, come into existence"
+- [[成績]] "achievements, accomplishments, grades, results"
+- [[成功]] "succeed, achieve success, prosper"
+- [[成熟]] "ripen, mature"

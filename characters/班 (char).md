@@ -45,3 +45,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 刪開]]
+- [[班長]] "squad leader"

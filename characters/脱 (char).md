@@ -48,3 +48,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 末]]
+- [[脱稿]] "complete a manuscript"

@@ -53,3 +53,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 灰]]
+- [[隊伍]] "rank, contingent, line of troops"

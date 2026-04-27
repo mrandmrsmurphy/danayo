@@ -46,3 +46,4 @@ tags:
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Grade 2](../lookup/Grade%202.md)
 [[Lookup/CC/initials/聲 邪]]
 [[Lookup/CC/finals/韻 鍾]]
+- [[松竹梅]] "Three Friends of Winter"

@@ -45,3 +45,4 @@ kwin: true
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 歌]]
+- [[何故]] "why"

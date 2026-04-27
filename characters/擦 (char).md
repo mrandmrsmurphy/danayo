@@ -47,3 +47,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 初]]
 [[Lookup/CC/finals/韻 黠開]]
+- [[擦拭]] "wipe"

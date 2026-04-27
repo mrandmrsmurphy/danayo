@@ -49,3 +49,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 唐開]]
+- [[行動]] "act, action"
+- [[行列]] "matrix, queue"

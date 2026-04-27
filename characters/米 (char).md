@@ -46,3 +46,4 @@ tags:
 - [[玄米]] - brown rice
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 齊開]]
+- [[米粟]] "grains, rice and millet"

@@ -48,3 +48,8 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 乏]]
+- [[法術]] "magic, magic arts"
+- [[法律]] "statute, law, act"
+- [[法輪]] "wheel of dharma"
+- [[法則]] "law, rule, code"
+- [[法螺]] "boast"

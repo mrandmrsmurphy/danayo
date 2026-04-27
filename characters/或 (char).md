@@ -44,3 +44,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 德合]]
+- [[或者]] "some people"

@@ -47,3 +47,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 脂B三開]]
+- [[美洲]] "Americas"
+- [[美徳]] "virtue"

@@ -45,3 +45,7 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 東一]]
+- [[通行証]] "permit, pass, prerequisite"
+- [[通行]] "pass through, traffic across"
+- [[通貨]] "currency, money"
+- [[通過]] "pass"

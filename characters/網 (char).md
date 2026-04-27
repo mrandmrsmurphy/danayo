@@ -53,3 +53,5 @@ tags:
 - 
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 陽合]]
+- [[網球場]] "tennis court"
+- [[網球]] "tennis, tennis ball, net ball"

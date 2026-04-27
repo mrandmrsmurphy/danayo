@@ -47,3 +47,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 侵B]]
+- [[飲食物]] "foods and drinks"
+- [[飲食]] "eat and drink"

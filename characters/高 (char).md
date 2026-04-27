@@ -40,3 +40,4 @@ tags:
 ```
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 豪]]
+- [[高考]] "higher exam"

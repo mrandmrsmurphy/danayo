@@ -43,3 +43,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 敷]]
 [[Lookup/CC/finals/韻 元合]]
+- [[翻訳]] "translate"
+- [[翻身]] "emancipate"

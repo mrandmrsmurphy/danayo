@@ -51,3 +51,5 @@ tags:
 - <ruby>[呉越同舟](/chengyu/呉越同舟.md)<rt>ㄛ·⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby>
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 月合]]
+- [[越境]] "transgress, infringe on the border of"
+- [[越盟]] "Viet Minh"

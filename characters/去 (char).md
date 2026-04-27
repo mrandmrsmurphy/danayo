@@ -44,3 +44,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 魚]]
+- [[去年]] "last year"

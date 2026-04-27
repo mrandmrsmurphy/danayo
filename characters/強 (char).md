@@ -52,3 +52,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 陽開]]
+- [[強化]] "strengthen"
+- [[強固]] "strong, solid"

@@ -43,3 +43,5 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 虞]]
+- [[雨傘]] "umbrella"
+- [[雨中]] "in the rain"

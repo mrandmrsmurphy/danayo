@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 屋三]]
+- [[牧民]] "herdsman"

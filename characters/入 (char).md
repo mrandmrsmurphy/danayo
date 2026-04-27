@@ -49,3 +49,6 @@ tags:
 - [[単刀直入]]
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 緝A三]]
+- [[入籍]] "enter"
+- [[入口]] "entrance"
+- [[入場]] "enter a venue"

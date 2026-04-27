@@ -49,3 +49,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 生]]
 [[Lookup/CC/finals/韻 江]]
+- [[双節棍]] "nunchucks"

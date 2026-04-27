@@ -50,3 +50,7 @@ tags:
 - <ruby>[神巫](/words/神巫.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> - shaman, wizard
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 眞A開]]
+- [[神話]] "myth, fairytale, mythology"
+- [[神経]] "nerve, Mystery Classic"
+- [[神秘]] "mystery, mystical secret"
+- [[神農]] "Shennong"

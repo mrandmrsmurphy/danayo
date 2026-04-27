@@ -46,3 +46,4 @@ tags:
 - [[戯]]
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 魚]]
+- [[虚偽]] "falsehood, lie"

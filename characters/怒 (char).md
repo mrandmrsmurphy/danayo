@@ -49,3 +49,4 @@ tags:
 - [[遷怒]]
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 模]]
+- [[怒気]] "anger"

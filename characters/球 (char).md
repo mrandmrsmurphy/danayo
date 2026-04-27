@@ -47,3 +47,5 @@ tags:
 - 
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 尤]]
+- [[球場]] "field, pitch, court"
+- [[球体]] "sphere"

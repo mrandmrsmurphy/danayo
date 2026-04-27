@@ -45,3 +45,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 刪合]]
+- [[関島]] "Gwam (island)"
+- [[関数]] "function"

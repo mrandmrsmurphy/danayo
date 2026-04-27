@@ -42,3 +42,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 宵A]]
+- [[焦点]] "focus, focal point"
+- [[焦思]] "worry, deliberate anxiously"

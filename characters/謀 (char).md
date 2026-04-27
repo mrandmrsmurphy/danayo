@@ -46,3 +46,4 @@ tags:
 - <ruby>[権謀](/words/権謀.md)<rt>ㄍ⼔ㄋㄇㄨㄛ</rt></ruby> - power plan
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 尤]]
+- [[謀求]] "pursue, seek, strive for, quest after"

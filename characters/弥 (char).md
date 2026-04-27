@@ -44,3 +44,5 @@ tags:
 - 形声: (OC \*mnel) = semantic [弓](Radical%20057) (“bow”) + phonetic [尔](characters/爾%20(char).md) (OC \*njelʔ)
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 支三開]]
+- [[弥漫]] "pervade, fill"
+- [[弥勒]] "Maitreya"

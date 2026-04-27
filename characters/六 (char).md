@@ -58,3 +58,4 @@ sort file.name
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 屋三]]
+- [[六腑]] "six hollow organs"

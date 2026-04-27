@@ -45,3 +45,6 @@ tags:
 - 形声 (OC \*luŋ): semantic [鬲](Radical%20142) (“cauldron”) + phonetic [蟲](characters/虫.md) (OC \*l'uŋ, \*l'uŋs).
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 東三]]
+- [[融合]] "fuse, blend, integrate"
+- [[融資]] "pay by loan, finance"
+- [[融化]] "disolve, thaw"

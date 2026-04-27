@@ -45,3 +45,4 @@ tags:
 [[木 (char)]] + [[喬]]
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 宵B]]
+- [[橋梁]] "beam, bridge"

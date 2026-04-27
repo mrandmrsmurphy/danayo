@@ -42,3 +42,6 @@ tags:
 - [[暗中]]
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 覃]]
+- [[暗殺]] "assassinate, murder"
+- [[暗示]] "suggest, hint"
+- [[暗暗]] "secretly, inwardly"

@@ -45,3 +45,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 宵A]]
+- [[消息]] "news, message, tidings"

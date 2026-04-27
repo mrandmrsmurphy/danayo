@@ -48,3 +48,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 之]]
+- [[期間]] "period, time, duration"

@@ -45,3 +45,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 莊]]
 [[Lookup/CC/finals/韻 陽開]]
+- [[装置]] "equipment, device"

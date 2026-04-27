@@ -53,3 +53,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 鹽A三]]
+- [[占領]] "capture,occupy,seize,hold"
+- [[占拠]] "occupy,hold"

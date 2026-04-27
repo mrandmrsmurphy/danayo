@@ -44,3 +44,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 凡]]
+- [[帆船]] "junk (ship)"

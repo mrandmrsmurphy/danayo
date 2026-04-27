@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 之]]
+- [[置換]] "permute, substitute, displace"

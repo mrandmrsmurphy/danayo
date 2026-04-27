@@ -46,3 +46,9 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 泰合]]
+- [[会社員]] "office worker"
+- [[会話]] "talk with,converse with"
+- [[会議]] "meeting,conference"
+- [[会堂]] "meeting hall,church"
+- [[会員]] "member"
+- [[会社]] "business,company"

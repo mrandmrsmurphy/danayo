@@ -46,3 +46,4 @@ tags:
 - 形声 (OC \*ɡaɡ): phonetic [[豦]] (OC \*kas, \*ɡa) + semantic [刀](Radical%20018) (“knife”).
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 陌三開]]
+- [[劇場]] "cinema,theater"

@@ -56,3 +56,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 齊開]]
+- [[礼拝]] "worship service, religious worship"
+- [[礼物]] "gift (formal), present (formal)"

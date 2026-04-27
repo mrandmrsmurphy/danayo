@@ -48,3 +48,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 東一]]
+- [[籠球]] "basketball"

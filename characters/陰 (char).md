@@ -53,3 +53,5 @@ tags:
 - <ruby>[陰性](/words/陰性.md)<rt>ㄧㄇㄙㄧㄫ</rt></ruby> - negativity, feminine gender
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 侵B]]
+- [[陰核]] "clitoris"
+- [[陰茎]] "penis"

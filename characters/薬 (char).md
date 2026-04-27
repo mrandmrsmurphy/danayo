@@ -46,3 +46,4 @@ kwin: true
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 藥開]]
+- [[薬丸]] "pill, tablet"

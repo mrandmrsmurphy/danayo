@@ -43,3 +43,4 @@ tags:
 - Promoted from Korean HS to MS list in 2000.
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 薛A三開]]
+- [[舌根]] "root of the tongue, taste faculty"

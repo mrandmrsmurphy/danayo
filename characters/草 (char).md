@@ -43,3 +43,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 豪]]
+- [[草木]] "greenery, plants, vegetation"
+- [[草原]] "grassland, prairie, steppe, savanna, meadow"

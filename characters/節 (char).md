@@ -51,3 +51,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 屑開]]
+- [[節減]] "economize, economy"

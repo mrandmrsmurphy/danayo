@@ -52,3 +52,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 咍]]
+- [[台風]] "[typhoon, hurricane, cyclone]"
+- [[台北]] "Taipei"
+- [[台球]] "pool,snookers"

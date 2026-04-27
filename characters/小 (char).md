@@ -47,3 +47,5 @@ tags:
 - [[小冊子]]
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 宵A]]
+- [[小数点]] "decimal point"
+- [[小腸]] "small interstine"

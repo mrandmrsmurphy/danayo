@@ -52,3 +52,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 庚二開]]
+- [[冷蔵庫]] "refrigerator,freezer"
+- [[冷麺]] "cold noodles"

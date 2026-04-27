@@ -44,3 +44,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 灰]]
+- [[配偶]] "spouse"
+- [[配列]] "put in order, arrange, lay out"
+- [[配置]] "deploy, allocate"

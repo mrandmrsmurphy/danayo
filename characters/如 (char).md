@@ -47,3 +47,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 魚]]
+- [[如何]] "how, how about"

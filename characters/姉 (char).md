@@ -44,3 +44,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 麻三開]]
+- [[姉姉]] "little big sister"
+- [[姉妹]] "sisters"

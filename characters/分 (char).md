@@ -59,3 +59,5 @@ tags:
 - <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> mood
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 文]]
+- [[分配]] "distribute,partition,share"
+- [[分之]] "fractions times"

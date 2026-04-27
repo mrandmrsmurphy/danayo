@@ -45,3 +45,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 青開]]
+- [[青色]] "blue-green, cyan, grue"
+- [[青年]] "youth, young man"
+- [[青蛙]] "frog"

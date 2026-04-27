@@ -46,3 +46,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 蕭]]
+- [[鳥籠]] "birdcage"

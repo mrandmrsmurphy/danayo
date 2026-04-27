@@ -49,3 +49,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 清開]]
+- [[整斉]] "arrange, straighten, rectify, order"

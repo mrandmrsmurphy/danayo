@@ -50,3 +50,12 @@ tags:
 - [[公平]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 東一]]
+- [[公卿]] "nobility"
+- [[公演]] "put on a public performance of"
+- [[公約]] "publicly promise, pact"
+- [[公開]] "open to the public,expose,share"
+- [[公噸]] "tonne"
+- [[公衆]] "public, communal"
+- [[公園]] "park"
+- [[公民]] "citizen,civics"
+- [[公司]] "company,firm"

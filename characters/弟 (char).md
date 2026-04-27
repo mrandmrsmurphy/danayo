@@ -45,3 +45,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 齊開]]
+- [[弟弟]] "litte bitty brother"

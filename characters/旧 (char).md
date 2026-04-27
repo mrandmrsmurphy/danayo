@@ -45,3 +45,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 尤]]
+- [[旧金山]] "San Francisco, "Old Gold Mine"

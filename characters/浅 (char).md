@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 仙A三開]]
+- [[浅薄]] "superficial, shallow"

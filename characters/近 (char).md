@@ -45,3 +45,5 @@ tags:
 - <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby> - early/near modern period
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 欣]]
+- [[近来]] "recently, lately"
+- [[近処]] "vicinity, neighborhood"

@@ -44,3 +44,6 @@ tags:
 - [[SKIP-1-1-4]]
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 質三]]
+- [[必須]] "be essential, be a must"
+- [[必要]] "necessary, essential"
+- [[必然]] "inevitable, certain"

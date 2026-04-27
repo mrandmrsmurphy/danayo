@@ -43,3 +43,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 清開]]
+- [[名刺]] "business card"
+- [[名称]] "appellation,name,title"

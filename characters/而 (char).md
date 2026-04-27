@@ -44,3 +44,5 @@ see also [[与 (char)]]
 In CC, this character mean "and", but could also mean 'your' or 'can', which meanings are not retained.
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 之]]
+- [[而且]] "moreover, furthermore"
+- [[而後]] "after that, only then"

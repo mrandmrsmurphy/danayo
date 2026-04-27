@@ -46,3 +46,5 @@ This is a rare example of a divergence from Shinjitai, as the character 円 is t
 - <ruby>[圓周](/words/圓周.md)<rt>⼔ㄋㄐㄨㄛ</rt></ruby> - circumference
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 仙A三合]]
+- [[圓周率]] "pi"
+- [[圓形]] "circular, wound"

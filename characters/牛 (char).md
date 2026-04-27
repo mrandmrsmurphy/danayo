@@ -45,3 +45,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 尤]]
+- [[牛乳]] "cow's milk, milk"

@@ -43,3 +43,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 庚二開]]
+- [[更改]] "- revise"
+- [[更新]] "renew, replace, refresh"

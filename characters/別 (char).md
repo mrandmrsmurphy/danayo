@@ -54,3 +54,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 薛B三開]]
+- [[別荘]] "villa, village"

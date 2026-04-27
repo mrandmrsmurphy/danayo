@@ -44,3 +44,6 @@ tags:
 - <ruby>[希有](/words/希有.md)<rt>ㄏㄧㄜ·⼜</rt></ruby> - rare
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 尤]]
+- [[有様]] "forebearingly, calmly (dated)"
+- [[有名]] "famous"
+- [[有机]] "organic"

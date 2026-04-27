@@ -47,3 +47,11 @@ kwin: true
 # Notes
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 術]]
+- [[出身]] "background, be descended from, origin"
+- [[出現]] "appear,emerge,be revealed"
+- [[出血]] "bleed,hemorrhage"
+- [[出版]] "publish,put out"
+- [[出演]] "appear"
+- [[出奔]] "elope, flee, run away"
+- [[出席]] "attend,present"
+- [[出勤]] "go to work"

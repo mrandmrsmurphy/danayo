@@ -46,3 +46,6 @@ tags:
 * Fifth most common Vietnamese surname
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 唐合]]
+- [[黄泉]] "underground spring, underworld"
+- [[黄沙]] "yellow sand, Asian dust"
+- [[黄昏]] "sunset"

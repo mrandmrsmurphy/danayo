@@ -44,3 +44,4 @@ kwin: true
 # Notes
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 緝A三]]
+- [[湿度]] "humidity"

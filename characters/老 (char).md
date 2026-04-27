@@ -52,3 +52,4 @@ tags:
 - <ruby>[白頭偕老](/chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄎㄚㄨ</rt></ruby>
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 豪]]
+- [[老師]] "sage, elder monk"

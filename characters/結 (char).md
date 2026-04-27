@@ -48,3 +48,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 屑開]]
+- [[結加夫坐]] "sit in lotus position"
+- [[結果]] "result, fruit"

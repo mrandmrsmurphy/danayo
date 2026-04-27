@@ -48,3 +48,5 @@ kwin: true
 # Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 先開]]
+- [[洗濯]] "launder, rinse, wash"
+- [[洗車]] "wash a car"

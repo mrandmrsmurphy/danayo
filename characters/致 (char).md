@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 脂B三開]]
+- [[致使]] "- that"

@@ -15,7 +15,7 @@ middle_chinese_final: ɣa
 stroke_count: 10
 radical: 馬
 skip_number: 3-6-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - horse
@@ -45,3 +45,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 麻二開]]
+- [[馬上]] "horseback"
+- [[馬脚]] "horse feet, cloven feet, sore thumb"
+- [[馬蹄]] "horse hoof"

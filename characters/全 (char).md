@@ -48,3 +48,4 @@ tags:
 - [栓 (char)](characters/栓%20(char).md)
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 仙A三合]]
+- [[全体]] "whole,entirity"

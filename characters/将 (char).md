@@ -50,3 +50,6 @@ tags:
 - used for 漿 - "thick fluid"
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 陽開]]
+- [[将軍]] "shogun, supreme commander"
+- [[将来]] "future"
+- [[将兵]] "army"

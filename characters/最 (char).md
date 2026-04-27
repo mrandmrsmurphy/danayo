@@ -44,3 +44,5 @@ tags:
 - [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄍ⼶ㄫ](syllables/ㄍ⼶ㄫ.md)
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 泰合]]
+- [[最近]] "lately, recently"
+- [[最善]] "best"

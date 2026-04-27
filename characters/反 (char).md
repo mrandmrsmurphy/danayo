@@ -48,3 +48,10 @@ tags:
 ##
 [[Lookup/CC/initials/聲 敷]]
 [[Lookup/CC/finals/韻 元合]]
+- [[反応]] "react,respond"
+- [[反映]] "reflect,indicate"
+- [[反切]] "fannie"
+- [[反対]] "be opposite,oppose"
+- [[反哺]] "take care of one's parents"
+- [[反響]] "echo"
+- [[反乱]] "rebel, revolt"

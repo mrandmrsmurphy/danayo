@@ -53,3 +53,4 @@ tags:
 - 
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 支B三開]]
+- [[知音]] "bosom friend"

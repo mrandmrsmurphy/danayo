@@ -47,3 +47,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 戈一合]]
+- [[過激]] "drastic, extreme, aggressive, radical"
+- [[過量]] "to overdose on"
+- [[過去]] "past"

@@ -42,3 +42,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 之]]
+- [[起床]] "get out of bed"
+- [[起伏]] "undulate, flucuate"
+- [[起死]] "bring the dead back to life (medically)"

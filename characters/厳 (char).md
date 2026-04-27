@@ -48,3 +48,4 @@ tags:
 - [[厳然]] not 儼然
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 凡]]
+- [[厳重]] "serious, rigorous"

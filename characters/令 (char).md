@@ -50,3 +50,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 青開]]
+- [[令色]] "flattering looks, sycophantic expression"

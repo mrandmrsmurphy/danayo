@@ -47,3 +47,5 @@ tags:
 - [[弱肉強食]]
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 職開]]
+- [[食堂]] "restaurant"
+- [[食費]] "food expenses"

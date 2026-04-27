@@ -55,3 +55,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 眞A開]]
+- [[振子]] "pendulum"
+- [[振幅]] "amplitude"

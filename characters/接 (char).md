@@ -43,3 +43,7 @@ tags:
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Korean HS](lookup/Korean/Korean%20HS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Grade 2](lookup/Grade%202.md)
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 葉三]]
+- [[接続助詞]] "conjunctive particle"
+- [[接触]] "contact, touch"
+- [[接受]] "accept, receive"
+- [[接吻]] "kiss"

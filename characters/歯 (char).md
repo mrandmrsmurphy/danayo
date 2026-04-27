@@ -44,3 +44,5 @@ tags:
 - [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄑㄧ](syllables/ㄑㄧ.md)
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 之]]
+- [[歯齦]] "gingiva, gums"
+- [[歯痛]] "toothache"

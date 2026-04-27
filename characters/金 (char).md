@@ -55,3 +55,8 @@ kwin: true
 - <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> - Friday
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 侵B]]
+- [[金髪碧眼]] "blonde hair blue eyes"
+- [[金柑]] "umquat"
+- [[金山]] "gold mine"
+- [[金融]] "finance"
+- [[金庫]] "treasury, safe"

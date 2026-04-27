@@ -50,3 +50,4 @@ tags:
 - by loan, "octopus" but needs [[章魚]]
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 陽開]]
+- [[章程]] "rules; regulations"

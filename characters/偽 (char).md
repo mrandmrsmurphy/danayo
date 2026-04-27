@@ -46,3 +46,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 支B三合]]
+- [[偽善]] "hypocritical, hypocrisy"

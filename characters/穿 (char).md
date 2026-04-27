@@ -44,3 +44,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 仙A三合]]
+- [[穿山甲]] "pangolin"
+- [[穿孔机]] "puncher, perforator, boring machine"

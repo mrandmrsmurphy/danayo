@@ -48,3 +48,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 虞]]
+- [[句点]] "full stop,period"
+- [[句法]] "syntax"

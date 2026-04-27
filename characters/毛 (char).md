@@ -41,3 +41,5 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 豪]]
+- [[毛皮]] "fur, pelt"
+- [[毛蝦]] "shrimp"

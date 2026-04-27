@@ -45,3 +45,4 @@ tags:
 - for the most part [[大槪]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 咍]]
+- [[概要]] "overview, summary"

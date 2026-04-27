@@ -47,3 +47,4 @@ While this character can appear alone, it is somewhat rare to do so.
 - **[[形状]]** Refers specifically to the **physical geometry or outline** of an object. If you are asking "What does it look like?" or describing a circle vs. a square, you are talking about _形状_.
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 青開]]
+- [[形容詞]] "adjective"

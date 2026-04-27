@@ -49,3 +49,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 陌二開]]
+- [[拍手]] "applaud, clap"

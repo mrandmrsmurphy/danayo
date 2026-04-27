@@ -48,3 +48,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 藥開]]
+- [[削除]] "erase,delete"

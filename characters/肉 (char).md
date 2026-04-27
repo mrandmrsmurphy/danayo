@@ -42,3 +42,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 屋三]]
+- [[肉汁]] "gravy, broth"
+- [[肉湯]] "broth"
+- [[肉桂]] "cinnamon"

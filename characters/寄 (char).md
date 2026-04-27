@@ -47,3 +47,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 支B三開]]
+- [[寄宿舎]] "boarding house, dormitory"
+- [[寄宿]] "lodge, board, rent"

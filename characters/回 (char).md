@@ -56,3 +56,8 @@ tags:
 - <ruby>[起死回生](/chengyu/起死回生.md)<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby>
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 灰]]
+- [[回教徒]] "Muslim"
+- [[回紇]] "Uighur"
+- [[回答]] "respond,reply"
+- [[回教]] "Islam"
+- [[回復]] "recover,restore,rejuvenate"

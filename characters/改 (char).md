@@ -45,3 +45,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 咍]]
+- [[改善]] "improvement, reform"
+- [[改変]] "alter, change"

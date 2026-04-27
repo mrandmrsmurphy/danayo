@@ -45,3 +45,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 先合]]
+- [[懸壅垂]] "uvula"
+- [[懸垂]] "hang over, overhand"

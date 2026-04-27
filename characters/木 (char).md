@@ -49,3 +49,5 @@ tags:
 - [[朽木粪墙]]
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 屋一]]
+- [[木偶]] "pupper, marionette"
+- [[木版]] "printing block"

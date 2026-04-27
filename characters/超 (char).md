@@ -45,3 +45,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 徹]]
 [[Lookup/CC/finals/韻 宵B]]
+- [[超越]] "surpass"

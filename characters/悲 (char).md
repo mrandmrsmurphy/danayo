@@ -44,3 +44,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 脂B三開]]
+- [[悲傷]] "sad, sorrowful, grieving"
+- [[悲痛]] "grieved, sorrowful"

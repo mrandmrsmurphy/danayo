@@ -46,3 +46,5 @@ tags:
 1326
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 脂A三開]]
+- [[比率]] "ratio, rate, frequency"
+- [[比例]] "ratio, proportion"

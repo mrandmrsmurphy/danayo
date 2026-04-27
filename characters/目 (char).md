@@ -43,3 +43,7 @@ tags:
 - <ruby>[題目](/words/題目.md)<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby> - topic
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 屋三]]
+- [[目前]] "present, right before one's eyes"
+- [[目標]] "target, aim, goal"
+- [[目的]] "target, objective"
+- [[目宿]] "alfalfa"

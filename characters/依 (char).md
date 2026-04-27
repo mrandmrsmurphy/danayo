@@ -44,3 +44,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 微開]]
+- [[依然]] "as ... as ever,still"
+- [[依拠]] "depend,be the basis for"

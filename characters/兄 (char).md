@@ -49,3 +49,5 @@ tags:
 - [[況]]
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 庚三合]]
+- [[兄弟姉妹]] "siblings,brothers and sisters"
+- [[兄弟]] "brothers, brotherhood"

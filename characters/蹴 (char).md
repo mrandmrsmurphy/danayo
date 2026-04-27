@@ -43,3 +43,4 @@ tags:
 - <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby> - soccer
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 屋三]]
+- [[蹴鞠]] "cuju, kemari"

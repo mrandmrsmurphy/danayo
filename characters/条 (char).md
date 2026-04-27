@@ -46,3 +46,5 @@ tags:
 
 ## Words
 - <ruby>[信条](/words/信条.md)<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "creed"
+- [[条件]] "condition, prerequisite"
+- [[条約]] "pact, treaty"

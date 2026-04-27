@@ -42,3 +42,6 @@ tags:
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 談]]
+- [[藍木]] "indigo, anil"
+- [[藍色]] "blue, indigo"
+- [[藍領]] "blue-collar"

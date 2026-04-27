@@ -23,14 +23,14 @@ stroke_count: 12
 radical: 辵
 skip_number: 3-3-9
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - attain
   - acheive
 羅馬字: tad
 諺文: 탇
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2253
 mc_id: 746

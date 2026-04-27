@@ -42,3 +42,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 皆合]]
+- [[懐抱]] "cherish, embrase"
+- [[懐孕]] "be pregnant"

@@ -46,3 +46,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 青開]]
+- [[経費]] "- expenditures"
+- [[経緯]] "warp and woof, latitude and longitude"
+- [[経過]] "pass through, undergo"

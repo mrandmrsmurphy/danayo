@@ -43,3 +43,4 @@ tags:
 - [[夏至]]
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 脂A三開]]
+- [[至善]] "summum bonum"

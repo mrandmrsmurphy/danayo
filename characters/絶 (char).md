@@ -48,3 +48,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 薛A三合]]
+- [[絶後]] "never happen again, not have children"
+- [[絶対]] "absolute, total, unconditional"

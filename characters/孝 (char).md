@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 肴]]
+- [[孝弟]] "filial piety and fraternal duty"

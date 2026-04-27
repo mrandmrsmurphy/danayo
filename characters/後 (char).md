@@ -43,3 +43,6 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 侯]]
+- [[後置詞]] "postposition"
+- [[後置]] "place after"
+- [[後悔]] "regret"

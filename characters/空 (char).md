@@ -51,3 +51,6 @@ tags:
 - [[空前絶後]]
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 東一]]
+- [[空前]] "unprecedented, as never before"
+- [[空手]] "be empty handed, be unarmed"
+- [[空軍]] "air force"

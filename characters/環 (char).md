@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 刪合]]
+- [[環境]] "environment, surroundings"

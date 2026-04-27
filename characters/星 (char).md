@@ -57,3 +57,5 @@ tags:
 - <ruby>[流星](/words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby> - shooting star
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 青開]]
+- [[星条旗]] "stars and stripes"
+- [[星霜]] "time and years"

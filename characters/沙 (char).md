@@ -51,3 +51,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 生]]
 [[Lookup/CC/finals/韻 麻二開]]
+- [[沙羅双樹]] "sal tree, shala, sakhua"
+- [[沙悟浄]] "Sha Wujing"

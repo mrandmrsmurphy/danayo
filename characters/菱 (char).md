@@ -43,3 +43,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 蒸]]
+- [[菱形]] "rhombus, diamond shape"

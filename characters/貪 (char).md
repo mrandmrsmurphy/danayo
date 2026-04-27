@@ -43,3 +43,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 覃]]
+- [[貪官]] "corrupt official, greedy mandarin"
+- [[貪婪]] "greedy, avacious"

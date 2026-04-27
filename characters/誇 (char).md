@@ -46,3 +46,4 @@ tags:
 - [[Jōyō - Kōtō|Japanese HS]], [[Korean HS]], HSK 4, [[Grade 6]]
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 麻二合]]
+- [[誇示]] "show off, flaunt"

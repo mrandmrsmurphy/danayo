@@ -48,3 +48,4 @@ tags:
 - 逾
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 虞]]
+- [[兪允]] "consent to, permit (of the emperor)"

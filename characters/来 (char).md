@@ -43,3 +43,5 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 咍]]
+- [[来臨]] "come near, arrive"
+- [[来年]] "next year"

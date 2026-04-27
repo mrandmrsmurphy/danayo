@@ -46,3 +46,9 @@ tags:
 - <ruby>[暴飲暴食](/chengyu/暴飲暴食.md)<rt>ㄅㄛㄎ·ㄚㄇㄅㄛㄎㄙㄧㄎ</rt></ruby>
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 屋一]]
+- [[暴風]] "[windstorm, storm, gale]"
+- [[暴政]] "tyranny, despotism"
+- [[暴食]] "gluttonize, overeat, binge"
+- [[暴飲]] "binge drink"
+- [[暴徒]] "mob, riot"
+- [[暴怒]] "rage"

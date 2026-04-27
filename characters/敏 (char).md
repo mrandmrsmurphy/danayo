@@ -47,3 +47,4 @@ tags:
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 眞B開]]
+- [[敏感]] "sensitive"
