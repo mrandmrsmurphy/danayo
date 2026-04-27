@@ -7,6 +7,8 @@ tags: [lookup]
 ---
 > [[Stroke]]
 
+## Characters
+### In Use
 - 1-1-2: [[小 (char)|小]], [[川 (char)|川]]
 - 2-1-2: [[三 (char)|三]]
 - 2-2-1: [乞](characters/乞%20(char).md)
@@ -16,6 +18,7 @@ tags: [lookup]
 - 4-3-2: [[上 (char)|上]], [[也]], [[亡]], [[土 (char)|土]], [[士]], 
 - 4-3-3: [[千]], [[屮]], [[巾]], [[才]]
 - 4-3-4: [[丈 (char)|丈]], [[与 (char)|与]], [[丸]], [[之 (char)|之]], [[大 (char)|大]], [[女 (char)|女]]
+### Aliases
 
 ## Data check
 ```dataview

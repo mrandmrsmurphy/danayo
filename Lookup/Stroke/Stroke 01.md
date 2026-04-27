@@ -7,10 +7,12 @@ tags: [lookup]
 ---
 > [Stroke](lookup/Stroke/Stroke.md)
 
-- <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one
-- <ruby>[[乙 (char)|乙]]<rt>ㄛㄊ</rt></ruby> - second
+## Characters
+### In Use
+1. <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one
+2. <ruby>[[乙 (char)|乙]]<rt>ㄛㄊ</rt></ruby> - second
 
-These are all alias of other things:
+### Aliases
 - 丨
 - 丶
 - 丿
