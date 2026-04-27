@@ -3,6 +3,8 @@ size: 11
 stroke_count: 13
 date-last-perfect:
 skip_number: 1-6-7
+tags: [lookup]
+
 ---
 > SKIP : 1 : [6](lookup/SKIP/SKIP-1/SKIP-1-6.md)
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)

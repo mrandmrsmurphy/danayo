@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 These have been checked for redirects.
 ### 마
 [瑪](characters/馬%20(char).md) [痲](characters/麻.md) [碼](characters/馬%20(char).md) [媽](characters/媽.md) [魔](characters/魔.md)

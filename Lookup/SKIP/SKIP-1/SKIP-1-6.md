@@ -1,5 +1,7 @@
 ---
 date-last-perfect: 
+tags: [lookup]
+
 ---
 > [[SKIP]] : 1
 > Radicals : 糸 米 舟 耳 由虫

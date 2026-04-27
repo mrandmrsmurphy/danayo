@@ -3,6 +3,8 @@ size: 2
 stroke_count: 8
 date-last-perfect: 2026-03-07
 skip_number: 2-1-7
+tags: [lookup]
+
 ---
 > SKIP : 2 : [1](lookup/SKIP/SKIP-2/SKIP-2-1.md)
 > [[Stroke 08]]

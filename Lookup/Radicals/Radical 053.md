@@ -1,5 +1,7 @@
 ---
 size: 24
+tags: [lookup]
+
 ---
 
 

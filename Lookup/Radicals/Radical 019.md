@@ -2,6 +2,8 @@
 date-last-perfect:
 size: 28
 radical: 力
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 > **力** is the "power" radical

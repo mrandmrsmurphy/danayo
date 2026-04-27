@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 > Everything that should be a redirect, is.  All have the correct Hanmun education level.  It remains to check these all for the correct native Korean.
 ## ㄱ
 #### 가

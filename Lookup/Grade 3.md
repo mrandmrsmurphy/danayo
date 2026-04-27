@@ -1,5 +1,7 @@
 ---
 size: 289
+tags: [lookup]
+
 ---
 尺 (char)
 

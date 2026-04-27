@@ -2,6 +2,8 @@
 date-last-perfect: 2026-02-23
 size: 3
 radical: 玄
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

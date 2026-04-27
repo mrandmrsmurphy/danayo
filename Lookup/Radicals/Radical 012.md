@@ -1,6 +1,8 @@
 ---
 size: 10
 radical: 八
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

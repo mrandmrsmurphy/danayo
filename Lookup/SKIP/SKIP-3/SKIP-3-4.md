@@ -1,6 +1,8 @@
 ---
 aliases:
 date-last-perfect: 2026-02-02
+tags: [lookup]
+
 ---
 > [SKIP](../SKIP.md) : 3
 

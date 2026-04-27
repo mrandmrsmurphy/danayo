@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 ## List
 [皿 (char)](../../characters/皿%20(char).md)
 [阮](../../characters/阮.md)

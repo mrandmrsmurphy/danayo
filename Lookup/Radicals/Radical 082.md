@@ -2,6 +2,8 @@
 size: 2
 date-last-perfect: 2026-03-05
 radical: 毛
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

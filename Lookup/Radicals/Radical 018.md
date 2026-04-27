@@ -1,6 +1,8 @@
 ---
 size: 39
 radical: 刀
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

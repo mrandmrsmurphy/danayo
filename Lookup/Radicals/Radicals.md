@@ -1,5 +1,7 @@
 ---
 date-last-perfect: 
+tags: [lookup]
+
 ---
 
 The **Radical**/<ruby>部首<rt>ㄅㄛㄨㄙ⼜</rt></ruby> is an essential element of the character dictionary.  The list of radicals is a rough equivalent of an "alphabet". Every character is classified under a radical, the radicals being sorted by the number of strokes/<ruby>筆画<rt>ㄆㄨㄊㄏ⺢ㄎ</rt></ruby> used in writing them.  The number of strokes varies between 1 and 17.  Characters belonging to a particular radical are in turn listed on the basis of the number of additional strokes.  Note that the number of strokes is not always clear to the untrained eye.

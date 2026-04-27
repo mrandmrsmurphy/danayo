@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 #neologism 
 
 ## Grammar

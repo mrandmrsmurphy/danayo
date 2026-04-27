@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-27
 size: 69
 radical: 肉
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The meat radical, appearing as 月 when used as a character component.

@@ -2,6 +2,8 @@
 stroke_count: 11
 date-last-perfect:
 size: 328
+tags: [lookup]
+
 ---
 > [[Stroke]]
 

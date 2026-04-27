@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 1. [[赶]]
 2.  [鸭](../../characters/鴨%20(char).md)
 3.  [构](../../characters/構.md)

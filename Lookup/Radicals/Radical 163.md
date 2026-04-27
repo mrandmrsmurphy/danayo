@@ -2,6 +2,8 @@
 size: 24
 date-last-perfect:
 radical: 邑
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

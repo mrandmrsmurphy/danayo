@@ -1,5 +1,7 @@
 ---
 size: 470
+tags: [lookup]
+
 ---
 ## Characters
 [[濁]], [[硝]]

@@ -1,6 +1,8 @@
 ---
 size: 3
 radical: 青
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

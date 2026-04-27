@@ -2,6 +2,8 @@
 size: 1
 date-last-perfect: 2026-02-22
 radical: 麻
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The "hemp" radical.

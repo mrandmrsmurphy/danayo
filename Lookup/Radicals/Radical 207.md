@@ -2,6 +2,8 @@
 size: 1
 date-last-perfect: 2026-03-03
 radical: 鼓
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > **Radical 207** is "drum".

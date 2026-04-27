@@ -2,6 +2,8 @@
 size: 3
 date-last-perfect: 2026-04-09
 radical: 臣
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

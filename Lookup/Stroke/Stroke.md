@@ -1,5 +1,7 @@
 ---
 aliases:
+tags: [lookup]
+
 ---
 ## 永字八法
 ![forever](images/forever.svg)

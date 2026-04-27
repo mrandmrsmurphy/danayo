@@ -2,6 +2,8 @@
 size: 2
 date-last-perfect: 2026-03-14
 radical: 聿
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > 聿 was a pictogram of a hand holding a brush

@@ -1,5 +1,8 @@
 ---
 language: English
+tags:
+  - lookup
+  - best-practice
 ---
 
 # Best Practices: SKIP Pages

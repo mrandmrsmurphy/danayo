@@ -1,5 +1,7 @@
 ---
 size: 308
+tags: [lookup]
+
 ---
 # 象形 — Pictographs
 ## Explained

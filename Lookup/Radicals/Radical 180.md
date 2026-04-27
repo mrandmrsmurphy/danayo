@@ -2,6 +2,8 @@
 date-last-perfect: 2026-02-25
 radical: 音
 size: 1
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

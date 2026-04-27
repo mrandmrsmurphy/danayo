@@ -2,6 +2,8 @@
 size: 3
 date-last-perfect: 2026-03-14
 radical: 父
+tags: [lookup]
+
 ---
 > [[Radicals]]
 ## Characters

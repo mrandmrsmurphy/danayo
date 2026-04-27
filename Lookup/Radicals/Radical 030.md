@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 121
 radical: 口
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The mouth radical. Appears in characters related to speech, sound, eating, and orifices.

@@ -1,5 +1,7 @@
 ---
 size: 56
+tags: [lookup]
+
 ---
 # 指事 — Simple Indicatives
 ## Explained

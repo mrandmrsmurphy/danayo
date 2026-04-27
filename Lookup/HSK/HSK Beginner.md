@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 ## 1
 1. [愛 (char)](../../characters/愛%20(char).md)
 2. [[八 (char)]]

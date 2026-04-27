@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 This is the list of <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> required in Japanese grammar school.  For the other 1000+ characters, see [[Jōyō - Kōtō]].
 
 The following prefecture names were added in 2017:

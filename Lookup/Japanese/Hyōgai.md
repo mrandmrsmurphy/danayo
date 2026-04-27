@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 ## List
 1. [幟](characters/幟%20(char).md)
 2. [嘴](characters/嘴.md) 

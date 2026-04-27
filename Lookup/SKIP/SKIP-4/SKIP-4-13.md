@@ -1,5 +1,7 @@
 ---
 stroke_count: 13
+tags: [lookup]
+
 ---
 > [[SKIP]] : 4 
 > [[Stroke 13]]

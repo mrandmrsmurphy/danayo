@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 170
 radical: 水
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The water radical. Appears as 氵on the left side of a character (SKIP-1-3-x).

@@ -2,6 +2,8 @@
 size: 7
 radical: 乙
 date-last-perfect: 2026-04-02
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

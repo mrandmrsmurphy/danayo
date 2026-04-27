@@ -2,6 +2,8 @@
 size: 18
 date-last-perfect:
 radical: 米
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

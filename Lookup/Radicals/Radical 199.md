@@ -2,6 +2,8 @@
 size: 2
 radical: 麦
 date-last-perfect: 2026-03-05
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

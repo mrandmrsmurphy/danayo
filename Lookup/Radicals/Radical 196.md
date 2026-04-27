@@ -1,6 +1,8 @@
 ---
 size: 22
 radical: 鳥
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 > The bird radical

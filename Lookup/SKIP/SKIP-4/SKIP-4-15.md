@@ -1,6 +1,8 @@
 ---
 stroke_count: 15
 date-last-perfect: 2026-03-06
+tags: [lookup]
+
 ---
 > SKIP : 4
 > [Stroke 15](lookup/Stroke/Stroke%2015.md)

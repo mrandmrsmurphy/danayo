@@ -1,6 +1,8 @@
 ---
 size: 2
 radical: 臼
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

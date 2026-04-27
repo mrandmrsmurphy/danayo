@@ -1,6 +1,8 @@
 ---
 date-last-perfect:
 size: 8
+tags: [lookup]
+
 ---
 
 ## Dataview

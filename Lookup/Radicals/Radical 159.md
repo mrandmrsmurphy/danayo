@@ -1,6 +1,8 @@
 ---
 size: 21
 radical: 車
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

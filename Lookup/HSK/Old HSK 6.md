@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 Eventually, this will be only the characters not covered by previous HSK levels:
 
 1. [赴 (char)](../../characters/赴%20(char).md)

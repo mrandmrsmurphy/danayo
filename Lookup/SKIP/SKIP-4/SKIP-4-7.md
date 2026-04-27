@@ -1,5 +1,7 @@
 ---
 stroke_count: 7
+tags: [lookup]
+
 ---
 > [[SKIP]] : 4
 > [[Stroke 07]]

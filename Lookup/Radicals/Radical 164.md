@@ -2,6 +2,8 @@
 size: 21
 date-last-perfect:
 radical: 酉
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

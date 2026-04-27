@@ -2,6 +2,8 @@
 size: 2
 date-last-perfect: 2026-03-03
 radical: 韋
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The **tanned leather** radical

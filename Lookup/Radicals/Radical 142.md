@@ -1,5 +1,7 @@
 ---
 size: 41
+tags: [lookup]
+
 ---
 ```dataview
 LIST

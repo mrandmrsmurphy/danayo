@@ -1,5 +1,7 @@
 ---
 size: 412
+tags: [lookup]
+
 ---
 # 会意— Compound Ideographs
 ## Explained

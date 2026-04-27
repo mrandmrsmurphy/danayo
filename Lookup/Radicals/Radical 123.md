@@ -1,6 +1,8 @@
 ---
 size: 9
 radical: 羊
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

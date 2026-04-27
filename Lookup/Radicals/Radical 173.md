@@ -2,6 +2,8 @@
 size: 19
 radical: 雨
 date-last-perfect: 2026-03-27
+tags: [lookup]
+
 ---
 
 > [[Radicals]] - Rain "雨"

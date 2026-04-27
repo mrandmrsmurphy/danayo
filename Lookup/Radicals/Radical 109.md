@@ -1,6 +1,8 @@
 ---
 size: 26
 radical: 目
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

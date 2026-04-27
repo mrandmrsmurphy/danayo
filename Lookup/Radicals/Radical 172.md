@@ -1,6 +1,8 @@
 ---
 size: 16
 radical: 隹
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

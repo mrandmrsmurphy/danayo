@@ -1,5 +1,7 @@
 ---
 size: 5
+tags: [lookup]
+
 ---
 
 ## Dataview

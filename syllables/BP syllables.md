@@ -1,5 +1,8 @@
 ---
 language: English
+tags:
+  - syllable
+  - best-practice
 ---
 
 # Best Practices: Syllable Pages

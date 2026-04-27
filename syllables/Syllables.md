@@ -1,6 +1,8 @@
 ---
 aliases:
   - syllable
+tags:
+  - syllable
 ---
 Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
 

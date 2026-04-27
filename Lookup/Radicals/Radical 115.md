@@ -2,6 +2,8 @@
 size: 34
 date-last-perfect:
 radical: 禾
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

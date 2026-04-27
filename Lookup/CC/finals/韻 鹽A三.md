@@ -1,6 +1,8 @@
 ---
 size: 22
 middle_chinese_final: iᴇm
+tags: [lookup]
+
 ---
 
 ## Datacheck

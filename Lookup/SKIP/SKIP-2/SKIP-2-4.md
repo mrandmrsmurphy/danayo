@@ -1,5 +1,7 @@
 ---
 date-last-perfect:
+tags: [lookup]
+
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 2
 

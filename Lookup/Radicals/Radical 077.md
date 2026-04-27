@@ -2,6 +2,8 @@
 size: 9
 date-last-perfect:
 radical: 止
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

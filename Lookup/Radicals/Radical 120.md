@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 82
 radical: 糸
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The silk radical. Appears in characters related to thread, fabric, and binding.

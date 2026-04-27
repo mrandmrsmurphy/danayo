@@ -1,6 +1,8 @@
 ---
 radical: 巾
 size: 24
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

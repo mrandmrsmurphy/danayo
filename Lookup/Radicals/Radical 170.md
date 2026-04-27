@@ -1,6 +1,8 @@
 ---
 radical: 阜
 size: 35
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

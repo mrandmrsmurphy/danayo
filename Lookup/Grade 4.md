@@ -1,5 +1,7 @@
 ---
 size: 327
+tags: [lookup]
+
 ---
 ## Characters
 ```dataview

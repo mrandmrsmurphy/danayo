@@ -2,6 +2,8 @@
 size: 2
 date-last-perfect: 2026-04-17
 radical: 身
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 > The **body** radical

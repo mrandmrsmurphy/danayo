@@ -1,5 +1,7 @@
 ---
 size: 42
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

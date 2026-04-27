@@ -2,6 +2,8 @@
 size: 21
 radical: 馬
 date-last-perfect:
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > 馬 is the horse radical

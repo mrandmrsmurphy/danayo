@@ -1,5 +1,7 @@
 ---
 aliases:
+tags: [lookup]
+
 ---
 > [[SKIP]] : 2
 These are characters with a clear top-bottom split, and 11 strokes in the top section

@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 Redirected checked for
 ### 파 
 [巴 (char)](characters/巴%20(char).md) [芭](characters/芭.md) [琶](characters/琶.md) [坡](characters/坂.md) [杷](characters/把.md) [婆](characters/婆.md) [擺](characters/擺.md) [爬](characters/爬.md) [跛](characters/坂.md)

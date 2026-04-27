@@ -1,5 +1,7 @@
 ---
 size: 250
+tags: [lookup]
+
 ---
 1. <ruby>[一](characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one, unity, whole
 2. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven, 7

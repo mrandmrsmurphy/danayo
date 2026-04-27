@@ -2,6 +2,8 @@
 size: 28
 date-last-perfect:
 radical: 衣
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

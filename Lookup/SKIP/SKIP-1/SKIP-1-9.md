@@ -1,5 +1,7 @@
 ---
 date-last-perfect:
+tags: [lookup]
+
 ---
 > [[SKIP]] : 1 
 

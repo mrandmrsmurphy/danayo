@@ -2,6 +2,8 @@
 size: 20
 date-last-perfect:
 radical: 田
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

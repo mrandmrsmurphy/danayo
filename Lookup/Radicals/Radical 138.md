@@ -2,6 +2,8 @@
 size: 3
 date-last-perfect: 2026-04-08
 radical: 艮
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

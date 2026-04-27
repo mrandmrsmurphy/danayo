@@ -2,6 +2,8 @@
 size: 1
 date-last-perfect: 2026-02-28
 radical: 牙
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

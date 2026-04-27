@@ -2,6 +2,8 @@
 size: 13
 skip_number: 4-5-1
 stroke_count: 5
+tags: [lookup]
+
 ---
 > SKIP : 4 : [5](lookup/SKIP/SKIP-4/SKIP-4-5.md) | [SKIP-4-0-1](lookup/SKIP/SKIP-4/SKIP-4-0-1.md)
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)

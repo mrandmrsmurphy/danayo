@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 136
 radical: 手
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 > The hand radical. Appears as 扌on the left side of a character (SKIP-1-3-x).

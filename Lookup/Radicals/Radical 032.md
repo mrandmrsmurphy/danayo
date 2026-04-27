@@ -2,6 +2,8 @@
 size: 65
 date-last-perfect:
 radical: 土
+tags: [lookup]
+
 ---
 >  [Radicals](Radicals.md)
 

@@ -1,6 +1,8 @@
 ---
 stroke_count: 9
 date-last-perfect:
+tags: [lookup]
+
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)

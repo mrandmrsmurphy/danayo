@@ -1,6 +1,8 @@
 ---
 stroke_count: 5
 date-last-perfect:
+tags: [lookup]
+
 ---
 > [[SKIP]] : 4
 > [[Stroke 05]]

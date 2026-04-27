@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 159
 radical: 木
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The tree radical. Appears as 木on the left, right, or bottom of a character.

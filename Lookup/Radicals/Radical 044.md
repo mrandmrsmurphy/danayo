@@ -1,6 +1,8 @@
 ---
 size: 22
 radical: 尸
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

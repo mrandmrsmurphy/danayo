@@ -1,6 +1,8 @@
 ---
 size: 9
 radical: 冖
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

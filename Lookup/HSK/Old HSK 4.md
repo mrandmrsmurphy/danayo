@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 [行 (char)](../../characters/行%20(char).md): 31
 分: 30
 [法 (char)](../../characters/法%20(char).md): 30

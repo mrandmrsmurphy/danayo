@@ -1,5 +1,7 @@
 ---
 size: 44
+tags: [lookup]
+
 ---
 
 **貝** is the 154th of the [[Radicals]].  It is a picture of shell, but these were money in ancient times.

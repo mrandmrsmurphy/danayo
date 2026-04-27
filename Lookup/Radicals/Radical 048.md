@@ -1,6 +1,8 @@
 ---
 size: 6
 radical: 工
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

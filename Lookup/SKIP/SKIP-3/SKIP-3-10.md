@@ -1,5 +1,7 @@
 ---
 date-last-perfect: 2026-03-06
+tags: [lookup]
+
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 
 These are character with a surrounding element of ten-strokes, typically either the demon-radical or the door-radical.

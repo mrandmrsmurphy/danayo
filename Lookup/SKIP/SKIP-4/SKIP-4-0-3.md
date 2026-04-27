@@ -1,5 +1,7 @@
 ---
 date-last-perfect: 2026-02-13
+tags: [lookup]
+
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > These are all the "misc." characters with a vertical line visibly prominent.  The second number represents the number of stroke in total.

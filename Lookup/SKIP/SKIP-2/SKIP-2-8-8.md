@@ -3,6 +3,8 @@ stroke_count: 16
 date-last-perfect: 2026-03-07
 size: 2
 skip_number: 2-8-8
+tags: [lookup]
+
 ---
 > SKIP : 2 : [8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
 > [Stroke 16](lookup/Stroke/Stroke%2016.md)

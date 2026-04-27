@@ -2,6 +2,8 @@
 size: 4
 date-last-perfect: 2026-04-01
 radical: 爪
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

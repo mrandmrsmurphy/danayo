@@ -1,5 +1,7 @@
 ---
 size:
+tags: [lookup]
+
 ---
 > [[SKIP]] : 2
 

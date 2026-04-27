@@ -1,6 +1,8 @@
 ---
 size: 20
 radical: 門
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

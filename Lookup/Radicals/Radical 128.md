@@ -1,6 +1,8 @@
 ---
 size: 14
 radical: 耳
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

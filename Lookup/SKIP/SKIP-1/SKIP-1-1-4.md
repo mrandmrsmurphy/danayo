@@ -3,6 +3,8 @@ date-last-perfect: 2026-02-01
 stroke_count: 5
 size: 2
 skip_number: 1-1-4
+tags: [lookup]
+
 ---
 > SKIP : 1 : [1](/lookup/SKIP/SKIP-1/SKIP-1-1)
 > All of these are [Stroke 05](lookup/Stroke/Stroke%2005.md)

@@ -2,6 +2,8 @@
 size: 16
 date-last-perfect:
 radical: 戈
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

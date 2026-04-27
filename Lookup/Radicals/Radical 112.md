@@ -2,6 +2,8 @@
 size: 34
 date-last-perfect:
 radical: 石
+tags: [lookup]
+
 ---
 > [[Radicals]]
 ## Strokes

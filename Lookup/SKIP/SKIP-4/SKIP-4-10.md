@@ -1,5 +1,7 @@
 ---
 stroke_count: 10
+tags: [lookup]
+
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4 
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)

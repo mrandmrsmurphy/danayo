@@ -2,6 +2,8 @@
 size: 3
 date-last-perfect:
 radical: 赤
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

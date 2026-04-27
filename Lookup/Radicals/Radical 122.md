@@ -2,6 +2,8 @@
 size: 9
 date-last-perfect: 2026-04-04
 radical: 网
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 > 罒 or 罓

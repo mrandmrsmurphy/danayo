@@ -1,6 +1,8 @@
 ---
 date-last-perfect:
 size: 16
+tags: [lookup]
+
 ---
 
 

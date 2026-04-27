@@ -2,6 +2,8 @@
 size: 4
 radical: 黒
 date-last-perfect: 2026-03-04
+tags: [lookup]
+
 ---
 > [Radicals](lookup/Radicals/Radicals.md)
 > The "black" radical

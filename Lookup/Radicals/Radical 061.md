@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 101
 radical: 心
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The heart radical. Appears as 忄 on the left side of a character, and as ⺗ at the bottom.

@@ -1,6 +1,8 @@
 ---
 size: 6
 radical: 夕
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

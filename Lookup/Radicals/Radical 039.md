@@ -1,6 +1,8 @@
 ---
 size: 13
 radical: 子
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

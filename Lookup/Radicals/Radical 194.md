@@ -2,6 +2,8 @@
 size: 6
 radical: 鬼
 date-last-perfect: 2026-04-17
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 > The *demon* radical

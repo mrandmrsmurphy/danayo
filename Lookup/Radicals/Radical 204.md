@@ -4,6 +4,8 @@ radical: 黹
 date-last-perfect: 2026-03-11
 aliases:
   - 黹
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 [地 (char)](../../characters/地%20(char).md): 26
 [自](../../characters/自.md): 25
 [大 (char)](../../characters/大%20(char).md)): 24

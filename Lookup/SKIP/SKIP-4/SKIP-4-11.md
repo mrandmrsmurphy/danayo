@@ -1,6 +1,8 @@
 ---
 stroke_count: 11
 date-last-perfect: 2026-03-06
+tags: [lookup]
+
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [[Stroke 11]]

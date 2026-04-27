@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 These have been checked for redirects
 ## ㅏ
 

@@ -1,5 +1,7 @@
 ---
 size:
+tags: [lookup]
+
 ---
 
 > [SKIP](../SKIP.md) : 1

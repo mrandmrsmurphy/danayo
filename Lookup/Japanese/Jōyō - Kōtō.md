@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 
 1027. [亜](characters/亜.md) : 	亞	sub-, Asia
 1028. [哀](characters/哀.md) : pathetic

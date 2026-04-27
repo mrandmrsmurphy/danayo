@@ -2,6 +2,8 @@
 date-last-perfect: 2026-02-23
 size: 1
 radical: 龜
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The **turtle** radical

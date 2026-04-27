@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 These have all bee checked to see which are redirects 
 
 ### 차 

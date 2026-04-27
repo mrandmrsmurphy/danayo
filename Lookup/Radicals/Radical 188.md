@@ -1,6 +1,8 @@
 ---
 size: 3
 radical: 骨
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

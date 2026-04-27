@@ -2,6 +2,8 @@
 date-last-perfect: 2026-02-23
 size: 4
 radical: 龍
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > #212 is 龍, 龙, or 竜 meaning "dragon"

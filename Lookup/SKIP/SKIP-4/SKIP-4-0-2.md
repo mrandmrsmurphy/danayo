@@ -1,5 +1,7 @@
 ---
 date-last-perfect: 2026-02-06
+tags: [lookup]
+
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 

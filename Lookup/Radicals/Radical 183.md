@@ -2,6 +2,8 @@
 radical: 飛
 size: 1
 date-last-perfect: 2026-02-25
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 > Abbreviated 飞

@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 93
 radical: 言
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The speech radical. Appears in characters related to speaking, writing, and language.

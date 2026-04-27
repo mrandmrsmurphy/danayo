@@ -2,6 +2,8 @@
 size: 2
 radical: 黍
 date-last-perfect: 2026-03-11
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

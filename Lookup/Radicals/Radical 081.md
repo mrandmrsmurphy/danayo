@@ -2,6 +2,8 @@
 size: 2
 date-last-perfect: 2026-03-04
 radical: 比
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

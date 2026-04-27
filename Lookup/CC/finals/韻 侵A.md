@@ -1,6 +1,8 @@
 ---
 size: 24
 middle_chinese_final: iɪm
+tags: [lookup]
+
 ---
 
 

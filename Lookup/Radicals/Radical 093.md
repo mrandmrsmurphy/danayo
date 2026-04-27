@@ -2,6 +2,8 @@
 size: 12
 date-last-perfect:
 radical: 牛
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 69
 radical: 辵
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The walk radical. The canonical form 辵 has 7 strokes, but the abbreviated form 辶 wrapping the bottom-left of a character counts as 3, so groupings below use that baseline.

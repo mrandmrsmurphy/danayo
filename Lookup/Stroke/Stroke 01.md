@@ -2,6 +2,8 @@
 date-last-perfect: 2026-02-22
 stroke_count: 1
 size: 2
+tags: [lookup]
+
 ---
 > [Stroke](lookup/Stroke/Stroke.md)
 

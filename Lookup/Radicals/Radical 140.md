@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 115
 radical: 艸
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The grass radical. The canonical form 艸 has 6 strokes, but the abbreviated form ⺾/艹 used atop characters counts as 3, so groupings below use that baseline.

@@ -2,6 +2,8 @@
 size: 2
 radical: 夂
 date-last-perfect: 2026-03-04
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > Winter

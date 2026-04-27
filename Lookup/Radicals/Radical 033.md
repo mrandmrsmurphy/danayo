@@ -1,6 +1,8 @@
 ---
 size: 7
 radical: 士
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

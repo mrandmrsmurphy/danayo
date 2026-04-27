@@ -1,5 +1,7 @@
 ---
 aliases:
+tags: [lookup]
+
 ---
 
 > [[SKIP]] : 1

@@ -2,6 +2,8 @@
 size: 1
 date-last-perfect: 2026-03-03
 radical: 鼠
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > **Radical 208** is the "rat" radical, 鼠.  

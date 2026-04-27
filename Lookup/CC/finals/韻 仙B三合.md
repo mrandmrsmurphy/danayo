@@ -1,6 +1,8 @@
 ---
 size: 12
 middle_chinese_final: ɣiuᴇn
+tags: [lookup]
+
 ---
 ## Characters
 ### To 'wen'

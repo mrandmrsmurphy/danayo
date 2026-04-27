@@ -2,6 +2,8 @@
 date-last-perfect: 2026-04-26
 size: 142
 radical: 人
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The person radical. Appears as 亻when on the left side of a character.

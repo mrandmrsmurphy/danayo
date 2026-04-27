@@ -1,3 +1,6 @@
+---
+tags: [lookup]
+---
 [不 (char)](characters/不%20(char).md): 41
 [大 (char)](characters/大%20(char).md): 38
 人: 26

@@ -2,6 +2,8 @@
 size: 9
 date-last-perfect: 2026-03-03
 radical: 革
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > This is the "leather" radical

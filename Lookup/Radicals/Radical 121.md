@@ -2,6 +2,8 @@
 size: 6
 date-last-perfect:
 radical: 缶
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

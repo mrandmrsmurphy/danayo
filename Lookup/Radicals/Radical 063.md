@@ -2,6 +2,8 @@
 size: 8
 date-last-perfect:
 radical: 戶
+tags: [lookup]
+
 ---
 > [Radicals](lookup/Radicals/Radicals.md)
 

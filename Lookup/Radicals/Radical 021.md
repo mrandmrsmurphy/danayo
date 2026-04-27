@@ -2,6 +2,8 @@
 size: 4
 radical: 匕
 date-last-perfect: 2026-03-14
+tags: [lookup]
+
 ---
 > [Radicals](lookup/Radicals/Radicals.md)
 > 匕 is a spoon

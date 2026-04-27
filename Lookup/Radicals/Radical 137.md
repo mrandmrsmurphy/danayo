@@ -2,6 +2,8 @@
 size: 10
 date-last-perfect: 2026-04-09
 radical: 舟
+tags: [lookup]
+
 ---
 > [Radicals](Radicals.md)
 

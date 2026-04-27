@@ -2,6 +2,8 @@
 size: 2
 date-last-perfect: 2026-04-26
 radical: 瓜
+tags: [lookup]
+
 ---
 > [[Radicals]]
 > The cucumber radical - 

@@ -2,6 +2,8 @@
 size: 2
 radical: 香
 date-last-perfect: 2026-02-25
+tags: [lookup]
+
 ---
 > [[Radicals]]
 ### +0

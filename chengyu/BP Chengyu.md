@@ -1,5 +1,8 @@
 ---
 language: English
+tags:
+  - chengyu
+  - best-practice
 ---
 
 # Best Practices: Chengyu Pages

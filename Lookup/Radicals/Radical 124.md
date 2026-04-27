@@ -2,6 +2,8 @@
 size: 15
 date-last-perfect:
 radical: 羽
+tags: [lookup]
+
 ---
 > [[Radicals]]
 

@@ -1,6 +1,8 @@
 ---
 size: 13
 radical: 寸
+tags: [lookup]
+
 ---
 > [[Radicals]]
 
