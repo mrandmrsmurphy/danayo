@@ -273,7 +273,7 @@ tags: [lookup]
 [冰](../../characters/氷.md): 4
 [[補]]: 4
 [[采]]: 4
-[[曾]]: 4
+[曾](../../characters/曽%20(char).md): 4
 [[差]]: 4
 [傳](characters/伝.md): 4
 [袋 (char)](../../characters/袋%20(char).md): 4
@@ -299,7 +299,6 @@ tags: [lookup]
 [批](../../characters/批.md): 4
 [台](../../characters/台%20(char).md): 4
 [鄉](../../characters/郷.md): 4
-[[乡]]: 4
 [[雄 (char)]]: 4
 [针](../../characters/針%20(char).md): 4
 [[止]]: 4

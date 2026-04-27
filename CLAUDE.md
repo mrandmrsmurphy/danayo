@@ -71,6 +71,15 @@ The `.base` files are Obsidian Bases databases for querying entries:
 - `chengyu/All Chengyu Base.base`
 - `Last Perfect.base` — tracks `date-last-perfect` for spaced repetition review
 
+## Best Practices
+
+A growing number of file types have a `best practices` page, which documents the "correct" way to make a page of that kind:
+- [[chengyu/BP Chengyu.md]]
+- [[lookup/SKIP/BP SKIP.md]]
+- [[lookup/Radicals/BP Radicals.md]]
+- [[lookup/Stroke/BP Stroke.md]]
+- [[syllables/BP syllables.md]]
+
 ## License
 
 Code/tooling: MIT. Content: CC BY-SA.

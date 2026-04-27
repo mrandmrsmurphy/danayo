@@ -24,7 +24,7 @@ english:
 羅馬字: jǝng
 諺文: 증
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3157
 mc_id: 753

@@ -49,7 +49,7 @@ kwin: true
 - 形声 (OC \*krɯm): semantic 士 (“upside-down ritual axe perhaps made of precious materials”) + semantic 呂 (“two blocks of metal”) + phonetic 亼 (OC \*krɯm). The semantic component in folk etymology is very often misinterpreted as 王. The blocks of metal were originally drawn as : and then as 丷.  The upper component 亼 is the ancient form for 今 (OC \*krɯm) and it represents an open mouth flipped upside down; it indicates the original pronunciation of the whole character.  Shuowen interprets it as an image of metal in the earth (Xu Shen writes "象金在土中形") with 亼 as phonetic. But the most ancient versions do not contain the pictogram of the earth.  Originally referred to copper, first used during the Copper Age and the Jade Age in China (hence before the Bronze Age, during which the first bronzes were produced); later the meaning was extended to metal as a whole, and then to gold.
 - [SKIP-2-2-6](lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄍㄧㄇ](syllables/ㄍㄧㄇ.md)
 ## Words
-- The most common surname in [Korea](Korea.md).
+- The most common surname in [Korea](../lookup/Korean/Korea.md).
 - <ruby>[黄金](/words/黄金.md)<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> - gold
 - <ruby>[金属](/words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby> - metal
 - <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> - Friday
