@@ -7,18 +7,12 @@ japanese:
   - SHIN
 japanese_nanori: ""
 vietnamese:
-  - chan
-  - chán
   - chạn
-  - chấn
   - chận
-  - chắn
-  - chẵn
   - chặn
   - dấn
   - nấn
   - sán
-  - xán
   - xắn
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: iɪn
@@ -41,6 +35,7 @@ mc_id: 1071
 graphemic_classification: 辰
 stand_in: 振
 aliases:
+  - 顫
 注音: ㄐㄧㄋ
 tags:
   - character

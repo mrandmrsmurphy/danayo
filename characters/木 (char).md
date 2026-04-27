@@ -1,7 +1,7 @@
 ---
-mandarin: "mù"
-cantonese: "muk6"
-korean: "목"
+mandarin: mù
+cantonese: muk6
+korean: 목
 korean_native: 나무
 japanese:
   - BOKU
@@ -37,6 +37,7 @@ aliases:
 注音: ㄇㄛㄎ
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 木.
 >For the word, see [木](words/木.md)
