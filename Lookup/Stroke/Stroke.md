@@ -95,9 +95,9 @@ views:
       - stroke_count
       - date-last-perfect
     sort:
-      - property: file.name
-        direction: ASC
       - property: size
         direction: DESC
+      - property: file.name
+        direction: ASC
 
 ```

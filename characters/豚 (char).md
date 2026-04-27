@@ -1,33 +1,33 @@
 ---
-mandarin: "tún"
+mandarin: tún
 cantonese: tyun4
-korean: "돈"
-korean_native: "돼지"
+korean: 돈
+korean_native: 돼지
 japanese:
   - TON
 japanese_nanori: ""
 vietnamese:
   - đồn
 middle_chinese_initial: d
-middle_chinese_final: "uən"
+middle_chinese_final: uən
 stroke_count: 11
-radical: "豕"
+radical: 豕
 skip_number: 1-4-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - pig
 羅馬字: tun
-諺文: "툰"
-joyo_level: "高等"
+諺文: 툰
+joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 6162
 mc_id: 2201
-graphemic_classification: "會意"
-stand_in: "豚"
+graphemic_classification: 會意
+stand_in: 豚
 aliases:
-注音: "ㄊㄨㄋ"
+注音: ㄊㄨㄋ
 tags:
   - character
 ---

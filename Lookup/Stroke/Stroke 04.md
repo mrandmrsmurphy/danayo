@@ -25,7 +25,7 @@ tags: [lookup]
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
+TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "4" OR stroke_count = 4
 SORT skip_number ASC

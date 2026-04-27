@@ -14,7 +14,7 @@ middle_chinese_final: uɑ
 stroke_count: 4
 radical: 火
 skip_number: 4-4-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - fire

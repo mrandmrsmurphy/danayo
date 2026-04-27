@@ -106,7 +106,7 @@ The final section. A `dataview` query returning every character with this stroke
 ```markdown
 ## Data check
 ​```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
+TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "3" OR stroke_count = 3
 SORT skip_number ASC

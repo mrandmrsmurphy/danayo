@@ -6,7 +6,7 @@ views:
       - size
       - 注音
       - 羅馬字
-      - 韓文
+      - 諺文
       - date-last-perfect
     sort:
       - property: date-last-perfect
