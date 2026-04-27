@@ -47,7 +47,8 @@ Pictogram ([List of 象形](../lookup/List%20of%20象形.md)): the calyx of a fl
 Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird flying toward the sky ([一](Radical%20001)). The sky being the limit for the bird, thus the idea of negation.
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄅㄛㄊ](../syllables/ㄅㄛㄊ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
-- Second most used character in Classical Chinese
+- Second most used character in Classical Chinese.  [[Lookup/CC/initials/聲 幫]] + [[Lookup/CC/finals/韻 物]]
+
 ### Derived characters
 - 木 + 不 = [杯 (char)](characters/杯%20(char).md) 
 - 不 + 口 = [否 (char)](characters/否%20(char).md)
@@ -73,5 +74,4 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 - <ruby>[欲求不満](/chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety
 - <ruby>[百聞不如一見](/chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> - one look is worth a thousand tellings
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby>
-[[Lookup/CC/initials/聲 幫]]
-[[Lookup/CC/finals/韻 物]]
+- 不可思議
