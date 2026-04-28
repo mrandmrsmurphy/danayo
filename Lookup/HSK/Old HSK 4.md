@@ -1143,7 +1143,7 @@ tags: [lookup]
 [贝](../../characters/貝.md): 2
 [饱](../../characters/飽%20(char).md): 2
 [姆](../../characters/母.md): 2
-[[堡]]: 2
+[[../../characters/堡]]: 2
 [[垒]]: 2
 [壘](../../characters/塁.md): 2
 [负](../../characters/負%20(char).md): 2

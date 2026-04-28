@@ -46,7 +46,7 @@ These have all been checked for redirects.
  [幷](characters/並%20(char).md) [倂](characters/並%20(char).md) [[甁]] [[輧]] [[炳]] [柄 (char)](characters/柄%20(char).md) [[昞]] [秉](characters/秉.md) [[餠]] [[騈]] [[鉼]] [[抦]]
 
 ### 보 
- [[堡]] [甫](characters/甫.md) [輔](characters/輔.md) [菩](characters/菩.md) [[潽]] [[洑]] [[湺]] [褓](characters/保.md) [[俌]] [[𤣰]] 
+ [[../../characters/堡]] [甫](characters/甫.md) [輔](characters/輔.md) [菩](characters/菩.md) [[潽]] [[洑]] [[湺]] [褓](characters/保.md) [[俌]] [[𤣰]] 
 
 ### 복 
  [[馥]] [[鍑]] [僕](characters/僕.md) [[匐]] [[宓]] [[茯]] [蔔](characters/蔔.md) [[輹]] [[輻]] [鰒](characters/腹%20(char).md)

@@ -1093,7 +1093,7 @@
 1202. [[齐]] in [[lookup/HSK/Old HSK 4]]
 1203. [[齊]] in [[lookup/HSK/Old HSK 4]]
 1204. [[颁]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
-1205. [[堡]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
+1205. [[characters/堡]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[lookup/Korean/Korean Name ㅂ]]
 1206. [[垒]] in [[lookup/HSK/Old HSK 4]]
 1207. [[驳]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 1208. [[馋]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
