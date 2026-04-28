@@ -1,7 +1,7 @@
 ---
-mandarin: "yì"
-cantonese: "jik6"
-korean: "역"
+mandarin: yì
+cantonese: jik6
+korean: 역
 korean_native: 실 뽑을
 japanese:
   - YAKU
@@ -10,10 +10,10 @@ vietnamese:
   - gịt, dịch, dịt
 middle_chinese_initial: j
 middle_chinese_final: iᴇk
-stroke_count: 9
+stroke_count: 10
 radical: 糸
 skip_number: 1-6-4
-grade_level: "先進"
+grade_level: 先進
 pos: 事詞
 english:
   - unravel

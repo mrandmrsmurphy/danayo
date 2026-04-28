@@ -58,9 +58,9 @@ Writing must be in order:
 7. [[Stroke 07]] (227 characters)
 8. [[Stroke 08]] (267 characters)
 9. [[Stroke 09]] (290 characters)
-10. [[Stroke 10]] (315 characters)
-11. [[Stroke 11]] (327 characters)
-12. [[Stroke 12]] (352 characters)
+10. [[Stroke 10]] (315 characters) ✅
+11. [[Stroke 11]] (327 characters) ✅
+12. [[Stroke 12]] (352 characters) ✅
 13. [[Stroke 13]] (268 characters)
 14. [[Stroke 14]] (190 characters)
 15. [[Stroke 15]] (201 characters)

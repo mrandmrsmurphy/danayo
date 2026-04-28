@@ -46,4 +46,4 @@ I'm shocked its not old
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 登開]]
 - [[灯籠]] "lantern"
-- [[灯芯]] "wick"
+- [[../words/灯心]] "wick"
