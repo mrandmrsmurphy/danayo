@@ -8,19 +8,19 @@ views:
     order:
       - file.name
       - 羅馬字
-      - 韓文
       - 注音
       - date-last-perfect
       - english
       - 品詞
+      - 諺文
     sort:
+      - property: 諺文
+        direction: ASC
       - property: 羅馬字
         direction: DESC
       - property: english
         direction: ASC
       - property: 品詞
-        direction: ASC
-      - property: 諺文
         direction: ASC
       - property: 注音
         direction: ASC

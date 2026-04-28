@@ -1,8 +1,8 @@
 ---
-mandarin: "nà"
+mandarin: nà
 cantonese: naa5
-korean: "나"
-korean_native: "어찌"
+korean: 나
+korean_native: 어찌
 japanese:
   - DA
   - NA
@@ -13,27 +13,27 @@ vietnamese:
   - ná
   - nả
 middle_chinese_initial: n
-middle_chinese_final: "ɑ"
+middle_chinese_final: ɑ
 stroke_count: 7
-radical: "邑"
+radical: 邑
 skip_number: 1-4-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - then
   - in that case
 羅馬字: na
-諺文: "나"
-joyo_level: "高等"
-hsk_level: 1
-hanmun_edu_level: "高等"
+諺文: 나
+joyo_level: 高等
+hsk_level: "1"
+hanmun_edu_level: 高等
 danayo_id: 6326
 mc_id: 3625
-graphemic_classification: "冉"
-stand_in: "那"
+graphemic_classification: 冉
+stand_in: 那
 aliases:
   - 哪
-注音: "ㄋㄚ"
+注音: ㄋㄚ
 tags:
   - character
 ---

@@ -29,7 +29,7 @@ english:
 羅馬字: jed
 諺文: 젇
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2193
 mc_id: 295
