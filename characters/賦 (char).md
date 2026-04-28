@@ -5,7 +5,7 @@ korean: "부"
 korean_native: "부세"
 japanese:
   - FU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phú
 middle_chinese_initial: f

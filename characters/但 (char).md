@@ -6,7 +6,7 @@ korean_native: "다만"
 japanese:
   - TAN
   - DAN
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: ただ
 vietnamese:
   - giãn

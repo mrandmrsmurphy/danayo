@@ -5,7 +5,7 @@ korean: "분"
 korean_native: "똥"
 japanese:
   - FUN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phân
   - phẩn

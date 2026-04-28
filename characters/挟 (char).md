@@ -6,7 +6,7 @@ korean_native: 낄
 japanese:
 - KYOU
 - SHOU
-japanese_nanori: ''
+japanese_native: ''
 vietnamese:
   - giáp
   - hiệp

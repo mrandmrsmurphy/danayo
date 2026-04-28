@@ -6,7 +6,7 @@ korean_native: "물러날"
 japanese:
   - TAI
   - TON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thoái
   - thui

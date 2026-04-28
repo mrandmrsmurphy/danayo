@@ -6,7 +6,7 @@ korean_native: "동면할"
 japanese:
   - CHITSU
   - CHUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chẫu
   - chập

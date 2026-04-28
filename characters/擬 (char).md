@@ -5,7 +5,7 @@ korean: "의"
 korean_native: "헤아릴"
 japanese:
   - GI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nghĩ
   - nghỉ

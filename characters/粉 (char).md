@@ -5,7 +5,7 @@ korean: "분"
 korean_native: "가루"
 japanese:
   - FUN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phấn
 middle_chinese_initial: f

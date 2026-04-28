@@ -6,7 +6,7 @@ korean_native: "경사"
 japanese:
   - KEI
   - KYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - khánh
   - khương

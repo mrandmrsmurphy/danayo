@@ -7,7 +7,7 @@ japanese:
   - BOU
   - GAI
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: ほけ
 vietnamese:
   - dại

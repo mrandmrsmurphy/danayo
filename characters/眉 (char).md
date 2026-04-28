@@ -6,7 +6,7 @@ korean_native: "눈썹"
 japanese:
   - BI
   - MI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mi
   - mày

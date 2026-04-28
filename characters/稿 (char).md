@@ -5,7 +5,7 @@ korean: "고"
 korean_native: "초고"
 japanese:
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cảo
   - khao

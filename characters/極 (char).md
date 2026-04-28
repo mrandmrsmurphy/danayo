@@ -7,7 +7,7 @@ japanese:
   - GOKU
   - KYOKU
   - GOKI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cặc
   - cọc

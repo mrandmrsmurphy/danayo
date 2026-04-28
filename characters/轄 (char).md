@@ -5,7 +5,7 @@ korean: "할"
 korean_native: "다스릴"
 japanese:
   - KATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hạt
   - hợt

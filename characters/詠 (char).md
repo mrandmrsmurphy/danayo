@@ -5,7 +5,7 @@ korean: "영"
 korean_native: "읊을"
 japanese:
   - EI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - vạnh
   - vẳng

@@ -5,7 +5,7 @@ korean: 록
 korean_native: 사슴
 japanese:
   - ROKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - lộc
 middle_chinese_initial: l

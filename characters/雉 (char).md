@@ -6,7 +6,7 @@ korean_native: "꿩"
 japanese:
   - CHI
   - JI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dẽ
   - giẽ

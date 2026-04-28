@@ -5,7 +5,7 @@ korean: "저"
 korean_native: "밑"
 japanese:
   - TEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đáy
   - đây

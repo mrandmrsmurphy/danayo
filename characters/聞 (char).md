@@ -6,7 +6,7 @@ korean_native: "들을"
 japanese:
   - BUN
   - MON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - văn
 middle_chinese_initial: "ɱ"

@@ -5,7 +5,7 @@ korean: "령"
 korean_native: "쾌할"
 japanese:
   - TEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sánh
   - sính

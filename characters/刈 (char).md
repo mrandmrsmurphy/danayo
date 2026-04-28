@@ -5,7 +5,7 @@ korean: "예"
 korean_native: "벨"
 japanese:
   - GAI
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: か
 vietnamese:
   - ngãi

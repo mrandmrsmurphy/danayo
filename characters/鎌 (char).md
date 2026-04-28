@@ -5,7 +5,7 @@ korean: "겸"
 korean_native: "낫"
 japanese:
   - REN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - gươm
   - liêm

@@ -5,7 +5,7 @@ korean: "읍"
 korean_native: "울"
 japanese:
   - KYUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - khóc
   - khấp

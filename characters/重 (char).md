@@ -6,7 +6,7 @@ korean_native: 무거울
 japanese:
   - CHOU
   - JUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chuộng
   - chõng

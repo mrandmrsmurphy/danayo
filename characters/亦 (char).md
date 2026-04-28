@@ -6,7 +6,7 @@ korean_native: "또"
 japanese:
   - EKI
   - YAKU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: また
 vietnamese:
   - diệc

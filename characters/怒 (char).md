@@ -6,7 +6,7 @@ korean_native: "성낼"
 japanese:
   - DO
   - NU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nua
   - nọ

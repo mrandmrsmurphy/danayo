@@ -5,7 +5,7 @@ korean: "붕"
 korean_native: "무너질"
 japanese:
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - băng
 middle_chinese_initial: p

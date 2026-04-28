@@ -5,7 +5,7 @@ korean: "고"
 korean_native: "넓적다리"
 japanese:
   - KO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cổ
   - cỗ

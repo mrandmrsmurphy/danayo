@@ -6,7 +6,7 @@ korean_native: "갈림길"
 japanese:
   - KI
   - GI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - kì
 middle_chinese_initial: g

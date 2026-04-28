@@ -7,7 +7,7 @@ japanese:
   - HAN
   - TAN
   - HON
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: そ
 vietnamese:
   - phản

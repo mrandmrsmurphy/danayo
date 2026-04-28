@@ -6,7 +6,7 @@ korean_native: "차례"
 japanese:
   - BAN
   - HAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phan
   - phen

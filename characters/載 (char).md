@@ -5,7 +5,7 @@ korean: "재"
 korean_native: "실을"
 japanese:
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tưới
   - tưởi

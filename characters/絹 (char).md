@@ -5,7 +5,7 @@ korean: "견"
 korean_native: "명주"
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - quyến
 middle_chinese_initial: k

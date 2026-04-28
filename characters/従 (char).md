@@ -7,7 +7,7 @@ japanese:
   - JUU
   - SHOU
   - JU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tùng
 middle_chinese_initial: d͡z

@@ -6,7 +6,7 @@ korean_native: "붙을"
 japanese:
   - FU
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phò
   - phụ

@@ -5,7 +5,7 @@ korean: 흠
 korean_native: 하품
 japanese:
   - KETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - khiếm
 middle_chinese_initial: kʰ

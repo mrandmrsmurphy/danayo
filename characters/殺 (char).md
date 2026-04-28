@@ -7,7 +7,7 @@ japanese:
   - SATSU
   - SETSU
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sái
   - sát

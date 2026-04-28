@@ -6,7 +6,7 @@ korean_native: "젓가락"
 japanese:
   - CHO
   - CHAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chước
   - giạ

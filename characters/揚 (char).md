@@ -5,7 +5,7 @@ korean: "양"
 korean_native: "날릴"
 japanese:
   - YOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dang
   - duồng

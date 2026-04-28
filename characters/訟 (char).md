@@ -6,7 +6,7 @@ korean_native: "송사할"
 japanese:
   - SHOU
   - JU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tụng
 middle_chinese_initial: z

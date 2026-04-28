@@ -6,7 +6,7 @@ korean_native: 말
 japanese:
   - TO
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tẩu
   - điếu

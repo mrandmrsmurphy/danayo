@@ -5,7 +5,7 @@ korean: "규"
 korean_native: "꼴"
 japanese:
   - KYUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - củ
 middle_chinese_initial: k

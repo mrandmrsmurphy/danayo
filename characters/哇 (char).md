@@ -7,7 +7,7 @@ japanese:
   - AI
   - E
   - WA
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: かい
 vietnamese:
   - oa

@@ -6,7 +6,7 @@ korean_native: "뒤"
 japanese:
   - GO
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hậu
 middle_chinese_initial: x

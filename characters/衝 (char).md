@@ -5,7 +5,7 @@ korean: "충"
 korean_native: "찌를"
 japanese:
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - giong
   - tông

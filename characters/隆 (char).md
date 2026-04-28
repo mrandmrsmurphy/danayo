@@ -5,7 +5,7 @@ korean: "륭"
 korean_native: "높을"
 japanese:
   - RYUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - long
   - lung

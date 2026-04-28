@@ -5,7 +5,7 @@ korean: "취"
 korean_native: "불"
 japanese:
   - SUI
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: ふ
 vietnamese:
   - xi

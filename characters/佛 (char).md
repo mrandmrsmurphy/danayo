@@ -7,7 +7,7 @@ japanese:
   - BUTSU
   - FUTSU
   - HOTSU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: ほとけ
 vietnamese:
   - phất

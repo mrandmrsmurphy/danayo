@@ -5,7 +5,7 @@ korean: "환"
 korean_native: "부를"
 japanese:
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: わめ
 vietnamese:
   - hoán

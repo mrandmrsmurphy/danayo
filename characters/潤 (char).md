@@ -5,7 +5,7 @@ korean: "윤"
 korean_native: "불을"
 japanese:
   - JUN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhuần
   - nhuận

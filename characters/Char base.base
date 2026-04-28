@@ -18,6 +18,8 @@ views:
       - 羅馬字
       - vietnamese
     sort:
+      - property: korean
+        direction: DESC
       - property: vietnamese
         direction: ASC
       - property: cantonese
@@ -27,8 +29,6 @@ views:
       - property: hanmun_edu_level
         direction: ASC
       - property: korean_native
-        direction: ASC
-      - property: korean
         direction: ASC
       - property: middle_chinese_initial
         direction: ASC

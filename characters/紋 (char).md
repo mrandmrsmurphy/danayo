@@ -6,7 +6,7 @@ korean_native: "무늬"
 japanese:
   - MON
   - BUN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - vân
   - văn

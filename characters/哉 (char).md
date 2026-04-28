@@ -5,7 +5,7 @@ korean: "재"
 korean_native: "비롯할"
 japanese:
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: かな
 vietnamese:
   - tai

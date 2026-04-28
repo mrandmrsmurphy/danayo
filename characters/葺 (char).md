@@ -5,7 +5,7 @@ korean: "즙"
 korean_native: "기울"
 japanese:
   - SHUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tập
 middle_chinese_initial: "t͡sʰ"

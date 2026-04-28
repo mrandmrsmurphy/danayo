@@ -5,7 +5,7 @@ korean: "년"
 korean_native: "해"
 japanese:
   - NEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - niên
   - nên

@@ -5,7 +5,7 @@ korean: "겸"
 korean_native: "겸할"
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: か
 vietnamese:
   - côm

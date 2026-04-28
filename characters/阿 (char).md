@@ -5,7 +5,7 @@ korean: "아"
 korean_native: "언덕"
 japanese:
   - A
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - a
   - à

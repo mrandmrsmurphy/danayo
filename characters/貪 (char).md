@@ -6,7 +6,7 @@ korean_native: "탐낼"
 japanese:
   - DON
   - TON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tham
 middle_chinese_initial: "tʰ"

@@ -5,7 +5,7 @@ korean: "후"
 korean_native: "제후"
 japanese:
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hầu
   - hậu

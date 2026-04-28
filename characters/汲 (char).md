@@ -5,7 +5,7 @@ korean: "급"
 korean_native: "길을"
 japanese:
   - KYUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cấp
   - ngập

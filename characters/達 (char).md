@@ -6,7 +6,7 @@ korean_native: 통달할
 japanese:
   - TATSU
   - DACHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thớt
   - đác

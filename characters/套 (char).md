@@ -5,7 +5,7 @@ korean: "투"
 korean_native: "씌울"
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sáo
   - thạo

@@ -6,7 +6,7 @@ korean_native: "앞"
 japanese:
   - ZEN
   - SEN
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: まえ
 vietnamese:
   - tiền

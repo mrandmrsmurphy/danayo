@@ -5,7 +5,7 @@ korean: "연"
 korean_native: "솔개"
 japanese:
   - EN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - diên
   - diều

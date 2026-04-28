@@ -6,7 +6,7 @@ korean_native: "톱"
 japanese:
   - KYO
   - KO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cư
   - cưa

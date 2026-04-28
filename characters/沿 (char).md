@@ -5,7 +5,7 @@ korean: 연
 korean_native: 따를
 japanese:
   - EN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - duyên
 middle_chinese_initial: j

@@ -5,7 +5,7 @@ korean: "완"
 korean_native: "팔뚝"
 japanese:
   - WAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - oản
   - uyển

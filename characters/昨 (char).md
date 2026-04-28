@@ -5,7 +5,7 @@ korean: "작"
 korean_native: "어제"
 japanese:
   - SAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tạc
 middle_chinese_initial: "d͡z"

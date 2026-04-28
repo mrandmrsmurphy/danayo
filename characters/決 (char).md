@@ -5,7 +5,7 @@ korean: "결"
 korean_native: "결단할"
 japanese:
   - KETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - quyết
   - quết

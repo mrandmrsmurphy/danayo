@@ -6,7 +6,7 @@ korean_native: "달릴"
 japanese:
   - SOU
   - SHU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - rảo
   - tẩu

@@ -7,7 +7,7 @@ japanese:
   - NETSU
   - ZETSU
   - NECHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhiệt
   - nhét

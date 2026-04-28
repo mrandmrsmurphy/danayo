@@ -6,7 +6,7 @@ korean_native: 마디
 japanese:
   - SETSU
   - SECHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tiết
   - tét

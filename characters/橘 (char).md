@@ -5,7 +5,7 @@ korean: "귤"
 korean_native: "귤나무"
 japanese:
   - KITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - quít
   - quất

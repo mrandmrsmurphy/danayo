@@ -5,7 +5,7 @@ korean: "양"
 korean_native: "볕"
 japanese:
   - YOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dàng
   - dương

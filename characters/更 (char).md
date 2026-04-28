@@ -5,7 +5,7 @@ korean: "갱"
 korean_native: 다시
 japanese:
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - canh
   - cánh

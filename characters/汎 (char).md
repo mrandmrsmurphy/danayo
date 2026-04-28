@@ -7,7 +7,7 @@ japanese:
   - HAN
   - FUU
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phiếm
   - vàm

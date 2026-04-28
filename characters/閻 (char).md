@@ -6,7 +6,7 @@ korean_native: "마을"
 japanese:
   - EN
   - SEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - diêm
   - dàm

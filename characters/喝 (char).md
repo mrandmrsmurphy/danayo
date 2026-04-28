@@ -6,7 +6,7 @@ korean_native: "꾸짖을"
 japanese:
   - KATSU
   - AI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hát
   - hét

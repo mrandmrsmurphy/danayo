@@ -5,7 +5,7 @@ korean: "곡"
 korean_native: "울"
 japanese:
   - KOKU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: なげ
 vietnamese:
   - khóc

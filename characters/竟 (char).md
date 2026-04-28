@@ -6,7 +6,7 @@ korean_native: "다할"
 japanese:
   - KEI
   - KYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cánh
   - cạnh

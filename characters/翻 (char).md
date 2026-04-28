@@ -6,7 +6,7 @@ korean_native: 펄럭일
 japanese:
   - HON
   - HAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phiên
 middle_chinese_initial: fʰ

@@ -7,7 +7,7 @@ japanese:
   - TOU
   - TEI
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đăng
 middle_chinese_initial: t

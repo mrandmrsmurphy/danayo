@@ -5,7 +5,7 @@ korean: "요"
 korean_native: "오목할"
 japanese:
   - OU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: くぼ
 vietnamese:
   - ao

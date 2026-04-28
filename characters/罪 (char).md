@@ -6,7 +6,7 @@ korean_native: "허물"
 japanese:
   - ZAI
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tội
   - tụi

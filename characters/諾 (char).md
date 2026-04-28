@@ -5,7 +5,7 @@ korean: 낙
 korean_native: 허락할
 japanese:
   - DAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nặc
 middle_chinese_initial: n

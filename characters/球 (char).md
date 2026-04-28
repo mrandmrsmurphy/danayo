@@ -6,7 +6,7 @@ korean_native: "공"
 japanese:
   - KYUU
   - GU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cầu
 middle_chinese_initial: g

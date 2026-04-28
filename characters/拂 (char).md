@@ -7,7 +7,7 @@ japanese:
   - FUTSU
   - HOTSU
   - HITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phất
   - phắt

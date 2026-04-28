@@ -5,7 +5,7 @@ korean: "위"
 korean_native: "맡길"
 japanese:
   - I
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - uế
   - uể

@@ -6,7 +6,7 @@ korean_native: "지렁이"
 japanese:
   - SAN
   - TEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tàm
   - tòm

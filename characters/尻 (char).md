@@ -5,7 +5,7 @@ korean: "고"
 korean_native: "꽁무니"
 japanese:
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - khào
 middle_chinese_initial: "kʰ"

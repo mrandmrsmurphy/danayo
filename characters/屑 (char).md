@@ -5,7 +5,7 @@ korean: "설"
 korean_native: "가루"
 japanese:
   - SETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tiết
 middle_chinese_initial: s

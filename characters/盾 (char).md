@@ -6,7 +6,7 @@ korean_native: "방패"
 japanese:
   - JUN
   - TON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thuẫn
   - thuỗn

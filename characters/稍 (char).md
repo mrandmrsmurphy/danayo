@@ -6,7 +6,7 @@ korean_native: "점점"
 japanese:
   - SOU
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - rảo
   - sảo

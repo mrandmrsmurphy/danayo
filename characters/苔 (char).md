@@ -5,7 +5,7 @@ korean: "태"
 korean_native: "이끼"
 japanese:
   - TAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dày
   - dầy

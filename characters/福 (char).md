@@ -5,7 +5,7 @@ korean: "복"
 korean_native: "복"
 japanese:
   - FUKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phúc
   - phước

@@ -5,7 +5,7 @@ korean: "제"
 korean_native: "차례"
 japanese:
   - DAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đậy
   - đệ

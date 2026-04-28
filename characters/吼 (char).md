@@ -6,7 +6,7 @@ korean_native: "울부짖을"
 japanese:
   - KOU
   - KU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: ほ
 vietnamese:
   - hống

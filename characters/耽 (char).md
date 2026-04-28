@@ -5,7 +5,7 @@ korean: "탐"
 korean_native: "처질"
 japanese:
   - TAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - xẩm
   - đam

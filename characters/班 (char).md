@@ -5,7 +5,7 @@ korean: "반"
 korean_native: "나눌"
 japanese:
   - HAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - ban
   - băn

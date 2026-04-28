@@ -7,7 +7,7 @@ japanese:
   - SHIN
   - JIN
   - IN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tầm
 middle_chinese_initial: z

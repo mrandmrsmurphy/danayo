@@ -6,7 +6,7 @@ korean_native: "모양"
 japanese:
   - KEI
   - GYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hình
   - hềnh

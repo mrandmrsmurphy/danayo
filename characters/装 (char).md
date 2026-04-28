@@ -6,7 +6,7 @@ korean_native: 꾸밀
 japanese:
   - SOU
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - trang
 middle_chinese_initial: t͡ʃ

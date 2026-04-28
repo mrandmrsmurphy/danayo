@@ -5,7 +5,7 @@ korean: "해"
 korean_native: "게"
 japanese:
   - KAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - giải
 middle_chinese_initial: "ɣ"

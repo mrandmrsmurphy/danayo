@@ -5,7 +5,7 @@ korean: "진"
 korean_native: "참"
 japanese:
   - SHIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chan
   - chang

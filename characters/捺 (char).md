@@ -6,7 +6,7 @@ korean_native: "누를"
 japanese:
   - NATSU
   - DATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nài
   - nại

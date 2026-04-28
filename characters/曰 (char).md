@@ -5,7 +5,7 @@ korean: "왈"
 korean_native: "가로"
 japanese:
   - ETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - viết
   - vít

@@ -6,7 +6,7 @@ korean_native: "불탈"
 japanese:
   - ZEN
   - NEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhen
   - nhiên

@@ -5,7 +5,7 @@ korean: "비"
 korean_native: "낮을"
 japanese:
   - HI
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: いや
 vietnamese:
   - bấy

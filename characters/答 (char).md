@@ -5,7 +5,7 @@ korean: 답
 korean_native: 대답
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hóp
   - đáp

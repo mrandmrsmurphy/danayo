@@ -6,7 +6,7 @@ korean_native: "감색"
 japanese:
   - KON
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cám
   - tim

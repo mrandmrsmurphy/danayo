@@ -6,7 +6,7 @@ korean_native: 쓸
 japanese:
   - HI
   - FUTSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bí
   - phí

@@ -6,7 +6,7 @@ korean_native: "바로잡을"
 japanese:
   - TEI
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dính
   - đính

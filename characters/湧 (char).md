@@ -6,7 +6,7 @@ korean_native: ""
 japanese:
   - YUU
   - YOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dũng
   - dộng

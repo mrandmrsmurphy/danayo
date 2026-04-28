@@ -5,7 +5,7 @@ korean: 인
 korean_native: 끌
 japanese:
   - IN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dẫn
   - dận

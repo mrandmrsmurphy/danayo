@@ -7,7 +7,7 @@ japanese:
   - SHOKU
   - SHI
   - JIKI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thực
   - tự

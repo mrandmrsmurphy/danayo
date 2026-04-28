@@ -7,7 +7,7 @@ japanese:
   - BOKU
   - HAKU
   - HOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - buộc
   - phác

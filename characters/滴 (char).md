@@ -5,7 +5,7 @@ korean: "적"
 korean_native: "물방울"
 japanese:
   - TEKI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhích
   - nhếch

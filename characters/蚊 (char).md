@@ -5,7 +5,7 @@ korean: "문"
 korean_native: "모기"
 japanese:
   - BUN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mân
   - văn

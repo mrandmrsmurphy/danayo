@@ -5,7 +5,7 @@ korean: "외"
 korean_native: "두려워할"
 japanese:
   - I
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hoay
   - hoáy

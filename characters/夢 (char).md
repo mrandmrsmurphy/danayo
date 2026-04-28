@@ -5,7 +5,7 @@ korean: "몽"
 korean_native: "꿈"
 japanese:
   - MU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - muống
   - mòng

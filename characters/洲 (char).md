@@ -5,7 +5,7 @@ korean: "주"
 korean_native: "물가"
 japanese:
   - SHUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chao
   - châu

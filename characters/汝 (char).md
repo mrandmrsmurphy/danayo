@@ -5,7 +5,7 @@ korean: "여"
 korean_native: "너"
 japanese:
   - JO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dử
   - nhớ

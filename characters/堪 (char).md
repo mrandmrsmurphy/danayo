@@ -6,7 +6,7 @@ korean_native: "견딜"
 japanese:
   - KAN
   - TAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - kham
   - khom

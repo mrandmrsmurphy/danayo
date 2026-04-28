@@ -6,7 +6,7 @@ korean_native: "선비"
 japanese:
   - SHI
   - JI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sãi
   - sõi

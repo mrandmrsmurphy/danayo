@@ -6,7 +6,7 @@ korean_native: "골"
 japanese:
   - KOKU
   - YOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cốc
   - góc

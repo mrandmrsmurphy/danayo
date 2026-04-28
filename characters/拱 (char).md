@@ -5,7 +5,7 @@ korean: "공"
 korean_native: ""
 japanese:
   - KYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cõng
   - cùng

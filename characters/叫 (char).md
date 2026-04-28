@@ -5,7 +5,7 @@ korean: "규"
 korean_native: "부르짖을"
 japanese:
   - KYOU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: さけ
 vietnamese:
   - khiếu

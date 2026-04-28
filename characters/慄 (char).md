@@ -5,7 +5,7 @@ korean: "률"
 korean_native: "떨릴"
 japanese:
   - RITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - lật
   - rất

@@ -5,7 +5,7 @@ korean: "긍"
 korean_native: "뻗칠"
 japanese:
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: わた
 vietnamese:
   - cắng

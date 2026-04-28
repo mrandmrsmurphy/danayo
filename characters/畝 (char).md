@@ -6,7 +6,7 @@ korean_native: "이랑"
 japanese:
   - HO
   - BOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mẩu
   - mẫu

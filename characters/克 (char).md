@@ -5,7 +5,7 @@ korean: 극
 korean_native: 이길
 japanese:
   - KOKU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: か
 vietnamese:
   - khắc

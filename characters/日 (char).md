@@ -6,7 +6,7 @@ korean_native: 날
 japanese:
   - NICHI
   - JITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhạt
   - nhật

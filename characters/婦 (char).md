@@ -5,7 +5,7 @@ korean: "부"
 korean_native: "며느리"
 japanese:
   - FU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phụ
   - vợ

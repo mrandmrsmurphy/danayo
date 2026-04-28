@@ -7,7 +7,7 @@ japanese:
   - KOU
   - GYOU
   - AN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hàng
   - hành

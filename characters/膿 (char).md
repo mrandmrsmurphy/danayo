@@ -6,7 +6,7 @@ korean_native: "고름"
 japanese:
   - DOU
   - NOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nùng
   - nọng

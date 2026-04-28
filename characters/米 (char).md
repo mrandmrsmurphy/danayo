@@ -7,7 +7,7 @@ japanese:
   - BEI
   - MAI
   - ME
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mè
   - mễ

@@ -5,7 +5,7 @@ korean: "렵"
 korean_native: 사냥
 japanese:
   - RYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - liệp
   - lạp

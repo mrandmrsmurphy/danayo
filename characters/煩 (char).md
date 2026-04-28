@@ -6,7 +6,7 @@ korean_native: "번거로울"
 japanese:
   - HAN
   - BON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phiền
 middle_chinese_initial: v

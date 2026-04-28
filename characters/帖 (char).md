@@ -6,7 +6,7 @@ korean_native: "문서"
 japanese:
   - JOU
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thiêm
   - thiếp

@@ -5,7 +5,7 @@ korean: "차"
 korean_native: "이"
 japanese:
   - SHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nảy
   - thử

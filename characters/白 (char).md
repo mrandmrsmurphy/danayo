@@ -6,7 +6,7 @@ korean_native: "흰"
 japanese:
   - HAKU
   - BYAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bạc
   - bạch

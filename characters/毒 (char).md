@@ -6,7 +6,7 @@ korean_native: "독"
 japanese:
   - DOKU
   - TOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nọc
   - độc

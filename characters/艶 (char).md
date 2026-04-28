@@ -5,7 +5,7 @@ korean: 염
 korean_native: 고울
 japanese:
   - EN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - diễm
   - dém

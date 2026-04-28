@@ -5,7 +5,7 @@ korean: "한"
 korean_native: "한할"
 japanese:
   - KON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - giận
   - hận

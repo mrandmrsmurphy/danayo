@@ -7,7 +7,7 @@ japanese:
   - SHAKU
   - SHA
   - SEKI
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: か
 vietnamese:
   - tá

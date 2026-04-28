@@ -5,7 +5,7 @@ korean: "우"
 korean_native: "소"
 japanese:
   - GYUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - ngâu
   - ngõ

@@ -5,7 +5,7 @@ korean: "왕"
 korean_native: "갈"
 japanese:
   - OU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - váng
   - vãn

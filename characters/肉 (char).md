@@ -6,7 +6,7 @@ korean_native: "고기"
 japanese:
   - NIKU
   - JUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhục
 middle_chinese_initial: "ȵ"

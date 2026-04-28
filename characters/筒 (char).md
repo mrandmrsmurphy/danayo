@@ -5,7 +5,7 @@ korean: "통"
 korean_native: "대통"
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đồng
 middle_chinese_initial: d

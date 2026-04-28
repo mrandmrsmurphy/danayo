@@ -5,7 +5,7 @@ korean: "선"
 korean_native: 봉선
 japanese:
   - ZEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thiền
   - xèng

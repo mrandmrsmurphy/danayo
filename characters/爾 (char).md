@@ -6,7 +6,7 @@ korean_native: "너"
 japanese:
   - JI
   - NI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhãi
   - nhĩ

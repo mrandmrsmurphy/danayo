@@ -5,7 +5,7 @@ korean: "공"
 korean_native: "구멍"
 japanese:
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hỏng
   - hổng

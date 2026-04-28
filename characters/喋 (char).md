@@ -6,7 +6,7 @@ korean_native: "재재거릴"
 japanese:
   - CHOU
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: しゃべ
 vietnamese:
   - nhịp

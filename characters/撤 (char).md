@@ -5,7 +5,7 @@ korean: "철"
 korean_native: "거둘"
 japanese:
   - TETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - triệt
   - trê

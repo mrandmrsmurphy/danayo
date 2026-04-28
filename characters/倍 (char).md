@@ -5,7 +5,7 @@ korean: "배"
 korean_native: "곱"
 japanese:
   - BAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - buạ
   - bạu

@@ -5,7 +5,7 @@ korean: "괴"
 korean_native: "흙덩이"
 japanese:
   - KAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cỏi
   - hòn

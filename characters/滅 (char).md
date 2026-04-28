@@ -6,7 +6,7 @@ korean_native: "다할"
 japanese:
   - METSU
   - BETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - diệt
   - dột

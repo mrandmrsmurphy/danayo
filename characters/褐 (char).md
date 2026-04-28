@@ -6,7 +6,7 @@ korean_native: 미투리
 japanese:
   - KATSU
   - KACHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hạt
 middle_chinese_initial: ɣ

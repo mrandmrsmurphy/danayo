@@ -5,7 +5,7 @@ korean: 추
 korean_native: 가울
 japanese:
 - SHUU
-japanese_nanori:
+japanese_native:
 - あき
 vietnamese:
   - thu

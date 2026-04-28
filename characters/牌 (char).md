@@ -5,7 +5,7 @@ korean: "패"
 korean_native: "패"
 japanese:
   - HAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bi
   - bia

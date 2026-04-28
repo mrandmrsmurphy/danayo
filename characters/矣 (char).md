@@ -5,7 +5,7 @@ korean: "의"
 korean_native: "어조사"
 japanese:
   - I
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hĩ
   - hơi

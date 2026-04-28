@@ -6,7 +6,7 @@ korean_native: 진압할
 japanese:
   - CHIN
   - TEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chận
   - chắn

@@ -6,7 +6,7 @@ korean_native: "오를"
 japanese:
   - TOU
   - TO
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đăng
   - đắng

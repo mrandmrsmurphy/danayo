@@ -5,7 +5,7 @@ korean: "량"
 korean_native: "들보"
 japanese:
   - RYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - lương
 middle_chinese_initial: l

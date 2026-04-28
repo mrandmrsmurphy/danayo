@@ -5,7 +5,7 @@ korean: "대"
 korean_native: "일"
 japanese:
   - TAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dải
   - trải

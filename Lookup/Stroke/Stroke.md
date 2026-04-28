@@ -78,7 +78,7 @@ Writing must be in order:
 27. [[Stroke 27]] (2 characters) ✅
 28. [[Stroke 28]] (1 character) ✅
 29. [[Stroke 29]] (1 character) ✅
-30. [[Stroke 30]] (0 characters)
+30. [[Stroke 30]] (0 characters) ✅
 
 ## Base check
 ```base

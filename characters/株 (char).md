@@ -6,7 +6,7 @@ korean_native: "그루"
 japanese:
   - CHU
   - SHU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - châu
   - chò

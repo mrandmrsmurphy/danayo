@@ -6,7 +6,7 @@ korean_native: 물건
 japanese:
   - HIN
   - HON
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: しな
 vietnamese:
   - phẩm

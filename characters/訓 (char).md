@@ -6,7 +6,7 @@ korean_native: "가르칠"
 japanese:
   - KUN
   - KIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - huấn
 middle_chinese_initial: x

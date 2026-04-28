@@ -5,7 +5,7 @@ korean: "용"
 korean_native: "한가로울"
 japanese:
   - JOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhõng
   - nhùng

@@ -6,7 +6,7 @@ korean_native: "멀"
 japanese:
   - KEI
   - GYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - huếnh
   - quánh

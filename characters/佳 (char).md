@@ -5,7 +5,7 @@ korean: "가"
 korean_native: 아름다울
 japanese:
   - KA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dai
   - giai

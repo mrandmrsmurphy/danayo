@@ -6,7 +6,7 @@ korean_native: "아낄"
 japanese:
   - SEKI
   - SHAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tiếc
   - tích

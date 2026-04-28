@@ -5,7 +5,7 @@ korean: 랭
 korean_native: 찰
 japanese:
   - REI
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: つめ
 vietnamese:
   - linh

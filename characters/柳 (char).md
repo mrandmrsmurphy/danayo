@@ -5,7 +5,7 @@ korean: "류"
 korean_native: "버들"
 japanese:
   - RYUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - liễu
 middle_chinese_initial: l

@@ -6,7 +6,7 @@ korean_native: "살필"
 japanese:
   - TEI
   - TAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đế
 middle_chinese_initial: t

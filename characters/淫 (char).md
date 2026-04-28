@@ -5,7 +5,7 @@ korean: "음"
 korean_native: "음란할"
 japanese:
   - IN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dâm
   - dầm

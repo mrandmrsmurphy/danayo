@@ -5,7 +5,7 @@ korean: 습
 korean_native: 축축할
 japanese:
   - SHITSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thấp
 middle_chinese_initial: ɕ

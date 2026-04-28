@@ -6,7 +6,7 @@ korean_native: "어찌"
 japanese:
   - EN
   - I
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - vờn
   - yên

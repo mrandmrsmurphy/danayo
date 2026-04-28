@@ -6,7 +6,7 @@ korean_native: "항목"
 japanese:
   - KOU
   - GOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - háng
   - hạng

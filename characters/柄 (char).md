@@ -6,7 +6,7 @@ korean_native: "자루"
 japanese:
   - HEI
   - HYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bính
 middle_chinese_initial: p

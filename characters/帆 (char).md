@@ -5,7 +5,7 @@ korean: "범"
 korean_native: "돛"
 japanese:
   - HAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - buồm
   - buồng

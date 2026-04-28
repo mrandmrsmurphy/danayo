@@ -6,7 +6,7 @@ korean_native: 붙을
 japanese:
   - CHAKU
   - JAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nước
   - trước

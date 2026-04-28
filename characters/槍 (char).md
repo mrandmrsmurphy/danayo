@@ -6,7 +6,7 @@ korean_native: "창"
 japanese:
   - SOU
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - sang
   - thương

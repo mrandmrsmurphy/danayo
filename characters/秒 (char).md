@@ -5,7 +5,7 @@ korean: "초"
 korean_native: "분초"
 japanese:
   - BYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - miểu
   - sao

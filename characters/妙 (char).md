@@ -6,7 +6,7 @@ korean_native: "묘할"
 japanese:
   - MYOU
   - BYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - diệu
   - dìu

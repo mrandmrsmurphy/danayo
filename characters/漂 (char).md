@@ -5,7 +5,7 @@ korean: "표"
 korean_native: "떠다닐"
 japanese:
   - HYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - pheo
   - phiêu

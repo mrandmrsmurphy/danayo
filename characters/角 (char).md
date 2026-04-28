@@ -7,7 +7,7 @@ japanese:
   - KAKU
   - ROKU
   - KOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chác
   - dạc

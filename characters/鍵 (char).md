@@ -5,7 +5,7 @@ korean: "건"
 korean_native: "열쇠"
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - kiện
 middle_chinese_initial: g

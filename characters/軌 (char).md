@@ -5,7 +5,7 @@ korean: "궤"
 korean_native: "바큇자국"
 japanese:
   - KI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - quĩ
   - quẫy

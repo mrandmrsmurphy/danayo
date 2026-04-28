@@ -5,7 +5,7 @@ korean: "림"
 korean_native: ""
 japanese:
   - RIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - lem
   - luôm

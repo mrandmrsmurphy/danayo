@@ -5,7 +5,7 @@ korean: "상"
 korean_native: 오히려
 japanese:
   - SHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chuộng
   - sượng

@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "가지런할"
 japanese:
   - SEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - choảnh
   - chảnh

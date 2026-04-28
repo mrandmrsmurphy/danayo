@@ -5,7 +5,7 @@ korean: "위"
 korean_native: "위장"
 japanese:
   - I
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - vị
 middle_chinese_initial: "ø"

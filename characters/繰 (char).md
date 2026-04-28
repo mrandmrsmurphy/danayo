@@ -5,7 +5,7 @@ korean: "조"
 korean_native: ""
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thao
 middle_chinese_initial: t͡s

@@ -5,7 +5,7 @@ korean: "애"
 korean_native: "언덕"
 japanese:
   - GAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - day
   - giay

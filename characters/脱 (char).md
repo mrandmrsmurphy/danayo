@@ -7,7 +7,7 @@ japanese:
   - DATSU
   - TAI
   - ETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thoát
   - thoạt

@@ -5,7 +5,7 @@ korean: "도"
 korean_native: "넘어질"
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: たお
 vietnamese:
   - đảo

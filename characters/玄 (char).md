@@ -6,7 +6,7 @@ korean_native: 검을
 japanese:
   - GEN
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - huyền
 middle_chinese_initial: ɣ

@@ -5,7 +5,7 @@ korean: "주"
 korean_native: "집"
 japanese:
   - CHUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - trụ
 middle_chinese_initial: "ɖ"

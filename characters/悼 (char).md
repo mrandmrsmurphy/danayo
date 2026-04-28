@@ -5,7 +5,7 @@ korean: "도"
 korean_native: "슬퍼할"
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - xịu
   - điệu

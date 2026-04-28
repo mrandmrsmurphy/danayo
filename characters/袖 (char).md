@@ -5,7 +5,7 @@ korean: "수"
 korean_native: "소매"
 japanese:
   - SHUU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tụ
 middle_chinese_initial: z

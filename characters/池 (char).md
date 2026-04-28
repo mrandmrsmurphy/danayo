@@ -6,7 +6,7 @@ korean_native: "못"
 japanese:
   - CHI
   - TA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tri
   - trì

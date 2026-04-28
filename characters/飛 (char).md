@@ -5,7 +5,7 @@ korean: "비"
 korean_native: "날"
 japanese:
   - HI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bay
   - phi

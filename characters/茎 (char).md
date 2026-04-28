@@ -6,7 +6,7 @@ korean_native: 줄기
 japanese:
   - KEI
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hành
   - kinh

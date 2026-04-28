@@ -7,7 +7,7 @@ japanese:
   - HETSU
   - HECHI
   - HEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - phiết
   - phét

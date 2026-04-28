@@ -5,7 +5,7 @@ korean: "구"
 korean_native: "도랑"
 japanese:
   - KOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - câu
 middle_chinese_initial: k

@@ -5,7 +5,7 @@ korean: "첨"
 korean_native: "아첨할"
 japanese:
   - TEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - siểm
   - xiểm

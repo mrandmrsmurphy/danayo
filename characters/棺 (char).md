@@ -5,7 +5,7 @@ korean: "관"
 korean_native: "널"
 japanese:
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - quan
 middle_chinese_initial: k

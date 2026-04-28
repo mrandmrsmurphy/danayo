@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "솥"
 japanese:
   - TEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đềnh
   - đểnh

@@ -7,7 +7,7 @@ japanese:
   - DON
   - NON
   - ZEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - non
   - nõn

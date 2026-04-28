@@ -6,7 +6,7 @@ korean_native: "의지할"
 japanese:
   - I
   - E
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: よ
 vietnamese:
   - e

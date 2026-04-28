@@ -6,7 +6,7 @@ korean_native: "칡"
 japanese:
   - KATSU
   - KACHI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cát
 middle_chinese_initial: k

@@ -6,7 +6,7 @@ korean_native: "멀"
 japanese:
   - EN
   - ON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - viển
   - viễn

@@ -6,7 +6,7 @@ korean_native: 어찌
 japanese:
   - DA
   - NA
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - na
   - nà

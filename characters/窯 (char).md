@@ -5,7 +5,7 @@ korean: "요"
 korean_native: ""
 japanese:
   - YOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dao
 middle_chinese_initial: j

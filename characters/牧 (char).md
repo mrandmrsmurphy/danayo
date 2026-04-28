@@ -6,7 +6,7 @@ korean_native: "칠"
 japanese:
   - BOKU
   - MOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mặt
   - mục

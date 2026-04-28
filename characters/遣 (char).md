@@ -5,7 +5,7 @@ korean: "견"
 korean_native: "보낼"
 japanese:
   - KEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - khiến
   - khiển

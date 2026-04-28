@@ -5,7 +5,7 @@ korean: "층"
 korean_native: "층"
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - tàng
   - tầng

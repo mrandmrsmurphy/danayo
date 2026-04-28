@@ -5,7 +5,7 @@ korean: "쇄"
 korean_native: "인쇄할"
 japanese:
   - SATSU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: す
 vietnamese:
   - loát

@@ -6,7 +6,7 @@ korean_native: "자라"
 japanese:
   - BETSU
   - HETSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - biết
 middle_chinese_initial: p

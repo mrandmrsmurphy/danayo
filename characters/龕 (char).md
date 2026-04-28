@@ -4,7 +4,7 @@ cantonese: ham1
 korean: "감"
 korean_native: "감실"
 japanese: KON
-japanese_nanori: "ずし"
+japanese_native: "ずし"
 vietnamese:
   - kham
   - khám

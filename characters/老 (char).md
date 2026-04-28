@@ -5,7 +5,7 @@ korean: 로
 korean_native: 늙은이
 japanese:
   - ROU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - láu
   - lão

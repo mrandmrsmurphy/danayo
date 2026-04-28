@@ -5,7 +5,7 @@ korean: 백
 korean_native: 측백
 japanese:
   - HAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bá
   - bách

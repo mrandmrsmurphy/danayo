@@ -5,7 +5,7 @@ korean: 창
 korean_native: 푸를
 japanese:
   - SOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thương
 middle_chinese_initial: t͡sʰ

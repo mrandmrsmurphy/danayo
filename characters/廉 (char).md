@@ -5,7 +5,7 @@ korean: "렴"
 korean_native: "청렴할"
 japanese:
   - REN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - liêm
   - lèm

@@ -6,7 +6,7 @@ korean_native: "방"
 japanese:
   - BOU
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - buồng
   - phòng

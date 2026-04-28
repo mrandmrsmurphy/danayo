@@ -5,7 +5,7 @@ korean: "곤"
 korean_native: "맏"
 japanese:
   - KON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - con
   - côn

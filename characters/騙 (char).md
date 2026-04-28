@@ -5,7 +5,7 @@ korean: "편"
 korean_native: "속일"
 japanese:
   - HEN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - biền
   - biển

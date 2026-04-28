@@ -5,7 +5,7 @@ korean: 보
 korean_native: 갚을
 japanese:
   - HOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - báo
 middle_chinese_initial: p

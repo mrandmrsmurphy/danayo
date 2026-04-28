@@ -6,7 +6,7 @@ korean_native: 같을
 japanese:
   - JAKU
   - NYAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nhã
   - nhược

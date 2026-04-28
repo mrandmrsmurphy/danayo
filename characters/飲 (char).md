@@ -6,7 +6,7 @@ korean_native: "마실"
 japanese:
   - IN
   - ON
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hẩm
   - ẩm

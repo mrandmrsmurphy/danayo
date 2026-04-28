@@ -6,7 +6,7 @@ korean_native: "이를"
 japanese:
   - KEI
   - GEI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - nghệ
 middle_chinese_initial: "ŋ"

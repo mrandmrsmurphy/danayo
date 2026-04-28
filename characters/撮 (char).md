@@ -6,7 +6,7 @@ korean_native: "모을"
 japanese:
   - SATSU
   - SAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - duỗi
   - toát

@@ -6,7 +6,7 @@ korean_native: "조각"
 japanese:
   - DAN
   - TAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - đoàn
   - đoạn

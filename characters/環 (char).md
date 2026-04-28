@@ -5,7 +5,7 @@ korean: "환"
 korean_native: "고리"
 japanese:
   - KAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - hoàn
 middle_chinese_initial: "ɣ"

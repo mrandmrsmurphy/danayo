@@ -6,7 +6,7 @@ korean_native: "붙일"
 japanese:
   - TEN
   - CHOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thiếp
 middle_chinese_initial: "tʰ"

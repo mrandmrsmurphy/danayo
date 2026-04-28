@@ -6,7 +6,7 @@ korean_native: "팔"
 japanese:
   - KUTSU
   - KOTSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - oặt
   - quát

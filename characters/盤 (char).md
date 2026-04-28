@@ -6,7 +6,7 @@ korean_native: "소반"
 japanese:
   - BAN
   - HAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - bàn
   - mâm

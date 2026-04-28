@@ -7,7 +7,7 @@ japanese:
   - REI
   - RIN
   - RYOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - linh
   - lệnh

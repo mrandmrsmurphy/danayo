@@ -7,7 +7,7 @@ japanese:
   - GEN
   - GON
   - GIN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - ngôn
   - ngỏn

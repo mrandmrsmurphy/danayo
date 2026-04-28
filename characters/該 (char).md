@@ -6,7 +6,7 @@ korean_native: "갖출"
 japanese:
   - GAI
   - KAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - cai
   - cơi

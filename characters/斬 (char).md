@@ -6,7 +6,7 @@ korean_native: "벨"
 japanese:
   - ZAN
   - SAN
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - chém
   - trảm

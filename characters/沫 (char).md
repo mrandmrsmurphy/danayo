@@ -6,7 +6,7 @@ korean_native: "물거품"
 japanese:
   - MATSU
   - BATSU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mát
   - mướt

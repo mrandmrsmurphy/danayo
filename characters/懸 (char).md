@@ -6,7 +6,7 @@ korean_native: "달"
 japanese:
   - KEN
   - KE
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - huyền
 middle_chinese_initial: "ɣ"

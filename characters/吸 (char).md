@@ -5,7 +5,7 @@ korean: 흡
 korean_native: 마실
 japanese:
   - KYUU
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: す
 vietnamese:
   - cạp

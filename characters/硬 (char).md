@@ -6,7 +6,7 @@ korean_native: "굳을"
 japanese:
   - KOU
   - GOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - ngạnh
 middle_chinese_initial: ŋ

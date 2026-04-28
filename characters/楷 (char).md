@@ -5,7 +5,7 @@ korean: "해"
 korean_native: "본보기"
 japanese:
   - KAI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - giai
   - khai

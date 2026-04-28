@@ -5,7 +5,7 @@ korean: "략"
 korean_native: "다스릴"
 japanese:
   - RYAKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - lược
   - trước

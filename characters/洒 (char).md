@@ -7,7 +7,7 @@ japanese:
 - SEI
 - SEN
 - SHA
-japanese_nanori: ''
+japanese_native: ''
 vietnamese:
   - rưới
   - rải

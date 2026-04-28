@@ -5,7 +5,7 @@ korean: "이"
 korean_native: "턱"
 japanese:
   - I
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - di
 middle_chinese_initial: j

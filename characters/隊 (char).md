@@ -6,7 +6,7 @@ korean_native: "무리"
 japanese:
   - TAI
   - TSUI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - dội
   - dụi

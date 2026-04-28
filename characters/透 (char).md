@@ -5,7 +5,7 @@ korean: "투"
 korean_native: "뛸"
 japanese:
   - TOU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - thấu
 middle_chinese_initial: "tʰ"

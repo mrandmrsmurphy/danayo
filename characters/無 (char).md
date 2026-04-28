@@ -6,7 +6,7 @@ korean_native: 없을
 japanese:
   - MU
   - BU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - mô
   - vô

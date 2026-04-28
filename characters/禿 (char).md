@@ -5,7 +5,7 @@ korean: "독"
 korean_native: "대머리"
 japanese:
   - TOKU
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - ngốc
   - sốc

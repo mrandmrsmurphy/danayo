@@ -5,7 +5,7 @@ korean: 훼
 korean_native: 헐
 japanese:
   - KI
-japanese_nanori: ""
+japanese_native: ""
 vietnamese:
   - huỷ
 middle_chinese_initial: x

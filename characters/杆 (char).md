@@ -5,7 +5,7 @@ korean: 간
 korean_native: ''
 japanese:
 - KAN
-japanese_nanori: ''
+japanese_native: ''
 vietnamese:
   - can
   - cán

@@ -5,7 +5,7 @@ korean: "점"
 korean_native: "점령할"
 japanese:
   - SEN
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: し
 vietnamese:
   - chem

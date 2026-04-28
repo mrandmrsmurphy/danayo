@@ -5,7 +5,7 @@ korean: null
 korean_native: ''
 japanese:
 - REN
-japanese_nanori: ''
+japanese_native: ''
 vietnamese:
   - luyến
 middle_chinese_initial: l

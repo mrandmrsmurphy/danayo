@@ -5,7 +5,7 @@ korean: "탄"
 korean_native: "탄식할"
 japanese:
   - TAN
-japanese_nanori: ""
+japanese_native: ""
 japanese_native: なげ
 vietnamese:
   - han
