@@ -1,8 +1,8 @@
 ---
-mandarin: "jìng"
-cantonese: "geng3"
-korean: "경"
-korean_native: "거울"
+mandarin: jìng
+cantonese: geng3
+korean: 경
+korean_native: 거울
 japanese:
   - KYOU
   - KEI
@@ -20,9 +20,8 @@ stroke_count: 19
 radical: 金
 skip_number: 1-8-11
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
-  - mirror
   - lens
 羅馬字: gyeng
 諺文: 경

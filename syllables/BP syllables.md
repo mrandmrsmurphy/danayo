@@ -7,7 +7,7 @@ tags:
 
 # Best Practices: Syllable Pages
 
-A syllable page documents one phonological unit of 単亜語, linking it to all characters that carry that sound and establishing which character is the *stand-in* (the primary Danayo word for that syllable).
+A syllable page documents one phonological unit of 単亜語, linking it to all characters that carry that sound and establishing which character is the *stand-alone* (the primary Dan'a'yo word for that syllable).
 
 ---
 
@@ -22,7 +22,7 @@ size: 7                          # total number of character entries in the Char
 羅馬字: dan                       # Danayo romanisation
 諺文: 단                          # Hangul representation
 注音: ㄉㄚㄋ                       # Bopomofo (matches the filename)
-english:                         # meaning(s) of the stand-in character(s)
+english:                         # meaning(s) of the stand-alone character(s)
   - altar
   - only
 tags:
@@ -32,23 +32,23 @@ tags:
 
 **`size`** is the count of all character entries (Common + Advanced + Naming combined). Update it whenever entries are added or removed.
 
-**`english`** lists the meanings of the stand-in character(s) — i.e., the word(s) Danayo actually uses for this syllable. If there is no stand-in, use `ø`.
+**`english`** lists the meanings of the stand-in character(s) — i.e., the word(s) Dan'a'yo actually uses alone for this syllable. If there is no stand-in, use `ø`.
 
-**`aliases`** may be added for the romanisation and Hangul so they are searchable by those strings.
+**`諺文`** uses the unusual convention of final-ㅅ for final-u, ㅃ for f, and 어 for `e`. 
 
 ---
 
 ## Intro block
 
-Immediately after the frontmatter, write a short intro block. The canonical form is a blockquote with all three scripts, then the primary meaning, citing the stand-in character in parentheses:
+Immediately after the frontmatter, write a short intro block. The canonical form is a blockquote with all three scripts, then the primary meaning, citing the stand-alone character in parentheses:
 
 ```markdown
 > [[Syllables]]
-> **·ㄚ/아/'a** means "I/me" (我) or "ah" (阿)
+> **ㄚ/아/'a** means "I/me" (我) or "ah" (阿)
 ```
 
-- List multiple meanings with "or" when there are multiple stand-in characters.
-- If there is no stand-in at all, write: `> **ㄆㄨㄆ** has no intrinsic meaning.`
+- List multiple meanings with "or" when there are multiple stand-alone characters.
+- If there is no stand-alone at all, write: `> **ㄆㄨㄆ** has no intrinsic meaning.`
 - If the syllable only appears in a secondary role, explain briefly.
 
 ### Audio (optional)
@@ -65,7 +65,7 @@ Audio files are hard to source; omit this line rather than leave a broken link.
 
 ## Characters section
 
-Replace the auto-generated `dataviewjs` block entirely with a hand-curated numbered (or bulleted) list. Organize entries into three subsections:
+Replace the auto-generated `dataviewjs` block entirely with a hand-curated numbered list. Organize entries into three subsections:
 
 ```markdown
 ## Characters
@@ -75,17 +75,17 @@ Replace the auto-generated `dataviewjs` block entirely with a hand-curated numbe
 ```
 
 ### Stand-alone
-All characters have a `stand_in` value in their frontmatter.  If it is essentially the same value as the character filename, they are stand-alone words.  Their entry format is to link the character file, quote the meaning, then link to the word file with `-->`:
+All characters have a `stand_in` value in their frontmatter.  If it is essentially the same value as the character filename minus ` (char)`, they are stand-alone words.  Their entry format is to link the character file, quote the meaning, then link to the word file with `-->`:
 
 ```markdown
 1. [[壇 (char)]] "altar" --> [[壇]]
 2. [[但 (char)]] "only, but" --> [[但]]
 ```
 
-Use the `[[X (char)]]` wiki-link form because these character file uses the `(char)` naming convention. The word link after `-->` is the plain `[[X]]` wiki-link.
+Use the `[[X (char)]]` wiki-link form because these character file use the `(char)` naming convention. The word link after `-->` is the plain `[[X]]` wiki-link.
 
 ### Bound
-Characters that exist in Danayo but only inside compound words — they cannot stand alone. Use a `but requires` clause with a ruby-annotated compound link:
+Characters that exist in Dan'a'yo but only inside compound words are not stand-alone. Use a `but requires` clause with a ruby-annotated compound link:
 
 ```markdown
 3. [[誕]] "be born", but requires <ruby>[[誕生]]<rt>ㄉㄚㄋㄙㄚㄫ</rt></ruby>
@@ -119,7 +119,7 @@ End every page with a `dataview` block that queries characters by 諺文:
 TABLE english AS "EN", stand_in AS "SI", grade_level AS "Grade"
 FROM "characters"
 WHERE 注音 = "ㄙㄚ"
-SORT file.name ASC
+SORT grade_level ASC
 ​```
 ```
 
