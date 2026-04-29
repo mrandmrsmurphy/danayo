@@ -3,13 +3,13 @@
 |**Prefix**|**Meaning**|day|week|month|year|century| 
 |<ruby>[今](/words/今.md)<rt>ㄍㄧㄇ</rt></ruby>|this|<ruby>[今日](/words/今日.md)<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>|<ruby>[今週](/words/今週.md)<rt>ㄍㄧㄇㄐㄨㄛ</rt></ruby>|<ruby>[今月](/words/今月.md)<rt>ㄍㄧㄇ⼔ㄊ</rt></ruby>|<ruby>[今年](/words/今年.md)<rt>ㄍㄧㄇㄋㄝㄋ</rt></ruby>|<ruby>[今世紀](/words/今世紀.md)<rt>ㄍㄧㄇㄙㄝㄍㄧ</rt></ruby>|
 |<ruby>[来](/words/来.md)<rt>ㄌㄚㄧ</rt></ruby>|next|<ruby>[来日](/words/来日.md)<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby>|<ruby>[来週](/words/来週.md)<rt>ㄌㄚㄧㄐㄨㄛ</rt></ruby>|<ruby>[来月](/words/来月.md)<rt>ㄌㄚㄧ⼔ㄊ</rt></ruby>|<ruby>[来年](/words/来年.md)<rt>ㄌㄚㄧㄋㄝㄋ</rt></ruby>|<ruby>[来世紀](/words/来世紀.md)<rt>ㄌㄚㄧㄙㄝㄍㄧ</rt></ruby>|
-|<ruby>[昨](/words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>|previous|<ruby>[昨日](/words/昨日.md)<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>|<ruby>[昨週](/words/昨週.md)<rt>ㄐㄚㄎㄐㄨㄛ</rt></ruby>|<ruby>[昨月](/words/昨月.md)<rt>ㄐㄚㄎ⼔ㄊ</rt></ruby>|<ruby>[昨年](/words/昨年.md)<rt>ㄐㄚㄎㄋㄝㄋ</rt></ruby>|[[昨世紀]]|
-|<ruby>[当](/words/当.md)<rt>ㄉㄚㄫ</rt></ruby>|current|<ruby>[当日](/words/当日.md)<rt>ㄉㄚㄫㄋㄧㄊ</rt></ruby>|[[当週]]|[[当月]]|[[当年]]|[[当世紀]]|
+|<ruby>[昨](/words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>|previous|<ruby>[昨日](/words/昨日.md)<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>|<ruby>[昨週](/words/昨週.md)<rt>ㄐㄚㄎㄐㄨㄛ</rt></ruby>|<ruby>[昨月](/words/昨月.md)<rt>ㄐㄚㄎ⼔ㄊ</rt></ruby>|<ruby>[昨年](/words/昨年.md)<rt>ㄐㄚㄎㄋㄝㄋ</rt></ruby>|<ruby>[昨世紀](/words/昨世紀.md)<rt>ㄐㄚㄎㄙㄝㄍㄧ</rt></ruby>|
+|<ruby>[当](/words/当.md)<rt>ㄉㄚㄫ</rt></ruby>|current|<ruby>[当日](/words/当日.md)<rt>ㄉㄚㄫㄋㄧㄊ</rt></ruby>|<ruby>[当週](/words/当週.md)<rt>ㄉㄚㄫㄐㄨㄛ</rt></ruby>|<ruby>[当月](/words/当月.md)<rt>ㄉㄚㄫ⼔ㄊ</rt></ruby>|<ruby>[当年](/words/当年.md)<rt>ㄉㄚㄫㄋㄝㄋ</rt></ruby>|[[当世紀]]|
 |<ruby>[翌](/words/翌.md)<rt>ㄧㄎ</rt></ruby>|following|<ruby>[翌日](/words/翌日.md)<rt>ㄧㄎㄋㄧㄊ</rt></ruby>|[[翌週]]|[[翌月]]|[[翌年]]|[[翌世紀]]|
 |<ruby>[前](/words/前.md)<rt>ㄐㄝㄋ</rt></ruby>|prior|<ruby>[前日](/words/前日.md)<rt>ㄐㄝㄋㄋㄧㄊ</rt></ruby>|[[前週]]|[[前月]]|[[前年]]|[[前世紀]]|
 |<ruby>[毎](/words/毎.md)<rt>ㄇㄛㄧ</rt></ruby>|every|<ruby>[毎日](/words/毎日.md)<rt>ㄇㄛㄧㄋㄧㄊ</rt></ruby>|[[毎週]]|[[毎月]]|[[毎年]]|[[毎世紀]]|
 |<ruby>[隔](/words/隔.md)<rt>ㄍㄚㄎ</rt></ruby>|every other|<ruby>[隔日](/words/隔日.md)<rt>ㄍㄚㄎㄋㄧㄊ</rt></ruby>|[[隔週]]|[[隔月]]|[[隔年]]|[[隔世紀]]|
-|<ruby>[連](/words/連.md)<rt>ㄌ⼶ㄋ</rt></ruby>|x over x|<ruby>[連日](/words/連日.md)<rt>ㄌ⼶ㄋㄋㄧㄊ</rt></ruby>|[[連週]]|[[連月]]|[[連年]]|[[連世紀]] |
+|<ruby>[連](/words/連.md)<rt>ㄌ⼶ㄋ</rt></ruby>|x over x|<ruby>[連日](/words/連日.md)<rt>ㄌ⼶ㄋㄋㄧㄊ</rt></ruby>|[[連週]]|[[連月]]|[[連年]]|<ruby>[連世紀](/words/連世紀.md)<rt>ㄌ⼶ㄋㄙㄝㄍㄧ</rt></ruby>|
 
 ## Week
 Disappointing to the Abrahamic religions, Asian weeks start on Monday
