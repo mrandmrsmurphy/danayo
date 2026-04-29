@@ -1,7 +1,7 @@
 ---
 stroke_count: 14
-date-last-perfect:
-size: 191
+date-last-perfect: 2026-04-28
+size: 190
 tags:
   - lookup
 ---
