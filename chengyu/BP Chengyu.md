@@ -23,7 +23,7 @@ characters:
   - 風 (char)
   - 順
 諺文: 읻팜뿡슌        # Hangul transcription of the full chengyu
-羅馬字: "'idpamfungsyun"  # Danayo romanisation
+羅馬字: "'idpamfungsyun"  # Dan'a'yo romanisation
 english: smooth sailing, bon voyage   # core meaning; brief
 mandarin: yīfānfēngshùn   # Pinyin, no tones required but include if known
 cantonese: jat1 faan4 fung1 seon6     # Jyutping
@@ -40,7 +40,7 @@ tags:
 ---
 ```
 
-**`origin`** drives category membership. Use the name of a classical source text (e.g. `"史記: 春申君列傳"`), a period or tradition (e.g. `"Ming period"`, `"Japanese 茶道"`), `"単亜語"` for Danayo-coined idioms, or `"Bible"` for Biblical idioms. This field determines which grouping file the chengyu belongs to.
+**`origin`** drives category membership. Use the name of a classical source text (e.g. `"史記: 春申君列傳"`), a period or tradition (e.g. `"Ming period"`, `"Japanese 茶道"`), `"単亜語"` for Dan'a'yo-coined idioms, or `"Bible"` for Biblical idioms. This field determines which grouping file the chengyu belongs to.
 
 **`characters`** lists each constituent character in order. Use the `X (char)` form when the character file carries that suffix; otherwise use the plain name.
 
@@ -118,7 +118,7 @@ The most important section for classical idioms. Include:
 
 For idioms of modern or non-Chinese origin (e.g. calques, Japanese coinages), explain that origin clearly and trace the phrase's adoption into the broader CJKV sphere.
 
-For Danayo-coined idioms (`origin: 単亜語`), explain the design intention of the idiom.
+For Dan'a'yo-coined idioms (`origin: 単亜語`), explain the design intention of the idiom.
 
 Classical quotations follow this format:
 ```markdown
@@ -129,7 +129,7 @@ Classical quotations follow this format:
 
 ### 4. `## Standard Form` *(omit if no meaningful variants)*
 
-Note any orthographic variants — simplified/traditional alternates, regional preferences, historical alternates. State which form is standard for Danayo and which forms are listed as aliases.
+Note any orthographic variants — simplified/traditional alternates, regional preferences, historical alternates. State which form is standard for Dan'a'yo and which forms are listed as aliases.
 
 ```markdown
 ## Standard Form

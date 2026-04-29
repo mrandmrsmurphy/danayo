@@ -7,7 +7,7 @@ tags:
 
 # Best Practices: Character Pages
 
-A character page is the canonical record for one 漢字 in Danayo: its orthography, pronunciations across all five CJKV languages, graphemic origin, phonological history, and its role in Danayo words and chengyu. Every page must be self-contained as a reference while also feeding the database via its frontmatter.
+A character page is the canonical record for one 漢字 in Dan'a'yo: its orthography, pronunciations across all five CJKV languages, graphemic origin, phonological history, and its role in Dan'a'yo words and chengyu. Every page must be self-contained as a reference while also feeding the database via its frontmatter.
 
 ---
 
@@ -32,16 +32,16 @@ middle_chinese_final: ɨ    # IPA symbol for the Middle Chinese final
 stroke_count: 13            # integer — total stroke count
 radical: 言                 # Kangxi radical name (character only, no number)
 skip_number: 1-7-6         # SKIP code as a string, three hyphen-separated integers
-grade_level: "2"            # Danayo grade: "1"–"6", "先進", or "名"
+grade_level: "2"            # Dan'a'yo grade: "1"–"6", "先進", or "名"
 pos: 名詞                   # part of speech: 名詞, 動詞, 性詞, 数詞, etc.
 english:                   # English gloss(es), as a list
   - poem
-羅馬字: si                  # Danayo romanisation
-諺文: 시                    # Hangul of the Danayo pronunciation
+羅馬字: si                  # Dan'a'yo romanisation
+諺文: 시                    # Hangul of the Dan'a'yo pronunciation
 joyo_level: "3"             # Japanese level — see Level links table below
 hsk_level: "2"              # HSK level — see Level links table below
 hanmun_edu_level: 中        # K level: 中 (MS), 高 (HS), 名 (name), or 無 (absent)
-danayo_id: 2230             # Danayo character ID (integer)
+danayo_id: 2230             # Dan'a'yo character unique ID (integer)
 mc_id: 351                  # Middle Chinese frequency rank 
 graphemic_classification: 寺  # phonetic component name (形声) or type name (象形/指事/会意)
 stand_in: 詩歌              # character itself, a required compound, or 名専字
@@ -102,7 +102,7 @@ When the character shares its name with a word file, add a callout **before** th
 >For the word, see [詩](words/詩.md)
 ```
 
-Use `[!tip]` for standard disambiguation. Use `[!warning]` when there is a restriction or easy confusion (e.g. a homographic radical alias, a character forbidden in Danayo).
+Use `[!tip]` for standard disambiguation. Use `[!warning]` when there is a restriction or easy confusion (e.g. a homographic radical alias, a character forbidden in Dan'a'yo).
 
 ### `meta-bind-embed` block
 
@@ -162,7 +162,7 @@ Open with a link to [[lookup/List of 象形]]. Describe what the character depic
 - [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) — [ㄙㄧ](syllables/ㄙㄧ.md)
 ```
 
-Three links in sequence: the SKIP leaf page, the Stroke count page, and the Danayo syllable page. Separate the syllable link with an em-dash `—`.
+Three links in sequence: the SKIP leaf page, the Stroke count page, and the Dan'a'yo syllable page. Separate the syllable link with an em-dash `—`.
 
 ---
 
@@ -172,7 +172,7 @@ Three links in sequence: the SKIP leaf page, the Stroke count page, and the Dana
 - 351st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄙㄧ](syllables/ㄙㄧ.md)
 ```
 
-Format: ordinal rank from `mc_id` + "most used character in Classical Chinese." Then `Ancient` followed by the CC initial link and CC final link — use the IPA symbol as the display text via the pipe alias. Close with `→` and the Danayo syllable link.
+Format: ordinal rank from `mc_id` + "most used character in Classical Chinese." Then `Ancient` followed by the CC initial link and CC final link — use the IPA symbol as the display text via the pipe alias. Close with `→` and the Dan'a'yo syllable link.
 
 The `[[Lookup/CC/initials/…]]` and `[[Lookup/CC/finals/…]]` links live **here**, embedded in this bullet. They must not float at the bottom of the file.
 
@@ -184,7 +184,7 @@ The `[[Lookup/CC/initials/…]]` and `[[Lookup/CC/finals/…]]` links live **her
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ```
 
-List all four levels in order: Danayo grade, HSK, Jōyō, Korean. Include all four — use the "absent" file when a level is missing.
+List all four levels in order: Dan'a'yo grade, HSK, Jōyō, Korean. Include all four — use the "absent" file when a level is missing.
 
 **Level file mapping:**
 
@@ -208,7 +208,7 @@ List all four levels in order: Danayo grade, HSK, Jōyō, Korean. Include all fo
 
 ## `## Words` section
 
-List every Danayo word that uses this character. Format: ruby-annotated wiki-link followed by an English gloss in quotes.
+List every Dan'a'yo word that uses this character. Format: ruby-annotated wiki-link followed by an English gloss in quotes.
 
 ```markdown
 ## Words
@@ -259,7 +259,7 @@ Set when:
 6. SKIP/Stroke bullet links all three targets (SKIP leaf, Stroke page, syllable page).
 7. MC bullet states the ordinal rank, embeds both CC links with IPA display text, and links the syllable.
 8. Levels bullet includes all four level links and they match the frontmatter values per the mapping table.
-9. Every Danayo word that uses this character appears in `## Words` with a gloss.
+9. Every Dan'a'yo word that uses this character appears in `## Words` with a gloss.
 10. Every chengyu that uses this character appears in `## Chengyu`.
 
 ---

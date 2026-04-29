@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-An **Obsidian vault** for *単亜語* (Danayo), a constructed zonal auxiliary language for the East Asian cultural sphere (Mandarin, Cantonese, Japanese, Korean, Vietnamese). There is no build system — all content is Markdown with YAML frontmatter, queried and displayed by Obsidian plugins.
+An **Obsidian vault** for *単亜語* (Dan'a'yo), a constructed zonal auxiliary language for the East Asian cultural sphere (Mandarin, Cantonese, Japanese, Korean, Vietnamese). There is no build system — all content is Markdown with YAML frontmatter, queried and displayed by Obsidian plugins.
 
 ## Setup
 
@@ -80,6 +80,7 @@ A growing number of file types have a `best practices` page, which documents the
 - [[lookup/Stroke/BP Stroke.md]]
 - [[syllables/BP syllables.md]]
 - [[characters/BP Characters.md]]
+- [[words/BP Words.md]]
 
 ## License
 

@@ -19,7 +19,7 @@ All six fields are required. `date-last-perfect` stays blank until the page is f
 ---
 date-last-perfect: YYYY-MM-DD   # leave blank until the page is complete
 size: 7                          # total number of character entries in the Characters section
-羅馬字: dan                       # Danayo romanisation
+羅馬字: dan                       # Dan'a'yo romanisation
 諺文: 단                          # Hangul representation
 注音: ㄉㄚㄋ                       # Bopomofo (matches the filename)
 english:                         # meaning(s) of the stand-alone character(s)

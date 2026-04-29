@@ -79,14 +79,14 @@ Always present. Contains exactly one entry: the radical character itself, listed
 
 ### Numbered entries — character format
 
-Each character that Danayo uses gets a numbered entry with a ruby-annotated link and an English gloss:
+Each character that Dan'a'yo uses gets a numbered entry with a ruby-annotated link and an English gloss:
 
 ```markdown
 N. <ruby>[X](../../characters/X%20(char).md)<rt>注音</rt></ruby> - english gloss
 ```
 
 - Use the `(char)` suffix in the link path when the character file has it.
-- The `rt` content is the Danayo 注音 pronunciation.
+- The `rt` content is the Dan'a'yo 注音 pronunciation.
 - The English gloss should be brief — one to four words.
 - Numbering is continuous across all `+N` subsections; do not restart at 1 for each group.
 

@@ -7,7 +7,7 @@ tags:
 
 # Best Practices: Stroke Pages
 
-A stroke page is a complete, SKIP-grouped inventory of every 漢字 in Danayo with a given total stroke count. The goal is to function as a lookup table: given a stroke count, a reader can find any character by its SKIP shape code.
+A stroke page is a complete, SKIP-grouped inventory of every 漢字 in Dan'a'yo with a given total stroke count. The goal is to function as a lookup table: given a stroke count, a reader can find any character by its SKIP shape code.
 
 ---
 
@@ -49,7 +49,7 @@ The main body is a `## Characters` section with two subsections.
 
 ### `### In Use`
 
-An unordered list, one line per SKIP code, of every character at this stroke count that Danayo uses. SKIP codes are listed in ascending order — first by the first digit (1 before 2 before 3 before 4), then by the second digit, then the third.
+An unordered list, one line per SKIP code, of every character at this stroke count that Dan'a'yo uses. SKIP codes are listed in ascending order — first by the first digit (1 before 2 before 3 before 4), then by the second digit, then the third.
 
 The format for each line:
 
@@ -59,7 +59,7 @@ The format for each line:
 
 - The SKIP code is written as three hyphen-separated numbers (e.g. `1-1-2`), not linked.
 - Each character uses a ruby-annotated wiki-link. Use the `(char)` pipe alias form when the character file has that suffix: `[[小 (char)|小]]`. For files without the suffix: `[[刃]]`.
-- The `rt` content is the Danayo 注音 pronunciation.
+- The `rt` content is the Dan'a'yo 注音 pronunciation.
 - Multiple characters sharing the same SKIP code appear on one line, separated by commas.
 
 Full example for a 2-stroke page:
@@ -78,7 +78,7 @@ Full example for a 2-stroke page:
 
 ### `### Aliases`
 
-An unordered list of glyphs at this stroke count that are not full Danayo characters: ancient variants, component-only forms, stroke symbols, etc. These are plain text — no links, no ruby. Use `-->` to indicate what a glyph redirects to:
+An unordered list of glyphs at this stroke count that are not full Dan'a'yo characters: ancient variants, component-only forms, stroke symbols, etc. These are plain text — no links, no ruby. Use `-->` to indicate what a glyph redirects to:
 
 ```markdown
 ### Aliases
