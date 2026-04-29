@@ -14,10 +14,14 @@ views:
       - english
       - hanmun_edu_level
       - japanese
-      - cantonese
       - 羅馬字
-      - vietnamese
+      - file.mtime
+      - date-last-perfect
     sort:
+      - property: file.mtime
+        direction: ASC
+      - property: date-last-perfect
+        direction: DESC
       - property: korean
         direction: DESC
       - property: vietnamese
@@ -62,8 +66,6 @@ views:
         direction: ASC
       - property: pos
         direction: DESC
-      - property: date-last-perfect
-        direction: ASC
       - property: japanese
         direction: DESC
       - property: file.name
