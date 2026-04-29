@@ -1,7 +1,7 @@
 ---
 stroke_count: 15
-date-last-perfect:
-size: 204
+date-last-perfect: 2026-04-28
+size: 198
 tags:
   - lookup
 ---
@@ -10,7 +10,6 @@ tags:
 ## Characters
 ### In Use
 - 1-2-13: <ruby>[[僻]]<rt>ㄆㄝㄎ</rt></ruby>, <ruby>[[億]]<rt>ㄧㄎ</rt></ruby>, <ruby>[[僵]]<rt>ㄍ⼘ㄫ</rt></ruby>, <ruby>[[儀]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[凜 (char)|凜]]<rt>ㄌㄨㄇ</rt></ruby>
-- 1-3-11: <ruby>[[噌]]<rt>ㄑㄨㄫ</rt></ruby>
 - 1-3-12: <ruby>[[幡]]<rt>ㄈㄛㄋ</rt></ruby>, <ruby>[[撤 (char)|撤]]<rt>ㄉㄝㄊ</rt></ruby>, <ruby>[[幟 (char)|幟]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[潜]]<rt>ㄐㄝㄇ</rt></ruby>, <ruby>[[嘲]]<rt>ㄑㄚㄨ</rt></ruby>, <ruby>[[撇 (char)|撇]]<rt>ㄆㄝㄊ</rt></ruby>, <ruby>[[潘]]<rt>ㄆㄚㄋ</rt></ruby>, <ruby>[[澈]]<rt>ㄐㄝㄊ</rt></ruby>, <ruby>[[憬]]<rt>ㄍ⼄ㄫ</rt></ruby>, <ruby>[[憫 (char)|憫]]<rt>ㄇㄧㄋ</rt></ruby>, <ruby>[[潰 (char)|潰]]<rt>ㄏㄛㄧ</rt></ruby>, <ruby>[[撞]]<rt>ㄊ⺢ㄫ</rt></ruby>, <ruby>[[憧]]<rt>ㄑㄛㄫ</rt></ruby>, <ruby>[[撐]]<rt>ㄊㄚㄫ</rt></ruby>, <ruby>[[播]]<rt>ㄅㄚ</rt></ruby>, <ruby>[[撮 (char)|撮]]<rt>ㄐ⺢ㄊ</rt></ruby>, <ruby>[[潤 (char)|潤]]<rt>ㄋㄨㄋ</rt></ruby>, <ruby>[[墟]]<rt>ㄎ⼄</rt></ruby>, <ruby>[[潗]]<rt>ㄐㄨㄆ</rt></ruby>, <ruby>[[嬌]]<rt>ㄍ⼘ㄨ</rt></ruby>, <ruby>[[潔]]<rt>ㄍㄝㄊ</rt></ruby>, <ruby>[[嬉]]<rt>ㄏㄧ</rt></ruby>, <ruby>[[澄]]<rt>ㄑㄚㄫ</rt></ruby>, <ruby>[[惮]]<rt>ㄉㄚㄋ</rt></ruby>, <ruby>[[撫]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[憤]]<rt>ㄅㄨㄋ</rt></ruby>, <ruby>[[噴]]<rt>ㄆㄛㄋ</rt></ruby>, <ruby>[[衝 (char)|衝]]<rt>ㄑㄛㄫ</rt></ruby>, <ruby>[[墳]]<rt>ㄅㄨㄋ</rt></ruby>, <ruby>[[撲 (char)|撲]]<rt>ㄆㄛㄎ</rt></ruby>, <ruby>[[潟]]<rt>ㄙㄝㄎ</rt></ruby>, <ruby>[[嘱]]<rt>ㄐㄛㄎ</rt></ruby>, <ruby>[[撹]]<rt>ㄍ⼄ㄨ</rt></ruby>, <ruby>[[嘩]]<rt>ㄏ⺢</rt></ruby>
 - 1-4-11: <ruby>[[槻]]<rt>ㄍㄨㄧ</rt></ruby>, <ruby>[[標]]<rt>ㄅ⼄</rt></ruby>, <ruby>[[膠]]<rt>ㄍ⼄ㄨ</rt></ruby>, <ruby>[[膣 (char)|膣]]<rt>ㄐㄧㄊ</rt></ruby>, <ruby>[[璃 (char)|璃]]<rt>ㄌㄜ</rt></ruby>, <ruby>[[膝]]<rt>ㄙㄜㄊ</rt></ruby>, <ruby>[[横]]<rt>ㄏ⺢ㄫ</rt></ruby>, <ruby>[[鴎 (char)|鴎]]<rt>ㄛㄨ</rt></ruby>, <ruby>[[権]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[槽]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[樟]]<rt>ㄐㄚㄫ</rt></ruby>
 - 1-5-10: <ruby>[[稽]]<rt>ㄍㄝㄧ</rt></ruby>, <ruby>[[稼]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[確]]<rt>ㄎㄚㄎ</rt></ruby>, <ruby>[[稷]]<rt>ㄐㄧㄎ</rt></ruby>, <ruby>[[稿 (char)|稿]]<rt>ㄍㄚㄨ</rt></ruby>, <ruby>[[碼 (char)|碼]]<rt>ㄇㄚ</rt></ruby>, <ruby>[[磋]]<rt>ㄑㄚ</rt></ruby>, <ruby>[[穂 (char)|穂]]<rt>ㄙㄨㄧ</rt></ruby>
@@ -38,7 +37,6 @@ tags:
 - 3-6-9: <ruby>[[慮]]<rt>ㄌ⼄</rt></ruby>
 - 3-7-8: <ruby>[[趣]]<rt>ㄑㄨ</rt></ruby>
 - 3-8-7: <ruby>[[閲]]<rt>⼶ㄊ</rt></ruby>, <ruby>[[魅]]<rt>ㄇㄧㄜ</rt></ruby>
-- 4-8-2: <ruby>[[垂]]<rt>ㄐㄨㄧ</rt></ruby>
 - 4-15-4: <ruby>[[畿]]<rt>ㄍㄧㄜ</rt></ruby>
 
 ### Aliases
