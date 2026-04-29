@@ -1,0 +1,24 @@
+filters:
+  and:
+    - or:
+        - file.inFolder("lookup/SKIP/SKIP-1")
+        - file.inFolder("lookup/SKIP/SKIP-2")
+        - file.inFolder("lookup/SKIP/SKIP-3")
+        - file.inFolder("lookup/SKIP/SKIP-4")
+    - skip_number != ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - skip_number
+      - stroke_count
+      - size
+      - date-last-perfect
+    sort:
+      - property: size
+        direction: DESC
+      - property: skip_number
+        direction: ASC
+      - property: file.name
+        direction: ASC

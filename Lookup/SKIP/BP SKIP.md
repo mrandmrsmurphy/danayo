@@ -18,7 +18,7 @@ SKIP (System of Kanji Indexing by Patterns) assigns every 漢字 a three-number 
 | 1 | left-right split | strokes in **left** half | strokes in **right** half |
 | 2 | top-bottom split | strokes in **top** half | strokes in **bottom** half |
 | 3 | enclosure | strokes in **surrounding** part | strokes in **enclosed** part |
-| 4 | undivided | *(ignored — use 0)* | **total** strokes | subtype (see below) |
+| 4 | other | **total** strokes | subtype (see below) |
 
 SKIP-4 subtypes: **1** = prominent top horizontal line (雨), **2** = prominent bottom horizontal line (白), **3** = prominent vertical line (虫), **4** = none of the above (丼).
 
