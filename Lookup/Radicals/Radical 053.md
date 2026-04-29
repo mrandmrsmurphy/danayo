@@ -1,7 +1,7 @@
 ---
 size: 24
 tags: [lookup]
-
+radical: 广
 ---
 
 
