@@ -90,8 +90,8 @@ Single parent link:
 Characters are listed in a numbered list. The canonical entry uses a ruby-annotated link and an English gloss:
 
 ```markdown
-1. <ruby>[壇](characters/壇%20(char).md)<rt>ㄉㄚㄋ</rt></ruby> - altar
-2. <ruby>[競](/characters/競.md)<rt>ㄍ⼶ㄫ</rt></ruby> - compete
+1. <ruby>[壇](characters/壇%20(char).md)<rt>ㄉㄚㄋ</rt></ruby> "altar"
+2. <ruby>[競](/characters/競.md)<rt>ㄍ⼶ㄫ</rt></ruby> "compete"
 ```
 
 
