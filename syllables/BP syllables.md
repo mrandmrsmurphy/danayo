@@ -74,21 +74,17 @@ Replace the auto-generated `dataviewjs` block entirely with a hand-curated numbe
 ### Naming
 ```
 
-### Common
-
-Characters that can be used as standalone Danayo words at the primary level. These have a `stand_in` value in their frontmatter.
-
-Entry format — link the character file, quote the meaning, then link to the word file with `-->`:
+### Stand-alone
+All characters have a `stand_in` value in their frontmatter.  If it is essentially the same value as the character filename, they are stand-alone words.  Their entry format is to link the character file, quote the meaning, then link to the word file with `-->`:
 
 ```markdown
 1. [[壇 (char)]] "altar" --> [[壇]]
 2. [[但 (char)]] "only, but" --> [[但]]
 ```
 
-Use the `[[X (char)]]` wiki-link form when the character file uses the `(char)` naming convention. The word link after `-->` is the plain `[[X]]` wiki-link (or `[[X|displayText]]` if needed).
+Use the `[[X (char)]]` wiki-link form because these character file uses the `(char)` naming convention. The word link after `-->` is the plain `[[X]]` wiki-link.
 
-### Advanced
-
+### Bound
 Characters that exist in Danayo but only inside compound words — they cannot stand alone. Use a `but requires` clause with a ruby-annotated compound link:
 
 ```markdown
@@ -96,18 +92,20 @@ Characters that exist in Danayo but only inside compound words — they cannot s
 4. [[蛋]] "egg white", but requires [[蛋白]]
 ```
 
-Include the ruby annotation whenever the compound's pronunciation is non-obvious. Omit it for very short or obvious compounds.
+Include the ruby annotation whenever the compound's pronunciation's is available.
+
+### Levels
+Characters that have a Dan'a'yo `grade_level` of 1-6 are the `common` characters. Characters that have a Dan'a'yo `grade_level` of `先進` are `advanced` characters.  Lastly, there is the `名` or `naming` level.
 
 ### Naming
-
-Characters that only appear in proper names or are otherwise unavailable as Danayo vocabulary. Two sub-cases:
+Some Naming Characters only appear in proper names or are otherwise unavailable as Dan'a'yo vocabulary:
 
 ```markdown
 5. [[簞]] "bamboo basket", but it's a 名専字
-6. [[岡]] "hill", but requires <ruby>[[山岡]]<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby>
+6. [[擺]] "pendulum", but it's a 名専字
 ```
 
-Use **名専字** for characters that are restricted to names. Characters that technically require a compound but also belong to this category can note both.
+Use **名専字** for characters that are restricted to names. Characters that technically require a compound should note the compound.
 
 ---
 
@@ -118,7 +116,7 @@ End every page with a `dataview` block that queries characters by 諺文:
 ```markdown
 ## Data check
 ​```dataview
-TABLE file.link AS "Character", 注音 AS "Sound", grade_level AS "Grade"
+TABLE english AS "EN", stand_in AS "SI", grade_level AS "Grade"
 FROM "characters"
 WHERE 注音 = "ㄙㄚ"
 SORT file.name ASC
