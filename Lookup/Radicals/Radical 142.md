@@ -46,7 +46,7 @@ tags:
 ### +8 Strokes
 20. <ruby>[蜘](../../characters/蜘.md)<rt>ㄐㄧ</rt></ruby> - spider
 21. <ruby>[蜜](../../characters/蜜.md)<rt>ㄇㄧㄊ</rt></ruby> - honey
-22. <ruby>[蝋](../../characters/蝋.md)<rt>ㄌㄚㄆ</rt></ruby> - wax
+22. <ruby>[蠟](../../characters/蠟.md)<rt>ㄌㄚㄆ</rt></ruby> - wax
 
 ### +9 Strokes
 23. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada

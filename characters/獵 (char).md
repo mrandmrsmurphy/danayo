@@ -31,6 +31,7 @@ graphemic_classification: 鼠
 stand_in: 獵
 aliases:
   - 猟
+  - 猎
 注音: ㄌㄛㄆ
 tags:
   - character
@@ -44,3 +45,5 @@ tags:
 - Added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 葉三]]
+
+- Note that we do not follow Shinjitai here.  The simplification of [[鼠]]/巤 to 鼡 is unintelligible to non-Japanese.

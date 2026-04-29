@@ -211,7 +211,7 @@ views:
       - english
     sort:
       - property: size
-        direction: DESC
+        direction: ASC
       - property: 羅馬字
         direction: DESC
       - property: date-last-perfect

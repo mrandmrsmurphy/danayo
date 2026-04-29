@@ -27,7 +27,7 @@ language: English
 - nest = [[鳥巣]];
 - lair, hive, pollinate, swarm, graze
 - group = [[獣群]];
-- to hunt = [[猟]]
+- to hunt = [[獵]]
 - herd, tame, stalk
 
 ## Taxonomy
