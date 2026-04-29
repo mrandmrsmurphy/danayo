@@ -1,8 +1,8 @@
 ---
-mandarin: "tiē"
+mandarin: tiē
 cantonese: tip3
-korean: "첩"
-korean_native: "문서"
+korean: 첩
+korean_native: 문서
 japanese:
   - JOU
   - CHOU
@@ -12,27 +12,27 @@ vietnamese:
   - thiếp
   - thiệp
   - thếp
-middle_chinese_initial: "tʰ"
+middle_chinese_initial: tʰ
 middle_chinese_final: ep
 stroke_count: 8
-radical: "巾"
+radical: 巾
 skip_number: 1-3-5
-grade_level: "先進"
-pos: ""
+grade_level: 先進
+pos: 名詞
 english:
   - invitation
   - card
 羅馬字: tob
-諺文: "톱"
-joyo_level: "日本人名用漢字"
+諺文: 톱
+joyo_level: 日本人名用漢字
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7041
 mc_id: 5410
-graphemic_classification: "占"
-stand_in: "帖"
+graphemic_classification: 占
+stand_in: 帖
 aliases:
-注音: "ㄊㄛㄆ"
+注音: ㄊㄛㄆ
 tags:
   - character
 ---

@@ -6,7 +6,6 @@ korean_native: 날
 japanese:
   - SHUTSU
   - SUI
-japanese_native: ""
 japanese_native: で
 vietnamese:
   - xuất
@@ -39,14 +38,16 @@ kwin: true
 ---
 >[!tip] This is a page about the character 出.
 >For the word, see [出](words/出.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 術]]
+### Derived Characters
+- [[黜]]
+
+## Words
 - [[出身]] "background, be descended from, origin"
 - [[出現]] "appear,emerge,be revealed"
 - [[出血]] "bleed,hemorrhage"
