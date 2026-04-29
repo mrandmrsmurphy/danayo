@@ -23,7 +23,7 @@ korean: 시                  # Sino-Korean Hangul
 korean_native: 시           # Native Korean descriptive gloss
 japanese:                  # on-yomi in rōmaji, as a list
   - SHI
-japanese_native:           # kun-yomi in hiragana, as a list (empty list if none)
+japanese_native:           # kun-yomi in hiragana, as a list 
   - うた
 vietnamese:                # Sino-Vietnamese reading(s), as a list
   - thi
@@ -32,7 +32,7 @@ middle_chinese_final: ɨ    # IPA symbol for the Middle Chinese final
 stroke_count: 13            # integer — total stroke count
 radical: 言                 # Kangxi radical name (character only, no number)
 skip_number: 1-7-6         # SKIP code as a string, three hyphen-separated integers
-grade_level: "2"            # Danayo grade: "1"–"6", "名" (naming-only), or blank
+grade_level: "2"            # Danayo grade: "1"–"6", "先進", or "名"
 pos: 名詞                   # part of speech: 名詞, 動詞, 性詞, 数詞, etc.
 english:                   # English gloss(es), as a list
   - poem
@@ -40,17 +40,17 @@ english:                   # English gloss(es), as a list
 諺文: 시                    # Hangul of the Danayo pronunciation
 joyo_level: "3"             # Japanese level — see Level links table below
 hsk_level: "2"              # HSK level — see Level links table below
-hanmun_edu_level: 中        # Korean hanmun: 中 (middle school), 高 (high school), 無 (absent)
+hanmun_edu_level: 中        # K level: 中 (MS), 高 (HS), 名 (name), or 無 (absent)
 danayo_id: 2230             # Danayo character ID (integer)
-mc_id: 351                  # Middle Chinese frequency rank (integer — lower = more common)
+mc_id: 351                  # Middle Chinese frequency rank 
 graphemic_classification: 寺  # phonetic component name (形声) or type name (象形/指事/会意)
 stand_in: 詩歌              # character itself, a required compound, or 名専字
-aliases:                   # simplified, historical, regional variants; empty list if none
+aliases:                   # simplified, historical, regional variants
   - 诗
 注音: ㄙㄧ                   # Bopomofo pronunciation
 date-last-perfect: YYYY-MM-DD  # leave blank until all criteria are met
-kwin: true                 # *(optional)* boolean — keyword character flag
-tags:
+kwin: true                 # boolean — if "same" as Korean
+tags:                      # tag always present
   - character
 ---
 ```
@@ -66,15 +66,15 @@ This single field encodes both the graphemic type and, for 形声 characters, th
 | `会意` (or `會意`) | compound ideograph — components combine to make meaning |
 | any character (e.g. `寺`, `工`) | 形声 — value names the **phonetic component** |
 
-Do **not** set this field to `形声`. For 形声 characters, store the phonetic component name.
+Do **not** set this field to `形声`. For 形声 characters, store the phonetic component character.
 
 ### `stand_in`
 
-Controls the character's role in Danayo vocabulary:
+Controls the character's role in Dan'a'yo vocabulary:
 
-- Character's own name (`stand_in: 詩`) — it is a standalone Danayo word
+- Character's own name (`stand_in: 詩`) — it is a standalone Dan'a'yo word
 - A compound (`stand_in: 詩歌`) — it only appears inside that compound, which is the actual word
-- `名専字` — restricted to proper names, no standalone Danayo use
+- `名専字` — restricted to proper names, no standalone Dan'a'yo use
 
 ### `mc_id`
 
@@ -85,12 +85,12 @@ The frequency rank in Classical Chinese; 351 means the 351st most-used character
 ## Body structure
 
 ```
-[disambiguation callout — optional]
+[disambiguation callout — as needed]
 [meta-bind-embed block — required, must be first or directly after callout]
 ## Notes
 ## Words
-## Chengyu       ← optional
-## Derived Characters  ← optional
+## Chengyu       ← as needed
+## Derived Characters  ← as needed
 ```
 
 ### Disambiguation callout *(optional)*

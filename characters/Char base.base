@@ -17,6 +17,7 @@ views:
       - 羅馬字
       - file.mtime
       - date-last-perfect
+      - grade_level
     sort:
       - property: file.mtime
         direction: ASC
