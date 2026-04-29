@@ -5,7 +5,6 @@ korean: 각
 korean_native: 각각
 japanese:
   - KAKU
-japanese_native: ""
 japanese_native: おのおの
 vietnamese:
   - các

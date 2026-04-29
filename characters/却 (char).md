@@ -5,7 +5,6 @@ korean: 각
 korean_native: 물리칠
 japanese:
 - KYAKU
-japanese_native: ''
 japanese_native: かえ
 vietnamese:
   - khước

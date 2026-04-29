@@ -6,7 +6,6 @@ korean_native: "될"
 japanese:
   - KA
   - KE
-japanese_native: ""
 japanese_native: ば
 vietnamese:
   - goá

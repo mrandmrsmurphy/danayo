@@ -6,7 +6,6 @@ korean_native: "깎을"
 japanese:
   - SAKU
   - SHOU
-japanese_native: ""
 japanese_native: けず
 vietnamese:
   - tước

@@ -5,7 +5,6 @@ korean: "철"
 korean_native: "볼록할"
 japanese:
   - TOTSU
-japanese_native: ""
 japanese_native: でこ
 vietnamese:
   - đột

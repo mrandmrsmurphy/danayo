@@ -6,7 +6,6 @@ korean_native: "기쁠"
 japanese:
   - KI
   - SHI
-japanese_native: ""
 japanese_native: よろこ
 vietnamese:
   - hẻ

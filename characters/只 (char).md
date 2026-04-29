@@ -5,7 +5,6 @@ korean: 지
 korean_native: 다만
 japanese:
   - SHI
-japanese_native: ""
 japanese_native: ただ
 vietnamese:
   - chích

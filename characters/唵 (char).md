@@ -6,7 +6,6 @@ korean_native: "머금을"
 japanese:
   - AN
   - ON
-japanese_native: ""
 japanese_native: ふく
 vietnamese:
   - úm

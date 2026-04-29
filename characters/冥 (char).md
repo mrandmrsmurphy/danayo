@@ -5,7 +5,6 @@ korean: 명
 korean_native: 어두울
 japanese:
   - MEI
-japanese_native: ""
 japanese_native: くら
 vietnamese:
   - minh

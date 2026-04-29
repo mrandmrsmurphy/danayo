@@ -6,7 +6,6 @@ korean_native: "나눌"
 japanese:
   - BETSU
   - BECHI
-japanese_native: ""
 japanese_native: わか
 vietnamese:
   - biết

@@ -6,7 +6,6 @@ korean_native: "먹을"
 japanese:
   - KITSU
   - KEKI
-japanese_native: ""
 japanese_native: の
 vietnamese:
   - khiết

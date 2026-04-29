@@ -5,7 +5,6 @@ korean: "획"
 korean_native: "그을"
 japanese:
   - KAKU
-japanese_native: ""
 japanese_native: わ
 vietnamese:
   - dạch

@@ -7,7 +7,6 @@ japanese:
   - SEN
   - KAN
   - KOU
-japanese_native: ""
 japanese_native: わた
 vietnamese:
   - cắng

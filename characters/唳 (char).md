@@ -5,7 +5,6 @@ korean: "려"
 korean_native: "울"
 japanese:
   - REI
-japanese_native: ""
 japanese_native: れつ
 vietnamese:
   - lệ

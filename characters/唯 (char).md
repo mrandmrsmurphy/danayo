@@ -6,7 +6,6 @@ korean_native: 생각할
 japanese:
   - YUI
   - I
-japanese_native: ""
 japanese_native: ただ
 vietnamese:
   - duy

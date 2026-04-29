@@ -5,7 +5,6 @@ korean: "사"
 korean_native: "풀"
 japanese:
   - SHA
-japanese_native: ""
 japanese_native: おろ
 vietnamese:
   - dỡ

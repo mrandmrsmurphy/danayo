@@ -5,7 +5,6 @@ korean: "광"
 korean_native: "빛"
 japanese:
   - KOU
-japanese_native: ""
 japanese_native: ひか
 vietnamese:
   - cuông

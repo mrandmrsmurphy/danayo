@@ -5,7 +5,6 @@ korean: "전"
 korean_native: "가위"
 japanese:
   - SEN
-japanese_native: ""
 japanese_native: き
 vietnamese:
   - tiễn

@@ -5,7 +5,6 @@ korean: "름"
 korean_native: "찰"
 japanese:
   - RIN
-japanese_native: ""
 japanese_native: きびし
 vietnamese:
   - lẫm

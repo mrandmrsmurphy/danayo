@@ -6,7 +6,6 @@ korean_native: 의지할
 japanese:
   - I
   - KI
-japanese_native: ""
 japanese_native: よ
 vietnamese:
   - ấy

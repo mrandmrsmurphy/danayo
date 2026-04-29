@@ -7,7 +7,6 @@ japanese:
   - AI
   - E
   - WA
-japanese_native: ""
 japanese_native: かい
 vietnamese:
   - oa

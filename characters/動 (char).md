@@ -5,7 +5,6 @@ korean: 동
 korean_native: 움직일
 japanese:
   - DOU
-japanese_native: ""
 japanese_native: うご
 vietnamese:
   - động

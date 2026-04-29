@@ -5,7 +5,6 @@ korean: "진"
 korean_native: 입술
 japanese:
   - SHIN
-japanese_native: ""
 japanese_native: くちびる
 vietnamese:
   - thần

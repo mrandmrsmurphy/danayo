@@ -5,7 +5,6 @@ korean: "두"
 korean_native: "투구"
 japanese:
   - TOU
-japanese_native: ""
 japanese_native: かぶと
 vietnamese:
   - đâu

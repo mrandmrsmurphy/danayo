@@ -5,7 +5,6 @@ korean: "최"
 korean_native: "재촉할"
 japanese:
   - SAI
-japanese_native: ""
 japanese_native: もよう
 vietnamese:
   - thoi

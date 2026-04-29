@@ -6,7 +6,6 @@ korean_native: 갈
 japanese:
   - KYO
   - KO
-japanese_native: ""
 japanese_native: さ
 vietnamese:
   - khứ

@@ -5,7 +5,6 @@ korean: "탁"
 korean_native: "쫄"
 japanese:
   - TAKU
-japanese_native: ""
 japanese_native: ついば
 vietnamese:
   - chác

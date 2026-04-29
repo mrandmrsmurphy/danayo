@@ -5,7 +5,6 @@ korean: "우"
 korean_native: "또"
 japanese:
   - YUU
-japanese_native: ""
 japanese_native: また
 vietnamese:
   - hựu

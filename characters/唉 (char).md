@@ -8,7 +8,6 @@ japanese:
   - KI
   - AI
   - I
-japanese_native: ""
 japanese_native: ああ
 vietnamese:
   - ai

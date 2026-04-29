@@ -6,7 +6,6 @@ korean_native: "곁"
 japanese:
   - BOU
   - HOU
-japanese_native: ""
 japanese_native: かたわ
 vietnamese:
   - bàng

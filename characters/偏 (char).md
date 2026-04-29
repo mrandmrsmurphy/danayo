@@ -5,7 +5,6 @@ korean: "편"
 korean_native: "치우칠"
 japanese:
   - HEN
-japanese_native: ""
 japanese_native: かたよ
 vietnamese:
   - thiên

@@ -7,7 +7,6 @@ japanese:
 - DAI
 - TAI
 - I
-japanese_native: ''
 japanese_native: うてな
 vietnamese:
   - hai
