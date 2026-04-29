@@ -1,7 +1,7 @@
 ---
-mandarin: "liè"
-cantonese: "lip6"
-korean: "렵"
+mandarin: liè
+cantonese: lip6
+korean: 렵
 korean_native: 사냥
 japanese:
   - RYOU
@@ -30,6 +30,7 @@ mc_id: 1334
 graphemic_classification: 鼠
 stand_in: 獵
 aliases:
+  - 猟
 注音: ㄌㄛㄆ
 tags:
   - character
