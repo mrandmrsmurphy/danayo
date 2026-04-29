@@ -210,9 +210,9 @@ views:
       - 諺文
       - english
     sort:
-      - property: 羅馬字
-        direction: DESC
       - property: size
+        direction: DESC
+      - property: 羅馬字
         direction: DESC
       - property: date-last-perfect
         direction: ASC
