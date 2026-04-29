@@ -79,6 +79,7 @@ A growing number of file types have a `best practices` page, which documents the
 - [[lookup/Radicals/BP Radicals.md]]
 - [[lookup/Stroke/BP Stroke.md]]
 - [[syllables/BP syllables.md]]
+- [[characters/BP Characters.md]]
 
 ## License
 

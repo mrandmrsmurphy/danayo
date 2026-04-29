@@ -201,6 +201,7 @@ List all four levels in order: Danayo grade, HSK, Jōyō, Korean. Include all fo
 | `joyo_level` | `人名用字` | `[[lookup/Japanese/Jinmeiyō]]` |
 | `hanmun_edu_level` | `中` | `[[lookup/Korean/Korean MS]]` |
 | `hanmun_edu_level` | `高` | `[[lookup/Korean/Korean HS]]` |
+| `hanmun_edu_level` | `名` | `[[Lookup/Korean/Korean Name X]]` |
 | `hanmun_edu_level` | `無` | `[[lookup/Korean/Korean Missing]]` |
 
 ---
@@ -216,16 +217,15 @@ List every Danayo word that uses this character. Format: ruby-annotated wiki-lin
 - <ruby>[[唐詩]]<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby> "Tang poetry"
 ```
 
-- The `<rt>` content is the full Danayo Bopomofo pronunciation of the word.
+- The `<rt>` content is the full Dan'a'yo Bopomofo pronunciation of the word.
 - The English gloss in quotes follows the ruby element.
 - Order: most common or most central words first.
-- Omit ruby only when the pronunciation is completely transparent from the constituent characters; including it is always preferred.
 
 ---
 
 ## `## Chengyu` section *(optional)*
 
-Include when the character appears in one or more chengyu. Plain wiki-links with a short English gloss. No ruby — chengyu have their own pages with full pronunciation data.
+Include when the character appears in one or more chengyu. Plain wiki-links with a short English gloss. 
 
 ```markdown
 ## Chengyu
