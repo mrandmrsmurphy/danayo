@@ -18,8 +18,8 @@ grade_level: "3"
 pos: ""
 english:
   - namely
-羅馬字: "'wi"
-諺文: 위
+羅馬字: "'wen"
+諺文: 원
 joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -30,7 +30,7 @@ stand_in: 為
 aliases:
   - 爲
   - 为
-注音: ㄨㄧ
+注音: ⼔ㄋ
 tags:
   - character
 ---
