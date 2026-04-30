@@ -21,7 +21,7 @@ english:
 羅馬字: jen
 諺文: "전"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7395
 mc_id: 4439

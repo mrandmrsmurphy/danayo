@@ -26,7 +26,7 @@ english:
 羅馬字: gui
 諺文: 귀
 joyo_level: "5"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 4079
 mc_id: 1673

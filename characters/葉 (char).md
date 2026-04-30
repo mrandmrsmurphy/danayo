@@ -31,7 +31,7 @@ english:
 羅馬字: "'yob"
 諺文: 욥
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2218
 mc_id: 1145

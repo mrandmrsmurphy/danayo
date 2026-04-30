@@ -24,7 +24,7 @@ english:
 羅馬字: "'wei"
 諺文: "웨"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4073
 mc_id: 1045

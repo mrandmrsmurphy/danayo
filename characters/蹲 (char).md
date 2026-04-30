@@ -23,7 +23,7 @@ english:
 羅馬字: jon
 諺文: "존"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "無"
 danayo_id: 7266
 mc_id: 4144

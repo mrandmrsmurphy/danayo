@@ -22,7 +22,7 @@ english:
 羅馬字: han
 諺文: "한"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5079
 mc_id: 999

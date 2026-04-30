@@ -2147,5 +2147,7 @@ views:
       - file
       - file.path
       - file.links.length
+    columnSize:
+      note.hsk_level: 51
 
 ```

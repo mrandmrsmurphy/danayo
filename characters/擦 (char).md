@@ -26,7 +26,7 @@ english:
 羅馬字: cad
 諺文: "찯"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6325
 mc_id: 0

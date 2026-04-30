@@ -22,7 +22,7 @@ english:
 羅馬字: "fǝn"
 諺文: "쁜"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5271
 mc_id: 1601

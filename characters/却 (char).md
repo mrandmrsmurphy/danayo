@@ -23,7 +23,7 @@ english:
 羅馬字: kyag
 諺文: 캭
 joyo_level: 高等
-hsk_level: ''
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5293
 mc_id: 9007

@@ -24,7 +24,7 @@ english:
 羅馬字: gwan
 諺文: "관"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7378
 mc_id: 0

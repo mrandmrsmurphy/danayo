@@ -20,7 +20,7 @@ english:
 羅馬字: dwang
 諺文: "돵"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 4205
 mc_id: 7394

@@ -22,7 +22,7 @@ english:
 羅馬字: gan
 諺文: 간
 joyo_level: ''
-hsk_level: ''
+hsk_level: "2"
 hanmun_edu_level: ''
 danayo_id: 7032
 mc_id: 6224

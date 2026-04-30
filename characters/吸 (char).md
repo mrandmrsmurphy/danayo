@@ -28,7 +28,7 @@ english:
 羅馬字: hib
 諺文: 힙
 joyo_level: "6"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4053
 mc_id: 2349

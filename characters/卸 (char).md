@@ -24,7 +24,7 @@ english:
 羅馬字: sya
 諺文: "샤"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "無"
 danayo_id: 7058
 mc_id: 6746

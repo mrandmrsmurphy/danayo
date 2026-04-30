@@ -21,7 +21,7 @@ english:
 羅馬字: cau
 諺文: "찻"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "無"
 danayo_id: 7249
 mc_id: 0

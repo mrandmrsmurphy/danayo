@@ -21,7 +21,7 @@ english:
 羅馬字: kwan
 諺文: "콴"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 6279
 mc_id: 2454

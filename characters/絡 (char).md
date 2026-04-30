@@ -22,7 +22,7 @@ english:
 羅馬字: lag
 諺文: "락"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5066
 mc_id: 1452

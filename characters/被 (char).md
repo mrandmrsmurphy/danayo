@@ -24,7 +24,7 @@ english:
 羅馬字: pi
 諺文: "피"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 2280
 mc_id: 627

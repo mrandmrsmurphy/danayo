@@ -21,7 +21,7 @@ english:
 羅馬字: "'ag"
 諺文: 악
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3127
 mc_id: 220

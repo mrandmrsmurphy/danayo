@@ -23,7 +23,7 @@ english:
 羅馬字: cwang
 諺文: "촹"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7190
 mc_id: 4006

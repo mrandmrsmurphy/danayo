@@ -22,7 +22,7 @@ english:
 羅馬字: "'yuo"
 諺文: 윳
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3192
 mc_id: 271

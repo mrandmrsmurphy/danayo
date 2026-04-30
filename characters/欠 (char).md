@@ -20,7 +20,7 @@ english:
 羅馬字: kyam
 諺文: 캼
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 4148
 mc_id: 2640

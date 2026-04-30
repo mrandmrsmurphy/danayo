@@ -28,7 +28,7 @@ english:
 羅馬字: lu
 諺文: 루
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 6152
 mc_id: 2131

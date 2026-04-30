@@ -23,7 +23,7 @@ english:
 羅馬字: fai
 諺文: 빼
 joyo_level: "5"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 4263
 mc_id: 1046

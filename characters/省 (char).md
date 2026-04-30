@@ -26,7 +26,7 @@ english:
 羅馬字: syeng
 諺文: 셩
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2178
 mc_id: 671

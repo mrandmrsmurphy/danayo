@@ -1,8 +1,8 @@
 ---
-mandarin: "zhàn"
+mandarin: zhàn
 cantonese: zim1
-korean: "점"
-korean_native: "점령할"
+korean: 점
+korean_native: 점령할
 japanese:
   - SEN
 japanese_native: し
@@ -22,26 +22,26 @@ vietnamese:
   - coi
   - giếm
   - xem
-middle_chinese_initial: "t͡ɕ"
-middle_chinese_final: "iᴇm"
+middle_chinese_initial: t͡ɕ
+middle_chinese_final: iᴇm
 stroke_count: 5
-radical: "卜"
+radical: 卜
 skip_number: 2-2-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - occupy
 羅馬字: jem
-諺文: "점"
-joyo_level: "高等"
-hsk_level: ""
-hanmun_edu_level: "高等"
+諺文: 점
+joyo_level: 高等
+hsk_level: "3"
+hanmun_edu_level: 高等
 danayo_id: 4043
 mc_id: 1107
-graphemic_classification: "指事"
-stand_in: "占"
+graphemic_classification: 指事
+stand_in: 占
 aliases:
-注音: "ㄐㄝㄇ"
+注音: ㄐㄝㄇ
 tags:
   - character
 ---

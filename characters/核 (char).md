@@ -23,7 +23,7 @@ english:
 羅馬字: hag
 諺文: 학
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5014
 mc_id: 2957

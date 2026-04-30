@@ -23,7 +23,7 @@ english:
 羅馬字: teng
 諺文: "텅"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5278
 mc_id: 5273

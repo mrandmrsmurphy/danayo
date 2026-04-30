@@ -29,7 +29,7 @@ english:
 羅馬字: myou
 諺文: 묫
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 5342
 mc_id: 2130

@@ -21,7 +21,7 @@ english:
 羅馬字: tei
 諺文: "테"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7343
 mc_id: 7175

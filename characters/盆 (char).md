@@ -25,7 +25,7 @@ english:
 羅馬字: bon
 諺文: "본"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 6311
 mc_id: 2057

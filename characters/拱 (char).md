@@ -23,7 +23,7 @@ english:
 羅馬字: gyong
 諺文: 굥
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7362
 mc_id: 2449

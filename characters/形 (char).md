@@ -24,7 +24,7 @@ english:
 羅馬字: heng
 諺文: "헝"
 joyo_level: 2
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2093
 mc_id: 359

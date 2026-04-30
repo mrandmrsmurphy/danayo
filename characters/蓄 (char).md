@@ -24,7 +24,7 @@ english:
 羅馬字: cug
 諺文: "축"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6362
 mc_id: 1859

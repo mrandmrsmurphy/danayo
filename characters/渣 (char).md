@@ -23,7 +23,7 @@ english:
 羅馬字: jwa
 諺文: "좌"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 7377
 mc_id: 0

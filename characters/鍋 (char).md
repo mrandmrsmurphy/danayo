@@ -20,7 +20,7 @@ english:
 羅馬字: gwa
 諺文: "과"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 6283
 mc_id: 10623

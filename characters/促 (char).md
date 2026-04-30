@@ -24,7 +24,7 @@ english:
 羅馬字: cog
 諺文: "촉"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 6405
 mc_id: 2587

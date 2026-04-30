@@ -27,7 +27,7 @@ english:
 羅馬字: lad
 諺文: "랃"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6215
 mc_id: 0

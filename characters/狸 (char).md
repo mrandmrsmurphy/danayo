@@ -20,7 +20,7 @@ english:
 羅馬字: li
 諺文: "리"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: ""
 danayo_id: 8111
 mc_id: 3008

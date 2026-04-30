@@ -20,7 +20,7 @@ english:
 羅馬字: sun
 諺文: 순
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5082
 mc_id: 2907

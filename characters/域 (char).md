@@ -25,7 +25,7 @@ english:
 羅馬字: "'wig"
 諺文: "윅"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: ""
 danayo_id: 5141
 mc_id: 1277

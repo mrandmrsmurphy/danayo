@@ -23,7 +23,7 @@ english:
 羅馬字: tai
 諺文: "태"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6330
 mc_id: 1279

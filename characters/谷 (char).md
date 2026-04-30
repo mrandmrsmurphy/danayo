@@ -23,7 +23,7 @@ english:
 羅馬字: gog
 諺文: "곡"
 joyo_level: 2
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 2238
 mc_id: 783

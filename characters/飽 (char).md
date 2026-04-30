@@ -23,7 +23,7 @@ english:
 羅馬字: byau
 諺文: "뱟"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 4305
 mc_id: 1669

@@ -22,7 +22,7 @@ english:
 羅馬字: ban
 諺文: "반"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5317
 mc_id: 2118

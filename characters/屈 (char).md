@@ -23,7 +23,7 @@ english:
 羅馬字: kud
 諺文: "쿧"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 6318
 mc_id: 923

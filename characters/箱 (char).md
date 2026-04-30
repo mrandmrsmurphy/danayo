@@ -26,7 +26,7 @@ english:
 羅馬字: sang
 諺文: "상"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 5327
 mc_id: 3909

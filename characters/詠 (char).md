@@ -24,7 +24,7 @@ english:
 諺文: "윙"
 注音: "ㄨㄧㄫ"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6398
 mc_id: 2714

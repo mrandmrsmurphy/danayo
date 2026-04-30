@@ -22,7 +22,7 @@ english:
 羅馬字: gyan
 諺文: "갼"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: ""
 danayo_id: 7403
 mc_id: 5112

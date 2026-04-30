@@ -20,7 +20,7 @@ english:
 羅馬字: dod
 諺文: 돋
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6090
 mc_id: 0

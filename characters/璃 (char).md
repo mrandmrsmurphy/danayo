@@ -22,7 +22,7 @@ english:
 羅馬字: "lǝ"
 諺文: "르"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "無"
 danayo_id: 6262
 mc_id: 5900

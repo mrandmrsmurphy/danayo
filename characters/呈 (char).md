@@ -28,7 +28,7 @@ english:
 羅馬字: ding
 諺文: "딩"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6108
 mc_id: 3622

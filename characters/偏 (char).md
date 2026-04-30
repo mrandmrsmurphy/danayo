@@ -24,7 +24,7 @@ english:
 羅馬字: pyen
 諺文: 편
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5199
 mc_id: 1311

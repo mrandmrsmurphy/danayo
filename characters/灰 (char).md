@@ -25,7 +25,7 @@ english:
 羅馬字: hoi
 諺文: "회"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 4171
 mc_id: 2408

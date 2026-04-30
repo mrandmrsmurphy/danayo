@@ -23,7 +23,7 @@ english:
 羅馬字: "'wau"
 諺文: "왓"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "無"
 danayo_id: 7063
 mc_id: 5350

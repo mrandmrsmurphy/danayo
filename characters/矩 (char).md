@@ -22,7 +22,7 @@ english:
 羅馬字: kyo
 諺文: "쿄"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 7517
 mc_id: 1665

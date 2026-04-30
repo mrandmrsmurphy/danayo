@@ -22,7 +22,7 @@ english:
 羅馬字: dwan
 諺文: "돤"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4150
 mc_id: 1790

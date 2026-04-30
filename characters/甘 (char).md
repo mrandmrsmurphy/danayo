@@ -20,7 +20,7 @@ english:
 羅馬字: gam
 諺文: 감
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3195
 mc_id: 582

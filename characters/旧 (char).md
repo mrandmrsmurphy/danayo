@@ -23,7 +23,7 @@ english:
 羅馬字: gyuo
 諺文: 귯
 joyo_level: "5"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 2122
 mc_id: 873

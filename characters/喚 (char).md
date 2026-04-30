@@ -21,7 +21,7 @@ english:
 羅馬字: hwan
 諺文: 환
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6198
 mc_id: 7867

@@ -22,7 +22,7 @@ english:
 羅馬字: dog
 諺文: "독"
 joyo_level: 5
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 4151
 mc_id: 1227

@@ -22,7 +22,7 @@ english:
 羅馬字: kwad
 諺文: "괃"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: ""
 danayo_id: 7329
 mc_id: 2924

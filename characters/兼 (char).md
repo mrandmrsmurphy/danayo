@@ -25,7 +25,7 @@ english:
 羅馬字: gem
 諺文: 검
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5032
 mc_id: 822

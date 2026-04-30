@@ -20,7 +20,7 @@ english:
 羅馬字: ton
 諺文: 톤
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: ""
 danayo_id: 7226
 mc_id: 0

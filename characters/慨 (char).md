@@ -22,7 +22,7 @@ english:
 羅馬字: kai
 諺文: 캐
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 6446
 mc_id: 2767

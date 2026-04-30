@@ -20,7 +20,7 @@ english:
 羅馬字: liǝ
 諺文: "릐"
 joyo_level: 4
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5215
 mc_id: 3411

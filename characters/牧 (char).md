@@ -22,7 +22,7 @@ english:
 羅馬字: mug
 諺文: "묵"
 joyo_level: 4
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 4180
 mc_id: 888

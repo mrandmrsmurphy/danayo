@@ -24,7 +24,7 @@ english:
 羅馬字: cu
 諺文: "추"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7382
 mc_id: 1085

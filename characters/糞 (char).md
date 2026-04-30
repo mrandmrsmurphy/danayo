@@ -22,7 +22,7 @@ english:
 羅馬字: fum
 諺文: "뿜"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 7290
 mc_id: 2555

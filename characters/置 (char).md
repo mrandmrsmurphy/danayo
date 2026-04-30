@@ -21,7 +21,7 @@ english:
 羅馬字: ci
 諺文: "치"
 joyo_level: 4
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5336
 mc_id: 433

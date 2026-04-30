@@ -26,7 +26,7 @@ english:
 羅馬字: lid
 諺文: 릳
 joyo_level: 日本人名用漢字
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 8108
 mc_id: 1701

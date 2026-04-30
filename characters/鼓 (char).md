@@ -21,7 +21,7 @@ english:
 羅馬字: go
 諺文: "고"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4313
 mc_id: 592

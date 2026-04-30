@@ -24,7 +24,7 @@ english:
 羅馬字: kyau
 諺文: "캿"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7368
 mc_id: 6526

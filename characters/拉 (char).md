@@ -41,7 +41,7 @@ english:
 羅馬字: lab
 諺文: 랍
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 6324
 mc_id: 4449

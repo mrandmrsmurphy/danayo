@@ -20,7 +20,7 @@ english:
 羅馬字: ho
 諺文: "호"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3234
 mc_id: 577

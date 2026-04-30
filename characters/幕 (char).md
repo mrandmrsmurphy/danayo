@@ -21,7 +21,7 @@ english:
 羅馬字: mag
 諺文: "막"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5140
 mc_id: 1999

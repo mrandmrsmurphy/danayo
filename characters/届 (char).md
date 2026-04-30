@@ -21,7 +21,7 @@ english:
 羅馬字: gye
 諺文: 겨
 joyo_level: '5'
-hsk_level: ''
+hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 6321
 mc_id: 5908

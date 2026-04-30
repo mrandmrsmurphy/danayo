@@ -911,3 +911,34 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 906.  [杰](../../characters/傑.md)
 907.  [勘 (char)](../../characters/勘%20(char).md)
 908.  [鸣](../../characters/鳴%20(char).md)
+
+
+## Datacheck
+```base
+version: 1
+views:
+  - type: table
+    name: Outgoing links
+    filters:
+      and:
+        - this.file.hasLink(file)
+    order:
+      - file.name
+      - hsk_level
+      - grade_level
+      - characters
+    sort:
+      - property: hsk_level
+        direction: DESC
+      - property: characters
+        direction: DESC
+      - property: grade_level
+        direction: ASC
+    columns:
+      - file
+      - file.path
+      - file.links.length
+    columnSize:
+      note.hsk_level: 93
+
+```

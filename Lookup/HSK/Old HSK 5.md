@@ -603,3 +603,33 @@ tags: [lookup]
 600.  [[炮]]
 601.  [[嫩 (char)]]
 602.  [[炸]]
+
+## Datacheck
+```base
+version: 1
+views:
+  - type: table
+    name: Outgoing links
+    filters:
+      and:
+        - this.file.hasLink(file)
+    order:
+      - file.name
+      - hsk_level
+      - grade_level
+      - characters
+    sort:
+      - property: hsk_level
+        direction: DESC
+      - property: characters
+        direction: DESC
+      - property: grade_level
+        direction: ASC
+    columns:
+      - file
+      - file.path
+      - file.links.length
+    columnSize:
+      note.hsk_level: 93
+
+```

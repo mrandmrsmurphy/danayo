@@ -23,7 +23,7 @@ english:
 羅馬字: syang
 諺文: 샹
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3095
 mc_id: 313

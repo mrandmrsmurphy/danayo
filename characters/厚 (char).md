@@ -20,7 +20,7 @@ english:
 羅馬字: hou
 諺文: 홋
 joyo_level: "5"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3044
 mc_id: 456

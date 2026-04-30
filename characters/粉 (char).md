@@ -20,7 +20,7 @@ english:
 羅馬字: fun
 諺文: "뿐"
 joyo_level: 5
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4204
 mc_id: 3242

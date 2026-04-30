@@ -24,7 +24,7 @@ english:
 羅馬字: loi
 諺文: 뢰
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5187
 mc_id: 989

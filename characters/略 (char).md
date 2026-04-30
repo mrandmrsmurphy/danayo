@@ -22,7 +22,7 @@ english:
 羅馬字: lyag
 諺文: "략"
 joyo_level: 5
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4186
 mc_id: 859

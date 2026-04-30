@@ -27,7 +27,7 @@ english:
 羅馬字: "'oi"
 諺文: "외"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6383
 mc_id: 650

@@ -21,7 +21,7 @@ english:
 羅馬字: sǝb
 諺文: 습
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5305
 mc_id: 1630

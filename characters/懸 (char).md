@@ -23,7 +23,7 @@ english:
 羅馬字: hwen
 諺文: "훤"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5073
 mc_id: 1574

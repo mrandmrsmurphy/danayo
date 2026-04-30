@@ -23,7 +23,7 @@ english:
 羅馬字: seg
 諺文: "석"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 3128
 mc_id: 1961

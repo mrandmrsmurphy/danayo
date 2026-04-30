@@ -20,7 +20,7 @@ english:
 羅馬字: piǝ
 諺文: "픠"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "無"
 danayo_id: 7278
 mc_id: 0

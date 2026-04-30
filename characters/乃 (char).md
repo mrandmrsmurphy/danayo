@@ -29,7 +29,7 @@ english:
 羅馬字: nai
 諺文: 내
 joyo_level:
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 5161
 mc_id: 63

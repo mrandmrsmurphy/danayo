@@ -22,7 +22,7 @@ english:
 羅馬字: liǝ
 諺文: "릐"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6432
 mc_id: 996

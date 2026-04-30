@@ -24,7 +24,7 @@ english:
 羅馬字: nun
 諺文: "눈"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5112
 mc_id: 1793

@@ -2729,15 +2729,17 @@ views:
       - grade_level
       - characters
     sort:
+      - property: hsk_level
+        direction: DESC
       - property: characters
         direction: DESC
       - property: grade_level
-        direction: ASC
-      - property: hsk_level
         direction: ASC
     columns:
       - file
       - file.path
       - file.links.length
+    columnSize:
+      note.hsk_level: 93
 
 ```

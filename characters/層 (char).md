@@ -23,7 +23,7 @@ english:
 羅馬字: "cǝng"
 諺文: "층"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 4086
 mc_id: 4098

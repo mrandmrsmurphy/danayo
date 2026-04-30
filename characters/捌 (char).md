@@ -26,7 +26,7 @@ english:
 羅馬字: pad
 諺文: "팓"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7082
 mc_id: 8402

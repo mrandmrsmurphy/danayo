@@ -20,7 +20,7 @@ english:
 羅馬字: "'yo"
 諺文: "요"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 7247
 mc_id: 957

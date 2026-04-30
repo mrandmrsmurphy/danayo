@@ -23,7 +23,7 @@ english:
 羅馬字: tan
 諺文: 탄
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 5136
 mc_id: 2311

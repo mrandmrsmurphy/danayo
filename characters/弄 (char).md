@@ -27,7 +27,7 @@ english:
 羅馬字: long
 諺文: 롱
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5183
 mc_id: 2397

@@ -23,7 +23,7 @@ english:
 羅馬字: jam
 諺文: "잠"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 5153
 mc_id: 5680

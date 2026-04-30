@@ -22,7 +22,7 @@ english:
 羅馬字: mag
 諺文: 막
 joyo_level: 日本人名用漢字
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 2215
 mc_id: 221

@@ -26,7 +26,7 @@ english:
 羅馬字: pog
 諺文: "폭"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 6310
 mc_id: 2958

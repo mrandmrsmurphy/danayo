@@ -24,7 +24,7 @@ english:
 羅馬字: kung
 諺文: "쿵"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5240
 mc_id: 1049

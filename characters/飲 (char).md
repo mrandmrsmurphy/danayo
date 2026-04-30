@@ -24,7 +24,7 @@ english:
 羅馬字: "'um"
 諺文: "움"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: ""
 danayo_id: 3274
 mc_id: 472

@@ -26,7 +26,7 @@ english:
 羅馬字: coi
 諺文: "최"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5202
 mc_id: 7336

@@ -22,7 +22,7 @@ english:
 羅馬字: tan
 諺文: "탄"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 7482
 mc_id: 5301

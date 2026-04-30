@@ -25,7 +25,7 @@ english:
 羅馬字: mid
 諺文: "믿"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3088
 mc_id: 1125

@@ -22,7 +22,7 @@ english:
 羅馬字: ken
 諺文: 컨
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 6177
 mc_id: 404

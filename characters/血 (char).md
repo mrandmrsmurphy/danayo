@@ -22,7 +22,7 @@ english:
 羅馬字: hwed
 諺文: "훧"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2219
 mc_id: 637

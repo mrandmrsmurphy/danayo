@@ -23,7 +23,7 @@ english:
 羅馬字: fong
 諺文: "뽕"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 6371
 mc_id: 2804

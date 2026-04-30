@@ -22,7 +22,7 @@ english:
 羅馬字: "cǝ"
 諺文: "츠"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2143
 mc_id: 51

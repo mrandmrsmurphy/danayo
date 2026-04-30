@@ -26,7 +26,7 @@ english:
 羅馬字: keng
 諺文: 컹
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5067
 mc_id: 963

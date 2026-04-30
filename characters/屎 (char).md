@@ -23,7 +23,7 @@ english:
 羅馬字: hǝ
 諺文: 흐
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7455
 mc_id: 4079

@@ -29,7 +29,7 @@ english:
 羅馬字: gwai
 諺文: "괘"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4120
 mc_id: 4330

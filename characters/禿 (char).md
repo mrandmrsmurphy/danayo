@@ -24,7 +24,7 @@ english:
 羅馬字: tog
 諺文: "톡"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7466
 mc_id: 3839

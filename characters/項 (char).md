@@ -24,7 +24,7 @@ english:
 羅馬字: hang
 諺文: "항"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5247
 mc_id: 684

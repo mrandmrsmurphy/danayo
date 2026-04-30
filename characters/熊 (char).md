@@ -20,7 +20,7 @@ english:
 羅馬字: "'ung"
 諺文: "웅"
 joyo_level: 4
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 8227
 mc_id: 1436

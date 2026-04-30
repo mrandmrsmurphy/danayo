@@ -22,7 +22,7 @@ english:
 羅馬字: gung
 諺文: "궁"
 joyo_level: 2
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 2089
 mc_id: 887

@@ -21,7 +21,7 @@ english:
 羅馬字: tau
 諺文: "탓"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4018
 mc_id: 2141

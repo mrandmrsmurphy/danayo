@@ -38,7 +38,7 @@ english:
 羅馬字: cui
 諺文: "취"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "中"
 danayo_id: 3054
 mc_id: 1838

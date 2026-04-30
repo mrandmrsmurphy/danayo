@@ -26,7 +26,7 @@ english:
 羅馬字: jui
 諺文: "쥐"
 joyo_level: 2
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4152
 mc_id: 1070

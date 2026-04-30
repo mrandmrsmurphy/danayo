@@ -20,7 +20,7 @@ english:
 羅馬字: log
 諺文: 록
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 6372
 mc_id: 984

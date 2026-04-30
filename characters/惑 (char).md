@@ -22,7 +22,7 @@ english:
 羅馬字: hog
 諺文: "혹"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6349
 mc_id: 803

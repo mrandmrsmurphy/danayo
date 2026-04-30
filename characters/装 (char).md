@@ -22,7 +22,7 @@ english:
 羅馬字: jwang
 諺文: 좡
 joyo_level: "6"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 4244
 mc_id: 2585

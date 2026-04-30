@@ -21,7 +21,7 @@ english:
 羅馬字: sug
 諺文: "숙"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4215
 mc_id: 2100

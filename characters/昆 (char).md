@@ -23,7 +23,7 @@ english:
 羅馬字: gon
 諺文: "곤"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6202
 mc_id: 988

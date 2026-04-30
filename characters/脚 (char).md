@@ -22,7 +22,7 @@ english:
 羅馬字: gyag
 諺文: 갹
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 2207
 mc_id: 3047

@@ -26,7 +26,7 @@ english:
 羅馬字: mung
 諺文: "뭉"
 joyo_level: 5
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4069
 mc_id: 1041

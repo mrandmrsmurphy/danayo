@@ -25,7 +25,7 @@ english:
 羅馬字: deg
 諺文: "덕"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5167
 mc_id: 5855

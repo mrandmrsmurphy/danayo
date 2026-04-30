@@ -25,7 +25,7 @@ english:
 羅馬字: deng
 諺文: "덩"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 8130
 mc_id: 5661

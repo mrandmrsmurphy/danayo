@@ -22,7 +22,7 @@ english:
 羅馬字: buo
 諺文: 붓
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3181
 mc_id: 903

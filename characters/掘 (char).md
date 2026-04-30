@@ -28,7 +28,7 @@ english:
 羅馬字: gud
 諺文: "굳"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6100
 mc_id: 2149

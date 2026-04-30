@@ -20,7 +20,7 @@ english:
 羅馬字: kwang
 諺文: "쾅"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 7287
 mc_id: 2774

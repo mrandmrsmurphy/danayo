@@ -33,7 +33,7 @@ english:
 羅馬字: nou
 諺文: "놋"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7295
 mc_id: 2690

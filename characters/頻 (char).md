@@ -24,7 +24,7 @@ english:
 羅馬字: pim
 諺文: "핌"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6390
 mc_id: 3070

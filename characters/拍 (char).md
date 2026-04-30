@@ -28,7 +28,7 @@ english:
 羅馬字: pag
 諺文: "팍"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 4117
 mc_id: 5516

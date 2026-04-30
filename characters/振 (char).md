@@ -28,7 +28,7 @@ english:
 羅馬字: jin
 諺文: 진
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5016
 mc_id: 1071

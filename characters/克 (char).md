@@ -20,7 +20,7 @@ english:
 羅馬字: kug
 諺文: 쿡
 joyo_level: ""
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4025
 mc_id: 729

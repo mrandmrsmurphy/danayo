@@ -23,7 +23,7 @@ english:
 羅馬字: biǝ
 諺文: "븨"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2101
 mc_id: 1033

@@ -22,7 +22,7 @@ english:
 羅馬字: kang
 諺文: "캉"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6210
 mc_id: 3185

@@ -21,7 +21,7 @@ english:
 羅馬字: swan
 諺文: 솬
 joyo_level: "5"
-hsk_level: ""
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 4285
 mc_id: 1717
