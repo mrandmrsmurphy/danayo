@@ -1,33 +1,33 @@
 ---
-mandarin: "tū"
+mandarin: tū
 cantonese: dat6
-korean: "철"
-korean_native: "볼록할"
+korean: 철
+korean_native: 볼록할
 japanese:
   - TOTSU
 japanese_native: でこ
 vietnamese:
   - đột
 middle_chinese_initial: d
-middle_chinese_final: "uət"
+middle_chinese_final: uət
 stroke_count: 5
-radical: "凵"
+radical: 凵
 skip_number: 4-5-1
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - convex
 羅馬字: dod
-諺文: "돋"
-joyo_level: "高等"
+諺文: 돋
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 6090
 mc_id: 0
-graphemic_classification: "象形"
-stand_in: "凸"
+graphemic_classification: 象形
+stand_in: 凸
 aliases:
-注音: "ㄉㄛㄊ"
+注音: ㄉㄛㄊ
 tags:
   - character
 ---
