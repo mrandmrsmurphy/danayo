@@ -1,7 +1,8 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-04-30
 size: 5
-tags: [lookup]
+tags:
+  - lookup
 radical: 凵
 ---
 > [Radicals](Radicals.md)
@@ -9,11 +10,8 @@ radical: 凵
 1. <ruby>[凶](/characters/凶%20(char).md)<rt>ㄏ⼜ㄫ</rt></ruby> "unlucky"
 2. <ruby>[凸](/characters/凸%20(char).md)<rt>ㄉㄛㄊ</rt></ruby> "convex"
 3. <ruby>[凹](/characters/凹%20(char).md)<rt>ㄚㄨ</rt></ruby> "concave"
-4. 
-5. sd
-
-### Other
-- [出 (char)](../../characters/出%20(char).md) used to look like this more
+4. <ruby>[出 (char)](/characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> "exit"
+5. <ruby>[函](/characters/函.md)<rt>ㄏㄚㄇ</rt></ruby> "box"
 
 ## Dataview
 ```dataview

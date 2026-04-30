@@ -1,11 +1,15 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-04-30
 radical: 皮
-tags: [lookup]
-
+tags:
+  - lookup
 ---
 > [[Radicals]]
+
+## Characters
+1. <ruby>[皮](/characters/皮.md)<rt>ㄅㄧ</rt></ruby> "skin"
+2. <ruby>[皺](/characters/皺.md)<rt>ㄐㄨ</rt></ruby> "wrinkles"
 
 ## Data search
 ```dataview

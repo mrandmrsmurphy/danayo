@@ -1,41 +1,40 @@
 ---
-mandarin: "huà"
+mandarin: huà
 cantonese: waak6
-korean: "획"
-korean_native: "그을"
+korean: 획
+korean_native: 그을
 japanese:
   - KAKU
 japanese_native: わ
 vietnamese:
-  - dạch
   - gạch
   - hoa
   - hoạch
   - vạch
   - đạch
 middle_chinese_initial: x
-middle_chinese_final: "ɣwɛk"
+middle_chinese_final: ɣwɛk
 stroke_count: 14
-radical: "刀"
+radical: 刀
 skip_number: 1-12-2
-grade_level: "先進"
-pos: ""
+grade_level: 先進
+pos: 事詞
 english:
   - divide
   - mark off
   - delimit
 羅馬字: hwag
-諺文: "확"
-joyo_level: "表外字"
-hsk_level: 1
-hanmun_edu_level: "高等"
+諺文: 확
+joyo_level: 表外字
+hsk_level: "1"
+hanmun_edu_level: 高等
 danayo_id: 7197
 mc_id: 5823
-graphemic_classification: "畫"
-stand_in: "劃"
+graphemic_classification: 畫
+stand_in: 劃
 aliases:
   - 划
-注音: "ㄏ⺢ㄎ"
+注音: ㄏ⺢ㄎ
 tags:
   - character
 ---
@@ -46,7 +45,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*qʰʷreːɡ, \*ɡʷreːɡ): semantic [[刂]] ("knife") + phonetic [[]] (OC \*ɡʷreːɡs, \*ɡʷreːɡ).
+- 形声 (OC \*qʰʷreːɡ, \*ɡʷreːɡ): semantic [[刂]] ("knife") + phonetic [畫](画.md) (OC \*ɡʷreːɡs, \*ɡʷreːɡ).
 - In Japanese, this character is sometimes replaced with 画 (daiyōji).
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 麥合]]
