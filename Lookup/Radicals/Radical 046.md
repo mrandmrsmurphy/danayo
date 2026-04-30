@@ -1,7 +1,7 @@
 ---
 size: 21
 tags: [lookup]
-
+radical: 山
 ---
 
 
@@ -24,4 +24,7 @@ views:
     columnSize:
       note.danayo_id: 64
       note.english: 236
+      note.skip_number: 85
+      note.stroke_count: 123
+
 ```

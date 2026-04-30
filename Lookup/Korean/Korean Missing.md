@@ -1,7 +1,7 @@
 ---
-size: 99
-tags: [lookup]
-
+size: 100
+tags:
+  - lookup
 ---
 
 

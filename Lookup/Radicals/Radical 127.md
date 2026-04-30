@@ -1,11 +1,15 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-04-30
 radical: 耒
-tags: [lookup]
-
+tags:
+  - lookup
 ---
 > [[Radicals]]
+
+## Characters 
+1. <ruby>[耕](/characters/耕.md)<rt>ㄍㄚㄫ</rt></ruby> "plow"
+2. <ruby>[耗](/characters/耗.md)<rt>ㄏㄚㄨ</rt></ruby> "deplete"
 
 ## Data search
 ```dataview

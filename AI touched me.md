@@ -538,50 +538,6 @@
 
 ────────────────────────────────────────────────────────────
 
-###   Character : 唾  (唾.md)
-
-  Wiktionary: 形声
-
-  Phonetic  : 垂  OC *tʰoːls
-
-  Semantic  : 口 ()
-
-  gc field  : 垂  ✓  Wiktionary phonetic: 垂
-
-  
-
-  Proposed bullet:
-
-  - 形声 (OC \*tʰoːls): semantic [[Radical 030|口]] ("") + phonetic [[垂]] (OC \*djol).
-
-  → Written to 唾.md
-
-  
-
-────────────────────────────────────────────────────────────
-
-###   Character : 喉  (喉.md)
-
-  Wiktionary: 形声
-
-  Phonetic  : 侯  OC *ɡoː
-
-  Semantic  : 口 (mouth)
-
-  gc field  : 侯  ✓  Wiktionary phonetic: 侯
-
-  
-
-  Proposed bullet:
-
-  - 形声 (OC \*ɡoː): semantic [[Radical 030|口]] ("mouth") + phonetic [[侯]] (OC \*ɡoː).
-
-  → Written to 喉.md
-
-  
-
-────────────────────────────────────────────────────────────
-
 ###   Character : 喜  (喜 (char).md)
 
   Wiktionary: 会意
@@ -617,31 +573,6 @@
   - 会意 of [[品]] ("three mouths") + [[木]] ("tree") — chirping of birds in a tree.
 
   → Written to 喿.md
-
-  
-
-────────────────────────────────────────────────────────────
-
-###   Character : 噌  (噌.md)
-
-  Wiktionary: 形声
-
-  Phonetic  : 曾  OC *sʰɯːŋ
-
-  Semantic  : 口 (mouth)
-
-  gc field  : 曽  ≠  Wiktionary phonetic: 曾
-
-  
-
-  Proposed bullet:
-
-  - 形声 (OC \*sʰɯːŋ): semantic [[Radical 030|口]] ("mouth") + phonetic [[曾]] (OC \*ʔsɯːŋ, \*zɯːŋ) — to scold or shout at.
-
-  → Written to 噌.md
-
-  
-
 ────────────────────────────────────────────────────────────
 
 ###   Character : 噫  (噫.md)
@@ -661,10 +592,6 @@
   - 形声 (OC \*qrɯːɡs, \*qɯ): semantic [[Radical 030|口]] ("") + phonetic [[意]] (OC \*qɯɡs).
 
   → Written to 噫.md
-
-[噸] No graphemic description found on Wiktionary.
-
-  
 
 ────────────────────────────────────────────────────────────
 
