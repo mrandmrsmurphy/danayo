@@ -48,7 +48,6 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): . Origin obscure.
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)). Origin obscure.
 	- Shuowen interprets it as a plant struggling to sprout.
 	- Ancient texts associate the shape with a fish's intestine (Erya) or gill bone (Liji).

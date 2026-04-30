@@ -41,5 +41,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 豪]]
+- [List of 象形](lookup/List%20of%20象形.md): feather or hair.
 - [[毛皮]] "fur, pelt"
 - [[毛蝦]] "shrimp"

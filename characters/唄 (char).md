@@ -38,6 +38,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*braːds): semantic [[Radical 030|口]] ("mouth") + phonetic [[]] (OC \*paːds).
 - Not found in Classical Chinese!
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 夬開]]

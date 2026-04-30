@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): a heart, now highly stylized.
 ## Words
 - [[悪心]]
 - [[離心率]]

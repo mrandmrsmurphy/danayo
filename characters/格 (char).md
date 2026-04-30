@@ -44,6 +44,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*klaːɡ, \*kraːɡ): semantic [[Radical 075|木]] ("wood") + phonetic [[各]] (OC \*klaːɡ).
 ## Words
 - [[骨格]]
 [[Lookup/CC/initials/聲 見]]

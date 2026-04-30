@@ -47,6 +47,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a nose exhaling. Original form of 呬 (OC *hrids). Later phonetically borrowed to represent 四 (OC *hljids, “four”). [ 1 ].
 - [[Radical 031|囗]] + [[人 (char)|儿]] = [[SKIP-3-3-2]] ([[Stroke 05]])
 - The word "four" was written as 亖 (sǐ) before Western Zhou and 四 (sì) appeared in late Spring and Autumn period. This alternative form was used to prevent confusion of 亖 (sǐ) and 二 (“two”) or 三 (“three”) in vertical writing. It was standardized in Qin dynasty.  The bronzeware style of the character featured a repositioning of those four lines inside 口 (kǒu); this later evolved into the combination used today of 口 (kǒu, “mouth”) and 八 (bā, “divide”) which meant a dispersal of breath. It could thus be said that four is a borrowed meaning for this character. The original sense is preserved in 呬 (OC \*hrids), by adding an extra 口. Compare this character with 只 and 曰.
 - [[Grade 1]], [[Korean MS]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]]

@@ -37,6 +37,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*hjaʔ): semantic [[Radical 072|日]] ("") + phonetic [[者]] (OC \*tjaːʔ).
 - [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([[Stroke 12]]) - [ㄙ⼄](syllables/ㄙ⼄.md)
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 魚]]

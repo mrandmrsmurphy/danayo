@@ -47,11 +47,12 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kaːn, \*ɡran): semantic [龺](卓.md) + phonetic [[乙]] (OC \*kaːns).
+[[Lookup/CC/initials/聲 群]]
+[[Lookup/CC/finals/韻 仙B三開]]
 
-- 形声 (OC \*kaːn, \*ɡran): semantic [[倝]] ("") + phonetic [[乙]] (OC \*kaːns).
+
 ## Words
 - [[乾浄]]
 - [[乾達婆]]
-- 
-[[Lookup/CC/initials/聲 群]]
-[[Lookup/CC/finals/韻 仙B三開]]
+

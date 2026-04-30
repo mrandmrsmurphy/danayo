@@ -42,3 +42,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 諄]]
+
+## Notes
+- 形声 (OC \*kʷin): semantic [[Radical 032|土]] ("earth") + phonetic [[]] (OC \*ɢʷin).

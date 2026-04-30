@@ -38,6 +38,7 @@ tags:
 ```
 ## Notes
 
+- 会意: two pieces of meat (肉). In the bronze script, 肉 was corrupted into 夕 due to visual similarity, making 多 into a duplication of 夕. The form with 夕 was inherited in later scripts.
 ### Derived Characters
 - <ruby>[爹](/characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father
 [[Lookup/CC/initials/聲 端]]

@@ -51,6 +51,7 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 咍]]
+- 形声 (OC \*l̥ʰɯː, \*l'ɯː, \*l'ɯː, \*lɯ): semantic [[㠯]] ("mouth") + phonetic [[口]] (OC ).
 - [[台風]] "[typhoon, hurricane, cyclone]"
 - [[台北]] "Taipei"
 - [[台球]] "pool,snookers"

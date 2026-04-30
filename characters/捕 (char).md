@@ -43,6 +43,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*baːs): semantic [[Radical 064|扌]] ("hand") + phonetic [[甫]] (OC \*paʔ).
 ## Words
 - [[捕手]]
 - [[捕鯨]]

@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*klud, \*kʰlud): semantic [[出]] ("tail") + phonetic [[尾]] (OC \*kʰljuds, \*kʰljud).
 ## Words
 - [[理屈]]
 [[Lookup/CC/initials/聲 見]]

@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 会意 of [[皀]] ("ancient round-mouthed food vessel") + [[卩]] ("to kneel") — to come near to eat; to approach.
 ## Chengyu
 - <ruby>[少即是多](/chengyu/少即是多.md)<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>
 [[Lookup/CC/initials/聲 精]]

@@ -38,3 +38,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 盍]]
+
+## Notes
+- 形声 (OC \*tʰuːb): semantic [[Radical 032|土]] ("") + phonetic [[荅]] (OC \*tkuːb).

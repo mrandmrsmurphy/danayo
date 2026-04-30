@@ -44,7 +44,7 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 眞A開]]
-
+- 会意 of [[弓]] ("bow") + [[丿]] ("indicatory stroke").
 ## Words
 ### Chengyu
 - [[招災引禍]]

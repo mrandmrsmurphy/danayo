@@ -40,6 +40,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*pʰoms, \*bum): semantic [[Radical 085|氵]] ("") + phonetic [[凡]] (OC \*bom).
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 敷]]
 [[Lookup/CC/finals/韻 凡]]

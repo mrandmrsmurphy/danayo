@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): of a dipper, compare 斗.
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 蒸]]

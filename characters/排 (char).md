@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*brɯːl): semantic [[Radical 064|扌]] ("hand") + phonetic [[非]] (OC \*pɯl) — to place in line.
 -  形声: OC \*brɯːl): semantic [扌](Radical%20064) (“hand”) + phonetic [非](characters/非%20(char).md) (OC \*pɯl) – to place in line.
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [ㄆㄚㄧ](syllables/ㄆㄚㄧ.md)
 [[Lookup/CC/initials/聲 並]]

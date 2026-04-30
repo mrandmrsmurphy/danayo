@@ -40,8 +40,11 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 会意](../lookup/List%20of%20会意.md): [[又]] ("hand") + [[中]] ("a flagpole with a drum") — flag in hand > to perform one's job.
+[[Lookup/CC/initials/聲 崇]]
+[[Lookup/CC/finals/韻 之]]
 
-- 会意 of [[又]] ("hand") + [[中]] ("a flagpole with a drum") — flag in hand > to perform one's job.
+
 ## Words
 - [[事実]]
 - [[事情]]
@@ -51,5 +54,3 @@ tags:
 - [[禍事]]
 - [[行事]]
 - [[逸事]]
-[[Lookup/CC/initials/聲 崇]]
-[[Lookup/CC/finals/韻 之]]

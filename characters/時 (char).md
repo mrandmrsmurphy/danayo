@@ -43,6 +43,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*djɯ): semantic [[Radical 072|日]] ("sun; day") + phonetic [[寺]] (OC \*ljɯs).
 ## Words
 - <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby> - then
 [[Lookup/CC/initials/聲 船]]

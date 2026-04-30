@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*l'els): semantic [[Radical 032|土]] ("earth") + phonetic [[也]] (OC \*laːlʔ).
 -  形声 (OC \*l'els): semantic [土](Radical%20032) (“earth”) + phonetic [也 (char)](也%20(char).md) (OC \*laːlʔ). One of the first versions of this character is 𡓬 (> 墬), in which a hill, a pig and a mound of earth are visible; visually, the upper part of the variant is 䧘.
 
 ## Chengyu

@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*naŋ): semantic [[Radical 038|女]] ("") + phonetic [[良]] (OC \*raŋ).
 - should this be nyang?
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 陽開]]

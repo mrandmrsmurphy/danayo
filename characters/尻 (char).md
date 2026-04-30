@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): in the oracle bone script – a person with the buttocks highlighted.
 - Pictogram (象形) in the oracle bone script – a person with the buttocks highlighted.  In the seal script, it developed into a phono-semantic compound (形声, OC \*kʰuː): semantic [尸](Radical%20044) (“body”) + phonetic [九](characters/九%20(char).md) (OC \*kuʔ).
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 豪]]

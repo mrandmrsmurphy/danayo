@@ -44,6 +44,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): four dots, perhaps three grains of sand (see 沙), to indicate "a few, a little". Phonetically borrowed from 小 (OC *smewʔ, “small”), which is depicted by three dots.
 ## Words
 - [[多少]]
 - [[少女]]

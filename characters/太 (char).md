@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*daːds, \*daːds): semantic [[]] ("") + phonetic [[]] (OC \*tʰaːds).
 ## Words
 - [太太](words/太太.md) - super-duper
 - [[太陰年]]

@@ -42,6 +42,4 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 邪]]
 [[Lookup/CC/finals/韻 之]]
-
-## Notes
 - 形声 (OC \*ljɯʔ): semantic [[Radical 009|亻]] ("human") + phonetic [[以]] (OC \*lɯʔ).

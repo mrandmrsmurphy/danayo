@@ -43,6 +43,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*panʔ, \*pʰan): semantic [[Radical 029|又]] ("hand") + phonetic [[]] (OC \*hŋaːnʔ, \*hŋaːns).
 - We follow Japanese and fold 叛 into this character.
 ##
 [[Lookup/CC/initials/聲 敷]]

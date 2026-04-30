@@ -45,6 +45,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ɡɯɡ): semantic [[Radical 075|木]] ("tree, wood") + phonetic [[亟]] (OC \*kʰɯɡs, \*kɯɡ) — originally meaning a crossbeam rafter.
 ## Words
 - <ruby>[南極](/words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby> - south pole
 - [[太極拳]]

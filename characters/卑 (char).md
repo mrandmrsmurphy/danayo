@@ -44,6 +44,7 @@ tags:
 ## Notes
 
 Descendants 
+- 会意 of [[甲]] ("fan") + [[𠂇]] ("hand") — a man holding a fan, indicating that he is a servant.
 - 稗
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 支三開]]

@@ -39,3 +39,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Notes
+- 形声 (OC \*brɯʔ, \*pɯʔ): semantic [[不]] ("not") + phonetic [[口]] (OC \*pɯ, \*pɯʔ, \*pɯ').

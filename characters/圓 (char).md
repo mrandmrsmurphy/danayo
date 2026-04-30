@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 This is a rare example of a divergence from Shinjitai, as the character 円 is too Japanese, and associated with Japanese money/yen.
+- 形声 (OC \*ɢon): semantic [[囗]] ("") + phonetic [[]] (OC \*ɢon, \*ɢun).
 ## Words
 - <ruby>[圓周](/words/圓周.md)<rt>⼔ㄋㄐㄨㄛ</rt></ruby> - circumference
 [[Lookup/CC/initials/聲 云]]

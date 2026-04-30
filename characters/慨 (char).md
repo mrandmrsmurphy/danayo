@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*kʰɯːds): semantic [[Radical 061|心]] ("heart") + phonetic [[既]] (OC \*kɯds).
 ## Words
 - [[憤慨]] - resent
 [[Lookup/CC/initials/聲 溪]]

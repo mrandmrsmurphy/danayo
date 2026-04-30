@@ -41,6 +41,7 @@ tags:
 ## Notes
 
 ## Notes
+- 会意: Triplication of 口, representing various objects. Also occurs in 區.
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 侵B]]

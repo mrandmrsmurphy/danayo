@@ -56,6 +56,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a plant sprout (屮) with a dot in the middle, than transformed into a horizontal line perhaps to emphasize the sprout. See also the top component of 春 in its original version.
 - Added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 魂]]

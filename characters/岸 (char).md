@@ -45,6 +45,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*ŋɡaːns): semantic [[屵]] ("cliff") + phonetic [[]] (OC \*kaːn) — the edge of the land. Its proto-form was 屵.
 - [山](Radical%20046) + 厈 = [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) [ㄚㄋ](syllables/ㄚㄋ.md)
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md), [Grade 4](lookup/Grade%204.md), HSK 2
 [[Lookup/CC/initials/聲 疑]]

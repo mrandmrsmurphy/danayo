@@ -41,6 +41,7 @@ tags:
 ## Notes
 
 While this character can appear alone, it is somewhat rare to do so.
+- 形声 (OC \*ɡeːŋ): semantic [[井]] ("") + phonetic [[彡]] (OC \*skeŋʔ).
 ### Abstract vs. Concrete
 - **形 ** Tends to be more **abstract or conceptual**. It refers to the "form" or "appearance" as a category or a philosophical state. It is often used to describe the essence of how something manifests (e.g., "having form vs. being formless").
     

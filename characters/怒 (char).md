@@ -43,6 +43,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*naːʔ, \*naːs): semantic [[Radical 061|心]] ("heart") + phonetic [[奴]] (OC \*naː) — angry.
 ## Chengyu
 - [[喜怒哀楽]]
 ## Words

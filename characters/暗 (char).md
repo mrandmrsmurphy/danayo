@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*qɯːms): semantic [[Radical 072|日]] ("sun") + phonetic [[音]] (OC \*qrɯm).
 - [[暗中]]
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 覃]]

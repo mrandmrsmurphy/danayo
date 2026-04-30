@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): a person facing forward. Original form of 夫 (OC *pa, *ba, “man”), phonetically borrowed for 大 (OC *daːds, *daːds, “big”). Compare 人, which represents the profile of a person.
 ## Chengyu
 - [[大同小異]]
 - [[因小失大]]

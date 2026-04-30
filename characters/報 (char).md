@@ -40,7 +40,7 @@ tags:
 ```
 ## Notes
 
-
+- 会意 of [[㚔]] ("handcuffs") + [[𠬝]] ("to subdue") — to convict; to punish; to declare guilty.
 ## Words
 - [[報酬]]
 - [[報答]]

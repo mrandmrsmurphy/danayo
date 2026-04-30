@@ -41,3 +41,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 冬]]
+
+## Notes
+- 形声 (OC \*koːŋ, \*kuːŋ): semantic [[Radical 048|工]] ("work") + phonetic [[攵]] (OC \*koːŋ).

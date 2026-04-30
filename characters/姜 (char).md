@@ -42,3 +42,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 陽開]]
+
+## Notes
+- 形声 (OC \*klaŋ): semantic [[Radical 123|羊]] ("female") + phonetic [[女]] (OC \*laŋ).

@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*ɡeːn): semantic [[Radical 057|弓]] ("bow") + phonetic [[玄]] (OC \*ɡʷeːn).
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 先開]]

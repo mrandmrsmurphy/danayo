@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): three mountain peaks. In the Oracle Bone Script, they were represented by triangles rather than vertical strokes. Compare 丘 (qiū), particularly earlier forms.
 ## Chengyu
 - <ruby>[千山萬水](/chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby>
 [[Lookup/CC/initials/聲 生]]

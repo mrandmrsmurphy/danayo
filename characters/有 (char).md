@@ -40,6 +40,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ɢʷɯʔ): semantic [[Radical 029|又]] ("meat") + phonetic [[肉]] (OC \*ɢʷɯs).
 ## Words
 - <ruby>[希有](/words/希有.md)<rt>ㄏㄧㄜ·⼜</rt></ruby> - rare
 [[Lookup/CC/initials/聲 云]]

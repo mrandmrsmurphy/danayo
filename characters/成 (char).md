@@ -40,6 +40,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*djeŋ): semantic [[戊]] ("") + phonetic [[丁]] (OC \*rteːŋ, \*teːŋ).
 ## Chengyu
 - <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
 [[Lookup/CC/initials/聲 船]]

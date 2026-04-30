@@ -44,6 +44,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*mriɡ): semantic [[宓]] ("mountain") + phonetic [[山]] (OC \*mriɡ, \*mliɡ) — hidden in the mountains, secret, intimate. Note that the phonetic 宓 alone has also been used to express the same morpheme as 密.
 ## Words
 - <ruby>[茂密](/words/茂密.md)<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby>
 [[Lookup/CC/initials/聲 明]]

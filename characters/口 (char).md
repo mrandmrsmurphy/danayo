@@ -38,6 +38,7 @@ tags:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+- [List of 象形](lookup/List%20of%20象形.md): resembles an open mouth.
 ## Words
 - [[人口]] - population
 - <ruby>[唖口](/words/唖口.md)<rt>ㄚㄎㄛㄨ</rt></ruby> - mute

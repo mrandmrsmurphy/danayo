@@ -41,6 +41,7 @@ tags:
 ```
 
 ## Notes
+- 形声 (OC \*pʰa): semantic [[尃]] ("distribute") + phonetic [[攵]] (OC \*pʰa).
 ## Words 
 - [[敷]]
 - [[座敷]] - Japanese parlor

@@ -44,6 +44,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): rotation (originally a spiral).
 ## Words
 - <ruby>[回路](/words/回路.md)<rt>ㄏㄛㄧㄌㄛ</rt></ruby> - loop, circuit 
 - [[迂回]]

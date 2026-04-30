@@ -46,6 +46,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*qʰʷreːɡ, \*ɡʷreːɡ): semantic [[刂]] ("knife") + phonetic [[]] (OC \*ɡʷreːɡs, \*ɡʷreːɡ).
 - In Japanese, this character is sometimes replaced with 画 (daiyōji).
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 麥合]]

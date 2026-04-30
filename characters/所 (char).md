@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*sqʰraʔ): semantic [[Radical 069|斤]] ("axe") + phonetic [[]] (OC \*ɡʷaːʔ) — the sound of logging (the definition given in Shuowen).
 ## Words
 - [[事務所]]
 - [[所在]]

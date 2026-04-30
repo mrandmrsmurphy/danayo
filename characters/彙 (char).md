@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*ɢruds): semantic [[㣇]] ("") + phonetic [[胃]] (OC \*ɢuds).
 - 形聲: [彑](Radical%20058) +  冖  + 果 (胃) = [SKIP-2-3-10](lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), HSK 3, [Grade 6](lookup/Grade%206.md)
 

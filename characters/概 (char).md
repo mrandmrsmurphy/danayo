@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*kɯːds): semantic [[Radical 075|木]] ("wood") + phonetic [[既]] (OC \*kɯds) — strickle.
 ## Words
 - for the most part [[大槪]]
 [[Lookup/CC/initials/聲 見]]

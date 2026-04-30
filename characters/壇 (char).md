@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*daːn): semantic [[Radical 032|土]] ("") + phonetic [[亶]] (OC \*taːnʔ).
 - In Mainland China, there is the simplification 亶 → 云.  Hence, this character is written 坛.  There is also the simplification 曇 → 云.  Hence, 坛 is the simplification of 壜 too.
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 寒]]

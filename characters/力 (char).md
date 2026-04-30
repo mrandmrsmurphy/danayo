@@ -45,6 +45,7 @@ tags:
 ```
 
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): alternative interpretation, either an arm bending out from the side of the body, or a wooden plough. The original version was 𠠲 and the letter ㄌ in zhuyin alphabet was inspired by this character.
 - [[SKIP-4-2-4]] ([[Stroke 02]]) [[ㄌㄧㄎ]]
 - [[Grade 1]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]], [[Korean MS]]
 ## Words

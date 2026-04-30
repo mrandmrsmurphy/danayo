@@ -40,6 +40,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*tjɯɡs, \*tʰjɯɡs, \*hljɯɡs): semantic [[Radical 050|巾]] ("cloth") + phonetic [[戠]] (OC \*tjɯɡ).
 ## Chengyu
 - <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby>
 [[Lookup/CC/initials/聲 昌]]

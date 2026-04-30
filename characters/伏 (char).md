@@ -39,14 +39,13 @@ tags:
 ---
 >[!tip] This is a page about the character 伏.
 >For the word, see [伏](words/伏.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-[[潜伏]] - hide, conceal
+- [List of 会意](../lookup/List%20of%20会意.md): [[人]] ("person") + [[犬]] ("dog") — meaning “prostrate”, a person acting like a dog
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 屋三]]
 
-## Notes
-- 会意 of [[人]] ("person") + [[犬]] ("dog") — meaning “prostrate”.
+## Words
+[[潜伏]] - hide, conceal
