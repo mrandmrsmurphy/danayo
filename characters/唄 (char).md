@@ -1,7 +1,7 @@
 ---
-mandarin: "bei"
-cantonese: "baai6"
-korean: "패"
+mandarin: bei
+cantonese: baai6
+korean: 패
 korean_native: ""
 japanese:
   - BAI
@@ -14,7 +14,7 @@ stroke_count: 10
 radical: 口
 skip_number: 1-3-7
 grade_level: "6"
-pos: ""
+pos: 感詞
 english:
   - ugh
 羅馬字: bai
@@ -38,7 +38,5 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*braːds): semantic [[Radical 030|口]] ("mouth") + phonetic [[]] (OC \*paːds).
-- Not found in Classical Chinese!
-[[Lookup/CC/initials/聲 並]]
-[[Lookup/CC/finals/韻 夬開]]
+- 形声 (OC \*braːds): semantic [[Radical 030|口]] ("mouth") + phonetic [貝](貝.md) (OC \*paːds).
+- Not found in Classical Chinese!  [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 夬開|ɣai]] = [ㄅㄚㄧ](../syllables/ㄅㄚㄧ.md), an abbreviation of the transliteration of the Sanskrit word "pathaka," 唄匿 (ばいとく)

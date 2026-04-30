@@ -538,32 +538,6 @@
 
 ────────────────────────────────────────────────────────────
 
-###   Character : 唄  (唄 (char).md)
-
-  Wiktionary: 形声
-
-  Phonetic  :   OC *braːds
-
-  Semantic  : 口 (mouth)
-
-  gc field  : 貝  ≠  Wiktionary phonetic: 
-
-  
-
-  Proposed bullet:
-
-  - 形声 (OC \*braːds): semantic [[Radical 030|口]] ("mouth") + phonetic [[]] (OC \*paːds).
-
-  → Written to 唄 (char).md
-
-[唖] No graphemic description found on Wiktionary.
-
-[唳] No graphemic description found on Wiktionary.
-
-  
-
-────────────────────────────────────────────────────────────
-
 ###   Character : 唾  (唾.md)
 
   Wiktionary: 形声
