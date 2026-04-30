@@ -46,6 +46,7 @@ kwin: true
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): a tree: branches on top, roots on the bottom (more visible in earlier forms).
 ## Chengyu
 - [[朽木粪墙]]
 [[Lookup/CC/initials/聲 明]]

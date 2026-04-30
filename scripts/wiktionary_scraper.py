@@ -114,7 +114,12 @@ def fetch_soup(char: str) -> BeautifulSoup:
 
 
 def _text_of(tag: Tag) -> str:
-    return tag.get_text(separator=" ", strip=True)
+    text = tag.get_text(separator=" ", strip=True)
+    # collapse multiple spaces and clean up space before punctuation
+    text = re.sub(r" {2,}", " ", text)
+    text = re.sub(r" ([,;.)])", r"\1", text)
+    text = re.sub(r"\( ", "(", text)
+    return text
 
 
 def _find_para(soup: BeautifulSoup, href_fragment: str) -> Tag | None:
@@ -128,29 +133,88 @@ def _find_para(soup: BeautifulSoup, href_fragment: str) -> Tag | None:
 def parse_graphemic(soup: BeautifulSoup) -> dict | None:
     """
     Detect graphemic type and return structured data.
+    Tries href-based detection first, then falls back to paragraph text matching.
     Returns None if nothing is found.
     """
-    # ── 形声 (phono-semantic) ────────────────────────────────────────────────
-    p = _find_para(soup, "phono-semantic_compound")
-    if p:
-        return _parse_phono_semantic(p)
+    # Build a mapping from paragraph → detected type using known href/text patterns
+    # (Wiktionary uses different link patterns for different types)
+    DETECTORS = [
+        # (href_fragment_or_None, text_trigger, type_string, parser_fn)
+        ("phono-semantic_compound", "Phono-semantic compound", "形声",  _parse_phono_semantic),
+        ("phono-semantic_compound", "Phono-semantic",          "形声",  _parse_phono_semantic),
+        # 会意: linked as /wiki/會意 or /wiki/会意 — check encoded forms
+        ("%E6%9C%83%E6%84%8F",     "Ideogrammic compound",    "会意",  _parse_huiyi),
+        ("%E4%BC%9A%E6%84%8F",     "Ideogrammic compound",    "会意",  _parse_huiyi),
+        # 象形: linked as /wiki/象形
+        ("%E8%B1%A1%E5%BD%A2",     "Pictogram",               "象形",  _parse_xiangxing),
+        # 指事: linked as /wiki/指事
+        ("%E6%8C%87%E4%BA%8B",     "Ideographic indicator",   "指事",  _parse_zhishi),
+    ]
 
-    # ── 会意 (compound ideograph) ────────────────────────────────────────────
-    p = _find_para(soup, "ideogrammic_compound")
-    if p:
-        return {"type": "会意", "raw": _text_of(p)}
+    # First pass: href-based (most reliable)
+    for href_frag, text_trigger, typ, parser in DETECTORS:
+        for a in soup.find_all("a", href=re.compile(re.escape(href_frag))):
+            p = a.find_parent("p")
+            if p and text_trigger in _text_of(p):
+                return parser(p)
 
-    # ── 象形 (pictogram) ─────────────────────────────────────────────────────
-    p = _find_para(soup, "pictogram")
-    if p and ("象形" in _text_of(p) or "Pictogram" in _text_of(p)):
-        return {"type": "象形", "raw": _text_of(p)}
-
-    # ── 指事 (ideographic indicator) ─────────────────────────────────────────
-    p = _find_para(soup, "ideographic_indicator")
-    if p:
-        return {"type": "指事", "raw": _text_of(p)}
+    # Second pass: text-based fallback (for pages without matching anchors)
+    TEXT_PATTERNS = [
+        ("Phono-semantic compound", "形声",  _parse_phono_semantic),
+        ("Ideogrammic compound",    "会意",  _parse_huiyi),
+        ("Pictogram",               "象形",  _parse_xiangxing),
+        ("Ideographic indicator",   "指事",  _parse_zhishi),
+    ]
+    for p in soup.find_all("p"):
+        text = _text_of(p)
+        for trigger, typ, parser in TEXT_PATTERNS:
+            if trigger in text:
+                return parser(p)
 
     return None
+
+
+def _parse_huiyi(p: Tag) -> dict:
+    """Parse an Ideogrammic compound (会意) paragraph."""
+    raw = _text_of(p)
+    # Strip the type prefix: "Ideogrammic compound (會意 / 会意): "
+    cleaned = re.sub(r'^Ideogrammic compound\s*\([^)]*\)\s*[:\-–—]*\s*', '', raw).strip()
+
+    # Extract component characters and glosses
+    hani = [t for t in p.find_all("i", lang="zh") if "Hani" in (t.get("class") or [])]
+    gloss_spans = p.find_all("span", class_="mention-gloss")
+    components = []
+    for i, ch_tag in enumerate(hani):
+        ch = ch_tag.get_text()
+        gloss = gloss_spans[i].get_text() if i < len(gloss_spans) else ""
+        components.append((ch, gloss))
+
+    # Explanatory note: first clause after the last component's closing paren
+    note = ""
+    m = re.search(r'\)\s*[–—-]+\s*(.+?)(?:\.|Alternatively|This form|[;,]\s*$)', raw)
+    if m:
+        note = m.group(1).strip().rstrip('.').strip()
+
+    return {
+        "type": "会意",
+        "components": components,
+        "note": note,
+        "raw": cleaned,
+    }
+
+
+def _parse_xiangxing(p: Tag) -> dict:
+    """Parse a Pictogram (象形) paragraph."""
+    raw = _text_of(p)
+    cleaned = re.sub(r'^Pictogram\s*\([^)]*\)\s*[:\-–—]*\s*', '', raw).strip().rstrip('.')
+    return {"type": "象形", "description": cleaned, "raw": raw}
+
+
+def _parse_zhishi(p: Tag) -> dict:
+    """Parse an Ideographic indicator (指事) paragraph."""
+    raw = _text_of(p)
+    cleaned = re.sub(r'^Ideographic indicator\s*\([^)]*\)\s*[:\-–—]*\s*', '', raw).strip().rstrip('.')
+    return {"type": "指事", "description": cleaned, "raw": raw}
 
 
 def _parse_phono_semantic(p: Tag) -> dict:
@@ -218,32 +282,28 @@ def format_bullet(data: dict, canonical: dict, variants: dict) -> str:
         return bullet
 
     elif t == "会意":
-        raw = data["raw"]
-        # Strip the leading "Ideogrammic compound (会意 / 会意, ...) " prefix
-        cleaned = re.sub(
-            r'^Ideogrammic compound\s*\([^)]+\)\s*[–—:]*\s*', '', raw
-        ).strip()
-        return f"- 会意: {cleaned}"
+        components = data.get("components", [])
+        note = data.get("note", "")
+        if components:
+            parts = " + ".join(
+                f'[[{ch}]] ("{gloss}")' if gloss else f"[[{ch}]]"
+                for ch, gloss in components
+            )
+            bullet = f"- 会意 of {parts}"
+            if note:
+                bullet += f" — {note}"
+            bullet += "."
+        else:
+            bullet = f"- 会意: {data['raw']}"
+        return bullet
 
     elif t == "象形":
-        raw = data["raw"]
-        cleaned = re.sub(
-            r'^Pictogram\s*\([^)]+\)\s*[–—:]*\s*', '', raw
-        ).strip()
-        return (
-            f"- [List of 象形](lookup/List%20of%20象形.md): "
-            f"{cleaned}"
-        )
+        desc = data.get("description", data.get("raw", ""))
+        return f"- [List of 象形](lookup/List%20of%20象形.md): {desc}."
 
     elif t == "指事":
-        raw = data["raw"]
-        cleaned = re.sub(
-            r'^Ideographic indicator\s*\([^)]+\)\s*[–—:]*\s*', '', raw
-        ).strip()
-        return (
-            f"- [List of 指事](lookup/List%20of%20指事.md): "
-            f"{cleaned}"
-        )
+        desc = data.get("description", data.get("raw", ""))
+        return f"- [List of 指事](lookup/List%20of%20指事.md): {desc}."
 
     return f"- {data.get('raw', '')}"
 
@@ -347,10 +407,15 @@ def process_char(char: str, write: bool, canonical: dict, variants: dict,
         if data["type"] == "形声":
             print(f"  Phonetic  : {data['phonetic_char']}  OC {data['oc_whole']}")
             print(f"  Semantic  : {data['semantic_char']} ({data['semantic_gloss']})")
-            if fm.get("graphemic_classification") not in ("象形","指事","会意","會意"):
+            if existing_gc not in ("象形","指事","会意","會意"):
                 current = existing_gc or "(blank)"
                 match = "✓" if existing_gc == data["phonetic_char"] else "≠"
                 print(f"  gc field  : {current}  {match}  Wiktionary phonetic: {data['phonetic_char']}")
+        elif data["type"] == "会意":
+            comps = ", ".join(f"{c}({g})" for c, g in data.get("components", []))
+            print(f"  Components: {comps}")
+        elif data["type"] in ("象形", "指事"):
+            print(f"  Description: {data.get('description', '')[:80]}")
         print(f"\n  Proposed bullet:")
         print(f"  {bullet}")
         if already_done:
