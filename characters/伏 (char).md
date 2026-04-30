@@ -47,3 +47,6 @@ tags:
 [[潜伏]] - hide, conceal
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 屋三]]
+
+## Notes
+- 会意 of [[人]] ("person") + [[犬]] ("dog") — meaning “prostrate”.

@@ -311,7 +311,8 @@ def format_bullet(data: dict, canonical: dict, variants: dict) -> str:
 # ── File update ──────────────────────────────────────────────────────────────
 
 GRAPHEMIC_PREFIXES = ("- 形声", "- 会意", "- 象形", "- 指事",
-                      "- [List of 象形", "- [List of 指事")
+                      "- [List of 象形", "- [List of 指事", "- [List of 会意",
+                      "-  [List of")
 
 
 def has_graphemic_bullet(text: str) -> bool:
@@ -461,7 +462,7 @@ def batch(write: bool, canonical: dict, variants: dict):
         else:
             failed += 1
 
-        time.sleep(0.5)  # be polite to Wiktionary
+        time.sleep(4)  # be polite to Wiktionary
 
     print(f"\nDone. {total} processed, {updated} {'written' if write else 'proposed'}, "
           f"{failed} failed, {skipped} skipped.")

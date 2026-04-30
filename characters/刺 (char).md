@@ -45,6 +45,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*sʰeɡs, \*sʰeɡ): semantic [[朿]] ("knife") + phonetic [[刂]] (OC \*sʰeɡs).
 - Also pronounced in MC as tsʰiᴇ
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 昔開]]

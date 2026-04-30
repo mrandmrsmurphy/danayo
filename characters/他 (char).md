@@ -49,6 +49,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*l̥ʰaːl): semantic [[Radical 009|亻]] ("man") + phonetic [[也]] (OC \*laːlʔ).
 ## Words
 - [[他鄉]]
 [[Lookup/CC/initials/聲 透]]

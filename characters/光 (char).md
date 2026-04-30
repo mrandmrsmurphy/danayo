@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 会意 of [[火]] ("fire") + [[卩]] ("kneeling person") — fire over a person's head, emphasizing the shining of light (Shuowen).
 ## Words
 - [[圓光]]
 - [[陽光]]

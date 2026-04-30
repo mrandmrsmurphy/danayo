@@ -41,3 +41,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 初]]
 [[Lookup/CC/finals/韻 麥開]]
+
+## Notes
+- [List of 象形](lookup/List%20of%20象形.md): bamboo slips strung together. See also 侖, 扁, and 典. Similar but unrelated to 龠. The contemporary stylized form 册 is unrelated to 朋.

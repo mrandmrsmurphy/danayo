@@ -39,7 +39,7 @@ tags:
 ```
 ## Notes
 
-
+- 会意 of [[廾]] ("two hands") + [[口]] ("an object") — holding up an object with two hands.
 ## Words
 - [[共産]]
 - [[共同]]

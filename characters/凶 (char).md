@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): and/or Ideogram (指事)- with the ' 凵 ' component representing a hole in the ground and with the ' 㐅 ' component (if an ideogram) indicating the existence of a hole and/or (if a pictogram) representing rock, mud, stone or bamboo in the hole. Alternately, could be derived from the upper component of ' 㚇 '.
 ## Words
 - [[凶悪]]
 - [[凶器]]

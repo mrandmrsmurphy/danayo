@@ -40,7 +40,7 @@ tags:
 ```
 ## Notes
 
-
+- [List of 象形](lookup/List%20of%20象形.md): a person (人) carrying something. It is often simplified to 㠯 in pre- Qin ancient scripts. Today, the person is partly visible on the right (see also the stylization in 从).
 ## Chengyu
 - <ruby>[義以立名](/chengyu/義以立名.md)<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>
 

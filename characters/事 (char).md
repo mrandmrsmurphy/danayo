@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 会意 of [[又]] ("hand") + [[中]] ("a flagpole with a drum") — flag in hand > to perform one's job.
 ## Words
 - [[事実]]
 - [[事情]]

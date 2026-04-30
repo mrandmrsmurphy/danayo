@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ʔsaːɡs, \*ʔsaːɡs, \*ʔsaːɡ): semantic [[Radical 009|亻]] ("person") + phonetic [[乍]] (OC \*zraːɡs).
 ## Words
 - [[作用]]
 - [[製作]]

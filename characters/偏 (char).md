@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*pʰen, \*pʰens): semantic [[Radical 009|亻]] ("") + phonetic [[扁]] (OC \*pʰen, \*benʔ, \*peːnʔ, \*beːnʔ).
 - 偏 was added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 仙A三開]]

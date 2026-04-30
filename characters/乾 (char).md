@@ -48,6 +48,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*kaːn, \*ɡran): semantic [[倝]] ("") + phonetic [[乙]] (OC \*kaːns).
 ## Words
 - [[乾浄]]
 - [[乾達婆]]

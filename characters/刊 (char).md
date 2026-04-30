@@ -40,6 +40,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kʰaːn): semantic [[Radical 018|刀]] ("knife") + phonetic [[]] (OC \*kaːn).
 - [[季刊]]
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 寒]]

@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a human with crossed legs. In today's writing, the upper part of the human is similar to 立, which in turn depicts a man standing. Unrelated to 父.
 - Derived characters
 	- <ruby>[絞](/characters/絞.md)<rt>ㄍ⼄ㄨ</rt></ruby>
 	- <ruby>[咬](/characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby>

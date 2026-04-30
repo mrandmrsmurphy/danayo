@@ -40,3 +40,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 豪]]
+
+## Notes
+- 形声 (OC \*taːwʔ, \*taːws): semantic [[Radical 009|亻]] ("") + phonetic [[到]] (OC \*taːws).

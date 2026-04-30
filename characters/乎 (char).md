@@ -43,9 +43,11 @@ kwin: true
 [[nav/char_info]]
 ```
 ## Notes
-- Derived characters: [呼](characters/呼%20(char).md)
+- [List of 会意](../lookup/List%20of%20会意.md) : of 丂 ("wind; air") — original form of 呼 (OC \*qʰaː, “to call; to cry”).
+### Derived characters
+- [呼](characters/呼%20(char).md)
+[[Lookup/CC/initials/聲 匣]]
+[[Lookup/CC/finals/韻 模]]
 
 ## Words
 - To make rhetorical questions, use [[不亦V乎]]
-[[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 模]]
