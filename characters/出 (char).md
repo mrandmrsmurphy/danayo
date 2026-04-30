@@ -44,7 +44,8 @@ kwin: true
 ## Notes
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 術]]
-- 会意 of [[止]] ("foot") + [[凵]] ("cave") — to step out of a cave; to exit.
+- [List of 会意](../lookup/List%20of%20会意.md) of [[止]] ("foot") + [[凵]] ("cave") — to step out of a cave; to exit.
+- [List of 象形](../lookup/List%20of%20象形.md)
 ### Derived Characters
 - [[黜]]
 

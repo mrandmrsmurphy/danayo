@@ -25,7 +25,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2024
 mc_id: 381
-graphemic_classification: 指事
+graphemic_classification: 會意
 stand_in: 共
 aliases:
 注音: ㄍ⼄ㄫ
