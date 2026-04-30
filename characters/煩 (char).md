@@ -40,6 +40,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 会意 of [[火]] ("fire") + [[焚]] ("head").
 - pronunciation altered to final -m for a unique syllable
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 元合]]

@@ -40,6 +40,7 @@ tags:
 ```
 ## Notes
 
+- 会意 of [[臣]] ("eye pointing down") + [[人]] ("person").
 ## Chengyu
 - [[臥薪嘗胆]]
 [[Lookup/CC/initials/聲 疑]]

@@ -43,4 +43,5 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 敷]]
 [[Lookup/CC/finals/韻 文]]
+- 形声 (OC \*pʰɯn): semantic [[Radical 120|糸]] ("") + phonetic [[分]] (OC \*pɯn, \*bɯns).
 - [[紛争]] "dispute, conflict"

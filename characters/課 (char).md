@@ -45,6 +45,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kʰloːl, \*kʰloːls): semantic [[Radical 149|言]] ("to say") + phonetic [[果]] (OC \*kloːlʔ) — to assess; to examine.
 - pronunciation altered to get a free syllable
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 戈一合]]

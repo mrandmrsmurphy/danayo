@@ -40,6 +40,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a snake's tongue emerging upwards from a mouth (口).
 - Promoted from Korean HS to MS list in 2000.
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 薛A三開]]

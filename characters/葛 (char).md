@@ -42,3 +42,6 @@ tags:
 V pronunciation 
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 曷]]
+
+## Notes
+- 形声 (OC \*kaːd): semantic [[艹]] ("") + phonetic [[曷]] (OC \*ɡaːd).

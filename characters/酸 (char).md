@@ -38,6 +38,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*sloːn): semantic [[Radical 164|酉]] ("") + phonetic [[夋]] (OC \*sʰlun).
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 桓]]

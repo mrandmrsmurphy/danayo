@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*zluːm, \*hl'iːnʔ): semantic [[天]] ("insect") + phonetic [[]] (OC \*qʰl'iːn).
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 覃]]

@@ -34,5 +34,5 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 狎]]
-
+- 形声 (OC \*klaːb, \*kraːb): semantic [[Radical 167|金]] ("metal") + phonetic [[甲]] (OC \*kraːb).
 1. potassium

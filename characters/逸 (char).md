@@ -49,6 +49,7 @@ tags:
 ```
 ## Notes
 
+- 会意 of [[止]] + [[㚔]] + [[辵]] + [[兔]].
 ## Words
 - [[安逸]]
 [[Lookup/CC/initials/聲 以]]

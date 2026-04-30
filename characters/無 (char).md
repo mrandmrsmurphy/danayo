@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): . A person dancing with ox tails held in both hands to pray for rain.
 ## Chengyu
 - <ruby>[厚顔無恥](/chengyu/厚顔無恥.md)<rt>ㄏㄛㄨ·ㄚㄋㄇㄨㄑㄧ</rt></ruby> - utterly shameless
 - <ruby>[諸行無常](/chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄫㄇㄨㄙ⼘ㄫ</rt></ruby>

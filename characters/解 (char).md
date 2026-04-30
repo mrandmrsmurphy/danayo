@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 会意 of [[角]] ("horn") + [[刀]] ("knife") + [[牛]] ("cow") — a knife separates a horn from a cow, i.
 ## Words
 - [[了解]]
 - [[理解]]

@@ -41,3 +41,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 先開]]
+
+## Notes
+- 会意 of [[目]] ("eye") + [[卩]] ("kneeling person") — 目 (“ eye ”) + 卩 (“ kneeling person ”) – a kneeling human figure with a large eye for a head.

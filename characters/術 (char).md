@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ɦljud): semantic [[Radical 144|行]] ("street, path") + phonetic [[]] (OC \*l'ud, \*ɦljud).
 ## Words
 - <ruby>[巫術](/words/巫術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby> - shamanism
 [[Lookup/CC/initials/聲 禪]]

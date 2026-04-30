@@ -47,6 +47,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ɢʷaːd, \*ɢʷad): semantic [[Radical 156|走]] ("to walk or run") + phonetic [[戉]] (OC \*ɢʷad) — to go over; to cross.
 ## Chengyu
 - <ruby>[呉越同舟](/chengyu/呉越同舟.md)<rt>ㄛ·⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby>
 [[Lookup/CC/initials/聲 云]]

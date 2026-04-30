@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 会意 of [[辶]] ("to walk") — man-drawn carriage.
 ## Words
 - [[互連網]]
 - [[対連]]

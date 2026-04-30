@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ʔl'uːm): semantic [[Radical 128|耳]] ("") + phonetic [[冘]] (OC \*lu, \*lum).
 ## Words
 - [[眈眈]] glaring covetously 
 ## Chengyu

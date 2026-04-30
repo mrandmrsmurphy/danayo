@@ -51,6 +51,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*ŋjewʔ, \*ŋjaws): semantic [[Radical 120|糸]] ("rope") + phonetic [[]] (OC \*ŋeːw).
 - [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md)) - [ㄋㄛㄨ](syllables/ㄋㄛㄨ.md)
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 宵A]]

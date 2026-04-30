@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ɡu): semantic [[Radical 096|玉]] ("jade") + phonetic [[求]] (OC \*ɡu).
 ## Words
 - <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby> - soccer
 - 

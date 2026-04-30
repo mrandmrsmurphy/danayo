@@ -40,6 +40,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a person standing on the ground; compare 大 and 文.
 - 92nd most used character in Classical Chinese.
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – a person standing on the ground; compare 大 and 文. This characters is also a contracted form of 辛 on top of 妾 and 童. Unrelated to 音.
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md)) - [ㄌㄧㄆ](../syllables/ㄌㄧㄆ.md)

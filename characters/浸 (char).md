@@ -44,6 +44,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*ʔsims, \*sʰim): semantic [[Radical 085|水]] ("") + phonetic [[𡩠]] (OC ).
 - We do not follow Japanese mix 滲 into this.
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 侵A]]

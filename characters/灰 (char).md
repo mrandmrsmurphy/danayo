@@ -42,6 +42,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 会意 of [[又]] ("hand") + [[火]] ("fire") — fire that can be touched with the hand (ash).
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 灰]]

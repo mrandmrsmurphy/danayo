@@ -43,5 +43,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 虞]]
+- [List of 象形](lookup/List%20of%20象形.md): a cloud with drops of rain falling from it. The horizontal stroke at the top was added later. (Compare Egyptian 𓇲.).
 - [[雨傘]] "umbrella"
 - [[雨中]] "in the rain"

@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kriːl): semantic [[Radical 141|虍]] ("") + phonetic [[口]] (OC \*krilʔ).
 - The bottom component has corrupted from 甘 into 白, leading to the Shuowen reinterpretation of ideogrammic compound ([List of 会意](../lookup/List%20of%20会意.md)): [比 (char)](比%20(char).md) + [白](Radical%20106).
 - [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md)) - [ㄍ⼶](../syllables/ㄍ⼶.md)
 - 68th most used character in Classical Chinese

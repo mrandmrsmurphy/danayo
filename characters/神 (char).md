@@ -43,6 +43,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*hlin): semantic [[Radical 113|示]] ("god; deity") + phonetic [[申]] (OC \*hlin).
 ## Chengyu
 - [神経衰弱](../chengyu/神経衰弱.md)
 - [[除我莫神]]

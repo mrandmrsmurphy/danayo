@@ -42,6 +42,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kʷrɯwʔ): semantic [[九]] ("") + phonetic [[]] (OC \*kuʔ).
 - Added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 脂B合]]

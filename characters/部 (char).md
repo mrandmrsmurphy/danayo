@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*boːʔ, \*boːʔ, \*boːʔ, \*boːʔ): semantic [[咅]] ("") + phonetic [[邑]] (OC \*pʰɯʔ, \*pʰl'oːs).
 ## Words
 - [[北部]]
 - [[腹部]]

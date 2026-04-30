@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*paŋ, \*baŋ): semantic [[Radical 130|肉]] ("meat/flesh") + phonetic [[方]] (OC \*paŋ, \*baŋ).
 ## Words
 - [[脂肪]] - animal fat
 [[Lookup/CC/initials/聲 非]]

@@ -40,3 +40,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 模]]
+
+## Notes
+- 形声 (OC \*pʰaːʔ): semantic [[Radical 085|氵]] ("water; river") + phonetic [[甫]] (OC \*paʔ).

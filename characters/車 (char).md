@@ -42,6 +42,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): originally a carriage seen from above. In the oracle bone script, there were large wheels on both sides and a central shaft at the front.
 - Pronunciation altered to get a free syllable
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 麻三開]]

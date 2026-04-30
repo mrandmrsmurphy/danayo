@@ -42,6 +42,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kʰʷraː): semantic [[Radical 149|言]] ("words, language") + phonetic [[]] (OC \*kʰʷraː).
 - [[Radical 149|言]] + 夸 = [[SKIP-1-7-6]] ([[Stroke 13]])
 - [[Jōyō - Kōtō|Japanese HS]], [[Korean HS]], HSK 4, [[Grade 6]]
 [[Lookup/CC/initials/聲 溪]]

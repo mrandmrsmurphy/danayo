@@ -51,6 +51,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*hliɡ): semantic [[Radical 167|金]] ("") + phonetic [[失]] (OC ).
 ## Chengyu 
 - [[磨穿鉄硯]]
 [[Lookup/CC/initials/聲 透]]

@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kɯw, \*krɯwʔ): semantic [[丩]] ("silk") + phonetic [[]] (OC \*kɯw, \*krɯw).
 - Added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 幽]]

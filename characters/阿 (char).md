@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*qaːl): semantic [[Radical 170|阜]] ("") + phonetic [[可]] (OC \*kʰaːlʔ).
 - Dropped from the Korean HS list in 2000.
 
 

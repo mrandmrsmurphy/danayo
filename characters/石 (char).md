@@ -39,7 +39,7 @@ tags:
 ```
 ## Notes
 
-
+- [List of 象形](lookup/List%20of%20象形.md): a stone beneath a cliff (厂). The cliff was subsequently distorted into 丆; compare 叚, 段 as well as 度, 席.
 ## Words
 - <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium, abbreviated 石
 - 

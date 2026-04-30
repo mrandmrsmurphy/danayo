@@ -39,6 +39,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): a stomach with food inside, originally appearing as 𱕻. A semantic 肉 was added later to differentiate.
 ## Words
 - [[胃癌]]
 - [[胃痛]]

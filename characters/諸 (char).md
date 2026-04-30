@@ -43,3 +43,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 戈三開]]
+
+## Notes
+- 形声 (OC \*tjaː, \*tja): semantic [[Radical 149|言]] ("") + phonetic [[者]] (OC \*tjaːʔ).

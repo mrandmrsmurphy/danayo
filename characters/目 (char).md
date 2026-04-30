@@ -39,6 +39,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): human eye, now rotated 90 degrees. Compare the Egyptian hieroglyph 𓁹.
 ## Words
 - <ruby>[題目](/words/題目.md)<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby> - topic
 [[Lookup/CC/initials/聲 明]]

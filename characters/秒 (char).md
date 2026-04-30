@@ -38,6 +38,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*mewʔ): semantic [[Radical 115|禾]] ("cereal; grain") + phonetic [[少]] (OC \*hmjewʔ, \*hmjews).
 - Added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 宵A]]

@@ -39,6 +39,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*toːnʔ): semantic [[Radical 111|矢]] ("") + phonetic [[豆]] (OC \*doːs).
 ## Words
 - [[短音]]
 

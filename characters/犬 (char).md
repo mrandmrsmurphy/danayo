@@ -40,4 +40,5 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 先合]]
+- [List of 象形](lookup/List%20of%20象形.md): the side view of a dog.
 - [[犬吠]] "bark, barking"

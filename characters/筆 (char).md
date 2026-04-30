@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*prud): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[聿]] (OC \*b·lud).
 - Altered to take advantage of a vacant syllable
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 質開]]

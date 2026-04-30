@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a shield (in the oracle bone script). Note that under the 𠂆 is not 直 - one less stroke here. See also 古, perhaps a differentiation of 盾.
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 諄]]

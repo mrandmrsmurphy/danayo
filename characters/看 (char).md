@@ -42,6 +42,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 会意 of [[手]] ("hand") + [[目]] ("eye") — to put a hand above eyes to gaze afar.
 - [SKIP-3-4-5](lookup/SKIP/SKIP-3/SKIP-3-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md) - [ㄎㄚㄋ](syllables/ㄎㄚㄋ.md)
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
 [[Lookup/CC/initials/聲 溪]]

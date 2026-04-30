@@ -39,6 +39,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ʔsuɡ, \*sʰuɡ): semantic [[Radical 157|足]] ("foot") + phonetic [[就]] (OC \*zuɡs).
 ## Words
 - <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby> - soccer
 [[Lookup/CC/initials/聲 清]]

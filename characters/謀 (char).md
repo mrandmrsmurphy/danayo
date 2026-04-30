@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*mɯ): semantic [[Radical 149|言]] ("") + phonetic [[某]] (OC \*mɯʔ).
 ## Words
 - <ruby>[権謀](/words/権謀.md)<rt>ㄍ⼔ㄋㄇㄨㄛ</rt></ruby> - power plan
 [[Lookup/CC/initials/聲 明]]

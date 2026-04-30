@@ -40,3 +40,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 豪]]
+
+## Notes
+- 形声 (OC \*ʔsaːwʔ, \*saːw, \*sʰaw): semantic [[Radical 120|糸]] ("thread") + phonetic [[喿]] (OC \*saːws).

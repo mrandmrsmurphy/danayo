@@ -41,6 +41,7 @@ tags:
 ## Notes
 1. bitter
 2. abbreviation for "magnesium" 
+- 形声 (OC \*kʰaːʔ, \*kʰaːs): semantic [[Radical 140|艸]] ("grass") + phonetic [[古]] (OC \*kaːʔ) — bitter (as in bitter plants).
 ## Words
 * [[苦瓜]] bitter melon
 * [[苦役]] hard labor

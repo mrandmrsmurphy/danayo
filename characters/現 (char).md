@@ -43,6 +43,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*ɡeːns): semantic [[Radical 096|玉]] ("jade") + phonetic [[]] (OC \*keːns, \*ɡeːns) — to appear.
 ## Words
 - <ruby>[実現](/words/実現.md)<rt>ㄙㄧㄊㄏ⼶ㄋ</rt></ruby> - implement
 - <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby> - present

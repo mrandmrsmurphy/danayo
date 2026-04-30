@@ -42,6 +42,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*rab): semantic [[犭]] ("") + phonetic [[巤]] (OC \*rab).
 - Added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 葉三]]

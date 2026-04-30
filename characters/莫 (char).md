@@ -40,6 +40,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): the sun (日) sinking into the bushes (屮); dusk. Original form of 暮 (OC *maːɡs, “dusk”).
 ### Derived Characters
 - [寞](寞.md)
 [[Lookup/CC/initials/聲 明]]

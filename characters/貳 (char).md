@@ -44,6 +44,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*njis): semantic [[弍]] ("two") + phonetic [[]] (OC \*njis).
 - Dropped from the Korean MS list in 2000
 [[Radical 154]] – 貝/shell – has "two" above it and is surrounded by Radical 56, the shoot.  There is, therefore a SURROUNDING component of 3 strokes, and an inner component of 8 strokes, hence [[SKIP-3-3-8]].  This was originally a phono-semantic compound (形聲 / 形声, OC \*njis): semantic 貝 + phonetic 弍 (OC \*njis, “two”).  A "secondary" or "assistant" with respect to money might be "unfaithful" or "disloyal" (for a price).  It has also long been a financial alternative for plain "two"/二.
 

@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*kʰoːd): semantic [[活]] ("gate; door") + phonetic [[]] (OC \*koːd, \*ɡoːd).
 ## Words
 - <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
 [[Lookup/CC/initials/聲 溪]]

@@ -45,7 +45,7 @@ tags:
 ```
 ## Notes
 
-
+- 形声 (OC \*naːl, \*naːlʔ, \*naːls): semantic [[冄]] ("city") + phonetic [[邑]] (OC \*njam, \*njamʔ).
 ## Words
 - <ruby>[支那](/words/支那.md)<rt>ㄐㄝㄋㄚ</rt></ruby> - Zhina
 - 

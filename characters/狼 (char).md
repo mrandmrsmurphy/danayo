@@ -39,6 +39,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*raːŋ): semantic [[犭]] ("") + phonetic [[良]] (OC \*raŋ).
 ## Chengyu
 - [[羊衣餓狼]]
 [[Lookup/CC/initials/聲 來]]

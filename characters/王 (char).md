@@ -40,6 +40,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): of a ritual axe made perhaps of jade, symbols of the king's power. A ceremonial axe was kept near the throne, and was used for performing rituals in ancient China.
 ### Derived Characters
 - [全 (char)](characters/全%20(char).md)
 

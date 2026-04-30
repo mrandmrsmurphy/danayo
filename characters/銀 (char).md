@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*ŋrɯn): semantic [[Radical 167|金]] ("metal") + phonetic [[艮]] (OC \*kɯːns).
 ## Words
 
 ## Chengyu

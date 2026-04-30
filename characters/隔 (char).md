@@ -37,6 +37,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*kreːɡ): semantic [[阝]] ("wall") + phonetic [[鬲]] (OC \*kreːɡ, \*ɡ·reːɡ) — to separate with a wall.
 - Added to the Korean HS list in 2000.
 
 ## Words

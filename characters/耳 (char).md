@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): an ear.
 - <ruby>[巻耳](/words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 之]]

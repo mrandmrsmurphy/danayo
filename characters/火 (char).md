@@ -41,6 +41,7 @@ tags:
 ```
 ## Notes
 
+- [List of 象形](lookup/List%20of%20象形.md): pictographic representation of a fire. Written as 灬 when at the bottom of a character, but still seen in the original form in the character 灸.
 ## Chengyu
 - <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> - cloud by day, fire by night
 

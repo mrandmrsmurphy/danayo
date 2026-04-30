@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 会意: A chisel 辛 piercing a piece of untreated jade in the middle of the character (now 日). Originally meaning "to treat jade", likely the original character of 璋 or 彰.
 ## Chengyu
 - [[断章取義]]
 - [[周章狼狽]]

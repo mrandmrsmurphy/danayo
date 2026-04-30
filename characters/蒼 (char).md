@@ -41,6 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*sʰaːŋ, \*sʰaːŋʔ): semantic [[Radical 140|艸]] ("grass") + phonetic [[]] (OC \*sʰaːŋ).
 - 滄 was dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 唐開]]

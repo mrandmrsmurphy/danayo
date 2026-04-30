@@ -44,3 +44,6 @@ tags:
 2. abbreviation for <ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby> "carbon"
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 寒]]
+
+## Notes
+- 形声 (OC \*tŋ̊ʰaːns): semantic [[Radical 086|火]] ("fire") + phonetic [[岸]] (OC \*ŋɡaːns).
