@@ -21,7 +21,7 @@ english:
 羅馬字: cuo
 諺文: "춧"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "無"
 danayo_id: 8308
 mc_id: 5429

@@ -21,7 +21,7 @@ english:
 羅馬字: min
 諺文: 민
 joyo_level: 表外字
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: 高等
 danayo_id: 7208
 mc_id: 4366

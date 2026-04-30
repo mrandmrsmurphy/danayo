@@ -43,7 +43,7 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 鐸開]]
+[[../lookup/CC/finals/韻 鈬開]]
 - [[悪化]] "worsen,aggravate, deteriorate"
 - [[悪劣]] "inferior, vile, nasty"
 - [[悪魔]] "- devil"

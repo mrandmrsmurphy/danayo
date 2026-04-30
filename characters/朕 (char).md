@@ -22,7 +22,7 @@ english:
 羅馬字: jum
 諺文: "줌"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7106
 mc_id: 815

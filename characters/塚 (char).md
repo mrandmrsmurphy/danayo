@@ -23,7 +23,7 @@ english:
 羅馬字: cong
 諺文: "총"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: ""
 danayo_id: 7325
 mc_id: 3978

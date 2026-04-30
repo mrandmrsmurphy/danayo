@@ -45,5 +45,5 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 鐸開]]
+[[../lookup/CC/finals/韻 鈬開]]
 - [[各種]] "every kind,all kinds,full range"

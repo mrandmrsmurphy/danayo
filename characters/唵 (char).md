@@ -22,7 +22,7 @@ english:
 羅馬字: "'om"
 諺文: "옴"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7129
 mc_id: 0

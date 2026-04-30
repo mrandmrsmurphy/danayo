@@ -41,5 +41,5 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 從]]
-[[Lookup/CC/finals/韻 鐸開]]
+[[../lookup/CC/finals/韻 鈬開]]
 - [[昨年]] "last year"

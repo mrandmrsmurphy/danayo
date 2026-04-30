@@ -22,7 +22,7 @@ english:
 羅馬字: cung
 諺文: "충"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 6163
 mc_id: 0

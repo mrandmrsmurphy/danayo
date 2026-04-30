@@ -19,7 +19,7 @@ english:
 羅馬字: gwad
 諺文: "괃"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: ""
 danayo_id: 7442
 mc_id: 8377

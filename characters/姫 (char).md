@@ -20,7 +20,7 @@ english:
 羅馬字: gi
 諺文: "기"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 8126
 mc_id: 780

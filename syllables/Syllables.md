@@ -210,11 +210,11 @@ views:
       - 諺文
       - english
     sort:
+      - property: size
+        direction: DESC
       - property: file.name
         direction: ASC
       - property: 羅馬字
-        direction: ASC
-      - property: size
         direction: ASC
       - property: date-last-perfect
         direction: ASC

@@ -20,7 +20,7 @@ english:
 羅馬字: hei
 諺文: "헤"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 7118
 mc_id: 954

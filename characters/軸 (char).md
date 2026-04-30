@@ -22,7 +22,7 @@ english:
 羅馬字: dug
 諺文: "둑"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6050
 mc_id: 2287

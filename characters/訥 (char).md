@@ -27,7 +27,7 @@ english:
 羅馬字: nod
 諺文: 녿
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7310
 mc_id: 3923

@@ -22,7 +22,7 @@ english:
 羅馬字: "'ig"
 諺文: "익"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7999
 mc_id: 5320

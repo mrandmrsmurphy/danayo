@@ -20,7 +20,7 @@ english:
 羅馬字: "'ud"
 諺文: 욷
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6008
 mc_id: 256

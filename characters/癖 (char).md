@@ -22,7 +22,7 @@ english:
 羅馬字: peg
 諺文: "퍽"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6040
 mc_id: 10652

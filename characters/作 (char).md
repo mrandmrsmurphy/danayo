@@ -42,7 +42,7 @@ tags:
 ## Notes
 - 形声 (OC \*ʔsaːɡs, \*ʔsaːɡs, \*ʔsaːɡ): semantic [[Radical 009|亻]] ("person") + phonetic [[乍]] (OC \*zraːɡs).
 [[Lookup/CC/initials/聲 精]]
-[[Lookup/CC/finals/韻 鐸開]]
+[[../lookup/CC/finals/韻 鈬開]]
 
 ## Words
 - [[作用]]

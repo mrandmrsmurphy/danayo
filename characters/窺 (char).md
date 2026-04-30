@@ -20,7 +20,7 @@ english:
 羅馬字: kui
 諺文: "퀴"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7444
 mc_id: 2132

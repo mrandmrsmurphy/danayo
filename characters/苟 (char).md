@@ -24,7 +24,7 @@ english:
 羅馬字: gou
 諺文: "곳"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "6"
 hanmun_edu_level: "高等"
 danayo_id: 7496
 mc_id: 898

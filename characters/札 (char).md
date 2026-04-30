@@ -23,7 +23,7 @@ english:
 羅馬字: jad
 諺文: "잗"
 joyo_level: 4
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6059
 mc_id: 2183

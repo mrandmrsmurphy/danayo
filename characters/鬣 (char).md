@@ -22,7 +22,7 @@ english:
 羅馬字: lob
 諺文: "롭"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: ""
 danayo_id: 7416
 mc_id: 3632

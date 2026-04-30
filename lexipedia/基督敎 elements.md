@@ -16,7 +16,7 @@
 	- [[總主教]] - primate
 	- [[枢机]]主教 - cardinal
 - [[教皇]] - pope
-- [[司鐸]] - priest vs [[牧師]] pastor/shepherd vs [[神父]] father/EO priest
+- [[司鈬]] - priest vs [[牧師]] pastor/shepherd vs [[神父]] father/EO priest
 - [[大教堂]] - cathedral (主教座堂 - seat of the bishop)
 - [[修道院]] - abbey, convent, monastery
 - [[神学院]] - seminary

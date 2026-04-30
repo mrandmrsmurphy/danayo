@@ -48,5 +48,5 @@ tags:
 ## Words
 - [[骨格]]
 [[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 鐸開]]
+[[../lookup/CC/finals/韻 鈬開]]
 - [[格式]] "format, form, style"

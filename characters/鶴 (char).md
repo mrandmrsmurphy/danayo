@@ -20,7 +20,7 @@ english:
 羅馬字: hag
 諺文: "학"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 8320
 mc_id: 2383
@@ -41,4 +41,4 @@ tags:
 
 # Notes
 [[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 鐸開]]
+[[../lookup/CC/finals/韻 鈬開]]

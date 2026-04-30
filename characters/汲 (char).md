@@ -21,7 +21,7 @@ english:
 羅馬字: kub
 諺文: "쿱"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7408
 mc_id: 1993

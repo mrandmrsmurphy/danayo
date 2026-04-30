@@ -23,7 +23,7 @@ english:
 羅馬字: fam
 諺文: "빰"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7508
 mc_id: 2778

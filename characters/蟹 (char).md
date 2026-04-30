@@ -20,7 +20,7 @@ english:
 羅馬字: hyai
 諺文: "햬"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 8311
 mc_id: 3998

@@ -23,7 +23,7 @@ english:
 羅馬字: je
 諺文: "저"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6045
 mc_id: 3101

@@ -22,7 +22,7 @@ english:
 羅馬字: sei
 諺文: "세"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: ""
 danayo_id: 7144
 mc_id: 2565

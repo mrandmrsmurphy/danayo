@@ -44,4 +44,4 @@ tags:
 - 形声 (OC \*ɡ·raːɡ): semantic [[Radical 120|糸]] ("thread") + phonetic [[各]] (OC \*klaːɡ) — wrapped in thread, a web of thread.
 - 瓔珞 --> [[䋝絡]]/纓絡
 [[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 鐸開]]
+[[../lookup/CC/finals/韻 鈬開]]

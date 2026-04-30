@@ -24,7 +24,7 @@ english:
 羅馬字: jwad
 諺文: "좓"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7216
 mc_id: 3966

@@ -1,34 +1,34 @@
 ---
-mandarin: "yì"
+mandarin: yì
 cantonese: ngaai6
-korean: "예"
-korean_native: "벨"
+korean: 예
+korean_native: 벨
 japanese:
   - GAI
 japanese_native: か
 vietnamese:
   - ngãi
-middle_chinese_initial: "ŋ"
-middle_chinese_final: "ɨɐi"
+middle_chinese_initial: ŋ
+middle_chinese_final: ɨɐi
 stroke_count: 4
-radical: "刀"
+radical: 刀
 skip_number: 1-2-2
-grade_level: "先進"
-pos: ""
+grade_level: 先進
+pos: 事詞
 english:
   - cut
   - mow
 羅馬字: "'yai"
-諺文: "얘"
-joyo_level: "高等"
-hsk_level: ""
-hanmun_edu_level: "名"
+諺文: 얘
+joyo_level: 高等
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 7515
 mc_id: 3233
-graphemic_classification: "乂"
-stand_in: "刈"
+graphemic_classification: 乂
+stand_in: 刈
 aliases:
-注音: "⼘ㄧ"
+注音: ⼘ㄧ
 tags:
   - character
 ---

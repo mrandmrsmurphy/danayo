@@ -21,7 +21,7 @@ english:
 羅馬字: jeng
 諺文: 정
 joyo_level: ""
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6053
 mc_id: 9038

@@ -21,7 +21,7 @@ english:
 羅馬字: gyad
 諺文: "갿"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 8215
 mc_id: 1671

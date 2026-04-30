@@ -22,7 +22,7 @@ english:
 羅馬字: pag
 諺文: "팍"
 joyo_level: "日本人名用漢字"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "無"
 danayo_id: 7330
 mc_id: 8366

@@ -12,13 +12,14 @@ views:
       - danayo_id
       - korean
       - english
-      - hanmun_edu_level
       - japanese
       - 羅馬字
-      - file.mtime
-      - date-last-perfect
       - grade_level
+      - hsk_level
+      - graphemic_classification
     sort:
+      - property: hsk_level
+        direction: DESC
       - property: file.mtime
         direction: ASC
       - property: date-last-perfect
@@ -51,8 +52,6 @@ views:
         direction: ASC
       - property: danayo_id
         direction: ASC
-      - property: hsk_level
-        direction: ASC
       - property: formula.score
         direction: DESC
       - property: joyo_level
@@ -80,6 +79,6 @@ views:
       formula.score: 112
       note.danayo_id: 64
       note.english: 183
-      note.hanmun_edu_level: 58
       note.japanese: 142
-      note.cantonese: 102
+      note.grade_level: 89
+      note.hsk_level: 58
