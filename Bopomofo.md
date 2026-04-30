@@ -1,0 +1,1 @@
+Dan'a'yo uses the Zhuyin/Bopomofo alphabet as ruby to phonetically transcribe words in all situations possible.  The official name is [注音符號](words/注音符号.md).
