@@ -1,7 +1,7 @@
 ---
-mandarin: "kōng"
-cantonese: "hung1"
-korean: "공"
+mandarin: kōng
+cantonese: hung1
+korean: 공
 korean_native: 빌
 japanese:
   - KUU
@@ -24,7 +24,7 @@ english:
 羅馬字: kong
 諺文: 콩
 joyo_level: "1"
-hsk_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 144
 mc_id: 632

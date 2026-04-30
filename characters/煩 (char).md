@@ -21,7 +21,7 @@ english:
 羅馬字: fom
 諺文: "뽐"
 joyo_level: ""
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4176
 mc_id: 1037

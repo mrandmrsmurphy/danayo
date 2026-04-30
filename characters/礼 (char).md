@@ -33,7 +33,7 @@ english:
 羅馬字: lei
 諺文: "레"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: ""
 danayo_id: 3206
 mc_id: 115

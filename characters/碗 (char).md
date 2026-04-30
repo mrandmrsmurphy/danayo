@@ -23,7 +23,7 @@ english:
 諺文: "완"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6267
 mc_id: 8239
 graphemic_classification: "宛"

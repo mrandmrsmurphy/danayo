@@ -23,7 +23,7 @@ english:
 羅馬字: bou
 諺文: "봇"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2256
 mc_id: 704

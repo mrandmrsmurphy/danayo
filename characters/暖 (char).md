@@ -23,7 +23,7 @@ english:
 羅馬字: nan
 諺文: "난"
 joyo_level: 6
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2127
 mc_id: 2629

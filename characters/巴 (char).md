@@ -26,7 +26,7 @@ english:
 諺文: 파
 joyo_level: 日本人名用漢字
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7409
 mc_id: 1565
 graphemic_classification: 象形

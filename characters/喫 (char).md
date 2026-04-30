@@ -28,7 +28,7 @@ english:
 諺文: "컥"
 joyo_level: "高等"
 hsk_level: 1
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6327
 mc_id: 9302
 graphemic_classification: "契"

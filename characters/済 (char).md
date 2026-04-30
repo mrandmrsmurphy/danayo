@@ -21,7 +21,7 @@ english:
 羅馬字: jei
 諺文: "제"
 joyo_level: 4
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4161
 mc_id: 579

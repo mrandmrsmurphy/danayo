@@ -1,7 +1,7 @@
 ---
-mandarin: "lián"
-cantonese: "lin4"
-korean: "련"
+mandarin: lián
+cantonese: lin4
+korean: 련
 korean_native: 잇닿을
 japanese:
   - REN
@@ -20,7 +20,7 @@ english:
 羅馬字: lyen
 諺文: 련
 joyo_level: "4"
-hsk_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2250
 mc_id: 703

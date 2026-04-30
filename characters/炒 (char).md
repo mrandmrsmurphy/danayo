@@ -25,7 +25,7 @@ english:
 諺文: "찻"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7048
 mc_id: 7495
 graphemic_classification: "少"

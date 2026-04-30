@@ -23,7 +23,7 @@ english:
 諺文: "럼"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7263
 mc_id: 4747
 graphemic_classification: "兼"

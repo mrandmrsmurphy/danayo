@@ -24,7 +24,7 @@ english:
 諺文: "고"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6238
 mc_id: 1484
 graphemic_classification: "會意"

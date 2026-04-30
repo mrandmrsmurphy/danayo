@@ -14,14 +14,14 @@ stroke_count: 10
 radical: 心
 skip_number: 2-2-8
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - romance
   - romantic love
 羅馬字: len
 諺文: 런
-joyo_level: ""
-hsk_level: ""
+joyo_level: 高等
+hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 6360
 mc_id: 3590

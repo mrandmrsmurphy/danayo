@@ -23,7 +23,7 @@ english:
 諺文: "담"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7447
 mc_id: 6374
 graphemic_classification: "炎"

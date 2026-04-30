@@ -1,7 +1,7 @@
 ---
-mandarin: "yǐ"
-cantonese: "ji5"
-korean: "이"
+mandarin: yǐ
+cantonese: ji5
+korean: 이
 korean_native: 써
 japanese:
   - I
@@ -21,7 +21,7 @@ english:
 羅馬字: "'i"
 諺文: 이
 joyo_level: "4"
-hsk_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2008
 mc_id: 4

@@ -23,7 +23,7 @@ english:
 諺文: "톡"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7137
 mc_id: 2962
 graphemic_classification: "豕"

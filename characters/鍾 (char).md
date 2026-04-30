@@ -22,7 +22,7 @@ english:
 諺文: "종"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7256
 mc_id: 1133
 graphemic_classification: "重"

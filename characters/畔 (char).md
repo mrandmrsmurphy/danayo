@@ -22,7 +22,7 @@ english:
 諺文: "반"
 joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7104
 mc_id: 1364
 graphemic_classification: "半"

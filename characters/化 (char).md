@@ -25,7 +25,7 @@ english:
 羅馬字: hwa
 諺文: "화"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2038
 mc_id: 367

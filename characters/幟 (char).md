@@ -22,7 +22,7 @@ english:
 諺文: "치"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7223
 mc_id: 2986
 graphemic_classification: "戠"

@@ -21,7 +21,7 @@ english:
 羅馬字: fon
 諺文: 뽄
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 4219
 mc_id: 4924

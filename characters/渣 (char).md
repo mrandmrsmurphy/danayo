@@ -24,7 +24,7 @@ english:
 諺文: "좌"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7377
 mc_id: 0
 graphemic_classification: "査"

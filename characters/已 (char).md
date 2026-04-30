@@ -20,7 +20,7 @@ english:
 羅馬字: "'ǝ"
 諺文: 으
 joyo_level: 日本人名用漢字
-hsk_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 13
 mc_id: 160

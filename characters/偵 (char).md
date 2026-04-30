@@ -23,7 +23,7 @@ english:
 諺文: "팅"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6124
 mc_id: 5621
 graphemic_classification: "貞"

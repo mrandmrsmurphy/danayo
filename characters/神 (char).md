@@ -24,7 +24,7 @@ english:
 羅馬字: sin
 諺文: "신"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2184
 mc_id: 218

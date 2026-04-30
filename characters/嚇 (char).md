@@ -23,7 +23,7 @@ english:
 諺文: "학"
 joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6276
 mc_id: 5539
 graphemic_classification: "赫"

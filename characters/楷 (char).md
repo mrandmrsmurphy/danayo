@@ -23,7 +23,7 @@ english:
 諺文: "켜"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7163
 mc_id: 3864
 graphemic_classification: "皆"

@@ -1,7 +1,7 @@
 ---
-mandarin: "lì"
-cantonese: "lap6"
-korean: "립"
+mandarin: lì
+cantonese: lap6
+korean: 립
 korean_native: 설
 japanese:
   - RITSU
@@ -22,7 +22,7 @@ english:
 羅馬字: lib
 諺文: 립
 joyo_level: "1"
-hsk_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 73
 mc_id: 92

@@ -28,7 +28,7 @@ english:
 羅馬字: hyo
 諺文: "효"
 joyo_level: 5
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 3238
 mc_id: 478

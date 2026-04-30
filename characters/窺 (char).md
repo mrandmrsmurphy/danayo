@@ -21,7 +21,7 @@ english:
 諺文: "퀴"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7444
 mc_id: 2132
 graphemic_classification: "規"

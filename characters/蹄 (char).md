@@ -22,7 +22,7 @@ english:
 諺文: "데"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 8265
 mc_id: 2932
 graphemic_classification: "帝"

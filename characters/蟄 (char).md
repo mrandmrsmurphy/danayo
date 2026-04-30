@@ -25,7 +25,7 @@ english:
 諺文: "칩"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7326
 mc_id: 2302
 graphemic_classification: "執"

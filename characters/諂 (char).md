@@ -22,7 +22,7 @@ english:
 諺文: "첨"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7313
 mc_id: 1903
 graphemic_classification: "陥"

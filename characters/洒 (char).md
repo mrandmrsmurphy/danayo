@@ -31,7 +31,7 @@ english:
 諺文: 쇄
 joyo_level: 表外字
 hsk_level: ''
-hanmun_edu_level: ''
+hanmun_edu_level: "名"
 danayo_id: 7076
 mc_id: 2914
 graphemic_classification: 麗

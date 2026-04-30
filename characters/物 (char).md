@@ -23,7 +23,7 @@ english:
 羅馬字: mud
 諺文: 묻
 joyo_level: "3"
-hsk_level: "4"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2166
 mc_id: 156

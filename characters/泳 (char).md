@@ -21,7 +21,7 @@ english:
 羅馬字: "'wing"
 諺文: "윙"
 joyo_level: 3
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 3176
 mc_id: 5141

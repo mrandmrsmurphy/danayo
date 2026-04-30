@@ -22,7 +22,7 @@ english:
 諺文: "전"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7395
 mc_id: 4439
 graphemic_classification: "前"

@@ -24,7 +24,7 @@ english:
 諺文: "텁"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6291
 mc_id: 5410
 graphemic_classification: "占"

@@ -34,7 +34,7 @@ english:
 諺文: "놋"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7295
 mc_id: 2690
 graphemic_classification: "堯"

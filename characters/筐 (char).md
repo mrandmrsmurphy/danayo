@@ -21,7 +21,7 @@ english:
 諺文: "쾅"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7287
 mc_id: 2774
 graphemic_classification: "匡"

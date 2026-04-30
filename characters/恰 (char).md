@@ -23,7 +23,7 @@ english:
 諺文: 캅
 joyo_level: 日本人名用漢字
 hsk_level: "3"
-hanmun_edu_level:
+hanmun_edu_level: "名"
 danayo_id: 7359
 mc_id: 8219
 graphemic_classification: 合

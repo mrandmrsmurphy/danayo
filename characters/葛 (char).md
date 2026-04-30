@@ -22,7 +22,7 @@ english:
 諺文: "갿"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 8215
 mc_id: 1671
 graphemic_classification: "喝"

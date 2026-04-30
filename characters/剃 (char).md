@@ -22,7 +22,7 @@ english:
 諺文: "테"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7343
 mc_id: 7175
 graphemic_classification: "弟"

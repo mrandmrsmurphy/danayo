@@ -25,7 +25,7 @@ english:
 諺文: "힝"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7074
 mc_id: 5049
 graphemic_classification: "冋"

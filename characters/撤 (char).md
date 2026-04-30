@@ -27,7 +27,7 @@ english:
 諺文: "덛"
 joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6197
 mc_id: 4802
 graphemic_classification: "徹"

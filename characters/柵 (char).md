@@ -22,7 +22,7 @@ english:
 諺文: "착"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7069
 mc_id: 6246
 graphemic_classification: "册"

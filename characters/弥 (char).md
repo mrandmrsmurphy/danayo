@@ -22,7 +22,7 @@ english:
 諺文: 머
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6031
 mc_id: 1184
 graphemic_classification: 尔

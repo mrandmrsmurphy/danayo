@@ -24,7 +24,7 @@ english:
 羅馬字: gai
 諺文: 개
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2114
 mc_id: 722

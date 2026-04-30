@@ -21,7 +21,7 @@ english:
 諺文: "닥"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7525
 mc_id: 2495
 graphemic_classification: "尺"

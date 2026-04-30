@@ -22,7 +22,7 @@ english:
 羅馬字: sui
 諺文: "쉬"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 4300
 mc_id: 201

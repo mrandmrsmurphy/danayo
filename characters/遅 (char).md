@@ -20,7 +20,7 @@ english:
 羅馬字: ciǝ
 諺文: 츼
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 4280
 mc_id: 1344

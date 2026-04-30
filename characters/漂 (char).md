@@ -31,7 +31,7 @@ english:
 羅馬字: pyo
 諺文: "표"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4168
 mc_id: 2744

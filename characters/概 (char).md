@@ -22,7 +22,7 @@ english:
 羅馬字: gai
 諺文: 개
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 4143
 mc_id: 2854

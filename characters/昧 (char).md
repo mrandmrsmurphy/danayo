@@ -23,7 +23,7 @@ english:
 諺文: "매"
 joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6139
 mc_id: 1534
 graphemic_classification: "未"

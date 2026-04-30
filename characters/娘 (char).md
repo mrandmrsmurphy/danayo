@@ -1,8 +1,8 @@
 ---
-mandarin: "niáng"
+mandarin: niáng
 cantonese: noeng4
-korean: "낭"
-korean_native: "여자"
+korean: 낭
+korean_native: 여자
 japanese:
   - NYOU
 japanese_native: ""
@@ -10,28 +10,28 @@ vietnamese:
   - nàng
   - nương
   - nường
-middle_chinese_initial: "ɳ"
-middle_chinese_final: "ɨɐŋ"
+middle_chinese_initial: ɳ
+middle_chinese_final: ɨɐŋ
 stroke_count: 10
-radical: "女"
+radical: 女
 skip_number: 1-3-7
 grade_level: 5
-pos: "名詞"
+pos: 名詞
 english:
   - young woman
 羅馬字: nang
-諺文: "낭"
-joyo_level: "高等"
-hsk_level: "無"
-hanmun_edu_level: "高等"
+諺文: 낭
+joyo_level: 高等
+hsk_level: "1"
+hanmun_edu_level: 高等
 danayo_id: 5023
 mc_id: 5193
-graphemic_classification: "良"
-stand_in: "娘"
+graphemic_classification: 良
+stand_in: 娘
 aliases:
   - 孃
   - 嬢
-注音: "ㄋㄚㄫ"
+注音: ㄋㄚㄫ
 tags:
   - character
 ---

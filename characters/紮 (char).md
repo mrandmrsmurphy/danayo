@@ -23,7 +23,7 @@ english:
 諺文: "잗"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7292
 mc_id: 6215
 graphemic_classification: "札"

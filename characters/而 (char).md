@@ -21,7 +21,7 @@ english:
 羅馬字: ni
 諺文: 니
 joyo_level: 日本人名用漢字
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 4220
 mc_id: 5

@@ -24,7 +24,7 @@ english:
 諺文: "곤"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6202
 mc_id: 988
 graphemic_classification: "象形"

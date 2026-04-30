@@ -21,7 +21,7 @@ english:
 諺文: "과"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6283
 mc_id: 10623
 graphemic_classification: "咼"

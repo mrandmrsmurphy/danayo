@@ -23,7 +23,7 @@ english:
 諺文: "줌"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7106
 mc_id: 815
 graphemic_classification: "會意"

@@ -23,7 +23,7 @@ english:
 諺文: "완"
 joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6024
 mc_id: 3621
 graphemic_classification: "宛"

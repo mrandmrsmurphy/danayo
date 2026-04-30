@@ -21,7 +21,7 @@ english:
 諺文: "린"
 joyo_level: "日本人名用漢字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7131
 mc_id: 2250
 graphemic_classification: "粦"

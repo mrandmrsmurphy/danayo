@@ -26,7 +26,7 @@ english:
 羅馬字: ced
 諺文: 첟
 joyo_level: "2"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 4029
 mc_id: 1183

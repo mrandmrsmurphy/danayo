@@ -1,11 +1,15 @@
 ---
 size: 2
-date-last-perfect:
+date-last-perfect: 2026-04-30
 radical: 至
-tags: [lookup]
-
+tags:
+  - lookup
 ---
 > [[Radicals]]
+
+## Characters
+1. <ruby>[至](/characters/至%20(char).md)<rt>ㄐㄧㄜ</rt></ruby> "until"
+2. <ruby>[致](/characters/致%20(char).md)<rt>ㄑㄧㄜ</rt></ruby> "cause"
 
 ## Data search
 ```dataview

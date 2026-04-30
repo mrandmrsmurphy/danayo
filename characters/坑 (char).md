@@ -23,7 +23,7 @@ english:
 諺文: "캉"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6210
 mc_id: 3185
 graphemic_classification: "亢"

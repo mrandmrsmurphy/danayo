@@ -21,7 +21,7 @@ english:
 諺文: 돋
 joyo_level: 高等
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6090
 mc_id: 0
 graphemic_classification: 象形

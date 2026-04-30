@@ -23,7 +23,7 @@ english:
 諺文: 취
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6086
 mc_id: 2721
 graphemic_classification: 吹

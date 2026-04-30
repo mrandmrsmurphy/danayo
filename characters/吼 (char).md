@@ -27,7 +27,7 @@ english:
 諺文: "홋"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7025
 mc_id: 7936
 graphemic_classification: "孔"

@@ -23,7 +23,7 @@ english:
 諺文: "염"
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7098
 mc_id: 2250
 graphemic_classification: "陥"

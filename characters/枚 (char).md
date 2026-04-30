@@ -23,7 +23,7 @@ english:
 諺文: "뫼"
 joyo_level: 6
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6145
 mc_id: 1449
 graphemic_classification: "會意"

@@ -21,7 +21,7 @@ english:
 羅馬字: job
 諺文: "좁"
 joyo_level: 5
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2111
 mc_id: 1047

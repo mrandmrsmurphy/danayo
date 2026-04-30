@@ -23,7 +23,7 @@ english:
 羅馬字: co
 諺文: 초
 joyo_level: ""
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 3003
 mc_id: 231

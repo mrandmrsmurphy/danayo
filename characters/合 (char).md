@@ -1,7 +1,7 @@
 ---
-mandarin: "hé"
-cantonese: "hap6"
-korean: "합"
+mandarin: hé
+cantonese: hap6
+korean: 합
 korean_native: 합할
 japanese:
   - GOU
@@ -25,7 +25,7 @@ english:
 羅馬字: gob
 諺文: 곱
 joyo_level: "2"
-hsk_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2048
 mc_id: 260

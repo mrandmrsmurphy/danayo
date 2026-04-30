@@ -21,7 +21,7 @@ english:
 諺文: "숫"
 joyo_level: "高等"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6297
 mc_id: 2775
 graphemic_classification: "由"

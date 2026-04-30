@@ -23,7 +23,7 @@ english:
 諺文: "뿜"
 joyo_level: "表外字"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7290
 mc_id: 2555
 graphemic_classification: "會意"

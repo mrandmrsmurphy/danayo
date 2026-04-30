@@ -22,7 +22,7 @@ english:
 諺文: 줴
 joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7405
 mc_id: 5656
 graphemic_classification: 追

@@ -22,7 +22,7 @@ english:
 諺文: 정
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 6053
 mc_id: 9038
 graphemic_classification: 定

@@ -20,7 +20,7 @@ english:
 羅馬字: tai
 諺文: 태
 joyo_level: "4"
-hsk_level: ""
+hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 4090
 mc_id: 1061

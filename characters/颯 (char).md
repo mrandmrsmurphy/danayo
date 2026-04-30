@@ -24,7 +24,7 @@ english:
 諺文: 삽
 joyo_level: 日本人名用漢字
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7422
 mc_id: 3883
 graphemic_classification: 立
