@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a bird flying upwards.
 - There is an aspectual difference between using this character alone vs. 飛行 (inherited from Mandarin).  飛 is a short jaunt, a little flight, and immediate flight.  飛行 is 'the means of travel known as flying', a prolonged flight, a "real" flight.
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 微合]]

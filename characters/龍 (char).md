@@ -55,6 +55,7 @@ tags:
 ```
 
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): originally depicting a sacred composite creature in ancient China, combining features of the snake, crocodile, fish, deer, etc.
 - While there are clearly parts ([[SKIP-1-9-7]]), "dragon" is regarded as a [[Radical 212|radical]], and so is fundamental in some sense
 - [[Jōyō - Kōtō]], [[Korean HS]], HSK 2, [[Grade 4]], [[ㄌ⼄ㄫ]]
 - Dan'a'yo rejects the Chinese simplification to 龙 and Shinjitai to 竜.  The Shinjitai is only used when the character alone, and the long-form reappears in compound words in Japanese!  I

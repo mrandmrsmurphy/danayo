@@ -42,6 +42,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*kuːd): semantic [[冎]] ("") + phonetic [[肉]] (OC ).
 ### Derived characters
 - [[滑 (char)]]
 

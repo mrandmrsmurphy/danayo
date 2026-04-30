@@ -43,6 +43,7 @@ tags:
 ```
 ## Notes
 
+- 形声 (OC \*lɯɡs, \*ɦljɯɡ): semantic [[亼]] ("") + phonetic [[皀]] (OC \*zub).
 ## Chengyu
 - [[弱肉強食]]
 [[Lookup/CC/initials/聲 禪]]

@@ -42,3 +42,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 帖]]
+
+## Notes
+- 形声 (OC ): semantic [[]] ("head") + phonetic [[]] (OC ) — part of the head.

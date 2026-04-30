@@ -41,3 +41,6 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 蒸]]
+
+## Notes
+- 形声 (OC \*qɯŋ): semantic [[䧹]] ("bird") + phonetic [[]] (OC \*qɯŋ).

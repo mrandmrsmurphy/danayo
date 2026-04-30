@@ -39,6 +39,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*pʰaːl, \*pʰaːlʔ, \*pʰaːls): semantic [[Radical 107|皮]] ("") + phonetic [[]] (OC \*bral).
 - Vietnamese pronunciation chosen to fill a vacant syllable
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 戈一合]]
