@@ -1,8 +1,8 @@
 ---
-mandarin: "piān"
+mandarin: piān
 cantonese: pin1
-korean: "편"
-korean_native: "치우칠"
+korean: 편
+korean_native: 치우칠
 japanese:
   - HEN
 japanese_native: かたよ
@@ -10,28 +10,28 @@ vietnamese:
   - thiên
   - xen
   - xiên
-middle_chinese_initial: "pʰ"
-middle_chinese_final: "iᴇn"
+middle_chinese_initial: pʰ
+middle_chinese_final: iᴇn
 stroke_count: 11
-radical: "人"
+radical: 人
 skip_number: 1-2-9
-grade_level: 5
-pos: ""
+grade_level: "5"
+pos: 性詞
 english:
   - slanted
   - inclined
   - biased
 羅馬字: pyen
-諺文: "편"
+諺文: 편
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 5199
 mc_id: 1311
-graphemic_classification: "扁"
-stand_in: "偏"
+graphemic_classification: 扁
+stand_in: 偏
 aliases:
-注音: "ㄆ⼶ㄋ"
+注音: ㄆ⼶ㄋ
 tags:
   - character
 ---
@@ -41,7 +41,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*pʰen, \*pʰens): semantic [[Radical 009|亻]] ("") + phonetic [[扁]] (OC \*pʰen, \*benʔ, \*peːnʔ, \*beːnʔ).
+- 形声 (OC \*pʰen, \*pʰens): semantic [[Radical 009|亻]] + phonetic [[扁]] (OC \*pʰen, \*benʔ, \*peːnʔ, \*beːnʔ).
 - 偏 was added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 仙A三開]]

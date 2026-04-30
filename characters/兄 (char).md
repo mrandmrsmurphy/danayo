@@ -42,13 +42,15 @@ tags:
 ```
 
 ## Notes
-- 会意 of [[口]].
 - Reduplication of this word for the diminutive suppletes to [[哥哥]].  However, great care should be taken when using it.  Like the English expression "little big brother", it is almost an oxymoron to refer to one's older brother in an endearing and cutesy way.  It can easily be highly disrespectful.
 - 口 + 儿 = [[SKIP-2-3-2]] ([[Stroke 05]]) [[ㄏ⼄ㄫ]]
 - [[Jōyō - Kyōiku]], [[Korean MS]], HSK 2, [[Grade 2]]
-- Ideogrammic compound ([List of 会意](lookup/List%20of%20会意.md): 口 + 儿 to convey the idea of giving orders. The original meaning of "elder brother" refers to the fact that the elder brother gives order to the younger brothers and his sisters. Compare 令, in which an open mouth on top of the character conveys the same idea of giving orders. Similar to 欠, in which there is a kneeling man with an open mouth.### Descended characters
+- Ideogrammic compound ([List of 会意](lookup/List%20of%20会意.md): 口 + 儿 to convey the idea of giving orders. The original meaning of "elder brother" refers to the fact that the elder brother gives order to the younger brothers and his sisters. Compare 令, in which an open mouth on top of the character conveys the same idea of giving orders. Similar to 欠, in which there is a kneeling man with an open mouth.
+- ### Descended characters
 - [[況]]
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 庚三合]]
+
+## Words
 - [[兄弟姉妹]] "siblings,brothers and sisters"
 - [[兄弟]] "brothers, brotherhood"

@@ -40,13 +40,14 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-- 会意 of [[入]] ("jade") + [[玉]] — a whole piece of jade; pure jade.
+- [List of 会意](../lookup/List%20of%20会意.md): [[入]] ("jade") + [[玉]] — a whole piece of jade; pure jade.
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md)
 - By radical, we have to say [入](Radical%20011) + [王](characters/王%20(char).md).  However, according to Shinjitai, the top is 人.  [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md)) - [ㄐ⼔ㄋ](syllables/ㄐ⼔ㄋ.md)
+[[Lookup/CC/initials/聲 從]]
+[[Lookup/CC/finals/韻 仙A三合]]
 ### Derived Characters
 - 銓 --> 選
 - [[詮]]
 - [栓 (char)](characters/栓%20(char).md)
-[[Lookup/CC/initials/聲 從]]
-[[Lookup/CC/finals/韻 仙A三合]]
-- [[全体]] "whole,entirity"
+## Words
+- [[全体]] "whole, entirety"

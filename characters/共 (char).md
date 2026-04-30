@@ -1,34 +1,34 @@
 ---
-mandarin: "gòng"
+mandarin: gòng
 cantonese: gung6
-korean: "공"
-korean_native: "함께"
+korean: 공
+korean_native: 함께
 japanese:
   - KYOU
 japanese_native: とも
 vietnamese:
   - cộng
 middle_chinese_initial: g
-middle_chinese_final: "ɨoŋ"
+middle_chinese_final: ɨoŋ
 stroke_count: 6
-radical: "八"
+radical: 八
 skip_number: 2-4-2
-grade_level: 2
-pos: "連接詞"
+grade_level: "2"
+pos: 連接詞
 english:
   - with
   - together
 羅馬字: gyong
-諺文: "굥"
-joyo_level: 4
-hsk_level: 1
-hanmun_edu_level: "中"
+諺文: 굥
+joyo_level: "4"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 2024
 mc_id: 381
-graphemic_classification: "指事"
-stand_in: "共"
+graphemic_classification: 指事
+stand_in: 共
 aliases:
-注音: "ㄍ⼄ㄫ"
+注音: ㄍ⼄ㄫ
 tags:
   - character
 ---
@@ -38,8 +38,7 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-
-- 会意 of [[廾]] ("two hands") + [[口]] ("an object") — holding up an object with two hands.
+- [List of 会意](../lookup/List%20of%20会意.md): [[廾]] ("two hands") + [[口]] ("an object") — holding up an object with two hands.  Eventually 口 (not “mouth”) came to be written 廿 (not “twenty”), which later fused with 廾 to form the modern 共.
 ## Words
 - [[共産]]
 - [[共同]]

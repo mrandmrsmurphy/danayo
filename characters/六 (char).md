@@ -54,9 +54,10 @@ where contains(characters, this.file.name)
 sort file.name
 ```
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): perhaps a shed. Originally using the similar-sounding word 廬 (OC *ra, “shed, cabin”) to represent the concept “six” (Liu Xinglong). Alternatively, it may be an ancient counting symbol.
-### Links
-![[nav/Numerals]]
+- [List of 象形](lookup/List%20of%20象形.md): perhaps a shed. Originally using the similar-sounding word 廬 (OC \*ra, “shed, cabin”) to represent the concept “six” (Liu Xinglong). Alternatively, it may be an ancient counting symbol.
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 屋三]]
+ 
+### Links
+![[nav/Numerals]]
 - [[六腑]] "six hollow organs"
