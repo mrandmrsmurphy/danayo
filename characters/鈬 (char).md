@@ -1,34 +1,34 @@
 ---
-mandarin: "duó"
+mandarin: duó
 cantonese: dok6
-korean:
-korean_native: "방울"
+korean: 탁
+korean_native: 방울
 japanese:
   - TAKU
 japanese_native: ø
 vietnamese:
   - xích
 middle_chinese_initial: d
-middle_chinese_final: "ɑk"
+middle_chinese_final: ɑk
 stroke_count: 12
-radical: "金"
+radical: 金
 skip_number: 1-8-4
-grade_level: "先進"
-pos: ""
+grade_level: 先進
+pos: 名詞
 english:
   - bronze bell
 羅馬字: dag
-諺文: "닥"
+諺文: 닥
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 7525
 mc_id: 2495
-graphemic_classification: "尺"
-stand_in: "鈬"
+graphemic_classification: 尺
+stand_in: 鈬
 aliases:
   - 鐸
-注音: "ㄉㄚㄎ"
+注音: ㄉㄚㄎ
 tags:
   - character
 ---
