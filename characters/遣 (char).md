@@ -1,8 +1,8 @@
 ---
-mandarin: "qiǎn"
-cantonese: "hin2"
-korean: "견"
-korean_native: "보낼"
+mandarin: qiǎn
+cantonese: hin2
+korean: 견
+korean_native: 보낼
 japanese:
   - KEN
 japanese_native: ""
@@ -15,7 +15,7 @@ stroke_count: 13
 radical: 辵
 skip_number: 3-3-10
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - dispatch
   - send

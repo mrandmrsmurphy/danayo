@@ -1,7 +1,7 @@
 ---
-mandarin: "zhī"
-cantonese: "zi1"
-korean: "지"
+mandarin: zhī
+cantonese: zi1
+korean: 지
 korean_native: 갈
 japanese:
   - SHI
@@ -36,6 +36,7 @@ aliases:
 date-last-perfect: 2026-02-20
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 之.
 >For the word, see [之](words/之.md)
