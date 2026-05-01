@@ -5,7 +5,7 @@ korean: 강
 korean_native: ''
 japanese:
 - KYOU
-japanese_native: ''
+japanese_native: こう
 vietnamese:
   - cưng
   - gừng

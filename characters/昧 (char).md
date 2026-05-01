@@ -5,7 +5,7 @@ korean: "매"
 korean_native: "어두울"
 japanese:
   - MAI
-japanese_native: ""
+japanese_native: くら
 vietnamese:
   - muội
   - mội

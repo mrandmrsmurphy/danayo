@@ -5,7 +5,7 @@ korean: "조"
 korean_native: "손톱"
 japanese:
   - SOU
-japanese_native: ""
+japanese_native: つま
 vietnamese:
   - trảo
   - trảu

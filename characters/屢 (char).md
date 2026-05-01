@@ -5,7 +5,7 @@ korean: 루
 korean_native: 창
 japanese:
   - RU
-japanese_native: ""
+japanese_native: しばしば
 vietnamese:
   - cũ
   - luã

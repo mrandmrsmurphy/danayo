@@ -6,7 +6,7 @@ korean_native: 온전할
 japanese:
   - ZEN
   - SEN
-japanese_native:
+japanese_native: すべ
   - まった-く,すべ-て
 vietnamese:
   - toàn, tuyền

@@ -5,7 +5,7 @@ korean: "혜"
 korean_native: "어조사"
 japanese:
   - KEI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - hề
 middle_chinese_initial: "ɣ"

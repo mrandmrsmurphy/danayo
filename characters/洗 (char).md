@@ -5,7 +5,7 @@ korean: 선
 korean_native: 씻을
 japanese:
   - SEN
-japanese_native: ""
+japanese_native: あら
 vietnamese:
   - dẫy
   - giẫy

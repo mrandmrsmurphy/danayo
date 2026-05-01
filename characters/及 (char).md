@@ -5,7 +5,7 @@ korean: 급
 korean_native: 미칠
 japanese:
   - KYUU
-japanese_native:
+japanese_native: およ
   - およ-ぶ
 vietnamese:
   - cập

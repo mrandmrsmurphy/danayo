@@ -6,7 +6,7 @@ korean_native: "끓일"
 japanese:
   - TOU
   - SHOU
-japanese_native: ""
+japanese_native: ゆ
 vietnamese:
   - thang
   - thoang

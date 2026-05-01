@@ -5,7 +5,7 @@ korean: 흉
 korean_native: 흉할
 japanese:
   - KYOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - hung
 middle_chinese_initial: x

@@ -5,7 +5,7 @@ korean: "투"
 korean_native: "던질"
 japanese:
   - TOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - nhầu
   - đầu

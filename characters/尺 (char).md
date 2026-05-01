@@ -6,7 +6,7 @@ korean_native: 자
 japanese:
   - SHAKU
   - SEKI
-japanese_native:
+japanese_native: さし
   - ものさし
 vietnamese:
   - xích

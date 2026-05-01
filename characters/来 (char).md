@@ -5,7 +5,7 @@ korean: "래"
 korean_native: "올"
 japanese:
   - RAI
-japanese_native:
+japanese_native: き
   - くる
 vietnamese:
   - lai

@@ -5,7 +5,7 @@ korean: "찰"
 korean_native: "문지를"
 japanese:
   - SATSU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - sát
   - xát

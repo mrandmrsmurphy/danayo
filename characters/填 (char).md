@@ -6,7 +6,7 @@ korean_native: 메울
 japanese:
   - TEN
   - CHIN
-japanese_native: ""
+japanese_native: うず
 vietnamese:
   - điền
   - đền

@@ -6,7 +6,7 @@ korean_native: "이를"
 japanese:
   - SOU
   - SATSU
-japanese_native: ""
+japanese_native: さ
 vietnamese:
   - tảo
 middle_chinese_initial: "t͡s"

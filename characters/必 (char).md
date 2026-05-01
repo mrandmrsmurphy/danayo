@@ -5,7 +5,7 @@ korean: 필
 korean_native: 반드시
 japanese:
   - HITSU
-japanese_native:
+japanese_native: かなら
   - かなら-ず
 vietnamese:
   - tất, ắt

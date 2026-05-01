@@ -5,7 +5,7 @@ korean: "접"
 korean_native: "이을"
 japanese:
   - SETSU
-japanese_native: ""
+japanese_native: つ
 vietnamese:
   - tiếp
 middle_chinese_initial: "t͡s"

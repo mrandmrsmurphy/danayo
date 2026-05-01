@@ -6,7 +6,7 @@ korean_native: ''
 japanese:
 - RIN
 - TEN
-japanese_native: ''
+japanese_native: ø
 vietnamese:
   - li
   - ly

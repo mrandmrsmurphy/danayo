@@ -5,7 +5,7 @@ korean: 장
 korean_native: 지팡이
 japanese:
   - JOU
-japanese_native: ""
+japanese_native: つえ
 vietnamese:
   - rường
   - trượng

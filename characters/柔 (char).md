@@ -6,7 +6,7 @@ korean_native: "부드러울"
 japanese:
   - NYUU
   - JUU
-japanese_native: ""
+japanese_native: やわ
 vietnamese:
   - nhu
 middle_chinese_initial: "ȵ"

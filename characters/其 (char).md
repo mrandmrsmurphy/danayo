@@ -6,7 +6,7 @@ korean_native: 그
 japanese:
   - KI
   - GI
-japanese_native:
+japanese_native: その
   - その
   - それ
 vietnamese:

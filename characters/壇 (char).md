@@ -6,7 +6,7 @@ korean_native: "단"
 japanese:
   - DAN
   - TAN
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - đàn
   - đườn

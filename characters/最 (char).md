@@ -5,7 +5,7 @@ korean: "최"
 korean_native: "가장"
 japanese:
   - SAI
-japanese_native: ""
+japanese_native: つま
 vietnamese:
   - tíu
   - túi

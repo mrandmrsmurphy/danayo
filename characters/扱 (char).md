@@ -5,7 +5,7 @@ korean: "급"
 korean_native: "미칠"
 japanese:
   - SOU
-japanese_native: ""
+japanese_native: あつか
 vietnamese:
   - chắp
   - chặp

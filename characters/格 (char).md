@@ -7,7 +7,7 @@ japanese:
   - KOU
   - KAKU
   - KYAKU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - cách
   - ghếch

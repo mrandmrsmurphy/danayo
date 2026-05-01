@@ -6,7 +6,7 @@ korean_native: "하여금"
 japanese:
   - REI
   - RYOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - lanh
   - liệng

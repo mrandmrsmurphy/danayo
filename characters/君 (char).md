@@ -5,7 +5,7 @@ korean: "군"
 korean_native: 임금
 japanese:
   - KUN
-japanese_native:
+japanese_native: ø
   - きん
 vietnamese:
   - quân, vua

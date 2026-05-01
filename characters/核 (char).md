@@ -5,7 +5,7 @@ korean: 핵
 korean_native: 씨
 japanese:
   - KAKU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - cây
   - cơi

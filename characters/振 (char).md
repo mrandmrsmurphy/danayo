@@ -5,7 +5,7 @@ korean: 진
 korean_native: 떨칠
 japanese:
   - SHIN
-japanese_native: ""
+japanese_native: ふ
 vietnamese:
   - chạn
   - chận

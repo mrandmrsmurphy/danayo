@@ -5,7 +5,7 @@ korean: "작"
 korean_native: "구기"
 japanese:
   - SHAKU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - chước
   - duộc

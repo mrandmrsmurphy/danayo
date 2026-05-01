@@ -5,7 +5,7 @@ korean: "심"
 korean_native: "찾을"
 japanese:
   - JIN
-japanese_native: ""
+japanese_native: たず
 vietnamese:
   - chầm
   - tìm

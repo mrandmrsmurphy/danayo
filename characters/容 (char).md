@@ -5,7 +5,7 @@ korean: "용"
 korean_native: "얼굴"
 japanese:
   - YOU
-japanese_native: ""
+japanese_native: い
 vietnamese:
   - dong
   - dung

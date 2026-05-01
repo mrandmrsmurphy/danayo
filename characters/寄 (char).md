@@ -5,7 +5,7 @@ korean: 기
 korean_native: 부칠
 japanese:
   - KI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - gửi
   - ké

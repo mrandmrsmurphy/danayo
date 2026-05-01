@@ -5,7 +5,7 @@ korean: "배"
 korean_native: 잔
 japanese:
   - HAI
-japanese_native:
+japanese_native: さかずき
   - さかずき
 vietnamese:
   - bôi

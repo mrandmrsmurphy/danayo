@@ -5,7 +5,7 @@ korean: "춘"
 korean_native: 봄
 japanese:
   - SHUN
-japanese_native:
+japanese_native: はる
   - はる
 vietnamese:
   - xoan, xuân

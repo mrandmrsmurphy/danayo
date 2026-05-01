@@ -5,7 +5,7 @@ korean: "원"
 korean_native: "담"
 japanese:
   - EN
-japanese_native: ""
+japanese_native: かき
 vietnamese:
   - viên
 middle_chinese_initial: "ø"

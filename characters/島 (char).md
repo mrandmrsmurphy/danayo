@@ -5,7 +5,7 @@ korean: "도"
 korean_native: "섬"
 japanese:
   - TOU
-japanese_native: ""
+japanese_native: しま
 vietnamese:
   - láo
   - đảo

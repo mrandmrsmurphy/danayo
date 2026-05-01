@@ -5,7 +5,7 @@ korean: "조"
 korean_native: 아침
 japanese:
   - CHOU
-japanese_native:
+japanese_native: あさ
   - あさ
 vietnamese:
   - triều, chầu, chào

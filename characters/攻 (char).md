@@ -5,7 +5,7 @@ korean: "공"
 korean_native: "칠"
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: せ
 vietnamese:
   - cuông
   - công

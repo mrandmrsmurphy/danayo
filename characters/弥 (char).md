@@ -5,7 +5,7 @@ korean: "미"
 korean_native: ""
 japanese:
   - MI
-japanese_native: ""
+japanese_native: いや
 vietnamese:
   - di
 middle_chinese_initial: m

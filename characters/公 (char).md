@@ -5,7 +5,7 @@ korean: 공
 korean_native: 공평할
 japanese:
   - KOU
-japanese_native:
+japanese_native: おおやけ
   - おおやけ
 vietnamese:
   - công

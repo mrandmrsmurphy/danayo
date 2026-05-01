@@ -6,7 +6,7 @@ korean_native: "효도"
 japanese:
   - KOU
   - KYOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - hiếu
   - hếu

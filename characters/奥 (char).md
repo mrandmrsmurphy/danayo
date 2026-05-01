@@ -5,7 +5,7 @@ korean: "오"
 korean_native: 깊을
 japanese:
   - OU
-japanese_native: ""
+japanese_native: おく
 vietnamese:
   - áo
 middle_chinese_initial: ʔ

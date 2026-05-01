@@ -5,7 +5,7 @@ korean: "원"
 korean_native: 둥글
 japanese:
   - EN
-japanese_native:
+japanese_native: まど
   - まる-い
 vietnamese:
   - viên, vin

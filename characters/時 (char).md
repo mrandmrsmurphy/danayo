@@ -6,7 +6,7 @@ korean_native: 때
 japanese:
   - JI
   - SHI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - thà
   - thì

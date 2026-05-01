@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "드릴"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - chiềng
   - chiệng

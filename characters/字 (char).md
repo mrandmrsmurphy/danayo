@@ -5,7 +5,7 @@ korean: "자"
 korean_native: 글자
 japanese:
   - JI
-japanese_native:
+japanese_native: ø
   - あざ
 vietnamese:
   - tự, chữ, tợ

@@ -7,7 +7,7 @@ japanese:
   - DAN
   - KEN
   - NON
-japanese_native: ""
+japanese_native: あたた
 vietnamese:
   - hoãn
   - noãn

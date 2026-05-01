@@ -6,7 +6,7 @@ korean_native: 여름
 japanese:
   - KA
   - GE
-japanese_native:
+japanese_native: なつ
   - なつ
 vietnamese:
   - hạ, hè

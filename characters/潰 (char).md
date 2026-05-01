@@ -6,7 +6,7 @@ korean_native: "무너질"
 japanese:
   - KAI
   - E
-japanese_native: ""
+japanese_native: つい
 vietnamese:
   - hòi
   - hói

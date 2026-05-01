@@ -6,7 +6,7 @@ korean_native: "고를"
 japanese:
   - KIN
   - IN
-japanese_native: ""
+japanese_native: なら
 vietnamese:
   - quân
 middle_chinese_initial: k

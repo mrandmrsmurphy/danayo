@@ -5,7 +5,7 @@ korean: "급"
 korean_native: 급할
 japanese:
   - KYUU
-japanese_native:
+japanese_native: いそ
   - いそ-ぐ
 vietnamese:
   - cấp, gấp, kép, kíp, quắp

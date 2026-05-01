@@ -7,7 +7,7 @@ japanese:
   - HOU
   - HATSU
   - HOTSU
-japanese_native: ""
+japanese_native: のり
 vietnamese:
   - pháp
   - phép

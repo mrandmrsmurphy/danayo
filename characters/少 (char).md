@@ -5,7 +5,7 @@ korean: "소"
 korean_native: "적을"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: すく
 vietnamese:
   - thiếu
   - thiểu

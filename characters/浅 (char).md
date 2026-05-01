@@ -5,7 +5,7 @@ korean: 천
 korean_native: 얕을
 japanese:
 - SEN
-japanese_native: ''
+japanese_native: あさ
 vietnamese:
   - thiển
   - tiên

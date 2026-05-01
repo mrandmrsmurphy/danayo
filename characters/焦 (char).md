@@ -5,7 +5,7 @@ korean: "초"
 korean_native: "탈"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: あせ
 vietnamese:
   - tiêu
 middle_chinese_initial: "t͡s"

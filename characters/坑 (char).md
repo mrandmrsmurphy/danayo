@@ -5,7 +5,7 @@ korean: "갱"
 korean_native: "구덩이"
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - ganh
   - khanh

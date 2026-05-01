@@ -6,7 +6,7 @@ korean_native: 예
 japanese:
   - KYUU
   - GU
-japanese_native: ""
+japanese_native: ふる
 vietnamese:
   - cựu
 middle_chinese_initial: g

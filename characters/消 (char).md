@@ -5,7 +5,7 @@ korean: "소"
 korean_native: "사라질"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: き
 vietnamese:
   - teo
   - tiu

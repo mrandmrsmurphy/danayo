@@ -6,7 +6,7 @@ korean_native: 끌
 japanese:
   - RATSU
   - ROU
-japanese_native: ""
+japanese_native: くだ
 vietnamese:
   - dập
   - giập

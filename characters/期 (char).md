@@ -6,7 +6,7 @@ korean_native: "기약할"
 japanese:
   - KI
   - GO
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - cờ
   - kì

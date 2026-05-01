@@ -6,7 +6,7 @@ korean_native: "돌아올"
 japanese:
   - KAI
   - E
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - hòi
   - hồi

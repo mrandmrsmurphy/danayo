@@ -5,7 +5,7 @@ korean: 파
 korean_native: 바랄
 japanese:
   - HA
-japanese_native: ""
+japanese_native: うずまき
 vietnamese:
   - ba
   - bơ

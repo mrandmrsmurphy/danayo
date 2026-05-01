@@ -5,7 +5,7 @@ korean: "역"
 korean_native: "지경"
 japanese:
   - IKI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - bực
   - vác

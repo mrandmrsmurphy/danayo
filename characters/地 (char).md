@@ -6,7 +6,7 @@ korean_native: "땅"
 japanese:
   - CHI
   - JI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - rịa
   - địa

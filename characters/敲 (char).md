@@ -5,7 +5,7 @@ korean: "고"
 korean_native: "두드릴"
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: たた
 vietnamese:
   - sao
   - xao

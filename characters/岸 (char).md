@@ -5,7 +5,7 @@ korean: "안"
 korean_native: 언덕
 japanese:
   - GAN
-japanese_native:
+japanese_native: きし
   - きし
 vietnamese:
   - ngàn, ngan, ngạn

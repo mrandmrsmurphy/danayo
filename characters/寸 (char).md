@@ -6,7 +6,7 @@ korean_native: "마디"
 japanese:
   - SUN
   - SON
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - dón
   - són

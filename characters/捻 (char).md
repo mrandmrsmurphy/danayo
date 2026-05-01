@@ -6,7 +6,7 @@ korean_native: "비틀"
 japanese:
   - NEN
   - JOU
-japanese_native: ""
+japanese_native: ね
 vietnamese:
   - niêm
   - niết

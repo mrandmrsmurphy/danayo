@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "염탐할"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - rình
   - trinh

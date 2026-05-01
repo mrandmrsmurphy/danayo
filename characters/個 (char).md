@@ -6,7 +6,7 @@ korean_native: 낱
 japanese:
   - KO
   - KA
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - cá
   - cái

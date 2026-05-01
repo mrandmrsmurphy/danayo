@@ -6,7 +6,7 @@ korean_native: 앵두
 japanese:
   - OU
   - YOU
-japanese_native:
+japanese_native: さくら
   - さくら
 vietnamese:
   - anh

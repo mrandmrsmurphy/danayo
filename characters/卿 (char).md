@@ -6,7 +6,7 @@ korean_native: 벼슬
 japanese:
   - KYOU
   - KEI
-japanese_native:
+japanese_native: きみ
   - きみ
 vietnamese:
   - khanh

@@ -6,7 +6,7 @@ korean_native: "봉할"
 japanese:
   - FUU
   - HOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - phong
 middle_chinese_initial: f

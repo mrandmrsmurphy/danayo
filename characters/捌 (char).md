@@ -7,7 +7,7 @@ japanese:
   - HATSU
   - HACHI
   - BETSU
-japanese_native: ""
+japanese_native: さば
 vietnamese:
   - bát
   - bít

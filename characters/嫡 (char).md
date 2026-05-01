@@ -6,7 +6,7 @@ korean_native: "정실"
 japanese:
   - CHAKU
   - TEKI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - đích
 middle_chinese_initial: "ʈ"

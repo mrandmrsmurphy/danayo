@@ -6,7 +6,7 @@ korean_native: "터럭"
 japanese:
   - KOU
   - GOU
-japanese_native: ""
+japanese_native: ごう
 vietnamese:
   - hào
 middle_chinese_initial: "ɣ"

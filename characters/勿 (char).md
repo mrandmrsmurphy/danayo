@@ -7,7 +7,7 @@ japanese:
   - BUTSU
   - BOTSU
   - MOCHI
-japanese_native:
+japanese_native: なか
   - なかれ
 vietnamese:
   - vật, vặt, vất

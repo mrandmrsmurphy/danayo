@@ -6,7 +6,7 @@ korean_native: "도울"
 japanese:
   - FU
   - HO
-japanese_native: ""
+japanese_native: たす
 vietnamese:
   - hùa
   - phò

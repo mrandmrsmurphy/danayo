@@ -5,7 +5,7 @@ korean: 할
 korean_native: 나눌
 japanese:
   - KATSU
-japanese_native:
+japanese_native: さ
   - わ-る
 vietnamese:
   - cát, cắt, xắt

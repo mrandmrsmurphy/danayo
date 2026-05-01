@@ -5,7 +5,7 @@ korean: 률
 korean_native: 밤나무
 japanese:
   - RITSU
-japanese_native: ""
+japanese_native: おののく
 vietnamese:
   - lật
   - lặt

@@ -5,7 +5,7 @@ korean: 즙
 korean_native: 즙
 japanese:
   - JUU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - chấp
   - trấp

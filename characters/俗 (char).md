@@ -5,7 +5,7 @@ korean: "속"
 korean_native: "풍속"
 japanese:
   - ZOKU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - thói
   - tục

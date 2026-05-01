@@ -6,7 +6,7 @@ korean_native: 굳셀
 japanese:
   - KYOU
   - GOU
-japanese_native: ""
+japanese_native: こわ
 vietnamese:
   - càng
   - cường

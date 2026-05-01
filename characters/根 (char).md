@@ -5,7 +5,7 @@ korean: 근
 korean_native: 뿌리
 japanese:
   - KON
-japanese_native:
+japanese_native: ø
   - ね
 vietnamese:
   - căn, cằn, cỗi

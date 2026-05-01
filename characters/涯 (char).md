@@ -5,7 +5,7 @@ korean: "애"
 korean_native: "물가"
 japanese:
   - GAI
-japanese_native: ""
+japanese_native: はて
 vietnamese:
   - nhai
   - nhười

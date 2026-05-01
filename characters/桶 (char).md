@@ -6,7 +6,7 @@ korean_native: "통"
 japanese:
   - TOU
   - YOU
-japanese_native: ""
+japanese_native: おけ
 vietnamese:
   - dũng
   - thòng

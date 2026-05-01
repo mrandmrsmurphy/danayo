@@ -5,7 +5,7 @@ korean: "용"
 korean_native: "쓸"
 japanese:
   - YOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - dong
   - dung

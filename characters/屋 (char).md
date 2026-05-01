@@ -5,7 +5,7 @@ korean: "옥"
 korean_native: "집"
 japanese:
   - OKU
-japanese_native: ""
+japanese_native: や
 vietnamese:
   - ọc
   - ốc

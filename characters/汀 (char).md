@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "물가"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: なぎさ
 vietnamese:
   - thinh
   - đinh

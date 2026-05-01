@@ -5,7 +5,7 @@ korean: "궁"
 korean_native: "활"
 japanese:
   - KYUU
-japanese_native: ""
+japanese_native: ゆみ
 vietnamese:
   - cong
   - cung

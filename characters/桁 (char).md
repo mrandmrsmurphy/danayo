@@ -5,7 +5,7 @@ korean: "항"
 korean_native: ""
 japanese:
   - KOU
-japanese_native: ""
+japanese_native: けた
 vietnamese:
   - hàng
   - hành

@@ -5,7 +5,7 @@ korean: 낭
 korean_native: 여자
 japanese:
   - NYOU
-japanese_native: ""
+japanese_native: こ
 vietnamese:
   - nàng
   - nương

@@ -5,7 +5,7 @@ korean: "리"
 korean_native: "배나무"
 japanese:
   - RI
-japanese_native: ""
+japanese_native: なし
 vietnamese:
   - lê
 middle_chinese_initial: l

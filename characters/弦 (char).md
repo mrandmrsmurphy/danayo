@@ -5,7 +5,7 @@ korean: "현"
 korean_native: "활시위"
 japanese:
   - GEN
-japanese_native: ""
+japanese_native: つる
 vietnamese:
   - huyền
 middle_chinese_initial: "ɣ"

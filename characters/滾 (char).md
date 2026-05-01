@@ -5,7 +5,7 @@ korean: "곤"
 korean_native: "흐를"
 japanese:
   - KON
-japanese_native: ""
+japanese_native: たぎ
 vietnamese:
   - cuộn
   - cổn

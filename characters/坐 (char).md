@@ -5,7 +5,7 @@ korean: "좌"
 korean_native: "앉을"
 japanese:
   - ZA
-japanese_native: ""
+japanese_native: おわす
 vietnamese:
   - ngồi
   - toà

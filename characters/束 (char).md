@@ -5,7 +5,7 @@ korean: "속"
 korean_native: "묶을"
 japanese:
   - SOKU
-japanese_native: ""
+japanese_native: たば
 vietnamese:
   - súc
   - thóc

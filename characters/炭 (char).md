@@ -5,7 +5,7 @@ korean: 탄
 korean_native: 숯
 japanese:
   - TAN
-japanese_native: ""
+japanese_native: すみ
 vietnamese:
   - than
   - thán

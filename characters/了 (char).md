@@ -5,7 +5,7 @@ korean: "료"
 korean_native: "마칠"
 japanese:
   - RYOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - liễu
   - léo

@@ -5,7 +5,7 @@ korean: "간"
 korean_native: "책 펴낼"
 japanese:
   - KAN
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - khan
   - san

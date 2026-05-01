@@ -5,7 +5,7 @@ korean: "영"
 korean_native: "헤엄칠"
 japanese:
   - EI
-japanese_native: ""
+japanese_native: およ
 vietnamese:
   - vạnh
   - vịnh

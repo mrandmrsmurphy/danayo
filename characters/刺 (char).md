@@ -6,7 +6,7 @@ korean_native: 찌를
 japanese:
   - SHI
   - SEKI
-japanese_native:
+japanese_native: さ
   - さ-す
   - さ-さる
 vietnamese:

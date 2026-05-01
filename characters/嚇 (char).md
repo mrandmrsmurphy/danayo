@@ -6,7 +6,7 @@ korean_native: "웃음소리"
 japanese:
   - KAKU
   - KA
-japanese_native: ""
+japanese_native: おど
 vietnamese:
   - hách
 middle_chinese_initial: x

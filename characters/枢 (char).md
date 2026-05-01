@@ -6,7 +6,7 @@ korean_native: 지도리
 japanese:
   - SUU
   - SHU
-japanese_native: ""
+japanese_native: からくり
 vietnamese:
   - khu
   - xu

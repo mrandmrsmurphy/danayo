@@ -7,7 +7,7 @@ japanese:
   - TEN
   - TEU
   - DEU
-japanese_native: ""
+japanese_native: おち
 vietnamese:
   - điếm
 middle_chinese_initial: d

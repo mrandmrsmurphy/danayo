@@ -5,7 +5,7 @@ korean: "첩"
 korean_native: "첩"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: そばめ
 vietnamese:
   - thiếp
   - thê

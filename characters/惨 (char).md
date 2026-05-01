@@ -6,7 +6,7 @@ korean_native: 참혹할
 japanese:
   - SAN
   - ZAN
-japanese_native: ""
+japanese_native: いた
 vietnamese:
   - thom
   - thảm

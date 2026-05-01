@@ -5,7 +5,7 @@ korean: "소"
 korean_native: 밝을
 japanese:
   - SHOU
-japanese_native:
+japanese_native: ø
   - あきらか
 vietnamese:
   - chiêu

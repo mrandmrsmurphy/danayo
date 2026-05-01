@@ -5,7 +5,7 @@ korean: "서"
 korean_native: "사위"
 japanese:
   - SEI
-japanese_native: ""
+japanese_native: むこ
 vietnamese:
   - rể
   - tế

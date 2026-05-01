@@ -6,7 +6,7 @@ korean_native: "폐단"
 japanese:
   - HEI
   - HETSU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - giẻ
   - tệ

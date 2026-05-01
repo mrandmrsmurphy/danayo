@@ -5,7 +5,7 @@ korean: 압
 korean_native: 누를
 japanese:
   - OU
-japanese_native: ""
+japanese_native: お
 vietnamese:
   - ghép
   - giẹp

@@ -6,7 +6,7 @@ korean_native: 분개할
 japanese:
   - GAI
   - KAI
-japanese_native: ""
+japanese_native: なげ
 vietnamese:
   - khái
   - khới

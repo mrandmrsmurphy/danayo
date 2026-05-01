@@ -5,7 +5,7 @@ korean: "동"
 korean_native: 겨울
 japanese:
   - TOU
-japanese_native:
+japanese_native: ふゆ
   - ふゆ
 vietnamese:
   - đông

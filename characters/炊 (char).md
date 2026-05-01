@@ -5,7 +5,7 @@ korean: "취"
 korean_native: ""
 japanese:
   - SUI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - sôi
   - xuy

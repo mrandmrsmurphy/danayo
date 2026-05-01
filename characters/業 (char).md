@@ -6,7 +6,7 @@ korean_native: 업
 japanese:
   - GYOU
   - GOU
-japanese_native:
+japanese_native: わざ
   - わざ
 vietnamese:
   - nghiệp

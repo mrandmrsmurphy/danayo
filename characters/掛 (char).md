@@ -6,7 +6,7 @@ korean_native: "걸"
 japanese:
   - KA
   - KAI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - khoải
   - quai

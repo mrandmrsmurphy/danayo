@@ -5,7 +5,7 @@ korean: "뇨"
 korean_native: "오줌"
 japanese:
   - NYOU
-japanese_native: ""
+japanese_native: いばり
 vietnamese:
   - niệu
 middle_chinese_initial: n

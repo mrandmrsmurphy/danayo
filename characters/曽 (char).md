@@ -7,7 +7,7 @@ japanese:
   - ZO
   - SOU
   - SO
-japanese_native: ""
+japanese_native: かつ
 vietnamese:
   - tâng
   - tưng

@@ -5,7 +5,7 @@ korean: "신"
 korean_native: 새
 japanese:
   - SHIN
-japanese_native:
+japanese_native: あたら
   - あたら-しい
 vietnamese:
   - tân, tâng

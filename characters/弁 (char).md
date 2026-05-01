@@ -6,7 +6,7 @@ korean_native: 분별할
 japanese:
   - BEN
   - HEN
-japanese_native: ""
+japanese_native: あらそ
 vietnamese:
   - biền
 middle_chinese_initial: b

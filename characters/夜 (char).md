@@ -5,7 +5,7 @@ korean: 야
 korean_native: 밤
 japanese:
   - YA
-japanese_native:
+japanese_native: よ
   - よ,よる
 vietnamese:
   - dạ, dà

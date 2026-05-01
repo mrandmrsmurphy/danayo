@@ -6,7 +6,7 @@ korean_native: "바를"
 japanese:
   - SEI
   - SHOU
-japanese_native: ""
+japanese_native: ただ
 vietnamese:
   - chiếng
   - chánh

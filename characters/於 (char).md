@@ -6,7 +6,7 @@ korean_native: 어조사
 japanese:
   - O
   - YO
-japanese_native:
+japanese_native: ああ
   - あう, より, おいて
 vietnamese:
   - ư

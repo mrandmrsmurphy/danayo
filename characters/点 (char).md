@@ -5,7 +5,7 @@ korean: 점
 korean_native: 점
 japanese:
   - TEN
-japanese_native: ""
+japanese_native: さ
 vietnamese:
   - bếp
   - chấm

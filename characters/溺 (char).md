@@ -7,7 +7,7 @@ japanese:
   - DEKI
   - JOU
   - NYOU
-japanese_native: ""
+japanese_native: いばり
 vietnamese:
   - niệu
   - ních

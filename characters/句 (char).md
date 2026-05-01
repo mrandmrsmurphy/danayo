@@ -6,7 +6,7 @@ korean_native: 글귀
 japanese:
   - KU
   - KOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - câu
   - cú

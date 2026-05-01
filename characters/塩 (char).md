@@ -5,7 +5,7 @@ korean: 염
 korean_native: 소금
 japanese:
   - EN
-japanese_native:
+japanese_native: しお
   - しお
 vietnamese:
   - diêm

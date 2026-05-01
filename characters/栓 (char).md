@@ -5,7 +5,7 @@ korean: "전"
 korean_native: "마개"
 japanese:
   - SEN
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - thoen
   - thuyên

@@ -5,7 +5,7 @@ korean: 계
 korean_native: 이를
 japanese:
 - KAI
-japanese_native: ''
+japanese_native: ø
 vietnamese:
   - giới
 middle_chinese_initial: k
