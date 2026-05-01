@@ -1,7 +1,7 @@
 ---
-mandarin: "bù"
-cantonese: "bat1"
-korean: "부"
+mandarin: bù
+cantonese: bat1
+korean: 부
 korean_native: 아닐
 japanese:
   - FU
@@ -35,6 +35,7 @@ aliases:
 注音: ㄅㄛㄊ
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 不.
 >For the word, see [不](words/不.md)
