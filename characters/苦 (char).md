@@ -1,12 +1,11 @@
 ---
-mandarin: "kǔ"
-cantonese: "fu2"
-korean: "고"
+mandarin: kǔ
+cantonese: fu2
+korean: 고
 korean_native: 쓸
 japanese:
   - KU
-japanese_native: ø
-  - くる-しい
+japanese_native: くる-しい
 vietnamese:
   - khổ, khủ, cỏ
 middle_chinese_initial: kʰ

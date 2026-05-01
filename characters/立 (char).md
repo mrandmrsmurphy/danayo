@@ -6,8 +6,7 @@ korean_native: 설
 japanese:
   - RITSU
   - RYUU
-japanese_native: ø
-  - た-つ
+japanese_native: た-つ
 vietnamese:
   - lập, lụp, sập
 middle_chinese_initial: l

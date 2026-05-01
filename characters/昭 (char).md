@@ -1,12 +1,11 @@
 ---
-mandarin: "zhāo"
-cantonese: "ciu1"
-korean: "소"
+mandarin: zhāo
+cantonese: ciu1
+korean: 소
 korean_native: 밝을
 japanese:
   - SHOU
-japanese_native: ø
-  - あきらか
+japanese_native: あきらか
 vietnamese:
   - chiêu
 middle_chinese_initial: t͡ɕ

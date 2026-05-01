@@ -1,12 +1,11 @@
 ---
-mandarin: "cǎo"
-cantonese: "cou2"
-korean: "초"
+mandarin: cǎo
+cantonese: cou2
+korean: 초
 korean_native: 풀
 japanese:
   - SOU
-japanese_native: ø
-  - くさ
+japanese_native: くさ
 vietnamese:
   - thảo, tháu, xáo
 middle_chinese_initial: t͡sʰ

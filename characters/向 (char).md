@@ -1,14 +1,13 @@
 ---
-mandarin: "xiàng"
-cantonese: "hoeng3"
-korean: "향"
+mandarin: xiàng
+cantonese: hoeng3
+korean: 향
 korean_native: 향할
 japanese:
   - KOU
   - KYOU
   - SHOU
-japanese_native: ø
-  - む-く,む-ける,む-かう,む-こう
+japanese_native: む-く,む-ける,む-かう,む-こう
 vietnamese:
   - hướng
 middle_chinese_initial: x

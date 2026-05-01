@@ -12,12 +12,16 @@ views:
       - danayo_id
       - korean
       - english
-      - japanese
       - 羅馬字
       - grade_level
       - hsk_level
       - graphemic_classification
+      - japanese_native
     sort:
+      - property: korean
+        direction: ASC
+      - property: japanese_native
+        direction: ASC
       - property: japanese
         direction: ASC
       - property: hsk_level
@@ -25,8 +29,6 @@ views:
       - property: file.mtime
         direction: ASC
       - property: date-last-perfect
-        direction: DESC
-      - property: korean
         direction: DESC
       - property: vietnamese
         direction: ASC

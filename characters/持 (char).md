@@ -1,13 +1,12 @@
 ---
-mandarin: "chí"
-cantonese: "ci4"
-korean: "지"
+mandarin: chí
+cantonese: ci4
+korean: 지
 korean_native: 가질
 japanese:
   - JI
   - CHI
-japanese_native: ø
-  - も-つ
+japanese_native: も-つ
 vietnamese:
   - rì, chày, chiì
 middle_chinese_initial: ɖ

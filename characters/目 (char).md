@@ -1,13 +1,12 @@
 ---
-mandarin: "mù"
-cantonese: "muk6"
-korean: "목"
+mandarin: mù
+cantonese: muk6
+korean: 목
 korean_native: 눈
 japanese:
   - MOKU
   - BOKU
-japanese_native: ø
-  - ぼく
+japanese_native: ぼく
 vietnamese:
   - mục
 middle_chinese_initial: m

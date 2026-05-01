@@ -1,7 +1,7 @@
 ---
 mandarin: "yǐn"
 cantonese: jam2
-korean:
+korean: 음
 korean_native: "마실"
 japanese:
   - IN

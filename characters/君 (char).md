@@ -1,12 +1,11 @@
 ---
-mandarin: "jūn"
-cantonese: "gwan1"
-korean: "군"
+mandarin: jūn
+cantonese: gwan1
+korean: 군
 korean_native: 임금
 japanese:
   - KUN
-japanese_native: ø
-  - きん
+japanese_native: きん
 vietnamese:
   - quân, vua
 middle_chinese_initial: k

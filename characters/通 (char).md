@@ -1,14 +1,13 @@
 ---
-mandarin: "tōng"
-cantonese: "tung1"
-korean: "통"
+mandarin: tōng
+cantonese: tung1
+korean: 통
 korean_native: 통할
 japanese:
   - TSUU
   - TSU
   - TOU
-japanese_native: ø
-  - とお-る
+japanese_native: とお-る
 vietnamese:
   - thông
 middle_chinese_initial: tʰ

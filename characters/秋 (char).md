@@ -4,9 +4,9 @@ cantonese: cau1
 korean: 추
 korean_native: 가울
 japanese:
-- SHUU
+  - SHUU
 japanese_native: あき
-- あき
+  - あき
 vietnamese:
   - thu
 middle_chinese_initial: t͡sʰ

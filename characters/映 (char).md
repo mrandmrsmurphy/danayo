@@ -1,13 +1,12 @@
 ---
-mandarin: "yìng"
-cantonese: "jing2"
-korean: "영"
+mandarin: yìng
+cantonese: jing2
+korean: 영
 korean_native: 비출
 japanese:
   - EI
   - YOU
-japanese_native: ø
-  - うつ-る,うつ-す,は-える
+japanese_native: うつ-る,うつ-す,は-える
 vietnamese:
   - ánh, tử
 middle_chinese_initial: ʔ

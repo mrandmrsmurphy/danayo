@@ -5,8 +5,7 @@ korean: 도
 korean_native: 건널
 japanese:
   - TO
-japanese_native: ø
-  - わた-る,わた-す
+japanese_native: わた-る,わた-す
 vietnamese:
   - độ, đò, đác, đạc, dộc
 middle_chinese_initial: d

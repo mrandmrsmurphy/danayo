@@ -1,12 +1,11 @@
 ---
-mandarin: "zì"
-cantonese: "zi6"
-korean: "자"
+mandarin: zì
+cantonese: zi6
+korean: 자
 korean_native: 글자
 japanese:
   - JI
-japanese_native: ø
-  - あざ
+japanese_native: あざ
 vietnamese:
   - tự, chữ, tợ
 middle_chinese_initial: d͡z

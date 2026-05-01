@@ -5,8 +5,7 @@ korean: 붕
 korean_native: 사다리
 japanese:
   - HOU
-japanese_native: ø
-  - たな
+japanese_native: たな
 vietnamese:
   - bằng, nhũ
 middle_chinese_initial: b

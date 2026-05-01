@@ -4,9 +4,9 @@ cantonese: tit3
 korean: 철
 korean_native: 쇠
 japanese:
-- TETSU
+  - TETSU
 japanese_native: くろがね
-- くろがね
+  - くろがね
 vietnamese:
   - sắt
   - thiếc

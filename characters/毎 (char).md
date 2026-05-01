@@ -6,8 +6,7 @@ korean_native: 매양
 japanese:
   - MAI
   - BAI
-japanese_native: ø
-  - つね
+japanese_native: つね
 vietnamese:
   - mỗi
 middle_chinese_initial: m
