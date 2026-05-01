@@ -1,8 +1,8 @@
 ---
-mandarin: "jiè"
+mandarin: jiè
 cantonese: ze3
-korean: "차"
-korean_native: "빌릴"
+korean: 차
+korean_native: 빌릴
 japanese:
   - SHAKU
   - SHA
@@ -10,28 +10,28 @@ japanese:
 japanese_native: か
 vietnamese:
   - tá
-middle_chinese_initial: "t͡s"
+middle_chinese_initial: t͡s
 middle_chinese_final: ia
 stroke_count: 10
-radical: "人"
+radical: 人
 skip_number: 1-2-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - borrow
   - lend
 羅馬字: ja
-諺文: "자"
-joyo_level: 4
-hsk_level: 1
-hanmun_edu_level: "中"
+諺文: 자
+joyo_level: "4"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 2016
 mc_id: 1986
-graphemic_classification: "昔"
-stand_in: "借"
+graphemic_classification: 昔
+stand_in: 借
 aliases:
   - 藉
-注音: "ㄐㄚ"
+注音: ㄐㄚ
 tags:
   - character
 ---
