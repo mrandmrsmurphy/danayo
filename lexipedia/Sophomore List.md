@@ -32,7 +32,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 * sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙ⺢ㄇ</rt></ruby>
 * strong - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
-- Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuodiǝ</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[../words/湾曲]]
+- Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuodiǝ</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[../words/弯曲]]
 - Emotions : glad - <ruby>[[高興]]<rt>gauhing</rt></ruby>, happy - <ruby>[[歓喜]]<rt>hwanhi</rt></ruby>, sad - <ruby>[[哀傷]]<rt>'aisyang</rt></ruby>, tired - <ruby>[[疲労]]<rt>pilau</rt></ruby> , angry - <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby> , crazy - <ruby>[[風狂]]<rt>punggwang</rt></ruby>
 - Character : careful, lucky, smart, wise, foolish, healthy, sick
 - Value : important, interesting, boring, wonderful, strange

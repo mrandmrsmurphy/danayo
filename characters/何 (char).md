@@ -15,14 +15,14 @@ middle_chinese_final: ɑ
 stroke_count: 7
 radical: 人
 skip_number: 1-2-5
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - what
 羅馬字: ha
 諺文: 하
-joyo_level: 2
-hsk_level: 1
+joyo_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 120
 mc_id: 46
