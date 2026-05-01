@@ -15,17 +15,18 @@ views:
       - 羅馬字
       - grade_level
       - hsk_level
-      - graphemic_classification
-      - japanese_native
+      - hanmun_edu_level
     sort:
+      - property: hanmun_edu_level
+        direction: ASC
+      - property: hsk_level
+        direction: ASC
       - property: korean
         direction: ASC
       - property: japanese_native
         direction: ASC
       - property: japanese
         direction: ASC
-      - property: hsk_level
-        direction: DESC
       - property: file.mtime
         direction: ASC
       - property: date-last-perfect
@@ -35,8 +36,6 @@ views:
       - property: cantonese
         direction: ASC
       - property: mandarin
-        direction: ASC
-      - property: hanmun_edu_level
         direction: ASC
       - property: korean_native
         direction: ASC
@@ -81,6 +80,5 @@ views:
       formula.score: 112
       note.danayo_id: 64
       note.english: 183
-      note.japanese: 142
       note.grade_level: 89
-      note.hsk_level: 58
+      note.hsk_level: 89

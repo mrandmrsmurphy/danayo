@@ -20,7 +20,7 @@ english:
 羅馬字: gom
 諺文: 곰
 joyo_level: 高等
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 3282
 mc_id: 916
