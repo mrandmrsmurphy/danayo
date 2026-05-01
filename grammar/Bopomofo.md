@@ -2,7 +2,7 @@ Dan'a'yo uses the Zhuyin/Bopomofo alphabet as ruby to phonetically transcribe wo
 
 In Taiwan, the names of consonant is constrained by the phonotactics of Mandarin: labials are followed by **o**, velars and alveolars by **e**, the rest by **i**.  We use letters more freely, so their names all end in ㄛ.
 
-| 注音 | Nam | **Origin** | **IPA** | <small>拼音</small> | Ex. |
+| 注音 | Name | **Origin** | **IPA** | <small>拼音</small> | Ex. |
 |--|--|--|--|--|--|
 |ㄅ|ㄅㄛ|From 勹, the ancient form and current top portion of 包 "to wrap up; package".|`p̬`|b|<ruby>[包](/characters/包.md)<rt>ㄅ⼘ㄨ</rt></ruby> |
 |ㄆ|ㄆㄛ|From 攵, a variant form of 攴 "to knock lightly".|`pʰ`|p|<ruby>[撲](/characters/撲%20(char).md)<rt>ㄆㄛㄎ</rt></ruby>|
@@ -32,3 +32,5 @@ In Taiwan, the names of consonant is constrained by the phonotactics of Mandarin
 |⼜|⼜|From 又, visually ㄨ and ㄧ stacked|`ju`| yu | <ruby>[有](/characters/有%20(char).md)<rt>⼜</rt></ruby>
 |⼶|⼶|From the older character 廿, visually blending ㄝ and ㄧ|`je`| ye | <ruby>[耶](/characters/耶%20(char).md)<rt>⼶</rt></ruby>
 |⺢|⺢|From the radical variant 氺, visually blending ㄚ and ㄨ|`wa`| wa | <ruby>[瓦](/characters/瓦%20(char).md)<rt>⺢</rt></ruby>
+
+† These three consonants palatalize before /j/ or /i/.
