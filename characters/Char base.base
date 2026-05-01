@@ -16,6 +16,7 @@ views:
       - grade_level
       - hsk_level
       - hanmun_edu_level
+      - joyo_level
     sort:
       - property: hanmun_edu_level
         direction: ASC
