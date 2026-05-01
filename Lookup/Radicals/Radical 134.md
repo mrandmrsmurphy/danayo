@@ -1,15 +1,16 @@
 ---
 size: 2
 radical: 臼
-tags: [lookup]
-
+tags:
+  - lookup
+date-last-perfect: 2026-05-01
 ---
 > [[Radicals]]
 
 ## Characters
 
-1. [[臼 (char)]]
-2. [[興 (char)]]
+1. <ruby>[臼](/characters/臼%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> "mortar"
+2. <ruby>[興](/characters/興%20(char).md)<rt>ㄏㄜㄫ</rt></ruby> "entertain"
 
 ## Base check
 ```base
