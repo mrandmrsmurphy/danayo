@@ -6,7 +6,7 @@ korean_native: 구리
 japanese:
   - DOU
   - TOU
-japanese_native:
+japanese_native: あかがね
   - あかがね
 vietnamese:
   - đồng

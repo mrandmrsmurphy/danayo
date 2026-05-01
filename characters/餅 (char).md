@@ -6,7 +6,7 @@ korean_native: 떡
 japanese:
   - HEI
   - HYOU
-japanese_native: ""
+japanese_native: もち
 vietnamese:
   - bánh
   - bính

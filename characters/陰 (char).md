@@ -7,7 +7,7 @@ japanese:
   - IN
   - ON
   - AN
-japanese_native:
+japanese_native: かげ
   - かげ,かげ-る
 vietnamese:
   - âm, ơm

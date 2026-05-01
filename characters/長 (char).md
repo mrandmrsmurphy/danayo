@@ -5,7 +5,7 @@ korean: "장"
 korean_native: 길
 japanese:
   - CHOU
-japanese_native:
+japanese_native: おさ
   - なが-い
 vietnamese:
   - trường, trườn, tràng, trành, trưởng

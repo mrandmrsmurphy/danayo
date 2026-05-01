@@ -6,7 +6,7 @@ korean_native: 가늘
 japanese:
   - SEI
   - SAI
-japanese_native:
+japanese_native: こま
   - ほそ-い
 vietnamese:
   - tế, tới

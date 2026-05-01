@@ -5,7 +5,7 @@ korean: "알"
 korean_native: "아뢸"
 japanese:
   - ETSU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - yết
   - ét

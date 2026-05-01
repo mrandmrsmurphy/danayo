@@ -6,7 +6,7 @@ korean_native: "자주"
 japanese:
   - HIN
   - BIN
-japanese_native: ""
+japanese_native: しき
 vietnamese:
   - tần
   - tằn

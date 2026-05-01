@@ -5,7 +5,7 @@ korean: 면
 korean_native: 국수
 japanese:
   - MEN
-japanese_native:
+japanese_native: むぎこ
   - むぎこ 
 vietnamese:
   - miến

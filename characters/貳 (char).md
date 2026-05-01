@@ -6,7 +6,7 @@ korean_native: "두"
 japanese:
   - NI
   - JI
-japanese_native: ""
+japanese_native: そえ
 vietnamese:
   - nhì
   - nhẹ

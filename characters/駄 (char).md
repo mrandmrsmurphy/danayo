@@ -8,7 +8,7 @@ japanese:
   - DA
   - TAI
   - DAI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
 middle_chinese_initial: d
 middle_chinese_final: "ɑ"

@@ -6,7 +6,7 @@ korean_native: 다리
 japanese:
   - KYAKU
   - KYA
-japanese_native: ""
+japanese_native: あし
 vietnamese:
   - cuốc
   - cước

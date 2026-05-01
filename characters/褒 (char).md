@@ -5,7 +5,7 @@ korean: 포
 korean_native: 기릴
 japanese:
   - HOU
-japanese_native:
+japanese_native: ほ
   - ほ-める
 vietnamese:
   - bao

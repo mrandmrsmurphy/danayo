@@ -5,7 +5,7 @@ korean: 흑
 korean_native: 검을
 japanese:
   - KOKU
-japanese_native:
+japanese_native: くろ
   - くろい
 vietnamese:
   - hắc

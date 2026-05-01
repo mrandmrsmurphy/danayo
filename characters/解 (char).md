@@ -6,7 +6,7 @@ korean_native: "풀"
 japanese:
   - KAI
   - GE
-japanese_native: ""
+japanese_native: さと
 vietnamese:
   - giãi
   - giải

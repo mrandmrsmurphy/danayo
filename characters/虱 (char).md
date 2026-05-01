@@ -5,7 +5,7 @@ korean: "슬"
 korean_native: 이
 japanese:
   - SHITSU
-japanese_native:
+japanese_native: しらみ
   - しらみ
 vietnamese:
   - sắt

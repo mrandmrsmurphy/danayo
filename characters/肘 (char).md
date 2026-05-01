@@ -5,7 +5,7 @@ korean: "주"
 korean_native: "팔꿈치"
 japanese:
   - CHUU
-japanese_native: ""
+japanese_native: ひじ
 vietnamese:
   - khuỷu
   - trửu

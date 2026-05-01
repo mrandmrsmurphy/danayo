@@ -5,7 +5,7 @@ korean: 피
 korean_native: 피할
 japanese:
   - HI
-japanese_native: ""
+japanese_native: さ
 vietnamese:
   - tị
 middle_chinese_initial: b

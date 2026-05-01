@@ -5,7 +5,7 @@ korean: "리"
 korean_native: "유리"
 japanese:
   - RI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - li
   - ly

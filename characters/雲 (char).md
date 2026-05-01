@@ -5,7 +5,7 @@ korean: 운
 korean_native: 구름
 japanese:
   - UN
-japanese_native:
+japanese_native: ø
   - も
 vietnamese:
   - vân

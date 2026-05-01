@@ -5,7 +5,7 @@ korean: 구
 korean_native: 갈매기
 japanese:
   - OU
-japanese_native:
+japanese_native: かもめ
   - かもめ
 vietnamese:
   - âu

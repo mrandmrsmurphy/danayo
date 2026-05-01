@@ -6,7 +6,7 @@ korean_native: "코"
 japanese:
   - BI
   - HI
-japanese_native: ""
+japanese_native: はな
 vietnamese:
   - tị
 middle_chinese_initial: b

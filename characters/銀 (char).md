@@ -6,7 +6,7 @@ korean_native: 은
 japanese:
   - GIN
   - GON
-japanese_native:
+japanese_native: しろがね
   - しろがね 
 vietnamese:
   - ngân

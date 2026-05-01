@@ -5,7 +5,7 @@ korean: "점"
 korean_native: "붙을"
 japanese:
   - NEN
-japanese_native: ""
+japanese_native: ねば
 vietnamese:
   - chiêm
   - dính

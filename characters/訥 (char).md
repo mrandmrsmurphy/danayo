@@ -6,7 +6,7 @@ korean_native: ""
 japanese:
   - TOTSU
   - DOTSU
-japanese_native: ""
+japanese_native: ども
 vietnamese:
   - dốt
   - nhốt

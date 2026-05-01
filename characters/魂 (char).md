@@ -6,7 +6,7 @@ korean_native: "넋"
 japanese:
   - KON
   - GON
-japanese_native: ""
+japanese_native: たま
 vietnamese:
   - hun
   - hùn

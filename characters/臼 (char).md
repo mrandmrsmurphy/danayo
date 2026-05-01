@@ -5,7 +5,7 @@ korean: "구"
 korean_native: "절구"
 japanese:
   - KYUU
-japanese_native: ""
+japanese_native: うす
 vietnamese:
   - cối
   - cữu

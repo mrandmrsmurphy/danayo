@@ -7,7 +7,7 @@ japanese:
   - JA
   - I
   - DA
-japanese_native:
+japanese_native: へび
   - へび
 vietnamese:
   - xà

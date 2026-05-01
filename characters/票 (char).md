@@ -5,7 +5,7 @@ korean: "표"
 korean_native: "표"
 japanese:
   - HYOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - phiếu
 middle_chinese_initial: "pʰ"

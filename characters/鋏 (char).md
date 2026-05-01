@@ -5,7 +5,7 @@ korean: "협"
 korean_native: "집게"
 japanese:
   - KYOU
-japanese_native: ""
+japanese_native: つるぎ
 vietnamese:
   - kiệp
   - kẹp

@@ -5,7 +5,7 @@ korean: 유
 korean_native: 오히려
 japanese:
   - YUU
-japanese_native: ""
+japanese_native: なお
 vietnamese:
   - do
 middle_chinese_initial: j

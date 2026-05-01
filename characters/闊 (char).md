@@ -5,7 +5,7 @@ korean: "활"
 korean_native: "넓을"
 japanese:
   - KATSU
-japanese_native: ""
+japanese_native: ひろ
 vietnamese:
   - khoát
   - khoắt

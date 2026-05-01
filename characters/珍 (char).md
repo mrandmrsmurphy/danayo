@@ -5,7 +5,7 @@ korean: "진"
 korean_native: "보배"
 japanese:
   - CHIN
-japanese_native: ""
+japanese_native: たから
 vietnamese:
   - trân
   - trằn

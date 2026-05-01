@@ -5,7 +5,7 @@ korean: "증"
 korean_native: "찔"
 japanese:
   - JOU
-japanese_native: ""
+japanese_native: む
 vietnamese:
   - chưng
   - chừng

@@ -5,7 +5,7 @@ korean: "양"
 korean_native: 짚
 japanese:
   - JOU
-japanese_native:
+japanese_native: ゆたか
   - みのる
 vietnamese:
 middle_chinese_initial: ȵ

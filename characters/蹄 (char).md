@@ -5,7 +5,7 @@ korean: "제"
 korean_native: "굽"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: ひづめ
 vietnamese:
   - đế
   - đề

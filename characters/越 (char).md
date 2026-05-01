@@ -7,7 +7,7 @@ japanese:
   - ETSU
   - OCHI
   - KATSU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - nhông
   - việt

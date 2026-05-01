@@ -6,7 +6,7 @@ korean_native: "상자"
 japanese:
   - SHOU
   - SOU
-japanese_native: ""
+japanese_native: はこ
 vietnamese:
   - rương
   - sương

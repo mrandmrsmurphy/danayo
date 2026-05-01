@@ -6,7 +6,7 @@ korean_native: ""
 japanese:
   - JOU
   - TEI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - đĩnh
 middle_chinese_initial: d

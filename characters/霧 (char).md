@@ -6,7 +6,7 @@ korean_native: 안개
 japanese:
   - MU
   - BU
-japanese_native:
+japanese_native: きり
   - きり
 vietnamese:
   - vụ, mù

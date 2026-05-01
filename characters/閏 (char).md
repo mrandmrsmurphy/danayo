@@ -5,7 +5,7 @@ korean: 윤
 korean_native: 윤달
 japanese:
   - JUN
-japanese_native:
+japanese_native: うるう
   - うるう
 vietnamese:
   - nhuận

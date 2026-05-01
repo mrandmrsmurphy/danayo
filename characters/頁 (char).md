@@ -7,7 +7,7 @@ japanese:
   - KETSU
   - YOU
   - KECHI
-japanese_native: ""
+japanese_native: おおがい
 vietnamese:
   - hiệt
   - hệt

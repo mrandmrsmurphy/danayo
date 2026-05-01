@@ -7,7 +7,7 @@ japanese:
   - BU
   - HO
   - HOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - bõ
   - bộ

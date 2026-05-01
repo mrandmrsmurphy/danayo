@@ -6,7 +6,7 @@ korean_native: "어조사"
 japanese:
   - YA
   - JA
-japanese_native: ""
+japanese_native: か
 vietnamese:
   - gia
 middle_chinese_initial: j

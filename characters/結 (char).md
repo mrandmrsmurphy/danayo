@@ -6,7 +6,7 @@ korean_native: "맺을"
 japanese:
   - KETSU
   - KEI
-japanese_native: ""
+japanese_native: むす
 vietnamese:
   - chắc
   - cứt

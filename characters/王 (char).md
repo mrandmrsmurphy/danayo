@@ -5,7 +5,7 @@ korean: "왕"
 korean_native: 임금
 japanese:
   - OU
-japanese_native:
+japanese_native: ø
   - きみ
 vietnamese:
   - vương

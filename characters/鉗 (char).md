@@ -6,7 +6,7 @@ korean_native: "칼"
 japanese:
   - KAN
   - KEN
-japanese_native: ""
+japanese_native: くびかせ
 vietnamese:
   - cùm
   - cườm

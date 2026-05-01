@@ -5,7 +5,7 @@ korean: "육"
 korean_native: 기를
 japanese:
   - IKU
-japanese_native:
+japanese_native: そだ
   - そだ-つ
 vietnamese:
   - dục

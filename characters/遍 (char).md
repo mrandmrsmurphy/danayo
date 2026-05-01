@@ -5,7 +5,7 @@ korean: "편"
 korean_native: "두루"
 japanese:
   - HEN
-japanese_native: ""
+japanese_native: あまね
 vietnamese:
   - biến
   - bận

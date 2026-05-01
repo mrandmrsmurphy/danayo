@@ -5,7 +5,7 @@ korean: 옹
 korean_native: 늙은이
 japanese:
   - OU
-japanese_native: ""
+japanese_native: おきな
 vietnamese:
   - òng
   - ông

@@ -6,7 +6,7 @@ korean_native: "외울"
 japanese:
   - SHOU
   - JU
-japanese_native: ""
+japanese_native: とな
 vietnamese:
   - tọng
   - tộng

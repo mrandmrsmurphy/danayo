@@ -6,7 +6,7 @@ korean_native: 견딜
 japanese:
   - TAI
   - DOU
-japanese_native: ""
+japanese_native: た
 vietnamese:
   - nài
   - nại

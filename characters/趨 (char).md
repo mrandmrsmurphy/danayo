@@ -7,7 +7,7 @@ japanese:
   - SUU
   - SHU
   - SOKU
-japanese_native: ""
+japanese_native: おもむ
 vietnamese:
   - so
   - xu

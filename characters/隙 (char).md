@@ -7,7 +7,7 @@ japanese:
   - GEKI
   - KEKI
   - KYAKU
-japanese_native: ""
+japanese_native: す
 vietnamese:
   - khích
 middle_chinese_initial: "kʰ"

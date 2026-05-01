@@ -7,7 +7,7 @@ japanese:
   - TOU
   - NOU
   - NA
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - nuốt
   - nép

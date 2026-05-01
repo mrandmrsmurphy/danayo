@@ -5,7 +5,7 @@ korean: "련"
 korean_native: "연꽃"
 japanese:
   - REN
-japanese_native: ""
+japanese_native: はす
 vietnamese:
   - liên
   - lên

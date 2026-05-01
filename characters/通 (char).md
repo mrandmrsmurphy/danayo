@@ -7,7 +7,7 @@ japanese:
   - TSUU
   - TSU
   - TOU
-japanese_native:
+japanese_native: ø
   - とお-る
 vietnamese:
   - thông

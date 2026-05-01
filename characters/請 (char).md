@@ -7,7 +7,7 @@ japanese:
   - SEI
   - SHOU
   - SHIN
-japanese_native: ""
+japanese_native: う
 vietnamese:
   - thinh
   - thín

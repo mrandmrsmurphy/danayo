@@ -5,7 +5,7 @@ korean: "조"
 korean_native: "새"
 japanese:
   - CHOU
-japanese_native: ""
+japanese_native: とり
 vietnamese:
   - đeo
   - điểu

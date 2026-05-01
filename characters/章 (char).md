@@ -5,7 +5,7 @@ korean: "장"
 korean_native: "글"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - chương
   - trương

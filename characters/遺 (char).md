@@ -6,7 +6,7 @@ korean_native: "남길"
 japanese:
   - I
   - YUI
-japanese_native: ""
+japanese_native: のこ
 vietnamese:
   - di
 middle_chinese_initial: j

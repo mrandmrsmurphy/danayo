@@ -6,7 +6,7 @@ korean_native: 우레
 japanese:
   - RAI
   - RUI
-japanese_native: ""
+japanese_native: いかずち
 vietnamese:
   - loay
   - loi

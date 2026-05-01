@@ -6,7 +6,7 @@ korean_native: "즐길"
 japanese:
   - KOU
   - KAI
-japanese_native: ""
+japanese_native: がえんじ
 vietnamese:
   - khẳng
   - khứng

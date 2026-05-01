@@ -5,7 +5,7 @@ korean: "압"
 korean_native: "오리"
 japanese:
   - OU
-japanese_native: ""
+japanese_native: あひる
 vietnamese:
   - vịt
   - áp

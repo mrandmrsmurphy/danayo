@@ -6,7 +6,7 @@ korean_native: 살질
 japanese:
   - BOU
   - HOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - phòng
 middle_chinese_initial: f

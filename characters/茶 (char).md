@@ -7,7 +7,7 @@ japanese:
   - CHA
   - SA
   - TA
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - chè
   - sà

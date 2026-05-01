@@ -7,7 +7,7 @@ japanese:
   - HAN
   - BAN
   - HATSU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - ban
   - bàn

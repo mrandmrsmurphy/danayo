@@ -5,7 +5,7 @@ korean: "빙"
 korean_native: "부를"
 japanese:
   - HEI
-japanese_native: ""
+japanese_native: と
 vietnamese:
   - sánh
   - sính

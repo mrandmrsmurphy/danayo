@@ -5,7 +5,7 @@ korean: "과"
 korean_native: "지날"
 japanese:
   - KA
-japanese_native: ""
+japanese_native: あやま
 vietnamese:
   - goá
   - qua

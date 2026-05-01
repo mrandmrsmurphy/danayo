@@ -6,7 +6,7 @@ korean_native: "구슬"
 japanese:
   - GYOKU
   - GOKU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - ngọc
 middle_chinese_initial: "ŋ"

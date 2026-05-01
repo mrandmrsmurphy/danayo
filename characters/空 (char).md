@@ -5,7 +5,7 @@ korean: 공
 korean_native: 빌
 japanese:
   - KUU
-japanese_native:
+japanese_native: あ
   - そら
 vietnamese:
   - không

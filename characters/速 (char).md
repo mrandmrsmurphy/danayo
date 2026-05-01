@@ -5,7 +5,7 @@ korean: "속"
 korean_native: "빠를"
 japanese:
   - SOKU
-japanese_native: ""
+japanese_native: すみ
 vietnamese:
   - nhanh
   - rốc

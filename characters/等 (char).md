@@ -5,7 +5,7 @@ korean: 등
 korean_native: 가지런할
 japanese:
   - TOU
-japanese_native:
+japanese_native: ø
   - ひと-しい
 vietnamese:
   - đẳng

@@ -6,7 +6,7 @@ korean_native: 가까울
 japanese:
   - KIN
   - KON
-japanese_native:
+japanese_native: ちか
   - ちか-い
 vietnamese:
   - cận, cặn, gàn, gần

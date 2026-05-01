@@ -6,7 +6,7 @@ korean_native: 매미
 japanese:
   - SEN
   - ZEN
-japanese_native:
+japanese_native: せみ
   - せみ
 vietnamese:
   - thiền

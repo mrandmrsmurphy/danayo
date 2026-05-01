@@ -6,7 +6,7 @@ korean_native: "고을"
 japanese:
   - GUN
   - KUN
-japanese_native: ""
+japanese_native: こおり
 vietnamese:
   - quạnh
   - quấn

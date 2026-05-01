@@ -6,7 +6,7 @@ korean_native: "소매"
 japanese:
   - BEI
   - KETSU
-japanese_native: ""
+japanese_native: たまと
 vietnamese:
   - khuyết
   - quyết

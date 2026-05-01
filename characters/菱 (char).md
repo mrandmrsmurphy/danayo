@@ -5,7 +5,7 @@ korean: "릉"
 korean_native: "마름"
 japanese:
   - RYOU
-japanese_native: ""
+japanese_native: ひし
 vietnamese:
   - lăng
   - năng

@@ -5,7 +5,7 @@ korean: "배"
 korean_native: "짝"
 japanese:
   - HAI
-japanese_native: ""
+japanese_native: くば
 vietnamese:
   - phôi
   - phối

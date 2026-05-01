@@ -6,7 +6,7 @@ korean_native: "못"
 japanese:
   - TEI
   - CHOU
-japanese_native: ""
+japanese_native: くぎ
 vietnamese:
   - đanh
   - đinh

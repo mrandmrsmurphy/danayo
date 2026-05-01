@@ -5,7 +5,7 @@ korean: "익"
 korean_native: "다음날"
 japanese:
   - YOKU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - dực
 middle_chinese_initial: j

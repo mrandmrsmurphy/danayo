@@ -5,7 +5,7 @@ korean: 비
 korean_native: 아닐
 japanese:
   - HI
-japanese_native:
+japanese_native: あら
   - それる
 vietnamese:
   - phi

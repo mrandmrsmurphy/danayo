@@ -5,7 +5,7 @@ korean: "구"
 korean_native: "모날"
 japanese:
   - KU
-japanese_native: ""
+japanese_native: かね
 vietnamese:
   - củ
 middle_chinese_initial: k

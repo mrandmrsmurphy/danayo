@@ -5,7 +5,7 @@ korean: "안"
 korean_native: "기러기"
 japanese:
   - GAN
-japanese_native: ""
+japanese_native: かり
 vietnamese:
   - nhạn
   - nhẹn

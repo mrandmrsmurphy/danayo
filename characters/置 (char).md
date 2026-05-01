@@ -5,7 +5,7 @@ korean: "치"
 korean_native: "둘"
 japanese:
   - CHI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - trí
 middle_chinese_initial: "ʈ"

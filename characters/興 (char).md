@@ -6,7 +6,7 @@ korean_native: 일
 japanese:
   - KYOU
   - KOU
-japanese_native: ""
+japanese_native: おこ
 vietnamese:
   - hên
   - hăng

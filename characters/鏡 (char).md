@@ -6,7 +6,7 @@ korean_native: 거울
 japanese:
   - KYOU
   - KEI
-japanese_native: ""
+japanese_native: かがみ
 vietnamese:
   - gương
   - kiến

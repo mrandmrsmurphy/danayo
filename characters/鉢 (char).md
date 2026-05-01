@@ -6,7 +6,7 @@ korean_native: "바리때"
 japanese:
   - HACHI
   - HATSU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - bát
 middle_chinese_initial: p

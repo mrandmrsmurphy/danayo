@@ -7,7 +7,7 @@ japanese:
   - KEN
   - KAN
   - SEN
-japanese_native:
+japanese_native: あ
   - あく
 vietnamese:
   - kiềm

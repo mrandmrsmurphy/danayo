@@ -6,7 +6,7 @@ korean_native: 길쌈
 japanese:
   - BOU
   - HOU
-japanese_native: ""
+japanese_native: つむ
 vietnamese:
   - phưởng
   - vướng

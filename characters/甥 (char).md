@@ -6,7 +6,7 @@ korean_native: 생질
 japanese:
   - SEI
   - SHOU
-japanese_native:
+japanese_native: おい
   - おい , むこ
 vietnamese:
   - sinh

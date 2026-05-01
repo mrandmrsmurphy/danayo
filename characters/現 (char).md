@@ -6,7 +6,7 @@ korean_native: "나타날"
 japanese:
   - GEN
   - KEN
-japanese_native: ""
+japanese_native: あらわ
 vietnamese:
   - hiện
   - hẹn

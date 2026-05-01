@@ -6,7 +6,7 @@ korean_native: 길
 japanese:
   - DOU
   - TOU
-japanese_native:
+japanese_native: いう
   - みち
 vietnamese:
   - đạo, dạo, nhạo

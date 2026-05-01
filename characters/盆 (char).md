@@ -6,7 +6,7 @@ korean_native: "동이"
 japanese:
   - BON
   - HON
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - buồn
   - bòn

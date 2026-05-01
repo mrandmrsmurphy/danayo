@@ -6,7 +6,7 @@ korean_native: "진실로"
 japanese:
   - KOU
   - KU
-japanese_native: ""
+japanese_native: いやしく
 vietnamese:
   - càu
   - cú

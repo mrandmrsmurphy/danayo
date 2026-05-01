@@ -6,7 +6,7 @@ korean_native: "쭈그릴"
 japanese:
   - SON
   - SHUN
-japanese_native: ""
+japanese_native: うずくま
 vietnamese:
   - tôn
   - đôn

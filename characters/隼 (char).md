@@ -6,7 +6,7 @@ korean_native: "송골매"
 japanese:
   - JUN
   - SHUN
-japanese_native: ""
+japanese_native: はやぶさ
 vietnamese:
   - chuẩn
 middle_chinese_initial: s

@@ -5,7 +5,7 @@ korean: "륜"
 korean_native: "바퀴"
 japanese:
   - RIN
-japanese_native: ""
+japanese_native: わ
 vietnamese:
   - lon
   - luân

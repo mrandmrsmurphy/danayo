@@ -5,7 +5,7 @@ korean: 람
 korean_native: 쪽빛
 japanese:
   - RAN
-japanese_native:
+japanese_native: あい
   - あい
 vietnamese:
   - lam

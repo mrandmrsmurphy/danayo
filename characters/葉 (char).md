@@ -6,7 +6,7 @@ korean_native: 잎
 japanese:
   - YOU
   - SHOU
-japanese_native: ""
+japanese_native: は
 vietnamese:
   - diếp
   - diệp

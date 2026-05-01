@@ -6,7 +6,7 @@ korean_native: 붉을
 japanese:
   - KU
   - KOU
-japanese_native: ""
+japanese_native: あか
 vietnamese:
   - hường
   - hồng

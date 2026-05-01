@@ -7,7 +7,7 @@ japanese:
   - KEI
   - KYOU
   - KI
-japanese_native: ""
+japanese_native: ころ
 vietnamese:
   - cảnh
   - khoanh

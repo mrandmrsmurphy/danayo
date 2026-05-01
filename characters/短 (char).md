@@ -5,7 +5,7 @@ korean: "단"
 korean_native: 짧을
 japanese:
   - TAN
-japanese_native:
+japanese_native: みじか
   - みじか-い
 vietnamese:
   - đoản, đuỗn, ngắn, vắn

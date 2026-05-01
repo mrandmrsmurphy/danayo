@@ -5,7 +5,7 @@ korean: "배"
 korean_native: "등"
 japanese:
   - HAI
-japanese_native: ""
+japanese_native: せ
 vietnamese:
   - bối
   - bồi

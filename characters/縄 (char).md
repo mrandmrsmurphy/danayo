@@ -7,7 +7,7 @@ japanese:
   - JOU
   - BIN
   - YOU
-japanese_native:
+japanese_native: ただ
   - なわ
 vietnamese:
   - thằng, thừng, xằng

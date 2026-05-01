@@ -5,7 +5,7 @@ korean: 갈
 korean_native: 전갈
 japanese:
   - GACHI
-japanese_native:
+japanese_native: さそり
   - すくもむし
 vietnamese: hiết, hạt, yết
 middle_chinese_initial: x

@@ -6,7 +6,7 @@ korean_native: "모실"
 japanese:
   - BAI
   - HAI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - bồi
 middle_chinese_initial: b

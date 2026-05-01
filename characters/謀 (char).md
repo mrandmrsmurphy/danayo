@@ -6,7 +6,7 @@ korean_native: "꾀"
 japanese:
   - BOU
   - MU
-japanese_native: ""
+japanese_native: たばか
 vietnamese:
   - mưu
 middle_chinese_initial: m

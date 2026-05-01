@@ -5,7 +5,7 @@ korean: 개
 korean_native: 다
 japanese:
   - KAI
-japanese_native:
+japanese_native: みな
   - とも
 vietnamese:
   - gai

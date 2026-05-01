@@ -5,7 +5,7 @@ korean: "포"
 korean_native: "배부를"
 japanese:
   - HOU
-japanese_native: ""
+japanese_native: あ
 vietnamese:
   - bão
 middle_chinese_initial: p

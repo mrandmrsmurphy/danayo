@@ -5,7 +5,7 @@ korean: "락"
 korean_native: "이을"
 japanese:
   - RAKU
-japanese_native: ""
+japanese_native: から
 vietnamese:
   - lạc
   - rạc

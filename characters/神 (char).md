@@ -6,7 +6,7 @@ korean_native: "귀신"
 japanese:
   - SHIN
   - JIN
-japanese_native: ""
+japanese_native: かみ
 vietnamese:
   - thườn
   - thần

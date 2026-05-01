@@ -5,7 +5,7 @@ korean:
 korean_native: "방울"
 japanese:
   - TAKU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - xích
 middle_chinese_initial: d

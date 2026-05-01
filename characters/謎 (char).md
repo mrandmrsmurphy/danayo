@@ -5,7 +5,7 @@ korean: "미"
 korean_native: "수수께끼"
 japanese:
   - MEI
-japanese_native: ""
+japanese_native: なぞ
 vietnamese:
   - mê
 middle_chinese_initial: m

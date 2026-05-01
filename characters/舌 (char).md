@@ -6,7 +6,7 @@ korean_native: "혀"
 japanese:
   - ZETSU
   - SETSU
-japanese_native: ""
+japanese_native: した
 vietnamese:
   - thiệt
   - thịt

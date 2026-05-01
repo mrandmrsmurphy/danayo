@@ -5,7 +5,7 @@ korean: "견"
 korean_native: "어깨"
 japanese:
   - KEN
-japanese_native: ""
+japanese_native: かた
 vietnamese:
   - khiên
   - kiên

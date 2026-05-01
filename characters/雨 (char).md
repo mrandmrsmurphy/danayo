@@ -5,7 +5,7 @@ korean: 우
 korean_native: 비
 japanese:
   - U
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - vũ
 middle_chinese_initial: ø

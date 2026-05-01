@@ -5,7 +5,7 @@ korean: "려"
 korean_native: 나귀
 japanese:
   - RO
-japanese_native: ""
+japanese_native: うさぎうま
 vietnamese:
   - lư
 middle_chinese_initial: l

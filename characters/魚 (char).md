@@ -5,7 +5,7 @@ korean: 어
 korean_native: 물고기
 japanese:
   - GYO
-japanese_native:
+japanese_native: ø
   - うお,さかな
 vietnamese:
   - ngư

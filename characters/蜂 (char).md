@@ -5,7 +5,7 @@ korean: "봉"
 korean_native: "벌"
 japanese:
   - HOU
-japanese_native: ""
+japanese_native: はち
 vietnamese:
   - ong
   - phong

@@ -18,6 +18,8 @@ views:
       - hsk_level
       - graphemic_classification
     sort:
+      - property: japanese
+        direction: ASC
       - property: hsk_level
         direction: DESC
       - property: file.mtime
@@ -65,8 +67,6 @@ views:
       - property: radical
         direction: ASC
       - property: pos
-        direction: DESC
-      - property: japanese
         direction: DESC
       - property: file.name
         direction: ASC

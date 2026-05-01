@@ -5,7 +5,7 @@ korean: 취
 korean_native: 취할
 japanese:
   - SUI
-japanese_native:
+japanese_native: よ
   - よ-う
 vietnamese:
   - túy, xúy

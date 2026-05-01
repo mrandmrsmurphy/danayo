@@ -5,7 +5,7 @@ korean: "당"
 korean_native: "엿"
 japanese:
   - TOU
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - đường
 middle_chinese_initial: d

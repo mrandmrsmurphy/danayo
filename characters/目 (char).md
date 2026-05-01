@@ -6,7 +6,7 @@ korean_native: 눈
 japanese:
   - MOKU
   - BOKU
-japanese_native:
+japanese_native: ø
   - ぼく
 vietnamese:
   - mục

@@ -6,7 +6,7 @@ korean_native: "죽"
 japanese:
   - SHUKU
   - IKU
-japanese_native: ""
+japanese_native: かい
 vietnamese:
   - cháo
   - chúc

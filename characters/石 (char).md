@@ -5,7 +5,7 @@ korean: 석
 korean_native: 돌
 japanese:
   - SEKI
-japanese_native:
+japanese_native: いし
   - いし
 vietnamese:
   - thạch

@@ -5,7 +5,7 @@ korean: "정"
 korean_native: "배"
 japanese:
   - TEI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - đĩnh
 middle_chinese_initial: d

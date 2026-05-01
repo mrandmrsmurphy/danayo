@@ -6,7 +6,7 @@ korean_native: ""
 japanese:
   - SATSU
   - SOU
-japanese_native: ""
+japanese_native: さっ
 vietnamese:
   - bùng
   - táp

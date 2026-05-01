@@ -6,7 +6,7 @@ korean_native: "예도"
 japanese:
   - REI
   - RAI
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - lãi
   - lạy

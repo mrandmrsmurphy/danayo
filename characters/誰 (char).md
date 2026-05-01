@@ -5,7 +5,7 @@ korean: 수
 korean_native: 누구
 japanese:
   - SUI
-japanese_native:
+japanese_native: た
   - だれ
 vietnamese:
   - thùy

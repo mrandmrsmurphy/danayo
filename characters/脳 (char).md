@@ -6,7 +6,7 @@ korean_native: 뇌
 japanese:
   - NOU
   - DOU
-japanese_native:
+japanese_native: のうずる
   - なずき
 vietnamese:
   - não

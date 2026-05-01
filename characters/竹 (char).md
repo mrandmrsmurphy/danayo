@@ -5,7 +5,7 @@ korean: "죽"
 korean_native: "대"
 japanese:
   - CHIKU
-japanese_native:
+japanese_native: たけ
   - たけ
 vietnamese:
   - trúc

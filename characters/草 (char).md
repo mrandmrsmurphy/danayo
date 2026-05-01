@@ -5,7 +5,7 @@ korean: "초"
 korean_native: 풀
 japanese:
   - SOU
-japanese_native:
+japanese_native: ø
   - くさ
 vietnamese:
   - thảo, tháu, xáo

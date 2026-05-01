@@ -5,7 +5,7 @@ korean: "송"
 korean_native: "보낼"
 japanese:
   - SOU
-japanese_native: ""
+japanese_native: おく
 vietnamese:
   - tống
 middle_chinese_initial: s

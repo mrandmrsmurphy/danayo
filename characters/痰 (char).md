@@ -5,7 +5,7 @@ korean: "담"
 korean_native: "가래"
 japanese:
   - TAN
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - đàm
   - đờm

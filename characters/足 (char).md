@@ -7,7 +7,7 @@ japanese:
   - SOKU
   - SHOKU
   - SUU
-japanese_native: ""
+japanese_native: あし
 vietnamese:
   - túc
 middle_chinese_initial: "t͡s"

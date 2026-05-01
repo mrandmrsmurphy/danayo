@@ -5,7 +5,7 @@ korean: 감
 korean_native: 달
 japanese:
   - KAN
-japanese_native: ""
+japanese_native: あま
 vietnamese:
   - cam
 middle_chinese_initial: k

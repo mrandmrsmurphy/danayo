@@ -5,7 +5,7 @@ korean: "지"
 korean_native: 알
 japanese:
   - CHI
-japanese_native:
+japanese_native: し
   - さとる
 vietnamese:
   - tri

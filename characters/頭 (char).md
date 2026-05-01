@@ -7,7 +7,7 @@ japanese:
   - TOU
   - ZU
   - TO
-japanese_native: ""
+japanese_native: ø
 vietnamese:
   - đầu
 middle_chinese_initial: d

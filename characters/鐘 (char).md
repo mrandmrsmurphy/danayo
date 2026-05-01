@@ -5,7 +5,7 @@ korean: "종"
 korean_native: "쇠북"
 japanese:
   - SHOU
-japanese_native: ""
+japanese_native: かね
 vietnamese:
   - chung
   - chuông

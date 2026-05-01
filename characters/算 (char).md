@@ -5,7 +5,7 @@ korean: "산"
 korean_native: 셈
 japanese:
   - SAN
-japanese_native:
+japanese_native: そろ
   - かぞえる
 vietnamese:
   - toán
