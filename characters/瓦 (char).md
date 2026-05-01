@@ -22,7 +22,7 @@ english:
 羅馬字: "'wa"
 諺文: 와
 joyo_level: 高等
-hsk_level: 3
+hsk_level: "3"
 hanmun_edu_level: 中
 danayo_id: 3194
 mc_id: 1738
