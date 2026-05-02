@@ -1,8 +1,8 @@
 ---
-mandarin: "yǐ"
+mandarin: yǐ
 cantonese: ji5
-korean: "의"
-korean_native: "어조사"
+korean: 의
+korean_native: 어조사
 japanese:
   - I
 japanese_native: ø
@@ -14,29 +14,30 @@ vietnamese:
   - hở
   - hỹ
 middle_chinese_initial: x
-middle_chinese_final: "ɣɛi"
+middle_chinese_final: ɣɛi
 stroke_count: 7
-radical: "矢"
+radical: 矢
 skip_number: 2-2-5
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - hey
 羅馬字: we
-諺文: "워"
+諺文: 워
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 7274
 mc_id: 49
-graphemic_classification: "厶"
-stand_in: "矣"
+graphemic_classification: 厶
+stand_in: 矣
 aliases:
   - 欸
-注音: "⼔"
+注音: ⼔
 tags:
   - character
   - hapax
+kwin: false
 ---
 >[!tip] This is a page about the character 矣.
 >For the word, see [矣](words/矣.md)

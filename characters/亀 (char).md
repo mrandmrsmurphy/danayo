@@ -1,7 +1,7 @@
 ---
-mandarin: "guī"
-cantonese: "gwai1"
-korean: "구, 균, 귀"
+mandarin: guī
+cantonese: gwai1
+korean: 구
 korean_native: 거북
 japanese:
   - KI
@@ -35,6 +35,7 @@ aliases:
 注音: ㄍㄨㄛ
 tags:
   - character
+kwin: false
 ---
 >[!tip] This is a page about the character 亀.
 >For the word, see [亀](words/亀.md)

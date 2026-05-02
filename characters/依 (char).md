@@ -35,6 +35,7 @@ aliases:
 注音: ㄧㄜ
 tags:
   - character
+kwin: true
 ---
 ```meta-bind-embed
 [[nav/char_info]]

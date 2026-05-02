@@ -11,18 +11,18 @@ views:
       - formula.score
       - danayo_id
       - korean
+      - 諺文
       - english
       - 羅馬字
-      - grade_level
-      - hsk_level
-      - hanmun_edu_level
-      - joyo_level
+      - kwin
     sort:
+      - property: kwin
+        direction: ASC
+      - property: korean
+        direction: ASC
       - property: hanmun_edu_level
         direction: ASC
       - property: hsk_level
-        direction: ASC
-      - property: korean
         direction: ASC
       - property: japanese_native
         direction: ASC
