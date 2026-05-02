@@ -18,7 +18,7 @@ tags:
 |4|<ruby>[鉀](/words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](/words/石灰素.md)<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby>|<ruby>[高素](/words/高素.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>|<ruby>[徳素](/words/徳素.md)<rt>ㄊㄨㄎㄙㄛ</rt></ruby>|<ruby>[砒素](/words/砒素.md)<rt>ㄆㄧㄙㄛ</rt></ruby>|<ruby>[月素](/words/月素.md)<rt>⼔ㄊㄙㄛ</rt></ruby>|<ruby>[臭素](/words/臭素.md)<rt>ㄑㄨㄙㄛ</rt></ruby>|<ruby>[潜素](/words/潜素.md)<rt>ㄐㄝㄇㄙㄛ</rt></ruby>|
 |5|<ruby>[茜素](/words/茜素.md)<rt>ㄑㄝㄋㄙㄛ</rt></ruby>|<ruby>[火紅素](/words/火紅素.md)<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby>| <ruby>[紫素](/words/紫素.md)<rt>ㄐㄝㄙㄛ</rt></ruby> |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| <ruby>[墨素](/words/墨素.md)<rt>ㄇㄨㄎㄙㄛ</rt></ruby> | <ruby>[土素](/words/土素.md)<rt>ㄊㄛㄙㄛ</rt></ruby> | <ruby>[沃素](/words/沃素.md)<rt>ㄛㄎㄙㄛ</rt></ruby> | <ruby>[奇素](/words/奇素.md)<rt>ㄍㄧㄙㄛ</rt></ruby>|
 |6|<ruby>[青素](/words/青素.md)<rt>ㄑㄝㄫㄙㄛ</rt></ruby>|<ruby>[重素](/words/重素.md)<rt>ㄑㄛㄫㄙㄛ</rt></ruby>|<ruby>[蕤素](/words/蕤素.md)<rt>ㄋㄨㄧㄙㄛ</rt></ruby>|<ruby>[鉛](/words/鉛.md)<rt>⼶ㄋ</rt></ruby>|<ruby>[蒼鉛](/words/蒼鉛.md)<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby>|<ruby>[波素](/words/波素.md)<rt>ㄅㄚㄙㄛ</rt></ruby>|<ruby>[不穏素](/words/不穏素.md)<rt>ㄅㄛㄊ·ㄛㄋㄙㄛ</rt></ruby>|<ruby>[射素](/words/射素.md)<rt>ㄙ⼘ㄙㄛ</rt></ruby>|
-|7|<ruby>[法素](/words/法素.md)<rt>ㄆㄚㄆㄙㄛ</rt></ruby>|<ruby>[放素](/words/放素.md)<rt>ㄈㄚㄫㄙㄛ</rt></ruby>| [[日本素]] | [[佛雷素]] | [[莫斯素]] | [[利佛素]] | [[田納素]] | [[奥加素]] |
+|7|<ruby>[法素](/words/法素.md)<rt>ㄈㄚㄆㄙㄛ</rt></ruby>|<ruby>[放素](/words/放素.md)<rt>ㄈㄚㄫㄙㄛ</rt></ruby>| [[日本素]] | [[佛雷素]] | [[莫斯素]] | [[利佛素]] | [[田納素]] | [[奥加素]] |
 
 <!--1: kingso, nitso //-->
 <!--2: sekso, lokjuso, bongso, tanso, detso, yangso, futso, hongso, //-->
@@ -26,7 +26,7 @@ tags:
 <!--4: gap, sekhoiso, gauso, tukso, piso, wetso, cuso, jamso //-->
 <!--5: censo, hwahongso, jeso, juso, mukso, toso, okso, guiso //-->
 <!--6: cengso, congso, taso, yen, cwang'yen, baso, bot'anso, syaso //-->
-<!--7: pabso, cudso, bonso, butloiso, maksiso, liǝbutso, dennapso, ukgaso //-->
+<!--7: fabso, cudso, bonso, butloiso, maksiso, liǝbutso, dennapso, ukgaso //-->
 ### D-Block
 | |   3 |   4  | 5   | 6   | 7  | 8   | 9   | 10 | 11  |  12 |
 |-|-----|------|-----|-----|----|----|----|---|---|--|

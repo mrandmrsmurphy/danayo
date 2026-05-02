@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("syllables")
+    order:
+      - file.name
+      - size
+      - 注音
+      - 羅馬字
+      - 諺文
+      - english
+      - date-last-perfect
+    sort:
+      - property: date-last-perfect
+        direction: ASC
+    columnSize:
+      note.size: 68
