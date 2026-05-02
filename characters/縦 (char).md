@@ -1,7 +1,7 @@
 ---
-mandarin: "zòng"
-cantonese: "zung3"
-korean: "종"
+mandarin: zòng
+cantonese: zung3
+korean: 종
 korean_native: 늘어질
 japanese:
   - JUU
@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 縦.
 >For the word, see [縦](words/縦.md)
