@@ -211,7 +211,7 @@ views:
       - english
     sort:
       - property: size
-        direction: DESC
+        direction: ASC
       - property: date-last-perfect
         direction: DESC
       - property: file.name

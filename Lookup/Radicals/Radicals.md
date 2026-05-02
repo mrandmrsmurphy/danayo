@@ -10,9 +10,9 @@ There have been several systems of radicals in use at various times during histo
 
 ## By Stroke 
 ### 1 stroke
-- [Radical 001](/lookup/Radicals/Radical%20001.md) 一 (19 characters)
+- [Radical 001](/lookup/Radicals/Radical%20001.md) 一 (20 characters)
 - [Radical 002](lookup/Radicals/Radical%20002.md) 丨 (2 characters)
-- [[Radical 003]] 丶 (4 characters)
+- [[Radical 003]] 丶 (3 characters)
 - [[Radical 004]] 丿 or 乀 or 乁  (10 characters)
 - [[Radical 005]] 乙 or 乚 or 乛 (7 characters)
 - [[Radical 006]] 亅 ( 4 characters)
@@ -20,28 +20,28 @@ There have been several systems of radicals in use at various times during histo
 
 ### 2 strokes
 - [[Radical 007]] 二 (9 characters)
-- [[Radical 008]] 亠
-- [[Radical 009]] 人 or combining as 亻
-- [[Radical 010]] 儿, ancient 兒
+- [[Radical 008]] 亠 (12 characters)
+- [[Radical 009]] 人 or combining as 亻(142 characters)
+- [[Radical 010]] 儿, ancient 兒 (14 characters)
 - [[Radical 011]] 入 - (3 characters)
-- [[Radical 012]] 八 or combining as 丷
-- [[Radical 013]] 冂
-- [[Radical 014]] 冖
-- [[Radical 015]] 冫
-- [[Radical 016]] 几
-- [[Radical 017]] 凵
-- [[Radical 018]] 刀 or combining as 刂
-- [[Radical 019]] 力
-- [[Radical 020]] 勹
-- [[Radical 021]] 匕
-- [[Radical 022]] 匚
-- [[Radical 023]] 匸
-- [[Radical 024]] 十
-- [[Radical 025]] 卜
-- [[Radical 026]] 卩 or also as 㔾
-- [[Radical 027]] 厂
-- [[Radical 028]] 厶
-- [[Radical 029]] 又
+- [[Radical 012]] 八 or combining as 丷 (10 characters)
+- [[Radical 013]] 冂 (5 characters)
+- [[Radical 014]] 冖 (9 characters)
+- [[Radical 015]] 冫(9 characters)
+- [[Radical 016]] 几 (4 characters)
+- [[Radical 017]] 凵 (5 characters)
+- [[Radical 018]] 刀 or combining as 刂 (39 characters)
+- [[Radical 019]] 力 (28 characters)
+- [[Radical 020]] 勹 (6 characters)
+- [[Radical 021]] 匕 (4 characters)
+- [[Radical 022]] 匚 (1 characters)
+- [[Radical 023]] 匸 (5 characters)
+- [[Radical 024]] 十 (14 characters)
+- [[Radical 025]] 卜 (4 characters)
+- [[Radical 026]] 卩 or also as 㔾 (8 characters)
+- [[Radical 027]] 厂 (11 characters)
+- [[Radical 028]] 厶 (2 characters)
+- [[Radical 029]] 又 (15 characters)
 
 __Combining or simplified radicals with 2 strokes__
 - 47. combining 巜, used for radical 巛
@@ -308,9 +308,9 @@ views:
       - radical
       - date-last-perfect
     sort:
-      - property: file.name
-        direction: ASC
       - property: size
         direction: DESC
+      - property: file.name
+        direction: ASC
 
 ```

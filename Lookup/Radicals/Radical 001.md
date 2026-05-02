@@ -1,9 +1,9 @@
 ---
-date-last-perfect: 2026-03-11
+date-last-perfect: 2026-05-01
 size: 20
 radical: 一
-tags: [lookup]
-
+tags:
+  - lookup
 ---
 > [[Radicals]]
 
@@ -35,16 +35,16 @@ Radical 1 is 一, the number one.
 10. <ruby>[与](../../characters/与%20(char).md)<rt>·⼄</rt></ruby> - only
 11. <ruby>[丐](../../characters/丐.md)<rt>ㄍㄚㄨ</rt></ruby> - begger
 - 丏 --> ancient variant of 丐
-- [[characters/丑]] second of 12 earthly branches
+12. <ruby>[丑](/characters/丑.md)<rt>ㄑㄨ</rt></ruby> - second of 12 earthly branches
 - 专 --> ancient variant of 専
 - 丗 --> ancient variant of 世
 
 ## +4 Strokes
-12. <ruby>[且](../../characters/且%20(char).md)<rt>ㄑㄛ</rt></ruby> - also
-13. <ruby>[世](../../characters/世.md)<rt>ㄙㄝ</rt></ruby> - world
-14. <ruby>[丘](../../characters/丘%20(char).md)<rt>ㄎ⼜</rt></ruby> - hill
-15. <ruby>[丙 (char)](../../characters/丙%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - tertiary
-16. <ruby>[丕](../../characters/丕.md)<rt>ㄆㄧ</rt></ruby> - grand
+13. <ruby>[且](../../characters/且%20(char).md)<rt>ㄑㄛ</rt></ruby> - also
+14. <ruby>[世](../../characters/世.md)<rt>ㄙㄝ</rt></ruby> - world
+15. <ruby>[丘](../../characters/丘%20(char).md)<rt>ㄎ⼜</rt></ruby> - hill
+16. <ruby>[丙 (char)](../../characters/丙%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - tertiary
+17. <ruby>[丕](../../characters/丕.md)<rt>ㄆㄧ</rt></ruby> - grand
 - 业 --> ancient variant of 業, 丘, and 北
 - 丛 --> ancient variant of 叢
 - 东 --> ancient variant of 東
@@ -52,8 +52,8 @@ Radical 1 is 一, the number one.
 - 㐀 --> ancient variant of 丘 
 
 ## +5 Strokes
-17. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄧㄫ</rt></ruby> - rescue
-18. <ruby>[両](../../characters/両%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - both
+18. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄧㄫ</rt></ruby> - rescue
+19. <ruby>[両](../../characters/両%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - both
 - 㐂 --> ancient variant of 喜
 - 丠 --> ancient variant of 丘 and 冀
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
@@ -68,7 +68,7 @@ Radical 1 is 一, the number one.
 - 𠀧 --> V variant of 三
 
 ## +7 Strokes
-19. <ruby>[並](../../characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - side-by-side
+20. <ruby>[並](../../characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - side-by-side
 - 丧 --> ancient variant of 喪
 
 ## +8 Strokes 
