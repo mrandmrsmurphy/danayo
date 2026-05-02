@@ -22,7 +22,7 @@ size: 7                          # total number of character entries in the Char
 羅馬字: dan                       # Dan'a'yo romanisation
 諺文: 단                          # Hangul representation
 注音: ㄉㄚㄋ                       # Bopomofo (matches the filename)
-english:                         # meaning(s) of the stand-alone character(s)
+english:                         # one entry per stand-alone character (its primary meaning)
   - altar
   - only
 tags:
@@ -32,7 +32,7 @@ tags:
 
 **`size`** is the count of all character entries (Common + Advanced + Naming combined). Update it whenever entries are added or removed.
 
-**`english`** lists the meanings of the stand-in character(s) — i.e., the word(s) Dan'a'yo actually uses alone for this syllable. If there is no stand-in, use `ø`.
+**`english`** takes one entry per stand-alone character, using that character's primary meaning. If there are two stand-alones, there are two entries. If there is no stand-in, use `ø`.
 
 **`諺文`** uses the unusual convention of final-ㅅ for final-u, ㅃ for f, and 어 for `e`. 
 
@@ -145,5 +145,6 @@ Set `date-last-perfect` when all of the following are true:
 - **Leaving the `dataviewjs` block** — auto-generated pages use it as a placeholder. A completed page replaces it with the hand-curated list.
 - **Wrong `size`** — recount entries whenever the section changes.
 - **Blank `english` on a page with a stand-in** — if a character has `stand_in`, its meaning belongs in `english`.
+- **Multiple meanings per stand-alone in `english`** — use only the primary meaning, one list entry per stand-alone character.
 - **Missing `(char)` suffix in links** — character files are named `X (char).md`; use `[[X (char)]]`, not `[[X]]`, unless the file genuinely lacks the suffix.
 - **Broken compound links** — verify that linked word files actually exist before marking a page perfect.
