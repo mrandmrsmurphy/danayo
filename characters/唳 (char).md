@@ -1,8 +1,8 @@
 ---
-mandarin: "lì"
+mandarin: lì
 cantonese: leoi6
-korean: "려"
-korean_native: "울"
+korean: 려
+korean_native: 울
 japanese:
   - REI
 japanese_native: れつ
@@ -11,27 +11,28 @@ vietnamese:
 middle_chinese_initial: l
 middle_chinese_final: ei
 stroke_count: 10
-radical: "口"
+radical: 口
 skip_number: 1-2-8
-grade_level: "先進"
+grade_level: 先進
 pos: ""
 english:
   - bird cry
   - caw
 羅馬字: lye
-諺文: "려"
+諺文: 려
 joyo_level: ""
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 7476
 mc_id: 8277
-graphemic_classification: "戻"
-stand_in: "唳"
+graphemic_classification: 戻
+stand_in: 唳
 aliases:
   - 悷
-注音: "ㄌ⼶"
+注音: ㄌ⼶
 tags:
   - character
+kwin: true
 ---
 >[!tip] This is a page about the character 唳.
 >For the word, see [唳](words/唳.md)

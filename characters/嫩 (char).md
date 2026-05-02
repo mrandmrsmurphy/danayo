@@ -1,8 +1,8 @@
 ---
-mandarin: "nèn"
+mandarin: nèn
 cantonese: nyun6
-korean: "눈"
-korean_native: "어릴"
+korean: 눈
+korean_native: 어릴
 japanese:
   - DON
   - NON
@@ -16,28 +16,28 @@ vietnamese:
   - nồn
   - nộn
 middle_chinese_initial: n
-middle_chinese_final: "uən"
+middle_chinese_final: uən
 stroke_count: 14
-radical: "女"
+radical: 女
 skip_number: 1-3-11
-grade_level: "先進"
-pos: ""
+grade_level: 先進
+pos: 性詞
 english:
   - delicate
   - tender
 羅馬字: non
-諺文: "논"
+諺文: 논
 joyo_level: ""
 hsk_level: "3"
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 7203
 mc_id: 9163
-graphemic_classification: "而"
-stand_in: "嫩"
+graphemic_classification: 而
+stand_in: 嫩
 aliases:
   - 嫰
   - 媆
-注音: "ㄋㄛㄋ"
+注音: ㄋㄛㄋ
 tags:
   - character
 ---

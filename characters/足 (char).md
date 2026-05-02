@@ -1,8 +1,8 @@
 ---
-mandarin: "zú"
+mandarin: zú
 cantonese: zuk1
-korean: "족"
-korean_native: "발"
+korean: 족
+korean_native: 발
 japanese:
   - SOKU
   - SHOKU
@@ -10,26 +10,26 @@ japanese:
 japanese_native: あし
 vietnamese:
   - túc
-middle_chinese_initial: "t͡s"
-middle_chinese_final: "ɨok"
+middle_chinese_initial: t͡s
+middle_chinese_final: ɨok
 stroke_count: 7
-radical: "足"
+radical: 足
 skip_number: 2-3-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - foot
 羅馬字: jog
-諺文: "족"
-joyo_level: 1
-hsk_level: 1
-hanmun_edu_level: "中"
+諺文: 족
+joyo_level: "1"
+hsk_level: "1"
+hanmun_edu_level: 中
 danayo_id: 110
 mc_id: 146
-graphemic_classification: "會意"
-stand_in: "足"
+graphemic_classification: 會意
+stand_in: 足
 aliases:
-注音: "ㄐㄛㄎ"
+注音: ㄐㄛㄎ
 tags:
   - character
 ---
