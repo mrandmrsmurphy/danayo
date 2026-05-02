@@ -5,8 +5,7 @@ korean: 급
 korean_native: 미칠
 japanese:
   - KYUU
-japanese_native: およ
-  - およ-ぶ
+japanese_native: およ - およ-ぶ
 vietnamese:
   - cập
 middle_chinese_initial: g
@@ -30,7 +29,7 @@ stand_in: 及
 aliases:
   - 﨤
 注音: ㄍㄨㄆ
-kwin: true
+kwin: false
 date-last-perfect: 2026-03-24
 tags:
   - character
