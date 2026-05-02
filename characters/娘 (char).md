@@ -32,6 +32,7 @@ aliases:
   - 孃
   - 嬢
 注音: ㄋㄚㄫ
+kwin: true
 tags:
   - character
 ---

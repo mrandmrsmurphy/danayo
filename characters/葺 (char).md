@@ -28,6 +28,7 @@ graphemic_classification: "咠"
 stand_in: "葺"
 aliases:
 注音: "ㄑㄨㄆ"
+kwin: false
 tags:
   - character
 ---

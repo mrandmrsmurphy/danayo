@@ -30,6 +30,7 @@ graphemic_classification: "豕"
 stand_in: "啄"
 aliases:
 注音: "ㄊㄛㄎ"
+kwin: false
 tags:
   - character
 ---

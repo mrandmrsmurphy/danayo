@@ -30,6 +30,7 @@ graphemic_classification: "會意"
 stand_in: "弱"
 aliases:
 注音: "ㄋ⼘ㄎ"
+kwin: false
 tags:
   - character
 ---

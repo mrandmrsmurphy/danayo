@@ -31,6 +31,7 @@ graphemic_classification: 堆
 stand_in: 追
 aliases:
 注音: ㄊㄨㄧ
+kwin: false
 tags:
   - character
 ---

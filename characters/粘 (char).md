@@ -31,6 +31,7 @@ stand_in: "粘"
 aliases:
   - 黏
 注音: "ㄋㄝㄇ"
+kwin: false
 tags:
   - character
 ---

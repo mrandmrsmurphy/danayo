@@ -29,6 +29,7 @@ stand_in: 唇
 aliases:
   - 脣
 注音: ㄙㄨㄋ
+kwin: false
 tags:
   - character
 ---

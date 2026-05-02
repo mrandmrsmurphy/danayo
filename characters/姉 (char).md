@@ -31,6 +31,7 @@ aliases:
   - 姐
   - 姊
 注音: "ㄐㄚ"
+kwin: true
 tags:
   - character
 ---

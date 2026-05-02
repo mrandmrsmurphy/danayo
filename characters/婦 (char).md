@@ -31,6 +31,7 @@ stand_in: "婦"
 aliases:
   - 妇
 注音: "ㄅ⼜"
+kwin: false
 tags:
   - character
 ---

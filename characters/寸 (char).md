@@ -34,6 +34,7 @@ graphemic_classification: "指事"
 stand_in: "寸"
 aliases:
 注音: "ㄑㄛㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ graphemic_classification: "用"
 stand_in: "庸"
 aliases:
 注音: "⼄ㄫ"
+kwin: true
 tags:
   - character
 ---

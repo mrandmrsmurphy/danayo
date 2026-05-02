@@ -40,6 +40,7 @@ aliases:
   - 别
   - 彆
 注音: "ㄅㄝㄊ"
+kwin: false
 tags:
   - character
 ---

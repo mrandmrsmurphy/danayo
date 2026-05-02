@@ -29,6 +29,7 @@ graphemic_classification: 會意
 stand_in: 共
 aliases:
 注音: ㄍ⼄ㄫ
+kwin: false
 tags:
   - character
 ---

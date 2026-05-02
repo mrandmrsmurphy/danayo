@@ -32,6 +32,7 @@ stand_in: "鈴"
 aliases:
   - 铃
 注音: "ㄌㄝㄫ"
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ graphemic_classification: "委"
 stand_in: "矮"
 aliases:
 注音: "⺢ㄧ"
+kwin: true
 tags:
   - character
 ---

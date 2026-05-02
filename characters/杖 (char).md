@@ -30,6 +30,7 @@ graphemic_classification: 丈
 stand_in: 杖
 aliases:
 注音: ㄐㄚㄫ
+kwin: true
 tags:
   - character
 ---

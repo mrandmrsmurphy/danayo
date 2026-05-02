@@ -34,6 +34,7 @@ stand_in: "訓"
 aliases:
   - 训
 注音: "ㄏㄨㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -28,6 +28,7 @@ graphemic_classification: "匊"
 stand_in: "菊"
 aliases:
 注音: "ㄍㄨㄎ"
+kwin: true
 tags:
   - character
 ---

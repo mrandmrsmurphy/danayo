@@ -36,6 +36,7 @@ graphemic_classification: "旦"
 stand_in: "但"
 aliases:
 注音: "ㄉㄚㄋ"
+kwin: true
 tags:
   - character
 ---

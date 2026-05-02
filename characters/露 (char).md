@@ -29,6 +29,7 @@ graphemic_classification: 路
 stand_in: 露
 aliases:
 注音: ㄌㄛ
+kwin: true
 tags:
   - character
 ---

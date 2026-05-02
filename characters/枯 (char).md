@@ -30,6 +30,7 @@ graphemic_classification: "古"
 stand_in: "枯"
 aliases:
 注音: "ㄎㄛ"
+kwin: false
 tags:
   - character
 ---

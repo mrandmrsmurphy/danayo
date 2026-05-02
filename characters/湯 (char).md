@@ -31,6 +31,7 @@ stand_in: "湯"
 aliases:
   - 汤
 注音: "ㄊㄚㄫ"
+kwin: true
 tags:
   - character
 ---

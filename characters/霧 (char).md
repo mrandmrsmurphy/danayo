@@ -32,6 +32,7 @@ stand_in: 霧
 aliases:
   - 雾
 注音: ㄇㄨ
+kwin: true
 tags:
   - character
 ---

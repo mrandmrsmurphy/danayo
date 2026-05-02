@@ -30,6 +30,7 @@ graphemic_classification: "离"
 stand_in: "璃"
 aliases:
 注音: "ㄌㄜ"
+kwin: false
 tags:
   - character
 ---

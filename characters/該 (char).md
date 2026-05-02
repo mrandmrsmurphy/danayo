@@ -33,6 +33,7 @@ stand_in: "該"
 aliases:
   - 该
 注音: "ㄍㄛㄧ"
+kwin: false
 tags:
   - character
 ---

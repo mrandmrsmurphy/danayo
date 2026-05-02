@@ -32,6 +32,7 @@ aliases:
   - 阔
   - 濶
 注音: "ㄎ⺢ㄊ"
+kwin: false
 tags:
   - character
 ---

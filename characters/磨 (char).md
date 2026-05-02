@@ -32,6 +32,7 @@ stand_in: "磨"
 aliases:
   - 摩
 注音: "ㄇㄚ"
+kwin: true
 tags:
   - character
 ---

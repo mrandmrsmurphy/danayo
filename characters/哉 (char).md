@@ -29,6 +29,7 @@ graphemic_classification: "才"
 stand_in: "哉"
 aliases:
 注音: "ㄐㄚㄧ"
+kwin: true
 tags:
   - character
 ---

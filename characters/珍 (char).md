@@ -29,6 +29,7 @@ graphemic_classification: "㐱"
 stand_in: "珍"
 aliases:
 注音: "ㄑㄧㄋ"
+kwin: false
 tags:
   - character
 ---

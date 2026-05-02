@@ -30,6 +30,7 @@ stand_in: "貪"
 aliases:
   - 贪
 注音: "ㄊㄚㄇ"
+kwin: true
 tags:
   - character
 ---

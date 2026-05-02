@@ -30,6 +30,7 @@ stand_in: 州
 aliases:
   - 𠄓
 注音: ㄐㄨㄛ
+kwin: false
 tags:
   - character
 ---

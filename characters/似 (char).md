@@ -31,6 +31,7 @@ graphemic_classification: "以"
 stand_in: "似"
 aliases:
 注音: "ㄙㄚ"
+kwin: true
 tags:
   - character
 ---

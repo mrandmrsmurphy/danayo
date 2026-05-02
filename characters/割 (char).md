@@ -32,6 +32,7 @@ stand_in: 割
 aliases:
 注音: ㄍㄚㄊ
 date-last-perfect: 2026-03-26
+kwin: false
 tags:
   - character
 ---

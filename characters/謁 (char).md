@@ -31,6 +31,7 @@ stand_in: "謁"
 aliases:
   - 谒
 注音: "ㄝㄊ"
+kwin: false
 tags:
   - character
 ---

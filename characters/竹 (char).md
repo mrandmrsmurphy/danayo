@@ -28,6 +28,7 @@ mc_id: 1130
 graphemic_classification: "象形"
 stand_in: "竹"
 注音: "ㄐㄨㄎ"
+kwin: true
 tags:
   - character
 ---

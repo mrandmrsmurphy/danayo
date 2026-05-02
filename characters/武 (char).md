@@ -31,6 +31,7 @@ stand_in: "武"
 aliases:
   - 㱐
 注音: "ㄇㄨ"
+kwin: true
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ stand_in: 渇
 aliases:
   - 渴
 注音: ㄎㄚㄊ
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ graphemic_classification: "申"
 stand_in: "神"
 aliases:
 注音: "ㄙㄧㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ stand_in: "訟"
 aliases:
   - 讼
 注音: "ㄙ⼄ㄫ"
+kwin: false
 tags:
   - character
 ---

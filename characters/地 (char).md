@@ -30,6 +30,7 @@ graphemic_classification: "也"
 stand_in: "地"
 aliases:
 注音: "ㄉㄧㄜ"
+kwin: false
 tags:
   - character
 ---

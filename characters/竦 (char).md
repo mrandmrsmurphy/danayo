@@ -28,6 +28,7 @@ graphemic_classification: "束"
 stand_in: "竦"
 aliases:
 注音: "ㄙㄛㄫ"
+kwin: true
 tags:
   - character
 ---

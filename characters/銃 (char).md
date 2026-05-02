@@ -31,6 +31,7 @@ stand_in: "銃"
 aliases:
   - 铳
 注音: "ㄑㄨㄫ"
+kwin: false
 tags:
   - character
 ---

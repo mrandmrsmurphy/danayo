@@ -31,6 +31,7 @@ stand_in: 杆
 aliases:
 - 桿
 注音: ㄍㄚㄋ
+kwin: true
 tags:
   - character
 ---

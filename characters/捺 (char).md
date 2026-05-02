@@ -32,6 +32,7 @@ stand_in: "捺"
 aliases:
   - 磔
 注音: "ㄋㄚㄊ"
+kwin: true
 tags:
   - character
 ---

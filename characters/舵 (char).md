@@ -31,6 +31,7 @@ stand_in: "舵"
 aliases:
   - 杕
 注音: "ㄉㄚ"
+kwin: false
 tags:
   - character
 ---

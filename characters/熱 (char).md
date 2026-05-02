@@ -35,6 +35,7 @@ aliases:
   - 热
   - 烧
 注音: ㄋ⼶ㄊ
+kwin: false
 tags:
   - character
 ---

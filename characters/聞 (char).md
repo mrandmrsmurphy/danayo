@@ -30,6 +30,7 @@ stand_in: "聞"
 aliases:
   - 闻
 注音: "ㄇㄨㄋ"
+kwin: true
 tags:
   - character
 ---

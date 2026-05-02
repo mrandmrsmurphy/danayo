@@ -35,6 +35,7 @@ aliases:
   - 慫
   - 怂
 注音: ㄐㄛㄫ
+kwin: true
 tags:
   - character
 ---

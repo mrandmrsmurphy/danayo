@@ -32,6 +32,7 @@ aliases:
 swadesh: 204
 注音: ⼄
 date-last-perfect: 2026-02-11
+kwin: false
 tags:
   - character
 ---

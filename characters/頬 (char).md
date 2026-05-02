@@ -31,6 +31,7 @@ aliases:
   - 頰
   - 颊
 注音: ㄍㄝㄆ
+kwin: false
 tags:
   - character
 ---

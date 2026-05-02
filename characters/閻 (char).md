@@ -31,6 +31,7 @@ stand_in: "閻"
 aliases:
   - 阎
 注音: "⼶ㄇ"
+kwin: true
 tags:
   - character
 ---

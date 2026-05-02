@@ -32,6 +32,7 @@ stand_in: "層"
 aliases:
   - 层
 注音: "ㄑㄜㄫ"
+kwin: true
 tags:
   - character
 ---

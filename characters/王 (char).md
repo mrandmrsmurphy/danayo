@@ -29,6 +29,7 @@ graphemic_classification: 象形
 stand_in: 王
 aliases:
 注音: ⺢ㄫ
+kwin: true
 tags:
   - character
 ---

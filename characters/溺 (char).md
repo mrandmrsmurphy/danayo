@@ -33,6 +33,7 @@ graphemic_classification: "弱"
 stand_in: "溺"
 aliases:
 注音: "ㄋㄧㄎ"
+kwin: true
 tags:
   - character
 ---

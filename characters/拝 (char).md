@@ -29,6 +29,7 @@ stand_in: 拝
 aliases:
   - 拜
 注音: ㄅ⼶
+kwin: false
 tags:
   - character
 ---

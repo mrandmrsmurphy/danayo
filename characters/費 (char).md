@@ -32,6 +32,7 @@ stand_in: 費
 aliases:
   - 费
 注音: ㄈㄚㄧ
+kwin: false
 tags:
   - character
 ---

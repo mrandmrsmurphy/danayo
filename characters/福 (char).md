@@ -32,6 +32,7 @@ graphemic_classification: 畐
 stand_in: 福
 aliases:
 注音: ㄈㄨㄎ
+kwin: false
 tags:
   - character
 ---

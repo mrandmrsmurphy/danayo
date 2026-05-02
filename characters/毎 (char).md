@@ -30,6 +30,7 @@ stand_in: 毎
 aliases:
   - 每
 注音: ㄇㄛㄧ
+kwin: false
 tags:
   - adverbial
   - correlative

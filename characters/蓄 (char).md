@@ -32,6 +32,7 @@ graphemic_classification: "畜"
 stand_in: "蓄"
 aliases:
 注音: "ㄑㄨㄎ"
+kwin: true
 tags:
   - character
 ---

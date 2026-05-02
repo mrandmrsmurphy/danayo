@@ -31,6 +31,7 @@ stand_in: "頭"
 aliases:
   - 头
 注音: "ㄊㄛㄨ"
+kwin: false
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ stand_in: 届
 aliases:
 - 屆
 注音: ㄍ⼶
+kwin: false
 tags:
   - character
 ---

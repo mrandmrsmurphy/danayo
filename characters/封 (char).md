@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "封"
 aliases:
 注音: "ㄈㄛㄫ"
+kwin: false
 tags:
   - character
 ---

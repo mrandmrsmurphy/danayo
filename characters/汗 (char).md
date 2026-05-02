@@ -30,6 +30,7 @@ graphemic_classification: "干"
 stand_in: "汗"
 aliases:
 注音: "ㄏㄚㄋ"
+kwin: true
 tags:
   - character
 ---

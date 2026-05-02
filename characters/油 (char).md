@@ -30,6 +30,7 @@ graphemic_classification: 由
 stand_in: 油
 aliases:
 注音: ⼜
+kwin: true
 tags:
   - character
 ---

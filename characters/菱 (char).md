@@ -30,6 +30,7 @@ graphemic_classification: "夌"
 stand_in: "菱"
 aliases:
 注音: "ㄌㄜㄫ"
+kwin: true
 tags:
   - character
 ---

@@ -35,6 +35,7 @@ graphemic_classification: 林
 stand_in: 淋
 aliases:
 注音: ㄌㄧㄇ
+kwin: true
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ graphemic_classification: "丩"
 stand_in: "叫"
 aliases:
 注音: "ㄍ⼘"
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: "球"
 aliases:
   - 毬
 注音: "ㄍ⼜"
+kwin: false
 tags:
   - character
 ---

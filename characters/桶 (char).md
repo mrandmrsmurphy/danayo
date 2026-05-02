@@ -37,6 +37,7 @@ graphemic_classification: "甬"
 stand_in: "桶"
 aliases:
 注音: "ㄊㄛㄫ"
+kwin: true
 tags:
   - character
 ---

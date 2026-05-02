@@ -29,6 +29,7 @@ graphemic_classification: "八"
 stand_in: "屑"
 aliases:
 注音: "ㄙㄝㄊ"
+kwin: true
 tags:
   - character
 ---

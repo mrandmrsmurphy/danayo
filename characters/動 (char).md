@@ -37,6 +37,7 @@ aliases:
   - 恸
   - 𢣛
 注音: ㄉㄛㄫ
+kwin: true
 tags:
   - character
 ---

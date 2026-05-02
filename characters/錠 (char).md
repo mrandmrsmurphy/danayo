@@ -30,6 +30,7 @@ stand_in: 錠
 aliases:
   - 锭
 注音: ㄐㄝㄫ
+kwin: true
 tags:
   - character
 ---

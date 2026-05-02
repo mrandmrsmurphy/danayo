@@ -29,6 +29,7 @@ stand_in: 駆
 aliases:
   - 驅
 注音: ㄎㄨ
+kwin: false
 tags:
   - character
 ---

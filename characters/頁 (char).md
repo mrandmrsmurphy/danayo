@@ -33,6 +33,7 @@ stand_in: "頁"
 aliases:
   - 页
 注音: "ㄏㄝㄊ"
+kwin: false
 tags:
   - character
 ---

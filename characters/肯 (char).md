@@ -32,6 +32,7 @@ graphemic_classification: "會意"
 stand_in: "肯"
 aliases:
 注音: "ㄎㄨㄫ"
+kwin: false
 tags:
   - character
 ---

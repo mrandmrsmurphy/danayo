@@ -29,6 +29,7 @@ graphemic_classification: "帝"
 stand_in: "蹄"
 aliases:
 注音: "ㄉㄝㄧ"
+kwin: false
 tags:
   - character
 ---

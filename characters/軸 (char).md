@@ -31,6 +31,7 @@ stand_in: "軸"
 aliases:
   - 轴
 注音: "ㄉㄨㄎ"
+kwin: false
 tags:
   - character
 ---

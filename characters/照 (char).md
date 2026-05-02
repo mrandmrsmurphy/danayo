@@ -28,6 +28,7 @@ graphemic_classification: "昭"
 stand_in: "照"
 aliases:
 注音: "ㄐㄛㄨ"
+kwin: false
 tags:
   - character
 ---

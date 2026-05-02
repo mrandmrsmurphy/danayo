@@ -32,6 +32,7 @@ graphemic_classification: "禾"
 stand_in: "委"
 aliases:
 注音: "⼔ㄧ"
+kwin: false
 tags:
   - character
 ---

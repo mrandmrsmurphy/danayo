@@ -28,6 +28,7 @@ graphemic_classification: 象形
 stand_in: 凸
 aliases:
 注音: ㄉㄛㄊ
+kwin: false
 tags:
   - character
 ---

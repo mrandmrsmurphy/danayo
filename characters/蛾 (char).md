@@ -30,6 +30,7 @@ stand_in: "蛾"
 aliases:
   - 蟻
 注音: "ㄚ"
+kwin: true
 tags:
   - character
 ---

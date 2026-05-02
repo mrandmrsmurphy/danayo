@@ -28,6 +28,7 @@ graphemic_classification: "母"
 stand_in: "苺"
 aliases:
 注音: "ㄇㄚㄧ"
+kwin: true
 tags:
   - character
 ---

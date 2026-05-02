@@ -31,6 +31,7 @@ graphemic_classification: "乙"
 stand_in: "札"
 aliases:
 注音: "ㄐㄚㄊ"
+kwin: false
 tags:
   - character
 ---

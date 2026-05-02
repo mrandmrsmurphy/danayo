@@ -30,6 +30,7 @@ graphemic_classification: 象形
 stand_in: 瓦
 aliases:
 注音: ⺢
+kwin: true
 tags:
   - character
 ---

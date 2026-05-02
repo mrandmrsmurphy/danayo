@@ -29,6 +29,7 @@ graphemic_classification: "夸"
 stand_in: "袴"
 aliases:
 注音: "ㄎㄛ"
+kwin: false
 tags:
   - character
 ---

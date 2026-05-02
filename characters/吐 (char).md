@@ -32,6 +32,7 @@ stand_in: 吐
 aliases:
 swadesh: 96
 注音: ㄊㄛ
+kwin: true
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ graphemic_classification: 十
 stand_in: 汁
 aliases:
 注音: ㄐㄜㄆ
+kwin: true
 tags:
   - character
 ---

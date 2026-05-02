@@ -31,6 +31,7 @@ stand_in: "詣"
 aliases:
   - 诣
 注音: "ㄝㄧ"
+kwin: false
 tags:
   - character
 ---

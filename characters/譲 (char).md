@@ -28,6 +28,7 @@ stand_in: 譲
 aliases:
   - 讓
 注音: ㄋ⼘ㄫ
+kwin: false
 tags:
   - character
 ---

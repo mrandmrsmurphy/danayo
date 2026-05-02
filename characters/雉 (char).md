@@ -35,6 +35,7 @@ graphemic_classification: "隹"
 stand_in: "雉"
 aliases:
 注音: "ㄉㄧㄜ"
+kwin: false
 tags:
   - character
 ---

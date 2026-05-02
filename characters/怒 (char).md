@@ -32,6 +32,7 @@ graphemic_classification: "奴"
 stand_in: "怒"
 aliases:
 注音: "ㄋㄛ"
+kwin: true
 tags:
   - character
 ---

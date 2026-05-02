@@ -28,6 +28,7 @@ graphemic_classification: 會意
 stand_in: 豚
 aliases:
 注音: ㄊㄨㄋ
+kwin: false
 tags:
   - character
 ---

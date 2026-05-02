@@ -40,6 +40,7 @@ aliases:
   - 逹
   - 达
 注音: ㄊㄚㄊ
+kwin: false
 tags:
   - character
 ---

@@ -35,6 +35,7 @@ aliases:
   - 瞑
   - 慏
 注音: ㄇㄝㄫ
+kwin: false
 tags:
   - character
 ---

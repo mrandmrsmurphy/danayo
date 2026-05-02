@@ -34,6 +34,7 @@ stand_in: "過"
 aliases:
   - 过
 注音: "ㄍ⺢"
+kwin: true
 tags:
   - character
 ---

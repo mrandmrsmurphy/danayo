@@ -27,6 +27,7 @@ aliases:
   - 驛
   - 驿
 注音: ⼶ㄎ
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: 橋
 aliases:
   - 桥
 注音: ㄍ⼘ㄨ
+kwin: false
 tags:
   - character
 ---

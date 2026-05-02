@@ -37,6 +37,7 @@ aliases:
   - 侌
 注音: ㄧㄇ
 date-last-perfect:
+kwin: false
 tags:
   - character
 ---

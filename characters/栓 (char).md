@@ -30,6 +30,7 @@ graphemic_classification: "全"
 stand_in: "栓"
 aliases:
 注音: "ㄙ⼔ㄋ"
+kwin: false
 tags:
   - character
 ---

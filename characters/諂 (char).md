@@ -30,6 +30,7 @@ stand_in: "諂"
 aliases:
   - 谄
 注音: "ㄑㄝㄇ"
+kwin: true
 tags:
   - character
 ---

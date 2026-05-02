@@ -29,6 +29,7 @@ graphemic_classification: 象形
 stand_in: 胃
 aliases:
 注音: ㄨㄧ
+kwin: true
 tags:
   - character
 ---

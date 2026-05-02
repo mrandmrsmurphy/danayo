@@ -32,6 +32,7 @@ graphemic_classification: "者"
 stand_in: "箸"
 aliases:
 注音: "ㄉ⺢"
+kwin: false
 tags:
   - character
 ---

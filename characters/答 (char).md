@@ -34,6 +34,7 @@ stand_in: 答
 aliases:
   - 荅
 注音: ㄉㄚㄆ
+kwin: true
 tags:
   - character
 ---

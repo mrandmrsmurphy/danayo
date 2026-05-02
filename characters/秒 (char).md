@@ -29,6 +29,7 @@ graphemic_classification: "少"
 stand_in: "秒"
 aliases:
 注音: "ㄇ⼄ㄨ"
+kwin: false
 tags:
   - character
 ---

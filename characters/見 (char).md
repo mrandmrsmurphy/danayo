@@ -29,6 +29,7 @@ stand_in: 見
 aliases:
   - 见
 注音: ㄍ⼶ㄋ
+kwin: true
 tags:
   - character
 ---

@@ -49,6 +49,7 @@ graphemic_classification: 立
 stand_in: 拉
 aliases:
 注音: ㄌㄚㄆ
+kwin: true
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ stand_in: "虎"
 aliases:
   - 乕
 注音: "ㄏㄛ"
+kwin: true
 tags:
   - character
 ---

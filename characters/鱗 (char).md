@@ -29,6 +29,7 @@ stand_in: "鱗"
 aliases:
   - 鳞
 注音: "ㄌㄧㄋ"
+kwin: true
 tags:
   - character
 ---

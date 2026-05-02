@@ -30,6 +30,7 @@ graphemic_classification: "獄"
 stand_in: "哭"
 aliases:
 注音: "ㄎㄛㄎ"
+kwin: false
 tags:
   - character
 ---

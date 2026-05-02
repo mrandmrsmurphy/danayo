@@ -32,6 +32,7 @@ graphemic_classification: "免"
 stand_in: "勉"
 aliases:
 注音: "ㄇ⼶ㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ aliases:
   - 綠
   - 绿
 注音: ㄌㄛㄎ
+kwin: true
 tags:
   - character
 ---

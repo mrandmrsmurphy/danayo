@@ -30,6 +30,7 @@ stand_in: "夫"
 aliases:
   - 趺
 注音: "ㄈㄜ"
+kwin: false
 tags:
   - character
 ---

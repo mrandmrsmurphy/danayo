@@ -37,6 +37,7 @@ stand_in: 振
 aliases:
   - 顫
 注音: ㄐㄧㄋ
+kwin: true
 tags:
   - character
 ---

@@ -28,6 +28,7 @@ graphemic_classification: 象形
 stand_in: 甘
 aliases:
 注音: ㄍㄚㄇ
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: "灘"
 aliases:
   - 滩
 注音: "ㄊㄚㄋ"
+kwin: true
 tags:
   - character
 ---

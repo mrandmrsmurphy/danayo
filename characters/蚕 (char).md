@@ -32,6 +32,7 @@ stand_in: "蚕"
 aliases:
   - 蠶
 注音: "ㄐㄚㄇ"
+kwin: false
 tags:
   - character
 ---

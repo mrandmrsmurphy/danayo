@@ -29,6 +29,7 @@ stand_in: 摂
 aliases:
   - 攝
 注音: ㄋㄝㄆ
+kwin: false
 tags:
   - character
 ---

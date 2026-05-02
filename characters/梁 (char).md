@@ -29,6 +29,7 @@ stand_in: "梁"
 aliases:
   - 樑
 注音: "ㄌ⼘ㄫ"
+kwin: true
 tags:
   - character
 ---

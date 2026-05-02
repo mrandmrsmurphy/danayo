@@ -31,6 +31,7 @@ stand_in: "轄"
 aliases:
   - 辖
 注音: "ㄏㄚㄊ"
+kwin: true
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ stand_in: 後
 aliases:
   - 后
 注音: ㄏㄨㄛ
+kwin: false
 tags:
   - character
   - hapax

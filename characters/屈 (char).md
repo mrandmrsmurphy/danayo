@@ -31,6 +31,7 @@ graphemic_classification: "出"
 stand_in: "屈"
 aliases:
 注音: "ㄎㄨㄊ"
+kwin: false
 tags:
   - character
 ---

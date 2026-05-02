@@ -30,6 +30,7 @@ stand_in: "剃"
 aliases:
   - 涕
 注音: "ㄊㄝㄧ"
+kwin: false
 tags:
   - character
 ---

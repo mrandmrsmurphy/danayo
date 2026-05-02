@@ -30,6 +30,7 @@ stand_in: 際
 aliases:
   - 际
 注音: ㄐㄝ
+kwin: false
 tags:
   - character
 ---

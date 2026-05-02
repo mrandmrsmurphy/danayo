@@ -31,6 +31,7 @@ aliases:
   - 澐
 注音: ㄨㄋ
 date-last-perfect: 2026-03-15
+kwin: true
 tags:
   - character
 ---

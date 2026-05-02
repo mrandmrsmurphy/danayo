@@ -24,6 +24,7 @@ grade_level: "先進"
 注音: ㄍ⺢ㄧ
 joyo_level: 表外字
 hsk_level:
+kwin: true
 tags:
   - character
 ---

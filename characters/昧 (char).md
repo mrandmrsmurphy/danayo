@@ -30,6 +30,7 @@ graphemic_classification: "未"
 stand_in: "昧"
 aliases:
 注音: "ㄇㄚㄧ"
+kwin: true
 tags:
   - character
 ---

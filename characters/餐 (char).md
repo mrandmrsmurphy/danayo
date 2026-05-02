@@ -33,6 +33,7 @@ stand_in: "餐"
 aliases:
   - 喰
 注音: "ㄑㄚㄋ"
+kwin: true
 tags:
   - character
 ---

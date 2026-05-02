@@ -32,6 +32,7 @@ stand_in: 茎
 aliases:
   - 莖
 注音: ㄎㄧㄫ
+kwin: false
 tags:
   - character
 ---

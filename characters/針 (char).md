@@ -39,6 +39,7 @@ aliases:
   - 鍼
   - 针
 注音: ㄐㄧㄇ
+kwin: false
 tags:
   - character
 ---

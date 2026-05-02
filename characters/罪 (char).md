@@ -31,6 +31,7 @@ graphemic_classification: "會意"
 stand_in: "罪"
 aliases:
 注音: "ㄐㄛㄧ"
+kwin: true
 tags:
   - character
 ---

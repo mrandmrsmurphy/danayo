@@ -32,6 +32,7 @@ graphemic_classification: "儿"
 stand_in: "冗"
 aliases:
 注音: "ㄋ⼄ㄫ"
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ aliases:
   - 瑪
   - 碼
 注音: ㄇㄚ
+kwin: true
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: 召
 stand_in: 昭
 date-last-perfect: 2026-03-09
 注音: ㄐㄛㄨ
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ graphemic_classification: "兼"
 stand_in: "廉"
 aliases:
 注音: "ㄌ⼶ㄇ"
+kwin: true
 tags:
   - character
 ---

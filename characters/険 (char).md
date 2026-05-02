@@ -30,6 +30,7 @@ aliases:
   - 險
   - 险
 注音: ㄏㄝㄇ
+kwin: true
 tags:
   - character
 ---

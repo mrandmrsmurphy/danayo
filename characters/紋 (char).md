@@ -35,6 +35,7 @@ stand_in: "紋"
 aliases:
   - 纹
 注音: "ㄇㄨㄋ"
+kwin: true
 tags:
   - character
 ---

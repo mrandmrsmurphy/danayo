@@ -38,6 +38,7 @@ stand_in: "喝"
 aliases:
   - 曷
 注音: "ㄏㄛㄊ"
+kwin: false
 tags:
   - character
 ---

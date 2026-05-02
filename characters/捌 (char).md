@@ -34,6 +34,7 @@ graphemic_classification: "別"
 stand_in: "捌"
 aliases:
 注音: "ㄆㄚㄊ"
+kwin: true
 tags:
   - character
   - hapax

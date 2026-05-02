@@ -32,6 +32,7 @@ graphemic_classification: "句"
 stand_in: "苟"
 aliases:
 注音: "ㄍㄛㄨ"
+kwin: false
 tags:
   - character
 ---

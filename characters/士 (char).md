@@ -33,6 +33,7 @@ stand_in: "士"
 aliases:
   - 仕
 注音: "ㄙㄚㄧ"
+kwin: false
 tags:
   - character
   - hapax

@@ -30,6 +30,7 @@ stand_in: 酔
 aliases:
   - 醉
 注音: ㄐㄨㄧ
+kwin: false
 tags:
   - character
 ---

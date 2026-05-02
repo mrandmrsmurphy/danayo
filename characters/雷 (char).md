@@ -32,6 +32,7 @@ graphemic_classification: 會意
 stand_in: 雷
 aliases:
 注音: ㄌㄛㄧ
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ graphemic_classification: "會意"
 stand_in: "穿"
 aliases:
 注音: "ㄑㄝㄋ"
+kwin: true
 tags:
   - character
 ---

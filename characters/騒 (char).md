@@ -28,6 +28,7 @@ stand_in: 騒
 aliases:
   - 騷
 注音: ㄙㄚㄨ
+kwin: false
 tags:
   - character
 ---

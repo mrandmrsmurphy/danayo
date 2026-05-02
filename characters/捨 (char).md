@@ -30,6 +30,7 @@ stand_in: "捨"
 aliases:
   - 舍
 注音: "ㄙ⼘"
+kwin: false
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: 象形
 stand_in: 高
 aliases:
 注音: ㄍㄚㄨ
+kwin: false
 tags:
   - character
 ---

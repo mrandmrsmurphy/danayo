@@ -37,6 +37,7 @@ graphemic_classification: "女"
 stand_in: "汝"
 aliases:
 注音: "ㄋㄛㄧ"
+kwin: false
 tags:
   - character
 ---

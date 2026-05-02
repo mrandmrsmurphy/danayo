@@ -34,6 +34,7 @@ aliases:
   - 夬
   - 蹶
 注音: "ㄎ⼔ㄊ"
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ stand_in: 乗
 aliases:
   - 乘
 注音: ㄙㄨㄫ
+kwin: false
 tags:
   - character
 ---

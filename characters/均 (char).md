@@ -31,6 +31,7 @@ graphemic_classification: 勻
 stand_in: 均
 aliases:
 注音: ㄍ⼜ㄋ
+kwin: true
 tags:
   - character
 ---

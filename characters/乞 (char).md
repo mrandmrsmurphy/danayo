@@ -31,6 +31,7 @@ graphemic_classification: 一
 stand_in: 乞
 aliases:
 注音: ㄎㄧㄊ
+kwin: false
 tags:
   - character
 ---

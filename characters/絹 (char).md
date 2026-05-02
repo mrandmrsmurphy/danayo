@@ -29,6 +29,7 @@ stand_in: 絹
 aliases:
   - 绢
 注音: ㄍ⼔ㄋ
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ graphemic_classification: 會意
 stand_in: 兼
 aliases:
 注音: ㄍㄝㄇ
+kwin: false
 tags:
   - character
 ---

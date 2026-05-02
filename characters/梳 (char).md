@@ -28,6 +28,7 @@ graphemic_classification: "疏"
 stand_in: "梳"
 aliases:
 注音: "ㄙㄛ"
+kwin: true
 tags:
   - character
 ---

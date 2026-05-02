@@ -32,6 +32,7 @@ stand_in: "懸"
 aliases:
   - 悬
 注音: "ㄏ⼔ㄋ"
+kwin: false
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ stand_in: "輿"
 aliases:
   - 舆
 注音: "⼄"
+kwin: false
 tags:
   - character
 ---

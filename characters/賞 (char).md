@@ -29,6 +29,7 @@ stand_in: "賞"
 aliases:
   - 赏
 注音: "ㄙ⼘ㄫ"
+kwin: false
 tags:
   - character
 ---

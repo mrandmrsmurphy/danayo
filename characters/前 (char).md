@@ -33,6 +33,7 @@ stand_in: "前"
 aliases:
   - 揃
 注音: "ㄐㄝㄋ"
+kwin: true
 tags:
   - character
 ---

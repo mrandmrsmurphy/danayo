@@ -32,6 +32,7 @@ stand_in: 虚
 aliases:
   - 虛
 注音: ㄏ⼄
+kwin: true
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ stand_in: "慶"
 aliases:
   - 庆
 注音: "ㄎ⼶ㄫ"
+kwin: false
 tags:
   - character
 ---

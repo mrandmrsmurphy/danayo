@@ -29,6 +29,7 @@ graphemic_classification: "亘"
 stand_in: "垣"
 aliases:
 注音: "ㄛㄋ"
+kwin: false
 tags:
   - character
 ---

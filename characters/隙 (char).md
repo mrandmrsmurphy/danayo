@@ -31,6 +31,7 @@ graphemic_classification: "間"
 stand_in: "隙"
 aliases:
 注音: "ㄎㄝㄎ"
+kwin: false
 tags:
   - character
 ---

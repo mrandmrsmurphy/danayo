@@ -30,6 +30,7 @@ graphemic_classification: 及
 stand_in: 急
 aliases:
 注音: ㄍㄧㄆ
+kwin: false
 tags:
   - character
 ---

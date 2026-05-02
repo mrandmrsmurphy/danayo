@@ -31,6 +31,7 @@ stand_in: 心
 aliases:
   - 芯
 注音: ㄙㄧㄇ
+kwin: true
 tags:
   - character
 ---

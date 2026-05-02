@@ -31,6 +31,7 @@ graphemic_classification: "北"
 stand_in: "背"
 aliases:
 注音: "ㄅㄛㄧ"
+kwin: false
 tags:
   - character
 ---

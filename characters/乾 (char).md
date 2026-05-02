@@ -38,6 +38,7 @@ stand_in: 乾
 aliases:
 - 干
 注音: ㄍ⼶ㄋ
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ graphemic_classification: "非"
 stand_in: "悲"
 aliases:
 注音: "ㄅㄧㄜ"
+kwin: false
 tags:
   - character
 ---

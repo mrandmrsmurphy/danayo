@@ -29,6 +29,7 @@ stand_in: 肴
 aliases:
 - 餚
 注音: ㄏ⼘ㄨ
+kwin: false
 tags:
   - character
 ---

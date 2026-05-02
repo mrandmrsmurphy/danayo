@@ -30,6 +30,7 @@ graphemic_classification: "高"
 stand_in: "毫"
 aliases:
 注音: "ㄏㄚㄨ"
+kwin: false
 tags:
   - character
 ---

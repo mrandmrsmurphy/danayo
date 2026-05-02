@@ -34,6 +34,7 @@ stand_in: 斗
 aliases:
   - 鬥
 注音: ㄉㄛㄨ
+kwin: false
 tags:
   - character
 ---

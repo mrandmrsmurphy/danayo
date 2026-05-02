@@ -32,6 +32,7 @@ stand_in: "謀"
 aliases:
   - 谋
 注音: "ㄇㄨㄛ"
+kwin: false
 tags:
   - character
 ---

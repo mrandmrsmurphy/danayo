@@ -32,6 +32,7 @@ aliases:
   - 霖
   - 碄
 注音: ㄌㄧㄇ
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ aliases:
   - 飞
   - 蜚
 注音: "ㄈㄝㄧ"
+kwin: false
 tags:
   - character
   - hapax

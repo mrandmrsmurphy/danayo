@@ -33,6 +33,7 @@ graphemic_classification: "或"
 stand_in: "域"
 aliases:
 注音: "ㄨㄧㄎ"
+kwin: false
 tags:
   - character
 ---

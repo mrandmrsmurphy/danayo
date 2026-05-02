@@ -32,6 +32,7 @@ stand_in: "県"
 aliases:
   - 縣
 注音: "ㄏ⼔ㄋ"
+kwin: false
 tags:
   - character
 ---

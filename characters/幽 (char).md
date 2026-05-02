@@ -31,6 +31,7 @@ graphemic_classification: 會意
 stand_in: 幽
 aliases:
 注音: ⼜ㄛ
+kwin: false
 tags:
   - character
 ---

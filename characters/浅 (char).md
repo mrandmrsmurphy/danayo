@@ -30,6 +30,7 @@ stand_in: 浅
 aliases:
 - 淺
 注音: ㄑㄝㄋ
+kwin: true
 tags:
   - character
 ---

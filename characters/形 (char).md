@@ -32,6 +32,7 @@ graphemic_classification: "开"
 stand_in: "形"
 aliases:
 注音: "ㄏㄝㄫ"
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ graphemic_classification: 象形
 stand_in: 日
 aliases:
 注音: ㄋㄧㄊ
+kwin: false
 tags:
   - character
 ---

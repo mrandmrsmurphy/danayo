@@ -32,6 +32,7 @@ graphemic_classification: "冎"
 stand_in: "骨"
 aliases:
 注音: "ㄍㄛㄊ"
+kwin: true
 tags:
   - character
 ---

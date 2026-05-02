@@ -32,6 +32,7 @@ stand_in: "蓮"
 aliases:
   - 莲
 注音: "ㄌ⼶ㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ aliases:
   - 敝
   - 币
 注音: "ㄆㄝ"
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ stand_in: "腹"
 aliases:
   - 鰒
 注音: "ㄈㄨㄎ"
+kwin: false
 tags:
   - character
 ---

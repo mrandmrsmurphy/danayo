@@ -31,6 +31,7 @@ stand_in: 筆
 aliases:
   - 笔
 注音: ㄆㄨㄊ
+kwin: false
 tags:
   - character
   - hapax

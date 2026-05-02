@@ -36,6 +36,7 @@ graphemic_classification: "牀"
 stand_in: "床"
 aliases:
 注音: "ㄙ⼘ㄇ"
+kwin: false
 tags:
   - character
 ---

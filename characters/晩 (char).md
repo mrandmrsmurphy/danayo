@@ -30,6 +30,7 @@ aliases:
   - 晚
 注音: ㄇㄛㄋ
 date-last-perfect: 2026-03-13
+kwin: false
 tags:
   - character
 ---

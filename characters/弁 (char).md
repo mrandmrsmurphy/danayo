@@ -33,6 +33,7 @@ aliases:
   - 瓣
   - 辨
 注音: ㄅ⼘ㄋ
+kwin: false
 tags:
   - character
 ---

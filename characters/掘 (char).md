@@ -36,6 +36,7 @@ graphemic_classification: "屈"
 stand_in: "掘"
 aliases:
 注音: "ㄍㄨㄊ"
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ graphemic_classification: 勿
 stand_in: 物
 aliases:
 注音: ㄇㄨㄊ
+kwin: true
 tags:
   - character
 ---

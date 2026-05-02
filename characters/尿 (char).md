@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "尿"
 aliases:
 注音: "ㄋ⼘ㄨ"
+kwin: false
 tags:
   - character
 ---

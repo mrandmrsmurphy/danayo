@@ -32,6 +32,7 @@ stand_in: "隆"
 aliases:
   - 𨺓
 注音: "ㄌㄨㄫ"
+kwin: false
 tags:
   - character
 ---

@@ -35,6 +35,7 @@ graphemic_classification: 會意
 stand_in: 法
 aliases:
 注音: ㄈㄚㄆ
+kwin: false
 tags:
   - character
 ---

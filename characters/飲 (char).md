@@ -34,6 +34,7 @@ aliases:
   - 飮
   - 饮
 注音: "ㄨㄇ"
+kwin: false
 tags:
   - character
 ---

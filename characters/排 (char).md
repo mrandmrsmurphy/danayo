@@ -32,6 +32,7 @@ mc_id: 2459
 graphemic_classification: 非
 stand_in: 排
 注音: ㄆㄚㄧ
+kwin: false
 tags:
   - character
 ---

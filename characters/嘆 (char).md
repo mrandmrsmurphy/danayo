@@ -36,6 +36,7 @@ aliases:
   - 歎
   - 叹
 注音: "ㄊㄚㄋ"
+kwin: true
 tags:
   - character
 ---

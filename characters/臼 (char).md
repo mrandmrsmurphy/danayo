@@ -31,6 +31,7 @@ graphemic_classification: "象形"
 stand_in: "臼"
 aliases:
 注音: "ㄍ⼜ㄛ"
+kwin: false
 tags:
   - character
 ---

@@ -28,6 +28,7 @@ graphemic_classification: "分"
 stand_in: "粉"
 aliases:
 注音: "ㄈㄨㄋ"
+kwin: false
 tags:
   - character
 ---

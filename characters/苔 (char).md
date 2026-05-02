@@ -34,6 +34,7 @@ graphemic_classification: "台"
 stand_in: "苔"
 aliases:
 注音: "ㄊㄛㄧ"
+kwin: false
 tags:
   - character
 ---

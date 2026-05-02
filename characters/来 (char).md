@@ -30,6 +30,7 @@ stand_in: "来"
 aliases:
   - 來 (char)
 注音: "ㄌㄚㄧ"
+kwin: true
 tags:
   - character
 ---

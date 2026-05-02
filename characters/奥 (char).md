@@ -30,6 +30,7 @@ aliases:
   - 奧
   - 澳
 注音: ㄨㄎ
+kwin: false
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: "乍"
 stand_in: "昨"
 aliases:
 注音: "ㄐㄚㄎ"
+kwin: true
 tags:
   - character
 ---

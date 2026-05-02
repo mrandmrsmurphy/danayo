@@ -31,6 +31,7 @@ stand_in: "活"
 aliases:
   - 𣴠
 注音: "ㄏ⺢ㄊ"
+kwin: true
 tags:
   - character
 ---

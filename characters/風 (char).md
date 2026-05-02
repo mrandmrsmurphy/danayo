@@ -33,6 +33,7 @@ aliases:
   - 讽
   - 諷
 注音: "ㄈㄨㄫ"
+kwin: false
 tags:
   - character
 ---

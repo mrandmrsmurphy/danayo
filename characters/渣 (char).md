@@ -31,6 +31,7 @@ graphemic_classification: "査"
 stand_in: "渣"
 aliases:
 注音: "ㄐ⺢"
+kwin: false
 tags:
   - character
 ---

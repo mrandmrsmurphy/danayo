@@ -30,6 +30,7 @@ stand_in: "置"
 aliases:
   - 寘
 注音: "ㄑㄧ"
+kwin: true
 tags:
   - character
 ---

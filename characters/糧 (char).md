@@ -30,6 +30,7 @@ stand_in: "糧"
 aliases:
   - 粮
 注音: "ㄌ⼘ㄫ"
+kwin: true
 tags:
   - character
 ---

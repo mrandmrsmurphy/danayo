@@ -29,6 +29,7 @@ stand_in: 唄
 aliases:
   - 呗
 注音: ㄅㄚㄧ
+kwin: false
 tags:
   - character
 ---

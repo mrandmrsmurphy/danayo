@@ -28,6 +28,7 @@ graphemic_classification: 會意
 stand_in: 厚
 aliases:
 注音: ㄏㄛㄨ
+kwin: false
 tags:
   - character
 ---

@@ -28,6 +28,7 @@ graphemic_classification: "禺"
 stand_in: "愚"
 aliases:
 注音: "ㄨ"
+kwin: true
 tags:
   - character
 ---

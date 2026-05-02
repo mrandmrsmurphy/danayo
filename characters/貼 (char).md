@@ -32,6 +32,7 @@ stand_in: "貼"
 aliases:
   - 贴
 注音: "ㄊㄝㄆ"
+kwin: false
 tags:
   - character
 ---

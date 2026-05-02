@@ -30,6 +30,7 @@ graphemic_classification: 更
 stand_in: 硬
 aliases:
 注音: ㄚㄫ
+kwin: false
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ graphemic_classification: "會意"
 stand_in: "好"
 aliases:
 注音: "ㄏㄚㄨ"
+kwin: false
 tags:
   - character
 ---

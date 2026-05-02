@@ -37,6 +37,7 @@ stand_in: "殺"
 aliases:
   - 杀
 注音: "ㄙㄚㄊ"
+kwin: true
 tags:
   - character
 ---

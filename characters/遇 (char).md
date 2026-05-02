@@ -31,6 +31,7 @@ graphemic_classification: "禺"
 stand_in: "遇"
 aliases:
 注音: "ㄨ"
+kwin: true
 tags:
   - character
 ---

@@ -34,6 +34,7 @@ aliases:
   - 輕
   - 轻
 注音: ㄎㄧㄫ
+kwin: false
 tags:
   - character
 ---

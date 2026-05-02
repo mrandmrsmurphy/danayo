@@ -34,6 +34,7 @@ aliases:
   - の
 注音: ㄊㄧ
 date-last-perfect: 2026-02-20
+kwin: false
 tags:
   - character
   - hapax

@@ -28,6 +28,7 @@ graphemic_classification: "比"
 stand_in: "屁"
 aliases:
 注音: "ㄆㄧㄜ"
+kwin: false
 tags:
   - character
 ---

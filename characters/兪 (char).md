@@ -29,6 +29,7 @@ stand_in: 兪
 aliases:
   - 俞
 注音: ⼜ㄇ
+kwin: false
 tags:
   - character
 ---

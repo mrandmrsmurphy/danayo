@@ -34,6 +34,7 @@ aliases:
   - 螢
   - 萤
 注音: ㄏㄧㄫ
+kwin: false
 tags:
   - character
 ---

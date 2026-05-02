@@ -32,6 +32,7 @@ graphemic_classification: "肖"
 stand_in: "消"
 aliases:
 注音: "ㄙ⼄ㄨ"
+kwin: false
 tags:
   - character
 ---

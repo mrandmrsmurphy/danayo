@@ -31,6 +31,7 @@ stand_in: 姜
 aliases:
 - 薑
 注音: ㄍ⼘ㄋ
+kwin: false
 tags:
   - character
 ---

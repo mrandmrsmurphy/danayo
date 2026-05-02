@@ -31,6 +31,7 @@ graphemic_classification: 亥
 stand_in: 核
 aliases:
 注音: ㄏㄚㄎ
+kwin: false
 tags:
   - character
 ---

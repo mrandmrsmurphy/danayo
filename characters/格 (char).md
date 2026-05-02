@@ -33,6 +33,7 @@ stand_in: 格
 aliases:
   - 骼
 注音: ㄍㄚㄎ
+kwin: false
 tags:
   - character
 ---

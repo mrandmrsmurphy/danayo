@@ -28,6 +28,7 @@ stand_in: 渉
 aliases:
   - 涉
 注音: ㄙㄝㄆ
+kwin: true
 tags:
   - character
 ---

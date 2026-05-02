@@ -31,6 +31,7 @@ stand_in: 銅
 aliases:
   - 铜
 注音: ㄉㄛㄫ
+kwin: true
 tags:
   - character
 ---

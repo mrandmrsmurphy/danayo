@@ -34,6 +34,7 @@ graphemic_classification: 奇
 stand_in: 寄
 aliases:
 注音: ㄍㄨㄧ
+kwin: false
 tags:
   - character
 ---

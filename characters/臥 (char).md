@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "臥"
 aliases:
 注音: "⺢"
+kwin: true
 tags:
   - character
 ---

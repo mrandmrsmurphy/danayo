@@ -37,6 +37,7 @@ stand_in: 屢
 aliases:
   - 屡
 注音: ㄌㄨ
+kwin: true
 tags:
   - character
 ---

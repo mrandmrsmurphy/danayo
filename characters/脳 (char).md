@@ -33,6 +33,7 @@ aliases:
   - 脑
   - 匘
 注音: ㄋㄚㄨ
+kwin: false
 tags:
   - character
 ---

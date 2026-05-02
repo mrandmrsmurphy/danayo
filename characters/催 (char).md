@@ -35,6 +35,7 @@ stand_in: "催"
 aliases:
   - 摧
 注音: "ㄑㄛㄧ"
+kwin: true
 tags:
   - character
 ---

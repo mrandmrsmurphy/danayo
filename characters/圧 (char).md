@@ -30,6 +30,7 @@ aliases:
   - 壓
   - 压
 注音: ㄚㄊ
+kwin: false
 tags:
   - character
 ---

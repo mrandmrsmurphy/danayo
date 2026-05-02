@@ -31,6 +31,7 @@ stand_in: 厘
 aliases:
 - 釐
 注音: ㄌㄧ
+kwin: true
 tags:
   - character
 ---

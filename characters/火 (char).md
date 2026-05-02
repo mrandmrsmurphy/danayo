@@ -30,6 +30,7 @@ stand_in: 火
 aliases:
   - 灬
 注音: ㄏ⺢
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: 知
 aliases:
   - 𥎵
 注音: ㄐㄨㄧ
+kwin: false
 tags:
   - character
 ---

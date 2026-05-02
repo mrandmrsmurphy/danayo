@@ -34,6 +34,7 @@ graphemic_classification: 七
 stand_in: 切
 aliases:
 注音: ㄑㄝㄊ
+kwin: false
 tags:
   - character
 ---

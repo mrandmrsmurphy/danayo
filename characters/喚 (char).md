@@ -30,6 +30,7 @@ stand_in: 喚
 aliases:
   - 唤
 注音: ㄏ⺢ㄋ
+kwin: true
 tags:
   - character
 ---

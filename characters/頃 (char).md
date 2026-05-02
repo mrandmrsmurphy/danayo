@@ -35,6 +35,7 @@ stand_in: 頃
 aliases:
   - 顷
 注音: ㄎㄝㄫ
+kwin: false
 tags:
   - character
 ---

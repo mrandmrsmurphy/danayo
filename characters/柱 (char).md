@@ -28,6 +28,7 @@ graphemic_classification: "主"
 stand_in: "柱"
 aliases:
 注音: "ㄐㄨ"
+kwin: true
 tags:
   - character
 ---

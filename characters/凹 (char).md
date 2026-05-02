@@ -29,6 +29,7 @@ stand_in: 凹
 aliases:
   - 窪
 注音: ㄚㄨ
+kwin: false
 tags:
   - character
 ---

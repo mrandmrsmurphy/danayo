@@ -34,6 +34,7 @@ graphemic_classification: "肖"
 stand_in: "削"
 aliases:
 注音: "ㄙ⼘ㄎ"
+kwin: false
 tags:
   - character
 ---

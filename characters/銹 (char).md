@@ -30,6 +30,7 @@ aliases:
   - 鏽
   - 锈
 注音: "ㄙ⼜"
+kwin: false
 tags:
   - character
 ---

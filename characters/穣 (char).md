@@ -29,6 +29,7 @@ stand_in: 穣
 aliases:
   - 穰
 注音: ㄋ⼘ㄫ
+kwin: false
 tags:
   - character
 ---

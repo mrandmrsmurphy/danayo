@@ -31,6 +31,7 @@ graphemic_classification: 公
 stand_in: 翁
 aliases:
 注音: ㄛㄫ
+kwin: true
 tags:
   - character
 ---

@@ -34,6 +34,7 @@ stand_in: "潰"
 aliases:
   - 溃
 注音: "ㄏㄛㄧ"
+kwin: false
 tags:
   - character
 ---

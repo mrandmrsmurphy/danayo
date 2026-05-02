@@ -36,6 +36,7 @@ graphemic_classification: "氐"
 stand_in: "底"
 aliases:
 注音: "ㄉㄝㄧ"
+kwin: false
 tags:
   - character
 ---

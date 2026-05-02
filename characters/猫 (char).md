@@ -32,6 +32,7 @@ stand_in: 猫
 aliases:
   - 貓
 注音: ㄇ⼘ㄨ
+kwin: false
 tags:
   - character
 ---

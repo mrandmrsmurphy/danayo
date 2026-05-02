@@ -28,6 +28,7 @@ stand_in: 圏
 aliases:
   - 圈
 注音: ㄍ⼔ㄋ
+kwin: true
 tags:
   - character
 ---

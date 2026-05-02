@@ -30,6 +30,7 @@ graphemic_classification: 既
 stand_in: 慨
 aliases:
 注音: ㄎㄚㄧ
+kwin: false
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ stand_in: 欠
 aliases:
   - 歇
 注音: ㄎ⼘ㄇ
+kwin: false
 tags:
   - character
 ---

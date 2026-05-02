@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "早"
 aliases:
 注音: "ㄐㄚㄨ"
+kwin: false
 tags:
   - character
 ---

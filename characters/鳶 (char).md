@@ -30,6 +30,7 @@ stand_in: "鳶"
 aliases:
   - 鸢
 注音: "⼶ㄋ"
+kwin: true
 tags:
   - character
 ---

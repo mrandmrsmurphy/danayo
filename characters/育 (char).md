@@ -30,6 +30,7 @@ graphemic_classification: 肉
 stand_in: 育
 aliases:
 注音: ⼜ㄎ
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: "聘"
 aliases:
   - 娉
 注音: "ㄆㄧㄫ"
+kwin: false
 tags:
   - character
 ---

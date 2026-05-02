@@ -32,6 +32,7 @@ graphemic_classification: "足"
 stand_in: "促"
 aliases:
 注音: "ㄑㄛㄎ"
+kwin: true
 tags:
   - character
 ---

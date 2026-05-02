@@ -30,6 +30,7 @@ stand_in: "鳴"
 aliases:
   - 鸣
 注音: "ㄇ⼶ㄫ"
+kwin: true
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: "卜"
 stand_in: "赴"
 aliases:
 注音: "ㄈㄨㄛ"
+kwin: false
 tags:
   - character
 ---

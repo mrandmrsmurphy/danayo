@@ -31,6 +31,7 @@ aliases:
   - 爲
   - 为
 注音: ⼔ㄋ
+kwin: false
 tags:
   - character
 ---

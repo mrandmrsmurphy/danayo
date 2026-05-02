@@ -30,6 +30,7 @@ stand_in: "冊"
 aliases:
   - 册
 注音: "ㄑㄚㄎ"
+kwin: false
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ graphemic_classification: 央
 stand_in: 映
 aliases:
 注音: ⼶ㄫ
+kwin: true
 tags:
   - character
 ---

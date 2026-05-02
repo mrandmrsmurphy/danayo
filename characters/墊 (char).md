@@ -33,6 +33,7 @@ stand_in: 墊
 aliases:
   - 垫
 注音: ㄉㄧㄆ
+kwin: false
 tags:
   - character
 ---

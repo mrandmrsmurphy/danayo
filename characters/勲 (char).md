@@ -32,6 +32,7 @@ aliases:
   - 勋
   - 勳
 注音: ㄏㄨㄋ
+kwin: true
 tags:
   - character
 ---

@@ -34,6 +34,7 @@ graphemic_classification: "孔"
 stand_in: "吼"
 aliases:
 注音: "ㄏㄛㄨ"
+kwin: false
 tags:
   - character
 ---

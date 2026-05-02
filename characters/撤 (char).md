@@ -34,6 +34,7 @@ graphemic_classification: "徹"
 stand_in: "撤"
 aliases:
 注音: "ㄉㄝㄊ"
+kwin: false
 tags:
   - character
 ---

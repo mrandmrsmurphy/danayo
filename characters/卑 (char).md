@@ -31,6 +31,7 @@ graphemic_classification: "會意"
 stand_in: "卑"
 aliases:
 注音: "ㄅㄝ"
+kwin: false
 tags:
   - character
 ---

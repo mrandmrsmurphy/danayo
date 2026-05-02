@@ -32,6 +32,7 @@ stand_in: 紡
 aliases:
   - 纺
 注音: ㄈㄚㄫ
+kwin: false
 tags:
   - character
 ---

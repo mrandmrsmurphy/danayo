@@ -30,6 +30,7 @@ stand_in: "柵"
 aliases:
   - 栅
 注音: "ㄑㄚㄎ"
+kwin: false
 tags:
   - character
 ---

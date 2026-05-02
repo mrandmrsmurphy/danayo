@@ -32,6 +32,7 @@ graphemic_classification: "午"
 stand_in: "卸"
 aliases:
 注音: "ㄙ⼘"
+kwin: false
 tags:
   - character
 ---

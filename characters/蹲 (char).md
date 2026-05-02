@@ -31,6 +31,7 @@ graphemic_classification: "尊"
 stand_in: "蹲"
 aliases:
 注音: "ㄐㄛㄋ"
+kwin: false
 tags:
   - character
 ---

@@ -35,6 +35,7 @@ stand_in: 劃
 aliases:
   - 划
 注音: ㄏ⺢ㄎ
+kwin: false
 tags:
   - character
 ---

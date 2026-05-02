@@ -32,6 +32,7 @@ stand_in: "負"
 aliases:
   - 负
 注音: "ㄅ⼜"
+kwin: false
 tags:
   - character
 ---

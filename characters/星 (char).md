@@ -35,6 +35,7 @@ aliases:
   - 𤾪
 swadesh: "149"
 注音: ㄙㄝㄫ
+kwin: true
 tags:
   - character
 ---

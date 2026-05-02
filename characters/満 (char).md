@@ -30,6 +30,7 @@ aliases:
   - 滿
   - 满
 注音: ㄇㄚㄋ
+kwin: true
 tags:
   - character
 ---

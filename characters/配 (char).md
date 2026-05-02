@@ -31,6 +31,7 @@ graphemic_classification: "己"
 stand_in: "配"
 aliases:
 注音: "ㄆㄛㄧ"
+kwin: false
 tags:
   - character
 ---

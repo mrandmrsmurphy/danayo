@@ -30,6 +30,7 @@ stand_in: "島"
 aliases:
   - 岛
 注音: "ㄊㄚㄨ"
+kwin: false
 tags:
   - character
 ---

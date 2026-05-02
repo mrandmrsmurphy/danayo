@@ -28,6 +28,7 @@ graphemic_classification: "解"
 stand_in: "蟹"
 aliases:
 注音: "ㄏ⼘ㄧ"
+kwin: false
 tags:
   - character
 ---

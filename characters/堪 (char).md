@@ -32,6 +32,7 @@ graphemic_classification: "甚"
 stand_in: "堪"
 aliases:
 注音: "ㄎㄚㄇ"
+kwin: false
 tags:
   - character
 ---

@@ -36,6 +36,7 @@ stand_in: 拂
 aliases:
   - 払
 注音: ㄈㄨㄊ
+kwin: false
 tags:
   - character
 ---

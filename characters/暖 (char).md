@@ -32,6 +32,7 @@ stand_in: "暖"
 aliases:
   - 煖
 注音: "ㄋㄚㄋ"
+kwin: true
 tags:
   - character
 ---

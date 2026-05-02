@@ -32,6 +32,7 @@ stand_in: 車
 aliases:
   - 车
 注音: ㄑ⺢
+kwin: false
 tags:
   - character
   - hapax

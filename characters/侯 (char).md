@@ -29,6 +29,7 @@ graphemic_classification: 象形
 stand_in: 侯
 aliases:
 注音: ㄏㄛㄨ
+kwin: false
 tags:
   - character
 ---

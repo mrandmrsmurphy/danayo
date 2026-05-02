@@ -31,6 +31,7 @@ stand_in: 倶
 aliases:
   - 俱
 注音: ㄍㄨ
+kwin: true
 tags:
   - character
 ---

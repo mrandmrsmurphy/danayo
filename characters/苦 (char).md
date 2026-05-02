@@ -29,6 +29,7 @@ graphemic_classification: 古
 stand_in: 苦
 aliases:
 注音: ㄎㄛ
+kwin: false
 tags:
   - character
 ---

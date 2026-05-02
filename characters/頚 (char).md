@@ -31,6 +31,7 @@ aliases:
   - 頸
   - 颈
 注音: ㄍㄧㄫ
+kwin: false
 tags:
   - character
 ---

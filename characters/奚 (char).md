@@ -28,6 +28,7 @@ graphemic_classification: "象形"
 stand_in: "奚"
 aliases:
 注音: "ㄏㄝㄧ"
+kwin: false
 tags:
   - character
 ---

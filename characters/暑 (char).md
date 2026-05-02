@@ -28,6 +28,7 @@ graphemic_classification: "者"
 stand_in: "暑"
 aliases:
 注音: "ㄙ⼄"
+kwin: false
 tags:
   - character
 ---

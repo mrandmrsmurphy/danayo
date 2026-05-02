@@ -30,6 +30,7 @@ graphemic_classification: "千"
 stand_in: "年"
 aliases:
 注音: "ㄋㄝㄋ"
+kwin: false
 tags:
   - character
 ---

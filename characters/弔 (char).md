@@ -32,6 +32,7 @@ stand_in: "弔"
 aliases:
   - 吊
 注音: "ㄐㄝㄎ"
+kwin: false
 tags:
   - character
 ---

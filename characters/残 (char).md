@@ -31,6 +31,7 @@ stand_in: 残
 aliases:
   - 殘
 注音: ㄐㄚㄋ
+kwin: true
 tags:
   - character
 ---

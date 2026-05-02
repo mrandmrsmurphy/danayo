@@ -29,6 +29,7 @@ stand_in: "筐"
 aliases:
   - 筺
 注音: "ㄎ⺢ㄫ"
+kwin: false
 tags:
   - character
 ---

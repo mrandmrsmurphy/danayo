@@ -33,6 +33,7 @@ graphemic_classification: "旁"
 stand_in: "傍"
 aliases:
 注音: "ㄆㄚㄫ"
+kwin: false
 tags:
   - character
 ---

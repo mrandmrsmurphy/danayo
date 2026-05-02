@@ -30,6 +30,7 @@ graphemic_classification: "會意"
 stand_in: "朕"
 aliases:
 注音: "ㄐㄨㄇ"
+kwin: false
 tags:
   - character
 ---

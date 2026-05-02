@@ -31,6 +31,7 @@ stand_in: 凶
 aliases:
   - 兇
 注音: ㄏ⼜ㄫ
+kwin: true
 tags:
   - character
 ---

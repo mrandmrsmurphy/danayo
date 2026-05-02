@@ -31,6 +31,7 @@ stand_in: "陽"
 aliases:
   - 阳
 注音: "⼘ㄫ"
+kwin: true
 tags:
   - character
 ---

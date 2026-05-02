@@ -30,6 +30,7 @@ graphemic_classification: 會意
 stand_in: 臭
 aliases:
 注音: ㄑㄨ
+kwin: false
 tags:
   - character
 ---

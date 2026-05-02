@@ -25,6 +25,7 @@ graphemic_classification: 指事
 stand_in: 三
 date-last-perfect: 2026-01-30
 注音: ㄙㄚㄇ
+kwin: true
 tags:
   - character
 ---

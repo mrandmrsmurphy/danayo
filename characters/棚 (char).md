@@ -28,6 +28,7 @@ graphemic_classification: 朋
 stand_in: 棚
 aliases:
 注音: ㄅㄚㄫ
+kwin: false
 tags:
   - character
 ---

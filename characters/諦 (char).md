@@ -30,6 +30,7 @@ stand_in: "諦"
 aliases:
   - 谛
 注音: "ㄊㄝㄧ"
+kwin: false
 tags:
   - character
 ---

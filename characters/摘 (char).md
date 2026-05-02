@@ -31,6 +31,7 @@ graphemic_classification: "帝"
 stand_in: "摘"
 aliases:
 注音: "ㄉㄚㄎ"
+kwin: false
 tags:
   - character
 ---

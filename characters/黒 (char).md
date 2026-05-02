@@ -30,6 +30,7 @@ stand_in: 黒
 aliases:
   - 黑
 注音: ㄏㄨㄎ
+kwin: false
 tags:
   - character
 ---

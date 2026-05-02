@@ -32,6 +32,7 @@ stand_in: "滅"
 aliases:
   - 灭
 注音: "ㄇㄝㄊ"
+kwin: false
 tags:
   - character
 ---

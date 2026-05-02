@@ -28,6 +28,7 @@ mc_id: 1984
 graphemic_classification: 會意
 stand_in: 算
 注音: ㄙ⺢ㄋ
+kwin: false
 tags:
   - character
 ---

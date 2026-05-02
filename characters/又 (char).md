@@ -29,6 +29,7 @@ graphemic_classification: "象形"
 stand_in: "又"
 aliases:
 注音: "ㄨㄛ"
+kwin: false
 tags:
   - character
 ---

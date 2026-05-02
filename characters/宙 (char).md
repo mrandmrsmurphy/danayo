@@ -28,6 +28,7 @@ graphemic_classification: "由"
 stand_in: "宙"
 aliases:
 注音: "ㄐㄨㄛ"
+kwin: false
 tags:
   - character
 ---

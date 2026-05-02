@@ -29,6 +29,7 @@ stand_in: 克
 aliases:
   - 剋
 注音: ㄎㄨㄎ
+kwin: false
 tags:
   - character
 ---

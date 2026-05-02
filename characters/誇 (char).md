@@ -32,6 +32,7 @@ stand_in: 誇
 aliases:
   - 夸
 注音: ㄎ⺢
+kwin: false
 tags:
   - character
 ---

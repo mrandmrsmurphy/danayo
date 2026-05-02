@@ -32,6 +32,7 @@ graphemic_classification: 扁
 stand_in: 偏
 aliases:
 注音: ㄆ⼶ㄋ
+kwin: true
 tags:
   - character
 ---

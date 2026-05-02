@@ -34,6 +34,7 @@ stand_in: 細
 aliases:
   - 细
 注音: ㄙㄝㄧ
+kwin: true
 tags:
   - character
 ---

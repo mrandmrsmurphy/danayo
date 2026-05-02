@@ -30,6 +30,7 @@ graphemic_classification: "辟"
 stand_in: "癖"
 aliases:
 注音: "ㄆㄝㄎ"
+kwin: false
 tags:
   - character
 ---

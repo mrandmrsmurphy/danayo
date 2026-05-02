@@ -31,6 +31,7 @@ aliases:
   - 聯
   - 联
 注音: ㄌ⼶ㄋ
+kwin: true
 tags:
   - character
 ---

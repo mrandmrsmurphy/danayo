@@ -32,6 +32,7 @@ graphemic_classification: "象形"
 stand_in: "束"
 aliases:
 注音: "ㄙ⼄ㄎ"
+kwin: false
 tags:
   - character
 ---

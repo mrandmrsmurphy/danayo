@@ -33,6 +33,7 @@ aliases:
   - 猟
   - 猎
 注音: ㄌㄛㄆ
+kwin: false
 tags:
   - character
 ---

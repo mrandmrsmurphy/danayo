@@ -43,6 +43,7 @@ aliases:
   - 禮
   - 𥜪
 注音: "ㄌㄝㄧ"
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: 丘
 aliases:
   - 㐀
 注音: ㄎ⼜
+kwin: false
 tags:
   - character
 ---

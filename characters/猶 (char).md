@@ -32,6 +32,7 @@ aliases:
   - 猷
   - 犹
 注音: ⼜ㄛ
+kwin: false
 tags:
   - character
 ---

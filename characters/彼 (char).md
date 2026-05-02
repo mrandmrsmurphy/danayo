@@ -28,6 +28,7 @@ graphemic_classification: "皮"
 stand_in: "彼"
 aliases:
 注音: "ㄅㄜ"
+kwin: false
 tags:
   - character
 ---

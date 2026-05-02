@@ -30,6 +30,7 @@ aliases:
   - 窑
   - 窰
 注音: ⼄ㄨ
+kwin: false
 tags:
   - character
 ---

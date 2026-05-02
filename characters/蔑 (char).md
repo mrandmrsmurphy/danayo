@@ -36,6 +36,7 @@ stand_in: 蔑
 aliases:
 - 衊
 注音: ㄇㄝㄊ
+kwin: false
 tags:
   - character
 ---

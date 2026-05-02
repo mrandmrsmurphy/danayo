@@ -34,6 +34,7 @@ aliases:
   - 扵
   - 于
 注音: ㄛ
+kwin: false
 tags:
   - character
 ---

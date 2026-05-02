@@ -29,6 +29,7 @@ graphemic_classification: "厷"
 stand_in: "雄"
 aliases:
 注音: "ㄨㄫ"
+kwin: true
 tags:
   - character
 ---

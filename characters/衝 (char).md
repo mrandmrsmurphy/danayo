@@ -36,6 +36,7 @@ stand_in: "衝"
 aliases:
   - 冲
 注音: "ㄑㄛㄫ"
+kwin: false
 tags:
   - character
 ---

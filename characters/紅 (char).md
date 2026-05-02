@@ -32,6 +32,7 @@ stand_in: 紅
 aliases:
   - 红
 注音: ㄏㄛㄫ
+kwin: true
 tags:
   - character
 ---

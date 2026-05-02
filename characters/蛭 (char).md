@@ -32,6 +32,7 @@ graphemic_classification: "至"
 stand_in: "蛭"
 aliases:
 注音: "ㄐㄧㄊ"
+kwin: true
 tags:
   - character
 ---

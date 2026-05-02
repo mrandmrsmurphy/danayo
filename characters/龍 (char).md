@@ -44,6 +44,7 @@ aliases:
 注音: ㄌ⼄ㄫ
 date-last-perfect: 2026-02-22
 品詞: 名詞
+kwin: true
 tags:
   - character
 ---

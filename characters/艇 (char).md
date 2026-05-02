@@ -30,6 +30,7 @@ graphemic_classification: "廷"
 stand_in: "艇"
 aliases:
 注音: "ㄉㄝㄫ"
+kwin: false
 tags:
   - character
 ---

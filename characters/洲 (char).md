@@ -29,6 +29,7 @@ graphemic_classification: "州"
 stand_in: "洲"
 aliases:
 注音: "ㄐㄨㄛ"
+kwin: false
 tags:
   - character
 ---

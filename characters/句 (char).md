@@ -36,6 +36,7 @@ stand_in: 句
 aliases:
   - 枸
 注音: ㄍㄨ
+kwin: true
 tags:
   - character
 ---

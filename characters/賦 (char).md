@@ -29,6 +29,7 @@ stand_in: "賦"
 aliases:
   - 赋
 注音: "ㄈㄨ"
+kwin: false
 tags:
   - character
 ---

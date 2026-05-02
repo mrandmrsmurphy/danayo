@@ -35,6 +35,7 @@ graphemic_classification: "指事"
 stand_in: "言"
 aliases:
 注音: "ㄝㄋ"
+kwin: true
 tags:
   - character
 ---

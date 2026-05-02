@@ -31,6 +31,7 @@ stand_in: "遺"
 aliases:
   - 遗
 注音: "⼶ㄧ"
+kwin: false
 tags:
   - character
 ---

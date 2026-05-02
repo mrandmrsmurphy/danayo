@@ -31,6 +31,7 @@ aliases:
   - 樣
   - 样
 注音: ⼘ㄫ
+kwin: true
 tags:
   - character
 ---

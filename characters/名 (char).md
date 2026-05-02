@@ -30,6 +30,7 @@ stand_in: "名"
 aliases:
   - 洺
 注音: "ㄇㄧㄫ"
+kwin: false
 tags:
   - character
 ---

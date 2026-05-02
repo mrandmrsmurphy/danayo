@@ -30,6 +30,7 @@ stand_in: 錮
 aliases:
   - 锢
 注音: ㄍㄛ
+kwin: true
 tags:
   - character
 ---

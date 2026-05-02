@@ -32,6 +32,7 @@ aliases:
   - 裝
   - 裳
 注音: ㄐ⺢ㄫ
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ graphemic_classification: "象形"
 stand_in: "丙"
 aliases:
 注音: "ㄅ⼶ㄫ"
+kwin: true
 tags:
   - character
 ---

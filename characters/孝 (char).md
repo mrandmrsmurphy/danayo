@@ -30,6 +30,7 @@ graphemic_classification: "會意"
 stand_in: "孝"
 aliases:
 注音: "ㄏ⼘ㄨ"
+kwin: false
 tags:
   - character
 ---

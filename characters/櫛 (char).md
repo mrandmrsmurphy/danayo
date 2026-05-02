@@ -29,6 +29,7 @@ stand_in: "櫛"
 aliases:
   - 栉
 注音: "ㄐㄜㄊ"
+kwin: true
 tags:
   - character
 ---

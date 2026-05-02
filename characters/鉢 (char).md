@@ -31,6 +31,7 @@ aliases:
   - 盋
   - 钵
 注音: "ㄅㄚㄊ"
+kwin: true
 tags:
   - character
 ---

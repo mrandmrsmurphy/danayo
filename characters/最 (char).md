@@ -32,6 +32,7 @@ graphemic_classification: "會意"
 stand_in: "最"
 aliases:
 注音: "ㄐ⼔"
+kwin: false
 tags:
   - character
 ---

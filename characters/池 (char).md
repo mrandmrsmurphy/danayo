@@ -34,6 +34,7 @@ graphemic_classification: "也"
 stand_in: "池"
 aliases:
 注音: "ㄐㄨㄧ"
+kwin: false
 tags:
   - character
 ---

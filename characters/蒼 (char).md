@@ -32,6 +32,7 @@ aliases:
   - 苍
   - 滄
 注音: ㄑ⺢ㄫ
+kwin: false
 tags:
   - character
 ---

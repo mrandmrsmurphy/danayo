@@ -33,6 +33,7 @@ graphemic_classification: "余"
 stand_in: "茶"
 aliases:
 注音: "ㄑㄚ"
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ graphemic_classification: "皮"
 stand_in: "被"
 aliases:
 注音: "ㄆㄧ"
+kwin: true
 tags:
   - character
 ---

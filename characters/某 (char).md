@@ -31,6 +31,7 @@ graphemic_classification: "會意"
 stand_in: "某"
 aliases:
 注音: "ㄇㄛㄨ"
+kwin: false
 tags:
   - character
 ---

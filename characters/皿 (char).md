@@ -34,6 +34,7 @@ graphemic_classification: "象形"
 stand_in: "皿"
 aliases:
 注音: "ㄇ⼶ㄫ"
+kwin: true
 tags:
   - character
 ---

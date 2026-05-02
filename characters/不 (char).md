@@ -33,6 +33,7 @@ aliases:
   - 𠀚
   - 𠙐
 注音: ㄅㄛㄊ
+kwin: false
 tags:
   - character
   - hapax

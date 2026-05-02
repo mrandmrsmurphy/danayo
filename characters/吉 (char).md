@@ -32,6 +32,7 @@ aliases:
   - 劼
   - 佶
 注音: "ㄍㄧㄊ"
+kwin: true
 tags:
   - character
 ---

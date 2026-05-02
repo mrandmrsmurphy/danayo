@@ -29,6 +29,7 @@ graphemic_classification: "象形"
 stand_in: "久"
 aliases:
 注音: "ㄍ⼜"
+kwin: false
 tags:
   - character
 ---

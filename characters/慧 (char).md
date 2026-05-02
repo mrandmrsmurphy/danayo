@@ -31,6 +31,7 @@ graphemic_classification: "彗"
 stand_in: "慧"
 aliases:
 注音: "ㄏ⼔ㄧ"
+kwin: false
 tags:
   - character
 ---

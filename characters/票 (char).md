@@ -31,6 +31,7 @@ aliases:
   - 嫖
   - 慓
 注音: "ㄆ⼘ㄨ"
+kwin: false
 tags:
   - character
 ---

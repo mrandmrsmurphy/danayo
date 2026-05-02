@@ -32,6 +32,7 @@ aliases:
   - 圆
   - 円
 注音: ⼔ㄋ
+kwin: true
 tags:
   - character
 ---

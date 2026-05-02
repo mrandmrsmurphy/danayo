@@ -32,6 +32,7 @@ aliases:
   - 汙
   - 污
 注音: "ㄛ"
+kwin: true
 tags:
   - character
 ---

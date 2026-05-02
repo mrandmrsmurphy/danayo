@@ -31,6 +31,7 @@ stand_in: "大"
 aliases:
   - 亣
 注音: "ㄉㄚㄧ"
+kwin: true
 tags:
   - character
 ---

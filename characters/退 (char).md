@@ -38,6 +38,7 @@ stand_in: "退"
 aliases:
   - 頽
 注音: "ㄊㄧㄜ"
+kwin: false
 tags:
   - character
 ---

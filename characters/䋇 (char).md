@@ -31,6 +31,7 @@ aliases:
   - 繹
   - 绎
 注音: ⼶ㄎ
+kwin: true
 tags:
   - character
 ---

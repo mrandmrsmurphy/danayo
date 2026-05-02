@@ -29,6 +29,7 @@ graphemic_classification: 辟
 stand_in: 避
 aliases:
 注音: ㄅㄝ
+kwin: false
 tags:
   - character
 ---

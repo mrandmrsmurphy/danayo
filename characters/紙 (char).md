@@ -30,6 +30,7 @@ aliases:
   - 纸
   - 帋
 注音: ㄐㄝ
+kwin: false
 tags:
   - character
 ---

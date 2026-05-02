@@ -26,6 +26,7 @@ stand_in: "痩"
 aliases:
   - 瘦
 注音: "ㄙ⼜"
+kwin: false
 tags:
   - character
 ---

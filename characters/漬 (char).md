@@ -32,6 +32,7 @@ stand_in: "漬"
 aliases:
   - 渍
 注音: "ㄐㄝ"
+kwin: false
 tags:
   - character
 ---

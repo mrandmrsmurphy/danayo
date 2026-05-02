@@ -31,6 +31,7 @@ aliases:
   - 鷗
   - 鸥
 注音: ㄛㄨ
+kwin: false
 tags:
   - character
 ---

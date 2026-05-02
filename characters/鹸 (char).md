@@ -35,6 +35,7 @@ aliases:
   - 碱
   - 𫠗
 注音: ㄑㄝㄇ
+kwin: true
 tags:
   - character
 ---

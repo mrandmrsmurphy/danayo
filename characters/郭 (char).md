@@ -29,6 +29,7 @@ stand_in: "郭"
 aliases:
   - 廓
 注音: "ㄍ⺢ㄎ"
+kwin: true
 tags:
   - character
 ---

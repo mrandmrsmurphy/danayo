@@ -29,6 +29,7 @@ graphemic_classification: 追
 stand_in: 槌
 aliases:
 注音: ㄐ⼔ㄧ
+kwin: false
 tags:
   - character
 ---

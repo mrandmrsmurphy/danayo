@@ -39,6 +39,7 @@ stand_in: 洒
 aliases:
 - 灑
 注音: ㄙ⺢ㄧ
+kwin: false
 tags:
   - character
 ---

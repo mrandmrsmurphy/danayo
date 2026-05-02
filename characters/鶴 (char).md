@@ -29,6 +29,7 @@ stand_in: "鶴"
 aliases:
   - 鹤
 注音: "ㄏㄚㄎ"
+kwin: true
 tags:
   - character
 ---

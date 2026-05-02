@@ -35,6 +35,7 @@ graphemic_classification: "指事"
 stand_in: "六"
 aliases:
 注音: "ㄌㄨㄎ"
+kwin: false
 tags:
   - character
 ---

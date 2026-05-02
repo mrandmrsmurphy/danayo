@@ -32,6 +32,7 @@ aliases:
   - 鄢
   - 嫣
 注音: "ㄝㄋ"
+kwin: true
 tags:
   - character
 ---

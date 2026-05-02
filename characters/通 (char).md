@@ -31,6 +31,7 @@ graphemic_classification: 甬
 stand_in: 通
 aliases:
 注音: ㄊㄛㄫ
+kwin: true
 tags:
   - character
 ---

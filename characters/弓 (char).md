@@ -30,6 +30,7 @@ graphemic_classification: "象形"
 stand_in: "弓"
 aliases:
 注音: "ㄍㄨㄫ"
+kwin: true
 tags:
   - character
 ---

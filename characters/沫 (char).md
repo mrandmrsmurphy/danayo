@@ -35,6 +35,7 @@ graphemic_classification: "末"
 stand_in: "沫"
 aliases:
 注音: "ㄇㄚㄊ"
+kwin: true
 tags:
   - character
 ---

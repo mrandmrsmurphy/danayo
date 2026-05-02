@@ -30,6 +30,7 @@ graphemic_classification: "厓"
 stand_in: "崖"
 aliases:
 注音: "ㄚㄧ"
+kwin: true
 tags:
   - character
 ---

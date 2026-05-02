@@ -30,6 +30,7 @@ stand_in: "成"
 aliases:
   - 鯎
 注音: "ㄙㄧㄫ"
+kwin: false
 tags:
   - character
 ---

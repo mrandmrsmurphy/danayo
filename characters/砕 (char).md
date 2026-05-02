@@ -29,6 +29,7 @@ stand_in: 砕
 aliases:
   - 碎
 注音: ㄙㄛㄧ
+kwin: false
 tags:
   - character
 ---

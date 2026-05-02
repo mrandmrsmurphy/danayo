@@ -31,6 +31,7 @@ stand_in: 全
 aliases:
   - 㒰
 注音: ㄐ⼔ㄋ
+kwin: false
 tags:
   - character
 ---

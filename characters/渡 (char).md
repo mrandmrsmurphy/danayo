@@ -29,6 +29,7 @@ graphemic_classification: 度
 stand_in: 渡
 aliases:
 注音: ㄉㄛ
+kwin: true
 tags:
   - character
 ---

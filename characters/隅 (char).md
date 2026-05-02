@@ -33,6 +33,7 @@ graphemic_classification: "禺"
 stand_in: "隅"
 aliases:
 注音: "ㄨㄛ"
+kwin: false
 tags:
   - character
 ---

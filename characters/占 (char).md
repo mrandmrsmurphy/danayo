@@ -42,6 +42,7 @@ graphemic_classification: 指事
 stand_in: 占
 aliases:
 注音: ㄐㄝㄇ
+kwin: true
 tags:
   - character
 ---

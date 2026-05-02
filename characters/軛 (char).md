@@ -31,6 +31,7 @@ aliases:
   - 軶
   - 轭
 注音: ㄚㄎ
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: 寝
 aliases:
   - 寢
 注音: ㄑㄧㄇ
+kwin: true
 tags:
   - character
 ---

@@ -28,6 +28,7 @@ mc_id:
 graphemic_classification: "今"
 stand_in: "龕"
 注音: "ㄎㄚㄇ"
+kwin: false
 tags:
   - character
 ---

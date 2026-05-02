@@ -33,6 +33,7 @@ stand_in: "禿"
 aliases:
   - 秃
 注音: "ㄊㄛㄎ"
+kwin: false
 tags:
   - character
 ---

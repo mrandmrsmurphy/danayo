@@ -29,6 +29,7 @@ stand_in: 鈬
 aliases:
   - 鐸
 注音: ㄉㄚㄎ
+kwin: false
 tags:
   - character
 ---

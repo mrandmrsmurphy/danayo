@@ -32,6 +32,7 @@ graphemic_classification: "艮"
 stand_in: "恨"
 aliases:
 注音: "ㄏㄚㄋ"
+kwin: true
 tags:
   - character
 ---

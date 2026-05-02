@@ -30,6 +30,7 @@ graphemic_classification: "方"
 stand_in: "房"
 aliases:
 注音: "ㄅㄚㄫ"
+kwin: true
 tags:
   - character
 ---

@@ -28,6 +28,7 @@ graphemic_classification: 良
 stand_in: 狼
 aliases:
 注音: ㄌㄚㄫ
+kwin: true
 tags:
   - character
 ---

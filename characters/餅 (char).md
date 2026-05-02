@@ -33,6 +33,7 @@ stand_in: 餅
 aliases:
   - 饼
 注音: ㄅㄧㄫ
+kwin: false
 tags:
   - character
 ---

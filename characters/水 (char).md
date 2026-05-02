@@ -28,6 +28,7 @@ graphemic_classification: "象形"
 stand_in: "水"
 aliases:
 注音: "ㄙㄨ"
+kwin: true
 tags:
   - character
 ---

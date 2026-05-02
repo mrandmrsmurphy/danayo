@@ -31,6 +31,7 @@ stand_in: 掻
 aliases:
   - 搔
 注音: ㄙㄚㄨ
+kwin: false
 tags:
   - character
 ---

@@ -35,6 +35,7 @@ aliases:
   - 鱝
   - 鰩
 注音: "ㄏㄧㄇ"
+kwin: false
 tags:
   - character
   - hapax

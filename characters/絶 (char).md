@@ -35,6 +35,7 @@ aliases:
   - 絕
   - 绝
 注音: "ㄐ⼔ㄊ"
+kwin: false
 tags:
   - character
 ---

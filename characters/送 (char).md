@@ -29,6 +29,7 @@ stand_in: "送"
 aliases:
   - 䢠
 注音: "ㄙㄛㄫ"
+kwin: true
 tags:
   - character
 ---

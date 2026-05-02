@@ -30,6 +30,7 @@ graphemic_classification: 干
 stand_in: 刊
 aliases:
 注音: ㄎㄚㄋ
+kwin: false
 tags:
   - character
 ---

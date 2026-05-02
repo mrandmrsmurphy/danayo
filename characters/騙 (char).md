@@ -33,6 +33,7 @@ aliases:
   - 骗
   - 騗
 注音: "ㄆ⼶ㄋ"
+kwin: true
 tags:
   - character
 ---

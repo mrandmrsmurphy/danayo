@@ -30,6 +30,7 @@ stand_in: 涙
 aliases:
   - 淚
 注音: ㄌㄨㄧ
+kwin: false
 tags:
   - character
 ---

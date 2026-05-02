@@ -31,6 +31,7 @@ graphemic_classification: "平"
 stand_in: "坪"
 aliases:
 注音: "ㄅ⼶ㄫ"
+kwin: false
 tags:
   - character
 ---

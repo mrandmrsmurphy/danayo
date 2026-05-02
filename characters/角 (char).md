@@ -36,6 +36,7 @@ graphemic_classification: 象形
 stand_in: 角
 aliases:
 注音: ㄍㄛㄎ
+kwin: false
 tags:
   - character
 ---

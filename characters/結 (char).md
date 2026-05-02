@@ -35,6 +35,7 @@ stand_in: "結"
 aliases:
   - 结
 注音: "ㄍㄝㄊ"
+kwin: false
 tags:
   - character
 ---

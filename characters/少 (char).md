@@ -34,6 +34,7 @@ graphemic_classification: "小"
 stand_in: "少"
 aliases:
 注音: "ㄙㄛㄨ"
+kwin: false
 tags:
   - character
 ---

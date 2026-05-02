@@ -30,6 +30,7 @@ stand_in: "鷹"
 aliases:
   - 鹰
 注音: "ㄧㄫ"
+kwin: false
 tags:
   - character
 ---

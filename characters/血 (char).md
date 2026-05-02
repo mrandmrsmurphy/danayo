@@ -30,6 +30,7 @@ graphemic_classification: "會意"
 stand_in: "血"
 aliases:
 注音: "ㄏ⼔ㄊ"
+kwin: false
 tags:
   - character
 ---

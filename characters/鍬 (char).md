@@ -30,6 +30,7 @@ stand_in: "鍬"
 aliases:
   - 锹
 注音: "ㄑㄚㄨ"
+kwin: false
 tags:
   - character
 ---

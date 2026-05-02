@@ -33,6 +33,7 @@ aliases:
   - 鳖
   - 𱌇
 注音: "ㄅㄝㄊ"
+kwin: false
 tags:
   - character
 ---

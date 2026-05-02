@@ -31,6 +31,7 @@ stand_in: "嚇"
 aliases:
   - 吓
 注音: "ㄏㄚㄎ"
+kwin: false
 tags:
   - character
 ---

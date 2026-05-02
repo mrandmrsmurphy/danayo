@@ -33,6 +33,7 @@ graphemic_classification: "指事"
 stand_in: "亙"
 aliases:
 注音: "ㄍㄨㄫ"
+kwin: false
 tags:
   - character
 ---

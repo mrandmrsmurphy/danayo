@@ -31,6 +31,7 @@ graphemic_classification: "戸"
 stand_in: "所"
 aliases:
 注音: "ㄙㄜ"
+kwin: false
 tags:
   - character
 ---

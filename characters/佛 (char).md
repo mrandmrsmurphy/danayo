@@ -31,6 +31,7 @@ graphemic_classification: 弗
 stand_in: 佛
 aliases:
 注音: ㄅㄨㄊ
+kwin: true
 tags:
   - character
 ---

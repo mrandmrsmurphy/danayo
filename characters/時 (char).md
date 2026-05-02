@@ -33,6 +33,7 @@ stand_in: 時
 aliases:
   - 时
 注音: ㄙㄧ
+kwin: true
 tags:
   - character
 ---

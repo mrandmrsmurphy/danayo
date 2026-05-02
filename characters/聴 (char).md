@@ -30,6 +30,7 @@ aliases:
   - 聽
   - 听
 注音: ㄑㄝㄫ
+kwin: true
 tags:
   - character
 ---

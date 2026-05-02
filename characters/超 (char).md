@@ -32,6 +32,7 @@ graphemic_classification: "召"
 stand_in: "超"
 aliases:
 注音: "ㄊㄚㄨ"
+kwin: false
 tags:
   - character
 ---

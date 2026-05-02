@@ -29,6 +29,7 @@ graphemic_classification: 考
 stand_in: 可
 aliases:
 注音: ㄎㄜ
+kwin: false
 tags:
   - character
 ---

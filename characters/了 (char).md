@@ -36,6 +36,7 @@ stand_in: "了"
 aliases:
   - 瞭
 注音: "ㄌ⼘ㄨ"
+kwin: false
 tags:
   - character
 ---

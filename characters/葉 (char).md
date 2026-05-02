@@ -40,6 +40,7 @@ stand_in: 葉
 aliases:
   - 叶
 注音: ⼄ㄆ
+kwin: false
 tags:
   - character
 ---

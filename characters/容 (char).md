@@ -38,6 +38,7 @@ graphemic_classification: "谷"
 stand_in: "容"
 aliases:
 注音: "⼄ㄫ"
+kwin: true
 tags:
   - character
 ---

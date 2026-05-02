@@ -31,6 +31,7 @@ stand_in: 九
 aliases:
 注音: ㄎ⼜
 date-last-perfect: 2026-02-20
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ stand_in: "項"
 aliases:
   - 项
 注音: "ㄏㄚㄫ"
+kwin: true
 tags:
   - character
 ---

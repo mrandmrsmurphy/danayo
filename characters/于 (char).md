@@ -36,6 +36,7 @@ aliases:
 注音: ㄨ
 品詞: 格助詞
 date-last-perfect: 2026-02-20
+kwin: true
 tags:
   - character
 ---

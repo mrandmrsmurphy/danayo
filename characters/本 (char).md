@@ -36,6 +36,7 @@ graphemic_classification: "指事"
 stand_in: "本"
 aliases:
 注音: "ㄅㄛㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ graphemic_classification: "隹"
 stand_in: "推"
 aliases:
 注音: "ㄑㄨㄧ"
+kwin: false
 tags:
   - character
 ---

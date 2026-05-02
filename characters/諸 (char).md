@@ -32,6 +32,7 @@ stand_in: "諸"
 aliases:
   - 诸
 注音: "ㄐㄚ"
+kwin: false
 tags:
   - character
 ---

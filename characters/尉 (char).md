@@ -28,6 +28,7 @@ graphemic_classification: 會意
 stand_in: 尉
 aliases:
 注音: ㄨㄊ
+kwin: false
 tags:
   - character
 ---

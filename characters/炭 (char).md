@@ -31,6 +31,7 @@ graphemic_classification: 屵
 stand_in: 炭
 aliases:
 注音: ㄊㄚㄋ
+kwin: true
 tags:
   - character
 ---

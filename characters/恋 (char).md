@@ -31,6 +31,7 @@ aliases:
   - 戀
   - 㜻
 注音: ㄌㄝㄋ
+kwin: false
 tags:
   - character
 ---

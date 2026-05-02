@@ -35,6 +35,7 @@ stand_in: "期"
 aliases:
   - 朞
 注音: "ㄎㄧ"
+kwin: false
 tags:
   - character
 ---

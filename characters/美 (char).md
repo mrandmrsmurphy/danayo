@@ -34,6 +34,7 @@ graphemic_classification: "象形"
 stand_in: "美"
 aliases:
 注音: "ㄇㄧ"
+kwin: true
 tags:
   - character
 ---

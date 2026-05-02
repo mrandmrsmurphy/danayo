@@ -30,6 +30,7 @@ graphemic_classification: "立"
 stand_in: "翌"
 aliases:
 注音: "ㄧㄎ"
+kwin: true
 tags:
   - character
 ---

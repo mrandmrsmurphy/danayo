@@ -34,6 +34,7 @@ graphemic_classification: "㕞"
 stand_in: "刷"
 aliases:
 注音: "ㄙ⺢ㄊ"
+kwin: false
 tags:
   - character
 ---

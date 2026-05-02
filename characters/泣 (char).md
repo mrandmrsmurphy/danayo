@@ -35,6 +35,7 @@ graphemic_classification: "立"
 stand_in: "泣"
 aliases:
 注音: "ㄎㄧㄆ"
+kwin: false
 tags:
   - character
 ---

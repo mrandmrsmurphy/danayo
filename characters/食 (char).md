@@ -32,6 +32,7 @@ stand_in: "食"
 aliases:
   - 蝕
 注音: "ㄙㄧㄎ"
+kwin: true
 tags:
   - character
 ---

@@ -35,6 +35,7 @@ stand_in: "鎖"
 aliases:
   - 锁
 注音: "ㄙ⺢"
+kwin: false
 tags:
   - character
 ---

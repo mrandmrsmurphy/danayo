@@ -30,6 +30,7 @@ aliases:
   - 齒
   - 齿
 注音: ㄑㄧ
+kwin: true
 tags:
   - character
 ---

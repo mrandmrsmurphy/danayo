@@ -31,6 +31,7 @@ stand_in: "紮"
 aliases:
   - 扎
 注音: "ㄐㄚㄊ"
+kwin: false
 tags:
   - character
 ---

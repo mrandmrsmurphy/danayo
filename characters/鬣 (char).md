@@ -30,6 +30,7 @@ graphemic_classification: "巤"
 stand_in: "鬣"
 aliases:
 注音: "ㄌㄛㄆ"
+kwin: false
 tags:
   - character
 ---

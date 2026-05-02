@@ -28,6 +28,7 @@ graphemic_classification: "才"
 stand_in: "在"
 aliases:
 注音: "ㄐㄚㄧ"
+kwin: true
 tags:
   - character
 ---

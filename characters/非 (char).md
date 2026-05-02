@@ -29,6 +29,7 @@ graphemic_classification: 象形
 stand_in: 非
 注音: ㄈㄧ
 date-last-perfect: 2026-03-17
+kwin: false
 tags:
   - character
 ---

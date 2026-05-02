@@ -31,6 +31,7 @@ stand_in: "術"
 aliases:
   - 术
 注音: "ㄙㄨㄊ"
+kwin: true
 tags:
   - character
 ---

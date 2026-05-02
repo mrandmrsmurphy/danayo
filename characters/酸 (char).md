@@ -29,6 +29,7 @@ graphemic_classification: 夋
 stand_in: 酸
 aliases:
 注音: ㄙ⺢ㄋ
+kwin: false
 tags:
   - character
 ---

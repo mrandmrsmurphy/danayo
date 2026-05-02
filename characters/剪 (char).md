@@ -29,6 +29,7 @@ graphemic_classification: "前"
 stand_in: "剪"
 aliases:
 注音: "ㄐㄝㄋ"
+kwin: true
 tags:
   - character
 ---

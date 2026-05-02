@@ -29,6 +29,7 @@ graphemic_classification: "喝"
 stand_in: "葛"
 aliases:
 注音: "ㄍ⼘ㄊ"
+kwin: false
 tags:
   - character
   - hapax

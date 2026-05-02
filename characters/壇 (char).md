@@ -31,6 +31,7 @@ stand_in: "壇"
 aliases:
   - 坛
 注音: "ㄉㄚㄋ"
+kwin: true
 tags:
   - character
 ---

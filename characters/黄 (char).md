@@ -32,6 +32,7 @@ aliases:
   - 簧
 swadesh: 174
 注音: ㄏ⺢ㄫ
+kwin: true
 tags:
   - character
 ---

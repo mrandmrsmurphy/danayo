@@ -32,6 +32,7 @@ stand_in: 挟
 aliases:
 - 挾
 注音: ㄏㄝㄆ
+kwin: false
 tags:
   - character
 ---

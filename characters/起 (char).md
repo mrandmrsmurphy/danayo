@@ -29,6 +29,7 @@ graphemic_classification: "巳"
 stand_in: "起"
 aliases:
 注音: "ㄎㄧ"
+kwin: false
 tags:
   - character
 ---

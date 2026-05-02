@@ -35,6 +35,7 @@ aliases:
   - 笆
   - 吧
 注音: ㄆㄚ
+kwin: true
 tags:
   - character
 ---

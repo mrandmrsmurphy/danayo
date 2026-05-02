@@ -31,6 +31,7 @@ graphemic_classification: "指事"
 stand_in: "光"
 aliases:
 注音: "ㄎ⺢ㄫ"
+kwin: false
 tags:
   - character
 ---

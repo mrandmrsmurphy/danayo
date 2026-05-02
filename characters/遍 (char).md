@@ -29,6 +29,7 @@ graphemic_classification: "扁"
 stand_in: "遍"
 aliases:
 注音: "ㄅㄝㄋ"
+kwin: false
 tags:
   - character
 ---

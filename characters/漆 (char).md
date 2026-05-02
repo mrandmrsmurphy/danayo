@@ -30,6 +30,7 @@ stand_in: "漆"
 aliases:
   - 桼
 注音: "ㄑㄧㄊ"
+kwin: true
 tags:
   - character
 ---

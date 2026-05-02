@@ -32,6 +32,7 @@ stand_in: 枢
 aliases:
   - 樞
 注音: ㄑㄨ
+kwin: true
 tags:
   - character
 ---

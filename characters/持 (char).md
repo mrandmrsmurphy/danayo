@@ -30,6 +30,7 @@ stand_in: 持
 aliases:
   - 恃
 注音: ㄉㄧ
+kwin: false
 tags:
   - character
 ---

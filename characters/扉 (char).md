@@ -29,6 +29,7 @@ graphemic_classification: "非"
 stand_in: "扉"
 aliases:
 注音: "ㄈㄨㄧ"
+kwin: false
 tags:
   - character
 ---

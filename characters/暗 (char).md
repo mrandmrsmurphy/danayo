@@ -29,6 +29,7 @@ stand_in: "暗"
 aliases:
   - 闇
 注音: "ㄚㄇ"
+kwin: true
 tags:
   - character
 ---

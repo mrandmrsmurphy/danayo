@@ -40,6 +40,7 @@ aliases:
   - 𧾸
   - 𠙺
 注音: "ㄐㄧㄫ"
+kwin: false
 tags:
   - character
 ---

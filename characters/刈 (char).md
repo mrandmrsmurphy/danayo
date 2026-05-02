@@ -29,6 +29,7 @@ graphemic_classification: 乂
 stand_in: 刈
 aliases:
 注音: ⼘ㄧ
+kwin: false
 tags:
   - character
 ---

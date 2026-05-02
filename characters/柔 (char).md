@@ -31,6 +31,7 @@ graphemic_classification: "矛"
 stand_in: "柔"
 aliases:
 注音: "ㄋ⼜"
+kwin: false
 tags:
   - character
 ---

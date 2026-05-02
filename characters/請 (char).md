@@ -37,6 +37,7 @@ stand_in: "請"
 aliases:
   - 请
 注音: "ㄑㄧㄫ"
+kwin: false
 tags:
   - character
 ---

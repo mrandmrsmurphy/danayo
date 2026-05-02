@@ -32,6 +32,7 @@ aliases:
   - 𥻔
   - 粪
 注音: "ㄈㄨㄇ"
+kwin: false
 tags:
   - character
   - hapax

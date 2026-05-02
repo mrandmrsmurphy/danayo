@@ -30,6 +30,7 @@ stand_in: 有
 aliases:
   - 宥
 注音: ⼜
+kwin: true
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ stand_in: "尋"
 aliases:
   - 寻
 注音: "ㄙㄧㄇ"
+kwin: true
 tags:
   - character
 ---

@@ -34,6 +34,7 @@ stand_in: "誦"
 aliases:
   - 诵
 注音: "ㄙㄛㄫ"
+kwin: true
 tags:
   - character
 ---

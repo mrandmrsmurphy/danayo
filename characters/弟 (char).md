@@ -32,6 +32,7 @@ aliases:
   - 悌
   - 棣
 注音: ㄉㄝ
+kwin: false
 tags:
   - character
 ---

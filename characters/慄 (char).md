@@ -32,6 +32,7 @@ stand_in: "慄"
 aliases:
   - 栗
 注音: "ㄌㄧㄊ"
+kwin: false
 tags:
   - character
 ---

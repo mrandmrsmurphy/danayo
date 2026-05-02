@@ -30,6 +30,7 @@ stand_in: 鮑
 aliases:
   - 鲍
 注音: ㄅㄚㄨ
+kwin: false
 tags:
   - character
 ---

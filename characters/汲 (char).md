@@ -29,6 +29,7 @@ graphemic_classification: "及"
 stand_in: "汲"
 aliases:
 注音: "ㄎㄨㄆ"
+kwin: false
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "鼓"
 aliases:
 注音: "ㄍㄛ"
+kwin: true
 tags:
   - character
 ---

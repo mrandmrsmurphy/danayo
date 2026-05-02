@@ -32,6 +32,7 @@ stand_in: 玄
 aliases:
   - 眩
 注音: ㄏ⼔ㄋ
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ graphemic_classification: "朱"
 stand_in: "株"
 aliases:
 注音: "ㄉㄨ"
+kwin: false
 tags:
   - character
 ---

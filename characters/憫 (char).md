@@ -30,6 +30,7 @@ stand_in: 憫
 aliases:
   - 悯
 注音: ㄇㄧㄋ
+kwin: true
 tags:
   - character
 ---

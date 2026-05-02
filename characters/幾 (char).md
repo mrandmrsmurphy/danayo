@@ -33,6 +33,7 @@ stand_in: "幾"
 aliases:
   - 几
 注音: "ㄍㄧㄜ"
+kwin: false
 tags:
   - character
 ---

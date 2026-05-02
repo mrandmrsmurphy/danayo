@@ -30,6 +30,7 @@ stand_in: "隣"
 aliases:
   - 鄰
 注音: "ㄌㄧㄋ"
+kwin: true
 tags:
   - character
 ---

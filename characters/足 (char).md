@@ -30,6 +30,7 @@ graphemic_classification: 會意
 stand_in: 足
 aliases:
 注音: ㄐㄛㄎ
+kwin: true
 tags:
   - character
 ---

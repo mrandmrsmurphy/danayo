@@ -33,6 +33,7 @@ graphemic_classification: "王"
 stand_in: "往"
 aliases:
 注音: "⺢ㄫ"
+kwin: true
 tags:
   - character
 ---

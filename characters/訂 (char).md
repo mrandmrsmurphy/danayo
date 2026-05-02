@@ -32,6 +32,7 @@ stand_in: "訂"
 aliases:
   - 订
 注音: "ㄊㄝㄫ"
+kwin: false
 tags:
   - character
 ---

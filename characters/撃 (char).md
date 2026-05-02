@@ -31,6 +31,7 @@ stand_in: 撃
 aliases:
   - 擊
 注音: ㄍㄝㄎ
+kwin: false
 tags:
   - character
 ---

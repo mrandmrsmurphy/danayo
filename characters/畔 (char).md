@@ -29,6 +29,7 @@ graphemic_classification: "半"
 stand_in: "畔"
 aliases:
 注音: "ㄅㄚㄋ"
+kwin: true
 tags:
   - character
 ---

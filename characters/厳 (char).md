@@ -35,6 +35,7 @@ aliases:
   - 儼
   - 𠑊
 注音: ⼄ㄇ
+kwin: false
 tags:
   - character
 ---

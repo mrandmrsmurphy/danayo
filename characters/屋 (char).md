@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "屋"
 aliases:
 注音: "ㄛㄎ"
+kwin: true
 tags:
   - character
 ---

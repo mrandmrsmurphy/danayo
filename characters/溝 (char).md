@@ -31,6 +31,7 @@ aliases:
   - 沟
   - 媾
 注音: "ㄍㄛㄨ"
+kwin: false
 tags:
   - character
 ---

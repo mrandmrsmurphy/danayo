@@ -33,6 +33,7 @@ graphemic_classification: "宓"
 stand_in: "密"
 aliases:
 注音: "ㄇㄧㄊ"
+kwin: true
 tags:
   - character
 ---

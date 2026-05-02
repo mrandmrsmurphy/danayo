@@ -31,6 +31,7 @@ graphemic_classification: "云"
 stand_in: "魂"
 aliases:
 注音: "ㄏㄛㄋ"
+kwin: true
 tags:
   - character
 ---

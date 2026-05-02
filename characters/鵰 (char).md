@@ -31,6 +31,7 @@ aliases:
   - 𫛲
   - 雕
 注音: "ㄑㄨㄛ"
+kwin: false
 tags:
   - character
 ---

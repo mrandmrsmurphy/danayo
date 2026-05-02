@@ -32,6 +32,7 @@ aliases:
   - 鷲
   - 鹫
 注音: "ㄐㄨㄛ"
+kwin: false
 tags:
   - character
 ---

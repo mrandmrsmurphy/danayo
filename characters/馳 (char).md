@@ -31,6 +31,7 @@ stand_in: "馳"
 aliases:
   - 驰
 注音: "ㄐㄨㄧ"
+kwin: false
 tags:
   - character
 ---

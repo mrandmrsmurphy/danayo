@@ -30,6 +30,7 @@ graphemic_classification: "象形"
 stand_in: "白"
 aliases:
 注音: "ㄅㄚㄎ"
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ stand_in: "趨"
 aliases:
   - 趋
 注音: "ㄑㄨ"
+kwin: true
 tags:
   - character
 ---

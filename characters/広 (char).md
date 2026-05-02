@@ -32,6 +32,7 @@ aliases:
   - 旷
   - 广
 注音: ㄍ⺢ㄫ
+kwin: true
 tags:
   - character
 ---

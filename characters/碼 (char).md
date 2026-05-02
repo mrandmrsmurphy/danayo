@@ -30,6 +30,7 @@ stand_in: "碼"
 aliases:
   - 码
 注音: "ㄇㄚ"
+kwin: true
 tags:
   - character
 ---

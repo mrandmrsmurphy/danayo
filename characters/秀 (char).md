@@ -30,6 +30,7 @@ graphemic_classification: 會意
 stand_in: 秀
 aliases:
 注音: ㄙㄨㄛ
+kwin: false
 tags:
   - character
 ---

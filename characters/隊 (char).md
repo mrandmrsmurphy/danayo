@@ -40,6 +40,7 @@ stand_in: "隊"
 aliases:
   - 队
 注音: "ㄉㄛㄧ"
+kwin: false
 tags:
   - character
 ---

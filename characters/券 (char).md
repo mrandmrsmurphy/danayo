@@ -30,6 +30,7 @@ stand_in: "券"
 aliases:
   - 劵
 注音: "ㄎㄛㄋ"
+kwin: false
 tags:
   - character
 ---

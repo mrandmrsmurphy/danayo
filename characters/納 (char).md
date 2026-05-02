@@ -43,6 +43,7 @@ stand_in: "納"
 aliases:
   - 纳
 注音: "ㄋㄚㄆ"
+kwin: true
 tags:
   - character
 ---

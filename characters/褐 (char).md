@@ -32,6 +32,7 @@ stand_in: 褐
 aliases:
   - 竭
 注音: ㄏㄚㄊ
+kwin: false
 tags:
   - character
 ---

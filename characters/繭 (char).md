@@ -30,6 +30,7 @@ stand_in: "繭"
 aliases:
   - 茧
 注音: "ㄍ⼶ㄫ"
+kwin: false
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ stand_in: 噸
 aliases:
   - 吨
 注音: ㄊㄛㄋ
+kwin: true
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ stand_in: 川
 aliases:
   - 巛
 注音: ㄑ⺢ㄋ
+kwin: false
 tags:
   - character
   - hapax

@@ -35,6 +35,7 @@ graphemic_classification: "會意"
 stand_in: "浸"
 aliases:
 注音: "ㄑㄧㄇ"
+kwin: true
 tags:
   - character
 ---

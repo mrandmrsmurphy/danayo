@@ -28,6 +28,7 @@ graphemic_classification: 相
 stand_in: 霜
 aliases:
 注音: ㄙ⺢ㄫ
+kwin: false
 tags:
   - character
 ---

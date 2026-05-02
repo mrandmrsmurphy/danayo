@@ -29,6 +29,7 @@ stand_in: 馿
 aliases:
   - 驢
 注音: ㄌ⼄
+kwin: false
 tags:
   - character
 ---

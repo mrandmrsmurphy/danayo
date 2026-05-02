@@ -30,6 +30,7 @@ graphemic_classification: 象形
 stand_in: 耳
 aliases:
 注音: ㄋㄧ
+kwin: false
 tags:
   - character
 ---

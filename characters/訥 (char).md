@@ -36,6 +36,7 @@ stand_in: 訥
 aliases:
   - 讷
 注音: ㄋㄛㄊ
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ aliases:
   - 弌
   - 佾
 注音: ㄧㄊ
+kwin: true
 tags:
   - character
 ---

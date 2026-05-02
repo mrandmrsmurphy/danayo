@@ -40,6 +40,7 @@ aliases:
 - 臺
 - 颱
 注音: ㄉㄚㄧ
+kwin: true
 tags:
   - character
 ---

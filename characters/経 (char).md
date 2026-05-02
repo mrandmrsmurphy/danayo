@@ -33,6 +33,7 @@ aliases:
   - 經
   - 经
 注音: ㄍㄝㄫ
+kwin: false
 tags:
   - character
 ---

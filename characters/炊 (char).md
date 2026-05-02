@@ -30,6 +30,7 @@ graphemic_classification: 吹
 stand_in: 炊
 aliases:
 注音: ㄑㄨㄧ
+kwin: true
 tags:
   - character
 ---

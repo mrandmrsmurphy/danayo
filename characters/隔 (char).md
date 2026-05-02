@@ -30,6 +30,7 @@ mc_id: 2210
 graphemic_classification: 象形
 stand_in: 隔
 注音: ㄍㄚㄎ
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ stand_in: "軌"
 aliases:
   - 轨
 注音: "ㄎㄨㄧ"
+kwin: false
 tags:
   - character
 ---

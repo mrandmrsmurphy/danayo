@@ -34,6 +34,7 @@ aliases:
   - 斩
   - 塹
 注音: "ㄐㄚㄇ"
+kwin: false
 tags:
   - character
 ---

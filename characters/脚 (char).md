@@ -31,6 +31,7 @@ stand_in: 脚
 aliases:
   - 腳
 注音: ㄍ⼘ㄎ
+kwin: false
 tags:
   - character
 ---

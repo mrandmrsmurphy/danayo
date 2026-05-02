@@ -35,6 +35,7 @@ aliases:
   - 轍
   - 缀
 注音: "ㄐ⼔ㄊ"
+kwin: false
 tags:
   - character
 ---

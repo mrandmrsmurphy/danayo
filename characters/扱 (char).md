@@ -43,6 +43,7 @@ graphemic_classification: "及"
 stand_in: "扱"
 aliases:
 注音: "ㄑㄚㄆ"
+kwin: false
 tags:
   - character
 ---

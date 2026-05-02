@@ -36,6 +36,7 @@ aliases:
   - 衹
   - 隻
 注音: ㄑㄝ
+kwin: false
 tags:
   - character
 ---

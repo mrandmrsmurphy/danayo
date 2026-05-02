@@ -31,6 +31,7 @@ graphemic_classification: "咅"
 stand_in: "部"
 aliases:
 注音: "ㄅㄛㄨ"
+kwin: false
 tags:
   - character
 ---

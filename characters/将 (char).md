@@ -36,6 +36,7 @@ aliases:
   - 漿
   - 浆
 注音: "ㄐ⺢ㄫ"
+kwin: false
 tags:
   - character
 ---

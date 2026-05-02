@@ -32,6 +32,7 @@ stand_in: 旧
 aliases:
   - 舊
 注音: ㄍ⼜ㄛ
+kwin: false
 tags:
   - character
 ---

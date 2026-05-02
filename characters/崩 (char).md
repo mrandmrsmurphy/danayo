@@ -31,6 +31,7 @@ graphemic_classification: "朋"
 stand_in: "崩"
 aliases:
 注音: "ㄅㄨㄫ"
+kwin: true
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ aliases:
   - 侈
   - 济
 注音: "ㄐㄝㄧ"
+kwin: true
 tags:
   - character
 ---

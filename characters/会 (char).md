@@ -33,6 +33,7 @@ aliases:
   - 會
   - 屶
 注音: "ㄏ⼔"
+kwin: false
 tags:
   - character
 ---

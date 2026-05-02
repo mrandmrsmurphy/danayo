@@ -30,6 +30,7 @@ stand_in: 贋
 aliases:
   - 贗赝
 注音: ㄚㄋ
+kwin: true
 tags:
   - character
 ---

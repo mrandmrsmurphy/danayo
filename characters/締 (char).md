@@ -33,6 +33,7 @@ stand_in: "締"
 aliases:
   - 缔
 注音: "ㄊㄝㄧ"
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ stand_in: "槍"
 aliases:
   - 枪
 注音: "ㄑ⺢ㄫ"
+kwin: false
 tags:
   - character
 ---

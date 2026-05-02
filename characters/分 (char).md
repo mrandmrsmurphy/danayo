@@ -32,6 +32,7 @@ aliases:
   - 份
 注音: "ㄅㄨㄋ"
 date-last-perfect: 2026-03-24
+kwin: true
 tags:
   - character
 ---

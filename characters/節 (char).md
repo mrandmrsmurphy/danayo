@@ -38,6 +38,7 @@ stand_in: 節
 aliases:
   - 节
 注音: ㄐㄝㄊ
+kwin: true
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ stand_in: 草
 aliases:
   - 艸
 注音: ㄑㄚㄨ
+kwin: false
 tags:
   - character
 ---

@@ -38,6 +38,7 @@ stand_in: 妙
 aliases:
   - 玅
 注音: ㄇ⼄ㄨ
+kwin: false
 tags:
   - character
 ---

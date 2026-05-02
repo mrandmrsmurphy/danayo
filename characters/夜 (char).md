@@ -30,6 +30,7 @@ stand_in: 夜
 aliases:
   - 亱
 注音: ⼘
+kwin: true
 tags:
   - character
 ---

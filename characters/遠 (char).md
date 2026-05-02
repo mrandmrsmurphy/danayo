@@ -33,6 +33,7 @@ stand_in: "遠"
 aliases:
   - 远
 注音: "ㄛㄋ"
+kwin: false
 tags:
   - character
 ---

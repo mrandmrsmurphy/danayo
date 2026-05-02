@@ -29,6 +29,7 @@ stand_in: "鍋"
 aliases:
   - 锅
 注音: "ㄍ⺢"
+kwin: true
 tags:
   - character
 ---

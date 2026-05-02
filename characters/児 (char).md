@@ -32,6 +32,7 @@ aliases:
   - 兒
   - 儿
 注音: ㄝㄧ
+kwin: false
 tags:
   - character
 ---

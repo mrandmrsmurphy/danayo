@@ -28,6 +28,7 @@ graphemic_classification: "唐"
 stand_in: "糖"
 aliases:
 注音: "ㄉ⺢ㄫ"
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: "偵"
 aliases:
   - 侦
 注音: "ㄊㄧㄫ"
+kwin: false
 tags:
   - character
 ---

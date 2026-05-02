@@ -31,6 +31,7 @@ stand_in: "紛"
 aliases:
   - 纷
 注音: "ㄈㄜㄋ"
+kwin: false
 tags:
   - character
   - hapax

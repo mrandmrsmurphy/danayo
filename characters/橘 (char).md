@@ -32,6 +32,7 @@ stand_in: "橘"
 aliases:
   - 桔
 注音: "ㄍ⼜ㄊ"
+kwin: true
 tags:
   - character
 ---

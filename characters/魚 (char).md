@@ -30,6 +30,7 @@ aliases:
   - 鱼
   - 𤋳
 注音: ⼄
+kwin: false
 tags:
   - character
 ---

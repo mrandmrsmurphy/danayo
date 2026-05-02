@@ -30,6 +30,7 @@ graphemic_classification: 會意
 stand_in: 道
 aliases:
 注音: ㄉㄚㄨ
+kwin: false
 tags:
   - character
 ---

@@ -36,6 +36,7 @@ stand_in: "喫"
 aliases:
   - 吃
 注音: "ㄎㄝㄎ"
+kwin: false
 tags:
   - character
 ---

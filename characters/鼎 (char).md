@@ -31,6 +31,7 @@ graphemic_classification: "象形"
 stand_in: "鼎"
 aliases:
 注音: "ㄉㄧㄫ"
+kwin: false
 tags:
   - character
 ---

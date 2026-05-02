@@ -30,6 +30,7 @@ graphemic_classification: "分"
 stand_in: "扮"
 aliases:
 注音: "ㄈㄧㄋ"
+kwin: false
 tags:
   - character
 ---

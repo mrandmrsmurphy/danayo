@@ -31,6 +31,7 @@ graphemic_classification: 會意
 stand_in: 屎
 aliases:
 注音: ㄏㄜ
+kwin: false
 tags:
   - character
   - hapax

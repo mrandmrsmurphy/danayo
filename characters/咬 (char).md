@@ -42,6 +42,7 @@ aliases:
 swadesh: 94
 date-last-perfect: 2026-02-17
 品詞: 事詞
+kwin: false
 tags:
   - character
 ---

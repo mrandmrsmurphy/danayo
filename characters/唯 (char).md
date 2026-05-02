@@ -43,6 +43,7 @@ stand_in: 唯
 aliases:
   - 惟
 注音: ⼶ㄧ
+kwin: false
 tags:
   - character
 ---

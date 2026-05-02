@@ -34,6 +34,7 @@ stand_in: "釘"
 aliases:
   - 钉
 注音: "ㄉㄝㄫ"
+kwin: false
 tags:
   - character
 ---

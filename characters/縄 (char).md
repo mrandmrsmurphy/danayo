@@ -36,6 +36,7 @@ aliases:
   - 繩
   - 绳
 注音: ㄙㄜㄫ
+kwin: true
 tags:
   - character
 ---

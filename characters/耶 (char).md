@@ -29,6 +29,7 @@ graphemic_classification: "牙"
 stand_in: "耶"
 aliases:
 注音: "⼶"
+kwin: false
 tags:
   - character
 ---

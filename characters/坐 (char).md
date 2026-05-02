@@ -31,6 +31,7 @@ stand_in: "坐"
 aliases:
   - 座
 注音: "ㄐ⺢"
+kwin: true
 tags:
   - character
 ---

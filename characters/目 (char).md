@@ -28,6 +28,7 @@ mc_id: 462
 graphemic_classification: 象形
 stand_in: 目
 注音: ㄇㄨㄎ
+kwin: false
 tags:
   - character
 ---

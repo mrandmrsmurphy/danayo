@@ -26,6 +26,7 @@ stand_in: 輩
 aliases:
   - 辈
 注音: ㄅㄛㄧ
+kwin: false
 tags:
   - character
 ---

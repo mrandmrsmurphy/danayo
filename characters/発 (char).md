@@ -36,6 +36,7 @@ aliases:
   - 醱
   - 潑
 注音: ㄈㄚㄊ
+kwin: false
 tags:
   - character
 ---

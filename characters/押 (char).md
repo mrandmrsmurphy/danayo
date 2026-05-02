@@ -38,6 +38,7 @@ stand_in: 押
 aliases:
   - 狎
 注音: ㄚㄆ
+kwin: true
 tags:
   - character
 ---

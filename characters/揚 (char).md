@@ -36,6 +36,7 @@ stand_in: "揚"
 aliases:
   - 扬
 注音: "⼘ㄫ"
+kwin: true
 tags:
   - character
 ---

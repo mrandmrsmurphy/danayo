@@ -31,6 +31,7 @@ aliases:
   - 麵
   - 麪
 注音: ㄇㄝㄋ
+kwin: false
 tags:
   - character
 ---

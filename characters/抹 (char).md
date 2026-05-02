@@ -29,6 +29,7 @@ graphemic_classification: "末"
 stand_in: "抹"
 aliases:
 注音: "ㄇㄚㄊ"
+kwin: true
 tags:
   - character
 ---

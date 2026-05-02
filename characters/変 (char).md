@@ -31,6 +31,7 @@ aliases:
   - 變
 品詞: 性詞
 注音: ㄅ⼶ㄋ
+kwin: true
 tags:
   - character
 ---

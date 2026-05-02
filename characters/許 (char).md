@@ -39,6 +39,7 @@ aliases:
   - 滸
   - 浒
 注音: "ㄏ⼄"
+kwin: false
 tags:
   - character
 ---

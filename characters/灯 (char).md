@@ -31,6 +31,7 @@ stand_in: "灯"
 aliases:
   - 燈
 注音: "ㄉㄨㄫ"
+kwin: false
 tags:
   - character
 ---

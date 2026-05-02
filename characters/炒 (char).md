@@ -32,6 +32,7 @@ graphemic_classification: "少"
 stand_in: "炒"
 aliases:
 注音: "ㄑㄚㄨ"
+kwin: false
 tags:
   - character
 ---

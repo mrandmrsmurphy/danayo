@@ -32,6 +32,7 @@ stand_in: "谷"
 aliases:
   - 穀
 注音: "ㄍㄛㄎ"
+kwin: true
 tags:
   - character
 ---

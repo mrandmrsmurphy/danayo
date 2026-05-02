@@ -31,6 +31,7 @@ stand_in: "矩"
 aliases:
   - 榘
 注音: "ㄎ⼄"
+kwin: false
 tags:
   - character
 ---

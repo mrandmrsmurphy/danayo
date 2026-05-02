@@ -33,6 +33,7 @@ aliases:
   - 𤻮
   - 应
 注音: ㄧㄫ
+kwin: false
 tags:
   - character
 ---

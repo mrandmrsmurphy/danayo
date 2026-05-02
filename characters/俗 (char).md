@@ -29,6 +29,7 @@ graphemic_classification: "谷"
 stand_in: "俗"
 aliases:
 注音: "ㄙㄛㄎ"
+kwin: true
 tags:
   - character
 ---

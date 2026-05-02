@@ -28,6 +28,7 @@ graphemic_classification: "雍"
 stand_in: "壅"
 aliases:
 注音: "ㄛㄫ"
+kwin: true
 tags:
   - character
 ---

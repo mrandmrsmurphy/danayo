@@ -30,6 +30,7 @@ graphemic_classification: "炎"
 stand_in: "痰"
 aliases:
 注音: "ㄉㄚㄇ"
+kwin: true
 tags:
   - character
 ---

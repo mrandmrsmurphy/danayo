@@ -32,6 +32,7 @@ stand_in: 惨
 aliases:
   - 慘
 注音: ㄑㄚㄇ
+kwin: true
 tags:
   - character
 ---

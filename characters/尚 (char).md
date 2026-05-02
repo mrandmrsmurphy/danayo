@@ -32,6 +32,7 @@ stand_in: 尚
 aliases:
   - 尙
 注音: ㄙ⼘ㄫ
+kwin: false
 tags:
   - character
 ---

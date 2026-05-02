@@ -29,6 +29,7 @@ graphemic_classification: "殳"
 stand_in: "投"
 aliases:
 注音: "ㄉㄛㄨ"
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ graphemic_classification: "又"
 stand_in: "灰"
 aliases:
 注音: "ㄏㄛㄧ"
+kwin: true
 tags:
   - character
 ---

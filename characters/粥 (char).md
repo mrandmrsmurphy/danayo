@@ -31,6 +31,7 @@ stand_in: "粥"
 aliases:
   - 鬻
 注音: "ㄐㄨㄎ"
+kwin: true
 tags:
   - character
 ---

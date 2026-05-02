@@ -32,6 +32,7 @@ aliases:
   - 點
   - 奌
 注音: ㄉㄝㄇ
+kwin: false
 tags:
   - character
 ---

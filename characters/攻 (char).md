@@ -30,6 +30,7 @@ graphemic_classification: "工"
 stand_in: "攻"
 aliases:
 注音: "ㄍㄛㄫ"
+kwin: true
 tags:
   - character
 ---

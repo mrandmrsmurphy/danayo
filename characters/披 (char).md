@@ -24,6 +24,7 @@ mc_id: "2226"
 graphemic_classification: 皮
 stand_in: 披
 注音: ㄆㄨㄧ
+kwin: false
 tags:
   - character
 ---

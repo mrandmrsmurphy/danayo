@@ -36,6 +36,7 @@ graphemic_classification: "白"
 stand_in: "拍"
 aliases:
 注音: "ㄆㄚㄎ"
+kwin: false
 tags:
   - character
 ---

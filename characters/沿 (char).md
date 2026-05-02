@@ -29,6 +29,7 @@ graphemic_classification: 㕣
 stand_in: 沿
 aliases:
 注音: ⼔ㄇ
+kwin: false
 tags:
   - character
 ---

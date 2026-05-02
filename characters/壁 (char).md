@@ -24,6 +24,7 @@ mc_id: 1539
 graphemic_classification: 辟
 stand_in: 壁
 注音: ㄅㄝㄎ
+kwin: false
 tags:
   - character
 ---

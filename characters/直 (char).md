@@ -33,6 +33,7 @@ graphemic_classification: "會意"
 stand_in: "直"
 aliases:
 注音: "ㄐㄧㄊ"
+kwin: true
 tags:
   - character
 ---

@@ -34,6 +34,7 @@ graphemic_classification: "毎"
 stand_in: "敏"
 aliases:
 注音: "ㄇㄧㄋ"
+kwin: true
 tags:
   - character
 ---

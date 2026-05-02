@@ -29,6 +29,7 @@ aliases:
   - 蠍
 注音: ㄏ⼶ㄊ
 date-last-perfect: 2026-03-15
+kwin: false
 tags:
   - character
 ---

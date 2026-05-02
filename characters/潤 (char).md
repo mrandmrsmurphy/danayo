@@ -33,6 +33,7 @@ stand_in: "潤"
 aliases:
   - 润
 注音: "ㄋㄨㄋ"
+kwin: false
 tags:
   - character
 ---

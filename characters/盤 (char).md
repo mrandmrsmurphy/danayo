@@ -33,6 +33,7 @@ aliases:
   - 蟠
   - 槃
 注音: "ㄅㄚㄋ"
+kwin: true
 tags:
   - character
 ---

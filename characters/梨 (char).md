@@ -28,6 +28,7 @@ graphemic_classification: "利"
 stand_in: "梨"
 aliases:
 注音: "ㄌㄧㄜ"
+kwin: false
 tags:
   - character
 ---

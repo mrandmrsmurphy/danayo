@@ -33,6 +33,7 @@ stand_in: "蟄"
 aliases:
   - 蛰
 注音: "ㄑㄧㄆ"
+kwin: true
 tags:
   - character
 ---

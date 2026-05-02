@@ -34,6 +34,7 @@ graphemic_classification: "卑"
 stand_in: "牌"
 aliases:
 注音: "ㄅㄚㄧ"
+kwin: false
 tags:
   - character
 ---

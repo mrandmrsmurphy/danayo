@@ -33,6 +33,7 @@ graphemic_classification: 占
 stand_in: 帖
 aliases:
 注音: ㄊㄛㄆ
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ aliases:
   - 鷄
   - 鸡
 注音: ㄍㄝㄧ
+kwin: false
 tags:
   - character
 ---

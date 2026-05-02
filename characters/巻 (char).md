@@ -34,6 +34,7 @@ aliases:
   - 捲
   - 巷
 注音: ㄍ⼔ㄋ
+kwin: true
 tags:
   - character
 ---

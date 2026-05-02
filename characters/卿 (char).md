@@ -33,6 +33,7 @@ graphemic_classification: 會意
 stand_in: 卿
 aliases:
 注音: ㄎ⼶ㄫ
+kwin: false
 tags:
   - character
 ---

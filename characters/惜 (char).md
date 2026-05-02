@@ -31,6 +31,7 @@ graphemic_classification: "昔"
 stand_in: "惜"
 aliases:
 注音: "ㄙㄝㄎ"
+kwin: true
 tags:
   - character
 ---

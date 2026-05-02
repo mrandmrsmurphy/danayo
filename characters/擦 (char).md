@@ -34,6 +34,7 @@ graphemic_classification: "察"
 stand_in: "擦"
 aliases:
 注音: "ㄑㄚㄊ"
+kwin: true
 tags:
   - character
 ---

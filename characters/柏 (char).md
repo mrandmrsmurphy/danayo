@@ -31,6 +31,7 @@ stand_in: 柏
 aliases:
   - 栢
 注音: ㄅ⼘ㄎ
+kwin: false
 tags:
   - character
 ---

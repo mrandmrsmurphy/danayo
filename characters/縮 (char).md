@@ -30,6 +30,7 @@ stand_in: "縮"
 aliases:
   - 缩
 注音: "ㄙㄨㄎ"
+kwin: false
 tags:
   - character
 ---

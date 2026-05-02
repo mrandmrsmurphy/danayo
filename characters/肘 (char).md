@@ -30,6 +30,7 @@ stand_in: "肘"
 aliases:
   - 肱
 注音: "ㄐㄨㄇ"
+kwin: false
 tags:
   - character
 ---

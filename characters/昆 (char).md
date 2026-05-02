@@ -32,6 +32,7 @@ stand_in: "昆"
 aliases:
   - 錕
 注音: "ㄍㄛㄋ"
+kwin: true
 tags:
   - character
 ---

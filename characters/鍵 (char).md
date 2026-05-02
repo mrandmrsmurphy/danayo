@@ -30,6 +30,7 @@ aliases:
   - 騫
   - 键
 注音: "ㄍ⼶ㄋ"
+kwin: false
 tags:
   - character
 ---

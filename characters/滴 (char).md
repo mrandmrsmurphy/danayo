@@ -33,6 +33,7 @@ graphemic_classification: "帝"
 stand_in: "滴"
 aliases:
 注音: "ㄉㄝㄎ"
+kwin: false
 tags:
   - character
 ---

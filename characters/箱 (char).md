@@ -34,6 +34,7 @@ graphemic_classification: "相"
 stand_in: "箱"
 aliases:
 注音: "ㄙㄚㄫ"
+kwin: true
 tags:
   - character
 ---

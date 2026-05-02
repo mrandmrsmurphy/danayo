@@ -38,6 +38,7 @@ stand_in: "鉗"
 aliases:
   - 钳
 注音: "ㄍㄝㄇ"
+kwin: false
 tags:
   - character
 ---

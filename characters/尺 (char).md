@@ -32,6 +32,7 @@ aliases:
   - 睪
 注音: ㄑㄝㄎ
 date-last-perfect: 2026-04-01
+kwin: true
 tags:
   - character
 ---

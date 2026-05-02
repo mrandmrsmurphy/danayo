@@ -32,6 +32,7 @@ stand_in: 松
 aliases:
   - 鬆
 注音: ㄙ⼄ㄫ
+kwin: false
 tags:
   - character
 ---

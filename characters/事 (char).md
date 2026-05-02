@@ -31,6 +31,7 @@ stand_in: "事"
 aliases:
   - 亊
 注音: "ㄐㄧ"
+kwin: false
 tags:
   - character
 ---

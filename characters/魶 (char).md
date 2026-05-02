@@ -29,6 +29,7 @@ stand_in: 魶
 aliases:
   - 𱇔
 注音: ㄋㄨㄆ
+kwin: false
 tags:
   - character
   - hapax

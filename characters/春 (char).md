@@ -30,6 +30,7 @@ stand_in: 春
 aliases:
   - 萅
 注音: ㄑㄨㄋ
+kwin: true
 tags:
   - character
 ---

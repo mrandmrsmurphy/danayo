@@ -32,6 +32,7 @@ graphemic_classification: "高"
 stand_in: "敲"
 aliases:
 注音: "ㄎ⼘ㄨ"
+kwin: false
 tags:
   - character
 ---

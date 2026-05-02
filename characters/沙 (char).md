@@ -38,6 +38,7 @@ aliases:
   - 娑
   - 䓾
 注音: "ㄙㄚ"
+kwin: true
 tags:
   - character
 ---

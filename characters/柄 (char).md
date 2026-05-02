@@ -30,6 +30,7 @@ graphemic_classification: "丙"
 stand_in: "柄"
 aliases:
 注音: "ㄅ⼶ㄫ"
+kwin: true
 tags:
   - character
 ---

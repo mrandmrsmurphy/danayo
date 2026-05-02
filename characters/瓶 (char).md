@@ -31,6 +31,7 @@ graphemic_classification: 并
 stand_in: 瓶
 aliases:
 注音: ㄅㄝㄫ
+kwin: false
 tags:
   - character
 ---

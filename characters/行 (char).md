@@ -36,6 +36,7 @@ graphemic_classification: 指事
 stand_in: 行
 aliases:
 注音: ㄏㄚㄫ
+kwin: false
 tags:
   - character
 ---

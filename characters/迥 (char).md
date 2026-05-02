@@ -32,6 +32,7 @@ graphemic_classification: "冋"
 stand_in: "迥"
 aliases:
 注音: "ㄏㄧㄫ"
+kwin: false
 tags:
   - character
 ---

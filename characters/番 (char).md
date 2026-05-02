@@ -34,6 +34,7 @@ stand_in: 番
 aliases:
   - 鄱
 注音: ㄈㄚㄋ
+kwin: false
 tags:
   - character
 ---

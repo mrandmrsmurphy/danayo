@@ -30,6 +30,7 @@ stand_in: 報
 aliases:
   - 报
 注音: ㄅㄚㄨ
+kwin: false
 tags:
   - character
 ---

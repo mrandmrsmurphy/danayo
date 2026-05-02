@@ -31,6 +31,7 @@ aliases:
   - 搖
   - 摇
 注音: ⼄ㄨ
+kwin: false
 tags:
   - character
 ---

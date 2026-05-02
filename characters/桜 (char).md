@@ -31,6 +31,7 @@ stand_in: 桜
 aliases:
   - 櫻
 注音: ㄚㄫ
+kwin: false
 tags:
   - character
 ---

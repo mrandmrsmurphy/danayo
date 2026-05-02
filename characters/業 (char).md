@@ -32,6 +32,7 @@ stand_in: 業
 aliases:
   - 业
 注音: ㄝㄆ
+kwin: true
 tags:
   - character
 ---

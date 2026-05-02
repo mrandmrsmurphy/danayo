@@ -33,6 +33,7 @@ graphemic_classification: "會意"
 stand_in: "般"
 aliases:
 注音: "ㄅㄚㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: 危
 stand_in: 跪
 date-last-perfect: 2026-02-25
 注音: ㄎ⼔ㄧ
+kwin: false
 tags:
   - character
 ---

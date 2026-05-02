@@ -30,6 +30,7 @@ graphemic_classification: "匕"
 stand_in: "此"
 aliases:
 注音: "ㄑㄜ"
+kwin: false
 tags:
   - character
 ---

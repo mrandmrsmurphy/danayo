@@ -28,6 +28,7 @@ graphemic_classification: "由"
 stand_in: "袖"
 aliases:
 注音: "ㄙㄨㄛ"
+kwin: false
 tags:
   - character
 ---

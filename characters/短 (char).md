@@ -29,6 +29,7 @@ graphemic_classification: 豆
 stand_in: 短
 aliases:
 注音: ㄉ⺢ㄋ
+kwin: false
 tags:
   - character
 ---

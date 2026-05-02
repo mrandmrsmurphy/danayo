@@ -30,6 +30,7 @@ aliases:
   - 雜
   - 杂
 注音: ㄐㄚㄆ
+kwin: true
 tags:
   - character
 ---

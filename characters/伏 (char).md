@@ -34,6 +34,7 @@ stand_in: 伏
 aliases:
   - 鮲
 注音: ㄅㄨㄎ
+kwin: false
 tags:
   - character
 ---

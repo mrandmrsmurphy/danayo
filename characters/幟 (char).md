@@ -30,6 +30,7 @@ stand_in: "幟"
 aliases:
   - 帜
 注音: "ㄑㄧ"
+kwin: true
 tags:
   - character
 ---

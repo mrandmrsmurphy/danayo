@@ -31,6 +31,7 @@ stand_in: "袂"
 aliases:
   - 𣍐
 注音: "ㄇㄝ"
+kwin: false
 tags:
   - character
 ---

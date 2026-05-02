@@ -31,6 +31,7 @@ graphemic_classification: "咅"
 stand_in: "陪"
 aliases:
 注音: "ㄅㄛㄧ"
+kwin: false
 tags:
   - character
 ---

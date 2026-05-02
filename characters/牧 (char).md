@@ -30,6 +30,7 @@ graphemic_classification: "攵"
 stand_in: "牧"
 aliases:
 注音: "ㄇㄨㄎ"
+kwin: false
 tags:
   - character
 ---

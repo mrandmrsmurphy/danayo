@@ -32,6 +32,7 @@ stand_in: 借
 aliases:
   - 藉
 注音: ㄐㄚ
+kwin: false
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "隼"
 aliases:
 注音: "ㄙ⼜ㄫ"
+kwin: false
 tags:
   - character
 ---

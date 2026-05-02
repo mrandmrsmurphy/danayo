@@ -31,6 +31,7 @@ stand_in: "雖"
 aliases:
   - 虽
 注音: "ㄙㄨㄧ"
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ graphemic_classification: "甫"
 stand_in: "捕"
 aliases:
 注音: "ㄅㄛ"
+kwin: false
 tags:
   - character
 ---

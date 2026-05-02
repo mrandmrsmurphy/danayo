@@ -35,6 +35,7 @@ stand_in: "課"
 aliases:
   - 课
 注音: "ㄎ⺢ㄇ"
+kwin: false
 tags:
   - character
 ---

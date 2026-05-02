@@ -28,6 +28,7 @@ graphemic_classification: "官"
 stand_in: "棺"
 aliases:
 注音: "ㄍ⺢ㄋ"
+kwin: true
 tags:
   - character
 ---

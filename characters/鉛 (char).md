@@ -30,6 +30,7 @@ stand_in: 鉛
 aliases:
   - 铅
 注音: ⼶ㄋ
+kwin: true
 tags:
   - character
 ---

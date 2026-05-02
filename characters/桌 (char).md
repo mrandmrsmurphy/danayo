@@ -26,6 +26,7 @@ stand_in: 桌
 aliases:
   - 槕
 注音: ㄊㄚㄎ
+kwin: true
 tags:
   - character
 ---

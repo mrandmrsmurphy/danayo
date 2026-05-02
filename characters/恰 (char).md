@@ -30,6 +30,7 @@ graphemic_classification: 合
 stand_in: 恰
 aliases:
 注音: ㄎㄚㄆ
+kwin: false
 tags:
   - character
 ---

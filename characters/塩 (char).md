@@ -31,6 +31,7 @@ aliases:
   - 鹽
   - 盐
 注音: ⼶ㄇ
+kwin: true
 tags:
   - character
 ---

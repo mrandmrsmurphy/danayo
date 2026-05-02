@@ -32,6 +32,7 @@ graphemic_classification: "最"
 stand_in: "撮"
 aliases:
 注音: "ㄐ⺢ㄊ"
+kwin: false
 tags:
   - character
 ---

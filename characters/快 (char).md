@@ -33,6 +33,7 @@ graphemic_classification: "叏"
 stand_in: "快"
 aliases:
 注音: "ㄎ⺢ㄧ"
+kwin: true
 tags:
   - character
 ---

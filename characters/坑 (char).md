@@ -30,6 +30,7 @@ graphemic_classification: "亢"
 stand_in: "坑"
 aliases:
 注音: "ㄎㄚㄫ"
+kwin: false
 tags:
   - character
 ---

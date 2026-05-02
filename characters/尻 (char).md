@@ -32,6 +32,7 @@ aliases:
   - 𡱂
   - 㞍
 注音: "ㄎㄚㄨ"
+kwin: false
 tags:
   - character
 ---

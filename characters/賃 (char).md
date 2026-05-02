@@ -30,6 +30,7 @@ stand_in: 賃
 aliases:
   - 赁
 注音: ㄋㄧㄇ
+kwin: false
 tags:
   - character
 ---

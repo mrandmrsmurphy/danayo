@@ -32,6 +32,7 @@ stand_in: "弦"
 aliases:
   - 絃
 注音: "ㄏㄝㄋ"
+kwin: false
 tags:
   - character
 ---

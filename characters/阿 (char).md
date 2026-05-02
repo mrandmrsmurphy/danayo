@@ -30,6 +30,7 @@ stand_in: 阿
 aliases:
   - 啊
 注音: ㄚ
+kwin: true
 tags:
   - character
 ---

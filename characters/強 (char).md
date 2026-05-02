@@ -39,6 +39,7 @@ aliases:
   - 彊
   - 强
 注音: ㄍ⼘ㄫ
+kwin: false
 tags:
   - character
 ---

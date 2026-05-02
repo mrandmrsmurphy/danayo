@@ -32,6 +32,7 @@ aliases:
   - 蟬
   - 蟺
 注音: ㄙㄝㄋ
+kwin: true
 tags:
   - character
 ---

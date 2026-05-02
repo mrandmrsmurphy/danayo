@@ -29,6 +29,7 @@ stand_in: 懐
 aliases:
   - 懷
 注音: ㄏ⺢ㄧ
+kwin: false
 tags:
   - character
 ---

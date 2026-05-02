@@ -31,6 +31,7 @@ aliases:
   - 惡
   - 恶
 注音: ㄚㄎ
+kwin: true
 tags:
   - character
 ---

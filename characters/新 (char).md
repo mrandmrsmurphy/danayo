@@ -29,6 +29,7 @@ graphemic_classification: 亲
 stand_in: 新
 注音: ㄙㄧㄋ
 date-last-perfect: 2026-03-17
+kwin: true
 tags:
   - character
 ---

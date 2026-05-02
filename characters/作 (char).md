@@ -31,6 +31,7 @@ stand_in: "作"
 aliases:
   - 做
 注音: "ㄐㄚㄎ"
+kwin: true
 tags:
   - character
 ---

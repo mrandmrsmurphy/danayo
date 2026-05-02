@@ -37,6 +37,7 @@ stand_in: "令"
 aliases:
   - 囹
 注音: "ㄌㄝㄫ"
+kwin: false
 tags:
   - character
 ---

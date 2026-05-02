@@ -31,6 +31,7 @@ aliases:
   - 彌
   - 瀰
 注音: ㄇㄝ
+kwin: false
 tags:
   - character
 ---

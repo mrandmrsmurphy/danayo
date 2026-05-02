@@ -34,6 +34,7 @@ stand_in: 力
 aliases:
   - 𠠲
 注音: ㄌㄧㄎ
+kwin: false
 tags:
   - character
 date-last-perfect: 2026-04-30

@@ -31,6 +31,7 @@ aliases: 蝨
 注音: ㄙㄛㄊ
 date-last-perfect: 2026-03-13
 品詞: 名詞
+kwin: false
 tags:
   - character
 ---

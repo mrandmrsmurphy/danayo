@@ -30,6 +30,7 @@ graphemic_classification: "或"
 stand_in: "惑"
 aliases:
 注音: "ㄏㄛㄎ"
+kwin: true
 tags:
   - character
 ---

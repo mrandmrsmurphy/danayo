@@ -29,6 +29,7 @@ graphemic_classification: "就"
 stand_in: "蹴"
 aliases:
 注音: "ㄑㄨㄎ"
+kwin: true
 tags:
   - character
 ---

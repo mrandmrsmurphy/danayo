@@ -30,6 +30,7 @@ aliases:
   - 遲
   - 迟
 注音: ㄑㄧㄜ
+kwin: false
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ graphemic_classification: 孚
 stand_in: 浮
 aliases:
 注音: ㄅㄨㄛ
+kwin: false
 tags:
   - character
 ---

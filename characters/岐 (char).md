@@ -30,6 +30,7 @@ stand_in: "岐"
 aliases:
   - 歧
 注音: "ㄍㄝ"
+kwin: false
 tags:
   - character
 ---

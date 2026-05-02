@@ -31,6 +31,7 @@ graphemic_classification: 共
 stand_in: 拱
 aliases:
 注音: ㄍ⼄ㄫ
+kwin: false
 tags:
   - character
 ---

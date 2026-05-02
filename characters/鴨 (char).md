@@ -30,6 +30,7 @@ stand_in: "鴨"
 aliases:
   - 鸭
 注音: "ㄚㄆ"
+kwin: true
 tags:
   - character
 ---

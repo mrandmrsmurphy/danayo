@@ -26,6 +26,7 @@ stand_in: 穂
 aliases:
   - 穗
 注音: ㄙㄨㄧ
+kwin: false
 tags:
   - character
 ---

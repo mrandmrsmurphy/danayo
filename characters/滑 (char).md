@@ -31,6 +31,7 @@ stand_in: 滑
 aliases:
   - 猾
 注音: ㄏ⺢ㄊ
+kwin: true
 tags:
   - character
 ---

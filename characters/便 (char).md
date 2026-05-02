@@ -32,6 +32,7 @@ graphemic_classification: 便
 stand_in: 便
 aliases:
 注音: ㄅ⼶ㄋ
+kwin: false
 tags:
   - character
 ---

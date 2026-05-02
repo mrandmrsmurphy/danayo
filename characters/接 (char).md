@@ -29,6 +29,7 @@ graphemic_classification: "妾"
 stand_in: "接"
 aliases:
 注音: "ㄐㄛㄆ"
+kwin: false
 tags:
   - character
 ---

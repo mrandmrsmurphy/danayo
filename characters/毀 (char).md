@@ -30,6 +30,7 @@ stand_in: 毀
 aliases:
   - 毁
 注音: ㄏ⼔ㄧ
+kwin: true
 tags:
   - character
 ---

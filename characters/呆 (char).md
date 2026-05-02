@@ -36,6 +36,7 @@ stand_in: "呆"
 aliases:
   - 獃
 注音: "ㄇㄚㄧ"
+kwin: true
 tags:
   - character
 ---

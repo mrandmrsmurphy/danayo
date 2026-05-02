@@ -30,6 +30,7 @@ graphemic_classification: "會意"
 stand_in: "套"
 aliases:
 注音: "ㄊㄛㄨ"
+kwin: false
 tags:
   - character
 ---

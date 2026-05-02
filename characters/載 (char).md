@@ -32,6 +32,7 @@ stand_in: "載"
 aliases:
   - 载
 注音: "ㄐㄚㄧ"
+kwin: true
 tags:
   - character
 ---

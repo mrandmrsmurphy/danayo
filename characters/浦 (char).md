@@ -29,6 +29,7 @@ graphemic_classification: 甫
 stand_in: 浦
 aliases:
 注音: ㄆㄛ
+kwin: true
 tags:
   - character
 ---

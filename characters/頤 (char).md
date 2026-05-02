@@ -29,6 +29,7 @@ stand_in: "頤"
 aliases:
   - 颐
 注音: "ㄧ"
+kwin: true
 tags:
   - character
 ---

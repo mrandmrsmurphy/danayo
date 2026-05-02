@@ -29,6 +29,7 @@ graphemic_classification: "屈"
 stand_in: "窟"
 aliases:
 注音: "ㄎㄛㄊ"
+kwin: false
 tags:
   - character
 ---

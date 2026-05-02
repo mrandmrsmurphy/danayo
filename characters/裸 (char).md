@@ -30,6 +30,7 @@ graphemic_classification: 果
 stand_in: 裸
 aliases:
 注音: ㄌㄚ
+kwin: true
 tags:
   - character
 ---

@@ -34,6 +34,7 @@ aliases:
   - 廻
   - 蛔
 注音: "ㄏㄛㄧ"
+kwin: true
 tags:
   - character
 ---

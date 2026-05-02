@@ -31,6 +31,7 @@ stand_in: 兄
 aliases:
 注音: ㄏ⼄ㄫ
 date-last-perfect: 2026-02-24
+kwin: false
 tags:
   - character
 ---

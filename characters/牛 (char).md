@@ -32,6 +32,7 @@ graphemic_classification: "象形"
 stand_in: "牛"
 aliases:
 注音: "ㄋ⼜"
+kwin: false
 tags:
   - character
 ---

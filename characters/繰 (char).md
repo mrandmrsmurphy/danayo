@@ -29,6 +29,7 @@ stand_in: 繰
 aliases:
   - 缲
 注音: ㄐㄚㄨ
+kwin: false
 tags:
   - character
 ---

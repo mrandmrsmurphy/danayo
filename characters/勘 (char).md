@@ -30,6 +30,7 @@ graphemic_classification: "甚"
 stand_in: "勘"
 aliases:
 注音: "ㄎㄚㄇ"
+kwin: false
 tags:
   - character
 ---

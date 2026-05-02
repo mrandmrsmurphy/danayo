@@ -29,6 +29,7 @@ graphemic_classification: "永"
 stand_in: "泳"
 aliases:
 注音: "ㄨㄧㄫ"
+kwin: false
 tags:
   - character
 ---

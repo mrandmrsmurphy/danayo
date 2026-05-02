@@ -38,6 +38,7 @@ stand_in: "掛"
 aliases:
   - 挂
 注音: "ㄍ⺢ㄧ"
+kwin: true
 tags:
   - character
 ---

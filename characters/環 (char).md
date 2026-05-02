@@ -30,6 +30,7 @@ stand_in: "環"
 aliases:
   - 环
 注音: "ㄏ⺢ㄋ"
+kwin: true
 tags:
   - character
 ---

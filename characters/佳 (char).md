@@ -33,6 +33,7 @@ graphemic_classification: 圭
 stand_in: 佳
 aliases:
 注音: ㄍ⼘ㄧ
+kwin: false
 tags:
   - character
 ---

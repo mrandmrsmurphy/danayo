@@ -31,6 +31,7 @@ stand_in: 禅
 aliases:
   - 禪
 注音: ㄙㄝㄋ
+kwin: true
 tags:
   - character
 ---

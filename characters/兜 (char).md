@@ -28,6 +28,7 @@ graphemic_classification: "象形"
 stand_in: "兜"
 aliases:
 注音: "ㄉㄨ"
+kwin: true
 tags:
   - character
 ---

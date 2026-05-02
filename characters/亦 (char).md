@@ -29,6 +29,7 @@ graphemic_classification: "指事"
 stand_in: "亦"
 aliases:
 注音: "ㄜㄎ"
+kwin: false
 tags:
   - character
 ---

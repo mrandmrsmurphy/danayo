@@ -29,6 +29,7 @@ stand_in: "頗"
 aliases:
   - 颇
 注音: "ㄈㄚ"
+kwin: false
 tags:
   - character
   - hapax

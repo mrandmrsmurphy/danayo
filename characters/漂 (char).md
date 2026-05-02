@@ -39,6 +39,7 @@ graphemic_classification: "票"
 stand_in: "漂"
 aliases:
 注音: "ㄆ⼄"
+kwin: true
 tags:
   - character
 ---

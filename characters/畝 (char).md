@@ -32,6 +32,7 @@ aliases:
   - 畮
   - 亩
 注音: "ㄇㄛㄨ"
+kwin: false
 tags:
   - character
 ---

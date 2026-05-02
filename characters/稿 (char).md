@@ -32,6 +32,7 @@ graphemic_classification: "高"
 stand_in: "稿"
 aliases:
 注音: "ㄍㄚㄨ"
+kwin: false
 tags:
   - character
 ---

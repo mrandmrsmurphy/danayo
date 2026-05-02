@@ -38,6 +38,7 @@ aliases:
   - 沱
   - 沲
 注音: ㄊㄜ
+kwin: false
 tags:
   - 
   - character

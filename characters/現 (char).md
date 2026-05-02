@@ -33,6 +33,7 @@ stand_in: "現"
 aliases:
   - 现
 注音: "ㄏ⼶ㄋ"
+kwin: true
 tags:
   - character
 ---

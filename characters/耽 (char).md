@@ -31,6 +31,7 @@ stand_in: "耽"
 aliases:
   - 㽎
 注音: "ㄉㄛㄇ"
+kwin: false
 tags:
   - character
 ---

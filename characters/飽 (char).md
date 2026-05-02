@@ -32,6 +32,7 @@ stand_in: "飽"
 aliases:
   - 饱
 注音: "ㄅ⼘ㄨ"
+kwin: false
 tags:
   - character
 ---

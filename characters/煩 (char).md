@@ -30,6 +30,7 @@ stand_in: "煩"
 aliases:
   - 烦
 注音: "ㄈㄛㄇ"
+kwin: false
 tags:
   - character
   - hapax

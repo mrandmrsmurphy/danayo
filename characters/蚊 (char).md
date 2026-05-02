@@ -30,6 +30,7 @@ graphemic_classification: "文"
 stand_in: "蚊"
 aliases:
 注音: "ㄇㄨㄋ"
+kwin: true
 tags:
   - character
 ---

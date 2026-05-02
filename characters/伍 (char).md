@@ -28,6 +28,7 @@ graphemic_classification: 五
 stand_in: 伍
 aliases:
 注音: ㄛ
+kwin: true
 tags:
   - character
 ---

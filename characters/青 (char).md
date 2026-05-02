@@ -32,6 +32,7 @@ aliases:
   - 𤯞
   - 菁
 注音: ㄑㄝㄫ
+kwin: true
 tags:
   - character
 ---

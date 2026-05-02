@@ -26,6 +26,7 @@ stand_in: 曇
 aliases:
   - 昙
 注音: ㄉㄚㄇ
+kwin: true
 tags:
   - character
 ---

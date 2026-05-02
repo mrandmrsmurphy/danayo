@@ -29,6 +29,7 @@ graphemic_classification: "里"
 stand_in: "浬"
 aliases:
 注音: "ㄌㄧ"
+kwin: true
 tags:
   - character
 ---

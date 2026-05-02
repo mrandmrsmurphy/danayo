@@ -30,6 +30,7 @@ graphemic_classification: "包"
 stand_in: "鞄"
 aliases:
 注音: "ㄆㄚㄎ"
+kwin: false
 tags:
   - character
 ---

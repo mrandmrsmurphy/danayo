@@ -29,6 +29,7 @@ graphemic_classification: 象形
 stand_in: 毛
 aliases:
 注音: ㄇㄚㄨ
+kwin: false
 tags:
   - character
 ---

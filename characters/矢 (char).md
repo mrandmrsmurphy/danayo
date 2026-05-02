@@ -28,6 +28,7 @@ graphemic_classification: "象形"
 stand_in: "矢"
 aliases:
 注音: "ㄙㄧㄜ"
+kwin: false
 tags:
   - character
 ---

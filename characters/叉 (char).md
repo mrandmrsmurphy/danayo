@@ -37,6 +37,7 @@ aliases:
   - 紁
 注音: ㄑㄚㄧ
 date-last-perfect: 2026-03-24
+kwin: false
 tags:
   - character
 ---

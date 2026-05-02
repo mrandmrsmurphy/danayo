@@ -30,6 +30,7 @@ graphemic_classification: 會意
 stand_in: 夏
 aliases:
 注音: ㄏ⼘
+kwin: false
 tags:
   - character
 ---

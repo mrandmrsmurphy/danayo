@@ -28,6 +28,7 @@ graphemic_classification: "秀"
 stand_in: "透"
 aliases:
 注音: "ㄊㄛㄨ"
+kwin: false
 tags:
   - character
 ---

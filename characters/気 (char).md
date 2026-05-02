@@ -30,6 +30,7 @@ aliases:
   - 氣
   - 气
 注音: ㄎㄧㄜ
+kwin: false
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ aliases:
   - 𡇹, 𠥱
 swadesh: "148"
 注音: ⼔ㄊ
+kwin: true
 tags:
   - character
 ---

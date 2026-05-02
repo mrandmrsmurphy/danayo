@@ -30,6 +30,7 @@ stand_in: "換"
 aliases:
   - 换
 注音: "ㄏ⺢ㄇ"
+kwin: false
 tags:
   - character
 ---

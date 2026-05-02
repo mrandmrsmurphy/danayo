@@ -36,6 +36,7 @@ graphemic_classification: 及
 stand_in: 吸
 aliases:
 注音: ㄏㄧㄆ
+kwin: false
 tags:
   - character
 ---

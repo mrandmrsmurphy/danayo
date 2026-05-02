@@ -38,6 +38,7 @@ aliases:
   - 鎭
   - 镇
 注音: ㄑㄧㄋ
+kwin: false
 tags:
   - character
 ---

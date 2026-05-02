@@ -32,6 +32,7 @@ graphemic_classification: 勇
 stand_in: 湧
 aliases:
 注音: ⼄ㄫ
+kwin: true
 tags:
   - character
 ---

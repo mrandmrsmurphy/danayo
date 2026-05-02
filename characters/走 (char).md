@@ -30,6 +30,7 @@ graphemic_classification: "象形"
 stand_in: "走"
 aliases:
 注音: "ㄙㄛㄨ"
+kwin: false
 tags:
   - character
 ---

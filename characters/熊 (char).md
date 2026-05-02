@@ -28,6 +28,7 @@ graphemic_classification: "會意"
 stand_in: "熊"
 aliases:
 注音: "ㄨㄫ"
+kwin: true
 tags:
   - character
 ---

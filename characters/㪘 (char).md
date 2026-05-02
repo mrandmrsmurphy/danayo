@@ -32,6 +32,7 @@ aliases:
   - 斂
   - 敛
 注音: "ㄌ⼶ㄇ"
+kwin: true
 tags:
   - character
 ---

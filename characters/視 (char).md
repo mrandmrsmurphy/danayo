@@ -30,6 +30,7 @@ stand_in: "視"
 aliases:
   - 视
 注音: "ㄙㄧㄜ"
+kwin: false
 tags:
   - character
 ---

@@ -36,6 +36,7 @@ stand_in: 刺
 aliases:
   - 朿
 注音: ㄑㄧㄎ
+kwin: false
 tags:
   - character
 ---

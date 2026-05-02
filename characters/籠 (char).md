@@ -35,6 +35,7 @@ stand_in: "籠"
 aliases:
   - 笼
 注音: "ㄌㄛㄫ"
+kwin: true
 tags:
   - character
 ---

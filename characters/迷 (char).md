@@ -34,6 +34,7 @@ graphemic_classification: "米"
 stand_in: "迷"
 aliases:
 注音: "ㄇㄝㄧ"
+kwin: false
 tags:
   - character
 ---

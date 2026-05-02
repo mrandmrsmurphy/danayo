@@ -30,6 +30,7 @@ graphemic_classification: "皆"
 stand_in: "楷"
 aliases:
 注音: "ㄎ⼶"
+kwin: false
 tags:
   - character
 ---

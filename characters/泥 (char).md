@@ -33,6 +33,7 @@ graphemic_classification: "尼"
 stand_in: "泥"
 aliases:
 注音: "ㄋㄝㄧ"
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ graphemic_classification: "凡"
 stand_in: "帆"
 aliases:
 注音: "ㄆㄚㄇ"
+kwin: false
 tags:
   - character
 ---

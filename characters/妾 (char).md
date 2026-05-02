@@ -29,6 +29,7 @@ graphemic_classification: "會意"
 stand_in: "妾"
 aliases:
 注音: "ㄑㄛㄆ"
+kwin: false
 tags:
   - character
 ---

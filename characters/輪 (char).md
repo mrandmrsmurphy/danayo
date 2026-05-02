@@ -34,6 +34,7 @@ stand_in: "輪"
 aliases:
   - 轮
 注音: "ㄌㄨㄋ"
+kwin: false
 tags:
   - character
 ---

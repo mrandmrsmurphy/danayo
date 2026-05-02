@@ -29,6 +29,7 @@ graphemic_classification: 指事
 stand_in: 石
 aliases:
 注音: ㄙㄝㄎ
+kwin: true
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ aliases:
   - 钟
   - 锺
 注音: "ㄐㄛㄫ"
+kwin: true
 tags:
   - character
 ---

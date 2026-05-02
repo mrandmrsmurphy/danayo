@@ -32,6 +32,7 @@ stand_in: "真"
 aliases:
   - 眞
 注音: "ㄐㄧㄋ"
+kwin: true
 tags:
   - character
 ---

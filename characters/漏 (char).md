@@ -31,6 +31,7 @@ graphemic_classification: 屚
 stand_in: 漏
 aliases:
 注音: ㄌㄛㄨ
+kwin: false
 tags:
   - character
 ---

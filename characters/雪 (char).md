@@ -31,6 +31,7 @@ aliases:
   - 鱈
   - 䨮
 注音: ㄙ⼔ㄊ
+kwin: false
 tags:
   - character
 ---

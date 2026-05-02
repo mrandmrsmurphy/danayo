@@ -38,6 +38,7 @@ stand_in: 乃
 aliases:
 品詞: 連接詞
 注音: ㄋㄚㄧ
+kwin: true
 tags:
   - character
 ---

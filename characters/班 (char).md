@@ -32,6 +32,7 @@ graphemic_classification: "會意"
 stand_in: "班"
 aliases:
 注音: "ㄆㄚㄋ"
+kwin: false
 tags:
   - character
 ---

@@ -31,6 +31,7 @@ stand_in: "解"
 aliases:
   - 獬
 注音: "ㄍ⼘ㄧ"
+kwin: false
 tags:
   - character
 ---

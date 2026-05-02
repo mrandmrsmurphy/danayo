@@ -33,6 +33,7 @@ stand_in: "鳥"
 aliases:
   - 鸟
 注音: "ㄑㄛㄨ"
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ stand_in: 颯
 aliases:
   - 飒
 注音: ㄙㄚㄆ
+kwin: true
 tags:
   - character
 ---

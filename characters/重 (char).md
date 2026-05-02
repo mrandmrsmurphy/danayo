@@ -37,6 +37,7 @@ graphemic_classification: 東
 stand_in: 重
 aliases:
 注音: ㄑㄛㄫ
+kwin: false
 tags:
   - character
 ---

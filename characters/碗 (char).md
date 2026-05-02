@@ -30,6 +30,7 @@ graphemic_classification: "宛"
 stand_in: "碗"
 aliases:
 注音: "⺢ㄋ"
+kwin: true
 tags:
   - character
 ---

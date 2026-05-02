@@ -30,6 +30,7 @@ aliases:
   - 舖
   - 铺
 注音: ㄆㄛㄨ
+kwin: false
 tags:
   - character
   - hapax

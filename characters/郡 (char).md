@@ -36,6 +36,7 @@ graphemic_classification: "君"
 stand_in: "郡"
 aliases:
 注音: "ㄍㄨㄋ"
+kwin: true
 tags:
   - character
 ---

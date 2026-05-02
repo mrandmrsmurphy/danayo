@@ -28,6 +28,7 @@ graphemic_classification: 必
 stand_in: 瑟
 aliases:
 注音: ㄙㄜㄊ
+kwin: true
 tags:
   - character
 ---

@@ -29,6 +29,7 @@ graphemic_classification: "卓"
 stand_in: "悼"
 aliases:
 注音: "ㄉㄚㄨ"
+kwin: false
 tags:
   - character
 ---

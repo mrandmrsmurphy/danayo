@@ -29,6 +29,7 @@ graphemic_classification: "莫"
 stand_in: "幕"
 aliases:
 注音: "ㄇㄚㄎ"
+kwin: true
 tags:
   - character
 ---

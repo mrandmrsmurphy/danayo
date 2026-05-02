@@ -31,6 +31,7 @@ graphemic_classification: "枼"
 stand_in: "喋"
 aliases:
 注音: "ㄉㄝㄆ"
+kwin: false
 tags:
   - character
 ---

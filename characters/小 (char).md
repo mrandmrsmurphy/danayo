@@ -29,6 +29,7 @@ stand_in: 小
 aliases:
   - 𡮐
 注音: ㄙㄛ
+kwin: true
 tags:
   - character
 ---

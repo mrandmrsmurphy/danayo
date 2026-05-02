@@ -42,6 +42,7 @@ stand_in: "繞"
 aliases:
   - 绕
 注音: "ㄋㄛㄨ"
+kwin: false
 tags:
   - character
 ---

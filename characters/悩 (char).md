@@ -29,6 +29,7 @@ stand_in: 悩
 aliases:
   - 惱
 注音: ㄋㄚㄨ
+kwin: false
 tags:
   - character
 ---

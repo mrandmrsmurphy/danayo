@@ -32,6 +32,7 @@ stand_in: 艶
 aliases:
   - 豔
 注音: ⼶ㄇ
+kwin: true
 tags:
   - character
 ---

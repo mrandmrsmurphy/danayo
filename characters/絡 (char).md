@@ -32,6 +32,7 @@ aliases:
   - 络
   - 珞
 注音: "ㄌㄚㄎ"
+kwin: true
 tags:
   - character
 ---

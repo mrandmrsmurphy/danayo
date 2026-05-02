@@ -32,6 +32,7 @@ stand_in: "蜂"
 aliases:
   - 蚌
 注音: "ㄈㄛㄫ"
+kwin: false
 tags:
   - character
 ---

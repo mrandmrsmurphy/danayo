@@ -33,6 +33,7 @@ graphemic_classification: "分"
 stand_in: "盆"
 aliases:
 注音: "ㄅㄛㄋ"
+kwin: false
 tags:
   - character
 ---

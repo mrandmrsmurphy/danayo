@@ -37,6 +37,7 @@ graphemic_classification: "念"
 stand_in: "捻"
 aliases:
 注音: "ㄋㄝㄆ"
+kwin: false
 tags:
   - character
 ---

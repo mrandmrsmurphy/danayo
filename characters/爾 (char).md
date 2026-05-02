@@ -35,6 +35,7 @@ aliases:
   - 邇
   - 尔
 注音: "ㄋㄝ"
+kwin: false
 tags:
   - character
 ---

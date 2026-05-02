@@ -29,6 +29,7 @@ graphemic_classification: 某
 stand_in: 煤
 aliases:
 注音: ㄇㄛㄧ
+kwin: false
 tags:
   - character
 ---

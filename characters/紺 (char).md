@@ -32,6 +32,7 @@ stand_in: "紺"
 aliases:
   - 绀
 注音: "ㄍㄚㄇ"
+kwin: true
 tags:
   - character
 ---

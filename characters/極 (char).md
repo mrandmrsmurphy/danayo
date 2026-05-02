@@ -35,6 +35,7 @@ stand_in: 極
 aliases:
   - 极
 注音: ㄍㄧㄎ
+kwin: false
 tags:
   - character
 ---

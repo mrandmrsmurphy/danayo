@@ -30,6 +30,7 @@ graphemic_classification: "象形"
 stand_in: "盾"
 aliases:
 注音: "ㄐㄨㄋ"
+kwin: false
 tags:
   - character
 ---

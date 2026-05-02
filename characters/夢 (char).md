@@ -36,6 +36,7 @@ aliases:
   - 梦
   - 㒱
 注音: "ㄇㄨㄫ"
+kwin: false
 tags:
   - character
 ---

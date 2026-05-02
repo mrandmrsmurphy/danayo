@@ -38,6 +38,7 @@ aliases:
   - 泗
 date-last-perfect: 2026-01-30
 注音: ㄙㄧㄜ
+kwin: false
 tags:
   - character
 ---

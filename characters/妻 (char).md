@@ -29,6 +29,7 @@ graphemic_classification: "屮"
 stand_in: "妻"
 aliases:
 注音: "ㄑㄝㄧ"
+kwin: false
 tags:
   - character
 ---

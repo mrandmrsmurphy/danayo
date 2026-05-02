@@ -30,6 +30,7 @@ aliases:
   - 帶
   - 带
 注音: ㄊㄚㄧ
+kwin: false
 tags:
   - character
 ---

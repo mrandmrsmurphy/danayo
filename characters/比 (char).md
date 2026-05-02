@@ -32,6 +32,7 @@ stand_in: "比"
 aliases:
   - 譬
 注音: "ㄅㄧㄜ"
+kwin: false
 tags:
   - character
 ---

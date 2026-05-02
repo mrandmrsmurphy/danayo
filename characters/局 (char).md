@@ -28,6 +28,7 @@ graphemic_classification: 句
 stand_in: 局
 aliases:
 注音: ㄍ⼄ㄎ
+kwin: false
 tags:
   - character
 ---

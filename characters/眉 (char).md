@@ -34,6 +34,7 @@ aliases:
   - 媚
   - 嵋
 注音: "ㄇㄧㄜ"
+kwin: false
 tags:
   - character
 ---

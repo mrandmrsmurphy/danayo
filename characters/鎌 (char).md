@@ -31,6 +31,7 @@ stand_in: "鎌"
 aliases:
   - 𰾮
 注音: "ㄌㄝㄇ"
+kwin: false
 tags:
   - character
 ---

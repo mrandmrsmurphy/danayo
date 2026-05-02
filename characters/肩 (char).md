@@ -29,6 +29,7 @@ graphemic_classification: 戸
 stand_in: 肩
 aliases:
 注音: ㄍㄝㄋ
+kwin: false
 tags:
   - character
 ---

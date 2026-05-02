@@ -33,6 +33,7 @@ stand_in: "頻"
 aliases:
   - 频
 注音: "ㄆㄧㄇ"
+kwin: false
 tags:
   - character
 ---

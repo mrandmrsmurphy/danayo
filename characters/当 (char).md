@@ -31,6 +31,7 @@ aliases:
   - 當
   - 噹
 注音: ㄉㄚㄫ
+kwin: true
 tags:
   - character
 ---

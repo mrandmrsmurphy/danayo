@@ -37,6 +37,7 @@ stand_in: "亘"
 aliases:
   - 咺
 注音: "ㄏ⺢ㄋ"
+kwin: false
 tags:
   - character
 ---

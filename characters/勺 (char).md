@@ -32,6 +32,7 @@ graphemic_classification: "象形"
 stand_in: "勺"
 aliases:
 注音: "ㄐ⺢ㄎ"
+kwin: false
 tags:
   - character
 ---

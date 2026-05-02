@@ -30,6 +30,7 @@ stand_in: 暦
 aliases:
   - 曆
 注音: ㄌㄝㄎ
+kwin: false
 tags:
   - character
 ---

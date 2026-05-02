@@ -31,6 +31,7 @@ stand_in: 鞋
 aliases:
   - 鞵
 注音: ㄏ⼘ㄧ
+kwin: false
 tags:
   - character
 ---

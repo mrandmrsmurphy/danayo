@@ -29,6 +29,7 @@ stand_in: "窺"
 aliases:
   - 窥
 注音: "ㄎㄨㄧ"
+kwin: false
 tags:
   - character
 ---

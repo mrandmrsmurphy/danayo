@@ -30,6 +30,7 @@ stand_in: 皆
 aliases:
 注音: ㄍ⼶
 date-last-perfect: 2026-03-28
+kwin: false
 tags:
   - character
 ---

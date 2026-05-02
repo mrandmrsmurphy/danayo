@@ -28,6 +28,7 @@ graphemic_classification: "象形"
 stand_in: "者"
 aliases:
 注音: "ㄑㄚ"
+kwin: false
 tags:
   - character
 ---

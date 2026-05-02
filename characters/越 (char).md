@@ -37,6 +37,7 @@ graphemic_classification: 戉
 stand_in: 越
 aliases:
 注音: ⼔ㄊ
+kwin: true
 tags:
   - character
 ---

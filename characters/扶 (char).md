@@ -32,6 +32,7 @@ graphemic_classification: "夫"
 stand_in: "扶"
 aliases:
 注音: "ㄅㄨ"
+kwin: true
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ stand_in: "反"
 aliases:
   - 叛
 注音: "ㄈㄛㄋ"
+kwin: false
 tags:
   - character
 ---

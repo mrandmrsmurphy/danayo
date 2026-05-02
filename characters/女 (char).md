@@ -30,6 +30,7 @@ graphemic_classification: "象形"
 stand_in: "女"
 aliases:
 注音: "ㄋㄜ"
+kwin: false
 tags:
   - character
 ---

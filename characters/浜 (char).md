@@ -31,6 +31,7 @@ stand_in: "浜"
 aliases:
   - 濱
 注音: "ㄅㄧㄋ"
+kwin: true
 tags:
   - character
 ---

@@ -33,6 +33,7 @@ stand_in: "鋸"
 aliases:
   - 锯
 注音: "ㄍ⼄"
+kwin: false
 tags:
   - character
 ---

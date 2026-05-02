@@ -30,6 +30,7 @@ graphemic_classification: "象形"
 stand_in: "豆"
 aliases:
 注音: "ㄉㄛㄨ"
+kwin: false
 tags:
   - character
 ---

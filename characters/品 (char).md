@@ -30,6 +30,7 @@ graphemic_classification: 指事
 stand_in: 品
 aliases:
 注音: ㄆㄨㄇ
+kwin: true
 tags:
   - character
 ---

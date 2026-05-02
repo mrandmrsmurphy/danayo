@@ -29,6 +29,7 @@ graphemic_classification: "奉"
 stand_in: "捧"
 aliases:
 注音: "ㄆㄛㄫ"
+kwin: false
 tags:
   - character
 ---

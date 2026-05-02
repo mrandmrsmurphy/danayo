@@ -39,6 +39,7 @@ graphemic_classification: "壬"
 stand_in: "淫"
 aliases:
 注音: "ㄧㄇ"
+kwin: false
 tags:
   - character
 ---

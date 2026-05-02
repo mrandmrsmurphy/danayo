@@ -38,6 +38,7 @@ graphemic_classification: "矣"
 stand_in: "唉"
 aliases:
 注音: "ㄚㄧ"
+kwin: true
 tags:
   - character
 ---

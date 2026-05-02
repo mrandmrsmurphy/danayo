@@ -30,6 +30,7 @@ graphemic_classification: "代"
 stand_in: "袋"
 aliases:
 注音: "ㄉㄚㄧ"
+kwin: true
 tags:
   - character
 ---

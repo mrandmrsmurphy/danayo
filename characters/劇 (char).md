@@ -33,6 +33,7 @@ stand_in: 劇
 aliases:
   - 剧
 注音: ㄍㄝㄎ
+kwin: false
 tags:
   - character
 ---

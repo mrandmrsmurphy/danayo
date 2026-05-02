@@ -31,6 +31,7 @@ stand_in: "謎"
 aliases:
   - 谜
 注音: "ㄇㄝㄧ"
+kwin: false
 tags:
   - character
 ---

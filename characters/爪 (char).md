@@ -32,6 +32,7 @@ graphemic_classification: "象形"
 stand_in: "爪"
 aliases:
 注音: "ㄐ⺢ㄨ"
+kwin: false
 tags:
   - character
 ---

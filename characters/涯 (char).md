@@ -34,6 +34,7 @@ graphemic_classification: "厓"
 stand_in: "涯"
 aliases:
 注音: "⼘ㄧ"
+kwin: false
 tags:
   - character
 ---

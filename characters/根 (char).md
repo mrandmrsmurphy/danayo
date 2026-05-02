@@ -29,6 +29,7 @@ graphemic_classification: 艮
 stand_in: 根
 aliases:
 注音: ㄍㄜㄋ
+kwin: true
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ aliases:
   - 胶
   - 淆
 注音: ㄍ⼄ㄨ
+kwin: false
 tags:
   - character
 ---

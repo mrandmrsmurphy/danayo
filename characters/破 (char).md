@@ -29,6 +29,7 @@ graphemic_classification: "皮"
 stand_in: "破"
 aliases:
 注音: "ㄆㄜ"
+kwin: false
 tags:
   - character
 ---

@@ -32,6 +32,7 @@ graphemic_classification: 會意
 stand_in: 暴
 aliases:
 注音: ㄅㄛㄎ
+kwin: false
 tags:
   - character
 ---

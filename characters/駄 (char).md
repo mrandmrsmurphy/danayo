@@ -32,6 +32,7 @@ stand_in: "駄"
 aliases:
   - 馱
 注音: "ㄉㄚ"
+kwin: false
 tags:
   - character
 ---

@@ -30,6 +30,7 @@ graphemic_classification: "胥"
 stand_in: "婿"
 aliases:
 注音: "ㄙㄝㄧ"
+kwin: false
 tags:
   - character
 ---

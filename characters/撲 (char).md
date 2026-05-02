@@ -35,6 +35,7 @@ stand_in: 撲
 aliases:
   - 扑
 注音: ㄆㄛㄎ
+kwin: false
 tags:
   - character
 ---

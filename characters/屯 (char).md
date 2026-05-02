@@ -47,6 +47,7 @@ graphemic_classification: 象形
 stand_in: 屯
 aliases:
 注音: ㄉㄨㄋ
+kwin: true
 tags:
   - character
 ---

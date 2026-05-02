@@ -30,6 +30,7 @@ graphemic_classification: "丁"
 stand_in: "汀"
 aliases:
 注音: "ㄊㄝㄫ"
+kwin: false
 tags:
   - character
 ---

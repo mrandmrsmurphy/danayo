@@ -30,6 +30,7 @@ aliases:
   - 凛
   - 澟
 注音: "ㄌㄨㄇ"
+kwin: false
 tags:
   - character
 ---

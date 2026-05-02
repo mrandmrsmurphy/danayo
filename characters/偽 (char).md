@@ -32,6 +32,7 @@ aliases:
   - 僞
   - 伪
 注音: ⼔ㄧ
+kwin: false
 tags:
   - character
 ---

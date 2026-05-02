@@ -36,6 +36,7 @@ stand_in: "塊"
 aliases:
   - 块
 注音: "ㄎㄛㄧ"
+kwin: false
 tags:
   - character
 ---

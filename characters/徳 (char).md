@@ -28,6 +28,7 @@ stand_in: "徳"
 aliases:
   - 德
 注音: "ㄊㄨㄎ"
+kwin: false
 tags:
   - character
 ---

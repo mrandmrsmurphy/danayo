@@ -36,6 +36,7 @@ graphemic_classification: "廷"
 stand_in: "呈"
 aliases:
 注音: "ㄉㄧㄫ"
+kwin: false
 tags:
   - character
 ---

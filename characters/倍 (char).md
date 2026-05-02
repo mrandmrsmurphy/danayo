@@ -33,6 +33,7 @@ graphemic_classification: "咅"
 stand_in: "倍"
 aliases:
 注音: "ㄅㄚㄧ"
+kwin: true
 tags:
   - character
 ---

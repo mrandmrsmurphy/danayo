@@ -32,6 +32,7 @@ graphemic_classification: 己
 stand_in: 改
 aliases:
 注音: ㄍㄚㄧ
+kwin: true
 tags:
   - character
 ---

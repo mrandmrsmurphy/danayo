@@ -31,6 +31,7 @@ stand_in: 銀
 aliases:
   - 银
 注音: ㄧㄋ
+kwin: false
 tags:
   - character
 ---

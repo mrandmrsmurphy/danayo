@@ -32,6 +32,7 @@ aliases:
   - 㽬
   - 褔
 注音: ㄈㄨㄎ
+kwin: false
 tags:
   - character
 ---

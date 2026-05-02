@@ -30,6 +30,7 @@ stand_in: 畳
 aliases:
   - 疊
 注音: ㄉㄝㄆ
+kwin: false
 tags:
   - character
 ---
