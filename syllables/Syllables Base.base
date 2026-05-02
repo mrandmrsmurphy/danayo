@@ -13,6 +13,8 @@ views:
       - english
       - date-last-perfect
     sort:
+      - property: size
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
     columnSize:
