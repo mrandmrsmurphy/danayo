@@ -213,7 +213,7 @@ views:
       - property: size
         direction: ASC
       - property: date-last-perfect
-        direction: DESC
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: 羅馬字

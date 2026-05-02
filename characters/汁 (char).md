@@ -15,7 +15,7 @@ stroke_count: 5
 radical: 水
 skip_number: 1-3-2
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - soup
   - juice
@@ -23,7 +23,7 @@ english:
 諺文: 즙
 joyo_level: ""
 hsk_level: ""
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 6069
 mc_id: 2312
 graphemic_classification: 十
