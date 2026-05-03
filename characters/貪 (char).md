@@ -1,35 +1,35 @@
 ---
-mandarin: "tān"
+mandarin: tān
 cantonese: taam1
-korean: "탐"
-korean_native: "탐낼"
+korean: 탐
+korean_native: 탐낼
 japanese:
   - DON
   - TON
 japanese_native: むさぼ
 vietnamese:
   - tham
-middle_chinese_initial: "tʰ"
-middle_chinese_final: "ʌm"
+middle_chinese_initial: tʰ
+middle_chinese_final: ʌm
 stroke_count: 11
-radical: "貝"
+radical: 貝
 skip_number: 2-2-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - greedy
 羅馬字: tam
-諺文: "탐"
-joyo_level: "高等"
+諺文: 탐
+joyo_level: 高等
 hsk_level: "4"
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 6419
 mc_id: 912
-graphemic_classification: "今"
-stand_in: "貪"
+graphemic_classification: 今
+stand_in: 貪
 aliases:
   - 贪
-注音: "ㄊㄚㄇ"
+注音: ㄊㄚㄇ
 kwin: true
 tags:
   - character
