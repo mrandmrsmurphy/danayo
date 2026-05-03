@@ -12,10 +12,15 @@ views:
       - 諺文
       - english
       - date-last-perfect
+      - file.mtime
     sort:
+      - property: file.mtime
+        direction: ASC
       - property: size
         direction: ASC
       - property: date-last-perfect
         direction: ASC
     columnSize:
-      note.size: 68
+      file.name: 84
+      note.size: 41
+      note.english: 145
