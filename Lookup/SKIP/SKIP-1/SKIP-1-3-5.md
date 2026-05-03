@@ -1,28 +1,92 @@
 ---
+date-last-perfect: 2026-05-03
 stroke_count: 8
-date-last-perfect:
-skip_number: 1-3-5
 size: 77
-tags: [lookup]
-
+skip_number: 1-3-5
+tags:
+  - lookup
 ---
 > SKIP : 1 : [3](lookup/SKIP/SKIP-1/SKIP-1-3.md)
-> [Stroke 08](lookup/Stroke/Stroke%2008.md)
+> These are all of [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 ## Characters
-口: 呪, 味, 呵, 呻, <ruby>[呼](/characters/呼%20(char).md)<rt>ㄏㄛ</rt></ruby>
-坤, 坦, 坪 (char), 
-妬, 妹, 姂, 姉 (char), 始, 姏, 姑, 姓, 
-孤, 
-岬, 
-帖 (char), 
-弥 (char), 弦 (char), 弧, 
-彼 (char), 彿, 往 (char), 征, 径, 
-怖, 怗, 性, 怪, 
-抛, 披 (char), 抱, 抵, 抹 (char), 押 (char), 抽, 拂 (char), 担, 拉 (char), 拌, 拍 (char), 拐, 拒, 拓, 拖, 拘, 拙, 招, 拝 (char), 拡, 
-沫 (char), 河, 沸, 油 (char), 治, 沼, 沿 (char), 況, 泊, 泌, 法 (char), 泡, 波, 泣 (char), 泥 (char), 注, 泳 (char), 洩, 
-狐, 狗, 狙, 
-阻, 阿 (char), 陀, 附 (char)
+1. <ruby>[呪](characters/呪.md)<rt>ㄐㄨㄛ</rt></ruby> "spell, curse"
+2. <ruby>[味](characters/味.md)<rt>ㄇㄨㄧ</rt></ruby> "taste, experience"
+3. <ruby>[呵](characters/呵.md)<rt>ㄏㄚ</rt></ruby> "ha"
+4. <ruby>[呻](characters/呻.md)<rt>ㄙㄧㄋ</rt></ruby> "groan, moan, chant"
+5. <ruby>[呼](characters/呼%20(char).md)<rt>ㄏㄛ</rt></ruby> "call, shout, exhale"
+6. <ruby>[坤](characters/坤.md)<rt>ㄎㄛㄋ</rt></ruby> "eighth trigram, southwest"
+7. <ruby>[坦](characters/坦.md)<rt>ㄊㄚㄋ</rt></ruby> "flat, level"
+8. <ruby>[坪](characters/坪%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> "level ground, pyeong"
+9. <ruby>[妬](characters/妬.md)<rt>ㄉㄛ</rt></ruby> "jealous, envious"
+10. <ruby>[妹](characters/妹.md)<rt>ㄇㄛㄧ</rt></ruby> "younger sister"
+11. <ruby>[姂](characters/姂.md)<rt>ㄅㄛㄆ</rt></ruby> "beautiful, quiet (of a woman)"
+12. <ruby>[姉](characters/姉%20(char).md)<rt>ㄐㄚ</rt></ruby> "elder sister"
+13. <ruby>[始](characters/始.md)<rt>ㄙㄧ</rt></ruby> "begin"
+14. <ruby>[姏](characters/姏.md)<rt>ㄇㄛㄇ</rt></ruby> "great-grandmother"
+15. <ruby>[姑](characters/姑.md)<rt>ㄍㄛ</rt></ruby> "paternal aunt"
+16. <ruby>[姓](characters/姓.md)<rt>ㄙㄧㄫ</rt></ruby> "surname"
+17. <ruby>[孤](characters/孤.md)<rt>ㄍㄛ</rt></ruby> "lone, lonely"
+18. <ruby>[岬](characters/岬.md)<rt>ㄍㄚㄆ</rt></ruby> "headland, cape"
+19. <ruby>[帖](characters/帖%20(char).md)<rt>ㄊㄛㄆ</rt></ruby> "invitation, card"
+20. <ruby>[弥](characters/弥%20(char).md)<rt>ㄇㄝ</rt></ruby> "all the more, increasingly"
+21. <ruby>[弦](characters/弦%20(char).md)<rt>ㄏㄝㄋ</rt></ruby> "bowstring, chord, string, hypotenuse"
+22. <ruby>[弧](characters/弧.md)<rt>ㄏㄛ</rt></ruby> "arc"
+23. <ruby>[彼](characters/彼%20(char).md)<rt>ㄅㄜ</rt></ruby> "yon"
+24. <ruby>[彿](characters/彿.md)<rt>ㄈㄨㄊ</rt></ruby> "be like, resemble"
+25. <ruby>[往](characters/往%20(char).md)<rt>⺢ㄫ</rt></ruby> "to go towards"
+26. <ruby>[征](characters/征.md)<rt>ㄐㄝㄫ</rt></ruby> "conquer"
+27. <ruby>[径](characters/径.md)<rt>ㄍㄝㄫ</rt></ruby> "diameter"
+28. <ruby>[怖](characters/怖.md)<rt>ㄆㄛ</rt></ruby> "dreadful"
+29. <ruby>[怗](characters/怗.md)<rt>ㄊㄧㄆ</rt></ruby> "observant, peaceful"
+30. <ruby>[性](characters/性.md)<rt>ㄙㄧㄫ</rt></ruby> "gender, sex, quality, nature"
+31. <ruby>[怪](characters/怪.md)<rt>ㄍ⺢ㄧ</rt></ruby> "strange, suspicious"
+32. <ruby>[抛](characters/抛.md)<rt>ㄆㄚㄨ</rt></ruby> "throw away, abandon, reject"
+33. <ruby>[披](characters/披%20(char).md)<rt>ㄆㄨㄧ</rt></ruby> "expose"
+34. <ruby>[抱](characters/抱.md)<rt>ㄅㄚㄨ</rt></ruby> "embrace"
+35. <ruby>[抵](characters/抵.md)<rt>ㄉㄝㄧ</rt></ruby> "resist"
+36. <ruby>[抹](characters/抹%20(char).md)<rt>ㄇㄚㄊ</rt></ruby> "rub, wipe"
+37. <ruby>[押](characters/押%20(char).md)<rt>ㄚㄆ</rt></ruby> "mortgage"
+38. <ruby>[抽](characters/抽.md)<rt>ㄑㄨ</rt></ruby> "pluck, extract"
+39. <ruby>[拂](characters/拂%20(char).md)<rt>ㄈㄨㄊ</rt></ruby> "shake off, brush off"
+40. <ruby>[担](characters/担.md)<rt>ㄉㄚㄇ</rt></ruby> "shoulder, carry, bear"
+41. <ruby>[拉](characters/拉%20(char).md)<rt>ㄌㄚㄆ</rt></ruby> "drag, pull, play a bowed instrument"
+42. <ruby>[拌](characters/拌.md)<rt>ㄅㄚㄋ</rt></ruby> "mix, blend"
+43. <ruby>[拍](characters/拍%20(char).md)<rt>ㄆㄚㄎ</rt></ruby> "tap, clap, beat, pulse"
+44. <ruby>[拐](characters/拐.md)<rt>ㄍ⺢ㄧ</rt></ruby> "kidnap"
+45. <ruby>[拒](characters/拒.md)<rt>ㄍ⼄</rt></ruby> "repel, refuse"
+46. <ruby>[拓](characters/拓.md)<rt>ㄊㄚㄎ</rt></ruby> "expand, open up"
+47. <ruby>[拖](characters/拖.md)<rt>ㄊㄚ</rt></ruby> "drag, pull"
+48. <ruby>[拘](characters/拘.md)<rt>ㄍㄨ</rt></ruby> "constrain, restrain"
+49. <ruby>[拙](characters/拙.md)<rt>ㄐ⼔ㄊ</rt></ruby> "awkward, clumsy"
+50. <ruby>[招](characters/招.md)<rt>ㄑㄛㄨ</rt></ruby> "beckon, recruit"
+51. <ruby>[拝](characters/拝%20(char).md)<rt>ㄅ⼶</rt></ruby> "bow, kowtow"
+52. <ruby>[拡](characters/拡.md)<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"
+53. <ruby>[沫](characters/沫%20(char).md)<rt>ㄇㄚㄊ</rt></ruby> "froth, foam, bubbles, suds"
+54. <ruby>[河](characters/河.md)<rt>ㄏㄚ</rt></ruby> "stream"
+55. <ruby>[沸](characters/沸.md)<rt>ㄈㄨㄊ</rt></ruby> "seethe, boil"
+56. <ruby>[油](characters/油%20(char).md)<rt>⼜</rt></ruby> "oil"
+57. <ruby>[治](characters/治.md)<rt>ㄑㄧ</rt></ruby> "govern"
+58. <ruby>[沼](characters/沼.md)<rt>ㄐㄛㄨ</rt></ruby> "marsh, swamp"
+59. <ruby>[沿](characters/沿%20(char).md)<rt>⼔ㄇ</rt></ruby> "edge, side"
+60. <ruby>[況](characters/況.md)<rt>ㄏ⺢ㄫ</rt></ruby> "condition"
+61. <ruby>[泊](characters/泊.md)<rt>ㄅㄚㄎ</rt></ruby> "lie at anchor"
+62. <ruby>[泌](characters/泌.md)<rt>ㄅㄧㄊ</rt></ruby> "secrete"
+63. <ruby>[法](characters/法%20(char).md)<rt>ㄈㄚㄆ</rt></ruby> "rule, law"
+64. <ruby>[泡](characters/泡.md)<rt>ㄆㄚㄨ</rt></ruby> "bubbles"
+65. <ruby>[波](characters/波.md)<rt>ㄅㄚ</rt></ruby> "wave"
+66. <ruby>[泣](characters/泣%20(char).md)<rt>ㄎㄧㄆ</rt></ruby> "cry, sob"
+67. <ruby>[泥](characters/泥%20(char).md)<rt>ㄋㄝㄧ</rt></ruby> "mud"
+68. <ruby>[注](characters/注.md)<rt>ㄐㄨ</rt></ruby> "pour"
+69. <ruby>[泳](characters/泳%20(char).md)<rt>ㄨㄧㄫ</rt></ruby> "swim"
+70. <ruby>[洩](characters/洩.md)<rt>ㄙㄝㄊ</rt></ruby> "vent, leak"
+71. <ruby>[狐](characters/狐.md)<rt>ㄏㄛ</rt></ruby> "fox"
+72. <ruby>[狗](characters/狗.md)<rt>ㄍㄛㄨ</rt></ruby> "hound"
+73. <ruby>[狙](characters/狙.md)<rt>ㄑㄛ</rt></ruby> "spy, ambush"
+74. <ruby>[阻](characters/阻.md)<rt>ㄐㄛ</rt></ruby> "thwart, block, impede"
+75. <ruby>[阿](characters/阿%20(char).md)<rt>ㄚ</rt></ruby> "ah"
+76. <ruby>[陀](characters/陀.md)<rt>ㄉㄚ</rt></ruby> "rough terrain"
+77. <ruby>[附](characters/附%20(char).md)<rt>ㄅㄨ</rt></ruby> "affix, adhere"
 
 ## Datacheck
 ```dataview

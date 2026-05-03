@@ -2,6 +2,8 @@
 language: 単亜語
 tags:
   - periodictable
+cssclasses:
+  - wide-page
 ---
 <ruby>[週期表](/words/週期表.md)<rt>ㄐㄨㄛㄎㄧㄙㄛ</rt></ruby> - While many elements have common names across the region, it is necessary to invent an overall system made of #neologism s.  The system is
 - Common names are followed when all agree.
