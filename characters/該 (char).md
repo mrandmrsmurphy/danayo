@@ -1,8 +1,8 @@
 ---
-mandarin: "gāi"
+mandarin: gāi
 cantonese: goi1
-korean: "해"
-korean_native: "갖출"
+korean: 해
+korean_native: 갖출
 japanese:
   - GAI
   - KAI
@@ -11,28 +11,28 @@ vietnamese:
   - cai
   - cơi
 middle_chinese_initial: k
-middle_chinese_final: "ʌi"
+middle_chinese_final: ʌi
 stroke_count: 13
-radical: "言"
+radical: 言
 skip_number: 1-7-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - should
   - ought
   - have to
 羅馬字: goi
-諺文: "괴"
-joyo_level: "高等"
+諺文: 괴
+joyo_level: 高等
 hsk_level: "1"
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 4255
 mc_id: 3316
-graphemic_classification: "亥"
-stand_in: "該"
+graphemic_classification: 亥
+stand_in: 該
 aliases:
   - 该
-注音: "ㄍㄛㄧ"
+注音: ㄍㄛㄧ
 kwin: false
 tags:
   - character
