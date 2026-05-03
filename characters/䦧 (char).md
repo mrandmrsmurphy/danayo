@@ -32,6 +32,9 @@ kwin: false
 tags:
   - character
 ---
+```meta-bind-embed
+[[nav/char_info]]
+```
 ## Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 錫開]]
