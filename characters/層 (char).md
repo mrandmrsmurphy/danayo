@@ -1,8 +1,8 @@
 ---
-mandarin: "céng"
+mandarin: céng
 cantonese: cang4
-korean: "층"
-korean_native: "층"
+korean: 층
+korean_native: 층
 japanese:
   - SOU
 japanese_native: ø
@@ -11,27 +11,27 @@ vietnamese:
   - tầng
   - tằng
   - từng
-middle_chinese_initial: "d͡z"
-middle_chinese_final: "əŋ"
+middle_chinese_initial: d͡z
+middle_chinese_final: əŋ
 stroke_count: 14
-radical: "尸"
+radical: 尸
 skip_number: 3-3-11
 grade_level: 4
 pos: ""
 english:
   - stratum
-羅馬字: "cǝng"
-諺文: "층"
-joyo_level: 6
+羅馬字: cǝng
+諺文: 층
+joyo_level: "6"
 hsk_level: "3"
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 4086
 mc_id: 4098
-graphemic_classification: "曽"
-stand_in: "層"
+graphemic_classification: 曽
+stand_in: 層
 aliases:
   - 层
-注音: "ㄑㄜㄫ"
+注音: ㄑㄜㄫ
 kwin: true
 tags:
   - character
