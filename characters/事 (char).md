@@ -22,7 +22,7 @@ english:
 羅馬字: ji
 諺文: "지"
 joyo_level: "3"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 128
 mc_id: 42

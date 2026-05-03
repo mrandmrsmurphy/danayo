@@ -24,10 +24,10 @@ characters:            # constituent characters, in order — always required
 諺文: 김줏              # Hangul transcription of the Dan'a'yo pronunciation
 english: this week     # English gloss; brief
 pos: 名詞               # part of speech: 名詞, 動詞, 性詞, 数詞, 副詞, 助詞, etc.
-mandarin: jīnzhōu      # Pinyin (tone marks preferred)
-cantonese: gam1 zau1   # Jyutping with tone numbers
+mandarin: "jīnzhōu      # Pinyin (tone marks preferred)"
+cantonese: "gam1 zau1   # Jyutping with tone numbers"
 japanese: こんしゅう      # hiragana reading
-korean: 금주            # Hangul (Sino-Korean or native as appropriate)
+korean: "금주            # Hangul (Sino-Korean or native as appropriate)"
 注音: ㄍㄧㄇㄐㄨㄛ         # Bopomofo — concatenation of component 注音 values
 tags:
   - word

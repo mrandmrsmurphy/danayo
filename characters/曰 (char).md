@@ -23,7 +23,7 @@ english:
 羅馬字: "'wed"
 諺文: "웓"
 joyo_level: "表外字"
-hsk_level: 4
+hsk_level: "4"
 hanmun_edu_level: "中"
 danayo_id: 7514
 mc_id: 8

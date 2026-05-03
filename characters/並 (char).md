@@ -20,7 +20,7 @@ english:
 羅馬字: beng
 諺文: "벙"
 joyo_level: "6"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4319
 mc_id: 610

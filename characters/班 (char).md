@@ -24,7 +24,7 @@ english:
 羅馬字: pan
 諺文: "판"
 joyo_level: "6"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4185
 mc_id: 1402

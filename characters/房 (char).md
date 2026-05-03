@@ -22,7 +22,7 @@ english:
 羅馬字: bang
 諺文: "방"
 joyo_level: "高等"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 3133
 mc_id: 980

@@ -24,7 +24,7 @@ english:
 羅馬字: niǝ
 諺文: "늬"
 joyo_level: "高等"
-hsk_level: 4
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6418
 mc_id: 1301

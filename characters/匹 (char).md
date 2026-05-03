@@ -26,7 +26,7 @@ english:
 羅馬字: pid
 諺文: "핃"
 joyo_level: "高等"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3040
 mc_id: 1079

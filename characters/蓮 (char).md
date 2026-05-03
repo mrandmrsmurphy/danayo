@@ -23,7 +23,7 @@ english:
 羅馬字: lyen
 諺文: "련"
 joyo_level: "日本人名用漢字"
-hsk_level: 4
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 8611
 mc_id: 4459

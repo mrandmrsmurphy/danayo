@@ -21,7 +21,7 @@ english:
 羅馬字: jou
 諺文: "좃"
 joyo_level: "高等"
-hsk_level: 3
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6223
 mc_id: 1438

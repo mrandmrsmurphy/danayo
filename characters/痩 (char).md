@@ -17,7 +17,7 @@ english: thin
 羅馬字: syu
 諺文: "슈"
 joyo_level: "高等"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7532
 mc_id:

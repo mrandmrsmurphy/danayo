@@ -22,7 +22,7 @@ english:
 羅馬字: "'ai"
 諺文: "애"
 joyo_level: "表外字"
-hsk_level: 4
+hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6073
 mc_id: 2615

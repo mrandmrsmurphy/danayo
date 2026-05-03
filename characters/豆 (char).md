@@ -22,7 +22,7 @@ english:
 羅馬字: dou
 諺文: "돗"
 joyo_level: "3"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2239
 mc_id: 1371

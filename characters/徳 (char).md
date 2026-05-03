@@ -19,7 +19,7 @@ english:
 羅馬字: tug
 諺文: "툭"
 joyo_level: "4"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3114
 mc_id: 102

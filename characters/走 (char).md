@@ -22,7 +22,7 @@ english:
 羅馬字: sou
 諺文: "솟"
 joyo_level: "2"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 111
 mc_id: 525

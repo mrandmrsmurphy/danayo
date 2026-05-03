@@ -21,7 +21,7 @@ english:
 羅馬字: pyau
 諺文: "퍗"
 joyo_level: "4"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4193
 mc_id: 2508

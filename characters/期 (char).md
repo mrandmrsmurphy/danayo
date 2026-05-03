@@ -26,7 +26,7 @@ english:
 羅馬字: ki
 諺文: "키"
 joyo_level: "3"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2131
 mc_id: 675

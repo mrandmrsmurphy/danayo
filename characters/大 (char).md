@@ -22,7 +22,7 @@ english:
 羅馬字: dai
 諺文: "대"
 joyo_level: "1"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 15
 mc_id: 15

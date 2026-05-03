@@ -22,7 +22,7 @@ english:
 羅馬字: dung
 諺文: "둥"
 joyo_level: "4"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 105
 mc_id: 0

@@ -24,7 +24,7 @@ english:
 羅馬字: hed
 諺文: "헏"
 joyo_level: "日本人名用漢字"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "名"
 danayo_id: 7125
 mc_id: 2684

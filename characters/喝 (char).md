@@ -29,7 +29,7 @@ english:
 羅馬字: hod
 諺文: "혿"
 joyo_level: "高等"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "名"
 danayo_id: 6335
 mc_id: 4648

@@ -23,7 +23,7 @@ english:
 羅馬字: "sǝ"
 諺文: "스"
 joyo_level: "2"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 131
 mc_id: 19

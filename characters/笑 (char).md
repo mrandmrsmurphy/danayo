@@ -22,7 +22,7 @@ english:
 羅馬字: syou
 諺文: "숏"
 joyo_level: "4"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2191
 mc_id: 882

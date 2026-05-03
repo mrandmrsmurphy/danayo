@@ -24,7 +24,7 @@ english:
 羅馬字: kong
 諺文: "콩"
 joyo_level: "高等"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5206
 mc_id: 230

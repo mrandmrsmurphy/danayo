@@ -23,7 +23,7 @@ english:
 羅馬字: cen
 諺文: "천"
 joyo_level: "日本人名用漢字"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "名"
 danayo_id: 6268
 mc_id: 1417

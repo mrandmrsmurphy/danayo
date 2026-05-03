@@ -20,7 +20,7 @@ english:
 羅馬字: juo
 諺文: "줏"
 joyo_level: "6"
-hsk_level: 3
+hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 3084
 mc_id: 3286

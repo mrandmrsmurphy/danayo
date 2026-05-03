@@ -25,7 +25,7 @@ english:
 羅馬字: bai
 諺文: "배"
 joyo_level: "3"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 3021
 mc_id: 997

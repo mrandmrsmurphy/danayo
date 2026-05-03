@@ -25,7 +25,7 @@ english:
 羅馬字: ca
 諺文: "차"
 joyo_level: "2"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 3232
 mc_id: 8436

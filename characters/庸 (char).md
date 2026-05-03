@@ -25,7 +25,7 @@ english:
 羅馬字: "'yong"
 諺文: "용"
 joyo_level: "高等"
-hsk_level: 4
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6392
 mc_id: 1093

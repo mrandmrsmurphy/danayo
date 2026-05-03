@@ -24,7 +24,7 @@ english:
 羅馬字: syau
 諺文: "샷"
 joyo_level: "表外字"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7276
 mc_id: 1228

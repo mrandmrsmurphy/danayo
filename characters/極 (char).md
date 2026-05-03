@@ -26,7 +26,7 @@ english:
 羅馬字: gig
 諺文: 긱
 joyo_level: "4"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2139
 mc_id: 500

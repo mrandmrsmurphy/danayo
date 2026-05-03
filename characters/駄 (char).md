@@ -23,7 +23,7 @@ english:
 羅馬字: da
 諺文: "다"
 joyo_level: "高等"
-hsk_level: 3
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6245
 mc_id: 8588

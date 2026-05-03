@@ -21,7 +21,7 @@ english:
 羅馬字: mui
 諺文: "뮈"
 joyo_level: "4"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2132
 mc_id: 103

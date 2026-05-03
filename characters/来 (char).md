@@ -21,7 +21,7 @@ english:
 羅馬字: lai
 諺文: "래"
 joyo_level: "2"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2133
 mc_id: 168

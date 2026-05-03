@@ -20,7 +20,7 @@ english:
 羅馬字: jai
 諺文: "재"
 joyo_level: "5"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2054
 mc_id: 71

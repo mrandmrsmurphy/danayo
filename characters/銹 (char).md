@@ -20,7 +20,7 @@ english:
 羅馬字: syu
 諺文: "슈"
 joyo_level: "表外字"
-hsk_level: 3
+hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 7327
 mc_id: 8367

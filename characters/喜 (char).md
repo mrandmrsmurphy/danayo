@@ -26,7 +26,7 @@ english:
 羅馬字: hi
 諺文: 히
 joyo_level: "5"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 4058
 mc_id: 506

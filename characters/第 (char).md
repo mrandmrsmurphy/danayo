@@ -21,7 +21,7 @@ english:
 羅馬字: dei
 諺文: "데"
 joyo_level: "3"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 198
 mc_id: 902

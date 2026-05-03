@@ -22,7 +22,7 @@ english:
 羅馬字: sud
 諺文: "숟"
 joyo_level: "5"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4242
 mc_id: 522

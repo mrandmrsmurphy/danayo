@@ -21,7 +21,7 @@ english:
 羅馬字: ma
 諺文: "마"
 joyo_level: "表外字"
-hsk_level: 2
+hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7217
 mc_id: 0

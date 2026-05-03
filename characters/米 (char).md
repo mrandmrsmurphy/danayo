@@ -23,7 +23,7 @@ english:
 羅馬字: mei
 諺文: "메"
 joyo_level: "2"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 92
 mc_id: 1319

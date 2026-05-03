@@ -21,7 +21,7 @@ english:
 羅馬字: ming
 諺文: "밍"
 joyo_level: "1"
-hsk_level: 1
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 102
 mc_id: 128
