@@ -1,8 +1,8 @@
 ---
-mandarin: "jiù"
+mandarin: jiù
 cantonese: kau5
-korean: "구"
-korean_native: "절구"
+korean: 구
+korean_native: 절구
 japanese:
   - KYUU
 japanese_native: うす
@@ -10,27 +10,27 @@ vietnamese:
   - cối
   - cữu
 middle_chinese_initial: g
-middle_chinese_final: "ɨu"
+middle_chinese_final: ɨu
 stroke_count: 6
-radical: "臼"
+radical: 臼
 skip_number: 4-6-2
-grade_level: "先進"
-pos: ""
+grade_level: 先進
+pos: 名詞
 english:
   - mortar
   - millstone
   - socket
 羅馬字: gyuo
-諺文: "귯"
-joyo_level: "高等"
-hsk_level: "無"
-hanmun_edu_level: "名"
+諺文: 귯
+joyo_level: 高等
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 7016
 mc_id: 2374
-graphemic_classification: "象形"
-stand_in: "臼"
+graphemic_classification: 象形
+stand_in: 臼
 aliases:
-注音: "ㄍ⼜ㄛ"
+注音: ㄍ⼜ㄛ
 kwin: false
 tags:
   - character
