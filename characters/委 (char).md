@@ -15,7 +15,7 @@ middle_chinese_final: "ɣiuᴇ"
 stroke_count: 8
 radical: "女"
 skip_number: 2-5-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - appoint
@@ -23,7 +23,7 @@ english:
   - commission
 羅馬字: "'wei"
 諺文: "웨"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4073

@@ -29,7 +29,7 @@ middle_chinese_final: "iuᴇ"
 stroke_count: 7
 radical: "口"
 skip_number: 1-3-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - blow

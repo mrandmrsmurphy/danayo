@@ -17,7 +17,7 @@ middle_chinese_final: "ɨ"
 stroke_count: 12
 radical: "月"
 skip_number: 1-4-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - period
@@ -25,7 +25,7 @@ english:
   - season
 羅馬字: ki
 諺文: "키"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2131

@@ -19,7 +19,7 @@ middle_chinese_final: "iᴇŋ"
 stroke_count: 16
 radical: "攴"
 skip_number: 2-11-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - orderly
@@ -27,7 +27,7 @@ english:
   - tidy
 羅馬字: jeng
 諺文: "정"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 3145

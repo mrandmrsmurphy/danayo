@@ -17,7 +17,7 @@ middle_chinese_final: "ɑŋ"
 stroke_count: 12
 radical: "人"
 skip_number: 1-2-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - beside

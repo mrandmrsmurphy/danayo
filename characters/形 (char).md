@@ -15,7 +15,7 @@ middle_chinese_final: "eŋ"
 stroke_count: 7
 radical: "彡"
 skip_number: 1-4-3
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - shape
@@ -23,7 +23,7 @@ english:
   - type
 羅馬字: heng
 諺文: "헝"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2093

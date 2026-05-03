@@ -15,7 +15,7 @@ middle_chinese_final: "iɪn"
 stroke_count: 10
 radical: "示"
 skip_number: 1-5-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - god
@@ -23,7 +23,7 @@ english:
   - spirit
 羅馬字: sin
 諺文: "신"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2184

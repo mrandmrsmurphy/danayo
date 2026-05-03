@@ -14,14 +14,14 @@ middle_chinese_final: "ɨɐk"
 stroke_count: 11
 radical: "田"
 skip_number: 1-5-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - abbreviate
   - plan
 羅馬字: lyag
 諺文: "략"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4186

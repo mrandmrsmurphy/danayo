@@ -19,13 +19,13 @@ middle_chinese_final: "iᴇu"
 stroke_count: 4
 radical: "小"
 skip_number: 4-4-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - few
 羅馬字: sou
 諺文: "솟"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 51

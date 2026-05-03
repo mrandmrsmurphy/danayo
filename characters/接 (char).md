@@ -13,14 +13,14 @@ middle_chinese_final: "iᴇp"
 stroke_count: 11
 radical: "手"
 skip_number: 1-3-8
-grade_level: 2
+grade_level: "2"
 pos: "事詞"
 english:
   - contact
   - connect
 羅馬字: job
 諺文: "좁"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2111

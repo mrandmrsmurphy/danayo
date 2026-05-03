@@ -13,7 +13,7 @@ middle_chinese_final: ei
 stroke_count: 4
 radical: "八"
 skip_number: 2-2-2
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - pshaw

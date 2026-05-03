@@ -14,14 +14,14 @@ middle_chinese_final: "ɨu"
 stroke_count: 11
 radical: "女"
 skip_number: 1-3-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - lady
   - woman
 羅馬字: byu
 諺文: "뷰"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3076

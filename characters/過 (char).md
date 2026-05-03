@@ -17,14 +17,14 @@ middle_chinese_final: "uɑ"
 stroke_count: 13
 radical: "辵"
 skip_number: 3-4-9
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - than
   - too
 羅馬字: gwa
 諺文: "과"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2252

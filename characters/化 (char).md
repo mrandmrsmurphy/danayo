@@ -18,13 +18,13 @@ middle_chinese_final: "ɣua"
 stroke_count: 4
 radical: "匕"
 skip_number: 1-2-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - -ification
 羅馬字: hwa
 諺文: "화"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2038

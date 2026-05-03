@@ -16,7 +16,7 @@ middle_chinese_final: "ʌm"
 stroke_count: 11
 radical: "糸"
 skip_number: 1-6-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - navy blue

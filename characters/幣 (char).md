@@ -14,7 +14,7 @@ middle_chinese_final: "iᴇi"
 stroke_count: 15
 radical: "巾"
 skip_number: 2-12-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - cash

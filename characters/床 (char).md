@@ -18,7 +18,7 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 7
 radical: "广"
 skip_number: 3-3-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - bed

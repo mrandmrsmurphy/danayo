@@ -13,7 +13,7 @@ middle_chinese_final: "ɑu"
 stroke_count: 5
 radical: "尸"
 skip_number: 3-3-2
-grade_level: 6
+grade_level: "6"
 pos: "名詞"
 english:
   - buttocks

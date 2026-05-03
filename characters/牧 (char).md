@@ -15,13 +15,13 @@ middle_chinese_final: "ɨuk"
 stroke_count: 8
 radical: "牛"
 skip_number: 1-4-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - shepherd
 羅馬字: mug
 諺文: "묵"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 4180

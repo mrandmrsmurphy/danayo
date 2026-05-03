@@ -15,13 +15,13 @@ middle_chinese_final: "ɣau"
 stroke_count: 7
 radical: "子"
 skip_number: 3-4-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - filial piety
 羅馬字: hyau
 諺文: "햣"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "4"
 hanmun_edu_level: "中"
 danayo_id: 4074

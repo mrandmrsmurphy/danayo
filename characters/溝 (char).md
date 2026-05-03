@@ -13,7 +13,7 @@ middle_chinese_final: "əu"
 stroke_count: 13
 radical: "水"
 skip_number: 1-3-10
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - ditch

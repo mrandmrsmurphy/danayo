@@ -14,7 +14,7 @@ middle_chinese_final: wen
 stroke_count: 20
 radical: "心"
 skip_number: 2-16-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - hang

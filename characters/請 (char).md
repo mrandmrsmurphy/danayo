@@ -18,7 +18,7 @@ middle_chinese_final: "iᴇŋ"
 stroke_count: 15
 radical: "言"
 skip_number: 1-7-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - ask

@@ -15,13 +15,13 @@ middle_chinese_final: "ɨo"
 stroke_count: 8
 radical: "止"
 skip_number: 3-4-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - military
 羅馬字: mu
 諺文: "무"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3169

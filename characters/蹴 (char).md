@@ -14,7 +14,7 @@ middle_chinese_final: "ɨuk"
 stroke_count: 19
 radical: "足"
 skip_number: 1-7-12
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - kick

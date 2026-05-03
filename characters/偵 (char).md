@@ -15,7 +15,7 @@ middle_chinese_final: "iᴇŋ"
 stroke_count: 11
 radical: "人"
 skip_number: 1-2-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - spy

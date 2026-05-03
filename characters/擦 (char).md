@@ -15,7 +15,7 @@ middle_chinese_final: "ɣat"
 stroke_count: 17
 radical: "手"
 skip_number: 1-3-14
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - wipe

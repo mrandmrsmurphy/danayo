@@ -16,13 +16,13 @@ middle_chinese_final: "ɨʌ"
 stroke_count: 8
 radical: "戶"
 skip_number: 1-4-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - -ee
 羅馬字: "sǝ"
 諺文: "스"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 131

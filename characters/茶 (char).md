@@ -17,14 +17,14 @@ middle_chinese_final: "ɣa"
 stroke_count: 9
 radical: "艸"
 skip_number: 2-3-6
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - tea (drink)
   - tea (plant)
 羅馬字: ca
 諺文: "차"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "高等"
 danayo_id: 3232

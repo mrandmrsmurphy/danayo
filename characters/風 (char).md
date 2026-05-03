@@ -14,13 +14,13 @@ middle_chinese_final: "ɨuŋ"
 stroke_count: 9
 radical: "風"
 skip_number: 3-2-7
-grade_level: 1
+grade_level: "1"
 pos: "名詞"
 english:
   - wind
 羅馬字: fung
 諺文: "뿡"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 177

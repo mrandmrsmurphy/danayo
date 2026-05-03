@@ -18,7 +18,7 @@ middle_chinese_final: ei
 stroke_count: 8
 radical: "水"
 skip_number: 1-3-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - mud

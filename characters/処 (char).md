@@ -13,13 +13,13 @@ middle_chinese_final: ɨʌ
 stroke_count: 5
 radical: 几
 skip_number: 3-3-2
-grade_level: 2
+grade_level: "2"
 pos: 代詞
 english:
   - place
 羅馬字: co
 諺文: 초
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2279

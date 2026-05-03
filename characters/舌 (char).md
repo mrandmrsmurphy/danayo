@@ -15,14 +15,14 @@ middle_chinese_final: "iᴇt"
 stroke_count: 6
 radical: "舌"
 skip_number: 2-3-3
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - tongue
   - clapper
 羅馬字: sed
 諺文: "섣"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3229

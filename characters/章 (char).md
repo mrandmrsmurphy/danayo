@@ -14,13 +14,13 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 11
 radical: "立"
 skip_number: 2-2-9
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - chapter
 羅馬字: jang
 諺文: "장"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 211

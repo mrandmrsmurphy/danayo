@@ -13,14 +13,14 @@ middle_chinese_final: "ɣiæŋ"
 stroke_count: 14
 radical: "鳥"
 skip_number: 1-3-11
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - cry
   - chirp
 羅馬字: myeng
 諺文: "명"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 2276

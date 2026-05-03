@@ -15,7 +15,7 @@ middle_chinese_final: "uɑn"
 stroke_count: 15
 radical: "皿"
 skip_number: 2-10-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - tray

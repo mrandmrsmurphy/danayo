@@ -18,7 +18,7 @@ middle_chinese_final: "ɑt"
 stroke_count: 14
 radical: "辛"
 skip_number: 1-7-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - spicy

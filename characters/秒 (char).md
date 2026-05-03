@@ -14,13 +14,13 @@ middle_chinese_final: "iᴇu"
 stroke_count: 9
 radical: "禾"
 skip_number: 1-5-4
-grade_level: 4
+grade_level: "4"
 pos: "名詞"
 english:
   - second (time)
 羅馬字: myou
 諺文: "묫"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4196

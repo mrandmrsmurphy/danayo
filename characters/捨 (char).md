@@ -13,14 +13,14 @@ middle_chinese_final: ia
 stroke_count: 11
 radical: "手"
 skip_number: 1-3-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - throw away
   - discard
 羅馬字: sya
 諺文: "샤"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 6259

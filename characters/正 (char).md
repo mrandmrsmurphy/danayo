@@ -19,13 +19,13 @@ middle_chinese_final: "iᴇŋ"
 stroke_count: 5
 radical: "止"
 skip_number: 4-5-1
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - correct
 羅馬字: jing
 諺文: "징"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 75

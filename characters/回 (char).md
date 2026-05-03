@@ -15,13 +15,13 @@ middle_chinese_final: "uʌi"
 stroke_count: 6
 radical: "囗"
 skip_number: 3-3-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - turns
 羅馬字: hoi
 諺文: "회"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 88

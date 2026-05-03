@@ -14,7 +14,7 @@ middle_chinese_final: "ɨuk"
 stroke_count: 13
 radical: "肉"
 skip_number: 1-4-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - stomach
@@ -22,7 +22,7 @@ english:
   - abdomen
 羅馬字: fug
 諺文: "뿍"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 5321

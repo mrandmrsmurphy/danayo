@@ -14,13 +14,13 @@ middle_chinese_final: "ʌi"
 stroke_count: 7
 radical: "木"
 skip_number: 4-7-3
-grade_level: 2
+grade_level: "2"
 pos: "事詞"
 english:
   - come
 羅馬字: lai
 諺文: "래"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2133

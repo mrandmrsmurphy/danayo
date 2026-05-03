@@ -17,7 +17,7 @@ middle_chinese_final: "ɨɐk"
 stroke_count: 11
 radical: "刀"
 skip_number: 1-9-2
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - scrape

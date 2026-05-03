@@ -17,13 +17,13 @@ middle_chinese_final: "ɨok"
 stroke_count: 7
 radical: "木"
 skip_number: 4-7-3
-grade_level: 4
+grade_level: "4"
 pos: "量詞"
 english:
   - BUNDLE
 羅馬字: syog
 諺文: "쇽"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 1
 hanmun_edu_level: "高等"
 danayo_id: 4132

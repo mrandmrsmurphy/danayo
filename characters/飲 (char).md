@@ -17,13 +17,13 @@ middle_chinese_final: "ɣiɪm"
 stroke_count: 13
 radical: "食"
 skip_number: 1-9-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - drink
 羅馬字: "'um"
 諺文: "움"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "3"
 hanmun_edu_level: ""
 danayo_id: 3274

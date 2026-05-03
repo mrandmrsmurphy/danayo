@@ -14,13 +14,13 @@ middle_chinese_final: "ɑu"
 stroke_count: 6
 radical: "日"
 skip_number: 2-4-2
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - early
 羅馬字: jau
 諺文: "잣"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 109

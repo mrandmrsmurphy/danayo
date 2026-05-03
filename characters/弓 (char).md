@@ -15,13 +15,13 @@ middle_chinese_final: "ɨuŋ"
 stroke_count: 3
 radical: "弓"
 skip_number: 4-3-1
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - bow
 羅馬字: gung
 諺文: "궁"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 2089

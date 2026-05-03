@@ -26,13 +26,13 @@ middle_chinese_final: ei
 stroke_count: 5
 radical: "示"
 skip_number: 1-4-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - manners
 羅馬字: lei
 諺文: "레"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: ""
 danayo_id: 3206

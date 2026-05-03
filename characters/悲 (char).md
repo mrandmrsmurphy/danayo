@@ -16,13 +16,13 @@ middle_chinese_final: "ɣiɪ"
 stroke_count: 12
 radical: "心"
 skip_number: 2-8-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - be sad
 羅馬字: biǝ
 諺文: "븨"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2101

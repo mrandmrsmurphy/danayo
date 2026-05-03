@@ -14,13 +14,13 @@ middle_chinese_final: ei
 stroke_count: 11
 radical: "竹"
 skip_number: 2-6-5
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - -th
 羅馬字: dei
 諺文: "데"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 198

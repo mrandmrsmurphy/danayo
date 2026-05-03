@@ -17,7 +17,7 @@ middle_chinese_final: "ɑn"
 stroke_count: 7
 radical: "人"
 skip_number: 1-2-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - only

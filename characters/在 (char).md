@@ -13,13 +13,13 @@ middle_chinese_final: "ʌi"
 stroke_count: 6
 radical: "土"
 skip_number: 3-2-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - exist
 羅馬字: jai
 諺文: "재"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2054

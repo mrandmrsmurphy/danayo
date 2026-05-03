@@ -14,7 +14,7 @@ middle_chinese_final: uo
 stroke_count: 8
 radical: "肉"
 skip_number: 1-4-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - crotch

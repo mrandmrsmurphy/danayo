@@ -19,14 +19,14 @@ middle_chinese_final: "ɨuk"
 stroke_count: 4
 radical: "八"
 skip_number: 2-2-2
-grade_level: 1
+grade_level: "1"
 pos: "数詞"
 english:
   - six
   - 6
 羅馬字: lug
 諺文: "룩"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 49

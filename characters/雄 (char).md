@@ -13,7 +13,7 @@ middle_chinese_final: "ɨuŋ"
 stroke_count: 12
 radical: "隹"
 skip_number: 1-4-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - manly

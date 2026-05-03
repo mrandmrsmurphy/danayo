@@ -15,14 +15,14 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 10
 radical: "寸"
 skip_number: 1-3-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - will
   - shall
 羅馬字: jwang
 諺文: "좡"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2072

@@ -13,13 +13,13 @@ middle_chinese_final: "ɨo"
 stroke_count: 9
 radical: "木"
 skip_number: 1-4-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - pillar
 羅馬字: ju
 諺文: "주"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 4136

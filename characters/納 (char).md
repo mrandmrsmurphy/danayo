@@ -26,14 +26,14 @@ middle_chinese_final: "ʌp"
 stroke_count: 10
 radical: "糸"
 skip_number: 1-6-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - receive
   - accept
 羅馬字: nab
 諺文: "납"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 5151

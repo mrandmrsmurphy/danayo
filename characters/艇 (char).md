@@ -13,7 +13,7 @@ middle_chinese_final: "eŋ"
 stroke_count: 13
 radical: "舟"
 skip_number: 1-6-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - dinghy

@@ -16,14 +16,14 @@ middle_chinese_final: en
 stroke_count: 11
 radical: "玉"
 skip_number: 1-4-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - present
   - revealed
 羅馬字: hyen
 諺文: "현"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2168

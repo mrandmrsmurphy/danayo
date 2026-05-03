@@ -14,13 +14,13 @@ middle_chinese_final: "iᴇ"
 stroke_count: 7
 radical: "山"
 skip_number: 1-3-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - fork (in road)
 羅馬字: ge
 諺文: "거"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: ""
 hanmun_edu_level: "名"
 danayo_id: 6134

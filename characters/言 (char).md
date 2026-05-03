@@ -20,13 +20,13 @@ middle_chinese_final: "ɨɐn"
 stroke_count: 7
 radical: "言"
 skip_number: 2-1-6
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - say
 羅馬字: "'en"
 諺文: "언"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 4
 hanmun_edu_level: "中"
 danayo_id: 3237

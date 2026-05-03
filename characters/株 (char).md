@@ -15,7 +15,7 @@ middle_chinese_final: "ɨo"
 stroke_count: 10
 radical: "木"
 skip_number: 1-4-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - stock
@@ -23,7 +23,7 @@ english:
   - stump
 羅馬字: du
 諺文: "두"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4138

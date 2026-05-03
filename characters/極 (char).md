@@ -17,7 +17,7 @@ middle_chinese_final: ɨk
 stroke_count: 12
 radical: 木
 skip_number: 1-4-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - extreme
@@ -25,7 +25,7 @@ english:
   - utmost
 羅馬字: gig
 諺文: 긱
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 1
 hanmun_edu_level: 中
 danayo_id: 2139

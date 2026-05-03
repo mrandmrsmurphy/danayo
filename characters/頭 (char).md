@@ -15,13 +15,13 @@ middle_chinese_final: "əu"
 stroke_count: 16
 radical: "頁"
 skip_number: 1-7-9
-grade_level: 1
+grade_level: "1"
 pos: "名詞"
 english:
   - head
 羅馬字: tou
 諺文: "톳"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 248

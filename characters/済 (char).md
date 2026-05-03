@@ -13,14 +13,14 @@ middle_chinese_final: ei
 stroke_count: 11
 radical: "水"
 skip_number: 1-3-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - help
   - ferry
 羅馬字: jei
 諺文: "제"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4161

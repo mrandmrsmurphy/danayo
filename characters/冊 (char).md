@@ -14,13 +14,13 @@ middle_chinese_final: "ɣɛk"
 stroke_count: 5
 radical: "冂"
 skip_number: 4-5-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - book
 羅馬字: cag
 諺文: "착"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: 2
 hanmun_edu_level: "中"
 danayo_id: 3026

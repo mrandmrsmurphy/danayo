@@ -13,7 +13,7 @@ middle_chinese_final: "ɨu"
 stroke_count: 10
 radical: "衣"
 skip_number: 1-5-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sleeve

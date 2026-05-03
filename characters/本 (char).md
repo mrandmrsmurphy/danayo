@@ -21,13 +21,13 @@ middle_chinese_final: "uən"
 stroke_count: 5
 radical: "木"
 skip_number: 4-5-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - foundation
 羅馬字: bon
 諺文: "본"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 58

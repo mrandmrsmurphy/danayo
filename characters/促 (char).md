@@ -15,7 +15,7 @@ middle_chinese_final: "ɨok"
 stroke_count: 9
 radical: "人"
 skip_number: 1-2-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - hurry

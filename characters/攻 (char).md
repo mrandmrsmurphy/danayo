@@ -14,7 +14,7 @@ middle_chinese_final: "uoŋ"
 stroke_count: 7
 radical: "攴"
 skip_number: 1-3-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - attack

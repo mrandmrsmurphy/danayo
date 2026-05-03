@@ -16,13 +16,13 @@ middle_chinese_final: "ɨk"
 stroke_count: 9
 radical: "食"
 skip_number: 2-2-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - eat
 羅馬字: sig
 諺文: "식"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 3273

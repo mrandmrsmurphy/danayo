@@ -14,14 +14,14 @@ middle_chinese_final: wet
 stroke_count: 7
 radical: "水"
 skip_number: 1-3-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - determine
   - decide
 羅馬字: kwed
 諺文: "퀃"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2152

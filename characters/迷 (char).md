@@ -18,14 +18,14 @@ middle_chinese_final: ei
 stroke_count: 10
 radical: "辵"
 skip_number: 3-4-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - be lost
   - be confused
 羅馬字: mei
 諺文: "메"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4277

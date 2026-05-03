@@ -14,13 +14,13 @@ middle_chinese_final: uk
 stroke_count: 9
 radical: "尸"
 skip_number: 3-3-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - roof
 羅馬字: "'og"
 諺文: "옥"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2074

@@ -13,13 +13,13 @@ middle_chinese_final: "ɣiuɪ"
 stroke_count: 4
 radical: "水"
 skip_number: 1-1-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - water
 羅馬字: su
 諺文: "수"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 32

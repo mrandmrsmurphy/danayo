@@ -16,13 +16,13 @@ middle_chinese_final: "əu"
 stroke_count: 11
 radical: "邑"
 skip_number: 1-8-3
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - part
 羅馬字: bou
 諺文: "봇"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2256

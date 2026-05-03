@@ -13,7 +13,7 @@ middle_chinese_final: uo
 stroke_count: 13
 radical: "鼓"
 skip_number: 1-9-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - drum

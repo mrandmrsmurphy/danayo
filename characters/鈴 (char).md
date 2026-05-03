@@ -16,7 +16,7 @@ middle_chinese_final: "eŋ"
 stroke_count: 13
 radical: "金"
 skip_number: 1-8-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - small bell

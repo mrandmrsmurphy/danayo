@@ -16,13 +16,13 @@ middle_chinese_final: "ɨa"
 stroke_count: 15
 radical: "言"
 skip_number: 1-7-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - various
 羅馬字: ja
 諺文: "자"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: 4
 hanmun_edu_level: "中"
 danayo_id: 4316

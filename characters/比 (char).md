@@ -15,14 +15,14 @@ middle_chinese_final: "iɪ"
 stroke_count: 4
 radical: "比"
 skip_number: 1-2-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - than
   - compared too
 羅馬字: biǝ
 諺文: "븨"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2147

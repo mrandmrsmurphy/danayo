@@ -19,14 +19,14 @@ middle_chinese_final: "ɣiɪp"
 stroke_count: 8
 radical: "水"
 skip_number: 1-3-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - cry
   - sob
 羅馬字: kib
 諺文: "킵"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "4"
 hanmun_edu_level: "中"
 danayo_id: 4158

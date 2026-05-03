@@ -13,14 +13,14 @@ middle_chinese_final: "ʉɐn"
 stroke_count: 8
 radical: "刀"
 skip_number: 2-6-2
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - bond
   - certificate
 羅馬字: kon
 諺文: "콘"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "4"
 hanmun_edu_level: "無"
 danayo_id: 6144

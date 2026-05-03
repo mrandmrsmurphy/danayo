@@ -13,14 +13,14 @@ middle_chinese_final: "ɨuk"
 stroke_count: 17
 radical: "糸"
 skip_number: 1-6-11
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - shrink
   - contract
 羅馬字: sug
 諺文: "숙"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4215

@@ -13,7 +13,7 @@ middle_chinese_final: wen
 stroke_count: 9
 radical: "目"
 skip_number: 2-6-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - county
@@ -22,7 +22,7 @@ english:
   - subdivision
 羅馬字: hwen
 諺文: "훤"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: ""
 danayo_id: 4189

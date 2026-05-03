@@ -17,7 +17,7 @@ middle_chinese_final: "ɣiᴇ"
 stroke_count: 10
 radical: "衣"
 skip_number: 1-5-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - -ee (but a prefix)

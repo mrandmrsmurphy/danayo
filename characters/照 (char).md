@@ -13,13 +13,13 @@ middle_chinese_final: "iᴇu"
 stroke_count: 13
 radical: "火"
 skip_number: 2-9-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - shine
 羅馬字: jou
 諺文: "좃"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4175

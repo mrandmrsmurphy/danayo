@@ -14,7 +14,7 @@ middle_chinese_final: "iuɪn"
 stroke_count: 15
 radical: "水"
 skip_number: 1-3-12
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - soft

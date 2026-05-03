@@ -15,7 +15,7 @@ middle_chinese_final: "wək"
 stroke_count: 8
 radical: "戈"
 skip_number: 3-4-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - or

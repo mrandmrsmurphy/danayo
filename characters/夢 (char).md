@@ -19,13 +19,13 @@ middle_chinese_final: "ɨuŋ"
 stroke_count: 13
 radical: "夕"
 skip_number: 2-2-11
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - dream
 羅馬字: mung
 諺文: "뭉"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4069

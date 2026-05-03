@@ -17,7 +17,7 @@ middle_chinese_final: ɨ
 stroke_count: 12
 radical: 口
 skip_number: 2-3-9
-grade_level: 4
+grade_level: "4"
 pos: 事詞
 english:
   - like
@@ -25,7 +25,7 @@ english:
   - enjoy
 羅馬字: hi
 諺文: 히
-joyo_level: 5
+joyo_level: "5"
 hsk_level: 1
 hanmun_edu_level: 中
 danayo_id: 4058

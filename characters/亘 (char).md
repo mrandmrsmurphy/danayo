@@ -20,7 +20,7 @@ middle_chinese_final: "ʉɐn"
 stroke_count: 6
 radical: "二"
 skip_number: 2-1-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - swirl

@@ -13,13 +13,13 @@ middle_chinese_final: "ɨun"
 stroke_count: 10
 radical: "米"
 skip_number: 1-6-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - powder
 羅馬字: fun
 諺文: "뿐"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4204

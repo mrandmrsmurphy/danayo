@@ -15,13 +15,13 @@ middle_chinese_final: "əu"
 stroke_count: 7
 radical: "豆"
 skip_number: 2-1-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - bean
 羅馬字: dou
 諺文: "돗"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 2
 hanmun_edu_level: "中"
 danayo_id: 2239

@@ -14,13 +14,13 @@ middle_chinese_final: "ʉi"
 stroke_count: 5
 radical: "木"
 skip_number: 4-5-3
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - not yet
 羅馬字: mui
 諺文: "뮈"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 2
 hanmun_edu_level: "中"
 danayo_id: 2132

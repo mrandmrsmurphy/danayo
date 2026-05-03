@@ -13,13 +13,13 @@ middle_chinese_final: "ɨu"
 stroke_count: 4
 radical: "手"
 skip_number: 4-4-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - hand
 羅馬字: syu
 諺文: "슈"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 38

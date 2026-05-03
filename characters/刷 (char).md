@@ -18,14 +18,14 @@ middle_chinese_final: "ɣuat"
 stroke_count: 8
 radical: "刀"
 skip_number: 1-6-2
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - brush
   - scrub
 羅馬字: swad
 諺文: "솯"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4033

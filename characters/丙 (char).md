@@ -15,7 +15,7 @@ middle_chinese_final: "ɣiæŋ"
 stroke_count: 5
 radical: "一"
 skip_number: 4-5-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - third class

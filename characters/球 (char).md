@@ -14,14 +14,14 @@ middle_chinese_final: "ɨu"
 stroke_count: 11
 radical: "玉"
 skip_number: 1-4-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - sphere
   - ball
 羅馬字: gyu
 諺文: "규"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 1
 hanmun_edu_level: "高等"
 danayo_id: 3193

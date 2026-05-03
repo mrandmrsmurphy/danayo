@@ -15,7 +15,7 @@ middle_chinese_final: "eŋ"
 stroke_count: 9
 radical: "言"
 skip_number: 1-7-2
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - revise

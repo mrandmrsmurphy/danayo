@@ -13,14 +13,14 @@ middle_chinese_final: "ɑk"
 stroke_count: 9
 radical: "日"
 skip_number: 1-4-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - last
   - previous
 羅馬字: jag
 諺文: "작"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2123

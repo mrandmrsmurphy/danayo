@@ -14,13 +14,13 @@ middle_chinese_final: ei
 stroke_count: 8
 radical: "女"
 skip_number: 2-5-3
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - my wife
 羅馬字: cei
 諺文: "체"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3071

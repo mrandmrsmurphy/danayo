@@ -16,7 +16,7 @@ middle_chinese_final: "iɪn"
 stroke_count: 17
 radical: "頁"
 skip_number: 1-9-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - frequent

@@ -14,13 +14,13 @@ middle_chinese_final: ɣiɪm
 stroke_count: 13
 radical: 貝
 skip_number: 2-6-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - rent
 羅馬字: nim
 諺文: 님
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "6"
 hanmun_edu_level: 高等
 danayo_id: 6260

@@ -14,7 +14,7 @@ middle_chinese_final: "ɣæk"
 stroke_count: 17
 radical: "口"
 skip_number: 1-3-14
-grade_level: 6
+grade_level: "6"
 pos: "事詞"
 english:
   - scare

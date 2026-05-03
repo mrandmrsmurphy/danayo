@@ -15,13 +15,13 @@ middle_chinese_final: "uɑt"
 stroke_count: 9
 radical: "水"
 skip_number: 1-3-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - alive
 羅馬字: hwad
 諺文: "홛"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 164

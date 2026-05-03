@@ -14,13 +14,13 @@ middle_chinese_final: "ɨo"
 stroke_count: 4
 radical: "大"
 skip_number: 4-4-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - right?
 羅馬字: "fǝ"
 諺文: "쁘"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 4
 hanmun_edu_level: "中"
 danayo_id: 4315

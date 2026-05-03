@@ -19,7 +19,7 @@ middle_chinese_final: "uŋ"
 stroke_count: 22
 radical: "竹"
 skip_number: 2-6-16
-grade_level: 6
+grade_level: "6"
 pos: "名詞"
 english:
   - basket

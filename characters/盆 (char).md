@@ -18,7 +18,7 @@ middle_chinese_final: "uən"
 stroke_count: 9
 radical: "皿"
 skip_number: 2-2-7
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - basin

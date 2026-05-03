@@ -15,13 +15,13 @@ middle_chinese_final: "ǝu"
 stroke_count: 7
 radical: "走"
 skip_number: 2-3-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - run
 羅馬字: sou
 諺文: "솟"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 111

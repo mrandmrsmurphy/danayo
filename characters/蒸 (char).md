@@ -14,13 +14,13 @@ middle_chinese_final: "ɨŋ"
 stroke_count: 13
 radical: "艸"
 skip_number: 2-3-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - steam
 羅馬字: jing
 諺文: "징"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5148

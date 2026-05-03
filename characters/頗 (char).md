@@ -13,7 +13,7 @@ middle_chinese_final: "uɑ"
 stroke_count: 14
 radical: "頁"
 skip_number: 1-5-9
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - very

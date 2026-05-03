@@ -16,13 +16,13 @@ middle_chinese_final: "uʌi"
 stroke_count: 9
 radical: "肉"
 skip_number: 2-5-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - back
 羅馬字: boi
 諺文: "뵈"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: 2
 hanmun_edu_level: "高等"
 danayo_id: 4226

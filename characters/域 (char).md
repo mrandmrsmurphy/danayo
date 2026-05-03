@@ -17,14 +17,14 @@ middle_chinese_final: "wɨk"
 stroke_count: 11
 radical: "土"
 skip_number: 1-3-8
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - domain
   - level
 羅馬字: "'wig"
 諺文: "윅"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: ""
 danayo_id: 5141

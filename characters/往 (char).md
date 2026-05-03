@@ -18,13 +18,13 @@ middle_chinese_final: "ʉɐŋ"
 stroke_count: 8
 radical: "彳"
 skip_number: 1-3-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - to go towards
 羅馬字: "'wang"
 諺文: "왕"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2094

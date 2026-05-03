@@ -14,7 +14,7 @@ middle_chinese_final: uo
 stroke_count: 8
 radical: "儿"
 skip_number: 4-8-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - rabbit

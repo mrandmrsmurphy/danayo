@@ -19,7 +19,7 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 12
 radical: "手"
 skip_number: 1-3-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - scatter

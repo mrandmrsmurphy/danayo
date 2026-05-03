@@ -17,13 +17,13 @@ middle_chinese_final: "ʉɐn"
 stroke_count: 13
 radical: "辵"
 skip_number: 3-3-10
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - far
 羅馬字: "'on"
 諺文: "온"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 239

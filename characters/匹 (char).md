@@ -19,7 +19,7 @@ middle_chinese_final: "iɪt"
 stroke_count: 4
 radical: "匸"
 skip_number: 3-2-2
-grade_level: 3
+grade_level: "3"
 pos: "量詞"
 english:
   - animals

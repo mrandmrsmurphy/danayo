@@ -17,7 +17,7 @@ middle_chinese_final: "iᴇ"
 stroke_count: 14
 radical: "小"
 skip_number: 4-14-1
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - yes

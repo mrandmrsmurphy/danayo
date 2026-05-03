@@ -14,7 +14,7 @@ middle_chinese_final: "əu"
 stroke_count: 9
 radical: "木"
 skip_number: 2-5-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - some

@@ -16,13 +16,13 @@ middle_chinese_final: "wɑŋ"
 stroke_count: 6
 radical: "儿"
 skip_number: 2-4-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - light
 羅馬字: kwang
 諺文: "쾅"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2021

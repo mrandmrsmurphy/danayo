@@ -15,7 +15,7 @@ middle_chinese_final: "ǝŋ"
 stroke_count: 12
 radical: "癶"
 skip_number: 2-5-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - mount
@@ -23,7 +23,7 @@ english:
   - climb
 羅馬字: dung
 諺文: "둥"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2174

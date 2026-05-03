@@ -13,7 +13,7 @@ middle_chinese_final: "ɨ"
 stroke_count: 7
 radical: "人"
 skip_number: 1-2-5
-grade_level: 5
+grade_level: "5"
 pos: "格助詞"
 english:
   - like
@@ -22,7 +22,7 @@ english:
   - as if
 羅馬字: sa
 諺文: "사"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: 4
 hanmun_edu_level: "高等"
 danayo_id: 5330

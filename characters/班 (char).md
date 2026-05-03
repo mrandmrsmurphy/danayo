@@ -15,7 +15,7 @@ middle_chinese_final: "ɣan"
 stroke_count: 10
 radical: "玉"
 skip_number: 1-4-6
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - group
@@ -23,7 +23,7 @@ english:
   - section
 羅馬字: pan
 諺文: "판"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: 1
 hanmun_edu_level: "高等"
 danayo_id: 4185

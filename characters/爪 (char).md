@@ -16,7 +16,7 @@ middle_chinese_final: "ɣau"
 stroke_count: 4
 radical: "爪"
 skip_number: 3-3-1
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - animal foot

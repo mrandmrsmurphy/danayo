@@ -13,7 +13,7 @@ middle_chinese_final: uo
 stroke_count: 8
 radical: "虍"
 skip_number: 3-4-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - tiger

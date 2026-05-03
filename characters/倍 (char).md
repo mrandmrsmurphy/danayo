@@ -18,13 +18,13 @@ middle_chinese_final: "ʌi"
 stroke_count: 10
 radical: "人"
 skip_number: 1-2-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - times
 羅馬字: bai
 諺文: "배"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 1
 hanmun_edu_level: "高等"
 danayo_id: 3021

@@ -13,13 +13,13 @@ middle_chinese_final: "eŋ"
 stroke_count: 8
 radical: "一"
 skip_number: 2-3-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - side by side
 羅馬字: beng
 諺文: "벙"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: 2
 hanmun_edu_level: "高等"
 danayo_id: 4319

@@ -15,14 +15,14 @@ middle_chinese_final: "uʌi"
 stroke_count: 13
 radical: "网"
 skip_number: 2-5-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - sin
   - crime
 羅馬字: joi
 諺文: "죄"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 3221

@@ -21,7 +21,7 @@ middle_chinese_final: "ɣiᴇt"
 stroke_count: 7
 radical: "刀"
 skip_number: 1-5-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - don’t
@@ -29,7 +29,7 @@ english:
   - other
 羅馬字: bed
 諺文: "벋"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2031

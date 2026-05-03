@@ -14,7 +14,7 @@ middle_chinese_final: "ɨi"
 stroke_count: 12
 radical: "幺"
 skip_number: 4-12-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - several

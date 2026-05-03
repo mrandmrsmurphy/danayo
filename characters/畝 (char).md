@@ -15,7 +15,7 @@ middle_chinese_final: "əu"
 stroke_count: 10
 radical: "田"
 skip_number: 1-7-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - furrow

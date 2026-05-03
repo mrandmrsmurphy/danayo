@@ -15,14 +15,14 @@ middle_chinese_final: uk
 stroke_count: 11
 radical: "辵"
 skip_number: 3-4-7
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - quick
   - fast
 羅馬字: sog
 諺文: "속"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2249

@@ -14,7 +14,7 @@ middle_chinese_final: "ɨoŋ"
 stroke_count: 9
 radical: "寸"
 skip_number: 1-6-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - seal

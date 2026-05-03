@@ -18,7 +18,7 @@ middle_chinese_final: ei
 stroke_count: 8
 radical: "广"
 skip_number: 3-3-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - bottom
@@ -27,7 +27,7 @@ english:
   - base
 羅馬字: dei
 諺文: "데"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4095

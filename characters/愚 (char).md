@@ -13,7 +13,7 @@ middle_chinese_final: "ɨo"
 stroke_count: 13
 radical: "心"
 skip_number: 2-9-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - foolish

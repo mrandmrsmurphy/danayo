@@ -13,7 +13,7 @@ middle_chinese_final: "ǝŋ"
 stroke_count: 11
 radical: "山"
 skip_number: 2-3-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - crumble

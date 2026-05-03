@@ -14,13 +14,13 @@ middle_chinese_final: "ɨuk"
 stroke_count: 6
 radical: "竹"
 skip_number: 1-3-3
-grade_level: 1
+grade_level: "1"
 pos: "名詞"
 english:
   - bamboo
 羅馬字: jug
 諺文: "죽"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 2
 hanmun_edu_level: "中"
 danayo_id: 79

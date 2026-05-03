@@ -16,13 +16,13 @@ middle_chinese_final: "ʌm"
 stroke_count: 10
 radical: "虫"
 skip_number: 2-4-6
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - silkworm
 羅馬字: jam
 諺文: "잠"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 5153

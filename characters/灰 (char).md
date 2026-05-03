@@ -18,13 +18,13 @@ middle_chinese_final: "uʌi"
 stroke_count: 6
 radical: "火"
 skip_number: 3-2-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - ashes
 羅馬字: hoi
 諺文: "회"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 4171

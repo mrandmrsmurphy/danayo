@@ -14,13 +14,13 @@ middle_chinese_final: "iɪ"
 stroke_count: 14
 radical: "鼻"
 skip_number: 2-6-8
-grade_level: 2
+grade_level: "2"
 pos: "名詞"
 english:
   - nose
 羅馬字: bi
 諺文: "비"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2278

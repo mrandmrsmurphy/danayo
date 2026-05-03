@@ -15,13 +15,13 @@ middle_chinese_final: "ɨʌ"
 stroke_count: 3
 radical: "女"
 skip_number: 4-3-4
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - woman
 羅馬字: "nǝ"
 諺文: "느"
-joyo_level: 1
+joyo_level: "1"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 25

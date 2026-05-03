@@ -13,7 +13,7 @@ middle_chinese_final: "ɣiᴇ"
 stroke_count: 8
 radical: "彳"
 skip_number: 1-3-5
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - yon

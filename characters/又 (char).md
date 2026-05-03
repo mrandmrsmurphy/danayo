@@ -14,7 +14,7 @@ middle_chinese_final: "ɨu"
 stroke_count: 2
 radical: "又"
 skip_number: 4-2-1
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - or again

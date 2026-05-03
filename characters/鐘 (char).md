@@ -14,7 +14,7 @@ middle_chinese_final: "ɨoŋ"
 stroke_count: 20
 radical: "金"
 skip_number: 1-8-12
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - bell

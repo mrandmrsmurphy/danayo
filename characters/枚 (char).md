@@ -14,14 +14,14 @@ middle_chinese_final: "uʌi"
 stroke_count: 8
 radical: "木"
 skip_number: 1-4-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sheets of
   - stalks of
 羅馬字: moi
 諺文: "뫼"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6145

@@ -15,14 +15,14 @@ middle_chinese_final: "ɨu"
 stroke_count: 9
 radical: "貝"
 skip_number: 2-2-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - carry
   - bear
 羅馬字: byu
 諺文: "뷰"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 3246

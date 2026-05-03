@@ -13,13 +13,13 @@ middle_chinese_final: "ɨu"
 stroke_count: 8
 radical: "宀"
 skip_number: 2-3-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - eternity
 羅馬字: juo
 諺文: "줏"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: 3
 hanmun_edu_level: "中"
 danayo_id: 3084

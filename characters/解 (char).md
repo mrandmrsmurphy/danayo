@@ -15,13 +15,13 @@ middle_chinese_final: "ɣɛ"
 stroke_count: 13
 radical: "角"
 skip_number: 1-7-6
-grade_level: 3
+grade_level: "3"
 pos: "事詞"
 english:
   - explain
 羅馬字: gyai
 諺文: "걔"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 3236

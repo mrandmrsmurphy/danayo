@@ -17,14 +17,14 @@ middle_chinese_final: "iuᴇt"
 stroke_count: 12
 radical: "糸"
 skip_number: 1-6-6
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - discontinue
   - break off
 羅馬字: jwed
 諺文: "줟"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3220

@@ -19,7 +19,7 @@ middle_chinese_final: ek
 stroke_count: 12
 radical: "口"
 skip_number: 1-3-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - devour

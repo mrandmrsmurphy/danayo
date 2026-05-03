@@ -13,7 +13,7 @@ middle_chinese_final: "ɑu"
 stroke_count: 10
 radical: "人"
 skip_number: 1-2-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - turn over

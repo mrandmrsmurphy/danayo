@@ -14,7 +14,7 @@ middle_chinese_final: "ɨun"
 stroke_count: 10
 radical: "言"
 skip_number: 1-7-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - interpret
@@ -24,7 +24,7 @@ english:
   - exegete
 羅馬字: hun
 諺文: "훈"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 4250

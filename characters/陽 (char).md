@@ -15,13 +15,13 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 12
 radical: "阜"
 skip_number: 1-3-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - shine
 羅馬字: "'yang"
 諺文: "양"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 4
 hanmun_edu_level: "中"
 danayo_id: 3265

@@ -18,7 +18,7 @@ middle_chinese_final: "ɨun"
 stroke_count: 10
 radical: "邑"
 skip_number: 1-7-3
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - county
@@ -27,7 +27,7 @@ english:
   - commandery
 羅馬字: gun
 諺文: "군"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "無"
 hanmun_edu_level: "中"
 danayo_id: 5162

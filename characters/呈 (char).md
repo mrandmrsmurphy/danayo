@@ -20,7 +20,7 @@ middle_chinese_final: "iᴇŋ"
 stroke_count: 7
 radical: "口"
 skip_number: 2-3-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - display

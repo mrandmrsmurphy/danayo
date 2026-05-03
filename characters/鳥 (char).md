@@ -17,13 +17,13 @@ middle_chinese_final: eu
 stroke_count: 11
 radical: "鳥"
 skip_number: 3-7-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - bird
 羅馬字: cou
 諺文: "촛"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2275

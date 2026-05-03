@@ -14,7 +14,7 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 18
 radical: "米"
 skip_number: 1-6-12
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - provisions

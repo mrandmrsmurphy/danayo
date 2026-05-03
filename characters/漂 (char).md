@@ -23,7 +23,7 @@ middle_chinese_final: "iᴇu"
 stroke_count: 14
 radical: "水"
 skip_number: 1-3-11
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - drift

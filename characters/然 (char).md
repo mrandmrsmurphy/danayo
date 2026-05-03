@@ -16,13 +16,13 @@ middle_chinese_final: "iᴇn"
 stroke_count: 12
 radical: "火"
 skip_number: 2-8-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - so
 羅馬字: nyen
 諺文: "년"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2162

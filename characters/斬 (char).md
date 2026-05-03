@@ -15,7 +15,7 @@ middle_chinese_final: "ɣɛm"
 stroke_count: 11
 radical: "斤"
 skip_number: 1-7-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - cut

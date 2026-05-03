@@ -15,13 +15,13 @@ middle_chinese_final: "uɑn"
 stroke_count: 9
 radical: "殳"
 skip_number: 1-5-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - step
 羅馬字: dwan
 諺文: "돤"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4150

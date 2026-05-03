@@ -14,7 +14,7 @@ middle_chinese_final: "iᴇ"
 stroke_count: 9
 radical: "日"
 skip_number: 2-4-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - is

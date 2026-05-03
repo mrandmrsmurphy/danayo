@@ -15,7 +15,7 @@ middle_chinese_final: "iᴇu"
 stroke_count: 10
 radical: "水"
 skip_number: 1-3-7
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - vanish
@@ -23,7 +23,7 @@ english:
   - melt away
 羅馬字: syou
 諺文: "숏"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 5137

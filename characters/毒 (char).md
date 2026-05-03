@@ -15,13 +15,13 @@ middle_chinese_final: uok
 stroke_count: 8
 radical: "毋"
 skip_number: 2-4-4
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - poisonous
 羅馬字: dog
 諺文: "독"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 4151

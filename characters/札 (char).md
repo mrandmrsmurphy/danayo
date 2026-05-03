@@ -15,14 +15,14 @@ middle_chinese_final: "ɣɛt"
 stroke_count: 5
 radical: "木"
 skip_number: 1-4-1
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - letter
   - note
 羅馬字: jad
 諺文: "잗"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6059

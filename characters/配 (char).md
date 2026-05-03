@@ -15,14 +15,14 @@ middle_chinese_final: "uʌi"
 stroke_count: 10
 radical: "酉"
 skip_number: 1-7-3
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - match
   - pair
 羅馬字: poi
 諺文: "푀"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4284

@@ -20,7 +20,7 @@ middle_chinese_final: "ɨoŋ"
 stroke_count: 10
 radical: "宀"
 skip_number: 2-3-7
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - look
@@ -29,7 +29,7 @@ english:
   - figure
 羅馬字: "'yong"
 諺文: "용"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 3087

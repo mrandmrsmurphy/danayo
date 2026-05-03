@@ -16,7 +16,7 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 15
 radical: "竹"
 skip_number: 1-6-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - case
@@ -25,7 +25,7 @@ english:
   - trunk
 羅馬字: sang
 諺文: "상"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 5327

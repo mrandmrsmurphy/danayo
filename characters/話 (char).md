@@ -14,14 +14,14 @@ middle_chinese_final: "ɣuai"
 stroke_count: 13
 radical: "言"
 skip_number: 1-7-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - speak on
   - talk about
 羅馬字: hwai
 諺文: "홰"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 230

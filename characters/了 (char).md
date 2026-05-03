@@ -18,7 +18,7 @@ middle_chinese_final: eu
 stroke_count: 2
 radical: "亅"
 skip_number: 4-2-1
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - done

@@ -16,7 +16,7 @@ middle_chinese_final: "ɣiᴇu"
 stroke_count: 12
 radical: "走"
 skip_number: 3-7-5
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - transcend

@@ -16,7 +16,7 @@ middle_chinese_final: "ən"
 stroke_count: 9
 radical: "心"
 skip_number: 1-3-6
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - hate

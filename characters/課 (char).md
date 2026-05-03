@@ -18,14 +18,14 @@ middle_chinese_final: "uɑ"
 stroke_count: 15
 radical: "言"
 skip_number: 1-7-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - lesson
   - chapter
 羅馬字: kwam
 諺文: "쾀"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2233

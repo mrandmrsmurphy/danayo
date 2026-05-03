@@ -14,13 +14,13 @@ middle_chinese_final: "ɨu"
 stroke_count: 3
 radical: "丿"
 skip_number: 4-3-1
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - long time (ago)
 羅馬字: gyu
 諺文: "규"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2002

@@ -15,13 +15,13 @@ middle_chinese_final: "ɑŋ"
 stroke_count: 12
 radical: "水"
 skip_number: 1-3-9
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - hot water
 羅馬字: tang
 諺文: "탕"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: ""
 hanmun_edu_level: "高等"
 danayo_id: 3187

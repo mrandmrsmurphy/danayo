@@ -17,13 +17,13 @@ middle_chinese_final: "ɨ"
 stroke_count: 3
 radical: "士"
 skip_number: 4-3-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - scholar
 羅馬字: sai
 諺文: "새"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2061

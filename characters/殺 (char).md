@@ -21,13 +21,13 @@ middle_chinese_final: "ɣɛt"
 stroke_count: 10
 radical: "殳"
 skip_number: 1-6-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - kill
 羅馬字: sad
 諺文: "삳"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2146

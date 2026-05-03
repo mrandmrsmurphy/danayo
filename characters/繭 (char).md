@@ -14,7 +14,7 @@ middle_chinese_final: en
 stroke_count: 18
 radical: "糸"
 skip_number: 2-3-15
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - cocoon

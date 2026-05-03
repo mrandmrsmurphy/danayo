@@ -13,13 +13,13 @@ middle_chinese_final: "ɣiɪ"
 stroke_count: 5
 radical: "矢"
 skip_number: 2-2-3
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - arrow
 羅馬字: siǝ
 諺文: "싀"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 6453

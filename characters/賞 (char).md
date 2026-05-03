@@ -13,13 +13,13 @@ middle_chinese_final: "ɨɐŋ"
 stroke_count: 15
 radical: "貝"
 skip_number: 2-5-10
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - reward
 羅馬字: syang
 諺文: "샹"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 3
 hanmun_edu_level: "中"
 danayo_id: 3248

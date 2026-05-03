@@ -16,7 +16,7 @@ middle_chinese_final: "iɪ"
 stroke_count: 12
 radical: "貝"
 skip_number: 3-3-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - disloyal

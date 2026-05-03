@@ -18,7 +18,7 @@ middle_chinese_final: "ɑn"
 stroke_count: 13
 radical: "口"
 skip_number: 1-3-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - moan

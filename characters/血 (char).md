@@ -15,13 +15,13 @@ middle_chinese_final: wet
 stroke_count: 6
 radical: "血"
 skip_number: 4-6-2
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - blood
 羅馬字: hwed
 諺文: "훧"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2219

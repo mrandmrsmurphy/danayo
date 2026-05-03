@@ -13,14 +13,14 @@ middle_chinese_final: "iɪ"
 stroke_count: 11
 radical: "見"
 skip_number: 1-4-7
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - look at
   - inspect
 羅馬字: siǝ
 諺文: "싀"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 4247

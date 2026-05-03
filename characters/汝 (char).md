@@ -22,7 +22,7 @@ middle_chinese_final: "ɨʌ"
 stroke_count: 6
 radical: "水"
 skip_number: 1-3-3
-grade_level: 6
+grade_level: "6"
 pos: "代詞"
 english:
   - you dear

@@ -14,13 +14,13 @@ middle_chinese_final: "ɨ"
 stroke_count: 10
 radical: "走"
 skip_number: 3-7-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - rise up
 羅馬字: ki
 諺文: "키"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 186

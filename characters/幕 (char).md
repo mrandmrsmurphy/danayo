@@ -14,13 +14,13 @@ middle_chinese_final: "ɑk"
 stroke_count: 13
 radical: "巾"
 skip_number: 2-3-10
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - curtain
 羅馬字: mag
 諺文: "막"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5140

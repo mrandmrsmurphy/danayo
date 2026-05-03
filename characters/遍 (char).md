@@ -14,7 +14,7 @@ middle_chinese_final: en
 stroke_count: 12
 radical: "辵"
 skip_number: 3-3-9
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - everywhere

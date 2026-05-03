@@ -15,7 +15,7 @@ middle_chinese_final: en
 stroke_count: 9
 radical: "刀"
 skip_number: 2-3-6
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - front
@@ -23,7 +23,7 @@ english:
   - preceeding
 羅馬字: jen
 諺文: "전"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 179

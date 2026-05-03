@@ -14,7 +14,7 @@ middle_chinese_final: "ɨoŋ"
 stroke_count: 11
 radical: "言"
 skip_number: 1-7-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - sue

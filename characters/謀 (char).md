@@ -14,7 +14,7 @@ middle_chinese_final: "ɨu"
 stroke_count: 16
 radical: "言"
 skip_number: 1-7-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - conspire

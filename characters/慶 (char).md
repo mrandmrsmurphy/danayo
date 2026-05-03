@@ -15,7 +15,7 @@ middle_chinese_final: "ɣiæŋ"
 stroke_count: 15
 radical: "心"
 skip_number: 3-3-12
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - congratulate

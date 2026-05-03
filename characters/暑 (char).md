@@ -13,13 +13,13 @@ middle_chinese_final: "ɨʌ"
 stroke_count: 12
 radical: "日"
 skip_number: 2-4-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - hot (weather)
 羅馬字: syo
 諺文: "쇼"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2126

@@ -15,7 +15,7 @@ middle_chinese_final: "ʉɐn"
 stroke_count: 4
 radical: "又"
 skip_number: 3-2-2
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - anti-
@@ -23,7 +23,7 @@ english:
   - rebel
 羅馬字: fon
 諺文: "뽄"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 3049

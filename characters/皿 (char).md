@@ -18,14 +18,14 @@ middle_chinese_final: "ɣiæŋ"
 stroke_count: 5
 radical: "皿"
 skip_number: 4-5-1
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - dish
   - container
 羅馬字: myeng
 諺文: "명"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 5360

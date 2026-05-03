@@ -16,7 +16,7 @@ middle_chinese_final: "ɣɛ"
 stroke_count: 13
 radical: "矢"
 skip_number: 1-5-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - short (person)

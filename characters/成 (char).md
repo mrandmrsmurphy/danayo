@@ -14,13 +14,13 @@ middle_chinese_final: "iᴇŋ"
 stroke_count: 6
 radical: "戈"
 skip_number: 4-6-4
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - become
 羅馬字: sing
 諺文: "싱"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2104

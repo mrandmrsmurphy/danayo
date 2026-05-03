@@ -17,13 +17,13 @@ middle_chinese_final: "ɨu"
 stroke_count: 4
 radical: "牛"
 skip_number: 4-4-3
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - cow
 羅馬字: nyu
 諺文: "뉴"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 39

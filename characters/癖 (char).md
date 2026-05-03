@@ -14,7 +14,7 @@ middle_chinese_final: "iᴇk"
 stroke_count: 18
 radical: "疒"
 skip_number: 3-5-13
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - idiosyncrasy

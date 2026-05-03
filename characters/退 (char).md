@@ -20,7 +20,7 @@ middle_chinese_final: "uʌi"
 stroke_count: 9
 radical: "辵"
 skip_number: 3-3-6
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - retreat
@@ -28,7 +28,7 @@ english:
   - withdraw
 羅馬字: tiǝ
 諺文: "틔"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 2248

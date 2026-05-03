@@ -14,14 +14,14 @@ middle_chinese_final: "iuɪ"
 stroke_count: 15
 radical: "辵"
 skip_number: 3-3-12
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - lose
   - leave behind
 羅馬字: "'yei"
 諺文: "예"
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 3254

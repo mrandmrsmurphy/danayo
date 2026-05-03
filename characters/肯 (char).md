@@ -16,7 +16,7 @@ middle_chinese_final: "əŋ"
 stroke_count: 8
 radical: "肉"
 skip_number: 2-4-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - agree

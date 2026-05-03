@@ -13,13 +13,13 @@ middle_chinese_final: ia
 stroke_count: 8
 radical: "老"
 skip_number: 3-4-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - -er
 羅馬字: ca
 諺文: "차"
-joyo_level: 3
+joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: ""
 danayo_id: 3223

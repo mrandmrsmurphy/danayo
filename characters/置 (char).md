@@ -13,14 +13,14 @@ middle_chinese_final: "ɨ"
 stroke_count: 13
 radical: "网"
 skip_number: 2-5-8
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - put
   - place
 羅馬字: ci
 諺文: "치"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5336

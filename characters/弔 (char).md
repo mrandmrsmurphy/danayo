@@ -14,7 +14,7 @@ middle_chinese_final: ek
 stroke_count: 4
 radical: "弓"
 skip_number: 4-4-1
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - condol

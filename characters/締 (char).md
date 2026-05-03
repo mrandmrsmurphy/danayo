@@ -15,7 +15,7 @@ middle_chinese_final: ei
 stroke_count: 15
 radical: "糸"
 skip_number: 1-6-9
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - connection

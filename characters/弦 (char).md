@@ -13,7 +13,7 @@ middle_chinese_final: en
 stroke_count: 8
 radical: "弓"
 skip_number: 1-3-5
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - bowstring

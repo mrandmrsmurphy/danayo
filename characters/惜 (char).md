@@ -15,7 +15,7 @@ middle_chinese_final: "iᴇk"
 stroke_count: 11
 radical: "心"
 skip_number: 1-3-8
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - begrudge

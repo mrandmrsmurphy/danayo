@@ -13,7 +13,7 @@ middle_chinese_final: "wǝk"
 stroke_count: 12
 radical: "心"
 skip_number: 2-8-4
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - annoying

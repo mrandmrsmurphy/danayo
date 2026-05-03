@@ -17,13 +17,13 @@ middle_chinese_final: "uɑi"
 stroke_count: 12
 radical: "曰"
 skip_number: 2-4-8
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - most
 羅馬字: jwe
 諺文: "줘"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 2129

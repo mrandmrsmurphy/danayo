@@ -13,7 +13,7 @@ middle_chinese_final: "uɑn"
 stroke_count: 12
 radical: "木"
 skip_number: 1-4-8
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - coffin

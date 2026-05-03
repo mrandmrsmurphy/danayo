@@ -22,7 +22,7 @@ english:
   - red
 羅馬字: hong
 諺文: 홍
-joyo_level: 6
+joyo_level: "6"
 hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2195

@@ -16,7 +16,7 @@ middle_chinese_final: "iɪm"
 stroke_count: 12
 radical: "寸"
 skip_number: 2-3-9
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - inquire for

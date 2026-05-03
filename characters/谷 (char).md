@@ -16,13 +16,13 @@ middle_chinese_final: uk
 stroke_count: 7
 radical: "谷"
 skip_number: 2-2-5
-grade_level: 2
+grade_level: "2"
 pos: ""
 english:
   - valley
 羅馬字: gog
 諺文: "곡"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 2238

@@ -15,7 +15,7 @@ middle_chinese_final: "ɨo"
 stroke_count: 8
 radical: "阜"
 skip_number: 1-3-5
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - affix

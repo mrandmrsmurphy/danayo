@@ -13,7 +13,7 @@ middle_chinese_final: "iuɪt"
 stroke_count: 11
 radical: "行"
 skip_number: 1-3-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - skill
@@ -21,7 +21,7 @@ english:
   - technique
 羅馬字: sud
 諺文: "숟"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: 1
 hanmun_edu_level: "高等"
 danayo_id: 4242

@@ -21,13 +21,13 @@ middle_chinese_final: "eŋ"
 stroke_count: 5
 radical: "人"
 skip_number: 2-2-3
-grade_level: 3
+grade_level: "3"
 pos: "修飾語"
 english:
   - cause (causative)
 羅馬字: leng
 諺文: "렁"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3009

@@ -13,13 +13,13 @@ middle_chinese_final: "iɪ"
 stroke_count: 11
 radical: "木"
 skip_number: 2-7-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - pear
 羅馬字: liǝ
 諺文: "릐"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5215

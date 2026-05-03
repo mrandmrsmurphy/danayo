@@ -15,13 +15,13 @@ middle_chinese_final: "ɨun"
 stroke_count: 4
 radical: "刀"
 skip_number: 2-2-2
-grade_level: 1
+grade_level: "1"
 pos: ""
 english:
   - divide
 羅馬字: bun
 諺文: "분"
-joyo_level: 2
+joyo_level: "2"
 hsk_level: 1
 hanmun_edu_level: "中"
 danayo_id: 44

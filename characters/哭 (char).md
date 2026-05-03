@@ -14,7 +14,7 @@ middle_chinese_final: uk
 stroke_count: 10
 radical: "口"
 skip_number: 2-6-4
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - cry

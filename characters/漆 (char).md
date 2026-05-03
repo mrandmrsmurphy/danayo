@@ -13,7 +13,7 @@ middle_chinese_final: "iɪt"
 stroke_count: 14
 radical: "水"
 skip_number: 1-3-11
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - varnish

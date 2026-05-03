@@ -20,14 +20,14 @@ middle_chinese_final: "ɨʌ"
 stroke_count: 11
 radical: "言"
 skip_number: 1-7-4
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - permit
   - allow
 羅馬字: hyo
 諺文: "효"
-joyo_level: 5
+joyo_level: "5"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 3238

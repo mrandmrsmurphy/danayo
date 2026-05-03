@@ -13,7 +13,7 @@ middle_chinese_final: "ɨu"
 stroke_count: 9
 radical: "木"
 skip_number: 1-4-5
-grade_level: 3
+grade_level: "3"
 pos: ""
 english:
   - willow

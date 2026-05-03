@@ -15,7 +15,7 @@ middle_chinese_final: "iuɪn"
 stroke_count: 15
 radical: "車"
 skip_number: 1-7-8
-grade_level: 4
+grade_level: "4"
 pos: ""
 english:
   - wheel
@@ -24,7 +24,7 @@ english:
   - loop
 羅馬字: lun
 諺文: "룬"
-joyo_level: 4
+joyo_level: "4"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4272

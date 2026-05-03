@@ -16,7 +16,7 @@ middle_chinese_final: "uʌi"
 stroke_count: 13
 radical: "人"
 skip_number: 1-2-11
-grade_level: 5
+grade_level: "5"
 pos: ""
 english:
   - press (a person for)

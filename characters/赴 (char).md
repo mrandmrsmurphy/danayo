@@ -13,7 +13,7 @@ middle_chinese_final: "ɨo"
 stroke_count: 9
 radical: "走"
 skip_number: 3-7-2
-grade_level: 6
+grade_level: "6"
 pos: ""
 english:
   - attend
