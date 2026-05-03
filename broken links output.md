@@ -190,7 +190,6 @@
 - [[投票率]] in [[characters/率]]
 - [[率先]] in [[characters/率]]
 - [[百分率]] in [[characters/率]]
-- [[ㄙ⼔]] in [[characters/瑞]], [[syllables/Syllables]]
 - [[真相]] in [[characters/相]]
 - [[弱不禁風]] in [[characters/禁]]
 - [[令行禁止]] in [[characters/禁]]

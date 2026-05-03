@@ -19,8 +19,8 @@ pos: ""
 english:
   - run fast
   - drive quickly
-羅馬字: jui
-諺文: 쥐
+羅馬字: cǝ
+諺文: 츠
 joyo_level: 日本人名用漢字
 hsk_level: "4"
 hanmun_edu_level: 名
@@ -30,7 +30,7 @@ graphemic_classification: 也
 stand_in: 馳
 aliases:
   - 驰
-注音: ㄐㄨㄧ
+注音: ㄑㄜ
 kwin: false
 tags:
   - character

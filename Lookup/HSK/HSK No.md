@@ -298,7 +298,7 @@ tags: [lookup]
 [旭](characters/旭.md)
 [銑](characters/銑.md)
 [茸](characters/茸.md)
-[頤 (char)](characters/頤%20(char).md)
+[頤](../../characters/頤.md)
 [胰](characters/胰.md)
 [[尹]]
 [[邵]]

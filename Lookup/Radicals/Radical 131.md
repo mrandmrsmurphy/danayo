@@ -12,7 +12,7 @@ tags: [lookup]
 2. <ruby>[臥 (char)](/characters/臥%20(char).md)<rt>⺢</rt></ruby> "crouch"
 3. <ruby>[臨](/characters/臨.md)<rt>ㄌㄧㄇ</rt></ruby> "approach"
 
-Unrelated to [頤 (char)](../../characters/頤%20(char).md)
+Unrelated to [頤](../../characters/頤.md)
 
 ## Data search
 ```dataview

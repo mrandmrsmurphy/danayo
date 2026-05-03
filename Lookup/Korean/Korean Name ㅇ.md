@@ -185,7 +185,7 @@ All have been checked for redirects.
 [倚](characters/倚%20(char).md) [誼](characters/誼.md) [毅](characters/毅.md) [擬](characters/擬%20(char).md) [懿](characters/懿.md) [椅](characters/椅.md) [[艤]] [[薏]] [蟻](characters/蛾%20(char).md)
 
 ### 이 
-[[珥]] [伊](characters/伊.md) [易](characters/易.md) [弛](characters/施.md) [[怡]] [爾 (char)](characters/爾%20(char).md) [[彝]] [頤](characters/頤%20(char).md) [姨](characters/姨.md) [[痍]] [[肄]] [[苡]] [[荑]] [[貽]] [邇](characters/爾%20(char).md) [飴](characters/飴.md) [貳](characters/貳%20(char).md) [[媐]] [[杝]] [[䏪]] [[㛅]] [[珆]] [[鴯]] [[彝]] ([[彛]])
+[[珥]] [伊](characters/伊.md) [易](characters/易.md) [弛](characters/施.md) [[怡]] [爾 (char)](characters/爾%20(char).md) [[彝]] [頤](../../characters/頤.md) [姨](characters/姨.md) [[痍]] [[肄]] [[苡]] [[荑]] [[貽]] [邇](characters/爾%20(char).md) [飴](characters/飴.md) [貳](characters/貳%20(char).md) [[媐]] [[杝]] [[䏪]] [[㛅]] [[珆]] [[鴯]] [[彝]] ([[彛]])
 
 ### 익 
 [[翊]] [[瀷]] [謚](characters/諡.md) [翌](characters/翌%20(char).md) [[熤]]

@@ -6,15 +6,19 @@ formulas:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - 注音 == "ㄐㄨㄧ"
     order:
       - file.name
       - formula.score
-      - danayo_id
       - korean
-      - 諺文
       - english
       - 羅馬字
-      - kwin
+      - japanese
+      - mandarin
+      - cantonese
+      - vietnamese
     sort:
       - property: kwin
         direction: ASC
@@ -78,8 +82,5 @@ views:
         direction: ASC
     columnSize:
       file.name: 64
-      formula.score: 112
-      note.danayo_id: 64
+      formula.score: 62
       note.english: 183
-      note.grade_level: 89
-      note.hsk_level: 89

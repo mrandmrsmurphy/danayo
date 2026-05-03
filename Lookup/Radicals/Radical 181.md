@@ -35,7 +35,7 @@ tags: [lookup]
 13. <ruby>[頬](../../characters/頬%20(char).md)<rt>ㄍㄝㄆ</rt></ruby> - cheek
 
 ### +7 Strokes
-14. <ruby>[頤](../../characters/頤%20(char).md)<rt>ㄧ</rt></ruby> - chin
+14. <ruby>[頤](../../characters/頤.md)<rt>ㄧ</rt></ruby> - chin
 15. <ruby>[頚](../../characters/頚%20(char).md)<rt>ㄍㄧㄫ</rt></ruby> - neck
 16. <ruby>[頭](../../characters/頭%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - head
 17. <ruby>[頴](../../characters/頴.md)<rt>⼶ㄫ</rt></ruby> - rice tassel
