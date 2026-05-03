@@ -1,8 +1,8 @@
 ---
-mandarin: "jú"
+mandarin: jú
 cantonese: gwat1
-korean: "귤"
-korean_native: "귤나무"
+korean: 귤
+korean_native: 귤나무
 japanese:
   - KITSU
 japanese_native: たちばな
@@ -12,26 +12,26 @@ vietnamese:
   - quầng
   - quắt
 middle_chinese_initial: k
-middle_chinese_final: "iuɪt"
+middle_chinese_final: iuɪt
 stroke_count: 16
-radical: "木"
+radical: 木
 skip_number: 1-4-12
-grade_level: "名"
+grade_level: 名
 pos: ""
 english:
   - tangerine
 羅馬字: gyud
-諺文: "귣"
-joyo_level: "日本人名用漢字"
-hsk_level: 1
-hanmun_edu_level: "名"
+諺文: 귣
+joyo_level: 日本人名用漢字
+hsk_level: "1"
+hanmun_edu_level: 名
 danayo_id: 8267
 mc_id: 2783
-graphemic_classification: "矞"
-stand_in: "橘"
+graphemic_classification: 矞
+stand_in: 橘
 aliases:
   - 桔
-注音: "ㄍ⼜ㄊ"
+注音: ㄍ⼜ㄊ
 kwin: true
 tags:
   - character
