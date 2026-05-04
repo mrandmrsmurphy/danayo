@@ -1,46 +1,34 @@
 ---
-size: 13
+date-last-perfect: 2026-05-04
 stroke_count: 8
-date-last-perfect:
+size: 14
 skip_number: 1-2-6
-tags: [lookup]
-
+tags:
+  - lookup
 ---
 > SKIP : 1 : [2](lookup/SKIP/SKIP-1/SKIP-1-2.md)
-> [Stroke 08](lookup/Stroke/Stroke%2008.md)
+> These are all of [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
-- <ruby>[依 (char)](../../../characters/依%20(char).md)<rt>의</rt></ruby> "to rely on"
-- [[価]]
-- [[佳 (char)]]
-- [[供]]
-- [[協]]
-- <ruby>[使](characters/使.md)<rt>시</rt></ruby> "envoy"
-- [[侍]]
-- [[侮]]
-- [[並|併]] --> 並
-- [[例]]
-- [[侏]]	
-- [[侘]]
-- [[侑]]
-- [[侃]]
-- [[侠]]
-- [[佞|侫]] --> 佞
-- [[済|侈]] --> 済
+## Characters
+1. <ruby>[佳](characters/佳%20(char).md)<rt>ㄍ⼘ㄧ</rt></ruby> "beautiful"
+2. <ruby>[依](characters/依%20(char).md)<rt>ㄧㄜ</rt></ruby> "rely on"
+3. <ruby>[佩](characters/佩.md)<rt>ㄈㄛㄧ</rt></ruby> "wear on waist"
+4. <ruby>[使](characters/使.md)<rt>ㄙㄧ</rt></ruby> "envoy"
+5. <ruby>[侃](characters/侃.md)<rt>ㄎㄚㄋ</rt></ruby> "upright"
+6. <ruby>[例](characters/例.md)<rt>ㄌㄝ</rt></ruby> "example"
+7. <ruby>[侍](characters/侍.md)<rt>ㄙㄧ</rt></ruby> "servant"
+8. <ruby>[侏](characters/侏.md)<rt>ㄐㄨ</rt></ruby> "dwarf"
+9. <ruby>[侑](characters/侑.md)<rt>ㄏ⼜</rt></ruby> "help"
+10. <ruby>[侘](characters/侘.md)<rt>ㄊㄚ</rt></ruby> "disappointed"
+11. <ruby>[供](characters/供.md)<rt>ㄍ⼄ㄫ</rt></ruby> "supply"
+12. <ruby>[価](characters/価.md)<rt>ㄍㄚ</rt></ruby> "price"
+13. <ruby>[侮](characters/侮.md)<rt>ㄇㄨ</rt></ruby> "scorn"
+14. <ruby>[協](characters/協.md)<rt>ㄏㄝㄆ</rt></ruby> "cooperate"
 
-- [[吉|佶]] --> 吉
-- [[兆|佻]] --> 兆
-- [[佩]] ... consider adding.  Korean name, HSK/5, component 無, var 珮 姵
-- [[百|佰]] --> 百
-- 佯 --> 羊
-- [[列|冽]] --> 列
-- [[佼]] blend either with 交 or 狡
-- [[侭]] --> 尽
-### Forbidden
-- 侤
-
-## Data double check
+## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "1-2-6"
 SORT file.name ASC
+```
