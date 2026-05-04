@@ -16,9 +16,9 @@ views:
       - size
       - date-last-perfect
     sort:
-      - property: skip_number
-        direction: ASC
       - property: size
         direction: DESC
+      - property: skip_number
+        direction: ASC
       - property: file.name
         direction: ASC
