@@ -41,8 +41,9 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-
-- 会意 of [[辶]] ("to walk") — man-drawn carriage.
+- [List of 会意](../lookup/List%20of%20会意.md) of [[辶]] ("to walk") + [[車]] (“chariot”)— man-drawn carriage.
+[[Lookup/CC/initials/聲 來]]
+[[Lookup/CC/finals/韻 仙A三開]]
 ## Words
 - [[互連網]]
 - [[対連]]
@@ -54,5 +55,3 @@ tags:
 	- [[国連]] not 國聯
 	- [[連邦]] not 聯邦
 	- [[蘇連]] not [[蘇連]]
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 仙A三開]]

@@ -49,10 +49,9 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-
-- 会意 of [[止]] + [[㚔]] + [[辵]] + [[兔]].
-## Words
-- [[安逸]]
+- [List of 会意](../lookup/List%20of%20会意.md) of [[Radical 162|辵]] + [[兔]].
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 質三]]
+## Words
+- [[安逸]]
 - [[逸話]] "anecdote"

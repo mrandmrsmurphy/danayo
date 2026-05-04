@@ -42,10 +42,9 @@ tags:
 [[nav/char_info]]
 ```
 ## Notes
-
-- 形声 (OC \*kʰoːd): semantic [[活]] ("gate; door") + phonetic [[]] (OC \*koːd, \*ɡoːd).
-## Words
-- <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
+- 形声 (OC \*kʰoːd): semantic [[Radical 169|門]] ("gate; door") + phonetic [[活]] (OC \*koːd, \*ɡoːd).
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 末]]
+## Words
+- <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
 - [[闊葉]] "broad-leaf"

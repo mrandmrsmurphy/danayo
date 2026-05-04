@@ -46,7 +46,7 @@ tags:
 ## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 麻二開]]
-- [List of 象形](lookup/List%20of%20象形.md): a horse with its head facing the left, showing a flowing mane in the wind, standing vertically on two legs. [ 1 ] In the bronze inscriptions, the head was often simplified into an eye (目 (mù)). The legs eventually evolved into four dots (灬 (huǒ), unrelated to 火 (huǒ)).
+- [List of 象形](lookup/List%20of%20象形.md): a horse with its head facing the left, showing a flowing mane in the wind, standing vertically on two legs. In the bronze inscriptions, the head was often simplified into an eye (目 (mù)). The legs eventually evolved into four dots (灬 (huǒ), unrelated to 火 (huǒ)).
 - [[馬上]] "horseback"
 - [[馬脚]] "horse feet, cloven feet, sore thumb"
 - [[馬蹄]] "horse hoof"
