@@ -707,7 +707,7 @@
 - [[邁金]] in [[lexipedia/Periodic Table]]
 - [[達金]] in [[lexipedia/Periodic Table]]
 - [[哥金]] in [[lexipedia/Periodic Table]]
-- [[蕤]] in [[lexipedia/Periodic Table]], [[lookup/CC/CC 2000]], [[words/蕤素]]
+- [[characters/蕤]] in [[lexipedia/Periodic Table]], [[lookup/CC/CC 2000]], [[words/蕤素]]
 - [[嬴]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㅇ]]
 - [[尼西亜]] in [[lexipedia/基督敎 elements]]
 - [[使徒]] in [[lexipedia/基督敎 elements]]
