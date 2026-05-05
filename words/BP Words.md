@@ -89,6 +89,8 @@ After the meta-bind-embed block, add a `## Notes` section that links each consti
 - Use `+` to separate components.
 - When a component is a meaningful compound word in its own right (e.g. 世紀), also link to its word page in the same directory: `[世紀](世紀.md)`.
 
+After the notes, if there are multiple definitions, they should be listed in a numbered list.
+
 ---
 
 ## Common mistakes
