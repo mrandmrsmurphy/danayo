@@ -30,7 +30,6 @@
 - [[九泉]] in [[characters/九 (char)]]
 - [[九卿]] in [[characters/九 (char)]]
 - [[九經]] in [[characters/九 (char)]]
-- [[十九]] in [[characters/九 (char)]], [[characters/十]]
 - [[九族]] in [[characters/九 (char)]]
 - [[九官鳥]] in [[characters/九 (char)]]
 - [[九尾狐]] in [[characters/九 (char)]]

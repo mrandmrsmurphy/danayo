@@ -13,7 +13,21 @@ language: English
 10. ten <ruby>[一十](/words/一十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>
 11. eleven <ruby>[十一](/words/十一.md)<rt>ㄙㄧㄆ·ㄧㄊ</rt></ruby>
 12. twelve <ruby>[十二](/words/十二.md)<rt>ㄙㄧㄆㄋㄧㄜ</rt></ruby>
-13. twenty [[二十]]
+	13. [[十三]]
+	14. [[十四]]
+	15. [[十五]]
+	16. [[十六]]
+	17. [[十七]]
+	18. [[十八]]
+	19. [[十九]]
+13. twenty <ruby>[二十](/words/二十.md)<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby>
+	- [[三十]]
+	- [[四十]]
+	- [[五十]]
+	- [[六十]]
+	- [[七十]]
+	- [[八十]]
+	- [[九十]]
 14. hundred <ruby>[一百](/words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>
 15. thousand <ruby>[一千](/words/一千.md)<rt>ㄧㄊㄑㄝㄋ</rt></ruby>
 	1. <ruby>[一万](/words/一万.md)<rt>ㄧㄊㄇㄛㄋ</rt></ruby> - myriad
