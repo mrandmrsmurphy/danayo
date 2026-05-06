@@ -37,6 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 蛍.
 >For the word, see [蛍](words/蛍.md)

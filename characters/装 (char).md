@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 装.
 >For the word, see [装](words/装.md)

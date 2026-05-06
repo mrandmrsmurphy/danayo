@@ -36,6 +36,7 @@ date-last-perfect: 2026-03-19
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!warning] This is the character 二.  For the word 'two', use [[二]].  
 >See also [[Radical 007]].

@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 浅.
 >For the word, see [浅](words/浅.md)

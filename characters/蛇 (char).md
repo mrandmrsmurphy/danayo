@@ -36,6 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 75
 ---
 >[!tip] This is a page about the character 蛇.
 >For the word, see [蛇](words/蛇.md)

@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 冬.
 >For the word, see [冬](words/冬.md)

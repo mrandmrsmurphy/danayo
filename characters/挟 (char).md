@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 60
 ---
 >[!tip] This is a page about the character 挟.
 >For the word, see [挟](words/挟.md)

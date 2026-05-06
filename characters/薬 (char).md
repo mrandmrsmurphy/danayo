@@ -35,6 +35,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 
 ---
 >[!tip] This is a page about the character 薬.
 >For the word, see [薬](words/薬.md)

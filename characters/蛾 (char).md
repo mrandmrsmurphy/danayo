@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 蛾.
 >For the word, see [蛾](words/蛾.md)

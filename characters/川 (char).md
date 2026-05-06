@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
   - hapax
+boundedness: 85
 ---
 >[!tip] This is a page about the character 川.
 >For the word, see [川](words/川.md)

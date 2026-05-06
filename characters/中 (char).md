@@ -34,6 +34,7 @@ date-last-perfect: 2026-03-25
 kwin: true
 tags:
   - character
+boundedness: 90
 ---
 >[!tip] This is a page about the character 中.
 >For the word, see [中](中)

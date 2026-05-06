@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 艇.
 >For the word, see [艇](words/艇.md)

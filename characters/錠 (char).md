@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 錠.
 >For the word, see [錠](words/錠.md)

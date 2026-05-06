@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 様.
 >For the word, see [様](words/様.md)

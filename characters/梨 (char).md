@@ -31,6 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 梨.
 >For the word, see [梨](words/梨.md)

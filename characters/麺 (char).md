@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 麺.
 >For the word, see [麺](words/麺.md)

@@ -35,6 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 青.
 >For the word, see [青](words/青.md)

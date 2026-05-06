@@ -31,6 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 手.
 >For the word, see [手](words/手.md)

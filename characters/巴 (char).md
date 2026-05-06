@@ -38,6 +38,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 95
 ---
 >[!tip] This is a page about the character 巴.
 >For the word, see [巴](words/巴.md)

@@ -32,6 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 筐.
 >For the word, see [筐](words/筐.md)

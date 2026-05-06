@@ -37,6 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 70
 ---
 >[!tip] This is a page about the character 省.
 >For the word, see [省](words/省.md)

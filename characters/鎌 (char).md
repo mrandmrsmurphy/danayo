@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 鎌.
 >For the word, see [鎌](words/鎌.md)

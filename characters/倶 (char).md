@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 倶.
 >For the word, see [倶](words/倶.md)

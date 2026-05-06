@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 以.
 >For the word, see [以](words/以.md)

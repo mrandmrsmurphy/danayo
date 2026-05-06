@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 県.
 >For the word, see [県](words/県.md)

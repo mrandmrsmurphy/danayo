@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 55
 ---
 >[!tip] This is a page about the character 阿.
 >For the word, see [阿](words/阿.md)

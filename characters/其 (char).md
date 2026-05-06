@@ -38,6 +38,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 其.
 >For the word, see [其](words/其.md)

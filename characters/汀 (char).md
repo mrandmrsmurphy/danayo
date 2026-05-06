@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 汀.
 >For the word, see [汀](words/汀.md)

@@ -39,6 +39,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 55
 ---
 >[!tip] This is a page about the character 本.
 >For the word, see [本](words/本.md)

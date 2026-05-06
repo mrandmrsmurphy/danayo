@@ -35,6 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 壱.
 >For the word, see [壱](words/壱.md)

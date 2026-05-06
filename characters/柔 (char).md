@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 柔.
 >For the word, see [柔](words/柔.md)

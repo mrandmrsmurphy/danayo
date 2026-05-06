@@ -39,6 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 底.
 >For the word, see [底](words/底.md)

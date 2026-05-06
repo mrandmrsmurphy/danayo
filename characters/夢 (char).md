@@ -39,6 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 65
 ---
 >[!tip] This is a page about the character 夢.
 >For the word, see [夢](words/夢.md)

@@ -37,6 +37,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 擦.
 >For the word, see [擦](words/擦.md)

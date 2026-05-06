@@ -37,6 +37,7 @@ date-last-perfect: 2026-02-20
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 > [!tip] This is the page for the character 七, as opposed to the word [[七]] 'seven'
 ```meta-bind-embed

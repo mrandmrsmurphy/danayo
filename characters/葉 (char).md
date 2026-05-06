@@ -43,6 +43,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This page is about the character.
 >For the word, see [葉](words/葉.md)

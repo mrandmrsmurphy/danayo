@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 90
 ---
 >[!tip] This is the character.
 >For the word, see [似](words/似.md)

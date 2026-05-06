@@ -31,6 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 愚.
 >For the word, see [愚](words/愚.md)

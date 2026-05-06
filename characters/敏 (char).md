@@ -37,6 +37,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 敏.
 >For the word, see [敏](words/敏.md)

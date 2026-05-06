@@ -32,6 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 郭.
 >For the word, see [郭](words/郭.md)

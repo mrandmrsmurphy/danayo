@@ -31,6 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 多.
 >For the word, see [多](words/多.md)

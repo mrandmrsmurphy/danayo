@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 銃.
 >For the word, see [銃](words/銃.md)

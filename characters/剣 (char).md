@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 剣.
 >For the word, see [剣](words/剣.md)

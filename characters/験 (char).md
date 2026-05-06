@@ -39,6 +39,7 @@ date-last-perfect: 2026-04-01
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 ```meta-bind-embed
 [[nav/char_info]]

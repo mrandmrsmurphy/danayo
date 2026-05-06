@@ -36,6 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 軌.
 >For the word, see [軌](words/軌.md)

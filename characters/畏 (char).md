@@ -38,6 +38,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 畏.
 >For the word, see [畏](words/畏.md)

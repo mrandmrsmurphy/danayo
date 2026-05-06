@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 変.
 >For the word, see [変](words/変.md)

@@ -34,6 +34,7 @@ date-last-perfect: 2026-02-24
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 兄.
 >For the word, see [兄](words/兄.md)

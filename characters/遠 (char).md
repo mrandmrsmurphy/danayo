@@ -36,6 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 遠.
 >For the word, see [遠](words/遠.md)

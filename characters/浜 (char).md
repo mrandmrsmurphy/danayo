@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 浜.
 >For the word, see [浜](words/浜.md)

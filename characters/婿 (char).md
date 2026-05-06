@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 婿.
 >For the word, see [婿](words/婿.md)

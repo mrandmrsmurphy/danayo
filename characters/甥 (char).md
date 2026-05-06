@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 甥.
 >For the word, see [甥](words/甥.md)

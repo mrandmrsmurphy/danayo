@@ -34,6 +34,7 @@ date-last-perfect: 2026-02-20
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 > [!tip] This is the character 九.  For the word 'nine', see [[九]]
 ```meta-bind-embed

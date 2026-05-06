@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 柏.
 >For the word, see [柏](words/柏.md)

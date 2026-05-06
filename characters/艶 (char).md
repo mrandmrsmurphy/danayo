@@ -35,6 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 艶.
 >For the word, see [艶](words/艶.md)

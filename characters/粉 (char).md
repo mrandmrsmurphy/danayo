@@ -31,6 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 粉.
 >For the word, see [粉](words/粉.md)

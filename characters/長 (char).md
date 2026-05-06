@@ -39,6 +39,7 @@ date-last-perfect: 2026-03-01
 kwin: true
 tags:
   - character
+boundedness: 80
 ---
 >[!tip] This is the page for the character 長.  
 >For the word, see [[長]].

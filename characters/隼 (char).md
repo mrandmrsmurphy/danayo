@@ -32,6 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 隼.
 >For the word, see [隼](words/隼.md)

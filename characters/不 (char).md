@@ -37,6 +37,7 @@ kwin: false
 tags:
   - character
   - hapax
+boundedness: 65
 ---
 >[!tip] This is a page about the character 不.
 >For the word, see [不](words/不.md)

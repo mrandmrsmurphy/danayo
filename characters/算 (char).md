@@ -31,6 +31,7 @@ stand_in: 算
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 算.
 >For the word, see [算](words/算.md)

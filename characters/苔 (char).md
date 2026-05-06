@@ -37,6 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 50
 ---
 >[!tip] This is a page about the character 苔.
 >For the word, see [苔](words/苔.md)

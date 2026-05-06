@@ -38,6 +38,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 従.
 >For the word, see [従](words/従.md)

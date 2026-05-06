@@ -31,6 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 徳.
 >For the word, see [徳](words/徳.md)

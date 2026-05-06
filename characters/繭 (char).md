@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 繭.
 >For the word, see [繭](words/繭.md)

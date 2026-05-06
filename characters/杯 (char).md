@@ -36,6 +36,7 @@ date-last-perfect: 2026-03-15
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 杯.
 >For the word, see [杯](words/杯.md)

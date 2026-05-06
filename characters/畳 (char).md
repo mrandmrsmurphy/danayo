@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 畳.
 >For the word, see [畳](words/畳.md)

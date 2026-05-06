@@ -36,6 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 般.
 >For the word, see [般](words/般.md)

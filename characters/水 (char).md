@@ -31,6 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 90
 ---
 >[!tip] This is a page about the character 水.
 >For the word, see [水](words/水.md)

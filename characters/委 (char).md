@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 95
 ---
 >[!tip] This is a page about the character 委.
 >For the word, see [委](words/委.md)

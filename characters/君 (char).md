@@ -36,6 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 君.
 >For the word, see [君](words/君.md)

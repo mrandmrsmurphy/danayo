@@ -37,6 +37,7 @@ date-last-perfect: 2026-04-01
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 赤.
 >For the word, see [赤](words/赤.md)

@@ -37,6 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 逆.
 >For the word, see [逆](words/逆.md)

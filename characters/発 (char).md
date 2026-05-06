@@ -39,6 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 発.
 >For the word, see [発](words/発.md)

@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 80
 ---
 >[!tip] This is a page about the character 品.
 >For the word, see [品](words/品.md)

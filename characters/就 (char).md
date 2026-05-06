@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 95
 ---
 >[!tip] This is a page about the character 就.
 >For the word, see [就](words/就.md)

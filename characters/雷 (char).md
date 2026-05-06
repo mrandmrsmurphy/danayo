@@ -35,6 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 雷.
 >For the word, see [雷](words/雷.md)

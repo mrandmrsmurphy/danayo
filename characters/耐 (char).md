@@ -36,6 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 耐.
 >For the word, see [耐](words/耐.md)

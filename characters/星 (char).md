@@ -38,6 +38,7 @@ swadesh: "149"
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 星.
 >For the word, see [星](words/星.md)

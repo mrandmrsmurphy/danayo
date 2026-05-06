@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 50
 ---
 >[!tip] This is a page about the character 舌.
 >For the word, see [舌](words/舌.md)

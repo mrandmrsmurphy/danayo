@@ -38,6 +38,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 100
 ---
 >[!tip] This is a page about the character 弄.
 >For the word, see [弄](words/弄.md)

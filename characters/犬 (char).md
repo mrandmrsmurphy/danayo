@@ -32,6 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is about the character.  For the word, see [[words/犬]].
 >For the radical, see [Radical 094](lookup/Radicals/Radical%20094.md).

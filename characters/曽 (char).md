@@ -36,6 +36,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 
 ---
 >[!tip] This is a page about the character 曽.
 >For the word, see [曽](words/曽.md)

@@ -38,6 +38,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 冥.
 >For the word, see [冥](words/冥.md)

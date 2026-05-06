@@ -32,6 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 砕.
 >For the word, see [砕](words/砕.md)

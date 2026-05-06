@@ -36,6 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 亙.
 >For the word, see [亙](words/亙.md)

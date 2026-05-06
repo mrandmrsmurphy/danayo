@@ -30,6 +30,7 @@ date-last-perfect: 2026-01-23
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!Warning] This is the character 一.  
 > For the word 'one', please use [一](words/一.md)

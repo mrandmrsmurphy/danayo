@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 狸.
 >For the word, see [狸](words/狸.md)

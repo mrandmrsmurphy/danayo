@@ -32,6 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!Warning] This is about the character.  For the word, see [[零]]
 ```meta-bind-embed

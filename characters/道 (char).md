@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 75
 ---
 >[!tip] This is a page about the character 道.
 >For the word, see [道](words/道.md)

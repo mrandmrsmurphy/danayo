@@ -40,6 +40,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 令.
 >For the word, see [令](words/令.md)

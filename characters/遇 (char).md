@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 遇.
 >For the word, see [遇](words/遇.md)

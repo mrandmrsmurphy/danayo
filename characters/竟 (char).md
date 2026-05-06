@@ -35,6 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 竟.
 >For the word, see [竟](words/竟.md)

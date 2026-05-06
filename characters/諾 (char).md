@@ -32,6 +32,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 100
 ---
 >[!tip] This is a page about the character 諾.
 >For the word, see [諾](words/諾.md)

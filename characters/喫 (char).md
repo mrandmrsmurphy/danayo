@@ -39,6 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 喫.
 >For the word, see [喫](words/喫.md)

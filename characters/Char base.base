@@ -12,8 +12,9 @@ views:
       - korean
       - english
       - 羅馬字
-      - japanese
       - danayo_id
+      - boundedness
+      - stand_in
     sort:
       - property: danayo_id
         direction: ASC
@@ -79,4 +80,4 @@ views:
       file.name: 64
       formula.score: 62
       note.english: 183
-      note.danayo_id: 329
+      note.danayo_id: 126

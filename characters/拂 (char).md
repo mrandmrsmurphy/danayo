@@ -39,6 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 拂.
 >For the word, see [拂](words/拂.md)

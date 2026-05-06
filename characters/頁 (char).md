@@ -36,6 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 頁.
 >For the word, see [頁](words/頁.md)

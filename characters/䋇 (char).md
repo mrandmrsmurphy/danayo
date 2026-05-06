@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 䋇.
 >For the word, see [䋇](words/䋇.md)

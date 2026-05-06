@@ -34,6 +34,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 
 ---
 >[!tip] This is a page about the character 兎.
 >For the word, see [兎](words/兎.md)

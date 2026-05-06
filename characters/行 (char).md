@@ -39,6 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 60
 ---
 >[!tip] This is a page about the character 行.
 >For the word, see [行](words/行.md)

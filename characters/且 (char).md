@@ -36,6 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 且.
 >For the word, see [且](words/且.md)

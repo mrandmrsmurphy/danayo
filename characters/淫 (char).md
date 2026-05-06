@@ -42,6 +42,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 淫.
 >For the word, see [淫](words/淫.md)

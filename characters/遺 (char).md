@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 遺.
 >For the word, see [遺](words/遺.md)

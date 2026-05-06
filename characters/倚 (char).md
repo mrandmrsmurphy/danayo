@@ -35,6 +35,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 100
 ---
 >[!tip] This is a page about the character 倚.
 >For the word, see [倚](words/倚.md)

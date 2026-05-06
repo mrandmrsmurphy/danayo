@@ -32,6 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character **立**.
 >For the word, see [立](words/立.md)

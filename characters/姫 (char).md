@@ -32,6 +32,7 @@ aliases:
 tags:
   - character
 kwin: false
+boundedness: 
 ---
 >[!tip] This is a page about the character 姫.
 >For the word, see [姫](words/姫.md)

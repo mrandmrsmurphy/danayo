@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 聘.
 >For the word, see [聘](words/聘.md)

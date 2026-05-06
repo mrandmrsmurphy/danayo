@@ -35,6 +35,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 100
 ---
 >[!tip] This is a page about the character 乎.
 >For the word, see [乎](words/乎.md)

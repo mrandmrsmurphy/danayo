@@ -40,6 +40,7 @@ date-last-perfect: 2026-04-02
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 閏.
 >For the word, see [閏](words/閏.md)

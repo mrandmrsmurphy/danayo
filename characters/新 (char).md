@@ -32,6 +32,7 @@ date-last-perfect: 2026-03-17
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 新.
 >For the word, see [新](words/新.md)

@@ -36,6 +36,7 @@ aliases:
 tags:
   - character
 kwin: false
+boundedness: 100
 ---
 >[!tip] This is a page about the character 亀.
 >For the word, see [亀](words/亀.md)

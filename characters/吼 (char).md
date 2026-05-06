@@ -37,6 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 吼.
 >For the word, see [吼](words/吼.md)

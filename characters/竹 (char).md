@@ -31,6 +31,7 @@ stand_in: "竹"
 kwin: true
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 竹.
 >For the word, see [竹](words/竹.md)

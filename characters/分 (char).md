@@ -35,6 +35,7 @@ date-last-perfect: 2026-03-24
 kwin: true
 tags:
   - character
+boundedness: 95
 ---
 >[!tip] This is a page about the character 分.
 >For the word, see [分](words/分.md)

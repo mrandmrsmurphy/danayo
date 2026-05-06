@@ -42,6 +42,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 75
 ---
 >[!tip] This is a page about the character 漂.
 >For the word, see [漂](words/漂.md)

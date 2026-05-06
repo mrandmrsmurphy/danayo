@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 50
 ---
 >[!tip] This is a page about the character.
 >For the word, see [魚](words/魚.md).

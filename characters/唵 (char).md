@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 70
 ---
 >[!tip] This is a page about the character 唵.
 >For the word, see [唵](words/唵.md)

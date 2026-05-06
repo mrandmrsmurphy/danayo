@@ -38,6 +38,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 紋.
 >For the word, see [紋](words/紋.md)

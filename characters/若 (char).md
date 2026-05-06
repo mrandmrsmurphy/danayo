@@ -33,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 70
 ---
 >[!tip] This is a page about the character 若.
 >For the word, see [若](words/若.md)

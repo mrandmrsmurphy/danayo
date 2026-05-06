@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
   - hapax
+boundedness: 
 ---
 >[!tip] This is a page about the character 舗.
 >For the word, see [舗](words/舗.md)

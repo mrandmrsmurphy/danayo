@@ -31,6 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 柱.
 >For the word, see [柱](words/柱.md)

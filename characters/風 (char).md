@@ -36,6 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is about the character.  For the word, see [[../words/風]].
 >For the radical, see [Radical 182](lookup/Radicals/Radical%20182.md).

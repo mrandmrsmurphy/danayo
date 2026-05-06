@@ -37,6 +37,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 巻.
 >For the word, see [巻](words/巻.md)

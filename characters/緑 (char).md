@@ -35,6 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 70
 ---
 >[!tip] This is a page about the character 緑.
 >For the word, see [緑](words/緑.md)

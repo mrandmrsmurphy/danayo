@@ -31,6 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 圏.
 >For the word, see [圏](words/圏.md)

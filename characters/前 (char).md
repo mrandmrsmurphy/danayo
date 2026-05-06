@@ -36,6 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 前.
 >For the word, see [前](words/前.md)

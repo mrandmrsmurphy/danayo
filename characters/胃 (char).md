@@ -32,6 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 胃.
 >For the word, see [胃](words/胃.md)

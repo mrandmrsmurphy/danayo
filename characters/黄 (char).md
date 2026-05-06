@@ -35,6 +35,7 @@ swadesh: 174
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 黄.
 >For the word, see [黄](words/黄.md)

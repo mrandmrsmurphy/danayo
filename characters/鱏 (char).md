@@ -39,6 +39,7 @@ kwin: false
 tags:
   - character
   - hapax
+boundedness: 
 ---
 >[!tip] This is a page about the character 鱏.
 >For the word, see [鱏](words/鱏.md)

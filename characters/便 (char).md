@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 80
 ---
 >[!tip] This is a page about the character 便.
 >For the word, see [便](words/便.md)

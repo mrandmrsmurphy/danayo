@@ -35,6 +35,7 @@ date-last-perfect: 2026-04-01
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 尺.
 >For the word, see [尺](words/尺.md)

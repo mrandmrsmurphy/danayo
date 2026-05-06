@@ -39,6 +39,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 100
 ---
 >[!tip] This is a page about the character 興.
 >For the word, see [興](words/興.md)

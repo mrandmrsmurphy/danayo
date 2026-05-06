@@ -39,6 +39,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 55
 ---
 >[!tip] This is a page about the character 整.
 >For the word, see [整](words/整.md)

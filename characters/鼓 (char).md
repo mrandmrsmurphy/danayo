@@ -32,6 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 鼓.
 >For the word, see [鼓](words/鼓.md)

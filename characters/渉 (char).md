@@ -31,6 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 渉.
 >For the word, see [渉](words/渉.md)

@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 75
 ---
 >[!tip] This is a page about the character 猫.
 >For the word, see [猫](words/猫.md)

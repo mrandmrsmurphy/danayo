@@ -29,6 +29,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 穂.
 >For the word, see [穂](words/穂.md)

@@ -38,6 +38,7 @@ date-last-perfect: 2026-02-21
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 岸.
 >For the word, see [岸](words/岸.md)

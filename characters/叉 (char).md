@@ -40,6 +40,7 @@ date-last-perfect: 2026-03-24
 kwin: false
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 叉.
 >For the word, see [叉](words/叉.md)

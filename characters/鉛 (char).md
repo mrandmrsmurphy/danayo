@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 50
 ---
 >[!tip] This is a page about the character 鉛.
 >For the word, see [鉛](words/鉛.md)

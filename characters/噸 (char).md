@@ -32,6 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 噸.
 >For the word, see [噸](words/噸.md)

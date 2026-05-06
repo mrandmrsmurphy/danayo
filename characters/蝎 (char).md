@@ -32,6 +32,7 @@ date-last-perfect: 2026-03-15
 kwin: false
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 蝎.
 >For the word, see [[words/蝎]]

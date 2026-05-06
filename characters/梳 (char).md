@@ -31,6 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 65
 ---
 >[!tip] This is a page about the character 梳.
 >For the word, see [梳](words/梳.md)

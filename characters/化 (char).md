@@ -38,6 +38,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 化.
 >For the word, see [化](words/化.md)

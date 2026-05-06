@@ -31,6 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 50
 ---
 >[!tip] This is a page about the character 尉.
 >For the word, see [尉](words/尉.md)

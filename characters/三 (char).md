@@ -28,6 +28,7 @@ date-last-perfect: 2026-01-30
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!Warning] This is the character 三. For the word 'three', use [三](words/三.md).
 ```meta-bind-embed

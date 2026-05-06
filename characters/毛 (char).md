@@ -32,6 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is about the character 毛.
 >For the word, see [毛](words/毛.md).

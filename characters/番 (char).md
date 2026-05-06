@@ -37,6 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 80
 ---
 >[!tip] This is a page about the character 番.
 >For the word, see [番](words/番.md)

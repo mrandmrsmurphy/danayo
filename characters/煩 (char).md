@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
   - hapax
+boundedness: 100
 ---
 >[!tip] This is a page about the character 煩.
 >For the word, see [煩](words/煩.md)

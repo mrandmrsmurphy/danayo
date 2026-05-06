@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 65
 ---
 >[!tip] This page is about the character.
 >For the word, see [均](words/均.md)

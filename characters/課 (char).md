@@ -38,6 +38,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 課.
 >For the word, see [課](words/課.md)

@@ -39,6 +39,7 @@ date-last-perfect: 2026-03-26
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 厉.
 >For the word, see [厉](words/厉.md)

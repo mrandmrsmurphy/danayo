@@ -39,6 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 95
 ---
 >[!tip] This is a page about the character 将.
 >For the word, see [将](words/将.md)

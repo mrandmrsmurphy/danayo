@@ -40,6 +40,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 越.
 >For the word, see [越](words/越.md)

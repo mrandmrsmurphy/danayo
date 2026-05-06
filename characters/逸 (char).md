@@ -41,6 +41,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 30
 ---
 >[!tip] This is a page about the character 逸.
 >For the word, see [逸](words/逸.md)

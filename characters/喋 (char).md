@@ -34,6 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 35
 ---
 >[!tip] This is a page about the character 喋.
 >For the word, see [喋](words/喋.md)

@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 75
 ---
 >[!tip] This page is about the character.
 >For the word, see [借](words/借.md)

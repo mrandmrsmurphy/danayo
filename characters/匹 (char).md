@@ -38,6 +38,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 75
 ---
 >[!tip] This is a page about the character 匹.
 >For the word, see [匹](words/匹.md)

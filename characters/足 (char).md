@@ -33,6 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 80
 ---
 >[!tip] This is a page about the character 足.
 >For the word, see [足](words/足.md)

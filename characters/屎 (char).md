@@ -35,6 +35,7 @@ kwin: false
 tags:
   - character
   - hapax
+boundedness: 65
 ---
 >[!tip] This is a page about the character 屎.
 >For the word, see [屎](words/屎.md)

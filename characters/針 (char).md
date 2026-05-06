@@ -42,6 +42,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 針.
 >For the word, see [針](words/針.md)

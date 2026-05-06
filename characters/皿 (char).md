@@ -37,6 +37,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 65
 ---
 >[!tip] This is a page about the character 皿.
 >For the word, see [皿](words/皿.md)

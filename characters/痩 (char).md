@@ -29,6 +29,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 >[!tip] This is a page about the character 痩.
 >For the word, see [痩](words/痩.md)

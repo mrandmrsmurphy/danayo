@@ -41,6 +41,7 @@ date-last-perfect: 2026-03-25
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 乙.
 >For the word, see [乙](words/乙.md)

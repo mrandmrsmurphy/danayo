@@ -36,6 +36,7 @@ kwin: false
 tags:
   - character
   - hapax
+boundedness: 100
 ---
 >[!tip] This is a page about the character 車.
 >For the word, see [車](words/車.md)

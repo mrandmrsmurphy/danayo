@@ -33,6 +33,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 100
 ---
 >[!tip] This is a page about the character 唳.
 >For the word, see [唳](words/唳.md)

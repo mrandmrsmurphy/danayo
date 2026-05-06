@@ -32,6 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 
 ---
 ```meta-bind-embed
 [[nav/char_info]]

@@ -38,6 +38,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 55
 ---
 >[!tip] This is a page about the character 木.
 >For the word, see [木](words/木.md)

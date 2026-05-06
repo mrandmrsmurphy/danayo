@@ -27,6 +27,7 @@ stand_in: 壁
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 壁.
 >For the word, see [壁](words/壁.md)

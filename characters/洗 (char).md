@@ -37,6 +37,7 @@ aliases:
 tags:
   - character
 kwin: true
+boundedness: 80
 ---
 >[!tip] This is a page about the character 洗.
 >For the word, see [洗](words/洗.md)

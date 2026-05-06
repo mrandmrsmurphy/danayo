@@ -41,6 +41,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 容.
 >For the word, see [容](words/容.md)

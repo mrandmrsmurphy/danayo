@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 65
 ---
 >[!tip] This is a page about the character 慄.
 >For the word, see [慄](words/慄.md)

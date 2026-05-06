@@ -41,6 +41,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 100
 ---
 >[!tip] This is a page about the character 喝.
 >For the word, see [喝](words/喝.md)

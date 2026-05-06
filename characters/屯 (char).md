@@ -50,6 +50,7 @@ aliases:
 kwin: true
 tags:
   - character
+boundedness: 75
 ---
 >[!tip] This is a page about the character 屯.
 >For the word, see [屯](words/屯.md)

@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+boundedness: 55
 ---
 >[!tip] This is a page about the character 苟.
 >For the word, see [苟](words/苟.md)
