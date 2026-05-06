@@ -82,6 +82,11 @@ A growing number of file types have a `best practices` page, which documents the
 - [[characters/BP Characters.md]]
 - [[words/BP Words.md]]
 
+## Skills
+
+Here are the complicated tasks that I've been coaching you on how to do:
+- [[Word Creation]] - for making a new word in `words/`
+
 ## License
 
 Code/tooling: MIT. Content: CC BY-SA.
