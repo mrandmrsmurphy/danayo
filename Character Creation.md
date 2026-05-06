@@ -96,7 +96,7 @@ The Dan'a'yo reading is derived from the Middle Chinese initial + final combinat
 | No HSK, Hyōgai or worse, Korean name only | `名` |
 | Restricted to proper names only | `名` + `stand_in: 名専字` |
 
-Note: there is currently no `lookup/Grade 先進.md` file, so the levels bullet omits the grade link for 先進 characters.
+Note: 先進 is listed under `lookup/Grade Advanced.md`.
 
 ---
 
@@ -164,7 +164,7 @@ To find the next available ID: ask the user, or check the current highest value 
 
 **形声:**
 ```markdown
-- 形声 (OC \*l[a][t]-s): semantic [衣](Radical%20145) ("clothing") + phonetic [[㕯]] – brief semantic note.
+- 形声 (OC \*lats): semantic [衣](Radical%20145) ("clothing") + phonetic [[㕯]] – brief semantic note.
 ```
 - OC reconstruction from Wiktionary (Baxter–Sagart preferred), escaped with `\*`
 - Semantic radical linked as `[CHAR](Radical%20NNN)` — number from Kangxi radical number
@@ -181,10 +181,10 @@ To find the next available ID: ask the user, or check the current highest value 
 - [List of 指事](lookup/List%20of%20指事.md): describes what the indicator marks.
 ```
 
-### Bullet 2 — SKIP / Stroke / Syllable
+### Bullet 2 — SKIP / Stroke 
 
 ```markdown
-- [SKIP-2-2-11](../lookup/SKIP/SKIP-2/SKIP-2-2-11.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md)) — [⼶](../syllables/⼶.md)
+- [SKIP-2-2-11](../lookup/SKIP/SKIP-2/SKIP-2-2-11.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md)) 
 ```
 
 ### Bullet 3 — Middle Chinese rank
@@ -202,7 +202,7 @@ To find the next available ID: ask the user, or check the current highest value 
 - [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 5](../lookup/HSK/Old%20HSK%205.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 ```
 - **Korean Name** is indexed by initial consonant of the Korean reading (e.g. 예 → ㅇ → `Korean Name ㅇ`)
-- **Grade link** included for grades 1–6 and 名; omit for 先進 (no grade file exists)
+- **Grade link** included for grades 1–6 and 名; Advanced for 先進.
 - Order: Jōyō, HSK, Korean, Grade
 
 ### Words section

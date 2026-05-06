@@ -86,6 +86,7 @@ A growing number of file types have a `best practices` page, which documents the
 
 Here are the complicated tasks that I've been coaching you on how to do:
 - [[Word Creation]] - for making a new word in `words/`
+- [[Character Creation]] - for making a new character in `characters/`
 
 ## License
 
