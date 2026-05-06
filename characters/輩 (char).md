@@ -1,7 +1,7 @@
 ---
-mandarin: "bèi"
-cantonese: "bui3"
-korean: "배"
+mandarin: bèi
+cantonese: bui3
+korean: 배
 korean_native: 무리
 japanese: HAI, HE
 japanese_native: ともがら
@@ -14,8 +14,8 @@ skip_number: 2-8-7
 grade_level: "3"
 pos: 名詞
 english: generation
-羅馬字: boi
-諺文: 뵈
+羅馬字: foi
+諺文: 뾔
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 高等
@@ -25,10 +25,11 @@ graphemic_classification: 非
 stand_in: 輩
 aliases:
   - 辈
-注音: ㄅㄛㄧ
+注音: ㄈㄛㄧ
 kwin: false
 tags:
   - character
+  - hapax
 ---
 >[!tip] This is a page about the character 輩.
 >For the word, see [輩](words/輩.md)
