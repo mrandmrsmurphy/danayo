@@ -32,7 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 浦.
 >For the word, see [浦](words/浦.md)

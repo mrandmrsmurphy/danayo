@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 尻.
 >For the word, see [尻](words/尻.md)

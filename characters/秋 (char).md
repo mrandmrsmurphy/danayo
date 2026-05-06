@@ -36,7 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 80
+boundedness: 65
 ---
 >[!tip] This is a page about the character 秋.
 >For the word, see [秋](words/秋.md)

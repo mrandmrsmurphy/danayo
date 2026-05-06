@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 升.
 >For the word, see [升](words/升.md)

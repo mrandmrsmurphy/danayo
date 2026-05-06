@@ -33,7 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 95
+boundedness: 85
 ---
 >[!tip] This is a page about the character 碼.
 >For the word, see [碼](words/碼.md)

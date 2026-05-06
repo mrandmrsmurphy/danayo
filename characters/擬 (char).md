@@ -34,7 +34,7 @@ aliases:
 tags:
   - character
 kwin: false
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 擬.
 >For the word, see [擬](words/擬.md)

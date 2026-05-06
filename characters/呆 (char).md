@@ -39,7 +39,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 呆.
 >For the word, see [呆](words/呆.md)

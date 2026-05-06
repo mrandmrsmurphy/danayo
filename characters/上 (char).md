@@ -35,7 +35,7 @@ date-last-perfect: 2026-03-22
 kwin: false
 tags:
   - character
-boundedness: 75
+boundedness: 70
 ---
 >[!tip] This is a page about the character 上.
 >For the word, see [上](words/上.md)

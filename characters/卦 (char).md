@@ -27,7 +27,7 @@ hsk_level:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 卦.
 >For the word, see [卦](words/卦.md)

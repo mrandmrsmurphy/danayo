@@ -35,7 +35,7 @@ aliases:
 tags:
   - character
 kwin: true
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 出.
 >For the word, see [出](words/出.md)

@@ -31,7 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 棚.
 >For the word, see [棚](words/棚.md)

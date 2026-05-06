@@ -35,7 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 50
+boundedness: 40
 ---
 >[!tip] This is a page about the character 林.
 >For the word, see [林](words/林.md)

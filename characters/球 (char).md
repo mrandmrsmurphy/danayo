@@ -34,7 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 球.
 >For the word, see [球](words/球.md)

@@ -32,7 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 根.
 >For the word, see [根](words/根.md)

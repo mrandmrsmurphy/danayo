@@ -35,7 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 蝉.
 >For the word, see [蝉](words/蝉.md)

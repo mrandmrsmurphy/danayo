@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 塩.
 >For the word, see [塩](words/塩.md)

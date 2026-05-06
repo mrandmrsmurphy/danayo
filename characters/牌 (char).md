@@ -37,7 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 80
+boundedness: 70
 ---
 >[!tip] This is a page about the character 牌.
 >For the word, see [牌](words/牌.md)

@@ -35,7 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 被.
 >For the word, see [被](words/被.md)

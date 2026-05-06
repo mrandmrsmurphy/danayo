@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 銅.
 >For the word, see [銅](words/銅.md)

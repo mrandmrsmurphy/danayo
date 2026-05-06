@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 85
+boundedness: 70
 ---
 >[!tip] This is a page about the character 欠.
 >For the word, see [欠](words/欠.md)

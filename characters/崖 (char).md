@@ -33,7 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 崖.
 >For the word, see [崖](words/崖.md)

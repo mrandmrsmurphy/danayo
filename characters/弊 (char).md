@@ -34,7 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 弊.
 >For the word, see [弊](words/弊.md)

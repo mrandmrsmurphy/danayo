@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 跨.
 >For the word, see [跨](words/跨.md)

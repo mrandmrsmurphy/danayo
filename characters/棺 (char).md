@@ -31,7 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 棺.
 >For the word, see [棺](words/棺.md)

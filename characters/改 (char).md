@@ -35,7 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 改.
 >For the word, see [改](words/改.md)

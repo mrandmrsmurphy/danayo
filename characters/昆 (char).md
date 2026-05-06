@@ -35,7 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 80
+boundedness: 65
 ---
 >[!tip] This is a page about the character 昆.
 >For the word, see [昆](words/昆.md)

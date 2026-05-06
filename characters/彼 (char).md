@@ -31,7 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 彼.
 >For the word, see [彼](words/彼.md)

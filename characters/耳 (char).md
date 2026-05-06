@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 耳.
 >For the word, see [耳](words/耳.md)

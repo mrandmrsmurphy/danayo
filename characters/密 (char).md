@@ -36,7 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 85
+boundedness: 70
 ---
 >[!tip] This is a page about the character 密.
 >For the word, see [密](words/密.md)

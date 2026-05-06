@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 女.
 >For the word, see [女](words/女.md)

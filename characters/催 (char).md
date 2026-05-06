@@ -38,7 +38,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 催.
 >For the word, see [催](words/催.md)

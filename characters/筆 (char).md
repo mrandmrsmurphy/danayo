@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 90
+boundedness: 80
 ---
 >[!tip] This is a page about the character 筆.
 >For the word, see [筆](words/筆.md)

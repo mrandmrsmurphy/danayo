@@ -32,7 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 65
+boundedness: 50
 ---
 >[!tip] This is a page about the character 剪.
 >For the word, see [剪](words/剪.md)

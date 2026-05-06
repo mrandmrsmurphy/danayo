@@ -34,7 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is about the character.
 >For the word, see [頚](words/頚.md).

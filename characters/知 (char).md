@@ -34,7 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 知.
 >For the word, see [知](words/知.md)

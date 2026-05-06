@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 65
+boundedness: 50
 ---
 >[!tip] This is a page about the character 枯.
 >For the word, see [枯](words/枯.md)

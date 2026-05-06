@@ -37,7 +37,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 65
+boundedness: 50
 ---
 >[!tip] This is a page about the character 訓.
 >For the word, see [訓](words/訓.md)

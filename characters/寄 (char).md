@@ -37,7 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 65
+boundedness: 50
 ---
 >[!tip] This is a page about the character 寄.
 >For the word, see [寄](words/寄.md)

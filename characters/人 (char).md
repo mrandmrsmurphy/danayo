@@ -37,7 +37,7 @@ date-last-perfect: 2026-03-29
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character **人**.
 >For the word, see [人](words/人.md)

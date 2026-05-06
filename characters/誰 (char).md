@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 誰.
 >For the word, see [誰](words/誰.md)

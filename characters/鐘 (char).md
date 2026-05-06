@@ -33,7 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 鐘.
 >For the word, see [鐘](words/鐘.md)

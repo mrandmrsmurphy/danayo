@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 亦.
 >For the word, see [亦](words/亦.md)

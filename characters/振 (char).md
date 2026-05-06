@@ -40,7 +40,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 振.
 >For the word, see [振](words/振.md)

@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 賦.
 >For the word, see [賦](words/賦.md)

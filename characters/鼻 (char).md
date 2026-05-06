@@ -32,7 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 鼻.
 >For the word, see [鼻](words/鼻.md)

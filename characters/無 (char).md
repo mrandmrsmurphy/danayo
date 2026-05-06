@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 90
+boundedness: 80
 ---
 >[!tip] This is a page about the character 無.
 >For the word, see [無](words/無.md)

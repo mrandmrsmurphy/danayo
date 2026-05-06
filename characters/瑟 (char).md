@@ -31,7 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 瑟.
 >For the word, see [瑟](words/瑟.md)

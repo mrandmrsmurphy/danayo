@@ -38,7 +38,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 脱.
 >For the word, see [脱](words/脱.md)

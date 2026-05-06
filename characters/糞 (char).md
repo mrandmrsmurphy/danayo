@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 糞.
 >For the word, see [糞](words/糞.md)

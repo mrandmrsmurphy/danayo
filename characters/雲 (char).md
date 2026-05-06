@@ -34,7 +34,7 @@ date-last-perfect: 2026-03-15
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 雲.
 >For the word, see [雲](words/雲.md)

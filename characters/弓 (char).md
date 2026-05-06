@@ -33,7 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 弓.
 >For the word, see [弓](words/弓.md)

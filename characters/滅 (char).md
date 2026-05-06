@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 滅.
 >For the word, see [滅](words/滅.md)

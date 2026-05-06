@@ -46,7 +46,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 礼.
 >For the word, see [礼](words/礼.md)

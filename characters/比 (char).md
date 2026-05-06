@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is about the character 比.
 >For the word, see [比](words/比.md).

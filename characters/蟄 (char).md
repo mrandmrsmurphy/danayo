@@ -36,7 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 蟄.
 >For the word, see [蟄](words/蟄.md)

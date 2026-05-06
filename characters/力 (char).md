@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 date-last-perfect: 2026-04-30
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 力.
 >For the word, see [力](words/力.md)

@@ -37,7 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 刷.
 >For the word, see [刷](words/刷.md)

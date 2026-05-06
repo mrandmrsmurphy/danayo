@@ -33,7 +33,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 65
+boundedness: 50
 ---
 >[!tip] This is a page about the character 有.
 >For the word, see [有](words/有.md)

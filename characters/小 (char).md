@@ -32,7 +32,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 小.
 >For the word, see [小](words/小.md)

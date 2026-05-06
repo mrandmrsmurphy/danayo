@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 術.
 >For the word, see [術](words/術.md)

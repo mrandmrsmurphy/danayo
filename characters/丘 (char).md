@@ -34,7 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 丘.
 >For the word, see [丘](words/丘.md)

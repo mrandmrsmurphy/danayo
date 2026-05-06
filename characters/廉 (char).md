@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 廉.
 >For the word, see [廉](words/廉.md)

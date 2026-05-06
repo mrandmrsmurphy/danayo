@@ -31,7 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character.
 >For the word, see [暑](words/暑.md)

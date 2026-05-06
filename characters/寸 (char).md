@@ -37,7 +37,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 寸.
 >For the word, see [寸](words/寸.md)

@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 束.
 >For the word, see [束](words/束.md)

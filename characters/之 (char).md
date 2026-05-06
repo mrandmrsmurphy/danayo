@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 之.
 >For the word, see [之](words/之.md)

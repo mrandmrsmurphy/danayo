@@ -41,7 +41,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is about the character
 >For the word, see [嫩](words/嫩.md)

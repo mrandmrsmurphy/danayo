@@ -36,7 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 80
+boundedness: 75
 ---
 >[!tip] This is a page about the character 会.
 >For the word, see [会](words/会.md)

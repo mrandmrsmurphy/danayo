@@ -36,7 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 倍.
 >For the word, see [倍](words/倍.md)

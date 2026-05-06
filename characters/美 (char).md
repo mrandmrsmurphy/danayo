@@ -37,7 +37,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 75
+boundedness: 65
 ---
 >[!tip] This is a page about the character 美.
 >For the word, see [美](words/美.md)

@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 80
+boundedness: 65
 ---
 >[!tip] This is a page about the character 粥.
 >For the word, see [粥](words/粥.md)

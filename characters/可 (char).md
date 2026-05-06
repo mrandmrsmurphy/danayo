@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 85
+boundedness: 75
 ---
 >[!tip] This is a page about the character 可.
 >For the word, see [可](words/可.md)

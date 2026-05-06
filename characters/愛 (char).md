@@ -35,7 +35,7 @@ aliases:
 tags:
   - character
 kwin: true
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 愛.
 >For the word, see [愛](words/愛.md)

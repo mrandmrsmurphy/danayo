@@ -47,7 +47,7 @@ date-last-perfect: 2026-02-22
 kwin: true
 tags:
   - character
-boundedness: 80
+boundedness: 70
 ---
 >[!tip] This is a page about the character 龍.
 >For the word, see [龍](words/龍.md)

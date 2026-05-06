@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 晒.
 >For the word, see [晒](words/晒.md)

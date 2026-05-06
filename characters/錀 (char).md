@@ -30,7 +30,7 @@ stand_in: 錀
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 ```meta-bind-embed
 [[nav/char_info]]

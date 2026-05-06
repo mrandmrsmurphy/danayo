@@ -41,7 +41,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 鎮.
 >For the word, see [鎮](words/鎮.md)

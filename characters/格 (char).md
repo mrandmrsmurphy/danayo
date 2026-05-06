@@ -36,7 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 65
+boundedness: 60
 ---
 >[!tip] This is a page about the character 格.
 >For the word, see [格](words/格.md)

@@ -31,7 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 壅.
 >For the word, see [壅](words/壅.md)

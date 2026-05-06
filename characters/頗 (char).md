@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 頗.
 >For the word, see [頗](words/頗.md)

@@ -42,7 +42,7 @@ kwin: false
 tags:
   - 
   - character
-boundedness: 65
+boundedness: 50
 ---
 >[!tip] This is a page about the character.
 >For the word, see [他](words/他.md)

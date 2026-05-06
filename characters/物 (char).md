@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 65
+boundedness: 50
 ---
 >[!tip] This is about the character.
 >For the word, see [物](words/物.md).

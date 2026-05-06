@@ -39,7 +39,7 @@ aliases:
 tags:
   - character
 kwin: true
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 両.
 >For the word, see [両](words/両.md)

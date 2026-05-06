@@ -31,7 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 75
+boundedness: 60
 ---
 >[!tip] This is a page about the character 甘.
 >For the word, see [甘](words/甘.md)

@@ -39,7 +39,7 @@ date-last-perfect: 2026-02-20
 kwin: true
 tags:
   - character
-boundedness: 75
+boundedness: 70
 ---
 >[!tip] This is a page about the character 于.
 >For the word, see [于](words/于.md)

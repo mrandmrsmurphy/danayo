@@ -40,7 +40,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 捻.
 >For the word, see [捻](words/捻.md)

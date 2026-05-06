@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 50
+boundedness: 35
 ---
 >[!tip] This is a page about the character 凹.
 >For the word, see [凹](words/凹.md)

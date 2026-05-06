@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 75
+boundedness: 60
 ---
 >[!tip] This is a page about the character 壇.
 >For the word, see [壇](words/壇.md)

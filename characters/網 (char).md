@@ -40,7 +40,7 @@ date-last-perfect: 2026-02-06
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 網.
 >For the word, see [網](words/網.md)

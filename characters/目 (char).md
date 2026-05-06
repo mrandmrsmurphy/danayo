@@ -31,7 +31,7 @@ stand_in: 目
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 目.
 >For the word, see [目](words/目.md)

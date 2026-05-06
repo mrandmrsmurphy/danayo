@@ -35,7 +35,7 @@ date-last-perfect: 2026-02-11
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 与.
 >For the word, see [与](words/与.md)

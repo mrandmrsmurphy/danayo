@@ -33,7 +33,7 @@ date-last-perfect: 2026-03-24
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 丈.
 >For the word, see [丈](words/丈.md)

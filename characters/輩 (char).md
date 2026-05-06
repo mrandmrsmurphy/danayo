@@ -30,7 +30,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 輩.
 >For the word, see [輩](words/輩.md)

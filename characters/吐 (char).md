@@ -35,7 +35,7 @@ swadesh: 96
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 吐.
 >For the word, see [吐](words/吐.md)

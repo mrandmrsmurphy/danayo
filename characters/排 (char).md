@@ -35,7 +35,7 @@ stand_in: 排
 kwin: false
 tags:
   - character
-boundedness: 85
+boundedness: 75
 ---
 >[!tip] This is about the character.
 >For the word, see [排](words/排.md)

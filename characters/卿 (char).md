@@ -36,7 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 卿.
 >For the word, see [卿](words/卿.md)

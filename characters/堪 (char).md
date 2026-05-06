@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 55
+boundedness: 40
 ---
 >[!tip] This is a page about the character 堪.
 >For the word, see [堪](words/堪.md)

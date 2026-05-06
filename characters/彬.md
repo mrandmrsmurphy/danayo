@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 65
 ---
 ```meta-bind-embed
 [[nav/char_info]]

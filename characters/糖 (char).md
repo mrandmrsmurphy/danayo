@@ -31,7 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 糖.
 >For the word, see [糖](words/糖.md)

@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 85
+boundedness: 70
 ---
 >[!tip] This is a page about the character 輿.
 >For the word, see [輿](words/輿.md)

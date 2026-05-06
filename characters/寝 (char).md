@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 60
+boundedness: 50
 ---
 >[!tip] This is a page about the character 寝.
 >For the word, see [寝](words/寝.md)

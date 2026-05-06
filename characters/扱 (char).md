@@ -46,7 +46,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 扱.
 >For the word, see [扱](words/扱.md)

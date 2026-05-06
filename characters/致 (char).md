@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 55
+boundedness: 40
 ---
 >[!tip] This is a page about the character 致.
 >For the word, see [致](words/致.md)

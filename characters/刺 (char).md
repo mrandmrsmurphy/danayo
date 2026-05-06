@@ -39,7 +39,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 刺.
 >For the word, see [刺](words/刺.md)

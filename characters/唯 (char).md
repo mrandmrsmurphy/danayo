@@ -46,7 +46,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 唯.
 >For the word, see [唯](words/唯.md)

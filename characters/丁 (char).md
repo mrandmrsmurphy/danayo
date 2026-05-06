@@ -34,7 +34,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 90
+boundedness: 80
 ---
 >[!tip] This is a page about the character 丁.
 >For the word, see [丁](words/丁.md)

@@ -31,7 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 葺.
 >For the word, see [葺](words/葺.md)

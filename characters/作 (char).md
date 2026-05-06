@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 85
+boundedness: 80
 ---
 >[!tip] This is a page about the character 作.
 >For the word, see [作](words/作.md)

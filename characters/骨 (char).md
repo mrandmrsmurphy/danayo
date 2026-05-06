@@ -35,7 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 30
+boundedness: 20
 ---
 >[!tip] This is a page about the character 骨.
 >For the word, see [骨](words/骨.md)

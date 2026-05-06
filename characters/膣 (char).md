@@ -36,7 +36,7 @@ date-last-perfect: 2026-01-24
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 > This is the character page.  For the word, use [[膣]].
 ```meta-bind-embed

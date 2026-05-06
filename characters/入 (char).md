@@ -37,7 +37,7 @@ date-last-perfect: 2026-02-20
 kwin: false
 tags:
   - character
-boundedness: 85
+boundedness: 70
 ---
 > [!tip] This is a page about the character.  For the word, see [[入]].  For the radical, see [[Radical 011]].
 ```meta-bind-embed

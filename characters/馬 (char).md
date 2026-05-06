@@ -36,7 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 馬.
 >For the word, see [馬](words/馬.md)

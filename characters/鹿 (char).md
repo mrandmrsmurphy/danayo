@@ -31,7 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 鹿.
 >For the word, see [鹿](words/鹿.md)

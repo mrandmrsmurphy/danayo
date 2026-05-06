@@ -43,7 +43,7 @@ date-last-perfect: 2026-02-06
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 我.
 >For the word, see [我](words/我.md)

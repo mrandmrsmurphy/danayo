@@ -52,7 +52,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 90
+boundedness: 80
 ---
 >[!tip] This is a page about the character 拉.
 >For the word, see [拉](words/拉.md)

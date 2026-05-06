@@ -36,7 +36,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 餐.
 >For the word, see [餐](words/餐.md)

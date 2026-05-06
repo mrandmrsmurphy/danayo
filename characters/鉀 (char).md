@@ -28,7 +28,7 @@ stand_in: 鉀
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 ```meta-bind-embed
 [[nav/char_info]]

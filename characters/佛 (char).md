@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 50
+boundedness: 40
 ---
 >[!tip] This is a page about the character 佛.
 >For the word, see [佛](words/佛.md)

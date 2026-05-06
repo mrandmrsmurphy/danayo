@@ -36,7 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 墊.
 >For the word, see [墊](words/墊.md)

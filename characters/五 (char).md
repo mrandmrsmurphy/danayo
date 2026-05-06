@@ -35,7 +35,7 @@ date-last-perfect: 2026-02-01
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 五.
 >For the word, see [五](words/五.md)

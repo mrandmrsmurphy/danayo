@@ -41,7 +41,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 掛.
 >For the word, see [掛](words/掛.md)

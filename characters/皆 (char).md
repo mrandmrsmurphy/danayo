@@ -33,7 +33,7 @@ date-last-perfect: 2026-03-28
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 皆.
 >For the word, see [皆](../words/皆.md).

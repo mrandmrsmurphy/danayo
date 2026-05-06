@@ -45,7 +45,7 @@ date-last-perfect: 2026-02-17
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 75
 ---
 >[!tip] This is a page about the character 咬.
 >For the word, see [咬](words/咬.md)

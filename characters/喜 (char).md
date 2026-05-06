@@ -38,7 +38,7 @@ aliases:
 tags:
   - character
 kwin: false
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character.
 >For the word, see [喜](words/喜.md)

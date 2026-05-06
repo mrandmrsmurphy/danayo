@@ -32,7 +32,7 @@ date-last-perfect: 2026-03-17
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 非.
 >For the word, see [非](words/非.md).

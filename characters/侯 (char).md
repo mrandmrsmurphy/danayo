@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 70
+boundedness: 50
 ---
 >[!tip] This is a page about the character 侯.
 >For the word, see [侯](words/侯.md)

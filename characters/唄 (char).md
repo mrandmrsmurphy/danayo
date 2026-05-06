@@ -32,7 +32,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 75
+boundedness: 60
 ---
 >[!tip] This is about the character.
 >For the word, see [唄](words/唄.md)

@@ -41,7 +41,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 乃.
 >For the word, see [乃](words/乃.md)

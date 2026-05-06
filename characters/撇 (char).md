@@ -37,7 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 撇.
 >For the word, see [撇](words/撇.md)

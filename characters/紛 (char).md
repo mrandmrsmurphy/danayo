@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 紛.
 >For the word, see [紛](words/紛.md)

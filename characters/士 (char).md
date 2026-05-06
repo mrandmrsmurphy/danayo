@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 士.
 >For the word, see [士](words/士.md)

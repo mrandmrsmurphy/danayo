@@ -37,7 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 90
 ---
 >[!tip] This is a page about the character 少.
 >For the word, see [少](words/少.md)

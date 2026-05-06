@@ -40,7 +40,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 100
+boundedness: 80
 ---
 >[!tip] This is a page about the character 屢.
 >For the word, see [屢](words/屢.md)

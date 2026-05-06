@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 45
+boundedness: 35
 ---
 >[!tip] This is a page about the character 個.
 >For the word, see [個](words/個.md)

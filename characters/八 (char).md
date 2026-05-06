@@ -34,7 +34,7 @@ date-last-perfect: 2026-03-19
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 65
 ---
 >[!Warning] This is about the character 八.  
 >For the word, see [八](words/八.md)

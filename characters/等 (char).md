@@ -35,7 +35,7 @@ date-last-perfect: 2026-04-04
 kwin: false
 tags:
   - character
-boundedness: 80
+boundedness: 75
 ---
 >[!tip] This is a page about the character 等.
 >For the word, see [等](words/等.md)

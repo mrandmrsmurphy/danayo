@@ -38,7 +38,7 @@ tags:
   - character
   - hapax
 kwin: false
-boundedness: 100
+boundedness: 65
 ---
 >[!tip] This is a page about the character 矣.
 >For the word, see [矣](words/矣.md)
