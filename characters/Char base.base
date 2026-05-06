@@ -6,9 +6,6 @@ formulas:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - 注音 == "ㄐㄨㄧ"
     order:
       - file.name
       - formula.score
@@ -16,10 +13,10 @@ views:
       - english
       - 羅馬字
       - japanese
-      - mandarin
-      - cantonese
-      - vietnamese
+      - danayo_id
     sort:
+      - property: danayo_id
+        direction: ASC
       - property: kwin
         direction: ASC
       - property: korean
@@ -58,8 +55,6 @@ views:
         direction: ASC
       - property: grade_level
         direction: ASC
-      - property: danayo_id
-        direction: ASC
       - property: formula.score
         direction: DESC
       - property: joyo_level
@@ -84,3 +79,4 @@ views:
       file.name: 64
       formula.score: 62
       note.english: 183
+      note.danayo_id: 329

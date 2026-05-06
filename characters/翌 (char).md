@@ -1,35 +1,35 @@
 ---
-mandarin: "yì"
+mandarin: yì
 cantonese: jik6
-korean: "익"
-korean_native: "다음날"
+korean: 익
+korean_native: 다음날
 japanese:
   - YOKU
 japanese_native: ø
 vietnamese:
   - dực
 middle_chinese_initial: j
-middle_chinese_final: "ɨk"
+middle_chinese_final: ɨk
 stroke_count: 11
-radical: "羽"
+radical: 羽
 skip_number: 2-6-5
-grade_level: "先進"
-pos: "格助詞"
+grade_level: 先進
+pos: 格助詞
 english:
   - the following
   - after
   - next
 羅馬字: "'ig"
-諺文: "익"
+諺文: 익
 joyo_level: "6"
-hsk_level: "無"
-hanmun_edu_level: "名"
-danayo_id: 7999
+hsk_level: 無
+hanmun_edu_level: 名
+danayo_id: 7541
 mc_id: 5320
-graphemic_classification: "立"
-stand_in: "翌"
+graphemic_classification: 立
+stand_in: 翌
 aliases:
-注音: "ㄧㄎ"
+注音: ㄧㄎ
 kwin: true
 tags:
   - character
