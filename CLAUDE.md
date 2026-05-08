@@ -88,6 +88,9 @@ Here are the complicated tasks that I've been coaching you on how to do:
 - [[Word Creation]] - for making a new word in `words/`
 - [[Character Creation]] - for making a new character in `characters/`
 
+## Improvement and Memory Management
+
+When you discover something valuable for future sessions – architectural decisions, bug fixe
 ## License
 
 Code/tooling: MIT. Content: CC BY-SA.
