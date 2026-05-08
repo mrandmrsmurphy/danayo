@@ -212,7 +212,7 @@ views:
       - file.mtime
     sort:
       - property: size
-        direction: ASC
+        direction: DESC
       - property: file.mtime
         direction: DESC
       - property: date-last-perfect

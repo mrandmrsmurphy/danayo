@@ -200,10 +200,10 @@ tags: [lookup]
 196. [少 (char)](../../characters/少%20(char).md)
 197. [[紹]]
 198. [[身]]
-199. [什](../../characters/十.md)
+199. [什](../../characters/十%20(char).md)
 200. [[生]]
 201. [[師]]
-202. [[十]]
+202. [[../../characters/十 (char)]]
 203. [[時 (char)]]
 204. [[識]]
 205. [[事 (char)]]

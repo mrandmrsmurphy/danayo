@@ -24,7 +24,7 @@ tags: [lookup]
 #### 4-2-2
 9. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven
 #### 4-2-3
-10. <ruby>[十](../../characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten
+10. <ruby>[十 (char)](../../characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten
 #### 4-2-4
 11. <ruby>[乂](characters/乂.md)<rt>⼘ㄧ</rt></ruby> - govern
 12. <ruby>[九](characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - nine

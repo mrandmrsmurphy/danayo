@@ -26,7 +26,7 @@ hanmun_edu_level: 中
 danayo_id: 3
 mc_id: 16
 graphemic_classification: 指事
-stand_in: 一十
+stand_in: 十
 aliases:
   - 什
 注音: ㄙㄧㄆ
@@ -37,7 +37,7 @@ tags:
 boundedness: 75
 ---
 > [!tip] This is a character.
-> For the word, see 十.
+> For the word, see [[十]].
 > For the radical, see [Radical 024](lookup/Radicals/Radical%20024.md)
 ```meta-bind-embed
 [[nav/char_info]]

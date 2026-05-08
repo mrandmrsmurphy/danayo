@@ -460,7 +460,7 @@ tags: [lookup]
 [心 (char)](../../characters/心%20(char).md) (마음 심) [甚](../../characters/甚.md) (심할 심) [深](../../characters/深.md) (깊을 심)
 
 #### 십
-[十](../../characters/十.md) (열 십)
+[十 (char)](../../characters/十%20(char).md) (열 십)
 
 ## ㅇ 
 #### 아

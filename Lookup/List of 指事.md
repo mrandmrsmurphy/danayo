@@ -94,7 +94,7 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 2. <ruby>[乂](/characters/乂.md)<rt>⼘ㄧ</rt></ruby> - govern, originally "to cut with scissors"
 3. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two
 4. <ruby>[八](/characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, originally "divide"
-5. <ruby>[十](/characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten, originally just a vertical mark
+5. <ruby>[十 (char)](../characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten, originally just a vertical mark
 ### 3
 6. <ruby>[三](/characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
 7. <ruby>[上](/characters/上%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - up

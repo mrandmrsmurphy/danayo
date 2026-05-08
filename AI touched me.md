@@ -2070,7 +2070,7 @@
 
   Proposed bullet:
 
-  - 会意 of [[又]] ("hand") + [[十]] ("(half of 竹) branch of bamboo") — a branch.
+  - 会意 of [[又]] ("hand") + [[characters/十 (char)]] ("(half of 竹) branch of bamboo") — a branch.
 
   → Written to 支.md
 

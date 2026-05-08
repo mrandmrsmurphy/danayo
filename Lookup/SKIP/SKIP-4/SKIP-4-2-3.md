@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 02](lookup/Stroke/Stroke%2002.md)
 
 ## Characters
-1. <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> - ten
+1. <ruby>[[../../../characters/十 (char)]]<rt>ㄙㄧㄆ</rt></ruby> - ten
 
 ## Datacheck
 ```dataview

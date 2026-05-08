@@ -5,7 +5,7 @@ tags: [lookup]
 ---
 1. <ruby>[一](characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one, unity, whole
 2. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven, 7
-3. <ruby>[十](characters/十.md)<rt>ㄙㄧㄆ</rt></ruby> - ten
+3. <ruby>[十 (char)](../characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten
 4. <ruby>[九](characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - nine, 9
 5. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
 6. <ruby>[刀](characters/刀.md)<rt>ㄊㄚㄨ</rt></ruby> - blade, knife

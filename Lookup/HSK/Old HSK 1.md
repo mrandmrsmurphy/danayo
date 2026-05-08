@@ -123,7 +123,7 @@ tags: [lookup]
 [明 (char)](../../characters/明%20(char).md): 4
 [友](../../characters/友.md): 4
 [全 (char)](../../characters/全%20(char).md): 4
-[什](../../characters/十.md): 4
+[什](../../characters/十%20(char).md): 4
 [候](../../characters/候.md): 4
 [知 (char)](../../characters/知%20(char).md): 4
 [院](../../characters/院.md): 4
@@ -551,7 +551,7 @@ tags: [lookup]
 [调](../../characters/調.md): 1
 [产](../../characters/産.md): 1
 [勝](../../characters/勝.md): 1
-[十](../../characters/十.md): 1
+[十 (char)](../../characters/十%20(char).md): 1
 [踐](../../characters/践.md): 1
 [践](../../characters/践.md): 1
 [食 (char)](../../characters/食%20(char).md): 1
