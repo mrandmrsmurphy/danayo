@@ -211,6 +211,8 @@ views:
       - english
       - file.mtime
     sort:
+      - property: english
+        direction: ASC
       - property: size
         direction: DESC
       - property: file.mtime
