@@ -209,7 +209,10 @@ views:
       - 羅馬字
       - 諺文
       - english
+      - file.mtime
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: date-last-perfect
         direction: ASC
       - property: size
@@ -223,9 +226,11 @@ views:
       - property: 諺文
         direction: ASC
     columnSize:
-      file.name: 85
+      file.name: 68
       note.size: 47
-      note.注音: 81
-      note.諺文: 57
+      note.date-last-perfect: 129
+      note.注音: 37
+      note.諺文: 31
+      note.english: 174
 
 ```
