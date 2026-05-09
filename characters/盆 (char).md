@@ -1,8 +1,8 @@
 ---
-mandarin: "pén"
+mandarin: pén
 cantonese: pun4
-korean: "분"
-korean_native: "동이"
+korean: 분
+korean_native: 동이
 japanese:
   - BON
   - HON
@@ -14,25 +14,25 @@ vietnamese:
   - dồn
   - vồn
 middle_chinese_initial: b
-middle_chinese_final: "uən"
+middle_chinese_final: uən
 stroke_count: 9
-radical: "皿"
+radical: 皿
 skip_number: 2-2-7
 grade_level: "6"
 pos: ""
 english:
   - basin
-羅馬字: bon
-諺文: "본"
-joyo_level: "高等"
+羅馬字: pun
+諺文: 푼
+joyo_level: 高等
 hsk_level: "2"
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 6311
 mc_id: 2057
-graphemic_classification: "分"
-stand_in: "盆"
+graphemic_classification: 分
+stand_in: 盆
 aliases:
-注音: "ㄅㄛㄋ"
+注音: ㄆㄨㄋ
 kwin: false
 tags:
   - character
