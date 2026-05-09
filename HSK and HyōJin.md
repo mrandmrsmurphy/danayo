@@ -1661,7 +1661,7 @@
 1769. [[庖]] in [[lookup/Japanese/Hyōgai]]
 1770. [[苞]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅍ]]
 1771. [[鉾]] in [[lookup/Japanese/Hyōgai]]
-1772. [[梵]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]]
+1772. [[梵]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅂ]] ?? 뱜??
 1773. [[鬘]] in [[lookup/Japanese/Hyōgai]]
 1774. [[籾]] in [[lookup/Japanese/Hyōgai]]
 1775. [[瀞]] in [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅈ]]
