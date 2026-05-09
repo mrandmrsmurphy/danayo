@@ -14,11 +14,11 @@ views:
       - date-last-perfect
       - file.mtime
     sort:
+      - property: date-last-perfect
+        direction: DESC
       - property: size
         direction: ASC
       - property: file.mtime
-        direction: ASC
-      - property: date-last-perfect
         direction: ASC
     columnSize:
       file.name: 84
