@@ -480,7 +480,7 @@ tags: [lookup]
 [[芦]]
 [[庵]]
 [[脛]]
-[[註]]
+[註](../../characters/注.md)
 [衿](characters/襟.md)
 [[亶]]
 [[貰]]
@@ -494,7 +494,7 @@ tags: [lookup]
 [[迪]]
 [舵 (char)](../../characters/舵%20(char).md)
 [鬣 (char)](characters/鬣%20(char).md)
-[[傭]]
+[傭](../../characters/用.md)
 [[沐]]
 [[寵]]
 [[劭]]
@@ -535,7 +535,7 @@ tags: [lookup]
 [[菫]]
 [[皐]]
 [[柯]]
-[[蹶]]
+[蹶](../../characters/決%20(char).md)
 [[熙]]
 [[棲]]
 [[蒐]]
@@ -656,7 +656,7 @@ tags: [lookup]
 [[揶]]
 [竦 (char)](../../characters/竦%20(char).md)
 [[斟]]
-[[綜]]
+[綜](../../characters/総.md)
 [[魁]]
 [[柩]]
 [[徽]]

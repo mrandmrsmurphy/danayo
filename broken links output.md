@@ -75,8 +75,6 @@ Where to find broken links
 - [[lexipedia/基督敎 elements]]
 - [[lexipedia/歴史綱要]]
 
-[[lookup/HSK/HSK No]]
-
 ## korean name
 - [[lookup/Korean/Korean Name ㄱ]]
 - [[lookup/Korean/Korean Name ㄴ]]
@@ -312,29 +310,9 @@ Where to find broken links
 221. [[家蝿]] in [[syllables/ㄧㄫ]]
 222. [[寓居]] in [[syllables/ㄨ]]
 
-## Nex
+## Words
 - [[words/天地]]
 - [[words/春秋]]
 - [[words/武士]]
 - [[words/混沌]]
-5. [[太極]] in [[words/混沌]]
-6. [[開天闢地]] in [[words/混沌]]
-7. [[火紅]] in [[words/火紅素]]
-8. [[炉甘石]] in [[words/炉甘金]]
-9. [[石灰]] in [[words/石灰素]]
-10. [[../characters/經 (char)]] in [[words/神経]]
-11. [[魂魄]] in [[words/神霊]]
-12. [[天神地祇]] in [[words/神霊]]
-13. [[../characters/鷲 (char)]] in [[words/禿鷲]]
-14. [[緑柱石]] in [[words/緑柱素]]
-15. [[旧字体]] in [[words/繁体字]]
-16. [[甘蕉]] in [[words/芭蕉]]
-17. [[英格蘭]] in [[words/英国]]
-18. [[霓虹]] in [[words/虹素]]
-19. [[../characters/饒 (char)]] in [[words/豊饒]]
-20. [[../characters/婪 (char)]] in [[words/貪婪]]
-21. [[鑢]] in [[words/軽銀]]
-22. [[狂風]] in [[words/風狂]]
-23. [[栄養素]] in [[words/養素]]
-24. [[高盧]] in [[words/高素]]
-25. [[無明]] in [[words/黒暗]]
+- [[words/神経]]
