@@ -317,9 +317,9 @@ tags: [lookup]
 [[果]]: 4
 [[熟]]: 4
 [[高 (char)]]: 4
-[[伙]]: 4
-[[确]]: 4
-[[確]]: 4
+!!伙!!: 4
+[确](../../characters/確.md): 4
+確: 4
 [风](../../characters/風%20(char).md): 4
 [風 (char)](../../characters/風%20(char).md): 4
 [[../../characters/梯]]: 4
