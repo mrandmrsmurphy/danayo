@@ -1,43 +1,3 @@
-###   Character : 反  (反 (char).md)
-
-  Wiktionary: 形声
-
-  Phonetic  :   OC *panʔ, *pʰan
-
-  Semantic  : 又 (hand)
-
-  
-
-  Proposed bullet:
-
-  - 形声 (OC \*panʔ, \*pʰan): semantic [[Radical 029|又]] ("hand") + phonetic [[]] (OC \*hŋaːnʔ, \*hŋaːns).
-
-  → Written to 反 (char).md
-
-[収] No graphemic description found on Wiktionary.
-
-  
-
-────────────────────────────────────────────────────────────
-
-###   Character : 叚  (叚.md)
-
-  Wiktionary: 会意
-
-  Components: 爪(hand), 又(hand), 石(stone)
-
-  
-
-  Proposed bullet:
-
-  - 会意 of [[爪]] ("hand") + [[又]] ("hand") + [[石]] ("stone").
-
-  → Written to 叚.md
-
-  
-
-────────────────────────────────────────────────────────────
-
 ###   Character : 口  (口 (char).md)
 
   Wiktionary: 象形
@@ -50,7 +10,7 @@
 
   - [List of 象形](lookup/List%20of%20象形.md): resembles an open mouth.
 
-  → Written to 口 (char).md
+  → Written to [[口 (char).md]]
 
 [古] No graphemic description found on Wiktionary.
 

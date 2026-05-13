@@ -38,7 +38,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 33.  [[臂]]
 34.  [[碌]]
 35.  [[嚼]]
-36.  [[廓]]
+36.  [廓](../../characters/郭%20(char).md)
 37.  [[揭]]
 38.  [[粹]]
 39.  [[碑]]
@@ -392,7 +392,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 387.  [[荒]]
 388.  [[瘤]]
 389.  [[譬]]
-390.  [[涌]]
+390.  [涌](../../characters/湧%20(char).md)
 391.  [[瘩]]
 392.  [[敷 (char)]]
 393.  [[瘫]]

@@ -45,11 +45,11 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*panʔ, \*pʰan): semantic [[Radical 029|又]] ("hand") + phonetic [[]] (OC \*hŋaːnʔ, \*hŋaːns).
+- 形声 (OC \*panʔ, \*pʰan): semantic [[Radical 029|又]] ("hand") + phonetic [[厂]] (OC \*hŋaːnʔ, \*hŋaːns).
 - We follow Japanese and fold 叛 into this character.
-##
 [[Lookup/CC/initials/聲 敷]]
 [[Lookup/CC/finals/韻 元合]]
+## Words
 - [[反応]] "react,respond"
 - [[反映]] "reflect,indicate"
 - [[反切]] "fannie"

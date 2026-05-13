@@ -30,7 +30,7 @@ danayo_id: 6228
 mc_id: 4540
 graphemic_classification: 勇
 stand_in: 湧
-aliases:
+aliases: 涌
 注音: ⼄ㄫ
 kwin: true
 tags:

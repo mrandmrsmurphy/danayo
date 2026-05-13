@@ -89,7 +89,7 @@ This have all be checked for redirects.
 [[嬅]] [樺](characters/樺.md) [[譁]] [靴](characters/靴.md) [[澕]] 
 
 ### 확
-[[廓]] [[攫]]
+[廓](../../characters/郭%20(char).md) [[攫]]
 
 ### 환
 [喚 (char)](characters/喚%20(char).md) [[奐]] [[渙]] [煥](characters/煥.md) [[晥]] [幻](characters/幻.md) [桓](characters/桓.md) [[鐶]] [[驩]] [[宦]] [[紈]] [[鰥]] [[圜]] 
