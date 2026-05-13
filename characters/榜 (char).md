@@ -1,0 +1,49 @@
+---
+mandarin: bǎng
+cantonese: bong2
+korean: 방
+korean_native: ""
+japanese:
+  - HOU
+japanese_native:
+  - かじ
+  - たてふだ
+vietnamese:
+  - bảng
+middle_chinese_initial: p
+middle_chinese_final: "ɑŋ"
+stroke_count: 14
+radical: 木
+skip_number: 1-4-10
+grade_level: "先進"
+pos: 名詞
+english:
+  - posted list
+  - notice board
+羅馬字: pang
+諺文: 팡
+joyo_level: 表外字
+hsk_level: "2"
+hanmun_edu_level: 名
+danayo_id: 7543
+mc_id: 0
+graphemic_classification: 旁
+stand_in: 榜文
+注音: ㄆㄚㄫ
+date-last-perfect:
+kwin: false
+tags:
+  - character
+---
+```meta-bind-embed
+[[nav/char_info]]
+```
+
+## Notes
+- 形声 (OC \*pˤraŋ-s): semantic [[Radical 075|木]] ("wood/tree") + phonetic [[旁]] (OC \*[b]ˤaŋ) — a notice-board is a flat plank of wood.
+- [SKIP-1-4-10](lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md)) — [ㄆㄚㄫ](syllables/ㄆㄚㄫ.md)
+- Frequency rank in Classical Chinese not established. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄆㄚㄫ](syllables/ㄆㄚㄫ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Words
+- <ruby>[[榜文]]<rt>ㄆㄚㄫㄇㄨㄋ</rt></ruby> "posted proclamation"

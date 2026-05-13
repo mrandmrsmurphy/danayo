@@ -16,9 +16,9 @@ views:
       - boundedness
       - stand_in
     sort:
-      - property: boundedness
-        direction: ASC
       - property: danayo_id
+        direction: ASC
+      - property: boundedness
         direction: ASC
       - property: kwin
         direction: ASC
