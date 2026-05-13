@@ -5,22 +5,20 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 - [Hyōgai](lookup/Japanese/Hyōgai.md)
 - [Jinmeiyō](lookup/Japanese/Jinmeiyō.md)
 - [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
 - [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## 4 links
 
 ### Old HSK 2 + Old HSK 3 + Old HSK 4 + Old HSK 5
-[[拥]] · [[冲]] · [[矿]] · [[烂]] · [[炮]] · [[赔]] · [[枪]] · [[圈]] · [[劝]] · [[闪]] · [[碎]] · [[托]] · [[县]] · [[厅]] · [[沉]] · [[妇]] · [[跃]] · [[灵]] · [[轮]] · [[劳]] · [[庆]] · [[损]] · [[击]] · [[势]] · [[寻]]
+[[碎]] · [[托]] · [[县]] · [[厅]] · [[沉]] · [[妇]] · [[跃]] · [[灵]] · [[轮]] · [[劳]] · [[庆]] · [[损]] · [[击]] · [[势]] · [[寻]]
 
 ### Old HSK 2 + Old HSK 3 + Old HSK 4 + Old HSK 6
 [[拔]] · [[夺]] · [[扭]] · [[纺]] · [[异]]
 
 ### Old HSK 3 + Old HSK 4 + Old HSK 6 + Korean Name ㅇ
 [[掩]] · [[淹]]
-
-### Old HSK 3 + Old HSK 4 + Hyōgai + Korean Name ㅂ
-[[撥]] · [[憑]]
 
 ### Old HSK 3 + Old HSK 5 + Hyōgai + Korean Name ㄱ
 [[舅]] · [[狡]]

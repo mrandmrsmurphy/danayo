@@ -10,7 +10,7 @@ These have all been checked for redirects.
  [畔 (char)](characters/畔%20(char).md) [頒](characters/頒.md) [潘](characters/潘.md) [磐](characters/磐.md) [拌](characters/拌.md) [搬](characters/搬.md) [攀](characters/攀.md) [斑](characters/斑.md) [[槃]] [[泮]] [[瘢]] [盼](characters/盼.md) [[磻]] [礬](../../characters/礬.md) [絆](characters/絆.md) [蟠](characters/盤%20(char).md) [[豳]] 
 
 ### 발 
- [[潑]] [鉢 (char)](characters/鉢%20(char).md) [[渤]] [勃](characters/勃.md) [[撥]] [[跋]] [醱](characters/発%20(char).md) [魃](characters/災.md) 
+ [[潑]] [鉢 (char)](characters/鉢%20(char).md) [[渤]] [勃](characters/勃.md) [撥](../../characters/発%20(char).md) [[跋]] [醱](characters/発%20(char).md) [魃](characters/災.md) 
 
 ### 방 
  [坊](characters/坊.md) [彷](characters/彷.md) [[昉]] [龐](characters/龐.md) [[榜]] [[尨]] [旁](characters/旁.md) [[枋]] [[滂]] [[磅]] [紡 (char)](characters/紡%20(char).md) [肪 (char)](characters/肪%20(char).md) [[膀]] [[舫]] [[蒡]] [蚌](characters/蜂%20(char).md) [謗](characters/謗.md) [幫](characters/幇.md) 
