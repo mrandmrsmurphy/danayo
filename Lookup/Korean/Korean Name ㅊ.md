@@ -109,7 +109,7 @@ These have all bee checked to see which are redirects
 [蟄](characters/蟄%20(char).md)
 
 ### 칭 
-[[秤]]
+[秤](../../characters/称.md)
 
 ## Datacheck
 ```dataviewjs
