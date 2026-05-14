@@ -124,7 +124,7 @@ This has been checked for redirects.
 ## ㅜ
 
 ### 구 
-[玖](characters/玖.md) [矩 (char)](characters/矩%20(char).md) [邱](characters/邱.md) 銶 metal-chisel [溝 (char)](characters/溝%20(char).md) [購](characters/購.md) [鳩](characters/鳩.md) [[軀]] [[枸]] [仇](characters/仇.md) [勾](characters/勾.md) [咎](characters/咎.md) [嘔](characters/呕.md) [垢](characters/垢.md) [寇](characters/寇.md) [嶇](characters/区.md) [柩](characters/柩.md) [歐](characters/𧦅.md) [毆](characters/殴.md) [毬](characters/球%20(char).md) [灸](characters/灸.md) [[瞿]] [[絿]] [臼 (char)](characters/臼%20(char).md) [[舅]] [[衢]] [謳](characters/𧦅.md) [逑](characters/逑.md) [鉤](characters/鉤%20(char).md) [駒](characters/駒.md) [鷗](characters/鴎%20(char).md) [[玽]] [[耇]] [[廏]] [[颶]]  ([[廐]])
+[玖](characters/玖.md) [矩 (char)](characters/矩%20(char).md) [邱](characters/邱.md) 銶 metal-chisel [溝 (char)](characters/溝%20(char).md) [購](characters/購.md) [鳩](characters/鳩.md) [[軀]] [[枸]] [仇](characters/仇.md) [勾](characters/勾.md) [咎](characters/咎.md) [嘔](characters/呕.md) [垢](characters/垢.md) [寇](characters/寇.md) [嶇](characters/区.md) [柩](characters/柩.md) [歐](characters/𧦅.md) [毆](characters/殴.md) [毬](characters/球%20(char).md) [灸](characters/灸.md) [[瞿]] [[絿]] [臼 (char)](characters/臼%20(char).md) [舅](characters/舅.md) [[衢]] [謳](characters/𧦅.md) [逑](characters/逑.md) [鉤](characters/鉤%20(char).md) [駒](characters/駒.md) [鷗](characters/鴎%20(char).md) [[玽]] [[耇]] [[廏]] [[颶]]  ([[廐]])
 
 ### 국 
 [鞠](characters/鞠.md) [[鞫]] [麴](characters/鞠.md)

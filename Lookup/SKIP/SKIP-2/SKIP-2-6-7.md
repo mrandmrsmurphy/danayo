@@ -18,6 +18,7 @@ tags: [lookup]
 - [[筐|筺]] --> 筐
 - [[賈]]
 - [[碁]]
+- [[舅]]
 ### Data double check
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
