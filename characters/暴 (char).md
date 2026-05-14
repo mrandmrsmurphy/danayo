@@ -31,6 +31,7 @@ mc_id: 580
 graphemic_classification: 會意
 stand_in: 暴
 aliases:
+  - 曝
 注音: ㄅㄛㄎ
 kwin: false
 tags:

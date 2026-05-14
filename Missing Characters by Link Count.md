@@ -10,6 +10,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 - [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
 - [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
+- [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## 4 links
 
@@ -26,9 +27,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ### Old HSK 3 + Old HSK 4 + Korean Name ㅊ + SKIP-1-3-21
 [[囑]]
-
-### Old HSK 3 + Old HSK 6 + Hyōgai + Korean Name ㅅ
-[[晰]]
 
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㄱ
 [[怯]]
@@ -47,9 +45,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ### Old HSK 4 + Old HSK 6 + Korean Name ㄱ + SKIP-1-7-7
 [[兢]]
-
-### Old HSK 6 + Hyōgai + Jinmeiyō + Korean Name ㅍ
-[[曝]]
 
 ## 3 links
 

@@ -40,7 +40,7 @@ Checked for redirects
 [碩](characters/碩.md) [[奭]] [[汐]] [[淅]] [[晳]] [[䄷]] 
 - 鉐: for the sound, use 石; for the meaning, use 黄銅
 - [錫](characters/錫.md) [潟](characters/潟.md) [[蓆]] [[舃]] [[鼫]] 
-- [[晳]] ([[晰]])
+- [晳](../../characters/析.md) ([晰](../../characters/析.md))
 
 ### 선 
 [扇](characters/扇.md) [[渲]] [[瑄]] [[愃]] [[墡]] [膳](characters/膳.md) [繕](characters/繕.md) [[琁]] [[璿]] [[璇]] [羨](characters/羨.md) [[嬋]] [銑](characters/銑.md) [[珗]] [[嫙]] [[僊]] !敾! [[煽]] [癬](characters/鮮.md) [腺](characters/腺.md) [蘚](characters/鮮.md) [蟬](characters/蝉%20(char).md) [[詵]] [[跣]] [[鐥]] samarium [洒 (char)](characters/洒%20(char).md) [亘 (char)](characters/亘%20(char).md) 

@@ -755,7 +755,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 750.  [[滨]]
 751.  [[妥]]
 752.  [[蒸 (char)]]
-753.  [[曝]]
+753.  [曝](../../characters/暴%20(char).md)
 754.  [[刊 (char)]]
 755.  [[饥]]
 756.  [[蓄 (char)]]
