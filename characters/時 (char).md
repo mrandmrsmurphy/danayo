@@ -32,6 +32,7 @@ graphemic_classification: 寺
 stand_in: 時
 aliases:
   - 时
+  - 蒔
 注音: ㄙㄧ
 kwin: true
 tags:
