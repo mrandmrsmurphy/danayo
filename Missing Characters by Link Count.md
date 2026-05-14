@@ -15,12 +15,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 邀 Create 敫?, root of 激
 
-### Old HSK 2 + Old HSK 3 + Old HSK 5 + Hyōgai
-[[毯]]
-
-### Old HSK 2 + Old HSK 3 + Old HSK 5 + Korean Name ㅂ
-[[咐]]
-
 ### Old HSK 2 + Old HSK 3 + Old HSK 6 + Korean Name ㅅ
 [[嫂]]
 

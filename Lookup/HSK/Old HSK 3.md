@@ -1101,7 +1101,7 @@ tags: [lookup]
 [[週]]: 2
 [[皱]]: 2
 [[皺]]: 2
-[[咐]]: 2
+[咐](../../characters/付.md): 2
 [專](../../characters/専.md): 2
 [移](../../characters/移.md): 2
 [置 (char)](../../characters/置%20(char).md): 2
@@ -1263,7 +1263,7 @@ tags: [lookup]
 [[堤]]: 1
 [[滴 (char)]]: 1
 [[板]]: 1
-[[毯]]: 1
+[毯](../../characters/淡.md): 1
 [铃](../../characters/鈴%20(char).md): 1
 [[垫]]: 1
 [[墊 (char)]]: 1
