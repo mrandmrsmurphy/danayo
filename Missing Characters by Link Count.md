@@ -38,9 +38,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 2 + Old HSK 3 + Old HSK 6 + Korean Name ㅅ
 [[嫂]]
 
-### Old HSK 2 + Old HSK 3 + Hyōgai + Korean Name ㅂ
-[[潑]]
-
 ### Old HSK 2 + Old HSK 4 + Old HSK 5 + Korean Name ㅂ
 [[膀]]
 
