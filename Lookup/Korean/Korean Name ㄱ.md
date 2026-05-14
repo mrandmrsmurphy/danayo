@@ -119,7 +119,7 @@ This has been checked for redirects.
 [[../../characters/宏]] [紘](characters/紘.md) [肱](characters/肘%20(char).md) [轟](characters/軣.md)
 
 ### 교 
-[僑](characters/僑.md) [喬](characters/喬.md) [嬌](characters/嬌.md) [膠](characters/膠.md) [咬 (char)](characters/咬%20(char).md) [[嶠]] [攪](characters/撹.md) [[狡]] [[皎]] [絞](characters/絞.md) [[翹]] [蕎](characters/蕎.md) [蛟](characters/鮫.md) [[轎]] [餃](characters/餃.md) [驕](characters/蕎.md) [鮫](characters/鮫.md) [[姣]] [[佼]] [[噭]] [[憍]]
+[僑](characters/僑.md) [喬](characters/喬.md) [嬌](characters/嬌.md) [膠](characters/膠.md) [咬 (char)](characters/咬%20(char).md) [[嶠]] [攪](characters/撹.md) [狡](characters/狡.md) [[皎]] [絞](characters/絞.md) [[翹]] [蕎](characters/蕎.md) [蛟](characters/鮫.md) [[轎]] [餃](characters/餃.md) [驕](characters/蕎.md) [鮫](characters/鮫.md) [[姣]] [[佼]] [[噭]] [[憍]]
 
 ## ㅜ
 
