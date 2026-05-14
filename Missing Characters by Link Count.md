@@ -12,7 +12,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ## 4 links
 
 ### Old HSK 2 + Old HSK 3 + Old HSK 4 + Old HSK 5
-[[碎]] · [[托]] · [[县]] · [[厅]] · [[沉]] · [[妇]] · [[跃]] · [[灵]] · [[轮]] · [[劳]] · [[庆]] · [[损]] · [[击]] · [[势]] · [[寻]]
+[[托]] · [[县]] · [[厅]] · [[沉]] · [[妇]] · [[跃]] · [[灵]] · [[轮]] · [[劳]] · [[庆]] · [[损]] · [[击]] · [[势]] · [[寻]]
 
 ### Old HSK 2 + Old HSK 3 + Old HSK 4 + Old HSK 6
 [[拔]] · [[夺]] · [[扭]] · [[纺]] · [[异]]
