@@ -88,7 +88,7 @@ All of these have been checked for redirects.
 [[廩]] [凜](characters/凜%20(char).md) [[菻]] [[澟]] [[懍]]
 
 ### 릉 
-[[綾]] [菱](characters/菱%20(char).md) [稜](characters/稜.md) [[凌]] [[楞]] 
+[[綾]] [菱](characters/菱%20(char).md) [稜](characters/稜.md) [凌](characters/凌.md) [[楞]] 
 
 ### 리 
 [[俚]] [莉](characters/莉.md) [俐](characters/俐.md) [[唎]] [浬](characters/浬%20(char).md) [[籬]] [罹](characters/罹.md) [羸](characters/羸.md) [釐](characters/厘%20(char).md) [[涖]] [[𢻠]] [犂](characters/犂.md) [[摛]] 

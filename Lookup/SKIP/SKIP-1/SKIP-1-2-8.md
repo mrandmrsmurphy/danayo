@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-04
 stroke_count: 10
-size: 23
+size: 24
 skip_number: 1-2-8
 tags:
   - lookup
@@ -33,6 +33,7 @@ tags:
 21. <ruby>[凍](characters/凍.md)<rt>ㄉㄛㄫ</rt></ruby> "freeze"
 22. <ruby>[唳](characters/唳%20(char).md)<rt>ㄌ⼶</rt></ruby> "bird cry"
 23. <ruby>[帰](characters/帰.md)<rt>ㄍㄨㄧ</rt></ruby> "return"
+24. <ruby>[凌](characters/凌.md)<rt>ㄌㄜㄫ</rt></ruby> "to surpass"
 
 ## Datacheck
 ```dataview

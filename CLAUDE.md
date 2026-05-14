@@ -90,7 +90,7 @@ Here are the complicated tasks that I've been coaching you on how to do:
 
 ## Improvement and Memory Management
 
-When you discover something valuable for future sessions – architectural decisions, bug fixes, gotchas, quirks, etc. – append it to [[memory.md]].  
+When you discover something valuable for future sessions – architectural decisions, bug fixes, gotchas, quirks, etc. – append it to [[MEMORY.MD]].  
 
 Don't wait to be asked.  Don't wait for the session to end.
 

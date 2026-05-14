@@ -397,8 +397,7 @@ tags: [lookup]
 [[浪]]: 3
 [[例]]: 3
 [連 (char)](characters/連%20(char).md): 3
-[[练]]: 3
-[[練]]: 3
+[練](../../characters/練.md): 3
 [[落]]: 3
 [[煤 (char)]]: 3
 [[密 (char)]]: 3
