@@ -290,6 +290,7 @@ tags: [lookup]
 286. [諦 (char)](../../characters/諦%20(char).md)
 287. [溺 (char)](../../characters/溺%20(char).md)
 288. [篆](../../characters/篆.md)
+289. [嫂](../../characters/嫂.md)
 
 
 [[../../characters/吠]] - barking DO IT

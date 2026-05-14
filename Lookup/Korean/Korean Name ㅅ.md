@@ -82,7 +82,7 @@ Checked for redirects
 [[釗]] 
 
 ### 수 
-[洙](characters/洙.md) [[琇]] [[銖]] [粹](characters/粋.md) [穗](characters/穂%20(char).md) [繡](characters/繍.md) [隋](characters/堕.md) [髓](characters/髄.md) [袖 (char)](characters/袖%20(char).md) [嗽](characters/漱.md) [[嫂]] [[岫]] [戍](characters/戍.md) [漱](characters/漱.md) [[燧]] [狩](characters/狩.md) [[璲]] [瘦](characters/痩%20(char).md) [綏](characters/綏.md) [綬](characters/綏.md) [羞](characters/羞.md) [[茱]] [蒐](characters/蒐.md) [[蓚]] [藪](characters/薮.md) [[邃]] [酬](characters/酬.md) [銹 (char)](characters/銹%20(char).md) [隧](characters/遂.md) [鬚](characters/鬚.md) [[䳠]] [[賥]] [豎](characters/豎.md) [讎](characters/讐.md) [[睢]] [[睟]] [[瓍]] [[岫]] ([[峀]]) [讎](characters/讐.md) ([讐](characters/讐.md)) [[睢]] ([[濉]])
+[洙](characters/洙.md) [[琇]] [[銖]] [粹](characters/粋.md) [穗](characters/穂%20(char).md) [繡](characters/繍.md) [隋](characters/堕.md) [髓](characters/髄.md) [袖 (char)](characters/袖%20(char).md) [嗽](characters/漱.md) [嫂](characters/嫂.md) [[岫]] [戍](characters/戍.md) [漱](characters/漱.md) [[燧]] [狩](characters/狩.md) [[璲]] [瘦](characters/痩%20(char).md) [綏](characters/綏.md) [綬](characters/綏.md) [羞](characters/羞.md) [[茱]] [蒐](characters/蒐.md) [[蓚]] [藪](characters/薮.md) [[邃]] [酬](characters/酬.md) [銹 (char)](characters/銹%20(char).md) [隧](characters/遂.md) [鬚](characters/鬚.md) [[䳠]] [[賥]] [豎](characters/豎.md) [讎](characters/讐.md) [[睢]] [[睟]] [[瓍]] [[岫]] ([[峀]]) [讎](characters/讐.md) ([讐](characters/讐.md)) [[睢]] ([[濉]])
 
 ### 숙  
 [塾](characters/塾.md) [[琡]] [[璹]] [[橚]] [[夙]] [[潚]] [[菽]]

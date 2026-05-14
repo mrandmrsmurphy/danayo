@@ -653,7 +653,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 648.  [[溅]]
 649.  [[凌]]
 650.  [[溉]]
-651.  [[晰]]
+651.  [晰](../../characters/析.md)
 652.  [[锈]]
 653.  [眨](../../characters/𦚖.md)
 654.  [[晶]]

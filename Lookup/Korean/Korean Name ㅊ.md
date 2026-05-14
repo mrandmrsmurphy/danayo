@@ -19,7 +19,7 @@ These have all bee checked to see which are redirects
 [[僭]] 塹<--斬 [[懺]] [斬](characters/斬%20(char).md) [[站]] [[讒]] [[讖]] 
 
 ### 창 
-[[菖]] [[昶]] [彰](characters/彰.md) [[敞]] [廠](characters/廠.md) [[倡]] [[娼]] [[愴]] [槍](characters/槍%20(char).md) [[漲]] [[猖]] [瘡](characters/瘡.md) [脹](characters/脹.md) [艙](characters/艙.md) [滄](characters/蒼%20(char).md)
+[[菖]] [[昶]] [彰](characters/彰.md) [[敞]] [廠](characters/廠.md) [倡](../../characters/唱.md) [娼](../../characters/唱.md) [[愴]] [槍](characters/槍%20(char).md) [[漲]] [[猖]] [瘡](characters/瘡.md) [脹](characters/脹.md) [艙](characters/艙.md) [滄](characters/蒼%20(char).md)
 
 ### 채  
 [采](characters/采.md) [埰](characters/采.md) [[寀]] [蔡](characters/蔡.md) [[綵]] [寨](characters/寨.md) [砦](characters/砦.md) [釵](characters/鈿.md) [[琗]] [責](characters/責.md) [[棌]] [[婇]] [[睬]] 
