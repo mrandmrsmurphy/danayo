@@ -14,7 +14,7 @@ Running log of architectural decisions, corrections, and gotchas for future sess
 
 ## Character Inclusion Philosophy — Alias as Stand-In
 
-**2026-05-14** — When a character is too Japan/Korea-centric to justify full inclusion (no HSK, absent from CC top 4000, no pan-CJKV vocabulary compound) but still needs "no recourse" coverage for names, add it as an **alias on its phonetic parent** rather than creating a new character entry. Example: 蒔 (to sow, Jinmeiyō only) → alias on 時 (char).md, since 蒔 = 艹+時 with the same sound. Someone with 蒔 in their name can be directed to 時.
+**2026-05-14** — When a character is too narrow to justify full inclusion but still needs "no recourse" coverage for names, add it as an **alias on its phonetic parent** rather than creating a new character entry. The alias is valid when the two characters are phonetically identical across all CJKV languages. Examples: 蒔 (Jinmeiyō only) → alias on 時 (char).md (蒔 = 艹+時); 佈 (traditional form of 布, names only outside China) → alias on 布.md (佈 = 亻+布). The stronger the phonetic and semantic overlap, the cleaner the alias — 佈→布 is cleaner than 蒔→時 because 布 is both phonetic and semantic parent of 佈.
 
 ## Character Inclusion Philosophy
 

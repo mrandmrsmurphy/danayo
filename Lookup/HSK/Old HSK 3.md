@@ -330,7 +330,7 @@ tags: [lookup]
 [樣](../../characters/様%20(char).md): 4
 [[足 (char)]]: 4
 [[布]]: 4
-[[佈]]: 4
+[佈](../../characters/布.md): 4
 [[部 (char)]]: 4
 [[富]]: 4
 [[測]]: 4

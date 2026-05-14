@@ -6,17 +6,14 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 - [Jinmeiyō](lookup/Japanese/Jinmeiyō.md)
 - [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 - [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
+- [Korean Name ㅍ](lookup/Korean/Korean%20Name%20ㅍ.md)
 - [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
 - [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## 4 links
 
-### Old HSK 2 + Old HSK 3 + Old HSK 4 + Korean Name ㅇ
-[[邀]]
-
-### Old HSK 2 + Old HSK 3 + Old HSK 4 + Korean Name ㅍ
-[[佈]]
+邀 Create 敫?, root of 激
 
 ### Old HSK 2 + Old HSK 3 + Old HSK 5 + Hyōgai
 [[毯]]
