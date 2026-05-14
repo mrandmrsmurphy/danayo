@@ -22,7 +22,7 @@ This has been checked for redirects.
 [鉀](characters/鉀%20(char).md) 匣 [岬](characters/岬.md) [[胛]] [[閘]]
 
 ### 강 
-[[杠]] [[堈]] [岡](characters/岡.md) [姜](characters/姜%20(char).md) [[橿]] [彊](characters/強%20(char).md) [慷](characters/慷.md) [[畺]] [[疆]] [糠](characters/糠.md) [絳](characters/降.md) [羌](characters/羌.md) [腔](characters/腔.md) [[舡]] [薑](characters/姜%20(char).md) [鱇](characters/康.md) [[嫝]] [[跭]] [[襁]] [[玒]] 
+[[杠]] [[堈]] [岡](characters/岡.md) [姜](characters/姜%20(char).md) [[橿]] [彊](characters/強%20(char).md) [慷](characters/慷.md) [[畺]] [疆](characters/疆.md) [糠](characters/糠.md) [絳](characters/降.md) [羌](characters/羌.md) [腔](characters/腔.md) [[舡]] [薑](characters/姜%20(char).md) [鱇](characters/康.md) [[嫝]] [[跭]] [[襁]] [[玒]] 
 
 ### 개 
  [价](characters/価.md) [凱](characters/凱.md) [[愷]] [漑](characters/漑.md) [[塏]] [[愾]] [[疥]] [芥](characters/芥.md) [豈](characters/豈.md) [鎧](characters/鎧.md) [[玠]] 

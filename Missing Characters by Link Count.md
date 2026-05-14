@@ -6,19 +6,11 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 - [Jinmeiyō](lookup/Japanese/Jinmeiyō.md)
 - [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 - [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
+- [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
 - [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## 4 links
-
-### Old HSK 2 + Old HSK 3 + Old HSK 4 + Old HSK 5
-[[劳]] · [[庆]] · [[损]] · [[击]] · [[势]] · [[寻]]
-
-### Old HSK 2 + Old HSK 3 + Old HSK 4 + Old HSK 6
-[[拔]] · [[夺]] · [[扭]] · [[纺]] · [[异]]
-
-### Old HSK 3 + Old HSK 4 + Old HSK 6 + Korean Name ㅇ
-[[掩]] · [[淹]]
 
 ### Old HSK 2 + Old HSK 3 + Old HSK 4 + Korean Name ㅇ
 [[邀]]

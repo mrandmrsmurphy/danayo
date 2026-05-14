@@ -55,7 +55,7 @@ All have been checked for redirects.
 [[孼]] [[蘖]] [[糱]] [[糱]] ([[糵]])
 
 ### 엄 
-[奄](characters/奄.md) [俺](characters/俺.md) [[掩]] [儼](characters/厳%20(char).md) [[淹]] [[龑]] 
+[奄](characters/奄.md) [俺](characters/俺.md) [掩](../../characters/護.md) [儼](characters/厳%20(char).md) [淹](../../characters/奄.md) [[龑]] 
 
 ### 업 
 [[嶪]] 

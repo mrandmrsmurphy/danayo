@@ -1,7 +1,7 @@
 ---
-mandarin: "jī"
-cantonese: "gik1"
-korean: "격"
+mandarin: jī
+cantonese: gik1
+korean: 격
 korean_native: 부딪칠
 japanese:
   - GEKI
@@ -30,11 +30,12 @@ graphemic_classification: 毄
 stand_in: 撃
 aliases:
   - 擊
+  - 击
 注音: ㄍㄝㄎ
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness:
 ---
 >[!tip] This is a page about the character 撃.
 >For the word, see [撃](words/撃.md)
