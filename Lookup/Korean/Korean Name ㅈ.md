@@ -90,7 +90,7 @@ These have been checked for redirects
 [烝](characters/烝.md) [[甑]] [[拯]] [[繒]] 
 
 ### 지
-[旨](characters/旨.md) [[沚]] [[址]] [祉](characters/祉.md) [[趾]] [[祗]] [芝](characters/芝.md) [摯](characters/摯.md) [[鋕]] [脂](characters/脂.md) [[咫]] [[枳]] [漬](characters/漬%20(char).md) [砥](characters/砥.md) [肢](characters/肢.md) [[芷]] [蜘](characters/蜘.md) [識](characters/識.md) [[贄]] [[洔]] [[厎]] [[汦]] [[吱]] [[馶]] 
+[旨](characters/旨.md) [[沚]] [址](characters/址.md) [祉](characters/祉.md) [[趾]] [[祗]] [芝](characters/芝.md) [摯](characters/摯.md) [[鋕]] [脂](characters/脂.md) [[咫]] [[枳]] [漬](characters/漬%20(char).md) [砥](characters/砥.md) [肢](characters/肢.md) [[芷]] [蜘](characters/蜘.md) [識](characters/識.md) [[贄]] [[洔]] [[厎]] [[汦]] [[吱]] [[馶]] 
 
 ### 직
 [[稙]] [稷](characters/稷.md)

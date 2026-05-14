@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-03
 stroke_count: 7
-size: 55
+size: 56
 skip_number: 1-3-4
 tags:
   - lookup
@@ -65,6 +65,7 @@ tags:
 53. <ruby>[舛](characters/舛.md)<rt>ㄑㄝㄋ</rt></ruby> "oppose"
 54. <ruby>[阮](characters/阮.md)<rt>⼔ㄋ</rt></ruby> "moon lute"
 55. <ruby>[防](characters/防.md)<rt>ㄅㄚㄫ</rt></ruby> "prevent"
+56. <ruby>[址](characters/址.md)<rt>ㄐㄧ</rt></ruby> "site"
 
 ## Datacheck
 ```dataview
