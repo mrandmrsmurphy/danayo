@@ -99,9 +99,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 4 + Old HSK 6 + Korean Name ㅇ
 [[晤]] · [[隘]]
 
-### Old HSK 4 + Hyōgai + Korean Name ㅇ
-[[聳]]
-
 ### Old HSK 4 + Hyōgai + Korean Name ㅈ
 [[躊]] · [[疇]]
 

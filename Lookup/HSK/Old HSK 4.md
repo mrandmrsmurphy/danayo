@@ -2372,7 +2372,7 @@ tags: [lookup]
 [[饲]]: 1
 [[飼]]: 1
 [[耸]]: 1
-[[聳]]: 1
+[聳](../../characters/竦%20(char).md): 1
 [苏](../../characters/蘇.md): 1
 [甦](../../characters/蘇.md): 1
 [訟 (char)](../../characters/訟%20(char).md): 1
