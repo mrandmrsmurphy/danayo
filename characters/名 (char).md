@@ -45,5 +45,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 清開]]
+- <ruby>[[名誉]]<rt>ㄇㄧㄫ⼄</rt></ruby> "honor; reputation"
 - [[名刺]] "business card"
 - [[名称]] "appellation,name,title"
