@@ -49,7 +49,7 @@ boundedness: 90
 - [[断章取義]]
 - [[周章狼狽]]
 ## Words
-- [[徽章]]/記章
+- <ruby>[[徽章]]<rt>ㄏㄨㄧㄐㄚㄫ</rt></ruby> "badge; insignia; emblem"
 - by loan, "octopus" but needs [[章魚]]
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 陽開]]
