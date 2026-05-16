@@ -31,6 +31,7 @@ stand_in: 蒼
 aliases:
   - 苍
   - 滄
+  - 沧
 注音: ㄑ⺢ㄫ
 kwin: false
 tags:
