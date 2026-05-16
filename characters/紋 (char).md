@@ -50,3 +50,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 微]]
 [[Lookup/CC/finals/韻 文]]
+
+## Words
+- <ruby>[[皺紋]]<rt>ㄐㄨ·ㄇㄨㄋ</rt></ruby> "wrinkles"

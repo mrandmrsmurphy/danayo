@@ -55,3 +55,4 @@ boundedness: 80
 - [[殺身]] "be killed"
 - [[殺戮]] "slaughter, massacre"
 - <ruby>[[屠殺]]<rt>ㄉㄛㄙㄚㄊ</rt></ruby> "slaughter; massacre"
+- <ruby>[[誅殺]]<rt>ㄐㄨㄙㄚㄊ</rt></ruby> "to execute; to kill"
