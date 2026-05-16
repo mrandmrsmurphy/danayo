@@ -50,5 +50,6 @@ boundedness: 90
 - [[弱肉強食]]
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 職開]]
+- <ruby>[[膳食]]<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby> "meal; diet"
 - [[食堂]] "restaurant"
 - [[食費]] "food expenses"

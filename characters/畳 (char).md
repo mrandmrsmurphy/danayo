@@ -1,7 +1,7 @@
 ---
-mandarin: "dié"
-cantonese: "dip6"
-korean: "첩"
+mandarin: dié
+cantonese: dip6
+korean: 첩
 korean_native: 거듭
 japanese:
   - JOU
@@ -29,11 +29,12 @@ graphemic_classification: 會意
 stand_in: 畳
 aliases:
   - 疊
+  - 叠
 注音: ㄉㄝㄆ
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness:
 ---
 >[!tip] This is a page about the character 畳.
 >For the word, see [畳](words/畳.md)

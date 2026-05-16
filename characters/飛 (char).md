@@ -45,6 +45,8 @@ boundedness: 65
 - There is an aspectual difference between using this character alone vs. 飛行 (inherited from Mandarin).  飛 is a short jaunt, a little flight, and immediate flight.  飛行 is 'the means of travel known as flying', a prolonged flight, a "real" flight.
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 微合]]
+## Words
+- <ruby>[[飛翔]]<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby> "to fly; to soar"
 - [[飛鳥]] "Asuka, flying bird"
 - [[飛机]] "plane"
 - [[飛行]] "fly"
