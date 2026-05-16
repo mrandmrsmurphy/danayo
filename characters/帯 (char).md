@@ -45,3 +45,6 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 泰開]]
+
+## Words
+- <ruby>[[繃帯]]<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby> "bandage"
