@@ -53,3 +53,4 @@ boundedness: 90
 - [栓 (char)](characters/栓%20(char).md)
 ## Words
 - [[全体]] "whole, entirety"
+- <ruby>[[全球]]<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby> "global; the entire world"

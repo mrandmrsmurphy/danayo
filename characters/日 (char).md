@@ -52,3 +52,6 @@ boundedness: 60
 - [[日刊]] "daily publication, daily periodical"
 - [[日記]] "dairy, journal, annal"
 - [[日出]] "sunrise"
+
+## Words
+- <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"

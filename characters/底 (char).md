@@ -51,3 +51,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 齊開]]
+
+## Words
+- <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> "nadir"

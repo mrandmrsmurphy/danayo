@@ -77,6 +77,7 @@ boundedness: 80
 - [[昇天]]
 - [[天主]]
 - [[天狼星]]
+- <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> "nadir"
 - 
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 先開]]
