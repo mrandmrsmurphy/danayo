@@ -6,6 +6,12 @@
 2. **Fetch Wiktionary** — use the traditional form URL if a simplified/traditional split exists (e.g. 三位一體 not 三位一体). Extract: Mandarin Pinyin, Cantonese Jyutping, Japanese hiragana, Korean Hangul, Vietnamese (if present), HSK level (if mentioned).
 3. **Assemble frontmatter** — concatenate Dan'a'yo fields from character files; use CJKV readings from Wiktionary.
 4. **Write the file** to `/words/WORD.md`.
+5. **Back-link each character** — for every constituent character file, add a ruby-annotated entry to its `## Words` section (create the section if absent):
+   ```markdown
+   ## Words
+   - <ruby>[[WORD]]<rt>注音</rt></ruby> "english gloss"
+   ```
+   The `<rt>` content is the full Dan'a'yo Bopomofo (注音) of the new word.
 
 ---
 

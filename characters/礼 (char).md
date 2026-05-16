@@ -60,3 +60,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 齊開]]
 - [[礼拝]] "worship service, religious worship"
 - [[礼物]] "gift (formal), present (formal)"
+
+## Words
+- <ruby>[[聖礼]]<rt>ㄙㄧㄫㄌㄝㄧ</rt></ruby> "sacrament"
