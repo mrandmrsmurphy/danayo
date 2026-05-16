@@ -46,6 +46,7 @@ boundedness: 90
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 仙A三開]]
 ## Words
+- <ruby>[[連体]]<rt>ㄌ⼶ㄋㄊㄝㄧ</rt></ruby> "adnominal; attributive"
 - [[互連網]]
 - [[対連]]
 - [[連接]]
