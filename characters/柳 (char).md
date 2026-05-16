@@ -43,3 +43,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Words
+- <ruby>[[楊柳]]<rt>⼘ㄫ·ㄌ⼜</rt></ruby> "willow tree"
