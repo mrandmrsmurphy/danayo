@@ -44,3 +44,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 沒]]
+
+## Words
+- <ruby>[[洞窟]]<rt>ㄉㄛㄫㄎㄛㄊ</rt></ruby> "cave; cavern"

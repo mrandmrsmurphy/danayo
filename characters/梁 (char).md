@@ -44,3 +44,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 陽開]]
+
+## Words
+- <ruby>[[棟梁]]<rt>ㄉㄛㄫㄌ⼘ㄫ</rt></ruby> "ridgepole; mainstay"

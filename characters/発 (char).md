@@ -51,6 +51,7 @@ boundedness:
 [[nav/char_info]]
 ```
 ## Words
+- <ruby>[[爆発]]<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby> "to explode; explosion"
 - [[出発]] depart
 - [[挑発]] provoke
 - [[発展]] develop
