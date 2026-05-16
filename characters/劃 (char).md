@@ -8,7 +8,6 @@ japanese:
 japanese_native: わ
 vietnamese:
   - gạch
-  - hoa
   - hoạch
   - vạch
   - đạch
@@ -51,3 +50,6 @@ boundedness: 100
 - In Japanese, this character is sometimes replaced with 画 (daiyōji).
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 麥合]]
+
+## Words
+- <ruby>[[企劃]]<rt>ㄎㄝㄏ⺢ㄎ</rt></ruby> "to plan; to scheme"
