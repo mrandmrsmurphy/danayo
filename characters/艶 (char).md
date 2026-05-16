@@ -47,4 +47,5 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 鹽A三]]
+- <ruby>[[艶]]<rt>⼶ㄇ</rt></ruby> "plump; beautiful"
 - [[艶福]] "success in love"

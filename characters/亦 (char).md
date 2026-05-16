@@ -44,3 +44,6 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 昔開]]
+
+## Words
+- <ruby>[[亦]]<rt>ㄜㄎ</rt></ruby> "too; also"

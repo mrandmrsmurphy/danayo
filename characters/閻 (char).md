@@ -46,3 +46,6 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 鹽A三]]
+
+## Words
+- <ruby>[[閻]]<rt>⼶ㄇ</rt></ruby> "village gate"

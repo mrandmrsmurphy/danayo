@@ -46,3 +46,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 鹽A三]]
+
+## Words
+- <ruby>[[塩]]<rt>⼶ㄇ</rt></ruby> "salt"

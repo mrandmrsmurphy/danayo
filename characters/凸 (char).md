@@ -40,7 +40,9 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-I'm shocked its not old
+## Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 沒]]
+
+## Words
+- <ruby>[[凸]]<rt>ㄉㄛㄊ</rt></ruby> "convex; protruding"
