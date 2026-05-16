@@ -44,3 +44,6 @@ boundedness: 100
 [[Lookup/CC/finals/韻 豪]]
 
 - 形声 (OC \*taːwʔ, \*taːws): semantic [[Radical 009|亻]] + phonetic [[到]] (OC \*taːws).
+
+## Words
+- <ruby>[[絆倒]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby> "to trip; to cause to stumble"

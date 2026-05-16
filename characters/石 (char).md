@@ -44,6 +44,7 @@ boundedness: 90
 - [List of 象形](lookup/List%20of%20象形.md): a stone beneath a cliff (厂). The cliff was subsequently distorted into 丆; compare 叚, 段 as well as 度, 席.
 ## Words
 - <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium, abbreviated 石
+- <ruby>[[磐石]]<rt>ㄅㄚㄋㄙㄝㄎ</rt></ruby> "boulder; bedrock"
 - 
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 昔開]]

@@ -77,6 +77,27 @@
 
 ---
 
+## Stand-in (legitimizer) words
+
+Some words exist specifically to give a bounded character a usable word form. When a character's `stand_in` field points to the word you are creating, the word is functioning as a **legitimizer** — it carries the same meaning as the bare character, but makes it viable in Dan'a'yo discourse.
+
+**How to detect this:** Before writing, check whether the word matches the `stand_in` value on any of its constituent character files.
+
+**What to add in Notes:** After the character-breakdown line, add a sentence making the relationship explicit:
+
+```markdown
+## Notes
+- [磐](../characters/磐.md) "boulder" + [石 (char)](../characters/石%20(char).md) "rock"
+- This word is the viable form of [磐](../characters/磐.md): the character's meaning (a great boulder; bedrock) is identical, but 磐 alone is too bounded to stand as a Dan'a'yo word. 磐石 is its `stand_in` compound.
+```
+
+The note should:
+- Link back to the character being legitimized
+- State that the meaning is the same as the bare character
+- Explain that the character is too bounded to stand alone
+
+---
+
 ## Gotchas
 
 ### 羅馬字 apostrophes
@@ -90,6 +111,17 @@ Many date/number/calendar words have fused Japanese readings that are NOT the co
 
 ### Wiktionary URL for traditional-form words
 Use the traditional character URL for lookup even when the Dan'a'yo filename uses the simplified form. E.g. for 三位一体, fetch `三位一體` on Wiktionary for complete CJKV data.
+
+### Homophones
+After assembling the 注音 / 羅馬字, check whether any existing word shares the same pronunciation. Search `words/` by 羅馬字 value:
+```
+grep -rl "羅馬字: VALUE" words/
+```
+When a homophone exists, add a `[!tip]` callout to **both** files, between the frontmatter and the meta-bind-embed block:
+```markdown
+> [!tip] This word is a homophone of [[OtherWord]] "gloss".
+```
+Do not document homophones only in Notes prose — the callout is the canonical location.
 
 ### Vietnamese
 Include `vietnamese:` only when Wiktionary provides it. Omit the key entirely (not blank) when absent, per BP Words common mistakes.

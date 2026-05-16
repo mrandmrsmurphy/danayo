@@ -63,9 +63,21 @@ characters:      # ✓ correct — every character listed individually
 
 The body has two fixed elements.
 
+### Homophone callout *(when needed)*
+
+When a word shares its exact Dan'a'yo pronunciation (same 注音 / 羅馬字) with another word, add a `[!tip]` callout **before** the meta-bind-embed block:
+
+```markdown
+> [!tip] This word is a homophone of [[OtherWord]] "gloss".
+```
+
+- Both words must carry the callout, cross-linking each other.
+- Use the English gloss of the other word in quotes after its link.
+- Do **not** note the homophone only in the Notes prose — the callout is the canonical place.
+
 ### meta-bind-embed block
 
-The first line of the body is always:
+The first line of the body (or the first line after the homophone callout) is always:
 
 ```
 ​```meta-bind-embed
