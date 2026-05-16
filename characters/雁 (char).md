@@ -46,3 +46,6 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 刪開]]
+
+## Words
+- <ruby>[[雁]]<rt>ㄚㄋ</rt></ruby> "wild goose"

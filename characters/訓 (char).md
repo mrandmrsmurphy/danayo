@@ -49,3 +49,6 @@ boundedness: 50
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 文]]
+
+## Words
+- <ruby>[[訓]]<rt>ㄏㄨㄋ</rt></ruby> "interpret; translate; explicate"

@@ -52,3 +52,6 @@ boundedness: 65
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md), [Grade 4](lookup/Grade%204.md), HSK 2
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 寒]]
+
+## Words
+- <ruby>[[岸]]<rt>ㄚㄋ</rt></ruby> "bank; shore"

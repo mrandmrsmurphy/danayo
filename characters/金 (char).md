@@ -60,3 +60,4 @@ boundedness: 90
 - [[金山]] "gold mine"
 - [[金融]] "finance"
 - [[金庫]] "treasury, safe"
+- <ruby>[[鍍金]]<rt>ㄉㄛㄍㄧㄇ</rt></ruby> "gilding; gold plating"

@@ -50,5 +50,8 @@ boundedness: 80
 ## Notes
 [[Lookup/CC/initials/聲 生]]
 [[Lookup/CC/finals/韻 鎋開]]
+
+## Words
 - [[殺身]] "be killed"
 - [[殺戮]] "slaughter, massacre"
+- <ruby>[[屠殺]]<rt>ㄉㄛㄙㄚㄊ</rt></ruby> "slaughter; massacre"
