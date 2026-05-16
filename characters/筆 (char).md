@@ -47,4 +47,5 @@ boundedness: 80
 - Altered to take advantage of a vacant syllable
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 質開]]
+- <ruby>[[擱筆]]<rt>ㄍㄚㄎㄆㄨㄊ</rt></ruby> "to lay down the pen; to stop writing"
 - [[筆記]] "take notes"
