@@ -54,3 +54,4 @@ boundedness: 70
 - [[入籍]] "enter"
 - [[入口]] "entrance"
 - [[入場]] "enter a venue"
+- <ruby>[[闖入]]<rt>ㄊㄨㄇㄋㄧㄆ</rt></ruby> "to break into; to intrude"
