@@ -49,3 +49,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 文]]
 - [[君主]] "monarch"
+- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"

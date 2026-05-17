@@ -57,6 +57,7 @@ boundedness: 80
 - [町](characters/町.md)
 ### Words
 - <ruby>[丁丁](/words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>
+- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
 - <ruby>[丁香](/words/丁香.md)<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby>
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 青開]]

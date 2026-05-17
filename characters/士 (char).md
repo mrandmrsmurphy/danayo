@@ -52,3 +52,6 @@ boundedness: 90
 - [[選士唯賢]]
 [[Lookup/CC/initials/聲 崇]]
 [[Lookup/CC/finals/韻 之]]
+
+## Words
+- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
