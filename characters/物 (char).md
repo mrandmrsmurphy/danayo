@@ -53,3 +53,4 @@ boundedness: 50
 - [[物証]] "material evidence"
 - [[物質]] "material, substance"
 - [[物理]] "nature"
+- <ruby>[[萬物]]<rt>ㄇㄛㄋㄇㄨㄊ</rt></ruby> "all things; everything"

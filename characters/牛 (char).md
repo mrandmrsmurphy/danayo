@@ -48,3 +48,4 @@ boundedness: 90
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 尤]]
 - [[牛乳]] "cow's milk, milk"
+- <ruby>[[牛虻]]<rt>ㄋ⼜ㄇㄚㄫ</rt></ruby> "gadfly; horsefly"
