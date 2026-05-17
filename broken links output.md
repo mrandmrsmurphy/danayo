@@ -108,7 +108,7 @@ Where to find broken links
 15. [[鞭打]] in [[syllables/ㄅ⼶ㄋ]]
 16. [[碧色]] in [[syllables/ㄅ⼶ㄎ]]
 17. [[硼砂]] in [[syllables/ㄅㄛㄫ]]
-18. [[蓬蒿]] in [[syllables/ㄅㄛㄫ]]
+18. [[words/蓬藁]] in [[syllables/ㄅㄛㄫ]]
 19. [[泛濫]] in [[syllables/ㄅㄧㄇ]]
 20. [[稟告]] in [[syllables/ㄅㄨㄇ]]
 21. [[琺瑯]] in [[syllables/ㄈㄚㄆ]]
