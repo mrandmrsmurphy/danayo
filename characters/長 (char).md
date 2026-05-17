@@ -57,3 +57,4 @@ boundedness: 75
 [[Lookup/CC/finals/韻 陽開]]
 - [[長期]] "long time"
 - [[長上]] "elder, superior"
+- <ruby>[[延長]]<rt>⼶ㄋㄐㄚㄫ</rt></ruby> "to extend; to prolong"
