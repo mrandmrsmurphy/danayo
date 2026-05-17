@@ -46,3 +46,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 屋三]]
 - [[牧民]] "herdsman"
+- <ruby>[[牧師]]<rt>ㄇㄨㄎㄙㄧㄜ</rt></ruby> "pastor; minister (Protestant)"
