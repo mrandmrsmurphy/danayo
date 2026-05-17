@@ -48,3 +48,4 @@ boundedness: 90
 - [[暗殺]] "assassinate, murder"
 - [[暗示]] "suggest, hint"
 - [[暗暗]] "secretly, inwardly"
+- <ruby>[[暗礁]]<rt>ㄚㄇㄐㄚㄨ</rt></ruby> "submerged reef; hidden obstacle"
