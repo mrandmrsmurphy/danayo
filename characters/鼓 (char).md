@@ -45,3 +45,4 @@ boundedness: 90
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 模]]
 - [[鼓舞]] "encourage, cheer"
+- <ruby>[[鞀鼓]]<rt>ㄉㄚㄨㄍㄛ</rt></ruby> "pellet drum"

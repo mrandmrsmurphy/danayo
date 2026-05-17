@@ -71,6 +71,7 @@ boundedness: 80
 - [[暗中]]
 - <ruby>[中子](/words/中子.md)<rt>ㄐㄨㄫㄐㄧ</rt></ruby> - neutron
 - <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
+- <ruby>[[途中]]<rt>ㄊㄛㄐㄨㄫ</rt></ruby> "en route; on the way"
 
 ## Chengyu
 - <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - Castle in the Sky

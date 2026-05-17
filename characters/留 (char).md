@@ -48,3 +48,6 @@ boundedness: 90
 - [[Korean MS]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]]
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Words
+- <ruby>[[逗留]]<rt>ㄉㄚㄨㄌ⼜</rt></ruby> "to stay; to sojourn"
