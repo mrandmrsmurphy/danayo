@@ -47,3 +47,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 庚二開]]
 - [[更改]] "- revise"
 - [[更新]] "renew, replace, refresh"
+- <ruby>[[更迭]]<rt>ㄍㄚㄫㄉㄚㄊ</rt></ruby> "to change; personnel reshuffle"
