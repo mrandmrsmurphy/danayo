@@ -48,3 +48,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 麻二開]]
+
+## Words
+- <ruby>[[茶色]]<rt>ㄑㄚㄙㄧㄎ</rt></ruby> "brown"
