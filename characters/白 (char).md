@@ -43,6 +43,7 @@ boundedness: 100
 ## Notes
 
 ## Words
+- <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - [[白粉]]
 - [[白内障]]
 - [[白日夢]]

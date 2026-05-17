@@ -46,6 +46,7 @@ boundedness: 90
 - 形声 (OC \*daːds, \*daːds): semantic [[]] ("") + phonetic [[]] (OC \*tʰaːds).
 ## Words
 - [太太](words/太太.md) - super-duper
+- <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - [[太陰年]]
 - [[太陰曆]]
 - [[太陽風]]

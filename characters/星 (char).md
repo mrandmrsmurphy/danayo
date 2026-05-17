@@ -55,6 +55,7 @@ boundedness: 80
 - Derived characters: 惺, 湦, [[猩]], 暒, 煋, 瑆, 腥, 睲, 䃏, 䗌, 謃, [[醒]], 鍟 (𰾝), 鯹 (𬶢), 戥, 篂
 
 ## Words
+- <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby> - Mercury (planet)
 - <ruby>[流星](/words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby> - shooting star
 [[Lookup/CC/initials/聲 心]]
