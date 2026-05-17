@@ -48,3 +48,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 元合]]
+
+## Words
+- <ruby>[[遥遠]]<rt>⼄ㄨ·ㄛㄋ</rt></ruby> "distant; faraway"
