@@ -51,6 +51,7 @@ boundedness: 90
 
 ## Word
 - <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> - adult
+- <ruby>[[大主教]]<rt>ㄉㄚㄧㄐㄨㄍ⼄ㄨ</rt></ruby> "archbishop"
 1. [[大洋洲]]
 2. [[大概]]
 3. [[大義]]

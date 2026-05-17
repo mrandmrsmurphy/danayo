@@ -9,7 +9,7 @@
 - [[恩寵]] - favor, [[恩典]] - grace, [[恩德]] - benevolence, [[恩意]] - affection, [[恩施]] (verb)
 - [[主教]] - overseer, bishop
 	- [[大主教]] - archbishop
-	- [[總主教]] - primate
+	- [總主教](../words/総主教.md) - primate
 	- [[枢机]]主教 - cardinal
 - [[司鈬]] - priest vs [[牧師]] pastor/shepherd vs [[神父]] father/EO priest
 - [[大教堂]] - cathedral (主教座堂 - seat of the bishop)
