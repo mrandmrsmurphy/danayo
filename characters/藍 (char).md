@@ -48,3 +48,4 @@ boundedness: 75
 - [[藍木]] "indigo, anil"
 - [[藍色]] "blue, indigo"
 - [[藍領]] "blue-collar"
+- <ruby>[[蓼藍]]<rt>ㄌ⼘ㄨㄌㄚㄇ</rt></ruby> "Japanese indigo"

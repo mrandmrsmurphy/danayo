@@ -51,3 +51,4 @@ boundedness:
 - [[経費]] "- expenditures"
 - [[経緯]] "warp and woof, latitude and longitude"
 - [[経過]] "pass through, undergo"
+- <ruby>[[易経]]<rt>⼶ㄎㄍㄝㄫ</rt></ruby> "Book of Changes"

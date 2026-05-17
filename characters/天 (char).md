@@ -78,6 +78,6 @@ boundedness: 80
 - [[天主]]
 - [[天狼星]]
 - <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> "nadir"
-- 
+- <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 先開]]

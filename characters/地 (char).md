@@ -60,5 +60,6 @@ boundedness: 90
 - [[陣地]] - military position
 - [[墓地]] - cemetery
 - [[地震]] - earthquake
+- <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 脂A三開]]
