@@ -49,3 +49,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 先合]]
 - [[懸壅垂]] "uvula"
 - [[懸垂]] "hang over, overhand"
+- <ruby>[[懸心]]<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby> "to bear in mind"

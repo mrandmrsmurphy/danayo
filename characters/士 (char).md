@@ -55,3 +55,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
+- <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"

@@ -60,6 +60,7 @@ boundedness: 70
 - [[赤道]]
 - [[街道]]
 - [[坑道]]
-- 
+- <ruby>[[武道]]<rt>ㄇㄨㄉㄚㄨ</rt></ruby> "martial arts"
+- <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 豪]]

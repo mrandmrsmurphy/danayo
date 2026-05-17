@@ -198,9 +198,3 @@ Where to find broken links
 105. [[家蝿]] in [[syllables/ㄧㄫ]]
 106. [[寓居]] in [[syllables/ㄨ]]
 
-## Words
-- [[words/天地]]
-- [[words/春秋]]
-- [[words/武士]]
-- [[words/混沌]]
-- [[words/神経]]

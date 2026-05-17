@@ -67,6 +67,6 @@ boundedness: 80
 - [[無定河]]
 - [[無援]]
 - [[無効]]
-- 
+- <ruby>[[無極]]<rt>ㄇㄜㄍㄧㄎ</rt></ruby> "limitless"
 [[Lookup/CC/initials/聲 微]]
 [[Lookup/CC/finals/韻 虞]]

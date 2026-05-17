@@ -66,5 +66,7 @@ boundedness: 80
 - [[至極]]
 - [[北極狐]]
 - [[極右]]
+- <ruby>[[無極]]<rt>ㄇㄜㄍㄧㄎ</rt></ruby> "limitless"
+- <ruby>[[太極]]<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby> "Supreme Ultimate"
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 職開]]

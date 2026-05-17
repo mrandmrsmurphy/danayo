@@ -48,3 +48,5 @@ boundedness: 75
 - [[武侠]] "wuxia (genre), chivalry"
 - [[武将]] "general, commander"
 - [[武芸]] "martial art skill"
+- <ruby>[[武道]]<rt>ㄇㄨㄉㄚㄨ</rt></ruby> "martial arts"
+- <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"

@@ -2,6 +2,10 @@
 size: 81
 tags:
   - book
+aliases:
+  - 道徳経
+  - 道德经
+  - 道德經
 ---
 > [List of Books](List%20of%20Books.md)
 ## 1

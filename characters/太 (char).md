@@ -51,6 +51,9 @@ boundedness: 90
 - [[太陰曆]]
 - [[太陽風]]
 - [[猶太]]
-- 
+- <ruby>[[太易]]<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby> "Great Change"
+- <ruby>[[太初]]<rt>ㄊㄚㄧㄑㄛ</rt></ruby> "Great Beginning"
+- <ruby>[[太素]]<rt>ㄊㄚㄧㄙㄛ</rt></ruby> "Great Plainness"
+- <ruby>[[太極]]<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby> "Supreme Ultimate"
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 泰開]]
