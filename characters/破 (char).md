@@ -47,3 +47,4 @@ boundedness: 100
 - [[破戒]] "break a commandment"
 - [[破裂]] "rupture, burst, crack"
 - [[破暁]] "daybreak"
+- <ruby>[[破綻]]<rt>ㄆㄜㄉㄚㄋ</rt></ruby> "bankruptcy; breakdown"

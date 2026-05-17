@@ -54,3 +54,4 @@ boundedness: 40
 [[Lookup/CC/finals/韻 屋一]]
 - [[木偶]] "pupper, marionette"
 - [[木版]] "printing block"
+- <ruby>[[檀木]]<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby> "sandalwood; hardwood tree"

@@ -57,5 +57,6 @@ boundedness: 100
 - [[白狐]]
 - [[白鷺]]
 - [[卵白]]
+- <ruby>[[蛋白]]<rt>ㄉㄚㄋㄅㄚㄎ</rt></ruby> "egg white; protein"
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 陌二開]]
