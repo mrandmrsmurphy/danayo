@@ -15,12 +15,12 @@ views:
       - 諺文
       - file.mtime
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: 注音
         direction: ASC
       - property: english
         direction: ASC
-      - property: file.mtime
-        direction: DESC
       - property: 諺文
         direction: ASC
       - property: 羅馬字
