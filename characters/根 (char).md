@@ -44,5 +44,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 痕]]
+- <ruby>[[根源]]<rt>ㄍㄜㄋ·⼔ㄋ</rt></ruby> "root; source; origin"
 - [[根拠]] "be according to, be based on"
 - [[根本]] "basis, foundation, base"
