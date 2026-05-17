@@ -54,5 +54,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 鹽A三]]
+- <ruby>[[占]]<rt>ㄐㄝㄇ</rt></ruby> "to occupy; to possess"
 - [[占領]] "capture,occupy,seize,hold"
 - [[占拠]] "occupy,hold"
