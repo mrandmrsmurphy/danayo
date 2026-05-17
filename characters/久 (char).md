@@ -43,5 +43,6 @@ boundedness: 65
 
 ## Words
 - <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
+- <ruby>[[悠久]]<rt>⼜ㄛㄍ⼜</rt></ruby> "long-lasting; time-honoured"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 尤]]

@@ -50,4 +50,5 @@ boundedness:
 - 逾
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 虞]]
+- <ruby>[[兪]]<rt>⼜ㄇ</rt></ruby> "agree to"
 - [[兪允]] "consent to, permit (of the emperor)"
