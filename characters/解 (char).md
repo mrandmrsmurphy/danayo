@@ -51,5 +51,6 @@ boundedness: 100
 - [[諒解]]
 - 
 - beware of [[解廌]] not 獬廌/獬豸
+- <ruby>[[解剖]]<rt>ㄍ⼘ㄧㄈㄛㄨ</rt></ruby> "to dissect; anatomy"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 佳開]]
