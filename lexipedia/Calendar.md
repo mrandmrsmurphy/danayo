@@ -187,18 +187,18 @@ Using [[孟]], [[仲]], [[季]] produced an ancient calendar:
 
 |Month|Name|Season|
 |---|---|---|
-|1|孟春|early spring|
-|2|仲春|mid spring|
-|3|季春|late spring|
-|4|孟夏|early summer|
-|5|仲夏|mid summer|
-|6|季夏|late summer|
-|7|孟秋|early autumn|
-|8|仲秋|mid autumn|
-|9|季秋|late autumn|
-|10|孟冬|early winter|
-|11|仲冬|mid winter|
-|12|季冬|late winter|
+|1|[[孟春]]|early spring|
+|2|[[仲春]]|mid spring|
+|3|[[季春]]|late spring|
+|4|[[孟夏]]|early summer|
+|5|[[仲夏]]|mid summer|
+|6|[[季夏]]|late summer|
+|7|[[孟秋]]|early autumn|
+|8|[[仲秋]]|mid autumn|
+|9|[[季秋]]|late autumn|
+|10|[[孟冬]]|early winter|
+|11|[[仲冬]]|mid winter|
+|12|[[季冬]]|late winter|
 
 ## Misc
 - [[休日]] — holiday
