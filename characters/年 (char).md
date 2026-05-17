@@ -45,4 +45,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 先開]]
+- <ruby>[[元年]]<rt>⼔ㄋ·ㄋㄝㄋ</rt></ruby> "first year of an era"
 - [[年刊]] "annual, annual publication"

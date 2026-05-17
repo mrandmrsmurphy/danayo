@@ -46,3 +46,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 灰]]
+
+## Words
+- <ruby>[[原罪]]<rt>⼔ㄋㄐㄛㄧ</rt></ruby> "original sin"

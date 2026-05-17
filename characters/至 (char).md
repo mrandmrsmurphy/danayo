@@ -42,6 +42,7 @@ boundedness: 80
 
 ## Notes
 ## Words
+- <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
 - [[夏至]]
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 脂A三開]]

@@ -54,4 +54,5 @@ boundedness: 60
 - [[日出]] "sunrise"
 
 ## Words
+- <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
 - <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"
