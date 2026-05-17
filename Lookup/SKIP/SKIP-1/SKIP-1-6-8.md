@@ -30,11 +30,9 @@ tags: [lookup]
 17. <ruby>[踝](/characters/踝.md)<rt>ㄏ⺢</rt></ruby> "ankle"
 18. <ruby>[雑](/characters/雑%20(char).md)<rt>ㄐㄚㄆ</rt></ruby> "miscellaneous"
 
-### Forbidden
-- 綜
-
 ## Aliases
 - 蝋 --> 蠟
+- 綜
 
 ## Datacheck
 ```dataview

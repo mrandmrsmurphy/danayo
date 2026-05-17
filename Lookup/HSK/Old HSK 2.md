@@ -1670,7 +1670,7 @@ tags: [lookup]
 [[態]]: 1
 [[我 (char)]]: 1
 [[综]]: 1
-[[綜]]: 1
+[綜](../../characters/総.md): 1
 [走 (char)](../../characters/走%20(char).md): 1
 [最 (char)](../../characters/最%20(char).md): 1
 [尊](../../characters/尊.md): 1

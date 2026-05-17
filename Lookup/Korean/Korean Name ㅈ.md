@@ -63,7 +63,7 @@ These have been checked for redirects
 [[猝]]
 
 ### 종
-[[倧]] [[琮]] [[淙]] [[悰]] [綜](characters/綜.md) [[瑽]] [鍾 (char)](characters/鍾%20(char).md) [慫](characters/従%20(char).md) [腫](characters/腫.md) [踵](characters/踵.md) [椶](characters/棕.md) [柊](characters/柊.md) [蹤](characters/踪.md)
+[[倧]] [[琮]] [[淙]] [[悰]] [綜](../../characters/総.md) [[瑽]] [鍾 (char)](characters/鍾%20(char).md) [慫](characters/従%20(char).md) [腫](characters/腫.md) [踵](characters/踵.md) [椶](characters/棕.md) [柊](characters/柊.md) [蹤](characters/踪.md)
 
 ### 좌
 [挫](characters/挫.md)
