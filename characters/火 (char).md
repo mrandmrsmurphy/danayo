@@ -54,6 +54,7 @@ boundedness: 90
 - [[火車]]
 - [[烈火]]
 - [[鬼火]]
-- 
+- <ruby>[[噴火]]<rt>ㄆㄛㄋㄏ⺢</rt></ruby> "to erupt; volcanic eruption"
+
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 戈一合]]

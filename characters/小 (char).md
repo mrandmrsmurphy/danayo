@@ -51,3 +51,4 @@ boundedness: 80
 [[Lookup/CC/finals/韻 宵A]]
 - [[小数点]] "decimal point"
 - [[小腸]] "small interstine"
+- <ruby>[[杪小]]<rt>ㄇ⼄ㄙㄛ</rt></ruby> "tiny; minute; insignificant"
