@@ -66,3 +66,4 @@ boundedness:
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 月合]]
 - [[発見]] "discover, find out"
+- <ruby>[[誘発]]<rt>⼜ㄛㄈㄚㄊ</rt></ruby> "to induce; to trigger"
