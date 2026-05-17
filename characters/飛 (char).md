@@ -46,6 +46,7 @@ boundedness: 65
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 微合]]
 ## Words
+- <ruby>[[飛]]<rt>ㄈㄝㄧ</rt></ruby> "to fly"
 - <ruby>[[飛翔]]<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby> "to fly; to soar"
 - [[飛鳥]] "Asuka, flying bird"
 - [[飛机]] "plane"

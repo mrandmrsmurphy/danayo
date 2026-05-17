@@ -93,7 +93,7 @@ Where to find broken links
 ## Syllables
 33. [[返還]] in [[syllables/ㄈㄛㄋ]]
 34. [[解剖]] in [[syllables/ㄈㄛㄨ]]
-35. [[瘋癲]] in [[syllables/ㄈㄜㄫ]]
+35. [[words/瘋顚]] in [[syllables/ㄈㄜㄫ]]
 36. [[廃棄]] in [[syllables/ㄈㄝ]]
 37. [[討伐]] in [[syllables/ㄈㄝㄊ]]
 38. [[飛]] in [[syllables/ㄈㄝㄧ]]
