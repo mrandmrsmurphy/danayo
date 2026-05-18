@@ -40,6 +40,9 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[晋升]]<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby> "promote, advance in rank"
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): of a dipper, compare 斗.
 - Dropped from the Korean HS list in 2000.

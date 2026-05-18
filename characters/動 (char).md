@@ -49,6 +49,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[震動]]<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby> "vibrate, shake"
+
 # Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 東一]]

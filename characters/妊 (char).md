@@ -42,6 +42,9 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[妊娠]]<rt>ㄋㄧㄇㄐㄧㄋ</rt></ruby> "pregnancy"
+
 # Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 侵A]]
