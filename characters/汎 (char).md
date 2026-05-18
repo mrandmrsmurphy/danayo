@@ -41,6 +41,9 @@ boundedness:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[汎濫]]<rt>ㄈㄚㄇㄌㄚㄇ</rt></ruby> "flood, overflow"
+
 ## Notes
 - 形声 (OC \*pʰoms, \*bum): semantic [[Radical 085|氵]] ("") + phonetic [[凡]] (OC \*bom).
 - Dropped from the Korean HS list in 2000.
