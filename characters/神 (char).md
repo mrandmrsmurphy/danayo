@@ -53,6 +53,7 @@ boundedness: 90
 - <ruby>[神巫](/words/神巫.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> - shaman, wizard
 - <ruby>[[神父]]<rt>ㄙㄧㄋㄅㄨ</rt></ruby> "father; priest (Eastern Orthodox)"
 - <ruby>[[神学院]]<rt>ㄙㄧㄋㄏㄚㄎ⼔ㄋ</rt></ruby> "seminary"
+- <ruby>[[神聖]]<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby> "sacred, holy"
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 眞A開]]
 - [[神話]] "myth, fairytale, mythology"
