@@ -48,6 +48,9 @@ boundedness: 55
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[航行]]<rt>ㄏㄚㄫㄏㄚㄫ</rt></ruby> "navigate, sail"
+
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 唐開]]

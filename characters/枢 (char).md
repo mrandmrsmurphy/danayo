@@ -48,3 +48,6 @@ boundedness: 30
 [[Lookup/CC/finals/韻 虞]]
 - <ruby>[[枢机]]<rt>ㄑㄨㄍㄧㄜ</rt></ruby> "pivotal mechanism; the cardinal's office"
 - [[枢机卿]] "cardinal"
+
+## Words
+- <ruby>[[枢紐]]<rt>ㄑㄨㄋ⼜ㄛ</rt></ruby> "pivot, hub"
