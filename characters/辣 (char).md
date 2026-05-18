@@ -48,6 +48,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[辛辣]]<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby> "spicy, pungent"
+
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 曷]]

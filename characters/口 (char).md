@@ -47,6 +47,6 @@ boundedness: 80
 - [[口臭]]
 - [[口訣]]
 - [[口笛]]
-- 
+- <ruby>[[瘡口]]<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby> "wound opening"
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 侯]]
