@@ -47,3 +47,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Words
+- <ruby>[[負債]]<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby> "debt, liabilities"
