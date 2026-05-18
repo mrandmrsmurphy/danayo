@@ -41,6 +41,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[早晨]]<rt>ㄐㄚㄨㄙㄧㄋ</rt></ruby> "early morning"
+
 # Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 豪]]
