@@ -46,3 +46,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 宵A]]
+
+## Words
+- <ruby>[[哄笑]]<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby> "burst out laughing"
