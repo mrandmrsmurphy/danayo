@@ -52,3 +52,4 @@ boundedness: 90
 - [[馬上]] "horseback"
 - [[馬脚]] "horse feet, cloven feet, sore thumb"
 - [[馬蹄]] "horse hoof"
+- <ruby>[[騎馬]]<rt>ㄍㄨㄧㄇㄚ</rt></ruby> "to ride a horse"
