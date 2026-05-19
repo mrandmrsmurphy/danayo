@@ -46,5 +46,6 @@ boundedness:
 - <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> - mood
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 微開]]
+- <ruby>[[気候]]<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby> "climate"
 - [[気象]] "weather"
 - [[気功]] "qigong"

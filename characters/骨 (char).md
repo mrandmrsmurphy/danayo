@@ -58,6 +58,7 @@ boundedness: 20
 - [[骸骨]]
 - [[骨肉]]
 - <ruby>[[踵骨]]<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby> "heel bone"
+- <ruby>[[脛骨]]<rt>ㄏㄝㄫㄍㄛㄊ</rt></ruby> "tibia; shinbone"
 - 
 ## Chengyu
 - [[粉骨砕身]]

@@ -45,6 +45,7 @@ boundedness: 80
 ## Words
 - <ruby>[水中](/words/水中.md)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
 - <ruby>[[水壷]]<rt>ㄙㄨㄏㄛ</rt></ruby> "kettle; water bottle"
+- <ruby>[[湖水]]<rt>ㄏㄛㄨㄙㄨ</rt></ruby> "lake"
 - <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby> - Mercury (planet)
 1. [[墨水]]
 2. [[潜水艦]]
