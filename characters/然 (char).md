@@ -43,7 +43,10 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[毅然]]<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby> "resolutely, firmly"
+- [[然後]] "then"
+
 # Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 仙A三開]]
-- [[然後]] "- then"

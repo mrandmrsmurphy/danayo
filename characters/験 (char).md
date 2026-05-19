@@ -48,7 +48,8 @@ boundedness:
 - 形声 (OC \*ŋrams): semantic [馬](Radical%20187) + phonetic [㑒](㑒.md) (OC *skʰlam).
 - [SKIP-1-10-8](../lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md)) - [ㄝㄇ](../syllables/ㄝㄇ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Grade 4](../lookup/Grade%204.md)
-## Word
+## Words
+- <ruby>[[験]]<rt>ㄝㄇ</rt></ruby> "check, examine"
 - [[経験]] "experience"
 - [[試験]] "test, examine"
 [[Lookup/CC/initials/聲 疑]]

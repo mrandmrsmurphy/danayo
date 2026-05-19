@@ -42,8 +42,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[依]]<rt>ㄧㄜ</rt></ruby> "rely on, accord with"
+- [[依然]] "as ... as ever, still"
+- [[依拠]] "depend, be the basis for"
+
 # Notes
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 微開]]
-- [[依然]] "as ... as ever,still"
-- [[依拠]] "depend,be the basis for"
