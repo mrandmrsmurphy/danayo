@@ -51,6 +51,9 @@ boundedness: 75
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[銑鉄]]<rt>ㄙㄝㄋㄊㄝㄊ</rt></ruby> "pig iron, cast iron"
+
 ## Notes
 
 - 形声 (OC \*hliɡ): semantic [[Radical 167|金]] ("") + phonetic [[失]] (OC ).
