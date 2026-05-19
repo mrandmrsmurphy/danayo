@@ -55,3 +55,4 @@ boundedness: 70
 - [[入口]] "entrance"
 - [[入場]] "enter a venue"
 - <ruby>[[闖入]]<rt>ㄊㄨㄇㄋㄧㄆ</rt></ruby> "to break into; to intrude"
+- <ruby>[[嵌入]]<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby> "embed; inlay"

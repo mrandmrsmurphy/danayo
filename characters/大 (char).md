@@ -50,6 +50,7 @@ boundedness: 90
 - [[因小失大]]
 
 ## Word
+- <ruby>[[寬大]]<rt>ㄎ⺢ㄋㄉㄚㄧ</rt></ruby> "magnanimous; lenient"
 - <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> - adult
 - <ruby>[[大主教]]<rt>ㄉㄚㄧㄐㄨㄍ⼄ㄨ</rt></ruby> "archbishop"
 - <ruby>[[大教堂]]<rt>ㄉㄚㄧㄍ⼄ㄨㄉㄚㄫ</rt></ruby> "cathedral"
