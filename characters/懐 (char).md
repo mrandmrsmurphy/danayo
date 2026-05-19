@@ -44,5 +44,5 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 皆合]]
-- [[懐抱]] "cherish, embrase"
-- [[懐孕]] "be pregnant"
+- [[懐抱]] "cherish, embrace"
+- <ruby>[[懐孕]]<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby> "pregnant"

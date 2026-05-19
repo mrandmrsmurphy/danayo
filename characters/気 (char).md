@@ -42,8 +42,9 @@ boundedness:
 ```
 ## Notes
 
-## Word
-- <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> - mood
+## Words
+- <ruby>[[煙気]]<rt>ㄝㄋㄎㄧㄜ</rt></ruby> "smoke, flue gas"
+- <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 微開]]
 - <ruby>[[気候]]<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby> "climate"
