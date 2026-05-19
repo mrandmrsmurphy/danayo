@@ -44,3 +44,6 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[../lookup/CC/finals/韻 鈬開]]
+
+## Words
+- <ruby>[[鸛鶴]]<rt>ㄍ⺢ㄋㄏㄚㄎ</rt></ruby> "stork"
