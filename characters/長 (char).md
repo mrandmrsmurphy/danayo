@@ -58,3 +58,4 @@ boundedness: 75
 - [[長期]] "long time"
 - [[長上]] "elder, superior"
 - <ruby>[[延長]]<rt>⼶ㄋㄐㄚㄫ</rt></ruby> "to extend; to prolong"
+- <ruby>[[長靴]]<rt>ㄐㄚㄫㄏ⺢</rt></ruby> "boot"

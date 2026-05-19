@@ -48,3 +48,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 宵A]]
 - [[消息]] "news, message, tidings"
+- <ruby>[[消耗]]<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby> "consume; deplete"
