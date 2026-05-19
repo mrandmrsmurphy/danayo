@@ -7,7 +7,6 @@ tags:
 - <ruby>[一字一音](chengyu/一字一音.md)<rt>ㄧㄊㄐㄧ·ㄧㄊ·ㄨㄇ</rt></ruby> - one character, one sound
 - <ruby>[覧昭和決](chengyu/覧昭和決.md)<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢ㄎ⼔ㄊ</rt></ruby> - Shōwa decides the look
 - <ruby>[朝鮮正音](chengyu/朝鮮正音.md)<rt>ㄐㄚㄨㄙ⼶ㄋㄐㄧㄫ·ㄨㄇ</rt></ruby> - Joseon standardizes the sound
-- [[形助顯理]]
 
 ## Base check
 ```base
