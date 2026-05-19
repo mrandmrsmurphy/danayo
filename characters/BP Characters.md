@@ -159,10 +159,10 @@ Open with a link to [[lookup/List of 象形]]. Describe what the character depic
 ### Bullet 2 — SKIP and Stroke
 
 ```markdown
-- [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) — [ㄙㄧ](syllables/ㄙㄧ.md)
+- [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 ```
 
-Three links in sequence: the SKIP leaf page, the Stroke count page, and the Dan'a'yo syllable page. Separate the syllable link with an em-dash `—`.
+Two links in sequence: the SKIP leaf page and the Stroke count page. No syllable link here — the syllable belongs on bullet 3.
 
 ---
 
@@ -256,7 +256,7 @@ Set when:
 3. The callout (if any) is present and correct; the `meta-bind-embed` block is the first content element after it (or first overall).
 4. All four Notes bullets are present in the correct order.
 5. Graphemic bullet correctly identifies the type and links the relevant components or list-of page.
-6. SKIP/Stroke bullet links all three targets (SKIP leaf, Stroke page, syllable page).
+6. SKIP/Stroke bullet links two targets (SKIP leaf, Stroke page) — no syllable link.
 7. MC bullet states the ordinal rank, embeds both CC links with IPA display text, and links the syllable.
 8. Levels bullet includes all four level links and they match the frontmatter values per the mapping table.
 9. Every Dan'a'yo word that uses this character appears in `## Words` with a gloss.
