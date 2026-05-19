@@ -44,3 +44,6 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 燭]]
+
+## Words
+- <ruby>[[瓊玉]]<rt>ㄍ⼶ㄫ⼄ㄎ</rt></ruby> "fine jade"

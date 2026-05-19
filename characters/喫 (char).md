@@ -51,3 +51,6 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 錫開]]
+
+## Words
+- <ruby>[[喫驚]]<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby> "to be startled"
