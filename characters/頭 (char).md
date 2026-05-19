@@ -64,5 +64,6 @@ boundedness: 100
 - [[叩頭]]
 - [[頭骨]]
 - [[念頭]]
+- <ruby>[[缶頭]]<rt>ㄍ⺢ㄋㄊㄛㄨ</rt></ruby> "canned goods"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 侯]]

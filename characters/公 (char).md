@@ -61,3 +61,4 @@ boundedness: 100
 - [[公園]] "park"
 - [[公民]] "citizen,civics"
 - [[公司]] "company,firm"
+- <ruby>[[公館]]<rt>ㄍㄛㄫㄍ⺢ㄋ</rt></ruby> "official residence"

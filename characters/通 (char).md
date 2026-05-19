@@ -50,3 +50,4 @@ boundedness: 90
 - [[通行]] "pass through, traffic across"
 - [[通貨]] "currency, money"
 - [[通過]] "pass"
+- <ruby>[[貫通]]<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby> "to pierce through"
