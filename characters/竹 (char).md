@@ -40,6 +40,10 @@ boundedness: 30
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[竹筍]]<rt>ㄐㄨㄎㄙ⼜ㄊ</rt></ruby> "bamboo shoot"
+- <ruby>[[篠竹]]<rt>ㄙㄛㄨㄐㄨㄎ</rt></ruby> "dwarf bamboo"
+
 # Notes
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 屋三]]

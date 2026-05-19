@@ -56,3 +56,4 @@ boundedness: 40
 - [[木版]] "printing block"
 - <ruby>[[檀木]]<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby> "sandalwood; hardwood tree"
 - <ruby>[[樺木]]<rt>ㄏ⺢ㄇㄛㄎ</rt></ruby> "birch"
+- <ruby>[[杉木]]<rt>ㄙㄚㄇ·ㄇㄛㄎ</rt></ruby> "Chinese fir"
