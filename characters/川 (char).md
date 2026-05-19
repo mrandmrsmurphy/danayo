@@ -45,6 +45,7 @@ boundedness: 70
 - [List of 象形](lookup/List%20of%20象形.md): of flowing water – compare 水 (OC *qʰʷljilʔ), 巛, and 𡿧.
 - Pronunciation changed to Mandarin's to use an available syllable
 - Rivers were difficult to achieve consensus on.  Koreans use [江](characters/江.md) as the default word, though many places have 川 in the name.  In Japan, everything is a 川.  But in China, [河](characters/河.md) is common.  Vietnamese has a native word, but 江 is listed as the old spelling.  This character was chosen because it is so easy, while 江 takes the Japanese meaning of cove/inlet.
+- [[Lookup/CC/initials/聲 昌]] [[Lookup/CC/finals/韻 仙A三合]]
 
 ## Words
 - [[words/川口]] Kawaguchi
@@ -55,5 +56,3 @@ boundedness: 70
 - [[瀧川]] Takigawa
 - [[江戸川]] Edo river
 - [[四川]] Sichuan
-[[Lookup/CC/initials/聲 昌]]
-[[Lookup/CC/finals/韻 仙A三合]]
