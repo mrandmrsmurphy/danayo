@@ -49,3 +49,4 @@ boundedness: 75
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 皆開]]
 - [[排球]] "volleyball"
+- <ruby>[[排斥]]<rt>ㄆㄚㄧㄑㄝㄎ</rt></ruby> "reject, exclude"

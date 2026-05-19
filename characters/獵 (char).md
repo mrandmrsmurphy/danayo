@@ -50,3 +50,6 @@ boundedness: 65
 [[Lookup/CC/finals/韻 葉三]]
 
 - Note that we do not follow Shinjitai here.  The simplification of [[鼠]]/巤 to 鼡 is unintelligible to non-Japanese.
+
+## Words
+- <ruby>[[狩獵]]<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby> "hunt, hunting"
