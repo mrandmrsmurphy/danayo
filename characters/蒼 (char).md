@@ -49,3 +49,6 @@ boundedness: 80
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 唐開]]
 - [[蒼路]] "crane"
+
+## Words
+- <ruby>[[蒼朮]]<rt>ㄑ⺢ㄫㄐㄨㄊ</rt></ruby> "atractylodes rhizome"
