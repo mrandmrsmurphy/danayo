@@ -47,3 +47,4 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 眞A開]]
+- <ruby>[[真摯]]<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby> "sincere; earnest"

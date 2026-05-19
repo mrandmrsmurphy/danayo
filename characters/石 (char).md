@@ -45,6 +45,7 @@ boundedness: 90
 ## Words
 - <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium, abbreviated 石
 - <ruby>[[磐石]]<rt>ㄅㄚㄋㄙㄝㄎ</rt></ruby> "boulder; bedrock"
+- <ruby>[[砥石]]<rt>ㄐㄧㄜㄙㄝㄎ</rt></ruby> "whetstone"
 - <ruby>[[磚石]]<rt>ㄐㄝㄋㄙㄝㄎ</rt></ruby> "bricks and stones"
 
 [[Lookup/CC/initials/聲 船]]

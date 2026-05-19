@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-04-26
-size: 142
+size: 143
 radical: 人
 tags:
   - lookup
@@ -107,83 +107,84 @@ aliases:
 79. <ruby>[俘](../../characters/俘.md)<rt>ㄈㄨ</rt></ruby> - prisoner of war
 80. <ruby>[保](../../characters/保.md)<rt>ㄅㄚㄨ</rt></ruby> - defend
 81. <ruby>[信](../../characters/信.md)<rt>ㄙㄧㄋ</rt></ruby> - trust
+82. <ruby>[俟](../../characters/俟.md)<rt>ㄐㄧㄜ</rt></ruby> - wait (literary)
 
 ### +8 Strokes
-82. <ruby>[修](../../characters/修.md)<rt>ㄙㄨㄛ</rt></ruby> - repair
-83. <ruby>[俯](../../characters/俯.md)<rt>ㄈㄨ</rt></ruby> - look down
-84. <ruby>[俳](../../characters/俳.md)<rt>ㄅ⼶</rt></ruby> - actor
-85. <ruby>[俵](../../characters/俵.md)<rt>ㄅ⼘ㄨ</rt></ruby> - bag
-86. <ruby>[俸](../../characters/俸.md)<rt>ㄈㄛㄫ</rt></ruby> - salary
-87. <ruby>[俺](../../characters/俺.md)<rt>ㄝㄇ</rt></ruby> - I (humble)
-88. <ruby>[倉](../../characters/倉.md)<rt>ㄑ⺢ㄫ</rt></ruby> - granary
-89. <ruby>[個](../../characters/個%20(char).md)<rt>ㄍㄜ</rt></ruby> - individual
-90. <ruby>[倍](../../characters/倍%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - times
-91. <ruby>[倒](../../characters/倒%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> - turn over
-92. <ruby>[候](../../characters/候.md)<rt>ㄏㄛㄨ</rt></ruby> - climate
-93. <ruby>[倚](../../characters/倚%20(char).md)<rt>ㄜㄧ</rt></ruby> - rely on
-94. <ruby>[借](../../characters/借%20(char).md)<rt>ㄐㄚ</rt></ruby> - borrow
-95. <ruby>[倣](../../characters/倣.md)<rt>ㄈㄚㄫ</rt></ruby> - imitate
-96. <ruby>[値](../../characters/値.md)<rt>ㄉㄧ</rt></ruby> - value
-97. <ruby>[倫](../../characters/倫.md)<rt>ㄌㄨㄋ</rt></ruby> - ethics
-98. <ruby>[倭](../../characters/倭.md)<rt>⼔ㄧ</rt></ruby> - dwarf
-99. <ruby>[倶](../../characters/倶%20(char).md)<rt>ㄍㄨ</rt></ruby> - accompany
-100. <ruby>[倹](../../characters/倹.md)<rt>ㄍㄝㄇ</rt></ruby> - temperate
+83. <ruby>[修](../../characters/修.md)<rt>ㄙㄨㄛ</rt></ruby> - repair
+84. <ruby>[俯](../../characters/俯.md)<rt>ㄈㄨ</rt></ruby> - look down
+85. <ruby>[俳](../../characters/俳.md)<rt>ㄅ⼶</rt></ruby> - actor
+86. <ruby>[俵](../../characters/俵.md)<rt>ㄅ⼘ㄨ</rt></ruby> - bag
+87. <ruby>[俸](../../characters/俸.md)<rt>ㄈㄛㄫ</rt></ruby> - salary
+88. <ruby>[俺](../../characters/俺.md)<rt>ㄝㄇ</rt></ruby> - I (humble)
+89. <ruby>[倉](../../characters/倉.md)<rt>ㄑ⺢ㄫ</rt></ruby> - granary
+90. <ruby>[個](../../characters/個%20(char).md)<rt>ㄍㄜ</rt></ruby> - individual
+91. <ruby>[倍](../../characters/倍%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - times
+92. <ruby>[倒](../../characters/倒%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> - turn over
+93. <ruby>[候](../../characters/候.md)<rt>ㄏㄛㄨ</rt></ruby> - climate
+94. <ruby>[倚](../../characters/倚%20(char).md)<rt>ㄜㄧ</rt></ruby> - rely on
+95. <ruby>[借](../../characters/借%20(char).md)<rt>ㄐㄚ</rt></ruby> - borrow
+96. <ruby>[倣](../../characters/倣.md)<rt>ㄈㄚㄫ</rt></ruby> - imitate
+97. <ruby>[値](../../characters/値.md)<rt>ㄉㄧ</rt></ruby> - value
+98. <ruby>[倫](../../characters/倫.md)<rt>ㄌㄨㄋ</rt></ruby> - ethics
+99. <ruby>[倭](../../characters/倭.md)<rt>⼔ㄧ</rt></ruby> - dwarf
+100. <ruby>[倶](../../characters/倶%20(char).md)<rt>ㄍㄨ</rt></ruby> - accompany
+101. <ruby>[倹](../../characters/倹.md)<rt>ㄍㄝㄇ</rt></ruby> - temperate
 
 ### +9 Strokes
-101. <ruby>[倦](../../characters/倦.md)<rt>ㄍ⼔ㄋ</rt></ruby> - weary
-102. <ruby>[偈](../../characters/偈.md)<rt>ㄍㄝㄊ</rt></ruby> - Buddhist verse
-103. <ruby>[偏](../../characters/偏%20(char).md)<rt>ㄆ⼶ㄋ</rt></ruby> - slanted
-104. <ruby>[偕](../../characters/偕.md)<rt>ㄍ⼶</rt></ruby> - accompany
-105. <ruby>[停](../../characters/停.md)<rt>ㄉㄝㄫ</rt></ruby> - halt
-106. <ruby>[健](../../characters/健.md)<rt>ㄍㄝㄋ</rt></ruby> - healthy
-107. <ruby>[偪](../../characters/偪.md)<rt>ㄆㄧㄆ</rt></ruby> - Fuyang
-108. <ruby>[偰](../../characters/偰.md)<rt>ㄙㄝㄊ</rt></ruby> - contract
-109. <ruby>[偲](../../characters/偲.md)<rt>ㄑㄚㄧ</rt></ruby> - talent
-110. <ruby>[側](../../characters/側.md)<rt>ㄐㄧㄎ</rt></ruby> - side
-111. <ruby>[偵](../../characters/偵%20(char).md)<rt>ㄊㄧㄫ</rt></ruby> - spy
-112. <ruby>[偶](../../characters/偶.md)<rt>ㄛㄨ</rt></ruby> - image
-113. <ruby>[偷](../../characters/偷.md)<rt>ㄊㄛㄇ</rt></ruby> - steal
-114. <ruby>[偽](../../characters/偽%20(char).md)<rt>⼔ㄧ</rt></ruby> - false
+102. <ruby>[倦](../../characters/倦.md)<rt>ㄍ⼔ㄋ</rt></ruby> - weary
+103. <ruby>[偈](../../characters/偈.md)<rt>ㄍㄝㄊ</rt></ruby> - Buddhist verse
+104. <ruby>[偏](../../characters/偏%20(char).md)<rt>ㄆ⼶ㄋ</rt></ruby> - slanted
+105. <ruby>[偕](../../characters/偕.md)<rt>ㄍ⼶</rt></ruby> - accompany
+106. <ruby>[停](../../characters/停.md)<rt>ㄉㄝㄫ</rt></ruby> - halt
+107. <ruby>[健](../../characters/健.md)<rt>ㄍㄝㄋ</rt></ruby> - healthy
+108. <ruby>[偪](../../characters/偪.md)<rt>ㄆㄧㄆ</rt></ruby> - Fuyang
+109. <ruby>[偰](../../characters/偰.md)<rt>ㄙㄝㄊ</rt></ruby> - contract
+110. <ruby>[偲](../../characters/偲.md)<rt>ㄑㄚㄧ</rt></ruby> - talent
+111. <ruby>[側](../../characters/側.md)<rt>ㄐㄧㄎ</rt></ruby> - side
+112. <ruby>[偵](../../characters/偵%20(char).md)<rt>ㄊㄧㄫ</rt></ruby> - spy
+113. <ruby>[偶](../../characters/偶.md)<rt>ㄛㄨ</rt></ruby> - image
+114. <ruby>[偷](../../characters/偷.md)<rt>ㄊㄛㄇ</rt></ruby> - steal
+115. <ruby>[偽](../../characters/偽%20(char).md)<rt>⼔ㄧ</rt></ruby> - false
 
 ### +10 Strokes
-115. <ruby>[偉](../../characters/偉.md)<rt>ㄨㄧ</rt></ruby> - great
-116. <ruby>[傀](../../characters/傀.md)<rt>ㄎㄛㄧ</rt></ruby> - puppet
-117. <ruby>[傅](../../characters/傅.md)<rt>ㄅㄨ</rt></ruby> - tutor
-118. <ruby>[傍](../../characters/傍%20(char).md)<rt>ㄆㄚㄫ</rt></ruby> - beside
-119. <ruby>[傘](../../characters/傘.md)<rt>ㄙㄚㄋ</rt></ruby> - umbrella
-120. <ruby>[備](../../characters/備.md)<rt>ㄅㄧㄜ</rt></ruby> - prepare
-121. <ruby>[僅](../../characters/僅.md)<rt>ㄍㄧㄋ</rt></ruby> - only
+116. <ruby>[偉](../../characters/偉.md)<rt>ㄨㄧ</rt></ruby> - great
+117. <ruby>[傀](../../characters/傀.md)<rt>ㄎㄛㄧ</rt></ruby> - puppet
+118. <ruby>[傅](../../characters/傅.md)<rt>ㄅㄨ</rt></ruby> - tutor
+119. <ruby>[傍](../../characters/傍%20(char).md)<rt>ㄆㄚㄫ</rt></ruby> - beside
+120. <ruby>[傘](../../characters/傘.md)<rt>ㄙㄚㄋ</rt></ruby> - umbrella
+121. <ruby>[備](../../characters/備.md)<rt>ㄅㄧㄜ</rt></ruby> - prepare
+122. <ruby>[僅](../../characters/僅.md)<rt>ㄍㄧㄋ</rt></ruby> - only
 
 ### +11 Strokes
-122. <ruby>[傑](../../characters/傑.md)<rt>ㄍㄝㄊ</rt></ruby> - masterful
-123. <ruby>[催](../../characters/催%20(char).md)<rt>ㄑㄛㄧ</rt></ruby> - press (a person for)
-124. <ruby>[傲](../../characters/傲.md)<rt>ㄚㄨ</rt></ruby> - proud
-125. <ruby>[債](../../characters/債.md)<rt>ㄐㄚㄧ</rt></ruby> - debt
-126. <ruby>[傷](../../characters/傷.md)<rt>ㄙ⼘ㄫ</rt></ruby> - wound
-127. <ruby>[傾](../../characters/傾.md)<rt>ㄎㄝㄫ</rt></ruby> - lean
-128. <ruby>[僧](../../characters/僧.md)<rt>ㄙㄜㄫ</rt></ruby> - priest
+123. <ruby>[傑](../../characters/傑.md)<rt>ㄍㄝㄊ</rt></ruby> - masterful
+124. <ruby>[催](../../characters/催%20(char).md)<rt>ㄑㄛㄧ</rt></ruby> - press (a person for)
+125. <ruby>[傲](../../characters/傲.md)<rt>ㄚㄨ</rt></ruby> - proud
+126. <ruby>[債](../../characters/債.md)<rt>ㄐㄚㄧ</rt></ruby> - debt
+127. <ruby>[傷](../../characters/傷.md)<rt>ㄙ⼘ㄫ</rt></ruby> - wound
+128. <ruby>[傾](../../characters/傾.md)<rt>ㄎㄝㄫ</rt></ruby> - lean
+129. <ruby>[僧](../../characters/僧.md)<rt>ㄙㄜㄫ</rt></ruby> - priest
 
 ### +12 Strokes
-129. <ruby>[像](../../characters/像.md)<rt>ㄙ⼘ㄫ</rt></ruby> - statue
-130. <ruby>[僑](../../characters/僑.md)<rt>ㄍ⼘ㄨ</rt></ruby> - emigrant
-131. <ruby>[僕](../../characters/僕.md)<rt>ㄅㄛㄎ</rt></ruby> - slave
-132. <ruby>[僚](../../characters/僚.md)<rt>ㄌ⼄ㄨ</rt></ruby> - colleague
+130. <ruby>[像](../../characters/像.md)<rt>ㄙ⼘ㄫ</rt></ruby> - statue
+131. <ruby>[僑](../../characters/僑.md)<rt>ㄍ⼘ㄨ</rt></ruby> - emigrant
+132. <ruby>[僕](../../characters/僕.md)<rt>ㄅㄛㄎ</rt></ruby> - slave
+133. <ruby>[僚](../../characters/僚.md)<rt>ㄌ⼄ㄨ</rt></ruby> - colleague
 
 ### +13 Strokes
-133. <ruby>[僵](../../characters/僵.md)<rt>ㄍ⼘ㄫ</rt></ruby> - stiff corpse
-134. <ruby>[僻](../../characters/僻.md)<rt>ㄆㄝㄎ</rt></ruby> - remote
-135. <ruby>[儀](../../characters/儀.md)<rt>ㄜㄧ</rt></ruby> - ceremonial
-136. <ruby>[億](../../characters/億.md)<rt>ㄧㄎ</rt></ruby> - hundred million
+134. <ruby>[僵](../../characters/僵.md)<rt>ㄍ⼘ㄫ</rt></ruby> - stiff corpse
+135. <ruby>[僻](../../characters/僻.md)<rt>ㄆㄝㄎ</rt></ruby> - remote
+136. <ruby>[儀](../../characters/儀.md)<rt>ㄜㄧ</rt></ruby> - ceremonial
+137. <ruby>[億](../../characters/億.md)<rt>ㄧㄎ</rt></ruby> - hundred million
 
 ### +14 Strokes
-137. <ruby>[儒](../../characters/儒.md)<rt>ㄋㄨ</rt></ruby> - Confucian scholar
+138. <ruby>[儒](../../characters/儒.md)<rt>ㄋㄨ</rt></ruby> - Confucian scholar
 
 ### +15 Strokes
-138. <ruby>[償](../../characters/償.md)<rt>ㄙ⼘ㄫ</rt></ruby> - repay
-139. <ruby>[儡](../../characters/儡.md)<rt>ㄌㄛㄧ</rt></ruby> - puppet
-140. <ruby>[儧](../../characters/儧.md)<rt>ㄐ⺢ㄋ</rt></ruby> - accumulate
-141. <ruby>[優](../../characters/優.md)<rt>ㄨㄛ</rt></ruby> - excellent
-142. <ruby>[儲](../../characters/儲.md)<rt>ㄐㄛ</rt></ruby> - store
+139. <ruby>[償](../../characters/償.md)<rt>ㄙ⼘ㄫ</rt></ruby> - repay
+140. <ruby>[儡](../../characters/儡.md)<rt>ㄌㄛㄧ</rt></ruby> - puppet
+141. <ruby>[儧](../../characters/儧.md)<rt>ㄐ⺢ㄋ</rt></ruby> - accumulate
+142. <ruby>[優](../../characters/優.md)<rt>ㄨㄛ</rt></ruby> - excellent
+143. <ruby>[儲](../../characters/儲.md)<rt>ㄐㄛ</rt></ruby> - store
 
 ## Data check
 ```dataview

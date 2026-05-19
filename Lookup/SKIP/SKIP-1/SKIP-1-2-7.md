@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-04
 stroke_count: 9
-size: 15
+size: 16
 skip_number: 1-2-7
 tags:
   - lookup
@@ -25,6 +25,7 @@ tags:
 13. <ruby>[俘](characters/俘.md)<rt>ㄈㄨ</rt></ruby> "prisoner of war"
 14. <ruby>[保](characters/保.md)<rt>ㄅㄚㄨ</rt></ruby> "defend"
 15. <ruby>[信](characters/信.md)<rt>ㄙㄧㄋ</rt></ruby> "trust"
+16. <ruby>[俟](characters/俟.md)<rt>ㄐㄧㄜ</rt></ruby> "wait (literary)"
 
 ## Datacheck
 ```dataview
