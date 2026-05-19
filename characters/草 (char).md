@@ -46,3 +46,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 豪]]
 - [[草木]] "greenery, plants, vegetation"
 - [[草原]] "grassland, prairie, steppe, savanna, meadow"
+- <ruby>[[艾草]]<rt>ㄚㄧㄑㄚㄨ</rt></ruby> "mugwort"

@@ -77,5 +77,6 @@ boundedness: 90
 22. [[大麻]]
 23. [[大同]]
 24. [[大麦茶]]
+- <ruby>[[大蛤]]<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby> "clam"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 泰開]]
