@@ -1,7 +1,6 @@
 Where to find broken links
 
 ## Characters with lists
-- [[characters/二 (char)]]
 - [[characters/五 (char)]]
 - [[characters/凶 (char)]]
 - [[characters/参]]
