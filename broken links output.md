@@ -1,15 +1,15 @@
 Where to find broken links
 
 ## Characters with lists
-- [[characters/参]]
-- [[characters/定]]
-- [[characters/局 (char)]]
-- [[characters/希]]
-- [[characters/欲]]
-- [[characters/滲]]
-- [[characters/炎]]
-- [[characters/猩]]
-- [[characters/率]]
+- [[characters/参]] 5
+- [[characters/定]] 5
+- [[characters/局 (char)]] 5
+- [[characters/希]] 3
+- [[characters/欲]] 4
+- [[characters/滲]] 4
+- [[characters/炎]] 3
+- [[characters/猩]] 5
+- [[characters/率]] 8
 - [[characters/禁]]
 - [[characters/等 (char)]]
 - [[characters/肥]]
