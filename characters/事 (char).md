@@ -48,6 +48,7 @@ boundedness: 90
 
 
 ## Words
+- <ruby>[[七事]]<rt>ㄑㄧㄊㄐㄧ</rt></ruby> "Seven Duties of a Sovereign"
 - [[事実]]
 - [[事情]]
 - [[事物]]

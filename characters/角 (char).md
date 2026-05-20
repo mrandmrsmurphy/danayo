@@ -52,3 +52,5 @@ boundedness: 100
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 覺]]
 - [[角逐]] "compete, contend for"
+## Words
+- <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"

@@ -51,3 +51,5 @@ While this character can appear alone, it is somewhat rare to do so.
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 青開]]
 - [[形容詞]] "adjective"
+## Words
+- <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"
