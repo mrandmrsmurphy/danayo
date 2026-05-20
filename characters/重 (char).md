@@ -52,3 +52,5 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 鍾]]
+## Words
+- <ruby>[[二重]]<rt>ㄋㄧㄜㄑㄛㄫ</rt></ruby> "double; twofold"

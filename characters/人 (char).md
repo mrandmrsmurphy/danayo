@@ -54,6 +54,7 @@ boundedness: 75
 - <ruby>[及 (char)](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby>
 - <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby>
 ## Words
+- <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
 - <ruby>[人参](/words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> - ginseng
 - <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> - population
 - <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron

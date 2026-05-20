@@ -45,6 +45,7 @@ boundedness: 90
 
 - [List of 象形](lookup/List%20of%20象形.md): a heart, now highly stylized.
 ## Words
+- <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
 - <ruby>[[心緒]]<rt>ㄙㄧㄇ·ㄙ⼄</rt></ruby> "feelings; state of mind"
 - [[悪心]]
 - [[離心率]]
