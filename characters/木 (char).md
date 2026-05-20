@@ -49,7 +49,7 @@ boundedness: 40
 
 - [List of 象形](lookup/List%20of%20象形.md): a tree: branches on top, roots on the bottom (more visible in earlier forms).
 ## Chengyu
-- [[朽木粪墙]]
+- <ruby>[[朽木粪墙]]<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 屋一]]
 - [[木偶]] "pupper, marionette"

@@ -55,7 +55,7 @@ boundedness: 80
 
 ## Chengyu
 - [[天長地久]]
-- [[天衣無縫]]
+- <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
 - [[../chengyu/天真乱漫]]
 - [[海闊天空]]
 - [[開天辟地]]

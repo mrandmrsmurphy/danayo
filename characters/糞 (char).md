@@ -47,6 +47,6 @@ boundedness: 75
 - Pronunciation altered to -m so that there's no homophony.
 
 ## Chengyu
-- [[朽木糞牆]]
+- <ruby>[[朽木粪墙]]<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 文]]

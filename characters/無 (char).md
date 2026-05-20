@@ -51,6 +51,7 @@ boundedness: 80
 - [[有備無患]]
 - [[無為而治]]
 - [[孤立無援]]
+- <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
 
 ## Words
 - [[無名]]

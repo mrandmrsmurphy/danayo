@@ -52,3 +52,5 @@ boundedness: 80
 - [[小数点]] "decimal point"
 - [[小腸]] "small interstine"
 - <ruby>[[杪小]]<rt>ㄇ⼄ㄙㄛ</rt></ruby> "tiny; minute; insignificant"
+## Chengyu
+- <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

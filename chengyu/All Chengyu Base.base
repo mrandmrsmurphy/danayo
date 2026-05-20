@@ -7,7 +7,6 @@ views:
     order:
       - file.name
       - 注音
-      - 韓文
       - mandarin
       - cantonese
       - japanese
