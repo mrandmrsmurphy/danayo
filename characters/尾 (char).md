@@ -47,3 +47,5 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 微]]
 [[Lookup/CC/finals/韻 微合]]
+## Words
+- <ruby>[[九尾狐]]<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby> "nine-tailed fox"

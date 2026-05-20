@@ -50,3 +50,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 蕭]]
 - [[鳥籠]] "birdcage"
 - <ruby>[[七面鳥]]<rt>ㄑㄧㄊㄇ⼶ㄋㄑㄛㄨ</rt></ruby> "turkey"
+- <ruby>[[九官鳥]]<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby> "common hill myna"

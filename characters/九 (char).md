@@ -56,7 +56,7 @@ boundedness: 75
 - [[九泉]] - nether world
 - [[九天]] - Highest Heaven
 - [[九卿]] - the Nine Ministers
-- [[九經]] - the nine classics
+- [九經](../words/九経.md) - the nine classics
 - [[十九]] - nineteen 
 - [[九十]] - ninety 
 - [[九族]] - nine generations
