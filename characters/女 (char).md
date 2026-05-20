@@ -44,6 +44,7 @@ boundedness: 80
 
 - [List of 象形](lookup/List%20of%20象形.md): a woman with folded arms kneeling or standing. In the modern form, the pictogram is reversed from the Oracle Bone script form, and is "facing" toward the right edge of the character: the enclosed area (bounded on the right side by the downward-curving second stroke of the modern form) is the remnant of the figure's right arm, while the figure's left arm has disappeared.
 ## Words
+- <ruby>[[魔女]]<rt>ㄇㄚㄋㄜ</rt></ruby> "witch; sorceress"
 - [[女性]]
 - [[女女]]
 - [[織女星]]

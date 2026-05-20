@@ -10,19 +10,17 @@ Where to find broken links
 - [[characters/炎]] 3
 - [[characters/猩]] 5
 - [[characters/率]] 8
-- [[characters/禁]]
-- [[characters/等 (char)]]
-- [[characters/肥]]
-- [[characters/臘]]
-- [[characters/芋]]
-- [[characters/苦 (char)]]
-- [[characters/蛍 (char)]]
-- [[characters/試]]
-- [[characters/賛]]
-- [[characters/軽 (char)]]
-- [[characters/辺]]
-- [[characters/週]]
-- [[characters/麻]]
+- [[characters/禁]] 20
+- [[characters/等 (char)]] 5
+- [[characters/肥]] 10
+- [[characters/臘]] 3
+- [[characters/芋]] 3
+- [[characters/苦 (char)]] 6
+- [[characters/蛍 (char)]] 2
+- [[characters/賛]] 4
+- [[characters/軽 (char)]] 4
+- [[characters/辺]] 3
+- [[characters/週]] 3
 
 ## Chengyu Parts
 1. [[瞭然]] in [[chengyu/一目瞭然]]

@@ -45,6 +45,8 @@ boundedness:
 [[nav/char_info]]
 ```
 ## Notes
+[[Lookup/CC/initials/聲 溪]]
+[[Lookup/CC/finals/韻 清開]]
 
 ## Words
 * [[軽歌劇]] light opera
@@ -54,5 +56,3 @@ boundedness:
 * [[軽罪]] misdemeanor
 * [[軽視]] distain
 * [[軽重]] light and heavy
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 清開]]

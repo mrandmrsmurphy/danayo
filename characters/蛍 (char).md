@@ -45,9 +45,9 @@ boundedness:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-
-# Notes
-- also called a [[蛍火虫]]/萤火虫
-- [[蛍光]] - florescence
+## Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 青合]]
+## Words
+- also called a [[蛍火虫]]
+- [[蛍光]] - florescence
