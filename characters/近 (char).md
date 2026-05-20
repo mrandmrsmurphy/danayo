@@ -50,3 +50,5 @@ boundedness: 80
 [[Lookup/CC/finals/韻 欣]]
 - [[近来]] "recently, lately"
 - [[近処]] "vicinity, neighborhood"
+## Chengyu
+- <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"

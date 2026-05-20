@@ -70,6 +70,6 @@ boundedness: 80
 - [[性交]]
 
 ## Chengyu
-- [[遠交近攻]]
+- <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 肴]]

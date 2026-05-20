@@ -46,3 +46,5 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*koːŋ, \*kuːŋ): semantic [[Radical 048|工]] ("work") + phonetic [[攵]] (OC \*koːŋ).
+## Chengyu
+- <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"

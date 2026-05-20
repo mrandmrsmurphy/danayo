@@ -51,3 +51,5 @@ boundedness: 90
 
 ## Words
 - <ruby>[[遥遠]]<rt>⼄ㄨ·ㄛㄋ</rt></ruby> "distant; faraway"
+## Chengyu
+- <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"

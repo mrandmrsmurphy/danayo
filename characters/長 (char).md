@@ -59,3 +59,5 @@ boundedness: 75
 - [[長上]] "elder, superior"
 - <ruby>[[延長]]<rt>⼶ㄋㄐㄚㄫ</rt></ruby> "to extend; to prolong"
 - <ruby>[[長靴]]<rt>ㄐㄚㄫㄏ⺢</rt></ruby> "boot"
+## Chengyu
+- <ruby>[[意味深長]]<rt>ㄜㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"
