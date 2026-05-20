@@ -45,3 +45,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 庚二開]]
+## Chengyu
+- <ruby>[[焚書坑儒]]<rt>ㄅㄨㄋㄙ⼄ㄎㄚㄫㄋㄨ</rt></ruby> "the burning of books and burial of scholars; ideological repression and the destruction of intellectual culture"

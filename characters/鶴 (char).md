@@ -47,3 +47,5 @@ boundedness: 65
 
 ## Words
 - <ruby>[[鸛鶴]]<rt>ㄍ⺢ㄋㄏㄚㄎ</rt></ruby> "stork"
+## Chengyu
+- <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "burning the qin for firewood and boiling the crane for soup; destroying beauty through philistine indifference"
