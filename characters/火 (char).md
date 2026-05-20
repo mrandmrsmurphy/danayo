@@ -48,6 +48,7 @@ boundedness: 90
 - <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> - cloud by day, fire by night
 
 ## Words
+- <ruby>[[火鼠]]<rt>ㄏ⺢ㄙ⼄</rt></ruby> "fire rat (mythological)"
 - <ruby>[火炉](/words/火炉.md)<rt>ㄏ⺢ㄌㄛ</rt></ruby> - furnace
 - [[火山]]
 - [[火山島]]

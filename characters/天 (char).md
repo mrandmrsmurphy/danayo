@@ -62,6 +62,7 @@ boundedness: 80
 - [[孝親天賜]]
 
 ## Words
+- <ruby>[[天竺鼠]]<rt>ㄊㄝㄋㄐㄨㄎㄙ⼄</rt></ruby> "guinea pig"
 - [[天鵝]]
 - [[堕天使]]
 - [[天狗]]

@@ -45,4 +45,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 之]]
+- <ruby>[[置閏]]<rt>ㄑㄧㄋㄨㄋ</rt></ruby> "intercalation; to install a leap period"
 - [[置換]] "permute, substitute, displace"

@@ -44,3 +44,5 @@ boundedness: 80
 - Added to the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 宵A]]
+## Words
+- <ruby>[[閏秒]]<rt>ㄋㄨㄋㄇ⼄ㄨ</rt></ruby> "leap second"

@@ -22,9 +22,7 @@ Where to find broken links
 - [[characters/軽 (char)]]
 - [[characters/辺]]
 - [[characters/週]]
-- [[characters/閏 (char)]]
 - [[characters/麻]]
-- [[characters/鼠]]
 
 ## Chengyu Parts
 1. [[瞭然]] in [[chengyu/一目瞭然]]
