@@ -47,3 +47,5 @@ boundedness: 90
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 齊開]]
+## Words
+- <ruby>[[及第]]<rt>ㄍㄨㄆㄉㄝㄧ</rt></ruby> "to pass an imperial exam; to pass a grade"

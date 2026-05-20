@@ -43,6 +43,7 @@ boundedness: 100
 ## Notes
 
 ## Words
+- <ruby>[[白及]]<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby> "bai ji; Bletilla striata (ground orchid)"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - [[白粉]]
 - [[白内障]]

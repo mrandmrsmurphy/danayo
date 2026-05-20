@@ -57,6 +57,7 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 - 不 + 口 = [否 (char)](characters/否%20(char).md)
 - 不 + 一 = [丕](characters/丕.md)
 ## Words
+- <ruby>[[不及]]<rt>ㄅㄛㄊㄍㄨㄆ</rt></ruby> "to not reach; to be inferior to"
 - [不但](words/不但.md)
 - [不信](words/不信.md)
 - [不同](words/不同.md)

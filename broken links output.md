@@ -2,11 +2,8 @@ Where to find broken links
 
 ## Characters with lists
 - [[characters/参]]
-- [[characters/叉 (char)]]
-- [[characters/及 (char)]]
 - [[characters/定]]
 - [[characters/局 (char)]]
-- [[characters/川 (char)]]
 - [[characters/希]]
 - [[characters/欲]]
 - [[characters/滲]]

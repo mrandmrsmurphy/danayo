@@ -46,3 +46,4 @@ boundedness: 65
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 麻三開]]
 - [[夜半]] "midnight"
+- <ruby>[[夜叉]]<rt>⼘ㄑㄚㄧ</rt></ruby> "yaksha; fierce demon"
