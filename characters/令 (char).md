@@ -53,3 +53,5 @@ boundedness: 85
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 青開]]
 - [[令色]] "flattering looks, sycophantic expression"
+## Chengyu
+- <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"

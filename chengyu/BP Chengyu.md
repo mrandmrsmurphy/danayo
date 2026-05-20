@@ -196,6 +196,21 @@ These appear in some files and should be added when relevant:
 
 ---
 
+## Back-linking character pages
+
+After creating a chengyu file, add a ruby-annotated entry to the `## Chengyu` section of **every constituent character's page**. Create the section if it does not exist.
+
+```markdown
+## Chengyu
+- <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
+```
+
+- The `<rt>` content is the full Dan'a'yo 注音 of the chengyu.
+- The quoted gloss is the `english` frontmatter value.
+- Place `## Chengyu` **after** `## Words` (if that section exists) and before any lookup links.
+
+---
+
 ## `date-last-perfect` criteria
 
 Set when:
@@ -206,6 +221,7 @@ Set when:
 5. The Source and Origin section cites a specific text or explains the modern provenance clearly.
 6. All five CJKV pronunciations are present in the frontmatter and in the Pronunciations section.
 7. At least two example sentences are included.
+8. All constituent character pages have been back-linked in their `## Chengyu` section.
 
 ---
 

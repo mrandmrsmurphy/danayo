@@ -50,6 +50,8 @@ boundedness: 55
 
 ## Words
 - <ruby>[[航行]]<rt>ㄏㄚㄫㄏㄚㄫ</rt></ruby> "navigate, sail"
+## Chengyu
+- <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
 
 # Notes
 [[Lookup/CC/initials/聲 匣]]

@@ -49,3 +49,5 @@ boundedness: 90
 - [[風刺]] "satarize, mock"
 - [[風笛]] "bagpipes"
 - [[風潮]] "tempest"
+## Chengyu
+- <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
