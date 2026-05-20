@@ -45,6 +45,7 @@ boundedness: 90
 
 - 会意 of [[火]] ("fire") + [[卩]] ("kneeling person") — fire over a person's head, emphasizing the shining of light (Shuowen).
 ## Words
+- <ruby>[[蛍光]]<rt>ㄏㄧㄫㄎ⺢ㄫ</rt></ruby> "fluorescence; firefly light"
 - [[圓光]]
 - [[陽光]]
 - [[閃光]]

@@ -16,7 +16,6 @@ Where to find broken links
 - [[characters/臘]] 3
 - [[characters/芋]] 3
 - [[characters/苦 (char)]] 6
-- [[characters/蛍 (char)]] 2
 - [[characters/賛]] 4
 - [[characters/軽 (char)]] 4
 - [[characters/辺]] 3

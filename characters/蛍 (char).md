@@ -51,3 +51,4 @@ boundedness:
 ## Words
 - also called a [[蛍火虫]]
 - [[蛍光]] - florescence
+蛍金

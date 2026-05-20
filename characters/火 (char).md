@@ -49,6 +49,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[火鼠]]<rt>ㄏ⺢ㄙ⼄</rt></ruby> "fire rat (mythological)"
+- <ruby>[[蛍火虫]]<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby> "firefly"
 - <ruby>[火炉](/words/火炉.md)<rt>ㄏ⺢ㄌㄛ</rt></ruby> - furnace
 - [[火山]]
 - [[火山島]]
