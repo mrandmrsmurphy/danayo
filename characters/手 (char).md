@@ -43,6 +43,7 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 尤]]
+- <ruby>[[凶手]]<rt>ㄏ⼜ㄫㄙ⼜</rt></ruby> "murderer; killer"
 - [[手帖]] "handwritten letter, notebook"
 - [[手足]] "limbs"
 - [[手巾]] "towel"

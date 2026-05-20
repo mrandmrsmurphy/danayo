@@ -53,4 +53,5 @@ boundedness: 100
 [[Lookup/CC/finals/韻 覺]]
 - [[角逐]] "compete, contend for"
 ## Words
+- <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
 - <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"

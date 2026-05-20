@@ -46,6 +46,7 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 影]]
 [[../lookup/CC/finals/韻 鈬開]]
+- <ruby>[[凶悪]]<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby> "heinous; atrocious"
 - <ruby>[[嫌悪]]<rt>ㄏㄝㄇㄚㄎ</rt></ruby> "hatred; aversion"
 - [[悪化]] "worsen,aggravate, deteriorate"
 - [[悪劣]] "inferior, vile, nasty"

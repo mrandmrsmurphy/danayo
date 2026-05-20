@@ -45,6 +45,7 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 庚二開]]
+- <ruby>[[五更]]<rt>ㄛㄍㄚㄫ</rt></ruby> "the five watches of the night"
 - [[更改]] "- revise"
 - [[更新]] "renew, replace, refresh"
 - <ruby>[[更迭]]<rt>ㄍㄚㄫㄉㄚㄊ</rt></ruby> "to change; personnel reshuffle"
