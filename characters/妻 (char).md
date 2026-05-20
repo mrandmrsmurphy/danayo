@@ -44,3 +44,5 @@ boundedness: 50
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 齊開]]
+## Chengyu
+- <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"

@@ -13,12 +13,12 @@ views:
       - japanese
       - korean
       - vietnamese
-      - origin
       - date-last-perfect
+      - file.mtime
     sort:
-      - property: origin
+      - property: file.mtime
         direction: ASC
-      - property: date-last-perfect
+      - property: origin
         direction: ASC
       - property: 諺文
         direction: ASC

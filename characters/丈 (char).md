@@ -58,3 +58,5 @@ boundedness: 80
 	4. <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby> - father's sister's husband
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 陽開]]
+## Chengyu
+- <ruby>[[波乱万丈]]<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> "full of dramatic ups and downs"
