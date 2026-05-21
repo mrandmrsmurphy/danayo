@@ -38,13 +38,14 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 大.
 >For the word, see [大](words/大.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a person facing forward. Original form of 夫 (OC \*pa, \*ba, “man”), phonetically borrowed for 大 (OC \*daːds, \*daːds, “big”). Compare 人, which represents the profile of a person.
+- [[Lookup/CC/initials/聲 定]]
+[[Lookup/CC/finals/韻 泰開]]
 
-- [List of 象形](lookup/List%20of%20象形.md): a person facing forward. Original form of 夫 (OC *pa, *ba, “man”), phonetically borrowed for 大 (OC *daːds, *daːds, “big”). Compare 人, which represents the profile of a person.
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
@@ -81,5 +82,3 @@ boundedness: 90
 23. [[大同]]
 24. [[大麦茶]]
 - <ruby>[[大蛤]]<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby> "clam"
-[[Lookup/CC/initials/聲 定]]
-[[Lookup/CC/finals/韻 泰開]]

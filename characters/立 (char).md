@@ -8,7 +8,9 @@ japanese:
   - RYUU
 japanese_native: た-つ
 vietnamese:
-  - lập, lụp, sập
+  - lập
+  - lụp
+  - sập
 middle_chinese_initial: l
 middle_chinese_final: iɪp
 stroke_count: 5
@@ -41,10 +43,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a person standing on the ground; compare 大 and 文.
-- 92nd most used character in Classical Chinese.
+- 92nd most used character in Classical Chinese. · [ㄌㄧㄆ](../syllables/ㄌㄧㄆ.md) · [[Lookup/CC/initials/聲 來|l]] [[Lookup/CC/finals/韻 緝A三|iɪp]]
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – a person standing on the ground; compare 大 and 文. This characters is also a contracted form of 辛 on top of 妾 and 童. Unrelated to 音.
-- [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md)) · [ㄌㄧㄆ](../syllables/ㄌㄧㄆ.md) · [[Lookup/CC/initials/聲 來|l]] [[Lookup/CC/finals/韻 緝A三|iɪp]]
+- [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md)) 
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
