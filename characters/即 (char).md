@@ -44,8 +44,7 @@ boundedness: 100
 ```
 ## Notes
 - [List of 会意](../lookup/List%20of%20会意.md) of [[皀]] ("ancient round-mouthed food vessel") + [[卩]] ("to kneel") — to come near to eat; to approach.
-[[Lookup/CC/initials/聲 精]]
-[[Lookup/CC/finals/韻 職開]]
-
+- [SKIP-1-5-2](lookup/SKIP/SKIP-1/SKIP-1-5-2.md) ([Stroke 7](lookup/Stroke/Stroke%207.md)) · [ㄐㄜㄎ](syllables/ㄐㄜㄎ.md) · [[Lookup/CC/initials/聲 精|t͡s]] [[Lookup/CC/finals/韻 職開|ɨk]]
 ## Chengyu
-- <ruby>[少即是多](/chengyu/少即是多.md)<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>
+- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>
+- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> "form is precisely emptiness"

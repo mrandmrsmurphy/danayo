@@ -51,6 +51,7 @@ boundedness: 100
 - [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 8](lookup/Stroke/Stroke%208.md)) · [ㄎㄛㄫ](syllables/ㄎㄛㄫ.md) · [[Lookup/CC/initials/聲 溪|kʰ]] [[Lookup/CC/finals/韻 東一|uŋ]]
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> “unprecedented and unrepeatable; without parallel before or after”
+- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> “form is precisely emptiness”
 ## Words
 - [[空前]] “unprecedented, as never before”
 - [[空手]] “be empty handed, be unarmed”
