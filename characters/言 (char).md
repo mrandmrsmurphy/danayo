@@ -52,3 +52,5 @@ boundedness: 80
 - <ruby>[用言](/words/用言.md)<rt>⼄ㄫ·ㄝㄋ</rt></ruby> - declinable word
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 元開]]
+## Chengyu
+- <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ·⼄</rt></ruby> "not speaking a word; total silence"
