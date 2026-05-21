@@ -44,6 +44,10 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 端]]
-[[Lookup/CC/finals/韻 添]]
+## Notes
+- 形声: semantic [[Radical 086|火]] ("fire; dot") + phonetic [[占]]. (Traditional 點 uses 黑 as semantic; shinjitai 点 substitutes 火.)
+- [SKIP-2-5-4](lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- 3957th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 添|em]] → [ㄉㄝㄇ](syllables/ㄉㄝㄇ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+## Words
+- <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> "solstice point"

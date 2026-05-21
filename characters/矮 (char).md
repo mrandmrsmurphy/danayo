@@ -43,6 +43,10 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 佳開]]
+## Notes
+- 形声: semantic [[Radical 111|矢]] ("arrow") + phonetic [[委]].
+- [SKIP-1-5-8](lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 9899th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [⺢ㄧ](syllables/⺢ㄧ.md)
+- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name](lookup/Korean/Korean%20Name.md)
+## Words
+- <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"

@@ -41,9 +41,12 @@ boundedness: 80
 ```
 
 ## Notes
+- [List of 象形](lookup/List%20of%20象形.md): an arrow or bird descending to the ground — to arrive, to reach; the point of utmost arrival.
+- [SKIP-2-3-3](lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
+- 47th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄐㄧㄜ](syllables/ㄐㄧㄜ.md)
+- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
 - [[夏至]]
-[[Lookup/CC/initials/聲 章]]
-[[Lookup/CC/finals/韻 脂A三開]]
 - [[至善]] "summum bonum"
+- <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> "solstice point"

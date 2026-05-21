@@ -57,6 +57,7 @@ boundedness: 55
 - <ruby>[[航行]]<rt>ㄏㄚㄫㄏㄚㄫ</rt></ruby> "navigate, sail"
 - [[行動]] "act, action"
 - [[行列]] "matrix, queue"
+- <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
 - <ruby>[[修飾先行]]<rt>ㄙㄨㄛㄙㄧㄎㄙㄝㄋㄏㄚㄫ</rt></ruby> "modifiers precede; the modifier-first rule"

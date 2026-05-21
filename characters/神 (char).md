@@ -46,6 +46,9 @@ boundedness: 90
 ## Notes
 
 - 形声 (OC \*hlin): semantic [[Radical 113|示]] ("god; deity") + phonetic [[申]] (OC \*hlin).
+- [SKIP-1-5-5](lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 218th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Chengyu
 - [神経衰弱](../chengyu/神経衰弱.md)
 - [[除我莫神]]
@@ -54,9 +57,8 @@ boundedness: 90
 - <ruby>[[神父]]<rt>ㄙㄧㄋㄅㄨ</rt></ruby> "father; priest (Eastern Orthodox)"
 - <ruby>[[神学院]]<rt>ㄙㄧㄋㄏㄚㄎ⼔ㄋ</rt></ruby> "seminary"
 - <ruby>[[神聖]]<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby> "sacred, holy"
-[[Lookup/CC/initials/聲 禪]]
-[[Lookup/CC/finals/韻 眞A開]]
 - [[神話]] "myth, fairytale, mythology"
 - [[神経]] "nerve, Mystery Classic"
 - [[神秘]] "mystery, mystical secret"
 - [[神農]] "Shennong"
+- <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"

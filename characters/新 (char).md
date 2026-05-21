@@ -42,7 +42,8 @@ boundedness: 90
 ## Notes
 - 形声 (OC \*siŋ): semantic [[Radical 160|辛]] ("") + phonetic [[斤]] (OC \*siŋ).
 -  形声 (OC \*siŋ): phonetic [[characters/辛]] (OC \*siŋ) + semantic [斤](Radical%20069) — to chop wood. Original form of [薪](characters/薪.md) (OC \*siŋ, “firewood”). The character was later borrowed to represent 新 (OC \*siŋ, “new”) as an instance of jiajie ([假借](words/仮借.md)).  A semantic [木 (char)](characters/木%20(char).md) was later added in the bronze inscriptions which merged with the 辛.
-- [SKIP-1-9-4](lookup/SKIP/SKIP-1/SKIP-1-9-4.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) - [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
+- [SKIP-1-9-4](lookup/SKIP/SKIP-1/SKIP-1-9-4.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 626th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
 ## Chengyu
 - [[温故知新]]
@@ -50,6 +51,5 @@ boundedness: 90
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
 - <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> - New Year
 - <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> - neologism
-- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> - Singapore
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 眞A開]]
+- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> "Singapore"
+- <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova; novae"

@@ -52,7 +52,10 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-
+- [List of 象形](lookup/List%20of%20象形.md): a person (大) with a stroke marking the top — heaven, the sky above.
+- [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
+- 20th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄊㄝㄋ](syllables/ㄊㄝㄋ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Chengyu
 - [[天長地久]]
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
@@ -80,5 +83,4 @@ boundedness: 80
 - [[天狼星]]
 - <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> "nadir"
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
-[[Lookup/CC/initials/聲 透]]
-[[Lookup/CC/finals/韻 先開]]
+- <ruby>[[天頂]]<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> "zenith"
