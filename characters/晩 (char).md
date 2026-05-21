@@ -43,13 +43,11 @@ boundedness:
 ## Notes
 - 形声 (OC \*monʔ): semantic [日](Radical%20072) + phonetic [免](characters/免.md) (OC \*mronʔ).
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
-- [SKIP-1-4-8](lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄇㄛㄋ](syllables/ㄇㄛㄋ.md)
+- [SKIP-1-4-8](lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) · [ㄇㄛㄋ](syllables/ㄇㄛㄋ.md) · [[Lookup/CC/initials/聲 微|ɱ]] [[Lookup/CC/finals/韻 元合|ʉɐn]]
 
 ## Word
 - <ruby>[今晩安](/words/今晩安.md)<rt>ㄍㄧㄇㄇㄛㄋ·ㄚㄋ</rt></ruby> - good evening
 - <ruby>[晩飯](/words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby> - dinner
 - <ruby>[晩餐](/words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby> - supper
 ## Chengyu
-- <ruby>[大器晩成](/chengyu/大器晩成.md)<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> late bloomer
-[[Lookup/CC/initials/聲 微]]
-[[Lookup/CC/finals/韻 元合]]
+- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"

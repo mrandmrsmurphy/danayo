@@ -48,6 +48,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - [[因小失大]]
+- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
 
 ## Word
 - <ruby>[[寬大]]<rt>ㄎ⺢ㄋㄉㄚㄧ</rt></ruby> "magnanimous; lenient"
