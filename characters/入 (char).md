@@ -48,7 +48,7 @@ boundedness: 70
 - [[ㄋㄧㄆ]], [[Stroke 02]], [[SKIP-4-2-4]]
 
 ## Chengyu
-- [[単刀直入]]
+- <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point; to cut directly to the heart of the matter without preamble"
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 緝A三]]
 - [[入籍]] "enter"

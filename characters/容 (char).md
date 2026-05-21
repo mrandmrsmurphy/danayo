@@ -55,3 +55,5 @@ boundedness: 90
 [[Lookup/CC/finals/韻 鍾]]
 - <ruby>[[容恕]]<rt>⼄ㄫ·ㄙ⼄</rt></ruby> "to forgive"
 - [[容量]] "volume, capacity"
+## Chengyu
+- <ruby>[[異体不容]]<rt>ㄧㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted; one canonical character form only"

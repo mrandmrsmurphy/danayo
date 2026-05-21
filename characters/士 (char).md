@@ -49,7 +49,7 @@ boundedness: 90
 - [List of 象形](lookup/List%20of%20象形.md): a war axe. Later, it took the meaning of "soldier" and eventually "officer, intellectual". Partly related to 王 since in at least two characters it should represent a ritual axe, perhaps made of jade: in fact, it is related to 圭 and 金 despite their appearance.
 ## Chengyu
 - <ruby>[国士無双](/chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍ⺢ㄫ</rt></ruby>
-- [[選士唯賢]]
+- <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ·⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"
 [[Lookup/CC/initials/聲 崇]]
 [[Lookup/CC/finals/韻 之]]
 

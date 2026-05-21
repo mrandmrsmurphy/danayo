@@ -58,3 +58,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 脂A合]]
+## Chengyu
+- <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ·⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"

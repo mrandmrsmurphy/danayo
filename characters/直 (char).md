@@ -50,3 +50,5 @@ boundedness: 90
 [[Lookup/CC/finals/韻 職開]]
 - [[直観]] "intuition"
 - [[直角]] "right angle"
+## Chengyu
+- <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point; to cut directly to the heart of the matter without preamble"
