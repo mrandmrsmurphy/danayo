@@ -49,6 +49,7 @@ boundedness: 100
 - ## Chengyu
 - [[羊頭狗肉]]
 - [徹頭徹尾](../chengyu/澈頭澈尾.md)
+- <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
 
 ## Words
 - [[白頭翁]]

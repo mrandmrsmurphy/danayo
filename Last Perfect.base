@@ -12,7 +12,7 @@ views:
       - file.mtime
     sort:
       - property: file.mtime
-        direction: DESC
+        direction: ASC
       - property: date-last-perfect
         direction: DESC
       - property: file.name
@@ -28,7 +28,7 @@ views:
       - property: alias
         direction: ASC
     columnSize:
-      file.name: 83
+      file.name: 159
       note.注音: 132
       note.羅馬字: 160
       note.諺文: 62
