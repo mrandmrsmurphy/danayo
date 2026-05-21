@@ -48,13 +48,15 @@ boundedness: 55
 [[nav/char_info]]
 ```
 
+## Notes
+- [指事](lookup/List%20of%20指事.md): a crossroads — two paths crossing; to walk, to travel.
+- [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
+- 40th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄏㄚㄫ](syllables/ㄏㄚㄫ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[航行]]<rt>ㄏㄚㄫㄏㄚㄫ</rt></ruby> "navigate, sail"
-## Chengyu
-- <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
-
-# Notes
-[[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 唐開]]
 - [[行動]] "act, action"
 - [[行列]] "matrix, queue"
+## Chengyu
+- <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
+- <ruby>[[修飾先行]]<rt>ㄙㄨㄛㄙㄧㄎㄙㄝㄋㄏㄚㄫ</rt></ruby> "modifiers precede; the modifier-first rule"
