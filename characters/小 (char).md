@@ -42,15 +42,14 @@ boundedness: 80
 ```
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): three small dots = small.
-
-
+- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
+- [SKIP-1-1-2](lookup/SKIP/SKIP-1/SKIP-1-1-2.md) ([Stroke 3](lookup/Stroke/Stroke%203.md)) · [ㄙㄛ](syllables/ㄙㄛ.md) · [[Lookup/CC/initials/聲 心|s]] [[Lookup/CC/finals/韻 宵A|iᴇu]]
 ## Words
 - [[小人]] - petty person
 - [[小冊子]]
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 宵A]]
 - [[小数点]] "decimal point"
 - [[小腸]] "small interstine"
 - <ruby>[[杪小]]<rt>ㄇ⼄ㄙㄛ</rt></ruby> "tiny; minute; insignificant"
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
+- <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"

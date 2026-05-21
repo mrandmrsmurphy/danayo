@@ -44,6 +44,8 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 明]]
-[[Lookup/CC/finals/韻 戈一合]]
+## Notes
+- 形声: semantic [[Radical 112|石]] ("stone") + phonetic [[麻]].
+- [SKIP-3-3-13](lookup/SKIP/SKIP-3/SKIP-3-3-13.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md)) · [ㄇㄚ](syllables/ㄇㄚ.md) · [[Lookup/CC/initials/聲 明|m]] [[Lookup/CC/finals/韻 戈一合|uɑ]]
+## Chengyu
+- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"

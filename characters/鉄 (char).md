@@ -51,13 +51,11 @@ boundedness: 75
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Words
-- <ruby>[[銑鉄]]<rt>ㄙㄝㄋㄊㄝㄊ</rt></ruby> "pig iron, cast iron"
-
 ## Notes
 
-- 形声 (OC \*hliɡ): semantic [[Radical 167|金]] ("") + phonetic [[失]] (OC ).
-## Chengyu 
-- [[磨穿鉄硯]]
-[[Lookup/CC/initials/聲 透]]
-[[Lookup/CC/finals/韻 屑開]]
+- 形声: semantic [[Radical 167|金]] ("metal") + phonetic [[失]]. (Note: 鉄 is the shinjitai of 鐵; the phonetic component 失 is a simplification of the original 戈+矢 complex.)
+- [SKIP-1-8-5](lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) · [ㄊㄝㄊ](syllables/ㄊㄝㄊ.md) · [[Lookup/CC/initials/聲 透|tʰ]] [[Lookup/CC/finals/韻 屑開|et]]
+## Words
+- <ruby>[[銑鉄]]<rt>ㄙㄝㄋㄊㄝㄊ</rt></ruby> "pig iron, cast iron"
+## Chengyu
+- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"

@@ -43,8 +43,10 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 昌]]
-[[Lookup/CC/finals/韻 仙A三合]]
+## Notes
+- [SKIP-2-3-7](lookup/SKIP/SKIP-2/SKIP-2-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md)) · [ㄑㄝㄋ](syllables/ㄑㄝㄋ.md) · [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] [[Lookup/CC/finals/韻 仙A三合|iuᴇn]]
+## Words
 - [[穿山甲]] "pangolin"
 - [[穿孔机]] "puncher, perforator, boring machine"
+## Chengyu
+- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"

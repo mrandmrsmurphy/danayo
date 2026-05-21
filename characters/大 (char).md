@@ -47,7 +47,7 @@ boundedness: 90
 - [List of 象形](lookup/List%20of%20象形.md): a person facing forward. Original form of 夫 (OC *pa, *ba, “man”), phonetically borrowed for 大 (OC *daːds, *daːds, “big”). Compare 人, which represents the profile of a person.
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
-- [[因小失大]]
+- <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
 - <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
 
 ## Word

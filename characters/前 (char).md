@@ -45,8 +45,10 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 從]]
-[[Lookup/CC/finals/韻 先開]]
+## Notes
+- [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 9](lookup/Stroke/Stroke%209.md)) · [ㄐㄝㄋ](syllables/ㄐㄝㄋ.md) · [[Lookup/CC/initials/聲 從|d͡z]] [[Lookup/CC/finals/韻 先開|en]]
+## Words
 - [[前置詞]] "preposition"
-- [[前後]] "front and rear,before and after,from beginning to end,consequences"
+- [[前後]] "front and rear, before and after, from beginning to end, consequences"
+## Chengyu
+- <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

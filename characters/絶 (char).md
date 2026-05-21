@@ -47,8 +47,10 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 從]]
-[[Lookup/CC/finals/韻 薛A三合]]
+## Notes
+- [SKIP-1-6-6](lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) · [ㄐ⼔ㄊ](syllables/ㄐ⼔ㄊ.md) · [[Lookup/CC/initials/聲 從|d͡z]] [[Lookup/CC/finals/韻 薛A三合|iuᴇt]]
+## Words
 - [[絶後]] "never happen again, not have children"
 - [[絶対]] "absolute, total, unconditional"
+## Chengyu
+- <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

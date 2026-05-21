@@ -43,9 +43,11 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 侯]]
+## Notes
+- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 9](lookup/Stroke/Stroke%209.md)) · [ㄏㄨㄛ](syllables/ㄏㄨㄛ.md) · [[Lookup/CC/initials/聲 曉|x]] [[Lookup/CC/finals/韻 侯|əu]]
+## Words
 - [[後置詞]] "postposition"
 - [[後置]] "place after"
 - [[後悔]] "regret"
+## Chengyu
+- <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
