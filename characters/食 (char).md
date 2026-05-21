@@ -48,6 +48,7 @@ boundedness: 90
 - 形声 (OC \*lɯɡs, \*ɦljɯɡ): semantic [[亼]] ("") + phonetic [[皀]] (OC \*zub).
 ## Chengyu
 - [[弱肉強食]]
+- <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 職開]]
 - <ruby>[[膳食]]<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby> "meal; diet"

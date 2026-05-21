@@ -51,3 +51,5 @@ boundedness: 75
 [[Lookup/CC/finals/韻 侵B]]
 - [[飲食物]] "foods and drinks"
 - [[飲食]] "eat and drink"
+## Chengyu
+- <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"

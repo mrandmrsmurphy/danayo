@@ -46,7 +46,7 @@ boundedness: 90
 ## Notes
 
 ## Chengyu
-- <ruby>[暴飲暴食](/chengyu/暴飲暴食.md)<rt>ㄅㄛㄎ·ㄚㄇㄅㄛㄎㄙㄧㄎ</rt></ruby>
+- <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 屋一]]
 - <ruby>[[凶暴]]<rt>ㄏ⼜ㄫㄅㄛㄎ</rt></ruby> "ferocious; brutal"
