@@ -44,6 +44,6 @@ boundedness: 75
 
 - 会意 of [[臣]] ("eye pointing down") + [[人]] ("person").
 ## Chengyu
-- [[臥薪嘗胆]]
+- <ruby>[[臥薪嘗胆]]<rt>⺢ㄙㄧㄋㄙ⼘ㄫㄉㄚㄇ</rt></ruby> "sleep on firewood and taste gall; endure voluntary hardship to fuel the will to prevail"
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 戈一合]]
