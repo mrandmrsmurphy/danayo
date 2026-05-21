@@ -278,7 +278,6 @@ tags: [lookup]
 [克 (char)](../../characters/克%20(char).md): 5
 [團](../../characters/団.md): 5
 [[官]]: 5
-[[旗]]: 5
 [[好 (char)]]: 5
 [[奇]]: 5
 [[疑]]: 5
