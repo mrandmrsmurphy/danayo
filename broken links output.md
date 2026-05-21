@@ -10,7 +10,6 @@ Where to find broken links
 - [[characters/炎]] 3
 - [[characters/猩]] 5
 - [[characters/率]] 8
-- [[characters/禁]] 20
 - [[characters/等 (char)]] 5
 - [[characters/肥]] 10
 - [[characters/臘]] 3
