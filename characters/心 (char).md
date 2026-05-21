@@ -44,6 +44,8 @@ boundedness: 90
 ## Notes
 
 - [List of 象形](lookup/List%20of%20象形.md): a heart, now highly stylized.
+- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
+- [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 4](lookup/Stroke/Stroke%204.md)) · [ㄙㄧㄇ](syllables/ㄙㄧㄇ.md) · [[Lookup/CC/initials/聲 心|s]] [[Lookup/CC/finals/韻 侵A|iɪm]]
 ## Words
 - <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
 - <ruby>[[心緒]]<rt>ㄙㄧㄇ·ㄙ⼄</rt></ruby> "feelings; state of mind"
@@ -59,7 +61,5 @@ boundedness: 90
 
 ## Chengyu
 - [[誠心誠意]]
-- [[安心立命]]
+- <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
 - [[邪心常悪]]
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 侵A]]
