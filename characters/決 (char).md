@@ -59,3 +59,5 @@ boundedness: 90
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 屑合]]
 - [[決定]] "decide, choose"
+## Chengyu
+- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"

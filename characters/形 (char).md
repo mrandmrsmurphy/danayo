@@ -54,3 +54,5 @@ While this character can appear alone, it is somewhat rare to do so.
 ## Words
 - <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
 - <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"
+## Chengyu
+- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"
