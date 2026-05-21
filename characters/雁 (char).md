@@ -49,3 +49,5 @@ boundedness: 65
 
 ## Words
 - <ruby>[[雁]]<rt>ㄚㄋ</rt></ruby> "wild goose"
+## Chengyu
+- <ruby>[[沈魚落雁]]<rt>ㄑㄧㄇ⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> "so beautiful that fish sink and geese descend"

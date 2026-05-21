@@ -53,7 +53,7 @@ boundedness: 35
 - <ruby>[周魚](/words/周魚.md)<rt>ㄐㄨㄛ·⼄</rt></ruby> "sea bream"
 
 ## Chengyu
-- [[沈魚落雁]]
+- <ruby>[[沈魚落雁]]<rt>ㄑㄧㄇ⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> "so beautiful that fish sink and geese descend"
 - [[轄魚鳥牲]]
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 魚]]
