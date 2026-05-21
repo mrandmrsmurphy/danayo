@@ -46,7 +46,7 @@ boundedness: 90
 - [全 (char)](characters/全%20(char).md)
 
 ## Chengyu
-- <ruby>[[尊王㐮夷]]<rt>ㄐㄛㄋ⺢ㄫㄙ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians; uphold the sovereign and reject foreign intrusion"
+- <ruby>[[../chengyu/尊王攘夷]]<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians; uphold the sovereign and reject foreign intrusion"
 - [[王冠]]
 - [[王妃]]
 [[Lookup/CC/initials/聲 云]]

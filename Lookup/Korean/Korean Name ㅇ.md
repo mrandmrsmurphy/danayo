@@ -40,7 +40,7 @@ All have been checked for redirects.
 [[葯]] [[蒻]]
 
 ### 양 
-[襄](characters/㐮.md) 孃 --> 娘 [[漾]] [佯](characters/羊.md) [[恙]] [攘](characters/㐮.md) [[暘]] [[瀁]] [[煬]] [痒](characters/瘍.md) [瘍](characters/瘍.md) [[禳]] [穰](characters/穣%20(char).md) [釀](characters/醸.md) 
+[襄](../../characters/攘.md) 孃 --> 娘 [[漾]] [佯](characters/羊.md) [[恙]] [攘](characters/㐮.md) [[暘]] [[瀁]] [[煬]] [痒](characters/瘍.md) [瘍](characters/瘍.md) [[禳]] [穰](characters/穣%20(char).md) [釀](characters/醸.md) 
 
 ### 어 
 [圄](characters/圄.md) [[瘀]] [禦](characters/御.md) [馭](characters/馭.md) [[齬]] [[唹]]
