@@ -1,5 +1,7 @@
 ---
 tags: book
+english:
+  - Rites of Zhou
 ---
 
 > [List of Books](List%20of%20Books.md)

@@ -75,4 +75,4 @@
 - 管子
 
 ## Others
-- [周礼 (book)](translation/周礼%20(book).md)
+- [周礼 (book)](translation/周礼%20(book).md) _Rites of Zhou_
