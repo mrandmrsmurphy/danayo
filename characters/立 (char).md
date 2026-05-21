@@ -51,3 +51,5 @@ boundedness: 90
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
 - <ruby>[[義以立名]]<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
+## Words
+- <ruby>[[立憲]]<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby> "constitutional governance; constitutionalism"

@@ -63,5 +63,6 @@ boundedness: 80
 - <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova; novae"
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
+- <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet; Singapore"
 - [[星条旗]] "stars and stripes"
 - [[星霜]] "time and years"
