@@ -9,4 +9,6 @@ aliases:
 ---
 > [List of Books](List%20of%20Books.md)
 ## 1
+- <ruby>可<rt>ㄎㄜ</rt></ruby><ruby>是<rt>ㄙㄝ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby>
+
 道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，衆妙之門。
