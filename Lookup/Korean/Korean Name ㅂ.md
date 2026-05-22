@@ -19,7 +19,7 @@ These have all been checked for redirects.
  [陪 (char)](characters/陪%20(char).md) [裴](characters/裴.md) [[湃]] [俳](characters/俳.md) [[徘]] [[焙]] [[胚]] [[褙]] [賠](characters/賠.md) [北](characters/北.md)
 
 ### 백 
- [佰](characters/百.md) [帛](characters/帛.md) [[魄]] [柏 (char)](characters/柏%20(char).md) [[苩]] 
+ [佰](../../characters/百%20(char).md) [帛](characters/帛.md) [[魄]] [柏 (char)](characters/柏%20(char).md) [[苩]] 
 
 ### 번 
  [蕃](characters/蕃.md) [幡](characters/幡.md) [樊](characters/藩.md) [[燔]] [[磻]] [藩](characters/藩.md)

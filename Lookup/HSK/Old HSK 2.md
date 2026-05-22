@@ -1429,7 +1429,7 @@ tags: [lookup]
 [[扩]]: 1
 [[垃]]: 1
 [[圾]]: 1
-[百](../../characters/百.md): 1
+[百 (char)](../../characters/百%20(char).md): 1
 [闆](../../characters/板.md): 1
 [媽](../../characters/媽.md): 1
 [娘 (char)](../../characters/娘%20(char).md): 1

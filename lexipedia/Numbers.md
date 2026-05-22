@@ -10,7 +10,7 @@ language: English
 7. seven <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>
 8. eight <ruby>[八](/words/八.md)<rt>ㄅㄚㄊ</rt></ruby>
 9. nine <ruby>[九](/words/九.md)<rt>ㄎ⼜</rt></ruby>
-10. ten <ruby>[一十](/words/一十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>
+10. ten <ruby>[十](../words/十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>
 11. eleven <ruby>[十一](/words/十一.md)<rt>ㄙㄧㄆ·ㄧㄊ</rt></ruby>
 12. twelve <ruby>[十二](/words/十二.md)<rt>ㄙㄧㄆㄋㄧㄜ</rt></ruby>
 	13. [[十三]]

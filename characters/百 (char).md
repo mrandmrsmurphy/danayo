@@ -1,8 +1,8 @@
 ---
-mandarin: "bǎi"
+mandarin: bǎi
 cantonese: baak3
-korean: "백"
-korean_native: "일백"
+korean: 백
+korean_native: 일백
 japanese:
   - HYAKU
   - HAKU
@@ -11,26 +11,26 @@ vietnamese:
   - bá
   - bách
 middle_chinese_initial: p
-middle_chinese_final: "ɣæk"
+middle_chinese_final: ɣæk
 stroke_count: 6
-radical: "白"
+radical: 白
 skip_number: 2-2-4
 grade_level: "1"
 pos: ""
 english:
   - hundred
 羅馬字: bag
-諺文: "박"
+諺文: 박
 joyo_level: "1"
 hsk_level: "1"
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 107
 mc_id: 64
-graphemic_classification: "白"
-stand_in: "一百"
+graphemic_classification: 白
+stand_in: 百
 aliases:
   - 佰
-注音: "ㄅㄚㄎ"
+注音: ㄅㄚㄎ
 kwin: false
 tags:
   - character
@@ -45,7 +45,9 @@ boundedness: 80
 
 ## Words
 - <ruby>[[二百]]<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby> "two hundred"
-### Links
-![[nav/Numerals]]
 - [[百済]] "Baekje"
 - [[百科]] "all knowledge"
+
+
+### Links
+![[nav/Numerals]]

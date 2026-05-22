@@ -26,7 +26,7 @@ tags: [lookup]
 13. <ruby>[朶](/characters/朶.md)<rt>ㄉㄚ</rt></ruby> "flower blossom"
 14. <ruby>[毎](/characters/毎%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> "each"
 15. <ruby>[牟](/characters/牟.md)<rt>ㄇㄨ</rt></ruby> "barley"
-16. <ruby>[百](/characters/百.md)<rt>ㄅㄚㄎ</rt></ruby> "hundred"
+16. <ruby>[百 (char)](../../../characters/百%20(char).md)<rt>ㄅㄚㄎ</rt></ruby> "hundred"
 17. <ruby>[缶](/characters/缶.md)<rt>ㄍ⺢ㄋ</rt></ruby> "jar"
 18. <ruby>[而](/characters/而%20(char).md)<rt>ㄋㄧ</rt></ruby> "and"
 19. <ruby>[色](/characters/色.md)<rt>ㄙㄧㄎ</rt></ruby> "color"

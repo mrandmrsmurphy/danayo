@@ -49,11 +49,14 @@ boundedness: 75
 - [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md)
 ## Words
 - [[十分]] - very, extremely, ten minutes
+- [[../words/五代十国]] - Five Dynasties Ten Kingdoms (period)
+
 ### Months
 - [[十月]] - October
 - [[十一月]] - November
 - [[十二月]] - December
 ## Numbers
+- [[../words/十]] - 10
 - [[十一]] - 11
 - [[十二]] - 12
 - [[十三]] - 13
@@ -71,10 +74,10 @@ boundedness: 75
 - [[七十]] - 70
 - [[八十]] - 80
 - [[九十]] - 90
-## Sayings
-- [[十人不滅]] - (Biblical) "For ten I will not destory"
-- [[../words/五代十国]] - Five Dynasties Ten Kingdoms (period)
+## Chengyu
+- [[十人不滅]] - (Biblical) "For ten I will not destroy"
 - [[五風十雨]] - "favorable climate for prosperity"
+- 
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 禪]]

@@ -7,7 +7,7 @@ tags: [lookup]
 3. !!爸!! -> Use 父
 4. [巴 (char)](../../characters/巴%20(char).md) 吧
 5. [白 (char)](../../characters/白%20(char).md)
-6. [百](../../characters/百.md)
+6. [百 (char)](../../characters/百%20(char).md)
 7. [班 (char)](../../characters/班%20(char).md)
 8. [半](../../characters/半.md)
 9. [幫](../../characters/幇.md)

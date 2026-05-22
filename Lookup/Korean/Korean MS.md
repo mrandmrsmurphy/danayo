@@ -308,7 +308,7 @@ tags: [lookup]
 [拜](../../characters/拝%20(char).md) (절 배) [盃](../../characters/杯%20(char).md) (잔 배)
 
 #### 백
-[白](../../characters/白%20(char).md) (흰 백) [百](../../characters/百.md) (일백 백)
+[白](../../characters/白%20(char).md) (흰 백) [百 (char)](../../characters/百%20(char).md) (일백 백)
 
 #### 번
 [番 (char)](../../characters/番%20(char).md) (차례 번)

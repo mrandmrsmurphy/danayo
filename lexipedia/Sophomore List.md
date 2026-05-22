@@ -13,7 +13,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- seven - <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>
 	- eight - <ruby>[八](/words/八.md)<rt>ㄅㄚㄊ</rt></ruby>
 	- nine - <ruby>[九](/words/九.md)<rt>ㄎ⼜</rt></ruby>
-	- ten - <ruby>[一十](/words/一十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>
+	- ten - <ruby>[十](../words/十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>
 	- hundred - <ruby>[一百](/words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>
 - Colors : 
 	- blue - <ruby>[紺](/words/紺.md)<rt>ㄍㄚㄇ</rt></ruby>

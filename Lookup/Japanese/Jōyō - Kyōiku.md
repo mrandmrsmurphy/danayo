@@ -17,7 +17,7 @@ The following prefecture names were added in 2017:
 8. [八](八%20(char)) : hachi (yattsu)    
 9. [九](九%20(char)) : kyū / ku (kokono-tsu)    
 10. [十 (char)](../../characters/十%20(char).md) : jū (tō)    
-11. [百](characters/百.md) : hyaku momo
+11. [百 (char)](../../characters/百%20(char).md) : hyaku momo
 12. [千](characters/千.md) sen chi
 13. [上](characters/上%20(char).md) : jō (ue)    
 14. [下](characters/下%20(char).md) : ka / ge (shita, moto)    
