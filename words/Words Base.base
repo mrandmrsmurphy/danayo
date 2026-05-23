@@ -11,10 +11,12 @@ views:
       - 注音
       - date-last-perfect
       - english
-      - 品詞
+      - pos
       - 諺文
       - file.mtime
     sort:
+      - property: pos
+        direction: ASC
       - property: 注音
         direction: ASC
       - property: file.mtime
@@ -28,8 +30,6 @@ views:
       - property: 品詞
         direction: ASC
       - property: japanese
-        direction: ASC
-      - property: pos
         direction: ASC
       - property: file.name
         direction: ASC
