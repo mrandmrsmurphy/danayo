@@ -16,14 +16,14 @@ Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚ�
 
 ### Landform
 The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
-Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>, <ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>, and defense (<ruby>[軍事](words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby>[[防守]]).
+Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>, <ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>, and <ruby>[軍事](words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby><ruby>[防守](/words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>.
 
 ### Political Development
-Historically, imperial rule (<ruby>[帝国](words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>[[制度]]) was dominant.  
-<ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>ti<ruby>[皇帝](words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
-<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>ti<ruby>[天皇](words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> served as sovereign ([[国主]]).
+Historically, <ruby>[帝国](words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> was dominant.  
+<ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby><ruby>[之](/words/之.md)<rt>ㄊㄧ</rt></ruby><ruby>[皇帝](words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
+<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby><ruby>[之](/words/之.md)<rt>ㄊㄧ</rt></ruby><ruby>[天皇](words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> served as sovereign ([[国主]]).
 
-In the modern period ([[../words/近代]]), constitutional systems ([[立憲]][[制度]]) and republics (<ruby>[共和](words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby>[[制度]]) emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>[社会](words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>[[改革]]).
+In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby>[立憲](/words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> and <ruby>[共和](words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[外戦]]), or social reform (<ruby>[社会](words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
 <ruby>共通<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄫㄍ⼘ㄨ</rt></ruby><ruby>伝播<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏ⺢</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>.
@@ -41,7 +41,7 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 - <ruby>[高綿](words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>
 - <ruby>[寮国](words/寮国.md)<rt>ㄌ⼘ㄨㄍㄛㄎ</rt></ruby>
 - <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
-- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> a.k.a. [[獅城]] a.k.a. [[星洲]]
+- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> a.k.a. <ruby>[獅城](/words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> a.k.a. <ruby>[星洲](/words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛㄋㄧㄜㄙㄝㄧ·ㄚ</rt></ruby>  
 - Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>.
@@ -57,7 +57,7 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) 
 - <ruby>[印度](words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>  
 - Pakistan (巴基斯坦)  
 - Bangladesh (孟加拉)  
-- Sri Lanka (獅子国)  
+- <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄧㄍㄛㄎ</rt></ruby>
 - Nepal (尼泊爾)  
 - Bhutan (不丹)
 The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>[[界線]]).
