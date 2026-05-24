@@ -61,3 +61,4 @@ boundedness: 100
 - [[正弦波]] "sine wave, sinusoid"
 - [[正確]] "accurate, correct, proper"
 - [[正餐]] "dinner"
+- [[正大]] "proper; upright"

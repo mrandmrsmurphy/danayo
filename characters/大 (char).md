@@ -83,3 +83,4 @@ boundedness: 90
 - <ruby>[[大同]]<rt>ㄉㄚㄧㄉㄛㄫ</rt></ruby> "Great Unity; utopia"
 - <ruby>[[大麦茶]]<rt>ㄉㄚㄧㄇㄚㄎㄑㄚ</rt></ruby> "barley tea"
 - <ruby>[[大蛤]]<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby> "clam"
+- <ruby>[[正大]]<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby> "proper; upright"

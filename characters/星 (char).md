@@ -56,6 +56,7 @@ boundedness: 80
 - Derived characters: 惺, 湦, [[猩]], 暒, 煋, 瑆, 腥, 睲, 䃏, 䗌, 謃, [[醒]], 鍟 (𰾝), 鯹 (𬶢), 戥, 篂
 
 ## Words
+- <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
 - <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby> "Big Dipper"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby> - Mercury (planet)

@@ -45,6 +45,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 模]]
+
+## Words
+- <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
