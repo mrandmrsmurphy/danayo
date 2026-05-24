@@ -47,7 +47,6 @@ Where to find broken links
 - [[grammar/文法 - 04句法]]
 - [[grammar/文法 - 05形態]]
 - [[grammar/文法 - 97品詞]]
-- [[grammar/文法 - 98違法字]]
 
 ## Lexipedia
 - [[lexipedia/Astronomy]]

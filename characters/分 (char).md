@@ -63,3 +63,4 @@ boundedness: 95
 [[Lookup/CC/finals/韻 文]]
 - [[分配]] "distribute,partition,share"
 - [[分之]] "fractions times"
+- <ruby>[[分析]]<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby> "analyze, analysis"
