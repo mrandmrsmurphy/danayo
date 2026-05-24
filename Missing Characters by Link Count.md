@@ -336,7 +336,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[竣]] · [[榛]] · [[孜]] · [[柾]]
 
 ### Old HSK 3 + Korean Name ㅅ
-[[嶼]] · [[殲]] · [[爍]]
+[[characters/屿]] · [[殲]] · [[爍]]
 
 ### Old HSK 4 + Korean Name ㅈ
 [[籌]] · [[蔗]] · [[鵲]]

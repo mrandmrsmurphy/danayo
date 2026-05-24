@@ -47,4 +47,4 @@ boundedness: 75
 [[Lookup/CC/finals/韻 豪]]
 
 ## Words
-- <ruby>[[島嶼]]<rt>ㄊㄚㄨㄙ⼄</rt></ruby> "islands; islets; archipelago"
+- <ruby>[[../words/島屿]]<rt>ㄊㄚㄨㄙ⼄</rt></ruby> "islands; islets; archipelago"

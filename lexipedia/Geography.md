@@ -154,7 +154,7 @@ Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄫㄐㄝ
 The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems (自然体系).
 
 ## Oceania
-<ruby>[[大洋洲]]<rt>ㄉㄚㄧ·⼘ㄫㄐㄨㄛ</rt></ruby> consists largely of island states ([[島嶼]]<ruby>[国家](words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
+<ruby>[[大洋洲]]<rt>ㄉㄚㄧ·⼘ㄫㄐㄨㄛ</rt></ruby> consists largely of <ruby>[島屿](/words/島屿.md)<rt>ㄊㄚㄨㄙ⼄</rt></ruby><ruby>[国家](words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.  
 Marine resources (<ruby>[世界](words/世界.md)<rt>ㄙㄚㄧ·⼘ㄫ</rt></ruby>[[資源]]) support economic life (<ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby>).  
 Population density (<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
 
@@ -162,7 +162,7 @@ Population density (<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></
 - <ruby>[新西蘭](words/新西蘭.md)<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - Fiji ([[斐]][[済|濟]]) [[../characters/飛 (char)]][[枝]]
-Island distribution ([[島嶼]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧㄜ·ㄨㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>.
+Island distribution ([[../words/島屿]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧㄜ·ㄨㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>.
 
 ## The Global System
 The <ruby>現代<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ⼶</rt></ruby> operates within an <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.  
@@ -176,7 +176,7 @@ History continues to transform conditions ([[歴史]][[持続]][[変化]]).
 States seek <ruby>安定<rt>ㄚㄋㄐㄝㄫ</rt></ruby> and development ([[発展]]) within changing structures ([[変動]][[構造]]).
 
 - United Nations ([[連合国]])  
-- World Trade Organization (<ruby>世界<rt>ㄙㄝㄐ⼶</rt></ruby>[[貿易]][[組織]])  
+- <ruby>[世界](../words/世界.md)<rt>ㄙㄝㄐ⼶</rt></ruby><ruby>[貿易](/words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby><ruby>[組織](/words/組織.md)<rt>ㄐㄛㄐㄧㄎ</rt></ruby>  
 - International Monetary Fund (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[貨幣]][[基金]])
 
 These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
