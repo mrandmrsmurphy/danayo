@@ -1,6 +1,6 @@
 ---
 stroke_count: 8
-date-last-perfect:
+date-last-perfect: 2026-05-24
 skip_number: 1-5-3
 size: 9
 tags: [lookup]
@@ -10,7 +10,16 @@ tags: [lookup]
 > [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 ## Characters
-和, 的, 知 (char), 社, 祀, 突, 邱, 邵, 邸
+
+1. <ruby>[和](characters/和.md)<rt>ㄏ⺢</rt></ruby> "peaceful"
+2. <ruby>[的](characters/的.md)<rt>ㄉㄝㄎ</rt></ruby> "target"
+3. <ruby>[知](characters/知%20(char).md)<rt>ㄐㄨㄧ</rt></ruby> "know"
+4. <ruby>[社](characters/社.md)<rt>ㄙ⼘</rt></ruby> "company"
+5. <ruby>[祀](characters/祀.md)<rt>ㄙㄜ</rt></ruby> "sacrifice"
+6. <ruby>[突](characters/突.md)<rt>ㄊㄛㄊ</rt></ruby> "abrupt"
+7. <ruby>[邱](characters/邱.md)<rt>ㄍㄨ</rt></ruby> "hill"
+8. <ruby>[邵](characters/邵.md)<rt>ㄙ⼄ㄨ</rt></ruby> "so"
+9. <ruby>[邸](characters/邸.md)<rt>ㄉㄝㄧ</rt></ruby> "residence"
 
 ## Datacheck
 ```dataview

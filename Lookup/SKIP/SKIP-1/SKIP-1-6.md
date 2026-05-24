@@ -58,4 +58,8 @@ views:
       - skip_number
       - stroke_count
       - date-last-perfect
+    sort:
+      - property: size
+        direction: DESC
+
 ```
