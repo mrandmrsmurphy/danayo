@@ -48,6 +48,6 @@ boundedness: 100
 - [[黒板]]
 - [[黒貂]]
 - <ruby>[黒洞](/words/黒洞.md)<rt>ㄉㄛㄫ</rt></ruby> "blackhole"
-- 
+- <ruby>[[黒猩]]<rt>ㄏㄨㄎㄙㄝㄫ</rt></ruby> "chimpanzee"
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 德開]]

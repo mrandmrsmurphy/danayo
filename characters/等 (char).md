@@ -60,6 +60,8 @@ boundedness: 75
 * [[恒等式]]
 * [[等分]]
 * [[等待]]
-* 
-[[Lookup/CC/initials/聲 端]]
-[[Lookup/CC/finals/韻 登開]]
+- <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"
+- <ruby>[[初等]]<rt>ㄑㄛㄉㄨㄫ</rt></ruby> "elementary, primary level"
+- <ruby>[[同等]]<rt>ㄉㄛㄫㄉㄨㄫ</rt></ruby> "equal, equivalent"
+- <ruby>[[優等]]<rt>ㄨㄛㄉㄨㄫ</rt></ruby> "excellent grade"
+- <ruby>[[劣等]]<rt>ㄌㄝㄊㄉㄨㄫ</rt></ruby> "inferior grade"

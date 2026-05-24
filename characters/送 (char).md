@@ -41,7 +41,10 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 東一]]
+
+## Words
 - [[送球]] "handball"
+- <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"

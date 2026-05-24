@@ -44,9 +44,12 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 東一]]
+
+## Words
 - [[紅茶]] "black tea, red tea"
 - [[紅鶴]] "flamingo"
 - [[紅玉]] "ruby"
+- <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"

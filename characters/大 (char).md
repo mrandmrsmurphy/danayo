@@ -67,6 +67,7 @@ boundedness: 90
 - <ruby>[[大腸]]<rt>ㄉㄚㄧㄑㄚㄫ</rt></ruby> "large intestine; colon"
 - <ruby>[[大和]]<rt>ㄉㄚㄧㄏ⺢</rt></ruby> "Yamato"
 - <ruby>[[大使館]]<rt>ㄉㄚㄧㄙㄧㄍ⺢ㄋ</rt></ruby> "embassy"
+- <ruby>[[大猩]]<rt>ㄉㄚㄧㄙㄝㄫ</rt></ruby> "gorilla"
 - <ruby>[[大家族]]<rt>ㄉㄚㄧㄍㄚㄐㄛㄎ</rt></ruby> "extended family; family dynasty"
 - <ruby>[[大部分]]<rt>ㄉㄚㄧㄅㄛㄨㄅㄨㄋ</rt></ruby> "majority; most of"
 - <ruby>[[壮大]]<rt>ㄐ⺢ㄫㄉㄚㄧ</rt></ruby> "grand; imposing"

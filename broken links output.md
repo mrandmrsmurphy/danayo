@@ -2,18 +2,12 @@ Where to find broken links
 
 ## Characters with lists
 - [[characters/参]] 5
-- [[characters/定]] 5
-- [[characters/局 (char)]] 5
 - [[characters/希]] 3
 - [[characters/欲]] 4
 - [[characters/滲]] 4
 - [[characters/炎]] 3
-- [[characters/猩]] 5
-- [[characters/率]] 8
-- [[characters/等 (char)]] 5
 - [[characters/臘]] 3
 - [[characters/芋]] 3
-- [[characters/苦 (char)]] 6
 - [[characters/賛]] 4
 - [[characters/軽 (char)]] 4
 - [[characters/辺]] 3

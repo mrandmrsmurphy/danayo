@@ -50,3 +50,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 尤]]
 - [[謀求]] "pursue, seek, strive for, quest after"
+- <ruby>[[参謀]]<rt>ㄙㄚㄇㄇㄨㄛ</rt></ruby> "staff officer, strategist"

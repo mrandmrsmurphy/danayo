@@ -55,3 +55,9 @@ boundedness: 90
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 模]]
 - [[苦痛]] "agony, pain, suffering"
+- <ruby>[[苦役]]<rt>ㄎㄛ⼶ㄎ</rt></ruby> "hard labor"
+- <ruby>[[苦難]]<rt>ㄎㄛㄋㄚㄋ</rt></ruby> "hardship, tribulation"
+- <ruby>[[苦肉]]<rt>ㄎㄛㄋㄨㄎ</rt></ruby> "desperate self-sacrifice"
+- <ruby>[[苦悩]]<rt>ㄎㄛㄋㄚㄨ</rt></ruby> "inner torment"
+- <ruby>[[刻苦]]<rt>ㄎㄨㄎㄎㄛ</rt></ruby> "assiduous, austere diligence"
+- <ruby>[[苦味]]<rt>ㄎㄛㄇㄨㄧ</rt></ruby> "bitter taste"

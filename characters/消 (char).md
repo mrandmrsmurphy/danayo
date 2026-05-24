@@ -44,8 +44,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 宵A]]
+
+## Words
 - [[消息]] "news, message, tidings"
 - <ruby>[[消耗]]<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby> "consume; deplete"
+- <ruby>[[消防局]]<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby> "fire department"

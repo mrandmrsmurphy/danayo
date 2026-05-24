@@ -10,7 +10,8 @@ japanese:
 japanese_native: かる
   - かる-い
 vietnamese:
-  - khinh, khỉnh
+  - khinh
+  - khỉnh
 middle_chinese_initial: kʰ
 middle_chinese_final: iᴇŋ
 stroke_count: 12

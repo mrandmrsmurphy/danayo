@@ -41,9 +41,12 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 屋三]]
+
+## Words
 - [[肉汁]] "gravy, broth"
 - [[肉湯]] "broth"
 - [[肉桂]] "cinnamon"
+- <ruby>[[苦肉]]<rt>ㄎㄛㄋㄨㄎ</rt></ruby> "desperate self-sacrifice"

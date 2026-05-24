@@ -40,6 +40,9 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 宵A]]
+
+## Words
+- <ruby>[[参照]]<rt>ㄙㄚㄇㄐㄛㄨ</rt></ruby> "cross-reference"

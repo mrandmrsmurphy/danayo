@@ -40,15 +40,16 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 * [[Radical 044|尸]] + [[句]] = [[SKIP-3-3-4]], a total [[Stroke 07]].
 * Descendants include 侷, 挶, 梮, 焗, 䏱, 䎤, 跼, 鋦, 锔, 駶
-### Words
+
+## Words
 - [[郵便局]] - post office
-- [[宇宙局]] - space agency
-- [[消防局]] - fire department
-- [[放送局]] - broadcast station
-- [[造幣局]] - mint
-- [[中央情報局]] - CIA
+- <ruby>[[宇宙局]]<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby> "space agency"
+- <ruby>[[消防局]]<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby> "fire department"
+- <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"
+- <ruby>[[造幣局]]<rt>ㄑㄚㄨㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"
+- <ruby>[[中央情報局]]<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby> "CIA"
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 燭]]

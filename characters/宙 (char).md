@@ -40,6 +40,9 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Words
+- <ruby>[[宇宙局]]<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby> "space agency"

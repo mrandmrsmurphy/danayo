@@ -41,6 +41,9 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 豪]]
+
+## Words
+- <ruby>[[苦悩]]<rt>ㄎㄛㄋㄚㄨ</rt></ruby> "inner torment"
