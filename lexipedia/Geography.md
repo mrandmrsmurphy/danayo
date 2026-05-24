@@ -204,17 +204,17 @@ In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate larg
 In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 
 1. <ruby>[東海](/words/東海.md)<rt>ㄉㄛㄫㄏㄚㄧ</rt></ruby>, 
 2. <ruby>[西海](/words/西海.md)<rt>ㄙㄝㄧㄏㄚㄧ</rt></ruby>, 
-3. Southern Sea ([[南海]]), 
-4. and Northern Sea ([[北海]])
+3. <ruby>[南海](/words/南海.md)<rt>ㄋㄚㄇㄏㄚㄧ</rt></ruby>, 
+4. and <ruby>[北海](/words/北海.md)<rt>ㄅㄨㄎㄏㄚㄧ</rt></ruby>
 
 These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the <ruby>九州<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby>, including:
-1. Ji ([[冀州]]),
+1. Ji ([[希州]]),
 2. Yan ([[兗州]]),
 3. Qing ([[青州]]),
 4. Xu ([[徐州]]),
 5. Yang ([[揚州]]),
 6. Jing ([[荊州]]),
-7. Yu ([[豫州]]),
+7. Yu ([[予州]]),
 8. Liang ([[梁州]]), and
 9. Yong ([[雍州]]).
 
