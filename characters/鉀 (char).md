@@ -14,7 +14,8 @@ radical: 金
 skip_number: 1-8-5
 grade_level: 名
 pos: 固有名詞
-english: potassium
+english:
+  - potassium
 羅馬字: gab
 諺文: 갑
 joyo_level: 表外字

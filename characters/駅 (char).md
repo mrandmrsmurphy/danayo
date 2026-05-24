@@ -13,7 +13,8 @@ radical: 馬
 skip_number: 1-10-4
 grade_level: "5"
 pos: 名詞
-english: station
+english:
+  - station
 羅馬字: "'yeg"
 諺文: 역
 joyo_level: "3"

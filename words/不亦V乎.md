@@ -5,7 +5,8 @@ characters:
   - 乎 (char)
 諺文: 볻역...호
 羅馬字: bod'yeg...ho
-english: <circumfix for rhetorical Qs>
+english:
+  - <circumfix for rhetorical Qs>
 pos: 修飾語
 mandarin:
 cantonese:

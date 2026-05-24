@@ -13,7 +13,8 @@ radical: "疒"
 skip_number: 3-5-7
 grade_level: "先進"
 pos: "性詞"
-english: thin
+english:
+  - thin
 羅馬字: syu
 諺文: "슈"
 joyo_level: "高等"

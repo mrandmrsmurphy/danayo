@@ -15,7 +15,10 @@ radical: 一
 skip_number: 4-1-4
 grade_level: "1"
 pos: 数詞
-english: one, unity, whole
+english:
+  - one
+  - unity
+  - whole
 羅馬字: "'id"
 諺文: 읻
 joyo_level: "1"

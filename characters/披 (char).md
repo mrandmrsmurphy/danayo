@@ -13,7 +13,8 @@ radical: 手
 skip_number: 1-3-5
 grade_level: "5"
 pos: 性詞
-english: expose
+english:
+  - expose
 羅馬字: pui
 諺文: 퓌
 joyo_level: 高等

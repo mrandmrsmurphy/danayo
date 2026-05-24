@@ -13,7 +13,8 @@ radical: 一
 skip_number: 2-1-2
 grade_level: "1"
 pos: 数詞
-english: three
+english:
+  - three
 羅馬字: sam
 諺文: 삼
 joyo_level: "1"

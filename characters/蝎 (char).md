@@ -15,7 +15,8 @@ radical: 虫
 skip_number: 2-6-9
 grade_level: 名
 pos: 名詞
-english: scorpion
+english:
+  - scorpion
 羅馬字: hyed
 諺文: 혇
 joyo_level: 表外字

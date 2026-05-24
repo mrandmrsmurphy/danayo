@@ -13,7 +13,8 @@ middle_chinese_initial: k
 middle_chinese_final: ˠuɛ
 radical: 卜
 pos: 名詞
-english: trigram
+english:
+  - trigram
 羅馬字: gwai
 諺文: 괘
 hanmun_edu_level: 名

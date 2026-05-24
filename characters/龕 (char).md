@@ -17,7 +17,9 @@ radical: "龍"
 skip_number: 2-2-20
 grade_level: "名"
 pos: "名詞"
-english: "shrine, alcove"
+english:
+  - shrine
+  - alcove
 羅馬字: kam
 諺文: "캄"
 joyo_level: "表外字"

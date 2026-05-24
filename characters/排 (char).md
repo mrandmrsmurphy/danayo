@@ -21,7 +21,10 @@ radical: 手
 skip_number: 1-3-8
 grade_level: "5"
 pos: 名詞
-english: row, rank, line
+english:
+  - row
+  - rank
+  - line
 羅馬字: pai
 諺文: 패
 joyo_level: 高等

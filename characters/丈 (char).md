@@ -16,7 +16,8 @@ radical: 一
 skip_number: 4-3-4
 grade_level: "5"
 pos: 名詞
-english: zhang
+english:
+  - zhang
 羅馬字: cang
 諺文: 창
 joyo_level: 高等

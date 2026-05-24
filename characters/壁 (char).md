@@ -13,7 +13,8 @@ radical: 土
 skip_number: 2-13-3
 grade_level: "5"
 pos: 名詞
-english: wall
+english:
+  - wall
 羅馬字: beg
 諺文: 벅
 joyo_level: 高等

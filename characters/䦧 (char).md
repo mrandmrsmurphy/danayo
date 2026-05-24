@@ -14,7 +14,8 @@ radical: 門
 skip_number: 3-8-8
 grade_level: 名
 pos: 事詞
-english: quarrel
+english:
+  - quarrel
 羅馬字: heg
 諺文: 헉
 joyo_level: 表外字

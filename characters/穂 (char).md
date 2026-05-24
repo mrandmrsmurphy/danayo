@@ -13,7 +13,8 @@ radical: 禾
 skip_number: 1-5-10
 grade_level: "名"
 pos: 名詞
-english: ear of grain
+english:
+  - ear of grain
 羅馬字: sui
 諺文: 쉬
 joyo_level: 高等

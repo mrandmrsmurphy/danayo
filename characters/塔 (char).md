@@ -13,7 +13,8 @@ radical: 土
 skip_number: 1-3-9
 grade_level: "4"
 pos: 名詞
-english: pagoda
+english:
+  - pagoda
 羅馬字: tab
 諺文: 탑
 joyo_level: 高等

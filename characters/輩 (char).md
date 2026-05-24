@@ -13,7 +13,8 @@ radical: 車
 skip_number: 2-8-7
 grade_level: "3"
 pos: 名詞
-english: generation
+english:
+  - generation
 羅馬字: foi
 諺文: 뾔
 joyo_level: 高等

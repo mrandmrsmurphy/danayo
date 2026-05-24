@@ -13,7 +13,8 @@ radical: 日
 skip_number: 2-4-12
 grade_level: "4"
 pos: 性詞
-english: overcast
+english:
+  - overcast
 羅馬字: dam
 諺文: 담
 joyo_level: 高等
