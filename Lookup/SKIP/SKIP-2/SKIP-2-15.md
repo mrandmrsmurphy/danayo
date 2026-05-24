@@ -1,12 +1,12 @@
 ---
-date-last-perfect:
-tags: [lookup]
-
+date-last-perfect: 2026-05-24
+tags:
+  - lookup
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 2 :
 
 ## Characters
-1. [[lookup/SKIP/SKIP-2/SKIP-2-15-2]]
+1. [[lookup/SKIP/SKIP-2/SKIP-2-15-2]] 輿
 
 ## Base check
 ```base

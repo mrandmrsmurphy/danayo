@@ -1,21 +1,23 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-05-24
 tags: [lookup]
 
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 3 :
+> [SKIP](lookup/SKIP/SKIP.md) : 3
 
-1. no
-2. no
-3. [SKIP-3-6-3](lookup/SKIP/SKIP-3/SKIP-3-6-3.md)
-4. [SKIP-3-6-4](lookup/SKIP/SKIP-3/SKIP-3-6-4.md)
-5. [SKIP-3-6-5](lookup/SKIP/SKIP-3/SKIP-3-6-5.md)
-6. [SKIP-3-6-6](lookup/SKIP/SKIP-3/SKIP-3-6-6.md)
-7. [SKIP-3-6-7](lookup/SKIP/SKIP-3/SKIP-3-6-7.md)
-8. [SKIP-3-6-8](lookup/SKIP/SKIP-3/SKIP-3-6-8.md)
-9. [SKIP-3-6-9](lookup/SKIP/SKIP-3/SKIP-3-6-9.md)
-10. no
-11. [SKIP-3-6-11](lookup/SKIP/SKIP-3/SKIP-3-6-11.md)
+Surrounding component has 6 strokes. Dominant components: 戈, 虍.
+
+1. ø
+2. ø
+3. [SKIP-3-6-3](lookup/SKIP/SKIP-3/SKIP-3-6-3.md): 咼, 哉
+4. [SKIP-3-6-4](lookup/SKIP/SKIP-3/SKIP-3-6-4.md): 栽, 烏...
+5. [SKIP-3-6-5](lookup/SKIP/SKIP-3/SKIP-3-6-5.md): 産
+6. [SKIP-3-6-6](lookup/SKIP/SKIP-3/SKIP-3-6-6.md): 裁
+7. [SKIP-3-6-7](lookup/SKIP/SKIP-3/SKIP-3-6-7.md): 載
+8. [SKIP-3-6-8](lookup/SKIP/SKIP-3/SKIP-3-6-8.md): 截
+9. [SKIP-3-6-9](lookup/SKIP/SKIP-3/SKIP-3-6-9.md): 慮
+10. ø
+11. [SKIP-3-6-11](lookup/SKIP/SKIP-3/SKIP-3-6-11.md): 戴
 
 ## Base check
 ```base
@@ -29,7 +31,7 @@ views:
     order:
       - file.name
       - size
+      - date-last-perfect
       - skip_number
       - stroke_count
-      - date-last-perfect
 ```
