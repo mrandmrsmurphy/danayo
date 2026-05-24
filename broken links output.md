@@ -11,7 +11,6 @@ Where to find broken links
 - [[characters/猩]] 5
 - [[characters/率]] 8
 - [[characters/等 (char)]] 5
-- [[characters/肥]] 10
 - [[characters/臘]] 3
 - [[characters/芋]] 3
 - [[characters/苦 (char)]] 6
@@ -54,7 +53,7 @@ Where to find broken links
 - [[lexipedia/Geography]]
 - [[lexipedia/Numbers]]
 - [[lexipedia/Periodic Table]]
-- [[lexipedia/基督敎 elements]]
+- [[lexipedia/基督敎]]
 - [[lexipedia/歴史綱要]]
 
 ## korean name
