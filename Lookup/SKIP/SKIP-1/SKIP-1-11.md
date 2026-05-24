@@ -34,7 +34,12 @@ views:
         - file.hasLink("SKIP-1-11")
     order:
       - file.name
-	  - size
+      - size
       - skip_number
       - stroke_count
+      - date-last-perfect
+    sort:
+      - property: size
+        direction: DESC
+
 ```

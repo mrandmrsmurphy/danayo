@@ -1,6 +1,6 @@
 ---
 stroke_count: 7
-date-last-perfect:
+date-last-perfect: 2026-05-24
 skip_number: 2-1-6
 size: 4
 tags: [lookup]
@@ -10,7 +10,11 @@ tags: [lookup]
 > [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 ## Characters
-戻, 系, 言 (char), 豆 (char)
+
+1. <ruby>[戻](characters/戻.md)<rt>ㄌㄝㄊ</rt></ruby> "re-"
+2. <ruby>[系](characters/系.md)<rt>ㄏㄝㄧ</rt></ruby> "system"
+3. <ruby>[言](characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> "say"
+4. <ruby>[豆](characters/豆%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> "bean"
 
 ## Datacheck
 ```dataview
