@@ -42,6 +42,9 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 豪]]
+
+## Words
+- <ruby>[[島嶼]]<rt>ㄊㄚㄨㄙ⼄</rt></ruby> "islands; islets; archipelago"

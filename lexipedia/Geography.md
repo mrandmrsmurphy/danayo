@@ -59,7 +59,7 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) 
 - <ruby>[孟加拉](/words/孟加拉.md)<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby>
 - <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄧㄍㄛㄎ</rt></ruby>
 - <ruby>[泥婆羅](/words/泥婆羅.md)<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby>  
-- Bhutan (不丹)
+- <ruby>[不丹](/words/不丹.md)<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby>
 The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>[[界線]]).
 
 ## West and Central Asia
@@ -136,9 +136,9 @@ Independence movements ([[独立]]<ruby>運動<rt>·ㄨㄋㄉㄛㄫ</rt></ruby> 
 Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>差異<rt>ㄑㄚ·ㄧ</rt></ruby> remain notable.
 
 ### 北美
-- <ruby>美国<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
-- <ruby>珈拿陀<rt>ㄎㄚㄋㄚㄙㄚ</rt></ruby>
-- Mexico (墨西哥)
+- <ruby>[美国](../words/美国.md)<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
+- <ruby>[珈拿陀](../words/珈拿陀.md)<rt>ㄎㄚㄋㄚㄙㄚ</rt></ruby>
+- <ruby>[墨西哥](/words/墨西哥.md)<rt>ㄇㄨㄎㄙㄝㄧㄍㄜ</rt></ruby>
 
 ### 中美
 - Guatemala (危地馬拉)  
