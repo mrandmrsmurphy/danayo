@@ -58,6 +58,7 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 - 不 + 一 = [丕](characters/丕.md)
 ## Words
 - <ruby>[[不及]]<rt>ㄅㄛㄊㄍㄨㄆ</rt></ruby> "to not reach; to be inferior to"
+- <ruby>[[不丹]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "Bhutan"
 - [不但](words/不但.md)
 - [不信](words/不信.md)
 - [不同](words/不同.md)

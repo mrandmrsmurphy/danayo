@@ -47,7 +47,7 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>.
 
 ## 南亜
-[[南亜]] centers on <ruby>印度]]<rt>ㄧㄋㄉㄛ</rt></ruby>.
+<ruby>[南亜](/words/南亜.md)<rt>ㄋㄚㄇㄚ</rt></ruby> centers on <ruby>[印度](../words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>.
 <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby> developed early.  
@@ -58,7 +58,7 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) 
 - <ruby>[巴基斯坦](/words/巴基斯坦.md)<rt>ㄆㄚㄍㄧㄙㄧㄊㄚㄋ</rt></ruby>
 - <ruby>[孟加拉](/words/孟加拉.md)<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby>
 - <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄧㄍㄛㄎ</rt></ruby>
-- Nepal (泥婆羅, not 尼泊爾)  
+- <ruby>[泥婆羅](/words/泥婆羅.md)<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby>  
 - Bhutan (不丹)
 The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>[[界線]]).
 

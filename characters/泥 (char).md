@@ -45,6 +45,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 齊開]]
+
+## Words
+- <ruby>[[泥婆羅]]<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby> "Nepal"
