@@ -47,7 +47,10 @@ boundedness: 95
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 - Descendants: [[把]]
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 麻二開]]
+
+## Words
+- <ruby>[[巴基斯坦]]<rt>ㄆㄚㄍㄧㄙㄧㄊㄚㄋ</rt></ruby> "Pakistan"

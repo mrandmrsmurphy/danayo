@@ -55,10 +55,10 @@ These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ
 Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
 - <ruby>[印度](words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>  
-- Pakistan (巴基斯坦)  
-- Bangladesh (孟加拉)  
+- <ruby>[巴基斯坦](/words/巴基斯坦.md)<rt>ㄆㄚㄍㄧㄙㄧㄊㄚㄋ</rt></ruby>
+- <ruby>[孟加拉](/words/孟加拉.md)<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby>
 - <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄧㄍㄛㄎ</rt></ruby>
-- Nepal (尼泊爾)  
+- Nepal (泥婆羅, not 尼泊爾)  
 - Bhutan (不丹)
 The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>[[界線]]).
 

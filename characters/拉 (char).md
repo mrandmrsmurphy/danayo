@@ -55,6 +55,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 合]]
+
+## Words
+- <ruby>[[孟加拉]]<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby> "Bangladesh"
