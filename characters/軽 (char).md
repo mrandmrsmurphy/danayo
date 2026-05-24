@@ -50,10 +50,10 @@ boundedness:
 [[Lookup/CC/finals/韻 清開]]
 
 ## Words
-* [[軽歌劇]] light opera
-* [[軽金属]] light metals
-* [[軽銀]] aluminium
-* [[軽素]] hydrogen, abbreviated 軽
-* [[軽罪]] misdemeanor
-* [[軽視]] distain
-* [[軽重]] light and heavy
+- <ruby>[[軽歌劇]]<rt>ㄎㄧㄫㄍㄜㄍㄝㄎ</rt></ruby> "light opera, operetta"
+- <ruby>[[軽金属]]<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby> "light metals"
+- [[軽銀]] aluminium
+- [[軽素]] hydrogen, abbreviated 軽
+- [[軽罪]] misdemeanor
+- <ruby>[[軽視]]<rt>ㄎㄧㄫㄙㄧㄜ</rt></ruby> "look down on, disdain"
+- <ruby>[[軽重]]<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby> "relative importance"

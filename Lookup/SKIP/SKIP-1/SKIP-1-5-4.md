@@ -10,7 +10,22 @@ tags: [lookup]
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-叚, 叛, 政, 故, 段 (char), 盼, 研, 砕 (char), 祝, 秋 (char), 科, 秒 (char), 級, 胡, 袂 (char)
+
+1. <ruby>[叚](characters/叚.md)<rt>ㄎㄚ</rt></ruby> "false"
+2. [[叛]] *(character file missing)*
+3. <ruby>[政](characters/政.md)<rt>ㄐㄧㄫ</rt></ruby> "government"
+4. <ruby>[故](characters/故.md)<rt>ㄍㄛ</rt></ruby> "happening"
+5. <ruby>[段](characters/段%20(char).md)<rt>ㄉ⺢ㄋ</rt></ruby> "step"
+6. <ruby>[盼](characters/盼.md)<rt>ㄆㄚㄋ</rt></ruby> "hope"
+7. <ruby>[研](characters/研.md)<rt>ㄝㄋ</rt></ruby> "research"
+8. <ruby>[砕](characters/砕%20(char).md)<rt>ㄙㄛㄧ</rt></ruby> "smash"
+9. <ruby>[祝](characters/祝.md)<rt>ㄐㄨㄎ</rt></ruby> "celebrate"
+10. <ruby>[秋](characters/秋%20(char).md)<rt>ㄑㄨㄛ</rt></ruby> "autumn"
+11. <ruby>[科](characters/科.md)<rt>ㄎ⺢</rt></ruby> "branch"
+12. <ruby>[秒](characters/秒%20(char).md)<rt>ㄇ⼄ㄨ</rt></ruby> "second"
+13. <ruby>[級](characters/級.md)<rt>ㄍㄧㄆ</rt></ruby> "level"
+14. <ruby>[胡](characters/胡.md)<rt>ㄏㄛㄨ</rt></ruby> "reckless"
+15. <ruby>[袂](characters/袂%20(char).md)<rt>ㄇㄝ</rt></ruby> "sleeve"
 
 ## Datacheck
 ```dataview

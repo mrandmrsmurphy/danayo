@@ -42,6 +42,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 脂A三開]]
+
+## Words
+- <ruby>[[軽視]]<rt>ㄎㄧㄫㄙㄧㄜ</rt></ruby> "look down on, disdain"

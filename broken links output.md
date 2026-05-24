@@ -1,7 +1,6 @@
 Where to find broken links
 
 ## Characters with lists
-- [[characters/参]] 5
 - [[characters/希]] 3
 - [[characters/欲]] 4
 - [[characters/滲]] 4
