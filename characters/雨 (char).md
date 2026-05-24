@@ -47,3 +47,4 @@ boundedness: 90
 - [List of 象形](lookup/List%20of%20象形.md): a cloud with drops of rain falling from it. The horizontal stroke at the top was added later. (Compare Egyptian 𓇲.).
 - [[雨傘]] "umbrella"
 - [[雨中]] "in the rain"
+- [[俄雨]] "rain shower"
