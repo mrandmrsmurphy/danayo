@@ -1,35 +1,23 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-05-24
 tags: [lookup]
 
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 2
 
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.skip_number === "2-7-4")
-// or stricter: .where(p => p["your_property"] === "value")
-// or for numbers/strings/etc: adjust comparison as needed
+Top component has 7 strokes. Dominant components: 辰, 里, 亜, 釆.
 
-const titles = pages
-  .map(p => p.file.name)
-  .sort()                    // optional: alphabetical sort
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-````
-
-1. None
-2. None
-3. [SKIP-2-7-3](lookup/SKIP/SKIP-2/SKIP-2-7-3.md): 
-4. [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md): 
+1. ø
+2. ø
+3. [SKIP-2-7-3](lookup/SKIP/SKIP-2/SKIP-2-7-3.md): 哲, 唇, 尃, 差, 辱
+4. [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md): 黒, 軣, 梨, 梁, 望...
 5. [SKIP-2-7-5](lookup/SKIP/SKIP-2/SKIP-2-7-5.md): 番, 盛, 禼, 貿
-6. [SKIP-2-7-6](lookup/SKIP/SKIP-2/SKIP-2-7-6.md)
-7. [SKIP-2-7-7](lookup/SKIP/SKIP-2/SKIP-2-7-7.md)
-8. None
-9. [SKIP-2-7-9](lookup/SKIP/SKIP-2/SKIP-2-7-9.md)
-10. None
-11. [SKIP-2-7-11](lookup/SKIP/SKIP-2/SKIP-2-7-11.md)
+6. [SKIP-2-7-6](lookup/SKIP/SKIP-2/SKIP-2-7-6.md): 資
+7. [SKIP-2-7-7](lookup/SKIP/SKIP-2/SKIP-2-7-7.md): 誓, 墨
+8. ø
+9. [SKIP-2-7-9](lookup/SKIP/SKIP-2/SKIP-2-7-9.md): 餐
+10. ø
+11. [SKIP-2-7-11](lookup/SKIP/SKIP-2/SKIP-2-7-11.md): 嚢
 
 ## Base check
 ```base
@@ -46,7 +34,4 @@ views:
       - date-last-perfect
       - skip_number
       - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
 ```
