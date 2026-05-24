@@ -15,9 +15,9 @@ views:
       - 諺文
       - file.mtime
     sort:
-      - property: pos
-        direction: ASC
       - property: 注音
+        direction: DESC
+      - property: pos
         direction: ASC
       - property: file.mtime
         direction: DESC
