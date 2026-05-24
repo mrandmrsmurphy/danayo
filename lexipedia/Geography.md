@@ -207,7 +207,7 @@ In ancient East Asian thought, the division of the world followed a different st
 3. <ruby>[南海](/words/南海.md)<rt>ㄋㄚㄇㄏㄚㄧ</rt></ruby>, 
 4. and <ruby>[北海](/words/北海.md)<rt>ㄅㄨㄎㄏㄚㄧ</rt></ruby>
 
-These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the <ruby>九州<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby>, including:
+These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the <ruby>[九州](../words/九州.md)<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby>, including:
 1. Ji ([[希州]]),
 2. Yan ([[兗州]]),
 3. Qing ([[青州]]),

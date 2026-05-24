@@ -43,6 +43,9 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 鹽A三]]
+
+## Words
+- <ruby>[[鎌倉]]<rt>ㄌㄝㄇㄑ⺢ㄫ</rt></ruby> "Kamakura"
