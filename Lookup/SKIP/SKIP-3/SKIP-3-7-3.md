@@ -1,7 +1,7 @@
 ---
-stroke_count: 10
-date-last-perfect:
 size: 3
+stroke_count: 10
+date-last-perfect: 2026-05-24
 skip_number: 3-7-3
 tags: [lookup]
 
@@ -10,7 +10,10 @@ tags: [lookup]
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
 ## Characters
-島 (char), 赳, 起 (char)
+
+1. <ruby>[島](characters/島%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> "island"
+2. <ruby>[赳](characters/赳.md)<rt>ㄍ⼜</rt></ruby> "strong"
+3. <ruby>[起](characters/起%20(char).md)<rt>ㄎㄧ</rt></ruby> "rise up"
 
 ## Datacheck
 ```dataview
