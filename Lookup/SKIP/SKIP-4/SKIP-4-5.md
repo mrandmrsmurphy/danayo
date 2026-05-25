@@ -1,16 +1,15 @@
 ---
-stroke_count: 5
-date-last-perfect:
+date-last-perfect: 2026-05-24
 tags: [lookup]
 
 ---
-> [[SKIP]] : 4
-> [[Stroke 05]]
+> [SKIP](lookup/SKIP/SKIP.md) : 4
+> [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
-- [[SKIP-4-5-1]] - 正	凹	且	瓦	玉	甲 冊	皿	凸	疋	丙	平	母	册	旡
-- [[SKIP-4-5-2]] - 白	由	丘	甘	丗 出	世	生
-- [[SKIP-4-5-3]] - 禾	乎 申	半	本	末	未	朮
-- [[SKIP-4-5-4]] - 央 史	失	弗	戊	丼	冉	戉
+- [SKIP-4-5-1](lookup/SKIP/SKIP-4/SKIP-4-5-1.md): 且, 丙, 冊...
+- [SKIP-4-5-2](lookup/SKIP/SKIP-4/SKIP-4-5-2.md): 丘, 出, 甘, 由, 白, 世, 生
+- [SKIP-4-5-3](lookup/SKIP/SKIP-4/SKIP-4-5-3.md): 乎, 未, 本, 禾, 冉, 半...
+- [SKIP-4-5-4](lookup/SKIP/SKIP-4/SKIP-4-5-4.md): 史, 央, 失, 弗, 戊, 犮
 
 ## Base check
 ```base
@@ -23,7 +22,8 @@ views:
         - file.hasLink("SKIP-4-5")
     order:
       - file.name
-	  - size
+      - size
+      - date-last-perfect
       - skip_number
       - stroke_count
 ```

@@ -7,20 +7,6 @@ tags: [lookup]
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [[Stroke 11]]
 
-```dataviewjs
-const pages = dv.pages()
-  .where(p => p.graphemic_classification === "象形")
-// or stricter: .where(p => p["your_property"] === "value")
-// or for numbers/strings/etc: adjust comparison as needed
-
-const titles = pages
-  .map(p => p.file.name)
-  .sort()                    // optional: alphabetical sort
-  .join(", ");
-
-dv.paragraph(titles || "No matching pages");
-````
-
 1. No
 2. No
 3. [SKIP-4-11-3](lookup/SKIP/SKIP-4/SKIP-4-11-3.md): 粛

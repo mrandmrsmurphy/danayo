@@ -9,7 +9,7 @@ tags: [lookup]
 > SKIP : 4 : [SKIP-4-8](lookup/SKIP/SKIP-4/SKIP-4-8.md) | [SKIP-4-0-4](lookup/SKIP/SKIP-4/SKIP-4-0-4.md)
 > [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
-1. <ruby>[兎](/characters/兎%20(char).md)<rt>ㄊㄛ</rt></ruby>
+1. <ruby>[兎](/characters/兎%20(char).md)<rt>ㄊㄛ</rt></ruby> "rabbit"
 
 ## Datacheck
 ```dataview
