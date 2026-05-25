@@ -43,6 +43,9 @@ boundedness: 75
 ## Notes
 
 - 会意 of [[臣]] ("eye pointing down") + [[人]] ("person").
+## Words
+- <ruby>[[臥平]]<rt>⺢ㄅ⼶ㄫ</rt></ruby> "lie flat"
+
 ## Chengyu
 - <ruby>[[臥薪嘗胆]]<rt>⺢ㄙㄧㄋㄙ⼘ㄫㄉㄚㄇ</rt></ruby> "sleep on firewood and taste gall; endure voluntary hardship to fuel the will to prevail"
 [[Lookup/CC/initials/聲 疑]]

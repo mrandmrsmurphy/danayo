@@ -50,6 +50,10 @@ boundedness: 100
 
 # Notes
 
+## Words
+- <ruby>[[老鼠]]<rt>ㄌㄚㄨㄙ⼄</rt></ruby> "rat, mouse"
+- <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄ㄋㄧㄋ</rt></ruby> "rat person"
+
 ## Chengyu
 - <ruby>[白頭偕老](/chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄎㄚㄨ</rt></ruby>
 [[Lookup/CC/initials/聲 來]]
