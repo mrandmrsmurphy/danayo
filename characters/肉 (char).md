@@ -51,3 +51,4 @@ boundedness: 90
 - [[肉桂]] "cinnamon"
 - <ruby>[[苦肉]]<rt>ㄎㄛㄋㄨㄎ</rt></ruby> "desperate self-sacrifice"
 - <ruby>[[臘肉]]<rt>ㄌㄚㄆㄋㄨㄎ</rt></ruby> "cured pork"
+- <ruby>[[道成肉身]]<rt>ㄉㄚㄨㄙㄧㄫㄋㄨㄎㄙㄧㄋ</rt></ruby> "incarnation; the Word became flesh"

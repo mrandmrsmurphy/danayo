@@ -63,3 +63,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[聖礼]]<rt>ㄙㄧㄫㄌㄝㄧ</rt></ruby> "sacrament"
+- <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"

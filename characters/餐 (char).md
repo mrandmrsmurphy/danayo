@@ -48,3 +48,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 寒]]
+## Words
+- <ruby>[[聖餐]]<rt>ㄙㄧㄫㄑㄚㄋ</rt></ruby> "communion; the Eucharist"

@@ -51,3 +51,5 @@ boundedness: 65
 [[Lookup/CC/finals/韻 先開]]
 - [[洗濯]] "launder, rinse, wash"
 - [[洗車]] "wash a car"
+## Words
+- <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"

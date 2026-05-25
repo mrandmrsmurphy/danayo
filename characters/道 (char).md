@@ -62,5 +62,7 @@ boundedness: 70
 - [[坑道]]
 - <ruby>[[武道]]<rt>ㄇㄨㄉㄚㄨ</rt></ruby> "martial arts"
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
+- <ruby>[[道成肉身]]<rt>ㄉㄚㄨㄙㄧㄫㄋㄨㄎㄙㄧㄋ</rt></ruby> "incarnation; the Word became flesh"
+- <ruby>[[修道院]]<rt>ㄙㄨㄛㄉㄚㄨ⼔ㄋ</rt></ruby> "monastery; abbey; convent"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 豪]]
