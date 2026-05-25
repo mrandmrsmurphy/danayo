@@ -2,12 +2,12 @@
 mandarin: dīng
 cantonese: "ding1"
 korean: 정
-korean_native: 고무래, 장정
+korean_native: 장정
 japanese:
   - TEI
   - CHOU
   - TOU
-japanese_native: ひのと, あたる, よぼろ
+japanese_native: [ひのと, あたる, よぼろ]
 vietnamese:
   - đinh
 middle_chinese_initial: t
@@ -31,6 +31,7 @@ stand_in: 丁
 aliases:
   - 𠆤
 注音: ㄉㄝㄫ
+date-last-perfect: 2026-05-25
 kwin: false
 tags:
   - character
@@ -41,23 +42,25 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-# Notes
-## Etymology
+## Notes
+- [List of 象形](lookup/List%20of%20象形.md): depicts a nail or peg; the oracle-bone form shows the T-shaped profile of a nail head, from which the extended senses — fourth in the Heavenly Stems, adult male, to encounter — all derive.
+- [SKIP-4-2-1](lookup/SKIP/SKIP-4/SKIP-4-2-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md))
+- 705th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄉㄝㄫ](syllables/ㄉㄝㄫ.md)
+- [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
-### Graphemic Descendants 
-- [打](characters/打.md)
-- [正 (char)](characters/正%20(char).md)
-- [成 (char)](characters/成%20(char).md)
-- [頂](characters/頂.md)
-- [庁](characters/庁.md)
-- [亭](characters/亭.md)
-- [訂 (char)](characters/訂%20(char).md)
-- [汀 (char)](characters/汀%20(char).md)
-- [釘 (char)](characters/釘%20(char).md)
-- [町](characters/町.md)
-### Words
-- <ruby>[丁丁](/words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>
+## Words
+- <ruby>[[丁丁]]<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby> "clang, clash"
+- <ruby>[[丁香]]<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby> "clove"
 - <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
-- <ruby>[丁香](/words/丁香.md)<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby>
-[[Lookup/CC/initials/聲 端]]
-[[Lookup/CC/finals/韻 青開]]
+
+## Derived Characters
+- [[打]]
+- [[正 (char)]]
+- [[成 (char)]]
+- [[頂]]
+- [[庁]]
+- [[亭]]
+- [[訂 (char)]]
+- [[汀 (char)]]
+- [[釘 (char)]]
+- [[町]]
