@@ -25,7 +25,9 @@ views:
         - file.hasLink("SKIP-4-1")
     order:
       - file.name
-	  - size
+      - size
       - skip_number
       - stroke_count
+      - date-last-perfect
+
 ```

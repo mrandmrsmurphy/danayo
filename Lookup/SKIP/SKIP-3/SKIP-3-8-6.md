@@ -1,8 +1,8 @@
 ---
-stroke_count: 14
-date-last-perfect:
-skip_number: 3-8-6
 size: 5
+stroke_count: 14
+date-last-perfect: 2026-05-24
+skip_number: 3-8-6
 tags: [lookup]
 
 ---
@@ -10,7 +10,12 @@ tags: [lookup]
 > [Stroke 14](lookup/Stroke/Stroke%2014.md)
 
 ## Characters
-聞 (char), 関 (char), 閣, 閥, 閨
+
+1. <ruby>[聞](characters/聞%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> "hear"
+2. <ruby>[関](characters/関%20(char).md)<rt>ㄍ⺢ㄇ</rt></ruby> "close"
+3. <ruby>[閣](characters/閣.md)<rt>ㄍㄚㄎ</rt></ruby> "chamber"
+4. <ruby>[閥](characters/閥.md)<rt>ㄅㄝㄊ</rt></ruby> "clan"
+5. <ruby>[閨](characters/閨.md)<rt>ㄍㄨㄧ</rt></ruby> "women's bedroom"
 
 ## Datacheck
 ```dataview

@@ -1,8 +1,8 @@
 ---
-stroke_count: 12
-date-last-perfect:
-skip_number: 3-7-5
 size: 3
+stroke_count: 12
+date-last-perfect: 2026-05-24
+skip_number: 3-7-5
 tags: [lookup]
 
 ---
@@ -10,7 +10,10 @@ tags: [lookup]
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-着 (char), 超 (char), 越 (char)
+
+1. <ruby>[着](characters/着%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> "wear"
+2. <ruby>[超](characters/超%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> "transcend"
+3. <ruby>[越](characters/越%20(char).md)<rt>⼔ㄊ</rt></ruby> "exceed"
 
 ## Datacheck
 ```dataview
