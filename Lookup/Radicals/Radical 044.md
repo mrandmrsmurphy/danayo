@@ -24,35 +24,34 @@ tags: [lookup]
 5. <ruby>[尾](../../characters/尾%20(char).md)<rt>ㄇㄨㄧ</rt></ruby> - tail
 6. <ruby>[尿](../../characters/尿%20(char).md)<rt>ㄋ⼘ㄨ</rt></ruby> - urine
 7. <ruby>[局](../../characters/局%20(char).md)<rt>ㄍ⼄ㄎ</rt></ruby> - office
+8. <ruby>[屁](../../characters/屁%20(char).md)<rt>ㄆㄧㄜ</rt></ruby> - far
 
 ### +5 Strokes
-8. <ruby>[居](../../characters/居.md)<rt>ㄍㄧ</rt></ruby> - reside
-9. <ruby>[屈](../../characters/屈%20(char).md)<rt>ㄎㄨㄊ</rt></ruby> - bend
-10. <ruby>[届](../../characters/届%20(char).md)<rt>ㄍ⼶</rt></ruby> - deliver
+9. <ruby>[居](../../characters/居.md)<rt>ㄍㄧ</rt></ruby> - reside
+10. <ruby>[屈](../../characters/屈%20(char).md)<rt>ㄎㄨㄊ</rt></ruby> - bend
+11. <ruby>[届](../../characters/届%20(char).md)<rt>ㄍ⼶</rt></ruby> - deliver
 
 ### +6 Strokes
-11. <ruby>[屋](../../characters/屋%20(char).md)<rt>ㄛㄎ</rt></ruby> - roof
-12. <ruby>[屎](../../characters/屎%20(char).md)<rt>ㄏㄜ</rt></ruby> - excrement
-13. <ruby>[屏](../../characters/屏.md)<rt>ㄅㄧㄫ</rt></ruby> - folding screen
+12. <ruby>[屋](../../characters/屋%20(char).md)<rt>ㄛㄎ</rt></ruby> - roof
+13. <ruby>[屎](../../characters/屎%20(char).md)<rt>ㄏㄜ</rt></ruby> - excrement
+14. <ruby>[屏](../../characters/屏.md)<rt>ㄅㄧㄫ</rt></ruby> - folding screen
 
 ### +7 Strokes
-14. <ruby>[屑](../../characters/屑%20(char).md)<rt>ㄙㄝㄊ</rt></ruby> - scraps
-15. <ruby>[展](../../characters/展.md)<rt>ㄐㄝㄋ</rt></ruby> - expand
+15. <ruby>[屑](../../characters/屑%20(char).md)<rt>ㄙㄝㄊ</rt></ruby> - scraps
+16. <ruby>[展](../../characters/展.md)<rt>ㄐㄝㄋ</rt></ruby> - expand
 
 ### +8 Strokes
-16. <ruby>[屠](../../characters/屠.md)<rt>ㄉㄛ</rt></ruby> - butcher
+17. <ruby>[屠](../../characters/屠.md)<rt>ㄉㄛ</rt></ruby> - butcher
 
 ### +9 Strokes
-17. <ruby>[属](../../characters/属.md)<rt>ㄐㄛㄎ</rt></ruby> - belong
+18. <ruby>[属](../../characters/属.md)<rt>ㄐㄛㄎ</rt></ruby> - belong
 
 ### +11 Strokes
-18. <ruby>[屢](../../characters/屢%20(char).md)<rt>ㄌㄨ</rt></ruby> - frequently
-19. <ruby>[層](../../characters/層%20(char).md)<rt>ㄑㄜㄫ</rt></ruby> - stratum
+19. <ruby>[屢](../../characters/屢%20(char).md)<rt>ㄌㄨ</rt></ruby> - frequently
+20. <ruby>[層](../../characters/層%20(char).md)<rt>ㄑㄜㄫ</rt></ruby> - stratum
 
 ### +12 Strokes
-20. <ruby>[履](../../characters/履%20(char).md)<rt>ㄌㄧㄜ</rt></ruby> - tread on/with
-
-*Only 20 numbered entries found in database; one entry from the original list (屁) is absent from the database.*
+21. <ruby>[履](../../characters/履%20(char).md)<rt>ㄌㄧㄜ</rt></ruby> - tread on/with
 
 ## Data check
 ```dataview
