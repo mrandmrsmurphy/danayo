@@ -58,3 +58,4 @@ boundedness: 90
 - [[出奔]] "elope, flee, run away"
 - [[出席]] "attend,present"
 - [[出勤]] "go to work"
+- <ruby>[[滲出]]<rt>ㄙㄛㄇㄑㄨㄊ</rt></ruby> "seep out"

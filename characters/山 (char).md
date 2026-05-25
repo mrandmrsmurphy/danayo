@@ -52,3 +52,4 @@ boundedness: 75
 - [[山崩]] "landslide (not snow)"
 - [[山脈]] "mountain range"
 - [[山嶺]] "ridge of hills, mountain range"
+- <ruby>[[山芋]]<rt>ㄙㄚㄋㄨ</rt></ruby> "mountain yam"

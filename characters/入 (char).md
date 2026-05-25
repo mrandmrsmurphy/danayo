@@ -57,3 +57,4 @@ boundedness: 70
 - <ruby>[[闖入]]<rt>ㄊㄨㄇㄋㄧㄆ</rt></ruby> "to break into; to intrude"
 - <ruby>[[嵌入]]<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby> "embed; inlay"
 - <ruby>[[参入]]<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby> "enter, join"
+- <ruby>[[滲入]]<rt>ㄙㄛㄇㄋㄧㄆ</rt></ruby> "seep into"

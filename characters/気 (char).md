@@ -50,3 +50,4 @@ boundedness:
 - <ruby>[[気候]]<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby> "climate"
 - [[気象]] "weather"
 - [[気功]] "qigong"
+- <ruby>[[気炎]]<rt>ㄎㄧㄜㄝㄇ</rt></ruby> "fighting spirit"

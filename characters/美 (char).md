@@ -51,3 +51,5 @@ boundedness: 65
 [[Lookup/CC/finals/韻 脂B三開]]
 - [[美洲]] "Americas"
 - [[美徳]] "virtue"
+- <ruby>[[賛美]]<rt>ㄐㄚㄋㄇㄧ</rt></ruby> "praise"
+- <ruby>[[賛美歌]]<rt>ㄐㄚㄋㄇㄧㄍㄜ</rt></ruby> "hymn"

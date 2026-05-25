@@ -46,3 +46,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 侯]]
+
+## Words
+- <ruby>[[滲漏]]<rt>ㄙㄛㄇㄌㄛㄨ</rt></ruby> "leak"

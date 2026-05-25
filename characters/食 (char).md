@@ -54,3 +54,4 @@ boundedness: 90
 - <ruby>[[膳食]]<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby> "meal; diet"
 - [[食堂]] "restaurant"
 - [[食費]] "food expenses"
+- <ruby>[[食欲]]<rt>ㄙㄧㄎ⼄ㄎ</rt></ruby> "appetite"

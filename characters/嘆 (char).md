@@ -51,3 +51,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 寒]]
+
+## Words
+- <ruby>[[賛嘆]]<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby> "admire"

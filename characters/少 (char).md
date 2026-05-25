@@ -54,6 +54,6 @@ boundedness: 90
 - [[少年]]
 - [[鮮少]]
 - [[更少]]
-- 
+- <ruby>[[希少]]<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby> "scarce"
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 宵A]]

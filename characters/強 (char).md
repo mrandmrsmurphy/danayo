@@ -56,3 +56,4 @@ boundedness: 100
 [[Lookup/CC/finals/韻 陽開]]
 - [[強化]] "strengthen"
 - [[強固]] "strong, solid"
+- <ruby>[[強欲]]<rt>ㄍ⼘ㄫ⼄ㄎ</rt></ruby> "greed"
