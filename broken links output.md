@@ -1,16 +1,5 @@
 Where to find broken links
 
-## Characters with lists
-- [[characters/希]] 3
-- [[characters/欲]] 4
-- [[characters/滲]] 4
-- [[characters/炎]] 3
-- [[characters/臘]] 3
-- [[characters/芋]] 3
-- [[characters/賛]] 4
-- [[characters/辺]] 3
-- [[characters/週]] 3
-
 ## Chengyu Parts
 1. [[瞭然]] in [[chengyu/一目瞭然]]
 2. [[世仇]] in [[chengyu/世仇宿敵]]
@@ -48,17 +37,3 @@ Where to find broken links
 - [[lexipedia/基督敎]]
 - [[lexipedia/歴史綱要]]
 
-## korean name
-- [[lookup/Korean/Korean Name ㄱ]]
-- [[lookup/Korean/Korean Name ㄴ]]
-- [[lookup/Korean/Korean Name ㄷ]]
-- [[lookup/Korean/Korean Name ㄹ]]
-- [[lookup/Korean/Korean Name ㅁ]]
-- [[lookup/Korean/Korean Name ㅂ]]
-- [[lookup/Korean/Korean Name ㅅ]]
-- [[lookup/Korean/Korean Name ㅇ]]
-- [[lookup/Korean/Korean Name ㅈ]]
-- [[lookup/Korean/Korean Name ㅊ]]
-- [[lookup/Korean/Korean Name ㅌ]]
-- [[lookup/Korean/Korean Name ㅍ]]
-- [[lookup/Korean/Korean Name ㅎ]]
