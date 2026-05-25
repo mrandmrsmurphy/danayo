@@ -30,7 +30,6 @@ Where to find broken links
 
 ## Lexipedia
 - [[lexipedia/Astronomy]]
-- [[lexipedia/Color]]
 - [[lexipedia/Geography]]
 - [[lexipedia/Numbers]]
 - [[lexipedia/Periodic Table]]
