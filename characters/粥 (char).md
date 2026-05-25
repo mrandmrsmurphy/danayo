@@ -46,3 +46,6 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 屋三]]
+
+## Words
+- <ruby>[[臘八粥]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby> "Laba congee"

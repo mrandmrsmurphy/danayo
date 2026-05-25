@@ -56,6 +56,9 @@ boundedness: 65
 - [[第八]]
 - [[八日]]
 - [[八千]]
+- <ruby>[[臘八]]<rt>ㄌㄚㄆㄅㄚㄊ</rt></ruby> "Laba (8th of 12th lunar month)"
+- <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
+- <ruby>[[臘八粥]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby> "Laba congee"
 ### Data check
 ```dataview
 table 諺文, english

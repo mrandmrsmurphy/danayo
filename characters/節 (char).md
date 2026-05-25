@@ -54,3 +54,4 @@ boundedness: 70
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 屑開]]
 - [[節減]] "economize, economy"
+- <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
