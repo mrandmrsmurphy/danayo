@@ -8,7 +8,6 @@ Where to find broken links
 - [[characters/臘]] 3
 - [[characters/芋]] 3
 - [[characters/賛]] 4
-- [[characters/軽 (char)]] 4
 - [[characters/辺]] 3
 - [[characters/週]] 3
 
