@@ -48,3 +48,5 @@ boundedness: 90
 - Dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 灰]]
+## Words
+- <ruby>[[灰色]]<rt>ㄏㄛㄧㄙㄧㄎ</rt></ruby> "grey"

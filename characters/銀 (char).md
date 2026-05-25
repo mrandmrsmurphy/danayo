@@ -47,6 +47,7 @@ boundedness: 80
 - 形声 (OC \*ŋrɯn): semantic [[Radical 167|金]] ("metal") + phonetic [[艮]] (OC \*kɯːns).
 ## Words
 - <ruby>[[銀河]]<rt>ㄧㄋㄏㄚ</rt></ruby> "Milky Way"
+- <ruby>[[銀色]]<rt>ㄧㄋㄙㄧㄎ</rt></ruby> "silver"
 
 ## Chengyu
 - <ruby>[銀盤呈首](/chengyu/銀盤呈首.md)<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> - head on a silver platter

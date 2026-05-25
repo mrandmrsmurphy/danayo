@@ -63,3 +63,4 @@ boundedness: 90
 - [[金庫]] "treasury, safe"
 - <ruby>[[鍍金]]<rt>ㄉㄛㄍㄧㄇ</rt></ruby> "gilding; gold plating"
 - <ruby>[[軽金属]]<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby> "light metals"
+- <ruby>[[金色]]<rt>ㄍㄧㄇㄙㄧㄎ</rt></ruby> "gold"

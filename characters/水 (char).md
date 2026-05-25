@@ -65,6 +65,7 @@ boundedness: 80
 16. [[水田]]
 17. [[水原]]
 18. [[水牛]]
+- <ruby>[[水色]]<rt>ㄙㄨㄙㄧㄎ</rt></ruby> "light blue"
 
 ### Chengyu
 - <ruby>[千山萬水](/chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby>
