@@ -12,7 +12,10 @@ language: 単亜語
 - Deng Xiaoping (<ruby>[鄧](/characters/鄧.md)<rt>ㄉㄨㄫ</rt></ruby><ruby>[小](/characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby><ruby>[平](/characters/平.md)<rt>ㄅ⼶ㄫ</rt></ruby>) — Dèng Xiǎopíng (1904–1997)
 - Xi Jinping (<ruby>[習](/characters/習.md)<rt>ㄙㄧㄆ</rt></ruby><ruby>[近](/characters/近%20(char).md)<rt>ㄍㄧㄋ</rt></ruby><ruby>[平](/characters/平.md)<rt>ㄅ⼶ㄫ</rt></ruby>) — Xí Jìnpíng (b. 1953)
 
-## 躺平即是正义
+## 臥平是正義 ⺢ㄅ⼶ㄫㄙㄝㄐㄧㄫㄜㄧ
+
+### Chinese original
+**躺平即是正义**
 
 两年多没有工作了，都在玩，没觉得哪里不对。压力主要来自身边人互相对比后寻找的定位和长辈的传统观念，它们会无时无刻在你身边出现。你每次看见的新闻热搜也都是明星恋爱、怀孕之类的“生育周边”，就像某些“看不见的生物”在制造一种思维强压给你，人大可不必如此。
 

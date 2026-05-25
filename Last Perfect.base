@@ -11,9 +11,9 @@ views:
       - english
       - file.mtime
     sort:
-      - property: date-last-perfect
-        direction: ASC
       - property: file.mtime
+        direction: DESC
+      - property: date-last-perfect
         direction: ASC
       - property: file.name
         direction: ASC
