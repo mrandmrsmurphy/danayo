@@ -1,8 +1,9 @@
 ---
 size: 22
 radical: 鳥
-tags: [lookup]
-
+tags:
+  - lookup
+date-last-perfect: 2026-05-24
 ---
 > [Radicals](Radicals.md)
 > The bird radical
