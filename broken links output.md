@@ -30,8 +30,6 @@ Where to find broken links
 
 ## Lexipedia
 - [[lexipedia/Geography]]
-- [[lexipedia/Numbers]]
 - [[lexipedia/Periodic Table]]
-- [[lexipedia/基督敎]]
 - [[lexipedia/歴史綱要]]
 
