@@ -58,6 +58,7 @@ boundedness: 55
 - [[行動]] "act, action"
 - [[行列]] "matrix, queue"
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
+- <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
 - <ruby>[[修飾先行]]<rt>ㄙㄨㄛㄙㄧㄎㄙㄝㄋㄏㄚㄫ</rt></ruby> "modifiers precede; the modifier-first rule"

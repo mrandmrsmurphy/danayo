@@ -61,5 +61,6 @@ boundedness: 90
 - [[墓地]] - cemetery
 - [[地震]] - earthquake
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
+- <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby> "earthly branches"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 脂A三開]]

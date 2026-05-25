@@ -63,6 +63,7 @@ boundedness: 80
 - <ruby>[流星](/words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby> "shooting star"
 - <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova; novae"
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
+- <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet; Singapore"
 - [[星条旗]] "stars and stripes"

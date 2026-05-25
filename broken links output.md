@@ -29,7 +29,6 @@ Where to find broken links
 - [[grammar/文法 - 97品詞]]
 
 ## Lexipedia
-- [[lexipedia/Astronomy]]
 - [[lexipedia/Geography]]
 - [[lexipedia/Numbers]]
 - [[lexipedia/Periodic Table]]

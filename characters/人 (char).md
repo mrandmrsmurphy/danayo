@@ -100,6 +100,7 @@ boundedness: 75
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 - <ruby>[[賎人]]<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby> "plebeian, lowly person"
 - <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄ㄋㄧㄋ</rt></ruby> "rat person"
+- <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby> "alien; astronaut"
 
 ## Chengyu
 - <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish

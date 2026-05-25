@@ -51,3 +51,4 @@ boundedness: 90
 [[Lookup/CC/initials/聲 生]]
 [[Lookup/CC/finals/韻 江]]
 - [[双節棍]] "nunchucks"
+- <ruby>[[双子]]<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby> "twins"

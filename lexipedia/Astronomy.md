@@ -3,7 +3,7 @@ language: English
 ---
 
 ### Basics
-Looking up at the night sky, we see an entire "culture", called <ruby>[天文](words/天文.md)<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>.  The formal study of these celestial objects is <ruby>[天文学](words/天文学.md)<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby>.  This is a true modern science, and not the ancient practice of divination, called <ruby>[占星術](words/占星術.md)<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby>.  (Notice that the first two-characters are the ancient verb "to divine by looking at star signs", <ruby>[占星](words/占星.md)<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby>.).  The underlying cognitive metaphor is that we are looking up at a house, with "eaves" and "roof beams", which is why the 'universe/cosmos/space-time' is <ruby>[宇宙](words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>.  A 'spaceship' is a <ruby>[宇宙船](words/宇宙船.md)<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby> and an alien or astronaut is an <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄨㄋㄧㄋ</rt></ruby>.
+Looking up at the night sky, we see an entire "culture", called <ruby>[天文](words/天文.md)<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>.  The formal study of these celestial objects is <ruby>[天文学](words/天文学.md)<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby>.  This is a true modern science, and not the ancient practice of divination, called <ruby>[占星術](words/占星術.md)<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby>.  (Notice that the first two-characters are the ancient verb "to divine by looking at star signs", <ruby>[占星](words/占星.md)<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby>.).  The underlying cognitive metaphor is that we are looking up at a house, with "eaves" and "roof beams", which is why the 'universe/cosmos/space-time' is <ruby>[宇宙](words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>.  A 'spaceship' is a <ruby>[宇宙船](words/宇宙船.md)<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby> and an alien or astronaut is an <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>.
 
 ### Solar System
 The basic object in the sky is a "star" <ruby>[星](words/星.md)<rt>ㄙㄝㄫ</rt></ruby>, though this also includes planets and moons.  To match the English "star", you would need to say 'fixed star', i.e. <ruby>[恒星](words/恒星.md)<rt>ㄏㄨㄫㄙㄝㄫ</rt></ruby>.  The big ones are the sun - <ruby>[太陽](words/太陽.md)<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> - and moon - <ruby>[太陰](words/太陰.md)<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby>.  Notice the connection to Yin and Yang.  Today, we distinguish planets from stars, so planet is <ruby>[行星](words/行星.md)<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby>.  We know that our home is in the solar system <ruby>[太陽系](words/太陽系.md)<rt>ㄊㄚㄧ·⼘ㄫㄏㄝㄧ</rt></ruby>.  It is made up of
@@ -17,7 +17,7 @@ The basic object in the sky is a "star" <ruby>[星](words/星.md)<rt>ㄙㄝㄫ</
 - Neptune - <ruby>[海王星](words/海王星.md)<rt>ㄏㄚㄧ·⺢ㄫㄙㄝㄫ</rt></ruby>
 - Pluto - <ruby>[冥王星](words/冥王星.md)<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> (now a dwarf planet (<ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby>) because of the discovery of Eris <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby>)
 - 
-Between Mars and Jupiter is the Asteroid Belt <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄉㄚㄧ</rt></ruby> (which is made out of asteroids <ruby>[小行星](words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby>), and the region after Neptune is now called the 
+Between Mars and Jupiter is the Asteroid Belt <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> (which is made out of asteroids <ruby>[小行星](words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby>), and the region after Neptune is now called the 
 
 Oort Cloud <ruby>◌<rt>ㄛ</rt></ruby><ruby>◌<rt>ㄌㄜ</rt></ruby><ruby>◌<rt>ㄊㄜ</rt></ruby><ruby>雲<rt>·ㄨㄋ</rt></ruby>.  
 
@@ -29,17 +29,17 @@ Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·
 
 ### Events
 - <ruby>[地平線](words/地平線.md)<rt>ㄉㄧㄜㄅ⼶ㄫㄙ⼶ㄋ</rt></ruby> - horizon 
-- [[天頂]] - zenith 
-- [[天底]] - nadir 
-- [[分点]] - equinox  
-- solstice [[至点]] - point, [[至日]] - day
-- [[冬至]] winter solstice
+- <ruby>[[天頂]]<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> - zenith
+- <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> - nadir
+- <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> - equinox
+- solstice <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> - point, <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> - day
+- <ruby>[[冬至]]<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> winter solstice
 - <ruby>[夏至](/words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> summer solstice
-- [[日食]] - solar eclipse
-- lunar eclipse = [[月食]]
+- <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> - solar eclipse
+- lunar eclipse = <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby>
 
 ### 六十干支
-[[天干]] / [[地支]]
+<ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> / <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby>
 
 | | 木|火|土|金|水|
 |---|---|---|---|---|---|

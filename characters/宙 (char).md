@@ -46,3 +46,4 @@ boundedness: 75
 
 ## Words
 - <ruby>[[宇宙局]]<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby> "space agency"
+- <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby> "alien; astronaut"

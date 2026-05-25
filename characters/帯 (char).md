@@ -48,3 +48,4 @@ boundedness:
 
 ## Words
 - <ruby>[[繃帯]]<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby> "bandage"
+- <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"

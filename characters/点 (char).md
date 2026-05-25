@@ -51,3 +51,4 @@ boundedness: 100
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 ## Words
 - <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> "solstice point"
+- <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> "equinox"
