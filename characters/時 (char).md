@@ -48,6 +48,7 @@ boundedness: 90
 
 - 形声 (OC \*djɯ): semantic [[Radical 072|日]] ("sun; day") + phonetic [[寺]] (OC \*ljɯs).
 ## Words
+- <ruby>[[臨時]]<rt>ㄌㄧㄇㄙㄧ</rt></ruby> "temporary; provisional"
 - <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby> - then
 - <ruby>[[暫時]]<rt>ㄐㄚㄇㄙㄧ</rt></ruby> "temporarily; for the time being"
 - <ruby>[[時制]]<rt>ㄙㄧㄐㄝㄧ</rt></ruby> "tense (grammatical)"

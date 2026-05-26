@@ -51,5 +51,6 @@ boundedness: 90
 - Also pronounced in MC as tsʰiᴇ
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 昔開]]
+- <ruby>[[刺客]]<rt>ㄑㄧㄎ·ㄎㄚㄎ</rt></ruby> "assassin"
 - [[刺激]] "provoke, irritate"
 - [[刺身]] "sashimi"
