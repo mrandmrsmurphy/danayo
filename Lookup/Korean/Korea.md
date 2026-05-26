@@ -5,7 +5,7 @@ language: 単亜語
 
 ## 有名
 - <ruby>安<rt>ㄚㄋ</rt></ruby><ruby>重<rt>ㄑㄛㄫ</rt></ruby><ruby>根<rt>ㄍㄚㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 안중근) [[獨立]][[運動家]], [[刺客]] (1879–1910)
-- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) 獨立運動家, [[大韓民国]][[臨時]][[政府]]の國務令 (1876–1949)
+- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) 獨立運動家, <ruby>[大韓民国](/words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>[[臨時]][[政府]]<ruby>之<rt>ㄊㄧ</rt></ruby><ruby>[国務領](/words/国務領.md)<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby> (1876–1949)
 - (이승만 / <ruby>[李](/characters/李.md)<rt>ㄌㄧ</rt></ruby><ruby>[承](/characters/承.md)<rt>ㄙㄨㄫ</rt></ruby><ruby>[晩](/characters/晩%20(char).md)<rt>ㄇㄛㄋ</rt></ruby>) —  (1875–1965)
 - Shin Chae-ho (신채호 / <ruby>[申](/characters/申.md)<rt>ㄙㄝㄋ</rt></ruby><ruby>[采](/characters/采.md)<rt>ㄑㄚㄧ</rt></ruby><ruby>[浩](/characters/浩.md)<rt>ㄏㄚㄨ</rt></ruby>) — Sin Chae-ho (1880–1936)
 - Kim Il-sung (김일성 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[日](/characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby><ruby>[成](/characters/成%20(char).md)<rt>ㄙㄧㄫ</rt></ruby>) — Kim Il-sung (1912–1994)
