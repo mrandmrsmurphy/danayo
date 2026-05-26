@@ -46,3 +46,4 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 魂]]
+- <ruby>[[魂魄]]<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby> "soul; spirit"
