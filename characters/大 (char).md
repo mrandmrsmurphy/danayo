@@ -53,6 +53,7 @@ boundedness: 90
 - <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
 
 ## Words
+- <ruby>[[大韓民国]]<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby> "Republic of Korea"
 - <ruby>[[寬大]]<rt>ㄎ⺢ㄋㄉㄚㄧ</rt></ruby> "magnanimous; lenient"
 - <ruby>[[浩大]]<rt>ㄏㄚㄨㄉㄚㄧ</rt></ruby> "vast; magnificent"
 - <ruby>[[大人]]<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> "adult"
