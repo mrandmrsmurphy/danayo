@@ -102,6 +102,7 @@ boundedness: 75
 - <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄ㄋㄧㄋ</rt></ruby> "rat person"
 - <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby> "alien; astronaut"
 
+- <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 ## Chengyu
 - <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
 - [[造人像形]]

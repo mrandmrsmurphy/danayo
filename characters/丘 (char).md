@@ -47,3 +47,5 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 尤]]
+## Words
+- <ruby>[[丘引]]<rt>ㄎ⼜·ㄧㄋ</rt></ruby> "earthworm"

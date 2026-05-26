@@ -62,3 +62,5 @@ boundedness: 100
 - [[正確]] "accurate, correct, proper"
 - [[正餐]] "dinner"
 - [[正大]] "proper; upright"
+## Words
+- <ruby>[[正義]]<rt>ㄐㄧㄫㄜㄧ</rt></ruby> "justice"

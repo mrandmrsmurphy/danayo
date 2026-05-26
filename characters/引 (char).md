@@ -52,3 +52,4 @@ boundedness: 100
 - [[招災引禍]]
 - [[引出奴家]]
 - [[引入]] "- lead into"
+- <ruby>[[丘引]]<rt>ㄎ⼜·ㄧㄋ</rt></ruby> "earthworm"
