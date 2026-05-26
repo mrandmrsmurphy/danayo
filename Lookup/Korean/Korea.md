@@ -4,10 +4,10 @@ language: 単亜語
 <ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby> + <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
 
 ## 有名
-- <ruby>安<rt>ㄚㄋ</rt></ruby><ruby>重<rt>ㄑㄛㄫ</rt></ruby><ruby>根<rt>ㄍㄚㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 안중근) [[獨立]][[運動家]], [[刺客]] (1879–1910)
-- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) 獨立運動家, <ruby>[大韓民国](/words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>[[臨時]][[政府]]<ruby>之<rt>ㄊㄧ</rt></ruby><ruby>[国務領](/words/国務領.md)<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby> (1876–1949)
-- (이승만 / <ruby>[李](/characters/李.md)<rt>ㄌㄧ</rt></ruby><ruby>[承](/characters/承.md)<rt>ㄙㄨㄫ</rt></ruby><ruby>[晩](/characters/晩%20(char).md)<rt>ㄇㄛㄋ</rt></ruby>) —  (1875–1965)
-- Shin Chae-ho (신채호 / <ruby>[申](/characters/申.md)<rt>ㄙㄝㄋ</rt></ruby><ruby>[采](/characters/采.md)<rt>ㄑㄚㄧ</rt></ruby><ruby>[浩](/characters/浩.md)<rt>ㄏㄚㄨ</rt></ruby>) — Sin Chae-ho (1880–1936)
+- <ruby>安<rt>ㄚㄋ</rt></ruby><ruby>重<rt>ㄑㄛㄫ</rt></ruby><ruby>根<rt>ㄍㄚㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 안중근) <ruby>獨立<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby><ruby>運動家<rt>ㄨㄋㄉㄛㄫㄍㄚ</rt></ruby>, <ruby>刺客<rt>ㄑㄧㄎ·ㄎㄚㄎ</rt></ruby> (1879–1910)
+- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) <ruby>大韓民国<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby><ruby>臨時<rt>ㄌㄧㄇㄙㄧ</rt></ruby><ruby>政府<rt>ㄐㄧㄫㄆㄨ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国務領<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby> (1876–1949)
+- <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>承<rt>ㄙㄨㄫ</rt></ruby><ruby>晩<rt>ㄇㄛㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 이승만 ) <ruby>第一<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby> <ruby>総統<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby> (1875–1965)
+- (신채호 / <ruby>[申](/characters/申.md)<rt>ㄙㄝㄋ</rt></ruby><ruby>[采](/characters/采.md)<rt>ㄑㄚㄧ</rt></ruby><ruby>[浩](/characters/浩.md)<rt>ㄏㄚㄨ</rt></ruby>) — [[民族]][[主義]][[史学]]者 (1880–1936)
 - Kim Il-sung (김일성 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[日](/characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby><ruby>[成](/characters/成%20(char).md)<rt>ㄙㄧㄫ</rt></ruby>) — Kim Il-sung (1912–1994)
 - Kim Jong-il (김정일 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby><ruby>[日](/characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby>) — Kim Jong-il (1941–2011)
 - Kim Jong-un (김정은 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby><ruby>[恩](/characters/恩.md)<rt>ㄚㄋ</rt></ruby>) — Kim Jong-un (b. 1984)

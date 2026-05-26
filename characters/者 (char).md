@@ -43,3 +43,5 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 麻三開]]
+## Words
+- <ruby>[[史学者]]<rt>ㄙㄧㄏㄚㄎㄑㄚ</rt></ruby> "historian"
