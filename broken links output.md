@@ -571,14 +571,12 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 - [[蚯]] in [[lookup/Stroke/Stroke 11]]
 - [[筆画数]] in [[lookup/Stroke/Stroke]]
-- [[䜌]] in [[lookup/名専字]]
-- [[蹶]] in [[lookup/名専字]]
 - [[唇音]] in [[syllables/Syllables]]
 - [[歯茎]] in [[syllables/Syllables]]
 - [[舌背]] in [[syllables/Syllables]]
 - [[濁塞]] in [[syllables/Syllables]]
-- [[海湾]] in [[syllables/⺢ㄇ]]
-- [[頑固]] in [[syllables/⺢ㄋ]]
+
+## Legitimizers
 - [[興旺]] in [[syllables/⺢ㄫ]]
 - [[百越]] in [[syllables/⼔ㄊ]]
 - [[倭人]] in [[syllables/⼔ㄧ]]

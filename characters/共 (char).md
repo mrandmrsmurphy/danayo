@@ -46,6 +46,6 @@ boundedness: 90
 - [[共同]]
 - [[公共]]
 - [[越共]]
-- 
+- <ruby>[[共産党]]<rt>ㄍ⼄ㄫㄙㄚㄋㄉㄚㄫ</rt></ruby> "Communist Party"
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 鍾]]
