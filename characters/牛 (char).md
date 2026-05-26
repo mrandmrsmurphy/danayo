@@ -49,3 +49,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 尤]]
 - [[牛乳]] "cow's milk, milk"
 - <ruby>[[牛虻]]<rt>ㄋ⼜ㄇㄚㄫ</rt></ruby> "gadfly; horsefly"
+- <ruby>[[牛郎星]]<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> "Altair; the Cowherd Star"

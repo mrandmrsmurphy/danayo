@@ -49,3 +49,4 @@ boundedness: 50
 [[Lookup/CC/finals/韻 燭]]
 - 形声 (OC \*roɡ): semantic [[Radical 120|糸]] ("") + phonetic [[]] (OC ).
 - [[緑色]] "green"
+- <ruby>[[緑柱石]]<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby> "beryl"

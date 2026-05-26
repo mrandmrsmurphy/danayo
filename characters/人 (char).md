@@ -97,6 +97,7 @@ boundedness: 75
 36. [[愛人]]
 37. [[小人]]
 38. [[死亡人数]]
+- <ruby>[[人数]]<rt>ㄋㄧㄋㄙㄨ</rt></ruby> "number of people; headcount"
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 - <ruby>[[賎人]]<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby> "plebeian, lowly person"
 - <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄ㄋㄧㄋ</rt></ruby> "rat person"

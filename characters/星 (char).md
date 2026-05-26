@@ -68,3 +68,4 @@ boundedness: 80
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet; Singapore"
 - [[星条旗]] "stars and stripes"
 - [[星霜]] "time and years"
+- <ruby>[[牛郎星]]<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> "Altair; the Cowherd Star"

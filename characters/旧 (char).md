@@ -48,3 +48,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 尤]]
 - [[旧金山]] "San Francisco, "Old Gold Mine"
+- <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"

@@ -43,3 +43,4 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 虞]]
+- <ruby>[[緑柱石]]<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby> "beryl"

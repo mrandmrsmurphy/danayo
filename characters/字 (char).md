@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[数字](/words/数字.md)<rt>ㄙㄨㄐㄧ</rt></ruby> - numeral
 - <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - script
 - <ruby>[新字体](/words/新字体.md)<rt>ㄙㄧㄋㄐㄧㄊㄝㄧ</rt></ruby> - Shinjitai
+- <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"
 - <ruby>[正字](/words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> - correct character
 - <ruby>[正字法](/words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄆㄚㄆ</rt></ruby> - orthography
 - <ruby>[識字](/words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> - literacy

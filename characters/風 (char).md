@@ -46,6 +46,7 @@ boundedness: 90
 ## Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 東三]]
+- <ruby>[[狂風]]<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby> "gale; violent wind"
 - [[風刺]] "satarize, mock"
 - [[風笛]] "bagpipes"
 - [[風潮]] "tempest"
