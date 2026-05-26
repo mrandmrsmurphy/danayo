@@ -47,3 +47,5 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 魚]]
+## Words
+- <ruby>[[科挙]]<rt>ㄎ⺢ㄍ⼄</rt></ruby> "imperial examination"

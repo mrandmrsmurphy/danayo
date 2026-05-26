@@ -51,3 +51,5 @@ boundedness:
 [[Lookup/CC/finals/韻 模]]
 - [[汚物]] "dirt, filth, garbage"
 - [[汚染]] "polute, contaminate"
+## Words
+- <ruby>[[汚吏]]<rt>ㄛㄌㄧ</rt></ruby> "corrupt official"

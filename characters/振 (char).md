@@ -55,4 +55,5 @@ boundedness: 90
 - [[振子]] "pendulum"
 - [[振幅]] "amplitude"
 ## Words
+- <ruby>[[振動]]<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby> "shake; tremble"
 - <ruby>[[振動音]]<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill"

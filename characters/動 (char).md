@@ -51,6 +51,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[震動]]<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby> "vibrate, shake"
+- <ruby>[[振動]]<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby> "shake; tremble"
 - <ruby>[[振動音]]<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill"
 
 # Notes
