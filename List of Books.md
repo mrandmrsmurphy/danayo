@@ -12,17 +12,17 @@
 - 儒林外史
 
 ## 四書
-- [[大学]] --> [[大学 (book)]]
-- [[中庸]] --> [[translation/中庸 (book)]]
+- <ruby>[大学](/words/大学.md)<rt>ㄉㄚㄧㄏㄚㄎ</rt></ruby> --> [[大学 (book)]]
+- <ruby>[中庸](/words/中庸.md)<rt>ㄐㄨㄫ⼄ㄫ</rt></ruby> --> [[translation/中庸 (book)]]
 - <ruby>[論語](/words/論語.md)<rt>ㄌㄛㄋ·⼄</rt></ruby> -> [[論語 (book)]]
-- [[孟子]] --> [[translation/孟子 (book)]]
+- <ruby>[孟子](/words/孟子.md)<rt>ㄇㄚㄫㄐㄜ</rt></ruby> --> [[translation/孟子 (book)]]
 
 ## 五經
-- [[詩経]] --> [[translation/詩経 (book)]]
-- [[書經]]
+- <ruby>[詩経](/words/詩経.md)<rt>ㄙㄧㄍㄝㄫ</rt></ruby> --> [[translation/詩経 (book)]]
+- <ruby>[書経](/words/書経.md)<rt>ㄙ⼄ㄍㄝㄫ</rt></ruby> --> [[translation/書経 (book)]]
 - [[礼記]] -> [[礼記 (book)]]
 - [易經](words/易経.md)
-- [[春秋]]
+- <ruby>[春秋](/words/春秋.md)<rt>ㄑㄨㄋㄑㄨㄛ</rt></ruby> --> [[translation/春秋 (book)]]
 ## 十三經
 - 三禮
     - 周禮

@@ -1,1 +1,4 @@
 - [[translation/詩経/国風]] - Lessons from the states 
+- [[translation/詩経/小雅]] - Minor odes of the kingdom 
+- 詩経/大雅 - Greater odes of the kingdom 
+- 詩経/頌 - Odes of the temple and the altar 
