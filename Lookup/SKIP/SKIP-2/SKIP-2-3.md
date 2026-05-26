@@ -23,10 +23,10 @@ Top component has 3 strokes. Dominant components: 艹, 宀, 山, 穴.
 14. [SKIP-2-3-14](lookup/SKIP/SKIP-2/SKIP-2-3-14.md): 嶺, 蔔, 薩, 藁, 賽
 15. [SKIP-2-3-15](lookup/SKIP/SKIP-2/SKIP-2-3-15.md): 竄, 繭, 藍, 藤, 藩, 藷
 16. [SKIP-2-3-16](lookup/SKIP/SKIP-2/SKIP-2-3-16.md): 寵, 藻, 蘇, 蘭
-17. ø
-18. ø
+17. [SKIP-2-3-17](SKIP-2-3-17.md): ø
+18. [SKIP-2-3-18](SKIP-2-3-18.md): ø
 19. [SKIP-2-3-19](lookup/SKIP/SKIP-2/SKIP-2-3-19.md): 蘿
-20. ø
+20. [SKIP-2-3-20](SKIP-2-3-20.md): ø
 
 ## Base check
 ```base

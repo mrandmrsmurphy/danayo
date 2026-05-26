@@ -57,5 +57,6 @@ boundedness: 75
 - [SKIP-1-8-5](lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) · [ㄊㄝㄊ](syllables/ㄊㄝㄊ.md) · [[Lookup/CC/initials/聲 透|tʰ]] [[Lookup/CC/finals/韻 屑開|et]]
 ## Words
 - <ruby>[[銑鉄]]<rt>ㄙㄝㄋㄊㄝㄊ</rt></ruby> "pig iron, cast iron"
+- <ruby>[[鉄板]]<rt>ㄊㄝㄊㄆㄚㄋ</rt></ruby> "iron grill"
 ## Chengyu
 - <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"

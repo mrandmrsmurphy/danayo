@@ -23,9 +23,9 @@ Top component has 6 strokes. Dominant components: 竹, 貝, 羽, 見.
 14. [SKIP-2-6-14](lookup/SKIP/SKIP-2/SKIP-2-6-14.md): 籍, 纂
 15. [SKIP-2-6-15](lookup/SKIP/SKIP-2/SKIP-2-6-15.md): 籃
 16. [SKIP-2-6-16](lookup/SKIP/SKIP-2/SKIP-2-6-16.md): 籠
-17. ø
+17. [SKIP-2-6-17](SKIP-2-6-17.md): ø
 18. ø
-19. ø
+19. [SKIP-2-6-19](SKIP-2-6-19.md): ø
 
 ## Base check
 ```base

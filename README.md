@@ -44,11 +44,9 @@ The following are not content pages, but "programming"
 - [chengyu_info](nav/chengyu_info.md)
 - [numerals](nav/numerals.md)
 - [word_info](nav/word_info.md)
-- [LICENSE](LICENSE)
-- [CONTENT-LICENSE](CONTENT-LICENSE)
 - [CLAUDE](CLAUDE.md)
 	- [Character Inclusion Philosophy](Character%20Inclusion%20Philosophy.md)
-
+	- [MEMORY](MEMORY.MD)
 ----
 
 ## Bases
@@ -57,4 +55,5 @@ The following are not content pages, but "programming"
 - [Char base](characters/Char%20base.base)
 - [All Chengyu Base](chengyu/All%20Chengyu%20Base.base)
 - [Words Base](words/Words%20Base.base)
-
+- [Syllables Base](syllables/Syllables%20Base.base)
+- [SKIP Leaf Base](lookup/SKIP/SKIP%20Leaf%20Base.base)
