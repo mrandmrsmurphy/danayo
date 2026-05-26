@@ -57,7 +57,7 @@
 
 ## Daoism
 - [[道徳経]] -> [道徳経 (book)](translation/道徳経%20(book).md)
-- [莊子](words/荘子.md)
+- <ruby>[荘子](/words/荘子.md)<rt>ㄐ⺢ㄫㄐㄧ</rt></ruby> _Zhuangzi_ --> [translation/荘子 (book)](translation/荘子%20(book))
 - 列子
 - 淮南子
 - 太平經
