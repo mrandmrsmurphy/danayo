@@ -42,4 +42,5 @@ boundedness: 90
 ```
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 豪]]
+- <ruby>[[高盧]]<rt>ㄍㄚㄨㄌㄛ</rt></ruby> "Gaul"
 - [[高考]] "higher exam"

@@ -48,6 +48,7 @@ boundedness: 90
 
 - [List of 象形](lookup/List%20of%20象形.md): rotation (originally a spiral).
 ## Words
+- <ruby>[[輪回]]<rt>ㄌㄨㄋㄏㄛㄧ</rt></ruby> "saṃsāra; cycle of rebirth"
 - <ruby>[回路](/words/回路.md)<rt>ㄏㄛㄧㄌㄛ</rt></ruby> - loop, circuit 
 - [[迂回]]
 - [[回天]]

@@ -54,6 +54,7 @@ boundedness: 80
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
 
 ## Words
+- <ruby>[[無明]]<rt>ㄇㄜㄇ⼶ㄫ</rt></ruby> "avidyā; ignorance"
 - [[無名]]
 - [[無双]]
 - [[無政府]]

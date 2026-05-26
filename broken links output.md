@@ -1,4 +1,4 @@
-Don't forget that creating the file from here may create the file in the wrong directory!
+## AI Touched Me
 - [[丂]] in [[AI's Robot Touched Me]], [[characters/可 (char)]], [[characters/号]], [[characters/巧]], [[characters/昜]]
 - [[㠯]] in [[AI's Robot Touched Me]], [[characters/台 (char)]]
 - [[宀]] in [[AI's Robot Touched Me]], [[characters/向 (char)]]
@@ -70,6 +70,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[書經]] in [[List of Books]], [[words/光明]]
 - [[道徳経]] in [[List of Books]]
 
+## Characters Pages
 - [[㪘]] in [[characters/㪘 (char)]], [[syllables/ㄌ⼶ㄇ]]
 - [[草亀]] in [[characters/亀 (char)]]
 - [[牛井]] in [[characters/井]]
@@ -231,6 +232,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[鸚哥]] in [[characters/鸚]]
 - [[麦茶]] in [[characters/麦]]
 - [[黙黙]] in [[characters/黙]]
+## Chengyu
 - [[瞭然]] in [[chengyu/一目瞭然]], [[old broken links output]]
 - [[世仇]] in [[chengyu/世仇宿敵]], [[old broken links output]]
 - [[宿敵]] in [[chengyu/世仇宿敵]], [[old broken links output]]
@@ -249,6 +251,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[楼閣]] in [[chengyu/空中楼閣]], [[old broken links output]]
 - [[自失]] in [[chengyu/茫然自失]], [[old broken links output]]
 - [[無我]] in [[chengyu/諸法無我]], [[old broken links output]]
+## Grammar
 - [[文法 - 07読本]] in [[grammar/単亜語之文法書]]
 - [[相関詞]] in [[grammar/文法 - 01序文]]
 - [[上代]] in [[grammar/文法 - 01序文]]
@@ -392,6 +395,8 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[虎鯨]] in [[grammar/文法 - 98違法字]]
 - [[虎鯉魚]] in [[grammar/文法 - 98違法字]]
 - [[分類学]] in [[lexipedia/Animals]]
+
+## Geography
 - [[広土]] in [[lexipedia/Geography]]
 - [[国主]] in [[lexipedia/Geography]]
 - [[内乱]] in [[lexipedia/Geography]]
@@ -539,6 +544,8 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[僕射]] in [[lexipedia/歴史綱要]]
 - [[射策]] in [[lexipedia/歴史綱要]]
 - [[律学]] in [[lexipedia/歴史綱要]]
+
+## Lookup
 - [[古文]] in [[lookup/CC/Classical Chinese]]
 - [[文言]] in [[lookup/CC/Classical Chinese]]
 - [[㐮]] in [[lookup/HSK/HSK No]], [[lookup/Stroke/Stroke 13]], [[lookup/名専字]], [[syllables/ㄙ⼘ㄫ]]
@@ -890,6 +897,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[自尊]] in [[translation/論語 (book)]]
 - [[和敬]] in [[translation/論語 (book)]]
 - [[痛哭]] in [[translation/論語 (book)]]
+## Words Pages
 - [[漢方]] in [[words/七情]]
 - [[医学]] in [[words/七情]]
 - [[参拾]] in [[words/三十]]
@@ -964,5 +972,3 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[狂風]] in [[words/風狂]]
 - [[栄養素]] in [[words/養素]]
 - [[高盧]] in [[words/高素]]
-- [[輪廻]] in [[words/魔羅]]
-- [[無明]] in [[words/黒暗]]

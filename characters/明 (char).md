@@ -50,6 +50,7 @@ boundedness: 100
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md)) - [ㄇ⼶ㄫ](../syllables/ㄇ⼶ㄫ.md)
 
 ## Words
+- <ruby>[[無明]]<rt>ㄇㄜㄇ⼶ㄫ</rt></ruby> "avidyā; ignorance"
 - [[鷦明]]
 - [[孔明]]
 - <ruby>[[啓明]]<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> "morning star"
