@@ -446,8 +446,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[基金]] in [[lexipedia/Geography]]
 - [[多辺]] in [[lexipedia/Geography]]
 - [[協議]] in [[lexipedia/Geography]]
-- [[北美洲]] in [[lexipedia/Geography]], [[words/美洲]]
-- [[南美洲]] in [[lexipedia/Geography]], [[words/美洲]]
 - [[南極洲]] in [[lexipedia/Geography]]
 - [[太平]] in [[lexipedia/Geography]]
 - [[大西洋]] in [[lexipedia/Geography]]
@@ -463,6 +461,8 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[王域]] in [[lexipedia/Geography]]
 - [[並列]] in [[lexipedia/Geography]]
 - [[宇宙観]] in [[lexipedia/Geography]]
+
+## Lexipedia Pages
 - [[lexipedia/Directions]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Efforts]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Emotions]] in [[lexipedia/Lexipedia]]
@@ -497,6 +497,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[lexipedia/Trade]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Valuation]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/War]] in [[lexipedia/Lexipedia]]
+
 - [[二回]] in [[lexipedia/Numbers]]
 - [[二度]] in [[lexipedia/Numbers]]
 - [[日本素]] in [[lexipedia/Periodic Table]]
