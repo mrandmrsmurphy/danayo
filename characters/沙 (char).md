@@ -56,3 +56,4 @@ boundedness: 90
 - [[沙羅双樹]] "sal tree, shala, sakhua"
 - [[沙悟浄]] "Sha Wujing"
 - <ruby>[[硼砂]]<rt>ㄅㄛㄫㄙㄚ</rt></ruby> "borax"
+- <ruby>[[沙漠]]<rt>ㄙㄚㄇㄚㄎ</rt></ruby> "desert"

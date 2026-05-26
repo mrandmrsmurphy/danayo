@@ -407,7 +407,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[高山]] in [[lexipedia/Geography]]
 - [[界線]] in [[lexipedia/Geography]]
 - [[西亜]] in [[lexipedia/Geography]]
-- [[沙漠]] in [[lexipedia/Geography]], [[syllables/ㄇㄚㄎ]]
 - [[地帯]] in [[lexipedia/Geography]]
 - [[要地]] in [[lexipedia/Geography]]
 - [[中亜]] in [[lexipedia/Geography]]
@@ -512,8 +511,9 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[邁金]] in [[lexipedia/Periodic Table]]
 - [[達金]] in [[lexipedia/Periodic Table]]
 - [[哥金]] in [[lexipedia/Periodic Table]]
-- [[嬴]] in [[lexipedia/Periodic Table]], [[lookup/Korean/Korean Name ㅇ]]
-- [[恩德]] in [[lexipedia/基督敎]]
+
+
+## History
 - [[奈良]] in [[lexipedia/歴史綱要]]
 - [[三国]] in [[lexipedia/歴史綱要]]
 - [[高句麗]] in [[lexipedia/歴史綱要]]
@@ -526,7 +526,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[徳川]] in [[lexipedia/歴史綱要]]
 - [[李氏]] in [[lexipedia/歴史綱要]]
 - [[大韓帝国]] in [[lexipedia/歴史綱要]]
-- [[共産党]] in [[lexipedia/歴史綱要]], [[words/越共]]
 - [[民国]] in [[lexipedia/歴史綱要]]
 - [[大韓民国]] in [[lexipedia/歴史綱要]]
 - [[小学]] in [[lexipedia/歴史綱要]]
@@ -613,8 +612,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[痛罵]] in [[syllables/ㄇㄚ]]
 - [[分娩]] in [[syllables/ㄇㄚㄋ]]
 - [[蔓延]] in [[syllables/ㄇㄚㄋ]]
-- [[大麦]] in [[syllables/ㄇㄚㄎ]]
-- [[薄膜]] in [[syllables/ㄇㄚㄎ]]
 - [[冒険]] in [[syllables/ㄇㄚㄨ]]
 - [[長矛]] in [[syllables/ㄇㄚㄨ]]
 - [[墓穴]] in [[syllables/ㄇㄛ]]

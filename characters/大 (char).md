@@ -82,6 +82,7 @@ boundedness: 90
 - <ruby>[[大食]]<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby> "gluttony; binge eating"
 - <ruby>[[大麻]]<rt>ㄉㄚㄧㄇㄚ</rt></ruby> "hemp; cannabis"
 - <ruby>[[大同]]<rt>ㄉㄚㄧㄉㄛㄫ</rt></ruby> "Great Unity; utopia"
+- <ruby>[[大麦]]<rt>ㄉㄚㄧㄇㄚㄎ</rt></ruby> "barley"
 - <ruby>[[大麦茶]]<rt>ㄉㄚㄧㄇㄚㄎㄑㄚ</rt></ruby> "barley tea"
 - <ruby>[[大蛤]]<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby> "clam"
 - <ruby>[[正大]]<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby> "proper; upright"
