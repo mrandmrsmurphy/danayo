@@ -8,7 +8,7 @@ tags:
 > <ruby>[論語](/words/論語.md)<rt>ㄌㄛㄋ·⼄</rt></ruby>
 
 1. [[translation/論語 (book) - 01学而]]
-2. translation/論語 (book) - 02為政
+2. [[translation/論語 (book) - 02為政]]
 3. translation/論語 (book) - 03八溢
 4. translation/論語 (book) - 04里仁
 5. translation/論語 (book) - 05公冶
@@ -26,7 +26,7 @@ tags:
 17. translation/論語 (book) - 17陽貨
 18. translation/論語 (book) - 18微子
 19. translation/論語 (book) - 19子張
-20. translation/論語 (book) - 20尭曰
+20. [[translation/論語 (book) - 20尭曰]]
 
 ## Vocabulary 
 While <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ·⼄</rt></ruby> has a lot in common with Classical/Literary Chinese, they are separate languages.  This is most manifest in the principle that Dan'a'yo does not have an open set of Chinese Characters.  The corpus of classic texts contains some obscure hapax legomena and the like, so some substitution is necessary.
