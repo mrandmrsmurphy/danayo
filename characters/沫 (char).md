@@ -50,3 +50,5 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 末]]
+## Words
+- <ruby>[[泡沫]]<rt>ㄆㄚㄨㄇㄚㄊ</rt></ruby> "foam; bubbles; froth"
