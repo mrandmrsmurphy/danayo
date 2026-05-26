@@ -76,3 +76,4 @@
 
 ## Others
 - [周礼 (book)](translation/周礼%20(book).md) _Rites of Zhou_
+- [[Redeeming the Six Arts]]

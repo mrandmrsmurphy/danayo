@@ -88,6 +88,7 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 * <ruby>[[一致]]<rt>읻츼</rt></ruby> - unanimous, agree with
 * <ruby>[[一体]]<rt>읻테</rt></ruby> - organic whole, unity
 * [[統一]]
+* <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧ·ㄧㄊㄊㄝㄧ</rt></ruby> - Trinity
 ## Chengyu
 - <ruby>[一字千金](/chengyu/一字千金.md)<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby>
 - <ruby>[一網打尽](/chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby>
