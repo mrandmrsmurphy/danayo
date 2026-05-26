@@ -1,12 +1,12 @@
 ---
 language: 単亜語
 ---
-<ruby>[朝鮮](/words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby> + <ruby>[韓国](/words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
+<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby> + <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
 
 ## 有名
-- An Jung-geun (안중근 / <ruby>[安](/characters/安.md)<rt>ㄚㄋ</rt></ruby><ruby>[重](/characters/重%20(char).md)<rt>ㄑㄛㄫ</rt></ruby><ruby>[根](/characters/根%20(char).md)<rt>ㄍㄚㄋ</rt></ruby>) — (1879–1910)
-- Kim Gu (김구 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[九](/characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby>) — (1876–1949)
-- Syngman Rhee (이승만 / <ruby>[李](/characters/李.md)<rt>ㄌㄧ</rt></ruby><ruby>[承](/characters/承.md)<rt>ㄙㄨㄫ</rt></ruby><ruby>[晩](/characters/晩%20(char).md)<rt>ㄇㄛㄋ</rt></ruby>) — Yi Seung-man (1875–1965)
+- <ruby>安<rt>ㄚㄋ</rt></ruby><ruby>重<rt>ㄑㄛㄫ</rt></ruby><ruby>根<rt>ㄍㄚㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 안중근) 獨立運動家, [[刺客]] (1879–1910)
+- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) 獨立運動家, [[大韓民国]][[臨時]][[政府]]の國務令 (1876–1949)
+- (이승만 / <ruby>[李](/characters/李.md)<rt>ㄌㄧ</rt></ruby><ruby>[承](/characters/承.md)<rt>ㄙㄨㄫ</rt></ruby><ruby>[晩](/characters/晩%20(char).md)<rt>ㄇㄛㄋ</rt></ruby>) —  (1875–1965)
 - Shin Chae-ho (신채호 / <ruby>[申](/characters/申.md)<rt>ㄙㄝㄋ</rt></ruby><ruby>[采](/characters/采.md)<rt>ㄑㄚㄧ</rt></ruby><ruby>[浩](/characters/浩.md)<rt>ㄏㄚㄨ</rt></ruby>) — Sin Chae-ho (1880–1936)
 - Kim Il-sung (김일성 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[日](/characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby><ruby>[成](/characters/成%20(char).md)<rt>ㄙㄧㄫ</rt></ruby>) — Kim Il-sung (1912–1994)
 - Kim Jong-il (김정일 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby><ruby>[日](/characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby>) — Kim Jong-il (1941–2011)
