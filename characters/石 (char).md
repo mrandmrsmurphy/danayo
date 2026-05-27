@@ -52,6 +52,7 @@ boundedness: 90
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 昔開]]
 - <ruby>[[緑柱石]]<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby> "beryl"
+- <ruby>[[石灰]]<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby> "quicklime"
 - [[石版]] "lithograph, slabstone"
 - [[石英]] "quartz"
 - [[石像]] "statue"

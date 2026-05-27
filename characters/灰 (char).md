@@ -50,3 +50,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 灰]]
 ## Words
 - <ruby>[[灰色]]<rt>ㄏㄛㄧㄙㄧㄎ</rt></ruby> "grey"
+- <ruby>[[石灰]]<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby> "quicklime"
