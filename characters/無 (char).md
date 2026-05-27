@@ -71,5 +71,6 @@ boundedness: 80
 - [[無効]]
 - <ruby>[[無極]]<rt>ㄇㄜㄍㄧㄎ</rt></ruby> "limitless"
 - <ruby>[[無限]]<rt>ㄇㄜㄏㄚㄋ</rt></ruby> "infinity; infinite"
+- <ruby>[[無形]]<rt>ㄇㄜㄏㄝㄫ</rt></ruby> "formless; intangible"
 [[Lookup/CC/initials/聲 微]]
 [[Lookup/CC/finals/韻 虞]]

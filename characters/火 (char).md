@@ -58,6 +58,7 @@ boundedness: 90
 - [[鬼火]]
 - <ruby>[[噴火]]<rt>ㄆㄛㄋㄏ⺢</rt></ruby> "to erupt; volcanic eruption"
 - <ruby>[[火炎]]<rt>ㄏ⺢ㄝㄇ</rt></ruby> "flame"
+- <ruby>[[火紅]]<rt>ㄏ⺢ㄏㄛㄫ</rt></ruby> "fire-red; blazing red"
 
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 戈一合]]

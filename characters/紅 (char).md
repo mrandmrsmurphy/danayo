@@ -53,3 +53,4 @@ boundedness: 65
 - [[紅鶴]] "flamingo"
 - [[紅玉]] "ruby"
 - <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"
+- <ruby>[[火紅]]<rt>ㄏ⺢ㄏㄛㄫ</rt></ruby> "fire-red; blazing red"

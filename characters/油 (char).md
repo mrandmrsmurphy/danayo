@@ -45,3 +45,4 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 尤]]
+- <ruby>[[石油]]<rt>ㄙㄝㄎ⼜</rt></ruby> "petroleum"
