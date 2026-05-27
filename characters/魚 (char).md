@@ -49,6 +49,7 @@ boundedness: 35
 
 ## Words
 - <ruby>[[魚叉]]<rt>⼄ㄑㄚㄧ</rt></ruby> "harpoon; fish spear"
+- <ruby>[[鰌魚]]<rt>ㄑㄨ⼄</rt></ruby> "loach; weatherfish"
 - <ruby>[魚雷](/words/魚雷.md)<rt>⼄ㄌㄛㄧ</rt></ruby> "torpedo"
 - <ruby>[周魚](/words/周魚.md)<rt>ㄐㄨㄛ·⼄</rt></ruby> "sea bream"
 
