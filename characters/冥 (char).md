@@ -50,3 +50,5 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 青開]]
+## Words
+- <ruby>[[冥王]]<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby> "Pluto; Hades; Yama; King of the Underworld"

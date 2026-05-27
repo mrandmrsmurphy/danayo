@@ -46,5 +46,7 @@ boundedness: 80
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 先開]]
 - <ruby>[[元年]]<rt>⼔ㄋ·ㄋㄝㄋ</rt></ruby> "first year of an era"
+- <ruby>[[千年]]<rt>ㄑㄝㄋ·ㄋㄝㄋ</rt></ruby> "millennium; a thousand years"
+- <ruby>[[千年紀]]<rt>ㄑㄝㄋ·ㄋㄝㄋㄍㄧ</rt></ruby> "millennium (numbered historical unit)"
 - [[年刊]] "annual, annual publication"
 - <ruby>[[週年]]<rt>ㄐㄨㄛㄋㄝㄋ</rt></ruby> "anniversary"

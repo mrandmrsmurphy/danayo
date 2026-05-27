@@ -49,5 +49,6 @@ boundedness: 90
 - <ruby>[[../chengyu/尊王攘夷]]<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians; uphold the sovereign and reject foreign intrusion"
 - [[王冠]]
 - [[王妃]]
+- <ruby>[[冥王]]<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby> "Pluto; Hades; Yama; King of the Underworld"
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 陽合]]

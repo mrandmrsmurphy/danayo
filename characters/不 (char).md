@@ -82,5 +82,7 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 - <ruby>[[異体不容]]<rt>ㄧㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted; one canonical character form only"
 - <ruby>[百聞不如一見](/chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> - one look is worth a thousand tellings
 - <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ·⼄</rt></ruby> "not speaking a word; total silence"
+- <ruby>[[不穏]]<rt>ㄅㄛㄊㄛㄋ</rt></ruby> "unstable; unsettled; ominous"
+- <ruby>[[不安]]<rt>ㄅㄛㄊㄚㄋ</rt></ruby> "anxiety; unease; insecurity"
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby>
 - [[不可思議]]
