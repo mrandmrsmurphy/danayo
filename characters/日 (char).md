@@ -57,3 +57,4 @@ boundedness: 60
 - <ruby>[[閏日]]<rt>ㄋㄨㄋ·ㄋㄧㄊ</rt></ruby> "leap day"
 - <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
 - <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"
+- <ruby>[[日暮]]<rt>ㄋㄧㄊㄇㄛ</rt></ruby> "dusk, nightfall"

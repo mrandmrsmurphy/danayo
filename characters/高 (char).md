@@ -44,3 +44,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 豪]]
 - <ruby>[[高盧]]<rt>ㄍㄚㄨㄌㄛ</rt></ruby> "Gaul"
 - [[高考]] "higher exam"
+
+## Words
+- <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby> "peak, summit"
