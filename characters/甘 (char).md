@@ -44,5 +44,6 @@ boundedness: 60
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 談]]
 - [[甘露]] "honeydew, nectar, amrita"
+- <ruby>[[炉甘石]]<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby> "calamine"
 - [[甘藷]] "sweet potato"
 - [[甘味]] "sweetness, sweet taste"
