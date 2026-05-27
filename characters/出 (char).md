@@ -59,3 +59,4 @@ boundedness: 90
 - [[出席]] "attend,present"
 - [[出勤]] "go to work"
 - <ruby>[[滲出]]<rt>ㄙㄛㄇㄑㄨㄊ</rt></ruby> "seep out"
+- <ruby>[[射出]]<rt>ㄙ⼘ㄑㄨㄊ</rt></ruby> "emit; eject; shoot out"

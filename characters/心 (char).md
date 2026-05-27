@@ -58,6 +58,7 @@ boundedness: 90
 - [[誠心]]
 - [[関心]]
 - <ruby>[[懸心]]<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby> "to bear in mind"
+- <ruby>[[邪心]]<rt>ㄙ⼘ㄙㄧㄇ</rt></ruby> "wicked heart; evil intent; selfish motive"
 
 ## Chengyu
 - [[誠心誠意]]
