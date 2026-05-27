@@ -43,3 +43,5 @@ boundedness: 80
 ```
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 東三]]
+## Words
+- <ruby>[[弓道]]<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby> "Japanese archery; the Way of the Bow"

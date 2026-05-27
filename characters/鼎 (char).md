@@ -46,3 +46,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 青開]]
+## Chengyu
+- <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"

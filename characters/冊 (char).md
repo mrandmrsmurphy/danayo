@@ -46,3 +46,5 @@ boundedness: 80
 
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): bamboo slips strung together. See also 侖, 扁, and 典. Similar but unrelated to 龠. The contemporary stylized form 册 is unrelated to 朋.
+## Words
+- <ruby>[[冊子]]<rt>ㄑㄚㄎㄐㄜ</rt></ruby> "book"

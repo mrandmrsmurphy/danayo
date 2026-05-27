@@ -45,6 +45,7 @@ boundedness: 90
 
 ## Chengyu 
 - <ruby>[春夏秋冬](/chengyu/春夏秋冬.md)<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby>
+- <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 諄]]
 - [[春季]] "spring"

@@ -49,3 +49,5 @@ boundedness: 65
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 尤]]
 - [[秋波]] "autumn ripples"
+## Chengyu
+- <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"

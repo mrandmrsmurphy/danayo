@@ -74,6 +74,7 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
+- <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 - <ruby>[不共戴天](/chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby>
 - [[不遠千里]]
 - <ruby>[優柔不断](/chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> - shilly shally

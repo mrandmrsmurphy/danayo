@@ -46,6 +46,7 @@ boundedness: 90
 
 ## Chengyu
 - [[塩地光世]]
+- <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 ## Words
 - [[地図]] - map
 - [[地図冊]] - atlas
