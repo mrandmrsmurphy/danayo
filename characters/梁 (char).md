@@ -47,3 +47,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[棟梁]]<rt>ㄉㄛㄫㄌ⼘ㄫ</rt></ruby> "ridgepole; mainstay"
+- <ruby>[[跳梁]]<rt>ㄊㄛㄨㄌ⼘ㄫ</rt></ruby> "to run rampant, to jump about wildly"
+
+## Chengyu
+- <ruby>[[跳梁跋扈]]<rt>ㄊㄛㄨㄌ⼘ㄫㄅㄚㄊㄏㄛ</rt></ruby> "running rampant; domineering and lawless"

@@ -47,6 +47,7 @@ boundedness: 80
 [[../lookup/CC/finals/韻 鈬開]]
 
 ## Words
+- <ruby>[[詩作]]<rt>ㄙㄧㄐㄚㄎ</rt></ruby> "poem; to compose poetry"
 - [[作用]]
 - [[製作]]
 - [[傑作]]

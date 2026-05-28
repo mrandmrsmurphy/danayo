@@ -50,5 +50,6 @@ boundedness: 80
 [[Lookup/CC/finals/韻 陌三開]]
 
 ## Words
+- <ruby>[[劇詩]]<rt>ㄍㄝㄎㄙㄧ</rt></ruby> “dramatic poetry”
 - [[劇場]] “cinema,theater”
 - <ruby>[[軽歌劇]]<rt>ㄎㄧㄫㄍㄜㄍㄝㄎ</rt></ruby> “light opera, operetta”
