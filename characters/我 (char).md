@@ -52,6 +52,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[無我]]<rt>ㄇㄜㄚ</rt></ruby> "non-self, anattā"
+
 # Notes
 - Neither [[吾]] nor [[瓦]] are not used as pronoun, so this character takes their place.  Pronounced [[ㄚ]].
 - A 會意, but what are the components?  Folk etymologies consider it a hand (手) holding a weapon (戈).  In all likelihood, the pieces are lost. [[ㄚ]]

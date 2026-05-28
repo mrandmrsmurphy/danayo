@@ -49,3 +49,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[哄笑]]<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby> "burst out laughing"
+- <ruby>[[大笑]]<rt>ㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously"

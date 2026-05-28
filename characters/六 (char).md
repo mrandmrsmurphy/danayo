@@ -48,6 +48,7 @@ boundedness: 50
 ```
 ### Words
 - [[words/六十]] sixty
+- <ruby>[[六府]]<rt>ㄌㄨㄎㄈㄨ</rt></ruby> "six hollow organs"
 #### Data check
 ```dataview
 table 諺文, english
