@@ -178,8 +178,6 @@
 - [[缺勤]] in [[characters/缺]]
 - [[缺席]] in [[characters/缺]]
 - [[羊狂]] in [[characters/羊]]
-- [[翅鞘]] in [[characters/翅]]
-- [[展翅]] in [[characters/翅]]
 - [[照耀]] in [[characters/耀]], [[syllables/⼄ㄨ]]
 - [[磨耗]] in [[characters/耗]]
 - [[眈眈]] in [[characters/耽 (char)]]
