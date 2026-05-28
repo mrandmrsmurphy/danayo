@@ -46,7 +46,7 @@ boundedness: 100
 ```
 
 ## Notes
-- [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 9](lookup/Stroke/Stroke%209.md)) · [ㄐㄝㄋ](syllables/ㄐㄝㄋ.md) · [[Lookup/CC/initials/聲 從|d͡z]] [[Lookup/CC/finals/韻 先開|en]]
+- [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md)) · [ㄐㄝㄋ](syllables/ㄐㄝㄋ.md) · [[Lookup/CC/initials/聲 從|d͡z]] [[Lookup/CC/finals/韻 先開|en]]
 ## Words
 - [[前置詞]] "preposition"
 - [[前後]] "front and rear, before and after, from beginning to end, consequences"

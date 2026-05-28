@@ -62,4 +62,6 @@ boundedness: 75
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 脂A三開]]
+## Words
+- <ruby>[[四川]]<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby> "Sichuan"
 - [[四面]] "four cardinal directions, all sides, all around"

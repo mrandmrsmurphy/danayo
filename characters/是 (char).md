@@ -40,7 +40,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 9](lookup/Stroke/Stroke%209.md)) · [ㄙㄝ](syllables/ㄙㄝ.md) · [[Lookup/CC/initials/聲 禪|d͡ʑ]] [[Lookup/CC/finals/韻 支三開|iᴇ]]
+- [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md)) · [ㄙㄝ](syllables/ㄙㄝ.md) · [[Lookup/CC/initials/聲 禪|d͡ʑ]] [[Lookup/CC/finals/韻 支三開|iᴇ]]
 ## Derived Characters
 - <ruby>[匙](/characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
 ## Chengyu

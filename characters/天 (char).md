@@ -86,3 +86,4 @@ boundedness: 80
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 - <ruby>[[天頂]]<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> "zenith"
 - <ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> "heavenly stems"
+- <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"

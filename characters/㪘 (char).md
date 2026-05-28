@@ -42,6 +42,9 @@ boundedness:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[㪘]]<rt>ㄌ⼶ㄇ</rt></ruby> "to gather, collect, restrain"
+
 ## Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 鹽A三]]

@@ -51,10 +51,10 @@ boundedness: 90
 - <ruby>[[輪回]]<rt>ㄌㄨㄋㄏㄛㄧ</rt></ruby> "saṃsāra; cycle of rebirth"
 - <ruby>[回路](/words/回路.md)<rt>ㄏㄛㄧㄌㄛ</rt></ruby> - loop, circuit 
 - [[迂回]]
-- [[回天]]
+- <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"
 - [[回転]]
 - [[回廊]]
-- [[回虫]]
+- <ruby>[[回虫]]<rt>ㄏㄛㄧㄐㄨㄫ</rt></ruby> "roundworm"
 
 ## Chengyu
 - <ruby>[起死回生](/chengyu/起死回生.md)<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby>

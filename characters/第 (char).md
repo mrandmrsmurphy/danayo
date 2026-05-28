@@ -49,3 +49,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 齊開]]
 ## Words
 - <ruby>[[及第]]<rt>ㄍㄨㄆㄉㄝㄧ</rt></ruby> "to pass an imperial exam; to pass a grade"
+- <ruby>[[第八]]<rt>ㄉㄝㄧㄅㄚㄊ</rt></ruby> "eighth"

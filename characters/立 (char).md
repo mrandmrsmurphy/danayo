@@ -52,5 +52,5 @@ boundedness: 90
 - <ruby>[[義以立名]]<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
 ## Words
-- <ruby>[[獨立]]<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby> "independent"
+- <ruby>[[独立]]<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby> "independence, independent"
 - <ruby>[[立憲]]<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby> "constitutional governance; constitutionalism"

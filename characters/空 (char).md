@@ -41,14 +41,13 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 空.
 >For the word, see [空](words/空.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
 - 形声 (OC \*kʰoːŋ, \*kʰoːŋs): semantic [[Radical 116|穴]] (“cave, hole”) + phonetic [[工]] (OC \*koːŋ).
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
-- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 8](lookup/Stroke/Stroke%208.md)) · [ㄎㄛㄫ](syllables/ㄎㄛㄫ.md) · [[Lookup/CC/initials/聲 溪|kʰ]] [[Lookup/CC/finals/韻 東一|uŋ]]
+- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) · [ㄎㄛㄫ](syllables/ㄎㄛㄫ.md) · [[Lookup/CC/initials/聲 溪|kʰ]] [[Lookup/CC/finals/韻 東一|uŋ]]
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> “unprecedented and unrepeatable; without parallel before or after”
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> “form is precisely emptiness”

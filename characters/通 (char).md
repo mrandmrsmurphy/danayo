@@ -43,6 +43,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[通信]]<rt>ㄊㄛㄫㄙㄧㄋ</rt></ruby> "communication, correspondence"
+
 # Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 東一]]

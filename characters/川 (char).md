@@ -55,4 +55,4 @@ boundedness: 70
 - [[words/山川]] mountains and rivers, scenery
 - [[瀧川]] Takigawa
 - [[江戸川]] Edo river
-- [[四川]] Sichuan
+- <ruby>[[四川]]<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby> "Sichuan"
