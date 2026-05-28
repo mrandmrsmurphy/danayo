@@ -162,9 +162,9 @@ tags: [lookup]
 [[品 (char)]]: 7
 [[向 (char)]]: 7
 [[照 (char)]]: 7
-[[戰]]: 7
+[戰](../../characters/戦.md): 7
 [[整 (char)]]: 7
-[[树]]: 6
+[树](../../characters/樹.md): 6
 [[樹]]: 6
 [拜](../../characters/拝%20(char).md): 6
 [[石 (char)]]: 6

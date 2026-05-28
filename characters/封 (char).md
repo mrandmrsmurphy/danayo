@@ -38,6 +38,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[封]]<rt>ㄈㄛㄫ</rt></ruby> "to seal, to enfeoff"
+
 # Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 鍾]]
