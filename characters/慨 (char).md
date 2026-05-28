@@ -45,6 +45,6 @@ boundedness: 90
 
 - 形声 (OC \*kʰɯːds): semantic [[Radical 061|心]] ("heart") + phonetic [[既]] (OC \*kɯds).
 ## Words
-- [[憤慨]] - resent
+- <ruby>[[憤慨]]<rt>ㄅㄨㄋㄎㄚㄧ</rt></ruby> "indignant, resentful, outraged"
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 咍]]
