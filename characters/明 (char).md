@@ -51,6 +51,7 @@ boundedness: 100
 
 ## Words
 - <ruby>[[無明]]<rt>ㄇㄜㄇ⼶ㄫ</rt></ruby> "avidyā; ignorance"
+- <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
 - [[鷦明]]
 - [[孔明]]
 - <ruby>[[啓明]]<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> "morning star"

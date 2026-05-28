@@ -45,3 +45,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 麻三開]]
 ## Words
 - <ruby>[[史学者]]<rt>ㄙㄧㄏㄚㄎㄑㄚ</rt></ruby> "historian"
+- <ruby>[[従者]]<rt>ㄐㄛㄫㄑㄚ</rt></ruby> "attendant, follower, retainer"

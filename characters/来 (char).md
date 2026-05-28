@@ -47,3 +47,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 咍]]
 - [[来臨]] "come near, arrive"
 - [[来年]] "next year"
+- <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto, conventional"

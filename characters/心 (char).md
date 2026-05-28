@@ -45,7 +45,7 @@ boundedness: 90
 
 - [List of 象形](lookup/List%20of%20象形.md): a heart, now highly stylized.
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
-- [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 4](lookup/Stroke/Stroke%204.md)) · [ㄙㄧㄇ](syllables/ㄙㄧㄇ.md) · [[Lookup/CC/initials/聲 心|s]] [[Lookup/CC/finals/韻 侵A|iɪm]]
+- [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md)) · [ㄙㄧㄇ](syllables/ㄙㄧㄇ.md) · [[Lookup/CC/initials/聲 心|s]] [[Lookup/CC/finals/韻 侵A|iɪm]]
 ## Words
 - <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
 - <ruby>[[心緒]]<rt>ㄙㄧㄇ·ㄙ⼄</rt></ruby> "feelings; state of mind"

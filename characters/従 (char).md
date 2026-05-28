@@ -53,11 +53,11 @@ boundedness: 65
 ## Words
 - <ruby>[[従事]]<rt>ㄐㄛㄫㄐㄧ</rt></ruby> "to engage in, to be involved in"
 - <ruby>[[従業]]<rt>ㄐㄛㄫㄝㄆ</rt></ruby> "employment, being engaged in work"
-- 従軍
-- 從者
-- 主従
-- [[従前]] "former times, past"
-- 従属
-- 従来
-- 服従
-- 盲従
+- <ruby>[[従軍]]<rt>ㄐㄛㄫㄍㄨㄋ</rt></ruby> "to serve in the military"
+- <ruby>[[従者]]<rt>ㄐㄛㄫㄑㄚ</rt></ruby> "attendant, follower, retainer"
+- <ruby>[[主従]]<rt>ㄐㄨㄐㄛㄫ</rt></ruby> "master and servant"
+- <ruby>[[従前]]<rt>ㄐㄛㄫㄐㄝㄋ</rt></ruby> "formerly, previously"
+- <ruby>[[従属]]<rt>ㄐㄛㄫㄐㄛㄎ</rt></ruby> "subordination, dependency"
+- <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto, conventional"
+- <ruby>[[服従]]<rt>ㄅㄨㄎㄐㄛㄫ</rt></ruby> "obedience, submission"
+- <ruby>[[盲従]]<rt>ㄇㄚㄫㄐㄛㄫ</rt></ruby> "blind obedience"

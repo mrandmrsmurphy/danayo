@@ -44,7 +44,7 @@ boundedness: 100
 
 - 形声 (OC \*djeŋ): semantic [[戊]] ("") + phonetic [[丁]] (OC \*rteːŋ, \*teːŋ).
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
-- [SKIP-4-6-4](lookup/SKIP/SKIP-4/SKIP-4-6-4.md) ([Stroke 6](lookup/Stroke/Stroke%206.md)) · [ㄙㄧㄫ](syllables/ㄙㄧㄫ.md) · [[Lookup/CC/initials/聲 船|ʑ]] [[Lookup/CC/finals/韻 清開|iᴇŋ]]
+- [SKIP-4-6-4](lookup/SKIP/SKIP-4/SKIP-4-6-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md)) · [ㄙㄧㄫ](syllables/ㄙㄧㄫ.md) · [[Lookup/CC/initials/聲 船|ʑ]] [[Lookup/CC/finals/韻 清開|iᴇŋ]]
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
 - <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"

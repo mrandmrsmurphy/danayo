@@ -50,5 +50,6 @@ boundedness: 100
 ## Words
 - [[前置詞]] "preposition"
 - [[前後]] "front and rear, before and after, from beginning to end, consequences"
+- <ruby>[[従前]]<rt>ㄐㄛㄫㄐㄝㄋ</rt></ruby> "formerly, previously"
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

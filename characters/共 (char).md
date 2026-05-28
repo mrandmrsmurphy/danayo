@@ -41,6 +41,8 @@ boundedness: 90
 ```
 ## Notes
 - [List of 会意](../lookup/List%20of%20会意.md): [[廾]] ("two hands") + [[口]] ("an object") — holding up an object with two hands.  Eventually 口 (not “mouth”) came to be written 廿 (not “twenty”), which later fused with 廾 to form the modern 共.
+[[Lookup/CC/initials/聲 群]]
+[[Lookup/CC/finals/韻 鍾]]
 ## Words
 - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby> "republic"
 - [[共産]]
@@ -48,5 +50,3 @@ boundedness: 90
 - [[公共]]
 - [[越共]]
 - <ruby>[[共産党]]<rt>ㄍ⼄ㄫㄙㄚㄋㄉㄚㄫ</rt></ruby> "Communist Party"
-[[Lookup/CC/initials/聲 群]]
-[[Lookup/CC/finals/韻 鍾]]

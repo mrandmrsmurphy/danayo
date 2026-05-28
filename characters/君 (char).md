@@ -45,6 +45,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
+
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 文]]
