@@ -57,3 +57,4 @@ boundedness: 90
 - [[禍事]]
 - [[行事]]
 - [[逸事]]
+- <ruby>[[従事]]<rt>ㄐㄛㄫㄐㄧ</rt></ruby> "to engage in, to be involved in"

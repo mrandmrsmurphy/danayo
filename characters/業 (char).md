@@ -47,6 +47,7 @@ boundedness: 100
 ## Words
 - [[業業]] (ideo) lofty; large ; fearfully; apprehensively
 - [[漁業]]
+- <ruby>[[従業]]<rt>ㄐㄛㄫㄝㄆ</rt></ruby> "employment, being engaged in work"
 ## Chengyu
 - <ruby>[成家立業](/chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
 - <ruby>[[自業自得]]<rt>ㄐㄧㄜ·ㄝㄆㄐㄧㄜㄊㄜㄎ</rt></ruby> "you reap what you sow; one's own actions return as one's own fate"

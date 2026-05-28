@@ -44,6 +44,9 @@ boundedness:
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[挟撃]]<rt>ㄏㄝㄆㄍㄝㄎ</rt></ruby> "pincer strike, converging attack"
+
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 錫開]]

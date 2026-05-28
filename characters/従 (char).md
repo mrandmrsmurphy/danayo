@@ -45,21 +45,19 @@ boundedness: 65
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-# Notes
+## Notes
+
+[[Lookup/CC/initials/聲 從]]
+[[Lookup/CC/finals/韻 鍾]]
 
 ## Words
-- [[従事]]
-- [[従業]]
+- <ruby>[[従事]]<rt>ㄐㄛㄫㄐㄧ</rt></ruby> "to engage in, to be involved in"
+- <ruby>[[従業]]<rt>ㄐㄛㄫㄝㄆ</rt></ruby> "employment, being engaged in work"
 - 従軍
 - 從者
-- 従事
 - 主従
-- 従前
+- [[従前]] "former times, past"
 - 従属
 - 従来
 - 服従
 - 盲従
-- 
-[[Lookup/CC/initials/聲 從]]
-[[Lookup/CC/finals/韻 鍾]]
-- [[従前]] "former times, past"

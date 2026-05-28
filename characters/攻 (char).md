@@ -42,6 +42,7 @@ boundedness: 80
 ```
 ## Words
 - <ruby>[[攻防]]<rt>ㄍㄛㄫㄅㄚㄫ</rt></ruby> "offense and defense"
+- <ruby>[[挟攻]]<rt>ㄏㄝㄆㄍㄛㄫ</rt></ruby> "flanking attack, pincer attack"
 
 ## Notes
 [[Lookup/CC/initials/聲 見]]

@@ -45,7 +45,7 @@ boundedness: 50
 ## Notes
 
 ## Words
-- [[挟攻]]
-- [[挟撃]]
+- <ruby>[[挟攻]]<rt>ㄏㄝㄆㄍㄛㄫ</rt></ruby> "flanking attack, pincer attack"
+- <ruby>[[挟撃]]<rt>ㄏㄝㄆㄍㄝㄎ</rt></ruby> "pincer strike, converging attack"
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 帖]]
