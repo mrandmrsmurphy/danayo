@@ -45,7 +45,7 @@ boundedness: 75
 - 形声: semantic [[Radical 085|水]] ("water") + phonetic [[州]].
 - [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 3213th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](syllables/ㄐㄨㄛ.md)
-- [Grade 先進](lookup/Grade%20先進.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 ## Words
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet; Singapore"
 - <ruby>[[北美洲]]<rt>ㄅㄨㄎㄇㄧㄐㄨㄛ</rt></ruby> "North American continent"
