@@ -56,3 +56,4 @@ boundedness: 100
 - [[空前]] “unprecedented, as never before”
 - [[空手]] “be empty handed, be unarmed”
 - [[空軍]] “air force”
+- <ruby>[[空中]]<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby> “in the air, midair, the sky”

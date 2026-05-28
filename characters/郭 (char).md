@@ -40,8 +40,10 @@ boundedness: 65
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[郭清]]<rt>ㄍ⺢ㄎㄑㄧㄫ</rt></ruby> "to purge, to clear away"
+- <ruby>[[輪郭]]<rt>ㄌㄨㄋㄍ⺢ㄎ</rt></ruby> "outline, contour, silhouette"
+
 ## Notes
-- [[郭清]]
-- [[輪郭]]
 [[Lookup/CC/initials/聲 見]]
 [[../lookup/CC/finals/韻 鈬合]]

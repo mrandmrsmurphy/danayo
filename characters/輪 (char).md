@@ -46,6 +46,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[輪郭]]<rt>ㄌㄨㄋㄍ⺢ㄎ</rt></ruby> "outline, contour, silhouette"
+
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 諄]]

@@ -40,6 +40,9 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[攻防]]<rt>ㄍㄛㄫㄅㄚㄫ</rt></ruby> "offense and defense"
+
 ## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 冬]]

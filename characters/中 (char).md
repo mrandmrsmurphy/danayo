@@ -73,6 +73,7 @@ boundedness: 80
 - <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
 - <ruby>[[途中]]<rt>ㄊㄛㄐㄨㄫ</rt></ruby> "en route; on the way"
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"
+- <ruby>[[空中]]<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby> "in the air, midair, the sky"
 
 ## Chengyu
 - <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - Castle in the Sky

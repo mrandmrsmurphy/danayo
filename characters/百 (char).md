@@ -47,6 +47,7 @@ boundedness: 80
 - <ruby>[[二百]]<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby> "two hundred"
 - [[百済]] "Baekje"
 - [[百科]] "all knowledge"
+- <ruby>[[百家]]<rt>ㄅㄚㄎㄍㄚ</rt></ruby> "hundred schools, many schools of thought"
 
 
 ### Links
