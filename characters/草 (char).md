@@ -41,6 +41,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[芝草]]<rt>ㄐㄧㄑㄚㄨ</rt></ruby> "grass; lingzhi mushroom"
+
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 豪]]
