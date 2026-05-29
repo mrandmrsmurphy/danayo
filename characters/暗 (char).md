@@ -42,6 +42,7 @@ boundedness: 90
 ```
 ## Notes
 - 形声 (OC \*qɯːms): semantic [[Radical 072|日]] ("sun") + phonetic [[音]] (OC \*qrɯm).
+- <ruby>[[暗影]]<rt>ㄚㄇ⼶ㄫ</rt></ruby> "shadow; gloom; umbra"
 - [[暗中]]
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 覃]]
