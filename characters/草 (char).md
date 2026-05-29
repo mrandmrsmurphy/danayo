@@ -43,6 +43,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[芝草]]<rt>ㄐㄧㄑㄚㄨ</rt></ruby> "grass; lingzhi mushroom"
+- <ruby>[[草亀]]<rt>ㄑㄚㄨㄍㄨㄛ</rt></ruby> "Chinese pond turtle"
 
 # Notes
 [[Lookup/CC/initials/聲 清]]

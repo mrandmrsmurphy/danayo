@@ -44,10 +44,13 @@ boundedness: 65
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[草亀]]<rt>ㄑㄚㄨㄍㄨㄛ</rt></ruby> "Chinese pond turtle"
+
 ## Notes
 This character is a rare example of Dan'a'yo not following Shinjitai, because 龟 looks too dumb/confusing to the rest of Asia!
 * [[海亀]] - sea turtle
 * [[陸亀]] - land turtle/tortoise
-* [[草亀]]/草龜 - Dermochelys coriacea
+* [[草亀]]/草龜 - Chinese pond turtle (*Mauremys reevesii*)
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 尤]]
