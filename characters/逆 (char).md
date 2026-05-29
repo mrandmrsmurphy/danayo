@@ -47,7 +47,7 @@ boundedness: 90
 ```
 
 # Notes
-- Use this instead of the more Mandarin [[叛]].
+- Use this instead of the more Mandarin [叛](反%20(char).md)
 - 辶 + 屰
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 陌三開]]

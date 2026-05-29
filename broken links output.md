@@ -1,7 +1,5 @@
 ## Characters Pages
 - [[卍巴]] in [[characters/卍]]
-- [[広範]] in [[characters/広 (char)]]
-- [[字彙]] in [[characters/彙 (char)]], [[grammar/文法 - 01序文]]
 - [[燐彬]] in [[characters/彬]]
 - [[暗影]] in [[characters/影]]
 - [[制御]] in [[characters/御]]
@@ -57,7 +55,6 @@
 - [[壕]] in [[characters/豪]], [[lookup/Japanese/Hyōgai]], [[lookup/Japanese/Jinmeiyō]], [[lookup/Korean/Korean Name ㅎ]]
 - [[跳高]] in [[characters/跳]]
 - [[軣軣]] in [[characters/軣]], [[syllables/ㄍ⼔ㄫ]]
-- [[叛]] in [[characters/逆 (char)]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]], [[words/逆]]
 - [[国連]] in [[characters/連 (char)]]
 - [[每週]] in [[characters/週]]
 - [[安逸]] in [[characters/逸 (char)]]

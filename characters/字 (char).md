@@ -44,6 +44,7 @@ boundedness: 90
 
 
 ## Words
+- <ruby>[[字彙]]<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon; vocabulary"
 - <ruby>[[代用字]]<rt>ㄉㄚㄧ⼄ㄫㄐㄧ</rt></ruby> "substitute character"
 - <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - Chinese character
 - <ruby>[漢字](/words/漢字.md)<rt>ㄏㄚㄋㄐㄧ</rt></ruby> - Chinese character

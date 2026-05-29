@@ -216,7 +216,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 211.  [[虐]]
 212.  [[蹬]]
 213.  [[仁]]
-214.  [[叛]]
+214.  [叛](../../characters/反%20(char).md)
 215.  [沧](../../characters/蒼%20(char).md)
 216.  [[仇]]
 217.  [[寸 (char)]]

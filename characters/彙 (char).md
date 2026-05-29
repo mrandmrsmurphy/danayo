@@ -48,6 +48,6 @@ boundedness: 75
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), HSK 3, [Grade 6](lookup/Grade%206.md)
 
 * [語彙](words/語彙.md) vocabulary --> [詞彙](words/語彙.md)
-* [字彙](字彙) lexicon
+* <ruby>[[字彙]]<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon; vocabulary"
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 微合]]
