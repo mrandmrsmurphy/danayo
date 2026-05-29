@@ -1,6 +1,5 @@
 ## Characters Pages
 - [[卍巴]] in [[characters/卍]]
-- [[燐彬]] in [[characters/彬]]
 - [[暗影]] in [[characters/影]]
 - [[制御]] in [[characters/御]]
 - [[恐恐]] in [[characters/恐]]
