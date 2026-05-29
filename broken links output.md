@@ -1,7 +1,6 @@
 - [[道徳経]] in [[List of Books]]
 
 ## Characters Pages
-- [[草亀]] in [[characters/亀 (char)]]
 - [[牛井]] in [[characters/井]]
 - [[親子井]] in [[characters/井]]
 - [[豚井]] in [[characters/井]]

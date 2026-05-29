@@ -40,6 +40,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[豚井]]<rt>ㄊㄨㄋㄐㄧㄫ</rt></ruby> "butadon; pork rice bowl"
+
 # Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 魂]]

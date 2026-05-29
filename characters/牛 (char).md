@@ -44,6 +44,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[牛井]]<rt>ㄋ⼜ㄐㄧㄫ</rt></ruby> "gyudon; beef rice bowl"
+
 # Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 尤]]
