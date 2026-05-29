@@ -47,7 +47,7 @@ boundedness:
 [[nav/char_info]]
 ```
 ## Notes
-- [[厳然]] not 儼然
+- <ruby>[[厳然]]<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby> "solemn; dignified" (alias: 儼然)
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 凡]]
 - [[厳重]] "serious, rigorous"

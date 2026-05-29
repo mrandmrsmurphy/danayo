@@ -1,7 +1,5 @@
 ## Characters Pages
-- [[雨包]] in [[characters/包]]
 - [[卍巴]] in [[characters/卍]]
-- [[厳然]] in [[characters/厳 (char)]]
 - [[傾向]] in [[characters/向 (char)]], [[syllables/ㄎㄝㄫ]]
 - [[堅魚]] in [[characters/堅]]
 - [[堅鳥]] in [[characters/堅]]

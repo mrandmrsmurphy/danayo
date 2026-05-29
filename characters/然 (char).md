@@ -44,6 +44,7 @@ boundedness: 90
 ```
 
 ## Words
+- <ruby>[[厳然]]<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby> "solemn; dignified"
 - <ruby>[[毅然]]<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby> "resolutely, firmly"
 - [[然後]] "then"
 - <ruby>[[瞭然]]<rt>ㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear, evident"

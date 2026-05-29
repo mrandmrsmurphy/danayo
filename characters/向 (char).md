@@ -52,6 +52,6 @@ boundedness: 100
 ## Words
 - alone, it is only a postposition
 - for "direction", use [[方向]]
-- for "lean, incline" (verbal) use [[傾向]]
+- for "lean, incline" (verbal) use <ruby>[[傾向]]<rt>ㄎㄝㄫㄏ⼘ㄫ</rt></ruby> "tendency; inclination"
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 陽開]]
