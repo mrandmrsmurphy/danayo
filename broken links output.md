@@ -1,7 +1,5 @@
 ## Characters Pages
 - [[卍巴]] in [[characters/卍]]
-- [[夢嫌]] in [[characters/嫌]]
-- [[宿題]] in [[characters/宿]]
 - [[尊魚]] in [[characters/尊]]
 - [[理屈]] in [[characters/屈 (char)]]
 - [[広範]] in [[characters/広 (char)]]
