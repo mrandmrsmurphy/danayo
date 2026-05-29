@@ -46,6 +46,6 @@ boundedness: 75
 
 - 形声 (OC \*klud, \*kʰlud): semantic [[出]] ("tail") + phonetic [[尾]] (OC \*kʰljuds, \*kʰljud).
 ## Words
-- [[理屈]]
+- <ruby>[[理屈]]<rt>ㄌㄧㄎㄨㄊ</rt></ruby> "reasoning; logic; argument"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 物]]

@@ -1,6 +1,5 @@
 ## Characters Pages
 - [[卍巴]] in [[characters/卍]]
-- [[尊魚]] in [[characters/尊]]
 - [[理屈]] in [[characters/屈 (char)]]
 - [[広範]] in [[characters/広 (char)]]
 - [[字彙]] in [[characters/彙 (char)]], [[grammar/文法 - 01序文]]

@@ -49,6 +49,7 @@ boundedness: 35
 
 ## Words
 - <ruby>[[堅魚]]<rt>ㄍㄝㄋ⼄</rt></ruby> "skipjack tuna; bonito"
+- <ruby>[[尊魚]]<rt>ㄐㄛㄋ⼄</rt></ruby> "trout"
 - <ruby>[[魚叉]]<rt>⼄ㄑㄚㄧ</rt></ruby> "harpoon; fish spear"
 - <ruby>[[鰌魚]]<rt>ㄑㄨ⼄</rt></ruby> "loach; weatherfish"
 - <ruby>[魚雷](/words/魚雷.md)<rt>⼄ㄌㄛㄧ</rt></ruby> "torpedo"
