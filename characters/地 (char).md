@@ -48,6 +48,7 @@ boundedness: 90
 - [[塩地光世]]
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 ## Words
+- <ruby>[[地境]]<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby> "border; territorial boundary"
 - [[地図]] - map
 - [[地図冊]] - atlas
 - [[土地]] - ground

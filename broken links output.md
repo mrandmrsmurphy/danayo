@@ -1,9 +1,5 @@
 ## Characters Pages
 - [[卍巴]] in [[characters/卍]]
-- [[地境]] in [[characters/境]]
-- [[奇想]] in [[characters/奇]]
-- [[才媛]] in [[characters/媛]]
-- [[愛媛]] in [[characters/媛]]
 - [[夢嫌]] in [[characters/嫌]]
 - [[宿題]] in [[characters/宿]]
 - [[尊魚]] in [[characters/尊]]

@@ -46,6 +46,7 @@ boundedness: 80
 ## Notes
 
 ## Words
+- <ruby>[[愛媛]]<rt>ㄚㄧ·ㄛㄋ</rt></ruby> "Ehime Prefecture"
 - <ruby>[可愛](/words/可愛.md)<rt>ㄎㄚ·ㄚㄧ</rt></ruby> - cute
 - [[恩愛]]
 - [[愛好]]

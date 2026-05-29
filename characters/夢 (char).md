@@ -48,6 +48,9 @@ boundedness: 50
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[夢嫌]]<rt>ㄇㄨㄫㄏㄝㄇ</rt></ruby> "nightmare"
+
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 東三]]
