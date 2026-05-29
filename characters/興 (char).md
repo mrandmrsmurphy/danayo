@@ -48,6 +48,9 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[興旺]]<rt>ㄏㄜㄫ⺢ㄫ</rt></ruby> "thriving; prosperous"
+
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 蒸]]

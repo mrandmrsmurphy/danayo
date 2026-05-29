@@ -41,6 +41,9 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[雨包]]<rt>ㄨㄅ⼘ㄨ</rt></ruby> "hail"
+
 ## Notes
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 虞]]

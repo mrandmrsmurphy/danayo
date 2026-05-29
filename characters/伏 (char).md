@@ -50,4 +50,4 @@ boundedness: 100
 [[Lookup/CC/finals/韻 屋三]]
 
 ## Words
-[[潜伏]] - hide, conceal
+<ruby>[[潜伏]]<rt>ㄐㄝㄇㄅㄨㄎ</rt></ruby> "to hide; to lurk"
