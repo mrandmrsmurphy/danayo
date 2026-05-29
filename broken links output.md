@@ -1,9 +1,5 @@
 ## Characters Pages
 - [[卍巴]] in [[characters/卍]]
-- [[傾向]] in [[characters/向 (char)]], [[syllables/ㄎㄝㄫ]]
-- [[堅魚]] in [[characters/堅]]
-- [[堅鳥]] in [[characters/堅]]
-- [[私塾]] in [[characters/塾]]
 - [[地境]] in [[characters/境]]
 - [[奇想]] in [[characters/奇]]
 - [[才媛]] in [[characters/媛]]

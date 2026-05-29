@@ -45,6 +45,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[堅鳥]]<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby> "booby" (代用字 for 鰹鳥)
+
 # Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 蕭]]

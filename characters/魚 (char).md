@@ -48,6 +48,7 @@ boundedness: 35
 - [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md)) - [⼄](syllables/⼄.md)
 
 ## Words
+- <ruby>[[堅魚]]<rt>ㄍㄝㄋ⼄</rt></ruby> "skipjack tuna; bonito"
 - <ruby>[[魚叉]]<rt>⼄ㄑㄚㄧ</rt></ruby> "harpoon; fish spear"
 - <ruby>[[鰌魚]]<rt>ㄑㄨ⼄</rt></ruby> "loach; weatherfish"
 - <ruby>[魚雷](/words/魚雷.md)<rt>⼄ㄌㄛㄧ</rt></ruby> "torpedo"
