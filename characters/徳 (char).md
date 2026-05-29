@@ -40,6 +40,9 @@ boundedness:
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
+
 # Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 德開]]

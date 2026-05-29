@@ -66,5 +66,6 @@ boundedness: 70
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
 - <ruby>[[道成肉身]]<rt>ㄉㄚㄨㄙㄧㄫㄋㄨㄎㄙㄧㄋ</rt></ruby> "incarnation; the Word became flesh"
 - <ruby>[[修道院]]<rt>ㄙㄨㄛㄉㄚㄨ⼔ㄋ</rt></ruby> "monastery; abbey; convent"
+- <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 豪]]

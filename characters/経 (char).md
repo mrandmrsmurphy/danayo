@@ -48,6 +48,7 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 青開]]
+- <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
 - <ruby>[[書経]]<rt>ㄙ⼄ㄍㄝㄫ</rt></ruby> "Book of Documents"
 - [[経費]] "- expenditures"
 - [[経緯]] "warp and woof, latitude and longitude"
