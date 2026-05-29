@@ -46,7 +46,7 @@ boundedness:
 ## Notes
 
 ## Words
-- [[広範]] for 廣泛 , 广泛, 廣範 , 広汎
+- <ruby>[[広範]]<rt>ㄍ⺢ㄫㄈㄚㄇ</rt></ruby> "wide-ranging; extensive" (aliases: 廣泛 / 广泛 / 廣範 / 広汎)
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 唐合]]
 - [[広野]] "wilderness"
