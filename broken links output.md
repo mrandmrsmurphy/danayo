@@ -1,9 +1,6 @@
 ## Characters Pages
-- [[卍巴]] in [[characters/卍]]
 - [[座敷]] in [[characters/敷 (char)]]
 - [[敷布]] in [[characters/敷 (char)]]
-- [[斬壕]] in [[characters/斬 (char)]]
-- [[鷦明]] in [[characters/明 (char)]]
 - [[昭明]] in [[characters/昭 (char)]]
 - [[望月]] in [[characters/月 (char)]]
 - [[大朋鳥]] in [[characters/朋]]

@@ -50,6 +50,6 @@ boundedness: 75
 
 
 ## Words
-- [[斬壕]] - 塹壕
+- <ruby>[[斬壕]]<rt>ㄐㄚㄇㄏㄚㄨ</rt></ruby> "trench" (代用字 for 塹壕)
 [[Lookup/CC/initials/聲 莊]]
 [[Lookup/CC/finals/韻 咸]]

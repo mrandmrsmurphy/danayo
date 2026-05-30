@@ -48,17 +48,17 @@ boundedness: 100
 ## Notes
 - 会意 of [[日]] (“sun”) + [[月]] (“moon”) — the sun just rising and the moon not yet set – dawn (天明 (tiānmíng)).
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md)) - [ㄇ⼶ㄫ](../syllables/ㄇ⼶ㄫ.md)
+- [[Lookup/CC/initials/聲 明]] [[Lookup/CC/finals/韻 庚三開]]
 
 ## Words
 - <ruby>[[無明]]<rt>ㄇㄜㄇ⼶ㄫ</rt></ruby> "avidyā; ignorance"
 - <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
-- [[鷦明]]
+- <ruby>[[焦明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "Jiaoming; a legendary phoenix-like bird" (in place of 鷦明)
 - [[孔明]]
 - <ruby>[[啓明]]<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> "morning star"
-## Chengyu
-- <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby>
-[[Lookup/CC/initials/聲 明]]
-[[Lookup/CC/finals/韻 庚三開]]
 - [[明朗]] "bright, clear, cheerful"
 - [[明様]] "brightly, in a bright way"
 - [[明徳]] "bright virtue, show virtue"
+
+## Chengyu
+- <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby>
