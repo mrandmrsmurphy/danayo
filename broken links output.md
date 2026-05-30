@@ -1,7 +1,5 @@
 ## Characters Pages
 - [[卍巴]] in [[characters/卍]]
-- [[制御]] in [[characters/御]]
-- [[恐恐]] in [[characters/恐]]
 - [[座敷]] in [[characters/敷 (char)]]
 - [[敷布]] in [[characters/敷 (char)]]
 - [[斬壕]] in [[characters/斬 (char)]]
