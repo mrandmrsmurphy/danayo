@@ -44,7 +44,7 @@ boundedness: 70
 
 - [List of 象形](lookup/List%20of%20象形.md): a kneeling person with mouth open for various reasons (e.g., begging 欠, speaking and/or spitting while speaking 次, blowing 吹, singing 歌, desiring 欲, being tired 軟, vomiting 歐...).
 ## Words
-- [[間欠]] not 間歇
+- <ruby>[[間欠]]<rt>ㄍㄚㄋㄎ⼘ㄇ</rt></ruby> "intermittent" (alias: 間歇)
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 嚴]]
 - [[欠伸]] "yawn and stretch"

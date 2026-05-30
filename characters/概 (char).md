@@ -1,8 +1,8 @@
 ---
-mandarin: "gài"
-cantonese: "koi3"
-korean: "개"
-korean_native: "대개"
+mandarin: gài
+cantonese: koi3
+korean: 개
+korean_native: 대개
 japanese:
   - GAI
   - KAI
@@ -29,7 +29,6 @@ mc_id: 2854
 graphemic_classification: 旣
 stand_in: 概
 aliases:
-  - 槪
 注音: ㄍㄚㄧ
 kwin: true
 tags:
@@ -45,7 +44,7 @@ boundedness: 50
 
 - 形声 (OC \*kɯːds): semantic [[Radical 075|木]] ("wood") + phonetic [[既]] (OC \*kɯds) — strickle.
 ## Words
-- for the most part [[大槪]]
+- <ruby>[大概](../words/大概.md)<rt>ㄉㄚㄧㄍㄚㄧ</rt></ruby> "for the most part; generally" (alias: 大槪)
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 咍]]
 - [[概要]] "overview, summary"
