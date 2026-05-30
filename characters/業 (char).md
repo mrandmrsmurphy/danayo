@@ -45,7 +45,7 @@ boundedness: 100
 ## Notes
 
 ## Words
-- [[業業]] (ideo) lofty; large ; fearfully; apprehensively
+- <ruby>[[業業]]<rt>ㄝㄆㄝㄆ</rt></ruby> "fearfully; apprehensively; lofty" (ideo)
 - [[漁業]]
 - <ruby>[[従業]]<rt>ㄐㄛㄫㄝㄆ</rt></ruby> "employment, being engaged in work"
 ## Chengyu

@@ -55,7 +55,7 @@ boundedness: 60
 
 ## Words
 - <ruby>[[主日]]<rt>ㄐㄨㄋㄧㄊ</rt></ruby> "Lord's Day; Sunday"
-- <ruby>[[棕櫚主日]]<rt>ㄐㄛㄫㄌ⼄ㄐㄨㄋㄧㄊ</rt></ruby> "Palm Sunday"
+- <ruby>[[../words/棕枝主日]]<rt>ㄐㄛㄫㄌ⼄ㄐㄨㄋㄧㄊ</rt></ruby> "Palm Sunday"
 - <ruby>[[閏日]]<rt>ㄋㄨㄋ·ㄋㄧㄊ</rt></ruby> "leap day"
 - <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
 - <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"
