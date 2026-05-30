@@ -46,6 +46,7 @@ boundedness: 90
 [[Lookup/CC/finals/韻 屋三]]
 
 ## Words
+- <ruby>[[鶏肉]]<rt>ㄍㄝㄧㄋㄨㄎ</rt></ruby> "chicken; chicken meat"
 - [[肉汁]] "gravy, broth"
 - [[肉湯]] "broth"
 - [[肉桂]] "cinnamon"

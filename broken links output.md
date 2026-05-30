@@ -55,7 +55,6 @@
 - [[雷電]] in [[characters/電]]
 - [[翰]] in [[characters/韓]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㅎ]]
 - [[獺]] in [[characters/頼]], [[lookup/Korean/Korean Name ㄷ]], [[lookup/SKIP/SKIP-1/SKIP-1-3-16]]
-- [[鶏肉]] in [[characters/鶏 (char)]]
 - [[鸚哥]] in [[characters/鸚]]
 - [[麦茶]] in [[characters/麦]]
 - [[黙黙]] in [[characters/黙]]

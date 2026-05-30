@@ -46,7 +46,7 @@ boundedness:
 
 # Notes
 - Old spelling on the [[Korean MS]], [[lookup/HSK/HSK Beginner]]; Shinjitai on [[Jōyō - Kōtō]].
-- [[鶏肉]] chicken meat
+- <ruby>[[鶏肉]]<rt>ㄍㄝㄧㄋㄨㄎ</rt></ruby> "chicken; chicken meat"
 - [[奚]] + [[Radical 196|鳥]] = [[SKIP-1-8-11]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 齊開]]
