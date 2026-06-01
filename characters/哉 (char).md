@@ -15,7 +15,7 @@ stroke_count: 9
 radical: "口"
 skip_number: 3-6-3
 grade_level: "1"
-pos: ""
+pos: 感詞
 english:
   - O
 羅馬字: jai
@@ -41,6 +41,8 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 咍]]
+- Components: [[𢦏]], [[口]]
+- At the end of a noun phrase, a vocative marker (must come before the verb). At the end of an utterance, an alarmed or exclamatory SFP (cp. "yikes!").

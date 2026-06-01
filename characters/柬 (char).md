@@ -15,13 +15,13 @@ stroke_count: 9
 radical: "木"
 skip_number: 4-9-3
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - letter
   - invitation
 羅馬字: gyan
 諺文: "갼"
-joyo_level: ""
+joyo_level: "表外字"
 hsk_level: "4"
 hanmun_edu_level: ""
 danayo_id: 7403
@@ -42,6 +42,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 山開]]
+- Components: [[束]], [[八]]

@@ -22,7 +22,7 @@ english:
 羅馬字: nang
 諺文: 낭
 joyo_level: 高等
-hsk_level: "1"
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5023
 mc_id: 5193
@@ -35,6 +35,7 @@ aliases:
 kwin: true
 tags:
   - character
+  - hapax
 boundedness: 80
 ---
 >[!tip] This is a page about the character 娘.
@@ -43,7 +44,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*naŋ): semantic [[Radical 038|女]] ("") + phonetic [[良]] (OC \*raŋ).
-- should this be nyang?
+- 形声 (OC \*naŋ): semantic [[Radical 038|女]] ("woman") + phonetic [[良]] (OC \*raŋ).
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 陽開]]
+The meaning is similar to [[处女]] (virgin), but not identical.
