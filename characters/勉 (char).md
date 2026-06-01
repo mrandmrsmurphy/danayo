@@ -17,7 +17,7 @@ stroke_count: 10
 radical: "力"
 skip_number: 3-8-2
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - exert
   - urge
@@ -44,6 +44,12 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 仙B三開]]
+- Components: [[免]], [[力]]
+
+## Words
+- <ruby>[[勤勉]]<rt>ㄍㄧㄋㄇ⼶ㄋ</rt></ruby> "hard-working, diligent"
+- [[勉励]] "exhort, urge"
+- [[勉強]] "to force to do"

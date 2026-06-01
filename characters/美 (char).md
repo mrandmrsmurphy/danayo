@@ -1,8 +1,8 @@
 ---
-mandarin: "měi"
+mandarin: měi
 cantonese: mei5
-korean: "미"
-korean_native: "아름다울"
+korean: 미
+korean_native: 아름다울
 japanese:
   - BI
   - MI
@@ -14,26 +14,26 @@ vietnamese:
   - mỉ
   - mỉa
 middle_chinese_initial: m
-middle_chinese_final: "ɣiɪ"
+middle_chinese_final: ɣiɪ
 stroke_count: 9
-radical: "羊"
+radical: 羊
 skip_number: 2-3-6
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - beautiful
   - pretty
 羅馬字: mi
-諺文: "미"
+諺文: 미
 joyo_level: "3"
 hsk_level: "2"
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 2201
 mc_id: 430
-graphemic_classification: "象形"
-stand_in: "美"
+graphemic_classification: 象形
+stand_in: 美
 aliases:
-注音: "ㄇㄧ"
+注音: ㄇㄧ
 kwin: true
 tags:
   - character
@@ -46,9 +46,10 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 脂B三開]]
+- Components: [[𦍌]], [[大]]
 - [[美洲]] "Americas"
 - [[美徳]] "virtue"
 - <ruby>[[賛美]]<rt>ㄐㄚㄋㄇㄧ</rt></ruby> "praise"
