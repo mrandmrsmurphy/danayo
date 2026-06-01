@@ -16,7 +16,7 @@ stroke_count: 9
 radical: 火
 skip_number: 2-3-6
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - charcoal
   - coal
@@ -42,10 +42,9 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*tŋ̊ʰaːns): semantic [[Radical 086|火]] ("fire") + phonetic [[岸]] (OC \*ŋɡaːns).
+- [[Lookup/CC/initials/聲 透]] [[Lookup/CC/finals/韻 寒]]
+
 1. coal
 2. abbreviation for <ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby> "carbon"
-[[Lookup/CC/initials/聲 透]]
-[[Lookup/CC/finals/韻 寒]]
 
-## Notes
-- 形声 (OC \*tŋ̊ʰaːns): semantic [[Radical 086|火]] ("fire") + phonetic [[岸]] (OC \*ŋɡaːns).
