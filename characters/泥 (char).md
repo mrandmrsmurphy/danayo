@@ -19,7 +19,7 @@ stroke_count: 8
 radical: "水"
 skip_number: 1-3-5
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - mud
 羅馬字: nei
@@ -32,6 +32,7 @@ mc_id: 1978
 graphemic_classification: "尼"
 stand_in: "泥"
 aliases:
+  - 坭
 注音: "ㄋㄝㄧ"
 kwin: false
 tags:

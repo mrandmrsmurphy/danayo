@@ -14,7 +14,7 @@ stroke_count: 5
 radical: "矢"
 skip_number: 2-2-3
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - arrow
 羅馬字: siǝ
@@ -40,6 +40,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 脂B三開]]
+- Components: [[𠂉]], [[大]]
