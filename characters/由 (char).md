@@ -16,7 +16,7 @@ stroke_count: 5
 radical: 田
 skip_number: 4-5-2
 grade_level: "2"
-pos: ""
+pos: 後置詞
 english:
   - from
   - since
@@ -43,6 +43,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 尤]]
+- Components: [[田]], [[丨]]
