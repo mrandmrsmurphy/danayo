@@ -15,7 +15,7 @@ stroke_count: 15
 radical: "金"
 skip_number: 1-8-7
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - tongs
 羅馬字: geb
@@ -42,6 +42,8 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 帖]]
+- Components: [[金]], [[夾]]
+- [[鉗]] is vice, pliers, forceps

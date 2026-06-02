@@ -15,7 +15,7 @@ stroke_count: 8
 radical: "女"
 skip_number: 2-5-3
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - my wife
 羅馬字: cei
@@ -41,8 +41,9 @@ boundedness: 50
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 齊開]]
+- Components: [[一]], [[肀]], [[女]]
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
