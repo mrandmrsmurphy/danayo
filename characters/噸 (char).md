@@ -14,12 +14,12 @@ stroke_count: 16
 radical: 口
 skip_number: 1-3-13
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - ton
 羅馬字: ton
 諺文: 톤
-joyo_level: ""
+joyo_level: "表外字"
 hsk_level: "2"
 hanmun_edu_level: ""
 danayo_id: 7226
@@ -40,6 +40,7 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
+- Pronunciation altered to take advantage of the vacant syllable 'ton', matching Western orthography.
 - [口](Radical%20030) + [頓](characters/頓.md)
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 魂]]
