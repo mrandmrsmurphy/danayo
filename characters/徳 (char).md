@@ -13,7 +13,7 @@ stroke_count: 14
 radical: "彳"
 skip_number: 1-3-11
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - virtue
 羅馬字: tug
@@ -42,7 +42,9 @@ boundedness:
 
 ## Words
 - <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
+- [[德澤]] "aide, support"
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 德開]]
+- Components: [[彳]], [[十]], [[罒]], [[心]]
