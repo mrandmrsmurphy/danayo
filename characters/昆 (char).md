@@ -5,7 +5,7 @@ korean: "곤"
 korean_native: "맏"
 japanese:
   - KON
-japanese_native: ø
+japanese_native: あに
 vietnamese:
   - con
   - côn
@@ -16,13 +16,13 @@ stroke_count: 8
 radical: "日"
 skip_number: 2-4-4
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - swarm
   - descendants
 羅馬字: gon
 諺文: "곤"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6202
@@ -31,6 +31,8 @@ graphemic_classification: "象形"
 stand_in: "昆"
 aliases:
   - 錕
+  - 䖵
+  - 蜫
 注音: "ㄍㄛㄋ"
 kwin: true
 tags:
@@ -44,6 +46,11 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 魂]]
+- Components: [[日]], [[比]]
+
+## Words
+- <ruby>[[昆虫]]<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby> "insect"
+- [[昆布]] "kelp"
