@@ -16,7 +16,7 @@ stroke_count: 9
 radical: "人"
 skip_number: 1-2-7
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - hurry
   - rush
@@ -24,7 +24,7 @@ english:
 羅馬字: cog
 諺文: "촉"
 joyo_level: "高等"
-hsk_level: "2"
+hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6405
 mc_id: 2587
@@ -44,6 +44,7 @@ boundedness: 40
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 燭]]
+- Components: [[人]], [[足]]
