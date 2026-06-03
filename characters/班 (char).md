@@ -16,7 +16,7 @@ stroke_count: 10
 radical: "玉"
 skip_number: 1-4-6
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - group
   - party

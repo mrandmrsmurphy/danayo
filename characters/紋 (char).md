@@ -18,7 +18,7 @@ stroke_count: 10
 radical: "糸"
 skip_number: 1-6-4
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - mark
   - line
@@ -47,9 +47,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 微]]
 [[Lookup/CC/finals/韻 文]]
+- Components: [[糸]], [[文]]
+- Bare usage is rare; normally seen in compounds such as 条紋. Combined with [[指]] it means "fingerprint"; with [[声]] it means "voice signature". Alone it typically refers to a visible line with significance or symbolism, but is vague.
 
 ## Words
 - <ruby>[[皺紋]]<rt>ㄐㄨ·ㄇㄨㄋ</rt></ruby> "wrinkles"

@@ -22,7 +22,7 @@ stroke_count: 7
 radical: "刀"
 skip_number: 1-5-2
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - don’t
   - distinct
@@ -52,7 +52,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 薛B三開]]
+- Components: [[𠮠]], [[刂]]
 - [[別荘]] "villa, village"
+- [[別字]] "typo, variant"
+- <ruby>[[区別]]<rt>ㄎㄨㄅㄝㄊ</rt></ruby> "differentiate, distinguish"
+- [[個別]] "individual, separate"
+- <ruby>[[離別]]<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby> "depart, leave"
