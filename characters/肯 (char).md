@@ -17,13 +17,13 @@ stroke_count: 8
 radical: "肉"
 skip_number: 2-4-4
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - agree
   - be willing
 羅馬字: kung
 諺文: "쿵"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5240
@@ -44,6 +44,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 登開]]
+- Components: [[止]], [[月]]

@@ -15,7 +15,7 @@ stroke_count: 17
 radical: 手
 skip_number: 1-3-14
 grade_level: 先進
-pos: ""
+pos: 事詞
 english:
   - intend
   - plan
@@ -43,6 +43,10 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 之]]
+- Components: [[扌]], [[疑]]
+
+## Words
+- <ruby>[[模擬]]<rt>ㄇㄛㄧ</rt></ruby> "imitate"

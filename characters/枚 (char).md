@@ -15,7 +15,7 @@ stroke_count: 8
 radical: "木"
 skip_number: 1-4-4
 grade_level: "6"
-pos: ""
+pos: 量詞
 english:
   - sheets of
   - stalks of
@@ -42,6 +42,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 灰]]
+- Components: [[木]], [[攵]]

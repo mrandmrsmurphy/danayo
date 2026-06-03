@@ -20,7 +20,7 @@ stroke_count: 5
 radical: "止"
 skip_number: 4-5-1
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - correct
 羅馬字: jing

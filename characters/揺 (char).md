@@ -43,6 +43,6 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 宵A]]
