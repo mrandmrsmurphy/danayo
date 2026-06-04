@@ -1,6 +1,6 @@
 
 ## Legitimizers
-- [[百越]] in [[syllables/⼔ㄊ]]
+- [[百越]] in [[syllables/⼔ㄊ]] 
 - [[倭人]] in [[syllables/⼔ㄧ]]
 - [[包裝]] in [[syllables/ㄅ⼘ㄨ]]
 - [[豹貓]] in [[syllables/ㄅ⼘ㄨ]]
