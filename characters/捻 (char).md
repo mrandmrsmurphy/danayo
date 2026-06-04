@@ -49,6 +49,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 帖]]
+
+## Words
+- <ruby>[[絞捻]]<rt>ㄍ⼄ㄨㄋㄝㄆ</rt></ruby> "twist; wring"

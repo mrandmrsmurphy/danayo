@@ -43,6 +43,7 @@ boundedness: 80
 
 - [List of 象形](lookup/List%20of%20象形.md): of water flowing; sometimes written as the variant 氺 (e.g., 泰, 录, and 黎). Next to a character, it is compressed and stylized into 氵 (which is unrelated to 冫).
 ## Words
+- <ruby>[[膠水]]<rt>ㄍ⼄ㄨㄙㄨ</rt></ruby> "glue; adhesive"
 - <ruby>[水中](/words/水中.md)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
 - <ruby>[[水壷]]<rt>ㄙㄨㄏㄛ</rt></ruby> "kettle; water bottle"
 - <ruby>[[湖水]]<rt>ㄏㄛㄨㄙㄨ</rt></ruby> "lake"

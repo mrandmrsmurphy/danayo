@@ -42,8 +42,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 藥開]]
+
+## Words
+- <ruby>[[羸弱]]<rt>ㄌㄨㄧㄋ⼘ㄎ</rt></ruby> "frail; weak"
+
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"

@@ -42,6 +42,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 緝B三]]
+
+## Words
+- <ruby>[[急遽]]<rt>ㄍㄧㄆㄍ⼄</rt></ruby> "rapidly; suddenly"

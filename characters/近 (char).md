@@ -45,6 +45,7 @@ boundedness: 80
 
 - 形声 (OC \*ɡɯnʔ, \*ɡɯns): semantic [[辶]] ("walk") + phonetic [[斤]] (OC \*kɯn, \*kɯns) — to be near something.
 ## Words
+- <ruby>[[近郊]]<rt>ㄍㄧㄋㄍ⼄ㄨ</rt></ruby> "suburbs"
 - <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby> - early/near modern period
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 欣]]
