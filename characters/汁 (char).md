@@ -5,7 +5,7 @@ korean: 즙
 korean_native: 즙
 japanese:
   - JUU
-japanese_native: ø
+japanese_native: しる
 vietnamese:
   - chấp
   - trấp
@@ -21,8 +21,8 @@ english:
   - juice
 羅馬字: jǝb
 諺文: 즙
-joyo_level: ""
-hsk_level: ""
+joyo_level: "高等"
+hsk_level: "4"
 hanmun_edu_level: 名
 danayo_id: 6069
 mc_id: 2312
@@ -42,6 +42,7 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 緝A三]]
+- Components: [[氵]], [[十 (char)]]

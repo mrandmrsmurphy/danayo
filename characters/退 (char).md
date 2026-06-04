@@ -21,7 +21,7 @@ stroke_count: 9
 radical: "辵"
 skip_number: 3-3-6
 grade_level: "2"
-pos: ""
+pos: "事詞"
 english:
   - retreat
   - recede
@@ -29,7 +29,7 @@ english:
 羅馬字: tiǝ
 諺文: "틔"
 joyo_level: "6"
-hsk_level: "3"
+hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2248
 mc_id: 528
@@ -50,6 +50,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 灰]]
+- Components: [[辶]], [[艮]]

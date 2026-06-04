@@ -7,7 +7,7 @@ tags: [lookup]
 ---
 > [[Stroke]]
 
-- 嚼 --> 爵
+- 嚼 --> [[爵]]
 - <ruby>[[欄]]<rt>란</rt></ruby> - railing
 - <ruby>[[灋]]<rt>폽</rt></ruby> - sphinx
 - 
