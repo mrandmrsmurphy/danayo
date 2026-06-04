@@ -43,6 +43,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 咍]]
+
+## Words
+- <ruby>[[佩戴]]<rt>ㄈㄛㄧㄊㄚㄧ</rt></ruby> "wear (accessories)"

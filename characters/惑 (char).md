@@ -42,6 +42,9 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 德合]]
+
+## Words
+- <ruby>[[魅惑]]<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby> "charm; captivate"

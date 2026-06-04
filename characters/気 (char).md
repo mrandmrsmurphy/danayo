@@ -43,6 +43,7 @@ boundedness:
 ## Notes
 
 ## Words
+- <ruby>[[雰囲気]]<rt>ㄈㄨㄋㄨㄧㄎㄧㄜ</rt></ruby> "atmosphere; mood"
 - <ruby>[[煙気]]<rt>ㄝㄋㄎㄧㄜ</rt></ruby> "smoke, flue gas"
 - <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
 [[Lookup/CC/initials/聲 溪]]

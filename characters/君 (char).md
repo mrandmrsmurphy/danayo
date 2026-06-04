@@ -46,6 +46,7 @@ boundedness: 80
 ```
 
 ## Words
+- <ruby>[[弒君]]<rt>ㄊㄧㄍㄨㄋ</rt></ruby> "regicide"
 - <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
 
 # Notes

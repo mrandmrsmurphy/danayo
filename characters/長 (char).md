@@ -55,6 +55,7 @@ boundedness: 75
 - Pronounced [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md), a very common syllable.
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 陽開]]
+- <ruby>[[長矛]]<rt>ㄐㄚㄫㄇㄚㄨ</rt></ruby> "spear; lance"
 - [[長期]] "long time"
 - [[長上]] "elder, superior"
 - <ruby>[[延長]]<rt>⼶ㄋㄐㄚㄫ</rt></ruby> "to extend; to prolong"

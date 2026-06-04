@@ -60,6 +60,7 @@ boundedness:
 - [[乗降]] - embarkation and disembarkation
 - [[乗車]] - to board (a train, car, etc.)
 - [[乗船]] - to board (a ship, boat, etc.)
+- <ruby>[[搭乗]]<rt>ㄊㄚㄆㄙㄨㄫ</rt></ruby> "board; boarding"
 - [[搭乘]] - to board (a plane, zeppelin, etc.)
 - [[乗馬]] - to ride a horse
 - [[騎乗]] - to ride (a horse, motorcycle, bicycle, etc.)

@@ -46,3 +46,6 @@ boundedness: 100
 - [[卓|龺]] + [[Radical 074|月]]
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 宵B]]
+
+## Words
+- <ruby>[[朝廷]]<rt>ㄐㄚㄨㄉㄝㄫ</rt></ruby> "imperial court"

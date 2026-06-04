@@ -48,3 +48,6 @@ boundedness: 40
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 燭]]
 - Components: [[人]], [[足]]
+
+## Words
+- <ruby>[[督促]]<rt>ㄉㄛㄎㄑㄛㄎ</rt></ruby> "supervise and urge"

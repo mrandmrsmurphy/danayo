@@ -58,6 +58,7 @@ boundedness: 95
 - [雰](雰.md)
 
 ## Words
+- <ruby>[[分娩]]<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby> "give birth"
 - <ruby>[[分泌]]<rt>ㄅㄨㄋㄅㄧㄊ</rt></ruby> "secrete"
 - <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> mood
 [[Lookup/CC/initials/聲 奉]]

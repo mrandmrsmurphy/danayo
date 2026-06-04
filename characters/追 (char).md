@@ -44,5 +44,6 @@ boundedness: 100
 ```
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 脂B合]]
+- <ruby>[[追逐]]<rt>ㄊㄨㄧㄉㄨㄎ</rt></ruby> "chase; pursue"
 - <ruby>[[追及]]<rt>ㄊㄨㄧㄍㄨㄆ</rt></ruby> "to pursue and catch; to investigate and hold accountable"
 - [[追随]] "follow, pursue"

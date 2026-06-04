@@ -42,6 +42,9 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 鹽B三]]
+
+## Words
+- <ruby>[[冒険]]<rt>ㄇㄚㄨㄏㄝㄇ</rt></ruby> "adventure; risk"
