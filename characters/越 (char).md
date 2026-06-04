@@ -56,3 +56,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 月合]]
 - [[越境]] "transgress, infringe on the border of"
 - [[越盟]] "Viet Minh"
+
+## Words
+- <ruby>[[百越]]<rt>ㄅㄚㄎ⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"

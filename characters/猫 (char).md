@@ -44,6 +44,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 宵B]]
+
+## Words
+- <ruby>[[豹猫]]<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby> "leopard cat"

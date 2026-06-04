@@ -44,6 +44,8 @@ boundedness: 80
 [[Lookup/CC/finals/韻 陌二開]]
 
 ## Words
+- [[百]] "hundred"
+- <ruby>[[百越]]<rt>ㄅㄚㄎ⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
 - <ruby>[[二百]]<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby> "two hundred"
 - [[百済]] "Baekje"
 - [[百科]] "all knowledge"
