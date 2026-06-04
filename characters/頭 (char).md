@@ -52,6 +52,7 @@ boundedness: 100
 - <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
 
 ## Words
+- <ruby>[[埠頭]]<rt>ㄅㄨㄊㄛㄨ</rt></ruby> "pier; wharf"
 - [[白頭翁]]
 - [[断頭台]]
 - [[白頭鷲]]

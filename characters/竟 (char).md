@@ -44,6 +44,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 庚三開]]
+
+## Words
+- <ruby>[[畢竟]]<rt>ㄆㄧㄊㄍ⼶ㄫ</rt></ruby> "after all; in the end"

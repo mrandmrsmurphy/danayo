@@ -42,9 +42,12 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 咍]]
 - [[来臨]] "come near, arrive"
+
+## Words
+- <ruby>[[来賓]]<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby> "guest; visitor"
 - [[来年]] "next year"
 - <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto, conventional"

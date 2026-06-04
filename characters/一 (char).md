@@ -68,6 +68,7 @@ Characters using it as an element without sound-borrowing:
 ## Words
 In compounds, it appears in many, many words.  To disambiguate various numbers, it is sometimes put in front of 溝, 兆, 億, 万, 千, 百, 十, or 半.
 
+* <ruby>[[一瞥]]<rt>ㄧㄊㄆㄝㄊ</rt></ruby> "a glance"
 * <ruby>[[一月]]<rt>읻웓</rt></ruby> - January
 * <ruby>[[第一]]<rt>데읻</rt></ruby> - first
 * <ruby>[[十一]]<rt>십읻</rt></ruby> - eleven

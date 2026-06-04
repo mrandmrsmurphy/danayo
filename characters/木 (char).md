@@ -52,6 +52,7 @@ boundedness: 40
 - <ruby>[[朽木糞牆]]<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 屋一]]
+- <ruby>[[木板]]<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby> "board; plank"
 - [[木偶]] "pupper, marionette"
 - [[木版]] "printing block"
 - <ruby>[[檀木]]<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby> "sandalwood; hardwood tree"
