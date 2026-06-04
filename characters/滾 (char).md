@@ -17,13 +17,13 @@ stroke_count: 14
 radical: "水"
 skip_number: 1-3-11
 grade_level: "先進"
-pos: ""
+pos: "事詞"
 english:
   - boil
   - roll
 羅馬字: gwan
 諺文: "관"
-joyo_level: ""
+joyo_level: "表外字"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7378
@@ -45,6 +45,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 魂]]
+- Components: [[氵]], [[袞]]
+- Used of both water and people.
+- MC pronunciation is a guess.
