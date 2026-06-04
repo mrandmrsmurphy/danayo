@@ -16,7 +16,7 @@ stroke_count: 8
 radical: 艸
 skip_number: 2-3-5
 grade_level: "3"
-pos: ""
+pos: "連接詞"
 english:
   - if
 羅馬字: nya
@@ -42,7 +42,8 @@ boundedness: 55
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 麻三開]]
+- Components: [[艹]], [[右]]
 - [[若干]] "a little, somewhat"
