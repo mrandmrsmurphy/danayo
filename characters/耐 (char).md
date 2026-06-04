@@ -45,6 +45,9 @@ boundedness: 30
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 咍]]
+
+## Words
+- <ruby>[[忍耐]]<rt>ㄋㄧㄋㄋㄚㄧ</rt></ruby> "patience; endurance"

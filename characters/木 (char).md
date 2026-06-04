@@ -52,6 +52,8 @@ boundedness: 40
 - <ruby>[[朽木糞牆]]<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 屋一]]
+- <ruby>[[栃木]]<rt>ㄌㄝㄎㄇㄛㄎ</rt></ruby> "Tochigi Prefecture"
+- <ruby>[[楠木]]<rt>ㄋㄚㄇㄇㄛㄎ</rt></ruby> "camphor wood"
 - <ruby>[[木板]]<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby> "board; plank"
 - [[木偶]] "pupper, marionette"
 - [[木版]] "printing block"

@@ -45,6 +45,7 @@ boundedness: 80
 - <ruby>[巻耳](/words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 之]]
+- <ruby>[[耳聾]]<rt>ㄋㄧㄌㄛㄫ</rt></ruby> "deaf"
 - [[耳根]] "root of the ear"
 - [[耳朶]] "earlobe"
 - [[耳目]] "eyes and ear, snoops and spies"

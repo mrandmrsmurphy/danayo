@@ -50,4 +50,5 @@ boundedness: 90
 [[Lookup/CC/finals/韻 模]]
 
 ## Words
+- <ruby>[[壌土]]<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby> "loam; loamy soil"
 - <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"

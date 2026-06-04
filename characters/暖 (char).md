@@ -44,6 +44,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 桓]]
+
+## Words
+- <ruby>[[暖簾]]<rt>ㄋㄚㄋㄌㄝㄇ</rt></ruby> "noren; shop curtain"
