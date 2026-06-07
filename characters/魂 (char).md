@@ -17,7 +17,7 @@ stroke_count: 14
 radical: "鬼"
 skip_number: 1-4-10
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - soul
 羅馬字: hon
@@ -43,7 +43,10 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Words
+- <ruby>[[魂魄]]<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby> "soul; spirit"
+
+## Notes
+- Components: [云](雲%20(char).md), [[鬼]]
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 魂]]
-- <ruby>[[魂魄]]<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby> "soul; spirit"

@@ -15,12 +15,12 @@ stroke_count: 15
 radical: "言"
 skip_number: 1-7-8
 grade_level: "先進"
-pos: ""
+pos: 事詞
 english:
   - flatter
 羅馬字: cem
 諺文: "첨"
-joyo_level: ""
+joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7313
@@ -42,6 +42,7 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[訁]], [[臽]]
 [[Lookup/CC/initials/聲 徹]]
 [[Lookup/CC/finals/韻 鹽B三]]
