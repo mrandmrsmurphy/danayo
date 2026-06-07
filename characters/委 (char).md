@@ -16,7 +16,7 @@ stroke_count: 8
 radical: "女"
 skip_number: 2-5-3
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - appoint
   - send
@@ -44,7 +44,10 @@ boundedness: 95
 [[nav/char_info]]
 ```
 
-# Notes
+## Words
+- <ruby>[[委託]]<rt>⼔ㄧㄊㄚㄎ</rt></ruby> "entrust, trust"
+
+## Notes
+- Components: [[禾]], [[女]]
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 支B三合]]
-- [[委託]] "entrust, trust"
