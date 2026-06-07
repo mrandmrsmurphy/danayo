@@ -17,7 +17,7 @@ stroke_count: 7
 radical: 攴
 skip_number: 1-3-4
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - redo
   - renew
@@ -30,7 +30,6 @@ danayo_id: 2114
 mc_id: 722
 graphemic_classification: 己
 stand_in: 改
-aliases:
 注音: ㄍㄚㄧ
 kwin: true
 tags:
@@ -44,8 +43,10 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[己]], [[攵]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 咍]]
 - [[改善]] "improvement, reform"
 - [[改変]] "alter, change"
+- [[改革]] "reform"
