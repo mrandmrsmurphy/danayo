@@ -17,7 +17,7 @@ stroke_count: 12
 radical: "禾"
 skip_number: 1-5-7
 grade_level: "先進"
-pos: ""
+pos: 副詞
 english:
   - slightly
   - rather
@@ -44,6 +44,7 @@ boundedness: 50
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[禾]], [[肖]]
 [[Lookup/CC/initials/聲 生]]
 [[Lookup/CC/finals/韻 肴]]
