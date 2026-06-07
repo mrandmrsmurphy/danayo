@@ -16,7 +16,7 @@ stroke_count: 10
 radical: "示"
 skip_number: 1-5-5
 grade_level: "2"
-pos: ""
+pos: 名詞
 english:
   - god
   - deity
@@ -24,7 +24,7 @@ english:
 羅馬字: sin
 諺文: "신"
 joyo_level: "3"
-hsk_level: "1"
+hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2184
 mc_id: 218
@@ -45,6 +45,7 @@ boundedness: 90
 ```
 ## Notes
 
+- Components: [[礻]], [[申]]
 - 形声 (OC \*hlin): semantic [[Radical 113|示]] ("god; deity") + phonetic [[申]] (OC \*hlin).
 - [SKIP-1-5-5](lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
 - 218th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
@@ -53,12 +54,12 @@ boundedness: 90
 - [神経衰弱](../chengyu/神経衰弱.md)
 - [[除我莫神]]
 ## Words 
-- <ruby>[神巫](/words/神巫.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> - shaman, wizard
+- <ruby>[[神巫]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "shaman, wizard"
 - <ruby>[[神父]]<rt>ㄙㄧㄋㄅㄨ</rt></ruby> "father; priest (Eastern Orthodox)"
 - <ruby>[[神学院]]<rt>ㄙㄧㄋㄏㄚㄎ⼔ㄋ</rt></ruby> "seminary"
 - <ruby>[[神聖]]<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby> "sacred, holy"
-- [[神話]] "myth, fairytale, mythology"
-- [[神経]] "nerve, Mystery Classic"
-- [[神秘]] "mystery, mystical secret"
-- [[神農]] "Shennong"
+- <ruby>[[神話]]<rt>ㄙㄧㄋㄏ⺢ㄧ</rt></ruby> "myth, fairytale, mythology"
+- <ruby>[[神経]]<rt>ㄙㄧㄋ</rt></ruby> "nerve, Mystery Classic"
+- <ruby>[[神秘]]<rt>ㄙㄧㄋㄅㄧㄜ</rt></ruby> "mystery, mystical secret"
+- <ruby>[[神農]]<rt>ㄙㄧㄋㄋㄛㄫ</rt></ruby> "Shennong"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"

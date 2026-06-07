@@ -19,7 +19,7 @@ stroke_count: 7
 radical: "口"
 skip_number: 1-3-4
 grade_level: "先進"
-pos: ""
+pos: 事詞
 english:
   - roar
   - howl
@@ -46,6 +46,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[口]], [[孔]]
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 侯]]

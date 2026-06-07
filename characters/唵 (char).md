@@ -16,12 +16,12 @@ stroke_count: 11
 radical: "口"
 skip_number: 1-3-8
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - Ohm
 羅馬字: "'om"
 諺文: "옴"
-joyo_level: ""
+joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7129
@@ -42,7 +42,8 @@ boundedness: 50
 [[nav/char_info]]
 ```
 
-# Notes
-Learned borrowing from Sanskrit ॐ (oṃ).
+## Notes
+- Components: [[口]], [[奄]]
+- Learned borrowing from Sanskrit ॐ (oṃ).
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 覃]]
