@@ -42,12 +42,13 @@ boundedness: 70
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-# Notes
+## Notes
 - [List of 指事](lookup/List%20of%20指事.md): A drawing of the idea of "above", [Radical 001](lookup/Radicals/Radical%20001.md)
 - [SKIP-4-3-2](lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md)) - [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
 - [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md)
 
 ## Words
 - [[上述]] The aforementioned
+- <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 陽開]]

@@ -42,10 +42,11 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 泰開]]
 
 ## Words
 - <ruby>[[繃帯]]<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby> "bandage"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
+- <ruby>[[携帯]]<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby> "carry with; portable; mobile phone"

@@ -89,3 +89,4 @@ boundedness: 90
 - <ruby>[[正大]]<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby> "proper; upright"
 - <ruby>[[大笑]]<rt>ㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously"
 - <ruby>[[大韓帝国]]<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby> "Korean Empire"
+- <ruby>[[大廈]]<rt>ㄉㄚㄧㄏㄚ</rt></ruby> "mansion; large building; skyscraper"
