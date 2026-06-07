@@ -15,7 +15,7 @@ stroke_count: 9
 radical: "木"
 skip_number: 2-5-4
 grade_level: "1"
-pos: ""
+pos: 修飾語
 english:
   - some
   - any
@@ -43,6 +43,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[甘]], [[木]]
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 侯]]
