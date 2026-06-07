@@ -64,3 +64,4 @@ boundedness: 100
 - [[正大]] "proper; upright"
 ## Words
 - <ruby>[[正義]]<rt>ㄐㄧㄫㄜㄧ</rt></ruby> "justice"
+- <ruby>[[矯正]]<rt>ㄍ⼘ㄨㄐㄧㄫ</rt></ruby> "correct; rectify"

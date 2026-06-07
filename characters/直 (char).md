@@ -45,9 +45,10 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 職開]]
+- <ruby>[[直径]]<rt>ㄐㄧㄊㄍㄝㄫ</rt></ruby> "diameter"
 - [[直観]] "intuition"
 - [[直角]] "right angle"
 ## Chengyu

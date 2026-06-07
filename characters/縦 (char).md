@@ -43,6 +43,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 鍾]]
+
+## Words
+- <ruby>[[縦縞]]<rt>ㄐㄛㄇㄍㄚㄨ</rt></ruby> "vertical stripes"

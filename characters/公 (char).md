@@ -49,6 +49,7 @@ boundedness: 100
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 2](../lookup/Grade%202.md)
 
 ## Words
+- <ruby>[[公斤]]<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby> "kilogram"
 - <ruby>[[公邸]]<rt>ㄍㄛㄫㄉㄝㄧ</rt></ruby> "official residence"
 - <ruby>[[公平]]<rt>ㄍㄛㄫㄅ⼶ㄫ</rt></ruby> "fair, impartial, just"
 [[Lookup/CC/initials/聲 見]]

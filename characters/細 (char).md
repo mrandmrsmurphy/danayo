@@ -46,6 +46,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 齊開]]
+
+## Words
+- <ruby>[[細菌]]<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby> "bacteria; germ"
