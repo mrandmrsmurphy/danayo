@@ -1,4 +1,4 @@
-- [[権利]] in [[syllables/ㄍ⼔ㄋ]]
+- [[権利]] in [[syllables/ㄍ⼔ㄋ]] 
 - [[倦厭]] in [[syllables/ㄍ⼔ㄋ]]
 - [[嬌媚]] in [[syllables/ㄍ⼘ㄨ]]
 - [[矯正]] in [[syllables/ㄍ⼘ㄨ]]
