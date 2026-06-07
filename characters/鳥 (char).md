@@ -46,9 +46,10 @@ boundedness: 90
 ```
 
 ## Words
+- <ruby>[[禽鳥]]<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby> "birds; fowl"
 - <ruby>[[堅鳥]]<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby> "booby" (代用字 for 鰹鳥)
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 蕭]]
 - [[鳥籠]] "birdcage"

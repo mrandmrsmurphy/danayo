@@ -41,10 +41,13 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 戈一合]]
 - [[破戒]] "break a commandment"
+
+## Words
+- <ruby>[[破壊]]<rt>ㄆㄜㄏ⺢ㄧ</rt></ruby> "destruction; demolition"
 ## Chengyu
 - <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
 - [[破裂]] "rupture, burst, crack"

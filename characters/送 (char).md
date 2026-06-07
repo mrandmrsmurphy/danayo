@@ -46,6 +46,7 @@ boundedness: 80
 [[Lookup/CC/finals/韻 東一]]
 
 ## Words
+- <ruby>[[送還]]<rt>ㄙㄛㄫㄏ⺢ㄋ</rt></ruby> "repatriate; send back"
 - <ruby>[[逓送]]<rt>ㄊㄝㄧㄙㄛㄫ</rt></ruby> "send; forward"
 - [[送球]] "handball"
 - <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"

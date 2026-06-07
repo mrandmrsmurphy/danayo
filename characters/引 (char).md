@@ -51,6 +51,7 @@ boundedness: 100
 ### Chengyu
 - [[招災引禍]]
 - [[引出奴家]]
+- <ruby>[[牽引]]<rt>ㄎㄝㄋ·ㄧㄋ</rt></ruby> "tow; traction"
 - <ruby>[[勾引]]<rt>ㄍㄛㄨㄧㄋ</rt></ruby> "seduce; entice"
 - [[引入]] "- lead into"
 - <ruby>[[丘引]]<rt>ㄎ⼜·ㄧㄋ</rt></ruby> "earthworm"
