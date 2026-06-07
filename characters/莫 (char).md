@@ -7,7 +7,10 @@ japanese:
   - BO
   - BAKU
   - MAKU
-japanese_native: くれ
+japanese_native:
+  - くれ
+  - ない
+  - なかれ
 vietnamese:
   - mạc
 middle_chinese_initial: m
@@ -16,7 +19,7 @@ stroke_count: 13
 radical: 艸
 skip_number: 2-3-10
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - not exist
 羅馬字: mag
@@ -42,6 +45,8 @@ boundedness: 75
 ```
 ## Notes
 
+- Components: [[艸]], [[昊]]
+- Opposite of [[在]]; original form of [[暮]] (“dusk”) — the sun sinking into the bushes.
 - [List of 象形](lookup/List%20of%20象形.md): the sun (日) sinking into the bushes (屮); dusk. Original form of 暮 (OC *maːɡs, “dusk”).
 ### Derived Characters
 - [寞](寞.md)
