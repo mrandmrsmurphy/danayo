@@ -1,4 +1,3 @@
-- [[秘訣]] in [[syllables/ㄍ⼔ㄊ]]
 - [[権利]] in [[syllables/ㄍ⼔ㄋ]]
 - [[倦厭]] in [[syllables/ㄍ⼔ㄋ]]
 - [[嬌媚]] in [[syllables/ㄍ⼘ㄨ]]
