@@ -43,6 +43,9 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
+## Words
+- <ruby>[[様式]]<rt>⼘ㄫㄙㄧㄎ</rt></ruby> "type, style, pattern"
+
+## Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 陽開]]

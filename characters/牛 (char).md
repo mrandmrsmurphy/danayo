@@ -46,8 +46,9 @@ boundedness: 90
 
 ## Words
 - <ruby>[[牛井]]<rt>ㄋ⼜ㄐㄧㄫ</rt></ruby> "gyudon; beef rice bowl"
+- <ruby>[[犀牛]]<rt>ㄙㄝㄧㄋ⼜</rt></ruby> "rhinoceros"
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 尤]]
 - [[牛乳]] "cow's milk, milk"

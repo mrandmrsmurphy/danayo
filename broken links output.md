@@ -1,5 +1,5 @@
 - [[詔書]] in [[syllables/ㄐㄛㄨ]]
-- [[胡椒]] in [[syllables/ㄐㄛㄨ]]
+- [[胡椒]] in [[syllables/ㄐㄛㄨ]] 
 - [[梓木]] in [[syllables/ㄐㄜ]]
 - [[祭典]] in [[syllables/ㄐㄝ]]
 - [[枝葉]] in [[syllables/ㄐㄝ]]

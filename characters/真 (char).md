@@ -44,7 +44,10 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Words
+- <ruby>[[真実]]<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby> "truth, reality"
+
+## Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 眞A開]]
 - <ruby>[[真摯]]<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby> "sincere; earnest"
