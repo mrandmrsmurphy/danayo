@@ -456,6 +456,8 @@
 - [[王域]] in [[lexipedia/Geography]]
 - [[並列]] in [[lexipedia/Geography]]
 - [[宇宙観]] in [[lexipedia/Geography]]
+
+## Lexipedia
 - [[lexipedia/Directions]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Efforts]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Emotions]] in [[lexipedia/Lexipedia]]
@@ -527,8 +529,8 @@
 - [[僕射]] in [[lexipedia/歴史綱要]]
 - [[射策]] in [[lexipedia/歴史綱要]]
 - [[律学]] in [[lexipedia/歴史綱要]]
-- [[古文]] in [[lookup/CC/Classical Chinese]]
-- [[文言]] in [[lookup/CC/Classical Chinese]]
+
+## Characters?
 - [[㐮]] in [[lookup/HSK/HSK No]], [[lookup/Stroke/Stroke 13]], [[syllables/ㄙ⼘ㄫ]]
 - [[积]] in [[lookup/HSK/Old HSK 2]]
 - [[邀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
@@ -546,8 +548,7 @@
 - [[廩]] in [[lookup/Korean/Korean Name ㄹ]], [[syllables/ㄌㄜㄇ]]
 - [[菻]] in [[lookup/Korean/Korean Name ㄹ]], [[syllables/ㄌㄜㄇ]]
 - [[懍]] in [[lookup/Korean/Korean Name ㄹ]], [[syllables/ㄌㄜㄇ]]
-- - [[鑫]] in [[lookup/Korean/Korean Name ㅎ]], [[syllables/ㄏㄜㄇ]]
-- [[象形]] in [[lookup/List of 象形]], [[words/六書]]
+- [[鑫]] in [[lookup/Korean/Korean Name ㅎ]], [[syllables/ㄏㄜㄇ]]
 - [[/characters/㐮]] in [[lookup/Radicals/Radical 008]]
 - [[𪗱]] in [[lookup/Radicals/Radical 211]]
 - [[篪]] in [[lookup/Radicals/Radical 214]]
@@ -557,6 +558,11 @@
 - [[煢]] in [[lookup/SKIP/SKIP-2/SKIP-2-8-5]]
 - [[匳]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 - [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
+
+## Syllables
+- [[古文]] in [[lookup/CC/Classical Chinese]]
+- [[文言]] in [[lookup/CC/Classical Chinese]]
+- [[象形]] in [[lookup/List of 象形]], [[words/六書]]
 - [[筆画数]] in [[lookup/Stroke/Stroke]]
 - [[唇音]] in [[syllables/Syllables]]
 - [[歯茎]] in [[syllables/Syllables]]
@@ -616,12 +622,13 @@
 - [[自尊]] in [[translation/論語 (book)]]
 - [[和敬]] in [[translation/論語 (book)]]
 - [[痛哭]] in [[translation/論語 (book)]]
+
+## In Words
 - [[漢方]] in [[words/七情]]
 - [[医学]] in [[words/七情]]
 - [[参拾]] in [[words/三十]]
 - [[平穩]] in [[words/不穏]]
 - [[十干]] in [[words/乙]]
-- [[詩経 1]] in [[words/五経]]
 - [[中秋節]] in [[words/仲秋]]
 - [[宗徒]] in [[words/使徒]]
 - [[行傳]] in [[words/使徒]]

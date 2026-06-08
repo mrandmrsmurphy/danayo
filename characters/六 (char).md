@@ -63,4 +63,3 @@ sort file.name
  
 ### Links
 ![[nav/Numerals]]
-- [[六腑]] "six hollow organs"
