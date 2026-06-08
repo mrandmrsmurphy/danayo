@@ -50,6 +50,7 @@ boundedness: 100
 - [[羊頭狗肉]]
 - [徹頭徹尾](../chengyu/澈頭澈尾.md)
 - <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
+- <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"
 
 ## Words
 - <ruby>[[埠頭]]<rt>ㄅㄨㄊㄛㄨ</rt></ruby> "pier; wharf"

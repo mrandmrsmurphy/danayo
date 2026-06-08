@@ -49,3 +49,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 微合]]
 ## Words
 - <ruby>[[九尾狐]]<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby> "nine-tailed fox"
+
+## Chengyu
+- <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"

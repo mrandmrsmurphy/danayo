@@ -53,3 +53,6 @@ boundedness: 45
 [[Lookup/CC/finals/韻 魂]]
 - [[本質]] "essence, nature (intrinsic quality)"
 - [[本来]] "origin"
+
+## Chengyu
+- <ruby>[[舎本逐末]]<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> "neglecting the fundamentals while chasing the trivial"

@@ -28,6 +28,7 @@ tags:
 - <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎ⺢ㄎ·⼜ㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
 - <ruby>[人山人海](/chengyu/人山人海.md)<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> - a sea of people
 - <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
+- <ruby>[舎本逐末](chengyu/舎本逐末.md)<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> - neglecting the fundamentals while chasing the trivial
 
 
 ## Base check
