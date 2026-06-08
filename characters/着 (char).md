@@ -46,3 +46,5 @@ boundedness: 100
 # Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 藥開]]
+## Words
+- <ruby>[[顕著]]<rt>ㄏㄝㄋㄐ⺢ㄎ</rt></ruby> "notable, remarkable, prominent"
