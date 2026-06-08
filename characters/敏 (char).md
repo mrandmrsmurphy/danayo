@@ -50,3 +50,4 @@ boundedness: 30
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 眞B開]]
 - [[敏感]] "sensitive"
+- <ruby>[[敏捷]]<rt>ㄇㄧㄋㄐㄝㄆ</rt></ruby> "agile; nimble; quick-witted"

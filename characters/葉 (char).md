@@ -54,3 +54,5 @@ boundedness: 90
 - 形声 (OC \*hljeb, \*leb): semantic [艸](Radical%20140) + phonetic [枼](characters/枼.md) (“leaf”). 枼 is the original pictogram for this word; 艸 was added to differentiate.
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 葉三]]
+## Words
+- <ruby>[[枝葉]]<rt>ㄐㄝ⼄ㄆ</rt></ruby> "branches and leaves; trivial details"

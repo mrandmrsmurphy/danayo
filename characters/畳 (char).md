@@ -46,3 +46,5 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 帖]]
+## Words
+- <ruby>[[折畳]]<rt>ㄐㄝㄊㄉㄝㄆ</rt></ruby> "to fold; folding"

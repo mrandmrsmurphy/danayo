@@ -47,3 +47,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 屋三]]
+## Words
+- <ruby>[[蓄積]]<rt>ㄑㄨㄎㄐㄝㄎ</rt></ruby> "to accumulate; accumulation"

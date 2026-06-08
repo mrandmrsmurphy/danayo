@@ -55,6 +55,6 @@ boundedness: 100
 
 
 ## Words
-- [[乾浄]]
+- <ruby>[[乾浄]]<rt>ㄍ⼶ㄋㄐㄝㄫ</rt></ruby> "clean; neat; tidy"
 - [[乾達婆]]
 

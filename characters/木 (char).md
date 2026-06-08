@@ -60,3 +60,4 @@ boundedness: 40
 - <ruby>[[檀木]]<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby> "sandalwood; hardwood tree"
 - <ruby>[[樺木]]<rt>ㄏ⺢ㄇㄛㄎ</rt></ruby> "birch"
 - <ruby>[[杉木]]<rt>ㄙㄚㄇ·ㄇㄛㄎ</rt></ruby> "Chinese fir"
+- <ruby>[[梓木]]<rt>ㄐㄜㄇㄛㄎ</rt></ruby> "catalpa wood"
