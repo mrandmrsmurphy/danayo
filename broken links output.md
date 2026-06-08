@@ -668,6 +668,4 @@
  
 
 
-- [[../characters/饒 (char)]] in [[words/豊饒]]
 - [[../characters/婪 (char)]] in [[words/貪婪]]
-- [[鑢]] in [[words/軽銀]]
