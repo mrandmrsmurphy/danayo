@@ -666,6 +666,3 @@
 - [[甘蕉]] in [[words/芭蕉]]
 - [[英格蘭]] in [[words/英国]]
  
-
-
-- [[../characters/婪 (char)]] in [[words/貪婪]]
