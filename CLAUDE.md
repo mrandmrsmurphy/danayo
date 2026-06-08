@@ -84,17 +84,26 @@ A growing number of file types have a `best practices` page, which documents the
 
 ## Skills
 
-Here are the complicated tasks that I've been coaching you on how to do:
-- [[Word Creation]] - for making a new word in `words/`
-- [[Character Creation]] - for making a new character in `characters/`
+Step-by-step guides for the complicated tasks that I've been coaching Claude on how to do live in `AIOS/skills/`, indexed at [[AIOS/skill-index.md]]:
+- [[AIOS/skills/skill_word_creation.md|Word creation]] - for making a new word in `words/`
+- [[AIOS/skills/skill_character_creation.md|Character creation]] - for making a new character in `characters/`
+- [[AIOS/skills/skill_mediawiki_migration.md|MediaWiki migration]] - for comparing conlang.org wiki pages against vault content
 
-## Improvement and Memory Management
+## Persistence
 
-When you discover something valuable for future sessions – architectural decisions, bug fixes, gotchas, quirks, etc. – append it to [[MEMORY.MD]].  
+**All durable memory lives inside this vault, in `AIOS/` ("AI Operating System") — never in the external `~/.claude/projects/.../memory/` location.**
 
-Don't wait to be asked.  Don't wait for the session to end.
+That external location isn't backed up the way this git-tracked vault is, and isn't portable across machines — anything written there can be lost between sessions or left behind on a new one. `AIOS/` is the canonical home for everything meant to survive: standing knowledge of the user, feedback on collaboration style, ongoing-project status, and workflow skills.
 
-Keep entries short: date, what, why.  Read that file at the start of every session.
+Structure:
+- **`AIOS/memory-index.md`** — index of standing memories: who the user is, feedback/corrections on how to work here, pointers to external systems. **Read this at the start of every session.**
+- **`AIOS/memory/`** — individual files: `user_*.md` (who Robert is, how he thinks), `feedback_*.md` (corrections and confirmations — lead with the rule, then `**Why:**` and `**How to apply:**`), `reference_*.md` (pointers to external systems)
+- **`AIOS/skill-index.md`** — index of step-by-step workflow guides; read the relevant skill in full before starting that kind of work
+- **`AIOS/skills/`** — individual `skill_*.md` guides
+- **`AIOS/projects.md`** — living status document for ongoing work; read at the start of every session to see what's active and where to resume
+- **`AIOS/projects/`** — deeper history for individual projects, as `project_*.md` files linked from `projects.md`
+
+When you discover something valuable for future sessions — architectural decisions, gotchas, corrections, project status changes — write it into the appropriate `AIOS/` file and index it. Don't wait to be asked, and don't wait for the session to end.
 
 ## License
 

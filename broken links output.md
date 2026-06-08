@@ -638,7 +638,6 @@
 - [[形声]] in [[words/六書]]
 - [[会意]] in [[words/六書]]
 - [[転注]] in [[words/六書]]
-- [[../characters/腑 (char)]] in [[words/六腑]]
 - [[葭月]] in [[words/冬月]]
 - [[加多]] in [[words/加多金]]
 - [[百年]] in [[words/千年]]
