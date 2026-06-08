@@ -51,6 +51,7 @@ boundedness: 70
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point; to cut directly to the heart of the matter without preamble"
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 緝A三]]
+- <ruby>[[侵入]]<rt>ㄑㄧㄇㄋㄧㄆ</rt></ruby> "to invade; to intrude"
 - [[入籍]] "enter"
 - [[入口]] "entrance"
 - [[入場]] "enter a venue"

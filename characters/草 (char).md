@@ -42,6 +42,7 @@ boundedness: 90
 ```
 
 ## Words
+- <ruby>[[茜草]]<rt>ㄑㄝㄋㄑㄚㄨ</rt></ruby> "Indian madder; Rubia cordifolia"
 - <ruby>[[芝草]]<rt>ㄐㄧㄑㄚㄨ</rt></ruby> "grass; lingzhi mushroom"
 - <ruby>[[草亀]]<rt>ㄑㄚㄨㄍㄨㄛ</rt></ruby> "Chinese pond turtle"
 

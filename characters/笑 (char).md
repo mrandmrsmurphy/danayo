@@ -48,5 +48,6 @@ boundedness: 80
 [[Lookup/CC/finals/韻 宵A]]
 
 ## Words
+- <ruby>[[嘲笑]]<rt>ㄑㄚㄨㄙ⼄ㄨ</rt></ruby> "to ridicule; to mock; to deride; to jeer at"
 - <ruby>[[哄笑]]<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby> "burst out laughing"
 - <ruby>[[大笑]]<rt>ㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously"

@@ -47,3 +47,4 @@ boundedness: 65
 
 ## Words
 - <ruby>[[瓊玉]]<rt>ㄍ⼶ㄫ⼄ㄎ</rt></ruby> "fine jade"
+- <ruby>[[玉葱]]<rt>⼄ㄎㄑㄛㄫ</rt></ruby> "onion"

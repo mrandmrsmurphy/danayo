@@ -44,6 +44,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[沈没]]<rt>ㄑㄧㄇㄇㄛㄊ</rt></ruby> "to sink; to founder"
+
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 沒]]

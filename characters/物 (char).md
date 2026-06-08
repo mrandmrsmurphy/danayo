@@ -50,6 +50,7 @@ boundedness: 50
 - [[勿貪隣物]]
 [[Lookup/CC/initials/聲 微]]
 [[Lookup/CC/finals/韻 物]]
+- <ruby>[[寵物]]<rt>ㄑㄛㄫㄇㄨㄊ</rt></ruby> "pet; favored thing"
 - <ruby>[[穀物]]<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby> "grain; cereal"
 - [[物証]] "material evidence"
 - [[物質]] "material, substance"
