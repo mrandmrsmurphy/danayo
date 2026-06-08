@@ -45,7 +45,7 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
-- 会意 of [[宀]] ("house") + [[口]] ("mouth").
+- [List of 会意](../lookup/List%20of%20会意.md) of [[Radical 040|宀]] ("house") + [[口]] ("mouth").
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
 - [SKIP-3-3-3](lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md)) - [ㄏ⼘ㄫ](syllables/ㄏ⼘ㄫ.md)
 - [[lookup/List of 会意]]: 宀 (“house”) + 口 (“mouth”), echos in a place. The original form of 響 (OC \*qʰaŋʔ). It was borrowed to represent 𠨍 (嚮) later. The mouth does not represent an opening as in 高 and 谷. Compare 冋.
