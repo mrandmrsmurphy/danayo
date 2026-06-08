@@ -2,13 +2,13 @@
 
 Standing memories about Robert and how to collaborate with him on this vault: who he is, his preferences, corrections he's given, and pointers to external systems. Read this at the start of every session — see the Persistence section in `CLAUDE.md`.
 
-For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project status, see `AIOS/projects.md`.
+**For who Robert is and how he likes to work, start with [[AIOS/me.md|me.md]]** (the canonical profile, at the AIOS root — read it at the start of every session alongside this index).
 
-## User
-- [User profile](memory/user_profile.md) — who Robert is, his interests (historical phonology, comparative CJKV etymology), and working style
+For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project status, see `AIOS/projects.md`.
 
 ## Feedback
 - [Character Notes format](memory/feedback_character_notes_format.md) — syllable link only on bullet 3, `(char)` suffix rules, blank `mc_id` when not in CC corpus
+- [Character inclusion philosophy](memory/feedback_character_inclusion_philosophy.md) — when to alias a marginal character onto its phonetic parent vs. give it its own entry vs. mark it `名専字`; the "no recourse" argument for 名 grade
 - [English field format](memory/feedback_english_field_format.md) — `english` must be a YAML list, never semicolon-separated (breaks Bases queries)
 - [Date era format](memory/feedback_date_era.md) — always BC/AD, never BCE/CE
 - [Notes style: encyclopedic](memory/feedback_notes_style.md) — word Notes should be multi-paragraph: etymology, history, cross-linguistic comparison, semantic drift
