@@ -77,9 +77,4 @@
 - [[貝殼]] in [[syllables/ㄎㄚㄎ]]
 - [[粃糠]] in [[syllables/ㄎㄚㄫ]]
 - [[欺瞞]] in [[syllables/ㄎㄧ]]
-- [[穹窿]] in [[syllables/ㄎㄨㄫ]]
-- [[恍惚]] in [[syllables/ㄏㄛㄊ]]
-- [[廞]] in [[syllables/ㄏㄜㄇ]]
-- [[間歇]] in [[syllables/ㄏㄝㄊ]]
-- [[顕著]] in [[syllables/ㄏㄝㄋ]]
 - 

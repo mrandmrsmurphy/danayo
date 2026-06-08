@@ -1,8 +1,8 @@
 ---
-mandarin: "lóng"
+mandarin: lóng
 cantonese: lung4
-korean: "륭"
-korean_native: "높을"
+korean: 륭
+korean_native: 높을
 japanese:
   - RYUU
 japanese_native: ø
@@ -10,9 +10,9 @@ vietnamese:
   - long
   - lung
 middle_chinese_initial: l
-middle_chinese_final: "ɨuŋ"
+middle_chinese_final: ɨuŋ
 stroke_count: 11
-radical: "阜"
+radical: 阜
 skip_number: 1-3-8
 grade_level: "6"
 pos: ""
@@ -21,17 +21,18 @@ english:
   - plentiful
   - abundant
 羅馬字: lung
-諺文: "룽"
-joyo_level: "高等"
+諺文: 룽
+joyo_level: 高等
 hsk_level: "4"
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 6406
 mc_id: 1135
-graphemic_classification: "夅"
-stand_in: "隆"
+graphemic_classification: 夅
+stand_in: 隆
 aliases:
   - 𨺓
-注音: "ㄌㄨㄫ"
+  - 窿
+注音: ㄌㄨㄫ
 kwin: false
 tags:
   - character
@@ -47,3 +48,5 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 東三]]
+## Words
+- <ruby>[[穹窿]]<rt>ㄎㄨㄫㄌㄨㄫ</rt></ruby> "dome; vault; arch"
