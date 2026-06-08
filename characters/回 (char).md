@@ -50,6 +50,7 @@ boundedness: 90
 ## Words
 - <ruby>[[輪回]]<rt>ㄌㄨㄋㄏㄛㄧ</rt></ruby> "saṃsāra; cycle of rebirth"
 - <ruby>[回路](/words/回路.md)<rt>ㄏㄛㄧㄌㄛ</rt></ruby> - loop, circuit 
+- <ruby>[[巡回]]<rt>ㄙ⼜ㄋㄏㄛㄧ</rt></ruby> "patrol; tour; circuit"
 - [[迂回]]
 - <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"
 - [[回転]]

@@ -47,3 +47,6 @@ boundedness: 80
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 屋一]]
 - [[速様]] "quickly"
+
+## Words
+- <ruby>[[迅速]]<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby> "rapid; swift; prompt"
