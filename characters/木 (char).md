@@ -61,3 +61,4 @@ boundedness: 40
 - <ruby>[[樺木]]<rt>ㄏ⺢ㄇㄛㄎ</rt></ruby> "birch"
 - <ruby>[[杉木]]<rt>ㄙㄚㄇ·ㄇㄛㄎ</rt></ruby> "Chinese fir"
 - <ruby>[[梓木]]<rt>ㄐㄜㄇㄛㄎ</rt></ruby> "catalpa wood"
+- <ruby>[[柊木]]<rt>ㄐㄨㄫㄇㄛㄎ</rt></ruby> "holly osmanthus; holly osmanthus tree"

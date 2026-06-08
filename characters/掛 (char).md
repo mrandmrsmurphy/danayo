@@ -50,6 +50,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[垂掛]]<rt>ㄐㄨㄧㄍ⺢ㄧ</rt></ruby> "to hang; to suspend; to dangle"
+
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 佳合]]

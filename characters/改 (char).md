@@ -47,6 +47,7 @@ boundedness: 80
 - Components: [[己]], [[攵]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 咍]]
+- <ruby>[[改竄]]<rt>ㄍㄚㄧㄑㄚㄋ</rt></ruby> "to falsify; to tamper with; to alter (a document)"
 - [[改善]] "improvement, reform"
 - [[改変]] "alter, change"
 - [[改革]] "reform"
