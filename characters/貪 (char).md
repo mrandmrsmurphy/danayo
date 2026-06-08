@@ -46,4 +46,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 覃]]
 - [[貪官]] "corrupt official, greedy mandarin"
-- [[貪婪]] "greedy, avacious"
+- <ruby>[[貪林]]<rt>ㄊㄚㄇㄌㄧㄇ</rt></ruby> "greedy, avaricious"

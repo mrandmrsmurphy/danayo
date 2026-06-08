@@ -31,6 +31,7 @@ aliases:
   - 晽
   - 霖
   - 碄
+  - 婪
 注音: ㄌㄧㄇ
 kwin: true
 tags:
@@ -52,3 +53,4 @@ boundedness: 40
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 侵A]]
 - [[林業]] "forestry"
+- <ruby>[[貪林]]<rt>ㄊㄚㄇㄌㄧㄇ</rt></ruby> "greedy, avaricious" (uses 林 as Dan'a'yo stand-in for its alias 婪)
