@@ -46,3 +46,6 @@ boundedness:
 [[Lookup/CC/finals/韻 皆合]]
 - [[懐抱]] "cherish, embrace"
 - <ruby>[[懐孕]]<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby> "pregnant"
+
+## Words
+- <ruby>[[懐愁]]<rt>ㄏ⺢ㄧㄙㄚㄨ</rt></ruby> "wistful longing; nostalgic grief"

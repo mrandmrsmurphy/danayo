@@ -47,3 +47,6 @@ boundedness: 100
 - <ruby>[[追逐]]<rt>ㄊㄨㄧㄉㄨㄎ</rt></ruby> "chase; pursue"
 - <ruby>[[追及]]<rt>ㄊㄨㄧㄍㄨㄆ</rt></ruby> "to pursue and catch; to investigate and hold accountable"
 - [[追随]] "follow, pursue"
+
+## Words
+- <ruby>[[追遡]]<rt>ㄊㄨㄧㄙㄛ</rt></ruby> "trace back; investigate origins"

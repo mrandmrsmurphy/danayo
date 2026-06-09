@@ -53,3 +53,4 @@ boundedness: 90
 - <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> - neologism
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> "Singapore"
 - <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova; novae"
+- <ruby>[[新鮮]]<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby> "fresh"

@@ -10,15 +10,17 @@ type: project
 
 **How to apply:** Resume at the next pending word. Don't trust a prior "complete" claim without spot-checking — verify by checking whether the word file actually exists in `words/` (a 2026-06-07 correction found a prior "complete" claim was false: only ~10 of ~94 lines had actually been done).
 
-## Current status (as of 2026-06-08)
+## Current status (as of 2026-06-09)
 
-**Done: words #1-50** of the original 69-word list (詔書 through 殉難), each with full frontmatter + encyclopedic Notes, character back-links, and syllable ruby annotations.
+**Done: words #1-60** — 詔書 through 刀鞘, each with full frontmatter + encyclopedic Notes, character back-links, and syllable ruby annotations.
 
-**Also resolved out of order: #28 潮汐** (was skipped initially — required creating a new character, 汐, first; see "Characters created mid-batch" below).
+**Also resolved out of order: #28 潮汐** (required creating the missing character 汐 first; see "Characters created mid-batch" below).
 
-**STOPPING POINT:** paused after word #50 (殉難) at the user's request ("stop when you reach the end of a set" / "stop after 31-40") — a clean break since #48-50 (巡回, 迅速, 殉難) all share the ㄙ⼜ㄋ syllable and were perfected together.
+**STOPPING POINT (2026-06-09):** paused after word #60 (刀鞘), a clean set of 10. Syllables perfected in this pass: ㄙ⼶ㄇ (新鮮, only entry), ㄙㄚㄧ (梗塞, completing all non-名専字 entries).
 
-**Remaining: #51-69** (19 words) — 新鮮, 寺刹, 刪除, 梗塞, 懐愁, 吉祥, 鳳笙, 追溯, 蘇生, 刀鞘, 蕃藷, 損失, 蜀国, 宋朝, 漏洩, 楔子, 解釈, 潟湖, 碩大. All confirmed createable (constituent characters already exist) — spot-checked.
+**Remaining: #61-69+遜色** (10 words) — 蕃藷, 損失, 遜色, 蜀国, 宋朝, 漏洩, 楔子, 解釈, 潟湖, 碩大. 遜色 was omitted from the original list but belongs to ㄙㄛㄋ alongside 損失 — do both together to perfect that page.
+
+**Note on #58 追溯:** created as 追遡.md (canonical form, with alias 追溯), following the 陶汰 precedent. Updated 遡.md stand_in field accordingly.
 
 ## Characters created mid-batch
 
@@ -52,8 +54,8 @@ type: project
 - [[裝飾]] in ㄙㄧㄎ — needs 裝
 - [[倦厭]] in ㄍ⼔ㄋ — needs 厭
 
-## Syllables perfected this batch (date-last-perfect → 2026-06-07/08)
+## Syllables perfected this batch (date-last-perfect → 2026-06-07/08/09)
 
-ㄐㄝㄆ, ㄐㄝㄫ, ㄐㄧㄎ, ㄐㄨㄎ, ㄐㄨㄧ, ㄑㄚㄋ, ㄑㄚㄎ, ㄌㄚㄆ, ㄑㄛㄨ, ㄑㄛㄫ, ⼶ㄧ, ㄑㄝㄋ, ㄑㄝㄫ, ㄑㄧㄇ, ㄑㄧㄎ, ㄑㄨㄋ, ㄑㄨㄛ, ㄑㄨㄫ, ㄙ⺢, ㄙ⺢ㄫ, ㄙ⼔, ㄙ⼜ㄋ, ㄑㄚㄨ, ㄙㄝㄎ — plus ㄏㄝㄋ, ㄏㄛㄊ, ㄎㄨㄫ, ㄏㄝㄊ from the alias-correction side-quests above.
+ㄐㄝㄆ, ㄐㄝㄫ, ㄐㄧㄎ, ㄐㄨㄎ, ㄐㄨㄧ, ㄑㄚㄋ, ㄑㄚㄎ, ㄌㄚㄆ, ㄑㄛㄨ, ㄑㄛㄫ, ⼶ㄧ, ㄑㄝㄋ, ㄑㄝㄫ, ㄑㄧㄇ, ㄑㄧㄎ, ㄑㄨㄋ, ㄑㄨㄛ, ㄑㄨㄫ, ㄙ⺢, ㄙ⺢ㄫ, ㄙ⼔, ㄙ⼜ㄋ, ㄑㄚㄨ, ㄙㄝㄎ — plus ㄏㄝㄋ, ㄏㄛㄊ, ㄎㄨㄫ, ㄏㄝㄊ from the alias-correction side-quests above; ㄙ⼶ㄇ, ㄙㄚㄧ from the 2026-06-09 pass.
 
 (For the larger ~115-syllable backlog perfected across earlier sessions before this batch began, see git history on the `syllables/` directory — that level of detail isn't worth duplicating here.)
