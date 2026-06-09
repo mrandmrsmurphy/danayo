@@ -97,7 +97,7 @@ That external location isn't backed up the way this git-tracked vault is, and is
 
 Structure:
 - **`AIOS/memory-index.md`** — index of standing memories: who the user is, feedback/corrections on how to work here, pointers to external systems. **Read this at the start of every session.**
-- **`AIOS/memory/`** — individual files: `user_*.md` (who Robert is, how he thinks), `feedback_*.md` (corrections and confirmations — lead with the rule, then `**Why:**` and `**How to apply:**`), `reference_*.md` (pointers to external systems)
+- **`AIOS/memory/`** — individual files: `user_*.md` (who 武明帥 is, how he thinks), `feedback_*.md` (corrections and confirmations — lead with the rule, then `**Why:**` and `**How to apply:**`), `reference_*.md` (pointers to external systems)
 - **`AIOS/skill-index.md`** — index of step-by-step workflow guides; read the relevant skill in full before starting that kind of work
 - **`AIOS/skills/`** — individual `skill_*.md` guides
 - **`AIOS/projects.md`** — living status document for ongoing work; read at the start of every session to see what's active and where to resume

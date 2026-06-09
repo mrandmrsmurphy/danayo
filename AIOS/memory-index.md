@@ -1,8 +1,8 @@
 # Memory Index
 
-Standing memories about Robert and how to collaborate with him on this vault: who he is, his preferences, corrections he's given, and pointers to external systems. Read this at the start of every session — see the Persistence section in `CLAUDE.md`.
+Standing memories about 武明帥 and how to collaborate with him on this vault: who he is, his preferences, corrections he's given, and pointers to external systems. Read this at the start of every session — see the Persistence section in `CLAUDE.md`.
 
-**For who Robert is and how he likes to work, start with [[AIOS/me.md|me.md]]** (the canonical profile, at the AIOS root — read it at the start of every session alongside this index).
+**For who 武明帥 is and how he likes to work, start with [[AIOS/me.md|me.md]]** (the canonical profile, at the AIOS root — read it at the start of every session alongside this index).
 
 For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project status, see `AIOS/projects.md`.
 

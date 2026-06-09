@@ -18,7 +18,7 @@ Goal: get everything valuable off danayo.conlang.org so those pages can be delet
 
 ## Checklist per character
 
-1. **Open vault file** — `find /Users/robertmarshallmurphy/Documents/danayo/characters -name "X*"` (may be `X.md` or `X (char).md`); read it fully.
+1. **Open vault file** — `find characters -name "X*"` (run from the vault root; may be `X.md` or `X (char).md`); read it fully.
 2. **Fetch wiki page** — `curl -sk "http://danayo.conlang.org/w/index.php?title=URL_ENCODED_CHAR&action=view" | sed 's/<[^>]*>//g' | grep -v '^[[:space:]]*$' | grep -A200 "Jump to navigation" | head -100`
 3. **Compare** — produce a side-by-side table of discrepancies and flag wiki-only data (prose notes, compounds, aliases, components).
 4. **Ask** — present findings and ask what to import.
