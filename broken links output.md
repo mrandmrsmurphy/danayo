@@ -569,6 +569,10 @@
 - [[舌背]] in [[syllables/Syllables]]
 - [[濁塞]] in [[syllables/Syllables]]
 - [[俾]] in [[syllables/ㄆ⼶]]
+- [[廞]] in [[syllables/ㄏㄜㄇ]]
+- [[䦧]] in [[syllables/ㄏㄝㄎ]]
+
+## Claudable
 - [[櫓櫂]] in [[syllables/ㄊㄛㄨ]]
 - [[天鵝絨]] in [[syllables/ㄋㄨㄫ]]
 - [[溌剌]] in [[syllables/ㄌㄚㄊ]]
@@ -585,8 +589,6 @@
 - [[貝殼]] in [[syllables/ㄎㄚㄎ]]
 - [[粃糠]] in [[syllables/ㄎㄚㄫ]]
 - [[欺瞞]] in [[syllables/ㄎㄧ]]
-- [[廞]] in [[syllables/ㄏㄜㄇ]]
-- [[䦧]] in [[syllables/ㄏㄝㄎ]]
 - [[新鮮]] in [[syllables/ㄙ⼶ㄇ]]
 - [[寺刹]] in [[syllables/ㄙㄚ]]
 - [[刪除]] in [[syllables/ㄙㄚㄋ]]
