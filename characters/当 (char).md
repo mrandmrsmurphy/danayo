@@ -53,3 +53,4 @@ boundedness: 100
 [[Lookup/CC/finals/韻 唐開]]
 - [[当然]] "of course, natural, inevitable"
 - [[当世]] "this time, this world"
+- <ruby>[[充当]]<rt>ㄑㄨㄫㄉㄚㄫ</rt></ruby> "allocate"

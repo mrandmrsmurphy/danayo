@@ -17,6 +17,25 @@
 - 位.md's `## Words` section: converted these 10 entries from plain `[[XX位]]` links to ruby-annotated `<ruby>[[XX位]]<rt>...</rt></ruby>` format
 - Syllable page `⼔ㄧ.md` perfected: converted 4 long-pending "but requires X" entries (位→定位, 危→危険, 倭→倭人, 萎→萎縮) to "-->" format since all target words already existed; date-last-perfect updated to 2026-06-09
 
-### Remaining (34 words)
-- 5 more 位-compounds: 水位, 単位, 地位, 部位, 方位 (all already listed with English glosses in 位.md's Words section, same pattern as batch 1)
-- 29 others: 掌管, 仙人掌, 分掌, 提供, 提出, 提督, 提琴, 提携, 改革, 処女(alias 处女/處女), 嬴洲, 事宜, 徳沢(alias 德澤/徳澤), 充足, 充電, 充当, 別字, 個別, 勉励, 勉強, 受賞, 受難, 受理, 受胎, 受託, 要塞, 妓女, 舞妓
+### Batch 2 — remaining 位-compounds + 掌/提 group (complete 2026-06-10)
+水位, 単位, 地位, 部位, 方位, 掌管, 仙人掌, 分掌, 提供, 提出
+- All 10 word files created with full frontmatter + encyclopedic Notes
+- Back-links added to constituent character pages (水/単/地/部/方/掌/管/仙/人/分/提/供/出 — 単, 管, 仙, 出 gained their first `## Words` section)
+- 位.md's `## Words` section: converted the remaining 5 位-entries to ruby format (now all 15 done)
+- 仙人掌's Japanese reading is the native loanword さぼてん (saboten), not on'yomi-compositional — noted in its Notes as a rare exception
+- No syllable pages required updates for this batch (checked all constituent syllables for "but requires" entries pointing at these 10 words — none found)
+
+### Remaining (24 words)
+掌管/仙人掌/分掌/提供/提出 are also listed in characters/掌 and characters/提's Words sections but appear ONLY ONCE in the broken-links list — both done now.
+- 提督, 提琴, 提携 (all in characters/提)
+- 改革 (characters/改 (char), lexipedia/Geography)
+- 処女 (build as 処女, alias 处女/處女) — characters/娘 (char)
+- 嬴洲 (characters/嬴)
+- 事宜 (characters/宜)
+- 徳沢 (build as 徳沢, alias 德澤/徳澤) — characters/徳 (char)
+- 充足, 充電, 充当 (characters/充)
+- 別字, 個別 (characters/別 (char))
+- 勉励, 勉強 (characters/勉 (char))
+- 受賞, 受難, 受理, 受胎, 受託 (characters/受)
+- 要塞 (characters/塞)
+- 妓女, 舞妓 (characters/妓)

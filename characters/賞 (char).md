@@ -44,3 +44,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 陽開]]
+
+## Words
+- <ruby>[[受賞]]<rt>ㄙ⼜ㄙ⼘ㄫ</rt></ruby> "win an award"

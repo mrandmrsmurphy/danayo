@@ -57,3 +57,6 @@ boundedness: 100
 - [[強化]] "strengthen"
 - [[強固]] "strong, solid"
 - <ruby>[[強欲]]<rt>ㄍ⼘ㄫ⼄ㄎ</rt></ruby> "greed"
+
+## Words
+- <ruby>[[勉強]]<rt>ㄇ⼶ㄋㄍ⼘ㄫ</rt></ruby> "to force to do; to study (Japanese)"

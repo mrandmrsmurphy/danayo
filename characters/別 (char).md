@@ -57,7 +57,7 @@ boundedness: 80
 [[Lookup/CC/finals/韻 薛B三開]]
 - Components: [[𠮠]], [[刂]]
 - [[別荘]] "villa, village"
-- [[別字]] "typo, variant"
+- <ruby>[[別字]]<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, variant"
 - <ruby>[[区別]]<rt>ㄎㄨㄅㄝㄊ</rt></ruby> "differentiate, distinguish"
-- [[個別]] "individual, separate"
+- <ruby>[[個別]]<rt>ㄍㄜㄅㄝㄊ</rt></ruby> "individual, separate"
 - <ruby>[[離別]]<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby> "depart, leave"

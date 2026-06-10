@@ -44,6 +44,7 @@ boundedness: 65
 
 ## Words
 - <ruby>[一処](/words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby> "together"
+- <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> "virgin, maiden"
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 魚]]
 - [[処決]] "handle,resolve,execute"

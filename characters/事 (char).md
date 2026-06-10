@@ -59,3 +59,4 @@ boundedness: 90
 - [[行事]]
 - [[逸事]]
 - <ruby>[[従事]]<rt>ㄐㄛㄫㄐㄧ</rt></ruby> "to engage in, to be involved in"
+- <ruby>[[事宜]]<rt>ㄐㄧㄜㄧ</rt></ruby> "arrangement, fittings"

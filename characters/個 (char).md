@@ -47,3 +47,6 @@ boundedness: 35
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 歌]]
+
+## Words
+- <ruby>[[個別]]<rt>ㄍㄜㄅㄝㄊ</rt></ruby> "individual, separate"

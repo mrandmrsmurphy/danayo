@@ -50,4 +50,4 @@ boundedness: 80
 - <ruby>[[改竄]]<rt>ㄍㄚㄧㄑㄚㄋ</rt></ruby> "to falsify; to tamper with; to alter (a document)"
 - [[改善]] "improvement, reform"
 - [[改変]] "alter, change"
-- [[改革]] "reform"
+- <ruby>[[改革]]<rt>ㄍㄚㄧㄎㄧㄎ</rt></ruby> "reform"

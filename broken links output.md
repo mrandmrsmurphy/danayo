@@ -1,9 +1,4 @@
-## Words
-- [[掌管]] in [[characters/掌]]
-- [[仙人掌]] in [[characters/掌]]
-- [[分掌]] in [[characters/掌]]
-- [[提供]] in [[characters/提]]
-- [[提出]] in [[characters/提]]
+## Words 
 - [[提督]] in [[characters/提]]
 - [[提琴]] in [[characters/提]]
 - [[提携]] in [[characters/提]]
@@ -12,11 +7,6 @@
 - [[嬴洲]] in [[characters/嬴]]
 - [[事宜]] in [[characters/宜]]
 - [[德澤]] in [[characters/徳 (char)]]
-- [[水位]] in [[characters/位]]
-- [[単位]] in [[characters/位]]
-- [[地位]] in [[characters/位]]
-- [[部位]] in [[characters/位]]
-- [[方位]] in [[characters/位]], [[lexipedia/Geography]]
 - [[充足]] in [[characters/充]]
 - [[充電]] in [[characters/充]]
 - [[充当]] in [[characters/充]]

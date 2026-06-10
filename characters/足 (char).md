@@ -46,5 +46,9 @@ boundedness: 70
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 燭]]
 - [[足球]] "football"
+
+## Words
+- <ruby>[[充足]]<rt>ㄑㄨㄫㄐㄛㄎ</rt></ruby> "adequate"
+
 ## Chengyu
 - <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"

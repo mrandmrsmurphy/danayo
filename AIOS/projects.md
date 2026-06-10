@@ -4,7 +4,7 @@ Living status document for ongoing work on the Dan'a'yo vault. Read this at the 
 
 ## Active
 
-- [[project_words_section_batch]] — creating the 44 words listed in `broken links output.md`'s "## Words" section (referenced from character files' own Words sections, no new characters needed). Batch 1 of 10 complete (2026-06-09): 即位, 帝位, 王位, 下位, 学位, 穴位, 坐位 (alias 座位), 在位, 爵位, 上位 — the first 10 of 15 位-compounds. 34 words remain: 5 more 位-words (水位, 単位, 地位, 部位, 方位) + 29 others.
+- [[project_words_section_batch]] — creating the 44 words listed in `broken links output.md`'s "## Words" section (referenced from character files' own Words sections, no new characters needed). Batch 1 (2026-06-09): the first 10 of 15 位-compounds. Batch 2 (2026-06-10): the remaining 5 位-compounds (水位, 単位, 地位, 部位, 方位) plus 掌管, 仙人掌, 分掌, 提供, 提出. 24 words remain.
 
 ## Closed / historical
 

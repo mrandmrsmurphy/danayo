@@ -52,5 +52,8 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 侵B]]
+## Words
+- <ruby>[[提琴]]<rt>ㄙㄝㄍㄨㄇ</rt></ruby> "bowed string instrument; violin family"
+
 ## Chengyu
 - <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "burning the qin for firewood and boiling the crane for soup; destroying beauty through philistine indifference"

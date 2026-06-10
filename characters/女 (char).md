@@ -53,6 +53,7 @@ boundedness: 80
 - [[婢女]]
 - [[姪女]]
 - [[孫女]]
-- 
+- <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> "virgin, maiden"
+- <ruby>[[妓女]]<rt>ㄍㄧㄋㄜ</rt></ruby> "prostitute"
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 魚]]

@@ -51,5 +51,5 @@ boundedness: 75
 
 ## Words
 - <ruby>[[勤勉]]<rt>ㄍㄧㄋㄇ⼶ㄋ</rt></ruby> "hard-working, diligent"
-- [[勉励]] "exhort, urge"
-- [[勉強]] "to force to do"
+- <ruby>[[勉励]]<rt>ㄇ⼶ㄋㄌㄝ</rt></ruby> "exhort, urge"
+- <ruby>[[勉強]]<rt>ㄇ⼶ㄋㄍ⼘ㄫ</rt></ruby> "to force to do; to study (Japanese)"

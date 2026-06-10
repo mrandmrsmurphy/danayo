@@ -42,7 +42,7 @@ boundedness:
 
 ## Words
 - <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
-- [[德澤]] "aide, support"
+- <ruby>[[徳沢]]<rt>ㄊㄨㄎㄉㄚㄎ</rt></ruby> "grace, beneficence"
 
 ## Notes
 [[Lookup/CC/initials/聲 端]]
