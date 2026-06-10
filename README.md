@@ -45,8 +45,8 @@ The following are not content pages, but "programming"
 - [numerals](nav/numerals.md)
 - [word_info](nav/word_info.md)
 - [CLAUDE](CLAUDE.md)
-	- [Character Inclusion Philosophy](Character%20Inclusion%20Philosophy.md)
 	- [AIOS](AIOS/memory-index.md)
+		- [Character Inclusion Philosophy](AIOS/memory/Character%20Inclusion%20Philosophy.md)
 ----
 
 ## Bases

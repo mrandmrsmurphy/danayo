@@ -6,6 +6,8 @@ type: skill
 
 # Skill: Word Creation
 
+See [[AIOS/skills/Word Creation.md|Word Creation.md]] for the full guide. This memory captures the operational details learned by doing it.
+
 ## Pre-flight checklist (run before marking done)
 
 - [ ] `english` is a **YAML list** (`- item` form), never a bare string

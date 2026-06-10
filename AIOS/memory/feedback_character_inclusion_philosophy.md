@@ -4,7 +4,7 @@ description: Rules of thumb for deciding whether a marginal character gets its o
 type: feedback
 ---
 
-See also [[Character Inclusion Philosophy]] (vault root) for the full statistical rubric — grade-level thresholds, the 借代字 inclusion checklist, and the long-tail inclusion-pressure table. This memory captures the narrower judgment calls that came up in practice, which the rubric doesn't fully spell out.
+See also [[AIOS/memory/Character Inclusion Philosophy.md|Character Inclusion Philosophy]] for the full statistical rubric — grade-level thresholds, the 借代字 inclusion checklist, and the long-tail inclusion-pressure table. This memory captures the narrower judgment calls that came up in practice, which the rubric doesn't fully spell out.
 
 **Alias as stand-in:** when a character is too narrow to justify a full entry but still needs "no recourse" coverage for names, add it as an alias on its phonetic parent rather than creating a new character file — provided the two are phonetically identical across all CJKV languages.
 

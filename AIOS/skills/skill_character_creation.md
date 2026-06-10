@@ -6,7 +6,7 @@ type: skill
 
 # Skill: Character Creation
 
-See `Character Creation.md` (vault root) for the full guide. This memory captures the operational details learned by doing it.
+See [[AIOS/skills/Character Creation.md|Character Creation.md]] for the full guide. This memory captures the operational details learned by doing it.
 
 ## Key points
 

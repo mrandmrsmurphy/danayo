@@ -529,11 +529,8 @@
 - [[廞]] in [[syllables/ㄏㄜㄇ]]
 - [[䦧]] in [[syllables/ㄏㄝㄎ]]
 
-## Claudable
+## Help Me Only Claude Kenobi
 - [[櫓櫂]] in [[syllables/ㄊㄛㄨ]]
-- [[朦朧]] in [[syllables/ㄌㄛㄫ]]
-- [[倉廩]] in [[syllables/ㄌㄜㄇ]]
-- [[懍懍]] in [[syllables/ㄌㄜㄇ]]
 - [[膀胱]] in [[syllables/ㄍ⺢ㄫ]]
 - [[倦厭]] in [[syllables/ㄍ⼔ㄋ]]
 - [[嬌媚]] in [[syllables/ㄍ⼘ㄨ]]
@@ -545,6 +542,23 @@
 - [[粃糠]] in [[syllables/ㄎㄚㄫ]]
 - [[欺瞞]] in [[syllables/ㄎㄧ]]
 - [[裝飾]] in [[syllables/ㄙㄧㄎ]]
+
+
+|Word|Stand-in for|Alias → canonical|
+|---|---|---|
+|櫓櫂|櫂|櫓 → 芦|
+|膀胱|胱|膀 → 旁|
+|倦厭|倦|厭 → 嫌|
+|嬌媚|嬌|媚 → 眉|
+|僵屍|僵|屍 → 死|
+|緣故|故|緣 → 縁|
+|污垢|垢|污 → 汚|
+|貝殼|殻 (殻's stand_in = 貝殼)|殼 → 殻, paired with 貝|
+|欺瞞|欺|瞞 → 𥈞|
+|裝飾|飾|裝 → 装|
+
+
+## History
 - [[主掌]] in [[translation/周礼 (book)]]
 - [[諌議]] in [[translation/周礼 (book)]]
 - [[五礼]] in [[translation/周礼 (book)]]
