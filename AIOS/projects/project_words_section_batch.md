@@ -25,17 +25,13 @@
 - 仙人掌's Japanese reading is the native loanword さぼてん (saboten), not on'yomi-compositional — noted in its Notes as a rare exception
 - No syllable pages required updates for this batch (checked all constituent syllables for "but requires" entries pointing at these 10 words — none found)
 
-### Remaining (24 words)
-掌管/仙人掌/分掌/提供/提出 are also listed in characters/掌 and characters/提's Words sections but appear ONLY ONCE in the broken-links list — both done now.
-- 提督, 提琴, 提携 (all in characters/提)
-- 改革 (characters/改 (char), lexipedia/Geography)
-- 処女 (build as 処女, alias 处女/處女) — characters/娘 (char)
-- 嬴洲 (characters/嬴)
-- 事宜 (characters/宜)
-- 徳沢 (build as 徳沢, alias 德澤/徳澤) — characters/徳 (char)
-- 充足, 充電, 充当 (characters/充)
-- 別字, 個別 (characters/別 (char))
-- 勉励, 勉強 (characters/勉 (char))
-- 受賞, 受難, 受理, 受胎, 受託 (characters/受)
-- 要塞 (characters/塞)
-- 妓女, 舞妓 (characters/妓)
+### Batch 3 — final 23 words (complete 2026-06-10)
+提督, 提琴, 提携, 改革, 処女 (alias 处女/處女), 嬴洲, 事宜, 徳沢 (alias 德澤/徳澤), 充足, 充電, 充当, 別字, 個別, 勉励, 勉強, 受賞, 受難, 受理, 受胎, 受託, 要塞, 妓女, 舞妓
+- All 23 word files created with full frontmatter + encyclopedic Notes
+- Back-links added/converted to ruby format across 提/督/琴/携/改/革/処/女/洲/事/宜/徳/沢/充/足/電/当/別/字/個/勉/励/強/受/賞/難/理/胎/託/要/塞/妓/舞 — 琴, 個, 励, 強, 賞, 胎, 要, 舞 gained their first `## Words` section; 革, 電, 足 also gained one
+- 嬴.md already had its 嬴洲 back-link pre-existing in ruby format; only 洲 (char).md needed the new link
+- 徳 (char).md's pre-existing `[[德澤]]` link retargeted to `[[徳沢]]` (alias-parent rule)
+- 娘 (char).md's plain `[[处女]]` reference converted to ruby `[[処女]]`
+- 勉強's Notes documents the Mandarin/Cantonese/Vietnamese "reluctant, forced" sense vs. the Japanese "to study" sense — a notable cross-language semantic divergence
+- 舞妓's Notes documents まいこ (maiko) as a non-compositional Japanese reading, following the 仙人掌/さぼてん precedent
+- `broken links output.md`'s entire "## Words" section is now empty — this project is complete

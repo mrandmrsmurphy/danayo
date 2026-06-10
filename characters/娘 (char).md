@@ -47,4 +47,4 @@ boundedness: 80
 - 形声 (OC \*naŋ): semantic [[Radical 038|女]] ("woman") + phonetic [[良]] (OC \*raŋ).
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 陽開]]
-The meaning is similar to [[处女]] (virgin), but not identical.
+The meaning is similar to <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> (virgin), but not identical.
