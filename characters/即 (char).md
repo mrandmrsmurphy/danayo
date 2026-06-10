@@ -48,3 +48,5 @@ boundedness: 100
 ## Chengyu
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby>
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
+## Words
+- <ruby>[[即位]]<rt>ㄐㄜㄎ⼔ㄧ</rt></ruby> "to ascend the throne"

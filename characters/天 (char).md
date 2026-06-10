@@ -69,6 +69,7 @@ boundedness: 80
 - <ruby>[[天竺]]<rt>ㄊㄝㄋㄐㄨㄎ</rt></ruby> "India"
 - <ruby>[[天竺鼠]]<rt>ㄊㄝㄋㄐㄨㄎㄙ⼄</rt></ruby> "guinea pig"
 - [[天鵝]]
+- <ruby>[[天鵝絨]]<rt>ㄊㄝㄋ·ㄚㄋㄨㄫ</rt></ruby> "velvet"
 - [[堕天使]]
 - [[天狗]]
 - [[天気]]

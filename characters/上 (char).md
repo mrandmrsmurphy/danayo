@@ -50,5 +50,6 @@ boundedness: 70
 ## Words
 - [[上述]] The aforementioned
 - <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"
+- <ruby>[[上位]]<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby> "upper rank"
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 陽開]]

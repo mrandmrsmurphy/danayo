@@ -47,3 +47,6 @@ boundedness: 80
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 戈一合]]
 - [[坐席]] "seat, mat"
+
+## Words
+- <ruby>[[坐位]]<rt>ㄐ⺢⼔ㄧ</rt></ruby> "seat"

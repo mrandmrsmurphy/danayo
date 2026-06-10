@@ -64,6 +64,7 @@ Originally an 指事/ideogram, a picture of "down".  It used be a line under ano
 - <ruby>[[下旬]]<rt>ㄏㄚㄙ⼜ㄋ</rt></ruby> - end of the month
 - <ruby>[[落下]]<rt>ㄌㄚㄎㄏㄚ</rt></ruby> - to fall
 - <ruby>[[落下傘]]<rt>ㄌㄚㄎㄏㄚㄙㄚㄋ</rt></ruby> - parachute
+- <ruby>[[下位]]<rt>ㄏㄚ⼔ㄧ</rt></ruby> - low position
 ## Info
 - [[Grade 1]], [[lookup/HSK/HSK Beginner]], [[Jōyō - Kyōiku]], [[Korean MS]]
 - [[Radical 001]] ([[SKIP-4-3-1]], [[Stroke 03]])
