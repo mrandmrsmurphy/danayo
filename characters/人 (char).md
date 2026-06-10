@@ -106,6 +106,7 @@ boundedness: 75
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧㄋㄧㄋ</rt></ruby> "poet"
+- <ruby>[[仙人掌]]<rt>ㄙ⼶ㄋㄋㄧㄋㄐㄚㄫ</rt></ruby> "cactus"
 ## Chengyu
 - <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
 - [[造人像形]]

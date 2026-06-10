@@ -61,5 +61,6 @@ boundedness: 90
 - [[部首]]
 - [[腰部]]
 - [[部族]]
+- <ruby>[[部位]]<rt>ㄅㄛㄨ⼔ㄧ</rt></ruby> "region, site"
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 侯]]

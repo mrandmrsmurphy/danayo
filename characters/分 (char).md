@@ -67,3 +67,4 @@ boundedness: 95
 - [[分之]] "fractions times"
 - <ruby>[[分析]]<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby> "analyze, analysis"
 - <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> "equinox"
+- <ruby>[[分掌]]<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby> "to divide work duties"

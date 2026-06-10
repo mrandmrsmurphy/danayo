@@ -64,5 +64,6 @@ boundedness: 90
 - [[地震]] - earthquake
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 - <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby> "earthly branches"
+- <ruby>[[地位]]<rt>ㄉㄧㄜ⼔ㄧ</rt></ruby> "status"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 脂A三開]]

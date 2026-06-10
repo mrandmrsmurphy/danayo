@@ -61,3 +61,4 @@ boundedness: 90
 - <ruby>[[滲出]]<rt>ㄙㄛㄇㄑㄨㄊ</rt></ruby> "seep out"
 - <ruby>[[射出]]<rt>ㄙ⼘ㄑㄨㄊ</rt></ruby> "emit; eject; shoot out"
 - <ruby>[[抽出]]<rt>ㄑㄨㄑㄨㄊ</rt></ruby> "extract; draw out; isolate"
+- <ruby>[[提出]]<rt>ㄙㄝㄑㄨㄊ</rt></ruby> "to bring forward, to submit"
