@@ -38,6 +38,8 @@ aliases:
   - 撥
   - 𫝼
   - 拨
+  - 溌
+  - 泼
 注音: ㄈㄚㄊ
 kwin: false
 tags:
@@ -68,3 +70,4 @@ boundedness:
 [[Lookup/CC/finals/韻 月合]]
 - [[発見]] "discover, find out"
 - <ruby>[[誘発]]<rt>⼜ㄛㄈㄚㄊ</rt></ruby> "to induce; to trigger"
+- <ruby>[[発剌]]<rt>ㄈㄚㄊㄌㄚㄊ</rt></ruby> "lively, vivacious"

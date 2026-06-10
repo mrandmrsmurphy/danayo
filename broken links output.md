@@ -531,7 +531,6 @@
 
 ## Claudable
 - [[櫓櫂]] in [[syllables/ㄊㄛㄨ]]
-- [[溌剌]] in [[syllables/ㄌㄚㄊ]]
 - [[朦朧]] in [[syllables/ㄌㄛㄫ]]
 - [[倉廩]] in [[syllables/ㄌㄜㄇ]]
 - [[懍懍]] in [[syllables/ㄌㄜㄇ]]
