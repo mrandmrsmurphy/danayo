@@ -1,6 +1,6 @@
 ---
 name: broken-links-batch
-description: Active project — working through ~70 missing words listed in 'broken links output.md', currently at #51/69
+description: Complete (2026-06-09) — all 70 words from 'broken links output.md's Claudable list created
 type: project
 ---
 
@@ -10,17 +10,17 @@ type: project
 
 **How to apply:** Resume at the next pending word. Don't trust a prior "complete" claim without spot-checking — verify by checking whether the word file actually exists in `words/` (a 2026-06-07 correction found a prior "complete" claim was false: only ~10 of ~94 lines had actually been done).
 
-## Current status (as of 2026-06-09)
+## Current status (as of 2026-06-09) — COMPLETE
 
-**Done: words #1-60** — 詔書 through 刀鞘, each with full frontmatter + encyclopedic Notes, character back-links, and syllable ruby annotations.
+**Done: all 70 words (#1-69 + 遜色)** — 詔書 through 碩大, each with full frontmatter + encyclopedic Notes, character back-links, and syllable ruby annotations.
 
 **Also resolved out of order: #28 潮汐** (required creating the missing character 汐 first; see "Characters created mid-batch" below).
 
-**STOPPING POINT (2026-06-09):** paused after word #60 (刀鞘), a clean set of 10. Syllables perfected in this pass: ㄙ⼶ㄇ (新鮮, only entry), ㄙㄚㄧ (梗塞, completing all non-名専字 entries).
-
-**Remaining: #61-69+遜色** (10 words) — 蕃藷, 損失, 遜色, 蜀国, 宋朝, 漏洩, 楔子, 解釈, 潟湖, 碩大. 遜色 was omitted from the original list but belongs to ㄙㄛㄋ alongside 損失 — do both together to perfect that page.
+**FINAL PASS (2026-06-09):** completed words #61-69+遜色 — 蕃藷, 損失, 遜色, 蜀国, 宋朝, 漏洩, 楔子, 解釈, 潟湖, 碩大. Required finding two character files under non-obvious names: `朝 (char).md` and `漏 (char).md` (not `朝.md`/`漏.md`), and `解 (char).md` (not `解.md`). Syllables perfected this pass: ㄙㄛㄋ (孫子/損失/遜色, plus fixing a stale "but requires" on the already-existing 孫子 entry), ㄙㄛㄎ (蜀国, only pending entry), ㄙㄛㄫ (宋朝, only pending entry). ㄙㄝㄊ, ㄙㄝㄎ, and ㄙㄛ received ruby updates for 漏洩/楔子, 解釈/潟湖/碩大, and 蕃藷 respectively but were not fully perfected (other entries on those pages remain pending — 建設, 適宜/坐席/夕陽/昔日/分析/朱錫, and 要素/訴訟/塑造).
 
 **Note on #58 追溯:** created as 追遡.md (canonical form, with alias 追溯), following the 陶汰 precedent. Updated 遡.md stand_in field accordingly.
+
+**Project closed.** Remaining broken links in the Claudable section (媚, 屍, 緣, 污, 倆, 殼, 粃, 瞞, 廞, 裝, 厭-dependent words, plus 周礼/論語 translation items) are a different category — see "Genuinely blocked entries" below — and not part of this batch.
 
 ## Characters created mid-batch
 

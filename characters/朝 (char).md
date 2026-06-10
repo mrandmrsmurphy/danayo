@@ -49,3 +49,4 @@ boundedness: 100
 
 ## Words
 - <ruby>[[朝廷]]<rt>ㄐㄚㄨㄉㄝㄫ</rt></ruby> "imperial court"
+- <ruby>[[宋朝]]<rt>ㄙㄛㄫㄐㄚㄨ</rt></ruby> "Song dynasty"

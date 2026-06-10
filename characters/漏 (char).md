@@ -49,3 +49,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[滲漏]]<rt>ㄙㄛㄇㄌㄛㄨ</rt></ruby> "leak"
+- <ruby>[[漏洩]]<rt>ㄌㄛㄨㄙㄝㄊ</rt></ruby> "leak; disclosure"
