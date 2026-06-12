@@ -531,7 +531,6 @@
 
 ## Help Me Only Claude Kenobi
 - [[櫓櫂]] in [[syllables/ㄊㄛㄨ]]
-- [[膀胱]] in [[syllables/ㄍ⺢ㄫ]]
 - [[倦厭]] in [[syllables/ㄍ⼔ㄋ]]
 - [[嬌媚]] in [[syllables/ㄍ⼘ㄨ]]
 - [[僵屍]] in [[syllables/ㄍ⼘ㄫ]]
@@ -547,7 +546,6 @@
 |Word|Stand-in for|Alias → canonical|
 |---|---|---|
 |櫓櫂|櫂|櫓 → 芦|
-|膀胱|胱|膀 → 旁|
 |倦厭|倦|厭 → 嫌|
 |嬌媚|嬌|媚 → 眉|
 |僵屍|僵|屍 → 死|
@@ -557,7 +555,12 @@
 |欺瞞|欺|瞞 → 𥈞|
 |裝飾|飾|裝 → 装|
 
+  2 are genuinely "alias creativity" — the missing character isn't an alias of anything yet:
 
+  - 伎倆 (伎's stand_in) — 倆 doesn't exist. Best candidate: alias of 両 (両 already aliases 輛/辆/輌, all 亻/車+両 forms — 倆 is 亻+両, phonetically liǎ/liǎng matches)
+
+  - 粃糠 (糠's stand_in) — 粃 doesn't exist. Need to find its canonical parent (likely 秕, bǐ — same word, 米 vs 禾 radical variant)
+  
 ## History
 - [[主掌]] in [[translation/周礼 (book)]]
 - [[諌議]] in [[translation/周礼 (book)]]
