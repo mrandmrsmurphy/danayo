@@ -301,7 +301,7 @@ tags: [lookup]
 298.  [[状]]
 299.  [犹](../../characters/猶%20(char).md)
 300.  [[促 (char)]]
-301.  [[涨]]
+301.  [涨](../../characters/張.md)
 302.  [钓](../../characters/釣.md)
 303.  [载](../../characters/載%20(char).md)
 304.  [[狂]]

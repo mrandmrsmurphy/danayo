@@ -14,7 +14,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ## 4 links
 - 邀 Create 敫?, root of 激
-- [[漲]]
 
 ### Old HSK 3 + Old HSK 4 + Old HSK 6 + Korean Name ㅈ
 [[瓷]]
@@ -55,7 +54,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[氧]] · [[扒]] · [[绑]] · [[扯]] · [[兑]] · [[狠]]
 
 ### Old HSK 2 + Old HSK 4 + Old HSK 5
-[[悄]] · [[躲]] · [[抢]] · [[嚷]] · [[傻]] · [[涨]]
+[[悄]] · [[躲]] · [[抢]] · [[嚷]] · [[傻]]
 
 ### Old HSK 2 + Old HSK 3 + Old HSK 5
 [[赶]] · [[抖]] · [[碰]] · [[飘]] · [[皂]]
