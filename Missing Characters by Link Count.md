@@ -14,9 +14,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ## 4 links
 - 邀 Create 敫?, root of 激
-
-### Old HSK 2 + Old HSK 4 + Korean Name ㅊ + SKIP-1-3-11
-[[漲]]
+- [[漲]]
 
 ### Old HSK 3 + Old HSK 4 + Old HSK 6 + Korean Name ㅈ
 [[瓷]]
