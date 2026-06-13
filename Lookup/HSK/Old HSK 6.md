@@ -16,13 +16,13 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 11.  [[烘]]
 12.  [枚 (char)](../../characters/枚%20(char).md)
 13.  [[枝]]
-14.  [[毁]]
+14.  [毁](../../characters/毀%20(char).md)
 15.  [[毅]]
 16.  [[勾]]
 17.  [[勿 (char)]]
 18.  [[掰]]
 19.  [[掷]]
-20.  [[陈]]
+20.  [陈](../../characters/陳.md)
 21.  [[膨]]
 22.  [[揉]]
 23.  [[陋]]
@@ -37,16 +37,16 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 32.  [[碌]]
 33.  [[嚼]]
 34.  [廓](../../characters/郭%20(char).md)
-35.  [[揭]]
+35.  [揭](../../characters/掲%20(char).md)
 36.  [[粹]]
 37.  [[碑]]
 38.  [[陵]]
 39.  [[陶]]
-40.  [[陷]]
+40.  [陷](../../characters/陥%20(char).md)
 41.  [[援]]
 42.  [[隆 (char)]]
 43.  [[臣]]
-44.  [[隐]]
+44.  [隐](../../characters/隠.md)
 45.  [[隘]]
 46.  [[隙 (char)]]
 47.  [[障]]
@@ -95,7 +95,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 90.  [搁](../../characters/擱.md)
 91.  [[搂]]
 92.  [[卑 (char)]]
-93.  [[搅]]
+93.  [搅](../../characters/撹.md)
 94.  [[卓]]
 95.  [[氢]]
 96.  [[搏]]
@@ -105,11 +105,11 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 100.  [[搓]]
 101.  [[乌]]
 102.  [[雌]]
-103.  [[搜]]
+103.  [搜](../../characters/捜.md)
 104.  [[煌]]
 105.  [[宅]]
 106.  [[悟]]
-107.  [[雕]]
+107.  [雕](../../characters/彫.md)
 108.  [[弊 (char)]]
 109.  [[乞 (char)]]
 110.  [[卸 (char)]]
@@ -149,15 +149,15 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 144.  [[坛]]
 145.  [[栏]]
 146.  [[坝]]
-147.  [[坟]]
+147.  [坟](../../characters/墳.md)
 148.  [[役]]
 149.  [[踊]]
 150.  [[踌]]
 151.  [[坡]]
 152.  [[踏]]
 153.  [撑](../../characters/撐.md)
-154.  [[撒]]
-155.  [[畅]]
+154.  [撒](../../characters/散.md)
+155.  [畅](../../characters/暢.md)
 156.  [[患 (char)]]
 157.  [[悦]]
 158.  [[魂 (char)]]
@@ -165,7 +165,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 160.  [[誓]]
 161.  [[畏 (char)]]
 162.  [[径]]
-163.  [[悬]]
+163.  [悬](../../characters/懸%20(char).md)
 164.  [[徊]]
 165.  [[畔 (char)]]
 166.  [[株 (char)]]
@@ -181,7 +181,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 176.  [[垂]]
 177.  [[垄]]
 178.  [[宪]]
-179.  [[宫]]
+179.  [宫](../../characters/宮.md)
 180.  [[栽]]
 181.  [[宰]]
 182.  [[惋]]
@@ -229,7 +229,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 224.  [[虫]]
 225.  [[躁]]
 226.  [[躇]]
-227.  [[仓]]
+227.  [仓](../../characters/倉.md)
 228.  [[叭]]
 229.  [[叮]]
 230.  [[沸]]
@@ -239,10 +239,10 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 234.  [[撤 (char)]]
 235.  [[沾]]
 236.  [[沿 (char)]]
-237.  [[叹]]
+237.  [叹](../../characters/嘆%20(char).md)
 238.  [[泄]]
 239.  [[叼]]
-240.  [[蚀]]
+240.  [蚀](../../characters/食%20(char).md)
 241.  [[霸]]
 242.  [[泊]]
 243.  [[泌]]
@@ -260,7 +260,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 255.  [[泰]]
 256.  [[垫]]
 257.  [[芽]]
-258.  [[齿]]
+258.  [齿](../../characters/歯%20(char).md)
 259.  [[忌]]
 260.  [[泻]]
 261.  [[泽]]
@@ -276,7 +276,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 271.  [[忧]]
 272.  [[若 (char)]]
 273.  [[债]]
-274.  [[倾]]
+274.  [倾](../../characters/傾.md)
 275.  [[症]]
 276.  [[偏 (char)]]
 277.  [[梢]]
@@ -293,7 +293,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 288.  [[吁]]
 289.  [[吉 (char)]]
 290.  [[稀]]
-291.  [[吊]]
+291.  [吊](../../characters/弔%20(char).md)
 292.  [[尬]]
 293.  [[慈]]
 294.  [[吝]]
@@ -313,14 +313,14 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 308.  [[慨 (char)]]
 309.  [[禽]]
 310.  [[蛮]]
-311.  [[洁]]
+311.  [洁](../../characters/潔.md)
 312.  [[屑 (char)]]
 313.  [[吼 (char)]]
 314.  [[鞠]]
 315.  [[伦]]
 316.  [[秃]]
 317.  [[伪]]
-318.  [[稻]]
+318.  [稻](../../characters/稲.md)
 319.  [[稿 (char)]]
 320.  [[伯]]
 321.  [[慷]]
@@ -356,7 +356,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 351.  [[牢]]
 352.  [[咀]]
 353.  [[牧 (char)]]
-354.  [[浑]]
+354.  [浑](../../characters/混.md)
 355.  [[攻 (char)]]
 356.  [[咋]]
 357.  [[遏]]
@@ -381,7 +381,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 376.  [[浴]]
 377.  [[敞]]
 378.  [[浸 (char)]]
-379.  [[涉]]
+379.  [涉](../../characters/渉%20(char).md)
 380.  [[荒]]
 381.  [[瘤]]
 382.  [[譬]]
@@ -415,8 +415,8 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 410.  [[侣]]
 411.  [[咽]]
 412.  [[侦]]
-413.  [[侧]]
-414.  [[侨]]
+413.  [侧](../../characters/側.md)
+414.  [侨](../../characters/僑.md)
 415.  [[哀]]
 416.  [[侮]]
 417.  [[哄]]
@@ -473,21 +473,21 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 468.  [[旋]]
 469.  [[诈]]
 470.  [[墨]]
-471.  [[纠]]
-472.  [[纤]]
+471.  [纠](../../characters/糾%20(char).md)
+472.  [纤](../../characters/繊.md)
 473.  [[混]]
 474.  [淹](../../characters/奄.md)
 475.  [[纬]]
 476.  [[添]]
-477.  [[诞]]
+477.  [诞](../../characters/誕.md)
 478.  [[旨]]
 479.  [[菌]]
 480.  [[纳]]
 481.  [[纵]]
 482.  [[诧]]
-483.  [[纹]]
+483.  [纹](../../characters/紋%20(char).md)
 484.  [[诫]]
-485.  [[诬]]
+485.  [诬](../../characters/誣.md)
 486.  [[纽]]
 487.  [[旱]]
 488.  [[旷]]
@@ -512,14 +512,14 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 507.  [[络]]
 508.  [[钦]]
 509.  [[壤]]
-510.  [[钩]]
+510.  [钩](../../characters/鉤%20(char).md)
 511.  [[盈]]
-512.  [[额]]
+512.  [额](../../characters/額.md)
 513.  [[兆]]
 514.  [[绣]]
 515.  [[壮]]
-516.  [[监]]
-517.  [[壳]]
+516.  [监](../../characters/監.md)
+517.  [壳](../../characters/殻.md)
 518.  [[榨]]
 519.  [[盗]]
 520.  [[兑]]
@@ -558,13 +558,13 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 553.  [[崭]]
 554.  [铺](../../characters/舗%20(char).md)
 555.  [[唠]]
-556.  [[扑]]
+556.  [扑](../../characters/撲%20(char).md)
 557.  [[扒]]
 558.  [[耸]]
 559.  [[迸]]
 560.  [[耻]]
 561.  [[扛]]
-562.  [[猎]]
+562.  [猎](../../characters/獵%20(char).md)
 563.  [[嵌]]
 564.  [[扣]]
 565.  [[猖]]
@@ -573,10 +573,10 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 568.  [[唾]]
 569.  [[颠]]
 570.  [[扯]]
-571.  [[颤]]
+571.  [颤](../../characters/振%20(char).md)
 572.  [[笼]]
 573.  [[啃]]
-574.  [[渔]]
+574.  [渔](../../characters/漁.md)
 575.  [[渗]]
 576.  [[昂]]
 577.  [[筋]]
@@ -587,7 +587,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 582.  [[渣 (char)]]
 583.  [[筒 (char)]]
 584.  [[昏]]
-585.  [[谋]]
+585.  [谋](../../characters/謀%20(char).md)
 586.  [[谍]]
 587.  [[筛]]
 588.  [[谎]]
@@ -630,8 +630,8 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 625.  [[晋]]
 626.  [[酝]]
 627.  [[缚]]
-628.  [[缝]]
-629.  [[晓]]
+628.  [缝](../../characters/縫.md)
+629.  [晓](../../characters/暁.md)
 630.  [[缠]]
 631.  [[酬]]
 632.  [[央]]
@@ -650,7 +650,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 645.  [[锈]]
 646.  [眨](../../characters/𦚖.md)
 647.  [[晶]]
-648.  [[凑]]
+648.  [凑](../../characters/湊.md)
 649.  [[奉]]
 650.  [[锋]]
 651.  [[眯]]
@@ -683,7 +683,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 678.  [[署]]
 679.  [[押 (char)]]
 680.  [[督]]
-681.  [[镇]]
+681.  [镇](../../characters/鎮%20(char).md)
 682.  [[妄]]
 683.  [[睦]]
 684.  [[肢]]
@@ -703,15 +703,15 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 698.  [[拙]]
 699.  [[肿]]
 700.  [[拟]]
-701.  [[胀]]
+701.  [胀](../../characters/脹.md)
 702.  [[箭]]
 703.  [[拢]]
 704.  [[拣]]
 705.  [[拧]]
-706.  [[拨]]
+706.  [拨](../../characters/発%20(char).md)
 707.  [[喻]]
 708.  [[胎]]
-709.  [[瞒]]
+709.  [瞒](../../characters/𥈞.md)
 710.  [[衅]]
 711.  [[镶]]
 712.  [[川 (char)]]
@@ -754,7 +754,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 749.  [[蓄 (char)]]
 750.  [[刑]]
 751.  [[饪]]
-752.  [[饲]]
+752.  [饲](../../characters/飼.md)
 753.  [[饶]]
 754.  [[曲]]
 755.  [姆](../../characters/母.md)
@@ -790,7 +790,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 785.  [[挠]]
 786.  [[脂]]
 787.  [[欺]]
-788.  [[脉]]
+788.  [脉](../../characters/脈.md)
 789.  [[挨]]
 790.  [[袭]]
 791.  [[帐]]
@@ -804,7 +804,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 799.  [[劈]]
 800.  [[挽]]
 801.  [[裂]]
-802.  [[闷]]
+802.  [闷](../../characters/悶.md)
 803.  [[捆]]
 804.  [灶](../../characters/竃.md)
 805.  [[捉]]
@@ -816,7 +816,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 811.  [[歧]]
 812.  [[裕]]
 813.  [[捕 (char)]]
-814.  [[捞]]
+814.  [捞](../../characters/𢭐.md)
 815.  [[炎]]
 816.  [[歹]]
 817.  [[嘲]]
@@ -848,10 +848,10 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 843.  [[贩]]
 844.  [[贪]]
 845.  [[蔑 (char)]]
-846.  [[贫]]
+846.  [贫](../../characters/貧.md)
 847.  [[蔓]]
 848.  [[贬]]
-849.  [[贯]]
+849.  [贯](../../characters/貫.md)
 850.  [[庞]]
 851.  [[膛]]
 852.  [[朽]]
@@ -883,9 +883,9 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 878.  [[赖]]
 879.  [[杠]]
 880.  [[砖]]
-881.  [[鉴]]
+881.  [鉴](../../characters/鑑.md)
 882.  [[勃]]
-883.  [[赠]]
+883.  [赠](../../characters/贈.md)
 884.  [[勉 (char)]]
 885.  [[澄]]
 886.  [[澈]]
