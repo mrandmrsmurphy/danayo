@@ -698,7 +698,7 @@ tags: [lookup]
 [[誠]]: 2
 [吃](../../characters/喫%20(char).md): 2
 [满](../../characters/満%20(char).md): 2
-[[滿]]: 2
+[滿](../../characters/満%20(char).md): 2
 [[席]]: 2
 [[播]]: 2
 [[春 (char)]]: 2
@@ -993,7 +993,7 @@ tags: [lookup]
 [含](../../characters/含.md): 1
 [汗 (char)](../../characters/汗%20(char).md): 1
 [[盒]]: 1
-[[嘿]]: 1
+[嘿](../../characters/黙.md): 1
 [[恨 (char)]]: 1
 [[哼]]: 1
 [壶](../../characters/壷.md): 1
@@ -1012,7 +1012,7 @@ tags: [lookup]
 [夾](../../characters/夹.md): 1
 [[肩 (char)]]: 1
 [[揀]]: 1
-[[拣]]: 1
+[拣](../../characters/揀.md): 1
 [[捡]]: 1
 [[撿]]: 1
 [[剪 (char)]]: 1
@@ -1091,11 +1091,11 @@ tags: [lookup]
 [[偏 (char)]]: 1
 [[飘]]: 1
 [[飄]]: 1
-[[坡]]: 1
+[坡](../../characters/坂.md): 1
 [扑](../../characters/撲%20(char).md): 1
 [[撲 (char)]]: 1
 [铺](../../characters/舗%20(char).md): 1
-[[鋪]]: 1
+[鋪](../../characters/舗%20(char).md): 1
 [牵](../../characters/牽.md): 1
 [[牽]]: 1
 [[欠 (char)]]: 1
@@ -1567,7 +1567,7 @@ tags: [lookup]
 [[誤]]: 1
 [烟](../../characters/煙.md): 1
 [[煙]]: 1
-[[牺]]: 1
+[牺](../../characters/犠.md): 1
 [犧](../../characters/犠.md): 1
 [纤](../../characters/繊.md): 1
 [纖](../../characters/繊.md): 1

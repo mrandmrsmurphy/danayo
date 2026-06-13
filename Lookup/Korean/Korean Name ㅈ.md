@@ -36,7 +36,7 @@ These have been checked for redirects
 [迪](characters/迪.md) [[勣]] [吊](characters/弔%20(char).md) [嫡 (char)](characters/嫡%20(char).md) [狄](characters/荻.md) [[炙]] [翟](characters/翟.md) [荻](characters/荻.md) [[謫]] [迹](characters/跡.md) [[鏑]] [笛](characters/笛.md) [蹟](characters/跡.md) 
 
 ### 전
-[[佺]] [栓 (char)](characters/栓%20(char).md) [詮](characters/詮.md) [銓](characters/選.md) [[琠]] [甸](characters/田.md) [塡](characters/填%20(char).md) [奠](characters/鄭.md) [[荃]] [[雋]] [顚](characters/顚.md) [佃](characters/佃.md) [剪 (char)](characters/剪%20(char).md) [[塼]] [[廛]] [[悛]] [[氈]] [澱](characters/淀.md) [煎](characters/煎.md) !畑! [癲](characters/顚.md) [[筌]] [箋](characters/箋.md) [箭](characters/箭.md) [篆](characters/篆.md) [纏](characters/纏.md) [[輾]] [鈿](characters/鈿.md) [[鐫]] [[顫]] [[餞]] 
+[[佺]] [栓 (char)](characters/栓%20(char).md) [詮](characters/詮.md) [銓](characters/選.md) [[琠]] [甸](characters/田.md) [塡](characters/填%20(char).md) [奠](characters/鄭.md) [[荃]] [[雋]] [顚](characters/顚.md) [佃](characters/佃.md) [剪 (char)](characters/剪%20(char).md) [[塼]] [[廛]] [[悛]] [[氈]] [澱](characters/淀.md) [煎](characters/煎.md) !畑! [癲](characters/顚.md) [[筌]] [箋](characters/箋.md) [箭](characters/箭.md) [篆](characters/篆.md) [纏](characters/纏.md) [[輾]] [鈿](characters/鈿.md) [[鐫]] [顫](../../characters/振%20(char).md) [[餞]] 
 
 ### 절
 [[晢]] [截](characters/截.md) [[浙]] [[癤]] 

@@ -25,7 +25,7 @@ Checked for redirect.
 [[垈]] [玳](characters/玳.md) [袋 (char)](characters/袋%20(char).md) [戴 (char)](characters/戴%20(char).md) [擡](characters/擡.md) [[旲]] [[岱]] [黛](characters/黛.md) 
 
 ### 도  
-[堵](characters/堵.md) [[棹]] [濤](characters/涛.md) [[燾]] [禱](characters/祷.md) [鍍](characters/鍍.md) [蹈](characters/踏.md) [屠](characters/屠.md) [悼 (char)](characters/悼%20(char).md) [[掉]] [[搗]] [櫂](characters/櫂.md) [[淘]] [[滔]] [[睹]] [萄](characters/萄.md) [[覩]] [賭](characters/賭.md) [[韜]] [[馟]] 
+[堵](characters/堵.md) [[棹]] [濤](characters/涛.md) [[燾]] [禱](characters/祷.md) [鍍](characters/鍍.md) [蹈](characters/踏.md) [屠](characters/屠.md) [悼 (char)](characters/悼%20(char).md) [[掉]] [[搗]] [櫂](characters/櫂.md) [淘](../../characters/陶.md) [[滔]] [[睹]] [萄](characters/萄.md) [[覩]] [賭](characters/賭.md) [[韜]] [[馟]] 
 
 ### 독  
 [瀆](characters/涜.md) [[牘]] [[犢]] [禿 (char)](characters/禿%20(char).md) [[纛]]

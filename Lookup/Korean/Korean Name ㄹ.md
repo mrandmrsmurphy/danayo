@@ -16,7 +16,7 @@ All of these have been checked for redirects.
 [剌](characters/剌.md) [辣](characters/辣%20(char).md)
 
 ### 람 
-[嵐](characters/嵐.md) [攬](characters/攬.md) [欖](characters/欖.md) [籃](characters/籃.md) [[纜]]-->[[[䌫]] [[襤]] [藍](characters/藍%20(char).md) [[㛦]] [[灆]] [[婪]]
+[嵐](characters/嵐.md) [攬](characters/攬.md) [欖](characters/欖.md) [籃](characters/籃.md) [[纜]]-->[[[䌫]] [[襤]] [藍](characters/藍%20(char).md) [[㛦]] [[灆]] [婪](../../characters/林%20(char).md)
 
 ### 랍 
 [拉](characters/拉%20(char).md) [[characters/臘]] [蠟](../../characters/蠟.md)
@@ -34,7 +34,7 @@ All of these have been checked for redirects.
 [呂](characters/呂.md) [侶](characters/侶.md) [[閭]] [黎](characters/黎.md) [[儷]] [廬](characters/廬.md) [戾](characters/戻.md) [[櫚]] [[濾]] [[礪]] [[藜]] [蠣](characters/厉%20(char).md) [驢](characters/馿%20(char).md) 驪 --> 麗
 
 ### 력 
-[[瀝]] [[礫]] [[轢]] 靂 --> 歴
+[瀝](../../characters/歴.md) [[礫]] [[轢]] 靂 --> 歴
 
 ### 련 
 [煉](characters/錬.md) [[璉]] [[攣]] [[漣]] [[輦]] [[孌]] [[𨏶]] 

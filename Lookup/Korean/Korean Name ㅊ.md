@@ -31,7 +31,7 @@ These have all bee checked to see which are redirects
 [凄](characters/凄.md) [悽](characters/凄.md)
 
 ### 척  
-[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [[滌]] [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) 隻 --> 只 [[墌]] [慼](../../characters/戚.md)
+[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [滌](../../characters/浄.md) [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) 隻 --> 只 [[墌]] [慼](../../characters/戚.md)
 
 ### 천 
 [[仟]] [[阡]] [喘](characters/喘.md) [擅](characters/擅.md) [玔](characters/釧.md) [穿](characters/穿%20(char).md) [舛](characters/舛.md) [釧](characters/釧.md) [[闡]] [韆](characters/千.md) [[../../characters/茜]]
@@ -55,7 +55,7 @@ These have all bee checked to see which are redirects
 [[樵]] [焦](characters/焦%20(char).md) [蕉](characters/蕉.md) [楚](characters/楚.md) [[剿]] [哨](characters/哨.md) [[憔]] [梢](characters/梢.md) [椒](characters/椒.md) [炒](characters/炒%20(char).md) [硝](characters/硝.md) [礁](characters/礁.md) [稍](characters/稍%20(char).md) [[苕]] [貂](characters/貂.md) [酢](characters/酢.md) [醋](characters/酢.md) [[醮]] [[岧]] [[釥]] [[俏]] 
 
 ### 촉  
-[[囑]] [[矗]] [蜀](characters/蜀.md) 
+[囑](../../characters/嘱.md) [[矗]] [蜀](characters/蜀.md) 
 
 ### 촌  
 [[忖]]
@@ -94,7 +94,7 @@ These have all bee checked to see which are redirects
 [仄](characters/仄.md) [[惻]] [廁](characters/厠.md) 
 
 ### 치 
-[[熾]] [[峙]] [雉](characters/雉%20(char).md) [馳](characters/馳%20(char).md) [[侈]] [[嗤]] [幟](characters/幟%20(char).md) [[梔]] [[淄]] [[痔]] [癡](characters/痴.md) [[緇]] [緻](characters/致%20(char).md) [[蚩]] [[輜]] [稚](characters/稚.md) 
+[[熾]] [[峙]] [雉](characters/雉%20(char).md) [馳](characters/馳%20(char).md) [侈](../../characters/済%20(char).md) [[嗤]] [幟](characters/幟%20(char).md) [[梔]] [[淄]] [[痔]] [癡](characters/痴.md) [[緇]] [緻](characters/致%20(char).md) [[蚩]] [[輜]] [稚](characters/稚.md) 
 
 ### 칙 
 [勅](characters/勅.md) [[飭]] 

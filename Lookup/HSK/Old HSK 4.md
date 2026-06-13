@@ -132,7 +132,7 @@ tags: [lookup]
 [[低]]: 11
 [义](../../characters/義.md): 11
 [當](../../characters/当%20(char).md): 11
-[[时]]: 11
+[时](../../characters/時%20(char).md): 11
 [[時 (char)]]: 11
 [[常]]: 11
 [[成 (char)]]: 11
@@ -372,8 +372,8 @@ tags: [lookup]
 [[朝 (char)]]: 6
 [[退 (char)]]: 6
 [[疑]]: 6
-[[续]]: 6
-[[續]]: 6
+[续](../../characters/続.md): 6
+[續](../../characters/続.md): 6
 [[送 (char)]]: 6
 [[序]]: 6
 [[私]]: 6
@@ -440,7 +440,7 @@ tags: [lookup]
 [库](../../characters/庫.md): 5
 [[庫]]: 5
 [满](../../characters/満%20(char).md): 5
-[[滿]]: 5
+[滿](../../characters/満%20(char).md): 5
 [[温]]: 5
 [溫](../../characters/温.md): 5
 [[答 (char)]]: 5
@@ -465,7 +465,7 @@ tags: [lookup]
 [[照 (char)]]: 5
 [[促 (char)]]: 5
 [[操]]: 5
-[[还]]: 5
+[还](../../characters/還.md): 5
 [[還]]: 5
 [规](../../characters/規.md): 5
 [[規]]: 5
@@ -522,7 +522,7 @@ tags: [lookup]
 [[樹]]: 5
 [[混]]: 5
 [[象]]: 5
-[[邮]]: 5
+[邮](../../characters/郵.md): 5
 [[郵]]: 5
 [[畜]]: 5
 [[降]]: 5
@@ -533,7 +533,7 @@ tags: [lookup]
 [[医]]: 5
 [醫](../../characters/医.md): 5
 [扩](../../characters/拡.md): 5
-[[擴]]: 5
+[擴](../../characters/拡.md): 5
 [[去 (char)]]: 5
 [[太 (char)]]: 5
 [[婆]]: 5
@@ -559,8 +559,8 @@ tags: [lookup]
 [[千]]: 5
 [签](../../characters/選.md): 5
 [[簽]]: 5
-[[听]]: 5
-[[聽]]: 5
+[听](../../characters/聴%20(char).md): 5
+[聽](../../characters/聴%20(char).md): 5
 [陷](../../characters/陥%20(char).md): 5
 [[透 (char)]]: 5
 [[俗 (char)]]: 5
@@ -612,7 +612,7 @@ tags: [lookup]
 [[誠]]: 4
 [乘](../../characters/乗%20(char).md): 4
 [恶](../../characters/悪%20(char).md): 4
-[[惡]]: 4
+[惡](../../characters/悪%20(char).md): 4
 [[售]]: 4
 [师](../../characters/師.md): 4
 [[師]]: 4
@@ -632,7 +632,7 @@ tags: [lookup]
 [[章 (char)]]: 4
 [荡](../../characters/蕩.md): 4
 [[窃]]: 4
-[[竊]]: 4
+[竊](../../characters/窃.md): 4
 [[的]]: 4
 達 (char): 4
 [[帝]]: 4
@@ -642,7 +642,7 @@ tags: [lookup]
 [[自]]: 4
 [联](../../characters/連%20(char).md): 4
 [聯](../../characters/連%20(char).md): 4
-[[奋]]: 4
+[奋](../../characters/奮.md): 4
 [[奮]]: 4
 [[誓]]: 4
 [[帆 (char)]]: 4
@@ -680,7 +680,7 @@ tags: [lookup]
 [[核 (char)]]: 4
 [[器]]: 4
 [轰](../../characters/軣.md): 4
-[[轟]]: 4
+[轟](../../characters/軣.md): 4
 [毁](../../characters/毀%20(char).md): 4
 [[毀 (char)]]: 4
 [极](../../characters/極%20(char).md): 4
@@ -711,7 +711,7 @@ tags: [lookup]
 [[醒]]: 4
 [[刊 (char)]]: 4
 [[控]]: 4
-[[诉]]: 4
+[诉](../../characters/訴.md): 4
 [[訴]]: 4
 [[妄]]: 4
 [历](../../characters/歴.md): 4
@@ -721,7 +721,7 @@ tags: [lookup]
 [[惑 (char)]]: 4
 [[描]]: 4
 [[誉]]: 4
-[[譽]]: 4
+[譽](../../characters/誉.md): 4
 [[那 (char)]]: 4
 [[造]]: 4
 [[烹]]: 4
@@ -772,8 +772,8 @@ tags: [lookup]
 [笔](../../characters/筆%20(char).md): 3
 [[塞]]: 3
 [[弊 (char)]]: 3
-[[绿]]: 3
-[[綠]]: 3
+[绿](../../characters/緑%20(char).md): 3
+[綠](../../characters/緑%20(char).md): 3
 [[者 (char)]]: 3
 [[鞭]]: 3
 [[贬]]: 3
@@ -830,7 +830,7 @@ tags: [lookup]
 [遞](../../characters/逓.md): 3
 [吹 (char)](../../characters/吹%20(char).md): 3
 [多 (char)](../../characters/多%20(char).md): 3
-[[饭]]: 3
+[饭](../../characters/飯.md): 3
 [[飯]]: 3
 [[徒]]: 3
 [贷](../../characters/貸.md): 3
@@ -860,7 +860,7 @@ tags: [lookup]
 [[敵]]: 3
 [[抵]]: 3
 [颠](../../characters/顚.md): 3
-[[顛]]: 3
+[顛](../../characters/顚.md): 3
 [[燃]]: 3
 [[店]]: 3
 [购](../../characters/購.md): 3
@@ -870,10 +870,10 @@ tags: [lookup]
 [[兜 (char)]]: 3
 [應](../../characters/応%20(char).md): 3
 [[斯]]: 3
-[[烦]]: 3
+[烦](../../characters/煩%20(char).md): 3
 [[煩 (char)]]: 3
-[[恼]]: 3
-[[惱]]: 3
+[恼](../../characters/悩%20(char).md): 3
+[惱](../../characters/悩%20(char).md): 3
 [范](../../characters/範.md): 3
 [[範]]: 3
 [飞](../../characters/飛%20(char).md): 3
@@ -889,8 +889,8 @@ tags: [lookup]
 [[富]]: 3
 [[邪]]: 3
 [[琴 (char)]]: 3
-[[烧]]: 3
-[[燒]]: 3
+[烧](../../characters/焼.md): 3
+[燒](../../characters/焼.md): 3
 [[状]]: 3
 [狀](../../characters/状.md): 3
 [离](../../characters/離.md): 3
@@ -955,7 +955,7 @@ tags: [lookup]
 [融 (char)](characters/融%20(char).md): 3
 [[禁]]: 3
 [[警]]: 3
-[[镜]]: 3
+[镜](../../characters/鏡%20(char).md): 3
 [[鏡 (char)]]: 3
 [[室]]: 3
 [团](../../characters/団.md): 3
@@ -969,7 +969,7 @@ tags: [lookup]
 [[虧]]: 3
 [[困]]: 3
 [赖](../../characters/頼.md): 3
-[[賴]]: 3
+[賴](../../characters/頼.md): 3
 [[漫]]: 3
 [[牢]]: 3
 [辈](../../characters/輩%20(char).md): 3
@@ -981,7 +981,7 @@ tags: [lookup]
 [[零 (char)]]: 3
 露: 3
 [录](../../characters/録.md): 3
-[[錄]]: 3
+[錄](../../characters/録.md): 3
 [[七 (char)]]: 3
 [[八 (char)]]: 3
 [[茫]]: 3
@@ -1025,11 +1025,11 @@ tags: [lookup]
 [搜](../../characters/捜.md): 3
 [污](../../characters/汚%20(char).md): 3
 [[逃]]: 3
-[[淘]]: 3
+[淘](../../characters/陶.md): 3
 [[久 (char)]]: 3
 [[王 (char)]]: 3
 [[棋]]: 3
-[[惟]]: 3
+[惟](../../characters/唯%20(char).md): 3
 [[熄]]: 3
 [习](../../characters/習.md): 3
 [[習]]: 3
@@ -1062,7 +1062,7 @@ tags: [lookup]
 [[../../characters/占 (char)]]: 2
 [佔](../../characters/卜.md): 2
 [齐](../../characters/斉.md): 2
-[[齊]]: 2
+[齊](../../characters/斉.md): 2
 [鸣](../../characters/鳴%20(char).md): 2
 [[鳴 (char)]]: 2
 [败](../../characters/敗.md): 2
@@ -1077,7 +1077,7 @@ tags: [lookup]
 [饱](../../characters/飽%20(char).md): 2
 [姆](../../characters/母.md): 2
 [[../../characters/堡]]: 2
-[[垒]]: 2
+[垒](../../characters/塁.md): 2
 [壘](../../characters/塁.md): 2
 [负](../../characters/負%20(char).md): 2
 [怨](../../characters/怨.md): 2
@@ -1127,19 +1127,19 @@ tags: [lookup]
 [[闡]]: 2
 [[狂]]: 2
 [[征]]: 2
-[[尝]]: 2
+[尝](../../characters/嘗.md): 2
 [[嘗]]: 2
 [[蓬]]: 2
 [[勃]]: 2
 [[淀]]: 2
-[[澱]]: 2
+[澱](../../characters/淀.md): 2
 [[痛]]: 2
 [[旧 (char)]]: 2
 [舊](../../characters/旧%20(char).md): 2
 [[城]]: 2
 [[塘]]: 2
-[[迟]]: 2
-[[遲]]: 2
+[迟](../../characters/遅%20(char).md): 2
+[遲](../../characters/遅%20(char).md): 2
 [[衝 (char)]]: 2
 [[崇]]: 2
 [[躇]]: 2
@@ -1159,7 +1159,7 @@ tags: [lookup]
 [[湊]]: 2
 [粮](../../characters/糧%20(char).md): 2
 [[糧 (char)]]: 2
-[[摧]]: 2
+[摧](../../characters/催%20(char).md): 2
 [[脆]]: 2
 [[翠]]: 2
 [[石 (char)]]: 2
@@ -1232,7 +1232,7 @@ tags: [lookup]
 [[慨 (char)]]: 2
 [纲](../../characters/綱.md): 2
 [[綱]]: 2
-[[钢]]: 2
+[钢](../../characters/鋼.md): 2
 [[鋼]]: 2
 [涨](../../characters/張.md): 2
 [漲](../../characters/張.md): 2
@@ -1240,7 +1240,7 @@ tags: [lookup]
 [纸](../../characters/紙%20(char).md): 2
 [[紙 (char)]]: 2
 [[踪]]: 2
-[[蹤]]: 2
+[蹤](../../characters/踪.md): 2
 [阶](../../characters/階.md): 2
 [[階]]: 2
 [读](../../characters/読.md): 2
@@ -1296,7 +1296,7 @@ tags: [lookup]
 [[霍]]: 2
 [[晤]]: 2
 [绘](../../characters/絵.md): 2
-[[繪]]: 2
+[繪](../../characters/絵.md): 2
 [贿](../../characters/賄.md): 2
 [[賄]]: 2
 [[是 (char)]]: 2
@@ -1316,7 +1316,7 @@ tags: [lookup]
 [[梁 (char)]]: 2
 [较](../../characters/較.md): 2
 [[較]]: 2
-[[忆]]: 2
+[忆](../../characters/憶.md): 2
 [[憶]]: 2
 [[寂]]: 2
 [[嘉]]: 2
@@ -1365,14 +1365,14 @@ tags: [lookup]
 [[療]]: 2
 [邻](../../characters/隣%20(char).md): 2
 [鄰](../../characters/隣%20(char).md): 2
-[[岭]]: 2
+[岭](../../characters/嶺.md): 2
 [[嶺]]: 2
 [[玲]]: 2
 [龙](../../characters/龍%20(char).md): 2
 [[龍 (char)]]: 2
 [[漏 (char)]]: 2
 [[糟]]: 2
-[[罗]]: 2
+[罗](../../characters/羅.md): 2
 [[羅]]: 2
 [[筐 (char)]]: 2
 [[螺]]: 2
@@ -1383,7 +1383,7 @@ tags: [lookup]
 [[穿 (char)]]: 2
 [門](../../characters/門.md): 2
 [[弥 (char)]]: 2
-[[彌]]: 2
+[彌](../../characters/弥%20(char).md): 2
 [[勉 (char)]]: 2
 [众](../../characters/衆.md): 2
 [眾](../../characters/衆.md): 2
@@ -1396,7 +1396,7 @@ tags: [lookup]
 [拟](../../characters/擬%20(char).md): 2
 [[擬 (char)]]: 2
 [酿](../../characters/醸.md): 2
-[[釀]]: 2
+[釀](../../characters/醸.md): 2
 [[肯 (char)]]: 2
 [[願]]: 2
 [[檬]]: 2
@@ -1420,7 +1420,7 @@ tags: [lookup]
 [谱](../../characters/譜.md): 2
 [[譜]]: 2
 [[凄]]: 2
-[[淒]]: 2
+[淒](../../characters/凄.md): 2
 [[漆 (char)]]: 2
 [岂](../../characters/豈.md): 2
 [[豈]]: 2
@@ -1430,13 +1430,13 @@ tags: [lookup]
 [[扯]]: 2
 [[署]]: 2
 [[潜]]: 2
-[[潛]]: 2
+[潛](../../characters/潜.md): 2
 [[抢]]: 2
 [[搶]]: 2
 [[胞]]: 2
 [[佩]]: 2
 [俭](../../characters/倹.md): 2
-[[儉]]: 2
+[儉](../../characters/倹.md): 2
 [倾](../../characters/傾.md): 2
 [[傾]]: 2
 [[斜]]: 2
@@ -1458,7 +1458,7 @@ tags: [lookup]
 [[謊]]: 2
 [[桑]]: 2
 [[刹]]: 2
-[[剎]]: 2
+[剎](../../characters/刹.md): 2
 [[筛]]: 2
 [[篩]]: 2
 [[痕]]: 2
@@ -1466,7 +1466,7 @@ tags: [lookup]
 [渗](../../characters/滲.md): 2
 [[滲]]: 2
 [[牲]]: 2
-[[尸]]: 2
+[尸](../../characters/死.md): 2
 [[髦]]: 2
 [[史]]: 2
 [项](../../characters/項%20(char).md): 2
@@ -1503,12 +1503,12 @@ tags: [lookup]
 [[偽 (char)]]: 2
 [窝](../../characters/窩.md): 2
 [[窩]]: 2
-[[囊]]: 2
+[囊](../../characters/嚢.md): 2
 [乌](../../characters/烏.md): 2
-[[鸦]]: 2
+[鸦](../../characters/烏.md): 2
 [[烏]]: 2
-[[鴉]]: 2
-[[云]]: 2
+[鴉](../../characters/烏.md): 2
+[云](../../characters/雲%20(char).md): 2
 [[雲 (char)]]: 2
 [[咽]]: 2
 [耻](../../characters/恥.md): 2
@@ -1518,7 +1518,7 @@ tags: [lookup]
 [[洗 (char)]]: 2
 [[狭]]: 2
 [[隘]]: 2
-[[狹]]: 2
+[狹](../../characters/狭.md): 2
 [[窄]]: 2
 [[衔]]: 2
 [[銜]]: 2
@@ -1528,7 +1528,7 @@ tags: [lookup]
 [园](../../characters/園.md): 2
 [[園]]: 2
 [[洩]]: 2
-[[谢]]: 2
+[谢](../../characters/謝.md): 2
 [[謝]]: 2
 [[旺]]: 2
 [[凶 (char)]]: 2
@@ -1581,8 +1581,8 @@ tags: [lookup]
 [[棒]]: 1
 [[裹]]: 1
 [雹](../../characters/包.md): 1
-[[剑]]: 1
-[[劍]]: 1
+[剑](../../characters/剣%20(char).md): 1
+[劍](../../characters/剣%20(char).md): 1
 [[骤]]: 1
 [[驟]]: 1
 [[竹 (char)]]: 1
@@ -1610,7 +1610,7 @@ tags: [lookup]
 [[淋 (char)]]: 1
 [[秉]]: 1
 [[涛]]: 1
-[[濤]]: 1
+[濤](../../characters/涛.md): 1
 [览](../../characters/覧.md): 1
 [覽](../../characters/覧.md): 1
 [[薄]]: 1
@@ -1642,9 +1642,9 @@ tags: [lookup]
 [[纏]]: 1
 [缠](../../characters/纏.md): 1
 [[蝉 (char)]]: 1
-[[蟬]]: 1
+[蟬](../../characters/蝉%20(char).md): 1
 [颤](../../characters/振%20(char).md): 1
-[[顫]]: 1
+[顫](../../characters/振%20(char).md): 1
 [[昌]]: 1
 [[猖]]: 1
 [[寿]]: 1
@@ -1666,7 +1666,7 @@ tags: [lookup]
 [[屉]]: 1
 [[屜]]: 1
 [绸](../../characters/紬.md): 1
-[[綢]]: 1
+[綢](../../characters/紬.md): 1
 [[稠]]: 1
 [[踌]]: 1
 [[躊]]: 1
@@ -1675,15 +1675,15 @@ tags: [lookup]
 [[厨]]: 1
 [廚](../../characters/厨.md): 1
 [[鋤]]: 1
-[[锄]]: 1
+[锄](../../characters/鋤.md): 1
 [[川 (char)]]: 1
 [[舶]]: 1
 [[只 (char)]]: 1
-[[隻]]: 1
-[[疮]]: 1
+[隻](../../characters/只%20(char).md): 1
+[疮](../../characters/瘡.md): 1
 [[瘡]]: 1
 [铺](../../characters/舗%20(char).md): 1
-[[鋪]]: 1
+[鋪](../../characters/舗%20(char).md): 1
 [[牛 (char)]]: 1
 [[捧 (char)]]: 1
 [[捶]]: 1
@@ -1695,19 +1695,19 @@ tags: [lookup]
 [[蠢]]: 1
 [[雌]]: 1
 [[葱]]: 1
-[[蔥]]: 1
+[蔥](../../characters/葱.md): 1
 [鲁](../../characters/魯.md): 1
 [[魯]]: 1
 [[磋]]: 1
 [[搭]]: 1
 [猎](../../characters/獵%20(char).md): 1
 [[獵 (char)]]: 1
-[[揽]]: 1
+[揽](../../characters/攬.md): 1
 [[攬]]: 1
 [[臣]]: 1
 [锅](../../characters/鍋%20(char).md): 1
 [[鍋 (char)]]: 1
-[[拇]]: 1
+[拇](../../characters/母.md): 1
 [[雁 (char)]]: 1
 [[歹]]: 1
 [[丹]]: 1
@@ -1734,15 +1734,15 @@ tags: [lookup]
 [[叼]]: 1
 [[碟]]: 1
 [[嘱]]: 1
-[[囑]]: 1
+[囑](../../characters/嘱.md): 1
 [[董]]: 1
-[[盪]]: 1
+[盪](../../characters/蕩.md): 1
 [冻](../../characters/凍.md): 1
 [[凍]]: 1
 [栋](../../characters/棟.md): 1
 [[棟]]: 1
 [[堵]]: 1
-[[镀]]: 1
+[镀](../../characters/鍍.md): 1
 [[鍍]]: 1
 [暂](../../characters/暫.md): 1
 [[暫]]: 1
@@ -1752,20 +1752,20 @@ tags: [lookup]
 [[兌]]: 1
 [奪](../../characters/奪.md): 1
 [[堕]]: 1
-[[墮]]: 1
+[墮](../../characters/堕.md): 1
 [[跺]]: 1
-[[讹]]: 1
+[讹](../../characters/訛.md): 1
 [[訛]]: 1
 [[蛾 (char)]]: 1
 [[鄂]]: 1
 [[碳]]: 1
-[[贰]]: 1
+[贰](../../characters/貳%20(char).md): 1
 [[貳 (char)]]: 1
 [[庭]]: 1
 [[馈]]: 1
 [[饋]]: 1
 [浑](../../characters/混.md): 1
-[[渾]]: 1
+[渾](../../characters/混.md): 1
 [[泛]]: 1
 [[畴]]: 1
 [[疇]]: 1
@@ -1787,16 +1787,16 @@ tags: [lookup]
 [坟](../../characters/墳.md): 1
 [[墳]]: 1
 [[末]]: 1
-[[丰]]: 1
-[[豐]]: 1
-[[筝]]: 1
+[丰](../../characters/豊.md): 1
+[豐](../../characters/豊.md): 1
+[筝](../../characters/箏.md): 1
 [[箏]]: 1
 [疯](../../characters/瘋.md): 1
 [[瘋]]: 1
 [[蜜]]: 1
 [缝](../../characters/縫.md): 1
 [[縫]]: 1
-[[凤]]: 1
+[凤](../../characters/鳳.md): 1
 [[鳳]]: 1
 [[敷 (char)]]: 1
 [衍](../../characters/延.md): 1
@@ -1804,7 +1804,7 @@ tags: [lookup]
 [[虜]]: 1
 [[幅]]: 1
 [辐](../../characters/放.md): 1
-[[輻]]: 1
+[輻](../../characters/放.md): 1
 [[斧]]: 1
 [辅](../../characters/輔.md): 1
 [[輔]]: 1
@@ -1825,12 +1825,12 @@ tags: [lookup]
 [[染]]: 1
 [[杠]]: 1
 [[槓]]: 1
-[[桿]]: 1
+[桿](../../characters/杆%20(char).md): 1
 [诫](../../characters/戒.md): 1
-[[誡]]: 1
+[誡](../../characters/戒.md): 1
 [[疙]]: 1
 [[瘩]]: 1
-[[咏]]: 1
+[咏](../../characters/詠%20(char).md): 1
 [[詠 (char)]]: 1
 [[蒂]]: 1
 [梗](../../characters/梗.md): 1
@@ -1855,24 +1855,24 @@ tags: [lookup]
 [辖](../../characters/轄%20(char).md): 1
 [[轄 (char)]]: 1
 [[芒]]: 1
-[[龟]]: 1
-[[龜]]: 1
-[[闺]]: 1
+[龟](../../characters/亀%20(char).md): 1
+[龜](../../characters/亀%20(char).md): 1
+[闺](../../characters/閨.md): 1
 [[閨]]: 1
 [[硅]]: 1
-[[矽]]: 1
+[矽](../../characters/硅.md): 1
 [[桂]]: 1
 [[冠]]: 1
 [[滤]]: 1
 [[濾]]: 1
 [滨](../../characters/浜%20(char).md): 1
-[[濱]]: 1
+[濱](../../characters/浜%20(char).md): 1
 [[港]]: 1
 [[函]]: 1
 [[暄]]: 1
 [[禾 (char)]]: 1
 [[苗]]: 1
-[[併]]: 1
+[併](../../characters/並%20(char).md): 1
 [[乎 (char)]]: 1
 [[夥]]: 1
 [[蔼]]: 1
@@ -1882,18 +1882,18 @@ tags: [lookup]
 [[諧]]: 1
 [[荷]]: 1
 [[恒]]: 1
-[[恆]]: 1
+[恆](../../characters/恒.md): 1
 [[烘]]: 1
 [[虹]]: 1
 [啸](../../characters/粛.md): 1
-[[嘯]]: 1
+[嘯](../../characters/粛.md): 1
 [[吁]]: 1
 [[籲]]: 1
 [[忽]]: 1
 [[狐]]: 1
 [[狸 (char)]]: 1
 [[芦]]: 1
-[[蘆]]: 1
+[蘆](../../characters/芦.md): 1
 [[糊]]: 1
 [[互]]: 1
 [纹](../../characters/紋%20(char).md): 1
@@ -1901,7 +1901,7 @@ tags: [lookup]
 [纤](../../characters/繊.md): 1
 [纖](../../characters/繊.md): 1
 [妆](../../characters/粧.md): 1
-[[妝]]: 1
+[妝](../../characters/粧.md): 1
 [欢](../../characters/歓.md): 1
 [歡](../../characters/歓.md): 1
 [环](../../characters/環%20(char).md): 1
@@ -1911,7 +1911,7 @@ tags: [lookup]
 [[晃]]: 1
 [挥](../../characters/揮.md): 1
 [[揮]]: 1
-[[迴]]: 1
+[迴](../../characters/回%20(char).md): 1
 [赂](../../characters/賂.md): 1
 [[賂]]: 1
 [浊](../../characters/濁.md): 1
@@ -1932,8 +1932,8 @@ tags: [lookup]
 [雜](../../characters/雑%20(char).md): 1
 [晓](../../characters/暁.md): 1
 [曉](../../characters/暁.md): 1
-[[颊]]: 1
-[[頰]]: 1
+[颊](../../characters/頬%20(char).md): 1
+[頰](../../characters/頬%20(char).md): 1
 [[甲 (char)]]: 1
 [[板]]: 1
 [[駕]]: 1
@@ -1941,7 +1941,7 @@ tags: [lookup]
 [[尖]]: 1
 [[韧]]: 1
 [[韌]]: 1
-[[贞]]: 1
+[贞](../../characters/貞.md): 1
 [[貞]]: 1
 [[肩 (char)]]: 1
 [艰](../../characters/艱.md): 1
@@ -1950,9 +1950,9 @@ tags: [lookup]
 [监](../../characters/監.md): 1
 [[監]]: 1
 [[繭 (char)]]: 1
-[[茧]]: 1
+[茧](../../characters/繭%20(char).md): 1
 [[践]]: 1
-[[踐]]: 1
+[踐](../../characters/践.md): 1
 [键](../../characters/鍵%20(char).md): 1
 [[鍵 (char)]]: 1
 [[姜 (char)]]: 1
@@ -1961,7 +1961,7 @@ tags: [lookup]
 [[浇]]: 1
 [[澆]]: 1
 [[絞]]: 1
-[[绞]]: 1
+[绞](../../characters/絞.md): 1
 [搅](../../characters/撹.md): 1
 [攪](../../characters/撹.md): 1
 [[喊]]: 1
@@ -1983,12 +1983,12 @@ tags: [lookup]
 [尽](../../characters/尽.md): 1
 [盡](../../characters/尽.md): 1
 [[晋]]: 1
-[[晉]]: 1
+[晉](../../characters/晋.md): 1
 [[茎 (char)]]: 1
-[[莖]]: 1
+[莖](../../characters/茎%20(char).md): 1
 [惊](../../characters/驚.md): 1
 [[驚]]: 1
-[[頸]]: 1
+[頸](../../characters/頚%20(char).md): 1
 [颈](../../characters/頚%20(char).md): 1
 [竞](../../characters/競.md): 1
 [[競]]: 1
@@ -1997,8 +1997,8 @@ tags: [lookup]
 [[糾 (char)]]: 1
 [[紛 (char)]]: 1
 [[玖]]: 1
-[[济]]: 1
-[[濟]]: 1
+[济](../../characters/済%20(char).md): 1
+[濟](../../characters/済%20(char).md): 1
 [[鞠]]: 1
 [[躬]]: 1
 [[菊 (char)]]: 1
@@ -2008,19 +2008,19 @@ tags: [lookup]
 [[矚]]: 1
 [[拒]]: 1
 [[鋸 (char)]]: 1
-[[锯]]: 1
+[锯](../../characters/鋸%20(char).md): 1
 [赠](../../characters/贈.md): 1
 [[贈]]: 1
 [缘](../../characters/縁.md): 1
 [緣](../../characters/縁.md): 1
 [嚼](../../characters/爵.md): 1
-[[阀]]: 1
+[阀](../../characters/閥.md): 1
 [[閥]]: 1
 [[君 (char)]]: 1
 [[菌]]: 1
-[[垦]]: 1
+[垦](../../characters/墾.md): 1
 [[墾]]: 1
-[[凯]]: 1
+[凯](../../characters/凱.md): 1
 [[凱]]: 1
 [[勘 (char)]]: 1
 [[慷]]: 1
@@ -2045,7 +2045,7 @@ tags: [lookup]
 [[速 (char)]]: 1
 [[框]]: 1
 [[葵]]: 1
-[[腊]]: 1
+[腊](../../characters/臘.md): 1
 [[characters/臘]]: 1
 [栏](../../characters/欄.md): 1
 [[欄]]: 1
@@ -2066,15 +2066,15 @@ tags: [lookup]
 [[睬]]: 1
 [桥](../../characters/橋%20(char).md): 1
 [[橋 (char)]]: 1
-[[沥]]: 1
-[[瀝]]: 1
+[沥](../../characters/歴.md): 1
+[瀝](../../characters/歴.md): 1
 [[荔]]: 1
 [[枝]]: 1
 [[栗 (char)]]: 1
-[[绵]]: 1
+[绵](../../characters/綿.md): 1
 [[綿]]: 1
 [帘](../../characters/簾.md): 1
-[[莲]]: 1
+[莲](../../characters/蓮%20(char).md): 1
 [[蓮 (char)]]: 1
 [洁](../../characters/潔.md): 1
 [[潔]]: 1
@@ -2086,11 +2086,11 @@ tags: [lookup]
 [[晾]]: 1
 [辽](../../characters/遼.md): 1
 [[遼]]: 1
-[[磷]]: 1
+[磷](../../characters/燐.md): 1
 [[伶]]: 1
 [[俐]]: 1
-[[珑]]: 1
-[[瓏]]: 1
+[珑](../../characters/龍%20(char).md): 1
+[瓏](../../characters/龍%20(char).md): 1
 [[凌]]: 1
 [[晨]]: 1
 [[寇]]: 1
@@ -2117,13 +2117,13 @@ tags: [lookup]
 [铃](../../characters/鈴%20(char).md): 1
 [[鈴 (char)]]: 1
 [[蚂]]: 1
-[[蚁]]: 1
+[蚁](../../characters/蛾%20(char).md): 1
 [[螞]]: 1
-[[蟻]]: 1
+[蟻](../../characters/蛾%20(char).md): 1
 [[蔓]]: 1
 [[碌]]: 1
 [辙](../../characters/綴%20(char).md): 1
-[[轍]]: 1
+[轍](../../characters/綴%20(char).md): 1
 [[枚 (char)]]: 1
 [[玫]]: 1
 [[瑰]]: 1
@@ -2136,7 +2136,7 @@ tags: [lookup]
 [[萌]]: 1
 [[芽]]: 1
 [棉](../../characters/綿.md): 1
-[[麵]]: 1
+[麵](../../characters/麺%20(char).md): 1
 [俱](../../characters/倶%20(char).md): 1
 [[渺]]: 1
 [[摸]]: 1
@@ -2148,7 +2148,7 @@ tags: [lookup]
 [[匠]]: 1
 [[睹]]: 1
 [[穆]]: 1
-[[阁]]: 1
+[阁](../../characters/閣.md): 1
 [[閣]]: 1
 [脏](../../characters/臓.md): 1
 [臟](../../characters/臓.md): 1
@@ -2162,7 +2162,7 @@ tags: [lookup]
 [[攆]]: 1
 [[尿 (char)]]: 1
 [[捏]]: 1
-[[柠]]: 1
+[柠](../../characters/檸.md): 1
 [[檸]]: 1
 [纽](../../characters/紐.md): 1
 [[紐]]: 1
@@ -2171,8 +2171,8 @@ tags: [lookup]
 [[吼 (char)]]: 1
 [挪](../../characters/梛.md): 1
 [[殴]]: 1
-[[毆]]: 1
-[[嘔]]: 1
+[毆](../../characters/殴.md): 1
+[嘔](../../characters/呕.md): 1
 [[呕]]: 1
 [[拍 (char)]]: 1
 [[徘]]: 1
@@ -2212,7 +2212,7 @@ tags: [lookup]
 [颇](../../characters/頗%20(char).md): 1
 [[頗 (char)]]: 1
 [[裂]]: 1
-[[仆]]: 1
+[仆](../../characters/僕.md): 1
 [[僕]]: 1
 [[葡]]: 1
 [[萄]]: 1
@@ -2221,10 +2221,10 @@ tags: [lookup]
 [[瀑]]: 1
 [[舌 (char)]]: 1
 [[沏]]: 1
-[[柒]]: 1
+[柒](../../characters/七%20(char).md): 1
 [[乞 (char)]]: 1
-[[鬨]]: 1
-[[码]]: 1
+[鬨](../../characters/哄.md): 1
+[码](../../characters/碼%20(char).md): 1
 [[碼 (char)]]: 1
 [[汽]]: 1
 [[砌]]: 1
@@ -2234,7 +2234,7 @@ tags: [lookup]
 [逊](../../characters/遜.md): 1
 [[謙]]: 1
 [[遜]]: 1
-[[钳]]: 1
+[钳](../../characters/鉗%20(char).md): 1
 [[鉗 (char)]]: 1
 [[谴]]: 1
 [责](../../characters/責.md): 1
@@ -2243,9 +2243,9 @@ tags: [lookup]
 [[嵌]]: 1
 [[毙]]: 1
 [[斃]]: 1
-[[锹]]: 1
+[锹](../../characters/鍬%20(char).md): 1
 [[鍬 (char)]]: 1
-[[乔]]: 1
+[乔](../../characters/喬.md): 1
 [[喬]]: 1
 [侨](../../characters/僑.md): 1
 [[僑]]: 1
@@ -2262,13 +2262,13 @@ tags: [lookup]
 [[晴]]: 1
 [[秋 (char)]]: 1
 [驱](../../characters/駆%20(char).md): 1
-[[驅]]: 1
+[驅](../../characters/駆%20(char).md): 1
 [[犬 (char)]]: 1
 [[瘸]]: 1
 [[凿]]: 1
 [[鑿]]: 1
-[[让]]: 1
-[[讓]]: 1
+[让](../../characters/譲%20(char).md): 1
+[讓](../../characters/譲%20(char).md): 1
 [扰](../../characters/擾.md): 1
 [[擾]]: 1
 [泪](../../characters/涙%20(char).md): 1
@@ -2277,7 +2277,7 @@ tags: [lookup]
 [[仁]]: 1
 [[絨]]: 1
 [绒](../../characters/絨.md): 1
-[[熔]]: 1
+[熔](../../characters/溶.md): 1
 [[痴]]: 1
 [[乳]]: 1
 [软](../../characters/軟.md): 1
@@ -2286,21 +2286,21 @@ tags: [lookup]
 [[腮]]: 1
 [[五 (char)]]: 1
 [[角 (char)]]: 1
-[[叁]]: 1
+[叁](../../characters/参.md): 1
 [扫](../../characters/掃.md): 1
 [[掃]]: 1
 [滩](../../characters/灘%20(char).md): 1
 [[灘 (char)]]: 1
-[[砂]]: 1
+[砂](../../characters/沙%20(char).md): 1
 [[傻]]: 1
-[[冈]]: 1
+[冈](../../characters/岡.md): 1
 [[岡]]: 1
 [[脚 (char)]]: 1
 [腳](../../characters/脚%20(char).md): 1
 [[腰]]: 1
 [[珊]]: 1
 [[瑚]]: 1
-[[陕]]: 1
+[陕](../../characters/陝.md): 1
 [[陝]]: 1
 [[榷]]: 1
 [[晌]]: 1
@@ -2311,7 +2311,7 @@ tags: [lookup]
 [[餅 (char)]]: 1
 [[哨]]: 1
 [[奢]]: 1
-[[侈]]: 1
+[侈](../../characters/済%20(char).md): 1
 [舍](../../characters/舎.md): 1
 [摄](../../characters/摂%20(char).md): 1
 [攝](../../characters/摂%20(char).md): 1
@@ -2328,7 +2328,7 @@ tags: [lookup]
 [湿 (char)](../../characters/湿%20(char).md): 1
 [灰 (char)](../../characters/灰%20(char).md): 1
 [[拾]]: 1
-[[慾]]: 1
+[慾](../../characters/欲.md): 1
 [[始]]: 1
 [[屎 (char)]]: 1
 [[侍]]: 1
@@ -2343,7 +2343,7 @@ tags: [lookup]
 [舒](../../characters/抒.md): 1
 [竖](../../characters/豎.md): 1
 [[豎]]: 1
-[[帅]]: 1
+[帅](../../characters/帥.md): 1
 [[帥]]: 1
 [[爽]]: 1
 [绪](../../characters/緒.md): 1
@@ -2365,11 +2365,11 @@ tags: [lookup]
 [岁](../../characters/歳.md): 1
 [歲](../../characters/歳.md): 1
 [隧](../../characters/遂.md): 1
-[[穗]]: 1
-[[笋]]: 1
+[穗](../../characters/穂%20(char).md): 1
+[笋](../../characters/筍.md): 1
 [[筍]]: 1
 [[他 (char)]]: 1
-[[颱]]: 1
+[颱](../../characters/台%20(char).md): 1
 [[泰]]: 1
 [[瘫]]: 1
 [[痪]]: 1
@@ -2378,7 +2378,7 @@ tags: [lookup]
 [坛](../../characters/壇%20(char).md): 1
 [[壇 (char)]]: 1
 [[痰 (char)]]: 1
-[[潭]]: 1
+[潭](../../characters/湛.md): 1
 [叹](../../characters/嘆%20(char).md): 1
 [[嘆 (char)]]: 1
 [[陶]]: 1
@@ -2392,12 +2392,12 @@ tags: [lookup]
 [[衅]]: 1
 [[釁]]: 1
 [剂](../../characters/剤.md): 1
-[[劑]]: 1
+[劑](../../characters/剤.md): 1
 [[泊]]: 1
 [顿](../../characters/頓.md): 1
 [[頓]]: 1
 [[滞]]: 1
-[[滯]]: 1
+[滯](../../characters/滞.md): 1
 [[艇 (char)]]: 1
 [胀](../../characters/脹.md): 1
 [[脹]]: 1
@@ -2415,13 +2415,13 @@ tags: [lookup]
 [[脱 (char)]]: 1
 [脫](../../characters/脱%20(char).md): 1
 [椭](../../characters/楕.md): 1
-[[橢]]: 1
+[橢](../../characters/楕.md): 1
 [[唾]]: 1
 [[挖]]: 1
 [宾](../../characters/賓.md): 1
 [[賓]]: 1
 [[湾]]: 1
-[[灣]]: 1
+[灣](../../characters/湾.md): 1
 [[豌]]: 1
 [毕](../../characters/畢.md): 1
 [[畢]]: 1
@@ -2438,20 +2438,20 @@ tags: [lookup]
 [[雅]]: 1
 [卧](../../characters/臥%20(char).md): 1
 [[臥 (char)]]: 1
-[[呜]]: 1
+[呜](../../characters/嗚.md): 1
 [[嗚]]: 1
 [[巫]]: 1
 [诬](../../characters/誣.md): 1
 [[誣]]: 1
-[[梧]]: 1
+[梧](../../characters/吾.md): 1
 [[桐]]: 1
 [[伍 (char)]]: 1
 [[勿 (char)]]: 1
 [[悟]]: 1
 [[吸 (char)]]: 1
 [溪](../../characters/渓.md): 1
-[[涤]]: 1
-[[滌]]: 1
+[涤](../../characters/浄.md): 1
+[滌](../../characters/浄.md): 1
 [[鹊]]: 1
 [[鵲]]: 1
 [[峡]]: 1
@@ -2469,14 +2469,14 @@ tags: [lookup]
 [[香]]: 1
 [[镶]]: 1
 [[鑲]]: 1
-[[鍊]]: 1
+[鍊](../../characters/錬.md): 1
 [[消 (char)]]: 1
 [[肖]]: 1
 [[徽]]: 1
 [[挟 (char)]]: 1
-[[挾]]: 1
+[挾](../../characters/挟%20(char).md): 1
 [[携]]: 1
-[[攜]]: 1
+[攜](../../characters/携.md): 1
 [[泻]]: 1
 [[瀉]]: 1
 [[屑 (char)]]: 1
@@ -2487,7 +2487,7 @@ tags: [lookup]
 [[郎]]: 1
 [[娘 (char)]]: 1
 [颖](../../characters/頴.md): 1
-[[穎]]: 1
+[穎](../../characters/頴.md): 1
 [[薪]]: 1
 [[仰]]: 1
 [[腥]]: 1
@@ -2510,7 +2510,7 @@ tags: [lookup]
 [熏](../../characters/薫%20(char).md): 1
 [逻](../../characters/邏.md): 1
 [[邏]]: 1
-[[韵]]: 1
+[韵](../../characters/韻.md): 1
 [[韻]]: 1
 [[崖 (char)]]: 1
 [啞](../../characters/唖.md): 1
@@ -2519,10 +2519,10 @@ tags: [lookup]
 [[飾]]: 1
 [[唱]]: 1
 [[証]]: 1
-[[杨]]: 1
+[杨](../../characters/楊.md): 1
 [[楊]]: 1
 [痒](../../characters/瘍.md): 1
-[[癢]]: 1
+[癢](../../characters/瘍.md): 1
 [[妖]]: 1
 [[邀]]: 1
 [[遥]]: 1
@@ -2530,31 +2530,31 @@ tags: [lookup]
 [[么]]: 1
 [[麼]]: 1
 [[蛮]]: 1
-[[蠻]]: 1
+[蠻](../../characters/蛮.md): 1
 [[液]]: 1
 [[旦]]: 1
 [[乾 (char)]]: 1
 [[衣]]: 1
 [[裳]]: 1
-[[壹]]: 1
+[壹](../../characters/壱%20(char).md): 1
 [[移]]: 1
 [亿](../../characters/億.md): 1
 [[亦 (char)]]: 1
-[[译]]: 1
-[[譯]]: 1
+[译](../../characters/訳.md): 1
+[譯](../../characters/訳.md): 1
 [[毅]]: 1
 [[因]]: 1
 [阴](../../characters/陰%20(char).md): 1
 [[陰 (char)]]: 1
-[[秽]]: 1
+[秽](../../characters/穢.md): 1
 [穢](../../characters/穢.md): 1
 [[注]]: 1
 [瞒](../../characters/𥈞.md): 1
 [瞞](../../characters/𥈞.md): 1
 [[英]]: 1
-[[樱]]: 1
-[[櫻]]: 1
-[[鹰]]: 1
+[樱](../../characters/桜%20(char).md): 1
+[櫻](../../characters/桜%20(char).md): 1
+[鹰](../../characters/鷹%20(char).md): 1
 [[鷹 (char)]]: 1
 [[迎]]: 1
 [蝇](../../characters/蝿.md): 1
@@ -2567,7 +2567,7 @@ tags: [lookup]
 [[垂]]: 1
 [[湧 (char)]]: 1
 [[郁]]: 1
-[[鬱]]: 1
+[鬱](../../characters/欝.md): 1
 [犹](../../characters/猶%20(char).md): 1
 [[猶 (char)]]: 1
 [[铀]]: 1

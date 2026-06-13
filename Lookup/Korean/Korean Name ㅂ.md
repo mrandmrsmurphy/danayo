@@ -49,7 +49,7 @@ These have all been checked for redirects.
  [[../../characters/堡]] [甫](characters/甫.md) [輔](characters/輔.md) [菩](characters/菩.md) [[潽]] [[洑]] [[湺]] [褓](characters/保.md) [[俌]] [[𤣰]] 
 
 ### 복 
- [[馥]] [[鍑]] [僕](characters/僕.md) [[匐]] [[宓]] [[茯]] [蔔](characters/蔔.md) [[輹]] [[輻]] [鰒](characters/腹%20(char).md)
+ [[馥]] [[鍑]] [僕](characters/僕.md) [[匐]] [[宓]] [[茯]] [蔔](characters/蔔.md) [[輹]] [輻](../../characters/放.md) [鰒](characters/腹%20(char).md)
 
 ### 볼 
  乶!

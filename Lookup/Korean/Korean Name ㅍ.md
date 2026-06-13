@@ -33,10 +33,10 @@ Redirected checked for
 [陛](characters/陛.md) [[../../characters/吠]] [[嬖]] [[斃]] 
 
 ### 포 
-[葡](characters/葡.md) [褒 (char)](characters/褒%20(char).md) [砲](characters/砲.md) [[鋪]] [佈](../../characters/布.md) [匍](characters/爬.md) [[匏]] [[咆]] [哺](characters/哺.md) [圃](characters/圃.md) [怖](characters/怖.md) [暴 (char)](characters/暴%20(char).md) [泡](characters/泡.md) [疱](characters/疱.md) [[脯]] [[苞]] [蒲](characters/蒲.md) [[袍]] [[逋]] [鮑 (char)](characters/鮑%20(char).md) [拋](characters/抛.md)
+[葡](characters/葡.md) [褒 (char)](characters/褒%20(char).md) [砲](characters/砲.md) [鋪](../../characters/舗%20(char).md) [佈](../../characters/布.md) [匍](characters/爬.md) [[匏]] [[咆]] [哺](characters/哺.md) [圃](characters/圃.md) [怖](characters/怖.md) [暴 (char)](characters/暴%20(char).md) [泡](characters/泡.md) [疱](characters/疱.md) [[脯]] [[苞]] [蒲](characters/蒲.md) [[袍]] [[逋]] [鮑 (char)](characters/鮑%20(char).md) [拋](characters/抛.md)
 
 ### 폭 
-[曝](../../characters/暴%20(char).md) [瀑](characters/瀑.md) [[輻]] 
+[曝](../../characters/暴%20(char).md) [瀑](characters/瀑.md) [輻](../../characters/放.md) 
 
 ### 표 
 [[杓]] [豹](characters/豹.md) [彪](characters/彪.md) [[驃]] [俵](characters/俵.md) [[剽]] [慓](characters/票%20(char).md) [瓢](characters/瓢.md) [[飄]] [[飆]] 
@@ -45,7 +45,7 @@ Redirected checked for
 [稟](characters/稟.md)
 
 ### 풍 
-[[諷]] [馮](characters/馮.md) [楓](characters/楓.md)
+[諷](../../characters/風%20(char).md) [馮](characters/馮.md) [楓](characters/楓.md)
 
 ### 피 
 [披 (char)](characters/披%20(char).md) [[陂]] 
