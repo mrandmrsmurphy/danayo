@@ -54,3 +54,4 @@ boundedness: 90
 - [[牛乳]] "cow's milk, milk"
 - <ruby>[[牛虻]]<rt>ㄋ⼜ㄇㄚㄫ</rt></ruby> "gadfly; horsefly"
 - <ruby>[[牛郎星]]<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> "Altair; the Cowherd Star"
+- <ruby>[[牛郎]]<rt>ㄋ⼜ㄌㄚㄫ</rt></ruby> "the Cowherd Boy"

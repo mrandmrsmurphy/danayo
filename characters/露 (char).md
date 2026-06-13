@@ -46,3 +46,6 @@ boundedness: 100
 - 1123rd most common characters in Classical Chinese.  [[聲 來|Initial L]] + [[韻 模|Final uo]]
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 模]]
+
+## Words
+- <ruby>[[露月]]<rt>ㄌㄛ⼔ㄊ</rt></ruby> "dew month (10th month)"

@@ -57,3 +57,4 @@ boundedness: 90
 - [[時間]] "time, hour"
 - [[時節]] "seasons"
 - [[時宜]] "timely, be right time"
+- <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"

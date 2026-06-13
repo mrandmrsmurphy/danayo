@@ -51,3 +51,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[茶色]]<rt>ㄑㄚㄙㄧㄎ</rt></ruby> "brown"
+- <ruby>[[茶道]]<rt>ㄑㄚㄉㄚㄨ</rt></ruby> "the Way of Tea; tea ceremony"

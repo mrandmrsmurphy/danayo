@@ -49,3 +49,4 @@ boundedness: 90
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 諄]]
 - [[春季]] "spring"
+- <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"

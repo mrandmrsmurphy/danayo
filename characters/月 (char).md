@@ -73,6 +73,8 @@ boundedness: 80
 - [[来月]] next month
 - [[満月]] month anniversary
 - [[月刊]] monthly magazine
+- <ruby>[[氷月]]<rt>ㄅㄧㄫ⼔ㄊ</rt></ruby> "ice month (12th month)"
+- <ruby>[[露月]]<rt>ㄌㄛ⼔ㄊ</rt></ruby> "dew month (10th month)"
 
 ## Chengyu
 - [[呉牛喘月]]

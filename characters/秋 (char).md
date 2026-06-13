@@ -50,5 +50,7 @@ boundedness: 65
 [[Lookup/CC/finals/韻 尤]]
 - [[秋波]] "autumn ripples"
 - <ruby>[[中秋節]]<rt>ㄐㄨㄫㄑㄨㄛㄐㄝㄊ</rt></ruby> "Mid-Autumn Festival"
+- <ruby>[[秋田]]<rt>ㄑㄨㄛㄉㄝㄋ</rt></ruby> "Akita"
+- <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"
 ## Chengyu
 - <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"

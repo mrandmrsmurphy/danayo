@@ -55,5 +55,6 @@ boundedness: 80
 - [[孫女]]
 - <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> "virgin, maiden"
 - <ruby>[[妓女]]<rt>ㄍㄧㄋㄜ</rt></ruby> "prostitute"
+- <ruby>[[織女]]<rt>ㄐㄧㄎㄋㄜ</rt></ruby> "the Weaver Girl"
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 魚]]

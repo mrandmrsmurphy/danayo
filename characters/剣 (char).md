@@ -49,3 +49,4 @@ boundedness:
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 凡]]
 - [[剣術]] "fensing, swordmanship"
+- <ruby>[[剣道]]<rt>ㄍㄛㄇㄉㄚㄨ</rt></ruby> "kendo; the Way of the Sword"

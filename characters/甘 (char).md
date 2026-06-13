@@ -47,3 +47,4 @@ boundedness: 60
 - <ruby>[[炉甘石]]<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby> "calamine"
 - [[甘藷]] "sweet potato"
 - [[甘味]] "sweetness, sweet taste"
+- <ruby>[[甘蕉]]<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby> "banana; plantain"

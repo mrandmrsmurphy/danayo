@@ -62,6 +62,8 @@ boundedness: 70
 - [[坑道]]
 - <ruby>[[書道]]<rt>ㄙ⼄ㄉㄚㄨ</rt></ruby> "Japanese calligraphy; the Way of Writing"
 - <ruby>[[弓道]]<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby> "Japanese archery; the Way of the Bow"
+- <ruby>[[剣道]]<rt>ㄍㄛㄇㄉㄚㄨ</rt></ruby> "kendo; the Way of the Sword"
+- <ruby>[[茶道]]<rt>ㄑㄚㄉㄚㄨ</rt></ruby> "the Way of Tea; tea ceremony"
 - <ruby>[[武道]]<rt>ㄇㄨㄉㄚㄨ</rt></ruby> "martial arts"
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
 - <ruby>[[道成肉身]]<rt>ㄉㄚㄨㄙㄧㄫㄋㄨㄎㄙㄧㄋ</rt></ruby> "incarnation; the Word became flesh"

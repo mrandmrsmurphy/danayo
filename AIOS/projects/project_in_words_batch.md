@@ -1,6 +1,6 @@
 ---
 name: in-words-batch
-description: In progress (started 2026-06-12) — creating words from 'broken links output.md's "In Words" section
+description: Closed (2026-06-12) — all words from 'broken links output.md's "In Words" section created or resolved
 type: project
 ---
 
@@ -17,6 +17,7 @@ type: project
 
 ## Quick fixes (no new word file needed)
 - 平穩 (in words/不穏) — DONE: 平穏.md already has alias 平穩; fixed dangling link in 不穏.md Notes to point to [[平穏]] instead.
+- 開天闢地 (in words/混沌) — DONE: chengyu/開天辟地.md already had `aliases: 開天闢地` but as a bare string rather than a YAML list, which Obsidian's alias resolution didn't pick up; converted to a proper list (`aliases:\n  - 開天闢地`), no new file needed.
 
 ## Words to create (38 total, 1 done via quick fix above = 37 remaining)
 
@@ -37,23 +38,24 @@ type: project
 - [x] 肆拾 (from words/四十)
 - [x] 大略 (from words/大概)
 - [x] 天地之別 (from words/天地)
+- [x] 秋田 (from words/山本)
+- [x] 芻狗 (from words/干芻)
+- [x] 剣道 (from words/弓道)
+- [x] 春秋時代, 麟経, 麟史 (from words/春秋)
+- [x] 折線 (from words/曲線)
+- [x] 尚書 (from words/書経)
+- [x] 茶道 (from words/書道)
+- [x] 開天闢地→開天辟地 (alias 開天闢地, quick fix) (from words/混沌)
+- [x] 無色 (from words/無形)
+- [x] 牛郎, 織女 (from words/牛郎星)
+- [x] 天神地祇 (from words/神霊)
+- [x] 冰月→氷月 (alias 冰月) (from words/臘月)
+- [x] 露月 (from words/良月)
+- [x] 甘蕉 (from words/芭蕉)
+- [x] 英格蘭 (from words/英国)
 
 ### Pending
-- [ ] 秋田 (from words/山本)
-- [ ] 芻狗 (from words/干芻)
-- [ ] 剣道 (from words/弓道)
-- [ ] 春秋時代, 麟経, 麟史 (from words/春秋)
-- [ ] 折線 (from words/曲線)
-- [ ] 尚書 (from words/書経)
-- [ ] 茶道 (from words/書道)
-- [ ] 開天闢地→開天辟地 (alias 開天闢地) (from words/混沌)
-- [ ] 無色 (from words/無形)
-- [ ] 牛郎, 織女 (from words/牛郎星)
-- [ ] 天神地祇 (from words/神霊)
-- [ ] 冰月→氷月 (alias 冰月) (from words/臘月)
-- [ ] 露月 (from words/良月)
-- [ ] 甘蕉 (from words/芭蕉)
-- [ ] 英格蘭 (from words/英国)
+(none — all items resolved)
 
 ## Notes
 - Character existence pre-checked for all 38; only 驟, 葭, 淪 are genuinely missing (no alias either). 穩→穏, 傳→伝, 闢→辟, 冰→氷 all resolve via existing aliases.

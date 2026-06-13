@@ -47,3 +47,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 陽開]]
+
+## Words
+- <ruby>[[尚書]]<rt>ㄙ⼘ㄫㄙ⼄</rt></ruby> "the Book of Documents (older name); Secretary / Minister"

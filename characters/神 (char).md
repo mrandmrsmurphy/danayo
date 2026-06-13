@@ -63,3 +63,4 @@ boundedness: 90
 - <ruby>[[神秘]]<rt>ㄙㄧㄋㄅㄧㄜ</rt></ruby> "mystery, mystical secret"
 - <ruby>[[神農]]<rt>ㄙㄧㄋㄋㄛㄫ</rt></ruby> "Shennong"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
+- <ruby>[[天神地祇]]<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby> "the gods of heaven and earth"
