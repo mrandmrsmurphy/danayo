@@ -48,6 +48,9 @@ boundedness: 100
 [[Lookup/CC/finals/韻 眞A開]]
 - 会意 of [[弓]] ("bow") + [[丿]] ("indicatory stroke").
 ## Words
+- <ruby>[[引出]]<rt>ㄧㄋㄑㄨㄊ</rt></ruby> "to lead out; to extract"
+- <ruby>[[引禍]]<rt>ㄧㄋㄏ⺢</rt></ruby> "to bring on calamity"
+
 ### Chengyu
 - [[招災引禍]]
 - [[引出奴家]]

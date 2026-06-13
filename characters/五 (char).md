@@ -51,6 +51,9 @@ boundedness: 75
 - 人 + 五 = [[伍 (char)]]
 - 五 + 口 = [[吾]] (see there for more descendants)
 ## Important Words
+* <ruby>[[五礼]]<rt>·ㄛㄌㄝㄧ</rt></ruby> - The Five Rites
+* <ruby>[[五射]]<rt>·ㄛㄙ⼘</rt></ruby> - The Five Archery Techniques
+* <ruby>[[五馭]]<rt>·ㄛ⼄</rt></ruby> - The Five Charioteering Techniques
 * <ruby>[[../words/五経]]<rt>·ㄛㄍㄝㄫ</rt></ruby> - The Five Classics
 * <ruby>[[五月]]<rt>·ㄛ·ㄨㄝㄊ</rt></ruby> - May
 * <ruby>[[五行]]<rt>·ㄛㄏㄚㄫ</rt></ruby> - The Five Elements

@@ -48,6 +48,7 @@ boundedness: 75
 - [[鳩]] "pigeon"
 - [[究]] "investigate"
 ## Words
+- <ruby>[[九数]]<rt>ㄎ⼜ㄙㄨ</rt></ruby> "the Nine Numbers"
 - [[九龍]]- Kowloon
 - [[九月]] - September
 - [[九九]] - times table

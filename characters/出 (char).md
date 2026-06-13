@@ -50,6 +50,7 @@ boundedness: 90
 - [[黜]]
 
 ## Words
+- <ruby>[[引出]]<rt>ㄧㄋㄑㄨㄊ</rt></ruby> "to lead out; to extract"
 - [[出身]] "background, be descended from, origin"
 - [[出現]] "appear,emerge,be revealed"
 - [[出血]] "bleed,hemorrhage"

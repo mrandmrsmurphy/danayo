@@ -62,5 +62,6 @@ boundedness: 90
 - [[礼物]] "gift (formal), present (formal)"
 
 ## Words
+- <ruby>[[五礼]]<rt>·ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"
 - <ruby>[[聖礼]]<rt>ㄙㄧㄫㄌㄝㄧ</rt></ruby> "sacrament"
 - <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"

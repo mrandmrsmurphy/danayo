@@ -199,15 +199,6 @@
 - [[麦茶]] in [[characters/麦]]
 - [[黙黙]] in [[characters/黙]]
 
-## Chengyu
-
-- [[奴家]] in [[chengyu/引出奴家]]
-- [[引出]] in [[chengyu/引出奴家]]
-- [[招災]] in [[chengyu/招災引禍]]
-- [[引禍]] in [[chengyu/招災引禍]]
-- [[生機]] in [[chengyu/生机勃勃]]
-- [[自失]] in [[chengyu/茫然自失]]
-
 ## Grammar
 - [[相関詞]] in [[grammar/文法 - 01序文]]
 - [[上代]] in [[grammar/文法 - 01序文]]
@@ -376,7 +367,6 @@
 - [[共和國]] in [[lexipedia/Geography]]
 - [[荷蘭]] in [[lexipedia/Geography]]
 - [[瑞士]] in [[lexipedia/Geography]]
-- [[波蘭]] in [[lexipedia/Geography]], [[words/波素]]
 - [[多様]] in [[lexipedia/Geography]]
 - [[語言]] in [[lexipedia/Geography]]
 - [[国境]] in [[lexipedia/Geography]]
@@ -525,9 +515,6 @@
 - [[歯茎]] in [[syllables/Syllables]]
 - [[舌背]] in [[syllables/Syllables]]
 - [[濁塞]] in [[syllables/Syllables]]
-- [[俾]] in [[syllables/ㄆ⼶]]
-- [[廞]] in [[syllables/ㄏㄜㄇ]]
-- [[䦧]] in [[syllables/ㄏㄝㄎ]]
 
 ## Help Me Only Claude Kenobi
 - [[櫓櫂]] in [[syllables/ㄊㄛㄨ]]
@@ -562,7 +549,7 @@
   - 粃糠 (糠's stand_in) — 粃 doesn't exist. Need to find its canonical parent (likely 秕, bǐ — same word, 米 vs 禾 radical variant)
   
 ## History
-- [[主掌]] in [[translation/周礼 (book)]]
+- [[主掌]] in [[translation/周礼 (book)]] 
 - [[諌議]] in [[translation/周礼 (book)]]
 - [[五礼]] in [[translation/周礼 (book)]]
 - [[六楽]] in [[translation/周礼 (book)]]
@@ -578,8 +565,5 @@
 - [[痛哭]] in [[translation/論語 (book)]]
 
 ## In Words
-- [[行傳]] in [[words/使徒]]
 - [[驟雨]] in [[words/俄雨]]
 - [[葭月]] in [[words/冬月]]
-- [[混淪]] in [[words/混沌]]
-- [[開天闢地]] in [[words/混沌]]
