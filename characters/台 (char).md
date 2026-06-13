@@ -57,3 +57,6 @@ boundedness: 95
 - [[台風]] "[typhoon, hurricane, cyclone]"
 - [[台北]] "Taipei"
 - [[台球]] "pool,snookers"
+
+## Words
+- <ruby>[[台悦]]<rt>ㄉㄚㄧ⼶ㄊ</rt></ruby> "happy; pleased; joyful"

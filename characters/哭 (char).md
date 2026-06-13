@@ -42,6 +42,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[痛哭]]<rt>ㄊㄛㄫㄎㄛㄎ</rt></ruby> "to wail; to cry bitterly"
+
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 屋一]]

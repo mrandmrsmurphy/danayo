@@ -548,22 +548,5 @@
 
   - 粃糠 (糠's stand_in) — 粃 doesn't exist. Need to find its canonical parent (likely 秕, bǐ — same word, 米 vs 禾 radical variant)
   
-## History
-- [[主掌]] in [[translation/周礼 (book)]] 
-- [[諌議]] in [[translation/周礼 (book)]]
-- [[五礼]] in [[translation/周礼 (book)]]
-- [[六楽]] in [[translation/周礼 (book)]]
-- [[五射]] in [[translation/周礼 (book)]]
-- [[五馭]] in [[translation/周礼 (book)]]
-- [[九数]] in [[translation/周礼 (book)]]
-- [[皮衣]] in [[translation/論語 (book)]]
-- [[魏峨]] in [[translation/論語 (book)]]
-- [[台悦]] in [[translation/論語 (book)]]
-- [[教戒]] in [[translation/論語 (book)]]
-- [[自尊]] in [[translation/論語 (book)]]
-- [[和敬]] in [[translation/論語 (book)]]
-- [[痛哭]] in [[translation/論語 (book)]]
-
 ## In Words
-- [[驟雨]] in [[words/俄雨]]
 - [[葭月]] in [[words/冬月]]

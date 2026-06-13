@@ -43,6 +43,7 @@ boundedness: 90
 ```
 ## Words
 - <ruby>[[雨包]]<rt>ㄨㄅ⼘ㄨ</rt></ruby> "hail"
+- <ruby>[[驟雨]]<rt>ㄙㄚㄨ·ㄨ</rt></ruby> "sudden rain shower; downpour"
 
 ## Notes
 [[Lookup/CC/initials/聲 云]]
