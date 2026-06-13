@@ -52,7 +52,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[奶]] · [[吵]]
 
 ### Old HSK 3 + Old HSK 4 + Old HSK 5
-[[亏]] · [[骤]] · [[匆]] · [[档]] · [[霉]] · [[裹]] · [[浇]] · [[挤]] · [[销]]
+[[亏]] · [[骤]] · [[匆]] · [[档]] · [霉雨](words/梅雨.md) · [[裹]] · [[浇]] · [[挤]] · [[销]]
 
 ### Old HSK 3 + Old HSK 4 + Old HSK 6
 [[氧]] · [[扒]] · [[绑]] · [[扯]] · [[兑]] · [[狠]]
