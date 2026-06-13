@@ -38,6 +38,9 @@ boundedness: 70
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+## Words
+- <ruby>[[加多]]<rt>ㄍㄚㄉㄜ</rt></ruby> "to add more; to increase"
+
 ## Notes
 
 - 会意: two pieces of meat (肉). In the bronze script, 肉 was corrupted into 夕 due to visual similarity, making 多 into a duplication of 夕. The form with 夕 was inherited in later scripts.

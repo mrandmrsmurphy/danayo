@@ -89,3 +89,4 @@ boundedness: 80
 - <ruby>[[天頂]]<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> "zenith"
 - <ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> "heavenly stems"
 - <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"
+- <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"

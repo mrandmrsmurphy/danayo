@@ -45,3 +45,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 藥開]]
+
+## Words
+- <ruby>[[大略]]<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby> "roughly; approximately; outline"

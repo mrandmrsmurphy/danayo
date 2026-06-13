@@ -50,3 +50,5 @@ boundedness: 80
 - <ruby>[[千年紀]]<rt>ㄑㄝㄋ·ㄋㄝㄋㄍㄧ</rt></ruby> "millennium (numbered historical unit)"
 - [[年刊]] "annual, annual publication"
 - <ruby>[[週年]]<rt>ㄐㄨㄛㄋㄝㄋ</rt></ruby> "anniversary"
+- <ruby>[[百年]]<rt>ㄅㄚㄎㄋㄝㄋ</rt></ruby> "a hundred years"
+- <ruby>[[万年]]<rt>ㄇㄛㄋㄋㄝㄋ</rt></ruby> "ten thousand years; eternity"

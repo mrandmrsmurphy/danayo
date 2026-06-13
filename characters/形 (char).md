@@ -53,6 +53,7 @@ While this character can appear alone, it is somewhat rare to do so.
 - [[形容詞]] "adjective"
 ## Words
 - <ruby>[[無形]]<rt>ㄇㄜㄏㄝㄫ</rt></ruby> "formless; intangible"
+- <ruby>[[形声]]<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby> "phono-semantic character"
 - <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
 - <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"
 ## Chengyu

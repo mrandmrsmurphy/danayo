@@ -49,6 +49,7 @@ boundedness: 75
 - [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md)
 ## Words
 - [[十分]] - very, extremely, ten minutes
+- <ruby>[[十干]]<rt>ㄙㄧㄆㄍㄚㄋ</rt></ruby> "the ten heavenly stems"
 - [[../words/五代十国]] - Five Dynasties Ten Kingdoms (period)
 
 ### Months

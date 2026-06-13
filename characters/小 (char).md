@@ -51,6 +51,7 @@ boundedness: 80
 - [[小腸]] "small interstine"
 - <ruby>[[杪小]]<rt>ㄇ⼄ㄙㄛ</rt></ruby> "tiny; minute; insignificant"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
+- <ruby>[[小雨]]<rt>ㄙㄛㄨ</rt></ruby> "light rain; drizzle"
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"

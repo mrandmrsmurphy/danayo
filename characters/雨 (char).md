@@ -51,3 +51,4 @@ boundedness: 90
 - [[雨傘]] "umbrella"
 - [[雨中]] "in the rain"
 - [[俄雨]] "rain shower"
+- <ruby>[[小雨]]<rt>ㄙㄛㄨ</rt></ruby> "light rain; drizzle"

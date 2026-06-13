@@ -55,6 +55,7 @@ boundedness: 80
 - 㝎-->定 
 ## Words
 - <ruby>[之間](/words/之間.md)<rt>ㄊㄧㄍㄚㄋ</rt></ruby>
+- <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 
 ## Chengyu
 - <ruby>[糟糠之妻](/chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby>

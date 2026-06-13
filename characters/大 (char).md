@@ -62,6 +62,7 @@ boundedness: 90
 - <ruby>[[大教堂]]<rt>ㄉㄚㄧㄍ⼄ㄨㄉㄚㄫ</rt></ruby> "cathedral"
 - <ruby>[[大洋洲]]<rt>ㄉㄚㄧ·⼘ㄫㄐㄨㄛ</rt></ruby> "Oceania"
 - <ruby>[[大概]]<rt>ㄉㄚㄧㄍㄚㄧ</rt></ruby> "for the most part; generally; approximately"
+- <ruby>[[大略]]<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby> "roughly; approximately; outline"
 - <ruby>[[大義]]<rt>ㄉㄚㄧ·ㄨㄧ</rt></ruby> "principles of justice; be truly righteous"
 - <ruby>[[大家]]<rt>ㄉㄚㄧㄍㄚ</rt></ruby> "noble; lord; lady; gentleman"
 - <ruby>[[大気圏]]<rt>ㄉㄚㄧㄎㄧㄜㄍ⼔ㄋ</rt></ruby> "atmosphere"

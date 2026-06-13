@@ -65,5 +65,6 @@ boundedness: 90
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 - <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby> "earthly branches"
 - <ruby>[[地位]]<rt>ㄉㄧㄜ⼔ㄧ</rt></ruby> "status"
+- <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 脂A三開]]

@@ -55,3 +55,4 @@ boundedness: 70
 [[Lookup/CC/finals/韻 屑開]]
 - [[節減]] "economize, economy"
 - <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
+- <ruby>[[中秋節]]<rt>ㄐㄨㄫㄑㄨㄛㄐㄝㄊ</rt></ruby> "Mid-Autumn Festival"

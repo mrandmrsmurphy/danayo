@@ -54,3 +54,4 @@ boundedness: 75
 - [[会堂]] "meeting hall,church"
 - [[会員]] "member"
 - [[会社]] "business,company"
+- <ruby>[[会意]]<rt>ㄏ⼔ㄜ</rt></ruby> "compound ideograph character"
