@@ -47,3 +47,7 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 敷]]
 [[Lookup/CC/finals/韻 鍾]]
+
+## Words
+- [[蜂巣]] "beehive, honeycomb"
+- [[蜂蜜]] "honey"
