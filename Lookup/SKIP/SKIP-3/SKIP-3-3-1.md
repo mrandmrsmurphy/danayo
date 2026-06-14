@@ -1,6 +1,6 @@
 ---
 stroke_count: 4
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 3-3-1
 size: 5
 tags: [lookup]
@@ -10,7 +10,11 @@ tags: [lookup]
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
-冘, 尤, 日 (char), 曰 (char), 爪 (char)
+1. <ruby>[冘](/characters/冘.md)<rt>ㄇㄨㄇ</rt></ruby> "hesitate"
+2. <ruby>[尤](/characters/尤.md)<rt>⼜ㄛ</rt></ruby> "especially; particularly; more so"
+3. <ruby>[日](characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby> "day; sun"
+4. <ruby>[曰](characters/曰%20(char).md)<rt>⼔ㄊ</rt></ruby> "saith"
+5. <ruby>[爪](characters/爪%20(char).md)<rt>ㄐ⺢ㄨ</rt></ruby> "animal foot; claw"
 
 ## Datacheck
 ```dataview

@@ -1,6 +1,6 @@
 ---
 stroke_count: 6
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 3-4-2
 size: 6
 tags: [lookup]
@@ -10,7 +10,12 @@ tags: [lookup]
 > [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Characters
-危, 戎, 気 (char), 老 (char), 考, 肉 (char)
+1. <ruby>[危](/characters/危.md)<rt>⼔ㄧ</rt></ruby> "dangerous"
+2. <ruby>[戎](/characters/戎.md)<rt>ㄋㄨㄫ</rt></ruby> "arms; armaments"
+3. <ruby>[気](characters/気%20(char).md)<rt>ㄎㄧㄜ</rt></ruby> "feeling"
+4. <ruby>[老](characters/老%20(char).md)<rt>ㄌㄚㄨ</rt></ruby> "old person; age"
+5. <ruby>[考](/characters/考.md)<rt>ㄎㄚㄨ</rt></ruby> "consider; regard"
+6. <ruby>[肉](characters/肉%20(char).md)<rt>ㄋㄨㄎ</rt></ruby> "meat"
 
 ## Datacheck
 ```dataview

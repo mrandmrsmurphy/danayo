@@ -1,6 +1,6 @@
 ---
 stroke_count: 5
-date-last-perfect:
+date-last-perfect: 2026-06-13
 size: 3
 skip_number: 2-4-1
 tags: [lookup]
@@ -10,9 +10,9 @@ tags: [lookup]
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
 ## Characters
-1. 丕
-2. 旦
-3. 氐
+1. <ruby>[丕](/characters/丕.md)<rt>ㄆㄧ</rt></ruby> "grand"
+2. <ruby>[旦](/characters/旦.md)<rt>ㄉㄚㄋ</rt></ruby> "daybreak"
+3. <ruby>[氐](/characters/氐.md)<rt>ㄉㄝ</rt></ruby> "root"
 
 ## Datacheck
 ```dataview

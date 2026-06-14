@@ -1,6 +1,6 @@
 ---
 stroke_count: 14
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 2-8-6
 size: 5
 tags: [lookup]
@@ -10,7 +10,11 @@ tags: [lookup]
 > [Stroke 14](lookup/Stroke/Stroke%2014.md)
 
 ## Characters
-聚, 肇, 裴, 製, 需
+1. <ruby>[聚](/characters/聚.md)<rt>ㄑㄨㄧ</rt></ruby> "assemble"
+2. <ruby>[肇](/characters/肇.md)<rt>ㄐㄚㄨ</rt></ruby> "start; begin"
+3. <ruby>[裴](/characters/裴.md)<rt>ㄅㄨㄧ</rt></ruby> "look of a flowing gown"
+4. <ruby>[製](/characters/製.md)<rt>ㄐㄝ</rt></ruby> "manufacture; produce"
+5. <ruby>[需](/characters/需.md)<rt>ㄙㄨ</rt></ruby> "need"
 
 ## Datacheck
 ```dataview

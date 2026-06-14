@@ -1,7 +1,7 @@
 ---
 stroke_count: 9
-size: 12
-date-last-perfect:
+size: 11
+date-last-perfect: 2026-06-13
 skip_number: 3-3-6
 tags: [lookup]
 
@@ -10,7 +10,17 @@ tags: [lookup]
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-屋 (char), 屍, 屎 (char), 屏, 度, 建, 昼, 追 (char), 退 (char), 送 (char), 逃, 逆 (char)
+1. <ruby>[屋](characters/屋%20(char).md)<rt>ㄛㄎ</rt></ruby> "roof"
+2. <ruby>[屎](characters/屎%20(char).md)<rt>ㄏㄜ</rt></ruby> "excrement; excretion"
+3. <ruby>[屏](/characters/屏.md)<rt>ㄅㄧㄫ</rt></ruby> "folding screen"
+4. <ruby>[度](/characters/度.md)<rt>ㄉㄛ</rt></ruby> "degree; manner"
+5. <ruby>[建](/characters/建.md)<rt>ㄍㄝㄋ</rt></ruby> "build"
+6. <ruby>[昼](/characters/昼.md)<rt>ㄐㄨㄛ</rt></ruby> "daytime"
+7. <ruby>[追](characters/追%20(char).md)<rt>ㄊㄨㄧ</rt></ruby> "follow; hunt"
+8. <ruby>[退](characters/退%20(char).md)<rt>ㄊㄧㄜ</rt></ruby> "retreat; recede; withdraw"
+9. <ruby>[送](characters/送%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> "give"
+10. <ruby>[逃](/characters/逃.md)<rt>ㄉㄚㄨ</rt></ruby> "escape; avoid"
+11. <ruby>[逆](characters/逆%20(char).md)<rt>ㄝㄎ</rt></ruby> "rebellion; betrayal; traitor"
 
 ## Datacheck
 ```dataview

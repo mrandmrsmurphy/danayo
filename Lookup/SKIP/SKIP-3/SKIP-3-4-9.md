@@ -1,6 +1,6 @@
 ---
 stroke_count: 13
-date-last-perfect:
+date-last-perfect: 2026-06-13
 size: 6
 skip_number: 3-4-9
 tags: [lookup]
@@ -10,7 +10,12 @@ tags: [lookup]
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
 ## Characters
-虜, 虞, 逾, 遊, 過 (char), 遒
+1. <ruby>[虜](/characters/虜.md)<rt>ㄌㄛ</rt></ruby> "take captive"
+2. <ruby>[虞](/characters/虞.md)<rt>ㄨ</rt></ruby> "anxious; worry"
+3. <ruby>[逾](/characters/逾.md)<rt>⼜ㄇ</rt></ruby> "transcend; climb"
+4. <ruby>[遊](/characters/遊.md)<rt>⼜ㄛ</rt></ruby> "play; roam; travel"
+5. <ruby>[過](characters/過%20(char).md)<rt>ㄍ⺢</rt></ruby> "than; too"
+6. <ruby>[遒](/characters/遒.md)<rt>ㄑㄨㄛ</rt></ruby> "strong; unyielding; forceful"
 
 ## Datacheck
 ```dataview

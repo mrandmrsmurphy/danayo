@@ -1,6 +1,6 @@
 ---
 stroke_count: 13
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 2-9-4
 size: 10
 tags: [lookup]
@@ -10,7 +10,16 @@ tags: [lookup]
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
 ## Characters
-想, 惹, 愁, 愚 (char), 感, 暋, 楽, 照 (char), 聖, 腎
+1. <ruby>[想](/characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> "thought; concept"
+2. <ruby>[惹](/characters/惹.md)<rt>ㄋ⼘</rt></ruby> "irritate; vex; offend"
+3. <ruby>[愁](/characters/愁.md)<rt>ㄙㄚㄨ</rt></ruby> "worry; be anxious"
+4. <ruby>[愚](characters/愚%20(char).md)<rt>ㄨ</rt></ruby> "foolish"
+5. <ruby>[感](/characters/感.md)<rt>ㄍㄚㄇ</rt></ruby> "feel; sense"
+6. <ruby>[暋](/characters/暋.md)<rt>ㄇㄧㄋ</rt></ruby> "strong; robust; tough"
+7. <ruby>[楽](/characters/楽.md)<rt>ㄌㄚㄎ</rt></ruby> "entertainment"
+8. <ruby>[照](characters/照%20(char).md)<rt>ㄐㄛㄨ</rt></ruby> "shine"
+9. <ruby>[聖](/characters/聖.md)<rt>ㄙㄧㄫ</rt></ruby> "holy"
+10. <ruby>[腎](/characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> "kidney"
 
 ## Datacheck
 ```dataview

@@ -1,29 +1,27 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-06-13
 size: 7
 stroke_count: 13
 skip_number: 2-8-5
 tags: [lookup]
 
 ---
-> SKIP : 2 : [SKIP-2-8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
-> All of these [Stroke 13](lookup/Stroke/Stroke%2013.md).
+> SKIP : 2 : [8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
+> [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
-- <ruby>[[楚]]<rt>ㄑㄛ</rt></ruby> - clear
-- <ruby>[[電]]<rt>ㄉㄝㄋ</rt></ruby> - electricity
-- [[督]]
-- [[盟]]
-- [[雷 (char)]]
-- <ruby>[[零 (char)|零]]<rt>ㄌㄝㄫ</rt></ruby> - zero
-- [[塋]]
-- [[煢]]
-- [[瑟]]
-- 皙 --> 析
-- <ruby>[[禁]]<rt>ㄍㄧㄇ</rt></ruby> - forbidden
-* ~~嗭~~
-### Data double check
+## Characters
+1. <ruby>[楚](/characters/楚.md)<rt>ㄑㄛ</rt></ruby> "clear"
+2. <ruby>[督](/characters/督.md)<rt>ㄉㄛㄎ</rt></ruby> "oversee; supervise"
+3. <ruby>[季](/characters/季.md)<rt>ㄍㄨㄧ</rt></ruby> "season"
+4. <ruby>[禁](/characters/禁.md)<rt>ㄍㄧㄇ</rt></ruby> "forbidden"
+5. <ruby>[雷](characters/雷%20(char).md)<rt>ㄌㄛㄧ</rt></ruby> "thunder"
+6. <ruby>[零](characters/零%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> "zero"
+7. <ruby>[瑟](characters/瑟%20(char).md)<rt>ㄙㄜㄊ</rt></ruby> "se (instrument)"
+
+## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "2-8-5"
 SORT file.name ASC
+```

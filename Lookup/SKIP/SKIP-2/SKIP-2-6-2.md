@@ -1,6 +1,6 @@
 ---
 stroke_count: 8
-date-last-perfect:
+date-last-perfect: 2026-06-13
 size: 6
 skip_number: 2-6-2
 tags: [lookup]
@@ -10,20 +10,12 @@ tags: [lookup]
 > [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 ## Characters
-### Used
-1. [[些]]
-2. [[竺]]
-3. [[其 (char)]]
-4. [[典]]
-5. [[阜]]	
-6. [[券 (char)]]
-### Redirects
-- 兒 --> 児
-- 咒 --> 呪
-- 劵 --> 券
-- 卷 --> 巻
-### Forbidden
-凭	
+1. <ruby>[些](/characters/些.md)<rt>ㄙㄚ</rt></ruby> "a little; rather; somewhat"
+2. <ruby>[竺](/characters/竺.md)<rt>ㄐㄨㄎ</rt></ruby> "India; bamboo"
+3. <ruby>[其](characters/其%20(char).md)<rt>ㄍㄜ</rt></ruby> "this"
+4. <ruby>[典](/characters/典.md)<rt>ㄉㄝㄋ</rt></ruby> "dictionary; subject book"
+5. <ruby>[阜](/characters/阜.md)<rt>ㄅ⼜</rt></ruby> "mound"
+6. <ruby>[券](characters/券%20(char).md)<rt>ㄎㄛㄋ</rt></ruby> "bond; certificate"
 
 ## Datacheck
 ```dataview

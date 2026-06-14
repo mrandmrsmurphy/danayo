@@ -1,6 +1,6 @@
 ---
 stroke_count: 13
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 2-5-8
 size: 6
 tags: [lookup]
@@ -10,7 +10,12 @@ tags: [lookup]
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 
 ## Characters
-咎, 業 (char), 罪 (char), 置 (char), 蜀, 電
+1. <ruby>[咎](/characters/咎.md)<rt>ㄍ⼜</rt></ruby> "calamity"
+2. <ruby>[業](characters/業%20(char).md)<rt>ㄝㄆ</rt></ruby> "profession; business"
+3. <ruby>[罪](characters/罪%20(char).md)<rt>ㄐㄛㄧ</rt></ruby> "sin; crime"
+4. <ruby>[置](characters/置%20(char).md)<rt>ㄑㄧ</rt></ruby> "put; place"
+5. <ruby>[蜀](/characters/蜀.md)<rt>ㄙㄛㄎ</rt></ruby> "Shu kingdom"
+6. <ruby>[電](/characters/電.md)<rt>ㄉㄝㄋ</rt></ruby> "electricity"
 
 ## Datacheck
 ```dataview
