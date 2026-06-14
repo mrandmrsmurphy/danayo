@@ -5,7 +5,8 @@ korean: "미"
 korean_native: "꼬리"
 japanese:
   - BI
-japanese_native: お
+japanese_native:
+  - お
 vietnamese:
   - vã
   - vãi
@@ -18,7 +19,7 @@ stroke_count: 7
 radical: "尸"
 skip_number: 3-3-4
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - tail
 羅馬字: mui
@@ -30,8 +31,8 @@ danayo_id: 4084
 mc_id: 1232
 graphemic_classification: "會意"
 stand_in: "尾"
-aliases:
 注音: "ㄇㄨㄧ"
+date-last-perfect: 2026-06-14
 kwin: false
 tags:
   - character
@@ -44,10 +45,17 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 微]]
-[[Lookup/CC/finals/韻 微合]]
+## Notes
+- 会意 of [[尸]] ("crouching body, animal viewed from the side") and 毛 ("hair, fur") — depicts the tufted hair at the rear of an animal's body, i.e. a tail.
+- [SKIP-3-3-4](lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
+- 1232nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄇㄨㄧ](syllables/ㄇㄨㄧ.md)
+- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[尾]]<rt>ㄇㄨㄧ</rt></ruby> "tail"
+- <ruby>[[交尾]]<rt>ㄍ⼘ㄨㄇㄨㄧ</rt></ruby> "mate, copulate (of animals)"
+- <ruby>[[船尾]]<rt>ㄙ⼔ㄇㄇㄨㄧ</rt></ruby> "stern (of a ship)"
+- <ruby>[[首尾]]<rt>ㄙ⼜ㄇㄨㄧ</rt></ruby> "beginning and end"
 - <ruby>[[九尾狐]]<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby> "nine-tailed fox"
 
 ## Chengyu

@@ -1,37 +1,39 @@
 ---
-mandarin: jú
-cantonese: gwat1
-korean: 귤
-korean_native: 귤나무
+mandarin: "jú"
+cantonese: "gwat1"
+korean: "귤"
+korean_native: "귤나무"
 japanese:
   - KITSU
-japanese_native: たちばな
+japanese_native:
+  - たちばな
 vietnamese:
   - quít
   - quất
   - quầng
   - quắt
 middle_chinese_initial: k
-middle_chinese_final: iuɪt
+middle_chinese_final: "iuɪt"
 stroke_count: 16
-radical: 木
+radical: "木"
 skip_number: 1-4-12
-grade_level: 名
-pos: ""
+grade_level: "名"
+pos: 名詞
 english:
   - tangerine
 羅馬字: gyud
-諺文: 귣
-joyo_level: 日本人名用漢字
+諺文: "귣"
+joyo_level: "日本人名用漢字"
 hsk_level: "1"
-hanmun_edu_level: 名
+hanmun_edu_level: "名"
 danayo_id: 8267
 mc_id: 2783
-graphemic_classification: 矞
-stand_in: 橘
+graphemic_classification: "矞"
+stand_in: "橘"
 aliases:
   - 桔
-注音: ㄍ⼜ㄊ
+注音: "ㄍ⼜ㄊ"
+date-last-perfect: 2026-06-14
 kwin: true
 tags:
   - character
@@ -39,13 +41,16 @@ boundedness: 75
 ---
 >[!tip] This is a page about the character 橘.
 >For the word, see [橘](words/橘.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声 (OC \*kʷid): semantic [木](Radical%20012) + phonetic [[矞]] (OC \*ɢʷid).
-	- Consider adding under 'wit'
-- [SKIP-1-4-12](../lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md)) - [ㄍ⼜ㄊ](../syllables/ㄍ⼜ㄊ.md)
-- [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md), [Grade Name](../lookup/Grade%20Name.md)
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 術]]
+- 形声 (OC \*kʷid): semantic [[Radical 075|木]] ("tree") + phonetic [[矞]] (OC \*ɢʷid) — a fruit tree, the tangerine.
+- [SKIP-1-4-12](lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
+- 2783rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄍ⼜ㄊ](syllables/ㄍ⼜ㄊ.md)
+- [Grade Name](lookup/Grade%20Name.md), [Old HSK 1](lookup/HSK/Old%20HSK%201.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Words
+- <ruby>[[橘]]<rt>ㄍ⼜ㄊ</rt></ruby> "tangerine"
