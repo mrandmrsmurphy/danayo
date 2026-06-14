@@ -507,8 +507,6 @@
 - [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 
 ## Syllables
-- [[古文]] in [[lookup/CC/Classical Chinese]]
-- [[文言]] in [[lookup/CC/Classical Chinese]]
 - [[象形]] in [[lookup/List of 象形]], [[words/六書]]
 - [[筆画数]] in [[lookup/Stroke/Stroke]]
 - [[唇音]] in [[syllables/Syllables]]
@@ -519,21 +517,6 @@
 ## Help Me Only Claude Kenobi
 - [[伎倆]] in [[syllables/ㄍㄝ]]
 - [[粃糠]] in [[syllables/ㄎㄚㄫ]]
-
-9 of the original 11 were resolved (2026-06-13): 櫓櫂, 倦厭, 嬌媚, 僵屍, 緣故, 污垢, 貝殼, 欺瞞, 裝飾 — each created via the "alias → canonical" pattern below and back-linked from their syllable pages.
-
-
-|Word|Stand-in for|Alias → canonical|
-|---|---|---|
-|櫓櫂|櫂|櫓 → 芦|
-|倦厭|倦|厭 → 嫌|
-|嬌媚|嬌|媚 → 眉|
-|僵屍|僵|屍 → 死|
-|緣故|故|緣 → 縁|
-|污垢|垢|污 → 汚|
-|貝殼|殻 (殻's stand_in = 貝殼)|殼 → 殻, paired with 貝|
-|欺瞞|欺|瞞 → 𥈞|
-|裝飾|飾|裝 → 装|
 
 The remaining 2 are genuinely "alias creativity" — the missing character isn't an alias of anything yet:
 

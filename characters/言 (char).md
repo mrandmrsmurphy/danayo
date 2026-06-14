@@ -50,6 +50,7 @@ boundedness: 80
 ## Words
 - <ruby>[[言及]]<rt>ㄝㄋㄍㄨㄆ</rt></ruby> "to mention; to refer to"
 - <ruby>[用言](/words/用言.md)<rt>⼄ㄫ·ㄝㄋ</rt></ruby> - declinable word
+- <ruby>[[文言]]<rt>ㄇㄨㄋ·ㄝㄋ</rt></ruby> "Literary Chinese; wording"
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 元開]]
 ## Chengyu

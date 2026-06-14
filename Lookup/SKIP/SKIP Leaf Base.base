@@ -15,7 +15,10 @@ views:
       - stroke_count
       - size
       - date-last-perfect
+      - file.mtime
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: size
         direction: DESC
       - property: skip_number
