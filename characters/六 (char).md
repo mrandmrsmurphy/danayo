@@ -42,25 +42,19 @@ boundedness: 50
 ---
 >[!tip] This is a page about the character 六.
 >For the word, see [六](words/六.md)
-
 ```meta-bind-embed
 [[nav/char_info]]
-```
-### Words
-- [[words/六十]] sixty
-- <ruby>[[六府]]<rt>ㄌㄨㄎㄈㄨ</rt></ruby> "six hollow organs"
-- <ruby>[[六楽]]<rt>ㄌㄨㄎㄌㄚㄎ</rt></ruby> "the Six Musics"
-#### Data check
-```dataview
-table 諺文, english
-from "words"
-where contains(characters, this.file.name)
-sort file.name
 ```
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): perhaps a shed. Originally using the similar-sounding word 廬 (OC \*ra, “shed, cabin”) to represent the concept “six” (Liu Xinglong). Alternatively, it may be an ancient counting symbol.
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 屋三]]
- 
+
+## Words
+- [[words/六十]] sixty
+- <ruby>[[六府]]<rt>ㄌㄨㄎㄈㄨ</rt></ruby> "six hollow organs"
+- <ruby>[[六楽]]<rt>ㄌㄨㄎㄌㄚㄎ</rt></ruby> "the Six Musics"
+... missing...
+
 ### Links
 ![[nav/Numerals]]
