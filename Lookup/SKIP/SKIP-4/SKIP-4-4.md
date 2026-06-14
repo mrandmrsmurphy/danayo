@@ -1,15 +1,18 @@
 ---
 stroke_count: 4
+date-last-perfect: 2026-06-14
 tags: [lookup]
 
 ---
-> [[SKIP]] : 4
-> [[Stroke 04]]
+> [SKIP](lookup/SKIP/SKIP.md) : 4
+> [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
-1. [[SKIP-4-4-1]]: 不, 丐, 丹, 互, 五, 天, 尹, 尺, 巴, 弔, 歹, 牙, 王, 𡈼
-2. [[SKIP-4-4-2]]: 壬, 廿
-3. [[SKIP-4-4-3]]: 中, 井, 升, 屯, 手, 木, 毛, 牛
-4. [[SKIP-4-4-4]]: 内, 夫, 夭, 少, 戈, 火, 片, 犬
+These are all the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> of 4 (four) strokes, whether that be a top line, bottom line, middle line, or otherwise.
+
+- [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md): 尺, 尹, 天, 五, 王, 不, 丹, 互 …
+- [SKIP-4-4-2](lookup/SKIP/SKIP-4/SKIP-4-4-2.md): 壬, 廿
+- [SKIP-4-4-3](lookup/SKIP/SKIP-4/SKIP-4-4-3.md): 中, 井, 升, 屯, 手, 木, 毛, 牛
+- [SKIP-4-4-4](lookup/SKIP/SKIP-4/SKIP-4-4-4.md): 夫, 少, 火, 片, 犬, 内, 夭, 戈
 
 ## Base check
 ```base
