@@ -52,3 +52,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 清開]]
+
+## Words
+- [[要請]] "request, demand"
