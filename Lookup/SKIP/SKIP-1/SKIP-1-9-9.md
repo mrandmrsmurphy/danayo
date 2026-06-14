@@ -1,6 +1,6 @@
 ---
 stroke_count: 18
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 1-9-9
 size: 6
 tags: [lookup]
@@ -10,7 +10,12 @@ tags: [lookup]
 > [Stroke 18](lookup/Stroke/Stroke%2018.md)
 
 ## Characters
-鞭, 額, 顎, 顔, 顕, 類
+1. <ruby>[鞭](/characters/鞭.md)<rt>ㄅ⼶ㄋ</rt></ruby> "whip"
+2. <ruby>[額](/characters/額.md)<rt>ㄚㄎ</rt></ruby> "forehead; plaque"
+3. <ruby>[顎](/characters/顎.md)<rt>ㄚㄎ</rt></ruby> "chin"
+4. <ruby>[顔](/characters/顔.md)<rt>ㄚㄋ</rt></ruby> "face; reputation"
+5. <ruby>[顕](/characters/顕.md)<rt>ㄏㄝㄋ</rt></ruby> "prominent; clear"
+6. <ruby>[類](/characters/類.md)<rt>ㄌㄨㄧ</rt></ruby> "kind; sort; category"
 
 ## Datacheck
 ```dataview

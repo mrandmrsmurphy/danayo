@@ -1,6 +1,6 @@
 ---
 stroke_count: 17
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 1-9-8
 size: 4
 tags: [lookup]
@@ -10,10 +10,10 @@ tags: [lookup]
 > [Stroke 17](lookup/Stroke/Stroke%2017.md)
 
 ## Characters
-1. 雖 (char)
-2. 鞠
-3. 頻 (char)
-4. 餅 (char)
+1. <ruby>[雖](characters/雖%20(char).md)<rt>ㄙㄨㄧ</rt></ruby> "though; although; even if"
+2. <ruby>[鞠](/characters/鞠.md)<rt>ㄍㄨㄎ</rt></ruby> "raise; bow"
+3. <ruby>[頻](characters/頻%20(char).md)<rt>ㄆㄧㄇ</rt></ruby> "frequent; again and again"
+4. <ruby>[餅](characters/餅%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> "pastry; cake; mochi"
 
 ## Datacheck
 ```dataview

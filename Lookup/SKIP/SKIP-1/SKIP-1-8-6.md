@@ -1,6 +1,6 @@
 ---
 stroke_count: 14
-date-last-perfect:
+date-last-perfect: 2026-06-13
 skip_number: 1-8-6
 size: 8
 tags: [lookup]
@@ -10,7 +10,14 @@ tags: [lookup]
 > [Stroke 14](lookup/Stroke/Stroke%2014.md)
 
 ## Characters
-斡, 銀 (char), 銃 (char), 銑, 銘, 銭, 静, 餌
+1. <ruby>[斡](/characters/斡.md)<rt>⺢ㄊ</rt></ruby> "revolve; rotate"
+2. <ruby>[銀](characters/銀%20(char).md)<rt>ㄧㄋ</rt></ruby> "silver"
+3. <ruby>[銃](characters/銃%20(char).md)<rt>ㄑㄨㄫ</rt></ruby> "gun"
+4. <ruby>[銑](/characters/銑.md)<rt>ㄙㄝㄋ</rt></ruby> "mill; pig iron"
+5. <ruby>[銘](/characters/銘.md)<rt>ㄇㄝㄫ</rt></ruby> "inscription"
+6. <ruby>[銭](/characters/銭.md)<rt>ㄐㄝㄋ</rt></ruby> "coin; cash; money"
+7. <ruby>[静](/characters/静.md)<rt>ㄐㄝㄫ</rt></ruby> "quiet"
+8. <ruby>[餌](/characters/餌.md)<rt>ㄋㄧ</rt></ruby> "bait; entice"
 
 ## Datacheck
 ```dataview
