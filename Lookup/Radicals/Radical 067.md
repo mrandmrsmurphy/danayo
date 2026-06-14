@@ -1,15 +1,29 @@
 ---
+date-last-perfect: 2026-06-14
 size: 4
-date-last-perfect:
 radical: 文
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The script/culture radical 文, depicting patterns or writing.
 
-## Data search
+## Strokes
+
+### +0 Strokes
+1. <ruby>[文](../../characters/文.md)<rt>ㄇㄨㄋ</rt></ruby> - culture
+
+### +7 Strokes
+2. <ruby>[斎](../../characters/斎.md)<rt>ㄐㄚㄧ</rt></ruby> - fast, study
+
+### +8 Strokes
+3. <ruby>[斑](../../characters/斑.md)<rt>ㄅㄚㄋ</rt></ruby> - spot, speck
+4. <ruby>[斐](../../characters/斐.md)<rt>ㄈㄨㄧ</rt></ruby> - graceful, elegant
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "文"
-SORT file.name ASC
+SORT stroke_count ASC
+```

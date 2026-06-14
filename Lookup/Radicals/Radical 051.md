@@ -1,36 +1,34 @@
 ---
+date-last-perfect: 2026-06-14
 size: 5
 radical: 干
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The dry/shield radical 干, depicting a forked weapon or shield.
 
-## Characters
+## Strokes
 
-1. [[干]]
-2. [[平]]
-3. [[年 (char)]]
-4. [[幸]]
-5. [[幹]]
+### +0 Strokes
+1. <ruby>[干](../../characters/干.md)<rt>ㄍㄚㄋ</rt></ruby> - dry
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "干"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
+### +2 Strokes
+2. <ruby>[平](../../characters/平.md)<rt>ㄅ⼶ㄫ</rt></ruby> - even
+
+### +3 Strokes
+3. <ruby>[年](../../characters/年%20(char).md)<rt>ㄋㄝㄋ</rt></ruby> - year
+
+### +5 Strokes
+4. <ruby>[幸](../../characters/幸.md)<rt>ㄏㄚㄫ</rt></ruby> - lucky
+
+### +10 Strokes
+5. <ruby>[幹](../../characters/幹.md)<rt>ㄍㄚㄋ</rt></ruby> - trunk
+
+## Data check
+```dataview
+TABLE 注音 AS "Sound", english AS "EN"
+FROM "characters"
+WHERE radical = "干"
+SORT stroke_count ASC
 ```
