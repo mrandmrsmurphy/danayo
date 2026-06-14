@@ -2,11 +2,12 @@
 mandarin: "xīng"
 cantonese: "sing1"
 korean: "성"
-korean_native: 별
+korean_native: "별"
 japanese:
   - SEI
   - SHOU
-japanese_native: ほし
+japanese_native:
+  - ほし
 vietnamese:
   - tinh
 middle_chinese_initial: s
@@ -35,6 +36,7 @@ aliases:
   - 𤾪
 swadesh: "149"
 注音: ㄙㄝㄫ
+date-last-perfect: 2026-06-14
 kwin: true
 tags:
   - character
@@ -47,25 +49,43 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-- stacked [日](Radical%20072) + [生](characters/生.md) 
+## Notes
+- 形声 (OC \*seːŋ): semantic [[Radical 072|日]] ("sun") + phonetic [[生 (char)|生]] (OC \*sʰraːŋ) — the bright bodies in the sky shining like a sun.
 - [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄙㄝㄫ](syllables/ㄙㄝㄫ.md)
-- Japanese [second grade](Jōyō%20-%20Kyōiku), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 3](lookup/Grade%203.md) in Dan'a'yo
-- Swadesh #149
-- Derived characters: 惺, 湦, [[猩]], 暒, 煋, 瑆, 腥, 睲, 䃏, 䗌, 謃, [[醒]], 鍟 (𰾝), 鯹 (𬶢), 戥, 篂
+- [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [Swadesh #149](lexipedia/Swadesh.md)
 
 ## Words
-- <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
+- <ruby>[[星]]<rt>ㄙㄝㄫ</rt></ruby> "star"
+- <ruby>[[流星]]<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby> "shooting star"
+- <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova, novae"
 - <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby> "Big Dipper"
-- <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
-- <ruby>[水星](/words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby> - Mercury (planet)
-- <ruby>[流星](/words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby> "shooting star"
-- <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova; novae"
+- <ruby>[[水星]]<rt>ㄙㄨㄙㄝㄫ</rt></ruby> "Mercury (planet)"
+- <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
+- <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus, evening star"
+- <ruby>[[牛郎星]]<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> "Altair, the Cowherd Star"
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
-- <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet; Singapore"
+- <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet, Singapore"
 - [[星条旗]] "stars and stripes"
 - [[星霜]] "time and years"
-- <ruby>[[牛郎星]]<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> "Altair; the Cowherd Star"
+
+## Derived Characters
+- 惺
+- 湦
+- [[猩]]
+- 暒
+- 煋
+- 瑆
+- 腥
+- 睲
+- 䃏
+- 䗌
+- 謃
+- [[醒]]
+- 鍟 (𰾝)
+- 鯹 (𬶢)
+- 戥
+- 篂
