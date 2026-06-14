@@ -1,34 +1,28 @@
 ---
+date-last-perfect: 2026-06-14
 size: 3
 radical: 生
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The life/birth radical 生, depicting a plant growing from the ground.
 
-## Characters
+## Strokes
 
-1. [[生]]
-2. [[産]]
-3. [[甥 (char)]]
+### +0 Strokes
+1. <ruby>[生](../../characters/生.md)<rt>ㄙㄚㄫ</rt></ruby> - life
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "生"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
+### +6 Strokes
+2. <ruby>[産](../../characters/産.md)<rt>ㄙㄚㄋ</rt></ruby> - give birth
+
+### +7 Strokes
+3. <ruby>[甥](../../characters/甥%20(char).md)<rt>ㄙㄚㄫ</rt></ruby> - sister's child
+
+## Data check
+```dataview
+TABLE 注音 AS "Sound", english AS "EN"
+FROM "characters"
+WHERE radical = "生"
+SORT stroke_count ASC
 ```

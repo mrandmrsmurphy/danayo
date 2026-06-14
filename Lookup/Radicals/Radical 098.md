@@ -1,15 +1,31 @@
 ---
+date-last-perfect: 2026-06-14
 size: 4
-date-last-perfect:
 radical: 瓦
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The tile radical 瓦, depicting curved roof tiles.
 
-## Data search
+## Strokes
+
+### +0 Strokes
+1. <ruby>[瓦](../../characters/瓦%20(char).md)<rt>⺢</rt></ruby> - tile
+
+### +6 Strokes
+2. <ruby>[瓶](../../characters/瓶%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - jug, bottle
+
+### +9 Strokes
+3. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish
+
+### +14 Strokes
+4. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar, big basin
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "瓦"
-SORT file.name ASC
+SORT stroke_count ASC
+```
