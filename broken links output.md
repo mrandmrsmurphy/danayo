@@ -517,17 +517,10 @@
 - [[濁塞]] in [[syllables/Syllables]]
 
 ## Help Me Only Claude Kenobi
-- [[櫓櫂]] in [[syllables/ㄊㄛㄨ]]
-- [[倦厭]] in [[syllables/ㄍ⼔ㄋ]]
-- [[嬌媚]] in [[syllables/ㄍ⼘ㄨ]]
-- [[僵屍]] in [[syllables/ㄍ⼘ㄫ]]
-- [[緣故]] in [[syllables/ㄍㄛ]]
-- [[污垢]] in [[syllables/ㄍㄛㄨ]]
 - [[伎倆]] in [[syllables/ㄍㄝ]]
-- [[貝殼]] in [[syllables/ㄎㄚㄎ]]
 - [[粃糠]] in [[syllables/ㄎㄚㄫ]]
-- [[欺瞞]] in [[syllables/ㄎㄧ]]
-- [[裝飾]] in [[syllables/ㄙㄧㄎ]]
+
+9 of the original 11 were resolved (2026-06-13): 櫓櫂, 倦厭, 嬌媚, 僵屍, 緣故, 污垢, 貝殼, 欺瞞, 裝飾 — each created via the "alias → canonical" pattern below and back-linked from their syllable pages.
 
 
 |Word|Stand-in for|Alias → canonical|
@@ -542,7 +535,7 @@
 |欺瞞|欺|瞞 → 𥈞|
 |裝飾|飾|裝 → 装|
 
-  2 are genuinely "alias creativity" — the missing character isn't an alias of anything yet:
+The remaining 2 are genuinely "alias creativity" — the missing character isn't an alias of anything yet:
 
   - 伎倆 (伎's stand_in) — 倆 doesn't exist. Best candidate: alias of 両 (両 already aliases 輛/辆/輌, all 亻/車+両 forms — 倆 is 亻+両, phonetically liǎ/liǎng matches)
 

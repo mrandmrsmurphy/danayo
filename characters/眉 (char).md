@@ -49,3 +49,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 脂B三開]]
+
+## Words
+- <ruby>[[嬌媚]]<rt>ㄍ⼘ㄨㄇㄧㄜ</rt></ruby> "coquettish, charming"
