@@ -47,3 +47,4 @@ boundedness: 80
 [[Lookup/CC/finals/韻 咍]]
 - [[袋熊]] "wombat"
 - [[袋鼠]] "kangaroo"
+- [[樹袋熊]] "koala"

@@ -44,3 +44,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 東三]]
 - [[熊猫]] "panda"
+- [[樹袋熊]] "koala"
