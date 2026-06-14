@@ -1,15 +1,14 @@
 ---
 name: feedback-word-pronunciation-derivation
-description: When perfecting a word's 羅馬字/諺文/注音, verify each component's actual pronunciation (including word-initial sound shifts) rather than concatenating character-page defaults
+description: 羅馬字/諺文/注音 for a word are a direct concatenation of component characters' values — don't invent sound-shift rules from an inconsistent word page
 metadata:
   type: feedback
 ---
 
-When perfecting a word page, double-check that `羅馬字`/`諺文`/`注音` are correctly *derived* from the component characters' real pronunciations — not just naively pasted from each character's bound-form reading in `characters/`.
+When perfecting a word's `羅馬字`/`諺文`/`注音`, the correct value is a **direct concatenation of each component character's values from `characters/`** — per `words/BP Words.md`. There is no word-initial devoicing or other sound-shift rule in this conlang.
 
-**Why:** Found while perfecting `words/蜂巣.md` — its `諺文`/`羅馬字` correctly used 蜂's word-initial form (퐁/pong), matching the standalone word page `words/蜂.md`, but `注音` was left as the bound-character form (ㄈㄛㄫ/fong) from `characters/蜂 (char).md`, creating an internal inconsistency. The vault has systematic word-initial sound shifts (e.g. ㄈ→ㄆ devoicing) that the bound character form doesn't reflect — `words/蜂蜜.md` has the same unfixed bug (퐁밀/pongmid but 注音 still ㄈㄛㄫㄇㄧㄊ).
+**Why:** While perfecting `words/蜂巣.md` and `words/蜂蜜.md`, I found `諺文`/`羅馬字` used 퐁/pong (ㄆ) while `注音` used ㄈㄛㄫ (matching `characters/蜂 (char).md`'s fong/뽕/ㄈㄛㄫ). I incorrectly "fixed" `注音` to match 퐁/pong, inventing a sound-shift rule based on `words/蜂.md` (which itself has pong/퐁/ㄆㄛㄫ — inconsistent with the character page). The user corrected me: 蜂 = fong/뽕/ㄈㄛㄫ, so 蜂巣 = fongjau/뽕잣/ㄈㄛㄫㄐㄚㄨ. I reverted and fixed `諺文`/`羅馬字` to fongjau/뽕잣 and fongmid/뽕믿 instead.
 
 **How to apply:**
-- For each component, check whether a standalone *word* page exists for that character (e.g. `words/蜂.md`) — if so, its `羅馬字`/`諺文`/`注音` reflect the word-initial form and should be used for the first component of a compound, not the `characters/` bound form.
-- Verify `羅馬字`, `諺文`, and `注音` all agree with each other after concatenation — a mismatch between them (e.g. 諺文 reflects a sound shift but 注音 doesn't) is a red flag.
-- `words/蜂蜜.md` still has this bug (注音 should start ㄆㄛㄫ not ㄈㄛㄫ) — fix when next touched.
+- Always derive a compound's `羅馬字`/`諺文`/`注音` from `characters/` (the bound/character form), not from another word page — word pages can themselves be unperfected/wrong.
+- If a single-character word page (e.g. `words/蜂.md`) disagrees with the corresponding `characters/X (char).md` page, that's a red flag on the *word* page, not evidence of a sound-shift rule. `words/蜂.md` (pong/퐁/ㄆㄛㄫ) still disagrees with `characters/蜂 (char).md` (fong/뽕/ㄈㄛㄫ) — flagged for whenever that word is perfected, but don't change it without checking with the user first.

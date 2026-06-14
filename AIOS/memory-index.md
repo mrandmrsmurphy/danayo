@@ -18,7 +18,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Syllable completion on word creation](memory/feedback_syllable_completion.md) — unblocking a syllable means finishing its page in the same pass (ruby + date-last-perfect)
 - [Syllable data-check bug](memory/feedback_syllable_datacheck.md) — broken `WHERE 諺文` queries hide characters; always cross-check by grepping 注音
 - [Session pacing](memory/feedback_session_pacing.md) — pause autonomous batch work at natural set boundaries (e.g. a completed syllable), not just at the end of the whole backlog
-- [Word pronunciation derivation](memory/feedback_word_pronunciation_derivation.md) — verify 羅馬字/諺文/注音 are mutually consistent and reflect word-initial sound shifts, not naive concatenation of character-page bound forms
+- [Word pronunciation derivation](memory/feedback_word_pronunciation_derivation.md) — 羅馬字/諺文/注音 = direct concatenation of `characters/` bound-form values; no sound-shift rules exist, don't derive from other (possibly unperfected) word pages
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch
