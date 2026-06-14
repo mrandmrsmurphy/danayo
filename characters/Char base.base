@@ -15,7 +15,10 @@ views:
       - danayo_id
       - boundedness
       - stand_in
+      - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: danayo_id
         direction: ASC
       - property: boundedness
@@ -34,8 +37,6 @@ views:
         direction: ASC
       - property: file.mtime
         direction: ASC
-      - property: date-last-perfect
-        direction: DESC
       - property: vietnamese
         direction: ASC
       - property: cantonese
