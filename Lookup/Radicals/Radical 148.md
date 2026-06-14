@@ -1,15 +1,25 @@
 ---
-size: 3
-date-last-perfect:
+date-last-perfect: 2026-06-14
+size: 2
 radical: 角
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The horn radical 角.
 
-## Data search
+## Strokes
+
+### +0 Strokes
+1. <ruby>[角](../../characters/角%20(char).md)<rt>ㄍㄛㄎ</rt></ruby> - horn
+
+### +6 Strokes
+2. <ruby>[触](../../characters/触.md)<rt>ㄑㄛㄎ</rt></ruby> - contact
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "角"
-SORT file.name ASC
+SORT stroke_count ASC
+```

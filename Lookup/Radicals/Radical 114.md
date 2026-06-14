@@ -1,15 +1,29 @@
 ---
+date-last-perfect: 2026-06-14
 size: 4
-date-last-perfect:
 radical: 禸
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The track/footprint radical 禸. No character is filed at +0, so groupings below start at +4.
 
-## Data search
+## Strokes
+
+### +4 Strokes
+1. <ruby>[禹](../../characters/禹.md)<rt>ㄨ</rt></ruby> - Yu
+2. <ruby>[禺](../../characters/禺.md)<rt>ㄨ</rt></ruby> - long-tailed monkey
+
+### +7 Strokes
+3. <ruby>[禼](../../characters/禼.md)<rt>ㄙㄝㄊ</rt></ruby> - old names
+
+### +8 Strokes
+4. <ruby>[禽](../../characters/禽.md)<rt>ㄎㄧㄇ</rt></ruby> - fowl
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "禸"
-SORT file.name ASC
+SORT stroke_count ASC
+```

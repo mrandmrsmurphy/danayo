@@ -1,15 +1,28 @@
 ---
+date-last-perfect: 2026-06-14
 size: 3
-date-last-perfect:
 radical: 辰
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The early morning/5th earthly branch radical 辰.
 
-## Data search
+## Strokes
+
+### +0 Strokes
+1. <ruby>[辰](../../characters/辰.md)<rt>ㄙㄧㄋ</rt></ruby> - fifth heavenly stem, dragon
+
+### +3 Strokes
+2. <ruby>[辱](../../characters/辱.md)<rt>ㄋㄛㄎ</rt></ruby> - humiliate, insult
+
+### +6 Strokes
+3. <ruby>[農](../../characters/農.md)<rt>ㄋㄛㄫ</rt></ruby> - farming
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "辰"
-SORT file.name ASC
+SORT stroke_count ASC
+```

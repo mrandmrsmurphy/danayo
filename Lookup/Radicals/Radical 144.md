@@ -1,15 +1,35 @@
 ---
+date-last-perfect: 2026-06-14
 size: 6
-date-last-perfect:
 radical: 行
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The go/walk radical 行, depicting a crossroads — to walk, to travel.
 
-## Data search
+## Strokes
+
+### +0 Strokes
+1. <ruby>[行](../../characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - go, attend
+
+### +5 Strokes
+2. <ruby>[術](../../characters/術.md)<rt>ㄙㄨㄊ</rt></ruby> - skill, technique
+
+### +6 Strokes
+3. <ruby>[街](../../characters/街.md)<rt>ㄍ⼘ㄧ</rt></ruby> - street, road
+
+### +9 Strokes
+4. <ruby>[衝](../../characters/衝%20(char).md)<rt>ㄑㄛㄫ</rt></ruby> - collide
+
+### +10 Strokes
+5. <ruby>[衡](../../characters/衡.md)<rt>ㄏㄚㄫ</rt></ruby> - weigh, measure
+6. <ruby>[衛](../../characters/衛.md)<rt>ㄝ</rt></ruby> - guard, protect
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "行"
-SORT file.name ASC
+SORT stroke_count ASC
+```

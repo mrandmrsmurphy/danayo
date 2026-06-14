@@ -1,15 +1,32 @@
 ---
+date-last-perfect: 2026-06-14
 size: 5
-date-last-perfect:
 radical: 虍
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The tiger-stripes radical 虍. No character is filed at +0, so groupings below start at +2.
 
-## Data search
+## Strokes
+
+### +2 Strokes
+1. <ruby>[虎](../../characters/虎%20(char).md)<rt>ㄏㄛ</rt></ruby> - tiger
+
+### +3 Strokes
+2. <ruby>[虐](../../characters/虐.md)<rt>⼘ㄎ</rt></ruby> - tyrannical
+
+### +5 Strokes
+3. <ruby>[虚](../../characters/虚%20(char).md)<rt>ㄏ⼄</rt></ruby> - void, emptiness
+
+### +7 Strokes
+4. <ruby>[虞](../../characters/虞.md)<rt>ㄨ</rt></ruby> - anxious, worry
+5. <ruby>[虜](../../characters/虜.md)<rt>ㄌㄛ</rt></ruby> - take captive
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "虍"
-SORT file.name ASC
+SORT stroke_count ASC
+```

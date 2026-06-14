@@ -1,15 +1,28 @@
 ---
+date-last-perfect: 2026-06-14
 size: 3
-date-last-perfect:
 radical: 赤
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The red radical 赤, depicting fire over earth/land.
 
-## Data search
+## Strokes
+
+### +0 Strokes
+1. <ruby>[赤](../../characters/赤%20(char).md)<rt>ㄑㄝㄎ</rt></ruby> - red
+
+### +4 Strokes
+2. <ruby>[赦](../../characters/赦.md)<rt>ㄙ⼘</rt></ruby> - pardon
+
+### +6 Strokes
+3. <ruby>[赩](../../characters/赩.md)<rt>ㄏㄧㄎ</rt></ruby> - shining
+
+## Data check
 ```dataview
-TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "赤"
-SORT file.name ASC
+SORT stroke_count ASC
+```

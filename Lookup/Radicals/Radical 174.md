@@ -1,34 +1,28 @@
 ---
+date-last-perfect: 2026-06-14
 size: 3
 radical: 青
 tags: [lookup]
 
 ---
 > [[Radicals]]
+> The blue/green radical 青, depicting a sprouting plant over a well or cinnabar pigment.
 
-## Characters
+## Strokes
 
-1. [[青 (char)]]
-2. [[靖]]
-3. [[静]]
+### +0 Strokes
+1. <ruby>[青](../../characters/青%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - blue
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "青"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
+### +5 Strokes
+2. <ruby>[靖](../../characters/靖.md)<rt>ㄐㄧㄫ</rt></ruby> - pacify
+
+### +6 Strokes
+3. <ruby>[静](../../characters/静.md)<rt>ㄐㄝㄫ</rt></ruby> - quiet
+
+## Data check
+```dataview
+TABLE 注音 AS "Sound", english AS "EN"
+FROM "characters"
+WHERE radical = "青"
+SORT stroke_count ASC
 ```
