@@ -1,22 +1,24 @@
 ---
-date-last-perfect:
+date-last-perfect: 2026-06-14
 tags: [lookup]
 
 ---
-> [[SKIP]] : 2 
+> [SKIP](lookup/SKIP/SKIP.md) : 2
 
-1. None
-2. [[SKIP-2-9-2]]: 
-3. [[SKIP-2-9-3]]
-4. [[SKIP-2-9-4]]
-5. [[SKIP-2-9-5]]
-6. [[SKIP-2-9-6]]
-7. [[SKIP-2-9-7]]
-8. None
-9. None
-10. None
-11. None
-12. [[SKIP-2-9-12]]
+Top component has 9 strokes. Dominant components: 心, 臣, 大.
+
+1. none
+2. [SKIP-2-9-2](lookup/SKIP/SKIP-2/SKIP-2-9-2.md): 兜
+3. [SKIP-2-9-3](lookup/SKIP/SKIP-2/SKIP-2-9-3.md): 喪, 堅, 堡, 奥, 幇
+4. [SKIP-2-9-4](lookup/SKIP/SKIP-2/SKIP-2-9-4.md): 想, 惹, 愁, 愚, 感, 暋, 楽, 照, 聖, 腎
+5. [SKIP-2-9-5](lookup/SKIP/SKIP-2/SKIP-2-9-5.md): 碧
+6. [SKIP-2-9-6](lookup/SKIP/SKIP-2/SKIP-2-9-6.md): 緊
+7. [SKIP-2-9-7](lookup/SKIP/SKIP-2/SKIP-2-9-7.md): 豎, 賢
+8. none
+9. none
+10. none
+11. none
+12. [SKIP-2-9-12](lookup/SKIP/SKIP-2/SKIP-2-9-12.md): 蠢
 
 ## Base check
 ```base
@@ -30,10 +32,7 @@ views:
     order:
       - file.name
       - size
-      - date-last-perfect
       - skip_number
       - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
+      - date-last-perfect
 ```
