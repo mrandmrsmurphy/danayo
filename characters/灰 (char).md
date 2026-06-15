@@ -5,7 +5,8 @@ korean: "회"
 korean_native: "재"
 japanese:
   - KAI
-japanese_native: はい
+japanese_native:
+  - はい
 vietnamese:
   - hoi
   - hui
@@ -19,7 +20,7 @@ stroke_count: 6
 radical: "火"
 skip_number: 3-2-4
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - ashes
 羅馬字: hoi
@@ -29,10 +30,10 @@ hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 4171
 mc_id: 2408
-graphemic_classification: "又"
+graphemic_classification: "會意"
 stand_in: "灰"
-aliases:
 注音: "ㄏㄛㄧ"
+date-last-perfect: 2026-06-14
 kwin: true
 tags:
   - character
@@ -44,10 +45,14 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 会意 of [[又]] ("hand") + [[火]] ("fire") — fire that can be touched with the hand (ash).
-- Dropped from the Korean HS list in 2000.
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 灰]]
+- 会意 of [[Radical 086|火]] ("fire") and [[又 (char)|又]] ("hand") — fire that can be touched by the hand; "ashes."
+- [SKIP-3-2-4](lookup/SKIP/SKIP-3/SKIP-3-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
+- 2408th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄏㄛㄧ](syllables/ㄏㄛㄧ.md)
+- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (6), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
+- Dropped from the Korean list in 2000
+
 ## Words
+- <ruby>[[灰]]<rt>ㄏㄛㄧ</rt></ruby> "ashes" (stand-in for 灰)
 - <ruby>[[灰色]]<rt>ㄏㄛㄧㄙㄧㄎ</rt></ruby> "grey"
 - <ruby>[[石灰]]<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby> "quicklime"
+- <ruby>[[石灰素]]<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby> "calcium"

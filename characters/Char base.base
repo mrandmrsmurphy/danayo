@@ -17,11 +17,11 @@ views:
       - date-last-perfect
       - file.mtime
     sort:
-      - property: file.mtime
-        direction: ASC
       - property: date-last-perfect
-        direction: ASC
+        direction: DESC
       - property: danayo_id
+        direction: DESC
+      - property: file.mtime
         direction: ASC
       - property: boundedness
         direction: ASC
