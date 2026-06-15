@@ -51,7 +51,7 @@ boundedness: 90
 - 形声 (OC \*qʰaː): semantic [[Radical 030|口]] ("mouth") + phonetic [[乎 (char)|乎]] (OC \*ɢaː) — to exhale, call, or shout from the mouth.
 - [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
 - 802nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](syllables/ㄏㄛ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku (6)](lookup/Japanese/Jōyō%20-%20Kyōiku%20(6).md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (6), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[呼]]<rt>ㄏㄛ</rt></ruby> "call, shout, exhale"

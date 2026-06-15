@@ -9,14 +9,16 @@ views:
     order:
       - file.name
       - formula.score
-      - korean
       - english
       - 羅馬字
       - danayo_id
       - boundedness
       - stand_in
       - date-last-perfect
+      - file.mtime
     sort:
+      - property: file.mtime
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
       - property: danayo_id
@@ -34,8 +36,6 @@ views:
       - property: japanese_native
         direction: ASC
       - property: japanese
-        direction: ASC
-      - property: file.mtime
         direction: ASC
       - property: vietnamese
         direction: ASC
@@ -84,3 +84,5 @@ views:
       formula.score: 62
       note.english: 183
       note.danayo_id: 126
+      note.boundedness: 71
+      note.date-last-perfect: 166

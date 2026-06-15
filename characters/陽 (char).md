@@ -49,7 +49,7 @@ boundedness: 80
 - 形声 (OC \*laŋ): semantic [[Radical 170|阜]] ("mound, hill") + phonetic [[昜]] (OC \*laŋ, "sunlight streaming forth") — the sunny side of a hill; "sun, sunshine, yang."
 - [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
 - 66th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [⼘ㄫ](syllables/⼘ㄫ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku (3)](lookup/Japanese/Jōyō%20-%20Kyōiku%20(3).md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[太陽]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "sun, Sol"

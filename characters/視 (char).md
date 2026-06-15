@@ -48,7 +48,7 @@ boundedness: 65
 - 形声 (OC \*ɡijs): semantic [[Radical 147|見]] ("see") + phonetic [[示]] (OC \*ɡijs, "show, manifest") — to look at, to show something to be observed.
 - [SKIP-1-4-7](lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
 - 384th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄙㄧㄜ](syllables/ㄙㄧㄜ.md)
-- [Grade 4](lookup/Grade%204.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku (6)](lookup/Japanese/Jōyō%20-%20Kyōiku%20(6).md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [Grade 4](lookup/Grade%204.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (6), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[視]]<rt>ㄙㄧㄜ</rt></ruby> "look at, inspect"
