@@ -122,8 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]] 
 - [[敷布]] in [[characters/敷 (char)]]
-- [[漁民]] in [[characters/漁]]
-- [[漁船]] in [[characters/漁]]
 - [[猿楽]] in [[characters/猿]]
 - [[漁夫]] in [[characters/漁]]
 - [[連濁]] in [[characters/濁]]
