@@ -47,6 +47,7 @@ boundedness: 75
 
 ## Words
 - <ruby>[[三]]<rt>ㄙㄚㄇ</rt></ruby> - 3
+- <ruby>[[三国]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "Three Kingdoms; three countries"
 - <ruby>[[三十]]<rt>ㄙㄚㄇ십</rt></ruby> - 30
 - <ruby>[[三叉]]<rt>ㄙㄚㄇ채</rt></ruby> - trident
 - <ruby>[[三月]]<rt>ㄙㄚㄇ웓</rt></ruby> - March
@@ -55,7 +56,7 @@ boundedness: 75
 - <ruby>[[三稜鏡]]<rt>ㄙㄚㄇ룽경</rt></ruby> - prism
 - <ruby>[[三綱]]<rt>ㄙㄚㄇ강</rt></ruby> - the three relationships
 - <ruby>[[三菱]]<rt>ㄙㄚㄇ링</rt></ruby> - Mitsubishi
-- <ruby>[[三角]]<rt>ㄙㄚㄇ곡</rt></ruby> - triangle
+- <ruby>[[三角]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "triangle"
 	- <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby>
 - <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧ·ㄧㄊㄊㄝㄧ</rt></ruby> - Trinity
 

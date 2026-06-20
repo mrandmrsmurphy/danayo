@@ -453,7 +453,7 @@
 - [[邁金]] in [[lexipedia/Periodic Table]]
 - [[達金]] in [[lexipedia/Periodic Table]]
 - [[哥金]] in [[lexipedia/Periodic Table]]
-- [[恩徳]] in [[lexipedia/基督敎]]
+
 - [[奈良]] in [[lexipedia/歴史綱要]]
 - [[三国]] in [[lexipedia/歴史綱要]]
 - [[高句麗]] in [[lexipedia/歴史綱要]]
