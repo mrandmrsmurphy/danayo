@@ -45,6 +45,7 @@ boundedness: 80
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
 - [SKIP-1-1-2](lookup/SKIP/SKIP-1/SKIP-1-1-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md)) · [ㄙㄛ](syllables/ㄙㄛ.md) · [[Lookup/CC/initials/聲 心|s]] [[Lookup/CC/finals/韻 宵A|iᴇu]]
 ## Words
+- <ruby>[[小学]]<rt>ㄙㄛㄏㄚㄎ</rt></ruby> "elementary learning; philology; elementary school"
 - [[小人]] - petty person
 - [[小冊子]]
 - [[小数点]] "decimal point"
