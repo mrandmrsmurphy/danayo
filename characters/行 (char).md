@@ -60,6 +60,7 @@ boundedness: 55
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[行伝]]<rt>ㄏㄚㄫㄐ⼔ㄋ</rt></ruby> "Acts (biblical book); record of deeds"
+- <ruby>[[行政]]<rt>ㄏㄚㄫㄐㄧㄫ</rt></ruby> "administration; government"
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
 - <ruby>[[修飾先行]]<rt>ㄙㄨㄛㄙㄧㄎㄙㄝㄋㄏㄚㄫ</rt></ruby> "modifiers precede; the modifier-first rule"
