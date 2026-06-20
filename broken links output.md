@@ -122,10 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]]
 - [[敷布]] in [[characters/敷 (char)]]
-- [[伊吹]] in [[characters/桧]]
-- [[檜木]] in [[characters/桧]]
-- [[辟歴]] in [[characters/歴]]
-- [[死体]] in [[characters/死]]
 - [[治安]] in [[characters/治]]
 - [[治世]] in [[characters/治]]
 - [[治癒]] in [[characters/治]]
