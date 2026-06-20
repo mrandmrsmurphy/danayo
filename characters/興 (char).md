@@ -50,6 +50,7 @@ boundedness: 100
 
 ## Words
 - <ruby>[[興旺]]<rt>ㄏㄜㄫ⺢ㄫ</rt></ruby> "thriving; prosperous"
+- <ruby>[[興起]]<rt>ㄏㄜㄫㄎㄧ</rt></ruby> "to rise up, emerge"
 
 # Notes
 [[Lookup/CC/initials/聲 曉]]

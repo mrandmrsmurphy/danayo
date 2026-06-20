@@ -66,5 +66,7 @@ boundedness: 90
 - <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby> "earthly branches"
 - <ruby>[[地位]]<rt>ㄉㄧㄜ⼔ㄧ</rt></ruby> "status"
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
+- <ruby>[[要地]]<rt>⼄ㄨㄉㄧㄜ</rt></ruby> "strategic location"
+- <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone, belt"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 脂A三開]]

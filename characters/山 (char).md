@@ -68,6 +68,7 @@ boundedness: 75
 - <ruby>[[巫山]]<rt>ㄇㄨㄙㄚㄋ</rt></ruby> "Wushan"
 - <ruby>[[山本]]<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby> "Yamamoto"
 - <ruby>[[穿山甲]]<rt>ㄑㄝㄋㄙㄚㄋㄍㄚㄆ</rt></ruby> "pangolin"
+- <ruby>[[高山]]<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby> "high mountain"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby>

@@ -55,3 +55,4 @@ boundedness: 90
 - [[熱烈]] "avid, fervent"
 - [[熱情]] "enthusiasm, passion, ardor"
 - <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"
+- <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"

@@ -47,3 +47,6 @@ boundedness: 100
 - [[起床]] "get out of bed"
 - [[起伏]] "undulate, flucuate"
 - [[起死]] "bring the dead back to life (medically)"
+
+## Words
+- <ruby>[[興起]]<rt>ㄏㄜㄫㄎㄧ</rt></ruby> "to rise up, emerge"

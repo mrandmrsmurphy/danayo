@@ -75,6 +75,7 @@ boundedness: 80
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"
 - <ruby>[[空中]]<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby> "in the air, midair, the sky"
 - <ruby>[[中秋節]]<rt>ㄐㄨㄫㄑㄨㄛㄐㄝㄊ</rt></ruby> "Mid-Autumn Festival"
+- <ruby>[[中亜]]<rt>ㄐㄨㄫㄚ</rt></ruby> "Central Asia"
 
 ## Chengyu
 - <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - Castle in the Sky

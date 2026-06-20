@@ -47,3 +47,6 @@ boundedness: 50
 [[Lookup/CC/finals/韻 屋三]]
 - [[奥門]] "Macau"
 - [[奥秘]] "secret, mystery"
+
+## Words
+- <ruby>[[奥斯曼]]<rt>ㄨㄎㄙㄧㄇㄚㄋ</rt></ruby> "Ottoman"

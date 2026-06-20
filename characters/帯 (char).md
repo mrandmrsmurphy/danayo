@@ -50,3 +50,5 @@ boundedness:
 - <ruby>[[繃帯]]<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby> "bandage"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[携帯]]<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby> "carry with; portable; mobile phone"
+- <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone, belt"
+- <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"
