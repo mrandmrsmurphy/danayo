@@ -6,7 +6,6 @@ korean_native: 국수
 japanese:
   - MEN
 japanese_native: むぎこ
-  - むぎこ 
 vietnamese:
   - miến
 middle_chinese_initial: m
@@ -17,6 +16,7 @@ skip_number: 3-7-9
 grade_level: "6"
 pos: 名詞
 english:
+  - noodles
   - flour
 羅馬字: men
 諺文: 먼
@@ -43,7 +43,8 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[麦]], [[面]]
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 先開]]
 - [[麺包]] "bread"

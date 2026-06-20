@@ -15,7 +15,7 @@ stroke_count: 15
 radical: "石"
 skip_number: 1-5-10
 grade_level: "先進"
-pos: ""
+pos: "名詞"
 english:
   - yard
 羅馬字: ma
@@ -42,6 +42,7 @@ boundedness: 85
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[石]], [[馬]]
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 麻二開]]
