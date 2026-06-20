@@ -43,3 +43,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 虞]]
+
+## Words
+- <ruby>[[下愚]]<rt>ㄏㄚ·ㄨ</rt></ruby> "those foolish from birth"

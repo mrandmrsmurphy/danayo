@@ -200,6 +200,7 @@
 - [[黙黙]] in [[characters/黙]]
 
 ## Grammar
+### 1
 - [[相関詞]] in [[grammar/文法 - 01序文]]
 - [[上代]] in [[grammar/文法 - 01序文]]
 - [[詞彙]] in [[grammar/文法 - 01序文]]
@@ -222,6 +223,7 @@
 - [[対照]] in [[grammar/文法 - 01序文]]
 - [[理解度]] in [[grammar/文法 - 01序文]]
 - [[急速]] in [[grammar/文法 - 01序文]]
+### 2
 - [[世宗大王]] in [[grammar/文法 - 02音韻論]]
 - [[正音]] in [[grammar/文法 - 02音韻論]]
 - [[基準]] in [[grammar/文法 - 02音韻論]]
@@ -243,6 +245,7 @@
 - [[尾位]] in [[grammar/文法 - 02音韻論]]
 - [[連声]] in [[grammar/文法 - 02音韻論]]
 - [[最高点]] in [[grammar/文法 - 02音韻論]]
+### 3
 - [[簡略]] in [[grammar/文法 - 03文字法]]
 - [[字形]] in [[grammar/文法 - 03文字法]]
 - [[可読]] in [[grammar/文法 - 03文字法]]
@@ -272,9 +275,11 @@
 - [[実際]] in [[grammar/文法 - 03文字法]]
 - [[字庫]] in [[grammar/文法 - 03文字法]]
 - [[日用必備]] in [[grammar/文法 - 03文字法]]
+### 4
 - [[文言承継]] in [[grammar/文法 - 04句法]]
 - [[現代適応]] in [[grammar/文法 - 04句法]]
 - [[接詞]] in [[grammar/文法 - 04句法]]
+### 5
 - [[形助顯理]] in [[grammar/文法 - 05形態]]
 - [[複数]] in [[grammar/文法 - 05形態]]
 - [[諸語]] in [[grammar/文法 - 05形態]]
@@ -304,6 +309,7 @@
 - [[迂言]] in [[grammar/文法 - 05形態]]
 - [[小辭]] in [[grammar/文法 - 05形態]]
 - [[最極]] in [[grammar/文法 - 05形態]]
+### 97
 - [[有生]] in [[grammar/文法 - 97品詞]]
 - [[処格]] in [[grammar/文法 - 97品詞]]
 - [[具格]] in [[grammar/文法 - 97品詞]]
@@ -335,8 +341,10 @@
 - [[皆様]] in [[grammar/文法 - 97品詞]]
 - [[毎多]] in [[grammar/文法 - 97品詞]]
 - [[皆多]] in [[grammar/文法 - 97品詞]]
+### 98
 - [[虎鯨]] in [[grammar/文法 - 98違法字]]
 - [[虎鯉魚]] in [[grammar/文法 - 98違法字]]
+## Geography 
 - [[分類学]] in [[lexipedia/Animals]]
 - [[広土]] in [[lexipedia/Geography]]
 - [[国主]] in [[lexipedia/Geography]]
@@ -439,6 +447,8 @@
 - [[lexipedia/Trade]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/Valuation]] in [[lexipedia/Lexipedia]]
 - [[lexipedia/War]] in [[lexipedia/Lexipedia]]
+
+## Periodic Table
 - [[二回]] in [[lexipedia/Numbers]]
 - [[二度]] in [[lexipedia/Numbers]]
 - [[日本素]] in [[lexipedia/Periodic Table]]
@@ -454,14 +464,8 @@
 - [[達金]] in [[lexipedia/Periodic Table]]
 - [[哥金]] in [[lexipedia/Periodic Table]]
 
-- [[高麗]] in [[lexipedia/歴史綱要]]
-- [[室町]] in [[lexipedia/歴史綱要]]
-- [[安土桃山]] in [[lexipedia/歴史綱要]]
-- [[江戸]] in [[lexipedia/歴史綱要]]
-- [[徳川]] in [[lexipedia/歴史綱要]]
-- [[李氏]] in [[lexipedia/歴史綱要]]
-- [[小学]] in [[lexipedia/歴史綱要]]
-- [[諸子百家]] in [[lexipedia/歴史綱要]]
+
+
 - [[上知]] in [[lexipedia/歴史綱要]]
 - [[下愚]] in [[lexipedia/歴史綱要]]
 - [[法家]] in [[lexipedia/歴史綱要]]

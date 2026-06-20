@@ -47,6 +47,7 @@ boundedness: 75
 矢, 口
 
 
+- <ruby>[[上知]]<rt>ㄙ⼘ㄫㄐㄨㄧ</rt></ruby> "those wise from birth; innate wisdom"
 - [[知識]]
 - [[知性]]
 - [[熟知]]

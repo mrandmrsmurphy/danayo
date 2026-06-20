@@ -54,6 +54,7 @@ Originally an 指事/ideogram, a picture of "down".  It used be a line under ano
 - 林 + 下 = 梺, a forbidden Japanese character
 - 門 + 下 = 閇, an alias of 閉
 ## Words
+- <ruby>[[下愚]]<rt>ㄏㄚ·ㄨ</rt></ruby> "those foolish from birth"
 - <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> - the world
 - <ruby>[[陛下]]<rt>ㄅㄝㄧㄏㄚ</rt></ruby> - your majesty
 - <ruby>[[低下]]<rt>ㄉㄝㄧㄏㄚ</rt></ruby> - to lower, to droop
