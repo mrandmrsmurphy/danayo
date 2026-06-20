@@ -454,11 +454,6 @@
 - [[達金]] in [[lexipedia/Periodic Table]]
 - [[哥金]] in [[lexipedia/Periodic Table]]
 
-- [[奈良]] in [[lexipedia/歴史綱要]]
-- [[三国]] in [[lexipedia/歴史綱要]]
-- [[高句麗]] in [[lexipedia/歴史綱要]]
-- [[新羅]] in [[lexipedia/歴史綱要]]
-- [[統一新羅]] in [[lexipedia/歴史綱要]]
 - [[高麗]] in [[lexipedia/歴史綱要]]
 - [[室町]] in [[lexipedia/歴史綱要]]
 - [[安土桃山]] in [[lexipedia/歴史綱要]]
