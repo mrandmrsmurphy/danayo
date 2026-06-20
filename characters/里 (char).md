@@ -42,5 +42,6 @@ boundedness: 100
 ## Notes
 - 会意 of [[田]] ("field") + [[土]] ("soil; earth") — a measure of land and fields; mile; place.
 - Because of 毎字明意, we cannot accept the merger of 里 and 裏/裡, as Chinese does.
+- 里 is the traditional East Asian unit of distance; for the Western mile, use 英里.
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 之]]

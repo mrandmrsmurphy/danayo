@@ -44,7 +44,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[丿]], [[弚]]
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 齊開]]
 - [[弟弟]] "litte bitty brother"
+- <ruby>[[弟子]]<rt>ㄉㄝㄐㄜ</rt></ruby> "apprentice; disciple"
+- <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers; brotherhood"
+- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings; brothers and sisters"

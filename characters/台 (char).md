@@ -39,6 +39,7 @@ aliases:
 - 檯
 - 臺
 - 颱
+- 坮
 注音: ㄉㄚㄧ
 kwin: true
 tags:
