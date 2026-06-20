@@ -53,3 +53,6 @@ boundedness: 80
 [[Lookup/CC/finals/韻 虞]]
 - [[句点]] "full stop,period"
 - [[句法]] "syntax"
+
+## Words
+- <ruby>[[高句麗]]<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby> "Goguryeo"

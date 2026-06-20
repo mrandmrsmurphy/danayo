@@ -48,6 +48,7 @@ boundedness: 90
 ## Chengyu
 - [[温故知新]]
 ## Words
+- <ruby>[[新羅]]<rt>ㄙㄧㄋㄌㄛ</rt></ruby> "Silla"
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
 - <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> - New Year
 - <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> - neologism

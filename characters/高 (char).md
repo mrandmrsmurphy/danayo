@@ -46,4 +46,5 @@ boundedness: 90
 - [[高考]] "higher exam"
 
 ## Words
+- <ruby>[[高句麗]]<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby> "Goguryeo"
 - <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby> "peak, summit"
