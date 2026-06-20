@@ -122,7 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]]
 - [[敷布]] in [[characters/敷 (char)]]
-- [[治安]] in [[characters/治]]
 - [[治世]] in [[characters/治]]
 - [[治癒]] in [[characters/治]]
 - [[自治]] in [[characters/治]]
