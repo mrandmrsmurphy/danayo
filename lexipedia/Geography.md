@@ -43,7 +43,7 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 - <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> a.k.a. <ruby>[獅城](/words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> a.k.a. <ruby>[星洲](/words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛㄋㄧㄜㄙㄝㄧ·ㄚ</rt></ruby>  
-- Philippines (菲[[律]][[賓]]) [[比]][[律]][[賓]]
+- Philippines (<ruby>[[菲律賓]]<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>) a.k.a. [[比]][[律]][[賓]]
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>.
 
 ## 南亜
