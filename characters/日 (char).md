@@ -60,3 +60,7 @@ boundedness: 60
 - <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
 - <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"
 - <ruby>[[日暮]]<rt>ㄋㄧㄊㄇㄛ</rt></ruby> "dusk, nightfall"
+- <ruby>[[日用]]<rt>ㄋㄧㄊ⼄ㄫ</rt></ruby> "daily use; everyday"
+
+## Chengyu
+- <ruby>[[日用必備]]<rt>ㄋㄧㄊ⼄ㄫㄅㄧㄊㄅㄧㄜ</rt></ruby> "daily use, always needed"

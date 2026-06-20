@@ -54,5 +54,6 @@ boundedness: 90
 ## Words
 - <ruby>[[王位]]<rt>⺢ㄫ⼔ㄧ</rt></ruby> "throne"
 - <ruby>[[王畿]]<rt>⺢ㄫㄍㄧㄜ</rt></ruby> "royal domain"
+- <ruby>[[大王]]<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby> "great king"
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 陽合]]

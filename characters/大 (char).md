@@ -117,3 +117,4 @@ boundedness: 90
 - <ruby>[[大韓帝国]]<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby> "Korean Empire"
 - <ruby>[[大西洋]]<rt>ㄉㄚㄧㄙㄝㄧ⼘ㄫ</rt></ruby> "Atlantic Ocean"
 - <ruby>[[大不列顛]]<rt>ㄉㄚㄧㄅㄛㄊㄌㄝㄊㄉㄝㄋ</rt></ruby> "Great Britain"
+- <ruby>[[大王]]<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby> "great king"

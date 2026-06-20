@@ -49,3 +49,7 @@ boundedness: 80
 - [[必須]] "be essential, be a must"
 - [[必要]] "necessary, essential"
 - [[必然]] "inevitable, certain"
+- <ruby>[[必備]]<rt>ㄅㄧㄊㄅㄧㄜ</rt></ruby> "essential, required"
+
+## Chengyu
+- <ruby>[[日用必備]]<rt>ㄋㄧㄊ⼄ㄫㄅㄧㄊㄅㄧㄜ</rt></ruby> "daily use, always needed"
