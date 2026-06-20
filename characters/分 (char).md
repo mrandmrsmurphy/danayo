@@ -69,3 +69,4 @@ boundedness: 95
 - <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> "equinox"
 - <ruby>[[分掌]]<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby> "to divide work duties"
 - <ruby>[[分布]]<rt>ㄅㄨㄋㄅㄛ</rt></ruby> "distribution, dispersion"
+- <ruby>[[分類学]]<rt>ㄅㄨㄋㄌㄨㄧㄏㄚㄎ</rt></ruby> "taxonomy"

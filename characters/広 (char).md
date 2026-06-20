@@ -50,3 +50,4 @@ boundedness:
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 唐合]]
 - [[広野]] "wilderness"
+- <ruby>[[広土]]<rt>ㄍ⺢ㄫㄊㄛ</rt></ruby> "vast territory, extensive land"
