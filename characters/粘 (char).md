@@ -16,7 +16,7 @@ stroke_count: 11
 radical: "米"
 skip_number: 1-6-5
 grade_level: "6"
-pos: ""
+pos: "性詞"
 english:
   - sticky
 羅馬字: nem
@@ -43,6 +43,7 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[米]], [[占]]
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 鹽B三]]
