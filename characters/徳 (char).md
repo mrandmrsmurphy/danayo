@@ -42,6 +42,7 @@ boundedness:
 
 ## Words
 - <ruby>[[恩徳]]<rt>ㄜㄋㄊㄨㄎ</rt></ruby> "benevolence"
+- <ruby>[[徳川]]<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby> "Tokugawa"
 - <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
 - <ruby>[[徳沢]]<rt>ㄊㄨㄎㄉㄚㄎ</rt></ruby> "grace, beneficence"
 

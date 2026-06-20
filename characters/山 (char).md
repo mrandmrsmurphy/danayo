@@ -52,6 +52,7 @@ boundedness: 75
 
 ## Words
 - <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby> "mountain" (stand-in for 山)
+- <ruby>[[桃山]]<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby> "Momoyama"
 - <ruby>[[山地]]<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby> "mountain"
 - <ruby>[[山岡]]<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby> "hill"
 - <ruby>[[山岳]]<rt>ㄙㄚㄇ·ㄚㄎ</rt></ruby> "mountain peak"

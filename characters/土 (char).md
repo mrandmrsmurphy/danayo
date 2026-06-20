@@ -50,5 +50,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 模]]
 
 ## Words
+- <ruby>[[安土]]<rt>ㄚㄋㄊㄛ</rt></ruby> "Azuchi"
 - <ruby>[[壌土]]<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby> "loam; loamy soil"
 - <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"

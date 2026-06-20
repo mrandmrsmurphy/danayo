@@ -48,6 +48,7 @@ boundedness: 70
 - [[Lookup/CC/initials/聲 昌]] [[Lookup/CC/finals/韻 仙A三合]]
 
 ## Words
+- <ruby>[[徳川]]<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby> "Tokugawa"
 - [[words/川口]] Kawaguchi
 - [[words/川埼]] Kawasaki
 - [[words/小川]] Ogawa
