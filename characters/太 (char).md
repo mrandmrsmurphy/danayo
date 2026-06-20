@@ -51,6 +51,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[太]]<rt>ㄊㄚㄧ</rt></ruby> "very; extremely; excessively"
+- <ruby>[[太学]]<rt>ㄊㄚㄧㄏㄚㄎ</rt></ruby> "Imperial Academy"
 - <ruby>[[太太]]<rt>ㄊㄚㄧㄊㄚㄧ</rt></ruby> "really great; super-duper"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - <ruby>[[太陰年]]<rt>ㄊㄚㄧ·ㄧㄇㄋㄝㄋ</rt></ruby> "lunar year"

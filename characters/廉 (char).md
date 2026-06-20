@@ -47,3 +47,6 @@ boundedness: 90
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 鹽A三]]
 - [[廉価]] "low price"
+
+## Words
+- <ruby>[[孝廉]]<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby> "filial and incorrupt"
