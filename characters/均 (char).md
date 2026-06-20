@@ -47,3 +47,6 @@ boundedness: 50
 
 ## Notes
 - 形声 (OC \*kʷin): semantic [[Radical 032|土]] ("earth") + phonetic [匀](勻.md) (OC \*ɢʷin).
+
+## Words
+- <ruby>[[不均]]<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby> "uneven, unequal"

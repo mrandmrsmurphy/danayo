@@ -46,3 +46,4 @@ boundedness: 90
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 刪合]]
 - [[環境]] "environment, surroundings"
+- <ruby>[[環状]]<rt>ㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby> "ring-shaped, annular"

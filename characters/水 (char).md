@@ -76,6 +76,7 @@ boundedness: 80
 - <ruby>[[水晶]]<rt>ㄙㄨㄐㄧㄫ</rt></ruby> "rock crystal; quartz crystal"
 - <ruby>[[水銀]]<rt>ㄙㄨ·ㄧㄋ</rt></ruby> "quicksilver; mercury"
 - <ruby>[[水曜日]]<rt>ㄙㄨ·⼄ㄨㄋㄧㄊ</rt></ruby> "Wednesday"
+- <ruby>[[界水]]<rt>ㄍ⼶ㄙㄨ</rt></ruby> "water boundary"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "forests and streams, many mountains and rivers"

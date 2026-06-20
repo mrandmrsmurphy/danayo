@@ -1,0 +1,23 @@
+# Project: 歴史綱要 + lexipedia/Geography.md word-creation sweep (2026-06-19/20)
+
+## What happened
+
+Two sequential large word-creation passes in one extended session:
+
+1. **歴史綱要 (history terms)**: worked through ~23 missing history/historical-term candidates one at a time with user confirmation before each. Notable judgment calls: skipped 統一新羅 and 李氏 (too transparently compositional to warrant their own entry); split 安土桃山 into [[安土]]+[[桃山]] per user instruction; created 諸子百家 while noting it's two words (諸子 + 百家), not a chengyu despite being 4 characters; evaluated and created 左学/右学 after explicit "evaluate them" discussion. Also perfected `words/三角.md` (full frontmatter/body cleanup) along the way.
+
+2. **Two new Dan'a'yo-coined chengyu**: [[文言継承]] ("continuity with the classical written standard") and [[現代適応]] ("adaptation to modern speech") — created after explicit discussion, established as the two named sub-pillars of the pre-existing parent motto [[文言現代]] in `grammar/文法 - 04句法.md`. Required correcting an early mistake: 継承 was initially framed as the chapter's top-level guiding principle, but the actual top-level motto was already 文言現代; fixed to "sub-principle of" framing.
+
+3. **lexipedia/Geography.md sweep**: user requested (then scheduled via local cron after a 1-hour wait) a full scan of Geography.md for missing words/links, region by region, creating only those words with "more than just Japanese pedigree" (attested in ≥1 other CJKV language). Worked autonomously through 5 regions:
+   - **East Asia**: 国主, 媒体, 東伝, 内乱 created; 広土, 外戦 skipped (unattested).
+   - **SE/S/Central/West Asia**: 殖民, 高山, 西亜, 中亜, 商路, 要地, 地帯, 興起, 拡散, 波斯, 奥斯曼, 熱帯 created (沙漠 turned out to already exist).
+   - **Europe**: 蘇格蘭, 愛爾蘭, 荷蘭, 瑞士, 内海 created; 欽婁 (no real-world attestation anywhere, likely an invented/erroneous name for Wales — real Sino name is 威爾士) and 大不列顛 (blocked on missing character 顛) skipped/unlinked.
+   - **Africa/Americas/Oceania**: 多様, 国境, 不均, 南非, 尼羅河, 資源, 分布, 密度, 航路 created.
+   - **Global System + World Divisions**: 主権, 調解, 相対, 持続, 変動, 連合国, 基金, 多辺, 協議, 南極洲, 太平, 大西洋, 地中海, 界水, 環状, 並列, 宇宙観, 界線, 語言, 北美, 南美 created. Skipped/unlinked as unattested ad-hoc glosses: 互依, 治域, 王域 (none appear in any Chinese dictionary — likely the Geography.md author's own compositional shorthand, not real words); 図法 (real but Japan-only, fails the pedigree test). Skipped (missing constituent characters, would require character creation first): 北冰洋, 南冰洋 (missing 冰), 兗州 (missing 兗). Also fixed three latent issues found in a final full-document link sweep: relinked 島嶼群→[[群島]] (the real word, correct order; 嶼 character doesn't exist), unlinked [[菲]] (character doesn't exist; the parallel [[比]][[律]][[賓]] spelling already works), created 語言/北美/南美 (all real but in different word-order or different abbreviating-character convention than their already-existing counterparts 言語/北美洲/南美洲).
+
+## Key recurring judgment calls (apply to future similar work)
+
+- **Word-order mismatches across languages are real and worth a word each**, not just aliases: 語言 (Mandarin/Cantonese order) vs existing 言語 (Japanese/Korean order); 南極洲 (Chinese/Vietnamese-internal order) vs Vietnamese's actual reversed surface form "Châu Nam Cực" (noted in-body, not as a separate file). Same for 北美/南美 vs Japanese's different abbreviating character (米 not 美) — omit the Japanese field rather than fabricate a reading with the wrong character.
+- **"More than Japanese pedigree" can be satisfied by Mandarin/Cantonese alone** — several created words (調解, 界水, 南極洲, 奥斯曼) have no real Japanese or Korean usage at all; that's fine as long as ≥1 non-Japanese CJKV language attests the term. Omit the unconfirmed columns rather than guess a compositional reading when the source language doesn't actually use that exact word.
+- **Always re-check a "missing link" against existing aliases before creating** — 共和國/連合王国/沙漠 all turned out to already exist (via alias or direct match); the regex-based "missing link" scan has false positives.
+- **Some "words" in a lexipedia source document are just the document author's own ad-hoc glosses**, not real attested vocabulary — verified via direct dictionary/baike search (not just Wiktionary) before skipping: 互依, 治域, 王域, 欽婁 all failed this check and were unlinked to plain text rather than created.

@@ -57,3 +57,5 @@ boundedness: 65
 ## Words
 - <ruby>[[北美洲]]<rt>ㄅㄨㄎㄇㄧㄐㄨㄛ</rt></ruby> "North American continent"
 - <ruby>[[南美洲]]<rt>ㄋㄚㄇㄇㄧㄐㄨㄛ</rt></ruby> "South American continent"
+- <ruby>[[北美]]<rt>ㄅㄨㄎㄇㄧ</rt></ruby> "North America"
+- <ruby>[[南美]]<rt>ㄋㄚㄇㄇㄧ</rt></ruby> "South America"

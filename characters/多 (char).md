@@ -40,6 +40,7 @@ boundedness: 70
 ```
 ## Words
 - <ruby>[[加多]]<rt>ㄍㄚㄉㄜ</rt></ruby> "to add more; to increase"
+- <ruby>[[多様]]<rt>ㄉㄜ⼘ㄫ</rt></ruby> "diverse, diversity"
 
 ## Notes
 

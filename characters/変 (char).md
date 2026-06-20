@@ -47,3 +47,4 @@ boundedness: 90
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 仙B三開]]
 - [[変成]] "change into, metamorphosize into"
+- <ruby>[[変動]]<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby> "change, fluctuation"

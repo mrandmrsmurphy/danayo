@@ -57,3 +57,4 @@ boundedness: 90
 - <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
 - <ruby>[[博士]]<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby> "doctor (PhD)"
+- <ruby>[[瑞士]]<rt>ㄙ⼔ㄙㄚㄧ</rt></ruby> "Switzerland"

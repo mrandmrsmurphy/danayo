@@ -53,6 +53,7 @@ boundedness: 80
 - [[愛惜]]
 - [[愛情]]
 - [[愛護]]
+- <ruby>[[愛爾蘭]]<rt>ㄚㄧㄋㄝㄌㄚㄋ</rt></ruby> "Ireland"
 ## Chengyu
 - [[愛偕者神]]
 [[Lookup/CC/initials/聲 影]]

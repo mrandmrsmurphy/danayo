@@ -68,5 +68,6 @@ boundedness: 90
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 - <ruby>[[要地]]<rt>⼄ㄨㄉㄧㄜ</rt></ruby> "strategic location"
 - <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone, belt"
+- <ruby>[[地中海]]<rt>ㄉㄧㄜㄐㄨㄫㄏㄚㄧ</rt></ruby> "Mediterranean Sea"
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 脂A三開]]

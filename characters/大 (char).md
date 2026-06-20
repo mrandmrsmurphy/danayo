@@ -115,3 +115,4 @@ boundedness: 90
 - <ruby>[[大洋洲]]<rt>ㄉㄚㄧ·⼘ㄫㄐㄨㄛ</rt></ruby> "Oceania"
 - <ruby>[[大韓民国]]<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby> "Republic of Korea"
 - <ruby>[[大韓帝国]]<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby> "Korean Empire"
+- <ruby>[[大西洋]]<rt>ㄉㄚㄧㄙㄝㄧ⼘ㄫ</rt></ruby> "Atlantic Ocean"

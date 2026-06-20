@@ -68,5 +68,6 @@ boundedness: 80
 - [[極右]]
 - <ruby>[[無極]]<rt>ㄇㄜㄍㄧㄎ</rt></ruby> "limitless"
 - <ruby>[[太極]]<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby> "Supreme Ultimate"
+- <ruby>[[南極洲]]<rt>ㄋㄚㄇㄍㄧㄎㄐㄨㄛ</rt></ruby> "Antarctica"
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 職開]]

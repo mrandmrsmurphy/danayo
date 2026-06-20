@@ -87,3 +87,4 @@ Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird
 - <ruby>[[不定]]<rt>ㄅㄛㄊㄐㄝㄫ</rt></ruby> "indefinite; indeterminate; variable"
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby>
 - [[不可思議]]
+- <ruby>[[不均]]<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby> "uneven, unequal"

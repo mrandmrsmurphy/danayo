@@ -30,7 +30,7 @@ In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby
 
 ## 東南亜
 <ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄫㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·⼘ㄫ</rt></ruby>.
-The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[島嶼群]]) and straits ([[../words/海峡]]) are common.  
+The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[群島]]) and straits ([[../words/海峡]]) are common.  
 <ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby><ruby>[交通](../words/交通.md)<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>) forms an economic foundation (<ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 
 Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝㄋㄚ</rt></ruby>.
@@ -43,7 +43,7 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 - <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> a.k.a. <ruby>[獅城](/words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> a.k.a. <ruby>[星洲](/words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛㄋㄧㄜㄙㄝㄧ·ㄚ</rt></ruby>  
-- Philippines ([[菲]][[律]][[賓]]) [[比]][[律]][[賓]]
+- Philippines (菲[[律]][[賓]]) [[比]][[律]][[賓]]
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>.
 
 ## 南亜
@@ -89,7 +89,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 ## 歐洲
 <ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄛ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
-- <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not [[大不列顛]]
+- <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + (欽婁) + [[北]][[愛爾蘭]] = [[連合王国]], not (大不列顛)
 - [[愛爾蘭]][[共和國]]
 - <ruby>[法国](../words/法国.md)<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>[徳国](../words/徳国.md)<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
@@ -169,7 +169,7 @@ The <ruby>現代<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ⼶</
 State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle (<ruby>[基本](/words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>[[原則]]).  
 <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[[組織]]<rt>ㄐㄛㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>.
 
-Economic interdependence (<ruby>[経済](/words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>[[互依]]) and communication networks ([[通信]][[網]]) connect regions globally ([[全球]][[連結]]).
+Economic interdependence (<ruby>[経済](/words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>互依) and communication networks ([[通信]][[網]]) connect regions globally ([[全球]][[連結]]).
 
 Geography remains stable ([[地理]][[相対]]不変).  
 History continues to transform conditions ([[歴史]][[持続]][[変化]]).  
@@ -196,9 +196,9 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - the Pacific ([[太平]][[洋]]), 
 - Atlantic ([[大西洋]]), 
 - <ruby>印度洋<rt>ㄧㄋㄉㄛ·⼘ㄫ</rt></ruby>,
-- Arctic Ocean ([[北冰洋]]), 
-- and Southern Ocean ([[南冰洋]]). 
-In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界[[図法]]).
+- Arctic Ocean ((北冰洋)), 
+- and Southern Ocean ((南冰洋)). 
+In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界図法).
 
 #### Ancient
 In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 
@@ -209,7 +209,7 @@ In ancient East Asian thought, the division of the world followed a different st
 
 These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the <ruby>[九州](../words/九州.md)<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby>, including:
 1. Ji ([[希州]]),
-2. Yan ([[兗州]]),
+2. Yan ((兗州)),
 3. Qing ([[青州]]),
 4. Xu ([[徐州]]),
 5. Yang ([[揚州]]),
@@ -218,6 +218,6 @@ These were directional boundary waters ([[方位]][[界水]]), not measured ocea
 8. Liang ([[梁州]]), and
 9. Yong ([[雍州]]).
 
-These provinces (州) were civilizational and administrative regions ([[治域]]), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain ([[王域]]), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
+These provinces (州) were civilizational and administrative regions (治域), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain (王域), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
 
 The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>[[宇宙観]]) to <ruby>[全球](/words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.

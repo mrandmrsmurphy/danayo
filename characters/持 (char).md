@@ -46,3 +46,6 @@ boundedness: 90
 1310
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 之]]
+
+## Words
+- <ruby>[[持続]]<rt>ㄉㄧㄙ⼄ㄎ</rt></ruby> "continuous, sustained"

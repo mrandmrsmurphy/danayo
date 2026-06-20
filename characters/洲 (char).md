@@ -51,3 +51,4 @@ boundedness: 75
 - <ruby>[[北美洲]]<rt>ㄅㄨㄎㄇㄧㄐㄨㄛ</rt></ruby> "North American continent"
 - <ruby>[[南美洲]]<rt>ㄋㄚㄇㄇㄧㄐㄨㄛ</rt></ruby> "South American continent"
 - <ruby>[[嬴洲]]<rt>⼶ㄫㄐㄨㄛ</rt></ruby> "Yingzhou, the mythological eastern island"
+- <ruby>[[南極洲]]<rt>ㄋㄚㄇㄍㄧㄎㄐㄨㄛ</rt></ruby> "Antarctica"

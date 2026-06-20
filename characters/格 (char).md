@@ -53,3 +53,4 @@ boundedness: 60
 [[../lookup/CC/finals/韻 鈬開]]
 - [[格式]] "format, form, style"
 - <ruby>[[英格蘭]]<rt>ㄝㄫㄍㄚㄎㄌㄚㄋ</rt></ruby> "England"
+- <ruby>[[蘇格蘭]]<rt>ㄙㄛㄍㄚㄎㄌㄚㄋ</rt></ruby> "Scotland"

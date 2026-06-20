@@ -50,3 +50,6 @@ boundedness: 90
 - 碰 is forbidden
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 青開]]
+
+## Words
+- <ruby>[[並列]]<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby> "parallel, juxtaposed"

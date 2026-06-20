@@ -62,3 +62,4 @@ boundedness: 90
 - <ruby>[[太初]]<rt>ㄊㄚㄧㄑㄛ</rt></ruby> "Great Beginning"
 - <ruby>[[太素]]<rt>ㄊㄚㄧㄙㄛ</rt></ruby> "Great Plainness"
 - <ruby>[[太極]]<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby> "Supreme Ultimate"
+- <ruby>[[太平]]<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby> "peaceful"

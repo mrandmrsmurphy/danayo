@@ -52,3 +52,6 @@ boundedness: 70
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 質開]]
 - [[密陀僧]] "lithage, lead monoxide"
+
+## Words
+- <ruby>[[密度]]<rt>ㄇㄧㄊㄉㄛ</rt></ruby> "density"

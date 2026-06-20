@@ -51,3 +51,6 @@ boundedness: 90
 
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): cloth on a loom, with threads crossing – original form of 檷 (OC *niːlʔ, “loom”). Later phonetically borrowed as an instance of jiajie (假借) to represent 爾 (OC *njelʔ, “you”).
+
+## Words
+- <ruby>[[愛爾蘭]]<rt>ㄚㄧㄋㄝㄌㄚㄋ</rt></ruby> "Ireland"

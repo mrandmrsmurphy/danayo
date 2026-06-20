@@ -54,3 +54,4 @@ boundedness: 90
 - [[非常]] "extreme, unusual"
 - [[非洲]] "Africa"
 - <ruby>[[非志]]<rt>ㄈㄧㄐㄧ</rt></ruby> "Fiji"
+- <ruby>[[南非]]<rt>ㄋㄚㄇㄈㄧ</rt></ruby> "South Africa"
