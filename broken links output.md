@@ -343,7 +343,6 @@
 - [[虎鯨]] in [[grammar/文法 - 98違法字]]
 - [[虎鯉魚]] in [[grammar/文法 - 98違法字]]
 ## Geography 
-- [[治域]] in [[lexipedia/Geography]]
 - [[王域]] in [[lexipedia/Geography]]
 
 ## Lexipedia
