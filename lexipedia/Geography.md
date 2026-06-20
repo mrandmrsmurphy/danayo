@@ -209,7 +209,7 @@ In ancient East Asian thought, the division of the world followed a different st
 
 These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the <ruby>[九州](../words/九州.md)<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby>, including:
 1. Ji ([[希州]]),
-2. Yan ((兗州)),
+2. Yan ([[兗州]]),
 3. Qing ([[青州]]),
 4. Xu ([[徐州]]),
 5. Yang ([[揚州]]),

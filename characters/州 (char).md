@@ -48,5 +48,6 @@ boundedness: 90
 - Somehow, this is [[SKIP-1-2-4]].
 ## Words
 - [[九州]] - Kyushu
+- <ruby>[[兗州]]<rt>⼶ㄋㄐㄨㄛ</rt></ruby> - Yanzhou
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 尤]]
