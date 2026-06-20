@@ -122,9 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]]
 - [[敷布]] in [[characters/敷 (char)]]
-- [[趣旨]] in [[characters/旨]]
-- [[要旨]] in [[characters/旨]]
-- [[大旨]] in [[characters/旨]]
 - [[昆布]] in [[characters/昆 (char)]]
 - [[昭明]] in [[characters/昭 (char)]]
 - [[昼夜]] in [[characters/昼]]
