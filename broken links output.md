@@ -339,11 +339,7 @@
 - [[皆様]] in [[grammar/文法 - 97品詞]]
 - [[毎多]] in [[grammar/文法 - 97品詞]]
 - [[皆多]] in [[grammar/文法 - 97品詞]]
-### 98
-- [[虎鯨]] in [[grammar/文法 - 98違法字]]
-- [[虎鯉魚]] in [[grammar/文法 - 98違法字]]
-## Geography 
-- [[王域]] in [[lexipedia/Geography]]
+
 
 ## Lexipedia
 - [[lexipedia/Directions]] in [[lexipedia/Lexipedia]]

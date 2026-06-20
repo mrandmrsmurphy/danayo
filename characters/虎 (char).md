@@ -45,5 +45,8 @@ boundedness: 75
 - [List of 象形](lookup/List%20of%20象形.md): . 虍 represents the tiger's head. The torso has disappeared and the legs and the tail have transformed into 人 in the small seal script and later 儿 in the clerical script.
 ### Derived Characters
 - [[彪]]
+
+## Words
+- <ruby>[[虎鯨]]<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby> "orca; killer whale"
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 模]]
