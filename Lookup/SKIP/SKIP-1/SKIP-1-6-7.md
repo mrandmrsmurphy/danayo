@@ -1,5 +1,5 @@
 ---
-size: 11
+size: 12
 stroke_count: 13
 date-last-perfect: 2026-06-13
 skip_number: 1-6-7
@@ -21,6 +21,7 @@ tags: [lookup]
 9. <ruby>[裏](/characters/裏.md)<rt>ㄌㄧ</rt></ruby> "inside; interior; reverse"
 10. <ruby>[䎎](/characters/䎎.md)<rt>ㄋㄛㄆ</rt></ruby> "soar through the air"
 11. <ruby>[群](/characters/群.md)<rt>ㄍㄨㄋ</rt></ruby> "flock; crowd; mob"
+12. <ruby>[辟](/characters/辟.md)<rt>ㄆㄧㄎ</rt></ruby> "dispel, refute"
 
 ## Datacheck
 ```dataview

@@ -14,7 +14,7 @@ stroke_count: 17
 radical: "木"
 skip_number: 1-4-13
 grade_level: "先進"
-pos: ""
+pos: "名詞"
 english:
   - comb
 羅馬字: "jǝd"
@@ -41,6 +41,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[木]], [[節]]
 [[Lookup/CC/initials/聲 莊]]
 [[Lookup/CC/finals/韻 櫛]]

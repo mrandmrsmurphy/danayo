@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-03
 stroke_count: 13
-size: 32
+size: 31
 skip_number: 1-7-6
 tags:
   - lookup
@@ -38,10 +38,9 @@ tags:
 26. <ruby>[跳](characters/跳.md)<rt>ㄊㄛㄨ</rt></ruby> "hop, jump"
 27. <ruby>[践](characters/践.md)<rt>ㄐㄝㄋ</rt></ruby> "tread"
 28. <ruby>[較](characters/較.md)<rt>ㄍㄚㄎ</rt></ruby> "compare"
-29. <ruby>[辟](characters/辟.md)<rt>ㄆㄧㄎ</rt></ruby> "dispel, refute"
-30. <ruby>[酩](characters/酩.md)<rt>ㄇㄝㄫ</rt></ruby> "drunk, intoxicated"
-31. <ruby>[酪](characters/酪.md)<rt>ㄌㄚㄎ</rt></ruby> "cream, cheese, dairy"
-32. <ruby>[酬](characters/酬.md)<rt>ㄙㄨㄛ</rt></ruby> "reward"
+29. <ruby>[酩](characters/酩.md)<rt>ㄇㄝㄫ</rt></ruby> "drunk, intoxicated"
+30. <ruby>[酪](characters/酪.md)<rt>ㄌㄚㄎ</rt></ruby> "cream, cheese, dairy"
+31. <ruby>[酬](characters/酬.md)<rt>ㄙㄨㄛ</rt></ruby> "reward"
 
 ## Datacheck
 ```dataview
