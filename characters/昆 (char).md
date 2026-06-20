@@ -53,4 +53,4 @@ boundedness: 65
 
 ## Words
 - <ruby>[[昆虫]]<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby> "insect"
-- [[昆布]] "kelp"
+- <ruby>[[昆布]]<rt>ㄍㄛㄋㄅㄛ</rt></ruby> "kelp; seaweed"

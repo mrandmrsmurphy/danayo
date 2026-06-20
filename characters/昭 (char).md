@@ -45,7 +45,7 @@ boundedness: 80
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md), Not on HSK, [Grade 6](lookup/Grade%206.md)
 
 ## Words/Names
-- [[昭明]] - lighting
+- <ruby>[[昭明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "shining and bright; luminous"
 - 班昭 - Ban Zhao 45-116
 - 孝昭王 - Hyoso of Shilla 687-702
 - [[words/昭和]] - Shōwa

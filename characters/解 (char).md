@@ -54,5 +54,6 @@ boundedness: 100
 - <ruby>[[解剖]]<rt>ㄍ⼘ㄧㄈㄛㄨ</rt></ruby> "to dissect; anatomy"
 - <ruby>[[解釈]]<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby> "interpretation; to interpret"
 - <ruby>[[調解]]<rt>ㄐㄨㄛㄍ⼘ㄧ</rt></ruby> "to mediate, settle a dispute"
+- <ruby>[[解析]]<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby> "to analyze (technical/mathematical)"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 佳開]]

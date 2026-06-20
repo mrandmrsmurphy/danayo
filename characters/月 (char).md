@@ -48,7 +48,7 @@ boundedness: 80
 - Pictogram/[象形](lookup/List%20of%20象形.md).
 
 ## Words
-- [[望月]] full moon
+- <ruby>[[望月]]<rt>ㄇㄚㄫ⼔ㄊ</rt></ruby> full moon
 - [[蜜月]] honeymoon
 - [[明月]] bright moon
 - [[日月]] sun and moon, life and times

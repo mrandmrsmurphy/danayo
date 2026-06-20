@@ -48,3 +48,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 魂]]
+
+## Words
+- <ruby>[[盆栽]]<rt>ㄆㄨㄋㄐㄚㄧ</rt></ruby> "bonsai"

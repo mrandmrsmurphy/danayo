@@ -45,3 +45,4 @@ boundedness: 70
 [[Lookup/CC/finals/韻 侯]]
 - [[透視]] "see through"
 - <ruby>[[滲透]]<rt>ㄙㄛㄇㄊㄛㄨ</rt></ruby> "seep through"
+- <ruby>[[透析]]<rt>ㄊㄛㄨㄙㄝㄎ</rt></ruby> "to dialyze; dialysis"
