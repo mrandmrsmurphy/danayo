@@ -50,6 +50,7 @@ boundedness: 90
 ## Words
 - <ruby>[[地境]]<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby> "border; territorial boundary"
 - [[地図]] - map
+- [[地図学]] - cartography
 - [[地図冊]] - atlas
 - [[土地]] - ground
 - [[地球儀]] - globe

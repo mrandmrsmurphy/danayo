@@ -343,7 +343,6 @@
 - [[虎鯨]] in [[grammar/文法 - 98違法字]]
 - [[虎鯉魚]] in [[grammar/文法 - 98違法字]]
 ## Geography 
-- [[大不列顛]] in [[lexipedia/Geography]]
 - [[図法]] in [[lexipedia/Geography]]
 - [[兗州]] in [[lexipedia/Geography]]
 - [[治域]] in [[lexipedia/Geography]]

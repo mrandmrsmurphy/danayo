@@ -89,7 +89,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 ## 歐洲
 <ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄛ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
-- <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not (大不列顛)
+- <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not [[大不列顛]]
 - [[愛爾蘭]][共和国](../words/共和国.md)
 - <ruby>[法国](../words/法国.md)<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>[徳国](../words/徳国.md)<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
@@ -198,7 +198,7 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - <ruby>印度洋<rt>ㄧㄋㄉㄛ·⼘ㄫ</rt></ruby>,
 - Arctic Ocean ([[北氷洋]]), 
 - and Southern Ocean ([[南氷洋]]). 
-In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界図法).
+In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界[[地図学]]).
 
 #### Ancient
 In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 
