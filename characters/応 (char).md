@@ -45,6 +45,12 @@ boundedness:
 [[nav/char_info]]
 ```
 
+## Words
+- <ruby>[[適応]]<rt>ㄙㄝㄎㄧㄫ</rt></ruby> "adaptation; to adapt"
+
+## Chengyu
+- <ruby>[[現代適応]]<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎㄧㄫ</rt></ruby> "adaptation to modern speech"
+
 # Notes
 - For "ought" (in the sense of C 應該 ) use [[該]] as an SFP
 - [[Radical 053|广]] + [[Radical 061|心]]

@@ -52,3 +52,6 @@ boundedness: 90
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 先開]]
 - [[現象]] "phenomenon"
+
+## Chengyu
+- <ruby>[[現代適応]]<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎㄧㄫ</rt></ruby> "adaptation to modern speech"

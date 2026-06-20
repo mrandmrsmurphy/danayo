@@ -55,3 +55,4 @@ boundedness: 80
 [[Lookup/CC/finals/韻 元開]]
 ## Chengyu
 - <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ·⼄</rt></ruby> "not speaking a word; total silence"
+- <ruby>[[文言継承]]<rt>ㄇㄨㄋ·ㄝㄋㄍㄝㄧㄙㄨㄫ</rt></ruby> "continuity with the classical written standard"
