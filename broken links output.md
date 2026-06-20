@@ -122,12 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]] 
 - [[敷布]] in [[characters/敷 (char)]]
-- [[猿楽]] in [[characters/猿]]
-- [[漁夫]] in [[characters/漁]]
-- [[連濁]] in [[characters/濁]]
-- [[燐火]] in [[characters/燐]]
-- [[燐光]] in [[characters/燐]]
-- [[阿僧祇]] in [[characters/祇]]
 - [[且爵]] in [[characters/爵]]
 - [[猿人]] in [[characters/猿]]
 - [[效率]] in [[characters/率]]

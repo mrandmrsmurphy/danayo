@@ -60,3 +60,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[連合国]]<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby> "United Nations; Allied Powers"
+- <ruby>[[連濁]]<rt>ㄌ⼶ㄋㄉㄚㄎ</rt></ruby> "rendaku"

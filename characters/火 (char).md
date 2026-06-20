@@ -56,6 +56,7 @@ boundedness: 90
 - [[火車]]
 - [[烈火]]
 - [[鬼火]]
+- <ruby>[[燐火]]<rt>ㄌㄧㄋㄏ⺢</rt></ruby> "will-o'-the-wisp"
 - <ruby>[[噴火]]<rt>ㄆㄛㄋㄏ⺢</rt></ruby> "to erupt; volcanic eruption"
 - <ruby>[[火炎]]<rt>ㄏ⺢ㄝㄇ</rt></ruby> "flame"
 - <ruby>[[火紅]]<rt>ㄏ⺢ㄏㄛㄫ</rt></ruby> "fire-red; blazing red"

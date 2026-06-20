@@ -45,5 +45,8 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 虞]]
+
+## Words
+- <ruby>[[漁夫]]<rt>⼄ㄈㄜ</rt></ruby> "fisherman"
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"

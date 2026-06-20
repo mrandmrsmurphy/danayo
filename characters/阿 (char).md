@@ -45,6 +45,9 @@ boundedness: 45
 - Dropped from the Korean HS list in 2000.
 
 
+## Words
+- <ruby>[[阿僧祇]]<rt>ㄚㄙㄜㄫㄍㄧ</rt></ruby> "asankhyeya"
+
 ## Chengyu
 - [[阿鼻叫喚]]
 [[Lookup/CC/initials/聲 影]]

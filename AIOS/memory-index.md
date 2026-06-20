@@ -23,6 +23,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Conlang-original coinages](memory/feedback_conlang_original_coinages.md) — "unattested in real-world CJKV" isn't automatic grounds to skip; some terms are intentional Dan'a'yo-original coinages (`origin: 単亜語`) — flag and ask, don't silently unlink
 - [Variant character check](memory/feedback_variant_character_check.md) — before calling a character "missing," grep existing characters' `aliases:` for shinjitai/traditional variants (e.g. 氷/冰) before assuming a new character is needed
 - [No redundant combined entries](memory/feedback_no_redundant_combined_entries.md) — before creating an N-character word, check if it's just two already-real shorter words composed transparently; if so link `[[A]][[B]]`, don't make a third entry
+- [Japan-rooted concept pedigree](memory/feedback_japan_rooted_concept_pedigree.md) — a Japan-rooted concept can still pass "more than Japanese pedigree" if another CJKV language reads the same characters natively (e.g. 猿楽); contrast with true Japan-only cases like 伊吹
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch
