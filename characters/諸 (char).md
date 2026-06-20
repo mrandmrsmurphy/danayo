@@ -48,3 +48,7 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*tjaː, \*tja): semantic [[Radical 149|言]] ("") + phonetic [[者]] (OC \*tjaːʔ).
+
+## Words
+- <ruby>[[諸子]]<rt>ㄐㄚㄐㄜ</rt></ruby> "the various masters; pre-Qin philosophers"
+- <ruby>[[諸子百家]]<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby> "Hundred Schools of Thought"

@@ -50,6 +50,7 @@ boundedness: 80
 - [[百済]] "Baekje"
 - [[百科]] "all knowledge"
 - <ruby>[[百家]]<rt>ㄅㄚㄎㄍㄚ</rt></ruby> "hundred schools, many schools of thought"
+- <ruby>[[諸子百家]]<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby> "Hundred Schools of Thought"
 - <ruby>[[百年]]<rt>ㄅㄚㄎㄋㄝㄋ</rt></ruby> "a hundred years"
 
 
