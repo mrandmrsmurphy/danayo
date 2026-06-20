@@ -45,3 +45,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 屑合]]
+
+## Words
+- <ruby>[[血液]]<rt>ㄏ⼔ㄊ⼶ㄎ</rt></ruby> "blood"

@@ -47,3 +47,6 @@ boundedness: 75
 - Components: [[米]], [[占]]
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 鹽B三]]
+
+## Words
+- <ruby>[[粘液]]<rt>ㄋㄝㄇ⼶ㄎ</rt></ruby> "mucus"
