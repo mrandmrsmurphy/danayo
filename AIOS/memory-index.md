@@ -20,6 +20,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Session pacing](memory/feedback_session_pacing.md) — pause autonomous batch work at natural set boundaries (e.g. a completed syllable), not just at the end of the whole backlog
 - [Word pronunciation derivation](memory/feedback_word_pronunciation_derivation.md) — 羅馬字/諺文/注音 = direct concatenation of `characters/` bound-form values; no sound-shift rules exist, don't derive from other (possibly unperfected) word pages
 - [Idiom-component attestation](memory/feedback_idiom_component_attestation.md) — before calling a 2-char candidate "unattested," check if it's the head of a longer idiom, and check Japanese dictionaries independently (don't assume from a Chinese-only check)
+- [Conlang-original coinages](memory/feedback_conlang_original_coinages.md) — "unattested in real-world CJKV" isn't automatic grounds to skip; some terms are intentional Dan'a'yo-original coinages (`origin: 単亜語`) — flag and ask, don't silently unlink
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch

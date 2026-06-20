@@ -46,6 +46,7 @@ boundedness: 80
 - <ruby>[[依]]<rt>ㄧㄜ</rt></ruby> "rely on, accord with"
 - [[依然]] "as ... as ever, still"
 - [[依拠]] "depend, be the basis for"
+- <ruby>[[依存]]<rt>ㄧㄜㄐㄛㄋ</rt></ruby> "dependence, to depend on"
 
 # Notes
 [[Lookup/CC/initials/聲 影]]

@@ -90,7 +90,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 <ruby>欧洲|欧洲<rt>ㄛㄨㄐㄨㄛ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
 - <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not (大不列顛)
-- [[愛爾蘭]][[共和國]]
+- [[愛爾蘭]][共和国](../words/共和国.md)
 - <ruby>[法国](../words/法国.md)<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>[徳国](../words/徳国.md)<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
 - <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙ⺢ㄫ·ㄧㄫㄍㄛㄎ</rt></ruby>
@@ -169,7 +169,7 @@ The <ruby>現代<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ⼶</
 State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle (<ruby>[基本](/words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>[[原則]]).  
 <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[[組織]]<rt>ㄐㄛㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>.
 
-Economic interdependence (<ruby>[経済](/words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>互依) and communication networks ([[通信]][[網]]) connect regions globally ([[全球]][[連結]]).
+Economic interdependence (<ruby>[経済](/words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>[[相互]][[依存]]) and communication networks ([[通信]][[網]]) connect regions globally ([[全球]][[連結]]).
 
 Geography remains stable ([[地理]][[相対]]不変).  
 History continues to transform conditions ([[歴史]][[持続]][[変化]]).  
