@@ -44,3 +44,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 蒸]]
+
+## Words
+- <ruby>[[蒸溜]]<rt>ㄐㄧㄫㄌ⼜</rt></ruby> "distillation"

@@ -122,7 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]] 
 - [[敷布]] in [[characters/敷 (char)]]
-- [[蒸溜]] in [[characters/溜]]
 - [[漁民]] in [[characters/漁]]
 - [[漁船]] in [[characters/漁]]
 - [[猿楽]] in [[characters/猿]]
