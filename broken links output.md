@@ -466,15 +466,6 @@
 
 
 
-- [[上知]] in [[lexipedia/歴史綱要]]
-- [[下愚]] in [[lexipedia/歴史綱要]]
-- [[法家]] in [[lexipedia/歴史綱要]]
-- [[書院]] in [[lexipedia/歴史綱要]]
-- [[孝廉]] in [[lexipedia/歴史綱要]]
-- [[太学]] in [[lexipedia/歴史綱要]]
-- [[僕射]] in [[lexipedia/歴史綱要]]
-- [[射策]] in [[lexipedia/歴史綱要]]
-- [[律学]] in [[lexipedia/歴史綱要]]
 
 ## Characters?
 - [[㐮]] in [[lookup/HSK/HSK No]], [[lookup/Stroke/Stroke 13]], [[syllables/ㄙ⼘ㄫ]]
