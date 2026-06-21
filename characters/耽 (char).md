@@ -45,7 +45,7 @@ boundedness: 75
 
 - 形声 (OC \*ʔl'uːm): semantic [[Radical 128|耳]] ("") + phonetic [[冘]] (OC \*lu, \*lum).
 ## Words
-- [[眈眈]] glaring covetously 
+- <ruby>[[耽耽]]<rt>ㄉㄛㄇㄉㄛㄇ</rt></ruby> glaring covetously (alias: 眈眈)
 ## Chengyu
 - [[虎視耽耽]]
 [[Lookup/CC/initials/聲 端]]

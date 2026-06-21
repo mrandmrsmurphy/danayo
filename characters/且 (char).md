@@ -48,5 +48,8 @@ boundedness: 90
 
 ### Derived Characters
 - [[祖]]
+
+## Words
+- <ruby>[[且爵]]<rt>ㄑㄛㄐㄚㄎ</rt></ruby> "chew, masticate" (stand-in for 咀嚼)
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 魚]]

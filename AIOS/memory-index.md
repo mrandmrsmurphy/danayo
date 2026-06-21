@@ -24,6 +24,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Variant character check](memory/feedback_variant_character_check.md) — before calling a character "missing," grep existing characters' `aliases:` for shinjitai/traditional variants (e.g. 氷/冰) before assuming a new character is needed
 - [No redundant combined entries](memory/feedback_no_redundant_combined_entries.md) — before creating an N-character word, check if it's just two already-real shorter words composed transparently; if so link `[[A]][[B]]`, don't make a third entry
 - [Japan-rooted concept pedigree](memory/feedback_japan_rooted_concept_pedigree.md) — a Japan-rooted concept can still pass "more than Japanese pedigree" if another CJKV language reads the same characters natively (e.g. 猿楽); contrast with true Japan-only cases like 伊吹
+- [Graphemic substitution words](memory/feedback_graphemic_substitution_words.md) — 借代字 words (e.g. 且爵 for 咀嚼): foreign-language fields carry the real target word's readings, 羅馬字/諺文/注音 are mechanical from the substitute characters
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch
