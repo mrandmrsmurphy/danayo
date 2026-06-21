@@ -122,7 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]] 
 - [[敷布]] in [[characters/敷 (char)]]
-- [[黙黙]] in [[characters/黙]]
 
 ## Grammar
 ### 1
