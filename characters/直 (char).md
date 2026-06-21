@@ -51,5 +51,6 @@ boundedness: 90
 - <ruby>[[直径]]<rt>ㄐㄧㄊㄍㄝㄫ</rt></ruby> "diameter"
 - [[直観]] "intuition"
 - [[直角]] "right angle"
+- <ruby>[[硬直]]<rt>ㄚㄫㄐㄧㄊ</rt></ruby> "rigid; stiff"
 ## Chengyu
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point; to cut directly to the heart of the matter without preamble"

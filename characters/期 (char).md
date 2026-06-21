@@ -51,3 +51,4 @@ boundedness: 100
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 之]]
 - [[期間]] "period, time, duration"
+- <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"

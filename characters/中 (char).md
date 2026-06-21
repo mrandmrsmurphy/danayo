@@ -77,6 +77,7 @@ boundedness: 80
 - <ruby>[[中秋節]]<rt>ㄐㄨㄫㄑㄨㄛㄐㄝㄊ</rt></ruby> "Mid-Autumn Festival"
 - <ruby>[[中亜]]<rt>ㄐㄨㄫㄚ</rt></ruby> "Central Asia"
 - <ruby>[[地中海]]<rt>ㄉㄧㄜㄐㄨㄫㄏㄚㄧ</rt></ruby> "Mediterranean Sea"
+- <ruby>[[中世]]<rt>ㄐㄨㄫㄙㄝ</rt></ruby> "Middle Ages"
 
 ## Chengyu
 - <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - Castle in the Sky

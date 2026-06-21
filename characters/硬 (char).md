@@ -45,3 +45,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 耕開]]
+
+## Words
+- <ruby>[[硬直]]<rt>ㄚㄫㄐㄧㄊ</rt></ruby> "rigid; stiff"

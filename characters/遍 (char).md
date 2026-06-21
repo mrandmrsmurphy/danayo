@@ -44,3 +44,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 先開]]
+
+## Words
+- <ruby>[[普遍]]<rt>ㄆㄛㄅㄝㄋ</rt></ruby> "universal; general"

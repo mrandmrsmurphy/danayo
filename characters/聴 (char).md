@@ -48,3 +48,4 @@ boundedness:
 
 ## Words
 - <ruby>[[聴衆]]<rt>ㄑㄝㄫㄐㄨㄫ</rt></ruby> "audience"
+- <ruby>[[聴取]]<rt>ㄑㄝㄫㄑㄛㄨ</rt></ruby> "listen to; take in"

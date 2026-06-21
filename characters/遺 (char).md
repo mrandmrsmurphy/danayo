@@ -47,3 +47,4 @@ boundedness: 30
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 脂A合]]
 - [[遺憾]] "regrettable; pitiable"
+- <ruby>[[遺産]]<rt>⼶ㄧㄙㄚㄋ</rt></ruby> "heritage; legacy"

@@ -48,3 +48,4 @@ boundedness: 80
 [[Lookup/CC/finals/韻 泰合]]
 - [[最近]] "lately, recently"
 - [[最善]] "best"
+- <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"

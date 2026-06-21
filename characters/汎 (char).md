@@ -43,6 +43,7 @@ boundedness:
 ```
 ## Words
 - <ruby>[[汎濫]]<rt>ㄈㄚㄇㄌㄚㄇ</rt></ruby> "flood, overflow"
+- <ruby>[[汎亜]]<rt>ㄈㄚㄇㄚ</rt></ruby> "Pan-Asian"
 
 ## Notes
 - 形声 (OC \*pʰoms, \*bum): semantic [[Radical 085|氵]] ("") + phonetic [[凡]] (OC \*bom).

@@ -47,7 +47,7 @@ boundedness: 75
 - 形聲: [彑](Radical%20058) +  冖  + 果 (胃) = [SKIP-2-3-10](lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), HSK 3, [Grade 6](lookup/Grade%206.md)
 
-* [語彙](words/語彙.md) vocabulary --> [詞彙](words/語彙.md)
-* <ruby>[[字彙]]<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon; vocabulary"
+- <ruby>[[詞彙]]<rt>ㄙㄚㄏㄨ</rt></ruby> "vocabulary; lexicon"
+- <ruby>[[字彙]]<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon; vocabulary"
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 微合]]

@@ -44,7 +44,7 @@ boundedness: 90
 - 形声 (OC \*toːnʔ): semantic [[Radical 111|矢]] ("") + phonetic [[豆]] (OC \*doːs).
 ## Words
 - [[短音]]
+- <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"
 
-- 
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 桓]]

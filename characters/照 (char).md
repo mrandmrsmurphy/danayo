@@ -47,3 +47,4 @@ boundedness: 100
 ## Words
 - <ruby>[[参照]]<rt>ㄙㄚㄇㄐㄛㄨ</rt></ruby> "cross-reference"
 - <ruby>[[照耀]]<rt>ㄐㄛㄨ⼄ㄨ</rt></ruby> "to shine upon, to illuminate"
+- <ruby>[[対照]]<rt>ㄉㄛㄧㄐㄛㄨ</rt></ruby> "contrast; compare"

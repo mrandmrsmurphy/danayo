@@ -48,3 +48,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[急遽]]<rt>ㄍㄧㄆㄍ⼄</rt></ruby> "rapidly; suddenly"
+- <ruby>[[急速]]<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby> "rapid; swift"

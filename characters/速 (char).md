@@ -50,3 +50,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[迅速]]<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby> "rapid; swift; prompt"
+- <ruby>[[急速]]<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby> "rapid; swift"
