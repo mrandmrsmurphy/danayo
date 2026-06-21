@@ -14,7 +14,7 @@ stroke_count: 8
 radical: "彳"
 skip_number: 1-3-5
 grade_level: "1"
-pos: ""
+pos: 修飾語
 english:
   - yon
 羅馬字: "bǝ"
@@ -40,6 +40,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 支B三開]]
+- Components: [[彳]], [[皮]]
