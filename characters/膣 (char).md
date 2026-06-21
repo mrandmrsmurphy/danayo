@@ -49,6 +49,6 @@ boundedness: 65
 - [[Korean Name ㅈ]], [[Hyōgai]], Not on HSK, [[Grade Advanced]]
 
 ## Words
-- [[臭膣]] - bitch
+- <ruby>[[臭膣]]<rt>ㄑㄨㄐㄧㄊ</rt></ruby> - bitch (neologism)
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 質開]]

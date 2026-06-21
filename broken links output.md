@@ -122,9 +122,6 @@
 ## More
 - [[座敷]] in [[characters/敷 (char)]] 
 - [[敷布]] in [[characters/敷 (char)]]
-- [[臭膣]] in [[characters/膣 (char)]]
-- [[馬鈴薯]] in [[characters/芋]]
-- [[甘薯]] in [[characters/芋]]
 - [[芝罘]] in [[characters/芝]]
 - [[後裔]] in [[characters/裔]]
 - [[壁虱]] in [[characters/虱 (char)]]

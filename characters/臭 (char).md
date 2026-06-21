@@ -45,3 +45,6 @@ boundedness: 100
 # Notes
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Words
+- <ruby>[[臭膣]]<rt>ㄑㄨㄐㄧㄊ</rt></ruby> "bitch" (neologism)
