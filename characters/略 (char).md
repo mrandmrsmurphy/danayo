@@ -48,3 +48,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[大略]]<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby> "roughly; approximately; outline"
+- <ruby>[[簡略]]<rt>ㄍㄚㄋㄌ⼘ㄎ</rt></ruby> "brief; simplified; concise"

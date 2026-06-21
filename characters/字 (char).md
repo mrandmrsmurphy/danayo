@@ -64,5 +64,7 @@ boundedness: 90
 - <ruby>[正字法](/words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄆㄚㄆ</rt></ruby> - orthography
 - <ruby>[[別字]]<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, variant"
 - <ruby>[識字](/words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> - literacy
+- <ruby>[[字形]]<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph; character shape"
+- <ruby>[[字庫]]<rt>ㄐㄧㄎㄛ</rt></ruby> "font library; character repository"
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 之]]

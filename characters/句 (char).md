@@ -56,3 +56,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[高句麗]]<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby> "Goguryeo"
+- <ruby>[[慣用句]]<rt>ㄍ⺢ㄋ⼄ㄫㄍㄨ</rt></ruby> "idiom; idiomatic phrase"

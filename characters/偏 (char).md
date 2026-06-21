@@ -48,3 +48,4 @@ boundedness: 90
 [[Lookup/CC/initials/聲 滂]]
 [[Lookup/CC/finals/韻 仙A三開]]
 - [[偏差]] "deviation (standard)"
+- <ruby>[[偏重]]<rt>ㄆ⼶ㄋㄑㄛㄫ</rt></ruby> "to overemphasize; bias"

@@ -54,3 +54,4 @@ boundedness: 90
 ## Words
 - <ruby>[[独立]]<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby> "independence, independent"
 - <ruby>[[立憲]]<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby> "constitutional governance; constitutionalism"
+- <ruby>[[並立]]<rt>ㄅㄝㄫㄌㄧㄆ</rt></ruby> "to stand side by side; coexist"

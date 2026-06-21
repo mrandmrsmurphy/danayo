@@ -48,3 +48,4 @@ boundedness: 75
 [[Lookup/CC/finals/韻 歌]]
 - [[可能]] "possible,may,might,perhaps"
 - [[可憐]] "pitiful"
+- <ruby>[[可読]]<rt>ㄎㄜㄉㄛㄎ</rt></ruby> "readable; legible"

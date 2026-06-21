@@ -53,3 +53,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[並列]]<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby> "parallel, juxtaposed"
+- <ruby>[[並立]]<rt>ㄅㄝㄫㄌㄧㄆ</rt></ruby> "to stand side by side; coexist"

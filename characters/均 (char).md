@@ -50,3 +50,4 @@ boundedness: 50
 
 ## Words
 - <ruby>[[不均]]<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby> "uneven, unequal"
+- <ruby>[[均衡]]<rt>ㄍ⼜ㄋㄏㄚㄫ</rt></ruby> "balance; equilibrium"

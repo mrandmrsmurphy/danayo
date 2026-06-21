@@ -63,3 +63,4 @@ boundedness: 80
 - <ruby>[[個別]]<rt>ㄍㄜㄅㄝㄊ</rt></ruby> "individual, separate"
 - <ruby>[[離別]]<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby> "depart, leave"
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
+- <ruby>[[国別]]<rt>ㄍㄛㄎㄅㄝㄊ</rt></ruby> "by country; country-by-country"

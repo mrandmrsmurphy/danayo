@@ -53,3 +53,4 @@ boundedness: 65
 ## Words
 - <ruby>[[視]]<rt>ㄙㄧㄜ</rt></ruby> "look at, inspect"
 - <ruby>[[軽視]]<rt>ㄎㄧㄫㄙㄧㄜ</rt></ruby> "look down on, disdain"
+- <ruby>[[視覚]]<rt>ㄙㄧㄜㄍㄚㄎ</rt></ruby> "vision; sight"
