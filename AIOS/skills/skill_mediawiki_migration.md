@@ -19,7 +19,7 @@ Goal: get everything valuable off danayo.conlang.org so those pages can be delet
 ## Checklist per character
 
 1. **Open vault file** — `find characters -name "X*"` (run from the vault root; may be `X.md` or `X (char).md`); read it fully.
-2. **Fetch wiki page** — `curl -sk "http://danayo.conlang.org/w/index.php?title=URL_ENCODED_CHAR&action=view" | sed 's/<[^>]*>//g' | grep -v '^[[:space:]]*$' | grep -A200 "Jump to navigation" | head -100`
+2. **Fetch wiki page** — `curl -sk "https://danayo.conlang.org/w/index.php?title=URL_ENCODED_CHAR&action=view" | sed 's/<[^>]*>//g' | grep -v '^[[:space:]]*$' | grep -A200 "Jump to navigation" | head -100` (the site now redirects http→https; use https directly to skip the redirect hop)
 3. **Compare** — produce a side-by-side table of discrepancies and flag wiki-only data (prose notes, compounds, aliases, components).
 4. **Ask** — present findings and ask what to import.
 5. **Apply** — make the approved edits.
@@ -27,7 +27,7 @@ Goal: get everything valuable off danayo.conlang.org so those pages can be delet
 
 ## URL pattern
 
-- `http://danayo.conlang.org/w/index.php?title=CHAR&action=view`
+- `https://danayo.conlang.org/w/index.php?title=CHAR&action=view`
 - URL-encode non-ASCII: e.g. 矢 → `%E7%9F%A2`
 - WebFetch fails (self-signed cert) — always use curl via Bash.
 - Two wiki template formats exist: newer `Infobox_字` and older `Dan'a'yo_Character`. Both work with the same curl+sed approach, but the older one has messier output.
