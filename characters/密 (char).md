@@ -55,3 +55,4 @@ boundedness: 70
 
 ## Words
 - <ruby>[[密度]]<rt>ㄇㄧㄊㄉㄛ</rt></ruby> "density"
+- <ruby>[[精密]]<rt>ㄐㄝㄫㄇㄧㄊ</rt></ruby> "precise; meticulous"

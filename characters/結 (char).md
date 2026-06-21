@@ -52,5 +52,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 屑開]]
 - [[結加夫坐]] "sit in lotus position"
 - [[結果]] "result, fruit"
+- <ruby>[[結合]]<rt>ㄍㄝㄊㄍㄛㄆ</rt></ruby> "combine; unite"
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"

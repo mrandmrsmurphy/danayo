@@ -65,3 +65,4 @@ boundedness: 100
 ## Words
 - <ruby>[[正義]]<rt>ㄐㄧㄫㄜㄧ</rt></ruby> "justice"
 - <ruby>[[矯正]]<rt>ㄍ⼘ㄨㄐㄧㄫ</rt></ruby> "correct; rectify"
+- <ruby>[[正音]]<rt>ㄐㄧㄫㄨㄇ</rt></ruby> "correct pronunciation; standard pronunciation"

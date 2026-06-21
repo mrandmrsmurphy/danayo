@@ -61,6 +61,7 @@ boundedness: 100
 - [[明朗]] "bright, clear, cheerful"
 - [[明様]] "brightly, in a bright way"
 - [[明徳]] "bright virtue, show virtue"
+- <ruby>[[明確]]<rt>ㄇ⼶ㄫㄎㄚㄎ</rt></ruby> "clear; definite"
 
 ## Chengyu
 - <ruby>[旗幟鮮明](/chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby>
