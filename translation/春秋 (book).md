@@ -15,14 +15,14 @@
 #### 7
 <ruby>公<rt>ㄍㄛㄫ</rt></ruby><ruby>子<rt>ㄐㄜ</rt></ruby><ruby>益<rt>ㄝㄎ</rt></ruby><ruby>師<rt>ㄙㄧㄜ</rt></ruby><ruby>卒<rt>ㄐㄨㄊ</rt></ruby><ruby>去<rt>ㄎ⼄</rt></ruby>。
 
-2. 桓公
-3. 莊公
-4. 閔公
-5. 僖公
-6. 文公
-7. 宣公
-8. 成公
-9. 襄公
-10. 昭公
-11. 定公
-12. 哀公
+2. <ruby>桓<rt>ㄏ⺢ㄋ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+3. <ruby>莊<rt>ㄐ⺢ㄫ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+4. <ruby>閔<rt>ㄇㄧㄇ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+5. <ruby>僖<rt>ㄏㄧ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+6. <ruby>文<rt>ㄇㄨㄋ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+7. <ruby>宣<rt>ㄙㄝㄋ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+8. <ruby>成<rt>ㄙㄧㄫ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+9. <ruby>襄<rt>ㄋ⼘ㄫ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+10. <ruby>昭<rt>ㄐㄛㄨ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+11. <ruby>定<rt>ㄐㄝㄫ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>
+12. <ruby>哀<rt>ㄚㄧ</rt></ruby><ruby>公<rt>ㄍㄛㄫ</rt></ruby>

@@ -34,6 +34,7 @@ graphemic_classification: 壴
 stand_in: 喜
 aliases:
   - 禧
+  - 僖
 注音: ㄏㄧ
 tags:
   - character
