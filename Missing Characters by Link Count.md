@@ -54,7 +54,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[溢]] · [[椀]] · [[濡]]
 
 ### Old HSK 3 + Old HSK 4 + Korean Name ㅊ
-[[驟]] · [[鑿]]
+[[鑿]]
 
 ### Old HSK 3 + Old HSK 4 + Korean Name ㅎ
 [[虧]]
