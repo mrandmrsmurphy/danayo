@@ -1,34 +1,35 @@
 ---
-mandarin: "qī"
+mandarin: qī
 cantonese: cai1
-korean: "처"
-korean_native: "아내"
+korean: 처
+korean_native: 아내
 japanese:
   - SAI
 japanese_native: つま
 vietnamese:
   - thê
   - thế
-middle_chinese_initial: "t͡sʰ"
+middle_chinese_initial: t͡sʰ
 middle_chinese_final: ei
 stroke_count: 8
-radical: "女"
+radical: 女
 skip_number: 2-5-3
 grade_level: "3"
 pos: 名詞
 english:
   - my wife
 羅馬字: cei
-諺文: "체"
+諺文: 체
 joyo_level: "5"
 hsk_level: "2"
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 3071
 mc_id: 491
-graphemic_classification: "屮"
-stand_in: "妻"
+graphemic_classification: 屮
+stand_in: 妻
 aliases:
-注音: "ㄑㄝㄧ"
+  - 萋
+注音: ㄑㄝㄧ
 kwin: false
 tags:
   - character
