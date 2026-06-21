@@ -66,3 +66,4 @@ boundedness: 90
 - <ruby>[[金色]]<rt>ㄍㄧㄇㄙㄧㄎ</rt></ruby> "gold"
 - [[蛍金]] "yttrium" (periodic table neologism)
 - <ruby>[[基金]]<rt>ㄍㄧㄍㄧㄇ</rt></ruby> "fund"
+- <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"

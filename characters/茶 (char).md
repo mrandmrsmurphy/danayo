@@ -50,5 +50,6 @@ boundedness: 80
 [[Lookup/CC/finals/韻 麻二開]]
 
 ## Words
+- <ruby>[[麦茶]]<rt>ㄇㄚㄎㄑㄚ</rt></ruby> "barley tea"
 - <ruby>[[茶色]]<rt>ㄑㄚㄙㄧㄎ</rt></ruby> "brown"
 - <ruby>[[茶道]]<rt>ㄑㄚㄉㄚㄨ</rt></ruby> "the Way of Tea; tea ceremony"

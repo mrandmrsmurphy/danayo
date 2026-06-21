@@ -47,3 +47,6 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 灰]]
+
+## Words
+- <ruby>[[毎週]]<rt>ㄇㄛㄧㄐㄨㄛ</rt></ruby> "every week, weekly"

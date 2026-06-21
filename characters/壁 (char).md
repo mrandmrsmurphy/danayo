@@ -40,4 +40,5 @@ boundedness: 75
 [Radical 032](lookup/Radicals/Radical%20032.md) (Earth).  [SKIP-2-13-3](lookup/SKIP/SKIP-2/SKIP-2-13-3.md).
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 錫開]]
+- <ruby>[[壁虱]]<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby> "tick, mite, bedbug"
 - [[壁塁]] "rampart"

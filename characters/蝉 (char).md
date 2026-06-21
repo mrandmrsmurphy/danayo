@@ -47,7 +47,7 @@ boundedness: 65
 - [SKIP-1-6-9](lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([[Stroke 15]]) - [ㄙㄝㄋ](syllables/ㄙㄝㄋ.md)
 - [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md), HSK 4, [Grade Name](lookup/Grade%20Name.md)
 
-- [[寒蝉]] winter cicadas
+- <ruby>[[寒蝉]]<rt>ㄏㄚㄋㄙㄝㄋ</rt></ruby> winter cicadas
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 仙A三開]]
 - [[蝉冠]] "ancient hat"

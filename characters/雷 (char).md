@@ -47,3 +47,6 @@ boundedness: 70
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 灰]]
+
+## Words
+- <ruby>[[雷電]]<rt>ㄌㄛㄧㄉㄝㄋ</rt></ruby> "thunder and lightning"

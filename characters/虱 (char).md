@@ -46,6 +46,6 @@ boundedness: 75
 - [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md), No HSK, [Hyōgai](lookup/Japanese/Hyōgai.md), [Grade Advanced](lookup/Grade%20Advanced.md)
 
 ## Words
-- [[壁虱]] - tick, bedbug
+- <ruby>[[壁虱]]<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby> - tick, bedbug
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 櫛]]

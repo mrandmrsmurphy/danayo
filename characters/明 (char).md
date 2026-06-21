@@ -51,6 +51,7 @@ boundedness: 100
 - [[Lookup/CC/initials/聲 明]] [[Lookup/CC/finals/韻 庚三開]]
 
 ## Words
+- <ruby>[[明蝦]]<rt>ㄇ⼶ㄫㄏㄚ</rt></ruby> "king prawn"
 - <ruby>[[昭明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "shining and bright; luminous"
 - <ruby>[[無明]]<rt>ㄇㄜㄇ⼶ㄫ</rt></ruby> "avidyā; ignorance"
 - <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"

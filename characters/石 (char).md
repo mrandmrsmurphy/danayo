@@ -59,3 +59,4 @@ boundedness: 90
 - [[石版]] "lithograph, slabstone"
 - [[石英]] "quartz"
 - [[石像]] "statue"
+- <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"

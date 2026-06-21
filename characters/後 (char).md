@@ -46,6 +46,7 @@ boundedness: 90
 ## Notes
 - [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md)) · [ㄏㄨㄛ](syllables/ㄏㄨㄛ.md) · [[Lookup/CC/initials/聲 曉|x]] [[Lookup/CC/finals/韻 侯|əu]]
 ## Words
+- <ruby>[[後裔]]<rt>ㄏㄨㄛ⼶</rt></ruby> "descendant"
 - [[後置詞]] "postposition"
 - [[後置]] "place after"
 - [[後悔]] "regret"

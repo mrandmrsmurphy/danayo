@@ -53,5 +53,5 @@ boundedness: 30
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 質三]]
 ## Words
-- [[安逸]]
+- <ruby>[[安逸]]<rt>ㄚㄋㄧㄊ</rt></ruby> "ease, comfort"
 - [[逸話]] "anecdote"

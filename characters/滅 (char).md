@@ -48,3 +48,4 @@ boundedness: 80
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 薛A三開]]
 - [[滅失]] "lose"
+- <ruby>[[隠滅]]<rt>ㄜㄋㄇㄝㄊ</rt></ruby> "destroy (evidence); vanish"
