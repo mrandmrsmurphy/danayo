@@ -52,3 +52,4 @@ boundedness: 100
 ## Words
 - <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> "solstice point"
 - <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> "equinox"
+- <ruby>[[最高点]]<rt>ㄐ⼔ㄍㄚㄨㄉㄝㄇ</rt></ruby> "highest point; peak"

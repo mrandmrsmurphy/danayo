@@ -49,3 +49,4 @@ boundedness: 80
 - [[最近]] "lately, recently"
 - [[最善]] "best"
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"
+- <ruby>[[最高点]]<rt>ㄐ⼔ㄍㄚㄨㄉㄝㄇ</rt></ruby> "highest point; peak"

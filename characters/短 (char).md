@@ -45,6 +45,7 @@ boundedness: 90
 ## Words
 - [[短音]]
 - <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"
+- <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
 
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 桓]]
