@@ -297,7 +297,6 @@
 - [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 
 ## Syllables
-- [[象形]] in [[lookup/List of 象形]], [[words/六書]]
 - [[筆画数]] in [[lookup/Stroke/Stroke]]
 - [[唇音]] in [[syllables/Syllables]]
 - [[歯茎]] in [[syllables/Syllables]]

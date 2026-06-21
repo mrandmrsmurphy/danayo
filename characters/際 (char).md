@@ -47,5 +47,6 @@ boundedness: 100
 ## Words
 1. [[交際]] - socialize, hangout
 2. [[国際]] - international
+3. <ruby>[[実際]]<rt>ㄙㄧㄊㄐㄝ</rt></ruby> - actual; real; in fact
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 祭A三開]]

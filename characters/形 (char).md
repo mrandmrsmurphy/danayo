@@ -68,6 +68,7 @@ While this character can appear alone, it is somewhat rare to do so.
 - <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
 - <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"
 - <ruby>[[字形]]<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph; character shape"
+- <ruby>[[象形]]<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "pictogram; pictographic character"
 
 ## Chengyu
 - <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"
