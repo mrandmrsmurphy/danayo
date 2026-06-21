@@ -52,3 +52,4 @@ boundedness:
 - <ruby>[[携帯]]<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby> "carry with; portable; mobile phone"
 - <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone, belt"
 - <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"
+- <ruby>[[連帯]]<rt>ㄌ⼶ㄋㄊㄚㄧ</rt></ruby> "solidarity; joint (responsibility)"

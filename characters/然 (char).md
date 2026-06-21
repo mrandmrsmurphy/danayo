@@ -50,6 +50,7 @@ boundedness: 90
 - <ruby>[[毅然]]<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby> "resolutely, firmly"
 - [[然後]] "then"
 - <ruby>[[瞭然]]<rt>ㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear, evident"
+- <ruby>[[将然]]<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect); about-to-happen"
 
 # Notes
 [[Lookup/CC/initials/聲 日]]

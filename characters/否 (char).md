@@ -44,3 +44,6 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*brɯʔ, \*pɯʔ): semantic [[不]] ("not") + phonetic [[口]] (OC \*pɯ, \*pɯʔ, \*pɯ').
+
+## Words
+- <ruby>[[否定]]<rt>ㄈㄚㄨㄐㄝㄫ</rt></ruby> "negation; denial"

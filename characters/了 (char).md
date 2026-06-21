@@ -51,3 +51,6 @@ boundedness: 100
 # Notes
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 蕭]]
+
+## Words
+- <ruby>[[完了]]<rt>ㄏ⺢ㄋㄌ⼘ㄨ</rt></ruby> "completion; perfective (aspect)"

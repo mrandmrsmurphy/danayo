@@ -55,3 +55,4 @@ boundedness: 95
 - [[将軍]] "shogun, supreme commander"
 - [[将来]] "future"
 - [[将兵]] "army"
+- <ruby>[[将然]]<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect); about-to-happen"

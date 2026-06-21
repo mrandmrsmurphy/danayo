@@ -49,3 +49,4 @@ boundedness: 90
 - [[接触]] "contact, touch"
 - [[接受]] "accept, receive"
 - [[接吻]] "kiss"
+- <ruby>[[接尾辞]]<rt>ㄐㄛㄆㄇㄨㄧㄑㄧ</rt></ruby> "suffix"

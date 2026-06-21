@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[振動]]<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby> "shake; tremble"
 - <ruby>[[振動音]]<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill"
 - <ruby>[[変動]]<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby> "change, fluctuation"
+- <ruby>[[受動]]<rt>ㄙ⼜ㄉㄛㄫ</rt></ruby> "passive (voice); receptive"
 
 # Notes
 [[Lookup/CC/initials/聲 定]]

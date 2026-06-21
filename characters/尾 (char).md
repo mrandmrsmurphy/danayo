@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[船尾]]<rt>ㄙ⼔ㄇㄇㄨㄧ</rt></ruby> "stern (of a ship)"
 - <ruby>[[首尾]]<rt>ㄙ⼜ㄇㄨㄧ</rt></ruby> "beginning and end"
 - <ruby>[[九尾狐]]<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby> "nine-tailed fox"
+- <ruby>[[接尾辞]]<rt>ㄐㄛㄆㄇㄨㄧㄑㄧ</rt></ruby> "suffix"
 
 ## Chengyu
 - <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"

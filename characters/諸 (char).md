@@ -52,3 +52,4 @@ boundedness: 75
 ## Words
 - <ruby>[[諸子]]<rt>ㄐㄚㄐㄜ</rt></ruby> "the various masters; pre-Qin philosophers"
 - <ruby>[[諸子百家]]<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby> "Hundred Schools of Thought"
+- <ruby>[[諸語]]<rt>ㄐㄚ⼄</rt></ruby> "the various languages (of a family or region)"

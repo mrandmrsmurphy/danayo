@@ -48,3 +48,4 @@ boundedness: 90
 - <ruby>[[名誉]]<rt>ㄇㄧㄫ⼄</rt></ruby> "honor; reputation"
 - [[名刺]] "business card"
 - [[名称]] "appellation,name,title"
+- <ruby>[[代名詞]]<rt>ㄉㄚㄧㄇㄧㄫㄙㄚ</rt></ruby> "pronoun"

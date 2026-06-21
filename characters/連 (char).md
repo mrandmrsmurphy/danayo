@@ -62,3 +62,4 @@ boundedness: 90
 - <ruby>[[連合国]]<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby> "United Nations; Allied Powers"
 - <ruby>[[連濁]]<rt>ㄌ⼶ㄋㄉㄚㄎ</rt></ruby> "rendaku"
 - <ruby>[[連続]]<rt>ㄌ⼶ㄋㄙ⼄ㄎ</rt></ruby> "continuous; consecutive"
+- <ruby>[[連帯]]<rt>ㄌ⼶ㄋㄊㄚㄧ</rt></ruby> "solidarity; joint (responsibility)"

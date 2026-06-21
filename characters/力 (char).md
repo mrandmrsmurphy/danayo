@@ -58,5 +58,6 @@ boundedness: 90
 - <ruby>[独力](/words/独力.md)<rt>ㄉㄛㄎㄌㄧㄎ</rt></ruby> "alone"
 - <ruby>[尽力](/words/尽力.md)<rt>ㄐㄧㄋㄌㄧㄎ</rt></ruby> "exert oneself"
 - <ruby>[実力](/words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby> "strength"
+- <ruby>[[能力]]<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby> "ability; capability"
 ## Chengyu
 - [[心性意力]] - "heart, soul, mind, and strength"

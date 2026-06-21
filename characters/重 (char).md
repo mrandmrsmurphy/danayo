@@ -58,3 +58,4 @@ boundedness: 90
 - <ruby>[[二重]]<rt>ㄋㄧㄜㄑㄛㄫ</rt></ruby> "double; twofold"
 - <ruby>[[軽重]]<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby> "relative importance"
 - <ruby>[[偏重]]<rt>ㄆ⼶ㄋㄑㄛㄫ</rt></ruby> "to overemphasize; bias"
+- <ruby>[[重畳]]<rt>ㄑㄛㄫㄉㄝㄆ</rt></ruby> "reduplication; layering"

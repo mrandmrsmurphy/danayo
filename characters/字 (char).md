@@ -66,5 +66,6 @@ boundedness: 90
 - <ruby>[識字](/words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> - literacy
 - <ruby>[[字形]]<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph; character shape"
 - <ruby>[[字庫]]<rt>ㄐㄧㄎㄛ</rt></ruby> "font library; character repository"
+- <ruby>[[単字]]<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character; single-character word"
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 之]]

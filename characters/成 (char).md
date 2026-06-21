@@ -54,3 +54,4 @@ boundedness: 100
 - [[成功]] "succeed, achieve success, prosper"
 - [[成熟]] "ripen, mature"
 - <ruby>[[道成肉身]]<rt>ㄉㄚㄨㄙㄧㄫㄋㄨㄎㄙㄧㄋ</rt></ruby> "incarnation; the Word became flesh"
+- <ruby>[[合成]]<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby> "synthesis; compound"

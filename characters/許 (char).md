@@ -54,3 +54,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 魚]]
+
+## Words
+- <ruby>[[許可]]<rt>ㄏ⼄ㄎㄜ</rt></ruby> "permission; authorization"

@@ -68,6 +68,7 @@ boundedness: 80
 - [[社交]]
 - [[雑交]]
 - [[性交]]
+- <ruby>[[交替]]<rt>ㄍ⼄ㄨㄑㄝㄧ</rt></ruby> "alternation; to take turns"
 
 ## Chengyu
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"
