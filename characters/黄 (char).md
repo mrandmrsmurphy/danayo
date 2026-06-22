@@ -51,3 +51,4 @@ boundedness: 80
 - [[黄泉]] "underground spring, underworld"
 - [[黄沙]] "yellow sand, Asian dust"
 - [[黄昏]] "sunset"
+- abbreviation for "gold": <ruby>[[黄金]]<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby>

@@ -41,6 +41,7 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for "platinum": <ruby>[[白金]]<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>
 
 ## Words
 - <ruby>[[白及]]<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby> "bai ji; Bletilla striata (ground orchid)"

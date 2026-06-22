@@ -48,6 +48,7 @@ boundedness: 90
 ## Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 模]]
+- abbreviation for "tellurium": <ruby>[[土素]]<rt>ㄊㄛㄙㄛ</rt></ruby>
 
 ## Words
 - <ruby>[[安土]]<rt>ㄚㄋㄊㄛ</rt></ruby> "Azuchi"

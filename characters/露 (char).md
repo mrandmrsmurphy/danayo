@@ -46,6 +46,7 @@ boundedness: 100
 - 1123rd most common characters in Classical Chinese.  [[聲 來|Initial L]] + [[韻 模|Final uo]]
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 模]]
+- abbreviation for "ruthenium": <ruby>[[露金]]<rt>ㄌㄛㄍㄧㄇ</rt></ruby>
 
 ## Words
 - <ruby>[[露月]]<rt>ㄌㄛ⼔ㄊ</rt></ruby> "dew month (10th month)"

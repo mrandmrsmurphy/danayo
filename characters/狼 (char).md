@@ -42,6 +42,7 @@ boundedness: 75
 ## Notes
 
 - 形声 (OC \*raːŋ): semantic [[犭]] ("") + phonetic [[良]] (OC \*raŋ).
+- abbreviation for "tungsten": <ruby>[[狼金]]<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby>
 ## Chengyu
 - [[羊衣餓狼]]
 [[Lookup/CC/initials/聲 來]]

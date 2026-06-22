@@ -57,3 +57,4 @@ boundedness: 100
 - <ruby>[[黒貂]]<rt>ㄏㄨㄎㄑㄛ</rt></ruby> "sable"
 - <ruby>[[黒洞]]<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby> "blackhole"
 - <ruby>[[黒猩]]<rt>ㄏㄨㄎㄙㄝㄫ</rt></ruby> "chimpanzee"
+- <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby> "hassium"

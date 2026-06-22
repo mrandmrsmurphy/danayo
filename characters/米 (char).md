@@ -46,6 +46,7 @@ boundedness: 80
 # Notes
 ## Words
 - [[玄米]] - brown rice
+- <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby> "fermium"
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 齊開]]
 - [[米粟]] "grains, rice and millet"

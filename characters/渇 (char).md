@@ -44,3 +44,4 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 曷]]
+- abbreviation for "tantalum": <ruby>[[渇金]]<rt>ㄎㄚㄊㄍㄧㄇ</rt></ruby>

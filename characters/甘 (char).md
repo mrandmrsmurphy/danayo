@@ -48,3 +48,4 @@ boundedness: 60
 - [[甘藷]] "sweet potato"
 - [[甘味]] "sweetness, sweet taste"
 - <ruby>[[甘蕉]]<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby> "banana; plantain"
+- abbreviation for "cadmium": <ruby>[[炉甘金]]<rt>ㄌㄛㄍㄚㄇㄍㄧㄇ</rt></ruby>

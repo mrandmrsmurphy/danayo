@@ -59,3 +59,4 @@ boundedness: 65
 - <ruby>[[南美洲]]<rt>ㄋㄚㄇㄇㄧㄐㄨㄛ</rt></ruby> "South American continent"
 - <ruby>[[北美]]<rt>ㄅㄨㄎㄇㄧ</rt></ruby> "North America"
 - <ruby>[[南美]]<rt>ㄋㄚㄇㄇㄧ</rt></ruby> "South America"
+- <ruby>[[美洲金]]<rt>ㄇㄧㄐㄨㄛㄍㄧㄇ</rt></ruby> "americium"

@@ -49,5 +49,6 @@ boundedness: 90
 ## Words
 - [[九州]] - Kyushu
 - <ruby>[[兗州]]<rt>⼶ㄋㄐㄨㄛ</rt></ruby> - Yanzhou
+- <ruby>[[加州金]]<rt>ㄍㄚㄐㄨㄛㄍㄧㄇ</rt></ruby> "californium"
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 尤]]

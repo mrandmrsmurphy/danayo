@@ -45,6 +45,7 @@ boundedness: 80
 - [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
 - 124th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 脂B合|ɣiuɪ]] → [ㄙㄨ](syllables/ㄙㄨ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](lookup/Korean/Korean%20MS.md)
+- abbreviation for "mercury": <ruby>[[水銀]]<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
 
 ## Words
 - <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> "water" (stand-in for 水)

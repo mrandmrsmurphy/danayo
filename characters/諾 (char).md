@@ -44,3 +44,5 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 泥]]
 [[../lookup/CC/finals/韻 鈬開]]
+## Words
+- <ruby>[[諾貝金]]<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby> "nobelium"

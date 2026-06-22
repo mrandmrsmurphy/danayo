@@ -54,6 +54,7 @@ boundedness: 80
 - [[愛情]]
 - [[愛護]]
 - <ruby>[[愛爾蘭]]<rt>ㄚㄧㄋㄝㄌㄚㄋ</rt></ruby> "Ireland"
+- <ruby>[[愛因金]]<rt>ㄚㄧㄧㄋㄍㄧㄇ</rt></ruby> "einsteinium"
 ## Chengyu
 - [[愛偕者神]]
 [[Lookup/CC/initials/聲 影]]

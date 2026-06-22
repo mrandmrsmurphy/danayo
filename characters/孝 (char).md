@@ -46,6 +46,7 @@ boundedness: 75
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 肴]]
 - [[孝弟]] "filial piety and fraternal duty"
+- abbreviation for "niobium": <ruby>[[孝金]]<rt>ㄏ⼘ㄨㄍㄧㄇ</rt></ruby>
 
 ## Words
 - <ruby>[[孝廉]]<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby> "filial and incorrupt"

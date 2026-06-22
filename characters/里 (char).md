@@ -45,3 +45,5 @@ boundedness: 100
 - 里 is the traditional East Asian unit of distance; for the Western mile, use 英里.
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 之]]
+## Words
+- <ruby>[[居里金]]<rt>ㄍㄧㄌㄧㄍㄧㄇ</rt></ruby> "curium"

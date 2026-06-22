@@ -201,12 +201,6 @@ All resolved or assessed:
 ## Periodic Table
 - [[二回]] in [[lexipedia/Numbers]]
 - [[二度]] in [[lexipedia/Numbers]]
-- [[西博金]] in [[lexipedia/Periodic Table]]
-- [[玻金]] in [[lexipedia/Periodic Table]]
-- [[黒金]] in [[lexipedia/Periodic Table]]
-- [[邁金]] in [[lexipedia/Periodic Table]]
-- [[達金]] in [[lexipedia/Periodic Table]]
-- [[哥金]] in [[lexipedia/Periodic Table]]
 
 
 

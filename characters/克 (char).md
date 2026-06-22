@@ -46,3 +46,5 @@ boundedness: 100
 [[Lookup/CC/finals/韻 德開]]
 - [[克明]] "discern, meticulous, moral judgment"
 - <ruby>[[迦克敦]]<rt>ㄍㄚㄎㄨㄎㄉㄛㄋ</rt></ruby> "Chalcedon"
+## Words
+- <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby> "berkelium"

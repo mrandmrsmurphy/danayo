@@ -50,3 +50,4 @@ boundedness: 90
 - [[青色]] "blue-green, cyan, grue"
 - [[青年]] "youth, young man"
 - [[青蛙]] "frog"
+- abbreviation for "caesium": <ruby>[[青素]]<rt>ㄑㄝㄫㄙㄛ</rt></ruby>

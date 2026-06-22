@@ -48,6 +48,7 @@ boundedness:
 ## Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 青合]]
+- abbreviation for "yttrium": <ruby>[[蛍金]]<rt>ㄏㄧㄫㄍㄧㄇ</rt></ruby>
 ## Words
 - also called a [[蛍火虫]]
 - [[蛍光]] - florescence

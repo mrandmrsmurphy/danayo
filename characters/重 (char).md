@@ -52,6 +52,7 @@ boundedness: 90
 ## Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 鍾]]
+- abbreviation for "barium": <ruby>[[重素]]<rt>ㄑㄛㄫㄙㄛ</rt></ruby>
 
 ## Words
 - <ruby>[[重複]]<rt>ㄑㄛㄫㄅㄨㄎ</rt></ruby> "repeat; duplicate"

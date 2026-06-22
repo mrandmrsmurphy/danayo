@@ -45,6 +45,7 @@ boundedness: 80
 ## Notes
 
 - 形声 (OC \*ŋrɯn): semantic [[Radical 167|金]] ("metal") + phonetic [[艮]] (OC \*kɯːns).
+- the element word 銀 itself doubles as the periodic table abbreviation for "silver"
 ## Words
 - <ruby>[[銀河]]<rt>ㄧㄋㄏㄚ</rt></ruby> "Milky Way"
 - <ruby>[[銀色]]<rt>ㄧㄋㄙㄧㄎ</rt></ruby> "silver"

@@ -46,3 +46,4 @@ boundedness: 35
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 仙A三合]]
 - [[鉛筆]] "pencil"
+- the element word 鉛 itself doubles as the periodic table abbreviation for "lead"
