@@ -56,6 +56,7 @@ boundedness: 80
 - [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
 - 20th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄊㄝㄋ](syllables/ㄊㄝㄋ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- abbreviation for "uranium": <ruby>[[天金]]<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby>
 ## Chengyu
 - [[天長地久]]
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
