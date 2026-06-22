@@ -38,5 +38,6 @@ boundedness: 75
 ## Notes
 
 - [[../words/錀琴]] roentgens (unit of radiation)
+- the element word 錀 itself doubles as the periodic table abbreviation for "roentgenium"
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 諄]]

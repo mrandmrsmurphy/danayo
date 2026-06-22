@@ -51,3 +51,4 @@ short for 佛陀
 ## Words
 - <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium"
 - <ruby>[[利佛素]]<rt>ㄌㄧㄜㄅㄨㄊㄙㄛ</rt></ruby> "livermorium"
+- abbreviation for "flerovium": <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby>

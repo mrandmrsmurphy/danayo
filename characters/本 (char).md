@@ -54,6 +54,7 @@ boundedness: 45
 - [[本質]] "essence, nature (intrinsic quality)"
 - [[本来]] "origin"
 - <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> "nihonium"
+- abbreviation for "nihonium": <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> — uses 本, the word's second character, since 日 is already taken as the abbreviation for oxygen
 
 ## Chengyu
 - <ruby>[[舎本逐末]]<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> "neglecting the fundamentals while chasing the trivial"

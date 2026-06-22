@@ -51,3 +51,4 @@ boundedness: 50
 ## Words
 - <ruby>[[奥斯曼]]<rt>ㄨㄎㄙㄧㄇㄚㄋ</rt></ruby> "Ottoman"
 - <ruby>[[奥加素]]<rt>ㄨㄎㄍㄚㄙㄛ</rt></ruby> "oganesson"
+- abbreviation for "oganesson": <ruby>[[奥加素]]<rt>ㄨㄎㄍㄚㄙㄛ</rt></ruby>

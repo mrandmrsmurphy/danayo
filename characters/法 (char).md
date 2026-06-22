@@ -56,3 +56,4 @@ boundedness: 100
 - [[法輪]] "wheel of dharma"
 - [[法則]] "law, rule, code"
 - [[法螺]] "boast"
+- abbreviation for "francium": <ruby>[[法素]]<rt>ㄈㄚㄆㄙㄛ</rt></ruby>

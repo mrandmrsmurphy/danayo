@@ -55,5 +55,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 透]]
 [[Lookup/CC/finals/韻 曷]]
+- abbreviation for "darmstadtium": <ruby>[[達金]]<rt>ㄊㄚㄊㄍㄧㄇ</rt></ruby>
 ## Words
 - <ruby>[[達金]]<rt>ㄊㄚㄊㄍㄧㄇ</rt></ruby> "darmstadtium"

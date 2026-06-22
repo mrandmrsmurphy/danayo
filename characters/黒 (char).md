@@ -49,6 +49,7 @@ boundedness: 100
 - [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
 - 851st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄏㄨㄎ](syllables/ㄏㄨㄎ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- abbreviation for "hassium": <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby>
 
 ## Words
 - <ruby>[[黒色]]<rt>ㄏㄨㄎㄙㄧㄎ</rt></ruby> "black, the color black"

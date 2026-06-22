@@ -55,3 +55,4 @@ boundedness: 75
 
 ## Words
 - <ruby>[[莫斯素]]<rt>ㄇㄚㄎㄙㄧㄙㄛ</rt></ruby> "moscovium"
+- abbreviation for "moscovium": <ruby>[[莫斯素]]<rt>ㄇㄚㄎㄙㄧㄙㄛ</rt></ruby>
