@@ -44,6 +44,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for "einsteinium": <ruby>[[愛因金]]<rt>ㄚㄧㄧㄋㄍㄧㄇ</rt></ruby>
 
 ## Words
 - <ruby>[[愛媛]]<rt>ㄚㄧ·ㄛㄋ</rt></ruby> "Ehime Prefecture"

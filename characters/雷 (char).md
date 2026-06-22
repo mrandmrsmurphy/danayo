@@ -51,3 +51,4 @@ boundedness: 70
 ## Words
 - <ruby>[[雷電]]<rt>ㄌㄛㄧㄉㄝㄋ</rt></ruby> "thunder and lightning"
 - <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium"
+- abbreviation for "thorium": <ruby>[[雷金]]<rt>ㄌㄛㄧㄍㄧㄇ</rt></ruby>

@@ -48,5 +48,6 @@ boundedness: 80
 - 栢 was dropped from the Korean HS list in 2000.
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 陌二開]]
+- abbreviation for "berkelium": <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby>
 ## Words
 - <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby> "berkelium"

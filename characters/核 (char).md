@@ -46,3 +46,4 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 麥開]]
+- abbreviation for "ytterbium": <ruby>[[核金]]<rt>ㄏㄚㄎㄍㄧㄇ</rt></ruby>

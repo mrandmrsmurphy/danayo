@@ -54,6 +54,7 @@ boundedness: 65
 - [[美徳]] "virtue"
 - <ruby>[[賛美]]<rt>ㄐㄚㄋㄇㄧ</rt></ruby> "praise"
 - <ruby>[[賛美歌]]<rt>ㄐㄚㄋㄇㄧㄍㄜ</rt></ruby> "hymn"
+- abbreviation for "americium": <ruby>[[美洲金]]<rt>ㄇㄧㄐㄨㄛㄍㄧㄇ</rt></ruby>
 ## Words
 - <ruby>[[北美洲]]<rt>ㄅㄨㄎㄇㄧㄐㄨㄛ</rt></ruby> "North American continent"
 - <ruby>[[南美洲]]<rt>ㄋㄚㄇㄇㄧㄐㄨㄛ</rt></ruby> "South American continent"

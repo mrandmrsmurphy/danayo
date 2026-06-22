@@ -49,3 +49,4 @@ boundedness: 70
 - <ruby>[爹](/characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 歌]]
+- abbreviation for "gadolinium": <ruby>[[加多金]]<rt>ㄍㄚㄉㄚㄍㄧㄇ</rt></ruby> — uses 多, the word's second character, since 加 is already taken as the abbreviation for californium

@@ -51,3 +51,4 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 緝B三]]
+- abbreviation for "samarium": <ruby>[[吸金]]<rt>ㄏㄧㄆㄍㄧㄇ</rt></ruby>

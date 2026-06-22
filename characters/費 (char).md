@@ -47,5 +47,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 敷]]
 [[Lookup/CC/finals/韻 微合]]
+- abbreviation for "fermium": <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby>
 ## Words
 - <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby> "fermium"

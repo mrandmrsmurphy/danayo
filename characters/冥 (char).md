@@ -52,3 +52,4 @@ boundedness: 90
 [[Lookup/CC/finals/韻 青開]]
 ## Words
 - <ruby>[[冥王]]<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby> "Pluto; Hades; Yama; King of the Underworld"
+- abbreviation for "plutonium": <ruby>[[冥金]]<rt>ㄇㄝㄫㄍㄧㄇ</rt></ruby>

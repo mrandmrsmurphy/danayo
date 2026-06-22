@@ -47,3 +47,4 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 曷]]
+- abbreviation for "holmium": <ruby>[[褐金]]<rt>ㄏㄚㄊㄍㄧㄇ</rt></ruby>
