@@ -50,3 +50,4 @@ boundedness: 90
 - [[公共]]
 - [[越共]]
 - <ruby>[[共産党]]<rt>ㄍ⼄ㄫㄙㄚㄋㄉㄚㄫ</rt></ruby> "Communist Party"
+- <ruby>[[共格]]<rt>ㄍ⼄ㄫㄍㄚㄎ</rt></ruby> "comitative case"

@@ -50,3 +50,4 @@ boundedness: 50
 - [[有様]] "forebearingly, calmly (dated)"
 - [[有名]] "famous"
 - [[有机]] "organic"
+- <ruby>[[有生]]<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"

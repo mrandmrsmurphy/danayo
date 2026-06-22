@@ -53,3 +53,4 @@ boundedness: 90
 - <ruby>[[転化]]<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby> "change; transformation"
 - [[化粧]] "put on make-up"
 - [[化身]] "reincarnate,incarnate"
+- <ruby>[[量化詞]]<rt>ㄌ⼘ㄫㄏ⺢ㄙㄚ</rt></ruby> "quantifier"

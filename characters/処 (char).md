@@ -49,3 +49,4 @@ boundedness: 65
 [[Lookup/CC/finals/韻 魚]]
 - [[処決]] "handle,resolve,execute"
 - [[処分]] "punish,discipline"
+- <ruby>[[処格]]<rt>ㄑㄛㄍㄚㄎ</rt></ruby> "locative case"

@@ -46,6 +46,7 @@ boundedness:
 ## Words
 - <ruby>[[様式]]<rt>⼘ㄫㄙㄧㄎ</rt></ruby> "type, style, pattern"
 - <ruby>[[多様]]<rt>ㄉㄜ⼘ㄫ</rt></ruby> "diverse, diversity"
+- <ruby>[[様態格]]<rt>⼘ㄫㄊㄚㄧㄍㄚㄎ</rt></ruby> "manner case"
 
 ## Notes
 [[Lookup/CC/initials/聲 疑]]

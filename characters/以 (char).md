@@ -55,3 +55,5 @@ boundedness: 90
 - [[以後]]
 - [[既以]]
 - [[為以]] 
+- <ruby>[[可以]]<rt>ㄎㄜㄧ</rt></ruby> "can, may (permissive)"
+- <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"

@@ -45,3 +45,6 @@ boundedness: 80
 [[Lookup/CC/initials/聲 邪]]
 [[Lookup/CC/finals/韻 之]]
 - 形声 (OC \*ljɯʔ): semantic [[Radical 009|亻]] ("human") + phonetic [[以]] (OC \*lɯʔ).
+
+## Words
+- <ruby>[[類似格]]<rt>ㄌㄨㄧㄙㄚㄍㄚㄎ</rt></ruby> "similative case"

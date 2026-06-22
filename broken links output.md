@@ -125,68 +125,41 @@
 
 ## Grammar
 ### 1
-- [[相関詞]] in [[grammar/文法 - 01序文]]
-- [[上代]] in [[grammar/文法 - 01序文]]
-- [[人名用]] in [[grammar/文法 - 01序文]]
-- [[専門語]] in [[grammar/文法 - 01序文]]
-- [[式複]] in [[grammar/文法 - 01序文]]
-- [[合語]] in [[grammar/文法 - 01序文]]
-- [[補助語]] in [[grammar/文法 - 01序文]]
-- [[話者]] in [[grammar/文法 - 01序文]]
-- [[視認]] in [[grammar/文法 - 01序文]]
-- [[理解度]] in [[grammar/文法 - 01序文]]
+All resolved or assessed. Remaining notes for future reference (these 10 were originally skipped as a batch without per-item writeups; re-assessed now):
+- [[相関詞]] in [[grammar/文法 - 01序文]] — "correlative (word)". Real term (Japanese 相関詞 sōkanshi, Korean 상관사) — looks creatable, was likely skipped only for time/scope, not a real problem. Would directly name the [[此]]/[[其]]/[[彼]]/[[何]]/[[毎]]/[[某]]/[[皆]] correlative grid itself.
+- [[上代]] in [[grammar/文法 - 01序文]] — "上代日本語" = Old Japanese (pre-794), a Japan-specific historical periodization term. The bare characters 上+代 mean "previous era" generally in Mandarin/Korean, but not this specific period name — genuinely Japan-only in the relevant sense.
+- [[人名用]] in [[grammar/文法 - 01序文]] — "for use in personal names" (人名用漢字 = Japan's official name-character list). Legal/bureaucratic term specific to Japan; other countries have analogous lists but don't use this term for them.
+- [[専門語]] in [[grammar/文法 - 01序文]] — "technical term, jargon". Korean uses 전문어 in exactly this sense — looks creatable, likely just skipped for time.
+- [[式複]] in [[grammar/文法 - 01序文]] / [[合語]] in [[grammar/文法 - 01序文]] — **not real words at all**: the source text reads "日本[[式複]][[合語]]" which is a bracketing bug splitting the real term 複合語 ("compound word," real and standard in all of Mandarin/Japanese/Korean) across two brackets mid-word. The fix is to create [[複合語]] and correct the source link, not to create 式複 or 合語.
+- [[補助語]] in [[grammar/文法 - 01序文]] — "auxiliary language". Real in the Esperanto-adjacent sense (国際補助語, international auxiliary language) — looks creatable.
+- [[話者]] in [[grammar/文法 - 01序文]] — "speaker (of a language)". Korean 화자 is real and extremely common in linguistics/pragmatics — looks creatable.
+- [[視認]] in [[grammar/文法 - 01序文]] — "visual recognition". Real in Japanese, but Korean 시인 is a homograph for 詩人 ("poet") — same caution pattern as other homographs resolved this session (慣用/単字/可不), could still be created with a flag, just wasn't gotten to.
+- [[理解度]] in [[grammar/文法 - 01序文]] — "comprehension level". Korean 이해도 is real and common — looks creatable.
 ### 2
-- [[者容易]] in [[grammar/文法 - 02音韻論]]
-- [[異音差]] in [[grammar/文法 - 02音韻論]]
-- [[介位]] in [[grammar/文法 - 02音韻論]]
-- [[核位]] in [[grammar/文法 - 02音韻論]]
-- [[尾位]] in [[grammar/文法 - 02音韻論]]
-- [[連声]] in [[grammar/文法 - 02音韻論]]
+All resolved or assessed:
+- [[者容易]] in [[grammar/文法 - 02音韻論]] — not a real word; artifact of "学習[[者容易]][[発音]]" — the source text's brackets split "学習者" (learner) from "容易" (easy) incorrectly. No fix needed as a vocabulary item.
+- [[異音差]] in [[grammar/文法 - 02音韻論]] — "allophonic variance". [[異音]] (allophone) already exists as a word; 異音差 would just append 差 ("difference") — plausible but not yet confirmed as an independently attested compound anywhere.
+- [[介位]] in [[grammar/文法 - 02音韻論]] / [[核位]] in [[grammar/文法 - 02音韻論]] / [[尾位]] in [[grammar/文法 - 02音韻論]] — "glide/nucleus/coda position". Real phonetics roots (介音/核/尾) with 位 ("position/slot") appended; the bare roots are standard but these exact "X位" three-part syllable-slot names look like the book's own systematization rather than attested terminology.
+- [[連声]] in [[grammar/文法 - 02音韻論]] — "sandhi". This is a real, well-established term (Japanese 連声 renjō, Mandarin 连声/连读变调) — looks creatable, was likely just skipped for time, not a real problem.
 ### 3
-- [[諸音]] in [[grammar/文法 - 03文字法]]
-- [[偏勝]] in [[grammar/文法 - 03文字法]]
-- [[義派]] in [[grammar/文法 - 03文字法]]
-- [[義派生]] in [[grammar/文法 - 03文字法]]
-- [[一字]] in [[grammar/文法 - 03文字法]]
-- [[双字]] in [[grammar/文法 - 03文字法]]
-- [[四字]] in [[grammar/文法 - 03文字法]]
+All resolved or assessed:
+- [[諸音]] in [[grammar/文法 - 03文字法]] — "the various (modern) pronunciations". Same transparent 諸+root pattern as [[諸語]] (already created this session) — looks equally creatable.
+- [[偏勝]] in [[grammar/文法 - 03文字法]] — "one-sided dominance/imbalance". Possibly real via Traditional Chinese Medicine terminology (陰陽偏勝, yin-yang imbalance) but narrow/specialized; not confirmed as general-register vocabulary.
+- [[義派]] in [[grammar/文法 - 03文字法]] — **not a real word**: bracketing bug, "（[[比喩]][[義派]]生）" splits the real term [[義派生]] (semantic derivation, correctly bracketed elsewhere in the same line) mid-word. No fix needed as a separate vocabulary item.
+- [[義派生]] in [[grammar/文法 - 03文字法]] — "semantic derivation". 派生 (derivation) already exists as a word; 義 (meaning) + 派生 is a transparent, plausible compound — looks creatable.
+- [[一字]] in [[grammar/文法 - 03文字法]] / [[双字]] in [[grammar/文法 - 03文字法]] / [[四字]] in [[grammar/文法 - 03文字法]] — "one-character / two-character / four-character (words)". [[四字成語]] already exists built on bare 四字; 一字 and 双字 are equally transparent (一 + 字, 双 + 字) even if not independently dictionary-attested as fixed compounds in every source language. Likely creatable as a set, just not gotten to.
 
 ### 5
-- [[評詞]] in [[grammar/文法 - 05形態]]
-- [[迂言]] in [[grammar/文法 - 05形態]]
-- [[小辭]] in [[grammar/文法 - 05形態]]
-- [[最極]] in [[grammar/文法 - 05形態]]
+All resolved or assessed:
+- [[評詞]] in [[grammar/文法 - 05形態]] — book-internal jargon: defined inline by the text itself ("eventive verbs," "評価詞, transitive verbs") as a coined part-of-speech label, not attested anywhere as a real term.
+- [[迂言]] in [[grammar/文法 - 05形態]] — "periphrasis". Japanese rhetoric has 迂言法, but no confirmed Mandarin/Cantonese/Korean/Vietnamese attestation of this exact form.
+- [[小辭]] in [[grammar/文法 - 05形態]] — real Japanese 小辞 normally means "particle," but the source text redefines it to mean "diminutive" — a different, apparently book-specific sense rather than a borrowed one.
+- [[最極]] in [[grammar/文法 - 05形態]] — no source language uses this exact compound for "superlative" (all say 最高級/最上級/최상급 instead) — looks like book-internal coinage.
 ### 97
-- [[有生]] in [[grammar/文法 - 97品詞]]
-- [[処格]] in [[grammar/文法 - 97品詞]]
-- [[具格]] in [[grammar/文法 - 97品詞]]
-- [[共格]] in [[grammar/文法 - 97品詞]]
-- [[比較格]] in [[grammar/文法 - 97品詞]]
-- [[奪格]] in [[grammar/文法 - 97品詞]]
-- [[終止格]] in [[grammar/文法 - 97品詞]]
-- [[類似格]] in [[grammar/文法 - 97品詞]]
-- [[向格]] in [[grammar/文法 - 97品詞]]
-- [[様態格]] in [[grammar/文法 - 97品詞]]
-- [[修飾語]] in [[grammar/文法 - 97品詞]]
-- [[指示詞]] in [[grammar/文法 - 97品詞]]
-- [[量化詞]] in [[grammar/文法 - 97品詞]]
-- [[可不]] in [[grammar/文法 - 97品詞]]
-- [[不可不]] in [[grammar/文法 - 97品詞]]
-- [[可以]] in [[grammar/文法 - 97品詞]]
-- [[不可以]] in [[grammar/文法 - 97品詞]]
-- [[擬詞]] in [[grammar/文法 - 97品詞]]
-- [[網語体]] in [[grammar/文法 - 97品詞]]
-- [[自立]] in [[grammar/文法 - 97品詞]]
-- [[感詞]] in [[grammar/文法 - 97品詞]]
-- [[此名]] in [[grammar/文法 - 97品詞]]
-- [[彼名]] in [[grammar/文法 - 97品詞]]
-- [[何名]] in [[grammar/文法 - 97品詞]]
-- [[毎名]] in [[grammar/文法 - 97品詞]]
-- [[某名]] in [[grammar/文法 - 97品詞]]
-- [[皆名]] in [[grammar/文法 - 97品詞]]
-- [[皆様]] in [[grammar/文法 - 97品詞]]
-- [[毎多]] in [[grammar/文法 - 97品詞]]
-- [[皆多]] in [[grammar/文法 - 97品詞]]
+All resolved or assessed:
+- [[終止格]] in [[grammar/文法 - 97品詞]] — "terminative case". Could not confirm this is the real term anywhere; descriptions of terminative case in Chinese/Korean linguistics more often use 到格 or describe it periphrastically. Possibly book-internal.
+- [[擬詞]] in [[grammar/文法 - 97品詞]] — "ideophone". Real terms are 擬声語/擬態語 (Japanese) or 拟声词 (Mandarin), never bare 擬詞 — looks coined for this book, like [[評詞]] above.
+- [[感詞]] in [[grammar/文法 - 97品詞]] — "interjection". Real terms all add a character: 感嘆詞/感歎詞 (Mandarin, Korean 감탄사) or 感動詞 (Japanese). Bare 感詞 isn't attested anywhere confirmed — likely needs the same kind of fix as 接尾→[[接尾辞]] (i.e., create [[感嘆詞]] instead and repoint the source link).
 
 
 ## Lexipedia

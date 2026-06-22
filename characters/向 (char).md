@@ -53,5 +53,6 @@ boundedness: 100
 - alone, it is only a postposition
 - for "direction", use [[方向]]
 - for "lean, incline" (verbal) use <ruby>[[傾向]]<rt>ㄎㄝㄫㄏ⼘ㄫ</rt></ruby> "tendency; inclination"
+- <ruby>[[向格]]<rt>ㄏ⼘ㄫㄍㄚㄎ</rt></ruby> "allative case"
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 陽開]]
