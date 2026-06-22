@@ -52,3 +52,6 @@ boundedness: 75
 - [寞](寞.md)
 [[Lookup/CC/initials/聲 明]]
 [[../lookup/CC/finals/韻 鈬開]]
+
+## Words
+- <ruby>[[莫斯素]]<rt>ㄇㄚㄎㄙㄧㄙㄛ</rt></ruby> "moscovium"

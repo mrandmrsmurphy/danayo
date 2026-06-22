@@ -47,3 +47,7 @@ boundedness: 40
 short for 佛陀
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 物]]
+
+## Words
+- <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium"
+- <ruby>[[利佛素]]<rt>ㄌㄧㄜㄅㄨㄊㄙㄛ</rt></ruby> "livermorium"

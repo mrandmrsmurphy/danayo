@@ -58,3 +58,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 泥]]
 [[Lookup/CC/finals/韻 合]]
+
+## Words
+- <ruby>[[田納素]]<rt>ㄉㄝㄋㄋㄚㄆㄙㄛ</rt></ruby> "tennessine"

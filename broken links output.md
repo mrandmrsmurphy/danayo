@@ -201,12 +201,6 @@ All resolved or assessed:
 ## Periodic Table
 - [[二回]] in [[lexipedia/Numbers]]
 - [[二度]] in [[lexipedia/Numbers]]
-- [[日本素]] in [[lexipedia/Periodic Table]]
-- [[佛雷素]] in [[lexipedia/Periodic Table]]
-- [[莫斯素]] in [[lexipedia/Periodic Table]]
-- [[利佛素]] in [[lexipedia/Periodic Table]]
-- [[田納素]] in [[lexipedia/Periodic Table]]
-- [[奥加素]] in [[lexipedia/Periodic Table]]
 - [[西博金]] in [[lexipedia/Periodic Table]]
 - [[玻金]] in [[lexipedia/Periodic Table]]
 - [[黒金]] in [[lexipedia/Periodic Table]]
