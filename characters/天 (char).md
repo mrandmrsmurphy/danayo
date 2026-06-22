@@ -5,7 +5,7 @@ korean: "천"
 korean_native: 하늘
 japanese:
   - TEN
-japanese_native: " かみ"
+japanese_native: "かみ"
 vietnamese:
   - thiên
 middle_chinese_initial: tʰ
@@ -41,6 +41,7 @@ aliases:
   - 靔
   - 𠀑
 注音: ㄊㄝㄋ
+date-last-perfect: 2026-06-22
 kwin: false
 tags:
   - character
@@ -58,36 +59,48 @@ boundedness: 80
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 - abbreviation for "uranium": <ruby>[[天金]]<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby>
 ## Chengyu
-- [[天長地久]]
+- [[天長地久]] "continuing unchanged as long as there has been heaven and earth"
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
-- [[../chengyu/天真乱漫]]
-- [[海闊天空]]
-- [[開天辟地]]
-- [[孝親天賜]]
+- [[天真乱漫]] "simple and artless"
+- [[海闊天空]] "as boundless as the sky and sea; free and unrestrained"
+- [[開天辟地]] "to open Heaven and cleave the Earth; an epoch-making event"
+- [[孝親天賜]] "honor your parents, that heaven may bless you"
 
 ## Words
+- <ruby>[[天地]]<rt>ㄊㄝㄋㄉㄧㄜ</rt></ruby> "heaven and earth; the world"
+- <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> "the world; all under heaven"
+- <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
+- <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
+- <ruby>[[天主]]<rt>ㄊㄝㄋㄐㄨ</rt></ruby> "God"
+- <ruby>[[天神地祇]]<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby> "all the gods of heaven and earth"
+- <ruby>[[天子]]<rt>ㄊㄝㄋㄐㄧ</rt></ruby> "Son of Heaven (the emperor)"
+- <ruby>[[九天]]<rt>ㄎ⼜ㄊㄝㄋ</rt></ruby> "the Ninth Heaven"
+- <ruby>[[天常]]<rt>ㄊㄝㄋㄙ⼘ㄫ</rt></ruby> "natural law"
+- <ruby>[[天運]]<rt>ㄊㄝㄋ·ㄨㄋ</rt></ruby> "fate from heaven"
+- <ruby>[[天祐]]<rt>ㄊㄝㄋ·⼜</rt></ruby> "divine aid"
+- <ruby>[[天生]]<rt>ㄊㄝㄋㄙㄚㄫ</rt></ruby> "natural; intrinsic"
+- <ruby>[[天真]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "innocent; naive"
+- <ruby>[[天才]]<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby> "genius; talented"
+- <ruby>[[天道]]<rt>ㄊㄝㄋㄙㄚㄨ</rt></ruby> "law of nature; god of heaven"
+- <ruby>[[天空]]<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby> "sky"
+- <ruby>[[天頂]]<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> "zenith"
+- <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> "nadir"
+- <ruby>[[天気]]<rt>ㄊㄝㄋㄎㄧㄜ</rt></ruby> "weather"
+- <ruby>[[天文]]<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby> "celestial objects"
+- <ruby>[[天文学]]<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby> "astronomy"
+- <ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> "heavenly stems"
+- <ruby>[[天王星]]<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby> "Uranus"
+- <ruby>[[天狼星]]<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby> "Sirius"
 - <ruby>[[天竺]]<rt>ㄊㄝㄋㄐㄨㄎ</rt></ruby> "India"
 - <ruby>[[天竺鼠]]<rt>ㄊㄝㄋㄐㄨㄎㄙ⼄</rt></ruby> "guinea pig"
-- [[天鵝]]
+- <ruby>[[天鼠]]<rt>ㄊㄝㄋㄙ⼄</rt></ruby> "bat"
+- <ruby>[[天鵝]]<rt>ㄊㄝㄋ·ㄚ</rt></ruby> "swan"
 - <ruby>[[天鵝絨]]<rt>ㄊㄝㄋ·ㄚㄋㄨㄫ</rt></ruby> "velvet"
-- [[堕天使]]
-- [[天狗]]
-- [[天気]]
-- [[天空]]
-- [[天道]]
-- [[words/天鼠]]
-- [[天生]]
-- [[天運]]
-- [[信天翁]]
-- [[天才]]
-- [[天真]]
-- [[昇天]]
-- [[天主]]
-- [[天狼星]]
-- <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> "nadir"
-- <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
-- <ruby>[[天頂]]<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> "zenith"
-- <ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> "heavenly stems"
+- <ruby>[[信天翁]]<rt>ㄙㄧㄋㄊㄝㄋㄛㄫ</rt></ruby> "albatross"
+- <ruby>[[天狗]]<rt>ㄊㄝㄋㄍㄛㄨ</rt></ruby> "tengu"
+- <ruby>[[天花]]<rt>ㄊㄝㄋㄏ⺢</rt></ruby> "snowflake; lotus-petal confetti"
+- <ruby>[[堕天使]]<rt>ㄉ⺢ㄊㄝㄋㄙㄧ</rt></ruby> "fallen angel"
+- <ruby>[[天皇]]<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> "Emperor of Japan"
+- <ruby>[[昇天]]<rt>ㄙㄨㄫㄊㄝㄋ</rt></ruby> "to ascend to heaven; to die"
 - <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"
-- <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
