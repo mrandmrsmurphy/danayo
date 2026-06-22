@@ -50,7 +50,7 @@ cssclasses:
 
 111 leads to the name <ruby>[錀琴](/words/錀琴.md)<rt>ㄌㄛㄋㄍㄨㄇ</rt></ruby> for röntgens
 
-## Abbreviated
+## Abbreviations
 ```
 ────┼─────────────────────────────────────────────────
  1  │ 軽 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · ·  ·  · 日
@@ -64,4 +64,3 @@ cssclasses:
  L  | 穀 韮 磁 孫 吸 欧 多 翠 難 褐 桃 嬴 核 沼 
  A  | 雷 副 天 海 冥 美 里 柏 加 愛 費 門 諾 倫
 ```
-### To be done 

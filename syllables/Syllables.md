@@ -211,14 +211,14 @@ views:
       - english
       - file.mtime
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: english
         direction: ASC
       - property: size
         direction: DESC
       - property: file.mtime
         direction: DESC
-      - property: date-last-perfect
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: 羅馬字
