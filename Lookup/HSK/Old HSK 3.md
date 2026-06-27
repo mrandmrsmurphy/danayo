@@ -964,7 +964,7 @@ tags: [lookup]
 [輕](../../characters/軽%20(char).md): 2
 [[醒]]: 2
 [[拳]]: 2
-[[仍]]: 2
+[[../../characters/仍 (char)]]: 2
 [[旧 (char)]]: 2
 [舊](../../characters/旧%20(char).md): 2
 [[益]]: 2

@@ -12,7 +12,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby> - benevolence
 2. <ruby>[仇](/characters/仇.md)<rt>ㄍ⼜</rt></ruby> - foe
-3. <ruby>[仍](/characters/仍.md)<rt>ㄋㄧㄫ</rt></ruby> - yet, still
+3. <ruby>[仍 (char)](../../../characters/仍%20(char).md)<rt>ㄋㄧㄫ</rt></ruby> - yet, still
 4. <ruby>[切](/characters/切%20(char).md)<rt>ㄑㄝㄊ</rt></ruby> - carve
 5. <ruby>[刈](/characters/刈%20(char).md)<rt>⼘ㄧ</rt></ruby> - mow
 6. <ruby>[化](/characters/化%20(char).md)<rt>ㄏㄨㄚ</rt></ruby> -ification

@@ -624,7 +624,7 @@ tags: [lookup]
 [巧](../../characters/巧.md): 2
 [染](../../characters/染.md): 2
 [绕](../../characters/繞%20(char).md): 2
-[仍](../../characters/仍.md): 2
+[仍 (char)](../../characters/仍%20(char).md): 2
 [賽](../../characters/賽.md): 2
 [色](../../characters/色.md): 2
 [傷](../../characters/傷.md): 2

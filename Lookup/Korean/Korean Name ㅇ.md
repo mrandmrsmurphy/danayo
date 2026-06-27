@@ -203,7 +203,7 @@ All have been checked for redirects.
 [廿](characters/廿.md) 
 
 ### 잉 
-[剩](characters/剰.md) [仍](characters/仍.md) [孕](characters/孕.md) [[芿]]
+[剩](characters/剰.md) [仍 (char)](../../characters/仍%20(char).md) [孕](characters/孕.md) [[芿]]
 
 ## Datacheck
 ```dataviewjs
