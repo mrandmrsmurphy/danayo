@@ -48,7 +48,7 @@ boundedness: 90
 - <ruby>[[斐然]]<rt>ㄈㄨㄧㄋ⼶ㄋ</rt></ruby> "remarkable; brilliant"
 - <ruby>[[厳然]]<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby> "solemn; dignified"
 - <ruby>[[毅然]]<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby> "resolutely, firmly"
-- [[然後]] "then"
+- <ruby>[[然後]]<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby> "then; after that"
 - <ruby>[[瞭然]]<rt>ㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear, evident"
 - <ruby>[[将然]]<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect); about-to-happen"
 
