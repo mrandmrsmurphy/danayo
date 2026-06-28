@@ -6,13 +6,10 @@ Dan’a’yo is a **topic-prominent, predominantly isolating language** with **a
 More precisely:
 
 - **Morphology**: isolating core + agglutinative functional morphology
-    
 - **Alignment**: discourse-driven (topic-prominent), not nominative–accusative or ergative in the usual sense
-    
 - **Word order**: rigid **topic–comment**, internally **head-final (SOV-like)**
-    
 - **Marking type**: strongly **analytic**, with optional but systematic **postpositional case marking**
-    
+
 ## 2. Morphology
 
 ### 2.1 Core type
@@ -20,11 +17,8 @@ More precisely:
 Lexical items are **monosyllabic, discrete, and non-inflecting**, corresponding closely to characters. There are:
 
 - no clitics
-    
 - no phonological fusion across word boundaries
-    
 - clear morpheme boundaries at all times
-    
 
 This places Dan’a’yo firmly in the **isolating typological class** (cf. Classical Chinese, Vietnamese).
 
@@ -33,33 +27,23 @@ This places Dan’a’yo firmly in the **isolating typological class** (cf. Clas
 A secondary layer introduces **strictly ordered affixation**:
 
 - TAM, mood, evidential, and related categories are expressed via **prefixes and suffixes**
-    
 - ordering is **fixed and compositional**
-    
 - each morpheme contributes a single function
-    
 
 This is **agglutinative behavior**, but restricted to functional morphology rather than lexical stems.
 
 ### 2.3 Derivation
 
 - Productive derivation occurs via **compounding and relational linking (之)**
-    
 - Affixes such as 化 behave as **true derivational morphemes**, not clitics
-    
 
 ### 2.4 Reduplication
 
 Reduplication is productive:
-
 - **Nouns**: diminutive / affective
-    
     - 山 → 山山
-        
 - **Verbs**: iterative / intensifying
-    
     - 停止 → 停停止
-        
 
 Both **full and partial reduplication** occur, aligning with East and Southeast Asian typology.
 
@@ -68,11 +52,8 @@ Both **full and partial reduplication** occur, aligning with East and Southeast 
 The system is **rigidly lexicalized** in formal usage:
 
 - 名詞 (nouns)
-    
 - 事詞 (eventives; transitive predicates)
-    
 - 性詞 (statives)
-    
 
 There is **no zero-derivation across categories** in standard language.  
 Informal speech permits drift, but it is not grammatically licensed.
