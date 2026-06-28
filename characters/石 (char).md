@@ -58,5 +58,5 @@ boundedness: 90
 - <ruby>[[石油]]<rt>ㄙㄝㄎ⼜</rt></ruby> "petroleum"
 - [[石版]] "lithograph, slabstone"
 - [[石英]] "quartz"
-- [[石像]] "statue"
+- <ruby>[[石像]]<rt>ㄙㄝㄎㄙ⼘ㄫ</rt></ruby> "stone statue"
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"

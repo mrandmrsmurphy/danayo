@@ -46,6 +46,7 @@ boundedness: 90
 ## Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 東三]]
+- <ruby>[[台風]]<rt>ㄉㄚㄧㄈㄨㄫ</rt></ruby> "typhoon"
 - <ruby>[[屏風]]<rt>ㄅㄧㄫㄈㄨㄫ</rt></ruby> "folding screen"
 - <ruby>[[狂風]]<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby> "gale; violent wind"
 - [[風刺]] "satarize, mock"
