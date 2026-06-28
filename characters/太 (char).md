@@ -33,7 +33,7 @@ aliases:
   - 冭
 注音: ㄊㄚㄧ
 kwin: true
-date-last-perfect: 2026-05-20
+date-last-perfect: 2026-06-27
 tags:
   - character
 boundedness: 90
@@ -63,3 +63,12 @@ boundedness: 90
 - <ruby>[[太素]]<rt>ㄊㄚㄧㄙㄛ</rt></ruby> "Great Plainness"
 - <ruby>[[太極]]<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby> "Supreme Ultimate"
 - <ruby>[[太平]]<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby> "peaceful"
+- <ruby>[[太始]]<rt>ㄊㄚㄧㄙㄧ</rt></ruby> "Great Primordium"
+- <ruby>[[太陰]]<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby> "the moon; yin"
+- <ruby>[[太陽]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "the sun"
+- <ruby>[[太陽系]]<rt>ㄊㄚㄧ·⼘ㄫㄏㄝㄧ</rt></ruby> "solar system"
+- <ruby>[[太陽暦]]<rt>ㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "solar calendar"
+- <ruby>[[太陰暦]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
+- <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧ·ㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
+- <ruby>[[太極拳]]<rt>ㄊㄚㄧㄍㄧㄊㄍ⼔ㄋ</rt></ruby> "Taijiquan; tai chi"
+- <ruby>[[太様]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "greatly; exceedingly"
