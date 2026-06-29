@@ -15,6 +15,8 @@ views:
       - 諺文
       - file.mtime
     sort:
+      - property: pos
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
       - property: file.mtime
@@ -23,8 +25,6 @@ views:
         direction: ASC
       - property: 注音
         direction: DESC
-      - property: pos
-        direction: ASC
       - property: english
         direction: ASC
       - property: 諺文
