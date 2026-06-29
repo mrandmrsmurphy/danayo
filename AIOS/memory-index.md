@@ -27,6 +27,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Graphemic substitution words](memory/feedback_graphemic_substitution_words.md) — 借代字 words (e.g. 且爵 for 咀嚼): foreign-language fields carry the real target word's readings, 羅馬字/諺文/注音 are mechanical from the substitute characters
 - [Variant word check](memory/feedback_variant_word_check.md) — before creating a word, grep `words/` for the same compound spelled with a character alias (shinjitai/traditional) — don't duplicate an existing word under a different spelling
 - [Translation kanbun origin](memory/feedback_translation_kanbun_origin.md) — old `translation/` pages were transcribed from a kanbun-style calligraphy piece; reversed word order and stray ㄹ's are artifacts, trust current vault data over legacy text
+- [Romaji spelling](memory/feedback_romaji_spelling.md) — one capital only: "Romaji," never "ROmaji" (user's typo habit)
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch
