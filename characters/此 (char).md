@@ -16,7 +16,7 @@ stroke_count: 6
 radical: "止"
 skip_number: 1-4-2
 grade_level: "2"
-pos: ""
+pos: 代詞
 english:
   - this
 羅馬字: "cǝ"
@@ -42,6 +42,7 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[止]], [[匕]]
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 支三開]]
