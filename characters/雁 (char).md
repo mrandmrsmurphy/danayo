@@ -15,7 +15,7 @@ stroke_count: 12
 radical: "隹"
 skip_number: 3-2-10
 grade_level: "名"
-pos: ""
+pos: 名詞
 english:
   - wild goose
 羅馬字: "'an"
@@ -43,7 +43,8 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[厂]], [[倠]]
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 刪開]]
 
