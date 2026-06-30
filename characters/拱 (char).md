@@ -17,12 +17,12 @@ stroke_count: 9
 radical: 手
 skip_number: 1-3-6
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - arch
 羅馬字: gyong
 諺文: 굥
-joyo_level: ""
+joyo_level: 表外字
 hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7362
