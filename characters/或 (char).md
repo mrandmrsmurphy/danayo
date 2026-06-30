@@ -47,3 +47,6 @@ boundedness: 90
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 德合]]
 - [[或者]] "some people"
+
+## Words
+- <ruby>[[或]]<rt>ㄏㄛㄎ</rt></ruby> "or; perhaps"

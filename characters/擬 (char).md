@@ -50,3 +50,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[模擬]]<rt>ㄇㄛㄧ</rt></ruby> "imitate"
+- <ruby>[[擬詞]]<rt>ㄧㄙㄚ</rt></ruby> "ideophone"

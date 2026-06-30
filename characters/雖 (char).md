@@ -46,3 +46,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 脂A合]]
+
+## Words
+- <ruby>[[雖]]<rt>ㄙㄨㄧ</rt></ruby> "although"

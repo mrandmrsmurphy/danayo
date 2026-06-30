@@ -29,6 +29,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Translation kanbun origin](memory/feedback_translation_kanbun_origin.md) — old `translation/` pages were transcribed from a kanbun-style calligraphy piece; reversed word order and stray ㄹ's are artifacts, trust current vault data over legacy text
 - [Romaji spelling](memory/feedback_romaji_spelling.md) — one capital only: "Romaji," never "ROmaji" (user's typo habit)
 - [Homophone warning callout](memory/feedback_homophone_warning.md) — words with Dan'a'yo homophones need a `>[!warning] Homophones` callout after meta-bind-embed, before Notes
+- [Character backlinks required](memory/feedback_character_backlinks.md) — when perfecting a word, update every constituent character's `## Words` section immediately; this is criterion 9 and cannot be deferred
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch

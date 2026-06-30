@@ -51,5 +51,6 @@ boundedness: 90
 
 ## Words
 - <ruby>[[且爵]]<rt>ㄑㄛㄐㄚㄎ</rt></ruby> "chew, masticate" (stand-in for 咀嚼)
+- <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover"
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 魚]]

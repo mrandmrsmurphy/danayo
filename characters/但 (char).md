@@ -51,3 +51,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 寒]]
+
+## Words
+- <ruby>[[但]]<rt>ㄉㄚㄋ</rt></ruby> "but; however"

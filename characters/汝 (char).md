@@ -52,3 +52,6 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 魚]]
+
+## Words
+- <ruby>[[汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (intimate)"

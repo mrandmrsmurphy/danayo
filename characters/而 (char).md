@@ -48,3 +48,7 @@ In CC, this character mean "and", but could also mean 'your' or 'can', which mea
 [[Lookup/CC/finals/韻 之]]
 - [[而且]] "moreover, furthermore"
 - [[而後]] "after that, only then"
+
+## Words
+- <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover"
+- <ruby>[[故而]]<rt>ㄍㄛㄋㄧ</rt></ruby> "therefore"

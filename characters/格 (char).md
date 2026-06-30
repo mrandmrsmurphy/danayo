@@ -62,3 +62,4 @@ boundedness: 60
 - <ruby>[[類似格]]<rt>ㄌㄨㄧㄙㄚㄍㄚㄎ</rt></ruby> "similative case"
 - <ruby>[[向格]]<rt>ㄏ⼘ㄫㄍㄚㄎ</rt></ruby> "allative case"
 - <ruby>[[様態格]]<rt>⼘ㄫㄊㄚㄧㄍㄚㄎ</rt></ruby> "manner case"
+- <ruby>[[終止格]]<rt>ㄐㄨㄫㄐㄧㄍㄚㄎ</rt></ruby> "terminative case"

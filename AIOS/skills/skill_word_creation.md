@@ -17,6 +17,7 @@ See [[AIOS/skills/Word Creation.md|Word Creation.md]] for the full guide. This m
 - [ ] If this word is the `stand_in` for any constituent character, the Notes section says so explicitly (link to character + explain it's too bounded to stand alone)
 - [ ] Notes section uses `../characters/` relative paths with `%20` for spaces before `(char)`
 - [ ] No blank optional fields (`vietnamese:`, `hsk_level:`, `aliases:`) — omit key entirely when empty
+- [ ] **Character backlinks updated** — for every constituent character, open its file and add a ruby entry to `## Words` (creating the section if absent): `- <ruby>[[WORD]]<rt>注音</rt></ruby> "english gloss"`. This is criterion 9 for a character's `date-last-perfect` and is required for every word, not just ones where the character has other words already.
 
 ---
 
