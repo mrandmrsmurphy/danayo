@@ -16,7 +16,7 @@ stroke_count: 14
 radical: 金
 skip_number: 1-7-7
 grade_level: "4"
-pos: 固有名詞
+pos: 名詞
 english:
   - copper
 羅馬字: dong
@@ -43,6 +43,13 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[釒]], [[同]]
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 東一]]
+
+## Words
+- [[黄銅]] "brass"
+- [[青銅]] "bronze"
+- [[銅牌]] "bronze medal"
+- [[銅鑼]] "gong"
