@@ -49,3 +49,6 @@ boundedness: 80
 - [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md), [Stroke 03](../lookup/Stroke/Stroke%2003.md), [⼄](../syllables/⼄.md)
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 魚]]
+
+## Words
+- <ruby>[[与格]]<rt>⼄ㄍㄚㄎ</rt></ruby> "dative case"

@@ -63,3 +63,5 @@ boundedness: 60
 - <ruby>[[向格]]<rt>ㄏ⼘ㄫㄍㄚㄎ</rt></ruby> "allative case"
 - <ruby>[[様態格]]<rt>⼘ㄫㄊㄚㄧㄍㄚㄎ</rt></ruby> "manner case"
 - <ruby>[[終止格]]<rt>ㄐㄨㄫㄐㄧㄍㄚㄎ</rt></ruby> "terminative case"
+- <ruby>[[与格]]<rt>⼄ㄍㄚㄎ</rt></ruby> "dative case"
+- <ruby>[[主格]]<rt>ㄐㄨㄍㄚㄎ</rt></ruby> "nominative case"

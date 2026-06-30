@@ -51,4 +51,6 @@ boundedness: 90
 - [ㄏㄧ](syllables/ㄏㄧ.md)
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 之]]
+
+## Words
 - <ruby>[[喜悅]]<rt>ㄏㄧ·⼶ㄊ</rt></ruby> "joyous; happy"
