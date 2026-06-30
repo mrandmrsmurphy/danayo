@@ -57,3 +57,7 @@ boundedness: 100
 - [[法則]] "law, rule, code"
 - [[法螺]] "boast"
 - abbreviation for "francium": <ruby>[[法素]]<rt>ㄈㄚㄆㄙㄛ</rt></ruby>
+
+## Words
+- <ruby>[[法国]]<rt>ㄈㄚㄆㄍㄛㄎ</rt></ruby> "France"
+- <ruby>[[法語]]<rt>ㄈㄚㄆ·⼄</rt></ruby> "French language; dharma speech"
