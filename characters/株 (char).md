@@ -16,7 +16,7 @@ stroke_count: 10
 radical: "木"
 skip_number: 1-4-6
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - stock
   - root
@@ -44,6 +44,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[木]], [[朱]]
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 虞]]
