@@ -43,6 +43,10 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[扌]], [[共]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 鍾]]
+
+## Words
+- [[拱手]] "folded arms; arm arch"
