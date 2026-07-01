@@ -12,10 +12,10 @@ views:
       - file.mtime
       - danayo_id
     sort:
+      - property: date-last-perfect
+        direction: DESC
       - property: file.mtime
         direction: DESC
-      - property: date-last-perfect
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: size

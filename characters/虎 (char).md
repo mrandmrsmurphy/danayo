@@ -48,5 +48,7 @@ boundedness: 75
 
 ## Words
 - <ruby>[[虎鯨]]<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby> "orca; killer whale"
+## Chengyu
+- <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 模]]

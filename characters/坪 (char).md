@@ -15,7 +15,7 @@ stroke_count: 8
 radical: "土"
 skip_number: 1-3-5
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - level ground
   - 36 square shaku
@@ -43,6 +43,7 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[土]], [[平]]
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 庚三開]]

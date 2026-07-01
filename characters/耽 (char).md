@@ -47,6 +47,6 @@ boundedness: 75
 ## Words
 - <ruby>[[耽耽]]<rt>ㄉㄛㄇㄉㄛㄇ</rt></ruby> glaring covetously (alias: 眈眈)
 ## Chengyu
-- [[虎視耽耽]]
+- <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 覃]]
