@@ -48,6 +48,7 @@ boundedness: 100
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby>
 - <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
+- <ruby>[[創反救成]]<rt>ㄑ⺢ㄫㄈㄛㄋㄍ⼜ㄙㄧㄫ</rt></ruby> "creation, fall, redemption, consummation"
 ## Words
 - [[成立]] "be born, gain approval, come into existence"
 - [[成績]] "achievements, accomplishments, grades, results"

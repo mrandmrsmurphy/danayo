@@ -57,3 +57,5 @@ boundedness: 100
 - [[反哺]] "take care of one's parents"
 - [[反響]] "echo"
 - [[反乱]] "rebel, revolt"
+## Chengyu
+- <ruby>[[創反救成]]<rt>ㄑ⺢ㄫㄈㄛㄋㄍ⼜ㄙㄧㄫ</rt></ruby> "creation, fall, redemption, consummation"
