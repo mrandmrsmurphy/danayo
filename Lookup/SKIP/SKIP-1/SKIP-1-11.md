@@ -8,7 +8,7 @@ tags: [lookup]
 
 Left half has 11 strokes. Dominant components: 魚, 鳥, 角, 食, 馬.
 
-- [SKIP-1-11-1](lookup/SKIP/SKIP-1/SKIP-1-11-1.md): none
+- SKIP-1-11-1: none
 - [SKIP-1-11-2](lookup/SKIP/SKIP-1/SKIP-1-11-2.md): 勧
 - [SKIP-1-11-3](lookup/SKIP/SKIP-1/SKIP-1-11-3.md): 彰, 鄙
 - [SKIP-1-11-4](lookup/SKIP/SKIP-1/SKIP-1-11-4.md): 戮, 戯, 敵, 敷, 歓, 毅, 翫, 魶

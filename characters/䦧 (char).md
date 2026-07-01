@@ -43,4 +43,5 @@ boundedness:
 - Not attested in the Classical Chinese frequency corpus. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄏㄝㄎ](syllables/ㄏㄝㄎ.md)
 - [Grade 名](lookup/Grade%20Name.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
 ## Words
+- <ruby>[[䦧]]<rt>ㄏㄝㄎ</rt></ruby> "quarrel" (stand-in)
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"

@@ -14,7 +14,7 @@ tags: [lookup]
 1. <ruby>[行](../../characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - go, attend
 
 ### +5 Strokes
-2. <ruby>[術](../../characters/術.md)<rt>ㄙㄨㄊ</rt></ruby> - skill, technique
+2. <ruby>[術](../../characters/術%20(char).md)<rt>ㄙㄨㄊ</rt></ruby> - skill, technique
 
 ### +6 Strokes
 3. <ruby>[街](../../characters/街.md)<rt>ㄍ⼘ㄧ</rt></ruby> - street, road

@@ -8,7 +8,7 @@ tags: [lookup]
 
 Left half has 9 strokes. Dominant components: 革, 頁, 食.
 
-- [SKIP-1-9-1](lookup/SKIP/SKIP-1/SKIP-1-9-1.md): none
+- SKIP-1-9-1: none
 - [SKIP-1-9-2](lookup/SKIP/SKIP-1/SKIP-1-9-2.md): 削, 副, 剰, 勒, 動, 勘, 飢
 - [SKIP-1-9-3](lookup/SKIP/SKIP-1/SKIP-1-9-3.md): 彭, 鄂
 - [SKIP-1-9-4](lookup/SKIP/SKIP-1/SKIP-1-9-4.md): 献, 鼓, 新, 数, 戦, 殿, 斟, 歇 …

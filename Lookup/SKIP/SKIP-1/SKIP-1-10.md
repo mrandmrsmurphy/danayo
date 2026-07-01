@@ -8,7 +8,7 @@ tags: [lookup]
 
 Left half has 10 strokes. Dominant components: 馬, 鳥, 龍, 角, 言.
 
-- [SKIP-1-10-1](lookup/SKIP/SKIP-1/SKIP-1-10-1.md): none
+- SKIP-1-10-1: none
 - [SKIP-1-10-2](lookup/SKIP/SKIP-1/SKIP-1-10-2.md): 凱, 割, 創, 勤, 馭
 - [SKIP-1-10-3](lookup/SKIP/SKIP-1/SKIP-1-10-3.md): 鄒, 馳, 馴
 - [SKIP-1-10-4](lookup/SKIP/SKIP-1/SKIP-1-10-4.md): 歌, 穀, 馿, 駁, 駄, 駅, 駆
@@ -22,7 +22,7 @@ Left half has 10 strokes. Dominant components: 馬, 鳥, 龍, 角, 言.
 - [SKIP-1-10-12](lookup/SKIP/SKIP-1/SKIP-1-10-12.md): ø
 - [SKIP-1-10-13](lookup/SKIP/SKIP-1/SKIP-1-10-13.md): ø
 - [SKIP-1-10-14](lookup/SKIP/SKIP-1/SKIP-1-10-14.md): 驟
-- [SKIP-1-10-15](lookup/SKIP/SKIP-1/SKIP-1-10-15.md): none
+- SKIP-1-10-15: none
 - [SKIP-1-10-16](lookup/SKIP/SKIP-1/SKIP-1-10-16.md): ø
 - [SKIP-1-10-17](lookup/SKIP/SKIP-1/SKIP-1-10-17.md): ø
 - [SKIP-1-10-18](lookup/SKIP/SKIP-1/SKIP-1-10-18.md): ø

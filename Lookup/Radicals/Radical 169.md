@@ -11,7 +11,7 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[門](../../characters/門%20(char).md)<rt>ㄇㄛㄋ</rt></ruby> - gate
+1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
 
 ### +2 Strokes
 2. <ruby>[閃](../../characters/閃.md)<rt>ㄙㄝㄇ</rt></ruby> - flash, glint
