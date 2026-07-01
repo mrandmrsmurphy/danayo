@@ -49,9 +49,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 蒸]]
+
+## Words
+- <ruby>[[仍]]<rt>ㄋㄧㄫ</rt></ruby> "yet, still" (stand-in)
 
 
 **仍** is the shorter, more abstract core form; **仍旧** is the fuller, more explicitly adverbial form meaning “still, as before, nevertheless” in a slightly more marked or literary register.

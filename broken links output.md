@@ -1545,7 +1545,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[仍]] in [[syllables/ㄋㄧㄫ]]
 - [[倉廩]] in [[syllables/ㄌㄜㄇ]]
 - [[懍懍]] in [[syllables/ㄌㄜㄇ]]
-- [[䦧]] in [[syllables/ㄏㄝㄎ]]
 - [[並行]] in [[words/並立]]
 - [[人称代詞]] in [[words/人称]], [[words/代詞]]
 - [[対応代詞]] in [[words/人称]], [[words/代詞]]
