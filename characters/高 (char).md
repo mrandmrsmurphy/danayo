@@ -52,3 +52,4 @@ boundedness: 90
 - <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby> "peak, summit"
 - <ruby>[[高山]]<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby> "high mountain"
 - <ruby>[[最高点]]<rt>ㄐ⼔ㄍㄚㄨㄉㄝㄇ</rt></ruby> "highest point; peak"
+- <ruby>[[高校]]<rt>ㄍㄚㄨㄏ⼘ㄨ</rt></ruby> "secondary school"

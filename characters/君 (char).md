@@ -49,8 +49,8 @@ boundedness: 80
 - <ruby>[[弒君]]<rt>ㄊㄧㄍㄨㄋ</rt></ruby> "regicide"
 - <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 文]]
-- [[君主]] "monarch"
+- <ruby>[[君主]]<rt>ㄍㄨㄋㄐㄨ</rt></ruby> "monarch"
 - <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"

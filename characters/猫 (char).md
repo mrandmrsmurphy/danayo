@@ -50,3 +50,4 @@ boundedness: 65
 
 ## Words
 - <ruby>[[豹猫]]<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby> "leopard cat"
+- <ruby>[[猫]]<rt>ㄇ⼘ㄨ</rt></ruby> "cat" (stand-in)

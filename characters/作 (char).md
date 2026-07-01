@@ -51,5 +51,5 @@ boundedness: 80
 - <ruby>[[詩作]]<rt>ㄙㄧㄐㄚㄎ</rt></ruby> "poem; to compose poetry"
 - [[作用]]
 - [[製作]]
-- [[傑作]]
+- <ruby>[[傑作]]<rt>ㄍㄝㄊㄐㄚㄎ</rt></ruby> "masterpiece"
 - [[作業]]

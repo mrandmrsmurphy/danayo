@@ -42,6 +42,9 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 泰開]]
+
+## Words
+- <ruby>[[曖昧]]<rt>ㄚㄧㄇㄚㄧ</rt></ruby> "ambiguous, vague"
