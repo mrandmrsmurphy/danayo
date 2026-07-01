@@ -42,7 +42,10 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[ㄧㄎ]] 
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 職開]]
+
+## Words
+- <ruby>[[翌月]]<rt>ㄧㄎ⼔ㄊ</rt></ruby> "the following month"

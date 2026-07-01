@@ -50,6 +50,6 @@ boundedness:
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 微開]]
 - <ruby>[[気候]]<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby> "climate"
-- [[気象]] "weather"
+- <ruby>[[気象]]<rt>ㄎㄧㄜㄙ⼘ㄫ</rt></ruby> "weather"
 - [[気功]] "qigong"
 - <ruby>[[気炎]]<rt>ㄎㄧㄜㄝㄇ</rt></ruby> "fighting spirit"

@@ -44,8 +44,11 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 刪合]]
+
+## Words
+- <ruby>[[机関]]<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby> "machine; organization"
 - [[関島]] "Gwam (island)"
 - [[関数]] "function"

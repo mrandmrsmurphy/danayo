@@ -51,7 +51,7 @@ boundedness: 90
 - <ruby>[[心緒]]<rt>ㄙㄧㄇ·ㄙ⼄</rt></ruby> "feelings; state of mind"
 - [[悪心]]
 - [[離心率]]
-- [[安心]]
+- <ruby>[[安心]]<rt>ㄚㄋㄙㄧㄇ</rt></ruby> "peace of mind"
 - [[心理]]
 - [[内心]]
 - [[点心]]

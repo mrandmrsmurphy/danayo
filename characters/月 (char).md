@@ -71,6 +71,7 @@ boundedness: 80
 12. [[十二月]] December
 - [[昨月]] last month
 - [[来月]] next month
+- <ruby>[[翌月]]<rt>ㄧㄎ⼔ㄊ</rt></ruby> "the following month"
 - [[満月]] month anniversary
 - [[月刊]] monthly magazine
 - <ruby>[[氷月]]<rt>ㄅㄧㄫ⼔ㄊ</rt></ruby> "ice month (12th month)"

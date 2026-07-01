@@ -45,6 +45,7 @@ boundedness: 80
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄍㄨㄆ](../syllables/ㄍㄨㄆ.md)
 - [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 3](../lookup/Grade%203.md)
 ## Words
+- <ruby>[[及]]<rt>ㄍㄨㄆ</rt></ruby> "reach out to" (stand-in)
 - [[埃及]] - Egypt
 - [[不及]] - to be worse than, to fail to reach to
 - [[及第]] - to pass an imperial exam, to pass a grade

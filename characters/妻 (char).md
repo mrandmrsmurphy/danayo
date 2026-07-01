@@ -46,5 +46,8 @@ boundedness: 50
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 齊開]]
 - Components: [[一]], [[肀]], [[女]]
+## Words
+- <ruby>[[妻]]<rt>ㄑㄝㄧ</rt></ruby> "wife"
+
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
