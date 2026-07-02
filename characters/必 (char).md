@@ -53,3 +53,4 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[日用必備]]<rt>ㄋㄧㄊ⼄ㄫㄅㄧㄊㄅㄧㄜ</rt></ruby> "daily use, always needed"
+- <ruby>[[盛者必衰]]<rt>ㄙㄧㄫㄑㄚㄅㄧㄊㄙ⼔ㄧ</rt></ruby> "what flourishes must fade"
