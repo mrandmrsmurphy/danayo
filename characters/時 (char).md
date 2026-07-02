@@ -59,3 +59,6 @@ boundedness: 90
 - [[時宜]] "timely, be right time"
 - <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"
 - <ruby>[[時相]]<rt>ㄙㄧㄙㄚㄫ</rt></ruby> "tense-aspect; grammatical aspect"
+
+## Chengyu
+- <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎㄛ</rt></ruby> "anachronism"

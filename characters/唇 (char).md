@@ -41,6 +41,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 文]]
+
+## Chengyu
+- <ruby>[[唇亡歯寒]]<rt>ㄙㄨㄋㄇㄚㄫㄑㄧㄏㄚㄋ</rt></ruby> "when the lips are gone, the teeth feel cold"

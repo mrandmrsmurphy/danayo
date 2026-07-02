@@ -48,3 +48,6 @@ boundedness:
 [[Lookup/CC/finals/韻 之]]
 - [[歯齦]] "gingiva, gums"
 - [[歯痛]] "toothache"
+
+## Chengyu
+- <ruby>[[唇亡歯寒]]<rt>ㄙㄨㄋㄇㄚㄫㄑㄧㄏㄚㄋ</rt></ruby> "when the lips are gone, the teeth feel cold"
