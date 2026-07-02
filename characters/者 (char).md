@@ -46,3 +46,4 @@ boundedness: 90
 ## Words
 - <ruby>[[史学者]]<rt>ㄙㄧㄏㄚㄎㄑㄚ</rt></ruby> "historian"
 - <ruby>[[従者]]<rt>ㄐㄛㄫㄑㄚ</rt></ruby> "attendant, follower, retainer"
+- <ruby>[[偕者]]<rt>ㄍ⼶ㄑㄚ</rt></ruby> "LORD (Yahweh)"
