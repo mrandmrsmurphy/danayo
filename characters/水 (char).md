@@ -81,6 +81,6 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "forests and streams, many mountains and rivers"
-- <ruby>[[一衣帯水]]<rt>ㄧㄊ·ㄧㄜㄉㄚㄧㄙㄨ</rt></ruby> "separated by a narrow body of water, closeness"
+- <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
 - <ruby>[[落花流水]]<rt>ㄌㄚㄎㄏ⺢ㄌ⼜ㄙㄨ</rt></ruby> "falling apart, dilapidated decline, mutual love"
 - <ruby>[[鏡花水月]]<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> "je ne sais quoi, fantasy, illusion"

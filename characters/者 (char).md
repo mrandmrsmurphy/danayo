@@ -50,3 +50,4 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"
+- <ruby>[[盛者必衰]]<rt>ㄙㄧㄫㄑㄚㄅㄧㄊㄙ⼔ㄧ</rt></ruby> "what flourishes must fade"

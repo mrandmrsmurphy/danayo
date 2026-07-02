@@ -53,3 +53,6 @@ boundedness:
 - <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone, belt"
 - <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"
 - <ruby>[[連帯]]<rt>ㄌ⼶ㄋㄊㄚㄧ</rt></ruby> "solidarity; joint (responsibility)"
+
+## Chengyu
+- <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
