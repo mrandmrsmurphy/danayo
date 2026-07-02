@@ -45,5 +45,6 @@ boundedness: 75
 - abbreviation for "tungsten": <ruby>[[狼金]]<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby>
 ## Chengyu
 - [[羊衣餓狼]]
+- <ruby>[[周章狼狽]]<rt>ㄐㄨㄛㄐㄚㄫㄌㄚㄫㄅㄚㄧ</rt></ruby> "flustered and thrown into complete disarray"
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 唐開]]

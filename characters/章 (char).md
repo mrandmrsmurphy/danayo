@@ -61,4 +61,4 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[断章取義]]<rt>ㄉ⺢ㄋㄐㄚㄫㄑㄛㄨㄜㄧ</rt></ruby> "take out of context"
-- <ruby>[[周章狼狽]]<rt>ㄐㄨㄛㄐㄚㄫㄌㄚㄫㄅㄚㄧ</rt></ruby> "panic attack, flustered, dismay"
+- <ruby>[[周章狼狽]]<rt>ㄐㄨㄛㄐㄚㄫㄌㄚㄫㄅㄚㄧ</rt></ruby> "flustered and thrown into complete disarray"
