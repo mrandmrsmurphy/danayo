@@ -9,7 +9,9 @@ japanese:
   - KIN
 japanese_native: かめ
 vietnamese:
-  - qui, quân, quy
+  - qui
+  - quân
+  - quy
 middle_chinese_initial: k
 middle_chinese_final: ɨu
 stroke_count: 11
