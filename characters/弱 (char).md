@@ -51,3 +51,4 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
+- <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"

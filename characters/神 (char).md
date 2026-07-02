@@ -51,7 +51,7 @@ boundedness: 90
 - 218th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Chengyu
-- [神経衰弱](../chengyu/神経衰弱.md)
+- <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"
 - [[除我莫神]]
 ## Words 
 - <ruby>[[神巫]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "shaman, wizard"

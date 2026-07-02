@@ -56,3 +56,6 @@ boundedness:
 - <ruby>[[易経]]<rt>⼶ㄎㄍㄝㄫ</rt></ruby> "Book of Changes"
 - <ruby>[[九経]]<rt>ㄎ⼜ㄍㄝㄫ</rt></ruby> "the Nine Classics"
 - <ruby>[[麟経]]<rt>ㄌㄧㄋㄍㄝㄫ</rt></ruby> "the Spring and Autumn Annals (alternative name)"
+
+## Chengyu
+- <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"
