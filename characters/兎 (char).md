@@ -53,4 +53,4 @@ tags:
 - <ruby>[[兎]]<rt>ㄊㄛ</rt></ruby> "rabbit; hare"
 
 ## Chengyu
-- [[守株待兎]] "waiting by a stump for a rabbit to run into it; counting on a fluke"
+- <ruby>[[守株待兎]]<rt>ㄙ⼜ㄉㄨㄉㄚㄧㄊㄛ</rt></ruby> "guarding the stump, waiting for luck to repeat"

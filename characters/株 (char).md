@@ -48,3 +48,6 @@ boundedness: 90
 - Components: [[木]], [[朱]]
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 虞]]
+
+## Chengyu
+- <ruby>[[守株待兎]]<rt>ㄙ⼜ㄉㄨㄉㄚㄧㄊㄛ</rt></ruby> "guarding the stump, waiting for luck to repeat"
