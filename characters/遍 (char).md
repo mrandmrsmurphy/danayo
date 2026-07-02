@@ -47,3 +47,6 @@ boundedness: 80
 
 ## Words
 - <ruby>[[普遍]]<rt>ㄆㄛㄅㄝㄋ</rt></ruby> "universal; general"
+
+## Chengyu
+- <ruby>[[哀鴻遍野]]<rt>ㄚㄧㄏㄛㄫㄅㄝㄋ⼘</rt></ruby> "mournful wanderers fill the land"

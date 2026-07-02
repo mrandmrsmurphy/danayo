@@ -54,3 +54,6 @@ boundedness: 90
 
 ## Words
 - <ruby>[[喜悅]]<rt>ㄏㄧ·⼶ㄊ</rt></ruby> "joyous; happy"
+
+## Chengyu
+- <ruby>[[喜怒哀楽]]<rt>ㄏㄧㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> "the full range of human emotion"

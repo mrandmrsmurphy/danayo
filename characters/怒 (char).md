@@ -47,7 +47,7 @@ boundedness: 90
 
 - 形声 (OC \*naːʔ, \*naːs): semantic [[Radical 061|心]] ("heart") + phonetic [[奴]] (OC \*naː) — angry.
 ## Chengyu
-- [[喜怒哀楽]]
+- <ruby>[[喜怒哀楽]]<rt>ㄏㄧㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> "the full range of human emotion"
 ## Words
 - [[遷怒]]
 [[Lookup/CC/initials/聲 泥]]

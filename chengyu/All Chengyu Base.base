@@ -17,9 +17,9 @@ views:
       - origin
     sort:
       - property: date-last-perfect
-        direction: ASC
+        direction: DESC
       - property: file.mtime
-        direction: ASC
+        direction: DESC
       - property: origin
         direction: ASC
       - property: 諺文
