@@ -31,25 +31,28 @@ aliases:
   - 芩
 注音: ㄍㄧㄇ
 kwin: false
+date-last-perfect: 2026-07-02
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 今.
 >For the word, see [今](words/今.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 指事 – An inverted 曰 (yuē) ("to speak"), hence 亼 with a horizontal stroke at the bottom, so the inverted mouth means "not to speak".
+- [List of 指事](lookup/List%20of%20指事.md): an indicator beneath 亼 (a covered gathering) marking the present moment; Shuowen interprets this as an inverted 曰 ("to speak"), suggesting the present is the moment of speech — what is being said *right now*.
+- [SKIP-2-2-2](lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 4](lookup/Stroke/Stroke%204.md))
+- 80th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄍㄧㄇ](syllables/ㄍㄧㄇ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- [[今夜]]
-- [[今夜安]]
-- [[今年]]
-- [[今昼安]]
-- [[今朝安]]
-- [[古今]]
-- 
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 侵B]]
+- [[今夜]] "tonight"
+- [[今夜安]] "good evening"
+- [[今年]] "this year"
+- [[今昼安]] "good afternoon"
+- [[今朝安]] "good morning"
+- [[古今]] "past and present; all time"

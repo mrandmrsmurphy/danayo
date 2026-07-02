@@ -29,6 +29,7 @@ danayo_id: 2001
 mc_id: 2
 graphemic_classification: 象形
 stand_in: 不
+date-last-perfect: 2026-07-02
 aliases:
   - 𠀚
   - 𠙐
@@ -44,18 +45,16 @@ boundedness: 50
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Etymologies
-Pictogram ([List of 象形](../lookup/List%20of%20象形.md)): the calyx of a flower. 不 was then composed into a phono-semantic character with the pictograph for mouth (口), to form 否 (OC \*brɯʔ, \*pɯʔ), representing “no” (negation). This composed meaning then spread back to the original character 不, making it a synonym of 否. A new character of 柎 (OC \*po) was eventually created to represent the original meaning of calyx.
+## Notes
+- [List of 象形](lookup/List%20of%20象形.md): depicts the calyx of a flower (original meaning now written [[柎]], OC *po); the negation meaning arose by phonetic borrowing. 不 was later compounded with 口 to form [[否 (char)]] (OC *brɯʔ) to make “no” unambiguous, leaving 不 for grammatical negation.
+- [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 4](lookup/Stroke/Stroke%204.md))
+- 2nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄅㄛㄊ](syllables/ㄅㄛㄊ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
-Following Shuowen’s interpretation, Karlgren and Wieger interpret it as a bird flying toward the sky ([一](Radical%20001)). The sky being the limit for the bird, thus the idea of negation.
-- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄅㄛㄊ](../syllables/ㄅㄛㄊ.md)
-- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
-- Second most used character in Classical Chinese.  [[Lookup/CC/initials/聲 幫]] + [[Lookup/CC/finals/韻 物]]
-
-### Derived characters
-- 木 + 不 = [杯 (char)](characters/杯%20(char).md) 
-- 不 + 口 = [否 (char)](characters/否%20(char).md)
-- 不 + 一 = [丕](characters/丕.md)
+## Derived Characters
+- [[杯 (char)]]
+- [[否 (char)]]
+- [[丕]]
 ## Words
 - <ruby>[[不及]]<rt>ㄅㄛㄊㄍㄨㄆ</rt></ruby> "to not reach; to be inferior to"
 - <ruby>[[不丹]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "Bhutan"
