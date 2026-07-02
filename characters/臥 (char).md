@@ -48,5 +48,6 @@ boundedness: 75
 
 ## Chengyu
 - <ruby>[[臥薪嘗胆]]<rt>⺢ㄙㄧㄋㄙ⼘ㄫㄉㄚㄇ</rt></ruby> "sleep on firewood and taste gall; endure voluntary hardship to fuel the will to prevail"
+- <ruby>[[臥虎蔵龍]]<rt>⺢ㄏㄛㄑㄚㄫㄌ⼄ㄫ</rt></ruby> "hidden talents lurk everywhere"
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 戈一合]]

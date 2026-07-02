@@ -47,3 +47,6 @@ boundedness: 90
 - <ruby>[[史学者]]<rt>ㄙㄧㄏㄚㄎㄑㄚ</rt></ruby> "historian"
 - <ruby>[[従者]]<rt>ㄐㄛㄫㄑㄚ</rt></ruby> "attendant, follower, retainer"
 - <ruby>[[偕者]]<rt>ㄍ⼶ㄑㄚ</rt></ruby> "LORD (Yahweh)"
+
+## Chengyu
+- <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"

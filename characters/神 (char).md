@@ -53,6 +53,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"
 - [[除我莫神]]
+- <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"
 ## Words 
 - <ruby>[[神巫]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "shaman, wizard"
 - <ruby>[[神父]]<rt>ㄙㄧㄋㄅㄨ</rt></ruby> "father; priest (Eastern Orthodox)"

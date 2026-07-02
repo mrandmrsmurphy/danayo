@@ -46,7 +46,7 @@ boundedness: 90
 - 626th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
 ## Chengyu
-- [[温故知新]]
+- <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"
 ## Words
 - <ruby>[[新羅]]<rt>ㄙㄧㄋㄌㄛ</rt></ruby> "Silla"
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products

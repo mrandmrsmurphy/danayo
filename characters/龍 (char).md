@@ -82,5 +82,6 @@ boundedness: 70
 - [[龍眼]]
 ## Chengyu
 - [[画龍点睛]]
+- <ruby>[[臥虎蔵龍]]<rt>⺢ㄏㄛㄑㄚㄫㄌ⼄ㄫ</rt></ruby> "hidden talents lurk everywhere"
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 鍾]]

@@ -57,3 +57,6 @@ boundedness: 75
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 支B三開]]
 - [[知音]] "bosom friend"
+
+## Chengyu
+- <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"
