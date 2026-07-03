@@ -48,6 +48,9 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
+## Chengyu
+- <ruby>[[臨渇掘井]]<rt>ㄌㄧㄇㄎㄚㄊㄍㄨㄊㄐㄧㄫ</rt></ruby> "preparing only when the need is already upon you"
+
 # Notes
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 物]]

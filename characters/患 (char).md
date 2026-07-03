@@ -41,6 +41,9 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Chengyu
+- <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"
+
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 刪合]]

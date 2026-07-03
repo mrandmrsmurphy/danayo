@@ -51,3 +51,6 @@ boundedness: 50
 - [[有名]] "famous"
 - [[有机]] "organic"
 - <ruby>[[有生]]<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"
+
+## Chengyu
+- <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"

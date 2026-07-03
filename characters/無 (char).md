@@ -48,7 +48,7 @@ boundedness: 80
 ## Chengyu
 - <ruby>[厚顔無恥](/chengyu/厚顔無恥.md)<rt>ㄏㄛㄨ·ㄚㄋㄇㄨㄑㄧ</rt></ruby> - utterly shameless
 - <ruby>[諸行無常](/chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄫㄇㄨㄙ⼘ㄫ</rt></ruby>
-- [[有備無患]]
+- <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"
 - [[無為而治]]
 - [[孤立無援]]
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
