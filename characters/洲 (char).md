@@ -15,7 +15,7 @@ stroke_count: 9
 radical: "水"
 skip_number: 1-3-6
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - islet
 羅馬字: juo
