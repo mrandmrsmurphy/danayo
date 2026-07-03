@@ -56,5 +56,6 @@ boundedness: 90
 
 ## Words
 - [[両親]] - parents
+- <ruby>[[伎倆]]<rt>ㄍㄝㄌ⼘ㄫ</rt></ruby>
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 陽開]]
