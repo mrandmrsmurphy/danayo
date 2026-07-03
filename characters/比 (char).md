@@ -31,6 +31,8 @@ graphemic_classification: "會意"
 stand_in: "比"
 aliases:
   - 譬
+  - 秕
+  - 粃
 注音: "ㄅㄧㄜ"
 kwin: false
 tags:
@@ -51,3 +53,4 @@ boundedness: 90
 - [[比率]] "ratio, rate, frequency"
 - [[比例]] "ratio, proportion"
 - <ruby>[[比較格]]<rt>ㄅㄧㄜㄍㄚㄎㄍㄚㄎ</rt></ruby> "comparative case"
+- <ruby>[[比糠]]<rt>ㄅㄧㄜㄎㄚㄫ</rt></ruby> "chaff and bran" (stand-in for 秕/粃)
