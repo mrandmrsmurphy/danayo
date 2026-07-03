@@ -21,7 +21,7 @@ stroke_count: 6
 radical: 行
 skip_number: 1-3-3
 grade_level: "1"
-pos: ""
+pos: 事詞
 english:
   - attend
   - go to
@@ -49,6 +49,7 @@ boundedness: 55
 ```
 
 ## Notes
+- Components: [[彳]], [[亍]]
 - [指事](lookup/List%20of%20指事.md): a crossroads — two paths crossing; to walk, to travel.
 - [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
 - 40th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄏㄚㄫ](syllables/ㄏㄚㄫ.md)
