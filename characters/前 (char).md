@@ -16,11 +16,11 @@ stroke_count: 9
 radical: "刀"
 skip_number: 2-3-6
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - front
   - before
-  - preceeding
+  - preceding
 羅馬字: jen
 諺文: "전"
 joyo_level: "2"
@@ -46,6 +46,7 @@ boundedness: 100
 ```
 
 ## Notes
+- Components: [[䒑]], [[刖]]
 - [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md)) · [ㄐㄝㄋ](syllables/ㄐㄝㄋ.md) · [[Lookup/CC/initials/聲 從|d͡z]] [[Lookup/CC/finals/韻 先開|en]]
 ## Words
 - [[前置詞]] "preposition"

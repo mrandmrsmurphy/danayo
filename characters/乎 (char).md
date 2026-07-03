@@ -15,7 +15,7 @@ stroke_count: 8
 radical: 丿
 skip_number: 4-5-3
 grade_level: "2"
-pos: ""
+pos: 感詞
 english:
   - did
   - do

@@ -19,14 +19,14 @@ stroke_count: 2
 radical: "亅"
 skip_number: 4-2-1
 grade_level: "4"
-pos: ""
+pos: 感詞
 english:
   - done
   - finished
   - over
 羅馬字: lyau
 諺文: "럇"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4004
@@ -48,7 +48,8 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[亅]], [[乛]]
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 蕭]]
 
