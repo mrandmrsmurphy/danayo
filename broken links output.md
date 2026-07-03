@@ -1,5 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[伎倆]] in [[AIOS/projects/project_broken_links_batch]], [[syllables/ㄍㄝ]]
 - [[粃糠]] in [[AIOS/projects/project_broken_links_batch]], [[syllables/ㄎㄚㄫ]]
 - [[廞]] in [[AIOS/projects/project_broken_links_batch]], [[syllables/ㄏㄜㄇ]]
 - [[裝飾]] in [[AIOS/projects/project_broken_links_batch]]
