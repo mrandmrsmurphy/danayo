@@ -28,13 +28,17 @@ english:
   - but
 羅馬字: nai
 諺文: 내
-joyo_level: 表外字
+joyo_level: 日本人名用漢字
 hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 5161
 mc_id: 63
 graphemic_classification: 象形
 stand_in: 乃
+aliases:
+  - 奈
+  - 柰
+  - 𠄎
 注音: ㄋㄚㄧ
 kwin: true
 date-last-perfect: 2026-07-02
