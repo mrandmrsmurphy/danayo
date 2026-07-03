@@ -29,6 +29,7 @@ stand_in: 両
 aliases:
   - 两
   - 兩
+  - 倆
   - 輛
   - 辆
   - 輌
