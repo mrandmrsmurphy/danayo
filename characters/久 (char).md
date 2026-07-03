@@ -44,5 +44,8 @@ boundedness: 65
 ## Words
 - <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
 - <ruby>[[悠久]]<rt>⼜ㄛㄍ⼜</rt></ruby> "long-lasting; time-honoured"
+
+## Chengyu
+- <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 尤]]

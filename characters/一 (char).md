@@ -95,7 +95,7 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 - <ruby>[一網打尽](/chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby>
 - <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
 - <ruby>[一長一短](/chengyu/一長一短.md)<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby>
-- [[千編一律]]
+- <ruby>[[千編一律]]<rt>ㄑㄝㄋㄅ⼶ㄋㄧㄊㄌㄨㄊ</rt></ruby> "monotonously uniform with no variation"
 - [[言行一致]]
 - 
 

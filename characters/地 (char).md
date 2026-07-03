@@ -47,6 +47,7 @@ boundedness: 90
 ## Chengyu
 - [[塩地光世]]
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
+- <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
 ## Words
 - <ruby>[[地境]]<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby> "border; territorial boundary"
 - [[地図]] - map

@@ -52,3 +52,4 @@ boundedness: 70
 
 ## Chengyu
 - <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
+- <ruby>[[自給自足]]<rt>ㄐㄧㄜㄍㄧㄆㄐㄧㄜㄐㄛㄎ</rt></ruby> "producing all one needs from one's own resources"
