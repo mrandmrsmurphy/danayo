@@ -43,6 +43,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[口]], [[赫]]
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 陌二開]]
