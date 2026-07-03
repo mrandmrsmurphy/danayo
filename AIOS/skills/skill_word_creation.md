@@ -106,7 +106,7 @@ Some words exist specifically to give a bounded character a usable word form. Wh
 
 **How to detect this:** Before writing, check whether the word matches the `stand_in` value on any of its constituent character files.
 
-**What to add in Notes:** After the character-breakdown line, add a clause making the relationship explicit: `— stand-in for [[X]], which cannot appear independently` (or "for both [[X]] and [[Y]], neither of which..." when both characters are bound). See [[feedback_standin_note]].
+**What to add in Notes:** After the character-breakdown line, add a clause making the relationship explicit: `— stand-in for [[X]], which cannot appear independently`. See [[feedback_standin_note]].
 
 ---
 

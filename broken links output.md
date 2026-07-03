@@ -1,8 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[廞]] in [[AIOS/projects/project_broken_links_batch]], [[syllables/ㄏㄜㄇ]]
-- [[裝飾]] in [[AIOS/projects/project_broken_links_batch]]
-- [[X]] in [[AIOS/skills/skill_word_creation]]
-- [[Y]] in [[AIOS/skills/skill_word_creation]]
 - [[弋]] in [[characters/代]]
 - [[卬]] in [[characters/仰]]
 - [[夋]] in [[characters/俊]], [[characters/酸 (char)]]
