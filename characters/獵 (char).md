@@ -17,7 +17,7 @@ stroke_count: 11
 radical: 犬
 skip_number: 1-3-8
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - hunt
 羅馬字: lob

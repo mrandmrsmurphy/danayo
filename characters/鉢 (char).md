@@ -15,7 +15,7 @@ stroke_count: 13
 radical: "金"
 skip_number: 1-8-5
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - bowl
 羅馬字: bad
@@ -30,6 +30,7 @@ stand_in: "鉢"
 aliases:
   - 盋
   - 钵
+  - 缽
 注音: "ㄅㄚㄊ"
 kwin: true
 tags:
@@ -43,6 +44,7 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Components: [[金]], [[本]]
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 末]]
