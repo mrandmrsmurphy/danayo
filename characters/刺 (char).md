@@ -36,6 +36,7 @@ stand_in: 刺
 aliases:
   - 朿
 注音: ㄑㄧㄎ
+date-last-perfect: 2026-07-04
 kwin: false
 tags:
   - character
@@ -47,10 +48,15 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*sʰeɡs, \*sʰeɡ): semantic [[朿]] ("knife") + phonetic [[刂]] (OC \*sʰeɡs).
-- Also pronounced in MC as tsʰiᴇ
-[[Lookup/CC/initials/聲 清]]
-[[Lookup/CC/finals/韻 昔開]]
+- 形声 (OC \*sʰeɡs): semantic [[Radical 018|刂]] ("knife") + phonetic 朿 ("thorn," OC \*[tsʰ]ek) — a thorn-like point that pierces; to stab, prick.
+- [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 497th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄧㄎ](../syllables/ㄑㄧㄎ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+- Also attested in Middle Chinese as tsʰiᴇ, an alternate reading alongside the departing-tone form used for the Dan'a'yo derivation.
+
+## Words
 - <ruby>[[刺客]]<rt>ㄑㄧㄎ·ㄎㄚㄎ</rt></ruby> "assassin"
-- [[刺激]] "provoke, irritate"
-- [[刺身]] "sashimi"
+- <ruby>[[刺激]]<rt>ㄑㄧㄎㄍㄝㄎ</rt></ruby> "provoke; irritate"
+- <ruby>[[刺身]]<rt>ㄑㄧㄎㄙㄧㄋ</rt></ruby> "sashimi"
+- <ruby>[[名刺]]<rt>ㄇㄧㄫㄑㄧㄎ</rt></ruby> "business card"
+- <ruby>[[風刺]]<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby> "satirize; mock"

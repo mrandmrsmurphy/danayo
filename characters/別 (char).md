@@ -1,25 +1,20 @@
 ---
-mandarin: "bié"
+mandarin: bié
 cantonese: bit6
-korean: "별"
-korean_native: "나눌"
+korean: 별
+korean_native: 나눌
 japanese:
   - BETSU
   - BECHI
 japanese_native: わか
 vietnamese:
-  - biết
   - biệt
-  - bét
-  - bít
-  - bẹt
   - bết
-  - bệt
   - bịt
 middle_chinese_initial: b
-middle_chinese_final: "ɣiᴇt"
+middle_chinese_final: ɣiᴇt
 stroke_count: 7
-radical: "刀"
+radical: 刀
 skip_number: 1-5-2
 grade_level: "2"
 pos: 性詞
@@ -28,18 +23,18 @@ english:
   - distinct
   - other
 羅馬字: bed
-諺文: "벋"
+諺文: 벋
 joyo_level: "4"
 hsk_level: "1"
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 2031
 mc_id: 657
-graphemic_classification: "會意"
-stand_in: "別"
+graphemic_classification: 會意
+stand_in: 別
 aliases:
   - 别
   - 彆
-注音: "ㄅㄝㄊ"
+注音: ㄅㄝㄊ
 date-last-perfect: 2026-07-04
 kwin: false
 tags:
@@ -54,7 +49,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 会意 of [[𠮠]] ("bone") and [[Radical 018|刂]] ("knife") — to cut bone and flesh apart, hence to separate, divide, distinguish.
+- 会意 of 冎/𠮠 ("bone") and [[Radical 018|刂]] ("knife") — to cut bone and flesh apart, hence to separate, divide, distinguish.
 - [SKIP-1-5-2](../lookup/SKIP/SKIP-1/SKIP-1-5-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 657th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 薛B三開|ɣiᴇt]] → [ㄅㄝㄊ](../syllables/ㄅㄝㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
