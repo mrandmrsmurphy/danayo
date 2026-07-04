@@ -27,7 +27,7 @@ english:
   - escape
 羅馬字: "'id"
 諺文: "읻"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"
 danayo_id: 5352

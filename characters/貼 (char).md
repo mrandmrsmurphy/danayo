@@ -22,7 +22,7 @@ english:
   - attach
 羅馬字: teb
 諺文: 텁
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 6291

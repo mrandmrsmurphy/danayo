@@ -1,8 +1,8 @@
 ---
-mandarin: "sháo"
+mandarin: sháo
 cantonese: zoek3
-korean: "작"
-korean_native: "구기"
+korean: 작
+korean_native: 구기
 japanese:
   - SHAKU
 japanese_native: ø
@@ -11,10 +11,10 @@ vietnamese:
   - duộc
   - giuộc
   - thược
-middle_chinese_initial: "t͡ɕ"
-middle_chinese_final: "ɨɐk"
+middle_chinese_initial: t͡ɕ
+middle_chinese_final: ɨɐk
 stroke_count: 3
-radical: "勹"
+radical: 勹
 skip_number: 3-2-1
 grade_level: "6"
 pos: ""
@@ -22,16 +22,16 @@ english:
   - spoon
   - laddle
 羅馬字: jwag
-諺文: "좍"
-joyo_level: "高等"
+諺文: 좍
+joyo_level: 日本人名用漢字
 hsk_level: "2"
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 6157
 mc_id: 2644
-graphemic_classification: "象形"
-stand_in: "勺"
+graphemic_classification: 象形
+stand_in: 勺
 aliases:
-注音: "ㄐ⺢ㄎ"
+注音: ㄐ⺢ㄎ
 kwin: false
 tags:
   - character

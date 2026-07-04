@@ -22,7 +22,7 @@ english:
   - weak
 羅馬字: nyu
 諺文: "뉴"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 3163

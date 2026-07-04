@@ -1,8 +1,8 @@
 ---
-mandarin: "dīng"
+mandarin: dīng
 cantonese: ding1
-korean: "정"
-korean_native: "못"
+korean: 정
+korean_native: 못
 japanese:
   - TEI
   - CHOU
@@ -13,27 +13,27 @@ vietnamese:
   - đính
   - đĩnh
 middle_chinese_initial: t
-middle_chinese_final: "eŋ"
+middle_chinese_final: eŋ
 stroke_count: 10
-radical: "金"
+radical: 金
 skip_number: 1-8-2
-grade_level: "名"
+grade_level: 名
 pos: ""
 english:
   - nail
   - spike
 羅馬字: deng
-諺文: "덩"
-joyo_level: "高等"
+諺文: 덩
+joyo_level: 日本人名用漢字
 hsk_level: "3"
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 8130
 mc_id: 5661
-graphemic_classification: "丁"
-stand_in: "釘"
+graphemic_classification: 丁
+stand_in: 釘
 aliases:
   - 钉
-注音: "ㄉㄝㄫ"
+注音: ㄉㄝㄫ
 kwin: false
 tags:
   - character

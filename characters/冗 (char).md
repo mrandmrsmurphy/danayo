@@ -23,7 +23,7 @@ english:
   - excessive
 羅馬字: nyong
 諺文: "뇽"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: ""
 danayo_id: 7006

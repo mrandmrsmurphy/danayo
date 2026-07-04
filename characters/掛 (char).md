@@ -28,7 +28,7 @@ english:
   - suspend
 羅馬字: gwai
 諺文: "괘"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4120

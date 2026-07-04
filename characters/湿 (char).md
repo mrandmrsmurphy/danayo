@@ -20,7 +20,7 @@ english:
   - damp
 羅馬字: sǝb
 諺文: 습
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5305

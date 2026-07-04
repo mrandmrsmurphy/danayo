@@ -11,7 +11,10 @@ views:
       - english
       - file.mtime
       - danayo_id
+      - joyo_level
     sort:
+      - property: joyo_level
+        direction: ASC
       - property: date-last-perfect
         direction: DESC
       - property: file.mtime

@@ -21,7 +21,7 @@ english:
   - pivot
 羅馬字: dug
 諺文: "둑"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6050

@@ -1,18 +1,18 @@
 ---
-mandarin: "tù"
+mandarin: tù
 cantonese: tou3
-korean: "토"
-korean_native: "토끼"
+korean: 토
+korean_native: 토끼
 japanese:
   - TO
 japanese_native: うさぎ
 vietnamese:
   - thỏ
   - thố
-middle_chinese_initial: "tʰ"
+middle_chinese_initial: tʰ
 middle_chinese_final: uo
 stroke_count: 8
-radical: "儿"
+radical: 儿
 skip_number: 4-8-4
 grade_level: "5"
 pos: 名詞
@@ -20,17 +20,17 @@ english:
   - rabbit
   - hare
 羅馬字: to
-諺文: "토"
-joyo_level: "人名用字"
-hsk_level: "無"
-hanmun_edu_level: "名"
+諺文: 토
+joyo_level:
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 5347
 mc_id: 9935
-graphemic_classification: "象形"
-stand_in: "兎"
+graphemic_classification: 象形
+stand_in: 兎
 aliases:
   - 兔
-注音: "ㄊㄛ"
+注音: ㄊㄛ
 kwin: true
 date-last-perfect: 2026-07-02
 tags:

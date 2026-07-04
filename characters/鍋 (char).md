@@ -19,7 +19,7 @@ english:
   - pot
 羅馬字: gwa
 諺文: "과"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 6283

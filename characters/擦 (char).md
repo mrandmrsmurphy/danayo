@@ -25,7 +25,7 @@ english:
   - brush
 羅馬字: cad
 諺文: "찯"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6325

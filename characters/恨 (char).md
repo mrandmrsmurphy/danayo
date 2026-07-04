@@ -23,7 +23,7 @@ english:
   - grudge
 羅馬字: han
 諺文: "한"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3122

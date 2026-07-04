@@ -19,7 +19,7 @@ english:
   - practice self-restraint
 羅馬字: kug
 諺文: 쿡
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4025

@@ -22,7 +22,7 @@ english:
   - beat
 羅馬字: geg
 諺文: "걱"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "高等"
 danayo_id: 6402

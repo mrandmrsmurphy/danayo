@@ -18,7 +18,7 @@ english:
   - ford
 羅馬字: seb
 諺文: 섭
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5111

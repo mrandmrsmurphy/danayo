@@ -21,7 +21,7 @@ english:
   - disorderly
 羅馬字: "fǝn"
 諺文: "쁜"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5271

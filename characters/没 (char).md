@@ -21,7 +21,7 @@ english:
   - sink
 羅馬字: mod
 諺文: 몯
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 4153

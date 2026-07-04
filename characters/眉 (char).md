@@ -23,7 +23,7 @@ english:
   - eyebrows
 羅馬字: miǝ
 諺文: "믜"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5059

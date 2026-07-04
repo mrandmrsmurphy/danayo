@@ -26,7 +26,7 @@ english:
   - phobia
 羅馬字: "'oi"
 諺文: "외"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "4"
 hanmun_edu_level: "高等"
 danayo_id: 6383

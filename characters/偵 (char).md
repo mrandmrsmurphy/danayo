@@ -21,7 +21,7 @@ english:
   - spy
 羅馬字: ting
 諺文: "팅"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "名"
 danayo_id: 6124

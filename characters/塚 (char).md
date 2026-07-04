@@ -22,7 +22,7 @@ english:
   - burial mound
 羅馬字: cong
 諺文: "총"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: ""
 danayo_id: 7325

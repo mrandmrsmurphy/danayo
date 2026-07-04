@@ -20,7 +20,7 @@ english:
   - cocoon
 羅馬字: gyem
 諺文: "겸"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6111

@@ -21,7 +21,7 @@ english:
   - cook
 羅馬字: cui
 諺文: 취
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6086

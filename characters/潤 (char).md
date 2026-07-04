@@ -23,7 +23,7 @@ english:
   - increasing
 羅馬字: nun
 諺文: "눈"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5112

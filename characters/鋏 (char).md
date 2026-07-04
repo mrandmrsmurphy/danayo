@@ -1,8 +1,8 @@
 ---
-mandarin: "jiá"
+mandarin: jiá
 cantonese: gaap3
-korean: "협"
-korean_native: "집게"
+korean: 협
+korean_native: 집게
 japanese:
   - KYOU
 japanese_native: つるぎ
@@ -12,24 +12,24 @@ vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: ep
 stroke_count: 15
-radical: "金"
+radical: 金
 skip_number: 1-8-7
-grade_level: "先進"
+grade_level: 先進
 pos: 名詞
 english:
   - tongs
 羅馬字: geb
-諺文: "겁"
-joyo_level: "高等"
-hsk_level: "無"
-hanmun_edu_level: "名"
+諺文: 겁
+joyo_level: 表外字
+hsk_level: 無
+hanmun_edu_level: 名
 danayo_id: 7427
 mc_id: 5392
-graphemic_classification: "夹"
-stand_in: "鋏"
+graphemic_classification: 夹
+stand_in: 鋏
 aliases:
   - 铗
-注音: "ㄍㄝㄆ"
+注音: ㄍㄝㄆ
 kwin: false
 tags:
   - character

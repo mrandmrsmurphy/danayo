@@ -23,7 +23,7 @@ english:
   - pinch
 羅馬字: jwad
 諺文: "좓"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7216

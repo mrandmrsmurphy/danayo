@@ -26,7 +26,7 @@ english:
   - collide
 羅馬字: cong
 諺文: "총"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5061

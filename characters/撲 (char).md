@@ -25,7 +25,7 @@ english:
   - rush at
 羅馬字: pog
 諺文: 폭
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: 名
 danayo_id: 6310

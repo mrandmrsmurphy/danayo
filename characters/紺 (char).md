@@ -22,7 +22,7 @@ english:
   - navy blue
 羅馬字: gam
 諺文: "감"
-joyo_level: ""
+joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6036
