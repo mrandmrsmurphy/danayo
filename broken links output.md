@@ -25,8 +25,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[論叢]] in [[characters/叢]]
 - [[丂]] in [[characters/可 (char)]], [[characters/号]], [[characters/巧]], [[characters/昜]]
 - [[㠯]] in [[characters/台 (char)]]
-- [[𠃌]] in [[characters/司]]
-- [[𠮛]] in [[characters/司]]
 - [[冎]] in [[characters/咼]], [[characters/骨 (char)]]
 - [[𢦏]] in [[characters/哉 (char)]]
 - [[奐]] in [[characters/喚 (char)]], [[lookup/Korean/Korean Name ㅎ]]
