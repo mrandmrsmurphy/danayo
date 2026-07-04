@@ -271,7 +271,7 @@ This is a **structurally explicit coordination system**, unlike Classical Chines
     
 - Focus is not separately grammaticalized
     
-- Particles like 丈 (“only”), 且 (“also”) operate within topic/comment structure
+- Particles like 只 (“only”), 且 (“also”) operate within topic/comment structure
     
 
 This yields a system where:
@@ -470,7 +470,7 @@ At first, a form like 以 may still be understood semantically as “take, by me
 
 Likewise 于 and 於 cease to be flexible pre-verbal or coverb-like items and become strict NP-final markers of animate goal and location.
 
-丈 and 且 become discourse particles associated with topic phrases, because that is where readers keep encountering and teaching them.
+只 and 且 become discourse particles associated with topic phrases, because that is where readers keep encountering and teaching them.
 
 Sentence-final elements such as 矣 harden as clause-final force markers, because end position becomes a stable grammatical slot.
 
