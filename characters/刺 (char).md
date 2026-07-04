@@ -48,7 +48,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*sʰeɡs): semantic [[Radical 018|刂]] ("knife") + phonetic [[朿]] ("thorn," OC \*[tsʰ]ek) — a thorn-like point that pierces; to stab, prick.
+- 形声 (OC \*sʰeɡs): semantic [[Radical 018|刂]] ("knife") + phonetic [朿](刺%20(char).md) ("thorn," OC \*[tsʰ]ek) — a thorn-like point that pierces; to stab, prick.
 - [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 497th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄧㄎ](../syllables/ㄑㄧㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
