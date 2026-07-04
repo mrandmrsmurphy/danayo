@@ -97,7 +97,6 @@ views:
     order:
       - file.name
       - size
-      - skip_number
-      - stroke_count
       - date-last-perfect
+
 ```

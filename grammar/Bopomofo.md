@@ -1,4 +1,8 @@
-Dan'a'yo uses the Zhuyin/Bopomofo alphabet as ruby to phonetically transcribe words in all situations possible.  The official name is <ruby>[注音符号](/words/注音符号.md)<rt>ㄐㄨ·ㄨㄇㄅㄨㄏㄚㄨ</rt></ruby>.
+---
+language: 単亜語
+date-last-perfect: 2026-07-04
+---
+Dan'a'yo uses the Zhuyin/Bopomofo alphabet as ruby to phonetically transcribe words in all situations possible.  The official name is <ruby>[注音符号](/words/注音符号.md)<rt>ㄐㄨ·ㄨㄇㄅㄨㄏㄚㄨ</rt></ruby>. For symbols used only to transcribe foreign (non-Dan'a'yo) sounds, see [[文法 - 03文字法#Extended Bopomofo]].
 
 In Taiwan, the names of consonant is constrained by the phonotactics of Mandarin: labials are followed by **o**, velars and alveolars by **e**, the rest by **i**.  We use letters more freely, so their names all end in ㄛ.
 
