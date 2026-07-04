@@ -1,11 +1,11 @@
 ---
-language: English
-tags:
-  - syllable
-  - best-practice
+name: checklist-syllables
+description: Completion rubric for syllable pages — linking characters to a phonological unit and identifying the stand-alone word
+metadata:
+  type: checklist
 ---
 
-# Best Practices: Syllable Pages
+# Checklist: Syllable Pages
 
 A syllable page documents one phonological unit of 単亜語, linking it to all characters that carry that sound and establishing which character is the *stand-alone* (the primary Dan'a'yo word for that syllable).
 

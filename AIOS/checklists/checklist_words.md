@@ -1,11 +1,11 @@
 ---
-language: English
-tags:
-  - word
-  - best-practice
+name: checklist-words
+description: Completion rubric for word pages — frontmatter fields, constituent character links, and Bases queryability
+metadata:
+  type: checklist
 ---
 
-# Best Practices: Word Pages
+# Checklist: Word Pages
 
 A word page is the canonical record for one multi-character Dan'a'yo compound: its pronunciation across the CJKV sphere, its Dan'a'yo phonology, its constituent characters, and its meaning. Every page must be queryable via Obsidian Bases and must link cleanly back to its component character pages.
 

@@ -1,11 +1,11 @@
 ---
-language: English
-tags:
-  - lookup
-  - best-practice
+name: checklist-skip
+description: Completion rubric for SKIP lookup pages — index vs. leaf file structure, including SKIP-4's distinct layout
+metadata:
+  type: checklist
 ---
 
-# Best Practices: SKIP Pages
+# Checklist: SKIP Pages
 
 SKIP (System of Kanji Indexing by Patterns) assigns every 漢字 a three-number code. These pages exist to look up characters by shape when you don't know the reading. There are two distinct file types — **index files** and **leaf files** — and SKIP-4 has a substantially different internal structure from SKIP-1, -2, and -3.
 

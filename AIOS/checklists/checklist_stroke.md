@@ -1,11 +1,11 @@
 ---
-language: English
-tags:
-  - lookup
-  - best-practice
+name: checklist-stroke
+description: Completion rubric for Stroke lookup pages — SKIP-grouped inventory of every character at a given stroke count
+metadata:
+  type: checklist
 ---
 
-# Best Practices: Stroke Pages
+# Checklist: Stroke Pages
 
 A stroke page is a complete, SKIP-grouped inventory of every 漢字 in Dan'a'yo with a given total stroke count. The goal is to function as a lookup table: given a stroke count, a reader can find any character by its SKIP shape code.
 

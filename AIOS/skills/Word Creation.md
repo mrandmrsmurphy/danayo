@@ -124,4 +124,4 @@ When a homophone exists, add a `[!tip]` callout to **both** files, between the f
 Do not document homophones only in Notes prose — the callout is the canonical location.
 
 ### Vietnamese
-Include `vietnamese:` only when Wiktionary provides it. Omit the key entirely (not blank) when absent, per BP Words common mistakes.
+Include `vietnamese:` only when Wiktionary provides it. Omit the key entirely (not blank) when absent, per [[AIOS/checklists/checklist_words.md|checklist_words.md]]'s common mistakes.

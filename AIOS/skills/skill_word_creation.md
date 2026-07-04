@@ -125,7 +125,7 @@ Many date/number/calendar words have fused Japanese readings that are NOT the co
 Use the traditional character URL for lookup even when the Dan'a'yo filename uses the simplified form. E.g. for 三位一体, fetch `三位一體` on Wiktionary for complete CJKV data.
 
 ### Vietnamese
-Include `vietnamese:` only when Wiktionary provides it, or when WebSearch can confirm an attested Sino-Vietnamese reading (e.g. searching `<compound> Hán Việt "<candidate reading>" nghĩa`). Omit the key entirely (not blank) when absent, per BP Words common mistakes.
+Include `vietnamese:` only when Wiktionary provides it, or when WebSearch can confirm an attested Sino-Vietnamese reading (e.g. searching `<compound> Hán Việt "<candidate reading>" nghĩa`). Omit the key entirely (not blank) when absent, per [[AIOS/checklists/checklist_words.md|checklist_words.md]]'s common mistakes.
 
 ### Filename/duplicate-checking discipline
 ALWAYS run `ls words/ | grep -i <chars>` AND `ls characters/ | grep -i <chars>` before creating — check for existing word files (including alternate character forms / traditional-simplified variants) and confirm the constituent characters' filenames. A "broken link" can be caused either by a missing file OR by a mismatched/duplicated stub pointing at the wrong character form (see [[project_broken_links_batch]] for a worked example: 六腑 vs 六府).

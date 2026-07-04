@@ -5,7 +5,7 @@ metadata:
   type: feedback
 ---
 
-When perfecting a word's `羅馬字`/`諺文`/`注音`, the correct value is a **direct concatenation of each component character's values from `characters/`** — per `words/BP Words.md`. There is no word-initial devoicing or other sound-shift rule in this conlang.
+When perfecting a word's `羅馬字`/`諺文`/`注音`, the correct value is a **direct concatenation of each component character's values from `characters/`** — per [[AIOS/checklists/checklist_words.md|checklist_words.md]]. There is no word-initial devoicing or other sound-shift rule in this conlang.
 
 **Why:** While perfecting `words/蜂巣.md` and `words/蜂蜜.md`, I found `諺文`/`羅馬字` used 퐁/pong (ㄆ) while `注音` used ㄈㄛㄫ (matching `characters/蜂 (char).md`'s fong/뽕/ㄈㄛㄫ). I incorrectly "fixed" `注音` to match 퐁/pong, inventing a sound-shift rule based on `words/蜂.md` (which itself has pong/퐁/ㄆㄛㄫ — inconsistent with the character page). The user corrected me: 蜂 = fong/뽕/ㄈㄛㄫ, so 蜂巣 = fongjau/뽕잣/ㄈㄛㄫㄐㄚㄨ. I reverted and fixed `諺文`/`羅馬字` to fongjau/뽕잣 and fongmid/뽕믿 instead.
 

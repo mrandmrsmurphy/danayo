@@ -1,11 +1,11 @@
 ---
-language: English
-tags:
-  - character
-  - best-practice
+name: checklist-characters
+description: Completion rubric for character pages — frontmatter fields, body structure, and the date-last-perfect criteria
+metadata:
+  type: checklist
 ---
 
-# Best Practices: Character Pages
+# Checklist: Character Pages
 
 A character page is the canonical record for one 漢字 in Dan'a'yo: its orthography, pronunciations across all five CJKV languages, graphemic origin, phonological history, and its role in Dan'a'yo words and chengyu. Every page must be self-contained as a reference while also feeding the database via its frontmatter.
 

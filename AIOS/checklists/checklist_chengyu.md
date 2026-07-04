@@ -1,11 +1,11 @@
 ---
-language: English
-tags:
-  - chengyu
-  - best-practice
+name: checklist-chengyu
+description: Completion rubric for chengyu pages — encyclopedic depth, origin/textual history, and cross-CJKV pronunciation
+metadata:
+  type: checklist
 ---
 
-# Best Practices: Chengyu Pages
+# Checklist: Chengyu Pages
 
 A chengyu page is an encyclopedic article on a single four-character idiom: its literal and figurative meaning, its origin and textual history, its pronunciations across the CJKV sphere, its cultural valence, and its use in context. The target standard is thorough — each page should be able to stand alone as a reference.
 

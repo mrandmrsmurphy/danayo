@@ -1,11 +1,11 @@
 ---
-language: English
-tags:
-  - lookup
-  - best-practice
+name: checklist-radicals
+description: Completion rubric for Radical lookup pages — stroke-grouped inventory of every character under one Kangxi radical
+metadata:
+  type: checklist
 ---
 
-# Best Practices: Radical Pages
+# Checklist: Radical Pages
 
 A radical page is a complete, stroke-grouped inventory of every 漢字 classified under one Kangxi radical. The goal is to function as a lookup table: given a radical, a reader can find any character by counting the strokes added beyond the radical itself.
 

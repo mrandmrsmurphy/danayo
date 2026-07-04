@@ -71,16 +71,9 @@ The `.base` files are Obsidian Bases databases for querying entries:
 - `chengyu/All Chengyu Base.base`
 - `Last Perfect.base` — tracks `date-last-perfect` for spaced repetition review
 
-## Best Practices
+## Checklists
 
-A growing number of file types have a `best practices` page, which documents the "correct" way to make a page of that kind:
-- [[chengyu/BP Chengyu.md]]
-- [[lookup/SKIP/BP SKIP.md]]
-- [[lookup/Radicals/BP Radicals.md]]
-- [[lookup/Stroke/BP Stroke.md]]
-- [[syllables/BP syllables.md]]
-- [[characters/BP Characters.md]]
-- [[words/BP Words.md]]
+Every content type has a completion-rubric page — the "date-last-perfect" spec for a fully correct page of that kind. These live in `AIOS/checklists/` (not the content directories themselves) since their real audience is Claude checking pages against them, not a human browsing Obsidian. Indexed at [[AIOS/checklist-index.md]].
 
 ## Skills
 
@@ -99,7 +92,9 @@ Structure:
 - **`AIOS/memory-index.md`** — index of standing memories: who the user is, feedback/corrections on how to work here, pointers to external systems. **Read this at the start of every session.**
 - **`AIOS/memory/`** — individual files: `user_*.md` (who 武明帥 is, how he thinks), `feedback_*.md` (corrections and confirmations — lead with the rule, then `**Why:**` and `**How to apply:**`), `reference_*.md` (pointers to external systems)
 - **`AIOS/skill-index.md`** — index of step-by-step workflow guides; read the relevant skill in full before starting that kind of work
-- **`AIOS/skills/`** — individual `skill_*.md` guides
+- **`AIOS/skills/`** — individual `skill_*.md` guides (how to *create* something)
+- **`AIOS/checklist-index.md`** — index of completion rubrics, one per content type; read the relevant checklist before perfecting or auditing that kind of page
+- **`AIOS/checklists/`** — individual `checklist_*.md` rubrics (how to judge whether something that already exists is *complete* — the "date-last-perfect" spec)
 - **`AIOS/projects.md`** — living status document for ongoing work; read at the start of every session to see what's active and where to resume
 - **`AIOS/projects/`** — deeper history for individual projects, as `project_*.md` files linked from `projects.md`
 

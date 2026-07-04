@@ -6,7 +6,7 @@ type: feedback
 
 **Syllable link goes only on bullet 3** (MC rank/initial/final line), never on bullet 2 (SKIP/Stroke). Bullet 2 ends after the Stroke link — no em-dash, no syllable.
 
-**Why:** Pronunciation belongs on the phonology line. The `BP Characters.md` bullet-2 example is wrong (it shows a syllable link there); user confirmed bullet 3 is the correct location.
+**Why:** Pronunciation belongs on the phonology line. The [[AIOS/checklists/checklist_characters.md|checklist_characters.md]] bullet-2 example is wrong (it shows a syllable link there); user confirmed bullet 3 is the correct location.
 
 **How to apply:** Bullet 2 format: `[SKIP-X-Y-Z](...) ([Stroke NN](...))` — stop there. Bullet 3 format: `Nth most used... Ancient [initial] + [final] → [syllable](...)`.
 
