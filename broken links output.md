@@ -71,7 +71,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[恬]] in [[characters/憩]], [[lookup/Korean/Korean Name ㄴ]]
 - [[貇]] in [[characters/懇]]
 - [[末 (char)]] in [[characters/抹 (char)]]
-- [[扌]] in [[characters/拱 (char)]], [[characters/撞]], [[characters/擬 (char)]], [[characters/𢭐]]
+- [[扌]] in [[characters/拱 (char)]], [[characters/擬 (char)]], [[characters/𢭐]]
 - [[拱手]] in [[characters/拱 (char)]]
 - [[俞]] in [[characters/揄]]
 - [[軍 (char)]] in [[characters/揮]]
