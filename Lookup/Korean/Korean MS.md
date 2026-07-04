@@ -1,7 +1,7 @@
 ---
+date-last-perfect: 2026-07-04
 tags: [lookup]
 ---
-> Everything that should be a redirect, is.  All have the correct Hanmun education level.  It remains to check these all for the correct native Korean.
 ## ㄱ
 #### 가
 1. [家](../../characters/家.md) (집 가)
@@ -241,7 +241,7 @@ tags: [lookup]
 [莫](characters/莫%20(char).md) (없을 막)
 
 #### 만
-[萬](../../characters/萬.md) (일만 만) [晩](characters/晩%20(char).md) (늦을 만) [滿](../../characters/満%20(char).md) (찰 만)
+[萬](../../characters/万.md) (일만 만) [晩](characters/晩%20(char).md) (늦을 만) [滿](../../characters/満%20(char).md) (찰 만)
 
 #### 말
 [末](../../characters/末.md) (끝 말)

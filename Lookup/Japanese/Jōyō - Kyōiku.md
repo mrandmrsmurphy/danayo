@@ -1,4 +1,5 @@
 ---
+date-last-perfect: 2026-07-04
 tags: [lookup]
 ---
 This is the list of <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> required in Japanese grammar school.  For the other 1000+ characters, see [[Jōyō - Kōtō]].
@@ -7,15 +8,15 @@ The following prefecture names were added in 2017:
 - 4th: 茨 (Ibaraki), 媛 (Ehime), 岡 (Shizuoka, Okayama and Fukuoka), 潟 (Niǝgata), 岐 (Gifu), 熊 (Kumamoto), 香 (Kagawa), 佐 (Saga), 埼 (Saitama), 崎 (Nagasaki and Miyazaki), 滋 (Shiga), 鹿 (Kagoshima), 縄 (Okinawa)
 - 5th: 井 (Fukui), 沖 (Okinawa), 栃 (Tochigi), 奈 (Kanagawa and Nara), 梨 (Yamanashi), 阪 (Ōsaka), 阜 (Gifu)
 ## Grade 1 - 80
-1. [一](一%20(char)) : ichi (hito-tsu)    
-2. [二](二%20(char)) : ni (futa-tsu)    
-3. [三](三%20(char)) : san (mi-tsu)    
-4. [四](四%20(char)) : shi (yottsu, yon)    
-5. [五](五%20(char)) : go (itsu-tsu)    
-6. [六](六%20(char)) : roku (muttsu)    
-7. [七](七%20(char)) : shichi (nana, nanatsu)    
-8. [八](八%20(char)) : hachi (yattsu)    
-9. [九](九%20(char)) : kyū / ku (kokono-tsu)    
+1. [一](characters/一%20(char).md) : ichi (hito-tsu)    
+2. [二](characters/二%20(char).md) : ni (futa-tsu)    
+3. [三](characters/三%20(char).md) : san (mi-tsu)    
+4. [四](characters/四%20(char).md) : shi (yottsu, yon)    
+5. [五](characters/五%20(char).md) : go (itsu-tsu)    
+6. [六](characters/六%20(char).md) : roku (muttsu)    
+7. [七](characters/七%20(char).md) : shichi (nana, nanatsu)    
+8. [八](characters/八%20(char).md) : hachi (yattsu)    
+9. [九](characters/九%20(char).md) : kyū / ku (kokono-tsu)    
 10. [十 (char)](../../characters/十%20(char).md) : jū (tō)    
 11. [百 (char)](../../characters/百%20(char).md) : hyaku momo
 12. [千](characters/千.md) sen chi
@@ -654,7 +655,7 @@ The following prefecture names were added in 2017:
 642. [鹿](characters/鹿%20(char).md) - deer
 ## Grade 5 - 193 kanji
 643. [久](characters/久%20(char).md) : kyū	hisa	long time
-644. [仏](characters/佛%20(char)) : hutsu ; butsu	hotoke	Buddha
+644. [仏](characters/佛%20(char).md) : hutsu ; butsu	hotoke	Buddha
 645. [仮](characters/仮.md) : ka ; ke	kari	sham
 646. [件](characters/件.md) : ken	 	affair
 647. [任](characters/任.md) : nin	maka-seru	responsibility
@@ -871,7 +872,7 @@ The following prefecture names were added in 2017:
 857. [卵](characters/卵.md) : ran	tamago	egg
 858. [厳](characters/厳%20(char).md) : gen	kibi-shiǝ	strict
 859. [収](characters/収.md) : shū	osa-meru	take in
-860. [后](characters/後%20(char).md) : gō	kisaki	queen
+860. [后](characters/后.md) : gō	kisaki	queen
 861. [否](characters/否%20(char).md) : hi	ina ;  iya	negate
 862. [吸 (char)](../../characters/吸%20(char).md) : kyū	su-u	suck
 863. [呼](characters/呼%20(char).md) : ko	yo-bu	call
