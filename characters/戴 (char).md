@@ -22,7 +22,7 @@ english:
   - wear on top
 羅馬字: tai
 諺文: "태"
-joyo_level: "表外字"
+joyo_level: "高等"
 hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6330

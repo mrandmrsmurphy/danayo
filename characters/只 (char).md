@@ -24,7 +24,7 @@ english:
   - merely
 羅馬字: ce
 諺文: 처
-joyo_level: 日本人名用漢字
+joyo_level: "高等"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 3052

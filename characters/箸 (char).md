@@ -23,7 +23,7 @@ english:
   - chopsticks
 羅馬字: dwa
 諺文: "돠"
-joyo_level: "表外字"
+joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6022

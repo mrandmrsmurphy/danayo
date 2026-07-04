@@ -23,7 +23,7 @@ english:
   - great-
 羅馬字: jǝng
 諺文: 증
-joyo_level: 表外字
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3157

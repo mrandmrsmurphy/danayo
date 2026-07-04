@@ -57,7 +57,7 @@ tags: [lookup]
 1079. [凹 (char)](../../characters/凹%20(char).md) : concave
 1080. [押 (char)](../../characters/押%20(char).md) : pushed
 1081. [旺](../../characters/旺.md) : flourishing
-1082. [欧](../../characters/𧦅.md) : 	歐	Europe
+1082. [欧](../../characters/欧.md) : 	歐	Europe
 1083. [殴](../../characters/殴.md) : 	毆	assault
 1084. [翁 (char)](../../characters/翁%20(char).md) : venerable old man
 1085. [奥 (char)](../../characters/奥%20(char).md) : 	奧	heart

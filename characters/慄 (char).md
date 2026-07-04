@@ -22,7 +22,7 @@ english:
   - shiver
 羅馬字: lid
 諺文: "릳"
-joyo_level: "表外字"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "名"
 danayo_id: 6346

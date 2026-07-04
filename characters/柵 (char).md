@@ -20,7 +20,7 @@ english:
   - fence
 羅馬字: cag
 諺文: "착"
-joyo_level: "表外字"
+joyo_level: "高等"
 hsk_level: ""
 hanmun_edu_level: "名"
 danayo_id: 7069

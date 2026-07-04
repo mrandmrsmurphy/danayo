@@ -25,7 +25,7 @@ english:
   - occasion
 羅馬字: keng
 諺文: 컹
-joyo_level: 表外字
+joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5067

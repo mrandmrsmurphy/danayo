@@ -28,7 +28,7 @@ english:
   - twist
 羅馬字: neb
 諺文: "넙"
-joyo_level: "表外字"
+joyo_level: "高等"
 hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6064

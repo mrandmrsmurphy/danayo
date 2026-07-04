@@ -21,7 +21,7 @@ english:
   - smile
 羅馬字: syou
 諺文: "숏"
-joyo_level: "4"
+joyo_level: "高等"
 hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2191

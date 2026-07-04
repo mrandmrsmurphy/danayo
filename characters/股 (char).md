@@ -22,7 +22,7 @@ english:
   - fork
 羅馬字: go
 諺文: "고"
-joyo_level: "表外字"
+joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6238

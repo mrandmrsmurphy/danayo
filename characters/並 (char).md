@@ -19,7 +19,7 @@ english:
   - side by side
 羅馬字: beng
 諺文: "벙"
-joyo_level: "6"
+joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4319
