@@ -1,8 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[攸]] in [[characters/修]], [[lookup/Korean/Korean Name ㅇ]]
-- [[建 (char)]] in [[characters/健]]
-- [[責 (char)]] in [[characters/債]]
-- [[尞]] in [[characters/僚]], [[characters/遼]]
 - [[厶]] in [[characters/允]]
 - [[儿]] in [[characters/允]], [[characters/先]]
 - [[卩]] in [[characters/光 (char)]], [[characters/即 (char)]], [[characters/皮]], [[characters/色]], [[characters/見 (char)]]
