@@ -1,7 +1,7 @@
 ---
-mandarin: "sāo"
-cantonese: "sou1"
-korean: "소"
+mandarin: sāo
+cantonese: sou1
+korean: 소
 korean_native: 떠들
 japanese:
   - SOU
@@ -19,7 +19,7 @@ english:
 羅馬字: sau
 諺文: 삿
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5068
 mc_id: 2358
@@ -31,7 +31,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness:
 ---
 >[!tip] This is a page about the character 騒.
 >For the word, see [騒](words/騒.md)

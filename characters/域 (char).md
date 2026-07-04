@@ -1,8 +1,8 @@
 ---
-mandarin: "yù"
+mandarin: yù
 cantonese: wik6
-korean: "역"
-korean_native: "지경"
+korean: 역
+korean_native: 지경
 japanese:
   - IKI
 japanese_native:
@@ -13,10 +13,10 @@ vietnamese:
   - vặc
   - vức
   - vực
-middle_chinese_initial: "ø"
-middle_chinese_final: "wɨk"
+middle_chinese_initial: ø
+middle_chinese_final: wɨk
 stroke_count: 11
-radical: "土"
+radical: 土
 skip_number: 1-3-8
 grade_level: "5"
 pos: 名詞
@@ -24,15 +24,15 @@ english:
   - domain
   - level
 羅馬字: "'wig"
-諺文: "윅"
+諺文: 윅
 joyo_level: "6"
 hsk_level: "3"
-hanmun_edu_level: "無"
+hanmun_edu_level: 高等
 danayo_id: 5141
 mc_id: 1277
-graphemic_classification: "或"
-stand_in: "域"
-注音: "ㄨㄧㄎ"
+graphemic_classification: 或
+stand_in: 域
+注音: ㄨㄧㄎ
 date-last-perfect: 2026-06-14
 kwin: false
 tags:

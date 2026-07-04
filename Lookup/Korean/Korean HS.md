@@ -257,7 +257,7 @@ tags: [lookup]
 [泊](../../characters/泊.md) (머무를 박)  [拍 (char)](../../characters/拍%20(char).md) (칠 박)  [迫](../../characters/迫.md) (닥칠 박)  [博](../../characters/博.md) (넓을 박)  [薄](../../characters/薄.md) (엷을 박)
 
 #### 반
-[般 (char)](../../characters/般%20(char).md) (돌 반)  [盤 (char)](../../characters/盤%20(char).md) (소반 반)  [班 (char)](../../characters/班%20(char).md) (나눌 반)  [返](../../characters/返.md) (돌아올 반)  [叛](../../characters/叛.md) (배반할 반)  [伴](../../characters/伴.md) (짝 반)
+[般 (char)](../../characters/般%20(char).md) (돌 반)  [盤 (char)](../../characters/盤%20(char).md) (소반 반)  [班 (char)](../../characters/班%20(char).md) (나눌 반)  [返](../../characters/返.md) (돌아올 반)  叛-->反 (배반할 반)  [伴](../../characters/伴.md) (짝 반)
 
 #### 발
 [拔](../../characters/抜.md) (뺄 발)  [髮](../../characters/髪.md) (터럭 발)
@@ -558,7 +558,7 @@ tags: [lookup]
 #### 종
 [[縦 (char)|縱]] (늘어질 종)
 #### 좌
-[佐](../../characters/佐.md) (도울 좌)  [[坐 (char)|座]] (자리 좌)
+[佐](../../characters/佐.md) (도울 좌)  坐<--座 (자리 좌)
 #### 주
 [舟](../../characters/舟.md) (배 주)  [周](../../characters/周.md) (두루 주)  [株 (char)](../../characters/株%20(char).md) (그루 주)  [[州 (char)]] (고을 주)  [[洲 (char)]] (섬 주)  [柱 (char)](../../characters/柱%20(char).md) (기둥 주)  [奏](../../characters/奏.md) (아뢸 주)  [珠](../../characters/珠.md) (구슬 주)  [鑄](../../characters/鋳.md) (부어 만들 주)
 #### 준
@@ -642,7 +642,7 @@ tags: [lookup]
 #### 탁
 [濁](../../characters/濁.md) (흐릴 탁) , 託 <-- 托 (밀 탁) , [濯](../../characters/濯.md) (씻을 탁) , [卓](../../characters/卓.md) (높을 탁)
 #### 탄
-[炭 (char)](../../characters/炭%20(char).md) (숯 탄) , [歎](../../characters/嘆%20(char).md) (탄식할 탄) , [彈](../../characters/弾.md) (탄알 탄) , [誕](../../characters/誕.md) (태어날 탄)
+[炭 (char)](../../characters/炭%20(char).md) (숯 탄) , 歎-->嘆 (탄식할 탄) , [彈](../../characters/弾.md) (탄알 탄) , [誕](../../characters/誕.md) (태어날 탄)
 #### 탈
 [奪](../../characters/奪.md) (빼앗을 탈)
 #### 탐
@@ -708,7 +708,7 @@ tags: [lookup]
 #### 험
 [[険 (char)|險]] (험할 험)  [[../../characters/験 (char)|驗]] (시험할 험)
 #### 현
-[玄 (char)](../../characters/玄%20(char).md) (검을 현)  [弦 (char)](../../characters/弦%20(char).md) (악기 줄 현)  [縣](../../characters/県%20(char).md) (고을 현)  [懸 (char)](../../characters/懸%20(char).md) (매달 현)  [顯](../../characers/顕.md) (나타날 현)
+[玄 (char)](../../characters/玄%20(char).md) (검을 현)  [弦 (char)](../../characters/弦%20(char).md) (악기 줄 현)  [縣](../../characters/県%20(char).md) (고을 현)  [懸 (char)](../../characters/懸%20(char).md) (매달 현)  [顯](../../characters/顕.md) (나타날 현)
 #### 혈
 [穴](../../characters/穴.md) (구멍 혈)
 #### 협

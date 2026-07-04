@@ -24,7 +24,7 @@ english:
 諺文: 훤
 joyo_level: "3"
 hsk_level: ""
-hanmun_edu_level: ""
+hanmun_edu_level: 高等
 danayo_id: 4189
 mc_id: 392
 graphemic_classification: 會意
