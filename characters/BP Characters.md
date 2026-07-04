@@ -138,9 +138,9 @@ Include: the Old Chinese reconstruction of the whole character in parentheses; t
 
 **会意:**
 ```markdown
-- 会意 of [[亻]] ("person upright") and [[𠤎]] ("person inverted") — the concept of reversal or transformation.
+- 会意 of [[Radical 009|亻]] ("person upright") and [[𠤎]] ("person inverted") — the concept of reversal or transformation.
 ```
-Include: each constituent component linked with English gloss; a dash-note on the resulting compound meaning. If a historical source (e.g. Shuowen) offers a different analysis, note it briefly.
+Include: each constituent component linked with English gloss; a dash-note on the resulting compound meaning. If a historical source (e.g. Shuowen) offers a different analysis, note it briefly. **Any component that is itself a Kangxi radical — semantic or not, 形声 or 会意 — links to its Radical lookup page** (`[[Radical NNN|char]]`), the same as the semantic component in a 形声 bullet; only non-radical components (like 𠤎, or a 形声 phonetic component) get a bare `[[char]]` link.
 
 **指事:**
 ```markdown
