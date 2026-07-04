@@ -1,5 +1,5 @@
 ---
-size: 88
+size: 89
 stroke_count: 11
 date-last-perfect: 2026-04-29
 skip_number: 1-3-8
@@ -130,6 +130,7 @@ tags:
 86. <ruby>[陸](/characters/陸.md)<rt>ㄌㄨㄎ</rt></ruby> - land, shore; six (formal)
 87. <ruby>[険](/characters/険%20(char).md)<rt>ㄏㄝㄇ</rt></ruby> - steep, dangerous, treacherous
 88. <ruby>[隆](/characters/隆%20(char).md)<rt>ㄌㄨㄫ</rt></ruby> - prosperous, grand; bulging
+89. <ruby>[徘](/characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - pace back and forth
 
 ## Datacheck
 ```dataview

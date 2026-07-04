@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-03
 stroke_count: 9
-size: 59
+size: 60
 skip_number: 1-3-6
 tags:
   - lookup
@@ -69,6 +69,7 @@ tags:
 57. <ruby>[陋](characters/陋.md)<rt>ㄌ⼘ㄨ</rt></ruby> "ugly"
 58. <ruby>[限](characters/限.md)<rt>ㄏㄚㄋ</rt></ruby> "limit"
 59. <ruby>[狡](characters/狡.md)<rt>ㄍ⼄ㄨ</rt></ruby> "cunning"
+60. <ruby>[徊](characters/徊.md)<rt>ㄏㄛㄧ</rt></ruby> "hesitate"
 
 ## Datacheck
 ```dataview
