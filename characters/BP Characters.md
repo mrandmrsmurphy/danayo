@@ -154,6 +154,8 @@ Open with a link to [[lookup/List of 指事]]. Describe what the indicator marks
 ```
 Open with a link to [[lookup/List of 象形]]. Describe what the character depicts, referencing seal-script or oracle-bone forms. For uncertain origins lead with "uncertain" and give the prevailing scholarly interpretation.
 
+**This radical-linking rule applies to every bullet type, not just 会意** — if the character's own `radical` frontmatter value (or any depicted/named component) is itself a Kangxi radical, link it as `[[Radical NNN|char]]` wherever it's mentioned in the graphemic bullet, including 指事 and 象形 descriptions. Don't just describe the depicted shape in prose without linking the radical it corresponds to.
+
 ---
 
 ### Bullet 2 — SKIP and Stroke

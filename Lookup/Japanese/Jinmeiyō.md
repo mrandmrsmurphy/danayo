@@ -266,7 +266,7 @@ tags: [lookup]
 260. [魁](../../characters/魁.md)
 261. [徽](../../characters/徽.md)
 262. [擢](../../characters/擢.md)
-263. [撞](../../characters/撞.md)
+263. [撞](../../characters/撞%20(char).md)
 264. [斐](../../characters/斐.md)
 265. [斡](../../characters/斡.md)
 266. [斧](../../characters/斧.md)

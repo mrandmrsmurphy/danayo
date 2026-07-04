@@ -19,7 +19,7 @@ Checked for redirect.
 [沓](characters/沓.md) [[遝]]
 
 ### 당 
-[[塘]] [[鐺]] [撞](characters/撞.md) [[幢]] [[戇]] [[棠]] [螳](characters/螳.md)
+[[塘]] [[鐺]] [撞](characters/撞%20(char).md) [[幢]] [[戇]] [[棠]] [螳](characters/螳.md)
 
 ### 대  
 [[垈]] [玳](characters/玳.md) [袋 (char)](characters/袋%20(char).md) [戴 (char)](characters/戴%20(char).md) [擡](characters/擡.md) [[旲]] [[岱]] [黛](characters/黛.md) 
