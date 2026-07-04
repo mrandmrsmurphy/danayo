@@ -1,5 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[弋]] in [[characters/代]]
 - [[卬]] in [[characters/仰]]
 - [[夋]] in [[characters/俊]], [[characters/酸 (char)]]
 - [[亻]] in [[characters/保]], [[characters/俯]]
