@@ -1,13 +1,13 @@
 # Typology
 ## 1. General Typological Profile
 
-Dan’a’yo is a **topic-prominent, predominantly isolating language** with **agglutinative layering in the functional domain** and **strictly head-final syntax with constrained exceptions**.
+Dan’a’yo is a **topic-prominent, predominantly isolating language** with **agglutinative layering in the functional domain** and **mixed headedness**: head-final in the nominal and adpositional domains, but **head-initial (VO) within the core verb phrase**.
 
 More precisely:
 
 - **Morphology**: isolating core + agglutinative functional morphology
 - **Alignment**: discourse-driven (topic-prominent), not nominative–accusative or ergative in the usual sense
-- **Word order**: rigid **topic–comment**, internally **head-final (SOV-like)**
+- **Word order**: rigid **topic–comment**, internally **SVO** — the verb precedes its object (神創造世界 “God created the world”), while adjuncts and postpositional phrases precede the verb
 - **Marking type**: strongly **analytic**, with optional but systematic **postpositional case marking**
 
 ## 2. Morphology
@@ -209,7 +209,7 @@ Key properties:
 
 ## 8. Head Directionality
 
-Dan’a’yo is **overwhelmingly head-final**, but with fixed exceptions.
+Dan’a’yo has **mixed headedness**: head-final in the nominal and adpositional domains, but **head-initial (VO) within the core verb phrase**.
 
 ### 8.1 Head-final domains
 
@@ -219,17 +219,21 @@ Dan’a’yo is **overwhelmingly head-final**, but with fixed exceptions.
     
 - Adverbs precede verbs
     
-- Clausal structure is predicate-final
+- Postpositional/oblique phrases (locative, dative, instrumental, etc.) precede the verb
     
 
-### 8.2 Exceptions
+### 8.2 Head-initial domain
+
+- **The core verb phrase is VO**: the verb precedes its direct object (神創造世界 “God created the world,” not \*神世界創造)
+
+### 8.3 Further exceptions
 
 - **Numeral + classifier phrases follow the noun**
     
 - **TAM markers follow the verb**
     
 
-This produces a **mixed but rule-governed system**, not free variation.
+This produces a **mixed but rule-governed system**, not free variation — head-final for adjuncts and modification, head-initial for the core predicate–argument relation.
 
 
 ## 9. Clause Combining
@@ -284,7 +288,8 @@ Dan’a’yo sits at an unusual intersection:
 |Isolating lexicon|Classical Chinese, Vietnamese|
 |Agglutinative TAM|Japanese, Korean, Turkic|
 |Topic prominence|Japanese, Korean|
-|Postpositions|Japanese, Korean|
+|Core VP order (SVO)|Modern Sinitic (Mandarin); unlike Japanese, Korean|
+|Postpositions (adjuncts precede verb)|Japanese, Korean|
 |No serial verbs|Unlike Sinitic / SEA languages|
 |Rigid category system|More like Japanese/Korean than Classical Chinese|
 
@@ -292,7 +297,7 @@ Dan’a’yo sits at an unusual intersection:
 
 Compact typological label:
 
-> **Topic-prominent, isolating–agglutinative mixed language with rigid head-final syntax and postpositional case marking**
+> **Topic-prominent, isolating–agglutinative mixed language with SVO clause structure, head-final adjunct/modifier ordering, and postpositional case marking**
 
 # History
 _"What alternate history would let a living literary language actually drift from late medieval Sinitic into Dan’a’yo under continuous use?”_
@@ -419,7 +424,7 @@ By this stage:
 But more importantly, the grammar now looks like a natural endpoint of a millennium of East Asian literary contact:
 
 - topic-prominent throughout
-- strongly head-final
+- head-final for adjuncts and modifiers, head-initial (SVO) within the core verb phrase
 - mostly isolating
 - but with agglutinative tendencies in a clearly delimited functional layer
 - postpositions rather than loose classical coverbs
@@ -503,8 +508,8 @@ Japanese and Korean readers then interpret ambiguous classical clauses in ways t
 
 1. Set the scene first.  
 2. Name the topic.  
-3. State modifiers and arguments before the main predication.  
-4. Finish with predicate plus mood/TAM.
+3. State modifiers and oblique/adjunct arguments (locative, dative, instrumental, etc.) before the main predication.  
+4. Finish with the predicate — verb before its direct object, if any — plus mood/TAM.
 
 That is enough to give you a strongly head-final language without forcing a fully Japonic or Koreanic structure.
 
