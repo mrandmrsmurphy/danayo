@@ -1,7 +1,7 @@
 ---
-mandarin: "wéi"
-cantonese: "wai4"
-korean: "유"
+mandarin: wéi
+cantonese: wai4
+korean: 유
 korean_native: 생각할
 japanese:
   - YUI
@@ -35,7 +35,7 @@ english:
 諺文: 예
 joyo_level: 高等
 hsk_level: "4"
-hanmun_edu_level: 高等
+hanmun_edu_level: 中
 danayo_id: 4056
 mc_id: 520
 graphemic_classification: 隹

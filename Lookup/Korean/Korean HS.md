@@ -1,4 +1,5 @@
 ---
+date-last-perfect: 2026-07-04
 tags: [lookup]
 ---
 
@@ -442,7 +443,7 @@ tags: [lookup]
 [焉 (char)](../../characters/焉%20(char).md) (어찌 언)
 
 #### 엄
-[[厳 (char)|嚴]] (엄할 엄)
+厳 (char) <-- 嚴 (엄할 엄)
 #### 여
 [予](../../characters/予.md) (나 여)  [輿 (char)](../../characters/輿%20(char).md) (수레 여)
 #### 역
@@ -487,7 +488,7 @@ tags: [lookup]
 #### 위
 [胃 (char)](characters/胃%20(char).md) (밥통 위)  [[謂]] (이를 위)  [圍](../../characters/囲.md) (둘레 위)  [緯](../../characters/緯.md) (씨 위)  [衛](../../characters/衛.md) (지킬 위)  [違](../../characters/違.md) (어길 위)  [委 (char)](../../characters/委%20(char).md) (맡길 위)  [慰](../../characters/慰.md) (위로할 위)  [僞](../../characters/偽%20(char).md) (거짓 위)
 #### 유
-[幽 (char)](../../characters/幽%20(char).md) (그윽할 유)  [惟](../../characters/唯%20(char).md) (생각할 유)  [維](../../characters/維.md) (맬 유)  [乳](../../characters/乳.md) (젖 유)  [儒](../../characters/儒.md) (선비 유)  [裕](../../characters/裕.md) (넉넉할 유)  [誘](../../characters/誘.md) (꾈 유)  [愈](../../characters/愈.md) (나을 유)  [悠](../../characters/悠.md) (멀 유)
+[幽 (char)](../../characters/幽%20(char).md) (그윽할 유)  惟 --> 唯 (생각할 유)  [維](../../characters/維.md) (맬 유)  [乳](../../characters/乳.md) (젖 유)  [儒](../../characters/儒.md) (선비 유)  [裕](../../characters/裕.md) (넉넉할 유)  [誘](../../characters/誘.md) (꾈 유)  [愈](../../characters/愈.md) (나을 유)  [悠](../../characters/悠.md) (멀 유)
 #### 윤
 [閏 (char)](../../characters/閏%20(char).md) (윤달 윤)  [潤 (char)](../../characters/潤%20(char).md) (젖을 윤)
 #### 은

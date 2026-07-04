@@ -143,7 +143,7 @@ tags: [lookup]
 [德](../../characters/徳%20(char).md) (덕 덕)
 
 #### 도
-[刀](../../characters/刀.md) (칼 도) [到](../../characters/到.md) (이를 도) [度](../../characters/度.md) (법도 도) [道](../../characters/道%20(char).md) (길 도) [島](../../characters/島%20(char).md) (섬 도) [徒](../../characters/徒.md) (무리 도) 都 (도읍 도) [圖](../../characters/図.md) (그림 도)
+[刀](../../characters/刀.md) (칼 도) [到](../../characters/到.md) (이를 도) [度](../../characters/度.md) (법도 도) [道](../../characters/道%20(char).md) (길 도) [島](../../characters/島%20(char).md) (섬 도) [徒](../../characters/徒.md) (무리 도) [都](../../characters/都.md) (도읍 도) [圖](../../characters/図.md) (그림 도)
 
 #### 독
 [讀](../../characters/読.md) (읽을 독) [獨](../../characters/独.md) (홀로 독)
@@ -213,7 +213,7 @@ tags: [lookup]
 [柳](../../characters/柳%20(char).md) (버들 류) [留](../../characters/留%20(char).md) (머무를 류) [流](../../characters/流.md) (흐를 류)
 
 #### 륙
-[六](六%20(char)) (여섯 륙) [陸](../../characters/陸.md) (뭍 륙)
+[六](../../characters/六%20(char).md) (여섯 륙) [陸](../../characters/陸.md) (뭍 륙)
 
 #### 륜
 [倫](../../characters/倫.md) (인륜 륜)
@@ -501,7 +501,7 @@ tags: [lookup]
 [言 (char)](characters/言%20(char).md) (말씀 언)
 
 #### 엄
-[[厳 (char)|嚴]] (엄할 엄)
+[[厳 (char)|厳]] (엄할 엄)
 
 #### 업
 [業 (char)](characters/業%20(char).md) (업 업)

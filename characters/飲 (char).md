@@ -1,8 +1,8 @@
 ---
-mandarin: "yǐn"
+mandarin: yǐn
 cantonese: jam2
 korean: 음
-korean_native: "마실"
+korean_native: 마실
 japanese:
   - IN
   - ON
@@ -12,28 +12,28 @@ vietnamese:
   - ẩm
   - ỏm
   - ỡm
-middle_chinese_initial: "ʔ"
-middle_chinese_final: "ɣiɪm"
+middle_chinese_initial: ʔ
+middle_chinese_final: ɣiɪm
 stroke_count: 13
-radical: "食"
+radical: 食
 skip_number: 1-9-4
 grade_level: "3"
 pos: ""
 english:
   - drink
 羅馬字: "'um"
-諺文: "움"
+諺文: 움
 joyo_level: "3"
 hsk_level: "3"
-hanmun_edu_level: ""
+hanmun_edu_level: 中
 danayo_id: 3274
 mc_id: 472
-graphemic_classification: "酓"
-stand_in: "飲"
+graphemic_classification: 酓
+stand_in: 飲
 aliases:
   - 飮
   - 饮
-注音: "ㄨㄇ"
+注音: ㄨㄇ
 kwin: false
 tags:
   - character

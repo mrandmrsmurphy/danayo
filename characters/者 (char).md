@@ -21,7 +21,7 @@ english:
 諺文: "차"
 joyo_level: "3"
 hsk_level: "1"
-hanmun_edu_level: ""
+hanmun_edu_level: "中"
 danayo_id: 3223
 mc_id: 9
 graphemic_classification: "象形"

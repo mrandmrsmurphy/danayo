@@ -1,7 +1,7 @@
 ---
-mandarin: "yán"
-cantonese: "jim4"
-korean: "엄"
+mandarin: yán
+cantonese: jim4
+korean: 엄
 korean_native: 엄할
 japanese:
   - GEN
@@ -24,7 +24,7 @@ english:
 諺文: 욤
 joyo_level: "6"
 hsk_level: ""
-hanmun_edu_level: 高等
+hanmun_edu_level: 中
 danayo_id: 3046
 mc_id: 817
 graphemic_classification: 敢
@@ -38,7 +38,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness:
 ---
 >[!tip] This is a page about the character 厳.
 >For the word, see [厳](words/厳.md)
