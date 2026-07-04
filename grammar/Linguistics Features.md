@@ -1,3 +1,7 @@
+---
+language: English
+date-last-perfect: 2026-07-04
+---
 # Typology
 ## 1. General Typological Profile
 
@@ -26,7 +30,7 @@ This places Dan’a’yo firmly in the **isolating typological class** (cf. Clas
 
 A secondary layer introduces **strictly ordered affixation**:
 
-- TAM, mood, evidential, and related categories are expressed via **prefixes and suffixes**
+- TAM, mood, and related categories are expressed via **prefixes and suffixes** (Dan'a'yo has no grammaticalized evidentiality marking)
 - ordering is **fixed and compositional**
 - each morpheme contributes a single function
 
@@ -49,11 +53,12 @@ Both **full and partial reduplication** occur, aligning with East and Southeast 
 
 ## 3. Lexical Categories
 
-The system is **rigidly lexicalized** in formal usage:
+The system is **rigidly lexicalized** in formal usage, with four major 実詞 (content-word) subtypes:
 
 - 名詞 (nouns)
 - 事詞 (eventives; transitive predicates)
 - 性詞 (statives)
+- 系詞 (copulas — a closed set of six: 是/非, 有/無, 在/莫; see §7)
 
 There is **no zero-derivation across categories** in standard language.  
 Informal speech permits drift, but it is not grammatically licensed.
