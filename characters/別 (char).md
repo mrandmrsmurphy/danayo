@@ -40,6 +40,7 @@ aliases:
   - 别
   - 彆
 注音: "ㄅㄝㄊ"
+date-last-perfect: 2026-07-04
 kwin: false
 tags:
   - character
@@ -53,14 +54,25 @@ boundedness: 80
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 並]]
-[[Lookup/CC/finals/韻 薛B三開]]
-- Components: [[𠮠]], [[刂]]
-- [[別荘]] "villa, village"
+- 会意 of [[𠮠]] ("bone") and [[Radical 018|刂]] ("knife") — to cut bone and flesh apart, hence to separate, divide, distinguish.
+- [SKIP-1-5-2](../lookup/SKIP/SKIP-1/SKIP-1-5-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 657th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 薛B三開|ɣiᴇt]] → [ㄅㄝㄊ](../syllables/ㄅㄝㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[区別]]<rt>ㄎㄨㄅㄝㄊ</rt></ruby> "differentiate; distinguish; classify"
+- <ruby>[[差別]]<rt>ㄑㄚㄅㄝㄊ</rt></ruby> "discriminate"
+- <ruby>[[特別]]<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby> "special; particular"
+- <ruby>[[性別]]<rt>ㄙㄧㄫㄅㄝㄊ</rt></ruby> "sex; gender"
+- <ruby>[[離別]]<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby> "depart; leave"
+- <ruby>[[個別]]<rt>ㄍㄜㄅㄝㄊ</rt></ruby> "individual; separate; respective"
+- <ruby>[[別人]]<rt>ㄅㄝㄊㄋㄧㄋ</rt></ruby> "different person; other people"
+- <ruby>[[別字]]<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo; misspelt or variant character"
+- <ruby>[[判別式]]<rt>ㄆㄚㄋㄅㄝㄊㄙㄧㄎ</rt></ruby> "discriminant"
+- <ruby>[[別荘]]<rt>ㄅㄝㄊㄐ⺢ㄫ</rt></ruby> "villa; village"
 - <ruby>[[別野]]<rt>ㄅㄝㄊ⼘</rt></ruby> "villa, country house"
-- <ruby>[[別字]]<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, variant"
-- <ruby>[[区別]]<rt>ㄎㄨㄅㄝㄊ</rt></ruby> "differentiate, distinguish"
-- <ruby>[[個別]]<rt>ㄍㄜㄅㄝㄊ</rt></ruby> "individual, separate"
-- <ruby>[[離別]]<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby> "depart, leave"
-- <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 - <ruby>[[国別]]<rt>ㄍㄛㄎㄅㄝㄊ</rt></ruby> "by country; country-by-country"
+- <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
+
+## Chengyu
+- <ruby>[[千差万別]]<rt>ㄑㄝㄋㄑㄚㄇㄛㄋㄅㄝㄊ</rt></ruby> "variegated; manifold diversity"

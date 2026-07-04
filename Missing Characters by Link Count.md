@@ -2,16 +2,6 @@
 
 Characters not yet in `characters/` that are referenced by lookup pages, grouped first by how many pages link to them, then by which specific pages those are.
 
-- [Hyōgai](lookup/Japanese/Hyōgai.md)
-- [Jinmeiyō](lookup/Japanese/Jinmeiyō.md)
-- [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
-- [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
-- [Korean Name ㅍ](lookup/Korean/Korean%20Name%20ㅍ.md)
-- [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
-- [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
-- [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
-- [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
-
 ## 4 links
 
 ### Old HSK 3 + Old HSK 4 + Old HSK 6 + Korean Name ㅈ
@@ -28,9 +18,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅈ
 [[躇]]
-
-### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅎ
-[[徊]]
 
 ### Old HSK 4 + Old HSK 6 + Korean Name ㄱ + SKIP-1-7-7
 [[兢]]
