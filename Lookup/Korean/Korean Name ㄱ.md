@@ -177,7 +177,7 @@ This has been checked for redirects.
 [汲 (char)](characters/汲%20(char).md) [[伋]] [扱 (char)](characters/扱%20(char).md)
 
 ### 긍 
-[亘 (char)](characters/亘%20(char).md) [[兢]] [[矜]]
+[亘 (char)](characters/亘%20(char).md) [[矜]]
 
 ## ㅣ
 

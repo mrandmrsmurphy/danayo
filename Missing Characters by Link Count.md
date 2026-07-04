@@ -18,41 +18,18 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅈ
 [[躇]]
 
-### Old HSK 4 + Old HSK 6 + Korean Name ㄱ + SKIP-1-7-7
-[[兢]]
 
 ## 3 links
+### 2 HSK + Korean
+- [[滔]] · [[塘]] · [[睹]] - [[匪]] · [[劈]] - [[敞]] · [[猖]] · [[睬]] - [[洽]] · [[罕]] · [[暄]] · [[烘]] - [[鑿]]  [[虧]] - [[熄]] · [[腥]] - [[晤]] · [[隘]] [[飄]] [[簽]] [[膊]] [[吩]] [[銷]] [[兌]]
 
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㄷ
-[[滔]] · [[塘]] · [[睹]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㅂ
-[[匪]] · [[劈]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㅊ
-[[敞]] · [[猖]] · [[睬]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㅎ
-[[洽]] · [[罕]] · [[暄]] · [[烘]]
 
 ### Hyōgai + Jinmeiyō + Korean Name ㅇ
 [[溢]] · [[椀]] · [[濡]]
 
-### Old HSK 3 + Old HSK 4 + Korean Name ㅊ
-[[鑿]]
-
-### Old HSK 3 + Old HSK 4 + Korean Name ㅎ
-[[虧]]
-
 ### Old HSK 3 + Old HSK 6 + Hyōgai
 [[揉]] · [[艘]]
 
-### Old HSK 4 + Old HSK 6 + Korean Name ㅅ
-[[熄]] · [[腥]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㅇ
-[[晤]] · [[隘]]
 
 ### Old HSK 4 + Hyōgai + Korean Name ㅈ
 [[躊]] · [[疇]]
@@ -68,24 +45,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ### Old HSK 2 + Old HSK 3 + Hyōgai
 [[歉]]
-
-### Old HSK 2 + Old HSK 3 + Korean Name ㅍ
-[[飄]]
-
-### Old HSK 2 + Old HSK 4 + Korean Name ㅊ
-[[簽]]
-
-### Old HSK 2 + Old HSK 5 + Korean Name ㅂ
-[[膊]]
-
-### Old HSK 2 + Old HSK 6 + Korean Name ㅂ
-[[吩]]
-
-### Old HSK 3 + Old HSK 4 + Korean Name ㅅ
-[[銷]]
-
-### Old HSK 3 + Old HSK 4 + Korean Name ㅌ
-[[兌]]
 
 ### Old HSK 3 + Old HSK 4 + SKIP-1-3-14
 [[擠]]
