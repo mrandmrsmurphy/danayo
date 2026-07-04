@@ -8,7 +8,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[儿]] in [[characters/允]], [[characters/先]]
 - [[卩]] in [[characters/光 (char)]], [[characters/即 (char)]], [[characters/皮]], [[characters/色]], [[characters/見 (char)]]
 - [[廾]] in [[characters/共 (char)]]
-- [[鼏]] in [[characters/冪]]
 - [[㐅]] in [[characters/刈 (char)]]
 - [[𠮠]] in [[characters/別 (char)]]
 - [[刂]] in [[characters/刪]], [[characters/刺 (char)]], [[characters/刻]], [[characters/劃 (char)]]
