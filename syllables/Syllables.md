@@ -3,22 +3,23 @@ aliases:
   - syllable
 tags:
   - syllable
+date-last-perfect: 2026-07-04
 ---
-Each four rows are 1) voiced stop 2) aspirated stop 3) nasal 4) liquid
+Each row is a manner of articulation: 1) nasal 2) voiced stop 3) aspirated stop 4) fricative 5) approximant/flap
 
-|         | [[唇音]] | [[歯茎]]音 | 硬口蓋音 | [[舌背]]音 |
+|         | 唇音 | 歯茎音 | 硬口蓋音 | 舌背音 |
 | ------- | ------ | ------- | ---- | ------- |
-| [[濁塞]]音 | ㄅ b    | ㄉ d     | ㄐ j  | ㄍ g     |
-| 送気塞音    | ㄆ p   | ㄊ t     | ㄑ c  | ㄎ k     |
 | 鼻音      | ㄇ m    | ㄋ n     |      | ㄫ ŋ     |
-| 流音      | ㄈ f    | ㄌ l     | ㄙ s  | ㄏ h     |
+| 濁塞音 | ㄅ b    | ㄉ d     | ㄐ j  | ㄍ g     |
+| 送気塞音    | ㄆ p   | ㄊ t     | ㄑ c  | ㄎ k     |
+| 摩擦音    | ㄈ f    | ㄙ s     |      | ㄏ h     |
+| 接近音／弾音 | ㄨ w    | ㄌ l     | ㄧ j  |         |
 
 - w on-glide generally does not have a w off-glide.
-- w on-glide may not go with an initial labial (ㄅ, ㄆ, or ㄇ)
+- w on-glide may not go with an initial labial or liquid (ㄅ, ㄆ, ㄇ, ㄋ, or ㄌ)
 - No e-type-vowel may have a w off-glide
 - ㄉ and ㄊ may not have a y or w on-glide, except for the ㄉ⼔-series
 - ㄐ and ㄑ may not have a y or w on-glide, except for the ㄐ⺢ and ㄐ⼔-series
-- ㄋ and ㄌ may not have a w on-glide
 
 
 Many, many examples with final -ㄆ,-ㄊ,-ㄎ,-ㄋ,-ㄇ, -ㄫ do not exist, but are not technically forbidden.  

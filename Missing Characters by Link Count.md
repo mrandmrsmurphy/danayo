@@ -12,9 +12,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅁ
 [[芒]]
 
-### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅂ
-[[徘]]
-
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅈ
 [[躇]]
 
@@ -149,7 +146,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 
 ### Hyōgai + Korean Name ㄱ
-[[澗]] · [[瞰]] · [[耆]] · [[揆]] · [[櫃]] · [[拮]] · [[炬]] · [[橿]] · [[軀]] · [[痙]] · [[抉]] · [[虔]] · [[腱]] · [[菰]] · [[嗜]] · [[壙]]
+[[澗]] · [[耆]] · [[揆]] · [[櫃]] · [[拮]] · [[炬]] · [[橿]] · [[軀]] · [[痙]] · [[抉]] · [[虔]] · [[腱]] · [[菰]] · [[嗜]] · [[壙]]
 
 ### Hyōgai + Korean Name ㅇ
 [[拗]] · [[楡]] · [[隕]] · [[猥]] · [[腋]] · [[筵]] · [[甕]] · [[衙]] · [[鶯]] · [[愕]] · [[姸]] · [[齬]] · [[褥]]
