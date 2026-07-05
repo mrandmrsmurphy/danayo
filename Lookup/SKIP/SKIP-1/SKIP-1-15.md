@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-01
+date-last-perfect: 2026-07-05
 tags:
   - lookup
 ---
@@ -11,6 +11,11 @@ tags:
 3. no
 4. no
 5. [SKIP-1-15-5](lookup/SKIP/SKIP-1/SKIP-1-15-5.md): 齢
+6. [SKIP-1-15-6](lookup/SKIP/SKIP-1/SKIP-1-15-6.md): 齦
+7. no
+8. no
+9. no
+10. [SKIP-1-15-10](lookup/SKIP/SKIP-1/SKIP-1-15-10.md): 皺
 
 ## Base check
 ```base

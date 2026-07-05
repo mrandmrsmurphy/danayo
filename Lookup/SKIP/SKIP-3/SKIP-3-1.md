@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-03-07
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
 1. [SKIP-3-1-1](SKIP-3-1-1.md): 匕
-2. no
+2. [SKIP-3-1-2](lookup/SKIP/SKIP-3/SKIP-3-1-2.md): 刃
 3. no
 4. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md): 司
 5. no

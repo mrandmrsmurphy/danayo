@@ -3,30 +3,9 @@ tags: [lookup]
 ---
 Working notes from the first `lint SKIP` pass (2026-07-05). Not a permanent lookup page — a scratch tracking file for in-progress cleanup. Delete once everything below is resolved.
 
-## Created this pass (13 missing leaf files)
-
-**Linked into parent index so far**: SKIP-1-3-22 → SKIP-1-3.md, SKIP-1-4-21 → SKIP-1-4.md, SKIP-1-8-19 → SKIP-1-8.md, SKIP-1-11-18 → SKIP-1-11.md, SKIP-1-14-2 → SKIP-1-14.md (newly created), SKIP-1-17-11 → SKIP-1-17.md (newly created), SKIP-2-16-4/6/7 → SKIP-2-16.md (newly created). Still need linking: SKIP-1-15-6, SKIP-1-15-10 (into existing SKIP-1-15.md), SKIP-3-1-2, SKIP-3-10-7 (into existing SKIP-3-1.md / SKIP-3-10.md).
 
 
-Ground truth (`characters/*.md` → `skip_number`) had these codes with no leaf file at all:
 
-- [[SKIP-1-3-22]] — 攬 "monopolize"
-- [[SKIP-1-4-21]] — 欖 "olive"
-- [[SKIP-1-8-19]] — 鑼 "gong", 鑽 "diamond (jewel)"
-- [[SKIP-1-11-18]] — 鸛 "stork"
-- [[SKIP-1-14-2]] — 叡 "astute"
-- [[SKIP-1-15-6]] — 齦 "gums"
-- [[SKIP-1-15-10]] — 皺 "wrinkles"
-- [[SKIP-1-17-11]] — 鸚 "parrot"
-- [[SKIP-2-16-4]] — 懸 (char) "hang"
-- [[SKIP-2-16-6]] — 聾 "deaf", 襲 "attack", 龔 "give"
-- [[SKIP-2-16-7]] — 讐 "personal grudge"
-- [[SKIP-3-1-2]] — 刃 "blade"
-- [[SKIP-3-10-7]] — 趨 (char) "take many small steps towards"
-
-## Resolved: 3 missing index (stem) files — DONE 2026-07-05
-
-`SKIP-1-14.md`, `SKIP-1-17.md`, `SKIP-2-16.md` all created, each listing every position sequentially with `none` for gaps. `SKIP.md`'s top-level lists fixed too: the broken "14. 14" text is now a real link, and both "First Number 1" (now runs to 17, with 16 marked `none` since no character has that code) and "First Number 2" (now runs to 16) were extended — they'd been silently capped at 15 even though ground truth goes higher. Confirmed by checking the max second-number across all four categories: SKIP-1→17, SKIP-2→16, SKIP-3→10, SKIP-4→15 — all now covered.
 
 ## Genuine content mismatches (declared `size` disagrees with ground truth)
 

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-03-06
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -13,7 +13,7 @@ Below are the number of strokes for the other material, that is, that which is s
 4. [SKIP-3-10-4](lookup/SKIP/SKIP-3/SKIP-3-10-4.md): 魁
 5. [SKIP-3-10-5](lookup/SKIP/SKIP-3/SKIP-3-10-5.md): ø
 6. Does not exist
-7. Does not exist
+7. [SKIP-3-10-7](lookup/SKIP/SKIP-3/SKIP-3-10-7.md): 趨 (char)
 8. [SKIP-3-10-8](lookup/SKIP/SKIP-3/SKIP-3-10-8.md): ø
 9. Does not exist
 10. [SKIP-3-10-10](lookup/SKIP/SKIP-3/SKIP-3-10-10.md): ø
