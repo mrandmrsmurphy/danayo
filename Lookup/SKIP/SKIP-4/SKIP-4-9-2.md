@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 4 : [9](lookup/SKIP/SKIP-4/SKIP-4-9.md) | [SKIP-4-0-2](lookup/SKIP/SKIP-4/SKIP-4-0-2.md)
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
+## Characters
 1. <ruby>[重](/characters/重%20(char).md)<rt>ㄑㄛㄫ</rt></ruby> - heavy
 
 ## Datacheck

@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 3 : [1](lookup/SKIP/SKIP-3/SKIP-3-1.md)
 > [[Stroke 08]]
 
+## Characters
 1. <ruby>[直](/characters/直%20(char).md)<rt>ㄐㄧㄊ</rt></ruby> - straight
 2. <ruby>[虱](/characters/虱%20(char).md)<rt>ㄙㄛㄊ</rt></ruby> - louse
 

@@ -14,9 +14,10 @@ Separate from formatting bugs below — these need someone to find the actual mi
 
 ## Formatting bugs (existing leaf files not in checklist_skip.md format)
 
-### No `## Characters` heading at all (~53 files, excludes the 4 legitimate SKIP-4-0-# subtype overviews which correctly have none)
+### No `## Characters` heading — RESOLVED 2026-07-05
+All 52 real cases fixed (the list below had 53, but `2-11-4` turned out to already have the heading — false positive from the original scan). Added `## Characters` immediately before each page's existing list/content; didn't touch list style (bulleted vs. numbered) or reorganize anything else — that's the separate item below.
 SKIP-1: 1-1-4, 1-12-5, 1-12-4, 1-11-16, 1-6-1, 1-1-8, 1-4-1, 1-12-9, 1-1-11, 1-12-10, 1-12-7, 1-13-6, 1-2-15, 1-11-15, 1-13-2, 1-1-7, 1-12-2, 1-12-6, 1-1-3, 1-2-14
-SKIP-2: 2-14-5, 2-12-14, 2-14-4, 2-12-5, 2-1-7, 2-13-4, 2-10-3, 2-1-2, 2-13-5, 2-11-4, 2-1-1, 2-3-2, 2-2-3, 2-14-3, 2-8-2, 2-15-2, 2-14-2, 2-12-13, 2-8-3, 2-13-9
+SKIP-2: 2-14-5, 2-12-14, 2-14-4, 2-12-5, 2-1-7, 2-13-4, 2-10-3, 2-1-2, 2-13-5, 2-1-1, 2-3-2, 2-2-3, 2-14-3, 2-8-2, 2-15-2, 2-14-2, 2-12-13, 2-8-3, 2-13-9
 SKIP-3: 3-1-4, 3-2-22, 3-2-12, 3-4-11, 3-1-7, 3-10-16
 SKIP-4: 4-8-4, 4-9-2, 4-10-2, 4-1-1, 4-12-4, 4-11-3, 4-10-3
 
