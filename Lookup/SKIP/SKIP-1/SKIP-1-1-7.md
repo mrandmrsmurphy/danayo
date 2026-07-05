@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 1 :[1](lookup/SKIP/SKIP-1/SKIP-1-1.md)
 > These are all of [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
+## Characters
 - <ruby>[承](characters/承.md)<rt>ㄙㄨㄫ</rt></ruby> - inherit
 
 ## Datacheck

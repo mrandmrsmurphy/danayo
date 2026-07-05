@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 3 : [1](lookup/SKIP/SKIP-3/SKIP-3-1.md)
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
+## Characters
 1. <ruby>[司](/characters/司.md)<rt>ㄙㄚ</rt></ruby> - company
 
 ## Datacheck

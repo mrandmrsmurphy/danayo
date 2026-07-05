@@ -8,6 +8,7 @@ tags: [lookup]
 ---
 > SKIP : 2 : [SKIP-2-8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
 
+## Characters
 - 隻 --> 只
 - <ruby>[[隼 (char)|隼]]<rt>ㄙ⼜ㄫ</rt></ruby> - peregrine falcon
 - ~~叟~~ - appears on [[Hyōgai]], but is really just a component in many, many other characters

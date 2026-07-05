@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 2 : [2](lookup/SKIP/SKIP-2/SKIP-2-2.md)
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
+## Characters
 - <ruby>[[古]]<rt>ㄍㄛ</rt></ruby>
 - <ruby>[[市]]<rt>ㄙㄧ</rt></ruby>
 - <ruby>[[写]]<rt>ㄙ⼘</rt></ruby>

@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 1 : [1](/lookup/SKIP/SKIP-1/SKIP-1-1)
 > All of these are [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
+## Characters
 1. <ruby>[必](characters/必%20(char).md)<rt>ㄅㄧㄊ</rt></ruby> - surely
 2. <ruby>[旧](characters/旧%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - paleo-
 

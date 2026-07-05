@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 2 : [8](lookup/SKIP/SKIP-2/SKIP-2-8.md)
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
+## Characters
 - <ruby>[[啓]]<rt>ㄎㄝㄧ</rt></ruby> - open
 - <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> - meeting hall
 - <ruby>[[堕]]<rt>ㄙㄨㄧ</rt></ruby> - degenerate, corrupted

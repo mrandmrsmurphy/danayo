@@ -11,12 +11,6 @@ Working notes from the first `lint SKIP` pass (2026-07-05). Not a permanent look
 
 Separate from formatting bugs below — these need someone to find the actual missing/extra character, not just reformat.
 
-### Undercount — RESOLVED 2026-07-05
-All 26 codes fixed: found the specific missing character on each page by diffing against ground truth, added it with proper ruby+gloss, and corrected `size`. Verified all 26 now match ground truth exactly. Notable ones: `1-3-5` was missing 怯 (added earlier this session); `2-8-16` was missing 鑫.
-
-Two of these needed more than just adding a character — they had existing notes that turned out to be wrong:
-- `SKIP-3-3-18`: had "魔 --> 麻" as a redirect, implying 魔 had no page of its own. It does now (or always did and the redirect was simply stale) — reformatted to a real numbered entry, redirect notes for 屬/廱 moved to their own `### Aliases` subsection. **`廱`'s entry is still bare/unexplained** — same pattern as the deferred Aliases work, adding it to that list below.
-- `SKIP-4-4-1`: had a prose note "丑 which is an alias of 醜," but 丑 has its own real character page with this exact code. Added as entry 15, removed the stale note. **Side finding, not fixed**: this same file's prose still claims "𡈼 which is an alias of 徴" while 𡈼 is *also* listed as its own numbered entry (#14) on the same page — an internal contradiction, left alone since it wasn't part of this task.
 
 ## Formatting bugs (existing leaf files not in checklist_skip.md format)
 

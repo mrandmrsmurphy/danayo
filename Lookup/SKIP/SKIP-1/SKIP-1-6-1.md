@@ -8,6 +8,7 @@ tags: [lookup]
 ---
 > SKIP : 1 : [6](lookup/SKIP/SKIP-1/SKIP-1-6.md)
 
+## Characters
 1. <ruby>[乱](characters/乱.md)<rt>ㄌㄚㄋ</rt></ruby> - chaos
 2. <ruby>[耴](/characters/耴.md)<rt>ㄐㄨㄆ</rt></ruby> - earlobe
 

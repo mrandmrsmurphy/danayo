@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 1 : [1](lookup/SKIP/SKIP-1/SKIP-1-1.md)
 > All of these are [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
+## Characters
 - <ruby>[水](characters/水%20(char).md)<rt>ㄙㄨ</rt></ruby> - water
 - <ruby>[心](characters/心%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - heart
 

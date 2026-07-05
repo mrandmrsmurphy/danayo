@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 2 : [1](lookup/SKIP/SKIP-2/SKIP-2-1.md)
 > [Stroke 03](lookup/Stroke/Stroke%2003.md)
 
+## Characters
 - <ruby>[三](characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
 
 ### Misc
