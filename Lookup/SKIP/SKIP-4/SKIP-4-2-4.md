@@ -17,7 +17,6 @@ tags: [lookup]
 4. <ruby>[卜](characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divine
 5. <ruby>[力 (char)](characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power
 6. <ruby>[乂](characters/乂.md)<rt>⼘ㄧ</rt></ruby> - govern
-### Aliases
 ### Forbidden
 - 勹
 - 厶

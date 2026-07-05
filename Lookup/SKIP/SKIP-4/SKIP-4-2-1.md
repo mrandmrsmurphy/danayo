@@ -13,8 +13,6 @@ date-last-perfect: 2026-05-06
 1. <ruby>[丁](/characters/丁%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> "fourth"
 2. <ruby>[了](/characters/了%20(char).md)<rt>ㄌ⼘ㄨ</rt></ruby> "over"
 3. <ruby>[又](/characters/又%20(char).md)<rt>ㄨㄛ</rt></ruby> "or again"
-### Aliases
-### Forbidden
 
 ## Datacheck
 ```dataview
