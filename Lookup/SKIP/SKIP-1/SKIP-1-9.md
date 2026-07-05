@@ -18,6 +18,7 @@ Left half has 9 strokes. Dominant components: 革, 頁, 食.
 - [SKIP-1-9-8](lookup/SKIP/SKIP-1/SKIP-1-9-8.md): 雖, 鞠, 頻, 餅
 - [SKIP-1-9-9](lookup/SKIP/SKIP-1/SKIP-1-9-9.md): 鞭, 額, 顎, 顔, 顕, 類
 - [SKIP-1-9-10](lookup/SKIP/SKIP-1/SKIP-1-9-10.md): 韻
+- [SKIP-1-9-11](../lookup/SKIP/SKIP-1/SKIP-1-9-11): 
 
 ## Base check
 ```base
