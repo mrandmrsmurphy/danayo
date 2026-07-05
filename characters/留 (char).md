@@ -1,7 +1,7 @@
 ---
-mandarin: "liú"
-cantonese: "lau4"
-korean: "류"
+mandarin: liú
+cantonese: lau4
+korean: 류
 korean_native: 머무를
 japanese:
   - RYUU
@@ -30,6 +30,7 @@ graphemic_classification: 丣
 stand_in: 留
 aliases:
   - 畱
+  - 霤
 注音: ㄌ⼜
 kwin: true
 tags:

@@ -18,9 +18,7 @@ Working notes from the first `lint SKIP` pass (2026-07-05). Not a permanent look
 - SKIP-2-10-2, 
 - SKIP-2-10-8, 
 - SKIP-2-10-10, 
-- SKIP-2-6-17, 
-- SKIP-2-6-19, 
-- SKIP-2-8-10
+- SKIP-2-6-17.
 
 ## Not yet swept
 
