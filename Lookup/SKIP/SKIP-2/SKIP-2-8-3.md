@@ -10,14 +10,14 @@ tags: [lookup]
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 ## Characters
-- <ruby>[[啓]]<rt>ㄎㄝㄧ</rt></ruby> - open
-- <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> - meeting hall
-- <ruby>[[堕]]<rt>ㄙㄨㄧ</rt></ruby> - degenerate, corrupted
-- <ruby>[[娶]]<rt>ㄑㄨ </rt></ruby> - marry
-- <ruby>[[婁]]<rt>ㄌㄨ </rt></ruby> - wear, bond
-- <ruby>[[婆]]<rt>ㄅㄚ </rt></ruby> - granny (paternal)
-- <ruby>[[彗]]<rt>ㄏㄝ </rt></ruby> - comet
-- <ruby>[[雪 (char)|雪]]<rt>ㄙ⼔ㄊ</rt></ruby> - snow
+1. <ruby>[[啓]]<rt>ㄎㄝㄧ</rt></ruby> - open
+2. <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> - meeting hall
+3. <ruby>[[堕]]<rt>ㄙㄨㄧ</rt></ruby> - degenerate, corrupted
+4. <ruby>[[娶]]<rt>ㄑㄨ </rt></ruby> - marry
+5. <ruby>[[婁]]<rt>ㄌㄨ </rt></ruby> - wear, bond
+6. <ruby>[[婆]]<rt>ㄅㄚ </rt></ruby> - granny (paternal)
+7. <ruby>[[彗]]<rt>ㄏㄝ </rt></ruby> - comet
+8. <ruby>[[雪 (char)|雪]]<rt>ㄙ⼔ㄊ</rt></ruby> - snow
 
 ### Data double check
 ```dataview
