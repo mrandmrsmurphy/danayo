@@ -121,6 +121,17 @@ If a leaf file exists only to document that a character is a variant of another,
 埀 --> 垂
 ```
 
+### Candidate placeholders
+
+A leaf file for a SKIP code with no vault character yet may keep `size: 0` and list real-world characters that would belong there if added later:
+```markdown
+## Characters
+*(none yet created)*
+
+Candidates for this SKIP code not yet present in the database: 騁, 覬, 覯, 豁, 谿, 駻, 駸, 駿
+```
+This is a legitimate, intentional pattern (confirmed with 武明帥, 2026-07-05) — lint passes should leave the candidate list untouched and not attempt to verify or create those characters. Only fix incidental formatting artifacts (stray HTML/markdown fragments, wrong heading levels) on these pages.
+
 ### Datacheck block
 
 ```markdown
