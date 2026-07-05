@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-20
+date-last-perfect: 2026-07-05
 language: 単亜語
 tags:
   - lookup
@@ -25,8 +25,10 @@ This is for character with a left-right split.  Here are the choices for the num
 11. [SKIP-1-11](lookup/SKIP/SKIP-1/SKIP-1-11.md)
 12. [SKIP-1-12](lookup/SKIP/SKIP-1/SKIP-1-12.md)
 13. [SKIP-1-13](lookup/SKIP/SKIP-1/SKIP-1-13.md)
-14. 14
+14. [SKIP-1-14](lookup/SKIP/SKIP-1/SKIP-1-14.md)
 15. [SKIP-1-15](SKIP-1/SKIP-1-15.md)
+16. none
+17. [SKIP-1-17](lookup/SKIP/SKIP-1/SKIP-1-17.md)
 
 ## First Number 2
 These are characters with a clear top-bottom dichotomy.  The following are the possible number of strokes for the top half:
@@ -45,6 +47,7 @@ These are characters with a clear top-bottom dichotomy.  The following are the p
 13. [SKIP-2-13](lookup/SKIP/SKIP-2/SKIP-2-13.md)
 14. [SKIP-2-14](lookup/SKIP/SKIP-2/SKIP-2-14.md)
 15. [SKIP-2-15](lookup/SKIP/SKIP-2/SKIP-2-15.md)
+16. [SKIP-2-16](lookup/SKIP/SKIP-2/SKIP-2-16.md)
 
 ## First Number 3
 These are character where there is a "surround-er", a box or loop which does more than just hover above or to the left, but hems in the rest of the character on two-or-more sides.  Below are the number of strokes possible for the surrounding material:

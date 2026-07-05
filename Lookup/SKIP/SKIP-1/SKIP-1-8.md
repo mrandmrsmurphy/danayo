@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -23,6 +23,10 @@ Left half has 8 strokes. Dominant components: 金, 食, 阜, 兼, 喬.
 - SKIP-1-8-13: none
 - SKIP-1-8-14: none
 - [SKIP-1-8-15](lookup/SKIP/SKIP-1/SKIP-1-8-15.md): 鑑, 鑠
+- SKIP-1-8-16: none
+- SKIP-1-8-17: none
+- SKIP-1-8-18: none
+- [SKIP-1-8-19](lookup/SKIP/SKIP-1/SKIP-1-8-19.md): 鑼, 鑽
 
 ## Base check
 ```base

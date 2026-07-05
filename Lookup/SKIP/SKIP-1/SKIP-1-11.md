@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -24,6 +24,8 @@ Left half has 11 strokes. Dominant components: 魚, 鳥, 角, 食, 馬.
 - [SKIP-1-11-14](lookup/SKIP/SKIP-1/SKIP-1-11-14.md): ø
 - [SKIP-1-11-15](lookup/SKIP/SKIP-1/SKIP-1-11-15.md): (aliases/redirects only)
 - [SKIP-1-11-16](lookup/SKIP/SKIP-1/SKIP-1-11-16.md): (aliases/redirects only)
+- SKIP-1-11-17: none
+- [SKIP-1-11-18](lookup/SKIP/SKIP-1/SKIP-1-11-18.md): 鸛
 
 ## Base check
 ```base

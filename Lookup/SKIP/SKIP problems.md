@@ -1,0 +1,70 @@
+---
+tags: [lookup]
+---
+Working notes from the first `lint SKIP` pass (2026-07-05). Not a permanent lookup page — a scratch tracking file for in-progress cleanup. Delete once everything below is resolved.
+
+## Created this pass (13 missing leaf files)
+
+**Linked into parent index so far**: SKIP-1-3-22 → SKIP-1-3.md, SKIP-1-4-21 → SKIP-1-4.md, SKIP-1-8-19 → SKIP-1-8.md, SKIP-1-11-18 → SKIP-1-11.md, SKIP-1-14-2 → SKIP-1-14.md (newly created), SKIP-1-17-11 → SKIP-1-17.md (newly created), SKIP-2-16-4/6/7 → SKIP-2-16.md (newly created). Still need linking: SKIP-1-15-6, SKIP-1-15-10 (into existing SKIP-1-15.md), SKIP-3-1-2, SKIP-3-10-7 (into existing SKIP-3-1.md / SKIP-3-10.md).
+
+
+Ground truth (`characters/*.md` → `skip_number`) had these codes with no leaf file at all:
+
+- [[SKIP-1-3-22]] — 攬 "monopolize"
+- [[SKIP-1-4-21]] — 欖 "olive"
+- [[SKIP-1-8-19]] — 鑼 "gong", 鑽 "diamond (jewel)"
+- [[SKIP-1-11-18]] — 鸛 "stork"
+- [[SKIP-1-14-2]] — 叡 "astute"
+- [[SKIP-1-15-6]] — 齦 "gums"
+- [[SKIP-1-15-10]] — 皺 "wrinkles"
+- [[SKIP-1-17-11]] — 鸚 "parrot"
+- [[SKIP-2-16-4]] — 懸 (char) "hang"
+- [[SKIP-2-16-6]] — 聾 "deaf", 襲 "attack", 龔 "give"
+- [[SKIP-2-16-7]] — 讐 "personal grudge"
+- [[SKIP-3-1-2]] — 刃 "blade"
+- [[SKIP-3-10-7]] — 趨 (char) "take many small steps towards"
+
+## Resolved: 3 missing index (stem) files — DONE 2026-07-05
+
+`SKIP-1-14.md`, `SKIP-1-17.md`, `SKIP-2-16.md` all created, each listing every position sequentially with `none` for gaps. `SKIP.md`'s top-level lists fixed too: the broken "14. 14" text is now a real link, and both "First Number 1" (now runs to 17, with 16 marked `none` since no character has that code) and "First Number 2" (now runs to 16) were extended — they'd been silently capped at 15 even though ground truth goes higher. Confirmed by checking the max second-number across all four categories: SKIP-1→17, SKIP-2→16, SKIP-3→10, SKIP-4→15 — all now covered.
+
+## Genuine content mismatches (declared `size` disagrees with ground truth)
+
+Separate from formatting bugs below — these need someone to find the actual missing/extra character, not just reformat.
+
+### Undercount (declared size < ground truth — a character exists in `characters/` with this code but isn't on the page)
+1-3-6, 1-3-3, 1-3-17, 1-5-12, 1-3-13, 1-7-5, 1-6-4, 1-6-3, 1-5-4, 1-4-10, 1-4-15, 1-3-5, 2-3-13, 2-7-6, 2-3-12, 2-3-4, 2-12-4, 2-8-8, 2-8-16, 2-2-7, 2-3-8, 3-8-8, 3-10-11, 3-5-8, 3-3-18, 4-4-1 (26 codes, all off by exactly 1)
+
+### Overcount (declared size > ground truth — page lists a character that no longer has this code, or double-counts something)
+- 1-4-17 (declared 2, ground truth 1)
+- 2-11-4 (declared 12, ground truth 11)
+
+## Formatting bugs (existing leaf files not in checklist_skip.md format)
+
+### No `## Characters` heading at all (~53 files, excludes the 4 legitimate SKIP-4-0-# subtype overviews which correctly have none)
+SKIP-1: 1-1-4, 1-12-5, 1-12-4, 1-11-16, 1-6-1, 1-1-8, 1-4-1, 1-12-9, 1-1-11, 1-12-10, 1-12-7, 1-13-6, 1-2-15, 1-11-15, 1-13-2, 1-1-7, 1-12-2, 1-12-6, 1-1-3, 1-2-14
+SKIP-2: 2-14-5, 2-12-14, 2-14-4, 2-12-5, 2-1-7, 2-13-4, 2-10-3, 2-1-2, 2-13-5, 2-11-4, 2-1-1, 2-3-2, 2-2-3, 2-14-3, 2-8-2, 2-15-2, 2-14-2, 2-12-13, 2-8-3, 2-13-9
+SKIP-3: 3-1-4, 3-2-22, 3-2-12, 3-4-11, 3-1-7, 3-10-16
+SKIP-4: 4-8-4, 4-9-2, 4-10-2, 4-1-1, 4-12-4, 4-11-3, 4-10-3
+
+### Of those, uses a bulleted list instead of the numbered ruby+gloss format (17 files)
+1-1-4, 1-2-3, 1-1-8, 1-4-1, 1-1-7, 1-1-3, 2-1-2, 2-11-4, 2-1-1, 2-3-2, 2-2-3, 2-8-2, 2-8-3, 2-12-8, 3-4-11, 4-1-1, 4-1-4
+
+### Wrong Datacheck heading level — `#` or `###` instead of `##` (9 files)
+1-1-4, 1-1-8, 1-1-2, 1-1-7, 1-1-3, 2-10-3, 2-2-3, 2-8-2, 3-4-11
+
+### Broken links — stray double-paren (2 files)
+1-1-4, 1-4-1
+
+### Old-style breadcrumb — absolute path, missing `.md` (1 file)
+1-1-4
+
+**Note**: `SKIP-1-1-4` alone hits every category above — worth fixing first as the worked example before batch-applying the same fix elsewhere.
+
+## Deferred: Aliases section research (separate pass, per 武明帥 2026-07-05)
+
+~41 individual glyphs across ~17 leaf files have bare, unexplained entries under `### Aliases` (no `--> target` per checklist format). Needs real per-character research (is each glyph a graphic variant of an existing vault character, and of which one), not mechanical fixing. Files affected: SKIP-1-10-11, SKIP-1-11-11, SKIP-1-11-14, SKIP-1-6-16, SKIP-1-6-17, SKIP-2-2-15, SKIP-2-2-16, SKIP-2-3-18, SKIP-2-10-2, SKIP-2-10-8, SKIP-2-10-10, SKIP-2-6-17, SKIP-2-6-19, SKIP-2-8-10, SKIP-3-10-11, SKIP-1-3-21 (the `[[衢]]` entry), plus SKIP-4-2-1 and SKIP-4-2-4 which have an `### Aliases` heading with nothing under it at all.
+
+## Not yet swept
+
+SKIP-1/2/3 index files (`SKIP-#-#.md`) haven't been checked yet beyond `SKIP-1-9.md` (fixed: truncated preview, size 2→correct). Same categories of bug (truncated previews, missing leaf links, un-marked gaps) likely recur across the other ~30 index files — this pass only reached leaf files.
