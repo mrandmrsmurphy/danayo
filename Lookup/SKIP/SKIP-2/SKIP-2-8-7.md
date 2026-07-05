@@ -23,7 +23,7 @@ tags: [lookup]
 - 瑩 --> 瑛
 - 霄--> 肖
 
-## Data double check
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

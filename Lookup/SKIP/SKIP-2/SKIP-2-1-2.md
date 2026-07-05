@@ -20,7 +20,7 @@ These are both radicals, not characters per se.
 - 乊 
 - 亍 
 
-### Data double check
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

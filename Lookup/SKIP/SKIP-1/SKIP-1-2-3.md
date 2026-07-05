@@ -27,7 +27,7 @@ tags: [lookup]
 ### Forbidden
 - 扒
 
-### Data double check
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

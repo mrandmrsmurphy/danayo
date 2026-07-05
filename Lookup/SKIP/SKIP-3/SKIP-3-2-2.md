@@ -26,7 +26,7 @@ tags: [lookup]
 14. <ruby>[止](/characters/止.md)<rt>ㄐㄧ</rt></ruby> - stop
 15. <ruby>[氏](/characters/氏.md)<rt>ㄙㄧㄜ</rt></ruby> - surname
 
-## Data doublecheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

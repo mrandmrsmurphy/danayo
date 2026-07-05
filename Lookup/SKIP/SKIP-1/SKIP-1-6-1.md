@@ -15,7 +15,7 @@ tags: [lookup]
 ### Aliases
 - 糺 -> 糾
 
-## Data doublecheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

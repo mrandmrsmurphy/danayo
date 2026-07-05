@@ -9,6 +9,7 @@ tags: [lookup]
 > SKIP : 4 : [4](lookup/SKIP/SKIP-4/SKIP-4-4.md) | [[SKIP-4-0-1]]
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
+## Characters
 1. <ruby>[尺](characters/尺%20(char).md)<rt>ㄑㄝㄎ</rt></ruby>
 2. <ruby>[尹](characters/尹.md)<rt>⼜ㄋ</rt></ruby>
 3. <ruby>[天](characters/天%20(char).md)<rt>ㄊㄝㄋ</rt></ruby>

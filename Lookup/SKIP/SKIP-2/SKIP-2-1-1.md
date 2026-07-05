@@ -13,7 +13,7 @@ tags: [lookup]
 Only one:
 1. <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> - two
 
-### Data double check
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

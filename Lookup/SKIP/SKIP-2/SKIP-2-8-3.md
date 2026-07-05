@@ -19,7 +19,7 @@ tags: [lookup]
 7. <ruby>[[彗]]<rt>ㄏㄝ </rt></ruby> - comet
 8. <ruby>[[雪 (char)|雪]]<rt>ㄙ⼔ㄊ</rt></ruby> - snow
 
-### Data double check
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"

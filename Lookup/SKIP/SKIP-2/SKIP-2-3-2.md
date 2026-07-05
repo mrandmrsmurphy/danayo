@@ -18,7 +18,7 @@ tags: [lookup]
 6. <ruby>[穴](characters/穴.md)<rt>ㄏ⼔ㄊ</rt></ruby> - cave
 7. <ruby>[艾](characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
 
-## Data double check
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
