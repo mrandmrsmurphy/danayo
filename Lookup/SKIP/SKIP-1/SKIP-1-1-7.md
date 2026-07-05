@@ -11,7 +11,7 @@ tags: [lookup]
 
 - <ruby>[承](characters/承.md)<rt>ㄙㄨㄫ</rt></ruby> - inherit
 
-### Datacheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"

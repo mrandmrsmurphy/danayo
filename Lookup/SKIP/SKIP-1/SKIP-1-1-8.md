@@ -11,7 +11,7 @@ tags: [lookup]
 
 - <ruby>[胤](characters/胤.md)<rt>·⼜ㄋ</rt></ruby> - heir
 
-### Datacheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"

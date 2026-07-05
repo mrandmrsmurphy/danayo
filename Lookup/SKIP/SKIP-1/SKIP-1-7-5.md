@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-03
 stroke_count: 12
-size: 20
+size: 21
 skip_number: 1-7-5
 tags:
   - lookup
@@ -30,6 +30,7 @@ tags:
 18. <ruby>[軽](characters/軽%20(char).md)<rt>ㄎㄧㄫ</rt></ruby> "light, not heavy"
 19. <ruby>[酢](characters/酢.md)<rt>ㄐㄚㄎ</rt></ruby> "vinegar"
 20. <ruby>[釉](characters/釉.md)<rt>⼜ㄛ</rt></ruby> "glaze, enamel"
+21. <ruby>[跋](characters/跋.md)<rt>ㄅㄚㄊ</rt></ruby> "to stride"
 
 ## Datacheck
 ```dataview

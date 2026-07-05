@@ -1,7 +1,7 @@
 ---
 stroke_count: 16
 date-last-perfect: 2026-03-07
-size: 2
+size: 3
 skip_number: 2-8-8
 tags: [lookup]
 
@@ -12,6 +12,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[錮](/characters/錮%20(char).md)<rt>ㄍㄛ</rt></ruby> - obstinant
 2. <ruby>[霍](/characters/霍.md)<rt>ㄍ⺢ㄎ</rt></ruby> - quick
+3. <ruby>[霓](/characters/霓.md)<rt>ㄝㄧ</rt></ruby> - rainbow
 
 ## Datacheck
 ```dataview

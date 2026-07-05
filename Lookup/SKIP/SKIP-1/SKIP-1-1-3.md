@@ -12,7 +12,7 @@ tags: [lookup]
 - <ruby>[水](characters/水%20(char).md)<rt>ㄙㄨ</rt></ruby> - water
 - <ruby>[心](characters/心%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - heart
 
-### Datacheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"

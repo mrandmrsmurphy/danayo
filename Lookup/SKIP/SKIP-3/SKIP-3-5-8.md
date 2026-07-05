@@ -1,7 +1,7 @@
 ---
 stroke_count: 13
 date-last-perfect: 2026-03-08
-size: 2
+size: 3
 skip_number: 3-5-8
 tags: [lookup]
 
@@ -12,6 +12,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[痰](/characters/痰%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - phlegm
 2. <ruby>[痴](/characters/痴.md)<rt>ㄑㄧ</rt></ruby> - stupid
+3. <ruby>[痺](/characters/痺.md)<rt>ㄅㄧ</rt></ruby> - numb
 
 ## Datacheck
 ```dataview

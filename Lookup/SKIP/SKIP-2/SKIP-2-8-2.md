@@ -13,7 +13,7 @@ tags: [lookup]
 - ~~叟~~ - appears on [[Hyōgai]], but is really just a component in many, many other characters
 - 鬯 --> 暢
 
-### Datacheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"

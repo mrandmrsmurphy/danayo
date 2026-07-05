@@ -2,7 +2,7 @@
 stroke_count: 9
 date-last-perfect: 2026-05-05
 skip_number: 2-2-7
-size: 18
+size: 19
 tags: [lookup]
 
 ---
@@ -29,6 +29,7 @@ tags: [lookup]
 16. <ruby>[頁](/characters/頁%20(char).md)<rt>ㄏㄝㄊ</rt></ruby> "page"
 17. <ruby>[食](/characters/食%20(char).md)<rt>ㄙㄧㄎ</rt></ruby> "eat"
 18. <ruby>[首](/characters/首.md)<rt>ㄙ⼜</rt></ruby> "head"
+19. <ruby>[兗](/characters/兗.md)<rt>⼶ㄋ</rt></ruby> "Yanzhou (place name)"
 
 ## Datacheck
 ```dataview

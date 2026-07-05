@@ -11,12 +11,12 @@ Working notes from the first `lint SKIP` pass (2026-07-05). Not a permanent look
 
 Separate from formatting bugs below — these need someone to find the actual missing/extra character, not just reformat.
 
-### Undercount (declared size < ground truth — a character exists in `characters/` with this code but isn't on the page)
-1-3-6, 1-3-3, 1-3-17, 1-5-12, 1-3-13, 1-7-5, 1-6-4, 1-6-3, 1-5-4, 1-4-10, 1-4-15, 1-3-5, 2-3-13, 2-7-6, 2-3-12, 2-3-4, 2-12-4, 2-8-8, 2-8-16, 2-2-7, 2-3-8, 3-8-8, 3-10-11, 3-5-8, 3-3-18, 4-4-1 (26 codes, all off by exactly 1)
+### Undercount — RESOLVED 2026-07-05
+All 26 codes fixed: found the specific missing character on each page by diffing against ground truth, added it with proper ruby+gloss, and corrected `size`. Verified all 26 now match ground truth exactly. Notable ones: `1-3-5` was missing 怯 (added earlier this session); `2-8-16` was missing 鑫.
 
-### Overcount (declared size > ground truth — page lists a character that no longer has this code, or double-counts something)
-- 1-4-17 (declared 2, ground truth 1)
-- 2-11-4 (declared 12, ground truth 11)
+Two of these needed more than just adding a character — they had existing notes that turned out to be wrong:
+- `SKIP-3-3-18`: had "魔 --> 麻" as a redirect, implying 魔 had no page of its own. It does now (or always did and the redirect was simply stale) — reformatted to a real numbered entry, redirect notes for 屬/廱 moved to their own `### Aliases` subsection. **`廱`'s entry is still bare/unexplained** — same pattern as the deferred Aliases work, adding it to that list below.
+- `SKIP-4-4-1`: had a prose note "丑 which is an alias of 醜," but 丑 has its own real character page with this exact code. Added as entry 15, removed the stale note. **Side finding, not fixed**: this same file's prose still claims "𡈼 which is an alias of 徴" while 𡈼 is *also* listed as its own numbered entry (#14) on the same page — an internal contradiction, left alone since it wasn't part of this task.
 
 ## Formatting bugs (existing leaf files not in checklist_skip.md format)
 
@@ -29,20 +29,10 @@ SKIP-4: 4-8-4, 4-9-2, 4-10-2, 4-1-1, 4-12-4, 4-11-3, 4-10-3
 ### Of those, uses a bulleted list instead of the numbered ruby+gloss format (17 files)
 1-1-4, 1-2-3, 1-1-8, 1-4-1, 1-1-7, 1-1-3, 2-1-2, 2-11-4, 2-1-1, 2-3-2, 2-2-3, 2-8-2, 2-8-3, 2-12-8, 3-4-11, 4-1-1, 4-1-4
 
-### Wrong Datacheck heading level — `#` or `###` instead of `##` (9 files)
-1-1-4, 1-1-8, 1-1-2, 1-1-7, 1-1-3, 2-10-3, 2-2-3, 2-8-2, 3-4-11
-
-### Broken links — stray double-paren (2 files)
-1-1-4, 1-4-1
-
-### Old-style breadcrumb — absolute path, missing `.md` (1 file)
-1-1-4
-
-**Note**: `SKIP-1-1-4` alone hits every category above — worth fixing first as the worked example before batch-applying the same fix elsewhere.
 
 ## Deferred: Aliases section research (separate pass, per 武明帥 2026-07-05)
 
-~41 individual glyphs across ~17 leaf files have bare, unexplained entries under `### Aliases` (no `--> target` per checklist format). Needs real per-character research (is each glyph a graphic variant of an existing vault character, and of which one), not mechanical fixing. Files affected: SKIP-1-10-11, SKIP-1-11-11, SKIP-1-11-14, SKIP-1-6-16, SKIP-1-6-17, SKIP-2-2-15, SKIP-2-2-16, SKIP-2-3-18, SKIP-2-10-2, SKIP-2-10-8, SKIP-2-10-10, SKIP-2-6-17, SKIP-2-6-19, SKIP-2-8-10, SKIP-3-10-11, SKIP-1-3-21 (the `[[衢]]` entry), plus SKIP-4-2-1 and SKIP-4-2-4 which have an `### Aliases` heading with nothing under it at all.
+~41 individual glyphs across ~17 leaf files have bare, unexplained entries under `### Aliases` (no `--> target` per checklist format). Needs real per-character research (is each glyph a graphic variant of an existing vault character, and of which one), not mechanical fixing. Files affected: SKIP-1-10-11, SKIP-1-11-11, SKIP-1-11-14, SKIP-1-6-16, SKIP-1-6-17, SKIP-2-2-15, SKIP-2-2-16, SKIP-2-3-18, SKIP-2-10-2, SKIP-2-10-8, SKIP-2-10-10, SKIP-2-6-17, SKIP-2-6-19, SKIP-2-8-10, SKIP-1-3-21 (the `[[衢]]` entry), SKIP-3-3-18 (`廱`, newly found), plus SKIP-4-2-1 and SKIP-4-2-4 which have an `### Aliases` heading with nothing under it at all. (Note: `SKIP-3-10-11`'s 魑 has been resolved — it was a real character miscategorized as an alias, not a genuine alias-research case — removed from this list.)
 
 ## Not yet swept
 

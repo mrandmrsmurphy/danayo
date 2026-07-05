@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-04
 stroke_count: 11
-size: 28
+size: 29
 skip_number: 2-3-8
 tags:
   - lookup
@@ -38,6 +38,7 @@ tags:
 26. <ruby>[萄](characters/萄.md)<rt>ㄉㄚㄨ</rt></ruby> "grapes"
 27. <ruby>[萌](characters/萌.md)<rt>ㄇㄜㄫ</rt></ruby> "bud"
 28. <ruby>[萎](characters/萎.md)<rt>⼔ㄧ</rt></ruby> "wither"
+29. <ruby>[菲](characters/菲.md)<rt>ㄈㄧ</rt></ruby> "fragrant"
 
 ## Datacheck
 ```dataview

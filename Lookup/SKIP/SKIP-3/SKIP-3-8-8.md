@@ -1,7 +1,7 @@
 ---
 stroke_count: 16
 date-last-perfect: 2026-03-08
-size: 1
+size: 2
 skip_number: 3-8-8
 tags: [lookup]
 
@@ -11,6 +11,7 @@ tags: [lookup]
 
 ## Characters
 1. <ruby>[䦨](/characters/䦨.md)<rt>ㄌㄛㄇ</rt></ruby> - curtain
+2. <ruby>[䦧 (char)](/characters/䦧%20(char).md)<rt>ㄏㄝㄎ</rt></ruby> - quarrel
 
 ## Datacheck
 ```dataview

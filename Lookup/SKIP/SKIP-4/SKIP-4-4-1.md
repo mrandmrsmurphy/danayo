@@ -1,5 +1,5 @@
 ---
-size: 14
+size: 15
 skip_number: 4-4-1
 stroke_count: 4
 date-last-perfect: 2026-03-20
@@ -23,11 +23,11 @@ tags: [lookup]
 12. <ruby>[巴](characters/巴%20(char).md)<rt>ㄆㄚ</rt></ruby>
 13. <ruby>[歹](characters/歹.md)<rt>ㄚㄊ</rt></ruby>
 14. <ruby>[𡈼](/characters/𡈼.md)<rt>ㄊㄧㄋ</rt></ruby> - stalk
+15. <ruby>[丑](characters/丑.md)<rt>ㄑㄨ</rt></ruby> - ox
 
 * 𡈼 which is an alias of 徴
 * 无 which is Radical 071
 * 毋 which is Radical 080
-* 丑 which is an alias of 醜
 
 ## Datacheck
 ```dataview

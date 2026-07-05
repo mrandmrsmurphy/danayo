@@ -2,7 +2,7 @@
 stroke_count: 9
 date-last-perfect: 2026-05-24
 skip_number: 1-5-4
-size: 14
+size: 15
 tags:
   - lookup
 ---
@@ -25,6 +25,7 @@ tags:
 12. <ruby>[級](characters/級.md)<rt>ㄍㄧㄆ</rt></ruby> "level"
 13. <ruby>[胡](characters/胡.md)<rt>ㄏㄛㄨ</rt></ruby> "reckless"
 14. <ruby>[袂](characters/袂%20(char).md)<rt>ㄇㄝ</rt></ruby> "sleeve"
+15. <ruby>[砒](characters/砒.md)<rt>ㄆㄧ</rt></ruby> "arsenic"
 
 ### Aliases
 - 叛 --> 反

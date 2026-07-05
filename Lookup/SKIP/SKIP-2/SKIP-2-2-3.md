@@ -30,7 +30,7 @@ tags: [lookup]
 * ~~㐱~~
 * ~~厼~~
 
-### Datacheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"

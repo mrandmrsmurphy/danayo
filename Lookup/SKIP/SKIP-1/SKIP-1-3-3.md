@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-03
 stroke_count: 6
-size: 21
+size: 22
 skip_number: 1-3-3
 tags:
   - lookup
@@ -31,6 +31,7 @@ tags:
 19. <ruby>[竹](characters/竹%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> "bamboo"
 20. <ruby>[羽](characters/羽.md)<rt>ㄨ</rt></ruby> "feather"
 21. <ruby>[行](characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> "attend"
+22. <ruby>[汐](characters/汐.md)<rt>ㄙㄝㄎ</rt></ruby> "evening tide"
 
 ## Datacheck
 ```dataview

@@ -2,7 +2,7 @@
 stroke_count: 9
 date-last-perfect: 2026-05-24
 skip_number: 1-6-3
-size: 16
+size: 17
 tags: [lookup]
 
 ---
@@ -27,6 +27,7 @@ tags: [lookup]
 14. <ruby>[郁](characters/郁.md)<rt>⼜ㄎ</rt></ruby> "sweet smelling"
 15. <ruby>[郊](characters/郊.md)<rt>ㄍ⼄ㄨ</rt></ruby> "outskirts"
 16. <ruby>[郎](characters/郎.md)<rt>ㄌㄚㄫ</rt></ruby> "youthful man"
+17. <ruby>[紇](characters/紇.md)<rt>ㄏㄜㄊ</rt></ruby> "Uigur"
 
 ## Datacheck
 ```dataview

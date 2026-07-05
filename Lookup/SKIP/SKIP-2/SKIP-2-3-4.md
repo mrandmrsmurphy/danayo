@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-05-04
 stroke_count: 7
-size: 32
+size: 33
 skip_number: 2-3-4
 tags:
   - lookup
@@ -42,6 +42,7 @@ tags:
 30. <ruby>[走](characters/走%20(char).md)<rt>ㄙㄛㄨ</rt></ruby> "run"
 31. <ruby>[足](characters/足%20(char).md)<rt>ㄐㄛㄎ</rt></ruby> "foot"
 32. <ruby>[邑](characters/邑.md)<rt>ㄧㄆ</rt></ruby> "township"
+33. <ruby>[宏](characters/宏.md)<rt>ㄏ⼔ㄫ</rt></ruby> "vast"
 
 ## Datacheck
 ```dataview

@@ -16,7 +16,7 @@ tags: [lookup]
 ### Aliases
 - 巛 is [[Radical 047]]
 
-### Datacheck
+## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
