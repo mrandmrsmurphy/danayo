@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 ### Used
-- <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one
+1. <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one
 ### Aliases
 - 丶 is an alias of [[Radical 003]], "dot"
 * 丿 is an alias of [[Radical 004]], "slash"

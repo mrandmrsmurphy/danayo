@@ -10,26 +10,28 @@ tags: [lookup]
 > [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
 ## Characters
-- <ruby>[[古]]<rt>ㄍㄛ</rt></ruby>
-- <ruby>[[市]]<rt>ㄙㄧ</rt></ruby>
-- <ruby>[[写]]<rt>ㄙ⼘</rt></ruby>
-- <ruby>[[召]]<rt>ㄙ⼄ㄨ</rt></ruby>
-- <ruby>[[../../../characters/占 (char)]]<rt>ㄐㄝㄇ</rt></ruby>
-- <ruby>[[台 (char)]]<rt>ㄅ⼘ㄋ</rt></ruby>
-- <ruby>[[乍]]<rt>ㄐㄚ</rt></ruby>
-- <ruby>[[弁]]<rt>ㄅ⼘ㄋ</rt></ruby>
-- <ruby>[[矛]]<rt>ㄇㄚㄨ</rt></ruby>
-- <ruby>[[矢]]<rt>ㄙㄧㄜ</rt></ruby>
-- <ruby>[[立]]<rt>ㄌㄧㄆ</rt></ruby>
-- <ruby>[[令 (char)]]<rt>ㄌㄝㄫ</rt></ruby>
-- <ruby>[[卉]]<rt>ㄏㄨㄧ</rt></ruby>
-- <ruby>[[孕]]<rt>ㄧㄫ</rt></ruby>
-- <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby>
-- <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby>
-
+### Used
+1. <ruby>[[古]]<rt>ㄍㄛ</rt></ruby>
+2. <ruby>[[市]]<rt>ㄙㄧ</rt></ruby>
+3. <ruby>[[写]]<rt>ㄙ⼘</rt></ruby>
+4. <ruby>[[召]]<rt>ㄙ⼄ㄨ</rt></ruby>
+5. <ruby>[[../../../characters/占 (char)]]<rt>ㄐㄝㄇ</rt></ruby>
+6. <ruby>[[台 (char)]]<rt>ㄅ⼘ㄋ</rt></ruby>
+7. <ruby>[[乍]]<rt>ㄐㄚ</rt></ruby>
+8. <ruby>[[弁]]<rt>ㄅ⼘ㄋ</rt></ruby>
+9. <ruby>[[矛]]<rt>ㄇㄚㄨ</rt></ruby>
+10. <ruby>[[矢]]<rt>ㄙㄧㄜ</rt></ruby>
+11. <ruby>[[立]]<rt>ㄌㄧㄆ</rt></ruby>
+12. <ruby>[[令 (char)]]<rt>ㄌㄝㄫ</rt></ruby>
+13. <ruby>[[卉]]<rt>ㄏㄨㄧ</rt></ruby>
+14. <ruby>[[孕]]<rt>ㄧㄫ</rt></ruby>
+15. <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby>
+16. <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby>
+### Aliases
 * 尓 --> 爾
-* ~~㐱~~
-* ~~厼~~
+### Forbidden
+* 㐱
+* 厼
 
 ## Datacheck
 ```dataview

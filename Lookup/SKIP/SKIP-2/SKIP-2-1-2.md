@@ -10,10 +10,15 @@ tags: [lookup]
 > [Stroke 03](lookup/Stroke/Stroke%2003.md)
 
 ## Characters
-- <ruby>[三](characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
+1. <ruby>[三](characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
 
-### Misc
-[[Radical 059|彡]] and [[Radical 060|彳]] are both radicals, not characters per se.  乊 and 亍 are both [[文法 - 98違法字|Forbidden]].
+### Aliases
+- [[Radical 059|彡]] 
+- [[Radical 060|彳]] 
+These are both radicals, not characters per se.  
+### Forbidden
+- 乊 
+- 亍 
 
 ### Data double check
 ```dataview

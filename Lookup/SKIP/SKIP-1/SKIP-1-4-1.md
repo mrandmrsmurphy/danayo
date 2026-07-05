@@ -10,8 +10,8 @@ tags: [lookup]
 > All of these are [Stroke 05](lookup/Stroke/Stroke%2005.md)
 
 ## Characters
-- <ruby>[札](/characters/札%20(char))<rt>ㄐㄚㄊ</rt></ruby> - letter, note
-- <ruby>[礼](/characters/礼%20(char))<rt>ㄌㄝㄧ</rt></ruby> - manners
+1. <ruby>[札](/characters/札%20(char))<rt>ㄐㄚㄊ</rt></ruby> - letter, note
+2. <ruby>[礼](/characters/礼%20(char))<rt>ㄌㄝㄧ</rt></ruby> - manners
 
 ### Data double check
 ```dataview

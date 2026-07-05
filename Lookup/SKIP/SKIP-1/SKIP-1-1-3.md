@@ -10,8 +10,8 @@ tags: [lookup]
 > All of these are [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
-- <ruby>[水](characters/水%20(char).md)<rt>ㄙㄨ</rt></ruby> - water
-- <ruby>[心](characters/心%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - heart
+1. <ruby>[水](characters/水%20(char).md)<rt>ㄙㄨ</rt></ruby> - water
+2. <ruby>[心](characters/心%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - heart
 
 ## Datacheck
 ```dataview

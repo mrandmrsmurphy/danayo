@@ -10,8 +10,8 @@ tags: [lookup]
 > [Stroke 02](lookup/Stroke/Stroke%2002.md)
 
 ## Characters
-Only
-- <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> - two
+Only one:
+1. <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> - two
 
 ### Data double check
 ```dataview

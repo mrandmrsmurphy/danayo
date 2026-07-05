@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 01](lookup/Stroke/Stroke%2001.md)
 
 ## Characters
-- <ruby>[乙](characters/乙%20(char).md)<rt>ㄛㄊ</rt></ruby> - second
+1. <ruby>[乙](characters/乙%20(char).md)<rt>ㄛㄊ</rt></ruby> - second
 
 That's it.  Just one.
 

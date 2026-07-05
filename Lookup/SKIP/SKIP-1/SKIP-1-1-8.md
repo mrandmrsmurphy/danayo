@@ -10,7 +10,7 @@ tags: [lookup]
 > These are all of [Stroke 09](lookup/Stroke/Stroke%2009.md).
 
 ## Characters
-- <ruby>[胤](characters/胤.md)<rt>·⼜ㄋ</rt></ruby> - heir
+1. <ruby>[胤](characters/胤.md)<rt>·⼜ㄋ</rt></ruby> - heir
 
 ## Datacheck
 ```dataview

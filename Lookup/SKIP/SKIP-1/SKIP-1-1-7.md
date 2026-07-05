@@ -10,7 +10,7 @@ tags: [lookup]
 > These are all of [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 ## Characters
-- <ruby>[承](characters/承.md)<rt>ㄙㄨㄫ</rt></ruby> - inherit
+1. <ruby>[承](characters/承.md)<rt>ㄙㄨㄫ</rt></ruby> - inherit
 
 ## Datacheck
 ```dataview
