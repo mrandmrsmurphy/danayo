@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -10,7 +10,7 @@ Top component has 10 strokes. Dominant components: 髟, 能, 莫, 般.
 1. ø
 2. [SKIP-2-10-2](lookup/SKIP/SKIP-2/SKIP-2-10-2.md): 粤
 3. [SKIP-2-10-3](lookup/SKIP/SKIP-2/SKIP-2-10-3.md): 奨, 塑, 塗
-4. [SKIP-2-10-4](lookup/SKIP/SKIP-2/SKIP-2-10-4.md): 愨, 態, 慕, 敲, 熙...
+4. [SKIP-2-10-4](lookup/SKIP/SKIP-2/SKIP-2-10-4.md): 愨, 態, 慕, 敲, 熙, 髪
 5. [SKIP-2-10-5](lookup/SKIP/SKIP-2/SKIP-2-10-5.md): 監, 盤, 磐, 髯
 6. [SKIP-2-10-6](lookup/SKIP/SKIP-2/SKIP-2-10-6.md): 繁
 7. [SKIP-2-10-7](lookup/SKIP/SKIP-2/SKIP-2-10-7.md): 覧, 醤

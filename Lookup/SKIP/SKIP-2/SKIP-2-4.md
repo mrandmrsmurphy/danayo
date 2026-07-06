@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -9,10 +9,10 @@ Top component has 4 strokes. Dominant components: 日, 火, 月, 言.
 
 1. [SKIP-2-4-1](lookup/SKIP/SKIP-2/SKIP-2-4-1.md): 丕, 旦, 氐
 2. [SKIP-2-4-2](lookup/SKIP/SKIP-2/SKIP-2-4-2.md): 先, 光, 共, 劣, 早
-3. [SKIP-2-4-3](lookup/SKIP/SKIP-2/SKIP-2-4-3.md): 否, 吾, 告, 呑, 妥, 孚, 巠, 弄 …
-4. [SKIP-2-4-4](lookup/SKIP/SKIP-2/SKIP-2-4-4.md): 受, 念, 忽, 斧, 昆, 旻, 昂, 昇 …
-5. [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md): 冒, 昜, 星, 是, 昴, 昷, 柔, 査 …
-6. [SKIP-2-4-6](lookup/SKIP/SKIP-2/SKIP-2-4-6.md): 奚, 挙, 晃, 晏, 爹, 素, 索, 蚕 …
+3. [SKIP-2-4-3](lookup/SKIP/SKIP-2/SKIP-2-4-3.md): 否, 吾, 告, 呑, 妥, 孚, 巠, 弄, 忠, 旱, 李, 杏, 肖, 麦, 㐬
+4. [SKIP-2-4-4](lookup/SKIP/SKIP-2/SKIP-2-4-4.md): 受, 念, 忽, 斧, 昆, 旻, 昂, 昇, 昊, 昌, 昏, 易, 昔, 歩, 毒, 沓, 炎, 肯, 表, 采, 青
+5. [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md): 冒, 昜, 星, 是, 昴, 昷, 柔, 査, 歪, 爰, 畐, 盈, 省, 胥, 革, 茄
+6. [SKIP-2-4-6](lookup/SKIP/SKIP-2/SKIP-2-4-6.md): 奚, 挙, 晃, 晏, 爹, 素, 索, 蚕, 蚤, 䍃
 7. [SKIP-2-4-7](lookup/SKIP/SKIP-2/SKIP-2-4-7.md): 覓, 貨, 貫, 雀, 責, 曼, 旋, 黄
 8. [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md): 歯, 暑, 最, 普, 景, 晶, 森, 喬
 9. [SKIP-2-4-9](lookup/SKIP/SKIP-2/SKIP-2-4-9.md): 愛, 暈, 歳, 爺, 盞, 舜, 誉

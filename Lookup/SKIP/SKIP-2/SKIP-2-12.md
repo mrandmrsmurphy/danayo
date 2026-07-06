@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -10,7 +10,7 @@ Top component has 12 strokes. Dominant components: 道, 敬, 敝.
 1. ø
 2. ø
 3. [SKIP-2-12-3](lookup/SKIP/SKIP-2/SKIP-2-12-3.md): 墜, 導, 幣, 弊
-4. [SKIP-2-12-4](lookup/SKIP/SKIP-2/SKIP-2-12-4.md): 憩
+4. [SKIP-2-12-4](lookup/SKIP/SKIP-2/SKIP-2-12-4.md): 憩, 憑 (char)
 5. [SKIP-2-12-5](lookup/SKIP/SKIP-2/SKIP-2-12-5.md): 瞥
 6. ø
 7. [SKIP-2-12-7](lookup/SKIP/SKIP-2/SKIP-2-12-7.md): 攀, 警

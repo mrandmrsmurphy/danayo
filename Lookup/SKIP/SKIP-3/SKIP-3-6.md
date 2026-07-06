@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -9,8 +9,8 @@ Surrounding component has 6 strokes. Dominant components: 戈, 虍.
 
 1. ø
 2. ø
-3. [SKIP-3-6-3](lookup/SKIP/SKIP-3/SKIP-3-6-3.md): 咼, 哉
-4. [SKIP-3-6-4](lookup/SKIP/SKIP-3/SKIP-3-6-4.md): 栽, 烏...
+3. [SKIP-3-6-3](lookup/SKIP/SKIP-3/SKIP-3-6-3.md): 咼, 哉, 彦
+4. [SKIP-3-6-4](lookup/SKIP/SKIP-3/SKIP-3-6-4.md): 栽, 烏, 馬
 5. [SKIP-3-6-5](lookup/SKIP/SKIP-3/SKIP-3-6-5.md): 産
 6. [SKIP-3-6-6](lookup/SKIP/SKIP-3/SKIP-3-6-6.md): 裁
 7. [SKIP-3-6-7](lookup/SKIP/SKIP-3/SKIP-3-6-7.md): 載

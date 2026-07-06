@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 7
-date-last-perfect: 2026-02-26
+date-last-perfect: 2026-07-05
 skip_number: 4-7-2
 tags: [lookup]
 

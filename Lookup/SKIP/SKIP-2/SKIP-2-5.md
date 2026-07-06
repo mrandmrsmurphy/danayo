@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -8,12 +8,12 @@ tags: [lookup]
 Top component has 5 strokes. Dominant components: 罒, 㠯, 帛.
 
 1. [SKIP-2-5-1](lookup/SKIP/SKIP-2/SKIP-2-5-1.md): 丞
-2. [SKIP-2-5-2](lookup/SKIP/SKIP-2/SKIP-2-5-2.md): 児, 兵, 努, 労, 呉, 男, 皀, 禿 …
-3. [SKIP-2-5-3](lookup/SKIP/SKIP-2/SKIP-2-5-3.md): 長, 帛, 岳, 学, 委, 妾, 妻, 奉 …
-4. [SKIP-2-5-4](lookup/SKIP/SKIP-2/SKIP-2-5-4.md): 奏, 怒, 思, 怨, 春, 架, 某, 果 …
-5. [SKIP-2-5-5](lookup/SKIP/SKIP-2/SKIP-2-5-5.md): 党, 哥, 芻, 帯, 泰, 烝, 留, 祠 …
-6. [SKIP-2-5-6](lookup/SKIP/SKIP-2/SKIP-2-5-6.md): 皐, 紮, 蛍, 累, 常, 竟, 蛋, 畢 …
-7. [SKIP-2-5-7](lookup/SKIP/SKIP-2/SKIP-2-5-7.md): 営, 塁, 掌, 畳, 登, 覚, 貰, 貴 …
+2. [SKIP-2-5-2](lookup/SKIP/SKIP-2/SKIP-2-5-2.md): 児, 兵, 努, 労, 呉, 男, 皀, 禿, 秀, 見, 貝
+3. [SKIP-2-5-3](lookup/SKIP/SKIP-2/SKIP-2-5-3.md): 長, 帛, 岳, 学, 委, 妾, 妻, 奉, 夌, 咅
+4. [SKIP-2-5-4](lookup/SKIP/SKIP-2/SKIP-2-5-4.md): 奏, 怒, 思, 怨, 春, 架, 某, 果, 枼, 染, 柴, 栄, 毘, 泉, 点, 界, 畏, 発, 癸, 皆, 皇, 胃, 背, 衷, 香
+5. [SKIP-2-5-5](lookup/SKIP/SKIP-2/SKIP-2-5-5.md): 党, 哥, 芻, 帯, 泰, 烝, 留 (char), 祠, 秦
+6. [SKIP-2-5-6](lookup/SKIP/SKIP-2/SKIP-2-5-6.md): 皐, 紮, 蛍, 累, 常, 竟, 蛋, 畢, 袋, 異, 焉
+7. [SKIP-2-5-7](lookup/SKIP/SKIP-2/SKIP-2-5-7.md): 営, 塁, 掌, 畳, 登, 覚, 貰, 貴, 買, 貸, 費, 賀, 賁, 黍
 8. [SKIP-2-5-8](lookup/SKIP/SKIP-2/SKIP-2-5-8.md): 咎, 業, 罪, 置, 蜀, 電
 9. [SKIP-2-5-9](lookup/SKIP/SKIP-2/SKIP-2-5-9.md): 嘗, 罰
 10. [SKIP-2-5-10](lookup/SKIP/SKIP-2/SKIP-2-5-10.md): 磊, 罵, 罷, 賞, 駕

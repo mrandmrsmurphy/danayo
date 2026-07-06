@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-02-08
+date-last-perfect: 2026-07-05
 size: 1
 stroke_count: 10
 skip_number: 2-8-2

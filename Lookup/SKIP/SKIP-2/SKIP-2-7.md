@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -10,9 +10,9 @@ Top component has 7 strokes. Dominant components: 辰, 里, 亜, 釆.
 1. ø
 2. ø
 3. [SKIP-2-7-3](lookup/SKIP/SKIP-2/SKIP-2-7-3.md): 哲, 唇, 尃, 差, 辱
-4. [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md): 黒, 軣, 梨, 梁, 望...
+4. [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md): 黒, 軣, 梨, 梁, 望, 曹, 悪, 患, 悠, 悉
 5. [SKIP-2-7-5](lookup/SKIP/SKIP-2/SKIP-2-7-5.md): 番, 盛, 禼, 貿
-6. [SKIP-2-7-6](lookup/SKIP/SKIP-2/SKIP-2-7-6.md): 資
+6. [SKIP-2-7-6](lookup/SKIP/SKIP-2/SKIP-2-7-6.md): 資, 嗇
 7. [SKIP-2-7-7](lookup/SKIP/SKIP-2/SKIP-2-7-7.md): 誓, 墨
 8. ø
 9. [SKIP-2-7-9](lookup/SKIP/SKIP-2/SKIP-2-7-9.md): 餐

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -8,7 +8,7 @@ tags: [lookup]
 
 - [SKIP-4-7-1](lookup/SKIP/SKIP-4/SKIP-4-7-1.md): 里, 酉, 豕, 更, 巫, 亜
 - [SKIP-4-7-2](lookup/SKIP/SKIP-4/SKIP-4-7-2.md): 坐
-- [SKIP-4-7-3](lookup/SKIP/SKIP-4/SKIP-4-7-3.md): 車, 身, 甫, 求, 来, 束...
+- [SKIP-4-7-3](lookup/SKIP/SKIP-4/SKIP-4-7-3.md): 車, 身, 甫, 求, 来, 束, 我, 串
 - [SKIP-4-7-4](lookup/SKIP/SKIP-4/SKIP-4-7-4.md): 夹, 寿, 良
 
 ## Base check

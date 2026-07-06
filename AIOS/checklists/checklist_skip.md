@@ -174,15 +174,16 @@ Same structure as other index files, but also cross-reference the subtype overvi
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [Stroke 05](lookup/Stroke/Stroke 05.md)
 
-- [SKIP-4-5-1](lookup/SKIP/SKIP-4/SKIP-4-5-1.md): 正, 凹, 瓦 ...
-- [SKIP-4-5-2](lookup/SKIP/SKIP-4/SKIP-4-5-2.md): 白, 由, 丘 ...
-- [SKIP-4-5-3](lookup/SKIP/SKIP-4/SKIP-4-5-3.md): 禾, 申, 本 ...
-- [SKIP-4-5-4](lookup/SKIP/SKIP-4/SKIP-4-5-4.md): 央, 史, 失 ...
+- [SKIP-4-5-1](lookup/SKIP/SKIP-4/SKIP-4-5-1.md): 且, 丙, 冊, 凸, 凹, 平, 正, 母, 玉, 瓦, 甲, 疋, 皿
+- [SKIP-4-5-2](lookup/SKIP/SKIP-4/SKIP-4-5-2.md): 丘, 出, 甘, 由, 白, 世, 生
+- [SKIP-4-5-3](lookup/SKIP/SKIP-4/SKIP-4-5-3.md): 乎, 未, 本, 禾, 冉, 半, 末, 朮, 申
+- [SKIP-4-5-4](lookup/SKIP/SKIP-4/SKIP-4-5-4.md): 史, 央, 失, 弗, 戊, 犮
 ```
+As with SKIP-1/2/3 index files, every character goes in the preview — no `…`/`...` truncation, ever (confirmed 2026-07-05: dozens of index pages across the vault had been silently truncated this way, some cutting a 30-90-character list down to 6-8 shown).
 
 ### SKIP-4 subtype overview (`SKIP-4-0-#.md`)
 
-Lists every character of that subtype, grouped by stroke count, with links to the leaf files. SKIP-4-0-1 uses a table layout to show all top-line characters at a glance. These pages contain **no character links of their own** — they link only to the leaf files. No `skip_number` or `size` in frontmatter.
+Lists every character of that subtype, grouped by stroke count, with links to the leaf files. SKIP-4-0-1 uses a table layout to show all top-line characters at a glance; SKIP-4-0-2/3/4 use the same per-leaf preview-list style as the stroke-count indexes above. **Correction (2026-07-05)**: earlier drafts of this checklist claimed these pages "contain no character links of their own" — that's wrong; all four subtype overviews do show character previews per leaf in actual practice, and should. No `skip_number` or `size` in frontmatter.
 
 ### SKIP-4 character list (simpler format)
 

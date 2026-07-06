@@ -5,7 +5,7 @@ tags: [lookup]
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3 :
 
-1. [SKIP-3-1-1](SKIP-3-1-1.md): 匕
+1. [SKIP-3-1-1](SKIP-3-1-1.md): 乃, 刀, 匕
 2. [SKIP-3-1-2](lookup/SKIP/SKIP-3/SKIP-3-1-2.md): 刃
 3. no
 4. [SKIP-3-1-4](lookup/SKIP/SKIP-3/SKIP-3-1-4.md): 司

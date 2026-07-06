@@ -2,7 +2,7 @@
 stroke_count: 10
 tags:
   - lookup
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-05
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4 
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)

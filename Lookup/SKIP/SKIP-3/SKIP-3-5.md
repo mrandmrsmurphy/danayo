@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-03-06
+date-last-perfect: 2026-07-05
 tags: [lookup]
 
 ---
@@ -28,7 +28,7 @@ Every, single one is the sickness radical!
 5. [SKIP-3-5-5](SKIP-3-5-5.md): 疱, 疲, 疽, 疾, 病, 症
 6. [[SKIP-3-5-6]]: 痕
 7. [[SKIP-3-5-7]]: 痘, 痛, 痢, 痩
-8. [[SKIP-3-5-8]]: 痰, 痴
+8. [[SKIP-3-5-8]]: 痰, 痴, 痺
 9. [[SKIP-3-5-9]]: 瘋, 瘍
 10. [[SKIP-3-5-10]]: 瘡
 11. No

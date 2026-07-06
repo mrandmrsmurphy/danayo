@@ -4,7 +4,7 @@ stroke_count: 2
 skip_number: 4-2-1
 tags:
   - lookup
-date-last-perfect: 2026-05-06
+date-last-perfect: 2026-07-05
 ---
 > SKIP : 4 : [2](lookup/SKIP/SKIP-4/SKIP-4-2.md) | [SKIP-4-0-1](lookup/SKIP/SKIP-4/SKIP-4-0-1.md)
 > All are [[Stroke 02]].
