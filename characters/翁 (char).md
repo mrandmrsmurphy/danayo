@@ -30,6 +30,7 @@ mc_id: 1689
 graphemic_classification: 公
 stand_in: 翁
 aliases:
+  - 鶲
 注音: ㄛㄫ
 kwin: true
 tags:
