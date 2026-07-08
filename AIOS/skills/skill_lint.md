@@ -6,7 +6,7 @@ type: skill
 
 # Skill: Lint
 
-The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, and later `lint Radicals`, `lint Stroke`, `lint Syllables`, etc. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
+The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, `lint Radicals`, and later `lint Stroke`, `lint Syllables`, etc. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
 
 ## General shape of a lint pass
 
@@ -58,3 +58,47 @@ One file, checked last since it just links the 1/2/3/4 category pages and the fo
 ### 5. Report
 
 Per folder-group: counts of leaves created / leaves fixed / indexes fixed / dates stamped, plus a short list of anything that needed a judgment call rather than a mechanical fix (miscategorized character, ambiguous alias, etc.) for the user to weigh in on.
+
+## `lint Radicals`
+
+Rubric: [[AIOS/checklists/checklist_radicals.md]] — read it in full before running this; the summary below assumes it.
+
+### 0. Scope
+
+`lookup/Radicals/` is 215 files: 214 leaf pages (`Radical 001.md` through `Radical 214.md`), one per Kangxi radical, plus the top-level `Radicals.md` overview that lists all 214 grouped by stroke count. There is no intermediate index tier here (unlike SKIP's index/leaf split) — each `Radical NNN.md` is simultaneously the leaf (full character inventory) and the only page between a character and the top overview.
+
+### 1. Build ground truth, and check the source property itself
+
+```bash
+grep -L "^radical:" characters/*.md
+```
+Any character file this returns is a hard gap — a character that cannot be placed on any radical page because it lacks the property being indexed. Flag every one; this is a character-page defect, not a Radicals-page one, so fix it by adding the correct `radical:` value to the character's own frontmatter (per [[AIOS/checklists/checklist_characters.md]]), not by working around it on the lookup side.
+
+```bash
+grep -h "^radical:" characters/*.md
+```
+normalized into a map of `radical → [character files]`. Some radicals have multiple canonical written forms (e.g. 丿/乀/乁, 儿/兒) — `Radicals.md`'s own stroke-grouped listing documents which forms belong to which radical number; fold variants into the same map entry rather than treating them as separate radicals. This map, not the current contents of any `Radical NNN.md`, is ground truth for what belongs where.
+
+### 2. Leaf files (`Radical NNN.md`)
+
+For each of the 214:
+- Every character in the ground-truth map for this radical has a numbered entry in the correct `+N Strokes` group, and vice versa (catches both omissions and stale/misfiled entries).
+- **Linkage, not backlink**: confirm the character is *linked to from* the radical page (numbered entry with a working link to the character file). Do **not** require the reverse — a `radical`-type backlink from the character page to `[[Radical NNN]]` — since that reciprocal link doesn't exist on most character pages yet. Flag its absence as a to-do for a future pass once character pages are further along, but it does not block stamping this page's `date-last-perfect`.
+- `+0 Strokes` group present, containing exactly the radical itself as entry 1.
+- `size` equals the actual count of numbered entries (aliases/forbidden/Others excluded).
+- `radical` frontmatter value matches exactly what the data check query and the character-frontmatter ground truth use.
+- `## Data check` heading and query present, sorted `stroke_count ASC`; queries every variant form with `OR radical = "..."` when the radical has more than one written form.
+- Fix what's wrong, then stamp `date-last-perfect` to today.
+
+### 3. Top-level `Radicals.md`
+
+Checked last. For each of the 214 stroke-grouped entries:
+- Links to a real `Radical NNN.md` file (wiki-link or relative markdown link, not dead text).
+- The character count shown in parentheses matches that leaf's `size` field.
+- All 214 radicals are present, correctly grouped under their stroke-count heading, in radical-number order within each group.
+- Combining/simplified-radical callout lists (e.g. "Combining or simplified radicals with 2 strokes") stay consistent with what each affected leaf page's frontmatter and data check actually say.
+- `## Base check` block present and querying `lookup/Radicals`.
+
+### 4. Report
+
+Counts of: character pages missing `radical:` entirely (flag prominently — these are corpus gaps, not lookup-page bugs), leaves fixed, dates stamped, and any characters found linked from the wrong radical page. Separately note the running total of character pages still missing the reciprocal `radical`-page backlink, without treating it as a blocker.

@@ -8,7 +8,7 @@ tags: [lookup]
 > [Radicals](Radicals.md)
 > Abbreviated 飞
 
-1. <ruby>[[../../characters/飛 (char)]]<rt>ㄆㄧ</rt></ruby> - fly
+1. <ruby>[飛](../../characters/飛%20(char).md)<rt>ㄆㄧ</rt></ruby> - fly
 
 ### Redirects
 - 䬡 --> 翻

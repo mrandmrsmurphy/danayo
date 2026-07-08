@@ -1,6 +1,6 @@
 ---
 size: 2
-radical: 歯
+radical: 齒
 date-last-perfect: 2026-03-11
 tags: [lookup]
 

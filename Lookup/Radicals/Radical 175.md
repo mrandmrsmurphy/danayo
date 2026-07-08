@@ -3,8 +3,9 @@ radical: 非
 size: 3
 date-last-perfect: 2026-03-17
 tags: [lookup]
-
 ---
+< [[Radicals]]
+
 ## Characters
 1. <ruby>[非](/characters/非%20(char).md)<rt>ㄆㄧ</rt></ruby> - not
 2. <ruby>[靠](/characters/靠.md)<rt>ㄎㄚㄨ</rt></ruby> - lean on

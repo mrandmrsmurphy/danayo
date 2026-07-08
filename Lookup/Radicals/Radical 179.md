@@ -1,7 +1,7 @@
 ---
 size: 1
 date-last-perfect: 2026-02-25
-radical: 韮
+radical: 韭
 tags: [lookup]
 
 ---
