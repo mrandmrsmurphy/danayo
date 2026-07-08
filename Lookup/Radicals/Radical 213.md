@@ -12,8 +12,8 @@ tags: [lookup]
 ### Used
 1. <ruby>[[亀]]<rt>ㄍㄨㄛ</rt></ruby>, and it's variants 龜, 龟
 ### Variants
-- 龝 which is an ancient variant of [[秋]]
-- 龞 which is an ancient variant of [[鼈]]/鱉
+- 龝 which is an ancient variant of 秋 
+- 龞 which is an ancient variant of 鼈/鱉
 
 ## Data check
 ```dataview

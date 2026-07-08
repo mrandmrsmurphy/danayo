@@ -139,29 +139,40 @@ Instead of `## Strokes`, a `## Characters` section. No stroke-count subsections 
 ```markdown
 ## Characters
 ### Used
-1. <ruby>[[龍 (char)|龍]]<rt>ㄌ⼄ㄫ</rt></ruby> - dragon
-2. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - huge
+1. <ruby>[[丸]]<rt>ㄏ⺢ㄋ</rt></ruby> - round
+2. <ruby>[[丹]]<rt>ㄉㄚㄋ</rt></ruby> - cinnabar
 
-### Variants
-* 龎 --> variant of 龐
-* 龒 --> ancient variant of 龍
+### Aliases
+- 丼 --> 井
 
-### Illegal
-* 龑 - a 9th century made-up name = 龍 + 天
-* 龓 - obscure C character, forbidden in Dan'a'yo
+### Forbidden
+- 丷 --> Korean 구결 for '하다'
+
+### Other
+- [叉](../../characters/叉%20(char).md) has a 'dot' in it, but isn't listed under this radical.
 ```
 
 - **`### Used`** — required. Numbered entries, same ruby + gloss format as the grouped style (see "Numbered entries — character format" below), just not split by stroke count. Numbering still counts toward `size`.
-- **`### Variants`** *(optional, include if any exist)* — alternate/ancient/simplified written forms that redirect to a proper character, same `-->` convention as grouped-style aliases.
-- **`### Illegal`** *(optional, include if any exist)* — glyphs that resemble 漢字 but aren't standard, or are forbidden in Dan'a'yo, **each with a short reason**, not just the label "forbidden" — e.g. "obscure C character, forbidden in Dan'a'yo" or "(obsolete) vista of a dragon in flight, forbidden," not a bare `- 龓 --> forbidden`.
+- **`### Aliases`** *(optional, include if any exist)* — alternate/ancient/simplified written forms that redirect to a proper character, same `-->` convention as grouped-style aliases. (`Radical 212.md` uses the older heading name `### Variants` for this — equivalent, but `### Aliases` is the name to use going forward, for consistency with the grouped style's own vocabulary.)
+- **`### Forbidden`** *(optional, include if any exist)* — glyphs that resemble 漢字 but aren't standard, or are forbidden in Dan'a'yo, **each with a short reason**, not just the label "forbidden" — e.g. "obscure C character, forbidden in Dan'a'yo" or "(obsolete) vista of a dragon in flight, forbidden," not a bare `- 龓 --> forbidden`. (`Radical 212.md` calls this `### Illegal` — same older-naming note as above.)
+- **`### Other`** *(optional, include if any exist)* — see "Other section" below; works identically in both styles, just nested as a `###` subsection here instead of a standalone `##` section.
 
 A prosaic-style page with only `### Used` and no prose in the opening is a bare list wearing the wrong heading — see "Common mistakes."
 
 ---
 
-## Other section *(optional)*
+## Other section *(optional, both styles)*
 
-If there are characters that visually contain the radical as a component but are officially classified under a *different* radical, list them here. These represent incoming links that a reader might expect to find on this page.
+Some characters visually contain a radical as a component, but the *language's actual etymology* — how Dan'a'yo derives the character — classifies them under a *different* radical (their `radical:` frontmatter field, and their real `## Strokes`/`### Used` entry, both stay on that other page; nothing about their official classification changes). When a character's own page discusses this visual component in its etymology and links out to `[[Radical NNN]]` for the component radical, that link should be **reciprocated** here, so a reader browsing the component radical isn't left wondering why an obviously-related character is missing.
+
+Worked example: 叉 (char)'s real radical is 又 (radical 29, "hand"), and its own page is what belongs under `Radical 029.md`'s `### Used`. But 叉 also visually contains 丶 (a dot stroke), so its etymology section links to `[[Radical 003]]`. Radical 3's page reciprocates that link under its own `### Other`:
+
+```markdown
+### Other
+- [叉](../../characters/叉%20(char).md) has a 'dot' in it, but isn't listed under this radical.
+```
+
+In grouped-style pages this is a standalone `## Other` section (after `## Strokes`, before `## Data check`); in prosaic-style pages it's a `### Other` subsection alongside `### Used`/`### Aliases`/`### Forbidden`.
 
 ```markdown
 ### Other
@@ -170,7 +181,7 @@ If there are characters that visually contain the radical as a component but are
 - While not filed under this radical, [舜](../../characters/舜.md) has it as a top component.
 ```
 
-Use a brief note explaining *why* the character appears here (it looks like it belongs, but doesn't). Plain character names or linked character files are both acceptable.
+Use a brief note explaining *why* the character appears here (it looks like it belongs, but doesn't). Plain character names or linked character files are both acceptable. Entries here never count toward `size`, on either style.
 
 ---
 
@@ -213,7 +224,7 @@ Set when, for **prosaic-style** pages:
 2. The opening is a real encyclopedic passage (see "Opening"), not a one-line description.
 3. Every character returned by the data check query has a numbered entry under `### Used`.
 4. No character in the numbered list is absent from the data check results.
-5. All known variants and illegal/forbidden glyphs for this radical are listed under `### Variants` / `### Illegal`, each illegal entry with a reason.
+5. All known variants and forbidden glyphs for this radical are listed under `### Aliases` / `### Forbidden`, each forbidden entry with a reason.
 6. `size` matches the actual count of numbered entries under `### Used`.
 
 ---
@@ -221,7 +232,7 @@ Set when, for **prosaic-style** pages:
 ## Common mistakes
 
 - **Flat comma-separated list** — some older pages list all characters in one block without ruby annotation at all. These need to be converted to a proper format regardless of style.
-- **Bare numbered list mistaken for prosaic style** — a `size < 20` page with just a breadcrumb, one-line description, and a flat numbered list is *not* a finished prosaic page — it's missing the encyclopedic opening and the `### Used`/`### Variants`/`### Illegal` structure. `Radical 212.md` is the bar; a list alone doesn't clear it. (Confirmed instances needing this upgrade: `Radical 134.md`, `Radical 194.md`.)
+- **Bare numbered list mistaken for prosaic style** — a `size < 20` page with just a breadcrumb, one-line description, and a flat numbered list is *not* a finished prosaic page — it's missing the encyclopedic opening and the `### Used`/`### Aliases`/`### Forbidden`/`### Other` structure. `Radical 212.md` and `Radical 003.md` are the bar; a list alone doesn't clear it. (Confirmed instances needing this upgrade: `Radical 134.md`, `Radical 194.md`.)
 - **Flat/bare list on a `size >= 20` page** — at this size, prosaic style isn't an option at all; it must be converted to the full grouped `+N Strokes` format. (Confirmed instances: `Radical 044.md`, `Radical 053.md`, `Radical 060.md`, `Radical 104.md`, `Radical 116.md`, `Radical 196.md`.)
 - **No `+0 Strokes` group when one is warranted (grouped style only)** — if the radical itself has a standalone entry in `characters/`, it must appear as entry 1; omitting it breaks the continuous numbering and the completeness check. But check `characters/` first: if the radical symbol isn't a standalone character in the corpus, a missing `+0` is *correct*, not a bug — see above. Don't flag every `+0`-less page uniformly; confirm against the corpus per page. Not applicable to prosaic-style pages, which have no `+N` groups at all.
 - **Renumbering per group** — entries are numbered continuously across all groups, not restarted at 1 for each stroke count.

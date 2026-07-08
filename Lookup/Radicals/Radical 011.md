@@ -8,6 +8,7 @@ tags: [lookup]
 > [[Radicals]]
 
 ## By Stroke
+### +0
 1. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - to enter
 ### +1
 - 𠓛–>集

@@ -9,6 +9,7 @@ tags: [lookup]
 
 **Radical 2**  is a vertical bar, 丨
 ## Strokes
+_no +0, because it is not a stand-alone character_
 ### +1 Stroke
 - forbidden丩
 - 𠁡->卜

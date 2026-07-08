@@ -6,7 +6,7 @@ tags:
   - lookup
 ---
 > [[Radicals]]
-> The grass radical. The canonical form 艸 has 6 strokes, but the abbreviated form ⺾/艹 used atop characters counts as 3, so groupings below use that baseline.
+> The grass radical. The canonical form 艸 has 6 strokes, but the abbreviated form ⺾/艹 used atop characters counts as 3, so groupings below use that baseline. No character is filed at +0, so groupings below start at +2.
 
 ## Strokes
 
