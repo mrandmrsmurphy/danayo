@@ -13,7 +13,7 @@ tags: [lookup]
 	- See here for characters not under this radical but still with this component
 2. [韓](characters/韓.md) - Han Korean
 
-## Dataview
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"

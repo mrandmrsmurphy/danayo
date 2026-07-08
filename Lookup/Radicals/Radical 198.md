@@ -5,7 +5,7 @@ date-last-perfect: 2026-03-27
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 > The "deer" radical
 
 ## Characters
@@ -16,7 +16,7 @@ tags: [lookup]
 5. <ruby>[麟](/characters/麟.md)<rt>ㄌㄧㄋ</rt></ruby> - unicorn
 
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

@@ -11,7 +11,7 @@ tags:
 1. <ruby>[自](/characters/自.md)<rt>ㄐㄧㄜ</rt></ruby> "self"
 2. <ruby>[臭](/characters/臭%20(char).md)<rt>ㄑㄨ</rt></ruby> "stinky"
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

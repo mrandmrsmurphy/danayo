@@ -10,7 +10,7 @@ tags: [lookup]
 1. <ruby>[牆](/characters/牆.md)<rt>ㄑ⺢ㄫ</rt></ruby> - wall
 2. <ruby>[牒](/characters/牒.md)<rt>ㄉㄝㄆ</rt></ruby> - documents
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

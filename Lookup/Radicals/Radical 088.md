@@ -11,7 +11,7 @@ tags: [lookup]
 2. <ruby>[爹](/characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father
 3. <ruby>[爺](/characters/爺.md)<rt>⼘</rt></ruby> - grandpa
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

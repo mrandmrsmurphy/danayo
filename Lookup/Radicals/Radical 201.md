@@ -5,13 +5,11 @@ date-last-perfect: 2026-02-22
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
-- <ruby>[黄 (char)](../../characters/黄%20(char).md)<rt>ㄏ⺢ㄫ</rt></ruby> - yellow
+1. <ruby>[黄 (char)](../../characters/黄%20(char).md)<rt>ㄏ⺢ㄫ</rt></ruby> - yellow
 
-That's it!
-
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

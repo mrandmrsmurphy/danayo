@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-04-30
-size: 34
+size: 35
 radical: 禾
 tags: [lookup]
 ---
@@ -66,8 +66,10 @@ tags: [lookup]
 ### +13 Strokes
 33. <ruby>[穫](../../characters/穫.md)<rt>ㄏ⺢ㄎ</rt></ruby> - harvest
 
+34. <ruby>[穢](../../characters/穢.md)<rt>ㄝ</rt></ruby> - filthy
+
 ### +17 Strokes
-34. <ruby>[穣](../../characters/穣%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - stalks of grain
+35. <ruby>[穣](../../characters/穣%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - stalks of grain
 
 ## Data check
 ```dataview

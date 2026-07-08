@@ -7,10 +7,10 @@ tags: [lookup]
 ---
 > [[Radicals]]
 ### +0
-- <ruby>[[香]]<rt>ㄏ·ㄚㄫ</rt></ruby> - incense
+1. <ruby>[[香]]<rt>ㄏ·ㄚㄫ</rt></ruby> - incense
 
 ### +11
-- <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby> - fragrent
+2. <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby> - fragrant
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"

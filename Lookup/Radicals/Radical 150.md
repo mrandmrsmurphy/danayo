@@ -9,7 +9,7 @@ tags: [lookup]
 
 1. <ruby>[[谷 (char)|谷]]<rt>ㄍㄛㄎ</rt></ruby> - valley
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

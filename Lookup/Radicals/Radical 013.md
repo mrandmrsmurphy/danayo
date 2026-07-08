@@ -13,7 +13,7 @@ tags: [lookup]
 4. <ruby>[再](/characters/再.md)<rt>ㄐㄚㄧ</rt></ruby> - twice
 5. <ruby>[㒼](/characters/㒼.md)<rt>ㄇㄚㄇ</rt></ruby> - cover
 
-## Data search
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "English"
 FROM "characters"

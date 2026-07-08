@@ -26,7 +26,7 @@ tags: [lookup]
 ### +7
 3. <ruby>[兪 (char)](../../characters/兪%20(char).md)<rt>⼜ㄇ</rt></ruby> - "emperor's consent"
 
-# Data search
+## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical"
 FROM "characters"

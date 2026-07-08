@@ -5,13 +5,13 @@ radical: 而
 tags:
   - lookup
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[而](/characters/而%20(char).md)<rt>ㄋㄧ</rt></ruby> "and"
 2. <ruby>[耐](/characters/耐%20(char).md)<rt>ㄋㄚㄧ</rt></ruby> "able to tolerate"
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

@@ -5,7 +5,7 @@ radical: 舟
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[舟](/characters/舟.md)<rt>ㄐㄨ</rt></ruby> "boat, ship"
@@ -19,7 +19,7 @@ tags: [lookup]
 9. <ruby>[艙](/characters/艙.md)<rt>ㄑ⺢ㄫ</rt></ruby> "cabin"
 10. <ruby>[艦](/characters/艦.md)<rt>ㄏㄚㄇ</rt></ruby> "warship"
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

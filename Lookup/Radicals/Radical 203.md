@@ -5,7 +5,7 @@ date-last-perfect: 2026-03-04
 tags: [lookup]
 
 ---
-> [Radicals](lookup/Radicals/Radicals.md)
+> [[Radicals]]
 > The "black" radical
 
 1. <ruby>[黒](characters/黒%20(char).md)<rt>ㄏㄨㄎ</rt></ruby> - black
@@ -13,7 +13,7 @@ tags: [lookup]
 3. <ruby>[黛](characters/黛.md)<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
 4. <ruby>[黜](characters/黜.md)<rt>ㄊㄨㄊ</rt></ruby> - dethrone
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

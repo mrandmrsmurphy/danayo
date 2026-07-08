@@ -9,7 +9,7 @@ tags: [lookup]
 
 1. <ruby>[[匡]]<rt>ㄎ⺢ㄫ</rt></ruby> - revise 
 
-## Dataview
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"

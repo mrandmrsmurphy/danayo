@@ -5,7 +5,7 @@ radical: 臣
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Character
 1. <ruby>[臣](/characters/臣.md)<rt>ㄙㄧㄋ</rt></ruby> "minister" 
@@ -14,7 +14,7 @@ tags: [lookup]
 
 Unrelated to [頤](../../characters/頤.md)
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", stand_in AS "SI", 注音 AS "Sound"
 FROM "characters"

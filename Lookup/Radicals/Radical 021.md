@@ -5,7 +5,7 @@ date-last-perfect: 2026-03-14
 tags: [lookup]
 
 ---
-> [Radicals](lookup/Radicals/Radicals.md)
+> [[Radicals]]
 > 匕 is a spoon
 
 ## Characters
@@ -14,7 +14,7 @@ tags: [lookup]
 3. <ruby>[北](/characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> - north
 4. <ruby>[匙](/characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
 
-## Dataview
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"

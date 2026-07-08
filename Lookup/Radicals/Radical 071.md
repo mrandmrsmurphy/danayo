@@ -10,7 +10,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[[既]]<rt>ㄍㄧㄜ</rt></ruby> - already
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

@@ -30,7 +30,7 @@ tags: [lookup]
 20. <ruby>[[究]]<rt>ㄍ⼜</rt></ruby> research, investigate
 21. <ruby>[[穹]]<rt>ㄎㄨㄫ</rt></ruby> high, sky
 
-## Data search
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "English"
 FROM "characters"

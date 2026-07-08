@@ -5,7 +5,7 @@ date-last-perfect: 2026-02-25
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 > Abbreviated 飞
 
 1. <ruby>[飛](../../characters/飛%20(char).md)<rt>ㄆㄧ</rt></ruby> - fly

@@ -5,7 +5,7 @@ radical: 卜
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[卜](/characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divination
@@ -13,7 +13,7 @@ tags: [lookup]
 3. <ruby>[占 (char)](../../characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - occupy
 4. <ruby>[卦](/characters/卦%20(char).md)<rt>ㄍ⺢ㄧ</rt></ruby> - trigram
 
-## Dataview
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"

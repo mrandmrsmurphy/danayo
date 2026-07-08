@@ -5,7 +5,7 @@ tags:
   - lookup
 date-last-perfect: 2026-05-24
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 > The bird radical
 
 ### Strokes

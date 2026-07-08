@@ -1,11 +1,11 @@
 ---
 date-last-perfect: 2026-04-26
-size: 136
+size: 137
 radical: 手
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 > The hand radical. Appears as 扌on the left side of a character (SKIP-1-3-x).
 
 ## Strokes
@@ -15,7 +15,7 @@ tags: [lookup]
 ### +0 Strokes
 2. <ruby>[手](../../characters/手%20(char).md)<rt>ㄙ⼜</rt></ruby> - hand
 
-### +1 Strokes
+### +1 Stroke
 3. <ruby>[打](../../characters/打.md)<rt>ㄉㄚ</rt></ruby> - hit
 
 ### +2 Strokes
@@ -178,6 +178,9 @@ tags: [lookup]
 ### More
 135. <ruby>[攀](../../characters/攀.md)<rt>ㄆㄚㄋ</rt></ruby> - climb
 136. <ruby>[攬](../../characters/攬.md)<rt>ㄌㄚㄇ</rt></ruby> - monopolize
+
+### +16 Strokes
+137. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
 
 ## Data check
 ```dataview

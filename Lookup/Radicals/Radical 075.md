@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-04-26
-size: 159
+size: 160
 radical: 木
 tags: [lookup]
 
@@ -13,7 +13,7 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[木](../../characters/木%20(char).md)<rt>ㄇㄛㄎ</rt></ruby> - tree
 
-### +1 Strokes
+### +1 Stroke
 2. <ruby>[未](../../characters/未%20(char).md)<rt>ㄇㄨㄧ</rt></ruby> - not yet
 3. <ruby>[末](../../characters/末.md)<rt>ㄇㄚㄊ</rt></ruby> - end
 4. <ruby>[本](../../characters/本%20(char).md)<rt>ㄅㄛㄋ</rt></ruby> - foundation
@@ -167,43 +167,45 @@ tags: [lookup]
 134. <ruby>[模](../../characters/模.md)<rt>ㄇㄛ</rt></ruby> - imitate
 135. <ruby>[樺](../../characters/樺.md)<rt>ㄏ⺢</rt></ruby> - birch
 
+136. <ruby>[榜](../../characters/榜.md)<rt>ㄆㄚㄫ</rt></ruby> - posted list
+
 ### +11 Strokes
-136. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree
-137. <ruby>[槽](../../characters/槽.md)<rt>ㄐㄚㄨ</rt></ruby> - vat
-138. <ruby>[標](../../characters/標.md)<rt>ㄅ⼄</rt></ruby> - sign
-139. <ruby>[樟](../../characters/樟.md)<rt>ㄐㄚㄫ</rt></ruby> - camphor tree
-140. <ruby>[権](../../characters/権.md)<rt>ㄍ⼔ㄋ</rt></ruby> - power
-141. <ruby>[横](../../characters/横.md)<rt>ㄏ⺢ㄫ</rt></ruby> - horizontal
+137. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree
+138. <ruby>[槽](../../characters/槽.md)<rt>ㄐㄚㄨ</rt></ruby> - vat
+139. <ruby>[標](../../characters/標.md)<rt>ㄅ⼄</rt></ruby> - sign
+140. <ruby>[樟](../../characters/樟.md)<rt>ㄐㄚㄫ</rt></ruby> - camphor tree
+141. <ruby>[権](../../characters/権.md)<rt>ㄍ⼔ㄋ</rt></ruby> - power
+142. <ruby>[横](../../characters/横.md)<rt>ㄏ⺢ㄫ</rt></ruby> - horizontal
 
 ### +12 Strokes
-142. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant
-143. <ruby>[樽](../../characters/樽.md)<rt>ㄐㄨㄋ</rt></ruby> - goblet
-144. <ruby>[橄](../../characters/橄.md)<rt>ㄍㄚㄇ</rt></ruby> - olive
-145. <ruby>[橋](../../characters/橋%20(char).md)<rt>ㄍ⼘ㄨ</rt></ruby> - bridge
-146. <ruby>[橐](../../characters/橐.md)<rt>ㄊㄚㄎ</rt></ruby> - bag open at both ends
-147. <ruby>[橘](../../characters/橘%20(char).md)<rt>ㄍ⼜ㄊ</rt></ruby> - tangerine
-148. <ruby>[橙](../../characters/橙.md)<rt>ㄉㄨㄫ</rt></ruby> - orange
+143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant
+144. <ruby>[樽](../../characters/樽.md)<rt>ㄐㄨㄋ</rt></ruby> - goblet
+145. <ruby>[橄](../../characters/橄.md)<rt>ㄍㄚㄇ</rt></ruby> - olive
+146. <ruby>[橋](../../characters/橋%20(char).md)<rt>ㄍ⼘ㄨ</rt></ruby> - bridge
+147. <ruby>[橐](../../characters/橐.md)<rt>ㄊㄚㄎ</rt></ruby> - bag open at both ends
+148. <ruby>[橘](../../characters/橘%20(char).md)<rt>ㄍ⼜ㄊ</rt></ruby> - tangerine
+149. <ruby>[橙](../../characters/橙.md)<rt>ㄉㄨㄫ</rt></ruby> - orange
 
 ### +13 Strokes
-149. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood
-150. <ruby>[檗](../../characters/檗.md)<rt>ㄅㄚㄎ</rt></ruby> - amur maple
-151. <ruby>[檠](../../characters/檠.md)<rt>ㄍㄧㄫ</rt></ruby> - lampstand
-152. <ruby>[櫛](../../characters/櫛%20(char).md)<rt>ㄐㄜㄊ</rt></ruby> - comb
+150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood
+151. <ruby>[檗](../../characters/檗.md)<rt>ㄅㄚㄎ</rt></ruby> - amur maple
+152. <ruby>[檠](../../characters/檠.md)<rt>ㄍㄧㄫ</rt></ruby> - lampstand
+153. <ruby>[櫛](../../characters/櫛%20(char).md)<rt>ㄐㄜㄊ</rt></ruby> - comb
 
 ### +14 Strokes
-153. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄫ</rt></ruby> - lemon
-154. <ruby>[檳](../../characters/檳.md)<rt>ㄅㄧㄋ</rt></ruby> - betel nut
-155. <ruby>[檸](../../characters/檸.md)<rt>ㄋ⼶ㄫ</rt></ruby> - lemon
-156. <ruby>[櫂](../../characters/櫂.md)<rt>ㄊㄛㄨ</rt></ruby> - oar
+154. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄫ</rt></ruby> - lemon
+155. <ruby>[檳](../../characters/檳.md)<rt>ㄅㄧㄋ</rt></ruby> - betel nut
+156. <ruby>[檸](../../characters/檸.md)<rt>ㄋ⼶ㄫ</rt></ruby> - lemon
+157. <ruby>[櫂](../../characters/櫂.md)<rt>ㄊㄛㄨ</rt></ruby> - oar
 
 ### +17 Strokes
-157. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
+158. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
 
 ### +21 Strokes
-158. <ruby>[欖](../../characters/欖.md)<rt>ㄌㄚㄇ</rt></ruby> - olive
+159. <ruby>[欖](../../characters/欖.md)<rt>ㄌㄚㄇ</rt></ruby> - olive
 
 ### +22 Strokes
-159. <ruby>[欝](../../characters/欝.md)<rt>⼜ㄊ</rt></ruby> - dense
+160. <ruby>[欝](../../characters/欝.md)<rt>⼜ㄊ</rt></ruby> - dense
 
 ## Data check
 ```dataview

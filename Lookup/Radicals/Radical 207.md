@@ -8,7 +8,7 @@ tags: [lookup]
 > [[Radicals]]
 > **Radical 207** is "drum".
 
-- <ruby>[[鼓]]<rt>ㄍㄛ</rt></ruby> - drum
+1. <ruby>[[鼓]]<rt>ㄍㄛ</rt></ruby> - drum
 
 ## Data check
 ```dataview

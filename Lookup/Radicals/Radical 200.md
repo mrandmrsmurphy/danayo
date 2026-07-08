@@ -15,7 +15,7 @@ tags: [lookup]
 - forbidden 麼
 - forbidden 麽
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

@@ -11,7 +11,7 @@ tags: [lookup]
 1. <ruby>[肆](/characters/肆.md)<rt>ㄙㄧㄜ</rt></ruby> - brazenly
 2. <ruby>[肇](/characters/肇.md)<rt>ㄐㄛㄨ</rt></ruby> - begin
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

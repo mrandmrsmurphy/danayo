@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Characters
 ### Used
-- <ruby>[[斉]]<rt>ㄐㄝㄧ</rt></ruby> - simultaneous
+1. <ruby>[[斉]]<rt>ㄐㄝㄧ</rt></ruby> - simultaneous
 
 ### Redirects
 - 齊-->斉

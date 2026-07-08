@@ -5,7 +5,7 @@ radical: 襾
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[西](/characters/西.md)<rt>ㄙㄝㄧ</rt></ruby> - west
@@ -13,7 +13,7 @@ tags: [lookup]
 3. <ruby>[覆](/characters/覆.md)<rt>ㄆㄨㄎ</rt></ruby> - cover
 4. <ruby>[覇](/characters/覇.md)<rt>ㄅㄚ</rt></ruby> - hegemony
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

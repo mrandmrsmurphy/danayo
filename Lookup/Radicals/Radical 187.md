@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-05-24
-size: 21
+size: 22
 radical: 馬
 tags: [lookup]
 
@@ -50,6 +50,9 @@ tags: [lookup]
 
 ### +13 Strokes
 21. <ruby>[驚](../../characters/驚.md)<rt>ㄍ⼶ㄫ</rt></ruby> - startle
+
+### +14 Strokes
+22. <ruby>[驟](../../characters/驟.md)<rt>ㄙㄚㄨ</rt></ruby> - sudden
 
 ## Data check
 ```dataview

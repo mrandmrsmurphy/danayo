@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-04-27
-size: 60
+size: 62
 radical: 女
 tags: [lookup]
 
@@ -85,16 +85,21 @@ tags: [lookup]
 54. <ruby>[嫉](../../characters/嫉.md)<rt>ㄐㄧㄊ</rt></ruby> - enny
 55. <ruby>[嫌](../../characters/嫌.md)<rt>ㄏㄝㄇ</rt></ruby> - detest
 
+56. <ruby>[嫂](../../characters/嫂.md)<rt>ㄙㄚㄨ</rt></ruby> - sister-in-law
+
 ### +11 Strokes
-56. <ruby>[嫡](../../characters/嫡%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - legitimate wife
-57. <ruby>[嫩](../../characters/嫩%20(char).md)<rt>ㄋㄛㄋ</rt></ruby> - delicate
+57. <ruby>[嫡](../../characters/嫡%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - legitimate wife
+58. <ruby>[嫩](../../characters/嫩%20(char).md)<rt>ㄋㄛㄋ</rt></ruby> - delicate
 
 ### +12 Strokes
-58. <ruby>[嬉](../../characters/嬉.md)<rt>ㄏㄧ</rt></ruby> - enjoy
-59. <ruby>[嬌](../../characters/嬌.md)<rt>ㄍ⼘ㄨ</rt></ruby> - lovable
+59. <ruby>[嬉](../../characters/嬉.md)<rt>ㄏㄧ</rt></ruby> - enjoy
+60. <ruby>[嬌](../../characters/嬌.md)<rt>ㄍ⼘ㄨ</rt></ruby> - lovable
+
+### +13 Strokes
+61. <ruby>[嬴](../../characters/嬴.md)<rt>⼶ㄫ</rt></ruby> - Yingzhou
 
 ### +14 Strokes
-60. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - newborn
+62. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - newborn
 
 ## Data check
 ```dataview

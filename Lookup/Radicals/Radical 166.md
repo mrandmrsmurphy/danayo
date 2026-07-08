@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-06-14
-size: 3
+size: 4
 radical: 里
 tags: [lookup]
 
@@ -18,6 +18,9 @@ tags: [lookup]
 
 ### +4 Strokes
 3. <ruby>[野](../../characters/野.md)<rt>⼘</rt></ruby> - wild, countryside
+
+### +5 Strokes
+4. <ruby>[量](../../characters/量.md)<rt>ㄌ⼘ㄫ</rt></ruby> - measure
 
 ## Data check
 ```dataview

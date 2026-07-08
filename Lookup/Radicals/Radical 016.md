@@ -5,7 +5,7 @@ date-last-perfect: 2026-04-02
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[凡](/characters/凡.md)<rt>ㄅㄛㄇ</rt></ruby> - ordinary
@@ -14,7 +14,7 @@ tags: [lookup]
 4. <ruby>[凱](/characters/凱.md)<rt>ㄎㄚㄧ</rt></ruby> - triumphant song
 
 
-## Dataview
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"

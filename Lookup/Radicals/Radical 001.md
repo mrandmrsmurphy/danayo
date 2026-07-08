@@ -76,7 +76,7 @@ Radical 1 is 一, the number one.
 
 *All other forms are missing from dictionary or are chữ Nôm inventions.*
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

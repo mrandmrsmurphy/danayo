@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-05-01
-size: 26
+size: 27
 radical: 目
 tags:
   - lookup
@@ -52,9 +52,11 @@ tags:
 23. <ruby>[瞭](../../characters/瞭.md)<rt>ㄌ⼘ㄨ</rt></ruby> - clear
 24. <ruby>[瞳](../../characters/瞳.md)<rt>ㄉㄛㄫ</rt></ruby> - pupil of eye
 
+25. <ruby>[瞰](../../characters/瞰.md)<rt>ㄎㄚㄇ</rt></ruby> - overlook
+
 ### +13 Strokes
-25. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
-26. <ruby>[瞼](../../characters/瞼.md)<rt>ㄍㄝㄇ</rt></ruby> - eyelid
+26. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
+27. <ruby>[瞼](../../characters/瞼.md)<rt>ㄍㄝㄇ</rt></ruby> - eyelid
 
 ## Data check
 ```dataview

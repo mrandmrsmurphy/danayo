@@ -10,7 +10,7 @@ tags: [lookup]
 1. <ruby>[黍](/characters/黍.md)<rt>ㄙ⼄</rt></ruby> - millet
 2. <ruby>[黎](/characters/黎.md)<rt>ㄌㄝㄧ</rt></ruby> - Liǝ
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

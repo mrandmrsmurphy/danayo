@@ -5,7 +5,7 @@ date-last-perfect: 2026-03-27
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[髪](/characters/髪.md)<rt>ㄅㄚㄊ</rt></ruby> - hair

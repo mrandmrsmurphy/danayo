@@ -11,7 +11,7 @@ tags: [lookup]
 1. <ruby>[麦](/characters/麦.md)<rt>ㄇㄚㄎ</rt></ruby> - wheat
 2. <ruby>[麺](/characters/麺%20(char).md)<rt>ㄇㄝㄋ</rt></ruby> - noodles
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

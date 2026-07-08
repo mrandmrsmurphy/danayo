@@ -14,7 +14,7 @@ The original radical – 黹 – is an unused pictogram(象形) represent a de
 1. <ruby>[黻](/characters/黻.md)<rt>ㄆㄨㄊ</rt></ruby> - embroidery
 2. <ruby>[黼](/characters/黼.md)<rt>ㄅㄨ</rt></ruby> - embroidery pattern
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

@@ -17,7 +17,7 @@ tags: [lookup]
 While not filed under this radical, [舜](../../characters/舜.md) has it has a top component.
 
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

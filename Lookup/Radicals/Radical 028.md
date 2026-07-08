@@ -5,7 +5,7 @@ radical: 厶
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[[去 (char)|去]]<rt>ㄎ⼄</rt></ruby> - go

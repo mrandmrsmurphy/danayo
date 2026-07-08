@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-05-01
-size: 28
+size: 29
 radical: 衣
 tags:
   - lookup
@@ -46,27 +46,29 @@ tags:
 19. <ruby>[裸](../../characters/裸%20(char).md)<rt>ㄌㄚ</rt></ruby> - strip
 20. <ruby>[褐](../../characters/褐%20(char).md)<rt>ㄏㄚㄊ</rt></ruby> - brown
 
+21. <ruby>[裔](../../characters/裔.md)<rt>⼶</rt></ruby> - descendant
+
 ### +8 Strokes
-21. <ruby>[裴](../../characters/裴.md)<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown
-22. <ruby>[製](../../characters/製.md)<rt>ㄐㄝ</rt></ruby> - manufacture
+22. <ruby>[裴](../../characters/裴.md)<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown
+23. <ruby>[製](../../characters/製.md)<rt>ㄐㄝ</rt></ruby> - manufacture
 - 制 --> variant of 製
-23. <ruby>[複](../../characters/複.md)<rt>ㄅㄨㄎ</rt></ruby> - repeat
+24. <ruby>[複](../../characters/複.md)<rt>ㄅㄨㄎ</rt></ruby> - repeat
 - 复 --> simplified of 複
 
 ### +9 Strokes
-24. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise
+25. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise
 
 ### +11 Strokes
-25. <ruby>[襖](../../characters/襖.md)<rt>ㄚㄨ</rt></ruby> - coat
+26. <ruby>[襖](../../characters/襖.md)<rt>ㄚㄨ</rt></ruby> - coat
 
 ### +12 Strokes
-26. <ruby>[襟](../../characters/襟.md)<rt>ㄍㄧㄇ</rt></ruby> - lapel
+27. <ruby>[襟](../../characters/襟.md)<rt>ㄍㄧㄇ</rt></ruby> - lapel
 
 ### +13 Strokes
-27. <ruby>[襪](../../characters/襪.md)<rt>ㄇㄝㄊ</rt></ruby> - sock
+28. <ruby>[襪](../../characters/襪.md)<rt>ㄇㄝㄊ</rt></ruby> - sock
 
 ### +16 Strokes
-28. <ruby>[襲](../../characters/襲.md)<rt>ㄙㄜㄆ</rt></ruby> - attack
+29. <ruby>[襲](../../characters/襲.md)<rt>ㄙㄜㄆ</rt></ruby> - attack
 
 ## Data check
 ```dataview

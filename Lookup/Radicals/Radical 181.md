@@ -1,8 +1,9 @@
 ---
 date-last-perfect: 2026-04-30
-size: 30
+size: 29
 radical: 頁
-tags: [lookup]
+tags:
+  - lookup
 ---
 > [[Radicals]]
 > The page radical, depicting a human head; used for head, face, and related body parts.

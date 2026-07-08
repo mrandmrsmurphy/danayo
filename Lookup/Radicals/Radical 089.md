@@ -8,7 +8,7 @@ tags: [lookup]
 > [[Radicals]]
 
 1. <ruby>[[爽]]<rt>ㄙ⺢ㄫ</rt></ruby> - refreshing, frank
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

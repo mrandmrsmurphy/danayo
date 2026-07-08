@@ -1,11 +1,11 @@
 ---
-size: 6
+size: 8
 radical: 鬼
 date-last-perfect: 2026-04-17
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 > The *demon* radical
 
 ## Characters
@@ -15,8 +15,10 @@ tags: [lookup]
 4. <ruby>[魅](/characters/魅.md)<rt>ㄇㄧㄜ</rt></ruby> "charm"
 5. <ruby>[魏](/characters/魏.md)<rt>ㄝ</rt></ruby> "Wei"
 6. <ruby>[魔](/characters/魔.md)<rt>ㄇㄚ</rt></ruby> "demon"
+7. <ruby>[魄](/characters/魄.md)<rt>ㄅㄚㄎ</rt></ruby> "yin soul"
+8. <ruby>[魑](/characters/魑.md)<rt>ㄑㄧ</rt></ruby> "mountain demon"
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

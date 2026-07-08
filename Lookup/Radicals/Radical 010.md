@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-06-14
-size: 14
+size: 15
 radical: 儿
 tags: [lookup]
 
@@ -34,11 +34,14 @@ tags: [lookup]
 ### +6 Strokes
 12. <ruby>[兎](../../characters/兎%20(char).md)<rt>ㄊㄛ</rt></ruby> - rabbit
 
+### +7 Strokes
+13. <ruby>[兗](../../characters/兗.md)<rt>⼶ㄋ</rt></ruby> - Yanzhou
+
 ### +8 Strokes
-13. <ruby>[党](../../characters/党.md)<rt>ㄉㄚㄫ</rt></ruby> - political party
+14. <ruby>[党](../../characters/党.md)<rt>ㄉㄚㄫ</rt></ruby> - political party
 
 ### +9 Strokes
-14. <ruby>[兜](../../characters/兜%20(char).md)<rt>ㄉㄨ</rt></ruby> - helmet
+15. <ruby>[兜](../../characters/兜%20(char).md)<rt>ㄉㄨ</rt></ruby> - helmet
 
 ## Data check
 ```dataview

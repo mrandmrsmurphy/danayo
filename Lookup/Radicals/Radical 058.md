@@ -11,7 +11,7 @@ tags:
 2. <ruby>[彗](/characters/彗.md)<rt>ㄏㄝ</rt></ruby> "comet"
 3. <ruby>[彙](/characters/彙%20(char).md)<rt>ㄏㄨ</rt></ruby> "collection"
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-04-27
-size: 62
+size: 63
 radical: 金
 tags: [lookup]
 
@@ -96,9 +96,12 @@ tags: [lookup]
 59. <ruby>[鑑](../../characters/鑑.md)<rt>ㄍㄚㄇ</rt></ruby> - mirror
 60. <ruby>[鑠](../../characters/鑠.md)<rt>ㄙㄚㄎ</rt></ruby> - melt
 
+### +16 Strokes
+61. <ruby>[鑫](../../characters/鑫.md)<rt>ㄏㄜㄇ</rt></ruby> - prosperous
+
 ### +19 Strokes
-61. <ruby>[鑼](../../characters/鑼.md)<rt>ㄌㄚ</rt></ruby> - gong
-62. <ruby>[鑽](../../characters/鑽.md)<rt>ㄐㄚㄋ</rt></ruby> - diamond (jewel)
+62. <ruby>[鑼](../../characters/鑼.md)<rt>ㄌㄚ</rt></ruby> - gong
+63. <ruby>[鑽](../../characters/鑽.md)<rt>ㄐㄚㄋ</rt></ruby> - diamond (jewel)
 
 ## Data check
 ```dataview

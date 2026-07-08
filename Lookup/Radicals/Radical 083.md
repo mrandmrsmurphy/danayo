@@ -12,7 +12,7 @@ tags:
 2. <ruby>[氐](/characters/氐.md)<rt>ㄉㄝ</rt></ruby> "root"
 3. <ruby>[民](/characters/民.md)<rt>ㄇㄧㄋ</rt></ruby> "citizen"
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

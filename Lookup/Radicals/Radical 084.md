@@ -9,7 +9,7 @@ tags: [lookup]
 
 1. <ruby>[[気 (char)|気]]<rt>ㄎㄧㄜ</rt></ruby> - feeling
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

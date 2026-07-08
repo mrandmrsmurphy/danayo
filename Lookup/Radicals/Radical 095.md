@@ -18,7 +18,7 @@ tags: [lookup]
 ### +6 Strokes
 3. <ruby>[[率]]<rt>ㄌㄨㄊ</rt></ruby> - rate, frequency
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

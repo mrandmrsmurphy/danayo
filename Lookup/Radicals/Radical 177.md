@@ -19,7 +19,7 @@ tags: [lookup]
 8. <ruby>[[鞠]]<rt>ㄍㄨㄎ </rt></ruby>- raise, bow
 9. <ruby>[[鞭]]<rt>ㄅ⼶ㄋ</rt></ruby>- whip
 
-## Dataview
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", stroke_count AS "SC"
 FROM "characters"

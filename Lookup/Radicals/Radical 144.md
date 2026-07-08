@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-06-14
-size: 6
+size: 7
 radical: 行
 tags: [lookup]
 
@@ -25,6 +25,9 @@ tags: [lookup]
 ### +10 Strokes
 5. <ruby>[衡](../../characters/衡.md)<rt>ㄏㄚㄫ</rt></ruby> - weigh, measure
 6. <ruby>[衛](../../characters/衛.md)<rt>ㄝ</rt></ruby> - guard, protect
+
+### +18 Strokes
+7. <ruby>[衢](../../characters/衢.md)<rt>ㄍㄨ</rt></ruby> - crossroads
 
 ## Data check
 ```dataview

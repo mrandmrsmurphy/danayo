@@ -5,7 +5,7 @@ date-last-perfect: 2026-04-02
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 ### Used

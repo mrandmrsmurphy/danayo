@@ -5,7 +5,7 @@ radical: 丨
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 **Radical 2**  is a vertical bar, 丨
 ## Strokes

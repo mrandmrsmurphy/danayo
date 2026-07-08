@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-06-14
-size: 2
+size: 3
 radical: 角
 tags: [lookup]
 
@@ -15,6 +15,8 @@ tags: [lookup]
 
 ### +6 Strokes
 2. <ruby>[触](../../characters/触.md)<rt>ㄑㄛㄎ</rt></ruby> - contact
+
+3. <ruby>[解](../../characters/解%20(char).md)<rt>ㄍ⼘ㄧ</rt></ruby> - explain
 
 ## Data check
 ```dataview

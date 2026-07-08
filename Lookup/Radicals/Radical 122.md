@@ -5,7 +5,7 @@ radical: 网
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 > 罒 or 罓
 
 ## Characters
@@ -25,7 +25,7 @@ The radical itself (网) is an alias of 網.
 - 罗 --> 羅
 - 罢 --> 罷
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

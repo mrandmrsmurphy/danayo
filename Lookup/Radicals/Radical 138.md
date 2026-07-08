@@ -5,7 +5,7 @@ radical: 艮
 tags: [lookup]
 
 ---
-> [Radicals](Radicals.md)
+> [[Radicals]]
 
 ## Characters
 1. <ruby>[艮](/characters/艮.md)<rt>ㄍㄚㄋ</rt></ruby>
@@ -14,7 +14,7 @@ tags: [lookup]
 
 艰 -->
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

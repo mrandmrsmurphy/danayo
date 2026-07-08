@@ -11,7 +11,7 @@ tags: [lookup]
 1. <ruby>[鹵](/characters/鹵.md)<rt>ㄌㄛㄊ</rt></ruby> - saline soil
 2. <ruby>[鹸](/characters/鹸%20(char).md)<rt>ㄑㄝㄇ</rt></ruby> - alkaline
 
-## Data search
+## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"

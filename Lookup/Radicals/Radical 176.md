@@ -10,7 +10,7 @@ tags: [lookup]
 1. <ruby>[[面]]<rt>ㄇ⼶ㄋ</rt></ruby> - surface
 
 
-## Dataview
+## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"
