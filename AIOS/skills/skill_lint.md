@@ -81,13 +81,16 @@ normalized into a map of `radical → [character files]`. Some radicals have mul
 
 ### 2. Leaf files (`Radical NNN.md`)
 
+First determine which of the two valid styles applies (see [[AIOS/checklists/checklist_radicals.md]]): **grouped** (`## Strokes` / `+N Strokes` subsections) is required at `size >= 20`; below that, either grouped or **prosaic** (`## Characters` with encyclopedic opening + `### Used`/`### Variants`/`### Illegal`) is acceptable — don't force a `size < 20` page into grouped format if it's already properly prosaic, and don't accept a bare flat list under either style as if it were finished prosaic work.
+
 For each of the 214:
-- Every character in the ground-truth map for this radical has a numbered entry in the correct `+N Strokes` group, and vice versa (catches both omissions and stale/misfiled entries).
+- Every character in the ground-truth map for this radical has a numbered entry (in the correct `+N Strokes` group for grouped-style, or under `### Used` for prosaic-style), and vice versa (catches both omissions and stale/misfiled entries).
 - **Linkage, not backlink**: confirm the character is *linked to from* the radical page (numbered entry with a working link to the character file). Do **not** require the reverse — a `radical`-type backlink from the character page to `[[Radical NNN]]` — since that reciprocal link doesn't exist on most character pages yet. Flag its absence as a to-do for a future pass once character pages are further along, but it does not block stamping this page's `date-last-perfect`.
-- `+0 Strokes` group present, containing exactly the radical itself as entry 1.
-- `size` equals the actual count of numbered entries (aliases/forbidden/Others excluded).
+- **Grouped style**: `+0 Strokes` group present and containing exactly the radical itself as entry 1 — **but only when the radical symbol is itself a standalone character in `characters/`**. If it isn't (component-only radicals like 儿, 冫, 宀, 彳, 艸), a missing `+0` is correct as long as the opening description says so explicitly (e.g. "No character is filed at +0, so groupings below start at +1") — don't flag it. Also watch for legitimate negative-stroke groups (e.g. `Radical 064.md`'s `-1 Stroke` for 才, which has fewer strokes than 手): confirm against the character's own `stroke_count` before assuming a negative heading is wrong.
+- **Prosaic style**: opening is a real multi-sentence encyclopedic passage, not a one-liner; illegal/forbidden entries each carry a short reason, not a bare label.
+- `size` equals the actual count of numbered entries (aliases/forbidden/Others/Variants/Illegal excluded).
 - `radical` frontmatter value matches exactly what the data check query and the character-frontmatter ground truth use.
-- `## Data check` heading and query present, sorted `stroke_count ASC`; queries every variant form with `OR radical = "..."` when the radical has more than one written form.
+- `## Data check` heading and query present, sorted `stroke_count ASC` (grouped) or `file.name ASC` (prosaic, matching `Radical 212.md`'s convention); queries every variant form with `OR radical = "..."` when the radical has more than one written form.
 - Fix what's wrong, then stamp `date-last-perfect` to today.
 
 ### 3. Top-level `Radicals.md`

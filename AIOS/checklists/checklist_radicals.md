@@ -7,7 +7,12 @@ metadata:
 
 # Checklist: Radical Pages
 
-A radical page is a complete, stroke-grouped inventory of every 漢字 classified under one Kangxi radical. The goal is to function as a lookup table: given a radical, a reader can find any character by counting the strokes added beyond the radical itself.
+A radical page is a complete inventory of every 漢字 classified under one Kangxi radical. The goal is to function as a lookup table: given a radical, a reader can find any character. There are **two accepted page styles**, chosen by `size`:
+
+- **`size >= 20`** — the **grouped** style: a `## Strokes` section split into `### +N Stroke(s)` subsections, so a reader can find a character by counting strokes added beyond the radical. Required at this size because a flat list of 20+ entries stops being scannable.
+- **`size < 20`** — either the grouped style, or the **prosaic** style: a `## Characters` section (not split by stroke count) preceded by a real encyclopedic description — what the radical depicts, its etymology, notable compounds — modeled on `Radical 212.md` (龍). Below `size` 20, splitting by stroke count usually produces several `### +N Strokes` headers holding exactly one entry each, which clutters more than it helps.
+
+Both styles are fully documented below. Neither is a shortcut: a bare numbered list with no description is incomplete under *either* style — see "Common mistakes."
 
 ---
 
@@ -31,16 +36,10 @@ radical: 一                      # the radical character itself (matches the ra
 
 ## Opening
 
-Immediately after the frontmatter, two lines:
+Immediately after the frontmatter, a breadcrumb using the wiki-link form `[[Radicals]]`, then a description. How much description depends on the style:
 
-```markdown
-> [[Radicals]]
-> Brief description of the radical — what it depicts or means.
-```
+**Grouped-style pages** get one short line: what the radical represents, any alternate forms it takes inside characters, and its SKIP position if notable.
 
-The breadcrumb uses the wiki-link form `[[Radicals]]`. The description is one short phrase: what the radical represents, any alternate forms it takes inside characters, and its SKIP position if notable.
-
-Examples:
 ```markdown
 > [[Radicals]]
 > Radical 1 is 一, the number one.
@@ -49,6 +48,8 @@ Examples:
 > [[Radicals]]
 > The water radical, appearing as 氵on the left side of the character (SKIP-1-3-x).
 ```
+
+**Prosaic-style pages** get a real encyclopedic passage — several sentences to a few paragraphs — covering what the character depicts, its etymology, and anything notable about how it functions in compounds (e.g. as a phonetic complement). See `Radical 212.md` for the model: it covers the dragon radical's origin as a stylized drawing, its cross-CJKV zodiac/mythology sense, and a worked example of it supplying sound rather than meaning in 聾. A one-line description on a `size < 20` page is not sufficient to count as prosaic style — see "Common mistakes."
 
 ---
 
@@ -75,7 +76,18 @@ The main body is a single `## Strokes` section containing `### +N Stroke(s)` sub
 
 ### The `+0 Strokes` subsection
 
-Always present. Contains exactly one entry: the radical character itself, listed as entry 1. This anchors the numbering.
+Present **only if the radical character itself is a standalone entry in `characters/`** — i.e. some character file's `radical:` field matches this radical's own value, at the radical's own `stroke_count`. When it is, it's entry 1, anchoring the numbering.
+
+When the radical symbol is *not* used as a standalone character in the corpus — common for component-only radicals such as 儿, 冫, 宀, 彳, 艸 — there is nothing to put at +0. Don't invent a placeholder entry. Skip straight to the lowest stroke count that has a real entry, and say so explicitly in the opening description line so a reader (and a future lint pass) can tell this is deliberate rather than an oversight:
+
+```markdown
+> [[Radicals]]
+> Radical 10 is 儿, legs/a walking person, 2 strokes; appears as the bottom component of characters. No character is filed at +0, so groupings below start at +1.
+```
+
+### Negative-stroke groups (rare)
+
+Occasionally a character classified under a radical has *fewer* strokes than the radical's own baseline — this happens when a simplified or component variant of the radical is the one actually used for classification, while a character with fewer strokes than that variant still exists. Confirmed case: 才 (3 strokes) is filed under 手 (hand, 4 strokes), so `Radical 064.md` has a `### -1 Stroke` group. Verify against the character's own `stroke_count` field before assuming a negative heading is a typo — it can be correct. Negative groups follow the same continuous-numbering rules as any other group and sort before `+0`/`+1`.
 
 ### Numbered entries — character format
 
@@ -120,6 +132,33 @@ A closing note is appropriate when a large swath of high-stroke entries is empty
 
 ---
 
+## Prosaic style *(alternative to Strokes section, `size < 20` only)*
+
+Instead of `## Strokes`, a `## Characters` section. No stroke-count subsections — just the encyclopedic opening (see "Opening" above) doing the explanatory work instead.
+
+```markdown
+## Characters
+### Used
+1. <ruby>[[龍 (char)|龍]]<rt>ㄌ⼄ㄫ</rt></ruby> - dragon
+2. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - huge
+
+### Variants
+* 龎 --> variant of 龐
+* 龒 --> ancient variant of 龍
+
+### Illegal
+* 龑 - a 9th century made-up name = 龍 + 天
+* 龓 - obscure C character, forbidden in Dan'a'yo
+```
+
+- **`### Used`** — required. Numbered entries, same ruby + gloss format as the grouped style (see "Numbered entries — character format" below), just not split by stroke count. Numbering still counts toward `size`.
+- **`### Variants`** *(optional, include if any exist)* — alternate/ancient/simplified written forms that redirect to a proper character, same `-->` convention as grouped-style aliases.
+- **`### Illegal`** *(optional, include if any exist)* — glyphs that resemble 漢字 but aren't standard, or are forbidden in Dan'a'yo, **each with a short reason**, not just the label "forbidden" — e.g. "obscure C character, forbidden in Dan'a'yo" or "(obsolete) vista of a dragon in flight, forbidden," not a bare `- 龓 --> forbidden`.
+
+A prosaic-style page with only `### Used` and no prose in the opening is a bare list wearing the wrong heading — see "Common mistakes."
+
+---
+
 ## Other section *(optional)*
 
 If there are characters that visually contain the radical as a component but are officially classified under a *different* radical, list them here. These represent incoming links that a reader might expect to find on this page.
@@ -160,7 +199,7 @@ WHERE radical = "丿" OR radical = "乀" OR radical = "乁"
 
 ## `date-last-perfect` criteria
 
-Set when:
+Set when, for **grouped-style** pages:
 
 1. All three frontmatter fields are filled in.
 2. Every character returned by the data check query has a numbered entry in the correct `+N Strokes` group.
@@ -168,12 +207,23 @@ Set when:
 4. All known aliases and forbidden glyphs for this radical are listed.
 5. `size` matches the actual count of numbered entries.
 
+Set when, for **prosaic-style** pages:
+
+1. All three frontmatter fields are filled in.
+2. The opening is a real encyclopedic passage (see "Opening"), not a one-line description.
+3. Every character returned by the data check query has a numbered entry under `### Used`.
+4. No character in the numbered list is absent from the data check results.
+5. All known variants and illegal/forbidden glyphs for this radical are listed under `### Variants` / `### Illegal`, each illegal entry with a reason.
+6. `size` matches the actual count of numbered entries under `### Used`.
+
 ---
 
 ## Common mistakes
 
-- **Flat comma-separated list** — some older pages list all characters in one block without stroke grouping or ruby annotation. These need to be converted to the full grouped format.
-- **No `+0 Strokes` group** — the radical itself must appear as entry 1; omitting it breaks the continuous numbering and the completeness check.
+- **Flat comma-separated list** — some older pages list all characters in one block without ruby annotation at all. These need to be converted to a proper format regardless of style.
+- **Bare numbered list mistaken for prosaic style** — a `size < 20` page with just a breadcrumb, one-line description, and a flat numbered list is *not* a finished prosaic page — it's missing the encyclopedic opening and the `### Used`/`### Variants`/`### Illegal` structure. `Radical 212.md` is the bar; a list alone doesn't clear it. (Confirmed instances needing this upgrade: `Radical 134.md`, `Radical 194.md`.)
+- **Flat/bare list on a `size >= 20` page** — at this size, prosaic style isn't an option at all; it must be converted to the full grouped `+N Strokes` format. (Confirmed instances: `Radical 044.md`, `Radical 053.md`, `Radical 060.md`, `Radical 104.md`, `Radical 116.md`, `Radical 196.md`.)
+- **No `+0 Strokes` group when one is warranted (grouped style only)** — if the radical itself has a standalone entry in `characters/`, it must appear as entry 1; omitting it breaks the continuous numbering and the completeness check. But check `characters/` first: if the radical symbol isn't a standalone character in the corpus, a missing `+0` is *correct*, not a bug — see above. Don't flag every `+0`-less page uniformly; confirm against the corpus per page. Not applicable to prosaic-style pages, which have no `+N` groups at all.
 - **Renumbering per group** — entries are numbered continuously across all groups, not restarted at 1 for each stroke count.
 - **Counting aliases in `size`** — only numbered entries count; aliases, forbidden, and Others do not.
 - **`date-last-perfect` with no character list** — a page that has only a data check query and no curated list is not done, regardless of frontmatter.

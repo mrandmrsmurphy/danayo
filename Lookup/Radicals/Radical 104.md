@@ -6,7 +6,7 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
-> The sickness radical 疒, a partial enclosure representing a sick person leaning against a bed.
+> The sickness radical 疒, a partial enclosure representing a sick person leaning against a bed. No character is filed at +0, so groupings below start at +4.
 
 ## Strokes
 

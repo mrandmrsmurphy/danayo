@@ -11,23 +11,10 @@ tags: [lookup]
 
 1. <ruby>[[隷]]<rt>ㄌㄝㄧ</rt></ruby> - slave
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "隶"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
+## Data check
+```dataview
+TABLE 注音 AS "Sound", english AS "EN"
+FROM "characters"
+WHERE radical = "隶"
+SORT stroke_count ASC
 ```

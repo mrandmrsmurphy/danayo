@@ -6,7 +6,7 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
-> The corpse/body radical 尸, representing a recumbent human figure.
+> The corpse/body radical 尸, representing a recumbent human figure. No character is filed at +0, so groupings below start at +1.
 
 ## Strokes
 

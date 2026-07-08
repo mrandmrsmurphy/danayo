@@ -6,7 +6,7 @@ tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 53 is 广, shelter or roof; appears as a top-left cover over characters (SKIP-3-x-x).
+> Radical 53 is 广, shelter or roof; appears as a top-left cover over characters (SKIP-3-x-x). No character is filed at +0, so groupings below start at +2.
 
 ## Strokes
 

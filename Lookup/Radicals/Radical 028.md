@@ -14,20 +14,10 @@ tags: [lookup]
 ### Misc.
 - [公 (char)](../../characters/公%20(char).md) has this in it, but isn't listed by this radical.
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "厶"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
+## Data check
+```dataview
+TABLE 注音 AS "Sound", english AS "EN"
+FROM "characters"
+WHERE radical = "厶"
+SORT stroke_count ASC
 ```

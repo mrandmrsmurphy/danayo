@@ -26,27 +26,6 @@ tags: [lookup]
 ### +10 Strokes
 6. <ruby>[夢](../../characters/夢%20(char).md)<rt>ㄇㄨㄫ</rt></ruby> - dream
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "夕"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
-```
-
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

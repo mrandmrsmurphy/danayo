@@ -39,27 +39,6 @@ tags: [lookup]
 ### +12 Strokes
 13. <ruby>[導](../../characters/導.md)<rt>ㄉㄚㄨ</rt></ruby> - guide, lead
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "寸"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
-    columnSize:
-      note.danayo_id: 64
-      note.english: 236
-```
-
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

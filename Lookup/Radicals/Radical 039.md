@@ -41,34 +41,6 @@ tags: [lookup]
 ### +10 Strokes
 13. <ruby>[季](../../characters/季.md)<rt>ㄍㄨㄧ</rt></ruby> - season
 
-## Base check
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "characters"
-        - radical == "子"
-    order:
-      - file.name
-      - danayo_id
-      - english
-      - 注音
-      - skip_number
-      - stroke_count
-      - date-last-perfect
-    sort:
-      - property: stroke_count
-        direction: ASC
-    columnSize:
-      note.danayo_id: 64
-      note.english: 132
-      note.skip_number: 73
-      note.stroke_count: 71
-
-```
-
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

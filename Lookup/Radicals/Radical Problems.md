@@ -27,11 +27,26 @@ These two pages' `## Data`/`## Dataview` query returns **zero rows** right now b
 - [x] **Radical 183.md**, entry 1 — broken wikilink syntax: `[[../../characters/飛 (char)]]` (a raw relative path stuffed inside `[[ ]]`). Fix to a proper link, e.g. `[[飛 (char)|飛]]`.
 - [x] **Radical 208.md**, entry 1 — 鼠 has no link at all, just plain text (`<ruby>鼠<rt>...`). Needs a proper character link.
 
-## 3. Missing `+0 Stroke` group (115 of 214 pages)
+## 3. Missing `+0 Stroke` group — checklist rule revised, list re-triaged into 3 buckets
 
-Checklist requires every leaf page to open its `## Strokes` section with a `+0 Stroke(s)` group containing exactly the radical itself as entry 1. These pages skip straight to `+1` or later:
+**Checklist updated** ([[AIOS/checklists/checklist_radicals.md]], `+0 Strokes` subsection + new "Negative-stroke groups" subsection; `skill_lint.md`'s `lint Radicals` procedure updated to match): `+0` is only required when the radical symbol is itself a standalone character in `characters/`. When it isn't (component-only radicals like 儿, 冫, 宀, 彳, 艸), the page should say so explicitly in its opening description rather than being flagged. Also documented the legitimate negative-stroke case (`Radical 064.md`'s `-1 Stroke` for 才, which has fewer strokes than 手).
 
-- [ ] Radical 002, 003, 004, 005, 006, 008, 010, 011, 013, 014, 015, 016, 017, 020, 021, 022, 023, 025, 026, 027, 028, 031, 034, 035, 043, 044, 045, 049, 052, 053, 054, 055, 056, 058, 059, 060, 065, 066, 071, 076, 079, 080, 081, 082, 083, 084, 087, 088, 089, 090, 092, 097, 101, 104, 105, 107, 110, 114, 116, 122, 126, 127, 129, 131, 132, 133, 134, 137, 138, 139, 140, 141, 146, 150, 153, 158, 162, 165, 168, 171, 173, 175, 176, 177, 178, 179, 180, 182, 183, 185, 186, 189, 190, 192, 193, 194, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214
+**Follow-up decision**: for `size < 20`, a **prosaic** style (encyclopedic prose + `## Characters`/`### Used`/`### Variants`/`### Illegal`, modeled on `Radical 212.md`) is now an accepted alternative to the grouped `+N Strokes` format — grouping under-20 pages by stroke count was producing headers with exactly one entry each. `size >= 20` still requires grouped style. Full rule + both style specs now in [[AIOS/checklists/checklist_radicals.md]].
+
+Re-ran the original 115-page list against the `+0` rule, checking each radical against whether a standalone character file actually matches the radical symbol:
+
+**(a) Genuine gaps — real character exists, missing from the page (55 pages)**. These need an actual `+0` entry added, same mechanics as section 4:
+- [ ] Radical 005, 011, 021, 025, 045, 049, 065, 081, 082, 083, 087, 088, 092, 097, 101, 107, 110, 126, 131, 132, 133, 134, 137, 138, 139, 150, 158, 168, 173, 175, 176, 177, 178, 180, 182, 183, 185, 186, 189, 194, 197, 198, 199, 200, 201, 202, 203, 206, 207, 208, 209, 212
+
+  Note: several of these (134, 180, 183, 186, 194, 201, 207, 208, 210) were already touched during section-4 work — the radical-itself character is already present as an entry (sometimes flat/unheadered), just not under a formal `+0` label. Per the style decision above, these are `size < 20` and can be finished either by adding a proper `+0 Strokes` header (if kept grouped) or by upgrading to full prosaic style (prose + Used/Variants/Illegal) — see the bare-list note under section 3b below.
+  - [x] **116 (穴) and 196 (鳥)** — both `size >= 20`, so grouped style is mandatory here, not a style choice. **Done**: 116 was a flat un-grouped list, fully restructured into `+0` through `+13 Strokes` groups (21 entries, ground-truthed by each character's own `stroke_count`). 196 already had ad hoc stroke grouping but at the wrong heading levels (`### Strokes` / `#### +N`) with no `+0` label; normalized to `## Strokes` / `### +N Strokes`, added `+0` for 鳥 itself (gloss "bird"), fixed one mixed-wikilink-style trio of entries to match the page's dominant link style, and fixed the Data check sort to `stroke_count ASC`. Both verified: declared `size` matches actual entry count.
+
+**(b) Legitimately no `+0`, already documented (20 pages) — no action needed**:
+- [x] Radical 008, 010, 014, 015, 020, 023, 026, 027, 031, 052, 055, 059, 066, 079, 105, 114, 141, 153, 165, 211
+
+**(c) Legitimately no `+0`, but undocumented — needs the explanatory line added, not a `+0` entry (40 pages)**:
+- [x] **044 (尸), 053 (广), 060 (彳), 104 (疒)** — all `size >= 20`, already in grouped format, just needed the one-line "No character is filed at +0, so groupings below start at +N" note added to the opening description. **Done.** (060 also had two stray blank lines splitting its `+6`/`+8` groups from earlier section-4 insertions — tidied while in there.)
+- [ ] Remaining: Radical 002, 003, 004, 006, 013, 016, 017, 022, 028, 034, 035, 043, 054, 056, 058, 071, 080, 084, 089, 090, 122, 127, 129, 140, 146, 162, 171, 179, 190, 192, 193, 204, 205, 210, 213, 214
 
 ## 4. Missing character links (66 characters across 38 pages) — DONE
 
@@ -97,8 +112,8 @@ Checklist requires the heading `## Data check` consistently.
 
 - [x] **`## Data search`** and **`## Dataview`** headings renamed to `## Data check` across all affected pages (bulk sed, verified no stragglers remain).
 - [x] **Radical 011.md** — was a special case: `# Data search` (wrong heading *level*, single `#`, as well as wrong label). Fixed to `## Data check`.
-- [ ] **Open question — 9 pages use `## Base check` instead, with an Obsidian Base `base` query block rather than a `dataview` block**: Radical 028, 034, 035, 043, 045, 049, 134, 168, 171. This isn't a mislabeled Data-check section — it's a different, complete, and consistently-used query mechanism (Obsidian's native Base feature vs. the Dataview plugin). The checklist ([[AIOS/checklists/checklist_radicals.md]]) only documents the `## Data check` + dataview form. Didn't force these into dataview format since that's a bigger content change than "relabel," not a mechanical rename — left as-is pending a decision on whether `## Base check` should be recognized as an equally valid alternative in the checklist, or converted.
-- Verified: all 214 pages now have either `## Data check` or `## Base check` — none are missing a query section entirely.
+- [x] **Resolved**: converted all 9 `## Base check` pages (028, 034, 035, 043, 045, 049, 134, 168, 171) to `## Data check` + standard dataview query. Also found and cleaned up 3 more pages (036, 039, 041) that had a *redundant* `## Base check` block sitting alongside an already-correct `## Data check` — removed the leftover Base block rather than converting it (nothing to convert; it just duplicated the query).
+- Verified: all 214 pages now have exactly one `## Data check` section with a dataview query; zero `## Base check` blocks remain anywhere in `lookup/Radicals/`.
 
 ---
 

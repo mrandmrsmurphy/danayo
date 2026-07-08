@@ -6,7 +6,7 @@ tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 60 is 彳, step or walk; left half of 行, appears on the left side of characters (SKIP-1-3-x).
+> Radical 60 is 彳, step or walk; left half of 行, appears on the left side of characters (SKIP-1-3-x). No character is filed at +0, so groupings below start at +4.
 
 ## Strokes
 
@@ -25,7 +25,6 @@ tags:
 8. <ruby>[待](../../characters/待.md)<rt>ㄉㄚㄧ</rt></ruby> - wait
 9. <ruby>[律](../../characters/律.md)<rt>ㄌㄨㄊ</rt></ruby> - statute
 10. <ruby>[後](../../characters/後%20(char).md)<rt>ㄏㄨㄛ</rt></ruby> - after
-
 11. <ruby>[徊](../../characters/徊.md)<rt>ㄏㄛㄧ</rt></ruby> - hesitate
 
 ### +7 Strokes
@@ -36,7 +35,6 @@ tags:
 ### +8 Strokes
 15. <ruby>[得](../../characters/得.md)<rt>ㄊㄜㄎ</rt></ruby> - get
 16. <ruby>[徙](../../characters/徙.md)<rt>ㄙㄝ</rt></ruby> - migrate
-
 17. <ruby>[徘](../../characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - pace back and forth
 
 ### +9 Strokes
