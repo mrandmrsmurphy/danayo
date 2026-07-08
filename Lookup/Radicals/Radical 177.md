@@ -6,10 +6,11 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
-> This is the "leather" radical
+> Radical 177 is 革, leather or hide — depicting animal skin that has been treated and processed. This radical appears in compounds relating to leather goods, hides, clothing, and objects made from leather. It also carries the sense of revolution and transformation, from the metaphor of "turning over like leather."
 
 ## Characters
-1. <ruby>[[革]]<rt>ㄎㄧㄎ </rt></ruby>- leather
+### Used
+1. <ruby>[[革]]<rt>ㄎㄧㄎ</rt></ruby> - leather
 2. <ruby>[[靴]]<rt>ㄏㄨㄚ </rt></ruby>- boot
 3. <ruby>[[鞀]]<rt>ㄉㄚㄨ </rt></ruby>- pellet drum
 4. <ruby>[[鞄 (char)|鞄]]<rt>ㄆㄚㄎ </rt></ruby>- bag, luggage

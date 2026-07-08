@@ -6,9 +6,11 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 137 is 舟, a boat or ship — depicting a simple wooden vessel floating on water. This radical appears in compounds relating to boats, ships, sailing, water transport, and nautical matters. It carries associations with journey, crossing, and navigation across bodies of water.
 
 ## Characters
-1. <ruby>[舟](/characters/舟.md)<rt>ㄐㄨ</rt></ruby> "boat, ship"
+### Used
+1. <ruby>[舟](/characters/舟.md)<rt>ㄐㄨ</rt></ruby> - boat, ship
 2. <ruby>[航](/characters/航.md)<rt>ㄏㄚㄫ</rt></ruby> "sail, cruise"
 3. <ruby>[般](/characters/般%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> "category"
 4. <ruby>[舵](/characters/舵%20(char).md)<rt>ㄉㄚ</rt></ruby> "rudder"

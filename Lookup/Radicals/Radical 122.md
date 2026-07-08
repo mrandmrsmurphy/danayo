@@ -6,11 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
-> 罒 or 罓
+> Radical 122 is 网 (罒 or 罓 in component form), a net or mesh — depicting interlaced lines or the woven pattern of a fishing net. This radical appears in compounds relating to nets, netting, capture, entrapment, and interconnected or interwoven things. It can also symbolize law, order, or the binding network of society.
 
 ## Characters
-The radical itself (网) is an alias of 網.
-
+### Used
 1. <ruby>[罔](/characters/罔.md)<rt>ㄇㄚㄫ</rt></ruby> - accuse
 2. <ruby>[罪](/characters/罪%20(char).md)<rt>ㄐㄛㄧ</rt></ruby> - sin, crime
 3. <ruby>[置](/characters/置%20(char).md)<rt>ㄑㄧ</rt></ruby> - put, place
@@ -21,9 +20,11 @@ The radical itself (网) is an alias of 網.
 8. <ruby>[署](/characters/署.md)<rt>ㄙ⼄</rt></ruby>
 9. <ruby>[羅](/characters/羅.md)<rt>ㄌㄛ</rt></ruby> - Rome
 
-### Redirects 
-- 罗 --> 羅
-- 罢 --> 罷
+### Aliases
+- 罒 --> variant form (component-only)
+- 罓 --> variant form (component-only)
+- 罗 --> simplified form of 羅
+- 罢 --> simplified form of 罷
 
 ## Data check
 ```dataview

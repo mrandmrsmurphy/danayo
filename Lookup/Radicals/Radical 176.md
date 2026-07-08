@@ -6,7 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 176 is 面, a face or surface — depicting a human face or a flat plane. This radical appears in compounds relating to faces, surfaces, aspects, or the flat side of things. It carries connotations of appearance, countenance, and the external presentation of something.
 
+## Characters
+### Used
 1. <ruby>[[面]]<rt>ㄇ⼶ㄋ</rt></ruby> - surface
 
 

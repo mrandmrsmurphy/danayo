@@ -1,20 +1,24 @@
 ---
-size: 2
-radical: 風
-date-last-perfect: 2026-03-04
+radical: 飛
+size: 1
+date-last-perfect: 2026-02-25
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> **wind** radical
+> Radical 182 is 飛, to fly or wings — depicting a bird in flight with wings spread. This radical appears in compounds relating to flying, wings, speed, and things that move through the air. It symbolizes freedom, movement, and the ethereal or intangible.
 
 ## Characters
-1. <ruby>[風](/characters/風%20(char).md)<rt>ㄈㄨㄫ</rt></ruby> - wind
-2. <ruby>[颯](/characters/颯%20(char).md)<rt>ㄙㄚㄆ</rt></ruby> - gale
+### Used
+1. <ruby>[飛](../../characters/飛%20(char).md)<rt>ㄆㄧ</rt></ruby> - fly
+
+### Aliases
+- 䬡 --> 翻
 
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"
-WHERE radical = "風"
+WHERE radical = "飛"
 SORT stroke_count ASC
+```

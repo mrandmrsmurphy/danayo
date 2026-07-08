@@ -6,8 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 190 is 髟, hair or a tuft of hair — depicting strands or locks of hair. This radical appears in compounds relating to hair, beards, facial hair, bristles, and things with hair-like textures. It carries associations with age, appearance, and the vitality of life.
 
 ## Characters
+### Used
 1. <ruby>[髪](/characters/髪.md)<rt>ㄅㄚㄊ</rt></ruby> - hair
 2. <ruby>[髯](/characters/髯.md)<rt>ㄋㄛㄇ</rt></ruby> - beard
 3. <ruby>[鬚](/characters/鬚.md)<rt>ㄙㄨ</rt></ruby> - beard
@@ -19,3 +21,4 @@ TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS 
 FROM "characters"
 WHERE radical = "髟"
 SORT stroke_count ASC
+```

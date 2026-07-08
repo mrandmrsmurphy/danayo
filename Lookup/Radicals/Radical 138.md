@@ -6,13 +6,16 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 138 is 艮, a mountain, ridge, or boundary stone — depicting a rocky peak or the marker between territories. This radical appears in compounds relating to mountains, stopping points, hardness, firmness, and immobility. It carries spiritual and philosophical significance in Taoism and divination.
 
 ## Characters
-1. <ruby>[艮](/characters/艮.md)<rt>ㄍㄚㄋ</rt></ruby>
-2. <ruby>[良](/characters/良.md)<rt>ㄌ⼘ㄫ</rt></ruby>
-3. <ruby>[艱](/characters/艱.md)<rt>ㄍㄚㄋ</rt></ruby>
+### Used
+1. <ruby>[艮](/characters/艮.md)<rt>ㄍㄚㄋ</rt></ruby> - mountain
+2. <ruby>[良](/characters/良.md)<rt>ㄌ⼘ㄫ</rt></ruby> - good
+3. <ruby>[艱](/characters/艱.md)<rt>ㄍㄚㄋ</rt></ruby> - difficult
 
-艰 -->
+### Aliases
+- 艰 --> simplified form of 艱
 
 ## Data check
 ```dataview

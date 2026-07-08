@@ -6,9 +6,11 @@ tags:
   - lookup
 ---
 > [[Radicals]]
+> Radical 127 is 耒, a plow or agricultural implement — depicting a simple wooden plow used to till soil. This radical appears in compounds relating to farming, plowing, cultivation, agriculture, and the work of tilling the earth. It symbolizes labor, effort, and the toil required to work the land.
 
-## Characters 
-1. <ruby>[耕](/characters/耕.md)<rt>ㄍㄚㄫ</rt></ruby> "plow"
+## Characters
+### Used
+1. <ruby>[耕](/characters/耕.md)<rt>ㄍㄚㄫ</rt></ruby> - plow
 2. <ruby>[耗](/characters/耗.md)<rt>ㄏㄚㄨ</rt></ruby> "deplete"
 
 ## Data check

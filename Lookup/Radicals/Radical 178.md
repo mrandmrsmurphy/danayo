@@ -6,12 +6,12 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
-> The **tanned leather** radical
+> Radical 178 is 韋, tanned leather or cordage — depicting strands of fiber woven together, typically leather straps. This radical appears in compounds relating to tanned leather, woven materials, cordage, and things made from twisted or plaited fibers.
 
 ## Characters
-1. [韋](characters/韋.md) - tanned leather
-	- See here for characters not under this radical but still with this component
-2. [韓](characters/韓.md) - Han Korean
+### Used
+1. <ruby>[[韋]]<rt>ㄨㄟ</rt></ruby> - tanned leather
+2. <ruby>[[韓]]<rt>ㄏㄚㄋ</rt></ruby> - Han Korean
 
 ## Data check
 ```dataview

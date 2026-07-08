@@ -6,9 +6,11 @@ tags:
   - lookup
 ---
 > [[Radicals]]
+> Radical 133 is 至, to arrive or until — depicting a mortar and pestle or the arrival of something at a destination. This radical appears in compounds relating to arrival, reaching, attainment, and the fulfillment of purpose. It suggests completion and the endpoint of a journey.
 
 ## Characters
-1. <ruby>[至](/characters/至%20(char).md)<rt>ㄐㄧㄜ</rt></ruby> "until"
+### Used
+1. <ruby>[至](/characters/至%20(char).md)<rt>ㄐㄧㄜ</rt></ruby> - until
 2. <ruby>[致](/characters/致%20(char).md)<rt>ㄑㄧㄜ</rt></ruby> "cause"
 
 ## Data check

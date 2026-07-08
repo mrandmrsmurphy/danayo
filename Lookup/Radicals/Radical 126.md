@@ -6,9 +6,11 @@ tags:
   - lookup
 ---
 > [[Radicals]]
+> Radical 126 is 而, and/yet — depicting a bearded chin or jaw, and by extension the connecting or linking element. This radical is often used as a conjunction in classical Chinese and appears in compounds relating to connection, succession, or the linking of ideas and actions.
 
 ## Characters
-1. <ruby>[而](/characters/而%20(char).md)<rt>ㄋㄧ</rt></ruby> "and"
+### Used
+1. <ruby>[而](/characters/而%20(char).md)<rt>ㄋㄧ</rt></ruby> - and
 2. <ruby>[耐](/characters/耐%20(char).md)<rt>ㄋㄚㄧ</rt></ruby> "able to tolerate"
 
 ## Data check
