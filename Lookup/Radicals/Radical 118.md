@@ -1,7 +1,7 @@
 ---
 size: 43
 radical: 竹
-date-last-perfect: 2026-04-28
+date-last-perfect: 2026-07-08
 tags:
   - lookup
 ---

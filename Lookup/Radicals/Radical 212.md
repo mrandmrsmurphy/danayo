@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-02-23
+date-last-perfect: 2026-07-08
 size: 4
 radical: 龍
 tags: [lookup]
@@ -45,3 +45,4 @@ TABLE file.link AS "Character", radical AS "Radical", 諺文 AS "Sound"
 FROM "characters"
 WHERE radical = "龍"
 SORT file.name ASC
+```

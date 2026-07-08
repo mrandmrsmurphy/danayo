@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-04-26
+date-last-perfect: 2026-07-08
 size: 123
 radical: 口
 tags: [lookup]

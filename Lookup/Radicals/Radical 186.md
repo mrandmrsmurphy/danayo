@@ -1,19 +1,25 @@
 ---
 size: 2
 radical: 香
-date-last-perfect: 2026-02-25
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---
 > [[Radicals]]
-### +0
+> Radical 186 is 香, fragrance or incense — combining 禾 (grain) and 甘 (sweet), depicting the sweet aroma of ripening grain.
+
+## Strokes
+
+### +0 Strokes
 1. <ruby>[[香]]<rt>ㄏ·ㄚㄫ</rt></ruby> - incense
 
-### +11
+### +11 Strokes
 2. <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby> - fragrant
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"
 WHERE radical = "香"
 SORT stroke_count ASC
+```

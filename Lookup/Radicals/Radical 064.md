@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-04-26
+date-last-perfect: 2026-07-08
 size: 137
 radical: 手
 tags: [lookup]
@@ -147,7 +147,7 @@ tags: [lookup]
 111. <ruby>[撃](../../characters/撃%20(char).md)<rt>ㄍㄝㄎ</rt></ruby> - strike
 112. <ruby>[撇](../../characters/撇%20(char).md)<rt>ㄆㄝㄊ</rt></ruby> - throw away
 113. <ruby>[撐](../../characters/撐.md)<rt>ㄊㄚㄫ</rt></ruby> - support
-114. <ruby>[撞 (char)](../../characters/撞%20(char).md)<rt>ㄊ⺢ㄫ</rt></ruby> - hit
+114. <ruby>[撞](../../characters/撞%20(char).md)<rt>ㄊ⺢ㄫ</rt></ruby> - hit
 115. <ruby>[撤](../../characters/撤%20(char).md)<rt>ㄉㄝㄊ</rt></ruby> - omit
 116. <ruby>[撫](../../characters/撫.md)<rt>ㄈㄨ</rt></ruby> - pat
 117. <ruby>[播](../../characters/播.md)<rt>ㄅㄚ</rt></ruby> - sow

@@ -3,7 +3,7 @@ size: 3
 radical: 臼
 tags:
   - lookup
-date-last-perfect: 2026-05-01
+date-last-perfect: 2026-07-08
 ---
 > [[Radicals]]
 > Radical 134 is 臼, a mortar or mill — depicting a stone vessel with a pestle used for grinding grain and other substances. This radical appears in compounds relating to grinding, pulverizing, mills, mortars, and the grinding action itself. It symbolizes the transformation of raw materials into refined products.

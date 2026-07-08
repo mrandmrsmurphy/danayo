@@ -1,7 +1,7 @@
 ---
 radical: 飛
 size: 1
-date-last-perfect: 2026-02-25
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---

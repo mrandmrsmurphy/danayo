@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-08
 size: 17
 radical: 魚
 tags: [lookup]

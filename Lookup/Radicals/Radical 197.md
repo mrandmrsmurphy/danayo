@@ -1,7 +1,7 @@
 ---
 size: 2
 radical: 鹵
-date-last-perfect: 2026-03-05
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---

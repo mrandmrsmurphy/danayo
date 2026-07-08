@@ -1,7 +1,7 @@
 ---
 size: 2
 radical: 黍
-date-last-perfect: 2026-03-11
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---

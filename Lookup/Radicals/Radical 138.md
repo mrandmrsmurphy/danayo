@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-04-08
+date-last-perfect: 2026-07-08
 radical: 艮
 tags: [lookup]
 
@@ -23,3 +23,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "艮"
 SORT file.name ASC
+```

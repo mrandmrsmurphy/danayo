@@ -1,6 +1,6 @@
 ---
 size: 21
-date-last-perfect: 2026-03-03
+date-last-perfect: 2026-07-08
 radical: 穴
 tags: [lookup]
 
@@ -61,3 +61,4 @@ TABLE 注音 AS "Sound", english AS "English"
 FROM "characters"
 WHERE radical = "穴"
 SORT stroke_count ASC
+```

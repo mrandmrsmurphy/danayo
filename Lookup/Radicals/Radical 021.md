@@ -1,7 +1,7 @@
 ---
 size: 4
 radical: 匕
-date-last-perfect: 2026-03-14
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---
@@ -21,3 +21,4 @@ TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS 
 FROM "characters"
 WHERE radical = "匕"
 SORT stroke_count ASC
+```

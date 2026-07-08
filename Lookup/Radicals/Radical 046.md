@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-08
 size: 22
 radical: 山
 tags: [lookup]

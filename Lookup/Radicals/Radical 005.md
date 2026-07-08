@@ -1,7 +1,7 @@
 ---
 size: 7
 radical: 乙
-date-last-perfect: 2026-04-02
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---
@@ -26,3 +26,4 @@ TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE radical = "乙"
 SORT file.name ASC
+```

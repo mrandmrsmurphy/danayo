@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-04-30
+date-last-perfect: 2026-07-08
 size: 29
 radical: 頁
 tags:

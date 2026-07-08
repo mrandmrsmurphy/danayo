@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-08
 size: 21
 radical: 車
 tags: [lookup]

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-02-23
+date-last-perfect: 2026-07-08
 size: 3
 radical: 玄
 tags: [lookup]
@@ -24,3 +24,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "玄"
 SORT file.name ASC
+```

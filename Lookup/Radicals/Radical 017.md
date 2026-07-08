@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-04-30
+date-last-perfect: 2026-07-08
 size: 5
 tags:
   - lookup
@@ -13,7 +13,7 @@ radical: 凵
 1. <ruby>[凶](/characters/凶%20(char).md)<rt>ㄏ⼜ㄫ</rt></ruby> - unlucky
 2. <ruby>[凸](/characters/凸%20(char).md)<rt>ㄉㄛㄊ</rt></ruby> - convex
 3. <ruby>[凹](/characters/凹%20(char).md)<rt>ㄚㄨ</rt></ruby> - concave
-4. <ruby>[出 (char)](/characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> - exit
+4. <ruby>[出](/characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> - exit
 5. <ruby>[函](/characters/函.md)<rt>ㄏㄚㄇ</rt></ruby> - box
 
 ## Data check
@@ -22,3 +22,4 @@ TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS 
 FROM "characters"
 WHERE radical = "凵"
 SORT stroke_count ASC
+```

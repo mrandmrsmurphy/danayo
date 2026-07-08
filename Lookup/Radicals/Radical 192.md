@@ -1,6 +1,6 @@
 ---
 size: 0
-date-last-perfect: 2026-02-22
+date-last-perfect: 2026-07-08
 radical: 鬯
 tags: [lookup]
 

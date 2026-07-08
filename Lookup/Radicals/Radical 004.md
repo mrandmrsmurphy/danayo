@@ -1,6 +1,6 @@
 ---
 size: 10
-date-last-perfect: 2026-03-03
+date-last-perfect: 2026-07-08
 radical: 丿
 tags: [lookup]
 
@@ -30,3 +30,4 @@ TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "丿" OR radical = "乀" OR radical = "乁"
 SORT stroke_count ASC
+```

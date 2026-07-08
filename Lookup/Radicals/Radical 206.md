@@ -1,6 +1,6 @@
 ---
 size: 1
-date-last-perfect: 2026-03-03
+date-last-perfect: 2026-07-08
 radical: 鼎
 tags: [lookup]
 
@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Characters
 ### Used
-1. <ruby>[鼎 (char)](characters/鼎%20(char).md)<rt>ㄉㄧㄫ</rt></ruby> - tripod
+1. <ruby>[鼎](characters/鼎%20(char).md)<rt>ㄉㄧㄫ</rt></ruby> - tripod
 
 ### Aliases
 - 䵺 --> 町

@@ -1,7 +1,7 @@
 ---
 size: 20
 radical: 雨
-date-last-perfect: 2026-03-27
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---
@@ -63,3 +63,4 @@ TABLE english AS "EN", stroke_count AS "SC", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "雨"
 SORT stroke_count ASC
+```

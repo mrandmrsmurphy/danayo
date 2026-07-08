@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-01
+date-last-perfect: 2026-07-08
 size: 29
 radical: 犬
 tags:

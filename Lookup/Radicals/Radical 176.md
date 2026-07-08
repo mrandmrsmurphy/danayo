@@ -1,7 +1,7 @@
 ---
 size: 1
 radical: 面
-date-last-perfect: 2026-02-25
+date-last-perfect: 2026-07-08
 tags: [lookup]
 
 ---
@@ -19,3 +19,4 @@ TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS 
 FROM "characters"
 WHERE radical = "面"
 SORT stroke_count ASC
+```

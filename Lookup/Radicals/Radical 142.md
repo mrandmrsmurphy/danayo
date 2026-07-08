@@ -1,7 +1,7 @@
 ---
 size: 42
 radical: 虫
-date-last-perfect: 2026-04-28
+date-last-perfect: 2026-07-08
 tags:
   - lookup
 ---

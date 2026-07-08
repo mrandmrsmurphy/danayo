@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-04-26
+date-last-perfect: 2026-07-08
 size: 117
 radical: 艸
 tags:

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-04-27
+date-last-perfect: 2026-07-08
 size: 62
 radical: 女
 tags: [lookup]

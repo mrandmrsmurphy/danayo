@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-04-26
+date-last-perfect: 2026-07-08
 size: 143
 radical: 人
 tags:
@@ -22,7 +22,7 @@ aliases:
 4. <ruby>[仇](../../characters/仇.md)<rt>ㄍ⼜</rt></ruby> - enemy
 5. <ruby>[今](../../characters/今%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - now
 6. <ruby>[介](../../characters/介.md)<rt>ㄍ⼶</rt></ruby> - mediator
-7. <ruby>[仍 (char)](../../characters/仍%20(char).md)<rt>ㄋㄧㄫ</rt></ruby> - yet
+7. <ruby>[仍](../../characters/仍%20(char).md)<rt>ㄋㄧㄫ</rt></ruby> - yet
 
 ### +3 Strokes
 8. <ruby>[㐱](../../characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - black hair

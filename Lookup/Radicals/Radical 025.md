@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-03-24
+date-last-perfect: 2026-07-08
 size: 4
 radical: 卜
 tags: [lookup]
@@ -12,7 +12,7 @@ tags: [lookup]
 ### Used
 1. <ruby>[卜](/characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divination
 2. <ruby>[卞](/characters/卞.md)<rt>ㄅ⼶ㄋ</rt></ruby> - impatient
-3. <ruby>[占 (char)](../../characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - occupy
+3. <ruby>[占](../../characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - occupy
 4. <ruby>[卦](/characters/卦%20(char).md)<rt>ㄍ⺢ㄧ</rt></ruby> - trigram
 
 ## Data check
@@ -21,3 +21,4 @@ TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS 
 FROM "characters"
 WHERE radical = "卜"
 SORT stroke_count ASC
+```

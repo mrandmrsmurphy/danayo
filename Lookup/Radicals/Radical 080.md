@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-05-01
+date-last-perfect: 2026-07-08
 radical: 毋
 tags:
   - lookup
@@ -20,3 +20,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "毋"
 SORT file.name ASC
+```

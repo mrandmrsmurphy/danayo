@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-03-03
+date-last-perfect: 2026-07-08
 radical: 韋
 tags: [lookup]
 
@@ -19,3 +19,4 @@ TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS 
 FROM "characters"
 WHERE radical = "韋"
 SORT stroke_count ASC
+```

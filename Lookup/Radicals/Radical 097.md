@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-04-26
+date-last-perfect: 2026-07-08
 radical: 瓜
 tags: [lookup]
 
@@ -19,3 +19,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "瓜"
 SORT file.name ASC
+```

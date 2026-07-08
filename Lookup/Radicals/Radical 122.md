@@ -1,6 +1,6 @@
 ---
 size: 9
-date-last-perfect: 2026-04-04
+date-last-perfect: 2026-07-08
 radical: 网
 tags: [lookup]
 
@@ -32,3 +32,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "网"
 SORT stroke_count ASC
+```

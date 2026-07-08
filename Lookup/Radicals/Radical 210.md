@@ -1,6 +1,6 @@
 ---
 size: 1
-date-last-perfect: 2026-03-03
+date-last-perfect: 2026-07-08
 radical: 齊
 tags: [lookup]
 
@@ -24,3 +24,4 @@ TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "齊"
 SORT file.name ASC
+```

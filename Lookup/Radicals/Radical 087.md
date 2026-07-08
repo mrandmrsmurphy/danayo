@@ -1,6 +1,6 @@
 ---
 size: 4
-date-last-perfect: 2026-04-01
+date-last-perfect: 2026-07-08
 radical: 爪
 tags: [lookup]
 
@@ -25,3 +25,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "爪"
 SORT file.name ASC
+```

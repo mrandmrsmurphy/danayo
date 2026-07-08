@@ -3,7 +3,7 @@ size: 22
 radical: 鳥
 tags:
   - lookup
-date-last-perfect: 2026-05-24
+date-last-perfect: 2026-07-08
 ---
 > [[Radicals]]
 > The bird radical 鳥, a.k.a. simplified 鸟.
@@ -66,3 +66,4 @@ TABLE file.link AS "Character", english AS "EN", stroke_count as "Stroke"
 FROM "characters"
 WHERE radical = "鳥"
 SORT stroke_count ASC
+```

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-05-01
+date-last-perfect: 2026-07-08
 size: 20
 radical: 一
 tags:
@@ -8,11 +8,11 @@ tags:
 > [[Radicals]]
 
 Radical 1 is 一, the number one.
-# Strokes 
-## +0 Stroke 
+## Strokes
+### +0 Stroke 
 1. <ruby>[[一 (char)|一]]<rt>·ㄧㄊ</rt></ruby> - one
 
-## +1 Stroke
+### +1 Stroke
 2. <ruby>[丁](../../characters/丁%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - fourth
 3. <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven 
 - 丂 --> ancient variant of 于 and of 考
@@ -20,9 +20,9 @@ Radical 1 is 一, the number one.
 - 丅 --> ancient variant of 下
 - 丆 --> ancient variant of [[Radical 027]] (厂) "cliff", 口訣 form of 면
 
-## +2 Strokes
+### +2 Strokes
 4. <ruby>[万](../../characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
-5. <ruby>[丈 (char)](../../characters/丈%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - only
+5. <ruby>[丈](../../characters/丈%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - only
 6. <ruby>[[三|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
 7. <ruby>[上](../../characters/上%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - above
 8. <ruby>[下](../../characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - below
@@ -30,7 +30,7 @@ Radical 1 is 一, the number one.
 - 亐 --> ancient variant of 于
 - 卄 --> ancient variant of 廿
 
-## +3 Strokes
+### +3 Strokes
 9. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
 10. <ruby>[与](../../characters/与%20(char).md)<rt>·⼄</rt></ruby> - only
 11. <ruby>[丐](../../characters/丐.md)<rt>ㄍㄚㄨ</rt></ruby> - begger
@@ -39,11 +39,11 @@ Radical 1 is 一, the number one.
 - 专 --> ancient variant of 専
 - 丗 --> ancient variant of 世
 
-## +4 Strokes
+### +4 Strokes
 13. <ruby>[且](../../characters/且%20(char).md)<rt>ㄑㄛ</rt></ruby> - also
 14. <ruby>[世](../../characters/世.md)<rt>ㄙㄝ</rt></ruby> - world
 15. <ruby>[丘](../../characters/丘%20(char).md)<rt>ㄎ⼜</rt></ruby> - hill
-16. <ruby>[丙 (char)](../../characters/丙%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - tertiary
+16. <ruby>[丙](../../characters/丙%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - tertiary
 17. <ruby>[丕](../../characters/丕.md)<rt>ㄆㄧ</rt></ruby> - grand
 - 业 --> ancient variant of 業, 丘, and 北
 - 丛 --> ancient variant of 叢
@@ -51,14 +51,14 @@ Radical 1 is 一, the number one.
 - 丝 --> ancient variant of 糸
 - 㐀 --> ancient variant of 丘 
 
-## +5 Strokes
+### +5 Strokes
 18. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄧㄫ</rt></ruby> - rescue
 19. <ruby>[両](../../characters/両%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - both
 - 㐂 --> ancient variant of 喜
 - 丠 --> ancient variant of 丘 and 冀
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
 
-## +6 Strokes
+### +6 Strokes
 - 丣 --> ancient variant of 酉 and 卯
 - 两 --> ancient variant of 両
 - 严 --> ancient variant of 厳
@@ -67,11 +67,11 @@ Radical 1 is 一, the number one.
 - 𠀡 --> ancient variant of 天
 - 𠀧 --> V variant of 三
 
-## +7 Strokes
+### +7 Strokes
 20. <ruby>[並](../../characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - side-by-side
 - 丧 --> ancient variant of 喪
 
-## +8 Strokes 
+### +8 Strokes 
 * ¡鿗! --> ancient contraction, so 違法字
 
 *All other forms are missing from dictionary or are chữ Nôm inventions.*
@@ -82,3 +82,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "一"
 SORT file.name ASC
+```

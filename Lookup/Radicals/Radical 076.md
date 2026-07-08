@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-07-08
 size: 11
 radical: 欠
 tags: [lookup]
@@ -23,7 +23,7 @@ tags: [lookup]
 ### +8 Strokes
 5. <ruby>[欺](../../characters/欺.md)<rt>ㄎㄧ</rt></ruby> - deceive
 6. <ruby>[欽](../../characters/欽.md)<rt>ㄎㄨㄇ</rt></ruby> - respect
-7. <ruby>[款 (char)](../../characters/款%20(char).md)<rt>ㄎ⺢ㄋ</rt></ruby> - item
+7. <ruby>[款](../../characters/款%20(char).md)<rt>ㄎ⺢ㄋ</rt></ruby> - item
 
 ### +9 Strokes
 8. <ruby>[歆](../../characters/歆.md)<rt>ㄏㄨㄇ</rt></ruby> - be pleased

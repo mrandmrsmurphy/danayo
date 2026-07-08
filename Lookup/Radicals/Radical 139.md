@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-04-17
+date-last-perfect: 2026-07-08
 radical: 色
 tags: [lookup]
 
@@ -19,3 +19,4 @@ TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
 FROM "characters"
 WHERE radical = "色"
 SORT file.name ASC
+```

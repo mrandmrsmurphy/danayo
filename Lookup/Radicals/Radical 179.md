@@ -1,6 +1,6 @@
 ---
 size: 1
-date-last-perfect: 2026-02-25
+date-last-perfect: 2026-07-08
 radical: 韭
 tags: [lookup]
 
@@ -18,3 +18,4 @@ TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS 
 FROM "characters"
 WHERE radical = "韭"
 SORT stroke_count ASC
+```

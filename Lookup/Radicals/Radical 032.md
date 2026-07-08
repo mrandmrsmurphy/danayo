@@ -1,6 +1,6 @@
 ---
 size: 67
-date-last-perfect: 2026-04-28
+date-last-perfect: 2026-07-08
 radical: 土
 tags:
   - lookup

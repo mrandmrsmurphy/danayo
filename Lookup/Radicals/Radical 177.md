@@ -1,6 +1,6 @@
 ---
 size: 9
-date-last-perfect: 2026-03-03
+date-last-perfect: 2026-07-08
 radical: 革
 tags: [lookup]
 
@@ -26,3 +26,4 @@ TABLE 注音 AS "Sound", english AS "en", stroke_count AS "SC"
 FROM "characters"
 WHERE radical = "革"
 SORT stroke_count ASC
+```

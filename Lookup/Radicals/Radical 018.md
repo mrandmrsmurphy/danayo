@@ -1,7 +1,7 @@
 ---
 size: 39
 radical: 刀
-date-last-perfect: 2026-04-28
+date-last-perfect: 2026-07-08
 tags:
   - lookup
 ---
