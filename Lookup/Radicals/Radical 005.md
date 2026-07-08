@@ -6,6 +6,7 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 5 is 乙, the second of the ten heavenly stems. Its shape depicts a bent or hooked form, and it appears in characters relating to curvature, second position, or turning. In Chinese cosmology and timekeeping, it occupies the second position in the cyclic ordering system.
 
 ## Characters
 ### Used
@@ -17,7 +18,6 @@ tags: [lookup]
 6. <ruby>[乳](/characters/乳.md)<rt>ㄋㄨ</rt></ruby> - milk
 7. <ruby>[乾](/characters/乾%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - heavenly
 
-### Aliases
 ### Forbidden
 - 乜 - Cantonese/dialects only
 ## Data check

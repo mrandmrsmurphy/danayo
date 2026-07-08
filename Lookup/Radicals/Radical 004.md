@@ -6,8 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 4 is 丿, the falling stroke — a single diagonal line (and one of the eight basic strokes of Chinese characters). Appears as the topmost or rightmost stroke in many compounds, particularly in characters that carry meanings of descent, dispersion, or breaking apart.
 
 ## Characters
+### Used
 1. <ruby>[乂](../../characters/乂.md)<rt>⼘ㄧ</rt></ruby> -  govern
 2. <ruby>[[乃 (char)|乃]]<rt>ㄋㄚㄧ</rt></ruby> -  but
 3. <ruby>[[久 (char)|久]]<rt>ㄍ⼜</rt></ruby> -  long time (ago)
@@ -18,6 +20,7 @@ tags: [lookup]
 8. <ruby>[[乎 (char)|乎]]<rt>ㄏㄛ</rt></ruby> -  did, do
 9. <ruby>[乖](../../characters/乖.md)<rt>ㄍ⺢ㄧ</rt></ruby> -  well-behaved, obedient
 10. <ruby>[[乗 (char)|乗]]<rt>ㄙㄨㄫ</rt></ruby> -  multiply, ride
+
 ### Other
 - [孔 (char)](../../characters/孔%20(char).md)
 

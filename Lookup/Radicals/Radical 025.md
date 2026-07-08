@@ -6,8 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 25 is 卜, a divining crack or oracle symbol — the sign left by heat-induced cracks in bone or shell during divination. In ancient China, oracle bones bore these cracks, which were "read" to interpret the will of ancestors and deities. Compounds with this radical often carry meanings of divination, divulging secrets, or prediction.
 
 ## Characters
+### Used
 1. <ruby>[卜](/characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - divination
 2. <ruby>[卞](/characters/卞.md)<rt>ㄅ⼶ㄋ</rt></ruby> - impatient
 3. <ruby>[占 (char)](../../characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - occupy

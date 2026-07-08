@@ -6,8 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 16 is 几, a low table or small platform — a frame-like structure with legs. It depicts the archetypal table or bench, and appears in compounds related to furniture, order, arrangement, and things standing upon a base or frame.
 
 ## Characters
+### Used
 1. <ruby>[凡](/characters/凡.md)<rt>ㄅㄛㄇ</rt></ruby> - ordinary
 2. <ruby>[処](/characters/処%20(char).md)<rt>ㄑㄛ</rt></ruby> - place
 3. <ruby>[凰](/characters/凰.md)<rt>ㄏ⺢ㄫ</rt></ruby> - female phoenix

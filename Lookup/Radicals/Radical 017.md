@@ -6,12 +6,15 @@ tags:
 radical: 凵
 ---
 > [[Radicals]]
+> Radical 17 is 凵, a box-like enclosure representing an opening or hollow. It depicts a rectangular frame open at the top, suggesting a mouth, pit, or concave form. Compounds with this radical often carry meanings of misfortune (when filled), depth, or things that are inward-turned or contained.
+
 ## Characters
-1. <ruby>[凶](/characters/凶%20(char).md)<rt>ㄏ⼜ㄫ</rt></ruby> "unlucky"
-2. <ruby>[凸](/characters/凸%20(char).md)<rt>ㄉㄛㄊ</rt></ruby> "convex"
-3. <ruby>[凹](/characters/凹%20(char).md)<rt>ㄚㄨ</rt></ruby> "concave"
-4. <ruby>[出 (char)](/characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> "exit"
-5. <ruby>[函](/characters/函.md)<rt>ㄏㄚㄇ</rt></ruby> "box"
+### Used
+1. <ruby>[凶](/characters/凶%20(char).md)<rt>ㄏ⼜ㄫ</rt></ruby> - unlucky
+2. <ruby>[凸](/characters/凸%20(char).md)<rt>ㄉㄛㄊ</rt></ruby> - convex
+3. <ruby>[凹](/characters/凹%20(char).md)<rt>ㄚㄨ</rt></ruby> - concave
+4. <ruby>[出 (char)](/characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> - exit
+5. <ruby>[函](/characters/函.md)<rt>ㄏㄚㄇ</rt></ruby> - box
 
 ## Data check
 ```dataview

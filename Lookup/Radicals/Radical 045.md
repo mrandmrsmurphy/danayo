@@ -6,9 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
-> This is the **shoot** radical
+> Radical 45 is 屮, a sprout or shoot — the simplest depiction of a plant beginning to grow, showing a single leaf or blade emerging from the ground. This radical appears in compounds relating to plants, growth, nature, and the emergence of new things.
 
 ## Characters
+### Used
 1. <ruby>[屮](characters/屮.md)<rt>ㄊㄧㄊ</rt></ruby> - new plant
 2. <ruby>[屯](characters/屯%20(char).md)<rt>ㄉㄨㄋ</rt></ruby> - hamlet
 

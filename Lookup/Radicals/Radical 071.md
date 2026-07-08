@@ -6,8 +6,10 @@ tags: [lookup]
 
 ---
 > [[Radicals]]
+> Radical 71 is 无 (or 无), meaning "not" or "none" — depicting absence or negation. This radical appears in characters relating to negation, absence, lack, or the opposite of something. It is intimately connected to philosophical and linguistic concepts of non-being or emptiness.
 
 ## Characters
+### Used
 1. <ruby>[[既]]<rt>ㄍㄧㄜ</rt></ruby> - already
 
 ## Data check
