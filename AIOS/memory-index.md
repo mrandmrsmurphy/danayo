@@ -31,6 +31,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Homophone warning callout](memory/feedback_homophone_warning.md) — words with Dan'a'yo homophones need a `>[!warning] Homophones` callout after meta-bind-embed, before Notes
 - [Character backlinks required](memory/feedback_character_backlinks.md) — when perfecting a word, update every constituent character's `## Words` section immediately; this is criterion 9 and cannot be deferred
 - [kwin paragraph length](memory/feedback_kwin_length.md) — 2–3 sentences max; state verdict, name diverging dimension(s), one parallel example if useful — no more
+- [Lexipedia semantic differentiation](memory/feedback_lexipedia_semantic_differentiation.md) — lexipedia pages are where D's own semantic ranges organically diverge from source languages; let it happen naturally, then backfill D-centric definitions into word pages
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch

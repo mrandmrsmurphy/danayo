@@ -10,3 +10,5 @@ language: English
 - water
 - wood
 - ether
+
+> See [Periodic Table](Periodic%20Table.md)

@@ -25,7 +25,7 @@ Content is organized into four atomic entry types, all linked:
 
 Supporting content:
 - **`grammar/`** — chapters of the grammar book (`文法 - 01序文.md` through chapter 97); `単亜語之文法書.md` is the index
-- **`lexipedia/`** — semantic field groupings (Animals, Body, Numbers, Swadesh list, etc.)
+- **`lexipedia/`** — semantic field groupings (Animals, Body, Numbers, Swadesh list, etc.). Beyond indexing existing words, this is where Dan'a'yo's own semantic ranges get worked out organically as the language differentiates itself from its CJKV sources — distinct from word-page Notes, which survey the *source-language* landscape. See `AIOS/memory/feedback_lexipedia_semantic_differentiation.md`.
 - **`lookup/`** — indexes into `characters/` by Radicals, SKIP, stroke count, HSK level, Jōyō level, Korean education level
 
 ## Frontmatter conventions
