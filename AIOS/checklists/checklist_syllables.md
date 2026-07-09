@@ -79,17 +79,17 @@ All characters have a `stand_in` value in their frontmatter.  If it is essential
 
 ```markdown
 1. [[壇 (char)]] "altar" --> [[壇]]
-2. [[但 (char)]] "only, but" --> [[但]]
+2. [但 (char)](../characters/但%20(char).md) "only, but" --> [但](../words/但.md)
 ```
 
-Use the `[[X (char)]]` wiki-link form because these character file use the `(char)` naming convention. The word link after `-->` is the plain `[[X]]` wiki-link.
+Both wiki-links (`[[...]]`) and relative Markdown links (`[text](../path/file.md)`) are valid. Use whichever form the rest of the page uses, or Markdown links when GitHub compatibility matters. The `(char)` suffix must still match the actual character filename.
 
 ### Bound
 Characters that exist in Dan'a'yo but only inside compound words are not stand-alone. Use a `but requires` clause with a ruby-annotated compound link:
 
 ```markdown
 3. [[誕]] "be born", but requires <ruby>[[誕生]]<rt>ㄉㄚㄋㄙㄚㄫ</rt></ruby>
-4. [[蛋]] "egg white", but requires [[蛋白]]
+4. [蛋](../characters/蛋.md) "egg white", but requires [蛋白](../words/蛋白.md)
 ```
 
 Include the ruby annotation whenever the compound's pronunciation's is available.
@@ -146,5 +146,5 @@ Set `date-last-perfect` when all of the following are true:
 - **Wrong `size`** — recount entries whenever the section changes.
 - **Blank `english` on a page with a stand-in** — if a character has `stand_in`, its meaning belongs in `english`.
 - **Multiple meanings per stand-alone in `english`** — use only the primary meaning, one list entry per stand-alone character.
-- **Missing `(char)` suffix in links** — character files are named `X (char).md`; use `[[X (char)]]`, not `[[X]]`, unless the file genuinely lacks the suffix.
+- **Missing `(char)` suffix in links** — character files are named `X (char).md`; use `[[X (char)]]` or `[X (char)](../characters/X%20(char).md)`, not `[[X]]` or `[X](../characters/X.md)`, unless the file genuinely lacks the suffix.
 - **Broken compound links** — verify that linked word files actually exist before marking a page perfect.

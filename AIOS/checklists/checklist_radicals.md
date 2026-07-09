@@ -36,7 +36,7 @@ radical: 一                      # the radical character itself (matches the ra
 
 ## Opening
 
-Immediately after the frontmatter, a breadcrumb using the wiki-link form `[[Radicals]]`, then a description. How much description depends on the style:
+Immediately after the frontmatter, a breadcrumb linking to `Radicals`, then a description. How much description depends on the style. Use `[[Radicals]]` or `[Radicals](Radicals.md)` — both are valid.
 
 **Grouped-style pages** get one short line: what the radical represents, any alternate forms it takes inside characters, and its SKIP position if notable.
 
@@ -239,4 +239,4 @@ Set when, for **prosaic-style** pages:
 - **Counting aliases in `size`** — only numbered entries count; aliases, forbidden, and Others do not.
 - **`date-last-perfect` with no character list** — a page that has only a data check query and no curated list is not done, regardless of frontmatter.
 - **Heading variants** — use `## Data check` consistently, not `## Data search`, `## Dataview`, or `### Data double check`.
-- **Breadcrumb as plain link** — prefer `[[Radicals]]` wiki-link over `[Radicals](Radicals.md)` markdown link for consistency with the rest of the vault.
+- **Breadcrumb as plain link** — `[[Radicals]]` and `[Radicals](Radicals.md)` are both valid; do not convert one to the other as a cleanup pass.

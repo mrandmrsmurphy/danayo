@@ -30,6 +30,24 @@ Supporting content:
 - **`lexipedia/`** — semantic field groupings (Animals, Body, Numbers, Swadesh list, etc.). Beyond indexing existing words, this is where Dan'a'yo's own semantic ranges get worked out organically as the language differentiates itself from its CJKV sources — distinct from word-page Notes, which survey the *source-language* landscape. See `AIOS/memory/feedback_lexipedia_semantic_differentiation.md`.
 - **`lookup/`** — indexes into `characters/` by Radicals, SKIP, stroke count, HSK level, Jōyō level, Korean education level
 
+## File naming in `characters/`
+
+A character file is named either `X.md` or `X (char).md`. The distinction is intentional and determines how the character is linked:
+
+- **`X (char).md`** — the character is also a stand-alone Dan'a'yo word, so `words/X.md` exists. The `(char)` suffix prevents the character file from colliding with the word file of the same name. Link as `[[X (char)]]` or `[X (char)](../characters/X%20(char).md)`.
+- **`X.md`** — the character is bound-only; it does not appear as a stand-alone word. Link as `[[X]]` or `[X](../characters/X.md)`.
+
+When writing `characters:` frontmatter for words, use the form that matches the actual filename: `X (char)` or plain `X`.
+
+## Link formats
+
+Both Obsidian wiki-links and relative Markdown links are valid throughout the vault:
+
+- Wiki-link: `[[Syllables]]`, `[[壇 (char)]]`, `[[詩篇]]`
+- Markdown link: `[Syllables](syllables/Syllables.md)`, `[壇 (char)](../characters/壇%20(char).md)`, `[詩篇](../words/詩篇.md)`
+
+Do not convert existing Markdown links into wiki-links as a cleanup pass. Markdown links are desirable because the vault is also browsed on GitHub, where wiki-links do not resolve. When adding new links, match the surrounding page's style or use Markdown links for GitHub compatibility.
+
 ## Frontmatter conventions
 
 **Character** frontmatter fields (all present on every entry):

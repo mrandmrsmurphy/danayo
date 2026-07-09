@@ -39,7 +39,7 @@ Immediately after the frontmatter, one line:
 > [[Stroke]]
 ```
 
-The breadcrumb uses the wiki-link form `[[Stroke]]`.
+The breadcrumb is a link to `Stroke`. Use `[[Stroke]]` or `[Stroke](Stroke.md)`; both are valid.
 
 ---
 
@@ -58,7 +58,7 @@ The format for each line:
 ```
 
 - The SKIP code is written as three hyphen-separated numbers (e.g. `1-1-2`), not linked.
-- Each character uses a ruby-annotated wiki-link. Use the `(char)` pipe alias form when the character file has that suffix: `[[小 (char)|小]]`. For files without the suffix: `[[刃]]`.
+- Each character uses a ruby-annotated link. Use the `(char)` pipe alias form when the character file has that suffix: `[[小 (char)|小]]` or `[小 (char)](../characters/小%20(char).md)`. For files without the suffix: `[[刃]]` or `[刃](../characters/刃.md). Both wiki-links and relative Markdown links are valid inside `<ruby>`.
 - The `rt` content is the Dan'a'yo 注音 pronunciation.
 - Multiple characters sharing the same SKIP code appear on one line, separated by commas.
 

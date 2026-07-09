@@ -210,14 +210,15 @@ List all four levels in order: Dan'a'yo grade, HSK, Jōyō, Korean. Include all 
 
 ## `## Words` section
 
-List every Dan'a'yo word that uses this character. Format: ruby-annotated wiki-link followed by an English gloss in quotes.
+List every Dan'a'yo word that uses this character. Format: ruby-annotated link followed by an English gloss in quotes.
 
 ```markdown
 ## Words
 - <ruby>[[詩篇]]<rt>ㄙㄧㄆ⼶ㄋ</rt></ruby> "poem, psalm"
-- <ruby>[[詩歌]]<rt>ㄙㄧㄍㄚ</rt></ruby> "poetry"
-- <ruby>[[唐詩]]<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby> "Tang poetry"
+- <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby> "Tang poetry"
 ```
+
+Both wiki-links and relative Markdown links are valid inside the `<ruby>` element.
 
 - The `<rt>` content is the full Dan'a'yo Bopomofo pronunciation of the word.
 - The English gloss in quotes follows the ruby element.
@@ -227,13 +228,15 @@ List every Dan'a'yo word that uses this character. Format: ruby-annotated wiki-l
 
 ## `## Chengyu` section *(optional)*
 
-Include when the character appears in one or more chengyu. Plain wiki-links with a short English gloss. 
+Include when the character appears in one or more chengyu. Plain links with a short English gloss. 
 
 ```markdown
 ## Chengyu
 - [[空前絶後]] "unprecedented and unrepeated"
-- [[一心同体]] "one heart, one body"
+- [一心同体](../chengyu/一心同体.md) "one heart, one body"
 ```
+
+Wiki-links and relative Markdown links are equally valid.
 
 ---
 
