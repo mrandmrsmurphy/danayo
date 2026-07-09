@@ -72,7 +72,7 @@ Writing must be in order:
 21. [[Stroke 21]] (14 characters)
 22. [[Stroke 22]] (11 characters)
 23. [[Stroke 23]] (7 characters) 
-24. [[Stroke 24]] (4 characters) 
+24. [[Stroke 24]] (7 characters) 
 25. [[Stroke 25]] (5 characters) 
 26. [[Stroke 26]] (1 character) 
 27. [[Stroke 27]] (2 characters) 
