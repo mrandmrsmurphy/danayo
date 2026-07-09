@@ -29,6 +29,8 @@ tags:
 - <ruby>[人山人海](/chengyu/人山人海.md)<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> - a sea of people
 - <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
 - <ruby>[舎本逐末](chengyu/舎本逐末.md)<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> - neglecting the fundamentals while chasing the trivial
+- <ruby>[五風十雨](chengyu/五風十雨.md)<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> - favorable climate leading to prosperity
+- <ruby>[国士無双](chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍ⺢ㄫ</rt></ruby> - exceptional gentleman
 
 
 ## Base check

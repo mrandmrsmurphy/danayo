@@ -45,6 +45,9 @@ boundedness: 90
 - <ruby>[[雨包]]<rt>ㄨㄅ⼘ㄨ</rt></ruby> "hail"
 - <ruby>[[驟雨]]<rt>ㄙㄚㄨ·ㄨ</rt></ruby> "sudden rain shower; downpour"
 
+## Chengyu
+- <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
+
 ## Notes
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 虞]]

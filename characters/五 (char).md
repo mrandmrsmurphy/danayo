@@ -70,6 +70,8 @@ boundedness: 75
 * <ruby>[[五指]]<rt>·ㄛㄐㄨㄛ</rt></ruby> - the five fingers/top five
 * <ruby>[[五官]]<rt>·ㄛㄍㄨㄚㄋ</rt></ruby> - The Five Sense-Organs
 * <ruby>[[words/四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> - rounding
+## Chengyu
+- <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 疑]]

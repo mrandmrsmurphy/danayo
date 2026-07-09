@@ -52,3 +52,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 江]]
 - [[双節棍]] "nunchucks"
 - <ruby>[[双子]]<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby> "twins"
+
+## Chengyu
+- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"

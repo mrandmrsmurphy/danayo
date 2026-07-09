@@ -77,8 +77,7 @@ boundedness: 75
 - [[九十]] - 90
 ## Chengyu
 - [[十人不滅]] - (Biblical) "For ten I will not destroy"
-- [[五風十雨]] - "favorable climate for prosperity"
-- 
+- <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 禪]]

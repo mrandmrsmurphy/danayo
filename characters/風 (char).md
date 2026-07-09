@@ -54,3 +54,4 @@ boundedness: 90
 - [[風潮]] "tempest"
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
+- <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"

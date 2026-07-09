@@ -52,6 +52,7 @@ boundedness: 80
 - [[無為而治]]
 - [[孤立無援]]
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
+- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"
 
 ## Words
 - <ruby>[[無我]]<rt>ㄇㄜㄚ</rt></ruby> "non-self, anattā"
