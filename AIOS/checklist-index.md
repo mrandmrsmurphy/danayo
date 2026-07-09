@@ -1,6 +1,6 @@
 # Checklist Index
 
-Completion rubrics for each content type in the vault — the "date-last-perfect" spec for what a fully correct page of that kind looks like. Formerly the vault's "BP" (best practice) pages; moved here because their actual audience is Claude checking pages against them, not a human browsing Obsidian — nothing in the vault's content (templates, nav files, character/word/chengyu pages) ever linked to them. Read the relevant checklist in full before perfecting or auditing that kind of page.
+Completion rubrics for each content type in the vault — the "date-last-perfect" spec for what a fully correct page of that kind looks like. Formerly the vault's "BP" (best practice) pages; moved here because their actual audience is AI checking pages against them, not a human browsing Obsidian — nothing in the vault's content (templates, nav files, character/word/chengyu pages) ever linked to them. Read the relevant checklist in full before perfecting or auditing that kind of page.
 
 Distinct from `AIOS/skills/` (how to *create* something) — checklists are how to judge whether something that already exists is *complete*.
 
