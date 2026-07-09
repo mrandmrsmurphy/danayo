@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 104
+size: 105
 radical: 心
 tags: [lookup]
 
@@ -137,21 +137,22 @@ tags: [lookup]
 98. <ruby>[懐](../../characters/懐%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - miss
 
 99. <ruby>[憑](../../characters/憑%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - rely on
+100. <ruby>[懍](../../characters/懍.md)<rt>ㄌㄜㄇ</rt></ruby> - fear
 
 ### +13 Strokes
-100. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere
+101. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere
 
 ### +14 Strokes
-101. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish
+102. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish
 
 ### +15 Strokes
-102. <ruby>[懶](../../characters/懶.md)<rt>ㄌㄚㄋ</rt></ruby> - lazy
+103. <ruby>[懶](../../characters/懶.md)<rt>ㄌㄚㄋ</rt></ruby> - lazy
 
 ### +16 Strokes
-103. <ruby>[懸](../../characters/懸%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - hang
+104. <ruby>[懸](../../characters/懸%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - hang
 
 ### +18 Strokes
-104. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
+105. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
 
 ## Data check
 ```dataview
