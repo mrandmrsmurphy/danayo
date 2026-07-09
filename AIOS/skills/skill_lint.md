@@ -6,7 +6,7 @@ type: skill
 
 # Skill: Lint
 
-The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, `lint Radicals`, and later `lint Stroke`, `lint Syllables`, etc. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
+The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, `lint Radicals`, `lint Syllables`, and later `lint Stroke`, etc. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
 
 ## General shape of a lint pass
 
@@ -105,3 +105,40 @@ Checked last. For each of the 214 stroke-grouped entries:
 ### 4. Report
 
 Counts of: character pages missing `radical:` entirely (flag prominently — these are corpus gaps, not lookup-page bugs), leaves fixed, dates stamped, and any characters found linked from the wrong radical page. Separately note the running total of character pages still missing the reciprocal `radical`-page backlink, without treating it as a blocker.
+
+## `lint Syllables`
+
+Rubric: [[AIOS/checklists/checklist_syllables.md]] — read it in full before running this; the summary below assumes it.
+
+### 0. Scope
+
+`syllables/` is 895 files, one per Bopomofo syllable code, plus one top-level `syllables/Syllables.md` (a hand-written phonology-table + series-listing overview, not a generated index). Like Radicals, there's no index/leaf split — each syllable file is simultaneously the ground-truth target and the only page between a character and the overview.
+
+### 1. Build ground truth
+
+```bash
+grep -h "^注音:" characters/*.md
+```
+normalized into a map of `注音 → [character files]`. This, not the syllable page's current content (often a leftover `dataviewjs` placeholder), is ground truth for which characters belong on each page. Pull `grade_level` and `stand_in` from each matched character's frontmatter at the same time:
+- `grade_level` drives categorization — `1`-`6` is **Common**, `先進` is **Advanced**, `名` is **Naming**.
+- `stand_in` compared against the character's own filename (minus the ` (char)` suffix, if present) determines stand-alone (word exists at that name) vs. bound (needs a `but requires` compound clause) vs. naming-restricted (`但它's a 名専字`).
+
+### 2. Leaf files (`syllables/X.md`)
+
+For every `注音` code in the ground-truth map:
+- **Frontmatter**: `羅馬字`, `諺文`, `注音` match the filename and each other; `english` has exactly one entry per stand-alone character (primary meaning only — not every meaning), or `ø` if there is no stand-alone; `size` equals the total Common+Advanced+Naming entry count.
+- **Intro block**: three-script line `**注音/諺文/羅馬字**` stating the meaning(s), citing the stand-alone(s) in parentheses, joined with "or" if there are multiple; `"has no intrinsic meaning"` if there's no stand-alone at all; an audio line only if a file already exists under `/images/` — never leave a broken link to source one.
+- **Characters section**: replace any leftover `dataviewjs` block entirely with the hand-curated list, split into `### Common` / `### Advanced` / `### Naming`. Every character in the ground-truth map for this code has exactly one numbered entry in the correct subsection, and vice versa (catches both omissions and stale/misfiled entries).
+  - Stand-alone: char-link, quoted meaning, `-->` word-link.
+  - Bound: `"but requires"` + ruby-annotated compound link — verify the compound word file actually exists under `words/` before citing it; don't take the old page's word on faith.
+  - Naming-restricted: `"but it's a 名専字"`.
+- **Data check block**: `dataview` query filtered on `注音` matching frontmatter exactly, sorted `grade_level ASC`.
+- Fix what's wrong, then stamp `date-last-perfect` to today.
+
+### 3. Top-level `Syllables.md`
+
+Checked last, and lightly — it's a hand-authored phonology table plus per-series link lists (`## A vowels` / `### ㄚ series` etc.), not a mechanical index, so don't try to regenerate it wholesale each pass. For any syllable code touched in this batch: confirm it appears as a real link (not bare text) if the leaf page exists, and stays bare/unlinked only for codes that are legitimately unattested (not just missing a page). Flag broader drift here for a dedicated pass rather than fixing it inline.
+
+### 4. Report
+
+Per batch: counts of leaves fixed / dates stamped, plus a short list of judgment calls for the user — ambiguous stand-alone determination, a `but requires` compound that turned out not to exist as a word, or an unclear `grade_level` categorization.
