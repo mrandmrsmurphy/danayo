@@ -54,3 +54,4 @@ boundedness:
 ## Words
 - <ruby>[[汚吏]]<rt>ㄛㄌㄧ</rt></ruby> "corrupt official"
 - <ruby>[[污垢]]<rt>ㄛㄍㄛㄨ</rt></ruby> "dirt, grime, filth" (alias: 汙垢)
+- <ruby>[[汚穢]]<rt>ㄛ·ㄝ</rt></ruby> "filthy, filth"

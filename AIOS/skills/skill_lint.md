@@ -6,7 +6,7 @@ type: skill
 
 # Skill: Lint
 
-The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, `lint Radicals`, `lint Syllables`, and later `lint Stroke`, etc. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
+The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, `lint Radicals`, `lint Syllables`, `lint Chengyu`, and later `lint Stroke`, etc. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
 
 ## General shape of a lint pass
 
@@ -157,3 +157,44 @@ Checked last, and lightly — it's a hand-authored phonology table plus per-seri
 ### 4. Report
 
 Per batch: counts of leaves fixed / dates stamped, plus a short list of judgment calls for the user — ambiguous stand-alone determination, a `but requires` compound that turned out not to exist as a word, or an unclear `grade_level` categorization.
+
+## `lint Chengyu`
+
+Rubric: [[AIOS/checklists/checklist_chengyu.md]] — read it in full before running this; the summary below assumes it.
+
+**This content type is structurally different from SKIP/Radicals/Syllables, and the procedure below is a first draft, not yet battle-tested by a live batch the way `lint Syllables` was — expect to harden it the same way (dispatch a small wave, fold in what forks find, repeat) rather than trusting it as final.**
+
+### 0. Scope, and why this one is different
+
+`chengyu/` is 229 files: 226 individual idiom pages (one per four-character chengyu) plus exactly 3 grouping/index files (`Misc. Chengyu.md`, `Dan'a'yo Chengyu.md`, `Biblical Chengyu.md`) plus one live query file (`All Chengyu Base.base`, not a lint target). Two things break the pattern established by the other three `lint` types:
+
+- **Every leaf already carries some `date-last-perfect` stamp** — dates range from 2026-01-31 to 2026-07-02, and unlike syllables there's no large cluster of never-touched pages. "Oldest first" won't reliably surface the worst pages here; an old stamp can mask real defects just as easily as a recent one (confirmed by direct sampling — see below), so don't skip auditing a page just because its date isn't the oldest in the batch.
+- **Each chengyu page is a genuine encyclopedic article**, not a mechanically-derivable index entry. There is no `characters/*.md` frontmatter field to grep for ground truth the way `注音` or `radical` served syllables/radicals — the chengyu's own existence and its own `origin` field *are* the ground truth. This means batches need to be smaller than the syllables pattern (this procedure suggests ~5 files per fork, not ~10) and forks need to actually read and evaluate prose depth, not just mechanically diff fields.
+
+Sampling the two oldest-stamped pages (`一刀両断`, `鶏鳴狗盗`, both 2026-01-31) against a clearly gold-standard recent page (`創反救成`, 2026-07-01) and a clearly weak older page (`愛隣如自`, 2026-02-04) surfaced a consistent, recurring defect class: **most pages use `###` for every body section instead of the checklist's required `##`**, and several use non-canonical section names with trailing colons (`### Pronunciation:`, `### Source:`, `### Examples:`) instead of the checklist's exact canonical names (`## Pronunciations`, `## Source and Origin`, `## Example Sentences`). Treat `創反救成` as the reference example of what "done" actually looks like — canonical `##` section names throughout, real blockquoted classical citations with translations, character-breakdown bullets under their own `## Literal Meaning` heading.
+
+### 1. Build ground truth — two different directions
+
+Unlike the other lint types, this one needs ground truth built in **two separate directions**, for two separate checks:
+
+- **Grouping-file membership**: for each chengyu, its own `origin` frontmatter field determines which grouping file it must appear on — `単亜語` → `Dan'a'yo Chengyu.md`, `Bible` → `Biblical Chengyu.md`, anything else → `Misc. Chengyu.md`. Build this by grepping `origin:` across all of `chengyu/*.md` (excluding the 3 grouping files themselves).
+- **Character backlinks**: for each chengyu, its `characters:` frontmatter list names every constituent character, each of which must carry a `## Chengyu` entry linking back to this chengyu. Build this as a `character → [chengyu using it]` reverse-index by grepping the `characters:` block across all chengyu files. This was confirmed broken in practice on the very first two files sampled: `一刀両断` uses 断 and 刀, but neither `characters/断.md` nor `characters/刀.md` lists `一刀両断` in its own `## Chengyu` section (both are missing entirely) — treat this as a routine, expected-to-recur defect, not an edge case.
+
+### 2. Leaf files (`chengyu/X.md`)
+
+For each chengyu page, check against all 8 `date-last-perfect` criteria from the checklist directly (don't take an existing stamp as evidence any of these already hold):
+
+- **Frontmatter**: all required fields present, especially `origin` (drives category membership — a blank origin makes the chengyu invisible to its grouping file) and `aliases` (should include simplified/traditional/Japanese-shinjitai variants where they exist; found genuinely absent — not just blank — on at least one older page, `愛隣如自`).
+- **Body opening**: `meta-bind-embed` block is the literal first thing after frontmatter — nothing before it. The category link immediately follows, using the markdown-link form the checklist shows (`[Misc. Chengyu](chengyu/Misc.%20Chengyu.md)` etc.), not a bare `[[wikilink]]` — found both forms in use across sampled pages, only the markdown-link form matches the checklist.
+- **Canonical sections, exact names, `##` level**: `## Literal Meaning` (character-by-character gloss bullets, each linked to its character file, plus a literal English rendering — not folded into unheaded prose), `## Extended Meaning`, `## Source and Origin` (cites a specific text/period/tradition and should quote it in the source language with translation where the text is quotable — cross-check that this section actually engages with what the `origin` field claims; found one page whose `origin` cited a specific essay by name that the body's Source section never mentioned at all), `## Standard Form` (omit only if genuinely no orthographic variants exist), `## Pronunciations` (all 5 CJKV languages, consistently labeled), `## Cultural Notes`, `## Example Sentences` (≥2), `## Sentiment`. Use `##` throughout — `###` is the single most common defect found so far and should be assumed present until checked, not treated as a rare edge case.
+- **Pronunciations in both places**: the 5 CJKV readings must be correct and present in frontmatter *and* restated in the body `## Pronunciations` section — a page with only one or the other is incomplete.
+- **Character backlinks**: every character in this chengyu's `characters:` list has a `## Chengyu` entry on its own character page, ruby-annotated with this chengyu's full `注音` byte-for-byte (same exactness standard as `lint Syllables`' ruby check) and the `english` frontmatter value as the quoted gloss.
+- Fix what's wrong, then stamp `date-last-perfect` to today — only once the page genuinely satisfies all 8 criteria, not because an old stamp was already present.
+
+### 3. Grouping files (`Misc. Chengyu.md`, `Dan'a'yo Chengyu.md`, `Biblical Chengyu.md`)
+
+Checked last, same index/leaf relationship as `Radicals.md`: every chengyu whose `origin` maps to this file appears as a ruby-annotated link, and nothing appears that doesn't belong (a stale or duplicate entry is a defect, not just an omission). `Biblical Chengyu.md` in particular was sampled and found rougher than the other two — mixed `[[wikilink]]`/markdown-link styles, a mix of absolute (`/chengyu/X.md`) and relative (`chengyu/X.md`) paths, several entries with no ruby at all, a `✅` suffix on some entries and not others — confirmed by the user (2026-07-09) to be a personal creation-tracking mark, now meaningless; strip it wherever found, it's not a vault convention — and a literal duplicate entry (`愛隣如自` listed twice). `Dan'a'yo Chengyu.md` was found with a malformed doubled `</ruby></ruby>` closing tag on one entry — treat as the same fence/link-hygiene bug class as the other lint types. Each grouping file's `## Base check` block should use the `.base` filter syntax already present (matching `file.folder == "chengyu"` plus the correct `origin` filter) — verify it matches the file's own classification rather than assuming it's already correct.
+
+### 4. Report
+
+Per batch: counts of leaves fixed / dates stamped, plus a list of judgment calls — an `origin` that's ambiguous between grouping files, a Source and Origin section that can't find a real quotable citation (some idioms genuinely aren't traceable to a single text), or a variant-form question (is this a `## Standard Form` note or a fuller `## Variants` section). Because this procedure is unvalidated by a live batch so far, also explicitly ask each fork to flag anything the written procedure got wrong or didn't anticipate, the same way early `lint Syllables` waves did — expect this section to need real revision after the first run.

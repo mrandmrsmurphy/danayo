@@ -3,39 +3,38 @@ tags:
   - chengyu
 ---
 
-Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation ✅
+Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation
 
-- [[指記二碑]] - the two tables of the law ✅
+- [[指記二碑]] - the two tables of the law
 - <ruby>[上下無偶](/chengyu/上下無偶.md)<rt>ㄙ⼘ㄫㄏㄚㄇㄨ·ㄛㄊ</rt></ruby> - above and below no idols
-- [[愛主耳錐]] - love master?  ear awl ✅
-- [[瑠璃清天]] - lapis lazuli, like heaven for clearness ✅
-- [[血誓盟約]] - the blood of the covenant ✅
-- [[心性意力]] - heart soul mind and strength ✅
+- [[愛主耳錐]] - love master?  ear awl
+- [[瑠璃清天]] - lapis lazuli, like heaven for clearness
+- [[血誓盟約]] - the blood of the covenant
+- [[心性意力]] - heart soul mind and strength
 - [[愛隣如自]] - love your neighbor as yourself
-- [[数数衡分]] - mene, mene, tekel, upharsim ✅
-- [[帰塵帰土]] - ashes to ashes, dust to dust ✅
+- [[数数衡分]] - mene, mene, tekel, upharsim
+- [[帰塵帰土]] - ashes to ashes, dust to dust
 - [[汗食帰泥]] - by the sweat of your brow
-- [[腹行食塵]] - crawl belly eat dust ✅
+- [[腹行食塵]] - crawl belly eat dust
 - [[破頭傷足]] - smash head hurt foot
-- [[家分不立]] - a house divided against itself cannot stand ✅
-- [[豹斑改乎]] - Can a leopard change his spots? ✅
-- [[財愛悪根]] - The love of money is the root of evil ✅ 
-- [[剣生剣死]] - Live by the sword, die by the sword ✅
-- [[骨肉相連]] - Bone of my bone and flesh of my flesh ✅
-- [[金銀銅鉄]] - gold, silver, copper, iron ✅
-- [[石山盈界]] - stone mountain fills the earth ✅
-- [[事事皆旧]] - there is nothing new under the sun ✅
-- [[乳蜜流地]] - a land flowing with milk and honey ✅
-- [[六作一止]] - six days of labor, one of rest ✅
-- [[殺姦窃偽]] - murder, adultery, theft, lying ✅
-- [[荊棘荻蓬]] - thorns and thistles ✅
-- [[愛隣如自]] - love your neighbor as yourself ✅
-- [[多召少選]] - many are called, few are chosen ✅
-- [[生机勃勃]] - resurrection life ✅
-- [[飲食歓楽]] - eat, drink, and be merry ✅
-- [[加哀痛産]] - add sorrow to painful labor ✅
-- [[道活墨殺]] - Letter kills, Spirit life ✅
-- [[勿妄称名]] - Don't take the Name in vain ✅
+- [[家分不立]] - a house divided against itself cannot stand
+- [[豹斑改乎]] - Can a leopard change his spots?
+- [[財愛悪根]] - The love of money is the root of evil
+- [[剣生剣死]] - Live by the sword, die by the sword
+- [[骨肉相連]] - Bone of my bone and flesh of my flesh
+- [[金銀銅鉄]] - gold, silver, copper, iron
+- [[石山盈界]] - stone mountain fills the earth
+- [[事事皆旧]] - there is nothing new under the sun
+- [[乳蜜流地]] - a land flowing with milk and honey
+- [[六作一止]] - six days of labor, one of rest
+- [[殺姦窃偽]] - murder, adultery, theft, lying
+- [[荊棘荻蓬]] - thorns and thistles
+- [[多召少選]] - many are called, few are chosen
+- [[生机勃勃]] - resurrection life
+- [[飲食歓楽]] - eat, drink, and be merry
+- [[加哀痛産]] - add sorrow to painful labor
+- [[道活墨殺]] - Letter kills, Spirit life
+- [[勿妄称名]] - Don't take the Name in vain
 
 ## Base check
 ```base
