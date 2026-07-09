@@ -1,19 +1,21 @@
 ---
 stroke_count: 29
-date-last-perfect: 2026-02-23
+date-last-perfect: 2026-07-09
 size: 1
 tags: [lookup]
-
 ---
 > [[Stroke]]
 
-- <ruby>[[鸛]]<rt>ㄍ⺢ㄋ</rt></ruby> - stork
+## Characters
+### In Use
+- 1-11-18: <ruby>[[鸛]]<rt>ㄍ⺢ㄋ</rt></ruby>
 
-That's it!
+### Aliases
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
+TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "29" OR stroke_count = 29
-SORT file.name ASC
+SORT skip_number ASC
+```

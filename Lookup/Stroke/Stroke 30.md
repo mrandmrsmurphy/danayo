@@ -1,13 +1,15 @@
 ---
 size: 0
 stroke_count: 30
-date-last-perfect: 2026-04-05
+date-last-perfect: 2026-07-09
 tags: [lookup]
-
 ---
 > [[Stroke]]
 
-## Redirects 
+## Characters
+### In Use
+
+### Aliases
 - 鸞 --> 鵉
 - 䆐 --> 国
 - 䶑 --> 啼
@@ -15,7 +17,8 @@ tags: [lookup]
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
+TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "30" OR stroke_count = 30
-SORT file.name ASC
+SORT skip_number ASC
+```

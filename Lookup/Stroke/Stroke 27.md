@@ -1,22 +1,22 @@
 ---
 stroke_count: 27
-date-last-perfect: 2026-02-23
+date-last-perfect: 2026-07-09
 size: 2
 tags: [lookup]
-
 ---
 > [[Stroke]]
 
-## Gold
-- <ruby>[[鑽]]<rt>ㄐㄚㄋ</rt></ruby> - auger
-- <ruby>[[鑼]]<rt>ㄌㄚ</rt></ruby> - gong
+## Characters
+### In Use
+- 1-8-19: <ruby>[[鑽]]<rt>ㄐㄚㄋ</rt></ruby>, <ruby>[[鑼]]<rt>ㄌㄚ</rt></ruby>
 
-## Fish
+### Aliases
 - 鱸 --> 盧
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
+TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "27" OR stroke_count = 27
-SORT file.name ASC
+SORT skip_number ASC
+```

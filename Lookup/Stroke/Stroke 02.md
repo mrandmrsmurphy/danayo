@@ -1,44 +1,30 @@
 ---
-date-last-perfect: 2026-02-22
+date-last-perfect: 2026-07-09
 size: 16
 stroke_count: 2
 tags: [lookup]
-
 ---
-> [Stroke](lookup/Stroke/Stroke.md)
+> [[Stroke]]
 
 ## Characters
 ### In Use
-#### 1-1-1
-1. <ruby>[八](characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight (1-1-1)
-#### 2-1-1
-2. <ruby>[二](characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two (2-1-1)
-#### 3-1-1
-3. <ruby>[乃](characters/乃%20(char).md)<rt>ㄋㄚㄧ</rt></ruby> - but (3-1-1)
-4. <ruby>[匕](characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - spoon (3-1-1)
-5. <ruby>[刀](characters/刀.md)<rt>ㄊㄚㄨ</rt></ruby> - blade (3-1-1)
-#### 4-2-1
-6. <ruby>[丁](characters/丁%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - fourthly
-7. <ruby>[又](../../characters/又%20(char).md)<rt>ㄨㄛ</rt></ruby> - or again
-8. <ruby>[了](words/了.md)<rt>ㄌ⼘ㄨ</rt></ruby> - "over"
-#### 4-2-2
-9. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven
-#### 4-2-3
-10. <ruby>[十 (char)](../../characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten
-#### 4-2-4
-11. <ruby>[乂](characters/乂.md)<rt>⼘ㄧ</rt></ruby> - govern
-12. <ruby>[九](characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - nine
-13. <ruby>[人](../../characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
-14. <ruby>[入](../../characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
-15. <ruby>[力](../../characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power
-16. <ruby>[卜](../../characters/卜.md)<rt>ㄅㄛㄎ</rt></ruby> - prophecy
+- 1-1-1: <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby>
+- 2-1-1: <ruby>[[二 (char)|二]]<rt>ㄋㄧㄜ</rt></ruby>
+- 3-1-1: <ruby>[[乃 (char)|乃]]<rt>ㄋㄚㄧ</rt></ruby>, <ruby>[[匕]]<rt>ㄆㄧㄜ</rt></ruby>, <ruby>[[刀]]<rt>ㄊㄚㄨ</rt></ruby>
+- 4-2-1: <ruby>[[丁 (char)|丁]]<rt>ㄉㄝㄫ</rt></ruby>, <ruby>[[了 (char)|了]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[又 (char)|又]]<rt>ㄨㄛ</rt></ruby>
+- 4-2-2: <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby>
+- 4-2-3: <ruby>[[十 (char)|十]]<rt>ㄙㄧㄆ</rt></ruby>
+- 4-2-4: <ruby>[[乂]]<rt>⼘ㄧ</rt></ruby>, <ruby>[[九 (char)|九]]<rt>ㄎ⼜</rt></ruby>, <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby>, <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>, <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby>, <ruby>[[卜]]<rt>ㄅㄛㄎ</rt></ruby>
+
 ### Aliases
+
 ### Forbidden
 - 乜 - Cantonese/dialects only
 
 ## Data check
 ```dataview
-TABLE stroke_count AS "Stroke", skip_number AS "SKIP", english AS "en", 注音 as "注音"
+TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "2" OR stroke_count = 2
 SORT skip_number ASC
+```

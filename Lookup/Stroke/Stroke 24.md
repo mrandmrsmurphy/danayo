@@ -1,21 +1,27 @@
 ---
-size: 4
+size: 7
 stroke_count: 24
-date-last-perfect: 2026-02-23
+date-last-perfect: 2026-07-09
 tags: [lookup]
-
 ---
 > [[Stroke]]
 
-- <ruby>[[熊]]<rt>ㄨㄫ</rt></ruby> - bear
-- <ruby>[[靄]]<rt>ㄚㄧ</rt></ruby> - cloudy
+## Characters
+### In Use
+- 1-3-21: <ruby>[[衢]]<rt>ㄍㄨ</rt></ruby>
+- 1-10-14: <ruby>[[驟]]<rt>ㄙㄚㄨ</rt></ruby>
+- 1-11-13: <ruby>[[麟]]<rt>ㄌㄧㄋ</rt></ruby>
+- 2-8-16: <ruby>[[靄]]<rt>ㄚㄧ</rt></ruby>, <ruby>[[鑫]]<rt>ㄏㄜㄇ</rt></ruby>
+- 2-10-14: <ruby>[[熊 (char)|熊]]<rt>ㄨㄫ</rt></ruby>
+- 3-3-21: <ruby>[[鷹 (char)|鷹]]<rt>ㄧㄫ</rt></ruby>
+
+### Aliases
 - 鱧 --> 豊
-- <ruby>[[鷹 (char)]]<rt>ㄧㄫ</rt></ruby> - hawk
-- <ruby>[[麟]]<rt>ㄌㄧㄋ</rt></ruby> - female unicorn
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", stroke_count AS "Stroke", skip_number AS "SKIP"
+TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"
 FROM "characters"
 WHERE stroke_count = "24" OR stroke_count = 24
-SORT file.name ASC
+SORT skip_number ASC
+```

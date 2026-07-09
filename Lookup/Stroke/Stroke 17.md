@@ -1,7 +1,7 @@
 ---
 stroke_count: 17
-date-last-perfect: 2026-04-28
-size: 102
+date-last-perfect: 2026-07-09
+size: 104
 tags:
   - lookup
 ---
@@ -10,9 +10,10 @@ tags:
 ## Characters
 ### In Use
 - 1-2-15: <ruby>[[儲]]<rt>ㄐㄛ</rt></ruby>, <ruby>[[優]]<rt>ㄨㄛ</rt></ruby>, <ruby>[[儡]]<rt>ㄌㄛㄧ</rt></ruby>, <ruby>[[償]]<rt>ㄙ⼘ㄫ</rt></ruby>, <ruby>[[儧]]<rt>ㄐ⺢ㄋ</rt></ruby>
+- 1-3-13: <ruby>[[屿]]<rt>ㄙ⼄</rt></ruby>
 - 1-3-14: <ruby>[[擱]]<rt>ㄍㄚㄎ</rt></ruby>, <ruby>[[鴻]]<rt>ㄏㄛㄫ</rt></ruby>, <ruby>[[擦 (char)|擦]]<rt>ㄑㄚㄊ</rt></ruby>, <ruby>[[擬 (char)|擬]]<rt>ㄧ</rt></ruby>, <ruby>[[嚇 (char)|嚇]]<rt>ㄏㄚㄎ</rt></ruby>, <ruby>[[擢]]<rt>ㄐㄛㄎ</rt></ruby>, <ruby>[[濯]]<rt>ㄉㄚㄎ</rt></ruby>, <ruby>[[徽]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[擡]]<rt>ㄉㄚㄧ</rt></ruby>
 - 1-4-13: <ruby>[[櫛 (char)|櫛]]<rt>ㄐㄜㄊ</rt></ruby>, <ruby>[[燦]]<rt>ㄑㄚㄋ</rt></ruby>, <ruby>[[燭]]<rt>ㄑㄛㄎ</rt></ruby>, <ruby>[[牆]]<rt>ㄑ⺢ㄫ</rt></ruby>, <ruby>[[環 (char)|環]]<rt>ㄏ⺢ㄋ</rt></ruby>, <ruby>[[曖]]<rt>ㄚㄧ</rt></ruby>, <ruby>[[檀]]<rt>ㄉㄚㄋ</rt></ruby>, <ruby>[[臆]]<rt>ㄧㄎ</rt></ruby>, <ruby>[[膿 (char)|膿]]<rt>ㄋㄛㄫ</rt></ruby>, <ruby>[[犠]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[燥]]<rt>ㄙㄚㄨ</rt></ruby>
-- 1-5-12: <ruby>[[瞭]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[礁]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[襖]]<rt>ㄚㄨ</rt></ruby>, <ruby>[[磯]]<rt>ㄍㄧㄜ</rt></ruby>, <ruby>[[矯]]<rt>ㄍ⼘ㄨ</rt></ruby>, <ruby>[[瞳]]<rt>ㄉㄛㄫ</rt></ruby>
+- 1-5-12: <ruby>[[瞭]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[礁]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[襖]]<rt>ㄚㄨ</rt></ruby>, <ruby>[[磯]]<rt>ㄍㄧㄜ</rt></ruby>, <ruby>[[矯]]<rt>ㄍ⼘ㄨ</rt></ruby>, <ruby>[[瞳]]<rt>ㄉㄛㄫ</rt></ruby>, <ruby>[[瞬]]<rt>ㄙ⼜ㄋ</rt></ruby>, <ruby>[[瞰]]<rt>ㄎㄚㄇ</rt></ruby>
 - 1-6-11: <ruby>[[螳]]<rt>ㄉㄚㄫ</rt></ruby>, <ruby>[[縮 (char)|縮]]<rt>ㄙㄨㄎ</rt></ruby>, <ruby>[[聴 (char)|聴]]<rt>ㄑㄝㄫ</rt></ruby>, <ruby>[[糟]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[繍]]<rt>ㄙ⼜</rt></ruby>, <ruby>[[績]]<rt>ㄐㄝㄎ</rt></ruby>, <ruby>[[糠]]<rt>ㄎㄚㄫ</rt></ruby>, <ruby>[[螺]]<rt>ㄌㄚ</rt></ruby>, <ruby>[[繃]]<rt>ㄅㄚㄫ</rt></ruby>
 - 1-7-10: <ruby>[[謎 (char)|謎]]<rt>ㄇㄝㄧ</rt></ruby>, <ruby>[[講]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[轄 (char)|轄]]<rt>ㄏㄚㄊ</rt></ruby>, <ruby>[[謐]]<rt>ㄇㄧㄊ</rt></ruby>, <ruby>[[購]]<rt>ㄍㄛㄨ</rt></ruby>, <ruby>[[醜]]<rt>ㄑㄨㄛ</rt></ruby>, <ruby>[[謗]]<rt>ㄆㄚㄫ</rt></ruby>, <ruby>[[謡]]<rt>⼄ㄨ</rt></ruby>, <ruby>[[謄]]<rt>ㄉㄜㄫ</rt></ruby>, <ruby>[[謝]]<rt>ㄙ⼘</rt></ruby>, <ruby>[[謙]]<rt>ㄎㄝㄇ</rt></ruby>
 - 1-8-9: <ruby>[[鍍]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[鍋 (char)|鍋]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[顆]]<rt>ㄎ⺢</rt></ruby>, <ruby>[[鍛]]<rt>ㄉ⺢ㄋ</rt></ruby>, <ruby>[[鍬 (char)|鍬]]<rt>ㄑㄚㄨ</rt></ruby>, <ruby>[[鍵 (char)|鍵]]<rt>ㄍ⼶ㄋ</rt></ruby>, <ruby>[[鍾 (char)|鍾]]<rt>ㄐㄛㄫ</rt></ruby>
