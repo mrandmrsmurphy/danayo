@@ -57,5 +57,9 @@ boundedness: 90
 ## Words
 - [[両親]] - parents
 - <ruby>[[伎倆]]<rt>ㄍㄝㄌ⼘ㄫ</rt></ruby>
+
+## Chengyu
+- <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"
+- <ruby>[[魑魅罔両]]<rt>ㄑㄧㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> "all the demons"
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 陽開]]

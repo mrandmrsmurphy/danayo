@@ -64,3 +64,4 @@ boundedness: 90
 - [[誠心誠意]]
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
 - [[邪心常悪]]
+- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫ·ㄧㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"

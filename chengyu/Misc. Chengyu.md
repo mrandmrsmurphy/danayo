@@ -31,6 +31,9 @@ tags:
 - <ruby>[舎本逐末](chengyu/舎本逐末.md)<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> - neglecting the fundamentals while chasing the trivial
 - <ruby>[五風十雨](chengyu/五風十雨.md)<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> - favorable climate leading to prosperity
 - <ruby>[国士無双](chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍ⺢ㄫ</rt></ruby> - exceptional gentleman
+- <ruby>[開天辟地](chengyu/開天辟地.md)<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> - Open Heaven, Crack the Earth
+- <ruby>[戦戦恐恐](chengyu/戦戦恐恐.md)<rt>ㄐㄝㄋㄐㄝㄋㄎㄛㄫㄎㄛㄫ</rt></ruby> - fear and trembling; extreme trepidation
+- <ruby>[跳梁跋扈](chengyu/跳梁跋扈.md)<rt>ㄊㄛㄨㄌ⼘ㄫㄅㄚㄊㄏㄛ</rt></ruby> - running rampant; domineering and lawless
 
 
 ## Base check

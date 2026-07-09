@@ -80,6 +80,6 @@ boundedness: 80
 - <ruby>[[中世]]<rt>ㄐㄨㄫㄙㄝ</rt></ruby> "Middle Ages"
 
 ## Chengyu
-- <ruby>[空中楼閣](/chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - Castle in the Sky
+- <ruby>[[空中楼閣]]<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> "Castle in the sky"
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 東三]]

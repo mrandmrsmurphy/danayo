@@ -60,4 +60,4 @@ boundedness: 90
 - <ruby>[実力](/words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby> "strength"
 - <ruby>[[能力]]<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby> "ability; capability"
 ## Chengyu
-- [[心性意力]] - "heart, soul, mind, and strength"
+- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫ·ㄧㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"

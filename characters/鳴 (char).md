@@ -45,3 +45,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 庚三開]]
+
+## Chengyu
+- <ruby>[[鶏鳴狗盗]]<rt>ㄍㄝㄧㄇ⼶ㄫㄍㄛㄨㄉㄚㄨ</rt></ruby> "despicable people resort to petty tricks"

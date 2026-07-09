@@ -48,6 +48,7 @@ boundedness: 90
 - [[塩地光世]]
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
+- <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
 ## Words
 - <ruby>[[地境]]<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby> "border; territorial boundary"
 - [[地図]] - map

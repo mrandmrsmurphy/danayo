@@ -51,6 +51,7 @@ boundedness: 100
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> “unprecedented and unrepeatable; without parallel before or after”
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> “form is precisely emptiness”
+- <ruby>[[空中楼閣]]<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> "Castle in the sky"
 ## Words
 - [[空前]] “unprecedented, as never before”
 - [[空手]] “be empty handed, be unarmed”

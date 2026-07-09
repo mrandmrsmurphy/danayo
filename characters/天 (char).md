@@ -64,7 +64,7 @@ boundedness: 80
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
 - [[天真乱漫]] "simple and artless"
 - [[海闊天空]] "as boundless as the sky and sea; free and unrestrained"
-- [[開天辟地]] "to open Heaven and cleave the Earth; an epoch-making event"
+- <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
 - [[孝親天賜]] "honor your parents, that heaven may bless you"
 
 ## Words
