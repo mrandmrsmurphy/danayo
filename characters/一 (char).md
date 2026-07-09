@@ -98,6 +98,7 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 - <ruby>[[千編一律]]<rt>ㄑㄝㄋㄅ⼶ㄋㄧㄊㄌㄨㄊ</rt></ruby> "monotonously uniform with no variation"
 - [[言行一致]]
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"
+- <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
 
 ## Links
 ![[nav/Numerals]]

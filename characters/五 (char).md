@@ -72,6 +72,7 @@ boundedness: 75
 * <ruby>[[words/四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> - rounding
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
+- <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 疑]]

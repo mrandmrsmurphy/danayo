@@ -48,3 +48,6 @@ boundedness: 90
 - [[柔軟]]
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Chengyu
+- <ruby>[[優柔不断]]<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> "indecisive; undetermined; shilly-shally"

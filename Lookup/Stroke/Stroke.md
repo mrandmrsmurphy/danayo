@@ -93,12 +93,16 @@ views:
       - size
       - stroke_count
       - date-last-perfect
+      - file.mtime
     sort:
+      - property: size
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
-      - property: size
-        direction: DESC
       - property: file.name
         direction: ASC
+    columnSize:
+      note.size: 83
+      note.stroke_count: 102
 
 ```

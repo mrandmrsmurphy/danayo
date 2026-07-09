@@ -66,5 +66,8 @@ boundedness: 50
 - <ruby>[[六楽]]<rt>ㄌㄨㄎㄌㄚㄎ</rt></ruby> "the Six Musics"
 - <ruby>[[六芸]]<rt>ㄌㄨㄎ·ㄝ</rt></ruby> "six arts"
 
+## Chengyu
+- <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"
+
 ### Links
 ![[nav/Numerals]]

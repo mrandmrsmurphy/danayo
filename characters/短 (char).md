@@ -47,5 +47,8 @@ boundedness: 90
 - <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
 
+## Chengyu
+- <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"
+
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 桓]]

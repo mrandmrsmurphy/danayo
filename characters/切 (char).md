@@ -49,3 +49,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 清]]
 [[Lookup/CC/finals/韻 屑開]]
+
+## Chengyu
+- <ruby>[[切磋琢磨]]<rt>ㄑㄝㄊㄑㄚㄊㄚㄎㄇㄚ</rt></ruby> "iron sharpens iron, friendly competition"
