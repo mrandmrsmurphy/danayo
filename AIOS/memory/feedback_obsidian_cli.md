@@ -6,7 +6,8 @@ type: feedback
 
 Use the `obsidian` CLI (at `/usr/local/bin/obsidian`) for property lookups, not `grep`. Always pass `vault=danayo`.
 
-- **All properties for a file**: `obsidian properties file="謄" vault=danayo` — returns full frontmatter, resolves by wikilink name (no path needed, handles `(char)` suffix automatically)
+- **All properties for a file**: `obsidian properties file="謄録" vault=danayo` — returns full frontmatter, resolves by wikilink name (no path needed).
+  - For character files with the `(char)` suffix, use the suffix explicitly when the bare name is ambiguous: `obsidian properties file="木 (char)" vault=danayo` returns the character file, while `file="木"` may return the word file.
 - **Single property**: `obsidian property:read name=注音 file="謄録" vault=danayo` — returns just the value, clean for word 注音 lookups
 - **Finding characters by 注音**: still use `grep` — `obsidian search` treats `:` as an operator and fails on property queries like `注音: ㄉㄝㄊ`
 

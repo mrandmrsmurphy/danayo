@@ -132,7 +132,7 @@ Set when:
 
 ## Common mistakes
 
-- **Plain wiki-links without ruby** — every `### In Use` entry must have `<ruby>...<rt>注音</rt></ruby>`; bare `[[Char]]` links or comma-separated plain text are incomplete.
+- **Plain links without ruby** — every `### In Use` entry must have `<ruby>...<rt>注音</rt></ruby>`; bare `[[Char]]`/`[Char](../characters/Char.md)` links or comma-separated plain text are incomplete.
 - **Adding glosses** — stroke pages do not include English glosses; ruby pronunciation only.
 - **SKIP codes out of order** — sort ascending: first digit first, then second, then third.
 - **One line per character instead of one line per SKIP code** — characters sharing a SKIP code belong on a single comma-separated line.
