@@ -46,3 +46,4 @@ boundedness: 70
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 嚴]]
 - [[欠伸]] "yawn and stretch"
+- <ruby>[[欠乏]]<rt>ㄎ⼘ㄇㄅㄚㄆ</rt></ruby> "to lack, deficiency"
