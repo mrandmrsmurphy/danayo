@@ -1,0 +1,756 @@
+/Users/robertmarshallmurphy/Documents/danayo/.tmp/audit_syllables_v3.py:94: DeprecationWarning: 'maxsplit' is passed as positional argument
+  before_heading = re.split(r'\n## ', body, 1)[0]
+Total syllable files audited: 894
+
+Perfect (744):
+  ⺢  dlp=2026-05-07  size=5
+  ⺢ㄆ  dlp=2026-05-17  size=1
+  ⺢ㄇ  dlp=2026-05-01  size=2
+  ⺢ㄊ  dlp=2026-04-30  size=2
+  ⺢ㄋ  dlp=2026-05-07  size=5
+  ⺢ㄨ  dlp=2026-06-07  size=1
+  ⺢ㄫ  dlp=2026-05-07  size=5
+  ⼄  dlp=2026-05-15  size=11
+  ⼄ㄆ  dlp=2026-06-07  size=1
+  ⼄ㄇ  dlp=2026-06-07  size=1
+  ⼄ㄋ  dlp=2026-06-09  size=1
+  ⼔  dlp=2026-04-15  size=1
+  ⼔ㄇ  dlp=2026-06-22  size=1
+  ⼔ㄊ  dlp=2026-06-03  size=4
+  ⼔ㄋ  dlp=2026-05-17  size=10
+  ⼔ㄧ  dlp=2026-06-09  size=6
+  ⼘  dlp=2026-05-18  size=7
+  ⼘ㄇ  dlp=2026-06-07  size=1
+  ⼘ㄋ  dlp=2026-05-15  size=1
+  ⼘ㄨ  dlp=2026-06-08  size=3
+  ... and 724 more
+
+Imperfect (150):
+
+  ⼘ㄧ
+    dlp=2026-03-29  size=4  listed=4  expected_chars=4
+    - missing characters: ['娃']
+    - extra/unexpected characters: ['娃娃']
+
+  ㄑㄧㄊ
+    dlp=2026-03-29  size=3  listed=3  expected_chars=3
+    - missing characters: ['漆']
+    - extra/unexpected characters: ['../words/漆']
+
+  ㄚㄇ
+    dlp=2026-03-29  size=4  listed=4  expected_chars=4
+    - missing characters: ['岩', '庵', '癌']
+    - extra/unexpected characters: ['岩石', '庵子', '癌症']
+
+  ㄛㄆ
+    dlp=2026-03-29  size=2  listed=2  expected_chars=2
+    - missing characters: ['昷']
+    - extra/unexpected characters: ['温暖']
+
+  ⼄ㄎ
+    dlp=2026-03-30  size=4  listed=4  expected_chars=4
+    - missing characters: ['欲', '浴', '獄']
+    - extra/unexpected characters: ['欲望', '沐浴', '監獄']
+
+  ⼄ㄨ
+    dlp=2026-03-30  size=12  listed=12  expected_chars=11
+    - missing characters: ['夭', '曜', '耀', '腰', '要', '謡', '遥']
+    - extra/unexpected characters: ['夭折', '擾', '曜日', '歌謡', '照耀', '腰部', '遥遠', '重要']
+
+  ㄧㄎ
+    dlp=2026-03-30  size=6  listed=6  expected_chars=6
+    - missing characters: ['億', '憶', '抑', '翼', '臆']
+    - extra/unexpected characters: ['一億', '抑止', '羽翼', '胸臆', '記憶']
+
+  ㄨㄆ
+    dlp=2026-03-30  size=2  listed=2  expected_chars=1
+    - extra/unexpected characters: ['揖']
+
+  ㄨㄇ
+    dlp=2026-03-30  size=3  listed=3  expected_chars=2
+    - missing characters: ['音']
+    - extra/unexpected characters: ['呻吟', '音声']
+
+  ㄨㄋ
+    dlp=2026-03-30  size=5  listed=5  expected_chars=5
+    - missing characters: ['員', '暈', '運', '韻']
+    - extra/unexpected characters: ['../words/玄暈', '人員', '押韻', '運送']
+
+  ㄨㄛ
+    dlp=2026-03-30  size=4  listed=4  expected_chars=5
+    - missing characters: ['優', '欧', '郵']
+    - extra/unexpected characters: ['優秀', '郵便']
+
+  ㄨㄧ
+    dlp=2026-03-30  size=8  listed=7  expected_chars=7
+    - size mismatch: frontmatter says 8, counted 7 character entries
+    - missing characters: ['偉', '囲', '違']
+    - extra/unexpected characters: ['偉大', '包囲', '違反']
+
+  ㄝㄫ
+    dlp=2026-03-31  size=2  listed=2  expected_chars=2
+    - missing characters: ['英']
+    - extra/unexpected characters: ['英雄']
+
+  ㄧㄋ
+    dlp=2026-03-31  size=8  listed=8  expected_chars=7
+    - missing characters: ['印', '因', '姻', '胤']
+    - extra/unexpected characters: ['原因', '婚姻', '封印', '殷', '隠蔵']
+
+  ㄍㄚㄇ
+    dlp=2026-04-01  size=9  listed=9  expected_chars=9
+    - missing characters: ['感', '敢', '柑', '橄', '減', '監', '鑑']
+    - extra/unexpected characters: ['感触', '敢為', '橄欖', '減算', '監督', '蜜柑', '鏡鑑']
+
+  ㄑㄚㄊ
+    dlp=2026-04-01  size=3  listed=3  expected_chars=3
+    - missing characters: ['刹', '察']
+    - extra/unexpected characters: ['刹那', '考察']
+
+  ㄑㄛㄋ
+    dlp=2026-04-01  size=2  listed=2  expected_chars=2
+    - missing characters: ['村']
+    - extra/unexpected characters: ['農村']
+
+  ㄙ⼔ㄧ
+    dlp=2026-04-01  size=1  listed=1  expected_chars=1
+    - missing characters: ['衰']
+    - extra/unexpected characters: ['衰弱']
+
+  ㄙㄚㄎ
+    dlp=2026-04-01  size=3  listed=3  expected_chars=3
+    - missing characters: ['朔', '索']
+    - extra/unexpected characters: ['捜索', '朔日']
+
+  ㄜㄧ
+    dlp=2026-04-02  size=7  listed=7  expected_chars=7
+    - missing characters: ['儀', '宜', '義', '誼', '議']
+    - extra/unexpected characters: ['儀式', '友誼', '意義', '議論', '適宜']
+
+  ⼄ㄫ
+    dlp=2026-04-03  size=8  listed=8  expected_chars=8
+    - missing characters: ['勇', '溶', '用', '踊']
+    - extra/unexpected characters: ['使用', '勇敢', '溶化', '跳躍']
+
+  ⼶
+    dlp=2026-04-03  size=4  listed=4  expected_chars=5
+    - missing characters: ['裔', '鋭']
+    - extra/unexpected characters: ['鋭利']
+
+  ㄅㄛㄫ
+    dlp=2026-04-04  size=7  listed=5  expected_chars=5
+    - size mismatch: frontmatter says 7, counted 5 character entries
+    - missing characters: ['奉', '硼', '縫', '蓬']
+    - extra/unexpected characters: ['../words/蓬藁', '侍奉', '硼砂', '縫製']
+
+  ㄍ⺢
+    dlp=2026-04-05  size=9  listed=9  expected_chars=9
+    - missing characters: ['寡', '果', '渦', '瓜', '蝸']
+    - extra/unexpected characters: ['寡婦', '果実', '渦流', '胡瓜', '蝸牛']
+
+  ㄎㄧㄜ
+    dlp=2026-04-06  size=6  listed=6  expected_chars=6
+    - missing characters: ['器', '棄', '汽']
+    - extra/unexpected characters: ['容器', '放棄', '蒸汽']
+
+  ㄅㄨㄆ
+    dlp=2026-04-07  size=1  listed=1  expected_chars=1
+    - missing characters: ['鵖']
+    - extra/unexpected characters: ['../words/鵖鴔']
+
+  ㄇㄧㄊ
+    dlp=2026-04-08  size=3  listed=3  expected_chars=3
+    - missing characters: ['蜜']
+    - extra/unexpected characters: ['蜂蜜']
+
+  ㄌ⼄
+    dlp=2026-04-08  size=5  listed=5  expected_chars=5
+    - missing characters: ['侶', '慮', '旅']
+    - extra/unexpected characters: ['伴侶', '憂慮', '旅行']
+
+  ⺢ㄧ
+    dlp=2026-04-13  size=4  listed=4  expected_chars=4
+    - missing characters: ['外']
+    - extra/unexpected characters: ['外部']
+
+  ㄇㄝㄇ
+    dlp=2026-04-13  size=1  listed=1  expected_chars=1
+    - missing characters: ['眠']
+    - extra/unexpected characters: ['睡眠']
+
+  ㄈㄚㄎ
+    dlp=2026-04-13  size=2  listed=1  expected_chars=1
+    - size mismatch: frontmatter says 2, counted 1 character entries
+    - missing characters: ['縛']
+    - extra/unexpected characters: ['束縛']
+
+  ㄈㄝㄫ
+    dlp=2026-04-13  size=1  listed=1  expected_chars=1
+    - missing characters: ['苹']
+    - extra/unexpected characters: ['苹果']
+
+  ㄝㄧ
+    dlp=2026-04-13  size=4  listed=4  expected_chars=4
+    - missing characters: ['霓']
+    - extra/unexpected characters: ['虹霓']
+
+  ⼶ㄋ
+    dlp=2026-04-15  size=7  listed=7  expected_chars=7
+    - missing characters: ['兗', '延', '演', '縁']
+    - extra/unexpected characters: ['兗州', '因緣', '延長', '練習']
+
+  ⼶ㄎ
+    dlp=2026-04-15  size=8  listed=6  expected_chars=7
+    - size mismatch: frontmatter says 8, counted 6 character entries
+    - missing characters: ['役', '易', '液', '疫', '訳']
+    - extra/unexpected characters: ['容易', '液体', '疫病', '苦役']
+
+  ㄇㄜㄫ
+    dlp=2026-04-15  size=1  listed=1  expected_chars=1
+    - missing characters: ['萌']
+    - extra/unexpected characters: ['萌芽']
+
+  ㄈㄜㄋ
+    dlp=2026-04-15  size=5  listed=1  expected_chars=1
+    - size mismatch: frontmatter says 5, counted 1 character entries
+
+  ㄉ⺢
+    dlp=2026-04-15  size=3  listed=3  expected_chars=3
+    - missing characters: ['堕', '惰']
+    - extra/unexpected characters: ['堕落', '怠惰']
+
+  ㄌㄜ
+    dlp=2026-04-15  size=1  listed=1  expected_chars=2
+    - missing characters: ['狸']
+
+  ㄌㄜㄫ
+    dlp=2026-04-15  size=2  listed=2  expected_chars=3
+    - missing characters: ['凌']
+
+  ㄌㄝ
+    dlp=2026-04-15  size=5  listed=4  expected_chars=4
+    - size mismatch: frontmatter says 5, counted 4 character entries
+    - missing characters: ['例', '励', '麗']
+    - extra/unexpected characters: ['実例', '激励', '華麗']
+
+  ㄑㄜ
+    dlp=2026-04-15  size=1  listed=1  expected_chars=2
+    - missing characters: ['馳']
+
+  ⼶ㄫ
+    dlp=2026-04-16  size=6  listed=6  expected_chars=7
+    - missing characters: ['営', '嬴', '影', '盈', '迎']
+    - extra/unexpected characters: ['歓迎', '満盈', '経営', '陰影']
+
+  ㄅ⼄
+    dlp=2026-04-16  size=1  listed=1  expected_chars=1
+    - missing characters: ['標']
+    - extra/unexpected characters: ['標識']
+
+  ㄆㄛㄇ
+    dlp=2026-04-17  size=1  listed=1  expected_chars=1
+    - missing characters: ['礬']
+    - extra/unexpected characters: ['礬素']
+
+  ㄉㄚㄇ
+    dlp=2026-04-17  size=9  listed=9  expected_chars=9
+    - missing characters: ['担', '淡', '胆', '談']
+    - extra/unexpected characters: ['清淡', '胆嚢', '荷担', '談話']
+
+  ㄈㄚㄊ
+    dlp=2026-04-21  size=2  listed=2  expected_chars=2
+    - missing characters: ['髪']
+    - extra/unexpected characters: ['頭髪']
+
+  ⼜ㄇ
+    dlp=2026-04-25  size=8  listed=8  expected_chars=8
+    - missing characters: ['喩', '愈', '愉', '蝓', '諭']
+    - extra/unexpected characters: ['愈愈', '愉快', '比喩', '蛞蝓', '諭示']
+
+  ㄅ⼶ㄎ
+    dlp=2026-04-25  size=1  listed=1  expected_chars=1
+    - missing characters: ['碧']
+    - extra/unexpected characters: ['碧色']
+
+  ㄐㄜㄫ
+    dlp=2026-04-25  size=4  listed=3  expected_chars=4
+    - size mismatch: frontmatter says 4, counted 3 character entries
+    - missing characters: ['増']
+
+  ㄅㄚㄨ
+    dlp=2026-04-27  size=5  listed=5  expected_chars=6
+    - missing characters: ['堡']
+
+  ㄈㄨㄛ
+    dlp=2026-04-29  size=3  listed=3  expected_chars=3
+    - missing characters: ['訃']
+    - extra/unexpected characters: ['訃告']
+
+  ㄝ
+    dlp=2026-04-29  size=3  listed=3  expected_chars=4
+    - missing characters: ['穢', '芸', '衛', '魏']
+    - extra/unexpected characters: ['保衛', '芸術', '魏国']
+
+  ㄅㄛㄊ
+    dlp=2026-05-01  size=2  listed=2  expected_chars=2
+    - missing characters: ['勃']
+    - extra/unexpected characters: ['勃興']
+
+  ㄉㄧㄊ
+    dlp=2026-05-01  size=1  listed=1  expected_chars=1
+    - missing characters: ['秩']
+    - extra/unexpected characters: ['秩序']
+
+  ㄉㄨㄇ
+    dlp=2026-05-01  size=1  listed=1  expected_chars=1
+    - missing characters: ['砧']
+    - extra/unexpected characters: ['鉄砧']
+
+  ㄐㄧㄆ
+    dlp=2026-05-01  size=3  listed=2  expected_chars=2
+    - size mismatch: frontmatter says 3, counted 2 character entries
+
+  ㄐㄨㄛ
+    dlp=2026-05-01  size=11  listed=12  expected_chars=10
+    - size mismatch: frontmatter says 11, counted 12 character entries
+    - extra/unexpected characters: ['就', '就鳥']
+
+  ㄅㄨㄫ
+    dlp=2026-05-02  size=2  listed=2  expected_chars=3
+    - missing characters: ['逢']
+
+  ㄋㄨㄊ
+    dlp=2026-05-03  size=1  listed=1  expected_chars=1
+    - missing characters: ['肭']
+    - extra/unexpected characters: ['膃肭']
+
+  ㄍㄛㄧ
+    dlp=2026-05-03  size=1  listed=0  expected_chars=1
+    - size mismatch: frontmatter says 1, counted 0 character entries
+    - missing characters: ['該']
+
+  ㄐㄝㄎ
+    dlp=2026-05-03  size=9  listed=10  expected_chars=9
+    - size mismatch: frontmatter says 9, counted 10 character entries
+    - extra/unexpected characters: ['肥脊']
+
+  ㄙ⼜ㄛ
+    dlp=2026-05-06  size=1  listed=1  expected_chars=1
+    - missing characters: ['蒐']
+    - extra/unexpected characters: ['蒐集']
+
+  ㄆ⼶
+    dlp=2026-05-07  size=1  listed=2  expected_chars=1
+    - size mismatch: frontmatter says 1, counted 2 character entries
+    - extra/unexpected characters: ['俾']
+
+  ㄉㄧ
+    dlp=2026-05-07  size=1  listed=1  expected_chars=2
+    - missing characters: ['値']
+
+  ㄍ⺢ㄊ
+    dlp=2026-05-08  size=3  listed=3  expected_chars=4
+    - missing characters: ['闊']
+
+  ㄍ⼘ㄋ
+    dlp=2026-05-08  size=4  listed=4  expected_chars=5
+    - missing characters: ['疆']
+
+  ㄍ⼜ㄛ
+    dlp=2026-05-08  size=4  listed=4  expected_chars=5
+    - missing characters: ['舅']
+
+  ㄑㄚㄆ
+    dlp=2026-05-08  size=2  listed=2  expected_chars=2
+    - missing characters: ['挿']
+    - extra/unexpected characters: ['挿入']
+
+  ㄑㄝㄇ
+    dlp=2026-05-08  size=2  listed=1  expected_chars=2
+    - size mismatch: frontmatter says 2, counted 1 character entries
+    - missing characters: ['鹸']
+
+  ㄙㄨㄆ
+    dlp=2026-05-08  size=1  listed=1  expected_chars=1
+    - missing characters: ['霫']
+    - extra/unexpected characters: ['雴霫']
+
+  ㄐㄝㄊ
+    dlp=2026-05-10  size=4  listed=4  expected_chars=4
+    - missing characters: ['折', '澈']
+    - extra/unexpected characters: ['折畳', '清澈']
+
+  ㄑㄝㄧ
+    dlp=2026-05-10  size=3  listed=2  expected_chars=3
+    - size mismatch: frontmatter says 3, counted 2 character entries
+    - missing characters: ['妻']
+
+  ㄙㄝㄫ
+    dlp=2026-05-10  size=3  listed=3  expected_chars=3
+    - missing characters: ['猩']
+    - extra/unexpected characters: ['猩猩']
+
+  ㄙㄚㄨ
+    dlp=2026-05-11  size=6  listed=6  expected_chars=7
+    - missing characters: ['嫂']
+
+  ㄋ⼜ㄛ
+    dlp=2026-05-13  size=1  listed=1  expected_chars=1
+    - missing characters: ['紐']
+    - extra/unexpected characters: ['枢紐']
+
+  ㄅㄚㄊ
+    dlp=2026-05-15  size=8  listed=8  expected_chars=5
+    - extra/unexpected characters: ['捌', '犮', '髪']
+
+  ㄅㄚㄋ
+    dlp=2026-05-15  size=13  listed=12  expected_chars=12
+    - size mismatch: frontmatter says 13, counted 12 character entries
+    - missing characters: ['胖']
+    - extra/unexpected characters: ['肥胖']
+
+  ㄅㄚㄧ
+    dlp=2026-05-15  size=9  listed=8  expected_chars=8
+    - size mismatch: frontmatter says 9, counted 8 character entries
+
+  ㄉㄛㄫ
+    dlp=2026-05-15  size=13  listed=12  expected_chars=13
+    - size mismatch: frontmatter says 13, counted 12 character entries
+    - missing characters: ['凍', '同', '東', '桐', '棟', '洞', '瞳', '童', '胴']
+    - extra/unexpected characters: ['児童', '凍結', '同一', '東方', '棟梁', '洞窟', '瞳孔', '胴体']
+
+  ㄌㄚ
+    dlp=2026-05-15  size=8  listed=6  expected_chars=6
+    - size mismatch: frontmatter says 8, counted 6 character entries
+
+  ㄙ⼘ㄫ
+    dlp=2026-05-15  size=13  listed=13  expected_chars=12
+    - extra/unexpected characters: ['㐮']
+
+  ㄚㄋ
+    dlp=2026-05-15  size=10  listed=10  expected_chars=9
+    - extra/unexpected characters: ['恩']
+
+  ⼘ㄫ
+    dlp=2026-05-16  size=11  listed=11  expected_chars=11
+    - missing characters: ['仰', '央', '楊', '殃', '洋', '瘍', '羊', '養']
+    - extra/unexpected characters: ['中央', '仰望', '大洋', '楊柳', '潰瘍', '災殃', '綿羊', '養育']
+
+  ㄌㄨㄇ
+    dlp=2026-05-16  size=1  listed=0  expected_chars=1
+    - size mismatch: frontmatter says 1, counted 0 character entries
+    - missing characters: ['凜']
+
+  ㄙ⼄
+    dlp=2026-05-16  size=13  listed=13  expected_chars=14
+    - missing characters: ['屿']
+
+  ㄇ⼄
+    dlp=2026-05-17  size=2  listed=2  expected_chars=1
+    - extra/unexpected characters: ['妙']
+
+  ㄇ⼶
+    dlp=2026-05-17  size=3  listed=3  expected_chars=1
+    - extra/unexpected characters: ['明', '面']
+
+  ㄈㄨ
+    dlp=2026-05-17  size=10  listed=10  expected_chars=11
+    - missing characters: ['傅']
+
+  ⼜ㄊ
+    dlp=2026-05-18  size=1  listed=1  expected_chars=2
+    - missing characters: ['熨']
+
+  ㄊㄝ
+    dlp=2026-05-18  size=1  listed=1  expected_chars=2
+    - missing characters: ['梯']
+
+  ㄍ⺢ㄋ
+    dlp=2026-05-18  size=11  listed=11  expected_chars=12
+    - missing characters: ['慣']
+
+  ㄍ⼜
+    dlp=2026-05-18  size=12  listed=12  expected_chars=12
+    - missing characters: ['柩', '赳']
+    - extra/unexpected characters: ['赳赳', '霊柩']
+
+  ㄍ⼶ㄋ
+    dlp=2026-05-18  size=5  listed=5  expected_chars=5
+    - missing characters: ['甄']
+    - extra/unexpected characters: ['甄選']
+
+  ㄍㄚㄆ
+    dlp=2026-05-18  size=5  listed=5  expected_chars=5
+    - missing characters: ['蛤']
+    - extra/unexpected characters: ['大蛤']
+
+  ㄍㄝㄊ
+    dlp=2026-05-18  size=5  listed=5  expected_chars=5
+    - missing characters: ['偈', '傑', '桔', '潔']
+    - extra/unexpected characters: ['偈陀', '傑出', '桔梗', '清潔']
+
+  ㄐㄛㄫ
+    dlp=2026-05-18  size=11  listed=11  expected_chars=11
+    - missing characters: ['叢', '宗', '棕', '種', '総', '腫', '踪', '踵']
+    - extra/unexpected characters: ['叢書', '宗派', '棕枝', '種類', '総数', '腫瘍', '踪影', '踵骨']
+
+  ㄚㄧ
+    dlp=2026-05-18  size=10  listed=10  expected_chars=10
+    - missing characters: ['哀', '埃', '曖', '碍', '艾']
+    - extra/unexpected characters: ['哀傷', '塵埃', '妨碍', '曖昧', '艾草']
+
+  ㄛㄨ
+    dlp=2026-05-18  size=5  listed=5  expected_chars=6
+    - missing characters: ['欧']
+
+  ㄍㄝㄧ
+    dlp=2026-05-19  size=5  listed=5  expected_chars=5
+    - missing characters: ['係', '稽', '継', '計']
+    - extra/unexpected characters: ['稽古', '継続', '計画', '関係']
+
+  ㄎ⺢ㄋ
+    dlp=2026-05-19  size=2  listed=2  expected_chars=2
+    - missing characters: ['寛']
+    - extra/unexpected characters: ['寬大']
+
+  ㄎㄚㄇ
+    dlp=2026-05-19  size=6  listed=6  expected_chars=5
+    - missing characters: ['嵌']
+    - extra/unexpected characters: ['坎', '嵌入']
+
+  ㄏ⺢
+    dlp=2026-05-19  size=12  listed=12  expected_chars=12
+    - missing characters: ['和', '嘩', '樺', '花', '華', '貨', '踝', '靴']
+    - extra/unexpected characters: ['和平', '喧嘩', '樺木', '脚踝', '草花', '華麗', '貨物', '長靴']
+
+  ㄏㄝㄫ
+    dlp=2026-05-19  size=6  listed=6  expected_chars=6
+    - missing characters: ['刑', '型', '脛', '馨']
+    - extra/unexpected characters: ['刑罰', '型式', '清馨', '脛骨']
+
+  ㄐ⼔ㄋ
+    dlp=2026-05-19  size=6  listed=6  expected_chars=6
+    - missing characters: ['伝', '専', '泉', '篆', '転']
+    - extra/unexpected characters: ['伝播', '専用', '源泉', '篆書', '転化']
+
+  ㄐㄨㄊ
+    dlp=2026-05-19  size=3  listed=3  expected_chars=2
+    - extra/unexpected characters: ['櫛']
+
+  ㄧㄫ
+    dlp=2026-05-19  size=6  listed=6  expected_chars=5
+    - extra/unexpected characters: ['凝']
+
+  ㄈㄛㄫ
+    dlp=2026-05-26  size=5  listed=5  expected_chars=5
+    - missing characters: ['俸', '峰', '鋒']
+    - extra/unexpected characters: ['俸給', '鋒鋩', '高峰']
+
+  ㄅㄚㄎ
+    dlp=2026-06-03  size=12  listed=12  expected_chars=13
+    - missing characters: ['魄']
+
+  ㄅㄧ
+    dlp=2026-06-03  size=6  listed=6  expected_chars=7
+    - missing characters: ['痺']
+
+  ㄈㄨㄧ
+    dlp=2026-06-03  size=3  listed=3  expected_chars=3
+    - missing characters: ['斐']
+    - extra/unexpected characters: ['斐然']
+
+  ㄊㄧ
+    dlp=2026-06-03  size=2  listed=2  expected_chars=2
+    - missing characters: ['弒']
+    - extra/unexpected characters: ['弒君']
+
+  ㄊㄨㄫ
+    dlp=2026-06-03  size=2  listed=2  expected_chars=2
+    - missing characters: ['衷']
+    - extra/unexpected characters: ['衷情']
+
+  ㄋ⼄ㄇ
+    dlp=2026-06-03  size=1  listed=1  expected_chars=1
+    - missing characters: ['染']
+    - extra/unexpected characters: ['染色']
+
+  ㄋ⼘ㄫ
+    dlp=2026-06-03  size=4  listed=4  expected_chars=5
+    - missing characters: ['攘']
+
+  ㄋㄛㄇ
+    dlp=2026-06-03  size=1  listed=1  expected_chars=1
+    - missing characters: ['髯']
+    - extra/unexpected characters: ['鬚髯']
+
+  ㄌㄝㄇ
+    dlp=2026-06-03  size=2  listed=2  expected_chars=2
+    - missing characters: ['簾']
+    - extra/unexpected characters: ['暖簾']
+
+  ㄍ⼄ㄨ
+    dlp=2026-06-03  size=9  listed=9  expected_chars=10
+    - missing characters: ['狡']
+
+  ㄎㄝㄇ
+    dlp=2026-06-06  size=1  listed=1  expected_chars=1
+    - missing characters: ['謙']
+    - extra/unexpected characters: ['謙遜']
+
+  ㄎㄝㄋ
+    dlp=2026-06-06  size=2  listed=2  expected_chars=2
+    - missing characters: ['牽']
+    - extra/unexpected characters: ['牽引']
+
+  ㄎㄧㄇ
+    dlp=2026-06-06  size=1  listed=1  expected_chars=1
+    - missing characters: ['禽']
+    - extra/unexpected characters: ['禽鳥']
+
+  ㄏ⺢ㄋ
+    dlp=2026-06-06  size=11  listed=11  expected_chars=12
+    - missing characters: ['浣']
+
+  ⺢ㄎ
+    dlp=2026-06-07  size=1  listed=1  expected_chars=1
+    - missing characters: ['蠖']
+    - extra/unexpected characters: ['尺蠖']
+
+  ⼘ㄎ
+    dlp=2026-06-07  size=4  listed=4  expected_chars=4
+    - missing characters: ['約', '虐', '躍']
+    - extra/unexpected characters: ['暴虐', '約束', '跳躍']
+
+  ⼶ㄧ
+    dlp=2026-06-07  size=4  listed=4  expected_chars=4
+    - missing characters: ['移', '維']
+    - extra/unexpected characters: ['移動', '維持']
+
+  ㄅ⼶ㄋ
+    dlp=2026-06-07  size=5  listed=5  expected_chars=5
+    - missing characters: ['編', '鞭']
+    - extra/unexpected characters: ['編集', '鞭打']
+
+  ㄅㄧㄆ
+    dlp=2026-06-07  size=1  listed=1  expected_chars=1
+    - missing characters: ['鴔']
+    - extra/unexpected characters: ['鵖鴔']
+
+  ㄆㄛㄎ
+    dlp=2026-06-07  size=1  listed=1  expected_chars=7
+    - missing characters: ['僕', '剝', '卜', '暴', '瀑', '爆']
+
+  ㄌㄧㄋ
+    dlp=2026-06-07  size=5  listed=5  expected_chars=5
+    - missing characters: ['吝', '燐', '麟']
+    - extra/unexpected characters: ['吝嗇', '燐素', '麒麟']
+
+  ㄍㄨㄫ
+    dlp=2026-06-07  size=5  listed=5  expected_chars=5
+    - missing characters: ['宮', '窮']
+    - extra/unexpected characters: ['宮殿', '貧窮']
+
+  ㄎ⺢ㄊ
+    dlp=2026-06-07  size=2  listed=2  expected_chars=3
+    - missing characters: ['蛞']
+
+  ㄐㄧㄎ
+    dlp=2026-06-07  size=5  listed=5  expected_chars=6
+    - missing characters: ['直']
+
+  ㄑㄚㄋ
+    dlp=2026-06-07  size=3  listed=3  expected_chars=3
+    - missing characters: ['燦', '竄']
+    - extra/unexpected characters: ['改竄', '燦乱']
+
+  ㄑㄛ
+    dlp=2026-06-07  size=9  listed=9  expected_chars=9
+    - missing characters: ['初', '措', '楚', '狙', '礎', '貂']
+    - extra/unexpected characters: ['基礎', '措置', '最初', '清楚', '狙撃', '黒貂']
+
+  ㄑㄛㄎ
+    dlp=2026-06-07  size=3  listed=3  expected_chars=3
+    - missing characters: ['燭', '触']
+    - extra/unexpected characters: ['接触', '蠟燭']
+
+  ㄑㄧㄇ
+    dlp=2026-06-07  size=4  listed=4  expected_chars=4
+    - missing characters: ['侵', '沈']
+    - extra/unexpected characters: ['侵入', '沈没']
+
+  ㄑㄧㄎ
+    dlp=2026-06-07  size=3  listed=2  expected_chars=2
+    - size mismatch: frontmatter says 3, counted 2 character entries
+    - missing characters: ['勅']
+    - extra/unexpected characters: ['勅令']
+
+  ㄑㄨㄋ
+    dlp=2026-06-07  size=3  listed=3  expected_chars=3
+    - missing characters: ['蠢']
+    - extra/unexpected characters: ['蠢動']
+
+  ㄑㄨㄫ
+    dlp=2026-06-07  size=4  listed=4  expected_chars=4
+    - missing characters: ['充', '噌', '沖']
+    - extra/unexpected characters: ['充填', '噌噌', '沖積']
+
+  ㄙ⺢
+    dlp=2026-06-07  size=2  listed=2  expected_chars=2
+    - missing characters: ['唆']
+    - extra/unexpected characters: ['教唆']
+
+  ㄙ⺢ㄫ
+    dlp=2026-06-07  size=4  listed=3  expected_chars=3
+    - size mismatch: frontmatter says 4, counted 3 character entries
+    - missing characters: ['爽']
+    - extra/unexpected characters: ['爽快']
+
+  ㄜㄫ
+    dlp=2026-06-07  size=1  listed=1  expected_chars=1
+    - missing characters: ['凝']
+    - extra/unexpected characters: ['凝結']
+
+  ㄙ⼶ㄇ
+    dlp=2026-06-09  size=1  listed=1  expected_chars=1
+    - missing characters: ['鮮']
+    - extra/unexpected characters: ['新鮮']
+
+  ㄙㄚㄧ
+    dlp=2026-06-09  size=3  listed=3  expected_chars=3
+    - missing characters: ['塞']
+    - extra/unexpected characters: ['梗塞']
+
+  ㄙㄛㄎ
+    dlp=2026-06-09  size=3  listed=3  expected_chars=3
+    - missing characters: ['蜀']
+    - extra/unexpected characters: ['蜀国']
+
+  ㄙㄛㄫ
+    dlp=2026-06-09  size=4  listed=4  expected_chars=4
+    - missing characters: ['宋']
+    - extra/unexpected characters: ['宋朝']
+
+  ㄍ⼔ㄫ
+    dlp=2026-06-20  size=1  listed=1  expected_chars=1
+    - missing characters: ['軣']
+    - extra/unexpected characters: ['軣軣']
+
+  ⼶ㄊ
+    dlp=2026-06-22  size=2  listed=2  expected_chars=2
+    - missing characters: ['悦', '閲']
+    - extra/unexpected characters: ['喜悅', '検閲']
+
+  ㄅㄛㄇ
+    dlp=2026-06-22  size=1  listed=1  expected_chars=1
+    - missing characters: ['凡']
+    - extra/unexpected characters: ['平凡']
+
+  ㄅㄧㄎ
+    dlp=2026-06-22  size=1  listed=1  expected_chars=1
+    - missing characters: ['逼']
+    - extra/unexpected characters: ['逼迫']
+
+--- Summary by issue type ---
+ 135  missing characters
+ 117  extra/unexpected characters
+  21  size mismatch
