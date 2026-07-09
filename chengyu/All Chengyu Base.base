@@ -16,10 +16,10 @@ views:
       - file.mtime
       - origin
     sort:
+      - property: file.mtime
+        direction: ASC
       - property: date-last-perfect
         direction: ASC
-      - property: file.mtime
-        direction: DESC
       - property: origin
         direction: ASC
       - property: 諺文
