@@ -37,7 +37,7 @@ tags: [lookup]
 16. <ruby>[性](../../characters/性.md)<rt>ㄙㄧㄫ</rt></ruby> - gender
 17. <ruby>[怪](../../characters/怪.md)<rt>ㄍ⺢ㄧ</rt></ruby> - strange
 
-18. <ruby>[怯](../../characters/怯.md)<rt>ㄎㄚㄆ</rt></ruby> - cowardly
+18. <ruby>[怯](../../characters/怯%20(char).md)<rt>ㄎㄚㄆ</rt></ruby> - cowardly
 
 ### +5 Strokes
 19. <ruby>[怒](../../characters/怒%20(char).md)<rt>ㄋㄛ</rt></ruby> - angry

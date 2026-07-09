@@ -7,7 +7,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 - [[瓷]]
 
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㄱ
-[[怯]]
+[[怯 (char)]]
 
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅁ
 [[芒]]

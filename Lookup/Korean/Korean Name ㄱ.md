@@ -51,7 +51,7 @@ This has been checked for redirects.
 [瞼](characters/瞼.md) 鈐 [[黔]]
 
 ### 겁 
-[劫](characters/劫.md) [[怯]] 迲!
+[劫](characters/劫.md) [[怯 (char)]] 迲!
 
 ### 게 
 [揭](characters/掲%20(char).md) [偈](characters/偈.md) [憩](characters/憩.md) 

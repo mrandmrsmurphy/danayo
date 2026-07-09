@@ -60,7 +60,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 55.  [[怠]]
 56.  [[薪]]
 57.  [[怨]]
-58.  [[怯]]
+58.  [[怯 (char)]]
 59.  [[跌]]
 60.  [[柬 (char)]]
 61.  [[跨 (char)]]

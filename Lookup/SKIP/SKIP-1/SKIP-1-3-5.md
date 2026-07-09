@@ -87,7 +87,7 @@ tags:
 75. <ruby>[阿](characters/阿%20(char).md)<rt>ㄚ</rt></ruby> "ah"
 76. <ruby>[陀](characters/陀.md)<rt>ㄉㄚ</rt></ruby> "rough terrain"
 77. <ruby>[附](characters/附%20(char).md)<rt>ㄅㄨ</rt></ruby> "affix, adhere"
-78. <ruby>[怯](characters/怯.md)<rt>ㄎㄚㄆ</rt></ruby> "cowardly, timid, afraid"
+78. <ruby>[怯](characters/怯%20(char).md)<rt>ㄎㄚㄆ</rt></ruby> "cowardly, timid, afraid"
 
 ## Datacheck
 ```dataview
