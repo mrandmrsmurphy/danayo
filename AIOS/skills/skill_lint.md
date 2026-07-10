@@ -6,7 +6,7 @@ type: skill
 
 # Skill: Lint
 
-The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, `lint Radicals`, `lint Syllables`, `lint Chengyu`, `lint Stroke`, and later others. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
+The vault is too large and heterogeneous for one linter to cover everything at once. `lint` always takes an argument naming *what* to sweep — `lint SKIP`, `lint Radicals`, `lint Syllables`, `lint Chengyu`, `lint Stroke`, `lint CC`, and later others. Each argument gets its own procedure section below, grounded in that content type's `AIOS/checklists/checklist_*.md` rubric. Don't run `lint` bare.
 
 ## General shape of a lint pass
 
@@ -284,3 +284,45 @@ For every stroke count in the ground-truth map:
 ### 3. Report
 
 Per batch: counts of leaves fixed / dates stamped, split out by how large each page's ground-truth set was (a 300-character page fixed is not the same unit of work as a 5-character one) — plus judgment calls: an ambiguous alias-vs-forbidden classification, a character whose `stroke_count` looks miscounted relative to its own strokes, or a SKIP code collision that doesn't resolve cleanly. Since this procedure hasn't been run against a live batch yet, explicitly ask each fork to flag anything this write-up got wrong or didn't anticipate, the same way early `lint Syllables`/`lint Chengyu` waves did.
+
+## `lint CC`
+
+Rubric: [[AIOS/checklists/checklist_cc.md]] — read it in full before running this. For the deeper linguistic methodology behind *why* a given split looks the way it does (crowding-escape mechanics, the phonotactic constraints, the 合→w-glide tendency, division-predicts-fracture, the daughter-language-check discipline, the full pattern catalog with cross-referenced examples), read [[AIOS/skills/skill_cc_phonology.md]] — that file is the creation/derivation methodology; this section is the completion-checking procedure built on top of it. **Validated end-to-end**: every one of the 160 finals pages and all 42 initials pages has been swept and stamped as of 2026-07-10 — this is the first `lint` type with a fully-clean corpus at time of writing, so a re-run should mostly be confirming no regressions rather than finding fresh gaps.
+
+### 0. Scope
+
+`lookup/CC/initials/` (42 files, `聲 X.md`) and `lookup/CC/finals/` (160 files, `韻 X.md`) are two parallel leaf-only trees — no index/stem tier, same as Radicals/Syllables. `lookup/CC/Classical Chinese.md` is the top-level page, but unlike `Radicals.md`/`Syllables.md`/the Chengyu grouping files, it is **not** a manually-maintained membership list — its `## Initials Check` / `## Finals Check` sections are live `base` queries filtered on `file.inFolder("lookup/CC/initials")` / `file.inFolder("lookup/CC/finals")`, so every leaf appears automatically the moment it exists on disk. There is no step-3 grouping-file sync the way Radicals/Syllables/Chengyu need one — confirm the two base queries exist and target the right folders, then move on.
+
+Both ground-truth reference tables live in one file, `grammar/文法 - 99韻図.md`: the initials-evolution table plus the 三十六字母 classification table (which directly links every `聲 X.md` page — count distinct links there, or just `ls lookup/CC/initials/ | wc -l`, to confirm the full 42 exist) near the top, and the 160-row Vowels table (linking every `韻 X.md` page, MC IPA in column 2, Dan'a'yo D value in the last column) below it. The D column is the per-final documented winner — cite it by name in each page's `## CJKV Evolution`, and when a D value itself lists more than one form (`ǝ/o/ung`, `im/um/om`, `op/up/ep`, etc.) expect a genuine multi-way split in the corpus, not exception-framing.
+
+### 1. Build ground truth
+
+```bash
+grep -lE '^middle_chinese_initial: "?X"?$' characters/*.md | wc -l     # initials
+grep -lE '^middle_chinese_final: "?X"?$' characters/*.md | wc -l      # finals
+```
+
+Two encoding gotchas confirmed in practice, both worth checking before concluding a final has zero corpus members:
+
+- **Diacritic order can vary per-character-file even when the reference table is consistent.** `韻 陌二合`'s `ɣwæk` initially returned zero because one character (`硅`) had its own frontmatter stored as `wɣæk` (w before ɣ, reversed) — a typo at the source, not a real second final. Fix at the character file, don't work around it in the query.
+- **Visually-identical Unicode look-alikes**: `ə` (U+0259, schwa) vs `ǝ` (U+01DD, turned e) render almost identically but are different codepoints. `韻 德開ʼs` documented final displays as `ǝk` in the Vowels table but every real character file uses `ək` — a zero-result grep on the table's own glyph doesn't mean the final is empty, it means you're searching the wrong codepoint. Try both before concluding a final is genuinely unattested.
+
+For every matching character, pull `注音`, `mandarin`, `cantonese`, `korean`, `middle_chinese_initial` (finals pages) in the same pass — a small Python script wrapping the grep-and-parse (strip the leading bopomofo initial letter to get a finals-page group key) is worth writing once and reusing across a whole batch rather than re-deriving the extraction by hand per file.
+
+### 2. Leaf files (`聲 X.md` / `韻 X.md`)
+
+Check every criterion in `checklist_cc.md`'s `date-last-perfect criteria` section directly. In practice, per file:
+
+- Correct `size` against the ground-truth count from step 1, **then** re-verify against the page's own ruby-tag count (`grep -o '<ruby>' <file> | wc -l`) after writing — these are two independent checks and both are required; a page can have the right `size` in frontmatter while still missing or duplicating an entry in the body.
+- Group characters (initial-letter for 聲 pages, initial-letter-stripped final for 韻 pages) and diagnose every non-majority group per the category list in `checklist_cc.md` — don't leave a minority group as an unexplained list.
+- Confirm `## Datacheck`'s `file.inFolder("characters")` filter is present — its absence, inherited from old stub pages, is the single most common defect found across the whole sweep and silently inflates `size` by exactly 1 (the lookup page's own frontmatter self-matches the query without the filter).
+- A zero-member final is legitimate and expected for several marginal rounded entering-tone finals (e.g. `韻 質合`, `韻 陌三合`, `韻 錫合`) — write the empty-final template (breadcrumb + one-liner stating no attested characters + a one-paragraph note that this is a real-but-empty rime-table slot, not a gap) rather than skipping the page or leaving the pre-existing stub's stale placeholder character names in place (confirmed recurring: several empty-final stubs listed placeholder names — `虢`, `搦`, `焱`, `鶪`/`鵙`, `砉` — that don't correspond to any real file in `characters/`; drop them, don't try to create matching character pages to satisfy them).
+- Fix what's wrong, then stamp `date-last-perfect` to today.
+
+### 3. Top-level `Classical Chinese.md`
+
+Checked last, and lightly, per the Scope note above — confirm `## Initials Check` and `## Finals Check` are present as live `base` queries filtered on the correct folders. No manual per-leaf membership sync needed.
+
+### 4. Report
+
+Per batch: counts of leaves fixed / dates stamped / empty-finals confirmed, plus a short list of judgment calls for the user — an ambiguous crowding-vs-unconditioned-split call, a corpus data-quality flag that might warrant fixing the character file directly rather than just noting it in prose, or a genuinely multi-way-ambiguous D value that needs the Vowels table itself double-checked against the corpus.

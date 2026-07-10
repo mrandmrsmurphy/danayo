@@ -11,6 +11,7 @@ Distinct from `AIOS/skills/` (how to *create* something) — checklists are how 
 - [[AIOS/checklists/checklist_stroke.md|Stroke lookup pages]] — SKIP-grouped inventory per stroke count
 - [[AIOS/checklists/checklist_skip.md|SKIP lookup pages]] — index vs. leaf file structure, SKIP-4's distinct layout
 - [[AIOS/checklists/checklist_radicals.md|Radical lookup pages]] — stroke-grouped inventory per Kangxi radical
+- [[AIOS/checklists/checklist_cc.md|CC initials/finals pages]] — outcome-grouped character inventory per Middle Chinese initial/final, exception diagnosis categories
 
 ## On a future delinter
 
