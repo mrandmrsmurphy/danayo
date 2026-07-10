@@ -1,8 +1,8 @@
 ---
-mandarin: "niú"
+mandarin: niú
 cantonese: ngau4
-korean: "우"
-korean_native: "소"
+korean: 우
+korean_native: 소
 japanese:
   - GYUU
 japanese_native: うし
@@ -12,26 +12,26 @@ vietnamese:
   - ngưu
   - ngọ
   - ngỏ
-middle_chinese_initial: "ŋ"
-middle_chinese_final: "ɨu"
+middle_chinese_initial: n
+middle_chinese_final: ɨu
 stroke_count: 4
-radical: "牛"
+radical: 牛
 skip_number: 4-4-3
 grade_level: "1"
 pos: ""
 english:
   - cow
 羅馬字: nyu
-諺文: "뉴"
+諺文: 뉴
 joyo_level: "2"
 hsk_level: "1"
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 39
 mc_id: 503
-graphemic_classification: "象形"
-stand_in: "牛"
+graphemic_classification: 象形
+stand_in: 牛
 aliases:
-注音: "ㄋ⼜"
+注音: ㄋ⼜
 kwin: false
 tags:
   - character

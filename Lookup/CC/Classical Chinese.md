@@ -26,9 +26,14 @@ views:
       - file.name
       - size
       - middle_chinese_initial
+      - file.mtime
+      - date-last-perfect
     sort:
       - property: size
         direction: ASC
+    columnSize:
+      note.middle_chinese_initial: 86
+      file.mtime: 208
 
 ```
 
