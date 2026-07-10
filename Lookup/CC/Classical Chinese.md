@@ -56,6 +56,8 @@ views:
       - file.mtime
       - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: size
         direction: ASC
       - property: middle_chinese_final
