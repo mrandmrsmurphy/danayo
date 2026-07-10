@@ -1,7 +1,7 @@
 ---
 stroke_count: 8
 date-last-perfect: 2026-07-09
-size: 286
+size: 285
 tags:
   - lookup
 ---
@@ -26,7 +26,6 @@ tags:
 - 3-2-6: <ruby>[[函]]<rt>ㄏㄚㄇ</rt></ruby>, <ruby>[[厓]]<rt>⺢ㄧ</rt></ruby>, <ruby>[[周]]<rt>ㄐㄨㄛ</rt></ruby>, <ruby>[[岡]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[画]]<rt>ㄏ⺢ㄎ</rt></ruby>, <ruby>[[罔]]<rt>ㄇㄚㄫ</rt></ruby>
 - 3-3-5: <ruby>[[固]]<rt>ㄍㄛ</rt></ruby>, <ruby>[[国]]<rt>ㄍㄛㄎ</rt></ruby>, <ruby>[[居]]<rt>ㄍㄧ</rt></ruby>, <ruby>[[屈 (char)|屈]]<rt>ㄎㄨㄊ</rt></ruby>, <ruby>[[届 (char)|届]]<rt>ㄍ⼶</rt></ruby>, <ruby>[[底 (char)|底]]<rt>ㄉㄝㄧ</rt></ruby>, <ruby>[[店]]<rt>ㄉㄝㄇ</rt></ruby>, <ruby>[[庚]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[府]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[延]]<rt>⼶ㄋ</rt></ruby>, <ruby>[[迪]]<rt>ㄉㄝㄎ</rt></ruby>, <ruby>[[迫]]<rt>ㄅㄚㄎ</rt></ruby>, <ruby>[[迭]]<rt>ㄉㄚㄊ</rt></ruby>, <ruby>[[述]]<rt>ㄙㄨㄊ</rt></ruby>
 - 3-4-4: <ruby>[[或 (char)|或]]<rt>ㄏㄛㄎ</rt></ruby>, <ruby>[[武 (char)|武]]<rt>ㄇㄨ</rt></ruby>, <ruby>[[者 (char)|者]]<rt>ㄑㄚ</rt></ruby>, <ruby>[[虎 (char)|虎]]<rt>ㄏㄛ</rt></ruby>, <ruby>[[迎]]<rt>⼶ㄫ</rt></ruby>
-- 4-5-3: <ruby>[[乎 (char)|乎]]<rt>ㄏㄛ</rt></ruby>
 - 4-8-1: <ruby>[[雨 (char)|雨]]<rt>ㄨ</rt></ruby>
 - 4-8-2: <ruby>[[隹]]<rt>ㄉㄛㄧ</rt></ruby>, <ruby>[[垂]]<rt>ㄐㄨㄧ</rt></ruby>
 - 4-8-3: <ruby>[[乖]]<rt>ㄍ⺢ㄧ</rt></ruby>, <ruby>[[事 (char)|事]]<rt>ㄐㄧ</rt></ruby>, <ruby>[[東]]<rt>ㄉㄛㄫ</rt></ruby>, <ruby>[[秉]]<rt>ㄅㄧㄫ</rt></ruby>

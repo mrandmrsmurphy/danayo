@@ -11,7 +11,7 @@ vietnamese:
   - hô
 middle_chinese_initial: ɣ
 middle_chinese_final: uo
-stroke_count: 8
+stroke_count: 5
 radical: 丿
 skip_number: 4-5-3
 grade_level: "2"

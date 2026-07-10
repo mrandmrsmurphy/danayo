@@ -14,7 +14,7 @@ vietnamese:
   - thằng
 middle_chinese_initial: d͡ʑ
 middle_chinese_final: ɨŋ
-stroke_count: 12
+stroke_count: 9
 radical: 丿
 skip_number: 4-9-3
 grade_level: "2"

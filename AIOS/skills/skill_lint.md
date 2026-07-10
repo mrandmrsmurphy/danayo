@@ -234,6 +234,25 @@ All 9 re-verified after fixing: ruby-tag count matches ground-truth character co
 - Checking `Stroke 08` properly (now that 垂 genuinely belongs there) surfaced **4 more pre-existing gaps unrelated to 垂 at all**: `刮`, `奈`, `拙`, and `怯` (the last one newly created/renamed earlier this same session during the Syllables lint work — see [[feedback_korean_reading_north]]-adjacent history — and never backfilled onto its stroke page). `Stroke 08`'s stated `size: 281` had been wrong by 4 independent of the 垂 question. All 5 (4 pre-existing + 垂) added, `size` corrected 281→286, both pages re-verified with zero remaining gaps.
 - **Practical lesson for future batches**: fixing a mislabeled `stroke_count` is never a single-page edit — it always touches at least two pages (remove from the wrong one, add to the right one), and the "right one" should get a full ground-truth check while you're there, not just the one new addition, since an unrelated pre-existing gap on that page is easy to miss otherwise (as happened here).
 
+**The user then supplied a domain-knowledge shortcut that turned one bug into a corpus-wide check: for SKIP category 4, the second number in `skip_number` (e.g. the `8` in `4-8-2`) *is* the character's total stroke count directly** — unlike categories 1-3, where the two numbers are a decomposed two-part breakdown. The user didn't even open a file to catch `垂`; they recognized the SKIP code's second number should equal `stroke_count` and it didn't. This is mechanically checkable across the whole corpus in one pass:
+```bash
+for f in characters/*.md; do
+  skip=$(grep -m1 "^skip_number:" "$f" | sed 's/skip_number: *//;s/"//g')
+  case "$skip" in
+    4-*)
+      second=$(echo "$skip" | cut -d- -f2)
+      sc=$(grep -m1 "^stroke_count:" "$f" | sed 's/stroke_count: *//;s/"//g')
+      [ "$second" != "$sc" ] && echo "MISMATCH: $f | skip_number=$skip | stroke_count=$sc"
+      ;;
+  esac
+done
+```
+This found 2 more instances of the exact same bug class beyond `垂`: `乎` (skip `4-5-3`, `stroke_count` was 8, should be 5) and `乗` (skip `4-9-3`, `stroke_count` was 12, should be 9) — both confirmed against EDRDG (SKIP code correct both times, only `stroke_count` wrong), both corrected. The cascade this produced:
+- `乎` removed from `Stroke 08` (size 286→285, its old wrong home), added to `Stroke 05` (size 122→123... except a full ground-truth diff on `Stroke 05` revealed the page's *real* pre-existing character count was 121, not the stated 122 — an unrelated stale `size` value — so after adding `乎` the correct final `size` is 122, not 123). **Lesson: don't assume the old `size` value was ever correct even absent any known bug — always trust the mechanical ruby-tag-count-vs-ground-truth-count comparison over arithmetic on the stated field.**
+- `乗` removed from `Stroke 12` (size 337→336), added to `Stroke 09`. A full ground-truth diff on `Stroke 09` (its stated `size: 291`) turned up **3 more unrelated pre-existing gaps** beyond `乗` itself: `兗` (added to existing `2-2-7` group), `恍` and `後` (both added to existing `1-3-6` group) — real final size 297, again well off the stale stated value.
+- Checking `Stroke 12` fully (not just removing `乗`) surfaced 3 more unrelated gaps there too: `堡` (`2-9-3`), `徨` (`1-3-9`), `跋` (`1-7-5`) — final size 339. Also fixed a non-canonical Data check query column (`stroke_count AS "Stroke"` → the canonical `注音 AS "Sound"`).
+- **Recurring pattern across this whole cascade**: every single destination/touched page had at least one unrelated pre-existing gap beyond the one character that triggered the visit (Stroke 08: +4, Stroke 09: +3, Stroke 12: +3). Treat "I only came here to move one character" as a false economy — a full ground-truth diff on any page you touch is cheap and has caught real gaps 100% of the time so far in this lint type.
+
 ### 0. Scope, and how this differs from every other `lint` type
 
 `lookup/Stroke/` is 31 files: 30 stroke-count pages (`Stroke 01.md` through `Stroke 30.md`) plus `Stroke.md`. Two things make this type unlike SKIP/Radicals/Syllables/Chengyu:

@@ -1,6 +1,6 @@
 ---
 stroke_count: 5
-date-last-perfect: 2026-04-28
+date-last-perfect: 2026-07-09
 size: 122
 tags:
   - lookup
@@ -22,7 +22,7 @@ tags:
 - 3-3-2: <ruby>[[囚]]<rt>ㄙㄨㄛ</rt></ruby>, <ruby>[[巨]]<rt>ㄍ⼄</rt></ruby>, <ruby>[[尼]]<rt>ㄋㄧㄜ</rt></ruby>, <ruby>[[目 (char)|目]]<rt>ㄇㄨㄎ</rt></ruby>, <ruby>[[四 (char)|四]]<rt>ㄙㄧㄜ</rt></ruby>, <ruby>[[広 (char)|広]]<rt>ㄍ⺢ㄫ</rt></ruby>, <ruby>[[庁]]<rt>ㄑㄝㄫ</rt></ruby>, <ruby>[[瓜]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[民]]<rt>ㄇㄧㄋ</rt></ruby>, <ruby>[[処 (char)|処]]<rt>ㄑㄛ</rt></ruby>, <ruby>[[尻 (char)|尻]]<rt>ㄎㄚㄨ</rt></ruby>, <ruby>[[田]]<rt>ㄉㄝㄋ</rt></ruby>, <ruby>[[辺]]<rt>ㄅㄝㄋ</rt></ruby>, <ruby>[[皮]]<rt>ㄅㄧ</rt></ruby>
 - 4-5-1: <ruby>[[甲 (char)|甲]]<rt>ㄍㄚㄆ</rt></ruby>, <ruby>[[母]]<rt>ㄇㄛㄨ</rt></ruby>, <ruby>[[皿 (char)|皿]]<rt>ㄇ⼶ㄫ</rt></ruby>, <ruby>[[平]]<rt>ㄅ⼶ㄫ</rt></ruby>, <ruby>[[丙 (char)|丙]]<rt>ㄅ⼶ㄫ</rt></ruby>, <ruby>[[且 (char)|且]]<rt>ㄑㄛ</rt></ruby>, <ruby>[[疋]]<rt>ㄙㄜ</rt></ruby>, <ruby>[[凸 (char)|凸]]<rt>ㄉㄛㄊ</rt></ruby>, <ruby>[[冊 (char)|冊]]<rt>ㄑㄚㄎ</rt></ruby>, <ruby>[[瓦 (char)|瓦]]<rt>⺢</rt></ruby>, <ruby>[[正 (char)|正]]<rt>ㄐㄧㄫ</rt></ruby>, <ruby>[[玉 (char)|玉]]<rt>⼄ㄎ</rt></ruby>, <ruby>[[凹 (char)|凹]]<rt>ㄚㄨ</rt></ruby>
 - 4-5-2: <ruby>[[白 (char)|白]]<rt>ㄅㄚㄎ</rt></ruby>, <ruby>[[丘 (char)|丘]]<rt>ㄎ⼜</rt></ruby>, <ruby>[[世]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[出 (char)|出]]<rt>ㄑㄨㄊ</rt></ruby>, <ruby>[[甘 (char)|甘]]<rt>ㄍㄚㄇ</rt></ruby>, <ruby>[[生]]<rt>ㄙㄚㄫ</rt></ruby>, <ruby>[[由 (char)|由]]<rt>⼜ㄛ</rt></ruby>
-- 4-5-3: <ruby>[[冉]]<rt>ㄋ⼶ㄇ</rt></ruby>, <ruby>[[朮]]<rt>ㄐㄨㄊ</rt></ruby>, <ruby>[[半]]<rt>ㄅㄚㄋ</rt></ruby>, <ruby>[[末]]<rt>ㄇㄚㄊ</rt></ruby>, <ruby>[[申]]<rt>ㄙㄝㄋ</rt></ruby>, <ruby>[[禾 (char)|禾]]<rt>ㄏ⺢</rt></ruby>, <ruby>[[本 (char)|本]]<rt>ㄅㄛㄋ</rt></ruby>, <ruby>[[未 (char)|未]]<rt>ㄇㄨㄧ</rt></ruby>
+- 4-5-3: <ruby>[[冉]]<rt>ㄋ⼶ㄇ</rt></ruby>, <ruby>[[朮]]<rt>ㄐㄨㄊ</rt></ruby>, <ruby>[[半]]<rt>ㄅㄚㄋ</rt></ruby>, <ruby>[[末]]<rt>ㄇㄚㄊ</rt></ruby>, <ruby>[[申]]<rt>ㄙㄝㄋ</rt></ruby>, <ruby>[[禾 (char)|禾]]<rt>ㄏ⺢</rt></ruby>, <ruby>[[本 (char)|本]]<rt>ㄅㄛㄋ</rt></ruby>, <ruby>[[未 (char)|未]]<rt>ㄇㄨㄧ</rt></ruby>, <ruby>[[乎 (char)|乎]]<rt>ㄏㄛ</rt></ruby>
 - 4-5-4: <ruby>[[央]]<rt>⼘ㄫ</rt></ruby>, <ruby>[[弗]]<rt>ㄈㄨㄊ</rt></ruby>, <ruby>[[戊]]<rt>ㄇㄛㄨ</rt></ruby>, <ruby>[[犮]]<rt>ㄅ⼘ㄊ</rt></ruby>, <ruby>[[史]]<rt>ㄙㄧ</rt></ruby>, <ruby>[[失]]<rt>ㄙㄧㄊ</rt></ruby>
 
 ### Aliases
