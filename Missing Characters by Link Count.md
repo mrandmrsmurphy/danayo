@@ -6,14 +6,9 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### 3 HSKs and Korean
 - [[瓷]]
 
-### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㄱ
-[[怯 (char)]]
-
-### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅁ
-[[芒]]
-
-### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name ㅈ
-[[躇]]
+### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name 
+- [[芒]]
+- [[躇]]
 
 
 ## 3 links
@@ -46,29 +41,22 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 3 + Old HSK 4 + SKIP-1-3-14
 [[擠]]
 
-### Old HSK 3 + Old HSK 5 + Korean Name ㅁ
+### 2 Old HSKs +  Korean Name 
 [[陌]]
-
-### Old HSK 3 + Old HSK 6 + Korean Name ㄱ
 [[辜]]
-
-### Old HSK 3 + Old HSK 6 + Korean Name ㄷ
 [[幢]]
-
-### Old HSK 3 + Old HSK 6 + Korean Name ㅁ
 [[氓]]
-
-### Old HSK 3 + Old HSK 6 + Korean Name ㅂ
 [[磅]]
-
-### Old HSK 3 + Old HSK 6 + Korean Name ㅇ
 [[哦]]
-
-### Old HSK 3 + Old HSK 6 + Korean Name ㅊ
 [[沾]]
-
-### Old HSK 3 + Old HSK 6 + Korean Name ㅍ
 [[袍]]
+[[橡]]
+[[捐]]
+[[杠]]
+[[碌]]
+[[渺]]
+[[稠]]
+[[烹]]
 
 ### Old HSK 3 + Hyōgai + Korean Name ㅅ
 [[廂]]
@@ -79,26 +67,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 3 + Jinmeiyō + Korean Name ㅅ
 [[詢]]
 
-### Old HSK 4 + Old HSK 5 + Korean Name ㅅ
-[[橡]]
-
-### Old HSK 4 + Old HSK 5 + Korean Name ㅇ
-[[捐]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㄱ
-[[杠]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㄹ
-[[碌]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㅁ
-[[渺]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㅈ
-[[稠]]
-
-### Old HSK 4 + Old HSK 6 + Korean Name ㅍ
-[[烹]]
 
 ### Old HSK 4 + Hyōgai + Jinmeiyō
 [[蕾]]
@@ -405,44 +373,20 @@ Both new
 
 - 邀 Create 敫?, root of 激
 
-### Old HSK 2 + Old HSK 3 + Old HSK 4
+### 3 Old HSKs
 [[奶]] · [[吵]]
-
-### Old HSK 3 + Old HSK 4 + Old HSK 5
 [[亏]] · [[骤]] · [[匆]] · [[档]] · [[霉]] · [[裹]] · [[浇]] · [[挤]] · [[销]]
-
-### Old HSK 3 + Old HSK 4 + Old HSK 6
 [[氧]] · [[扒]] · [[绑]] · [[扯]] · [[兑]] · [[狠]]
-
-### Old HSK 2 + Old HSK 4 + Old HSK 5
 [[悄]] · [[躲]] · [[抢]] · [[嚷]] · [[傻]]
-
-### Old HSK 2 + Old HSK 3 + Old HSK 5
 [[赶]] · [[抖]] · [[碰]] · [[飘]] · [[皂]]
-
-### Old HSK 2 + Old HSK 4 + Old HSK 6
 [[扣]] · [[挖]] · [[掀]]
 
-### Old HSK 4 + Old HSK 6
+### 2 Old HSKs
 [[搏]] · [[贬]] · [[筹]] · [[叨]] · [[捣]] · [[馋]] · [[阐]] · [[叮]] · [[捍]] · [[眶]] · [[谎]] · [[筛]] · [[衔]] · [[疤]] · [[掰]] · [[蹦]] · [[辫]] · [[憋]] · [[岔]] · [[搀]] · [[踌]] · [[唠]] · [[叼]] · [[碳]] · [[馈]] · [[畴]] · [[疙]] · [[瘩]] · [[蒂]] · [[滤]] · [[蔼]] · [[吁]] · [[讥]] · [[妒]] · [[韧]] · [[桨]] · [[瞩]] · [[磕]] · [[啃]] · [[挎]] · [[框]] · [[晾]] · [[饪]] · [[惫]] · [[掐]] · [[谴]] · [[氢]] · [[瘸]] · [[腮]] · [[捎]] · [[瘫]] · [[痪]] · [[衅]] · [[惋]] · [[馅]] · [[镶]] · [[泻]] · [[汹]] · [[膛]] · [[酗]] · [[酝]] · [[蕴]]
-
-### Old HSK 3 + Old HSK 4
 [[售]] · [[么]] · [[綁]] · [[檔]] · [[澆]] · [[脸]] · [[臉]] · [[凿]]
-
-### Old HSK 3 + Old HSK 6
 [[罩]] · [[哟]] · [[惦]] · [[媳]] · [[坝]] · [[袱]] · [[甭]] · [[钞]] · [[搓]] · [[蹬]] · [[瞪]] · [[盯]] · [[陡]] · [[哆]] · [[嗦]] · [[阂]] · [[溉]] · [[咙]] · [[溅]] · [[讶]] · [[惕]] · [[愣]] · [[拢]] · [[搂]] · [[眯]] · [[拧]] · [[趴]] · [[翘]] · [[烁]] · [[耍]] · [[塌]] · [[摊]] · [[倘]] · [[砸]] · [[崭]]
-
-### Old HSK 2 + Old HSK 4
 [[估]] · [[笨]] · [[搶]] · [[跟]]
-
-### Old HSK 2 + Old HSK 3
 [[趕]] · [[懂]]
-
-### Old HSK 2 + Old HSK 5
 [[抓]] · [[踩]] · [[拆]] · [[趁]] · [[挡]] · [[捡]] · [[砍]] · [[烤]] · [[拦]] · [[瞧]] · [[摔]] · [[甩]] · [[撕]] · [[烫]] · [[睁]] · [[脖]] · [[胳]] · [[嗓]]
-
-### Old HSK 3 + Old HSK 5
 [[柜]] · [[氛]] · [[挣]] · [[厢]] · [[鸽]] · [[瞎]] · [[询]]
-
-### Old HSK 4 + Old HSK 5
 [[搞]] · [[链]] · [[髦]] · [[屉]]
