@@ -1,13 +1,13 @@
 ---
-mandarin: "shè"
-cantonese: "sip3"
-korean: "섭"
+mandarin: shè
+cantonese: sip3
+korean: 섭
 korean_native: 건널
 japanese:
   - SHOU
 japanese_native: わた
 vietnamese:
-middle_chinese_initial: t
+middle_chinese_initial: d͡ʑ
 middle_chinese_final: ep
 stroke_count: 11
 radical: 水
@@ -18,7 +18,7 @@ english:
   - ford
 羅馬字: seb
 諺文: 섭
-joyo_level: "高等"
+joyo_level: 高等
 hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5111
@@ -31,7 +31,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 
+boundedness:
 ---
 >[!tip] This is a page about the character 渉.
 >For the word, see [渉](words/渉.md)
