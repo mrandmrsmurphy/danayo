@@ -1,9 +1,19 @@
 ---
 size: 2
 middle_chinese_final: ɣiᴇp
+date-last-perfect: 2026-07-10
 tags: [lookup]
-
 ---
+> [Classical Chinese](../Classical%20Chinese.md)
+> **Final 葉B三** has two ʈ-initial characters, each landing on a different group
+
+## CJKV Evolution
+葉B三 [ɣiᴇp] has only two characters, 耴 and 輒 — both ʈ-initial, both Cantonese *zip3*, both Korean 첩 — yet they land on two different groups: 耴 on **ㄨㄆ**, 輒 on **ㄛㄆ** (the latter matching the ㄛ quality documented on the closely related [[韻 葉三|葉三]]). A same-initial, near-homophone split with only two members.
+
+## Characters
+### In Use
+- ㄨㄆ: <ruby>[[耴]]<rt>ㄐㄨㄆ</rt></ruby>
+- ㄛㄆ: <ruby>[[輒]]<rt>ㄐㄛㄆ</rt></ruby>
 
 ## Datacheck
 ```base
@@ -13,6 +23,7 @@ views:
     name: Final ɣiᴇp
     filters:
       and:
+        - file.inFolder("characters")
         - middle_chinese_final == "ɣiᴇp"
     order:
       - file.name
@@ -21,7 +32,7 @@ views:
       - korean
       - middle_chinese_initial
       - middle_chinese_final
-      - 諺文
+      - 注音
     sort:
       - property: 羅馬字
         direction: ASC
