@@ -23,9 +23,9 @@ english:
   - skewer
 羅馬字: jwam
 諺文: 좜
-joyo_level: "高等"
+joyo_level: 高等
 hsk_level: "3"
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 6222
 mc_id: 8213
 graphemic_classification: 象形
@@ -35,6 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
+  - hapax
 boundedness: 100
 ---
 >[!tip] This is a page about the character 串.
