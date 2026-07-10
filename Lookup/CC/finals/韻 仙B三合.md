@@ -1,13 +1,21 @@
 ---
 size: 12
 middle_chinese_final: ɣiuᴇn
+date-last-perfect: 2026-07-10
 tags: [lookup]
-
 ---
-## Characters
-### To 'wen'
-1. <ruby>[転](/characters/転.md)<rt>ㄐ⼔ㄋ</rt></ruby> -> wen
+> [Classical Chinese](../Classical%20Chinese.md)
+> **Final 仙B三合** mostly evolved into ⼔ㄋ, with two null-initial exceptions (see below)
 
+## CJKV Evolution
+仙B三合 [ɣiuᴇn] lands 10 of 12 characters on **⼔ㄋ**, matching the y-glide-bearing half of the Vowels table's documented dual winner (`wen/on`).
+
+**媛** and **援** are both null-initial (ø) — the exact same initial class as 院, which stays in the main group. Rather than joining 院 on the already 10-member-crowded ⼔ㄋ, 媛 and 援 drop the glide entirely and land on **ㄛㄋ**.
+
+## Characters
+### In Use
+- ⼔ㄋ: <ruby>[[圏 (char)|圏]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[巻 (char)|巻]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[栓 (char)|栓]]<rt>ㄙ⼔ㄋ</rt></ruby>, <ruby>[[伝]]<rt>ㄐ⼔ㄋ</rt></ruby>, <ruby>[[倦]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[拳]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[権]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[篆]]<rt>ㄐ⼔ㄋ</rt></ruby>, <ruby>[[院]]<rt>⼔ㄋ</rt></ruby>, <ruby>[[転]]<rt>ㄐ⼔ㄋ</rt></ruby>
+- ㄛㄋ: <ruby>[[媛]]<rt>ㄛㄋ</rt></ruby>, <ruby>[[援]]<rt>ㄛㄋ</rt></ruby>
 
 ## Datacheck
 ```base
@@ -17,6 +25,7 @@ views:
     name: Final ɣiuᴇn
     filters:
       and:
+        - file.inFolder("characters")
         - middle_chinese_final == "ɣiuᴇn"
     order:
       - file.name
@@ -25,7 +34,7 @@ views:
       - korean
       - middle_chinese_initial
       - middle_chinese_final
-      - 諺文
+      - 注音
     sort:
       - property: 羅馬字
         direction: ASC
