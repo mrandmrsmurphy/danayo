@@ -85,10 +85,10 @@ This is why some initials/finals converge cleanly (daughter languages agree → 
 ### Phonotactic constraints (same file, `分布の制限`, lines ~122–139) — mechanically checkable
 
 - ㄉ, ㄊ, ㄑ, ㄐ cannot combine with a y-glide.
-- ㄈ cannot take *any* glide.
-- w-glide only precedes ㄚ/ㄝ, and cannot co-occur with ㄋㄌㄅㄆㄇ.
+- ㄈ cannot take an **on-glide** (a medial glide between the initial and the vowel nucleus, e.g. a w- or y- glide immediately after ㄈ). Off-glides (a glide as part of the coda, after the vowel nucleus — the ㄧ in ㄈㄨㄧ, where ㄨ is the vowel and ㄧ closes the syllable) are unaffected and perfectly normal.
+- w-glide (on-glide) only precedes ㄚ/ㄝ, and cannot co-occur with ㄋㄌㄅㄆㄇ.
 
-Confirmed against real data: on `韻 尤`, 9 of the 12 "plain ㄨ" (no-glide) group members are ㄑ/ㄐ-initial — exactly the barred consonants. On `韻 屋三`, all 6 ㄈ-initial characters land on plain `uk`, zero exceptions. **Check this before calling a split "unexplained"** — it may just be phonotactics forcing specific initials out of a glide-final group.
+Confirmed against real data: on `韻 尤`, 9 of the 12 "plain ㄨ" (no-glide) group members are ㄑ/ㄐ-initial — exactly the barred consonants. On `韻 屋三`, all 6 ㄈ-initial characters land on plain `uk`, zero exceptions. `韻 微合` initially looked like a counter-example (斐, 扉, 緋 = ㄈㄨㄧ) until re-parsed correctly: ㄨ there is the vowel nucleus with ㄧ as an off-glide coda, not an on-glide — so the rule holds. **Check this before calling a split "unexplained"** — it may just be phonotactics forcing specific initials out of an on-glide-final group. When checking, be careful to distinguish on-glide (medial, before the vowel) from off-glide (coda, after the vowel) — they look identical in bopomofo notation but only the on-glide is constrained.
 
 ### 合 (rounded) finals reliably take a w-glide — a free, ready-made rule
 

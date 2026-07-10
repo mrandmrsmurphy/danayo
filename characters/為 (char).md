@@ -5,8 +5,7 @@ korean: 위
 korean_native: 할
 japanese:
   - I
-japanese_native: す
-  - さだ
+japanese_native: す - さだ
 vietnamese:
   - vi, vị, vĩ
 middle_chinese_initial: ø
@@ -34,6 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
+  - hapax
 boundedness: 100
 ---
 >[!tip] This is a page about the character 為.
