@@ -1,8 +1,8 @@
 ---
-mandarin: "gǔn"
+mandarin: gǔn
 cantonese: gwan2
-korean: "곤"
-korean_native: "흐를"
+korean: 곤
+korean_native: 흐를
 japanese:
   - KON
 japanese_native: たぎ
@@ -12,30 +12,31 @@ vietnamese:
   - củn
   - ngổn
 middle_chinese_initial: k
-middle_chinese_final: "uən"
+middle_chinese_final: uən
 stroke_count: 14
-radical: "水"
+radical: 水
 skip_number: 1-3-11
-grade_level: "先進"
-pos: "事詞"
+grade_level: 先進
+pos: 事詞
 english:
   - boil
   - roll
 羅馬字: gwan
-諺文: "관"
-joyo_level: "表外字"
+諺文: 관
+joyo_level: 表外字
 hsk_level: "2"
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 7378
 mc_id: 0
-graphemic_classification: "袞"
-stand_in: "滾"
+graphemic_classification: 袞
+stand_in: 滾
 aliases:
   - 滚
-注音: "ㄍ⺢ㄋ"
+注音: ㄍ⺢ㄋ
 kwin: false
 tags:
   - character
+  - hapax
 boundedness: 80
 ---
 >[!tip] This is a page about the character 滾.
