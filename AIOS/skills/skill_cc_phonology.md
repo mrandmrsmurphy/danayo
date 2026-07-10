@@ -98,6 +98,10 @@ Checked every 開/合 pair in `文法 - 99韻図.md`'s own Vowels-table D column
 
 一等 (division-1) finals converge cleanly: 東一 (all 46 → one group), 寒 (47 of 48 → one group, 1 singleton exception). 三等 (division-3) finals fracture: 尤 (114 → 4-way split), 陽開 (fractures into 4+ groups, some even changing the coda, not just the vowel). This tracks real historical linguistics — division-3 rimes are exactly where daughter languages independently diverge most (medial/palatalization splits differ by language), so there's less "middle ground" for the average-value rule to find. **Check a final's own name for its division/開合 status before starting a page — it sets expectations for how much splitting to expect.**
 
+### Homophony avoidance can shift the initial letter, not just the vowel
+
+Every homophony-driven escape documented earlier in this sweep changed the *vowel* (or coda) to dodge a crowded slot. `韻 灰` (2026-07-10) found a different mechanism: 4 real bilabial p/b-initial characters (徘, 佩, 培, 輩) — with no labiodental quality in any daughter reading — spell with ㄈ, the letter normally reserved for 非/敷/奉-type initials, instead of the expected ㄅ/ㄆ. This spreads a crowded labial-initial cluster across three initial-letter buckets instead of the usual two, borrowing a different consonant class's spelling rather than picking a new vowel. Keep an eye out for this pattern — an initial letter that doesn't match a character's real MC initial type isn't automatically a data error (compare 屎/靡/鄙, which were flagged as likely typos); check whether it clusters with several same-initial siblings before deciding which explanation applies.
+
 ---
 
 ## Reference table coverage caveat
