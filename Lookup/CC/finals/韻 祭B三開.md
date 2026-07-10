@@ -1,9 +1,18 @@
 ---
 size: 2
 middle_chinese_final: ɣiᴇi
+date-last-perfect: 2026-07-10
 tags: [lookup]
-
 ---
+> [Classical Chinese](../Classical%20Chinese.md)
+> **Final 祭B三開** evolved into ㄝ
+
+## CJKV Evolution
+祭B三開 [ɣiᴇi] has only 2 characters, 憩 and 滞, and both converge on **ㄝ**, matching the Vowels table's documented winner (`e`) — no exceptions.
+
+## Characters
+### In Use
+- ㄝ: <ruby>[[憩]]<rt>ㄎㄝ</rt></ruby>, <ruby>[[滞]]<rt>ㄐㄝ</rt></ruby>
 
 ## Datacheck
 ```base
@@ -13,6 +22,7 @@ views:
     name: Final ɣiᴇi
     filters:
       and:
+        - file.inFolder("characters")
         - middle_chinese_final == "ɣiᴇi"
     order:
       - file.name
@@ -21,7 +31,7 @@ views:
       - korean
       - middle_chinese_initial
       - middle_chinese_final
-      - 諺文
+      - 注音
     sort:
       - property: 羅馬字
         direction: ASC

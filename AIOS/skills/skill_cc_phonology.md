@@ -92,7 +92,7 @@ Confirmed against real data: on `韻 尤`, 9 of the 12 "plain ㄨ" (no-glide) gr
 
 ### 合 (rounded) finals reliably take a w-glide — a free, ready-made rule
 
-Checked every 開/合 pair in `文法 - 99韻図.md`'s own Vowels-table D column: every single 合 final's Dan'a'yo output contains a w-glide, every 開 counterpart doesn't. Held for all 9 pairs originally checked (泰開/泰合, 寒/桓, 曷/末, 刪開/刪合, 黠開/黠合, 歌/戈一合, 藥開/藥合). **Cite this directly for any 合 final's CJKV Evolution prose** instead of re-deriving it from scratch — but note it is a strong tendency, not exceptionless: `韻 佳開` (2026-07-10) found a real counter-example, 5 characters (拐, 矮, 柴, 厓, 洒) carrying a w-glide on an 開 final with no shared conditioning factor among their MC initials.
+Checked every 開/合 pair in `文法 - 99韻図.md`'s own Vowels-table D column: every single 合 final's Dan'a'yo output contains a w-glide, every 開 counterpart doesn't. Held for all 9 pairs originally checked (泰開/泰合, 寒/桓, 曷/末, 刪開/刪合, 黠開/黠合, 歌/戈一合, 藥開/藥合). **Cite this directly for any 合 final's CJKV Evolution prose** instead of re-deriving it from scratch — but note it is a strong tendency, not exceptionless. Two confirmed counter-examples found later in the sweep (2026-07-10), one in each direction: `韻 佳開` (開 final) has 5 characters (拐, 矮, 柴, 厓, 洒) that unexpectedly carry a w-glide, with no shared conditioning factor among their MC initials; `韻 祭B三合` (合 final) has all 3 of its characters (彗, 穢, 衛) land on plain ㄝ with no w-glide at all. The rule is still worth citing as a strong default, but don't be surprised by an occasional exception on either side.
 
 ### Division (等) predicts how much a final will fracture
 
