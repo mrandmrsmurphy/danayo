@@ -34,6 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
+  - hapax
 boundedness: 90
 ---
 >[!tip] This is a page about the character 凶.
