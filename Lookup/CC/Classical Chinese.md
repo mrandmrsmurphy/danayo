@@ -53,10 +53,15 @@ views:
       - file.name
       - size
       - middle_chinese_final
+      - file.mtime
+      - date-last-perfect
     sort:
+      - property: size
+        direction: ASC
       - property: middle_chinese_final
         direction: ASC
-      - property: size
-        direction: DESC
+    columnSize:
+      note.size: 74
+      note.middle_chinese_final: 88
 
 ```

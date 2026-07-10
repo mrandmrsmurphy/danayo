@@ -44,7 +44,7 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*ɢruds): semantic [[㣇]] ("hedgehog; bristles") + phonetic [[胃 (char)|胃]] (OC \*ɢuds) – originally depicted a hedgehog; extended to "gather, assemble" from the image of bristles clustering together, hence "collection, category."
+- 形声 (OC \*ɢruds): semantic 㣇 ("hedgehog; bristles") + phonetic [[胃 (char)|胃]] (OC \*ɢuds) – originally depicted a hedgehog; extended to "gather, assemble" from the image of bristles clustering together, hence "collection, category."
 - [SKIP-2-3-10](lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - 4850th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄏㄨ](syllables/ㄏㄨ.md)
 - [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Grade 6](lookup/Grade%206.md)
