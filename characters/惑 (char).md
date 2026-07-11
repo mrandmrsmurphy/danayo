@@ -9,7 +9,7 @@ japanese_native: まど
 vietnamese:
   - hoặc
 middle_chinese_initial: "ɣ"
-middle_chinese_final: "wǝk"
+middle_chinese_final: "wək"
 stroke_count: 12
 radical: "心"
 skip_number: 2-8-4

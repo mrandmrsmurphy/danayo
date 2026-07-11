@@ -11,7 +11,7 @@ japanese_native: あかり
 vietnamese:
   - đăng
 middle_chinese_initial: t
-middle_chinese_final: "ǝŋ"
+middle_chinese_final: "əŋ"
 stroke_count: 6
 radical: "火"
 skip_number: 1-4-2

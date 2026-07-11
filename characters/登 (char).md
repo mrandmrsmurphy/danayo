@@ -11,7 +11,7 @@ vietnamese:
   - đăng
   - đắng
 middle_chinese_initial: t
-middle_chinese_final: "ǝŋ"
+middle_chinese_final: "əŋ"
 stroke_count: 12
 radical: "癶"
 skip_number: 2-5-7

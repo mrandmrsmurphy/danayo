@@ -9,7 +9,7 @@ japanese_native: ø
 vietnamese:
   - băng
 middle_chinese_initial: p
-middle_chinese_final: "ǝŋ"
+middle_chinese_final: "əŋ"
 stroke_count: 11
 radical: "山"
 skip_number: 2-3-8

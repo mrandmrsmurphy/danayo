@@ -13,7 +13,7 @@ vietnamese:
   - đấu
   - đẩu
 middle_chinese_initial: t
-middle_chinese_final: ǝu
+middle_chinese_final: əu
 stroke_count: 4
 radical: 斗
 skip_number: 3-2-2

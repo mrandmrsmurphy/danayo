@@ -11,7 +11,7 @@ vietnamese:
   - rảo
   - tẩu
 middle_chinese_initial: "t͡s"
-middle_chinese_final: "ǝu"
+middle_chinese_final: "əu"
 stroke_count: 7
 radical: "走"
 skip_number: 2-3-4
