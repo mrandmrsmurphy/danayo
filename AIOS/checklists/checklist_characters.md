@@ -40,7 +40,7 @@ english:                   # English gloss(es), as a list
 諺文: 시                    # Hangul of the Dan'a'yo pronunciation
 joyo_level: "3"             # Japanese level — see Level links table below
 hsk_level: "2"              # HSK level — see Level links table below
-hanmun_edu_level: 中        # K level: 中 (MS), 高 (HS), 名 (name), or 無 (absent)
+hanmun_edu_level: 中        # K level: 中 (MS), 高等 (HS), 名 (name), or 無 (absent)
 danayo_id: 2230             # Dan'a'yo character unique ID (integer)
 mc_id: 351                  # Middle Chinese frequency rank 
 graphemic_classification: 寺  # phonetic component name (形声) or type name (象形/指事/会意)
