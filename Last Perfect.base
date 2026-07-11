@@ -13,9 +13,9 @@ views:
       - danayo_id
       - joyo_level
     sort:
-      - property: date-last-perfect
-        direction: ASC
       - property: joyo_level
+        direction: DESC
+      - property: date-last-perfect
         direction: ASC
       - property: file.mtime
         direction: DESC
@@ -33,9 +33,10 @@ views:
         direction: ASC
     columnSize:
       file.name: 159
-      note.size: 130
+      note.size: 69
       note.注音: 132
       note.羅馬字: 160
       note.諺文: 62
       note.english: 188
-      note.danayo_id: 95
+      file.mtime: 201
+      note.danayo_id: 67
