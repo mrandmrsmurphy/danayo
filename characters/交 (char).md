@@ -52,6 +52,8 @@ boundedness: 80
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[交友]]<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby> "make friends"
+- <ruby>[[交遊]]<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby> "make friendship; form companionship"
 - <ruby>[[交流]]<rt>ㄍ⼄ㄨㄌ⼜</rt></ruby> "exchange; interaction; to mingle"
 - [[交互]] "reciprocal; mutual; alternate"
 - [[交付]] "to hand over; to deliver"

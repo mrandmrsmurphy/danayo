@@ -1,7 +1,7 @@
 ---
-mandarin: "zhuō, chán, shàn"
-cantonese: "cheuk3, jeuk3"
-korean: "탁"
+mandarin: zhuō, chán, shàn
+cantonese: cheuk3, jeuk3
+korean: 탁
 korean_native: 탁자
 japanese:
   - TAKU
@@ -24,7 +24,7 @@ joyo_level: 表外字
 hsk_level: "1"
 hanmun_edu_level: 無
 danayo_id: 5362
-mc_id:
+mc_id: 0
 graphemic_classification: 卓
 stand_in: 桌
 aliases:

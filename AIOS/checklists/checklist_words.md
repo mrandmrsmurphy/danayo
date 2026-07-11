@@ -63,21 +63,9 @@ characters:      # ✓ correct — every character listed individually
 
 The body has two fixed elements.
 
-### Homophone callout *(when needed)*
-
-When a word shares its exact Dan'a'yo pronunciation (same 注音 / 羅馬字) with another word, add a `[!tip]` callout **before** the meta-bind-embed block:
-
-```markdown
-> [!tip] This word is a homophone of [[OtherWord]] "gloss".
-```
-
-- Both words must carry the callout, cross-linking each other.
-- Use the English gloss of the other word in quotes after its link.
-- Do **not** note the homophone only in the Notes prose — the callout is the canonical place.
-
 ### meta-bind-embed block
 
-The first line of the body (or the first line after the homophone callout) is always:
+The first line of the body is always:
 
 ```
 ​```meta-bind-embed
@@ -85,21 +73,39 @@ The first line of the body (or the first line after the homophone callout) is al
 ​```
 ```
 
+### Homophone callout *(when needed)*
+
+When a word shares its exact Dan'a'yo pronunciation (same 注音 / 羅馬字) with another word, add a `>[!warning] Homophones` callout **immediately after** the meta-bind-embed block, **before** `## Notes`:
+
+```markdown
+>[!warning] Homophones
+> [[OtherWord]] "gloss"
+```
+
+- Both words must carry the callout, cross-linking each other.
+- List each homophone with its short English gloss; separate multiple homophones with em-dashes on one line, or one per line.
+- Do **not** note the homophone only in the Notes prose, and do **not** put it before the meta-bind-embed — the callout goes after the embed, and is the canonical place.
+
 ### Notes section
 
-After the meta-bind-embed block, add a `## Notes` section that links each constituent character back to its character page:
+After the homophone callout (or after the meta-bind-embed if there is none), add a `## Notes` section. This is a **substantive, encyclopedic** section, not a one-line gloss — see [[AIOS/memory/feedback_notes_style.md]]. Structure:
+
+1. **Opening bullet**, linking each constituent character back to its character page:
 
 ```markdown
 ## Notes
 - [今 (char)](../characters/今%20(char).md) "present" + [週](../characters/週.md) "week"
 ```
 
-**Link format rules:**
+**Link format rules for the opening bullet:**
 - Always use `../characters/` relative paths, not word-file paths.
 - URL-encode the space before `(char)` as `%20`: `今%20(char).md`.
 - Include the English gloss of each character in quotes after its link.
 - Use `+` to separate components.
 - When a component is a meaningful compound word in its own right (e.g. 世紀), also link to its word page in the same directory: `[世紀](世紀.md)`.
+- If this word is the `stand_in` that legitimizes one of its own constituent characters, append that fact to this bullet — see [[AIOS/memory/feedback_standin_note.md]].
+
+2. **One or more substantive paragraphs** after the opening bullet, covering (as applicable): etymology/origin, historical or cultural context, and — especially — cross-linguistic variation where the concept differs meaningfully across Chinese/Japanese/Korean/Vietnamese (semantic drift, narrowing, homophone collisions, native coinages). Numbered lists for canonical sets (Nine Ministers, Six Hollow Organs, etc.). Cross-link related vault words. Aim for at least 2–3 real paragraphs of content, not a restatement of the gloss.
 
 After the notes, if there are multiple definitions, they should be listed in a numbered list.
 
