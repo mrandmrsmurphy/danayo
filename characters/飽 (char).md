@@ -32,19 +32,24 @@ stand_in: "飽"
 aliases:
   - 饱
 注音: "ㄅ⼘ㄨ"
+date-last-perfect: 2026-07-10
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 飽.
->For the word, see [飽](words/飽.md)
+>For the word, see [飽](../words/飽.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 幫]]
-[[Lookup/CC/finals/韻 肴]]
-- [[飽足]] "satisfied, satiated"
+## Notes
+- 形声 (OC \*pruːʔ): semantic [[Radical 184|食]] ("food") + phonetic [[包]] (OC \*pruː, "wrap") — filled up with food, to the point of being wrapped/enclosed by it.
+- [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 1669th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄅ⼘ㄨ](../syllables/ㄅ⼘ㄨ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[飽足]]<rt>ㄅ⼘ㄨㄐㄛㄎ</rt></ruby> "satisfied, satiated"
