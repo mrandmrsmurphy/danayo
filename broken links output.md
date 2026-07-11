@@ -1,8 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 ## Components
-- [[儿]] in [[characters/先]]
 - [[卩]] in [[characters/光 (char)]], [[characters/即 (char)]], [[characters/皮]], [[characters/色]], [[characters/見 (char)]]
-- [[廾]] in [[characters/共 (char)]]
 - [[㐅]] in [[characters/刈 (char)]]
 - [[豦]] in [[characters/劇 (char)]]
 - [[下劣]] in [[characters/劣]]
@@ -11,7 +9,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[弾劾]] in [[characters/劾]]
 - [[遷 (char)]] in [[characters/千]]
 - [[𠂇]] in [[characters/卑 (char)]]
-- [[厂]] in [[characters/厨]], [[characters/反 (char)]], [[characters/雁 (char)]]
+- [[厂]] in [[characters/反 (char)]], [[characters/雁 (char)]]
 - [[爫]] in [[characters/受]]
 - [[冖]] in [[characters/受]], [[characters/憂]], [[characters/栄]]
 - [[丂]] in [[characters/可 (char)]], [[characters/号]], [[characters/巧]], [[characters/昜]]
@@ -125,7 +123,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[衤]] in [[characters/補]]
 - [[訁]] in [[characters/諂 (char)]], [[characters/謬]]
 - [[臽]] in [[characters/諂 (char)]]
-- [[炎 (char)]] in [[characters/談]]
 - [[𥁑]] in [[characters/謐]]
 - [[覃]] in [[characters/譚]]
 ## Words
