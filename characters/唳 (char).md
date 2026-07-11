@@ -14,7 +14,7 @@ stroke_count: 10
 radical: 口
 skip_number: 1-2-8
 grade_level: 先進
-pos: ""
+pos: 事詞
 english:
   - bird cry
   - caw
