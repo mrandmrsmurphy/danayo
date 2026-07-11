@@ -48,6 +48,7 @@ boundedness: 70
 - [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md)
 
 ## Words
+- <ruby>[[上面]]<rt>ㄙ⼘ㄫㄇ⼶ㄋ</rt></ruby> "surface, outward appearance"
 - <ruby>[[上知]]<rt>ㄙ⼘ㄫㄐㄨㄧ</rt></ruby> "those wise from birth; innate wisdom"
 - [[上述]] The aforementioned
 - <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"

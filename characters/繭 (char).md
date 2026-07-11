@@ -5,7 +5,7 @@ korean: "견"
 korean_native: "고치"
 japanese:
   - KEN
-japanese_native: きぬ
+japanese_native: まゆ
 vietnamese:
   - kiền
   - kén
@@ -15,7 +15,7 @@ stroke_count: 18
 radical: "糸"
 skip_number: 2-3-15
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - cocoon
 羅馬字: gyem
@@ -29,7 +29,7 @@ graphemic_classification: "會意"
 stand_in: "繭"
 aliases:
   - 茧
-注音: "ㄍ⼶ㄫ"
+注音: "ㄍ⼶ㄇ"
 kwin: false
 tags:
   - character
