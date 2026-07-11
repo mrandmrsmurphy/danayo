@@ -198,13 +198,15 @@ List all four levels in order: Dan'a'yo grade, HSK, Jōyō, Korean. Include all 
 | `hsk_level` | `"2"`–`"6"` | `[[lookup/HSK/Old HSK N]]` |
 | `hsk_level` | `"無"` | `[[lookup/HSK/HSK No]]` |
 | `joyo_level` | `"1"`–`"6"` | `[[lookup/Japanese/Jōyō - Kyōiku]]` |
-| `joyo_level` | value > 6 | `[[lookup/Japanese/Jōyō - Kōtō]]` |
+| `joyo_level` | `高等` | `[[lookup/Japanese/Jōyō - Kōtō]]` |
 | `joyo_level` | `表外字` | `[[lookup/Japanese/Hyōgai]]` |
 | `joyo_level` | `人名用字` | `[[lookup/Japanese/Jinmeiyō]]` |
 | `hanmun_edu_level` | `中` | `[[lookup/Korean/Korean MS]]` |
-| `hanmun_edu_level` | `高` | `[[lookup/Korean/Korean HS]]` |
+| `hanmun_edu_level` | `高等` | `[[lookup/Korean/Korean HS]]` |
 | `hanmun_edu_level` | `名` | `[[Lookup/Korean/Korean Name X]]` |
 | `hanmun_edu_level` | `無` | `[[lookup/Korean/Korean Missing]]` |
+
+Real corpus values are always the full strings above (`高等`, `表外字`, `人名用字`) — never a bare `高` or a raw number beyond 6. `joyo_level: 日本人名用漢字` is a stray wrong value seen occasionally in the wild; treat it as a data error and correct it to `人名用字` when found.
 
 ---
 
