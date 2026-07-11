@@ -48,7 +48,7 @@ boundedness: 75
 ## Words
 - <ruby>[[三]]<rt>ㄙㄚㄇ</rt></ruby> - 3
 - <ruby>[[三国]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "Three Kingdoms; three countries"
-- <ruby>[[三十]]<rt>ㄙㄚㄇ십</rt></ruby> - 30
+- <ruby>[[三十]]<rt>ㄙㄚㄇㄙㄧㄆ</rt></ruby> - 30
 - <ruby>[[三叉]]<rt>ㄙㄚㄇ채</rt></ruby> - trident
 - <ruby>[[三月]]<rt>ㄙㄚㄇ웓</rt></ruby> - March
 - <ruby>[[三焦]]<rt>ㄙㄚㄇ좃</rt></ruby> - triple burner
