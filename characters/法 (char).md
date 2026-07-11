@@ -52,12 +52,12 @@ boundedness: 100
 [[Lookup/CC/finals/韻 乏]]
 - <ruby>[[法家]]<rt>ㄈㄚㄆㄍㄚ</rt></ruby> "Legalism"
 - [[法術]] "magic, magic arts"
-- [[法律]] "statute, law, act"
 - [[法輪]] "wheel of dharma"
 - [[法則]] "law, rule, code"
 - [[法螺]] "boast"
 - abbreviation for "francium": <ruby>[[法素]]<rt>ㄈㄚㄆㄙㄛ</rt></ruby>
 
 ## Words
+- <ruby>[[法律]]<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby> "statute, law, act"
 - <ruby>[[法国]]<rt>ㄈㄚㄆㄍㄛㄎ</rt></ruby> "France"
 - <ruby>[[法語]]<rt>ㄈㄚㄆ·⼄</rt></ruby> "French language; dharma speech"
