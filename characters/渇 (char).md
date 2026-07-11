@@ -7,6 +7,9 @@ japanese:
   - KATSU
 japanese_native: かわ
 vietnamese:
+  - khát
+  - hạt
+  - kiệt
 middle_chinese_initial: kʰ
 middle_chinese_final: ɑt
 stroke_count: 11
