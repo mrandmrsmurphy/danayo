@@ -242,13 +242,16 @@ Wiki-links and relative Markdown links are equally valid.
 
 ## `## Derived Characters` section *(optional)*
 
-Include when this character serves as a phonetic or semantic component in other characters in the database. Plain character links, one per line.
+Include when this character serves as a phonetic or semantic component in other characters that already exist in the database — i.e. this character is a graphemic "branch point" with its own descendants. Each descendant gets a ruby-annotated link showing *that descendant's own* Dan'a'yo syllable (not a word-level reading) plus a short English gloss, same `<ruby>` markup as `## Words`. It's normal — expected, even — for every bullet to carry the same ruby: descendants sharing the parent's phonetic component very often converge on the same MC initial+final and thus the same Dan'a'yo syllable, and the whole point of the section is to make that convergence visible at a glance.
 
 ```markdown
 ## Derived Characters
-- [[髯]]
-- [[冄]]
+- <ruby>[[啖]]<rt>ㄉㄚㄇ</rt></ruby> "eat"
+- <ruby>[[痰 (char)|痰]]<rt>ㄉㄚㄇ</rt></ruby> "phlegm"
+- <ruby>[[談]]<rt>ㄉㄚㄇ</rt></ruby> "discuss"
 ```
+
+This is distinct from the graphemic bullet's own phonetic-component link (bullet 1, which points *up* to a character's own phonetic parent) — Derived Characters points *down* to children. When perfecting a character page, check whether other characters in the database name this one as their `graphemic_classification` (phonetic component) or list it as a semantic/component link in their own graphemic bullet; if any do and aren't listed here, that's a gap, the same as a missing `## Words` entry.
 
 ---
 
@@ -266,6 +269,7 @@ Set when:
 8. Levels bullet includes all four level links and they match the frontmatter values per the mapping table.
 9. Every Dan'a'yo word that uses this character appears in `## Words` with a gloss.
 10. Every chengyu that uses this character appears in `## Chengyu`.
+11. Every other character in the database that names this one as its phonetic/semantic component appears in `## Derived Characters`, ruby-annotated with its own syllable, if any such descendants exist.
 
 ---
 
@@ -278,3 +282,4 @@ Set when:
 - **Heading level inconsistency** — use `##` (H2) for Notes, Words, Chengyu, and Derived Characters. Using `#` (H1) or `###` (H3) for these top-level sections is a mistake.
 - **Words entries without glosses** — every word link should be followed by an English gloss in quotes.
 - **Notes bullets out of order or missing** — the four-bullet sequence (graphemic → SKIP/Stroke → MC → levels) is fixed. All four must be present.
+- **Missing `## Derived Characters`** — easy to overlook because it's optional and easy to forget to check *for*. A character with a real graphemic family (its phonetic component is reused by several other vault characters, e.g. [[炎]] → 啖/痰/談) should surface that family here; don't assume the section doesn't apply just because the page never had one before.
