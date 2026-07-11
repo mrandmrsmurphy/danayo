@@ -3,9 +3,6 @@
 Characters not yet in `characters/` that are referenced by lookup pages, grouped first by how many pages link to them, then by which specific pages those are.
 
 ## 4 links
-### 3 HSKs and Korean
-- [[瓷]]
-
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name 
 - [[芒]]
 - [[躇]]
