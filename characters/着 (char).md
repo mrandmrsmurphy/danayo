@@ -30,6 +30,7 @@ graphemic_classification: 者
 stand_in: 着
 aliases:
   - 著
+  - 躇
 注音: ㄐ⺢ㄎ
 kwin: false
 tags:
@@ -46,5 +47,7 @@ boundedness: 100
 # Notes
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 藥開]]
+- 躇 (足 + 著) is aliased here, not given its own page: it's the phonetic host for the 聯綿詞 [[躊躇]] (Dan'a'yo [[寿着]]), where 足 was added purely as a category marker (pacing/hesitation) and never occurs independently of that one word.
 ## Words
 - <ruby>[[顕著]]<rt>ㄏㄝㄋㄐ⺢ㄎ</rt></ruby> "notable, remarkable, prominent"
+- <ruby>[[寿着]]<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby> "hesitate, waver"

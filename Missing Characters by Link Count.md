@@ -2,25 +2,20 @@
 
 Characters not yet in `characters/` that are referenced by lookup pages, grouped first by how many pages link to them, then by which specific pages those are.
 
-## 4 links
-### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name 
-- [[躇]]
-
-
 ## 3 links
 ### 2 HSK + Korean
 - [[滔]] · [[塘]] · [[睹]] - [[匪]] · [[劈]] - [[敞]] · [[猖]] · [[睬]] - [[洽]] · [[罕]] · [[暄]] · [[烘]] - [[鑿]]  [[虧]] - [[熄]] · [[腥]] - [[晤]] · [[隘]] [[飄]] [[簽]] [[膊]] [[吩]] [[銷]] [[兌]]
 
 
-### Hyōgai + Jinmeiyō + Korean Name ㅇ
+### 2 Japanese + Korean Name
 [[溢]] · [[椀]] · [[濡]]
+[[蓑]] · [[楯]]
 
 ### Old HSK 3 + Old HSK 6 + Hyōgai
 [[揉]] · [[艘]]
 
-
 ### Old HSK 4 + Hyōgai + Korean Name ㅈ
-[[躊]] · [[疇]]
+[[疇]]
 
 ### Old HSK 4 + Jinmeiyō + Korean Name ㄱ
 [[葵]] · [[芹]]
@@ -28,8 +23,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 6 + Hyōgai + Korean Name ㅎ
 [[涵]]
 
-### Hyōgai + Jinmeiyō + Korean Name ㅅ
-[[蓑]] · [[楯]]
 
 ### Old HSK 2 + Old HSK 3 + Hyōgai
 [[歉]]
@@ -38,67 +31,19 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[擠]]
 
 ### 2 Old HSKs +  Korean Name 
-[[陌]]
-[[辜]]
-[[幢]]
-[[氓]]
-[[磅]]
-[[哦]]
-[[沾]]
-[[袍]]
-[[橡]]
-[[捐]]
-[[杠]]
-[[碌]]
-[[渺]]
-[[稠]]
-[[烹]]
+[[陌]] [[辜]] [[幢]] [[氓]] [[磅]] [[哦]] [[沾]] [[袍]] [[橡]] [[捐]] [[杠]] [[碌]] [[渺]] [[稠]] [[烹]]
 
-### Old HSK 3 + Hyōgai + Korean Name ㅅ
-[[廂]]
-
-### Old HSK 3 + Hyōgai + Korean Name ㅇ
-[[訝]]
-
-### Old HSK 3 + Jinmeiyō + Korean Name ㅅ
-[[詢]]
-
+### Old HSK + Japanese + Korean Name
+[[廂]] [[訝]] [[詢]] [[籬]] [[薯]] [[斃]] [[瘤]] [[臂]] 
 
 ### Old HSK 4 + Hyōgai + Jinmeiyō
 [[蕾]]
 
-### Old HSK 4 + Hyōgai + Korean Name ㄹ
-[[籬]]
-
-### Old HSK 4 + Hyōgai + Korean Name ㅅ
-[[薯]]
-
-### Old HSK 4 + Hyōgai + Korean Name ㅍ
-[[斃]]
-
 ### Old HSK 4 + Korean Name ㅎ + SKIP-1-3-11
 [[銜]]
 
-### Old HSK 6 + Hyōgai + Korean Name ㄹ
-[[瘤]]
-
-### Old HSK 6 + Hyōgai + Korean Name ㅂ
-[[臂]]
-
-### Hyōgai + Jinmeiyō + Korean Name ㄱ
-[[蕨]]
-
-### Hyōgai + Jinmeiyō + Korean Name ㄹ
-[[漣]]
-
-### Hyōgai + Jinmeiyō + Korean Name ㅂ
-[[枇]]
-
-### Hyōgai + Jinmeiyō + Korean Name ㅈ
-[[杵]]
-
-### Hyōgai + Jinmeiyō + Korean Name ㅊ
-[[諏]]
+### 2 Japanese + Korean Name
+[[蕨]] [[漣]] [[枇]] [[杵]] [[諏]]
 
 ### Hyōgai + Korean Name ㅂ + SKIP-2-6-6
 [[筏]]
@@ -107,27 +52,20 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[奎]]
 
 ## 2 links
-
-
-### Hyōgai + Korean Name ㄱ
+### Hyōgai + Korean Name
 [[澗]] · [[耆]] · [[揆]] · [[櫃]] · [[拮]] · [[炬]] · [[橿]] · [[軀]] · [[痙]] · [[抉]] · [[虔]] · [[腱]] · [[菰]] · [[嗜]] · [[壙]]
 
-### Hyōgai + Korean Name ㅇ
 [[拗]] · [[楡]] · [[隕]] · [[猥]] · [[腋]] · [[筵]] · [[甕]] · [[衙]] · [[鶯]] · [[愕]] · [[姸]] · [[齬]] · [[褥]]
+[[碇]] · [[楮]] · [[甑]] · [[齟]] · [[浙]] · [[瀞]] · [[滓]] · [[贄]] · [[冑]] · [[疵]] · [[趾]] · [[疹]]
 
 ### Hyōgai + Jinmeiyō
 [[鵜]] · [[薙]] · [[樋]] · [[碓]] · [[噂]] · [[隈]] · [[摑]] · [[榎]] · [[笈]] · [[榊]] · [[柘]]
 
-### Hyōgai + Korean Name ㅈ
-[[碇]] · [[楮]] · [[甑]] · [[齟]] · [[浙]] · [[瀞]] · [[滓]] · [[贄]] · [[冑]] · [[疵]] · [[趾]] · [[疹]]
-
 ### Old HSK 2 + Old HSK 6
 [[哼]] · [[扛]] · [[捆]] · [[咋]] · [[巩]]
 
-### Hyōgai + Korean Name ㅎ
+### Hyōgai + Korean Name
 [[瑕]] · [[宦]] · [[檻]] · [[屹]] · [[謔]] · [[噓]] · [[莢]] · [[畦]] · [[蹊]] · [[呟]]
-
-### Hyōgai + Korean Name ㅊ
 [[熾]] · [[峙]] · [[痔]] · [[贅]] · [[嗟]] · [[懺]] · [[睫]]
 
 ### Old HSK 4 + Korean Name ㄱ
@@ -205,10 +143,8 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Korean Name ㄱ + Korean Name ㅇ
 [[梡]] · [[圻]]
 
-### Korean Name ㄱ + SKIP-1-7-7
+### Korean Name + SKIP-1-7-7
 [[覡]] · [[誥]]
-
-### Korean Name ㅊ + SKIP-1-7-17
 [[讒]] · [[讖]]
 
 ### Old HSK 2 + Korean Name ㄱ
