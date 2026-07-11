@@ -4,7 +4,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ## 4 links
 ### Old HSK 4 + Old HSK 6 + Hyōgai + Korean Name 
-- [[芒]]
 - [[躇]]
 
 

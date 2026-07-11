@@ -50,6 +50,7 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[光芒]]<rt>ㄎ⺢ㄫㄇ⼘ㄫ</rt></ruby> "rays; radiance"
 - <ruby>[[燐光]]<rt>ㄌㄧㄋㄎ⺢ㄫ</rt></ruby> "phosphorescence"
 - <ruby>[[蛍光]]<rt>ㄏㄧㄫㄎ⺢ㄫ</rt></ruby> "fluorescence; firefly light"
 - [[圓光]] "halo; aureole"
