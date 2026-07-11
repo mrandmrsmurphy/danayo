@@ -60,6 +60,7 @@ Words
 - <ruby>[混合](/words/混合.md)<rt>ㄏㄛㄋㄎㄚㄆ</rt></ruby> - blend
 - <ruby>[癒合](/words/癒合.md)<rt>⼜ㄎㄚㄆ</rt></ruby> - recover
 - <ruby>[組合](/words/組合.md)<rt>ㄐㄛㄎㄚㄆ</rt></ruby> - assemble
+- <ruby>[[連合王国]]<rt>ㄌ⼶ㄋㄍㄛㄆ⺢ㄫㄍㄛㄎ</rt></ruby> "United Kingdom"
 - <ruby>[[連合国]]<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby> "United Nations; Allied Powers"
 - <ruby>[[結合]]<rt>ㄍㄝㄊㄍㄛㄆ</rt></ruby> "combine; unite"
 - <ruby>[[合成]]<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby> "synthesis; compound"

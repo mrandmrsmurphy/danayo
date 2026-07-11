@@ -52,6 +52,7 @@ boundedness: 90
 - <ruby>[[冥王]]<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby> "Pluto; Hades; Yama; King of the Underworld"
 
 ## Words
+- <ruby>[[連合王国]]<rt>ㄌ⼶ㄋㄍㄛㄆ⺢ㄫㄍㄛㄎ</rt></ruby> "United Kingdom"
 - <ruby>[[王位]]<rt>⺢ㄫ⼔ㄧ</rt></ruby> "throne"
 - <ruby>[[王畿]]<rt>⺢ㄫㄍㄧㄜ</rt></ruby> "royal domain"
 - <ruby>[[大王]]<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby> "great king"

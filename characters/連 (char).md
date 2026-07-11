@@ -59,6 +59,7 @@ boundedness: 90
 	- [[蘇連]] not [[蘇連]]
 
 ## Words
+- <ruby>[[連合王国]]<rt>ㄌ⼶ㄋㄍㄛㄆ⺢ㄫㄍㄛㄎ</rt></ruby> "United Kingdom"
 - <ruby>[[連合国]]<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby> "United Nations; Allied Powers"
 - <ruby>[[連濁]]<rt>ㄌ⼶ㄋㄉㄚㄎ</rt></ruby> "rendaku"
 - <ruby>[[連続]]<rt>ㄌ⼶ㄋㄙ⼄ㄎ</rt></ruby> "continuous; consecutive"
