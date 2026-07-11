@@ -16,7 +16,7 @@ stroke_count: 5
 radical: "口"
 skip_number: 1-3-2
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - shout
 羅馬字: gya
