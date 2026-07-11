@@ -1,11 +1,10 @@
 ---
 mandarin: sǎ
 cantonese: saa2
-korean: 선
+korean: 쇄
 korean_native: ''
 japanese:
-- SEI
-- SEN
+- SAI
 - SHA
 japanese_native: あら
 vietnamese:
@@ -23,7 +22,7 @@ stroke_count: 9
 radical: 水
 skip_number: 1-3-6
 grade_level: 先進
-pos: ''
+pos: 事詞
 english:
 - sprinkle
 - spray
@@ -39,7 +38,7 @@ stand_in: 洒
 aliases:
 - 灑
 注音: ㄙ⺢ㄧ
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 80
