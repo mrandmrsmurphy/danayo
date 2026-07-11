@@ -14,7 +14,7 @@ stroke_count: 13
 radical: "食"
 skip_number: 1-8-5
 grade_level: "4"
-pos: ""
+pos: 性詞
 english:
   - sated
   - saturated

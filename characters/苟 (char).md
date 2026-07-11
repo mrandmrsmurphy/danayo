@@ -18,7 +18,7 @@ stroke_count: 11
 radical: "艸"
 skip_number: 2-6-5
 grade_level: "先進"
-pos: ""
+pos: 連接詞
 english:
   - if only
 羅馬字: gou

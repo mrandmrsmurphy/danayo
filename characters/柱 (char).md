@@ -14,7 +14,7 @@ stroke_count: 9
 radical: "木"
 skip_number: 1-4-5
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - pillar
 羅馬字: ju

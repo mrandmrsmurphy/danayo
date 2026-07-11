@@ -80,6 +80,12 @@ Controls the character's role in Dan'a'yo vocabulary:
 
 The frequency rank in Classical Chinese; 351 means the 351st most-used character in the CC corpus. Used verbatim in the MC rank bullet (see below).
 
+**Policy (2026-07-11): never blank an existing large `mc_id` just because you can't verify it in `lookup/CC/CC 0000–3000.md`.** Those four files only mirror the top ~4000 ranks; a large existing value (e.g. `9813`, `5262`) reflects the character's real long-tail rank from the fuller source ranking this vault was built from, not a fabrication — treat it as trusted ground truth and use it verbatim in the MC bullet, even though you personally can't cross-check it locally. Do not "correct" it to blank.
+
+**`mc_id: 0` is a real, meaningful value** — it means *confirmed not present in the MC usage ranking at all*, not "unknown" and not a placeholder needing a blank. Leave it as `0` and phrase the MC bullet accordingly (e.g. "Not present in the Classical Chinese usage ranking"), rather than treating it as an error to fix.
+
+Blank (no value at all) still means "not yet checked" and is the only state that should ever be filled in or left blank during perfection work — never invent a number, but also never erase one that's already there.
+
 ---
 
 ## Body structure
@@ -200,13 +206,13 @@ List all four levels in order: Dan'a'yo grade, HSK, Jōyō, Korean. Include all 
 | `joyo_level` | `"1"`–`"6"` | `[[lookup/Japanese/Jōyō - Kyōiku]]` |
 | `joyo_level` | `高等` | `[[lookup/Japanese/Jōyō - Kōtō]]` |
 | `joyo_level` | `表外字` | `[[lookup/Japanese/Hyōgai]]` |
-| `joyo_level` | `人名用字` | `[[lookup/Japanese/Jinmeiyō]]` |
+| `joyo_level` | `日本人名用漢字` | `[[lookup/Japanese/Jinmeiyō]]` |
 | `hanmun_edu_level` | `中` | `[[lookup/Korean/Korean MS]]` |
 | `hanmun_edu_level` | `高等` | `[[lookup/Korean/Korean HS]]` |
 | `hanmun_edu_level` | `名` | `[[Lookup/Korean/Korean Name X]]` |
 | `hanmun_edu_level` | `無` | `[[lookup/Korean/Korean Missing]]` |
 
-Real corpus values are always the full strings above (`高等`, `表外字`, `人名用字`) — never a bare `高` or a raw number beyond 6. `joyo_level: 日本人名用漢字` is a stray wrong value seen occasionally in the wild; treat it as a data error and correct it to `人名用字` when found.
+Real corpus values are always the full strings above (`高等`, `表外字`, `日本人名用漢字`) — never a bare `高` or a raw number beyond 6. A handful of files (introduced in error during a 2026-07-10 session) used `人名用字` instead — that string is not the vault's real convention; correct it to `日本人名用漢字` when found.
 
 ---
 
@@ -281,6 +287,7 @@ Set when:
 - **Floating CC links** — `[[Lookup/CC/initials/…]]` and `[[Lookup/CC/finals/…]]` do not belong at the bottom of the file; they are embedded inside the MC rank bullet.
 - **`meta-bind-embed` not first** — the callout (if present) comes before the embed; the embed comes before everything else. No section headings, no prose, no links precede it.
 - **`stand_in` blank** — every character must have a declared `stand_in` value, even if only `名専字`.
+- **`pos` blank (`""`)** — required, not optional, and easy to miss because a blank string doesn't look broken the way a missing bullet does. Roughly a quarter of the corpus has this gap pre-existing, so don't assume a page is fine on this front just because it's otherwise well-formed — check it explicitly every time, the same as `mc_id` or `danayo_id`. See [[grammar/文法 - 97品詞]] for the real taxonomy (名詞/事詞/性詞/連接詞/etc.) — pick based on the character's actual grammatical behavior, not just "noun-ish vs verb-ish."
 - **Heading level inconsistency** — use `##` (H2) for Notes, Words, Chengyu, and Derived Characters. Using `#` (H1) or `###` (H3) for these top-level sections is a mistake.
 - **Words entries without glosses** — every word link should be followed by an English gloss in quotes.
 - **Notes bullets out of order or missing** — the four-bullet sequence (graphemic → SKIP/Stroke → MC → levels) is fixed. All four must be present.

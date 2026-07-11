@@ -14,7 +14,7 @@ stroke_count: 7
 radical: 禾
 skip_number: 2-5-2
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - bear fruit
   - blossom

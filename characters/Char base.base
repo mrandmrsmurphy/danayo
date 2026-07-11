@@ -16,7 +16,10 @@ views:
       - stand_in
       - date-last-perfect
       - file.mtime
+      - mc_id
     sort:
+      - property: mc_id
+        direction: ASC
       - property: date-last-perfect
         direction: DESC
       - property: danayo_id
