@@ -1,0 +1,51 @@
+
+- act
+- active
+- again
+- agent
+- always
+- begin
+- busy
+- cease
+- chance
+- common
+- complete
+- constant
+- continue
+- develop
+- do
+- end
+- engage
+- event
+- finish
+- forever
+- happen
+- interrupt
+- never
+- normal
+- occasion
+- occur
+- often
+- once
+- opportunity
+- pause
+- proceed
+- process
+- rare
+- repeat
+- stable
+- start
+- steady
+- stop
+- subject
+
+- habit
+- vary
+- lazy
+- role
+- victim
+
+DO WE HAVE
+- EVENTS ARE OBJECTS
+- NON-VARIATION IS STANDING
+- TIME IS SPACE
