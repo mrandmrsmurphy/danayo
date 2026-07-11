@@ -41,6 +41,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Words
+- <ruby>[[百升]]<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby> "hectoliter"
 - <ruby>[[晋升]]<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby> "promote, advance in rank"
 
 ## Notes

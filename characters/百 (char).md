@@ -45,6 +45,7 @@ boundedness: 80
 
 ## Words
 - [[百]] "hundred"
+- <ruby>[[百升]]<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby> "hectoliter"
 - <ruby>[[百越]]<rt>ㄅㄚㄎ⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
 - <ruby>[[二百]]<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby> "two hundred"
 - [[百済]] "Baekje"
