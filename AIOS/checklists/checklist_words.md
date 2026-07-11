@@ -29,6 +29,7 @@ cantonese: "gam1 zau1   # Jyutping with tone numbers"
 japanese: こんしゅう      # hiragana reading
 korean: "금주            # Hangul (Sino-Korean or native as appropriate)"
 注音: ㄍㄧㄇㄐㄨㄛ         # Bopomofo — concatenation of component 注音 values
+date-last-perfect: YYYY-MM-DD  # set only once every criterion below is met; leave absent/blank otherwise
 tags:
   - word
 ---
@@ -43,6 +44,10 @@ swadesh: number          # only present if this is a Swadesh-list word
 aliases:               # simplified, traditional, or alternate orthographic forms
   - 今周
 ```
+
+### `date-last-perfect`
+
+Set it once, and only once, a word page satisfies every criterion in this checklist: all required frontmatter present and correctly formatted (blank-optional fields omitted, not left empty), the meta-bind-embed first, a homophone callout if applicable (correct `[!warning]` form and placement), and a real encyclopedic `## Notes` section (not just the character-linking bullet). Leave it absent while any of that is still outstanding — don't stamp a word just because its frontmatter looks tidy.
 
 ---
 
