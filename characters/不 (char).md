@@ -67,7 +67,7 @@ boundedness: 50
 - [不断](words/不断.md)
 - [不満](words/不満.md)
 - [不用](words/不用.md)
-- [不要](words/不要.md)
+- <ruby>[[不要]]<rt>ㄅㄛㄊ⼄ㄨ</rt></ruby> "don't (prohibitive); unnecessary"
 - [不許](words/不許.md)
 - [不過](words/不過.md)
 
