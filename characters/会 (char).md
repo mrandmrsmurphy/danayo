@@ -48,6 +48,7 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 泰合]]
+- <ruby>[[机会]]<rt>ㄍㄧㄜㄏ⼔</rt></ruby> "opportunity"
 - [[会社員]] "office worker"
 - [[会話]] "talk with,converse with"
 - [[会議]] "meeting,conference"

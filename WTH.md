@@ -32,7 +32,6 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 - 華麗 (both massively independent: 華="flower/splendor/China", 麗="beautiful")
 
 ### Maybe
-- 机械 (possible transcription issue — is this 機械 with simplified 機, which would change the analysis, or genuinely 机?), 
 - 棍棒, 
 - 潮汐 (汐 has narrow but real independent meaning "evening tide"), 
 - 犠牲, 
