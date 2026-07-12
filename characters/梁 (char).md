@@ -14,7 +14,7 @@ stroke_count: 11
 radical: "木"
 skip_number: 2-7-4
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - girder
 羅馬字: lyang
