@@ -51,4 +51,5 @@ boundedness: 90
 [[Lookup/CC/finals/韻 尤]]
 
 ## Words
+- <ruby>[[停留]]<rt>ㄉㄝㄫㄌ⼜</rt></ruby> "to stop, stay, stop over"
 - <ruby>[[逗留]]<rt>ㄉㄚㄨㄌ⼜</rt></ruby> "to stay; to sojourn"

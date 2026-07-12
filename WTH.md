@@ -6,10 +6,8 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 
 
 ### Definitely not transitive
-- 供給
 - 俘虜, 
 - 保護, 
-- 停止, 
 - 健康, 
 - 冶錬, 
 - 刑罰, 
