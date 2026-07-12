@@ -227,7 +227,7 @@ tags: [lookup]
 [无](characters/無%20(char).md): 5
 [[信]]: 5
 [[修]]: 5
-[[演]]: 5
+[[演 (char)|演]]: 5
 [样](../../characters/様%20(char).md): 5
 [[印]]: 5
 [由 (char)](../../characters/由%20(char).md): 5

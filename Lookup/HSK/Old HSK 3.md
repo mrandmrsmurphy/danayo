@@ -349,7 +349,7 @@ tags: [lookup]
 [[委 (char)]]: 4
 [弹](../../characters/弾.md): 4
 [彈](../../characters/弾.md): 4
-[[演]]: 4
+[[演 (char)|演]]: 4
 [[震]]: 4
 [[礼 (char)]]: 4
 [[端]]: 4

@@ -175,7 +175,7 @@ tags: [lookup]
 141. <ruby>[漆](../../characters/漆%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - varnish
 142. <ruby>[漏](../../characters/漏%20(char).md)<rt>ㄌㄛㄨ</rt></ruby> - leak
 143. <ruby>[漑](../../characters/漑.md)<rt>ㄍㄚㄧ</rt></ruby> - water
-144. <ruby>[演](../../characters/演.md)<rt>⼶ㄋ</rt></ruby> - perform
+144. <ruby>[演 (char)](../../characters/演%20(char).md)<rt>⼶ㄋ</rt></ruby> - perform
 145. <ruby>[漕](../../characters/漕.md)<rt>ㄐㄚㄨ</rt></ruby> - canal transportation
 146. <ruby>[漫](../../characters/漫.md)<rt>ㄇㄚㄋ</rt></ruby> - pervade
 147. <ruby>[漬](../../characters/漬%20(char).md)<rt>ㄐㄝ</rt></ruby> - pickle

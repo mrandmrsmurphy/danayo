@@ -756,7 +756,7 @@ The following prefecture names were added in 2017:
 742. [減](characters/減.md) : gen	he-ru	decrease
 743. [測](characters/測.md) : soku	haka-ru	fathom
 744. [準](characters/準.md) : jun	 	standard
-745. [演](characters/演.md) : en	 	perform
+745. [演 (char)](characters/演%20(char).md) : en	 	perform
 746. [潔](characters/潔.md) : ketsu	isagiyo-i	undefiled
 747. [災](characters/災.md) : sai	wazawa-i	disaster
 748. [燃](characters/燃.md) : nen	mo-eru	burn

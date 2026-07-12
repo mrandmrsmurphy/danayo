@@ -449,7 +449,7 @@ tags: [lookup]
 #### 역
 [譯](../../characters/訳.md) (통변할 역)  [驛](../../characters/駅%20(char).md) (역참 역)  [役](../../characters/役.md) (부릴 역)  [疫](../../characters/疫.md) (염병 역)  [域 (char)](../../characters/域%20(char).md) (지경 역)
 #### 연
-[延](../../characters/延.md) (끌 연)  [燃](../../characters/燃.md) (탈 연)  [燕](../../characters/燕.md) (제비 연)  [沿 (char)](../../characters/沿%20(char).md) (따를 연)  [[鉛 (char)]] (납 연)  [宴](../../characters/宴.md) (잔치 연)  [軟](../../characters/軟.md) (연할 연)  [演](../../characters/演.md) (연역할 연)  [緣](../../characters/縁.md) (인연 연)
+[延](../../characters/延.md) (끌 연)  [燃](../../characters/燃.md) (탈 연)  [燕](../../characters/燕.md) (제비 연)  [沿 (char)](../../characters/沿%20(char).md) (따를 연)  [[鉛 (char)]] (납 연)  [宴](../../characters/宴.md) (잔치 연)  [軟](../../characters/軟.md) (연할 연)  [演 (char)](../../characters/演%20(char).md) (연역할 연)  [緣](../../characters/縁.md) (인연 연)
 #### 열
 [閱](../../characters/閲.md) (검열할 열)
 #### 염

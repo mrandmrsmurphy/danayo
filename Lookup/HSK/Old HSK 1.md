@@ -630,7 +630,7 @@ tags: [lookup]
 [顏](../../characters/顔.md): 1
 [眼](../../characters/眼.md): 1
 [睛](../../characters/睛.md): 1
-[演](../../characters/演.md): 1
+[演 (char)](../../characters/演%20(char).md): 1
 [求](../../characters/求.md): 1
 [就 (char)](../../characters/就%20(char).md): 1
 [般 (char)](../../characters/般%20(char).md): 1
