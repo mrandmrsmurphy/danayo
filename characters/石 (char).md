@@ -56,7 +56,7 @@ boundedness: 90
 - <ruby>[[石灰]]<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby> "quicklime"
 - <ruby>[[炉甘石]]<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby> "calamine"
 - <ruby>[[石油]]<rt>ㄙㄝㄎ⼜</rt></ruby> "petroleum"
-- [[石版]] "lithograph, slabstone"
+- <ruby>[[石版]]<rt>ㄙㄝㄎㄆㄚㄋ</rt></ruby> "lithograph, slabstone"
 - [[石英]] "quartz"
 - <ruby>[[石像]]<rt>ㄙㄝㄎㄙ⼘ㄫ</rt></ruby> "stone statue"
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"
