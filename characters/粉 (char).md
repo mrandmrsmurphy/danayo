@@ -44,3 +44,6 @@ boundedness: 90
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 文]]
 - [[粉末]] "powder, fine powder"
+
+## Words
+- <ruby>[[白粉]]<rt>ㄅㄚㄎㄅㄨㄋ</rt></ruby> "white powder; face powder"

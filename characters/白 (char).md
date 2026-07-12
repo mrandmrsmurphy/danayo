@@ -46,7 +46,7 @@ boundedness: 100
 ## Words
 - <ruby>[[白及]]<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby> "bai ji; Bletilla striata (ground orchid)"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
-- [[白粉]]
+- <ruby>[[白粉]]<rt>ㄅㄚㄎㄅㄨㄋ</rt></ruby> "white powder; face powder"
 - [[白内障]]
 - [[白日夢]]
 - [[白領]]

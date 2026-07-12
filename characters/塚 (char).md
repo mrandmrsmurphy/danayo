@@ -14,7 +14,7 @@ stroke_count: 12
 radical: "土"
 skip_number: 1-3-9
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - hillock
   - grave
@@ -24,7 +24,7 @@ english:
 諺文: "총"
 joyo_level: "高等"
 hsk_level: "無"
-hanmun_edu_level: ""
+hanmun_edu_level: "高等"
 danayo_id: 7325
 mc_id: 3978
 graphemic_classification: "冢"
