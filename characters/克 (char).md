@@ -14,9 +14,11 @@ stroke_count: 7
 radical: 儿
 skip_number: 2-2-5
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - practice self-restraint
+  - overcome
+  - gram (unit of mass)
 羅馬字: kug
 諺文: 쿡
 joyo_level: "高等"
