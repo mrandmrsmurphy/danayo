@@ -58,7 +58,7 @@ boundedness: 90
 - [[地球儀]] - globe
 - [[地球]] - earth
 - [[地方]] - region
-- [[草地]] - grassland
+- <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby> "lawn, grassland, meadow"
 - [[地形]] - topography
 - [[地点]] - point
 - [[窪地]] - hollow

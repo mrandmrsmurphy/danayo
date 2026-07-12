@@ -15,7 +15,7 @@ stroke_count: 11
 radical: "舟"
 skip_number: 1-6-5
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - rudder
   - helm
