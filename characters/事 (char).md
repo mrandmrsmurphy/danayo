@@ -48,6 +48,7 @@ boundedness: 90
 
 
 ## Words
+- <ruby>[[軍事]]<rt>ㄍㄨㄋㄐㄧ</rt></ruby> "military matters"
 - <ruby>[[閙事]]<rt>ㄋ⼘ㄨㄐㄧ</rt></ruby> "make a scene; cause trouble"
 - <ruby>[[七事]]<rt>ㄑㄧㄊㄐㄧ</rt></ruby> "Seven Duties of a Sovereign"
 - [[事実]]
