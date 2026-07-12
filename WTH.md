@@ -4,17 +4,42 @@ These 137 are shared by exactly two characters each:
 
 I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier tonight in the Daywork loop. 
 
-## AI's votes on transitivity (2026-07-12)
-
-Test applied per pair: does either character carry real, independently-attested meaning elsewhere (another compound, classical usage, a live sense) that's *distinct* from what the compound means? Neither does → **transitive**, approve the flattening. Either does, and the sense is genuinely different → **not transitive**, these need their own separate stand-ins eventually. Genuinely unclear, or asymmetric (one side truly empty, one side has a real but obscure/archaic/marginal sense) → **maybe**.
-
-### Definitely transitive
-- 鳳凰, 
-- 鴛鴦, 
-- 麒麟 (dead male/female distinction — exactly the 鳳 case we discussed; today each half means only the unified creature)
 
 ### Definitely not transitive
 仇敵 (仇=personal grudge vs 敵=opponent — distinguishable), 供給, 俘虜, 保護, 停止, 健康, 冶錬, 刑罰, 剰余, 収集, 呪詛 (呪 independently huge: 呪文/呪術), 呻吟 (吟 independently means "chant/recite poetry," unrelated to "moan"), 奴隷, 姓氏 (氏 survives as a live honorific suffix, distinct from 姓), 娯楽 (楽 independently massive: "joy/music"), 宗派, 宮殿, 富裕, 尊敬, 平坦, 建築, 彫刻 (刻 independently means "moment/time" too), 恐怖, 恒常, 恩恵, 慙愧 (a real Buddhist Abhidharma distinction: 慚=shame before self, 愧=shame before others), 憂慮, 才能, 捜索, 援助, 末端, 材料, 歌曲, 歴史, 死亡, 沐浴 (浴 massively independent), 沼沢 (沢 independently means "many/much" — 沢山), 波浪 (浪 independently means "waste/wander" — 浪費/浪人), 清潔, 煮沸, 燃焼, 獲得, 田野, 疾病, 相互, 睡眠, 研究, 程度, 種類, 符号, 簡単, 純粋 (粋 carries its own "stylish/chic" sense), 絵画 (画 independently huge: "movie/plan/stroke"), 継続, 緩慢 (慢 independently means "arrogant" — 自慢), 胆嚢/脊椎 (these are actually compositional — "gall"+"sac", "spine"+"vertebra" — not cranberry at all), 自己, 蠟燭 (also compositional: wax + candle), 衣服, 覆蓋, 認識, 謹慎, 警戒, 販売, 責任, 購買, 適宜, 釣漁, 鋒芒 (芒 independently means grain-awn/light-ray — quite different root sense), 錦繍, 錯誤, 音声 (音=sound in general vs 声=voice specifically — the compound narrows rather than equates), 芭蕉 (蕉 independently means "banana-type plant" in 香蕉 — this one surprised me), 朋友 (both real; 朋 more archaic/classical register but still independently attested, not empty), 干燥 (干 independently real: "dry/dried," also unrelated senses like "shield/offend"), 記録 (both independently real, 記 especially massive), 怠惰 (怠=neglect duty vs 惰=inertia/sloth — distinguishable), 華麗 (both massively independent: 華="flower/splendor/China", 麗="beautiful")
 
 ### Maybe
-仲介, 伶俐 (俐 is empty, but 伶 has an unrelated independent sense "actor" — different lexeme or same?), 吝嗇 (both have marginal classical independent attestation), 咽喉 (pharynx vs larynx anatomically — colloquially synonymous), 喧嘩, 妨碍, 居住 (both fully real independently and very close synonyms — is "close" enough for transitivity, or does it require perfect identity?), 寂寞 (寂 is a major independent word — Buddhist "quiescence" — 寞 is empty; asymmetric), 憧憬 (same asymmetry — 憧れる is a very common standalone Japanese verb, 憬 is empty), 抱擁, 抵抗, 机械 (possible transcription issue — is this 機械 with simplified 機, which would change the analysis, or genuinely 机?), 棍棒, 潮汐 (汐 has narrow but real independent meaning "evening tide"), 犠牲, 琥珀 (琥 has an obscure classical "tiger-tally jade" sense, 珀 is empty; asymmetric), 皮膚 (膚 can stand alone as はだ, though 肌 is more common for that), 痕跡, 祈祷 (祷 is nearly empty, 祈 is massively independent; asymmetric), 覚醒, 誹謗 (both have marginal independent verb readings in Japanese: 誹る/謗る), 膨脹, 賄賂 (賄 also independently means "to fund/provide for" — 賄う), 選択 (択 has marginal independent life via 択ぶ), 身体, 閑暇, 飢餓 (very close synonyms — same "identity vs. closeness" question as 居住), 薔薇 (薇 has a real classical sense "fernbrake" — 采薇), 蘿蔔 (蘿 independently means "trailing vine" — 女蘿/松蘿), 菩薩 (菩 recurs in 菩提, arguably the same Sanskrit transliteration family rather than a separate sense), 芦葦 (possible vault artifact — 芦/葦 may just be two graphic variants of the same word "reed," not a real two-morpheme compound at all — worth checking before voting), 黼黻 (classically two distinct ceremonial-robe patterns, but the distinction is as dead in practice as 鳳/凰's gendering — does dead-in-practice override real-in-classical-record the same way it did for 鳳凰?), 雴霫, 鵖鴔 (low confidence — obscure characters, possibly proper nouns/ethnonyms I don't have solid independent knowledge of), 嫉妬 (both real and very close synonyms for "envious/jealous" — same "close vs. identical" question as 居住/飢餓), 肥沃 (already marked as perfected by you — but for consistency, my vote is asymmetric: 肥 is massively independent, 沃 more marginal via 沃野), 船舶 (船 clearly independent/common; 舶 narrower but not empty — 舶来)
+- 仲介, 
+- 伶俐 (俐 is empty, but 伶 has an unrelated independent sense "actor" — different lexeme or same?), 
+- 吝嗇 (both have marginal classical independent attestation), 
+- 咽喉 (pharynx vs larynx anatomically — colloquially synonymous), 
+- 喧嘩, 
+- 妨碍, 
+- 居住 (both fully real independently and very close synonyms — is "close" enough for transitivity, or does it require perfect identity?), 
+- 寂寞 (寂 is a major independent word — Buddhist "quiescence" — 寞 is empty; asymmetric), 
+- 憧憬 (same asymmetry — 憧れる is a very common standalone Japanese verb, 憬 is empty), 
+- 抱擁, 
+- 抵抗, 
+- 机械 (possible transcription issue — is this 機械 with simplified 機, which would change the analysis, or genuinely 机?), 
+- 棍棒, 
+- 潮汐 (汐 has narrow but real independent meaning "evening tide"), 
+- 犠牲, 
+- 琥珀 (琥 has an obscure classical "tiger-tally jade" sense, 珀 is empty; asymmetric), 
+- 皮膚 (膚 can stand alone as はだ, though 肌 is more common for that), 
+- 痕跡, 
+- 祈祷 (祷 is nearly empty, 祈 is massively independent; asymmetric), 
+- 覚醒, 
+- 誹謗 (both have marginal independent verb readings in Japanese: 誹る/謗る), 
+- 膨脹, 
+- 賄賂 (賄 also independently means "to fund/provide for" — 賄う), 
+- 選択 (択 has marginal independent life via 択ぶ), 
+- 身体, 
+- 閑暇, 
+- 飢餓 (very close synonyms — same "identity vs. closeness" question as 居住), 
+- 薔薇 (薇 has a real classical sense "fernbrake" — 采薇), 
+- 蘿蔔 (蘿 independently means "trailing vine" — 女蘿/松蘿), 
+- 菩薩 (菩 recurs in 菩提, arguably the same Sanskrit transliteration family rather than a separate sense), 
+- 芦葦 (possible vault artifact — 芦/葦 may just be two graphic variants of the same word "reed," not a real two-morpheme compound at all — worth checking before voting), 
+- 嫉妬 (both real and very close synonyms for "envious/jealous" — same "close vs. identical" question as 居住/飢餓), 
+- 肥沃 (already marked as perfected by you — but for consistency, my vote is asymmetric: 肥 is massively independent, 沃 more marginal via 沃野), 
+- 船舶 (船 clearly independent/common; 舶 narrower but not empty — 舶来)
