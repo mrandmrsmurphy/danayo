@@ -193,9 +193,9 @@ tags: [lookup]
 153. <ruby>[櫛](../../characters/櫛%20(char).md)<rt>ㄐㄜㄊ</rt></ruby> - comb
 
 ### +14 Strokes
-154. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄫ</rt></ruby> - lemon
+154. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄋ</rt></ruby> - lemon
 155. <ruby>[檳](../../characters/檳.md)<rt>ㄅㄧㄋ</rt></ruby> - betel nut
-156. <ruby>[檸](../../characters/檸.md)<rt>ㄋ⼶ㄫ</rt></ruby> - lemon
+156. <ruby>[檸](../../characters/檸.md)<rt>ㄌㄝ</rt></ruby> - lemon
 157. <ruby>[櫂](../../characters/櫂.md)<rt>ㄊㄛㄨ</rt></ruby> - oar
 
 ### +17 Strokes
