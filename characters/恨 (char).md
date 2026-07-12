@@ -47,3 +47,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 痕]]
+
+## Words
+- <ruby>[[仇恨]]<rt>ㄍ⼜ㄏㄚㄋ</rt></ruby> "hatred, enmity"

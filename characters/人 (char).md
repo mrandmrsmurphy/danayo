@@ -61,6 +61,7 @@ boundedness: 75
 - <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> - population
 - <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron
 - <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> - adult
+- <ruby>[[敵人]]<rt>ㄉㄝㄎㄋㄧㄋ</rt></ruby> - enemy, foe
 1. [[善人]]
 2. [[官人]]
 3. [[蛮人]]

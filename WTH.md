@@ -6,7 +6,6 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 
 
 ### Definitely not transitive
-- 仇敵 (仇=personal grudge vs 敵=opponent — distinguishable), 
 - 供給
 - 俘虜, 
 - 保護, 
