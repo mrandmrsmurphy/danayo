@@ -46,7 +46,7 @@ boundedness: 55
 [[Lookup/CC/initials/聲 日]]
 [[Lookup/CC/finals/韻 麻三開]]
 - Components: [[艹]], [[右]]
-- [[若干]] "a little, somewhat"
 
 ## Words
 - <ruby>[[若]]<rt>ㄋ⼘</rt></ruby> "if"
+- <ruby>[[若干]]<rt>ㄋ⼘ㄍㄚㄋ</rt></ruby> "a little, somewhat"
