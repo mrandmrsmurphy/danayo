@@ -51,4 +51,5 @@ boundedness: 90
 [[Lookup/CC/finals/韻 齊開]]
 
 ## Words
+- <ruby>[[細妹]]<rt>ㄙㄝㄧㄇㄛㄧ</rt></ruby> "younger sister (colloquial Cantonese)"
 - <ruby>[[細菌]]<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby> "bacteria; germ"
