@@ -32,8 +32,6 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 - 華麗 (both massively independent: 華="flower/splendor/China", 麗="beautiful")
 
 ### Maybe
-- 憧憬 (same asymmetry — 憧れる is a very common standalone Japanese verb, 憬 is empty), 
-- 抱擁, 
 - 抵抗, 
 - 机械 (possible transcription issue — is this 機械 with simplified 機, which would change the analysis, or genuinely 机?), 
 - 棍棒, 
