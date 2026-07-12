@@ -7,13 +7,14 @@ japanese:
   - KI
 japanese_native: ひめ
 vietnamese:
+  - cơ
 middle_chinese_initial: k
 middle_chinese_final: ɨ
 stroke_count: 9
 radical: 女
 skip_number: 1-3-6
 grade_level: 名
-pos: ""
+pos: 名詞
 english:
   - princess
   - goddess

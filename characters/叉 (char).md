@@ -52,6 +52,7 @@ boundedness: 85
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄑㄚㄧ](../syllables/ㄑㄚㄧ.md)
 - [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md), [Grade 6](../lookup/Grade%206.md)
 ## Words
+* <ruby>[[三叉]]<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby> "three-forked, tripartite; trident"
 * [[音叉]] tuning fork
 * [[夜叉]] yaksha
 * [[魚叉]] harpoon
