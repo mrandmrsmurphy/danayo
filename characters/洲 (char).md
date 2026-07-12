@@ -47,6 +47,7 @@ boundedness: 75
 - 3213th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](syllables/ㄐㄨㄛ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 ## Words
+- <ruby>[[非洲]]<rt>ㄈㄧㄐㄨㄛ</rt></ruby> "Africa"
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet; Singapore"
 - <ruby>[[北美洲]]<rt>ㄅㄨㄎㄇㄧㄐㄨㄛ</rt></ruby> "North American continent"
 - <ruby>[[南美洲]]<rt>ㄋㄚㄇㄇㄧㄐㄨㄛ</rt></ruby> "South American continent"

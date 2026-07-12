@@ -52,6 +52,6 @@ boundedness: 90
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 微合]]
 - [[非常]] "extreme, unusual"
-- [[非洲]] "Africa"
+- <ruby>[[非洲]]<rt>ㄈㄧㄐㄨㄛ</rt></ruby> "Africa"
 - <ruby>[[非志]]<rt>ㄈㄧㄐㄧ</rt></ruby> "Fiji"
 - <ruby>[[南非]]<rt>ㄋㄚㄇㄈㄧ</rt></ruby> "South Africa"
