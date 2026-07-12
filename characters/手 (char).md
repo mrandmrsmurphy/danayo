@@ -14,7 +14,7 @@ stroke_count: 4
 radical: "手"
 skip_number: 4-4-3
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - hand
 羅馬字: syu
@@ -43,6 +43,9 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 尤]]
+
+## Words
+- <ruby>[[手指]]<rt>ㄙ⼜ㄐㄧㄜ</rt></ruby> "finger"
 - <ruby>[[凶手]]<rt>ㄏ⼜ㄫㄙ⼜</rt></ruby> "murderer; killer"
 - <ruby>[[招手]]<rt>ㄑㄛㄨㄙ⼜</rt></ruby> "to wave; to beckon"
 - [[手帖]] "handwritten letter, notebook"

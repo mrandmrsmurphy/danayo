@@ -47,5 +47,5 @@ boundedness: 90
 [[Lookup/CC/finals/韻 屋三]]
 - [[目前]] "present, right before one's eyes"
 - [[目標]] "target, aim, goal"
-- [[目的]] "target, objective"
+- <ruby>[[目的]]<rt>ㄇㄨㄎㄉㄝㄎ</rt></ruby> "target, objective"
 - [[目宿]] "alfalfa"
