@@ -8,7 +8,9 @@ japanese:
   - MAI
 japanese_native: すす
 vietnamese:
-  - môi, muồi, mai
+  - môi
+  - muồi
+  - mai
 middle_chinese_initial: m
 middle_chinese_final: uʌi
 stroke_count: 13
@@ -17,6 +19,7 @@ skip_number: 1-4-9
 grade_level: 先進
 pos: 名詞
 english:
+  - coal
   - soot
 羅馬字: moi
 諺文: 뫼
