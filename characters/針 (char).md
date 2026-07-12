@@ -20,7 +20,7 @@ stroke_count: 10
 radical: 金
 skip_number: 1-8-2
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - needle
   - pin
@@ -54,3 +54,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 侵A]]
+
+## Words
+- <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"

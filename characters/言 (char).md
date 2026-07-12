@@ -21,7 +21,7 @@ stroke_count: 7
 radical: "言"
 skip_number: 2-1-6
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - say
 羅馬字: "'en"
@@ -48,6 +48,7 @@ boundedness: 80
 ## Notes
 
 ## Words
+- <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"
 - <ruby>[[言及]]<rt>ㄝㄋㄍㄨㄆ</rt></ruby> "to mention; to refer to"
 - <ruby>[用言](/words/用言.md)<rt>⼄ㄫ·ㄝㄋ</rt></ruby> - declinable word
 - <ruby>[[文言]]<rt>ㄇㄨㄋ·ㄝㄋ</rt></ruby> "Literary Chinese; wording"
