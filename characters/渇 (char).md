@@ -1,7 +1,7 @@
 ---
-mandarin: "kě"
-cantonese: "hot3"
-korean: "갈"
+mandarin: kě
+cantonese: hot3
+korean: 갈
 korean_native: 목마를
 japanese:
   - KATSU
@@ -35,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness:
 ---
 >[!tip] This is a page about the character 渇.
 >For the word, see [渇](words/渇.md)

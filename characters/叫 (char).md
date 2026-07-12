@@ -42,20 +42,14 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-## Chengyu using it
-```dataview
-LIST FROM "chengyu"
-WHERE contains(characters, this.file.name)
-SORT file.name
-```
+## Notes
+- 形声 (OC \*kewʔ): semantic [[Radical 030|口]] ("mouth") + phonetic [[糾 (char)|丩]] (OC \*kiw) — a mouth producing the sound 丩 gives "shout."
+- [SKIP-1-3-2](lookup/SKIP/SKIP-1/SKIP-1-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
+- 3564th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄍ⼘](syllables/ㄍ⼘.md)
+- [Grade 4](lookup/Grade%204.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
-## Words using it
+## Words
+- <ruby>[[叫喚]]<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby> "cry out, call out"
 
-```dataview
-LIST FROM "words"
-WHERE contains(characters, this.file.name)
-SORT file.name
-```
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 蕭]]
+## Chengyu
+- <ruby>[[阿鼻叫喚]]<rt>ㄚㄅㄧㄍ⼘ㄨㄏ⺢ㄋ</rt></ruby> "agonized cries in the midst of tragedy"

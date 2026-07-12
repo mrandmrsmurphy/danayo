@@ -1,8 +1,8 @@
 ---
-mandarin: "jiǎn"
+mandarin: jiǎn
 cantonese: gaan2
-korean: "견"
-korean_native: "고치"
+korean: 견
+korean_native: 고치
 japanese:
   - KEN
 japanese_native: まゆ
@@ -12,27 +12,28 @@ vietnamese:
 middle_chinese_initial: k
 middle_chinese_final: en
 stroke_count: 18
-radical: "糸"
+radical: 糸
 skip_number: 2-3-15
 grade_level: "6"
 pos: 名詞
 english:
   - cocoon
 羅馬字: gyem
-諺文: "겸"
-joyo_level: "高等"
+諺文: 겸
+joyo_level: 高等
 hsk_level: "4"
-hanmun_edu_level: "名"
+hanmun_edu_level: 名
 danayo_id: 6111
 mc_id: 2886
-graphemic_classification: "會意"
-stand_in: "繭"
+graphemic_classification: 會意
+stand_in: 繭
 aliases:
   - 茧
-注音: "ㄍ⼶ㄇ"
+注音: ㄍ⼶ㄇ
 kwin: false
 tags:
   - character
+  - hapax
 boundedness: 30
 ---
 >[!tip] This is a page about the character 繭.
