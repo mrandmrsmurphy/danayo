@@ -14,9 +14,11 @@ stroke_count: 15
 radical: "冫"
 skip_number: 1-2-13
 grade_level: "先進"
-pos: ""
+pos: 性詞
 english:
-  - solemn
+  - cold
+  - stern, awe-inspiring
+  - dignified
 羅馬字: lum
 諺文: "룸"
 joyo_level: "日本人名用漢字"
