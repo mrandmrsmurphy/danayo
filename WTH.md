@@ -32,7 +32,6 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 - 華麗 (both massively independent: 華="flower/splendor/China", 麗="beautiful")
 
 ### Maybe
-- 居住 (both fully real independently and very close synonyms — is "close" enough for transitivity, or does it require perfect identity?), 
 - 寂寞 (寂 is a major independent word — Buddhist "quiescence" — 寞 is empty; asymmetric), 
 - 憧憬 (same asymmetry — 憧れる is a very common standalone Japanese verb, 憬 is empty), 
 - 抱擁, 

@@ -47,5 +47,8 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 明]]
 [[Lookup/CC/finals/韻 薛A三開]]
+
+## Words
+- <ruby>[[寂滅]]<rt>ㄐㄝㄎㄇㄝㄊ</rt></ruby> "nirvana; cessation of suffering"
 - [[滅失]] "lose"
 - <ruby>[[隠滅]]<rt>ㄜㄋㄇㄝㄊ</rt></ruby> "destroy (evidence); vanish"
