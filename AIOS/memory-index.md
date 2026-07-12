@@ -33,6 +33,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Character backlinks required](memory/feedback_character_backlinks.md) — when perfecting a word, update every constituent character's `## Words` section immediately; this is criterion 9 and cannot be deferred
 - [kwin paragraph length](memory/feedback_kwin_length.md) — 2–3 sentences max; state verdict, name diverging dimension(s), one parallel example if useful — no more
 - [Lexipedia semantic differentiation](memory/feedback_lexipedia_semantic_differentiation.md) — lexipedia pages are where D's own semantic ranges organically diverge from source languages; let it happen naturally, then backfill D-centric definitions into word pages
+- [Cranberry/transitivity](memory/feedback_cranberry_transitivity.md) — #cranberry marks a shared stand_in only when both characters mean literally the same thing; can also license overriding MC-derived pronunciation when `mc_id: 0` and daughters show independent borrowing (see 檸檬)
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch

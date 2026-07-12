@@ -9,10 +9,6 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 Test applied per pair: does either character carry real, independently-attested meaning elsewhere (another compound, classical usage, a live sense) that's *distinct* from what the compound means? Neither does → **transitive**, approve the flattening. Either does, and the sense is genuinely different → **not transitive**, these need their own separate stand-ins eventually. Genuinely unclear, or asymmetric (one side truly empty, one side has a real but obscure/archaic/marginal sense) → **maybe**.
 
 ### Definitely transitive
-- 檳榔
-- 檸檬,
-- 珈啡
-- 珊瑚
 - 琵琶
 - 茉莉
 - 葡萄 (transliteration/native cranberries, loanword origin), 膃肭, 蛞蝓, 蜘蛛, 蝙蝠, 螳螂, 鸚鵡 (native animal-name binomes, never independently meaningful), 鳳凰, 鴛鴦, 麒麟 (dead male/female distinction — exactly the 鳳 case we discussed; today each half means only the unified creature)
