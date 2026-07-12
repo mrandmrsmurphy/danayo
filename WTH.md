@@ -49,7 +49,6 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 - 薔薇 (薇 has a real classical sense "fernbrake" — 采薇), 
 - 蘿蔔 (蘿 independently means "trailing vine" — 女蘿/松蘿), 
 - 菩薩 (菩 recurs in 菩提, arguably the same Sanskrit transliteration family rather than a separate sense), 
-- 芦葦 (possible vault artifact — 芦/葦 may just be two graphic variants of the same word "reed," not a real two-morpheme compound at all — worth checking before voting), 
 - 嫉妬 (both real and very close synonyms for "envious/jealous" — same "close vs. identical" question as 居住/飢餓), 
 - 肥沃 (already marked as perfected by you — but for consistency, my vote is asymmetric: 肥 is massively independent, 沃 more marginal via 沃野), 
 - 船舶 (船 clearly independent/common; 舶 narrower but not empty — 舶来)
