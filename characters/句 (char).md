@@ -16,7 +16,7 @@ stroke_count: 5
 radical: 口
 skip_number: 3-2-3
 grade_level: "2"
-pos: ""
+pos: 名詞
 english:
   - phrase
   - sentence
@@ -51,9 +51,9 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 虞]]
-- [[句点]] "full stop,period"
 - [[句法]] "syntax"
 
 ## Words
+- <ruby>[[句点]]<rt>ㄍㄨㄉㄝㄇ</rt></ruby> "full stop, period"
 - <ruby>[[高句麗]]<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby> "Goguryeo"
 - <ruby>[[慣用句]]<rt>ㄍ⺢ㄋ⼄ㄫㄍㄨ</rt></ruby> "idiom; idiomatic phrase"
