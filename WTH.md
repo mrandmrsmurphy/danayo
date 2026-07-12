@@ -6,14 +6,36 @@ I bolded 肥沃 and 蛞蝓 since those are the two I hit and perfected earlier t
 
 
 ### Definitely not transitive
-仇敵 (仇=personal grudge vs 敵=opponent — distinguishable), 供給, 俘虜, 保護, 停止, 健康, 冶錬, 刑罰, 剰余, 収集, 呪詛 (呪 independently huge: 呪文/呪術), 呻吟 (吟 independently means "chant/recite poetry," unrelated to "moan"), 奴隷, 姓氏 (氏 survives as a live honorific suffix, distinct from 姓), 娯楽 (楽 independently massive: "joy/music"), 宗派, 宮殿, 富裕, 尊敬, 平坦, 建築, 彫刻 (刻 independently means "moment/time" too), 恐怖, 恒常, 恩恵, 慙愧 (a real Buddhist Abhidharma distinction: 慚=shame before self, 愧=shame before others), 憂慮, 才能, 捜索, 援助, 末端, 材料, 歌曲, 歴史, 死亡, 沐浴 (浴 massively independent), 沼沢 (沢 independently means "many/much" — 沢山), 波浪 (浪 independently means "waste/wander" — 浪費/浪人), 清潔, 煮沸, 燃焼, 獲得, 田野, 疾病, 相互, 睡眠, 研究, 程度, 種類, 符号, 簡単, 純粋 (粋 carries its own "stylish/chic" sense), 絵画 (画 independently huge: "movie/plan/stroke"), 継続, 緩慢 (慢 independently means "arrogant" — 自慢), 胆嚢/脊椎 (these are actually compositional — "gall"+"sac", "spine"+"vertebra" — not cranberry at all), 自己, 蠟燭 (also compositional: wax + candle), 衣服, 覆蓋, 認識, 謹慎, 警戒, 販売, 責任, 購買, 適宜, 釣漁, 鋒芒 (芒 independently means grain-awn/light-ray — quite different root sense), 錦繍, 錯誤, 音声 (音=sound in general vs 声=voice specifically — the compound narrows rather than equates), 芭蕉 (蕉 independently means "banana-type plant" in 香蕉 — this one surprised me), 朋友 (both real; 朋 more archaic/classical register but still independently attested, not empty), 干燥 (干 independently real: "dry/dried," also unrelated senses like "shield/offend"), 記録 (both independently real, 記 especially massive), 怠惰 (怠=neglect duty vs 惰=inertia/sloth — distinguishable), 華麗 (both massively independent: 華="flower/splendor/China", 麗="beautiful")
+- 仇敵 (仇=personal grudge vs 敵=opponent — distinguishable), 
+- 供給
+- 俘虜, 
+- 保護, 
+- 停止, 
+- 健康, 
+- 冶錬, 
+- 刑罰, 
+- 剰余, 
+- 収集, 
+- 呪詛 (呪 independently huge: 呪文/呪術), 
+- 呻吟 (吟 independently means "chant/recite poetry," unrelated to "moan"), 
+- 奴隷, 
+- 姓氏 (氏 survives as a live honorific suffix, distinct from 姓), 
+- 娯楽 (楽 independently massive: "joy/music"), 宗派, 宮殿, 富裕, 尊敬, 平坦, 建築, 彫刻 (刻 independently means "moment/time" too), 恐怖, 恒常, 恩恵, 慙愧 (a real Buddhist Abhidharma distinction: 慚=shame before self, 愧=shame before others), 憂慮, 才能, 捜索, 援助, 末端, 材料, 歌曲, 歴史, 死亡, 沐浴 (浴 massively independent), 沼沢 (沢 independently means "many/much" — 沢山), 波浪 (浪 independently means "waste/wander" — 浪費/浪人), 清潔, 煮沸, 燃焼, 獲得, 田野, 疾病, 相互, 睡眠, 研究, 程度, 種類, 符号, 簡単, 純粋 (粋 carries its own "stylish/chic" sense), 絵画 (画 independently huge: "movie/plan/stroke"), 継続, 緩慢 (慢 independently means "arrogant" — 自慢), 
+- 胆嚢/脊椎 (these are actually compositional — "gall"+"sac", "spine"+"vertebra" — not cranberry at all), 
+- 自己, 
+- 蠟燭 (also compositional: wax + candle), 
+- 衣服, 覆蓋, 認識, 謹慎, 警戒, 販売, 責任, 購買, 適宜, 釣漁, 
+- 鋒芒 (芒 independently means grain-awn/light-ray — quite different root sense), 
+- 錦繍, 
+- 錯誤, 音声 (音=sound in general vs 声=voice specifically — the compound narrows rather than equates), 
+- 芭蕉 (蕉 independently means "banana-type plant" in 香蕉 — this one surprised me), 
+- 朋友 (both real; 朋 more archaic/classical register but still independently attested, not empty), 
+- 干燥 (干 independently real: "dry/dried," also unrelated senses like "shield/offend"), 
+- 記録 (both independently real, 記 especially massive), 
+- 怠惰 (怠=neglect duty vs 惰=inertia/sloth — distinguishable), 
+- 華麗 (both massively independent: 華="flower/splendor/China", 麗="beautiful")
 
 ### Maybe
-- 伶俐 (俐 is empty, but 伶 has an unrelated independent sense "actor" — different lexeme or same?), 
-- 吝嗇 (both have marginal classical independent attestation), 
-- 咽喉 (pharynx vs larynx anatomically — colloquially synonymous), 
-- 喧嘩, 
-- 妨碍, 
 - 居住 (both fully real independently and very close synonyms — is "close" enough for transitivity, or does it require perfect identity?), 
 - 寂寞 (寂 is a major independent word — Buddhist "quiescence" — 寞 is empty; asymmetric), 
 - 憧憬 (same asymmetry — 憧れる is a very common standalone Japanese verb, 憬 is empty), 
