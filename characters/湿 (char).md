@@ -14,7 +14,7 @@ stroke_count: 12
 radical: 水
 skip_number: 1-3-9
 grade_level: "5"
-pos: ""
+pos: 性詞
 english:
   - wet
   - damp
@@ -45,4 +45,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 書]]
 [[Lookup/CC/finals/韻 緝A三]]
-- [[湿度]] "humidity"
+
+## Words
+- <ruby>[[湿度]]<rt>ㄙㄧㄆㄉㄛ</rt></ruby> "humidity"
