@@ -375,60 +375,45 @@
 	*Candidate words:* none — neither appears in any other compound.
 	*Should either get the word:* no redirect available.
 	*Revise the meaning?* Mixed evidence, genuine judgment call. `korean_native` for 跡 is 발자취 ("footprints" — a real distinct native word), but 痕's korean_native (흔적) looks like it's just reusing the Sino-Korean compound reading rather than showing a separate native term — so this isn't as clean a match as the identical-native-gloss cases elsewhere. The "scar mark" vs. "footprint/path" distinction is subtle but plausibly still real. Flagging without a lean.
-80. 祈祷 (祷 is nearly empty, 祈 is massively independent; asymmetric), 
-	*Ancient meanings:* 祈 (MC g+ɨi) — to pray, entreat, petition. 祷 (MC t+ɑu) — to pray, invoke, petition (near-identical).
-	*Candidate words:* none — neither appears in any other compound.
-	*Should either get the word:* no redirect available.
-	*Revise the meaning?* No revision needed either way — they were likely always this close. `japanese_native` is identical for both (いの, from 祈る/祷る, both "inoru," "to pray") **and** `korean_native` is identical for both (빌, "to pray/wish"). Clean, strong case — matches the 芦葦/嫉妬 pattern precisely. Recommend transitive.
-81. 覚醒, 
+80. 覚醒, 
 	*Ancient meanings:* 覚 (MC k+ɣʌk) — to perceive, become aware, wake up (broad "perception/awareness" root). 醒 (MC s+eŋ) — to sober up, wake from sleep or intoxication, become disillusioned (narrower, specifically the "coming out of an altered/unconscious state" sense).
 	*Candidate words:* 覚 has substantial other life: 覚悟 ("resolve," already independently resolved as 悟's own stand-in this session), 視覚/味覚/嗅覚/感覚 (vision/taste/smell/general sensation — a robust "sense perception" compound family). 醒 has none beyond 覚醒.
 	*Should either get the word:* 覚 clearly has real candidates elsewhere (its "perception" family, or 覚悟's "awakening to resolve" sense) rather than needing to share with 醒.
 	*Revise the meaning?* No — 覚's "sense perception" family (視覚 etc.) is a genuinely different, still-very-live semantic domain from 醒's "sober up / disillusioned." Lean **not transitive**, same asymmetric shape as 自/体/机/皮 this session.
-82. 誹謗 (both have marginal independent verb readings in Japanese: 誹る/謗る), 
-	*Ancient meanings:* 誹 (MC f+ʉi) — to slander, vilify, condemn. 謗 (MC p+ɑŋ) — to slander, libel (near-identical).
-	*Candidate words:* none — neither appears in any other compound.
-	*Should either get the word:* no redirect available.
-	*Revise the meaning?* No revision needed — likely always synonymous. `japanese_native` is identical for both (そし•る, "soshiru," "to slander"). `korean_native` is a morphological pair of the same native verb root (헐뜯다/헐뜯을, "to vilify" — verb stem vs. modifier form of the same word, not two different words). Clean case, lean transitive.
-83. 膨脹, 
+81. 膨脹, 
 	*Ancient meanings:* 膨 (MC b+ɣæŋ) — to swell, bloat, inflate generally. 脹 (MC ʈ+iɐŋ) — to swell specifically in the sense of localized bodily swelling (edema-like), per its other compound 脹脛 ("calf," the body part — named for its swollen shape).
 	*Candidate words:* 脹 already has 脹脛 ("calf") as a real other compound. 膨 has none beyond 膨脹.
 	*Should either get the word:* 脹 has a plausible redirect candidate in 脹脛 rather than sharing with 膨.
 	*Revise the meaning?* No — `korean_native` genuinely differs: 膨 = 부를 (from 부풀다, general "inflate/bloat"), 脹 = 부을 (from 붓다, "swell from injury/edema," a different native verb root entirely). This is a live, real distinction (general inflation vs. localized/injury swelling), not a dead one. Lean **not transitive**.
-84. 賄賂 (賄 also independently means "to fund/provide for" — 賄う), 
+82. 賄賂 (賄 also independently means "to fund/provide for" — 賄う), 
 	*Ancient meanings:* 賄 (MC x+uʌi) — originally broader "goods, wealth, gifts" (neutral, not inherently corrupt); modern Japanese 賄う (makanau) still means the completely neutral "to provide for, cover costs" (e.g. meals). 賂 (MC l+uo) — specifically "bribe" (a corrupt gift to influence).
 	*Candidate words:* none currently in the vault for either, but 賄's real, live "provide for/cover expenses" sense (賄う) is well-attested outside the vault and worth creating a word for.
 	*Should either get the word:* 賄 has a strong case for a separate stand-in reflecting its neutral "provide for" sense rather than sharing with 賂's specifically corrupt "bribe" sense.
 	*Revise the meaning?* No — this is a live, still-meaningful distinction (neutral provision vs. corrupt bribery), matching what the original vote already flagged. Confirms **not transitive**.
-85. 選択 (択 has marginal independent life via 択ぶ), 
+83. 選択 (択 has marginal independent life via 択ぶ), 
 	*Ancient meanings:* 選 (MC s+iuᴇn) — to choose, select (also to compile/edit, cf. 撰). 択 (MC ɖ+ɣæk) — to choose, pick out (near-identical core sense).
 	*Candidate words:* 選 has real other compounds — 甄選 ("to select, screen") and 選抜 ("selection, picking the best") — both still squarely within "select/choose," not a divergent sense. 択 has none beyond 選択.
 	*Should either get the word:* Possible redirect for 選 (e.g. 選抜), but unlike other asymmetric cases, 選's extra compounds don't show a *different* sense — just wider use of the same "choose" meaning.
 	*Revise the meaning?* Genuine judgment call. `japanese_native` for both is the same root, えらぶ ("erabu," "to choose"; 選's entry is truncated to え in the frontmatter, likely a data-entry gap rather than a real difference). Unlike 皮/覚's asymmetry, 選's greater productivity doesn't obviously indicate a separate sense — but its productivity is real enough that a redirect is plausible. Flagging without a lean.
-86. 飢餓 (very close synonyms — same "identity vs. closeness" question as 居住), 
+84. 飢餓 (very close synonyms — same "identity vs. closeness" question as 居住), 
 	*Ancient meanings:* 飢 (MC k+iɪ) — hungry (individual bodily state). 餓 (MC ŋ+ɑ) — hungry/starving, an intensified form (its own native gloss 굶주릴 is a compound of 飢's 주릴 with 굶다 "to fast/starve" folded in).
 	*Candidate words:* 飢 has one real other compound: 飢饉 ("famine" — a societal/large-scale food-shortage event, arguably a different scale of concept from individual "hunger").
 	*Should either get the word:* 飢 has a plausible redirect toward 飢饉 if "famine" is judged meaningfully distinct from personal hunger.
 	*Revise the meaning?* Genuine judgment call, same shape as 居住/嫉妬's "closeness vs. identity" question. `korean_native` readings are related-but-not-identical (餓's gloss literally incorporates 飢's root). 飢饉's "famine" sense is real, but it's arguably just "hunger, writ large" rather than a genuinely different concept. Flagging without a lean.
-87. 薔薇 (薇 has a real classical sense "fernbrake" — 采薇), 
+85. 薔薇 (薇 has a real classical sense "fernbrake" — 采薇), 
 	*Ancient meanings:* 薔 (MC d͡z+ɨɐŋ) — per the vault's own gloss, "rose," but its `japanese_native` is みずたで ("water pepper/smartweed," Persicaria — a completely different plant). 薇 (MC ɱ+ɣiɪ) — also glossed "rose," but its `japanese_native` is ぜんまい ("royal fern," Osmunda japonica — yet another, different plant), matching the classical "fernbrake" sense already flagged in the original vote (cf. 采薇).
 	*Candidate words:* none for either beyond 薔薇 itself.
 	*Should either get the word:* no existing redirect, though 薇's fern sense might eventually warrant one if a word for it existed.
 	*Revise the meaning?* **Complicated, not a clean collapse.** Both `korean_native` fields are identical (장미) — but that's just the Sino-Korean compound reading reused, not independent evidence (Korean has no separate native word for rose at all). The real signal is in Japanese: 薔 and 薇 each have their own distinct native plant-association (smartweed vs. fern), *neither* of which is "rose" — and the compound 薔薇 itself is read with the special, non-compositional ばら in Japanese (not derived from either character's native reading). This looks like two characters each carrying real, different, non-dead classical senses that happen to combine into an unrelated modern meaning via a fused reading, rather than a case of "same meaning, different characters." Recommend **not** collapsing this one to simple transitivity without further thought — it doesn't fit the established pattern cleanly.
-88. 蘿蔔 (蘿 independently means "trailing vine" — 女蘿/松蘿), 
+86. 蘿蔔 (蘿 independently means "trailing vine" — 女蘿/松蘿), 
 	*Ancient meanings:* 蘿 (MC l+ɑ) — per the vault's gloss, "radish," but `korean_native` is 쑥 ("mugwort") and `japanese_native` is つた ("ivy/vine") — both completely different plants, matching the original vote's flag ("蘿 independently means 'trailing vine'"). 蔔 (MC b+ək) — `korean_native` 무 is the actual, real native Korean word for radish; `japanese_native` is empty.
 	*Candidate words:* none for either beyond 蘿蔔 itself.
 	*Should either get the word:* no existing redirect available, though 蘿's "vine" sense might warrant one eventually.
 	*Revise the meaning?* No — this is a clear, real asymmetry, not a dead-sense collapse. 蔔 genuinely means radish across the board; 蘿 genuinely means something else (vine/mugwort) in both Japanese and Korean natively, with "radish" only holding as the Sino-reading gloss in this specific compound. Confirms **not transitive**, and more clearly so than the original vote suggested.
-89. 肥沃 (already marked as perfected by you — but for consistency, my vote is asymmetric: 肥 is massively independent, 沃 more marginal via 沃野), 
+87. 肥沃 (already marked as perfected by you — but for consistency, my vote is asymmetric: 肥 is massively independent, 沃 more marginal via 沃野), 
 	*Already marked "perfected" (`date-last-perfect: 2026-07-11`), with an explicit note: "stand-in for both 肥 and 沃, neither of which can appear independently." This looks like a deliberate, already-settled decision — flagging for completeness, not to reopen it.*
 	*Ancient meanings:* 肥 (MC v+ʉi) — fat, plump, fertile; hugely productive (肥胖, 肥大, 肥満, 肥料/化学肥料, 堆肥, 厩肥, 土肥, 肥育, even the place name 合肥). 沃 (MC ʔ+uok) — fertile, watered/irrigated; its only other use is as a modern abbreviation for "iodine" (沃素), not a classical polysemy.
 	*Candidate words:* 肥 has abundant candidates (肥満, 肥大, 肥料, etc.) if a redirect were wanted.
 	*Should either get the word:* not applicable — already decided to keep as shared stand-in.
 	*Revise the meaning?* Not reopening; noting for the record that 肥's productivity is real and large (the biggest asymmetry of any pair checked), which makes this the most notable case where transitivity was kept anyway despite one character being extremely "loud."
-90. 船舶 (船 clearly independent/common; 舶 narrower but not empty — 舶来)
-	*Ancient meanings:* 船 (MC ʑ+iuᴇn) — boat, ship, generic and very basic (grade_level 1). 舶 (MC b+ɣæk) — an oceangoing ship specifically (larger/seafaring vessel, vs. 船's generic "any boat").
-	*Candidate words:* 船 has real other compounds — 漁船 ("fishing boat"), 船尾 ("stern"), 船籍 ("ship's registry") — all still squarely within "boat/ship," no divergent sense. 舶 has none beyond 船舶.
-	*Should either get the word:* a redirect for 船 is possible (e.g. 漁船) but not obviously necessary, since its other compounds don't show a different core meaning.
-	*Revise the meaning?* Leaning yes. `korean_native` is identical for both (배, "boat/ship"). 船's extra productivity is all still "boat," not a different sense (unlike 皮/覚/机's divergence) — so the greater usage doesn't clearly block transitivity the way it did elsewhere. Lean toward transitive, with the caveat that 船 is somewhat more central/basic a character than 舶.
-	*Data-quality flag (unrelated to transitivity):* 舶's own Notes section contains only the stray comment "I'm shocked its not old" — looks like an unfinished placeholder, not real content. Worth a separate cleanup pass.
+
