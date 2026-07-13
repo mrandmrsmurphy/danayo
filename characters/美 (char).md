@@ -56,6 +56,7 @@ boundedness: 65
 - <ruby>[[賛美歌]]<rt>ㄐㄚㄋㄇㄧㄍㄜ</rt></ruby> "hymn"
 - abbreviation for "americium": <ruby>[[美洲金]]<rt>ㄇㄧㄐㄨㄛㄍㄧㄇ</rt></ruby>
 ## Words
+- <ruby>[[華美]]<rt>ㄏ⺢ㄇㄧ</rt></ruby> "gorgeous, resplendent"
 - <ruby>[[北美洲]]<rt>ㄅㄨㄎㄇㄧㄐㄨㄛ</rt></ruby> "North American continent"
 - <ruby>[[南美洲]]<rt>ㄋㄚㄇㄇㄧㄐㄨㄛ</rt></ruby> "South American continent"
 - <ruby>[[北美]]<rt>ㄅㄨㄎㄇㄧ</rt></ruby> "North America"

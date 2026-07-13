@@ -50,6 +50,7 @@ boundedness: 50
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[秀麗]]<rt>ㄙㄨㄛㄌㄝ</rt></ruby> "elegant, graceful"
 - <ruby>[[優秀]]<rt>ㄨㄛㄙㄨㄛ</rt></ruby> "excellent, outstanding"
 
 ## Derived Characters
