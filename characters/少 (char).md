@@ -20,7 +20,7 @@ stroke_count: 4
 radical: "小"
 skip_number: 4-4-4
 grade_level: "1"
-pos: ""
+pos: 名詞
 english:
   - few
 羅馬字: sou
@@ -34,6 +34,7 @@ graphemic_classification: "小"
 stand_in: "少"
 aliases:
 注音: "ㄙㄛㄨ"
+date-last-perfect: 2026-07-16
 kwin: false
 tags:
   - character
@@ -45,15 +46,20 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-
-- [List of 象形](lookup/List%20of%20象形.md): four dots, perhaps three grains of sand (see 沙), to indicate "a few, a little". Phonetically borrowed from 小 (OC *smewʔ, “small”), which is depicted by three dots.
+- [List of 象形](../lookup/List%20of%20象形.md): four dots, perhaps three grains of sand (see 沙), to indicate "a few, a little". Phonetically borrowed from 小 (OC *smewʔ, “small”), which is depicted by three dots.
+- [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 189th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙㄛㄨ](../syllables/ㄙㄛㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
-- [[多少]]
-- [[少女]]
-- [[些少]]
-- [[少年]]
-- [[鮮少]]
-- [[更少]]
+- <ruby>[[多少]]<rt>ㄉㄜㄙㄛㄨ</rt></ruby> "amount; quantity"
+- <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby> "girl; young woman"
+- <ruby>[[些少]]<rt>ㄙㄚㄙㄛㄨ</rt></ruby> "a little; somewhat"
+- <ruby>[[少年]]<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby> "youngster; boy"
+- <ruby>[[鮮少]]<rt>ㄙ⼶ㄇㄙㄛㄨ</rt></ruby> "rare; seldom; few"
+- <ruby>[[更少]]<rt>ㄍㄚㄫㄙㄛㄨ</rt></ruby> "less; fewer"
 - <ruby>[[希少]]<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby> "scarce"
-[[Lookup/CC/initials/聲 書]]
-[[Lookup/CC/finals/韻 宵A]]
+## Chengyu
+- <ruby>[[多召少選]]<rt>ㄉㄚㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "many are called, few are chosen"
+- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
+## Derived Characters
+- <ruby>[[妙 (char)|妙]]<rt>ㄇ⼄ㄨ</rt></ruby> "mysterious, subtle"

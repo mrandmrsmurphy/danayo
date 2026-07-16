@@ -29,18 +29,22 @@ graphemic_classification: 象形
 stand_in: 犬
 aliases:
 注音: ㄎ⼔ㄋ
+date-last-perfect: 2026-07-16
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
->[!tip] This is about the character.  For the word, see [[words/犬]].
->For the radical, see [Radical 094](lookup/Radicals/Radical%20094.md).
+>[!tip] This is a page about the character 犬.
+>For the word, see [犬](words/犬.md)
+>For the radical, see [Radical 094](../lookup/Radicals/Radical%20094.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 先合]]
-- [List of 象形](lookup/List%20of%20象形.md): the side view of a dog.
-- [[犬吠]] "bark, barking"
+- [List of 象形](../lookup/List%20of%20象形.md): the side view of a dog.
+- [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 1088th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 先合|wen]] → [ㄎ⼔ㄋ](../syllables/ㄎ⼔ㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+## Words
+- <ruby>[[犬吠]]<rt>ㄎ⼔ㄋㄈㄝ</rt></ruby> "bark, barking"
