@@ -117,3 +117,23 @@ Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`.
 **[[words/了解|了解]]**: removed blank `swadesh:` field; kept the existing `aliases: [瞭解]` (verified legitimate — 瞭 is 了's own documented alternate form per `characters/了 (char).md`'s `aliases` field, not a contamination case like `道`'s 辺 or `知`'s 智). Filled a blank `vietnamese` field with `liễu giải`; verified via web search rather than assuming, since the word's constituent Vietnamese fields (especially 了's own, a 6-item list of oddly-varied syllables) looked like the same corpus-noise pattern flagged on 意/情 in recent iterations — confirmed `liễu giải`/`giải liễu` (both orders) are genuinely attested as "to understand" in Buddhist-Vietnamese glossaries, corresponding to 了解/解了. Wrote the Notes section from scratch, including a real pragmatic-narrowing finding: Japanese 了解 (りょうかい) has narrowed to a stock "understood!/roger!" acknowledgment (radio/chat register) rather than the general-purpose "to understand" the Chinese verb covers, and Korean 요해 is comparatively rare next to the far more common native pairing 이해 (理解). No homophones.
 
 Next: 予習, 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
+
+### 2026-07-16, iteration 12 — [[words/予習|予習]]
+
+Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`. Both constituent character pages (`予.md`, `習.md`) are themselves unperfected — flagged for the character sweep, not touched.
+
+**Real bug found via internal cross-check, same class as `主意`/`注意`**: the word's own three transliteration fields disagreed with *each other* — `注音: ⼄ㄙㄜㄆ` correctly matched 習's own field (`ㄙㄜㄆ`), but `羅馬字: 'yosib` and `諺文: 요십` used **십** (sib) instead of 習's real reading **습** (sǝb). Almost certainly a same-page confusion with the numeral 十 (also read sib/십) — a very plausible slip since 十 is one of the most frequent syllables in the corpus. Fixed both fields to `'yosǝb`/요습, matching 注音 and 習's own character page.
+
+**Other fixes**: `mandarin: "yùx"` was truncated — corrected to `yùxí`. Removed blank `swadesh:`. Kept the existing `aliases: [預習, 豫習]` — legitimate, since 予's own `aliases` field documents 豫/預/预 as alternate forms of 予 itself (not contamination). **Left `vietnamese` blank rather than guessing**: search only turned up a compositional synthesis for a "dự tập" calque, not an attested dictionary entry, unlike [[了解]]'s well-attested `liễu giải` last iteration — noted the absence explicitly in the prose rather than either inventing a value or leaving it a silent gap.
+
+**Genuine cross-linguistic finding, not a bug**: 予's own character-page readings are jyu4 (Cantonese) / 여 (Korean) for its primary "give, bestow" sense, but in this word's "beforehand" sense the compound uses jyu6 / 예 instead — the readings proper to 予's own alternate-form cognates 豫/預 rather than 予's own base reading. Verified both via web search (Cantonese jyu6zaap6 confirmed against Wiktionary/CantoDict) before writing it up, given how much this iteration's actual bug (십 vs 습) looked superficially similar to this legitimate divergence — worth being careful to tell the two apart rather than "fixing" real polyphony into a false consistency.
+
+Next: 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
+
+### 2026-07-16, iteration 13 — [[words/介紹|介紹]]
+
+Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`. A clean iteration — `羅馬字`/`諺文`/`注音` (`gyesyou`/겨숏/ㄍ⼶ㄙ⼄ㄨ) already matched both constituent characters' own fields exactly, no derivation bug this time.
+
+**[[words/介紹|介紹]]**: filled a blank `cantonese` field (`gaai3 siu6`, straightforward concatenation of both characters' own fields). Removed blank `swadesh:`. **Applied the stand-in note convention for the first time in this word-sweep**: `characters/紹.md`'s own `stand_in` field is `介紹` — i.e. this word is literally what legitimizes 紹 in the vault, since 紹 cannot appear as an independent entry — so per [[AIOS/memory/feedback_standin_note]], appended "— stand-in for [[紹]], which cannot appear independently" to the opening Notes bullet. Wrote the Notes section from scratch, including a genuine cross-linguistic finding: Japanese 紹介 and Korean 소개 both use the *reversed* character order relative to Mandarin/Cantonese/Dan'a'yo 介紹 — built from the identical two characters, just swapped — which the word's own pre-existing `紹介` alias already silently encoded without explanation; now the Notes section actually says why that alias exists. No homophones.
+
+Next: 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
