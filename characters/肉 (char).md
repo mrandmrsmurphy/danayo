@@ -61,3 +61,6 @@ boundedness: 90
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
 - <ruby>[[弱肉強食]]<rt>ㄋㄙㄎㄋㄨㄎㄍㄚㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
 - <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "bone of my bone and flesh of my flesh"
+
+## Derived
+- 育?

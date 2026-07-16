@@ -68,3 +68,4 @@ boundedness: 80
 - <ruby>[[如 (char)|如]]<rt>ㄋ⼄</rt></ruby> "like, as"
 - <ruby>[[汝 (char)|汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (dear)"
 - <ruby>[[奴]]<rt>ㄋㄛ</rt></ruby> "slave"
+- <ruby>[要](/characters/要.md)<rt>⼄ㄨ</rt></ruby> "important"
