@@ -65,3 +65,23 @@ First of the HSK-1 multi-character words. Stamped `date-last-perfect: 2026-07-16
 **Etymological finding worth remembering**: 一切's "everything, all" sense traces to its use as the standard Chinese translation of Sanskrit *sarva* in Buddhist scripture (一切眾生, 一切法) — a good example of Buddhist-translation vocabulary becoming ordinary Sinosphere-wide vocabulary, worth watching for on other abstract/philosophical HSK-1 words coming up in this pool.
 
 Next: 知, 不同, 主意, 事情, 了解, 予習, 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
+
+### 2026-07-16, iteration 7 — [[words/知|知]]
+
+Next in the HSK-1 multi-character pool (single character, but alphabetized after 一切 in the original grep listing). Stamped `date-last-perfect: 2026-07-16`. `characters/知 (char).md` is itself unperfected (bare "矢, 口" Notes fragment, missing SKIP/Stroke/MC/Levels bullets) — flagged for the character sweep, not touched here.
+
+**[[words/知|知]]**: `japanese: しる, ち` and `vietnamese: tri, trí` were both comma-dumps of multiple readings in one field — narrowed to single values (`ち`, the on'yomi used in the word's actual "knowledge" compounds; `tri`, the correct Sino-Vietnamese reading for 知 itself) and moved the excluded alternates into prose with explanation rather than silently dropping them. **`trí` turned out not to even belong to 知 at all** — it's the Sino-Vietnamese reading of the *different* (though historically related) character [[智]] "wisdom," not a valid alternate reading of 知 — same category of error as `korean: "(알) 지"` (the [[小]]-style hun-eum-mnemonic-crammed-into-the-field bug), fixed to bare `지`. **Same contamination pattern as [[道]]'s `辺` last iteration, caught again in `aliases`**: the list included `智`, but `characters/智.md` is a real, separate character page in this vault (not a mere graphic variant of 知) — removed it, kept the other three (`𥎵`, matching the character page's own aliases field, plus `𣉻`/`𥏼`, unverified but plausible and left in per the same evidentiary standard as 道's unverified CJK-extension variants last time).
+
+**Homophones — the largest set so far**: [[知]] shares its exact reading (ㄐㄨㄧ/jui/쥐) with *three* other standalone words, not just one — [[池]] "pond, reservoir," [[酔]] "drunk," and [[馳]] "run fast, drive quickly." Added the callout to 知 listing all three, and added reciprocal callouts to each of the other three listing 知 plus the *other two* (not just 知) — i.e. every one of the four pages now lists the other three, not just a pairwise back-link. All three siblings remain otherwise unperfected (empty `# Notes` stubs) — flagged, not fixed, same minimal-touch precedent as every prior homophone cluster in this log.
+
+Next: 不同, 主意, 事情, 了解, 予習, 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
+
+### 2026-07-16, iteration 8 — [[words/不同|不同]]
+
+Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`. `characters/不 (char).md` was already perfected (2026-07-02); `characters/同.md` is itself unperfected (no `date-last-perfect`, and its own `graphemic_classification: 會意` looks like it may contradict its own Notes bullet, which describes a 象形 pipe-pictograph origin — flagged for the character sweep, not touched here, out of scope).
+
+**[[words/不同|不同]]**: cleaner starting point than recent iterations — no comma-dumped fields or misattributed aliases this time, just gaps to fill. Removed blank `swadesh:` and empty `aliases:` fields. **Filled in a previously-blank `vietnamese` field**: `bất đồng`, and worth noting it's semantically narrower than the Chinese/Japanese source — Vietnamese bất đồng means specifically "disagreement, discord" (bất đồng ý kiến "difference of opinion") rather than the general-purpose "different" that 不同/ふどう cover. Wrote the Notes section from scratch (previously nothing past the frontmatter).
+
+**Genuine homophone-collision finding for the Notes prose** (not a page-level homophone callout, since it's cross-linguistic rather than within Dan'a'yo itself): Korean 부동 is ambiguous between 不同 ("different") and 不動 ("immovable," as in 부동산 "real estate") — 同 and 動 happen to share the identical Sino-Korean reading 동, so the two completely unrelated compounds collide. No Dan'a'yo-internal homophones for this word (`注音: ㄅㄛㄊㄉㄛㄫ` is unique to this file), so no `[!warning]` callout was needed on the page itself.
+
+Next: 主意, 事情, 了解, 予習, 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
