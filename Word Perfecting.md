@@ -175,3 +175,19 @@ Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`.
 **[[words/不用|不用]]**: both `korean` and `vietnamese` were completely blank. Filled `korean: 불용` — verified via search rather than naively concatenating 不's own `부` + 用's `용` to `부용`, since Sino-Korean 不 famously alternates between 부 and 불 depending on the following sound (부 mainly before ㄷ/ㅈ, 불 otherwise) — 불용 is the real attested word. **Left `vietnamese` blank rather than guessing**: searched for a `不`+`用`-based Vietnamese compound and found none attested — the real everyday equivalents (bất tất "unnecessary," vô dụng "useless") are built from entirely different character pairings (必 and 無, not 用/不 directly), so a literal `不`+`用` calque would likely be a fabrication rather than real Vietnamese; explained this in prose instead of inventing a field value, same standard applied to [[予習]] and [[人等]] earlier in this sweep. Removed blank `swadesh:`/`aliases:` fields. Wrote the Notes section, including a genuine Japanese homophone-collision note: 不用 (ふよう, concrete "unused") and 不要 (also ふよう, abstract "unnecessary") are different characters that collide in speech.
 
 Next: 偉大, 健康, 利用.
+
+### 2026-07-16, iteration 18 — [[words/偉大|偉大]]
+
+Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`. Clean derivation (`widai`/위대/ㄨㄧㄉㄚㄧ matched both characters' own fields), `kwin: true` already correctly set (both constituents individually `true` per the AND-rule, third confirmation of that rule this sweep).
+
+**[[words/偉大|偉大]]**: filled a blank `vietnamese` field with `vĩ đại` — this one didn't need a search, it's a very high-confidence, extremely common Vietnamese adjective (unlike the last several iterations' uncertain calques). Removed blank `swadesh:` and empty `aliases: []`. **Stand-in note applied** (fourth time this sweep): `characters/偉.md`'s `stand_in` field is `偉大` — added "— stand-in for [[偉]], which cannot appear independently." Wrote the Notes section from scratch.
+
+Next: 健康, 利用.
+
+### 2026-07-16, iteration 19 — [[words/健康|健康]]
+
+Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`. Unusual starting point: someone had already written a genuinely good opening Notes bullet (correctly explaining that 健康 is *not* the stand-in for either 健 or 康, since [[健全]] and [[康寧]] already split off their two more specific senses) but never finished or stamped the page. Clean derivation (`genkang`/건캉/ㄍㄝㄋㄎㄚㄫ matched both characters), `kwin: false` already correctly set (健 alone matches Korean, 康 doesn't — AND-rule gives false, fourth confirmation this sweep).
+
+**[[words/健康|健康]]**: fixed a self-referential `aliases: [健康]` — a word can't be its own alias, almost certainly a copy-paste slip (simplified and traditional 健康 are identical for these two characters, so there was never a real simplified-form alias to record here). Removed blank `swadesh:`. Added the missing cross-linguistic paragraphs after the existing opening bullet, including a genuine register-gap finding: Vietnamese kiện khang (the formal Sino-Vietnamese calque) is far less common in everyday speech than sức khỏe, unlike Mandarin/Cantonese/Japanese/Korean where the direct 健康-based word is the standard everyday term.
+
+Next: 利用.
