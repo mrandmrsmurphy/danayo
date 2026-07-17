@@ -56,3 +56,4 @@ boundedness: 65
 ## Words
 - [[兄弟姉妹]] "siblings,brothers and sisters"
 - [[兄弟]] "brothers, brotherhood"
+- <ruby>[[兄嫂]]<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby> "sister-in-law, older brother's wife"
