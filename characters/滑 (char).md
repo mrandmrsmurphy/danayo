@@ -48,3 +48,6 @@ boundedness: 80
 - 1496th most common character in Classical Chinese: [[聲 匣|Initial ɣ]] + [[韻 鎋合|Final ɣuɛt]]
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 鎋合]]
+
+## Words
+- <ruby>[[狡猾]]<rt>ㄍ⼄ㄨㄏ⺢ㄊ</rt></ruby> "cunning, crafty"

@@ -49,3 +49,6 @@ boundedness: 100
 # Notes
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 侯]]
+
+## Words
+- <ruby>[[熨斗]]<rt>⼜ㄊㄉㄛㄨ</rt></ruby> "flatiron"
