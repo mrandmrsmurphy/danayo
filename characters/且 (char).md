@@ -51,7 +51,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[且爵]]<rt>ㄑㄛㄐㄚㄎ</rt></ruby> "chew, masticate" (stand-in for 咀嚼)
+- <ruby>[[且爵]]<rt>ㄑㄛㄐㄚㄎ</rt></ruby> "chew, masticate" (stand-in for 嚼)
 - <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover"
 
 ## Derived Characters

@@ -1,18 +1,6 @@
 # Loop Work
 
-Running log for the `/loop` character-perfection sweep (started 2026-07-16). Each entry covers one 10-minute iteration: which character page(s) were brought to `date-last-perfect` against [[AIOS/checklists/checklist_characters.md|checklist_characters.md]], picked in ascending `danayo_id` order from the pool of characters that have never been perfected (blank `date-last-perfect`). See [[AIOS/projects.md|projects.md]] for the broader sweep this feeds into.
-
 ## Log
-
-### 2026-07-16, iteration 3 — [[characters/友|友]] and [[characters/内|内]]
-
-Next two by `danayo_id` (29, 30). Both stamped `date-last-perfect: 2026-07-16`. Neither file needed a disambiguation callout — confirmed no `words/友.md` or `words/内.md` exist (both have compound `stand_in` values, 朋友/内部, same pattern as the already-perfected [[characters/朋|朋]], which set the "(stand-in for X)" gloss-suffix convention followed here).
-
-**[[characters/友|友]]**: blank `pos` → `名詞`. Notes was just a stray `# Notes` (wrong heading level) with two floating CC links and 2 partial Words entries — rebuilt from scratch. Graphemic bullet needed real research: the stored `graphemic_classification: 又` looked suspicious at first (why would a 会意-looking "two hands" character store a phonetic component?), so checked Baxter-Sagart via Wiktionary before trusting it — 友 OC *[ɢ]ʷəʔ and 又 OC *[ɢ]ʷəʔ-s are the *same root*, and Shuowen's own gloss ("two hands, therefore friendship") already frames 又 as doing double duty — so this is a genuine 亦聲 case (semantic and phonetic both `又`), not a data error; kept the stored classification and cited the OC forms. Words cross-check (4 total via `characters:` frontmatter) found 2 missing (朋友 — the stand-in itself, 友誼) and one dash-gloss entry (友好) needing reformatting. No chengyu, no `graphemic_classification: 友` hits — Chengyu/Derived Characters sections correctly absent.
-
-**[[characters/内|内]]**: blank `pos` → `名詞`. **Reclassified `graphemic_classification` from `入` to `会意`** — checked Wiktionary and confirmed 內/内 is Shuowen's 會意 of 入 ("enter") + 冂 ("enclosure"), not phono-semantic; 入's own MC (ȵ+iɪp) doesn't correspond to 内's (n+uʌi) at all, so the old value was a genuine corpus error, not a defensible edge case like 友's. (Contrast with `characters/要.md`'s similarly-wrong `graphemic_classification: 女` flagged last iteration but not fixed — this one I did fix since it's a straightforward single-field correction with a clear replacement value, not an ambiguous call.) Rebuilt all 4 Notes bullets from a bare 2-bullet stub. Words cross-check (12 total) found 7 missing including the stand-in itself (内部, 内心, 内臓, 内閣, 校内, 河内, 白内障) and reformatted 2 dash-gloss entries. Chengyu (内柔外剛) was entirely absent — added. **New `## Derived Characters`** (6 entries: 魶/妠/肭/芮/納/衲) — verified these are real phonetic derivatives despite 内's *current* Dan'a'yo reading having no coda: 内 and 納 are historically the same word/root (内 lost a final stop that 納/衲/肭/魶/妠 retain, e.g. 内 n+uʌi vs 納 n+ʌp), a known cognate split, not a coincidental component match. **Incidental fix**: `words/内省.md` had `english: examine oneselg` (typo → oneself).
-
-Next: 父, 毛, 火, 犬, 手 per `danayo_id`.
 
 ### 2026-07-16, iteration 4 — [[characters/父|父]] and [[characters/毛 (char)|毛]]
 
