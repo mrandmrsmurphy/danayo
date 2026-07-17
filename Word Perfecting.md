@@ -191,3 +191,25 @@ Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`.
 **[[words/健康|健康]]**: fixed a self-referential `aliases: [健康]` — a word can't be its own alias, almost certainly a copy-paste slip (simplified and traditional 健康 are identical for these two characters, so there was never a real simplified-form alias to record here). Removed blank `swadesh:`. Added the missing cross-linguistic paragraphs after the existing opening bullet, including a genuine register-gap finding: Vietnamese kiện khang (the formal Sino-Vietnamese calque) is far less common in everyday speech than sức khỏe, unlike Mandarin/Cantonese/Japanese/Korean where the direct 健康-based word is the standard everyday term.
 
 Next: 利用.
+
+### 2026-07-16, iteration 20 — [[words/利用|利用]]
+
+Last word in this HSK-1 batch (both single- and multi-character pools, as originally listed at the top of this log). Stamped `date-last-perfect: 2026-07-16`. Clean derivation (`liǝ'yong`/릐용/ㄌㄧㄜ⼄ㄫ matched both characters), `kwin: false` already correctly set (利 alone mismatches Korean, 用 matches — AND-rule gives false, fifth confirmation this sweep). Confirmed `korean: 리용` is deliberately the North Korean 문화어 form per [[AIOS/memory/feedback_korean_reading_north]] (South Korean 두음법칙 would give 이용) — correct as stored, not a bug.
+
+**[[words/利用|利用]]**: only real structural defect was a non-canonical `## Etymology` heading instead of `## Notes` (the existing opening-bullet content underneath it was already correctly formatted, just mislabeled) — renamed and added the missing prose paragraphs. Removed blank `swadesh:`/`aliases:` fields. Genuine cross-linguistic finding: 利用 carries a purposive/exploitative edge across most of the family (Mandarin covers both neutral "use" and negative "exploit," Vietnamese lợi dụng has drifted almost entirely to the negative sense, with sử dụng taking over the neutral one), while Japanese りよう stays comparatively neutral and everyday. No homophones.
+
+**Milestone**: this clears the entire original HSK-1 never-perfected pool this log started with (一, 七, 天, 小, 道 as single characters; 一切, 知, 不同, 主意/注意, 事情, 了解, 予習, 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用 as multi-character words — 20 word pages fully perfected across 20 iterations, plus 4 more touched only for reciprocal homophone callouts: 壱, 逸, 梳, 池/酔/馳). Next iteration will need a fresh pool — per this log's own ordering note, the next-closest proxy to "most fundamental" is the Swadesh list (`grep -l "^swadesh:" words/*.md` crossed against `grep -L "date-last-perfect"`), not yet started.
+
+## New pool: Swadesh list
+
+**Ordering**: `grep -lE "^swadesh: [0-9]+" words/*.md` filtered against never-perfected, sorted ascending by the swadesh number itself (63 blank `swadesh:` fields turned out to be false positives from the naive grep — filtered those out too). 64 real candidates found, lowest first.
+
+### 2026-07-16, iteration 21 — [[words/我等|我等]]
+
+First in the Swadesh pool (swadesh #4, "we"). Stamped `date-last-perfect: 2026-07-16`.
+
+**Same bug class as [[人等]] two pools ago, same root cause**: every cross-linguistic field described the *modern colloquial* plural 我們/我哋 (`mandarin: wǒmen`, `japanese: わたくしたち`, `korean: 우리`, `vietnamese: chúng ta, chúng tôi`) instead of the actual title word 我等, a classical/formal "we" built with the same 等-suffix pattern as 人等. The `aliases: [我們, 我哋]` field was again almost certainly the root cause — treating the colloquial synonym as an alternate spelling of this page, then filling in *its* data instead. Unlike 人等, though, this word turned out to be well-attested across all four target languages once actually researched (no blank fields needed this time): Mandarin/Cantonese 我等/我哋-parallel forms survive in classical/legal register; Japanese 我等/我ら (われら, warera) is genuinely current in formal/literary use (oaths, anthems); Korean 아등 is a real classical pronoun, one of a family (오등/여등/아배/오배) that includes the word that actually opens the 1919 Korean Declaration of Independence (吾等, a close cousin, not 아등 itself — careful not to conflate the two); Vietnamese ngã đẳng is attested alongside the parallel 公等/爾等 forms. Removed the wrong aliases, corrected all five cross-linguistic fields, wrote the Notes section explicitly cross-referencing 人等's own note on the same X-等 pattern. `kwin: false` (我 alone matches Korean, 等 doesn't — AND-rule, now confirmed on both 人等-pattern words).
+
+**Tooling note**: a stray zero-width space (`​`) inside the old `japanese` field value broke a couple of `Edit` string matches that looked identical on screen — had to drop to `python3 -c "print(repr(...))"` to see it, then just rewrote the whole file with `Write` rather than fight more invisible-character mismatches. Worth remembering as a diagnostic step if an `Edit` string match fails for no visible reason.
+
+Next: 6 (其人等), 15 (如何), 25 (四), 36 (女人), 37 (男人), continuing ascending by swadesh number.
