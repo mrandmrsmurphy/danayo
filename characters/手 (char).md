@@ -61,3 +61,5 @@ boundedness: 90
 - <ruby>[[空手道]]<rt>ㄎㄛㄫㄙ⼜ㄉㄚㄨ</rt></ruby> "karate"
 - <ruby>[[妙手]]<rt>ㄇ⼄ㄨㄙ⼜</rt></ruby> "expert; master"
 - <ruby>[[捕手]]<rt>ㄅㄛㄙ⼜</rt></ruby> "catcher (baseball)"
+## Derived Characters
+- <ruby>[[失]]<rt>ㄙㄧㄊ</rt></ruby> "lose"

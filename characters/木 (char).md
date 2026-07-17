@@ -79,3 +79,4 @@ boundedness: 40
 - <ruby>[[朽木糞牆]]<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
 ## Derived Characters
 - <ruby>[[沐]]<rt>ㄇㄛㄎ</rt></ruby> "bathe, cleanse"
+- <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby> "assemble"

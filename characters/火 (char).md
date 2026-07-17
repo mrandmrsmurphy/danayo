@@ -38,6 +38,7 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 火.
 >For the word, see [火](words/火.md)
+>It is the chemical formula abbreviation for strontium.
 ```meta-bind-embed
 [[nav/char_info]]
 ```

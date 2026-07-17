@@ -54,3 +54,4 @@ boundedness: 100
 ## Derived Characters
 - <ruby>[[芼]]<rt>ㄇㄚㄨ</rt></ruby> "cook"
 - <ruby>[[耗]]<rt>ㄏㄚㄨ</rt></ruby> "deplete, waste"
+- <ruby>[[表]]<rt>ㄅ⼘ㄨ</rt></ruby> "show, indicate"
