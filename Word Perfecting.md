@@ -231,3 +231,37 @@ Swadesh #15 ("how"). Stamped `date-last-perfect: 2026-07-16`. Clean Dan'a'yo-int
 **[[words/如何|如何]]**: `japanese: 争で` was outright corrupted — 争 ("dispute, contend") has nothing to do with 如何 at all, almost certainly a stray typo/copy-paste artifact — corrected to いかが (ikaga), which is a real, well-attested, notably *polite* Japanese word for "how" (いかがですか, the standard formal way to make an offer or ask after someone's condition). `korean: 어떻게` was the native Korean word for "how," not a reading of 如何 at all — corrected to 여하 (yeoha), the real Sino-Korean root, though noted in prose that it survives mainly bound inside longer adverbs (여하튼, 여하간, 여하한) rather than standing fully alone. `vietnamese` had a likely-typo native phrase (`hế nào`, presumably meant `thế nào`) mixed with other native phrasings (làm sao, sao) — none of which are Sino-Vietnamese readings of 如何 — corrected to như hà, verified as a real attested Hán Việt term. Fixed the non-canonical `## Etymology` heading to `## Notes` and folded a stray unstructured definition line into the prose. Removed blank `hsk_level:` and empty `aliases: []`.
 
 Next: 25 (四), 36 (女人), 37 (男人).
+
+### 2026-07-16, iteration 24 — [[words/四|四]]
+
+Swadesh #25 ("four"). Stamped `date-last-perfect: 2026-07-16`. `characters/四 (char).md` was already perfected (2026-01-30) and unusually rich — clean derivation confirmed (`siǝ`/싀/ㄙㄧㄜ matched exactly).
+
+**[[words/四|四]]**: filled a blank `japanese` field with し (on'yomi, matching the character's own field and this sweep's numeral-word convention). **Genuine tetraphobia finding, cross-linguistically consistent and directly tied to a note already on the character page**: 四's Sino-Korean reading 사 collides with 死 ("death," also sa) — the same death-taboo collision Japanese has with し (death, 死, also shi), which is why よん (yon) often displaces し for "four" in sensitive contexts (hospital rooms, hotel floors), alongside the parallel 九/苦 avoidance. `characters/四 (char).md`'s own Notes already flagged that **Dan'a'yo's own reading was deliberately steered away from a literal 사-sounding form for the same taboo-avoidance reason** — wrote this connection out explicitly in the word's Notes rather than leaving it as an isolated character-page aside.
+
+**Homophones**: [[矢]] "arrow" and [[視]] "look at, inspect" both share 四's exact reading (ㄙㄧㄜ/siǝ/싀) — added the three-way callout to 四 and reciprocal callouts to both siblings (both still otherwise unperfected, same minimal-touch pattern as every prior homophone cluster). Also fixed `characters: 四 (char)` from a bare scalar to a proper list.
+
+Next: 36 (女人), 37 (男人).
+
+### 2026-07-16, iteration 25 — [[words/女人|女人]]
+
+Swadesh #36 ("woman"). Stamped `date-last-perfect: 2026-07-16`. `characters/女 (char).md` was already perfected today by the character sweep.
+
+**Two bugs stacked again, same pattern as [[其人等]]**: (1) a genuine Dan'a'yo-internal derivation error — `諺文`/`羅馬字` read `뇻닌`/`nyounin`, but `characters/女 (char).md`'s own reading is `느`/`nǝ` (matching the word's own, already-correct `注音: ㄋㄜㄋㄧㄋ`) — fixed to `느닌`/`nǝnin`. (2) All three of `japanese`/`korean`/`vietnamese` described *different, merely-synonymous* compounds instead of 女人 itself: `おんな` is just 女 alone (not 女人), `녀자` is 女子 (a different second character), `phụ nữ` is 婦女 (different characters entirely). Researched and corrected all three to real, attested readings of 女人 specifically: Japanese にょにん (nyonin) — genuinely real but markedly more archaic/ritual-register than everyday 女, most famous in 女人禁制 ("forbidden to women," the historical prohibition on women entering many sacred Japanese mountains); Korean 녀인 (yeoin/nyeoin per the vault's North Korean convention) — a real literary word for "woman" with no male counterpart; Vietnamese nữ nhân — real, same literary register as the Korean and Japanese forms, contrasting with everyday phụ nữ. Removed blank `hsk_level:`/empty `aliases: []`, normalized the inline-array `characters:` field to standard block-list form. No homophones.
+
+Next: 37 (男人).
+
+### 2026-07-16, iteration 26 — [[words/男人|男人]]
+
+Swadesh #37 ("man"), the direct counterpart to last iteration's [[女人]]. Stamped `date-last-perfect: 2026-07-16`. Clean Dan'a'yo-internal derivation this time (`namnin`/남닌/ㄋㄚㄇㄋㄧㄋ already matched 男's own field). **Stand-in note applied**: `characters/男.md`'s `stand_in` field is `男人` — added "— stand-in for [[男]], which cannot appear independently." Fixed `characters:` list entry `人` → `人 (char)` (missing-suffix bug, same class flagged repeatedly in [[Loop Work.md]]).
+
+**A genuinely different situation from [[女人]], not just a symmetric fix**: 女人's cross-linguistic fields were wrong but each had a real, independently-attested correct answer once actually researched (にょにん, 녀인, nữ nhân, all real words tied to women being a ritually-marked category — 女人禁制). For 男人, the parallel search came back empty — no clear attestation of a standalone Japanese/Korean/Vietnamese word built the same way. Rather than assume symmetry and force-fit "corrected" values, wrote this asymmetry into the Notes directly: men, as the unmarked default in the religious contexts that produced words like 女人, apparently never needed a parallel coinage — 男/男子 sufficed. Gave the frontmatter fields (だんじん, 남인, nam nhân) as honest compositional cross-references only, following the same disclosure standard as [[予習]]/[[不用]]/[[其人等]]. **Flagged an extra risk found while checking 남인**: it's homophonous with 南人 ("southerner"), the real historical Namin political faction of the Joseon dynasty — noted explicitly as a genuine ambiguity risk rather than silently leaving a collision-prone reading unexplained. No homophones for 男人 itself.
+
+Next: 42 (母親), 43 (父親), 44 (動物/野獣), continuing ascending by swadesh number.
+
+### 2026-07-16, iteration 27 — [[words/母親|母親]]
+
+Swadesh #42 ("mother"). Stamped `date-last-perfect: 2026-07-16`. Clean derivation (`moucin`/못친/ㄇㄛㄨㄑㄧㄋ matched both characters' own fields). **Stand-in note applied**: `characters/母.md`'s `stand_in` field is `母親` — added "— stand-in for [[母]], which cannot appear independently."
+
+**A mixed case, not a clean "everything was wrong" bug this time**: `japanese: ははおや` (hahaoya) turned out to already be genuinely correct — a real, common, neutral word for "mother" in the third person, distinct from address terms like お母さん. But `korean: 어머니` and `vietnamese: mẹ, má` were the familiar native-word substitution — corrected to 모친 (mochin, real formal/written-register Korean) and mẫu thân (real, historically aristocratic/literary Vietnamese, verified via search alongside its reversed-order doublet thân mẫu — another word-order variant echoing the 介紹/紹介 pattern from earlier in this sweep). Also fixed `hsk_level: 1` (bare unquoted integer) to the required quoted-string form `"1"`. Removed blank `aliases:`. No homophones.
+
+Next: 43 (父親), 44 (動物/野獣).
