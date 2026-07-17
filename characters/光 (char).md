@@ -45,7 +45,7 @@ boundedness: 90
 
 ## Notes
 - 会意 of [[Radical 086|火]] ("fire") and [[Radical 026|卩]] ("kneeling person") — fire held over a person's head, emphasizing radiant shining; Shuowen Jiezi: 明也，从火在人上。
-- [SKIP-2-4-2](lookup/SKIP/SKIP-2/SKIP-2-4-2.md) ([Stroke 6](lookup/Stroke/Stroke%206.md))
+- [SKIP-2-4-2](lookup/SKIP/SKIP-2/SKIP-2-4-2.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
 - 264th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 唐合|wɑŋ]] → [ㄎ⺢ㄫ](syllables/ㄎ⺢ㄫ.md)
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 

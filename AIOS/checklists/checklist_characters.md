@@ -200,6 +200,7 @@ List all four levels in order: Dan'a'yo grade, HSK, Jōyō, Korean. Include all 
 |---|---|---|
 | `grade_level` | `"1"`–`"6"` | `[[Grade N]]` |
 | `grade_level` | `"名"` | `[[Grade Name]]` |
+| `grade_level` | `先進` | `[[Grade Advanced]]` |
 | `hsk_level` | `"1"` | `[[lookup/HSK/HSK Beginner]]` |
 | `hsk_level` | `"2"`–`"6"` | `[[lookup/HSK/Old HSK N]]` |
 | `hsk_level` | `"無"` | `[[lookup/HSK/HSK No]]` |

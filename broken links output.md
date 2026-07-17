@@ -1,10 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 ## Components
-- [[卩]] in [[characters/光 (char)]], [[characters/即 (char)]], [[characters/皮]], [[characters/色]], [[characters/見 (char)]]
-- [[㐅]] in [[characters/刈 (char)]]
 - [[豦]] in [[characters/劇 (char)]]
-- [[遷 (char)]] in [[characters/千]]
-- [[𠂇]] in [[characters/卑 (char)]]
 - [[厂]] in [[characters/反 (char)]], [[characters/雁 (char)]]
 - [[爫]] in [[characters/受]]
 - [[冖]] in [[characters/受]], [[characters/憂]], [[characters/栄]]
