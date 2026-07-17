@@ -265,3 +265,19 @@ Swadesh #42 ("mother"). Stamped `date-last-perfect: 2026-07-16`. Clean derivatio
 **A mixed case, not a clean "everything was wrong" bug this time**: `japanese: ははおや` (hahaoya) turned out to already be genuinely correct — a real, common, neutral word for "mother" in the third person, distinct from address terms like お母さん. But `korean: 어머니` and `vietnamese: mẹ, má` were the familiar native-word substitution — corrected to 모친 (mochin, real formal/written-register Korean) and mẫu thân (real, historically aristocratic/literary Vietnamese, verified via search alongside its reversed-order doublet thân mẫu — another word-order variant echoing the 介紹/紹介 pattern from earlier in this sweep). Also fixed `hsk_level: 1` (bare unquoted integer) to the required quoted-string form `"1"`. Removed blank `aliases:`. No homophones.
 
 Next: 43 (父親), 44 (動物/野獣).
+
+### 2026-07-16, iteration 28 — [[words/父親|父親]]
+
+Swadesh #43 ("father"), the direct counterpart to [[母親]] last iteration. Stamped `date-last-perfect: 2026-07-16`. Clean derivation (`bucin`/부친/ㄅㄨㄑㄧㄋ matched both characters). **Stand-in note applied**: `characters/父.md`'s `stand_in` field is `父親`.
+
+**Real `kwin` bug caught, first false-negative found this sweep**: the stored `kwin: false` was wrong — both 父 and 親 individually carry `kwin: true` on their own character pages, so the AND-rule predicts `true`, and a direct check confirms it: the word's own Dan'a'yo 諺文 (부친) is *identical* to the real Korean word 부친. Every other `kwin` fix this sweep has been filling a blank or leaving a correct value alone; this is the first case of an actively wrong stored value, corrected `false` → `true`.
+
+Otherwise the now-familiar pattern: `japanese: ちちおや` was already correct (real, common, third-person "someone's father," mirroring ははおや's role exactly), while `korean: 아버지` and `vietnamese: ba, bố` were native substitutions — corrected to 부친 (real formal/written Korean, direct counterpart of 모친) and phụ thân (real formal/classical Vietnamese, counterpart of mẫu thân, both verified via search). Fixed unquoted `hsk_level: 1` → `"1"`. No homophones.
+
+Next: 44 (動物), 44 (野獣).
+
+### 2026-07-16, iteration 29 — [[words/動物|動物]]
+
+Swadesh #44 ("animal"). Stamped `date-last-perfect: 2026-07-16`. The cleanest word this whole sweep — every frontmatter field was already correct on inspection (clean derivation, `kwin: true` correctly matching the AND-rule since both 動 and 物 individually match Korean, real `japanese`/`korean`/`vietnamese` values already in place). Neither constituent character's `stand_in` points to this word, so no stand-in note applies. Only real defects: a blank `hsk_level:` field (removed) and a completely missing `## Notes` section (written from scratch). Worth noting explicitly why this one had no native-vs-Sino conflation bug like the recent kinship words: "animal" has no competing intimate/affectionate native term the way "mother/father" do, so there was never a rival word to accidentally substitute in. No homophones.
+
+Next: 44 (野獣).
