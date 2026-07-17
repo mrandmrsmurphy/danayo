@@ -16,7 +16,7 @@ stroke_count: 5
 radical: 一
 skip_number: 4-5-2
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - hill
 羅馬字: kyu
@@ -32,6 +32,7 @@ aliases:
   - 㐀
   - 蚯
 注音: ㄎ⼜
+date-last-perfect: 2026-07-17
 kwin: false
 tags:
   - character
@@ -44,8 +45,11 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 尤]]
+## Notes
+- [List of 指事](../lookup/List%20of%20指事.md): depicts a raised mound of earth between two peaks, marking the concept of a natural hill (as opposed to 山, the pictograph of a mountain range).
+- [SKIP-4-5-2](../lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 511th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄎ⼜](../syllables/ㄎ⼜.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
 - <ruby>[[丘引]]<rt>ㄎ⼜·ㄧㄋ</rt></ruby> "earthworm"
