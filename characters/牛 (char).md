@@ -10,8 +10,6 @@ vietnamese:
   - ngâu
   - ngõ
   - ngưu
-  - ngọ
-  - ngỏ
 middle_chinese_initial: ŋ
 middle_chinese_final: ɨu
 stroke_count: 4
@@ -36,6 +34,7 @@ date-last-perfect: 2026-07-16
 kwin: false
 tags:
   - character
+  - hapax
 boundedness: 90
 ---
 >[!tip] This is a page about the character 牛.

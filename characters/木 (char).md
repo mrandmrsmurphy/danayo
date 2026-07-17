@@ -6,13 +6,9 @@ korean_native: 나무
 japanese:
   - BOKU
   - MOKU
-japanese_native: き
-  - き
+japanese_native: き - き
 vietnamese:
   - mộc
-  - móc
-  - mọc
-  - mốc
   - mục
 middle_chinese_initial: m
 middle_chinese_final: uk

@@ -51,6 +51,7 @@ boundedness: 80
 - 56th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [⼔ㄊ](../syllables/⼔ㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+### Moon
 - <ruby>[[望月]]<rt>ㄇㄚㄫ⼔ㄊ</rt></ruby> "full moon"
 - <ruby>[[蜜月]]<rt>ㄇㄧㄊ·⼔ㄊ</rt></ruby> "honeymoon"
 - <ruby>[[明月]]<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby> "bright moon; jewel"
@@ -59,11 +60,13 @@ boundedness: 80
 - <ruby>[[月経]]<rt>⼔ㄊㄍㄝㄫ</rt></ruby> "menstruation"
 - <ruby>[[月虹]]<rt>⼔ㄊㄏㄛㄫ</rt></ruby> "moonbow"
 - <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby> "lunar eclipse"
+- <ruby>[[月素]]<rt>⼔ㄊㄙㄛ</rt></ruby> "selenium"
+- <ruby>[[旧正月]]<rt>ㄍ⼜ㄛㄐㄧㄫ⼔ㄊ</rt></ruby> "lunar new year; old new year"
+### Month
 - <ruby>[[月刊]]<rt>⼔ㄊㄎㄚㄋ</rt></ruby> "monthly periodical; monthly publication"
 - <ruby>[[月中]]<rt>⼔ㄊㄐㄨㄫ</rt></ruby> "middle of the month"
 - <ruby>[[月初]]<rt>⼔ㄊㄑㄛ</rt></ruby> "beginning of the month"
 - <ruby>[[月末]]<rt>⼔ㄊㄇㄚㄊ</rt></ruby> "end of the month"
-- <ruby>[[月素]]<rt>⼔ㄊㄙㄛ</rt></ruby> "selenium"
 - <ruby>[[今月]]<rt>ㄍㄧㄇ⼔ㄊ</rt></ruby> "this month"
 - <ruby>[[前月]]<rt>ㄐㄝㄋ⼔ㄊ</rt></ruby> "previous month"
 - <ruby>[[昨月]]<rt>ㄐㄚㄎ⼔ㄊ</rt></ruby> "last month"
@@ -75,8 +78,6 @@ boundedness: 80
 - <ruby>[[隔月]]<rt>ㄍㄚㄎ⼔ㄊ</rt></ruby> "every other month"
 - <ruby>[[満月]]<rt>ㄇㄚㄋ⼔ㄊ</rt></ruby> "full month; month anniversary"
 - <ruby>[[閏月]]<rt>ㄋㄨㄋ⼔ㄊ</rt></ruby> "intercalary month; leap month"
-- <ruby>[[旧正月]]<rt>ㄍ⼜ㄛㄐㄧㄫ⼔ㄊ</rt></ruby> "lunar new year; old new year"
-- <ruby>[[正月]]<rt>ㄍㄧㄫ·⼔ㄊ</rt></ruby> "first month of the year"
 - <ruby>[[一月]]<rt>ㄧㄊ·⼔ㄋ</rt></ruby> "January"
 - <ruby>[[二月]]<rt>ㄋㄧㄜ·⼔ㄊ</rt></ruby> "February"
 - <ruby>[[三月]]<rt>ㄙㄚㄇ·⼔ㄋ</rt></ruby> "March"
@@ -89,8 +90,6 @@ boundedness: 80
 - <ruby>[[十月]]<rt>ㄙㄧㄆ·⼔ㄊ</rt></ruby> "October"
 - <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄜ</rt></ruby> "November"
 - <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ·⼔ㄊ</rt></ruby> "December"
-- <ruby>[[子月]]<rt>ㄐㄜ·⼔ㄊ</rt></ruby> "eleventh month (rat month)"
-- <ruby>[[丑月]]<rt>ㄑㄨ·⼔ㄊ</rt></ruby> "twelfth month (ox month)"
 - <ruby>[[寅月]]<rt>ㄧㄋ·⼔ㄊ</rt></ruby> "first month (tiger month)"
 - <ruby>[[卯月]]<rt>ㄇ⼘ㄨ·⼔ㄊ</rt></ruby> "second month (rabbit month)"
 - <ruby>[[辰月]]<rt>ㄙㄧㄋ·⼔ㄊ</rt></ruby> "third month (dragon month)"
@@ -101,6 +100,9 @@ boundedness: 80
 - <ruby>[[酉月]]<rt>⼜·⼔ㄊ</rt></ruby> "eighth month (rooster month)"
 - <ruby>[[戌月]]<rt>ㄙㄨㄊ·⼔ㄊ</rt></ruby> "ninth month (dog month)"
 - <ruby>[[亥月]]<rt>ㄏㄚㄧ·⼔ㄊ</rt></ruby> "tenth month (pig month)"
+- <ruby>[[子月]]<rt>ㄐㄜ·⼔ㄊ</rt></ruby> "eleventh month (rat month)"
+- <ruby>[[丑月]]<rt>ㄑㄨ·⼔ㄊ</rt></ruby> "twelfth month (ox month)"
+- <ruby>[[正月]]<rt>ㄍㄧㄫ·⼔ㄊ</rt></ruby> "first month of the year"
 - <ruby>[[杏月]]<rt>ㄏㄚㄫ·⼔ㄊ</rt></ruby> "apricot blossom month (2nd month)"
 - <ruby>[[桃月]]<rt>ㄉㄚㄨ·⼔ㄊ</rt></ruby> "peach blossom month (3rd month)"
 - <ruby>[[槐月]]<rt>ㄏ⺢ㄧ·⼔ㄊ</rt></ruby> "pagoda-tree month (4th month)"

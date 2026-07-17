@@ -65,3 +65,6 @@ boundedness: 90
 - <ruby>[[国王]]<rt>ㄍㄛㄎ⺢ㄫ</rt></ruby> "king; sovereign; monarch"
 ## Chengyu
 - <ruby>[[尊王攘夷]]<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians; uphold the sovereign and reject foreign intrusion"
+
+## Derived Characters
+- <ruby>[全](/characters/全%20(char).md)<rt>ㄐ⼔ㄋ</rt></ruby>

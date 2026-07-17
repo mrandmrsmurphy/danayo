@@ -51,6 +51,11 @@ boundedness: 60
 - 67th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄋㄧㄊ](../syllables/ㄋㄧㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+### Sun
+- <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
+- <ruby>[[日暮]]<rt>ㄋㄧㄊㄇㄛ</rt></ruby> "dusk, nightfall"
+
+### Day
 - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby> "today"
 - <ruby>[[本日]]<rt>ㄏㄛㄋㄋㄧㄊ</rt></ruby> "today"
 - <ruby>[[今日安]]<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby> "hello"
@@ -76,14 +81,8 @@ boundedness: 60
 - <ruby>[[主日]]<rt>ㄐㄨㄋㄧㄊ</rt></ruby> "Lord's Day; Sunday"
 - <ruby>[[棕枝主日]]<rt>ㄐㄛㄫㄌ⼄ㄐㄨㄋㄧㄊ</rt></ruby> "Palm Sunday"
 - <ruby>[[閏日]]<rt>ㄋㄨㄋ·ㄋㄧㄊ</rt></ruby> "leap day"
-- <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
-- <ruby>[[日暮]]<rt>ㄋㄧㄊㄇㄛ</rt></ruby> "dusk, nightfall"
 - <ruby>[[日用]]<rt>ㄋㄧㄊ⼄ㄫ</rt></ruby> "daily use; everyday"
 - <ruby>[[日常]]<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby> "everyday; routine; ordinary"
-- <ruby>[[日程]]<rt>ㄋㄧㄊㄉㄧㄫ</rt></ruby> "itinerary; timetable; schedule"
-- <ruby>[[日月]]<rt>ㄋㄧㄊ⼔ㄊ</rt></ruby> "sun and moon; life and times"
-- <ruby>[[日出]]<rt>ㄋㄧㄊㄑㄨㄊ</rt></ruby> "sunrise"
-- <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> "solar eclipse"
 - <ruby>[[日刊]]<rt>ㄋㄧㄊㄎㄚㄋ</rt></ruby> "daily publication; daily periodical"
 - <ruby>[[日報]]<rt>ㄋㄧㄊㄅㄚㄨ</rt></ruby> "daily newspaper"
 - <ruby>[[日記]]<rt>ㄋㄧㄊㄍㄧ</rt></ruby> "diary; journal; annal"
