@@ -213,3 +213,21 @@ First in the Swadesh pool (swadesh #4, "we"). Stamped `date-last-perfect: 2026-0
 **Tooling note**: a stray zero-width space (`​`) inside the old `japanese` field value broke a couple of `Edit` string matches that looked identical on screen — had to drop to `python3 -c "print(repr(...))"` to see it, then just rewrote the whole file with `Write` rather than fight more invisible-character mismatches. Worth remembering as a diagnostic step if an `Edit` string match fails for no visible reason.
 
 Next: 6 (其人等), 15 (如何), 25 (四), 36 (女人), 37 (男人), continuing ascending by swadesh number.
+
+### 2026-07-16, iteration 22 — [[words/其人等|其人等]]
+
+Swadesh #6 ("they"). Stamped `date-last-perfect: 2026-07-16`. Third instance of the X-等 classical-plural-pronoun family this sweep, after [[人等]] and [[我等]] — and this one had **two separate bugs stacked**, not just the now-familiar cross-linguistic-field mismatch.
+
+**Bug 1, a genuine Dan'a'yo-internal derivation error, not just a wrong cross-reference**: the word's own `羅馬字`/`諺文`/`注音` used `gi`/기/ㄍㄧ for its first syllable (其), but `characters/其 (char).md`'s own stored Dan'a'yo reading is `gǝ`/그/ㄍㄜ — a real mismatch between the word and its own constituent character, same bug class as [[予習]]'s 십-vs-습 slip a few iterations back. Fixed to `gǝnindung`/그닌둥/ㄍㄜㄋㄧㄋㄉㄨㄫ.
+
+**Bug 2, the familiar wrong-word-conflation pattern**: every cross-linguistic field described 他們 (mandarin `tāmen`) or 彼等/彼ら (japanese かれら) or the native pronoun `그들`/`Họ`, none of which are actually 其人等. Corrected all fields to describe 其人等/其等 itself, the classical form — and caught a **conflation baked into third-party sources, not just this vault**: search results for "其等" Cantonese kept surfacing `keoi5 dei6`, which is actually the reading of the *colloquial* Cantonese pronoun 佢哋 (built from 佢, an unrelated character), not of 其等 at all — flagged this explicitly in the prose as the same character-conflation trap, so a future editor doesn't reintroduce it by trusting an unreliable dictionary hit. Used 其's own real Sino-Cantonese reading (kei4, matching `characters/其 (char).md`) instead. Left `korean`/`vietnamese`/`japanese` as honest compositional readings with an explicit "not a claim of real usage" caveat, since none of the three appear to use this specific three-character formation (their real "they" words — 彼等/彼ら, 그들, họ — are built from entirely different roots).
+
+Next: 15 (如何), 25 (四), 36 (女人), 37 (男人).
+
+### 2026-07-16, iteration 23 — [[words/如何|如何]]
+
+Swadesh #15 ("how"). Stamped `date-last-perfect: 2026-07-16`. Clean Dan'a'yo-internal derivation this time (`nyoha`/뇨하/ㄋ⼄ㄏㄚ already matched both characters' own fields) — a nice contrast with the last two iterations' internal-derivation bugs, and a genuinely different situation from the recent X-等 words: 如何 is still fully current in modern Mandarin, not a classical-only fossil.
+
+**[[words/如何|如何]]**: `japanese: 争で` was outright corrupted — 争 ("dispute, contend") has nothing to do with 如何 at all, almost certainly a stray typo/copy-paste artifact — corrected to いかが (ikaga), which is a real, well-attested, notably *polite* Japanese word for "how" (いかがですか, the standard formal way to make an offer or ask after someone's condition). `korean: 어떻게` was the native Korean word for "how," not a reading of 如何 at all — corrected to 여하 (yeoha), the real Sino-Korean root, though noted in prose that it survives mainly bound inside longer adverbs (여하튼, 여하간, 여하한) rather than standing fully alone. `vietnamese` had a likely-typo native phrase (`hế nào`, presumably meant `thế nào`) mixed with other native phrasings (làm sao, sao) — none of which are Sino-Vietnamese readings of 如何 — corrected to như hà, verified as a real attested Hán Việt term. Fixed the non-canonical `## Etymology` heading to `## Notes` and folded a stray unstructured definition line into the prose. Removed blank `hsk_level:` and empty `aliases: []`.
+
+Next: 25 (四), 36 (女人), 37 (男人).
