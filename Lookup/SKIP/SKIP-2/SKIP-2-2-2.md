@@ -1,8 +1,8 @@
 ---
 stroke_count: 4
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-07-17
 skip_number: 2-2-2
-size: 17
+size: 18
 tags: [lookup]
 
 ---
@@ -28,6 +28,7 @@ tags: [lookup]
 15. <ruby>[方](/characters/方.md)<rt>ㄈㄚㄫ</rt></ruby> "direction"
 16. <ruby>[欠](/characters/欠%20(char).md)<rt>ㄎ⼘ㄇ</rt></ruby> "yawn"
 17. <ruby>[父](/characters/父.md)<rt>ㄅㄨ</rt></ruby> "father"
+18. <ruby>[攴](/characters/攴.md)<rt>ㄆㄨㄎ</rt></ruby> "to knock, to strike"
 
 ## Datacheck
 ```dataview

@@ -244,7 +244,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[lexipedia/War]] in [[lexipedia/Lexipedia]]
 - [[二回]] in [[lexipedia/Numbers]]
 - [[二度]] in [[lexipedia/Numbers]]
-- [[㐮]] in [[lookup/HSK/HSK No]], [[lookup/Stroke/Stroke 13]], [[syllables/ㄙ⼘ㄫ]]
+- [[㐮]] in [[lookup/HSK/HSK No]], [[lookup/Stroke/Stroke 13]]
 - [[积]] in [[lookup/HSK/Old HSK 2]]
 - [[邀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
 - [[摸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/名専字]]

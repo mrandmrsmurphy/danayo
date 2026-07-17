@@ -99,7 +99,7 @@ __Combining or simplified radicals with 3 strokes__
 - [[Radical 063]] 戶 (8 characters)
 - [[Radical 064]] 手 or combining as 扌 (136 characters)
 - [[Radical 065]] 支 (1 character)
-- [[Radical 066]] 攴 or combining as 攵 (20 characters)
+- [[Radical 066]] 攴 or combining as 攵 (21 characters)
 - [[Radical 067]] 文 (4 characters)
 - [[Radical 068]] 斗 (5 characters)
 - [[Radical 069]] 斤 (7 characters)
