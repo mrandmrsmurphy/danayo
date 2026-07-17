@@ -66,3 +66,4 @@ boundedness: 90
 - [[回答]] "respond,reply"
 - [[回教]] "Islam"
 - [[回復]] "recover,restore,rejuvenate"
+- <ruby>[[回収]]<rt>ㄏㄛㄧㄙㄨㄛ</rt></ruby> "recover, retrieve, collect back"
