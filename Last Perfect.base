@@ -13,12 +13,12 @@ views:
       - danayo_id
       - joyo_level
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: joyo_level
         direction: DESC
       - property: date-last-perfect
         direction: ASC
-      - property: file.mtime
-        direction: DESC
       - property: file.name
         direction: ASC
       - property: size

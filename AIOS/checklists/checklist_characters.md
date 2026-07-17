@@ -231,6 +231,7 @@ Both wiki-links and relative Markdown links are valid inside the `<ruby>` elemen
 - The `<rt>` content is the full Dan'a'yo Bopomofo pronunciation of the word.
 - The English gloss in quotes follows the ruby element.
 - Order: most common or most central words first.
+- **Exception — thematic subheadings for very long lists**: on the small number of high-frequency characters whose Words list runs to dozens of entries spanning distinct senses or a naturally grouped set (e.g. [[characters/月 (char)|月]]'s "Moon" vs. "Month" senses, [[characters/日 (char)|日]]'s "Sun" vs. "Day" senses), `###` subheadings inside `## Words` are allowed and preferred over one long undifferentiated list — they help human readers navigate. Not the default: don't add subheadings to an ordinarily-sized Words list just to look organized, and don't treat a missing subheading as a defect on its own. Ruby+gloss formatting rules are unchanged within each subgroup.
 
 ---
 
