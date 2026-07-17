@@ -217,7 +217,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[佼]]
 
 ### Korean Name ㄱ + SKIP-1-3-21
-[[衢]]
+[[characters/衢 (char)]]
 
 ### Korean Name ㄱ + SKIP-1-6-7
 [[粳]]

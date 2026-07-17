@@ -8,7 +8,7 @@ tags: [lookup]
 
 ## Characters
 ### In Use
-- 1-3-21: <ruby>[[衢]]<rt>ㄍㄨ</rt></ruby>
+- 1-3-21: <ruby>[[../../characters/衢 (char)]]<rt>ㄍㄨ</rt></ruby>
 - 1-10-14: <ruby>[[驟]]<rt>ㄙㄚㄨ</rt></ruby>
 - 1-11-13: <ruby>[[麟]]<rt>ㄌㄧㄋ</rt></ruby>
 - 2-8-16: <ruby>[[靄]]<rt>ㄚㄧ</rt></ruby>, <ruby>[[鑫]]<rt>ㄏㄜㄇ</rt></ruby>

@@ -27,7 +27,7 @@ tags: [lookup]
 6. <ruby>[衛](../../characters/衛.md)<rt>ㄝ</rt></ruby> - guard, protect
 
 ### +18 Strokes
-7. <ruby>[衢](../../characters/衢.md)<rt>ㄍㄨ</rt></ruby> - crossroads
+7. <ruby>[衢 (char)](../../characters/衢%20(char).md)<rt>ㄍㄨ</rt></ruby> - crossroads
 
 ## Data check
 ```dataview

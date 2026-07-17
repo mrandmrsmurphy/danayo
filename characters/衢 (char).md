@@ -31,11 +31,14 @@ stand_in: 衢
 aliases:
   - 矍
 注音: ㄍㄨ
-kwin: false
+date-last-perfect: 2026-07-17
+kwin: true
 tags:
   - character
 boundedness:
 ---
+>[!tip] This is a page about the character 衢.
+>For the word, see [衢](../words/衢.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -47,3 +50,4 @@ boundedness:
 - [Grade Name](../lookup/Grade%20Name.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
+- <ruby>[[衢]]<rt>ㄍㄨ</rt></ruby> "crossroads, thoroughfare"

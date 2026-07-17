@@ -120,3 +120,4 @@ boundedness: 90
 - <ruby>[[大王]]<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby> "great king"
 - <ruby>[[大旨]]<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby> "main idea, gist"
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"
+- <ruby>[[宏大]]<rt>ㄏ⼔ㄫㄉㄚㄧ</rt></ruby> "grand, magnificent, vast"
