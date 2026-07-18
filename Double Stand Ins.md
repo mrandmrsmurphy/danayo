@@ -10,189 +10,159 @@
 	*Candidate words:* 援 → 援護 "support, backing, aid (esp. veterans)" or 救援 "rescue, relieve," both existing and consistent with "aid." 助 → 補助 "assistance, help, auxiliary" exists and is a very close, undistorted match.
 	*Should either get the word:* Weak lean either way — both stay tightly in "aid/help/support" across all their other compounds. 助's compound 助詞 ("grammatical particle," lit. "helping word") looked at first like a divergent sense but is really just a specific technical application of the same "helper" core, not a different meaning. 援's 援交 (a modern slang euphemism for compensated dating) is likewise a specific application, not a different core sense.
 	*Revise the meaning?* This reads as a genuine close-synonym case, not a dead/collapsed one — flag the same way as 建築/居住, without a strong lean either direction.
-3. 末端, 
-	*Ancient meanings:* 末 (MC m+uɑt) — "the tip, end" (of something, often a branch/twig — the character depicts a tree with the top marked), by extension "the last/least important part." 端 (MC t+uɑn) — "the end, tip, extremity," and also "the beginning/starting point" (a bidirectional "extremity" sense — cf. 端緒 "clue, starting thread").
-	*Candidate words:* 末's other compounds (年末, 月末, 週末, 世紀末) all mean "end of [a time period]" — no distinct standalone candidate needed since the sense is identical to 末端's own. 末 also has a separate, real branch: 粉末 "powder" (fine particles, an extension of "the last/smallest bit"). 端's other compounds (北端, 南端, 東端, 西端, 極端, 一端, 争端, 端緒) stay in "edge/extremity" territory consistently.
-	*Should either get the word:* No obvious redirect for either — both stay so consistently in "end/extremity" that there's nothing to split toward.
-	*Revise the meaning?* Yes, likely. 末's and 端's `korean_native` glosses are **identical** (끝, "end") — same tell as 芦/葦 and 恩/恵. The one complication is 末's separate "powder" branch (粉末), which has nothing to do with "end" — worth a footnote, but it doesn't compete with 端 for the "end/extremity" sense itself. Recommend treating 末端 as transitive on the core "end" sense, with 粉末's "powder" noted as an unrelated tangent for 末 alone.
-4. 材料, 
+3. 材料, 
 	*Ancient meanings:* 材 (MC dz+ʌi) — "raw material, timber, stuff"; also, as a homophone/near-doublet of 才 (same MC and modern readings), sometimes carries a "talent" sense in classical usage (cf. 人材 "human talent/personnel," which uses 材 not 才). 料 (MC l+eu) — "material, ingredients, stuff to be measured/weighed out."
 	*Candidate words:* 材 → 材木 "lumber, timber" or 教材 "teaching materials," both existing and both staying in the concrete "material/stuff" register (not the "talent" one). 料 → 塑料 "plastic" or 化学肥料 "chemical fertilizer," both existing.
 	*Should either get the word:* Weak lean either way — both converge tightly on "material/substance" with no vault-attested divergence. 材's "talent" gloss looks like it may be inherited from confusion with its homophone 才 rather than a live sense of 材 itself in this vault's actual compound data — worth a separate look, but not evidence for a split here.
 	*Revise the meaning?* Close-synonym case, not a dead-sense collapse — flag like 建築/援助, no strong lean.
-5. 歌曲
+4. 歌曲
 	*Ancient meanings:* 歌 (MC k+ɑ) — "song, to sing," consistently across every compound. 曲 (MC kʰ+ɨok) — "a bend, curve" (the original/etymological sense) and, by extension, "a musical piece, tune" (a melody as a "winding" line of sound) — genuinely two different registers.
 	*Candidate words:* 歌 has no need for a redirect — every other compound (国歌, 校歌, 詩歌, 賛歌, 賛美歌, 凱歌, 唱歌, 歌謡) stays in "song/hymn/poem" territory. 曲's "curve" branch is well attested and separate: 曲線 "curve" (a live, common, mathematical/everyday term) would be the natural anchor, alongside 弯曲 "bend/curve" and 双曲線/圓錐曲線 (hyperbola/conic section, both math terms built on this same "curve" sense).
 	*Should either get the word:* Lean yes for 曲→曲線 — this is one of the clearer splits in the batch. 曲's "bend/curve" sense (弯曲, 曲折, 曲線, 双曲線, 圓錐曲線) is robust, live, and has nothing to do with music; "tune/song" (歌曲, 狂想曲) is a separate, equally live branch. 歌 stays on 歌曲 unshared.
 	*Revise the meaning?* No — not a collapse. Both senses of 曲 ("curve" and "tune") are independently alive today; this is a genuine two-sense character needing its own split, much like 机/機's "opportunity" vs. "machine."
-6. 歴史, 
+5. 歴史, 
 	*Ancient meanings:* 歴 (MC l+ek) — "to pass through, experience, each in turn" (an event that has been passed through — hence "the past, experience"). 史 (MC ʃ+ɨ) — "chronicle, scribe/archivist, historical record" (originally the hand holding a flag/pen of a court recorder).
 	*Candidate words:* none for 歴 beyond 歴史 itself — its only other vault compound is 辟歴 ("thunderbolt," from alias 霹靂), an unrelated homophone loan, not the "history/past" sense. 史 already has real independent life: 史学 ("historiography"), 史学者 ("historian"), 史籍 ("historical records"), 麟史 (alt. name for the Spring and Autumn Annals).
 	*Should either get the word:* 史 doesn't need a redirect — it's already productively independent and 歴史 suits it fine. 歴 has nowhere else to go.
 	*Revise the meaning?* No. 史's robust independent "chronicle/scribe" life (multiple real compounds) confirms it's not empty — matches its current "definitely not transitive" placement.
-7. 死亡, 
+6. 死亡, 
 	*Ancient meanings:* 死 (MC s+ɣiɪ) — plain biological "to die" (the ordinary, still-universal word for death). 亡 (MC ɱ+ʉɐŋ) — "to perish, be lost, disappear, flee" — broader than biological death (cf. real-world 亡命 "flee into political exile," 亡失 "to lose," neither yet in the vault).
 	*Candidate words:* none in the vault for either beyond 死亡 itself (亡's only other entry is the chengyu 唇亡歯寒).
 	*Should either get the word:* no existing candidate to redirect to.
 	*Revise the meaning?* No — the opposite of collapsing is supported here. `死`'s `korean_native` is 죽을 ("to die," plain), `亡`'s is 망할 ("to be ruined, perish, fail/go bankrupt") — genuinely different words, not collapsed. Japanese similarly: し・しぬ (shi/shinu, "die") vs な (from なくなる, a euphemistic "pass away/disappear"). Confirms current "definitely not transitive."
-8. 沐浴 (浴 massively independent), 
+7. 沐浴 (浴 massively independent), 
 	*Ancient meanings:* 沐 (MC m+uk) — "to wash the hair, bathe" (specifically ritual/formal washing in some classical contexts). 浴 (MC j+ɨok) — "to bathe, immerse in water."
 	*Candidate words:* none for 沐 (zero other vault compounds). 浴 already has real independent life: 浴衣 ("yukata"), 浴室 ("bathroom"), 浴槽 ("bathtub") — and independently as the common Japanese verb 浴びる/浴びせる ("to douse oneself with, bask in," e.g. シャワーを浴びる "take a shower," not yet in vault but extremely common).
 	*Should either get the word:* 浴 doesn't need a redirect — already productive and well-served by 沐浴. 沐 has nowhere else to go.
 	*Revise the meaning?* No. 浴's robust, still-alive-in-Japanese verb life (浴びる) confirms real independent meaning — matches current "definitely not transitive" placement. Interesting asymmetry, though: `浴`'s own `korean_native` gloss is 목욕할 (mogyokhal), literally citing the compound 沐浴 (목욕) itself — suggesting Korean doesn't distinguish 浴 from the compound the way Japanese does.
-9. 沼沢 (沢 independently means "many/much" — 沢山), 
+8. 沼沢 (沢 independently means "many/much" — 沢山), 
 	*Ancient meanings:* 沼 (MC t͡ɕ+iᴇu) — "pond, marsh" (a smaller body of standing water). 沢 (MC ɖ+ɣæk) — "marsh, wetland" but also, per my own earlier vote note, an independent modern Japanese sense "many, much" (沢山, not yet in the vault) — real, common, and unrelated to marshland.
 	*Candidate words:* none in the vault for either beyond 沼沢 (沼 also has 沼金, an abbreviation for lutetium — unrelated element-naming use, not a real second sense; 沢 has 薮沢 "marsh/swamp," synonymous, and 徳沢 "grace, beneficence," a real second sense — "grace/bounty," metaphorically extended from "wetland's abundance").
 	*Should either get the word:* no existing vault candidate for either.
 	*Revise the meaning?* No — recommend keeping "definitely not transitive." 沢's real independent life (沢山 "much/many" in the broader language, plus the vault's own 徳沢 "grace, beneficence") shows genuine divergent meaning beyond "marsh," even though 沢山 itself isn't in the vault yet.
-10. 波浪 (浪 independently means "waste/wander" — 浪費/浪人), 
+9. 波浪 (浪 independently means "waste/wander" — 浪費/浪人), 
 	*Ancient meanings:* 波 (MC p+uɑ) — "wave" (also extended to "ripple, spread," 波及). 浪 (MC l+ɑŋ) — "wave," but independently (real-world, not yet vault-attested) "wasteful, adrift, wandering" (浪費 "waste," 浪人 "rōnin/masterless wanderer," 流浪 "drift/wander" — none in the vault yet).
 	*Candidate words:* none in the vault for either beyond 波浪 itself. 波 has real other compounds (津波 "tsunami," 波及 "ripple out/spread") plus unrelated phonetic-loan uses (波蘭 Poland, 波斯 Persia, 波素 polonium).
 	*Should either get the word:* no existing vault candidate for either.
 	*Revise the meaning?* No, despite `浪` having zero *vault* compounds and an identical `korean_native` (물결, "wave") to 波's — 浪 has no native Japanese reading at all (`japanese_native: ø`), meaning it's purely a bound Sino-Japanese element there, but its real-world "wasteful/wandering" sense (浪費, 浪人) is well-attested enough elsewhere that I wouldn't call it empty just because this vault hasn't captured those words yet. Flagging this as a case where "no vault compound" and "no real independent meaning" aren't the same thing — recommend keeping "definitely not transitive" on real-world grounds, not vault-data grounds.
-11. 清潔, 
+10. 清潔, 
 	*Ancient meanings:* 清 (MC t͡sʰ+iᴇŋ) — "clear, limpid" (visual/sensory clarity — clear water, clear sky; extends to "unvoiced" in phonetics, 清音). 潔 (MC k+et) — "clean, unsoiled," with a moral/character extension "having integrity, pure of conduct."
 	*Candidate words:* none needed — both already have real independent compounds. 清: 郭清 ("purge, clear away"), 清澈 ("clear, limpid"), 清馨 ("delicate fragrance"), 清涼 ("cool, refreshing"), 清音 ("unvoiced sound," a linguistics term). 潔: 貞潔 ("chaste, purity"), 簡潔 ("concise, succinct").
 	*Should either get the word:* no — both are independently well-served already; no need to redirect either off 清潔.
 	*Revise the meaning?* No. `清`'s `japanese_native` きよ ("pure/clean," literal/visual) and `潔`'s いさぎよ (from いさぎよい, "have integrity, be graceful/noble," a character-trait sense) are genuinely different registers. Korean confirms it: 맑을 ("be clear," of water/sky) vs 깨끗할 ("be clean/tidy," hygienic). Confirms "definitely not transitive."
-12. 煮沸, 
+11. 煮沸, 
 	*Ancient meanings:* 煮 (MC t͡ɕ+ɨʌ) — "to cook by boiling" (transitive — to boil *something*, a culinary verb). 沸 (MC f+ɨut) — "to seethe, come to a boil" (intransitive — for a liquid to reach boiling point; cf. real-world 沸騰 "come to a boil," 沸点 "boiling point," neither in the vault yet but both extremely common).
 	*Candidate words:* none in the vault for either beyond 煮沸 itself.
 	*Should either get the word:* no existing vault candidate for either.
 	*Revise the meaning?* No — recommend keeping "definitely not transitive," but for a grammatical reason I don't think the original vote captured: this looks like a transitive/intransitive verb pair (to boil something vs. for something to boil), not simply two near-synonyms. `煮`'s `korean_native` 삶을 ("to boil/cook by boiling," transitive) vs `沸`'s 끓을 ("to come to a boil," intransitive) supports this reading.
-13. 燃焼, 
+12. 燃焼, 
 	*Ancient meanings:* 燃 (MC ȵ+iᴇn) — "to burn, be on fire" (intransitive — natural combustion; cf. Japanese 燃える moeru, "to blaze"). 焼 (MC ɕ+iᴇu) — "to burn something, scorch, set alight" (transitive-capable — cf. Japanese 焼く yaku "to burn/roast something" vs 焼ける yakeru "to get burned").
 	*Candidate words:* none in the vault for either beyond 燃焼 itself.
 	*Should either get the word:* no existing vault candidate for either.
 	*Revise the meaning?* No — same transitive/intransitive shape as 煮沸. `燃`'s `korean_native` 불탈 ("to catch fire," intransitive) vs `焼`'s 불태울 ("to set fire to, burn something," transitive/causative) supports treating this as a real grammatical distinction, not a blended synonym pair. Recommend keeping "definitely not transitive," flagging the same underlying pattern as 煮沸.
-14. 獲得, 
-	*Ancient meanings:* 獲 (MC ɣ+ɣwɛk) — "to seize, capture, obtain" (originally of game/prey in hunting). 得 (MC t+ək) — "to get, obtain, attain."
-	*Candidate words:* none — neither character appears in any other compound anywhere in the vault (得's only other entry is the chengyu 自業自得, still squarely within "get/deserve one's due," not a divergent sense).
-	*Should either get the word:* no redirect available; 獲得 is the only home either character has.
-	*Revise the meaning?* Yes — this looks like a strong candidate. `獲`'s and `得`'s `korean_native` glosses are byte-for-byte identical: 얻을 ("to obtain"). Japanese converges too: 獲's reading え comes from 獲る/得る (eru), and 得's う comes from 得る (uru) — both classical/modern conjugations of the *same* verb "to obtain," historically interchangeable in Japanese. No daughter language distinguishes them today. Recommend collapsing to plain "obtain, acquire" and calling it transitive, same shape as 俘虜.
-15. 田野, 
+13. 田野, 
 	*Ancient meanings:* 田 (MC d+en) — "cultivated field, farmland" (specifically worked agricultural land). 野 (MC j+ia) — "wild, uncultivated countryside, wilderness" — classically also carries a figurative "out of office, unofficial, rustic" sense (在野, "out of power politically," not in the vault) contrasted with 朝 ("the court").
 	*Candidate words:* none in the vault for either beyond 田野 itself, though both have some independent life: 田 (田鼠 "vole/field rat," plus proper-noun/element uses 秋田 Akita, 田納素 tennessine); 野 (chengyu 哀鴻遍野, plus a note on an "evil substitution" 別墅→別野).
 	*Should either get the word:* no strong existing vault candidate for either; both stay reasonably served by 田野 for now.
 	*Revise the meaning?* No. The cultivated/wild distinction is real and still preserved: `田`'s `korean_native` 밭 ("dry field/farmland," cultivated) vs `野`'s 들 ("open field/plain/wilderness," uncultivated) are genuinely different Korean words, and Japanese た (rice paddy) vs の (field/plain/wild — cf. real-world 野生 "wild," 野球 "baseball," 野菜 "vegetables," hugely productive, none in vault yet) confirms the same split. Keeps "definitely not transitive."
-16. 疾病, 
+14. 疾病, 
 	*Ancient meanings:* 疾 (MC d͡z+iɪt) — "disease, ailment," but classically *also* "fast, swift" (疾走 "to sprint," real and common, not in the vault) and, more marginally, "to hate/resent." 病 (MC b+ɣiæŋ) — "sickness, illness" (the ordinary, still-universal word for being ill).
 	*Candidate words:* none for 疾 in the vault (zero other compounds here, though 疾走 exists in the wider language). 病 already has robust independent life: 病院 ("hospital"), 看病 ("nurse/tend the sick"), 病毒 ("virus"), 疫病 ("epidemic, plague").
 	*Should either get the word:* 病 doesn't need a redirect — already thoroughly independent. 疾 has no vault redirect available, but real-world 疾走 ("sprint") would be the natural candidate if it ever gets created — it reflects 疾's *other*, unrelated classical sense ("swift"), not "disease."
 	*Revise the meaning?* No, and this is the interesting asymmetric case, different in shape from most of this batch: `疾`'s `korean_native` 병 is literally identical to `病`'s own korean field 병 — which *would* suggest collapsing — but 疾's real independent "swift" sense (unrelated to sickness at all) argues the other way. This isn't a dead-classical-sense situation like 嫉妬; it's a live, still-current *second, unrelated* meaning of 疾 that this vault just hasn't given its own word yet. Recommend keeping "definitely not transitive" and flagging 疾 as a future split candidate (→疾走) once/if that word gets created, similar to how 抵抗 was flagged for 抵当.
-17. 相互, 
+15. 相互, 
 	*Ancient meanings:* 相 (MC s+ɨɐŋ) — "mutual, each other" but originally "to observe" (eye looking at tree), with real classical branches into "to assist, minister of state" (宰相 "chancellor," lit. "assisting minister") and a technical "relative, corresponding, phase" sense (相対 "relative/relativity," 位相 "phase," 時相 "tense-aspect" — all in the vault already). 互 (MC ɣ+uo) — "mutual, each other," cleanly, with no other attested angle.
 	*Candidate words:* 相 already has real, substantial independent life across several genuinely different registers (assist/minister, relative/phase, longing — 相思 "pine for"). 互 has zero other vault compounds.
 	*Should either get the word:* This looks like a split candidate in the same shape as 自/体/居/寂/憧/机 earlier this session — 互 is quiet and single-sense (undistorted match for 相互), while 相 is doing a lot more work than "mutual" alone credits it for. I don't see one clean existing-word candidate to redirect 相 to, though — 相対 is the closest (its "relative, corresponding" sense is close to but not identical to "mutual"), 宰相 is too narrow (a specific title), 位相/時相 too technical/domain-specific. Flagging this as "probably worth splitting, but no obvious candidate word yet" rather than recommending a specific redirect.
 	*Revise the meaning?* Not needed in the sense of collapsing to transitive — quite the opposite, 相's richness argues for keeping (or increasing) separation from 互, not collapsing toward it. `互`'s `japanese_native` たが (from 互い tagai, "each other," a common independent Japanese word) and `相`'s あい (a prefix sense, 相手 "partner") are different registers too, reinforcing that these aren't perfect synonyms to begin with.
-18. 睡眠, 
-	*Ancient meanings:* 睡 (MC ʑ+iuᴇ) — "to drowse, doze off." 眠 (MC m+en) — "to sleep, hibernate."
-	*Candidate words:* none — neither character appears in any other compound anywhere in the vault (眠 is even tagged `hapax` and has a note that its Dan'a'yo pronunciation was "altered to use a vacant syllable," i.e. assigned rather than organically derived — worth knowing but not directly a meaning signal).
-	*Should either get the word:* no redirect available; 睡眠 is the only home either character has.
-	*Revise the meaning?* Yes, tentatively. `睡`'s and `眠`'s `japanese_native` readings are identical: ねむ (from 眠い/眠る, "sleepy/to sleep"), suggesting Japanese doesn't distinguish them at all. Korean is closer but not identical — 睡 is 졸음 ("drowsiness," a noun/state) vs 眠's 잘 (the verb root of 자다, "to sleep") — arguably just different parts of speech of the same core concept rather than a real semantic difference. Combined with zero other compounds for either character, I'd lean toward recommending collapse to transitive here, similar to 獲得, though the Korean noun/verb distinction is worth having a human eye on before finalizing — it's not as clean-cut as 獲得's case.
-19. 研究, 
+16. 研究, 
 	*Ancient meanings:* 研 (MC ŋ+en) — its own vault gloss already lists two senses: "research" *and* "sharpen." Classically/natively this character's core meaning is physical — "to grind, hone, sharpen" (研磨 "grinding, polishing," a real word, not yet in the vault) — with "research" as a metaphorical extension ("to hone one's understanding"). 究 (MC k+ɨu) — "to investigate thoroughly, get to the bottom of, exhaust the depths of a matter."
 	*Candidate words:* none in the vault for either beyond 研究 itself. If 研磨 (grinding/polishing) or 研修 (training/study) ever get created, either would be a much better match for 研's *native* sense than 研究 is.
 	*Should either get the word:* No existing vault candidate to redirect to, but I think this is a stronger case than 相互/程度's asymmetry — flagging it clearly: 研's own native-language readings point *away* from "research" entirely. `研`'s `korean_native` 갈 means "to grind/hone" (not research), and its `japanese_native` と comes from 研ぐ (togu), the ordinary, still-common verb for sharpening knives or polishing rice — nothing to do with research. `究`'s readings — 궁구할 ("investigate thoroughly") and きわめる ("to master, take to the limit") — both do point to "research/investigate." This means 研究's "research" sense is really carried by 究, with 研 contributing sound plus a metaphorical "honing" flavor rather than its own literal meaning.
 	*Revise the meaning?* Yes, I'd say the *opposite* of collapsing: recommend keeping "definitely not transitive," and flagging 研 as a live candidate for its own split (toward "sharpen, hone, grind") the same way 机/機 got pulled toward 机会 once its full range came into view — 研's literal, native meaning simply isn't "research."
-20. 程度
+17. 程度
 	*Ancient meanings:* 程 (MC ɖ+iᴇŋ) — "extent, degree, amount" (also, classically, "a legal/administrative standard or regulation" — cf. 程 as "rule, procedure" in some classical texts, though not reflected in this vault). 度 (MC d+uo) — "degree, measure, standard," extremely productive as a general "-ity/-ness" measurement suffix.
 	*Candidate words:* 程 has zero other vault compounds. 度 already has substantial independent life: 湿度 ("humidity"), 幅度 ("range, extent, scope"), 制度 ("system, institution"), 密度 ("density"), 極度 ("extreme degree") — plus real-world 温度 ("temperature"), 速度 ("speed"), 角度 ("angle," none in vault yet) confirming it's one of the most generally productive measurement suffixes in the language.
 	*Should either get the word:* Same shape as 相互 — 程 is quiet and single-sense (undistorted match for 程度), 度 is doing far more work than "degree" credits it for. The best existing candidate if 度 were to redirect is 制度 ("system, institution") — it's real, already in the vault, and captures 度's abstract "standard/framework" sense distinctly from the plain measurement sense 程度 covers; the others (湿度/密度/極度) are too narrowly domain-specific (humidity, density) to serve as a general redirect.
 	*Revise the meaning?* Not toward collapsing — 度's breadth argues against treating it as identical to 程. Flagging as a split candidate, parallel to 体→体系 and 机→机会 earlier this session, with 制度 as the one plausible existing anchor, though the parent/user should weigh whether "system/institution" is different enough from "degree/measure" to be worth the split, the way 体系 vs 身体 clearly was.
-21. 種類, 
+18. 種類, 
 	*Ancient meanings:* 種 (MC tɕ+ɨoŋ) — "seed" (concrete, a physical grain/seed), extended to "type, species, breed" (things sharing a seed-lineage). 類 (MC l+iuɪ) — "a group, a category, a class of like things" (abstract sorting concept), extended to "resemble, be similar."
 	*Candidate words:* 種 → 種苗 "seedling" already exists in the vault. 類 → 類似 "resemble, similar, analogous" already exists in the vault (also 分類学 "taxonomy," 類似格 "similative case").
 	*Should either get the word:* Plausible leans exist for both — 種苗 keeps 種 in its concrete "seed" register, 類似 keeps 類 in its abstract "resemblance/category" register. Worth splitting rather than leaving shared.
 	*Revise the meaning?* No. `korean_native` differs sharply — 種 is 씨 ("seed"), 類 is 무리 ("group, crowd") — and both characters are independently productive elsewhere in the vault. Not transitive; the ancient distinction (concrete seed vs. abstract category) still holds today.
-22. 符号, 
+19. 符号, 
 	*Ancient meanings:* 符 (MC v+ɨo) — a physical token, tally, or talisman used as proof/identification (a matching half of a split tablet). 号 (MC ɣ+ɑu) — a name, title, designation, or signal-cry (from 口 "mouth" + 丂 "exhaled breath/roar" per its own 会意 notes).
 	*Candidate words:* 符 → none; 符号 is its only compound anywhere in the vault. 号 → very productive already: 怒号 "angry roar," 番号 "number," 句号 "period (punctuation)," 号線 "line number," 逗号 "comma," 元号 "era name," 諡号 "posthumous name."
 	*Should either get the word:* No redirect for 符 (nothing else exists). 号 arguably doesn't need 符号 at all — it's already independently legitimate several times over; if anything 号 could go solo given how productive it is (same shape as 自/体/机 earlier this session), or anchor to one of 番号/元号 instead.
 	*Revise the meaning?* No. 号 is one of the most productive characters checked in this batch — "name/label/designation/signal" is a real, broad, independently-alive sense, while 符 stays narrowly "token/talisman." Definitely not transitive.
-23. 簡単, 
+20. 簡単, 
 	*Ancient meanings:* 簡 (MC k+ɣɛn) — "a bamboo strip/slip (for writing)," extended to "concise, abbreviated, brief" (what fits on a few slips). 単 (単/單, MC d+ɑn) — originally a forked hunting sling (象形), giving "single, sole, one" (only one pellet/handle), extended to "simple" via "unitary, not compound."
 	*Candidate words:* 簡 → 簡略 "brief, simplified, concise" and 簡潔 "concise, succinct" both already exist. 単 → extremely productive already: 単位 "unit," 単独 "alone, solo," 単色 "monochrome," 単身 "singleness," 単語 "word," 単純 "simple, mere," 単字 "single character."
 	*Should either get the word:* 簡 → 簡潔 or 簡略 look like clean, undistorted redirects. 単 is so productive it may deserve solo status (its own word file, matching the 自/体/机 pattern) rather than any single redirect — 簡単 is really just one of many things 単 does.
 	*Revise the meaning?* No. 簡 = "concise/abbreviated" and 単 = "single/unitary" are genuinely different concepts that happen to both cash out as "simple" only when combined. Definitely not transitive.
-24. 純粋 (粋 carries its own "stylish/chic" sense), 
+21. 純粋 (粋 carries its own "stylish/chic" sense), 
 	*Ancient meanings:* 純 (MC tɕ+iuɪn) — "pure, unmixed, genuine" (of silk/thread originally, per 糸 radical). 粋 (粹, MC s+iuɪ) — "pure, unadulterated, the essence/best part of something" (of rice originally, per 米 radical — the polished, unhusked essence of grain).
 	*Candidate words:* 純 → 純篤 "pure and sincere" already exists (also 単純 "simple," already spoken for elsewhere). 粋 → none found; only compound is 純粋 itself.
 	*Should either get the word:* Unclear — 純篤 is a plausible but obscure redirect for 純; nothing exists for 粋.
 	*Revise the meaning?* Mixed signal, flagging rather than deciding. `korean_native` is identical for both (순수할, "to be pure") — that alone would suggest transitivity. But `japanese_native` breaks the tie: 純 has none (ø), while 粋 has いき (iki) — the famous Japanese aesthetic term for "chic, stylish, sophisticated refinement," a real and quite different register from moral/material "purity." This is the same asymmetry the original vote flagged. Leaning *not* transitive on the strength of いき, but the identical Korean gloss is worth your own judgment call here.
-25. 絵画 (画 independently huge: "movie/plan/stroke"), 
+22. 絵画 (画 independently huge: "movie/plan/stroke"), 
 	*Ancient meanings:* 絵 (繪, MC ɣ+uɑi) — "to draw, sketch, embroider a design" (糸 radical — originally about patterned needlework/weaving, extended to drawing). 画 (畫/畵, MC ɣ+ɣwɛk) — "to draw a line, demarcate, plan, delineate" (a 会意 for marking off a field's boundary), extended to both "picture" and "a plan, scheme."
 	*Candidate words:* 絵 → none; 絵画 is its only compound anywhere in the vault. 画 → already productive: 画策 "scheme, plot, machination," 図画, 版画, 画報.
 	*Should either get the word:* No redirect available for 絵. 画 doesn't strictly need 絵画 — it already has independent legitimacy via 画策 etc., and given its range (picture AND plan/scheme) it may be a solo-candidate like 自/体/机, rather than tied to 絵 specifically.
 	*Revise the meaning?* No. `korean_native` is identical (그림, "picture") for both — but 画's real "plan, demarcate, scheme" life (画策, and `japanese_native` かぎる "to limit," はかる "to plan/measure," はかりごと "a stratagem") is a genuinely different register that 絵 (japanese_native ø, no other compounds) entirely lacks. Not transitive; 絵 is the quiet half, 画 is doing much more work than the shared compound credits it for.
-26. 継続, 
+23. 継続, 
 	*Ancient meanings:* 継 (繼, MC k+ei) — "to inherit, succeed, take over, carry on a lineage/legacy" (a handoff sense). 続 (續, MC z+ɨok) — "to continue, go on, persist without interruption" (a plain continuity sense, no handoff implied).
 	*Candidate words:* 継 → none found besides the chengyu 文言継承 "continuity with the classical written standard" (uses 継承, not a standalone word in the vault). 続 → already has 持続 "continuous, sustained" and 連続 "continuous, consecutive."
 	*Should either get the word:* 続 → 持続 or 連続 look like clean redirects, both squarely "plain continuation." 継 has no clean candidate; 継承 (succeed/inherit) would need creating fresh if you want to preserve the distinction.
 	*Revise the meaning?* Leaning no, but it's a subtle case, flagging rather than deciding. `korean_native` is identical (이을, "to connect/carry on") for both — but the underlying Japanese verb roots differ: 継 → つぐ (継ぐ, tsugu, "to inherit/succeed/take over from someone") vs 続 → つづく (続く, tsuzuku, "to go on, persist"). These are two distinct native verbs, not the same word wearing two different characters. The distinction (succession-with-a-predecessor vs. bare continuity) still feels real and worth preserving, unlike the harder collapses in this batch (謹慎, 販売).
-27. 緩慢 (慢 独立して means "arrogant" — 自慢), 
+24. 緩慢 (慢 独立して means "arrogant" — 自慢), 
 	*Ancient meanings:* 緩 (MC ɣ+uɑn) — "loose, slack" (of a bowstring/rope, 糸 radical), extended to "unhurried, slow." 慢 (MC m+ɣan) — "careless, negligent, disrespectful," extended both to "slow" and, separately, to "arrogant, conceited" (心 radical — an attitude of mind, not a pace).
 	*Candidate words:* 緩 → none found; 緩慢 is its only compound anywhere in the vault. 慢 → none found in the vault currently, but 自慢 ("pride, conceit, boastfulness") is a very common real Japanese/Sino word not yet in the vault.
 	*Should either get the word:* No redirect for 緩. 慢 would need 自慢 created fresh if you want to anchor it in its "arrogant" sense instead.
 	*Revise the meaning?* No. `korean_native` diverges sharply — 緩 is 느릴 ("to be slow"), 慢 is 거만할 ("to be arrogant/haughty"). 慢 carries a real, live, independent "arrogant/conceited" sense (自慢) that 緩 has nothing corresponding to. Definitely not transitive.
-28. 胆嚢/脊椎 (these are actually compositional — "gall"+"sac", "spine"+"vertebra" — not cranberry at all), 
+25. 胆嚢/脊椎 (these are actually compositional — "gall"+"sac", "spine"+"vertebra" — not cranberry at all), 
 	*Confirming, not challenging, the existing "compositional, not cranberry" finding.* 胆 (MC t+ɑm) = "gall, gallbladder" and, separately, "courage/boldness" (大胆). 嚢 (MC n+ɑŋ) = "a bag, sack, pouch" — `korean_native` 주머니 ("pocket"), nothing to do with gall. 胆嚢 = "gall" + "sac" = a straightforwardly compositional description of the organ, not a synonym-doubling. Similarly, 脊 (MC ts+iᴇk) = "spine, ridge" (of the back) and 椎 (MC ɖ+ɣiuɪ) = "vertebra," but 椎 independently and very concretely also means "a mallet, hammer" — `korean_native` 쇠몽치, "an iron mallet" — and appears elsewhere in the vault as 椎菌 "shiitake mushrooms" (mushroom caps struck loose with a mallet). 脊椎 = "spine" + "vertebra-unit" is compositional, and 椎's "mallet" sense confirms it's not remotely a cranberry-empty character. Both pairs: not cranberry, no revision to the existing finding, no candidate-word question applies here since neither is being treated as bound-to-a-synonym in the first place.
-29. 蠟燭 (also compositional: wax + candle), 
+26. 蠟燭 (also compositional: wax + candle), 
 	*Ancient meanings:* 蠟 (蜡/蝋, MC l+ɑp) — "wax" (虫 radical — originally beeswax, an insect product), the material substance. 燭 (MC tɕ+ɨok) — "a candle, torch, taper" (火 radical), the burning light-object itself.
 	*Candidate words:* 蠟 → none found; 蠟燭 is its only compound in the vault. 燭 → also none found besides 蠟燭.
 	*Should either get the word:* No redirects available for either.
 	*Revise the meaning?* No. `korean_native` differs cleanly — 蠟 is 밀 ("wax," the material), 燭 is 촛불 ("candle/candlelight," the object/its flame). This is compositional (wax + candle = wax candle), matching and confirming the existing vote-log note. Not cranberry, not really a "transitivity" question at all — each character keeps its own distinct, real meaning.
-30. 衣服, 
+27. 衣服, 
 	*Ancient meanings:* 衣 (MC ʔ+ɨi) — "clothing, garment" (象形, depicting a robe), consistently and only ever about clothes. 服 (MC v+ɨuk) — "clothing, dress" and, separately, "to submit, obey, serve; to take/swallow (medicine); a term of service" (会意).
 	*Candidate words:* 衣 → none found; only other compounds (浴衣 yukata, 浣衣 "do laundry," 皮衣 "fur garment") are all still 衣-as-clothing, no independent legitimizer exists. 服 → already has 服務員 "server, waiter," 服従 "obedience, submission," 服務 "serve, work for" — all in the "submit/serve" register, not "clothes."
 	*Should either get the word:* No redirect for 衣 (all its other compounds still depend on the "clothes" sense, none stand alone). 服 → 服従 or 服務 look like clean redirects into its "submit/serve" register, leaving 衣服 itself to carry the plain "clothes" meaning via 衣 only... though 服 stripped of "submit" would then have nothing of its own left for the "clothes" half specifically (both would just mean "clothes"). Worth deciding whether "clothes" itself is what 服 should keep, with 服従/服務 as a *second*, additional stand-in rather than a replacement.
 	*Revise the meaning?* No — but the situation is a bit different from the rest of this batch. `korean_native` is identical for the "clothes" sense (옷 = 옷), but 服 carries a whole separate "submit/obey/serve" semantic field that 衣 doesn't touch at all. Not a case of one character being empty; more a case of 服 doing double duty as two unrelated concepts under one character, only one of which overlaps with 衣.
-31. 覆蓋, 
+28. 覆蓋, 
 	*Ancient meanings:* 覆 (MC fʰ+ɨuk) — "to cover over" and, distinctly, "to overturn, capsize, invert" (襾 radical). 蓋 (盍, MC k+ɑi) — "to cover, to hide beneath a covering" (艸 radical — originally a thatched/woven cover).
 	*Candidate words:* 覆 → none found; 覆蓋 is its only compound in the vault. 蓋 → has 膝蓋 "knee, kneecap" (literally "knee-cover/cap") already.
 	*Should either get the word:* 蓋 → 膝蓋 is a plausible but narrow redirect (a specific anatomical "cap," not "cover" in general). Nothing for 覆.
 	*Revise the meaning?* Leaning no, flagging as asymmetric rather than deciding. `korean_native` diverges: 覆 is 뒤집힐 ("to be overturned/flipped"), 蓋 is 덮을 ("to cover"). These are related but not identical physical actions — 覆 carries a genuine "invert/capsize" dimension (cf. real-world 転覆 "capsize," not yet in this vault) that 蓋 doesn't share. Weaker signal than 服/画/慢's divergence, but still a real one.
-32. 認識, 
+29. 認識, 
 	*Ancient meanings:* 認 (MC ȵ+iɪn) — "to acknowledge, admit, recognize" and, separately, "to write down, compose (a letter)" (言 radical, both senses attested as real Japanese kun'yomi: みとめる mitomeru "recognize" and したためる shitatameru "pen a letter"). 識 (MC ɕ+ɨk) — "to know, discern, be conscious of" (言 + 戠), extended to "a mark that lets one identify/know something."
 	*Candidate words:* 認 → none found; 認識 is its only compound. 識 → has 標識 "sign, mark, symbol" already.
 	*Should either get the word:* 識 → 標識 is a plausible redirect, though it narrows toward "marker/signage" rather than the abstract "to know." Nothing for 認.
 	*Revise the meaning?* Leaning no, softer signal, flagging for your judgment. `korean_native` is identical (알, "to know") for both. But the vault's own chosen `japanese_native` for 認 is したた (→ したためる, "to write/compose a letter"), a real and distinct sense from "recognize" — not the more common みとめる reading, notably. 識's extension toward "marker, sign" (標識) is a related but separate drift too. Both characters show some independent life beyond the shared "recognize/know" core, but it's less clean-cut than 服 or 慢.
-33. 謹慎, 
-	*Ancient meanings:* 謹 (MC k+ɨn) — "to be respectful, careful, discreet" (言 radical — careful in speech). 慎 (愼, MC ʑ+iɪn) — "to be cautious, careful, prudent" (心 radical — careful in mind/action).
-	*Candidate words:* Neither has any other compound anywhere in the vault.
-	*Should either get the word:* No redirect exists for either; 謹慎 is the only home either character has.
-	*Revise the meaning?* Yes — this is one of the cleanest collapses in the batch. `korean_native` is identical (삼갈, "to refrain/be discreet") for both, and `japanese_native` is effectively the same verb for both: 謹 → つつし(む), 慎 → つつ(しむ) — both trace to tsutsushimu, the single native Japanese verb "to be discreet/restrained." No daughter language distinguishes "careful in speech" from "careful in mind" here. Recommend collapsing to plain "discreet, cautious" and calling it transitive — same shape as 芦葦/嫉妬/俘虜.
-34. 警戒, 
+30. 警戒, 
 	*Ancient meanings:* 警 (MC k+ɣiæŋ) — "to warn, alert, be watchful" (言 radical — to caution by speech). 戒 (MC k+ɣɛi) — "to warn, admonish, guard against" and, distinctly, "a religious precept, commandment" (会意, hands holding a weapon in readiness — extended specifically into Buddhist monastic vows).
 	*Candidate words:* 警 → none found; 警戒 is its only compound. 戒 → already has 五戒 "the Five Buddhist Precepts," 斎戒 "fast, observe abstinence," 教戒 "instruct, admonish."
 	*Should either get the word:* No redirect for 警. 戒 → 五戒 or 斎戒 would be a clean redirect into its Buddhist-precept register, distinct from 警's plain "vigilance."
 	*Revise the meaning?* Asymmetric, flagging rather than deciding. `korean_native` (경계할, "be vigilant") and `japanese_native` (いましめる/いまし, "to admonish") are both identical between the two characters — as clean a match as 謹慎's. But 戒 carries a real, separate "Buddhist precept/commandment" life (五戒, 斎戒, 教戒) that 警 never touches (警 stays in police/alarm register: 警察, 警告, 警報). So the core "warn/be vigilant" sense really does look transitive by the native-reading test, but 戒 has a whole extra register 警 lacks — worth deciding whether that extra register is enough to keep them split, or whether it's a separate concern from the compound's own core meaning.
-35. 販売
-	*Ancient meanings:* 販 (MC f+ʉɐn) — "to peddle, trade, deal in goods" (貝 "money/shell" radical — a merchant's activity). 売 (賣, MC m+ɣɛ) — "to sell" (plain transaction verb).
-	*Candidate words:* Neither has any other compound anywhere in the vault.
-	*Should either get the word:* No redirect exists for either; 販売 is the only home either character has.
-	*Revise the meaning?* Yes. `korean_native` is identical (팔, "to sell") for both. 販 has no native Japanese reading at all (`japanese_native: ø`, on'yomi-only), while 売 has the ordinary native verb 売る (uru, "to sell") — meaning 販 has essentially no independent life of its own anywhere, and 売 alone already covers everything 販 contributes. Recommend collapsing to plain "to sell/peddle" and calling it transitive — same shape as 謹慎, 芦葦, 嫉妬, 俘虜.
-36. 責任, 
+31. 責任, 
 	*Ancient meanings:* 責 (MC tʃ+ɣɛk) — "to demand payment/blame" (from cowry-shell radical 貝), extending to "duty, responsibility, blame." 任 (MC ȵ+iɪm) — "to entrust, to bear a burden/post" (from 人+壬).
 	*Candidate words:* 責 → 叱責 ("rebuke, scold" — already exists in the vault, distinct sense: blame/reproach rather than duty). 任 → 担任 ("to assume a post" — already exists, distinct sense: appointment/office rather than obligation-in-general).
 	*Should either get the word:* Lean yes for both — 責's "scold/blame" register (叱責) and 任's "appointed post" register (担任) are both real and already attested, genuinely different flavors from the blended "responsibility."
 	*Revise the meaning?* No — korean_native differs (責="꾸짖을" scold/rebuke vs 任="맡길" entrust), and both have their own distinct attested compound. Real divergence survives today; not a collapse candidate.
-37. 購買, 
-	*Ancient meanings:* 購 (MC k+əu) — originally "to offer a reward for the capture/return of something," narrowing to "to buy" (esp. formal/deliberate purchasing). 買 (MC m+ɣɛ) — the basic, ordinary verb "to buy."
-	*Candidate words:* 購 → 購入 ("purchase," already exists, but same "buy" sense, not a different register). 買 → none found.
-	*Should either get the word:* Weak lean either way — no candidate meaningfully separates from "buy."
-	*Revise the meaning?* Leaning yes. `korean_native` is identical for both (살, "to buy"). 購's only other compound (購入) is still just "buy," and 買 has zero other compounds. The classical "offer a reward" nuance for 購 doesn't survive in any attested vault usage. Flag: this is a "close synonym, no distinguishing register left" case, same shape as 居住/嫉妬 — recommend transitive, but the classical distinction was real enough that I'd call this a closer call than 朋友 or 怠惰 below.
-38. 適宜, 
+32. 適宜, 
 	*Ancient meanings:* 適 (MC ɕ+iᴇk) — "to go to, arrive at; to conform/adapt to." 宜 (MC ŋ+ɣiᴇ) — "fitting, proper, right" (an offering placed rightly on an altar, per traditional graphemic analysis).
 	*Candidate words:* 適 → 適応 ("adaptation, to adapt" — already exists, clearly the "conform to circumstances" sense). 宜 → 事宜 ("arrangement, fittings"), 時宜 ("timely"), or 便宜 ("appropriate and convenient") — all three already exist.
 	*Should either get the word:* Yes, strongly for both. 宜 is unusually productive (three separate existing compounds) and clearly carries independent life; 適応 gives 適 a clean "adapt to" home distinct from bare "suitable."
 	*Revise the meaning?* No. korean_native differs (適="맞을" match/fit vs 宜="마땅" fitting/proper — close but not identical), and 宜's three other compounds show real ongoing productivity 適 doesn't share. Not a collapse candidate — this one is a clear split, similar shape to 居住.
-39. 釣漁, 
+33. 釣漁, 
 	*Ancient meanings:* 釣 (MC t+eu) — "to angle," specifically fishing with a hook and line — a technique. 漁 (MC ŋ+ɨʌ) — "to fish" as an occupation/activity generally, from 水+魚.
 	*Candidate words:* 漁 → 漁業 ("fishing industry," already exists — a clean, well-attested general noun). 釣 → none found; its only other compound, 釣竿 ("fishing pole"), is a noun for the equipment, not a verb-form alternative to "to angle."
 	*Should either get the word:* Yes for 漁 → 漁業. For 釣, no good redirect exists; if 漁 moves off, 釣 would simply keep 釣漁 alone (unshared).
 	*Revise the meaning?* No. korean_native differs sharply (釣="낚시질할" angling specifically vs 漁="고기 잡을" catching fish generally), and 漁 is far more productive (漁業, 漁民, 漁船, 漁夫 all exist) while 釣 has only the equipment-noun 釣竿. Clear asymmetry, not a collapse candidate.
-40. 錯誤, 
+34. 錯誤, 
 	*Ancient meanings:* 錯 (MC tsʰ+ɑk) — "to go wrong, be at odds, deviate" (also has a classical sense "to alternate, interlace," per some readings). 誤 (MC ŋ+uo) — "to err, speak wrongly" (semantic 言 "speech" + phonetic).
 	*Candidate words:* 誤 → 誤差 ("error, discrepancy" — already exists, a technical/statistical sense) or 誤謬 ("error, fallacy" — already exists, a logical/argumentative sense). 錯 → none found; only ever appears in 錯誤 (and the chengyu 時代錯誤, which reuses 錯誤 itself, not a separate compound).
 	*Should either get the word:* Yes for 誤, though there are two candidates pulling in different directions (誤差 = technical/statistical margin-of-error register, 誤謬 = logical-fallacy register) — worth your call on which. No redirect for 錯; it would keep 錯誤 alone.
