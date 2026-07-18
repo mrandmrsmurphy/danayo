@@ -6,7 +6,7 @@ tags: [lookup]
 
 ## Explained
 ### The tag isn't the test
-**#cranberry** borrows its name from 連綿詞 (also 聯綿詞) — the linguistic term for bisyllabic morphemes with no independent meaning apart from the compound they appear in, the same phenomenon "cran-" illustrates in English "cranberry." But in this vault, the tag is applied more broadly than that strict definition, and the name is best read as a convenient label rather than the actual criterion. The real test is **transitivity**:
+**#cranberry** borrows its name from [[連綿詞]] — the linguistic term for bisyllabic morphemes with no independent meaning apart from the compound they appear in, the same phenomenon "cran-" illustrates in English "cranberry." But in this vault, the tag is applied more broadly than that strict definition, and the name is best read as a convenient label rather than the actual criterion. The real test is **transitivity**:
 
 > A character either stands alone, or has a two-character word meaning *precisely* what it would mean alone — no more, no less. When two different characters share the same `stand_in` compound, that's only legitimate if the two characters' own meanings are identical to each other and to the compound.
 
