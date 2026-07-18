@@ -1,7 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 ## Components
 - [[豦]] in [[characters/劇 (char)]]
-- [[爫]] in [[characters/受]]
 - [[冖]] in [[characters/受]], [[characters/憂]], [[characters/栄]]
 - [[丂]] in [[characters/可 (char)]], [[characters/号]], [[characters/巧]], [[characters/昜]]
 - [[㠯]] in [[characters/台 (char)]]
