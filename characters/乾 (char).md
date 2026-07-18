@@ -36,7 +36,6 @@ mc_id: 960
 graphemic_classification: 倝
 stand_in: 乾
 aliases:
-  - 干
 注音: ㄍ⼶ㄋ
 kwin: false
 date-last-perfect: 2026-07-02
