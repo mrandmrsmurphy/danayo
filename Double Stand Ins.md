@@ -237,15 +237,3 @@
 	*Candidate words:* None found — 怠 appears nowhere else in the vault. 惰's only other compound, 懶惰, is another lazy-synonym doubling (with 懶, also "lazy"), not a distinct sense. (Its "abbreviation for argon, 惰素" note is a modern chemistry coinage riffing on "inert," not an attested classical sense.)
 	*Should either get the word:* No redirect available for either.
 	*Revise the meaning?* Yes — reversing the original vote's distinguishable-glosses framing. `korean_native` is identical for both (게으를, "to be lazy"), and neither character shows any attested sense beyond "lazy/idle" anywhere in the vault. Recommend transitive — clean case, same shape as 朋友/嫉妬.
-
-### Maybe
-49. 覚醒, 
-	*Ancient meanings:* 覚 (MC k+ɣʌk) — to perceive, become aware, wake up (broad "perception/awareness" root). 醒 (MC s+eŋ) — to sober up, wake from sleep or intoxication, become disillusioned (narrower, specifically the "coming out of an altered/unconscious state" sense).
-	*Candidate words:* 覚 has substantial other life: 覚悟 ("resolve," already independently resolved as 悟's own stand-in this session), 視覚/味覚/嗅覚/感覚 (vision/taste/smell/general sensation — a robust "sense perception" compound family). 醒 has none beyond 覚醒.
-	*Should either get the word:* 覚 clearly has real candidates elsewhere (its "perception" family, or 覚悟's "awakening to resolve" sense) rather than needing to share with 醒.
-	*Revise the meaning?* No — 覚's "sense perception" family (視覚 etc.) is a genuinely different, still-very-live semantic domain from 醒's "sober up / disillusioned." Lean **not transitive**, same asymmetric shape as 自/体/机/皮 this session.
-50. 膨脹, 
-	*Ancient meanings:* 膨 (MC b+ɣæŋ) — to swell, bloat, inflate generally. 脹 (MC ʈ+iɐŋ) — to swell specifically in the sense of localized bodily swelling (edema-like), per its other compound 脹脛 ("calf," the body part — named for its swollen shape).
-	*Candidate words:* 脹 already has 脹脛 ("calf") as a real other compound. 膨 has none beyond 膨脹.
-	*Should either get the word:* 脹 has a plausible redirect candidate in 脹脛 rather than sharing with 膨.
-	*Revise the meaning?* No — `korean_native` genuinely differs: 膨 = 부를 (from 부풀다, general "inflate/bloat"), 脹 = 부을 (from 붓다, "swell from injury/edema," a different native verb root entirely). This is a live, real distinction (general inflation vs. localized/injury swelling), not a dead one. Lean **not transitive**.
