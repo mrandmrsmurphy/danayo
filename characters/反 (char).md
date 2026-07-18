@@ -59,7 +59,7 @@ boundedness: 100
 - <ruby>[[反対]]<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby> "be opposite; oppose"
 - <ruby>[[反哺]]<rt>ㄈㄛㄋㄅㄛ</rt></ruby> "take care of one's parents"
 - <ruby>[[反響]]<rt>ㄈㄛㄋㄏ⼘ㄫ</rt></ruby> "echo"
-- <ruby>[[反乱]]<rt>ㄆㄛㄋㄌㄚㄋ</rt></ruby> "rebel; revolt"
+- <ruby>[[反乱]]<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby> "rebel; revolt"
 - <ruby>[[違反]]<rt>ㄨㄧㄈㄛㄋ</rt></ruby> "violate; transgress; infringe"
 - <ruby>[[反駁]]<rt>ㄆㄛㄋㄅㄚㄎ</rt></ruby> "refute"
 ## Chengyu
