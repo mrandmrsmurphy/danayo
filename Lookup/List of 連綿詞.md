@@ -12,13 +12,6 @@ tags: [lookup]
 
 If 葡="grape" and 萄="grape" and 葡萄="grape," then transitively 葡=萄. That's what earns `#cranberry` — not whether either character is historically a "true" bound morpheme. 朋友 is a useful edge case for this distinction: 朋 does carry a real, independently attested (if archaic) meaning of its own, so it isn't a cranberry morpheme in the strict linguistic sense — but every attestation of it, and every other compound of 友, still cashes out to plain "friend." It passes the transitivity test even though it would fail a strict bound-morpheme test.
 
-### How a pair is verified
-Never pattern-match a new candidate against pairs that already passed — check each character individually:
-1. **Does either character carry a real, independently-attested meaning elsewhere** (another vault compound, or well-documented classical/modern usage) that's distinct from the shared compound's meaning? If yes for either → not transitive. This is either a plain data bug (the `stand_in` is simply wrong, e.g. [[characters/彷|彷]]'s `stand_in` briefly and incorrectly pointed at 彷徨 instead of its real home 彷彿) or a genuine near-synonym compound that should eventually get its own separate stand-in.
-2. **Compare `korean_native` and `japanese_native` glosses between the two characters.** Identical native-language glosses on both sides is the strongest transitivity signal available — it means no daughter language ever needed to distinguish them. Divergent native glosses, even when the *compound's* gloss looks like a clean synonym pair, usually means a real distinction survives and should hold the pair back from the tag.
-3. **If no vault compound exists to test a suspected divergent sense, don't treat that as proof of emptiness.** Real-world productivity a character hasn't been given a vault word for yet (e.g. 浪 in 浪費/浪人, not yet in the vault) still counts as independent meaning.
-
-See `Double Stand Ins.md` and `WTH.md` for the full per-pair vote log — most of the ~137 shared-`stand_in` pairs surveyed there are *not* cranberries; they're ordinary near-synonym compounds that just haven't been split into separate stand-ins yet.
 
 ### Three shapes this takes
 - **Loanword transliterations** — 葡萄, 琵琶, 菩薩, 檸檬, 檳榔, 茉莉: the characters were chosen purely for sound, so neither ever had an independent meaning to begin with. The clearest case.
@@ -26,7 +19,7 @@ See `Double Stand Ins.md` and `WTH.md` for the full per-pair vote log — most o
 - **Dead paired-gender or -role terms** — 鳳凰 (鳳=male phoenix, 凰=female phoenix), 麒麟 (麒=male, 麟=female qilin): the two halves *used* to mean genuinely different things, but the distinction died out and the modern unified sense now covers both — a different mechanism (semantic merger over time) arriving at the same transitive endpoint, not two characters that always meant the same thing.
 
 ### A related but separate consequence
-Confirmed cranberry status can also license overriding a character's mechanically MC-derived Dan'a'yo pronunciation — but only when *all three* also hold: (1) `mc_id: 0` (no genuine Classical Chinese attestation, so the MC reading is borrowed-by-analogy rather than real inheritance), (2) confirmed cranberry, and (3) daughter-language evidence the word was never actually transmitted as a shared Sino-Xenic reading (e.g. Japanese レモン/Korean 레몬 borrow the Western word directly rather than using on'yomi/Sino-Korean). This is how [[words/檸檬|檸檬]] got repointed to a loanword-based reading while [[words/葡萄|葡萄]]/[[words/菩薩|菩薩]]/[[words/琵琶|琵琶]] — also cranberries, but with genuine ancient attestation — kept their MC-derived ones. This is a consequence of the tag, not part of the test itself.
+Confirmed cranberry status can also license overriding a character's mechanically MC-derived Dan'a'yo pronunciation. This is how [[words/檸檬|檸檬]] got repointed to a loanword-based reading while [[words/葡萄|葡萄]]/[[words/菩薩|菩薩]]/[[words/琵琶|琵琶]] — also cranberries, but with genuine ancient attestation — kept their MC-derived ones. This is a consequence of the tag, not part of the test itself.
 
 ## Words
 - <ruby>[[words/仲介|仲介]]<rt>ㄉㄨㄫㄍ⼶</rt></ruby> "mediator" = <ruby>[[characters/仲|仲]]<rt>ㄉㄨㄫ</rt></ruby> + <ruby>[[characters/介|介]]<rt>ㄍ⼶</rt></ruby>
