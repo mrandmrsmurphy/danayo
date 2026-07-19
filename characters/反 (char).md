@@ -47,7 +47,7 @@ boundedness: 100
 ```
 ## Notes
 - 形声 (OC \*panʔ, \*pʰan): semantic [[Radical 029|又]] ("hand") + phonetic [[Radical 027|厂]] (OC \*hŋaːnʔ, \*hŋaːns).
-- We follow Japanese and fold 叛 into this character.
+- We follow Japanese and fold 叛 into this character — "anti-" and "rebel" are close enough, and although 叛's MC reading differed slightly from 反's, the merge is a deliberate choice (per user, 2026-07-19). Words conventionally written with 叛 keep its original sound: [[反乱]] is ㄅㄚㄋㄌㄚㄋ (from pàn), not 反's own ㄈㄛㄋ.
 - [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
 - 186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](syllables/ㄈㄛㄋ.md)
 - [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
