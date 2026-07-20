@@ -47,7 +47,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*ɡaɡ): semantic [[Radical 018|刀]] ("knife") + phonetic 豦 (OC \*kas, \*ɡa — a 会意 of 虍 "tiger" and 豕 "boar" depicting the two fighting fiercely; no character page of its own in this vault) — the cutting sense of 刀 extended metaphorically to "severe, extreme," later narrowing to "drama."
+- 形声 (OC \*ɡaɡ): semantic [[Radical 018|刀]] ("knife") + phonetic 豦 (OC \*kas, \*ɡa — a 会意 of 虍 "tiger" and 豕 "boar" depicting the two fighting fiercely; no character page of its own in this vault, though it also backs the phonetic component of [[拠]] "depend upon" and [[遽]] "in a hurry") — the cutting sense of 刀 extended metaphorically to "severe, extreme," later narrowing to "drama."
 - [SKIP-1-13-2](../lookup/SKIP/SKIP-1/SKIP-1-13-2.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 1969th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 陌三開|ɣiæk]] → [ㄍㄝㄎ](../syllables/ㄍㄝㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
