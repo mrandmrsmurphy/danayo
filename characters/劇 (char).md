@@ -3,7 +3,8 @@ mandarin: "jù"
 cantonese: "kek6"
 korean: "극"
 korean_native: 심할
-japanese: GEKI
+japanese:
+  - GEKI
 japanese_native: はげしい
 vietnamese:
   - kịch
@@ -33,23 +34,26 @@ stand_in: 劇
 aliases:
   - 剧
 注音: ㄍㄝㄎ
+date-last-perfect: 2026-07-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 劇.
->For the word, see [劇](words/劇.md)
+>For the word, see [劇](../words/劇.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*ɡaɡ): phonetic [[豦]] (OC \*kas, \*ɡa) + semantic [刀](Radical%20018) (“knife”).
-[[Lookup/CC/initials/聲 群]]
-[[Lookup/CC/finals/韻 陌三開]]
+- 形声 (OC \*ɡaɡ): semantic [[Radical 018|刀]] ("knife") + phonetic 豦 (OC \*kas, \*ɡa — a 会意 of 虍 "tiger" and 豕 "boar" depicting the two fighting fiercely; no character page of its own in this vault) — the cutting sense of 刀 extended metaphorically to "severe, extreme," later narrowing to "drama."
+- [SKIP-1-13-2](../lookup/SKIP/SKIP-1/SKIP-1-13-2.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 1969th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 陌三開|ɣiæk]] → [ㄍㄝㄎ](../syllables/ㄍㄝㄎ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[劇詩]]<rt>ㄍㄝㄎㄙㄧ</rt></ruby> “dramatic poetry”
-- [[劇場]] “cinema,theater”
-- <ruby>[[軽歌劇]]<rt>ㄎㄧㄫㄍㄜㄍㄝㄎ</rt></ruby> “light opera, operetta”
+- <ruby>[[劇]]<rt>ㄍㄝㄎ</rt></ruby> "drama; theatre" (stand-in for 劇)
+- <ruby>[[劇場]]<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby> "cinema; theater"
+- <ruby>[[劇詩]]<rt>ㄍㄝㄎㄙㄧ</rt></ruby> "dramatic poetry"
+- <ruby>[[軽歌劇]]<rt>ㄎㄧㄫㄍㄜㄍㄝㄎ</rt></ruby> "operetta; light opera"
