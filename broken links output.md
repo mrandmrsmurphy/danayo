@@ -1,11 +1,9 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 ## Components
-- [[𢦏]] in [[characters/哉 (char)]]
 - [[奐]] in [[characters/喚 (char)]], [[lookup/Korean/Korean Name ㅎ]]
 - [[壴]] in [[characters/喜 (char)]]
 - [[亾]] in [[characters/喪]]
 - [[㐭]] in [[characters/嗇]], [[characters/稟]]
-- [[囗]] in [[characters/囚]], [[characters/囲]], [[characters/韋]]
 - [[臤]] in [[characters/堅]]
 - [[㚔]] in [[characters/報 (char)]]
 - [[𠬝]] in [[characters/報 (char)]]
