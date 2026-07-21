@@ -42,18 +42,18 @@ aliases:
 - 坮
 注音: ㄉㄚㄧ
 kwin: true
-date-last-perfect: 2026-06-27
+date-last-perfect: 2026-07-20
 tags:
   - character
 boundedness: 95
 ---
 >[!tip] This is a page about the character 台.
->For the word, see [台](words/台.md)
+>For the word, see [台](../words/台.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC *l'ɯ): semantic [[Radical 030|口]] ("enclosure; mouth") + phonetic [[㠯]] (OC *l'ɯʔ) — 台 is a simplified graph that absorbs several originally distinct characters: 臺 (platform/stage), 颱 (typhoon), and the archaic first-person pronoun 台 (yí), all now unified under one form.
+- 形声 (OC *l'ɯ): semantic [[Radical 030|口]] ("enclosure; mouth") + phonetic [[以 (char)|㠯]] (OC *l'ɯʔ), the archaic bronze-inscription form of 以 — 台 is a simplified graph that absorbs several originally distinct characters: 臺 (platform/stage), 颱 (typhoon), and the archaic first-person pronoun 台 (yí), all now unified under one form.
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 840th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄉㄚㄧ](../syllables/ㄉㄚㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
@@ -65,3 +65,16 @@ boundedness: 95
 - <ruby>[[台球]]<rt>ㄉㄚㄧㄍ⼜</rt></ruby> "billiards; pool"
 - <ruby>[[台北]]<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby> "Taipei"
 - <ruby>[[台湾]]<rt>ㄉㄚㄧ·⺢ㄋ</rt></ruby> "Taiwan"
+- <ruby>[[断頭台]]<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby> "guillotine"
+
+## Derived Characters
+- <ruby>[[苔 (char)|苔]]<rt>ㄊㄛㄧ</rt></ruby> "moss"
+- <ruby>[[冶]]<rt>⼘</rt></ruby> "smelt"
+- <ruby>[[始]]<rt>ㄙㄧ</rt></ruby> "begin"
+- <ruby>[[怠]]<rt>ㄉㄚㄧ</rt></ruby> "idle"
+- <ruby>[[殆]]<rt>ㄉㄛㄧ</rt></ruby> "danger"
+- <ruby>[[治]]<rt>ㄑㄧ</rt></ruby> "govern"
+- <ruby>[[胎]]<rt>ㄊㄚㄧ</rt></ruby> "fetus"
+- <ruby>[[跆]]<rt>ㄊㄛㄧ</rt></ruby> "trample"
+- <ruby>[[飴]]<rt>ㄧ</rt></ruby> "syrup"
+- <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby> "blowfish"

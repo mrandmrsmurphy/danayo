@@ -16,7 +16,7 @@ tags: [lookup]
 3. <ruby>[[写]]<rt>ㄙ⼘</rt></ruby>
 4. <ruby>[[召]]<rt>ㄙ⼄ㄨ</rt></ruby>
 5. <ruby>[[../../../characters/占 (char)]]<rt>ㄐㄝㄇ</rt></ruby>
-6. <ruby>[[台 (char)]]<rt>ㄅ⼘ㄋ</rt></ruby>
+6. <ruby>[[台 (char)]]<rt>ㄉㄚㄧ</rt></ruby>
 7. <ruby>[[乍]]<rt>ㄐㄚ</rt></ruby>
 8. <ruby>[[弁]]<rt>ㄅ⼘ㄋ</rt></ruby>
 9. <ruby>[[矛]]<rt>ㄇㄚㄨ</rt></ruby>

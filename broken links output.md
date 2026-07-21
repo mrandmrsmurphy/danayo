@@ -1,7 +1,5 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 ## Components
-- [[丂]] in [[characters/可 (char)]], [[characters/号]], [[characters/巧]], [[characters/昜]]
-- [[㠯]] in [[characters/台 (char)]]
 - [[冎]] in [[characters/咼]], [[characters/骨 (char)]]
 - [[𢦏]] in [[characters/哉 (char)]]
 - [[奐]] in [[characters/喚 (char)]], [[lookup/Korean/Korean Name ㅎ]]
