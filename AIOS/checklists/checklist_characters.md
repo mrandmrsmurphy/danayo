@@ -238,15 +238,15 @@ Both wiki-links and relative Markdown links are valid inside the `<ruby>` elemen
 
 ## `## Chengyu` section *(optional)*
 
-Include when the character appears in one or more chengyu. Plain links with a short English gloss. 
+Include when the character appears in one or more chengyu. Same `<ruby>` markup as `## Words` — a ruby-annotated link showing the chengyu's own full Dan'a'yo reading (pulled from the chengyu's own `注音` field) followed by a short English gloss.
 
 ```markdown
 ## Chengyu
-- [[空前絶後]] "unprecedented and unrepeated"
-- [一心同体](../chengyu/一心同体.md) "one heart, one body"
+- <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐ⼶ㄋㄐㄨㄝㄏ⼜ㄛ</rt></ruby> "unprecedented and unrepeated"
+- <ruby>[一心同体](../chengyu/一心同体.md)<rt>ㄧㄊㄙㄝㄇㄊㄛㄫㄊㄝ</rt></ruby> "one heart, one body"
 ```
 
-Wiki-links and relative Markdown links are equally valid.
+Wiki-links and relative Markdown links are equally valid inside the `<ruby>` element.
 
 ---
 
@@ -278,7 +278,7 @@ Set when:
 7. MC bullet states the ordinal rank, embeds both CC links with IPA display text, and links the syllable.
 8. Levels bullet includes all four level links and they match the frontmatter values per the mapping table.
 9. Every Dan'a'yo word that uses this character appears in `## Words` with a gloss.
-10. Every chengyu that uses this character appears in `## Chengyu`.
+10. Every chengyu that uses this character appears in `## Chengyu`, ruby-annotated with its own reading and a gloss.
 11. Every other character in the database that names this one as its phonetic/semantic component appears in `## Derived Characters`, ruby-annotated with its own syllable, if any such descendants exist.
 
 ---
@@ -292,6 +292,7 @@ Set when:
 - **`pos` blank (`""`)** — required, not optional, and easy to miss because a blank string doesn't look broken the way a missing bullet does. Roughly a quarter of the corpus has this gap pre-existing, so don't assume a page is fine on this front just because it's otherwise well-formed — check it explicitly every time, the same as `mc_id` or `danayo_id`. See [[grammar/文法 - 97品詞]] for the real taxonomy (名詞/事詞/性詞/連接詞/etc.) — pick based on the character's actual grammatical behavior, not just "noun-ish vs verb-ish."
 - **Heading level inconsistency** — use `##` (H2) for Notes, Words, Chengyu, and Derived Characters. Using `#` (H1) or `###` (H3) for these top-level sections is a mistake.
 - **Words entries without glosses** — every word link should be followed by an English gloss in quotes.
+- **Chengyu entries without ruby** — despite this doc's own example historically showing plain links, established practice (see [[characters/千]], [[characters/光 (char)|光]]) always ruby-annotates `## Chengyu` entries with the chengyu's own stored `注音`, same as `## Words`. A bare `[[chengyu]] "gloss"` with no `<rt>` is a defect, not an acceptable minimal form.
 - **Notes bullets out of order or missing** — the four-bullet sequence (graphemic → SKIP/Stroke → MC → levels) is fixed. All four must be present.
 - **Missing `## Derived Characters`** — easy to overlook because it's optional and easy to forget to check *for*. A character with a real graphemic family (its phonetic component is reused by several other vault characters, e.g. [[炎]] → 啖/痰/談) should surface that family here; don't assume the section doesn't apply just because the page never had one before.
 - **Callout/link paths missing the `../` prefix** — a recurring defect on older pages: `[X](words/X.md)` or `[[Lookup/...]]`-style links written as if the page lived at the vault root, when it actually needs `../words/X.md` etc. from inside `characters/`. Also watch for the inverse mistake — a relative-path prefix accidentally baked into wiki-link syntax itself, e.g. `[[../lookup/CC/finals/韻 X]]` (Obsidian wiki-links resolve by name, not path, so the `../` breaks it) — the fix there is just to drop the prefix, not the link.

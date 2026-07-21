@@ -63,7 +63,7 @@ boundedness: 75
 - <ruby>[[不可不]]<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> "cannot not (do something), i.e. must"
 
 ## Chengyu
-- [[不可思議]] "inconceivable, unimaginable, incomprehensible"
+- <ruby>[[不可思議]]<rt>ㄅㄛㄊㄎㄚㄙㄚ·ㄨㄧ</rt></ruby> "inconceivable, unimaginable, incomprehensible"
 
 ## Derived Characters
 - <ruby>[[何 (char)|何]]<rt>ㄏㄚ</rt></ruby> "what"
