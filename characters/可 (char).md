@@ -27,7 +27,7 @@ hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3053
 mc_id: 35
-graphemic_classification: 丂
+graphemic_classification: 考
 stand_in: 可
 aliases:
 注音: ㄎㄜ
@@ -44,7 +44,7 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*kʰaːlʔ): semantic [[Radical 030|口]] ("mouth") + phonetic 丂 (OC \*kʰluːʔ, "exhaled breath"; no character page of its own in this vault, though it also backs the phonetic component of [[号]], [[巧]], and [[昜]]) — breath voiced through the mouth, an utterance of assent; generalized to the auxiliary sense "can, may."
+- 形声 (OC \*kʰaːlʔ): semantic [[Radical 030|口]] ("mouth") + phonetic 丂, an ancient variant of [[考]] (OC \*kʰluːʔ; no character page of its own in this vault — the same root also backs [[号]], [[巧]], and [[昜]]) — breath voiced through the mouth, an utterance of assent; generalized to the auxiliary sense "can, may."
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 35th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄎㄜ](../syllables/ㄎㄜ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
