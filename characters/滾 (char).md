@@ -33,6 +33,7 @@ stand_in: 滾
 aliases:
   - 滚
 注音: ㄍ⺢ㄋ
+date-last-perfect: 2026-07-21
 kwin: false
 tags:
   - character
@@ -40,15 +41,17 @@ tags:
 boundedness: 80
 ---
 >[!tip] This is a page about the character 滾.
->For the word, see [滾](words/滾.md)
+>For the word, see [滾](../words/滾.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 魂]]
-- Components: [[氵]], [[袞]]
-- Used of both water and people.
-- MC pronunciation is a guess.
+- 形声 (OC \*kluːnʔ): semantic [[Radical 085|水]] ("water") + phonetic 袞 (OC \*kluːnʔ, "royal/dragon robe" — no character page of its own in this vault) — the tumbling motion of boiling water; used of both water and people (a person "rolling" through a crowd, etc.).
+- [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄍ⺢ㄋ](../syllables/ㄍ⺢ㄋ.md). Note: this Middle Chinese derivation is an editorial best guess, not independently sourced.
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Words
+- <ruby>[[滾]]<rt>ㄍ⺢ㄋ</rt></ruby> "boil; roll" (stand-in for 滾)
