@@ -17,7 +17,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[𢑓]] in [[characters/家]]
 - [[宓]] in [[characters/密 (char)]], [[lookup/Korean/Korean Name ㅂ]]
 - [[𡳿]] in [[characters/寺]]
-- [[尸]] in [[characters/尾 (char)]], [[characters/辟]]
 - [[與]] in [[characters/屿]]
 - [[屵]] in [[characters/岸 (char)]]
 - [[𠂤]] in [[characters/師]]
