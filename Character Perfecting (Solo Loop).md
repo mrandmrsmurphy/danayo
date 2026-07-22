@@ -331,3 +331,23 @@ Next never-perfected character by `danayo_id` (109). Stamped `date-last-perfect:
 **Derived Characters** (1 hit via `graphemic_classification: 早`): 草 ("grass") — a textbook 形声 pair (艹 semantic + 早 phonetic), added.
 
 **Loop status**: 17 iterations completed since this log started (2026-07-22), one character skipped ([[characters/両 (char)|両]], flagged as a genuine cross-sense dispute rather than perfected). Continuing ascending by `danayo_id` from 110 (足).
+
+### 2026-07-22, iteration 18 — [[characters/足 (char)|足]]
+
+Next never-perfected character by `danayo_id` (110). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `名詞` (primary gloss "foot," a concrete body-part noun). `graphemic_classification: 會意` already correct.
+
+**Content removed**: none.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links plus one bare Words-style entry (足球) misplaced inside it — no real graphemic/SKIP-Stroke/MC/Levels bullets existed.
+
+**Graphemic bullet written from scratch**: 会意 of 口 (a knee/joint shape) and [[止]] ("stop; foot") — the whole leg, from knee to foot.
+
+**Words cross-check** (9 total ground-truth hits): 2 already present (足球 relocated out of Notes and reformatted, 充足 already fine); 7 missing — the stand-in 足 itself, 手足, 足指, 足裏, 満足, 自足, 飽足 — added, all from stored fields.
+
+**Chengyu cross-check** (3 total): 2 already present and correctly formatted; 1 missing — 画蛇添足 — added.
+
+**Derived Characters** (2 hits via `graphemic_classification: 足`): 促 ("hurry; rush") and 捉 ("clutch; seize") — both standard, well-attested 足-phonetic derivatives, added.
+
+Next: 111 (走), 112 (売), 113 (里), 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id` (117/花 already stamped on inspection).
