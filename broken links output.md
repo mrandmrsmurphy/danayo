@@ -53,7 +53,6 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[袞]] in [[characters/滾 (char)]], [[lookup/Korean/Korean Name ㄱ]]
 - [[廌]] in [[characters/灋]]
 - [[巸]] in [[characters/熙]]
-- [[灬]] in [[characters/熙]], [[characters/黙]]
 - [[犭]] in [[characters/狂]], [[characters/狼 (char)]], [[characters/猪]], [[characters/獅]], [[characters/獵 (char)]]
 - [[㞷]] in [[characters/狂]]
 - [[巤]] in [[characters/獵 (char)]], [[characters/蠟]]
