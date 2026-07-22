@@ -125,3 +125,21 @@ Next never-perfected character by `danayo_id` (93). Stamped `date-last-perfect: 
 **Graphemic bullet**: expanded from a two-word stub ("an ear") into a full sentence per the 象形 template.
 
 Next: 94 (地), 95 (有), 96 (当), 97 (行), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 7 — [[characters/地 (char)|地]]
+
+Next never-perfected character by `danayo_id` (94), and the largest page this loop has hit so far (33 words, 7 chengyu, 5 derived characters). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already complete and correct (`pos: 名詞`, `graphemic_classification: 也` matching the page's own already-written 形声 bullet).
+
+**Content removed**: a literal duplicate — the graphemic bullet existed twice back to back (a terse first copy, then a fuller second copy with the same OC reconstruction plus extra historical-form detail). Merged into the single fuller version; nothing substantive lost, just the redundant terse copy dropped.
+
+**Body defects found**: `## Chengyu` was sitting before `## Words` (wrong section order); two floating CC-initial/final links sat after the Words list instead of embedded in an MC bullet (which didn't exist); no SKIP/Stroke/Levels bullets existed; most Words entries were bare `[[link]] - gloss` (dash instead of quoted gloss, no ruby); one Chengyu entry (塩地光世) had no gloss at all.
+
+**Words cross-check** (33 total ground-truth hits including the stand-in, the largest single count this loop has done): 22 already listed in some form (all reformatted to ruby+quoted-gloss); 11 missing outright — 地域, 地理, 地理学, 地下道, 地平線, 天地, 山地, 陸地, 地龍, 天神地祇, and the stand-in 地 itself — added, all fields pulled from each word's own stored `注音`/`english`. Note: `窪地` was on the page already but doesn't turn up in a plain characters-field-list grep (its `characters:` frontmatter is written as an inline array, `[窪, "地 (char)"]`, not a block list) — worth remembering as a ground-truth-search blind spot for future iterations on other characters, same lesson as [[Loop Work.md]]'s note about the inline-array form on other pages.
+
+**Chengyu cross-check** (7 total): 4 already present (塩地光世 needed its gloss added); 3 missing — 乳蜜流地, 天圓地方, 詛地哀食 — added, all Bible/classical-origin, fields from their own stored records.
+
+**Derived Characters** (5 hits via `graphemic_classification: 也`, excluding 地 itself): 他, 池, 馳, 弛, 施 — all members of the well-known, uncontroversial 也-phonetic family (yě → tā/chí/chí/chí/shī), no individual verification needed beyond confirming each hit was real.
+
+Next: 95 (有), 96 (当), 97 (行), 98 (両), continuing ascending by `danayo_id`.
