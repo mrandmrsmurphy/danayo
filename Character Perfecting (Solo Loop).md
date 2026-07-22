@@ -279,3 +279,19 @@ Next never-perfected character by `danayo_id` (104). Stamped `date-last-perfect:
 **Incidental fixes**: `words/全体.md` and `words/全部.md` both had the identical typo "entirity" → "entirety" in their `english` fields.
 
 Next: 105 (灯), 107 (百), 109 (早), 110 (足), continuing ascending by `danayo_id` (106/108 already stamped on inspection).
+
+### 2026-07-22, iteration 15 — [[characters/灯 (char)|灯]]
+
+Next never-perfected character by `danayo_id` (105). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 登` matching the standard 形声 analysis of 灯/燈). `mc_id: 0` handled per the checklist's explicit policy — phrased the MC bullet as "Not present in the Classical Chinese usage ranking" rather than treating it as a gap to fill.
+
+**Content removed**: a stray, plainly non-canonical line, "I'm shocked its not old" — an apparent leftover aside/thought fragment with no encyclopedic content, sitting where the graphemic bullet should have been. Removed outright, not incorporated anywhere.
+
+**Caught before shipping — a fabricated OC reconstruction**: first drafted the graphemic bullet with an invented Old Chinese citation for 登 (`*tɘːŋ`) to match the checklist's phonetic-bullet template, without having verified it against any real source. Checked 登's own character page and found no OC value recorded there either (only its Middle Chinese initial/final, which happens to match 灯's own exactly, t + əŋ both) — rewrote the bullet to cite that confirmed exact MC match instead of a guessed OC form, rather than invent a citation with no backing.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links sat with no MC bullet to embed in; no SKIP/Stroke/Levels bullets existed; one Words entry used a path with a stray `../` prefix (`[[../words/灯心]]`, which breaks Obsidian's by-name wikilink resolution) instead of a bare `[[灯心]]`.
+
+**Words cross-check** (4 total ground-truth hits, a small page): 2 already listed (灯籠 fine, 灯心's link fixed); 2 missing — the stand-in 灯 itself and 電灯 — added. No chengyu hits, no `graphemic_classification: 灯` hits (no Derived Characters section applies).
+
+Next: 107 (百), 109 (早), 110 (足), continuing ascending by `danayo_id`.
