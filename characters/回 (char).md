@@ -74,3 +74,6 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "revival from the point of death"
+
+## Derived Characters
+- <ruby>[[徊]]<rt>ㄏㄛㄧ</rt></ruby> "loiter"

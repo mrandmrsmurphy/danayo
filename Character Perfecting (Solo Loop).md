@@ -45,3 +45,25 @@ Next never-perfected character by `danayo_id` (87; checked 89/次 and 90/先 too
 **Verified, not touched**: `mc_id: 1392` matches `lookup/CC/CC 1000.md` line "1392. 絲" exactly (絲 is 糸's own listed traditional-form alias, not a different character — same-character variant, not a market/city-style false match). `aliases: [絲, 丝]` left as-is, plausible and unverified-but-not-contradicted.
 
 Next: 88 (回), 91 (会), 92 (米), 93 (耳), 94 (地), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 3 — [[characters/回 (char)|回]]
+
+Next never-perfected character by `danayo_id` (88). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `事詞`. Reasoning: Dan'a'yo's own closed classifier set ([[grammar/文法 - 97品詞]]) already assigns the "turns/repeats" counter role to 番, not 回, so 回's own gloss "turns" doesn't make it a classifier — its actual corpus role is verbal/eventive (回答, 回復, 回転, 回収, 挽回 are all action compounds), so 事詞 fits its real behavior rather than its bare gloss.
+
+**Content removed**: none — no wrong or contradicted data, just misplaced/missing structure.
+
+**Body defects found, the messiest page this loop has hit so far**: only one Notes bullet existed (a terse graphemic aside, no SKIP/Stroke/MC/Levels bullets); `## Chengyu` had the real chengyu hit (起死回生) but with no gloss, followed immediately by two floating CC-initial/final links, and then — the real structural bug — **six genuine Words entries were sitting under the `## Chengyu` heading** (回教徒, 回紇, 回答, 回教, 回復, 回収), none of which are chengyu at all. Moved all six into `## Words` where they belong. Several existing Words entries were also malformed: `回路` used a markdown link with a bare-dash gloss and a trailing space instead of ruby+quoted-gloss format; `迂回`, `回転`, `回廊` were bare `[[link]]` with no ruby or gloss at all.
+
+**Words cross-check** (18 total ground-truth hits including the stand-in itself): 14 were already present in some form (several needing ruby/gloss fixes as above); 4 were missing outright — 回帰, 回族, 回生, 挽回 — added, all rubies/glosses pulled from each word's own stored `注音`/`english` fields.
+
+**Chengyu**: 起死回生 already linked but glossless — first drafted a paraphrased gloss from general knowledge ("bring back to life; save from a desperate situation") before catching myself and checking the chengyu file's actual stored `english` field ("revival from the point of death") — corrected before finalizing, same near-miss class documented repeatedly in [[Loop Work.md]].
+
+**Derived Characters** (1 hit via `graphemic_classification: 回`): 徊 ("loiter," as in 徘徊) — exact `注音` match (ㄏㄛㄧ both), a clean phonetic pair, added.
+
+**Graphemic bullet**: rewrote from a two-word aside ("rotation (originally a spiral)") into a full sentence describing the whirlpool/spiraling-water pictograph and its oracle-bone-to-modern squaring-off, matching the checklist's 象形 template.
+
+**Incidental fix**: `words/挽回.md`'s `english` field had a typo, "retreive" → "retrieve."
+
+Next: 91 (会), 92 (米), 93 (耳), 94 (地), continuing ascending by `danayo_id` (89/次 and 90/先 already stamped from an earlier, unlogged session).
