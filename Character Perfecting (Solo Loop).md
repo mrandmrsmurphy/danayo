@@ -435,3 +435,23 @@ Next never-perfected character by `danayo_id` (115). Stamped `date-last-perfect:
 **Words cross-check** (9 total ground-truth hits): 4 already listed (reformatted); 5 missing — the stand-in 近 itself, 接近, 最近, 附近, 漸近線 — added, all from stored fields. No `graphemic_classification: 近` hits — no Derived Characters section applies (near-miss note: an initial pass mistakenly searched for characters sharing 近's *own* phonetic 斤, which would surface 斤's derived family, not characters derived from 近 itself — caught before finalizing and re-ran the correct search).
 
 Next: 116 (弟), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 24 — [[characters/弟 (char)|弟]]
+
+Next never-perfected character by `danayo_id` (116). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 象形`).
+
+**Content removed**: a stray "Components: [[丿]], [[弚]]" line — arbitrary stroke-decomposition text that doesn't describe a real 象形 depiction and isn't needed alongside the real pictograph description. Dropped, not merged.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links sat inside an unstructured Words-like list with no `## Words` heading at all.
+
+**Graphemic bullet written from scratch**: a cord wound in sequence around a stick or weapon shaft, marking order — extended to "younger brother" (order among siblings). Left 弟's own `radical: 弓` unlinked, since it plays no role in this etymology (a dictionary-classification artifact, not a real depicted component — same non-forcing treatment as [[characters/会 (char)|会]]'s and [[characters/当 (char)|当]]'s unrelated radical fields earlier this loop).
+
+**Words cross-check** (6 total ground-truth hits): 4 already listed (correctly formatted); 2 missing — the stand-in 弟 itself and 孝弟 — added.
+
+**Derived Characters** (3 hits via `graphemic_classification: 弟`): 剃 ("shave"), 第 ("-th," ordinal prefix), 梯 ("ladder," already independently perfected earlier in this vault's history) — all standard, added.
+
+**Incidental fix**: `words/弟弟.md`'s `english` field had a typo, "litte bitty brother" → "little bitty brother" (kept the colloquial "little bitty" idiom itself, just fixed the missing letter).
+
+**Loop status**: 24 iterations completed, one skip ([[characters/両 (char)|両]]). This clears every character up through `danayo_id` 116 in the never-perfected pool (117 and below are all either perfected today or already stamped from earlier sessions).
