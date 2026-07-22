@@ -455,3 +455,21 @@ Next never-perfected character by `danayo_id` (116). Stamped `date-last-perfect:
 **Incidental fix**: `words/弟弟.md`'s `english` field had a typo, "litte bitty brother" → "little bitty brother" (kept the colloquial "little bitty" idiom itself, just fixed the missing letter).
 
 **Loop status**: 24 iterations completed, one skip ([[characters/両 (char)|両]]). This clears every character up through `danayo_id` 116 in the never-perfected pool (117 and below are all either perfected today or already stamped from earlier sessions).
+
+### 2026-07-22, iteration 25 — [[characters/村|村]]
+
+Next never-perfected character by `danayo_id` (118; 117/花 already stamped from an earlier session). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter fixed**: `japanese_native` had the same malformed-YAML shape as [[characters/糸|糸]] and [[characters/耳 (char)|耳]] earlier this loop (bare scalar `むら` plus a stray duplicate `- むら` list item) — collapsed to a proper single-item list. `mc_id: 0` handled per the checklist's explicit policy (phrased as "Not present in the Classical Chinese usage ranking," not treated as a gap).
+
+**Content removed**: the same stray non-canonical aside already found on [[characters/灯 (char)|灯]] this loop, "I'm shocked its not old" — another leftover thought fragment sitting where the graphemic bullet should be. Removed outright.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/Levels bullets existed.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 075|木]] ("tree, wood") + phonetic [[寸 (char)|寸]] — a wooded settlement, "village."
+
+**Words cross-check** (2 total ground-truth hits, a small page): 1 already listed (村塾); 1 missing — the `stand_in` compound 農村 itself — added.
+
+No chengyu hits, no `graphemic_classification: 村` hits — no Derived Characters section applies.
+
+Next: continuing ascending by `danayo_id` from 119 (住).
