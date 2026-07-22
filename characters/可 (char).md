@@ -27,7 +27,7 @@ hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 3053
 mc_id: 35
-graphemic_classification: 考
+graphemic_classification: 丂
 stand_in: 可
 aliases:
 注音: ㄎㄜ
