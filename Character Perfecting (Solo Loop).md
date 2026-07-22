@@ -221,3 +221,25 @@ Next: 98 (両), 99 (死), 102 (名), 103 (西), continuing ascending by `danayo_
 **Chengyu built from scratch** (2 hits): 起死回生 (ruby/gloss reused from [[characters/回 (char)|回]]'s own already-perfected entry) and 剣生剣死 — first drafted both the ruby and gloss for the latter from memory/inference before checking the actual stored `注音`/`english` fields and correcting both; caught before finalizing, same near-miss class flagged repeatedly in [[Loop Work.md]]. No `graphemic_classification: 死` hits — no Derived Characters section applies.
 
 Next: 102 (名), 103 (西), 104 (全), 105 (灯), continuing ascending by `danayo_id` (98/両 left unstamped, skipped per above).
+
+### 2026-07-22, iteration 12 — [[characters/名 (char)|名]]
+
+Next never-perfected character by `danayo_id` (102; 100/虫 and 101/向 already stamped on inspection). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `名詞`. `graphemic_classification: 會意` already correct.
+
+**Content removed**: none.
+
+**Ground-truth search note**: a first broad grep for "名 anywhere in a file with a characters: field" produced a long list of false positives (今, 卦, 石, 業, 龍, 悪魔, 霊魂, etc.) — all matches were actually hitting the substring "名" inside an unrelated `pos: 名詞`/`品詞: 名詞` line that happened to fall inside the grep's context window, not a real `characters:` entry. Tightened the pattern to require 名 as a standalone list item, bare scalar, or bracket/comma-delimited inline-array element — this is worth remembering as a sharper version of the inline-array lesson from recent iterations: a loose substring search on CJK text can produce false positives just as easily as it can miss real hits.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links before jumping straight to unstructured Words entries — no graphemic/SKIP-Stroke/MC/Levels bullets existed at all.
+
+**Graphemic bullet written from scratch**: 会意 of [[Radical 036|夕]] ("evening, dusk") and [[Radical 030|口]] ("mouth") — calling out one's name in the dark. Both components are genuine Kangxi radicals (036 and 030) even though only 口 matches 名's own `radical:` field — linked both per the checklist's explicit "any component that is itself a radical" rule, not just the one matching the page's own radical field.
+
+**Words cross-check** (22 total ground-truth hits, precise search): 4 already listed (needing reformatting); 18 missing — added, including a full seven-member polite/honorific-pronoun paradigm (此名/其名/彼名/何名/皆名/某名/毎名) that parallels [[characters/多 (char)|多]]'s quantity-correlative family from earlier this loop (此多/其多/彼多/何多/皆多/某多/毎多) — same X-此/其/彼/何/皆/某/毎 productive pattern, different head character.
+
+**Chengyu built from scratch** (2 hits): 勿妄称名 (Bible) and 義以立名 (単亜語-origin), both ruby/gloss from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 名`): 酩 ("drunk; intoxicated") and 銘 ("inscription") — both exact `注音` matches (ㄇㄝㄫ), a clean phonetic pair.
+
+Next: 103 (西), 104 (全), 105 (灯), 107 (百), continuing ascending by `danayo_id` (106 already stamped on inspection).
