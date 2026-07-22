@@ -419,3 +419,19 @@ Next never-perfected character by `danayo_id` (114; tagged `#hapax`). Stamped `d
 **Flagged, not fixed — a character-vs-word `注音` mismatch, same recurring class documented elsewhere in [[AIOS/projects.md]]**: `words/洗車.md` spells its own second syllable `ㄑㄚ`, not 車's own stored `ㄑ⺢` — used the word's actual stored value verbatim in the ruby per the byte-for-byte rule, did not "correct" it.
 
 Next: 115 (近), 116 (弟), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 23 — [[characters/近 (char)|近]]
+
+Next never-perfected character by `danayo_id` (115). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 斤` matching an already-good, pre-existing OC-sourced bullet — kept verbatim rather than re-derived, since it was already properly cited).
+
+**Content removed**: none.
+
+**Small fix**: linked the bullet's bare `[[辶]]` component to its Radical page (`[[Radical 162|辶]]`, confirmed via `lookup/Radicals/Radical 162.md`'s own `radical: 辵` field) — the checklist's radical-linking rule had been missed on this otherwise well-sourced bullet.
+
+**Body defects found**: no SKIP/Stroke/Levels bullets existed (the MC-rank content was folded into the graphemic bullet itself, missing its own bullet and the syllable link); two floating CC-initial/final links sat inside the Words list; two entries were bare `[[link]] "gloss"` markdown with no ruby (近来, 近処), one used a relative markdown-link-with-dash-gloss format (近代).
+
+**Words cross-check** (9 total ground-truth hits): 4 already listed (reformatted); 5 missing — the stand-in 近 itself, 接近, 最近, 附近, 漸近線 — added, all from stored fields. No `graphemic_classification: 近` hits — no Derived Characters section applies (near-miss note: an initial pass mistakenly searched for characters sharing 近's *own* phonetic 斤, which would surface 斤's derived family, not characters derived from 近 itself — caught before finalizing and re-ran the correct search).
+
+Next: 116 (弟), continuing ascending by `danayo_id`.
