@@ -403,3 +403,19 @@ Next never-perfected character by `danayo_id` (113). Stamped `date-last-perfect:
 **Derived Characters** (6 hits via `graphemic_classification: 里`, the largest family since [[characters/夕|多]]'s and [[characters/百 (char)|百]]'s classes): 厘, 浬, 狸, 理, 裏, 鯉 — all standard, well-attested. One divergent reading kept rather than excluded: 狸's own Dan'a'yo syllable (ㄌㄜ) differs from the rest of the family (ㄌㄧ), but this is an already-existing, unrelated-to-today's-edit corpus value, and 狸/里 (lí/lǐ) is a genuine, standard phonetic pair in real Chinese etymology — same "vault-level MC divergence doesn't itself disqualify a real classical relationship" pattern as 石/母's phonetic families.
 
 Next: 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 22 — [[characters/車 (char)|車]]
+
+Next never-perfected character by `danayo_id` (114; tagged `#hapax`). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 象形` matching the existing, already-good bullet).
+
+**Content removed**: a stray "Components: [[十]], [[田]]" line — leftover wiki-style component text that doesn't fit a pure pictograph (象形) at all; the real bullet directly below it already correctly describes 車 as a top-down view of a carriage, not a compound of 十+田. Dropped rather than reconciled, since it wasn't describing a real alternative etymology, just noise from an old template.
+
+**Body defects found**: `## Words` sat before a wrongly-ordered `## Notes`; two genuinely useful phonological notes (two competing MC pronunciations, literary vs. colloquial; and a note that Dan'a'yo's own reading was deliberately altered from the expected derivation to secure a free syllable) had no SKIP/Stroke/MC/Levels bullets in front of them. Kept both trailing notes, same "preserve real content beyond the four-bullet template" precedent as [[characters/死|死]] and [[characters/里 (char)|里]] this loop, and merged the two into one combined trailing bullet.
+
+**Words cross-check** (9 total ground-truth hits): 1 already listed (車庫); 8 missing — the stand-in 車 itself, 汽車, 電車, 自動車, 自転車, 乗車, 洗車, 火車 — added, all from stored fields. No chengyu hits, no `graphemic_classification: 車` hits.
+
+**Flagged, not fixed — a character-vs-word `注音` mismatch, same recurring class documented elsewhere in [[AIOS/projects.md]]**: `words/洗車.md` spells its own second syllable `ㄑㄚ`, not 車's own stored `ㄑ⺢` — used the word's actual stored value verbatim in the ruby per the byte-for-byte rule, did not "correct" it.
+
+Next: 115 (近), 116 (弟), continuing ascending by `danayo_id`.
