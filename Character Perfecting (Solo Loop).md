@@ -369,3 +369,19 @@ Next never-perfected character by `danayo_id` (111). Stamped `date-last-perfect:
 **Chengyu built from scratch** (1 hit): 東奔西走 (already linked and correctly formatted on [[characters/西|西]]'s own page two iterations ago — reused the same ruby/gloss here). No `graphemic_classification: 走` hits — no Derived Characters section applies.
 
 Next: 112 (売), 113 (里), 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 20 — [[characters/売|売]]
+
+Next never-perfected character by `danayo_id` (112). Stamped `date-last-perfect: 2026-07-22`. A small page (bound character, `stand_in: 販売`, tagged `#cranberry`).
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 買`). Verified the phonetic claim before writing the bullet: `characters/買.md`'s own stored Middle Chinese (`m` + `ɣɛ`) is an **exact** match to 売's own (`m` + `ɣɛ`) — about as clean a confirmation as this sweep has seen, consistent with 買/賣 being a famous near-minimal tone pair in Mandarin (mǎi/mài).
+
+**Content removed**: none.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links — no other bullets, no `## Words` heading at all.
+
+**Graphemic bullet written from scratch**: 会意/形声 hybrid — [[出 (char)|出]] ("go out, exit") + phonetic 買 (exact MC match) — putting goods out for others to buy, "to sell." Same hybrid-labeling convention as [[characters/毎 (char)|毎]]'s 会意/形声 bullet in [[Loop Work.md]].
+
+**Words cross-check** (1 total ground-truth hit, the `stand_in` compound itself): 販売 was entirely unlisted — added, ruby/gloss from its own stored fields. No chengyu hits, no `graphemic_classification: 売` hits (no Derived Characters section applies).
+
+Next: 113 (里), 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id`.
