@@ -313,3 +313,21 @@ Next never-perfected character by `danayo_id` (107). Stamped `date-last-perfect:
 **Chengyu built from scratch** (2 hits): 百家共承 (単亜語-origin) and 百聞不如一見, ruby/gloss from stored fields. No `graphemic_classification: 百` hits — no Derived Characters section applies.
 
 Next: 109 (早), 110 (足), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 17 — [[characters/早 (char)|早]]
+
+Next never-perfected character by `danayo_id` (109). Stamped `date-last-perfect: 2026-07-22`. A small, clean page.
+
+**Frontmatter**: blank `pos: ""` → `性詞` (stative — "early" modifies as an adjective/adverb). `graphemic_classification: 會意` already correct.
+
+**Content removed**: none.
+
+**Body defects found**: `## Words` was sitting before a wrongly-leveled `# Notes`, which held only two floating CC-initial/final links and nothing else — no graphemic/SKIP-Stroke/MC/Levels bullets existed at all.
+
+**Graphemic bullet written from scratch**: 会意 of [[Radical 072|日]] ("sun") above 十 (a stylized plant/marker) — the sun risen above the horizon, "early." Kept deliberately modest on the disputed details of what 十 originally depicted, per the same standing caution as the last two iterations' fabricated-OC catches — described the well-attested general shape (sun-above-marker) without asserting a specific unverified reconstruction.
+
+**Words cross-check** (3 total ground-truth hits — the smallest page this loop has done): 1 already listed (早晨); 2 missing — the stand-in 早 itself and 早飯 — added. No chengyu hits.
+
+**Derived Characters** (1 hit via `graphemic_classification: 早`): 草 ("grass") — a textbook 形声 pair (艹 semantic + 早 phonetic), added.
+
+**Loop status**: 17 iterations completed since this log started (2026-07-22), one character skipped ([[characters/両 (char)|両]], flagged as a genuine cross-sense dispute rather than perfected). Continuing ascending by `danayo_id` from 110 (足).
