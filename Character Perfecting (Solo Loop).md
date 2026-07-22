@@ -473,3 +473,15 @@ Next never-perfected character by `danayo_id` (118; 117/花 already stamped from
 No chengyu hits, no `graphemic_classification: 村` hits — no Derived Characters section applies.
 
 Next: continuing ascending by `danayo_id` from 119 (住).
+
+### 2026-07-22, iteration 26 — [[characters/住|住]]
+
+Next never-perfected character by `danayo_id` (119). Stamped `date-last-perfect: 2026-07-22`. The cleanest page this loop has hit — already had a correct, fully-cited graphemic bullet and all four canonical Notes bullets in order, plus both real Words hits already listed and correctly ruby'd.
+
+**Frontmatter**: the only real defect — blank `pos: ""` → `事詞` (an action verb, "reside; dwell").
+
+**Content removed**: none.
+
+**Verification only**: confirmed `mc_id: 3650` against `lookup/CC/CC 3000.md` ("3650. 住"). Words cross-check (2 total ground-truth hits: 居住, 住宅) found both already present and correctly formatted — no changes needed there. No chengyu hits, no `graphemic_classification: 住` hits.
+
+Next: continuing ascending by `danayo_id` from 120 (何).
