@@ -351,3 +351,21 @@ Next never-perfected character by `danayo_id` (110). Stamped `date-last-perfect:
 **Derived Characters** (2 hits via `graphemic_classification: 足`): 促 ("hurry; rush") and 捉 ("clutch; seize") — both standard, well-attested 足-phonetic derivatives, added.
 
 Next: 111 (走), 112 (売), 113 (里), 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id` (117/花 already stamped on inspection).
+
+### 2026-07-22, iteration 19 — [[characters/走 (char)|走]]
+
+Next never-perfected character by `danayo_id` (111). Stamped `date-last-perfect: 2026-07-22`. Another small, clean page.
+
+**Frontmatter**: blank `pos: ""` → `事詞` (an action verb, "run"). `graphemic_classification: 象形` already correct.
+
+**Content removed**: none.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links — no other bullets existed at all.
+
+**Graphemic bullet written from scratch**: a running figure with swinging arms above [[止]] ("foot") — a person in mid-stride, per the standard 象形 template.
+
+**Words cross-check** (3 total ground-truth hits): none were previously listed at all — added the stand-in 走 itself, 奔走, 競走, all from stored fields.
+
+**Chengyu built from scratch** (1 hit): 東奔西走 (already linked and correctly formatted on [[characters/西|西]]'s own page two iterations ago — reused the same ruby/gloss here). No `graphemic_classification: 走` hits — no Derived Characters section applies.
+
+Next: 112 (売), 113 (里), 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id`.
