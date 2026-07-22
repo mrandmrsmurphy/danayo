@@ -385,3 +385,21 @@ Next never-perfected character by `danayo_id` (112). Stamped `date-last-perfect:
 **Words cross-check** (1 total ground-truth hit, the `stand_in` compound itself): 販売 was entirely unlisted — added, ruby/gloss from its own stored fields. No chengyu hits, no `graphemic_classification: 売` hits (no Derived Characters section applies).
 
 Next: 113 (里), 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 21 — [[characters/里 (char)|里]]
+
+Next never-perfected character by `danayo_id` (113). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 會意` matching the already-good existing bullet).
+
+**Content removed**: a literal duplicate, same pattern as [[characters/多 (char)|多]] and [[characters/西|西]] earlier this loop — the "abbreviation for curium" note ([[居里金]]) was written out twice, once as a stray Notes bullet and again as a proper Words entry. Dropped the Notes copy, kept the Words entry (folding the phonosemantic-coinage detail into its gloss instead).
+
+**Body defects found**: the graphemic bullet was already good, but two genuinely useful non-canonical prose bullets (a policy note on why 里 and 裏/裡 aren't merged despite Chinese conflating them, and a note on 里 vs. 英里 for the Western mile) sat immediately after it with no SKIP/Stroke/MC/Levels bullets in between. Kept both trailing notes as additional content (same "don't discard real content that doesn't fit the four-bullet template" precedent as [[characters/死|死]]'s valency note) and inserted the four canonical bullets ahead of them, in order.
+
+**Words cross-check** (3 total ground-truth hits): 1 already listed (居里金); 2 missing — the stand-in 里 itself and 里芋 — added.
+
+**Chengyu built from scratch** (1 hit): 不遠千里 — ruby/gloss reused verbatim from [[characters/千|千]]'s own already-perfected entry for the same chengyu.
+
+**Derived Characters** (6 hits via `graphemic_classification: 里`, the largest family since [[characters/夕|多]]'s and [[characters/百 (char)|百]]'s classes): 厘, 浬, 狸, 理, 裏, 鯉 — all standard, well-attested. One divergent reading kept rather than excluded: 狸's own Dan'a'yo syllable (ㄌㄜ) differs from the rest of the family (ㄌㄧ), but this is an already-existing, unrelated-to-today's-edit corpus value, and 狸/里 (lí/lǐ) is a genuine, standard phonetic pair in real Chinese etymology — same "vault-level MC divergence doesn't itself disqualify a real classical relationship" pattern as 石/母's phonetic families.
+
+Next: 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id`.
