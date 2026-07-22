@@ -503,3 +503,19 @@ Next never-perfected character by `danayo_id` (120; tagged `#correlative`). Stam
 **Derived Characters** (2 hits via `graphemic_classification: 何`): 河 ("stream") and 荷 ("luggage," fittingly the character that inherited 何's original "carry a load" sense) — both exact `注音` matches, added.
 
 **Loop status**: 27 iterations completed, one skip ([[characters/両 (char)|両]]).
+
+### 2026-07-22, iteration 28 — [[characters/男|男]]
+
+Next never-perfected character by `danayo_id` (121; `stand_in: 男人`, already documented as a stand-in relationship in [[Word Perfecting.md]]). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `名詞`. `graphemic_classification: 會意` already correct.
+
+**Content removed**: none.
+
+**Caught before shipping — a guessed ruby that turned out wrong**: while reformatting the already-listed 男優 entry, first wrote its ruby from a plausible-looking pattern-match (`ㄋㄚㄇ⼄`) instead of reading the word's own stored `注音`. Checked before finalizing and found the real value is `ㄋㄚㄇㄨㄛ` — corrected. (男性's guess happened to land right, `ㄋㄚㄇㄙㄧㄫ`, but was verified the same way rather than assumed safe.) Same near-miss class documented repeatedly in [[Loop Work.md]] — worth remaining strict about even on entries that look routine.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links; no graphemic/SKIP-Stroke/MC/Levels bullets existed at all.
+
+**Graphemic bullet written from scratch**: 会意 of [[Radical 102|田]] ("field") and [[力 (char)|力]] ("strength") — one who exerts strength in the field.
+
+**Words cross-check** (4 total ground-truth hits): 3 already listed (男性, 男優, 男爵 — all reformatted); 1 missing — the `stand_in` compound 男人 itself — added. No chengyu hits, no `graphemic_classification: 男` hits.
