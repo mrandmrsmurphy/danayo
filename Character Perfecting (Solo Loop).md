@@ -29,3 +29,19 @@ Next never-perfected character by `danayo_id` (84). Stamped `date-last-perfect: 
 **Graphemic bullet**: rewrote to name the actual doubled component (肉 "meat," corrupted in bronze script into 夕) and linked 夕 to its Radical page (`[[Radical 036|夕]]`, since 多's own `radical:` field is 夕) — the old bullet described this correctly in prose but named neither.
 
 Next: continuing ascending by `danayo_id` — 87 (糸), 88 (回), 91 (会), 92 (米), ... (89, 90 already have a `date-last-perfect` stamp on inspection).
+
+### 2026-07-22, iteration 2 — [[characters/糸|糸]]
+
+Next never-perfected character by `danayo_id` (87; checked 89/次 and 90/先 too — both already stamped, 2026-07-21 and 2026-07-10 respectively, in sessions not logged to this file). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter bugs fixed**: `japanese_native` was malformed YAML — a bare scalar `いと` immediately followed by a stray `- いと` list item (same defect class as [[characters/野獣|野獣]]'s fix, noted in [[Loop Work.md]]) — collapsed to a proper single-item list. `vietnamese` was a single comma-joined string (`"tơ, tưa, ty, ti"`) instead of a real YAML list — reformatted into four separate list items, preserving all four existing values as-is (no new content invented, just re-shaped).
+
+**Content removed**: none — no incorrect or contradicted data on this page, just formatting and missing structure.
+
+**Body defects found**: `## Notes` had only a bare "Components: [[幺]], [[小]]" line (non-canonical, no real classification prose) plus two floating CC-initial/final links on their own lines and a bare `[[糸線]] "silk thread"` bullet with no `## Words` heading at all — no SKIP/Stroke/MC/Levels bullets existed. Rewrote the graphemic bullet as a proper 象形 entry (checked against the character's own already-correct `graphemic_classification: 象形` — 糸 depicts a skein of twisted silk thread with the two ends knotted, not two components combining, so the old "Components: 幺, 小" text was describing surface visual resemblance, not real etymology; dropped rather than carried forward) and linked the radical (`[[Radical 120|糸]]`, since 糸's own `radical:` field is itself). Added the missing SKIP/Stroke/MC/Levels bullets and moved the sole Words entry into a proper `## Words` heading.
+
+**Words cross-check**: only one real hit vault-wide (`stand_in: 糸線`, confirmed via `characters:`-field grep across all of `words/`) — already present, just needed the heading and ruby (`ㄙㄚㄙ⼶ㄋ`, pulled from `words/糸線.md`'s own stored `注音`). No chengyu hits, no `graphemic_classification: 糸` hits (no Derived Characters section needed).
+
+**Verified, not touched**: `mc_id: 1392` matches `lookup/CC/CC 1000.md` line "1392. 絲" exactly (絲 is 糸's own listed traditional-form alias, not a different character — same-character variant, not a market/city-style false match). `aliases: [絲, 丝]` left as-is, plausible and unverified-but-not-contradicted.
+
+Next: 88 (回), 91 (会), 92 (米), 93 (耳), 94 (地), continuing ascending by `danayo_id`.
