@@ -67,3 +67,23 @@ Next never-perfected character by `danayo_id` (88). Stamped `date-last-perfect: 
 **Incidental fix**: `words/挽回.md`'s `english` field had a typo, "retreive" → "retrieve."
 
 Next: 91 (会), 92 (米), 93 (耳), 94 (地), continuing ascending by `danayo_id` (89/次 and 90/先 already stamped from an earlier, unlogged session).
+
+### 2026-07-22, iteration 4 — [[characters/会 (char)|会]]
+
+Next never-perfected character by `danayo_id` (91). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos:` (no value at all) → `事詞`, matching its real behavior as an action/eventive root across its compounds (会議, 会話, 会社 etc. all build on a "to meet/gather" action sense). `graphemic_classification: 會意` already correct — kept.
+
+**Content removed**: none.
+
+**Body defects found**: `# Notes` was the wrong heading level (H1 instead of H2) and had no real graphemic-classification prose at all — just two floating CC-initial/final links immediately followed by 8 Words entries dumped directly under it, no `## Words` heading anywhere on the page. Several of those 8 entries were bare `[[link]] "gloss,with,no,spaces"` (comma-run glosses, no ruby) rather than proper ruby+quoted-gloss format.
+
+**Words cross-check** (13 total ground-truth hits including the stand-in): 7 already present needed ruby/gloss reformatting; 4 were missing outright — 協会, 教会, 社会, 社会主義 — added, all rubies/glosses from each word's own stored fields. Added the stand-in 会 itself as the first entry (had not been listed).
+
+**Chengyu built from scratch** (1 hit): 一期一会, ruby+gloss pulled verbatim from the chengyu's own stored `注音`/`english` fields.
+
+**Graphemic bullet rewritten from nothing**: 会意 of 亼 ("to converge") over an abbreviated 曾 (a tiered steamer, 曰 omitted) — a lid fitting its vessel, hence "to meet, to join." Neither 亼 nor 曾 has a character page in this vault, so described in prose without a wikilink (same precedent as 気/气, 左/𠂇, 卑/𠂇 in [[Loop Work.md]]). Noted 会 is the Jōyō-simplification of 會, already in the page's own `aliases` — did not link `[[會]]` since no such page exists.
+
+**Derived Characters** (1 hit via `graphemic_classification: 会`): 桧 ("cypress," `guì`/ㄍ⺢ㄧ) — a real, if non-obvious, phonetic pairing: 桧/檜's traditional 形声 analysis derives from 會's *other* Mandarin reading (kuài, as in 会計 "accounting"), not the huì-sense this vault's own Dan'a'yo reading was built from — same "genuine attested relationship despite this vault's own single-sense MC transcription not matching" pattern documented for 母/毎 and 石's phonetic family. Included, not excluded.
+
+Next: 92 (米), 93 (耳), 94 (地), 95 (有), continuing ascending by `danayo_id`.
