@@ -243,3 +243,21 @@ Next never-perfected character by `danayo_id` (102; 100/虫 and 101/向 already 
 **Derived Characters** (2 hits via `graphemic_classification: 名`): 酩 ("drunk; intoxicated") and 銘 ("inscription") — both exact `注音` matches (ㄇㄝㄫ), a clean phonetic pair.
 
 Next: 103 (西), 104 (全), 105 (灯), 107 (百), continuing ascending by `danayo_id` (106 already stamped on inspection).
+
+### 2026-07-22, iteration 13 — [[characters/西|西]]
+
+Next never-perfected character by `danayo_id` (103). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `名詞`. `graphemic_classification: 象形` already correct, and the existing bullet was already good encyclopedic content (a genuinely disputed etymology, both sides cited) — kept verbatim.
+
+**Content removed**: a literal duplicate — the "abbreviation for seaborgium" note ([[西博金]]) was written out twice, once as a stray Notes bullet 2 and again as a proper Words entry at the bottom. Dropped the Notes-bullet copy, kept the Words entry (same "relocate periodic-table trivia into Words, don't keep it in Notes" pattern as [[characters/多 (char)|多]]'s gadolinium note earlier this loop).
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links sat inside the Words list; several entries were bare `[[link]] "gloss"` or `[[link]]`-only with no ruby (西班牙, 西端, 西瓜, 西北, 西蔵).
+
+**Words cross-check** (20 total ground-truth hits, using the precise pattern refined last iteration): 9 already listed in some form (reformatted); 8 missing — the stand-in compound 西方 itself, 東西, 西部, 大西洋, 新西蘭, 西班牙語, 馬来西亜, 印度尼西亜 — added, all from stored fields.
+
+**Chengyu built from scratch** (2 hits): 古今東西, 東奔西走 — ruby/gloss from stored fields.
+
+**Derived Characters** (1 hit via `graphemic_classification: 西`): 茜 ("madder," a red dye plant) — exact `注音` match (ㄑㄝㄋ is the Dan'a'yo reading tied to the same MC series), added.
+
+Next: 104 (全), 105 (灯), 107 (百), 109 (早), continuing ascending by `danayo_id` (108 already stamped on inspection).
