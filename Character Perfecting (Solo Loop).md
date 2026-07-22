@@ -549,3 +549,19 @@ Next never-perfected character by `danayo_id` (124). Stamped `date-last-perfect:
 **Body defects found**: no SKIP/Stroke/Levels bullets existed; two floating CC-initial/final links had no MC-rank bullet to embed in.
 
 **Words cross-check** (1 total ground-truth hit, the smallest page this loop has done): the `stand_in` compound 研究 itself was entirely unlisted — added, ruby/gloss from its own stored fields. No chengyu hits, no `graphemic_classification: 究` hits.
+
+### 2026-07-22, iteration 31 — [[characters/君 (char)|君]]
+
+Next never-perfected character by `danayo_id` (125). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 代詞`, `graphemic_classification: 尹`).
+
+**Content removed**: none.
+
+**Body defects found**: `## Words` sat before a wrongly-ordered `## Notes`, which held only two floating CC-initial/final links plus two more Words-style entries misplaced inside it — no graphemic/SKIP-Stroke/MC/Levels bullets existed at all.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 030|口]] ("mouth," to issue commands) + phonetic [[尹]] ("to govern," a hand holding a scepter of authority) — one who governs by command, "ruler, you (respectful)."
+
+**Words cross-check** (8 total ground-truth hits): 4 already listed across the two sections (consolidated under one `## Words`); 4 missing — the stand-in 君 itself, 君子, 君等, 君臣 — added, all from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 君`): 郡 ("county; prefecture") and 群 ("flock; crowd") — both exact `注音` matches, added.
