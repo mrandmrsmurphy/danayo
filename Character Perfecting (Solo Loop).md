@@ -485,3 +485,21 @@ Next never-perfected character by `danayo_id` (119). Stamped `date-last-perfect:
 **Verification only**: confirmed `mc_id: 3650` against `lookup/CC/CC 3000.md` ("3650. 住"). Words cross-check (2 total ground-truth hits: 居住, 住宅) found both already present and correctly formatted — no changes needed there. No chengyu hits, no `graphemic_classification: 住` hits.
 
 Next: continuing ascending by `danayo_id` from 120 (何).
+
+### 2026-07-22, iteration 27 — [[characters/何 (char)|何]]
+
+Next never-perfected character by `danayo_id` (120; tagged `#correlative`). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `代詞` — not a guess: `words/何.md`'s own already-set `pos: 代詞` gave direct precedent, and matches its real function as an interrogative pronoun (distinct from 此/其/彼/皆/毎/某, whose own word files all use `修飾語` — 何 is the odd one out in the correlative row, and the corpus already encodes that distinction).
+
+**Content removed**: none.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links plus one Words-style entry (何故) — no `## Words` heading, no graphemic/SKIP-Stroke/MC/Levels bullets.
+
+**Graphemic bullet written from scratch**: 形声, semantic 人 ("person") + phonetic [[可 (char)|可]] — originally depicted a person carrying a load (the sense later split off and written 荷), borrowed for the interrogative "what."
+
+**Words cross-check** (13 total ground-truth hits, another full correlative-row page — this vault's grammar file, [[grammar/文法 - 97品詞]], turns out to define a large cross-cutting table of `X` + {此/其/彼/何/毎/某/皆} rows, of which 事/物/名/処/時/様/多/類 all separately surface as their own head characters — 何 is the interrogative column of that same table, explaining why so many of these correlative-family character pages keep recurring this loop): 1 already listed (何故); 12 missing — the stand-in 何 itself, 何事, 何人, 何処, 何名, 何多, 何時, 何様, 何物, 何類, 如何, 幾何学 — added, all from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 何`): 河 ("stream") and 荷 ("luggage," fittingly the character that inherited 何's original "carry a load" sense) — both exact `注音` matches, added.
+
+**Loop status**: 27 iterations completed, one skip ([[characters/両 (char)|両]]).
