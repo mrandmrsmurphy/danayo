@@ -105,3 +105,23 @@ Next never-perfected character by `danayo_id` (92). Stamped `date-last-perfect: 
 **Derived Characters** (1 hit via `graphemic_classification: 米`): 迷 ("be lost; be confused") — exact `注音` match (ㄇㄝㄧ both), a clean phonetic pair, added.
 
 Next: 93 (耳), 94 (地), 95 (有), 96 (当), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 6 — [[characters/耳 (char)|耳]]
+
+Next never-perfected character by `danayo_id` (93). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter fixed**: `japanese_native` had the same malformed-YAML shape as [[characters/糸|糸]] two iterations ago (bare scalar `みみ` plus a stray duplicate `- みみ` list item) — collapsed to a proper single-item list. `pos: 名詞` and `graphemic_classification: 象形` were already correct.
+
+**Content removed**: none.
+
+**Body defects found**: only one Notes bullet existed (terse, "an ear"); no SKIP/Stroke/MC/Levels bullets. Two floating CC-initial/final links sat inside the Words list rather than embedded in an MC bullet. Several Words entries were bare `[[link]] "gloss"` with no ruby (耳根, 耳朶, 耳目), and one (巻耳) had ruby but no gloss.
+
+**Words cross-check** (8 total ground-truth hits including the stand-in): 5 already present in some form, needing ruby/gloss fixes; 3 missing — the stand-in 耳 itself, 中耳, 日耳曼 — added, all fields from each word's own stored `注音`/`english`.
+
+**Chengyu built from scratch** (1 hit): 愛主耳錐 (Bible-origin), ruby+gloss from its own stored fields.
+
+**Derived Characters — 3 included, 1 deliberately excluded and flagged instead of decided**: `graphemic_classification: 耳` hits 4 characters (恥, 茸, 餌, 摂). Verified 恥 (心+耳, OC *n̥ʰɯːʔ vs *nɯʔ, textbook match), 茸 (艸+耳, shared nasal-initial family, standard Shuowen 从艸耳聲), and 餌 (食+耳, identical Mandarin/MC to 耳 itself) as genuine, well-documented phonetic derivatives — all three added. **`characters/摂 (char).md` excluded, not silently fixed**: its real traditional phonetic component is 聶 ("whisper," itself built from three 耳 but with no character page of its own in this vault, so unlinkable even if used), not 耳 directly — 摂's own stored MC (`n`+`ep`) tracks 聶's reading family, not 耳's (`ȵ`+`ɨ`), and its Mandarin `shè` is unrelated to `ěr`. This looks like the same "wrong-character-named-as-phonetic" error class as [[千]]'s old `遷`-vs-`人` bug, but fixing another character's own frontmatter is out of scope for perfecting 耳's page — left 摂's file untouched and excluded it from 耳's Derived Characters rather than guessing either way. Worth a dedicated look in a future iteration when 摂 itself comes up by `danayo_id`.
+
+**Graphemic bullet**: expanded from a two-word stub ("an ear") into a full sentence per the 象形 template.
+
+Next: 94 (地), 95 (有), 96 (当), 97 (行), continuing ascending by `danayo_id`.
