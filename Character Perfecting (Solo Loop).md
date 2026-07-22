@@ -143,3 +143,23 @@ Next never-perfected character by `danayo_id` (94), and the largest page this lo
 **Derived Characters** (5 hits via `graphemic_classification: 也`, excluding 地 itself): 他, 池, 馳, 弛, 施 — all members of the well-known, uncontroversial 也-phonetic family (yě → tā/chí/chí/chí/shī), no individual verification needed beyond confirming each hit was real.
 
 Next: 95 (有), 96 (当), 97 (行), 98 (両), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 8 — [[characters/有 (char)|有]]
+
+Next never-perfected character by `danayo_id` (95). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `系詞` (Copula) — confident call, not a guess: [[grammar/文法 - 97品詞]] explicitly lists 有 ("to have") as one of the six closed-class copula words (是/非/有/無/在/莫), so this is the one pos value with direct textual backing rather than inferred from gloss alone.
+
+**Content removed**: none — but a real content *error* was fixed, not just reformatted (see below).
+
+**Real etymology bug found and fixed**: the existing graphemic bullet read "形声: semantic 又 ('meat') + phonetic 肉 (OC \*ɢʷɯs)" — this has the semantic/phonetic roles and glosses backwards. 又 means "hand," not "meat" (肉 means "meat"); and the OC reconstruction `*ɢʷɯs` cited for "phonetic 肉" is actually 又's own OC reading (肉's real OC is an unrelated entering-tone form). The vault's own `graphemic_classification: 又` field was already correct (又 genuinely is 有's phonetic component per Wiktionary — OC \*ɢʷɯʔ vs \*ɢʷɯs, near-identical), it was only the body prose that had the labels swapped. Corrected to: semantic [[Radical 074|月]] ("meat," an old form of 肉, matching 有's own `radical: 月` field) + phonetic 又 ("hand; again") — "grasping meat in the hand" → "to have, to possess." 又 has no character page of its own but is Radical 029; linked as bare `又` text rather than `[[Radical 029|又]]` since — unlike a case where a component visually *is* the radical shape being depicted — 有's own `radical:` field is 月, not 又, so 又 here is just the phonetic, described in prose without forcing a radical link that doesn't match this page's own radical assignment.
+
+**Body defects found**: no SKIP/Stroke/Levels bullets existed; two floating CC-initial/final links sat inside the Words list instead of an MC bullet; one Words entry (希有) used a dash instead of a quoted gloss.
+
+**Words cross-check** (10 total ground-truth hits including the stand-in and one inline-array blind spot): 5 already listed (needing ruby/gloss fixes); 4 missing — 共有, 占有, 固有, 所有 — added. **Second inline-array `characters:` field found this loop** (after [[characters/地 (char)|地]]'s 窪地 last iteration): `words/有机.md` stores `characters: ["有 (char)", 机]`, invisible to a plain-list grep — caught it, added 有机 to the Words list. Worth treating this as a recurring, not incidental, blind spot in ground-truth searches going forward.
+
+**Derived Characters** (4 hits via `graphemic_classification: 又`, excluding 有 itself): 右 (already independently Wiktionary-verified in an earlier iteration per [[Loop Work.md]]), 友, 尤, 馭 — all cluster in the same OC neighborhood as 又/有 itself (\*ɢʷɯ-family), a well-attested phonetic series. Added all four.
+
+**Incidental fix**: `characters/尤.md`'s `english` field had a typo, "particularlly" → "particularly."
+
+Next: 96 (当), 97 (行), 98 (両), 99 (死), continuing ascending by `danayo_id`.
