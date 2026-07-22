@@ -163,3 +163,23 @@ Next never-perfected character by `danayo_id` (95). Stamped `date-last-perfect: 
 **Incidental fix**: `characters/尤.md`'s `english` field had a typo, "particularlly" → "particularly."
 
 Next: 96 (当), 97 (行), 98 (両), 99 (死), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 9 — [[characters/当 (char)|当]]
+
+Next never-perfected character by `danayo_id` (96). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `性詞`, matching its adnominal/modal behavior across compounds (当然 "of course," 相当 "considerable," 妥当 "appropriate" all read adjectivally or adverbially rather than as a transitive action). `graphemic_classification: 尚` already correct — confirmed via the standard 形声 analysis (semantic 田 + phonetic 尚).
+
+**Content removed**: a stray empty bullet (`-` with nothing after it) sitting right after a lone, out-of-place Levels-only bullet (`[Korean MS](...)` with no companions) — both replaced by the full four-bullet structure.
+
+**Body defects found**: Notes had only a single bare Levels-link bullet plus the empty stray bullet — no graphemic/SKIP-Stroke/MC content at all. Two floating CC-initial/final links sat inside the Words list instead of an MC bullet. Several Words entries were bare `[[link]] "gloss,with,commas"` instead of ruby+semicolon-joined gloss.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[田]] ("field," matching plots of equal size) + phonetic [[尚 (char)|尚]] — "two fields of equal value facing each other," extended to "correspond to, be equal to, ought." Note: 当's own `radical:` field is 小 (a modern-glyph dictionary classification, not part of the real etymology, same non-forcing treatment as [[characters/会 (char)|会]]'s unrelated 人-radical two iterations ago) — did not link it since it plays no role in the actual derivation.
+
+**Words cross-check** (14 total ground-truth hits including the stand-in): 4 already listed (reformatted); 9 missing — 当然, 当世, 当代, 当年, 当日, 当月, 当週, 当世紀, 不当 — added. **Third inline-array `characters:` blind spot this loop** (after 窪地 and 有机): `words/妥当.md` stores `characters: [妥, "当 (char)"]` — caught via a broader secondary grep (search for the raw glyph anywhere in the file, then confirm via the `characters:` block, rather than relying solely on the strict per-line list pattern) — this is now the third hit of the same shape in three consecutive iterations, confirming it's a systemic, not incidental, gap in a plain-list-only ground-truth search. No chengyu hits.
+
+**Derived Characters** (6 hits via `graphemic_classification: 尚`): 賞, 党, 嘗, 堂, 掌, 常 — a large, standard, uncontroversial 尚-phonetic family, all added without individual dispute.
+
+**Incidental fix**: `words/当代.md`'s `english` field had a typo, "contempory" → "contemporary."
+
+Next: 97 (行), 98 (両), 99 (死), 102 (名), continuing ascending by `danayo_id` (100, 101 were already stamped on inspection).
