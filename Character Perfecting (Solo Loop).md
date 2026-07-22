@@ -87,3 +87,21 @@ Next never-perfected character by `danayo_id` (91). Stamped `date-last-perfect: 
 **Derived Characters** (1 hit via `graphemic_classification: 会`): 桧 ("cypress," `guì`/ㄍ⺢ㄧ) — a real, if non-obvious, phonetic pairing: 桧/檜's traditional 形声 analysis derives from 會's *other* Mandarin reading (kuài, as in 会計 "accounting"), not the huì-sense this vault's own Dan'a'yo reading was built from — same "genuine attested relationship despite this vault's own single-sense MC transcription not matching" pattern documented for 母/毎 and 石's phonetic family. Included, not excluded.
 
 Next: 92 (米), 93 (耳), 94 (地), 95 (有), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 5 — [[characters/米 (char)|米]]
+
+Next never-perfected character by `danayo_id` (92). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `名詞` (a concrete noun, "rice"). `graphemic_classification: 象形` already correct — matches a straightforward, uncontested pictograph.
+
+**Content removed**: none.
+
+**Body defects found**: `# Notes` was the wrong heading level and held no actual content — it was immediately followed by `## Words` with no Notes bullets at all. Two floating CC-initial/final links sat in the middle of the Words list rather than embedded in an MC-rank bullet (which didn't exist). No SKIP/Stroke/Levels bullets existed either.
+
+**Words cross-check** (7 total ground-truth hits): 3 already listed (one, 玄米, as a bare dash-gloss instead of ruby format); 4 missing — 米飯, 玄米茶, 千米, 毫米 — added, all rubies/glosses from each word's own stored fields. Added the stand-in 米 itself, which hadn't been listed. No chengyu hits.
+
+**Graphemic bullet written from scratch**: standard 象形 template — scattered grains of husked rice around a central cross, following the checklist's List-of-象形 opening format.
+
+**Derived Characters** (1 hit via `graphemic_classification: 米`): 迷 ("be lost; be confused") — exact `注音` match (ㄇㄝㄧ both), a clean phonetic pair, added.
+
+Next: 93 (耳), 94 (地), 95 (有), 96 (当), continuing ascending by `danayo_id`.
