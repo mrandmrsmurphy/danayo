@@ -519,3 +519,33 @@ Next never-perfected character by `danayo_id` (121; `stand_in: 男人`, already 
 **Graphemic bullet written from scratch**: 会意 of [[Radical 102|田]] ("field") and [[力 (char)|力]] ("strength") — one who exerts strength in the field.
 
 **Words cross-check** (4 total ground-truth hits): 3 already listed (男性, 男優, 男爵 — all reformatted); 1 missing — the `stand_in` compound 男人 itself — added. No chengyu hits, no `graphemic_classification: 男` hits.
+
+### 2026-07-22, iteration 29 — [[characters/対|対]]
+
+Next never-perfected character by `danayo_id` (123; 122 already stamped on inspection). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 象形`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch, deliberately hedged**: 對/対's real etymology is genuinely contested across sources (many classify it as 会意 — a hand holding a ritual tool or plant-stand — rather than a straightforward 象形 pictograph), and the vault's own stored `graphemic_classification: 象形` commits to the pictographic reading without further detail to go on. Rather than assert a specific, possibly-wrong disputed account, wrote a modest description consistent with the stored classification without overclaiming precise oracle-bone details — same restrained-wording approach as [[characters/早 (char)|早]] and [[characters/走 (char)|走]] earlier this loop, not a full "questionable, skip" case since the field itself wasn't contradicted by anything already on the page.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links plus one Words-style entry (対称) misplaced inside it; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (10 total ground-truth hits): 4 already listed (相対, 対外, 対照, 七対子); 6 missing — the `stand_in` compound 反対 itself, 対応, 対象, 対連, 絶対, plus 対称 relocated out of Notes into a proper Words entry — added, all from stored fields.
+
+**Chengyu built from scratch** (1 hit): 対牛弾琴, ruby/gloss from stored fields. No `graphemic_classification: 対` hits — no Derived Characters section applies.
+
+### 2026-07-22, iteration 30 — [[characters/究|究]]
+
+Next never-perfected character by `danayo_id` (124). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 九`, already matching a pre-existing, mostly-correct bullet).
+
+**Content removed**: none.
+
+**Small fix**: the existing graphemic bullet had a syntax slip — a stray/mismatched parenthesis ("形声: OC \*kus): semantic...") and a bare `[[九 (char)]]` link that would have displayed the literal filename "九 (char)" instead of the character. Fixed the parenthesis and added the pipe-alias (`[[九 (char)|九]]`, needed since `words/九.md` exists and collides). Added a brief dash-note on the semantic motivation (probing to the bottom of a cave → investigate thoroughly), matching the checklist's template.
+
+**Body defects found**: no SKIP/Stroke/Levels bullets existed; two floating CC-initial/final links had no MC-rank bullet to embed in.
+
+**Words cross-check** (1 total ground-truth hit, the smallest page this loop has done): the `stand_in` compound 研究 itself was entirely unlisted — added, ruby/gloss from its own stored fields. No chengyu hits, no `graphemic_classification: 究` hits.
