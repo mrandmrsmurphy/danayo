@@ -183,3 +183,21 @@ Next never-perfected character by `danayo_id` (96). Stamped `date-last-perfect: 
 **Incidental fix**: `words/当代.md`'s `english` field had a typo, "contempory" → "contemporary."
 
 Next: 97 (行), 98 (両), 99 (死), 102 (名), continuing ascending by `danayo_id` (100, 101 were already stamped on inspection).
+
+### 2026-07-22, iteration 10 — [[characters/行 (char)|行]]
+
+Next never-perfected character by `danayo_id` (97) — already had frontmatter and all four Notes bullets in reasonable shape, so this iteration was mostly a Words/Chengyu gap-fill. Stamped `date-last-perfect: 2026-07-22`.
+
+**Content removed**: a stale leftover line, "- Components: [[彳]], [[亍]]," sitting above the real, already-correct 指事 bullet — redundant with (and superseded by) the prose bullet directly below it; neither 彳 nor 亍 has a character page in this vault, so the line wasn't even a resolvable link. Dropped rather than merged, since the real bullet already covers the same "crossroads" etymology in full prose.
+
+**Small format fix**: the graphemic bullet's own link read `[指事](lookup/List%20of%20指事.md)` — display text was the bare label instead of the canonical "List of 指事" used everywhere else in the checklist (see [[characters/本 (char)|本]] for the correct precedent) — corrected the display text without touching the link target.
+
+**False alarm caught before editing anything**: `chengyu/修飾先行.md`'s `characters:` field looked like it was missing `行 (char)` entirely on a first `grep -A3` pass (only showed 修/飾/先) — before "fixing" it, re-read the full field and found a 4th line, `行 (char)`, that the truncated grep had simply cut off. No bug existed; worth remembering not to trust a length-limited grep as proof of an omission, always read the actual full field before editing another file based on it.
+
+**Words cross-check** (25 total ground-truth hits including the stand-in, found via a broader glyph-then-field search after the plain-list grep undercounted): 7 already listed (航行, 行動, 行列, 矮行星, 小行星帯, 行伝, 行政 — the latter three already fine, 行動/行列 needed ruby+quote-gloss fixes); 18 missing — 行 itself, 旅行, 飛行, 銀行, 行事, 通行, 通行証, 進行, 運行, 執行, 施行, 刊行, 随行, 爬行, 五行, 行星, 小行星, 飛行机 — added, all fields from each word's own stored `注音`/`english`.
+
+**Chengyu cross-check** (5 total): 2 already present (令行禁止's gloss corrected from an old paraphrase, "what is commanded is done, what is forbidden is not," to the chengyu file's actual stored `english`, "total command discipline" — same never-paraphrase discipline as [[Loop Work.md]]'s repeated near-miss warnings; 修飾先行 already fine); 3 missing — 言行一致, 諸行無常, 腹行食塵 (the last two Bible/classical-origin) — added.
+
+**Derived Characters** (3 hits via `graphemic_classification: 行`): 桁 ("beam"), 衡 ("weigh; measure"), 荇 ("Limnanthemum nymphoides," a water plant) — a standard, well-attested 行-phonetic family (héng/xíng), all added.
+
+Next: 98 (両), 99 (死), 102 (名), 103 (西), continuing ascending by `danayo_id`.
