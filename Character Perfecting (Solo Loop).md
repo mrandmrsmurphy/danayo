@@ -261,3 +261,21 @@ Next never-perfected character by `danayo_id` (103). Stamped `date-last-perfect:
 **Derived Characters** (1 hit via `graphemic_classification: 西`): 茜 ("madder," a red dye plant) — exact `注音` match (ㄑㄝㄋ is the Dan'a'yo reading tied to the same MC series), added.
 
 Next: 104 (全), 105 (灯), 107 (百), 109 (早), continuing ascending by `danayo_id` (108 already stamped on inspection).
+
+### 2026-07-22, iteration 14 — [[characters/全 (char)|全]]
+
+Next never-perfected character by `danayo_id` (104). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 會意`).
+
+**Content removed — a fabricated Derived Characters entry**: the old `### Derived Characters` list included "銓 --> 選," but `characters/銓.md` doesn't exist anywhere in this vault, and `characters/選.md`'s own real phonetic component is 巽, not 全 at all — the note was simply wrong on both ends, same "names a character that isn't actually the phonetic donor" error class as [[characters/千|千]]'s old 遷-vs-人 bug earlier in this vault's history. Dropped entirely rather than carried forward; rebuilt the section from the real `graphemic_classification: 全` hits instead (詮, 栓 — both genuine).
+
+**Graphemic bullet rewritten**: the old bullet mislabeled [[入]] ("enter") with the gloss "jade" — 玉/王 means "jade," not 入. A second, separate bullet further down correctly identified the real components (入 + 王, with a shinjitai note that the top can look like 人) but was merged awkwardly into the SKIP/Stroke/syllable bullet as trailing prose. Consolidated into one correct bullet: 会意 of [[Radical 011|入]] ("enter") + 王 (a form of [[王 (char)|王]], "jade," dotless) — jade brought whole, extended to "whole, complete" — keeping the genuine shinjitai note about the 人-vs-入 top-stroke ambiguity.
+
+**Body defects found**: bullets were out of canonical order (Levels bullet before the MC/SKIP content); two floating CC-initial/final links sat after the merged bullet instead of embedded in a proper MC-rank bullet; `### Derived Characters` was H3 and positioned before Words instead of after Chengyu (no Chengyu section applies here — zero hits).
+
+**Words cross-check** (8 total ground-truth hits): 3 already listed (needing ruby/gloss fixes); 5 missing — the stand-in 全 itself, 全部, 完全, 安全, 全盛 — added, all from stored fields. No chengyu hits.
+
+**Incidental fixes**: `words/全体.md` and `words/全部.md` both had the identical typo "entirity" → "entirety" in their `english` fields.
+
+Next: 105 (灯), 107 (百), 109 (早), 110 (足), continuing ascending by `danayo_id` (106/108 already stamped on inspection).
