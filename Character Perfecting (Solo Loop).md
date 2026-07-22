@@ -201,3 +201,23 @@ Next never-perfected character by `danayo_id` (97) — already had frontmatter a
 **Derived Characters** (3 hits via `graphemic_classification: 行`): 桁 ("beam"), 衡 ("weigh; measure"), 荇 ("Limnanthemum nymphoides," a water plant) — a standard, well-attested 行-phonetic family (héng/xíng), all added.
 
 Next: 98 (両), 99 (死), 102 (名), 103 (西), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 11 — skipped [[characters/両 (char)|両]], perfected [[characters/死|死]]
+
+**Skipped 98 (両)**: this page is exactly the case already flagged in [[AIOS/projects.md]] as an unresolved cross-sense conflation — its `cantonese` field and alias list bundle together at least two genuinely distinct senses/characters (両/兩 "two, both," reading loeng5, vs. 両-as-"tael"/currency unit, reading loeng2; plus 魎/魉 "demon," a different word entirely, folded in via a 借代字 note). A prior session explicitly deferred this as "a genuine character-level disambiguation question for a dedicated pass, not something to silently fix by breaking the compounds." Per this loop's standing rule to skip anything questionable or decision-requiring rather than guess, moved on without touching the file.
+
+**Perfected 99 (死) instead.** Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already complete (`pos: 性詞`, `graphemic_classification: 會意` already correct).
+
+**Content removed**: a bare `[[死体]]` Words entry — `words/死体.md` does not exist anywhere in the vault (confirmed by direct file check), so this was a broken link to a word that was never created, not a formatting slip on an existing page. Removed rather than left dangling or invented; 死骸 already covers the same "corpse" concept with a real file.
+
+**Body defects found**: the Notes section held only a single (genuinely useful) grammar/valency note about Classical Chinese direct-object marking vs. Dan'a'yo's postposition 于 requirement — none of the four canonical bullets existed. Kept the valency note as a fifth, trailing bullet rather than discarding real content that doesn't fit the four-bullet template, and built the four canonical bullets in front of it. No `## Chengyu` section existed despite 2 real hits.
+
+**Graphemic bullet written from scratch**: 会意 of [[Radical 078|歹]] ("death; remains of stripped bone") and 人 ("person," kneeling/bowing) — a mourner beside the dead.
+
+**Words cross-check** (8 total ground-truth hits): 4 already listed (needing ruby/gloss fixes, plus the broken 死体 entry removed); 4 missing — 生死, 起死, 死亡率, 死亡人数 — added, all from stored fields. `生死` was found only via the broader glyph-then-field search, not the plain-list grep — a fourth instance of the inline-array blind spot this loop keeps running into.
+
+**Chengyu built from scratch** (2 hits): 起死回生 (ruby/gloss reused from [[characters/回 (char)|回]]'s own already-perfected entry) and 剣生剣死 — first drafted both the ruby and gloss for the latter from memory/inference before checking the actual stored `注音`/`english` fields and correcting both; caught before finalizing, same near-miss class flagged repeatedly in [[Loop Work.md]]. No `graphemic_classification: 死` hits — no Derived Characters section applies.
+
+Next: 102 (名), 103 (西), 104 (全), 105 (灯), continuing ascending by `danayo_id` (98/両 left unstamped, skipped per above).
