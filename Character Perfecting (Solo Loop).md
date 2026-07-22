@@ -295,3 +295,21 @@ Next never-perfected character by `danayo_id` (105). Stamped `date-last-perfect:
 **Words cross-check** (4 total ground-truth hits, a small page): 2 already listed (灯籠 fine, 灯心's link fixed); 2 missing — the stand-in 灯 itself and 電灯 — added. No chengyu hits, no `graphemic_classification: 灯` hits (no Derived Characters section applies).
 
 Next: 107 (百), 109 (早), 110 (足), continuing ascending by `danayo_id`.
+
+### 2026-07-22, iteration 16 — [[characters/百 (char)|百]]
+
+Next never-perfected character by `danayo_id` (107). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: blank `pos: ""` → `数詞` (Numeral) — direct precedent from [[characters/千|千]], the already-perfected sibling numeral character, not a guess from gloss alone.
+
+**Content removed**: a stray `### Links` section with a `![[nav/Numerals]]` embed at the very bottom of the page — checked against 千's own already-perfected character page (a genuine numeral, same category as 百) and confirmed it carries no such section at all. This embed is a word-page-template convention (see [[Word Perfecting.md]] iteration 3, where the same embed was caught and removed from a *word* page that wasn't even a numeral) that had leaked onto this *character* page where it doesn't belong on either page type. Removed rather than kept.
+
+**Caught before shipping — a second fabricated-OC near-miss, same class as [[characters/灯 (char)|灯]] last iteration**: first drafted the graphemic bullet with invented Old Chinese forms for both 百 and its phonetic 白 (`*praːɡ`/`*braːɡ`) to fit the checklist template, without a verified source. Checked 白's own stored Middle Chinese fields instead (`b` + `ɣæk`, vs. 百's own `p` + `ɣæk`) — a confirmed, regular voiceless/voiced initial alternation on an identical rime — and rewrote the bullet to cite that verified MC-level match rather than invented OC symbols. Worth treating this as a standing rule now, not a one-off: when the real OC reconstruction isn't already sourced somewhere in the vault, fall back to the character's own stored MC fields rather than fabricate a citation.
+
+**Body defects found**: `## Notes` held only two floating CC-initial/final links, no other bullets. Several Words entries were bare `[[link]] "gloss"` with no ruby (百, 百済, 百科).
+
+**Words cross-check** (14 total ground-truth hits): 8 already listed (reformatted); 6 missing — 一百, 七百, 八百, 百事, 百分率, 百科事典 — added, all from stored fields.
+
+**Chengyu built from scratch** (2 hits): 百家共承 (単亜語-origin) and 百聞不如一見, ruby/gloss from stored fields. No `graphemic_classification: 百` hits — no Derived Characters section applies.
+
+Next: 109 (早), 110 (足), continuing ascending by `danayo_id`.
