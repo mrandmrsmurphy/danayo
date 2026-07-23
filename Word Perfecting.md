@@ -513,3 +513,53 @@ Swadesh #86 ("intestine"). Stamped `date-last-perfect: 2026-07-22`.
 **Incidental fixes**: reformatted `characters/腸.md`'s bare `[[腸管]]` entry to ruby form with the stand-in note; added a missing `## Words` backlink entry to `characters/管.md`.
 
 Next: #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 43 — [[words/頚|頚]]
+
+Swadesh #87 ("neck"). Stamped `date-last-perfect: 2026-07-22`. Second single-character self-standing word this sweep (after [[目]]) — `characters/頚 (char).md`'s own `stand_in` is bare `頚` itself.
+
+**Real `kwin` bug caught**: stored `true`, but should simply match `characters/頚 (char).md`'s own `kwin: false` exactly, since word and character are identical here — Dan'a'yo 깅 (ging) and Korean 경 (gyeong) diverge in vowel/coda, so `false` is correct. Corrected `true`→`false`.
+
+**Frontmatter cleanup**: filled previously-blank `korean` (`경`) and `vietnamese` (`cảnh`, verified via search as the real Sino-Vietnamese reading — specifically the front of the neck, as opposed to 項/hạng for the nape) by inheriting/confirming against the character's own stored fields. `characters: 頚 (char)` bare scalar converted to a list.
+
+**Register-narrowing finding**: Mandarin/Cantonese/Vietnamese all use this reading productively and independently for "neck," but Japanese and Korean both strongly prefer native words in everyday speech (くび, 목), reserving the Sino-Xenic reading for technical/medical compounds (頚椎/경추, "cervical vertebra").
+
+No homophones (`注音: ㄍㄧㄫ` unique to this file). No character-page backlink needed — this is a self-standing single-character word, not a compound.
+
+Next: #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 44 — [[words/胸部|胸部]]
+
+Swadesh #89 ("chest"). Stamped `date-last-perfect: 2026-07-22`. A clean iteration.
+
+**Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block indent. Removed blank `hsk_level:` and empty `aliases:`. Filled `vietnamese` with the honest compositional `hung bộ` — `hung` alone is confirmed real Sino-Vietnamese (胸襟 hung khâm, "breadth of mind"; 胸次 hung thứ) but the everyday, essentially universal word for the body part is native `ngực`, documented in prose.
+
+**No internal Dan'a'yo derivation bug** — `羅馬字`/`諺文`/`注音` (`hyongbou`/횽봇/ㄏ⼄ㄫㄅㄛㄨ) already matched both characters. `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+**Stand-in note applied**: `characters/胸.md`'s own `stand_in` field is `胸部` — added "— stand-in for [[胸]], which cannot appear independently." (部's own `stand_in` is bare `部` — no note on that side.)
+
+**Register-narrowing finding**: Mandarin/Cantonese/Japanese/Korean all use this compound as the standard clinical/formal register term, each alongside an everyday native alternative for casual speech (Japanese bare 胸/むね, Korean 가슴).
+
+**Incidental fixes**: added missing `## Words` backlinks to both `characters/胸.md` (had none) and `characters/部 (char).md` (had a large bare, unformatted list with no ruby anywhere — added just this one entry in proper form, left the rest untouched as character-sweep territory).
+
+No homophones (`注音: ㄏ⼄ㄫㄅㄛㄨ` unique to this file).
+
+Next: #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 45 — [[words/心臓|心臓]]
+
+Swadesh #90 ("heart, organ"). Stamped `date-last-perfect: 2026-07-22` (previously had no stamp at all).
+
+**Frontmatter cleanup**: blank `pos:` filled to `名詞`; quoted `"心 (char)"` in the `characters` list for consistency. `kwin: true` already correct per the AND-rule (both `characters/心 (char).md` and `characters/臓.md` are individually `true`) — and here, unlike [[長牙]]/[[指甲]]'s ambiguous cases, this compound's Korean 심장 is an unambiguous, extremely common real word for "heart," so the AND-rule result is directly confirmed.
+
+**Homophone reformatted, not newly found**: the page already informally flagged (via a misplaced `[!warning]`/`[!tip]` line before the meta-bind-embed, on both this page and its partner) that this word is an exact homophone of [[深長]] "long and deep; profound" (`注音`/`羅馬字`/`諺文` all identical: ㄙㄧㄇㄐㄚㄫ/simjang/심장) — converted both pages to the standard `[!warning] Homophones` callout in the correct position. `深長.md` itself remains otherwise unperfected (blank `pos`/`vietnamese`/`hsk_level`/`swadesh`, empty `aliases: []`) — flagged, not otherwise fixed, same minimal-touch precedent as every prior homophone cluster this sweep.
+
+**Genuine Vietnamese doublet, not a bug**: kept the field value `tim` (concrete, anatomical "heart as an organ") as-is — `characters/心 (char).md`'s own `vietnamese` field separately lists both `tim` and `tâm` (the more abstract "heart/mind," as in tâm hồn "soul") as two historically distinct layers of borrowing from the same character, split by sense/register rather than being alternate spellings of one reading; documented this split explicitly rather than treating it as noise to collapse.
+
+**Small fix**: the opening Notes bullet's character links used bare `characters/X.md` paths (missing the `../` prefix required from within `/words/`) — corrected to `../characters/`.
+
+**Incidental fix**: `characters/臓.md` had an empty `## Words` section (heading present, no entries) — added the ruby backlink. `characters/心 (char).md` already had one, correctly formatted.
+
+No `stand_in` match on either constituent (心's own is bare `心`, 臓's own is `内臓`) — this is an independent compound, not a legitimizer, so no stand-in note.
+
+Next: #91 (肝臓), #99 (呼吸), #104 (思考), ...

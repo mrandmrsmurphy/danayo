@@ -45,6 +45,7 @@ boundedness: 90
 
 - 形声 (OC \*boːʔ, \*boːʔ, \*boːʔ, \*boːʔ): semantic [[咅]] ("") + phonetic [[邑]] (OC \*pʰɯʔ, \*pʰl'oːs).
 ## Words
+- <ruby>[[胸部]]<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby> "chest; thorax"
 - [[北部]]
 - [[腹部]]
 - [[部長]]
