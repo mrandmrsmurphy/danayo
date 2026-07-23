@@ -50,6 +50,7 @@ boundedness: 90
 1326
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 脂A三開]]
+- <ruby>[[比較]]<rt>ㄅㄧㄜㄍㄚㄎ</rt></ruby> "compare"
 - [[比率]] "ratio, rate, frequency"
 - [[比例]] "ratio, proportion"
 - <ruby>[[比較格]]<rt>ㄅㄧㄜㄍㄚㄎㄍㄚㄎ</rt></ruby> "comparative case"

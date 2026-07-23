@@ -2527,3 +2527,41 @@ Ninth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-0
 **Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block form (quoted `"正 (char)"`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
 
 No `stand_in` relationship applies — 正's own `stand_in` is bare `正`, 確's own is `確実` (a different word) — 正確 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄐㄧㄫㄎㄚㄎ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/確.md` (`characters/正 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 222 — [[words/比較|比較]]
+
+Tenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — garbled reading**: `mandarin` comma-jammed three variants (`bǐjiào, bǐjiǎo, bǐ'ào`) — checked against `characters/較.md`'s own stored `jiào`; only `bǐjiào` is attested, and `bǐ'ào` bears no relation to 較's actual reading at all (likely a stray corruption). Kept just `bǐjiào`.
+
+**Stand-in note applied**: `characters/較.md`'s own `stand_in` field is `比較` (this word) — added the standard phrasing. (比's own `stand_in` is bare `比` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+Verified `vietnamese: so sánh` — a native construction rather than a Sino-Vietnamese calque, but genuinely the correct standard term for "to compare," not a fabricated guess. Quoted `hsk_level: "1"`; removed blank `swadesh:`. No homophones (`注音: ㄅㄧㄜㄍㄚㄎ` unique). **Incidental fix**: added missing `## Words` entries (with stand-in note on 較's side) to both `characters/比 (char).md` and `characters/較.md` (both had 比較格 listed but not 比較 itself). Noted but left alone (out of scope, needs classical-Chinese frequency data to complete properly): `characters/比 (char).md`'s own Notes section has a stray bare "1326" fragment, likely an incomplete "Nth most used character" sentence.
+
+### 2026-07-23, iteration 223 — [[words/民族|民族]]
+
+Eleventh word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`. Already close to complete — frontmatter was already fully correct.
+
+**Only fix needed**: added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 民's own `stand_in` is `人民` (a different word), 族's own is `家族` (a different word) — 民族 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄇㄧㄋㄐㄛㄎ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/民.md`; reformatted `characters/族.md`'s existing plain-text entry into ruby form and removed a stray trailing empty bullet.
+
+### 2026-07-23, iteration 224 — [[words/永遠|永遠]]
+
+Twelfth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` inline arrays reformatted to block form. Quoted `hsk_level: "1"`; removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
+
+**Stand-in note applied**: `characters/永.md`'s own `stand_in` field is `永遠` (this word) — added the standard phrasing. (遠's own `stand_in` is bare `遠` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄨㄧㄫㄛㄋ` unique). **Incidental fix**: added missing `## Words` entries with stand-in note to both `characters/永.md` and `characters/遠 (char).md` (neither had listed 永遠 before).
+
+### 2026-07-23, iteration 225 — [[words/決定|決定]]
+
+Thirteenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `決`, but the actual file is `決 (char).md` — corrected. Removed blank `swadesh:` and empty `aliases:`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Stand-in note applied**: `characters/定.md`'s own `stand_in` field is `決定` (this word) — added the standard phrasing. (決's own `stand_in` is bare `決` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/決 (char).md` is `false`, `characters/定.md` is `true` → compound `false`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄎ⼔ㄊㄐㄝㄫ` unique). **Incidental fix**: reformatted `characters/決 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry with stand-in note to `characters/定.md`.
