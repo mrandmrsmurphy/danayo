@@ -1289,3 +1289,31 @@ Filled a previously-blank `vietnamese` field with nỗ lực — a common, real 
 Notable `stand_in` relationship: `characters/努.md`'s own `stand_in` points *to this word* (努力), meaning 努 is a bound morpheme that never appears independently outside this compound — a cranberry-adjacent case. `kwin: false` was already correct per the AND-rule (`characters/努.md` is `kwin: true`, `characters/力 (char).md` is `kwin: false` → compound `false`). All other cross-linguistic fields (mandarin, cantonese, japanese, korean) were already correct, everyday readings. Renamed non-canonical `## Etymology` to `## Notes`; removed blank `aliases: []`.
 
 No homophones (`注音: ㄋㄛㄌㄧㄎ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed this iteration.
+
+### 2026-07-23, iteration 106 — [[words/勝利|勝利]]
+
+Twenty-fourth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `pos` field with 事詞 (verb-like), matching this word's primary living use as a verb ("to win, to triumph"), with secondary noun use ("victory").
+
+Notable `stand_in` relationship: `characters/勝.md`'s own `stand_in` points *to this word* (勝利), another bound-morpheme case like [[努力|努's own stand_in from last iteration]]. `kwin: false` was already correct per the AND-rule (both `characters/勝.md` and `characters/利.md` are individually `kwin: false`). All cross-linguistic fields (mandarin, cantonese, japanese, korean, vietnamese) were already correct, everyday readings. Renamed non-canonical `## Etymology` to `## Notes`; removed blank `aliases: []`.
+
+No homophones (`注音: ㄙㄨㄫㄌㄧㄜ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed this iteration.
+
+### 2026-07-23, iteration 107 — [[words/化学|化学]]
+
+Twenty-fifth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Added the entirely-missing `## Notes` section (the file had only an audio embed and meta-bind before). No `stand_in` relationship applies — 化's own is bare 化, 学's own is 学習 (points elsewhere). `kwin: true` was already correct per the AND-rule (both `characters/化 (char).md` and `characters/学.md` are individually `kwin: true`). All cross-linguistic fields (mandarin, cantonese, japanese, korean, vietnamese) were already correct, everyday readings — no bugs found this iteration.
+
+One prefix-substring false positive ruled out: `化学肥料`'s `注音` (`ㄏ⺢ㄏㄚㄎㄅㄨㄧㄌ⼘ㄨ`) begins with this word's exact string, but it's simply a longer compound built on top of 化学 ("chemical fertilizer" = 化学 + 肥料), not a genuine homophone collision — no callout added, consistent with the sweep's established prefix-substring exclusion rule. Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 108 — [[words/医院|医院]]
+
+Twenty-sixth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Genuine cross-linguistic sense-size difference found and documented, not corrected away**: `english` previously read only "clinic," but Mandarin yīyuàn/Cantonese ji1 jyun6-2 are the ordinary, general-purpose words for "hospital" (any size) — the HSK-relevant primary sense. Japanese いいん and Korean 의원, however, specifically denote a small private clinic/practice, legally distinguished from 病院/병원 ("hospital," 20+ beds) — verified via search. Corrected the English gloss to lead with "hospital" while documenting the narrower Japanese/Korean sense as a real, non-error asymmetry (the same fix-class as [[先生]]/[[便宜]]/[[石頭]] earlier this sweep). Verified vietnamese y viện is a real, if less common, Sino-Vietnamese word for "hospital" (confirmed on Vietnamese Wiktionary, not fabricated) — the everyday Vietnamese word is bệnh viện instead.
+
+Filled a previously-blank `pos` (名詞) and a previously-missing `kwin` (computed `false` per the AND-rule: `characters/医.md` is `kwin: false`, `characters/院.md` is `kwin: true` → compound `false`). No `stand_in` relationship applies (医's own is 医生, 院's own is 院落). Renamed non-canonical `## Etymology` to `## Notes`.
+
+One false-positive homophone ruled out: `資源`'s `注音` (`ㄐㄧㄜ⼔ㄋ`) contains this word's string (`ㄜ⼔ㄋ`) as a substring, but the two words are not actually homophones — 医院 is `'ǝ'wen` while 資源 is `jiǝ'wen`, different first syllables entirely; the shared portion is only the second syllable ⼔ㄋ. No callout added. Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
