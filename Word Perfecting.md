@@ -1529,3 +1529,55 @@ Fifth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect:
 No `stand_in` relationship applies (同's own is 同一, 時's own is bare 時). `kwin: true` already correct per the AND-rule (both individually `true`).
 
 No homophones (`注音: ㄉㄛㄫㄙㄧ` unique to this file). **Incidental fixes**: reformatted `characters/同.md`'s bare `[[同時]]` entry to ruby form; added a missing `## Words` entry to `characters/時 (char).md` (had none for this word at all).
+
+### 2026-07-23, iteration 128 — [[words/名字|名字]]
+
+Sixth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Gloss clarified**: `english` previously read "name characters," a garbled gloss — corrected to "name (personal name)," matching Mandarin's actual everyday meaning. Propagated the same gloss fix to the backlink entries on both `characters/名 (char).md` and `characters/字 (char).md`, which had inherited the old bad gloss.
+
+**Genuine cross-linguistic sense-narrowing found and documented, not corrected away**: Japanese 名字/苗字 (みょうじ) specifically means "surname; family name," distinct from 名前 ("given/full name") — narrower than Mandarin's general "name" (verified via search). Korean 명자 confirmed as a real, if less common than native 이름, Sino-Korean word for the same general sense as Mandarin (confirmed on Korean Wiktionary).
+
+**Left `vietnamese` honestly blank**: no clear dictionary attestation was found for a standalone compound "danh tự" (the search only produced a compositional AI-generated gloss, not a dedicated entry, unlike e.g. [[友好]]'s hữu hảo) — left blank rather than fabricate. Fixed the missing `(char)` suffix quoting on both `characters:` entries.
+
+No `stand_in` relationship applies (名's own is bare 名, 字's own is bare 字). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+One false-positive homophone ruled out: `無名指`'s `注音` (`ㄇㄜㄇㄧㄫㄐㄧㄜ`) contains this word's string as a substring, but the two are not homophones — different surrounding syllables entirely. Both constituent characters' `## Words` backlinks were already present and correctly ruby-formatted (aside from the gloss fix above).
+
+### 2026-07-23, iteration 129 — [[words/周囲|周囲]]
+
+Seventh word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `cantonese: jau1wai4` — 周 is never read jau1 (its own character page confirms zau1); corrected to `zau1 wai4`.
+
+**Historical-orthography variant moved to prose, not a distinct reading**: `japanese` previously listed `しゅうい,しうゐ` as if two alternate readings — researched and confirmed しうゐ is not a separate pronunciation but the pre-reform historical kana spelling (歴史的仮名遣い) of the same modern しゅうい reading. Kept only the modern spelling in the field, documented the historical variant in prose instead of treating it as a comma-dump reading.
+
+Vietnamese chu vi was already correct — the standard, extremely common math term for "perimeter/circumference." No `stand_in` relationship applies (周's own is 圓周, 囲's own is 包囲). `kwin: false` already correct per the AND-rule (`characters/周.md` is `false`, `characters/囲.md` is `true` → compound `false`).
+
+No homophones (`注音: ㄐㄨㄛㄨㄧ` unique to this file). **Incidental fix**: reformatted `characters/周.md`'s bare `[[周囲]]` entry to ruby form (`characters/囲.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 130 — [[words/咳漱|咳漱]]
+
+Eighth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Confirmed the word is titled 咳漱 rather than the more familiar 咳嗽 because Dan'a'yo folds 嗽 into 漱 (listed as 漱's own `aliases` entry) — the same character-merging convention as 叛→反 documented earlier in the vault; 咳嗽 is correctly kept as this word's own `aliases` entry, not an error.
+
+**Real typo corrected**: `cantonese: kat1sau3` — missing a space between syllables, corrected to `kat1 sau3`. **`pos` corrected `性詞`→`事詞`**, matching this word's verb/noun-like use.
+
+Researched and confirmed Korean 해수 and Japanese がいそう are both real, standard words for "cough" — but specifically formal/medical-register terms (traditional Korean medicine, Japanese clinical terminology), distinct from the everyday native words 기침/せき. Documented as a genuine register distinction, not an error.
+
+**Left `vietnamese` honestly blank — genuinely questionable**: search results conflicted on the correct Hán-Việt reading ("khái thấu," matching 咳's own stored reading, vs. "hài thấu," a reading not listed anywhere on `characters/咳.md`) — rather than guess between contradictory sources, left blank per the loop's "skip questionable items" instruction.
+
+Notable `stand_in` relationship: `characters/咳.md`'s own `stand_in` points *to this word* (咳漱), another bound-morpheme case like several earlier this sweep; 漱's own points elsewhere (含漱). `kwin: false` already correct per the AND-rule (`characters/咳.md` is `true`, `characters/漱.md` is `false` → compound `false`).
+
+No homophones (`注音: ㄏㄚㄧㄙㄛㄨ` unique to this file). **Incidental fixes**: reformatted `characters/咳.md`'s bare `[[咳漱]]` entry to ruby form; added a missing `## Words` section to `characters/漱.md` (had none at all).
+
+### 2026-07-23, iteration 131 — [[words/問題|問題]]
+
+Ninth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bug corrected**: `mandarin` previously held the hanzi characters themselves (`问题`) rather than a pinyin reading — corrected to `wèntí`. Filled a previously-blank `cantonese` with `man6 tai4`, matching each character's own stored reading. Japanese もんだい, Korean 문제, and Vietnamese vấn đề were already correct, standard readings.
+
+No `stand_in` relationship applies (問's own is 質問, 題's own is 標題). `kwin: false` already correct per the AND-rule (`characters/問.md` is `true`, `characters/題.md` is `false` → compound `false`).
+
+No homophones (`注音: ㄇㄨㄋㄊㄝㄧ` unique to this file). **Incidental fixes**: reformatted `characters/問.md`'s bare `[[問題]]` entry to ruby form; added a missing `## Words` entry to `characters/題.md` (had none for this word at all).

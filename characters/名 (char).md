@@ -51,7 +51,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[名]]<rt>ㄇㄧㄫ</rt></ruby> "name" (stand-in for 名)
-- <ruby>[[名字]]<rt>ㄇㄧㄫㄐㄧ</rt></ruby> "name characters"
+- <ruby>[[名字]]<rt>ㄇㄧㄫㄐㄧ</rt></ruby> "name (personal name)"
 - <ruby>[[名称]]<rt>ㄇㄧㄫㄑㄧㄫ</rt></ruby> "appellation; name; title"
 - <ruby>[[姓名]]<rt>ㄙㄧㄫㄇㄧㄫ</rt></ruby> "full name"
 - <ruby>[[命名]]<rt>ㄇ⼶ㄫㄇㄧㄫ</rt></ruby> "name; dub; designate"

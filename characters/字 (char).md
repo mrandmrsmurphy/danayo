@@ -50,7 +50,7 @@ boundedness: 90
 - <ruby>[漢字](/words/漢字.md)<rt>ㄏㄚㄋㄐㄧ</rt></ruby> - Chinese character
 - <ruby>[羅馬字](/words/羅馬字.md)<rt>ㄌㄛㄇㄚㄐㄧ</rt></ruby> - Latin letter
 - <ruby>[卍字](/words/卍字.md)<rt>ㄇㄛㄋㄐㄧ</rt></ruby> - swastika
-- <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby> - Name character
+- <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby> - name (personal name)
 - <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> - four-character stock phrase
 - <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby> - dictionary
 - <ruby>[字喃](/words/字喃.md)<rt>ㄐㄧㄋㄚㄇ</rt></ruby> - Chu Nom
