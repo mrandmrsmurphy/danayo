@@ -47,4 +47,7 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 仙A三開]]
+
+## Words
+- <ruby>[[方便]]<rt>ㄈㄚㄫㄅ⼶ㄋ</rt></ruby> "suitable, convenient (Mandarin/Cantonese); expedient means (Korean/Japanese); means, vehicle (Vietnamese)"
 - <ruby>[[便宜]]<rt>ㄅ⼶ㄋㄜㄧ</rt></ruby> "cheap; inexpensive"

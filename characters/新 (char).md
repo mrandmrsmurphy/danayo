@@ -48,6 +48,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"
 ## Words
+- <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "news (Mandarin/Cantonese); newspaper (Japanese/Korean)"
 - <ruby>[[新羅]]<rt>ㄙㄧㄋㄌㄛ</rt></ruby> "Silla"
 - <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
 - <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> - New Year

@@ -2289,3 +2289,43 @@ Fifteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2
 **Only fix needed**: added the missing `## Notes` section (previously had none).
 
 No `stand_in` relationship applies — 文's own `stand_in` is `文化` (a different word), 学's own is `学習` (a different word) — 文学 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄇㄨㄋㄏㄚㄎ` unique). Both `characters/文.md` and `characters/学.md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 198 — [[words/文章|文章]]
+
+Sixteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Folded a stray unstructured body fragment ("not 'sentence'", sitting outside any heading) into a proper `## Notes` section — it turned out to be gesturing at a real, important finding rather than noise.
+
+**Genuine and important cross-linguistic sense divergence found via search and documented, not forced into agreement**: Mandarin/Cantonese 文章 means "essay, article" and never "sentence." Korean 문장 (verified via search), however, is specifically and primarily the grammar term for "sentence" (문장 성분 "sentence elements") — a real risk for learners assuming shared meaning. Japanese ぶんしょう sits in between, primarily "writing/composition/essay" with "sentence" only secondary. Vietnamese văn chương leans toward "literature" in general.
+
+No `stand_in` relationship applies — 文's own `stand_in` is `文化` (a different word), 章's own is bare `章` — 文章 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). No homophones (`注音: ㄇㄨㄋㄐㄚㄫ` unique). Both `characters/文.md` and `characters/章 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 199 — [[words/文芸|文芸]]
+
+Seventeenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block form; `aliases: [文藝]` inline array reformatted to block form (kept — legitimate traditional variant). Removed blank `swadesh:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Genuine semantic-narrowing divergence found via search and documented, not forced into agreement**: Mandarin wényì, Cantonese man4 ngai6, Japanese ぶんげい, and Korean 문예 all preserve the broad literal sense of "literature and art" as a joint cultural category. Vietnamese văn nghệ, however, has shifted in common usage to specifically mean amateur performance/entertainment (singing, dancing, theatricals — as in a school "văn nghệ" show), reserving the fuller phrase văn học nghệ thuật for the abstract literature-and-art sense.
+
+No `stand_in` relationship applies — 文's own `stand_in` is `文化` (a different word), 芸's own is `芸術` (a different word) — 文芸 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/文.md` is `true`, `characters/芸.md` is `false` → compound `false`). No homophones (`注音: ㄇㄨㄋㄝ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/芸.md` (`characters/文.md`'s own entry already existed).
+
+### 2026-07-23, iteration 200 — [[words/新聞|新聞]]
+
+Eighteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Homophone callout reformatted to canonical form**: the existing callout used the wrong syntax (`> [!info] This word is a homophone with...`) and was placed *before* the meta-bind-embed instead of after — moved to the canonical `>[!warning] Homophones` form in the correct position, cross-linking [[神巫]] (verified as a genuine homophone: exact match on `羅馬字`/`諺文`/`注音`, all `sinmun`/신문/ㄙㄧㄋㄇㄨㄋ). Applied the same reciprocal fix to `神巫`'s own callout, which had the identical placement/syntax problem.
+
+**Genuine and well-known cross-linguistic sense divergence found via search and documented, not forced into agreement**: the stray body note "not just newspaper" was gesturing at a real, important finding — Mandarin/Cantonese 新闻/xīnwén means "news" (informational content; "newspaper" is a separate word, 报纸), while Japanese しんぶん and Korean 신문 specifically mean "newspaper" (the physical periodical; "news" in the informational sense uses the loanword ニュース in Japanese). Rewrote `english` to state both senses explicitly rather than picking one.
+
+Filled blank `pos` (`名詞`). No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: true` already correct per the AND-rule (both individually `true`). **Incidental fix**: added missing `## Words` entries to both `characters/新 (char).md` and `characters/聞 (char).md` (neither had listed 新聞 before).
+
+### 2026-07-23, iteration 201 — [[words/方便|方便]]
+
+Nineteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing space typo fixed**: `cantonese` (`fong1bin6`→`fong1 bin6`). Filled blank `japanese` (`ほうべん`) and blank `vietnamese` (`phương tiện`), both verified via search. Removed blank `swadesh:` and empty `aliases: []`.
+
+**A striking four-way sense divergence found via search and documented, not forced into agreement**: Mandarin/Cantonese fāngbiàn/fong1 bin6 is the everyday adjective "convenient, suitable" (also a euphemism for "to relieve oneself"). Korean 방편 and Japanese ほうべん (hōben), however, both function as a noun meaning "expedient means" — most notably the Buddhist technical term for upāya, a bodhisattva's skillful teaching method (方便品, the "Expedient Means" chapter of the Lotus Sutra). Vietnamese phương tiện has drifted furthest: it now means "means; tool; vehicle" in ordinary modern usage (phương tiện giao thông "vehicle," phương tiện thông tin đại chúng "mass media") — a real semantic shift from "convenient method" to "the physical instrument itself." Rewrote `english` to document all four senses explicitly.
+
+No `stand_in` relationship applies — 方's own `stand_in` is `方向` (a different word), 便's own is bare `便` — 方便 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). No homophones (`注音: ㄈㄚㄫㄅ⼶ㄋ` unique). **Incidental fix**: reformatted `characters/方.md`'s existing plain-text entry into ruby form with the corrected divergence-aware gloss; added a missing `## Words` section entirely to `characters/便 (char).md` (had none).

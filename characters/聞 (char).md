@@ -45,3 +45,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 微]]
 [[Lookup/CC/finals/韻 文]]
+
+## Words
+- <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "news (Mandarin/Cantonese); newspaper (Japanese/Korean)"
