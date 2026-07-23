@@ -1487,3 +1487,45 @@ First word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect:
 No `stand_in` relationship applies (各's own is bare 各, 種's own is 種類). `kwin: true` already correct per the AND-rule (both individually `true`).
 
 No homophones (`注音: ㄍㄚㄎㄐㄛㄫ` unique to this file). **Incidental fixes**: reformatted `characters/各 (char).md`'s bare `[[各種]]` entry to ruby form; added a missing `## Words` entry to `characters/種.md`.
+
+### 2026-07-23, iteration 124 — [[words/同学|同学]]
+
+Second word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` with đồng học, a real Sino-Vietnamese word (confirmed on Vietnamese Wiktionary), more formal than everyday học chung/bạn học.
+
+**Genuine homophone-across-different-hanja confirmed, not an error**: investigated whether Korean `동학` was a wrong-word conflation with the famous 19th-century Donghak (東學) religious/political movement — researched and confirmed 同學 (동학, "classmate; fellow student") is itself a real, independently attested dictionary word, merely an exact homophone of the unrelated 東學 movement. Another instance of the recurring cross-linguistic pattern from this sweep (cf. [[午飯]], [[羽翼]]/右翼). No correction needed.
+
+No `stand_in` relationship applies (同's own is 同一, 学's own is 学習). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄉㄛㄫㄏㄚㄎ` unique to this file — vault-internal, not to be confused with the cross-linguistic Korean homophone noted above). **Incidental fix**: added a missing `## Words` entry to `characters/同.md` (`characters/学.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 125 — [[words/同志|同志]]
+
+Third word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin tóngzhì, cantonese tung4 zi3, japanese どうし, korean 동지, vietnamese đồng chí) — no bugs found. No `stand_in` relationship applies (同's own is 同一, 志's own is 意志). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+**Genuine Dan'a'yo-internal homophone found and formalized**: exact-string search on `注音` (`ㄉㄛㄫㄐㄧ`) turned up `words/東芝.md` ("Toshiba") — verified all three fields (`羅馬字`, `諺文`, `注音`) match exactly (dongji/동지/ㄉㄛㄫㄐㄧ), a genuine collision, not a prefix-substring false positive. `東芝.md`'s own prose already noted the Korean-specific coincidence informally, but neither page had a proper `>[!warning] Homophones` callout — added reciprocal callouts to both files. (Also checked [[冬至]] as a candidate third Korean homophone mentioned in 東芝's prose — its actual Dan'a'yo reading is tongjiǝ/통즤/ㄊㄛㄫㄐㄧㄜ, different from dongji/동지/ㄉㄛㄫㄐㄧ, so it is *not* a Dan'a'yo-internal homophone, only a coincidence of Korean's own native phonology — correctly left out of the callout.)
+
+**Incidental fixes**: reformatted `characters/同.md`'s bare `[[同志]]` entry to ruby form; added a missing `## Words` entry to `characters/志.md` (had none for this word at all).
+
+### 2026-07-23, iteration 126 — [[words/同意|同意]]
+
+Fourth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `cantonese: ung4 ji3` was missing the initial consonant — 同 is never read ung4; corrected to `tung4 ji3`, matching `characters/同.md`'s own stored reading. **`pos` corrected `性詞`→`事詞`**, matching this word's primary use as a verb ("to agree, consent"). Simplified `japanese` from the conjugated verb phrase どういする to the bare dictionary form どうい, matching vault convention.
+
+Filled a previously-missing `kwin` — computed `false` per the AND-rule (`characters/同.md` is `kwin: true`, `characters/意.md` is `kwin: false` → compound `false`). No `stand_in` relationship applies (同's own is 同一, 意's own is 意味).
+
+No homophones (`注音: ㄉㄛㄫㄜ` unique to this file). **Incidental fixes**: reformatted `characters/同.md`'s bare `[[同意]]` entry to ruby form; added a missing `## Words` entry to `characters/意.md` (had none for this word at all).
+
+### 2026-07-23, iteration 127 — [[words/同時|同時]]
+
+Fifth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `時`, but the actual file is `時 (char).md`. Reformatted Cantonese with a space (`tung4si4`→`tung4 si4`) for consistency; all cross-linguistic fields otherwise already correct, standard readings.
+
+No `stand_in` relationship applies (同's own is 同一, 時's own is bare 時). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄉㄛㄫㄙㄧ` unique to this file). **Incidental fixes**: reformatted `characters/同.md`'s bare `[[同時]]` entry to ruby form; added a missing `## Words` entry to `characters/時 (char).md` (had none for this word at all).
