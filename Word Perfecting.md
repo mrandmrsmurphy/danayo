@@ -1615,3 +1615,45 @@ Twelfth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfec
 Notable `stand_in` relationship: `characters/難.md`'s own `stand_in` points *to this word* (困難), another bound-morpheme case like several earlier this sweep. `kwin: false` already correct per the AND-rule (`characters/困.md` is `false`, `characters/難.md` is `true` → compound `false`).
 
 No homophones (`注音: ㄎㄛㄋㄋㄚㄋ` unique to this file). **Incidental fixes**: reformatted `characters/困.md`'s bare `[[困難]]` entry to ruby form; added a missing `## Words` entry to `characters/難.md` (had none for this word at all).
+
+### 2026-07-23, iteration 135 — [[words/国家|国家]]
+
+Thirteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-missing `kwin` — computed `false` per the AND-rule (`characters/国.md` is `kwin: false`, `characters/家.md` is `kwin: true` → compound `false`). Notable `stand_in` relationship: `characters/国.md`'s own `stand_in` points *to this word*. All cross-linguistic fields were already correct, standard readings.
+
+**Formalized an already-known homophone**: the file already had informal prose noting a collision with [[国歌]] ("national anthem") — verified all three fields match exactly (gogga/곡가/ㄍㄛㄎㄍㄚ) and converted it to a proper `>[!warning] Homophones` callout in the correct position (after meta-bind-embed, before `## Notes`). **Incidental sibling-word fix**: `words/国歌.md`'s own reciprocal note used the wrong callout type (`[!warn]` instead of `[!warning]`) and was positioned before the meta-bind-embed rather than after — corrected both to match vault convention.
+
+No homophones beyond the one already documented. **Incidental fix**: added a missing `## Words` entry to `characters/家.md` (`characters/国.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 136 — [[words/地方|地方]]
+
+Fourteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `cantonese: di4 fang1` had two separate errors — 地 is never read di4 (its own character page confirms dei6), and 方 is never read fang1 (confirmed fong1); corrected to `dei6 fong1`.
+
+**Genuine Mandarin tone-based heteronym confirmed, not touched**: dìfang (neutral tone, "place; location," matching the word's primary sense) and dìfāng (full tone, "local," as opposed to central/military) are both real, distinct readings (verified via search) — left both in the field.
+
+**Comma-dump untangled**: `korean: 지방, 시골` — 지방 is the compound's own Sino-Korean reading, while 시골 is an unrelated native word for "countryside." Kept only 지방. Filled a previously-blank `vietnamese` with địa phương, a real, extremely common word (confirmed on Vietnamese Wiktionary). Filled a previously-missing `kwin` — computed `false` per the AND-rule (both characters individually `false`).
+
+No `stand_in` relationship applies (地's own is bare 地, 方's own is 方向). No homophones (`注音: ㄉㄧㄜㄈㄚㄫ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/方.md` (`characters/地 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 137 — [[words/城市|城市]]
+
+Fifteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Wrong-word conflation corrected**: `japanese: とし` and `korean: 도시` were both actually the readings of the sibling word [[都市]] (市's own `stand_in`), not of 城市 itself — the file's own leftover note ("not generic 'city' (都市)") had already flagged the distinction, but the fields still held the wrong word's readings. Corrected to 城市's own genuine readings: Japanese じょうし (confirmed real via search — "city; castle town," historically a walled marketplace) and Korean 성시 (confirmed real via search — and notably, 성시 is specifically documented as the *North Korean* word for city, a striking match for this vault's standing North-Korean-pronunciation rule, the same pattern as [[困難]] earlier this sweep).
+
+Filled a previously-blank `vietnamese` with thành thị, a real, common word (confirmed on Vietnamese Wiktionary). Filled a previously-blank `pos` (名詞). No `stand_in` relationship applies to this specific compound (市's own points to 都市, 城's own points to 城郭). `kwin: false` already correct per the AND-rule (`characters/城.md` is `false`, `characters/市.md` is `true` → compound `false`).
+
+Three false-positive homophones ruled out via exact-field verification: `姓氏`/`誠心`/`誠実` all begin with the same `注音` prefix (`ㄙㄧㄫㄙㄧ`) but are each one syllable longer with a different final consonant — not genuine matches. **Incidental fix**: reformatted `characters/城.md`'s bare `[[城市]]` entry to ruby form (`characters/市.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 138 — [[words/基本|基本]]
+
+Sixteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` with cơ bản, an extremely common, real Sino-Vietnamese word ("basic; fundamental"). Mandarin, Cantonese, Japanese, and Korean were already correct, standard readings.
+
+Notable `stand_in` relationship: `characters/基.md`'s own `stand_in` points *to this word* (基本), another bound-morpheme case like several earlier this sweep. `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄍㄧㄅㄛㄋ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/基.md` (`characters/本 (char).md`'s own entry already existed, correctly formatted).
