@@ -44,6 +44,7 @@ boundedness: 90
 ```
 
 ## Words
+- <ruby>[[忽然]]<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby> "sudden"
 - <ruby>[[泰然]]<rt>ㄊㄚㄧㄋ⼶ㄋ</rt></ruby> "calm; composed"
 - <ruby>[[斐然]]<rt>ㄈㄨㄧㄋ⼶ㄋ</rt></ruby> "remarkable; brilliant"
 - <ruby>[[厳然]]<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby> "solemn; dignified"

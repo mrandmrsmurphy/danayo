@@ -53,7 +53,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[弟]]<rt>ㄉㄝ</rt></ruby> "younger brother" (stand-in for 弟)
-- <ruby>[[弟弟]]<rt>ㄉㄝㄉㄝ</rt></ruby> "little bitty brother"
+- <ruby>[[弟弟]]<rt>ㄉㄝㄉㄝ</rt></ruby> "younger brother"
 - <ruby>[[弟子]]<rt>ㄉㄝㄐㄜ</rt></ruby> "apprentice; disciple"
 - <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers; brotherhood"
 - <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings; brothers and sisters"

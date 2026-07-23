@@ -2033,3 +2033,49 @@ Filled a previously-blank `vietnamese` with kiến thiết, a real Sino-Vietname
 Notable double bound-morpheme case: both `characters/建.md`'s and `characters/設.md`'s own `stand_in` point to this word (建設) — neither character ever appears independently outside this compound.
 
 No homophones (`注音: ㄍㄝㄋㄙㄝㄊ` unique to this file). **Incidental fixes**: reformatted `characters/建.md`'s bare `[[建設]]` entry to ruby form; added a missing `## Words` entry to `characters/設.md` (had none for this word at all).
+
+### 2026-07-23, iteration 173 — [[words/弟弟|弟弟]]
+
+Twenty-first word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Gloss corrected**: `english` previously read "little bitty brother," an overly informal gloss that had leaked the vault's own design commentary into the dictionary field itself — corrected to the plain, standard "younger brother." The existing prose note explaining that the *reduplicated Dan'a'yo form* is deliberately cuter/more diminutive than plain Mandarin 弟弟 (an ordinary, neutral word) was preserved and clarified.
+
+**Wrong-word conflation corrected**: `korean: 아우` was `characters/弟 (char).md`'s own native-Korean gloss for the bare character, not a reading of the reduplicated compound 弟弟. No attestation was found for a standalone reduplicated Sino-Korean reading (제제) — Korean instead uses 남동생/동생/아우 (native or hybrid terms) — left blank rather than guess.
+
+No `stand_in` relationship applies (弟's own is bare 弟). `kwin: false` already correct per the AND-rule (弟 individually `false`, reduplicated).
+
+No homophones (`注音: ㄉㄝㄉㄝ` unique to this file). **Incidental fix**: updated `characters/弟 (char).md`'s stale backlink gloss to match the corrected sense.
+
+### 2026-07-23, iteration 174 — [[words/影響|影響]]
+
+Twenty-second word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` with ảnh hưởng, a real Sino-Vietnamese word with a dedicated Wiktionary entry (verified via search) — the metaphor mirrors this compound's own shadow-and-echo etymology. Mandarin, Cantonese, Japanese, and Korean were already correct, standard readings.
+
+No `stand_in` relationship applies (影's own is 陰影, 響's own is 反響). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ⼶ㄫㄏ⼘ㄫ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/響.md` (`characters/影.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 175 — [[words/復習|復習]]
+
+Twenty-third word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `cantonese: fuk1 zaap6` — 復 is never read fuk1 (its own character page confirms fuk6); corrected to `fuk6 zaap6`. Filled a previously-blank `vietnamese` with phục tập, documented in a Hán Nôm dictionary (verified via search); the common everyday synonym is ôn tập.
+
+No `stand_in` relationship applies (復's own is 回復, 習's own is 練習). `kwin: false` already correct per the AND-rule (`characters/復.md` is `false`, `characters/習.md` is `true` → compound `false`).
+
+No homophones (`注音: ㄅㄨㄎㄙㄜㄆ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/復.md` and `characters/習.md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 176 — [[words/忽然|忽然]]
+
+Twenty-fourth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `然`, but the actual file is `然 (char).md`.
+
+**Left `vietnamese` honestly blank**: no dedicated dictionary attestation was found for a standalone compound "hốt nhiên" — Vietnamese instead expresses "suddenly" with bỗng nhiên/đột nhiên, entirely different native constructions. Left blank rather than fabricate.
+
+Notable `stand_in` relationship: `characters/忽.md`'s own `stand_in` points *to this word* (忽然), another bound-morpheme case; 然's own is bare 然. `kwin: false` already correct per the AND-rule (`characters/忽.md` is `true`, `characters/然 (char).md` is `false` → compound `false`).
+
+One false-positive homophone ruled out: `忽然様`'s `注音` (`ㄏㄛㄊㄋ⼶ㄋ⼘ㄫ`) begins with this word's exact string but is a longer superset compound, not a genuine homophone.
+
+**Incidental fixes**: reformatted `characters/忽.md`'s bare `[[忽然]]` entry to ruby form; added a missing `## Words` entry to `characters/然 (char).md` (had none for this word at all).
