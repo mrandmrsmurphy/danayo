@@ -633,3 +633,55 @@ Next never-perfected character by `danayo_id` (131). Stamped `date-last-perfect:
 No chengyu hits, no `graphemic_classification: 所` hits — no Derived Characters section applies.
 
 **Loop status**: 35 iterations run, one full skip ([[characters/両 (char)|両]]), one left unstamped pending a missing word ([[characters/声|声]]).
+
+### 2026-07-22, iteration 36 — [[characters/妹|妹]]
+
+Next never-perfected character by `danayo_id` (132). Stamped `date-last-perfect: 2026-07-22`. A small, clean page — first iteration at the new 5-minute cadence.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 未` matching an already-good, OC-cited bullet).
+
+**Content removed**: none.
+
+**Small fix**: disambiguated the phonetic link `[[未]]` to `[[未 (char)|未]]` (a `words/未.md` collision exists).
+
+**Body defects found**: no SKIP/Stroke/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; both existing Words entries used relative markdown links with a dash-gloss instead of ruby+quoted-gloss format.
+
+**Words cross-check** (4 total ground-truth hits): 2 already listed (reformatted, `stand_in` compound 細妹 moved to the front); 2 missing — 姉妹, 兄弟姉妹 (ruby/gloss reused from [[characters/弟 (char)|弟]]'s own already-perfected entry for the same word) — added. No chengyu hits, no `graphemic_classification: 妹` hits.
+
+### 2026-07-22, iteration 37 — [[characters/国|国]]
+
+Next never-perfected character by `danayo_id` (133). Stamped `date-last-perfect: 2026-07-22`. **The largest page this entire loop has done — 63 Words entries plus 1 Chengyu**, the vast majority never listed at all.
+
+**Frontmatter**: blank `pos: ""` → `名詞`. `graphemic_classification: 或` already correct (形声, phonetic 或 + semantic 囗 "enclosure" — a bounded territory).
+
+**Content removed**: none.
+
+**Body defects found**: `## Notes` was completely empty (no graphemic bullet at all, just the bare heading); `## Chengyu` and `## Words` were in reversed order; roughly 30 of the ~65 total Words entries were bare `[[link]]` with no ruby or gloss at all, several more used a trailing plain-text gloss with no ruby, and one used a broken relative link missing the `.md` extension (`[国籍](/words/国籍)`).
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 031|囗]] ("enclosure, boundary") + phonetic [[或 (char)|或]] — a bounded territory, "state, nation."
+
+**Words cross-check** (64 total ground-truth hits via the precise search pattern): roughly 20 already listed in some form; ~44 missing outright — added, all from stored fields. Ordered into rough sense-groups (generic state-words, then country names by size/familiarity, then historical/dynastic states, then nation-concept compounds) rather than left flat, given the scale. **Two word files found missing their own `注音` entirely** — `words/中国人.md` and `words/中国語.md` have `羅馬字`/`諺文` but no `注音` at all. Rather than invent a value from nothing, reconstructed it by concatenating each constituent character's own stored `注音` (中 ㄐㄨㄫ + 国 ㄍㄛㄎ + 人 ㄋㄧㄋ / 語 ⼄) and cross-verified the result byte-for-byte against both `羅馬字` and `諺文` already stored on each file before using it — the same "compositional-reading-as-tiebreaker" method already established vault-wide for real word creation, not a fabrication.
+
+**Extraction bug caught mid-task, not shipped**: an early batch-extraction script for gathering `english` fields grabbed the first 3 list items after the `english:` key without stopping at the next YAML key — on 8 files with fewer than 3 real glosses (国子, 三国, 中国, 邾国, 鄂国, 鄭国, 獅子国, 五代十国, 中国人), this silently pulled the *next* field's contents (mostly `aliases:`, e.g. 國子, 中國, 三國) in as a bogus third gloss. Caught by spot-checking a few entries before writing anything to the page, rewrote the extraction to stop exactly at the next top-level key, and redid the full batch — no contaminated glosses made it into the file.
+
+No `graphemic_classification: 国` hits — no Derived Characters section applies.
+
+### 2026-07-22, iteration 38 — [[characters/明 (char)|明]]
+
+Next never-perfected character by `danayo_id` (134) — already had a good graphemic bullet and partial structure, needed a gap-fill and cleanup pass. Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 會意` matching the already-good 会意 bullet, 日+月).
+
+**Content removed**: none.
+
+**Small fixes**: disambiguated the graphemic bullet's `[[日]]`/`[[月]]` links to `[[日 (char)|日]]`/`[[月 (char)|月]]` (both collide with word files); merged a non-canonical bullet that crammed SKIP/Stroke/syllable into one line into the proper two-bullet split, and built a real MC-rank bullet from scratch (the old one was just two bare floating CC-initial/final links with no ordinal rank or syllable link at all).
+
+**Caught and corrected before finalizing — a guessed chengyu gloss, same near-miss class flagged repeatedly this sweep**: while adding 旗幟鮮明 (present on the old page with no gloss at all), first copy-pasted 光明正大's gloss onto it since a quick single-line `grep` on the `english:` key appeared to show nothing for either — re-read both files in full and found 旗幟鮮明's real stored gloss is "have a clear-cut stand," entirely different from 光明正大's. Corrected before shipping; the single-line grep pattern itself was the failure mode (it only shows the `english:` key line, not the list item(s) below it for multi-line fields) — worth remembering as a sharper version of the extraction-script lesson from [[characters/国|国]] two iterations ago.
+
+**Words cross-check** (33 total ground-truth hits): 11 already listed (several bare, reformatted); 22 missing — added, all from stored fields.
+
+**Chengyu cross-check** (4 total): 1 already present (gloss fixed per above); 3 missing — 光明正大, 公明正大, 毎字明意 — added.
+
+**Derived Characters** (2 hits via `graphemic_classification: 明`): 盟 ("alliance; covenant") and 萌 ("bud; sprout") — both exact `注音` matches, added.
+
+**Incidental fix**: `characters/盟.md`'s `english` field had a typo, "aliance" → "alliance."
