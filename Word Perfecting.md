@@ -459,3 +459,57 @@ Removed blank `hsk_level:`. **Stand-in note applied**: `characters/牙.md`'s own
 **Incidental fixes**: added `## Words` backlinks to both `characters/長 (char).md` (bare bullets, no heading — added inline) and `characters/牙.md` (no `## Words` section at all — added one).
 
 Next: #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 40 — [[words/指甲|指甲]]
+
+Swadesh #79 ("fingernail"). Stamped `date-last-perfect: 2026-07-22`. Another dense iteration.
+
+**Mandarin has three genuine attested readings, not a comma-dump error**: `zhǐjia` (standard neutral-tone colloquial), `zhǐjiǎ` (formal citation-tone), `zhījia` (documented regional colloquial variant) — verified via search and reformatted into a proper YAML list, same treatment as [[頭髪]]'s Mainland/Taiwan split.
+
+**The standout finding — a striking, almost certainly unintentional Korean homophone**: this compound's honest compositional reading is 지갑 (jigap), which is also, completely independently, the extremely common everyday Korean word for "wallet" (built from unrelated hanja 紙匣, "paper case"). Real spoken Korean doesn't use 指甲 as a word at all — the exclusive standard term is native 손톱 — so the collision is mostly theoretical, but flagged prominently in the prose given how common 지갑 "wallet" is; corrected the wrong stored field (`손톱`, the native word, was sitting in a field meant to hold this compound's own Sino-Korean reading) to the honest compositional value with the caveat attached.
+
+**Japanese field corrected with an interesting root-cause finding**: `つめ` (tsume) was the old value — traced to `characters/甲 (char).md`'s own `japanese_native` list, which separately documents つめ as one of 甲's *own* alternate kun'yomi (alongside よろい "armor" and きのえ "first heavenly stem") — i.e. the word's field had quietly borrowed one constituent character's own bare reading rather than describing the compound. Corrected to the honest on'yomi-compositional しこう (shikō); real Japanese uses 爪 (also tsume, an unrelated character) as its actual word for fingernail.
+
+**Vietnamese corrected, not merely filled**: replaced the native `móng tay` with the real, attested Sino-Vietnamese compound `chỉ giáp` (found in historical/Qing-dynasty nail-care register, e.g. 護甲 hộ giáp "nail guard") — noting `móng tay` in prose as the everyday native word instead.
+
+**Homophone reformatted, not newly found**: the page already flagged (informally, via a non-standard `[!tip]` line positioned *before* the meta-bind-embed) that this word is a homophone of [[自家]] "one's own family" — verified the exact match (`注音`/`羅馬字`/`諺文` identical: ㄐㄧㄜㄍㄚㄆ/jiǝgab/즤갑), then converted both pages to the standard `[!warning] Homophones` callout in the correct position. `自家.md` had also been carrying a stale `date-last-perfect: 2026-03-13` stamp despite the malformed callout — same "stale/loosely-verified stamp" class of finding as [[漆]] and `characters/子.md` earlier this sweep; fixed only the callout, did not re-verify or re-stamp the rest of that page.
+
+Removed blank `hsk_level:` and an empty `aliases:` key. No `stand_in` match on either constituent (指's own is `手指`, 甲's own is bare `甲`) — no stand-in note needed, this is an independent compound, not a legitimizer.
+
+**Incidental fixes**: added missing `## Words` backlinks to both `characters/指.md` and `characters/甲 (char).md` (the latter had no `## Words` section at all).
+
+Next: #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 41 — [[words/羽翼|羽翼]]
+
+Swadesh #84 ("wing"). Stamped `date-last-perfect: 2026-07-22`. Unlike the last several iterations, this one confirmed the compound is genuinely, richly attested everywhere — no wrong-word substitutions this time, only a wrongly-corrected-toward-native field and a stale `kwin`.
+
+**The centerpiece finding — a real homophone collision, independently attested in two languages, not a vault error**: this compound's honest reading — Japanese うよく (uyoku), Korean 우익 (previously wrongly replaced with native `날개` in the frontmatter) — is a genuine, live homophone of the unrelated, far more common word 右翼 ("right wing," political/military; also うよく/우익), since 羽 and 右 happen to share identical Sino-Japanese and Sino-Korean readings. Verified via search that both 羽翼 ("wing; assistance," with a real chengyu 羽翼已成/已豐, "the wings have grown," i.e. one has become fully capable) and 右翼 are real, independently attested words in both languages, coexisting as true homophones rather than one crowding out the other — a pleasing parallel to the [[指甲]]/지갑 finding two iterations ago, except here *both* readings are real (there, only one side was).
+
+**`kwin` corrected `false` → `true`**, the second confirmed active fix this sweep (after [[父親]]): both `characters/羽.md` and `characters/翼.md` are individually `true`, and — unlike [[長牙]]'s and [[指甲]]'s unattested compositional-only Korean fields — this compound's Korean reading is independently real and verified, so the AND-rule prediction could be directly confirmed rather than left flagged.
+
+**Other fields**: filled blank `cantonese: jyu5 jik6` (compositional, parallel to the real Mandarin/Japanese/Korean attestation) and corrected `vietnamese` from native `cánh` to the real, attested Sino-Vietnamese `vũ dực`, which carries the identical literal-wing/figurative-assistance double meaning found across the whole sphere (verified via search, e.g. `tả dực`/`hữu dực`, "left/right flank"). `characters:` inline array converted to block form; removed empty `aliases: []`. **Stand-in note applied**: `characters/翼.md`'s own `stand_in` field is `羽翼` — the page already informally noted this as a bare "Stand-in for [[翼]]" line; wove it into the proper opening Notes bullet.
+
+**Homophone false-positive investigated and correctly ruled out — a new class this time**: a raw `注音` grep also matched `words/域.md` (identical string `ㄨㄧㄎ`), but its own `羅馬字`/`諺文` (`wig`/윅, one syllable) diverge from 羽翼's (`'u'ig`/우익, two syllables) — the same Bopomofo string is evidently ambiguous between a w-glide-initial single syllable and a vowel-initial two-syllable sequence. Not a real pronunciation match, so no `[!warning]` callout — worth remembering as a distinct false-positive class from the plain prefix-substring collisions found on [[樹皮]] and [[長牙]] earlier this sweep.
+
+**Incidental fixes**: added missing `## Words` backlinks to both `characters/羽.md` and `characters/翼.md` (the latter had none at all).
+
+Next: #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 42 — [[words/腸管|腸管]]
+
+Swadesh #86 ("intestine"). Stamped `date-last-perfect: 2026-07-22`.
+
+**A third instance this sweep of the same striking Sino-Xenic homophone pattern** ([[羽翼]]/右翼, [[指甲]]/지갑): 腸's Sino-Japanese/Sino-Korean reading coincides exactly with 長 ("long, chief"), making 腸管 a genuine, live homophone of the unrelated, very common 長官 ("minister/director-general") — Japanese ちょうかん, Korean 장관. Verified both compounds are real, independently attested words in both languages; the stored `korean` field had been wrongly holding the native word `창자` ("intestines," `characters/腸.md`'s own `korean_native` value) instead of this compound's genuine Sino-Korean reading — corrected to `장관`.
+
+**Vietnamese corrected**: replaced the comma-dumped `ruột, tràng` with the honest compositional Sino-Vietnamese `tràng quản`; noted in prose that `tràng` alone is thoroughly productive in real Vietnamese medical vocabulary (trực tràng "rectum," đại tràng "colon," tá tràng "duodenum") even though the exact two-syllable compound isn't independently confirmed, while `ruột` is the everyday native word for intestines.
+
+**Aliases corrected**: kept `肠管` (genuine simplified form); removed `腸子`/`肠子` — not orthographic variants but a distinct, more colloquial compound (腸 + the noun-forming suffix 子, same pattern as [[種子]]/[[卵子]]) with no file of its own in this vault — flagged as a future word-creation candidate, same treatment as [[長牙]]'s 尖牙 finding two iterations ago.
+
+**No internal Dan'a'yo derivation bug** — `羅馬字`/`諺文`/`注音` (`canggwan`/창관/ㄑㄚㄫㄍ⺢ㄋ) already matched both characters. `kwin: false` already correct per the AND-rule (`characters/腸.md` is `false`, `characters/管.md` is `true` → compound `false`). `characters:` inline-array-adjacent unindented list reformatted to standard block form; non-canonical `## Etymology` heading renamed to `## Notes`; removed blank `hsk_level:`.
+
+**Stand-in note applied**: `characters/腸.md`'s own `stand_in` field is `腸管` — added "— stand-in for [[腸]], which cannot appear independently." (管's own `stand_in` is `導管`, a different word — no note on that side.) No homophones (`注音: ㄑㄚㄫㄍ⺢ㄋ` unique to this file).
+
+**Incidental fixes**: reformatted `characters/腸.md`'s bare `[[腸管]]` entry to ruby form with the stand-in note; added a missing `## Words` backlink entry to `characters/管.md`.
+
+Next: #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...

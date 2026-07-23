@@ -44,6 +44,10 @@ boundedness: 100
 
 # Notes
 囗 and 十
+
+## Words
+- <ruby>[[指甲]]<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby> "fingernail; toenail; nail"
+
 ## Definition
 1. armor
 2. first heavenly stem (see [[Astronomy]])
