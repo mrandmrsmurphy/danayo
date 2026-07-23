@@ -47,3 +47,6 @@ boundedness: 90
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 尤]]
 - Components: [[田]], [[丨]]
+
+## Words
+- <ruby>[[因由]]<rt>ㄧㄋ⼜ㄛ</rt></ruby> "reason; cause"

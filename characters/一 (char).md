@@ -77,9 +77,9 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 * <ruby>[[一角獣]]<rt>읻곡슈</rt></ruby> - unicorn
 * <ruby>[[一日]]<rt>읻닏</rt></ruby> - day one, one day
 * <ruby>[[一旦]]<rt>읻단</rt></ruby> - once
-* <ruby>[[一点]]<rt>읻덤</rt></ruby> - dot, speck
+- <ruby>[[一点]]<rt>ㄧㄊㄉㄝㄇ</rt></ruby> "a little; a bit"
 * <ruby>[[一端]]<rt>읻돤</rt></ruby> - one aspect, competent
-* <ruby>[[一般]]<rt>읻반</rt></ruby> - average, ordinary
+- <ruby>[[一般]]<rt>ㄧㄊㄅㄚㄋ</rt></ruby> "average; common; general; ordinary"
 * <ruby>[[一瞬]]<rt>읻슌</rt></ruby> - wink, instant
 * <ruby>[[一朝]]<rt>읻잣</rt></ruby> - a short time
 * <ruby>[[一定]]<rt>읻정</rt></ruby> - fixed, regular

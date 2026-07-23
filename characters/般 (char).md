@@ -48,3 +48,6 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 刪開]]
+
+## Words
+- <ruby>[[一般]]<rt>ㄧㄊㄅㄚㄋ</rt></ruby> "average; common; general; ordinary"

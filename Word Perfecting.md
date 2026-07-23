@@ -1001,3 +1001,45 @@ Swadesh #200 ("left side"). Stamped `date-last-perfect: 2026-07-23`. A direct co
 **Stand-in note applied**: `characters/左.md`'s own `stand_in` field is `左側` — added the standard phrasing. `japanese: ひだりがわ` was already correct, mirroring 右側's みぎがわ exactly.
 
 No homophones (`注音: ㄐㄚㄐㄧㄎ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/側.md` (`characters/左.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 82 — [[words/因由|因由]]
+
+Swadesh #206 ("reason, cause"). Stamped `date-last-perfect: 2026-07-23`. Last entry in the current Swadesh pool.
+
+**Real content bug corrected, propagated to a character-page backlink too**: `english` was `since, therefore, because` — describing 因由 as a conjunction — but it's actually a noun meaning "the reason, the cause" (verified via search: a synonym of 原因/理由/緣故, occasionally with a Buddhist "predestined connection" sense), matching `characters/因.md`'s own gloss directly. Corrected the gloss and filled blank `pos` to `名詞`; fixed the identical wrong gloss on `characters/因.md`'s own pre-existing backlink to this word.
+
+**Real bug corrected**: `korean` was `때문에`, the fully native Korean phrase for "because of," not a reading of 因由 at all — corrected to `인유` (inyu), matching the word's own already-stored `諺文`/`羅馬字` fields exactly (an internal-consistency check that would have caught this immediately).
+
+**Content removed**: a stray scratch note, `cp C: 因為 , 由於 , 由于`, sitting as raw text before the meta-bind-embed — looked like leftover research shorthand rather than real content. Folded the substance into a proper Notes paragraph about the wider East Asian synonym cluster (因為, 由於/由于, 原因, 理由) instead of just discarding it outright.
+
+**No `stand_in` relationship applies**: 因's own is `原因`, 由's own is bare `由` — 因由 is an independent compound, part of a synonym family rather than a legitimizer for either. `kwin: false` already correct per the AND-rule (`characters/因.md` is `true`, `characters/由 (char).md` is `false` → compound `false`). Filled `vietnamese` with the real, attested `nhân do` (verified via search).
+
+No homophones (`注音: ㄧㄋ⼜ㄛ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/由 (char).md` (had none at all).
+
+**Pool exhausted, new convention adopted**: this was the last entry (#206) in the current never-perfected Swadesh pool. The never-perfected pool overall is still huge (4,111 word files), so reverted to this log's original ordering convention from iterations 1–20 — HSK level ascending, alphabetical within level — since a large HSK-1 sub-pool (243 files) remains despite the "milestone" claimed at iteration 20 (that pool must have been narrower, e.g. a stricter grep pattern that missed inline-array `characters:` fields or differently-quoted `hsk_level` values). Next: alphabetically ascending through the HSK-1 never-perfected pool, starting with 一点, 一般, 不但, 主要, 人民, 今年, 以後, 会話, 体育, 作業, 使用, 便宜, 先生, 全体, 全部, 公共, 公園, 内容, 出現, 出発, ...
+
+### 2026-07-23, iteration 83 — [[words/一点|一点]]
+
+First word in the new HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real content bug corrected**: `english` was `dot, speck, spot` — the literal, compositional reading — but as an HSK-1 word, 一点/一點's overwhelmingly primary sense (verified via search) is the everyday quantifier "a little, a bit" (一点儿水, "a little water"; 便宜一点儿, "a little cheaper"). The literal "a point" sense exists (这一点, "this point [of an argument]") but is secondary/formal. Corrected the gloss to the primary quantifier sense.
+
+**Genuine cross-linguistic asymmetry documented**: Japanese いってん and Korean 일점 exist as literal compositional readings ("one point"), but neither functions as the everyday "a little" quantifier — Japanese uses native 少し and Korean uses native 조금 instead, reserving いってん/일점 for the literal "point/dot" sense. Vietnamese nhất điểm is attested with the same "a little bit" calque sense (verified via search), though everyday Vietnamese strongly prefers native một chút/một ít.
+
+**Formatting bug caught on a character-page backlink**: `characters/一 (char).md`'s pre-existing entry for this word used a bare `*` bullet with the *wrong gloss* and, more substantively, put the word's `諺文` (읻덤) inside the `<rt>` ruby tag instead of its `注音` (ㄧㄊㄉㄝㄇ) — every other ruby entry in this vault's convention uses 注音 in `<rt>`. Fixed both.
+
+No `stand_in` relationship applies — both 一's and 点's own `stand_in` fields are bare self-reference. `characters:` quoting fixed for `一 (char)`; `hsk_level: 1` (bare integer) quoted to `"1"`; blank `swadesh:` removed. No homophones (`注音: ㄧㄊㄉㄝㄇ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/点 (char).md`.
+
+### 2026-07-23, iteration 84 — [[words/一般|一般]]
+
+Second word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `mandarin: jībān` — 一 is never read jī; corrected to `yìbān`, the standard reading.
+
+**Homophone reformatted, not newly found**: the page already informally flagged (a plain `Homophones:` note) that this word is an exact Dan'a'yo homophone of [[一半]] "half" (읻반/'idban/ㄧㄊㄅㄚㄋ identical on both) — despite Mandarin/Cantonese actually distinguishing them by tone (yìbān vs yībàn; bun1 vs bun3), a genuine case of two source-language near-homophones collapsing into one Dan'a'yo form. Converted both pages to the standard `[!warning] Homophones` callout.
+
+**Same ruby-tag formatting bug as [[一点]] last iteration, on the same character page**: `characters/一 (char).md`'s pre-existing entry for this word again put `諺文` (읻반) inside the `<rt>` tag instead of `注音` (ㄧㄊㄅㄚㄋ) — fixed, along with the wrong gloss it carried.
+
+Filled `vietnamese` with the real, attested Sino-Vietnamese `nhất ban` (verified via search). No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: true` already correct per the AND-rule (both individually `true`). Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`.
+
+**Incidental fix**: added a missing `## Words` section to `characters/般 (char).md` (had none at all).
