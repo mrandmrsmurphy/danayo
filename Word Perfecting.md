@@ -1361,3 +1361,51 @@ Filled a previously-blank `vietnamese` with nguyên lai — a real Sino-Vietname
 No `stand_in` relationship applies (原's own is 原始, 来's own is bare 来). `kwin: true` already correct per the AND-rule (both individually `true`).
 
 No homophones (`注音: ⼔ㄋㄌㄚㄧ` unique to this file). **Incidental fixes**: reformatted `characters/原.md`'s bare `[[原来]]` entry to ruby form; added a missing `## Words` entry to `characters/来 (char).md` (which had no entry for this word at all).
+
+### 2026-07-23, iteration 113 — [[words/去年|去年]]
+
+Thirty-first word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Wrong-word conflation corrected**: `korean: 작년` was the modern everyday Korean word for "last year" — but 작년 is actually the reading of the sibling word [[昨年]] (昨 + 年), not of 去年 itself. Researched and confirmed the genuine, if dated/uncommon, Sino-Korean reading 거년 (verified via search/Wiktionary) — corrected the field.
+
+Filled a previously-blank `vietnamese` with khứ niên, a real Hán-Việt term (verified via search); the everyday native Vietnamese equivalent is năm ngoái/năm qua instead. Confirmed Cantonese's two listed tone variants (heoi3 nin4, heoi3 nin4-2) are genuine alternate realizations, not a comma-dump error. Fixed unquoted `characters:` entries to quoted `"去 (char)"`/`"年 (char)"` for consistency.
+
+**Incidental sibling-word fix, discovered while researching this word**: `words/昨年.md`'s own `mandarin` (`qùnián`) and `cantonese` (`heoi3 nin4`) fields were directly copy-pasted from 去年 rather than reflecting 昨年's own reading. Corrected to zuónián/zok6 nin4 (matching `characters/昨 (char).md`'s own stored zuó/zok6) — confirmed via search that 昨年 zuónián is a genuine, if archaic/literary, Mandarin reading distinct from the common 去年. (`words/昨年.md` was not otherwise perfected this iteration — it remains in the pool for its own full pass.)
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄎ⼄ㄋㄝㄋ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 114 — [[words/参加|参加]]
+
+Thirty-second word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin cānjiā, cantonese caam1gaa1→reformatted with a space as caam1 gaa1 for consistency, japanese さんか, korean 참가, vietnamese tham gia) — no bugs found.
+
+Notable `stand_in` relationship: `characters/参.md`'s own `stand_in` points *to this word* (参加), another bound-morpheme case like [[努力]]/[[勝利]]/[[危険]] earlier this sweep. `kwin: false` was already correct per the AND-rule (`characters/参.md` is `false`, `characters/加.md` is `true` → compound `false`).
+
+One false-positive homophone ruled out: `三綱`'s `注音` (`ㄙㄚㄇㄍㄚㄫ`) begins with this word's exact string, but 三綱 is longer (an extra final ㄫ) — not a genuine homophone, the same prefix-substring pattern ruled out several times this sweep.
+
+No homophones (`注音: ㄙㄚㄇㄍㄚ` unique to this file otherwise). **Incidental fixes**: added missing `## Words` entries to both `characters/参.md` and `characters/加.md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 115 — [[words/参観|参観]]
+
+Thirty-third word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Gloss clarified**: `english` previously read only "look around," an imprecise gloss — corrected to lead with "visit; tour (a place)," matching this word's primary living sense across all attested languages (verified via reasoning about each): Mandarin/Cantonese cānguān ("to visit," e.g. a factory), Japanese さんかん (school visitation days, 授業参観), Korean 참관 ("observe/attend," e.g. a trial), Vietnamese tham quan ("visit, sightsee") — all standard, everyday readings otherwise, no bugs found. Reformatted Cantonese with a space (`caam1gun1`→`caam1 gun1`) for consistency.
+
+No `stand_in` relationship applies to this compound specifically — 参's own `stand_in` points to the sibling word [[参加]] instead, 観's own is 観察. `kwin: false` already correct per the AND-rule (`characters/参.md` is `false`, `characters/観.md` is `true` → compound `false`).
+
+No homophones (`注音: ㄙㄚㄇㄍ⺢ㄋ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/参.md` and `characters/観.md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 116 — [[words/友好|友好]]
+
+Thirty-fourth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**`pos` corrected `名詞`→`性詞`**, matching this word's primary living use as an adjective ("friendly, amicable," e.g. 友好国家/友好关系), with attributive-noun use ("friendship, amity") secondary — verified via search. Reordered `english` to lead with the adjective sense.
+
+Filled a previously-blank `vietnamese` with hữu hảo, a real Sino-Vietnamese word (verified via search) for "friendly, harmonious" (especially of international relations). Cantonese, Japanese, and Korean were already correct, standard readings.
+
+No `stand_in` relationship applies (友's own is 朋友, 好's own is bare 好). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ⼜ㄛㄏㄚㄨ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
