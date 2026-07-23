@@ -274,9 +274,72 @@ Swadesh #43 ("father"), the direct counterpart to [[母親]] last iteration. Sta
 
 Otherwise the now-familiar pattern: `japanese: ちちおや` was already correct (real, common, third-person "someone's father," mirroring ははおや's role exactly), while `korean: 아버지` and `vietnamese: ba, bố` were native substitutions — corrected to 부친 (real formal/written Korean, direct counterpart of 모친) and phụ thân (real formal/classical Vietnamese, counterpart of mẫu thân, both verified via search). Fixed unquoted `hsk_level: 1` → `"1"`. No homophones.
 
-Next: 44 (動物), 44 (野獣).
+### 2026-07-22, iteration 29 — [[words/森林|森林]]
 
-### 2026-07-16, iteration 29 — [[words/動物|動物]]
+Resumed the Swadesh pool after a gap (last entry was iteration 28, 2026-07-16). Re-ran the pool query fresh: swadesh #44 (動物/野獣) turned out to already be perfected (`date-last-perfect: 2026-07-16` on both files) in a session never logged back here — same "already done, just untracked" pattern the parallel character sweep hit with 年/肉. #45 (魚), #47 (犬), #50 (蠕虫), #51 (木) were likewise already done. First real gap: **swadesh #52, 森林** ("forest"). Stamped `date-last-perfect: 2026-07-22`.
 
-Swadesh #44 ("animal"). Stamped `date-last-perfect: 2026-07-16`. The cleanest word this whole sweep — every frontmatter field was already correct on inspection (clean derivation, `kwin: true` correctly matching the AND-rule since both 動 and 物 individually match Korean, real `japanese`/`korean`/`vietnamese` values already in place). Neither constituent character's `stand_in` points to this word, so no stand-in note applies. Only real defects: a blank `hsk_level:` field (removed) and a completely missing `## Notes` section (written from scratch). Worth noting explicitly why this one had no native-vs-Sino conflation bug like the recent kinship words: "animal" has no competing intimate/affectionate native term the way "mother/father" do, so there was never a rival word to accidentally substitute in. No homophones.
+**Content removed**: `aliases: [黑板]` — 黑板 means "blackboard," entirely unrelated to 森林; same copy-paste-contamination bug class as [[人等]]/[[我等]]'s wrong-word aliases and [[道]]'s 辺 earlier in this sweep. Removed rather than kept.
 
+**No internal derivation bug**: `羅馬字`/`諺文`/`注音` (`sumlim`/숨림/ㄙㄨㄇㄌㄧㄇ) already matched both constituent characters' own fields exactly. `kwin: false` was already correct per the AND-rule (`characters/森.md` itself is `false`, `characters/林 (char).md` is `true` → compound `false`).
+
+**Stand-in note applied**: `characters/森.md`'s own `stand_in` field is `森林` — added "— stand-in for [[森]], which cannot appear independently" to the opening bullet.
+
+**Cross-linguistic fields were all already correct, unusually** — no wrong-word substitution this time (contrast most of this sweep's recent iterations). Wrote the Notes section from scratch: the 林→森 iconic-repetition escalation (two vs. three 木), and a genuine three-way native-vs-Sino-Xenic register split — Japanese しんりん is itself the everyday standard term (unlike most of this sweep's pattern), but Korean's everyday word is actually the native 숲, with Sino-Korean 삼림 reserved for technical/institutional registers (삼림욕, forestry agencies); Vietnamese similarly keeps native rừng as the everyday word while the real Sino-Vietnamese cognate sâm lâm survives as a narrower, more literary "dense forest" term (verified via search, not assumed).
+
+**Incidental fix**: `characters/森.md`'s own `## Words` entry for this compound was a bare `[[森林]]` — reformatted to the standard ruby form with gloss and stand-in note, per the word-creation skill's character-backlink requirement. Left the rest of `森.md` untouched (floating CC-initial/final links with no MC bullet, `## Chengyu` before `## Words` — character-sweep territory, out of scope for a words-only iteration).
+
+No homophones (`注音: ㄙㄨㄇㄌㄧㄇ` unique to this file).
+
+Next: continue ascending by swadesh number from #52 (森林, now done) — #54 (果実), #55 (種子), #58 (樹皮), #59 (草花), #62 (皮膚), #67 (卵子), #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 30 — [[words/果実|果実]]
+
+Swadesh #54 ("fruit"). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter cleanup**: `characters:` was an unindented dash list (`- 果` / `- 実` at column 0) — reformatted to the standard 2-space-indented block form (harmless in YAML but inconsistent with the rest of the corpus). `vietnamese:` and `hsk_level:` were both present but blank — `hsk_level` had no attested value anywhere so removed entirely; `vietnamese` was genuinely fillable (see below). `aliases: [果實]` (inline array) converted to standard block-list form; kept, since 実's own `aliases` field documents 實/实 as its own alternate forms.
+
+**No internal derivation bug**: `羅馬字`/`諺文`/`注音` (`gwasid`/과싣/ㄍ⺢ㄙㄧㄊ) already matched both constituent characters' own fields exactly. `kwin: true` was already correct per the AND-rule (both `characters/果.md` and `characters/実.md` are individually `true`).
+
+**Stand-in note applied**: `characters/果.md`'s own `stand_in` field is `果実` — added "— stand-in for [[果]], which cannot appear independently." (実's own `stand_in` is `真実`, a different word — no note needed on that side.)
+
+**Vietnamese field filled, with a genuine false-friend finding**: `quả thực` is a real, attested Sino-Vietnamese reading of 果實, but web search confirmed its dominant modern usage has drifted to an adverbial "indeed, in truth" sense (quả thực là..., built from the same literal components, 果 "result/indeed" + 實 "real/true") — the literal "fruit" sense survives but is secondary/literary, with `trái cây` as the real everyday word for fruit. Documented this explicitly in prose rather than silently filling the field and leaving the collision unexplained, same standard as [[不同]]'s 부동/不動 collision earlier in this sweep.
+
+**Incidental fix**: both constituent character pages lacked a `## Words` backlink to this compound at all — `characters/果.md` had no `## Words` heading whatsoever (bare bullets sitting directly under the meta-bind-embed, with floating CC-initial/final links above them — character-sweep territory, left untouched), so added the heading plus a proper ruby entry; `characters/実.md` already had a `## Words` section (one entry, 真実) and just needed the new ruby line appended.
+
+No homophones (`注音: ㄍ⺢ㄙㄧㄊ` unique to this file).
+
+Next: #55 (種子), #58 (樹皮), #59 (草花), #62 (皮膚), #67 (卵子), #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 31 — [[words/種子|種子]]
+
+Swadesh #55 ("seed"). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter cleanup**: `characters: [種, 子]` (inline array) converted to standard block-list form. `vietnamese:` and `hsk_level:` were both blank — `hsk_level` had no attested value so removed entirely; `vietnamese` was fillable (see below). `aliases: []` (empty list) removed entirely, per the standard blank-optional-field rule.
+
+**No internal derivation bug**: `羅馬字`/`諺文`/`注音` (`jongji`/종지/ㄐㄛㄫㄐㄜ) already matched both constituent characters' own fields exactly. `kwin: false` was already correct per the AND-rule (`characters/種.md` is `true`, `characters/子.md` is `false` → compound `false`).
+
+No `stand_in` note needed — 種's own `stand_in` is `種類`, 子's own is `児子`; neither points to this word.
+
+**Vietnamese field filled, register-narrowing finding**: `chủng tử` is a real, attested Sino-Vietnamese compound (confirmed via search), but its actual modern usage has narrowed almost entirely to a Buddhist-philosophical technical term (the karmic "seed," Sanskrit bīja) — the everyday Vietnamese word for a literal plant seed is the unrelated native compound `hạt giống`. Documented explicitly in prose rather than silently filling the field, same standard as [[果実]]'s quả thực finding last iteration.
+
+**Incidental fix**: `characters/種.md` had no `## Words` section at all (bare bullet under a wrongly-leveled `# Notes`, no heading) — added the section with a proper ruby entry. `characters/子.md` already listed `[[種子]]` in its very large existing `## Words` list, but bare/unformatted — reformatted just that one line to ruby form; left the rest of that page's substantial pre-existing mess (floating CC-initial/final links mid-list, inconsistent bare-vs-ruby entries throughout, multiple unlabeled `###` subsections) untouched despite the page already carrying `date-last-perfect: 2026-03-22` — a stale/loosely-verified stamp from before current standards, same class of finding as [[漆]]'s in iteration 2 of this sweep; flagged here, not re-litigated, since fixing all of 子's page is well outside a single words-only iteration's scope.
+
+No homophones (`注音: ㄐㄛㄫㄐㄜ` unique to this file).
+
+Next: #58 (樹皮), #59 (草花), #62 (皮膚), #67 (卵子), #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 32 — [[words/樹皮|樹皮]]
+
+Swadesh #58 ("bark"). Stamped `date-last-perfect: 2026-07-22`. Already close to complete — `羅馬字`/`諺文`/`注音` (`subi`/수비/ㄙㄨㄅㄧ) already matched both constituent characters' own fields exactly, `vietnamese: vỏ cây` was already filled, and `characters/皮.md` already had a proper ruby backlink to this word — the cleanest starting point in a few iterations.
+
+**Frontmatter cleanup**: non-canonical `## Etymology` heading renamed to `## Notes` (same fix applied repeatedly earlier this sweep, e.g. [[利用]], [[如何]]); removed a blank `hsk_level:` field.
+
+**kwin: false already correct** per the AND-rule (`characters/樹.md` is `true`, `characters/皮.md` is `false` → compound `false`). No `stand_in` match on either side (樹's own is `樹木`, 皮's own is `皮革`) — no stand-in note needed.
+
+**Homophone false-positive caught and ruled out**: a raw `注音` substring grep for `ㄙㄨㄅㄧ` also surfaced `words/水平.md`, but its actual full reading is `ㄙㄨㄅㄧㄫ` (subyeng) — one syllable longer, not an exact match — so no `[!warning]` callout applies; confirmed via each file's own stored `羅馬字`/`諺文`/`注音` rather than trusting the substring hit.
+
+**Register-narrowing finding, not a bug**: kept `vỏ cây` (native Vietnamese) as the field value since it's the genuine everyday word, and added the real Sino-Vietnamese cognate `thụ bì` to the prose instead — verified via search that it survives mainly in traditional-medicine pharmacopoeia entries (naming a specific tree's bark as an ingredient, e.g. 海桐皮, 香加皮) rather than as a general "bark" word.
+
+**Incidental fix**: `characters/樹.md`'s own `## Words` entry for this compound was bare (`[[樹皮]] "bark, plant-skin"`) — reformatted to ruby form.
+
+Next: #59 (草花), #62 (皮膚), #67 (卵子), #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
