@@ -1125,3 +1125,43 @@ Ninth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-2
 **All cross-linguistic fields already correct** — genuinely the standard word for "physical education" as a school subject across the sphere, no native displacement or homophone collision found.
 
 No homophones (`注音: ㄊㄝㄧ·⼜ㄎ` unique to this file). **Incidental fix**: reformatted `characters/体.md`'s bare `[[体育]]` entry to ruby form (`characters/育 (char).md`'s own entry was already correctly formatted).
+
+### 2026-07-23, iteration 92 — [[words/作業|作業]]
+
+Tenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bug caught**: `characters:` listed bare `作`/`業`, but both actual files are `作 (char).md`/`業 (char).md` — the missing-`(char)`-suffix bug, corrected on both.
+
+**`pos` corrected `性詞`→`事詞`**, matching `characters/作 (char).md`'s own stored category (verb-like "make/do") — the same fix class as several earlier iterations this sweep.
+
+**Genuine register-narrowing finding**: filled `vietnamese` with `tác nghiệp`, a real attested Sino-Vietnamese compound (verified via search), but noted it carries a narrower professional/technical-operations register (journalism, healthcare, security work) than the more general Vietnamese word for "work," công tác. Also noted that Japanese's everyday word for "homework" specifically is 宿題, not 作業, despite this word's own gloss listing "do school work."
+
+No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: true` already correct per the AND-rule (both individually `true`). Fixed a missing space in `cantonese` (zok3jip6→zok3 jip6); quoted `hsk_level: "1"`.
+
+No homophones (`注音: ㄐㄚㄎㄝㄆ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/業 (char).md` (`characters/作 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 93 — [[words/使用|使用]]
+
+Eleventh word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`. Already close to complete — `vietnamese` was already correctly filled, both character backlinks already properly formatted.
+
+**Stand-in note applied**: `characters/用.md`'s own `stand_in` field is `使用` — added the standard phrasing. (使's own `stand_in` is `使者`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/使.md` is `false`, `characters/用.md` is `true` → compound `false`).
+
+**All cross-linguistic fields already correct** — genuinely the standard, everyday word for "to use" across the sphere, no native displacement or homophone collision found. Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`.
+
+No homophones (`注音: ㄙㄧ·⼄ㄫ` unique to this file). No incidental character-page fixes needed.
+
+### 2026-07-23, iteration 94 — [[words/便宜|便宜]]
+
+Twelfth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`. The densest content-correction iteration in a while.
+
+**Real content bug corrected — a genuine Mandarin heteronym pair**: 便宜 has two established readings with different meanings. The stored fields described biànyí, "convenient, appropriate" (surviving mainly in the set phrase 便宜行事, "act as one sees fit") — but the far more common, HSK-relevant everyday meaning is piányi, "cheap, inexpensive" (这个太便宜了, "this is so cheap"). Corrected `mandarin` and the primary `english` gloss to the piányi/"cheap" reading (verified via search), and the identical wrong gloss on both constituent characters' pre-existing backlinks to this word.
+
+**Cantonese corrected on the same logic**: `bin6 ji4` followed the "convenient" pattern; the real standard Cantonese reading for this specific compound is `pin4 yi4` — though native 平 (ping4) is actually more common than 便宜 itself in everyday Cantonese for "cheap."
+
+**Genuine cross-linguistic asymmetry documented, not forced into agreement**: Japanese べんぎ and Korean 편의 are both real, standard, everyday words — but for the *other* sense, "convenience/expediency" (便宜を図る; 편의점, "convenience store"), not "cheap" at all (neither language uses this compound that way; Japanese 安い, Korean 싸다 cover "cheap"). Left `vietnamese` blank — no single Sino-Vietnamese compound cleanly distinguishing the two senses was confirmed; everyday Vietnamese for "cheap" is native rẻ.
+
+**Incidental fix found and corrected on `characters/便 (char).md`'s own frontmatter**, feeding directly into this word's own opening bullet: its `english` field read `convinient, cheap, plain, shitty` — fixed the typo ("convinient"→"convenient") and the crude/unprofessional wording ("shitty"→"excrement," 便 does legitimately mean feces/excretion as in 大便/小便, just needed professional phrasing).
+
+`characters:` quoting fixed for `便 (char)`. Filled a previously-missing `kwin` field — computed `false` per the AND-rule (`characters/便 (char).md` is `false`, `characters/宜.md` is `true` → compound `false`). No `stand_in` relationship applies — 便's own is bare `便`, 宜's own is `適宜`.
+
+No homophones (`注音: ㄅ⼶ㄋㄜㄧ` unique to this file). **Incidental fixes**: reformatted both `characters/便 (char).md`'s and `characters/宜.md`'s existing backlinks to this word with the corrected gloss.

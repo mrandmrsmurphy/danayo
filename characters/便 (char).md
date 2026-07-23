@@ -17,10 +17,10 @@ skip_number: 1-2-7
 grade_level: "2"
 pos: ""
 english:
-  - convinient
+  - convenient
   - cheap
   - plain
-  - shitty
+  - excrement
 羅馬字: byen
 諺文: 변
 joyo_level: "4"
@@ -47,4 +47,4 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 並]]
 [[Lookup/CC/finals/韻 仙A三開]]
-- [[便宜]] "appropriate and convenient"
+- <ruby>[[便宜]]<rt>ㄅ⼶ㄋㄜㄧ</rt></ruby> "cheap; inexpensive"
