@@ -53,17 +53,16 @@ boundedness:
 [[nav/char_info]]
 ```
 ## Words
+- <ruby>[[発展]]<rt>ㄈㄚㄊㄐㄝㄋ</rt></ruby> "to develop; development"
 - <ruby>[[発声]]<rt>ㄈㄚㄊㄙㄧㄫ</rt></ruby> "vocalization; utterance; phonation"
 - <ruby>[[奮発]]<rt>ㄈㄨㄋㄈㄚㄊ</rt></ruby> "exert oneself"
 - <ruby>[[爆発]]<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby> "to explode; explosion"
 - <ruby>[[出発]]<rt>ㄑㄨㄊㄈㄚㄊ</rt></ruby> "depart; set off"
 - [[挑発]] provoke
-- [[発展]] develop
 - [[発情]] be in heat
 - [[発明]] invent
 - [[発熱]] have a fever
-- [[発生]] happen, occur
-- [[発生]] discover
+- <ruby>[[発生]]<rt>ㄈㄚㄊㄙㄚㄫ</rt></ruby> "happen; occur"
 - [[発財]] make a fortune
 - [[発電]] generate power
 - [[発音]] pronounce

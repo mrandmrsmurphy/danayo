@@ -48,6 +48,7 @@ boundedness: 100
 # Notes
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 夬合]]
+- <ruby>[[痛快]]<rt>ㄊㄛㄫㄎ⺢ㄧ</rt></ruby> "joyful; thoroughly satisfying; exhilarating"
 - <ruby>[[愉快]]<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby> "happy; pleasant; enjoyable"
 - <ruby>[[爽快]]<rt>ㄙ⺢ㄫㄎ⺢ㄧ</rt></ruby> "refreshing; invigorating"
 - [[快楽]] "cheerful, pleasurable"

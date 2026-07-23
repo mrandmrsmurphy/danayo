@@ -2717,3 +2717,41 @@ Twenty-ninth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect:
 **Frontmatter cleanup**: `characters:` inline array reformatted to block form. Quoted `hsk_level: "1"`; removed blank `swadesh:`.
 
 No `stand_in` relationship applies — 生's own `stand_in` is `生活` (a different word), 日's own is bare `日` — 生日 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). No homophones (`注音: ㄙㄚㄫㄋㄧㄊ` unique). Both `characters/生.md` and `characters/日 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 242 — [[words/生産|生産]]
+
+Thirtieth and final word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` inline arrays reformatted to block form. Filled blank `vietnamese` with the real, attested `sinh sản` (used in biology contexts, e.g. sinh sản vô tính "asexual reproduction"). Quoted `hsk_level: "1"`; removed blank `swadesh:`.
+
+**Stand-in note applied**: `characters/産.md`'s own `stand_in` field is `生産` (this word) — added the standard phrasing. (生's own `stand_in` is `生活`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/生.md` is `false`, `characters/産.md` is `true` → compound `false`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄙㄚㄫㄙㄚㄋ` unique). **Incidental fix**: added a missing `## Words` entry with stand-in note to `characters/産.md` (`characters/生.md`'s own entry already existed).
+
+**Pool refreshed**: re-ran the never-perfected HSK-1 query. Next: 痛快, 発展, 発生, 発見, 目前, 看病, 真正, 研究, 確実, 礼物, 社会, 科学, 空気, 空港, 突然, 簡単, 米飯, 精神, 組織, 経済, 経過, 経験, 結束, 結果, 継続, 緊張, 練習, 習慣, 翻訳, 老子.
+
+### 2026-07-23, iteration 243 — [[words/痛快|痛快]]
+
+First word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`. Slightly expanded `english` from bare "joyful" to "joyful; thoroughly satisfying; exhilarating," better capturing the word's intensity.
+
+No `stand_in` relationship applies — 痛's own `stand_in` is `苦痛` (a different word), 快's own is bare `快` — 痛快 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the sphere in meaning — Mandarin/Cantonese/Japanese/Korean all describe an exhilarating, thoroughly satisfying feeling (often with a schadenfreude edge). `vietnamese` left unresearched/blank (web-search quota exhausted) rather than guessed. No homophones (`注音: ㄊㄛㄫㄎ⺢ㄧ` unique). **Incidental fix**: reformatted `characters/痛.md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/快 (char).md`.
+
+### 2026-07-23, iteration 244 — [[words/発展|発展]]
+
+Second word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`. Already close to complete — frontmatter was already fully correct.
+
+**Only fix needed**: added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 発's own `stand_in` is bare `発`, 展's own is `伸展` (a different word) — 発展 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/発 (char).md` is `false`, `characters/展.md` is `true` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄈㄚㄊㄐㄝㄋ` unique). **Incidental fix**: added missing `## Words` entries to both `characters/発 (char).md` and `characters/展.md` (neither had listed 発展 before).
+
+### 2026-07-23, iteration 245 — [[words/発生|発生]]
+
+Third word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — duplicate/wrong entry on constituent character page**: `characters/発 (char).md`'s own `## Words` list had 発生 listed *twice*, once correctly ("happen, occur") and once with the wrong gloss "discover" (which actually belongs to the already-separately-listed [[発見]]) — removed the erroneous duplicate. Also removed a duplicate plain-text `発展` entry left over from a previous incidental fix.
+
+**Frontmatter cleanup on the word file itself**: removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 発's own `stand_in` is bare `発`, 生's own is `生活` (a different word) — 発生 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄈㄚㄊㄙㄚㄫ` unique).
