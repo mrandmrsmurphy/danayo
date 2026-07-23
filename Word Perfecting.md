@@ -881,3 +881,43 @@ Swadesh #165 ("ice water"). Stamped `date-last-perfect: 2026-07-23`.
 **Stand-in note applied**: `characters/氷.md`'s own `stand_in` field is `氷水` — added the standard phrasing. (水's own `stand_in` is bare `水` — no note on that side.) `kwin: true` already correct per the AND-rule (both constituents individually `true`).
 
 No homophones (`注音: ㄅㄧㄫㄙㄨ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/氷.md` (`characters/水.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 72 — [[words/燃焼|燃焼]]
+
+Swadesh #169 ("burn, combust"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected, propagated across two files**: `english: burst` should be `burn` — 燃焼 means "combustion," not "burst." The identical typo had also been copy-pasted onto `characters/燃.md`'s own Notes bullet describing this same word; fixed both.
+
+**`pos` corrected `性詞`→`事詞`**, matching `characters/焼.md`'s own stored category — the same fix class as [[呼吸]]/[[戦闘]]/[[回転]]/[[落下]] earlier this sweep.
+
+**Unusual double stand-in**: both `characters/燃.md` and `characters/焼.md` have their own `stand_in` field set to `燃焼` — both constituents are bounded characters relying on this same compound to become viable Dan'a'yo words, so the opening bullet notes both rather than just one (the more typical pattern this sweep).
+
+Filled blank `vietnamese` with the real, attested Sino-Vietnamese `nhiên thiêu` (verified via search), which carries the identical literal/figurative double sense found across the sphere — burning fat, burning with emotion. `aliases`: split a single malformed entry (`燃烧 燃燒`, space-joined) into two proper list items. `kwin: false` already correct per the AND-rule (both constituents individually `false`). Non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄋ⼶ㄋㄙ⼄ㄨ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/焼.md` (had none at all).
+
+### 2026-07-23, iteration 73 — [[words/緑|緑]]
+
+Swadesh #173 ("green"). Stamped `date-last-perfect: 2026-07-23`. Seventh single-character self-standing word this sweep.
+
+**Content removed**: a bare, redundant `2. abbreviation for beryllium` note — unlike the earlier element-abbreviation cases this sweep (multi/西/里), this fact was already correctly and more fully documented on `characters/緑 (char).md`'s own Notes (linking `[[緑柱素]]` with ruby), so the word page's unlinked duplicate was cut rather than kept, per the standing rule's intent that the character page is the canonical home for this fact.
+
+**Frontmatter cleanup**: `vietnamese: - lục` (one-item list) converted to a plain string; `characters: 緑 (char)` bare scalar converted to a list.
+
+**Register note**: Mandarin/Cantonese/Korean/Vietnamese all use this character productively and independently for "green," but Japanese almost always uses native みどり for the color itself, reserving on'yomi りょく/ろく for compounds (緑化, りょっか, "afforestation"). Korean 록 already correctly preserves the vault's standing North Korean 문화어 form (South Korean 두음법칙 would give 녹).
+
+**Homophone found and handled — new for this word**: [[鹿]] "deer" shares this word's exact reading (log/록/ㄌㄛㄎ) — added the `[!warning]` callout to both pages. `鹿.md`'s own page is otherwise unperfected — a stray `vietnamese: null` literal, and its own `korean: 녹` looks like the identical North/South Korean bug just fixed on [[卵子]]/[[分裂]]/[[落下]] (real North Korean form should likely be 록, matching its own `諺文: 록`) — flagged, not fixed, out of scope for a different word's iteration.
+
+**Pool refreshed**: re-ran the never-perfected Swadesh query — only 9 entries remain in the entire pool. Next: #187 (腐敗), #190 (圓形), #191 (鋭利), #193 (滑), #195 (乾燥), #197 (近), #199 (右側), #200 (左側), #206 (因由).
+
+### 2026-07-23, iteration 74 — [[words/腐敗|腐敗]]
+
+Swadesh #187 ("rot, decay"). Stamped `date-last-perfect: 2026-07-23`.
+
+**`pos` corrected `名詞`→`事詞`**, matching the verb-like reading of "to rot, to decay/spoil" — the same fix class as [[呼吸]]/[[戦闘]]/[[回転]]/[[落下]]/[[燃焼]] earlier this sweep.
+
+**Genuine register-narrowing finding**: filled `vietnamese` with the real, attested `hủ bại` (verified via search), but noted it has drifted more heavily toward the figurative, formal/literary sense (moral or institutional corruption, phong tục hủ bại "corrupt customs") — reserved for journalism/literature rather than everyday speech about spoiled food, whereas Mandarin/Cantonese/Japanese/Korean all cover both the literal and figurative senses evenly in ordinary register.
+
+**Stand-in note applied**: `characters/腐.md`'s own `stand_in` field is `腐敗` — added the standard phrasing. (敗's own `stand_in` is `失敗`, a different word — no note on that side.) `characters:` inline array reformatted to block form; removed empty `aliases: []`. `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+No homophones (`注音: ㄆㄨㄅㄚㄧ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/腐.md` and `characters/敗.md`.
