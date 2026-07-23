@@ -577,3 +577,23 @@ Next never-perfected character by `danayo_id` (125). Stamped `date-last-perfect:
 **Words cross-check** (31 total ground-truth hits): 14 already listed (several bare, reformatted); 17 missing — added, all from stored fields. No `graphemic_classification: 事` hits — no Derived Characters section applies.
 
 **Loop status**: 32 iterations run, one full skip ([[characters/両 (char)|両]]) and one partial-complete-but-unstamped ([[characters/声|声]], pending its own missing stand-in word).
+
+### 2026-07-22, iteration 33 — [[characters/放|放]]
+
+Next never-perfected character by `danayo_id` (129). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 方`, matching an already-good, OC-cited bullet).
+
+**Content removed**: a stray `size: 4` frontmatter field — checked against every other character page in the vault and confirmed this is the only one carrying it; `size` is a lookup-page convention (Radical/SKIP/Stroke pages), not a character-page field at all, so this was leftover cruft from some other template. Removed.
+
+**Small fix**: the graphemic bullet's phonetic link used a plain markdown relative path (`[方](方.md)`) instead of the standard wikilink form — converted to `[[方]]` (no collision, since no `words/方.md` exists) for consistency with every other bullet in the corpus.
+
+**Body defects found**: `### Derived Character` was H3 and positioned before Words instead of after (also singular heading text, non-canonical); two floating CC-initial/final links sat with no MC-rank bullet to embed in; no SKIP/Stroke/Levels bullets existed; one Words entry (放置) was bare with no ruby.
+
+**Words cross-check** (12 total ground-truth hits): 5 already listed (放蕩, 放置, 放送局, 放腐, 放素 — reformatted, 放素's "abbreviation" note folded into its gloss); 7 missing — the `stand_in` compound 釈放 itself, 解放, 開放, 放棄, 放火, 奔放, 放物線 — added, all from stored fields.
+
+**Flagged, not fixed — a character-vs-word `注音` mismatch, same recurring class as [[characters/車 (char)|車]]'s earlier this loop**: `words/放火.md` and `words/放物線.md` both spell their first syllable `ㄅㄚㄫ`, not 放's own stored `ㄈㄚㄫ` — used each word's actual stored value verbatim, did not "correct" it.
+
+**Derived Characters** (1 hit, already on the page but bare — `graphemic_classification: 放`): 倣 ("imitate; emulate"), exact `注音` match, reformatted with ruby/gloss.
+
+**Incidental fix**: `characters/倣.md`'s `english` field had a typo, "immitate" → "imitate."
