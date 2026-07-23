@@ -743,3 +743,59 @@ Next never-perfected character by `danayo_id` (139). Stamped `date-last-perfect:
 **Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; both existing Words entries were bare `[[link]] "gloss"` with no ruby.
 
 **Words cross-check** (4 total ground-truth hits): 2 already listed (reformatted); 2 missing — the stand-in 姉 itself and 兄弟姉妹 (ruby/gloss reused from [[characters/弟 (char)|弟]]'s and [[characters/妹|妹]]'s own entries for the same word) — added. No chengyu hits, no `graphemic_classification: 姉` hits.
+
+### 2026-07-22, user-flagged correction — periodic-table abbreviation notes wrongly demoted on three pages
+
+**User correction, mid-loop**: iterations 1 ([[characters/多 (char)|多]]), 13 ([[characters/西|西]]), and 21 ([[characters/里 (char)|里]]) each originally had a Notes bullet reading "abbreviation for [element]," which this loop treated as incidental trivia and moved into the `## Words` entry for the coined element-name compound, in some cases (西) losing the "abbreviation for" framing entirely down to a bare gloss. **This was wrong**: within this vault's element-naming system, a single Dan'a'yo character is deliberately assigned to function as that element's own abbreviation/symbol — the same role a letter like "Gd" or "Sg" plays in a real periodic table, not just a component of one specific coined word. That fact belongs on the *character's own page*, in Notes, not folded away as a parenthetical on the word page.
+
+**Fixed**: restored a dedicated trailing Notes bullet on all three pages, keeping the "functions as an element-abbreviation character" framing explicit and linking to the actual coined word (加多金 gadolinium/Gd, 西博金 seaborgium/Sg, 居里金 curium/Cm) rather than just leaving it inside that word's own Words-section gloss. The Words-section entries themselves are left in place unchanged — this was about restoring the character-level fact, not removing the word-level listing.
+
+**Standing rule going forward**: when a character's stored Notes content mentions "abbreviation for [element]" or similar, treat it as a real, permanent fact about that character (keep as its own trailing Notes bullet), not as duplicate/incidental content to fold into the Words section — even if a Words entry for the same compound already exists.
+
+### 2026-07-22, iteration 43 — [[characters/学|学]]
+
+Next never-perfected character by `danayo_id` (140). Stamped `date-last-perfect: 2026-07-22`. **The largest page this loop has done — 56 Words entries** (surpassing [[characters/国|国]]'s 63... actually 国 remains the largest by count, this is the second-largest).
+
+**Frontmatter**: blank `pos: ""` → `事詞` — precedent from `words/学習.md`'s own stored `pos: 事詞`. **Real etymology correction**: `graphemic_classification: 指事` (a pure indicator/dot-marking classification) doesn't fit 学/學 at all — its real, uncontested etymology is 会意 of 爻 ("crossed counting rods") + 冖 ("roof") + 子 ("child"), a child studying calculation under a roof, one of the more famous textbook 会意 examples. No pre-existing bullet to contradict (Notes was empty) — corrected from scratch and wrote the bullet accordingly.
+
+**Content removed**: none.
+
+**Body defects found**: `## Words` used a numbered list (1–35) for most entries with only a handful ruby'd, switching to unordered bullets partway through with no clear reason; two floating CC-initial/final links had no MC bullet to embed in.
+
+**Words cross-check** (56 total ground-truth hits, computed via a full diff script rather than manual counting given the scale — confirmed zero false-positive "extra" entries, all 43 originally-listed items were genuine): 13 missing — the `stand_in` compound 学習 itself, 学生, 大学, 中学校, 教学, 儒学, 数学, 化学, 化学肥料, 人類学, 天文学, 物理学, 生物学, 老人学 — added, all from stored fields. **Two more missing-`注音` word files found** (same class as [[characters/国|国]]'s 中国人/中国語 two iterations ago): `words/中学校.md` only had `羅馬字`/`諺文` — reconstructed via constituent-character concatenation (中 ㄐㄨㄫ + 学 ㄏㄚㄎ + 校 ㄏ⼘ㄨ) and cross-verified against both stored fields before using it.
+
+**Derived Characters** (1 hit via `graphemic_classification: 学`): 覚 ("perceive" — Shuowen's 従見學省聲, phonetic 学 abbreviated), added.
+
+**Incidental fix**: `words/経済学.md`'s `english` field read "economic" (adjective) where "economics" (the field of study) was clearly meant — corrected.
+
+### 2026-07-22, iteration 44 — [[characters/雨 (char)|雨]]
+
+Next never-perfected character by `danayo_id` (141). Stamped `date-last-perfect: 2026-07-22`. Page already had a nice non-canonical extra — a radical-disambiguation callout line ("For the radical, see Radical 173") beyond the standard template — kept as-is per the "preserve genuinely useful extra content" precedent.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 象形` matching an already-good, sourced bullet with an Egyptian hieroglyph comparison).
+
+**Content removed**: none.
+
+**Body defects found**: `## Words`, `## Chengyu`, and `## Notes` appeared in that (wrong) order; two floating CC-initial/final links had no MC bullet to embed in; four Words-style entries (雨傘, 雨中, 俄雨, 小雨) were sitting inside `## Notes` instead of `## Words`.
+
+**Words cross-check** (8 total ground-truth hits): 6 already present across the misplaced sections (consolidated, reformatted); 2 missing — the stand-in 雨 itself and 林雨 — added. Also added 梅雨, which despite appearing to already be covered by the general pattern was genuinely absent.
+
+**Chengyu cross-check** (2 total): 1 already present (五風十雨); 1 missing — 未雨紬謬 (《詩經》-origin) — added.
+
+**Derived Characters** (1 hit via `graphemic_classification: 雨`): 黍 ("millet" — Shuowen's 従禾雨省聲, phonetic 雨 abbreviated, an unusual but genuine attested relationship), added.
+
+### 2026-07-22, iteration 45 — [[characters/門|門]]
+
+Next never-perfected character by `danayo_id` (142). Stamped `date-last-perfect: 2026-07-22`. **First real application of the new standing rule** ([[feedback_element_abbreviation_characters]], added this session after the user's correction on 多/西/里): this page's own Notes already had an "abbreviation for mendelevium" bullet for [[門捷金]] — kept it as its own trailing Notes bullet this time instead of repeating the earlier mistake of folding it into the Words entry alone.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 象形`).
+
+**Content removed**: none.
+
+**Graphemic bullet expanded**: from a bare heading with no bullet at all — wrote it from scratch (a double door/gate, linking 門's own radical, [[Radical 169|門]], since the character depicts itself).
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/Levels bullets existed.
+
+**Words cross-check** (10 total ground-truth hits): 3 already listed (専門, 門捷金, 奥門); 7 missing — the `stand_in` compound 大門 itself, 門戸, 校門, 凱旋門, 部門, 肛門, 陰門 — added, all from stored fields.
+
+**Derived Characters** (3 hits via `graphemic_classification: 門`): 聞 ("hear"), 問 ("question"), 悶 ("agony") — all standard, well-attested 門-phonetic derivatives, added.

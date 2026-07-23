@@ -44,6 +44,7 @@ boundedness: 70
 - [SKIP-2-3-3](lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
 - 137th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄉㄜ](syllables/ㄉㄜ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 多 also serves as this vault's periodic-table abbreviation for gadolinium (Gd), functioning the way a chemical symbol letter does in a compound formula — see [[加多金]]; 加 was already assigned to californium (Cf), so the gado- transliteration was built using this character instead.
 
 ## Words
 - <ruby>[[多]]<rt>ㄉㄜ</rt></ruby> "many" (stand-in for 多)
