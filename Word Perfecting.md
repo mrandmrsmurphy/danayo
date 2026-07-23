@@ -1165,3 +1165,47 @@ Twelfth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07
 `characters:` quoting fixed for `便 (char)`. Filled a previously-missing `kwin` field — computed `false` per the AND-rule (`characters/便 (char).md` is `false`, `characters/宜.md` is `true` → compound `false`). No `stand_in` relationship applies — 便's own is bare `便`, 宜's own is `適宜`.
 
 No homophones (`注音: ㄅ⼶ㄋㄜㄧ` unique to this file). **Incidental fixes**: reformatted both `characters/便 (char).md`'s and `characters/宜.md`'s existing backlinks to this word with the corrected gloss.
+
+### 2026-07-23, iteration 95 — [[words/先生|先生]]
+
+Thirteenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Genuine cross-linguistic sense-priority correction, not a wrong-word substitution**: 先生's primary living sense differs sharply by language. In modern Mandarin, xiānsheng chiefly means "Mr., sir" — a general polite title for a man — with the "teacher" sense archaic (superseded by 老师 today); reordered the English gloss to lead with "Mr., sir" rather than "teacher" first, verified via search. Japanese せんせい and Korean 선생, by contrast, genuinely and overwhelmingly mean "teacher" as the living primary sense in both languages.
+
+**Real bug corrected**: `vietnamese: giáo viên` was the generic native/Sino word for "teacher" (built from unrelated roots, 教員), not a reading of 先生 at all — corrected to `tiên sinh`, a real, richly documented Sino-Vietnamese honorific (verified via search) carrying the same range of senses found across the sphere: teacher, respected elder/expert, and (as tiên sanh) a wife's term for her husband.
+
+No `stand_in` relationship applies — 先's own is `優先`, 生's own is `生活` — 先生 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/先.md` is `true`, `characters/生.md` is `false` → compound `false`). Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`.
+
+No homophones (`注音: ㄙㄝㄋㄙㄚㄫ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/先.md` (`characters/生.md`'s own entry already existed and already correctly prioritized "mister" first).
+
+### 2026-07-23, iteration 96 — [[words/全体|全体]]
+
+Fourteenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**`korean` comma-dump untangled**: `전체,모두,죄다` mixed this compound's real Sino-Korean reading (전체) with the native words 모두/죄다 ("all, everyone") — narrowed to 전체.
+
+Filled a previously-missing `kwin` field — computed `false` per the AND-rule (both constituents individually `false`). Filled `vietnamese` with the real, attested Sino-Vietnamese `toàn thể` (verified via search, extremely common — toàn bộ/tổng thể are close synonyms with slightly different nuance).
+
+No `stand_in` relationship applies — 全's own is bare `全`, 体's own is `体系` — 全体 is an independent compound. `characters:`/`aliases:` reformatted to block form (quoted `全 (char)`); quoted `hsk_level: "1"`; non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄐ⼔ㄋㄊㄝㄧ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/体.md` (`characters/全 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 97 — [[words/全部|全部]]
+
+Fifteenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`. Direct companion to [[全体]] last iteration — same bug class, corrected the same way.
+
+**`korean` comma-dump untangled**: `전부,모두,죄다` mixed this compound's real Sino-Korean reading (전부) with the native words 모두/죄다 — narrowed to 전부, directly paralleling [[全体]]'s own fix.
+
+Filled a previously-missing `kwin` field — computed `false` per the AND-rule (both constituents individually `false`). `vietnamese` (`toàn bộ`) was already correctly filled. No `stand_in` relationship applies — both constituents are bare self-standing characters.
+
+No homophones (`注音: ㄐ⼔ㄋㄅㄛㄨ` unique to this file). **Incidental fix**: reformatted `characters/部 (char).md`'s bare `[[全部]]` entry to ruby form (`characters/全 (char).md`'s own entry was already correctly formatted).
+
+### 2026-07-23, iteration 98 — [[words/公共|公共]]
+
+Sixteenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bug caught**: `characters:` listed bare `公`/`共`, but both actual files are `公 (char).md`/`共 (char).md` — the missing-`(char)`-suffix bug, corrected on both.
+
+No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: false` already correct per the AND-rule (`characters/公 (char).md` is `true`, `characters/共 (char).md` is `false` → compound `false`). All other cross-linguistic fields (including `vietnamese: công cộng`) were already correct — a clean compound with directly parallel usage across the sphere. Quoted `hsk_level: "1"`; removed blank `swadesh:`/`aliases:`.
+
+No homophones (`注音: ㄍㄛㄫㄍ⼄ㄫ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/公 (char).md` (`characters/共 (char).md`'s own entry already existed, correctly formatted).

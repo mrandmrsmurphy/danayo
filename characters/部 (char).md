@@ -51,7 +51,7 @@ boundedness: 90
 - [[部長]]
 - [[部分]]
 - [[外部]]
-- [[全部]]
+- <ruby>[[全部]]<rt>ㄐ⼔ㄋㄅㄛㄨ</rt></ruby> "entirety; everything"
 - [[部門]]
 - [[幹部]]
 - [[支部]]
