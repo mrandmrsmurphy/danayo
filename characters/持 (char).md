@@ -9,6 +9,7 @@ japanese:
 japanese_native: も-つ
 vietnamese:
   - rì, chày, chiì
+  - trì
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨ
 stroke_count: 9
@@ -48,4 +49,5 @@ boundedness: 90
 [[Lookup/CC/finals/韻 之]]
 
 ## Words
+- <ruby>[[堅持]]<rt>ㄍㄝㄋㄉㄧ</rt></ruby> "insist that; persist with"
 - <ruby>[[持続]]<rt>ㄉㄧㄙ⼄ㄎ</rt></ruby> "continuous, sustained"

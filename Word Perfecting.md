@@ -1657,3 +1657,37 @@ Filled a previously-blank `vietnamese` with cơ bản, an extremely common, real
 Notable `stand_in` relationship: `characters/基.md`'s own `stand_in` points *to this word* (基本), another bound-morpheme case like several earlier this sweep. `kwin: true` already correct per the AND-rule (both individually `true`).
 
 No homophones (`注音: ㄍㄧㄅㄛㄋ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/基.md` (`characters/本 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 139 — [[words/基礎|基礎]]
+
+Seventeenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — a false homophone claim caught and corrected**: both `words/基礎.md` and `words/其処.md` ("there," medial) claimed to be mutual homophones, both supposedly reading *gǝco*. Verified via exact-field comparison that this is wrong: `characters/基.md`'s own reading is gi/기/ㄍㄧ, while `characters/其 (char).md`'s own reading is gǝ/그/ㄍㄜ — a genuine vowel difference. 基礎 is actually gico/기초/ㄍㄧㄑㄛ (matching its own stored fields and `characters/礎.md`'s backlink rt), while 其処 is gǝco/그초/ㄍㄜㄑㄛ — not homophones at all. **Removed the false claim from both files** rather than formalize it into a callout.
+
+No `stand_in` relationship applies to 基 here (its own points to the sibling word [[基本]]), but `characters/礎.md`'s own `stand_in` points to this word (基礎) — a bound-morpheme case. `kwin: true` already correct per the AND-rule (both individually `true`). Vietnamese cơ sở, mandarin jīchǔ, cantonese gei1 co2, japanese きそ, and korean 기초 were all already correct.
+
+No genuine homophones exist (`注音: ㄍㄧㄑㄛ` — one false-positive prefix-substring match ruled out: `世紀初`'s `注音` `ㄙㄝㄍㄧㄑㄛ` merely contains this string as a suffix). **Incidental fix**: added a missing `## Words` entry to `characters/基.md` (`characters/礎.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 140 — [[words/堅持|堅持]]
+
+Eighteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `持`, but the actual file is `持 (char).md`. Filled a previously-blank `vietnamese` with kiên trì, a real, extremely common Sino-Vietnamese word (verified via search). Mandarin, Cantonese, Japanese, and Korean were already correct, standard readings.
+
+**Incidental character-page fix**: while researching, found `characters/持 (char).md`'s own `vietnamese` field was missing trì — the exact reading appearing in kiên trì and other common compounds like 保持 (bảo trì, "maintain") — despite listing three other readings (rì, chày, chiì). Added trì to the character's own reading list.
+
+No `stand_in` relationship applies (堅's own is 堅硬, 持's own is bare 持). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄍㄝㄋㄉㄧ` unique to this file). **Incidental fixes**: reformatted `characters/堅.md`'s bare `[[堅持]]` entry to ruby form; added a missing `## Words` entry to `characters/持 (char).md` (had none for this word at all).
+
+### 2026-07-23, iteration 141 — [[words/増加|増加]]
+
+Nineteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**`pos` corrected `性詞`→`事詞`**, matching this word's primary use as a verb ("to increase"). Filled a previously-blank `vietnamese` with tăng gia, a real Sino-Vietnamese word with a dedicated Wiktionary entry (verified via search).
+
+**Incidental character-page fix**: while researching, found `characters/増.md`'s own `vietnamese` field held `tâng`, apparently a typo (missing diacritic) for the correct reading `tăng` — corrected on the character page directly.
+
+Notable `stand_in` relationship: `characters/増.md`'s own `stand_in` points *to this word* (増加), another bound-morpheme case like several earlier this sweep. `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄐㄜㄫㄍㄚ` unique to this file). **Incidental fixes**: added a missing `## Words` section to `characters/増.md` (had none at all); added a missing `## Words` entry to `characters/加.md` (had no entry for this word at all).
