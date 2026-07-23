@@ -51,7 +51,7 @@ boundedness: 90
 ## Words
 - <ruby>[[所]]<rt>ㄙ⼄</rt></ruby> "-ee" (stand-in for 所)
 - <ruby>[[所在]]<rt>ㄙㄜㄐㄚㄧ</rt></ruby> "place; location; whereabouts"
-- <ruby>[[所有]]<rt>ㄙㄜ⼜</rt></ruby> "possess; own"
+- <ruby>[[所有]]<rt>ㄙㄜ⼜</rt></ruby> "all, every (Mandarin/Cantonese determiner); possession, ownership (formal, all languages)"
 - <ruby>[[所以]]<rt>ㄙㄜㄧ</rt></ruby> "therefore; so; consequently"
 - <ruby>[[所属]]<rt>ㄙㄜㄐㄛㄎ</rt></ruby> "affiliation; membership"
 - <ruby>[[所謂]]<rt>ㄙㄜㄨㄧ</rt></ruby> "so called"

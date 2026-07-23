@@ -53,7 +53,7 @@ boundedness: 50
 - <ruby>[[共有]]<rt>ㄍ⼘ㄫ·⼜</rt></ruby> "share"
 - <ruby>[[占有]]<rt>ㄐㄝㄇ⼜</rt></ruby> "possess; occupy; hold"
 - <ruby>[[固有]]<rt>ㄍㄛ·⼜</rt></ruby> "proper"
-- <ruby>[[所有]]<rt>ㄙㄜ⼜</rt></ruby> "possess; own"
+- <ruby>[[所有]]<rt>ㄙㄜ⼜</rt></ruby> "all, every (Mandarin/Cantonese determiner); possession, ownership (formal, all languages)"
 - <ruby>[[有名]]<rt>⼜ㄇㄧㄫ</rt></ruby> "famous"
 - <ruby>[[有様]]<rt>⼜⼘ㄫ</rt></ruby> "forebearingly; calmly (dated)"
 - <ruby>[[有机]]<rt>⼜ㄍㄧㄜ</rt></ruby> "organic"

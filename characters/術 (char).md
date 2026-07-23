@@ -45,6 +45,7 @@ boundedness: 80
 
 - 形声 (OC \*ɦljud): semantic [[Radical 144|行]] ("street, path") + phonetic [[]] (OC \*l'ud, \*ɦljud).
 ## Words
+- <ruby>[[技術]]<rt>ㄍㄨㄧㄙㄨㄊ</rt></ruby> "technology, technique"
 - <ruby>[巫術](/words/巫術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby> - shamanism
 [[Lookup/CC/initials/聲 禪]]
 [[Lookup/CC/finals/韻 術]]

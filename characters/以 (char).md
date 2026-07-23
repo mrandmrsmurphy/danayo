@@ -50,6 +50,7 @@ boundedness: 90
 - <ruby>[義以立名](/chengyu/義以立名.md)<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby>
 
 ## Words
+- <ruby>[[所以]]<rt>ㄙㄜㄧ</rt></ruby> "therefore; so; consequently"
 - [[以前]]
 - [[以便]]
 - <ruby>[[以後]]<rt>ㄧㄏㄛㄨ</rt></ruby> "after that; from now on; thenceforth"

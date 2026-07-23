@@ -2179,3 +2179,39 @@ Third word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-
 **Stand-in note applied**: `characters/績.md`'s own `stand_in` field is `成績` (this word) — added the standard phrasing to the opening bullet. (成's own `stand_in` is bare `成` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/成 (char).md` is `false`, `characters/績.md` is `true` → compound `false`).
 
 Mild register/scope observation, not a bug: Korean 성적 and Japanese せいせき lean more specifically toward "(school) grades" in everyday use, while Vietnamese thành tích and Mandarin chéngjì extend a bit more readily to general life/work achievements — same core sense, slightly different typical context. No homophones (`注音: ㄙㄧㄫㄐㄝㄎ` unique). **Incidental fix**: reformatted `characters/成 (char).md`'s existing plain-text 成績 entry into ruby form; added a missing `## Words` section entirely to `characters/績.md` (had none).
+
+### 2026-07-23, iteration 186 — [[words/所以|所以]]
+
+Fourth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: filled blank `pos` (`連接詞`, matching sibling conjunction-words like 或/而/若/与/但); added a previously-missing `kwin` (computed `false` per the AND-rule: `characters/所 (char).md` is `false`, `characters/以 (char).md` is `true` → compound `false`). Removed blank `swadesh:` and empty `aliases: []`.
+
+**Genuine part-of-speech divergence found and documented via search, not forced into agreement**: filled blank `korean` (`소이`) and `vietnamese` (`sở dĩ`), both verified as real, attested words. Mandarin/Cantonese suǒyǐ/so2 ji5 have grammaticalized into an everyday causal conjunction ("so, therefore"). Japanese ゆえん and Korean 소이, however, stayed closer to the compositional literal sense — a noun meaning "the reason (why)," used in a comparatively literary/formal register. Vietnamese sở dĩ sits in between: still common in modern speech, but as a fixed causal frame (sở dĩ ... là vì ...) rather than a plain conjunction.
+
+No `stand_in` relationship applies (both 所's and 以's own `stand_in` point to their bare selves — 所以 is an independent compound). `羅馬字`/`諺文` (`syo'i`/쇼이) checked against sibling 所-compounds: 所在/所有/所謂 all use the same "syo/쇼" spelling for 所's initial syllable (only 所属 uses "sǝ/스" instead) — left as-is, matching the majority existing convention rather than a decision I should make unilaterally. No homophones (`注音: ㄙㄜㄧ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/以 (char).md` (`characters/所 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 187 — [[words/所有|所有]]
+
+Fifth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing primary sense found and fixed via search, matching the recurring 大学/大家-style gloss-gap pattern**: `english` previously read only "possess; own" — verified via search that in modern Mandarin/Cantonese, 所有/so2 jau5 has grammaticalized into an everyday determiner meaning "all, every" (所有人 "everyone"), the far more common usage; the literal "possess/own" sense survives mainly in formal/legal registers. Reordered to lead with the determiner sense, keeping "possess; own; ownership" as the secondary formal sense. Filled blank `pos` (`修飾語`, matching sibling determiner-words like [[両]]) and blank `japanese` (`しょゆう`, verified).
+
+**Genuine grammaticalization divergence documented**: Japanese しょゆう, Korean 소유, and Vietnamese sở hữu (verified via search) never developed Mandarin/Cantonese's "all" determiner sense at all — all three remain squarely in the formal "possession; ownership" noun register (所有権/소유권/quyền sở hữu "ownership rights"). Flagged explicitly so a learner doesn't assume "all" carries across languages.
+
+No `stand_in` relationship applies (both 所's and 有's own `stand_in` point to their bare selves). `kwin: false` already correct per the AND-rule (`characters/所 (char).md` is `false`, `characters/有 (char).md` is `true` → compound `false`). Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`. No homophones (`注音: ㄙㄜ⼜` unique). **Incidental fix**: propagated the corrected gloss to both `characters/所 (char).md`'s and `characters/有 (char).md`'s own backlinks.
+
+### 2026-07-23, iteration 188 — [[words/技術|技術]]
+
+Sixth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `術`, but the actual file is `術 (char).md` — corrected to `"術 (char)"` with proper block indentation (the frontmatter had used an unindented dash-list style). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies — 技's own `stand_in` is `技能` (a different word), 術's own is bare `術` — 技術 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/技.md` is `false`, `characters/術 (char).md` is `true` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄨㄧㄙㄨㄊ` unique). **Incidental fix**: reformatted `characters/技.md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/術 (char).md`.
+
+### 2026-07-23, iteration 189 — [[words/掌握|掌握]]
+
+Seventh word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block form (both entries already correctly named, no `(char)` suffix needed). Filled blank `vietnamese` with the real, attested Sino-Vietnamese `chưởng ác` (verified via search — used e.g. in `chưởng ác binh quyền` "to hold military power"). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Folded a stray unstructured body line ("be in control of," sitting outside any heading) into a proper `## Notes` section.
+
+No `stand_in` relationship applies — 掌's own `stand_in` is `手掌` (a different word), 握's own is `把握` (a different word) — 掌握 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — "grasp with the palm" extended figuratively to "master, control" everywhere, no cross-linguistic divergence. No homophones (`注音: ㄐㄚㄫㄚㄎ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/掌.md` (`characters/握.md`'s own entry already existed).
