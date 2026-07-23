@@ -685,3 +685,61 @@ Next never-perfected character by `danayo_id` (134) — already had a good graph
 **Derived Characters** (2 hits via `graphemic_classification: 明`): 盟 ("alliance; covenant") and 萌 ("bud; sprout") — both exact `注音` matches, added.
 
 **Incidental fix**: `characters/盟.md`'s `english` field had a typo, "aliance" → "alliance."
+
+### 2026-07-22, iteration 39 — [[characters/東|東]]
+
+Next never-perfected character by `danayo_id` (135). Stamped `date-last-perfect: 2026-07-22`.
+
+**Real etymology correction, backed by a cross-reference already sitting on another perfected page**: `graphemic_classification` was stored as `會意`, and Notes had no bullet at all to check it against. Rather than write the popular "sun rising behind a tree" folk story that's often taught but not the accepted scholarly origin, checked [[characters/西|西]]'s own already-perfected page from earlier this loop — its Notes bullet explicitly states "Compare 東 (OC \*toːŋ, 'bundle > east'), 束 and 鹵," i.e. this vault had *already* recorded, on a different page, that 東's real etymology is a pictograph of a tied bundle/sack (the same "borrowed pictograph" family as 西 itself), not a 会意 compound. Corrected the field to `象形` and wrote the bullet accordingly, citing the 西 cross-reference directly and noting the sun-behind-tree story explicitly as a later reinterpretation rather than silently omitting it (a reader who's only heard the folk version deserves the correction spelled out, not just a different answer with no explanation).
+
+**Body defects found**: `## Notes` was entirely empty; two floating CC-initial/final links sat inside the Words list; several entries were bare `[[link]] "gloss"` markdown, one used a relative link with a dash-gloss, one gloss had a stray leading dash baked into the quoted text itself ("- Eastern barbarian").
+
+**Words cross-check** (15 total ground-truth hits): 7 already listed (reformatted, stray dash removed from 東夷's gloss); 5 missing — the `stand_in` compound 東方 itself, 東部, 極東, 東亜, 東京 — added, all from stored fields.
+
+**Chengyu cross-check** (3 total): 古今東西 and 東奔西走 both reused verbatim from [[characters/西|西]]'s own already-perfected entries (same two chengyu, same character pair); 東亜自通 (単亜語-origin) added fresh from stored fields.
+
+**Derived Characters** (3 hits via `graphemic_classification: 東`): 重 ("heavy" — a real if MC-divergent phonetic pair, ɖ+ɨoŋ vs 東's own t+uŋ, both nasal-final rimes, matching Shuowen's 従壬東聲), 凍 ("freeze"), 棟 ("ridgepole") — all added.
+
+### 2026-07-22, iteration 40 — [[characters/育 (char)|育]]
+
+Next never-perfected character by `danayo_id` (136). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 肉`) — verified rather than assumed: cross-checked 肉's own stored Middle Chinese (`ȵ`+`ɨuk`) against 育's own (`j`+`ɨuk`) and found an exact rime match with a plausible palatal-initial correspondence, confirming the field genuinely reflects Shuowen's real 従𠫓肉聲 analysis (semantic 𠫓, "inverted child" depicting childbirth, + phonetic 肉) rather than assuming it without checking, given how often this sweep has found the opposite.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: as above, citing the exact MC rime match as the verifying evidence.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links — no other bullets, no `## Words` heading at all.
+
+**Words cross-check** (7 total ground-truth hits): none were previously listed — added the stand-in 育 itself plus 教育, 体育, 体育館, 養育, 生育, 肥育, all from stored fields. No chengyu hits.
+
+**Derived Characters** (1 hit via `graphemic_classification: 育`): 充 ("fill" — Shuowen's 従儿育省聲, phonetic 育 abbreviated), added.
+
+**Incidental fix**: the character's own `english` field had a typo, "nuture" → "nurture."
+
+### 2026-07-22, iteration 41 — [[characters/於 (char)|於]]
+
+Next never-perfected character by `danayo_id` (138; 137 already stamped on inspection). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 修飾語`, matching its real function as a locative preposition/case particle; `graphemic_classification: 象形`).
+
+**Content removed**: a stray, meaningless fragment line, "方,仒" — not real content, sitting where the graphemic bullet should have been. Removed outright.
+
+**Graphemic bullet written from scratch**: 於 is a variant/simplified form of 烏 ("crow"), later borrowed purely for its sound to write the grammatical particle "at, in" — a standard, uncontested account (unlike a couple of other 象形 characters this loop has had to hedge on).
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in.
+
+**Words cross-check** (1 total ground-truth hit, the stand-in itself): added, from stored fields. **Chengyu built from scratch** (1 hit): 義重於音 (単亜語-origin), ruby/gloss from stored fields. No `graphemic_classification: 於` hits — no Derived Characters section applies.
+
+### 2026-07-22, iteration 42 — [[characters/姉 (char)|姉]]
+
+Next never-perfected character by `danayo_id` (139). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter fixed — a real etymology correction, no pre-existing bullet to check it against**: blank `pos: ""` → `名詞`. `graphemic_classification: 巾` was checked against 巾's own stored Middle Chinese (`k`+`ɣiɪn`) versus 姉's own (`t͡s`+`ia`) — no plausible phonetic relationship at all (different initial class, different rime shape, no shared feature). The real Shuowen etymology for 姊/姉 is 従女，𠂔聲 (phonetic 𠂔, a rare/obsolete glyph, not 巾) — corrected the field to `𠂔` and described the component in prose without a link, since it has no character page in this vault (same treatment as 気/气 and 左/𠂇 precedent elsewhere in this sweep).
+
+**Content removed**: none.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; both existing Words entries were bare `[[link]] "gloss"` with no ruby.
+
+**Words cross-check** (4 total ground-truth hits): 2 already listed (reformatted); 2 missing — the stand-in 姉 itself and 兄弟姉妹 (ruby/gloss reused from [[characters/弟 (char)|弟]]'s and [[characters/妹|妹]]'s own entries for the same word) — added. No chengyu hits, no `graphemic_classification: 姉` hits.

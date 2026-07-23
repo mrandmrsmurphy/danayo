@@ -34,6 +34,7 @@ aliases:
   - 扵
   - 于
 注音: ㄛ
+date-last-perfect: 2026-07-22
 kwin: false
 tags:
   - character
@@ -46,7 +47,14 @@ boundedness: 70
 [[nav/char_info]]
 ```
 
-# Notes
-方,仒
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 魚]]
+## Notes
+- [List of 象形](lookup/List%20of%20象形.md): a variant/simplified form of 烏 ("crow"), later borrowed purely for its sound to write the grammatical particle "at, in."
+- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 13th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄛ](syllables/ㄛ.md)
+- [Grade 1](lookup/Grade%201.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[於]]<rt>ㄛ</rt></ruby> "in; at; during" (stand-in for 於)
+
+## Chengyu
+- <ruby>[[義重於音]]<rt>ㄨㄧㄫㄑㄛㄫ·ㄛㄇ·ㄨㄇ</rt></ruby> "Meaning is more important than sound"
