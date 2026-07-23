@@ -1581,3 +1581,37 @@ Ninth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect:
 No `stand_in` relationship applies (問's own is 質問, 題's own is 標題). `kwin: false` already correct per the AND-rule (`characters/問.md` is `true`, `characters/題.md` is `false` → compound `false`).
 
 No homophones (`注音: ㄇㄨㄋㄊㄝㄧ` unique to this file). **Incidental fixes**: reformatted `characters/問.md`'s bare `[[問題]]` entry to ruby form; added a missing `## Words` entry to `characters/題.md` (had none for this word at all).
+
+### 2026-07-23, iteration 132 — [[words/回答|回答]]
+
+Tenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `回`/`答`, but the actual files are `回 (char).md`/`答 (char).md`. **`pos` corrected `性詞`→`事詞`**, matching this word's primary use as a verb/action-noun ("to reply, respond").
+
+Filled a previously-blank `vietnamese` with hồi đáp, a real, more formal/written-register Sino-Vietnamese word (verified via search) — the everyday equivalent is trả lời. Mandarin, Cantonese, Japanese, and Korean were already correct, standard readings.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄏㄛㄧㄉㄚㄆ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/答 (char).md` (`characters/回 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 133 — [[words/団結|団結]]
+
+Eleventh word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `結`, but the actual file is `結 (char).md`. All cross-linguistic fields were already correct, standard readings (mandarin tuánjié, cantonese tyun4 git3, japanese だんけつ, korean 단결, vietnamese đoàn kết) — no bugs found.
+
+No `stand_in` relationship applies (団's own is 集団, 結's own is bare 結). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄉ⺢ㄋㄍㄝㄊ` unique to this file). **Incidental fixes**: reformatted `characters/団.md`'s bare `[[団結]]` entry to ruby form; added a missing `## Words` entry to `characters/結 (char).md` (had none for this word at all).
+
+### 2026-07-23, iteration 134 — [[words/困難|困難]]
+
+Twelfth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Verified correct rather than "fixed" — a near-miss on breaking the standing North-Korean rule**: `korean: 곤난` looked suspicious at first glance (곤란 is the far more familiar form), but research confirmed 곤난 is the original/North Korean 문화어 reading, while 곤란 is a South-Korea-only sound-softening (활음조) innovation — the stored value was already exactly right per this vault's standing North-Korean-pronunciation rule, and was deliberately left unchanged.
+
+**Left `vietnamese` deliberately blank — a false-friend trap, not a simple gap**: the compositionally expected khốn nạn is indeed the direct Sino-Vietnamese descendant of 困難, but has undergone drastic semantic pejoration in modern Vietnamese to mean "wretched; damn; a contemptible person" — a strong insult, not "difficult" (verified via search). Filling this field would have actively misled a learner into vulgar language. Left blank and documented the semantic drift instead.
+
+Notable `stand_in` relationship: `characters/難.md`'s own `stand_in` points *to this word* (困難), another bound-morpheme case like several earlier this sweep. `kwin: false` already correct per the AND-rule (`characters/困.md` is `false`, `characters/難.md` is `true` → compound `false`).
+
+No homophones (`注音: ㄎㄛㄋㄋㄚㄋ` unique to this file). **Incidental fixes**: reformatted `characters/困.md`'s bare `[[困難]]` entry to ruby form; added a missing `## Words` entry to `characters/難.md` (had none for this word at all).

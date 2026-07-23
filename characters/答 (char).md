@@ -50,3 +50,6 @@ boundedness: 80
 don't use 對答
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 合]]
+
+## Words
+- <ruby>[[回答]]<rt>ㄏㄛㄧㄉㄚㄆ</rt></ruby> "respond; reply"

@@ -50,6 +50,7 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 屑開]]
+- <ruby>[[団結]]<rt>ㄉ⺢ㄋㄍㄝㄊ</rt></ruby> "unite; rally together; unify"
 - <ruby>[[凍結]]<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby> "freeze"
 - [[結加夫坐]] "sit in lotus position"
 - [[結果]] "result, fruit"
