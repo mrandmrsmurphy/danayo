@@ -46,10 +46,10 @@ boundedness: 90
 
 - 形声 (OC \*ɡu): semantic [[Radical 096|玉]] ("jade") + phonetic [[求]] (OC \*ɡu).
 ## Words
+- <ruby>[[排球]]<rt>ㄆㄚㄧㄍ⼜</rt></ruby> "volleyball"
 - <ruby>[[台球]]<rt>ㄉㄚㄧㄍ⼜</rt></ruby> "billiards; pool"
 - <ruby>[蹴球](/words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby> - soccer
 - <ruby>[[全球]]<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby> "global; the entire world"
-- 
 [[Lookup/CC/initials/聲 群]]
 [[Lookup/CC/finals/韻 尤]]
 - [[球場]] "field, pitch, court"

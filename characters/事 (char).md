@@ -67,7 +67,7 @@ boundedness: 90
 - <ruby>[[行事]]<rt>ㄏㄚㄫㄐㄧ</rt></ruby> "action; function"
 - <ruby>[[従事]]<rt>ㄐㄛㄫㄐㄧ</rt></ruby> "to engage in; to be involved in; to pursue (a vocation)"
 - <ruby>[[指事]]<rt>ㄐㄧㄜㄐㄧ</rt></ruby> "indicative character; ideogram"
-- <ruby>[[故事]]<rt>ㄍㄛㄐㄧ</rt></ruby> "narrative; story; tale"
+- <ruby>[[故事]]<rt>ㄍㄛㄐㄧ</rt></ruby> "narrative; story; tale (Mandarin/Cantonese); classical anecdote, historical precedent (Japanese/Korean/Vietnamese)"
 - <ruby>[[禍事]]<rt>ㄏ⺢ㄐㄧ</rt></ruby> "disaster; calamity"
 - <ruby>[[逸事]]<rt>ㄧㄊㄐㄧ</rt></ruby> "anecdote"
 - <ruby>[[閙事]]<rt>ㄋ⼘ㄨㄐㄧ</rt></ruby> "make a scene; cause trouble"

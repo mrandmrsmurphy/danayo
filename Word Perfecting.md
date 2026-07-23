@@ -2215,3 +2215,41 @@ Seventh word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 202
 **Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block form (both entries already correctly named, no `(char)` suffix needed). Filled blank `vietnamese` with the real, attested Sino-Vietnamese `chưởng ác` (verified via search — used e.g. in `chưởng ác binh quyền` "to hold military power"). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Folded a stray unstructured body line ("be in control of," sitting outside any heading) into a proper `## Notes` section.
 
 No `stand_in` relationship applies — 掌's own `stand_in` is `手掌` (a different word), 握's own is `把握` (a different word) — 掌握 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — "grasp with the palm" extended figuratively to "master, control" everywhere, no cross-linguistic divergence. No homophones (`注音: ㄐㄚㄫㄚㄎ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/掌.md` (`characters/握.md`'s own entry already existed).
+
+### 2026-07-23, iteration 190 — [[words/排球|排球]]
+
+Eighth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` inline JSON-style array reformatted to standard block form. Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Native-coinage divergence documented, not fabricated**: Vietnamese does not use a Sino-Vietnamese calque of 排球 at all — verified via search that the real, standard modern term is the fully native coinage bóng chuyền ("passing/relay ball"); no attested Sino-Vietnamese alternative is in actual use, so none was invented. Mandarin/Cantonese/Japanese/Korean all directly preserve the Sino compound.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both `characters/排 (char).md` and `characters/球 (char).md` individually `false`). No homophones (`注音: ㄆㄚㄧㄍ⼜` unique). **Incidental fix**: reformatted `characters/排 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/球 (char).md` and removed a stray empty bullet point from its existing list.
+
+### 2026-07-23, iteration 191 — [[words/握手|握手]]
+
+Ninth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: removed blank `swadesh:` and empty `aliases: []`. Added the missing `## Notes` section (previously had none).
+
+**Native-coinage divergence documented, not fabricated**: a weak search result offered "ác thủ" as a mechanical Sino-Vietnamese reading, but it could not be independently confirmed as an actually-used Vietnamese word (unlike, e.g., 掌握's genuinely attested "chưởng ác" last iteration) — the real, standard modern Vietnamese term for "shake hands" is the native construction bắt tay ("catch/grasp hand"). Left `vietnamese` blank rather than fabricate a technically-derivable but unattested reading.
+
+No `stand_in` relationship applies — 握's own `stand_in` is `把握` (a different word), 手's own is bare `手` — 握手 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/握.md` is `true`, `characters/手 (char).md` is `false` → compound `false`). No homophones (`注音: ㄚㄎㄙ⼜` unique). Both `characters/握.md` and `characters/手 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 192 — [[words/改変|改変]]
+
+Tenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `改`/`変`, but the actual files are `改 (char).md`/`変 (char).md` — corrected both with proper block indentation. Fixed a stray-space typo in `cantonese` (`"goi2 bin 3"`→`"goi2 bin3"`). Filled blank `vietnamese` with the real, attested `cải biến` (verified via search — a genuine dictionary entry, distinct from the similarly-spelled `cải biên` "adapt/edit a work"). Reformatted `aliases` inline array to block form (kept both `改變`/`改变` — legitimate traditional/simplified variants). Removed blank `swadesh:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: true` already correct per the AND-rule (both individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄚㄧㄅ⼶ㄋ` unique). **Incidental fix**: added a missing `## Words` section entirely to `characters/変 (char).md` (`characters/改 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 193 — [[words/故事|故事]]
+
+Eleventh word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `事`, but the actual file is `事 (char).md` — corrected. Filled blank `vietnamese` with the real, attested `cố sự` (verified via search).
+
+**Genuine register/scope divergence found via search and documented, not forced into agreement**: Mandarin gùshi/Cantonese gu3 si6 is the broad everyday word for "story" (讲故事 "tell a story," 故事书 "storybook"). Japanese こじ, Korean 고사, and Vietnamese cố sự, however, all narrow the sense to specifically an *old/classical* anecdote or historical precedent (故事成語/고사성어, idioms coined from such anecdotes) — not a general word for "story," which Japanese/Korean instead express with native words (話/이야기). Flagged so a learner doesn't assume "story" carries the same everyday breadth outside Mandarin/Cantonese.
+
+No `stand_in` relationship applies — 故's own `stand_in` is `緣故` (a different word), 事's own is bare `事` — 故事 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/故.md` is `true`, `characters/事 (char).md` is `false` → compound `false`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄍㄛㄐㄧ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/故.md`; propagated the corrected divergence-aware gloss to `characters/事 (char).md`'s own backlink.
