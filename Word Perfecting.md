@@ -1043,3 +1043,53 @@ Second word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-
 Filled `vietnamese` with the real, attested Sino-Vietnamese `nhất ban` (verified via search). No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: true` already correct per the AND-rule (both individually `true`). Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`.
 
 **Incidental fix**: added a missing `## Words` section to `characters/般 (char).md` (had none at all).
+
+### 2026-07-23, iteration 85 — [[words/不但|不但]]
+
+Third word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**A genuinely Mandarin-specific grammatical particle, left honestly incomplete rather than fabricated**: 不但……而且…… ("not only… but also…") is a common Mandarin correlative conjunction, but searches found no evidence Japanese or Korean use this compound at all — both express the same logical relation with entirely unrelated constructions (Japanese 〜だけでなく; Korean -뿐만 아니라). Left `japanese`/`korean`/`vietnamese` blank rather than inventing an unattested compositional reading — even a "compositional-only, disclosed" value (the pattern used for [[長牙]]/[[擦拭]] etc.) would overstate the case for a pure grammatical particle with no cross-linguistic parallel at all.
+
+**Homophone found and handled — new for this word**: [[不丹]] "Bhutan" shares this word's exact reading (boddan/볻단/ㄅㄛㄊㄉㄚㄋ) — added the `[!warning]` callout to both pages (不丹's own page was already fully perfected and stamped 2026-05-23; only added the missing callout, left the rest and its existing stamp untouched).
+
+No `stand_in` relationship applies — both 不's and 但's own `stand_in` fields are bare self-reference. Filled a previously-missing `kwin` field entirely — computed `false` per the AND-rule (`characters/不 (char).md` is `false`, `characters/但.md` is `true` → compound `false`). Fixed a missing space in `cantonese` (bat1daan6→bat1 daan6); quoted `hsk_level: "1"`.
+
+**Incidental fixes**: reformatted `characters/不 (char).md`'s bare, plain-markdown-linked entry for this word to a proper ruby wikilink; added a missing `## Words` entry to `characters/但 (char).md`.
+
+### 2026-07-23, iteration 86 — [[words/主要|主要]]
+
+Fourth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`. A clean iteration.
+
+**Small fix**: `vietnamese: Chủ yếu` was capitalized as if a proper noun — lowercased to `chủ yếu`.
+
+**No `stand_in` relationship applies**: 主's own is `主人`, 要's own is `重要` — 主要 is an independent compound, not a legitimizer for either. `kwin: false` already correct per the AND-rule (`characters/主.md` is `true`, `characters/要.md` is `false` → compound `false`).
+
+**All cross-linguistic fields already correct** — genuinely the everyday, standard word for "main, principal" across the sphere, no native displacement or homophone collision found. Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`.
+
+No homophones (`注音: ㄐㄨ·⼄ㄨ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/要.md` (`characters/主.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 87 — [[words/人民|人民]]
+
+Fifth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Genuine political-connotation finding, richly documented**: Korean 인민, unlike the neutral rénmín/jan4 man4/じんみん/nhân dân across the other four languages, carries a real, heavily-documented political charge — verified via search that South Korea's own constitutional drafters replaced 인민 with 국민 in the 1940s specifically to avoid its communist/North Korean association, while North Korea's own official name for itself, 조선민주주의인민공화국 (DPRK), uses 인민 as its ideologically loaded term for "the people" (the revolutionary masses, explicitly excluding capitalists/landlords). Kept 인민 as the field value — it's the honest hanja-matching reading — but documented the connotation explicitly rather than presenting it as neutral like its four counterparts.
+
+**Small fix**: `vietnamese: Nhân dân` was capitalized as if a proper noun — lowercased to `nhân dân`.
+
+**Stand-in note applied**: `characters/民.md`'s own `stand_in` field is `人民` — added the standard phrasing. (人's own `stand_in` is bare `人` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/人 (char).md` is `false`, `characters/民.md` is `true` → compound `false`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`.
+
+No homophones (`注音: ㄋㄧㄋㄇㄧㄋ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/人 (char).md` and `characters/民.md`.
+
+### 2026-07-23, iteration 88 — [[words/今年|今年]]
+
+Sixth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bug caught**: `characters:` listed bare `今`, but the actual character file is `今 (char).md` — the missing-`(char)`-suffix bug flagged repeatedly across this vault's logs — corrected to `"今 (char)"`.
+
+**`korean` comma-dump untangled**: `금년,올해` mixed this compound's real Sino-Korean reading (금년, still current in formal registers like 금년도, "this fiscal year") with the everyday native word 올해 — narrowed to 금년 and moved 올해 into prose.
+
+Filled a previously-missing `kwin` field — computed `false` per the AND-rule (both constituents individually `false`). Filled `vietnamese` with the honest compositional `kim niên` (no independent attestation found as a standalone term); the universal everyday Vietnamese phrase is native năm nay.
+
+No `stand_in` relationship applies — both 今's and 年's own `stand_in` fields are bare self-reference. Quoted `hsk_level: "1"`; removed blank `swadesh:`/`aliases:`.
+
+No homophones (`注音: ㄍㄧㄇㄋㄝㄋ` unique to this file). **Incidental fix**: reformatted `characters/今 (char).md`'s bare `[[今年]]` entry to ruby form (`characters/年 (char).md`'s own entry was already correctly formatted).

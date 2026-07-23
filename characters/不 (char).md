@@ -58,7 +58,7 @@ boundedness: 50
 ## Words
 - <ruby>[[不及]]<rt>ㄅㄛㄊㄍㄨㄆ</rt></ruby> "to not reach; to be inferior to"
 - <ruby>[[不丹]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "Bhutan"
-- [不但](words/不但.md)
+- <ruby>[[不但]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "not only"
 - [不信](words/不信.md)
 - [不同](words/不同.md)
 - [不平](words/不平.md)

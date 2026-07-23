@@ -53,4 +53,5 @@ boundedness: 75
 [[Lookup/CC/finals/韻 寒]]
 
 ## Words
+- <ruby>[[不但]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "not only"
 - <ruby>[[但]]<rt>ㄉㄚㄋ</rt></ruby> "but; however"
