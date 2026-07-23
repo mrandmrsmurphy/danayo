@@ -29,6 +29,7 @@ graphemic_classification: 古
 stand_in: 苦
 aliases:
 注音: ㄎㄛ
+date-last-perfect: 2026-07-22
 kwin: false
 tags:
   - character
@@ -40,24 +41,24 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-1. bitter
-2. abbreviation for "magnesium" 
 - 形声 (OC \*kʰaːʔ, \*kʰaːs): semantic [[Radical 140|艸]] ("grass") + phonetic [[古]] (OC \*kaːʔ) — bitter (as in bitter plants).
+- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 622nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄎㄛ](syllables/ㄎㄛ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 苦 also serves as this vault's periodic-table abbreviation for magnesium (Mg), functioning the way a chemical symbol letter does in a compound formula — see [[苦土素]].
+
 ## Words
-* [[苦瓜]] bitter melon
-* [[苦役]] hard labor
-* [[苦難]] miserable, distressing
-* [[苦肉]] desperate measures, last resort
-* [[苦悩]] to agonize over
-* [[刻苦]] industrious, frugal
-* [[苦味]] bitter
-* <ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby> - magnesium <ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 模]]
-- [[苦痛]] "agony, pain, suffering"
-- <ruby>[[苦役]]<rt>ㄎㄛ⼶ㄎ</rt></ruby> "hard labor"
+- <ruby>[[苦]]<rt>ㄎㄛ</rt></ruby> "suffering; bitter" (stand-in for 苦)
+- <ruby>[[苦味]]<rt>ㄎㄛㄇㄨㄧ</rt></ruby> "bitter taste"
+- <ruby>[[苦瓜]]<rt>ㄎㄛㄍ⺢</rt></ruby> "bitter melon"
+- <ruby>[[苦痛]]<rt>ㄎㄛㄊㄛㄫ</rt></ruby> "agony, pain, suffering"
 - <ruby>[[苦難]]<rt>ㄎㄛㄋㄚㄋ</rt></ruby> "hardship, tribulation"
 - <ruby>[[苦肉]]<rt>ㄎㄛㄋㄨㄎ</rt></ruby> "desperate self-sacrifice"
 - <ruby>[[苦悩]]<rt>ㄎㄛㄋㄚㄨ</rt></ruby> "inner torment"
+- <ruby>[[苦悶]]<rt>ㄎㄛㄇㄛㄋ</rt></ruby> "agony; anguish; worry"
+- <ruby>[[苦渋]]<rt>ㄎㄛㄙㄧㄆ</rt></ruby> "astringent; harsh; rough"
+- <ruby>[[苦役]]<rt>ㄎㄛ⼶ㄎ</rt></ruby> "hard labor"
 - <ruby>[[刻苦]]<rt>ㄎㄨㄎㄎㄛ</rt></ruby> "assiduous, austere diligence"
-- <ruby>[[苦味]]<rt>ㄎㄛㄇㄨㄧ</rt></ruby> "bitter taste"
+- <ruby>[[辛苦]]<rt>ㄙㄧㄋㄎㄛ</rt></ruby> "work hard; toil"
+- <ruby>[[苦土]]<rt>ㄎㄛㄊㄛ</rt></ruby> "magnesia; magnesium oxide"
+- <ruby>[[苦土素]]<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby> "magnesium"

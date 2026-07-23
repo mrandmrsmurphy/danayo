@@ -8,44 +8,6 @@ A self-paced `/loop` sweep perfecting one character file per iteration against [
 
 ## Log
 
-### 2026-07-22, iteration 1 — [[characters/多 (char)|多]]
-
-Next never-perfected character by `danayo_id` (84). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already complete and correct — `graphemic_classification: 會意` matched the page's own already-written 会意 bullet, `stand_in: 多` correct (word file exists), `aliases:` correctly left blank (empty, matching the vault's established convention for "no aliases" rather than an empty-list `[]`).
-
-**Body defects found**: `## Words` was sitting *before* `## Notes` (wrong section order); `## Notes` had only bullet 1 (graphemic) — bullets 2–4 (SKIP/Stroke, MC rank, Levels) were entirely missing; `### Derived Characters` was H3 instead of H2; the two CC-initial/final links (`[[Lookup/CC/initials/聲 端]]`, `[[Lookup/CC/finals/韻 歌]]`) were floating on their own lines inside Derived Characters instead of embedded in the MC-rank bullet; no `## Chengyu` section existed despite 2 real hits.
-
-**Content removed**: a bullet under the old (mis-leveled) Derived Characters reading "abbreviation for 'gadolinium': [[加多金]] ... uses 多, the word's second character, since 加 is already taken as the abbreviation for californium" — this described a real word ([[加多金]], confirmed existing), not an actual derived *character*, so it didn't belong in that section. Relocated (not deleted) into `## Words` with the gloss "gadolinium," keeping the phonosemantic-coinage note in shortened form.
-
-**Words cross-check** (18 total ground-truth hits via `characters:` field grep, tolerant of quoted entries): only 2 were previously listed (加多, 多様); added 16 more — the stand-in 多 itself, the full correlative-degree paradigm (多少, 此多, 其多, 彼多, 何多, 皆多, 某多, 毎多 — all already existed as word files, none were listed on the character page at all), 繁多, 衆多, 多彩, 多辺, and 加多金. Also corrected 加多's gloss from a paraphrase ("to add more; to increase") to the word file's actual verbatim stored `english` field ("to add; to augment; to increase").
-
-**Chengyu section built from scratch** (2 hits): 多召少選 ("many are called, few are chosen," Bible-derived) and 少即是多 ("less is more," attributed to Mies van der Rohe) — neither had been backlinked from 多's page before.
-
-**Flagged, not fixed — recurring `注音` mismatch pattern, same class documented elsewhere in [[AIOS/projects.md]] (恩/慣/調·酒)**: three existing word/chengyu files spell 多's contribution as `ㄉㄚ` instead of 多's own stored `ㄉㄜ` — `words/多彩.md` (注音 `ㄉㄚㄑㄚㄧ`), `chengyu/多召少選.md` (`ㄉㄚ...`), and `chengyu/少即是多.md` (`...ㄉㄚ`). Used each file's actual stored 注音 verbatim in the ruby markup per the checklist's byte-for-byte rule, rather than "correcting" it — fixing the downstream files is out of scope for a character-page perfection pass and needs its own dedicated look (worth checking whether this is one systematic bug, given three independent hits with the identical shape).
-
-**Derived Characters** (3 hits via `graphemic_classification: 多`, all pre-existing frontmatter values, not re-litigated here): 爹 (already independently perfected, its own page already documents phonetic 多), 移 (Shuowen's traditional 从禾多聲 analysis, despite a large synchronic MC divergence — same "trust the attested classical analysis over surface MC mismatch" pattern as 石/生's phonetic families), 宜 (Shuowen: 从宀，多省聲, an abbreviated-phonetic reading — modern pictographic reinterpretations exist but the vault's own stored classification already commits to this traditional account, left as-is). None of the three were previously listed on 多's own page.
-
-**Graphemic bullet**: rewrote to name the actual doubled component (肉 "meat," corrupted in bronze script into 夕) and linked 夕 to its Radical page (`[[Radical 036|夕]]`, since 多's own `radical:` field is 夕) — the old bullet described this correctly in prose but named neither.
-
-Next: continuing ascending by `danayo_id` — 87 (糸), 88 (回), 91 (会), 92 (米), ... (89, 90 already have a `date-last-perfect` stamp on inspection).
-
-### 2026-07-22, iteration 2 — [[characters/糸|糸]]
-
-Next never-perfected character by `danayo_id` (87; checked 89/次 and 90/先 too — both already stamped, 2026-07-21 and 2026-07-10 respectively, in sessions not logged to this file). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter bugs fixed**: `japanese_native` was malformed YAML — a bare scalar `いと` immediately followed by a stray `- いと` list item (same defect class as [[characters/野獣|野獣]]'s fix, noted in [[Loop Work.md]]) — collapsed to a proper single-item list. `vietnamese` was a single comma-joined string (`"tơ, tưa, ty, ti"`) instead of a real YAML list — reformatted into four separate list items, preserving all four existing values as-is (no new content invented, just re-shaped).
-
-**Content removed**: none — no incorrect or contradicted data on this page, just formatting and missing structure.
-
-**Body defects found**: `## Notes` had only a bare "Components: [[幺]], [[小]]" line (non-canonical, no real classification prose) plus two floating CC-initial/final links on their own lines and a bare `[[糸線]] "silk thread"` bullet with no `## Words` heading at all — no SKIP/Stroke/MC/Levels bullets existed. Rewrote the graphemic bullet as a proper 象形 entry (checked against the character's own already-correct `graphemic_classification: 象形` — 糸 depicts a skein of twisted silk thread with the two ends knotted, not two components combining, so the old "Components: 幺, 小" text was describing surface visual resemblance, not real etymology; dropped rather than carried forward) and linked the radical (`[[Radical 120|糸]]`, since 糸's own `radical:` field is itself). Added the missing SKIP/Stroke/MC/Levels bullets and moved the sole Words entry into a proper `## Words` heading.
-
-**Words cross-check**: only one real hit vault-wide (`stand_in: 糸線`, confirmed via `characters:`-field grep across all of `words/`) — already present, just needed the heading and ruby (`ㄙㄚㄙ⼶ㄋ`, pulled from `words/糸線.md`'s own stored `注音`). No chengyu hits, no `graphemic_classification: 糸` hits (no Derived Characters section needed).
-
-**Verified, not touched**: `mc_id: 1392` matches `lookup/CC/CC 1000.md` line "1392. 絲" exactly (絲 is 糸's own listed traditional-form alias, not a different character — same-character variant, not a market/city-style false match). `aliases: [絲, 丝]` left as-is, plausible and unverified-but-not-contradicted.
-
-Next: 88 (回), 91 (会), 92 (米), 93 (耳), 94 (地), continuing ascending by `danayo_id`.
-
 ### 2026-07-22, iteration 3 — [[characters/回 (char)|回]]
 
 Next never-perfected character by `danayo_id` (88). Stamped `date-last-perfect: 2026-07-22`.
@@ -799,3 +761,49 @@ Next never-perfected character by `danayo_id` (142). Stamped `date-last-perfect:
 **Words cross-check** (10 total ground-truth hits): 3 already listed (専門, 門捷金, 奥門); 7 missing — the `stand_in` compound 大門 itself, 門戸, 校門, 凱旋門, 部門, 肛門, 陰門 — added, all from stored fields.
 
 **Derived Characters** (3 hits via `graphemic_classification: 門`): 聞 ("hear"), 問 ("question"), 悶 ("agony") — all standard, well-attested 門-phonetic derivatives, added.
+
+### 2026-07-22, iteration 46 — [[characters/苦 (char)|苦]]
+
+Next never-perfected character by `danayo_id` (143). Stamped `date-last-perfect: 2026-07-22`. **Second application of the new element-abbreviation standing rule**: this page's Notes had a garbled numbered-list fragment ("1. bitter / 2. abbreviation for 'magnesium'") sitting before the real graphemic bullet — kept the magnesium-abbreviation fact as its own proper trailing Notes bullet (linking [[苦土素]]) rather than discarding it, per the rule added earlier this session.
+
+**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 古` matching an already-good, OC-cited bullet).
+
+**Content removed**: the garbled "1. bitter / 2. abbreviation..." numbered-list fragment (superseded by the real graphemic bullet and the restored magnesium note below it); a literal duplicate — `苦土素`'s ruby+gloss line was typed out twice on the same bullet ("magnesium `<ruby>...` magnesium `<ruby>...`"), collapsed to one; six Words entries (苦役, 苦難, 苦肉, 苦悩, 刻苦, 苦味) existed as **two separate copies each** — a bare `* [[link]] gloss` asterisk-bullet list followed later by a proper ruby'd dash-bullet list repeating the same six compounds — deduplicated, keeping the properly-formatted copy of each.
+
+**Words cross-check** (14 total ground-truth hits): 9 already present after deduplication; 5 missing — the stand-in 苦 itself, 苦土, 苦悶, 苦渋, 辛苦 — added, all from stored fields. No chengyu hits, no `graphemic_classification: 苦` hits.
+
+**Incidental fix**: `words/辛苦.md`'s `english` field had a typo, "word hard" → "work hard."
+
+### 2026-07-22, iteration 47 — [[characters/空 (char)|空]]
+
+Next never-perfected character by `danayo_id` (144). Stamped `date-last-perfect: 2026-07-22`. Page already had a real, correctly-cited graphemic bullet — this iteration was mostly reordering and gap-filling.
+
+**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 工`).
+
+**Content removed**: none.
+
+**Body defects found**: `## Chengyu` sat before `## Words`; bullets 2–4 were merged into non-canonical forms — a Levels bullet came before the MC bullet, and the MC bullet crammed SKIP/Stroke/syllable/CC-links together with middle-dot separators instead of the canonical two-bullet split. Rebuilt into the standard four-bullet order.
+
+**Words cross-check** (14 total ground-truth hits): 4 already listed (reformatted); 10 missing — the stand-in 空 itself, 空手道, 天空, 空気, 空港, 空白, 空虚, 航空, 航空母艦, 孫悟空 — added, all from stored fields.
+
+**Chengyu cross-check** (4 total): 3 already present and correctly formatted; 1 missing — 海闊天空 — added.
+
+**Derived Characters** (2 hits via `graphemic_classification: 空`): 控 ("accuse; charge") and 腔 ("chest cavity") — both standard, well-attested 工-family phonetic derivatives via 空, added.
+
+### 2026-07-22, iteration 48 — [[characters/知 (char)|知]]
+
+Next never-perfected character by `danayo_id` (146; 145 already stamped on inspection). Stamped `date-last-perfect: 2026-07-22`. Already flagged as unperfected as far back as [[Word Perfecting.md]] iteration 7 ("bare '矢, 口' Notes fragment") — that stray fragment was still sitting there unresolved.
+
+**Real etymology correction**: `graphemic_classification: 矢` asserted 形声 with phonetic 矢, but the classical Shuowen entry for 知 reads "从口从矢" — both components stated as meaning-contributing (会意), with no phonetic relationship claimed at all. The page's own leftover "矢, 口" fragment (a bare component list, not a real bullet) was itself evidence pointing the same direction — someone had already identified both components as relevant, just never finished writing the analysis. Corrected the field to `會意` and wrote the bullet: an arrow's swiftness/directness + mouth/speech — words spoken as unerringly as an arrow flies, "to know." Linked 矢 to its Radical page (`[[Radical 111|矢]]`, since 知's own `radical:` field is 矢).
+
+**Content removed**: the stray "矢, 口" component-list fragment (superseded by the real bullet) and an empty bullet (`- ` with nothing after it).
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; several Words entries were bare `[[link]]` with no ruby/gloss.
+
+**Words cross-check** (8 total ground-truth hits): 7 already listed (reformatted); 1 missing — the stand-in 知 itself — added.
+
+**Chengyu**: 温故知新 already present and correctly formatted, no changes needed.
+
+**Derived Characters** (3 hits via `graphemic_classification: 知`): 智 ("wisdom," transparently 知+日), 蜘 ("spider," as in 蜘蛛), 痴 ("stupid; foolish") — all standard, well-attested 知-phonetic derivatives, added.
+
+**Incidental fix**: `words/知性.md`'s `english` field had a typo, "knowledgable" → "knowledgeable."
