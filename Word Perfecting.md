@@ -2329,3 +2329,49 @@ Nineteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 
 **A striking four-way sense divergence found via search and documented, not forced into agreement**: Mandarin/Cantonese fāngbiàn/fong1 bin6 is the everyday adjective "convenient, suitable" (also a euphemism for "to relieve oneself"). Korean 방편 and Japanese ほうべん (hōben), however, both function as a noun meaning "expedient means" — most notably the Buddhist technical term for upāya, a bodhisattva's skillful teaching method (方便品, the "Expedient Means" chapter of the Lotus Sutra). Vietnamese phương tiện has drifted furthest: it now means "means; tool; vehicle" in ordinary modern usage (phương tiện giao thông "vehicle," phương tiện thông tin đại chúng "mass media") — a real semantic shift from "convenient method" to "the physical instrument itself." Rewrote `english` to document all four senses explicitly.
 
 No `stand_in` relationship applies — 方's own `stand_in` is `方向` (a different word), 便's own is bare `便` — 方便 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). No homophones (`注音: ㄈㄚㄫㄅ⼶ㄋ` unique). **Incidental fix**: reformatted `characters/方.md`'s existing plain-text entry into ruby form with the corrected divergence-aware gloss; added a missing `## Words` section entirely to `characters/便 (char).md` (had none).
+
+### 2026-07-23, iteration 202 — [[words/方向|方向]]
+
+Twentieth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Homophone triad reformatted to canonical form**: the existing callout used the wrong syntax (`> [!tip] This word is a homophone to both...`) — reformatted to canonical `>[!warning] Homophones`, verified as a genuine three-way match on `羅馬字`/`諺文`/`注音` (`fanghyang`/빵향/ㄈㄚㄫㄏ⼘ㄫ, identical across all three despite differing source-language Cantonese tones) between 方向, [[方響]] ("hōkyō," an ancient Chinese metallophone), and [[芳香]] ("fragrant, aromatic"). Applied the same reciprocal fix to both sibling pages, and fixed a broken empty-link (`[[]]`) on `方響`'s own callout that should have pointed to `方向`. (Did **not** stamp `date-last-perfect` on either sibling — only their callouts were touched, not a full perfecting pass; briefly stamped `芳香` in error and then reverted it, since it's still missing `vietnamese` and a complete `## Notes`.)
+
+**Frontmatter cleanup**: removed empty `aliases: []`.
+
+**Stand-in note applied**: `characters/方.md`'s own `stand_in` field is `方向` (this word) — added the standard phrasing. (向's own `stand_in` is bare `向` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/方.md` is `false`, `characters/向 (char).md` is `true` → compound `false`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. **Incidental fix**: added a missing `## Words` entry to `characters/方.md` with the stand-in note (`characters/向 (char).md`'s own informal reference to 方向 was left as-is, matching its established grammatical-note style).
+
+### 2026-07-23, iteration 203 — [[words/旅行|旅行]]
+
+Twenty-first word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `行`, but the actual file is `行 (char).md` — corrected.
+
+**North-Korean-pronunciation rule violation, fixed**: `korean: "여행"` was the South Korean 두음법칙-shifted form — corrected to `려행`, matching `characters/旅.md`'s own stored `려` (North Korean 문화어 doesn't shift word-initial ㄹ to ㅇ the way the South does; verified via search that 려행 is indeed the standard North Korean spelling of 旅行). Per the standing vault rule, `korean` always uses the North Korean reading.
+
+**Stand-in note applied**: `characters/旅.md`'s own `stand_in` field is `旅行` (this word) — added the standard phrasing. (行's own `stand_in` is bare `行` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. A clean, directly parallel compound across the whole sphere in meaning — no cross-linguistic divergence to flag. No homophones (`注音: ㄌ⼄ㄏㄚㄫ` unique). **Incidental fix**: added a missing `## Words` section entirely to `characters/旅.md` (`characters/行 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 204 — [[words/日語|日語]]
+
+Twenty-second word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Wrong-word conflation bug fixed**: `japanese: にほんご` — verified via search that にほんご is specifically the reading of the fuller three-character 日本語, not of 日語 itself; the actual (rare, dialectal/academic) reading of the two-character 日語 is にちご. Corrected. Also fixed inconsistent capitalization to match sibling language-name words ([[英語]], [[法語]], [[中文]]): `mandarin: "Rìyǔ"`→`"rìyǔ"`, `vietnamese: Tiếng Nhật`→`tiếng Nhật`.
+
+**Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block form (quoted `"日 (char)"`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 日's own `stand_in` is bare `日`, 語's own is `言語` (a different word) — 日語 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). No homophones (`注音: ㄋㄧㄊ⼄` unique). **Incidental fix**: reformatted `characters/語.md`'s existing bare-link entry into ruby form (`characters/日 (char).md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 205 — [[words/早飯|早飯]]
+
+Twenty-third word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `早`, but the actual file is `早 (char).md` — corrected.
+
+**Genuine sense divergence found via search and documented, not forced into agreement**: `english` previously read only "breakfast" — Mandarin zǎofàn and Cantonese zou2 faan6 are indeed everyday words for "breakfast," and Korean 조반 is a real (if more formal/literary than native 아침밥) word for it too. Japanese はやめし, however, does *not* mean "breakfast" at all — it means "a fast eater" or, less commonly, "an early meal," with 朝ご飯/朝食 being the actual Japanese word for breakfast. Rewrote `english` to state both senses explicitly.
+
+**Native-coinage left blank, not fabricated**: no attested Sino-Vietnamese reading of 早飯 is in actual use (modern Vietnamese uses the native bữa sáng/ăn sáng) — `vietnamese` left blank.
+
+No `stand_in` relationship applies — 早's own `stand_in` is bare `早`, 飯's own is `米飯` (a different word) — 早飯 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄐㄚㄨㄅㄛㄋ` unique). **Incidental fix**: propagated the corrected divergence-aware gloss to both `characters/早 (char).md`'s and `characters/飯.md`'s own backlinks.

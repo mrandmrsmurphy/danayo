@@ -51,7 +51,7 @@ boundedness: 90
 ## Words
 - <ruby>[[早]]<rt>ㄐㄚㄨ</rt></ruby> "early" (stand-in for 早)
 - <ruby>[[早晨]]<rt>ㄐㄚㄨㄙㄧㄋ</rt></ruby> "early morning"
-- <ruby>[[早飯]]<rt>ㄐㄚㄨㄅㄛㄋ</rt></ruby> "breakfast"
+- <ruby>[[早飯]]<rt>ㄐㄚㄨㄅㄛㄋ</rt></ruby> "breakfast (Mandarin/Cantonese/Korean); fast eater, early meal (Japanese)"
 
 ## Derived Characters
 - <ruby>[[草 (char)|草]]<rt>ㄑㄚㄨ</rt></ruby> "grass"
