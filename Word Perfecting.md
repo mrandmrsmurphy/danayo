@@ -1735,3 +1735,47 @@ Twenty-third word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-p
 No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`).
 
 No homophones (`注音: ㄉㄜㄙㄛㄨ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 146 — [[words/大声|大声]]
+
+Twenty-fourth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `大`, but the actual file is `大 (char).md`. **Real typo corrected**: `cantonese: daai6 seng1` — 声 is never read seng1 (its own character page confirms sing1); corrected to `daai6 sing1`.
+
+Filled a previously-blank `vietnamese` with đại thanh, attested in the Hán Nôm dictionary (verified via search), more literary/classical than the everyday native nói to/lớn tiếng.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄉㄚㄧㄙㄧㄫ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 147 — [[words/大学|大学]]
+
+Twenty-fifth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Gloss corrected — a real content bug**: `english` previously listed only "Great Learning" (the Confucian classic), but this word's own leftover note revealed its primary living use is the abbreviated form of "university" used inside institution names (e.g. 東京大学, "Tokyo University") — the standalone generic noun "university" instead belongs to the fuller sibling word [[大学校]] (whose own note says "abbr 大学"). Reordered the gloss to lead with the university sense, kept "Great Learning" as secondary, and confirmed the separate book translation page [[translation/大学 (book)]] already exists for that specific sense. Propagated the corrected gloss to both constituent characters' existing backlinks (`characters/学.md`, `characters/大 (char).md`), which had inherited the old incomplete gloss.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: true` already correct per the AND-rule (both individually `true`). Mandarin, Cantonese, Japanese, Korean, and Vietnamese were all already correct.
+
+Two false-positive homophones ruled out: `大学生` and `大学校` both begin with this word's exact `注音` string but are longer superset compounds, not genuine homophones.
+
+### 2026-07-23, iteration 148 — [[words/大家|大家]]
+
+Twenty-sixth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Major content bug corrected**: `english` previously listed only "noble, lord, lady, gentleman," entirely missing this word's actual HSK-1-relevant sense — in Mandarin/Cantonese, 大家 is an extremely common grammaticalized pronoun for "everyone; everybody" (大家好!). Corrected the primary gloss and `pos` (名詞→代詞, pronoun).
+
+**A striking four-way cross-linguistic divergence documented, not forced into agreement**: verified via search that the same two characters mean something different in each language — Mandarin/Cantonese "everyone"; Japanese おおや "landlord" (a different reading, たいか, means "master/authority," neither means "everyone"); Korean 대가 "master; distinguished expert"; and Vietnamese đại gia, modern slang for "tycoon; wealthy businessperson." Left `vietnamese` blank rather than force đại gia into an "everyone" gloss it doesn't carry — Vietnamese expresses "everyone" with the entirely native, unrelated mọi người. Kept the Japanese/Korean fields as their own genuine readings, documented as unrelated senses rather than silently implying they mean "everyone" too. Fixed the missing `(char)` suffix on 大 in `characters:`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No genuine homophones (`注音: ㄉㄚㄧㄍㄚ` — five false-positive prefix/suffix-substring matches ruled out via exact comparison: 大江/大綱/大蛤/大概/大家族 all differ in their final syllable or are longer). **Incidental fixes**: updated `characters/大 (char).md`'s stale backlink gloss to match the corrected sense; added a missing `## Words` entry to `characters/家.md` (had none for this word at all).
+
+### 2026-07-23, iteration 149 — [[words/夫人|夫人]]
+
+Twenty-seventh word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `羅馬字: bunin` didn't match this word's own `注音`/`諺文` (ㄈㄜㄋㄧㄋ/쁘닌) at all — corrected to `fǝnin`, matching `characters/夫 (char).md`'s own stored reading (fǝ) + 人's own (nin). **Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `夫`, but the actual file is `夫 (char).md`.
+
+All cross-linguistic fields (mandarin, cantonese, japanese, korean, vietnamese) were already correct, standard readings for "madam; lady; (someone else's) wife." No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄈㄜㄋㄧㄋ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/夫 (char).md` (`characters/人 (char).md`'s own entry exists but as a bare numbered-list item — left as-is, consistent with that list's own separate structure, not individually ruby-annotated).

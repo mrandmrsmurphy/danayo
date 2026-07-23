@@ -47,6 +47,7 @@ boundedness: 90
 [[Lookup/CC/finals/韻 虞]]
 
 ## Words
+- <ruby>[[夫人]]<rt>ㄈㄜㄋㄧㄋ</rt></ruby> "madam; lady; (someone else's) wife"
 - <ruby>[[漁夫]]<rt>⼄ㄈㄜ</rt></ruby> "fisherman"
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
