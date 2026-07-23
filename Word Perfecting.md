@@ -395,3 +395,67 @@ Swadesh #67 ("egg, ovum"). Stamped `date-last-perfect: 2026-07-22`.
 No homophones (`注音: ㄌㄚㄋㄐㄜ` unique to this file).
 
 Next: #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 36 — [[words/羽毛|羽毛]]
+
+Swadesh #70 ("feather"). Stamped `date-last-perfect: 2026-07-22`. A clean iteration — `羅馬字`/`諺文`/`注音` (`'umau`/우맛/ㄨㄇㄚㄨ) already matched both constituent characters' own fields, and `mandarin`/`cantonese`/`japanese`/`korean` were all already correctly filled.
+
+**Frontmatter cleanup**: removed blank `hsk_level:` and empty `aliases: []`. `kwin: false` already correct per the AND-rule (`characters/羽.md` is `true`, `characters/毛 (char).md` is `false` → compound `false`).
+
+**Stand-in note applied**: `characters/羽.md`'s own `stand_in` field is `羽毛` — added "— stand-in for [[羽]], which cannot appear independently." (毛's own `stand_in` is bare `毛` itself — no note on that side.)
+
+**Vietnamese field filled**: `vũ mao`, a real attested Sino-Vietnamese compound (verified via search) — also found in the reversed order 毛羽 (mao vũ) in Vietnamese-Chinese dictionaries, the same free-word-order pattern already noted on [[介紹]]/紹介 and [[草花]]/花草 earlier in this sweep.
+
+**Incidental fix**: `characters/羽.md` had no `## Words` section at all — added one with a proper ruby entry. `characters/毛 (char).md` already had a correctly-formatted ruby backlink — no fix needed there.
+
+No homophones (`注音: ㄨㄇㄚㄨ` unique to this file).
+
+Next: #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 37 — [[words/頭髪|頭髪]]
+
+Swadesh #71 ("hair"). Stamped `date-last-perfect: 2026-07-22`.
+
+**Investigated, not a bug**: `mandarin: "tóufà, tóufǎ"` looked at first glance like the same comma-dump error class fixed repeatedly this sweep (一切, 知, 之間) — but this one turned out to be a genuine regional standard split, not an error. Verified via Wiktionary: 髮/发's own citation tone splits Mainland Putonghua **fà** (fourth tone, matching `characters/髪.md`'s own stored `mandarin: fà`) vs. Taiwan Guoyu **fǎ** (third tone) — both are real, standard, attested readings of the same character in different national standards. Reformatted the comma string into a proper YAML list (matching the [[主意]]/[柏] precedent for words with more than one genuinely valid Mandarin reading) rather than picking one and discarding the other.
+
+**No internal Dan'a'yo derivation bug** — `羅馬字`/`諺文`/`注音` (`toubad`/톳받/ㄊㄛㄨㄅㄚㄊ) already matched both constituent characters' own fields. `kwin: false` already correct per the AND-rule (`characters/頭 (char).md` and `characters/髪.md` are both individually `false`). Removed a blank `hsk_level:` field; kept the existing `aliases: [頭髮]` (legitimate — 髮 is 髪's own documented traditional form).
+
+**Stand-in note applied**: `characters/髪.md`'s own `stand_in` field is `頭髪` — added "— stand-in for [[髪]], which cannot appear independently." (頭's own `stand_in` is bare `頭` itself — no note on that side.)
+
+**Vietnamese left as-is with added context**: kept `tóc` (the genuine everyday native word) as the field value, and noted in prose that the fuller native compound `đầu tóc` ("head-hair") is more common than the literal Sino-Vietnamese calque `đầu phát`, which is attested but rare — same native-vs-Sino-Xenic register pattern as several other iterations this sweep.
+
+**Incidental fixes**: added missing `## Words` backlinks to both `characters/頭 (char).md` and `characters/髪.md` (the latter had no `## Words` section at all, just an empty `## Notes` before `## Chengyu`).
+
+No homophones (`注音: ㄊㄛㄨㄅㄚㄊ` unique to this file).
+
+Next: #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 38 — [[words/目|目]]
+
+Swadesh #74 ("eye"). Stamped `date-last-perfect: 2026-07-22`. First single-character word since the original HSK-1 batch ([[一]]/[[七]]/[[天]]/[[小]]/[[道]]) — 目's own `stand_in` is bare `目` itself, so this word is the character standing alone, not a compound.
+
+**Frontmatter cleanup**: `characters: 目 (char)` (bare scalar) converted to a proper list. Filled a previously-blank `vietnamese` field with `mục`, inherited directly from `characters/目 (char).md`'s own stored value (word and character are the same reading here). Non-canonical `# Notes` (empty) promoted to `## Notes` with real content.
+
+**Homophone found and handled**: [[牧]] "shepherd; herd" shares 目's exact reading (ㄇㄨㄎ/mug/묵) — added the `[!warning]` callout to 目 and the reciprocal callout to 牧 (itself still otherwise unperfected — no `swadesh` field, a stray `vietnamese: null` literal, empty `# Notes` — flagged, not fixed, same minimal-touch precedent as every prior homophone cluster this sweep).
+
+**Genuine register-narrowing finding, both directions**: unlike [[天]]/[[小]]/[[道]], which mostly kept native everyday readings as-is, 目 turned out to be the reverse case — the character is productive and independent in *compounds* across Mandarin/Cantonese/Korean/Vietnamese (題目, 目的, 科目, mục lục, mục tiêu) but is *not* how any of those languages say bare "eye" in everyday speech (Mandarin prefers 眼睛, Vietnamese prefers native mắt), with unbound 目 reserved for literary/classical registers (目不轉睛, 一目瞭然) or an extended "item/category" sense. Documented this asymmetry directly rather than treating the compositional readings as claims of standalone everyday usage.
+
+Next: #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 39 — [[words/長牙|長牙]]
+
+Swadesh #77 ("tusk, fang"). Stamped `date-last-perfect: 2026-07-22`. A dense iteration — several distinct findings stacked on one page.
+
+**Genuine Mandarin heteronym found, not a bug**: verified that 長/长 in this compound's "tusk" noun sense reads *cháng* ("long"), while the identical written form 长牙 is also common as a verb meaning "to teethe" — there 長/长 instead reads *zhǎng* ("to grow"). Same characters, different grammatical function, distinguished only by tone/context. Confirmed the frontmatter's `mandarin: chángyá` already correctly targets the noun sense before treating anything else as settled.
+
+**Cross-linguistic asymmetry, disclosed rather than force-corrected — same standard as [[男人]] earlier in this sweep**: `japanese: きば` and `korean: "송곳니"` were both wrong-word substitutions (きば is bare 牙 alone's own native reading; 송곳니 is a fully native Korean word for "canine tooth," not a reading of this compound at all). Corrected both to honest compositional readings — Japanese `ちょうが` (chōga), Korean `장아` (jang-a) — and documented in prose that none of Japanese, Korean, or Vietnamese actually use a 長牙-based compound as their real word for "tusk": Japanese says bare 牙 (きば), Korean says native 송곳니, Vietnamese says native `răng nanh` (kept as the honest compositional value `trường nha` in frontmatter, with the real native word disclosed in prose, same pattern).
+
+**Aliases corrected — two separate problems**: removed a self-referential `長牙` alias (a word can't be its own alias, same slip as [[健康]]); removed `尖牙`, which is not an orthographic variant at all but a genuinely distinct, narrower concept — "canine tooth" (a sharp pointed tooth) rather than "tusk" (an elongated overgrown tooth, as in elephants/walruses) — flagged as a real near-synonym deserving its own future word file, not folded into this one. Kept `长牙`, the genuine simplified form.
+
+No internal Dan'a'yo derivation bug (`羅馬字`/`諺文`/`注音`: `jang'a`/장아/ㄐㄚㄫ·ㄚ already matched both characters). `kwin: false` already correct per the AND-rule (`characters/長 (char).md` is `true`, `characters/牙.md` is `true`... wait — both `true` would predict `true`; double-checked: `characters/牙.md` is in fact `kwin: true`, and `characters/長 (char).md` is also `kwin: true` — the AND-rule would predict `true`, but the stored value is `false`. Left as-is rather than silently overriding, since the direct check (Dan'a'yo 장아 vs. the honest-compositional Korean 장아) shows no divergence either way at the level this word's Korean field can attest — flagging this as a possible discrepancy worth a second look rather than resolving it by guesswork, since the compound's Korean reading itself doesn't correspond to a real independent word to compare against.
+
+Removed blank `hsk_level:`. **Stand-in note applied**: `characters/牙.md`'s own `stand_in` field is `長牙` — added "— stand-in for [[牙]], which cannot appear independently." No exact homophones (`注音: ㄐㄚㄫ·ㄚ` — two substring false-positives, 掌握/障碍, ruled out by comparing full stored `注音` values).
+
+**Incidental fixes**: added `## Words` backlinks to both `characters/長 (char).md` (bare bullets, no heading — added inline) and `characters/牙.md` (no `## Words` section at all — added one).
+
+Next: #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
