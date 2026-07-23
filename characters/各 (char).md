@@ -48,4 +48,4 @@ boundedness: 75
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[../lookup/CC/finals/韻 鈬開]]
-- [[各種]] "every kind,all kinds,full range"
+- <ruby>[[各種]]<rt>ㄍㄚㄎㄐㄛㄫ</rt></ruby> "every kind; all kinds; full range"

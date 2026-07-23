@@ -1451,3 +1451,39 @@ Thirty-eighth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2
 No `stand_in` relationship applies (口's own is bare 口, 語's own is 言語). `kwin: false` already correct per the AND-rule (both individually `false`).
 
 No homophones (`注音: ㄎㄛㄨ⼄` unique to this file). **Incidental fixes**: reformatted `characters/語.md`'s bare `[[口語]]` entry to ruby form; added a missing `## Words` entry to `characters/口 (char).md` (which had no entry for this word at all).
+
+### 2026-07-23, iteration 121 — [[words/可以|可以]]
+
+Thirty-ninth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` with khả dĩ, a real, if formal/literary, Sino-Vietnamese word (verified via search). Confirmed via search that Japanese and Korean genuinely lack a corresponding word built from these characters — both use entirely native grammatical constructions instead (Japanese ～できる, Korean -을/ㄹ 수 있다) — so `japanese`/`korean` were correctly left blank already, the same honesty standard as [[不但]]/[[分之]] earlier this sweep; this iteration confirmed the existing blank fields and Notes explanation rather than needing to change them.
+
+No `stand_in` relationship applies (可's own is bare 可, 以's own is bare 以). `kwin: false` already correct per the AND-rule (`characters/可 (char).md` is `false`, `characters/以 (char).md` is `true` → compound `false`).
+
+One false-positive homophone ruled out: `不可以`'s `注音` (`ㄅㄛㄊㄎㄜㄧ`) contains this word's exact string as a suffix, but it's a longer, distinct compound (不可以 = 不 + 可以), not a genuine homophone. Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 122 — [[words/可能|可能]]
+
+Fortieth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing readings filled**: `mandarin`/`cantonese` were both entirely blank — filled with kěnéng/ho2 nang4, matching each character's own stored reading. **Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `可`, but the actual file is `可 (char).md`.
+
+Folded a stray, unformatted note found in the file body ("prefer to 可以") into a proper `## Notes` explanation distinguishing 可能 (epistemic possibility, "possible; maybe") from the semantically related [[可以]] (permission/ability, "can, may do X") — not a bug, a clarification of an existing but oddly-placed editorial note.
+
+No `stand_in` relationship applies (可's own is bare 可, 能's own is 技能). `kwin: false` already correct per the AND-rule (`characters/可 (char).md` is `false`, `characters/能.md` is `true` → compound `false`). Japanese かのう, Korean 가능, and Vietnamese khả năng were already correct, standard readings.
+
+No homophones (`注音: ㄎㄜㄋㄜㄫ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/能.md` (`characters/可 (char).md`'s own entry already existed, correctly formatted).
+
+**Pool refreshed**: re-ran the never-perfected HSK-1 query. Next: 各種, 同学, 同志, 同意, 同時, 名字, 周囲, 咳漱, 問題, 回答, 団結, 困難, 国家, 地方, 城市, 基本, 基礎, 堅持, 増加, 声調, 変成, 外国, 多少, 大声, 大学, 大家, 夫人, 姑娘, 媽媽, 学校, ...
+
+### 2026-07-23, iteration 123 — [[words/各種|各種]]
+
+First word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `各`, but the actual file is `各 (char).md`. Mandarin, Cantonese, Japanese, and Korean were already correct, standard readings.
+
+**Left `vietnamese` honestly blank, not fabricated**: no dictionary attestation was found for a fixed compound "các chủng" as a genuine standalone word. Vietnamese 各 (các) has instead been grammaticalized into an extremely common native-feeling plural marker/article (các bạn, các anh chị em) rather than retained as a lexical noun-compounding morpheme — the two-character compound doesn't appear to survive intact as a word the way it does in the other four languages, unlike e.g. [[友好]]'s hữu hảo, which had a dedicated Wiktionary entry confirming it.
+
+No `stand_in` relationship applies (各's own is bare 各, 種's own is 種類). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄍㄚㄎㄐㄛㄫ` unique to this file). **Incidental fixes**: reformatted `characters/各 (char).md`'s bare `[[各種]]` entry to ruby form; added a missing `## Words` entry to `characters/種.md`.
