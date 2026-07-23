@@ -965,3 +965,39 @@ Swadesh #195 ("dry, arid"). Stamped `date-last-perfect: 2026-07-23`. Already sub
 **Stand-in note applied**: `characters/燥.md`'s own `stand_in` field is `乾燥` — folded the standard phrasing into the existing etymological bullet rather than duplicating it. (乾's own `stand_in` is bare `乾` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`). Non-canonical `## Etymology` renamed to `## Notes`.
 
 No homophones (`注音: ㄍ⼶ㄋㄙㄚㄨ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/燥.md` (had none at all; `characters/乾 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 79 — [[words/近|近]]
+
+Swadesh #197 ("near"). Stamped `date-last-perfect: 2026-07-23`. Ninth single-character self-standing word this sweep.
+
+**Investigated, not a bug**: the word's `korean: 근` vs. `諺文: 긴` mismatch looked at first glance like an error, but `characters/近 (char).md` stores the identical values — this is the genuine, deliberate `kwin: false` divergence (Dan'a'yo 긴 vs. Korean 근, tracing to the same source but diverging in vowel), not a typo.
+
+**Frontmatter cleanup**: filled blank `vietnamese` (`cận`, the standard Sino-Vietnamese reading — cận thị "nearsighted," phụ cận "vicinity" — chosen over the character's other listed, noisier variants) and blank `pos` (`性詞`, matching the character). `characters: 近 (char)` bare scalar converted to a list.
+
+**Cross-linguistic note**: Japanese uses the native kun'yomi adjective 近い (ちかい) for everyday "near," reserving on'yomi きん for compounds (近代, きんだい). Vietnamese shows the same native-vs-Sino split as Korean — everyday gần vs. Sino-Vietnamese cận.
+
+No homophones (`注音: ㄍㄧㄋ` unique to this file). No character-page backlink needed — self-standing single-character word.
+
+### 2026-07-23, iteration 80 — [[words/右側|右側]]
+
+Swadesh #199 ("right side"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bugs corrected, two separate wrong-value substitutions**: `japanese: みぎりがわ` was an apparent typo — corrected to the real reading `みぎがわ` (migigawa; also attested as on'yomi うそく in formal register), confirmed via search. `korean: 오른쪽` was the fully native Korean word for "right side," not a reading of 右側 at all — corrected to `우측` (ujeuk), the real Sino-Korean reading; both terms are genuinely interchangeable in everyday Korean, per search. Also fixed a missing space in `cantonese` (jau6zak1→jau6 zak1).
+
+**Filled `vietnamese`** with `hữu trắc`, a real attested Sino-Vietnamese compound (verified via search); noted that bare `hữu` alone is also commonly sufficient in Vietnamese (hữu ngạn, "the right bank of a river").
+
+**Stand-in note applied**: `characters/右.md`'s own `stand_in` field is `右側` — added the standard phrasing. (側's own `stand_in` is `側面`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`). `characters:`/`aliases:` inline arrays reformatted to block form.
+
+No homophones (`注音: ⼜ㄐㄧㄎ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/側.md` (`characters/右.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 81 — [[words/左側|左側]]
+
+Swadesh #200 ("left side"). Stamped `date-last-perfect: 2026-07-23`. A direct companion to [[右側]] last iteration — same bug class, corrected the same way.
+
+**Real bug corrected**: `korean: 우측, 왼쪽` — `우측` is the reading for the unrelated word [[右側]] ("right side"), almost certainly copy-pasted by mistake, and `왼쪽` is the fully native Korean word for "left side," not a Sino-Korean reading of 左側 at all. Corrected to `좌측` (jwacheuk), directly paralleling 右側's own 우측 fix last iteration.
+
+**Frontmatter cleanup**: filled a previously-missing `kwin` field entirely — computed `false` per the AND-rule (both `characters/左.md` and `characters/側.md` are individually `false`). Filled `vietnamese` with the honest compositional `tả trắc` (左=tả, as in tả hữu "left and right"; 側=trắc, as in 側's own real reading trắc diện "side face") — everyday Vietnamese uses native trái instead. `characters:` inline list reformatted to block form.
+
+**Stand-in note applied**: `characters/左.md`'s own `stand_in` field is `左側` — added the standard phrasing. `japanese: ひだりがわ` was already correct, mirroring 右側's みぎがわ exactly.
+
+No homophones (`注音: ㄐㄚㄐㄧㄎ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/側.md` (`characters/左.md`'s own entry already existed, correctly formatted).
