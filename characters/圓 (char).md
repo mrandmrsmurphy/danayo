@@ -50,5 +50,5 @@ This is a rare example of a divergence from Shinjitai, as the character 円 is t
 [[Lookup/CC/initials/聲 云]]
 [[Lookup/CC/finals/韻 仙A三合]]
 - [[圓周率]] "pi"
-- [[圓形]] "circular, wound"
+- <ruby>[[圓形]]<rt>⼔ㄋㄏㄝㄫ</rt></ruby> "circular; round shape"
 - <ruby>[[圓錐]]<rt>⼔ㄋㄐㄨㄧ</rt></ruby> "cone"

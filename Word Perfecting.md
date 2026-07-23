@@ -921,3 +921,47 @@ Swadesh #187 ("rot, decay"). Stamped `date-last-perfect: 2026-07-23`.
 **Stand-in note applied**: `characters/腐.md`'s own `stand_in` field is `腐敗` — added the standard phrasing. (敗's own `stand_in` is `失敗`, a different word — no note on that side.) `characters:` inline array reformatted to block form; removed empty `aliases: []`. `kwin: false` already correct per the AND-rule (both constituents individually `false`).
 
 No homophones (`注音: ㄆㄨㄅㄚㄧ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/腐.md` and `characters/敗.md`.
+
+### 2026-07-23, iteration 75 — [[words/圓形|圓形]]
+
+Swadesh #190 ("round shape, circle"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real content bug corrected, propagated across two files**: `english` included "wound," which has no plausible connection to 圓形 ("circular shape") — removed, corrected to "round shape." The identical wrong gloss also sat on `characters/圓 (char).md`'s own pre-existing (bare, unformatted) backlink to this word; fixed and reformatted to ruby there too.
+
+**Frontmatter cleanup**: filled blank `pos` (`名詞`, matching both constituent characters' own category) and blank `vietnamese` (`viên hình`, real and attested — verified via search, though more formal/technical register than the everyday native hình tròn).
+
+**No `stand_in` relationship applies**: both 圓's and 形's own `stand_in` fields are bare self-reference — 圓形 is an independent compound, not a legitimizer for either. `kwin: false` already correct per the AND-rule (`characters/圓 (char).md` is `true`, `characters/形 (char).md` is `false` → compound `false`). Non-canonical `## Etymology` renamed to `## Notes`. Kept the existing `円形` alias — the Japanese shinjitai form, matching 圓's own aliasing convention.
+
+No homophones (`注音: ⼔ㄋㄏㄝㄫ` unique to this file). `characters/形 (char).md`'s own backlink was already correctly formatted — no fix needed there.
+
+### 2026-07-23, iteration 76 — [[words/鋭利|鋭利]]
+
+Swadesh #191 ("sharp"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Filled `vietnamese` with `nhuệ lợi`** (verified via search as a real, attested Sino-Vietnamese compound), and noted in the opening bullet that 利 here carries its older "sharp, keen" sense (as in 利器, "a sharp weapon"; 鋒利, "sharp-edged") rather than the more familiar modern "profit" sense the character's own frontmatter gloss shows — a genuine polysemy worth flagging rather than silently glossing over.
+
+**Stand-in note applied**: `characters/鋭.md`'s own `stand_in` field is `鋭利` — added the standard phrasing. (利's own `stand_in` is `利潤`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+**Flagged, not fixed**: `characters/利.md`'s own `## Words` section carries a duplicate entry for its "abbreviation for livermorium" periodic-table note (once as a bare ruby line, once again explicitly labeled "abbreviation for...") — a real duplication bug, but on a different character's page, out of scope for this words-only iteration.
+
+No homophones (`注音: ⼶ㄌㄧㄜ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/鋭.md` and `characters/利.md`.
+
+### 2026-07-23, iteration 77 — [[words/滑|滑]]
+
+Swadesh #193 ("slippery, smooth"). Stamped `date-last-perfect: 2026-07-23`. Eighth single-character self-standing word this sweep.
+
+**Real bug corrected**: `korean: 골` was a genuinely different reading of 滑 belonging to its other, unrelated sense — "chaotic, cunning" (滑稽, 골계, "comical") — rather than this word's "slippery" sense. Corrected to `활` (hwal), matching `characters/滑 (char).md`'s own stored value exactly. Also aligned `注音` (ㄏㄨㄚㄊ→ㄏ⺢ㄊ, a stale spelled-out Bopomofo form vs. the character's own compressed-diphthong convention) and `vietnamese` (gột→hoạt, the latter matching the character's own field and real compounds like linh hoạt "flexible") to the character's authoritative values, since word and character are identical here. `kwin` corrected `false`→`true` to match (both fields are now confirmed identical to the real, current word 활, so the AND-rule-style correspondence is directly validated). Filled blank `pos` (`性詞`, matching the character).
+
+**Cross-linguistic note**: Japanese uses the native kun'yomi verb 滑る (すべる) for the everyday adjective/verb rather than a bare on'yomi citation form.
+
+No homophones (`注音: ㄏ⺢ㄊ` unique to this file). No character-page backlink needed — self-standing single-character word.
+
+### 2026-07-23, iteration 78 — [[words/乾燥|乾燥]]
+
+Swadesh #195 ("dry, arid"). Stamped `date-last-perfect: 2026-07-23`. Already substantially complete — someone had already written a good etymological opening bullet explaining the 乾/干 simplification distinction.
+
+**Frontmatter cleanup**: quoted `"乾 (char)"` in the `characters` list; `aliases: [干燥]` inline array reformatted to block form. Filled blank `vietnamese` with `can táo` — verified via search that two Sino-Vietnamese readings exist (can táo, using 乾's modern "gān"-parallel reading; kiền táo, tied to the older classical "qián"/Trigram reading) — kept `can táo` as the field value since it matches the everyday adjective sense, noting the alternate in prose.
+
+**Stand-in note applied**: `characters/燥.md`'s own `stand_in` field is `乾燥` — folded the standard phrasing into the existing etymological bullet rather than duplicating it. (乾's own `stand_in` is bare `乾` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`). Non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄍ⼶ㄋㄙㄚㄨ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/燥.md` (had none at all; `characters/乾 (char).md`'s own entry already existed, correctly formatted).
