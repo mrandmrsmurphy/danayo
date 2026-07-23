@@ -42,6 +42,7 @@ boundedness: 90
 ```
 
 ## Words
+- <ruby>[[草花]]<rt>ㄑㄚㄨㄏ⺢</rt></ruby> "flowering plants; ornamental flowers"
 - <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby> "lawn, grassland, meadow"
 - <ruby>[[茜草]]<rt>ㄑㄝㄋㄑㄚㄨ</rt></ruby> "Indian madder; Rubia cordifolia"
 - <ruby>[[芝草]]<rt>ㄐㄧㄑㄚㄨ</rt></ruby> "grass; lingzhi mushroom"

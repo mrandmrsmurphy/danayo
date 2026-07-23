@@ -343,3 +343,55 @@ Swadesh #58 ("bark"). Stamped `date-last-perfect: 2026-07-22`. Already close to 
 **Incidental fix**: `characters/樹.md`'s own `## Words` entry for this compound was bare (`[[樹皮]] "bark, plant-skin"`) — reformatted to ruby form.
 
 Next: #59 (草花), #62 (皮膚), #67 (卵子), #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 33 — [[words/草花|草花]]
+
+Swadesh #59 ("flower"). Stamped `date-last-perfect: 2026-07-22`. **The largest wrong-word conflation found this sweep since [[人等]]/[[我等]]/[[其人等]] — same bug class, fourth instance.**
+
+**The conflation**: every cross-linguistic field (`mandarin: huāduǒ`, `korean: 꽃`, native Japanese `はな`, plus `aliases: [花朵]`) described 花朵 ("a flower/blossom," 花 + a flower-counting measure word), not the actual title compound 草花 ("grass-flower," flowering plants collectively, with a herbaceous connotation next to showier cultivated blooms) — 花朵 is not even a separate file anywhere in this vault. Corrected every field to describe 草花 itself, verified via Wiktionary and search rather than assumed: Mandarin **cǎohuā** (also, as a striking aside, the Beijing-region card-game name for the clubs ♣ suit); Japanese has two real readings, native **くさばな** (kusabana, kept as the field value) and on'yomi そうか (sōka); Korean **초화** (chohwa, Sino-Korean) next to the everyday native 꽃 that the old field wrongly held; Vietnamese **thảo hoa** (attested, also found reversed as 花草/hoa thảo). Removed the `花朵` alias entirely — it was never a legitimate alternate spelling of this word, same root-cause pattern as the other three X-等/-flower conflations.
+
+**No internal derivation bug** — `羅馬字`/`諺文`/`注音` (`cauhwa`/찻화/ㄑㄚㄨㄏ⺢) already correctly matched both constituent characters' own fields; only the cross-linguistic layer was wrong. `kwin: false` already correct per the AND-rule (`characters/草 (char).md` is `false`, `characters/花.md` is `true` → compound `false`). Removed a blank `hsk_level:` field.
+
+**Stand-in note applied**: `characters/花.md`'s own `stand_in` field is `草花` — added "— stand-in for [[花]], which cannot appear independently," even though 花 is an extremely common, independently-meaningful character in every source language; trusted the vault's own stored field (this is a Dan'a'yo-internal boundedness rule — 花's `boundedness: 100` — not a claim about the character's status in Chinese/Japanese/Korean/Vietnamese).
+
+**Incidental fixes**: `characters/草 (char).md` had no backlink to this word at all — added a proper ruby entry. `characters/花.md` already listed `[[草花]]` bare — reformatted to ruby with gloss and the new stand-in note.
+
+No homophones (`注音: ㄑㄚㄨㄏ⺢` unique to this file).
+
+Next: #62 (皮膚), #67 (卵子), #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 34 — [[words/皮膚|皮膚]]
+
+Swadesh #62 ("skin"). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter cleanup**: `characters: [皮, 膚]` (inline array) converted to block form. `korean: "피부, 살갗"` was a comma-dump of two different words — narrowed to `피부` (the real Sino-Korean reading of this specific compound) and moved `살갗` (the fully native, more literary alternative — which turns out to already be `characters/膚.md`'s own `korean_native` value) into the prose as commentary instead, same fix pattern as [[一切]]/[[知]] earlier in this sweep. Removed blank `hsk_level:` and empty `aliases: []`. Filled a previously-missing `kwin` field entirely (was absent, not just blank) — computed `false` per the AND-rule (`characters/皮.md` and `characters/膚.md` are both individually `false`).
+
+**No internal derivation bug** — `羅馬字`/`諺文`/`注音` (`bipu`/비푸/ㄅㄧㄈㄜ) already matched both constituent characters' own fields exactly.
+
+**Stand-in note applied**: `characters/膚.md`'s own `stand_in` field is `皮膚` — added "— stand-in for [[膚]], which cannot appear independently." (皮's own `stand_in` is `皮革`, a different word — no note on that side.)
+
+**Vietnamese field filled**: `bì phu`, a real attested Sino-Vietnamese clinical/dermatological term (verified via search) — but noted in prose that the everyday Vietnamese word for skin is the native `da`, which even Vietnamese dermatology's own name for itself (`da liễu`) prefers over `bì phu`.
+
+**No incidental character-page fixes needed** — both `characters/皮.md` and `characters/膚.md` already carried a correctly-formatted ruby backlink to this word. No homophones (`注音: ㄅㄧㄈㄜ` unique to this file).
+
+Next: #67 (卵子), #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 35 — [[words/卵子|卵子]]
+
+Swadesh #67 ("egg, ovum"). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block indent. `cantonese: "leon2zi2"` was missing a space between syllables — fixed to `leon2 zi2`. Removed blank `hsk_level:` and an empty `aliases:` key.
+
+**Real `korean` bug caught, tied directly to a standing vault rule**: the stored value `난자` (nanja) applies South Korean 두음법칙 (word-initial ㄹ→ㄴ shift), but `characters/卵.md`'s own `korean` field is `란`, per [[AIOS/memory/feedback_korean_reading_north|the vault's standing North Korean/문화어 rule]] — corrected the compound to `란자` (ranja) to match. First time this specific rule has needed enforcing on a *compound word* rather than a bare character field in this sweep.
+
+**No internal Dan'a'yo derivation bug** — `羅馬字`/`諺文`/`注音` (`lanji`/란즈/ㄌㄚㄋㄐㄜ) already matched both constituent characters' own fields. `kwin: false` already correct per the AND-rule (`characters/卵.md` is `true`, `characters/子.md` is `false` → compound `false`).
+
+**Stand-in note applied**: `characters/卵.md`'s own `stand_in` field is `卵子` — added "— stand-in for [[卵]], which cannot appear independently."
+
+**Vietnamese field corrected, not just filled**: the stored `trứng` is the generic everyday native word for "egg" (including a food/chicken egg) — replaced with `noãn`, the real, precise Sino-Vietnamese biological term for the ovum/egg cell specifically (attested in both botany, the plant ovule, and human reproductive biology), matching this word's own precise "ovum" gloss rather than the general "egg" sense.
+
+**Incidental fixes**: added a missing `## Words` backlink section to `characters/卵.md` (had none at all). On `characters/子.md`, initially added a new ruby entry without first checking whether one already existed in its very large pre-existing list — it did, as a bare `[[卵子]] - egg` line — caught the resulting duplicate immediately and removed the old bare copy, keeping the single ruby-formatted line. Worth remembering: check for an existing (even unformatted) entry before appending, not just at the top of the list.
+
+No homophones (`注音: ㄌㄚㄋㄐㄜ` unique to this file).
+
+Next: #70 (羽毛), #71 (頭髪), #74 (目), #77 (長牙), #79 (指甲), #84 (羽翼), #86 (腸管), #87 (頚), #89 (胸部), #90 (心臓), #91 (肝臓), #99 (呼吸), #104 (思考), ...
