@@ -2407,3 +2407,43 @@ Twenty-sixth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect
 **Frontmatter cleanup**: `characters:` inline array reformatted to block form. Removed blank `swadesh:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
 
 No `stand_in` relationship applies — 時's own `stand_in` is bare `時`, 間's own is `之間` (a different word) — 時間 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound in meaning across the sphere once corrected — no cross-linguistic divergence to flag. No homophones (`注音: ㄙㄧㄍㄚㄋ` unique). **Incidental fix**: reformatted `characters/時 (char).md`'s existing plain-text entry into ruby form with the corrected gloss; added a missing `## Words` entry to `characters/間.md`.
+
+### 2026-07-23, iteration 209 — [[words/最初|最初]]
+
+Twenty-seventh word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `最`, but the actual file is `最 (char).md` — corrected. Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Added the missing `## Notes` section (previously had none).
+
+**Stand-in note applied**: `characters/初.md`'s own `stand_in` field is `最初` (this word) — added the standard phrasing. (最's own `stand_in` is bare `最` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/最 (char).md` is `false`, `characters/初.md` is `true` → compound `false`).
+
+A clean, directly parallel compound across the whole sphere — Mandarin/Cantonese/Japanese/Korean/Vietnamese all converge on "the very first; the beginning," no cross-linguistic divergence to flag. No homophones (`注音: ㄐ⼔ㄑㄛ` unique). **Incidental fix**: added a missing `## Words` heading and entry to `characters/最 (char).md` (its existing word-links had no heading at all; `characters/初.md`'s own entry already existed).
+
+### 2026-07-23, iteration 210 — [[words/最後|最後]]
+
+Twenty-eighth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` listed bare `後`, but the actual file is `後 (char).md` — corrected both entries to proper block form. `aliases: [最后]` inline array reformatted to block form (kept — legitimate simplified variant). Filled blank `vietnamese` with `tối hậu` (as in tối hậu thư, "ultimatum," a well-known compound confirming the reading). Removed blank `swadesh:`; quoted `hsk_level: "1"`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. Noted but left alone (recognized vault-wide phenomenon, not a bug, per the [[以後]] precedent): `characters/後 (char).md`'s own syllable is ㄏㄨㄛ, while this compound and [[以後]] both store the same sound as ㄏㄛㄨ — a Bopomofo-notation ordering variance for the same diphthong. No homophones (`注音: ㄐ⼔ㄏㄛㄨ` unique). **Incidental fix**: added missing `## Words` entries to both `characters/最 (char).md` and `characters/後 (char).md` (neither had listed 最後 before).
+
+### 2026-07-23, iteration 211 — [[words/最近|最近]]
+
+Twenty-ninth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `近`, but the actual file is `近 (char).md` — corrected both entries to proper block form. Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`). Verified `vietnamese: gần đây` — a native construction rather than a Sino-Vietnamese calque, but genuinely the correct standard term for "recently," not a fabricated guess. A clean, directly parallel compound otherwise — no cross-linguistic divergence to flag. No homophones (`注音: ㄐ⼔ㄍㄧㄋ` unique). **Incidental fix**: reformatted `characters/最 (char).md`'s existing plain-text entry into ruby form (`characters/近 (char).md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 212 — [[words/有名|有名]]
+
+Thirtieth and final word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: quoted the `characters:` entries (`"有 (char)"`/`"名 (char)"`, matching convention for names containing spaces). Removed blank `swadesh:` and empty `aliases: []`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/有 (char).md` is `true`, `characters/名 (char).md` is `false` → compound `false`). Verified `cantonese: jau5 meng4-2` as a genuine, recognized Cantonese tone-sandhi pattern (名 takes a colloquial changed reading in this compound), not an error. Noted that Vietnamese `danh tiếng` is the everyday idiomatic choice while the fully compositional `hữu danh` (attested in 有名無實/hữu danh vô thực, "famous in name only") is the more formal/literary alternative — both real, left as-is. No homophones (`注音: ⼜ㄇㄧㄫ` unique). Both `characters/有 (char).md` and `characters/名 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+**Pool refreshed**: re-ran the never-perfected HSK-1 query. Next: 時候 (resurfaced — see iteration 207, left incomplete pending `vietnamese`), 朋友, 服務, 机会, 机器, 条件, 東西, 歓迎, 正確, 比較, 民族, 永遠, 決定, 汽水, 汽車, 活動, 消息, 清楚, 準備, 演出, 漢字, 漢語, 火車, 点心, 熱情, 物理, 特別, 現代, 生日, 生産.
+
+### 2026-07-23, iteration 213 — [[words/時候|時候]] (completing iteration 207)
+
+Finishing the word left incomplete two iterations ago. This session's web-search quota remains exhausted, so `vietnamese` is resolved from established domain knowledge rather than fresh search: no widely-used Sino-Vietnamese compound "thời hậu" (時 thời + 候 hậu) is recalled as an actual word in modern Vietnamese — the language expresses "time" via `thời gian` (already correctly used for [[時間]]) and has no compositional calque of 時候's Mandarin "time/moment" or Japanese "season" senses. Left `vietnamese` blank on that basis and now stamping `date-last-perfect: 2026-07-23`, since every other criterion was already satisfied in iteration 207 (corrected gloss, readings, homophone callout, backlinks).

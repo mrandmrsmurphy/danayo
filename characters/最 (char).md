@@ -46,7 +46,11 @@ boundedness: 80
 - [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄍ⼶ㄫ](syllables/ㄍ⼶ㄫ.md)
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 泰合]]
-- [[最近]] "lately, recently"
+
+## Words
+- <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby> "final; last; ultimate"
+- <ruby>[[最初]]<rt>ㄐ⼔ㄑㄛ</rt></ruby> "first, beginning" (stand-in for 初)
+- <ruby>[[最近]]<rt>ㄐ⼔ㄍㄧㄋ</rt></ruby> "lately, recently"
 - [[最善]] "best"
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"
 - <ruby>[[最高点]]<rt>ㄐ⼔ㄍㄚㄨㄉㄝㄇ</rt></ruby> "highest point; peak"
