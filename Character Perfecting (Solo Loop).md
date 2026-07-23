@@ -597,3 +597,39 @@ Next never-perfected character by `danayo_id` (129). Stamped `date-last-perfect:
 **Derived Characters** (1 hit, already on the page but bare — `graphemic_classification: 放`): 倣 ("imitate; emulate"), exact `注音` match, reformatted with ruby/gloss.
 
 **Incidental fix**: `characters/倣.md`'s `english` field had a typo, "immitate" → "imitate."
+
+### 2026-07-22, iteration 34 — [[characters/表|表]]
+
+Next never-perfected character by `danayo_id` (130). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter fix — a real, fairly confident etymology correction**: `graphemic_classification: 毛` asserted 形声 with phonetic 毛, but 表's real, well-documented etymology (Shuowen: 从衣从毛, "a fur garment") is 会意 of 衣 ("clothes") + 毛 ("fur") — not a phonetic relationship at all (Mandarin biǎo vs. máo share no plausible sound derivation, unlike every genuine phonetic pair this loop has verified elsewhere). No pre-existing bullet to contradict this time (Notes was empty), so this was a from-scratch etymology call rather than a frontmatter-vs-body conflict — corrected the field to `會意` and wrote the bullet accordingly, linking both components to their Radical pages (`[[Radical 145|衣]]`, `[[Radical 082|毛]]`, both genuine Kangxi radicals).
+
+**Content removed**: two exact duplicate entries in the `vietnamese` frontmatter list (`biểu` and `vẹo` each appeared twice) — deduplicated, keeping first occurrence order, no information lost.
+
+**Body defects found**: `# Notes` was the wrong heading level and held four Words-style entries with no `## Words` heading; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/Levels bullets existed.
+
+**Words cross-check** (10 total ground-truth hits): 6 already listed across the misplaced section (reformatted, consolidated under one `## Words`); 4 missing — 代表, 代表之, 図表, 週期表 — added, all from stored fields.
+
+**Flagged, not fixed — a dramatic character-vs-word `注音` mismatch**: `words/週期表.md` spells its own reading `ㄐㄨㄛㄎㄧㄙㄛ` — the final syllable `ㄙㄛ` bears no resemblance to 表's own stored `ㄅ⼘ㄨ` at all (different initial and vowel entirely, not just a coda/tone divergence like the milder cases seen elsewhere this loop). Used the word's actual stored value verbatim per the byte-for-byte rule; flagged as the most severe instance of this bug class found so far.
+
+**Derived Characters** (1 hit via `graphemic_classification: 表`): 俵 (a Japanese kokuji, "bag," built on 表's on'yomi HYOU) — exact `注音` match, added.
+
+### 2026-07-22, iteration 35 — [[characters/所 (char)|所]]
+
+Next never-perfected character by `danayo_id` (131). Stamped `date-last-perfect: 2026-07-22`. (User changed the loop's cadence to every 5 minutes partway through this session — noted here for continuity, doesn't change the perfecting methodology.)
+
+**Frontmatter**: blank `pos: ""` → `助詞` (function word) — not a guess: `words/所.md`'s own already-set `pos: 助詞`/`品詞: 助詞` gave direct precedent, matching 所's real role as a nominalizing particle ("that which...", as in 所有/所謂) rather than a content word.
+
+**Content removed**: a stray empty bullet (`- ` with nothing after it).
+
+**Real bug fixed — a genuinely broken link, not just missing content**: the graphemic bullet's phonetic component was a literal empty wikilink, `[[]]`, with only its OC reconstruction surviving. Cross-referenced the citation against 所's own `radical: 戶` field and the Shuowen quote already in the bullet's own gloss ("the sound of logging") — confirmed the missing target is 戶 (door), the real phonetic component per Shuowen's 从斤戶聲. 戶/戸/户 has no character page of its own, but it is a genuine Kangxi radical (Radical 063), so linked it there (`[[Radical 063|戶]]`) rather than leaving the link empty or forcing a nonexistent character-page link.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; several Words entries were bare `[[link]]` with no ruby/gloss.
+
+**Words cross-check** (9 total ground-truth hits): 6 already listed (reformatted); 3 missing — the stand-in 所 itself, 所属, 所謂 — added, all from stored fields.
+
+**Flagged, not fixed — another character-vs-word `注音` mismatch**: `words/所.md`'s own stored reading is `ㄙ⼄` (syo), not 所's own character-level `ㄙㄜ` — a divergence on the character's *own* stand-in word, the most direct version of this recurring bug class yet. Used the word's actual stored value verbatim rather than "correcting" it to match the character page.
+
+No chengyu hits, no `graphemic_classification: 所` hits — no Derived Characters section applies.
+
+**Loop status**: 35 iterations run, one full skip ([[characters/両 (char)|両]]), one left unstamped pending a missing word ([[characters/声|声]]).
