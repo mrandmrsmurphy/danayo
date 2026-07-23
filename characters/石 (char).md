@@ -62,7 +62,7 @@ boundedness: 90
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"
 - <ruby>[[岩石]]<rt>ㄚㄇㄙㄝㄎ</rt></ruby> "rocks; crags"
 - <ruby>[[石灰素]]<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby> "calcium"
-- <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby> "stubborn person"
+- <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby> "stone; rock"
 - <ruby>[[硝石]]<rt>ㄙ⼄ㄨㄙㄝㄎ</rt></ruby> "saltpetre; potassium nitrate"
 - <ruby>[[鉱石]]<rt>ㄍ⺢ㄫㄙㄝㄎ</rt></ruby> "mineral; ore"
 - <ruby>[[鑽石]]<rt>ㄐㄚㄋㄙㄝㄎ</rt></ruby> "diamond; auger"

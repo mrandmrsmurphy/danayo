@@ -53,6 +53,7 @@ boundedness: 100
 - <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"
 
 ## Words
+- <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby> "stone; rock"
 - <ruby>[[頭髪]]<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby> "head hair"
 - <ruby>[[埠頭]]<rt>ㄅㄨㄊㄛㄨ</rt></ruby> "pier; wharf"
 - [[白頭翁]]

@@ -53,6 +53,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[灰]]<rt>ㄏㄛㄧ</rt></ruby> "ashes" (stand-in for 灰)
+- <ruby>[[灰塵]]<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby> "dust; ashes"
 - <ruby>[[灰色]]<rt>ㄏㄛㄧㄙㄧㄎ</rt></ruby> "grey"
 - <ruby>[[石灰]]<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby> "quicklime"
 - <ruby>[[石灰素]]<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby> "calcium"

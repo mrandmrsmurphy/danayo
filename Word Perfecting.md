@@ -833,3 +833,51 @@ Swadesh #147 ("sun"). Stamped `date-last-perfect: 2026-07-23`. Already close to 
 **Genuine coincidental-match finding, verified via search**: Vietnamese thái dương additionally names the temple (side of the head) in the compound huyệt thái dương (太陽穴, "temple acupoint" in traditional medicine) — matching the same characters' use for "temple" in Chinese/Japanese (太陽穴), confirmed as a real, attested anatomical term rather than assumed.
 
 All cross-linguistic fields for the primary "sun" sense were already correct and standard across the sphere.
+
+### 2026-07-23, iteration 68 — [[words/海洋|海洋]]
+
+Swadesh #154 ("sea, ocean"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bugs caught in two comma-dumped fields**: `korean: "해양, 바다"` mixed this compound's own Sino-Korean reading with the everyday native word for "sea" (바다, matching `characters/海.md`'s own `korean_native` value) — narrowed to `해양`. `vietnamese: "biển, hải , pei"` was a garbled mix of the native word (biển) and a stray, apparently meaningless fragment ("pei") alongside a malformed partial Sino-Vietnamese reading — replaced entirely with `hải dương`, the real, well-attested Sino-Vietnamese compound (also, notably, the name of a real Vietnamese coastal province).
+
+**Filled a previously-missing `kwin` field entirely**: computed `true` per the AND-rule (both `characters/海.md` and `characters/洋.md` are individually `true`).
+
+**Stand-in note applied**: `characters/海.md`'s own `stand_in` field is `海洋` — added the standard phrasing, plus the existing informal note about being narrower in scope than [[大洋]] ("ocean," 洋's own `stand_in`), folded into the same bullet. Removed the stray `[[Swadesh]] #154` self-reference line (redundant with the frontmatter `swadesh` field itself).
+
+No homophones (`注音: ㄏㄚㄧ·⼘ㄫ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/海.md` and `characters/洋.md` (neither previously listed this compound, despite `海.md`'s own Notes already informally referencing [[大洋]]).
+
+### 2026-07-23, iteration 69 — [[words/石頭|石頭]]
+
+Swadesh #156 ("stone"). Stamped `date-last-perfect: 2026-07-23`. The most substantial content bug found this sweep since [[人等]]/[[我等]] and [[草花]].
+
+**Real content bug corrected**: the stored `english` gloss was "stubborn person," which mismatched the actual Swadesh sense (#156, "stone") entirely. Mandarin shítou and Cantonese sek6 tau4 are simply the ordinary everyday word for a literal "stone, rock" — corrected the gloss accordingly, and fixed the identical wrong gloss on `characters/石 (char).md`'s own pre-existing backlink to this word.
+
+**A genuine, striking semantic divergence, verified rather than "fixed" into false symmetry**: Japanese いしあたま and Korean 석두 — built from the exact same two characters — do not mean "stone" in those languages at all; both are real, idiomatic words for a stubborn/thick-headed person (confirmed via search: 석두 glossed directly as a contemptuous term for an obstinate or extremely stupid person, a parallel formation to the fully native Korean synonym 돌대가리, "stone-head"). Japanese's and Korean's own literal words for "stone" are 石 (いし) and 돌 instead. Kept both fields at their real, attested values rather than forcing them toward the Chinese/Vietnamese literal sense.
+
+`kwin: false` already correct per the AND-rule (`characters/石 (char).md` is `true`, `characters/頭 (char).md` is `false` → compound `false`). No `stand_in` relationship applies — both constituents are their own bare self-standing `stand_in`. `characters:`/`aliases:` inline arrays reformatted to block form.
+
+No homophones (`注音: ㄙㄝㄎㄊㄛㄨ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/頭 (char).md` (`characters/石 (char).md`'s own entry already existed, just needed the gloss corrected).
+
+### 2026-07-23, iteration 70 — [[words/灰塵|灰塵]]
+
+Swadesh #158 ("dust"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Korean 회진 confirmed as a genuine three-way homophone, verified via search**: alongside this compound's own sense ("ash and dust," also figuratively "utter destruction/annihilation"), the identical spelling covers 回診 ("a doctor's rounds") and 回進 ("to turn and advance") — three unrelated words sharing one pronunciation. `kwin: true` was already correct per the AND-rule (both `characters/灰 (char).md` and `characters/塵.md` are individually `true`), now doubly confirmed since 회진/灰塵 is independently real and attested.
+
+**Left `vietnamese` deliberately unfilled rather than guess**: no attested compound for 灰塵 was found, and both constituent characters' own stored Vietnamese fields are themselves noisy, uncombinable lists — the everyday Vietnamese word for dust is simply native bụi, documented in prose instead of fabricating a Sino-Vietnamese compound.
+
+**Stand-in note applied**: `characters/塵.md`'s own `stand_in` field is `灰塵` — added the standard phrasing. (灰's own `stand_in` is bare `灰` — no note on that side.) `characters:` list reformatted to block form; removed blank `hsk_level:` and empty `aliases:`.
+
+No Dan'a'yo-internal homophones (`注音: ㄏㄛㄧㄐㄧㄋ` unique to this file). **Incidental fixes**: added a missing `## Words` entry to `characters/灰 (char).md` (had a different `灰` self-entry but not this compound); reformatted `characters/塵.md`'s existing bare `[[灰塵]]` entry to include the stand-in note.
+
+### 2026-07-23, iteration 71 — [[words/氷水|氷水]]
+
+Swadesh #165 ("ice water"). Stamped `date-last-perfect: 2026-07-23`.
+
+**A pleasing independently-verified parallel finding**: both Japanese and Korean have extended this literal "ice water" compound to name a specific summer dessert — shaved ice with syrup. Confirmed via search that Japanese 氷水 (with attested readings こおりみず/こおりすい/ひみず, and a documented history as far back as Sei Shōnagon's Pillow Book, c. 1000 CE) functions as a synonym of かき氷, while Korean 빙수 (bingsu) has undergone the identical drift into the now internationally-recognized dessert name (patbingsu) — two languages arriving independently at the same figurative extension. Mandarin bīngshuǐ and Cantonese bing1 seoi2 keep the plain literal "ice water" sense.
+
+**Frontmatter cleanup**: filled blank `japanese` (`こおりみず`, the primary literal reading) and blank `vietnamese` (`băng thủy`, a real but classical/Buddhist-register Sino-Vietnamese compound, verified via search — everyday Vietnamese uses native nước đá). `characters:`/`aliases:` inline arrays reformatted to block form.
+
+**Stand-in note applied**: `characters/氷.md`'s own `stand_in` field is `氷水` — added the standard phrasing. (水's own `stand_in` is bare `水` — no note on that side.) `kwin: true` already correct per the AND-rule (both constituents individually `true`).
+
+No homophones (`注音: ㄅㄧㄫㄙㄨ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/氷.md` (`characters/水.md`'s own entry already existed, correctly formatted).
