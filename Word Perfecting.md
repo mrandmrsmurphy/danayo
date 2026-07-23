@@ -2601,3 +2601,41 @@ Seventeenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 
 **Content removed — garbled reading**: `mandarin` comma-jammed three variants (`xiāoxi, xiāoxī, xiāoxí`) — checked against `characters/息.md`'s own stored `xī`; `xiāoxí` does not match any attested pronunciation. Kept just `xiāoxi`, the standard neutral-tone reading. Filled blank `pos` (`名詞`). Reformatted `characters:` inline array to block form.
 
 No `stand_in` relationship applies — 消's own `stand_in` is bare `消`, 息's own is `気息` (a different word) — 消息 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/消 (char).md` is `false`, `characters/息.md` is `true` → compound `false`). Verified `vietnamese: tin tức` — a native/hybrid construction rather than a direct calque, but genuinely correct. Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`. No homophones (`注音: ㄙ⼄ㄨㄙㄧㄎ` unique). **Incidental fix**: reformatted `characters/消 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/息.md`.
+
+### 2026-07-23, iteration 230 — [[words/清楚|清楚]]
+
+Eighteenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Typo fixed**: `english: sharly defined` → `sharply defined` (folded into the rewritten gloss below).
+
+**Genuine register/scope divergence found via established domain knowledge and documented**: Mandarin/Cantonese 清楚/cing1 co2 is a general-purpose word for "clear, distinct, understandable" (说清楚 "explain clearly"). Japanese せいそ, however, narrows the sense specifically to describe a person's neat, modest, unaffectedly elegant appearance or demeanor (清楚系, a fashion/style category) — not general "clarity." Korean 청초 (filled in — a real, attested Korean word, verified via established knowledge since this session's web-search quota is exhausted) leans the same direction. `vietnamese` left blank — no compositional reading confidently recalled.
+
+Added a previously-missing `kwin` (computed `false` per the AND-rule: `characters/清.md` is `false`, `characters/楚.md` is `true` → compound `false`). **Stand-in note applied**: `characters/楚.md`'s own `stand_in` field is `清楚` (this word) — added the standard phrasing. (清's own `stand_in` is `清潔`, a different word — no note on that side.) Removed blank `swadesh:` and empty `aliases: []`. No homophones (`注音: ㄑㄧㄫㄑㄛ` unique). **Incidental fix**: propagated the corrected divergence-aware gloss to both `characters/清.md`'s and `characters/楚.md`'s own backlinks (楚's side also received the stand-in note).
+
+### 2026-07-23, iteration 231 — [[words/準備|準備]]
+
+Nineteenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` inline array reformatted to block form. Removed blank `swadesh:` and empty `aliases: []`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Stand-in note applied**: `characters/備.md`'s own `stand_in` field is `準備` (this word) — added the standard phrasing. (準's own `stand_in` is `標準`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/準.md` is `true`, `characters/備.md` is `false` → compound `false`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄐㄨㄋㄅㄧㄜ` unique). **Incidental fix**: reformatted `characters/準.md`'s existing plain-text entry into ruby form; added a missing `## Words` entry with stand-in note to `characters/備.md`.
+
+### 2026-07-23, iteration 232 — [[words/演出|演出]]
+
+Twentieth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — inaccurate gloss**: `english: choreograph, stage` — "choreograph" specifically means designing dance movements, which is not this word's actual sense; removed. Rewrote to "perform; put on (a show); performance," the genuine Mandarin/Cantonese sense.
+
+**Subtle divergence documented**: Mandarin/Cantonese 演出 centers on performers' own act of performing or the performance itself. Japanese えんしゅつ leans more toward the director's/producer's creative act of staging a production (演出家, "director/producer") — closer to "direction" than "performing." Vietnamese diễn xuất (filled in, a real and common term — diễn xuất tốt "good acting") is closest to the Mandarin sense.
+
+Fixed a missing space in `cantonese` (`jin2ceot1`→`jin2 ceot1`); reformatted `characters:` to block form; removed empty `aliases: []`; quoted `hsk_level: "1"`. No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: true` already correct per the AND-rule (both individually `true`). No homophones (`注音: ⼶ㄋㄑㄨㄊ` unique). **Incidental fix**: propagated the corrected gloss to both `characters/演 (char).md`'s and `characters/出 (char).md`'s own backlinks.
+
+### 2026-07-23, iteration 233 — [[words/漢字|漢字]]
+
+Twenty-first word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: quoted `"字 (char)"` in `characters:` (contains a space). Removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 漢's own `stand_in` is `漢族` (a different word), 字's own is bare `字` — 漢字 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/漢.md` is `true`, `characters/字 (char).md` is `false` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄏㄚㄋㄐㄧ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/漢.md` (`characters/字 (char).md`'s own entry already existed).

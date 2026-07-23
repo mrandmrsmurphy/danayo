@@ -58,7 +58,7 @@ boundedness: 50
 - [Grade 4](lookup/Grade%204.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[演出]]<rt>⼶ㄋㄑㄨㄊ</rt></ruby> "choreograph, stage"
+- <ruby>[[演出]]<rt>⼶ㄋㄑㄨㄊ</rt></ruby> "perform, put on a show (Mandarin/Cantonese); direct, stage-produce (Japanese)"
 - <ruby>[[演奏]]<rt>⼶ㄋㄙㄛㄨ</rt></ruby> "play (music)"
 - <ruby>[[出演]]<rt>ㄑㄨㄊ⼶ㄋ</rt></ruby> "appear (in a performance)"
 - <ruby>[[公演]]<rt>ㄍㄛㄫ⼶ㄋ</rt></ruby> "put on a public performance"

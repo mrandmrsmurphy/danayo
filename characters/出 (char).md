@@ -66,7 +66,7 @@ boundedness: 90
 - <ruby>[[出発]]<rt>ㄑㄨㄊㄈㄚㄊ</rt></ruby> "depart"
 - <ruby>[[出谷記]]<rt>ㄑㄨㄊㄍㄧㄍㄛㄎ</rt></ruby> "Exodus"
 - <ruby>[[外出]]<rt>⺢ㄧㄑㄨㄊ</rt></ruby> "go out"
-- <ruby>[[演出]]<rt>⼶ㄋㄑㄨㄊ</rt></ruby> "choreograph; stage"
+- <ruby>[[演出]]<rt>⼶ㄋㄑㄨㄊ</rt></ruby> "perform, put on a show (Mandarin/Cantonese); direct, stage-produce (Japanese)"
 - <ruby>[[貸出]]<rt>ㄊㄚㄧㄑㄨㄊ</rt></ruby> "lend; loan"
 - <ruby>[[傑出]]<rt>ㄍㄝㄊㄑㄨㄊ</rt></ruby> "remarkable; outstanding; brilliant"
 - <ruby>[[出生]]<rt>ㄑㄨㄊㄙㄚㄫ</rt></ruby> "be born"
