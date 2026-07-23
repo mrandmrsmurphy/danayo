@@ -2079,3 +2079,37 @@ Notable `stand_in` relationship: `characters/忽.md`'s own `stand_in` points *to
 One false-positive homophone ruled out: `忽然様`'s `注音` (`ㄏㄛㄊㄋ⼶ㄋ⼘ㄫ`) begins with this word's exact string but is a longer superset compound, not a genuine homophone.
 
 **Incidental fixes**: reformatted `characters/忽.md`'s bare `[[忽然]]` entry to ruby form; added a missing `## Words` entry to `characters/然 (char).md` (had none for this word at all).
+
+### 2026-07-23, iteration 177 — [[words/思想|思想]]
+
+Twenty-fifth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin sīxiǎng, cantonese si1 soeng2, japanese しそう, korean 사상, vietnamese tư tưởng) — no bugs found.
+
+**Recurring Sino-Xenic homophone cluster documented**: verified via search that Korean 사상 is a rich multi-way homophone — besides 思想 ("thought/ideology"), the same syllables also spell 死傷 ("death and injury," casualties), 史上 ("in history"), and 事象 ("phenomena"). Joins the same recurring pattern as [[思考]]'s own 사고 cluster documented earlier this sweep.
+
+Notable `stand_in` relationship: `characters/想.md`'s own `stand_in` points *to this word* (思想); 思's own points elsewhere (思考). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄙㄚㄙㄚㄫ` unique to this file). **Incidental fixes**: reformatted `characters/思.md`'s bare `[[思想]]` entry to ruby form; added a missing `## Words` entry to `characters/想.md` (had none for this word at all).
+
+### 2026-07-23, iteration 178 — [[words/情況|情況]]
+
+Twenty-sixth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Incorrect alias removed, a real content bug**: `aliases:` previously listed 状況, but that is not an orthographic variant of 情況 — it's a different, unrelated, extremely common word built from a different first character (状/狀 "shape, form" instead of 情 "emotion"), confirmed distinct by `characters/況.md`'s own `korean_native` gloss (상황, i.e. 狀況's own reading, not this word's 정황). Removed from `aliases` since that field is for true character-variant forms, not merely similar-meaning words.
+
+Filled a previously-blank `vietnamese` with tình huống, a real Sino-Vietnamese word with a dedicated Wiktionary entry (verified via search). Mandarin, Cantonese, Japanese, and Korean were already correct.
+
+Notable `stand_in` relationship: `characters/況.md`'s own `stand_in` points *to this word* (情況); 情's own points elsewhere (感情). `kwin: false` already correct per the AND-rule (`characters/情.md` is `false`, `characters/況.md` is `true` → compound `false`).
+
+No homophones (`注音: ㄑㄧㄫㄏ⺢ㄫ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/情.md` and `characters/況.md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 179 — [[words/愉快|愉快]]
+
+Twenty-seventh word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `pos` (性詞) and `vietnamese` (du khoái, confirmed via search against character-level Hán Nôm dictionary entries). Confirmed via search that Cantonese's two listed tone variants (jyu4 faai3, jyu6 faai3) are both genuinely documented pronunciations (CantoDict lists both), not a comma-dump error.
+
+Notable `stand_in` relationship: `characters/愉.md`'s own `stand_in` points *to this word* (愉快). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ⼜ㄇㄎ⺢ㄧ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/愉.md` and `characters/快 (char).md` (neither had a backlink for this word at all).
