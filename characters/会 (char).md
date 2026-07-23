@@ -54,6 +54,7 @@ boundedness: 75
 
 ## Words
 - <ruby>[[会]]<rt>ㄏ⼔</rt></ruby> "meet; gather" (stand-in for 会)
+- <ruby>[[宴会]]<rt>ㄝㄋㄏ⼔</rt></ruby> "banquet; feast"
 - <ruby>[[机会]]<rt>ㄍㄧㄜㄏ⼔</rt></ruby> "opportunity"
 - <ruby>[[会議]]<rt>ㄏ⼔ㄜㄧ</rt></ruby> "meeting; conference"
 - <ruby>[[会話]]<rt>ㄏ⼔ㄏ⺢ㄧ</rt></ruby> "conversation; to converse"

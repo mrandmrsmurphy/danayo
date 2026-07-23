@@ -1857,3 +1857,49 @@ All cross-linguistic fields were already correct, standard readings (mandarin ā
 **Formalized an already-known homophone**: the file already had an informal `[!warning]` note about [[安定]] ("stable"), but with the wrong callout syntax and positioned before the meta-bind-embed. Verified all three fields match exactly ('anjeng/안정/ㄚㄋㄐㄝㄫ) and reformatted into a proper `>[!warning] Homophones` callout in the correct position. **Incidental sibling-word fix**: `words/安定.md`'s own reciprocal note (also informally formatted, `# Notes\n- Homophones: ...`) was fixed to match.
 
 **Incidental fixes**: added missing `## Words` entries to both `characters/安.md` and `characters/静.md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 157 — [[words/完全|完全]]
+
+Fifth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `全`, but the actual file is `全 (char).md`. All cross-linguistic fields were already correct, standard readings (mandarin wánquán, cantonese jyun4 cyun4, japanese かんぜん, korean 완전, vietnamese hoàn toàn) — no bugs found (double-checked the Cantonese carefully against a suspected pattern from earlier iterations, but jyun4 cyun4 is genuinely correct here).
+
+No `stand_in` relationship applies (完's own is 完成, 全's own is bare 全). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄏ⺢ㄋㄐ⼔ㄋ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 158 — [[words/実践|実践]]
+
+Sixth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` with thực tiễn, a real, common Sino-Vietnamese word with a dedicated Wiktionary entry (verified via search).
+
+**Incidental character-page fix**: `characters/実.md`'s own `vietnamese` field was entirely empty despite thực being the standard reading (as in thực tiễn, thực tế) — added it (and caught/removed a duplicate `vietnamese:` YAML key left over from the edit, the same pattern as `変 (char).md` earlier this sweep).
+
+Notable `stand_in` relationship: `characters/践.md`'s own `stand_in` points *to this word* (実践), another bound-morpheme case. `kwin: false` already correct per the AND-rule (`characters/実.md` is `true`, `characters/践.md` is `false` → compound `false`).
+
+No homophones (`注音: ㄙㄧㄊㄐㄝㄋ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 159 — [[words/客気|客気]]
+
+Seventh word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**A striking cross-linguistic sense divergence found and documented, not forced into agreement**: `english` previously read only "polite" — verified via search that this is indeed correct for Mandarin kèqì/Cantonese haak3 hei3 (and confirmed Vietnamese khách khí matches this sense too), but Japanese かっき and Korean 객기 mean something entirely different: "rash impulsiveness; hot-blooded bravado; foolhardy pride" (e.g. 객기 부리다, "act recklessly out of misplaced pride"). Broadened the gloss to document both senses explicitly rather than silently implying Japanese/Korean also mean "polite." Propagated the corrected/clarified gloss to both constituent characters' existing backlinks.
+
+No `stand_in` relationship applies (客's own is 客人, 気's own is bare 気). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄎㄚㄎㄎㄧㄜ` unique to this file). **Incidental fix**: reformatted `characters/客.md`'s bare `[[客気]]` entry to ruby form (`characters/気 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 160 — [[words/宴会|宴会]]
+
+Eighth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `cantonese: jin3 qui6` — 会 is never read qui6 (its own character page confirms wui6); corrected to `jin3 wui6`.
+
+**Comma-dump untangled**: `korean: 연회, 잔치` — 연회 is the compound's own Sino-Korean reading, while 잔치 is an unrelated native Korean word for "feast, party" (coincidentally also 宴's own `korean_native` gloss). Kept only 연회.
+
+Filled a previously-blank `vietnamese` with yến hội, a Hán-Việt compound documented in Hán Nôm dictionaries (verified via search); the more common everyday Vietnamese equivalent is yến tiệc. Filled a previously-blank `pos` (名詞) and a previously-missing `kwin` (computed `false` per the AND-rule, both characters individually `false`).
+
+Notable `stand_in` relationship: `characters/宴.md`'s own `stand_in` points *to this word* (宴会), another bound-morpheme case like several earlier this sweep.
+
+No homophones (`注音: ㄝㄋㄏ⼔` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/宴.md` and `characters/会 (char).md` (neither had a backlink for this word at all).
