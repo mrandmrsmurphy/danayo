@@ -47,6 +47,7 @@ boundedness: 80
 - abbreviation for "einsteinium": <ruby>[[愛因金]]<rt>ㄚㄧㄧㄋㄍㄧㄇ</rt></ruby>
 
 ## Words
+- <ruby>[[愛人]]<rt>ㄚㄧㄋㄧㄋ</rt></ruby> "spouse (Mandarin); lover/mistress (varies by language — see word page)"
 - <ruby>[[愛媛]]<rt>ㄚㄧ·ㄛㄋ</rt></ruby> "Ehime Prefecture"
 - <ruby>[可愛](/words/可愛.md)<rt>ㄎㄚ·ㄚㄧ</rt></ruby> - cute
 - [[恩愛]]

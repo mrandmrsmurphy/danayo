@@ -2113,3 +2113,35 @@ Filled a previously-blank `pos` (性詞) and `vietnamese` (du khoái, confirmed 
 Notable `stand_in` relationship: `characters/愉.md`'s own `stand_in` points *to this word* (愉快). `kwin: true` already correct per the AND-rule (both individually `true`).
 
 No homophones (`注音: ⼜ㄇㄎ⺢ㄧ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/愉.md` and `characters/快 (char).md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 180 — [[words/意思|意思]]
+
+Twenty-eighth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `pos` (名詞), `vietnamese` (ý tứ, a real word with a dedicated Wiktionary entry, verified via search), and a previously-missing `kwin` (computed `false` per the AND-rule: `characters/意.md` is `kwin: false`, `characters/思.md` is `kwin: true` → compound `false`). Confirmed via search that Cantonese's ji3 si3 (rather than ji3 si1) is a genuine, documented changed-tone (變音) pronunciation, not an error.
+
+No `stand_in` relationship applies (意's own is 意味, 思's own is 思考).
+
+Two false-positive homophones ruled out: `滋生`/`医生` both begin with a similar string but neither exactly matches this word's `注音` (both have an extra syllable), not genuine homophones.
+
+**Incidental fixes**: reformatted `characters/意.md`'s bare `[[意思]]` entry to ruby form; added a missing `## Words` entry to `characters/思.md` (had none for this word at all).
+
+### 2026-07-23, iteration 181 — [[words/意見|意見]]
+
+Twenty-ninth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Gloss corrected**: `english` previously read "express opinion, advize, suggest" (with a typo, "advize"→"advise") and led with a verb-phrase framing — corrected to lead with "opinion; view," this word's actual primary sense as a noun (verified via search: 意見を述べる "to state an opinion"), with the secondary する-verb sense ("to admonish, advise") noted separately. Propagated the corrected gloss to `characters/見 (char).md`'s own backlink, which had inherited the old typo'd version.
+
+Filled a previously-blank `pos` (名詞) and a previously-missing `kwin` (computed `false` per the AND-rule: `characters/意.md` is `kwin: false`, `characters/見 (char).md` is `kwin: true` → compound `false`). Reformatted Cantonese with a space (`ji3gin3`→`ji3 gin3`). No `stand_in` relationship applies (意's own is 意味, 見's own is bare 見).
+
+No homophones (`注音: ㄜㄍ⼶ㄋ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/意.md` (`characters/見 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 182 — [[words/愛人|愛人]]
+
+Thirtieth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**A striking, genuinely important cross-linguistic sense divergence found and documented, not forced into agreement**: `english` previously read only "lover; sweetheart" — verified via search that in mainland Mandarin (HSK-standard usage), 爱人 àirén is the neutral, standard word for "spouse" (a well-known learner trap, distinct from a dating partner or illicit lover); Taiwan/HK Mandarin instead leans "lover." Korean 애인 and Vietnamese người yêu both mean "boyfriend/girlfriend." Japanese あいじん, however, specifically means "mistress; affair partner" (a post-WWII semantic narrowing from an earlier plain "lover" sense) — genuinely risky to conflate with "spouse." Rewrote the gloss to document all four senses explicitly with a warning-style note, rather than silently picking one.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/愛 (char).md` is `true`, `characters/人 (char).md` is `false` → compound `false`).
+
+One false-positive homophone ruled out: `大人`'s `注音` (`ㄉㄚㄧㄋㄧㄋ`) contains this word's exact string as a suffix, but is a longer, distinct word, not a genuine homophone. **Incidental fix**: added a missing `## Words` entry to `characters/愛 (char).md` (`characters/人 (char).md`'s own entry exists but as a bare numbered-list item, left as-is per the same precedent as [[夫人]]/[[工人]] earlier this sweep).

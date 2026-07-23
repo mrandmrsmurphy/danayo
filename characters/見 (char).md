@@ -49,7 +49,7 @@ boundedness: 90
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[見]]<rt>ㄍ⼶ㄋ</rt></ruby> "see" (stand-in for 見)
-- <ruby>[[意見]]<rt>ㄜㄍ⼶ㄋ</rt></ruby> "express opinion; advise; suggest"
+- <ruby>[[意見]]<rt>ㄜㄍ⼶ㄋ</rt></ruby> "opinion; view"
 - <ruby>[[発見]]<rt>ㄈㄚㄊㄍ⼶ㄋ</rt></ruby> "discover; find out"
 ## Chengyu
 - <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> "hearing something a hundred times is not as good as seeing it once"
