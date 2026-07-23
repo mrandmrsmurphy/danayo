@@ -1691,3 +1691,47 @@ Nineteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-per
 Notable `stand_in` relationship: `characters/増.md`'s own `stand_in` points *to this word* (増加), another bound-morpheme case like several earlier this sweep. `kwin: true` already correct per the AND-rule (both individually `true`).
 
 No homophones (`注音: ㄐㄜㄫㄍㄚ` unique to this file). **Incidental fixes**: added a missing `## Words` section to `characters/増.md` (had none at all); added a missing `## Words` entry to `characters/加.md` (had no entry for this word at all).
+
+### 2026-07-23, iteration 142 — [[words/声調|声調]]
+
+Twentieth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Comma-dump untangled, with a likely typo corrected**: `vietnamese` previously held `hanh điệu, giọng, thanh` — giọng/thanh are separate native words for "voice/tone" generally, not the specific compound, and hanh điệu appears to be a typo (missing the initial "t") for thanh điệu, the genuine, standard Vietnamese linguistics term for "tone" (confirmed via search — has its own Wikipedia article). Kept only thanh điệu. Filled a previously-blank `pos` (名詞).
+
+No `stand_in` relationship applies (声's own is 発声, 調's own is 調整). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄙㄧㄫㄐㄨㄛ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/調.md` (`characters/声.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 143 — [[words/変成|変成]]
+
+Twenty-first word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `変`/`成`, but the actual files are `変 (char).md`/`成 (char).md`. Filled a previously-blank `vietnamese` with biến thành, a real, extremely common Sino-Vietnamese word (verified via search).
+
+**Incidental character-page fix**: `characters/変 (char).md`'s own `vietnamese` field was entirely empty despite biến being the standard reading (biến hóa, biến đổi) — added it (also caught and removed a duplicate `vietnamese:` YAML key left over from the edit).
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/変 (char).md` is `true`, `characters/成 (char).md` is `false` → compound `false`).
+
+No homophones (`注音: ㄅ⼶ㄋㄙㄧㄫ` unique to this file). **Incidental fixes**: reformatted `characters/変 (char).md`'s bare `[[変成]]` entry to ruby form; added a missing `## Words` entry to `characters/成 (char).md` (had none for this word at all).
+
+### 2026-07-23, iteration 144 — [[words/外国|外国]]
+
+Twenty-second word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `pos` (名詞). All cross-linguistic fields were already correct, standard readings (mandarin wàiguó, cantonese ngoi6 gwok3, japanese がいこく, korean 외국, vietnamese ngoại quốc) — no bugs found.
+
+No `stand_in` relationship applies (外's own is 外部, 国's own is 国家). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+Two false-positive homophones ruled out: `外国語`'s `注音` (`⺢ㄧㄍㄛㄎ·⼄`) and `外国人`'s `注音` (`⺢ㄧㄍㄛㄎㄋㄧㄋ`) both begin with this word's exact string, but both are longer superset compounds (外国+語, 外国+人), not genuine homophones. Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 145 — [[words/多少|多少]]
+
+Twenty-third word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `多`, but the actual file is `多 (char).md`. Confirmed the file's existing note about a planned sibling word 多少様 (for the interrogative "how much/many" sense, not yet created) is consistent with this word's own noun sense "amount; quantity" — no conflict, nothing to change there.
+
+**Left `vietnamese` genuinely blank**: no dedicated dictionary attestation was found for a standalone compound "đa thiểu" — Vietnamese instead expresses "how much/many" with the entirely native, unrelated bao nhiêu. Left blank rather than fabricate, the same standard as [[各種]]/[[名字]] earlier this sweep.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄉㄜㄙㄛㄨ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.

@@ -50,6 +50,7 @@ boundedness: 100
 - <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
 - <ruby>[[創反救成]]<rt>ㄑ⺢ㄫㄈㄛㄋㄍ⼜ㄙㄧㄫ</rt></ruby> "creation, fall, redemption, consummation"
 ## Words
+- <ruby>[[変成]]<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby> "change into; metamorphosize into"
 - [[成立]] "be born, gain approval, come into existence"
 - [[成績]] "achievements, accomplishments, grades, results"
 - [[成功]] "succeed, achieve success, prosper"

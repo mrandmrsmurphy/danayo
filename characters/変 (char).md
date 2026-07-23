@@ -7,6 +7,7 @@ japanese:
   - HEN
 japanese_native: か
 vietnamese:
+  - biến
 middle_chinese_initial: p
 middle_chinese_final: ɣiᴇn
 stroke_count: 9
@@ -46,5 +47,5 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 幫]]
 [[Lookup/CC/finals/韻 仙B三開]]
-- [[変成]] "change into, metamorphosize into"
+- <ruby>[[変成]]<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby> "change into; metamorphosize into"
 - <ruby>[[変動]]<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby> "change, fluctuation"
