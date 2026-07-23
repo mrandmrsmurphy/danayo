@@ -663,3 +663,39 @@ Swadesh #116 ("stab, thorn"). Stamped `date-last-perfect: 2026-07-23`. Third sin
 **Register-narrowing finding**: kept `chích`, one of three attested readings on `characters/刺 (char).md` (alongside `thứ`/`thích`) — documented in prose that `chích` specifically survives in the everyday Vietnamese verb for a sting or injection (chích thuốc, "to get a shot"), narrower than the general "stab" sense the character covers elsewhere. Mandarin/Cantonese/Korean/Japanese all use this character productively and independently, no other issues found.
 
 No homophones (`注音: ㄑㄧㄎ` unique to this file). No character-page backlink needed — self-standing single-character word.
+
+### 2026-07-23, iteration 54 — [[words/散歩|散歩]]
+
+Swadesh #121 ("walk, stroll"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real `korean` bug caught, with a genuine near-synonym collision underlying it**: the stored value `산책` is not a reading of 散歩/散步 at all — it's the distinct, near-synonymous compound 散策 ("a walking-stick stroll," from 策 "cane/plan," not 歩/步 "step"). Corrected to `산보`, the real Sino-Korean reading of *this* compound — and per search, North Korean 문화어 (and most of the rest of East Asia) actually prefers 산보 for "a walk," while South Korea has shifted toward 산책 as the more common everyday term; both are real, current, distinguished mainly by subtle distance/register nuance, not interchangeable spellings.
+
+**`kwin` corrected `false`→`true`**, the third confirmed active fix this sweep (after [[父親]] and [[羽翼]]): both `characters/散.md` and `characters/歩.md` are individually `true`, and this compound's Korean reading is now a validated real word, so the AND-rule prediction is confirmed rather than left ambiguous.
+
+**Homophone reformatted, not newly found**: the page already informally flagged that this word is an exact Dan'a'yo homophone of [[散布]] "scatter; spread" (identical sanbo/산보/ㄙㄚㄇㄅㄛ, despite Mandarin/Japanese distinguishing them, sànbù/さんぷ vs sànbù/さんぽ) — converted to the standard callout on both pages, also fixing 散布's non-standard `[!warn]` type. **Flagged, not fixed**: `散布.md`'s own `aliases` field lists `散布` as its own alias — a self-referential slip, same class as [[健康]]/[[長牙]] — out of scope for a words-only iteration on a different target.
+
+**Stand-in note applied**: `characters/歩.md`'s own `stand_in` field is `散歩` — added the standard phrasing. (散's own `stand_in` is `散布`, its homophone partner — a coincidence, not a bug.) Filled `vietnamese` with `tản bộ` (real, attested, verified via search — distinguished from đi dạo by connoting a slower, purposeless leisure stroll).
+
+**Incidental fixes**: added missing `## Words` backlinks to both `characters/散.md` and `characters/歩.md` (neither previously listed this compound).
+
+### 2026-07-23, iteration 55 — [[words/臥|臥]]
+
+Swadesh #123 ("lie down"). Stamped `date-last-perfect: 2026-07-23`. Fourth single-character self-standing word this sweep (after [[目]], [[頚]], [[刺]]).
+
+**Frontmatter cleanup**: filled blank `vietnamese` (`ngoạ`, inherited from `characters/臥 (char).md`'s own field) and blank `pos` (`事詞`, a verb-like word); `characters: 臥 (char)` bare scalar converted to a list. `kwin: true` already correct on both word and character pages.
+
+**Homophone found and handled — new for this word, not previously flagged anywhere**: [[瓦]] "tile" shares this word's exact reading (⺢/'wa/와) — added the `[!warning]` callout to both pages (瓦's own page is otherwise unperfected — no `pos`/`vietnamese`/`swadesh` — flagged, not otherwise fixed, same minimal-touch precedent as every prior homophone cluster this sweep).
+
+**Genuine cross-linguistic asymmetry documented**: Mandarin/Cantonese/Korean/Vietnamese all use 臥 productively, independently or in shared chengyu (臥薪嘗胆/와신상담, "sleep on firewood and taste gall"). Japanese has a real on'yomi (ガ) but never uses 臥 as a standalone word — confirmed via search that it only appears bound in compounds (横臥, おうが; 病臥, びょうが) — with ordinary Japanese using native 横になる for the everyday action instead.
+
+### 2026-07-23, iteration 56 — [[words/立|立]]
+
+Swadesh #125 ("stand"). Stamped `date-last-perfect: 2026-07-23`. Fifth single-character self-standing word this sweep.
+
+**Content removed**: an empty, malformed `## Derived Characters` section (a bare `- ` bullet with no content) — this is a character-page concept, not a word-page one, and was clearly stray cruft copy-pasted from `characters/立 (char).md`'s own (real, populated) Derived Characters section. Removed entirely.
+
+**Frontmatter cleanup**: filled blank `vietnamese` (`lập`, the standard reading among `characters/立 (char).md`'s three attested values — the other two, lụp/sập, look like corpus noise) and blank `pos` (`性詞`, matching the character's own field). `characters: 立 (char)` bare scalar converted to a list. `kwin: true` already correct on both pages — Korean `립` (rip) already correctly preserves the vault's standing North Korean 문화어 form (South Korean would apply 두음법칙 and drop the initial entirely to 입).
+
+**Cross-linguistic note**: documented that Japanese keeps 立 bound in on'yomi compounds (独立, どくりつ) while everyday "to stand" uses the native kun'yomi conjugated verb 立つ (たつ) — the same character, not a separate compound, but functioning grammatically rather than as a bare citation-form word.
+
+No homophones (`注音: ㄌㄧㄆ` unique to this file). No character-page backlink needed — self-standing single-character word.
