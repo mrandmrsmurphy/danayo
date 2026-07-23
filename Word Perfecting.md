@@ -2565,3 +2565,39 @@ Thirteenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2
 **Stand-in note applied**: `characters/定.md`'s own `stand_in` field is `決定` (this word) — added the standard phrasing. (決's own `stand_in` is bare `決` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/決 (char).md` is `false`, `characters/定.md` is `true` → compound `false`).
 
 A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄎ⼔ㄊㄐㄝㄫ` unique). **Incidental fix**: reformatted `characters/決 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry with stand-in note to `characters/定.md`.
+
+### 2026-07-23, iteration 226 — [[words/汽水|汽水]]
+
+Fourteenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Typo fixed**: `english: brakish water` → `brackish water`.
+
+**Deliberate Dan'a'yo sense choice identified and documented, not "corrected"**: the cryptic note "for soft-drink, see 清涼飲料" turned out to be intentional — Japanese 汽水 (kisui) is the genuine hydrology term for "brackish water" (汽水域, "brackish-water zone/estuary"), the sense adopted here and already consistently reflected on `characters/水 (char).md`'s own backlink. Mandarin 汽水/汽水 qìshuǐ, however, has grammaticalized into the everyday colloquial word for "soda pop, soft drink" — an entirely different, unrelated sense. Rather than conflate the two, this vault deliberately routes "soft drink" to a separate word, [[清涼飲料]] (not yet created), keeping 汽水 dedicated to the technical hydrology sense. Documented this explicitly in the Notes so it doesn't read as an oversight.
+
+`vietnamese` left unresearched/blank (web-search quota exhausted). No `stand_in` relationship applies — 汽's own `stand_in` is `蒸汽` (a different word), 水's own is bare `水` — 汽水 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/汽.md` is `false`, `characters/水 (char).md` is `true` → compound `false`). Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`; reformatted `characters:` to block form. No homophones (`注音: ㄎㄧㄜㄙㄨ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/汽.md` (`characters/水 (char).md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 227 — [[words/汽車|汽車]]
+
+Fifteenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `車`, but the actual file is `車 (char).md` — corrected.
+
+**Deliberate Dan'a'yo sense choice identified and documented, not "corrected" — same pattern as [[汽水]] last iteration**: the stray note "This is for steam trains only. In general, use 列車" was gesturing at an intentional design choice. This compound is dedicated to Japanese 汽車 (kisha)'s literal, older sense "steam train, locomotive," with general "train" routed to [[列車]] and "automobile" to [[自動車]] (both already distinct entries on `characters/車 (char).md`). Mandarin 汽车/汽車 qìchē, however, has grammaticalized into the everyday standard word for "car, automobile" — an entirely different sense (Mandarin's own word for "steam train" is 火车/[[火車]]). Documented this explicitly rather than leaving it as a cryptic fragment.
+
+`vietnamese` left unresearched/blank (web-search quota exhausted). No `stand_in` relationship applies — 汽's own `stand_in` is `蒸汽` (a different word), 車's own is bare `車` — 汽車 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄎㄧㄜㄑ⺢` unique). **Incidental fix**: reformatted `characters/汽.md`'s existing plain-text entry into ruby form (`characters/車 (char).md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 228 — [[words/活動|活動]]
+
+Sixteenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `活`/`動`, but the actual files are `活 (char).md`/`動 (char).md` — corrected both. Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: true` already correct per the AND-rule (both individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄏ⺢ㄊㄉㄛㄫ` unique). **Incidental fix**: reformatted `characters/活 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/動 (char).md`.
+
+### 2026-07-23, iteration 229 — [[words/消息|消息]]
+
+Seventeenth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — garbled reading**: `mandarin` comma-jammed three variants (`xiāoxi, xiāoxī, xiāoxí`) — checked against `characters/息.md`'s own stored `xī`; `xiāoxí` does not match any attested pronunciation. Kept just `xiāoxi`, the standard neutral-tone reading. Filled blank `pos` (`名詞`). Reformatted `characters:` inline array to block form.
+
+No `stand_in` relationship applies — 消's own `stand_in` is bare `消`, 息's own is `気息` (a different word) — 消息 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/消 (char).md` is `false`, `characters/息.md` is `true` → compound `false`). Verified `vietnamese: tin tức` — a native/hybrid construction rather than a direct calque, but genuinely correct. Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`. No homophones (`注音: ㄙ⼄ㄨㄙㄧㄎ` unique). **Incidental fix**: reformatted `characters/消 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/息.md`.

@@ -46,4 +46,4 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 末]]
-- [[活動]] "move, engage in activity"
+- <ruby>[[活動]]<rt>ㄏ⺢ㄊㄉㄛㄫ</rt></ruby> "move, engage in activity"

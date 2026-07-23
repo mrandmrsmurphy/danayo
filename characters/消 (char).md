@@ -49,6 +49,6 @@ boundedness: 80
 [[Lookup/CC/finals/韻 宵A]]
 
 ## Words
-- [[消息]] "news, message, tidings"
+- <ruby>[[消息]]<rt>ㄙ⼄ㄨㄙㄧㄎ</rt></ruby> "news, message, tidings"
 - <ruby>[[消耗]]<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby> "consume; deplete"
 - <ruby>[[消防局]]<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby> "fire department"

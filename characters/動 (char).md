@@ -50,6 +50,7 @@ boundedness: 90
 ```
 
 ## Words
+- <ruby>[[活動]]<rt>ㄏ⺢ㄊㄉㄛㄫ</rt></ruby> "move, engage in activity"
 - <ruby>[[蠢動]]<rt>ㄑㄨㄋㄉㄛㄫ</rt></ruby> "to wriggle; to stir up trouble"
 - <ruby>[[運動]]<rt>ㄨㄋㄉㄛㄫ</rt></ruby> "exercise; movement; campaign"
 - <ruby>[[運動家]]<rt>ㄨㄋㄉㄛㄫㄍㄚ</rt></ruby> "athlete; activist"
