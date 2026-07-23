@@ -1991,3 +1991,45 @@ Reformatted Cantonese with a space (`seong4seong4`→`seong4 seong4`). Filled a 
 No `stand_in` relationship applies (常's own is 日常). `kwin: false` already correct per the AND-rule (常 individually `false`, reduplicated).
 
 No homophones (`注音: ㄙ⼘ㄫㄙ⼘ㄫ` unique to this file). `characters/常.md`'s own backlink was already correctly ruby-formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 169 — [[words/帽子|帽子]]
+
+Seventeenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Comma-dump narrowed**: `vietnamese` previously held `mũ, nón` — nón specifically denotes the conical Asian hat (a distinct, narrower item), not a general reading of 帽子. No dedicated dictionary attestation was found for a standalone compound "mạo tử," so kept only mũ, the genuine Nôm/native reading of 帽 itself.
+
+Notable `stand_in` relationship: `characters/帽.md`'s own `stand_in` points *to this word* (帽子), another bound-morpheme case. `kwin: false` already correct per the AND-rule (both characters individually `false`). Mandarin, cantonese, japanese, and korean were already correct, standard readings.
+
+No homophones (`注音: ㄇㄚㄨㄐㄜ` unique to this file). **Incidental fixes**: added a missing `## Words` entry to `characters/帽.md`; reformatted `characters/子.md`'s bare `[[帽子]]` entry to ruby form.
+
+### 2026-07-23, iteration 170 — [[words/幸福|幸福]]
+
+Eighteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `福`, but the actual file is `福 (char).md`. All cross-linguistic fields were already correct, standard readings (mandarin xìngfú, cantonese hang6 fuk1, japanese こうふく, korean 행복, vietnamese hạnh phúc) — no bugs found.
+
+No `stand_in` relationship applies (幸's own is 幸運, 福's own is bare 福). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄏㄚㄫㄈㄨㄎ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/福 (char).md` (had none at all; `characters/幸.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 171 — [[words/幹部|幹部]]
+
+Nineteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `部`, but the actual file is `部 (char).md`. All cross-linguistic fields were already correct, standard readings (mandarin gànbù, cantonese gon3 bou6, japanese かんぶ, korean 간부, vietnamese cán bộ) — no bugs found.
+
+No `stand_in` relationship applies (幹's own is 主幹, 部's own is bare 部). `kwin: false` already correct per the AND-rule (`characters/幹.md` is `true`, `characters/部 (char).md` is `false` → compound `false`).
+
+No homophones (`注音: ㄍㄚㄋㄅㄛㄨ` unique to this file). **Incidental fixes**: reformatted `characters/部 (char).md`'s bare `[[幹部]]` entry to ruby form; added a missing `## Words` section to `characters/幹.md` (had none at all).
+
+### 2026-07-23, iteration 172 — [[words/建設|建設]]
+
+Twentieth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bug corrected**: `korean` previously held only `건`, missing the second syllable entirely — corrected to `건설`, matching each character's own stored reading. **`kwin` bug corrected `false`→`true`**: both `characters/建.md` and `characters/設.md` are individually `kwin: true`, so the AND-rule requires the compound to be `true` — the previously stored `false` directly contradicted this.
+
+Filled a previously-blank `vietnamese` with kiến thiết, a real Sino-Vietnamese word with a dedicated Wiktionary entry (verified via search) — more formal/large-scale than everyday xây dựng.
+
+Notable double bound-morpheme case: both `characters/建.md`'s and `characters/設.md`'s own `stand_in` point to this word (建設) — neither character ever appears independently outside this compound.
+
+No homophones (`注音: ㄍㄝㄋㄙㄝㄊ` unique to this file). **Incidental fixes**: reformatted `characters/建.md`'s bare `[[建設]]` entry to ruby form; added a missing `## Words` entry to `characters/設.md` (had none for this word at all).

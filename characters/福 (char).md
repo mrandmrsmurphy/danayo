@@ -47,3 +47,6 @@ boundedness: 80
 # Notes
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 屋三]]
+
+## Words
+- <ruby>[[幸福]]<rt>ㄏㄚㄫㄈㄨㄎ</rt></ruby> "happy; blessed"

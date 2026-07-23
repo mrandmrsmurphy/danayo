@@ -53,7 +53,7 @@ boundedness: 90
 - [[外部]]
 - <ruby>[[全部]]<rt>ㄐ⼔ㄋㄅㄛㄨ</rt></ruby> "entirety; everything"
 - [[部門]]
-- [[幹部]]
+- <ruby>[[幹部]]<rt>ㄍㄚㄋㄅㄛㄨ</rt></ruby> "cadre; official"
 - [[支部]]
 - [[部隊]]
 - [[内部]]
