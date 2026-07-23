@@ -617,3 +617,49 @@ Swadesh #106 ("fear"). Stamped `date-last-perfect: 2026-07-23`.
 **Stand-in note applied**: `characters/怖.md`'s own `stand_in` field is `恐怖` — added "— stand-in for [[怖]], which cannot appear independently." (恐's own `stand_in` is `恐慌`, a different word — no note on that side.) `characters:` unindented dash list reformatted to block form; removed blank `hsk_level:` and an empty `aliases:` key; non-canonical `## Etymology` renamed to `## Notes`.
 
 No homophones (`注音: ㄎㄛㄫㄆㄛ` unique to this file). **Incidental fixes**: reformatted `characters/恐.md`'s bare `[[恐怖]]` entry to ruby form; added a missing `## Words` entry to `characters/怖.md`.
+
+### 2026-07-23, iteration 50 — [[words/戦闘|戦闘]]
+
+Swadesh #111 ("fight, combat"). Stamped `date-last-perfect: 2026-07-23`. Iteration 50 for this loop.
+
+**Small fix**: `japanese: せんとー` mixed a katakana long-vowel bar into an otherwise-hiragana reading — corrected to standard `せんとう` (sentō). **`pos` corrected `性詞`→`事詞`**, the same fix class as [[呼吸]] a few iterations ago (a "fight/combat" word doesn't fit the quality/adjective-like `性詞` category).
+
+**No `stand_in` relationship applies**: `characters/戦.md`'s own `stand_in` is `戦争`, `characters/闘.md`'s own is `闘争` — both constituents already have their own independent legitimizer compound, so 戦闘 is an independent word, not a stand-in for either.
+
+**All cross-linguistic fields already correct** — genuinely the standard, unambiguous everyday word for "combat" in all five languages, no native displacement or homophone collision found. `characters:`/`aliases:` inline arrays reformatted to block form (kept both traditional aliases 戰鬪/戰鬥, matching `characters/闘.md`'s own documented variant forms). `kwin: false` already correct per the AND-rule (`characters/戦.md` is `true`, `characters/闘.md` is `false` → compound `false`).
+
+No homophones (`注音: ㄐㄝㄋㄉㄛㄨ` unique to this file). **Incidental fixes**: reformatted both `characters/戦.md`'s and `characters/闘.md`'s existing bare `[[戦闘]]` entries to ruby form.
+
+### 2026-07-23, iteration 51 — [[words/打撃|打撃]]
+
+Swadesh #113 ("strike, hit"). Stamped `date-last-perfect: 2026-07-23`. Already close to complete — both `characters/打.md` and `characters/撃 (char).md` had correctly-formatted ruby backlinks to this word already, no incidental character-page fixes needed.
+
+**Small fix**: `mandarin: "dǎjī, dǎjí"` carried a second tone variant, `dǎjí`, with no attestation found anywhere — removed, keeping only the standard `dǎjī`. `characters:`/`aliases:` inline arrays reformatted to block form (kept both traditional/simplified aliases 打擊/打击). Removed blank `hsk_level:`.
+
+**Genuine semantic-narrowing finding, a direct parallel to [[恐怖]]'s khủng bố finding two iterations ago**: kept the field value `đánh` (the versatile everyday native Vietnamese verb "to hit," used in đánh nhau "to fight," đánh trống "to beat a drum"); documented in prose that the real Sino-Vietnamese cognate đả kích is attested but has narrowed specifically to a verbal/rhetorical register — "to attack, to criticize sharply" — rather than this word's physical-impact sense.
+
+**Stand-in note applied**: `characters/打.md`'s own `stand_in` field is `打撃` — added "— stand-in for [[打]], which cannot appear independently." (撃's own `stand_in` is bare `撃` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/打.md` is `false`, `characters/撃 (char).md` is `false` → compound `false`).
+
+No homophones (`注音: ㄉㄚㄍㄝㄎ` unique to this file).
+
+### 2026-07-23, iteration 52 — [[words/分裂|分裂]]
+
+Swadesh #115 ("split, divide"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real `korean` bug caught, the same standing North Korean rule as [[卵子]]'s 란자 fix earlier this sweep**: stored `분열` applies South Korean 두음법칙-style regularization (렬→열); `characters/裂.md`'s own field is `렬`, and North Korean 문화어 orthography is confirmed (via search — a well-documented, named North/South spelling difference) to preserve `분렬`. Corrected `분열`→`분렬`.
+
+**No `stand_in` relationship applies**: 分's own `stand_in` is bare `分` itself, 裂's own is `破裂` — 分裂 is an independent compound, not a legitimizer for either.
+
+Filled `vietnamese` with the real, attested Sino-Vietnamese `phân liệt` (verified via search); the everyday native word for splitting/dividing generally is `chia` (or `chia rẽ` for a rift between people). Mandarin fēnliè, Cantonese fan1 lit6, and Japanese ぶんれつ were all already correct. Removed blank `hsk_level:` and an empty `aliases:` key.
+
+No homophones (`注音: ㄅㄨㄋㄌㄝㄊ` unique to this file). **Incidental fixes**: added missing `## Words` backlinks to both `characters/分 (char).md` and `characters/裂.md` (the latter had no `## Words` section at all).
+
+### 2026-07-23, iteration 53 — [[words/刺|刺]]
+
+Swadesh #116 ("stab, thorn"). Stamped `date-last-perfect: 2026-07-23`. Third single-character self-standing word this sweep (after [[目]] and [[頚]]) — `characters/刺 (char).md`'s own `stand_in` is bare `刺` itself.
+
+**Frontmatter cleanup**: `characters: 刺 (char)` bare scalar converted to a list; `vietnamese: - chích` (a one-item list) converted to a plain string for consistency with the rest of the corpus.
+
+**Register-narrowing finding**: kept `chích`, one of three attested readings on `characters/刺 (char).md` (alongside `thứ`/`thích`) — documented in prose that `chích` specifically survives in the everyday Vietnamese verb for a sting or injection (chích thuốc, "to get a shot"), narrower than the general "stab" sense the character covers elsewhere. Mandarin/Cantonese/Korean/Japanese all use this character productively and independently, no other issues found.
+
+No homophones (`注音: ㄑㄧㄎ` unique to this file). No character-page backlink needed — self-standing single-character word.
