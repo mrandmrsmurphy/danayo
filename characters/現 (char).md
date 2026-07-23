@@ -47,6 +47,7 @@ boundedness: 90
 ## Notes
 - 形声 (OC \*ɡeːns): semantic [[Radical 096|玉]] ("jade") + phonetic [[]] (OC \*keːns, \*ɡeːns) — to appear.
 ## Words
+- <ruby>[[出現]]<rt>ㄑㄨㄊㄏ⼶ㄋ</rt></ruby> "appear; emerge; be revealed"
 - <ruby>[実現](/words/実現.md)<rt>ㄙㄧㄊㄏ⼶ㄋ</rt></ruby> - implement
 - <ruby>[現在](/words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby> - present
 [[Lookup/CC/initials/聲 匣]]

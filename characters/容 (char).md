@@ -53,6 +53,9 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 鍾]]
+
+## Words
+- <ruby>[[内容]]<rt>ㄋㄛㄧ⼄ㄫ</rt></ruby> "content; substance"
 - <ruby>[[容恕]]<rt>⼄ㄫ·ㄙ⼄</rt></ruby> "to forgive"
 - [[容量]] "volume, capacity"
 ## Chengyu

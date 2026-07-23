@@ -1209,3 +1209,47 @@ Sixteenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-
 No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: false` already correct per the AND-rule (`characters/公 (char).md` is `true`, `characters/共 (char).md` is `false` → compound `false`). All other cross-linguistic fields (including `vietnamese: công cộng`) were already correct — a clean compound with directly parallel usage across the sphere. Quoted `hsk_level: "1"`; removed blank `swadesh:`/`aliases:`.
 
 No homophones (`注音: ㄍㄛㄫㄍ⼄ㄫ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/公 (char).md` (`characters/共 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 99 — [[words/公園|公園]]
+
+Seventeenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bug caught**: `characters:` listed bare `公`, but the actual file is `公 (char).md` — corrected. Also caught a mismatched gloss in the opening bullet: it described 公 as "sir" (`characters/公 (char).md`'s own primary stored gloss), but 公 clearly contributes its "public" sense here (as in [[公共]]), not "sir/lord" — corrected the bullet's gloss to match the character's actual contribution to this specific compound, without touching the character's own stored field (out of scope).
+
+No `stand_in` relationship applies — 公's own is bare `公`, 園's own is `庭園` — 公園 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/公 (char).md` is `true`, `characters/園.md` is `false` → compound `false`). All other cross-linguistic fields already correct — a clean compound with directly parallel usage across the sphere. Quoted `hsk_level: "1"`; removed blank `swadesh:`/`aliases:`; non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄍㄛㄫㄛㄋ` unique to this file). **Incidental fixes**: reformatted `characters/公 (char).md`'s bare `[[公園]]` entry to ruby form; added a missing `## Words` entry to `characters/園.md`.
+
+### 2026-07-23, iteration 100 — [[words/内容|内容]]
+
+Eighteenth word in the HSK-1 alphabetical pool — the 100th iteration of this word-perfecting sweep. Stamped `date-last-perfect: 2026-07-23`. A clean pass.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` inline arrays reformatted to block form. Re-worded `english` from "contents, insides" to "content, substance," matching the more standard modern sense (content of a text/message) over the more literal "insides." Quoted `hsk_level: "1"`; removed blank `swadesh:`; non-canonical `## Etymology` renamed to `## Notes`.
+
+**No `stand_in` relationship applies** — 内's own is `内部`, 容's own is bare `容` — 内容 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/内.md` is `false`, `characters/容 (char).md` is `true` → compound `false`). All cross-linguistic fields (including `vietnamese: nội dung`) were already correct.
+
+No homophones (`注音: ㄋㄛㄧ⼄ㄫ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/容 (char).md` (had none at all; `characters/内.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 101 — [[words/出現|出現]]
+
+Nineteenth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**`pos` corrected `性詞`→`事詞`**, matching `characters/出 (char).md`'s own stored category (verb-like "exit/emerge") — the same fix class as several earlier iterations this sweep.
+
+Filled `vietnamese` with `xuất hiện`, an extremely common, real Sino-Vietnamese verb (verified via search) — a very clean match, no register narrowing or asymmetry found this time.
+
+No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: true` already correct per the AND-rule (both individually `true`). `characters:` quoting fixed for both entries; non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄑㄨㄊㄏ⼶ㄋ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/現 (char).md` (`characters/出 (char).md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 102 — [[words/出発|出発]]
+
+Twentieth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `mandarin: chūfū` — 発 is never read fū; corrected to `chūfā`, matching `characters/発 (char).md`'s own stored reading directly. **`pos` corrected `性詞`→`事詞`**, matching the verb-like reading — the same fix class as several earlier iterations this sweep.
+
+No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: false` already correct per the AND-rule (both individually `false`). `vietnamese: xuất phát` was already correctly filled. `characters:` quoting fixed for both entries.
+
+No homophones (`注音: ㄑㄨㄊㄈㄚㄊ` unique to this file). **Incidental fix**: reformatted `characters/発 (char).md`'s bare dash-gloss entry to proper ruby form (`characters/出 (char).md`'s own entry already existed, correctly formatted).
+
+**Pool refreshed**: re-ran the never-perfected HSK-1 query. Next: 分之, 別人, 努力, 勝利, 化学, 医院, 十分, 午飯, 危険, 原来, 去年, 参加, 参観, 友好, 友誼, 反対, 取得, 口語, 可以, 可能, ...

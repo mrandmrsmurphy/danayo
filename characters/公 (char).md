@@ -61,7 +61,7 @@ boundedness: 100
 - [[公開]] "open to the public,expose,share"
 - [[公噸]] "tonne"
 - [[公衆]] "public, communal"
-- [[公園]] "park"
+- <ruby>[[公園]]<rt>ㄍㄛㄫㄛㄋ</rt></ruby> "park"
 - [[公民]] "citizen,civics"
 - [[公司]] "company,firm"
 - <ruby>[[公館]]<rt>ㄍㄛㄫㄍ⺢ㄋ</rt></ruby> "official residence"

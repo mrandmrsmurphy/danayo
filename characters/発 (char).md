@@ -55,7 +55,7 @@ boundedness:
 ## Words
 - <ruby>[[奮発]]<rt>ㄈㄨㄋㄈㄚㄊ</rt></ruby> "exert oneself"
 - <ruby>[[爆発]]<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby> "to explode; explosion"
-- [[出発]] depart
+- <ruby>[[出発]]<rt>ㄑㄨㄊㄈㄚㄊ</rt></ruby> "depart; set off"
 - [[挑発]] provoke
 - [[発展]] develop
 - [[発情]] be in heat
