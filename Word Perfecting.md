@@ -2375,3 +2375,35 @@ Twenty-third word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect
 **Native-coinage left blank, not fabricated**: no attested Sino-Vietnamese reading of 早飯 is in actual use (modern Vietnamese uses the native bữa sáng/ăn sáng) — `vietnamese` left blank.
 
 No `stand_in` relationship applies — 早's own `stand_in` is bare `早`, 飯's own is `米飯` (a different word) — 早飯 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄐㄚㄨㄅㄛㄋ` unique). **Incidental fix**: propagated the corrected divergence-aware gloss to both `characters/早 (char).md`'s and `characters/飯.md`'s own backlinks.
+
+### 2026-07-23, iteration 206 — [[words/昨日|昨日]]
+
+Twenty-fourth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Two wrong-word conflations corrected**: `mandarin`/`cantonese` (`zuótiān`/`zok3 tin1, zok6 tin1`) held the readings of the sibling word 昨天 (using 天 "day," not this word's own 日 "sun/day") — corrected to `zuórì`/`zok6 jat6`, matching `characters/日 (char).md`'s own stored `jat6`. `korean` (`어제`) held the native Korean word for "yesterday" — also `characters/昨 (char).md`'s own `korean_native` gloss — rather than the genuine Sino-Korean compound reading; corrected to `작일` (verified via search as a real, attested formal/literary word for "yesterday," distinct from everyday native 어제).
+
+**Native-coinage left blank, not fabricated**: no attested Sino-Vietnamese reading of 昨日 is in actual use — modern Vietnamese uses the native hôm qua exclusively. Removed the native `hôm qua` from `vietnamese` rather than presenting it as this compound's own reading.
+
+Japanese きのう verified as genuinely correct — the standard, everyday Japanese word for "yesterday." No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/昨 (char).md` is `true`, `characters/日 (char).md` is `false` → compound `false`). No homophones (`注音: ㄐㄚㄎㄋㄧㄊ` unique). **Incidental fix**: added missing `## Words` entries to both `characters/昨 (char).md` and `characters/日 (char).md` (neither had listed 昨日 before).
+
+### 2026-07-23, iteration 207 — [[words/時候|時候]]
+
+Twenty-fifth word in the fourth refreshed HSK-1 pool. **Not stamped `date-last-perfect`** — left genuinely incomplete (see below), to be revisited in a future iteration.
+
+**Major gloss correction**: `english` previously read only "season and climate" — but 时候/si4 hau6 is one of the most common HSK-1 Mandarin/Cantonese words, meaning "time, moment, when" (什么时候 "when," 有时候 "sometimes"), essentially a grammaticalized time-word. Japanese 時候 jikō genuinely does mean "season; time of year" in a formal register (時候の挨拶, seasonal letter-greetings) — the old gloss appears to have described only the Japanese sense while presenting it as primary. Rewrote to document both senses explicitly.
+
+**Other fixes**: `mandarin` had a spurious redundant "shíhòu" variant appended — dropped, kept just `shíhou`. `cantonese` (`si2 hou4`→`si4 hau6`) corrected to match `characters/時 (char).md`'s own `si4` and `characters/候.md`'s own `hau6`. Filled blank `pos` (`名詞`). Removed blank `swadesh:`. Reformatted the homophone callout to canonical `>[!warning] Homophones` form (verified genuine match with [[伺候]] on all three fields) and applied the same reciprocal fix to `伺候`'s own callout.
+
+**Left incomplete, not stamped**: `vietnamese` remains blank and unresearched — this session's web-search quota was exhausted mid-iteration, so rather than guess or fabricate a reading, the field was left blank and the word was NOT stamped `date-last-perfect`, unlike the usual "verified absent, safe to stamp" cases earlier this sweep. Flagging for the next sweep to pick up and finish.
+
+No `stand_in` relationship applies — 時's own `stand_in` is bare `時`, 候's own is `気候` (a different word) — 時候 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/時 (char).md` is `true`, `characters/候.md` is `false` → compound `false`). **Incidental fix**: added a missing `## Words` entry to `characters/時 (char).md`; updated `characters/候.md`'s existing entry to the corrected gloss.
+
+### 2026-07-23, iteration 208 — [[words/時間|時間]]
+
+Twenty-sixth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — severe wrong-word conflation**: `mandarin`/`cantonese` (`xiǎoshí`/`siu2 si4`) held the reading of an entirely different word, 小時/小时 ("an hour," a duration unit), not 時間 itself ("time," the general abstract concept) — corrected to `shíjiān`/`si4 gaan1`, matching `characters/間.md`'s own stored `jiān`/`gaan1`. The `aliases` field wrongly listed `小時`, `小时`, `鐘頭`, `钟头` as if they were alternate spellings of 時間 — these are genuinely distinct words (all meaning "an hour," a duration unit, not "time" in general) with no dedicated word page yet, not orthographic variants of this word. Removed all four, keeping only the real simplified variant `时间`. Also removed the redundant "hour" sense from `english` (belonged to the conflated 小時, not 時間).
+
+**Frontmatter cleanup**: `characters:` inline array reformatted to block form. Removed blank `swadesh:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies — 時's own `stand_in` is bare `時`, 間's own is `之間` (a different word) — 時間 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound in meaning across the sphere once corrected — no cross-linguistic divergence to flag. No homophones (`注音: ㄙㄧㄍㄚㄋ` unique). **Incidental fix**: reformatted `characters/時 (char).md`'s existing plain-text entry into ruby form with the corrected gloss; added a missing `## Words` entry to `characters/間.md`.

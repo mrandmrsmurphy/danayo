@@ -48,6 +48,7 @@ boundedness: 90
 
 - 形声 (OC \*djɯ): semantic [[Radical 072|日]] ("sun; day") + phonetic [[寺]] (OC \*ljɯs).
 ## Words
+- <ruby>[[時候]]<rt>ㄙㄧㄏㄛㄨ</rt></ruby> "time, moment, when (Mandarin/Cantonese); season (Japanese)"
 - <ruby>[[同時]]<rt>ㄉㄛㄫㄙㄧ</rt></ruby> "simultaneous"
 - <ruby>[[臨時]]<rt>ㄌㄧㄇㄙㄧ</rt></ruby> "temporary; provisional"
 - <ruby>[当時](/words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby> - then
@@ -55,7 +56,7 @@ boundedness: 90
 - <ruby>[[時制]]<rt>ㄙㄧㄐㄝㄧ</rt></ruby> "tense (grammatical)"
 [[Lookup/CC/initials/聲 船]]
 [[Lookup/CC/finals/韻 之]]
-- [[時間]] "time, hour"
+- <ruby>[[時間]]<rt>ㄙㄧㄍㄚㄋ</rt></ruby> "time"
 - [[時節]] "seasons"
 - [[時宜]] "timely, be right time"
 - <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"

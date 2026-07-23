@@ -44,4 +44,7 @@ boundedness: 65
 # Notes
 [[Lookup/CC/initials/聲 從]]
 [[../lookup/CC/finals/韻 鈬開]]
+
+## Words
+- <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby> "yesterday"
 - [[昨年]] "last year"
