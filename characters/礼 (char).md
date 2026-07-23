@@ -59,7 +59,7 @@ boundedness: 90
 [[Lookup/CC/initials/聲 來]]
 [[Lookup/CC/finals/韻 齊開]]
 - [[礼拝]] "worship service, religious worship"
-- [[礼物]] "gift (formal), present (formal)"
+- <ruby>[[礼物]]<rt>ㄌㄝㄧㄇㄨㄊ</rt></ruby> "gift (formal), present (formal)"
 
 ## Words
 - <ruby>[[五礼]]<rt>·ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"

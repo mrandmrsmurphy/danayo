@@ -2791,3 +2791,43 @@ Seventh word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026
 **Missing `(char)`-suffix bug**: `characters:` listed bare `真`, but the actual file is `真 (char).md` — corrected (also quoted `"正 (char)"`, which needed the same fix). Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. Added the missing `## Notes` section (previously had none).
 
 No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/真 (char).md` is `true`, `characters/正 (char).md` is `false` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. `vietnamese` left unresearched/blank (web-search quota exhausted). No homophones (`注音: ㄐㄧㄋㄐㄧㄫ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/真 (char).md` (`characters/正 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 250 — [[words/研究|研究]]
+
+Eighth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — garbled reading**: `mandarin` comma-jammed two variants (`yánjiū, yánjiù`) — checked against `characters/究.md`'s own stored `jiū`; `yánjiù` does not match any attested pronunciation. Kept just `yánjiū`.
+
+**Double #cranberry bound-morpheme case documented**: both `characters/研.md`'s and `characters/究.md`'s own `stand_in` fields point to this word (matching the [[建設]]/[[朋友]] precedent) — neither character stands independently outside this compound. Filled blank `pos` (`実詞`, matching sibling compound-verb words like [[決定]]/[[服務]]).
+
+A clean, directly parallel compound across the whole sphere — Mandarin/Cantonese/Japanese/Korean/Vietnamese all converge on "research; to study." Removed empty `aliases: []`. No homophones (`注音: ㄝㄋㄍ⼜` unique). **Incidental fix**: added a missing `## Words` section entirely to `characters/研.md` (had none), with the stand-in note added to both character backlinks.
+
+### 2026-07-23, iteration 251 — [[words/確実|確実]]
+
+Ninth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` reformatted to block form (kept both `确实`/`確實` — legitimate simplified/traditional variants). Quoted `hsk_level: "1"`; removed blank `swadesh:`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Stand-in note applied**: `characters/確.md`'s own `stand_in` field is `確実` (this word) — added the standard phrasing. (実's own `stand_in` is `真実`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/確.md` is `false`, `characters/実.md` is `true` → compound `false`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄎㄚㄎㄙㄧㄊ` unique). **Incidental fix**: reformatted `characters/確.md`'s existing plain-text entry into ruby form with the stand-in note; added a missing `## Words` entry to `characters/実.md`.
+
+### 2026-07-23, iteration 252 — [[words/礼物|礼物]]
+
+Tenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**North-Korean-pronunciation rule violation, fixed**: `korean: 예물` was the South Korean 두음법칙-shifted form — corrected to `례물`, matching `characters/礼 (char).md`'s own stored `례` (North Korean 문화어 doesn't shift word-initial ㄹ to ㅇ). Per the standing vault rule, `korean` always uses the North Korean reading (South Korean 예물 is the everyday form, notably associated with wedding/engagement gifts).
+
+**Frontmatter cleanup**: quoted `characters:` entries (both contain spaces); quoted `mandarin`/`cantonese`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/礼 (char).md` is `false`, `characters/物 (char).md` is `true` → compound `false`). A clean, directly parallel compound in meaning across the sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄌㄝㄧㄇㄨㄊ` unique). **Incidental fix**: reformatted `characters/礼 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/物 (char).md`.
+
+### 2026-07-23, iteration 253 — [[words/社会|社会]]
+
+Eleventh word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
+
+**Stand-in note applied**: `characters/社.md`'s own `stand_in` field is `社会` (this word) — added the standard phrasing. (会's own `stand_in` is bare `会` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`). Verified `cantonese: se5 wui6-2` as a genuine Cantonese tone-sandhi pattern (会 takes a colloquial changed reading), not an error.
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄙ⼘ㄏ⼔` unique). **Incidental fix**: added a missing `## Words` section entirely to `characters/社.md` (`characters/会 (char).md`'s own entry already existed).
