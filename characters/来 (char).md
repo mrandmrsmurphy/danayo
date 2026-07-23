@@ -48,6 +48,7 @@ boundedness: 90
 - [[来臨]] "come near, arrive"
 
 ## Words
+- <ruby>[[原来]]<rt>⼔ㄋㄌㄚㄧ</rt></ruby> "originally"
 - <ruby>[[来賓]]<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby> "guest; visitor"
 - [[来年]] "next year"
 - <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto, conventional"

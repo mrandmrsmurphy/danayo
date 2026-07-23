@@ -1317,3 +1317,47 @@ Twenty-sixth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 20
 Filled a previously-blank `pos` (名詞) and a previously-missing `kwin` (computed `false` per the AND-rule: `characters/医.md` is `kwin: false`, `characters/院.md` is `kwin: true` → compound `false`). No `stand_in` relationship applies (医's own is 医生, 院's own is 院落). Renamed non-canonical `## Etymology` to `## Notes`.
 
 One false-positive homophone ruled out: `資源`'s `注音` (`ㄐㄧㄜ⼔ㄋ`) contains this word's string (`ㄜ⼔ㄋ`) as a substring, but the two words are not actually homophones — 医院 is `'ǝ'wen` while 資源 is `jiǝ'wen`, different first syllables entirely; the shared portion is only the second syllable ⼔ㄋ. No callout added. Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 109 — [[words/十分|十分]]
+
+Twenty-seventh word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real typo corrected**: `mandarin: hífēn` — 十 is never read hí; corrected to `shífēn`, matching `characters/十 (char).md`'s own stored reading. **Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `十`, but the actual file is `十 (char).md`.
+
+Filled a previously-blank `vietnamese` with thập phần — a real, attested Hán-Việt intensifier (verified via search), matching both English senses. Documented a genuine Japanese heteronym split rather than treating it as an error: じゅうぶん (jūbun, "sufficient; very") is correct for the word's primary listed sense and was left as-is, but the literal "ten minutes" sense is actually read じっぷん/じゅっぷん (jippun/juppun) instead, a real distinction verified via search — Mandarin/Cantonese/Korean/Vietnamese all cover both senses with one single reading, unlike Japanese.
+
+No `stand_in` relationship applies — both constituents are bare self-standing characters. `kwin: true` already correct per the AND-rule (both individually `true`). Quoted `hsk_level: "1"`; removed blank `swadesh:`/`aliases: []`; renamed non-canonical `## Etymology`-less body to include a proper `## Notes` section.
+
+No homophones (`注音: ㄙㄧㄆㄍㄨㄋ` unique to this file). **Incidental fixes**: reformatted `characters/十 (char).md`'s bare `[[十分]]` entry to ruby form; added a missing `## Words` entry to `characters/分 (char).md` (which had no entry for this word at all).
+
+### 2026-07-23, iteration 110 — [[words/午飯|午飯]]
+
+Twenty-eighth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Wrong-word conflation corrected**: `korean: 점심` was the modern everyday Korean word for "lunch" — but 점심 is actually 點心, an entirely different compound ("dot the heart/mind," originally "snack"), not a reading of 午飯 at all. Researched and confirmed the genuine Sino-Korean reading 오반 (a real, if now old-fashioned, historical term for a more substantial midday meal, as distinct from the originally-lighter 점심) — corrected the field and documented the distinction in prose, the same fix-class as [[右側]]/[[左側]] and [[先生]] earlier this sweep.
+
+**Genuine homophone-across-different-hanja confirmed, not an error**: Japanese ごはん is verified correct for 午飯 itself (attested directly in goo/Weblio/Kotobank dictionaries), but coincidentally identical in sound to the totally unrelated everyday word 御飯 ("cooked rice; meal") — the same recurring cross-linguistic pattern documented several times earlier this sweep ([[羽翼]]/右翼, [[思考]]'s 사고 cluster, etc.).
+
+Deduplicated a comma-dump `vietnamese` field (`bữa trưa, bữa ăn trưa` — two native synonyms, neither a genuine Sino-Vietnamese reading of the compound) down to bữa trưa. Filled a previously-blank `pos` (名詞). No `stand_in` relationship applies (午's own is 正午, 飯's own is 米飯). `kwin: false` already correct per the AND-rule (`characters/午.md` is `true`, `characters/飯.md` is `false` → compound `false`).
+
+No homophones (`注音: ㄛㄅㄛㄋ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 111 — [[words/危険|危険]]
+
+Twenty-ninth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `pos` (性詞, matching the adjective-like "dangerous"). No `stand_in` relationship applies for `険 (char)`, but `characters/危.md`'s own `stand_in` points *to this word* — another bound-morpheme case like [[努力]]/[[勝利]] earlier this sweep. `kwin: false` already correct per the AND-rule (`characters/危.md` is `false`, `characters/険 (char).md` is `true` → compound `false`). Cantonese, Japanese, Korean, and Vietnamese were all already correct, everyday readings.
+
+**Left unresolved — genuinely questionable, not corrected either way**: `mandarin` stores two readings, `wēixiǎn,wéixiǎn`. wēixiǎn is unambiguously standard (matches `characters/危.md`'s own stored wēi), but no dictionary consulted via search could confirm wéixiǎn as an attested modern alternate reading — only an ambiguous Middle Chinese fanqie derivation (魚爲切) that doesn't decisively resolve to either outcome. Rather than guess whether this is a typo or an obscure real variant, left it as stored and flagged it here per the loop's "skip questionable items" instruction.
+
+No homophones (`注音: ⼔ㄧㄏㄝㄇ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 112 — [[words/原来|原来]]
+
+Thirtieth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` with nguyên lai — a real Sino-Vietnamese word (confirmed on Vietnamese Wiktionary), more literary than the everyday native equivalents vốn dĩ/hóa ra. Filled a previously-blank `pos` (修飾語, modifier). Confirmed Japanese's two listed readings (げんらい, がんらい) are genuine alternate pronunciations of the same word rather than a comma-dump error.
+
+No `stand_in` relationship applies (原's own is 原始, 来's own is bare 来). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ⼔ㄋㄌㄚㄧ` unique to this file). **Incidental fixes**: reformatted `characters/原.md`'s bare `[[原来]]` entry to ruby form; added a missing `## Words` entry to `characters/来 (char).md` (which had no entry for this word at all).
