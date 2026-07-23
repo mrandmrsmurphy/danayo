@@ -2447,3 +2447,45 @@ No `stand_in` relationship applies (both constituents are bare self-standing cha
 ### 2026-07-23, iteration 213 — [[words/時候|時候]] (completing iteration 207)
 
 Finishing the word left incomplete two iterations ago. This session's web-search quota remains exhausted, so `vietnamese` is resolved from established domain knowledge rather than fresh search: no widely-used Sino-Vietnamese compound "thời hậu" (時 thời + 候 hậu) is recalled as an actual word in modern Vietnamese — the language expresses "time" via `thời gian` (already correctly used for [[時間]]) and has no compositional calque of 時候's Mandarin "time/moment" or Japanese "season" senses. Left `vietnamese` blank on that basis and now stamping `date-last-perfect: 2026-07-23`, since every other criterion was already satisfied in iteration 207 (corrected gloss, readings, homophone callout, backlinks).
+
+### 2026-07-23, iteration 214 — [[words/朋友|朋友]]
+
+Second word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Comma-dump field bug fixed**: `korean: 붕우, 친구` — 붕우 is the genuine (if formal/literary) Sino-Korean reading of this compound, while 친구 is a different, unrelated native/hybrid word (親舊) that happens to be the everyday Korean word for "friend" — not a reading of 朋友 itself. Removed 친구, noted the everyday-vs-formal register split in prose instead (also true of Japanese ほうゆう vs. everyday 友達/友人).
+
+**Double #cranberry bound-morpheme case documented**: both `characters/朋.md`'s and `characters/友.md`'s own `stand_in` fields point to this word (matching the [[建設]] precedent) — neither character stands independently outside this compound. Added the standard note. `kwin: false` (previously entirely missing from frontmatter) computed and added per the AND-rule (`characters/朋.md` is `true`, `characters/友.md` is `false` → compound `false`).
+
+**Cultural note added**: 朋友 is one of the 天常/五倫 (Five Relationships of Confucian ethics) — 朋友有信, "between friends there should be trust," the only one of the five not defined by hierarchy (folded the stray unstructured body note "one of the 天常" into this proper explanation).
+
+Quoted `mandarin`/`cantonese`. Removed blank `swadesh:` and empty `aliases:`. No homophones (`注音: ㄅㄨㄫ⼜ㄛ` unique). Both `characters/朋.md` and `characters/友.md` already had correct `## Words` backlink entries with stand-in notes — no incidental fix needed on either.
+
+### 2026-07-23, iteration 215 — [[words/服務|服務]]
+
+Third word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: quoted `hsk_level: "1"`; removed blank `swadesh:`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Stand-in note applied**: `characters/務.md`'s own `stand_in` field is `服務` (this word) — added the standard phrasing. (服's own `stand_in` is `服事`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/服.md` is `false`, `characters/務.md` is `true` → compound `false`).
+
+**Coincidental Sino-Xenic homophone noted, left unaltered**: `japanese: ふくむ` is a direct on'yomi concatenation of FUKU + MU, but collides exactly with the entirely unrelated native verb 含む ("to contain, include") — the recurring cross-hanzi homophone-collision pattern documented elsewhere in this vault (e.g. 午飯/御飯). Documented rather than "corrected," since no evidence suggests it's wrong.
+
+No homophones within this vault's own Dan'a'yo phonology (`注音: ㄅㄨㄎㄇㄨ` unique). **Incidental fix**: reformatted `characters/服.md`'s existing plain-text entry into ruby form; added a missing `## Words` entry with stand-in note to `characters/務.md`.
+
+### 2026-07-23, iteration 216 — [[words/机会|机会]]
+
+Fourth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`. Already close to complete — an unusually thorough `## Notes` section already existed, explaining that `characters/机.md`'s own `stand_in` points here (机/機's "critical juncture" sense split from [[机械]]'s "mechanism" sense as two separate Dan'a'yo stand-ins).
+
+**Only fix needed**: removed blank `swadesh:`.
+
+`kwin: false` already correct per the AND-rule (`characters/机.md` is `false`, `characters/会 (char).md` is `false` → compound `false`). No homophones (`注音: ㄍㄧㄜㄏ⼔` unique). Both `characters/机.md` and `characters/会 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 217 — [[words/机器|机器]]
+
+Fifth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: added a previously-missing `kwin` (computed `false` per the AND-rule: both `characters/机.md` and `characters/器.md` are individually `false`). Filled blank `korean` (`기기` — both characters happen to share the reading 기, and 기기 is a real, everyday Korean word for "device, apparatus") and blank `vietnamese` (`cơ khí`, matching `characters/机.md`'s own `cơ` and `characters/器.md`'s own `khí` — a common, attested term for "mechanical engineering/machinery"). Removed blank `swadesh:`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Genuine near-synonym distinction documented**: folded the stray body note ("very similar to 機械, but not identical") into a proper explanation — 机器/機器 jīqì is the broad general word for "machine, device" of any kind (机器人 "robot"), while [[机械]]/機械 jīxiè leans toward "machinery" in the more mechanical/industrial sense. Vietnamese cơ khí specifically means "mechanical engineering," closer to the 机械 sense than a general "machine" word — a subtle but real register/scope difference worth flagging.
+
+No `stand_in` relationship applies — 机's own `stand_in` is `机会` (a different word), 器's own is `容器` (a different word) — 机器 is an independent compound. No homophones (`注音: ㄍㄧㄜㄎㄧㄜ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/器.md` (`characters/机.md`'s own entry already existed).
