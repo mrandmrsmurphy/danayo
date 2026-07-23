@@ -2253,3 +2253,39 @@ Eleventh word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 20
 **Genuine register/scope divergence found via search and documented, not forced into agreement**: Mandarin gùshi/Cantonese gu3 si6 is the broad everyday word for "story" (讲故事 "tell a story," 故事书 "storybook"). Japanese こじ, Korean 고사, and Vietnamese cố sự, however, all narrow the sense to specifically an *old/classical* anecdote or historical precedent (故事成語/고사성어, idioms coined from such anecdotes) — not a general word for "story," which Japanese/Korean instead express with native words (話/이야기). Flagged so a learner doesn't assume "story" carries the same everyday breadth outside Mandarin/Cantonese.
 
 No `stand_in` relationship applies — 故's own `stand_in` is `緣故` (a different word), 事's own is bare `事` — 故事 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/故.md` is `true`, `characters/事 (char).md` is `false` → compound `false`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄍㄛㄐㄧ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/故.md`; propagated the corrected divergence-aware gloss to `characters/事 (char).md`'s own backlink.
+
+### 2026-07-23, iteration 194 — [[words/教室|教室]]
+
+Twelfth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — spurious second reading**: `mandarin: "jiàoshì, jiàoshǐ"` — checked against `characters/教.md` (mandarin `jiào` only) and `characters/室.md` (mandarin `shì` only); no real second pronunciation "jiàoshǐ" exists for this word. Removed the bogus alternate reading, keeping just `jiàoshì`. Also fixed `japanese` (`きょーしつ`→`きょうしつ`, standard hiragana long-vowel spelling, matching sibling words 教育/教師; the ー-based spelling appears to be a recurring typo also seen on [[教員]], left untouched this iteration since it's a different word).
+
+**Native-coinage divergence documented, not fabricated**: a weak, effectively circular search result offered "giáo thất" as a mechanical Sino-Vietnamese reading, but it could not be independently confirmed as an actually-used word — the real, standard modern Vietnamese term for "classroom" is the native construction lớp học/phòng học. Left `vietnamese` blank rather than fabricate an unattested reading.
+
+No `stand_in` relationship applies — 教's own `stand_in` is `教授` (a different word), 室's own is `房室` (a different word) — 教室 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/教.md` is `false`, `characters/室.md` is `true` → compound `false`). Reformatted `aliases` inline array to block form (kept `敎室`, a legitimate variant-glyph form matching 教's own `敎` alias). Removed blank `swadesh:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`. No homophones (`注音: ㄍ⼄ㄨㄙㄧㄊ` unique). **Incidental fix**: reformatted `characters/教.md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/室.md`.
+
+### 2026-07-23, iteration 195 — [[words/教育|教育]]
+
+Thirteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`. A clean iteration — `vietnamese` was already correctly filled with `giáo dục`.
+
+**Frontmatter cleanup**: `characters:` listed bare `育`, but the actual file is `育 (char).md` — corrected. Fixed a typo in the opening bullet's own gloss for 育 ("nuture"→"nurture," the same recurring typo caught on [[体育]] earlier this sweep). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies — 教's own `stand_in` is `教授` (a different word), 育's own is bare `育` — 教育 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/教.md` is `false`, `characters/育 (char).md` is `true` → compound `false`). All cross-linguistic fields already correct — genuinely the standard word for "education" across the sphere, no divergence found. No homophones (`注音: ㄍ⼄ㄨ⼜ㄎ` unique). **Incidental fix**: reformatted `characters/教.md`'s existing plain-text entry into ruby form (`characters/育 (char).md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 196 — [[words/文化|文化]]
+
+Fourteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `vietnamese: văn hoá, văn hóa` (a single comma-joined string) reformatted into a proper two-item list — not a comma-dump bug in the usual sense (both are genuine spellings of the same word, văn hóa being the standard modern quốc ngữ diacritic placement and văn hoá an older convention), just needed list formatting rather than a bare string. Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Stand-in note applied**: `characters/文.md`'s own `stand_in` field is `文化` (this word) — added the standard phrasing. (化's own `stand_in` is bare `化` — no note on that side.) `kwin: true` already correct per the AND-rule (both constituents individually `true`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄇㄨㄋㄏ⺢` unique). **Incidental fix**: added a missing `## Words` entry to `characters/化 (char).md` (`characters/文.md`'s own entry already existed with the stand-in note).
+
+### 2026-07-23, iteration 197 — [[words/文学|文学]]
+
+Fifteenth word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`. A clean iteration — frontmatter was already fully correct (`vietnamese: văn học` already filled, `aliases: [文學]` already properly formatted).
+
+**Only fix needed**: added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 文's own `stand_in` is `文化` (a different word), 学's own is `学習` (a different word) — 文学 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄇㄨㄋㄏㄚㄎ` unique). Both `characters/文.md` and `characters/学.md` already had correct `## Words` backlink entries — no incidental fix needed on either.
