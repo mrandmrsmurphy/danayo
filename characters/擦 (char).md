@@ -49,4 +49,4 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 初]]
 [[Lookup/CC/finals/韻 黠開]]
-- [[擦拭]] "wipe"
+- <ruby>[[擦拭]]<rt>ㄑㄚㄊㄙㄧㄎ</rt></ruby> "wipe"

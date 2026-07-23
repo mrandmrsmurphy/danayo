@@ -699,3 +699,53 @@ Swadesh #125 ("stand"). Stamped `date-last-perfect: 2026-07-23`. Fifth single-ch
 **Cross-linguistic note**: documented that Japanese keeps 立 bound in on'yomi compounds (独立, どくりつ) while everyday "to stand" uses the native kun'yomi conjugated verb 立つ (たつ) — the same character, not a separate compound, but functioning grammatically rather than as a bare citation-form word.
 
 No homophones (`注音: ㄌㄧㄆ` unique to this file). No character-page backlink needed — self-standing single-character word.
+
+### 2026-07-23, iteration 57 — [[words/回転|回転]]
+
+Swadesh #126 ("rotate, spin"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` inline arrays reformatted to block form. Filled blank `cantonese` (`wui4 zyun2`, compositional) and blank `vietnamese` (`hồi chuyển`, real and attested — verified via search, used especially in gyroscope terminology, con quay hồi chuyển). Removed blank `hsk_level:`.
+
+**`pos` corrected `性詞`→`事詞`**, matching both `characters/回.md` and `characters/転.md`'s own `事詞` category — the same fix class as [[呼吸]] and [[戦闘]] earlier this sweep.
+
+**No `stand_in` relationship applies**: 回's own `stand_in` is bare `回` itself, 転's own is `転化` — 回転 is an independent compound, not a legitimizer for either. `kwin: false` already correct per the AND-rule (`characters/回.md` is `true`, `characters/転.md` is `false` → compound `false`).
+
+**All cross-linguistic fields otherwise already correct** — the standard, everyday word for "rotation" across the sphere, no native displacement or homophone collision found.
+
+No homophones (`注音: ㄏㄛㄧㄐ⼔ㄋ` unique to this file). **Incidental fix**: reformatted `characters/転.md`'s bare `[[回転]]` entry to ruby form (`characters/回.md`'s own entry was already properly formatted).
+
+### 2026-07-23, iteration 58 — [[words/落下|落下]]
+
+Swadesh #127 ("fall"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real `korean` bug caught, a third instance of the standing North Korean rule this sweep (after [[卵子]] and [[分裂]])**: stored `낙하` applies South Korean 두음법칙 (word-initial ㄹ→ㄴ); `characters/落.md`'s own field is `락`, so North Korean 문화어 preserves `락하`. Corrected `낙하`→`락하`.
+
+**`kwin` corrected `false`→`true`**, the fourth confirmed active fix this sweep (after [[父親]], [[羽翼]], [[散歩]]): both `characters/落.md` and `characters/下 (char).md` are individually `true`, and 낙하/락하 ("falling," as in 낙하산/락하산 "parachute") is a real, common word in both Koreas, so the AND-rule prediction is directly validated.
+
+**`pos` corrected `性詞`→`事詞`**, the same fix class as [[呼吸]]/[[戦闘]]/[[回転]] earlier this sweep. `characters:` list quoting fixed for `下 (char)`. Filled `vietnamese` with the real, attested Sino-Vietnamese `lạc hạ` (verified via search — classical usage describing falling leaves/rain/snow); the everyday native verb is simply rơi.
+
+**Stand-in note applied**: `characters/落.md`'s own `stand_in` field is `落下` — added the standard phrasing. (下's own `stand_in` is bare `下` — no note on that side.) No homophones (`注音: ㄌㄚㄎㄏㄚ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/落.md` (`characters/下 (char).md` already had one, correctly formatted).
+
+### 2026-07-23, iteration 59 — [[words/持|持]]
+
+Swadesh #129 ("hold"). Stamped `date-last-perfect: 2026-07-23`. Sixth single-character self-standing word this sweep.
+
+**Content removed**: a stray, meaningless `1310` line sitting directly under `# Notes` — almost certainly a copy-paste artifact (the identical stray `1310` line also sits under `characters/持 (char).md`'s own `# Notes`, suggesting whoever created these two pages pasted the same fragment onto both; flagged there too, but not fixed on the character page, out of scope for a words-only iteration).
+
+**Frontmatter cleanup**: filled blank `vietnamese` (`trì`, verified via search as the real, richly-attested Sino-Vietnamese reading — duy trì "maintain," kiên trì "persevere," chủ trì "preside over" — while `characters/持 (char).md`'s own stored field, "rì, chày, chiì," looks like corpus noise, flagged not fixed) and blank `pos` (`事詞`, matching the character's own field). `characters: 持 (char)` bare scalar converted to a list.
+
+**Cross-linguistic note**: Japanese uses the native kun'yomi verb 持つ (もつ) for everyday "to hold," rather than a bare on'yomi citation form — the character functions grammatically there, not as an independent noun-like word the way it does in Mandarin/Cantonese/Korean.
+
+No homophones (`注音: ㄉㄧ` unique to this file). No character-page backlink needed — self-standing single-character word.
+
+### 2026-07-23, iteration 60 — [[words/擦拭|擦拭]]
+
+Swadesh #133 ("wipe"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Cross-linguistic asymmetry, disclosed rather than force-corrected — the same standard as [[男人]]/[[長牙]] earlier this sweep**: neither Japanese nor Korean appear to actually use 擦拭 as a living compound. The old `japanese`/`korean` fields had substituted entirely native, unrelated verbs (Japanese ふく, 拭く alone "to wipe"; Korean 씻다, "to wash") in place of a reading of this specific compound — corrected both to honest on'yomi/Sino-Korean-compositional values (さっしょく, 찰식) with the real native words disclosed in prose instead of silently overwritten.
+
+**`kwin` deliberately left `false`, not force-corrected**: both `characters/擦 (char).md` and `characters/拭.md` are individually `true`, so the mechanical AND-rule suggests `true` — but per the [[長牙]]/[[指甲]] standard (as opposed to the validated fixes on [[父親]]/[[羽翼]]/[[散歩]]/[[落下]]), this compound's Korean reading isn't independently attested as a real living word, so the AND-rule prediction was noted but not applied without empirical support.
+
+Mandarin cāshì and Cantonese caat3 sik1 are real written/formal-register words for "wipe clean" (擦拭乾淨). Filled `vietnamese` with the real, attested `sát thức` (verified via search); the everyday native phrase is lau chùi. **Stand-in note applied**: `characters/拭.md`'s own `stand_in` field is `擦拭` — added the standard phrasing. (擦's own `stand_in` is bare `擦` — no note on that side.)
+
+No homophones (`注音: ㄑㄚㄊㄙㄧㄎ` unique to this file). **Incidental fixes**: reformatted `characters/擦 (char).md`'s bare `[[擦拭]]` entry to ruby form; added a missing `## Words` entry to `characters/拭.md`.
