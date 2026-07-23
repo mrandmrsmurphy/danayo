@@ -1253,3 +1253,39 @@ No `stand_in` relationship applies — both constituents are bare self-standing 
 No homophones (`注音: ㄑㄨㄊㄈㄚㄊ` unique to this file). **Incidental fix**: reformatted `characters/発 (char).md`'s bare dash-gloss entry to proper ruby form (`characters/出 (char).md`'s own entry already existed, correctly formatted).
 
 **Pool refreshed**: re-ran the never-perfected HSK-1 query. Next: 分之, 別人, 努力, 勝利, 化学, 医院, 十分, 午飯, 危険, 原来, 去年, 参加, 参観, 友好, 友誼, 反対, 取得, 口語, 可以, 可能, ...
+
+### 2026-07-23, iteration 103 — [[words/分之|分之]]
+
+Twenty-first word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real content bug corrected**: `english: fractions times` was garbled/unclear — corrected to a clearer gloss describing the actual function: "-ths (fraction marker: denominator分之numerator)."
+
+**A genuinely Sino-specific grammatical construction, left honestly incomplete rather than fabricated**: 分之 is the fixed denominator-first fraction particle (三分之一, "one third," literally "of three parts, one"), shared by Mandarin fēnzhī, Cantonese fan1 zi1, Japanese 分の, and Korean 분의. Vietnamese expresses fractions with an entirely different word order and vocabulary (một phần ba, "one part three," numerator-first, native phần) — left `vietnamese` blank rather than force a fabricated reading for a construction Vietnamese doesn't share, the same standard applied to [[不但]] earlier this sweep.
+
+Filled a previously-missing `kwin` field — computed `false` per the AND-rule (`characters/分 (char).md` is `true`, `characters/之 (char).md` is `false` → compound `false`). No `stand_in` relationship applies — both constituents are bare self-standing characters. Removed blank `hsk_level`-adjacent `swadesh:`/`aliases:`; quoted `hsk_level: "1"`; non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄅㄨㄋㄊㄧ` unique to this file). **Incidental fixes**: reformatted `characters/分 (char).md`'s bare `[[分之]]` entry to ruby form with the corrected gloss; added a missing `## Words` entry to `characters/之 (char).md`.
+
+### 2026-07-23, iteration 104 — [[words/別人|別人]]
+
+Twenty-second word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `人`, but the actual file is `人 (char).md` — the recurring bug class from earlier in the sweep.
+
+**Comma-dump untangled**: `korean: "별인, 다른 사람"` held both the compound's own Sino-Korean reading (별인) and an unrelated native-Korean synonym (다른 사람, "different person," built from native 다르다+사람). Kept only 별인 in the field and moved 다른 사람 into prose as a documented register note — verified via search that 별인 is real but markedly rarer/more bookish than 다른 사람 in living speech, not an error, an asymmetry worth recording.
+
+**Vietnamese left honestly blank**: no independently attested Sino-Vietnamese entry for 別人 was found (absent from Vietnamese Wiktionary and Hán Việt dictionaries as a fixed word); Vietnamese instead uses the native phrase người khác. Declined to fabricate a compositional biệt+nhân reading, the same standard applied to [[不但]] and [[分之]] earlier this sweep.
+
+Filled a previously-missing `kwin` field — computed `false` per the AND-rule (both `characters/別 (char).md` and `characters/人 (char).md` are individually `false`). No `stand_in` relationship applies — both constituents are bare self-standing characters. Added the entirely-missing `## Notes` section (the file had none at all).
+
+No homophones (`注音: ㄅㄝㄊㄋㄧㄋ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly ruby-formatted — no incidental character-page fixes needed this iteration.
+
+### 2026-07-23, iteration 105 — [[words/努力|努力]]
+
+Twenty-third word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` field with nỗ lực — a common, real Sino-Vietnamese word (verified via search), a clean compositional match with no register narrowing.
+
+Notable `stand_in` relationship: `characters/努.md`'s own `stand_in` points *to this word* (努力), meaning 努 is a bound morpheme that never appears independently outside this compound — a cranberry-adjacent case. `kwin: false` was already correct per the AND-rule (`characters/努.md` is `kwin: true`, `characters/力 (char).md` is `kwin: false` → compound `false`). All other cross-linguistic fields (mandarin, cantonese, japanese, korean) were already correct, everyday readings. Renamed non-canonical `## Etymology` to `## Notes`; removed blank `aliases: []`.
+
+No homophones (`注音: ㄋㄛㄌㄧㄎ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed this iteration.

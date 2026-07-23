@@ -65,7 +65,7 @@ boundedness: 95
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 文]]
 - [[分配]] "distribute,partition,share"
-- [[分之]] "fractions times"
+- <ruby>[[分之]]<rt>ㄅㄨㄋㄊㄧ</rt></ruby> "-ths (fraction marker)"
 - <ruby>[[分析]]<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby> "analyze, analysis"
 - <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> "equinox"
 - <ruby>[[分掌]]<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby> "to divide work duties"
