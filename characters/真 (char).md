@@ -47,6 +47,7 @@ boundedness: 90
 ```
 
 ## Words
+- <ruby>[[真正]]<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby> "genuine; real"
 - <ruby>[[真実]]<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby> "truth, reality"
 
 ## Notes

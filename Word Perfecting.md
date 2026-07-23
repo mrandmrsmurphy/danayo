@@ -2755,3 +2755,39 @@ Third word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-0
 **Frontmatter cleanup on the word file itself**: removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
 
 No `stand_in` relationship applies — 発's own `stand_in` is bare `発`, 生's own is `生活` (a different word) — 発生 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄈㄚㄊㄙㄚㄫ` unique).
+
+### 2026-07-23, iteration 246 — [[words/発見|発見]]
+
+Fourth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed/corrected — a genuine wrong-character conflation**: `羅馬字`/`諺文` (`padgyen`/팓견) and `mandarin`/`cantonese` (`fāxiàn`/`faat3 jin6`) previously reflected the reading of an entirely different compound, 発現/発现 (written with 現/现 "appear, manifest," not this word's own 見 "see") — checked against `characters/見 (char).md`'s own stored `gyen`/견/`jiàn`/`gin3` and corrected. `aliases` had also wrongly included `發現`/`发现` (the 現-spelled word) alongside the genuine `發見`/`发见` (traditional/simplified of this word's own 見) — removed the former.
+
+**Noted, not "fixed"**: Japanese はっけん was already correct (見's own KEN reading, in the extremely common everyday word 発見する). Mandarin's own everyday word for "discover," however, is actually written 发现/發現 (fāxiàn, with 現/现) — the 見-spelled form kept here is comparatively rare/archaic in Mandarin, though it remains this vault's own dedicated character combination (no [[発現]] page exists yet). Filled blank `vietnamese` with the attested `phát kiến` (used in academic contexts, e.g. phát kiến khoa học).
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/発 (char).md` is `false`, `characters/見 (char).md` is `true` → compound `false`). No homophones (`注音: ㄈㄚㄊㄍ⼶ㄋ` unique). **Incidental fix**: reformatted `characters/発 (char).md`'s existing plain-text entry into ruby form (`characters/見 (char).md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 247 — [[words/目前|目前]]
+
+Fifth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Comma-dump field bug fixed**: `korean: 목전, 눈앞` — 목전 is the genuine Sino-Korean compound reading, while 눈앞 (native "eye" + "front") is an unrelated native synonym, not a reading of 目前 itself. Removed 눈앞.
+
+**Frontmatter cleanup**: `characters:` inline array reformatted to block form. Added a previously-missing `kwin` (computed `false` per the AND-rule: `characters/目 (char).md` is `false`, `characters/前 (char).md` is `true` → compound `false`). Quoted `hsk_level: "1"`; removed blank `swadesh:` and empty `aliases: []`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `vietnamese` left unresearched/blank (web-search quota exhausted). A clean, directly parallel compound in meaning across the sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄇㄨㄎㄐㄝㄋ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/前 (char).md` (`characters/目 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 248 — [[words/看病|看病]]
+
+Sixth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `看`, but the actual file is `看 (char).md` — corrected. Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 看's own `stand_in` is bare `看`, 病's own is `疾病` (a different word) — 看病 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/看 (char).md` is `false`, `characters/病.md` is `true` → compound `false`). `vietnamese` left unresearched/blank (web-search quota exhausted). A clean, directly parallel compound in meaning across the sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄎㄚㄋㄅ⼶ㄫ` unique). **Incidental fix**: reformatted `characters/病.md`'s existing bare-link entry into ruby form with a gloss; added a missing `## Words` section entirely to `characters/看 (char).md` (had none).
+
+### 2026-07-23, iteration 249 — [[words/真正|真正]]
+
+Seventh word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `真`, but the actual file is `真 (char).md` — corrected (also quoted `"正 (char)"`, which needed the same fix). Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/真 (char).md` is `true`, `characters/正 (char).md` is `false` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. `vietnamese` left unresearched/blank (web-search quota exhausted). No homophones (`注音: ㄐㄧㄋㄐㄧㄫ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/真 (char).md` (`characters/正 (char).md`'s own entry already existed).

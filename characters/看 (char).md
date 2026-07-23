@@ -49,3 +49,6 @@ boundedness: 100
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 寒]]
+
+## Words
+- <ruby>[[看病]]<rt>ㄎㄚㄋㄅ⼶ㄫ</rt></ruby> "nurse; see a patient"

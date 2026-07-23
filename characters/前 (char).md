@@ -49,6 +49,7 @@ boundedness: 100
 - Components: [[䒑]], [[刖]]
 - [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md)) · [ㄐㄝㄋ](syllables/ㄐㄝㄋ.md) · [[Lookup/CC/initials/聲 從|d͡z]] [[Lookup/CC/finals/韻 先開|en]]
 ## Words
+- <ruby>[[目前]]<rt>ㄇㄨㄎㄐㄝㄋ</rt></ruby> "present; right before one's eyes"
 - [[前置詞]] "preposition"
 - [[前後]] "front and rear, before and after, from beginning to end, consequences"
 - <ruby>[[従前]]<rt>ㄐㄛㄫㄐㄝㄋ</rt></ruby> "formerly, previously"

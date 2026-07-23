@@ -1,23 +1,3 @@
-### 2026-07-22, iteration 38 — [[characters/明 (char)|明]]
-
-Next never-perfected character by `danayo_id` (134) — already had a good graphemic bullet and partial structure, needed a gap-fill and cleanup pass. Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 會意` matching the already-good 会意 bullet, 日+月).
-
-**Content removed**: none.
-
-**Small fixes**: disambiguated the graphemic bullet's `[[日]]`/`[[月]]` links to `[[日 (char)|日]]`/`[[月 (char)|月]]` (both collide with word files); merged a non-canonical bullet that crammed SKIP/Stroke/syllable into one line into the proper two-bullet split, and built a real MC-rank bullet from scratch (the old one was just two bare floating CC-initial/final links with no ordinal rank or syllable link at all).
-
-**Caught and corrected before finalizing — a guessed chengyu gloss, same near-miss class flagged repeatedly this sweep**: while adding 旗幟鮮明 (present on the old page with no gloss at all), first copy-pasted 光明正大's gloss onto it since a quick single-line `grep` on the `english:` key appeared to show nothing for either — re-read both files in full and found 旗幟鮮明's real stored gloss is "have a clear-cut stand," entirely different from 光明正大's. Corrected before shipping; the single-line grep pattern itself was the failure mode (it only shows the `english:` key line, not the list item(s) below it for multi-line fields) — worth remembering as a sharper version of the extraction-script lesson from [[characters/国|国]] two iterations ago.
-
-**Words cross-check** (33 total ground-truth hits): 11 already listed (several bare, reformatted); 22 missing — added, all from stored fields.
-
-**Chengyu cross-check** (4 total): 1 already present (gloss fixed per above); 3 missing — 光明正大, 公明正大, 毎字明意 — added.
-
-**Derived Characters** (2 hits via `graphemic_classification: 明`): 盟 ("alliance; covenant") and 萌 ("bud; sprout") — both exact `注音` matches, added.
-
-**Incidental fix**: `characters/盟.md`'s `english` field had a typo, "aliance" → "alliance."
-
 ### 2026-07-22, iteration 39 — [[characters/東|東]]
 
 Next never-perfected character by `danayo_id` (135). Stamped `date-last-perfect: 2026-07-22`.
