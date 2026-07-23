@@ -1779,3 +1779,37 @@ Twenty-seventh word in the refreshed HSK-1 alphabetical pool. Stamped `date-last
 All cross-linguistic fields (mandarin, cantonese, japanese, korean, vietnamese) were already correct, standard readings for "madam; lady; (someone else's) wife." No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`).
 
 No homophones (`注音: ㄈㄜㄋㄧㄋ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/夫 (char).md` (`characters/人 (char).md`'s own entry exists but as a bare numbered-list item — left as-is, consistent with that list's own separate structure, not individually ruby-annotated).
+
+### 2026-07-23, iteration 150 — [[words/姑娘|姑娘]]
+
+Twenty-eighth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Gloss broadened**: `english` previously read only "bachelorette," a narrow/misleading gloss — corrected to lead with "girl; young lady," the actual primary, everyday informal-but-polite address term for a young unmarried woman (verified via search).
+
+Filled previously-blank `korean` (고낭, a real dictionary word confirmed via search) and `vietnamese` (cô nương, a real, well-attested term especially familiar from wuxia/kiếm hiệp novel translations). Confirmed Japanese クーニャン is a genuine direct katakana loanword from Mandarin itself (not a native kanji reading) — kept as-is, noted it also has a secondary, unrelated pop-culture sense as a cocktail name in Hokkaido.
+
+Filled a previously-missing `kwin` — computed `true` per the AND-rule (both `characters/姑.md` and `characters/娘 (char).md` individually `true`). No `stand_in` relationship applies (姑's own is 姑母, 娘's own is bare 娘).
+
+No homophones (`注音: ㄍㄛㄋㄚㄫ` unique to this file). **Incidental fixes**: reformatted `characters/姑.md`'s bare `[[姑娘]]` entry to ruby form; added a missing `## Words` section to `characters/娘 (char).md` (had none at all).
+
+### 2026-07-23, iteration 151 — [[words/媽媽|媽媽]]
+
+Twenty-ninth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Major content bug corrected**: `english` previously read "sweet little maid servant," entirely unrelated to this word's actual meaning — corrected to "mom; mother; mama," matching Mandarin's extremely common, basic HSK-1 sense (`characters/媽.md`'s own Words backlink already correctly said "mama; mom," confirming the word-level field had simply gone stale/wrong independently).
+
+Researched and confirmed Korean 마마 is a real, if rare/archaic and formal-register, Sino-Korean reading for "mom" — modern everyday Korean uses native 엄마 instead, and 마마 today is more commonly encountered in its unrelated historical senses ("Your Majesty," archaic "smallpox"). Left Japanese blank: Japanese uses the katakana loanword ママ or native お母さん, not a kanji compound from 媽 (表外字, outside the standard character set) — no genuine kanji word found.
+
+`kwin: true` already correct (媽 reduplicated, individually `kwin: true`). 媽's own `stand_in` points to a placeholder (名専字), not here.
+
+No homophones (`注音: ㄇㄚㄇㄚ` unique to this file). `characters/媽.md`'s own backlink was already correctly ruby-formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 152 — [[words/学校|学校]]
+
+Thirtieth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin xuéxiào, cantonese hok6 haau6, japanese がっこう, korean 학교, vietnamese trường học) — no bugs found. Added the entirely-missing `## Notes` section.
+
+Notable `stand_in` relationship: `characters/校.md`'s own `stand_in` points *to this word* (学校), another bound-morpheme case like several earlier this sweep; 学's own points elsewhere (学習). `kwin: false` already correct per the AND-rule (`characters/学.md` is `true`, `characters/校.md` is `false` → compound `false`).
+
+Two false-positive homophones ruled out: `小学校` and `大学校` both begin with this word's exact `注音` string but are longer superset compounds (小/大 + 学校), not genuine homophones. Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.

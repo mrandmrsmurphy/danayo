@@ -48,3 +48,5 @@ boundedness: 80
 [[Lookup/CC/initials/聲 娘]]
 [[Lookup/CC/finals/韻 陽開]]
 The meaning is similar to <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> (virgin), but not identical.
+## Words
+- <ruby>[[姑娘]]<rt>ㄍㄛㄋㄚㄫ</rt></ruby> "girl; young lady"
