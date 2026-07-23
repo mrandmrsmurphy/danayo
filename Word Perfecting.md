@@ -1093,3 +1093,35 @@ Filled a previously-missing `kwin` field — computed `false` per the AND-rule (
 No `stand_in` relationship applies — both 今's and 年's own `stand_in` fields are bare self-reference. Quoted `hsk_level: "1"`; removed blank `swadesh:`/`aliases:`.
 
 No homophones (`注音: ㄍㄧㄇㄋㄝㄋ` unique to this file). **Incidental fix**: reformatted `characters/今 (char).md`'s bare `[[今年]]` entry to ruby form (`characters/年 (char).md`'s own entry was already correctly formatted).
+
+### 2026-07-23, iteration 89 — [[words/以後|以後]]
+
+Seventh word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: filled blank `pos` (`名詞`) and blank `vietnamese` (`dĩ hậu`, a real attested classical/formal Sino-Vietnamese phrase — verified via search, e.g. từ nay về sau, "from now on" — with modern everyday Vietnamese preferring native sau đó/sau này). Fixed a missing space in `cantonese` (ji5hau6→ji5 hau6); quoted `hsk_level: "1"`; removed blank `swadesh:`/empty `aliases: []`.
+
+**No `stand_in` relationship applies** — both 以's and 後's own `stand_in` fields are bare self-reference. `kwin: false` already correct per the AND-rule (`characters/以 (char).md` is `true`, `characters/後 (char).md` is `false` → compound `false`).
+
+No homophones (`注音: ㄧㄏㄛㄨ` unique to this file). **Incidental fixes**: reformatted `characters/以 (char).md`'s bare `[[以後]]` entry to ruby form; added a missing `## Words` entry to `characters/後 (char).md`. Noted in passing (not investigated further, out of scope): `後 (char).md`'s own stored syllable field reads ㄏㄨㄛ (as in 然後), while 以後 itself stores the same sound as ㄏㄛㄨ — likely just a Bopomofo-notation ordering variance for the same diphthong, similar to the [[滑]] case earlier this sweep, not touched here.
+
+### 2026-07-23, iteration 90 — [[words/会話|会話]]
+
+Eighth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`. Already close to complete — `vietnamese` was already filled with the real, correct `hội thoại`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` reformatted to proper block form (quoted the `(char)` suffixes). Re-worded the primary `english` gloss from the verb-phrase "talk with; converse with" to the more standard noun form "conversation; to converse," matching how the word functions as a noun in its most common use (日常会話, "everyday conversation"). Quoted `hsk_level: "1"`; removed blank `swadesh:`. Non-canonical `## Etymology` renamed to `## Notes`.
+
+**No `stand_in` relationship applies** — both 会's and 話's own `stand_in` fields are bare self-reference. `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+No homophones (`注音: ㄏ⼔ㄏ⺢ㄧ` unique to this file). **Incidental fixes**: updated `characters/会 (char).md`'s existing ruby entry to match the revised gloss; added a missing `## Words` section to `characters/話 (char).md` (had none at all).
+
+### 2026-07-23, iteration 91 — [[words/体育|体育]]
+
+Ninth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`. A clean iteration — `vietnamese` was already correctly filled.
+
+**Frontmatter cleanup**: filled blank `pos` (`名詞`); fixed a typo in the opening bullet's own gloss for 育 ("nuture"→"nurture"); quoted `hsk_level: "1"`; non-canonical `## Etymology` renamed to `## Notes`.
+
+**No `stand_in` relationship applies** — 体's own `stand_in` is `体系`, 育's own is bare `育` — 体育 is an independent compound, not a legitimizer for either. `kwin: false` already correct per the AND-rule (`characters/体.md` is `false`, `characters/育 (char).md` is `true` → compound `false`).
+
+**All cross-linguistic fields already correct** — genuinely the standard word for "physical education" as a school subject across the sphere, no native displacement or homophone collision found.
+
+No homophones (`注音: ㄊㄝㄧ·⼜ㄎ` unique to this file). **Incidental fix**: reformatted `characters/体.md`'s bare `[[体育]]` entry to ruby form (`characters/育 (char).md`'s own entry was already correctly formatted).

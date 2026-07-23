@@ -56,7 +56,7 @@ boundedness: 75
 - <ruby>[[会]]<rt>ㄏ⼔</rt></ruby> "meet; gather" (stand-in for 会)
 - <ruby>[[机会]]<rt>ㄍㄧㄜㄏ⼔</rt></ruby> "opportunity"
 - <ruby>[[会議]]<rt>ㄏ⼔ㄜㄧ</rt></ruby> "meeting; conference"
-- <ruby>[[会話]]<rt>ㄏ⼔ㄏ⺢ㄧ</rt></ruby> "talk with; converse with"
+- <ruby>[[会話]]<rt>ㄏ⼔ㄏ⺢ㄧ</rt></ruby> "conversation; to converse"
 - <ruby>[[会員]]<rt>ㄏ⼔ㄨㄋ</rt></ruby> "member"
 - <ruby>[[会社]]<rt>ㄏ⼔ㄙ⼘</rt></ruby> "business; company"
 - <ruby>[[会社員]]<rt>ㄏ⼔ㄙ⼘ㄨㄋ</rt></ruby> "office worker"

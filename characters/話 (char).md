@@ -47,3 +47,6 @@ boundedness: 90
 # Notes
 [[Lookup/CC/initials/聲 匣]]
 [[Lookup/CC/finals/韻 夬合]]
+
+## Words
+- <ruby>[[会話]]<rt>ㄏ⼔ㄏ⺢ㄧ</rt></ruby> "conversation; to converse"

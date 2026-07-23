@@ -52,7 +52,7 @@ boundedness: 90
 ## Words
 - [[以前]]
 - [[以便]]
-- [[以後]]
+- <ruby>[[以後]]<rt>ㄧㄏㄛㄨ</rt></ruby> "after that; from now on; thenceforth"
 - [[既以]]
 - [[為以]] 
 - <ruby>[[可以]]<rt>ㄎㄜㄧ</rt></ruby> "can, may (permissive)"
