@@ -64,3 +64,4 @@ boundedness: 80
 - <ruby>[[恥]]<rt>ㄑㄧ</rt></ruby> "shame; disgrace"
 - <ruby>[[茸]]<rt>ㄋ⼄ㄫ</rt></ruby> "growth; mushroom"
 - <ruby>[[餌]]<rt>ㄋㄧ</rt></ruby> "bait; entice"
+- 聶 --> 摂 (char)

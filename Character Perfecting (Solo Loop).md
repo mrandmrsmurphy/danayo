@@ -8,85 +8,6 @@ A self-paced `/loop` sweep perfecting one character file per iteration against [
 
 ## Log
 
-### 2026-07-22, iteration 3 — [[characters/回 (char)|回]]
-
-Next never-perfected character by `danayo_id` (88). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `事詞`. Reasoning: Dan'a'yo's own closed classifier set ([[grammar/文法 - 97品詞]]) already assigns the "turns/repeats" counter role to 番, not 回, so 回's own gloss "turns" doesn't make it a classifier — its actual corpus role is verbal/eventive (回答, 回復, 回転, 回収, 挽回 are all action compounds), so 事詞 fits its real behavior rather than its bare gloss.
-
-**Content removed**: none — no wrong or contradicted data, just misplaced/missing structure.
-
-**Body defects found, the messiest page this loop has hit so far**: only one Notes bullet existed (a terse graphemic aside, no SKIP/Stroke/MC/Levels bullets); `## Chengyu` had the real chengyu hit (起死回生) but with no gloss, followed immediately by two floating CC-initial/final links, and then — the real structural bug — **six genuine Words entries were sitting under the `## Chengyu` heading** (回教徒, 回紇, 回答, 回教, 回復, 回収), none of which are chengyu at all. Moved all six into `## Words` where they belong. Several existing Words entries were also malformed: `回路` used a markdown link with a bare-dash gloss and a trailing space instead of ruby+quoted-gloss format; `迂回`, `回転`, `回廊` were bare `[[link]]` with no ruby or gloss at all.
-
-**Words cross-check** (18 total ground-truth hits including the stand-in itself): 14 were already present in some form (several needing ruby/gloss fixes as above); 4 were missing outright — 回帰, 回族, 回生, 挽回 — added, all rubies/glosses pulled from each word's own stored `注音`/`english` fields.
-
-**Chengyu**: 起死回生 already linked but glossless — first drafted a paraphrased gloss from general knowledge ("bring back to life; save from a desperate situation") before catching myself and checking the chengyu file's actual stored `english` field ("revival from the point of death") — corrected before finalizing, same near-miss class documented repeatedly in [[Loop Work.md]].
-
-**Derived Characters** (1 hit via `graphemic_classification: 回`): 徊 ("loiter," as in 徘徊) — exact `注音` match (ㄏㄛㄧ both), a clean phonetic pair, added.
-
-**Graphemic bullet**: rewrote from a two-word aside ("rotation (originally a spiral)") into a full sentence describing the whirlpool/spiraling-water pictograph and its oracle-bone-to-modern squaring-off, matching the checklist's 象形 template.
-
-**Incidental fix**: `words/挽回.md`'s `english` field had a typo, "retreive" → "retrieve."
-
-Next: 91 (会), 92 (米), 93 (耳), 94 (地), continuing ascending by `danayo_id` (89/次 and 90/先 already stamped from an earlier, unlogged session).
-
-### 2026-07-22, iteration 4 — [[characters/会 (char)|会]]
-
-Next never-perfected character by `danayo_id` (91). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos:` (no value at all) → `事詞`, matching its real behavior as an action/eventive root across its compounds (会議, 会話, 会社 etc. all build on a "to meet/gather" action sense). `graphemic_classification: 會意` already correct — kept.
-
-**Content removed**: none.
-
-**Body defects found**: `# Notes` was the wrong heading level (H1 instead of H2) and had no real graphemic-classification prose at all — just two floating CC-initial/final links immediately followed by 8 Words entries dumped directly under it, no `## Words` heading anywhere on the page. Several of those 8 entries were bare `[[link]] "gloss,with,no,spaces"` (comma-run glosses, no ruby) rather than proper ruby+quoted-gloss format.
-
-**Words cross-check** (13 total ground-truth hits including the stand-in): 7 already present needed ruby/gloss reformatting; 4 were missing outright — 協会, 教会, 社会, 社会主義 — added, all rubies/glosses from each word's own stored fields. Added the stand-in 会 itself as the first entry (had not been listed).
-
-**Chengyu built from scratch** (1 hit): 一期一会, ruby+gloss pulled verbatim from the chengyu's own stored `注音`/`english` fields.
-
-**Graphemic bullet rewritten from nothing**: 会意 of 亼 ("to converge") over an abbreviated 曾 (a tiered steamer, 曰 omitted) — a lid fitting its vessel, hence "to meet, to join." Neither 亼 nor 曾 has a character page in this vault, so described in prose without a wikilink (same precedent as 気/气, 左/𠂇, 卑/𠂇 in [[Loop Work.md]]). Noted 会 is the Jōyō-simplification of 會, already in the page's own `aliases` — did not link `[[會]]` since no such page exists.
-
-**Derived Characters** (1 hit via `graphemic_classification: 会`): 桧 ("cypress," `guì`/ㄍ⺢ㄧ) — a real, if non-obvious, phonetic pairing: 桧/檜's traditional 形声 analysis derives from 會's *other* Mandarin reading (kuài, as in 会計 "accounting"), not the huì-sense this vault's own Dan'a'yo reading was built from — same "genuine attested relationship despite this vault's own single-sense MC transcription not matching" pattern documented for 母/毎 and 石's phonetic family. Included, not excluded.
-
-Next: 92 (米), 93 (耳), 94 (地), 95 (有), continuing ascending by `danayo_id`.
-
-### 2026-07-22, iteration 5 — [[characters/米 (char)|米]]
-
-Next never-perfected character by `danayo_id` (92). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `名詞` (a concrete noun, "rice"). `graphemic_classification: 象形` already correct — matches a straightforward, uncontested pictograph.
-
-**Content removed**: none.
-
-**Body defects found**: `# Notes` was the wrong heading level and held no actual content — it was immediately followed by `## Words` with no Notes bullets at all. Two floating CC-initial/final links sat in the middle of the Words list rather than embedded in an MC-rank bullet (which didn't exist). No SKIP/Stroke/Levels bullets existed either.
-
-**Words cross-check** (7 total ground-truth hits): 3 already listed (one, 玄米, as a bare dash-gloss instead of ruby format); 4 missing — 米飯, 玄米茶, 千米, 毫米 — added, all rubies/glosses from each word's own stored fields. Added the stand-in 米 itself, which hadn't been listed. No chengyu hits.
-
-**Graphemic bullet written from scratch**: standard 象形 template — scattered grains of husked rice around a central cross, following the checklist's List-of-象形 opening format.
-
-**Derived Characters** (1 hit via `graphemic_classification: 米`): 迷 ("be lost; be confused") — exact `注音` match (ㄇㄝㄧ both), a clean phonetic pair, added.
-
-Next: 93 (耳), 94 (地), 95 (有), 96 (当), continuing ascending by `danayo_id`.
-
-### 2026-07-22, iteration 6 — [[characters/耳 (char)|耳]]
-
-Next never-perfected character by `danayo_id` (93). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter fixed**: `japanese_native` had the same malformed-YAML shape as [[characters/糸|糸]] two iterations ago (bare scalar `みみ` plus a stray duplicate `- みみ` list item) — collapsed to a proper single-item list. `pos: 名詞` and `graphemic_classification: 象形` were already correct.
-
-**Content removed**: none.
-
-**Body defects found**: only one Notes bullet existed (terse, "an ear"); no SKIP/Stroke/MC/Levels bullets. Two floating CC-initial/final links sat inside the Words list rather than embedded in an MC bullet. Several Words entries were bare `[[link]] "gloss"` with no ruby (耳根, 耳朶, 耳目), and one (巻耳) had ruby but no gloss.
-
-**Words cross-check** (8 total ground-truth hits including the stand-in): 5 already present in some form, needing ruby/gloss fixes; 3 missing — the stand-in 耳 itself, 中耳, 日耳曼 — added, all fields from each word's own stored `注音`/`english`.
-
-**Chengyu built from scratch** (1 hit): 愛主耳錐 (Bible-origin), ruby+gloss from its own stored fields.
-
-**Derived Characters — 3 included, 1 deliberately excluded and flagged instead of decided**: `graphemic_classification: 耳` hits 4 characters (恥, 茸, 餌, 摂). Verified 恥 (心+耳, OC *n̥ʰɯːʔ vs *nɯʔ, textbook match), 茸 (艸+耳, shared nasal-initial family, standard Shuowen 从艸耳聲), and 餌 (食+耳, identical Mandarin/MC to 耳 itself) as genuine, well-documented phonetic derivatives — all three added. **`characters/摂 (char).md` excluded, not silently fixed**: its real traditional phonetic component is 聶 ("whisper," itself built from three 耳 but with no character page of its own in this vault, so unlinkable even if used), not 耳 directly — 摂's own stored MC (`n`+`ep`) tracks 聶's reading family, not 耳's (`ȵ`+`ɨ`), and its Mandarin `shè` is unrelated to `ěr`. This looks like the same "wrong-character-named-as-phonetic" error class as [[千]]'s old `遷`-vs-`人` bug, but fixing another character's own frontmatter is out of scope for perfecting 耳's page — left 摂's file untouched and excluded it from 耳's Derived Characters rather than guessing either way. Worth a dedicated look in a future iteration when 摂 itself comes up by `danayo_id`.
-
-**Graphemic bullet**: expanded from a two-word stub ("an ear") into a full sentence per the 象形 template.
-
-Next: 94 (地), 95 (有), 96 (当), 97 (行), continuing ascending by `danayo_id`.
 
 ### 2026-07-22, iteration 7 — [[characters/地 (char)|地]]
 
@@ -807,3 +728,67 @@ Next never-perfected character by `danayo_id` (146; 145 already stamped on inspe
 **Derived Characters** (3 hits via `graphemic_classification: 知`): 智 ("wisdom," transparently 知+日), 蜘 ("spider," as in 蜘蛛), 痴 ("stupid; foolish") — all standard, well-attested 知-phonetic derivatives, added.
 
 **Incidental fix**: `words/知性.md`'s `english` field had a typo, "knowledgable" → "knowledgeable."
+
+### 2026-07-22, iteration 49 — [[characters/夜 (char)|夜]]
+
+Next never-perfected character by `danayo_id` (147). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 亦` — verified before writing the bullet: 亦's own stored MC, `j`+`iᴇk`, shares 夜's own initial `j` with a divergent entering-tone final, exactly matching Shuowen's explicit "亦省聲" — an abbreviated phonetic, not a full-syllable match — so the field is correct, not another false phonetic like earlier iterations).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 036|夕]] ("evening") + phonetic [[亦 (char)|亦]] (abbreviated) — the time after evening, "night."
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links plus three Words-style entries — no `## Words` heading, no SKIP/Stroke/MC/Levels bullets.
+
+**Words cross-check** (6 total ground-truth hits): 3 already listed (reformatted); 3 missing — the stand-in 夜 itself, 今夜, 今夜安 — added, all from stored fields.
+
+**Chengyu built from scratch** (1 hit): 雲昼火夜 (Bible-origin), ruby/gloss from stored fields.
+
+**Derived Characters** (1 hit via `graphemic_classification: 夜`): 液 ("fluid; sap" — semantic 氵ᐩphonetic 夜, a standard pairing), added.
+
+### 2026-07-22, iteration 50 — [[characters/注|注]]
+
+Next never-perfected character by `danayo_id` (148). Stamped `date-last-perfect: 2026-07-22`. **50th iteration milestone for this loop.**
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 主` — already independently confirmed in [[Loop Work.md]] iteration 19, where 主's own Derived Characters check found 注 as an exact MC match; re-verified here directly against 主's own stored fields, `t͡ɕ`+`ɨo`, identical to 注's own — a clean, confirmed phonetic pair).
+
+**Content removed**: a stray "水,主" component-list fragment, superseded by the real bullet.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 085|水]] ("water") + phonetic [[主]] — to pour, to concentrate liquid into a place.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no `## Words` heading existed (the two present entries sat directly under Notes).
+
+**Words cross-check** (5 total ground-truth hits): 2 already listed (注音, 転注); 3 missing — the `stand_in` compound 注入 itself, 注意 (whose own vowel-hiatus-marked reading, ju'ǝ, was already resolved and documented back in [[Word Perfecting.md]] iteration 9), 注音符号 — added, all from stored fields. No chengyu hits, no `graphemic_classification: 注` hits.
+
+**Loop status**: 50 iterations completed, one full skip ([[characters/両 (char)|両]]), one left unstamped pending a missing word ([[characters/声|声]]).
+
+### 2026-07-22, iteration 51 — [[characters/彼 (char)|彼]]
+
+Next never-perfected character by `danayo_id` (149). Stamped `date-last-perfect: 2026-07-22`. Another full correlative-row family (此/其/彼/何/毎/某/皆 × 事/物/名/処/時/様/多/類/人), same recurring pattern as [[characters/多 (char)|多]], [[characters/何 (char)|何]], and [[characters/事 (char)|事]] earlier this loop.
+
+**Frontmatter**: already correct (`pos: 修飾語`, `graphemic_classification: 皮` — already independently confirmed genuine back in the Components-driven thread of [[Loop Work.md]], where 皮's own Derived Characters check found 彼 among its real phonetic family).
+
+**Content removed**: a stray "Components: [[彳]], [[皮]]" fragment, superseded by the real bullet.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 060|彳]] ("step, road") + phonetic [[皮]] — movement toward a distant point, "that, yonder."
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; no `## Words` heading existed at all.
+
+**Words cross-check** (10 total ground-truth hits): none were previously listed — built the entire section from scratch: the stand-in 彼 itself, 彼処, 彼時, 彼様, 彼多, 彼物, 彼類, 彼事, 彼人, 彼名, all from stored fields. No chengyu hits, no `graphemic_classification: 彼` hits.
+
+### 2026-07-22, iteration 52 — [[characters/画|画]]
+
+Next never-perfected character by `danayo_id` (150). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 會意`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意 of [[Radical 129|聿]] ("brush, writing implement") + [[Radical 102|田]] ("field, boundary lines") — drawing boundary lines with a brush, "to draw, to plan." 聿 has no character page of its own but is a genuine Kangxi radical (129), linked there per the established rule for unlinkable-but-real radical components.
+
+**Body defects found**: `## Notes` was completely empty; `## Chengyu` sat before `## Words` with only one entry and no gloss; two floating CC-initial/final links had no MC bullet to embed in; several Words entries were bare `[[link]]` with no ruby/gloss.
+
+**Words cross-check** (7 total ground-truth hits): 5 already listed (reformatted); 2 missing — 筆画, 計画 — added, all from stored fields.
+
+**Chengyu cross-check** (2 total): 1 already present (画蛇添足, gloss added from its stored field); 1 missing — 画龍点睛 — added. No `graphemic_classification: 画` hits — no Derived Characters section applies.
