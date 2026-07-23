@@ -563,3 +563,57 @@ Swadesh #90 ("heart, organ"). Stamped `date-last-perfect: 2026-07-22` (previousl
 No `stand_in` match on either constituent (心's own is bare `心`, 臓's own is `内臓`) — this is an independent compound, not a legitimizer, so no stand-in note.
 
 Next: #91 (肝臓), #99 (呼吸), #104 (思考), ...
+
+### 2026-07-22, iteration 46 — [[words/肝臓|肝臓]]
+
+Swadesh #91 ("liver"). Stamped `date-last-perfect: 2026-07-22` (previously unstamped).
+
+**A fourth instance this sweep of the recurring Sino-Xenic homophone pattern, and the best-documented one yet**: Korean 간장 (gan-jang) is a genuine, dictionary-recognized homograph — Wiktionary lists it as two entirely separate etymological entries under the identical spelling: the everyday household word for "soy sauce" (native 간 + Sino 醬, "sauce") and this compound's own Sino-Korean medical reading for "liver" (from 肝臟/肝臓). Both are real, common words; noted that the bare native/Sino-Korean reading 간 alone is the more frequent everyday way to say "liver" outside clinical registers, alongside this fuller medical compound.
+
+Confirmed `pos: 実詞` is a legitimate, established category in this vault (318 other files use it) rather than a typo for `名詞` as I first suspected — left unchanged. `kwin: true` already correct per the AND-rule (both `characters/肝.md` and `characters/臓.md` are individually `true`); `vietnamese: gan` already correctly matches one of `characters/肝.md`'s own attested readings (alongside `can`, `gang`). Non-canonical `## Etymology` heading and a stray informal "Stand-in for [[肝]]" line both folded into a single proper `## Notes` opening bullet with the standard stand-in phrasing (`characters/肝.md`'s own `stand_in` field is `肝臓`). Removed blank `hsk_level:`. Kept both aliases (`肝脏`, `肝臟`) — legitimate, matching `臓`'s own documented traditional/simplified variants.
+
+No homophones (`注音: ㄍㄚㄋㄐㄚㄫ` unique to this file). **Incidental fixes**: reformatted `characters/肝.md`'s bare `[[肝臓]]` entry to ruby form with the stand-in note; added a missing `## Words` entry to `characters/臓.md`.
+
+Next: #99 (呼吸), #104 (思考), ...
+
+### 2026-07-23, iteration 47 — [[words/呼吸|呼吸]]
+
+Swadesh #99 ("breathe"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real `pos` bug caught**: stored `性詞` (quality/adjective-like), corrected to `事詞` (verb-like/"event"), matching `characters/呼 (char).md`'s own stored `pos: 事詞` — a word for "breathe" doesn't fit the adjective-like category.
+
+**No internal Dan'a'yo derivation bug** — `羅馬字`/`諺文`/`注音` (`hohib`/호힙/ㄏㄛㄏㄧㄆ) already matched both characters. `kwin: false` already correct per the AND-rule (`characters/呼 (char).md` is `true`, `characters/吸 (char).md` is `false` → compound `false`).
+
+**No `stand_in` relationship applies**: both constituent characters already have their own bare-character `stand_in` (each is its own legitimizer — 呼's is bare `呼`, 吸's is bare `吸`) — 呼吸 is an independent compound, not a legitimizer for either, so no stand-in note.
+
+**All cross-linguistic fields were already correct** — genuinely the ordinary, everyday word for "breathe/respiration" in all five target languages, no native-word substitution to untangle this time (a contrast with most of the last several iterations). Quoted the `characters` list entry for `呼 (char)` for consistency (吸's was already quoted).
+
+No homophones (`注音: ㄏㄛㄏㄧㄆ` unique to this file). **Incidental fix**: added a missing `## Words` backlink to `characters/吸 (char).md` (which already correctly preserves its "abbreviation for samarium" periodic-table note per the standing rule — untouched, just inserted above it).
+
+Next: #104 (思考), ...
+
+### 2026-07-23, iteration 48 — [[words/思考|思考]]
+
+Swadesh #104 ("think"). Stamped `date-last-perfect: 2026-07-23`.
+
+**The richest homophone cluster found this entire sweep, richer than the pairwise collisions on [[羽翼]]/右翼, [[指甲]]/지갑, [[腸管]]/長官, and [[肝臓]]/soy-sauce-간장**: Korean 사고 (sago) is a documented **five-way** homophone cluster with its own Korean Wikipedia disambiguation page — this word's own 思考 ("thinking") shares the identical spelling with 事故 (an accident — by far the most common everyday sense of 사고), 史庫 (historical archive), 社告 (company announcement), and 四苦 (the Buddhist "four sufferings"). Noted, but not independently re-verified to the same depth, that Japanese しこう is likewise known for unusually dense homophony (志向, 指向, 試行, 至高, among others).
+
+**Small fix**: `cantonese: "s1 haau2"` was missing a vowel — corrected to `si1 haau2`, matching `characters/思.md`'s own stored `si1`. Filled blank `vietnamese` with the real, attested Sino-Vietnamese `tư khảo` (verified via search); the everyday native word is `suy nghĩ`. Removed empty `aliases: []` and blank `hsk_level:`.
+
+**Stand-in note applied**: `characters/思.md`'s own `stand_in` field is `思考` — folded the informal "Stand-in for [[思]]" line into the proper opening bullet. (考's own `stand_in` is `考慮`, a different word — no note on that side.) Non-canonical `## Etymology` heading renamed to `## Notes`. `kwin: false` already correct per the AND-rule (`characters/思.md` is `true`, `characters/考.md` is `false` → compound `false`).
+
+No Dan'a'yo-internal homophones (`注音: ㄙㄚㄎㄚㄨ` unique to this file). **Incidental fixes**: reformatted `characters/思.md`'s bare `[[思考]]` entry to ruby form with the stand-in note; added a missing `## Words` entry to `characters/考.md`.
+
+**Pool refreshed**: re-ran the never-perfected Swadesh query. Next: #106 (恐怖), #111 (戦闘), #113 (打撃), #115 (分裂), #116 (刺), #121 (散歩), #123 (臥), #125 (立), #126 (回転), #127 (落下), #129 (持), #133 (擦拭), #138 (縫製), #139 (計数), #141 (唱歌), #142 (遊戯), #145 (凍結), #146 (膨脹), #147 (太陽), #154 (海洋), #156 (石頭), #158 (灰塵), #165 (氷水), #169 (燃焼), #173 (緑), ...
+
+### 2026-07-23, iteration 49 — [[words/恐怖|恐怖]]
+
+Swadesh #106 ("fear"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Genuine semantic-narrowing finding, not a bug — a real parallel to [[論理]] and [[一切]] earlier in this vault's history**: the Vietnamese field `khủng bố` matches the compositional reading of 恐 (khủng) + 怖 (bố) exactly, but modern Vietnamese has narrowed the compound specifically to "to terrorize" / "terrorism" (chủ nghĩa khủng bố, "terrorism"; kẻ khủng bố, "a terrorist") rather than the broad, everyday "fear, dread, horror" that Mandarin/Cantonese/Japanese/Korean all cover with this same compound (恐怖映画/공포영화, "horror movie"; 恐怖症, "-phobia"). Verified via search rather than assumed, and documented the contrast explicitly — the everyday Vietnamese word for general fear is the unrelated native `sợ hãi`.
+
+**No internal Dan'a'yo derivation bug** — `羅馬字`/`諺文`/`注音` (`kongpo`/콩포/ㄎㄛㄫㄆㄛ) already matched both characters. `kwin: false` already correct per the AND-rule (`characters/恐.md` is `false`, `characters/怖.md` is `true` → compound `false`).
+
+**Stand-in note applied**: `characters/怖.md`'s own `stand_in` field is `恐怖` — added "— stand-in for [[怖]], which cannot appear independently." (恐's own `stand_in` is `恐慌`, a different word — no note on that side.) `characters:` unindented dash list reformatted to block form; removed blank `hsk_level:` and an empty `aliases:` key; non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄎㄛㄫㄆㄛ` unique to this file). **Incidental fixes**: reformatted `characters/恐.md`'s bare `[[恐怖]]` entry to ruby form; added a missing `## Words` entry to `characters/怖.md`.
