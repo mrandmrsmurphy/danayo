@@ -785,3 +785,51 @@ Swadesh #141 ("sing"). Stamped `date-last-perfect: 2026-07-23`.
 **Stand-in note applied**: `characters/唱.md`'s own `stand_in` field is `唱歌` — added the standard phrasing. (歌's own `stand_in` is `歌曲`, a different word — no note on that side.) Non-canonical `## Etymology` heading renamed to `## Notes`. `kwin: false` already correct per the AND-rule (both constituents individually `false`).
 
 No homophones (`注音: ㄑ⺢ㄫㄍㄜ` unique to this file). **Incidental fixes**: reformatted `characters/唱.md`'s bare `[[唱歌]]` entry to ruby form; added a missing `## Words` entry to `characters/歌.md`.
+
+### 2026-07-23, iteration 64 — [[words/遊戯|遊戯]]
+
+Swadesh #142 ("play, game"). Stamped `date-last-perfect: 2026-07-23`. A clean iteration — all cross-linguistic fields were already correct and genuinely attested.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` inline arrays reformatted to block form (kept all three variants — 游戏, 游戲, 遊戲 — matching `characters/戯.md`'s own documented traditional/simplified forms). Filled a previously-missing `kwin` field entirely — computed `false` per the AND-rule (both `characters/遊.md` and `characters/戯.md` are individually `false`).
+
+**Stand-in note applied**: `characters/遊.md`'s own `stand_in` field is `遊戯` — added the standard phrasing. (戯's own `stand_in` is `戯曲`, a different word — no note on that side.)
+
+**Register note**: Mandarin/Cantonese/Japanese/Korean/Vietnamese all use this compound as a real, standard word for "play, game, amusement," though each carries a slightly more formal/structured flavor than the plainest everyday "to play" verb in its own language (Mandarin 玩; Japanese native 遊ぶ).
+
+No homophones (`注音: ⼜ㄛㄏㄨㄧ` unique to this file). **Flagged, not fixed**: `characters/遊.md`'s own `# Notes` has a stray corpus artifact, `遊=C#973`, left untouched (character-sweep territory). **Incidental fixes**: added missing `## Words` entries to both `characters/遊.md` and `characters/戯.md`.
+
+### 2026-07-23, iteration 65 — [[words/凍結|凍結]]
+
+Swadesh #145 ("freeze"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bug caught**: `characters:` listed bare `結`, but the actual file is `結 (char).md` — the classic missing-`(char)`-suffix bug flagged repeatedly in [[Loop Work.md]] — corrected to `"結 (char)"`, and fixed the matching Notes link path (`結.md`→`結%20(char).md`).
+
+**`pos: 性詞` verified correct, not a bug**: matches `characters/凍.md`'s own stored category exactly — unlike the `事詞` corrections applied to [[呼吸]]/[[戦闘]]/[[回転]]/[[落下]] earlier this sweep (where the constituent characters were clearly verb-tagged), here the primary constituent is itself `性詞`, so left unchanged.
+
+**Genuine shared-metaphor finding**: filled `vietnamese` with `đông kết` (verified via search); confirmed all five languages extend the literal "freeze" sense to the same figurative one — freezing financial assets/an account (資産凍結/자산동결/đóng băng tài khoản) — an independently-arrived-at shared metaphor across the whole sphere, not just a calque of one language into the others.
+
+**Stand-in note applied**: `characters/凍.md`'s own `stand_in` field is `凍結` — added the standard phrasing. (結's own `stand_in` is bare `結` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/凍.md` is `true`, `characters/結 (char).md` is `false` → compound `false`). `characters:` list reformatted to block form.
+
+No homophones (`注音: ㄉㄛㄫㄍㄝㄊ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/凍.md` (had none at all) and `characters/結 (char).md`.
+
+### 2026-07-23, iteration 66 — [[words/膨脹|膨脹]]
+
+Swadesh #146 ("swell, expand"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Genuine semantic-drift finding, verified via search**: filled `vietnamese` with `bành trướng`, a real and extremely common Sino-Vietnamese compound — but confirmed it carries a much stronger, specifically political connotation than the neutral Mandarin/Japanese/Korean sense: bành trướng denotes aggressive territorial/political expansionism (chủ nghĩa bành trướng, "expansionism" as ideology), not neutral physical swelling, for which Vietnamese instead uses phồng/nở/giãn nở. Documented the contrast explicitly.
+
+**No `stand_in` relationship applies**: 膨's own `stand_in` is `膨大`, 脹's own is `腫脹` — 膨脹 is an independent compound, not a legitimizer for either. `kwin: false` already correct per the AND-rule (`characters/膨.md` is `false`, `characters/脹.md` is `true` → compound `false`). `characters:` inline array reformatted to block form; removed empty `aliases: []`; non-canonical `## Etymology` renamed to `## Notes`.
+
+No homophones (`注音: ㄆㄚㄫㄑㄚㄫ` unique to this file). **Incidental fixes**: reformatted `characters/膨.md`'s bare `[[膨脹]]` entry to ruby form; added a missing `## Words` entry to `characters/脹.md`.
+
+### 2026-07-23, iteration 67 — [[words/太陽|太陽]]
+
+Swadesh #147 ("sun"). Stamped `date-last-perfect: 2026-07-23`. Already close to complete — both `characters/太 (char).md` and `characters/陽 (char).md` already had correctly-formatted ruby backlinks, no incidental character-page fixes needed.
+
+**Frontmatter cleanup**: filled blank `pos` (`名詞`); removed empty `aliases: []`. `kwin: true` already correct per the AND-rule (both constituents individually `true`). No `stand_in` relationship applies — both 太's and 陽's own `stand_in` fields are bare self-reference — 太陽 is an independent compound.
+
+**Homophone reformatted, not newly found**: the page already informally flagged (plain-text `Homophones:` line, no callout) that this word is an exact homophone of [[太様]] "greatly, exceedingly" (identical tai'yang/태양/ㄊㄚㄧ·⼘ㄫ) — converted both pages to the standard `[!warning] Homophones` callout. `太様.md` itself remains otherwise unperfected (blank `pos`/`korean`/`vietnamese`/`swadesh`) — flagged, not fixed, same minimal-touch precedent as every prior homophone cluster this sweep.
+
+**Genuine coincidental-match finding, verified via search**: Vietnamese thái dương additionally names the temple (side of the head) in the compound huyệt thái dương (太陽穴, "temple acupoint" in traditional medicine) — matching the same characters' use for "temple" in Chinese/Japanese (太陽穴), confirmed as a real, attested anatomical term rather than assumed.
+
+All cross-linguistic fields for the primary "sun" sense were already correct and standard across the sphere.
