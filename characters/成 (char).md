@@ -52,7 +52,7 @@ boundedness: 100
 ## Words
 - <ruby>[[変成]]<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby> "change into; metamorphosize into"
 - [[成立]] "be born, gain approval, come into existence"
-- [[成績]] "achievements, accomplishments, grades, results"
+- <ruby>[[成績]]<rt>ㄙㄧㄫㄐㄝㄎ</rt></ruby> "achievements, accomplishments, grades, results"
 - [[成功]] "succeed, achieve success, prosper"
 - [[成熟]] "ripen, mature"
 - <ruby>[[道成肉身]]<rt>ㄉㄚㄨㄙㄧㄫㄋㄨㄎㄙㄧㄋ</rt></ruby> "incarnation; the Word became flesh"

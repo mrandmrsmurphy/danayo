@@ -2145,3 +2145,37 @@ Thirtieth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perf
 No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/愛 (char).md` is `true`, `characters/人 (char).md` is `false` → compound `false`).
 
 One false-positive homophone ruled out: `大人`'s `注音` (`ㄉㄚㄧㄋㄧㄋ`) contains this word's exact string as a suffix, but is a longer, distinct word, not a genuine homophone. **Incidental fix**: added a missing `## Words` entry to `characters/愛 (char).md` (`characters/人 (char).md`'s own entry exists but as a bare numbered-list item, left as-is per the same precedent as [[夫人]]/[[工人]] earlier this sweep).
+
+**Pool refreshed**: re-ran the never-perfected HSK-1 query. Next: 感謝, 態度, 成績, 所以, 所有, 技術, 掌握, 排球, 握手, 改変, 故事, 教室, 教育, 文化, 文学, 文章, 文芸, 新聞, 方便, 方向, 旅行, 日語, 早飯, 昨日, 時候, 時間, 最初, 最後, 最近, 有名.
+
+### 2026-07-23, iteration 183 — [[words/感謝|感謝]]
+
+First word in the fourth refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — bad alias**: frontmatter listed `aliases: [慰藉]`. 慰藉 means "solace; consolation/comfort," an entirely unrelated word to 感謝 "thank; appreciate" — not an alternate spelling or written variant of this word. Likely arose from `characters/謝.md` itself listing `藉` as one of its own character-level aliases (a classical variant glyph), conflated into a word-level alias it doesn't actually have. Removed the bogus alias rather than force it into agreement. Also removed a blank `swadesh:` key.
+
+Added the missing `## Notes` section (previously had none) — opening bullet linking both constituent characters, noting `characters/謝.md`'s own `stand_in` points here (bound morpheme), and `kwin: false` already correctly matched the AND-rule (感 `true` × 謝 `false` → `false`).
+
+**Cross-linguistic register divergence documented**: Mandarin 感谢 gǎnxiè and Korean 감사 gamsa are the everyday neutral words for "thank you"; Japanese 感謝 kansha is comparatively formal/deep gratitude, sitting above the far more common casual ありがとう; Vietnamese cảm tạ is likewise formal/literary register, with everyday spoken Vietnamese instead using cảm ơn. Not a bug, a genuine register asymmetry worth flagging.
+
+No homophones (`注音: ㄍㄚㄇㄙ⼘` and `羅馬字: gamsya` both unique). **Incidental fix**: added a missing `## Words` entry to `characters/感.md`; added a missing `## Words` section entirely to `characters/謝.md` (had none).
+
+### 2026-07-23, iteration 184 — [[words/態度|態度]]
+
+Second word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: filled blank `pos` (`名詞`); removed blank `swadesh:` key. Renamed non-canonical `## Etymology` heading to `## Notes` (same recurring fix applied throughout this sweep). Kept the existing `态度` alias — legitimate simplified form.
+
+**Stand-in note applied**: `characters/態.md`'s own `stand_in` field is `態度` (this word) — added the standard phrasing to the opening bullet. (度's own `stand_in` is `程度`, a different word — no note on that side.) `kwin: true` already correct per the AND-rule (both constituents individually `true`).
+
+A clean, directly parallel compound — Mandarin/Cantonese/Japanese/Korean/Vietnamese all mean "attitude, manner, bearing" with no real cross-linguistic divergence to flag. No homophones (`注音: ㄊㄚㄧㄉㄛ` unique). **Incidental fix**: reformatted `characters/態.md`'s existing plain-text 態度 entry into standard ruby form with the stand-in note; added a missing `## Words` entry to `characters/度.md`.
+
+### 2026-07-23, iteration 185 — [[words/成績|成績]]
+
+Third word in the fourth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: filled blank `pos` (`名詞`); filled blank `vietnamese` with the real, attested Sino-Vietnamese `thành tích` (verified via search — a common, everyday Vietnamese word for grades/records/achievements). Removed blank `swadesh:` key; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`. Kept the existing `成绩` alias — legitimate simplified form.
+
+**Stand-in note applied**: `characters/績.md`'s own `stand_in` field is `成績` (this word) — added the standard phrasing to the opening bullet. (成's own `stand_in` is bare `成` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/成 (char).md` is `false`, `characters/績.md` is `true` → compound `false`).
+
+Mild register/scope observation, not a bug: Korean 성적 and Japanese せいせき lean more specifically toward "(school) grades" in everyday use, while Vietnamese thành tích and Mandarin chéngjì extend a bit more readily to general life/work achievements — same core sense, slightly different typical context. No homophones (`注音: ㄙㄧㄫㄐㄝㄎ` unique). **Incidental fix**: reformatted `characters/成 (char).md`'s existing plain-text 成績 entry into ruby form; added a missing `## Words` section entirely to `characters/績.md` (had none).
