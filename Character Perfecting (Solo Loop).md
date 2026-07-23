@@ -792,3 +792,37 @@ Next never-perfected character by `danayo_id` (150). Stamped `date-last-perfect:
 **Words cross-check** (7 total ground-truth hits): 5 already listed (reformatted); 2 missing — 筆画, 計画 — added, all from stored fields.
 
 **Chengyu cross-check** (2 total): 1 already present (画蛇添足, gloss added from its stored field); 1 missing — 画龍点睛 — added. No `graphemic_classification: 画` hits — no Derived Characters section applies.
+
+### 2026-07-22, iteration 53 — [[characters/幸|幸]]
+
+Next never-perfected character by `danayo_id` (151). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 會意`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意 of 屰 ("reversal, going against") + 夭 ("a bent or dying person") — to reverse/escape misfortune, "lucky, fortunate."
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in.
+
+**Words cross-check** (3 total ground-truth hits): 1 already listed (幸福); 2 missing — the `stand_in` compound 幸運 itself and 不幸 — added, all from stored fields.
+
+**One Derived Characters candidate deliberately excluded, not decided on the spot**: `graphemic_classification: 幸` hits only `characters/睾.md` (gāo, "testicle"), but its own stored Middle Chinese (`k`+`ɑu`) shares no plausible relationship with 幸's own (`ɣ`+`ɣɛŋ`) — different initial class and rime entirely. Same "field looks wrong on a different character's own page" situation as [[characters/耳 (char)|耳]]'s excluded `摂` candidate earlier this loop — left `睾.md` untouched and excluded it from 幸's Derived Characters rather than guessing either way; worth a dedicated look when 睾 comes up by its own `danayo_id`.
+
+### 2026-07-22, iteration 54 — [[characters/林 (char)|林]]
+
+Next never-perfected character by `danayo_id` (152). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 會意` matching an already-good bullet).
+
+**Content removed**: none.
+
+**Tooling note — repeated `Edit` mismatches on this file**: several attempted `Edit` calls against multi-line blocks containing this page's CJK content failed with "string not found" even when the text visually matched the `Read` output exactly, including on isolated single lines; splitting into progressively smaller anchors only partially helped. Fell back to a full `Write` rewrite of the file (content already in hand from `Read`) rather than continuing to fight the mismatch. Worth remembering as a fallback tactic if `Edit` repeatedly rejects an apparently-correct CJK string match.
+
+**Small fix**: the radical-linking bullet used a broken plain-markdown link, `[木](Radical%20075)` (missing the `lookup/Radicals/` path and `.md` extension, and not a wikilink) — fixed to `[[Radical 075|木]]`.
+
+**Body defects found**: `### Derived Character` was H3 and positioned before Words; no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; one Words entry used a broken relative link (`[[words/林雨]]`, a folder-qualified wikilink that doesn't resolve) with a dash-gloss instead of ruby format; a stray whitespace-only line sat between two real bullets.
+
+**Words cross-check** (5 total ground-truth hits): 3 already listed (reformatted, 林雨's broken link fixed); 2 missing — the stand-in 林 itself and 森林 — added.
+
+**Derived Characters** (3 hits via `graphemic_classification: 林`): 淋 ("drain; drip"), 琳 ("jade; gem"), 禁 ("restrict; prohibit" — already listed but bare) — all standard, well-attested 林-phonetic derivatives, added/reformatted.
