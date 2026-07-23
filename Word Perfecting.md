@@ -1813,3 +1813,47 @@ All cross-linguistic fields were already correct, standard readings (mandarin xu
 Notable `stand_in` relationship: `characters/校.md`'s own `stand_in` points *to this word* (学校), another bound-morpheme case like several earlier this sweep; 学's own points elsewhere (学習). `kwin: false` already correct per the AND-rule (`characters/学.md` is `true`, `characters/校.md` is `false` → compound `false`).
 
 Two false-positive homophones ruled out: `小学校` and `大学校` both begin with this word's exact `注音` string but are longer superset compounds (小/大 + 学校), not genuine homophones. Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+**Pool refreshed**: 学校 was the last word in the previous batch. Re-ran the never-perfected HSK-1 query. Next: 学習, 学院, 孩子, 安静, 完全, 実践, 客気, 宴会, 容易, 将来, 展覧, 工人, 工作, 工業, 希望, 常常, 帽子, 幸福, 幹部, 建設, 弟弟, 影響, 復習, 忽然, 思想, 情況, 愉快, 意思, 意見, 愛人, ...
+
+### 2026-07-23, iteration 153 — [[words/学習|学習]]
+
+First word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin xuéxí, cantonese hok6 zaap6, japanese がくしゅう, korean 학습, vietnamese học tập) — no bugs found. Added the entirely-missing `## Notes` section.
+
+Notable `stand_in` relationship: `characters/学.md`'s own `stand_in` points *to this word* (学習), the same relationship referenced throughout this sweep's earlier 学-compound entries; 習's own points elsewhere (練習). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄏㄚㄎㄙㄧㄆ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/習.md` (`characters/学.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 154 — [[words/学院|学院]]
+
+Second word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin xuéyuàn, cantonese hok6 jyun6-2, japanese がくいん, korean 학원, vietnamese học viện) — no bugs found. Noted Korean 학원 specifically denotes a private cram school/after-school academy in modern usage, a narrower but consistent sense. Added the entirely-missing `## Notes` section.
+
+No `stand_in` relationship applies (学's own is 学習, 院's own is 院落). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄏㄚㄎ·⼔ㄋ` unique to this file). **Incidental fix**: added a missing `## Words` entry to `characters/院.md` (`characters/学.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 155 — [[words/孩子|孩子]]
+
+Third word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Gloss broadened**: `english` previously read only "baby; infant" — corrected to "child; kid(s)," matching the actual HSK-1 sense (children of any age, infancy through teens, and even "my child" for an adult offspring).
+
+**Comma-dump corrected to the genuine compositional reading**: `korean: 어린이, 아이` held two unrelated native Korean words for "child," neither a reading of 孩子 itself. Replaced with 해자, the real, narrow (verified via search: "a child of two to three years old") Sino-Korean compositional reading — which also happens to be an exact homophone of the far more common, unrelated word 해자 ("moat"), a genuine cross-linguistic curiosity, not an error. Filled `vietnamese` with hài tử, a real Sino-Vietnamese word with a dedicated dictionary entry (verified via search); the everyday native equivalent is trẻ con.
+
+Filled a previously-missing `kwin` — computed `false` per the AND-rule (`characters/孩.md` is `kwin: true`, `characters/子.md` is `kwin: false` → compound `false`). Notable `stand_in` relationship: `characters/孩.md`'s own `stand_in` points *to this word* (孩子), another bound-morpheme case like several earlier this sweep.
+
+No homophones (`注音: ㄏㄚㄧㄐㄜ` unique to this file). **Incidental fixes**: added a missing `## Words` section to `characters/孩.md` (had none at all); reformatted `characters/子.md`'s bare `[[孩子]]` entry (with the old wrong gloss) to ruby form with the corrected gloss.
+
+### 2026-07-23, iteration 156 — [[words/安静|安静]]
+
+Fourth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin ānjìng, cantonese on1 zing6, japanese あんせい, korean 안정, vietnamese yên tỉnh) — no bugs found. No `stand_in` relationship applies (安's own is 平安, 静's own is 静寂). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+**Formalized an already-known homophone**: the file already had an informal `[!warning]` note about [[安定]] ("stable"), but with the wrong callout syntax and positioned before the meta-bind-embed. Verified all three fields match exactly ('anjeng/안정/ㄚㄋㄐㄝㄫ) and reformatted into a proper `>[!warning] Homophones` callout in the correct position. **Incidental sibling-word fix**: `words/安定.md`'s own reciprocal note (also informally formatted, `# Notes\n- Homophones: ...`) was fixed to match.
+
+**Incidental fixes**: added missing `## Words` entries to both `characters/安.md` and `characters/静.md` (neither had a backlink for this word at all).
