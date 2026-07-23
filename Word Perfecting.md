@@ -2639,3 +2639,41 @@ Twenty-first word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect:
 **Frontmatter cleanup**: quoted `"字 (char)"` in `characters:` (contains a space). Removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
 
 No `stand_in` relationship applies — 漢's own `stand_in` is `漢族` (a different word), 字's own is bare `字` — 漢字 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/漢.md` is `true`, `characters/字 (char).md` is `false` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄏㄚㄋㄐㄧ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/漢.md` (`characters/字 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 234 — [[words/漢語|漢語]]
+
+Twenty-second word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — wrong-concept korean field**: `korean: 중국어파` ("the Sinitic branch [of a language family]," a linguistics classification term) — not a reading of 漢語 at all. Corrected to `한어`, the genuine Sino-Korean compound reading (matching `characters/漢.md`'s own `한` and `characters/語.md`'s own `어`). Also removed a duplicated capitalization variant from `mandarin` (`Hànyǔ, hànyǔ`→`hànyǔ`).
+
+**Genuine and important cross-linguistic sense divergence found via established domain knowledge and documented**: Mandarin/Cantonese 汉语/hon3 jyu5 is a standard cover term for "the Chinese language(s)." Japanese 漢語 (kango), however, does *not* mean "the Chinese language" — it is a linguistics term for "Sino-Japanese vocabulary" (words of Chinese origin in the Japanese lexicon, contrasted with native 和語 and other-language loans 外来語); the Japanese word for "the Chinese language" is 中国語. Rewrote `english` to document both senses explicitly.
+
+No `stand_in` relationship applies — 漢's own `stand_in` is `漢族` (a different word), 語's own is `言語` (a different word) — 漢語 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/漢.md` is `true`, `characters/語.md` is `false` → compound `false`). Removed blank `swadesh:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄏㄚㄋ·⼄` unique). **Incidental fix**: added missing `## Words` entries to both `characters/漢.md` and `characters/語.md` (neither had listed 漢語 before).
+
+### 2026-07-23, iteration 235 — [[words/火車|火車]]
+
+Twenty-third word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `火`, but the actual file is `火 (char).md` — corrected.
+
+**Rich multi-way sense divergence identified and documented, not "corrected" — same pattern as [[汽水]]/[[汽車]]**: the cryptic note about a corpse-stealing yōkai turned out to be gesturing at real complexity. This word is dedicated here to 화차 (hwacha), the Joseon-dynasty multi-rocket siege weapon whose name literally means "fire cart" (modern Korean 화차 can also mean "railway freight car"). Japanese 火車 (kasha) means something else entirely — a corpse-stealing yōkai in folklore, rooted in Buddhist hell imagery. Mandarin/Cantonese 火车/fo2 ce1, by contrast, is the everyday word for "train" — deliberately routed instead to [[列車]] to avoid collision. Flagged an inherent tension: `vietnamese: hỏa xa` historically also means "train" (đường hỏa xa, "railway"), tracking with Mandarin rather than this word's Korean/Japanese designation — left as-is (a real, attested word) but explicitly noted as not fully aligned.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/火 (char).md` is `true`, `characters/車 (char).md` is `false` → compound `false`). Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄏ⺢ㄑ⺢` unique). Both `characters/火 (char).md` and `characters/車 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 236 — [[words/点心|点心]]
+
+Twenty-fourth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `点`, but the actual file is `点 (char).md` — corrected. `aliases: [點心]` inline array reformatted to block form. Quoted `hsk_level: "1"`; removed blank `swadesh:`.
+
+**A striking and important cross-linguistic sense divergence found and documented, not forced into agreement**: Mandarin diǎnxīn, Cantonese dim2 sam1 (origin of the English loanword "dim sum"), and Japanese てんしん all mean "snack, light dishes, dim sum." Korean 점심 (jeomsim), however, is one of the most common everyday Korean words and means "lunch," the midday meal (아침/점심/저녁) — a genuine, high-stakes false-friend risk for learners. Vietnamese điểm tâm keeps the Sino sense of "light meal/snack" (often specifically "breakfast" in Vietnamese usage), aligning with the Mandarin/Cantonese/Japanese cluster rather than Korean. Rewrote `english` to document both senses explicitly.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/点 (char).md` is `false`, `characters/心 (char).md` is `true` → compound `false`). No homophones (`注音: ㄉㄝㄇㄙㄧㄇ` unique). **Incidental fix**: propagated the corrected divergence-aware gloss to `characters/心 (char).md`'s existing backlink; added a missing `## Words` entry to `characters/点 (char).md`.
+
+### 2026-07-23, iteration 237 — [[words/熱情|熱情]]
+
+Twenty-fifth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` inline array reformatted to block form. Removed empty `aliases: []`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies — 熱's own `stand_in` is bare `熱`, 情's own is `感情` (a different word) — 熱情 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄋ⼶ㄊㄑㄧㄫ` unique). **Incidental fix**: reformatted `characters/熱 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/情.md`.

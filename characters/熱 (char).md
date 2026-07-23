@@ -53,6 +53,6 @@ boundedness: 90
 
 ## Words
 - [[熱烈]] "avid, fervent"
-- [[熱情]] "enthusiasm, passion, ardor"
+- <ruby>[[熱情]]<rt>ㄋ⼶ㄊㄑㄧㄫ</rt></ruby> "enthusiasm, passion, ardor"
 - <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"
 - <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"

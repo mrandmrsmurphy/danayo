@@ -50,6 +50,7 @@ boundedness: 100
 - 3957th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 添|em]] → [ㄉㄝㄇ](syllables/ㄉㄝㄇ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 ## Words
+- <ruby>[[点心]]<rt>ㄉㄝㄇㄙㄧㄇ</rt></ruby> "snack, dim sum (Mandarin/Cantonese/Japanese); lunch (Korean)"
 - <ruby>[[一点]]<rt>ㄧㄊㄉㄝㄇ</rt></ruby> "a little; a bit"
 - <ruby>[[句点]]<rt>ㄍㄨㄉㄝㄇ</rt></ruby> "full stop, period"
 - <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> "solstice point"

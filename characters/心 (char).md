@@ -59,7 +59,7 @@ boundedness: 90
 - <ruby>[[心理学]]<rt>ㄙㄧㄇㄌㄧㄏㄚㄎ</rt></ruby> "psychology"
 - <ruby>[[心臓]]<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby> "heart (organ)"
 - <ruby>[[内心]]<rt>ㄋㄛㄧㄙㄧㄇ</rt></ruby> "thought; intention; heart"
-- <ruby>[[点心]]<rt>ㄉㄝㄇㄙㄧㄇ</rt></ruby> "snack; dimsum"
+- <ruby>[[点心]]<rt>ㄉㄝㄇㄙㄧㄇ</rt></ruby> "snack, dim sum (Mandarin/Cantonese/Japanese); lunch (Korean)"
 - <ruby>[[誠心]]<rt>ㄙㄧㄫㄙㄧㄇ</rt></ruby> "sincere; devout"
 - <ruby>[[関心]]<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby> "be concerned about; care for"
 - <ruby>[[懸心]]<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby> "to bear in mind"
