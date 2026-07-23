@@ -55,6 +55,7 @@ boundedness: 90
 [[Lookup/CC/finals/韻 鍾]]
 
 ## Words
+- <ruby>[[容易]]<rt>⼄ㄫ·⼶ㄎ</rt></ruby> "easy; simple"
 - <ruby>[[内容]]<rt>ㄋㄛㄧ⼄ㄫ</rt></ruby> "content; substance"
 - <ruby>[[容恕]]<rt>⼄ㄫ·ㄙ⼄</rt></ruby> "to forgive"
 - [[容量]] "volume, capacity"

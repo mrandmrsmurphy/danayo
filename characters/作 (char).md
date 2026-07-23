@@ -49,6 +49,7 @@ boundedness: 80
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[工作]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby> "work; be employed"
 - <ruby>[[操作]]<rt>ㄑㄚㄨㄐㄚㄎ</rt></ruby> "to operate; to manipulate; to carry out"
 - <ruby>[[詩作]]<rt>ㄙㄧㄐㄚㄎ</rt></ruby> "poem; to compose poetry"
 - <ruby>[[作用]]<rt>ㄐㄚㄎ⼄ㄫ</rt></ruby> "act upon, affect"

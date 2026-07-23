@@ -53,6 +53,6 @@ boundedness: 95
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 陽開]]
 - [[将軍]] "shogun, supreme commander"
-- [[将来]] "future"
+- <ruby>[[将来]]<rt>ㄐ⺢ㄫㄌㄚㄧ</rt></ruby> "future"
 - [[将兵]] "army"
 - <ruby>[[将然]]<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect); about-to-happen"

@@ -1903,3 +1903,91 @@ Filled a previously-blank `vietnamese` with yến hội, a Hán-Việt compound 
 Notable `stand_in` relationship: `characters/宴.md`'s own `stand_in` points *to this word* (宴会), another bound-morpheme case like several earlier this sweep.
 
 No homophones (`注音: ㄝㄋㄏ⼔` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/宴.md` and `characters/会 (char).md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 161 — [[words/容易|容易]]
+
+Ninth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Comma-dump untangled**: `korean` previously held `용이, 쉽다` — 용이 is the compound's own Sino-Korean reading, while 쉽다 is an unrelated native Korean verb meaning "to be easy." Kept only 용이. Vietnamese dung dị was already correct.
+
+**Formalized an already-known homophone**: the file already had informal prose noting a collision with [[溶液]] ("solution, chemistry"). Verified all three fields match exactly ('yong'yeg/용역/⼄ㄫ·⼶ㄎ) and converted to a proper `>[!warning] Homophones` callout. **Incidental sibling-word fix**: `words/溶液.md`'s own reciprocal note was similarly informal — reformatted to match.
+
+Filled a previously-missing `kwin` — computed `true` per the AND-rule (both `characters/容 (char).md` and `characters/易.md` individually `true`). Notable `stand_in` relationship: `characters/易.md`'s own `stand_in` points *to this word* (容易), another bound-morpheme case.
+
+No other homophones. **Incidental fixes**: added missing `## Words` entries to both `characters/容 (char).md` and `characters/易.md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 162 — [[words/将来|将来]]
+
+Tenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `将`/`来`, but the actual files are `将 (char).md`/`来 (char).md`. All cross-linguistic fields were already correct, standard readings (mandarin jiānglái, cantonese zoeng1 loi4, japanese しょうらい, korean 장래, vietnamese tương lai) — no bugs found.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/将 (char).md` is `false`, `characters/来 (char).md` is `true` → compound `false`).
+
+No homophones (`注音: ㄐ⺢ㄫㄌㄚㄧ` unique to this file). **Incidental fixes**: reformatted `characters/将 (char).md`'s bare `[[将来]]` entry to ruby form; added a missing `## Words` entry to `characters/来 (char).md` (had none for this word at all).
+
+### 2026-07-23, iteration 163 — [[words/展覧|展覧]]
+
+Eleventh word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `cantonese` with zin2 laam5, matching each character's own stored reading. Mandarin, Japanese, Korean, and Vietnamese were already correct, standard readings.
+
+No `stand_in` relationship applies (展's own is 伸展, 覧's own is 観覧). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄐㄝㄋㄌㄚㄇ` unique to this file). **Incidental fixes**: reformatted `characters/展.md`'s bare `[[展覧]]` entry to ruby form; added a missing `## Words` entry to `characters/覧.md` (had none for this word at all).
+
+### 2026-07-23, iteration 164 — [[words/工人|工人]]
+
+Twelfth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin gōngrén, cantonese gung1 jan4, japanese こうじん, korean 공인, vietnamese công nhân) — no bugs found. Confirmed via search that Japanese こうじん genuinely means "craftsman; artisan" and Korean 공인 genuinely means "craftsman; laborer" — both real, attested readings.
+
+**Genuine homophone-across-different-hanja confirmed, not an error**: Korean 공인 (工人) is coincidentally identical in sound to the far more common, entirely unrelated compounds 공인(公認, "official recognition") and 공인(公人, "public figure") — verified via search that all three are distinct, real words, the same recurring cross-linguistic pattern documented several times this sweep.
+
+No `stand_in` relationship applies (工's own is 工作, 人's own is bare 人). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄍㄛㄫㄋㄧㄋ` unique to this file). **Incidental fix**: added a missing `## Words` section and entry to `characters/工.md` (had no heading or entry at all; `characters/人 (char).md`'s own entry exists but as a bare numbered-list item, left as-is per the same precedent as [[夫人]] earlier this sweep).
+
+### 2026-07-23, iteration 165 — [[words/工作|工作]]
+
+Thirteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**`pos` corrected `性詞`→`事詞`**, matching this word's primary use as a verb/action-noun ("to work; job"). Reformatted Cantonese with a space (`gung1zok3`→`gung1 zok3`). Filled a previously-blank `vietnamese` with công tác, a real word documented in Hán Nôm dictionaries (verified via search).
+
+**Formalized an already-known homophone**: the file already had informal prose noting a collision with [[公爵]] ("duke"). Verified all three fields match exactly (gongjag/공작/ㄍㄛㄫㄐㄚㄎ) and converted to a proper `>[!warning] Homophones` callout. **Incidental sibling-word fix**: `words/公爵.md`'s own reciprocal note was similarly informal — reformatted to match.
+
+Notable `stand_in` relationship: `characters/工.md`'s own `stand_in` points *to this word* (工作), another bound-morpheme case. `kwin: true` already correct per the AND-rule (both individually `true`).
+
+**Incidental fixes**: added missing `## Words` entries to both `characters/工.md` and `characters/作 (char).md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 166 — [[words/工業|工業]]
+
+Fourteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `業`, but the actual file is `業 (char).md`. All cross-linguistic fields were already correct, standard readings (mandarin gōngyè, cantonese gung1 jip6, japanese こうぎょう, korean 공업, vietnamese công nghiệp) — no bugs found.
+
+No `stand_in` relationship applies (工's own is 工作, 業's own is bare 業). `kwin: true` already correct per the AND-rule (both individually `true`).
+
+No homophones (`注音: ㄍㄛㄫㄝㄆ` unique to this file). **Incidental fixes**: reformatted `characters/工.md`'s bare `[[工業]]` entry to ruby form; added a missing `## Words` entry to `characters/業 (char).md` (had none for this word at all).
+
+### 2026-07-23, iteration 167 — [[words/希望|希望]]
+
+Fifteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-missing `kwin` — computed `true` per the AND-rule (both `characters/希.md` and `characters/望.md` individually `true`). All cross-linguistic fields were already correct, standard readings (mandarin xīwàng, cantonese hei1 mong6, japanese きぼう, korean 희망, vietnamese hy vọng) — no bugs found.
+
+Notable `stand_in` relationship: `characters/望.md`'s own `stand_in` points *to this word* (希望), another bound-morpheme case; 希's own points elsewhere (希有).
+
+No homophones (`注音: ㄏㄧㄜㄇㄚㄫ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/希.md` and `characters/望.md` (neither had a backlink for this word at all).
+
+### 2026-07-23, iteration 168 — [[words/常常|常常]]
+
+Sixteenth word in the refreshed HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Real bugs corrected**: `japanese` previously read `つねづね , 常々`, redundantly repeating the kanji spelling inside the reading field itself — trimmed to just つねづね (also validly read じょうじょう, verified via search). `korean` previously held 자주, a native Korean word for "often" — not a reading of 常常 itself — corrected to 상상, the genuine, if less common/formal-register, Sino-Korean compositional reading (verified via search, meaning "always"); 자주/항상 remain the everyday native alternatives.
+
+Reformatted Cantonese with a space (`seong4seong4`→`seong4 seong4`). Filled a previously-blank `pos` (修飾語, adverb/modifier). Vietnamese thường thường was already correct.
+
+No `stand_in` relationship applies (常's own is 日常). `kwin: false` already correct per the AND-rule (常 individually `false`, reduplicated).
+
+No homophones (`注音: ㄙ⼘ㄫㄙ⼘ㄫ` unique to this file). `characters/常.md`'s own backlink was already correctly ruby-formatted — no incidental character-page fixes needed.
