@@ -16,7 +16,7 @@ skip_number: 2-3-4
 grade_level: "4"
 pos: 量詞
 english:
-  - LONG-THIN
+  - long, thin object (classifier)
 羅馬字: jo
 諺文: 조
 joyo_level: "5"
@@ -47,5 +47,5 @@ boundedness: 90
 
 ## Words
 - <ruby>[信条](/words/信条.md)<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "creed"
-- [[条件]] "condition, prerequisite"
+- <ruby>[[条件]]<rt>ㄐㄛㄍ⼶ㄋ</rt></ruby> "condition, prerequisite"
 - [[条約]] "pact, treaty"

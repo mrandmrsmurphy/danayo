@@ -2489,3 +2489,41 @@ Fifth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-0
 **Genuine near-synonym distinction documented**: folded the stray body note ("very similar to 機械, but not identical") into a proper explanation — 机器/機器 jīqì is the broad general word for "machine, device" of any kind (机器人 "robot"), while [[机械]]/機械 jīxiè leans toward "machinery" in the more mechanical/industrial sense. Vietnamese cơ khí specifically means "mechanical engineering," closer to the 机械 sense than a general "machine" word — a subtle but real register/scope difference worth flagging.
 
 No `stand_in` relationship applies — 机's own `stand_in` is `机会` (a different word), 器's own is `容器` (a different word) — 机器 is an independent compound. No homophones (`注音: ㄍㄧㄜㄎㄧㄜ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/器.md` (`characters/机.md`'s own entry already existed).
+
+### 2026-07-23, iteration 218 — [[words/条件|条件]]
+
+Sixth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `条`, but the actual file is `条 (char).md` — corrected. `aliases: [條件]` inline array reformatted to block form (kept — legitimate traditional variant). Removed blank `swadesh:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Odd all-caps placeholder gloss fixed on the constituent character**: `characters/条 (char).md`'s own `english` field read `LONG-THIN` in all-caps — inconsistent with every other measure-word/classifier character in the vault (個 "individual," 枚 "sheets of," 杯 "cupful," etc., all normal-case descriptive glosses). Corrected to `long, thin object (classifier)`.
+
+No `stand_in` relationship applies — 条's own `stand_in` is bare `条`, 件's own is `事件` (a different word) — 条件 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/条 (char).md` is `true`, `characters/件.md` is `false` → compound `false`). Verified `cantonese: tiu4 gin6-2` as a genuine Cantonese tone-sandhi pattern (件 takes a colloquial changed reading), not an error. A clean, directly parallel compound otherwise — no cross-linguistic divergence to flag. No homophones (`注音: ㄐㄛㄍ⼶ㄋ` unique). **Incidental fix**: reformatted `characters/条 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` section entirely to `characters/件.md` (had none).
+
+### 2026-07-23, iteration 219 — [[words/東西|東西]]
+
+Seventh word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Major missing-sense bug found and fixed via established domain knowledge (this session's web-search quota is exhausted)**: `english` previously read only "east and west" — but the frontmatter's own `mandarin: "dōngxi"` uses the neutral-tone spelling, which is the tell for Mandarin's other, extremely common colloquial sense: "thing, object, stuff" (买东西 "to shop," 什么东西 "what thing"), one of the most iconic tone-based heteronyms in the language (in the same family as [[地方]]'s dìfang/dìfāng split, documented earlier this sweep). The full-tone dōngxī keeps the literal "east and west" sense. Rewrote `english` to document both.
+
+**Genuine divergence documented**: Japanese とうざい, Korean 동서, and Cantonese dung1 sai1 all preserve only the literal "east and west" sense — none extended it to mean "thing" the way Mandarin did (they use 物/것/嘢 instead). `vietnamese` left unresearched/blank — no compositional Sino-Vietnamese reading is recalled as an actual word.
+
+No `stand_in` relationship applies — 東's own `stand_in` is `東方` (a different word), 西's own is `西方` (a different word) — 東西 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/東.md` is `true`, `characters/西.md` is `false` → compound `false`). Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`; reformatted `characters:` to block form. No homophones (`注音: ㄉㄛㄫㄙㄝㄧ` unique). **Incidental fix**: propagated the corrected divergence-aware gloss to both `characters/東.md`'s and `characters/西.md`'s own backlinks.
+
+### 2026-07-23, iteration 220 — [[words/歓迎|歓迎]]
+
+Eighth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: fixed a missing space in `cantonese` (`fun1jing4`→`fun1 jing4`). Removed blank `swadesh:` and empty `aliases:`. Added the missing `## Notes` section (previously had none).
+
+**Stand-in note applied**: `characters/迎.md`'s own `stand_in` field is `歓迎` (this word) — added the standard phrasing. (歓's own `stand_in` is `歓喜`, a different word — no note on that side.) `kwin: true` already correct per the AND-rule (both constituents individually `true`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄏ⺢ㄋ·⼶ㄫ` unique). **Incidental fix**: added missing `## Words` sections entirely to both `characters/歓.md` and `characters/迎.md` (neither had one).
+
+### 2026-07-23, iteration 221 — [[words/正確|正確]]
+
+Ninth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` unindented dash list reformatted to standard block form (quoted `"正 (char)"`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies — 正's own `stand_in` is bare `正`, 確's own is `確実` (a different word) — 正確 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄐㄧㄫㄎㄚㄎ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/確.md` (`characters/正 (char).md`'s own entry already existed).
