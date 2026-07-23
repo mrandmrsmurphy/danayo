@@ -749,3 +749,39 @@ Swadesh #133 ("wipe"). Stamped `date-last-perfect: 2026-07-23`.
 Mandarin cāshì and Cantonese caat3 sik1 are real written/formal-register words for "wipe clean" (擦拭乾淨). Filled `vietnamese` with the real, attested `sát thức` (verified via search); the everyday native phrase is lau chùi. **Stand-in note applied**: `characters/拭.md`'s own `stand_in` field is `擦拭` — added the standard phrasing. (擦's own `stand_in` is bare `擦` — no note on that side.)
 
 No homophones (`注音: ㄑㄚㄊㄙㄧㄎ` unique to this file). **Incidental fixes**: reformatted `characters/擦 (char).md`'s bare `[[擦拭]]` entry to ruby form; added a missing `## Words` entry to `characters/拭.md`.
+
+### 2026-07-23, iteration 61 — [[words/縫製|縫製]]
+
+Swadesh #138 ("sew, tailor"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: filled blank `cantonese` (`fung4 zai3`, compositional) and blank `vietnamese` (`phùng chế`, honest compositional — the related compound phùng công, 縫工 "seamstress/tailor," is independently attested, but phùng chế itself wasn't separately confirmed; noted that everyday/industry Vietnamese uses native may/may mặc instead).
+
+**No `stand_in` relationship applies to 製's side**: `characters/縫.md`'s own `stand_in` field is `縫製` — added the standard phrasing. (製's own `stand_in` is `製作`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/縫.md` is `true`, `characters/製.md` is `false` → compound `false`).
+
+**All other cross-linguistic fields already correct** — Japanese ほうせい and Korean 봉제 are both real, standard trade/industry terms (縫製工場/봉제공장, "sewing factory"), Mandarin féngzhì likewise real and technical/industrial next to the everyday bare verb.
+
+No homophones (`注音: ㄅㄛㄫㄐㄝ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/縫.md` and `characters/製.md` (neither previously listed this compound).
+
+### 2026-07-23, iteration 62 — [[words/計数|計数]]
+
+Swadesh #139 ("count"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Genuine cross-linguistic homophone finding, verified and corrected mid-draft**: Japanese けいすう (keisū) genuinely means "counting, calculation" — matching this word directly — but is a real homophone of the unrelated compound 係数 (also けいすう), "a mathematical coefficient" (係, "relate/connect," not 計, "measure/plan"). Korean 계수 (gyesu) carries the collision further: confirmed via Wiktionary that 계수 is a genuine multi-way homophone spanning 計數/係數 ("calculation"/"coefficient," the Korean word etymologically tied to the Japanese 係数 borrowing) plus entirely unrelated hanja for "cinnamon" and "sister-in-law" — a cluster reminiscent of [[思考]]'s five-way 사고 collision earlier this sweep. (Caught and corrected an initial drafting error before finalizing — first pass conflated 計数 and 係数 as the same compound rather than two distinct, homophonous ones.)
+
+**Frontmatter cleanup**: filled blank `cantonese` (`gai3 sou2`, compositional) and blank `vietnamese` (`kế số`, honest compositional — verified via search as plausible though not independently confirmed as a standalone term; everyday native verb is đếm).
+
+**Stand-in note applied**: `characters/数.md`'s own `stand_in` field is `計数` — added the standard phrasing. (計's own `stand_in` is `計画`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/計.md` is `false`, `characters/数.md` is `true` → compound `false`).
+
+No Dan'a'yo-internal homophones (`注音: ㄍㄝㄧㄙㄨ` unique to this file). **Incidental fixes**: added missing `## Words` entries to both `characters/計.md` and `characters/数.md` (the latter's own `# Notes` already referenced 計数 informally — "requires [[計数]]" — but had no proper `## Words` ruby entry).
+
+### 2026-07-23, iteration 63 — [[words/唱歌|唱歌]]
+
+Swadesh #141 ("sing"). Stamped `date-last-perfect: 2026-07-23`.
+
+**Genuine semantic-narrowing finding, verified in depth**: confirmed via search that 唱歌/しょうか (shōka) and 창가 (changga) are not generic words for "singing" in Japanese/Korean — both name a specific historical genre of Meiji-era Japanese school songs and the closely related Korean colonial-period genre it directly inspired (both terms literally mean "school song"; everyday "to sing" uses native 歌う/노래하다 instead). Documented this institutional/historical narrowing explicitly rather than treating the fields as claims of general everyday usage.
+
+**Vietnamese filled with a culturally rich finding**: xướng ca is a real, well-attested Sino-Vietnamese compound (verified via search) with a striking historical association — the old feudal phrase xướng ca vô loài ("performers rank with no social class") reflected a traditional Confucian view looking down on professional singers, now considered outdated.
+
+**Stand-in note applied**: `characters/唱.md`'s own `stand_in` field is `唱歌` — added the standard phrasing. (歌's own `stand_in` is `歌曲`, a different word — no note on that side.) Non-canonical `## Etymology` heading renamed to `## Notes`. `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+No homophones (`注音: ㄑ⺢ㄫㄍㄜ` unique to this file). **Incidental fixes**: reformatted `characters/唱.md`'s bare `[[唱歌]]` entry to ruby form; added a missing `## Words` entry to `characters/歌.md`.
