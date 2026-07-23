@@ -1409,3 +1409,45 @@ Filled a previously-blank `vietnamese` with hữu hảo, a real Sino-Vietnamese 
 No `stand_in` relationship applies (友's own is 朋友, 好's own is bare 好). `kwin: false` already correct per the AND-rule (both individually `false`).
 
 No homophones (`注音: ⼜ㄛㄏㄚㄨ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 117 — [[words/友誼|友誼]]
+
+Thirty-fifth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Common-mispronunciation variant removed, not a genuine alternate reading**: `mandarin` previously listed `yǒuyì,yǒuyí` and `cantonese` listed `jau5 ji4,jau5 ji6`. Researched and confirmed yǒuyí is a widespread mispronunciation (誼's phonetic component 宜 misleadingly suggests yí), but the dictionary-correct reading is yǒuyì only, matching `characters/誼.md`'s own stored yì — removed the second variant from both fields rather than presenting it as equally valid.
+
+**Wrong-word conflation corrected**: `vietnamese: tình bạn` was the everyday native word for "friendship," not a reading of 友誼 itself — corrected to hữu nghị, the genuine, extremely common Sino-Vietnamese reading (verified via search, e.g. "Cầu Hữu Nghị," the Friendship Bridge).
+
+Filled a previously-missing `kwin` — computed `false` per the AND-rule (`characters/友.md` is `kwin: false`, `characters/誼.md` is `kwin: true` → compound `false`). Notable `stand_in` relationship: `characters/誼.md`'s own `stand_in` points *to this word* (友誼), another bound-morpheme case like several earlier this sweep.
+
+No homophones (`注音: ⼜ㄛ·ㄜㄧ` unique to this file). **Incidental fix**: added a missing `## Words` section to `characters/誼.md` (had none at all; `characters/友.md`'s own entry already existed, correctly formatted).
+
+### 2026-07-23, iteration 118 — [[words/反対|反対]]
+
+Thirty-sixth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+All cross-linguistic fields were already correct, standard readings (mandarin fǎnduì, cantonese faan2 deoi3, japanese はんたい, korean 반대, vietnamese phản đối) — no bugs found. Added the entirely-missing `## Notes` section (the file had only a non-canonical `## Etymology`).
+
+Notable `stand_in` relationship: `characters/対.md`'s own `stand_in` points *to this word* (反対), another bound-morpheme case like several earlier this sweep. `kwin: false` already correct per the AND-rule (both `characters/反 (char).md` and `characters/対.md` individually `false`).
+
+No homophones (`注音: ㄈㄛㄋㄉㄛㄧ` unique to this file). Both constituent characters' `## Words` backlinks were already present and correctly formatted — no incidental character-page fixes needed.
+
+### 2026-07-23, iteration 119 — [[words/取得|取得]]
+
+Thirty-seventh word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+Filled a previously-blank `vietnamese` with thủ đắc, a real Sino-Vietnamese word (verified via search), used especially in legal/formal contexts. Mandarin, Cantonese, Japanese, and Korean were already correct, standard readings.
+
+Notable `stand_in` relationship: `characters/取.md`'s own `stand_in` points *to this word* (取得), another bound-morpheme case like several earlier this sweep; 得's own points elsewhere (獲得). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄑㄛㄨㄊㄜㄎ` unique to this file). **Incidental fixes**: `characters/取.md`'s existing `[[取得]]` backlink had a wrong `<rt>` annotation (`ㄑㄛㄨㄉㄝㄊ`, mismatching 得's actual reading) — corrected to `ㄑㄛㄨㄊㄜㄎ`; added a missing `## Words` entry to `characters/得.md` (had none at all).
+
+### 2026-07-23, iteration 120 — [[words/口語|口語]]
+
+Thirty-eighth word in the HSK-1 alphabetical pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing-`(char)`-suffix bug fixed**: `characters:` listed bare `口`, but the actual file is `口 (char).md`. Filled a previously-blank `vietnamese` with khẩu ngữ, a real, standard Sino-Vietnamese word (verified via search). Mandarin, Cantonese, Japanese, and Korean were already correct.
+
+No `stand_in` relationship applies (口's own is bare 口, 語's own is 言語). `kwin: false` already correct per the AND-rule (both individually `false`).
+
+No homophones (`注音: ㄎㄛㄨ⼄` unique to this file). **Incidental fixes**: reformatted `characters/語.md`'s bare `[[口語]]` entry to ruby form; added a missing `## Words` entry to `characters/口 (char).md` (which had no entry for this word at all).
