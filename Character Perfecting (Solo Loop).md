@@ -7,234 +7,6 @@ A self-paced `/loop` sweep perfecting one character file per iteration against [
 **Policy for this loop**: skip any character whose fix would require a judgment call this loop isn't confident resolving alone (e.g. an unresolved etymology dispute, a `stand_in`/alias ambiguity) — move to the next `danayo_id` instead of guessing or asking. Any content removed from a page is recorded here explicitly.
 
 ## Log
-
-
-### 2026-07-22, iteration 7 — [[characters/地 (char)|地]]
-
-Next never-perfected character by `danayo_id` (94), and the largest page this loop has hit so far (33 words, 7 chengyu, 5 derived characters). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already complete and correct (`pos: 名詞`, `graphemic_classification: 也` matching the page's own already-written 形声 bullet).
-
-**Content removed**: a literal duplicate — the graphemic bullet existed twice back to back (a terse first copy, then a fuller second copy with the same OC reconstruction plus extra historical-form detail). Merged into the single fuller version; nothing substantive lost, just the redundant terse copy dropped.
-
-**Body defects found**: `## Chengyu` was sitting before `## Words` (wrong section order); two floating CC-initial/final links sat after the Words list instead of embedded in an MC bullet (which didn't exist); no SKIP/Stroke/Levels bullets existed; most Words entries were bare `[[link]] - gloss` (dash instead of quoted gloss, no ruby); one Chengyu entry (塩地光世) had no gloss at all.
-
-**Words cross-check** (33 total ground-truth hits including the stand-in, the largest single count this loop has done): 22 already listed in some form (all reformatted to ruby+quoted-gloss); 11 missing outright — 地域, 地理, 地理学, 地下道, 地平線, 天地, 山地, 陸地, 地龍, 天神地祇, and the stand-in 地 itself — added, all fields pulled from each word's own stored `注音`/`english`. Note: `窪地` was on the page already but doesn't turn up in a plain characters-field-list grep (its `characters:` frontmatter is written as an inline array, `[窪, "地 (char)"]`, not a block list) — worth remembering as a ground-truth-search blind spot for future iterations on other characters, same lesson as [[Loop Work.md]]'s note about the inline-array form on other pages.
-
-**Chengyu cross-check** (7 total): 4 already present (塩地光世 needed its gloss added); 3 missing — 乳蜜流地, 天圓地方, 詛地哀食 — added, all Bible/classical-origin, fields from their own stored records.
-
-**Derived Characters** (5 hits via `graphemic_classification: 也`, excluding 地 itself): 他, 池, 馳, 弛, 施 — all members of the well-known, uncontroversial 也-phonetic family (yě → tā/chí/chí/chí/shī), no individual verification needed beyond confirming each hit was real.
-
-Next: 95 (有), 96 (当), 97 (行), 98 (両), continuing ascending by `danayo_id`.
-
-### 2026-07-22, iteration 8 — [[characters/有 (char)|有]]
-
-Next never-perfected character by `danayo_id` (95). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `系詞` (Copula) — confident call, not a guess: [[grammar/文法 - 97品詞]] explicitly lists 有 ("to have") as one of the six closed-class copula words (是/非/有/無/在/莫), so this is the one pos value with direct textual backing rather than inferred from gloss alone.
-
-**Content removed**: none — but a real content *error* was fixed, not just reformatted (see below).
-
-**Real etymology bug found and fixed**: the existing graphemic bullet read "形声: semantic 又 ('meat') + phonetic 肉 (OC \*ɢʷɯs)" — this has the semantic/phonetic roles and glosses backwards. 又 means "hand," not "meat" (肉 means "meat"); and the OC reconstruction `*ɢʷɯs` cited for "phonetic 肉" is actually 又's own OC reading (肉's real OC is an unrelated entering-tone form). The vault's own `graphemic_classification: 又` field was already correct (又 genuinely is 有's phonetic component per Wiktionary — OC \*ɢʷɯʔ vs \*ɢʷɯs, near-identical), it was only the body prose that had the labels swapped. Corrected to: semantic [[Radical 074|月]] ("meat," an old form of 肉, matching 有's own `radical: 月` field) + phonetic 又 ("hand; again") — "grasping meat in the hand" → "to have, to possess." 又 has no character page of its own but is Radical 029; linked as bare `又` text rather than `[[Radical 029|又]]` since — unlike a case where a component visually *is* the radical shape being depicted — 有's own `radical:` field is 月, not 又, so 又 here is just the phonetic, described in prose without forcing a radical link that doesn't match this page's own radical assignment.
-
-**Body defects found**: no SKIP/Stroke/Levels bullets existed; two floating CC-initial/final links sat inside the Words list instead of an MC bullet; one Words entry (希有) used a dash instead of a quoted gloss.
-
-**Words cross-check** (10 total ground-truth hits including the stand-in and one inline-array blind spot): 5 already listed (needing ruby/gloss fixes); 4 missing — 共有, 占有, 固有, 所有 — added. **Second inline-array `characters:` field found this loop** (after [[characters/地 (char)|地]]'s 窪地 last iteration): `words/有机.md` stores `characters: ["有 (char)", 机]`, invisible to a plain-list grep — caught it, added 有机 to the Words list. Worth treating this as a recurring, not incidental, blind spot in ground-truth searches going forward.
-
-**Derived Characters** (4 hits via `graphemic_classification: 又`, excluding 有 itself): 右 (already independently Wiktionary-verified in an earlier iteration per [[Loop Work.md]]), 友, 尤, 馭 — all cluster in the same OC neighborhood as 又/有 itself (\*ɢʷɯ-family), a well-attested phonetic series. Added all four.
-
-**Incidental fix**: `characters/尤.md`'s `english` field had a typo, "particularlly" → "particularly."
-
-Next: 96 (当), 97 (行), 98 (両), 99 (死), continuing ascending by `danayo_id`.
-
-### 2026-07-22, iteration 9 — [[characters/当 (char)|当]]
-
-Next never-perfected character by `danayo_id` (96). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `性詞`, matching its adnominal/modal behavior across compounds (当然 "of course," 相当 "considerable," 妥当 "appropriate" all read adjectivally or adverbially rather than as a transitive action). `graphemic_classification: 尚` already correct — confirmed via the standard 形声 analysis (semantic 田 + phonetic 尚).
-
-**Content removed**: a stray empty bullet (`-` with nothing after it) sitting right after a lone, out-of-place Levels-only bullet (`[Korean MS](...)` with no companions) — both replaced by the full four-bullet structure.
-
-**Body defects found**: Notes had only a single bare Levels-link bullet plus the empty stray bullet — no graphemic/SKIP-Stroke/MC content at all. Two floating CC-initial/final links sat inside the Words list instead of an MC bullet. Several Words entries were bare `[[link]] "gloss,with,commas"` instead of ruby+semicolon-joined gloss.
-
-**Graphemic bullet written from scratch**: 形声, semantic [[田]] ("field," matching plots of equal size) + phonetic [[尚 (char)|尚]] — "two fields of equal value facing each other," extended to "correspond to, be equal to, ought." Note: 当's own `radical:` field is 小 (a modern-glyph dictionary classification, not part of the real etymology, same non-forcing treatment as [[characters/会 (char)|会]]'s unrelated 人-radical two iterations ago) — did not link it since it plays no role in the actual derivation.
-
-**Words cross-check** (14 total ground-truth hits including the stand-in): 4 already listed (reformatted); 9 missing — 当然, 当世, 当代, 当年, 当日, 当月, 当週, 当世紀, 不当 — added. **Third inline-array `characters:` blind spot this loop** (after 窪地 and 有机): `words/妥当.md` stores `characters: [妥, "当 (char)"]` — caught via a broader secondary grep (search for the raw glyph anywhere in the file, then confirm via the `characters:` block, rather than relying solely on the strict per-line list pattern) — this is now the third hit of the same shape in three consecutive iterations, confirming it's a systemic, not incidental, gap in a plain-list-only ground-truth search. No chengyu hits.
-
-**Derived Characters** (6 hits via `graphemic_classification: 尚`): 賞, 党, 嘗, 堂, 掌, 常 — a large, standard, uncontroversial 尚-phonetic family, all added without individual dispute.
-
-**Incidental fix**: `words/当代.md`'s `english` field had a typo, "contempory" → "contemporary."
-
-Next: 97 (行), 98 (両), 99 (死), 102 (名), continuing ascending by `danayo_id` (100, 101 were already stamped on inspection).
-
-### 2026-07-22, iteration 10 — [[characters/行 (char)|行]]
-
-Next never-perfected character by `danayo_id` (97) — already had frontmatter and all four Notes bullets in reasonable shape, so this iteration was mostly a Words/Chengyu gap-fill. Stamped `date-last-perfect: 2026-07-22`.
-
-**Content removed**: a stale leftover line, "- Components: [[彳]], [[亍]]," sitting above the real, already-correct 指事 bullet — redundant with (and superseded by) the prose bullet directly below it; neither 彳 nor 亍 has a character page in this vault, so the line wasn't even a resolvable link. Dropped rather than merged, since the real bullet already covers the same "crossroads" etymology in full prose.
-
-**Small format fix**: the graphemic bullet's own link read `[指事](lookup/List%20of%20指事.md)` — display text was the bare label instead of the canonical "List of 指事" used everywhere else in the checklist (see [[characters/本 (char)|本]] for the correct precedent) — corrected the display text without touching the link target.
-
-**False alarm caught before editing anything**: `chengyu/修飾先行.md`'s `characters:` field looked like it was missing `行 (char)` entirely on a first `grep -A3` pass (only showed 修/飾/先) — before "fixing" it, re-read the full field and found a 4th line, `行 (char)`, that the truncated grep had simply cut off. No bug existed; worth remembering not to trust a length-limited grep as proof of an omission, always read the actual full field before editing another file based on it.
-
-**Words cross-check** (25 total ground-truth hits including the stand-in, found via a broader glyph-then-field search after the plain-list grep undercounted): 7 already listed (航行, 行動, 行列, 矮行星, 小行星帯, 行伝, 行政 — the latter three already fine, 行動/行列 needed ruby+quote-gloss fixes); 18 missing — 行 itself, 旅行, 飛行, 銀行, 行事, 通行, 通行証, 進行, 運行, 執行, 施行, 刊行, 随行, 爬行, 五行, 行星, 小行星, 飛行机 — added, all fields from each word's own stored `注音`/`english`.
-
-**Chengyu cross-check** (5 total): 2 already present (令行禁止's gloss corrected from an old paraphrase, "what is commanded is done, what is forbidden is not," to the chengyu file's actual stored `english`, "total command discipline" — same never-paraphrase discipline as [[Loop Work.md]]'s repeated near-miss warnings; 修飾先行 already fine); 3 missing — 言行一致, 諸行無常, 腹行食塵 (the last two Bible/classical-origin) — added.
-
-**Derived Characters** (3 hits via `graphemic_classification: 行`): 桁 ("beam"), 衡 ("weigh; measure"), 荇 ("Limnanthemum nymphoides," a water plant) — a standard, well-attested 行-phonetic family (héng/xíng), all added.
-
-Next: 98 (両), 99 (死), 102 (名), 103 (西), continuing ascending by `danayo_id`.
-
-### 2026-07-22, iteration 11 — skipped [[characters/両 (char)|両]], perfected [[characters/死|死]]
-
-**Skipped 98 (両)**: this page is exactly the case already flagged in [[AIOS/projects.md]] as an unresolved cross-sense conflation — its `cantonese` field and alias list bundle together at least two genuinely distinct senses/characters (両/兩 "two, both," reading loeng5, vs. 両-as-"tael"/currency unit, reading loeng2; plus 魎/魉 "demon," a different word entirely, folded in via a 借代字 note). A prior session explicitly deferred this as "a genuine character-level disambiguation question for a dedicated pass, not something to silently fix by breaking the compounds." Per this loop's standing rule to skip anything questionable or decision-requiring rather than guess, moved on without touching the file.
-
-**Perfected 99 (死) instead.** Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already complete (`pos: 性詞`, `graphemic_classification: 會意` already correct).
-
-**Content removed**: a bare `[[死体]]` Words entry — `words/死体.md` does not exist anywhere in the vault (confirmed by direct file check), so this was a broken link to a word that was never created, not a formatting slip on an existing page. Removed rather than left dangling or invented; 死骸 already covers the same "corpse" concept with a real file.
-
-**Body defects found**: the Notes section held only a single (genuinely useful) grammar/valency note about Classical Chinese direct-object marking vs. Dan'a'yo's postposition 于 requirement — none of the four canonical bullets existed. Kept the valency note as a fifth, trailing bullet rather than discarding real content that doesn't fit the four-bullet template, and built the four canonical bullets in front of it. No `## Chengyu` section existed despite 2 real hits.
-
-**Graphemic bullet written from scratch**: 会意 of [[Radical 078|歹]] ("death; remains of stripped bone") and 人 ("person," kneeling/bowing) — a mourner beside the dead.
-
-**Words cross-check** (8 total ground-truth hits): 4 already listed (needing ruby/gloss fixes, plus the broken 死体 entry removed); 4 missing — 生死, 起死, 死亡率, 死亡人数 — added, all from stored fields. `生死` was found only via the broader glyph-then-field search, not the plain-list grep — a fourth instance of the inline-array blind spot this loop keeps running into.
-
-**Chengyu built from scratch** (2 hits): 起死回生 (ruby/gloss reused from [[characters/回 (char)|回]]'s own already-perfected entry) and 剣生剣死 — first drafted both the ruby and gloss for the latter from memory/inference before checking the actual stored `注音`/`english` fields and correcting both; caught before finalizing, same near-miss class flagged repeatedly in [[Loop Work.md]]. No `graphemic_classification: 死` hits — no Derived Characters section applies.
-
-Next: 102 (名), 103 (西), 104 (全), 105 (灯), continuing ascending by `danayo_id` (98/両 left unstamped, skipped per above).
-
-### 2026-07-22, iteration 12 — [[characters/名 (char)|名]]
-
-Next never-perfected character by `danayo_id` (102; 100/虫 and 101/向 already stamped on inspection). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `名詞`. `graphemic_classification: 會意` already correct.
-
-**Content removed**: none.
-
-**Ground-truth search note**: a first broad grep for "名 anywhere in a file with a characters: field" produced a long list of false positives (今, 卦, 石, 業, 龍, 悪魔, 霊魂, etc.) — all matches were actually hitting the substring "名" inside an unrelated `pos: 名詞`/`品詞: 名詞` line that happened to fall inside the grep's context window, not a real `characters:` entry. Tightened the pattern to require 名 as a standalone list item, bare scalar, or bracket/comma-delimited inline-array element — this is worth remembering as a sharper version of the inline-array lesson from recent iterations: a loose substring search on CJK text can produce false positives just as easily as it can miss real hits.
-
-**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links before jumping straight to unstructured Words entries — no graphemic/SKIP-Stroke/MC/Levels bullets existed at all.
-
-**Graphemic bullet written from scratch**: 会意 of [[Radical 036|夕]] ("evening, dusk") and [[Radical 030|口]] ("mouth") — calling out one's name in the dark. Both components are genuine Kangxi radicals (036 and 030) even though only 口 matches 名's own `radical:` field — linked both per the checklist's explicit "any component that is itself a radical" rule, not just the one matching the page's own radical field.
-
-**Words cross-check** (22 total ground-truth hits, precise search): 4 already listed (needing reformatting); 18 missing — added, including a full seven-member polite/honorific-pronoun paradigm (此名/其名/彼名/何名/皆名/某名/毎名) that parallels [[characters/多 (char)|多]]'s quantity-correlative family from earlier this loop (此多/其多/彼多/何多/皆多/某多/毎多) — same X-此/其/彼/何/皆/某/毎 productive pattern, different head character.
-
-**Chengyu built from scratch** (2 hits): 勿妄称名 (Bible) and 義以立名 (単亜語-origin), both ruby/gloss from stored fields.
-
-**Derived Characters** (2 hits via `graphemic_classification: 名`): 酩 ("drunk; intoxicated") and 銘 ("inscription") — both exact `注音` matches (ㄇㄝㄫ), a clean phonetic pair.
-
-Next: 103 (西), 104 (全), 105 (灯), 107 (百), continuing ascending by `danayo_id` (106 already stamped on inspection).
-
-### 2026-07-22, iteration 13 — [[characters/西|西]]
-
-Next never-perfected character by `danayo_id` (103). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `名詞`. `graphemic_classification: 象形` already correct, and the existing bullet was already good encyclopedic content (a genuinely disputed etymology, both sides cited) — kept verbatim.
-
-**Content removed**: a literal duplicate — the "abbreviation for seaborgium" note ([[西博金]]) was written out twice, once as a stray Notes bullet 2 and again as a proper Words entry at the bottom. Dropped the Notes-bullet copy, kept the Words entry (same "relocate periodic-table trivia into Words, don't keep it in Notes" pattern as [[characters/多 (char)|多]]'s gadolinium note earlier this loop).
-
-**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links sat inside the Words list; several entries were bare `[[link]] "gloss"` or `[[link]]`-only with no ruby (西班牙, 西端, 西瓜, 西北, 西蔵).
-
-**Words cross-check** (20 total ground-truth hits, using the precise pattern refined last iteration): 9 already listed in some form (reformatted); 8 missing — the stand-in compound 西方 itself, 東西, 西部, 大西洋, 新西蘭, 西班牙語, 馬来西亜, 印度尼西亜 — added, all from stored fields.
-
-**Chengyu built from scratch** (2 hits): 古今東西, 東奔西走 — ruby/gloss from stored fields.
-
-**Derived Characters** (1 hit via `graphemic_classification: 西`): 茜 ("madder," a red dye plant) — exact `注音` match (ㄑㄝㄋ is the Dan'a'yo reading tied to the same MC series), added.
-
-Next: 104 (全), 105 (灯), 107 (百), 109 (早), continuing ascending by `danayo_id` (108 already stamped on inspection).
-
-### 2026-07-22, iteration 14 — [[characters/全 (char)|全]]
-
-Next never-perfected character by `danayo_id` (104). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 會意`).
-
-**Content removed — a fabricated Derived Characters entry**: the old `### Derived Characters` list included "銓 --> 選," but `characters/銓.md` doesn't exist anywhere in this vault, and `characters/選.md`'s own real phonetic component is 巽, not 全 at all — the note was simply wrong on both ends, same "names a character that isn't actually the phonetic donor" error class as [[characters/千|千]]'s old 遷-vs-人 bug earlier in this vault's history. Dropped entirely rather than carried forward; rebuilt the section from the real `graphemic_classification: 全` hits instead (詮, 栓 — both genuine).
-
-**Graphemic bullet rewritten**: the old bullet mislabeled [[入]] ("enter") with the gloss "jade" — 玉/王 means "jade," not 入. A second, separate bullet further down correctly identified the real components (入 + 王, with a shinjitai note that the top can look like 人) but was merged awkwardly into the SKIP/Stroke/syllable bullet as trailing prose. Consolidated into one correct bullet: 会意 of [[Radical 011|入]] ("enter") + 王 (a form of [[王 (char)|王]], "jade," dotless) — jade brought whole, extended to "whole, complete" — keeping the genuine shinjitai note about the 人-vs-入 top-stroke ambiguity.
-
-**Body defects found**: bullets were out of canonical order (Levels bullet before the MC/SKIP content); two floating CC-initial/final links sat after the merged bullet instead of embedded in a proper MC-rank bullet; `### Derived Characters` was H3 and positioned before Words instead of after Chengyu (no Chengyu section applies here — zero hits).
-
-**Words cross-check** (8 total ground-truth hits): 3 already listed (needing ruby/gloss fixes); 5 missing — the stand-in 全 itself, 全部, 完全, 安全, 全盛 — added, all from stored fields. No chengyu hits.
-
-**Incidental fixes**: `words/全体.md` and `words/全部.md` both had the identical typo "entirity" → "entirety" in their `english` fields.
-
-Next: 105 (灯), 107 (百), 109 (早), 110 (足), continuing ascending by `danayo_id` (106/108 already stamped on inspection).
-
-### 2026-07-22, iteration 15 — [[characters/灯 (char)|灯]]
-
-Next never-perfected character by `danayo_id` (105). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 登` matching the standard 形声 analysis of 灯/燈). `mc_id: 0` handled per the checklist's explicit policy — phrased the MC bullet as "Not present in the Classical Chinese usage ranking" rather than treating it as a gap to fill.
-
-**Content removed**: a stray, plainly non-canonical line, "I'm shocked its not old" — an apparent leftover aside/thought fragment with no encyclopedic content, sitting where the graphemic bullet should have been. Removed outright, not incorporated anywhere.
-
-**Caught before shipping — a fabricated OC reconstruction**: first drafted the graphemic bullet with an invented Old Chinese citation for 登 (`*tɘːŋ`) to match the checklist's phonetic-bullet template, without having verified it against any real source. Checked 登's own character page and found no OC value recorded there either (only its Middle Chinese initial/final, which happens to match 灯's own exactly, t + əŋ both) — rewrote the bullet to cite that confirmed exact MC match instead of a guessed OC form, rather than invent a citation with no backing.
-
-**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links sat with no MC bullet to embed in; no SKIP/Stroke/Levels bullets existed; one Words entry used a path with a stray `../` prefix (`[[../words/灯心]]`, which breaks Obsidian's by-name wikilink resolution) instead of a bare `[[灯心]]`.
-
-**Words cross-check** (4 total ground-truth hits, a small page): 2 already listed (灯籠 fine, 灯心's link fixed); 2 missing — the stand-in 灯 itself and 電灯 — added. No chengyu hits, no `graphemic_classification: 灯` hits (no Derived Characters section applies).
-
-Next: 107 (百), 109 (早), 110 (足), continuing ascending by `danayo_id`.
-
-### 2026-07-22, iteration 16 — [[characters/百 (char)|百]]
-
-Next never-perfected character by `danayo_id` (107). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `数詞` (Numeral) — direct precedent from [[characters/千|千]], the already-perfected sibling numeral character, not a guess from gloss alone.
-
-**Content removed**: a stray `### Links` section with a `![[nav/Numerals]]` embed at the very bottom of the page — checked against 千's own already-perfected character page (a genuine numeral, same category as 百) and confirmed it carries no such section at all. This embed is a word-page-template convention (see [[Word Perfecting.md]] iteration 3, where the same embed was caught and removed from a *word* page that wasn't even a numeral) that had leaked onto this *character* page where it doesn't belong on either page type. Removed rather than kept.
-
-**Caught before shipping — a second fabricated-OC near-miss, same class as [[characters/灯 (char)|灯]] last iteration**: first drafted the graphemic bullet with invented Old Chinese forms for both 百 and its phonetic 白 (`*praːɡ`/`*braːɡ`) to fit the checklist template, without a verified source. Checked 白's own stored Middle Chinese fields instead (`b` + `ɣæk`, vs. 百's own `p` + `ɣæk`) — a confirmed, regular voiceless/voiced initial alternation on an identical rime — and rewrote the bullet to cite that verified MC-level match rather than invented OC symbols. Worth treating this as a standing rule now, not a one-off: when the real OC reconstruction isn't already sourced somewhere in the vault, fall back to the character's own stored MC fields rather than fabricate a citation.
-
-**Body defects found**: `## Notes` held only two floating CC-initial/final links, no other bullets. Several Words entries were bare `[[link]] "gloss"` with no ruby (百, 百済, 百科).
-
-**Words cross-check** (14 total ground-truth hits): 8 already listed (reformatted); 6 missing — 一百, 七百, 八百, 百事, 百分率, 百科事典 — added, all from stored fields.
-
-**Chengyu built from scratch** (2 hits): 百家共承 (単亜語-origin) and 百聞不如一見, ruby/gloss from stored fields. No `graphemic_classification: 百` hits — no Derived Characters section applies.
-
-Next: 109 (早), 110 (足), continuing ascending by `danayo_id`.
-
-### 2026-07-22, iteration 17 — [[characters/早 (char)|早]]
-
-Next never-perfected character by `danayo_id` (109). Stamped `date-last-perfect: 2026-07-22`. A small, clean page.
-
-**Frontmatter**: blank `pos: ""` → `性詞` (stative — "early" modifies as an adjective/adverb). `graphemic_classification: 會意` already correct.
-
-**Content removed**: none.
-
-**Body defects found**: `## Words` was sitting before a wrongly-leveled `# Notes`, which held only two floating CC-initial/final links and nothing else — no graphemic/SKIP-Stroke/MC/Levels bullets existed at all.
-
-**Graphemic bullet written from scratch**: 会意 of [[Radical 072|日]] ("sun") above 十 (a stylized plant/marker) — the sun risen above the horizon, "early." Kept deliberately modest on the disputed details of what 十 originally depicted, per the same standing caution as the last two iterations' fabricated-OC catches — described the well-attested general shape (sun-above-marker) without asserting a specific unverified reconstruction.
-
-**Words cross-check** (3 total ground-truth hits — the smallest page this loop has done): 1 already listed (早晨); 2 missing — the stand-in 早 itself and 早飯 — added. No chengyu hits.
-
-**Derived Characters** (1 hit via `graphemic_classification: 早`): 草 ("grass") — a textbook 形声 pair (艹 semantic + 早 phonetic), added.
-
-**Loop status**: 17 iterations completed since this log started (2026-07-22), one character skipped ([[characters/両 (char)|両]], flagged as a genuine cross-sense dispute rather than perfected). Continuing ascending by `danayo_id` from 110 (足).
-
-### 2026-07-22, iteration 18 — [[characters/足 (char)|足]]
-
-Next never-perfected character by `danayo_id` (110). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: blank `pos: ""` → `名詞` (primary gloss "foot," a concrete body-part noun). `graphemic_classification: 會意` already correct.
-
-**Content removed**: none.
-
-**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links plus one bare Words-style entry (足球) misplaced inside it — no real graphemic/SKIP-Stroke/MC/Levels bullets existed.
-
-**Graphemic bullet written from scratch**: 会意 of 口 (a knee/joint shape) and [[止]] ("stop; foot") — the whole leg, from knee to foot.
-
-**Words cross-check** (9 total ground-truth hits): 2 already present (足球 relocated out of Notes and reformatted, 充足 already fine); 7 missing — the stand-in 足 itself, 手足, 足指, 足裏, 満足, 自足, 飽足 — added, all from stored fields.
-
-**Chengyu cross-check** (3 total): 2 already present and correctly formatted; 1 missing — 画蛇添足 — added.
-
-**Derived Characters** (2 hits via `graphemic_classification: 足`): 促 ("hurry; rush") and 捉 ("clutch; seize") — both standard, well-attested 足-phonetic derivatives, added.
-
-Next: 111 (走), 112 (売), 113 (里), 114 (車), 115 (近), 116 (弟), continuing ascending by `danayo_id` (117/花 already stamped on inspection).
-
 ### 2026-07-22, iteration 19 — [[characters/走 (char)|走]]
 
 Next never-perfected character by `danayo_id` (111). Stamped `date-last-perfect: 2026-07-22`. Another small, clean page.
@@ -826,3 +598,23 @@ Next never-perfected character by `danayo_id` (152). Stamped `date-last-perfect:
 **Words cross-check** (5 total ground-truth hits): 3 already listed (reformatted, 林雨's broken link fixed); 2 missing — the stand-in 林 itself and 森林 — added.
 
 **Derived Characters** (3 hits via `graphemic_classification: 林`): 淋 ("drain; drip"), 琳 ("jade; gem"), 禁 ("restrict; prohibit" — already listed but bare) — all standard, well-attested 林-phonetic derivatives, added/reformatted.
+
+### 2026-07-22, iteration 55 — [[characters/青 (char)|青]]
+
+Next never-perfected character by `danayo_id` (154; 153 was already stamped from an earlier session, so skipped). Stamped `date-last-perfect: 2026-07-22`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `graphemic_classification: 生` — this exact 形声 relationship was independently verified via Wiktionary back in `Loop Work.md` iteration 22, so not re-litigated here).
+
+**Content removed**: none. The page already had a periodic-table abbreviation bullet — `abbreviation for "caesium": [[青素]]` — which was correctly **preserved as its own trailing Notes bullet**, per the standing rule in `[[AIOS/memory/feedback_element_abbreviation_characters|feedback_element_abbreviation_characters]]`.
+
+**Body defects found**: `# Notes` was H1 instead of H2; two floating CC-initial/final links (`[[Lookup/CC/initials/聲 清]]`, `[[Lookup/CC/finals/韻 青開]]`) sat outside any bullet instead of being embedded in a proper MC-rank bullet; no SKIP/Stroke or Levels bullet existed; the graphemic (形声) bullet was entirely missing.
+
+**Words cross-check** (8 total ground-truth hits via `characters:` field, including inline-array and bare-scalar forms): 3 were already listed (青色, 青年, 青蛙 — all reformatted into ruby form with real stored 注音); 5 were missing and added — the stand-in 青 itself, 青州 ("Qing Province"), 青素 ("caesium," already present as a Notes-level abbreviation fact but also given its own proper Words entry since the two are not redundant per the standing rule), 青銅 ("bronze"), and 蕪青 ("turnip").
+
+**Derived Characters** (10 hits via `graphemic_classification: 青` — the largest family found this entire loop): 請, 晴, 情, 清, 猜, 睛, 精, 錆, 靖, 鯖. All are extremely well-attested, standard 青-phonetic derivatives in real Chinese/Japanese (青 qīng is one of the most productive phonetic series in the language), so no individual MC-mismatch exclusion check was needed the way isolated single-hit cases (摂, 睾) required earlier in the loop. Filename collision found on 請 only (`words/請.md` exists) — linked as `[[請 (char)|請]]`; the other nine had no colliding word file.
+
+**Incidental fix**: `characters/鯖.md` had a typo in its own `english` field, "mackerell" → "mackerel," fixed in passing.
+
+---
+
+**Loop ended by user instruction ("end loop") after this iteration.** 55 iterations completed this session (characters/danayo_id 84 through 154, with 両/98 skipped as an unresolved cross-sense conflation and 声/127 left unstamped pending the missing word 発声). Next continuation point, if resumed: danayo_id 155 onward.

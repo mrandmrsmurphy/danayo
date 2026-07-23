@@ -61,3 +61,4 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> "decode; exegete"
 - <ruby>[[栓 (char)|栓]]<rt>ㄙ⼔ㄋ</rt></ruby> "peg; stopper"
+- 銓 --> 選
