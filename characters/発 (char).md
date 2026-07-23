@@ -53,6 +53,7 @@ boundedness:
 [[nav/char_info]]
 ```
 ## Words
+- <ruby>[[発声]]<rt>ㄈㄚㄊㄙㄧㄫ</rt></ruby> "vocalization; utterance; phonation"
 - <ruby>[[奮発]]<rt>ㄈㄨㄋㄈㄚㄊ</rt></ruby> "exert oneself"
 - <ruby>[[爆発]]<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby> "to explode; explosion"
 - <ruby>[[出発]]<rt>ㄑㄨㄊㄈㄚㄊ</rt></ruby> "depart; set off"

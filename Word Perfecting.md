@@ -2677,3 +2677,43 @@ Twenty-fifth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect:
 **Frontmatter cleanup**: `characters:` inline array reformatted to block form. Removed empty `aliases: []`. Renamed non-canonical `## Etymology` heading to `## Notes`.
 
 No `stand_in` relationship applies — 熱's own `stand_in` is bare `熱`, 情's own is `感情` (a different word) — 熱情 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄋ⼶ㄊㄑㄧㄫ` unique). **Incidental fix**: reformatted `characters/熱 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/情.md`.
+
+### 2026-07-23, iteration 238 — [[words/物理|物理]]
+
+Twenty-sixth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `物`, but the actual file is `物 (char).md` — corrected.
+
+**Content corrected — tone typo and missing primary sense**: `mandarin: wùlí`→`wùlǐ`, checked against `characters/理.md`'s own stored `lǐ`. `english` previously read only "nature" — the modern, primary, everyday sense across the whole sphere (Mandarin/Cantonese/Japanese/Korean/Vietnamese) is "physics," the school subject (物理课 "physics class"); "nature/principle of things" survives as an older, more literary sense. Rewrote to lead with "physics."
+
+No `stand_in` relationship applies — 物's own `stand_in` is bare `物`, 理's own is `理由` (a different word) — 物理 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄇㄨㄊㄌㄧ` unique). **Incidental fix**: propagated the corrected gloss to `characters/物 (char).md`'s existing backlink; added a missing `## Words` entry to `characters/理.md`.
+
+### 2026-07-23, iteration 239 — [[words/特別|特別]]
+
+Twenty-seventh word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` inline arrays reformatted to block form. Quoted `hsk_level: "1"`; removed blank `swadesh:`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+**Stand-in note applied**: `characters/特.md`'s own `stand_in` field is `特別` (this word) — added the standard phrasing. (別's own `stand_in` is bare `別` — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/特.md` is `true`, `characters/別 (char).md` is `false` → compound `false`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄉㄜㄎㄅㄝㄊ` unique). **Incidental fix**: added a missing `## Words` entry with stand-in note to `characters/特.md` (`characters/別 (char).md`'s own entry already existed).
+
+(Also created [[words/発声|発声]] this session, per a direct user request outside the pool sequence — "vocalization; phonation," filling a gap where `characters/声.md`'s own `stand_in` pointed to a not-yet-created word page. Documented a genuine divergence there too: Vietnamese phát thanh has narrowed to mean "broadcast," while Mandarin/Cantonese/Japanese/Korean keep the broader "vocalization" sense.)
+
+### 2026-07-23, iteration 240 — [[words/現代|現代]]
+
+Twenty-eighth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: removed blank `swadesh:`; quoted `hsk_level: "1"`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 現's own `stand_in` is bare `現`, 代's own is `世代` (a different word) — 現代 is an independent compound. `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄏ⼶ㄋㄉㄚㄧ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/現 (char).md` (`characters/代.md`'s own entry already existed).
+
+### 2026-07-23, iteration 241 — [[words/生日|生日]]
+
+Twenty-ninth word in the fifth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — wrong-word conflation**: `japanese: たんじょーび` and `aliases: [誕生日]` — 誕生日 (tanjōbi) is a genuinely different, longer three-character Japanese compound ("birth-life-day"), not an alternate spelling of the two-character 生日. Japanese does not actually use the bare 生日 for "birthday" in ordinary usage — no attested on'yomi reading of it is a real word, so `japanese` is left blank rather than fabricated (mechanically concatenating せい/しょう + にち/じつ produces no genuine Japanese word).
+
+**Frontmatter cleanup**: `characters:` inline array reformatted to block form. Quoted `hsk_level: "1"`; removed blank `swadesh:`.
+
+No `stand_in` relationship applies — 生's own `stand_in` is `生活` (a different word), 日's own is bare `日` — 生日 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). No homophones (`注音: ㄙㄚㄫㄋㄧㄊ` unique). Both `characters/生.md` and `characters/日 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.

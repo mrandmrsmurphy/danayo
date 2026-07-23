@@ -54,5 +54,5 @@ boundedness: 50
 - <ruby>[[穀物]]<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby> "grain; cereal"
 - [[物証]] "material evidence"
 - [[物質]] "material, substance"
-- [[物理]] "nature"
+- <ruby>[[物理]]<rt>ㄇㄨㄊㄌㄧ</rt></ruby> "physics; the nature/principle of things"
 - <ruby>[[萬物]]<rt>ㄇㄛㄋㄇㄨㄊ</rt></ruby> "all things; everything"
