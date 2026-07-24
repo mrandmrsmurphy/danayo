@@ -11,6 +11,20 @@ cssclasses:
 - Lanthanide, Actinide, and rows 2-12 end in 金.\*
 - The etymology of the periodic table is followed whenever possible.
 
+## Formula Notation
+Real chemical formulae can be rendered using each element's single-character abbreviation (see the Abbreviations table below) rather than the full binomial word — e.g. 軽 for hydrogen, not 軽素.
+- An abbreviation with no subscript implies a count of 1.
+- A trailing `_数` gives the atom count when greater than 1 (数 = 二, 三, 四...).
+- 〔 〕 brackets group a repeated substructure; the group's own `_数` follows the closing bracket.
+
+Examples:
+- H₂O (water) → **$軽_二養$**
+- Ta₂O₅ (tantalum pentoxide) → **$渇_二養_五$** (see [渇金](/words/渇金.md))
+- Sb₂S₃ (antimony trisulfide / stibnite) → **$墨_二硫_三$** (see [墨素](/words/墨素.md))
+- InP (indium phosphide) → **$紫窒$** (see [紫素](/words/紫素.md))
+- Nb–Ta alloy (columbite-tantalite / coltan) → **$孝渇$** (see [孝金](/words/孝金.md))
+- (CH₃)₂CO (acetone) → **$〔炭軽_三〕_二炭養$** — two CH₃ groups (bracketed, ×2), then the remaining C=O
+
 ### Main
 | | 1 | 2   | 13 | 14 | 15 | 16 | 17 |  18 |
 |-|---|-----|----|----|----|----|----|-----|
