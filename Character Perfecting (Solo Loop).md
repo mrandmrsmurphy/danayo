@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 173 — [[characters/同|同]]
+
+Next never-perfected character by `danayo_id` (2049 — 2048 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, contradicting the page's own pre-existing prose bullet, which already correctly described 同 as a pictograph of a pipe (original form of 筒), with 口 added later to mark the opening. Verified via Wiktionary that this prose was right — 同 is 象形 — and corrected the field to match, rather than the field having been trusted over the (correct) prose.
+
+**Frontmatter**: already correct (`pos: 性詞`, `mc_id: 184` verified against `CC 0000.md`).
+
+**Content removed**: none of substance — just reordered.
+
+**Graphemic bullet**: kept the existing correct prose verbatim, just moved to the top of `## Notes` (it had been sitting after a stray Words-style entry and two blank lines, with the actual Words section starting before it).
+
+**Body defects found**: bullet order was scrambled — a Words-style entry (偕同) appeared above the graphemic bullet inside `## Notes`; two CC-initial/final links floated at the very end of the page, after `## Chengyu`, with no MC-rank bullet; no SKIP/Stroke or Levels bullets existed; the stand-in Words entry (同一) was missing entirely; several Words entries were bare `[[link]]` or used a markdown-style link.
+
+**Words cross-check** (17 total ground-truth hits): 11 already present in some form (偕同, 同学, 同族, 同胞, 同意, 同時, 同窓, 同志, 同居, 同僚, 同等 — all reformatted with ruby/gloss); 6 missing — 同一 (stand-in, added with annotation), 共同, 大同, 不同, 同年, 同伴 — added from stored fields.
+
+**Chengyu cross-check** (2 total): 大同小異 already present; 呉越同舟 missing — added with its stored reading and gloss.
+
+**Derived Characters** (6 hits via `graphemic_classification: 同`): [[筒 (char)|筒]] ("cylinder; tube"), [[銅 (char)|銅]] ("copper"), [[胴]] ("trunk; torso"), [[桐]] ("paulownia"), [[用]] ("to use"), [[洞]] ("cave; ravine; vale") — all added. Note: 用's MC readings look phonetically distant from 同 on the surface, but the field is trusted as-is per the mc_id/graphemic_classification policy for pre-existing vault data — no independent check performed on 用's own page (out of scope for this iteration).
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 172 — [[characters/各 (char)|各]]
+
+Next never-perfected character by `danayo_id` (2047). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 夂 ("sole of foot") + [[Radical 030|口]] ("mouth, opening") — to come, to enter (original form of 𢓜 and 格); "each, individually."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `修飾語`, following the vault's [[grammar/文法 - 97品詞]] taxonomy which groups distributive/quantifier words like this alongside 其/某/彼/可/唯/已/於/公/他, all stored as `pos: 修飾語` (neither 各.md nor 各種.md has its own `pos` field to copy from directly).
+
+**Content removed**: a non-canonical relative path (`../lookup/CC/finals/韻 鈬開`) in a floating CC-final link.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `口`, matching one component directly — [[Radical 030|口]] gets the Radical-page link, while the other component, 夂, has no vault page (in the same "cited but never created" class as several recent iterations' components), so it's cited as bare text.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (各) was missing entirely; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (3 total ground-truth hits, including a discovered quoted-scalar self-citation from 各.md's own `characters: "各 (char)"` field): 1 already present (各種); 2 missing — 各 (stand-in, added with annotation), 各位 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (10 hits via `graphemic_classification: 各` — one of the larger families surfaced in this loop): [[路]] ("road; path; journey"), [[略 (char)|略]] ("to abbreviate; plan"), [[格 (char)|格]] ("case; status"), [[絡 (char)|絡]] ("to enmesh; wrap around"), [[客]] ("guest; traveller"), [[駱]] ("camel"), [[賂]] ("to bestow"), [[酪]] ("cream; cheese; dairy"), [[閣]] ("chamber; pavilion; cabinet"), [[洛]] ("Luo River") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 171 — [[characters/句 (char)|句]]
+
+Next never-perfected character by `danayo_id` (2046). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `勾`, which appears nowhere in Wiktionary's actual etymology for 句 (勾 is instead a related/derived character, "hook, crook"). Verified via Wiktionary that 句 is 形声: semantic 丩 ("to entangle") + phonetic 口 (OC \*kʰoːʔ) — corrected the field to `口`. This coincidentally matches this character's own `radical:` field, the same acceptable coincidence seen earlier with 位 and 信 (a phonetic component that happens to also be the Kangxi radical is a valid, non-self-referential case — self-reference only occurs when the field names the character's *own* name, as with the earlier 便/児/加 defects).
+
+**Frontmatter**: already correct (`pos: 名詞`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*koː, \*koːs, \*kos, \*ɡo): semantic 丩 ("to entangle," no vault page — in the same "cited but never created" class as 𤰈/丌/冓/熒/厃 from recent iterations) + phonetic [[Radical 030|口]] (OC \*kʰoːʔ) — "sentence; phrase," also a classifier for sentences.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one bare Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (句) was missing entirely; no `## Derived Characters` section existed despite six real ground-truth hits.
+
+**Words cross-check** (8 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 句.md's own `characters: 句` field): 4 already present (句点, 高句麗, 慣用句, 句法 — ruby/gloss fixed); 4 missing — 句 (stand-in, added with annotation), 句杞, 詞句, 句号 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 句`): [[鉤 (char)|鉤]] ("hook; barb"), [[局 (char)|局]] ("office"), [[駒]] ("pony; colt"), [[苟 (char)|苟]] ("if only"), [[拘]] ("to constrain; restrain"), [[狗]] ("hound") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 170 — [[characters/古|古]]
+
+Next never-perfected character by `danayo_id` (2045). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 指事` already correct — verified via Wiktionary: 指事, a shield ([[甲 (char)|甲]], a contraction of 盾) + [[Radical 030|口]] ("mouth") — both a distinguishing mark and a component partly indicating pronunciation, "strong, firm" (as strong as a shield) — the original form of 固; "ancient, old."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the sibling word [[words/中古|中古]]'s own stored `pos` (the stand-in word 古代 also stores `pos: 性詞`).
+
+**Content removed**: none of substance.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `口`, matching one component directly — [[Radical 030|口]] gets the Radical-page link, while [[甲 (char)|甲]] (not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: `## Notes` was completely empty; `## Chengyu` used a malformed markdown-style link instead of a wikilink and lacked a gloss; two CC-initial/final links were floating between Chengyu and further Words entries with no MC bullet; no SKIP/Stroke or Levels bullets existed; the stand-in Words entry (古代) was missing entirely; several entries were bare `[[link]]` with no ruby.
+
+**Words cross-check** (13 total ground-truth hits): 8 already present in some form (稽古, 古希, 古文, 古風, 古琴, 古箏, 盤古, 蒙古 — all reformatted with ruby/gloss); 5 missing — 古代 (stand-in, added with annotation), 中古, 古典, 古語, 古今 — added from stored fields.
+
+**Chengyu cross-check** (1 total): 古今東西 — relinked as a proper wikilink with its stored gloss added.
+
+**Derived Characters** (6 hits via `graphemic_classification: 古`): [[苦 (char)|苦]] ("suffering; bitter"), [[胡]] ("reckless"), [[枯 (char)|枯]] ("withered"), [[故]] ("happening"), [[居]] ("to reside"), [[姑]] ("paternal aunt") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 169 — [[characters/取|取]]
 
 Next never-perfected character by `danayo_id` (2044 — 2043 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[耳 (char)|耳]] ("ear") + [[Radical 029|又]] ("hand") — to take the ear of fallen prey, a hunters' rite mentioned in the Rites of Zhou; "to take, to obtain."
