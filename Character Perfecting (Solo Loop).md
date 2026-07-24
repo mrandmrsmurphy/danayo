@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 204 — [[characters/帰|帰]]
+
+Next never-perfected character by `danayo_id` (2082). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `堆` — a character that appears nowhere in 歸/帰's actual etymology. Verified via Wiktionary that 歸 is 會意: 𠂤 ("ancient form of 師, troops") + [[帚]] ("broom; sweep") — to eradicate the enemy and return (Shuowen considers 𠂤 a phonetic, but the primary listed classification is 會意) — corrected to `會意`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the stand-in word [[words/回帰|回帰]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 𠂤 (no vault page) + [[帚]] ("broom; sweep") — to eradicate the enemy and return (an alternative analysis reads the second component as 止 "stop" + 方 "peripheral tribes" ligature, "to cease enmity and submit"); Shuowen considers 𠂤 a phonetic. "To return, revert; to submit." Neither component matches this character's own `radical:` field (`巾`), so 帚 (has its own page) gets a direct character-page link and 𠂤 (no page) is cited as bare text.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus four bare Words entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (回帰) was missing entirely; no `## Chengyu` section existed despite two real ground-truth hits.
+
+**Words cross-check** (6 total ground-truth hits): 4 already present (帰還, 帰納, 帰順, 帰結 — all reformatted with ruby/gloss); 2 missing — 回帰 (stand-in, added with annotation), 復帰 — added from stored fields.
+
+**Chengyu cross-check** (2 total): 汗食帰泥, 帰塵帰土 — both missing, added with their stored readings and glosses.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 帰`/`歸`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 203 — [[characters/席|席]]
+
+Next never-perfected character by `danayo_id` (2081). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `庶`, matching only the Shuowen's secondary reinterpretation of the corrupted small-seal form — Wiktionary's primary classification is 象形, a pictogram of "a woven mat with ornament," with 石 (later corrupted into 巾) added as a phonetic afterward. Corrected to `象形` per this loop's standing rule of following Wiktionary's primary listing, with the Shuowen alternate reading kept in the bullet for context.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/坐席|坐席]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 象形](lookup/List%20of%20象形.md): a woven mat with ornament. Later a phonetic 石 (OC \*djaɡ) was added and the image of the mat corrupted into [[Radical 050|巾]] ("cloth"); the Shuowen reinterprets the small-seal form as an abbreviated phonetic 庶 + semantic 巾. "Seat, mat," extended to "rank, place."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (坐席) was missing entirely.
+
+**Words cross-check** (4 total ground-truth hits): 1 already present (缺席); 3 missing — 坐席 (stand-in, added with annotation), 出席, 主席 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 席`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 202 — [[characters/希|希]]
+
+Next never-perfected character by `danayo_id` (2080). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was invalid: stored as `爻`, as if 希 were 形声 with 爻 as its phonetic — but Wiktionary classifies 希 as 會意 (originally 𢁫: 爻 + 巾, "cloth"), not 形声, so a component name is the wrong kind of value here — corrected to `會意`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the stand-in word [[words/希有|希有]]'s own stored `pos`.
+
+**Content removed**: a cryptic, undocumented fragment (`冀=C#1024`) with no clear meaning or context, at the top of `## Notes`.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): originally 𢁫, 爻 (no vault page) + [[Radical 050|巾]] ("cloth") — a finely-woven pattern; "thin, sparse," extended to "to hope, to expect."
+
+**Body defects found**: `mc_id: 3110` is mirrored under the alias 稀 rather than 希 itself in `CC 3000.md` — noted explicitly rather than left unexplained; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (希有) used a markdown-style link with no annotation; one entry (希薄) carried an unexplained "not 稀薄" fragment, clarified into a proper parenthetical about the alias-vs-parent spelling convention.
+
+**Words cross-check** (7 total ground-truth hits): 6 already present in some form (希有 — converted to wikilink with annotation, 希望, 希釈, 希少, 希薄 — clarified, 古希); 1 missing — 希州 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 希`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 201 — [[characters/布|布]]
+
+Next never-perfected character by `danayo_id` (2079 — 2078 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 父` already correct — verified via Wiktionary: 形声, phonetic 父 + semantic 巾 ("kerchief") — "cloth, textiles."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/亜麻布|亜麻布]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*paʔ, \*baʔ): phonetic [[父]] + semantic [[Radical 050|巾]] ("kerchief") — "cloth, textiles"; also "to announce, proclaim; to spread, deploy."
+
+**Body defects found**: `## Notes` held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (亜麻布) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (8 total ground-truth hits): 3 already present (頒布, 分布, 昆布); 5 missing — 亜麻布 (stand-in, added with annotation), 瀑布, 布帛, 麻布, 散布 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 父`): [[斧]] ("axe"), [[釜]] ("kettle; cauldron"), [[付]] ("to pay") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 200 — [[characters/島 (char)|島]]
 
 Next never-perfected character by `danayo_id` (2077). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 鳥` already correct — verified via Wiktionary: 形声, phonetic 鳥 (OC \*tɯːwʔ) + semantic 山 ("mountain") — "island."
