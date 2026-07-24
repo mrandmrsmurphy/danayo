@@ -953,3 +953,75 @@ Next never-perfected character by `danayo_id` (203). Stamped `date-last-perfect:
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters**: no hits (`graphemic_classification: 族` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 98 — [[characters/船|船]]
+
+Next never-perfected character by `danayo_id` (204). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 㕣` checked out as correct — verified via Wiktionary (semantic [[Radical 137|舟]] "boat" + phonetic 㕣, OC \*lon), matching `radical: 舟`. 㕣 has no character page in this vault, cited as bare plain text (same treatment as 𥥍/𢑓/𠂈 earlier this loop).
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/船舶.md` (the `stand_in` compound itself). `mc_id: 1424` verified against `CC 1000.md`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 舟 + phonetic 㕣 — a boat, ship.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; two Words entries (船尾, 船籍) were bare with no ruby.
+
+**Words cross-check** (8 total ground-truth hits): 3 already present (1 ruby'd; 2 bare, reformatted); 5 missing — the `stand_in` compound 船舶 itself, 乗船, 帆船, 艦船, 宇宙船 — added, all from stored fields. **Noted in passing, not corrected**: `words/艦船.md` and `words/宇宙船.md` both store `ㄐ⼔ㄋ` for 船's own contribution instead of its actual reading `ㄙ⼔ㄇ` — the same character-vs-word `注音` mismatch class already logged multiple times this loop (調/酒, 恩/慣) — cited verbatim from each word's own stored field.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 船` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 99 — [[characters/進|進]]
+
+Next never-perfected character by `danayo_id` (205). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 隹` checked out as correct under the modern-preferred analysis — verified via Wiktionary: 進 is primarily 会意 of [[Radical 162|辵]] ("walk") + [[Radical 172|隹]] ("short-tailed bird" — "a bird can only walk forward, not backward"), though Shuowen itself instead treats it as 形声 with abbreviated phonetic 閵. Wrote the bullet under the 会意 reading (matching the stored field) and noted the Shuowen alternative explicitly rather than picking a side silently.
+
+**Frontmatter**: `pos: ""` → `実詞`, matching the stored `pos: 実詞` on `words/進行.md` (the `stand_in` compound itself). `mc_id: 292` verified against `CC 0000.md`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意, 辵 + 隹 — see etymology above.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all (the one entry, 進撃, sat directly under Notes, bare).
+
+**Words cross-check** (4 total ground-truth hits): 1 already present (bare, reformatted); 3 missing — the `stand_in` compound 進行 itself, 先進, 進化 — added, all from stored fields. **Caught one fabrication before stamping**: initially guessed 進行's gloss as "to proceed; carry out" instead of checking its stored `english` field — cross-checked directly and corrected to the real value, "to advance; progress" (matching the character's own gloss almost exactly, which made the fabrication easy to miss on a casual glance — a reminder that plausible-sounding guesses are the most dangerous kind).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 進` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 100 — [[characters/宿|宿]]
+
+Next never-perfected character by `danayo_id` (206) — **100th iteration of this loop.** Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary (oracle-bone form: [[Radical 009|亻]] "person" resting on a bamboo mat, with [[Radical 040|宀]] "roof" added later — the mat pictogram evolved into the modern glyph's 百 component).
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 833` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意, see etymology above.
+
+**Body defects found**: `## Notes` was empty; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; two Words entries (宿舎, 宿命) were bare with no ruby; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (8 total ground-truth hits): 4 already present (2 ruby'd; 2 bare, reformatted); 4 missing — the `stand_in` compound 寄宿 itself, 目宿, 寄宿舎, 昴宿星団 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 世仇宿敵 ("generational feud with a long-standing enemy") — added from stored fields.
+
+**Derived Characters** (1 hit via `graphemic_classification: 宿`): [[縮 (char)|縮]] ("to shrink; contract") — added. Filename collision found — linked with pipe-alias.
+
+### 2026-07-24, iteration 101 — [[characters/魚 (char)|魚]]
+
+Next never-perfected character by `danayo_id` (207). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` checked out as correct — verified via Wiktionary (a pictograph of a fish, OC \*ŋa; conservative variant 𤋳, already correctly noted).
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 551` verified against `CC 0000.md`).
+
+**Content removed**: a literal duplicate — the graphemic bullet's exact content ("a fish... conservative variant is 𤋳") was written out twice as two separate bullets — collapsed to one.
+
+**Graphemic bullet fixed**: kept the existing correct content, added the missing OC value (\*ŋa).
+
+**Body defects found**: the SKIP/Stroke bullet and Levels bullet were both present but in reversed order (Levels before SKIP/Stroke) and non-canonically formatted (a dash-separated syllable link tacked onto the SKIP/Stroke bullet instead of living in its own MC-rank bullet); the MC-rank bullet itself was entirely missing — the floating CC-initial/final links sat unattached at the very bottom of the file instead of embedded in it. Rebuilt all four Notes bullets into the canonical order. Two Words entries (魚雷, 周魚) used plain Markdown links instead of wikilinks; 轄魚鳥牲 was bare with no ruby.
+
+**Words cross-check** (19 total ground-truth hits — the largest this loop by count, edging out [[characters/海|海]]'s 33 *hits* but with more *missing* entries relative to page size): 8 already present (6 ruby'd; 2 plain-link, converted); 10 missing — 曼魚, 盧魚, 章魚, 雪魚, 魚翅, 鮫魚, 鯖魚, 鯨魚, 鰐魚, 安康魚 — added, plus the stand-in 魚 itself (an 11th addition), all from stored fields.
+
+**Chengyu cross-check** (2 total): 1 already present and correctly formatted (沈魚落雁); 1 present but bare (轄魚鳥牲) — ruby restored from its own stored `注音`.
+
+**Derived Characters** (2 hits via `graphemic_classification: 魚`): [[漁]] ("to fish") and [[魯]] ("rash; vulgar") — added, neither had a filename collision.
