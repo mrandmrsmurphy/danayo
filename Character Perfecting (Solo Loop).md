@@ -249,3 +249,77 @@ Next never-perfected character by `danayo_id` (156). Stamped `date-last-perfect:
 **Chengyu cross-check** (2 total): 1 already present (春秋鼎盛); 1 missing — 一日三秋 — added (reusing the reading/gloss already established on [[characters/日 (char)|日]]'s own Chengyu section from iteration 1 of this loop).
 
 **Derived Characters** (2 hits via `graphemic_classification: 秋`): [[鍬 (char)|鍬]] ("shovel") and [[萩]] ("bush clover") — both standard 秋-phonetic derivatives, added.
+
+### 2026-07-23, iteration 58 — [[characters/重 (char)|重]]
+
+Next never-perfected character by `danayo_id` (157). Stamped `date-last-perfect: 2026-07-23`. Another application of the element-abbreviation standing rule ([[feedback_element_abbreviation_characters]]): page already had a "abbreviation for 'barium'" Notes bullet for [[重素]] — kept it as its own trailing bullet, and (per the [[characters/青 (char)|青]] precedent from iteration 55) also gave 重素 its own proper `## Words` entry, since the two are not redundant.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the sibling antonym [[characters/軽 (char)|軽]] ("light"), which already stores `pos: 性詞` for the same adjectival "heavy/light" class.
+
+**Graphemic bullet written from scratch** (none existed): 形声, semantic [[壬]] ("a standing figure bent under a load") + phonetic [[東]] (OC \*toːŋ) — heavy, weighty; by extension, importance and duplication. Confirmed neither 壬 nor 東 is itself a Kangxi radical in this vault (`radical:` frontmatter for 重 is 里, unrelated to either etymological component), so both got bare `[[link]]`s rather than Radical-page links.
+
+**Content removed**: none.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in.
+
+**Words cross-check** (9 total ground-truth hits): 5 already listed (重複, 二重, 軽重, 偏重, 重畳); 4 missing — 重要, 貴重, 鄭重, and 重素 itself (per the standing rule above) — added, all from stored fields.
+
+**Chengyu cross-check** (2 total): 0 already present; both missing — 義重於音, 重文軽武 — added from stored fields.
+
+**Derived Characters** (8 hits via `graphemic_classification: 重` — the largest family since [[characters/青 (char)|青]]'s 10): [[動 (char)|動]], [[衝 (char)|衝]], [[鍾 (char)|鍾]], [[童]], [[腫]], [[董]], [[種]], [[踵]] — all standard, well-attested 重-phonetic derivatives, added. Filename collisions found on 動/衝/鍾 (all have colliding word files) — linked with pipe-aliases; the other five had no collision.
+
+### 2026-07-23, iteration 59 — [[characters/度|度]]
+
+Next never-perfected character by `danayo_id` (158). Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 庶`, `mc_id: 312` verified against `CC 0000.md`).
+
+**Graphemic bullet written from scratch** (none existed): 形声, semantic [[Radical 029|又]] ("hand") + phonetic [[庶]] (abbreviated, per Shuowen's 庶省聲) — originally to measure by the span of the hand; a standard, a degree. Same "Kangxi radical assignment diverges from the real etymological semantic component" pattern as [[characters/重 (char)|重]] last iteration — the character's own `radical:` field is 广 (a shelter/shed radical, unrelated to the etymology), while the true semantic component 又 is a genuine Kangxi radical (029) and linked there; 庶 itself is not a Kangxi radical, so it got a bare link.
+
+**Content removed**: none.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in.
+
+**Words cross-check** (15 total ground-truth hits): 6 already listed (態度, 湿度, 幅度, 制度, 密度, 極度); 9 missing — the `stand_in` compound 程度 itself, 再度, 弧度, 精度, 限度, 印度, 印度洋, 印度支那, 印度尼西亜 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 度`): [[渡 (char)|渡]] ("transit; ferry") and [[鍍]] ("coat; gild") — both standard 度-phonetic derivatives, added. Filename collision found on 渡 (word file exists) — linked with pipe-alias; 鍍 had no collision.
+
+### 2026-07-23, iteration 60 — [[characters/送 (char)|送]]
+
+Next never-perfected character by `danayo_id` (159). Stamped `date-last-perfect: 2026-07-23`.
+
+**Self-correction to iterations 58–59 (found while building this iteration's Levels bullet)**: both [[characters/重 (char)|重]] and [[characters/度|度]] have `joyo_level: "3"`, which per the checklist's own mapping table (`"1"`–`"6"` → `[[Jōyō - Kyōiku]]`; only the literal string `高等` → `[[Jōyō - Kōtō]]`) should have linked `Jōyō - Kyōiku`, not `Jōyō - Kōtō` as both iterations wrote. Fixed both files' Levels bullets before proceeding with this iteration.
+
+**Real etymology correction — wrong phonetic component entirely**: `graphemic_classification: 笑` had no plausible phonetic relationship to 送 (MC s+uŋ vs. 笑's own MC s+iᴇu — same initial only, no real final match) and no attested etymological connection either. Verified via Wiktionary: 送's real phonetic component is **灷** (zhuàn), semantic [[Radical 162|辵]] ("walking; motion") — `radical: 辵` in the frontmatter already matched this correctly, only `graphemic_classification` itself was wrong. Corrected the field from `笑` to `灷` and wrote the bullet from scratch. 灷 has no character page of its own in this vault (and isn't a Kangxi radical), so it's cited as a bare `[[灷]]` link per the established practice for real-but-unlinked components.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the character's own verbal gloss ("give").
+
+**Content removed**: none.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; one Words entry (送球) was bare `[[link]]` with no ruby.
+
+**Words cross-check** (6 total ground-truth hits): 5 already listed (輸送, 送還, 逓送, 放送局 ruby'd; 送球 bare, reformatted); 1 missing — 搬送 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 送` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 61 — [[characters/音|音]]
+
+Next never-perfected character by `danayo_id` (160). Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 指事` — verified plausible against Shuowen's 从言含一, matching `radical: 音` which is itself Radical 180).
+
+**Content removed**: a garbled single-line "Derived characters: [[歆]]" note that was the page's entire pre-existing Notes section, superseded by the real four-bullet structure plus a proper `## Derived Characters` section.
+
+**Graphemic bullet written from scratch**: 指事, [[Radical 149|言]] ("speech") with an added stroke marking sound emitted from the mouth — distinguishes 音 ("sound") from 言 ("speech") itself.
+
+**Body defects found**: no `## Notes` structure existed at all (bare one-line note); two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets; several Words entries (音律, 音程, 音符, 音波, 観音) were bare `[[link]]` with no ruby/gloss; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check — largest ground-truth set so far this loop (25 total hits)**, found only after re-running the search to include the vault's inline-array `characters: [音, X]` frontmatter form (the plain multi-line `- 音` grep pattern alone silently missed 14 of the 25, the same gap flagged on [[characters/青 (char)|青]] back in iteration 55): 5 already ruby'd (音叉, 拼音, 注音, 振動音, 正音, 音素 — six, not five) plus 5 more present but bare (音律, 音程, 音符, 音波, 観音, reformatted); 14 missing — the `stand_in` compound 音楽 itself, 注音符号, 音声, 音節, 音韻, 子音, 母音, 清音, 濁音, 異音, 発音, 知音, 短音, 録音 — added, all from stored fields. **Caught one fabrication before stamping**: initially guessed 観音's reading as `ㄍㄨㄚㄋㄨㄇ` instead of checking its stored `注音` — cross-checked `words/観音.md` directly and corrected to the real value, `ㄍ⺢ㄋㄨㄇ`.
+
+**Chengyu cross-check** (4 total, all missing, section built from scratch): 一字一音, 文音共決, 朝鮮正音, 義重於音 — added, all from stored fields.
+
+**Derived Characters** (3 hits via `graphemic_classification: 音`): [[暗 (char)|暗]] ("dark"), [[歆]] ("be pleased" — already informally noted, now properly ruby'd), [[湆]] ("broth") — added. Filename collision found on 暗 — linked with pipe-alias; 歆/湆 had no collision.
