@@ -15,7 +15,7 @@ stroke_count: 7
 radical: "手"
 skip_number: 1-3-4
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - throw
 羅馬字: dou
@@ -29,6 +29,7 @@ graphemic_classification: "殳"
 stand_in: "投"
 aliases:
 注音: "ㄉㄛㄨ"
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -41,6 +42,15 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 定]]
-[[Lookup/CC/finals/韻 侯]]
+## Notes
+- 形声 (OC \*doː): semantic [[Radical 064|手]] ("hand") + phonetic 殳 (OC \*djo, no vault page) — "to throw, to fling"; extended to "casting, projecting, putting in, abandoning."
+- [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
+- 1287th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄉㄛㄨ](syllables/ㄉㄛㄨ.md)
+- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[投]]<rt>ㄉㄛㄨ</rt></ruby> "to throw" (stand-in for 投)
+- <ruby>[[投票率]]<rt>ㄉㄛㄨㄆ⼘ㄨㄌㄨㄊ</rt></ruby> "voter turnout; voting rate"
+
+## Chengyu
+- <ruby>[[珠投猪前]]<rt>ㄐㄨㄉㄛㄨㄐㄛㄐㄝㄋ</rt></ruby> "throwing pearls before swine"

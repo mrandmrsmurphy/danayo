@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 230 — [[characters/推 (char)|推]]
+
+Next never-perfected character by `danayo_id` (2112). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 隹` already correct — verified via Wiktionary: 形声, semantic 手 ("hand") + phonetic 隹 — "push with the hand."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the sibling word [[words/推薦|推薦]]'s own stored `pos` (the stand-in word 推.md itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 064|手]] ("hand") + phonetic [[隹]] — "push with the hand"; extended to "postpone; promote; nominate; infer, deduce."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (推) was missing entirely; no `## Derived Characters` section existed despite a very large real ground-truth hit.
+
+**Words cross-check** (3 total ground-truth hits, including a discovered quoted-scalar self-citation from 推.md's own `characters: "推 (char)"` field): 1 already present (推測, ruby filled in from stored fields); 2 missing — 推 (stand-in, added with annotation), 推薦 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (10 hits via `graphemic_classification: 隹` — the largest family surfaced in this loop): [[椎]] ("vertebrae; spine"), [[唯 (char)|唯]] ("only"), [[錐]] ("awl"), [[維]] ("to support"), [[雉 (char)|雉]] ("green pheasant"), [[堆]] ("piled up; heap up"), [[崔]] ("high; lofty; towering"), [[淮]] ("Hwai"), [[誰 (char)|誰]] ("who"), [[進]] ("to advance; progress") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 229 — [[characters/接 (char)|接]]
+
+Next never-perfected character by `danayo_id` (2111). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 妾` already correct — verified via Wiktionary: 形声, semantic 扌 ("hand") + phonetic 妾 — "to receive (in the hand)."
+
+**Frontmatter**: already correct (`pos: "事詞"`, `mc_id: 1047` verified against `CC 1000.md`). Fixed an internal contradiction: the frontmatter's own `hanmun_edu_level: 中` maps to Korean MS, but the pre-existing bullet linked "Korean HS" instead.
+
+**Content removed**: a malformed graphemic bullet with an unmatched parenthesis (`OC \*ʔseb):` with no opening paren) and a markdown-style Radical link; a malformed tip callout (`>[!tip] This is about the character.`, missing "a page" and the character name) corrected to standard phrasing; a compressed inline SKIP/Stroke/syllable bullet, expanded into canonical form.
+
+**Graphemic bullet rewritten**: 形声 (OC \*ʔseb): semantic [[Radical 064|扌]] ("hand") + phonetic [[妾 (char)|妾]] (OC \*sʰeb) — to receive (in the hand). Kept the correct pre-existing analysis, just fixed formatting.
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; the stand-in Words entry (接) was missing entirely; four entries (接続助詞, 接触, 接受, 接吻) were bare `[[link]]` with no ruby.
+
+**Words cross-check** (14 total ground-truth hits): 5 already present (接続助詞, 接触, 接受, 接吻 — ruby added, 接尾辞); 9 missing — 接 (stand-in, added with annotation), 接線, 交接, 連接詞, 連接, 接近, 接辞, 正接, 余接 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 妾`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 228 — [[characters/挙 (char)|挙]]
+
+Next never-perfected character by `danayo_id` (2110). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, but Wiktionary classifies 舉/挙 as 形声 — semantic 手 ("hand") + phonetic 與/与 — "to raise, to lift up." Corrected to `与`; unlike the recent 児/加/従/愛 self-referential defects, 与 is a genuinely independent character with its own vault page (not an alias of 挙 itself), so this is a valid, non-self-referential phonetic value.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞` (the stand-in word 挙.md itself has no `pos` field; "to raise" is a transitive action verb).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 064|手]] ("hand") + phonetic [[与 (char)|與]] — "to raise, to lift up"; extended to "to elect; to start, initiate."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (挙) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (2 total ground-truth hits, including a discovered quoted-scalar self-citation from 挙.md's own `characters: "挙 (char)"` field): 1 already present (科挙); 1 missing — 挙 (stand-in, added with annotation) — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 与`): [[輿 (char)|輿]] ("palanquin"), [[誉]] ("reputation; fame") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 227 — [[characters/投 (char)|投]]
+
+Next never-perfected character by `danayo_id` (2109). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 殳` already correct — verified via Wiktionary: 形声, semantic 扌/手 ("hand") + phonetic 殳 — "to throw, to fling."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞` (the stand-in word 投.md itself has no `pos` field; "to throw" is a transitive action verb).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*doː): semantic [[Radical 064|手]] ("hand") + phonetic 殳 (OC \*djo, no vault page) — "to throw, to fling"; extended to "casting, projecting, putting in, abandoning."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` or `## Chengyu` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (2 total ground-truth hits, including a discovered quoted-scalar self-citation from 投.md's own `characters: "投 (char)"` field): both missing — 投 (stand-in, added with annotation), 投票率 — added from stored fields.
+
+**Chengyu cross-check** (1 total): 珠投猪前 — missing, added with its stored reading and gloss.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 殳`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 226 — [[characters/技|技]]
 
 Next never-perfected character by `danayo_id` (2108). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 支` already correct — verified via Wiktionary: 形声, semantic 扌/手 ("hand") + phonetic 支 — "skill with one's hands, artisan."
