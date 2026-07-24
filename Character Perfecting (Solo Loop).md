@@ -209,3 +209,43 @@ Next never-perfected character by `danayo_id` (154; 153 was already stamped from
 ---
 
 **Loop ended by user instruction ("end loop") after this iteration.** 55 iterations completed this session (characters/danayo_id 84 through 154, with 両/98 skipped as an unresolved cross-sense conflation and 声/127 left unstamped pending the missing word 発声). Next continuation point, if resumed: danayo_id 155 onward.
+
+---
+
+## Loop resumed 2026-07-23
+
+### 2026-07-23, iteration 56 — [[characters/和|和]]
+
+Next never-perfected character by `danayo_id` (155). Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the stored `pos: 性詞` on `words/和平.md` (the `stand_in` compound itself) and consistent with the character's own adjectival English glosses ("peaceful, harmonious").
+
+**Real etymology correction — semantic/phonetic reversed**: the existing graphemic bullet had 禾 and 口 backwards, labeling `[[Radical 115|禾]]` (glossed, wrongly, as "mouth") as semantic and `[[口]]` as phonetic. Real Shuowen derivation is the opposite: semantic **口** ("mouth," Radical 030 — confirmed via `lookup/Radicals/Radical 030.md`) + phonetic **禾** (Radical 115 confirmed as 禾 itself, not the semantic side here). This actually matches the frontmatter, which already correctly stored `graphemic_classification: 禾` (the phonetic-component convention) and `radical: 口` (the semantic radical) — only the *prose* had the roles swapped. Preserved and cleaned up the page's own genuinely useful etymological aside (original form 龢, built on 龠 "panpipes" rather than 口, for a harmony-through-music sense) — linked 龠 properly to its own Radical page (`[[Radical 214|龠]]`, confirmed to exist) since it's a real Kangxi radical too, per the radical-linking rule.
+
+**Content removed**: a stray empty bullet (`- ` with nothing after it).
+
+**Body defects found**: no SKIP/Stroke/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; three Words entries (和尚, 和平, 唱和) were bare `[[link]]` with no ruby/gloss.
+
+**Words cross-check** (11 total ground-truth hits): 3 already listed (共和国, 和諧, 和敬, all ruby'd and kept) plus 3 more present but bare (和尚, 和平, 唱和, reformatted); 5 missing — 共和, 大和, 昭和, 拌和, 令和 — added, all glosses/readings from stored fields. The `stand_in` compound 和平 itself was already present (just unruby'd) rather than missing outright, unlike most prior iterations' pattern.
+
+**Chengyu cross-check** (2 total): 1 already present (声形和決); 1 missing — 覧昭和決 ("examine Shōwa and decide," a Dan'a'yo-coined script-reform principle idiom) — added, gloss condensed from its own Literal Meaning section rather than its literal `english` frontmatter (which reads as a loose paraphrase, "Japan picks the looks," less suited to a short Derived/Chengyu-style gloss).
+
+**Derived Characters**: no hits (`graphemic_classification: 和` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 57 — [[characters/秋 (char)|秋]]
+
+Next never-perfected character by `danayo_id` (156). Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 會意`, `mc_id: 229` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch** (page had no graphemic bullet at all): 会意 of [[Radical 115|禾]] ("grain") and [[Radical 086|火]] ("fire") — grain parched/dried by fire at the harvest, or the burning of stubble after reaping; by extension, the harvest season, "autumn."
+
+**Body defects found**: `# Notes` was the wrong heading level, and held only two floating CC-initial/final links plus four Words-style entries — no `## Words` heading, no SKIP/Stroke/MC/Levels bullets; one Words entry (秋波) was a bare `[[link]]` with no ruby.
+
+**Words cross-check** (9 total ground-truth hits): 3 already listed and ruby'd (中秋節, 秋田, 春秋時代) plus 1 present but bare (秋波, reformatted); 5 missing — the stand-in 秋 itself, 秋分, 孟秋, 仲秋, 季秋, 春秋 — added, all from stored fields.
+
+**Chengyu cross-check** (2 total): 1 already present (春秋鼎盛); 1 missing — 一日三秋 — added (reusing the reading/gloss already established on [[characters/日 (char)|日]]'s own Chengyu section from iteration 1 of this loop).
+
+**Derived Characters** (2 hits via `graphemic_classification: 秋`): [[鍬 (char)|鍬]] ("shovel") and [[萩]] ("bush clover") — both standard 秋-phonetic derivatives, added.
