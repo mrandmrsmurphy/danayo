@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 213 — [[characters/強 (char)|強]]
+
+Next never-perfected character by `danayo_id` (2092). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 弘` already correct — verified via Wiktionary (Shuowen): 形声, phonetic 弘 (OC \*ɡʷɯːŋ) + semantic 虫 ("insect") — the character likely originally referred to the rice weevil, phonetically borrowed for "strong, powerful."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`. `mc_id` is stored as a quoted string (`"496"`) rather than a bare number — a minor formatting inconsistency, left as-is since it isn't flagged as a defect class in the checklist and doesn't affect the value.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: phonetic [[弘]] (OC \*ɡʷɯːŋ) + semantic [[虫]] ("insect"). This character's own `radical:` field (`弓`) matches neither etymological component — likely a Kangxi classification quirk since 弘 itself visually contains 弓 — so both components get direct character-page links rather than a Radical-page link, the same situation as 帰's 𠂤+帚 iteration earlier.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus two bare Words entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (強) was missing entirely; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (8 total ground-truth hits, including a discovered quoted-scalar self-citation from 強.md's own `characters: "強 (char)"` field): 4 already present in some form (勉強, 強化 — ruby fixed, 強固 — ruby fixed, 強欲); 4 missing — 強 (stand-in, added with annotation), 強迫, 剛強, 強国 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 弱肉強食 — missing, added with its stored reading and gloss (the same chengyu already added during the recent [[characters/弱 (char)|弱]] iteration, since 強 is the other of its two cited characters).
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 弘`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 212 — [[characters/弱 (char)|弱]]
+
+Next never-perfected character by `danayo_id` (2091). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 弓 ("bow") + 彡 ("hair," decoration in this case) — a decorative bow that is functionally inferior (an alternative reading takes it as depicting a shaking, worn-out bow); "weak, feeble."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the sibling word [[words/羸弱|羸弱]]'s own stored `pos` (the stand-in word 弱 itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `弓`, matching one component directly — [[Radical 057|弓]] gets the Radical-page link; [[Radical 059|彡]] (not this character's own radical, no character page, but a genuine Kangxi radical) gets the same pageless-radical fallback link established for 聿/丿-type components in recent iterations.
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (弱) was missing entirely.
+
+**Words cross-check** (4 total ground-truth hits, including a discovered quoted-scalar self-citation from 弱.md's own `characters: "弱 (char)"` field): 1 already present (羸弱); 3 missing — 弱 (stand-in, added with annotation), 衰弱, 薄弱 — all added from stored fields.
+
+**Chengyu cross-check** (3 total): 弱不禁風, 神経衰弱 already present; 弱肉強食 missing — added with its stored reading and gloss.
+
+**Derived Characters** (1 hit via `graphemic_classification: 弱`): [[溺 (char)|溺]] ("to drown") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 211 — [[characters/引 (char)|引]]
+
+Next never-perfected character by `danayo_id` (2090). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 弓 ("bow") + 丿 ("indicatory stroke") — oracle-bone forms show a slack bow with a short slant stroke marking the place of drawing the bowstring; "to pull, to draw."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `動詞`, matching sibling words (引出, 牽引) that both store `pos: 動詞` (an older taxonomy term still used alongside 事詞 elsewhere in the corpus; matched the immediate word family here for consistency).
+
+**Content removed**: a malformed "### Chengyu" subsection that mixed two real chengyu (招災引禍, 引出奴家) with four ordinary 2-character words (牽引, 勾引, 引入, 丘引) — the words were moved into `## Words`, the real chengyu kept in a proper `## Chengyu` section.
+
+**Graphemic bullet rewritten**: this character's own `radical:` field is `弓`, matching one component directly — [[Radical 057|弓]] gets the Radical-page link; [[Radical 004|丿]] (not this character's own radical, no character page, but a genuine Kangxi radical) gets the same pageless-radical fallback link used for 聿 and 丿-type components in recent iterations.
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (引) was missing entirely; one entry (引入) carried a stray leading dash inside its own gloss text.
+
+**Words cross-check** (8 total ground-truth hits, including a discovered quoted-scalar self-citation from 引.md's own `characters: "引 (char)"` field): 6 already present in some form (引出, 引禍, 牽引, 勾引, 引入 — gloss cleaned up, 丘引 — all reclassified out of the malformed Chengyu section); 2 missing — 引 (stand-in, added with annotation), 割引 — added from stored fields.
+
+**Chengyu cross-check** (2 total): 招災引禍, 引出奴家 — both already present but unruby'd and ungloss'd, now given their stored readings and glosses.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 引`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 210 — [[characters/弓 (char)|弓]]
+
+Next never-perfected character by `danayo_id` (2089). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct — verified via Wiktionary: a pictograph of a bow.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞` (the stand-in word 弓.md itself has no `pos` field; "bow" is unambiguously a noun).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 象形](lookup/List%20of%20象形.md): a bow. Extended to references to arching, bending, and (in some dialects) rainbows.
+
+**Body defects found**: two CC-initial/final links floated above `## Words` with no MC-rank bullet and no `## Notes` heading; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (弓) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (2 total ground-truth hits, including a discovered quoted-scalar self-citation from 弓.md's own `characters: "弓 (char)"` field): 1 already present (弓道); 1 missing — 弓 (stand-in, added with annotation) — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 弓`): [[穹]] ("high; sky"), [[躬]] ("(emperor's) body") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 209 — [[characters/建|建]]
 
 Next never-perfected character by `danayo_id` (2088). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 廴 + 聿 — originally a pictogram of a hand planting a pole into a base, "to build, construct."
