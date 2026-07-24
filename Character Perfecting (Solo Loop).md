@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 169 — [[characters/取|取]]
+
+Next never-perfected character by `danayo_id` (2044 — 2043 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[耳 (char)|耳]] ("ear") + [[Radical 029|又]] ("hand") — to take the ear of fallen prey, a hunters' rite mentioned in the Rites of Zhou; "to take, to obtain."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/取得|取得]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `又`, matching one component directly — [[Radical 029|又]] gets the Radical-page link, while [[耳 (char)|耳]] (not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: section order was wrong — `## Words` and `## Chengyu` appeared before `## Notes`, which itself held nothing but two floating CC-initial/final links; reordered to the canonical Notes → Words → Chengyu → Derived Characters sequence; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (取得) had no annotation; no `## Derived Characters` section existed despite three real ground-truth hits.
+
+**Words cross-check** (7 total ground-truth hits): 5 already present (詐取, 取得 — annotation added, 窃取, 截取, 聴取); 2 missing — 奪取, 採取 — added from stored fields.
+
+**Chengyu cross-check** (1 total): 断章取義 already present, no changes needed.
+
+**Derived Characters** (3 hits via `graphemic_classification: 取`): [[聚]] ("to assemble"), [[娶]] ("to marry"), [[趣]] ("interest") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 168 — [[characters/危|危]]
+
+Next never-perfected character by `danayo_id` (2042). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 厃 ("person on a cliff or mountain") + [[Radical 026|卩]] ("kneeling person") — a person in a precarious position on elevated terrain, "danger, peril."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the stand-in word [[words/危険|危険]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `卩`, matching one component directly — [[Radical 026|卩]] gets the Radical-page link (the same radical as the recent 印 iteration, coincidentally); the other component, 厃, has no vault page (in the same "cited but never created" class as 𤰈/丌/冓/熒 from recent iterations), so it's cited as bare text.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus three bare Words entries (one with stray bracket punctuation inside its own gloss); no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (3 total ground-truth hits): all 3 already present (危険 — annotation added, 危机, 危殆 — ruby/gloss cleaned up and fixed from stored fields).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 危`): [[跪 (char)|跪]] ("to kneel") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 167 — [[characters/印|印]]
+
+Next never-perfected character by `danayo_id` (2041 — 2040 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was invalid: stored as `爪`, as if 印 were 形声 with 爪 as its phonetic — but Wiktionary classifies 印 as 會意 ([[爪 (char)|爪]] "hand" + [[Radical 026|卩]] "kneeling person," a hand suppressing a kneeling person), not 形声, so a component name is the wrong kind of value here — corrected the field to `會意`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/封印|封印]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `卩`, matching one component directly — [[Radical 026|卩]] gets the Radical-page link, while [[爪 (char)|爪]] (not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus bare/partial Words entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (封印) was missing entirely.
+
+**Words cross-check** (7 total ground-truth hits): 3 already present (印度洋, 印章 — ruby/gloss fixed, 印尼); 4 missing — 封印 (stand-in, added with annotation), 印度支那, 印度尼西亜, 印度 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 印` or its former erroneous value `爪`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 166 — [[characters/医|医]]
+
+Next never-perfected character by `danayo_id` (2039). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `殹`, which describes the *traditional* 醫's own 形声 etymology (phonetic 殹 + semantic 酉 "liquor") — but this vault page is titled 医, and 医 is not merely a modern reduction of 醫; Wiktionary confirms 医 is itself a distinct ancient character with its own 會意 etymology: [[Radical 023|匸]] ("hiding enclosure") + [[矢 (char)|矢]] ("arrow") — a tool for storing a bow and crossbow, later borrowed to write 醫. Corrected the field to `會意` to reflect the headword's own etymology, the same principle applied to 伝 earlier in this loop (favor the actual glyph's own history over its traditional counterpart's).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching sibling words (医学, 医院) that store `pos: 名詞` (the stand-in word 医生 itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `匸` (Radical 023, "hiding enclosure") — Wiktionary's own component breakdown uses the visually near-identical `匚` (Radical 022, "box"), but 医 is conventionally filed under 匸 in dictionary radical indices, so [[Radical 023|匸]] gets the Radical-page link; [[矢 (char)|矢]] (not this character's own radical, has its own page) gets a direct character-page link. Noted the contrast with 醫's own distinct 形声 etymology for clarity.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one bare Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (医生) was missing entirely.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (医院 — ruby filled in from stored fields, 医学); 1 missing — 医生 (the `stand_in`) — added with annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 医` or its former value `殹`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 165 — [[characters/化 (char)|化]]
 
 Next never-perfected character by `danayo_id` (2038). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, two 人, one upright (亻) and one upside down (𠤎) — reversal, change; Shuowen notes 𠤎 as also having a phonetic function.
