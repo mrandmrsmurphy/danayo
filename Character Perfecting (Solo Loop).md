@@ -1,3 +1,103 @@
+### 2026-07-24, iteration 178 — [[characters/在 (char)|在]]
+
+Next never-perfected character by `danayo_id` (2054). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 才` already correct — verified via Wiktionary: 形声, phonetic 才 + semantic 士 (later corrupted into 土, "earth") — matches the field, though the page's own pre-existing bullet had the semantic/phonetic roles backwards and cited the wrong (uncorrupted) semantic component 士 as if it were the modern one.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `系詞`, since 在 is one of the vault's closed set of six copula verbs per [[grammar/文法 - 97品詞]] (是/非/有/無/在/莫) — confirmed by the word file's own stored `pos: 系詞`/`品詞: 系詞`.
+
+**Content removed**: a markdown-style link (`[現在](/words/現在.md)`) replaced with a proper wikilink.
+
+**Graphemic bullet rewritten**: 形声 (OC \*zlɯːʔ, \*zlɯːs): phonetic [[才]] + semantic [[士 (char)|士]] (later corrupted into [[Radical 032|土]], "earth") — "to exist; to be present; to be at, to be located." This character's own `radical:` field is `土` (the corrupted modern form), which gets the Radical-page link; [[士 (char)|士]] (the original, uncorrupted semantic component, not this character's own radical field value, but has its own page) gets a direct character-page link.
+
+**Body defects found**: two CC-initial/final links floating at the very end of the page with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (在) was missing entirely; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (7 total ground-truth hits): 2 already present (現在 — relinked as wikilink, 在位); 5 missing — 在 (stand-in, added with annotation), 潜在, 存在, 所在, 自在 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 自由自在 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (3 hits via `graphemic_classification: 才`, excluding this page itself): [[財]] ("wealth"), [[栽]] ("to plant; cultivate"), [[材]] ("material; stuff; talent") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 177 — [[characters/固|固]]
+
+Next never-perfected character by `danayo_id` (2053). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, but Wiktionary classifies 固 as 形声 — semantic [[Radical 031|囗]] ("enclosure") + phonetic [[古]] (OC \*kaːʔ) — corrected to `古`. Fittingly, 古's own iteration (170) had already noted that 古 "represents the original form of 固" from the other direction.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the stand-in word [[words/強固|強固]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 031|囗]] ("enclosure") + phonetic [[古]] (OC \*kaːʔ) — something enclosed and hardened; "firm, solid, strong," extended to "stubborn."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one bare Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (強固) was missing entirely.
+
+**Words cross-check** (4 total ground-truth hits): 2 already present (固執 — ruby/gloss fixed, 頑固); 2 missing — 強固 (stand-in, added with annotation), 固有 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 固`): [[錮 (char)|錮]] ("obstinate"), [[個 (char)|個]] ("individual") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 176 — [[characters/図|図]]
+
+Next never-perfected character by `danayo_id` (2052). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `指事`, but Wiktionary classifies 圖/図 as 會意 — [[Radical 031|囗]] ("walled city") + 啚 ("early form of 鄙, 'remote areas'") — a walled territory, extended to "diagram, map, picture" — corrected accordingly.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/図表|図表]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `囗`, matching one component directly — [[Radical 031|囗]] gets the Radical-page link, while the other component, 啚, has no vault page (in the same "cited but never created" class as several recent iterations' components), so it's cited as bare text.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus two Words entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (図表) was missing entirely.
+
+**Words cross-check** (9 total ground-truth hits): 2 already present (図書館 — ruby/gloss fixed, 地図学); 7 missing — 図表 (stand-in, added with annotation), 企図, 韻図, 図画, 地図冊, 地図, 版図 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 圖`/`図`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 175 — [[characters/唱|唱]]
+
+Next never-perfected character by `danayo_id` (2051). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 昌` already correct — verified via Wiktionary: 形声, semantic [[Radical 030|口]] ("mouth") + phonetic 昌 (OC \*tʰjaŋ) — "to sing, to lead in singing."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/唱歌|唱歌]]'s own stored `pos`.
+
+**Content removed**: a bare markdown-style link (`[昌](characters/昌.md)`) with no gloss or context, folded into the proper graphemic bullet.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*tʰjaŋs): semantic [[Radical 030|口]] ("mouth") + phonetic [[昌]] (OC \*tʰjaŋ) — "to sing, to lead in singing; to call out, chant."
+
+**Body defects found**: `# Notes` was the wrong heading level; two CC-initial/final links were floating with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed.
+
+**Words cross-check** (2 total ground-truth hits): 1 already present (唱歌, the `stand_in`, already correctly annotated); 1 missing — 唱和 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 昌`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 174 — [[characters/告|告]]
+
+Next never-perfected character by `danayo_id` (2050). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary, which flags the etymology as genuinely disputed: most likely an abbreviated 壴 ("decorated drum") + 口 ("open mouth"), with an older, disputed Shuowen reading taking the top component as 牛 ("ox") instead — either way, 會意 not 形声.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching sibling words (忠告, 申告) that store `pos: 実詞`/`事詞` for the same transitive "to report/accuse" sense (the stand-in word 告訴 itself stores `pos: 事詞`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: noted both competing component theories per Wiktionary. [[Radical 030|口]] matches this character's own `radical:` field and gets the Radical-page link; the other component, 壴, has no vault page (in the same "cited but never created" class as several recent iterations' components), so it's cited as bare text.
+
+**Body defects found**: `## Notes` was completely empty; no SKIP/Stroke, MC-rank, or Levels bullets existed; two CC-initial/final links floated at the very end of the page with no MC-rank bullet; the stand-in Words entry (告訴) had no annotation, and three entries (忠告, 報告, 申告) were bare `[[link]]` with no ruby.
+
+**Words cross-check** (8 total ground-truth hits): all 8 already present in some form (勧告, 誣告, 稟告, 訃告 already ruby'd; 告訴 — annotation added; 忠告, 報告, 申告 — ruby/gloss fixed from stored fields).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 告`): [[酷]] ("cruel"), [[造]] ("to create"), [[鵠]] ("swan"), [[靠]] ("to lean on"), [[皓]] ("luminous; clear"), [[浩]] ("great; numerous; vast") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 173 — [[characters/同|同]]
 
 Next never-perfected character by `danayo_id` (2049 — 2048 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, contradicting the page's own pre-existing prose bullet, which already correctly described 同 as a pictograph of a pipe (original form of 筒), with 口 added later to mark the opening. Verified via Wiktionary that this prose was right — 同 is 象形 — and corrected the field to match, rather than the field having been trusted over the (correct) prose.
