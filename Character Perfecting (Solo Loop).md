@@ -1025,3 +1025,75 @@ Next never-perfected character by `danayo_id` (207). Stamped `date-last-perfect:
 **Chengyu cross-check** (2 total): 1 already present and correctly formatted (沈魚落雁); 1 present but bare (轄魚鳥牲) — ruby restored from its own stored `注音`.
 
 **Derived Characters** (2 hits via `graphemic_classification: 魚`): [[漁]] ("to fish") and [[魯]] ("rash; vulgar") — added, neither had a filename collision.
+
+### 2026-07-24, iteration 102 — [[characters/都|都]]
+
+Next never-perfected character by `danayo_id` (208). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 者` checked out as correct — verified via Wiktionary (semantic [[Radical 163|邑]] "town, city" + phonetic [[者 (char)|者]], OC \*tjaːʔ), matching `radical: 邑`.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/首都.md` (the `stand_in` compound itself). `mc_id: 298` verified against `CC 0000.md`.
+
+**Content removed**: a nonsensical stray `- [[ㄉㄛ]]` bullet (a bare self-referential link to the character's own syllable page, sitting alone with no context).
+
+**Graphemic bullet written from scratch**: 形声, semantic 邑 + phonetic 者 — a significant administrative or political center; capital.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all despite two real ground-truth words.
+
+**Words cross-check** (2 total ground-truth hits): none previously listed — built the section from scratch: the stand-in 首都 itself, 都市, both from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 都` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 103 — [[characters/教|教]]
+
+Next never-perfected character by `danayo_id` (209). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 爻` checked out as correct — verified via Wiktionary: a genuinely tri-partite 形声, phonetic 爻 (OC \*ɢraːw) + *two* semantic components, [[Radical 039|子]] ("child") and [[Radical 066|攴]] ("teaching cane; a stick representing authority") — "teaching a child," matching `radical: 攴` as one of the two. 爻 has no character page in this vault, cited as bare plain text (same treatment as the other unlinked obscure phonetics this loop).
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/教授.md` (the `stand_in` compound itself). `mc_id: 341` verified against `CC 0000.md`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, phonetic 爻 + semantic 子 + semantic 攴 — see etymology above.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; two Words entries (教員, 教師) were bare with no ruby.
+
+**Words cross-check** (26 total ground-truth hits — the largest single Words list this loop by raw count): 13 already present (11 ruby'd; 2 bare, reformatted); 13 missing — the `stand_in` compound 教授 itself, 佛教, 儒教, 回教, 孔教, 宗教, 教会, 教化, 教学, 教材, 道教, 回教徒, 神道教 — added, all from stored fields. **Noted a widespread pattern, not corrected**: five compounds (教授, 佛教, 宗教, 教会, 教材) all store `ㄍ⼘ㄨ` for 教's own contribution instead of the character's actual reading `ㄍ⼄ㄨ` — the same character-vs-word `注音` mismatch class logged repeatedly this loop, but notable here for recurring across five *unrelated* compounds rather than one or two, suggesting a shared upstream cause (possibly a bopomofo `⼘`/`⼄` visual mix-up during data entry) rather than five independent typos; cited verbatim from each word's own stored field.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 教` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 104 — [[characters/黄 (char)|黄]]
+
+Next never-perfected character by `danayo_id` (210) — the same file the periodic-table abbreviation task added a Gold note to earlier this session; preserved as its own trailing Notes bullet per the standing element-abbreviation rule, same treatment as [[characters/高 (char)|高]] a few iterations ago. Stamped `date-last-perfect: 2026-07-24`. **Another genuinely disputed etymology, same shape as [[characters/夏 (char)|夏]]**: `graphemic_classification: 炗` matches Shuowen's own analysis (phonetic 炗 "light" + semantic 田 "field"), but Wiktionary flags this as erroneous — the top component 廿 is a corruption of 口 in the bronze inscription, not really 田 at all — and modern scholarship instead proposes an 象形 origin (either a disabled person, or a man wearing a jade ring on his chest), with "yellow" arising as a rebus/phonetic-loan sense. Left the field as-is (it documents the traditional citation, consistent with precedent for characters whose stored value reflects Shuowen rather than modern consensus) and wrote the bullet presenting both accounts honestly rather than picking one silently.
+
+**Frontmatter**: already correct (`pos: 性詞`). `mc_id: 228` verified against `CC 0000.md` (using the traditional form 黃 in the ranking, consistent with vault convention).
+
+**Content removed**: none (the "Fifth most common Vietnamese surname" aside was kept, relocated to its own bullet after the four canonical ones).
+
+**Discovered a fourth distinct `characters:` frontmatter shape this loop**: `words/黄沙.md` uses a quoted JSON-style inline array, `characters: ["黄 (char)", "沙 (char)"]` — none of the three search patterns established earlier this loop (multi-line list, unquoted inline array, quoted inline scalar) matched it; a dedicated fourth pattern was needed to surface it as a ground-truth hit. Worth remembering that this vault's `characters:` field has now been observed in at least four distinct YAML shapes.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; three Words entries (黄泉, 黄沙, 黄昏) were bare with no ruby.
+
+**Words cross-check** (9 total ground-truth hits, using the newly-discovered quoted-array pattern to catch 黄沙): 4 already present (1 ruby'd via the abbreviation note; 3 bare, reformatted); 5 missing — the stand-in 黄 itself, 硫黄, 黄檗, 黄海, 黄銅 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 黄` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 105 — [[characters/細 (char)|細]]
+
+Next never-perfected character by `danayo_id` (212; 211/[[characters/章 (char)|章]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. **Confirmed systematic bug, not an independent error**: `graphemic_classification: 四` was the *exact same* wrong stored value already found and corrected on [[characters/思|思]] back in iteration 62 — and the real phonetic component is *also* the same obscure character, **囟** (OC \*snɯns), which Wiktionary again confirms became falsely associated with 田 through Han-dynasty graphic corruption and has apparently been mistranscribed as the visually-similar `四` on at least two separate pages sharing this phonetic series. Corrected the field from `四` to `囟` and cross-referenced the sibling correction on 思 directly in the bullet.
+
+**Frontmatter**: already correct (`pos: 性詞`). `mc_id: 1235` verified against `CC 1000.md`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 120|糸]] ("silk, thread") + phonetic 囟 — fine, thin, slender.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (7 total ground-truth hits): 2 already present and correctly ruby'd (細妹, 細菌); 5 missing — the stand-in 細 itself, 細胞, 繊細, 詳細, 亜細亜 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 細` matches no other character) — section correctly omitted.
