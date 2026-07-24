@@ -1097,3 +1097,75 @@ Next never-perfected character by `danayo_id` (212; 211/[[characters/章 (char)|
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters**: no hits (`graphemic_classification: 細` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 106 — [[characters/軽 (char)|軽]]
+
+Next never-perfected character by `danayo_id` (213) — the hydrogen-abbreviation character referenced repeatedly earlier this session. `graphemic_classification: 巠` checked out as correct — verified via Wiktionary (semantic [[Radical 159|車]] "carriage" + phonetic [[巠]], OC \*kʰeŋ; originally "a light carriage," a sense preserved in the idiom 駕輕就熟). Stamped `date-last-perfect: 2026-07-24`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `mc_id: 475` verified against `CC 0000.md`).
+
+**Content removed**: an informal "軽素 hydrogen, abbreviated 軽" plain-text note, reformatted into the standard element-abbreviation Notes bullet used everywhere else this convention appears in the vault (see [[feedback_element_abbreviation_characters]]).
+
+**Graphemic bullet written from scratch**: 形声, semantic 車 + phonetic 巠 — see etymology above.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; two Words entries (軽銀, 軽罪) were bare with no ruby; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (8 total ground-truth hits): 7 already present (5 ruby'd; 2 bare, reformatted); 1 missing — the stand-in 軽 itself — added.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 重文軽武 — the same chengyu already added to [[characters/重 (char)|重]] back in iteration 58, now also linked from its other constituent character 軽.
+
+**Derived Characters**: no hits (`graphemic_classification: 軽` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 107 — [[characters/朝 (char)|朝]]
+
+Next never-perfected character by `danayo_id` (214). Stamped `date-last-perfect: 2026-07-24`. **Sixth real wrong-graphemic-value find this loop**: `graphemic_classification: 舟` ("boat") appeared nowhere in the real etymology and had no plausible semantic or phonetic connection to 朝 — the page's own pre-existing (if garbled) component note already correctly cited [[卓|龺]] + [[Radical 074|月]], contradicting the frontmatter field outright, same shape as the [[characters/家|家]] contradiction earlier this loop. Verified via Wiktionary: 朝 is genuinely 会意, oracle-bone 屮/木 ("grass, tree") + 日 ("sun") + 月 ("moon") — the sun rising while the waning moon is still visible, "morning" — with the grass-and-sun elements condensing into 龺 in the clerical script. Since this is a true 会意 (not 形声 with a real phonetic component), corrected the field from `舟` to `會意` (a type-name value, not a component citation) rather than to any single component name.
+
+**Frontmatter**: already correct otherwise (`pos: 名詞`, `mc_id: 210` verified against `CC 0000.md`).
+
+**Content removed**: none (the pre-existing `[[卓|龺]] + [[Radical 074|月]]` fragment was expanded into the full bullet, not discarded).
+
+**Graphemic bullet expanded from the existing fragment**: 会意, 屮/木 + 日 + 月 — see etymology above, plus the semantic extension "morning → morning ceremony → court/dynasty" that explains the character's modern senses.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (7 total ground-truth hits, using the quoted-array-aware search established last iteration): 2 already present and correctly ruby'd (朝廷, 宋朝); 5 missing — the stand-in 朝 itself, 一朝, 今朝, 朝鮮, 王朝, 今朝安 — added, all from stored fields.
+
+**Chengyu cross-check** (3 total, all missing, section built from scratch): 一朝一夕, 朝三暮四, 朝鮮正音 — the last of these the same "Korea picks the sound" script-mnemonic chengyu already added to [[characters/音|音]] back in iteration 61, now also linked from its other constituent character 朝.
+
+**Derived Characters** (3 hits via `graphemic_classification: 朝`): [[嘲]] ("ridicule; scorn"), [[廟]] ("ancestral temple"), [[潮]] ("tide") — all added, none had a filename collision.
+
+### 2026-07-24, iteration 108 — [[characters/短 (char)|短]]
+
+Next never-perfected character by `danayo_id` (215). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 豆` checked out as correct — verified via Wiktionary (semantic [[Radical 111|矢]] "arrow" + phonetic 豆, OC \*doːs; an arrow being naturally short compared to other weapons explains the semantic choice), matching `radical: 矢`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `mc_id: 941` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet fixed**: the existing bullet had the right components but an empty gloss (`("")`) for 矢 — filled in as "arrow," plus the semantic-motivation note.
+
+**Body defects found**: two floating CC-initial/final links sat at the very bottom of the file, after the Chengyu section, instead of embedded in an MC-rank bullet; no SKIP/Stroke/MC/Levels bullets existed; 短音 was bare with no ruby.
+
+**Words cross-check** (4 total ground-truth hits): 3 already present (2 ruby'd; 短音 bare, reformatted using the reading already established back in [[characters/音|音]]'s own iteration); 1 missing — the stand-in 短 itself — added.
+
+**Chengyu cross-check** (1 total): already present and correctly formatted (一長一短) — no changes needed.
+
+**Derived Characters**: no hits (`graphemic_classification: 短` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 109 — [[characters/開|開]]
+
+Next never-perfected character by `danayo_id` (216). Stamped `date-last-perfect: 2026-07-24`. **A subtler variant of the self-referential-value pattern, but this time genuinely correct**: `graphemic_classification: 开` is also separately listed in the page's own `aliases:` field (as the modern simplified form of 開 itself) — the same surface shape as the [[characters/真 (char)|真]]/眞 error two weeks ago — but verified via Wiktionary that 开 here is *not* a self-reference: since the Small Seal script, 開's own lower-right component has genuinely been a *fusion* of 一 ("latch/pole") + 廾 ("a pair of hands") that happens to be graphically identical to the modern simplified standalone character 开, with the conservative variant 𨵑 still showing the two components distinctly. So the field correctly cites a real sub-component of the traditional glyph, not the character's own alternate form — left as-is, and the bullet explains the fusion explicitly so this distinction doesn't get silently miscorrected in a future pass.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the stored `pos: 性詞` on `words/開放.md` (the `stand_in` compound itself). `mc_id: 679` verified against `CC 0000.md`.
+
+**Content removed**: none (the five Notes-prose entries were relocated into `## Words`, not deleted).
+
+**Graphemic bullet written from scratch**: 会意, [[Radical 169|門]] ("door") + 开 (fused 一+廾) — a pair of hands opening a latched door.
+
+**Body defects found**: no `## Words` heading existed for five of the six ground-truth words present on the page — they sat as unruby'd prose bullets directly under Notes, with only one real entry (開啓) properly in `## Words`; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (9 total ground-truth hits): 6 already present (1 ruby'd; 5 bare in Notes, reformatted into Words); 3 missing — 公開, 開学, 開張 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total): already present and correctly formatted (開天辟地) — no changes needed.
+
+**Derived Characters**: no hits (`graphemic_classification: 開` matches no other character) — section correctly omitted.

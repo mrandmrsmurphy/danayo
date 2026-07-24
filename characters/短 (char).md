@@ -29,6 +29,7 @@ graphemic_classification: 豆
 stand_in: 短
 aliases:
 注音: ㄉ⺢ㄋ
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -40,15 +41,16 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*toːnʔ): semantic [[Radical 111|矢]] ("arrow") + phonetic [[豆]] (OC \*doːs) — an arrow, naturally short compared to other weapons; short.
+- [SKIP-1-5-7](lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 941st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄉ⺢ㄋ](syllables/ㄉ⺢ㄋ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
-- 形声 (OC \*toːnʔ): semantic [[Radical 111|矢]] ("") + phonetic [[豆]] (OC \*doːs).
 ## Words
-- [[短音]]
+- <ruby>[[短]]<rt>ㄉ⺢ㄋ</rt></ruby> "short" (stand-in for 短)
+- <ruby>[[短音]]<rt>ㄉ⺢ㄋㄨㄇ</rt></ruby> "short vowel; short tone"
 - <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
 
 ## Chengyu
 - <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"
-
-[[Lookup/CC/initials/聲 端]]
-[[Lookup/CC/finals/韻 桓]]
