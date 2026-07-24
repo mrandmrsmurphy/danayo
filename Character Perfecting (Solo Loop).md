@@ -415,3 +415,73 @@ Next never-perfected character by `danayo_id` (165). Stamped `date-last-perfect:
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters**: no hits (`graphemic_classification: 急` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 67 — [[characters/春 (char)|春]]
+
+Next never-perfected character by `danayo_id` (166; 167/[[characters/相|相]] already stamped from an earlier session, so skipped). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 屯` checked out as correct — verified via Wiktionary (a doubly-semantic 形声: [[Radical 140|艸]] "grass" + [[Radical 072|日]] "sun" + phonetic 屯, OC \*dun "swollen sprout"), matching `radical: 日` as the Kangxi-assigned half of the two semantic components.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 211` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 艸 + 日 + phonetic [[屯 (char)|屯]] — grass growing under the sun; springtime.
+
+**Body defects found**: `## Chengyu` sat before `## Words` (which didn't exist at all) and before the graphemic/SKIP/MC/Levels bullets, all of which were missing; two floating CC-initial/final links had no MC bullet to embed in; one Chengyu entry (春夏秋冬) used a plain unruby'd Markdown link; one Words-style entry (春季) was bare with no ruby.
+
+**Words cross-check** (9 total ground-truth hits): 2 already present (春季 bare, reformatted; 春秋時代 ruby'd); 7 missing — the stand-in 春 itself, 仲春, 孟春, 季春, 春分, 春秋, 春節, 詠春拳 — added, all from stored fields. **Caught one fabrication before stamping**: initially guessed 春季's reading as `ㄑㄨㄋㄍㄧ` while retyping it into ruby form instead of copying the already-checked value — cross-checked `words/春季.md` directly and corrected to the real value, `ㄑㄨㄋㄍㄨㄧ` (same "verify before stamping" catch as [[characters/音|音]]'s 観音 two iterations ago).
+
+**Chengyu cross-check** (2 total): both already present — 春夏秋冬 (ruby restored from its stored `注音`, plain link converted to proper `<ruby>` markup) and 春秋鼎盛 (already correct).
+
+**Derived Characters** (2 hits via `graphemic_classification: 春`): [[椿]] ("tree name") and [[蠢]] ("squirm; wiggle") — added, neither had a filename collision.
+
+### 2026-07-23, iteration 68 — [[characters/持 (char)|持]]
+
+Next never-perfected character by `danayo_id` (168). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 寺` checked out as correct — verified via Wiktionary (semantic 手 "hand" + phonetic 寺, OC \*ljɯs), the same phonetic pairing as the checklist's own canonical 詩 example.
+
+**Frontmatter**: already correct (`pos: 事詞`, `mc_id: 566` verified against `CC 0000.md`).
+
+**Content removed**: a stray bare "1310" line sitting at the top of Notes with no context — an orphaned fragment (possibly a mis-pasted number, unrelated to any of this page's own stored fields) — removed, superseded by the real bullet.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 064|手]] ("hand") + phonetic [[寺]] (OC \*ljɯs) — to grasp, to hold.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (6 total ground-truth hits): 2 already present and correctly ruby'd (堅持, 持続); 4 missing — the stand-in 持 itself, 保持, 加持, 維持 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 持` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 69 — [[characters/草 (char)|草]]
+
+Next never-perfected character by `danayo_id` (169). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 早` checked out as correct — verified via Wiktionary (semantic [[Radical 140|艸]] "grass" + phonetic 早, OC \*ʔsuːʔ), matching `radical: 艸`. Genuinely interesting etymology: 草 originally named a specific bitter plant (and was a loan for 皂), later displacing 艸 itself as the general word for "grass" — 艸 survives on this page only as its own listed `aliases:` entry, not a separate character page, consistent with the established alias-is-parent-form convention.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 590` verified against `CC 0000.md`).
+
+**Content removed**: none (the pre-existing Words-style entries were relocated, not deleted).
+
+**Graphemic bullet written from scratch**: 形声, semantic 艸 + phonetic [[早 (char)|早]] — see etymology note above.
+
+**Body defects found**: `## Words` sat before a separately-headed `# Notes` (wrong heading level) holding two more Words-style entries — the split itself was the core defect; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 草木/草原 were bare with no ruby.
+
+**Words cross-check** (11 total ground-truth hits): 8 already present across the two split sections (6 ruby'd; 草木/草原 bare, reformatted); 3 missing — the stand-in 草 itself, 海草, 茅草 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 草` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 70 — [[characters/海|海]]
+
+Next never-perfected character by `danayo_id` (170). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 毎` checked out as correct — verified via Wiktionary (semantic [[Radical 085|氵]] "water" + phonetic 每/毎, OC \*mɯːʔ), matching the page's own pre-existing bullet exactly; added the etymological aside (海 probably related to 晦 "dark," paralleling 溟←冥) since Wiktionary offered it and the existing bullet lacked it.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 339` verified against `CC 0000.md`).
+
+**Content removed**: a malformed folder-qualified wikilink (`[[../words/海就]]`), same broken-link class flagged on [[characters/林 (char)|林]] earlier this loop — fixed rather than removed outright.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; 14 Words entries were bare `[[link]]` with no ruby/gloss; one Chengyu entry (蒼海桑田) used a plain unruby'd Markdown link.
+
+**Words cross-check — largest ground-truth set this loop (33 total hits)**: 27 already present (13 ruby'd; 14 bare, reformatted, plus the malformed 海就 link fixed); 6 missing — 上海, 四海, 海亀, 海峡, 海禁, 海王星 — added, all from stored fields. Noted in passing, not corrected (out of scope for a character-page pass): `words/海上.md` and `words/海象.md` store the identical `注音` (`ㄏㄚㄧㄙ⼘ㄫ`) despite being unrelated compounds — cited verbatim from each word's own stored field rather than silently resolved.
+
+**Chengyu cross-check** (3 total): 1 already present (蒼海桑田, ruby restored from its stored `注音`, plain link converted to proper markup); 2 missing — 人山人海, 海闊天空 — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 海` matches no other character) — section correctly omitted.

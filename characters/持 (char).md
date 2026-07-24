@@ -31,6 +31,7 @@ stand_in: 持
 aliases:
   - 恃
 注音: ㄉㄧ
+date-last-perfect: 2026-07-23
 kwin: false
 tags:
   - character
@@ -43,11 +44,16 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-1310
-[[Lookup/CC/initials/聲 澄]]
-[[Lookup/CC/finals/韻 之]]
+## Notes
+- 形声 (OC \*l'ɯ, \*ljɯs): semantic [[Radical 064|手]] ("hand") + phonetic [[寺]] (OC \*ljɯs) — to grasp, to hold.
+- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- 566th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄉㄧ](syllables/ㄉㄧ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[持]]<rt>ㄉㄧ</rt></ruby> "to hold" (stand-in for 持)
 - <ruby>[[堅持]]<rt>ㄍㄝㄋㄉㄧ</rt></ruby> "insist that; persist with"
 - <ruby>[[持続]]<rt>ㄉㄧㄙ⼄ㄎ</rt></ruby> "continuous, sustained"
+- <ruby>[[保持]]<rt>ㄅㄚㄨㄉㄧ</rt></ruby> "to keep; maintain; conserve"
+- <ruby>[[加持]]<rt>ㄍㄚㄉㄧ</rt></ruby> "to perform incantations; to bless"
+- <ruby>[[維持]]<rt>⼶ㄧㄉㄧ</rt></ruby> "to maintain; keep; uphold"
