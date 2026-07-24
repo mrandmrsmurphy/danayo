@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 234 — [[characters/救|救]]
+
+Next never-perfected character by `danayo_id` (2117). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 求` already correct — verified via Wiktionary: 形声, phonetic 求 + semantic 攴 — "to save, rescue."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/救援|救援]]'s own stored `pos`.
+
+**Content removed**: a floating bare Words-style entry (救偕) sitting inside `## Notes` instead of `## Words`.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*kus): phonetic [[求]] (OC \*ɡu) + semantic [[Radical 066|攴]] — "to aid, support"; "to save, rescue"; (obsolete) "to prohibit, forbid." This character's own `radical:` field is `攴`, matching the semantic component directly (the same pattern as the recent 政/故 iterations) — gets the Radical-page link, while [[求]] (the phonetic, has its own page) gets a direct character-page link.
+
+**Body defects found**: `# Notes` was the wrong heading level and mixed graphemic content with a bare Words-style entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (救援) had no annotation; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (救贖, 救偕 — relocated out of Notes); 1 missing — 救援 (stand-in, added with annotation) — added from stored fields.
+
+**Chengyu cross-check** (1 total): 創反救成 already present, no changes needed.
+
+**Derived Characters** (2 hits via `graphemic_classification: 求`): [[球 (char)|球]] ("sphere; ball"), [[逑]] ("mate; match") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 233 — [[characters/故|故]]
+
+Next never-perfected character by `danayo_id` (2116). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 古` already correct — verified via Wiktionary: 形声, semantic 攴 ("action") + phonetic 古 — "cause, reason," "old, of the past," also a connective, "therefore." This is the same phonetic-root character already surfaced as a Derived Character on the earlier [[characters/古|古]] iteration; perfecting it here completes the family from the other direction.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the sibling word [[words/緣故|緣故]]'s own stored `pos`.
+
+**Content removed**: two floating bare Words-style entries (故郷, 故而) sitting inside `## Notes` instead of `## Words`; a duplicate `## Chengyu` section (温故知新 listed twice back-to-back, likely from an editing accident before this iteration), collapsed to one.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*kaːs): semantic [[Radical 066|攴]] ("action") + phonetic [[古]] (OC \*kaːʔ) — "old, of the past"; "cause, reason"; "accident, misfortune"; "deceased"; also a connective, "therefore, so." This character's own `radical:` field is `攴`, matching the semantic component directly (the same radical/pattern as the recent [[characters/政|政]] iteration) — gets the Radical-page link, while [[古]] (the phonetic, has its own page) gets a direct character-page link.
+
+**Body defects found**: `# Notes` was the wrong heading level and mixed graphemic content with bare Words-style entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (緣故) had no annotation.
+
+**Words cross-check** (10 total ground-truth hits): 3 already present (緣故 — annotation added, 故事, 故而 — relocated out of Notes); 7 missing — 故郷 (relocated, ruby added), 事故, 故意, 故障, 縁故, 故人, 何故 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 温故知新 already present (the duplicate collapsed as noted above), no further changes needed.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 故`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 232 — [[characters/政|政]]
+
+Next never-perfected character by `danayo_id` (2115 — 2114 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 正` already correct — verified via Wiktionary: 形声, semantic 攴 ("action") + phonetic 正 (OC \*tjeŋ, \*tjeŋs). The page's pre-existing bullet had the semantic/phonetic roles backwards (labeled 正 as semantic and 攴 as phonetic) even though the frontmatter field itself was already right; fixed the bullet's own labeling to match.
+
+**Frontmatter**: already correct (`pos: "名詞"`, `mc_id: 217` verified against `CC 0000.md`).
+
+**Content removed**: a markdown-style link (`[政府](/words/政府.md)`) converted to a wikilink.
+
+**Graphemic bullet rewritten**: semantic [[Radical 066|攴]] ("action") + phonetic [[正 (char)|正]] (OC \*tjeŋ, \*tjeŋs) — a specialization of 正 ("straight, upright; correct"), combined with the action radical. This character's own `radical:` field is `攴`, matching the semantic component directly (攴 itself now has a vault page, created 2026-07-17 per project notes) — gets the Radical-page link; [[正 (char)|正]] (not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (政治) was missing entirely; two entries (政府, 政党) were bare or markdown-linked with no proper ruby.
+
+**Words cross-check** (8 total ground-truth hits): 3 already present (政府 — link/ruby fixed, 政党 — ruby fixed, 行政); 5 missing — 政治 (stand-in, added with annotation), 政治学, 無政府, 暴政, 郵政 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 政`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 231 — [[characters/支|支]]
+
+Next never-perfected character by `danayo_id` (2113). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct and already well-documented in the page's own pre-existing bullet — [[又 (char)|又]] ("hand") + [[十 (char)|十]] ("half of 竹, branch of bamboo") — a branch. This is the same phonetic-root character already surfaced as a Derived Character on the recent [[characters/技|技]] iteration; perfecting it here completes the family from the other direction.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/支部|支部]]'s own stored `pos`. This character's own `radical:` field is `支` (itself — Kangxi Radical 065), which is expected and not a defect, since neither etymological component (又, 十) literally matches it.
+
+**Content removed**: a markdown-style link (`[支那](/words/支那.md)`) converted to a wikilink; a mislabeled `## Word` heading (singular) corrected to `## Words`.
+
+**Graphemic bullet**: kept verbatim, converted markdown-style component links to wikilinks (`[[又 (char)|又]]`, `[[十 (char)|十]]`, both requiring the `(char)` filename suffix that the original bare links lacked).
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (支部) was missing entirely; no `## Derived Characters` section existed despite the large family already known from 技's iteration.
+
+**Words cross-check** (6 total ground-truth hits): 4 already present (支那 — link fixed, 支付, 地支, 支配 — ruby filled in); 2 missing — 支部 (stand-in, added with annotation), 印度支那 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (7 hits via `graphemic_classification: 支`, excluding this page itself — the same family from 技's recent iteration, now completed from 支's own side): [[伎]], [[岐 (char)|岐]], [[枝]], [[肢]], [[妓]], [[技]], [[翅]] — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 230 — [[characters/推 (char)|推]]
 
 Next never-perfected character by `danayo_id` (2112). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 隹` already correct — verified via Wiktionary: 形声, semantic 手 ("hand") + phonetic 隹 — "push with the hand."
