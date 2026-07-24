@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 221 — [[characters/情|情]]
+
+Next never-perfected character by `danayo_id` (2102 — 2101 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 青` already correct — verified via Wiktionary: 形声, semantic 心 ("heart") + phonetic 青 — "feeling, emotion, sentiment."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/感情|感情]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 061|心]] ("heart") + phonetic [[青 (char)|青]] — "feeling, emotion, sentiment"; also "love, affection"; "truth, actual circumstances."
+
+**Body defects found**: no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (感情) was missing entirely, and one entry (情勢) was bare with no ruby; no `## Derived Characters` section existed despite a very large real ground-truth hit.
+
+**Words cross-check** (17 total ground-truth hits — one of the largest word families surfaced in this loop): 8 already present (熱情, 情況, 衷情, 情勢 — ruby/gloss fixed, 情態, 中央情報局, 情欲, 恩情); 9 missing — 感情 (stand-in, added with annotation), 交情, 発情, 情報, 痴情, 事情, 愛情, 七情, 実情 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (9 hits via `graphemic_classification: 青` — one of the larger families surfaced in this loop): [[精]] ("spirit; essence; sperm"), [[猜]] ("to guess; suspect"), [[錆]] ("rust colored"), [[鯖]] ("mackerel"), [[清]] ("pure; clear"), [[請 (char)|請]] ("to ask; invite; request"), [[晴]] ("clear"), [[靖]] ("to pacify"), [[睛]] ("eye") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 220 — [[characters/念|念]]
+
+Next never-perfected character by `danayo_id` (2100). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `今`, matching the Shuowen's identification of a phonetic component — but Wiktionary explicitly notes "the Old Chinese phonetics do not match," rejecting Shuowen's reading and classifying 念 as 會意: 亼 ("upside-down mouth") + 心 ("heart") — "to listen to one's heart," "to think of, recall." Corrected to `會意`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/念頭|念頭]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): 亼 ("upside-down mouth," no vault page) + [[Radical 061|心]] ("heart") — to listen to one's heart; "to think of, recall; idea, thought." Noted the rejected Shuowen phonetic theory explicitly rather than silently dropping it.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` section existed at all despite four real ground-truth hits; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (4 total ground-truth hits): all 4 missing — 念頭 (stand-in, added with annotation), 断念, 専念, 記念日 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 念`): [[捻 (char)|捻]] ("to twist") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 219 — [[characters/快 (char)|快]]
+
+Next never-perfected character by `danayo_id` (2099). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 叏` kept after cross-checking: Wiktionary's documented spelling for the phonetic is 夬, but this vault's own derived-character family for this exact phonetic ([[訣]], [[決 (char)|決]], [[缺]] — all three confirmed via a ground-truth search) already consistently cites `叏` (a variant spelling of 夬) as their own `graphemic_classification`. Switching only 快 itself to `夬` would orphan it from its own derived family and create a vault-wide spelling inconsistency for no benefit, since 叏/夬 refer to the same historical component — kept `叏` for consistency, with the standard spelling noted in the bullet.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the sibling word [[words/愉快|愉快]]'s own stored `pos` (the stand-in word 快.md itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*kʷraːds): semantic [[Radical 061|心]] ("heart") + phonetic 叏 (no vault page — a variant spelling of the standard 夬, the spelling shared by 訣/決/缺) — "pleased, happy"; also "sharp; quick; forthright."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus three Words entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (快) was missing entirely; one entry (快楽) was bare with no ruby; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (5 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 快.md's own `characters: 快` field): 4 already present (痛快, 愉快, 爽快, 快楽 — ruby/gloss fixed); 1 missing — 快 (stand-in, added with annotation) — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 叏`, excluding this page itself): [[訣]] ("secret; trick"), [[決 (char)|決]] ("to determine; decide"), [[缺]] ("incomplete; lacking") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 218 — [[characters/忘|忘]]
+
+Next never-perfected character by `danayo_id` (2098). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 亡` already correct — verified via Wiktionary: 形声, phonetic 亡 + semantic 心 ("heart") — originally identical to 亡 ("to lose, disappear"), later gaining a perfective suffix, literally "it has disappeared (from mind)."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/忘却|忘却]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*maŋ, \*maŋs): phonetic [[亡]] (OC \*maŋ) + semantic [[Radical 061|心]] ("heart") — originally identical to 亡; "to forget."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` section existed at all despite one real ground-truth hit; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (1 total ground-truth hit): 忘却 (the `stand_in`) missing — added with annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (9 hits via `graphemic_classification: 亡` — one of the larger families surfaced in this loop): [[虻]] ("horsefly; gadfly"), [[芒]] ("ray; radiance"), [[茫]] ("vast; boundless; wide"), [[盲]] ("blind"), [[罔]] ("to accuse"), [[望]] ("hope"), [[妄]] ("delusion; vain"), [[忙]] ("busy"), [[岡]] ("hill; hillock") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 217 — [[characters/得|得]]
 
 Next never-perfected character by `danayo_id` (2097). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `㝵`, implying a 形声 structure — but Wiktionary explicitly classifies 得 as 會意, with 㝵 described only as the *ancient form* (predecessor), itself composed of 貝 + 又, not a phonetic component of a phono-semantic 得. Corrected to `會意`.
