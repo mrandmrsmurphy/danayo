@@ -45,7 +45,7 @@ boundedness: 75
 ```
 
 ## Notes
-- 会意 of [[Radical 111|矢]] ("arrow," swiftness and directness) + 口 ("mouth, speech") — words spoken as unerringly as an arrow flies; "to know."
+- 会意 of [[Radical 111|矢]] ("arrow," swiftness and directness) + [[口 (char)|口]] ("mouth, speech") — words spoken as unerringly as an arrow flies; "to know."
 - [SKIP-1-5-3](lookup/SKIP/SKIP-1/SKIP-1-5-3.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
 - 54th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄐㄨㄧ](syllables/ㄐㄨㄧ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

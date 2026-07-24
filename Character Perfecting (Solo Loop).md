@@ -1457,3 +1457,83 @@ Next never-perfected character by `danayo_id` (241). Stamped `date-last-perfect:
 **Chengyu**: no ground-truth hits (confirmed via direct `grep -l "算" chengyu/*.md` then checking each hit's own `characters:` frontmatter — both matches were body-text mentions only, not real citations) — section correctly omitted.
 
 **Derived Characters** (1 hit via `graphemic_classification: 算`): [[纂]] ("to compile; edit") — added, no filename collision.
+
+### 2026-07-24, iteration 130 — [[characters/語|語]]
+
+Next never-perfected character by `danayo_id` (242). Stamped `date-last-perfect: 2026-07-24`. **Tenth real wrong-graphemic-value find this loop, distinctively self-contradicting**: `graphemic_classification: 五` directly contradicted the page's own pre-existing (if incomplete) graphemic bullet, which already correctly cited phonetic 吾 — the field and the prose disagreed with each other, same shape as the [[characters/家|家]] and [[characters/朝 (char)|朝]] contradictions earlier this loop. Verified via Wiktionary that the bullet's own citation was right: semantic [[Radical 149|言]] ("speech") + phonetic [[吾]] (OC \*ŋa, "originally to face someone with speech"). Corrected the field from `五` to `吾`.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/言語.md` (the `stand_in` compound itself). `mc_id: 442` verified against `CC 0000.md`.
+
+**Content removed**: a stray empty bullet (`- ` with nothing after it) sitting mid-list.
+
+**Graphemic bullet fixed**: filled in the previously-empty OC values for both 語 and 吾, and the empty gloss for 言.
+
+**Body defects found**: two floating CC-initial/final links sat in the middle of a long Words list instead of embedded in an MC bullet; no SKIP/Stroke/MC/Levels bullets existed; roughly half the pre-existing Words entries were bare with no ruby.
+
+**Words cross-check — largest ground-truth set this entire loop (46 total hits)**, found via the inline-array/list/quoted-scalar triple search established earlier this loop: 26 already present (14 ruby'd; 12 bare, reformatted); 20 missing — the `stand_in` compound 言語 itself, 成語, 新語, 熟語, 英語, 語彙, 語気, 論語, 造語, 露語, 世界語, 中国語, 単亜語, 国際語, 外国語, 日本語, 英語学, 越南語, 韓国語, 四字成語 — added, all from stored fields. **`words/中国語.md` had no stored `注音`** — derived it compositionally (中 ㄐㄨㄫ + 国 ㄍㄛㄎ + 語 ⼄ → ㄐㄨㄫㄍㄛㄎ⼄), cross-checked against its own `羅馬字`/`諺文` ("junggog'yo"/중곡요), which matched exactly. **Given the scale of this batch, ran a Python script cross-checking every single `<rt>` value in the finished page against each word's own stored `注音` field directly, rather than trusting memory alone** — caught and fixed three real fabrications this way (語法: guessed `⼄ㄆㄚㄆ`, actual `⼄ㄈㄚㄆ`; 語感: guessed `⼄ㄍㄚㄋ`, actual `⼄ㄍㄚㄇ`; both close-but-wrong near misses that a casual glance would have missed) before the script confirmed the remaining ~40 entries were all correct. This systematic verify-the-whole-page approach is worth reusing for any future giant Words list, rather than only double-checking the handful that "feel" uncertain.
+
+**Chengyu cross-check** (3 total): 2 already present (不言不語, 単語熟語); 1 missing — 流言飛語 (already added to [[characters/流|流]] earlier this loop) — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 語` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 131 — [[characters/歌|歌]]
+
+Next never-perfected character by `danayo_id` (243). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 哥` checked out as correct — verified via Wiktionary (semantic [[Radical 076|欠]] "blow" + phonetic [[哥]], OC \*kaːl, shared exactly between the character and its phonetic), matching `radical: 欠`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 789` verified against `CC 0000.md`).
+
+**Content removed**: a stray "哥,欠 = 1-10-4" fragment, superseded by the real bullet.
+
+**Graphemic bullet written from scratch**: 形声, semantic 欠 + phonetic 哥 — song.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (12 total ground-truth hits): 8 already present and correctly ruby'd; 4 missing — the `stand_in` compound 歌曲 itself, 国歌, 校歌, 詩歌 — added, all from stored fields. Noted in passing: `words/国歌.md`'s own stored `english`-adjacent Notes already flag its homophone collision with `words/国家.md` (identical 羅馬字/諺文/注音) — an already-self-documented instance of the recurring character-vs-word reading-overlap pattern, not a new find.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 四面楚歌 ("surrounded by the singing of Chu") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 歌` matches no other character) — section correctly omitted.
+
+**Verification**: ran the same Python cross-check script established last iteration against every `<rt>` value on this page (checking both `words/` and `chengyu/` folders) — 0 mismatches found, confirming the whole page before finalizing.
+
+### 2026-07-24, iteration 132 — [[characters/読|読]]
+
+Next never-perfected character by `danayo_id` (244). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 𧶠` checked out as correct — verified via Wiktionary (semantic [[Radical 149|言]] "to say" + phonetic 𧶠, OC \*luɡ; the meaning evolved from "to say aloud, to tell" → "to recite" → "to read"), matching `radical: 言`. 𧶠 has no character page in this vault, cited as bare plain text.
+
+**Frontmatter**: `pos: ""` → `実詞`, matching the stored `pos: 実詞` on `words/閲読.md` (the `stand_in` compound itself). `mc_id: 816` verified against `CC 0000.md` (traditional form 讀, consistent with vault convention).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 言 + phonetic 𧶠 — see etymology above.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; three Words entries (読本, 読書, 読点) were bare with no ruby.
+
+**Words cross-check** (5 total ground-truth hits): 4 already present (1 ruby'd; 3 bare, reformatted); 1 missing — the `stand_in` compound 閲読 itself — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 読` matches no other character) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+**Interleaved correction (2026-07-24, user-directed): 知's component-linking convention refined.** The user flagged [[characters/知 (char)|知]]'s graphemic bullet (口 left unlinked entirely, from iteration 48 early in this loop) and, after an initial fix linking 口 to its Radical page (030), clarified the real intended rule: **only the component matching the character's own `radical:` frontmatter field gets a `[[Radical NNN|X]]` link** — any other component links to its own character page (`[[X (char)|X]]` or `[[X]]`) when one exists, even if that component happens to be a genuine Kangxi radical for *other* characters. Fixed 知's bullet accordingly (矢 → Radical 111 since that's 知's own assigned radical; 口 → `[[口 (char)|口]]`, its own character page). This refines, not replaces, the "radical components get Radical-page links" rule from `checklist_characters.md` — going forward, apply it per-character based on each character's own `radical:` field, not a blanket rule for every generically-radical component. Not retroactively auditing every prior iteration's bullets for this distinction unless asked, but applying it correctly from this point on.
+
+### 2026-07-24, iteration 133 — [[characters/緑 (char)|緑]]
+
+Next never-perfected character by `danayo_id` (245) — another periodic-table abbreviation character (beryllium, 緑柱素). `graphemic_classification: 彔` checked out as correct — verified via Wiktionary (semantic [[Radical 120|糸]] "silk, thread" + phonetic 彔, OC \*b·roːɡ — the character's meaning relates to dyed silk/green-colored textiles), matching `radical: 糸`. Stamped `date-last-perfect: 2026-07-24`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `mc_id: 2419` verified against `CC 2000.md`, traditional form 綠).
+
+**Content removed**: a garbled numbered "1. green / 2. abbreviation for..." fragment, reformatted into the standard element-abbreviation Notes-bullet convention (same treatment as [[characters/軽 (char)|軽]] a few iterations ago) rather than discarded.
+
+**Graphemic bullet fixed**: the existing bullet had the right components but empty glosses/OC values for both 糸 and 彔 — filled in. 彔 has no character page in this vault, cited as bare plain text.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 緑色 was bare with no ruby; 緑柱素 was only mentioned in the abbreviation aside, never given its own proper Words entry.
+
+**Words cross-check** (4 total ground-truth hits): 2 already present (1 ruby'd; 緑色 bare, reformatted); 2 missing — the stand-in 緑 itself and 緑柱素 (per the standing "both places, not just the abbreviation note" rule) — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 緑` matches no other character) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
