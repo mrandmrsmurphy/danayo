@@ -1,3 +1,43 @@
+### 2026-07-24, iteration 240 — [[characters/昨 (char)|昨]]
+
+Next never-perfected character by `danayo_id` (2123). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 乍` already correct — verified via Wiktionary: 形声, semantic 日 ("sun") + phonetic 乍 — "yesterday," "former times."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching sibling words (昨日, 昨年) that both store `pos: 名詞` (the stand-in word 昨.md itself has no `pos` field).
+
+**Content removed**: a non-canonical relative path (`../lookup/CC/finals/韻 鈬開`), corrected to the canonical root-relative form.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 072|日]] ("sun") + phonetic [[乍]] — "yesterday" (obsolete standalone in Standard Chinese); "former times, the past."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (昨) was missing entirely, and one entry (昨年) was bare with no ruby; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (6 total ground-truth hits, including a discovered quoted-scalar self-citation from 昨.md's own `characters: "昨 (char)"` field): 2 already present (昨日, 昨年 — ruby fixed); 4 missing — 昨 (stand-in, added with annotation), 昨週, 昨世紀, 昨月 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 乍`): [[詐]] ("to defraud"), [[酢]] ("vinegar"), [[作 (char)|作]] ("to make; do"), [[炸]] ("fried; explode"), [[窄]] ("narrow; tight"), [[祚]] ("throne; blessing") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 239 — [[characters/旧 (char)|旧]]
+
+Next never-perfected character by `danayo_id` (2122). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 臼` already correct — verified via Wiktionary: 形声, semantic 雈 ("owl") + phonetic 臼 — originally a type of owl, later phonetically borrowed for "old."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching sibling words (旧金山, 旧字体, 旧正月) that all store `pos: 名詞` (the stand-in word 旧.md itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic 雈 ("owl," no vault page) + phonetic [[臼 (char)|臼]] (OC \*ɡuʔ) — originally a type of owl, later phonetically borrowed for a homophonous word meaning "old."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus two Words entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (旧) was missing entirely; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (5 total ground-truth hits, including a discovered quoted-scalar self-citation from 旧.md's own `characters: "旧 (char)"` field): 2 already present (旧金山 — ruby filled in from stored fields, 旧字体); 3 missing — 旧 (stand-in, added with annotation), 旧正月, 仍旧 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 事事皆旧 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (1 hit via `graphemic_classification: 臼`, excluding this page itself): [[舅]] ("maternal uncle") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 238 — [[characters/方|方]]
 
 Next never-perfected character by `danayo_id` (2121). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` kept as-is: Wiktionary offers no firm classification for 方, describing it only as possibly the original character of 旁 (OC \*baːŋ, "side"), with a form related to 巫 — 方 "lacks the indicator symbol on one end and is elongated to denote 'side.'" Since no clear alternative classification is given and the vault's pre-existing choice isn't contradicted, kept `象形` and documented the genuine uncertainty in the bullet (the same treatment as the earlier 害/再/平 iterations).
