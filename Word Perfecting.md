@@ -2831,3 +2831,39 @@ Eleventh word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 202
 **Stand-in note applied**: `characters/社.md`'s own `stand_in` field is `社会` (this word) — added the standard phrasing. (会's own `stand_in` is bare `会` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`). Verified `cantonese: se5 wui6-2` as a genuine Cantonese tone-sandhi pattern (会 takes a colloquial changed reading), not an error.
 
 A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄙ⼘ㄏ⼔` unique). **Incidental fix**: added a missing `## Words` section entirely to `characters/社.md` (`characters/会 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 254 — [[words/科学|科学]]
+
+Twelfth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` unindented dash list reformatted to block form; `aliases: [科學]` inline array reformatted to block form. Quoted `hsk_level: "1"`; removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies — 科's own `stand_in` is `学科` (a different word), 学's own is `学習` (a different word) — 科学 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/科.md` is `false`, `characters/学.md` is `true` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄎ⺢ㄏㄚㄎ` unique). **Incidental fix**: added a missing `## Words` entry to `characters/科.md` (`characters/学.md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 255 — [[words/空気|空気]]
+
+Thirteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` inline arrays reformatted to block form. Filled blank `vietnamese` with the real, extremely common `không khí` (matching `characters/空 (char).md`'s own `không`; a genuine everyday Vietnamese word, even though `characters/気 (char).md`'s own frontmatter happens to have an empty `vietnamese:` field — a gap on the character page, out of scope this iteration). Quoted `hsk_level: "1"`; removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄎㄛㄫㄎㄧㄜ` unique). Both `characters/空 (char).md` and `characters/気 (char).md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 256 — [[words/空港|空港]]
+
+Fourteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — synonym-vs-alias conflation**: `aliases` previously listed `飛機場`/`機場` — these are unrelated Chinese synonyms for "airport," written with entirely different characters (機 "machine" + 場 "field," not 空 "sky" + 港 "harbor"), not alternate spellings of 空港 itself. Removed both. This vault's 空港 corresponds most directly to Japanese くうこう (kūkō) and Korean 공항; Mandarin's own everyday word for "airport" is actually 机场/飛機場 (jīchǎng), a separate compound not yet given its own page.
+
+**Frontmatter cleanup**: filled blank `cantonese` (`hung1 gong2`, matching `characters/港.md`'s own stored `gong2`). Reformatted `characters:` to block form; quoted `hsk_level: "1"`; removed blank `swadesh:`. Verified `vietnamese: sân bay` — a native construction rather than a calque, but genuinely correct.
+
+No `stand_in` relationship applies — 空's own `stand_in` is bare `空`, 港's own is `港湾` (a different word) — 空港 is an independent compound. `kwin: false` already correct per the AND-rule (both constituents individually `false`). No homophones (`注音: ㄎㄛㄫㄏㄛㄫ` unique). **Incidental fix**: added a missing `## Words` section entirely to `characters/港.md` (had none). Noted but left alone (out of scope, unclear intent): `characters/港.md`'s own Notes section has a cryptic stray line, "I'm shocked its not old."
+
+### 2026-07-23, iteration 257 — [[words/突然|突然]]
+
+Fifteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — garbled reading**: `mandarin` comma-jammed two variants (`tūrán, túrán`) — checked against `characters/突.md`'s own stored `tū`; `túrán` does not match any attested pronunciation. Kept just `tūrán`.
+
+**Stand-in note applied**: `characters/突.md`'s own `stand_in` field is `突然` (this word) — added the standard phrasing. (然's own `stand_in` is bare `然` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`).
+
+Filled blank `vietnamese` with the real, attested `đột nhiên` (extremely common, e.g. đột biến "mutation," đột phá "breakthrough" — though not itself listed among `characters/突.md`'s own stored vietnamese readings, a gap on the character page out of scope here). Quoted `characters:` (`"然 (char)"`); removed empty `aliases: []`. A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄊㄛㄊㄋ⼶ㄋ` unique). **Incidental fix**: reformatted `characters/突.md`'s existing plain-text entry into ruby form with the stand-in note; added a missing `## Words` entry to `characters/然 (char).md`.
