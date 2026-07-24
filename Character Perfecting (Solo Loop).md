@@ -1,3 +1,103 @@
+### 2026-07-24, iteration 209 — [[characters/建|建]]
+
+Next never-perfected character by `danayo_id` (2088). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 廴 + 聿 — originally a pictogram of a hand planting a pole into a base, "to build, construct."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/建設|建設]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [[Radical 054|廴]] (matches this character's own radical field) + [[Radical 129|聿]] (no vault character page but a genuine Kangxi radical, same fallback rule established for 聿 in the earlier 画 iteration) — originally a pictogram of a hand planting a pole into a base; the bottom part, though stylized as 聿, is unrelated to a writing brush. "To build, construct, erect"; "to establish, found."
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (建設) had no annotation, and one entry (建築) was bare with no ruby.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (建設 — annotation added, 建築 — ruby/gloss fixed); 1 missing — 建国 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 建`): [[健]] ("healthy"), [[鍵 (char)|鍵]] ("key") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 208 — [[characters/店|店]]
+
+Next never-perfected character by `danayo_id` (2087). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 占` already correct — verified via Wiktionary: 形声, semantic 广 ("house built to depend on a cliff") + phonetic 占 — "shop, store."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/商店|商店]]'s own stored `pos`. `mc_id: 0` is a real, meaningful value ("confirmed not present in the ranking," per standing policy) — phrased accordingly in the MC-rank bullet rather than treated as a gap needing a fix.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*ʔljem, \*tjems): semantic [[Radical 053|广]] ("house built to depend on a cliff") + phonetic [[占 (char)|占]] — "shop, store," also "inn."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` section existed at all despite three real ground-truth hits; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (3 total ground-truth hits): all 3 missing — 商店 (stand-in, added with annotation), 飯店, 花店 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (8 hits via `graphemic_classification: 占` — one of the larger families surfaced in this loop): [[怗]] ("observant; peaceful"), [[帖 (char)|帖]] ("invitation; card"), [[貼 (char)|貼]] ("to paste on; stick to; attach"), [[粘 (char)|粘]] ("sticky"), [[站]] ("station; site"), [[砧]] ("anvil"), [[鮎 (char)|鮎]] ("sweetfish; sheatfish"), [[点 (char)|点]] ("point") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 207 — [[characters/広 (char)|広]]
+
+Next never-perfected character by `danayo_id` (2086). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 黃` already correct — verified via Wiktionary: 形声, semantic 广 ("shelter, structure") + phonetic 黃 (OC \*ɡʷaːŋ) — "broad, wide, extensive, vast."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the sibling word [[words/広範|広範]]'s own stored `pos` (the stand-in word 広.md itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*ɡʷaːŋ): semantic [[Radical 053|广]] ("shelter, structure") + phonetic [[黄 (char)|黄]] — "broad, wide, extensive, vast." 广 is listed among this character's own `aliases:` (never independently created as its own page) but is genuinely this character's own Kangxi radical, so it gets the Radical-page link rather than a character-page link — the same pattern as 干's earlier iteration, where a component both matched the radical field and lacked its own page.
+
+**Body defects found**: `## Notes` was empty aside from what's now the graphemic bullet; two CC-initial/final links floated mid-list with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (広) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (5 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 広.md's own `characters: 広` field): 3 already present (広範, 広野 — ruby/gloss fixed, 広土); 2 missing — 広 (stand-in, added with annotation), 広場 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 黃`/`黄`): [[横]] ("crossing horizontally; across laterally") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 206 — [[characters/平|平]]
+
+Next never-perfected character by `danayo_id` (2085). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` kept as-is: Wiktionary documents genuinely uncertain etymology with no clear primary reading — proposed theories include a pictogram of waterweed on water, a pictogram of a balance scale (both 象形), and an ideogrammic compound of 八 + 亏 (會意). Since the vault's own pre-existing choice already matches a legitimate 象形 theory, kept it and documented the dispute.
+
+**Frontmatter**: already correct (`pos: 性詞`, `mc_id: 131` verified against `CC 0000.md`).
+
+**Content removed**: a markdown-style link (`[平常](/words/平常.md)`) converted to a wikilink; a floating CC-initial/final pair sitting mid-list between Words entries.
+
+**Graphemic bullet written from scratch**: documented all three competing scholarly theories per Wiktionary, following the vault's pre-existing 象形 choice as the working classification.
+
+**Body defects found**: `## Notes` was empty aside from what's now the graphemic bullet; two CC-initial/final links floated mid-list with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (水平) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (21 total ground-truth hits — the largest word family surfaced in this loop so far): 10 already present in some form (平方, 扁平, 平常, 平日, 平静, 平坦, 平板, 臥平, 公平, 太平 — all reformatted with ruby/gloss); 11 missing — 水平 (stand-in, added with annotation), 平均, 平凡, 平成, 平年, 不平, 平安, 地平線, 和平, 平穏, 平等 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 平`): [[坪 (char)|坪]] ("level ground; 36 square shaku; pyeong"), [[評]] ("to evaluate"), [[苹]] ("apple; duckweed") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 205 — [[characters/干|干]]
+
+Next never-perfected character by `danayo_id` (2084 — 2083 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct and already well-documented in the page's own pre-existing bullet, including an explicit note distinguishing 干's own "shield" identity from [[characters/乾 (char)|乾]] and [[幹]], which only borrow its glyph in Simplified Chinese — no changes needed there.
+
+**Frontmatter**: `stand_in:` was blank — a required field this loop hasn't caught blank before. Set to `干渉`, since no independent word file `干.md` exists and 干渉's own stored gloss ("interfere; intervene") matches one of the character's two listed `english` senses ("shield, interfere") exactly.
+
+**Content removed**: a non-canonical relative path (`../lookup/List of 象形`), corrected to the canonical root-relative form.
+
+**Graphemic bullet**: kept verbatim aside from the path fix.
+
+**Body defects found**: two CC-initial/final links floating with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; no stand-in annotation on any Words entry; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (6 total ground-truth hits): all 6 already present (若干, 天干, 十干, 干戈, 干渉 — stand-in annotation added, 干犯) — no missing entries, just the annotation fix.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (7 hits via `graphemic_classification: 干` — one of the larger families surfaced in this loop): [[旱]] ("drought"), [[軒]] ("flats"), [[肝]] ("liver"), [[竿]] ("bamboo pole"), [[杆 (char)|杆]] ("rod"), [[汗 (char)|汗]] ("sweat"), [[刊 (char)|刊]] ("publication; periodical") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 204 — [[characters/帰|帰]]
 
 Next never-perfected character by `danayo_id` (2082). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `堆` — a character that appears nowhere in 歸/帰's actual etymology. Verified via Wiktionary that 歸 is 會意: 𠂤 ("ancient form of 師, troops") + [[帚]] ("broom; sweep") — to eradicate the enemy and return (Shuowen considers 𠂤 a phonetic, but the primary listed classification is 會意) — corrected to `會意`.
