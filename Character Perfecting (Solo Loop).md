@@ -555,3 +555,69 @@ Next never-perfected character by `danayo_id` (175; 174/[[characters/哉 (char)|
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters** (3 hits via `graphemic_classification: 某`): [[煤 (char)|煤]] ("coal; soot"), [[謀 (char)|謀]] ("to conspire; scheme"), [[媒]] ("mediator; matchmaker") — added. Filename collisions found on 煤/謀 — linked with pipe-aliases; 媒 had no collision.
+
+### 2026-07-23, iteration 75 — [[characters/風 (char)|風]]
+
+Next never-perfected character by `danayo_id` (177; 176/[[characters/皆 (char)|皆]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-23`. **Real etymology finding, but not a simple error this time** — `graphemic_classification: 凡` checked out as correct, but the true derivation is more involved than a plain 形声: 風 is a **假借** (phonetic loan) of the character for 鳳 ("phoenix"), which was itself semantic phoenix-tail feathers + phonetic 凡 (OC \*bom). The feather strands simplified over time into the modern glyph's 虫-looking bottom component — a graphic vestige, not a true "insect" semantic radical, despite how it looks. 風 is also its own Kangxi radical (182), self-referential like a few other self-radical characters seen earlier in this loop (音, 里). Wrote the bullet to explain this chain rather than mislabeling it a bare 形声.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 279` verified against `CC 0000.md`). **Flagged, not fixed**: a real character-vs-word `注音` mismatch on the stand-in itself — the character's own frontmatter reads `ㄈㄨㄫ`, but `words/風.md` (the `stand_in` word) stores `ㄆㄨㄫ` (F vs. P initial) — same bug class as the `恩`/`慣`/`調`·`酒` mismatches logged in `projects.md`'s syllable sweep; cited the word's own stored value verbatim in its Words entry rather than silently unifying either field.
+
+**Content removed**: none.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; three Words entries (風刺, 風笛, 風潮) were bare with no ruby; no `## Derived Characters` section existed despite real ground-truth hits.
+
+**Words cross-check** (13 total ground-truth hits): 6 already present (3 ruby'd; 3 bare, reformatted); 7 missing — the stand-in 風 itself, 古風, 暴風, 風水, 風狂, 風采, 太陽風 — added, all from stored fields. **Caught two fabrications before stamping**: initially guessed readings for 風刺 (`ㄈㄨㄫㄑㄨ`) and 風潮 (`ㄈㄨㄫㄉㄧㄡ`) instead of checking their stored `注音` — cross-checked both directly and corrected to the real values, `ㄈㄨㄫㄑㄧㄎ` and `ㄈㄨㄫㄑㄚㄨ` respectively (same "verify before stamping" catch as [[characters/音|音]]'s 観音 and [[characters/春 (char)|春]]'s 春季 earlier this loop — now three separate catches of the same failure mode, worth treating as a standing discipline rather than a one-off).
+
+**Chengyu cross-check** (4 total): 2 already present (弱不禁風, 五風十雨); 2 missing — 一帆風順, 風声鶴唳 — added from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 風`): [[楓]] ("maple") and [[瘋]] ("crazy; insane; wild") — added, neither had a filename collision.
+
+### 2026-07-23, iteration 76 — [[characters/点 (char)|点]]
+
+Next never-perfected character by `danayo_id` (178). Stamped `date-last-perfect: 2026-07-23`. Page already had a real, correctly-cited graphemic bullet (form + phonology already correct going in) — verified via Wiktionary (traditional 點: semantic 黑 "black" + phonetic 占, OC \*teːmʔ; shinjitai 点 substitutes 火, already correctly noted on the page). `mc_id: 3957` confirmed against `CC 3000.md` (bare `N. char` format, no `>` prefix, same file-format quirk noted for `CC 1000.md` last relevant iteration).
+
+**Frontmatter**: already correct (`pos: 名詞`).
+
+**Content removed**: none.
+
+**Graphemic bullet**: no changes needed — already correct and complete.
+
+**Body defects found**: none in the Notes section (all four bullets already present and correct) — this iteration was almost entirely a Words/Chengyu gap-fill.
+
+**Words cross-check** (17 total ground-truth hits): 6 already present and correctly ruby'd (点心, 一点, 句点, 至点, 分点, 最高点); 11 missing — the stand-in 点 itself, 交点, 地点, 得点, 拠点, 斑点, 焦点, 特点, 缺点, 読点, 頂点, 小数点 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 画龍点睛 — the same chengyu already added to [[characters/画|画]] back in iteration 52, now also linked from its other constituent character 点; gloss pulled from the chengyu's own `english` field (its first list item was blank/empty in a way that required reading the raw file rather than trusting a single-line grep, since the real gloss values sat on subsequent list lines).
+
+**Derived Characters**: no hits (`graphemic_classification: 点` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 77 — [[characters/前 (char)|前]]
+
+Next never-perfected character by `danayo_id` (179). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 歬` is an unusual field value — not a type name (象形/指事/会意) nor a true 形声 phonetic component, but the character's own historical ancestor form. Verified via Wiktionary that this is a genuine, well-attested derivation (前's original form 歬 = 会意 of 止 "foot" + 舟 "boat," later simplified to 䒑+月 with 刀 "knife" added — the knife component now lives on in [[剪 (char)|剪]] "scissors/to cut," which absorbed that sense while 前 kept "front, before"). Left the frontmatter field as-is rather than reclassifying it, since it correctly names a real, meaningful component of the etymology chain even if it doesn't fit either of the checklist's two clean patterns — a borderline case worth flagging rather than silently normalizing.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 235` verified against `CC 0000.md`).
+
+**Content removed**: a garbled "Components: [[䒑]], [[刖]]" fragment — 刖 ("to amputate the foot") is not actually part of 前's etymology at all, almost certainly a visual-similarity mix-up with 歬 — superseded by the real bullet.
+
+**Body defects found**: bullets 2–4 were merged into a single non-canonical middle-dot-separated bullet (same defect shape as [[characters/後 (char)|後]] two iterations ago) — rebuilt into the standard order; two Words entries (前置詞, 前後) were bare with no ruby.
+
+**Words cross-check** (15 total ground-truth hits): 4 already present (2 ruby'd; 2 bare, reformatted); 11 missing — the stand-in 前 itself, 前兆, 前年, 前提, 前日, 前月, 前週, 午前, 眼前, 空前, 前世紀, 紀元前 — added, all from stored fields. **Caught two fabrications before stamping**: initially left 前置詞/前後's `<rt>` empty while assembling the edit instead of checking their stored `注音` — cross-checked both directly and filled in the real values, `ㄐㄝㄋㄑㄧㄙㄚ` and `ㄐㄝㄋㄏㄛㄨ` respectively (fourth catch of this same failure mode this loop, after 観音/春季/風刺·風潮 — now clearly a standing habit to keep, not a one-off).
+
+**Chengyu cross-check** (2 total): 1 already present (空前絶後); 1 missing — 珠投猪前 ("throwing pearls before swine") — added from stored fields.
+
+**Derived Characters** (3 hits via `graphemic_classification: 前`): [[剪 (char)|剪]] ("scissors"), [[煎]] ("to boil; to fry"), [[箭]] ("arrow") — added. Filename collision found on 剪 — linked with pipe-alias; 煎/箭 had no collision.
+
+### 2026-07-23, iteration 78 — [[characters/流|流]]
+
+Next never-perfected character by `danayo_id` (180). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 㐬` checked out as correct — verified via Wiktionary (semantic [[Radical 085|水]] "water" + phonetic 㐬, OC \*ru); the existing bullet's phonetic OC value had been left as an empty placeholder `(OC )` — Wiktionary didn't give a separately-attested value for 㐬 distinct from 流's own \*ru (it only lists 流 alongside its wider phonetic-series relatives like 硫/琉/旒), so filled it in noting it shares 流's own reading rather than inventing a distinct number.
+
+**Frontmatter**: already correct (`pos: 性詞`, matching the stored `pos: 性詞` on `words/流動.md`; `mc_id: 373` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links sat in the middle of the Chengyu section instead of embedded in an MC bullet; three Words entries (流動, 流暢, 流言) were bare with no ruby; two more (流星, 交流) used plain Markdown links instead of wikilinks.
+
+**Words cross-check** (9 total ground-truth hits): 5 already present (2 ruby'd via plain Markdown link, converted to wikilinks; 3 bare, reformatted); 4 missing — 流域, 流水, 渓流, 渦流 — added, all from stored fields. **Checked all three initially-bare readings before writing them in** (流動, 流暢, 流言) rather than guessing — continuing the verify-before-stamping discipline established after the 観音/春季/風刺·風潮/前置詞·前後 catches earlier this loop; all three matched what would have been reasonable guesses, but confirmed rather than assumed.
+
+**Chengyu cross-check** (3 total): 2 already present (流言飛語, 落花流水); 1 missing — 乳蜜流地 ("a land flowing with milk and honey") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 流` matches no other character) — section correctly omitted.
