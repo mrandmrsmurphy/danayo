@@ -35,6 +35,7 @@ boundedness: 65
 [[nav/char_info]]
 ```
 ## Notes
+- the element word 鉀 itself doubles as the periodic table abbreviation for "potassium"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 狎]]
 - 形声 (OC \*klaːb, \*kraːb): semantic [[Radical 167|金]] ("metal") + phonetic [[甲]] (OC \*kraːb).

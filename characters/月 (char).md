@@ -46,6 +46,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for <ruby>[[月素]]<rt>⼔ㄊㄙㄛ</rt></ruby> "selenium" in periodic-table formulae — see [[Periodic Table]]
 - [List of 象形](../lookup/List%20of%20象形.md): depicts a crescent moon, with a stroke inside representing shading or a marking on its surface.
 - [SKIP-3-2-2](../lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 56th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [⼔ㄊ](../syllables/⼔ㄊ.md)

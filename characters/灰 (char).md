@@ -45,6 +45,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for <ruby>[[石灰素]]<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby> "calcium" in periodic-table formulae — see [[Periodic Table]]
 - 会意 of [[Radical 086|火]] ("fire") and [[又 (char)|又]] ("hand") — fire that can be touched by the hand; "ashes."
 - [SKIP-3-2-4](lookup/SKIP/SKIP-3/SKIP-3-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
 - 2408th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄏㄛㄧ](syllables/ㄏㄛㄧ.md)

@@ -53,6 +53,7 @@ boundedness: 75
 ```
 ## Notes
 
+- the element word 鉄 itself doubles as the periodic table abbreviation for "iron" — see [[Periodic Table]]
 - 形声: semantic [[Radical 167|金]] ("metal") + phonetic [[失]]. (Note: 鉄 is the shinjitai of 鐵; the phonetic component 失 is a simplification of the original 戈+矢 complex.)
 - [SKIP-1-8-5](lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) · [ㄊㄝㄊ](syllables/ㄊㄝㄊ.md) · [[Lookup/CC/initials/聲 透|tʰ]] [[Lookup/CC/finals/韻 屑開|et]]
 ## Words

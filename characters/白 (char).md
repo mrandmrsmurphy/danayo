@@ -42,6 +42,7 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for <ruby>[[白金]]<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby> "platinum" in periodic-table formulae — see [[Periodic Table]]
 - [List of 象形](../lookup/List%20of%20象形.md): uncertain origin; proposed interpretations include an acorn (compare 櫟) or a human head (compare 貌 "face," 黑 "black").
 - [SKIP-4-5-2](../lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 267th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄅㄚㄎ](../syllables/ㄅㄚㄎ.md)

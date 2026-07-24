@@ -40,6 +40,7 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+- abbreviation for <ruby>[[高素]]<rt>ㄍㄚㄨㄙㄛ</rt></ruby> "gallium" in periodic-table formulae — see [[Periodic Table]]
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 豪]]
 - <ruby>[[高盧]]<rt>ㄍㄚㄨㄌㄛ</rt></ruby> "Gaul"

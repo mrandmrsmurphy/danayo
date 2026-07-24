@@ -46,6 +46,7 @@ boundedness: 60
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for <ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> "helium" in periodic-table formulae — see [Periodic Table](../lexipedia/Periodic%20Table.md)
 - [List of 象形](../lookup/List%20of%20象形.md): depicts the sun, originally drawn as a circle with a dot or short stroke inside marking a sunspot or the sun's brightness.
 - [SKIP-3-3-1](../lookup/SKIP/SKIP-3/SKIP-3-3-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 67th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄋㄧㄊ](../syllables/ㄋㄧㄊ.md)

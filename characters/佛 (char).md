@@ -44,6 +44,7 @@ boundedness: 40
 ```
 
 ## Notes
+- abbreviation for <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium" in periodic-table formulae — see [[Periodic Table]]
 - 形声 (OC *bɯt): semantic [[人]] ("person") + phonetic [[弗]] (OC *pɯt) — a transcription character for Sanskrit *buddhá* ("awakened one"); 佛陀 (*fótuó*) is the full transliteration; 佛 the shortened form used throughout East Asia.
 - [SKIP-1-2-5](lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 7](lookup/Stroke/Stroke%207.md))
 - 3,403rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄅㄨㄊ](syllables/ㄅㄨㄊ.md)

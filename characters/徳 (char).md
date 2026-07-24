@@ -47,6 +47,7 @@ boundedness:
 - <ruby>[[徳沢]]<rt>ㄊㄨㄎㄉㄚㄎ</rt></ruby> "grace, beneficence"
 
 ## Notes
+- abbreviation for <ruby>[[徳素]]<rt>ㄊㄨㄎㄙㄛ</rt></ruby> "germanium" in periodic-table formulae — see [[Periodic Table]]
 [[Lookup/CC/initials/聲 端]]
 [[Lookup/CC/finals/韻 德開]]
 - Components: [[彳]], [[十]], [[罒]], [[心]]

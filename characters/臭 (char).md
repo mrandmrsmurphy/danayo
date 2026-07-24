@@ -43,6 +43,7 @@ boundedness: 100
 ```
 
 # Notes
+- abbreviation for <ruby>[[臭素]]<rt>ㄑㄨㄙㄛ</rt></ruby> "bromine" in periodic-table formulae — see [[Periodic Table]]
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 尤]]
 

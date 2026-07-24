@@ -41,6 +41,7 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for <ruby>[[狼金]]<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby> "tungsten" in periodic-table formulae — see [[Periodic Table]]
 - 形声 (OC \*raːŋ): semantic [[Radical 094|犬]] ("dog") + phonetic [[良]] (OC \*raŋ) — a wolf, wild canine.
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1434th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄌㄚㄫ](../syllables/ㄌㄚㄫ.md)

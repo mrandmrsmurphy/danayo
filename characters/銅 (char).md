@@ -44,6 +44,7 @@ boundedness: 75
 ```
 
 ## Notes
+- the element word 銅 itself doubles as the periodic table abbreviation for "copper" — see [[Periodic Table]]
 - Components: [[釒]], [[同]]
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 東一]]

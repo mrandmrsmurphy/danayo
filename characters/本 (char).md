@@ -48,6 +48,7 @@ boundedness: 45
 [[nav/char_info]]
 ```
 ## Notes
+- abbreviation for <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> "nihonium" in periodic-table formulae — see [[Periodic Table]]
 - [List of 指事](../lookup/List%20of%20指事.md): a horizontal stroke added at the base of [[木]] ("tree"), marking the root; "origin, foundation."
 - [SKIP-4-5-3](../lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 302nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄅㄛㄋ](../syllables/ㄅㄛㄋ.md)

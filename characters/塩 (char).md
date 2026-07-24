@@ -44,6 +44,7 @@ boundedness: 75
 ```
 
 # Notes
+- abbreviation for <ruby>[[塩素]]<rt>⼶ㄇㄙㄛ</rt></ruby> "chlorine" in periodic-table formulae — see [[Periodic Table]]
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 鹽A三]]
 
