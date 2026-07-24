@@ -621,3 +621,73 @@ Next never-perfected character by `danayo_id` (180). Stamped `date-last-perfect:
 **Chengyu cross-check** (3 total): 2 already present (流言飛語, 落花流水); 1 missing — 乳蜜流地 ("a land flowing with milk and honey") — added from stored fields.
 
 **Derived Characters**: no hits (`graphemic_classification: 流` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 79 — [[characters/馬 (char)|馬]]
+
+Next never-perfected character by `danayo_id` (182; 181/[[characters/病|病]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-23`. Page already had a real, detailed, correctly-sourced 象形 bullet (horse depiction, bronze-script head simplification to 目, legs to 灬) — left as-is, no etymology issue found this time.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/馬.md` (the `stand_in` word itself). `mc_id: 145` verified against `CC 0000.md`.
+
+**Content removed**: none.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; no `## Words` heading existed — all Words-style entries sat directly under Notes; three entries (馬上, 馬脚, 馬蹄) were bare with no ruby; no `## Derived Characters` section existed despite real ground-truth hits.
+
+**Words cross-check** (16 total ground-truth hits): 5 already present (2 ruby'd; 3 bare, reformatted); 11 missing — the stand-in 馬 itself, 乗馬, 俊馬, 河馬, 海馬, 羅馬, 馬厩, 馬𡿺, 羅馬字, 羅馬語, 馬来西亜 — added, all from stored fields. **Checked the three initially-bare readings (馬上, 馬脚, 馬蹄) before writing them in**, continuing the standing verify-before-stamping discipline from recent iterations.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 馬`): [[碼 (char)|碼]] ("yard"), [[媽]] ("maidservant"), [[罵]] ("to abuse; to scold") — added. Filename collision found on 碼 — linked with pipe-alias; 媽/罵 had no collision.
+
+### 2026-07-23, iteration 80 — [[characters/庭|庭]]
+
+Next never-perfected character by `danayo_id` (183). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 廷` checked out as correct — verified via Wiktionary (semantic [[Radical 053|广]] "shelter, building" + phonetic 廷, OC \*l'eːŋ), matching `radical: 广`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 992` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 广 + phonetic [[廷]] — a courtyard, the enclosed space of a building.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links — no graphemic/SKIP/MC/Levels bullets, no `## Words` section at all, despite three real ground-truth words.
+
+**Words cross-check** (3 total ground-truth hits): none previously listed. The `stand_in` compound 中庭 itself had no stored `注音` field at all — derived it compositionally from its two constituent characters' own stored readings (中 = ㄐㄨㄫ, 庭 = ㄉㄝㄫ → ㄐㄨㄫㄉㄝㄫ), cross-checked against the word's own `羅馬字`/`諺文` fields ("jungdeng"/중덩), which matched exactly, before using it — same reconstruction method used for `words/中学校.md` back in iteration 1. 家庭 and 庭園 both already had real stored readings, added directly.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 庭` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 81 — [[characters/高 (char)|高]]
+
+Next never-perfected character by `danayo_id` (184) — the same file the periodic-table abbreviation task added a Gallium note to earlier this session; that note is preserved as its own trailing Notes bullet per the standing element-abbreviation rule. Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 象形` checked out as correct — verified via Wiktionary (a pictograph of a tall building, compare 京, a similar tower pictograph that isn't itself a Kangxi radical).
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the stored `pos: 性詞` on `words/高.md` (the `stand_in` word itself). `mc_id: 150` verified against `CC 0000.md`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 象形], depicts a tall building.
+
+**Body defects found**: no `## Notes`/`## Words` headings existed at all — the abbreviation note and two Words-style entries sat directly under the meta-bind-embed with no structure; no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; 高考 was bare with no ruby.
+
+**Words cross-check** (16 total ground-truth hits): 10 already present (9 ruby'd; 高考 bare, reformatted); 6 missing — the stand-in 高 itself, 崇高, 高人, 高素, 高綿, 高興 — added, all from stored fields. **Checked 高考's initially-bare reading before writing it in**, continuing the verify-before-stamping discipline from recent iterations.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (8 hits via `graphemic_classification: 高` — tied with [[characters/重 (char)|重]] for the largest family this loop): [[敲 (char)|敲]] ("to knock"), [[毫 (char)|毫]] ("fine hair; milli-"), [[稿 (char)|稿]] ("manuscript"), [[喬]] ("tall; lofty"), [[縞]] ("stripe"), [[膏]] ("grease; oil"), [[鎬]] ("stove"), [[豪]] ("magnificent; bold") — all added. Filename collisions found on 敲/毫/稿 — linked with pipe-aliases; the other four had no collision.
+
+### 2026-07-23, iteration 82 — [[characters/夏 (char)|夏]]
+
+Next never-perfected character by `danayo_id` (185). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 會意` checked out as correct, though the etymology itself is genuinely uncertain by scholarly consensus — verified via Wiktionary: possibly 日 ("sun") + 頁 ("head; man," "a man under the scorching sun"), but the identification is shaky since the oracle-bone form of 夏 only occurs as a diviner's name, not in its later "summer" sense. Later forms added 止 ("foot," which explains the modern character's assigned Kangxi radical, [[Radical 035|夊]], a foot-related radical unconnected to either of the two main components) or swapped 日 for 𦥑 ("two hands") before the modern glyph settled on neither variant. Wrote the bullet noting the uncertainty explicitly rather than presenting a debated etymology as settled fact.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 209` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意 (debated), see etymology above.
+
+**Body defects found**: no `## Notes` heading existed at all; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 夏至 was bare with no ruby; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (4 total ground-truth hits): 1 already present (夏至, bare, reformatted after checking its stored `注音`); 3 missing — the stand-in 夏 itself, 仲夏, 孟夏, 季夏 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 春夏秋冬 — the same chengyu already added to [[characters/春 (char)|春]] and [[characters/海|海]] earlier this loop, now also linked from its constituent character 夏.
+
+**Derived Characters** (1 hit via `graphemic_classification: 夏`): [[廈]] ("building; mansion") — added, no filename collision.
