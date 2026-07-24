@@ -1,3 +1,43 @@
+### 2026-07-24, iteration 200 — [[characters/島 (char)|島]]
+
+Next never-perfected character by `danayo_id` (2077). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 鳥` already correct — verified via Wiktionary: 形声, phonetic 鳥 (OC \*tɯːwʔ) + semantic 山 ("mountain") — "island."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞` (the stand-in word 島.md itself has no `pos` field; "island" is unambiguously a noun).
+
+**Content removed**: a broken non-canonical relative path (`../words/島屿`), corrected to a proper wikilink.
+
+**Graphemic bullet written from scratch**: 形声: phonetic [[鳥 (char)|鳥]] (OC \*tɯːwʔ) + semantic [[Radical 046|山]] ("mountain") — "island."
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (島) was missing entirely; `mc_id: 4188` falls beyond the vault's mirrored ~4000-entry CC range, so it's trusted as-is per standing policy rather than left unverified without comment.
+
+**Words cross-check** (7 total ground-truth hits, including a discovered quoted-scalar self-citation from 島.md's own `characters: "島 (char)"` field): 1 already present (島屿, fixed link); 6 missing — 島 (stand-in, added with annotation), 関島, 半島, 列島, 火山島, 群島 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 鳥`): [[鵰 (char)|鵰]] ("eagle; vulture") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 199 — [[characters/岩|岩]]
+
+Next never-perfected character by `danayo_id` (2076). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `象形`, but Wiktionary classifies 岩 as 會意 — [[Radical 046|山]] ("hill") + [[石 (char)|石]] ("rock") — a rocky cliff or stone formation; the page's own pre-existing prose bullet had already correctly identified these two components, it just wasn't reflected in the field. Corrected to `會意`.
+
+**Frontmatter**: already correct (`pos: 名詞`). `mc_id: 5025` is beyond the vault's mirrored ~4000-entry CC range — trusted as-is per standing policy, explicitly noted in the MC-rank bullet rather than silently verified against a nonexistent lookup line.
+
+**Content removed**: none.
+
+**Graphemic bullet rewritten**: [List of 会意](lookup/List%20of%20会意.md): [[Radical 046|山]] ("hill") + [[石 (char)|石]] ("rock") — a rocky cliff or stone formation. Originally written 巖, a 形声 compound (Han dynasty); the simplified 岩 first appeared in clerical script and became the standard form.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only a bare-linked components note with no classification or gloss; two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` section existed at all despite three real ground-truth hits.
+
+**Words cross-check** (3 total ground-truth hits): all 3 missing — 岩石 (stand-in, added with annotation), 玄武岩, 溶岩 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 岩`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 198 — [[characters/展|展]]
 
 Next never-perfected character by `danayo_id` (2075 — 2074 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, but Wiktionary classifies 展 as 形声 — semantic [[Radical 044|尸]] ("corpse; body") + an abbreviated phonetic 𧝑 (variant 𧝣), "fine red silk clothes" (one of the six garments worn by the queen in the Rites of Zhou) carrying connotations of "opening, extending" — corrected the field to `𧝑`, an obscure CJK Extension B character with no vault page, following the checklist rule to store the actual phonetic component regardless of whether it can be linked.
