@@ -15,7 +15,7 @@ stroke_count: 11
 radical: 力
 skip_number: 1-9-2
 grade_level: "1"
-pos: ""
+pos: 事詞
 english:
   - move
 羅馬字: dong
@@ -37,6 +37,7 @@ aliases:
   - 恸
   - 𢣛
 注音: ㄉㄛㄫ
+date-last-perfect: 2026-07-24
 kwin: true
 tags:
   - character
@@ -49,7 +50,14 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
+## Notes
+- 形声 (OC \*doːŋʔ): semantic [[Radical 019|力]] ("strength") + phonetic [[重 (char)|重]] (OC \*doŋ, \*doŋʔ, \*doŋs) — a reference to a heavy bag ready to be moved by a person; to move.
+- [SKIP-1-9-2](lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
+- 338th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](syllables/ㄉㄛㄫ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[動]]<rt>ㄉㄛㄫ</rt></ruby> "to move" (stand-in for 動)
 - <ruby>[[活動]]<rt>ㄏ⺢ㄊㄉㄛㄫ</rt></ruby> "move, engage in activity"
 - <ruby>[[蠢動]]<rt>ㄑㄨㄋㄉㄛㄫ</rt></ruby> "to wriggle; to stir up trouble"
 - <ruby>[[運動]]<rt>ㄨㄋㄉㄛㄫ</rt></ruby> "exercise; movement; campaign"
@@ -59,7 +67,10 @@ boundedness: 90
 - <ruby>[[振動音]]<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill"
 - <ruby>[[変動]]<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby> "change, fluctuation"
 - <ruby>[[受動]]<rt>ㄙ⼜ㄉㄛㄫ</rt></ruby> "passive (voice); receptive"
-
-# Notes
-[[Lookup/CC/initials/聲 定]]
-[[Lookup/CC/finals/韻 東一]]
+- <ruby>[[労動]]<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby> "labor; toil"
+- <ruby>[[動物]]<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> "animal"
+- <ruby>[[動詞]]<rt>ㄉㄛㄫㄙㄚ</rt></ruby> "verb"
+- <ruby>[[流動]]<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby> "flow; spread; circulate"
+- <ruby>[[他動詞]]<rt>ㄊㄚㄉㄛㄫㄙㄚ</rt></ruby> "transitive verb"
+- <ruby>[[自動詞]]<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby> "intransitive verb"
+- <ruby>[[自動車]]<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby> "automobile"

@@ -849,3 +849,73 @@ Next never-perfected character by `danayo_id` (197; 196/[[characters/黒 (char)|
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters**: no hits (`graphemic_classification: 雪` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 92 — [[characters/第 (char)|第]]
+
+Next never-perfected character by `danayo_id` (198). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 弟` checked out as correct — verified via Wiktionary (semantic [[Radical 118|竹]] "bamboo, referring to bamboo strips used for writing/accounting" + phonetic 弟, OC \*diːls; the character may originally simply have been written 弟), matching `radical: 竹`.
+
+**Frontmatter**: `pos: ""` → `数詞`, matching the stored `pos: 数詞` on `words/第八.md` (an ordinal compound of the character itself).
+
+**Content removed**: none. **Non-canonical "### Links" section preserved, not discarded**: found a `![[nav/Numerals]]` embed under a stray `### Links` heading — checked and confirmed this is a deliberate, consistent cross-linking convention shared across *every* numeral character page in the vault (一/二/三/四/五/六/七/八/九/十/零/万), always placed as its own `## Links` section at the very end of the page (confirmed against the already-perfected `characters/一 (char).md`) — moved to match that exact placement/heading level rather than removed.
+
+**Graphemic bullet written from scratch**: 形声, semantic 竹 + phonetic [[弟 (char)|弟]] — sequential order; the ordinal marker "-th."
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (7 total ground-truth hits): 2 already present and correctly ruby'd (及第, 第八); 5 missing — the stand-in 第 itself, 次第, 第一, 第二, 第三 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 第` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 93 — [[characters/動 (char)|動]]
+
+Next never-perfected character by `danayo_id` (199) — already cited as a Derived Character on [[characters/重 (char)|重]] back in iteration 58, now perfected in full. `graphemic_classification: 重` checked out as correct — verified via Wiktionary (semantic [[Radical 019|力]] "strength" + phonetic 重, OC \*doŋ — described as "a heavy bag ready to be moved by a person"), matching `radical: 力`. Stamped `date-last-perfect: 2026-07-24`.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the character's own verbal gloss ("move"). **Caught the joyo_level mapping before writing the Levels bullet this time**: `joyo_level: "4"` maps to `[[Jōyō - Kyōiku]]`, not `[[Jōyō - Kōtō]]` (only the literal string `高等` maps to Kōtō) — same rule already self-corrected on [[characters/重 (char)|重]]/[[characters/度|度]] back in iteration 60; got it right on the first pass this time. `mc_id: 338` verified against `CC 0000.md`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 力 + phonetic [[重 (char)|重]] — see etymology above.
+
+**Body defects found**: `## Words` sat before a separately-headed `# Notes` (wrong heading level, holding only two floating CC-initial/final links) — no graphemic/SKIP/MC/Levels bullets existed at all.
+
+**Words cross-check** (17 total ground-truth hits): 9 already present and correctly ruby'd; 8 missing — the stand-in 動 itself, 労動, 動物, 動詞, 流動, 他動詞, 自動詞, 自動車 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 動` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 94 — [[characters/習|習]]
+
+Next never-perfected character by `danayo_id` (200). Stamped `date-last-perfect: 2026-07-24`. **Another "field cites the modern surface component, not the true etymology" case, same shape as [[characters/前 (char)|前]]'s 歬**: `graphemic_classification: 白` looked like it contradicted the page's own pre-existing 会意 bullet (羽 "wings" + 日 "sun," "learning to fly"), which makes no mention of 白 at all. Verified via Wiktionary that both are correct at different points in the glyph's history: the *original* 会意 form is genuinely 羽+日, but in the *modern* glyph 日 has visually transformed into 白 — so the frontmatter field's citation of 白 is a legitimate reference to today's surface component, not an error to "fix" back to 日. Left the field as-is and expanded the bullet to explain the 日→白 evolution explicitly, linking 白 to its own Radical page ([[Radical 106|白]]) since it is a genuine Kangxi radical.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/練習.md` (the `stand_in` compound itself). `mc_id: 828` verified against `CC 0000.md`. **Caught after initially drafting the log without checking**: same slip as [[characters/記|記]] two iterations ago — wrote the entry assuming the field was fine before re-grepping the file directly and finding it still blank; corrected before finalizing.
+
+**Content removed**: none.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; two Words entries (補習, 予習) were bare with no ruby.
+
+**Words cross-check** (7 total ground-truth hits): 6 already present (4 ruby'd; 2 bare, reformatted); 1 missing — 習俗 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 習`): [[霫]] ("heavy rain") — added, no filename collision.
+
+### 2026-07-24, iteration 95 — [[characters/問|問]]
+
+Next never-perfected character by `danayo_id` (201). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 門` checked out as correct — verified via Wiktionary (semantic [[Radical 030|口]] "mouth" + phonetic [[Radical 169|門]] "gate," OC \*mɯːn; genuinely an exoactive derivation of [[聞 (char)|聞]] "to hear," literally "let me hear") — the same phonetic pairing already confirmed from the opposite direction back in iteration 45, where 門's own Derived Characters check found 問 as an exact MC match.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/質問.md` (the `stand_in` compound itself). `mc_id: 161` verified against `CC 0000.md`. **Verified both fixes actually landed in the file before logging this entry** — direct follow-up grep of `pos:`/`date-last-perfect:` — a deliberate check after the same field slipping through unfixed on the last two iterations ([[characters/記|記]], [[characters/習|習]]).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (⿵門口), semantic 口 + phonetic 門 — see etymology above.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in.
+
+**Words cross-check** (7 total ground-truth hits): 4 already present and correctly ruby'd (問題, 学問, 詰問, 拷問); 3 missing — the stand-in 質問 itself, 査問, 訪問 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 問` matches no other character) — section correctly omitted.
