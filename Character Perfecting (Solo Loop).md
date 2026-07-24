@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 238 — [[characters/方|方]]
+
+Next never-perfected character by `danayo_id` (2121). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` kept as-is: Wiktionary offers no firm classification for 方, describing it only as possibly the original character of 旁 (OC \*baːŋ, "side"), with a form related to 巫 — 方 "lacks the indicator symbol on one end and is elongated to denote 'side.'" Since no clear alternative classification is given and the vault's pre-existing choice isn't contradicted, kept `象形` and documented the genuine uncertainty in the bullet (the same treatment as the earlier 害/再/平 iterations).
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 130` verified against `CC 0000.md`).
+
+**Content removed**: a malformed "### Derived Characters" subsection using markdown-style links with no gloss, folded into a proper `## Derived Characters` section alongside the many further ground-truth hits found; a floating CC-initial/final pair sitting at the very end of the Words list with no MC-rank bullet.
+
+**Graphemic bullet written from scratch**: documents the genuine etymological uncertainty per Wiktionary, plus adds the missing SKIP/Stroke/MC-rank/Levels bullets in canonical form.
+
+**Body defects found**: `## Notes` held only the malformed Derived Characters fragment; several Words entries (方針, 東方, 方程式, 西方, 遠方, 方法, 南方, 北方, 方面, 方舟) were bare `[[link]]` with no ruby; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (19 total ground-truth hits — one of the largest word families surfaced in this loop): 8 already present with ruby (方向 stand-in, 地方, 五方, 平方, 方便, 方位, 漢方 — plus 10 bare entries reformatted with ruby/gloss from stored fields); 2 missing — 方響, 方言 — added from stored fields. (方言's own stored 注音 begins with ㄆ, not ㄈ like every other word on this page — cited verbatim as stored, not silently corrected, per the no-fabrication policy; flagged here as a possible pre-existing data inconsistency on 方言's own page, out of scope for this iteration.)
+
+**Chengyu cross-check** (1 total): 天圓地方 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (11 hits via `graphemic_classification: 方` — the largest family surfaced in this loop, spanning two readings 方=ㄈㄚㄫ and its 旁-cluster =ㄅㄚㄫ): [[房 (char)|房]] ("room"), [[妨]] ("to hinder"), [[彷]] ("to resemble"), [[芳]] ("fragrant; beautiful"), [[坊]] ("workshop"), [[訪]] ("to visit; ask; inquire"), [[肪 (char)|肪]] ("fat; obese"), [[旁]] ("right part of a character"), [[紡 (char)|紡]] ("to spin (yarn)"), [[防]] ("to prevent"), [[放]] ("to release") — all added (the pre-existing malformed fragment's 4 entries — 彷/坊/妨/放 — folded in and reformatted alongside the rest).
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 237 — [[characters/料|料]]
+
+Next never-perfected character by `danayo_id` (2120). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 米 ("rice") + 斗 ("dipper") — a dipper used to measure grain, "to measure, to gauge."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/材料|材料]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): [[米 (char)|米]] ("rice") + [[Radical 068|斗]] ("dipper") — a dipper used to measure grain; "to measure, to gauge," extended to "material, stuff."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (材料) was missing entirely.
+
+**Words cross-check** (4 total ground-truth hits): 1 already present (料槽); 3 missing — 材料 (stand-in, added with annotation), 塑料, 化学肥料 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 料`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 236 — [[characters/散|散]]
+
+Next never-perfected character by `danayo_id` (2119). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct, but the page's own pre-existing bullet directly contradicted it — describing a 形声 structure (semantic 肉 + phonetic 𢽳, itself with an empty OC gloss) instead. Verified via Wiktionary that 散 genuinely has a dual etymology: the oracle-bone original 㪔 is 會意 (林 "trees" + 攴 "to knock," to clear vegetation), while the Shuowen separately reads the modern glyph as 形声 (semantic 肉 + phonetic 𢽳, an obscure component with no vault page). Since this character's own `radical:` field (`攴`) matches the ancient 會意 form's own component directly, kept the field at `會意` and rewrote the bullet to match, noting the Shuowen alternative for completeness.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `実詞`, matching the stand-in word [[words/散布|散布]]'s own stored `pos`.
+
+**Content removed**: none of substance — the "neologism: 散氷 for hail/sleet" note was kept as a Notes bullet rather than dropped.
+
+**Graphemic bullet rewritten**: [List of 会意](lookup/List%20of%20会意.md) (OC \*saːnʔ, \*saːns): the oracle-bone original form 㪔 is 会意 — [[林 (char)|林]] ("trees, forest") + [[Radical 066|攴]] ("to knock, tap") — to clear vegetation, to kill; extended via bamboo's tendency to break apart to "to disperse, scatter." (The Shuowen instead reads the modern glyph as 形声: semantic 肉 + phonetic 𢽳.)
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (散布) was missing entirely.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (散歩, 拡散); 1 missing — 散布 (stand-in, added with annotation) — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 散`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 235 — [[characters/敗|敗]]
+
+Next never-perfected character by `danayo_id` (2118). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 貝` already correct — verified via Wiktionary: 形声, phonetic 貝 + semantic 攴/攵 ("strike") — "to lose, to be defeated; to fail."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/失敗|失敗]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*praːds, \*braːds): phonetic [[貝]] (OC \*paːds) + semantic [[Radical 066|攴]] ("strike") — "to lose, to be defeated; to fail, to destroy." This character's own `radical:` field is `攴`, matching the semantic component directly (the same pattern as the recent 政/故/救 iterations) — gets the Radical-page link, while [[貝]] (the phonetic, has its own page) gets a direct character-page link.
+
+**Body defects found**: `## Notes` held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (失敗) had no annotation; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (2 total ground-truth hits): both already present (失敗 — annotation added, 腐敗), no missing entries.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (4 hits via `graphemic_classification: 貝`): [[鎖 (char)|鎖]] ("chain"), [[狽]] ("werewolf"), [[貿]] ("trade; commerce"), [[唄 (char)|唄]] ("ugh") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 234 — [[characters/救|救]]
 
 Next never-perfected character by `danayo_id` (2117). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 求` already correct — verified via Wiktionary: 形声, phonetic 求 + semantic 攴 — "to save, rescue."
