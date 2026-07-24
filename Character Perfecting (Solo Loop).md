@@ -1,55 +1,3 @@
-### 2026-07-22, iteration 48 — [[characters/知 (char)|知]]
-
-Next never-perfected character by `danayo_id` (146; 145 already stamped on inspection). Stamped `date-last-perfect: 2026-07-22`. Already flagged as unperfected as far back as [[Word Perfecting.md]] iteration 7 ("bare '矢, 口' Notes fragment") — that stray fragment was still sitting there unresolved.
-
-**Real etymology correction**: `graphemic_classification: 矢` asserted 形声 with phonetic 矢, but the classical Shuowen entry for 知 reads "从口从矢" — both components stated as meaning-contributing (会意), with no phonetic relationship claimed at all. The page's own leftover "矢, 口" fragment (a bare component list, not a real bullet) was itself evidence pointing the same direction — someone had already identified both components as relevant, just never finished writing the analysis. Corrected the field to `會意` and wrote the bullet: an arrow's swiftness/directness + mouth/speech — words spoken as unerringly as an arrow flies, "to know." Linked 矢 to its Radical page (`[[Radical 111|矢]]`, since 知's own `radical:` field is 矢).
-
-**Content removed**: the stray "矢, 口" component-list fragment (superseded by the real bullet) and an empty bullet (`- ` with nothing after it).
-
-**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; several Words entries were bare `[[link]]` with no ruby/gloss.
-
-**Words cross-check** (8 total ground-truth hits): 7 already listed (reformatted); 1 missing — the stand-in 知 itself — added.
-
-**Chengyu**: 温故知新 already present and correctly formatted, no changes needed.
-
-**Derived Characters** (3 hits via `graphemic_classification: 知`): 智 ("wisdom," transparently 知+日), 蜘 ("spider," as in 蜘蛛), 痴 ("stupid; foolish") — all standard, well-attested 知-phonetic derivatives, added.
-
-**Incidental fix**: `words/知性.md`'s `english` field had a typo, "knowledgable" → "knowledgeable."
-
-### 2026-07-22, iteration 49 — [[characters/夜 (char)|夜]]
-
-Next never-perfected character by `danayo_id` (147). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already correct (`pos: 名詞`, `graphemic_classification: 亦` — verified before writing the bullet: 亦's own stored MC, `j`+`iᴇk`, shares 夜's own initial `j` with a divergent entering-tone final, exactly matching Shuowen's explicit "亦省聲" — an abbreviated phonetic, not a full-syllable match — so the field is correct, not another false phonetic like earlier iterations).
-
-**Content removed**: none.
-
-**Graphemic bullet written from scratch**: 形声, semantic [[Radical 036|夕]] ("evening") + phonetic [[亦 (char)|亦]] (abbreviated) — the time after evening, "night."
-
-**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links plus three Words-style entries — no `## Words` heading, no SKIP/Stroke/MC/Levels bullets.
-
-**Words cross-check** (6 total ground-truth hits): 3 already listed (reformatted); 3 missing — the stand-in 夜 itself, 今夜, 今夜安 — added, all from stored fields.
-
-**Chengyu built from scratch** (1 hit): 雲昼火夜 (Bible-origin), ruby/gloss from stored fields.
-
-**Derived Characters** (1 hit via `graphemic_classification: 夜`): 液 ("fluid; sap" — semantic 氵ᐩphonetic 夜, a standard pairing), added.
-
-### 2026-07-22, iteration 50 — [[characters/注|注]]
-
-Next never-perfected character by `danayo_id` (148). Stamped `date-last-perfect: 2026-07-22`. **50th iteration milestone for this loop.**
-
-**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 主` — already independently confirmed in [[Loop Work.md]] iteration 19, where 主's own Derived Characters check found 注 as an exact MC match; re-verified here directly against 主's own stored fields, `t͡ɕ`+`ɨo`, identical to 注's own — a clean, confirmed phonetic pair).
-
-**Content removed**: a stray "水,主" component-list fragment, superseded by the real bullet.
-
-**Graphemic bullet written from scratch**: 形声, semantic [[Radical 085|水]] ("water") + phonetic [[主]] — to pour, to concentrate liquid into a place.
-
-**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no `## Words` heading existed (the two present entries sat directly under Notes).
-
-**Words cross-check** (5 total ground-truth hits): 2 already listed (注音, 転注); 3 missing — the `stand_in` compound 注入 itself, 注意 (whose own vowel-hiatus-marked reading, ju'ǝ, was already resolved and documented back in [[Word Perfecting.md]] iteration 9), 注音符号 — added, all from stored fields. No chengyu hits, no `graphemic_classification: 注` hits.
-
-**Loop status**: 50 iterations completed, one full skip ([[characters/両 (char)|両]]), one left unstamped pending a missing word ([[characters/声|声]]).
-
 ### 2026-07-22, iteration 51 — [[characters/彼 (char)|彼]]
 
 Next never-perfected character by `danayo_id` (149). Stamped `date-last-perfect: 2026-07-22`. Another full correlative-row family (此/其/彼/何/毎/某/皆 × 事/物/名/処/時/様/多/類/人), same recurring pattern as [[characters/多 (char)|多]], [[characters/何 (char)|何]], and [[characters/事 (char)|事]] earlier this loop.
@@ -1516,7 +1464,65 @@ Next never-perfected character by `danayo_id` (244). Stamped `date-last-perfect:
 
 **Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
 
-**Interleaved correction (2026-07-24, user-directed): 知's component-linking convention refined.** The user flagged [[characters/知 (char)|知]]'s graphemic bullet (口 left unlinked entirely, from iteration 48 early in this loop) and, after an initial fix linking 口 to its Radical page (030), clarified the real intended rule: **only the component matching the character's own `radical:` frontmatter field gets a `[[Radical NNN|X]]` link** — any other component links to its own character page (`[[X (char)|X]]` or `[[X]]`) when one exists, even if that component happens to be a genuine Kangxi radical for *other* characters. Fixed 知's bullet accordingly (矢 → Radical 111 since that's 知's own assigned radical; 口 → `[[口 (char)|口]]`, its own character page). This refines, not replaces, the "radical components get Radical-page links" rule from `checklist_characters.md` — going forward, apply it per-character based on each character's own `radical:` field, not a blanket rule for every generically-radical component. Not retroactively auditing every prior iteration's bullets for this distinction unless asked, but applying it correctly from this point on.
+### 2026-07-24, iteration 135 — [[characters/頭 (char)|頭]]
+
+Next never-perfected character by `danayo_id` (248; 249/[[characters/薬 (char)|薬]] and 250/[[characters/顔|顔]] already stamped, skipped; 251/252 have no assigned character). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 豆` checked out as correct — verified via Wiktionary (semantic [[Radical 181|頁]] "head" + phonetic [[豆 (char)|豆]], OC \*doːs — 頭 replaced the earlier word 首 due to homophony with 手 "hand" in Middle Chinese), matching the page's own pre-existing bullet exactly. Applied the refined component-linking rule from earlier today: swapped the bullet's own semantic/phonetic *display order* to match convention (頁 first as semantic) without changing which link target was correct.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 680` verified against `CC 0000.md`).
+
+**Content removed**: a malformed `- ## Chengyu` line (dash prefix accidentally glued onto a heading).
+
+**Graphemic bullet fixed**: reformatted the existing correct citation into the standard prose format and fixed all non-canonical relative paths (`../lookup/...`, `豆%20(char).md`, `Radical%20181`) to the canonical wikilink/root-relative style used elsewhere in this vault's character pages.
+
+**Body defects found**: `## Chengyu` sat before `## Words` (wrong order) and used a malformed heading; SKIP/Stroke/MC/Levels bullets existed but were merged/reordered non-canonically (Levels before SKIP/Stroke, syllable link dash-tacked onto the SKIP/Stroke bullet instead of its own MC-rank bullet); one Chengyu entry (澈頭澈尾) was cited via its own alias name (徹頭徹尾) as a plain Markdown link instead of the real filename as a ruby'd wikilink — confirmed 徹頭徹尾 is a genuine listed alias of `chengyu/澈頭澈尾.md` before fixing, not a typo; 14 Words entries were bare with no ruby.
+
+**Words cross-check** (18 total ground-truth hits): 17 already present (3 ruby'd; 14 bare, reformatted) — every real compound in the vault citing 頭 was already on the page, just missing structure; 1 missing — the stand-in 頭 itself — added.
+
+**Chengyu cross-check** (5 total): 4 already present (3 ruby'd; 1 via the alias-name plain-link, fixed); 1 missing — 白頭偕老 ("till death do us part") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 頭` matches no other character) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 136 — [[characters/久 (char)|久]]
+
+**The `danayo_id` sequence jumps from 250 straight to 2001+** (a natural boundary in this vault's numbering scheme — the low range corresponds to one curriculum tier, the 2000s begin the next). Next never-perfected character by `danayo_id` is now 2002 (2001/[[characters/不 (char)|不]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` checked out as correct, though genuinely uncertain — verified via Wiktionary: "likely a pictogram of an arrow tip," with the exact visual relationship to the modern form not obvious even to Wiktionary's own sources. Wrote the bullet noting the uncertainty rather than presenting it as settled.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the character's own temporal-adjective gloss ("long time (ago)"). `mc_id: 411` verified against `CC 0000.md`. Confirmed `skip_number: 4-3-1`'s second digit matches `stroke_count: 3` (the SKIP-4 self-consistency check from `AIOS/projects.md`'s corpus-wide sweep) — no error here.
+
+**Content removed**: none (one plain-Markdown-link Words entry, 久闊, was converted to a wikilink, not deleted).
+
+**Graphemic bullet written from scratch**: [List of 象形], likely an arrow tip, uncertain visual relationship to the modern form.
+
+**Body defects found**: `## Notes` was empty; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Derived Characters` section existed despite real ground-truth hits.
+
+**Words cross-check** (5 total ground-truth hits): 2 already present (1 ruby'd via plain Markdown link, converted; 1 already correctly ruby'd); 3 missing — the stand-in 久 itself, 恒久, 永久 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total): already present and correctly formatted (天長地久) — no changes needed.
+
+**Derived Characters** (2 hits via `graphemic_classification: 久`): [[灸]] ("moxibustion") and [[玖]] ("jade; seven") — added, neither had a filename collision.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 137 — [[characters/乎 (char)|乎]]
+
+Next never-perfected character by `danayo_id` (2003). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` checked out as plausible under a genuinely dual/debated classification — Wiktionary describes 乎 as both 會意 (semantic "wind; air") and 形聲 (phonetic 丂, OC \*kʰluːʔ), and notes it is the *original form* of 呼 ("to call; to cry"), later differentiated from it — same "dual classification, present both readings" treatment as [[characters/電|電]]/[[characters/農|農]] earlier this loop.
+
+**Frontmatter**: already correct (`pos: 感詞`, `mc_id: 69` verified against `CC 0000.md`). Confirmed `skip_number: 4-5-3`'s second digit matches `stroke_count: 5` — already fixed in a prior session's SKIP-4 corpus sweep per `AIOS/projects.md`, no new issue.
+
+**Content removed**: a non-canonical `### Derived characters` H3 subsection (promoted to the standard `## Derived Characters` H2, not discarded).
+
+**Graphemic bullet expanded**: kept the existing correct citation (丂, "original form of 呼"), added the OC values and the dual 会意/形声 framing.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; the sole Words entry (不亦V乎) was written as prose ("To make rhetorical questions, use...") instead of a proper ruby+gloss entry; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (2 total ground-truth hits): 1 already present (prose-style, reformatted); 1 missing — the stand-in 乎 itself — added.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 豹斑改乎 ("can a leopard change his spots?") — added from stored fields.
+
+**Derived Characters** (1 hit via `graphemic_classification: 乎`): [[呼 (char)|呼]] ("to call; shout; exhale") — already informally noted, now properly ruby'd. Filename collision found — linked with pipe-alias.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page (including the `characters/` folder, since the Derived Characters entry references another character page) — 0 mismatches found.
 
 ### 2026-07-24, iteration 133 — [[characters/緑 (char)|緑]]
 
@@ -1535,5 +1541,27 @@ Next never-perfected character by `danayo_id` (245) — another periodic-table a
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters**: no hits (`graphemic_classification: 緑` matches no other character) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+**Interleaved correction (2026-07-24, user-directed): 知's component-linking convention refined.** The user flagged [[characters/知 (char)|知]]'s graphemic bullet (口 left unlinked entirely, from iteration 48 early in this loop) and, after an initial fix linking 口 to its Radical page (030), clarified the real intended rule: **only the component matching the character's own `radical:` frontmatter field gets a `[[Radical NNN|X]]` link** — any other component links to its own character page (`[[X (char)|X]]` or `[[X]]`) when one exists, even if that component happens to be a genuine Kangxi radical for *other* characters. Fixed 知's bullet accordingly (矢 → Radical 111 since that's 知's own assigned radical; 口 → `[[口 (char)|口]]`, its own character page). This refines, not replaces, the "radical components get Radical-page links" rule from `checklist_characters.md` — going forward, apply it per-character based on each character's own `radical:` field, not a blanket rule for every generically-radical component. Not retroactively auditing every prior iteration's bullets for this distinction unless asked, but applying it correctly from this point on.
+
+### 2026-07-24, iteration 134 — [[characters/橋 (char)|橋]]
+
+Next never-perfected character by `danayo_id` (247; 246/[[characters/談|談]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 喬` checked out as correct — verified via Wiktionary (semantic [[Radical 075|木]] "wood" + phonetic [[喬]], OC \*ɡrew), matching `radical: 木`. 喬 already has its own character page (previously surfaced as a Derived Character of [[characters/高 (char)|高]] back in iteration 81).
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 1825` verified against `CC 1000.md`).
+
+**Content removed**: a bare "[[木 (char)]] + [[喬]]" component-list fragment, superseded by the real bullet.
+
+**Graphemic bullet written from scratch**: 形声, semantic 木 + phonetic 喬 — bridge.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 橋梁 was bare with no ruby.
+
+**Words cross-check** (2 total ground-truth hits): 1 already present (bare, reformatted); 1 missing — the stand-in 橋 itself — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 橋` matches no other character) — section correctly omitted.
 
 **Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
