@@ -2931,3 +2931,39 @@ Twenty-second word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect
 **Missing `(char)`-suffix bug**: `characters:` listed bare `験`, but the actual file is `験 (char).md` — corrected. Added the missing `## Notes` section (previously had none).
 
 No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄝㄫㄝㄇ` unique). **Incidental fix**: reformatted `characters/験 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/経 (char).md`.
+
+### 2026-07-23, iteration 265 — [[words/結束|結束]]
+
+Twenty-third word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Odd all-caps placeholder gloss fixed on the constituent character**: `characters/束 (char).md`'s own `english` field read `BUNDLE` in all-caps — the same anomaly pattern as `条 (char).md`'s "LONG-THIN," fixed earlier this sweep. Corrected to `bundle`.
+
+**A genuine and important cross-linguistic sense divergence found via established domain knowledge and documented, not forced into agreement**: Japanese けっそく and Korean 결속 both keep the literal sense "unity, solidarity, binding together." Mandarin 结束/jiéshù, however, has grammaticalized into a completely different, extremely common everyday word meaning "to end, finish, conclude" (会议结束了 "the meeting has ended") — nothing to do with binding or unity. Rewrote `english` to document both senses. Noted that `vietnamese: kết thúc` tracks the Mandarin "to end" sense rather than the Japanese/Korean sense this word page otherwise documents — the same kind of internal tension found on [[火車]] — left as-is (a real, attested word) but flagged.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`). Reformatted `characters:` to block form; quoted `hsk_level: "1"`; removed blank `swadesh:` and empty `aliases: []`. No homophones (`注音: ㄍㄝㄊㄙ⼄ㄎ` unique). **Incidental fix**: propagated the corrected divergence-aware gloss to both `characters/結 (char).md`'s and `characters/束 (char).md`'s own backlinks (結's side also received a missing entry).
+
+### 2026-07-23, iteration 266 — [[words/結果|結果]]
+
+Twenty-fourth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:` inline array reformatted to block form. Removed blank `swadesh:` and empty `aliases: []`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies — 結's own `stand_in` is bare `結`, 果's own is `果実` (a different word) — 結果 is an independent compound. `kwin: false` already correct per the AND-rule (`characters/結 (char).md` is `false`, `characters/果.md` is `true` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄝㄊㄍ⺢` unique). **Incidental fix**: added a missing `## Words` entry to `characters/果.md` (`characters/結 (char).md`'s own entry already existed).
+
+### 2026-07-23, iteration 267 — [[words/継続|継続]]
+
+Twenty-fifth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — corrupted YAML entry**: `aliases` had a stray closing curly brace embedded in one entry (`'继续}'`) — a clear typo/corruption. Cleaned up to plain `继续`, kept alongside `繼續`.
+
+**Double #cranberry bound-morpheme case documented — the sixth found this sweep**: both `characters/継.md`'s and `characters/続.md`'s own `stand_in` fields point to this word (matching [[精神]]/[[簡単]]/[[研究]]/[[建設]]/[[朋友]]) — neither character stands independently outside this compound. Added the standard note and `#cranberry` tag.
+
+`kwin: false` already correct per the AND-rule (both constituents individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄝㄧㄙ⼄ㄎ` unique). **Incidental fix**: added missing `## Words` entries with stand-in notes to both `characters/継.md` and `characters/続.md` (neither had 継続 listed before).
+
+### 2026-07-23, iteration 268 — [[words/緊張|緊張]]
+
+Twenty-sixth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Stand-in note applied**: `characters/緊.md`'s own `stand_in` field is `緊張` (this word) — added the standard phrasing. (張's own `stand_in` is `拡張`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/緊.md` is `true`, `characters/張.md` is `false` → compound `false`). Added the missing `## Notes` section (previously had none).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄧㄋㄑㄚㄫ` unique). **Incidental fix**: fixed a non-canonical `## Word` (singular) heading to `## Words` on `characters/張.md`, added the stand-in note there; added a missing `## Words` section entirely to `characters/緊.md` (had none).

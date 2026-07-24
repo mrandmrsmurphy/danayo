@@ -21,7 +21,7 @@ skip_number: 4-7-3
 grade_level: "4"
 pos: "量詞"
 english:
-  - BUNDLE
+  - bundle
 羅馬字: syog
 諺文: "쇽"
 joyo_level: "4"
@@ -54,5 +54,5 @@ boundedness: 90
 ## Words
 - <ruby>[[約束]]<rt>⼘ㄎㄙ⼄ㄎ</rt></ruby> "promise"
 - <ruby>[[拘束]]<rt>ㄍㄨㄙ⼄ㄎ</rt></ruby> "constrain, restrain"
-- <ruby>[[結束]]<rt>ㄍㄝㄊㄙ⼄ㄎ</rt></ruby> "bundle together, tie together"
+- <ruby>[[結束]]<rt>ㄍㄝㄊㄙ⼄ㄎ</rt></ruby> "unity, solidarity (Japanese/Korean); to end, conclude (Mandarin)"
 - <ruby>[[束縛]]<rt>ㄙ⼄ㄎㄅㄚㄎ</rt></ruby> "tie, bind"
