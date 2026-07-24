@@ -691,3 +691,91 @@ Next never-perfected character by `danayo_id` (185). Stamped `date-last-perfect:
 **Chengyu cross-check** (1 total, missing, section built from scratch): 春夏秋冬 — the same chengyu already added to [[characters/春 (char)|春]] and [[characters/海|海]] earlier this loop, now also linked from its constituent character 夏.
 
 **Derived Characters** (1 hit via `graphemic_classification: 夏`): [[廈]] ("building; mansion") — added, no filename collision.
+
+### 2026-07-23, iteration 83 — [[characters/起 (char)|起]]
+
+Next never-perfected character by `danayo_id` (186). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 巳` checked out as correct — verified via Wiktionary (semantic [[Radical 156|走]] "to walk; run" + phonetic 巳, OC \*kʰɯʔ), matching `radical: 走`.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the character's own verbal gloss ("rise up") and the stored `pos: 性詞`/`事詞`-class pattern used for its own compounds (起伏/起床/起死 are each stored `性詞`, but the bare verbal root itself follows the same `事詞` convention as [[characters/送 (char)|送]]/[[characters/発 (char)|発]] earlier this loop).
+
+**Content removed**: none (the three Notes-prose entries were relocated, not deleted).
+
+**Graphemic bullet written from scratch**: 形声, semantic 走 + phonetic [[巳]] — to rise, to get up.
+
+**Body defects found**: `# Notes` was the wrong heading level and held the two floating CC-initial/final links plus three Words-style entries (起床, 起伏, 起死) with no ruby — the misplacement itself was the core defect; no SKIP/Stroke/MC/Levels bullets existed; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (4 total ground-truth hits): all 4 were already mentioned somewhere on the page (1 properly in `## Words`, 3 buried unruby'd in the Notes prose) — none missing outright; consolidated all 4 into `## Words` with proper ruby+gloss, plus added the stand-in 起 itself (a fifth entry, since `words/起.md` exists as its own file).
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 起死回生 ("revival from the point of death") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 起` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 84 — [[characters/通 (char)|通]]
+
+Next never-perfected character by `danayo_id` (187). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 甬` checked out as correct — verified via Wiktionary (semantic [[Radical 162|辵]] "walking; motion" + phonetic 甬, OC \*l̥ʰoːŋ), matching `radical: 辵`.
+
+**Frontmatter**: already correct (`pos: 事詞`, `mc_id: 252` verified against `CC 0000.md`).
+
+**Content removed**: none (the Notes-prose entries were relocated, not deleted).
+
+**Graphemic bullet written from scratch**: 形声, semantic 辵 + phonetic [[甬]] — to pass through, to communicate.
+
+**Body defects found**: `## Words` sat before a separately-headed `# Notes` (wrong heading level) holding four more Words-style entries — the split itself was the core defect, same shape as [[characters/思|思]] earlier this loop; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; three entries (通行証, 通行, 通貨, 通過) were bare with no ruby; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (13 total ground-truth hits): 6 already present across the two split sections (2 ruby'd; 4 bare, reformatted); 7 missing — the stand-in 通 itself, 交通, 亨通, 共通, 普通, 通知, 普通話 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 東亜自通 ("East Asian self-communication") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 通` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 85 — [[characters/家|家]]
+
+Next never-perfected character by `danayo_id` (189; 188/[[characters/校|校]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-23`. **Real frontmatter/body contradiction found**: `graphemic_classification: 會意` directly contradicted the page's own pre-existing Notes bullet, which already correctly described a 形声 relationship (semantic 宀 + phonetic 𢑓) — the field and the prose disagreed with each other. Verified via Wiktionary that the bullet's content (not the field) was right: 家's oracle-bone form is genuinely semantic [[Radical 040|宀]] ("roof") + phonetic 𢑓 (xiá, "male pig"); the phonetic later corrupted to 豕 ("pig"), which Shuowen mistook for an abbreviated 豭 ("boar") — Wiktionary flags this as a folk etymology that misses the true original component. Corrected the field from `會意` to `𢑓` to match the real, already-written analysis, and expanded the bullet to explain the corruption chain. 𢑓 has no character page in this vault, cited as a bare `[[𢑓]]`-free plain-text mention (rare/unencodable enough that even a bare wikilink felt like overreach — written as plain text instead, unlike prior iterations' unlinked phonetics such as 灷/囟/癹).
+
+**Frontmatter**: already correct otherwise (`pos: 名詞`, `mc_id: 148` verified against `CC 0000.md`).
+
+**Content removed**: none (家鼠/家具/家蝿 were relocated from a mislabeled `## Chengyu` section into `## Words`, not deleted — same "ordinary words parked under Chengyu" defect as seen on other pages this loop).
+
+**Body defects found**: three genuine Words entries (家鼠, 家具, 家蝿) were sitting under `## Chengyu` instead of `## Words`, alongside the one real chengyu (成家立業, itself using a plain unruby'd Markdown link); no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in.
+
+**Words cross-check** (20 total ground-truth hits): 11 already present (8 properly in Words; 3 misplaced under Chengyu); 9 missing — the `stand_in` compound 家庭 itself, 僧家, 儒家, 家事, 家族, 家畜, 無家, 自家, 大家族 — added, all from stored fields. **Caught one fabrication before stamping**: initially pasted 家庭's ruby as `ㄐㄨㄫㄉㄝㄫ` — actually [[characters/庭|庭]]'s own compositionally-derived reading for 中庭 from two iterations ago, copied into the wrong entry by mistake — cross-checked `words/家庭.md` directly and corrected to its real stored value, `ㄍㄚㄉㄝㄫ`. Also checked 家具's initially-bare reading before writing it in (`ㄍㄚㄍㄨ`) rather than guessing.
+
+**Chengyu cross-check** (4 total): 1 already present (成家立業, plain link converted to wikilink, ruby restored from its own stored field); 3 missing — 家分不立, 引出奴家, 百家共承 — added from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 家`): [[嫁]] ("to give in marriage") and [[稼]] ("sheaves of grain") — added, neither had a filename collision.
+
+### 2026-07-23, iteration 86 — [[characters/紙 (char)|紙]]
+
+Next never-perfected character by `danayo_id` (190). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 氏` checked out as correct — verified via Wiktionary (semantic [[Radical 120|糸]] "silk" + phonetic 氏, OC \*kjeʔ), matching `radical: 糸`; Wiktionary itself flags the deeper semantic-shift etymology (silk → paper) as genuinely unknown, so the bullet notes the plausible-but-unconfirmed link to paper's early manufacture from silk waste rather than presenting it as settled.
+
+**Frontmatter**: already correct (`pos: 名詞`). `mc_id: 4708` is beyond the ~4000-entry range mirrored in `lookup/CC/CC 0000–3000.md`, so per the checklist's own policy (never blank a large existing `mc_id` just because it can't be locally cross-checked) it was trusted as-is and used verbatim in the MC bullet.
+
+**Content removed**: a non-canonical `## Etymology` heading holding a bare `[[糸]] + [[氏]]` component list, superseded by the real bullet.
+
+**Graphemic bullet written from scratch**: 形声, semantic 糸 + phonetic [[氏]] — see etymology note above.
+
+**Body defects found**: `# Notes` was the wrong heading level; a non-standard `## Etymology` subsection existed instead of folding the component analysis into the standard graphemic bullet; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all; 紙鳶 was bare with no ruby.
+
+**Words cross-check** (1 total ground-truth hit): 紙鳶 was already mentioned (bare, reformatted); added the stand-in 紙 itself as a second entry (a `words/紙.md` file exists for it).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 紙` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 87 — [[characters/根 (char)|根]]
+
+Next never-perfected character by `danayo_id` (191). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 艮` checked out as correct — verified via Wiktionary (semantic [[Radical 075|木]] "tree" + phonetic 艮, OC \*kɯːns), matching `radical: 木`. (Note: the checklist's own "Common mistakes" section flags a real, separate `mc_id` off-by-one error on [[艮]]'s *own* character page from an earlier session — unrelated to this citation, which is just a phonetic-component reference and carries no `mc_id` claim of its own.)
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 1165` verified against `CC 1000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 木 + phonetic [[艮]] — the root of a tree; by extension, foundation, origin.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; two Words entries (根拠, 根本) were bare with no ruby.
+
+**Words cross-check** (5 total ground-truth hits): 3 already present (1 ruby'd; 2 bare, reformatted); 2 missing — the stand-in 根 itself, 耳根 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 財愛悪根 ("the love of money is the root of all evil") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 根` matches no other character) — section correctly omitted.
