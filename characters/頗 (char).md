@@ -14,7 +14,7 @@ stroke_count: 14
 radical: "頁"
 skip_number: 1-5-9
 grade_level: "1"
-pos: ""
+pos: 修飾語
 english:
   - very
 羅馬字: fa
@@ -29,6 +29,7 @@ stand_in: "頗"
 aliases:
   - 颇
 注音: "ㄈㄚ"
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -41,7 +42,11 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*pʰaːl, \*pʰaːlʔ, \*pʰaːls): semantic [[Radical 107|皮]] ("") + phonetic [[]] (OC \*bral).
+- 形声 (OC \*pʰaːl, \*pʰaːlʔ, \*pʰaːls): semantic [[Radical 181|頁]] ("head") + phonetic [[皮 (char)|皮]] (shares initial and vowel pattern in Old Chinese) — very, quite; skewed.
+- [SKIP-1-5-9](lookup/SKIP/SKIP-1/SKIP-1-5-9.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
+- 1176th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄈㄚ](syllables/ㄈㄚ.md)
+- [Grade 1](lookup/Grade%201.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 - Vietnamese pronunciation chosen to fill a vacant syllable
-[[Lookup/CC/initials/聲 滂]]
-[[Lookup/CC/finals/韻 戈一合]]
+
+## Words
+- <ruby>[[頗]]<rt>ㄈㄚ</rt></ruby> "very" (stand-in for 頗)

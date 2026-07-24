@@ -18,7 +18,7 @@ stroke_count: 13
 radical: "辵"
 skip_number: 3-3-10
 grade_level: "1"
-pos: ""
+pos: 性詞
 english:
   - far
 羅馬字: "'on"
@@ -33,6 +33,7 @@ stand_in: "遠"
 aliases:
   - 远
 注音: "ㄛㄋ"
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -45,12 +46,18 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 云]]
-[[Lookup/CC/finals/韻 元合]]
+## Notes
+- 形声 (OC \*ɢʷanʔ, \*ɢʷans): semantic [[Radical 162|辵]] ("walk") + phonetic [[袁]] (OC \*ɢʷan) — far.
+- [SKIP-3-3-10](lookup/SKIP/SKIP-3/SKIP-3-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 284th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄛㄋ](syllables/ㄛㄋ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[遠]]<rt>ㄛㄋ</rt></ruby> "far" (stand-in for 遠)
 - <ruby>[[永遠]]<rt>ㄨㄧㄫㄛㄋ</rt></ruby> "perpetual; eternal"
 - <ruby>[[遥遠]]<rt>⼄ㄨ·ㄛㄋ</rt></ruby> "distant; faraway"
+- <ruby>[[遠方]]<rt>ㄛㄋㄈㄚㄫ</rt></ruby> "distant place; far away location"
+
 ## Chengyu
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"
+- <ruby>[[不遠千里]]<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> "not far is a thousand miles"
