@@ -2967,3 +2967,27 @@ Twenty-sixth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect:
 **Stand-in note applied**: `characters/緊.md`'s own `stand_in` field is `緊張` (this word) — added the standard phrasing. (張's own `stand_in` is `拡張`, a different word — no note on that side.) `kwin: false` already correct per the AND-rule (`characters/緊.md` is `true`, `characters/張.md` is `false` → compound `false`). Added the missing `## Notes` section (previously had none).
 
 A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄧㄋㄑㄚㄫ` unique). **Incidental fix**: fixed a non-canonical `## Word` (singular) heading to `## Words` on `characters/張.md`, added the stand-in note there; added a missing `## Words` section entirely to `characters/緊.md` (had none).
+
+### 2026-07-23, iteration 269 — [[words/練習|練習]]
+
+Twenty-seventh word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**North-Korean-pronunciation rule violation, fixed**: `korean: 연습` was the South Korean 두음법칙-shifted form — corrected to `련습`, matching `characters/練.md`'s own stored `련` (North Korean 문화어 doesn't shift word-initial ㄹ to ㅇ). Per the standing vault rule, `korean` always uses the North Korean reading.
+
+**Double #cranberry bound-morpheme case documented — the seventh found this sweep**: both `characters/練.md`'s and `characters/習.md`'s own `stand_in` fields point to this word (matching [[継続]]/[[精神]]/[[簡単]]/[[研究]]/[[建設]]/[[朋友]]) — neither character stands independently outside this compound. Added the standard note and `#cranberry` tag.
+
+Fixed a missing space in `cantonese` (`lin6zaap6`→`lin6 zaap6`). `kwin: false` already correct per the AND-rule (`characters/練.md` is `false`, `characters/習.md` is `true` → compound `false`). Quoted `hsk_level: "1"`; removed blank `swadesh:`. No homophones (`注音: ㄌㄝㄋㄙㄜㄆ` unique). **Incidental fix**: reformatted `characters/習.md`'s existing bare-link entry into ruby form with the stand-in note (`characters/練.md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 270 — [[words/習慣|習慣]]
+
+Twenty-eighth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**`kwin` AND-rule violation, fixed**: was stored `false`, but both constituents are individually `kwin: true` (`characters/習.md` and `characters/慣.md`) → corrected to `true`. Same class of bug as the earlier [[組織]] fix.
+
+**Stand-in note applied**: `characters/慣.md`'s own `stand_in` field is `習慣` (this word) — added the standard phrasing and `#cranberry` tag. (習's own `stand_in` is `練習`, a different word — no cranberry claim on that side.)
+
+**Content removed**: blank `swadesh:` field and empty `aliases: []`.
+
+A clean, directly parallel compound across the whole sphere — Mandarin xíguàn, Cantonese zaap6 gwaan3, Japanese しゅうかん, Korean 습관, Vietnamese tập quán all converge on "habit; custom; accustomed to" — no cross-linguistic divergence to flag. No homophones (`注音: ㄙㄧㄆㄍ⺢ㄇ` unique).
+
+**Documented but left unfixed (out of scope for a single iteration)**: this word's own romanization of 習's syllable ("sib/십/ㄙㄧㄆ") doesn't match `characters/習.md`'s own stored syllable ("sǝb/습/ㄙㄜㄆ"). Checked sibling compounds — [[学習]] agrees with "sib," but [[復習]] stores "sǝb," and is itself internally inconsistent (`羅馬字: bugsib` vs `諺文: 북습`/`注音: ㄅㄨㄎㄙㄜㄆ` disagreeing with each other). This is a scattered, multi-file inconsistency, not a clean two-siblings-agree case like [[組織]]/[[組合]] — left as a documented observation only. **Incidental fix**: added missing `## Words` entries with stand-in notes to both `characters/習.md` and `characters/慣.md` (neither had a ruby-formatted `習慣` entry before — 習.md had a bare `[[習慣]]` link, 慣.md had none at all).

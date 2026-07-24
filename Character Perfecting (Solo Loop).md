@@ -1,23 +1,3 @@
-### 2026-07-22, iteration 42 — [[characters/姉 (char)|姉]]
-
-Next never-perfected character by `danayo_id` (139). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter fixed — a real etymology correction, no pre-existing bullet to check it against**: blank `pos: ""` → `名詞`. `graphemic_classification: 巾` was checked against 巾's own stored Middle Chinese (`k`+`ɣiɪn`) versus 姉's own (`t͡s`+`ia`) — no plausible phonetic relationship at all (different initial class, different rime shape, no shared feature). The real Shuowen etymology for 姊/姉 is 従女，𠂔聲 (phonetic 𠂔, a rare/obsolete glyph, not 巾) — corrected the field to `𠂔` and described the component in prose without a link, since it has no character page in this vault (same treatment as 気/气 and 左/𠂇 precedent elsewhere in this sweep).
-
-**Content removed**: none.
-
-**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; both existing Words entries were bare `[[link]] "gloss"` with no ruby.
-
-**Words cross-check** (4 total ground-truth hits): 2 already listed (reformatted); 2 missing — the stand-in 姉 itself and 兄弟姉妹 (ruby/gloss reused from [[characters/弟 (char)|弟]]'s and [[characters/妹|妹]]'s own entries for the same word) — added. No chengyu hits, no `graphemic_classification: 姉` hits.
-
-### 2026-07-22, user-flagged correction — periodic-table abbreviation notes wrongly demoted on three pages
-
-**User correction, mid-loop**: iterations 1 ([[characters/多 (char)|多]]), 13 ([[characters/西|西]]), and 21 ([[characters/里 (char)|里]]) each originally had a Notes bullet reading "abbreviation for [element]," which this loop treated as incidental trivia and moved into the `## Words` entry for the coined element-name compound, in some cases (西) losing the "abbreviation for" framing entirely down to a bare gloss. **This was wrong**: within this vault's element-naming system, a single Dan'a'yo character is deliberately assigned to function as that element's own abbreviation/symbol — the same role a letter like "Gd" or "Sg" plays in a real periodic table, not just a component of one specific coined word. That fact belongs on the *character's own page*, in Notes, not folded away as a parenthetical on the word page.
-
-**Fixed**: restored a dedicated trailing Notes bullet on all three pages, keeping the "functions as an element-abbreviation character" framing explicit and linking to the actual coined word (加多金 gadolinium/Gd, 西博金 seaborgium/Sg, 居里金 curium/Cm) rather than just leaving it inside that word's own Words-section gloss. The Words-section entries themselves are left in place unchanged — this was about restoring the character-level fact, not removing the word-level listing.
-
-**Standing rule going forward**: when a character's stored Notes content mentions "abbreviation for [element]" or similar, treat it as a real, permanent fact about that character (keep as its own trailing Notes bullet), not as duplicate/incidental content to fold into the Words section — even if a Words entry for the same compound already exists.
-
 ### 2026-07-22, iteration 43 — [[characters/学|学]]
 
 Next never-perfected character by `danayo_id` (140). Stamped `date-last-perfect: 2026-07-22`. **The largest page this loop has done — 56 Words entries** (surpassing [[characters/国|国]]'s 63... actually 国 remains the largest by count, this is the second-largest).
