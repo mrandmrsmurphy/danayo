@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 195 — [[characters/察|察]]
+
+Next never-perfected character by `danayo_id` (2071). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 祭` already correct — verified via Wiktionary: 形声, semantic [[Radical 040|宀]] ("roof") + phonetic 祭 — "to sort out differences," "to examine, investigate."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `実詞`, matching the stand-in word [[words/考察|考察]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 040|宀]] ("roof") + phonetic [[祭]] — "to sort out differences"; "to examine, to investigate, to notice."
+
+**Body defects found**: `## Words` appeared before `# Notes`, which itself held nothing but two floating CC-initial/final links; reordered to the canonical Notes → Words sequence; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (考察) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (2 total ground-truth hits): 1 already present (観察); 1 missing — 考察 (stand-in, added with annotation) — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 祭`): [[際 (char)|際]] ("border; occasion"), [[蔡]] ("tortoise") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 194 — [[characters/害|害]]
+
+Next never-perfected character by `danayo_id` (2070). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` kept as-is: Wiktionary documents genuine scholarly disagreement with no clear primary reading — He Linyi proposes 指事 (a spear + a distinguishing mark), Li Xueqin and the Shuowen propose 形聲, Guo Moruo and Dai Jiaxiang propose 象形 (the ancient form of 蓋, "lid, cover"), and Gao Hongying proposes 假借 (originally the character for 桷, "rafters," borrowed for sound). Since the vault's own pre-existing choice (象形) already matches one of these legitimate scholarly theories, kept it and documented the dispute rather than arbitrarily picking a different one.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/残害|残害]]'s own stored `pos`.
+
+**Content removed**: a malformed "### Derived Characters" subsection with a markdown-style link, folded into a proper `## Derived Characters` section with the other two real ground-truth hits added alongside it.
+
+**Graphemic bullet written from scratch**: documented all four competing scholarly theories per Wiktionary, following the vault's pre-existing 象形 choice as the working classification.
+
+**Body defects found**: `## Notes` held only the malformed Derived Characters fragment; two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (残害) was missing entirely.
+
+**Words cross-check** (6 total ground-truth hits): 1 already present (妨害); 5 missing — 残害 (stand-in, added with annotation), 迫害, 傷害, 災害, 禍害 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 害`): [[轄 (char)|轄]] ("linchpin of a wheel; control"), [[割 (char)|割]] ("to cut; divide" — already partially present, reformatted), [[憲]] ("constitution; statute; law") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 193 — [[characters/室|室]]
+
+Next never-perfected character by `danayo_id` (2069). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 至` already correct — verified via Wiktionary: 形声, semantic [[Radical 040|宀]] ("roof") + phonetic 至 — "a roof over this exact spot," "room, chamber."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the sibling word [[words/教室|教室]]'s own stored `pos` (the stand-in word 房室 itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*hli[t]s, \*tjiɡs): semantic [[Radical 040|宀]] ("roof") + phonetic [[至 (char)|至]] — a residence is a place marked by an arrow on the ground, so the phonetic also adds meaning; "a roof over this exact spot" — "room, chamber," extended to "family, household."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (房室) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (6 total ground-truth hits): 2 already present (教室, 室町); 4 missing — 房室 (stand-in, added with annotation), 休息室, 浴室, 辦公室 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (4 hits via `graphemic_classification: 至`): [[致 (char)|致]] ("to cause"), [[窒]] ("to suffocate; choke"), [[姪]] ("niece"), [[蛭 (char)|蛭]] ("leech") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 192 — [[characters/定|定]]
+
+Next never-perfected character by `danayo_id` (2068). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 正` already correct — verified via Wiktionary: 形声, semantic [[Radical 040|宀]] ("roof") + phonetic 正 — "stable, fixed"; "to decide, determine, settle."
+
+**Frontmatter**: already correct (`pos: 事詞`, `mc_id: 250` verified against `CC 0000.md`).
+
+**Content removed**: two asterisk-bulleted entries (一定, 確定), non-canonical Markdown list syntax for this vault, converted to standard hyphen bullets with ruby/gloss.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 040|宀]] ("roof") + phonetic [[正 (char)|正]] — "stable, fixed"; "to decide, to determine, to settle."
+
+**Body defects found**: `## Notes` was completely empty; two CC-initial/final links floated at the very end of the page with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the asterisk-bulleted entries above had no ruby; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (19 total ground-truth hits — one of the largest word families surfaced in this loop): 12 already present in some form (決定 stand-in already annotated; 一定, 確定 — converted from asterisk bullets and ruby'd; 定義域, 定義, 仮定, 鑑定, 既定, 規定, 協定, 不定, 否定 — ruby/gloss filled in from stored fields); 7 missing — 無定河, 予定, 定位, 限定詞, 限定, 安定, 議定 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 正`): [[症]] ("disease"), [[整 (char)|整]] ("orderly; neat; tidy"), [[鉦]] ("marching gong"), [[征]] ("to conquer"), [[政]] ("government; political affairs"), [[証]] ("to prove; confirm; verify") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 191 — [[characters/官|官]]
 
 Next never-perfected character by `danayo_id` (2067). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[Radical 040|宀]] ("roof") + 𠂤 — multiple rooms under a roof, an official building; "official."
