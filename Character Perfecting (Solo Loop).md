@@ -485,3 +485,73 @@ Next never-perfected character by `danayo_id` (170). Stamped `date-last-perfect:
 **Chengyu cross-check** (3 total): 1 already present (蒼海桑田, ruby restored from its stored `注音`, plain link converted to proper markup); 2 missing — 人山人海, 海闊天空 — added from stored fields.
 
 **Derived Characters**: no hits (`graphemic_classification: 海` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 71 — [[characters/後 (char)|後]]
+
+Next never-perfected character by `danayo_id` (171; 174/[[characters/哉 (char)|哉]] already stamped 2026-07-20, so it will be skipped when reached). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary (oracle-bone 会意: [[Radical 052|幺]] "thread" + [[Radical 035|夊]] "foot," a foot bound by rope, lagging behind; [[Radical 060|彳]] "step" added later to emphasize the action).
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the antonym pair [[characters/前 (char)|前]] ("front; before"), which already stores `pos: 名詞` for the same locational/temporal noun class.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意, see etymology above.
+
+**Body defects found**: bullets 2–4 were merged into a single non-canonical middle-dot-separated bullet instead of the canonical two-bullet split (SKIP/Stroke separate from the MC-rank bullet) — the same defect shape flagged on [[characters/空 (char)|空]] back in iteration 47 — rebuilt into the standard order; no Levels bullet existed; three Words entries (後置詞, 後置, 後悔) were bare `[[link]]` with no ruby/gloss.
+
+**Words cross-check** (14 total ground-truth hits): 7 already present (4 ruby'd; 3 bare, reformatted); 7 missing — the stand-in 後 itself, 先後, 前後, 絶後, 而後, 背後, 紀元後 — added, all from stored fields.
+
+**Chengyu cross-check** (2 total): 1 already present (空前絶後); 1 missing — 先題後述 — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 後` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 72 — [[characters/南|南]]
+
+Next never-perfected character by `danayo_id` (172). Stamped `date-last-perfect: 2026-07-23`. Page already had a real, sourced graphemic bullet — spot-checked against Wiktionary, which describes the depicted object slightly differently (a lidded cylindrical vessel 同, rather than a bell) but agrees on every substantive point that matters (象形 pictograph, later phonetic loan for "south," OC \*nuːm matching exactly) — treated as scholarly-source variance rather than an error, left as-is per the "already correctly sourced" precedent from [[characters/空 (char)|空]]/[[characters/青 (char)|青]] earlier in this loop.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the sibling cardinal-direction characters [[characters/北 (char)|北]] and [[characters/東 (char)|東]], both already `pos: 名詞`. **Flagged, not fixed (out of scope for a character page)**: `words/南方.md` — the `stand_in` compound itself — stores `pos: 連接詞` ("conjunction"), which cannot be right for a word glossed "south; southern direction"; left untouched since word-level `pos` corrections aren't part of this checklist.
+
+**Content removed**: none.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; two Words entries (南山, 南北) were bare `[[link]]` with no ruby/gloss; three more (南端, 西南, 南極) used plain Markdown links instead of wikilinks (harmless but inconsistent with the rest of the page); no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (20 total ground-truth hits): 11 already present (9 ruby'd — 3 via plain Markdown link, converted to wikilinks; 2 bare, reformatted); 9 missing — the stand-in 南方 itself, 南部, 東南, 江南, 越南, 越南人, 越南語, 南極洲, 東南亜 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 南`): [[楠]] ("camphor tree") — added, no filename collision.
+
+### 2026-07-23, iteration 73 — [[characters/指|指]]
+
+Next never-perfected character by `danayo_id` (173). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 旨` checked out as correct — verified via Wiktionary (semantic 扌 "hand" + phonetic 旨, OC \*kjiʔ, matching the character's own MC value exactly).
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 807` verified against `CC 0000.md`).
+
+**Content removed**: none (the finger/toe-name prose list was relocated into `## Words`, not deleted).
+
+**Graphemic bullet fixed**: the existing bullet had the right components but an empty gloss (`("")`) for 扌 — filled in as "hand."
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; the entire finger/toe-name family (大指, 母指, 食指, 中指, 無名指, 小指, 足指 — 7 real ground-truth words) was written as an indented prose list inside Notes instead of proper `## Words` entries, unruby'd; 指関節 was bare with no ruby; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (15 total ground-truth hits): all 15 were already mentioned somewhere on the page (8 properly in `## Words`, 7 buried in the Notes prose list) — none were missing outright, just misplaced/unformatted; consolidated all 15 into `## Words` with proper ruby+gloss.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 指記二碑 ("the two tablets of the law") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 指` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 74 — [[characters/某 (char)|某]]
+
+Next never-perfected character by `danayo_id` (175; 174/[[characters/哉 (char)|哉]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-23`. Another full correlative-row family (此/其/彼/何/毎/某/皆 × 事/物/名/処/時/様/多/類/人), same recurring pattern as [[characters/彼 (char)|彼]] and others earlier in this loop. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary (木 "tree" + 甘 "sweet," originally the Chinese plum 梅, later a phonetic loan for the indefinite pronoun "certain, some").
+
+**Frontmatter**: already correct (`pos: 修飾語`). **`mc_id: 1332` initially looked unverifiable** — not found via the usual `> N. char` blockquote-prefix grep in `CC 1000.md` — but a bare-prefix search (`^1332\.` instead of `^> 1332\.`) found it immediately at line 349 ("1332. 某"), confirming the value is correct; the file's own formatting for this ID range doesn't use the `>` blockquote prefix the other CC files do, a lookup-format quirk worth remembering rather than a data problem.
+
+**Content removed**: a stray "Components: [[甘]], [[木]]" fragment, superseded by the real bullet.
+
+**Graphemic bullet written from scratch**: 会意, [[Radical 075|木]] ("tree") + [[Radical 099|甘]] ("sweet") — originally the Chinese plum (梅); later phonetically borrowed for the indefinite pronoun "a certain, some."
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; no `## Words` heading existed at all.
+
+**Words cross-check** (10 total ground-truth hits): none were previously listed — built the entire section from scratch: the stand-in 某 itself, 某事, 某人, 某処, 某名, 某多, 某時, 某様, 某物, 某類, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 某`): [[煤 (char)|煤]] ("coal; soot"), [[謀 (char)|謀]] ("to conspire; scheme"), [[媒]] ("mediator; matchmaker") — added. Filename collisions found on 煤/謀 — linked with pipe-aliases; 媒 had no collision.
