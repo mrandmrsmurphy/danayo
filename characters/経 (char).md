@@ -48,11 +48,13 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 青開]]
+- <ruby>[[経験]]<rt>ㄍㄝㄫㄝㄇ</rt></ruby> "experience"
+- <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby> "economy"
 - <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
 - <ruby>[[書経]]<rt>ㄙ⼄ㄍㄝㄫ</rt></ruby> "Book of Documents"
-- [[経費]] "- expenditures"
+- [[経費]] "expenditures"
 - [[経緯]] "warp and woof, latitude and longitude"
-- [[経過]] "pass through, undergo"
+- <ruby>[[経過]]<rt>ㄍㄝㄫㄍ⺢</rt></ruby> "pass through, undergo"
 - <ruby>[[易経]]<rt>⼶ㄎㄍㄝㄫ</rt></ruby> "Book of Changes"
 - <ruby>[[九経]]<rt>ㄎ⼜ㄍㄝㄫ</rt></ruby> "the Nine Classics"
 - <ruby>[[麟経]]<rt>ㄌㄧㄋㄍㄝㄫ</rt></ruby> "the Spring and Autumn Annals (alternative name)"

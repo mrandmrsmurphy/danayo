@@ -47,3 +47,6 @@ boundedness:
 # Notes
 [[Lookup/CC/initials/聲 精]]
 [[Lookup/CC/finals/韻 齊開]]
+
+## Words
+- <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby> "economy"

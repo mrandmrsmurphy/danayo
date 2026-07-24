@@ -2895,3 +2895,39 @@ Eighteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2
 **Double #cranberry bound-morpheme case documented — the fifth found this sweep**: both `characters/精.md`'s and `characters/神 (char).md`'s own `stand_in` fields point to this word (matching [[簡単]]/[[研究]]/[[建設]]/[[朋友]]) — neither character stands independently outside this compound. Added the standard note and `#cranberry` tag.
 
 `kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`. No homophones (`注音: ㄐㄝㄫㄙㄧㄋ` unique). **Incidental fix**: reformatted `characters/精.md`'s existing plain-text entry into ruby form with the stand-in note (`characters/神 (char).md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 261 — [[words/組織|組織]]
+
+Nineteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Content removed — self-referential alias**: `aliases` redundantly listed `組織`, identical to this word's own title/filename — removed, keeping only the real simplified variant `组织`.
+
+**AND-rule violation fixed**: `kwin: true` contradicted the AND-rule — `characters/組.md` is `kwin: false`, `characters/織.md` is `kwin: true`, so the compound must be `false`. Corrected (this is the same class of bug found on [[建設]] earlier in the sweep — a real pre-existing error, not something introduced this iteration).
+
+**Vault-wide notation discrepancy noted, left alone (matching the [[以後]]/[[最後]] precedent)**: `characters/組.md`'s own stored syllable is `jǝ`/즈/ㄐㄜ, while both this compound and its sibling [[組合]] consistently store 組's syllable as `jo`/조/ㄐㄛ instead — confirmed consistent across two independent word files, so treated as a recognized phenomenon rather than a bug to unilaterally "fix" on one side.
+
+No `stand_in` relationship applies — 組's own `stand_in` is `組合` (a different word), 織's own is `編織` (a different word) — 組織 is an independent compound. A clean, directly parallel compound across the whole sphere in meaning. No homophones (`注音: ㄐㄛㄐㄧㄎ` unique). **Incidental fix**: added missing `## Words` entries to both `characters/組.md` and `characters/織.md` (neither had 組織 listed before).
+
+### 2026-07-23, iteration 262 — [[words/経済|経済]]
+
+Twentieth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: removed blank `swadesh:`. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/経 (char).md` is `false`, `characters/済 (char).md` is `true` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄝㄫㄐㄝㄧ` unique). **Incidental fix**: added missing `## Words` entries to both `characters/経 (char).md` and `characters/済 (char).md` (neither had 経済 listed before).
+
+### 2026-07-23, iteration 263 — [[words/経過|経過]]
+
+Twenty-first word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Frontmatter cleanup**: `characters:`/`aliases:` reformatted to block form. Filled blank `vietnamese` with the real, attested `kinh qua` (e.g. đã kinh qua nhiều khó khăn, "has gone through many difficulties"). Quoted `hsk_level: "1"`; removed blank `swadesh:`. Renamed non-canonical `## Etymology` heading to `## Notes`.
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (`characters/経 (char).md` is `false`, `characters/過 (char).md` is `true` → compound `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄝㄫㄍ⺢` unique). **Incidental fix**: reformatted `characters/経 (char).md`'s existing plain-text 経過 entry into ruby form; fixed a stray leading "- " prefix inside `経費`'s own gloss on the same page; added a missing `## Words` entry to `characters/過 (char).md`.
+
+### 2026-07-23, iteration 264 — [[words/経験|経験]]
+
+Twenty-second word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `験`, but the actual file is `験 (char).md` — corrected. Added the missing `## Notes` section (previously had none).
+
+No `stand_in` relationship applies (both constituents are bare self-standing characters). `kwin: false` already correct per the AND-rule (both individually `false`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄝㄫㄝㄇ` unique). **Incidental fix**: reformatted `characters/験 (char).md`'s existing plain-text entry into ruby form; added a missing `## Words` entry to `characters/経 (char).md`.
