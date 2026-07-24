@@ -23,7 +23,7 @@ stroke_count: 7
 radical: 冫
 skip_number: 1-2-5
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - cool
   - cold
@@ -38,6 +38,7 @@ graphemic_classification: 令
 stand_in: 冷
 aliases:
 注音: ㄌㄚㄫ
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -50,8 +51,24 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 庚二開]]
-- [[冷蔵庫]] "refrigerator,freezer"
-- [[冷麺]] "cold noodles"
+## Notes
+- 形声: semantic [[Radical 015|冫]] ("ice") + phonetic [[令]] — "cold as ice"; "cold, cool," extended to "desolate, indifferent, unpopular."
+- [SKIP-1-2-5](lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
+- 2294th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄌㄚㄫ](syllables/ㄌㄚㄫ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[冷]]<rt>ㄌㄚㄫ</rt></ruby> "cool; cold" (stand-in for 冷)
+- <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby> "refrigerator; freezer"
+- <ruby>[[冷麺]]<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby> "cold noodles"
+- <ruby>[[寒冷]]<rt>ㄏㄚㄋㄌㄚㄫ</rt></ruby> "cold; freezing"
+
+## Derived Characters
+- <ruby>[[齢]]<rt>ㄌㄝㄫ</rt></ruby> "age; years"
+- <ruby>[[伶]]<rt>ㄌㄝㄫ</rt></ruby> "clever"
+- <ruby>[[鈴 (char)|鈴]]<rt>ㄌㄝㄫ</rt></ruby> "small bell"
+- <ruby>[[羚]]<rt>ㄌㄝㄫ</rt></ruby> "antelope"
+- <ruby>[[領]]<rt>ㄌㄧㄫ</rt></ruby> "territory"
+- <ruby>[[笭]]<rt>ㄌ⼶ㄫ</rt></ruby> "bamboo screen"
+- <ruby>[[零 (char)|零]]<rt>ㄌㄝㄫ</rt></ruby> "zero"
+- <ruby>[[玲]]<rt>ㄌㄝㄫ</rt></ruby> "jade"

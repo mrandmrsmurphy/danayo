@@ -16,7 +16,7 @@ stroke_count: 10
 radical: 人
 skip_number: 1-2-8
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - borrow
   - lend
@@ -32,6 +32,7 @@ stand_in: 借
 aliases:
   - 藉
 注音: ㄐㄚ
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -43,7 +44,16 @@ boundedness: 65
 [[nav/char_info]]
 ```
 ## Notes
-- 形声: (OC \*ʔsjaːɡs, \*ʔsjaːɡ): semantic [人](Radical%20009) (“person”) + phonetic [昔](characters/昔.md) (OC \*sjaːɡ).
-- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 2](lookup/Grade%202.md)
-[[Lookup/CC/initials/聲 精]]
-[[Lookup/CC/finals/韻 麻三開]]
+- 形声 (OC \*ʔsjaːɡs, \*ʔsjaːɡ): semantic [[Radical 009|人]] ("person") + phonetic [[昔]] (OC \*sjaːɡ) — "to lend, to borrow"; also "to make use of, to take advantage of" as an alternate form of 藉.
+- [SKIP-1-2-8](lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 1986th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](syllables/ㄐㄚ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[借]]<rt>ㄐㄚ</rt></ruby> "to borrow; lend" (stand-in for 借)
+- <ruby>[[仮借]]<rt>ㄍㄚㄐㄚ</rt></ruby> "to make use of; borrow"
+
+## Derived Characters
+- <ruby>[[措]]<rt>ㄑㄛ</rt></ruby> "to arrange"
+- <ruby>[[錯]]<rt>ㄑㄚㄎ</rt></ruby> "mistake; error"
+- <ruby>[[惜 (char)|惜]]<rt>ㄙㄝㄎ</rt></ruby> "to begrudge; rue"

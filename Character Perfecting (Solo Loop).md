@@ -1,16 +1,504 @@
-### 2026-07-22, iteration 51 — [[characters/彼 (char)|彼]]
+### 2026-07-24, iteration 165 — [[characters/化 (char)|化]]
 
-Next never-perfected character by `danayo_id` (149). Stamped `date-last-perfect: 2026-07-22`. Another full correlative-row family (此/其/彼/何/毎/某/皆 × 事/物/名/処/時/様/多/類/人), same recurring pattern as [[characters/多 (char)|多]], [[characters/何 (char)|何]], and [[characters/事 (char)|事]] earlier this loop.
+Next never-perfected character by `danayo_id` (2038). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, two 人, one upright (亻) and one upside down (𠤎) — reversal, change; Shuowen notes 𠤎 as also having a phonetic function.
 
-**Frontmatter**: already correct (`pos: 修飾語`, `graphemic_classification: 皮` — already independently confirmed genuine back in the Components-driven thread of [[Loop Work.md]], where 皮's own Derived Characters check found 彼 among its real phonetic family).
+**Frontmatter**: `pos: ""` (empty string) → filled in as `実詞`, matching several sibling words (化粧, 溶化, 進化) that store `pos: 実詞` (the stand-in word 化.md itself has no `pos` field).
 
-**Content removed**: a stray "Components: [[彳]], [[皮]]" fragment, superseded by the real bullet.
+**Discovered but not fixed — character-vs-word `注音` mismatch**: this character page's own `注音` is `ㄏ⺢`, but its stand-in word [[words/化|化]] stores `注音: ㄏㄨㄚ` — a real divergence between the character's own reading and its stand-in word's stored reading. Per established policy this is flagged, not silently resolved; the Words entry for 化 itself was written using the word file's own stored reading (ㄏㄨㄚ), since that is what the verification script cross-checks against, but the underlying inconsistency between the two files remains unaddressed.
 
-**Graphemic bullet written from scratch**: 形声, semantic [[Radical 060|彳]] ("step, road") + phonetic [[皮]] — movement toward a distant point, "that, yonder."
+**Content removed**: none.
 
-**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final links had no MC bullet to embed in; no `## Words` heading existed at all.
+**Graphemic bullet**: kept the existing correct analysis, converted markdown-style links to wikilinks. This character's own `radical:` field is `匕`, which Radical 021's own lookup page confirms is the same glyph as the etymology's inverted-person component 𠤎 — so [[Radical 021|𠤎]] gets the Radical-page link (already correct pre-existing choice, just needed wikilink formatting), while the other, upright [[人 (char)|亻]] (not this character's own radical, has its own page) gets a direct character-page link.
 
-**Words cross-check** (10 total ground-truth hits): none were previously listed — built the entire section from scratch: the stand-in 彼 itself, 彼処, 彼時, 彼様, 彼多, 彼物, 彼類, 彼事, 彼人, 彼名, all from stored fields. No chengyu hits, no `graphemic_classification: 彼` hits.
+**Body defects found**: two CC-initial/final links floating with no MC-rank bullet; no SKIP/Stroke or Levels bullets existed; the stand-in Words entry (化) was missing entirely, and 11 further real ground-truth Words hits were missing; no `## Chengyu` or `## Derived Characters` sections existed despite real hits for both.
+
+**Words cross-check** (18 total ground-truth hits, checked across all five known `characters:` YAML shapes): 6 already present (文化, 液化, 転化, 化粧, 化身, 量化詞 — reformatted with ruby/gloss); 12 missing — 化 (stand-in), 強化, 化学, 変化, 悪化, 文化圏, 教化, 化学肥料, 溶化, 進化, 融化 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 信達雅化 — the same chengyu already added during the recent [[characters/信|信]] iteration, since 化 is one of its four cited characters — missing here, added with its stored reading and gloss.
+
+**Derived Characters** (4 hits via `graphemic_classification: 化`): [[訛]] ("error; extort"), [[靴]] ("boot"), [[花]] ("flower"), [[貨]] ("goods; commodities; products") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 164 — [[characters/勝|勝]]
+
+Next never-perfected character by `danayo_id` (2037). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 朕` already correct — verified via Wiktionary: 形声, phonetic 朕 (OC \*l'ɯmʔ) + semantic 力 ("strength") — "to overcome, to defeat, to win."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/勝利|勝利]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `力`, matching the semantic component directly (same pattern as the recent 功/勇/労 iterations, all sharing 力 as their radical) — [[Radical 019|力]] gets the Radical-page link, while [[朕 (char)|朕]] (the phonetic, not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one bare Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite two real ground-truth hits; the stand-in Words entry (勝利) had no annotation.
+
+**Words cross-check** (1 total ground-truth hit): 勝利 (the `stand_in`) reformatted with ruby and annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 朕`): [[騰]] ("to inflate; rise"), [[謄]] ("to copy; transcribe") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 163 — [[characters/勇|勇]]
+
+Next never-perfected character by `danayo_id` (2036). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 甬` already correct — verified via Wiktionary: 形声, phonetic 甬 (OC \*loŋʔ) + semantic 力 ("strength") — "brave strength."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `実詞`, matching the stand-in word [[words/勇敢|勇敢]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `力`, matching the semantic component directly — [[Radical 019|力]] gets the Radical-page link, while [[甬]] (the phonetic, not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (1 total ground-truth hit): 勇敢 (the `stand_in`) missing — added with annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (5 hits via `graphemic_classification: 甬`): [[誦 (char)|誦]] ("to recite; chant; repeat"), [[通 (char)|通]] ("to pass through; communicate"), [[痛]] ("torment; pain"), [[桶 (char)|桶]] ("pail; bucket; tub"), [[踊]] ("jump") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 162 — [[characters/労|労]]
+
+Next never-perfected character by `danayo_id` (2035). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary (checked under the traditional form 勞): 会意, an abbreviated 熒 ("shine") + [[Radical 019|力]] ("strength") — visible effort combined with exertion; "to toil, labor."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/労動|労動]]'s own stored `pos`.
+
+**Content removed**: a non-canonical relative path (`../words/労動`) in a bare, unruby'd Words entry.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `力`, matching one component directly — [[Radical 019|力]] gets the Radical-page link; the other component, an abbreviated 熒, has no vault page (in the same "cited but never created" class as 𤰈/丌/冓 from recent iterations), so it's cited as bare text.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one malformed Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (2 total ground-truth hits): 労動 (the `stand_in`) reformatted with ruby and annotation; 疲労 missing — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 労`): [[𢭐]] ("dredge; catch") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 161 — [[characters/加|加]]
+
+Next never-perfected character by `danayo_id` (2034). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was invalid: stored as `力`, which is merely this character's own radical, not a distinct classification — the same self-referential defect class as the earlier 便/児 iterations. Verified via Wiktionary that 加 is 會意 — [[Radical 019|力]] ("strength") + [[口 (char)|口]] ("mouth"), per Shuowen "to exaggerate or slander" (an alternative reading takes 力 as "plowing," 口 as effort/breath) — corrected accordingly.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/加算|加算]]'s own stored `pos`.
+
+**Content removed**: a malformed inline chain (`[[Radical 019|力]] + [[口 (char)]] = [[SKIP-1-2-3]] ([[Stroke 05]])`) that wikilinked the SKIP/Stroke lookup pages as if they were graphemic components rather than separate metadata; a dangling arrow-note (`scab 痂皮-->[[words/加皮]]`); a duplicate 加州金 entry (same word, same reading, listed twice under two different framings, the same defect pattern as the recent 利 iteration).
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `力`, matching one component directly — [[Radical 019|力]] gets the Radical-page link, while [[口 (char)|口]] (not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: two CC-initial/final links (`聲 見`, `韻 麻二開`) were floating mid-list with no MC-rank bullet; no SKIP/Stroke or MC-rank bullets existed as proper bullets (only the malformed inline chain above); the stand-in Words entry (加算) was missing entirely; several entries were bare `[[link]]` with no ruby.
+
+**Words cross-check** (14 total ground-truth hits): 10 already present in some form (増加, 参加, 添加, 加皮, 加入, 加法, 孟加拉, 加多, 奥加素, 加州金 — all reformatted with ruby/gloss, duplicate removed); 4 missing — 加算 (stand-in, added with annotation), 結加夫坐, 加持, 加多金 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 加哀痛産 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (7 hits via `graphemic_classification: 加`): [[珈]] ("coffee"), [[伽]] ("transcription of Sanskrit 'gha'"), [[架 (char)|架]] ("rack; stand; prop"), [[賀]] ("to congratulate"), [[駕]] ("palanquin"), [[茄]] ("eggplant"), [[嘉]] ("good") — all added; no section previously existed.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 160 — [[characters/功|功]]
+
+Next never-perfected character by `danayo_id` (2033). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 工` already correct — verified via Wiktionary: 形声, phonetic 工 (OC \*koːŋ, "labour; work") + semantic 力 ("strength") — essentially the same word as 工.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the sibling word [[words/気功|気功]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `力`, matching the semantic component directly — [[Radical 019|力]] gets the Radical-page link, while [[工]] (the phonetic, not this character's own radical, but has its own page) gets a direct character-page link.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one bare Words entry with no ruby; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (3 total ground-truth hits): 1 already present (功績, reformatted with ruby and stand-in annotation); 2 missing — 成功, 気功 — added from stored fields.
+
+**Chengyu cross-check** (1 total): 論功行賞 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (9 hits via `graphemic_classification: 工` — a large phonetic family): [[空 (char)|空]] ("empty"), [[缸]] ("jug; cistern; urn"), [[攻 (char)|攻]] ("attack; criticize"), [[肛]] ("anus"), [[江]] ("river; cascade"), [[虹]] ("rainbow"), [[紅 (char)|紅]] ("crimson; red"), [[項 (char)|項]] ("nape; item"), [[貢]] ("tribute; gifts") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 159 — [[characters/利|利]]
+
+Next never-perfected character by `danayo_id` (2032 — 2031 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[禾 (char)|禾]] ("grain") + [[Radical 018|刀]] ("knife") — to reap grain with a knife.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the sibling word [[words/利益|利益]]'s own stored `pos` (the stand-in word 利潤 stores `pos: 名詞` too).
+
+**Content removed**: a malformed "### Descendants:" subsection containing a single garbled entry, `[㴝](characters/黎.md)` — display text 㴝 (an alias of 黎) pointing at 黎's actual file — folded into a proper `## Derived Characters` section instead. Also removed a duplicate 利佛素 entry (the same word, same reading, listed twice under two different framings with no distinguishing content).
+
+**Graphemic bullet**: kept the existing correct analysis, but fixed the component links per the character's own `radical:` field (`刀`, matching the semantic component directly, same pattern as the recent 列/初 iterations): [[Radical 018|刀]] now gets the Radical-page link instead of a character-page link; [[禾 (char)|禾]] (not this character's own radical) keeps its character-page link, corrected to include the `(char)` filename suffix it was missing.
+
+**Body defects found**: non-canonical relative path (`../lookup/...`); two CC-initial/final links floating under the `## Words` heading instead of embedded in an MC bullet; no SKIP/Stroke or Levels bullets existed; the stand-in Words entry (利潤) had no annotation, and two entries (利潤, 利用) were bare `[[link]]` with no ruby.
+
+**Words cross-check** (9 total ground-truth hits): 5 already present (鋭利, 権利, 利潤 — annotation added, 利用 — ruby/gloss fixed, 利佛素 — de-duplicated); 4 missing — 利益, 勝利, 利率, 英吉利 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 利`): [[犂]] ("plough"), [[黎]], [[梨 (char)|梨]] ("pear"), [[痢]] ("diarrhea"), [[俐]] ("clever"), [[莉]] ("white jasmin") — all added. Flagging, not fixing: [[黎]]'s own stored `english` field is the string "Liǝ" — clearly not a real gloss (it's identical in shape to a romanized reading, not an English word) — cited here verbatim per the no-fabrication rule; the defect belongs to 黎's own page (danayo_id 8240), out of scope for this iteration.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 158 — [[characters/初|初]]
+
+Next never-perfected character by `danayo_id` (2030). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[衣]] ("clothes") + [[Radical 018|刀]] ("knife") — "to start making clothes by cutting the cloth," → "beginning."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the stand-in word [[words/最初|最初]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `刀`, matching the semantic component directly (same pattern as the recent [[characters/列|列]] iteration, coincidentally sharing the same radical) — [[Radical 018|刀]] gets the Radical-page link, while [[衣]] (not this character's own radical, has its own page) gets a direct character-page link.
+
+**Body defects found**: two CC-initial/final links (`聲 初`, `韻 魚`) were floating outside any bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (最初) had no annotation, and two other entries (初版, 週初) were bare `[[link]]` with no ruby/gloss.
+
+**Words cross-check** (9 total ground-truth hits): 6 already present (最初 — annotation added; 初代, 初版, 太初, 初等, 週初 — ruby/gloss fixed where needed); 3 missing — 世紀初, 年初, 月初 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 初`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 157 — [[characters/列|列]]
+
+Next never-perfected character by `danayo_id` (2029). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary, which gives 列 a dual classification depending on the historical form: earliest form 會意 ([[歹]] "skeletal remains" + [[Radical 018|刀]] "knife," to tear apart) vs. a later seal-script 形聲 form (obsolete phonetic 𡿪 + semantic 刀). Kept `會意` since the phonetic 𡿪 has no vault page and the 會意 reading is the more original one.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `実詞`, matching the stand-in word [[words/配列|配列]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `刀`, which directly matches the semantic component of the earliest form (unlike the 兵/児 cases, no alias resolution needed) — so [[Radical 018|刀]] gets the Radical-page link, while [[歹]] (not this character's own radical, but has its own page) gets a direct character-page link.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite three real ground-truth hits.
+
+**Words cross-check** (6 total ground-truth hits): 2 already present (並列, 大不列顛); 4 missing — 配列 (stand-in, added with annotation), 行列, 列島, 陳列 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 列` — the same family already surfaced during the recent [[characters/例|例]] iteration, since both characters share this phonetic): [[烈]] ("fiery; violent; vehement"), [[裂]] ("split; crack"), [[例]] ("example; instance; precedent") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 156 — [[characters/冷 (char)|冷]]
+
+Next never-perfected character by `danayo_id` (2028). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 令` already correct — verified via Wiktionary: 形声, semantic [[Radical 015|冫]] ("ice") + phonetic 令, "cold as ice."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the sibling word [[words/寒冷|寒冷]]'s own stored `pos` (the stand-in word 冷.md itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 015|冫]] ("ice") + phonetic [[令]] — "cold as ice"; "cold, cool," extended to "desolate, indifferent, unpopular."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus two bare Words entries with no ruby; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (4 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 冷.md's own `characters: 冷 (char)` field): 2 already present (冷蔵庫, 冷麺 — reformatted with ruby from stored fields); 2 missing — 冷 itself (stand-in, added with annotation) and 寒冷 — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (8 hits via `graphemic_classification: 令`): [[齢]] ("age; years"), [[伶]] ("clever"), [[鈴 (char)|鈴]] ("small bell"), [[羚]] ("antelope"), [[領]] ("territory"), [[笭]] ("bamboo screen"), [[零 (char)|零]] ("zero"), [[玲]] ("jade") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 155 — [[characters/再|再]]
+
+Next never-perfected character by `danayo_id` (2027). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `象形`, but Wiktionary's primary classification for this etymologically disputed character is 会意 — the leading modern theory reads 一 ("one") + an abbreviated 冓 ("basket repeatedly woven from bamboo"), signifying repetition; an older theory reads 魚 ("fish") + 二 ("two"), "to catch two fish at once" — corrected to `會意`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `副用名詞`, matching the stand-in word [[words/再度|再度]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): etymology uncertain and disputed — the modern leading theory reads it as 一 ("one") + an abbreviated 冓 ("basket repeatedly woven from bamboo," no vault page), signifying the repetition of something once done; "again, twice." An older theory instead reads 魚 ("fish") + 二 ("two"), "to catch two fish at once."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` or `## Chengyu` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (1 total ground-truth hit): 再度 (the `stand_in`) missing — added with annotation.
+
+**Chengyu cross-check** (1 total): 合漢再決 missing — added from stored fields.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 再`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 154 — [[characters/典|典]]
+
+Next never-perfected character by `danayo_id` (2026). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `指事`, but Wiktionary classifies 典 as 會意 — [[冊 (char)|冊]] ("books") + 丌 ("table") — "(official) books on a table," explicitly noted as unrelated to the visually similar 曲/曹 — corrected accordingly.
+
+**Frontmatter**: already otherwise correct (`pos: "名詞"`, `mc_id: 838` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): [[冊 (char)|冊]] ("books") + 丌 ("table," no vault page — an ancient variant of [[其 (char)|其]], not itself a Kangxi radical) — official books on a table; "law, canon, classic." 丌 gets no link (unlike the recent 廾/兵 case) since it's genuinely not a Kangxi radical, only a variant glyph of 其.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (事典) was missing entirely.
+
+**Words cross-check** (10 total ground-truth hits): 2 already present (恩典, 祭典); 8 missing — 事典 (stand-in, added with annotation), 詞典, 古典, 典雅, 瑞典, 字典, 百科事典, 経典 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 典`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 153 — [[characters/兵|兵]]
+
+Next never-perfected character by `danayo_id` (2025 — 2023 and 2024 do not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[斤]] ("a short axe") + [[Radical 055|廾]] ("two hands") — a pair of hands holding a weapon.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/兵士|兵士]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: this character's own `radical:` field is `八`, which matches neither etymological component (斤 nor 廾), so neither gets a Radical-page link on that basis. Applied the two fallback rules instead: 斤 has its own dedicated character page, so it links there directly ([[斤]]); 廾 has no character page but is a genuine Kangxi radical (055), so it links to its Radical lookup page ([[Radical 055|廾]]) per the established unlinkable-but-real-radical convention (previously used for 聿 in the 画 iteration).
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus three bare Words entries (one with a stray leading dash inside its own gloss text); no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (6 total ground-truth hits): 3 already present (兵法, 兵站, 兵士 — all reformatted with ruby/gloss and stand-in annotation added to 兵士); 3 missing — 哨兵, 将兵, 兵卒 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 兵`): [[浜 (char)|浜]] ("coast; edge; bank") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 152 — [[characters/児 (char)|児]]
+
+Next never-perfected character by `danayo_id` (2022 — 2020 and 2021 do not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was invalid: stored as `兒`, which is merely 児's own listed alias, not a distinct type or phonetic component — the same self-referential defect class as the earlier 便 iteration. Verified via Wiktionary that 児/兒 is 象形 — a pictograph of an infant with an imperfect cranium (i.e. the fontanelle) — corrected accordingly.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching multiple sibling words (女児, 孤児院, 児子, 幼児) that all store `pos: 名詞`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 象形](lookup/List%20of%20象形.md): an infant with an imperfect cranium (i.e. the fontanelle); "child, offspring."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one bare Words entry with no ruby; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite two real ground-truth hits.
+
+**Words cross-check** (9 total ground-truth hits): 1 already present (児児, reformatted with ruby); 8 missing — 児 (stand-in, added with annotation), 胎児, 女児, 孤児院, 児子, 幼児, 嬰児, 児童 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 児` or its alias `兒`): [[䦧 (char)|䦧]] ("quarrel"), [[霓]] ("rainbow") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 151 — [[characters/億|億]]
+
+Next never-perfected character by `danayo_id` (2019). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 意` already correct — verified via Wiktionary: 形声, semantic 人 + phonetic 意, "a hundred million."
+
+**Frontmatter**: already correct (`pos: 数詞`, `mc_id: 1889` verified against `CC 1000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 009|人]] ("person") + phonetic [[意]] — "a hundred million," sometimes written as 1,0000,0000.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (1 total ground-truth hit): 一億 (the `stand_in`) missing — added with annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 意`): [[噫]] ("belch"), [[臆]] ("feelings; opinion; thoughts"), [[憶]] ("to recollect; remember") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 150 — [[characters/備|備]]
+
+Next never-perfected character by `danayo_id` (2018). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary, which gives 備 a dual 形聲/會意 classification: 人 ("person") + 𤰈 ("quiver," phonetic), "a person carrying a quiver" → "ready, prepared." 𤰈 has no vault character page (an obscure component confined to this one character, in the same class as 攴/㐮/鷲/瘠 previously documented in [[AIOS/projects.md]] — cited by Wiktionary but never independently created), so it's cited as bare text rather than linked; kept the field at `會意` since a phonetic link isn't available to justify treating it as a proper 形声 entry.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `実詞`, matching the stand-in word [[words/準備|準備]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 會意/形声: [[Radical 009|人]] ("person") + 𤰈 ("quiver," no vault page) — a person carrying a quiver; "ready, prepared."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (準備, 必備); 1 missing — 設備 — added from stored fields.
+
+**Chengyu cross-check** (2 total): both already present (日用必備, 有備無患), no changes needed.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 備`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 149 — [[characters/停|停]]
+
+Next never-perfected character by `danayo_id` (2017). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 亭` already correct — verified via Wiktionary: 形声, semantic 亻 + phonetic 亭 (OC \*deːŋ), "to stop, to halt."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/停留|停留]]'s own stored `pos`.
+
+**Content removed**: none — this page was already mostly well-formed from an earlier partial pass.
+
+**Graphemic bullet**: already correct and complete, no changes needed.
+
+**Body defects found**: the `stand_in` Words entry (停留) had no stand-in annotation; two Words entries were missing entirely.
+
+**Words cross-check** (4 total ground-truth hits): 2 already present (停留 — annotation added, 停滞); 2 missing — 停泊, 停止 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 亭`, excluding this page itself) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 148 — [[characters/借 (char)|借]]
+
+Next never-perfected character by `danayo_id` (2016 — 2015 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 昔` already correct — verified via Wiktionary: 形声, semantic 人 ("person") + phonetic 昔, "to lend/borrow."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the sibling word [[words/仮借|仮借]]'s own stored `pos` (the stand-in word 借.md itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet**: kept the existing analysis, converted the markdown-style `[人](Radical 009)` link to a proper `[[Radical 009|人]]` wikilink and added a brief gloss.
+
+**Body defects found**: two CC-initial/final links (`聲 精`, `韻 麻三開`) were floating outside any bullet; no SKIP/Stroke or MC-rank bullets existed; no `## Words` section existed at all despite two real ground-truth hits; no `## Derived Characters` section existed despite three real ground-truth hits.
+
+**Words cross-check** (2 total ground-truth hits, including a quoted-scalar-shape self-citation from 借.md's own `characters: "借 (char)"` field): 借 itself (stand-in, added with annotation), 仮借 — both added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 昔`): [[措]] ("to arrange"), [[錯]] ("mistake; error"), [[惜 (char)|惜]] ("to begrudge; rue") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 147 — [[characters/信|信]]
+
+Next never-perfected character by `danayo_id` (2014). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, but Wiktionary's primary classification is 形声 — phonetic [[Radical 009|亻]] (OC \*njin) + semantic [[言 (char)|言]] ("words"), the Shuowen 会意 reading noted only as a secondary/traditional gloss — corrected to `人`. Notably the page's pre-existing bullet had already half-flagged this itself, parenthetically noting "(which was OC \*njin!!)" next to 人 — the double exclamation marks a moment of the same doubt this iteration resolved in Wiktionary's favor.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞` (an eventive/transitive sense — "to trust X" — matching the stand-in word [[words/信任|信任]]'s sibling word [[words/不信|不信]], which stores `pos: 事詞` for the same root meaning, since 信任 itself had a blank `pos`).
+
+**Content removed**: the malformed Korean level link, `Korean HS`, which didn't match the frontmatter's own `hanmun_edu_level: 中` (→ Korean MS) — an internal contradiction between the bullet and the field it was supposed to reflect.
+
+**Graphemic bullet rewritten**: 形声 (OC \*sŋi[n]s): phonetic [[Radical 009|亻]] (OC \*njin) + semantic [[言 (char)|言]] ("words") — trustworthy words, words one can depend on; "to trust, to believe." Also converted several non-canonical relative paths (`../lookup/...`, `../syllables/...`) to canonical repo-root-relative paths.
+
+**Body defects found**: two CC-initial/final links (`聲 心`, `韻 眞A開`) were floating outside any bullet with no MC-rank embedding; the Korean level mismatch noted above; one Words entry used a markdown-style link instead of a wikilink, two others were bare `[[link]]` with unformatted comma-separated glosses.
+
+**Words cross-check** (8 total ground-truth hits): 4 already listed (信条, 信奉, 信用, 通信 — all reformatted with ruby/gloss); 4 missing — 信任 (stand-in, added with annotation), 不信, 信徒, 信天翁 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 信達雅化 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (1 hit via `graphemic_classification: 人`, excluding this page itself): [[千]] ("thousand") — added; no section previously existed.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 146 — [[characters/便 (char)|便]]
+
+Next never-perfected character by `danayo_id` (2013). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was invalid: stored as the literal string `便` (the character's own name), which is neither a valid type name nor a genuine phonetic component. Verified via Wiktionary that 便 is 會意 — [[Radical 009|亻]] ("person") + [[更 (char)|更]] ("to change"), "to change one's posture to make oneself comfortable" → "convenient" — corrected accordingly.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the stand-in word [[words/便|便]]'s own stored `pos`.
+
+**Content removed**: none of substance.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): [[Radical 009|亻]] ("person") + [[更 (char)|更]] ("to change") — to change one's posture to make oneself comfortable; "convenient."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links with no bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite a real ground-truth hit; the stand-in Words entry for 便 itself was missing.
+
+**Words cross-check** (6 total ground-truth hits — discovered a 5th `characters:` YAML shape in the process: an unquoted single scalar, `characters: 便 (char)`, used by the word 便.md itself, distinct from all four previously catalogued shapes): 2 already present (方便, 便宜); 4 missing — 便 (stand-in, added with annotation), 大便, 以便, 郵便 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 便`, excluding this page itself): [[鞭]] ("whip") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 145 — [[characters/例|例]]
+
+Next never-perfected character by `danayo_id` (2012). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 列` already correct — verified via Wiktionary: 形声, semantic 亻 ("person") + phonetic 列, "example, instance, precedent."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/実例|実例]]'s own stored `pos`. `mc_id: 3847` verified against `CC 3000.md` (entries 3001–4000; confirmed 3847. 例 directly).
+
+**Content removed**: none of substance — the page was essentially a stub.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*reds): semantic [[Radical 009|亻]] ("person") + phonetic [[列]] — "example, instance, precedent," concepts drawn from patterns of established human behavior.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links with no bullet, no `## Words` section, and no `## Derived Characters` section despite two real ground-truth hits.
+
+**Words cross-check** (3 total ground-truth hits): all 3 missing — 実例 (stand-in, added with annotation), 恒例, 比例 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 列`): [[烈]] ("fiery; violent; vehement"), [[裂]] ("split; crack") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 144 — [[characters/低|低]]
+
+Next never-perfected character by `danayo_id` (2011). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 氐` already correct — verified via Wiktionary: 形声, semantic 亻 ("person") + phonetic 氐, "a person lowering themselves, bowing" → "low."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞`, matching the stand-in word [[words/低下|低下]]'s own stored `pos`. `mc_id: 2908` verified against `CC 2000.md` (this file's entries run 2001–3000, confirmed 2908. 低 directly, unlike the usual mirrored-range CC lookup files).
+
+**Content removed**: none of substance — the page was essentially a stub.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*tiːl): semantic [[Radical 009|亻]] ("person") + phonetic [[氐]] — a person lowering themselves, bowing; "low" (of height, quantity, or voice).
+
+**Body defects found**: `# Notes` was the wrong heading level, and held nothing but two floating CC-initial/final links with no MC bullet and one bare Words entry with no ruby; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Derived Characters` section existed despite four real ground-truth hits.
+
+**Words cross-check** (2 total ground-truth hits): 低廉 already present (bare, reformatted with ruby from stored fields); 低下 (the `stand_in`) missing — added with stand-in annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (4 hits via `graphemic_classification: 氐`): [[抵]] ("to resist"), [[邸]] ("residence"), [[砥]] ("whetstone"), [[底 (char)|底]] ("bottom; underneath; underside") — all added from stored fields.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 143 — [[characters/位|位]]
+
+Next never-perfected character by `danayo_id` (2010). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, but Wiktionary clearly classifies 位 as 形声 — semantic [[Radical 009|人]] ("man") + phonetic [[立 (char)|立]] ("stand") — corrected to `立` per the rule that 形声 characters store the phonetic component name, not the type string. Notably the page's own pre-existing prose had already half-recognized this, hedging with "semantic (originally phonetic) 立" — the frontmatter field just hadn't caught up.
+
+**Frontmatter**: already otherwise correct (`pos: 名詞`, `mc_id: 204` verified against `CC 0000.md`).
+
+**Content removed**: the stray closing floating links (`[[Lookup/CC/initials/聲 云]]`, `[[Lookup/CC/finals/韻 脂B合]]`) sitting after the Words list with no bullet to embed in — folded into the proper MC bullet instead.
+
+**Graphemic bullet rewritten**: 形声 (OC \*ɢʷrɯbs): semantic [[Radical 009|人]] ("man") + phonetic [[立 (char)|立]] (OC \*rɯb, "stand") — often simply written as 立 in idiomatic expressions such as 即位 (jíwèi) in Western Zhou inscriptions; "position, rank." (Also fixed the markdown-style `[人](Radical 009)` link to a proper `[[Radical 009|人]]` wikilink.)
+
+**Body defects found**: `## Notes` had only the graphemic bullet, no SKIP/Stroke, MC-rank/CC-initial-final/syllable, or Levels bullets; four Words entries (定位, 位置, 位相, 各位) were bare `[[link]]` with no ruby/gloss; the `stand_in` entry (定位) had no stand-in annotation.
+
+**Words cross-check** (20 total ground-truth hits, checked across all four `characters:` YAML shapes): all 20 already listed — 4 needed ruby/gloss filled in from stored fields, plus the stand-in annotation added to 定位.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 位`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 142 — [[characters/伝|伝]]
+
+Next never-perfected character by `danayo_id` (2009). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `專`, but that's the phonetic of the *traditional* 傳 — the modern shinjitai glyph 伝 (already the subject of this page, with 傳/传 as its own aliases) is a shinjitai simplification that replaces the phonetic 專 with 云, per Wiktionary ("Simplified from 傳 (專 → 云)... 云 functions as the phonetic element"), the same pattern as 轉 → 転. The page's own Notes bullet already correctly named 云 as the phonetic before this iteration — the frontmatter field just hadn't been brought in line with it. Since 云 is itself only an alias (of [[characters/雲 (char)|雲]], not an independent character page), the field was set to the parent `雲` per the alias-resolves-to-parent convention.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/伝播|伝播]]'s own stored `pos`. `graphemic_classification` corrected `專` → `雲` as above.
+
+**Content removed**: none.
+
+**Graphemic bullet rewritten**: 形声 (OC \*ɢiuan): semantic [[Radical 009|亻]] ("person") + phonetic [[雲 (char)|云]] (OC \*ɢun) — simplified in the shinjitai reform from traditional 傳's phonetic 專 (compare the analogous 轉 → 転 simplification); "to transmit, to propagate." Also converted the phonetic link from a bare markdown-style link to a proper wikilink with alias display text, matching the vault's link conventions.
+
+**Body defects found**: `## Notes` had only the graphemic bullet — no SKIP/Stroke, MC-rank/CC-initial-final/syllable, or Levels bullets; two CC-initial/final links (`聲 澄`, `韻 仙B三合`) were floating outside any bullet; one Words entry (伝播, the `stand_in`) used a markdown-style link instead of a wikilink and was missing its stand-in annotation; two other entries (伝統, 伝説) were bare `[[link]]` with unformatted comma-separated glosses instead of ruby+quoted gloss.
+
+**Words cross-check** (6 total ground-truth hits, checked across all four `characters:` YAML shapes): 5 already listed (all reformatted — stand-in annotation added to 伝播, ruby/gloss fixed for 伝統/伝説); 1 missing — 遺伝子 ("gene") — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 伝`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 141 — [[characters/以 (char)|以]]
+
+Next never-perfected character by `danayo_id` (2008 — 2007 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` verified correct via Wiktionary: a person (人) carrying something, simplified to 㠯 in pre-Qin scripts.
+
+**Frontmatter**: `pos:` was blank — filled in as `格助詞`, matching the word file [[words/以|以]]'s own stored `品詞`/`pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet**: kept as-is (already correct and complete from a prior partial edit).
+
+**Body defects found**: `## Notes` had only the graphemic bullet — no SKIP/Stroke, MC-rank/CC-initial-final/syllable, or Levels bullets; two CC-initial/final links (`聲 以`, `韻 之`) were floating outside any bullet with no embedding; `## Chengyu` used a malformed markdown-style link (`[義以立名](/chengyu/義以立名.md)`) instead of a wikilink, and its `<rt>` reading (`ㄨㄧ·...`) did not match the chengyu's own stored `注音` (`ㄜㄧ·...`) — fixed to the stored value; several Words entries (以前, 以便, 既以, 為以) were bare `[[link]]` with no ruby/gloss at all.
+
+**Words cross-check** (9 total ground-truth hits, checked across all four `characters:` YAML shapes): 8 already listed but 4 needed ruby/gloss filled in from stored fields; 1 missing — the stand-in entry for 以 itself — added. Caught two fabricated-then-corrected readings/glosses before stamping: 為以's actual stored `注音` is `⼔·ㄧ` (not `ㄨㄝㄧ` as I first guessed), and 既以's stored gloss is "already; too late" (not "already; since").
+
+**Chengyu cross-check** (1 total): 義以立名 already present, relinked as a proper wikilink with its corrected reading and a gloss added from its stored field.
+
+**Derived Characters** (1 hit via `graphemic_classification: 以`): [[似 (char)|似]] ("like; as; resembling") — added, no section previously existed.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
 
 ### 2026-07-22, iteration 52 — [[characters/画|画]]
 
@@ -1523,6 +2011,66 @@ Next never-perfected character by `danayo_id` (2003). Stamped `date-last-perfect
 **Derived Characters** (1 hit via `graphemic_classification: 乎`): [[呼 (char)|呼]] ("to call; shout; exhale") — already informally noted, now properly ruby'd. Filename collision found — linked with pipe-alias.
 
 **Verification**: ran the Python cross-check script against every `<rt>` value on this page (including the `characters/` folder, since the Derived Characters entry references another character page) — 0 mismatches found.
+
+### 2026-07-24, iteration 138 — [[characters/乗 (char)|乗]]
+
+Next never-perfected character by `danayo_id` (2004). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` checked out as correct — verified via Wiktionary (a pictograph of a person 大 climbing a tree 木, feet visible; etymology clearer in the alternative form 椉), matching the page's own pre-existing bullet almost exactly.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the character's own verbal gloss ("ride"). `mc_id: 269` verified against `CC 0000.md` (traditional form 乘). Confirmed `skip_number: 4-9-3`'s second digit matches `stroke_count: 9` — already fixed in a prior session's SKIP-4 corpus sweep per `AIOS/projects.md`, no new issue.
+
+**Content removed**: a non-canonical `### Derived character` H3 subsection (promoted to `## Derived Characters`); a stray "exponentiation: 累乘/冪乗/指数乗/???" research note was kept, not discarded — reformatted into a proper Notes bullet flagging it as a genuinely unresolved open question (none of the three candidate words exist as files) rather than fabricating a resolution.
+
+**Graphemic bullet expanded**: kept the existing correct citation, added the extension chain ("ascend" → "ride" → arithmetic multiplication) and the alternative-form note.
+
+**Body defects found**: Levels bullet existed but listed in fully reversed order (Korean, HSK, Jōyō, Grade instead of Grade, HSK, Jōyō, Korean) and used non-canonical `../` relative paths throughout (SKIP/Stroke/Levels bullets); no MC-rank bullet existed at all — two floating CC-initial/final links sat unattached at the very bottom of the file; 19 of 20 pre-existing Words entries were bare with plain-text glosses instead of ruby+gloss.
+
+**Words cross-check** (21 total ground-truth hits — every real compound in the vault citing 乗 was already somewhere on the page, none missing outright, just unformatted): reformatted all 21 with ruby+gloss (added the stand-in 乗 itself as the one true addition, since it wasn't previously listed as its own entry). **Caught two fabricated glosses before stamping**: initially invented "a thousand chariots (archaic)" / "ten thousand chariots (archaic)" for 千乗/万乗 instead of checking their stored `english` fields — cross-checked directly and corrected to the real values, "vassal of the Son of Heaven" and "ten thousand chariots; imperial power" respectively (both closer to but not identical to my guesses — another reminder that plausible-sounding invented glosses are exactly the kind that slip through unnoticed). Spot-checked several of the pre-existing carried-over glosses (乗員, 添乗, 騎乗, 便乗) against their stored fields and found them accurate paraphrases, not new fabrications.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 乗`, also checked under the traditional-form `乘` per the lesson from [[characters/数|数]]'s 薮 case — no additional hits found under that form): [[剰]] ("remainder; surplus") — already informally noted, now properly ruby'd, no filename collision.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 139 — [[characters/争|争]]
+
+Next never-perfected character by `danayo_id` (2005). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` checked out as correct — verified via Wiktionary (two hands, 爪 and 彐, still visible on top, gripping a plowshare — now a vertical hook, matching `radical: 亅` exactly — to contend, to fight).
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/抗争.md` (the `stand_in` compound itself). `mc_id: 486` verified against `CC 0000.md` (traditional form 爭).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 象形], two hands on a plowshare — see etymology above.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links — no graphemic/SKIP/MC/Levels bullets, no `## Words` heading at all despite seven real ground-truth words, no `## Derived Characters` despite three real hits.
+
+**Words cross-check** (7 total ground-truth hits): none previously listed — built the section from scratch: the stand-in 抗争 itself, 争端, 戦争, 競争, 論争, 闘争, 紛争, all from stored fields (紛争 found only via the inline-array search pattern, confirming that check is still worth running every time).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 争`): [[浄]] ("clean; neat; tidy"), [[箏]] ("guzheng; koto"), [[静]] ("quiet") — all added, none had a filename collision.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 140 — [[characters/京|京]]
+
+Next never-perfected character by `danayo_id` (2006). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` checked out as correct — verified via Wiktionary (a pictograph of a tall building/tower, explicitly "compare 高" — the same comparison already surfaced from the opposite direction back in [[characters/高 (char)|高]]'s own iteration 81, where Wiktionary called 京 "a similar tower pictograph that is not itself a Kangxi radical").
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 599` verified against `CC 0000.md`).
+
+**Content removed**: none (the "capital" one-word note and the "10^16" aside were kept, folded into a proper Notes bullet rather than left as bare fragments — 京 as a large-number unit is a genuine secondary sense worth preserving).
+
+**Graphemic bullet written from scratch**: [List of 象形], a tall building/tower; compare [[高 (char)|高]].
+
+**Body defects found**: `# Notes` was the wrong heading level and held a mix of one-word fragments and Words-style entries with no structure; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all; no `## Derived Characters` section existed despite six real ground-truth hits.
+
+**Words cross-check** (5 total ground-truth hits): 3 already present (2 bare, reformatted; 1 already ruby'd); 2 missing — the `stand_in` compound 京城 itself and 京畿 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 京` — tied for one of the larger families this loop): [[掠]] ("to rob; plunder"), [[椋]] ("starling"), [[景]] ("scenery; scene"), [[涼]] ("refreshing; cool"), [[諒]] ("to excuse; forgive"), [[鯨]] ("whale") — all added, none had a filename collision.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
 
 ### 2026-07-24, iteration 133 — [[characters/緑 (char)|緑]]
 
