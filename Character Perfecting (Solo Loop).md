@@ -779,3 +779,73 @@ Next never-perfected character by `danayo_id` (191). Stamped `date-last-perfect:
 **Chengyu cross-check** (1 total, missing, section built from scratch): 財愛悪根 ("the love of money is the root of all evil") — added from stored fields.
 
 **Derived Characters**: no hits (`graphemic_classification: 根` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 88 — [[characters/真 (char)|真]]
+
+Next never-perfected character by `danayo_id` (192). Stamped `date-last-perfect: 2026-07-23`. **Real etymology correction, a new variant of the "self-referential nonsense value" bug class**: `graphemic_classification: 眞` cited the character's own traditional variant form (already separately listed in `aliases:`) as if it were a phonetic component — not unrelated like 送/笑, not one-step-removed like 発/癶, but literally citing itself. Verified via Wiktionary: 真/眞's real bronze-inscription form is 形声, semantic 貝 ("cowrie shell," later replaced by 鼎 "tripod") + phonetic **𠂈** (originally the pictograph of 顛, "to fall headlong"). Corrected the field from `眞` to `𠂈` and wrote the bullet explaining the component substitution. Also noted: the Kangxi-assigned radical `目` reflects neither ancestral component (貝/鼎 nor 𠂈) — same "radical diverges from real etymology" pattern as [[characters/重 (char)|重]]/[[characters/度|度]]/[[characters/風 (char)|風]]/[[characters/前 (char)|前]] earlier this loop, now confirmed as a recurring vault-wide phenomenon rather than a one-off. 𠂈 has no character page in this vault, cited as a bare `[[𠂈]]`-free plain-text mention (same treatment as 家's 𢑓 last iteration — an unencodable/extremely rare glyph where even a bare wikilink felt like overreach).
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the character's own adjectival gloss ("true").
+
+**Content removed**: none (真摯 was relocated from a mislabeled `## Notes` section into `## Words`, not deleted).
+
+**Body defects found**: `## Words` sat before a separately-headed `## Notes` (holding two floating CC-initial/final links plus one more Words-style entry, 真摯) — the split itself was the core defect, same shape as [[characters/思|思]]/[[characters/通 (char)|通]] earlier this loop; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (4 total ground-truth hits, found via a quoted-inline-scalar `characters: "真 (char)"` form that a plain multi-line-list grep alone would have missed — same class of gap as the inline-array issue flagged on [[characters/音|音]] earlier this loop, now confirmed as a third distinct `characters:` frontmatter shape to search): 3 already present across the split sections (all ruby'd); 1 missing — 天真 — added, plus the stand-in 真 itself (a `words/真.md` file exists for it).
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 天真乱漫 ("simple and artless") — added from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 真`): [[鎮 (char)|鎮]] ("to tranquilize") and [[慎]] ("cautious") — added. Filename collision found on 鎮 — linked with pipe-alias; 慎 had no collision.
+
+### 2026-07-23, iteration 89 — [[characters/酒|酒]]
+
+Next never-perfected character by `danayo_id` (193). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 酉` checked out as correct — verified via Wiktionary (semantic [[Radical 085|水]] "water" + phonetic 酉, OC \*luʔ); genuinely interesting derivation, since 酉 was itself the *original* pictogram for "wine" before being repurposed as the 10th earthly branch, with 水 added later specifically to disambiguate the alcohol sense — and unlike several other characters this loop, the Kangxi-assigned radical (酉) actually *is* the true etymological component here, not a divergent later substitution.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/酒精.md` (the `stand_in` compound itself).
+
+**Content removed**: a stray empty bullet (`- ` with nothing after it).
+
+**Graphemic bullet fixed**: the existing bullet had the right components but an empty gloss (`("")`) for 水 — filled in as "water," and expanded with the 酉-was-the-original-word note.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; four Words entries (醇酒, 清酒, 酒糟, 麦酒) were bare with no ruby.
+
+**Words cross-check** (7 total ground-truth hits): 4 already present (bare, reformatted); 3 missing — the `stand_in` compound 酒精 itself, 禁酒, 酌酒 — added, all from stored fields. **Noted in passing, not corrected**: `words/酒精.md`'s own stored `注音` (`ㄐㄨㄐㄝㄫ`) is missing the `ㄛ` that 酒 itself has (`ㄐㄨㄛ`) — this is the exact `調`/`酒` mismatch already documented in `AIOS/projects.md`'s syllable-lint sweep as a known systemic bug class, not a new find; cited verbatim from the stored field rather than silently corrected.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 酒` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 90 — [[characters/記|記]]
+
+Next never-perfected character by `danayo_id` (195; 194/[[characters/書|書]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 己` checked out as correct — verified via Wiktionary (semantic [[Radical 149|言]] "speech" + phonetic 己, OC \*kɯʔ), matching `radical: 言` — the same phonetic-component-citation pattern as the checklist's own canonical 詩 example.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/記憶.md` (the `stand_in` compound itself). `mc_id: 931` verified against `CC 0000.md`. **Caught after initially missing it**: the graphemic/body work was drafted before double-checking this field had actually been fixed in the file — confirmed via a follow-up grep that it was still blank, and corrected before finalizing this entry.
+
+**Content removed**: none (記載/記者 were relocated from a wrong-heading-level Notes section into `## Words`, not deleted).
+
+**Graphemic bullet written from scratch**: 形声, semantic 言 + phonetic [[己]] — to record, to remember.
+
+**Body defects found**: `# Notes` was the wrong heading level and held two floating CC-initial/final links plus two Words-style entries (記載, 記者) with no ruby; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (13 total ground-truth hits): 3 already present (1 ruby'd; 2 bare, reformatted after checking their stored `注音`); 10 missing — the `stand_in` compound 記憶 itself, 史記, 日記, 書記, 礼記, 筆記, 記録, 出谷記, 創世記, 記念日 — added, all from stored fields. **Noted in passing, not corrected**: `words/礼記.md`'s stored `注音` (`ㄌㄝㄧㄍ`) looks truncated — missing the final `ㄧ` that 記 itself always contributes to every other compound on this page — cited verbatim rather than silently completed.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 指記二碑 — the same chengyu already added to [[characters/指|指]] two iterations ago, now also linked from its other constituent character 記.
+
+**Derived Characters**: no hits (`graphemic_classification: 記` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 91 — [[characters/雪 (char)|雪]]
+
+Next never-perfected character by `danayo_id` (197; 196/[[characters/黒 (char)|黒]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 彗` checked out as correct — verified via Wiktionary (雪 is an ancient simplification of 䨮 — already independently listed in the page's own `aliases:` field, nice corroboration — itself semantic [[Radical 173|雨]] "rain" + phonetic 彗), matching `radical: 雨`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 1547` verified against `CC 1000.md`).
+
+**Content removed**: none (雪魚's prose-style mention was reformatted, not deleted).
+
+**Graphemic bullet written from scratch**: 形声 (via 䨮), semantic 雨 + phonetic [[彗]] — snow.
+
+**Body defects found**: `## Notes` was empty; two floating CC-initial/final links sat between two Words-style entries with no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 雪魚 was written as inline prose ("cod is [[雪魚]]") instead of a proper ruby+gloss Words entry.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (both reformatted — 雪魚 rescued from prose, 雪崩 given its ruby); 1 missing — the stand-in 雪 itself — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 雪` matches no other character) — section correctly omitted.

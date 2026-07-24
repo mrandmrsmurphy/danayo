@@ -31,6 +31,7 @@ aliases:
   - 鱈
   - 䨮
 注音: ㄙ⼔ㄊ
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -43,9 +44,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
+- 形声 (OC \*sqʰʷed): an ancient simplification of 䨮 (already listed as an alias), itself semantic [[Radical 173|雨]] ("rain") + phonetic [[彗]] — snow.
+- [SKIP-2-8-3](lookup/SKIP/SKIP-2/SKIP-2-8-3.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
+- 1547th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 薛A三合|iuᴇt]] → [ㄙ⼔ㄊ](syllables/ㄙ⼔ㄊ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- cod is [[雪魚]]
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 薛A三合]]
-- [[雪崩]] "avalanche"
+- <ruby>[[雪]]<rt>ㄙ⼔ㄊ</rt></ruby> "snow" (stand-in for 雪)
+- <ruby>[[雪崩]]<rt>ㄙ⼔ㄊㄅㄨㄫ</rt></ruby> "avalanche"
+- <ruby>[[雪魚]]<rt>ㄙ⼔ㄊ·⼄</rt></ruby> "whiting; cod"
