@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 217 — [[characters/得|得]]
+
+Next never-perfected character by `danayo_id` (2097). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `㝵`, implying a 形声 structure — but Wiktionary explicitly classifies 得 as 會意, with 㝵 described only as the *ancient form* (predecessor), itself composed of 貝 + 又, not a phonetic component of a phono-semantic 得. Corrected to `會意`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/獲得|獲得]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: the ancient form is 㝵 (no vault page, not listed as an alias either — a genuine "cited but never created" ancestor glyph in the same class as 攴/㐮/鷲/瘠), composed of [[貝]] ("cowry") + [[又 (char)|又]] ("hand") — to pick up a cowry, to obtain valuables. [[Radical 060|彳]] (this character's own radical) was added later to show the cowry being picked up on the road; further clerical-script corruption turned 貝 into 目 then 旦. Neither original component matches this character's own radical field, so both get direct character-page links.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (獲得) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (4 total ground-truth hits): 1 already present (取得); 3 missing — 獲得 (stand-in, added with annotation), 得点, 自得 — all added from stored fields.
+
+**Chengyu cross-check** (2 total): 自業自得 already present; 種瓜得瓜 missing — added with its stored reading and gloss.
+
+**Derived Characters** (1 hit via `graphemic_classification: 㝵`, excluding this page itself — the field's former value): [[碍]] ("to hinder") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 216 — [[characters/従 (char)|従]]
+
+Next never-perfected character by `danayo_id` (2096). A genuinely tricky classification case. Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` kept, after careful checking: Wiktionary's page for 從/従 describes it as 形聲 (phonetic 从 + semantic 辵/彳), but 从 is itself only an *alias* of this very character in this vault (從/従/从 all fold into one entry, no separate 从 page exists) — so setting the field to `从` would be self-referential, the same defect class as the earlier 便/児/加 corrections. Checked 从's own independent Wiktionary entry: at that deeper layer, 从 is genuinely 會意 (two [[Radical 009|人]] walking together, "to follow"). Since the field can't validly name the character's own alias as a phonetic, and the meaning-bearing root is itself ideogrammic, kept `會意` — documenting both layers of the etymology explicitly in the bullet rather than picking one silently.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `動詞`, matching the sibling word [[words/従事|従事]]'s own stored `pos` (the stand-in word 従.md itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: documents the alias-self-reference problem explicitly (see above) rather than silently resolving it one way.
+
+**Body defects found**: `## Notes` was empty aside from two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (従) was missing entirely (all 10 other ground-truth words were already present and correctly formatted).
+
+**Words cross-check** (11 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 従.md's own `characters: 従` field): 10 already present and correctly formatted (従事, 従業, 従軍, 従者, 主従, 従前, 従属, 従来, 服従, 盲従); 1 missing — 従 (stand-in, added with annotation).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 従`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 215 — [[characters/待|待]]
+
+Next never-perfected character by `danayo_id` (2095). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 寺` already correct — verified via Wiktionary: 形声, semantic 彳 ("movement, walking") + phonetic 寺 — "to wait for, to await."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/等待|等待]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 060|彳]] ("movement, walking") + phonetic [[寺]] — probably related to 等; some scholars connect it to 侍 ("to serve"). "To wait for, to await, to expect."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` section existed at all despite one real ground-truth hit; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (1 total ground-truth hit): 等待 (the `stand_in`) missing — added with annotation.
+
+**Chengyu cross-check** (1 total): 守株待兎 already present, no changes needed.
+
+**Derived Characters** (6 hits via `graphemic_classification: 寺`): [[詩]] ("poem"), [[侍]] ("servant; attendant"), [[時 (char)|時]] ("when"), [[特]] ("special; distinguished"), [[持 (char)|持]] ("to hold"), [[等 (char)|等]] ("etc.; rank") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 214 — [[characters/往 (char)|往]]
+
+Next never-perfected character by `danayo_id` (2094 — 2093 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 王` already correct — verified via Wiktionary: 形声, originally 㞷/𫭠, semantic 止 ("foot") + phonetic 王, with 彳 ("to step") added later as an additional semantic element — "to go, depart, head for."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞` (the base verbal sense "to go towards"; the stand-in word 往.md itself has no `pos` field, and the only sibling word 往往 stores `副用名詞`, reflecting its own specific reduplicated-adverb usage rather than the character's base sense).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: originally 㞷/𫭠, semantic [[止]] ("foot") + phonetic [[王 (char)|王]] (OC \*ɢʷaŋ, \*ɢʷaŋs); [[Radical 060|彳]] ("to step") was later added as an additional semantic element. This character's own `radical:` field (`彳`) matches the later-added element, not either original component — both 止 and 王 get direct character-page links.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one bare Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (往) was missing entirely.
+
+**Words cross-check** (3 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 往.md's own `characters: 往` field): 1 already present (往往, ruby filled in from stored fields); 2 missing — 往 (stand-in, added with annotation), 既往 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (4 hits via `graphemic_classification: 王`): [[匡]] ("to correct; revise"), [[枉]] ("bent; depraved"), [[汪]] ("vast; extensive; deep"), [[旺]] ("to flourish; flourishing; prosper") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 213 — [[characters/強 (char)|強]]
 
 Next never-perfected character by `danayo_id` (2092). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 弘` already correct — verified via Wiktionary (Shuowen): 形声, phonetic 弘 (OC \*ɡʷɯːŋ) + semantic 虫 ("insect") — the character likely originally referred to the rice weevil, phonetically borrowed for "strong, powerful."
