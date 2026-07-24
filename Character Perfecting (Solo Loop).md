@@ -919,3 +919,37 @@ Next never-perfected character by `danayo_id` (201). Stamped `date-last-perfect:
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters**: no hits (`graphemic_classification: 問` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 96 — [[characters/深|深]]
+
+Next never-perfected character by `danayo_id` (202). Stamped `date-last-perfect: 2026-07-24`. **Fifth real wrong-graphemic-component find this loop** (after 送/笑→灷, 思/四→囟, 発/癶→癹, 家/會意→𢑓, 真/眞→𠂈): `graphemic_classification: 會意` had no basis at all — verified via Wiktionary that 深 is genuinely 形声, semantic [[Radical 085|水]] ("water") + phonetic **𥥍** (an obscure component with no attested meaning of its own, OC \*hljum/\*hljums, the -s suffix distinguishing the nominal "depth" from the base adjectival "deep"). Corrected the field from `會意` to `𥥍`. 𥥍 has no character page in this vault, cited as bare plain text (same unlinked treatment as 𢑓/𠂈 the last two times this loop hit an unencodable/extremely rare phonetic).
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the character's own adjectival gloss ("deep") — `words/深刻.md`'s own `pos` field was itself blank, so this was set from the gloss rather than copied from the stand-in.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 水 + phonetic 𥥍 — see etymology above.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; two Words entries (深奥, 深刻) were bare with no ruby; no `## Words` heading existed at all (both sat directly under Notes).
+
+**Words cross-check** (4 total ground-truth hits): 2 already present (bare, reformatted); 2 missing — 深淵, 深長 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total): already present and correctly formatted (意味深長) — no changes needed.
+
+**Derived Characters**: no hits (`graphemic_classification: 深` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 97 — [[characters/族|族]]
+
+Next never-perfected character by `danayo_id` (203). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` checked out as correct this time, and the page already had a real, correctly-sourced bullet — verified via Wiktionary (会意 of 㫃 "flag" + [[Radical 111|矢]] "arrow," a flag and arrow clustered together depicting a group of people). Expanded the bullet slightly with the "flag and arrow clustered" imagery and linked 矢 to its Radical page (Radical 111), which the original bullet hadn't done.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/家族.md` (the `stand_in` compound itself). `mc_id: 765` verified against `CC 0000.md`.
+
+**Content removed**: none (one plain-Markdown-link entry, 同族, was converted to a wikilink, not deleted).
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 10 Words entries were bare with no ruby; 同族 used a plain Markdown link instead of a wikilink.
+
+**Words cross-check** (22 total ground-truth hits — the largest plain Words list this loop, tied with [[characters/海|海]]'s 33-hit page for sheer volume of missing entries even though the total count is smaller): 15 already present (2 ruby'd; 1 plain-link, converted; 12 bare, reformatted); 7 missing — the stand-in 家族 itself, 水族, 満族, 漢族, 語族, 部族, 大家族, 水族館 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 族` matches no other character) — section correctly omitted.
