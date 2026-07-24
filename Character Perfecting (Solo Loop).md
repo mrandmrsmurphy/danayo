@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 186 — [[characters/変 (char)|変]]
+
+Next never-perfected character by `danayo_id` (2062). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 䜌` already correct — verified via Wiktionary: 形声, phonetic 䜌 + semantic 攴, "to change, to transform."
+
+**Frontmatter**: already correct (`pos: 性詞`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*prons): phonetic 䜌 (no vault page) + semantic 攴 (simplified to [[Radical 034|夂]] in the shinjitai reform, the same pattern as 云 replacing 專 in [[characters/伝|伝]] earlier in this loop) — "to change, to transform; to become, to turn into." Confirmed 夂 is indeed 変's own radical via Radical 034's own lookup page, which already lists 変 among its used characters.
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (変) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (5 total ground-truth hits, including a discovered quoted-scalar self-citation from 変.md's own `characters: "変 (char)"` field): 3 already present (改変, 変成, 変動); 2 missing — 変 (stand-in, added with annotation), 変化 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (5 hits via `graphemic_classification: 䜌`): [[弯]] ("to bend; curve"), [[鵉]] ("luan"), [[恋 (char)|恋]] ("romance; romantic love"), [[蛮]] ("barbarian"), [[栾]] ("Koelreuteria paniculata") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 185 — [[characters/士 (char)|士]]
+
+Next never-perfected character by `danayo_id` (2061). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct — verified via Wiktionary: a pictograph of a war axe, later "soldier," then "officer, intellectual" — the page's own pre-existing bullet was already an accurate, well-sourced match, no rewrite needed.
+
+**Frontmatter**: `pos` was pre-filled but wrong — stored as `事詞` (an eventive/transitive verb category), but "scholar" is a noun; corrected to `名詞`, matching sibling words (博士, 国士) that both store `pos: 名詞`.
+
+**Content removed**: a stray floating fragment, the bare digits `1194`, sitting at the top of `## Notes` with no context (possibly a mis-pasted `mc_id` from another character, since this page's own `mc_id` is 104, not 1194).
+
+**Graphemic bullet**: kept verbatim, no changes needed.
+
+**Body defects found**: two CC-initial/final links were floating between `## Chengyu` and `## Words` with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (士) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (9 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 士.md's own `characters: 士` field): 4 already present (君士坦丁堡, 武士道, 博士, 瑞士); 5 missing — 士 (stand-in, added with annotation), 兵士, 国士, 武士, 紳士 — all added from stored fields.
+
+**Chengyu cross-check** (2 total): both already present (国士無双, 選士唯賢), no changes needed.
+
+**Derived Characters** (2 hits via `graphemic_classification: 士`): [[寺]] ("temple (Buddhist)"), [[志]] ("will; intention") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 184 — [[characters/増|増]]
+
+Next never-perfected character by `danayo_id` (2060). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 曽` already correct — verified via Wiktionary (checked under the variant form 增, since 曽/曾 are variant glyphs of the same phonetic and the vault's own character page for this component is filed under 曽): 形声, semantic 土 ("earth") + phonetic 曾/曽 — "things grow in the earth, to build from earth," "to increase."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/増加|増加]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 032|土]] ("earth") + phonetic [[曽 (char)|曽]] — things grow in the earth, to build from earth; "to increase, expand, gain."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (増加) had no annotation; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (1 total ground-truth hit): 増加 (the `stand_in`) — annotation added, no changes otherwise.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (5 hits via `graphemic_classification: 曽`): [[僧]] ("priest; monk; bonze"), [[層 (char)|層]] ("stratum"), [[贈]] ("to present; bestow"), [[噌]] ("whoosh"), [[憎]] ("to hate") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 183 — [[characters/報 (char)|報]]
+
+Next never-perfected character by `danayo_id` (2059). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 㚔 ("handcuffs") + 𠬝 ("to subdue") — to convict, to punish; extended to "to report, announce." This character's own `radical:` field (`土`) matches neither etymological component — a dictionary-classification quirk in the same vein as 医's own radical/etymology mismatch a few iterations ago — so neither component gets a Radical-page link; both 㚔 and 𠬝 also have no vault character pages, so both are cited as bare text (converted from broken wikilinks that pointed nowhere).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching sibling words (報答, 報償, 報道) that all store `pos: 事詞` for the "to report/repay" transitive sense (the stand-in word 報 itself has no `pos` field).
+
+**Content removed**: two broken wikilinks (`[[㚔]]`, `[[𠬝]]`) pointing at nonexistent pages, converted to bare text per the established convention for cited-but-never-created components.
+
+**Graphemic bullet rewritten**: kept the correct 会意 analysis, fixed the broken links, added a gloss extension to "to report, to announce."
+
+**Body defects found**: two CC-initial/final links floating at the very end of the page with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; seven Words entries (報酬, 報答, 報応, 報償, 情報, 日報, 飛報) were bare `[[link]]` with no ruby; the stand-in Words entry (報) was missing entirely; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (13 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 報.md's own `characters: 報` field): 8 already present in some form (報酬, 報答, 報応, 報償, 情報, 日報, 飛報 — all reformatted with ruby/gloss; 中央情報局 already correct); 5 missing — 報 (stand-in, added with annotation), 報告, 報知, 報道, 画報 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 因果報応 — missing, added with its stored reading and gloss.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 報`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 182 — [[characters/堂|堂]]
 
 Next never-perfected character by `danayo_id` (2058). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 尚` already correct — verified via Wiktionary: 形声, phonetic 尚 + semantic 土 ("earth") — "main room of a house," "hall, chamber."
