@@ -1239,3 +1239,93 @@ Next never-perfected character by `danayo_id` (222; 221/[[characters/等 (char)|
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters**: no hits (`graphemic_classification: 場` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 114 — [[characters/晴|晴]]
+
+Next never-perfected character by `danayo_id` (223). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 青` checked out as correct — verified via Wiktionary (semantic [[Radical 072|日]] "sun" + phonetic [[青 (char)|青]], OC \*sʰleːŋ), matching `radical: 日` — the same phonetic pairing already confirmed from the opposite direction back in iteration 55, where 青's own Derived Characters check found 晴 among its ten-character phonetic family.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the stored `pos: 性詞` on `words/晴朗.md` (the `stand_in` compound itself). `mc_id: 7553` is beyond the ~4000-entry range mirrored in `lookup/CC/CC 0000–3000.md`, so per the checklist's own policy it was trusted as-is rather than treated as unverifiable-therefore-suspect.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 日 + phonetic 青 — clear, sunny weather.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed (晴朗 sat directly under Notes, bare).
+
+**Words cross-check** (1 total ground-truth hit): 晴朗 was already mentioned (bare, reformatted with its ruby restored from its own stored `注音`) — no missing entries.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 晴` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 115 — [[characters/間|間]]
+
+Next never-perfected character by `danayo_id` (225; 224/[[characters/道 (char)|道]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary: 間 is a variant of 閒 (OC \*ɡreːn, "space, gap") with [[Radical 072|日]] ("sun") substituted for the original 月 ("moon") — light through the crack of a door, [[Radical 169|門]] providing the semantic frame.
+
+**Frontmatter**: `pos: ""` → `格助詞`, matching the stored `pos: 格助詞` on `words/之間.md` (the `stand_in` compound itself). `mc_id: 417` verified against `CC 0000.md`.
+
+**Content removed**: none (the split Words/Notes-prose entries were consolidated, not deleted).
+
+**Graphemic bullet written from scratch**: 会意, 門 + 日 (replacing 月) — see etymology above.
+
+**Body defects found**: `## Words` sat before a separately-headed `# Notes` (wrong heading level, holding one more Words-style entry, 間或) — the split itself was the core defect; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (12 total ground-truth hits): 5 already present across the two split sections (4 ruby'd; 間或 bare, reformatted); 7 missing — the `stand_in` compound 之間 itself, 中間, 人間, 昼間, 期間, 瞬間, 間隔 — added. **`words/中間.md` had no stored `注音` field at all** — derived it compositionally from its two constituent characters' own stored readings (中 = ㄐㄨㄫ, 間 = ㄍㄚㄋ → ㄐㄨㄫㄍㄚㄋ), cross-checked against the word's own `羅馬字`/`諺文` fields ("junggan"/중간), which matched exactly, before using it — same reconstruction method used for `words/中庭.md` back in iteration 80 and `words/中学校.md` in iteration 1.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 世間罪盛 ("the world is sinful") — added from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 間`): [[隙 (char)|隙]] ("fissure; grudge") and [[簡]] ("concise; simple") — added. Filename collision found on 隙 — linked with pipe-alias; 簡 had no collision.
+
+### 2026-07-24, iteration 116 — [[characters/買|買]]
+
+Next never-perfected character by `danayo_id` (226). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary (会意 of [[Radical 122|网]] "net" + [[Radical 154|貝]] "money cowrie" — using a net to gather money/goods, "to buy"; original form 𧵽), matching `radical: 貝`. Noted Baxter–Sagart's competing 形声 analysis (abbreviated phonetic 羅 + semantic 貝) as an alternative rather than picking silently.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/購買.md` (the `stand_in` compound itself). `mc_id: 1320` verified against `CC 1000.md`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意, 网 + 貝 — see etymology above.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links — no SKIP/Stroke/MC/Levels bullets, no `## Words` heading at all despite the real ground-truth word, no `## Derived Characters` section despite a real hit.
+
+**Words cross-check** (1 total ground-truth hit): the `stand_in` compound 購買 itself — added from stored fields (no other compounds cite 買).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 買`): [[売]] ("to sell" — the shinjitai for 賣, etymologically distinct from but graphemically citing 買) — added, no filename collision.
+
+### 2026-07-24, iteration 117 — [[characters/着 (char)|着]]
+
+Next never-perfected character by `danayo_id` (227). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 者` checked out as correct — verified via Wiktionary (original form 著: semantic [[Radical 140|艸]] "grass" + phonetic [[者 (char)|者]], OC \*tjaːʔ). The character's assigned Kangxi radical, `目` (Radical 109, "eye"), reflects the modern shinjitai 着's loss of the 艸 top rather than the real etymology — the same "Kangxi radical diverges from true component" pattern seen repeatedly this loop (重/度/風/前/真). Noted this explicitly in the bullet.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the character's own verbal gloss ("wear").
+
+**Content removed**: none — the existing 躇/寿着 aside (explaining why 躇 is aliased rather than given its own page) was kept as its own trailing Notes bullet, a genuinely useful cranberry-morpheme note.
+
+**Graphemic bullet written from scratch**: 形声, semantic 艸 + phonetic 者 — to put, to place.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present and correctly ruby'd (顕著, 寿着); 1 missing — the stand-in 着 itself — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 着` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 118 — [[characters/圓 (char)|圓]]
+
+Next never-perfected character by `danayo_id` (229; 228/[[characters/新 (char)|新]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 員` checked out as correct — verified via Wiktionary (semantic [[Radical 031|囗]] "enclosure" + phonetic 員, OC \*ɢon; the interior 口 is really 〇, the original ideogram for "circle," with 鼎 and 囗 added later), matching the page's own pre-existing bullet exactly.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 1870` verified against `CC 1000.md`).
+
+**Content removed**: none. The existing "rare divergence from Shinjitai" aside (about 円 being too specifically Japanese/yen-associated to serve as this vault's stand-in) was kept as its own trailing Notes bullet.
+
+**Graphemic bullet fixed**: the existing bullet had the right components but an empty gloss (`[[Radical 031|囗]]` with no gloss) — filled in as "enclosure," plus the 〇/鼎 elaboration.
+
+**Body defects found**: two floating CC-initial/final links sat in the middle of the Words section instead of embedded in an MC bullet; no SKIP/Stroke/MC/Levels bullets existed; one Words entry (圓周) used a plain Markdown link instead of a wikilink.
+
+**Words cross-check** (9 total ground-truth hits): 4 already present (3 ruby'd; 1 plain-link, converted); 5 missing — the stand-in 圓 itself, 圓光, 楕圓, 欧圓, 圓錐曲線 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 天圓地方 ("heaven is round, earth is square") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 圓` matches no other character) — section correctly omitted.
