@@ -1,3 +1,103 @@
+### 2026-07-24, iteration 226 — [[characters/技|技]]
+
+Next never-perfected character by `danayo_id` (2108). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 支` already correct — verified via Wiktionary: 形声, semantic 扌/手 ("hand") + phonetic 支 — "skill with one's hands, artisan."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/技能|技能]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*kje): semantic [[Radical 064|手]] ("hand") + phonetic [[支]] — skill with one's hands, artisan; "skill, ability, talent, artistry, technique."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (技能) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (3 total ground-truth hits): 1 already present (技術); 2 missing — 技能 (stand-in, added with annotation), 技巧 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 支`): [[伎]] ("talent; skill; ability"), [[岐 (char)|岐]] ("fork (in road)"), [[枝]] ("foliage"), [[肢]] ("limbs"), [[妓]] ("actress"), [[翅]] ("shark fin") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 225 — [[characters/戸|戸]]
+
+Next never-perfected character by `danayo_id` (2107). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct and already well-documented in the page's own pre-existing bullet — a pictogram of one-half of 門 ("gate") — no changes needed there.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/門戸|門戸]]'s own stored `pos`.
+
+**Content removed**: a compressed inline syllable/MC bullet, expanded into the canonical four-bullet format; a malformed tip callout (`>[!tip] This is about the character`, missing "a page" and the character name) corrected to the standard phrasing.
+
+**Graphemic bullet**: kept verbatim, no changes needed.
+
+**Body defects found**: two CC-initial/final links floated with no MC-rank bullet; no proper MC-rank/Levels bullets existed in canonical form; the stand-in Words entry (門戸) was missing entirely; one entry (戸籍) had no ruby.
+
+**Words cross-check** (5 total ground-truth hits): 2 already present (戸籍 — ruby fixed, 江戸); 3 missing — 門戸 (stand-in, added with annotation), 井戸, 江戸川 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (9 hits, spanning two related fields — 5 via `graphemic_classification: 戸`/`戶` directly: [[所 (char)|所]], [[肩 (char)|肩]], [[芦]], [[扈]], [[雇]]; plus 4 more via `graphemic_classification: 盧`, itself one of this character's own `aliases:`: [[炉]] (already present, reformatted), [[鈩]], [[廬]], [[馿 (char)|馿]]) — all added. Discovered that alias-cited phonetics (like 盧 here) need their own separate ground-truth search pass, not just the literal headword string.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 224 — [[characters/戦|戦]]
+
+Next never-perfected character by `danayo_id` (2106 — 2105 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 単` already correct — verified via Wiktionary (checked under the traditional form 戰): 形声, phonetic 單/単 + semantic 戈 ("halberd") — "battling with a halberd," "war, battle."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/戦争|戦争]]'s own stored `pos`. `hsk_level: ""` (also blank) left as-is rather than fabricated, since blank is distinct from the checklist's documented `"無"` (confirmed-absent) value and no reliable source was checked for this field this iteration.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*taːn, \*djan, \*djanʔ, \*djans): phonetic [[単]] + semantic [[Radical 062|戈]] ("halberd") — "battling with a halberd"; "to fight a battle, wage war."
+
+**Body defects found**: `## Notes` was empty; two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (戦争) was missing entirely, and two entries (戦艦, 戦時) were bare `[[link]]` with no ruby; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (7 total ground-truth hits): 3 already present (戦闘, 戦艦 — ruby/gloss fixed, 戦時 — ruby/gloss fixed); 4 missing — 戦争 (stand-in, added with annotation), 挑戦, 戦場, 戦国 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 戦戦恐恐 already present, no changes needed.
+
+**Derived Characters** (4 hits via `graphemic_classification: 単`): [[蝉 (char)|蝉]] ("cicada"), [[弾]] ("bullet"), [[惮]] ("dread; shirk; fear"), [[簞]] ("bamboo basket") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 223 — [[characters/成 (char)|成]]
+
+Next never-perfected character by `danayo_id` (2104). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 丁` already correct — verified via Wiktionary: 形声, semantic 戊 ("weapon; protection") + phonetic 丁 — originally "city walls," a sense preserved in [[characters/城|城]].
+
+**Frontmatter**: already correct (`pos: 事詞`, `mc_id: 93` verified against `CC 0000.md`).
+
+**Content removed**: an empty gloss placeholder (`""`) on the semantic component 戊 in the pre-existing bullet, filled in properly; a compressed single-line SKIP/Stroke/syllable/CC bullet, expanded into the canonical four-bullet format.
+
+**Graphemic bullet rewritten**: semantic [[戊]] ("weapon; protection") + phonetic [[丁 (char)|丁]] (OC \*rteːŋ, \*teːŋ) — originally "city walls," a reference to something protected, with the sense preserved in 城. Neither component matches this character's own `radical:` field (`戈`), so both get direct character-page links.
+
+**Body defects found**: section order was Chengyu then Words (both before this fix); the stand-in Words entry (成) was missing entirely, and two entries (成立, 成功, 成熟) were bare `[[link]]` with no ruby; 成家立業's chengyu entry had no gloss at all.
+
+**Words cross-check** (14 total ground-truth hits, including a discovered quoted-scalar self-citation from 成.md's own `characters:` field): 7 already present in some form (変成, 成立/成功/成熟 — ruby/gloss fixed, 成績, 道成肉身, 合成); 7 missing — 成 (stand-in, added with annotation), 完成, 平成, 形成, 成語, 四字成語, 養成 — all added from stored fields.
+
+**Chengyu cross-check** (4 total): 大器晩成, 創反救成 already present and correctly glossed; 成家立業 given its stored gloss (was missing one); 不打不成器 missing — added with its stored reading and gloss.
+
+**Derived Characters** (9 hits via `graphemic_classification: 丁` — one of the larger families surfaced in this loop): [[打]] ("to hit"), [[釘 (char)|釘]] ("nail; spike"), [[汀 (char)|汀]] ("sand bar"), [[訂 (char)|訂]] ("to revise; correct"), [[亭]] ("pavilion; kiosk"), [[頂]] ("peak"), [[庁]] ("hall; room"), [[正 (char)|正]] ("correct"), [[町]] ("ridge between fields; boundary") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 222 — [[characters/愛 (char)|愛]]
+
+Next never-perfected character by `danayo_id` (2103). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was invalid: stored as `㤅`, which is listed among this character's own `aliases:` — the same self-referential defect class as 便/児/加/従. Verified via Wiktionary that 愛 was "originally written as 㤅," itself phonetic 旡 + semantic 心, with 夊 ("foot") added later as a redundant component during Qin; the true phonetic beneath the self-referential alias is 旡. Corrected the field to `旡`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞` (the base transitive sense "to love"; no sibling word using the bare root 愛 could supply a directly reusable `pos`, so this is a judgment call based on grammatical behavior per the checklist's own guidance).
+
+**Content removed**: a markdown-style link (`[可愛](/words/可愛.md)`) converted to a wikilink.
+
+**Graphemic bullet written from scratch**: originally written 㤅, phonetic 旡 (no vault page) + semantic [[Radical 061|心]] ("heart"). During the Qin dynasty a redundant component 夊 ("foot") was added at the bottom; the original phonetic 旡 later corrupted into ⿱爫冖. "To love; to treasure, value; to like, be fond of."
+
+**Body defects found**: two CC-initial/final links floated at the very end of the page with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (愛) was missing entirely, and five entries (恩愛, 愛好, 愛惜, 愛情, 愛護) were bare `[[link]]` with no ruby.
+
+**Words cross-check** (11 total ground-truth hits, including a discovered quoted-scalar self-citation from 愛.md's own `characters: "愛 (char)"` field): 10 already present in some form (愛人, 愛媛, 可愛 — link fixed, 恩愛/愛好/愛惜/愛情/愛護 — ruby/gloss filled in, 愛爾蘭, 愛因金); 1 missing — 愛 (stand-in, added with annotation).
+
+**Chengyu cross-check** (4 total): 愛偕者神 already present; 愛隣如自, 愛主耳錐, 財愛悪根 missing — all three added with their stored readings and glosses.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 旡`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 221 — [[characters/情|情]]
 
 Next never-perfected character by `danayo_id` (2102 — 2101 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 青` already correct — verified via Wiktionary: 形声, semantic 心 ("heart") + phonetic 青 — "feeling, emotion, sentiment."
