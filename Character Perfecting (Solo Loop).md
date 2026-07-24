@@ -1169,3 +1169,73 @@ Next never-perfected character by `danayo_id` (216). Stamped `date-last-perfect:
 **Chengyu cross-check** (1 total): already present and correctly formatted (開天辟地) — no changes needed.
 
 **Derived Characters**: no hits (`graphemic_classification: 開` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 110 — [[characters/筆 (char)|筆]]
+
+Next never-perfected character by `danayo_id` (218; 217/[[characters/雲 (char)|雲]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 聿` checked out as correct — verified via Wiktionary (semantic [[Radical 118|竹]] "bamboo" + phonetic [[聿]], OC \*b·lud, "writing brush" — 竹 was added later purely to differentiate a bamboo-made brush from the original 聿, which already meant "writing brush" on its own), matching the page's own pre-existing bullet exactly.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 2106` verified against `CC 2000.md`).
+
+**Content removed**: none. The "Altered to take advantage of a vacant syllable" aside (relevant to why 筆's Dan'a'yo reading was assigned where it was, tagged `hapax`) was kept as its own trailing Notes bullet, same treatment as other genuinely-useful non-canonical asides preserved elsewhere this loop.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 筆記 was bare with no ruby.
+
+**Words cross-check** (5 total ground-truth hits): 2 already present (1 ruby'd; 筆記 bare, reformatted); 3 missing — the stand-in 筆 itself, 筆画, 鉛筆 — added, all from stored fields. **Noted in passing, not corrected**: `words/鉛筆.md` stores `ㄅㄧㄊ` for 筆's own contribution instead of its actual reading `ㄆㄨㄊ` — another instance of the recurring character-vs-word `注音` mismatch class logged repeatedly this loop; cited verbatim from the word's own stored field.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 筆` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 111 — [[characters/湖|湖]]
+
+Next never-perfected character by `danayo_id` (219). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 胡` checked out as correct — verified via Wiktionary (semantic [[Radical 085|水]] "water" + phonetic 胡, OC \*ɡaː — same OC value for both the character and its phonetic, a clean match), matching `radical: 水`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 1683` verified against `CC 1000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic 水 + phonetic [[胡]] — a lake.
+
+**Body defects found**: `# Notes` was the wrong heading level; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present and correctly ruby'd (湖水, 潟湖); 1 missing — 江湖 — added from stored fields. **Caught one embellishment before stamping**: initially glossed 江湖 as "lakes and rivers; the wider world," expanding beyond what the word's own `english` field actually says ("lakes and river; countryside") — corrected to match the stored gloss exactly rather than let a plausible-sounding paraphrase stand in for it.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 湖` matches no other character) — section correctly omitted.
+
+### 2026-07-24, iteration 112 — [[characters/集|集]]
+
+Next never-perfected character by `danayo_id` (220). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 木` checked out as correct — verified via Wiktionary (会意 of [[Radical 172|隹]] "bird" + [[Radical 075|木]] "tree," birds gathering on a tree; the variant 雧 shows three birds instead of one), matching `radical: 隹`. Same treatment as [[characters/進|進]] earlier this loop: the field cites one of the two real 会意 components rather than the bare type name `會意` — left as-is since 木 is a genuine, correctly-identified component, not an error.
+
+**Frontmatter**: already correct (`pos: 事詞`, `mc_id: 1048` verified against `CC 1000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 会意, 隹 + 木 — see etymology above.
+
+**Body defects found**: `## Words` sat before a separately-headed `# Notes` (wrong heading level, holding only two floating CC-initial/final links) — no graphemic/SKIP/MC/Levels bullets existed at all.
+
+**Words cross-check** (9 total ground-truth hits): 3 already present and correctly ruby'd (集団, 蒐集, 募集); 6 missing — the `stand_in` compound 集合 itself, 収集, 召集, 採集, 編集, 聚集 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 集`): [[雑 (char)|雑]] ("miscellaneous") and [[潗]] ("friendly") — added. Filename collision found on 雑 — linked with pipe-alias; 潗 had no collision.
+
+### 2026-07-24, iteration 113 — [[characters/場|場]]
+
+Next never-perfected character by `danayo_id` (222; 221/[[characters/等 (char)|等]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 昜` checked out as correct — verified via Wiktionary (semantic [[Radical 032|土]] "earth" + phonetic [[昜]], OC \*laŋ; originally an open space or threshing floor), matching `radical: 土`.
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 2695` verified against `CC 2000.md`).
+
+**Content removed**: none (the "non-productive suffix" aside was kept as its own trailing Notes bullet, a genuinely useful grammatical note).
+
+**Graphemic bullet written from scratch**: 形声, semantic 土 + phonetic 昜 — originally an open space or threshing floor; by extension, a market, a venue.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all despite eight real ground-truth words.
+
+**Words cross-check** (8 total ground-truth hits): none previously listed — built the entire section from scratch: the `stand_in` compound 市場 itself, 入場, 劇場, 工場, 広場, 戦場, 球場, 網球場, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 場` matches no other character) — section correctly omitted.
