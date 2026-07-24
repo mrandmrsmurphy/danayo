@@ -30,6 +30,7 @@ graphemic_classification: "會意"
 stand_in: "好"
 aliases:
 注音: "ㄏㄚㄨ"
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -41,7 +42,13 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
-- Components: [[女]], [[子]]
-- [List of 会意](../lookup/List%20of%20会意.md): [女](Radical%20038) (“woman”) + [子](子.md) (“child”). 
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 豪]]
+- [List of 会意](lookup/List%20of%20会意.md): [[Radical 038|女]] ("woman") + [[子 (char)|子]] ("child") — it was good for a woman to have a child; extended to the mutual affection between mother and child, and eventually "good."
+- [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
+- 268th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄏㄚㄨ](syllables/ㄏㄚㄨ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[好]]<rt>ㄏㄚㄨ</rt></ruby> "good" (stand-in for 好)
+- <ruby>[[良好]]<rt>ㄌ⼘ㄫㄏㄚㄨ</rt></ruby> "good; fine; kind"
+- <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby> "to like"
+- <ruby>[[友好]]<rt>⼜ㄛㄏㄚㄨ</rt></ruby> "friendly; amicable"

@@ -1,3 +1,103 @@
+### 2026-07-24, iteration 191 — [[characters/官|官]]
+
+Next never-perfected character by `danayo_id` (2067). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[Radical 040|宀]] ("roof") + 𠂤 — multiple rooms under a roof, an official building; "official."
+
+**Frontmatter**: already correct (`pos: 名詞`, `mc_id: 177` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): [[Radical 040|宀]] ("roof") + 𠂤 ("multiple rooms," no vault page) — multiple rooms under a roof, an official building; extended to "official."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links plus one Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (官人) was missing entirely; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (9 total ground-truth hits): 5 already present (官僚主義, 官僚, 官庁, 五官, 九官鳥); 4 missing — 官人 (stand-in, added with annotation), 官吏, 貪官, 罷官 — all added from stored fields.
+
+**Chengyu cross-check** (1 total): 貪官汚吏 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (4 hits via `graphemic_classification: 官`): [[館]] ("hall; building; wing"), [[菅]] ("coarse grass"), [[管]] ("pipe; tube"), [[棺 (char)|棺]] ("coffin") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 190 — [[characters/完|完]]
+
+Next never-perfected character by `danayo_id` (2066). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 元` already correct — verified via Wiktionary: 形声, semantic [[Radical 040|宀]] ("roof") + phonetic 元 — "whole, complete, intact."
+
+**Frontmatter**: already correct (`pos: "事詞"`, `mc_id: 1467` verified against `CC 1000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*ɦŋoːn): semantic [[Radical 040|宀]] ("roof") + phonetic [[元]] (OC \*ŋon) — "whole, complete, intact"; "to end, to finish."
+
+**Body defects found**: `## Notes` held nothing but two floating CC-initial/final links plus one bare Words entry; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (完成) was missing entirely; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (4 total ground-truth hits): 3 already present (完全 — ruby/gloss fixed, 完璧, 完了); 1 missing — 完成 (stand-in, added with annotation) — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (5 hits via `graphemic_classification: 元`): [[頑]] ("stubborn"), [[玩]] ("toy"), [[翫]] ("to slack off"), [[冠]] ("crown"), [[阮]] ("moon lute") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 189 — [[characters/守|守]]
+
+Next never-perfected character by `danayo_id` (2065). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[Radical 040|宀]] ("roof, building") + [[寸 (char)|寸]] ("hand") — a hand guarding a roofed structure; "to guard, keep, defend."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/守衛|守衛]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): [[Radical 040|宀]] ("roof, building") + [[寸 (char)|寸]] ("hand") — a hand guarding a roofed structure; "to guard, keep, defend."
+
+**Body defects found**: `## Notes` held nothing but two floating CC-initial/final links plus three Words entries; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (守衛) was missing entirely, and one entry (守戍) was bare `[[link]]` with no ruby; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (5 total ground-truth hits): 3 already present (守護, 守戍 — ruby/gloss fixed, 防守); 2 missing — 守衛 (stand-in, added with annotation), 遵守 — added from stored fields.
+
+**Chengyu cross-check** (1 total): 守株待兎 already present, no changes needed.
+
+**Derived Characters** (1 hit via `graphemic_classification: 守`): [[狩]] ("to hunt") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 188 — [[characters/好 (char)|好]]
+
+Next never-perfected character by `danayo_id` (2064). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, [[Radical 038|女]] ("woman") + [[子 (char)|子]] ("child") — it was good for a woman to have a child, extended to mutual mother-child affection and eventually "good."
+
+**Frontmatter**: already correct (`pos: "性詞"`, `mc_id: 268` verified against `CC 0000.md`).
+
+**Content removed**: a redundant "Components: [[女]], [[子]]" line duplicating the graphemic bullet below it; a markdown-style link (`[女](Radical 038)`) converted to a proper wikilink.
+
+**Graphemic bullet rewritten**: [List of 会意](lookup/List%20of%20会意.md): [[Radical 038|女]] ("woman") + [[子 (char)|子]] ("child") — it was good for a woman to have a child; extended to the mutual affection between mother and child, and eventually "good."
+
+**Body defects found**: two CC-initial/final links floating with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; no `## Words` section existed at all despite four real ground-truth hits.
+
+**Words cross-check** (4 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 好.md's own `characters: 好` field): all 4 missing — 好 (stand-in, added with annotation), 良好, 愛好, 友好 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 好`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 187 — [[characters/失|失]]
+
+Next never-perfected character by `danayo_id` (2063). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `手`, matching only the Shuowen's alternative 會意 reading (手 + 乙, "something falling from a hand") — but Wiktionary's primary classification is 象形, a pictogram of "a footprint of someone who has fallen, surrounded by drops of blood." Corrected to `象形`, per this loop's standing rule of following Wiktionary's primary listing, with the Shuowen alternative noted in the bullet rather than discarded.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word [[words/滅失|滅失]]'s own stored `pos`.
+
+**Content removed**: a compressed single-line SKIP/Stroke/syllable/CC bullet, expanded into the canonical four-bullet structure.
+
+**Graphemic bullet written from scratch**: [List of 象形](lookup/List%20of%20象形.md): a footprint of someone who has fallen, surrounded by drops of blood; "to lose." (Shuowen's alternative 會意 reading — [[Radical 064|手]] + 乙 — noted parenthetically.)
+
+**Body defects found**: the MC-rank/CC-initial-final bullet was compressed onto one line with the SKIP/Stroke bullet, non-canonical for this loop's four-bullet format; no Levels bullet existed; the stand-in Words entry (滅失) was missing entirely, and two entries (失業, 失礼) were bare `[[link]]` with no ruby.
+
+**Words cross-check** (8 total ground-truth hits): 5 already present (自失, 失敗, 失業 — ruby/gloss fixed, 失礼 — ruby/gloss fixed, 損失); 3 missing — 滅失 (stand-in, added with annotation), 失禁, 喪失 — added from stored fields.
+
+**Chengyu cross-check** (2 total): 因小失大 already present; 茫然自失 missing — added with its stored reading and gloss.
+
+**Derived Characters** (3 hits via `graphemic_classification: 失`, unaffected by the field correction above since these three genuinely store the literal string `失`, not `手`): [[秩]] ("regularity; order"), [[跌]] ("to fall down"), [[迭]] ("to alternate; change") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 186 — [[characters/変 (char)|変]]
 
 Next never-perfected character by `danayo_id` (2062). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 䜌` already correct — verified via Wiktionary: 形声, phonetic 䜌 + semantic 攴, "to change, to transform."
