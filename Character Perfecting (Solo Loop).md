@@ -1,3 +1,83 @@
+### 2026-07-24, iteration 182 — [[characters/堂|堂]]
+
+Next never-perfected character by `danayo_id` (2058). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 尚` already correct — verified via Wiktionary: 形声, phonetic 尚 + semantic 土 ("earth") — "main room of a house," "hall, chamber."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/会堂|会堂]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*djaŋ, \*djaŋs): phonetic [[尚 (char)|尚]] + semantic [[Radical 032|土]] ("earth") — "main room of a house"; "hall, chamber."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (会堂) was missing entirely; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (6 total ground-truth hits): 2 already present (教堂, 大教堂); 4 missing — 会堂 (stand-in, added with annotation), 廟堂, 学堂, 食堂 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 尚`): [[嘗]] ("to taste; experience"), [[当 (char)|当]] ("while"), [[常]] ("common; normal; frequent"), [[掌]] ("palm; sole"), [[賞 (char)|賞]] ("reward"), [[党]] ("political party") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 181 — [[characters/基|基]]
+
+Next never-perfected character by `danayo_id` (2057). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 其` already correct — verified via Wiktionary: 形声, semantic 土 ("earth") + phonetic 其 — "a foundation of earth."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word [[words/基本|基本]]'s own stored `pos`.
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 032|土]] ("earth") + phonetic [[其 (char)|其]] — "a foundation of earth"; "foundation, base."
+
+**Body defects found**: `# Notes` was the wrong heading level and held nothing but two floating CC-initial/final links; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (基本) had no annotation; no `## Derived Characters` section existed despite a large real ground-truth hit.
+
+**Words cross-check** (8 total ground-truth hits): 6 already present (基本 — annotation added, 基礎, 巴基斯坦, 基督教, 基金, 基準); 2 missing — 基督, 基盤 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (7 hits via `graphemic_classification: 其`): [[麒]] ("qilin"), [[期 (char)|期]] ("period; time; season"), [[斯]] ("this; then"), [[棋]] ("chess; strategy game"), [[碁]] ("Go (game)"), [[欺]] ("to deceive; trick"), [[旗]] ("banner; flag") — all added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 180 — [[characters/城|城]]
+
+Next never-perfected character by `danayo_id` (2056). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 成` already correct — verified via Wiktionary: 形声, semantic 土 ("soil") + phonetic 成 — "city walls were originally made of stamped earth."
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching sibling words (城市, 金城) that store `pos: 名詞` (the stand-in word 城郭 itself has no `pos` field).
+
+**Content removed**: none.
+
+**Graphemic bullet**: already correct and complete from a prior partial pass, no changes needed.
+
+**Body defects found**: several Words entries (京城, 城郭, 金城, 紫禁城) were bare `[[link]]` or missing ruby/gloss entirely; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both; the stand-in Words entry (城郭) had no annotation.
+
+**Words cross-check** (6 total ground-truth hits): all 6 already present in some form (城郭 — annotation added; 京城, 金城, 紫禁城 — ruby/gloss filled in from stored fields; 城市, 獅城 already correct).
+
+**Chengyu cross-check** (1 total): 金城湯池 — missing, added with its stored reading and gloss.
+
+**Derived Characters** (2 hits via `graphemic_classification: 成`): [[誠]] ("sincere; honest"), [[盛]] ("flourish; full") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 179 — [[characters/坐 (char)|坐]]
+
+Next never-perfected character by `danayo_id` (2055). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `指事`, but Wiktionary classifies 坐 as 會意 — [[留 (char)|留]] ("to stay") + [[Radical 032|土]] ("ground") — to remain stationary on the ground, "to sit" — corrected accordingly. Noting a competing folk-etymology found in the vault itself: the word [[words/坐位|坐位]]'s own prose calls 坐 "a 指事 character depicting two figures (人) seated on the ground (土)" — a plausible-sounding but Wiktionary-unsupported alternative theory; the field now follows Wiktionary's authoritative 會意 classification per this loop's standing rule, and 坐位's own prose is left untouched (out of scope for this iteration, and not miscategorized enough to justify a cross-page edit here).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞` — "to sit" is intransitive/stative rather than object-taking, matching the vault's [[grammar/文法 - 97品詞]] Statives category (no sibling word's `pos` field could be borrowed directly, since 坐.md itself has none and its derived nouns 坐位/坐席 store `名詞` for their own, different part of speech).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: [List of 会意](lookup/List%20of%20会意.md): [[留 (char)|留]] ("to stay") + [[Radical 032|土]] ("ground") — to remain stationary on the ground; "to sit."
+
+**Body defects found**: `# Notes` was the wrong heading level; two CC-initial/final links floated with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; one Words-style entry (坐席) was misplaced inside `## Notes`; the stand-in Words entry (坐) was missing entirely; no `## Derived Characters` section existed despite a real ground-truth hit.
+
+**Words cross-check** (5 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 坐.md's own `characters: 坐` field): 2 already present (坐位, 坐席 — relocated into Words and ruby'd); 3 missing — 坐 (stand-in, added with annotation), 結加夫坐, 星坐 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 坐`): [[挫]] ("failure; setback; frustration") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 178 — [[characters/在 (char)|在]]
 
 Next never-perfected character by `danayo_id` (2054). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 才` already correct — verified via Wiktionary: 形声, phonetic 才 + semantic 士 (later corrupted into 土, "earth") — matches the field, though the page's own pre-existing bullet had the semantic/phonetic roles backwards and cited the wrong (uncorrupted) semantic component 士 as if it were the modern one.
