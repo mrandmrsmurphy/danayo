@@ -323,3 +323,95 @@ Next never-perfected character by `danayo_id` (160). Stamped `date-last-perfect:
 **Chengyu cross-check** (4 total, all missing, section built from scratch): 一字一音, 文音共決, 朝鮮正音, 義重於音 — added, all from stored fields.
 
 **Derived Characters** (3 hits via `graphemic_classification: 音`): [[暗 (char)|暗]] ("dark"), [[歆]] ("be pleased" — already informally noted, now properly ruby'd), [[湆]] ("broth") — added. Filename collision found on 暗 — linked with pipe-alias; 歆/湆 had no collision.
+
+### 2026-07-23, iteration 62 — [[characters/思|思]]
+
+Next never-perfected character by `danayo_id` (161). Stamped `date-last-perfect: 2026-07-23`. **Third real "wrong phonetic component entirely" find this loop** (after [[characters/送 (char)|送]]'s 笑→灷 last iteration) — same failure shape twice in three iterations, worth treating as a pattern to watch for, not a one-off.
+
+**Real etymology correction**: `graphemic_classification: 四` had no attested relationship to 思 at all. Verified via Wiktionary/Shuowen: real phonetic component is **囟** (xìn, "fontanelle," OC \*snɯns), semantic [[Radical 061|心]] ("heart"). The page's own `aliases: [恖]` already corroborated this independently — 恖 is Wiktionary's cited original form, with 囟 later corrupting into the unrelated 田-shape shared by the modern glyph (which is presumably how the field drifted toward "四," a visually similar top component). Corrected the field from `四` to `囟` and wrote the bullet from scratch, noting the corruption explicitly. 囟 has no character page of its own in this vault (and isn't a Kangxi radical), so cited as a bare `[[囟]]` link, same treatment as 灷 last iteration.
+
+**Frontmatter**: `pos: ""` → `実詞`, matching the stored `pos: 実詞` on `words/思考.md` (the `stand_in` compound itself).
+
+**Content removed**: none (the pre-existing Words-style entries were relocated, not deleted).
+
+**Body defects found**: `# Notes` was the wrong heading level and held four Words-style entries (思想, 意思, 思考, 思議) directly, with a separate, correctly-headed but incomplete `## Words` section below holding only one more (思慕) — the split itself was the core defect; two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 思議 was bare with no ruby; no `## Chengyu` or `## Derived Characters` sections existed despite real ground-truth hits for both.
+
+**Words cross-check** (7 total ground-truth hits, using the inline-array-aware search established last iteration): 5 already present across the two split sections (思想, 意思, 思考, 思議 reformatted with its ruby restored from stored fields; 思慕 already ruby'd); 2 missing — 焦思, 相思 — added from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 不可思議 — added from stored fields.
+
+**Derived Characters** (2 hits via `graphemic_classification: 思`): [[穂 (char)|穂]] ("ear of grain") and [[偲]] ("talent") — added. Filename collision found on 穂 — linked with pipe-alias; 偲 had no collision.
+
+### 2026-07-23, iteration 63 — [[characters/発 (char)|発]]
+
+Next never-perfected character by `danayo_id` (162). Stamped `date-last-perfect: 2026-07-23`. **Fourth wrong/imprecise-phonetic-component find this loop** (after 送/笑→灷, 思/四→囟) — this one more subtle than the other two: not unrelated, but *one step removed* from the real phonetic.
+
+**Real etymology correction**: `graphemic_classification: 癶` is the character's own correctly-assigned Kangxi radical (`radical: 癶`, confirmed as Radical 105) but is not actually the phonetic component. Verified via Wiktionary: 發/発 began as a pictogram of a bow firing an arrow; a hand (攴) was added forming 㢭, whose hand element later became the real phonetic **癹** (bá, OC \*pʰaːd/\*baːd) — semantic [[Radical 057|弓]] ("bow"). The shinjitai 発 simplifies 癹 down to 癶-shaped, which is almost certainly why the field had drifted to citing the radical instead of the true (now-obscured) phonetic. Corrected the field from `癶` to `癹` and wrote the bullet explaining the full chain (pictogram → 㢭 → 癹 phonetic → shinjitai's 癶 simplification). 癹 has no character page of its own in this vault, so cited as a bare `[[癹]]` link, same treatment as 灷/囟 in the two prior corrections.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the character's own verbal gloss ("issue forth, discharge") and consistent with `words/挑発.md`/`words/発明.md`/etc.'s own stored `pos: 実詞` for its compounds.
+
+**Content removed**: none.
+
+**Graphemic bullet**: written from scratch (none existed before this iteration; see correction above).
+
+**Body defects found**: no `## Notes` heading existed at all — the page opened straight into `## Words`; two floating CC-initial/final links sat in the middle of the Words list with no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; seven Words entries (挑発, 発情, 発明, 発熱, 発財, 発電, 発音) were bare `[[link]]` with no ruby/gloss; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (18 total ground-truth hits via the inline-array-aware search): 16 already present (9 ruby'd, 7 bare — all 7 reformatted); 2 missing — the stand-in 発 itself and 恭喜発財 — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 一触即発 — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 発` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 64 — [[characters/研|研]]
+
+Next never-perfected character by `danayo_id` (163). Stamped `date-last-perfect: 2026-07-23`. A quiet iteration after three straight etymology corrections — `graphemic_classification: 幵` checked out as genuinely correct (semantic [[Radical 112|石]] "stone" + phonetic 幵, a clean match with `radical: 石`), no data error this time.
+
+**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 幵`, `mc_id: 2969` verified against `CC 2000.md`).
+
+**Content removed**: a bare "Components: [[石]], [[开]]" fragment, superseded by the real bullet — also corrected the component itself from 开 (a simplified variant used loosely in the old fragment) to 幵, matching the frontmatter's own stored phonetic value exactly. Neither 幵 nor 开 has a character page in this vault, so cited as a bare `[[幵]]` link, same treatment as the last three iterations' unlinked phonetic components (灷/囟/癹).
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 112|石]] ("stone") + phonetic [[幵]] (OC \*keːn) — to grind or sharpen on stone; by extension, to study closely, to research.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (1 total ground-truth hit): the `stand_in` compound 研究 itself was already present and correctly ruby'd — no changes needed.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 研` matches no other character) — section correctly omitted.
+
+### 2026-07-23, iteration 65 — [[characters/活 (char)|活]]
+
+Next never-perfected character by `danayo_id` (164). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 舌` checked out as correct — verified via Wiktionary that the real phonetic component is the obscure 𠯑, which was later written as 舌 in the modern glyph, so citing 舌 is the right modern-form convention, not an error like the last three finds.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the character's own adjectival gloss ("alive").
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 085|水]] ("water") + phonetic 𠯑 (later written as [[舌 (char)|舌]] in the modern glyph) — flowing water; by extension, living, alive.
+
+**Body defects found**: `# Notes` was the wrong heading level and held only two floating CC-initial/final links plus one Words-style entry; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all.
+
+**Words cross-check** (4 total ground-truth hits): 1 already present (活動); 3 missing — the stand-in 活 itself, 復活, 生活, 復活節 (4 missing total, including the stand-in) — added, all from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 道活墨殺 — added from stored fields.
+
+**Derived Characters** (1 hit via `graphemic_classification: 活`): [[闊 (char)|闊]] ("broad; wide") — added. Filename collision found — linked with pipe-alias.
+
+### 2026-07-23, iteration 66 — [[characters/急 (char)|急]]
+
+Next never-perfected character by `danayo_id` (165). Stamped `date-last-perfect: 2026-07-23`. `graphemic_classification: 及` checked out as correct — verified via Wiktionary (semantic 心 "heart" + phonetic 及, OC \*ɡrɯb), matching `radical: 心`.
+
+**Frontmatter**: already correct (`pos: 性詞`, `mc_id: 588` verified against `CC 0000.md`).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 061|心]] ("heart") + phonetic [[及]] (OC \*ɡrɯb) — urgency felt in the heart; rapid, pressing.
+
+**Body defects found**: two floating CC-initial/final links had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (2 total ground-truth hits): both already present and correctly ruby'd (急遽, 急速); only addition was the stand-in 急 itself, which had no prior entry.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 急` matches no other character) — section correctly omitted.
