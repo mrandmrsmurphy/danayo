@@ -1,3 +1,65 @@
+### 2026-07-24, iteration 198 — [[characters/展|展]]
+
+Next never-perfected character by `danayo_id` (2075 — 2074 does not exist in the sequence). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, but Wiktionary classifies 展 as 形声 — semantic [[Radical 044|尸]] ("corpse; body") + an abbreviated phonetic 𧝑 (variant 𧝣), "fine red silk clothes" (one of the six garments worn by the queen in the Rites of Zhou) carrying connotations of "opening, extending" — corrected the field to `𧝑`, an obscure CJK Extension B character with no vault page, following the checklist rule to store the actual phonetic component regardless of whether it can be linked.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the sibling word [[words/展示|展示]]'s own stored `pos` (the stand-in word 伸展 itself has no `pos` field).
+
+**Content removed**: none of substance — just reordered.
+
+**Graphemic bullet written from scratch**: 形声: semantic [[Radical 044|尸]] ("corpse; body") + abbreviated phonetic 𧝑 (variant 𧝣, no vault page) — "to unfold, stretch, extend."
+
+**Body defects found**: `## Words` appeared before `# Notes`, which itself held nothing but two floating CC-initial/final links plus one further Words entry; reordered to canonical sequence; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (伸展) was missing entirely, and one entry (展示) was bare `[[link]]` with no ruby.
+
+**Words cross-check** (5 total ground-truth hits): 4 already present (発展, 展翅, 展覧, 展示 — ruby/gloss fixed); 1 missing — 伸展 (stand-in, added with annotation) — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no ground-truth hits (`graphemic_classification: 展`) — section correctly omitted.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 197 — [[characters/就 (char)|就]]
+
+Next never-perfected character by `danayo_id` (2073). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `尤`, implying a 形声 structure — but Wiktionary explicitly states 就 has no single phonetic component and is 會意, not 形声: originally 𫢁 (享 "temple" + 京 "tower," "to sacrifice at a high place"), with 享 later omitted and 尤 ("especially") added — corrected the field to `會意`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `修飾語`, a defensible choice given 就's modal/aspectual senses ("about to," "then," "only") — no directly reusable `pos` value existed on the stand-in word 就.md itself (blank).
+
+**Discovered but not fixed — character-vs-word `注音` divergence**: this character's own `注音` is `ㄑ⺢ㄧ` (the primary "about, let" sense), but its stand-in word [[words/就|就]], and all three 借代字-related compounds (就鳥, 禿就, 海就), store `注音: ㄐㄨㄛ` / derivatives thereof — the alias-borrowed "eagle/vulture" sense's pronunciation, not the character's own. Flagged per established policy rather than silently resolved; the Words entries here use each word's own stored reading, as the verification script requires.
+
+**Content removed**: none — the pre-existing "借代字" (borrowed-character) subsection was preserved as an explanatory Notes bullet rather than deleted, since it correctly explains a genuine borrowed-usage relationship already reflected in the `aliases:` field (鷲/鹫).
+
+**Graphemic bullet written from scratch**: originally 𫢁, combining 享 ("temple") + [[京]] ("tower") — "to sacrifice at a high place." During the Warring States period, 享 was omitted and [[尤]] ("especially, even more") added — "high, to go to a higher place"; extended to "to approach, reach; to undertake; to succeed." Neither 京 nor 尤 is this character's own radical (`尢`, only a near-variant of 尤), so both get direct character-page links rather than a Radical-page link.
+
+**Body defects found**: two CC-initial/final links floating with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (就) was missing entirely; the two borrowed-usage words (就鳥, 禿就) were arrow-noted rather than proper Words entries.
+
+**Words cross-check** (4 total ground-truth hits, including a discovered unquoted-single-scalar self-citation from 就.md's own `characters: 就 (char)` field): 2 already present as arrow-notes (就鳥, 禿就 — converted to proper Words entries); 2 missing — 就 (stand-in, added with annotation), 海就 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 就`): [[蹴 (char)|蹴]] ("to kick") — added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-24, iteration 196 — [[characters/将 (char)|将]]
+
+Next never-perfected character by `danayo_id` (2072). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification` was wrong: stored as `會意`, but Wiktionary classifies 將/将 as 形声 — phonetic 爿 + semantic ⺼ ("meat") + semantic 寸 ("hand") — "to offer meat as tribute," extended to "to take, to hold" and eventually "will, be going to" — corrected to `爿`.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `修飾語`, matching the stand-in word [[words/将|将]]'s own stored `pos` — 将 is one of the vault's Tense modifiers per [[grammar/文法 - 97品詞]] (已/未/将/中).
+
+**Content removed**: none.
+
+**Graphemic bullet written from scratch**: 形声 (OC \*t͡saŋ, \*t͡saŋs): phonetic 爿 (no vault page) + semantic ⺼ ("meat," no vault page) + semantic [[Radical 041|寸]] ("hand") — to offer meat as tribute (爿 also suggesting a cutting board or sacrificial table); extended to "to take, to hold, to carry," and eventually "will, be going to." Kept the pre-existing note about the alias 漿 ("thick fluid").
+
+**Body defects found**: two CC-initial/final links floated mid-list with no MC-rank bullet; no SKIP/Stroke, MC-rank, or Levels bullets existed; the stand-in Words entry (将) was missing entirely, and two entries (将軍, 将兵) were bare `[[link]]` with no ruby.
+
+**Words cross-check** (9 total ground-truth hits): 4 already present (将軍, 将兵 — ruby/gloss fixed, 将来, 将然); 5 missing — 将 (stand-in, added with annotation), 武将, 将棋, 将校, 将帥 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 爿`): [[壮]] ("bulky; huge"), [[状]] ("form; shape") — both added.
+
+**Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
 ### 2026-07-24, iteration 195 — [[characters/察|察]]
 
 Next never-perfected character by `danayo_id` (2071). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 祭` already correct — verified via Wiktionary: 形声, semantic [[Radical 040|宀]] ("roof") + phonetic 祭 — "to sort out differences," "to examine, investigate."
