@@ -1,3 +1,35 @@
+### 2026-07-24, iteration 242 — [[characters/暑 (char)|暑]]
+
+Next never-perfected character by `danayo_id` (2126; 2125 already perfected). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 者` already correct — verified via Wiktionary: 形声, semantic 日 + phonetic 者. `mc_id: 1374` cross-checked against `lookup/CC/CC 1000.md` — exact match ("1374. 暑").
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞` — gloss is "hot (weather)," a stative/adjective per [[grammar/文法 - 97品詞]] (the stand-in word 暑.md has no `pos` field to inherit from).
+
+**Body defects found**: the graphemic bullet's semantic gloss was an empty string (`日 ("")` → "sun; day") and it had no dash-note (added "summer heat under the sun"); the SKIP/Stroke bullet had the syllable link improperly attached to it (moved to the MC bullet) and used a wiki-link `[[Stroke 12]]` instead of the canonical markdown form; the MC-rank and Levels bullets were both missing entirely; the two CC links were floating at the bottom of the file (now embedded with IPA aliases — 聲 書|ɕ, 韻 魚|ɨʌ); no `## Words` section existed at all.
+
+**Words cross-check**: exactly 1 ground-truth hit — the stand-in word 暑 itself (quoted-scalar `characters: "暑 (char)"` — the double grep caught it on both patterns) — added with ruby + gloss from its stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: no character names 暑 as its `graphemic_classification` — section correctly omitted. (The 者-phonetic children 着/書/猪/緒 belong on [[者]]'s page, not here.)
+
+**Verification**: Python cross-check of the page's `<rt>` value against 暑.md's own `注音` — 0 mismatches.
+
+### 2026-07-24, iteration 241 — [[characters/時 (char)|時]]
+
+Next never-perfected character by `danayo_id` (2124). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 寺` already correct — verified via Wiktionary: 形声, semantic 日 ("sun; day") + phonetic 寺. `pos: 代詞` already filled — left as-is (matches the 何時/其時 time-pronoun convention; the stand-in word 時.md itself stores `pos: 名詞`, but the character page's own gloss is "when," so no clear defect to act on).
+
+**Body defects found**: `# Notes` held only the graphemic bullet — SKIP/Stroke, MC-rank, and Levels bullets all missing; the two CC links ([[Lookup/CC/initials/聲 船]], [[Lookup/CC/finals/韻 之]]) were floating mid-file inside `## Words` instead of embedded in the MC bullet; 当時's entry used a non-canonical absolute path (`/words/当時.md`) and an unquoted gloss (`- then`); 時節 and 時宜 entries had no ruby.
+
+**Notes rebuilt to canonical four bullets**: graphemic (kept, added semantic dash-note "the passing of days marks time"); SKIP-1-4-6 + Stroke 10; MC bullet written as "65th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 之|ɨ]] → ㄙㄧ" (聲 船 for ʑ confirmed against the existing convention on another ʑ-initial character's bullet); Levels bullet per mapping — Grade 2, HSK Beginner (`hsk_level: "1"`), Jōyō - Kyōiku, Korean MS.
+
+**Words cross-check** (23 total ground-truth hits): 11 already present (2 ruby-less fixed, 当時 relinked as wiki-link, glosses normalized to quoted, semicolon-joined forms from each word's own `english` field); 12 missing — 時 (stand-in, added with annotation), 何時, 其時, 常時, 彼時, 戦時, 時代, 時差, 某時, 此時, 毎時, 皆時 — all added with ruby + gloss from stored fields. List reordered most-central-first.
+
+**Chengyu**: 1 ground-truth hit (時代錯誤) — already present with correct ruby, kept.
+
+**Derived Characters**: no ground-truth hits (no character names 時 as its `graphemic_classification`) — section correctly omitted. (The 寺-phonetic siblings 持/等/特/詩 belong on [[寺]]'s page, not here.)
+
+**Incidental fix**: typo in `words/時差.md`'s own `english` field — "time differece" → "time difference" (gloss on this page uses the corrected form).
+
+**Verification**: Python cross-check of all 24 `<rt>` values on the page against each cited file's own `注音` — 0 mismatches.
+
 ### 2026-07-24, iteration 240 — [[characters/昨 (char)|昨]]
 
 Next never-perfected character by `danayo_id` (2123). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 乍` already correct — verified via Wiktionary: 形声, semantic 日 ("sun") + phonetic 乍 — "yesterday," "former times."

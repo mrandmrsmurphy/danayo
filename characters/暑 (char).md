@@ -14,7 +14,7 @@ stroke_count: 12
 radical: "日"
 skip_number: 2-4-8
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - hot (weather)
 羅馬字: syo
@@ -28,6 +28,7 @@ graphemic_classification: "者"
 stand_in: "暑"
 aliases:
 注音: "ㄙ⼄"
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -39,7 +40,9 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*hjaʔ): semantic [[Radical 072|日]] ("") + phonetic [[者]] (OC \*tjaːʔ).
-- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([[Stroke 12]]) - [ㄙ⼄](syllables/ㄙ⼄.md)
-[[Lookup/CC/initials/聲 書]]
-[[Lookup/CC/finals/韻 魚]]
+- 形声 (OC \*hjaʔ): semantic [[Radical 072|日]] ("sun; day") + phonetic [[者]] (OC \*tjaːʔ) — summer heat under the sun.
+- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 1374th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄙ⼄](syllables/ㄙ⼄.md)
+- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+## Words
+- <ruby>[[暑]]<rt>ㄙ⼄</rt></ruby> "hot (weather)" (stand-in for 暑)
