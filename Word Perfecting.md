@@ -2867,3 +2867,31 @@ Fifteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 20
 **Stand-in note applied**: `characters/突.md`'s own `stand_in` field is `突然` (this word) — added the standard phrasing. (然's own `stand_in` is bare `然` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`).
 
 Filled blank `vietnamese` with the real, attested `đột nhiên` (extremely common, e.g. đột biến "mutation," đột phá "breakthrough" — though not itself listed among `characters/突.md`'s own stored vietnamese readings, a gap on the character page out of scope here). Quoted `characters:` (`"然 (char)"`); removed empty `aliases: []`. A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄊㄛㄊㄋ⼶ㄋ` unique). **Incidental fix**: reformatted `characters/突.md`'s existing plain-text entry into ruby form with the stand-in note; added a missing `## Words` entry to `characters/然 (char).md`.
+
+### 2026-07-23, iteration 258 — [[words/簡単|簡単]]
+
+Sixteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Double #cranberry bound-morpheme case documented**: both `characters/簡.md`'s and `characters/単.md`'s own `stand_in` fields point to this word (matching the [[研究]]/[[建設]]/[[朋友]] precedent) — neither character stands independently outside this compound. Added the standard note and the `#cranberry` tag.
+
+**Frontmatter cleanup**: removed blank `swadesh:`; quoted `hsk_level: "1"`. `kwin: true` already correct per the AND-rule (both constituents individually `true`).
+
+A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. No homophones (`注音: ㄍㄚㄋㄉㄚㄋ` unique). **Incidental fix**: added a missing `## Words` entry with stand-in note to `characters/簡.md` (`characters/単.md`'s own entry already existed correctly).
+
+### 2026-07-23, iteration 259 — [[words/米飯|米飯]]
+
+Seventeenth word in the sixth refreshed HSK-1 pool. **Content removed**: no `date-last-perfect` stamp needed reconsideration — actually stamped `2026-07-23` (see below).
+
+**Content removed — native-gloss conflation**: `korean: 쌀밥` was a native Korean compound (쌀 "uncooked rice" + 밥 "cooked rice/meal") — also `characters/米 (char).md`'s own `korean_native` gloss — not a genuine Sino-Korean reading of 米飯 itself. No confidently-attested Sino-Korean compound (미반) could be verified as an actual word (web-search quota exhausted), so `korean` was left blank rather than fabricated, matching the honesty-over-fabrication standard applied earlier to [[孩子]]/[[弟弟]]. `vietnamese` left blank for the same reason (modern Vietnamese uses native cơm).
+
+**Stand-in note applied**: `characters/飯.md`'s own `stand_in` field is `米飯` (this word) — added the standard phrasing. (米's own `stand_in` is bare `米` — no note on that side.) `kwin: false` already correct per the AND-rule (both constituents individually `false`). Removed blank `swadesh:` and empty `aliases:`; quoted `hsk_level: "1"`. No homophones (`注音: ㄇㄝㄧㄅㄛㄋ` unique). Both `characters/米 (char).md` and `characters/飯.md` already had correct `## Words` backlink entries — no incidental fix needed on either.
+
+### 2026-07-23, iteration 260 — [[words/精神|精神]]
+
+Eighteenth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect: 2026-07-23`.
+
+**Missing `(char)`-suffix bug**: `characters:` listed bare `神`, but the actual file is `神 (char).md` — corrected. Fixed a typo ("essense"→"essence") in the opening bullet.
+
+**Double #cranberry bound-morpheme case documented — the fifth found this sweep**: both `characters/精.md`'s and `characters/神 (char).md`'s own `stand_in` fields point to this word (matching [[簡単]]/[[研究]]/[[建設]]/[[朋友]]) — neither character stands independently outside this compound. Added the standard note and `#cranberry` tag.
+
+`kwin: true` already correct per the AND-rule (both constituents individually `true`). A clean, directly parallel compound across the whole sphere — no cross-linguistic divergence to flag. Removed blank `swadesh:`/`aliases:`; quoted `hsk_level: "1"`. Renamed non-canonical `## Etymology` heading to `## Notes`. No homophones (`注音: ㄐㄝㄫㄙㄧㄋ` unique). **Incidental fix**: reformatted `characters/精.md`'s existing plain-text entry into ruby form with the stand-in note (`characters/神 (char).md`'s own entry already existed correctly).
