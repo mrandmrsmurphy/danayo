@@ -1,3 +1,31 @@
+### 2026-07-24, iteration 254 — [[characters/極 (char)|極]]
+
+Next never-perfected character by `danayo_id` (2139). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 亟` already correct — verified via Wiktionary: 形声, semantic 木 + phonetic 亟 — "originally meaning a crossbeam rafter" (the existing graphemic bullet was already complete with OC values and dash-note; kept verbatim). `mc_id: 500` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞` ("extreme; utmost" — stative; the stand-in word 極.md has no `pos` field to inherit from).
+
+**Body defects found**: SKIP/Stroke, MC-rank, and Levels bullets all missing (only the graphemic bullet existed); CC links floating at the bottom of the file; the Words list was nearly complete (19 of 20) but **13 of the 19 entries were bare `[[links]]` with no ruby and no gloss**, 南極 used a non-canonical absolute path (`/words/南極.md`) with an unquoted gloss, and the stand-in 極 itself was the one word missing.
+
+**Words cross-check** (20 total ground-truth hits): all 20 now present with ruby + stored glosses, reordered most-central-first （極 stand-in first, then 積極/至極/極度/極端…). Largest Words rebuild this loop since 時 (23).
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 20 `<rt>` values — 0 mismatches.
+
+### 2026-07-24, iteration 253 — [[characters/植|植]]
+
+Next never-perfected character by `danayo_id` (2138). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 直` already correct — verified via Wiktionary: 形声, semantic 木 ("wood") + phonetic 直 — "to set a plant straight into the ground." `mc_id: 1867` cross-checked against `lookup/CC/CC 1000.md` — exact match.
+
+**Frontmatter**: `pos: 名詞` already filled. Fixed a real typo in `english`: "vegitation" → "vegetation."
+
+**Body defects found**: `## Notes` held only the two floating CC links and a leftover wiki-style `- Components: [[木]], [[直]]` line (the same "Components:" defect class the manual thread found on 保/俯) — all four canonical bullets written from scratch, graphemic bullet replacing the Components line with proper 形声 format and a semantic dash-note.
+
+**Words cross-check** (1 total ground-truth hit): the stand-in 植物 was missing entirely (no `## Words` section existed) — added with ruby + gloss + annotation from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of the `<rt>` value — 0 mismatches.
+
 ### 2026-07-24, iteration 252 — [[characters/案|案]]
 
 Next never-perfected character by `danayo_id` (2137; 2136 already perfected). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 安` already correct — verified via Wiktionary: 形声, semantic 木 ("wood") + phonetic 安 — originally a wooden tray/desk (preserved in kun つくえ and korean_native 책상); "proposal" is a later extension. `mc_id: 1052` cross-checked against `lookup/CC/CC 1000.md` — exact match.
