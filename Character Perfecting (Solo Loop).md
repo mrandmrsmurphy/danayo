@@ -1,3 +1,35 @@
+### 2026-07-24, iteration 258 — [[characters/此 (char)|此]]
+
+Next never-perfected character by `danayo_id` (2143). Stamped `date-last-perfect: 2026-07-24`. **`graphemic_classification: 匕` was wrong — corrected to `会意`** (verified via Wiktionary: ideogrammic compound 止 "feet" + 匕 "person turned around" — "where a person stops; here"; possibly the original form of 跐. 匕 is not 此's phonetic — OC \*sʰeʔ vs 匕's \*pjiʔ — and the Shuowen analysis is 会意). First classification correction this loop. `mc_id: 51` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format, with a backlink to the character page).
+
+**Frontmatter**: `pos: 代詞` already filled and correct ("this," same class as 時's time-pronouns).
+
+**Body defects found**: leftover wiki-style `- Components: [[止]], [[匕]]` line (the 植 defect class) instead of a real graphemic bullet; all four canonical Notes bullets missing; CC links floating; no `## Words` section at all despite 10 ground-truth hits.
+
+**Notes rebuilt**: 会意 bullet with both components linked to their Radical pages （止 → Radical 077, 匕 → Radical 021 — both are Kangxi radicals, so the radical-linking rule applies to each); first **Jinmeiyō** levels case this loop (`joyo_level: 日本人名用漢字` → `[[lookup/Japanese/Jinmeiyō]]`).
+
+**Words cross-check** (10 total ground-truth hits): all 10 missing — 此 (stand-in, annotated), 此処， 此時， 此様， 此事， 此物， 此人， 此名， 此類， 此多 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none in-vault (Wiktionary lists a large 此-phonetic family — 紫/柴/雌/嘴 etc. — but none name 此 in their vault `graphemic_classification` fields, so nothing to add; if those pages are perfected later and store 此， they'll backfill here).
+
+**Verification**: Python cross-check of all 10 `<rt>` values — 0 mismatches.
+
+### 2026-07-24, iteration 257 — [[characters/止|止]]
+
+Next never-perfected character by `danayo_id` (2142). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct — verified via Wiktionary: 象形, a footprint (originally "foot," the sense 趾 retains). **First page this loop whose Notes section was already fully canonical** — all four bullets present, in order, correctly formatted; kept verbatim except normalizing one pair of curly quotes. `mc_id: 303` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word 中止.md (`pos: 事詞`).
+
+**Body defects found**: `### Derived Characters` was H3 instead of H2 and sat between Notes and Words (checklist order is Notes → Words → Chengyu → Derived) — promoted and moved to the end; its one entry [[之]] was bare with no ruby or gloss; 5 of 7 ground-truth words missing; 1 of 2 ground-truth chengyu missing; the stand-in annotation on 中止 was missing.
+
+**Words cross-check** (7 total ground-truth hits): 2 already present; 5 missing — 停止， 禁止， 阻止， 抑止， 白止 — added from stored fields; 中止 annotated as stand-in.
+
+**Chengyu** (2 ground-truth hits): 令行禁止 already present and correct; 六作一止 added.
+
+**Derived Characters**: 之 kept — its own graphemic bullet cites 止 ("foot") as its semantic component, satisfying the checklist's component-link ground-truth rule even though its `graphemic_classification` field stores 會意 — now with ruby + gloss; 址 added (names 止 directly in `graphemic_classification`).
+
+**Verification**: Python cross-check of all 11 `<rt>` values — 0 mismatches.
+
 ### 2026-07-24, iteration 256 — [[characters/樹|樹]]
 
 Next never-perfected character by `danayo_id` (2141). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 尌` already correct — verified via Wiktionary: 形声, semantic 木 + phonetic 尌 (尌 being the original form of 樹 itself). `mc_id: 905` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
