@@ -17,7 +17,7 @@ stroke_count: 13
 radical: "日"
 skip_number: 1-4-9
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - warm
 羅馬字: nan
@@ -32,6 +32,7 @@ stand_in: "暖"
 aliases:
   - 煖
 注音: "ㄋㄚㄋ"
+date-last-perfect: 2026-07-24
 kwin: true
 tags:
   - character
@@ -45,8 +46,12 @@ boundedness: 80
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 泥]]
-[[Lookup/CC/finals/韻 桓]]
+- 形声: semantic [[Radical 072|日]] ("sun; day") + phonetic [[爰]] — the warmth of the sun.
+- [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 2629th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄋㄚㄋ](syllables/ㄋㄚㄋ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[暖簾]]<rt>ㄋㄚㄋㄌㄝㄇ</rt></ruby> "noren; shop curtain"
+- <ruby>[[暖]]<rt>ㄋㄚㄋ</rt></ruby> "warm" (stand-in for 暖)
+- <ruby>[[温暖]]<rt>ㄛㄆㄋㄚㄋ</rt></ruby> "lukewarm; tepid"
+- <ruby>[[暖簾]]<rt>ㄋㄚㄋㄌㄝㄇ</rt></ruby> "noren (Japanese shop curtain); hanging curtain (in storefront)"

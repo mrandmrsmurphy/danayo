@@ -1,3 +1,33 @@
+### 2026-07-24, iteration 244 — [[characters/暗 (char)|暗]]
+
+Next never-perfected character by `danayo_id` (2128). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 音` already correct — verified via Wiktionary: 形声, semantic 日 ("sun") + phonetic 音. `mc_id: 2372` cross-checked against `lookup/CC/CC 2000.md` — exact match ("2372. 暗").
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞` ("dark," stative — same call as 暑/暖).
+
+**Body defects found**: the `## Words` section didn't exist — its entries had been dumped inside `## Notes` between the graphemic bullet and the floating CC links, with no section heading at all; 暗中 had no gloss and 暗中/暗殺/暗示/暗暗 had no ruby; SKIP/Stroke, MC-rank, and Levels bullets all missing. Graphemic bullet kept as-is (correct, OC values present, phonetic 音 linked bare per the 形声 template).
+
+**Notes rebuilt**: SKIP-1-4-9 + Stroke 13; MC bullet "2372nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → ㄚㄇ"; Levels — Grade 2, Old HSK 2, **Jōyō - Kōtō** (`joyo_level: 高等` — first Kōtō case this loop), Korean MS.
+
+**Words cross-check** (9 total ground-truth hits): 6 already present (all ruby'd/glossed properly now); 3 missing — 暗 (stand-in, added with annotation), 暗黒, 黒暗 — added from stored fields. Reordered most-central-first.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 9 `<rt>` values against each cited file's own `注音` — 0 mismatches.
+
+### 2026-07-24, iteration 243 — [[characters/暖 (char)|暖]]
+
+Next never-perfected character by `danayo_id` (2127). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 爰` already correct — verified via Wiktionary: 形声, semantic 日 + phonetic 爰. `mc_id: 2629` cross-checked against `lookup/CC/CC 2000.md` — exact match ("2629. 暖").
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `性詞` — gloss is "warm," a stative/adjective per [[grammar/文法 - 97品詞]] (no `pos` on the stand-in word 暖.md to inherit from; same call as 暑 last iteration).
+
+**Body defects found**: `## Notes` contained nothing but the two floating CC links ([[Lookup/CC/initials/聲 泥]], [[Lookup/CC/finals/韻 桓]]) — all four canonical bullets written from scratch. Graphemic bullet written without OC reconstructions (none stored in frontmatter; same precedent as iteration 240's 昨), dash-note "the warmth of the sun."
+
+**Words cross-check** (3 total ground-truth hits): 1 already present (暖簾 — ruby already correct; gloss expanded to the word file's full stored form "noren (Japanese shop curtain); hanging curtain (in storefront)"); 2 missing — 暖 (stand-in, added with annotation), 温暖 — added with ruby + gloss from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: no character names 暖 as its `graphemic_classification` — section correctly omitted.
+
+**Verification**: Python cross-check of all 3 `<rt>` values against each cited file's own `注音` — 0 mismatches.
+
 ### 2026-07-24, iteration 242 — [[characters/暑 (char)|暑]]
 
 Next never-perfected character by `danayo_id` (2126; 2125 already perfected). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 者` already correct — verified via Wiktionary: 形声, semantic 日 + phonetic 者. `mc_id: 1374` cross-checked against `lookup/CC/CC 1000.md` — exact match ("1374. 暑").
