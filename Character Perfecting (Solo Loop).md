@@ -1,3 +1,33 @@
+### 2026-07-24, iteration 252 — [[characters/案|案]]
+
+Next never-perfected character by `danayo_id` (2137; 2136 already perfected). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 安` already correct — verified via Wiktionary: 形声, semantic 木 ("wood") + phonetic 安 — originally a wooden tray/desk (preserved in kun つくえ and korean_native 책상); "proposal" is a later extension. `mc_id: 1052` cross-checked against `lookup/CC/CC 1000.md` — exact match.
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `実詞`, matching the stand-in word 提案.md's own `pos` field exactly (提案 stores the top-level content-word class rather than the more specific 事詞 — matched rather than second-guessed).
+
+**Body defects found**: `# Notes` used H1 instead of H2 (second time this loop, same as 期); all four canonical bullets missing — section held only the floating CC links and a stray ruby-less 案件 entry; no `## Words` section.
+
+**Words cross-check** (2 total ground-truth hits): 案件 moved to a proper `## Words` section with ruby + stored gloss; the stand-in 提案 was missing entirely — added with annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of both `<rt>` values — 0 mismatches.
+
+### 2026-07-24, iteration 251 — [[characters/果|果]]
+
+Next never-perfected character by `danayo_id` (2135). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct — verified via Wiktionary: 象形, fruit growing on a tree (the 田-shaped top is the fruit, not a field). `mc_id: 808` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word 果実.md (`pos: 名詞`). Note `stand_in: 果実` (compound), so no bare 果 word entry — the "(stand-in for 果)" annotation was already on 果実 and stays there.
+
+**Body defects found**: no `## Notes` section at all; the two CC links were floating mid-Words, splitting the word list in two; 果汁 had no ruby; 6 of 10 ground-truth words missing; no `## Chengyu` despite a real hit; no `## Derived Characters` despite a real hit.
+
+**Words cross-check** (10 total ground-truth hits): 4 already present （果汁 ruby'd; glosses normalized to stored fields); 6 missing — 効果， 因果， 果醤， 果子， 苹果， 桃果 — all added from stored fields. Reordered most-central-first （果実 stand-in first, then 結果/効果/因果…).
+
+**Chengyu**: 1 ground-truth hit — 因果報応, added with ruby + gloss from its own stored fields.
+
+**Derived Characters**: 1 hit — [[裸 (char)|裸]] ("strip; undress," ㄌㄚ) names 果 as its `graphemic_classification` — section added.
+
+**Verification**: Python cross-check of all 12 `<rt>` values — 0 mismatches.
+
 ### 2026-07-24, iteration 250 — [[characters/松 (char)|松]]
 
 Next never-perfected character by `danayo_id` (2134). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 公` already correct — verified via Wiktionary: 形声, semantic 木 ("wood") + phonetic 公. `mc_id: 1728` cross-checked against `lookup/CC/CC 1000.md` — exact match.
