@@ -1,3 +1,35 @@
+### 2026-07-24, iteration 248 — [[characters/未 (char)|未]]
+
+Next never-perfected character by `danayo_id` (2132). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct — verified via Wiktionary/Shuowen: 象形, a tree with lush layered foliage at the top (象木重枝葉也). `mc_id: 103` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format; this entry links back to the character page). SKIP-4 sanity check passes per the user's standing rule (4-**5**-3 matches `stroke_count: 5`).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `修飾語`, matching the stand-in word 未.md's own `pos` field ("not yet" as a modifier). Also normalized `vietnamese: [vị, mùi]` from a comma-in-scalar form to a proper two-item list.
+
+**Body defects found**: the page ended at the meta-bind-embed — no `## Notes`, no `## Words`, nothing but the two floating CC links. All four Notes bullets written from scratch （象形 bullet per the checklist's List-of-象形 format, with 木 linked as Radical 075).
+
+**Words cross-check** (2 total ground-truth hits): both missing — 未 (stand-in, added with annotation), 未月 — added from stored fields.
+
+**Chengyu**: 1 ground-truth hit — 未雨紬謬, added with ruby from its own `注音` and its full stored gloss.
+
+**Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 3 `<rt>` values against each cited file's own `注音` — 0 mismatches.
+
+### 2026-07-24, iteration 247 — [[characters/期 (char)|期]]
+
+Next never-perfected character by `danayo_id` (2131). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 其` already correct — verified via Wiktionary: 形声, semantic 月 ("moon") + phonetic 其 (the moon's phases mark periods of time). `mc_id: 675` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞` ("period; time; season" — the stand-in word 期.md has no `pos` field to inherit from; same call as the 時-family nouns).
+
+**Body defects found**: `# Notes` used H1 instead of H2 (explicit checklist "Common mistakes" case); all four canonical Notes bullets missing — section held only the two floating CC links and two stray Words entries (期間 without ruby); no `## Words` heading at all; no `## Chengyu` section despite a real ground-truth hit.
+
+**Words cross-check** (9 total ground-truth hits, via the Python frontmatter parse): 2 already present (期間 ruby'd, glosses normalized to stored fields); 7 missing — 期 (stand-in, added with annotation), 期限， 週期， 週期表， 長期， 上半期， 下半期 — all added from stored fields.
+
+**Chengyu**: 1 ground-truth hit — 一期一会, added with ruby from its own `注音` and gloss from its `english` field (a scalar sentence rather than a list — lightly trimmed, meaning unchanged).
+
+**Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 10 `<rt>` values against each cited file's own `注音` — 0 mismatches.
+
 ### 2026-07-24, iteration 246 — [[characters/望|望]]
 
 Next never-perfected character by `danayo_id` (2130). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 亡` already correct — verified via Wiktionary: originally 𦣠, a 会意 of 臣 ("eye") + 𡈼 ("person standing on the ground") gazing into the distance; 月 added later, 臣 reanalyzed as 亡, making the modern form 形声 with phonetic 亡 (OC \*maŋs). `mc_id: 410` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote line "> 410. 望"; the `^N.` grep pattern misses this file's blockquote formatting — use a looser pattern for CC 0000).
