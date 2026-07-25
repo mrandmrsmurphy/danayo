@@ -5,7 +5,8 @@ korean: "래"
 korean_native: "올"
 japanese:
   - RAI
-japanese_native: き
+japanese_native:
+  - き
   - くる
 vietnamese:
   - lai
@@ -28,8 +29,9 @@ mc_id: 168
 graphemic_classification: "象形"
 stand_in: "来"
 aliases:
-  - 來 (char)
+  - 來
 注音: "ㄌㄚㄧ"
+date-last-perfect: 2026-07-24
 kwin: true
 tags:
   - character
@@ -43,13 +45,27 @@ boundedness: 90
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 咍]]
-- [[来臨]] "come near, arrive"
+- [List of 象形](lookup/List%20of%20象形.md): depicts a stalk of wheat — the original sense was "wheat" (cf. derived [[麦]]), phonetically borrowed for "come."
+- [SKIP-4-7-3](lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
+- 168th most used character in Classical Chinese (ranked under the traditional form 來). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄌㄚㄧ](syllables/ㄌㄚㄧ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[来]]<rt>ㄌㄚㄧ</rt></ruby> "come" (stand-in for 来)
 - <ruby>[[将来]]<rt>ㄐ⺢ㄫㄌㄚㄧ</rt></ruby> "future"
+- <ruby>[[本来]]<rt>ㄅㄛㄋㄌㄚㄧ</rt></ruby> "origin"
 - <ruby>[[原来]]<rt>⼔ㄋㄌㄚㄧ</rt></ruby> "originally"
-- <ruby>[[来賓]]<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby> "guest; visitor"
-- [[来年]] "next year"
-- <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto, conventional"
+- <ruby>[[近来]]<rt>ㄍㄧㄋㄌㄚㄧ</rt></ruby> "recently; lately"
+- <ruby>[[外来]]<rt>⺢ㄧㄌㄚㄧ</rt></ruby> "foreign; extrinsic"
+- <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto; conventional; existing"
+- <ruby>[[来賓]]<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby> "guest; visitor (at an event)"
+- <ruby>[[来臨]]<rt>ㄌㄚㄧㄌㄧㄇ</rt></ruby> "come near; arrive"
+- <ruby>[[来年]]<rt>ㄌㄚㄧㄋㄝㄋ</rt></ruby> "next year"
+- <ruby>[[来月]]<rt>ㄌㄚㄧ⼔ㄊ</rt></ruby> "next month"
+- <ruby>[[来週]]<rt>ㄌㄚㄧㄐㄨㄛ</rt></ruby> "next week"
+- <ruby>[[来日]]<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby> "tomorrow"
+- <ruby>[[来世紀]]<rt>ㄌㄚㄧㄙㄝㄍㄧ</rt></ruby> "next century"
+- <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby> "Malaysia"
+
+## Derived Characters
+- <ruby>[[麦]]<rt>ㄇㄚㄎ</rt></ruby> "wheat; barley"

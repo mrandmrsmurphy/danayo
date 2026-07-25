@@ -32,6 +32,7 @@ stand_in: 松
 aliases:
   - 鬆
 注音: ㄙ⼄ㄫ
+date-last-perfect: 2026-07-24
 kwin: false
 tags:
   - character
@@ -43,9 +44,11 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*sɢloŋ): semantic [木](Radical%20075) (“wood”) + phonetic [公 (char)](公%20(char).md) (OC \*kloːŋ).
-- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md)) - [ㄙ⼄ㄫ](../syllables/ㄙ⼄ㄫ.md)
-- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Grade 2](../lookup/Grade%202.md)
-[[Lookup/CC/initials/聲 邪]]
-[[Lookup/CC/finals/韻 鍾]]
-- [[松竹梅]] "Three Friends of Winter"
+- 形声 (OC \*sɢloŋ): semantic [[Radical 075|木]] ("wood") + phonetic [[公 (char)|公]] (OC \*kloːŋ).
+- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 1728th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙ⼄ㄫ](syllables/ㄙ⼄ㄫ.md)
+- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[松]]<rt>ㄙ⼄ㄫ</rt></ruby> "pine; fir" (stand-in for 松)
+- <ruby>[[松竹梅]]<rt>ㄙ⼄ㄫㄐㄨㄎㄇㄛㄧ</rt></ruby> "Three Friends of Winter"

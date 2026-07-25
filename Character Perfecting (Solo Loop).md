@@ -1,3 +1,33 @@
+### 2026-07-24, iteration 250 — [[characters/松 (char)|松]]
+
+Next never-perfected character by `danayo_id` (2134). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 公` already correct — verified via Wiktionary: 形声, semantic 木 ("wood") + phonetic 公. `mc_id: 1728` cross-checked against `lookup/CC/CC 1000.md` — exact match.
+
+**Frontmatter**: all fields already filled (`pos: 名詞` present — first page this loop with no frontmatter gaps).
+
+**Body defects found**: the graphemic bullet used two broken markdown link forms — `[木](Radical%20075)` (no `.md`, not a wiki-link) and `[公 (char)](公%20(char).md)` (a relative path pointing nowhere from inside `characters/`) — plus curly quotes instead of straight; fixed to canonical `[[Radical 075|木]]` / `[[公 (char)|公]]`. The SKIP/Stroke bullet had the syllable link improperly attached and every link carried a non-canonical `../` prefix (checklist examples are root-relative); the Levels bullet listed all four levels in the wrong order (Jōyō, Korean, HSK, Grade → fixed to Grade, HSK, Jōyō, Korean); the MC bullet was missing entirely with the CC links floating; 松竹梅 was a stray bullet inside Notes with no `## Words` section.
+
+**Words cross-check** (2 total ground-truth hits): 松竹梅 moved to a proper `## Words` section with ruby; the stand-in 松 itself was missing — added with annotation.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of both `<rt>` values against each cited file's own `注音` — 0 mismatches.
+
+### 2026-07-24, iteration 249 — [[characters/来 (char)|来]]
+
+Next never-perfected character by `danayo_id` (2133). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct — verified via Wiktionary: 象形, depicts a stalk of wheat; original sense "wheat" (cf. derived 麦), phonetically borrowed for "come." `mc_id: 168` cross-checked against `lookup/CC/CC 0000.md` — rank 168 is **來, the traditional form** (same character; vault stores the shinjitai stand-in, same as the 収/收 precedent) — not an off-by-one. SKIP-4 stroke rule passes (4-**7**-3 = 7 strokes).
+
+**Frontmatter defects**: `japanese_native` was malformed — a bare scalar `き` with a dangling list item `- くる` under it (mixed scalar/list YAML) → normalized to a proper two-item list. `aliases: [來 (char)]` had a `(char)` suffix baked into the alias glyph itself → corrected to bare `來` (aliases are glyphs, not filenames; cf. 時's `- 时`).
+
+**Body defects found**: all four Notes bullets missing (only floating CC links and a stray 来臨 entry); 来年 had no ruby; 9 of 15 ground-truth words missing entirely.
+
+**Words cross-check** (15 total ground-truth hits): 6 already present; 9 missing — 来 (stand-in, added with annotation), 本来， 近来， 外来， 来月， 来週， 来日， 来世紀， 馬来西亜 — all added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: 1 hit — [[麦]] ("wheat; barley," ㄇㄚㄎ) names 来 as its `graphemic_classification` — section added. (Fitting: 来's own 象形 origin *is* the wheat plant.)
+
+**Verification**: Python cross-check of all 16 `<rt>` values (extended to check `characters/` files too, for the Derived Characters entry) — 0 mismatches.
+
 ### 2026-07-24, iteration 248 — [[characters/未 (char)|未]]
 
 Next never-perfected character by `danayo_id` (2132). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 象形` already correct — verified via Wiktionary/Shuowen: 象形, a tree with lush layered foliage at the top (象木重枝葉也). `mc_id: 103` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format; this entry links back to the character page). SKIP-4 sanity check passes per the user's standing rule (4-**5**-3 matches `stroke_count: 5`).
