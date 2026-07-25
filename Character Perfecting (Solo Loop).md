@@ -1,3 +1,33 @@
+### 2026-07-24, iteration 246 — [[characters/望|望]]
+
+Next never-perfected character by `danayo_id` (2130). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 亡` already correct — verified via Wiktionary: originally 𦣠, a 会意 of 臣 ("eye") + 𡈼 ("person standing on the ground") gazing into the distance; 月 added later, 臣 reanalyzed as 亡, making the modern form 形声 with phonetic 亡 (OC \*maŋs). `mc_id: 410` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote line "> 410. 望"; the `^N.` grep pattern misses this file's blockquote formatting — use a looser pattern for CC 0000).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞`, matching the stand-in word 希望.md (`pos: 事詞` — "to hope" is an eventive).
+
+**Body defects found**: section order inverted (`## Words` before `## Notes`); `## Notes` held nothing but stray Words entries and the two floating CC links; 仰望 had neither ruby nor gloss; all four canonical Notes bullets missing. Also: **this page's `stand_in` is the compound 希望, not the character itself** — so the "(stand-in for 望)" annotation goes on 希望, and no bare 望 word entry exists or was added.
+
+**Ground-truth search upgraded mid-iteration**: the naive `grep -l '望 (char)'` pattern missed `words/声望.md`, which cites 望 in inline-list form (`characters: [声, 望]`) — switched to a Python frontmatter parse that handles inline lists, multi-line lists, quoted scalars, and bare-vs-`(char)` forms. Bare forms verified correct here (both character files are bare `声.md`/`望.md`, no word-file collision — the `(char)` suffix is not required). Final count: 10 words.
+
+**Words cross-check** (10 total ground-truth hits): 4 already present （希望， 望月， 眺望， 望楼 — glosses normalized to stored fields); 6 missing — 欲望， 声望， 人望， 怨望， 望日， and the ruby-less 仰望 — all added from stored fields.
+
+**Chengyu**: grep surfaced 乳蜜流地/欲求不満, but neither cites 望 in its `characters:` field (prose mentions only) — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 10 `<rt>` values against each cited file's own `注音` — 0 mismatches.
+
+### 2026-07-24, iteration 245 — [[characters/最 (char)|最]]
+
+Next never-perfected character by `danayo_id` (2129). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary/Shuowen: 会意 of 冃 + 取 ("to violate and seize," 犯而取也; superlative sense is a later extension). `mc_id: 1207` cross-checked against `lookup/CC/CC 1000.md` — exact match ("1207. 最").
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `副詞` — "most" is a degree adverb; the taxonomy in [[grammar/文法 - 97品詞]] has no 副詞 entry, but corpus precedent exists ([[characters/稍 (char)|稍]] "slightly," [[characters/亙 (char)|亙]] both store `pos: 副詞`), and 稍 is a close behavioral analog.
+
+**Body defects found**: graphemic bullet missing entirely (written from scratch — 冃 left unlinked since no 冃 page exists, 取 linked); the SKIP/Stroke bullet had a **wrong syllable link attached** — `[ㄍ⼶ㄫ](syllables/ㄍ⼶ㄫ.md)`, a copy-paste error that isn't even 最's own syllable (ㄐ⼔) — removed; MC-rank and Levels bullets missing; CC links floating.
+
+**Words cross-check** (7 total ground-truth hits): 6 already present (最善 ruby-less — fixed; glosses normalized to stored `english` fields); 1 missing — the stand-in 最 itself, added with annotation. Also removed a misplaced "(stand-in for 初)" annotation from the 最初 entry — that annotation belongs on [[初]]'s own Words section, not here.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 7 `<rt>` values against each cited file's own `注音` — 0 mismatches.
+
 ### 2026-07-24, iteration 244 — [[characters/暗 (char)|暗]]
 
 Next never-perfected character by `danayo_id` (2128). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 音` already correct — verified via Wiktionary: 形声, semantic 日 ("sun") + phonetic 音. `mc_id: 2372` cross-checked against `lookup/CC/CC 2000.md` — exact match ("2372. 暗").
