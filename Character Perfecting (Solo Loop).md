@@ -1,3 +1,33 @@
+### 2026-07-24, iteration 256 — [[characters/樹|樹]]
+
+Next never-perfected character by `danayo_id` (2141). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 尌` already correct — verified via Wiktionary: 形声, semantic 木 + phonetic 尌 (尌 being the original form of 樹 itself). `mc_id: 905` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `名詞`, matching the stand-in word 樹木.md (`pos: 名詞`).
+
+**Body defects found**: all four canonical Notes bullets missing — the section held only the floating CC links, stray Words entries, and one genuinely valuable documentation bullet (the 尌-alias rationale), which was **kept** as a fifth bullet after the canonical four (same treatment as 懍's documented exception note). The new graphemic bullet leaves 尌 unlinked (no page exists, per the 最/冃 precedent) and cross-references the alias note. Stray word entries: 樹袋熊/樹木/樹懶 had no ruby; 樹木 (the stand-in) had no annotation.
+
+**Words cross-check** (8 total ground-truth hits): 6 already present (all now ruby'd/glossed/annotated); 2 missing — 楊樹， 沙羅双樹 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 8 `<rt>` values — 0 mismatches.
+
+### 2026-07-24, iteration 255 — [[characters/楽|楽]]
+
+Next never-perfected character by `danayo_id` (2140). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, silk strings (糸) on wood (木), a stringed instrument → "music" → "pleasure." `mc_id: 163` cross-checked against `lookup/CC/CC 0000.md` — rank 163 is **樂, the traditional form** (same as the 來/来 precedent; noted in the MC bullet).
+
+**Frontmatter**: two gaps — `pos: ""` → filled as `性詞` (matches the stand-in word 快楽.md's own `pos`); `vietnamese:` was **entirely empty** (a required field) → filled with nhạc ("music") and lạc ("pleasure"), the two standard Sino-Vietnamese readings of 樂, matching the two senses.
+
+**Body defects found**: the graphemic bullet's content was good but every link in it was broken — `[List of 会意](../lookup/List%20of%20会意.md))` with a doubled closing paren (and no List-of-会意 page is part of the 会意 template anyway), `[絲](糸.md)` pointing at a nonexistent relative path, curly quotes throughout — rewritten in canonical 会意 form keeping the oracle-bone/bronze paleographic detail; SKIP/Stroke bullet had `../` prefixes plus the syllable link attached; Levels bullet in wrong order with `../` prefixes; MC bullet missing entirely, and one of the floating CC links was the `[[../lookup/CC/finals/韻 鈬開]]` wiki-link-with-`../` bug (same one iteration 240 fixed on 昨); `### Derived Characters` used H3 instead of H2 with a bare, ruby-less 鑠.
+
+**Words cross-check** (10 total ground-truth hits): 4 already present; 6 missing — **快楽 (the stand-in itself)**, 音楽， 安楽， 倶楽部， 雅楽， 楽経 — all added from stored fields, reordered central-first.
+
+**Chengyu** (2 ground-truth hits): 喜怒哀楽 already present and correct; 飲食歓楽 missing — added.
+
+**Derived Characters**: 鑠 stores `graphemic_classification: 樂` (the traditional alias of 楽 — a genuine derivative via the alias) — kept, section promoted to H2, ruby + gloss added.
+
+**Verification**: Python cross-check of all 13 `<rt>` values — 0 mismatches.
+
 ### 2026-07-24, iteration 254 — [[characters/極 (char)|極]]
 
 Next never-perfected character by `danayo_id` (2139). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 亟` already correct — verified via Wiktionary: 形声, semantic 木 + phonetic 亟 — "originally meaning a crossbeam rafter" (the existing graphemic bullet was already complete with OC values and dash-note; kept verbatim). `mc_id: 500` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
