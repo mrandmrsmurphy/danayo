@@ -1,3 +1,31 @@
+### 2026-07-24, iteration 260 — [[characters/歴|歴]]
+
+Next never-perfected character by `danayo_id` (2145). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 厤` already correct — verified via Wiktionary: 形声, semantic 止 ("foot") + phonetic 厤 — "to pass through; hence experience, history." `mc_id: 948` cross-checked against `lookup/CC/CC 0000.md` — rank 948 is **歷, the traditional form** (noted in the MC bullet).
+
+**Frontmatter**: `pos: 名詞` already filled — no gaps.
+
+**Body defects found**: leftover `- Components: [[𠩵]], [[止]]` line (the 植 defect class) — replaced with the canonical 形声 bullet (phonetic 厤 left unlinked, no page exists); SKIP/Stroke, MC, and Levels bullets missing; CC links floating; 歴史's entry used an unquoted dash-gloss (`- history`, no ruby); 辟歴's gloss was wrapped in a non-standard parenthetical (`(霹靂) - thunderbolt, thunderclap`) — normalized to the word file's stored `english` field. The genuinely useful "do not confuse with 暦" bullet was **kept** as a fifth bullet after the canonical four (same treatment as 樹's 尌-alias note).
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (both reformatted); 1 missing — 披歴 — added from stored fields. 歴史 annotated as stand-in.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 3 `<rt>` values — 0 mismatches.
+
+### 2026-07-24, iteration 259 — [[characters/歩|歩]]
+
+Next never-perfected character by `danayo_id` (2144). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, 止 ("foot") + 𣥂 ("foot turned backwards," written 少 in the modern form) — two feet in sequence: walking. `mc_id: 651` cross-checked against `lookup/CC/CC 0000.md` — rank 651 is **步, the standard form** (vault page is the shinjitai 歩; same as the 來/樂 precedents, noted in the MC bullet).
+
+**Frontmatter**: `pos: 事詞` already filled; `vietnamese:` was **entirely empty** (required field, second time this loop after 楽) → filled with bộ, the standard Sino-Vietnamese reading of 步.
+
+**Body defects found**: leftover `- Components: [[止]], [[少]]` line (the 植 defect class) instead of a real graphemic bullet — replaced with the canonical 会意 form, with an explicit note that the 少 here is 𣥂 (reversed 止), not the character 少 "few," since the bare Components line was genuinely misleading on that point; SKIP/Stroke, MC, and Levels bullets all missing; CC links floating.
+
+**Words cross-check** (1 total ground-truth hit): 散歩 already present, correctly ruby'd/glossed/annotated as stand-in — kept verbatim.
+
+**Chengyu**: no ground-truth hits — section correctly omitted. **Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of the `<rt>` value — 0 mismatches.
+
 ### 2026-07-24, iteration 258 — [[characters/此 (char)|此]]
 
 Next never-perfected character by `danayo_id` (2143). Stamped `date-last-perfect: 2026-07-24`. **`graphemic_classification: 匕` was wrong — corrected to `会意`** (verified via Wiktionary: ideogrammic compound 止 "feet" + 匕 "person turned around" — "where a person stops; here"; possibly the original form of 跐. 匕 is not 此's phonetic — OC \*sʰeʔ vs 匕's \*pjiʔ — and the Shuowen analysis is 会意). First classification correction this loop. `mc_id: 51` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format, with a backlink to the character page).
