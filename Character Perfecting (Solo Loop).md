@@ -1,3 +1,35 @@
+### 2026-07-24, iteration 262 — [[characters/比 (char)|比]]
+
+Next never-perfected character by `danayo_id` (2147). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意, two 匕 ("person") side by side — "to compare." `mc_id: 426` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `格助詞`, matching the stand-in word 比.md's own field ("than" as a comparative case particle — first 格助詞 this loop). Fixed a real typo in `english`: "compared too" → "compared to" (the word file already had it right).
+
+**Body defects found**: `# Notes` used H1 instead of H2 (third time this loop, after 期/案); a **stray junk line "1326"** (someone's abandoned scratch — the real mc_id is 426, verified) deleted; all four canonical bullets missing; CC links floating; word entries dumped inside Notes with no `## Words` section; 比率/比例 had no ruby; no `## Derived Characters` despite 3 ground-truth hits.
+
+**Words cross-check** (7 total ground-truth hits): 5 already present; 2 missing — 比 (stand-in, annotated), 比喩 — added from stored fields. The pre-existing "(stand-in for 秕/粃)" annotation on 比糠 kept (it documents the aliases' stand-in, not a defect).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: 3 hits — 批 ("criticism; comment"), 琵 ("pipa"), 砒 ("arsenic") all name 比 as their `graphemic_classification` — section added.
+
+**Verification**: Python cross-check of all 10 `<rt>` values — 0 mismatches.
+
+### 2026-07-24, iteration 261 — [[characters/殺 (char)|殺]]
+
+Next never-perfected character by `danayo_id` (2146). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 杀` already correct — verified via Wiktionary: 形声, semantic 殳 ("weapon; to strike") + phonetic 杀, which doubles as 殺's own simplified form (phonetic left unlinked — no page, it's covered by the `aliases` field). `mc_id: 133` cross-checked against `lookup/CC/CC 0000.md` — exact match (blockquote format).
+
+**Frontmatter**: `pos: ""` (empty string) → filled in as `事詞` ("kill" — eventive verb; the stand-in word 殺.md has no `pos` field to inherit from).
+
+**Body defects found**: `## Notes` held nothing but the two floating CC links — all four canonical bullets written from scratch; 殺身/殺戮 entries had no ruby; the stand-in 殺 itself and 暗殺 were missing from Words; no `## Chengyu` section despite 2 ground-truth hits.
+
+**Words cross-check** (6 total ground-truth hits): 4 already present (ruby/glosses normalized); 2 missing — 殺 (stand-in, annotated), 暗殺 — added from stored fields.
+
+**Chengyu** (2 ground-truth hits, both missing): 殺姦窃偽 ("murder, adultery, theft, lying" — a Bible-origin vault coinage on the four prohibitions), 道活墨殺 ("The Spirit gives life, but the Letter Kills") — both added from stored fields.
+
+**Derived Characters**: none — correctly omitted.
+
+**Verification**: Python cross-check of all 8 `<rt>` values — 0 mismatches.
+
 ### 2026-07-24, iteration 260 — [[characters/歴|歴]]
 
 Next never-perfected character by `danayo_id` (2145). Stamped `date-last-perfect: 2026-07-24`. `graphemic_classification: 厤` already correct — verified via Wiktionary: 形声, semantic 止 ("foot") + phonetic 厤 — "to pass through; hence experience, history." `mc_id: 948` cross-checked against `lookup/CC/CC 0000.md` — rank 948 is **歷, the traditional form** (noted in the MC bullet).
