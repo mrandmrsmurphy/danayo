@@ -2959,3 +2959,27 @@ Stamped `date-last-perfect: 2026-07-26`.
 **Incidental fix**: `characters/並 (char).md`'s own `## Words` section was missing an entry for 並 itself (had only the compounds [[並列]]/[[並立]]) — added it.
 
 Next: 串 (continuing alphabetically — 3,913 words remain).
+
+### 2026-07-26, iteration 277 — [[words/串|串]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄐ⺢ㄇ` unique).
+
+**[[words/串|串]]**: `characters:` reformatted from a bare string to block-list form. **Content removed — resolved via web search**: `vietnamese: null` — the character page's own frontmatter offered four candidates (quán, xiên, xuyên, xuyến); searched to confirm which is sense-appropriate rather than guessing, and found quán is the older classical Hán Việt reading (unrelated "accustomed to" sense) while xuyến is the reading that actually matches this word's "string together, skewer" sense (as in xuyến châu, "to string pearls"; nhất xuyến, "a string of," used as a classifier) — used `xuyến`. Added missing `pos: 名詞` and `kwin: false` (matching the character page's own value). Wrote the Notes section from scratch.
+
+**Cryptic pre-existing note preserved, not interpreted**: both this word page and its character page carried an unexplained bare line "Pronunciation is altered" with no further detail on which reading or why — left in place rather than guessed at or deleted, now folded into the Notes section with an explicit note that its referent isn't established.
+
+**Incidental fixes on `characters/串 (char).md`**: fixed a stray single-`#` `# Notes` heading to `## Notes`; added a `## Words` section (previously had none at all) with the self-entry.
+
+Next: 乃 (continuing alphabetically — 3,912 words remain).
+
+### 2026-07-26, iteration 278 — [[words/乃|乃]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/乃|乃]]**: `characters:` reformatted from a bare string to block-list form. Reordered the body — it previously had a stray `# Notes` heading sitting *before* the meta-bind-embed block, with the actual definition list under a separate non-standard `## Definition` heading after it; restructured to the standard order (tip → meta-bind-embed → homophone callout → `## Notes`) and folded `## Definition`'s three senses into the numbered-list form the checklist calls for. **Content removed/resolved**: the character page's own `vietnamese` field stored eight candidates (bèn, náy, nãi, nãy, nải, nảy, nấy, nới) — most look like phonetic near-homophone noise; `bèn` is the one that's an actual attested Vietnamese word and it fits semantically (a native conjunction meaning "then, thereupon," matching 乃's classical "then" sense) — used `bèn` alone, matching the [[事情]] precedent of picking "the one plausible-looking entry among several odd ones." Added missing `pos: 連接詞` (matching the character page's own declared pos).
+
+**Homophone found**: 乃 shares its exact reading (nai/내/ㄋㄚㄧ) with [[耐]] ("able to tolerate"), still unstamped. Added the homophone callout to `乃`; the reciprocal callout will be completed when 耐's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/乃 (char).md` — it already had its own self-entry.
+
+Next: 久 (continuing alphabetically — 3,911 words remain).

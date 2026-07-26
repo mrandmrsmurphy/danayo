@@ -45,7 +45,10 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 Pronunciation is altered
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 仙A三合]]
+
+## Words
+- <ruby>[[串]]<rt>ㄐ⺢ㄇ</rt></ruby> "skewer"
