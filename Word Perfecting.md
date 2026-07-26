@@ -1,27 +1,3 @@
-### 2026-07-16, iteration 9 — [[words/主意|主意]] (and its paired homophone [[words/注意|注意]])
-
-Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16` on both files — this iteration ended up perfecting a matched pair, not just one word, because they share a single underlying bug that only makes sense to fix together.
-
-**The bug**: both `主意.md` and `注意.md` stored their shared second syllable (意) as `'i`/이/ㄧ, but `characters/意.md`'s own frontmatter reads `'ǝ`/으/ㄜ. Rather than assume the character page was right and the word pages wrong (or vice versa), cross-checked against the vault's systematic MC-derivation rule: grepped every character with `middle_chinese_initial: ʔ` + `middle_chinese_final: ɨ` (意, 医, 噫 — three independent characters) and all three consistently derive to `'ǝ`/으/ㄜ, while the `'i`/이/ㄧ pattern belongs to a *different* initial class (`j`, e.g. 以, 異, 頤, 疑). Cross-checked against two other already-perfected compounds ending in 意 ([[会意]] `hwe'ǝ`/훠으, [[善意]] `syen'ǝ`/션으) to confirm the concatenation convention (apostrophe before `'ǝ` in 羅馬字, plain concatenation in Hangul, middle-dot separator in 注音 when the preceding syllable ends in a vowel or coda that would otherwise merge — matching `善意`'s `ㄙ⼶ㄋ·ㄜ`). Fixed both word files to `ju'ǝ`/주으/ㄐㄨ·ㄜ.
-
-**Why both had to be fixed together**: 主's own reading (ㄐㄨ) and 注's own reading (ㄐㄨ) are identical — 注 is even a listed Derived Character on `characters/主.md` — so 主意 and 注意 are a genuine, intentional Dan'a'yo-internal homophone pair (both files already claimed this via an informal prose tip). With the old wrong syllable they were *still* homophones of each other (both wrong the same way), so the bug was invisible from the homophone relationship alone — only the cross-check against 意's own character page and other 意-compounds surfaced it. Converted both informal tip lines into proper `>[!warning] Homophones` callouts. Also fixed **wrong link syntax found while writing the prose**: an initial draft used `[主 (char)|主]`/`[注 (char)|注]` pipe-aliases, but both character files are named without the `(char)` suffix (`主.md`, `注.md`) — corrected to bare `[[主]]`/`[[注]]` before finalizing (no colliding word file of either name exists, so the bare link is unambiguous).
-
-**Other fixes**: `主意.md` — reformatted `mandarin: "zhǔyì,zhúyì"` (an unparseable comma-joined string) into a proper list, matching established precedent (`柏.md` etc.) for words with more than one valid Mandarin reading; filled a blank `vietnamese` field (`chủ ý`). `注意.md` was closer to complete already (had `vietnamese: chú ý` and a real opening Notes bullet, just needed the syllable fix, proper callout, and full encyclopedic paragraphs). Both Notes sections cover a nice cross-linguistic parallel: Mandarin's mainland/Taiwan zhǔyi/zhúyì split on 主意, and a genuine Korean homophone collision (주의 = both 主意 and 注意, since 主/注 share一 Sino-Korean reading and 意 is invariant) mirroring the Dan'a'yo-internal one.
-
-**Flagged, not fixed**: `characters/意.md` is itself unperfected (empty `## Notes`, no SKIP/Stroke/MC/Levels bullets) — out of scope, character-sweep territory.
-
-Next: 事情, 了解, 予習, 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
-
-### 2026-07-16, iteration 10 — [[words/事情|事情]]
-
-Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`. Quieter iteration than the last one — no syllable-derivation bugs this time; double-checked the compound's `羅馬字`/`諺文`/`注音` (`jicing`/지칭/ㄐㄧㄑㄧㄫ) against both constituent characters' own fields and everything already matched cleanly (unlike `主意`/`注意` last iteration, no vowel-hiatus separator was even needed here since 情 starts with a consonant, not a vowel).
-
-**[[words/事情|事情]]**: removed blank `swadesh:`/`aliases:` fields. Filled a previously-blank `vietnamese` field with `sự tình` ("the situation, the ins and outs of a matter"), a real compound built from 事's own `sự` and 情's own `tình` (the one plausible-looking entry among several odd ones on `情`'s own character-page `vietnamese` list — `dềnh`/`rình`/`tành`/`tạnh` look like the same kind of corpus noise flagged on `意`'s vietnamese field last iteration, not touched, out of scope). Wrote the Notes section from scratch. No homophones (`注音: ㄐㄧㄑㄧㄫ` unique to this file).
-
-**Flagged, not fixed**: both `characters/事 (char).md`... wait, `事`'s own page is already fine (has `date-last-perfect`? — checked, it does *not*, still unperfected, missing SKIP/Stroke/Levels bullets) and `characters/情.md` (blank `pos`, blank `aliases:`, no SKIP/Stroke/MC/Levels bullets, no graphemic bullet) — both left for the character sweep.
-
-Next: 了解, 予習, 介紹, 之間, 人等, 代替, 不用, 偉大, 健康, 利用.
-
 ### 2026-07-16, iteration 11 — [[words/了解|了解]]
 
 Next in the HSK-1 multi-character pool. Stamped `date-last-perfect: 2026-07-16`. Both constituent character pages (`了 (char).md`, `解 (char).md`) are themselves unperfected (stray "Components:" list on 了, missing SKIP/Stroke/Levels bullets on both) — flagged for the character sweep, not touched. Double-checked `羅馬字`/`諺文`/`注音` against both characters' own fields — clean concatenation this time, `lyaugyai`/럇걔/ㄌ⼘ㄨㄍ⼘ㄧ, no bug like `主意`'s.
@@ -2903,3 +2879,29 @@ Twenty-eighth word in the sixth refreshed HSK-1 pool. Stamped `date-last-perfect
 A clean, directly parallel compound across the whole sphere — Mandarin xíguàn, Cantonese zaap6 gwaan3, Japanese しゅうかん, Korean 습관, Vietnamese tập quán all converge on "habit; custom; accustomed to" — no cross-linguistic divergence to flag. No homophones (`注音: ㄙㄧㄆㄍ⺢ㄇ` unique).
 
 **Documented but left unfixed (out of scope for a single iteration)**: this word's own romanization of 習's syllable ("sib/십/ㄙㄧㄆ") doesn't match `characters/習.md`'s own stored syllable ("sǝb/습/ㄙㄜㄆ"). Checked sibling compounds — [[学習]] agrees with "sib," but [[復習]] stores "sǝb," and is itself internally inconsistent (`羅馬字: bugsib` vs `諺文: 북습`/`注音: ㄅㄨㄎㄙㄜㄆ` disagreeing with each other). This is a scattered, multi-file inconsistency, not a clean two-siblings-agree case like [[組織]]/[[組合]] — left as a documented observation only. **Incidental fix**: added missing `## Words` entries with stand-in notes to both `characters/習.md` and `characters/慣.md` (neither had a ruby-formatted `習慣` entry before — 習.md had a bare `[[習慣]]` link, 慣.md had none at all).
+
+### 2026-07-26, iteration 271 — [[words/㪘|㪘]] and its homophone [[words/廉|廉]]
+
+Starting a new phase of this sweep, per direct instruction: rather than continuing the curated HSK-1 multi-character pool, this and following iterations work through *every* remaining word page vault-wide that lacks `date-last-perfect` (3,925 of 6,009 word files as of this iteration), taken in filesystem/alphabetical order. Any file whose fix would require asking a judgment call rather than research is to be skipped and left for a later pass.
+
+The first two files in that order turned out to be a homophone pair — both read `lyem`/렴/ㄌ⼶ㄇ in Dan'a'yo despite different source tones (Mandarin `liǎn` vs `lián`; Cantonese `lim5` vs `lim4`) — so, matching the [[主意]]/[[注意]] precedent, perfected together in one iteration rather than leaving one half of a homophone callout dangling. Stamped `date-last-perfect: 2026-07-26` on both.
+
+**[[words/㪘|㪘]]**: already close to complete (real Notes prose, correct frontmatter, correct link format) — just needed the homophone callout and the stamp itself.
+
+**[[words/廉|廉]]** needed substantially more work: `characters:` was an unindented string (`"廉 (char)"`), reformatted to block-list form. **Content removed**: `vietnamese: null` — replaced with the real, well-attested Hán Việt reading `liêm` (matching `characters/廉 (char).md`'s own stored `liêm`; that character page's sibling entries `lèm`/`rèm` look like the same corpus-noise pattern flagged on 意/情/習 earlier in this sweep, left untouched, out of scope here). Reformatted the `english` list to indented block form. Added missing `pos: 性詞` (matching precedent on [[便]]/[[凜]]/[[多]] for this adjectival class) and `kwin: true` (inherited directly from `characters/廉 (char).md`'s own `kwin: true` — a single-character word has no AND-rule to compute, just the one constituent's value). Fixed the heading level (`# Notes` → `## Notes`, previously empty) and wrote the Notes section from scratch, including a Korean 두음법칙 note (`렴` is the correct North Korean reading per the standing vault rule; South Korean would shift this to `염`).
+
+Both `characters/㪘 (char).md` and `characters/廉 (char).md` list themselves as their own `stand_in` (each word page is what legitimizes its own character page, not a multi-character bound-morpheme case) — no `#cranberry` tag applies to either. **Incidental fix**: `characters/廉 (char).md`'s own `## Words` section was missing an entry for 廉 itself (had only the unrelated compound [[孝廉]]) — added it. `characters/㪘 (char).md`'s own `## Words` entry already existed correctly.
+
+Next: 䋇, 丈, 三, 下, 丘 (continuing alphabetically through the unstamped list).
+
+### 2026-07-26, iteration 272 — [[words/䋇|䋇]] and its homophone [[words/駅|駅]]
+
+Second homophone pair in the alphabetical sweep (both read `'yeg`/역/⼶ㄎ, sharing the phonetic component 尺 across their traditional forms 繹/驛 respectively) — perfected together for the same reason as [[㪘]]/[[廉]] last iteration. Stamped `date-last-perfect: 2026-07-26` on both.
+
+**[[words/䋇|䋇]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese` was a three-item list `gịt, dịch, dịt` jammed into a single list entry — cross-checked against the homophone `駅`'s own already-correct `vietnamese: dịch` (both characters share the phonetic 尺 and the same Sino-Vietnamese reading) and confirmed `dịch` alone is the real reading (as in 演繹 diễn dịch, "to deduce"); the other two forms look like the same corpus-noise pattern flagged on 意/情/習/廉 earlier in this sweep. Added missing `japanese: やく` (on'yomi of the character's own stored `YAKU`), `pos: 事詞` (matching the character page's own declared pos), and `kwin: true` (single-constituent inheritance, no AND-rule needed). Wrote the Notes section from scratch.
+
+**[[words/駅|駅]]**: already had complete, correct frontmatter (including `vietnamese: dịch`) — just needed the homophone callout, the stamp, and a real Notes section (previously empty).
+
+Both `characters/䋇 (char).md` and `characters/駅 (char).md` list themselves as their own `stand_in` — no `#cranberry` tag applies to either, same self-standing pattern as [[㪘]]/[[廉]]. **Incidental fix**: neither character page had a `## Words` section at all — added one to each with the self-entry. Also fixed a stray single-`#` `# Notes` heading to `## Notes` on `characters/駅 (char).md` while touching that section (character-sweep territory, but a one-line fix made in passing).
+
+Next: 丈, 三, 下, 丘, 丙 (continuing alphabetically through the unstamped list).

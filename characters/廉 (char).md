@@ -49,4 +49,5 @@ boundedness: 90
 - [[廉価]] "low price"
 
 ## Words
+- <ruby>[[廉]]<rt>ㄌ⼶ㄇ</rt></ruby> "upright, honest"
 - <ruby>[[孝廉]]<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby> "filial and incorrupt"

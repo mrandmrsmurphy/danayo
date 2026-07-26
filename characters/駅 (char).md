@@ -39,8 +39,11 @@ boundedness:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-# Notes
+## Notes
 
 Japanese coined, but common
 [[Lookup/CC/initials/聲 以]]
 [[Lookup/CC/finals/韻 昔開]]
+
+## Words
+- <ruby>[[駅]]<rt>⼶ㄎ</rt></ruby> "station"
