@@ -3163,3 +3163,27 @@ Stamped `date-last-perfect: 2026-07-26`.
 **Incidental fix**: `characters/今 (char).md`'s own `## Words` section was missing an entry for 今 itself (had only compounds) — added it.
 
 Next: 令 (continuing alphabetically — 3,896 words remain).
+
+### 2026-07-26, iteration 294 — [[words/令|令]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/令|令]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: lệnh` and `pos: 修飾語` were already correct (matching the character page, well attested in mệnh lệnh "order, command"). Expanded a one-line stub ("'to cause to X', verbal prefix") into a full Notes section, covering the 会意 "kneeling figure under authority" derivation and both the causative and administrative senses.
+
+**Three-way homophone group found, one member already perfected with no callout at all**: 令 shares its exact reading (leng/렁/ㄌㄝㄫ) with [[鈴]] ("small bell," still unstamped) and [[零]] ("zero," perfected 2026-06-29). `零` had no homophone callout despite being otherwise complete — added one cross-linking both `令` and `鈴`.
+
+**Incidental fix**: `characters/令 (char).md`'s own `## Words` section was missing an entry for 令 itself (had only compounds) — added it.
+
+Next: 伍 (continuing alphabetically — 3,895 words remain; still owed its own turn from the [[五]] homophone group two iterations back).
+
+### 2026-07-26, iteration 295 — [[words/伍|伍]]
+
+Stamped `date-last-perfect: 2026-07-26`, completing the four-way homophone group first found on [[五]] two iterations ago.
+
+**[[words/伍|伍]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/corrected**: `羅馬字: o` was missing the leading glottal-onset apostrophe that both the character page (`'o`) and its homophone sibling [[五]] use — corrected to `'o`, matching the established convention for this reading. Filled blank `pos:`/`品詞:` with `名詞` (伍's own base sense, "a file of five soldiers," is a noun, distinct from — though phonetically identical to — its secondary role as [[五]]'s anti-forgery numeral variant). `vietnamese: ngũ` was already correct (shared with [[五]] via their common phonetic origin, no corpus noise to sort through). Wrote the Notes section from scratch, covering the 人+phonetic-五 derivation and the anti-forgery role alongside [[壱]]/[[貳]]/[[漆]]/[[玖]].
+
+**Completed the four-way homophone group**: 伍 shares its exact reading ('o/오/ㄛ) with [[五]] and [[於]] (both already perfected and already cross-linking here since iteration 284) and [[汚]] (still unstamped). Added the full callout to `伍`.
+
+`characters/伍 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 伏 (continuing alphabetically — 3,894 words remain).

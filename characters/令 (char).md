@@ -57,6 +57,7 @@ boundedness: 85
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[令]]<rt>ㄌㄝㄫ</rt></ruby> "cause"
 - <ruby>[[勅令]]<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby> "imperial edict; decree"
 - [[令色]] "flattering looks; sycophantic expression"
 
