@@ -3299,3 +3299,25 @@ Stamped `date-last-perfect: 2026-07-26`.
 `characters/倒 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 倚 (continuing alphabetically — 3,884 words remain).
+
+### 2026-07-26, iteration 306 — [[words/倚|倚]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄜㄧ` unique).
+
+**[[words/倚|倚]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: blank `vietnamese` filled with `ỷ`, well attested in ỷ lại ("to depend on, rely on [someone/something], often pejoratively"); the character page's other two candidates, ấy ("that," a native demonstrative) and ỉa (a vulgar native word for "to defecate"), are both unrelated and weren't used. Added missing `pos: 動詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch.
+
+`characters/倚 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 借 (continuing alphabetically — 3,883 words remain).
+
+### 2026-07-26, iteration 307 — [[words/借|借]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/借|借]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: tá` was already correct (attested in tá túc, 借宿, "to stay overnight"). Added missing `pos: 事詞` and `kwin: false` (both matching the character page). Converted an existing informal homophone note (`>[!warn] This word is a homophone to both [姉]... and [諸]...`) into the standard `>[!warning] Homophones` callout format — verified via grep that these are indeed the only two exact matches for this reading, nothing missed. Wrote the Notes section from scratch, covering both loan directions and the 借/藉/仮借 connection to phonetic-loan characters.
+
+**Three-way homophone group confirmed**: 借 shares its exact reading (ja/자/ㄐㄚ) with [[姉]] ("elder sister") and [[諸]] ("various"), both still unstamped. The reciprocal callout on each will be completed when its own turn comes up.
+
+No incidental `## Words` fix needed on `characters/借 (char).md` — it already had its own self-entry.
+
+Next: 倶 (continuing alphabetically — 3,882 words remain).
