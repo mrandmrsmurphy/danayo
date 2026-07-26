@@ -3275,3 +3275,27 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/俗 (char).md` — it already had its own self-entry.
 
 Next: 倍 (continuing alphabetically — 3,886 words remain).
+
+### 2026-07-26, iteration 304 — [[words/倍|倍]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/倍|倍]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `bội`, attested in gấp bội ("manifold") and bội số ("a multiple," mathematics) — the character page's other five candidates (buạ, bạu, bậu, bụa, vội) are corpus noise. Added missing `pos: 量詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch, including the character page's own tentative "back-to-back → duplicate → -fold" semantic bridge (explicitly flagged there as not directly attested).
+
+**Three-way homophone group found**: 倍 shares its exact reading (bai/배/ㄅㄚㄧ) with [[唄]] ("ugh") and [[牌]] ("playing card"), both still unstamped. Added the homophone callout to `倍`; the reciprocal callout on each will be completed when its own turn comes up.
+
+No incidental `## Words` fix needed on `characters/倍 (char).md` — it already had its own self-entry.
+
+Next: 倒 (continuing alphabetically — 3,885 words remain).
+
+### 2026-07-26, iteration 305 — [[words/倒|倒]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/倒|倒]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `đảo` (attested in đảo lộn "turned upside down" and đả đảo "down with...!"). Added missing `pos: 動詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the 形声 "fall over/invert" core sense and the alternation-based extension to this word's own "take turns" meaning.
+
+**Three-way homophone group found**: 倒 shares its exact reading (tau/탓/ㄊㄚㄨ) with [[島]] ("island") and [[超]] ("transcend"), both still unstamped. Added the homophone callout to `倒`; the reciprocal callout on each will be completed when its own turn comes up.
+
+`characters/倒 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 倚 (continuing alphabetically — 3,884 words remain).
