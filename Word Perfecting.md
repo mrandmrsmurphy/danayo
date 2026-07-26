@@ -2905,3 +2905,31 @@ Second homophone pair in the alphabetical sweep (both read `'yeg`/역/⼶ㄎ, sh
 Both `characters/䋇 (char).md` and `characters/駅 (char).md` list themselves as their own `stand_in` — no `#cranberry` tag applies to either, same self-standing pattern as [[㪘]]/[[廉]]. **Incidental fix**: neither character page had a `## Words` section at all — added one to each with the self-entry. Also fixed a stray single-`#` `# Notes` heading to `## Notes` on `characters/駅 (char).md` while touching that section (character-sweep territory, but a one-line fix made in passing).
 
 Next: 丈, 三, 下, 丘, 丙 (continuing alphabetically through the unstamped list).
+
+### 2026-07-26, iteration 273 — [[words/丈|丈]], [[words/三|三]], [[words/下|下]], [[words/丘|丘]], [[words/九|九]]
+
+A five-word batch continuing the alphabetical sweep, faster than the last iteration's pace (per user request to keep going as-is rather than change scope or depth). Stamped `date-last-perfect: 2026-07-26` on all five.
+
+**[[words/丈|丈]]**: no homophone. Folded a separate, non-standard `## Definition` heading into `## Notes` as the numbered list the checklist actually calls for, and wrote the missing prose paragraphs from scratch (unit-of-length sense vs. the "gentleman/husband" honorific extension, e.g. [[丈夫]]/[[丈人]]/[[丈母]]/[[姑丈]]).
+
+**[[words/三|三]]**: **Content removed — two real bugs found via cross-check against `characters/三 (char).md`'s own frontmatter**: `japanese: さむ` does not correspond to any real Japanese reading (the character's own field is on'yomi `SAN`) — corrected to `さん`. `korean: "삼 (셋)"` improperly crammed the native counting-word `셋` into the same field as the Sino-Korean reading `삼` — split apart, keeping `삼` in the field and moving 셋 to prose (matching the [[之間]] precedent for functional/native equivalents). **`kwin` bug fixed**: was `false`, but `characters/三 (char).md`'s own `kwin` is `true` — a single-character word simply inherits its lone constituent's value (no AND-rule to compute), so corrected to `true`. Removed blank `hsk_level:`/`swadesh:` and empty `aliases: []`. Wrote the Notes section from scratch, including the [[一]]/[[壱]]-style anti-forgery variant [[参]].
+
+**[[words/下|下]]** and its homophone **[[words/何|何]]**: `下` shares its exact reading (ha/하/ㄏㄚ) with the already-perfected `何` — added the homophone callout to both (何 was perfected back on 2026-06-29, before 下 existed as a cross-link target, so it never got one). `characters:` reformatted from a bare string to block-list form on `下`. Wrote the Notes section from scratch.
+
+**[[words/丘|丘]]** and its homophone **[[words/九|九]]**: share the reading kyu/큐/ㄎ⼜. Perfected together per the homophone-pair precedent. `丘`: **content removed** — `vietnamese: null` replaced with the real Sino-Vietnamese `khâu` (the character page's own stored value); noted in prose the well-known taboo-avoidance variant `khưu`, used specifically for Confucius's name (丘 was his personal name). Added missing `kwin: false` (matching the character's own value) and `pos: 名詞`; fixed `characters:` to block-list form; fixed heading level `# Notes` → `## Notes`. `九`: **content removed** — `japanese: きう` doesn't match the vault's own established modern-kana convention (359 other perfected words use `ゅう`-style spelling for this exact sound vs. a handful of likely-erroneous old-style spellings) — corrected to `きゅう`. Also removed a stray, non-standard `Stand-in for [[九 (char)]]` line sitting outside any section — per the [[何]]-precedent, a trivial self-standing stand-in (a single-character word legitimizing its own character page) doesn't get a special callout in this vault's established practice (`characters/九 (char).md`'s own `stand_in` is bare `九`, itself); that convention is reserved for genuine bound-morpheme/cranberry cases. Removed blank `hsk_level:`/`swadesh:`/empty `aliases: []`. Wrote real Notes prose for both, including the [[一]]/[[壱]]/[[七]]/[[漆]]-style anti-forgery variant [[玖]] for 九.
+
+**Incidental fixes**: added missing `## Words` self-entries to `characters/下 (char).md`, `characters/丘 (char).md`, and `characters/九 (char).md` (all three had compound entries but no entry for the base character/word itself).
+
+Next: 丙, 両, 並, 串, 乃 (continuing alphabetically through the unstamped list — 3,916 words remain).
+
+### 2026-07-26, iteration 274 — [[words/丙|丙]]
+
+Per user request, back to one word per firing rather than a batch. Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/丙|丙]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the real Sino-Vietnamese `bính` (familiar from Vietnamese sexagenary-cycle year names like Bính Dần); the character page's own alternate candidate `biếng` looks like the same kind of corpus noise flagged repeatedly earlier in this sweep (it collides with an unrelated real word, "lười biếng," lazy), left out. Added missing `pos: 性詞` (matching the character page's own declared pos) and `kwin: true` (single-constituent inheritance — `characters/丙 (char).md`'s own `kwin` is `true`, no AND-rule needed). Wrote the Notes section from scratch, covering 丙's role as the third of the Ten Heavenly Stems and the parallel with [[甲]]/[[乙]].
+
+**Three-way homophone found, only partly resolvable this iteration**: 丙 shares its exact reading (byeng/병/ㄅ⼶ㄫ) with two other words, [[坪]] ("level ground; a unit of area") and [[柄]] ("handle; design") — both still unstamped. Added the homophone callout to `丙` listing both, but per the one-word-per-firing rule did not fully perfect either sibling this iteration; the reciprocal callout on each will be completed when its own turn comes up in the alphabetical sweep (坪 and 柄 both come well after 丙 in filesystem order, so this asymmetry is temporary).
+
+No incidental `## Words` fix needed on `characters/丙 (char).md` — it already had its own self-entry.
+
+Next: 両 (continuing alphabetically — 3,915 words remain).

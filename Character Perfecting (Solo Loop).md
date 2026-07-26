@@ -1,53 +1,3 @@
-### 2026-07-26, iteration 444 — [[characters/宅|宅]]
-
-Next never-perfected character by `danayo_id` (3080). **Frontmatter defect found and fixed**: `graphemic_classification: 託` was wrong — Wiktionary confirms 宅's real phonetic component is **乇** (zhé, OC \*ʔr'aːɡ), not 託/托 (tuō) — my own initial suspicion going in matched Wiktionary's finding, and no mention of 託/托 as the phonetic appears anywhere in the source; the mix-up was likely triggered by a shared modern reading in a homophone series. Corrected the field to `乇` (no vault page). Stamped `date-last-perfect: 2026-07-26`. Core senses are residence, dwelling, tomb, and the verb "to reside"; the modern slang sense "homebody, shut-in" (宅男/宅女) is a Japanese-orthography borrowing from お宅 (otaku), not a native semantic extension — worth flagging since it's easy to mistake for an organic sense development. `mc_id: 1224` cross-checked against `lookup/CC/CC 1000.md` — exact match.
-
-**Frontmatter**: `pos: ''` (empty string) → filled in as `名詞`, matching the stand-in word `words/住宅.md`'s own field.
-
-**Body defects found**: `# Notes` used H1 instead of H2 and held only the two floating CC-initial/final links with no canonical bullets at all — all four written from scratch; `## Words` didn't exist despite the stand-in itself being a ground-truth hit.
-
-**Words cross-check** (1 total ground-truth hit, the self-referential stand-in): 住宅 — added from stored fields.
-
-**Chengyu**: no ground-truth hits — section correctly omitted.
-
-**Derived Characters**: none (`graphemic_classification: 乇` matches no other character) — correctly omitted.
-
-**Verification**: Python cross-check of the 1 `<rt>` value against the cited file's own `注音` field — 0 mismatches.
-
-### 2026-07-26, iteration 443 — [[characters/孫|孫]]
-
-Next never-perfected character by `danayo_id` (3079). Stamped `date-last-perfect: 2026-07-26`. `graphemic_classification: 會意` already correct — verified via Wiktionary: 会意 of [[子]] ("son") and [[系]] ("continue," not "thread/lineage" as I initially guessed) — jointly expressing continuation of the family line: a grandchild/descendant is one who continues the lineage through offspring. `mc_id: 190` cross-checked against `lookup/CC/CC 0000.md` — exact match.
-
-**Frontmatter**: `pos: ''` (empty string) → filled in as `固有名詞`, matching the stand-in word `words/孫子.md`'s own field (which covers both "grandson" and the proper name "Sun Tzu").
-
-**Self-caught transcription error**: while drafting the ruby for the stand-in entry, initially copied a pre-existing `ㄙㄛㄋㄐㄧ` value from the character page's own prior Words entry — the mandatory Python `<rt>` verification step caught that this doesn't match `words/孫子.md`'s own stored `注音` (`ㄙㄛㄋㄐㄜ`) before finalizing. Corrected before shipping — this is exactly the kind of pre-existing error the verification step exists to catch.
-
-**Body defects found**: `# Notes` used H1 instead of H2 and held only the two floating CC-initial/final links plus three Words entries, one a bare wikilink, one with a non-canonical "abbreviation for" note — all four canonical bullets written from scratch; 3 of 6 ground-truth words missing; no `## Chengyu` despite a real hit; no `## Derived Characters` despite one real hit.
-
-**Words cross-check** (6 total ground-truth hits): 孫子 (stand-in, corrected reading above), 孫金 already present; 孫孫 reformatted to ruby+gloss; 3 missing — 子孫 ("descendents; children and grandchildren"), 孫女 ("granddaughter"), 孫悟空 ("Monkey King") — added from stored fields.
-
-**Chengyu**: 1 ground-truth hit — 禍延子孫 ("prolonged disaster: for one's descendants") — added.
-
-**Derived Characters** (1 total ground-truth hit — the character naming 孫 as its `graphemic_classification`): 遜 ("inferior") — added.
-
-**Verification**: Python cross-check of all 8 `<rt>` values (6 Words + 1 Chengyu + 1 Derived Characters) against each cited file's own `注音` field — 1 mismatch caught and corrected pre-finalization (孫子, see above), 0 remaining after fix.
-
-### 2026-07-26, iteration 442 — [[characters/季|季]]
-
-Next never-perfected character by `danayo_id` (3078). **Frontmatter defect found and fixed**: `graphemic_classification: 稚` contradicted the page's own pre-existing bullet, which already correctly stated "会意 of 禾 + 子" — verified via Wiktionary, which confirms 会意 and gives no phonetic-component analysis at all; the stored `稚` value appears to have been an error or conflation with a different character. Corrected the field to `會意`. Wiktionary gives no explicit semantic bridge connecting the 禾+子 composition to either "youngest child/sibling" or "season, last period" — these are listed as separate senses without a stated derivation, so the bullet doesn't invent one. Stamped `date-last-perfect: 2026-07-26`. `mc_id: 467` cross-checked against `lookup/CC/CC 0000.md` — exact match.
-
-**Frontmatter**: `pos: ''` (empty string) → filled in as `名詞`, matching the stand-in word `words/季節.md`'s own field.
-
-**Body defects found**: the SKIP/Stroke, MC rank, and Levels bullets were all missing outright, with the two CC initial/final links floating at the bottom; the sole Words entry (季刊) was a bare wikilink with no ruby; 7 of 8 ground-truth words missing, including the stand-in 季節 itself and an entire "late season" family (季春/季夏/季秋/季冬); no `## Derived Characters` despite one real hit.
-
-**Words cross-check** (8 total ground-truth hits): 季刊 reformatted to ruby+gloss; 7 missing — 季節 (stand-in), 四季, 春季, 季春, 季夏, 季秋, 季冬 — all added from stored fields.
-
-**Chengyu**: no ground-truth hits — section correctly omitted.
-
-**Derived Characters** (1 total ground-truth hit — the character naming 季 as its `graphemic_classification`): 悸 ("perturbed") — added. Confirmed no contradiction with 季's own reclassification to 会意 — the same "ideograph still serving as a phonetic donor" pattern seen repeatedly this loop (充, 品, 妻).
-
-**Verification**: Python cross-check of all 9 `<rt>` values (8 Words + 1 Derived Characters) against each cited file's own `注音` field — 0 mismatches.
-
 ### 2026-07-26, iteration 441 — [[characters/存|存]]
 
 Next never-perfected character by `danayo_id` (3077). **Two stacked defects found and fixed**: (1) `graphemic_classification: 會意` contradicted the page's own pre-existing bullet, which already stated a 形声 analysis; (2) that same bullet had semantic and phonetic reversed — it read "semantic 才 + phonetic 子," but Wiktionary confirms the opposite: semantic [[子]] ("child" — this character's own `radical` field, relating to growth/continuation, "exist, survive") + phonetic [[才]] (OC \*zlɯː, \*zlɯːs). Corrected the field to `才` and swapped the bullet's roles accordingly. Genuinely interesting cross-reference: Wiktionary suggests 存 may be "the demonstrative *-n derivation" of [[在 (char)|在]] (OC \*zlɯːʔ) — a proposed morphological relationship, not just the visual resemblance the pre-existing note already flagged ("only one other character that looks like this one"). Stamped `date-last-perfect: 2026-07-26`. `mc_id: 562` cross-checked against `lookup/CC/CC 0000.md` — exact match.
@@ -5182,22 +5132,6 @@ Next never-perfected character by `danayo_id` (2008 — 2007 does not exist in t
 **Derived Characters** (1 hit via `graphemic_classification: 以`): [[似 (char)|似]] ("like; as; resembling") — added, no section previously existed.
 
 **Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
-
-### 2026-07-22, iteration 52 — [[characters/画|画]]
-
-Next never-perfected character by `danayo_id` (150). Stamped `date-last-perfect: 2026-07-22`.
-
-**Frontmatter**: already correct (`pos: 事詞`, `graphemic_classification: 會意`).
-
-**Content removed**: none.
-
-**Graphemic bullet written from scratch**: 会意 of [[Radical 129|聿]] ("brush, writing implement") + [[Radical 102|田]] ("field, boundary lines") — drawing boundary lines with a brush, "to draw, to plan." 聿 has no character page of its own but is a genuine Kangxi radical (129), linked there per the established rule for unlinkable-but-real radical components.
-
-**Body defects found**: `## Notes` was completely empty; `## Chengyu` sat before `## Words` with only one entry and no gloss; two floating CC-initial/final links had no MC bullet to embed in; several Words entries were bare `[[link]]` with no ruby/gloss.
-
-**Words cross-check** (7 total ground-truth hits): 5 already listed (reformatted); 2 missing — 筆画, 計画 — added, all from stored fields.
-
-**Chengyu cross-check** (2 total): 1 already present (画蛇添足, gloss added from its stored field); 1 missing — 画龍点睛 — added. No `graphemic_classification: 画` hits — no Derived Characters section applies.
 
 ### 2026-07-22, iteration 53 — [[characters/幸|幸]]
 

@@ -48,6 +48,7 @@ boundedness: 100
 - 21st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄏㄚ](../syllables/ㄏㄚ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> "down, under"
 - <ruby>[[下愚]]<rt>ㄏㄚ·ㄨ</rt></ruby> "those foolish from birth"
 - <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> "the world"
 - <ruby>[[陛下]]<rt>ㄅㄝㄧㄏㄚ</rt></ruby> "your majesty"
