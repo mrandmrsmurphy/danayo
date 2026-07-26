@@ -3081,3 +3081,27 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄎㄧㄊ` uniq
 `characters/乞 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[亘]] last iteration.
 
 Next: 也 (continuing alphabetically — 3,903 words remain).
+
+### 2026-07-26, iteration 287 — [[words/也|也]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/也|也]]**: `characters:` reformatted from a bare string to block-list form. **Content removed — broken markup**: `english` had a literal stray `<emphasis>` tag instead of the character page's own established convention of writing this sense as plain `EMPHASIS` (all-caps, a functional-category label rather than a literal gloss) — corrected to match. **Vietnamese resolved**: the character page stored five candidates (dã, dạ, giã, giãi, rã); searched and confirmed `dã` is the real Hán Việt reading for this classical particle, the other four belonging to unrelated words — used `dã` alone. Added missing `pos: 感詞`. Wrote the Notes section from scratch, covering the disputed pictographic origin and 也's grammaticalization into a sentence-final assertive/topic particle.
+
+**Homophone found**: 也 shares its exact reading ('ya/야/⼘) with [[夜]] ("night"), still unstamped. Added the homophone callout to `也`; the reciprocal callout will be completed when 夜's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/也 (char).md` — it already had its own self-entry.
+
+Next: 乾 (continuing alphabetically — 3,902 words remain).
+
+### 2026-07-26, iteration 288 — [[words/乾|乾]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/乾|乾]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved — eight-candidate Vietnamese field**: searched and confirmed only two of the character page's eight stored candidates (can, càn, càng, cạn, gàn, khan, kiền, kìn) are genuinely attested Hán Việt readings — càn (more common, as in càn khôn 乾坤 "heaven and earth" and Càn Long 乾隆 for the Qianlong Emperor) and kiền (a less common alternate) — the other six don't appear in Hán Việt dictionaries for this character. Used `càn`, matching this word's own "heavenly" sense; noted `kiền` as the attested alternate in prose. Added missing `pos: 名詞`. Wrote the Notes section from scratch, covering the 形声 derivation and the vault's own unification of 乾's two Chinese senses (Heaven-trigram qián and "dry" gān) into one Dan'a'yo reading, distinct from the unrelated-but-conflated-in-Simplified-Chinese [[干]]/[[幹]].
+
+**Three-way homophone group found, one member already perfected with no callout at all**: 乾 shares its exact reading (gyen/견/ㄍ⼶ㄋ) with [[見]] ("see," perfected 2026-02-18) and [[鍵]] ("key," still unstamped). `見` had no homophone callout — added one cross-linking both `乾` and `鍵`. **Flagged, not fixed**: `見`'s own `## Notes` section is completely empty despite being marked `date-last-perfect` — a genuine pre-existing gap, out of scope to backfill this iteration under the one-word-per-firing rule; worth a dedicated pass later.
+
+**Incidental fix**: `characters/乾 (char).md`'s own `## Words` section was missing an entry for 乾 itself (had only compounds) — added it.
+
+Next: 亀 (continuing alphabetically — 3,901 words remain).
