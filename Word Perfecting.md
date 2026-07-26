@@ -3229,3 +3229,15 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/佳 (char).md` — it already had its own self-entry.
 
 Next: 侯 (continuing alphabetically — 3,890 words remain).
+
+### 2026-07-26, iteration 300 — [[words/侯|侯]]
+
+Stamped `date-last-perfect: 2026-07-26`. Three-hundredth logged iteration of this sweep.
+
+**[[words/侯|侯]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `hầu`, attested in hầu tước (侯爵, "marquis"); the character page's other candidate, `hậu`, belongs to unrelated characters (后 "empress," or 後 "after") and wasn't used. Added missing `pos: 名詞` and `kwin: false` (matching the character page). Wrote the Notes section from scratch, covering the 象形 "archery target" derivation and 侯's place in the five traditional noble ranks (公侯伯子男).
+
+**Three-way homophone group found**: 侯 shares its exact reading (hou/홋/ㄏㄛㄨ) with [[厚]] ("thick") and [[吼]] ("roar"), both still unstamped. Added the homophone callout to `侯`; the reciprocal callout on each will be completed when its own turn comes up.
+
+`characters/侯 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 便 (continuing alphabetically — 3,889 words remain).
