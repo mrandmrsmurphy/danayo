@@ -2933,3 +2933,29 @@ Per user request, back to one word per firing rather than a batch. Stamped `date
 No incidental `## Words` fix needed on `characters/丙 (char).md` — it already had its own self-entry.
 
 Next: 両 (continuing alphabetically — 3,915 words remain).
+
+### 2026-07-26, iteration 275 — [[words/両|両]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/両|両]]**: `characters:` reformatted from a bare string to block-list form. Wrote the Notes section from scratch, covering the 会意 derivation (一 + archaic 㒳), the historical "tael" weight-unit and vehicle-classifier senses now folded into this one shinjitai form (per the character page's own long `aliases` list), and the North Korean 량 vs. South Korean 두음법칙-shifted 양 note.
+
+**Another three-way homophone, same partial-resolution pattern as [[丙]] last iteration**: 両 shares its exact reading (lyang/량/ㄌ⼘ㄫ) with [[梁]] ("girder") and [[糧]] ("provisions"), both still unstamped. Added the homophone callout to `両` listing both; the reciprocal callout on each will be completed when its own turn comes up.
+
+No incidental `## Words` fix needed on `characters/両 (char).md` — it already had its own self-entry.
+
+Next: 並 (continuing alphabetically — 3,914 words remain).
+
+### 2026-07-26, iteration 276 — [[words/並|並]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/並|並]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own real Hán Việt reading `tịnh` (as in tịnh hành, "to proceed side by side/concurrently"). Added missing `pos: 副詞` (並 functions primarily as an adverb/conjunction — 並且/並非 — rather than a noun or verb) and `kwin: false` (matching `characters/並 (char).md`'s own value). Wrote the Notes section from scratch, covering the 會意 "two people standing side by side" derivation and the orthographic convergence of 并/併/竝/幷/倂 into this one shinjitai form.
+
+**Cryptic pre-existing note preserved, not interpreted**: both this word page and its character page carried an unexplained bare line `并=C#652` (likely a leftover cross-reference to some external corpus/frequency-list ID, seen elsewhere in the vault as a `C#NNNN` pattern on other pages too) — left in place rather than guessed at or deleted, now folded into the Notes section with an explicit note that its meaning isn't established.
+
+**Another three-way homophone, same partial-resolution pattern as [[丙]]/[[両]]**: 並 shares its exact reading (beng/벙/ㄅㄝㄫ) with [[瓶]] ("jug"), still unstamped. Added the homophone callout to `並`; the reciprocal callout will be completed when 瓶's own turn comes up.
+
+**Incidental fix**: `characters/並 (char).md`'s own `## Words` section was missing an entry for 並 itself (had only the compounds [[並列]]/[[並立]]) — added it.
+
+Next: 串 (continuing alphabetically — 3,913 words remain).

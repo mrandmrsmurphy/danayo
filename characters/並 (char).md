@@ -52,5 +52,6 @@ boundedness: 90
 [[Lookup/CC/finals/韻 青開]]
 
 ## Words
+- <ruby>[[並]]<rt>ㄅㄝㄫ</rt></ruby> "side by side"
 - <ruby>[[並列]]<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby> "parallel, juxtaposed"
 - <ruby>[[並立]]<rt>ㄅㄝㄫㄌㄧㄆ</rt></ruby> "to stand side by side; coexist"
