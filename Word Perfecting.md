@@ -3031,3 +3031,27 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones under the corrected readi
 **Incidental fixes on `characters/乙 (char).md`**: fixed a broken HTML tag (`</rubty>` → `</ruby>`, a typo in an existing ruby-annotation line); added a `## Words` section (previously had none at all) with the self-entry.
 
 Next: 二 (continuing alphabetically — 3,907 words remain).
+
+### 2026-07-26, iteration 283 — [[words/二|二]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/二|二]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `korean: "이 (두)"` improperly crammed the native numeral `두` into the same field as the Sino-Korean reading `이` — split apart, keeping `이` in the field and moving 두 to prose, matching the [[三]] precedent. **Vietnamese corrected**: `nhì` (a real word, but a native ordinal specifically for "second," e.g. thứ nhì) was replaced with `nhị`, matching `characters/二 (char).md`'s own stored value and this vault's single-character-inherits-directly convention — documented the three-way Vietnamese distinction (nhị/nhì/hai) in prose rather than silently dropping the interesting fact that nhì exists. Removed blank `hsk_level:`/`swadesh:` and empty `aliases: []`. Wrote the Notes section from scratch, including the [[一]]/[[壱]]/[[七]]/[[漆]]/[[九]]/[[玖]]-style anti-forgery variant [[貳]].
+
+**Homophone found**: 二 shares its exact reading (niǝ/늬/ㄋㄧㄜ) with [[貳]] ("disloyal" — also historically the anti-forgery numeral variant of this very word), still unstamped. Added the homophone callout to `二`; the reciprocal callout will be completed when 貳's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/二 (char).md` — it already had a self-entry (in plain-link form rather than ruby form, but present; left as-is, out of scope on an already-perfected character page).
+
+Next: 五 (continuing alphabetically — 3,906 words remain).
+
+### 2026-07-26, iteration 284 — [[words/五|五]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/五|五]]**: `characters:` reformatted from a bare string to block-list form. Wrote the Notes section from scratch, covering the anti-forgery variant [[伍]] and the many canonical "Five X" compounds already catalogued on the character page.
+
+**Four-way homophone group found, one member already perfected with a broken callout**: 五 shares its exact reading ('o/오/ㄛ) with [[伍]] ("troops"), [[於]] ("in, at, during"), and [[汚]] ("dirty"). `於` was already perfected (2026-06-29) and already carried a homophone callout — but it was malformed: self-referential (`[[於]] (ㄛ) is a homophone of [[五]]`, i.e. citing itself instead of the other word) and incomplete (only listed 五, missing 伍/汚, which apparently weren't cross-checked at the time). **Fixed `於`'s callout** to properly list all three other members ([[五]], [[伍]], [[汚]]) instead of itself. `伍` and `汚` are both still unstamped; the word page's own tip-style pre-existing note (`This word is a homophone with "in, at" [[於]]`) has been replaced with the standard callout format, cross-linking all three.
+
+**Incidental fix**: fixed a stray single-`#` `# Notes` heading to `## Notes` on `characters/五 (char).md`. Did not add a self-entry to that page's `## Important Words` section (a differently-named heading than the usual `## Words`, already used consistently across its existing entries for major canonical compounds only) — ambiguous whether a bare self-entry belongs there by the same convention as plain `## Words` pages, left alone rather than guessed at.
+
+Next: 亘 (continuing alphabetically — 3,905 words remain; 伍 was reached via the homophone check above but not yet processed on its own turn).

@@ -43,7 +43,7 @@ boundedness: 75
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-# Notes
+## Notes
 - For anti-forgery purposes, use [[伍 (char)]]
 - [[Radical 007|二]] = [[SKIP-4-4-1]] ([[Stroke 04]])
 - [[Grade 1]], [[Jōyō - Kyōiku]], [[Korean MS]], [[lookup/HSK/HSK Beginner]]
