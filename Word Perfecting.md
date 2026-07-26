@@ -2983,3 +2983,27 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/乃 (char).md` — it already had its own self-entry.
 
 Next: 久 (continuing alphabetically — 3,911 words remain).
+
+### 2026-07-26, iteration 279 — [[words/久|久]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/久|久]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, unambiguous `cửu` (no corpus-noise candidates to sort through this time). Added missing `pos: 性詞` and `kwin: false` (both matching the character page's own values). Wrote the Notes section from scratch, covering the "long time, long-lasting" sense and its compounds ([[悠久]], [[恒久]]/[[永久]], [[久闊]]).
+
+**Homophone found**: 久 shares its exact reading (gyu/규/ㄍ⼜) with [[球]] ("sphere"), still unstamped. Added the homophone callout to `久`; the reciprocal callout will be completed when 球's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/久 (char).md` — it already had its own self-entry.
+
+Next: 乎 (continuing alphabetically — 3,910 words remain).
+
+### 2026-07-26, iteration 280 — [[words/乎|乎]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/乎|乎]]**: `characters:` reformatted from a bare string to block-list form. **Content removed — wrong-word conflation**: `vietnamese` listed both `hồ` and `hô` — `hô` is the Hán Việt reading of the historically related but graphically differentiated character [[呼]] ("to call, shout"), not of 乎 itself; kept `hồ` alone, attested directly from the classical line 不亦樂乎 → "bất diệc lạc hồ." Filled blank `pos:`/`品詞:` with `感詞` (matching the character page's own declared pos). Wrote the Notes section from scratch, covering 乎's origin as an undifferentiated doublet of 呼 and its surviving role as a classical sentence-final question particle (the [[不亦V乎]] circumfix).
+
+**Three-way homophone found**: 乎 shares its exact reading (ho/호/ㄏㄛ) with [[呼]] ("call") and [[虎]] ("tiger"), both still unstamped. Added the homophone callout to `乎` listing both; the reciprocal callout on each will be completed when its own turn comes up.
+
+No incidental `## Words` fix needed on `characters/乎 (char).md` — it already had its own self-entry.
+
+Next: 乗 (continuing alphabetically — 3,909 words remain).
