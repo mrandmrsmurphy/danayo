@@ -3437,3 +3437,23 @@ Stamped `date-last-perfect: 2026-07-26`.
 `characters/兜 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 入 (continuing alphabetically — 3,872 words remain).
+
+### 2026-07-26, iteration 318 — [[words/入|入]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄋㄧㄆ` unique).
+
+**[[words/入|入]]**: **Content removed**: `korean: "입 (들)"` improperly crammed the native verb `들다` into the same field as the Sino-Korean reading `입` — split apart, keeping `입` in the field and moving 들 to prose, matching the [[三]]/[[二]] precedent. `vietnamese: nhập` was already correct (well attested in nhập khẩu "to import"; the character page's other three candidates — nhạp, nhép, nhẹp — are tonal near-misses and weren't used). Removed blank `hsk_level:`/`swadesh:` and empty `aliases: []`. Wrote the Notes section from scratch, covering the 象形 "inward wedge" derivation as the counterpart to [[出]], and the large compound family it heads.
+
+`characters/入 (char).md`'s own compound list sits under a `## Chengyu` heading with no separate `## Words` section at all (chengyu and ordinary compounds run together unlabeled) — a real structural gap, but restructuring it is character-sweep territory, not an incidental fix; left untouched.
+
+Next: 兪 (continuing alphabetically — 3,871 words remain).
+
+### 2026-07-26, iteration 319 — [[words/兪|兪]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ⼜ㄇ` unique — unsurprising, since the character page's own note explains the -m ending was added by deliberate vault policy specifically to reduce homophony in this phonetic family).
+
+**[[words/兪|兪]]**: frontmatter was already clean (`characters:` already list form, `vietnamese: dũ` and `pos: 事詞` already matching the character page). Expanded the opening Notes bullet (previously the only content) into full prose, covering 兪's classical "yes, agreed" assent sense (書經, the emperor's formal approval, preserved in [[兪允]]) and documenting the vault's own deliberate -m-ending policy for this whole phonetic family (愈/愉/揄/諭/逾/喩/蝓) rather than treating it as an unexplained irregularity.
+
+`characters/兪 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 兮 (continuing alphabetically — 3,870 words remain).
