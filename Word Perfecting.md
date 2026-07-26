@@ -3413,3 +3413,27 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/兎 (char).md` — it already had its own self-entry.
 
 Next: 児 (continuing alphabetically — 3,874 words remain).
+
+### 2026-07-26, iteration 316 — [[words/児|児]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/児|児]]**: `characters:` reformatted from a bare string to block-list form. **Real bug found and fixed**: `羅馬字: ei` was missing the leading glottal-onset apostrophe that the character page itself stores (`'ei`) — corrected to match, the same class of bug as [[児]]'s own sibling fixes on [[乙]]/[[伍]] earlier in this sweep. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `nhi` (well attested in nhi đồng "children" and nhũ nhi 乳児 "infant"). Added missing `pos: 名詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the 象形 "infant with an open fontanelle" derivation.
+
+**Homophone found**: 児 shares its exact reading ('ei/에/ㄝㄧ) with [[詣]] ("visit"), still unstamped. Added the homophone callout to `児`; the reciprocal callout will be completed when 詣's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/児 (char).md` — it already had its own self-entry.
+
+Next: 兜 (continuing alphabetically — 3,873 words remain).
+
+### 2026-07-26, iteration 317 — [[words/兜|兜]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/兜|兜]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `đâu`, attested in đâu mâu (兜鍪, the classical compound term for "helmet"). Added missing `pos: 名詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch, covering the 象形 "helmet" sense and its later extension to "wrap around, encircle, peddle."
+
+**Homophone found**: 兜 shares its exact reading (du/두/ㄉㄨ) with [[株]] ("stock"), still unstamped. Added the homophone callout to `兜`; the reciprocal callout will be completed when 株's own turn comes up.
+
+`characters/兜 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 入 (continuing alphabetically — 3,872 words remain).
