@@ -3457,3 +3457,27 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ⼜ㄇ` unique 
 `characters/兪 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 兮 (continuing alphabetically — 3,870 words remain).
+
+### 2026-07-26, iteration 320 — [[words/兮|兮]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/兮|兮]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `hề`, used in Vietnamese translations of classical Chinese poetry featuring this particle. Added missing `pos: 感詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the 會意 "exhaled sigh" derivation and 兮's role as a classical exclamatory/rhythmic particle (Xiang Yu's 垓下歌, the 楚辭 tradition).
+
+**Homophone found**: 兮 shares its exact reading (hei/헤/ㄏㄝㄧ) with [[奚]] ("how"), still unstamped. Added the homophone callout to `兮`; the reciprocal callout will be completed when 奚's own turn comes up.
+
+`characters/兮 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 兼 (continuing alphabetically — 3,869 words remain).
+
+### 2026-07-26, iteration 321 — [[words/兼|兼]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/兼|兼]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `kiêm`, well attested in kiêm nhiệm ("to hold a concurrent post") and kiêm chức ("to hold dual roles") — directly matching this word's own "double as" sense; the character page's other four candidates (côm, cồm, kem, kèm) are unrelated corpus noise. Wrote the Notes section from scratch, covering the 會意 "hand holding two grain stalks" derivation.
+
+**Homophone found**: 兼 shares its exact reading (gem/검/ㄍㄝㄇ) with [[鉗]] ("vice"), still unstamped. Added the homophone callout to `兼`; the reciprocal callout will be completed when 鉗's own turn comes up.
+
+`characters/兼 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[兮]]/[[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 冗 (continuing alphabetically — 3,868 words remain).
