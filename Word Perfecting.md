@@ -3241,3 +3241,37 @@ Stamped `date-last-perfect: 2026-07-26`. Three-hundredth logged iteration of thi
 `characters/侯 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 便 (continuing alphabetically — 3,889 words remain).
+
+### 2026-07-26, iteration 301 — [[words/便|便]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/便|便]]**: `characters:` reformatted from a bare string to block-list form. **Real bug found and fixed — sense/reading mismatch, verified via search**: 便 splits into two distinct reading clusters per language ("convenient/cheap" vs. "excrement"), and this word specifically covers the "cheap" sense. `korean: 변` was wrong — 변 (byeon) is the Korean reading for the *excrement* sense, while 편 (pyeon) is the reading for "convenient, cheap" (confirmed via search: 便 is "편할 편, 똥오줌 변" — two readings, two senses); 변 on the word page looks like it was accidentally copied from the Dan'a'yo syllable's own 변 spelling rather than sourced as a real Korean loanword. Corrected to `편`. **Content removed** for the same reason: `vietnamese: tiện, biền` (comma-joined) — searched and confirmed Vietnamese shows the identical two-way split (tiện for "convenient," biền for specifically "cheap," as in 便宜 read biền nghi) — kept `biền` alone, removed `tiện` (the wrong sense). **`kwin` corrected**: was `true` on the word, but `characters/便 (char).md`'s own `kwin` is `false` — fixed to match (single-constituent inheritance). Wrote the Notes section from scratch documenting the two-reading split explicitly, since it's exactly what caused both bugs.
+
+**Homophone found**: 便 shares its exact reading (byen/변/ㄅ⼶ㄋ) with [[変]] ("change"), still unstamped. Added the homophone callout to `便`; the reciprocal callout will be completed when 変's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/便 (char).md` — it already had its own self-entry.
+
+Next: 促 (continuing alphabetically — 3,888 words remain).
+
+### 2026-07-26, iteration 302 — [[words/促|促]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄑㄛㄎ` unique).
+
+**[[words/促|促]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed the character page's three Vietnamese candidates (thúc, xóc, xúc) split into one genuine two-reading case plus one contaminant — xúc (standard) and thúc (recognized alternate, as in thôi thúc/thúc đẩy) are both real, dictionary-attested readings for 促, while xóc ("to shake, jolt") is an unrelated native word — kept `[xúc, thúc]`, dropped `xóc`. Added missing `pos: 事詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch, covering the 人+足 "feet moving quickly" derivation.
+
+`characters/促 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 俗 (continuing alphabetically — 3,887 words remain).
+
+### 2026-07-26, iteration 303 — [[words/俗|俗]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/俗|俗]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `tục`, attested in phong tục ("custom") and thô tục ("vulgar," matching this word's own sense directly); the character page's other candidate, `thói`, is a native Vietnamese word for "habit" (thói quen) — a related but distinct gloss rather than a genuine alternate reading of 俗, so not used. Added missing `pos: 性詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch, covering the "customs of common people" → "vulgar, unrefined" semantic extension.
+
+**Homophone found**: 俗 shares its exact reading (sog/속/ㄙㄛㄎ) with [[速]] ("quick"), still unstamped. Added the homophone callout to `俗`; the reciprocal callout will be completed when 速's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/俗 (char).md` — it already had its own self-entry.
+
+Next: 倍 (continuing alphabetically — 3,886 words remain).
