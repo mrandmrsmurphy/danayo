@@ -3481,3 +3481,23 @@ Stamped `date-last-perfect: 2026-07-26`.
 `characters/兼 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[兮]]/[[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 冗 (continuing alphabetically — 3,868 words remain).
+
+### 2026-07-26, iteration 322 — [[words/冗|冗]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄋ⼄ㄫ` unique).
+
+**[[words/冗|冗]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `nhũng` is the genuine Hán Việt reading (nhũng viên 冗員 "redundant staff," nhũng phí 冗費 "wasteful expenses") among four stored candidates; the other three (nhõng, nhùng, nũng) are tonal near-misses. Added missing `pos: 性詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the "person idling under a roof" derivation.
+
+`characters/冗 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[兼]]/[[兮]]/[[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 冥 (continuing alphabetically — 3,867 words remain).
+
+### 2026-07-26, iteration 323 — [[words/冥|冥]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄇㄝㄫ` unique).
+
+**[[words/冥|冥]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: blank `vietnamese` filled with `minh`, well attested in u minh ("dark and gloomy, obscure") and minh giới (冥界, "the underworld"); the character page's other two candidates, mênh and mưng, are unrelated corpus noise. Added missing `pos: 性詞` (matching the character page's descriptive sense, though its own `pos` field was blank). Wrote the Notes section from scratch, covering the 會意 "sun covered over" darkness derivation and its extension to the underworld.
+
+`characters/冥 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[冗]]/[[兼]]/[[兮]]/[[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 冬 (continuing alphabetically — 3,866 words remain).
