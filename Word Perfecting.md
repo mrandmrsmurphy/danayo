@@ -3321,3 +3321,27 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/借 (char).md` — it already had its own self-entry.
 
 Next: 倶 (continuing alphabetically — 3,882 words remain).
+
+### 2026-07-26, iteration 308 — [[words/倶|倶]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/倶|倶]]**: `characters:` reformatted from a bare string to block-list form. **Content removed — broken data**: `korean: "null"` was the literal text string "null," not a real value — corrected to `구`, matching the character page. **Content removed**: `vietnamese: null` (the real YAML-null this time) replaced with `câu`, directly attested in câu lạc bộ (俱樂部, "club" — the same loanword-transliteration compound as Japanese 倶楽部, already noted on the character page); the character page's other candidate, `cu`, doesn't correspond to any attested reading and looks like noise. Added missing `pos: 事詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch.
+
+**Three-way homophone group found, one member already perfected with no callout at all**: 倶 shares its exact reading (gu/구/ㄍㄨ) with [[句]] ("phrase," still unstamped) and [[衢]] ("crossroads," perfected 2026-07-17). `衢` had no homophone callout — added one cross-linking both `倶` and `句`.
+
+`characters/倶 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 偏 (continuing alphabetically — 3,881 words remain).
+
+### 2026-07-26, iteration 309 — [[words/偏|偏]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/偏|偏]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `thiên`, well attested in thiên vị ("to be partial, show favoritism," directly matching this word's "biased" sense); the character page's other two candidates, xen ("interspersed") and xiên (a real native word for "slanted, oblique," but not a genuine reading of 偏 itself), weren't used. Added missing `pos: 性詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch, covering the literal "tilted/leaning" sense and its figurative extension to "biased."
+
+**Three-way homophone group found**: 偏 shares its exact reading (pyen/편/ㄆ⼶ㄋ) with [[篇]] ("article") and [[騙]] ("deceive"), both still unstamped. Added the homophone callout to `偏`; the reciprocal callout on each will be completed when its own turn comes up.
+
+`characters/偏 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 偵 (continuing alphabetically — 3,880 words remain).
