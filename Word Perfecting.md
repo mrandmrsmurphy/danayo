@@ -3545,3 +3545,23 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄚㄨ` unique)
 `characters/凹 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[冥]]/[[冗]]/[[兼]]/[[兮]]/[[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 出 (continuing alphabetically — 3,862 words remain).
+
+### 2026-07-26, iteration 328 — [[words/出|出]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄑㄨㄊ` unique).
+
+**[[words/出|出]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `japanese: しゅち` didn't match either of the character page's own on'yomi (SHUTSU/SUI) — しゅち garbles しゅつ (shu-tsu → shu-chi, a つ/ち mix-up) — corrected to `しゅつ`. `vietnamese: xuất` was already correct. Wrote the Notes section from scratch, covering the 会意 "foot out of a cave" derivation and the large compound family it heads.
+
+**Incidental fix**: `characters/出 (char).md`'s own `## Words` section was missing an entry for 出 itself (had twenty-plus compounds but no self-entry) — added it.
+
+Next: 切 (continuing alphabetically — 3,861 words remain).
+
+### 2026-07-26, iteration 329 — [[words/切|切]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄑㄝㄊ` unique).
+
+**[[words/切|切]]**: `characters:` reformatted from a bare string to block-list form. **Checked a real-looking mismatch, found it wasn't one**: the word's `korean: 절` differs from the character page's own stored `korean: 체` — searched and confirmed 切 genuinely has two Korean readings tied to different senses (절 "to cut," 체 "entirety, all," the classic 일체/일절 homograph pair) — this word's "cut, mince, carve" sense is correctly 절 as already stored; the character page's own 체 reflects the other sense and wasn't touched (out of scope, unperfected page). **Content removed/resolved**: filled blank `vietnamese` with `thiết`, attested in thân thiết (親切, "close, intimate"); the character page's other three candidates (siết, thiếc, thướt) are unrelated corpus noise. Wrote the Notes section from scratch, documenting the Korean dual-reading split explicitly.
+
+`characters/切 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 刈 (continuing alphabetically — 3,860 words remain).

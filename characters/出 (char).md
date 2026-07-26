@@ -49,6 +49,7 @@ boundedness: 90
 - 73rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄑㄨㄊ](../syllables/ㄑㄨㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[出]]<rt>ㄑㄨㄊ</rt></ruby> "exit"
 - <ruby>[[引出]]<rt>ㄧㄋㄑㄨㄊ</rt></ruby> "to lead out; to extract"
 - <ruby>[[出身]]<rt>ㄑㄨㄊㄙㄧㄋ</rt></ruby> "background; be descended from; origin"
 - <ruby>[[出現]]<rt>ㄑㄨㄊㄏ⼶ㄋ</rt></ruby> "appear; emerge; be revealed"
