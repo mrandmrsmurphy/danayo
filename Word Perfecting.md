@@ -3055,3 +3055,29 @@ Stamped `date-last-perfect: 2026-07-26`.
 **Incidental fix**: fixed a stray single-`#` `# Notes` heading to `## Notes` on `characters/五 (char).md`. Did not add a self-entry to that page's `## Important Words` section (a differently-named heading than the usual `## Words`, already used consistently across its existing entries for major canonical compounds only) — ambiguous whether a bare self-entry belongs there by the same convention as plain `## Words` pages, left alone rather than guessed at.
 
 Next: 亘 (continuing alphabetically — 3,905 words remain; 伍 was reached via the homophone check above but not yet processed on its own turn).
+
+### 2026-07-26, iteration 285 — [[words/亘|亘]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/亘|亘]]**: `characters:` reformatted from a bare string to block-list form. **Investigated a genuinely questionable point before proceeding rather than skipping outright**: the stored English gloss "swirl, whirlpool" looked suspicious at first (no standard modern dictionary meaning matched it), so before stamping, searched to check whether it was a vault data error — confirmed via Wiktionary that "to revolve, whirlpool" is in fact 亘's real, if archaic, original sense (a 会意 of 二 + an enclosing/circular element), later displaced by identification with the visually similar 亙 ("to extend all the way through," the modern surviving sense, as in 亘古/亙古). The gloss was correct; documented both senses in the Notes.
+
+**Content removed/resolved — six-candidate Vietnamese field**: the character page stored six near-homophone candidates (cắng, cẳng, cẵng, cứng, gắng, hẵng); looked up the character in a Hán Nôm dictionary and found only three genuinely attested Hán Việt readings exist for it at all (cắng, hoàn, tuyên) — meaning five of the six stored candidates were pure noise, with only `cắng` a real match. Used `cắng` alone. Added missing `pos: 名詞`.
+
+**Three-way homophone group found**: 亘 shares its exact reading (hwan/환/ㄏ⺢ㄋ) with [[喚]] ("summon") and [[環]] ("ring"), both still unstamped. Added the homophone callout to `亘`; the reciprocal callout on each will be completed when its own turn comes up.
+
+**No incidental fix applied to `characters/亘 (char).md`**: unlike other character pages touched so far in this sweep, this one has no `date-last-perfect` at all and no `## Notes`/`## Words` sections whatsoever — it hasn't been through the character sweep yet. Building out its structure from scratch would be character-sweep work, not an incidental word-sweep fix, so left untouched beyond reading its frontmatter as a data source.
+
+**Sequencing correction**: this iteration's jump from [[乙]] straight to [[二]]/[[五]]/[[亘]] skipped over 乞, 也, 乾, 亀, 了 — all still unstamped and earlier in filesystem order. No harm done (each word is independent), but the next firing picks up at 乞 to close that gap rather than continuing on from 亘.
+
+Next: 乞 (continuing alphabetically — 3,904 words remain).
+
+### 2026-07-26, iteration 286 — [[words/乞|乞]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄎㄧㄊ` unique).
+
+**[[words/乞|乞]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `khất`, the Hán Việt reading well attested in hành khất ("to beg; a beggar") and khất thực (the Buddhist alms-begging term) — the character page's other two candidates, gật ("to nod") and khắt (part of khắt khe, "strict, harsh"), belong to unrelated words and weren't used. Added missing `pos: 動詞` and `kwin: false` (matching the character page's own value). Wrote the Notes section from scratch.
+
+`characters/乞 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[亘]] last iteration.
+
+Next: 也 (continuing alphabetically — 3,903 words remain).
