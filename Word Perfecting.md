@@ -3389,3 +3389,27 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄑㄛㄧ` uniq
 `characters/催 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 光 (continuing alphabetically — 3,876 words remain).
+
+### 2026-07-26, iteration 314 — [[words/光|光]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/光|光]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: filled blank `pos:`/`品詞:` with `名詞`. Narrowed `vietnamese` from four candidates to `quang` alone, attested in hào quang ("aura, halo, radiance") and quang minh ("bright, glorious"); the other three (cuông, quàng, quăng) are corpus noise. Wrote the Notes section from scratch, covering the 会意 "fire over a kneeling person" derivation and the large literal/figurative compound family it heads.
+
+**Homophone found**: 光 shares its exact reading (kwang/쾅/ㄎ⺢ㄫ) with [[筐]] ("bamboo basket"), still unstamped. Added the homophone callout to `光`; the reciprocal callout will be completed when 筐's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/光 (char).md` — it already had its own self-entry.
+
+Next: 兎 (continuing alphabetically — 3,875 words remain).
+
+### 2026-07-26, iteration 315 — [[words/兎|兎]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/兎|兎]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: thố` was already correct — a genuine two-reading case (thố, Hán Việt/mythological, as in Ngọc Thố "Jade Rabbit"; thỏ, the everyday native word) where this word's own register matches thố, not contamination. Wrote the Notes section from scratch, covering the 象形 "crouching hare" derivation, the Moon Rabbit motif, and the chengyu [[守株待兎]].
+
+**Three-way homophone group found, one member already perfected with no callout at all**: 兎 shares its exact reading (to/토/ㄊㄛ) with [[吐]] ("spit," still unstamped) and [[土]] ("earth," perfected 2026-03-14). `土` had no homophone callout and its own `## Notes` section is completely empty despite being stamped — added the callout (cross-linking `兎` and `吐`) but left the empty Notes section itself untouched, same as the [[見]] gap flagged a few iterations back; another candidate for a dedicated backfill pass.
+
+No incidental `## Words` fix needed on `characters/兎 (char).md` — it already had its own self-entry.
+
+Next: 児 (continuing alphabetically — 3,874 words remain).
