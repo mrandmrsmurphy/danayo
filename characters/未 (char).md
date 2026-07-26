@@ -54,3 +54,10 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧ·ㄨㄐㄨㄇ⼜</rt></ruby> "plan ahead: 'before it rains, bind around with silk'"
+
+## Derived Characters
+- <ruby>[[味]]<rt>ㄇㄨㄧ</rt></ruby> "taste; experience"
+- <ruby>[[妹]]<rt>ㄇㄛㄧ</rt></ruby> "younger sister"
+- <ruby>[[昧 (char)|昧]]<rt>ㄇㄚㄧ</rt></ruby> "dark; benighted"
+- <ruby>[[寐]]<rt>ㄇㄧㄜ</rt></ruby> "deep sleep"
+- <ruby>[[魅]]<rt>ㄇㄧㄜ</rt></ruby> "charm; captivate"

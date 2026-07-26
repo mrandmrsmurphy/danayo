@@ -18,7 +18,7 @@ stroke_count: 13
 radical: "辵"
 skip_number: 3-4-9
 grade_level: "2"
-pos: ""
+pos: 修飾語
 english:
   - than
   - too
@@ -34,6 +34,7 @@ stand_in: "過"
 aliases:
   - 过
 注音: "ㄍ⺢"
+date-last-perfect: 2026-07-25
 kwin: true
 tags:
   - character
@@ -46,10 +47,17 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 戈一合]]
+## Notes
+- 形声 (OC \*kloːl, \*kloːls): semantic [[Radical 162|辵]] ("walk") + phonetic [[咼]] (OC \*kʰʷroːl) — to pass, cross through.
+- [SKIP-3-4-9](lookup/SKIP/SKIP-3/SKIP-3-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 194th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄍ⺢](syllables/ㄍ⺢.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[過]]<rt>ㄍ⺢</rt></ruby> "than, too"
 - <ruby>[[経過]]<rt>ㄍㄝㄫㄍ⺢</rt></ruby> "pass through, undergo"
-- [[過激]] "drastic, extreme, aggressive, radical"
-- [[過量]] "to overdose on"
-- [[過去]] "past"
+- <ruby>[[過去]]<rt>ㄍ⺢ㄎ⼄</rt></ruby> "past"
+- <ruby>[[過激]]<rt>ㄍ⺢ㄍㄝㄎ</rt></ruby> "drastic, extreme, aggressive, radical"
+- <ruby>[[過量]]<rt>ㄍ⺢ㄌ⼘ㄫ</rt></ruby> "to overdose on"
+- <ruby>[[不過]]<rt>ㄅㄛㄊㄍ⺢</rt></ruby> "only, just, merely"
+- <ruby>[[通過]]<rt>ㄊㄛㄫㄍ⺢</rt></ruby> "pass"

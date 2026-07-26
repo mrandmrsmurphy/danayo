@@ -60,3 +60,10 @@ boundedness: 65
 - <ruby>[[此名]]<rt>ㄑㄜㄇㄧㄫ</rt></ruby> "this person (polite)"
 - <ruby>[[此類]]<rt>ㄑㄜㄌㄨㄧ</rt></ruby> "this kind; this sort"
 - <ruby>[[此多]]<rt>ㄑㄜㄉㄜ</rt></ruby> "this much; this many"
+
+## Derived Characters
+- <ruby>[[些]]<rt>ㄙㄚ</rt></ruby> "a little; rather; somewhat"
+- <ruby>[[紫]]<rt>ㄐㄝ</rt></ruby> "purple; violet"
+- <ruby>[[柴]]<rt>ㄐ⺢ㄧ</rt></ruby> "firewood; brushwood"
+- <ruby>[[砦]]<rt>ㄐㄚㄧ</rt></ruby> "abatis"
+- <ruby>[[雌]]<rt>ㄑㄝ</rt></ruby> "female"

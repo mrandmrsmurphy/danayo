@@ -15,7 +15,7 @@ stroke_count: 7
 radical: "水"
 skip_number: 1-3-4
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - determine
   - decide
@@ -34,6 +34,7 @@ aliases:
   - 夬
   - 蹶
 注音: "ㄎ⼔ㄊ"
+date-last-perfect: 2026-07-25
 kwin: false
 tags:
   - character
@@ -46,18 +47,20 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 形声: (OC \*kʷeːd, \*qʰʷeːd): semantic [[Radical 085|氵]] + phonetic 夬 (OC \*kʷraːds).  
-- However, we do not retain that original component 夬.  (It was also written 叏.)  It's descendants are:
-	- This character **決**
-	- [袂 (char)](characters/袂%20(char).md)
-	- [快 (char)](characters/快%20(char).md)
-	- [缺](characters/缺.md)
-	- [訣](characters/訣.md)
+- 形声 (OC \*kʷeːd, \*qʰʷeːd): semantic [[Radical 085|氵]] ("water") + phonetic 夬 (OC \*kʷraːds) — originally "to breach (a dike), to channel water"; extended to "decide."
+- [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
+- 742nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 屑合|wet]] → [ㄎ⼔ㄊ](syllables/ㄎ⼔ㄊ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- The phonetic 夬 (also written 叏) has no page of its own — it is aliased here. Its other descendants: [[袂 (char)|袂]], [[快 (char)|快]], [[缺]], [[訣]].
 
 ## Words
-- <ruby>[解決](/words/解決.md)<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby>
-- <ruby>[[決定]]<rt>ㄎ⼔ㄊㄐㄝㄫ</rt></ruby> "decide, choose"
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 屑合]]
+- <ruby>[[決]]<rt>ㄎ⼔ㄊ</rt></ruby> "determine; decide" (stand-in for 決)
+- <ruby>[[解決]]<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby> "solve; resolve; conclude; settle"
+- <ruby>[[決定]]<rt>ㄎ⼔ㄊㄐㄝㄫ</rt></ruby> "decide; choose"
+- <ruby>[[処決]]<rt>ㄑㄛㄎ⼔ㄊ</rt></ruby> "handle; resolve; execute"
+
 ## Chengyu
+- <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"
 - <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"
+- <ruby>[[文音共決]]<rt>ㄇㄨㄋ·ㄨㄇㄍ⼄ㄫㄎ⼔ㄊ</rt></ruby> "script and sound resolved together"
+- <ruby>[[覧昭和決]]<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢ㄎ⼔ㄊ</rt></ruby> "Japan picks the looks"

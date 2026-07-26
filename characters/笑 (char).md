@@ -15,7 +15,7 @@ stroke_count: 10
 radical: "竹"
 skip_number: 2-6-4
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - laugh
   - smile
@@ -31,6 +31,7 @@ stand_in: "笑"
 aliases:
   - 咲
 注音: "ㄙ⼄ㄨ"
+date-last-perfect: 2026-07-25
 kwin: false
 tags:
   - character
@@ -43,11 +44,17 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 宵A]]
+## Notes
+- 形声: semantic [[Radical 118|竹]] ("bamboo") + phonetic 夭 — as bamboo sways in the wind: the body shaking with laughter.
+- [SKIP-2-6-4](lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 882nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙ⼄ㄨ](syllables/ㄙ⼄ㄨ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[笑]]<rt>ㄙ⼄ㄨ</rt></ruby> "laugh; smile" (stand-in for 笑)
+- <ruby>[[大笑]]<rt>ㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously; burst out laughing"
+- <ruby>[[哄笑]]<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby> "burst out laughing; roar with laughter"
 - <ruby>[[嘲笑]]<rt>ㄑㄚㄨㄙ⼄ㄨ</rt></ruby> "to ridicule; to mock; to deride; to jeer at"
-- <ruby>[[哄笑]]<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby> "burst out laughing"
-- <ruby>[[大笑]]<rt>ㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously"
+
+## Chengyu
+- <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "guffaw; to laugh a ringing laugh; to have a hearty laugh; laugh uproariously"

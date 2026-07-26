@@ -66,3 +66,6 @@ boundedness: 90
 - <ruby>[[批]]<rt>ㄆㄝㄧ</rt></ruby> "criticism; comment"
 - <ruby>[[琵]]<rt>ㄅㄧ</rt></ruby> "pipa"
 - <ruby>[[砒]]<rt>ㄆㄧ</rt></ruby> "arsenic"
+- <ruby>[[庇]]<rt>ㄅㄧㄜ</rt></ruby> "shield; protect"
+- <ruby>[[屁 (char)|屁]]<rt>ㄆㄧㄜ</rt></ruby> "far"
+- <ruby>[[毘]]<rt>ㄅㄧㄜ</rt></ruby> "help"

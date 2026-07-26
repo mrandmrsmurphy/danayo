@@ -19,7 +19,7 @@ stroke_count: 15
 radical: "言"
 skip_number: 1-7-8
 grade_level: "2"
-pos: ""
+pos: 名詞
 english:
   - lesson
   - chapter
@@ -35,6 +35,7 @@ stand_in: "課"
 aliases:
   - 课
 注音: "ㄎ⺢ㄇ"
+date-last-perfect: 2026-07-25
 kwin: false
 tags:
   - character
@@ -48,6 +49,10 @@ boundedness: 90
 ```
 ## Notes
 - 形声 (OC \*kʰloːl, \*kʰloːls): semantic [[Radical 149|言]] ("to say") + phonetic [[果]] (OC \*kloːlʔ) — to assess; to examine.
+- [SKIP-1-7-8](lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
+- 2401st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄎ⺢ㄇ](syllables/ㄎ⺢ㄇ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 - pronunciation altered to get a free syllable
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 戈一合]]
+
+## Words
+- <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby> "lesson, chapter"

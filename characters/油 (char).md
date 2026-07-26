@@ -6,7 +6,7 @@ korean_native: 기름
 japanese:
   - YU
   - YUU
-japanese_native: あぶら
+japanese_native:
   - あぶら
 vietnamese:
   - du
@@ -30,6 +30,7 @@ graphemic_classification: 由
 stand_in: 油
 aliases:
 注音: ⼜
+date-last-perfect: 2026-07-25
 kwin: true
 tags:
   - character
@@ -42,7 +43,15 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 以]]
-[[Lookup/CC/finals/韻 尤]]
-- <ruby>[[石油]]<rt>ㄙㄝㄎ⼜</rt></ruby> "petroleum"
+## Notes
+- 形声: semantic [[Radical 085|氵]] ("water") + phonetic [[由 (char)|由]] — an oily liquid.
+- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 3745th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [⼜](syllables/⼜.md)
+- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[油]]<rt>⼜</rt></ruby> "oil" (stand-in for 油)
+- <ruby>[[石油]]<rt>ㄙㄝㄎ⼜</rt></ruby> "petroleum; oil"
+- <ruby>[[醤油]]<rt>ㄐㄚㄫ⼜</rt></ruby> "soy sauce"
+- <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby> "gasoline"
+- <ruby>[[精油]]<rt>ㄐㄝㄫ⼜</rt></ruby> "oil (all kinds)"

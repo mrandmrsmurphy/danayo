@@ -69,3 +69,4 @@ boundedness: 90
 
 ## Derived Characters
 - <ruby>[[麦]]<rt>ㄇㄚㄎ</rt></ruby> "wheat; barley"
+- <ruby>[[莱]]<rt>ㄌㄚㄧ</rt></ruby> "Penglai"

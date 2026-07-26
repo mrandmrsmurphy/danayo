@@ -18,7 +18,7 @@ stroke_count: 15
 radical: 火
 skip_number: 2-11-4
 grade_level: "2"
-pos: ""
+pos: 性詞
 english:
   - heat up
   - be hot
@@ -35,6 +35,7 @@ aliases:
   - 热
   - 烧
 注音: ㄋ⼶ㄊ
+date-last-perfect: 2026-07-25
 kwin: false
 tags:
   - character
@@ -48,11 +49,16 @@ boundedness: 90
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 薛A三開]]
+- 形声: semantic [[Radical 086|火]] ("fire") + phonetic 埶 — heat.
+- [SKIP-2-11-4](lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
+- 641st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄋ⼶ㄊ](syllables/ㄋ⼶ㄊ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- [[熱烈]] "avid, fervent"
-- <ruby>[[熱情]]<rt>ㄋ⼶ㄊㄑㄧㄫ</rt></ruby> "enthusiasm, passion, ardor"
+- <ruby>[[熱]]<rt>ㄋ⼶ㄊ</rt></ruby> "heat up; be hot" (stand-in for 熱)
+- <ruby>[[灼熱]]<rt>ㄐㄚㄎㄋ⼶ㄊ</rt></ruby> "burning hot; scorching"
+- <ruby>[[発熱]]<rt>ㄈㄚㄊㄋ⼶ㄊ</rt></ruby> "have a fever; heating up"
+- <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical; the tropics"
+- <ruby>[[熱情]]<rt>ㄋ⼶ㄊㄑㄧㄫ</rt></ruby> "enthusiasm; passion; ardor"
+- <ruby>[[熱烈]]<rt>ㄋ⼶ㄊㄌㄝㄊ</rt></ruby> "avid; fervent"
 - <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"
-- <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"

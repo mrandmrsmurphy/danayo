@@ -32,6 +32,7 @@ aliases:
   - 關
   - 关
 注音: ㄍ⺢ㄇ
+date-last-perfect: 2026-07-25
 kwin: false
 tags:
   - character
@@ -45,10 +46,17 @@ boundedness:
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 刪合]]
+- 形声 (OC \*kroːn): semantic [[Radical 169|門]] ("door") + phonetic 丱 (also written 卝, guàn/luǎn — no vault page; the bronze-script form depicted a door locked with two wooden sticks).
+- [SKIP-3-8-6](lookup/SKIP/SKIP-3/SKIP-3-8-6.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
+- 424th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 刪合|ɣuan]] → [ㄍ⺢ㄇ](syllables/ㄍ⺢ㄇ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[関]]<rt>ㄍ⺢ㄇ</rt></ruby> "close"
 - <ruby>[[机関]]<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby> "machine; organization"
-- [[関島]] "Gwam (island)"
-- [[関数]] "function"
+- <ruby>[[関島]]<rt>ㄍ⺢ㄇㄊㄚㄨ</rt></ruby> "Gwam (island)"
+- <ruby>[[関数]]<rt>ㄍ⺢ㄇㄙㄨ</rt></ruby> "function"
+- <ruby>[[関係]]<rt>ㄍ⺢ㄇㄍㄝㄧ</rt></ruby> "relationship, related"
+- <ruby>[[関心]]<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby> "be concerned about, care for"
+- <ruby>[[関詞]]<rt>ㄍ⺢ㄇㄙㄚ</rt></ruby> "relator, particle (grammar), relational"
+- <ruby>[[指関節]]<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "knuckle, joint"

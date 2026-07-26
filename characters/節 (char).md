@@ -20,7 +20,7 @@ stroke_count: 13
 radical: 竹
 skip_number: 2-6-7
 grade_level: "2"
-pos: ""
+pos: 名詞
 english:
   - node
   - knuckle
@@ -38,6 +38,7 @@ stand_in: 節
 aliases:
   - 节
 注音: ㄐㄝㄊ
+date-last-perfect: 2026-07-25
 kwin: true
 tags:
   - character
@@ -50,9 +51,25 @@ boundedness: 70
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 精]]
-[[Lookup/CC/finals/韻 屑開]]
-- [[節減]] "economize, economy"
-- <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
+## Notes
+- 形声 (OC \*ʔsiːɡ): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[即 (char)|即]] (OC \*ʔsɯɡ) — the node of bamboo; extended to "segment, joint, festival."
+- [SKIP-2-6-7](lookup/SKIP/SKIP-2/SKIP-2-6-7.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 295th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄐㄝㄊ](syllables/ㄐㄝㄊ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[節]]<rt>ㄐㄝㄊ</rt></ruby> "node, joint, festival"
+- <ruby>[[季節]]<rt>ㄍㄨㄧㄐㄝㄊ</rt></ruby> "season"
+- <ruby>[[時節]]<rt>ㄙㄧㄐㄝㄊ</rt></ruby> "seasons"
+- <ruby>[[音節]]<rt>ㄨㄇㄐㄝㄊ</rt></ruby> "syllable"
+- <ruby>[[節減]]<rt>ㄐㄝㄊㄍㄚㄇ</rt></ruby> "economize, economy"
+- <ruby>[[春節]]<rt>ㄑㄨㄋㄐㄝㄊ</rt></ruby> "Chinese/lunar New Year"
+- <ruby>[[復活節]]<rt>ㄅㄨㄎㄏ⺢ㄊㄐㄝㄊ</rt></ruby> "Easter"
+- <ruby>[[聖誕節]]<rt>ㄙㄧㄫㄉㄚㄋㄐㄝㄊ</rt></ruby> "Christmas"
 - <ruby>[[中秋節]]<rt>ㄐㄨㄫㄑㄨㄛㄐㄝㄊ</rt></ruby> "Mid-Autumn Festival"
+- <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
+- <ruby>[[指関節]]<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "knuckle, finger joint"
+- <ruby>[[双節棍]]<rt>ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ</rt></ruby> "nunchucks"
+
+## Derived Characters
+- <ruby>[[櫛 (char)|櫛]]<rt>ㄐㄜㄊ</rt></ruby> "comb"

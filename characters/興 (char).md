@@ -21,7 +21,7 @@ stroke_count: 16
 radical: 臼
 skip_number: 2-14-2
 grade_level: "2"
-pos: ""
+pos: 事詞
 english:
   - entertain
 羅馬字: hǝng
@@ -36,6 +36,7 @@ stand_in: 興
 aliases:
   - 兴
 注音: ㄏㄜㄫ
+date-last-perfect: 2026-07-25
 tags:
   - character
 kwin: true
@@ -48,10 +49,15 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
+## Notes
+- 会意 of 舁 ("four hands lifting," no vault page) + [[凡]] ("a frame or litter") — originally a pictograph of four hands raising a stretcher; the Shuowen's small-seal analysis instead reads the lower component as [[同]] ("shared strength"). "To rise, raise; to prosper."
+- [SKIP-2-14-2](lookup/SKIP/SKIP-2/SKIP-2-14-2.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
+- 315th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄏㄜㄫ](syllables/ㄏㄜㄫ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[興]]<rt>ㄏㄜㄫ</rt></ruby> "entertain"
 - <ruby>[[興旺]]<rt>ㄏㄜㄫ⺢ㄫ</rt></ruby> "thriving; prosperous"
 - <ruby>[[興起]]<rt>ㄏㄜㄫㄎㄧ</rt></ruby> "to rise up, emerge"
-
-# Notes
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 蒸]]
+- <ruby>[[勃興]]<rt>ㄅㄛㄊㄏㄜㄫ</rt></ruby> "rise"
+- <ruby>[[高興]]<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby> "glad, pleased"
