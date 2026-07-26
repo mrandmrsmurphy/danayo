@@ -50,6 +50,7 @@ boundedness: 90
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[今]]<rt>ㄍㄧㄇ</rt></ruby> "now"
 - [[今夜]] "tonight"
 - [[今夜安]] "good evening"
 - <ruby>[[今年]]<rt>ㄍㄧㄇㄋㄝㄋ</rt></ruby> "this year"

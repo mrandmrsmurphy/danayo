@@ -3105,3 +3105,61 @@ Stamped `date-last-perfect: 2026-07-26`.
 **Incidental fix**: `characters/乾 (char).md`'s own `## Words` section was missing an entry for 乾 itself (had only compounds) — added it.
 
 Next: 亀 (continuing alphabetically — 3,901 words remain).
+
+### 2026-07-26, iteration 289 — [[words/亀|亀]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄨㄛ` unique).
+
+**[[words/亀|亀]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese` was a single comma-joined list entry `qui, quân, quy` — `quân` means "army, monarch" and is unrelated contamination; kept `quy` (the modern standard spelling; `qui` is just an older orthographic variant of the same word, mentioned in prose instead of stored as a separate value). `korean` was similarly comma-joined `구, 균, 귀` — `균` is a real but unrelated secondary Sino-Korean reading of 龜 tied only to the "crack, fissure" sense (龜裂, gyunyeol), not the "turtle" sense this word covers, and `귀` doesn't appear to be an attested reading at all — kept `구` alone, matching the character page's own canonical value, with the 균/龜裂 fact documented in prose rather than silently dropped. Added missing `pos: 名詞` and `kwin: false` (both matching the character page). **Rewrote a confusingly-worded pre-existing note**: the old Notes text ("this character is a rare example of Dan'a'yo not following Shinjitai, because 龟 looks too dumb/confusing") had the logic backwards — 亀 *is* the shinjitai form, and it's Simplified Chinese 龟 that Dan'a'yo departs from in its favor — replaced with clear prose matching the character page's own correct explanation.
+
+**Incidental fix**: `characters/亀 (char).md`'s own `## Words` section was missing an entry for 亀 itself (had only compounds: 草亀/海亀/陸亀) — added it.
+
+Next: 了 (continuing alphabetically — 3,900 words remain).
+
+### 2026-07-26, iteration 290 — [[words/了|了]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/了|了]]**: `characters:` was already block-list form (no change needed there). **Content removed**: `vietnamese: null` replaced with `liễu` — already confirmed as the real reading back in iteration 11 ([[了解]]), so no new research needed this time; the character page's other five candidates (léo, líu, lẽo, lếu, lểu) are the same corpus-noise pattern flagged there. Added missing `pos: 感詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering both 了's free-standing "finished" sense and its far more common role as Mandarin's completed/changed-state aspect particle.
+
+**Homophone found**: 了 shares its exact reading (lyau/럇/ㄌ⼘ㄨ) with [[聊]] ("chat"), still unstamped. Added the homophone callout to `了`; the reciprocal callout will be completed when 聊's own turn comes up.
+
+`characters/了 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[乞]]/[[亘]] earlier in this sweep.
+
+**Sequencing correction**: 亙 (distinct from [[亘]], already handled two iterations ago) was also skipped over during that earlier jump to [[二]]/[[五]]/[[亘]] — still unstamped, so the next firing picks it up before continuing to 交.
+
+Next: 亙 (continuing alphabetically — 3,899 words remain).
+
+### 2026-07-26, iteration 291 — [[words/亙|亙]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/亙|亙]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `cắng` is the genuine Hán Việt reading (attested directly in cắng cổ, 亙古, "throughout ancient times to now"); the character page's other four candidates (cẳng, cứng, gắng, hẵng) are all real Vietnamese words but unrelated in meaning — the same contamination pattern found on [[亘]] last iteration. Added missing `pos: 副詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the 指事 "crescent moon spanning two lines" derivation and the historical conflation with the visually similar but phonologically distinct [[亘]].
+
+**Homophone found**: 亙 shares its exact reading (gung/궁/ㄍㄨㄫ) with [[弓]] ("bow"), still unstamped. Added the homophone callout to `亙`; the reciprocal callout will be completed when 弓's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/亙 (char).md` — it already had its own self-entry.
+
+Next: 交 (continuing alphabetically — 3,898 words remain).
+
+### 2026-07-26, iteration 292 — [[words/交|交]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍ⼄ㄨ` unique).
+
+**[[words/交|交]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: giao` was already correct (matching the character page's own clean, single-candidate value — no corpus noise to sort through this time). Added missing `pos: 動詞`. Wrote the Notes section from scratch, covering the 象形 "crossed legs" derivation and the large compound family it heads (crossing/intersection, social exchange, transactional exchange).
+
+**Incidental fix**: `characters/交 (char).md`'s own `## Words` section was missing an entry for 交 itself (had twenty-plus compounds but no self-entry) — added it.
+
+Next: 今 (continuing alphabetically — 3,897 words remain).
+
+### 2026-07-26, iteration 293 — [[words/今|今]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/今|今]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: kim` and `pos: 副用名詞` were already correct (matching the character page's own values — no corpus noise this time). Wrote the Notes section from scratch, covering the 指事 derivation (Shuowen's "moment of speech" reading) and the vault's own greeting compounds built on this character ([[今朝安]]/[[今昼安]]/[[今夜安]]).
+
+**Homophone found**: 今 shares its exact reading (gim/김/ㄍㄧㄇ) with [[金]] ("metal"), still unstamped. Added the homophone callout to `今`; the reciprocal callout will be completed when 金's own turn comes up.
+
+**Incidental fix**: `characters/今 (char).md`'s own `## Words` section was missing an entry for 今 itself (had only compounds) — added it.
+
+Next: 令 (continuing alphabetically — 3,896 words remain).

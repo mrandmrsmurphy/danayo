@@ -55,6 +55,7 @@ boundedness: 65
 - [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[亀]]<rt>ㄍㄨㄛ</rt></ruby> "turtle"
 - <ruby>[[草亀]]<rt>ㄑㄚㄨㄍㄨㄛ</rt></ruby> "Chinese pond turtle"
 - [[海亀]] "sea turtle"
 - [[陸亀]] "land turtle; tortoise"
