@@ -3525,3 +3525,23 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/冷 (char).md` — it already had its own self-entry.
 
 Next: 凶 (continuing alphabetically — 3,864 words remain).
+
+### 2026-07-26, iteration 326 — [[words/凶|凶]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄏ⼜ㄫ` unique).
+
+**[[words/凶|凶]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `hung`, well attested in hung ác ("vicious, fierce") and hung thủ (凶手, "murderer"). Added missing `pos: 性詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch, covering the disputed 象形/指事 pictographic origin and the "unlucky" → "vicious, murderous" semantic extension.
+
+No incidental `## Words` fix needed on `characters/凶 (char).md` — it already had its own self-entry.
+
+Next: 凹 (continuing alphabetically — 3,863 words remain).
+
+### 2026-07-26, iteration 327 — [[words/凹|凹]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄚㄨ` unique).
+
+**[[words/凹|凹]]**: `characters:` reformatted from a bare string to block-list form. **Real bug found and fixed**: `羅馬字: au` was missing the leading glottal-onset apostrophe the character page itself stores (`'au`) — corrected to match, the same class of bug as [[児]]/[[乙]]/[[伍]] earlier in this sweep. **Content removed/resolved**: `vietnamese: null` — searched and confirmed `ao` is the genuine Hán Việt reading (ao địa "sunken land"; ao đột bất bình 凹凸不平 "uneven, bumpy"), not contamination from the unrelated but homophonous native word ao ("pond") — used it. Added missing `pos: 性詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering 凹 as the counterpart to [[凸]].
+
+`characters/凹 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[冥]]/[[冗]]/[[兼]]/[[兮]]/[[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 出 (continuing alphabetically — 3,862 words remain).
