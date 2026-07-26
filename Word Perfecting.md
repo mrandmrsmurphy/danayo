@@ -3345,3 +3345,47 @@ Stamped `date-last-perfect: 2026-07-26`.
 `characters/偏 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 偵 (continuing alphabetically — 3,880 words remain).
+
+### 2026-07-26, iteration 310 — [[words/偵|偵]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄊㄧㄫ` unique).
+
+**[[words/偵|偵]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `trinh`, well attested in trinh sát (偵察, "reconnaissance") and trinh thám (偵探, "detective"); the character page's other two candidates, rình (a native verb "to lurk, watch stealthily," semantically close but not the actual Hán Việt reading) and triệng (unclear, likely noise), weren't used. Added missing `pos: 動詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch.
+
+`characters/偵 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 偽 (continuing alphabetically — 3,879 words remain).
+
+### 2026-07-26, iteration 311 — [[words/偽|偽]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/偽|偽]]**: `characters:` reformatted from a bare string to block-list form. **Content removed — broken data**: `korean: "null"` was the literal text string "null," the same bug pattern found on [[倶]] two iterations ago — corrected to `위`, matching the character page. Filled blank `vietnamese` with the character page's own clean, single-candidate `nguỵ` (well attested in nguỵ trang "camouflage" and nguỵ biện "sophistry"). Added missing `pos: 性詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the "man-made" → "false, fake" semantic extension.
+
+**Homophone found**: 偽 shares its exact reading ('wei/웨/⼔ㄧ) with [[委]] ("appoint"), still unstamped. Added the homophone callout to `偽`; the reciprocal callout will be completed when 委's own turn comes up.
+
+`characters/偽 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 傍 (continuing alphabetically — 3,878 words remain).
+
+### 2026-07-26, iteration 312 — [[words/傍|傍]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/傍|傍]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `bàng`, attested in bàng quan ("indifferent, to look on as a bystander"); the character page's other three candidates (phàng, phành, vàng) are unrelated corpus noise. Added missing `pos: 修飾語` (傍 functions as a positional preposition/coverb, "beside," not a noun or verb) and `kwin: false` (matching the character page). Wrote the Notes section from scratch.
+
+**Three-way homophone group found**: 傍 shares its exact reading (pang/팡/ㄆㄚㄫ) with [[紡]] ("spin [yarn]") and [[肪]] ("fat"), both still unstamped. Added the homophone callout to `傍`; the reciprocal callout on each will be completed when its own turn comes up.
+
+`characters/傍 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 催 (continuing alphabetically — 3,877 words remain).
+
+### 2026-07-26, iteration 313 — [[words/催|催]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄑㄛㄧ` unique).
+
+**[[words/催|催]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `thôi`, attested in thôi thúc (催促, "to urge on, press" — the same compound already documented from [[促]]'s own side a few iterations back); the character page's other three candidates (thoi, thui, thòi) are tonal/orthographic near-misses and look like corpus noise. Added missing `pos: 動詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch.
+
+`characters/催 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 光 (continuing alphabetically — 3,876 words remain).
