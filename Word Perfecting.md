@@ -3007,3 +3007,27 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/乎 (char).md` — it already had its own self-entry.
 
 Next: 乗 (continuing alphabetically — 3,909 words remain).
+
+### 2026-07-26, iteration 281 — [[words/乗|乗]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/乗|乗]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: the character page's own `vietnamese` field stored four candidates (thừa, thặng, thắng, thằng); `thừa` is the correct Hán Việt reading for 乗/乘 itself (well attested in the math term lũy thừa, "exponentiation," literally "accumulated multiplication" — a direct parallel to this word's own 乗算/自乗/乗数 compounds), while `thặng` belongs to the derived character [[剰]] ("surplus") and `thắng`/`thằng` are unrelated (from 勝 "to win" and a native Vietnamese word respectively) — used `thừa` alone, the same wrong-character-conflation pattern as [[乎]]/呼 last iteration. Added missing `pos: 事詞` (matching the character page's own declared pos). Wrote the Notes section from scratch, covering the 象形 "person climbing a tree" origin and the ride→multiply semantic extension.
+
+**Homophone found**: 乗 shares its exact reading (sung/숭/ㄙㄨㄫ) with [[升]] ("litre"), still unstamped. Added the homophone callout to `乗`; the reciprocal callout will be completed when 升's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/乗 (char).md` — it already had its own self-entry.
+
+Next: 乙 (continuing alphabetically — 3,908 words remain).
+
+### 2026-07-26, iteration 282 — [[words/乙|乙]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones under the corrected reading (checked both the old wrong reading and the corrected one — neither collides with another word).
+
+**[[words/乙|乙]]**: **Real bug found and fixed — the word's own syllable didn't match its own character page at all.** `羅馬字`/`諺文`/`注音` were `'od`/옫/ㄛㄊ, but `characters/乙 (char).md`'s own stored reading is `'ǝd`/읃/ㄜㄊ — a completely different vowel, not a quoting/formatting slip. Corrected the word to match the character page's own value directly (a single-character word simply inherits its lone constituent's stored reading, per established precedent). Note: the character page's own reading is itself already a documented deviation from strict MC derivation ("Derivationally, this should be 읻, but in 日/韓/越 and 広東 [there is a following vowel]" — a terse, only partly legible existing note) — that deeper derivation question is out of scope here; the fix was simply making the word match what the character page already authoritatively stores. **Also fixed `kwin`**: was `false` on the word, but the character's own `kwin` is `true` — corrected to match (again, single-constituent inheritance, no AND-rule involved).
+
+**Content removed — wrong-word conflation**: `vietnamese: ắt` was actually a different, unrelated native Vietnamese word meaning "certainly, surely" — corrected to `ất`, the real Sino-Vietnamese reading for this Heavenly Stem (well attested in year names like Ất Dậu, Ất Mùi), the same conflation pattern as [[乎]]/呼 and [[乗]]/剰 in the last two iterations. `pos: 副用名詞` was already correct — confirmed against many other files sharing this exact category (今, 朕, 一旦, 毎日, etc.), not a typo as it first appeared. Added the missing opening Notes bullet and prose paragraphs (the existing numbered-list content was kept as-is, already in the right form).
+
+**Incidental fixes on `characters/乙 (char).md`**: fixed a broken HTML tag (`</rubty>` → `</ruby>`, a typo in an existing ruby-annotation line); added a `## Words` section (previously had none at all) with the self-entry.
+
+Next: 二 (continuing alphabetically — 3,907 words remain).

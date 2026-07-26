@@ -54,8 +54,11 @@ boundedness: 100
 	- Shuowen interprets it as a plant struggling to sprout.
 	- Ancient texts associate the shape with a fish's intestine (Erya) or gill bone (Liji).
 	- Some modern scholars suggest it represents a water flow.
-- Derivationally, this should be 읻, but in 日/韓/越 and 広東 <ruby>有<rt>유</rt></ruby> <ruby>後<rt>홋</rt></ruby><ruby>之<rt>티</rt></rubty><ruby>母音<rt>못움</rt></ruby>.
+- Derivationally, this should be 읻, but in 日/韓/越 and 広東 <ruby>有<rt>유</rt></ruby> <ruby>後<rt>홋</rt></ruby><ruby>之<rt>티</rt></ruby><ruby>母音<rt>못움</rt></ruby>.
 - [SKIP-4-1-1](../lookup/SKIP/SKIP-4/SKIP-4-1-1.md) ([Stroke 01](../lookup/Stroke/Stroke%2001.md)) describes a strange character with a horizontal line of 1 stroke.  This is the only character that matches that description.
 - [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 3](../lookup/Grade%203.md)
 [[Lookup/CC/initials/聲 影]]
 [[Lookup/CC/finals/韻 質開]]
+
+## Words
+- <ruby>[[乙]]<rt>ㄜㄊ</rt></ruby> "second"
