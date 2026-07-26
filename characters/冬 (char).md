@@ -52,6 +52,7 @@ boundedness: 80
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby> "winter"
 - <ruby>[[冬至]]<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> "winter solstice"
 - <ruby>[[冬月]]<rt>ㄊㄛㄫ·⼔ㄊ</rt></ruby> "winter month (11th month)"
 - <ruby>[[孟冬]]<rt>ㄇㄚㄫㄊㄛㄫ</rt></ruby> "early winter (10th month)"

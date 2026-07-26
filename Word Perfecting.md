@@ -3501,3 +3501,27 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄇㄝㄫ` uniq
 `characters/冥 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[冗]]/[[兼]]/[[兮]]/[[兪]]/[[入]]/[[兜]]/[[催]]/[[傍]]/[[偽]]/[[偵]]/[[偏]]/[[倶]]/[[倚]]/[[倒]]/[[促]]/[[侯]]/[[伏]]/[[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 冬 (continuing alphabetically — 3,866 words remain).
+
+### 2026-07-26, iteration 324 — [[words/冬|冬]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/冬|冬]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: đông` was already correct. Added missing `pos: 名詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the "knotted cord = end" → "end of the year, winter" derivation.
+
+**Three-way homophone group found**: 冬 shares its exact reading (tong/통/ㄊㄛㄫ) with [[桶]] ("pail") and [[通]] ("pass through"), both still unstamped. Added the homophone callout to `冬`; the reciprocal callout on each will be completed when its own turn comes up.
+
+**Incidental fix**: `characters/冬 (char).md`'s own `## Words` section was missing an entry for 冬 itself (had only 冬至 and the month compounds) — added it.
+
+Next: 冷 (continuing alphabetically — 3,865 words remain).
+
+### 2026-07-26, iteration 325 — [[words/冷|冷]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/冷|冷]]**: `characters:` reformatted from a bare string to block-list form. **North-Korean-pronunciation rule violation, fixed**: `korean: 냉` was the South Korean 두음법칙-shifted form — corrected to `랭`, matching `characters/冷 (char).md`'s own stored value. Per the standing vault rule, `korean` always uses the North Korean reading (both 랭 and 냉 are real, position-dependent Korean readings of this character — 냉 for word-initial position as in 冷蔵庫/冷麺 — but the field itself must use the North Korean 랭 regardless). **Content removed/resolved**: narrowed a ten-candidate `vietnamese` field to `lãnh`, the Hán Việt reading (lãnh đạm "cold, indifferent"; lãnh cung, the historical "cold palace"); the everyday native word lạnh is phonetically close but not the Hán Việt reading itself, and the remaining eight candidates are unrelated noise. Wrote the Notes section from scratch.
+
+**Homophone found, already-perfected sibling had no callout and empty Notes**: 冷 shares its exact reading (lang/랑/ㄌㄚㄫ) with [[狼]] ("wolf," perfected 2026-03-21). `狼` had no homophone callout — added one; its own `## Notes` (also completely empty despite being stamped) was left untouched, joining [[見]]/[[土]] as a candidate for a dedicated backfill pass.
+
+No incidental `## Words` fix needed on `characters/冷 (char).md` — it already had its own self-entry.
+
+Next: 凶 (continuing alphabetically — 3,864 words remain).
