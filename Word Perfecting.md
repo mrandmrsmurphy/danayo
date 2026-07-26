@@ -3207,3 +3207,25 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄏ⼔` unique)
 No incidental `## Words` fix needed on `characters/会 (char).md` — it already had its own self-entry.
 
 Next: 佛 (continuing alphabetically — 3,892 words remain).
+
+### 2026-07-26, iteration 298 — [[words/佛|佛]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄅㄨㄊ` unique).
+
+**[[words/佛|佛]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: Phật` was already correct (the character page's other candidate, `phất`, doesn't correspond to any sense of 佛 and looks like contamination from the unrelated but phonetically-similar 拂 "to flick, whisk" — documented in prose rather than fixed on the character page, out of scope this iteration). Added missing `pos: 名詞`. Wrote the Notes section from scratch, covering the 形声 transcription-character origin (rendering Sanskrit *buddha*) and 佛陀→佛 shortening.
+
+**Incidental fix**: `characters/佛 (char).md`'s own `## Words` section was missing an entry for 佛 itself (had only the periodic-table transliteration compounds 佛雷素/利佛素) — added it.
+
+Next: 佳 (continuing alphabetically — 3,891 words remain).
+
+### 2026-07-26, iteration 299 — [[words/佳|佳]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/佳|佳]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `giai`, the Hán Việt reading attested in giai nhân (佳人, "a beautiful person") — the character page's other three candidates (dai, lai, trai) are all real Vietnamese words but unrelated in meaning. Added missing `pos: 性詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the 形声 derivation and 佳's use for people, occasions, and works generally.
+
+**Homophone found**: 佳 shares its exact reading (gyai/걔/ㄍ⼘ㄧ) with [[解]] ("explain"), still unstamped. Added the homophone callout to `佳`; the reciprocal callout will be completed when 解's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/佳 (char).md` — it already had its own self-entry.
+
+Next: 侯 (continuing alphabetically — 3,890 words remain).

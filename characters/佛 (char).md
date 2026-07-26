@@ -51,5 +51,6 @@ boundedness: 40
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[佛]]<rt>ㄅㄨㄊ</rt></ruby> "Buddha"
 - <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium (Fl, element 114)"
 - <ruby>[[利佛素]]<rt>ㄌㄧㄜㄅㄨㄊㄙㄛ</rt></ruby> "livermorium (Lv, element 116)"
