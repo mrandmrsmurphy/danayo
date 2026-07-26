@@ -3187,3 +3187,23 @@ Stamped `date-last-perfect: 2026-07-26`, completing the four-way homophone group
 `characters/伍 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[乞]]/[[亘]]/[[了]] earlier in this sweep.
 
 Next: 伏 (continuing alphabetically — 3,894 words remain).
+
+### 2026-07-26, iteration 296 — [[words/伏|伏]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄅㄨㄎ` unique).
+
+**[[words/伏|伏]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `phục` (well attested in phục kích 伏擊 "ambush," and đầu phục "to surrender"). Added missing `pos: 性詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the 会意 "person acting like a dog" derivation and the crouch→hide/ambush and crouch→surrender semantic extensions.
+
+`characters/伏 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source, same as [[伍]]/[[乞]]/[[亘]]/[[了]] earlier in this sweep.
+
+Next: 会 (continuing alphabetically — 3,893 words remain).
+
+### 2026-07-26, iteration 297 — [[words/会|会]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄏ⼔` unique).
+
+**[[words/会|会]]**: `characters:` reformatted from a bare string to block-list form. Filled blank `pos:`/`品詞:` with `事詞` (matching the character page). `vietnamese: hội, hụi` was already correct as a genuine two-reading case — hội (the everyday Hán Việt reading) and hụi (a distinct Vietnamese loanword sense, a rotating credit/savings circle) are both real, not a contamination pair like several other characters in this sweep, so left as-is. Wrote the Notes section from scratch, covering the 会意 "lid fitting its vessel" derivation and the large compound family it heads.
+
+No incidental `## Words` fix needed on `characters/会 (char).md` — it already had its own self-entry.
+
+Next: 佛 (continuing alphabetically — 3,892 words remain).
