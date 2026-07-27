@@ -3655,3 +3655,23 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/前 (char).md` — it already had its own self-entry.
 
 Next: 剣 (continuing alphabetically — 3,852 words remain; 剪 comes right after 前 alphabetically but has not yet had its own turn).
+
+### 2026-07-26, iteration 338 — [[words/剣|剣]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄛㄇ` unique).
+
+**[[words/剣|剣]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/filled**: blank `vietnamese` filled with the character page's own clean, single-candidate `kiếm` (kiếm sĩ "swordsman," đấu kiếm "fencing"); blank `korean` filled with `검`, matching the character page. **`kwin` corrected**: was `true` on the word, but the character page's own `kwin` is `false` — fixed to match (single-constituent inheritance). Added missing `pos: 名詞`. Wrote the Notes section from scratch, covering the double-edged-blade derivation and the chengyu [[刻舟求剣]].
+
+No incidental `## Words` fix needed on `characters/剣 (char).md` — it already had its own self-entry.
+
+Next: 剪 (continuing alphabetically — 3,851 words remain — the homophone of [[前]] flagged last iteration).
+
+### 2026-07-26, iteration 339 — [[words/剪|剪]]
+
+Stamped `date-last-perfect: 2026-07-26`, completing the [[前]]/剪 homophone pair (前 already cross-linked here since last iteration).
+
+**[[words/剪|剪]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `tiễn` is the genuine Hán Việt reading (tiễn đao/tiễn tử 剪刀/剪子 "scissors"; tiễn thảo 剪草 "to mow grass") between the character page's two stored candidates — `tiện`, the other candidate, is unrelated and looks like contamination from the different character 便 (which itself uses "tiện" as its own primary reading, found a few iterations back). Added missing `pos: 名詞` and `kwin: true` (both matching the character page). Wrote the Notes section from scratch, explaining 剪's origin as the character that inherited 前's original "knife" component.
+
+`characters/剪 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 副 (continuing alphabetically — 3,850 words remain).
