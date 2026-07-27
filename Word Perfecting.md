@@ -3633,3 +3633,25 @@ Stamped `date-last-perfect: 2026-07-26`.
 `characters/剃 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
 
 Next: 削 (continuing alphabetically — 3,854 words remain).
+
+### 2026-07-26, iteration 336 — [[words/削|削]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄙ⼘ㄎ` unique).
+
+**[[words/削|削]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `tước`, well attested in tước đoạt ("to strip away, deprive") and tước bỏ ("to remove, strip"); the character page's other three candidates (tướt, tược, tượt) are unrelated corpus noise. Added missing `pos: 動詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the "shave off with a blade" → "reduce, strip away" semantic extension.
+
+`characters/削 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 前 (continuing alphabetically — 3,853 words remain).
+
+### 2026-07-26, iteration 337 — [[words/前|前]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/前|前]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `tiền`, well attested in tiền đề (前提, "premise, prerequisite") and tiền tuyến ("front line"); the character page's other candidate, tèn, doesn't correspond to any attested reading. Fixed a typo in `english` (preceeding → preceding). Wrote the Notes section from scratch, covering the 会意 "foot on a boat" origin and how the later-added 刀 component went on to form the derived character [[剪]] rather than staying with 前 itself.
+
+**Homophone found**: 前 shares its exact reading (jen/전/ㄐㄝㄋ) with its own derived character's word [[剪]] ("scissors"), still unstamped. Added the homophone callout to `前`; the reciprocal callout will be completed when 剪's own turn comes up (next in the alphabetical sweep).
+
+No incidental `## Words` fix needed on `characters/前 (char).md` — it already had its own self-entry.
+
+Next: 剣 (continuing alphabetically — 3,852 words remain; 剪 comes right after 前 alphabetically but has not yet had its own turn).
