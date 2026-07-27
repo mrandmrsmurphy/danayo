@@ -3565,3 +3565,27 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄑㄝㄊ` uniq
 `characters/切 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
 
 Next: 刈 (continuing alphabetically — 3,860 words remain).
+
+### 2026-07-26, iteration 330 — [[words/刈|刈]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/刈|刈]]**: `characters:` reformatted from a bare string to block-list form. Filled blank `vietnamese` with the character page's own clean, single-candidate `ngãi`. Added missing `kwin: false` (matching the character page; `pos: 事詞` was already present). Wrote the Notes section from scratch, covering the 形声 "knife + sickle" derivation.
+
+**Homophone found**: 刈 shares its exact reading ('yai/얘/⼘ㄧ) with [[涯]] ("horizon"), still unstamped. Added the homophone callout to `刈`; the reciprocal callout will be completed when 涯's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/刈 (char).md` — it already had its own self-entry.
+
+Next: 刊 (continuing alphabetically — 3,859 words remain).
+
+### 2026-07-26, iteration 331 — [[words/刊|刊]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/刊|刊]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed the character page's two Vietnamese candidates (san, khan) are both genuinely attested — san is the customary reading behind nguyệt san ("monthly publication," directly matching this word's own sense), khan appears throughout classical dictionary compounds (khan bản, khan tái, nguyệt khan) — kept both rather than picking one. Added missing `pos: 名詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the "carve/engrave for printing" → "publish" → "periodical" semantic chain.
+
+**Homophone found**: 刊 shares its exact reading (kan/칸/ㄎㄚㄋ) with [[看]] ("watch over"), still unstamped. Added the homophone callout to `刊`; the reciprocal callout will be completed when 看's own turn comes up.
+
+`characters/刊 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 別 (continuing alphabetically — 3,858 words remain).
