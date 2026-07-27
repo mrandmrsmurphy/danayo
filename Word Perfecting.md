@@ -3675,3 +3675,25 @@ Stamped `date-last-perfect: 2026-07-26`, completing the [[前]]/剪 homophone pa
 `characters/剪 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
 
 Next: 副 (continuing alphabetically — 3,850 words remain).
+
+### 2026-07-26, iteration 340 — [[words/副|副]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/副|副]]**: `characters:` reformatted from a bare string to block-list form. **Real bug found and fixed**: `羅馬字`/`諺文`/`注音` were `pug`/푹/ㄆㄨㄎ, but the character page's own authoritative reading is `fug`/뿍/ㄈㄨㄎ — corrected to match, confirmed by checking sibling characters [[福]] and [[腹]] (both independently already stored as fuk), which the character page's own truncated note explains this f-/-k pattern is meant to stay consistent with (most languages would derive a plain p- initial here, but Dan'a'yo deliberately keeps f- + -k). Added missing `pos: 修飾語` and `kwin: false` (both matching the character page). `vietnamese: [phó, pho]` left as-is — phó is well attested (phó chủ tịch "vice chairman"), pho less certain but already consistent on both pages rather than isolated contamination. Wrote the Notes section from scratch.
+
+**Three-way homophone group found (only surfaced after the syllable fix)**: 副 shares its exact corrected reading (fug/뿍/ㄈㄨㄎ) with [[福]] ("bless") and [[腹]] ("stomach"), both still unstamped. Added the homophone callout to `副`; the reciprocal callout on each will be completed when its own turn comes up.
+
+`characters/副 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source; its own truncated note was left exactly as-is rather than guessed at.
+
+Next: 割 (continuing alphabetically — 3,849 words remain).
+
+### 2026-07-26, iteration 341 — [[words/割|割]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄚㄊ` unique).
+
+**[[words/割|割]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `cát` is the genuine Hán Việt reading (phân cát 分割 "to divide, partition"; cát cứ 割據 "warlordism") among the character page's three comma-joined candidates (cát, cắt, xắt) — cắt is the everyday native word for "to cut" (phonetically close but not the classical reading) and xắt is an unrelated native word for "to dice, slice" — used `cát` alone. Wrote the Notes section from scratch.
+
+**Incidental fix**: `characters/割 (char).md`'s own `## Words` section was missing an entry for 割 itself (had 割断 plus a few unlabeled compounds) — added it.
+
+Next: 劃 (continuing alphabetically — 3,848 words remain).
