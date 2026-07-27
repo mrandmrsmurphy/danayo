@@ -3717,3 +3717,25 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄌㄧㄎ` uniq
 **Incidental fix**: `characters/力 (char).md`'s own `## Words` section was missing an entry for 力 itself (had only compounds) — added it.
 
 Next: 勉 (continuing alphabetically — 3,846 words remain).
+
+### 2026-07-26, iteration 344 — [[words/勉|勉]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄇ⼶ㄋ` unique).
+
+**[[words/勉|勉]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `miễn`, well attested in miễn cưỡng (勉強, "reluctant, forced"); the character page's other three candidates (mến, mễn, mịn) are unrelated corpus noise. Wrote the Notes section from scratch, covering the 形声 "力 supplies force, 免 supplies sound" derivation and the Japanese-specific narrowing of 勉強 to "study."
+
+No incidental `## Words` fix needed on `characters/勉 (char).md` — it already had its own self-entry.
+
+Next: 動 (continuing alphabetically — 3,845 words remain).
+
+### 2026-07-26, iteration 345 — [[words/動|動]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/動|動]]**: `characters:` reformatted from a bare string to block-list form. Filled blank `vietnamese` with `động`, extremely well attested (vận động "campaign, movement"; hoạt động "activity"); the character page's other candidate, đụng ("to bump, collide"), is a related but distinct native word. Added missing `pos: 事詞`. Wrote the Notes section from scratch, covering the "heavy load moved by effort" derivation and the large compound family 動 heads.
+
+**Three-way homophone group found, one member already perfected with no callout and thin Notes**: 動 shares its exact reading (dong/동/ㄉㄛㄫ) with [[筒]] ("cylinder," still unstamped) and [[銅]] ("copper," perfected 2026-03-20). `銅` had no homophone callout — added one cross-linking `動` and `筒`. Its own `## Notes` section (just a bare "1. copper" line, no real prose) was left untouched, joining [[見]]/[[土]]/[[狼]] as a candidate for a dedicated backfill pass.
+
+No incidental `## Words` fix needed on `characters/動 (char).md` — it already had its own self-entry.
+
+Next: 勘 (continuing alphabetically — 3,844 words remain).
