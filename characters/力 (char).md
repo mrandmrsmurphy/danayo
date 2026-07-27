@@ -51,6 +51,7 @@ boundedness: 90
 - [Grade 1](../lookup/Grade%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - 300th most used character in Classical Chinese.  [[Lookup/CC/initials/聲 來|initial l]] + [[Lookup/CC/finals/韻 職開|final ɨk]] = [ㄌㄧㄎ](../syllables/ㄌㄧㄎ.md)
 ## Words
+- <ruby>[[力]]<rt>ㄌㄧㄎ</rt></ruby> "power; strength"
 - <ruby>[勢力](/words/勢力.md)<rt>ㄙㄝㄌㄧㄎ</rt></ruby> "power"
 - <ruby>[協力](/words/協力.md)<rt>ㄏㄝㄆㄌㄧㄎ</rt></ruby> "work together"
 - <ruby>[威力](/words/威力.md)<rt>ㄛㄧㄌㄧㄎ</rt></ruby> "might"

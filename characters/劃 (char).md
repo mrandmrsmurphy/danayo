@@ -54,4 +54,5 @@ boundedness: 100
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[劃]]<rt>ㄏ⺢ㄎ</rt></ruby> "divide; mark off; delimit"
 - <ruby>[[企劃]]<rt>ㄎㄝㄏ⺢ㄎ</rt></ruby> "to plan; to scheme"

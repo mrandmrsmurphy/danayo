@@ -3697,3 +3697,23 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄚㄊ` uniq
 **Incidental fix**: `characters/割 (char).md`'s own `## Words` section was missing an entry for 割 itself (had 割断 plus a few unlabeled compounds) — added it.
 
 Next: 劃 (continuing alphabetically — 3,848 words remain).
+
+### 2026-07-26, iteration 342 — [[words/劃|劃]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄏ⺢ㄎ` unique).
+
+**[[words/劃|劃]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: blank `vietnamese` filled with `hoạch`, extremely well attested in kế hoạch ("a plan") and quy hoạch ("planning, zoning"); the character page's other three candidates (gạch "brick," vạch "a line, mark," đạch unclear) are unrelated or noise. Wrote the Notes section from scratch, noting the character's relationship to 畫/画 and the Japanese daiyōji substitution convention.
+
+**Incidental fix**: `characters/劃 (char).md`'s own `## Words` section was missing an entry for 劃 itself (had only 企劃) — added it.
+
+Next: 力 (continuing alphabetically — 3,847 words remain).
+
+### 2026-07-26, iteration 343 — [[words/力|力]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄌㄧㄎ` unique).
+
+**[[words/力|力]]**: **Content removed**: `korean: "력 (힘)"` improperly crammed the native word `힘` into the same field as the Sino-Korean reading `력` — split apart, keeping `력` in the field and moving 힘 to prose, matching the [[三]]/[[二]]/[[入]] precedent. Removed blank `hsk_level:`/`swadesh:` and empty `aliases: []`. `vietnamese: lực` was already correct — noted in prose that the character page's `sức` is a genuine, extremely common native word (not contamination), while `sực`/`sựt` are noise. Wrote the Notes section from scratch, covering the disputed 象形 origin and the large compound family 力 heads.
+
+**Incidental fix**: `characters/力 (char).md`'s own `## Words` section was missing an entry for 力 itself (had only compounds) — added it.
+
+Next: 勉 (continuing alphabetically — 3,846 words remain).
