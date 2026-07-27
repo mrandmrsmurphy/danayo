@@ -3589,3 +3589,25 @@ Stamped `date-last-perfect: 2026-07-26`.
 `characters/刊 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
 
 Next: 別 (continuing alphabetically — 3,858 words remain).
+
+### 2026-07-26, iteration 332 — [[words/別|別]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/別|別]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `biệt`, well attested in biệt danh ("nickname," 別名) and phân biệt ("to distinguish," 分別); the character page's other two candidates, bết ("sticky, matted") and bịt ("to cover, plug"), are unrelated native words. Added missing `kwin: false` (matching the character page; `pos: 性詞` was already present). Wrote the Notes section from scratch, covering the 会意 "cutting bone from flesh" derivation and the separate/distinct → Mandarin-specific imperative-negator "don't" extension.
+
+**Homophone found**: 別 shares its exact reading (bed/벋/ㄅㄝㄊ) with [[鼈]] ("Pelodiscus sinensis, a soft-shell turtle"), still unstamped. Added the homophone callout to `別`; the reciprocal callout will be completed when 鼈's own turn comes up.
+
+**Incidental fix**: `characters/別 (char).md`'s own `## Words` section was missing an entry for 別 itself (had a dozen-plus compounds but no self-entry) — added it.
+
+Next: 刷 (continuing alphabetically — 3,857 words remain).
+
+### 2026-07-26, iteration 333 — [[words/刷|刷]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄙ⺢ㄊ` unique).
+
+**[[words/刷|刷]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `loát`, well attested in ấn loát (印刷, "printing"); the character page's other five candidates (loét, loạt, loẹt, nhoét, soát) are unrelated corpus noise. Added missing `pos: 動詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the "brush clean" → "print" semantic extension.
+
+`characters/刷 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 券 (continuing alphabetically — 3,856 words remain).

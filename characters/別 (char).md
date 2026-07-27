@@ -55,6 +55,7 @@ boundedness: 80
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[別]]<rt>ㄅㄝㄊ</rt></ruby> "don't; distinct; other"
 - <ruby>[[区別]]<rt>ㄎㄨㄅㄝㄊ</rt></ruby> "differentiate; distinguish; classify"
 - <ruby>[[差別]]<rt>ㄑㄚㄅㄝㄊ</rt></ruby> "discriminate"
 - <ruby>[[特別]]<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby> "special; particular"
