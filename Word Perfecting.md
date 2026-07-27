@@ -3611,3 +3611,25 @@ Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄙ⺢ㄊ` uniq
 `characters/刷 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
 
 Next: 券 (continuing alphabetically — 3,856 words remain).
+
+### 2026-07-26, iteration 334 — [[words/券|券]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄎㄛㄋ` unique).
+
+**[[words/券|券]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `khoán`, well attested in trái khoán (債券, "bond") and khế khoán ("a contract, deed"). Added missing `pos: 名詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the "split tally/contract" origin and its extension to tickets, bonds, and vouchers.
+
+`characters/券 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 剃 (continuing alphabetically — 3,855 words remain).
+
+### 2026-07-26, iteration 335 — [[words/剃|剃]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/剃|剃]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `thế` is the primary Hán Việt reading (thế đầu "to shave the head"; thế phát 剃髮, the Buddhist tonsure ritual) between the character page's two stored candidates (thí, thế) — used `thế`. Added missing `pos: 動詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the everyday and Buddhist-tonsure senses.
+
+**Three-way homophone group found**: 剃 shares its exact reading (tei/테/ㄊㄝㄧ) with [[締]] ("connection") and [[諦]] ("truth [Buddhist]"), both still unstamped. Added the homophone callout to `剃`; the reciprocal callout on each will be completed when its own turn comes up.
+
+`characters/剃 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 削 (continuing alphabetically — 3,854 words remain).
