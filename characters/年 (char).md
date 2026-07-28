@@ -30,7 +30,7 @@ graphemic_classification: "千"
 stand_in: "年"
 aliases:
 注音: "ㄋㄝㄋ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-07-28
 kwin: false
 tags:
   - character
@@ -42,7 +42,7 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC *niːŋ): semantic [[禾]] ("wheat, grain") + phonetic [[人]] — originally "harvest"; in bronze inscriptions after the Western Zhou, a stroke was added to 人 giving [[千]], which still functions as the phonetic component in the modern form.
+- 形声 (OC *niːŋ): semantic [[Radical 115|禾]] ("wheat, grain") + phonetic [[人]] — originally "harvest"; in bronze inscriptions after the Western Zhou, a stroke was added to 人 giving [[千]], which still functions as the phonetic component in the modern form.
 - [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 25th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄋㄝㄋ](../syllables/ㄋㄝㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
