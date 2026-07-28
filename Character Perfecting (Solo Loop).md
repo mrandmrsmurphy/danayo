@@ -328,22 +328,6 @@ Next never-perfected character by `danayo_id` (3054). Stamped `date-last-perfect
 
 **Verification**: Python cross-check of both `<rt>` values (1 Words + 1 Derived Characters) against each cited file's own `注音` field — 0 mismatches.
 
-### 2026-07-26, iteration 420 — [[characters/只 (char)|只]]
-
-Next never-perfected character by `danayo_id` (3052). **Frontmatter defect found and fixed**: `aliases` listed `戠`, which turned out to be a genuinely different, unrelated character (zhī/zhí, "clay/sword/to gather," 会意 of 音+弋) — its only real connection to 只 is that Simplified Chinese substitutes 只 as the phonetic component *inside other compounds* (職→职, 織→织, 識→识), not as an alias of 只 itself. Confirmed by cross-checking this vault's own data: the four characters that cite 戠 as their `graphemic_classification` (織, 職, 識, 幟 (char)) are unrelated to 只's own page and don't belong in its Derived Characters section either. Removed 戠 from `aliases`. Kept 衹 (a legitimate alternate traditional form of 只 itself) and 隻 (zhī, "classifier for one bird/pair" — a genuinely distinct, etymologically unrelated character, 会意 of 隹+又, that merely merges into 只 under mainland Simplified Chinese; kept as an alias to reflect that real orthographic merger, same treatment this vault gives other simplification mergers). `graphemic_classification: 象形` already correct — verified via Wiktionary: airflow coming out of a mouth (口, this character's own radical), a modal particle, compared to 四 and 曰. Stamped `date-last-perfect: 2026-07-26`. `mc_id: 2110` cross-checked against `lookup/CC/CC 2000.md` — exact match.
-
-**Frontmatter**: `pos: ''` (empty string) → filled in as `関詞`, matching the stand-in word `words/只.md`'s own field.
-
-**Body defects found**: `# Notes` used H1 instead of H2 and held only the two floating CC-initial/final links with no canonical bullets at all — all four written from scratch; `## Words` didn't exist despite the stand-in itself being a ground-truth hit.
-
-**Words cross-check** (1 total ground-truth hit, the self-referential stand-in): 只 — added from stored fields.
-
-**Chengyu**: no ground-truth hits — section correctly omitted.
-
-**Derived Characters**: none (`graphemic_classification: 只` matches no other character) — correctly omitted.
-
-**Verification**: Python cross-check of the 1 `<rt>` value against the cited file's own `注音` field — 0 mismatches.
-
 ### 2026-07-26, iteration 419 — [[characters/叔|叔]]
 
 Next never-perfected character by `danayo_id` (3050). Stamped `date-last-perfect: 2026-07-26`. `graphemic_classification: 尗` already correct — verified via Wiktionary: 会意/形声, phonetic 尗 (OC \*hljɯwɢ, "wooden stake" — not "beans" as I initially suspected) + semantic [[又 (char)|又]] ("hand") — literally "using a wooden stake to dig the ground." The "uncle" meaning is a phonetic loan/rebus borrowing unrelated to that original digging sense, not a semantic extension — worth flagging since a "pick up beans → uncle" narrative would have been plausible-sounding but wrong. `mc_id: 353` cross-checked against `lookup/CC/CC 0000.md` — exact match. `pos: 名詞` was already correct.
@@ -7064,6 +7048,26 @@ Next never-perfected character by `danayo_id` (3102). Stamped `date-last-perfect
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
 **Derived Characters** (6 hits via `graphemic_classification: 川` — one of the larger families this loop): [[訓 (char)|訓]] ("interpret; translate; paraphrase; explicate; exegete"), [[巡]] ("patrol; go on circuit"), [[拶]] ("compel"), [[釧]] ("bracelet; armlet"), [[順]] ("in order; smooth"), [[馴]] ("tame") — all added, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-28, iteration 460 — [[characters/工|工]]
+
+Next never-perfected character by `danayo_id` (3103). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 象形` checked out as correct — verified via Wiktionary (a bladed plowing/border-marking tool, or alternatively a carpenter's square — "work; labor"; etymologically the same word as [[功]] "merit; achievement" and [[攻 (char)|攻]] "to attack"). The character is its own Kangxi radical (`radical: 工`), so no separate semantic-component link was needed inside the bullet — same self-radical case as [[characters/寸 (char)|寸]] earlier this loop.
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/工作.md` (the `stand_in` compound itself). `mc_id: 774` verified against `CC 0000.md` (line 801, "774. 工"). Confirmed `skip_number: 4-3-1`'s second digit matches `stroke_count: 3` — no SKIP-4 self-consistency error here.
+
+**Content removed**: none — every pre-existing Words entry was kept, just reformatted/relocated.
+
+**Graphemic bullet written from scratch**: 象形, plowing tool / carpenter's square — see etymology above.
+
+**Body defects found**: two floating CC-initial/final wikilinks sat directly under the meta-bind-embed with no `## Notes` heading at all; no SKIP/Stroke/MC/Levels bullets existed; 工廠 was a bare plain-text entry with a hyphen-gloss instead of ruby+quoted-gloss; no `## Derived Characters` section existed despite ten real hits.
+
+**Words cross-check** (8 total ground-truth hits): 4 already present (3 ruby'd; 工廠 bare, reformatted); 4 missing — 人工, 工具, 工匠, 工場 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (10 hits via `graphemic_classification: 工` — the largest family found this loop, edging out [[characters/寺|寺]]'s and [[characters/尚 (char)|尚]]'s seven each): [[功]] ("achievement"), [[攻 (char)|攻]] ("attack; criticize"), [[貢]] ("tribute; gifts"), [[空 (char)|空]] ("empty"), [[紅 (char)|紅]] ("crimson; red"), [[虹]] ("rainbow"), [[江]] ("river; cascade"), [[肛]] ("anus"), [[缸]] ("jug; cistern; urn"), [[項 (char)|項]] ("nape; item") — all added fresh, none had filename collisions.
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
