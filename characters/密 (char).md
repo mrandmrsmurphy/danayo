@@ -15,7 +15,7 @@ stroke_count: 11
 radical: "宀"
 skip_number: 2-3-8
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - dense
   - thick
@@ -33,6 +33,7 @@ graphemic_classification: "宓"
 stand_in: "密"
 aliases:
 注音: "ㄇㄧㄊ"
+date-last-perfect: 2026-07-27
 kwin: true
 tags:
   - character
@@ -45,14 +46,15 @@ boundedness: 70
 [[nav/char_info]]
 ```
 ## Notes
-
-- 形声 (OC \*mriɡ): semantic [[宓]] ("mountain") + phonetic [[山]] (OC \*mriɡ, \*mliɡ) — hidden in the mountains, secret, intimate. Note that the phonetic 宓 alone has also been used to express the same morpheme as 密.
-## Words
-- <ruby>[茂密](/words/茂密.md)<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby>
-[[Lookup/CC/initials/聲 明]]
-[[Lookup/CC/finals/韻 質開]]
-- [[密陀僧]] "lithage, lead monoxide"
+- 形声 (OC \*mriɡ): semantic [[山 (char)|山]] ("mountain") + phonetic 宓 (OC \*mriɡ) — hidden in the mountains: secret, intimate. (宓 has no character page in this vault; the character's own Kangxi indexing radical, `宀`, is embedded inside 宓 rather than being the semantic component here.)
+- [SKIP-2-3-8](lookup/SKIP/SKIP-2/SKIP-2-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
+- 1125th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄇㄧㄊ](syllables/ㄇㄧㄊ.md)
+- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[密度]]<rt>ㄇㄧㄊㄉㄛ</rt></ruby> "density"
+- <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby> "dense; thick; close; intimate; secret" (stand-in for 密)
+- <ruby>[[秘密]]<rt>ㄅㄧㄜㄇㄧㄊ</rt></ruby> "secret"
 - <ruby>[[精密]]<rt>ㄐㄝㄫㄇㄧㄊ</rt></ruby> "precise; meticulous"
+- <ruby>[[密度]]<rt>ㄇㄧㄊㄉㄛ</rt></ruby> "density"
+- <ruby>[[茂密]]<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby> "dense; thick"
+- <ruby>[[密陀僧]]<rt>ㄇㄧㄊㄉㄚㄙㄨㄫ</rt></ruby> "litharge; lead monoxide"

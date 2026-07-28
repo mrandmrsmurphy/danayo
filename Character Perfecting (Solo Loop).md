@@ -6791,3 +6791,41 @@ Next never-perfected character by `danayo_id` (3086). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-27, iteration 445 — [[characters/容 (char)|容]]
+
+Next never-perfected character by `danayo_id` (3087). Stamped `date-last-perfect: 2026-07-27`. `graphemic_classification: 谷` checked out as correct — verified via Wiktionary (形聲, semantic 宀 "roof" + phonetic 谷, Zhengzhang OC \*loŋ with phonetic 谷 at \*kloːɡ — to hold/contain within an enclosed space, extending to "appearance; countenance").
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the character's own primary nominal gloss ("look; appearance; form; figure") — the stand-in word `words/容.md` had no `pos` of its own to borrow, so this was derived directly from the stored English senses rather than cross-checked against another file. `mc_id: 553` verified against `CC 0000.md` (line 574, "553. 容"). `joyo_level: "5"` correctly maps to Jōyō - Kyōiku per the checklist's mapping table (only the literal string `高等` maps to Kōtō, not any numeric grade 5–6) — caught myself about to link the wrong Jōyō file before checking the table.
+
+**Content removed**: two bare floating wikilinks, `[[Lookup/CC/initials/聲 以]]` and `[[Lookup/CC/finals/韻 鍾]]`, sitting under a wrong-heading-level `# Notes` with nothing else — folded into the proper MC-rank bullet.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 040|宀]] + phonetic [[谷 (char)|谷]] — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2; no SKIP/Stroke/MC/Levels bullets existed; `## Chengyu` used a bare `##` immediately following the last Words bullet with no blank line (cosmetic, now spaced); 容量 was a bare plain-text entry with no ruby at all.
+
+**Words cross-check** (7 total ground-truth hits): 4 already present (3 ruby'd; 容量 bare, reformatted); 3 missing — the stand-in 容 itself, 容器, 形容詞 — added, all from stored fields.
+
+**Chengyu cross-check** (2 total): 1 already present, correctly ruby'd (異体不容); 1 missing — 詞彙兼容 ("the lexicon is capable of inclusion") — added from stored fields.
+
+**Derived Characters** (1 hit via `graphemic_classification: 容`): [[溶]] ("melt; fuse") — added, no filename collision. Section didn't exist previously despite this real hit.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/chengyu's/character's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-27, iteration 446 — [[characters/密 (char)|密]]
+
+Next never-perfected character by `danayo_id` (3088). Stamped `date-last-perfect: 2026-07-27`. `graphemic_classification: 宓` checked out as correct as a phonetic-component identifier, but **the pre-existing graphemic bullet had semantic and phonetic reversed** — verified via Wiktionary: 密 is 形聲 with semantic [[山 (char)|山]] ("mountain," contributing "hidden in the mountains") + phonetic 宓 (Zhengzhang OC \*mriɡ, same value for the whole character), not "semantic 宓 + phonetic 山" as the old bullet had it. 宓 has no character page in this vault, cited as bare plain text (same treatment as 彔 a few iterations ago). Noteworthy mismatch: 密's own `radical:` field is `宀`, but 宀 isn't a top-level component here at all — it's embedded inside the phonetic 宓, while the true semantic component is 山 (itself a different Kangxi radical). Documented this explicitly in the bullet rather than silently linking the wrong thing.
+
+**Frontmatter**: `pos: ""` → `性詞`, derived directly from the character's own English gloss list (dense/thick/close/intimate/secret — all adjectival) since neither `words/密.md` nor any Wiktionary source offered a stored `pos` to borrow from. `mc_id: 1125` verified against `CC 1000.md` (line 134, "1125. 密").
+
+**Content removed**: a **factually wrong graphemic bullet** (semantic/phonetic swapped, and it cited `[[山]]` with an incorrect gloss of "mountain" attached to `[[宓]]` instead) — corrected, not merely reformatted. Two duplicate `## Words` headings were merged into one; two bare floating CC-initial/final wikilinks were folded into the new MC-rank bullet; a bare non-ruby `[茂密](/words/茂密.md)` entry with no gloss and a bare `[[密陀僧]]` entry were both reformatted with proper ruby+gloss rather than discarded.
+
+**Body defects found**: graphemic bullet had semantic/phonetic reversed (see above); two separate `## Words` headings existed with content split across them; no SKIP/Stroke/MC/Levels bullets existed; 茂密 had no ruby and no gloss at all.
+
+**Words cross-check** (6 total ground-truth hits): 4 already present (2 ruby'd; 2 bare/missing-gloss, reformatted); 2 missing — the stand-in 密 itself and 秘密 — added, both from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 密` matches no other character) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field — 0 mismatches found.
+
