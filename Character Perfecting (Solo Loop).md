@@ -6751,3 +6751,43 @@ Next never-perfected character by `danayo_id` (3084). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field (no persisted cross-check script found in the vault this session; verified via direct file reads instead) — 0 mismatches found.
 
+### 2026-07-27, iteration 443 — [[characters/実|実]]
+
+Next never-perfected character by `danayo_id` (3085). Stamped `date-last-perfect: 2026-07-27`. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary (real components 宀 "roof" + 周 "carved jade," an archaic sense + 貝 "shellfish/cowrie" — wealth stored under a roof, "full; substantial" → "real; true"; noted Shuowen's alternate parse as 宀 + 貫 "string of cash," which groups the same two lower strokes as one component). All three non-radical components (周, 貝, 貫) already have their own vault character pages — linked bare per the refined per-character radical rule ([[characters/知 (char)|知]]'s correction earlier in this loop), since none of them is 実's *own* `radical:` field value (宀 is, and got the `[[Radical 040|宀]]` link).
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/真実.md` (the `stand_in` compound itself). `mc_id: 249` verified against `CC 0000.md` (traditional form 實).
+
+**Content removed**: none outright — every fragment in the old, malformed body was preserved, just relocated/reformatted (see below).
+
+**Graphemic bullet written from scratch**: 会意, 宀 + 周 + 貝 — see etymology above.
+
+**Body defects found**: `## Words` and `## Notes` appeared in reversed order (Words before Notes); `## Notes` held no graphemic/SKIP/MC/Levels bullets at all — instead it was a dumping ground mixing floating CC-initial/final links with six Words-style entries (実現, 実践, 実情, 実用, 実梅, 実際) that belonged in `## Words`, three of them bare with no ruby. Reordered the sections and moved all six into `## Words` proper.
+
+**Words cross-check** (15 total ground-truth hits — this iteration used a Python regex sweep over every `words/*.md` `characters:` field, catching *both* the standard multi-line list format and the inline-array format `characters: [実, 践]`, per the standing lesson from 争's 紛争 case that inline-array entries are easy to miss with a plain grep): 9 already present in some form (3 ruby'd; 6 bare or misplaced in Notes, reformatted); 6 missing — the stand-in 真実 itself, 事実, 実力, 忠実, 誠実, 実例, 実詞 — added, all from stored fields. (Tally note: 9+6=15 accounts for all real hits; no fabricated entries.)
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 実` matches no other character, checked against both 実 and its traditional/simplified aliases 實/实) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-27, iteration 444 — [[characters/客|客]]
+
+Next never-perfected character by `danayo_id` (3086). Stamped `date-last-perfect: 2026-07-27`. `graphemic_classification: 各` checked out as correct — verified via Wiktionary (形聲, semantic 宀 "roof" + phonetic 各, OC \*kʰraːɡ with phonetic 各 at OC \*klaːɡ — one who comes to another's roof/dwelling; "guest"), matching `radical: 宀`.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/客人.md` (the `stand_in` compound). `mc_id: 429` verified against `CC 0000.md` — the listed line is literally 客's own entry.
+
+**Content removed**: two bare floating wikilinks, `[[Lookup/CC/initials/聲 溪]]` and `[[Lookup/CC/finals/韻 陌二開]]`, sitting directly under an otherwise-bare `## Notes` heading (the heading held only those two links plus three already-correct Words-style ruby entries with no graphemic/SKIP/MC/Levels bullets) — folded into the proper MC-rank bullet, the three Words entries left in place and moved to `## Words`.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 040|宀]] + phonetic [[各 (char)|各]] — see etymology above.
+
+**Body defects found**: no `## Words` heading existed at all — the three pre-existing ruby entries were sitting directly under `## Notes`; no SKIP/Stroke/MC/Levels bullets existed.
+
+**Words cross-check** (5 total ground-truth hits): 3 already present, correctly ruby'd (刺客, 侠客, 客気); 2 missing — the stand-in 客人 itself and 乗客 — added, both from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 客`): [[喀]] ("vomit") and [[額]] ("forehead; plaque") — added, neither had a filename collision. Section didn't exist previously despite these real hits.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
