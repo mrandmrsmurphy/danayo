@@ -134,6 +134,14 @@ Next by `danayo_id` (83).
 
 Next: 多, plus three more per `danayo_id`.
 
+### 2026-07-28, iteration 26 — [[characters/多 (char)|多]]
+
+Next by `danayo_id` (84).
+
+**[[characters/多 (char)|多]]**: another already-stamped page (`date-last-perfect: 2026-07-22`, the most recent stamp seen yet in this thread) that a full re-verification still found real, mechanical defects on. The disambiguation callout and all three of bullets 2/3/4 (SKIP/Stroke, MC rank, Levels) were missing the `../` relative-path prefix throughout (`lookup/...`, `syllables/...`, `words/多.md` written as if the page lived at the vault root) — the exact "Callout/link paths missing the `../` prefix" mistake named in the checklist's own Common Mistakes list, just never caught on this particular page; fixed all four links. Everything else was already genuinely complete: graphemic bullet (会意, 肉→夕 corruption story) correct and properly radical-linked (`[[Radical 036|夕]]`); Words cross-check (16 total via `多 (char)` grep, matching the page's 16 listed entries exactly, including the stand-alone 多 itself which — unlike the [[characters/正 (char)|正]]/[[characters/年 (char)|年]] precedent of omitting the stand-in — this page deliberately lists inline as "(stand-in for 多)," a pre-existing, presumably intentional exception rather than something to standardize away); Chengyu (2 total) and Derived Characters (爹/宜/移, 3 total) both matched their respective ground-truth greps exactly, zero gaps. **Left as-is, not treated as a defect**: a 5th Notes bullet (gadolinium periodic-table trivia) beyond the checklist's canonical four — real, useful encyclopedic content that was presumably deliberately kept at the last perfection pass 6 days ago rather than an oversight; flagged here rather than silently either enforcing the four-bullet rule or endorsing the exception. Restamped `date-last-perfect: 2026-07-28`.
+
+**Major discovery while computing the real "next" pointer**: a mechanical scan of every `characters/*.md` file's `danayo_id` vs. whether `date-last-perfect` is filled shows the entire contiguous range from id 85 through id 3107 is now already stamped (mostly dated 2026-07-22 through 2026-07-25) — this whole stretch of the thread was evidently swept in untracked sessions between this log's last entry (iteration 23, 2026-07-16) and today, the same "swept but not logged back" pattern already seen on the Syllables lint thread. 2433 of 3345 characters remain unperfected overall (down from "3032 of 3350" as of 2026-07-16), but the remaining pool is no longer a clean ascending run starting near the top of the frequency list — it now starts at id 3108 and has gaps throughout up to the max id 8816. Next real stopping point: **序** (3108), then 式 (3109), 律 (3111 — 3110 doesn't exist as a character id), 徒 (3112), 復 (3113).
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
