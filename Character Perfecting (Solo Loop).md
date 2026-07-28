@@ -7091,3 +7091,25 @@ Next never-perfected character by `danayo_id` (3104). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 462 — [[characters/巻 (char)|巻]]
+
+Next never-perfected character by `danayo_id` (3105). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 象形` was present but wrong for this character — verified via Wiktionary (traditional form 卷): it's 形聲, semantic 卩 ("kneeling person," bending) + phonetic 龹 (originally 𢍏, "rolling rice into balls," itself reinforcing the bending sense), Zhengzhang OC \*kronʔ. Left the frontmatter field itself (`象形`) untouched this iteration since it's genuinely ambiguous whether the vault intends `graphemic_classification` here to encode the *modern simplified* glyph's structure differently — flagging this as a real open discrepancy between the frontmatter value and the Notes bullet's content (the bullet now correctly states 形声) rather than silently overriding the stored field. **This is the one part of this iteration that was a judgment call, not a clean fix** — noting it explicitly per the loop's "skip if genuinely unresolvable" instruction, though the rest of the page was straightforward enough to complete.
+
+**Also fixed a malformed YAML field**: `japanese_native` was split across two invalid lines — a bare scalar `ま` followed by an indented list item `- ま-く,まき`, which is not valid YAML (can't mix a scalar assignment with a sub-list) and would have broken frontmatter parsing. Corrected to the single-line scalar `ま-く,まき`, matching the vault's own established convention for multi-reading kun'yomi with okurigana breaks (comma-separated, hyphen marks the okurigana boundary — cross-checked against [[characters/合 (char)|合]], [[characters/向 (char)|向]], [[characters/渡 (char)|渡]], etc.).
+
+**`radical: 已` left as-is, not "corrected" to 己**: Wiktionary states 巻/卷 is indexed under Kangxi radical 49, whose vault lookup page ([[Radical 049]]) stores the field as `己`. But two other vault characters — [[characters/已 (char)|已]] itself and [[characters/巴 (char)|巴]] — also store `radical: 已` rather than `己`, suggesting an existing (if debatable) vault-wide pattern for this specific 己/已/巳 look-alike cluster rather than an isolated typo on this page. Not fixing unilaterally; flagging for a future dedicated 己/已/巳 radical-consistency sweep rather than guessing at this page alone.
+
+**Frontmatter**: `pos: 事詞` was already correct. `mc_id: 1229` verified against `CC 1000.md` (line 242, "1229. 卷" — traditional form).
+
+**Content removed**: none, apart from the malformed YAML fix above.
+
+**Body defects found**: `## Notes` was entirely empty; two floating CC-initial/final wikilinks sat at the very bottom of the file; no SKIP/Stroke/MC/Levels bullets existed; two of three real Words hits used plain Markdown links with no wikilink and 巻耳 had no gloss at all; no `## Derived Characters` section existed despite four real hits.
+
+**Words cross-check** (3 total ground-truth hits): 2 already present (plain-Markdown-link style, one missing a gloss entirely — reformatted with proper ruby+gloss from stored fields); 1 missing — the stand-in 巻 itself — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (4 hits via `graphemic_classification: 巻`): [[券 (char)|券]] ("bond; certificate"), [[圏 (char)|圏]] ("encircled area"), [[倦]] ("weary; tired of"), [[拳]] ("fist") — all added, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
