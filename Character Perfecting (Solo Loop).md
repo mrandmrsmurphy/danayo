@@ -6947,3 +6947,23 @@ Next never-perfected character by `danayo_id` (3094). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 453 — [[characters/尚 (char)|尚]]
+
+Next never-perfected character by `danayo_id` (3095). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 向` checked out as correct — verified via Wiktionary (形聲, semantic 八/⺌ "small; divide" + phonetic 向, Zhengzhang OC \*djaŋs with phonetic 向 at \*hlaŋs). The visible top component in the modern glyph is ⺌, a variant form of [[Radical 042|小]] — which is exactly why `radical: 小` (not 八) even though Wiktionary's textual gloss names the historical component as 八; linked the modern radical rather than the oracle-bone ancestor, consistent with how [[characters/寺|寺]] and [[characters/寿|寿]] handled similar historical-component-vs-current-radical mismatches earlier this loop.
+
+**Frontmatter**: `pos: ""` → `副詞` (adverb), matching the character's own adverbial gloss ("still; even more") and precedent from semantically similar characters already in the vault (e.g. [[characters/稍 (char)|稍]] "somewhat," also `pos: 副詞`) — `words/尚.md` had no `pos` to borrow directly. `mc_id: 313` verified against `CC 0000.md` (line 328, "313. 尚").
+
+**Content removed**: none — the single pre-existing Words entry was kept and expanded around.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 042|小]] + phonetic [[向 (char)|向]] — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2 and held only two floating CC-initial/final wikilinks — no graphemic/SKIP/MC/Levels bullets; only 1 of 3 real Words hits was present, and no `## Derived Characters` section existed despite seven real hits.
+
+**Words cross-check** (3 total ground-truth hits): 1 already present, correctly ruby'd (尚書); 2 missing — the stand-in 尚 itself and 和尚 — added, both from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (7 hits via `graphemic_classification: 尚` — one of the largest families found this loop, alongside [[characters/寺|寺]]'s seven a few iterations ago): [[当 (char)|当]] ("while"), [[賞 (char)|賞]] ("reward"), [[党]] ("political party"), [[嘗]] ("taste; experience"), [[堂]] ("meeting hall"), [[常]] ("common; normal; frequent; regular; often"), [[掌]] ("palm; sole") — all added fresh, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+

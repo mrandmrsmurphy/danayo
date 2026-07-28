@@ -16,7 +16,7 @@ stroke_count: 8
 radical: 小
 skip_number: 2-3-5
 grade_level: "3"
-pos: ""
+pos: 副詞
 english:
   - still
   - even more
@@ -32,6 +32,7 @@ stand_in: 尚
 aliases:
   - 尙
 注音: ㄙ⼘ㄫ
+date-last-perfect: 2026-07-28
 kwin: false
 tags:
   - character
@@ -44,9 +45,22 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 船]]
-[[Lookup/CC/finals/韻 陽開]]
+## Notes
+- 形声 (OC \*djaŋs): semantic [[Radical 042|小]] ("small," originally 八 "divide") + phonetic [[向 (char)|向]] (OC \*hlaŋs) — "still; yet," extending to "to esteem; noble."
+- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 313th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
+- [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[尚]]<rt>ㄙ⼘ㄫ</rt></ruby> "still; even more" (stand-in for 尚)
 - <ruby>[[尚書]]<rt>ㄙ⼘ㄫㄙ⼄</rt></ruby> "the Book of Documents (older name); Secretary / Minister"
+- <ruby>[[和尚]]<rt>ㄏ⺢ㄙ⼘ㄫ</rt></ruby> "abbott; monk"
+
+## Derived Characters
+- <ruby>[[当 (char)|当]]<rt>ㄉㄚㄫ</rt></ruby> "while"
+- <ruby>[[賞 (char)|賞]]<rt>ㄙ⼘ㄫ</rt></ruby> "reward"
+- <ruby>[[党]]<rt>ㄉㄚㄫ</rt></ruby> "political party"
+- <ruby>[[嘗]]<rt>ㄙ⼘ㄫ</rt></ruby> "taste; experience"
+- <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> "meeting hall"
+- <ruby>[[常]]<rt>ㄙ⼘ㄫ</rt></ruby> "common; normal; frequent; regular; often"
+- <ruby>[[掌]]<rt>ㄐㄚㄫ</rt></ruby> "palm; sole"
