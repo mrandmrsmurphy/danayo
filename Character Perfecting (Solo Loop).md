@@ -7007,3 +7007,41 @@ Next never-perfected character by `danayo_id` (3098; 3097/[[characters/尺 (char
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/chengyu's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 456 — [[characters/局 (char)|局]]
+
+Next never-perfected character by `danayo_id` (3099). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 句` checked out as correct — verified via Wiktionary (形聲, semantic [[Radical 044|尸]] "a bent/curled form" + phonetic [[句]], Zhengzhang OC \*ɡoɡ with phonetic 句 at \*koː in its "bent; hook" sense — a confined, curved space extending to "office; bureau; situation").
+
+**Frontmatter**: already correct (`pos: 名詞`). `mc_id: 3117` verified against `CC 3000.md` (line 126, "3117. 局").
+
+**Content removed**: a `* Descendants include 侷, 挶, 梮, 焗, 䏱, 䎤, 跼, 鋦, 锔, 駶` bullet — checked every one of the ten against the vault's `characters/` folder and none has its own page, so none qualifies for `## Derived Characters` per the checklist's "already exist in the database" rule; dropped rather than kept as a stray unactionable fact, since nothing in the checklist's structure has a slot for "real-world descendants not yet in this vault." A separate informal `* [[Radical 044|尸]] + [[句]] = [[SKIP-3-3-4]]...` bullet was superseded by the real graphemic/SKIP bullets (same underlying facts, correct structure).
+
+**Graphemic bullet expanded**: kept the existing correct component identification (尸 + 句), added OC values and a proper dash-note.
+
+**Body defects found**: two floating CC-initial/final wikilinks sat at the very bottom of the file, unattached to any bullet; no SKIP/Stroke/MC/Levels bullets existed in checklist form (only the informal combined note above); 郵便局 was a bare plain-text entry with a hyphen-gloss instead of ruby+quoted-gloss.
+
+**Words cross-check** (7 total ground-truth hits): 6 already present (5 ruby'd; 郵便局 bare, reformatted); 1 missing — the stand-in 局 itself — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 局` matches no other character in this vault — the ten real-world descendants named in the removed bullet all lack vault pages) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-28, iteration 457 — [[characters/居|居]]
+
+Next never-perfected character by `danayo_id` (3100). Stamped `date-last-perfect: 2026-07-28`. This was one of the cleanest pages found this loop — graphemic bullet, SKIP/Stroke/MC-rank, and Levels bullets were all already present and correctly formatted (形声, semantic [[Radical 044|尸]] + phonetic [[古]]); only `pos` and the Words/Derived Characters completeness needed work.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/居所.md` (the `stand_in` compound itself).
+
+**Content removed**: none.
+
+**Body defects found**: no defects in the existing Notes bullets; `## Words` was incomplete (2 of 5 real hits) and `## Derived Characters` didn't exist despite two real hits.
+
+**Words cross-check** (5 total ground-truth hits): 2 already present, correctly ruby'd (居所, the `stand_in`, marked as such and reordered first; 居里金); 3 missing — 居住, 同居, 寓居 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 居`): [[鋸 (char)|鋸]] ("saw") and [[裾]] ("cuff; hem; lapel") — added, neither had a filename collision.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+

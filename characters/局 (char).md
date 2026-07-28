@@ -28,6 +28,7 @@ graphemic_classification: 句
 stand_in: 局
 aliases:
 注音: ㄍ⼄ㄎ
+date-last-perfect: 2026-07-28
 kwin: false
 tags:
   - character
@@ -41,15 +42,16 @@ boundedness: 90
 ```
 
 ## Notes
-* [[Radical 044|尸]] + [[句]] = [[SKIP-3-3-4]], a total [[Stroke 07]].
-* Descendants include 侷, 挶, 梮, 焗, 䏱, 䎤, 跼, 鋦, 锔, 駶
+- 形声 (OC \*ɡoɡ): semantic [[Radical 044|尸]] ("a bent/curled form") + phonetic [[句]] (OC \*koː) — a confined, curved space; "office; bureau; situation (as in a game)."
+- [SKIP-3-3-4](lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
+- 3117th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄍ⼄ㄎ](syllables/ㄍ⼄ㄎ.md)
+- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- [[郵便局]] - post office
+- <ruby>[[局]]<rt>ㄍ⼄ㄎ</rt></ruby> "office" (stand-in for 局)
+- <ruby>[[郵便局]]<rt>ㄨㄛㄅ⼶ㄋㄍ⼄ㄎ</rt></ruby> "post office"
 - <ruby>[[宇宙局]]<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby> "space agency"
 - <ruby>[[消防局]]<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby> "fire department"
 - <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"
 - <ruby>[[造幣局]]<rt>ㄑㄚㄨㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"
 - <ruby>[[中央情報局]]<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby> "CIA"
-[[Lookup/CC/initials/聲 群]]
-[[Lookup/CC/finals/韻 燭]]
