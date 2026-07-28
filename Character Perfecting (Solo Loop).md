@@ -6889,3 +6889,21 @@ Next never-perfected character by `danayo_id` (3091). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 450 — [[characters/寺|寺]]
+
+Next never-perfected character by `danayo_id` (3092). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 士` checked out as correct for the *modern* glyph, but **the pre-existing graphemic bullet had semantic and phonetic swapped** — verified via Wiktionary: 寺 is 形聲, phonetic 之/𡳿 ("a footprint pointing up," OC \*tjɯ) + semantic 又 ("hand"), not "semantic 𡳿 + phonetic 又" as the old bullet had it. Historical note preserved and expanded: phonetic 之/𡳿 became 士 (or 土 in Simplified/JP/KR) and semantic 又 became [[寸 (char)|寸]] during the clerical/Small-Seal-Script transition — which is exactly why the *modern* semantic component links to [[Radical 041|寸]] (matching `radical: 寸`) rather than to 又 directly. Original meaning "to grasp; to hold" is preserved in the derivative [[持 (char)|持]], which already has its own vault page.
+
+**Frontmatter**: already correct (`pos: 名詞`, matching `words/寺刹.md`'s stored `pos: 名詞`). `mc_id: 2280` verified against `CC 2000.md` (line 293, "2280. 寺").
+
+**Content removed**: the factually-reversed semantic/phonetic graphemic bullet (corrected, not just reworded); a bare `- Components: [[土]], [[寸]]` fragment line (superseded by the real bullet, which already covers both 士/土 and 寸); an informal `### Derived Characters` H3 note reading `- +bamboo = [等 (char)](等%20(char).md)` (promoted into the standard `## Derived Characters` H2 section, not discarded — 等 is still listed there, now ruby'd).
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed; two floating CC-initial/final wikilinks sat at the very bottom of the file, unattached to any bullet; `## Words` appeared before `## Notes` (reversed order); the informal Derived Characters note used H3 instead of H2 and covered only 1 of 7 real hits.
+
+**Words cross-check** (2 total ground-truth hits, both already present and correctly ruby'd): 寺刹 (the `stand_in` itself, reordered first) and 寺院 — no additions needed, just reordering.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (7 hits via `graphemic_classification: 寺` — one of the largest families found this loop): [[持 (char)|持]] ("hold"), [[時 (char)|時]] ("when"), [[等 (char)|等]] ("etc.; rank"), [[侍]] ("servant; attendant"), [[待]] ("wait"), [[特]] ("special; distinguished"), [[詩]] ("poem") — 等 was already informally noted (now properly ruby'd); the other six added fresh, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
