@@ -29,7 +29,7 @@ graphemic_classification: "象形"
 stand_in: "肉"
 aliases:
 注音: "ㄋㄨㄎ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-07-28
 kwin: false
 tags:
   - character
@@ -62,5 +62,5 @@ boundedness: 90
 - <ruby>[[弱肉強食]]<rt>ㄋㄙㄎㄋㄨㄎㄍㄚㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
 - <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "bone of my bone and flesh of my flesh"
 
-## Derived
-- 育?
+## Derived Characters
+- <ruby>[[育 (char)|育]]<rt>⼜ㄎ</rt></ruby> "nurture"

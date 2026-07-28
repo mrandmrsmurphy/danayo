@@ -126,6 +126,14 @@ Next by `danayo_id` (82). Resumed via `/loop` after a gap since iteration 23 —
 
 Next: 肉, 多, plus two more per `danayo_id`.
 
+### 2026-07-28, iteration 25 — [[characters/肉 (char)|肉]]
+
+Next by `danayo_id` (83).
+
+**[[characters/肉 (char)|肉]]**: page was already substantially built (all four Notes bullets, 11 Words entries, 3 Chengyu entries) and carried a `date-last-perfect: 2026-07-16` stamp, but a full re-verification (not just trusting the stamp, same lesson as 年 last iteration) found two real gaps. First, a malformed `## Derived` heading at the very end held only a placeholder `- 育?` — not even valid ruby markup, just a guess left unresolved. Confirmed via `graphemic_classification` grep that [[characters/育 (char)|育]] genuinely does name 肉 as its phonetic component (the placeholder's guess was correct), so rebuilt the section properly: `## Derived Characters` heading, real `<ruby>` entry using 育's own stored `注音` (⼜ㄎ) and gloss ("nurture"). Second, the Words cross-check (11 total) initially looked like 3 were "missing" via a naive `characters:` frontmatter grep, but all 11 were already correctly listed on the page — the gap was actually on the word side: `words/狗肉.md`, `words/筋肉.md`, and `words/豚肉.md` all had the recurring bare-filename bug (`- 肉` instead of `- 肉 (char)`; `豚肉.md` had it on *both* sides, `- 豚` instead of `- 豚 (char)`, since `characters/豚 (char).md` is the real filename) — fixed all three, each word's own `## Etymology` prose already linked the correct `肉 (char)` target, so only the frontmatter was wrong. Chengyu cross-check (3 total) found all already present and correct, no gaps. Restamped `date-last-perfect: 2026-07-28`.
+
+Next: 多, plus three more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
