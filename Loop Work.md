@@ -158,6 +158,14 @@ Next by `danayo_id` (3109).
 
 Next: 律 (3111), 徒 (3112), 復 (3113), 徳 (3114), plus one more per `danayo_id`.
 
+### 2026-07-28, iteration 29 — [[characters/律|律]]
+
+Next by `danayo_id` (3111).
+
+**[[characters/律|律]]**: never touched — `# Notes` (wrong heading level) held only two floating, unembedded CC-initial/final wiki-links, no graphemic bullet, no SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 聿` via Wiktionary before writing (semantic [[Radical 060|彳]] "step, road, conduct" + phonetic 聿, OC *b·lud rhyming closely with 律's own *rud; 彳's own OC *tʰeɡ shares nothing with 律, confirming it's the semantic side not the phonetic). 聿 itself has no character page anywhere in this vault — same unlinkable-phonetic-component precedent as 気/气, 左/𠂇, 卑/𠂇, 律/聿 now joining that list — described in prose rather than wiki-linked; noted its own original meaning ("brush," a hand gripping a writing implement, borrowed here purely for sound). Blank `pos` → `名詞`. Wrote all four Notes bullets from scratch (SKIP-1-3-6/Stroke 09; 928th-rank MC bullet, 聲 來→l and 韻 術→iuɪt confirmed against their own pages; Grade 3/Old HSK 2/Jōyō - Kyōiku (joyo_level "6" maps here, not Kōtō — only the literal string 高等 does)/Korean MS). Words cross-check (4 total) found all 4 already correctly listed — no gaps. Chengyu cross-check (2 total) found `金科玉律` missing alongside the already-present `千編一律` — added, ruby pulled verbatim from the chengyu's own stored `注音`. No `graphemic_classification: 律` hits, no Derived Characters section needed.
+
+Next: 徒 (3112), 復 (3113), 徳 (3114), plus two more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
