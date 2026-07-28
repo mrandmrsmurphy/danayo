@@ -6907,3 +6907,43 @@ Next never-perfected character by `danayo_id` (3092). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 451 — [[characters/寿|寿]]
+
+Next never-perfected character by `danayo_id` (3093). Stamped `date-last-perfect: 2026-07-28`. **`graphemic_classification: 會意` was wrong** — verified via Wiktionary: 壽/寿 is 形聲 (phono-semantic) even in its earliest bronze-inscription forms, semantic 耂 ("old") + phonetic 𢏚, sometimes bearing decorative 口 and/or 又 (又 became [[Radical 041|寸]] in the modern form, matching `radical: 寸`) — not a simple compound ideograph. Corrected the frontmatter field from `會意` to `𢏚` (the phonetic component; neither it nor 耂 has its own vault character page, both cited bare). This is a real frontmatter correction, not just a bullet rewrite — flagged explicitly in the Notes bullet in case the original `會意` value was intentional and worth someone double-checking.
+
+**Frontmatter**: `pos: ""` → `名詞`, derived from the character's own nominal gloss ("old age; long life; lifespan") — `words/寿命.md` had no `pos` to borrow either. `mc_id: 606` verified against `CC 0000.md` (line 630, "606. 壽"). `joyo_level: "高等"` correctly maps to [[lookup/Japanese/Jōyō - Kōtō|Jōyō - Kōtō]] per the mapping table (distinct from the numeric-grade → Kyōiku mapping used on most other pages this loop). Confirmed `skip_number: 4-7-4`'s second digit matches `stroke_count: 7` — no SKIP-4 self-consistency error here.
+
+**Content removed**: the incorrect `會意` classification (see above). The existing 躊/聯綿詞 aliasing note (explaining why 躊 has no separate page and is the phonetic host for [[躊躇]]/[[寿着]]) was kept verbatim, not touched — it's accurate standing documentation, not a defect.
+
+**Graphemic bullet written from scratch**: 形声, semantic 耂 + phonetic 𢏚 — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2; two floating CC-initial/final wikilinks had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed — all three Words-style entries were bare (no ruby, informal comma-separated glosses) sitting directly under Notes; no `## Derived Characters` section existed despite three real hits.
+
+**Words cross-check** (3 total ground-truth hits, all already present but unformatted): 寿司, 寿命 (the `stand_in`, reordered first), 寿着 — all reformatted with proper ruby+gloss from stored fields; no additions needed.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 寿`): [[涛]] ("wave; billow"), [[祷]] ("pray"), [[鋳]] ("cast (metal); mint") — added, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-28, iteration 452 — [[characters/射|射]]
+
+Next never-perfected character by `danayo_id` (3094). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary (会意: oracle-bone 弓+矢 "bow and arrow" — now [[身 (char)|身]] since the clerical-script period — plus a hand, 又, drawing the bowstring, which became [[Radical 041|寸]], matching `radical: 寸` exactly).
+
+**Frontmatter**: `pos: ""` → `事詞`, matching the stored `pos: 事詞` on `words/射出.md` (the `stand_in` compound itself). `mc_id: 485` verified against `CC 0000.md` (line 503, "485. 射").
+
+**Content removed**: none — every fragment (including the "abbreviation for radon" aside) was preserved, just relocated/reformatted.
+
+**Graphemic bullet written from scratch**: 会意, 身 + 寸 — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2 and appeared *after* `## Words` (reversed order); two floating CC-initial/final wikilinks had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; two entries (射精, 射香) were bare with informal comma-glosses instead of ruby+quoted-gloss; the 射素/"radon" note only appeared as an abbreviation aside, never given its own proper Words entry (same "both places" pattern as [[characters/緑 (char)|緑]] a few iterations ago) — kept the aside as a standing Notes bullet *and* added the Words entry, rather than choosing one over the other.
+
+**Words cross-check** (8 total ground-truth hits): 6 already present (3 ruby'd; 2 bare/comma-glossed, reformatted; 1 — 射素 — present only as an abbreviation aside, not a real Words entry); 2 missing outright — 射術 (note: its stored `注音` is ㄊ⼘ㄙㄨㄊ, an irregular reading distinct from 射's own ㄙ⼘, kept as stored rather than "corrected" to match) — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (1 hit via `graphemic_classification: 射`): [[謝]] ("thank") — added, no filename collision. Section didn't exist previously despite this real hit.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
