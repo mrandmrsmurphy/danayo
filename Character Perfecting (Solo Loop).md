@@ -6829,3 +6829,23 @@ Next never-perfected character by `danayo_id` (3088). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-27, iteration 447 — [[characters/富|富]]
+
+Next never-perfected character by `danayo_id` (3089). Stamped `date-last-perfect: 2026-07-27`. `graphemic_classification: 畐` checked out as correct — verified via Wiktionary (形聲, semantic 宀 "roof" + phonetic 畐, Zhengzhang OC \*pɯɡs with phonetic 畐 at \*pʰrɯɡ/\*bɯɡ — abundance within a household, generalized to wealth/prosperity), matching `radical: 宀`. 畐 already has its own vault character page.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the stored `pos: 性詞` on `words/豊富.md` (the `stand_in` compound itself) and the character's own adjectival gloss ("abundance"/"rich"). `mc_id: 412` verified against `CC 0000.md` (line 430, "412. 富").
+
+**Content removed**: none — the page had almost no body at all.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 040|宀]] + phonetic [[畐]] — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2, and held only two floating CC-initial/final wikilinks — no graphemic/SKIP/MC/Levels bullets, no `## Words` heading at all despite two real ground-truth words.
+
+**Words cross-check** (2 total ground-truth hits): none previously listed — built the section from scratch: the stand-in 豊富 itself and 富裕, both from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 富` matches no other character) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field — 0 mismatches found.
+
