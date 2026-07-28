@@ -6967,3 +6967,43 @@ Next never-perfected character by `danayo_id` (3095). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 454 — [[characters/尤|尤]]
+
+Next never-perfected character by `danayo_id` (3096). Stamped `date-last-perfect: 2026-07-28`. **`graphemic_classification: 又` was wrong** — verified via Wiktionary: 尤 is 象形 (pictogram), depicting "a hand with a wart" and serving as the original form of 疣/肬 ("wart"); not a 形声 character with phonetic component 又 at all. Corrected the field to `象形`. From the visible-blemish sense developed "fault; flaw" and, by extension, "outstanding; exceptional" → "particularly; especially," matching the character's stored English gloss.
+
+**Frontmatter**: `pos: ""` → `副詞` (adverb), matching the character's own adverbial gloss ("especially; particularly; more so; besides") and the same taxonomic slot used for [[characters/尚 (char)|尚]] just one iteration ago — `words/尤其.md` had no `pos` to borrow. `mc_id: 1092` verified against `CC 1000.md` (line 97, "1092. 尤"). `radical: 尢` confirmed against `lookup/Radicals/Radical 043.md`. `joyo_level: 日本人名用漢字` correctly maps to [[lookup/Japanese/Jinmeiyō|Jinmeiyō]] per the mapping table.
+
+**Content removed**: the wrong `又` graphemic-classification value (corrected, not merely reworded around).
+
+**Graphemic bullet written from scratch**: 象形, hand-with-a-wart depiction — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2 and held only two floating CC-initial/final wikilinks; no graphemic/SKIP/MC/Levels bullets existed; no `## Words` heading existed despite the one real ground-truth hit.
+
+**Words cross-check** (1 total ground-truth hit): the stand-in 尤其 itself — added, no other compound in the vault cites 尤 as a constituent character.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 尤` matches no other character, now that the field is correctly `象形` rather than a phonetic-component name) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against the target word's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-28, iteration 455 — [[characters/尽|尽]]
+
+Next never-perfected character by `danayo_id` (3098; 3097/[[characters/尺 (char)|尺]] already stamped, skipped). Stamped `date-last-perfect: 2026-07-28`. **`graphemic_classification: 㶳` was wrong** — verified via Wiktionary: 盡 (traditional form of 尽) is 會意, combining 聿 ("hand holding a brush") + 灬 ("bristles") + [[皿 (char)|皿]] ("dish") — "cleaning a dish with a brush: empty." 㶳 doesn't appear anywhere in Wiktionary's etymology of 盡 at all (it isn't even listed among 盡's real derived characters); this looks like a stray/mistaken value, corrected to `會意`. Noted the radical mismatch explicitly: the character's own Kangxi indexing radical, `尸`, is not one of the three real components — it reflects the *modern simplified* 尽 glyph's shape, not 盡's traditional-form etymology (same pattern as [[characters/密 (char)|密]]/[[characters/寿|寿]]/[[characters/寺|寺]] earlier this loop).
+
+**Frontmatter**: `pos: 事詞` was already filled in and left as-is — reasonable even though it doesn't exactly match `words/用尽.md`'s own stored `動詞`, since the two are different lexical entries and 事詞/動詞 are conceptually adjacent verb categories in this vault's taxonomy. `mc_id: 288` verified against `CC 0000.md` (line 300, "288. 盡"). Neither 聿 nor 灬 has its own character page in this vault; both cited bare.
+
+**Content removed**: the wrong `㶳` classification value (corrected). A genuinely unresolved standing question — "should this be written 侭 by the Extended Shinjitai Rule??" — was kept, not discarded or resolved outright; reformatted into a proper Notes bullet flagging it as still open (the three candidate forms 儘/盡/侭 are already captured in `aliases`, so no data is missing, just an orthographic-preference call this iteration didn't need to make).
+
+**Graphemic bullet written from scratch**: 会意, 聿 + 灬 + 皿 — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2; a bare `- 尸 + 小` component fragment sat next to the open-question note (superseded by the real bullet — 小 isn't actually a Wiktionary-attested component of 盡, so it was dropped rather than carried forward); two floating CC-initial/final wikilinks had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Chengyu` section existed despite a real ground-truth hit.
+
+**Words cross-check** (2 total ground-truth hits): 1 already present, correctly ruby'd (用尽, the `stand_in`, reordered first); 1 missing — 尽力 — added from stored fields.
+
+**Chengyu cross-check** (1 total, missing, section built from scratch): 一網打尽 ("roundup, wholesale arrest") — added from stored fields.
+
+**Derived Characters**: no hits (`graphemic_classification: 尽` matches no other character, now that the field is correctly `會意` rather than the stray `㶳`) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/chengyu's own stored `注音` field — 0 mismatches found.
+
