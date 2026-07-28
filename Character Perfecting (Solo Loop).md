@@ -6849,3 +6849,43 @@ Next never-perfected character by `danayo_id` (3089). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 448 — [[characters/寒|寒]]
+
+Next never-perfected character by `danayo_id` (3090). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 會意` checked out as correct — verified via Wiktionary (会意/ideogrammic compound: 宀 "house" + 人 "person" + 茻 "grass," depicting a person sheltering in a house, bedded in grass, against the cold; in seal script the grass was replaced by 仌 "ice" to sharpen the cold sense), matching `radical: 宀`. Neither 茻 nor 仌 has its own vault character page, so both are cited as bare plain text; [[人 (char)|人]] does have a page and got a proper link.
+
+**Frontmatter**: `pos: ""` → `性詞`, matching the stored `pos: 性詞` on `words/寒冷.md` (the `stand_in` compound itself). `mc_id: 397` verified against `CC 0000.md` (line 412, "397. 寒").
+
+**Content removed**: none — the two pre-existing Words/Chengyu entries and both floating CC links were kept, just relocated/reformatted.
+
+**Graphemic bullet written from scratch**: 会意, 宀 + 人 + 茻(→仌) — see etymology above.
+
+**Body defects found**: two floating CC-initial/final wikilinks had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 寒冷 was bare with no ruby.
+
+**Words cross-check** (2 total ground-truth hits, both already on the page): 寒冷 reformatted with ruby (also marked as the `stand_in` itself); 寒蝉 already correctly ruby'd, unchanged.
+
+**Chengyu cross-check** (1 total): 唇亡歯寒 already present and correctly ruby'd — no changes needed.
+
+**Derived Characters**: no hits (`graphemic_classification: 寒` matches no other character) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/chengyu's own stored `注音` field — 0 mismatches found.
+
+**Note**: the session date rolled over to 2026-07-28 partway through this iteration (after the frontmatter edit was first written with 2026-07-27) — caught and corrected before finalizing.
+
+### 2026-07-28, iteration 449 — [[characters/寸 (char)|寸]]
+
+Next never-perfected character by `danayo_id` (3091). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 指事` checked out as correct, but **the pre-existing bullet's depiction was wrong** — it said the mark emphasized "the elbow," but per Wiktionary/Shuowen the character marks the pulse-point on the *wrist*, one 寸 (inch) inward from the palm ("a position on the forearm where the pulse can be palpated"). The "elbow" language looks like a bleed-over from [[characters/肘 (char)|肘]] ("elbow"), which is coincidentally one of 寸's own Derived Characters — corrected to the real wrist/pulse-point depiction rather than left as-is.
+
+**Frontmatter**: `pos: ""` → `名詞`, derived from the character's own nominal gloss ("inch; measurement") since `words/寸.md` had no `pos` to borrow. `mc_id: 666` verified against `CC 0000.md` (line 690, "666. 寸"). `radical: 寸` confirmed — this character is its own Kangxi radical (Radical 041), already correctly noted via the page's third disambiguation-callout line.
+
+**Content removed**: the factually-wrong "emphasizing the elbow" clause — replaced with the correct wrist/pulse-point depiction, not merely reworded around the same error.
+
+**Body defects found**: two floating CC-initial/final wikilinks had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed despite the real stand-in hit; no `## Derived Characters` section existed despite two real hits.
+
+**Words cross-check** (1 total ground-truth hit): the stand-in 寸 itself — added (no other compound in the vault cites 寸 as a constituent character).
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (2 hits via `graphemic_classification: 寸`): [[肘 (char)|肘]] ("elbow") and [[村]] ("village") — added, neither had a filename collision.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
