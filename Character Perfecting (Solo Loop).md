@@ -6730,3 +6730,24 @@ Next never-perfected character by `danayo_id` (247; 246/[[characters/談|談]] a
 **Derived Characters**: no hits (`graphemic_classification: 橋` matches no other character) — section correctly omitted.
 
 **Verification**: ran the Python cross-check script against every `<rt>` value on this page — 0 mismatches found.
+
+### 2026-07-27, iteration 442 — [[characters/宙 (char)|宙]]
+
+Next never-perfected character by `danayo_id` (3084). Stamped `date-last-perfect: 2026-07-27`. `graphemic_classification: 由` checked out as correct — verified via Wiktionary (形聲, semantic 宀 "roof" + phonetic 由, Zhengzhang OC *l'ɯwɢs; the character originally denoted the ridgepole/beams of a house before extending to boundless space/time). 由 already lists 宙 as one of its own Derived Characters (from a prior iteration), confirming the relationship both directions.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the character's own nominal gloss ("eternity") and its stand-in word's abstract-noun sense. `mc_id: 3286` verified against `CC 3000.md` — the listed line is literally 宙's own entry, not a borrowed/adjacent rank.
+
+**Content removed**: two bare floating wikilinks, `[[Lookup/CC/initials/聲 澄]]` and `[[Lookup/CC/finals/韻 尤]]`, sitting directly under an otherwise-empty `## Notes` heading — folded into the proper MC-rank bullet rather than discarded.
+
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 040|宀]] + phonetic [[由 (char)|由]], with both OC reconstructions and a dash-note on the roof-beam → boundless-space/time semantic extension.
+
+**Body defects found**: no SKIP/Stroke/MC/Levels bullets existed at all — `## Notes` held only the two floating CC links.
+
+**Words cross-check** (6 total ground-truth hits, found via `characters:`-field grep across `words/`): 3 already present (all pre-ruby'd, unchanged); 3 missing — the stand-in 宙 itself, 宇宙, and 宇宙船 — added, all from stored fields. **False positive caught**: a body-prose grep for "宙" also matched `words/穹蒼.md`, but its `characters:` field is `穹`/`蒼 (char)` — 宙 only appears there in a "Related Concepts" prose aside (mentioning 宇宙), not as a real constituent — correctly excluded.
+
+**Chengyu**: a body-prose grep also flagged `chengyu/天圓地方.md`, but its `characters:` field is 天/圓/地/方 with no 宙 — same false-positive pattern as above, correctly excluded. No real ground-truth hits — section correctly omitted.
+
+**Derived Characters**: no hits (`graphemic_classification: 宙` matches no other character) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field (no persisted cross-check script found in the vault this session; verified via direct file reads instead) — 0 mismatches found.
+
