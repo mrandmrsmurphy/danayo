@@ -150,6 +150,14 @@ First character in the newly-discovered remaining pool, id 3108. Genuinely never
 
 Next: 式 (3109), 律 (3111), 徒 (3112), 復 (3113), 徳 (3114) per `danayo_id`.
 
+### 2026-07-28, iteration 28 — [[characters/式|式]]
+
+Next by `danayo_id` (3109).
+
+**[[characters/式|式]]**: another frontmatter/body contradiction, but a subtler one than the usual case — `graphemic_classification: 弋` and the existing prose bullet directly disagreed about *which role* each component played, not just which component was phonetic: the field said 弋 is the phonetic, but the bullet read "semantic 弋 ('work') + phonetic 工," i.e. exactly backwards, and also mislabeled 弋's own gloss ("work" is actually 工's meaning, not 弋's — 弋 means "shoot with a corded arrow"). Verified via Wiktionary: the frontmatter was right and the prose was wrong on both counts — 弋 (OC *lɯɡ) is the phonetic (rhymes exactly with 式's own *hljɯɡ), 工 ("work") is semantic; 工's own OC reading is a completely different rhyme class, ruling it out as a plausible phonetic on OC grounds alone, independent of Wiktionary. Rewrote the bullet with the correct role assignment and linked 工 to its own Radical page (`[[Radical 048|工]]`, since 工 is itself Kangxi radical 48 and the "any component that's a Kangxi radical gets linked" rule applies regardless of semantic/phonetic role). Blank `pos` → `名詞`. SKIP/Stroke/MC/Levels bullets didn't exist at all — added all three (confirmed 聲 書→ɕ and 韻 職開→ɨk against their own pages, matching frontmatter). Words cross-check (6 total via a bare-`式` grep, no `(char)` suffix needed since `words/式.md` doesn't exist) found 3 already listed (様式, 型式, and a broken `方程式` entry with a leading-absolute-slash path and no gloss) plus 3 missing outright (儀式, 格式, 恒等式) — rebuilt the whole section. **Caught a guessed-ruby near-miss on `方程式` before shipping**: the old broken entry's `<rt>` read `ㄆㄚㄫㄉㄧㄫㄙㄧㄎ` (P-initial); the word file's own stored `注音` is actually `ㄈㄚㄫㄉㄧㄫㄙㄧㄎ` (F-initial) — almost carried the old wrong value forward verbatim, caught it by checking the source file directly rather than trusting the pre-existing text. No chengyu hits. `graphemic_classification: 式` hit 3 characters (拭, 弒, 試) — all read `shì`/`si3`-type MC forms consistent with a well-attested phonetic family sharing 式's own reading, added `## Derived Characters`.
+
+Next: 律 (3111), 徒 (3112), 復 (3113), 徳 (3114), plus one more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
