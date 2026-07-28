@@ -7113,3 +7113,41 @@ Next never-perfected character by `danayo_id` (3105). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 463 — [[characters/帝|帝]]
+
+Next never-perfected character by `danayo_id` (3106). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 象形` and the existing graphemic bullet were already correct and well-written (depicts a flower calyx, original form of 蒂, extension to "supreme arbiter; God") — no changes needed there.
+
+**Frontmatter**: `pos: ""` → `名詞`, matching the character's own nominal gloss ("emperor"). `mc_id: 72` verified against `CC 0000.md` (line 77, "72. [帝](../../characters/帝.md)" — a self-referential wikilink baked into the CC list itself, unlike the plain-text entries seen on most other CC lookups this loop).
+
+**Content removed**: an informal `- Descendants:\n\t- [啼](characters/啼.md)` sub-bullet — superseded by the real `## Derived Characters` section (啼 kept, now properly ruby'd, plus seven more real hits the informal note had missed).
+
+**Body defects found**: two floating CC-initial/final wikilinks had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; 帝王 (the `stand_in`) was a bare plain-text entry with no ruby; `## Derived Characters` only informally noted 1 of 8 real hits.
+
+**Words cross-check** (7 total ground-truth hits): 6 already present (2 ruby'd; 帝王 bare, reformatted); 1 missing — 帝国 — added from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (8 hits via `graphemic_classification: 帝` — tied with [[characters/工|工]]'s ten and [[characters/寺|寺]]'s seven for the largest families this loop): [[啼]] ("cry; wail," already informally noted, now properly ruby'd), [[諦 (char)|諦]] ("truth, Buddhist"), [[締 (char)|締]] ("connection; knot; conclusion"), [[蹄 (char)|蹄]] ("hoof"), [[嫡 (char)|嫡]] ("legitimate wife"), [[摘 (char)|摘]] ("pinch; pluck"), [[滴 (char)|滴]] ("drip"), [[敵]] ("enemy; foe") — the other seven added fresh, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-28, iteration 464 — [[characters/幾 (char)|幾]]
+
+Next never-perfected character by `danayo_id` (3107). Stamped `date-last-perfect: 2026-07-28`. **`graphemic_classification: 戍` was wrong** — verified via Wiktionary: 幾 is 會意 (ideogrammic compound), 𢆶 ("silk threads; little things") + 戍 ("to guard against") — "watching over the fine details," giving "how many; a few," extending to "subtle sign." It's not a 形声 character with phonetic component 戍 at all. Corrected the field to `會意`, same category of fix as [[characters/尽|尽]] (㶳→會意) and [[characters/尤|尤]] (又→象形) earlier this loop. Neither 𢆶 nor 戍 has its own vault character page; both cited bare.
+
+**Frontmatter**: `pos: ""` → `性詞`, following the precedent of [[characters/多 (char)|多]] ("many") also being `性詞` — 幾's "several; a few; some" is the same quantity-adjective category. `mc_id: 678` verified against `CC 0000.md` (line 702, "678. 幾").
+
+**Content removed**: the wrong `戍` classification value (corrected, not merely reworded around).
+
+**Graphemic bullet written from scratch**: 会意, 𢆶 + 戍 — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2 and held only two floating CC-initial/final wikilinks; no graphemic/SKIP/MC/Levels bullets existed; no `## Words` heading existed despite two real ground-truth hits; no `## Derived Characters` section existed despite six real hits.
+
+**Words cross-check** (2 total ground-truth hits): none previously listed — built the section from scratch: the stand-in 幾 itself and 幾何学, both from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 幾`, now that the field correctly reads `會意` rather than the wrong `戍` — this grep specifically targets characters citing 幾 itself as *their own* phonetic/semantic component, unaffected by 幾's own field correction): [[机]] ("opportunity; occasion"), [[璣]] ("pearl that is not quite round"), [[磯]] ("seashore; jetty"), [[肌]] ("skin; surface; texture"), [[飢]] ("hungry"), [[畿]] ("capital district") — all added, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
