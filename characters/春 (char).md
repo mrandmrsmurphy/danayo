@@ -8,7 +8,8 @@ japanese:
 japanese_native: はる
   - はる
 vietnamese:
-  - xoan, xuân
+  - xoan
+  - xuân
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: iuɪn
 stroke_count: 9

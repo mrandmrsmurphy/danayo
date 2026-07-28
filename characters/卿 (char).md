@@ -48,4 +48,5 @@ boundedness: 80
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 庚三開]]
 ## Words
+- <ruby>[[卿]]<rt>ㄎ⼶ㄫ</rt></ruby> "noble; high officer; sir; m'lord"
 - <ruby>[[九卿]]<rt>ㄎ⼜ㄎ⼶ㄫ</rt></ruby> "the Nine Ministers"

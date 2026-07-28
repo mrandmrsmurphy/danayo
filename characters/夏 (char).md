@@ -9,7 +9,8 @@ japanese:
 japanese_native: なつ
   - なつ
 vietnamese:
-  - hạ, hè
+  - hạ
+  - hè
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣa
 stroke_count: 10

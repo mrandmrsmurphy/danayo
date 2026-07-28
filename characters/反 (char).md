@@ -52,8 +52,8 @@ boundedness: 100
 - 186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](syllables/ㄈㄛㄋ.md)
 - [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
-- <ruby>[[反]]<rt>ㄆㄛㄋ</rt></ruby> "anti-; wrong side up" (stand-in for 反)
-- <ruby>[[反応]]<rt>ㄆㄛㄋ·ㄧㄫ</rt></ruby> "react; respond"
+- <ruby>[[反]]<rt>ㄈㄛㄋ</rt></ruby> "anti-; wrong side up" (stand-in for 反)
+- <ruby>[[反応]]<rt>ㄈㄛㄋ·ㄧㄫ</rt></ruby> "react; respond"
 - <ruby>[[反映]]<rt>ㄈㄛㄋ⼶ㄫ</rt></ruby> "reflect; indicate"
 - <ruby>[[反切]]<rt>ㄈㄛㄋㄑㄝㄊ</rt></ruby> "fanqie (traditional phonetic spelling)"
 - <ruby>[[反対]]<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby> "be opposite; oppose"
@@ -61,7 +61,7 @@ boundedness: 100
 - <ruby>[[反響]]<rt>ㄈㄛㄋㄏ⼘ㄫ</rt></ruby> "echo"
 - <ruby>[[反乱]]<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby> "rebel; revolt"
 - <ruby>[[違反]]<rt>ㄨㄧㄈㄛㄋ</rt></ruby> "violate; transgress; infringe"
-- <ruby>[[反駁]]<rt>ㄆㄛㄋㄅㄚㄎ</rt></ruby> "refute"
+- <ruby>[[反駁]]<rt>ㄈㄛㄋㄅㄚㄎ</rt></ruby> "refute"
 ## Chengyu
 - <ruby>[[創反救成]]<rt>ㄑ⺢ㄫㄈㄛㄋㄍ⼜ㄙㄧㄫ</rt></ruby> "creation, fall, redemption, consummation"
 ## Derived Characters

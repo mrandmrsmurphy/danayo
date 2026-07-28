@@ -47,6 +47,7 @@ boundedness: 100
 - 159th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄎ⼄](../syllables/ㄎ⼄.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[去]]<rt>ㄎ⼄</rt></ruby> "go"
 - <ruby>[[去年]]<rt>ㄎ⼄ㄋㄝㄋ</rt></ruby> "last year"
 - <ruby>[[逝去]]<rt>ㄙㄝㄎ⼄</rt></ruby> "pass away; die"
 - <ruby>[[過去]]<rt>ㄍ⺢ㄎ⼄</rt></ruby> "past"

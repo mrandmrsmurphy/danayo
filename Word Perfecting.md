@@ -3739,3 +3739,1359 @@ Stamped `date-last-perfect: 2026-07-26`.
 No incidental `## Words` fix needed on `characters/動 (char).md` — it already had its own self-entry.
 
 Next: 勘 (continuing alphabetically — 3,844 words remain).
+
+### 2026-07-26, iteration 346 — [[words/勘|勘]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/勘|勘]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `khám`, well attested in khám xét ("to inspect, search") and khám nghiệm ("to examine, investigate forensically"); the character page's other candidate, khóm ("a clump, cluster"), is unrelated native noise. Added missing `pos: 動詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch.
+
+**Three-way homophone group found**: 勘 shares its exact reading (kam/캄/ㄎㄚㄇ) with [[堪]] ("withstand") and [[龕]] ("shrine"), both still unstamped. Added the homophone callout to `勘`; the reciprocal callout on each will be completed when its own turn comes up.
+
+`characters/勘 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 勺 (continuing alphabetically — 3,843 words remain).
+
+### 2026-07-26, iteration 347 — [[words/勺|勺]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/勺|勺]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `chước`, confirmed via search to cover both the utensil and classical volume-measure senses; the character page's other three candidates (duộc, giuộc, thược) are corpus noise. Fixed a typo in `english` (laddle → ladle). Added missing `pos: 名詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering both the utensil sense and the classical measurement unit (ten 勺 = one 合).
+
+**Homophone found**: 勺 shares its exact reading (jwag/좍/ㄐ⺢ㄎ) with [[着]] ("wear"), still unstamped. Added the homophone callout to `勺`; the reciprocal callout will be completed when 着's own turn comes up.
+
+`characters/勺 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 勿 (continuing alphabetically — 3,842 words remain).
+
+### 2026-07-26, iteration 348 — [[words/勿|勿]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/勿|勿]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `vật`, attested in the classical phrase vật vong (勿忘, "do not forget"); the character page's other two candidates (vặt, vất) are unrelated native words. Wrote the Notes section from scratch, covering the 假借 (phonetic loan) origin — 勿's own glyph originally meant "blood on a knife," the ancestor of [[刎]] — and its more emphatic register relative to [[別]].
+
+**Homophone found, already-perfected sibling had no callout**: 勿 shares its exact reading (mud/묻/ㄇㄨㄊ) with [[物]] ("thing," perfected 2026-06-29, otherwise already fully written up). Added the missing callout to `物`, cross-linking `勿`.
+
+`characters/勿 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 化 (continuing alphabetically — 3,841 words remain).
+
+### 2026-07-26, iteration 349 — [[words/化|化]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/化|化]]**: `characters:` reformatted from a bare string to block-list form. **Checked a notation difference, found it wasn't a bug**: the word's `注音: ㄏㄨㄚ` (spelled-out) differs from the character page's own compressed `ㄏ⺢`, but `諺文`/`羅馬字` already agree on both (화/hwa), and cross-checking against [[火]] and [[禾]] (both independently already stored as `ㄏㄨㄚ`) confirmed the spelled-out form is the word-page convention for this syllable — left as-is, no fix needed. **Content removed/resolved**: filled blank `vietnamese` with `hoá`, extremely well attested (văn hoá "culture," biến hoá "to transform"); the character page's other four candidates include `hoa`, which actually belongs to the derived character [[花]] ("flower"), not 化 itself — contamination, not used. Added missing `pos: 実詞`. Wrote the Notes section from scratch, covering the 会意 "upright + inverted person" derivation.
+
+**Three-way homophone group found**: 化 shares its exact reading (hwa/화/ㄏㄨㄚ) with [[火]] ("fire") and [[禾]] ("grain"), both still unstamped. Added the homophone callout to `化`; the reciprocal callout on each will be completed when its own turn comes up.
+
+No incidental `## Words` fix needed on `characters/化 (char).md` — it already had its own self-entry.
+
+Next: 升 (continuing alphabetically — 3,840 words remain).
+
+### 2026-07-26, iteration 350 — [[words/升|升]]
+
+Stamped `date-last-perfect: 2026-07-26`, completing the [[乗]]/升 homophone pair first flagged back in iteration 281 (乗 already cross-linked here since then).
+
+**[[words/升|升]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed the character page's two Vietnamese candidates (thăng, thưng) are both genuinely attested — thăng the more classical/formal reading, thưng the vernacular name for the same traditional volume unit — kept both rather than picking one. Added missing `pos: 量詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the 象形 "dipper" derivation and the unrelated-but-cohabiting "rise, promote" sense.
+
+`characters/升 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 卑 (continuing alphabetically — 3,839 words remain).
+
+### 2026-07-26, iteration 351 — [[words/卑|卑]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/卑|卑]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `ti`, well attested in tự ti ("inferiority complex") and ti tiện ("lowly, base, mean"); the character page's other two candidates (bấy, te) are unrelated corpus noise. Added missing `pos: 性詞`. Wrote the Notes section from scratch, covering the 会意 "servant holding a fan" derivation and the self-deprecating classical register (卑職).
+
+**Homophone found**: 卑 shares its exact reading (be/버/ㄅㄝ) with [[避]] ("evade"), still unstamped. Added the homophone callout to `卑`; the reciprocal callout will be completed when 避's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/卑 (char).md` — it already had its own self-entry.
+
+Next: 占 (continuing alphabetically — 3,838 words remain).
+
+### 2026-07-26, iteration 352 — [[words/占|占]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄐㄝㄇ` unique).
+
+**[[words/占|占]]**: frontmatter was already clean (`characters:` list form, `pos: 動詞`, `kwin: true`, and `vietnamese: chiếm` all already correct — chiếm confirmed against chiếm đóng/chiếm hữu despite the character page storing an unusually large 15-candidate Vietnamese field, almost all of it corpus noise). Expanded the existing bare opening bullet into full Notes prose, covering the 指事 "oracle-bone crack" derivation and the occupy/divine sense pair.
+
+`characters/占 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 卦 (continuing alphabetically — 3,837 words remain).
+
+### 2026-07-26, iteration 353 — [[words/卦|卦]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/卦|卦]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: quái` and `pos: 名詞` were already correct (matching the character page's own clean single candidate — well attested in bát quái, "the Eight Trigrams"). Wrote the Notes section from scratch, covering the I Ching trigram/hexagram system.
+
+**Homophone found**: 卦 shares its exact reading (gwai/괘/ㄍ⺢ㄧ) with [[掛]] ("hang"), still unstamped. Added the homophone callout to `卦`; the reciprocal callout will be completed when 掛's own turn comes up.
+
+`characters/卦 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 却 (continuing alphabetically — 3,836 words remain).
+
+### 2026-07-26, iteration 354 — [[words/却|却]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄎ⼘ㄎ` unique).
+
+**[[words/却|却]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `khước`, well attested in khước từ ("to decline, refuse"). Added missing `pos: 副詞`. Expanded a one-line stub ("contrastive 'but'") into full Notes prose, covering the "withdraw/reject" → contrastive-adverb grammaticalization.
+
+`characters/却 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 卸 (continuing alphabetically — 3,835 words remain).
+
+### 2026-07-26, iteration 355 — [[words/卸|卸]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/卸|卸]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `tá` is the genuine Hán Việt reading (tá trang 卸妝 "to remove makeup"; tá hóa 卸貨 "to unload cargo") among four stored candidates; `dỡ` is a related native word for "unload" but not the reading itself, `xả` ("to release, discharge") and `hằm` are unrelated. Added missing `pos: 動詞` and `kwin: false` (both matching the character page). Wrote the Notes section from scratch, covering the literal "unload" → figurative "shed responsibility, retire" extension.
+
+**Homophone found**: 卸 shares its exact reading (sya/샤/ㄙ⼘) with [[捨]] ("throw away"), still unstamped. Added the homophone callout to `卸`; the reciprocal callout will be completed when 捨's own turn comes up.
+
+`characters/卸 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 卿 (continuing alphabetically — 3,834 words remain).
+
+### 2026-07-26, iteration 356 — [[words/卿|卿]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/卿|卿]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `khanh`, well attested in ái khanh (a monarch's term of endearment) and khanh tướng ("high ministers and generals"). Wrote the Notes section from scratch, covering the 会意 "ritual feasting" derivation (once graphically indistinguishable from 鄉) and its extension from "high official" to a respectful/affectionate term of address.
+
+**Homophone found**: 卿 shares its exact reading (kyeng/켱/ㄎ⼶ㄫ) with [[慶]] ("congratulate"), still unstamped. Added the homophone callout to `卿`; the reciprocal callout will be completed when 慶's own turn comes up.
+
+**Incidental fix**: `characters/卿 (char).md`'s own `## Words` section was missing an entry for 卿 itself (had only 九卿) — added it.
+
+Next: 厘 (continuing alphabetically — 3,833 words remain).
+
+### 2026-07-26, iteration 357 — [[words/厘|厘]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/厘|厘]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: filled blank `vietnamese` with `[li, ly]` — both genuinely attested quốc ngữ spelling variants of the same reading rather than distinct words, so kept as a pair. Added missing `pos: 修飾語`. Wrote the Notes section from scratch, covering the traditional weight/length unit and its extension to the modern "centi-" metric prefix, plus the small interest-rate sense.
+
+**Three-way homophone group found, one member already perfected with no callout at all**: 厘 shares its exact reading (li/리/ㄌㄧ) with [[浬]] ("nautical mile," still unstamped) and [[里]] ("village," perfected 2026-03-22, Notes otherwise empty). `里` had no homophone callout — added one cross-linking `厘` and `浬`; its empty `## Notes` was left untouched, joining [[見]]/[[土]]/[[狼]]/[[銅]] as a candidate for a dedicated backfill pass.
+
+`characters/厘 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next: 厚 (continuing alphabetically — 3,832 words remain — the homophone of [[侯]] flagged much earlier in this sweep).
+
+### 2026-07-26, iteration 358 — [[words/厚|厚]]
+
+Stamped `date-last-perfect: 2026-07-26`, continuing the [[侯]]/厚/吼 homophone group first found back in iteration 300 (侯 already cross-links here).
+
+**[[words/厚|厚]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with the character page's own clean, single-candidate `hậu`, well attested in hậu đãi ("to treat generously") and đôn hậu ("honest, warm-hearted," matching 敦厚 directly). Wrote the Notes section from scratch, covering the 会意 derivation (explicitly flagged on the character page as not fully transparent) and the "thick" → "shameless" (厚顔) figurative extension.
+
+**Homophone group progress**: added the reciprocal callout to `厚`, cross-linking `侯` and `吼`; [[吼]] itself still awaits its own turn.
+
+No incidental `## Words` fix needed on `characters/厚 (char).md` — it already had its own self-entry.
+
+Next: 厳 (continuing alphabetically — 3,831 words remain).
+
+### 2026-07-26, iteration 359 — [[words/厳|厳]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ⼄ㄇ` unique).
+
+**[[words/厳|厳]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: `vietnamese` was blank with no candidates to work from on either page — searched and confirmed `nghiêm`, well attested in nghiêm khắc ("strict, severe") and tôn nghiêm (尊厳, "dignity," matching this word's own compound directly). Wrote the Notes section from scratch, covering the 形声 derivation (the "solemn" sense flagged on the character page as possibly a phonetic-loan development, not transparent from 敢).
+
+**Incidental fix**: `characters/厳 (char).md`'s own `vietnamese` field was also blank despite being otherwise perfected — filled it with the same verified `nghiêm`.
+
+Next: 去 (continuing alphabetically — 3,830 words remain).
+
+### 2026-07-26, iteration 360 — [[words/去|去]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/去|去]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `khứ`, matching this word's own compound 過去 directly (quá khứ, "the past") and khứ hồi ("round trip"); the character page's other candidate, khử ("to eliminate, remove"), is unrelated and wasn't used. Wrote the Notes section from scratch, covering the 会意 "man departing an opening" derivation and the temporal/deictic compound family it heads.
+
+**Homophone found**: 去 shares its exact reading (kyo/쿄/ㄎ⼄) with [[矩]] ("moment [physics]"), still unstamped. Added the homophone callout to `去`; the reciprocal callout will be completed when 矩's own turn comes up.
+
+**Incidental fix**: `characters/去 (char).md`'s own `## Words` section was missing an entry for 去 itself (had only 去年 and other compounds) — added it.
+
+Next: 又 (continuing alphabetically — 3,829 words remain).
+
+### 2026-07-26, iteration 361 — [[words/又|又]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/又|又]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: filled blank `vietnamese` with `hựu`, confirmed via dictionary lookup ("lại, vừa...lại..., cũng"); the character page's other candidate, `lại`, is the everyday native Vietnamese word for "again" rather than the Hán Việt reading itself, and wasn't used. Folded a bare numbered list ("1. or again / 2. also") into full Notes prose, covering the 象形 "right hand" origin (the ancestor of [[右]]) and the "again" sense's derivation from [[有]] rather than the hand image.
+
+**Homophone found**: 又 shares its exact reading ('uo/웃/ㄨㄛ) with [[隅]] ("nook"), still unstamped. Added the homophone callout to `又`; the reciprocal callout will be completed when 隅's own turn comes up.
+
+No incidental `## Words` fix needed on `characters/又 (char).md` — it already had its own self-entry.
+
+Next: 叉 (continuing alphabetically — 3,828 words remain).
+
+### 2026-07-26, iteration 362 — [[words/叉|叉]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄑㄚㄧ` unique).
+
+**[[words/叉|叉]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: xoa` was already correct (matching the character page's own clean single candidate). Wrote the Notes section from scratch, covering the 会意 "spread fingers" derivation and the literal/figurative fork family ([[三叉]], [[音叉]], [[魚叉]], [[交叉]]).
+
+**Incidental fix**: `characters/叉 (char).md`'s own `## Words` section was missing an entry for 叉 itself (had only compounds) — added it.
+
+Next: 双 (continuing alphabetically — 3,827 words remain).
+
+### 2026-07-26, iteration 363 — [[words/双|双]] and its homophone [[words/霜|霜]]
+
+Stamped `date-last-perfect: 2026-07-26` on both, perfected together as a homophone pair (same precedent as [[㪘]]/[[廉]] etc. earlier in this sweep).
+
+**[[words/双|双]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: filled blank `vietnamese` with `song`, well attested in song song ("parallel") and song sinh (双生, "twins," matching this character's own [[双子]] compound); the character page's other three candidates (rong, rông, xong) are unrelated corpus noise. Added missing `pos: 量詞`. Wrote the Notes section from scratch, noting the unusual case where Korean 쌍 serves as both the Sino-Korean and native reading.
+
+**⚠️ Significant process discovery**: [[words/霜|霜]] turned out to already have real, correct data (vietnamese, pos, kwin, korean all already filled in) but a **`date-last-perfect:` key present with a blank value** rather than an absent key — this sweep's file-selection method (`grep -L 'date-last-perfect' words/*.md`, matching files where the string doesn't appear at all) cannot detect a key that exists but is empty, so 霜 had been silently skipped every time this sweep scanned past it alphabetically. A follow-up check found **75 word files with this exact pattern** (`^date-last-perfect:\s*$`), meaning the true remaining-word count is measurably higher than the alphabetical-gap count suggests, and a real portion of them may — like 霜 — already have complete frontmatter and just need Notes prose and the date stamped. **This iteration only fixed 霜 itself** (perfected in full, alongside 双, since they're homophones); the other ~74 are not yet touched and should be treated as an additional worklist alongside the ongoing alphabetical sweep. Recommend a future firing (or several) specifically target this blank-key list rather than assuming the alphabetical scan alone covers everything.
+
+Next: 反 (continuing alphabetically — 3,826 words remain in the alphabetical count; ~74 additional blank-key files also remain, not yet individually queued).
+
+### 2026-07-26, iteration 364 — [[words/豚|豚]] (first item from the blank-key backlog)
+
+Stamped `date-last-perfect: 2026-07-26`. First word drawn from the 75-file blank-`date-last-perfect:`-key backlog discovered last iteration, rather than continuing the pure alphabetical scan — both lists count as "words which have no date-last-perfect" per the standing instruction, so this backlog gets worked in alongside the alphabetical one going forward. No homophones (`注音: ㄊㄨㄋ` unique).
+
+**[[words/豚|豚]]**: `characters:` reformatted from a bare string to block-list form. Added missing `pos: 名詞`. **Verified rather than assumed**: searched to rule out cross-contamination with the Mandarin-homophone character 屯 ("to station troops, hoard") before trusting the character page's single stored Vietnamese candidate `đồn` — confirmed genuine, specifically denoting a piglet/suckling pig (heo con, lợn con) rather than pigs generally. Wrote the Notes section from scratch, covering the 会意 "meat + pig" derivation.
+
+`characters/豚 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next (blank-key backlog): 鉛. Next (alphabetical): 反 — both lists remain open; future firings may draw from either.
+
+### 2026-07-26, iteration 365 — [[words/反|反]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones after the syllable correction below (no other word file currently uses either the old or corrected reading).
+
+**[[words/反|反]]**: `characters:` reformatted from a bare string to block-list form. **Real bug found and fixed**: `羅馬字`/`諺文`/`注音` previously stored `pon`/폰/ㄆㄛㄋ, but the character page's own frontmatter stores `fon`/뽄/ㄈㄛㄋ — corrected to match, cross-verified against [[販]] and [[返]] (the two other characters sharing this phonetic family, both independently already `fon` on their own character pages, though neither has a word page yet). Filled blank `vietnamese` with `phản`, well attested in phản đối (反対, "to oppose") and phản ứng (反応, "to react"). Added missing `pos: 修飾語`. Wrote the Notes section from scratch, including the vault's own documented policy of folding 叛 into this character while letting 叛-descended compounds (like [[反乱]]) keep their own historical sound.
+
+**Incidental fix**: `characters/反 (char).md`'s own `## Words` section had three ruby annotations stuck on the old `ㄆㄛㄋ` reading (the self-entry, 反応, 反駁) while the rest of the list already correctly used `ㄈㄛㄋ` — corrected all three to match.
+
+Next (alphabetical): 句. Next (blank-key backlog): 鉛 — both lists remain open.
+
+### 2026-07-26, iteration 366 — [[words/句|句]]
+
+Stamped `date-last-perfect: 2026-07-26`, completing the [[倶]]/句/[[衢]] three-way homophone group first found back in iteration 308 (倶 and 衢 already cross-link here).
+
+**[[words/句|句]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: filled blank `vietnamese` with `[cú, câu]` — cú the classical Hán Việt reading (cú pháp, 句法, "syntax") and câu the everyday native word for "sentence," both genuinely attested, kept as a pair rather than picking one. Wrote the Notes section from scratch, covering the 形声 derivation and 句's role as both "sentence/phrase" and a classifier for utterances.
+
+No incidental `## Words` fix needed on `characters/句 (char).md` — it already had its own self-entry.
+
+Next (alphabetical): 各. Next (blank-key backlog): 鉛 — both lists remain open.
+
+### 2026-07-26, iteration 367 — [[words/鉛|鉛]] (blank-key backlog)
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/鉛|鉛]]**: `characters:` reformatted from a bare string to block-list form. **Checked a suspicious-looking value, confirmed it was correct**: `vietnamese: duyên` looked at first glance like it might be contamination from the common unrelated word duyên ("fate, destiny, charm") — searched and confirmed duyên genuinely is the Hán Việt reading for 鉛 ("lead"), a coincidental homograph rather than an error; everyday Vietnamese uses the native chì for the metal instead. `pos: 固有名詞` and `kwin: true` were already correct (matching the periodic-table convention seen on other element words like [[銅]]). Wrote the Notes section from scratch, covering the 形声 derivation and [[鉛筆]] ("pencil").
+
+**Homophone found**: 鉛 shares its exact reading ('yen/연/⼶ㄋ) with [[鳶]] ("kite"), still unstamped (a genuine gap, not a blank-key case). Added the homophone callout to `鉛`; the reciprocal callout will be completed when 鳶's own turn comes up.
+
+`characters/鉛 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next (blank-key backlog): 二日. Next (alphabetical): 各 — both lists remain open.
+
+### 2026-07-26, iteration 368 — [[words/各|各]]
+
+Stamped `date-last-perfect: 2026-07-26`.
+
+**[[words/各|各]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `các`, extremely well attested as the everyday plural/distributive marker (các bạn, "everyone"; các nước, "various countries"); the character page's other four candidates (cắc, gác, gạc, gật) are unrelated corpus noise. Added missing `kwin: true` (matching the character page; `pos: 修飾語` was already present). Wrote the Notes section from scratch, covering the 会意 "arrive" → distributive "each" derivation.
+
+**Three-way homophone group found, one member already perfected with no callout**: 各 shares its exact reading (gag/각/ㄍㄚㄎ) with [[格]] ("case," still unstamped) and [[隔]] ("every other," perfected 2026-03-21). `隔` had no homophone callout — added one cross-linking `各` and `格`.
+
+No incidental `## Words` fix needed on `characters/各 (char).md` — it already had its own self-entry.
+
+Next (alphabetical): 合. Next (blank-key backlog): 二日 — both lists remain open.
+
+### 2026-07-26, iteration 369 — [[words/二日|二日]] (blank-key backlog)
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄋㄧㄜㄋㄧㄊ` unique).
+
+**[[words/二日|二日]]**: found genuine content problems by comparing against its own already-perfected siblings [[三日]] and [[四日]] — this vault's "calendar-day name" word family (matching Japanese ふつか-style date nouns). **Content removed/restructured**: the frontmatter mixed the primary "2nd of the month" sense with an unrelated "two days" duration sense — `mandarin: liǎng tiān` used the colloquial duration-counter (not the ordinal/compositional èr), and `korean: 이일, 이틀` crammed the native duration word 이틀 in alongside the real Sino-Korean date reading 이일 — plus a redundant bare body note "obsolete: two days" repeating the same duration sense a third time. Following the precedent already set by [[三日]] (which stores its own analogous duration sense as the alias 三天, not embedded in the main fields), consolidated all of it into a single alias `二天`, and corrected `mandarin`/`korean` to the compositional date reading (`èr rì`/이일) matching the sibling family. Filled previously blank `cantonese` with the compositional `ji6 jat6`, and added missing `kwin: false`.
+
+Next (alphabetical): 合. Next (blank-key backlog): 剛強 — both lists remain open.
+
+### 2026-07-26, iteration 370 — [[words/合|合]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄛㄆ` unique).
+
+**[[words/合|合]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: `vietnamese: null` replaced with `hợp`, extremely well attested (hợp tác "to cooperate"; kết hợp "to combine," matching [[結合]] directly); the character page's remaining six candidates (cáp, cóp, góp, gộp, họp, hạp) include several plausible native cognates in the same "gather/pool/meet" semantic neighborhood, but hợp alone is the attested Hán Việt reading. Wrote the Notes section from scratch, covering the 会意 "two mouths speaking together" derivation and noting the character's own documented MC dual-reading merger.
+
+**Incidental fixes**: `characters/合 (char).md`'s own compound list used a bare `Words` line rather than a proper `## Words` heading, and was missing a self-entry — fixed the heading level and added the entry.
+
+Next (alphabetical): 吉. Next (blank-key backlog): 剛強 — both lists remain open.
+
+### 2026-07-26, iteration 371 — [[words/剛強|剛強]] (blank-key backlog)
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄚㄫㄍ⼘ㄫ` unique).
+
+**[[words/剛強|剛強]]**: **Content removed**: `mandarin: "gāngqiángl"` had a stray trailing "l" (the same typo pattern already seen on [[一日]]'s `yīrìl` earlier in this sweep) — corrected to `gāngqiáng`. Filled missing `korean` with the compositional `강강` (both constituent characters happen to share the identical syllable 강) and missing `vietnamese` with `cương cường`, confirmed via search as the real attested Hán Việt compound (a genuine Vietnamese adjective for firm, unyielding character) rather than a naive concatenation of either character's own much broader candidate lists. Added missing `kwin: false` per the AND-rule (`characters/剛.md`'s own `kwin` is `true`, but `characters/強 (char).md`'s own `kwin` is `false`).
+
+**Stand-in note applied**: `characters/剛.md`'s own `stand_in` field is `剛強` (this word) — added the standard "stand-in for [[剛]], which cannot appear independently" phrasing to the opening bullet. (強's own `stand_in` is bare `強` — no note needed on that side.)
+
+**Flagged, not fixed**: `characters/剛.md` has no `date-last-perfect` and hasn't been through the character sweep yet (out of scope, left as a data source only) — its own `## Words` section is missing an entry for 剛強 despite 剛強 being its own stand_in; worth a quick fix whenever 剛 gets its character-sweep pass.
+
+Next (alphabetical): 吉. Next (blank-key backlog): 占卜 — both lists remain open.
+
+### 2026-07-26, iteration 372 — [[words/吉|吉]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄧㄊ` unique).
+
+**[[words/吉|吉]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: filled blank `vietnamese` with `[cát, kiết]` — searched and confirmed both are genuinely attested (cát the more standard reading, as in cát tường 吉祥; kiết a recognized regional/dialectal variant), kept as a pair rather than picking one. Added missing `pos: 性詞`. Wrote the Notes section from scratch, covering the 会意 "good words from a virtuous person" derivation and 吉's role as the opposite of [[凶]].
+
+`characters/吉 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next (alphabetical): 吐. Next (blank-key backlog): 占卜 — both lists remain open.
+
+### 2026-07-26, iteration 373 — [[words/吐|吐]]
+
+Stamped `date-last-perfect: 2026-07-26`, completing the [[兎]]/[[土]]/吐 three-way homophone group first found back in iteration 315 (兎 and 土 already cross-link here).
+
+**[[words/吐|吐]]**: `characters:` reformatted from a bare string to block-list form. **Content removed**: narrowed a single comma-joined `vietnamese` entry ("thổ, nhổ, giổ, giỗ") to `thổ` alone — the Hán Việt reading, attested in thổ huyết ("to vomit blood") and thổ tả ("a cholera-like illness"); nhổ is a related but distinct everyday native verb for "to spit" (documented in prose, not used as the field value), and giổ/giỗ are unrelated noise. `pos: 性詞` was already present; added missing `swadesh: 96` (matching the character page's own stored value — 吐 is a genuine Swadesh-100 word) and `kwin: true`. Wrote the Notes section from scratch.
+
+`characters/吐 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next (alphabetical): 否. Next (blank-key backlog): 占卜 — both lists remain open.
+
+### 2026-07-26, iteration 374 — [[words/占卜|占卜]] (blank-key backlog)
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄐㄝㄇㄅㄛㄎ` unique).
+
+**[[words/占卜|占卜]]**: **Content removed/corrected**: `korean: 고복` matched neither constituent character's own stored reading nor the already-correct Dan'a'yo transliteration (점복) — corrected to `점복`, a real attested term (점복술, "the art of divination"). **`kwin` corrected**: was `false`, but both `characters/占 (char).md` and `characters/卜.md` are individually `kwin: true` — per the AND-rule that should make the compound `true`, not `false` — fixed. **`pos` corrected**: `性詞` (descriptive) → `動詞`, since "to divine, tell fortunes" is unambiguously a verb. Filled missing `vietnamese` with `chiêm bốc`, confirmed via search — chiêm here is 占's divination-sense reading, distinct from chiếm (the "occupy"-sense reading already established on [[占]]'s own word page), a genuine same-character-different-sense split rather than contamination.
+
+**Stand-in note applied**: `characters/卜.md`'s own `stand_in` field is `占卜` (this word) — added the standard "stand-in for [[卜]], which cannot appear independently" phrasing to the opening bullet.
+
+**Incidental fix**: `characters/卜.md`'s own `## Words` section didn't exist at all — added one with the self-referencing entry (since 卜 cannot stand alone, its only "word" is 占卜 itself).
+
+Next (alphabetical): 否. Next (blank-key backlog): 哥金 — both lists remain open.
+
+### 2026-07-26, iteration 375 — [[words/否|否]]
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄈㄚㄨ` unique).
+
+**[[words/否|否]]**: `characters:` reformatted from a bare string to block-list form. `vietnamese: phầu` was already correct (matching the character page's own clean single candidate). Added missing `pos: 感詞`. Wrote the Notes section from scratch, covering the 形声 "not + mouth" derivation and 否's role as a formal/classical negator, keeping the pre-existing Sophomore List note.
+
+`characters/否 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next (alphabetical): 吸. Next (blank-key backlog): 哥金 — both lists remain open.
+
+### 2026-07-26, iteration 376 — [[words/哥金|哥金]] (blank-key backlog)
+
+Stamped `date-last-perfect: 2026-07-26`. No homophones (`注音: ㄍㄜㄍㄧㄇ` unique). `kwin: false` already correctly matched the AND-rule (哥's own kwin is false, 金's is true).
+
+**[[words/哥金|哥金]]** (copernicium, a vault-coined neologism transliterating "Copernicus"): filled blank `vietnamese` with `Copernici`, the real Vietnamese scientific-nomenclature loanword (searched and confirmed), matching the same loanword pattern already used for the existing Japanese/Korean fields on this page. Deliberately left `mandarin`/`cantonese` blank rather than fabricating a value: 哥金 is this vault's own internal two-character coinage, distinct from 鎶, the actual single novel character used in real Chinese chemistry for this element — there is no genuine natural-language pronunciation of this specific compound to record.
+
+Next (alphabetical): 吸. Next (blank-key backlog): 塩素 — both lists remain open.
+
+### 2026-07-27, iteration 377 — [[words/吸|吸]]
+
+Stamped `date-last-perfect: 2026-07-27`. No homophones (`注音: ㄏㄧㄆ` unique).
+
+**[[words/吸|吸]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `hấp` is the genuine Hán Việt reading (hô hấp 呼吸, "respiration"; hấp thu 吸收, "to absorb") among eight stored candidates; the remaining seven (cạp, cặp, cộp, gạp, húp, hút, hớp) are unrelated corpus noise. Added missing `pos: 動詞`. Wrote the Notes section from scratch, covering "inhale/absorb" and its extension to "attract."
+
+`characters/吸 (char).md` itself has no `date-last-perfect` and hasn't been through the character sweep yet — left untouched beyond reading its frontmatter as a data source.
+
+Next (alphabetical): 吹. Next (blank-key backlog): 塩素 — both lists remain open.
+
+### 2026-07-27, iteration 378 — [[words/塩素|塩素]] (blank-key backlog)
+
+Stamped `date-last-perfect: 2026-07-27`. No homophones (`注音: ⼶ㄇㄙㄛ` unique). `vietnamese: clo`, `korean: 염소`, `pos: 固有名詞`, and `kwin: true` were all already correct.
+
+**[[words/塩素|塩素]]** (chlorine): **Content removed/corrected**: `mandarin`/`cantonese` previously stored `lǜ`/`luk6` — the reading of 氯, the single novel Chinese character this word's own Notes explicitly say it avoids — not a reading of 塩素 itself. Corrected to the compositional `yánsù`/`jim4 sou3`, matching `characters/塩 (char).md`'s own `yán`/`jim4` and `characters/素.md`'s own `sù`/`sou3` (the same class of bug as [[反]]'s syllable mismatch earlier in this sweep: a stray reading belonging to an unrelated/avoided character instead of the word's own compound). Expanded the Notes into full prose explaining the "salt element" naming logic and the Japanese/Korean/Vietnamese cross-linguistic picture.
+
+Next (alphabetical): 吹. Next (blank-key backlog): 大人 — both lists remain open.
+
+### 2026-07-27, iteration 379 — [[words/吹|吹]]
+
+Stamped `date-last-perfect: 2026-07-27`.
+
+**[[words/吹|吹]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: searched and confirmed `xuy` is the genuine Hán Việt reading (xuy ngưu 吹牛, "to boast") among a striking seventeen stored candidates on the character page, all the rest unrelated corpus noise. Wrote the Notes section from scratch, covering the 会意 "mouth + exhale" derivation and the literal-to-figurative "blow" → "boast" extension.
+
+**Three-way homophone group found**: 吹 shares its exact reading (cui/취/ㄑㄨㄧ) with [[推]] ("push") and [[炊]] ("cook"), both still unstamped. Added the homophone callout to `吹`; the reciprocal callout on each will be completed when its own turn comes up.
+
+No incidental `## Words` fix needed on `characters/吹 (char).md` — it already had its own self-entry.
+
+Next (alphabetical): 吼. Next (blank-key backlog): 大人 — both lists remain open.
+
+### 2026-07-27, iteration 380 — [[words/吼|吼]]
+
+Stamped `date-last-perfect: 2026-07-27`, completing the [[侯]]/[[厚]]/吼 three-way homophone group first found back in iteration 300 (侯 and 厚 already cross-link here).
+
+**[[words/吼|吼]]**: `characters:` reformatted from a bare string to block-list form. **Content removed/resolved**: filled blank `vietnamese` with `hống`, confirmed via search as the Hán Việt reading (sư tử hống 獅子吼, "a lion's roar," the well-known Buddhist metaphor); the same source also lists `rống` as an attested reading — itself also the everyday native word for "to bellow" — a rare case where native and classical readings converge, documented in prose rather than added to the field; the remaining candidates (hổng, khỏng, khống) look like corpus noise. Wrote the Notes section from scratch.
+
+Next (alphabetical): 呆. Next (blank-key backlog): 大人 — both lists remain open.
+
+### 2026-07-27, iteration 381 — [[words/大人|大人]]
+
+Worked from the blank-key backlog (`date-last-perfect:` key was present but empty). No homophones found (`注音: ㄉㄚㄧㄋㄧㄋ` is unique among words).
+
+Verified `pos: 名詞` and `kwin: false` against the constituent characters: [[大]] (char) is kwin true, but [[人]] (char) is kwin false — per the AND-rule the compound stays false, matching what was already stored.
+
+**Content added**: filled the previously-missing `vietnamese` field with `đại nhân`. Confirmed via search as a genuinely attested Hán Việt reading (Hán Nôm dictionary, Wiktionary) — but flagged rather than glossed over that its dominant living sense in Vietnamese is the archaic honorific "lord, Your Excellency" (address for officials/nobles/elders, surviving in period fiction), with "adult" only a secondary classical dictionary sense; modern Vietnamese normally uses người lớn for "adult." Documented this divergence in prose instead of presenting đại nhân as a direct equivalent.
+
+Added the `>[!tip]` word-page banner (was missing — no character-page cross-reference line since 大人 has two constituent characters rather than one). Wrote the full `## Notes` section from scratch (previously a single bare bullet), covering Mandarin/Cantonese/Japanese/Korean readings and their register differences (大人 as "adult" is now comparatively literary/honorific in colloquial Mandarin and Korean; Japanese keeps おとな as the plain everyday word). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 呆. Next (blank-key backlog): 季節 — both lists remain open.
+
+### 2026-07-27, iteration 382 — [[words/呆|呆]]
+
+Worked from the alphabetical worklist. `pos` was missing (character page's own `pos` was an empty string, not authoritative) — filled with `性詞`, matching the descriptive/stative sense ("dull-witted, foolish, dazed"). `characters:` reformatted from a bare string to list form. `kwin: true` confirmed against the character page (single-character word inherits directly).
+
+**Content resolved**: `vietnamese:` was present but blank on the word page; the character page stored six candidates (dại, ngai, ngãi, ngóc, ngố, ngốc). Verified via search: `ngai` is the genuine Hán Việt reading, attested in compounds paralleling Mandarin usage (si ngai 癡呆, ngai trệ 呆滯, ngai bản 呆板 — directly matching 呆板 dāibǎn). The rest are Nôm loan-character readings — native Vietnamese words 呆 was borrowed to write graphically for shared "foolish/wild" semantics, not genuine Sino-Vietnamese derivations — and were excluded; `ngốc` (the common modern word for "stupid") is sometimes listed as a Hán Việt gloss but has no established regular phonetic derivation from 呆 per scholarly review, so it was treated as contested/excluded rather than confirmed, not silently kept.
+
+Added a `>[!warning] Homophones` callout for [[昧]] ("dark; benighted") and [[苺]] ("strawberry") — same reading mai/매/ㄇㄚㄧ, confirmed via anchored grep (an earlier unanchored check falsely matched 邁金, whose 注音 only starts with the same three jamo); a fourth apparent match, 邁金, was excluded as a false positive. Both 昧 and 苺 are still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 呈. Next (blank-key backlog): 季節 — both lists remain open.
+
+### 2026-07-27, iteration 383 — [[words/季節|季節]]
+
+Worked from the blank-key backlog. No homophones found (`注音: ㄍㄨㄧㄐㄝㄊ` is unique among words). Verified `pos: 名詞` and `kwin: false` against the constituent characters: [[節]] (char) is kwin, but [[季]] is not, so per the AND-rule the compound stays false, matching what was already stored.
+
+Both constituent characters are already perfected, so 季節 gets the full stand-in treatment: [[季]]'s own `stand_in` field is `季節`, meaning 季 cannot appear independently as a word — added the required opening-bullet note ("stand-in for [[季]], which cannot appear independently"), not the trivial single-character case this time.
+
+**Content added**: filled the previously-missing `vietnamese` field with `quý tiết`. Verified via search: `quý` is the genuine Hán Việt reading for 季 (the stored candidate `quí` is just a pre-reform spelling of the same word, not a separate reading; `quỳ` and `cuối` are unrelated/Nôm-gloss noise). `tiết` is the standard Hán Việt reading for 節 (the stored candidate `tết`, the Lunar New Year holiday, turned out to be a genuine Old Sino-Vietnamese doublet from an earlier borrowing layer of the same character — a real etymological connection, but not part of this compound's reading; `tét/típ/tít/tịt` are Nôm readings of unrelated native words). The compound `quý tiết` itself is dictionary-attested but marginal — Vietnamese normally uses the native word `mùa` for "season" — documented this register note in prose. Added the `>[!tip]` banner, wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 呈. Next (blank-key backlog): 将棋 — both lists remain open.
+
+### 2026-07-27, iteration 384 — [[words/呈|呈]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null, not a real value) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` (character page's own `pos` was an empty string, not authoritative) and `kwin: false` (character page's own `kwin` is false; single-character word inherits directly — the field was absent from the word page entirely).
+
+**Content resolved**: verified via search that `trình` is the genuine Hán Việt reading (trình bày "to present, explain," trình diện "to report/present oneself," thuyết trình "to give a presentation"). The character page's other six candidates (chiềng, chường, rềnh, triềng, trành, xình) turned out to be legitimately attested — but as colloquial/reduplicative-word variant pronunciations of 呈 (chiềng làng, chán chường, tròng trành, etc.), not separate literary Hán Việt vocabulary — so excluded from the field and documented in prose rather than silently dropped. A seventh, `chiệng`, doesn't appear in either dictionary source checked and looks like a tone-mark corruption of `chiềng`; treated as noise.
+
+Added a `>[!warning] Homophones` callout for [[鼎]] ("tripod cauldron") — same reading ding/딩/ㄉㄧㄫ, confirmed via anchored grep. 鼎 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 呼. Next (blank-key backlog): 将棋 — both lists remain open.
+
+### 2026-07-27, iteration 385 — [[words/将棋|将棋]]
+
+Worked from the blank-key backlog. No homophones found (`注音: ㄐ⺢ㄫㄍㄧ` is unique among words). Verified `pos: 名詞` and `kwin: false` against the constituent characters: [[棋]] is kwin, but [[将]] (char) is not, so per the AND-rule the compound stays false, matching what was already stored.
+
+[[棋]]'s own `stand_in` field is `将棋` itself — meaning 棋 cannot appear independently as a word — added the required opening-bullet note ("stand-in for [[棋]], which cannot appear independently"). [[将]]'s own `stand_in` is just `将`, so no equivalent note was needed on that side.
+
+**Content removed**: blank placeholder keys `hsk_level:`, `swadesh:` — both optional-only-when-nonempty fields per the vault's checklist, removed rather than left empty.
+
+**Content added**: filled the previously-missing `vietnamese` field with `tướng kỳ`. Verified via search: `tướng` is the Hán Việt reading of 将 specifically for the "general/military commander" sense (a separate reading, `tương`, covers 将's unrelated "will, shall, about to" grammatical senses — not noise, just sense-conditioned); `kỳ` is the Sino-Vietnamese literary reading of 棋 for "chess" (`cờ`, the everyday Vietnamese word, turned out to be a genuine native-layer doublet of the same root per Wiktionary, not an unrelated word — but isn't part of this compound's reading). `tướng kỳ` itself is attested as a learned/dictionary-style calque for 将棋 (used to gloss shogi in Vietnamese), though everyday Vietnamese normally uses the reversed native-order `cờ tướng` for xiangqi specifically and just borrows "shogi" for the Japanese game — documented this register gap in prose. The remaining stored candidates for 棋 (cơi, cời, kè) were confirmed as unrelated Nôm phonetic-loan readings and excluded. Also documented the existing broad-vs-narrow semantic contrast (将棋 as umbrella term vs. Japanese しょうぎ/Mandarin's actual 象棋/Korean 장기 as narrower sense-shifted terms) in prose, expanding on the single line already present. Added the `>[!tip]` banner. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 呼. Next (blank-key backlog): 居住 — both lists remain open.
+
+### 2026-07-27, iteration 386 — [[words/呼|呼]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: true` (both matching the character page; the word page previously lacked these fields entirely). The old single-line note ("commonly takes both personal and impersonal objects") was preserved and folded into the new Notes prose rather than discarded.
+
+**Content resolved**: confirmed via search that `hô` is the correct Hán Việt reading (hô hấp 呼吸 "respiration," hoan hô 歡呼 "to cheer, hail" — the same reading already independently verified while perfecting [[吸]] in an earlier iteration). Unlike most other candidate cleanups this sweep, the character page's other stored candidates (hao/hào, há) turned out to be a genuine multi-reading case rather than noise: hao/hào is attested as a real secondary classical reading of 呼 (homophonous with 虓, "a tiger's roar," per an alternate Tập Vận fanqie), and há is attested in standard dictionaries as an exclamatory particle reading, though with murkier phonological derivation. Both documented in prose rather than added to the field, since hô is the reading in live/modern use.
+
+This word completes a three-way homophone group with [[乎]] (already perfected, already cross-linking here from an earlier iteration) and [[虎]] (still unperfected) — added the reciprocal `>[!warning] Homophones` callout referencing both. Wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 咬. Next (blank-key backlog): 居住 — both lists remain open.
+
+### 2026-07-27, iteration 387 — [[words/居住|居住]]
+
+Worked from the blank-key backlog. This page already had substantial Notes prose and correct stand-in reasoning ([[居]]'s own `stand_in` is 居所, not 居住, so no stand-in note was needed for 居; [[住]]'s `stand_in` is 居住 itself, and the opening bullet already correctly noted this) — mostly frontmatter/formatting work this iteration, not a from-scratch write.
+
+**Content corrected**: `pos` was `性詞` (descriptive/adjective) — corrected to `事詞`, matching [[住]]'s own character-page `pos` and the plain action-verb sense ("to reside, dwell"), not a descriptive quality. Removed blank placeholder key `aliases:` (optional-only-when-nonempty per checklist). No homophones found (`注音: ㄍㄧㄐㄨ` is unique among words). `kwin: false` confirmed against the constituent characters: [[住]] (char) is kwin, but [[居]] is not, so per the AND-rule the compound stays false, matching what was already stored.
+
+**Content added**: filled the previously-missing `vietnamese` field with `cư trú`, a standard everyday Vietnamese word for "to reside" combining `cư` (居) with `trú`, the standard Hán Việt reading of 住. The character page for 住 also stores `trọ` and `giọ`: verified via search that `trọ` is a genuine vernacular doublet of `trú` from the same Middle Chinese root, narrowed to temporary/rented lodging rather than noise; `giọ` is attested but marginal, surviving mainly in a fossilized reduplicative form. Neither displaced `trú` as the better fit for this word's plain "reside" sense. Added the `>[!tip]` banner and a new Vietnamese paragraph to the existing Notes. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 咬. Next (blank-key backlog): 山岡 — both lists remain open.
+
+### 2026-07-27, iteration 388 — [[words/咬|咬]]
+
+Worked from the alphabetical worklist. **Content removed**: a stray duplicate `品詞: 事詞` field (an alternate/legacy name for `pos`, redundant with the already-present `pos: 事詞`) — removed from both the word page and, incidentally, from the already-perfected `characters/咬 (char).md` page, which carried the same duplicate. `characters:` reformatted from a bare string to list form.
+
+**Content resolved**: the word page's `vietnamese` field was malformed — a single list item containing the string `"giảo, rao"` instead of two separate values (mirrored on the character page). Verified via search: `giảo` is the genuine Hán Việt reading ("to bite, gnaw," attested e.g. in the Vietnamese translation of *Journey to the West*); `rao` is a Nôm reading of the same glyph repurposed for an unrelated native word meaning "to announce publicly, hawk goods" — a different etymological layer, not a variant pronunciation of 咬's own sense, so excluded from the word page's field (kept, correctly split, on the character page where both readings belong).
+
+No homophones found (`注音: ⼘ㄨ` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+**Incidental character-page fixes** (咬 (char).md was already perfected, 2026-02-17): split the malformed `vietnamese` list into two proper items; removed the duplicate `品詞` field; fixed heading level `# Notes` → `## Notes`; added a missing `## Words` self-entry (the trivial single-character stand-in case).
+
+Next (alphabetical): 品. Next (blank-key backlog): 山岡 — both lists remain open.
+
+### 2026-07-27, iteration 389 — skipped [[words/山岡|山岡]], perfected [[words/巨金|巨金]]
+
+**Skipped 山岡** (blank-key backlog) as questionable rather than fixing it. Investigated its four non-Mandarin/Cantonese readings via search and found the whole premise shaky: Japanese やまおか (yamaoka) is overwhelmingly attested only as a *surname* (~48,000 bearers, traced to a village name), not as ordinary vocabulary meaning "hill" — no dictionary evidence of a common-noun use. The stored `korean: "언덕, 구릉"` are native Korean words for "hill/hillock," not a Sino-Korean reading of the compound; the phonologically-derivable Sino-Korean form 산강 turned out to be unattested (the only real word "산강" is an unrelated homophone, 山薑, a plant name). The Vietnamese compositional form "sơn cương" is likewise unattested. So three of four non-Chinese readings for this word may not be real usages at all — a judgment call about how (or whether) to represent an apparently vault-invented/aspirational compound, which reaches the "questionable, ask the user" bar rather than something safe to silently fix. Left entirely untouched; no verbiage removed.
+
+**Moved to the next blank-key item, [[words/巨金|巨金]]** ("titanium," a `periodictable`-tagged neologism). This word's `mandarin`/`cantonese` fields (tài/taai3) already correctly hold the reading of the *avoided* standard element character 钛, not a compositional reading of 巨+金 — confirmed against the established convention documented on the already-perfected sibling [[蛍金]] ("yttrium"), where `mandarin`/`cantonese` likewise give the avoided character's reading and `korean`/`japanese`/`vietnamese` give the element's loanword name. This is the opposite convention from non-neologism compounds like [[塩素]] (corrected to compositional readings in an earlier iteration) — the distinguishing signal is the `neologism` tag itself, checked before assuming any correction was needed.
+
+**Content removed/corrected**: dropped the duplicate `品詞` field (redundant with `pos`). **Content corrected**: `aliases: 鉅` — 鉅 is an unrelated variant form of 巨 itself ("giant, huge"), not the avoided titanium element character; corrected to `钛` (the real avoided character, matching the `mandarin`/`cantonese` fields and the alias convention seen on [[蛍金]], whose own alias is its avoided character 釔). No homophones found (`注音: ㄍ⼄ㄍㄧㄇ` is unique among words).
+
+Expanded the single-bullet Notes into the full structured format used across this neologism series (Form / Etymological chain / Motivation / Type of formation / Comparative CJKV forms / Conclusion, matching [[丹金]]'s and [[蛍金]]'s style) — this coinage turned out to be one of the cleaner ones in the series: titanium is itself named after the Titans (mythological giants), so 巨 ("giant") is a direct semantic calque of the element's own etymology rather than an arbitrary substitution. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 品. Next (blank-key backlog): 巻耳 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 390 — [[words/品|品]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 名詞` and `date-last-perfect`; `kwin: true` was already present and correct (matching the character page). `vietnamese:` was present but blank — filled with `phẩm`, a well-known, unambiguous Hán Việt reading (sản phẩm "product," phẩm chất "quality") with no competing candidates on the character page, so no search verification was needed this time.
+
+No homophones found (`注音: ㄆㄨㄇ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch, covering the character's 会意 origin (triplicated 口) and the extended "grade, rank, moral character" senses alongside the core "article, item" meaning. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 哭. Next (blank-key backlog): 巻耳 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 391 — [[words/巻耳|巻耳]]
+
+Worked from the blank-key backlog. This one is the title of the third ode of the Shijing (詩經), and turned out to have a genuinely disputed botanical identity — but unlike 山岡 last iteration, this was fully documentable rather than blocking, since good scholarship exists on both sides of the dispute.
+
+No homophones found (`注音: ㄍ⼔ㄋㄋㄧ` is unique among words). `kwin: false` added: [[巻]] (char) is kwin, but [[耳]] (char) is not, so per the AND-rule the compound is false.
+
+**Content added**: filled in previously-missing `cantonese` (gyun2 ji5), `japanese` (けんじ — the classical kundoku on'yomi reading of the poem title, not modern vocabulary; documented that Japanese instead uses オナモミ onamomi as the everyday cocklebur name), `korean` (권이, alongside the native plant name 도꼬마리 dokkomari, documented in prose not the field), and `vietnamese` (quyển nhĩ — the standard Hán Việt title in Vietnamese Kinh Thi scholarship; documented the native plant name ké đầu ngựa and the parallel Sino-Vietnamese thương nhĩ/蒼耳 in prose). Verified all via search rather than guessing given the character-level ambiguity (蒼/耳 sharing 耳 with this word's own second character was itself part of the historical confusion being documented).
+
+**Documented rather than silently resolved**: the vault's own aliases (苍耳, 菤耳) reflect the traditional Mao-commentary identification of 卷耳 with cocklebur (Xanthium), but a real scholarly dissent argues this is a millennium-old conflation from the shared 耳 character, and that the Erya/Lu Ji descriptions (white flowers, thin vines, bland edible leaves) actually match Cerastium (mouse-ear chickweed) far better — which is what this vault's own English gloss ("field chickweed; field mouse-ear") already follows. Wrote this dispute into the Notes explicitly rather than picking a side or treating the aliases as settled fact. Also noted the polyphonic Mandarin reading (juǎn, not the character's usual juàn "roll, volume" reading) already correctly present in the word's own `mandarin` field. Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 哭. Next (blank-key backlog): 弾丸 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 392 — [[words/哭|哭]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (character page's own `pos` was an empty string, not authoritative; `kwin` matches the character page's own false value — single-character word inherits directly).
+
+**Content resolved**: verified via search that `khốc` is the genuine Hán Việt reading (thống khốc 痛哭 "to cry bitterly," directly paralleling the character page's own example compound; khốc khấp 哭泣, đại khốc 大哭). The other stored candidate, `khóc` — the ordinary everyday Vietnamese verb "to cry" — is not noise or an unrelated native word; it's a genuine doublet from an older, pre-standard ("Old Sino-Vietnamese") borrowing layer of 哭 itself, later fully vernacularized while `khốc` stayed confined to the literary compound register. Documented both in prose rather than silently picking one and discarding the other.
+
+No homophones found (`注音: ㄎㄛㄎ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch, including the ritual-mourning-wail sense distinct from ordinary crying (noted specifically for Korean 곡하다). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唄. Next (blank-key backlog): 弾丸 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 393 — [[words/弾丸|弾丸]]
+
+Worked from the blank-key backlog. No homophones found (`注音: ㄉㄚㄋㄏ⺢ㄋ` is unique among words). `kwin: false` confirmed against the constituent characters: [[丸]] is kwin, but [[弾]] is not, so per the AND-rule the compound stays false, matching what was already stored.
+
+[[弾]]'s own `stand_in` field is `弾丸` itself — meaning 弾 cannot appear independently as a word — added the required opening-bullet note. [[丸]]'s own `stand_in` is `薬丸`, a different compound, so no equivalent note was needed on that side.
+
+**Content added**: filled the previously-missing `cantonese` (daan6 jyun4, direct compositional reading) and `vietnamese` (đạn hoàn) fields. Verified via search: `hoàn` is the genuine Hán Việt reading of 丸 (dược hoàn 藥丸 "medicinal pill," cao hoàn 睪丸 "testicles"); the stored candidates `hòn`/`hỏn` are not noise but genuine lower-register doublets of the same root, generalized into the everyday word for "a rounded lump" (hòn đá, "a stone"); `giúp`/`xóp`/`xắp` are unrelated Nôm phonetic-loan readings for different native words. `đạn hoàn` itself is attested (including in the idiom đạn hoàn chi địa, "land the size of a pellet," paralleling 彈丸之地) but is classical/literary register — modern Vietnamese normally says viên đạn or bare đạn for "bullet," documented in prose. Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唄. Next (blank-key backlog): 恩人 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 394 — [[words/唄|唄]]
+
+Worked from the alphabetical worklist. This one turned out to need a substantive correction rather than just frontmatter filling.
+
+**Content removed/corrected**: the entry previously stored `mandarin: bei` and glossed the whole word as **"ugh"** — this reflected the modern colloquial Mandarin sentence-final modal particle 呗 (bei, neutral tone, "well, ...; of course; I guess," marking resignation/obviousness), which is a purely Mandarin-internal innovation with no counterpart in Cantonese/Korean/Vietnamese/Japanese and does not descend from the same Middle Chinese source as this word's own Dan'a'yo reading (bai/ㄅㄚㄧ). That Dan'a'yo reading instead matches Cantonese baai6, Korean 패, Vietnamese bái, and Japanese on'yomi バイ — all reflexes of the character's other, genuinely shared Sino-xenic sense: a bound transliteration element (from Sanskrit bhāṇaka) surviving only in 梵唄 (fànbài, "Buddhist chant, hymn"), 범패 (beompae, a UNESCO-recognized Korean Buddhist chant tradition), and phạm bái. Corrected `mandarin` to `bài`, `english` to "Buddhist chant; hymn", and `pos` from `感詞` to `名詞` (a noun sense, not an interjection) to match. Removed the stray duplicate `品詞` field. Also fixed the stale "ugh" gloss in the already-perfected [[倍]]'s existing homophone callout, which cross-referenced this word by its old wrong gloss.
+
+Documented in prose (not silently discarded) that Japanese additionally has a completely unrelated, far more productive native kun'yomi reading うた (uta, "song, ballad" — 子守唄 "lullaby," 小唄, 長唄), the character's actual dominant living sense in Japanese, but belonging to a different word from the one this entry tracks. Note: `characters/唄 (char).md` still carries the same `mandarin: bei`/`english: ugh` error and remains unperfected — left untouched per the standing rule (data source only until its own character-sweep turn), but flagging here so the error isn't re-copied from it later.
+
+**Content added**: filled in `japanese` (バイ) and `vietnamese` (bái), both previously missing. `characters:` reformatted from a bare string to list form. Added a `>[!warning] Homophones` callout completing a three-way group with [[倍]] ("double; times," already perfected, cross-linking here) and [[牌]] ("playing card," still unperfected). Wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唇. Next (blank-key backlog): 恩人 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 395 — [[words/恩人|恩人]]
+
+Worked from the blank-key backlog. Frontmatter was already almost complete (only `date-last-perfect` and the Notes body were missing) — verified rather than rewrote most fields: `kwin: false` confirmed against the constituents ([[恩]] is kwin, [[人]] (char) is not, so the AND-rule holds); `cantonese: jan1 jan4` confirmed correct as the direct compositional reading of 恩 (jan1) + 人 (jan4), not an error despite initially looking suspicious next to a real bug found on the character page (below). Neither constituent's `stand_in` points to 恩人 ([[恩]]'s is 恩寵; [[人]]'s is 人 itself), so no stand-in note was needed.
+
+**Incidental character-page fix**: `characters/人 (char).md`'s own `cantonese` field held `fu1 jan4` — not a reading of 人 at all, but the Cantonese reading of the unrelated compound 夫人 ("lady, wife"), evidently pasted in by mistake. Corrected to the character's real single-syllable reading `jan4`, since that page is already perfected (2026-03-29) and this is the kind of incidental fix applied to perfected sibling pages throughout this sweep. This also confirms 恩人's own `jan1 jan4` was never affected by the character-page error, since it was independently correct.
+
+No homophones found (`注音: ㄚㄋㄋㄧㄋ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唇. Next (blank-key backlog): 悪鬼 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 396 — [[words/唇|唇]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` and `kwin: false` (matching the character page; the word page previously lacked these entirely).
+
+**Content verified rather than corrected**: both the stored `korean: 진` and `vietnamese`-candidate `thần` initially looked like probable errors — "thần" in particular is much better known as the Hán Việt reading of the unrelated character 神 ("deity") — but research confirmed both are genuine: 唇's phonetic component is 辰, and 辰-phonetic characters (神, 辰, 晨, 震, 娠, 唇 among them) form a shared reading cluster in both Sino-Korean (진) and Sino-Vietnamese (thần) by regular derivation, not confusion with a different character. Documented that `thần` is nonetheless marginal/literary — modern Vietnamese normally uses the native `môi` for "lips" (the idiom 唇亡齒寒 is usually rendered "môi hở răng lạnh" in living speech, not the Sino-Vietnamese "thần vong xỉ hàn").
+
+No homophones found (`注音: ㄙㄨㄋ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唉. Next (blank-key backlog): 悪鬼 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 397 — [[words/悪鬼|悪鬼]]
+
+Worked from the blank-key backlog. Frontmatter was already essentially complete — only `date-last-perfect` and the Notes body were missing. Verified rather than corrected: `kwin: true` confirmed against the constituents (both [[悪]] (char) and [[鬼]] are individually kwin, so the AND-rule is satisfied); `vietnamese: ác quỷ` confirmed as correct without needing further search, matching 鬼's own stored `quỷ` candidate directly. Neither constituent's `stand_in` points to 悪鬼 ([[悪]]'s is 悪 itself; [[鬼]]'s is 鬼神), so no stand-in note was needed.
+
+No homophones found (`注音: ㄚㄎㄍㄨㄧ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section, including a brief note distinguishing 悪鬼 (specifically malevolent) from plain 鬼 (which can denote a morally neutral spirit). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唉. Next (blank-key backlog): 惰素 — both lists remain open (山岡 remains open and skipped).
+
+### 2026-07-27, iteration 398 — skipped [[words/唉|唉]], perfected [[words/唯|唯]]
+
+**Skipped 唉** (alphabetical worklist) as questionable. Its Notes body reads only "consider blending in with the mouth-less version" — an editorial note flagging a possible structural merge with [[哀]] (the "mouth-less" character, āi, "grief, sorrow"; 哀傷/哀悼/哀求 exist as words built on it, but no standalone 哀.md word page does). Whether to consolidate 唉 and 哀's entries is a vault-structure decision for the user, not something to resolve unilaterally — left entirely untouched, verbiage preserved rather than removed.
+
+**Moved to the next alphabetical item, [[words/唯|唯]]** ("only"). Added missing `pos: 修飾語` and `kwin: false` (matching the character page). **Content resolved**: `vietnamese:` was present but blank; filled with `duy`, confirmed via search as the genuine Hán Việt reading (duy nhất "the only one," duy trì "to maintain," duy tâm "idealism"). The character page's long list of other candidates (dạ, dói, dúi, duối, gioè, giói, and several more) are attested Nôm readings — 唯 reused to phonetically spell unrelated native words — not Hán Việt readings, and were excluded; a secondary Hán Việt reading, duỵ, corresponds to a separate classical "assent" sense of 唯 not covered by this word's own Dan'a'yo derivation, documented in prose rather than added to the field.
+
+Added a `>[!warning] Homophones` callout for [[遺]] ("leave behind; bequeath") — same reading yei/예/⼶ㄧ, confirmed via anchored grep. 遺 is still unperfected, so only this side of the reciprocal link was added. `characters:` reformatted from a bare string to list form. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唵. Next (blank-key backlog): 惰素 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 399 — [[words/惰素|惰素]]
+
+Worked from the blank-key backlog. Another `periodictable`-tagged neologism, this time for argon — confirmed `mandarin`/`cantonese` (yà/aa3) already correctly hold the reading of the avoided standard element character 氬/氩, per the convention established on [[蛍金]] and just applied to [[巨金]] two iterations ago; `korean`/`japanese`/`vietnamese` correctly hold the loanword names. Verified `vietnamese: agon` via search — confirmed correct (the Vietnamized scientific spelling, distinct from the more casual borrowed "Argon" seen in commercial usage today).
+
+**Content removed**: dropped the duplicate `品詞` field (redundant with `pos`). No homophones found (`注音: ㄉ⺢ㄙㄛ` is unique among words). `kwin: false` confirmed against the constituents: [[素]] is kwin, but [[惰]] is not, so the AND-rule holds. Neither constituent's `stand_in` points to 惰素 ([[惰]]'s is 怠惰; [[素]]'s is 要素), so no stand-in note was needed.
+
+Expanded the two-bullet Notes into the full structured format used across this neologism series (Form / Etymological chain / Motivation / Type of formation / Comparative CJKV forms / Conclusion). This is another unusually clean coinage: argon's own international name derives from Greek ἀργός ("idle, inactive, lazy"), a direct reference to its chemical inertness as a noble gas — so 惰 ("lazy") is a faithful semantic calque of the element's own etymology, exactly parallel to how [[巨金]] (titanium) calques the Titans/"giant" etymology. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 唵. Next (blank-key backlog): 捕獲 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 400 — [[words/唵|唵]]
+
+Worked from the alphabetical worklist (唉 remains skipped, same unresolved structural question as last iteration — checked again briefly, no change, moved past it to the next unstamped file). **Content corrected**: the English gloss previously read **"Ohm"** — the SI electrical-resistance unit, an unrelated word — corrected to **"Om,"** the Sanskrit sacred mantra-opening syllable (ॐ, oṃ) this character actually transliterates; the second gloss, "Aum," was already correct and is the fuller Sanskrit spelling of the same syllable. (Note: `characters/唵 (char).md` carries the same "Ohm" error and remains unperfected — left untouched per the standing rule, flagged here so it isn't recopied later.)
+
+`characters:` reformatted from a bare string to list form. Added missing `pos: 名詞` (matching the character page). **Content resolved**: `vietnamese:` was present but blank; filled with `úm`, confirmed via search as the vernacular Buddhist-register reading (attested directly in "Úm ma ni bát di hồng," the Vietnamese transliteration of the Om mani padme hum mantra); a more formal doublet, `án`, is also attested for the same sense. The character page's other candidate, `ướm`, is a genuine but wholly unrelated Nôm phonetic loan for the native word "to try on" (ướm giày) — excluded as unconnected to the Sanskrit sense.
+
+No homophones found (`注音: ㄛㄇ` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 啄. Next (blank-key backlog): 捕獲 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 401 — [[words/捕獲|捕獲]]
+
+Worked from the blank-key backlog. **Content corrected**: `characters:` was listed as `[獲, 捕 (char)]` — backwards, since the word's own 羅馬字/諺文/注音 (bohwag/보확/ㄅㄛㄏ⺢ㄎ) read 捕 first, then 獲; reordered to `[捕 (char), 獲]` to match. Added missing `cantonese: bou6 wok6` (direct compositional reading).
+
+**Content resolved**: filled the previously-missing `vietnamese` field with `bộ hoạch`. This took more digging than usual: 捕 has two attested Hán Việt readings, `bổ` and `bộ` — and the Hán Nôm dictionary's own compound listing glosses 捕獲 specifically as "bộ hoạch" (paralleling 逮捕/tái bộ, "to arrest," which also uses `bộ` rather than `bổ`), so `bộ` was used rather than the more generic `bổ`. `獲`'s `hoạch` was confirmed as the standard reading (thu hoạch 收獲, "to harvest"). The character pages' other stored candidates — bõ/bố/bủa(buả) for 捕, oách for 獲 — are legitimate Nôm readings for unrelated native words, not noise but also not Hán Việt; a further candidate, `huếch`, turned out to likely be a mix-up with the unrelated character 擴 (khoách/huếch, "to expand") rather than a genuine reading of 獲 at all, and was dropped. Documented that everyday spoken Vietnamese normally uses the native `bắt`/`bắt giữ` instead, with `bộ hoạch` reserved for bookish/legal/wildlife-protection registers.
+
+No homophones found (`注音: ㄅㄛㄏ⺢ㄎ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 啄. Next (blank-key backlog): 昆虫 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 402 — [[words/啄|啄]]
+
+Worked from the alphabetical worklist (唉 still skipped, unresolved). **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (matching the character page).
+
+**Content resolved**: confirmed via search that `trác` is the genuine Hán Việt reading (ẩm trác "drinking and pecking," trác mễ "to peck rice," attested in classical Đỗ Phủ poetry). The character page's other candidates, `trốc` ("head," a Central Vietnamese dialect word) and `chác` ("to barter, trade"), are unrelated Nôm phonetic-loan readings with no connection to pecking, and were excluded.
+
+Added a `>[!warning] Homophones` callout for [[禿]] ("bald") — same reading tog/톡/ㄊㄛㄎ, confirmed via anchored grep. 禿 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 善. Next (blank-key backlog): 昆虫 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 403 — [[words/昆虫|昆虫]]
+
+Worked from the blank-key backlog. Frontmatter was already essentially complete (`vietnamese: côn trùng` already matched both character pages' own stored candidates, so no search verification was needed this time) — mainly `date-last-perfect` and the Notes body were missing.
+
+[[虫]]'s own `stand_in` field is `昆虫` itself — meaning 虫 cannot appear independently as a word — added the required opening-bullet note, plus a note on the character's special exception (it appears bare, without ruby or accompanying characters, when used as a determiner). [[昆]]'s own `stand_in` is 昆 itself, so no equivalent note was needed on that side. `kwin: false` confirmed: [[昆]] is kwin, but [[虫]] is not, so the AND-rule holds.
+
+No homophones found (`注音: ㄍㄛㄋㄐㄨㄫ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 善. Next (blank-key backlog): 春節 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 404 — [[words/善|善]]
+
+Worked from the alphabetical worklist. **Content corrected**: `korean: 착할` and `japanese: よ-い` were both native-reading glosses (Korean 훈 "kind, good"; Japanese kun'yomi よい) mistakenly placed in the Sino-xenic reading fields — corrected to `선` (seon) and `ZEN`, matching the character page's own `korean`/`japanese` fields (the native forms are correctly stored there as `korean_native`/`japanese_native`, so nothing was lost, just misplaced on the word page). Also corrected `pos` from `実詞` to `性詞`, matching the character page's own descriptive/adjectival classification.
+
+**Content removed**: blank placeholder keys `hsk_level:`, `swadesh:` (optional-only-when-nonempty per checklist), and a stray `hanmun_edu_level` field — not a word-page frontmatter field at all per the checklist; that data already exists correctly on the character page.
+
+**Content resolved**: `vietnamese: thiện, thiến` was a malformed comma-joined single value. Verified via search that `thiến` is genuinely attested (not an error, despite closely resembling the unrelated common word "thiến," to castrate) — but for a distinct, rare classical verb sense of 善 ("to approve of, consider right," or "to be on friendly terms with"), not the "good, virtuous" sense this word covers. Kept only `thiện` as the field value and documented `thiến`'s narrower sense in prose rather than silently merging both into one field or dropping the genuine secondary reading entirely.
+
+No homophones found (`注音: ㄙ⼶ㄋ` is unique among words). Wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喋. Next (blank-key backlog): 春節 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 405 — [[words/春節|春節]]
+
+Worked from the blank-key backlog. `kwin: true` confirmed: both [[春]] (char) and [[節]] (char) are individually kwin, satisfying the AND-rule. Neither constituent's `stand_in` points to 春節 (both are 春/節 itself), so this is the "technically just two words juxtaposed" case already noted in the pre-existing Notes — expanded rather than replaced.
+
+**Incidental character-page fix**: `characters/春 (char).md`'s own `vietnamese` field held a malformed single string `"xoan, xuân"` instead of two list items. Split into a proper two-item list; verified via search that both are genuine — `xuân` is the standard literary Hán Việt reading, and `xoan` is a real vernacular doublet of the same character, attested directly in "Hát Xoan" (a UNESCO-recognized Phú Thọ folk-singing tradition explicitly documented as originally "Hát Xuân," i.e. "Spring Singing") — not contamination from the unrelated homograph "xoan" (chinaberry tree). Applied since that character page is already perfected (2026-07-23).
+
+No homophones found (`注音: ㄑㄨㄋㄐㄝㄊ` is unique among words). Removed the blank-optional `date-last-perfect:` key by filling it. Added the `>[!tip]` banner and expanded the Notes into full prose, including a cross-link to [[季節]]'s discussion of the Tết/節 doublet relevant to this word's own Vietnamese reading. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喋. Next (blank-key backlog): 書面 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 406 — [[words/喋|喋]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (matching the character page).
+
+**Content resolved**: confirmed via search that `điệp` is the genuine Hán Việt reading (điệp điệp 喋喋 "chattering on without stopping"; điệp huyết 喋血 "bloodshed" — matching both of 喋's two attested Mandarin senses), part of a large shared phonetic series (牒/蝶/諜/疊/碟, all read điệp). The character page's other candidate, `nhịp`, is not a Hán Việt reading at all but a Nôm phonetic loan — one of seven glyphs historically used to write the wholly unrelated native word nhịp ("beat, rhythm, tempo") — excluded here.
+
+Added a `>[!warning] Homophones` callout for [[畳]] ("tatami mat") — same reading deb/덥/ㄉㄝㄆ, confirmed via anchored grep. 畳 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喚. Next (blank-key backlog): 書面 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 407 — [[words/書面|書面]]
+
+Worked from the blank-key backlog. **Content removed**: the stray duplicate `品詞` field (redundant with the already-present `pos: 性詞`). `characters:` was already list-form; renamed the `## Etymology` heading to the standard `## Notes` and expanded it into full prose. Added missing `kwin: false`: [[面]] is kwin, but [[書]] is not, so the AND-rule holds.
+
+**Content added**: filled the previously-missing `vietnamese` field with `thư diện`, directly attested in Hán Nôm dictionary sources (glossed "in writing, on paper") though classical/literary rather than live colloquial vocabulary — modern Vietnamese normally uses văn bản/bằng văn bản instead, documented in prose. Verified the constituent readings via search: 書's other candidate `thơ` is a Nôm/vernacular word (native "poem, letter") that historically borrowed 書's glyph for phonetic writing, not a genuine Hán Việt doublet; 面's other candidate `miến` is real but belongs to 面's role as the simplified form of 麵 ("noodles"), not the "face, surface" sense relevant here — `diện` was used instead.
+
+No homophones found (`注音: ㄙ⼄ㄇ⼶ㄋ` is unique among words). Neither constituent's `stand_in` points to 書面 ([[書]]'s is 書本; [[面]]'s is 表面), documented explicitly rather than silently omitted. Added the `>[!tip]` banner. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喚. Next (blank-key backlog): 楕圓 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 408 — [[words/喚|喚]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 事詞` and `kwin: true` (matching the character page). `vietnamese:` was present but blank — filled with `hoán`, a single, unambiguous candidate on the character page (attested in hô hoán, "to shout, cry out"), so no extensive search was needed this time.
+
+This word completes a three-way homophone group with [[亘]] (already perfected, already cross-linking here from an earlier iteration) and [[環]] (still unperfected) — added the reciprocal `>[!warning] Homophones` callout referencing both. Wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喜. Next (blank-key backlog): 楕圓 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 409 — [[words/楕圓|楕圓]]
+
+Worked from the blank-key backlog. Found two real content bugs here, not just missing fields.
+
+**Content corrected**: `諺文` read `슈원`, inconsistent with both constituents' own readings ([[楕]]'s own 諺文 is 타; [[圓]]'s is 원) and with this word's own `羅馬字` (ta'wen) and `注音` (ㄊㄚ·⼔ㄋ) — corrected to `타원`. Also corrected `kwin` from `false` to `true`: both [[楕]] (char) and [[圓]] (char) are individually kwin, so the AND-rule was actually satisfied — the stored `false` was simply wrong.
+
+[[楕]]'s own `stand_in` field is `楕圓` itself — meaning 楕 cannot appear independently as a word — added the required opening-bullet note. [[圓]]'s own `stand_in` is 圓 itself, so no equivalent note was needed on that side.
+
+**Content added**: filled the previously-missing `vietnamese` field with `thỏa viên`, directly attested in Hán Nôm dictionary sources as the Sino-Vietnamese rendering of 橢圓 (glossed "hình bầu dục"), though classical/literary rather than colloquial — modern Vietnamese normally says hình elip or hình bầu dục instead, documented in prose. `thỏa` was confirmed as 楕/橢/椭's standard reading via search (the character's own `vietnamese` field was completely empty, not just malformed); `viên` was already correct for 圓.
+
+**Incidental character-page fix**: `characters/圓 (char).md`'s own `vietnamese` field held a malformed single string `"viên, vin"` instead of two list items. Split into a proper two-item list; `vin` is a genuine Nôm (vernacular) reading rather than a second Hán Việt doublet, per the same source. Applied since that character page is already perfected (2026-07-24).
+
+No homophones found (`注音: ㄊㄚ·⼔ㄋ` is unique among words). Added the `>[!tip]` banner and expanded the Notes into full prose. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喜. Next (blank-key backlog): 檸檬 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 410 — [[words/喜|喜]]
+
+Worked from the alphabetical worklist (session note: the cron interval was changed to every 10 minutes by the user between this iteration and the last; no effect on the perfecting workflow itself). `characters:` reformatted from a bare string to list form. Added missing `pos: 事詞` and `kwin: false` (matching the character page). Also corrected the `>[!tip]` banner, which read the generic "This is a page about the word." with no title — filled in "喜".
+
+**Content resolved**: `vietnamese:` was present but blank; filled with `hỷ`, confirmed via search as the prescriptively correct Hán Việt reading (hoan hỷ "joyful"; song hỷ 囍, the doubled-happiness wedding symbol). The character page's other candidate `hỉ` turned out to be a genuine, extremely common colloquial doublet of the same reading (not a separate word) — documented in prose rather than added to the field, since `hỷ` is the citation form. `hẻ` and `hởi` are unrelated Nôm readings and were excluded.
+
+No homophones found (`注音: ㄏㄧ` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喝. Next (blank-key backlog): 檸檬 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 411 — [[words/檸檬|檸檬]]
+
+Worked from the blank-key backlog. A genuine cranberry pair: both [[檸]] and [[檬]]'s own `stand_in` fields point to 檸檬 itself, and both carry the `#cranberry` tag — neither character can appear independently, so the opening bullet needed both stand-in notes rather than the usual single one.
+
+**Content corrected**: `kwin` was `false`; both [[檸]] (char) and [[檬]] (char) are individually kwin, so the AND-rule was actually satisfied — corrected to `true`. Cleaned up the malformed `vietnamese` value (previously the comma-joined string "quả chanh, chanh") down to the single native word `chanh`, with the fuller phrase `quả chanh` kept in prose — this isn't even a Sino-Vietnamese reading of the compound at all, since (per 檸's own existing Notes) Vietnamese uses its native word for lemon rather than any rendering of 檸檬, paralleling how Japanese and Korean both just borrow "lemon" directly (レモン/레몬) instead of using the character compound.
+
+No homophones found (`注音: ㄌㄝㄇㄛㄋ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section, describing the deliberate reading overrides on both characters (documented on the character pages themselves, dated 2026-07-12) that made this phonetic transliteration spell "lemon" directly. Caught and fixed my own typo mid-edit (accidentally wrote the unrelated character 檠 instead of 檸 three times) before finalizing. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喝. Next (blank-key backlog): 流星 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 412 — [[words/喝|喝]]
+
+Worked from the alphabetical worklist. **Content corrected**: `mandarin` was `hē` — the reading for 喝's unrelated "to drink" sense — while this word's own gloss ("yell, shout") belongs to the character's separate reading `hè` (喝彩, hècǎi, "to cheer"; 喝道, hèdào, "to clear the way by shouting"). Corrected to `hè`, confirmed via search. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading.
+
+`characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (character page's own `pos` was an empty string, not authoritative; `kwin` matches the character page's own false value).
+
+**Content resolved**: confirmed via search that `hát` is the Hán Việt reading for this specific "shout" sense (hát thái 喝采, "to cheer, applaud," directly matching Mandarin 喝彩) — distinct from the more familiar homophonous word hát meaning "to sing." A secondary reading, `ái`, is also genuinely attested for the same sense (ái thái, an alternate rendering of 喝采). The character page's other candidates (hét, hết, hít, kệ, ạc, ặc) are Nôm readings, not Hán Việt; `hét` in particular (the everyday native word for "to scream, yell") closely resembles `hát` in sound and meaning — likely why Nôm scribes chose 喝 to write it — but remains a separate native word, not a genuine doublet.
+
+No homophones found (`注音: ㄏㄛㄊ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喫. Next (blank-key backlog): 流星 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 413 — [[words/流星|流星]]
+
+Worked from the blank-key backlog. **Content corrected**: `kwin` was `false`; both [[流]] (char) and [[星]] (char) are individually kwin, so the AND-rule was actually satisfied — corrected to `true`. **Content removed**: blank placeholder keys `hsk_level:`, `swadesh:`, and an empty `aliases: []` (optional-only-when-nonempty per checklist).
+
+**Content added**: filled the previously-missing `vietnamese` field with `lưu tinh`, confirmed via search as an attested Sino-Vietnamese synonym of the native sao băng ("shooting star") — but of a more formal, literary/scientific register, with sao băng preferred in everyday speech, documented in prose.
+
+Neither constituent's `stand_in` points to 流星 ([[流]]'s is 流動; [[星]]'s is 星 itself), so no stand-in note was needed. No homophones found (`注音: ㄌ⼜ㄙㄝㄫ` is unique among words). Added the `>[!tip]` banner and expanded the Notes into full prose. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 喫. Next (blank-key backlog): 混沌 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 414 — [[words/喫|喫]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (matching the character page).
+
+**Content resolved**: confirmed via search that `khiết` is the genuine Hán Việt reading (phonologically regular from Middle Chinese, parallel to 潔/khiết, 結/kết; glossed "to eat/drink," with a secondary "to endure, suffer" sense in khiết khuy 喫虧). The character page's other candidates: `khế`/`khịa`/`khịt` are Nôm phonetic-loan readings for unrelated native words; `ngật` actually belongs to the separate character 吃 ("to stutter"), conflated here because 吃 later absorbed 喫's "eat" sense in modern Chinese; `khè` is unattested in any dictionary source checked and looks like noise or a transcription error. None were used in the field, all documented in prose rather than silently dropped.
+
+Added a `>[!warning] Homophones` callout for [[隙]] ("gap; crevice") — same reading keg/컥/ㄎㄝㄎ, confirmed via anchored grep. 隙 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 嘆. Next (blank-key backlog): 混沌 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 415 — [[words/混沌|混沌]]
+
+Worked from the blank-key backlog. This page already had exceptionally rich, well-sourced prose (Zhuangzi allegory, Liezi cosmogony, cross-linguistic register comparison) — the work here was structural/frontmatter, not content-writing. Renamed `## Definition and Etymology` to the standard `## Notes` and added the required opening character-linking bullet; the rest of the existing prose was left untouched.
+
+[[沌]]'s own `stand_in` field is `混沌` itself — meaning 沌 cannot appear independently as a word — added the required opening-bullet note. [[混]]'s own `stand_in` is 混合, a different compound, so no equivalent note was needed on that side. `kwin: true` confirmed: both [[混]] and [[沌]] are individually kwin.
+
+**Incidental character-page fix, and a genuine discrepancy caught along the way**: the word's own `vietnamese: hỗn độn` didn't match `characters/沌.md`'s only stored candidate, `xộn` — investigated rather than assumed either side was right. Confirmed via search that `độn` is 沌's actual primary Hán Việt reading (the Hán Nôm dictionary ties it directly to hỗn độn/混沌 itself), while `xộn` is real but belongs to a different layer (a Nôm phonetic-loan reading for an unrelated native syllable). The character page was simply missing its primary reading, not wrong — added `độn` alongside the existing `xộn` on that already-perfected (2026-02-02) page.
+
+No homophones found (`注音: ㄏㄛㄋㄉㄛㄋ` is unique among words). Added the `>[!tip]` banner. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 嘆. Next (blank-key backlog): 瀑布 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 416 — [[words/嘆|嘆]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` (character page's own `pos` was an empty string, not authoritative); `kwin: true` was already correct on the character page and added to the word page (previously absent).
+
+**Content resolved**: confirmed via search that `thán` is the standard Hán Việt reading (cảm thán "exclamation," thán từ "interjection"). The character page's candidate `than` turned out to be a genuine doublet — the vernacular layer of the same character, "to lament, complain" (than thở, than vãn) — notably a homograph of the unrelated native word than "coal," which derives from 炭, itself this word's own homophone. The remaining candidates (han, hen, thăn, thơn) are Nôm phonetic-loan readings with no living connection to "sigh," tracing to unrelated words for greeting/rust, asthma, and pork loin respectively.
+
+Added a `>[!warning] Homophones` callout completing a three-way group with [[灘]] ("beach; shoal") and [[炭]] ("charcoal") — both still unperfected, so only this side of the reciprocal link was added on each. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 噸. Next (blank-key backlog): 瀑布 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 417 — [[words/瀑布|瀑布]]
+
+Worked from the blank-key backlog. **Content corrected**: `mandarin` was the malformed string `"pùbù, bàobù"`. Confirmed via search that 瀑布 is read exclusively `pùbù` — 瀑's second reading, `bào`, only applies to an unrelated "heavy rain" sense and a place name (瀑河), never to 瀑布 itself — so `bàobù` was dropped entirely rather than kept as a spurious alternate.
+
+[[瀑]]'s own `stand_in` field is `瀑布` itself — meaning 瀑 cannot appear independently as a word — added the required opening-bullet note. [[布]]'s own `stand_in` is 亜麻布, a different compound, so no equivalent note was needed on that side. `kwin: false` confirmed: both [[瀑]] and [[布]] are individually not-kwin.
+
+**Content resolved**: `vietnamese` already held `thác nước` (the native everyday term); verified via search that a Sino-Vietnamese compositional reading, `bộc bố`, is also directly attested (Hán Nôm dictionaries, and the classical association with Lý Bạch's poem title Vọng Lư Sơn Bộc Bố, 望廬山瀑布) — switched the field to `bộc bố` to match this sweep's established convention of using the compositional Hán Việt reading as the field value, with the everyday native term (thác/thác nước) documented in prose instead, consistent with how [[季節]], [[巻耳]], and other compounds were handled.
+
+No homophones found (`注音: ㄅㄛㄎㄅㄛ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 噸. Next (blank-key backlog): 炭素 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 418 — [[words/噸|噸]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` and `kwin: true` (matching the character page).
+
+**Content resolved**: confirmed via search that `đốn` is genuinely attested — a Hán Nôm dictionary directly glosses 噸 as "đốn," a phonetic transliteration of English "ton" (1000 kg) — not an error or mix-up with the unrelated, homophonous native verb đốn ("to fell/chop down a tree") or adjective ("shoddy, vile"). It is a literary/character reading rather than the word Vietnamese speakers actually use, however; everyday Vietnamese says tấn (from French tonne) for the unit — documented both senses in prose.
+
+No homophones found (`注音: ㄊㄛㄋ` is unique among words). Wrote the full `## Notes` section from scratch, describing the deliberate reading alteration (noted on the character page) that let 噸/頓 take the vacant Dan'a'yo syllable "ton" to match Western orthography. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 嚇. Next (blank-key backlog): 炭素 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 419 — [[words/炭素|炭素]]
+
+Worked from the blank-key backlog. Another `periodictable`-tagged entry, but explicitly marked "not a neologism" in its own pre-existing Notes — 炭素 is a real, established word (Japanese たんそ is the genuine everyday term for carbon), unlike the invented calques ([[巨金]], [[惰素]]) worked earlier this sweep. Confirmed `vietnamese: cacbon` (a direct phonetic loanword) is correctly NOT compositional, following the same real-word pattern as [[塩素]] rather than the neologism convention.
+
+**Content removed**: dropped the duplicate `品詞` field (redundant with `pos`). Added missing `cantonese: taan3 sou3` (direct compositional reading, matching [[炭]] (char)'s own taan3 and [[素]]'s own sou3). `kwin: true` was already correct, confirmed against both constituents (both individually kwin).
+
+No homophones found (`注音: ㄊㄚㄋㄙㄛ` is unique among words). Expanded the single-line Notes into full prose, cross-linking the parallel real-word/neologism distinction already established this sweep. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 嚇. Next (blank-key backlog): 燐素 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 420 — [[words/嚇|嚇]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (matching the character page).
+
+**Verified rather than corrected**: the stored `korean: 하` initially looked like a likely error — it doesn't end in the -k final that the word's own `羅馬字`/`諺文`/`注音` (hag/학/ㄏㄚㄎ) and the Middle Chinese entering-tone final would suggest — but research confirmed 嚇 genuinely has two separate Sino-Korean readings for two separate senses: `하` (departing tone, "to frighten/threaten," attested in 恐嚇/공하, 威嚇/위하) and `혁` (a different entering-tone reading, for an unrelated "to be furious" sense). `하` was correct as stored.
+
+**Content resolved**: confirmed via search that `hách` is attested as the Hán Việt reading (khủng hách 恐嚇, uy hách 威嚇), but these are essentially dictionary-only constructions — modern Vietnamese uses đe dọa/hăm dọa/dọa nạt for "to threaten." The character's sense survives in living Vietnamese only narrowed to the adjective "haughty, overbearing" (hống hách, hách dịch) — documented in prose rather than presenting `hách` as if it still meant "to threaten" in ordinary speech.
+
+Added a `>[!warning] Homophones` callout for [[核]] ("nucleus; pit") and [[鶴]] ("crane") — same reading hag/학/ㄏㄚㄎ, confirmed via anchored grep; both still unperfected, so only this side of the reciprocal link was added on each. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 回. Next (blank-key backlog): 燐素 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 421 — [[words/燐素|燐素]]
+
+Worked from the blank-key backlog. This one looked at first like it might follow [[炭素]]/[[塩素]]'s real-word convention (no `neologism` tag, all fields superficially filled in), but investigation showed the opposite: research confirmed no language actually names phosphorus with an X+素 compound — Mandarin uses the distinct single character 磷 (lín, stone radical, not 燐's fire-radical "phosphorescence" sense), Japanese uses katakana リン (not compositional りんそ), Korean uses 린 (a single morpheme), and Vietnamese uses the phonetic loan photpho. This is the [[巨金]]/[[惰素]] neologism pattern, not the [[塩素]]/[[炭素]] real-word pattern — added the missing `neologism` tag.
+
+**Content corrected**: `mandarin` was `lìn` — corrected to `lín`, matching the real element character 磷's actual tone (and matching `characters/燐.md`'s own stored reading). `korean` was the compositional `린소`; corrected to `린` — the real single-morpheme Korean name, in the vault's standing North Korean/문화어 form. Investigated a genuine puzzle along the way: the commonly-seen Korean elemental name "인" is not a separate word but the South-Korean 두음법칙-shifted surface form of the same 린 reading (word-initial ㄹ→ㅇ, the same rule behind 李→이, 龍→용) — confirming `린` was the right vault-convention value, not an error needing "인" instead.
+
+**Content removed**: dropped the duplicate `品詞` field (redundant with `pos`).
+
+[[燐]]'s own `stand_in` field is `燐素` itself — added the required opening-bullet note. `kwin: true` was already correct (both [[燐]] and [[素]] individually kwin). No homophones found (`注音: ㄌㄧㄋㄙㄛ` is unique among words). Expanded the single-line Notes into the neologism series' structured format. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 回. Next (blank-key backlog): 玻金 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 422 — [[words/回|回]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: true` (matching the character page).
+
+**Content resolved**: confirmed via search that `hồi` is the standard Hán Việt reading (luân hồi 輪回 "saṃsāra," matching the character page's own 輪回 entry; hồi âm, "to reply, echo back"). The character page's other candidate, `hòi`, turned out to be a genuine but categorically different reading — a Nôm (vernacular) value, phonologically a distinct syllable from `hồi` rather than a diacritic variant — used when 回 writes an unrelated native word, not a Sino-Vietnamese loan; excluded from the field and documented in prose. A secondary Hán Việt reading, `hối` ("to fear, shy away from"), is also attested but nearly obsolete.
+
+Added a `>[!warning] Homophones` callout for [[潰]] ("burst; fester") and [[灰]] ("ash") — same reading hoi/회/ㄏㄛㄧ, confirmed via anchored grep; both still unperfected, so only this side of the reciprocal link was added on each. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 圏. Next (blank-key backlog): 玻金 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 423 — [[words/玻金|玻金]]
+
+Worked from the blank-key backlog. Another `neologism`/`periodictable` entry (bohrium), already carrying good etymological prose (玻 as the standard Mandarin transliteration syllable for "Bohr"), but with `mandarin`/`cantonese`/`vietnamese` all blank and `kwin` wrong.
+
+**Content added**: filled `mandarin`/`cantonese` with `bō`/`bo1`, confirmed via search as the readings of the real standard Chinese element character 𨨏 (coined 1998 for element 107) — matching [[玻]]'s own reading exactly, which confirms 玻 was deliberately chosen for this coinage because it already carries the "Bohr" transliteration value. Filled `vietnamese` with `bohri`, a direct IUPAC phonetic loan.
+
+**Content corrected**: `kwin` was `false`; both [[玻]] (char) and [[金]] (char) are individually kwin, so the AND-rule was actually satisfied — corrected to `true`. **Content removed**: dropped the duplicate `品詞` field (redundant with `pos`).
+
+Neither constituent's `stand_in` points to 玻金 ([[玻]]'s is 玻璃; [[金]]'s is 金 itself), so no stand-in note was needed. No homophones found (`注音: ㄆㄚㄍㄧㄇ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 圏. Next (blank-key backlog): 白金 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 424 — [[words/圏|圏]]
+
+Worked from the alphabetical worklist. **Content corrected**: `korean` was stored as the literal string `"null"` — corrected to `권`, matching the character page's own value. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` and `kwin: true` (matching the character page).
+
+**Content resolved**: `vietnamese:` was present but blank on both the word and character pages. Confirmed via search that 圈/圏 has two genuine, sense-split Hán Việt readings: `quyển`, for the abstract "sphere, zone" sense this word's own gloss covers (khí quyển 氣圈, "atmosphere," an everyday word; cực quyển 極圈, "polar circle," directly paralleling this word's own Japanese 極圏 kyokuken), and `khuyên`, for the separate concrete "ring, circle, to encircle" sense (lan khuyên, "an enclosure, pen") — used `quyển` in the field since it matches this word's specific sense, documenting `khuyên` in prose rather than conflating the two.
+
+Added a `>[!warning] Homophones` callout for [[巻]] ("roll; roll up") and [[絹]] ("silk") — same reading gwen/권/ㄍ⼔ㄋ, confirmed via anchored grep; both still unperfected, so only this side of the reciprocal link was added on each. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 圓. Next (blank-key backlog): 白金 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 425 — [[words/白金|白金]]
+
+Worked from the blank-key backlog. A real compositional word (platinum), not a neologism — Mandarin/Cantonese/Japanese/Korean/Vietnamese all use the same direct 白+金 pattern productively, paralleling [[塩素]]/[[炭素]]. **Content removed**: dropped the duplicate `品詞` field (redundant with `pos`).
+
+**Tooling note, not a content issue**: the stored `vietnamese` value's trailing character was a non-breaking space (U+00A0), not a regular space — this silently defeated several Edit-tool match attempts before being caught via a raw Python read (`repr()` on the line) that exposed the actual byte content. Cleaned up via direct file rewrite (Python) rather than the Edit tool once identified; flagging in case other pages carry the same invisible-character issue. Reformatted the field from a single-item list to a plain scalar value while fixing it.
+
+`kwin: false` confirmed against the constituents: [[金]] is kwin, but [[白]] (char) is not, so the AND-rule holds. No homophones found (`注音: ㄅㄚㄎㄍㄧㄇ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 圓. Next (blank-key backlog): 筆画 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 426 — [[words/圓|圓]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 名詞` and `kwin: true` (matching the character page). `vietnamese` filled with `viên`, already established as the correct reading from earlier work this sweep on [[楕圓]] — no fresh search needed.
+
+Added a `>[!warning] Homophones` callout for [[為]] ("for; because of; to act as") — same reading wen/원/⼔ㄋ, confirmed via anchored grep. 為 is still unperfected, so only this side of the reciprocal link was added. Wrote the full `## Notes` section, including the vault's own deliberate divergence from shinjitai (keeping 圓 rather than 円, to avoid the yen-currency association) already documented on the character page. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 圧. Next (blank-key backlog): 筆画 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 427 — [[words/筆画|筆画]]
+
+Worked from the blank-key backlog. **Content corrected**: `korean` was `획수` (hoeksu, "stroke count, number of strokes") — a real but distinct concept from this word's own sense. Corrected to `필획` (pilhoek), the Standard Korean Dictionary's actual term for "a stroke" (the dots/lines making up a character), confirmed via search.
+
+**Content removed**: blank placeholder keys `hsk_level:`, `swadesh:` (optional-only-when-nonempty per checklist).
+
+**Content resolved**: filled the previously-missing `vietnamese` field with `bút hoạ`, directly attested as the compositional Sino-Vietnamese reading (glossed "nét trong chữ Hán," "a stroke in a Han character") — though it functions as a dictionary calque rather than everyday vocabulary; ordinary Vietnamese just says nét. Neither constituent's `stand_in` points to 筆画 ([[筆]]'s is 筆 itself; [[画]]'s is 絵画), so no stand-in note was needed.
+
+**Incidental character-page fix**: `characters/画.md`'s own `vietnamese` field held a malformed single string `"dạch, hoạ, vạch, vệch"` instead of separate list items. Split into a proper list and added the missing `hoạch` reading (画's separate "to demarcate, plan" sense, directly relevant to disambiguating this word's own "draw/stroke" sense from it) — confirmed via the same search pass. Applied since that character page is already perfected (2026-07-22).
+
+No homophones found (`注音: ㄆㄨㄊㄏ⺢ㄎ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 圧. Next (blank-key backlog): 耕種 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 428 — [[words/圧|圧]]
+
+Worked from the alphabetical worklist. **Content corrected**: `cantonese` was `zong1` — confirmed via search that this bears no relation to 壓/圧's actual phonetic series (which gives *aat*-type readings from phonetic 厭, not *zong*) — corrected to `aat3`. `korean` was stored as the literal string `"null"` — corrected to `압`, matching the character page's own value. (Note: `characters/圧 (char).md` carries the same `zong1` error and remains unperfected — left untouched per the standing rule, flagged here so it isn't recopied later.)
+
+`characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (matching the character page). `vietnamese:` was present but blank; filled with `áp`, an extremely common and unambiguous reading (áp lực "pressure," huyết áp "blood pressure") requiring no further verification.
+
+No homophones found (`注音: ㄚㄊ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 地. Next (blank-key backlog): 耕種 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 429 — [[words/耕種|耕種]]
+
+Worked from the blank-key backlog. **Content corrected**: `cantonese` was `gang1 zung3`; confirmed via search that `gang1` doesn't match 耕's real reading (`gaang1`, per Unihan and Wiktionary's own entry for this exact compound) — corrected to `gaang1 zung3`. The `zung3` half was already correct: 種 is polyphonic by sense (zung2 noun "seed/kind" vs. zung3 verb "to plant/sow"), and this word correctly uses the verb tone.
+
+[[耕]]'s own `stand_in` field is `耕種` itself — added the required opening-bullet note.
+
+**Content added**: filled the previously-missing `vietnamese` field with `canh chủng`, directly attested (Hán Nôm dictionary: "cày ruộng và gieo giống," "to plow fields and sow seeds"). Untangled a three-way distinction on 種's side: `chủng` is the Hán Việt reading for this verb sense; `giống` is a genuine native doublet of the same root but functions mainly as a noun ("seed variety"); `trồng` (the everyday verb "to plant") is an entirely separate, unrelated native word despite sometimes sharing 種's Nôm character. On 耕's side, the other candidate `cầy` (cày, "to plow") is likewise native Vietnamese vocabulary from Proto-Vietic, not a Hán Việt doublet — excluded.
+
+No homophones found (`注音: ㄍㄚㄫㄐㄛㄫ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 地. Next (blank-key backlog): 肛門 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 430 — [[words/地|地]]
+
+Worked from the alphabetical worklist. **Content corrected**: `mandarin` was `"de dì"` — a malformed two-reading string. `dì` is correct for this word's own "land" sense; `de` is 地's separate, unrelated neutral-tone grammatical-particle reading (an adverbial suffix, like 的/得, as in 慢慢地 "slowly") — dropped rather than kept as a spurious second value.
+
+`characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` and `kwin: false` (matching the character page). **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading.
+
+**Content resolved**: confirmed via search that `địa` is the standard Hán Việt reading, forming a literary/vernacular doublet pair with the native đất ("earth, soil"). The character page's other candidate, `rịa`, turned out not to be a genuine secondary reading at all — it's a one-off Nôm phonetic loan confined to the place name Bà Rịa, with no independent "land" meaning — excluded rather than treated as a real doublet.
+
+Added a `>[!warning] Homophones` callout for [[雉]] ("pheasant") — same reading diǝ/듸/ㄉㄧㄜ, confirmed via anchored grep. 雉 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 均. Next (blank-key backlog): 肛門 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 431 — [[words/肛門|肛門]]
+
+Worked from the blank-key backlog. Frontmatter was already mostly complete (pos/kwin present); the interesting part was verifying the Korean field. `korean: 항문` initially looked like it might not match this word's own Dan'a'yo derivation (강몬/ㄍㄚㄫㄇㄛㄋ, which would mechanically suggest 강문) — investigated rather than assumed error, and confirmed [[肛]]'s own Sino-Korean reading genuinely is 항 (hang), an irregular divergence from the Middle-Chinese-derived value already correctly captured on that character's own page (諺文 강 vs. korean 항). No fix needed; `항문` was correct as stored.
+
+**Content added**: filled the previously-missing `vietnamese` field with `soang môn`, the reading directly attested in Hán Nôm dictionary sources for this exact two-character compound. [[肛]] itself carries five competing Hán Việt readings (cương, giang, khang, soang, xoang), three of which (giang, soang, xoang) independently mean "anus" — used `soang` since it's the dictionary's own preferred reading for the 肛門 compound specifically, though `giang môn` may see occasional classical/TCM use. The character page's other candidate, `dom`, is a genuine native Vietnamese doublet for the same body part (lòi dom, "hemorrhoid prolapse"), not noise, but etymologically separate from the Sino-Vietnamese layer. Also documented that none of this is the term Vietnamese speakers actually use — the standard word is hậu môn ("back gate"), corresponding to an entirely different Chinese compound (後門), not 肛門.
+
+No homophones found (`注音: ㄍㄚㄫㄇㄛㄋ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 均. Next (blank-key backlog): 自己 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 432 — [[words/均|均]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 性詞` and `kwin: true` (matching the character page). `vietnamese` filled with `quân`, a single unambiguous candidate (quân bình "balance," bình quân "average" — both directly paralleling this word's own Mandarin compounds), requiring no further verification search.
+
+No homophones found (`注音: ㄍ⼜ㄋ` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 坐. Next (blank-key backlog): 自己 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 433 — [[words/自己|自己]]
+
+Worked from the blank-key backlog. This page already had good, precise grammatical prose (Definition/Function/Usage Principle sections distinguishing 自己 from [[自身]]/[[自我]]) — preserved verbatim and folded into the standard `## Notes` structure rather than rewritten.
+
+[[己]]'s own `stand_in` field is `自己` itself — meaning 己 cannot appear independently as a word — added the required opening-bullet note. [[自]]'s own `stand_in` is 自身, a different compound, so no equivalent note was needed on that side.
+
+**Content resolved**: the stored `vietnamese` value was a malformed three-way comma string, `"tự kỷ, tự mình, bản thân"`, conflating three genuinely different things. Session's web-search budget was exhausted for this iteration, so this was resolved via careful cross-checked linguistic analysis rather than fresh citations (flagging that lower confidence honestly): `tự kỷ` is the compositionally correct Sino-Vietnamese reading of 自己 and survives in fixed compounds (vị kỷ 為己 "selfish," khắc kỷ 克己 "stoic self-restraint"), but as a free-standing modern word it has been almost entirely captured by an unrelated sense, "autism" (trẻ tự kỷ, "autistic child") — a genuine semantic-drift trap, not something to use as the primary gloss. `tự mình` is native Vietnamese covering 自己's adverbial/emphatic uses ("to do it oneself"), not its pronoun uses. `bản thân` (from the distinct but closely related compound 本身) is the standard modern term for 自己's pronoun-like uses (bản thân tôi, "myself") and was kept as the field value, with the other two documented in prose rather than discarded.
+
+**Content removed**: blank placeholder keys `swadesh:`, `aliases:` (optional-only-when-nonempty per checklist). No homophones found (`注音: ㄐㄧㄜㄍㄧ` is unique among words). Added the `>[!tip]` banner and a cross-linguistic prose section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 坐. Next (blank-key backlog): 花梗 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 434 — [[words/坐|坐]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 性詞` (matching the character page). `vietnamese:` was present but blank — filled with `toạ`, the unambiguous Hán Việt reading (tọa lạc "located," tọa thiền "sitting meditation").
+
+Session's web-search budget was exhausted, so the character page's other two candidates were assessed via linguistic reasoning rather than fresh citations (flagged explicitly, per the standing rule against fabricating certainty): `ngồi` is the everyday native Vietnamese verb for "to sit" — no plausible Middle Chinese correspondence connects it to 坐's reading, and base body-position verbs like this are classic non-borrowed core vocabulary cross-linguistically, so it's a native synonym rather than a doublet. `toà`/`tòa` actually belongs to the related character 座 ("seat," a later graphic split distinguishing the noun from 坐's verb sense, the same verb/noun tone-alternation pattern as 好 hǎo/hào) — this vault already aliases 座 into 坐's own character page rather than giving it a separate entry, so the reading rides along consistently with that existing convention rather than being noise, but it reflects 座's "seat" sense (tòa nhà "building," tòa án "court"), not 坐's "to sit."
+
+Added a `>[!warning] Homophones` callout for [[渣]] ("dregs; sediment") — same reading jwa/좌/ㄐ⺢, confirmed via anchored grep. 渣 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 坑. Next (blank-key backlog): 花梗 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 435 — [[words/花梗|花梗]]
+
+Worked from the blank-key backlog. [[梗]]'s own `stand_in` field is `花梗` itself — added the required opening-bullet note. [[花]]'s own `stand_in` is 草花, so no equivalent note was needed. Added missing `kwin: false` ([[花]] is kwin, [[梗]] is not) and `korean: 화강` (direct compositional reading, previously absent).
+
+**Content added**: filled the previously-missing `vietnamese` field with `hoa cánh`, the direct compositional Sino-Vietnamese reading. Confirmed via search that `cánh` is genuinely 梗's Hán Việt reading for the "stem" sense (matching its appearance in cát cánh 桔梗, balloon-flower root) — out of a large candidate list on the character page, sorted the rest into two groups: `cạnh`/`ngạnh` are also genuine Hán Việt readings of 梗 but for its separate "edge" and "barb, obstinate" senses; `cành`/`ngành`/`nhánh`/`nhành` are legitimate native/Nôm doublets for "branch"; `gánh`/`ngáng`/`ngánh`/`chành` have no real documented connection to 梗 at all. Documented that everyday Vietnamese botanical usage prefers the native cuống hoa over this compositional reading.
+
+**Incidental character-page fix**: `characters/花.md`'s own `vietnamese` field held a malformed single string `"hoa, huê"` instead of two list items — split into a proper list. Applied since that page is already perfected (2026-03-20).
+
+No homophones found (`注音: ㄏ⺢ㄍㄚㄫ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 坑. Next (blank-key backlog): 蘿蔔 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 436 — [[words/坑|坑]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` (character page's own `pos` was an empty string, not authoritative); `kwin: false` was previously absent, added matching the character page.
+
+**Content resolved** (session's search tooling unavailable, resolved via phonological reasoning with the uncertainty flagged honestly): `khanh` is the Hán Việt reading, following the regular Middle Chinese kʰæŋ → kh-...-anh correspondence pattern (更→canh, 杏→hạnh, 冷→lãnh) and directly attested in phần thư khanh nho (焚書坑儒, matching the historical episode already referenced on the character page). The other candidate, `ganh`, could not be confirmed as connected to 坑 at all — no regular sound-change path exists, and the real Vietnamese words ganh/gánh ("carry on a shoulder pole") and gành ("rocky outcrop") have no semantic link to "pit" — documented as likely spurious rather than silently kept or confidently deleted, since full verification wasn't possible this iteration.
+
+No homophones found (`注音: ㄎㄚㄫ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 坪. Next (blank-key backlog): 蘿蔔 — both lists remain open (山岡, 唉 remain open and skipped).
+
+### 2026-07-27, iteration 437 — skipped [[words/蘿蔔|蘿蔔]], perfected [[words/用言|用言]]
+
+**Skipped 蘿蔔** (blank-key backlog) as questionable. [[蔔]]'s own `stand_in` field is `蘿蔔` itself, but its own stored reading (`羅馬字: bug`, `諺文: 북`, `注音: ㄅㄨㄎ`) doesn't match the second half of the compound word's own reading (`bok`/`복` within `labok`/`라복`) — a real discrepancy with no supporting note (unlike, say, [[檸檬]]'s documented deliberate reading overrides) to indicate which value is intended to be authoritative. Investigating further, [[蘿]]'s own `english` field also reads "vinegar," which appears to be a plain gloss error (蘿 means "creeping vine, trailing plant," not "vinegar" — unrelated to 醋). Both characters are unperfected, so left entirely untouched rather than guessing at a fix; this is exactly the kind of judgment call the skip instruction is for. Moved on rather than resolving.
+
+**Perfected [[words/用言|用言]]** instead (the next blank-key item after 蘿蔔). This is a term from Japanese school-grammar tradition ("declinable word," verbs/adjectives, as opposed to [[体言]] taigen). Added missing `cantonese: jung6 jin4` (direct compositional reading). **Content removed**: blank placeholder keys `hsk_level:`, `swadesh:`, and an empty `aliases: []` (optional-only-when-nonempty per checklist).
+
+**Content added**: filled the previously-missing `vietnamese` field with `dụng ngôn` — confirmed via search that `dụng`/`ngôn` are each the correct standard Hán Việt readings of 用/言, but the compound itself does not appear to be an established, independently-attested Vietnamese linguistic term (Vietnamese material on Japanese grammar tends to keep the Japanese term directly); documented this as a transparent compositional gloss rather than presenting it as settled terminology. Noted that Korean 용언 is a partial exception among the four readings — it's genuinely native Korean grammatical terminology in its own right (Korean traditional grammar also distinguishes 용언/체언), not just a loan-gloss for discussing Japanese. Sorted 用's large candidate list into one genuine older-layer doublet (`dùng`, the everyday native verb "to use") and several unrelated rhyme-family words; same for 言's candidates, all of which turned out to be unrelated except the standard reading.
+
+No homophones found (`注音: ⼄ㄫ·ㄝㄋ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 坪. Next (blank-key backlog): 解決 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 438 — [[words/坪|坪]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 名詞` (matching the character page). `vietnamese:` was present but blank; filled with `bình`, confirmed via search as a genuine dictionary-attested reading specifically for this word's Japanese-unit sense (Thiều Chửu glosses 坪 directly as "the Japanese measurement system where 36 square thước make one bình") — not a mechanical phonetic-series artifact from 平, but also not living Vietnamese vocabulary; documented that Vietnamese material on tsubo/pyeong today just borrows the foreign terms directly, since Vietnam has its own unrelated traditional land-unit system (mẫu, sào, công).
+
+This word completes a three-way homophone group with [[丙]] (already perfected, already cross-linking here from an earlier iteration) and [[柄]] (still unperfected) — added the reciprocal `>[!warning] Homophones` callout referencing both. Wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 垣. Next (blank-key backlog): 解決 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 439 — [[words/解決|解決]]
+
+Worked from the blank-key backlog. Frontmatter was already essentially complete (`vietnamese: giải quyết` was already correct, matching both constituents' own established Hán Việt readings — no cleanup needed) — mainly `date-last-perfect` and the Notes body were missing. `kwin: false` confirmed: both [[解]] (char) and [[決]] (char) are individually not-kwin. Neither constituent's `stand_in` points to 解決 (both are 解/決 themselves), so no stand-in note was needed.
+
+No homophones found (`注音: ㄍ⼘ㄧㄎ⼔ㄊ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section, covering both characters' etymologies (解's 会意 composition; 決's "breach a dike" origin). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 垣. Next (blank-key backlog): 講演 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 440 — [[words/垣|垣]]
+
+Worked from the alphabetical worklist. `characters:` was already list-form. Added missing `pos: 名詞` (matching the character page). `vietnamese:` was present but blank — filled with `viên`, initially double-checked given how many unrelated characters (圓, 員, 園) also share that exact reading, but confirmed via search that this is genuine, legitimate homophony within the same phonetic series (元-series: 完 hoàn, 院 viện, 垣 viên, 袁/園/圓/員 viên) rather than a mix-up — attested in viên y ("wall moss/lichen").
+
+Added a `>[!warning] Homophones` callout for [[遠]] ("far; distant") — same reading 'on/온/ㄛㄋ, confirmed via anchored grep. 遠 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 域. Next (blank-key backlog): 講演 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 441 — [[words/講演|講演]]
+
+Worked from the blank-key backlog. **Content corrected**: `cantonese` was the malformed string `"gong2 jin2, gong2 jin5"`; the second candidate's `jin5` doesn't match [[演]]'s own established Cantonese reading (`jin2`, the only value stored on that character's page) — corrected to `gong2 jin2`, dropping `jin5` as unsupported.
+
+[[講]]'s own `stand_in` field is `講演` itself — added the required opening-bullet note. [[演]]'s own `stand_in` is 演 itself, so no equivalent note was needed on that side.
+
+**Content added**: filled the previously-missing `vietnamese` field with `giảng diễn`, confirmed via search as directly attested and matching the character order exactly — though in living Vietnamese it leans toward a narrower pedagogical sense ("the lecture method" of teaching) rather than "a lecture" generally; a reversed compound, `diễn giảng`, is also separately attested with a closer "public speaking" sense, and everyday spoken Vietnamese more often uses diễn thuyết or bài giảng/giảng bài instead of either order — documented all of this in prose.
+
+No homophones found (`注音: ㄍㄚㄫ·⼶ㄋ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 域. Next (blank-key backlog): 贖罪 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 442 — [[words/域|域]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` and `kwin: false` (matching the character page).
+
+**Content resolved**: confirmed via search that `vực` is the Hán Việt reading (khu vực "area, zone"; lĩnh vực "field, domain"). The character page's other candidates (bực, vác, vặc, vức) are genuine Nôm readings for unrelated native syllables, not Hán Việt doublets — excluded.
+
+**Homophone check turned up a false positive worth documenting rather than silently acting on**: an anchored grep for `注音: ㄨㄧㄎ` also matches [[羽翼]] ("wing; assistance"), but investigation showed this is a transcription artifact, not a real homophone — 羽翼's own `羅馬字` is `'u'ig` (羽 'u + 翼 'ig concatenated), while 域's is `wig`; the vault's bopomofo notation doesn't distinguish the glide "w-" from plain "u," so the two strings collide only at that lossy layer. No homophone callout was added for either word, and documented the reasoning in 域's own Notes so a future pass doesn't re-flag it as a missed callout.
+
+Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 堪. Next (blank-key backlog): 贖罪 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 443 — [[words/贖罪|贖罪]]
+
+Worked from the blank-key backlog. [[贖]]'s own `stand_in` field is `贖罪` itself — added the required opening-bullet note. [[罪]]'s own `stand_in` is 罪 itself, so no equivalent note was needed. **Content removed**: blank placeholder keys `hsk_level:`, `swadesh:`, and an empty `aliases: []` (optional-only-when-nonempty per checklist).
+
+**Content added**: filled the previously-missing `vietnamese` field with `thục tội`. Confirmed via search that `thục` is 贖's actual Hán Việt reading, while `chuộc` (the everyday verb "to redeem," chuộc lỗi) is a genuine older vernacular doublet of the same character rather than the Hán Việt form itself; `tội` is 罪's Hán Việt reading (extremely common, tội lỗi), while the character page's other candidate, `tụi`, is an unrelated colloquial word ("those guys, that group") that merely shares 罪's Nôm glyph. `thục tội` itself is attested but more literary/uncommon than the everyday native `chuộc tội` — documented both in prose.
+
+No homophones found (`注音: ㄙ⼄ㄎㄐㄛㄧ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 堪. Next (blank-key backlog): 蹴球 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 444 — [[words/堪|堪]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` and `kwin: false` (matching the character page).
+
+**Content resolved**: confirmed via search and phonological reasoning that `kham` is the Hán Việt reading (kham khổ "to endure hardship"; bất kham "unmanageable," directly paralleling 不堪) — also the etymologically expected form from Middle Chinese kʰ-...-am. The character page's other candidates, `khom` and `khăm`, are legitimate but separate Nôm readings for unrelated native words ("to stoop," "a mean trick") rather than Sino-Vietnamese doublets.
+
+This word completes a three-way homophone group with [[勘]] (already perfected, already cross-linking here from an earlier iteration) and [[龕]] (still unperfected) — added the reciprocal `>[!warning] Homophones` callout referencing both. Wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 報. Next (blank-key backlog): 蹴球 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 445 — [[words/蹴球|蹴球]]
+
+Worked from the blank-key backlog. Added missing `cantonese: cuk1 kau4` (direct compositional reading, matching the character pages' own values). `kwin: false` confirmed: [[蹴]] is kwin, but [[球]] is not.
+
+**No `vietnamese` field added** — investigated rather than guessing a compositional value. Confirmed via search that Vietnamese has no attested 蹴球-shaped term at all; a hypothetical "xúc cầu" (combining 蹴's own Hán Việt reading xúc with cầu) is phonologically plausible but was simply never lexicalized. Vietnamese instead has an exact structural parallel to the *Chinese* calque this word's own Notes already discuss: túc cầu (足球, "foot-ball"), a real dictionary-attested literary synonym for the sport, alongside the everyday native bóng đá ("kick-ball"). Documented this in prose rather than fabricating a field value or silently leaving the omission unexplained.
+
+No homophones found (`注音: ㄑㄨㄎㄍ⼜` is unique among words). Expanded the existing Notes (the East-Asia/West "soccer vs. football" ambiguity discussion was preserved verbatim) with the cross-linguistic paragraph above. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 報. Next (blank-key backlog): 週末 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 446 — [[words/週末|週末]]
+
+Worked from the blank-key backlog. `vietnamese: cuối tuần` was already present and correct as the real everyday Vietnamese word for "weekend" — but investigating it turned up a genuine etymological wrinkle worth documenting rather than leaving unexplained: `tuần` ("week") does NOT derive from 週/周 at all, despite looking like it should. Confirmed via search that it descends from the unrelated character 旬 (xún, "a 10-day period," one of the three ten-day divisions of a lunar month), whose meaning stretched to cover the imported 7-day week when Vietnamese never calqued 週/周 for "week" the way Mandarin/Japanese/Korean did. 週's own actual Hán Việt reading, `chu` (chu niên 週年 "anniversary"), is never used to mean "week" in Vietnamese; the character page's other candidate, `châu`, is a secondary Nôm-associated reading, not a rival word for "week" either. `kwin: false` confirmed: [[末]] is kwin, but [[週]] is not.
+
+No homophones found (`注音: ㄐㄨㄛㄇㄚㄊ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section, foregrounding the tuần/旬 etymology since it's the kind of thing that would otherwise look like an unexplained mismatch on a future pass. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 報. Next (blank-key backlog): 達金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 447 — [[words/報|報]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 事詞` (matching the character page). `vietnamese:` was present but blank; filled with `báo`, a single unambiguous candidate (báo cáo "to report," báo chí "the press") requiring no further verification.
+
+Added a `>[!warning] Homophones` callout for [[鮑]] ("abalone") — same reading bau/밧/ㄅㄚㄨ, confirmed via anchored grep. 鮑 is still unperfected, so only this side of the reciprocal link was added. Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 塊. Next (blank-key backlog): 達金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 448 — [[words/達金|達金]]
+
+Worked from the blank-key backlog. Another `neologism`/`periodictable` entry (darmstadtium), with `mandarin`/`cantonese`/`vietnamese` all blank. **Content added**: filled `mandarin`/`cantonese` with `dá`/`daat6`, confirmed via search as the readings of the real standard Chinese element character 鐽 (officially adopted 2003) — matching [[達]]'s own reading exactly, confirming 達 was deliberately chosen for this coinage. Filled `vietnamese` with `Darmstadti`, the attested term from Vietnamese Wikipedia. **Content removed**: dropped the duplicate `品詞` field.
+
+**Flagged rather than corrected**: research surfaced a possible spelling discrepancy in the pre-existing `korean` value (다름스타튬 vs. a possibly-more-standard 다름슈타튬) — but since this came from AI-summarized page extracts rather than a directly confirmed source, left it untouched rather than "fixing" it on medium confidence; noted explicitly in the word's own Notes so a future pass can verify properly rather than treating the silence as settled.
+
+No homophones found (`注音: ㄊㄚㄊㄍㄧㄇ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 塊. Next (blank-key backlog): 邁金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 449 — [[words/塊|塊]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` and `kwin: false` (matching the character page).
+
+**Content resolved**: confirmed via search that `khối` is the genuine Hán Việt reading (khối lượng "mass"; một khối "a block"), part of the same phonetic series as 傀 (khôi, khôi lỗi "puppet"). Sorted the character page's other four candidates: `hòn` is a legitimate native doublet assigned by meaning; `cỏi` plausibly connects to modern cõi ("realm") via 塊's "clod of earth" sense; `khói` is attested but belongs to an unrelated word meaning "smoke," reused purely for its sound; `khỏi` ("to avoid, escape") could not be confirmed in any dictionary source checked at all and looks like a likely transcription slip rather than a genuine reading — flagged in the word's own Notes rather than silently kept or deleted from the character page.
+
+No homophones found (`注音: ㄎㄛㄧ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 塔. Next (blank-key backlog): 邁金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 450 — [[words/邁金|邁金]]
+
+Worked from the blank-key backlog. Another `neologism`/`periodictable` entry (meitnerium), with `mandarin`/`cantonese`/`vietnamese` all blank. **Content added**: filled `mandarin` with `mài`, confirmed via search as the reading of the real standard Chinese element character 鿏/䥑 (officially adopted 1998) and matching [[邁]]'s own Mandarin reading exactly. A Cantonese reading for 鿏/䥑 itself couldn't be independently confirmed in dictionary sources checked, so `maai6` was used by extension from [[邁]]'s own stored value, consistent with this series' established pattern — documented that this particular value is extended-by-convention rather than independently verified. Filled `vietnamese` with `Meitneri`, the attested term from Vietnamese Wikipedia. **Content removed**: dropped the duplicate `品詞` field.
+
+No homophones found (`注音: ㄇㄚㄧㄍㄧㄇ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 塔. Next (blank-key backlog): 開墾 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 451 — [[words/塔|塔]]
+
+Worked from the alphabetical worklist. **Content corrected**: `mandarin` was `"tǎ, da"`. Confirmed via search that `da` is genuinely attested, but only as a variant-character substitution tied to one specific unrelated colloquial compound, 疙瘩/圪塔 (gēda, "a lump, bump"), where 塔 stands in phonetically for that compound's own second syllable — unrelated to this word's "pagoda" sense — dropped rather than kept.
+
+`vietnamese` was the malformed string `"tháp, thạp, thóp"`; `thạp` (a large jar/vessel, the well-known Đông Sơn bronze thạp đồng) and `thóp` (an infant's fontanelle) are both real, well-attested Vietnamese words, but Nôm loans of the glyph for unrelated native vocabulary, not readings of "tower" — narrowed to `tháp` alone.
+
+`characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` (matching the character page). No homophones found (`注音: ㄊㄚㄆ` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 填. Next (blank-key backlog): 開墾 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 452 — [[words/開墾|開墾]]
+
+Worked from the blank-key backlog. `vietnamese: khai khẩn` was already correct, matching both constituents' own established readings — no cleanup needed there. [[墾]]'s own `stand_in` field is `開墾` itself — added the required opening-bullet note. [[開]]'s own `stand_in` is 開放, a different compound, so no equivalent note was needed. `kwin: false` confirmed: both [[開]] and [[墾]] are individually not-kwin.
+
+No homophones found (`注音: ㄎㄚㄧㄎㄚㄋ` is unique among words). Renamed the `## Etymology` heading to the standard `## Notes` and expanded it into full prose. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 填. Next (blank-key backlog): 陸亀 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 453 — [[words/填|填]]
+
+Worked from the alphabetical worklist. **Content corrected**: `korean` was stored as the literal string `"null"` — corrected to `전`, matching the character page's own value. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` (matching the character page).
+
+**Content resolved**: `vietnamese: null` (a literal YAML null) replaced with `điền`, the standard Hán Việt reading (điền vào "to fill in [a form]"). Investigated the character page's second candidate, `đền`, rather than assuming it was either an error or plain noise: confirmed via search it's a genuine Old Sino-Vietnamese doublet — an earlier, separate borrowing layer of the same character (the same phenomenon as 燈's đăng/đèn pair) — that settled specifically onto 填's *other* sense: đền means "to compensate, repay" (đền bù, đền tội), matching this word's own "make good on" gloss precisely. Documented both readings and which sense each covers, rather than picking one arbitrarily or merging them.
+
+No homophones found (`注音: ㄉㄝㄋ` is unique among words). Changed heading level `# Notes` → `## Notes` and wrote the full Notes section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 墊. Next (blank-key backlog): 陸亀 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 454 — [[words/陸亀|陸亀]]
+
+Worked from the blank-key backlog. Added missing `cantonese: luk6 gwai1`, `korean: 륙구` (North Korean/문화어 form, avoiding the South Korean 두음법칙-shifted 육), and `kwin: false` (neither [[陸]] nor [[亀]] is individually kwin) — all previously absent entirely.
+
+**Content added**: filled the previously-missing `vietnamese` field with `lục quy`. Confirmed `quy` as 亀/龜's standard Hán Việt reading (long ly quy phượng, the traditional Four Auspicious Beasts; linh quy 靈龜 "sacred turtle"). Sorted the character page's other two candidates: `qui` is simply an older spelling variant of `quy` (same pronunciation, a common qu- spelling inconsistency); `quân` is likely a genuine secondary reading tied to 龜's separate "cracked, chapped" sense (龜裂) rather than "turtle" — flagged as plausible reasoning rather than a confirmed citation, since search tooling was unavailable this session.
+
+No homophones found (`注音: ㄌㄨㄎㄍㄨㄛ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 墊. Next (blank-key backlog): 駝背 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 455 — [[words/墊|墊]]
+
+Worked from the alphabetical worklist. **Content removed**: a stray leftover note, "needed dib" — apparently a reminder that the `羅馬字` value still needed filling in; it has since been filled (already `dib` before this iteration), so the note was removed as stale. Also removed `vietnamese: null` (a literal YAML null). `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` (matching the character page).
+
+**Content resolved with a deliberate editorial call, documented rather than silently made**: the character page's only stored candidate, `điếm`, is genuinely the formal/literary Hán Việt reading per dictionary sources — but it collides homophonically with an unrelated, vulgar modern word ("prostitute"), which actually traces to a different character, 店 ("shop"), converged in Sino-Vietnamese reading via the shared phonetic component 占. Used `đệm` instead as the field value — a genuine vernacular Nôm-layer doublet of the same character 墊, and also the everyday living word for "cushion, mattress" that matches this word's own gloss directly — with `điếm` documented in prose alongside the homophone-collision explanation rather than silently dropped.
+
+No homophones found (`注音: ㄉㄧㄆ` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壁. Next (blank-key backlog): 駝背 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 456 — [[words/駝背|駝背]]
+
+Worked from the blank-key backlog. [[駝]]'s own `stand_in` field is `駝背` itself — added the required opening-bullet note. [[背]]'s own `stand_in` is 背 itself, so no equivalent note was needed. Added missing `kwin: false` (neither [[駝]] nor [[背]] is individually kwin) and `korean: 타배` (direct compositional reading, previously absent).
+
+**Content added**: filled the previously-missing `vietnamese` field with `đà bối`, directly attested (Hán Nôm dictionary sources gloss it "lưng gù, gù lưng") though a learned/literary compound rather than the everyday native `gù`/`lưng gù`. Sorted 背's other candidates: `bội` is a legitimate secondary Hán Việt reading but tied to a separate sense ("betray," 背叛); `bồi`/`bổi` are unrelated — bồi belongs to entirely different characters (賠/陪/培) plus a separate colonial-era loan from English "boy," and bổi is a native word for "kindling, chaff."
+
+No homophones found (`注音: ㄉㄚㄅㄛㄧ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壁. Next (blank-key backlog): 高素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 457 — [[words/壁|壁]]
+
+Worked from the alphabetical worklist. **Content resolved**: `cantonese` was the malformed string `"bek3, bik1, bik3"`; `bik1` is the standard literary reading (壁虎, 壁畫) and was used as the field value; `bek3` is a legitimate but restricted vernacular reading tied specifically to 隔壁 ("next door"); `bik3` is rare/marginal. `vietnamese` was the malformed string `"bích, bệch, bịch, vách"`; `bích` is the sole Hán Việt reading (bích họa 壁畫, "mural") and was used as the field value; `vách` is a common, well-attested Nôm doublet (the everyday word for "wall"); `bịch`/`bệch` are genuine but archaic/marginal Nôm variants.
+
+`characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` (matching the character page).
+
+**Homophone check caught and avoided a false positive**: an anchored grep for `注音: ㄅㄝㄎ` also matches [[牆壁]] ("wall"), but investigation showed this is a data error on 牆壁's own page, not a real homophone — 牆壁's own `羅馬字`/`諺文` (`cwangbeg`/촹벅) show it's a two-syllable compound (牆's `cwang` + 壁's `beg`), so its `注音` should read `ㄑ⺢ㄫㄅㄝㄎ`, not the single syllable currently stored there. No callout was added; documented the reasoning in 壁's own Notes (a homophone-detection false positive, similar in kind to the 域/羽翼 case a few iterations back, but caused by an incomplete field rather than a notation-layer ambiguity).
+
+Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壅. Next (blank-key backlog): 高素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 458 — [[words/高素|高素]]
+
+Worked from the blank-key backlog. Another `periodictable` neologism (gallium); `mandarin`/`cantonese` (jiā/gaa1) were already correctly the avoided-character (鎵/镓) readings rather than compositional — verified rather than corrected, confirming 高 itself reads gāo/gou1, entirely different, so the stored values weren't a mismatch. **Content removed**: dropped the duplicate `品詞` field; fixed a typo in the existing Notes ("It is spell" → "It is spelled"). Added `aliases: 鎵` (the avoided character, per the [[蛍金]]-style convention).
+
+Added a `>[!warning] Homophones` callout for [[告訴]] ("to tell, inform") — same reading gauso/갓소/ㄍㄚㄨㄙㄛ, confirmed via anchored grep and (unlike a false positive caught two iterations ago on [[壁]]/[[牆壁]]) verified this time that the underlying 羅馬字/諺文 genuinely match too, not just the bopomofo string. 告訴 is still unperfected, so only this side of the reciprocal link was added.
+
+Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壅. Next (blank-key backlog): 鹸素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 459 — [[words/壅|壅]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 事詞` (matching the character page).
+
+**Content resolved**: confirmed via search that `ung` is a genuine, dictionary-attested Hán Việt reading (Thiều Chửu explicitly names it as an alternate) — though the more commonly cited classical reading for this sense is `ủng` (ủng tế, ủng trệ); documented both rather than silently swapping one for the other.
+
+Added a `>[!warning] Homophones` callout for [[翁]] ("old man," already perfected) — same reading ong/옹/ㄛㄫ, confirmed via anchored grep and cross-checked romanization (not just the bopomofo string, learning from the false-positive catch two iterations back). 翁 had no reciprocal callout yet despite being perfected, so added it there too as an incidental fix, along with removing its own stray duplicate `品詞` field and filling its own previously-missing `vietnamese: ông` (already discussed in that page's own prose but absent from frontmatter).
+
+Wrote the full `## Notes` section for 壅 from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壇. Next (blank-key backlog): 鹸素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 460 — [[words/鹸素|鹸素]]
+
+Worked from the blank-key backlog. Another `neologism`/`periodictable` entry (sodium), with `mandarin`/`cantonese` entirely absent (not just blank). **Content added**: filled with `nà`/`naap6`, the readings of the avoided standard element character 鈉/钠 — Cantonese reasoned from the shared phonetic component 内 (as in 納, naap6) rather than independently confirmed, since search tooling was unavailable this iteration; flagged that lower confidence explicitly. **Content removed**: dropped the duplicate `品詞` field. Added `aliases: 鈉` (the avoided character).
+
+Expanded the single-line Notes: 鹸素 turns out to belong to the same semantic-calque category as [[巨金]] (titanium/Titan) and [[惰素]] (argon/"lazy") rather than a phonetic one — 鹸 ("alkali, base") reflects sodium's defining chemical behavior (forming strong alkalis like NaOH) rather than any part of the international name "sodium"/"Natrium." No homophones found (`注音: ㄑㄝㄇㄙㄛ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壇. Next (blank-key backlog): 黄金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 461 — [[words/壇|壇]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` (matching the character page).
+
+**Content resolved**: confirmed via search that `đàn` is the sole standard Hán Việt reading (diễn đàn "forum," văn đàn "literary circle"). The character page's other candidate, `đườn`, turned out not to be a second meaning-bearing reading at all — it's a Nôm phonetic loan (rebus use of the glyph) for an unrelated native colloquial expression, "to lie sprawled out" (nằm đườn ra), with no connection to "altar."
+
+Added a `>[!warning] Homophones` callout for [[但]] ("but; only") — same reading dan/단/ㄉㄚㄋ, confirmed via anchored grep and cross-checked romanization. 但 was already perfected but had no reciprocal callout, so added it there too as an incidental fix, along with removing its own stray duplicate `品詞` field.
+
+Wrote the full `## Notes` section for 壇 from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 士. Next (blank-key backlog): 黄金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 462 — [[words/黄金|黄金]]
+
+Worked from the blank-key backlog. A real compositional word (gold), not a neologism — matches [[塩素]]/[[炭素]]/[[白金]]'s pattern. **Content corrected**: `japanese` was `おーごん`, mixing the katakana long-vowel bar into a hiragana string — corrected to `おうごん` (ōgon), confirmed via search as the standard spelling and a real word (though sitting in a more formal/figurative register above the everyday きん). Also corrected `kwin` from `false` to `true`: both [[黄]] (char) and [[金]] (char) are individually kwin, so the AND-rule was actually satisfied.
+
+`vietnamese: vàng` was already correct as the everyday word for both "gold" and "yellow/gold" — kept as-is rather than swapped for the compositional `hoàng kim`, which is also attested but, like Japanese おうごん, skews literary/figurative (thời hoàng kim, "a golden age") rather than serving as the everyday noun; documented both in prose rather than picking one to the exclusion of the other.
+
+No homophones found (`注音: ㄏ⺢ㄫㄍㄧㄇ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 士. Next (blank-key backlog): 黒金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 463 — [[words/士|士]]
+
+Worked from the alphabetical worklist. **Content removed**: a stray leftover fragment, the bare number "1194" — no discernible connection to this word's own data (not matching either `danayo_id` or `mc_id`); removed as stale. `characters:` reformatted from a bare string to list form. Added missing `pos: 名詞` (matching the character page).
+
+**Content resolved**: `vietnamese:` was present but blank; filled with `sĩ`, confirmed via search as the standard Hán Việt reading, extremely common as a professional/role suffix (bác sĩ, chiến sĩ, nghệ sĩ). The character page's other candidates are Nôm phonetic loans for unrelated native words: `sãi` ("Buddhist monk"), `sõi` ("fluent"), `sỡi` (more marginal still, no independent corroboration beyond the same single source as sõi) — none are doublets of "scholar/warrior."
+
+No homophones found (`注音: ㄙㄚㄧ` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壱. Next (blank-key backlog): 黒金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 464 — [[words/黒金|黒金]]
+
+Worked from the blank-key backlog. Another `neologism`/`periodictable` entry (hassium), with `mandarin`/`cantonese`/`vietnamese` all blank. **Content added**: filled `mandarin`/`cantonese` with `hēi`/`hak1`, confirmed via search as the readings of the real standard Chinese element character 𨭆 — matching [[黒]]'s own reading exactly, confirming the toponymic coincidence already documented in this word's own pre-existing Notes (黒/"black" doubling as the first syllable of 黑森州/Hessen) carries through consistently to the avoided-character convention too. Filled `vietnamese` with `Hassi`, following the same pattern as [[達金]]/[[邁金]]'s Darmstadti/Meitneri. **Content removed**: dropped the duplicate `品詞` field.
+
+No homophones found (`注音: ㄏㄨㄎㄍㄧㄇ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 壱. Next (blank-key backlog): 龍巻 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 465 — [[words/壱|壱]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 性詞`. `korean:` was present but entirely blank; filled with `일`, matching the character page's own value.
+
+**Content resolved**: `vietnamese:` was blank on both the word and character pages (no candidates stored at all). Confirmed via search that `nhất` is correct — identical to [[一]]'s own Hán Việt reading, since 壱/壹 is fundamentally the same morpheme in an elaborated, fraud-resistant form (the same function as spelling out "ONE" on a check) rather than a phonetically distinct character; this pattern holds across Mandarin/Cantonese/Japanese/Korean too, all collapsing onto 一's own readings. Confirmed the word's own specific "single-minded, wholehearted" sense is attested in nhất tâm (一心/壹心).
+
+Homophone callout for [[一]] and [[逸]] was already present and did not need changes. Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 変. Next (blank-key backlog): 龍巻 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 466 — [[words/龍巻|龍巻]]
+
+Worked from the blank-key backlog. **Content corrected**: `korean` was `폭풍` ("storm, tempest" generically) — not a match for the specific "tornado" sense at all. Confirmed via search and corrected to `용오름` (yong-oreum, "dragon's ascent"), the term Korean meteorological/journalistic usage actually uses, sharing this word's own dragon metaphor; documented the more common English loanword 토네이도 and the rarer Sino-Korean calque 용권(풍) in prose.
+
+**No `vietnamese` field added** — investigated rather than guessing. Confirmed no attested Sino-Vietnamese compound exists for this word (a hypothetical "long quyển" is phonologically constructible but unattested anywhere). Vietnamese instead independently coined its own dragon-metaphor term, vòi rồng ("dragon's spout") — a striking cross-linguistic parallel to this word's own "dragon roll" imagery, arrived at separately rather than borrowed; documented this in prose instead of fabricating a field value.
+
+**Incidental character-page fixes** (`characters/龍 (char).md` was already perfected, 2026-02-22): removed a stray duplicate `品詞` field, and fixed a truncated/garbled sentence in the existing Notes ("...in Japanese!  I" → completed and cleaned up).
+
+No homophones found (`注音: ㄌ⼄ㄫㄍ⼔ㄋ` is unique among words). Added the `>[!tip]` banner and wrote the full `## Notes` section. Caught and fixed a stray non-English word (Russian "живой") that slipped into my own draft before finalizing. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 変. Next (blank-key backlog): 今朝安 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 467 — [[words/変|変]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` and `korean: "null"` (literal YAML nulls) — replaced with the verified values. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 性詞` (matching the character page).
+
+**Content resolved**: `vietnamese:` filled with `biến`, a single unambiguous candidate (biến đổi "to change," biến mất "to disappear") requiring no further verification. This word completes a homophone pair with [[便]] (already perfected, already cross-linking here from an earlier iteration) — the callout was already present on 便's side and just needed adding here.
+
+**Incidental character-page fix**: `characters/変 (char).md`'s own frontmatter had a stray duplicate `品詞` field — removed (that page is already perfected, 2026-07-24).
+
+Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 夏. Next (blank-key backlog): 今朝安 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 468 — [[words/今朝安|今朝安]]
+
+Worked from the blank-key backlog. This turned out to be a Dan'a'yo-original invented greeting (part of a family: [[今昼安]] "good afternoon," [[今夜安]] "good evening," all built on 今+[time of day]+安), not a natural cross-linguistic word — so `mandarin`/`cantonese`/`japanese`/`korean`/`vietnamese` are each meant to hold that language's own real "good morning" greeting, not a compositional reading of the three Dan'a'yo characters.
+
+**Content corrected**: `mandarin` was `zǎochen` — the bare noun "morning," not a greeting at all. Confirmed via reasoning that `zǎoshang hǎo` (already listed among this word's own `aliases`) is the standard everyday greeting, and corrected to it; noted `zǎo'ān` as a fully equivalent alternative. `cantonese` was entirely blank; filled with `zou2 san4` — the same characters as the bare "morning" noun, but genuinely used as the actual Cantonese greeting itself, a real cross-dialect divergence rather than an error to fix.
+
+Verified Korean `안녕하세요` is correct as-is despite looking like a mismatch at first glance: Korean has no time-of-day-specific greeting the way English/Vietnamese do, so the same general greeting correctly appears on both this word and its "good evening" sibling — not a copy-paste error.
+
+None of the three constituent characters' `stand_in` fields point to this compound, so no stand-in note was needed. No homophones found. Added the `>[!tip]` banner and wrote the full `## Notes` section. Flagged in passing (not fixed, out of scope for this word): the sibling [[今夜安]] has a much more obviously broken `mandarin`/`cantonese` (currently "dàishù"/"algebra," entirely unrelated) that will need attention whenever it comes up in this sweep. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 夏. Next (blank-key backlog): 佛雷素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 469 — [[words/夏|夏]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` (matching the character page).
+
+**Content resolved**: confirmed via reasoning (search unavailable this iteration) that `hạ` is the standard Hán Việt reading (hạ chí 夏至, xuân hạ thu đông), but that `hè` — an Old Sino-Vietnamese doublet of the same character from an earlier borrowing layer, the same pattern as trà/chè "tea" — has become the dominant everyday word (mùa hè, nghỉ hè) surpassing the more literary mùa hạ. Kept `hạ` as the field value per this sweep's convention of using the standard reading, documenting the reversal in prose since it's the more interesting/relevant fact here.
+
+**Incidental character-page fix**: `characters/夏 (char).md`'s own `vietnamese` field held a malformed single string `"hạ, hè"` instead of two list items — split into a proper list. Applied since that page is already perfected (2026-07-23).
+
+No homophones found (`注音: ㄏ⼘` is unique among words). Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 夜. Next (blank-key backlog): 佛雷素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 470 — [[words/佛雷素|佛雷素]]
+
+Worked from the blank-key backlog. Another `neologism`/`periodictable` entry (flerovium), but a variant of the usual pattern worth reasoning through carefully rather than applying mechanically: this is a *two-syllable* phonetic transliteration of "Flerov" (佛+雷), and the real Chinese element character it avoids, 鈇/𫓧 (fū/fu1), is a *single* syllable that doesn't match either half of the compound. Since the coinage's whole point is spelling "Fle-rov" out using two ordinary characters rather than adopting that single novel character, filled `mandarin`/`cantonese` with the direct compositional reading (fúléi/fat6 leoi4, from 佛's own fú/fat6 and 雷's own léi/leoi4) rather than the single avoided-character's reading — documented this reasoning explicitly since it departs from the convention used on this sweep's other periodic-table neologisms. Filled `vietnamese` with `Flerovi`, following the same "-i" pattern as [[達金]]/[[邁金]]/[[黒金]]. **Content removed**: dropped the duplicate `品詞` field.
+
+No homophones found (`注音: ㄅㄨㄊㄌㄛㄧㄙㄛ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 夜. Next (blank-key backlog): 利佛素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 472 — [[words/利佛素|利佛素]]
+
+Worked from the blank-key backlog. Another two-syllable phonetic-transliteration neologism (livermorium), matching [[佛雷素]]'s pattern from two iterations ago. **Content added**: filled `mandarin`/`cantonese` with the direct compositional reading `lìfú`/`lei6 fat6` (from 利's own lì/lei6 and 佛's own fú/fat6) rather than the real avoided element character 鉝's reading — confirmed via search that 鉝's phonetic component is actually 立, not 利, despite the two being Mandarin homophones (lì/lì); Cantonese distinguishes them (鉝 = laap6, not 利's lei6), which would have been a subtle wrong-value trap if the single-avoided-character convention had been applied mechanically here. Filled `vietnamese` with `Livermori`, following this series' established "-i" pattern. **Content removed**: dropped the duplicate `品詞` field.
+
+No homophones found (`注音: ㄌㄧㄜㄅㄨㄊㄙㄛ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 夢. Next (blank-key backlog): 加州金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 473 — [[words/加州金|加州金]]
+
+Worked from the blank-key backlog. Another neologism (californium), this time a toponymic/semantic calque (加州 "California," abbreviated) rather than a phonetic transliteration — but per the precedent set by [[丹金]] (also toponymic, Denmark), the convention still applies: `mandarin`/`cantonese` hold the avoided real element character's reading, not a compositional one. **Content added**: filled with `kāi`/`hoi1`, confirmed via search as the mainland-standard reading of 锎/鐦; noted that a separate character, 鉲 (kǎ), is a Taiwan-specific alternate name for the same element, not used here. Filled `vietnamese` with `Californi`, the attested Vietnamese Wikipedia term. **Content removed**: dropped the duplicate `品詞` field.
+
+No homophones found (`注音: ㄍㄚㄐㄨㄛㄍㄧㄇ` is unique among words). Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 夢. Next (blank-key backlog): 双鷹国 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 474 — [[words/夢|夢]]
+
+Worked from the alphabetical worklist. **Content removed**: `vietnamese: null` (a literal YAML null) — replaced with the verified reading. `characters:` reformatted from a quoted bare string to list form. Added missing `pos: 名詞` (matching the character page).
+
+**Content resolved**: confirmed via search that `mộng` is the standard Hán Việt reading (giấc mộng "a dream," ác mộng "nightmare"), with a rarer secondary reading `mông` also attested. Of the character page's six other candidates, only two turned out to be genuine (if unrelated-meaning) Nôm phonetic loans: `mồng` actually derives from a different character (孟) entirely; `muống` is an unrelated word ("funnel"). The remaining four (`mọng`, `mống`, `mòng`, `mụn`) appear to be automated near-rhyme list artifacts rather than attested readings of this character at all — documented this distinction rather than treating all six as equally legitimate.
+
+No homophones found (`注音: ㄇㄨㄫ` is unique among words). Wrote the full `## Notes` section from scratch, catching and removing a confusing/incorrect aside about the character's Japanese native reading before finalizing. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 大. Next (blank-key backlog): 双鷹国 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 475 — [[words/双鷹国|双鷹国]]
+
+Worked from the blank-key backlog. **Content corrected**: `mandarin`/`cantonese` were `Shuāngyīngguó`/`soeng1 jing1 gwok3` — a literal reading of this word's own invented Dan'a'yo characters ("double-eagle country," a symbolic name for Austria based on the Habsburg Imperial Standard), not a name any real Chinese speaker uses. Investigated rather than assumed correct: confirmed via research that this "double-eagle" name has no real attestation anywhere — Austria's own modern coat of arms is single-headed, and the double-headed-eagle motif is at least as associated with Russia/Byzantium as with Austria in Chinese sources. Corrected to `Àodìlì`/`ou3 dei6 lei6`, the real standard Mandarin/Cantonese name for the country.
+
+**Content added**: `japanese`/`korean`/`vietnamese` were entirely blank; filled with each language's own real name for Austria (オーストリア, 오스트리아, Áo) rather than a reading of the invented Dan'a'yo characters — consistent with how country-name words are handled elsewhere in this vault (e.g. [[瑞士]], where the stored fields are each language's own real country name, not a compositional reading). **Content removed**: blank placeholder keys `hsk_level:`, `swadesh:`.
+
+`kwin: false` added (none of [[双]], [[鷹]], [[国]] is individually kwin). No homophones found. Added the `>[!tip]` banner and wrote the full `## Notes` section. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 大. Next (blank-key backlog): 奥加素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).
+
+### 2026-07-27, iteration 471 — [[words/夜|夜]]
+
+Worked from the alphabetical worklist. `characters:` reformatted from a bare string to list form. Added missing `pos: 名詞` (matching the character page). `vietnamese:` was present but blank; filled with `dạ`.
+
+**Content removed**: the character page's own `vietnamese` field held the malformed string `"dạ, dà"`. Investigated `dà` rather than assuming it was a legitimate second candidate: it carries the huyền tone, which regularly corresponds to a level-tone Middle Chinese source, but 夜 is a departing-tone syllable (which regularly yields nặng, i.e. dạ) — a tonal-class mismatch. Cross-checking the vault's own data, the identical "dà" candidate also appears verbatim on two unrelated characters (遮, 陀), suggesting accidental duplication rather than a genuine attested reading specific to 夜. Removed from the character page (already perfected, 2026-07-22) rather than kept as unverified noise.
+
+This word completes a homophone pair with [[也]] ("also; too," already perfected, already cross-linking here) — added the reciprocal callout, which was already present on 也's side. Wrote the full `## Notes` section from scratch. Stamped `date-last-perfect: 2026-07-27`.
+
+Next (alphabetical): 夢. Next (blank-key backlog): 利佛素 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped).

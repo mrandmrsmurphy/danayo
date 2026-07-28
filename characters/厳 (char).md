@@ -7,7 +7,7 @@ japanese:
   - GEN
   - GON
 japanese_native: おごそ
-vietnamese:
+vietnamese: nghiêm
 middle_chinese_initial: ŋ
 middle_chinese_final: iɐm
 stroke_count: 17

@@ -8,7 +8,8 @@ japanese:
 japanese_native: まど
   - まる-い
 vietnamese:
-  - viên, vin
+  - viên
+  - vin
 middle_chinese_initial: ø
 middle_chinese_final: iuᴇn
 stroke_count: 13

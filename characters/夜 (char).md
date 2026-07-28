@@ -8,7 +8,7 @@ japanese:
 japanese_native: よ
   - よ,よる
 vietnamese:
-  - dạ, dà
+  - dạ
 middle_chinese_initial: j
 middle_chinese_final: ia
 stroke_count: 8

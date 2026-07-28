@@ -9,7 +9,8 @@ japanese:
   - YOU
 japanese_native: かむ
 vietnamese:
-  - giảo, rao
+  - giảo
+  - rao
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣau
 stroke_count: 9
@@ -41,7 +42,6 @@ aliases:
 注音: ⼘ㄨ
 swadesh: 94
 date-last-perfect: 2026-02-17
-品詞: 事詞
 kwin: false
 tags:
   - character
@@ -54,8 +54,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 - [[Radical 030|口]] + [[交 (char)]] = [[SKIP-1-3-6]] ([[Stroke 09]]) - [[⼘ㄨ]]
 - [[Hyōgai]], [[Korean Name ㄱ]], HSK 2, [[Grade 6]]
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 肴]]
+
+## Words
+- <ruby>[[咬]]<rt>⼘ㄨ</rt></ruby> "bite; gnaw; chew" (stand-in for 咬)

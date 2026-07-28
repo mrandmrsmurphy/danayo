@@ -55,7 +55,8 @@ Descendants
 - [蛤](characters/蛤.md) - clam
 - <ruby>[拿](/characters/拿.md)<rt>ㄋㄚ</rt></ruby> - grasp
 
-Words
+## Words
+- <ruby>[[合]]<rt>ㄍㄛㄆ</rt></ruby> "join; fit together; combine"
 - <ruby>[合金](/words/合金.md)<rt>ㄎㄚㄆㄍㄧㄇ</rt></ruby> - alloy
 - <ruby>[混合](/words/混合.md)<rt>ㄏㄛㄋㄎㄚㄆ</rt></ruby> - blend
 - <ruby>[癒合](/words/癒合.md)<rt>⼜ㄎㄚㄆ</rt></ruby> - recover

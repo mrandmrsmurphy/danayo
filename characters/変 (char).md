@@ -30,7 +30,6 @@ graphemic_classification: 䜌
 stand_in: 変
 aliases:
   - 變
-品詞: 性詞
 注音: ㄅ⼶ㄋ
 date-last-perfect: 2026-07-24
 kwin: true
