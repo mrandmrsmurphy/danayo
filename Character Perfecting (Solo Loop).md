@@ -7029,19 +7029,41 @@ Next never-perfected character by `danayo_id` (3099). Stamped `date-last-perfect
 
 ### 2026-07-28, iteration 457 — [[characters/居|居]]
 
-Next never-perfected character by `danayo_id` (3100). Stamped `date-last-perfect: 2026-07-28`. This was one of the cleanest pages found this loop — graphemic bullet, SKIP/Stroke/MC-rank, and Levels bullets were all already present and correctly formatted (形声, semantic [[Radical 044|尸]] + phonetic [[古]]); only `pos` and the Words/Derived Characters completeness needed work.
+### 2026-07-28, iteration 458 — [[characters/崇|崇]]
 
-**Frontmatter**: `pos: ""` → `名詞`, matching the stored `pos: 名詞` on `words/居所.md` (the `stand_in` compound itself).
+Next never-perfected character by `danayo_id` (3101). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 宗` checked out as correct — verified via Wiktionary (形聲, semantic [[Radical 046|山]] "mountain" + phonetic [[宗]], Zhengzhang OC \*zruŋ with phonetic 宗 at \*ʔsuːŋ — elevation and reverence: "to exalt, honor," extending to "high; lofty; majestic"), matching `radical: 山`.
 
-**Content removed**: none.
+**Frontmatter**: `pos: ""` → `性詞`, matching the stored `pos: 性詞` on `words/崇高.md` (the `stand_in` compound itself). `mc_id: 926` verified against `CC 0000.md` (line 959, "926. 崇").
 
-**Body defects found**: no defects in the existing Notes bullets; `## Words` was incomplete (2 of 5 real hits) and `## Derived Characters` didn't exist despite two real hits.
+**Content removed**: none — both pre-existing Words entries were kept, just reformatted.
 
-**Words cross-check** (5 total ground-truth hits): 2 already present, correctly ruby'd (居所, the `stand_in`, marked as such and reordered first; 居里金); 3 missing — 居住, 同居, 寓居 — added from stored fields.
+**Graphemic bullet written from scratch**: 形声, semantic [[Radical 046|山]] + phonetic [[宗]] — see etymology above.
+
+**Body defects found**: `# Notes` was H1 instead of H2 and held only two floating CC-initial/final wikilinks plus two bare Words-style entries with informal comma-glosses; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all.
+
+**Words cross-check** (2 total ground-truth hits, both already present but unformatted): 崇高 (the `stand_in`, reordered first) and 崇拝 — both reformatted with proper ruby+gloss from stored fields; no additions needed.
 
 **Chengyu**: no ground-truth hits — section correctly omitted.
 
-**Derived Characters** (2 hits via `graphemic_classification: 居`): [[鋸 (char)|鋸]] ("saw") and [[裾]] ("cuff; hem; lapel") — added, neither had a filename collision.
+**Derived Characters**: no hits (`graphemic_classification: 崇` matches no other character) — section correctly omitted.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's own stored `注音` field — 0 mismatches found.
+
+### 2026-07-28, iteration 459 — [[characters/川 (char)|川]]
+
+Next never-perfected character by `danayo_id` (3102). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 象形` and frontmatter (`pos: 名詞`) were already correct — the existing graphemic bullet (depicts flowing water, compares 水/巛/𡿧) needed no changes. Two standing research/decision notes were preserved verbatim: the pronunciation-override note ("changed to Mandarin's to use an available syllable") and the cross-CJKV "rivers were difficult to achieve consensus on" discussion explaining why 川 rather than 江/河 was chosen as the stand-in — both are load-bearing project history, not defects.
+
+**Frontmatter**: no changes needed beyond the date stamp.
+
+**Content removed**: none — every existing Notes bullet and Words entry was kept, just reformatted/relocated.
+
+**Body defects found**: the CC-initial/final links sat inline at the end of the research-note bullet instead of their own MC-rank bullet; no SKIP/Stroke/Levels bullets existed; 6 of 9 pre-existing Words entries were bare plain-Markdown links with no ruby (川口, 川埼, 小川, 河川, 山川, 瀧川, 江戸川 — 7 of 9, corrected below); no `## Derived Characters` section existed despite six real hits.
+
+**Words cross-check** (10 total ground-truth hits): 9 already present (2 ruby'd — 徳川, 四川; 7 bare, reformatted — one of which, 山川, had an inflated gloss "mountains and rivers, scenery" not matching its actual stored `english: [scenery]`, corrected to the real stored value rather than kept as embellished prose); 1 missing — the stand-in 川 itself — added.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (6 hits via `graphemic_classification: 川` — one of the larger families this loop): [[訓 (char)|訓]] ("interpret; translate; paraphrase; explicate; exegete"), [[巡]] ("patrol; go on circuit"), [[拶]] ("compel"), [[釧]] ("bracelet; armlet"), [[順]] ("in order; smooth"), [[馴]] ("tame") — all added, none had filename collisions.
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
