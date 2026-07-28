@@ -7071,3 +7071,23 @@ Next never-perfected character by `danayo_id` (3103). Stamped `date-last-perfect
 
 **Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
 
+### 2026-07-28, iteration 461 — [[characters/巨|巨]]
+
+Next never-perfected character by `danayo_id` (3104). Stamped `date-last-perfect: 2026-07-28`. `graphemic_classification: 象形` checked out as correct but genuinely contested — Wiktionary notes Shuowen reads it as a pictogram in its own right, while Chen (2021) argues [[矩 (char)|矩]] ("carpenter's square") is the original shape, depicting a person holding the square, with the person dropped during the Small-Seal-Script evolution. Documented both readings rather than presenting either as settled, same "dual analysis" treatment as [[characters/乎 (char)|乎]] and [[characters/電|電]]/[[characters/農|農]] earlier this loop. Noteworthy cross-reference: 矩 itself already lists `graphemic_classification: 巨` (i.e. 巨 as 矩's *phonetic* component) — not a contradiction, since Chen's claim is about oracle/bronze-script origin while the modern vault-recorded 形声 relationship for 矩 concerns the current glyph's structure.
+
+**Frontmatter**: already correct (`pos: 性詞`, matching `words/巨大.md`'s stored `pos: 性詞`). `mc_id: 1479` verified against `CC 1000.md` (line 500, "1479. 巨").
+
+**Content removed**: a numbered "1. giant, large / 2. abbreviation for titanium" fragment — reformatted into the standard element-abbreviation Notes-bullet convention (same pattern as [[characters/緑 (char)|緑]] and [[characters/軽 (char)|軽]] earlier this loop) plus a proper Words entry, not discarded.
+
+**Graphemic bullet written from scratch**: 象形 (contested — see above).
+
+**Body defects found**: two floating CC-initial/final wikilinks had no MC bullet to embed in; no SKIP/Stroke/MC/Levels bullets existed; no `## Words` heading existed at all — 巨金 only appeared inside the abbreviation aside, never as a real Words entry (same "both places" pattern flagged on 緑/射 earlier this loop).
+
+**Words cross-check** (3 total ground-truth hits): 1 already present only as an informal ruby fragment inside the abbreviation note (巨金, promoted to a real Words entry); 2 missing outright — the stand-in 巨大 itself and 巨人 — added, all from stored fields.
+
+**Chengyu**: no ground-truth hits — section correctly omitted.
+
+**Derived Characters** (3 hits via `graphemic_classification: 巨`): [[矩 (char)|矩]] ("moment (physics); carpenter's square; quadrature"), [[拒]] ("repel; refuse"), [[距]] ("long-distance") — all added, none had filename collisions.
+
+**Verification**: manually cross-checked every `<rt>` value on this page against each target word's/character's own stored `注音` field — 0 mismatches found.
+
