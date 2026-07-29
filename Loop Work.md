@@ -852,6 +852,14 @@ Next by `danayo_id` (3202).
 
 Next: 盛 (3203), 眠 (3204), 眼 (3205), 礼 (3206), plus one more per `danayo_id`.
 
+### 2026-07-29, iteration 114 — [[characters/盛|盛]]
+
+Next by `danayo_id` (3203).
+
+**[[characters/盛|盛]]**: blank `pos` (→ `性詞`, "flourish, full"). **Real bug, subtler than the usual field-vs-body contradiction**: `graphemic_classification: 成` was itself correct (Wiktionary confirms 成 is the phonetic, *djeŋ*), but the page's own existing bullet had the semantic/phonetic roles backwards — it read "semantic [[成]] + phonetic [[皿]]," exactly inverted from reality (皿 "vessel" is semantic, 成 is phonetic). Rewrote the bullet with the correct role assignment and linked 皿 to its own Radical page ([[Radical 108|皿]], matching 盛's own `radical` field). Section order was also scrambled — a floating `## Chengyu` sat before `## Words`, with the two floating CC-initial/final links stranded *between* the Chengyu and Words blocks instead of embedded in a real MC bullet, and one Chengyu entry (盛衰栄辱) was bare/unruby'd, one word (盛衰, "rise and fall") was sitting in Chengyu's section as an unheaded stray line, and a fourth chengyu (世間罪盛) wasn't listed at all despite existing in the corpus. Rebuilt both sections properly, added the missing stand-in (全盛). Wrote all four Notes bullets from scratch (SKIP-2-7-5/Stroke 12; 441st-rank MC bullet confirmed against `CC 0000.md` line 459, 聲 船→ʑ and 韻 清開→iᴇŋ matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kōtō/Korean MS). No `graphemic_classification: 盛` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 眠 (3204), 眼 (3205), 礼 (3206), plus two more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
