@@ -50,6 +50,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[事]]<rt>ㄐㄧ</rt></ruby> "thing; action" (stand-in for 事)
+- <ruby>[[服事]]<rt>ㄅㄨㄎㄐㄧ</rt></ruby> "serve; attend to"
 - <ruby>[[事件]]<rt>ㄐㄧㄍ⼶ㄋ</rt></ruby> "event; incident; occurrence"
 - <ruby>[[事情]]<rt>ㄐㄧㄑㄧㄫ</rt></ruby> "affair; matter; situation"
 - <ruby>[[事実]]<rt>ㄐㄧㄙㄧㄊ</rt></ruby> "fact; reality; truth"

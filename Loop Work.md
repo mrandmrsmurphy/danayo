@@ -832,6 +832,18 @@ Next by `danayo_id` (3200).
 
 Next: 皇 (3201), plus four more per `danayo_id`.
 
+### 2026-07-29, iteration 112 — [[characters/皇|皇]]
+
+Next by `danayo_id` (3201). `pos` already correctly filled (`名詞`).
+
+**[[characters/皇|皇]]**: **real etymology correction, same class as today's 鸛/雚 fix**: `graphemic_classification` was stored as `象形`, but Wiktionary describes 皇 as originally a pictograph (oracle-bone: a single plume of a 鳳凰, "phoenix") that was later reanalyzed as a genuine phono-semantic compound once phonetic [[王 (char)|王]] ("king," OC *waŋ) was added to the feather element — unlike 左's unlinkable 𠂇, 王 already has its own full character page in this vault, so citing it directly is cleaner than keeping the pictograph-only classification. Corrected the field to `王` and wrote the bullet covering both stages. `# Notes` (wrong heading level) held only two floating unembedded CC-initial/final links, no SKIP/Stroke/MC/Levels bullets otherwise. Wrote all four Notes bullets from scratch (SKIP-2-5-4/Stroke 09 — SKIP code shared with [[界]] two iterations ago, expected; 240th-rank MC bullet confirmed against `CC 0000.md` line 252, 聲 匣→ɣ and 韻 唐合→wɑŋ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (5 total) found only 2 of 5 listed (教皇, 皇后) — added the stand-in itself (皇帝) plus 天皇 and 女皇. `graphemic_classification: 皇` hit a 3-member family (凰, 徨, 煌) — 凰 was missing from the existing Derived Characters section (which already had 徨/煌 from an earlier pass) — added it. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+A fresh unstamped-scan run to find the next five turned up something worth resolving first: **id 3159 ([[characters/服|服]]) is still unstamped**, from iteration 74 — left that way deliberately at the time because its `stand_in` (服事) had no word file. That gap was never carried forward in later "Next" lines the way 灌/太平洋 were, so it silently dropped off the radar for ~35 iterations.
+
+**Created 2026-07-29**: `words/服事.md` — "serve; attend to," an alternative form of the more common 服侍. CJKV: `fúshì`/`fuk6 si6`/`ふくじ`/`복사`/`phục sự`, all confirmed via Wiktionary/WebSearch — Japanese ふくじ (also ぶくじ) and Korean 복사 are both real attested on'yomi/Sino-Korean concatenations, the latter carrying an additional specific liturgical sense ("altar server" in Christian usage) alongside the general "serve in obedience" meaning; Vietnamese *phục sự* is a transparent compositional compound. Backlinked on [[服]] and [[事 (char)]]. Stamped `date-last-perfect: 2026-07-29` on `服.md` itself, closing a gap open since iteration 74.
+
+Next: 益 (3202), 盛 (3203), 眠 (3204), 眼 (3205), 礼 (3206) per `danayo_id`, confirmed via a fresh unstamped-scan.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
