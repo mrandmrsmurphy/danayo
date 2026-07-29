@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[太素]]<rt>ㄊㄚㄧㄙㄛ</rt></ruby> "Great Plainness"
 - <ruby>[[太極]]<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby> "Supreme Ultimate"
 - <ruby>[[太平]]<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby> "peaceful"
+- <ruby>[[太平洋]]<rt>ㄊㄚㄧㄅ⼶ㄫ⼘ㄫ</rt></ruby> "Pacific Ocean"
 - <ruby>[[太始]]<rt>ㄊㄚㄧㄙㄧ</rt></ruby> "Great Primordium"
 - <ruby>[[太陰]]<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby> "the moon; yin"
 - <ruby>[[太陽]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "the sun"
