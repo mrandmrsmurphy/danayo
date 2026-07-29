@@ -844,6 +844,14 @@ A fresh unstamped-scan run to find the next five turned up something worth resol
 
 Next: 益 (3202), 盛 (3203), 眠 (3204), 眼 (3205), 礼 (3206) per `danayo_id`, confirmed via a fresh unstamped-scan.
 
+### 2026-07-29, iteration 113 — [[characters/益|益]]
+
+Next by `danayo_id` (3202).
+
+**[[characters/益|益]]**: blank `pos` (→ `名詞`). No graphemic bullet, no SKIP/Stroke/MC/Levels bullets, no `## Words` heading at all — just two floating unembedded CC-initial/final links. Verified `graphemic_classification: 會意` via Wiktionary before writing: confirmed — [[水 (char)|水]] ("water," in its archaic top-of-character form resembling 氺) + [[Radical 108|皿]] ("vessel"), water overflowing a vessel, the original form of 溢 ("to overflow," no character page in this vault), extended to "increase, benefit, gain." Wrote all four Notes bullets from scratch (SKIP-2-3-7/Stroke 10; 326th-rank MC bullet confirmed against `CC 0000.md` line 341, 聲 影→ʔ and 韻 昔開→iᴇk matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (1 total, the stand-in itself, 利益) found it missing entirely — added. **Caught a guessed-ruby near-miss before shipping**: first drafted 利益 as ㄌㄧ·ㄝㄎ from pattern-matching the two characters' own readings, but the word's actual stored `注音` is ㄌㄧㄜㄝㄎ (利's contribution is ㄌㄧㄜ, not the bare ㄌㄧ) — corrected before finalizing. `graphemic_classification: 益` hit only 諡 — checked via Wiktionary despite a wide surface divergence (ㄙㄧㄜ vs 益's own ㄝㄎ) and confirmed genuine (same OC phonetic series per Zhengzhang, *ɢliɡs) — added `## Derived Characters`. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 盛 (3203), 眠 (3204), 眼 (3205), 礼 (3206), plus one more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
