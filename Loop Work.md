@@ -816,6 +816,14 @@ Next by `danayo_id` (3198). Loop resumed after the 雚/鸛 detour above.
 
 Next: 界 (3199), 異 (3200), 皇 (3201), plus two more per `danayo_id`.
 
+### 2026-07-29, iteration 110 — [[characters/界|界]]
+
+Next by `danayo_id` (3199).
+
+**[[characters/界|界]]**: blank `pos` (→ `名詞`). `# Notes` (wrong heading level) held only two floating unembedded CC-initial/final links, no graphemic/SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 介` via Wiktionary before writing: confirmed 形声, semantic [[Radical 102|田]] ("field") + phonetic [[介]] — an exact OC match (Zhengzhang *kreːds for both 界 and 介 itself), 界 being a later differentiation of 介 with the field radical added; linked 田 (unlike 申/甲 last iteration, this time the radical genuinely *is* the semantic component, not just a formal filing bucket). Wrote all four Notes bullets from scratch (SKIP-2-5-4/Stroke 09; 1463rd-rank MC bullet confirmed against `CC 1000.md` line 484, 聲 見→k and 韻 皆開→ɣɛi matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (7 total) found only 2 of 7 already listed (界水, 界線) — added the stand-in itself (境界) plus 世界, 辺界, 世界語, 世界観. Chengyu (1 total, 石山盈界) was entirely absent — added. No `graphemic_classification: 界` hits (no Derived Characters section needed). **Real find while pulling word data**: `words/世界.md`'s own stored `注音` was `ㄙㄝㄐ⼶` — using `ㄐ` for 界's syllable where every other 界-compound checked here (境界, 世界語, 世界観, 界水, 界線) consistently uses `ㄍ` (matching 界's own character-level `注音` exactly) — a plain one-letter Bopomofo transcription typo, not a real phonological divergence like the 恩/慣/調·酒 cases; fixed to `ㄙㄝㄍ⼶`. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 異 (3200), 皇 (3201), plus three more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
