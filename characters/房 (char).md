@@ -16,7 +16,7 @@ stroke_count: 8
 radical: "戶"
 skip_number: 2-1-7
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - room
 羅馬字: bang
@@ -30,6 +30,7 @@ graphemic_classification: "方"
 stand_in: "房"
 aliases:
 注音: "ㄅㄚㄫ"
+date-last-perfect: 2026-07-29
 kwin: true
 tags:
   - character
@@ -42,8 +43,15 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 奉]]
-[[Lookup/CC/finals/韻 唐開]]
+## Notes
+- 形声 (OC *baŋ): semantic [[Radical 063|戶]] ("door") + phonetic [[方]] (OC *paŋ) — a side room adjoining the main hall; room, chamber.
+- [SKIP-2-1-7](../lookup/SKIP/SKIP-2/SKIP-2-1-7.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 980th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄅㄚㄫ](../syllables/ㄅㄚㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby> "house, room, apartment"
 - <ruby>[[厨房]]<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby> "kitchen"
-- [[房室]] "house, room, apartment"
+- <ruby>[[書房]]<rt>ㄙ⼄ㄅㄚㄫ</rt></ruby> "study (room), library"
+- <ruby>[[閨房]]<rt>ㄍㄨㄧㄅㄚㄫ</rt></ruby> "boudoir, bower"
+- <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄫ</rt></ruby> "breast, udder"

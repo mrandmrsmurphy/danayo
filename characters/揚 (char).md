@@ -20,7 +20,7 @@ stroke_count: 12
 radical: "手"
 skip_number: 1-3-9
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - scatter
   - hurl
@@ -36,6 +36,7 @@ stand_in: "揚"
 aliases:
   - 扬
 注音: "⼘ㄫ"
+date-last-perfect: 2026-07-29
 kwin: true
 tags:
   - character
@@ -48,6 +49,15 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 以]]
-[[Lookup/CC/finals/韻 陽開]]
+## Notes
+- 形声 (OC *laŋ): semantic [[Radical 064|扌]] ("hand") + phonetic [[昜]] (OC *laŋ, an exact match) — to lift, to raise; to scatter, to hurl.
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 921st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [⼘ㄫ](../syllables/⼘ㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[揚州]]<rt>⼘ㄫㄐㄨㄛ</rt></ruby> "Yang Province, Province of Yang"
+- <ruby>[[昂揚]]<rt>ㄚㄫ⼘ㄫ</rt></ruby> "high-spirited, exalted"
+
+## Chengyu
+- <ruby>[[意気揚揚]]<rt>ㄜㄎㄧㄜ·⼘ㄫ·⼘ㄫ</rt></ruby> "triumphalism, proud, complacent"

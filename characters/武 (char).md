@@ -16,7 +16,7 @@ stroke_count: 8
 radical: "止"
 skip_number: 3-4-4
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - military
 羅馬字: mu
@@ -31,6 +31,7 @@ stand_in: "武"
 aliases:
   - 㱐
 注音: "ㄇㄨ"
+date-last-perfect: 2026-07-29
 kwin: true
 tags:
   - character
@@ -42,11 +43,26 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md)): [戈](戈.md) (“blade”) + [止](Radical%20077) (“foot; to walk; to stop”) – army going on an expedition. In the character 武, the 戈 component is written above the 止 component.
-[[Lookup/CC/initials/聲 微]]
-[[Lookup/CC/finals/韻 虞]]
-- [[武侠]] "wuxia (genre), chivalry"
-- [[武将]] "general, commander"
-- [[武芸]] "martial art skill"
+- 会意 of [[戈]] ("blade") and [[Radical 077|止]] ("foot; to walk; to stop") — an army going on an expedition; in the character 武, the 戈 component is written above the 止 component.
+- [SKIP-3-4-4](../lookup/SKIP/SKIP-3/SKIP-3-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 134th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄇㄨ](../syllables/ㄇㄨ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[玄武]]<rt>ㄏ⼔ㄋㄇㄨ</rt></ruby> "Black Tortoise; Xuanwu (one of the Four Symbols)"
+- <ruby>[[武将]]<rt>ㄇㄨㄐ⺢ㄫ</rt></ruby> "general, commander"
+- <ruby>[[文武]]<rt>ㄇㄨㄋㄇㄨ</rt></ruby> "civilian and military"
 - <ruby>[[武道]]<rt>ㄇㄨㄉㄚㄨ</rt></ruby> "martial arts"
+- <ruby>[[武術]]<rt>ㄇㄨㄙㄨㄊ</rt></ruby> "martial art"
+- <ruby>[[武士]]<rt>ㄇㄩㄙㄚㄧ</rt></ruby> "warrior, samurai"
+- <ruby>[[武侠]]<rt>ㄇㄨㄏㄝㄆ</rt></ruby> "wuxia (genre), chivalry"
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
+- <ruby>[[玄武岩]]<rt>ㄏ⼔ㄋㄇㄨㄚㄇ</rt></ruby> "basalt"
+- <ruby>[[武芸]]<rt>ㄇㄨㄝ</rt></ruby> "martial art skill"
+
+## Chengyu
+- <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"
+
+## Derived Characters
+- <ruby>[[賦 (char)|賦]]<rt>ㄈㄨ</rt></ruby> "prose-poetry"
+- <ruby>[[鵡]]<rt>ㄇㄨ</rt></ruby> "parrot"

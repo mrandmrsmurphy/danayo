@@ -15,7 +15,7 @@ stroke_count: 9
 radical: "木"
 skip_number: 2-4-5
 grade_level: "3"
-pos: ""
+pos: 性詞
 english:
   - tender
   - soft
@@ -31,6 +31,7 @@ graphemic_classification: "矛"
 stand_in: "柔"
 aliases:
 注音: "ㄋ⼜"
+date-last-perfect: 2026-07-29
 kwin: false
 tags:
   - character
@@ -43,11 +44,16 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- 形声 (OC *mlju): semantic [[Radical 075|木]] ("tree, wood") + phonetic [[矛]] (OC *mu) — wood soft enough to be easily cut; tender, soft, weak.
+- [SKIP-2-4-5](../lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 983rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄋ⼜](../syllables/ㄋ⼜.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
-- [[柔軟]]
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 尤]]
+- <ruby>[[柔軟]]<rt>ㄋ⼜ㄋㄧㄋ</rt></ruby> "soft, pliable, weak"
+- <ruby>[[柔道]]<rt>ㄋ⼜ㄉㄚㄨ</rt></ruby> "judo"
 
 ## Chengyu
 - <ruby>[[優柔不断]]<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> "indecisive; undetermined; shilly-shally"
+- <ruby>[[内柔外剛]]<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> "appearing tough on the outside, house of cards"

@@ -28,6 +28,7 @@ stand_in: "徳"
 aliases:
   - 德
 注音: "ㄊㄨㄎ"
+date-last-perfect: 2026-07-28
 kwin: false
 tags:
   - character
@@ -40,14 +41,19 @@ boundedness:
 [[nav/char_info]]
 ```
 
+## Notes
+- 形声 (OC *tɯːɡ): semantic [[Radical 060|彳]] ("walk, road") + phonetic 惪 (OC *tɯːɡ, "virtue" — per Wiktionary, corrupted into 𢛳 in later seal-script forms; no separate character page exists for it in this vault, so left unlinked) — moral virtue as the path one walks.
+- [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 102nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄊㄨㄎ](../syllables/ㄊㄨㄎ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[美徳]]<rt>ㄇㄧㄉㄨㄎ</rt></ruby> "virtue"
 - <ruby>[[恩徳]]<rt>ㄜㄋㄊㄨㄎ</rt></ruby> "benevolence"
-- <ruby>[[徳川]]<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby> "Tokugawa"
+- <ruby>[[仁徳]]<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby> "benevolence, goodness"
+- <ruby>[[明徳]]<rt>ㄇ⼶ㄫㄉㄨㄎ</rt></ruby> "bright virtue, show virtue"
 - <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
 - <ruby>[[徳沢]]<rt>ㄊㄨㄎㄉㄚㄎ</rt></ruby> "grace, beneficence"
-
-## Notes
-- abbreviation for <ruby>[[徳素]]<rt>ㄊㄨㄎㄙㄛ</rt></ruby> "germanium" in periodic-table formulae — see [[Periodic Table]]
-[[Lookup/CC/initials/聲 端]]
-[[Lookup/CC/finals/韻 德開]]
-- Components: [[彳]], [[十]], [[罒]], [[心]]
+- <ruby>[[徳川]]<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby> "Tokugawa"
+- <ruby>[[徳国]]<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby> "Germany"
+- <ruby>[[徳素]]<rt>ㄊㄨㄎㄙㄛ</rt></ruby> "germanium"

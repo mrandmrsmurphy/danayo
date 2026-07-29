@@ -31,6 +31,7 @@ aliases:
   - 惡
   - 恶
 注音: ㄚㄎ
+date-last-perfect: 2026-07-28
 kwin: true
 tags:
   - character
@@ -43,12 +44,24 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 影]]
-[[../lookup/CC/finals/韻 鈬開]]
+## Notes
+- 形声 (OC *qaːɡ): semantic [[Radical 061|心]] ("heart") + phonetic [[亜]] ("second, sub-," OC *ʔˤrah) — moral negativity of the heart; bad, evil.
+- [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 220th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄚㄎ](../syllables/ㄚㄎ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
 - <ruby>[[凶悪]]<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby> "heinous; atrocious"
 - <ruby>[[嫌悪]]<rt>ㄏㄝㄇㄚㄎ</rt></ruby> "hatred; aversion"
-- [[悪化]] "worsen,aggravate, deteriorate"
-- [[悪劣]] "inferior, vile, nasty"
-- [[悪魔]] "- devil"
-- [[悪毒]] "malicious, vicious"
+- <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby> "hate, loathe"
+- <ruby>[[醜悪]]<rt>ㄑㄨㄛㄚㄎ</rt></ruby> "ugly, homely"
+- <ruby>[[悪心]]<rt>ㄚㄎㄙㄧㄇ</rt></ruby> "nauseated, nauseous"
+- <ruby>[[悪化]]<rt>ㄚㄎㄏ⺢</rt></ruby> "worsen, aggravate, deteriorate"
+- <ruby>[[悪劣]]<rt>ㄚㄎㄌㄝㄊ</rt></ruby> "inferior, vile, nasty"
+- <ruby>[[悪魔]]<rt>ㄚㄎㄇㄚ</rt></ruby> "devil"
+- <ruby>[[悪毒]]<rt>ㄚㄎㄉㄛㄎ</rt></ruby> "malicious, vicious"
+- <ruby>[[悪鬼]]<rt>ㄚㄎㄍㄨㄧ</rt></ruby> "evil spirit, devil"
+
+## Chengyu
+- <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫ·ㄚㄎ</rt></ruby> "evil hearts, evil intents"
+- <ruby>[[財愛悪根]]<rt>ㄑㄚㄧ·ㄚㄧ·ㄚㄎㄍㄚㄋ</rt></ruby> "the love of money is the root of all evil"

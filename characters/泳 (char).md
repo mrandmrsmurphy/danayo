@@ -15,7 +15,7 @@ stroke_count: 8
 radical: "水"
 skip_number: 1-3-5
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - swim
 羅馬字: "'wing"
@@ -29,6 +29,7 @@ graphemic_classification: "永"
 stand_in: "泳"
 aliases:
 注音: "ㄨㄧㄫ"
+date-last-perfect: 2026-07-29
 kwin: false
 tags:
   - character
@@ -41,6 +42,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 云]]
-[[Lookup/CC/finals/韻 庚三合]]
+## Notes
+- 形声 (OC *ɢʷraŋs): semantic [[Radical 085|氵]] ("water") + phonetic [[永]] (OC *ɢʷraŋʔ, an exact reading match, both ㄨㄧㄫ) — moving through water; to swim.
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 5141st most used character in Classical Chinese (outside the locally-checkable `CC 0000–3000` range, trusted verbatim per the checklist's own policy). Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 庚三合|wɣiæŋ]] → [ㄨㄧㄫ](../syllables/ㄨㄧㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[水泳]]<rt>ㄙㄨ·ㄨㄧㄫ</rt></ruby> "swimming"

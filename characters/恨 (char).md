@@ -17,7 +17,7 @@ stroke_count: 9
 radical: "心"
 skip_number: 1-3-6
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - hate
   - grudge
@@ -32,6 +32,7 @@ graphemic_classification: "艮"
 stand_in: "恨"
 aliases:
 注音: "ㄏㄚㄋ"
+date-last-perfect: 2026-07-28
 kwin: true
 tags:
   - character
@@ -44,9 +45,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 痕]]
+## Notes
+- 形声 (OC *ɡɯːns): semantic [[Radical 061|忄]] ("heart") + phonetic [[艮]] (OC *kɯːns) — emotional resentment; to hate, a grudge.
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1324th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 痕|ən]] → [ㄏㄚㄋ](../syllables/ㄏㄚㄋ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[仇恨]]<rt>ㄍ⼜ㄏㄚㄋ</rt></ruby> "hatred, enmity"
