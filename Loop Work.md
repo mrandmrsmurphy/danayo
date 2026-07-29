@@ -824,6 +824,14 @@ Next by `danayo_id` (3199).
 
 Next: 異 (3200), 皇 (3201), plus three more per `danayo_id`.
 
+### 2026-07-29, iteration 111 — [[characters/異|異]]
+
+Next by `danayo_id` (3200).
+
+**[[characters/異|異]]**: blank `pos` (→ `性詞`, "different, strange"). Notes had a genuine mixed bag: floating unembedded CC-initial/final links, plus a stray already-ruby'd Words entry (怪異) and two bare unruby'd word links (異体, 異音) all misplaced under Notes instead of `## Words`, no graphemic/SKIP/Stroke/MC/Levels bullets otherwise. Verified `graphemic_classification: 會意` via Wiktionary before writing: confirmed — depicts a person wearing a mask ([[Radical 102|田]], here representing a face-covering disguise rather than "field," compare [[鬼]] where 田 likewise derives from a mask/face) — "disguised, uncommon; different." Noted Wiktionary's alternative theory (a person carrying something atop the head, the original form of [[戴 (char)|戴]]) and that the modern glyph's apparent 田+共 decomposition is non-etymological. Wrote all four Notes bullets from scratch (SKIP-2-5-6/Stroke 11; 289th-rank MC bullet confirmed against `CC 0000.md`, 聲 以→j and 韻 之→ɨ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (5 total) found only 差異 properly listed — relocated 怪異/異体/異音 out of Notes (adding ruby to the latter two) and added the stand-in itself, 異常, which had been missing entirely. `graphemic_classification: 異` hit only [[翼]] — checked via Wiktionary despite being a solo hit (異's own final ɨ vs 翼's ɨk, a checked-tone coda addition) and confirmed genuine (Zhengzhang OC *lɯɡ for 翼, phonetic 異 itself *lɯɡs) — added `## Derived Characters`. Chengyu (2 total, 大同小異, 異体不容) were already present and correctly formatted. **Incidental fix**: `words/異常.md` had `english: wierd` (typo → weird). Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 皇 (3201), plus four more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
