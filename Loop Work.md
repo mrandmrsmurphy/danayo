@@ -924,6 +924,14 @@ Next by `danayo_id` (3212). Biggest cascade of corpus fixes this thread yet, dis
 
 Next: 篇 (3213), 精 (3214), 純 (3215), 素 (3216), 経 (3217) per `danayo_id`, confirmed via a fresh unstamped-scan.
 
+### 2026-07-29, iteration 123 — [[characters/篇 (char)|篇]]
+
+Next by `danayo_id` (3213). No frontmatter/etymology bug this time — a clean iteration after several bug-heavy ones in a row.
+
+**[[characters/篇 (char)|篇]]**: `pos` already correctly filled (`名詞`). No graphemic bullet, no SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links. Verified `graphemic_classification: 扁` via Wiktionary before writing: confirmed 形声, semantic [[Radical 118|竹]] ("bamboo," the ancient writing surface) + phonetic [[扁]] — an exact OC match (*pʰen for both). Wrote all four Notes bullets from scratch (SKIP-2-6-9/Stroke 15; 819th-rank MC bullet confirmed against `CC 0000.md` line 849, 聲 滂→pʰ and 韻 仙A三開→iᴇn matching frontmatter; Grade 3/HSK Beginner/Jinmeiyō/Korean MS — `joyo_level: 日本人名用漢字` correctly mapped to the bare `[[Jinmeiyō]]` link, not a "Jōyō - X" compound form, per precedent confirmed on 雁/亙/之/其). Words cross-check confirmed the only existing entry is 篇 itself (already correctly the page's own `stand_in`), no gap. `graphemic_classification: 扁` hit a 5-member family (偏, 遍, 騙, 蝙, 編) — spot-checked the semantically-furthest member (騙, "deceive," vs. the rest's more literal senses) via Wiktionary and confirmed genuine (semantic 馬 "horse" + phonetic 扁, OC *pʰens) — added `## Derived Characters` with all 5. **Incidental fix**: `characters/騙 (char).md` had `english: defraid` (typo → defraud). No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 精 (3214), 純 (3215), 素 (3216), 経 (3217), plus one more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)

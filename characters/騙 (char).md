@@ -19,7 +19,7 @@ grade_level: "先進"
 pos: ""
 english:
   - deceive
-  - defraid
+  - defraud
 羅馬字: pyen
 諺文: "편"
 joyo_level: "表外字"
