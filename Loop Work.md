@@ -860,6 +860,22 @@ Next by `danayo_id` (3203).
 
 Next: 眠 (3204), 眼 (3205), 礼 (3206), plus two more per `danayo_id`.
 
+### 2026-07-29, iteration 115 — [[characters/眠|眠]]
+
+Next by `danayo_id` (3204).
+
+**[[characters/眠|眠]]**: blank `pos` (→ `事詞`). Existing graphemic bullet (形声, semantic 目 + phonetic 民) checked against Wiktionary and confirmed correct, kept verbatim. **Real find**: `stand_in: 睡意` doesn't correspond to any existing word (`words/睡意.md` doesn't exist) — the real, already-correctly-cited legitimizer is `睡眠` (`words/睡眠.md`, which the character's own `ㄇㄝㄇ` syllable page had already been citing all along), a plain `stand_in`-field typo, same class as 鬚髥/島嶼 earlier in this vault's history; corrected the field. A stray note, "Pronunciation altered to use a vacant syllable," turned out not to be a fabrication — cross-checked against `Lookup/CC/finals/韻 先開.md`'s own prose, which documents 眠 deliberately shifting its coda to dodge a crowded ㄇㄝㄋ slot (already holding 麺) and landing on ㄇㄝㄇ instead, alongside similar documented dodges for 殿/現/見/繭 on the same page — folded this into bullet 3 with a proper link rather than discarding it as unexplained. Wrote all four Notes bullets (SKIP-1-5-5/Stroke 10; 3688th-rank MC bullet confirmed against `CC 3000.md` line 3688 — this vault's CC files extend that far, so not actually in the "untestable long-tail" category despite looking like a large rank; 聲 明→m and 韻 先開→en matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kōtō/Korean MS). Words cross-check (1 total, the stand-in) confirmed complete once the `stand_in` fix was applied. No chengyu hits, no `graphemic_classification: 眠` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 眼 (3205), 礼 (3206), plus three more per `danayo_id`.
+
+### 2026-07-29, iteration 116 — [[characters/眼|眼]]
+
+Next by `danayo_id` (3205).
+
+**[[characters/眼|眼]]**: blank `pos` (→ `名詞`). `# Notes` (wrong heading level) held only two floating unembedded CC-initial/final links plus one ruby'd and three bare Words entries misplaced under Notes, no SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 艮` via Wiktionary before writing: confirmed 形声, semantic [[Radical 109|目]] ("eye") + phonetic [[艮]]. Wrote all four Notes bullets from scratch (SKIP-1-5-6/Stroke 11; 3050th-rank MC bullet confirmed against `CC 3000.md` line 55, 聲 疑→ŋ and 韻 山開→ɣɛn matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (8 total) found only 4 already referenced (3 needing relocation out of Notes plus ruby) — added the stand-in itself (眼球) plus 慧眼, 龍眼, 金髪碧眼. No chengyu hits, no `graphemic_classification: 眼` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 礼 (3206), plus four more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
