@@ -1012,6 +1012,22 @@ Next by `danayo_id` (3225). `pos` already correctly filled (`性詞`).
 
 Next: 胸 (3226), 脱 (3227), 致 (3228), 舌 (3229), plus one more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-30, iteration 134 — [[characters/胸|胸]]
+
+Next by `danayo_id` (3226).
+
+**[[characters/胸|胸]]**: blank `pos` (→ `名詞`). No SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links. Verified `graphemic_classification: 匈` via Wiktionary before writing: confirmed 形声, semantic [[Radical 130|肉]] ("meat") + phonetic [[匈]] — an exact OC match (*qʰoŋ for both), and Wiktionary notes 匈 is genuinely 胸's own original form, with 肉 added later (匈 already has its own character page in this vault, linked directly). Wrote all four Notes bullets from scratch (SKIP-1-4-6/Stroke 10; 1394th-rank MC bullet confirmed against `CC 1000.md` line 411, 聲 曉→x and 韻 鍾→ɨoŋ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (2 total) found only the stand-in (胸部) already listed — added 胸臆. No `graphemic_classification: 胸` hits (no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 脱 (3227), 致 (3228), 舌 (3229), plus two more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
+### 2026-07-30, iteration 135 — [[characters/脱 (char)|脱]]
+
+Next by `danayo_id` (3227). `graphemic_classification: 兌` had already been verified against Wiktionary yesterday while researching [[税]]'s own family — no re-check needed, reused directly.
+
+**[[characters/脱 (char)|脱]]**: blank `pos` (→ `性詞`). No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus one bare Words entry beneath. Wrote all four Notes bullets from scratch (SKIP-1-4-7/Stroke 11; 1282nd-rank MC bullet confirmed against `CC 1000.md` line 295, 聲 定→d and 韻 末→uɑt matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS), the graphemic bullet noting 脱's place in the same 兌-phonetic family as 税/悦/説/鋭/閲. **`characters:`-field bare-filename bug found and fixed**: `words/脱稿.md` had `- 脱` instead of `- 脱 (char)` (脱.md is a real, separate word file — same collision class as 経済学/経営/帰結/軽罪 earlier this thread), plus formatted the ruby+gloss properly into `## Words`. Words cross-check (1 total, excluding stand-alone 脱.md) confirmed complete once fixed. No chengyu hits, no new `graphemic_classification: 脱` hits beyond the already-known family. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 致 (3228), 舌 (3229), plus three more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
