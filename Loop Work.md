@@ -932,6 +932,14 @@ Next by `danayo_id` (3213). No frontmatter/etymology bug this time — a clean i
 
 Next: 精 (3214), 純 (3215), 素 (3216), 経 (3217), plus one more per `danayo_id`.
 
+### 2026-07-29, iteration 124 — [[characters/精|精]]
+
+Next by `danayo_id` (3214). `pos` already correctly filled (`名詞`).
+
+**[[characters/精|精]]**: existing Notes was a stale "Components: 米, 青" bullet plus several Words entries scattered underneath it — some bare, some ruby'd, some with a bracket-wrapped gloss instead of plain quotes. Verified `graphemic_classification: 青` via Wiktionary before writing: confirmed 形声, semantic [[米]] ("rice") + phonetic [[青]] (OC *sʰleːŋ, close to 精's own *ʔsleŋ) — "polished rice," extended to "essence, spirit, refined quality." Wrote all four Notes bullets from scratch (SKIP-1-6-8/Stroke 14; 535th-rank MC bullet confirmed against `CC 0000.md` line 556, 聲 精→t͡s and 韻 清開→iᴇŋ matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (14 total) found all 14 already referenced somewhere on the page — consolidated into one properly-formatted `## Words` section, ruby added to the ~10 that were bare or malformed. **Real find, not fabricated**: 4 more bare wikilinks in the old Notes (精力, 精霊, 授精, 時代精神) turned out to have no `words/` file at all, not just missing ruby — confirmed via direct file check, dropped from the page rather than fabricating rubies, flagged as a 4-item word-creation backlog for a future pass. No `graphemic_classification: 精` hits (no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-29` (the stand-in, 精神, already exists and is properly listed — the 4 missing compounds aren't the blocking kind).
+
+Next: 純 (3215), 素 (3216), 経 (3217), plus two more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
