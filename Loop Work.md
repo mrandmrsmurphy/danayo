@@ -1124,6 +1124,14 @@ Next by `danayo_id` (3239). **Fourth instance this week of the visual-substituti
 
 Next: 認 (3240), 誠 (3241), 請 (3242), 論 (3243), 譲 (3244) per `danayo_id`, confirmed via a fresh unstamped-scan. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
 
+### 2026-07-30, iteration 148 — [[characters/認|認]]
+
+Next by `danayo_id` (3240).
+
+**[[characters/認|認]]**: blank `pos` (→ `事詞`). No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus one bare Words entry beneath. Verified `graphemic_classification: 忍` via Wiktionary before writing: confirmed 形声, semantic [[言 (char)|言]] ("speech, words") + phonetic [[忍 (char)|忍]] — an exact MC match (OC *njɯns/*njɯnʔ), already independently confirmed on 忍's own perfected page (iteration 34, which lists 認 in its own Derived Characters). Wrote all four Notes bullets from scratch (SKIP-1-7-7/Stroke 14; `mc_id: 5293`, a large long-tail rank outside the locally-checkable `CC 0000–3000` range, used verbatim per policy; 聲 日→ȵ and 韻 眞A開→iɪn confirmed against their own pages, matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kōtō/Korean MS). Words cross-check (2 total) found only 認識 present — added the stand-in note (認識 already listed but not marked as such) plus 認証. No `graphemic_classification: 認` hits (no Derived Characters section needed — 認 is 忍's descendant, not a phonetic root of its own), no chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 誠 (3241), 請 (3242), 論 (3243), 譲 (3244), plus one more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
