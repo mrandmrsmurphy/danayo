@@ -940,6 +940,14 @@ Next by `danayo_id` (3214). `pos` already correctly filled (`名詞`).
 
 Next: 純 (3215), 素 (3216), 経 (3217), plus two more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-29, iteration 125 — [[characters/純|純]]
+
+Next by `danayo_id` (3215). `pos` already correctly filled (`性詞`).
+
+**[[characters/純|純]]**: existing Notes was a stale "Components: 糸, 屯" bullet with no classification or gloss; no SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 屯` via Wiktionary before writing: confirmed 形声, semantic [[糸]] ("thread") + phonetic [[屯 (char)|屯]] — "pure fiber, unmixed thread," extended to "pure, unmixed, exclusively." Wrote all four Notes bullets from scratch (SKIP-1-6-4/Stroke 10; 1181st-rank MC bullet confirmed against `CC 1000.md` line 190, 聲 章→t͡ɕ and 韻 諄→iuɪn matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (3 total) found only 2 already listed — added the stand-in itself (純粋). `graphemic_classification: 屯` hit a 4-member family (春, 沌, 鈍, 頓) — spot-checked the least-obvious member (春, "spring," a three-component 会意+形声 hybrid rather than a plain two-part compound) via Wiktionary given today's standing caution around lookalike-phonetic bugs, confirmed genuine (semantic 艸+日, phonetic 屯) — added `## Derived Characters` with all 4. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 素 (3216), 経 (3217), plus three more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
