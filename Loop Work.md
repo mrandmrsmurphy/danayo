@@ -1044,6 +1044,14 @@ Next by `danayo_id` (3229).
 
 Next: 舞 (3230), 若 (3231), 茶 (3232), 華 (3233), 虎 (3234) per `danayo_id`, confirmed via a fresh unstamped-scan. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
 
+### 2026-07-30, iteration 138 — [[characters/舞|舞]]
+
+Next by `danayo_id` (3230). `pos` already correctly filled (`事詞`).
+
+**[[characters/舞|舞]]**: Notes was a stale "Components: 𠂉, 卌, 一, 舛" bullet with no real classification or gloss; no SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 無` via Wiktionary before writing: confirmed 形声, abbreviated phonetic [[無 (char)|無]] (OC *ma) + semantic [[舛]] ("steps, feet in convergent direction") — coined specifically to preserve the "dancing" sense of 無 once 無 itself was repurposed for "nothing, without" (a genuinely interesting split, not the usual simple phonetic-loan case). Wrote all four Notes bullets from scratch (SKIP-2-2-13/Stroke 15; 1040th-rank MC bullet confirmed against `CC 1000.md` line 45, 聲 微→ɱ and 韻 虞→ɨo matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (3 total) found only 1 already listed — added the stand-in itself (跳舞) plus 鼓舞. `graphemic_classification: 無` hit 2 characters (撫, 蕪) — spot-checked the semantically-distant one (撫, "comfort, stroke") via Wiktionary and confirmed genuine — added `## Derived Characters` with both. No chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 若 (3231), 茶 (3232), 華 (3233), 虎 (3234), plus one more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
