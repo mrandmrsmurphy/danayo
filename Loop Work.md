@@ -1068,6 +1068,14 @@ Next by `danayo_id` (3232).
 
 Next: 華 (3233), 虎 (3234), plus three more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
 
+### 2026-07-30, iteration 141 — [[characters/華|華]]
+
+Next by `danayo_id` (3233). Already substantially built — all four Notes bullets existed and the graphemic content was already correct, just needed the standard fixes.
+
+**[[characters/華|華]]**: existing graphemic bullet (象形: flowering plant, original form of 花) checked against Wiktionary and confirmed accurate, expanded with the bronze-inscription/seal-script evolution detail. All four Notes bullets were missing the `../` relative-path prefix throughout (`lookup/...`, `syllables/...`) — the exact "Callout/link paths missing the `../` prefix" mistake named in the checklist's own Common Mistakes list — fixed all four links. blank `pos` → `性詞`. Words cross-check via the YAML method (6 total) found only 2 already listed — added the stand-in itself (華美, already present but not marked as such) plus 繁華, 豪華, 中華, 中華民国. `graphemic_classification: 華` hit 2 characters (嘩, 樺) — checked 樺 individually via Wiktionary and confirmed genuine (semantic 木 + phonetic 華) — added `## Derived Characters` with both. No chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 虎 (3234), plus four more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
