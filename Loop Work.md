@@ -988,6 +988,14 @@ Next by `danayo_id` (3221).
 
 Next: 羽 (3222), 者 (3223), plus three more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-29, iteration 131 — [[characters/羽|羽]]
+
+Next by `danayo_id` (3222). `pos` already correctly filled (`名詞`).
+
+**[[characters/羽|羽]]**: Notes held only a single floating unembedded CC-final link (no initial link at all, since `middle_chinese_initial: ø`, a genuine null initial rather than a missing one). Verified `graphemic_classification: 象形` via Wiktionary before writing: confirmed — depicts wings or feathers side by side. Wrote all four Notes bullets from scratch (SKIP-1-3-3/Stroke 06; 567th-rank MC bullet confirmed against `CC 0000.md` line 588, null initial → [[Lookup/CC/initials/聲 云|ø]] and 韻 虞→ɨo matching frontmatter, same null-initial phrasing precedent as [[雨 (char)|雨]]; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean HS — `hanmun_edu_level: 高等` correctly mapped to Korean HS, not the default MS). Words cross-check via the YAML method (2 total) found both already present and correctly formatted, including the stand-in (羽毛) — no gap. No `graphemic_classification: 羽` hits (no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 者 (3223), plus four more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
