@@ -39,6 +39,7 @@ aliases:
   - 鍼
   - 针
 注音: ㄐㄧㄇ
+date-last-perfect: 2026-07-30
 kwin: false
 tags:
   - character
@@ -51,9 +52,12 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 章]]
-[[Lookup/CC/finals/韻 侵A]]
+## Notes
+- 形声 (OC *kjum): semantic [[金 (char)|金]] ("metal") + phonetic [[十 (char)|十]] — needle, pin.
+- [SKIP-1-8-2](../lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- `mc_id: 3214`, confirmed against `CC 3000.md` line 227. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄐㄧㄇ](../syllables/ㄐㄧㄇ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"
+- <ruby>[[方針]]<rt>ㄈㄚㄫㄐㄧㄇ</rt></ruby> "policy; principle"
