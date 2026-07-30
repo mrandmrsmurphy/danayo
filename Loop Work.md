@@ -900,6 +900,14 @@ Next by `danayo_id` (3209).
 
 Next: 税 (3210), 穀 (3211), 端 (3212), plus two more per `danayo_id`.
 
+### 2026-07-29, iteration 120 — [[characters/税|税]]
+
+Next by `danayo_id` (3210).
+
+**[[characters/税|税]]**: blank `pos` (→ `名詞`). No graphemic bullet, no SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links. Verified `graphemic_classification: 兌` via Wiktionary before writing: confirmed 形声, semantic [[Radical 115|禾]] ("grain") + phonetic 兌 (OC *l'oːds — no character page in this vault despite anchoring a large, well-attested family: 脱/悦/説/鋭/閲 all cite it too). Wrote all four Notes bullets from scratch (SKIP-1-5-7/Stroke 12; 1619th-rank MC bullet confirmed against `CC 1000.md` line 648, 聲 書→ɕ and 韻 祭A三合→iuᴇi matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (2 total) found only 1 already listed — added the stand-in itself (税金). `graphemic_classification: 兌` hit 5 characters (脱, 悦, 説, 鋭, 閲) — spot-checked the least-obvious member (鋭, whose reading ⼶ diverges most) via Wiktionary given this thread's two earlier same-day discoveries of bad 兌-lookalike-style citations (雚/鸛, 豊/丰·夆) — confirmed genuine (semantic 金 + phonetic 兌) — added `## Derived Characters` with all 5. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 穀 (3211), 端 (3212), plus three more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
