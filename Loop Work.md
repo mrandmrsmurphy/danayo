@@ -1108,6 +1108,14 @@ Next by `danayo_id` (3237). `pos` already correctly filled (`事詞`). **39th mo
 
 Next: 許 (3238), 証 (3239), plus three more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
 
+### 2026-07-30, iteration 146 — [[characters/許 (char)|許]]
+
+Next by `danayo_id` (3238).
+
+**[[characters/許 (char)|許]]**: blank `pos` (→ `事詞`). No SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links. Verified `graphemic_classification: 午` via Wiktionary before writing: confirmed 形声, semantic [[言 (char)|言]] ("speech, words") + phonetic [[午]] (OC *ŋaːʔ) — "to allow, to permit." Wrote all four Notes bullets from scratch (SKIP-1-7-4/Stroke 11; 478th-rank MC bullet confirmed against `CC 0000.md` line 496, 聲 曉→x and 韻 魚→ɨʌ matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (5 total) found only 1 already listed — added 准許, 允許, 不許. **`characters:`-field bare-filename bug found and fixed**: `words/准許.md` had `- 許` instead of `- 許 (char)` (same collision class as this thread's ongoing series). `graphemic_classification: 午` hit 3 characters (卸, 御, 許 itself excluded) — 御 confirmed straightforwardly genuine (semantic 卩 + phonetic 午); 卸's case was subtler — Wiktionary describes it as an "omission of 彳 in 御" rather than a direct 形声-with-午 compound, but explicitly notes "午 still gives the sound," meaning 卸 traces its phonetic identity through 御 rather than directly — the same "recognizable descendant via an intermediate genuine relative" pattern as 舌's 𠯑 case, not a bug; kept both in `## Derived Characters`. No chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 証 (3239), plus four more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
