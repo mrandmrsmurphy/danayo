@@ -996,6 +996,22 @@ Next by `danayo_id` (3222). `pos` already correctly filled (`名詞`).
 
 Next: 者 (3223), plus four more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-29, iteration 132 — [[characters/者 (char)|者]]
+
+Next by `danayo_id` (3223). **9th most-used character in the Classical Chinese ranking, the most fundamental character stamped so far this thread.**
+
+**[[characters/者 (char)|者]]**: blank `pos` (→ `名詞`). No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus a small Words scatter beneath. Verified `graphemic_classification: 象形` via Wiktionary before writing: confirmed — originally a pictograph of a sugarcane stalk with leaves/drops of sweet liquid and a smiling mouth below, used for 蔗 ("sugarcane") or 煮 ("to boil"), later phonetically loaned for the abstract agentive suffix sense ("-er, one who"). Wrote all four Notes bullets from scratch (SKIP-3-4-4/Stroke 08; 9th-rank MC bullet confirmed directly against the top of `CC 0000.md`; Grade 3/Old HSK 1/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (10 total, excluding stand-alone 者.md itself) found only 3 already listed — added 侍者, 学者, 文学者, 記者, 或者, 使者. `graphemic_classification: 者` hit a 15-member family (諸, 暑, 着, 箸, 堵, 奢, 屠, 渚, 書, 煮, 猪, 署, 緒, 都, 賭) — spot-checked two of the least-obvious semantically (都 "capital city," 着/著 "wear," both confirmed genuine via Wiktionary given today's standing caution around lookalike-phonetic bugs) — trusted the rest of the family given the size and consistency, added `## Derived Characters` with all 15, every ruby pulled from each character's own stored `注音` rather than composed. Chengyu (2, already present) confirmed correct, no gaps. **Incidental fix**: `characters/奢.md` had `english: extravagent` (typo → extravagant). Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 聴 (3225), 胸 (3226), 脱 (3227), 致 (3228), 舌 (3229) per `danayo_id`, confirmed via a fresh unstamped-scan; 3224 doesn't exist as a character id. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
+### 2026-07-30, iteration 133 — [[characters/聴 (char)|聴]]
+
+Next by `danayo_id` (3225). `pos` already correctly filled (`性詞`).
+
+**[[characters/聴 (char)|聴]]**: No SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links. Verified `graphemic_classification: 𡈼` via Wiktionary before writing: a more complex history than most this thread — originally 会意 (written 𦔻: 耳 "ear" + 口 "mouth[s]"), later rewritten as 形声 with phonetic [[𡈼]] added alongside the retained semantic 耳 and 㥁 ("virtue," no page in this vault); the modern shinjitai 聴 keeps 耳+𡈼 but drops 㥁 as a further simplification. Wrote all four Notes bullets from scratch (SKIP-1-6-11/Stroke 17; 282nd-rank MC bullet confirmed against `CC 0000.md` line 294, 聲 透→tʰ and 韻 青開→eŋ matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (3 total including the stand-alone 聴.md, which per the 正/年/式 precedent doesn't get listed in its own character's Words section) confirmed both real compounds (聴衆, 聴取) were already present and correctly formatted — no gap. No `graphemic_classification: 聴` hits (no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 胸 (3226), 脱 (3227), 致 (3228), 舌 (3229), plus one more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)

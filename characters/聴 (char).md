@@ -30,6 +30,7 @@ aliases:
   - 聽
   - 听
 注音: ㄑㄝㄫ
+date-last-perfect: 2026-07-30
 kwin: true
 tags:
   - character
@@ -42,9 +43,11 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 透]]
-[[Lookup/CC/finals/韻 青開]]
+## Notes
+- Originally 會意, written 𦔻: [[Radical 128|耳]] ("ear") + 口 ("mouth[s]"), depicting the act of listening. Later rewritten as 形声 with phonetic [[𡈼]] added alongside the retained semantic 耳 and 㥁 ("virtue," no character page in this vault) — the modern shinjitai 聴 keeps 耳 and 𡈼 but drops 㥁 as a further simplification.
+- [SKIP-1-6-11](../lookup/SKIP/SKIP-1/SKIP-1-6-11.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
+- 282nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄑㄝㄫ](../syllables/ㄑㄝㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[聴衆]]<rt>ㄑㄝㄫㄐㄨㄫ</rt></ruby> "audience"
