@@ -30,7 +30,7 @@ hsk_level: "3"
 hanmun_edu_level: "高等"
 danayo_id: 5002
 mc_id: 5055
-graphemic_classification: "貝"
+graphemic_classification: "𧴪"
 stand_in: "鎖"
 aliases:
   - 锁
@@ -48,5 +48,6 @@ boundedness: 75
 ```
 
 # Notes
+- 形声 (OC *soːlʔ): semantic [[金]] ("metal") + phonetic 𧴪 (no character page exists for it in this vault). **Corrected here**: the field previously stored `貝`, a real-but-unrelated vault character, visually distinct from 𧴪 but perhaps mistaken for it — found while cross-referencing [[貝]]'s own family.
 [[Lookup/CC/initials/聲 心]]
 [[Lookup/CC/finals/韻 戈一合]]
