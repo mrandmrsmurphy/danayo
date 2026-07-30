@@ -1116,6 +1116,14 @@ Next by `danayo_id` (3238).
 
 Next: 証 (3239), plus four more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
 
+### 2026-07-30, iteration 147 — [[characters/証|証]]
+
+Next by `danayo_id` (3239). **Fourth instance this week of the visual-substitution-in-shinjitai bug pattern** (after 雚/鸛, 豊/丰·夆, 虎/虍).
+
+**[[characters/証|証]]**: **real etymology correction**: `graphemic_classification` was stored as `正`, but Wiktionary's etymology for 證/証 gives phonetic 登 directly (OC *tɯːŋ) — 正 visually stands in for 登's shape in this character's own shinjitai simplification, but was never the real phonetic component; 登 already has its own character page in this vault, linked directly. Corrected the field. blank `pos` → `事詞`. No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus 3 Words entries scattered below. Wrote all four Notes bullets from scratch (SKIP-1-7-5/Stroke 12; `mc_id: 7193`, a large long-tail rank outside the locally-checkable `CC 0000–3000` range, used verbatim per the checklist's own trust-large-existing-values policy; 聲 章→t͡ɕ and 韻 蒸→ɨŋ confirmed against their own pages, matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (11 total) found only 3 already listed — added the stand-in itself (証明, already present but not marked as such) plus 証人, 証言, 認証, 通行証, 保証, 物証, 検証, 人証. No `graphemic_classification: 証` hits (no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 認 (3240), 誠 (3241), 請 (3242), 論 (3243), 譲 (3244) per `danayo_id`, confirmed via a fresh unstamped-scan. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
