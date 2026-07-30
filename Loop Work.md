@@ -1132,6 +1132,14 @@ Next by `danayo_id` (3240).
 
 Next: 誠 (3241), 請 (3242), 論 (3243), 譲 (3244), plus one more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
 
+### 2026-07-30, iteration 149 — [[characters/誠|誠]]
+
+Next by `danayo_id` (3241). Cleanest pass in a while — existing bullet was already correct, no field-vs-body issues today.
+
+**[[characters/誠|誠]]**: existing graphemic bullet (形声, semantic 言 + phonetic 成) checked against Wiktionary and confirmed accurate, kept and lightly expanded (added the OC-match note and gloss). blank `pos` → `性詞`. No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links after the one Words entry. Wrote all four Notes bullets from scratch (SKIP-1-7-6/Stroke 13 — SKIP code shared with yesterday's 解, expected; 570th-rank MC bullet confirmed against `CC 0000.md` line 591, 聲 船→ʑ and 韻 清開→iᴇŋ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (4 total) found only 1 already listed — added the stand-in itself (誠実) plus 誠心, 誠意. No `graphemic_classification: 誠` hits (誠 is 成's descendant, not a phonetic root of its own — no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 請 (3242), 論 (3243), 譲 (3244), plus two more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; two flagged alias-vs-independent-character ambiguities (致/緻, 製/制), neither resolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 yesterday, unfixed; when the sweep reaches `characters/獄.md`, remember to add it to [[言 (char)|言]]'s Derived Characters once its own graphemic bullet is written.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
