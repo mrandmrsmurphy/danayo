@@ -29,7 +29,7 @@ hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7213
 mc_id: 1780
-graphemic_classification: "䝿"
+graphemic_classification: "貴"
 stand_in: "潰"
 aliases:
   - 溃
