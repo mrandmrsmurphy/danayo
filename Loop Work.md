@@ -884,6 +884,14 @@ Next by `danayo_id` (3206).
 
 Next: 福 (3207), 私 (3209), 税 (3210), 穀 (3211), 端 (3212) per `danayo_id`, confirmed via a fresh unstamped-scan; 3208 doesn't exist as a character id.
 
+### 2026-07-29, iteration 118 — [[characters/福 (char)|福]]
+
+Next by `danayo_id` (3207). `福` is its own stand-in and `words/福.md` already exists (disambiguation callout already present, not touched).
+
+**[[characters/福 (char)|福]]**: blank `pos` (→ `名詞`). `# Notes` (wrong heading level) held only two floating unembedded CC-initial/final links, no SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 畐` via Wiktionary before writing: confirmed 形声, semantic [[Radical 113|示]] ("altar, ritual") + phonetic [[畐]] — an exact OC match (*pɯɡ for both), and unlike yesterday's 礼/豊 confusion, 畐 genuinely does have its own character page in this vault, linkable directly. Wrote all four Notes bullets from scratch (SKIP-1-4-9/Stroke 13; 482nd-rank MC bullet confirmed against `CC 0000.md` line 500, 聲 非→f and 韻 屋三→ɨuk matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (3 total, excluding the stand-alone 福.md itself per the 正/年 precedent) found only 1 already listed — added 福祉 and 艶福. `graphemic_classification: 畐` hit a large 6-member family (副, 偪, 富, 幅, 蝠, 逼) — spot-checked the least-obvious member (富, "rich," semantic 宀 rather than 示) via Wiktionary and confirmed genuine; unlike 礼's phonetic-mixup discovery last iteration, all six of these citations checked out as real — added `## Derived Characters` with all six. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 私 (3209), 税 (3210), 穀 (3211), 端 (3212), plus one more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
