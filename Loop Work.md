@@ -980,6 +980,14 @@ Next by `danayo_id` (3219).
 
 Next: 罪 (3221), 羽 (3222), 者 (3223), plus two more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-29, iteration 130 — [[characters/罪 (char)|罪]]
+
+Next by `danayo_id` (3221).
+
+**[[characters/罪 (char)|罪]]**: blank `pos` (→ `名詞`). No SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links. Verified `graphemic_classification: 會意` via Wiktionary before writing: confirmed — 罒 ("net") + 非 ("wrong, mistake"); the original form 𦋛 meant "fishing net," later substituted for 辠 ("crime," no page in this vault) because 辠's own glyph too closely resembled 皇 ("emperor") and was avoided for that reason. Wrote all four Notes bullets from scratch (SKIP-2-5-8/Stroke 13; 216th-rank MC bullet confirmed against `CC 0000.md` line 228, 聲 從→d͡z and 韻 灰→uʌi matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (5 total, excluding stand-alone 罪.md itself) found only 1 already listed (原罪) — added 犯罪, 軽罪, 贖罪. **Two more `characters:`-field bare-filename bugs found and fixed on the same word file**: `words/軽罪.md` had *both* sides wrong — `- 軽` (should be `軽 (char)`, since `characters/軽 (char).md` is the real filename) and `- 罪` (should be `罪 (char)`, same collision class as this iteration's 経済学/経営/帰結 finds) — a first this thread, both constituent characters on one word wrong simultaneously. Chengyu cross-check (1, 世間罪盛) found it missing entirely — added. No `graphemic_classification: 罪` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 羽 (3222), 者 (3223), plus three more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
