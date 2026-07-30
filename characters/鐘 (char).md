@@ -15,7 +15,7 @@ stroke_count: 20
 radical: "金"
 skip_number: 1-8-12
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - bell
 羅馬字: jong
@@ -30,6 +30,7 @@ stand_in: "鐘"
 aliases:
   - 钟
 注音: "ㄐㄛㄫ"
+date-last-perfect: 2026-07-30
 kwin: true
 tags:
   - character
@@ -42,7 +43,8 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-鍾???
-[[Lookup/CC/initials/聲 章]]
-[[Lookup/CC/finals/韻 鍾]]
+## Notes
+- 形声 (OC *tjoŋ): semantic [[金 (char)|金]] ("metal") + phonetic [[童]] (OC *doːŋ) — a bell, including the large bronze ritual bells of ancient China. Resolves the page's own old "鍾???" query: [[鍾 (char)|鍾]] is listed by Wiktionary as an alternative form of 鐘, but also survives independently as a distinct character meaning "cup, goblet" (a unit of capacity) — the two already have separate character pages in this vault, correctly not merged.
+- [SKIP-1-8-12](../lookup/SKIP/SKIP-1/SKIP-1-8-12.md) ([Stroke 20](../lookup/Stroke/Stroke%2020.md))
+- `mc_id: 1289`, confirmed against `CC 1000.md` line 302. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄐㄛㄫ](../syllables/ㄐㄛㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
