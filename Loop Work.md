@@ -1060,6 +1060,14 @@ Next by `danayo_id` (3231). `pos` already correctly filled (`連接詞`).
 
 Next: 茶 (3232), 華 (3233), 虎 (3234), plus two more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
 
+### 2026-07-30, iteration 140 — [[characters/茶 (char)|茶]]
+
+Next by `danayo_id` (3232).
+
+**[[characters/茶 (char)|茶]]**: blank `pos` (→ `名詞`). No SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links. Verified `graphemic_classification: 余` via Wiktionary before writing: confirmed 形声, semantic 艹 + phonetic [[余]] — 茶 originates as a graphical modification of the archaic character 荼 ("bitter plant"), narrowed specifically to "tea." Wrote all four Notes bullets from scratch (SKIP-2-3-6/Stroke 09; `mc_id: 8436`, a large long-tail rank outside the locally-checkable `CC 0000–3000` range, used verbatim per the checklist's own trust-large-existing-values policy; 聲 澄→ɖ and 韻 麻二開→ɣa confirmed against their own pages, matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kyōiku/Korean HS). Words cross-check via the YAML method (8 total) found only 3 already listed — added 大麦茶, 紅茶, 玄米茶, 烏龍茶. **No new Derived Characters section needed on this page**: `graphemic_classification: 余` is shared by a 7-member sibling family (叙, 塗, 徐, 斜, 舎, 途, 除), but per the established convention (Derived Characters lives on the *root* phonetic's own page, not scattered across every sibling), that section correctly belongs on [[余]]'s own page — checked, and 茶 was already properly listed there from an earlier pass. No chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 華 (3233), 虎 (3234), plus three more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
