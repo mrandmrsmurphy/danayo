@@ -908,6 +908,14 @@ Next by `danayo_id` (3210).
 
 Next: 穀 (3211), 端 (3212), plus three more per `danayo_id`.
 
+### 2026-07-29, iteration 121 — [[characters/穀|穀]]
+
+Next by `danayo_id` (3211). Pace bumped to 10 minutes per the user's latest request.
+
+**[[characters/穀|穀]]**: blank `pos` (→ `名詞`). No graphemic bullet, no SKIP/Stroke/MC/Levels bullets, and one stray "abbreviation for cerium" note attached inline to a Words entry instead of being a plain gloss. Verified `graphemic_classification: 殻` via Wiktionary before writing — **this one needed real care given today's two earlier same-day discoveries of visual-confusion phonetic mix-ups (雚/鸛, 豊/丰·夆)**: an imprecise first fetch garbled the composition and returned a mismatched OC reconstruction that looked like it might be a third instance of the same bug pattern, but a cleaner second fetch confirmed 穀's real composition genuinely shares the same 𣪊 phonetic skeleton as 殻/殼 (士+冖+几/殳), just with 殻's own 几 semantic swapped for 禾 (grain) as 穀's semantic component — kept `殻` as correct, phrased the bullet to note it's citing the shared phonetic core rather than 殻's full "shell" sense. **Real bug found in the process, on a different page**: `characters/殻.md`'s own `graphemic_classification` was self-referential (`殻: 殻`, i.e. claiming 殻 is its own phonetic component, structurally impossible) — Wiktionary gives 殻/殼's real phonetic as 㱿 (semantic 几 + phonetic 㱿, OC *kʰroːɡ) — corrected 殻's field to `㱿` and wrote its bullet too, in passing, same class of self-referential bug as 気's old `気: 気` mistake. Wrote all four Notes bullets on 穀 from scratch (SKIP-1-10-4/Stroke 14; 484th-rank MC bullet confirmed against `CC 0000.md` line 502, 聲 見→k and 韻 屋一→uk matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (4 total) found only 2 already listed (with the cerium note misattached) — added the stand-in itself (穀物) plus 穀倉, cleanly relocated 穀金 out of its inline note. No `graphemic_classification: 穀` hits (no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 端 (3212), plus four more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
