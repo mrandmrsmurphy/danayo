@@ -1052,6 +1052,14 @@ Next by `danayo_id` (3230). `pos` already correctly filled (`事詞`).
 
 Next: 若 (3231), 茶 (3232), 華 (3233), 虎 (3234), plus one more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
 
+### 2026-07-30, iteration 139 — [[characters/若 (char)|若]]
+
+Next by `danayo_id` (3231). `pos` already correctly filled (`連接詞`).
+
+**[[characters/若 (char)|若]]**: **real etymology correction**: `graphemic_classification` was stored as `會意`, but Wiktionary's classification is unambiguously 象形 — a pictogram of a person combing their hair, symbolizing obedience/compliance; 口 was added later and the original pictographic component came to be written separately as 叒 — the modern glyph's apparent 艹+右 decomposition (which the old stray "Components:" line described) reflects this evolved written form, not the character's real origin. Corrected the field and rewrote the bullet. No SKIP/Stroke/MC/Levels bullets existed otherwise. Wrote all four Notes bullets from scratch (SKIP-2-3-5/Stroke 08; 87th-rank MC bullet confirmed against `CC 0000.md` line 91, 聲 日→ȵ and 韻 麻三開→ia matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kōtō/Korean MS). Words cross-check (2 total) found both already present and correct — no gap. `graphemic_classification: 若` hit 3 characters (諾, 匿, 惹) — all checked individually via Wiktionary given today's standing caution and confirmed genuine — added `## Derived Characters` with all 3, every ruby verified against its own stored `注音` before writing. No chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 茶 (3232), 華 (3233), 虎 (3234), plus two more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
