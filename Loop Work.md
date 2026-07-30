@@ -972,6 +972,14 @@ Next by `danayo_id` (3218).
 
 Next: 統 (3219), 罪 (3221), 羽 (3222), 者 (3223), plus one more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-29, iteration 129 — [[characters/統|統]]
+
+Next by `danayo_id` (3219).
+
+**[[characters/統|統]]**: blank `pos` (→ `事詞`). No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus a scatter of Words entries (1 ruby'd, 2 bare). Verified `graphemic_classification: 充` via Wiktionary before writing: confirmed 形声, semantic [[糸]] ("thread," interconnection) + phonetic [[充]] (OC *tʰuːŋs) — "to unite, govern, control; a lineage or system." Wrote all four Notes bullets from scratch (SKIP-1-6-6/Stroke 12 — SKIP code shared with [[結 (char)|結]] last iteration, expected; 1084th-rank MC bullet confirmed against `CC 1000.md` line 89, 聲 透→tʰ and 韻 冬→uoŋ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (7 total) found only 3 already listed — added the stand-in itself (統率) plus 統一, 系統, 統治, 伝統. `graphemic_classification: 充` hit only [[銃 (char)|銃]] — checked via Wiktionary and confirmed genuine (semantic 金 + phonetic 充, exact OC match) — added `## Derived Characters`, ruby verified against its own stored `注音` before writing. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 罪 (3221), 羽 (3222), 者 (3223), plus two more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
