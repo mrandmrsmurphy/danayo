@@ -1028,6 +1028,22 @@ Next by `danayo_id` (3227). `graphemic_classification: 兌` had already been ver
 
 Next: 致 (3228), 舌 (3229), plus three more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-30, iteration 136 — [[characters/致 (char)|致]]
+
+Next by `danayo_id` (3228).
+
+**[[characters/致 (char)|致]]**: blank `pos` (→ `事詞`). No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus a single garbled Words entry (`[[致使]] "- that"`, a mangled gloss). Verified `graphemic_classification: 至` via Wiktionary before writing: confirmed 形声, phonetic [[至 (char)|至]] ("to arrive," an exact OC match) + semantic 攵 ("action, movement," no page in this vault) — "to cause to arrive, to send, to bring about." Wrote all four Notes bullets from scratch (SKIP-1-6-4/Stroke 10; 363rd-rank MC bullet confirmed against `CC 0000.md` line 378, 聲 知→ʈ and 韻 脂B三開→ɣiɪ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (3 total, excluding stand-alone 致.md) found only the garbled 致使 previously present — fixed its gloss ("that; resulting in," pulled from the word's own `english:` field) and added 景致, 一致. **Two more `characters:`-field bare-filename bugs found and fixed**: `words/景致.md` had `- 致` instead of `- 致 (char)` (same collision class as 経済学/経営/帰結/軽罪/脱稿 earlier this thread) — also fixed an incidental typo there (`english: scenerey` → scenery). **Flagged, not resolved**: `致 (char).md`'s own `aliases:` field lists `緻`, but `characters/緻.md` is a fully independent character page with its own distinct MC reading (ɖ vs 致's ʈ), its own `stand_in` (精緻, already a real word), and its own semantic identity ("delicate, fine" vs 致's "cause") — this looks structurally like the 且/処 split-not-folded precedent rather than a genuine alias relationship (contrast with 猾/滑, which really was folded), but resolving it means deciding whether to strip the alias listing or fold 緻 into 致 entirely, out of scope for today; left both pages untouched on this point and did not add a `## Derived Characters` section here pending that call. No chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 舌 (3229), plus four more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
+
+### 2026-07-30, iteration 137 — [[characters/舌 (char)|舌]]
+
+Next by `danayo_id` (3229).
+
+**[[characters/舌 (char)|舌]]**: existing graphemic bullet (象形: a snake's tongue emerging from a mouth) checked against Wiktionary and confirmed accurate, expanded with the oracle-bone-to-modern glyph evolution detail. blank `pos` → `名詞`. Sections were oddly ordered (Levels-adjacent note "Promoted from Korean HS to MS list in 2000" sitting as its own bullet rather than folded into the Levels bullet) and no SKIP/Stroke/MC/Levels bullets existed otherwise. Wrote all four Notes bullets from scratch (SKIP-2-3-3/Stroke 06; 1457th-rank MC bullet confirmed against `CC 1000.md` line 478, 聲 禪→d͡ʑ and 韻 薛A三開→iᴇt matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS, folding the 2000-promotion note into this bullet rather than leaving it floating). Words cross-check (2 total) found both already present — no gap. **Real nuance found on `graphemic_classification: 舌` hits**: of 6 characters citing 舌 (活, 筈, 刮, 括, 聒, 蛞), Wiktionary's real etymology for two spot-checked (活, 刮) actually traces to 𠯑 (no character page in this vault), which visually evolved into the modern 舌 shape shared by all six — the same "recognizable descendant of an unlinkable true ancestor" pattern already established for 悟/五 and 栽/才, not a bug; kept all 6 in `## Derived Characters`, documented the 𠯑 nuance in the section's own intro line rather than on each individual character's page. No chengyu hits. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 舞 (3230), 若 (3231), 茶 (3232), 華 (3233), 虎 (3234) per `danayo_id`, confirmed via a fresh unstamped-scan. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
