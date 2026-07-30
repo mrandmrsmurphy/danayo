@@ -876,6 +876,14 @@ Next by `danayo_id` (3205).
 
 Next: 礼 (3206), plus four more per `danayo_id`.
 
+### 2026-07-29, iteration 117 — [[characters/礼 (char)|礼]]
+
+Next by `danayo_id` (3206).
+
+**[[characters/礼 (char)|礼]]**: blank `pos` (→ `名詞`). `# Notes` (wrong heading level) held only two floating unembedded CC-initial/final links plus two Words entries (one bare, one ruby'd) misplaced under Notes, no SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 豊` via Wiktionary before writing: confirmed 形声, semantic [[Radical 113|示]] ("altar") + phonetic [[豊]] — an exact OC match (*riːʔ for both). Wrote all four Notes bullets from scratch (SKIP-1-4-1/Stroke 05; 115th-rank MC bullet confirmed against `CC 0000.md` line 123, 聲 來→l and 韻 齊開→ei matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (10 total, including 礼 itself as its own stand-in) found only 5 already referenced — added 礼拝, 礼記, 儀礼, 失礼, 結婚礼. **Caught four guessed-ruby near-misses before shipping, the largest single batch this thread**: drafted 礼拝/礼記/儀礼/結婚礼 by pattern-matching component readings, but checked each against its own stored `注音` and found all four wrong (礼拝: ㄅ⼶ not guessed ㄅㄚㄧ; 礼記: bare ㄍ not guessed ㄍㄧ; 儀礼: ㄨㄧ㄁ㄝㄧ, i.e. 儀's real reading is ㄨㄧ not the guessed ㄍ⼶; 結婚礼: ㄍㄝㄊ not guessed ㄍ⼶ㄊ) — corrected all four. Also found and fixed a **pre-existing bad ruby on the page from before this pass**: 五礼's `<rt>` carried a spurious leading `·` (`·ㄛㄌㄝㄧ`) that isn't in the word's own stored `注音` (`ㄛㄌㄝㄧ`) — removed. **Real corpus find while checking the Derived Characters candidates**: `graphemic_classification: 豊` hit 5 characters, but Wiktionary confirmed only [[醴]] (exact OC match, *riːʔ) is genuine — the other four (奉, 蜂 (char), 峰, 鋒) all actually cite the wrong lookalike phonetic. 奉's real phonetic is 丰 (OC *pʰoŋ, "abundant" — visually similar to 豊 but a distinct character), and 蜂/峰/鋒 all real phonetic 夆 (OC *pʰoŋ, itself built on 丰) — same class of visual-confusion corpus error as 権/歓's 雚→鸛 mix-up earlier today, just a different character pair. Fixed all four fields (奉→丰, 蜂 (char)→夆, 峰→夆, 鋒→夆; neither 丰 nor 夆 has a character page in this vault) without otherwise touching those four pages' own perfection status. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 福 (3207), 私 (3209), 税 (3210), 穀 (3211), 端 (3212) per `danayo_id`, confirmed via a fresh unstamped-scan; 3208 doesn't exist as a character id.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)

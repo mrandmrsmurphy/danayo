@@ -27,7 +27,7 @@ hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 6371
 mc_id: 2804
-graphemic_classification: "豊"
+graphemic_classification: "夆"
 stand_in: "蜂"
 aliases:
   - 蚌

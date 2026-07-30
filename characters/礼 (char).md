@@ -27,7 +27,7 @@ stroke_count: 5
 radical: "示"
 skip_number: 1-4-1
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - manners
 羅馬字: lei
@@ -43,6 +43,7 @@ aliases:
   - 禮
   - 𥜪
 注音: "ㄌㄝㄧ"
+date-last-perfect: 2026-07-29
 kwin: false
 tags:
   - character
@@ -55,13 +56,22 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 齊開]]
-- [[礼拝]] "worship service, religious worship"
-- <ruby>[[礼物]]<rt>ㄌㄝㄧㄇㄨㄊ</rt></ruby> "gift (formal), present (formal)"
+## Notes
+- 形声 (OC *riːʔ): semantic [[Radical 113|示]] ("altar") + phonetic [[豊]] (OC *riːʔ, an exact match) — performing rites at the altar; rites, courtesy, manners.
+- [SKIP-1-4-1](../lookup/SKIP/SKIP-1/SKIP-1-4-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 115th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄌㄝㄧ](../syllables/ㄌㄝㄧ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[五礼]]<rt>·ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"
+- <ruby>[[五礼]]<rt>ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"
 - <ruby>[[聖礼]]<rt>ㄙㄧㄫㄌㄝㄧ</rt></ruby> "sacrament"
 - <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"
+- <ruby>[[礼拝]]<rt>ㄌㄝㄧㄅ⼶</rt></ruby> "worship service, religious worship"
+- <ruby>[[礼物]]<rt>ㄌㄝㄧㄇㄨㄊ</rt></ruby> "gift (formal), present (formal)"
+- <ruby>[[礼記]]<rt>ㄌㄝㄧㄍ</rt></ruby> "Classic of Rites"
+- <ruby>[[儀礼]]<rt>ㄨㄧㄌㄝㄧ</rt></ruby> "etiquette; ceremony"
+- <ruby>[[失礼]]<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby> "rude; discourteous; excuse me"
+- <ruby>[[結婚礼]]<rt>ㄍㄝㄊㄏㄛㄋㄌㄝㄧ</rt></ruby> "wedding ceremony"
+
+## Derived Characters
+- <ruby>[[醴]]<rt>ㄌㄝㄧ</rt></ruby> "sweet water"
