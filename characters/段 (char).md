@@ -26,7 +26,7 @@ hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 4150
 mc_id: 1790
-graphemic_classification: "耑"
+graphemic_classification: "厂"
 stand_in: "段"
 aliases:
 注音: "ㄉ⺢ㄋ"
@@ -42,6 +42,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- Bronze-script phono-semantic/ideogrammic compound (OC *doːns): phonetic [[Radical 027|厂]] ("cliff") + semantic [[Radical 79|殳]] ("hammer, to strike") — a hammer in hand breaking off a fragment of stone; "section, piece." **Corrected here**: the field previously stored `耑`, which shares nothing phonetically with 段 (耑's own OC *toːn is a plain-tone rhyme, unrelated to 段's *-ns), found while cross-referencing [[端]]'s own family.
 [[Lookup/CC/initials/聲 定]]
 [[Lookup/CC/finals/韻 桓]]
