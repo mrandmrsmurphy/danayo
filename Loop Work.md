@@ -892,6 +892,14 @@ Next by `danayo_id` (3207). `福` is its own stand-in and `words/福.md` already
 
 Next: 私 (3209), 税 (3210), 穀 (3211), 端 (3212), plus one more per `danayo_id`.
 
+### 2026-07-29, iteration 119 — [[characters/私|私]]
+
+Next by `danayo_id` (3209).
+
+**[[characters/私|私]]**: blank `pos` (→ `性詞`). `# Notes` (wrong heading level) held two floating unembedded CC-initial/final links plus 2 Words entries (one ruby'd, one bare) misplaced under Notes, no SKIP/Stroke/MC/Levels bullets. Verified `graphemic_classification: 厶` via Wiktionary before writing: confirmed 形声, semantic [[Radical 115|禾]] ("grain") + phonetic 厶 — but 厶 here isn't an ordinary pageless phonetic component, it's genuinely 私's own ancestor glyph and is already registered on this very page's own `aliases:` field, so this is a legitimate self-citation, same structural pattern as 鸛→雚 and 気→气. Wrote all four Notes bullets from scratch (SKIP-1-5-2/Stroke 07; 494th-rank MC bullet confirmed against `CC 0000.md` line 512, 聲 船→ʑ and 韻 脂A三開→iɪ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS). Words cross-check via the YAML method (4 total) found only 2 already referenced — added the stand-in itself (私立) and 無私. **Real corpus bugs found and fixed while checking the `graphemic_classification: 厶` Derived Characters candidates (矣, 弘, 牟)**: 弘's own page already correctly links `[[私|厶]]` (confirming the alias-routing pattern is already established elsewhere, not a novel call) and is a genuine hit, added to Derived Characters. But **矣 and 牟 were both wrong, two different bug shapes**: 矣's real phonetic component is [[以 (char)|以]] (via its old form 㠯, OC *lɯʔ per Wiktionary) — a straightforward mis-citation, corrected `矣`'s field from `厶` to `以` and wrote a first-draft graphemic bullet (rest of that page's checklist compliance untouched, out of scope today). 牟's field wrongly asserted a 形声 relationship at all — Wiktionary classifies 牟 as 指事 (an ox + a symbol representing its lowing, the symbol only later coming to resemble 厶, not a real phonetic borrowing) — corrected the field to `指事` and wrote a bullet, same "field claims a specific phonetic where none exists" class as 受's old `舟` bug. Neither 矣 nor 牟 excluded from doing so meant a false Derived Characters hit almost got included; final section on this page correctly lists only 弘. No chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 税 (3210), 穀 (3211), 端 (3212), plus two more per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)

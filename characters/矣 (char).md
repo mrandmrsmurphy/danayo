@@ -29,7 +29,7 @@ hsk_level: ""
 hanmun_edu_level: 中
 danayo_id: 7274
 mc_id: 49
-graphemic_classification: 厶
+graphemic_classification: 以
 stand_in: 矣
 aliases:
   - 欸
@@ -47,6 +47,7 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- 形声 (OC *ɢlɯʔ): semantic [[Radical 111|矢]] ("arrow") + phonetic [[以 (char)|以]] (via its old form 㠯, OC *lɯʔ) — a sentence-final particle. **Corrected here**: the field previously stored `厶`, a visual-confusion mistake unrelated to 矣's real phonetic component, found while cross-referencing [[私]]'s own family.
 [[Lookup/CC/initials/聲 曉]]
 [[Lookup/CC/finals/韻 皆開]]
