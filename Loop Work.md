@@ -956,6 +956,22 @@ Next by `danayo_id` (3216). **Largest single Words gap-fill this entire thread**
 
 Next: 経 (3217), plus four more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-29, iteration 127 — [[characters/経 (char)|経]]
+
+Next by `danayo_id` (3217).
+
+**[[characters/経 (char)|経]]**: blank `pos` (→ `名詞`). No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus a scatter of Words entries below them (2 bare, rest ruby'd). Verified `graphemic_classification: 巠` via Wiktionary before writing: confirmed 形声, semantic [[糸]] ("silk, thread") + phonetic [[巠]] — an exact OC match (*keːŋ for both). Wrote all four Notes bullets from scratch (SKIP-1-6-5/Stroke 11; 371st-rank MC bullet confirmed against `CC 0000.md` line 386, 聲 見→k and 韻 青開→eŋ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (20 total) found only 10 already listed — added 経済学, 経営, 経典, 月経, 神経, 詩経, 楽経, 五経, 四書五経. **Two `characters:`-field bare-filename bugs found and fixed**: `words/経済学.md` and `words/経営.md` both had `- 経` instead of `- 経 (char)` (経.md is a real, separate word file, a genuine filename collision). **Caught a large batch of guessed-ruby near-misses on the Derived Characters section before shipping**: `graphemic_classification: 巠` hit 6 characters (茎, 軽, 頚, 勁, 径, 脛) — spot-checked 勁 individually via Wiktionary (confirmed genuine, phonetic 巠 + semantic 力) but then, drafting all 6 rubies by pattern-matching the syllable rather than checking each file, got 4 of 6 wrong (茎/軽/頚/勁 are all really ㄎㄧㄫ/ㄍㄧㄫ, not the guessed ㄍㄝㄫ/ㄎㄝㄫ; 脛 is really ㄏㄝㄫ, not ㄍㄝㄫ) — caught by checking every single stored `注音` directly rather than trusting the draft, corrected all 4 before finalizing. **Incidental fixes**: `words/月経.md` had `english: mentruation` (typo → menstruation). No `graphemic_classification: 経` hits beyond the corrected 6. Chengyu (1, 神経衰弱) already present and correct. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 結 (3218), 統 (3219), 罪 (3221), 羽 (3222), 者 (3223) per `danayo_id`, confirmed via a fresh unstamped-scan; 3220 doesn't exist as a character id. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
+### 2026-07-29, iteration 128 — [[characters/結 (char)|結]]
+
+Next by `danayo_id` (3218).
+
+**[[characters/結 (char)|結]]**: blank `pos` (→ `事詞`, "tie/join" taking an object). No SKIP/Stroke/MC/Levels bullets — Notes had two floating unembedded CC-initial/final links plus a scatter of Words entries below them (2 bare, rest ruby'd), and `## Chengyu` immediately followed with no blank line separating sections. Verified `graphemic_classification: 吉` via Wiktionary before writing: confirmed 形声, semantic [[糸]] ("silk, thread") + phonetic [[吉]] (OC *klid, close to 結's own *kiːd) — "to tie, to bind." Wrote all four Notes bullets from scratch (SKIP-1-6-6/Stroke 12; 750th-rank MC bullet confirmed against `CC 0000.md` line 777, 聲 見→k and 韻 屑開→et matching frontmatter; Grade 3/Old HSK 1/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method (12 total, excluding the stand-alone 結.md itself) found only 6 already listed — added 結婚, 結婚礼, 帰結, 凝結, 連結. **Two more `characters:`-field bare-filename bugs found and fixed**: `words/帰結.md` had `- 結` instead of `- 結 (char)` (結.md is a real, separate word file — same collision class as 経済学/経営 last iteration). `graphemic_classification: 吉` hit a 3-member family (壱, 桔, 詰) — spot-checked the semantically-furthest member (壱, "loyal/faithful," now repurposed as the financial numeral "one") via Wiktionary given today's standing caution, confirmed genuine (its traditional form 壹 is 形声, semantic 壺 + phonetic 吉, exact OC match) — added `## Derived Characters` with all 3, every ruby verified against its own stored `注音` before writing (no repeat of the guessed-ruby batch two iterations ago). Chengyu (1, 結髪夫妻) already present and correct. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 統 (3219), 罪 (3221), 羽 (3222), 者 (3223), plus one more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
