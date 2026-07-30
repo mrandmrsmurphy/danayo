@@ -27,7 +27,7 @@ hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 4240
 mc_id: 398
-graphemic_classification: 虎
+graphemic_classification: 虍
 stand_in: 虚
 aliases:
   - 虛

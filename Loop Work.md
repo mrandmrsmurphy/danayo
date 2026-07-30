@@ -1076,6 +1076,14 @@ Next by `danayo_id` (3233). Already substantially built — all four Notes bulle
 
 Next: 虎 (3234), plus four more per `danayo_id`. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved.
 
+### 2026-07-30, iteration 142 — [[characters/虎 (char)|虎]]
+
+Next by `danayo_id` (3234). **Second largest corpus cascade today after 権/歓 (雚→鸛) and 奉/蜂/峰/鋒 (豊→丰·夆)** — a real vault-wide phonetic mix-up between 虎 (the full character) and 虍 (its head-only radical component, Radical 141, no character page).
+
+**[[characters/虎 (char)|虎]]**: **field-vs-body contradiction**: `graphemic_classification` was stored as `會意`, but the page's own already-written bullet plainly described a pictograph (虍 = tiger's head, legs/tail evolving through script forms) and linked "List of 象形" — Wiktionary confirms 象形 is correct. Corrected the field, linked 虍 to [[Radical 141|虍]]. Reordered a malformed `### Derived Characters` (nested under Notes with just one bare entry) into a proper `## Derived Characters` section, added missing SKIP/Stroke/MC/Levels bullets, and reordered Words before Chengyu. Words (1, already correct) and Chengyu (2, already correct) needed no content changes. **Real corpus finding while researching Derived Characters candidates**: of 5 characters citing `graphemic_classification: 虎` (虚, 慮, 琥, 盧, 虜), only [[琥]] genuinely has phonetic 虎 (Wiktionary confirms, semantic 玉 + phonetic 虎) — the other four (虚, 慮, 盧, 虜) all actually cite phonetic 虍 (the radical, OC *qʰaː), not the full character 虎, per Wiktionary for each. Fixed the three that aren't yet perfected pages (`虚 (char).md`, `慮.md`, `虜.md` — corrected their `graphemic_classification` fields from `虎` to `虍`; left their bodies untouched since none has been reached by this sweep yet, this was a field-only fix to stop the wrong value from propagating); did not touch `盧.md` today (out of scope, flagged for whenever its turn comes, same bug expected). 虎's own `## Derived Characters` now correctly lists only 彪 and 琥 (the two genuine phonetic descendants of 虎 itself), not the 虍-descendants which belong elsewhere. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 製 (3235), 解 (3236), 言 (3237), 許 (3238), 証 (3239) per `danayo_id`, confirmed via a fresh unstamped-scan. **Open items**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet; possible `致`/`緻` alias-vs-independent-character question flagged, unresolved; `characters/盧.md`'s own `graphemic_classification: 虎` likely has the same 虎-vs-虍 bug found on 虚/慮/虜 today, unfixed, flagged for whenever the sweep reaches it.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)

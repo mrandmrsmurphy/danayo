@@ -24,11 +24,12 @@ hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 3234
 mc_id: 577
-graphemic_classification: "會意"
+graphemic_classification: "象形"
 stand_in: "虎"
 aliases:
   - 乕
 注音: "ㄏㄛ"
+date-last-perfect: 2026-07-30
 kwin: true
 tags:
   - character
@@ -41,15 +42,18 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-
-- [List of 象形](lookup/List%20of%20象形.md): . 虍 represents the tiger's head. The torso has disappeared and the legs and the tail have transformed into 人 in the small seal script and later 儿 in the clerical script.
-### Derived Characters
-- [[彪]]
+- [List of 象形](../lookup/List%20of%20象形.md): [[Radical 141|虍]] represents the tiger's head. The torso has disappeared and the legs and the tail have transformed into 人 in the small seal script and later 儿 in the clerical script.
+- [SKIP-3-4-4](../lookup/SKIP/SKIP-3/SKIP-3-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 577th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](../syllables/ㄏㄛ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[虎鯨]]<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby> "orca; killer whale"
+
 ## Chengyu
 - <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"
 - <ruby>[[臥虎蔵龍]]<rt>⺢ㄏㄛㄑㄚㄫㄌ⼄ㄫ</rt></ruby> "hidden talents lurk everywhere"
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 模]]
+
+## Derived Characters
+- <ruby>[[彪]]<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes"
+- <ruby>[[琥]]<rt>ㄏㄛ</rt></ruby> "amber"
