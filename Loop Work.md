@@ -948,6 +948,14 @@ Next by `danayo_id` (3215). `pos` already correctly filled (`性詞`).
 
 Next: 素 (3216), 経 (3217), plus three more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
 
+### 2026-07-29, iteration 126 — [[characters/素|素]]
+
+Next by `danayo_id` (3216). **Largest single Words gap-fill this entire thread**, well past 様/球's earlier records.
+
+**[[characters/素|素]]**: blank `pos` (→ `名詞`). Existing graphemic bullet (象形: hands 廾 braiding thread 糸) checked against Wiktionary and confirmed accurate, kept and expanded slightly (noted the modern glyph's top resembling 生 minus a stroke). No SKIP/Stroke/MC/Levels bullets existed. Wrote all four Notes bullets from scratch (SKIP-2-4-6/Stroke 10; 791st-rank MC bullet confirmed against `CC 0000.md` line 818, 聲 心→s and 韻 模→uo matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS). Words cross-check via the YAML method found **54 total compounds** against only 4 previously listed — 素 turns out to function as a highly productive suffix naming chemical elements (mirroring English "-ium"/"-ine"/"-on"), with 45 of the 54 being element names alone. Per the checklist's large-list subheading exception (same precedent as 月/日/様/球), split into a flat top list (8 non-element entries plus the stand-in 要素 and generic 元素) and a `### Chemical Elements` subheading holding all 45 — every ruby pulled verbatim from each word's own stored `注音`, none composed/guessed given the volume. No `graphemic_classification: 素` hits (no Derived Characters section needed), no chengyu hits. Stamped `date-last-perfect: 2026-07-29`.
+
+Next: 経 (3217), plus four more per `danayo_id`. **Open item**: 4 word-creation gaps found on 精's old Notes (精力, 精霊, 授精, 時代精神) — none created yet.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
