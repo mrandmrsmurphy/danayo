@@ -1280,6 +1280,54 @@ Next by `danayo_id` (3264); 3265 (陽) was already stamped 2026-06-14, skipped. 
 
 Next: 雄 (3266), 霜 (3267), 露 (3268) per `danayo_id`.
 
+### 2026-07-30, iteration 173 — [[characters/雄 (char)|雄]]
+
+Next by `danayo_id` (3266). Small page, no bugs beyond the usual blanks.
+
+**[[characters/雄 (char)|雄]]**: blank `pos` (→ `性詞`; the stand-in word `words/雄.md` carries no `pos` field at all to match against — picked on the "manly, male" gloss). Verified `graphemic_classification: 厷` via Wiktionary before writing: confirmed 形声, semantic [[Radical 172|隹]] ("bird") + phonetic 厷 (OC *kʷɯːŋ vs. 雄's *ɡʷɯŋ — voicing split, the same well-attested 厷-family pattern as 宏/閎/紘). 厷 has no character page in this vault (checked), stays unlinked prose. No SKIP/Stroke/MC/Levels bullets — Notes was a wrong-level `# Notes` heading over two floating unembedded CC-initial/final links. Wrote all four bullets from scratch (SKIP-1-4-8/Stroke 12; 1106th-rank MC bullet confirmed against `CC 1000.md` line 115, 聲 云→ø and 韻 東三→ɨuŋ matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kōtō/Korean MS). `japanese_native` was a bare scalar (`お`) — reformatted to a list and added おす, the other Jōyō kun-yomi (confirmed via Wiktionary; お itself is marked obsolete-in-isolation there but kept as stored). Callout path fixed (`words/雄.md` → `../words/雄.md`), stray blank lines around the meta-bind-embed removed. Words cross-check (1 compound, 英雄 — the self stand-in 雄 not listed per the 正/閉/陰 convention) added. No chengyu hits, no `graphemic_classification: 雄` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 霜 (3267), 露 (3268), 革 (3269) per `danayo_id`.
+
+### 2026-07-30, iteration 174 — [[characters/霜 (char)|霜]]
+
+Next by `danayo_id` (3267). Same bare-stub shape as 雄 last iteration, no surprises.
+
+**[[characters/霜 (char)|霜]]**: blank `pos` (→ `名詞`, matching the stand-in word `words/霜.md`'s own field). Verified `graphemic_classification: 相` via Wiktionary before writing: confirmed 形声, semantic [[Radical 173|雨]] ("rain") + phonetic [[相]] (OC *slaŋ, *slaŋs vs. 霜's *sraŋ — the 相 family's two series visible in the same OC table). No SKIP/Stroke/MC/Levels bullets — Notes was a wrong-level `# Notes` heading over two floating unembedded CC-initial/final links. Wrote all four bullets from scratch (SKIP-2-8-9/Stroke 17; 1497th-rank MC bullet confirmed against `CC 1000.md` line 518, 聲 生→ʃ and 韻 陽開→ɨɐŋ matching frontmatter; Grade 3/Old HSK 3/Jōyō - Kōtō/Korean MS). `japanese_native` bare scalar (しも) reformatted to a list (Wiktionary's only Jōyō kun-yomi — nothing to add this time). Callout path fixed (`../words/霜.md`), stray blank lines around the embed removed. Words cross-check (1 compound, 星霜 — the self stand-in 霜 not listed per convention) added. No chengyu hits (neither `characters:`-field citations nor any chengyu titled with 霜), no `graphemic_classification: 霜` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 露 (3268), 革 (3269), 頂 (3270) per `danayo_id`.
+
+### 2026-07-30, iteration 175 — [[characters/露 (char)|露]]
+
+Next by `danayo_id` (3268). The messiest page of today's three — two real data errors, not just formatting.
+
+**[[characters/露 (char)|露]]**: `pos` already filled (`名詞`). Verified `graphemic_classification: 路` via Wiktionary before writing: confirmed 形声, semantic [[Radical 173|雨]] + phonetic [[路]], both OC *ɡ·raːɡs exactly — the pre-existing bullet's analysis was right, only its link forms were broken (`[雨](Radical%20173)` root-relative, `[路](路.md)` missing `../`; both fixed, and Schuessler's "derivative of 落 with exopassivizing *-s" note folded in from Wiktionary). **Two real data errors**: (1) the SKIP bullet linked SKIP-2-8-**3** while the frontmatter's own `skip_number` is 2-8-**13** — checked the SKIP pages directly, 露 does live on SKIP-2-8-13, bullet corrected (雨 8 + 路 13 is consistent too); (2) `japanese_native` had the same malformed scalar-plus-stray-list-item shape as 陰 (`つゆ` + `- あきら`), but this time the stray item wasn't a kun-yomi at all — Wiktionary lists あきら strictly as a **nanori** (name reading), so it was dropped rather than folded into the list, leaving つゆ as the sole Jōyō kun-yomi. **Body rebuild**: the MC bullet was malformed throughout ("most common character**s**", English-text pipe aliases `[[聲 來|Initial L]]`/`[[韻 模|Final uo]]` instead of IPA symbols, no syllable link, both CC links also floating bare beneath it) — rewrote canonically (1123rd rank confirmed against `CC 1000.md` line 132, 聲 來→l and 韻 模→uo matching frontmatter); the Levels bullet had all four links but in reversed order (Korean-first → Grade/HSK/Jōyō/Korean); the stray "abbreviation for ruthenium" note was reformatted into a proper 露金 Words entry, same as 造金 on 造's page. Words cross-check (7 compounds: 甘露, 披露, 露月, 露金, 露語, 露斯亜, 露斯亜語 — the self stand-in 露 not listed per convention) found 6 of 7 missing; all glosses and rubies pulled verbatim from the word files' own `english:`/`注音:` fields. No chengyu hits, no `graphemic_classification: 露` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 革 (3269), 頂 (3270), 須 (3271) per `danayo_id`.
+
+### 2026-07-30, iteration 176 — [[characters/革|革]]
+
+Next by `danayo_id` (3269). First radical-self character of the day (革 is Radical 177).
+
+**[[characters/革|革]]**: blank `pos` (→ `名詞`). Verified `graphemic_classification: 象形` via Wiktionary before writing: confirmed pictogram — the pre-existing bullet's text already matched Wiktionary's wording verbatim (stretched animal hide; hands 臼 briefly added later), kept it and just fixed the List-of-象形 link path (`../` prefix) and linked 臼 to `[[Radical 134|臼]]` per the radical-linking rule. Added the missing `>[!tip]` callout per the 皮 precedent (word line pointing at the stand-in compound 皮革 since no `words/革.md` exists, plus the Radical 177 line). No SKIP/Stroke/MC/Levels bullets — Notes had the graphemic bullet, a stray level-trivia line ("Promoted from Korean HS to MS list in 2000" — dropped; Notes holds exactly four bullets), two floating unembedded CC-initial/final links, and a bare 革命 Words entry stranded inside Notes. Wrote bullets 2–4 from scratch (SKIP-2-4-5/Stroke 09 — 革 confirmed present on the SKIP page; 956th-rank MC bullet confirmed against `CC 0000.md` line 989, 聲 見→k and 韻 麥開→ɣɛk matching frontmatter; Grade 3/Old HSK 2/Jōyō - Kyōiku/Korean MS — `joyo_level: "6"` is a plain digit, so Kyōiku, not Kōtō). **Ground-truth grep refinement**: `words/革命.md` stores its `characters:` list items with *no* indentation (`- 革`, not `  - 革`), which the indented-list patterns missed — broadened the pattern; bare `- 革` is also simply the correct filename form here since 革's own file has no `(char)` suffix. Words cross-check (3 total) found 皮革 (the stand-in itself) missing and 革命 stranded in Notes — both fixed, glosses/rubies verbatim from the word files. `japanese_native` bare scalar (かわ) reformatted to a list. No chengyu hits, no `graphemic_classification: 革` hits (no Derived Characters section needed). **Ripple fix on an already-perfected page**: `characters/皮.md`'s callout had the same missing-`../` defect on its 皮革 word link — fixed. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 頂 (3270), 須 (3271), 領 (3272) per `danayo_id`.
+
+### 2026-07-30, iteration 177 — [[characters/頂|頂]]
+
+Next by `danayo_id` (3270). Closest to already-complete of today's batch — all four bullets already existed in canonical order with correct content.
+
+**[[characters/頂|頂]]**: blank `pos` (→ `名詞`). Verified `graphemic_classification: 丁` via Wiktionary per the always-check rule: confirmed 形声, semantic 頁 ("head") + phonetic 丁 (OC *rteːŋ, *teːŋ vs. 頂's *teːŋʔ); the pre-existing bullet's analysis was already right, upgraded to the full canonical form (whole-character OC, phonetic OC, dash-note). `mc_id: 3603` cross-checked against `CC 3000.md` line 632 — exact match (no off-by-one this time). **Same malformed `japanese_native` shape as 陰/露** (scalar いただ + stray `- いただく`) — rebuilt as a proper list in the vault's stem-okurigana convention: いただ-く, いただ-き (both Jōyō kun-yomi confirmed via Wiktionary; the bare stored いただ was a truncation of the noun reading いただき, so written as いただ-き rather than kept as-is). **Stored `vietnamese:` fully confirmed** — all 5 readings (điếng, đuểnh, đính, đảnh, đỉnh) match Wiktionary's Hán Nôm list exactly, kept in stored order. All four Notes bullets and the callout-free head needed only `../` path-prefix fixes. Words cross-check (2 total): 天頂 already correctly ruby'd; 頂点 (the stand-in) was bare — ruby/gloss added from its word file plus the stand-in note. No words/頂.md, so no callout (田/革 precedent). No chengyu hits, no `graphemic_classification: 頂` hits (no Derived Characters section needed). Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 須 (3271), 領 (3272), 食 (3273) per `danayo_id`.
+
+### 2026-07-30, iteration 178 — [[characters/須|須]]
+
+Next by `danayo_id` (3271). One real classification correction plus the usual blanks.
+
+**[[characters/須|須]]**: blank `pos` (→ `性詞`, matching the stand-in word `words/必須.md`'s own field). **Real etymology correction**: `graphemic_classification` was stored as `會意`, but Wiktionary classifies 須 as a **象形** pictogram — [[Radical 181|頁]] ("head") with [[Radical 059|彡]] ("hair, bristles") at its side, a bearded face, the original character of [[鬚]] (OC *so, exact match), "originally a single picture, abstracted in the seal script into a compound" (the 会意 reading is the Shuowen-style later analysis of that seal abstraction) — corrected the field and wrote the bullet in List-of-象形 form with both radical components linked. **Incidental fix**: the page's own `english:` had `indispensible` (typo → indispensable). `japanese_native` was a bare scalar fragment (すべから) — the real Jōyō kun reading is すべからく…べし, written in the vault's stem-okurigana convention as すべから-く, list-formatted. No SKIP/Stroke/MC/Levels bullets — Notes had only two floating unembedded CC-initial/final links; wrote all four from scratch (SKIP-1-3-9/Stroke 12; 976th-rank MC bullet confirmed against `CC 0000.md` line 1009, 聲 心→s and 韻 虞→ɨo matching frontmatter; Grade 3/HSK Beginner/Jōyō - Kōtō/Korean MS). Words cross-check (1 total, the stand-in 必須) already correctly ruby'd — added only the stand-in note. No chengyu hits. `graphemic_classification: 須` hit 鬚 — confirmed genuine via Wiktionary (須 is explicitly the original character of 鬚) — added `## Derived Characters`. Stamped `date-last-perfect: 2026-07-30`.
+
+Next: 領 (3272), 食 (3273), 飲 (3274) per `danayo_id`.
+
 ---
 
 ## Components-driven thread (separate ordering — see [[AIOS/projects.md]] for why)
