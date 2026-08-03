@@ -23,7 +23,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2086
 mc_id: 325
-graphemic_classification: 黃
+graphemic_classification: 黄
 stand_in: 広
 aliases:
   - 廣
@@ -59,3 +59,4 @@ boundedness:
 
 ## Derived Characters
 - <ruby>[[横]]<rt>ㄏ⺢ㄫ</rt></ruby> "crossing horizontally; across laterally"
+- <ruby>[[拡]]<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"

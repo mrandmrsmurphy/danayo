@@ -54,3 +54,10 @@ boundedness: 80
 
 ## Words
 - <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby> "valley"
+
+## Derived Characters
+- <ruby>[[俗 (char)|俗]]<rt>ㄙㄛㄎ</rt></ruby> "vulgar"
+- <ruby>[[容 (char)|容]]<rt>⼄ㄫ</rt></ruby> "look, appearance"
+- <ruby>[[浴]]<rt>⼄ㄎ</rt></ruby> "bathe"
+- <ruby>[[欲]]<rt>⼄ㄎ</rt></ruby> "desire, want"
+- <ruby>[[裕]]<rt>⼜</rt></ruby> "abundant, rich"

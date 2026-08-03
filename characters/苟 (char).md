@@ -50,3 +50,6 @@ boundedness: 40
 - [SKIP-2-6-5](../lookup/SKIP/SKIP-2/SKIP-2-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 898th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄍㄛㄨ](../syllables/ㄍㄛㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Derived Characters
+- <ruby>[[敬]]<rt>ㄍ⼶ㄫ</rt></ruby> "respect" (as the 会意 semantic component "a kneeling person, submissive," not a phonetic borrowing)

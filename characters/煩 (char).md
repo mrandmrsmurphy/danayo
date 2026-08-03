@@ -6,7 +6,11 @@ korean_native: "번거로울"
 japanese:
   - HAN
   - BON
-japanese_native: うるさ
+japanese_native:
+  - わずら-う
+  - わずら-わす
+  - わずら-わしい
+  - うるさ-い
 vietnamese:
   - phiền
 middle_chinese_initial: v
@@ -15,9 +19,9 @@ stroke_count: 13
 radical: "火"
 skip_number: 1-4-9
 grade_level: "4"
-pos: ""
+pos: 性詞
 english:
-  - toublesome
+  - troublesome
 羅馬字: fom
 諺文: "뽐"
 joyo_level: "高等"
@@ -35,6 +39,7 @@ tags:
   - character
   - hapax
 boundedness: 90
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 煩.
 >For the word, see [煩](words/煩.md)
@@ -42,7 +47,10 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 会意 of [[火]] ("fire") + [[焚]] ("head").
-- pronunciation altered to final -m for a unique syllable
-[[Lookup/CC/initials/聲 奉]]
-[[Lookup/CC/finals/韻 元合]]
+- 会意 (per Shuowen) of [[Radical 086|火]] ("fire") + [[頁 (char)|頁]] ("head") — a burning, feverish head; vexation, trouble. **Corrected here**: the old bullet glossed the second component as `[[焚]]` ("head"), but 焚 means "to burn," not "head" — Shuowen's real 会意 account uses 頁; 焚 does appear in an alternate phono-semantic account (as the phonetic component) but is not itself the "head" glyph.
+- [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 1037th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄇ](../syllables/ㄈㄛㄇ.md) (pronunciation deliberately altered to a final -m to keep this syllable unique)
+- [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[煩]]<rt>ㄈㄛㄇ</rt></ruby> "troublesome"

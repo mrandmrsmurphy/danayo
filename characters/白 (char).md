@@ -77,3 +77,4 @@ boundedness: 100
 - <ruby>[[百 (char)|百]]<rt>ㄅㄚㄎ</rt></ruby> "hundred"
 - <ruby>[[珀]]<rt>ㄆㄚㄎ</rt></ruby> "amber"
 - <ruby>[[魄]]<rt>ㄅㄚㄎ</rt></ruby> "yin soul, bodily spirit"
+- <ruby>[[拍 (char)|拍]]<rt>ㄆㄚㄎ</rt></ruby> "tap, clap, beat, pulse"

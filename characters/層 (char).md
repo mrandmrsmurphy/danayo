@@ -5,7 +5,9 @@ korean: 층
 korean_native: 층
 japanese:
   - SOU
-japanese_native: ø
+japanese_native:
+  - かさ-なる
+  - こし
 vietnamese:
   - tàng
   - tầng
@@ -17,7 +19,7 @@ stroke_count: 14
 radical: 尸
 skip_number: 3-3-11
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - stratum
 羅馬字: cǝng
@@ -33,6 +35,7 @@ aliases:
   - 层
 注音: ㄑㄜㄫ
 kwin: true
+date-last-perfect: 2026-07-31
 tags:
   - character
 boundedness: 90
@@ -44,6 +47,8 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 從]]
-[[Lookup/CC/finals/韻 登開]]
+## Notes
+- 形声: semantic [[Radical 044|尸]] + phonetic [[曽 (char)|曽]] — to pile up; a thing made of layers.
+- [SKIP-3-3-11](../lookup/SKIP/SKIP-3/SKIP-3-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 4098th most used character in Classical Chinese (long-tail rank from the fuller source ranking; beyond the local mirrors' top ~4000). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 登開|əŋ]] → [ㄑㄜㄫ](../syllables/ㄑㄜㄫ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

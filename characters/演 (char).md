@@ -5,7 +5,9 @@ korean: 연
 korean_native: 펼
 japanese:
   - EN
-japanese_native: ø
+japanese_native:
+  - や-る
+  - の-べる
 vietnamese:
   - diễn
   - dàn
@@ -43,6 +45,7 @@ kwin: true
 tags:
   - character
 boundedness: 50
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 演.
 >For the word, see [演](words/演.md)
@@ -53,11 +56,12 @@ boundedness: 50
 
 ## Notes
 - 形声 (OC \*lanʔ): semantic [[Radical 085|水]] ("water") + phonetic [[寅]] (OC \*ɢin) — water spreading out over a long course, extended to unfolding or developing an idea, action, or performance over time.
-- [SKIP-1-3-11](lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 2807th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [⼶ㄋ](syllables/⼶ㄋ.md)
-- [Grade 4](lookup/Grade%204.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 2807th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [⼶ㄋ](../syllables/⼶ㄋ.md)
+- [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[演]]<rt>⼶ㄋ</rt></ruby> "unfold, perform, develop"
 - <ruby>[[演出]]<rt>⼶ㄋㄑㄨㄊ</rt></ruby> "perform, put on a show (Mandarin/Cantonese); direct, stage-produce (Japanese)"
 - <ruby>[[演奏]]<rt>⼶ㄋㄙㄛㄨ</rt></ruby> "play (music)"
 - <ruby>[[出演]]<rt>ㄑㄨㄊ⼶ㄋ</rt></ruby> "appear (in a performance)"

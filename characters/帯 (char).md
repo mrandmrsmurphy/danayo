@@ -5,15 +5,20 @@ korean: 대
 korean_native: 띠
 japanese:
   - TAI
-japanese_native: お
+japanese_native:
+  - お-び
+  - お-びる
 vietnamese:
+  - đái
+  - đới
+  - đai
 middle_chinese_initial: t
 middle_chinese_final: ɑi
 stroke_count: 10
 radical: 巾
 skip_number: 2-5-5
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - sash
   - belt
@@ -31,6 +36,7 @@ aliases:
   - 带
 注音: ㄊㄚㄧ
 kwin: false
+date-last-perfect: 2026-07-31
 tags:
   - character
 boundedness: 
@@ -43,16 +49,21 @@ boundedness:
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 端]]
-[[Lookup/CC/finals/韻 泰開]]
+- 象形: a woven belt. (Analysis belongs to the traditional form 帶.)
+- [SKIP-2-5-5](../lookup/SKIP/SKIP-2/SKIP-2-5-5.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1061st most used character in Classical Chinese (rank belongs to the traditional form 帶). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄊㄚㄧ](../syllables/ㄊㄚㄧ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[繃帯]]<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby> "bandage"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
-- <ruby>[[携帯]]<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby> "carry with; portable; mobile phone"
-- <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone, belt"
+- <ruby>[[携帯]]<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby> "carry with; portable"
+- <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone, belt, area"
 - <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"
 - <ruby>[[連帯]]<rt>ㄌ⼶ㄋㄊㄚㄧ</rt></ruby> "solidarity; joint (responsibility)"
 
 ## Chengyu
 - <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
+
+## Derived Characters
+- <ruby>[[滞]]<rt>ㄐㄝ</rt></ruby> "stagnate"

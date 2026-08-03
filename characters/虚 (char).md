@@ -6,7 +6,8 @@ korean_native: 빌
 japanese:
   - KYO
   - KO
-japanese_native: うつ
+japanese_native:
+  - うつろ
   - むなしい
 vietnamese:
   - hư
@@ -36,16 +37,26 @@ kwin: true
 tags:
   - character
 boundedness: 100
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 虚.
 >For the word, see [虚](words/虚.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Notes
 
-### Derived Characters
-- [[戯]]
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 魚]]
-- [[虚偽]] "falsehood, lie"
+## Notes
+- 形声 (OC \*kʰa, \*qʰa): semantic [[丘 (char)|丘]] ("hill") + phonetic [[虍]] (OC \*qʰaː).
+- [SKIP-3-4-7](../lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 398th most used character in Classical Chinese (ranked there under 虛, this character's own stored alias). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄏ⼄](../syllables/ㄏ⼄.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[虚]]<rt>ㄏ⼄</rt></ruby> "void, emptiness" (stand-in for 虚)
+- <ruby>[[虚偽]]<rt>ㄏ⼄⼔ㄧ</rt></ruby> "falsehood, lie"
+- <ruby>[[空虚]]<rt>ㄎㄛㄫㄏ⼄</rt></ruby> "empty"
+
+## Derived Characters
+- <ruby>[[戯]]<rt>ㄏㄨㄧ</rt></ruby> "play, trick"
+- <ruby>[[墟]]<rt>ㄎ⼄</rt></ruby> "ruins, wasteland"

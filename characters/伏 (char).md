@@ -7,8 +7,9 @@ japanese:
   - FUKU
   - FUU
   - BUKU
-japanese_native: ふ
-  - ふ-せる,ふ-す
+japanese_native:
+  - ふ-せる
+  - ふ-す
 vietnamese:
   - phục
 middle_chinese_initial: v
@@ -34,20 +35,22 @@ stand_in: 伏
 aliases:
   - 鮲
 注音: ㄅㄨㄎ
+date-last-perfect: 2026-07-30
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 伏.
->For the word, see [伏](words/伏.md)
+>For the word, see [伏](../words/伏.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md): [[人]] ("person") + [[犬]] ("dog") — meaning “prostrate”, a person acting like a dog
-[[Lookup/CC/initials/聲 奉]]
-[[Lookup/CC/finals/韻 屋三]]
-
+- 会意 of [[Radical 009|人]] ("person") and [[Radical 094|犬]] ("dog") — a person adopting the position of a dog: to lie prostrate, to crouch.
+- [SKIP-1-2-4](../lookup/SKIP/SKIP-1/SKIP-1-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 561st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄅㄨㄎ](../syllables/ㄅㄨㄎ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
-<ruby>[[潜伏]]<rt>ㄐㄝㄇㄅㄨㄎ</rt></ruby> "to hide; to lurk"
+- <ruby>[[潜伏]]<rt>ㄐㄝㄇㄅㄨㄎ</rt></ruby> "hide, lurk, lie low"
+- <ruby>[[起伏]]<rt>ㄎㄧㄅㄨㄎ</rt></ruby> "undulate, fluctuate"

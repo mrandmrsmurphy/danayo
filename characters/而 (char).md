@@ -6,7 +6,14 @@ korean_native: 말 이을
 japanese:
   - JI
   - NI
-japanese_native: しか
+japanese_native:
+  - しこ-うして
+  - しか-して
+  - しか-も
+  - しか-れども
+  - すなわち
+  - なんじ
+  - しかるに
 vietnamese:
   - nhi
 middle_chinese_initial: ȵ
@@ -33,6 +40,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 而.
 >For the word, see [而](words/而.md)
@@ -40,15 +48,23 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-# Notes
-see also [[与 (char)]]
-## Classical
-In CC, this character mean "and", but could also mean 'your' or 'can', which meanings are not retained.
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 之]]
-- [[而且]] "moreover, furthermore"
-- [[而後]] "after that, only then"
+
+## Notes
+- [List of 象形](../lookup/List%20of%20象形.md): a beard; original form of 耏/髵. In Classical Chinese this character meant "and," but could also mean "your" or "can" — those senses are not retained.
+- [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 6](../lookup/Stroke/Stroke%2006.md))
+- 5th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄋㄧ](../syllables/ㄋㄧ.md)
+- [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover"
+- <ruby>[[而]]<rt>ㄋㄧ</rt></ruby> "and, but" (stand-in for 而)
+- <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover, furthermore"
+- <ruby>[[而後]]<rt>ㄋㄧㄏㄨㄛ</rt></ruby> "after that, only then"
 - <ruby>[[故而]]<rt>ㄍㄛㄋㄧ</rt></ruby> "therefore"
+
+## Chengyu
+- <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "rule without action"
+
+## Derived Characters
+- <ruby>[[嫩 (char)|嫩]]<rt>ㄋㄛㄋ</rt></ruby> "delicate, tender"
+- <ruby>[[耐 (char)|耐]]<rt>ㄋㄚㄧ</rt></ruby> "able to tolerate, able to endure"
+- <ruby>[[軟]]<rt>ㄋㄝㄋ</rt></ruby> "soft, pliable"

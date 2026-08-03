@@ -55,3 +55,4 @@ boundedness: 100
 ## Derived Characters
 - <ruby>[[却 (char)|却]]<rt>ㄎ⼘ㄎ</rt></ruby> "but, still"
 - <ruby>[[怯 (char)|怯]]<rt>ㄎㄚㄆ</rt></ruby> "cowardly, timid"
+- <ruby>[[法 (char)|法]]<rt>ㄈㄚㄆ</rt></ruby> "rule, law" (as the 会意 semantic component "to expel wrongdoing," not a phonetic borrowing)

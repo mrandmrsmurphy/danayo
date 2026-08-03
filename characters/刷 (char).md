@@ -5,7 +5,9 @@ korean: "쇄"
 korean_native: "인쇄할"
 japanese:
   - SATSU
-japanese_native: す
+japanese_native:
+  - す-る
+  - は-く
 vietnamese:
   - loát
   - loét
@@ -19,7 +21,7 @@ stroke_count: 8
 radical: "刀"
 skip_number: 1-6-2
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - brush
   - scrub
@@ -34,18 +36,22 @@ graphemic_classification: "㕞"
 stand_in: "刷"
 aliases:
 注音: "ㄙ⺢ㄊ"
+date-last-perfect: 2026-07-30
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 刷.
->For the word, see [刷](words/刷.md)
-
+>For the word, see [刷](../words/刷.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 生]]
-[[Lookup/CC/finals/韻 黠合]]
+## Notes
+- 形声 (OC *sroːd, *srod): semantic [[Radical 018|刀]] ("knife") + phonetic 㕞 — to brush, to scrub, to scrape.
+- [SKIP-1-6-2](../lookup/SKIP/SKIP-1/SKIP-1-6-2.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 4964th most used character in Classical Chinese (long-tail rank from the fuller source ranking; beyond the local mirrors' top ~4000). Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 黠合|ɣuat]] → [ㄙ⺢ㄊ](../syllables/ㄙ⺢ㄊ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+## Words
+- <ruby>[[刷子]]<rt>ㄙ⺢ㄊㄐㄜ</rt></ruby> "brush"

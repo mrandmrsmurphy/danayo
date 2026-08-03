@@ -33,19 +33,28 @@ kwin: true
 tags:
   - character
 boundedness: 75
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 胃.
 >For the word, see [胃](words/胃.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Notes
 
-- [List of 象形](lookup/List%20of%20象形.md): a stomach with food inside, originally appearing as 𱕻. A semantic 肉 was added later to differentiate.
+## Notes
+- [List of 象形](../lookup/List%20of%20象形.md): a stomach with food inside, originally appearing as 𱕻. A semantic 肉 was added later to differentiate.
+- [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 9](../lookup/Stroke/Stroke%2009.md))
+- 1203rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄨㄧ](../syllables/ㄨㄧ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
-- [[胃癌]]
-- [[胃痛]]
-- [[胃酸]]
-- [[胃炎]]
-[[Lookup/CC/initials/聲 云]]
-[[Lookup/CC/finals/韻 微合]]
+- <ruby>[[胃]]<rt>ㄨㄧ</rt></ruby> "stomach, gizzard" (stand-in for 胃)
+- <ruby>[[胃癌]]<rt>ㄨㄧㄚㄇ</rt></ruby> "stomach cancer"
+- <ruby>[[胃痛]]<rt>ㄨㄧㄊㄛㄫ</rt></ruby> "stomachache, epigastric pain"
+- <ruby>[[胃酸]]<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby> "stomach acid, gastric acid"
+- <ruby>[[胃炎]]<rt>ㄨㄧㄝㄇ</rt></ruby> "gastritis"
+
+## Derived Characters
+- <ruby>[[謂]]<rt>ㄨㄧ</rt></ruby> "so called"
+- <ruby>[[彙 (char)|彙]]<rt>ㄏㄨ</rt></ruby> "collection, class"

@@ -28,7 +28,7 @@ graphemic_classification: "主"
 stand_in: "柱"
 aliases:
 注音: "ㄐㄨ"
-date-last-perfect: 2026-07-10
+date-last-perfect: 2026-07-31
 kwin: true
 tags:
   - character

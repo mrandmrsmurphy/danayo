@@ -51,3 +51,6 @@ boundedness: 80
 - [[words/昭和]] - Shōwa
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 宵A]]
+
+## Derived Characters
+- <ruby>[[照]]<rt>ㄐㄛㄨ</rt></ruby> "shine"

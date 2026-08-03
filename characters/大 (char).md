@@ -121,3 +121,8 @@ boundedness: 90
 - <ruby>[[大旨]]<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby> "main idea, gist"
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"
 - <ruby>[[宏大]]<rt>ㄏ⼔ㄫㄉㄚㄧ</rt></ruby> "grand, magnificent, vast"
+
+## Derived Characters
+- <ruby>[[泰]]<rt>ㄊㄚㄧ</rt></ruby> "peaceful, safe"
+- <ruby>[[駄 (char)|駄]]<rt>ㄉㄚ</rt></ruby> "pack, carry"
+- <ruby>[[戻]]<rt>ㄌㄝㄊ</rt></ruby> "re-"

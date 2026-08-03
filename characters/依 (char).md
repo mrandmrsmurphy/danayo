@@ -6,7 +6,8 @@ korean_native: 의지할
 japanese:
   - I
   - E
-japanese_native: よ
+japanese_native:
+  - よ-る
 vietnamese:
   - e
   - y
@@ -18,7 +19,7 @@ stroke_count: 8
 radical: 人
 skip_number: 1-2-6
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - rely on
   - accord with
@@ -33,21 +34,25 @@ graphemic_classification: 衣
 stand_in: 依
 aliases:
 注音: ㄧㄜ
+date-last-perfect: 2026-07-30
 tags:
   - character
 kwin: true
 boundedness: 80
 ---
+>[!tip] This is a page about the character 依.
+>For the word, see [依](../words/依.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
+## Notes
+- 形声: semantic [[Radical 009|亻]] ("person") + phonetic [[Radical 145|衣]] — to lean on, to rely on.
+- [SKIP-1-2-6](../lookup/SKIP/SKIP-1/SKIP-1-2-6.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 1211th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄧㄜ](../syllables/ㄧㄜ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
-- <ruby>[[依]]<rt>ㄧㄜ</rt></ruby> "rely on, accord with"
-- [[依然]] "as ... as ever, still"
-- [[依拠]] "depend, be the basis for"
 - <ruby>[[依存]]<rt>ㄧㄜㄐㄛㄋ</rt></ruby> "dependence, to depend on"
-
-# Notes
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 微開]]
+- <ruby>[[依拠]]<rt>ㄧㄜㄍ⼄</rt></ruby> "depend, be the basis for"
+- <ruby>[[依然]]<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby> "as ... as ever, still"
+- <ruby>[[依頼]]<rt>ㄧㄜㄌㄚㄧ</rt></ruby> "rely on, depend on"

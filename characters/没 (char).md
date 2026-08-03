@@ -5,7 +5,10 @@ korean: 몰
 korean_native: 가라앉을
 japanese:
   - BOTSU
-japanese_native: おぼ
+japanese_native:
+  - しず-む
+  - おぼ-れる
+  - し-ぬ
 vietnamese:
   - mốt
   - một
@@ -36,6 +39,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 没.
 >For the word, see [没](words/没.md)
@@ -44,9 +48,12 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-## Words
-- <ruby>[[沈没]]<rt>ㄑㄧㄇㄇㄛㄊ</rt></ruby> "to sink; to founder"
+## Notes
+- 形声 (OC \*mɯːd): semantic [[Radical 085|氵]] ("water") + phonetic 𠬛 (no character page of its own in this vault) — to sink, to drown, to disappear beneath the water. Wiktionary's fuller account notes the stored field value [[勿 (char)|勿]] is a closely related, phonetically similar form (both m-initial, -t-final) sometimes cited colloquially alongside 𠬛, rather than the formal phonetic component itself; kept the vault's existing `勿` field since it is the linkable, phonetically-plausible member of the pair.
+- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 1158th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 沒|uət]] → [ㄇㄛㄊ](../syllables/ㄇㄛㄊ.md)
+- [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
-# Notes
-[[Lookup/CC/initials/聲 明]]
-[[Lookup/CC/finals/韻 沒]]
+## Words
+- <ruby>[[没]]<rt>ㄇㄛㄊ</rt></ruby> "drown, sink"
+- <ruby>[[沈没]]<rt>ㄑㄧㄇㄇㄛㄊ</rt></ruby> "to sink; to founder"

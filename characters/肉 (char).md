@@ -64,3 +64,4 @@ boundedness: 90
 
 ## Derived Characters
 - <ruby>[[育 (char)|育]]<rt>⼜ㄎ</rt></ruby> "nurture"
+- <ruby>[[祭]]<rt>ㄐㄝ</rt></ruby> "festival; sacrifice"

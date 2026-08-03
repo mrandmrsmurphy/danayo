@@ -5,7 +5,11 @@ korean: "반"
 korean_native: "나눌"
 japanese:
   - HAN
-japanese_native: ø
+japanese_native:
+  - かえ-す
+  - し-く
+  - わか-つ
+  - わ-ける
 vietnamese:
   - ban
   - băn
@@ -36,6 +40,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 班.
 >For the word, see [班](words/班.md)
@@ -44,7 +49,14 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 幫]]
-[[Lookup/CC/finals/韻 刪開]]
-- [[班長]] "squad leader"
+## Notes
+- 会意 of 珏 ("two pieces of jade," the conservative full form of [[Radical 096|玉]]; no character page of its own in this vault) + [[Radical 018|刀]] ("knife") — cutting jade into pieces; extended to "to divide, to allot," and further to "a group, a section."
+- [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1402nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 刪開|ɣan]] → [ㄆㄚㄋ](../syllables/ㄆㄚㄋ.md)
+- [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[班]]<rt>ㄆㄚㄋ</rt></ruby> "group, party, section"
+- <ruby>[[班長]]<rt>ㄆㄚㄋㄐㄚㄫ</rt></ruby> "squad leader"
+- <ruby>[[西班牙]]<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby> "Spain"
+- <ruby>[[西班牙語]]<rt>ㄙㄝㄧㄆㄚㄋㄚ⼄</rt></ruby> "Spanish language"

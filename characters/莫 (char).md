@@ -61,4 +61,5 @@ boundedness: 75
 - [[除我莫神]] “there are no other gods but me”
 
 ## Derived Characters
-- [[寞]]
+- <ruby>[[寞]]<rt>ㄇㄚㄎ</rt></ruby> "lonely, desolate"
+- <ruby>[[模]]<rt>ㄇㄛ</rt></ruby> "imitate"

@@ -47,7 +47,7 @@ tags:
 35. <ruby>[肪](characters/肪%20(char).md)<rt>ㄈㄚㄫ</rt></ruby> "fat"
 36. <ruby>[䏜](characters/䏜.md)<rt>ㄇㄚㄆ</rt></ruby> "plump, fat, obese"
 37. <ruby>[肢](characters/肢.md)<rt>ㄐㄝ</rt></ruby> "limbs"
-38. <ruby>[肥](characters/肥.md)<rt>ㄅㄨㄧ</rt></ruby> "fertile"
+38. <ruby>[肥](characters/肥.md)<rt>ㄅㄨㄧ</rt></ruby> "obese"
 39. <ruby>[肭](characters/肭.md)<rt>ㄋㄨㄊ</rt></ruby> "fur seal"
 40. <ruby>[肰](characters/肰.md)<rt>ㄋㄝㄋ</rt></ruby> "dog meat"
 41. <ruby>[𦚖](characters/𦚖.md)<rt>ㄇㄛㄆ</rt></ruby> "wink"

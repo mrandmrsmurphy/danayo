@@ -16,7 +16,7 @@ stroke_count: 7
 radical: "子"
 skip_number: 3-4-3
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - filial piety
 羅馬字: hyau
@@ -31,6 +31,7 @@ stand_in: "孝"
 aliases:
 注音: "ㄏ⼘ㄨ"
 kwin: false
+date-last-perfect: 2026-07-31
 tags:
   - character
 boundedness: 75
@@ -42,11 +43,20 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 肴]]
-- [[孝弟]] "filial piety and fraternal duty"
-- abbreviation for "niobium": <ruby>[[孝金]]<rt>ㄏ⼘ㄨㄍㄧㄇ</rt></ruby>
+## Notes
+- 会意: 耂 ("an old man with long hair, bent over" — compare 老) + [[Radical 039|子]] ("child") — an old man and a child, filial piety between generations.
+- [SKIP-3-4-3](../lookup/SKIP/SKIP-3/SKIP-3-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 225th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄏ⼘ㄨ](../syllables/ㄏ⼘ㄨ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[孝弟]]<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby> "filial piety and fraternal duty"
+- <ruby>[[孝道]]<rt>ㄏ⼘ㄨㄉㄚㄨ</rt></ruby> "filial piety; filial duty"
 - <ruby>[[孝廉]]<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby> "filial and incorrupt"
+- <ruby>[[孝金]]<rt>ㄏ⼘ㄨㄍㄧㄇ</rt></ruby> "niobium"
+
+## Chengyu
+- <ruby>[[孝親天賜]]<rt>ㄏ⼘ㄨㄑㄧㄋㄊㄝㄋㄙㄝ</rt></ruby> "Honor your parents, that heaven may gift (you)"
+
+## Derived Characters
+- <ruby>[[酵]]<rt>ㄍ⼄ㄨ</rt></ruby> "yeast; leaven"

@@ -19,7 +19,7 @@ stroke_count: 6
 radical: 水
 skip_number: 1-3-3
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - pond
   - reservoir
@@ -38,6 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-01
 ---
 >[!tip] This is a page about the character 池.
 >For the word, see [池](words/池.md)
@@ -46,6 +47,15 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 澄]]
-[[Lookup/CC/finals/韻 支B三開]]
+## Notes
+- 形声 (OC \*l'al): semantic [[Radical 085|氵]] ("water") + phonetic [[也 (char)|也]] — a pond, reservoir.
+- [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 1070th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄐㄨㄧ](../syllables/ㄐㄨㄧ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[池]]<rt>ㄐㄨㄧ</rt></ruby> "pond, reservoir"
+- <ruby>[[湯池]]<rt>ㄊㄚㄋㄐㄨㄧ</rt></ruby> "city moat, hot springs (literary)"
+
+## Chengyu
+- <ruby>[[金城湯池]]<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> "sure thing, impenetrable city"

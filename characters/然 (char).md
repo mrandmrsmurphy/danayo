@@ -79,3 +79,6 @@ boundedness: 90
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"
 - <ruby>[[混然一体]]<rt>ㄏㄛㄋㄋ⼶ㄋ·ㄧㄊㄊㄝㄧ</rt></ruby> "monad, utterly unified"
 - <ruby>[[茫然自失]]<rt>ㄇㄚㄫㄋ⼶ㄋㄐㄧㄜㄙㄧㄊ</rt></ruby> "dazed and confused"
+
+## Derived Characters
+- <ruby>[[燃]]<rt>ㄋ⼶ㄋ</rt></ruby> "burn"

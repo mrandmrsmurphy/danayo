@@ -57,3 +57,4 @@ boundedness: 90
 - <ruby>[[尤]]<rt>⼜ㄛ</rt></ruby> "especially; particularly; more so"
 - <ruby>[[馭]]<rt>⼄</rt></ruby> "drive"
 - <ruby>[[右]]<rt>⼜</rt></ruby> "right (direction)"
+- <ruby>[[祭]]<rt>ㄐㄝ</rt></ruby> "festival; sacrifice"

@@ -36,6 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-07-31
 ---
 >[!tip] This is a page about the character 株.
 >For the word, see [株](words/株.md)
@@ -45,9 +46,13 @@ boundedness: 90
 ```
 
 ## Notes
-- Components: [[木]], [[朱]]
-[[Lookup/CC/initials/聲 知]]
-[[Lookup/CC/finals/韻 虞]]
+- 形声 (OC \*to): semantic [[Radical 075|木]] ("tree") + phonetic [[朱]] (OC \*tjo) — a tree stump; extended to "stock, root."
+- [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 2632nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄉㄨ](../syllables/ㄉㄨ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[株]]<rt>ㄉㄨ</rt></ruby> "stock, root, stump"
 
 ## Chengyu
 - <ruby>[[守株待兎]]<rt>ㄙ⼜ㄉㄨㄉㄚㄧㄊㄛ</rt></ruby> "guarding the stump, waiting for luck to repeat"

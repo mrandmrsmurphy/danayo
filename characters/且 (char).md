@@ -57,3 +57,4 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[祖]]<rt>ㄐㄜ</rt></ruby> "ancestor"
 - <ruby>[[詛]]<rt>ㄐㄛ</rt></ruby> "curse"
+- <ruby>[[査]]<rt>ㄐㄚ</rt></ruby> "investigate"

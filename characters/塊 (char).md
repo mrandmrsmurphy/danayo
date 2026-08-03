@@ -5,7 +5,9 @@ korean: "괴"
 korean_native: "흙덩이"
 japanese:
   - KAI
-japanese_native: かたまり
+japanese_native:
+  - かたま-り
+  - つちくれ
 vietnamese:
   - cỏi
   - hòn
@@ -18,7 +20,7 @@ stroke_count: 13
 radical: "土"
 skip_number: 1-3-10
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - lump
   - piece
@@ -37,6 +39,7 @@ aliases:
   - 块
 注音: "ㄎㄛㄧ"
 kwin: false
+date-last-perfect: 2026-07-31
 tags:
   - character
 boundedness: 80
@@ -48,6 +51,8 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 灰]]
+## Notes
+- 形声: semantic [[Radical 032|土]] ("earth, dust") + phonetic [[鬼]] — clod of dirt.
+- [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 3137th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄎㄛㄧ](../syllables/ㄎㄛㄧ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

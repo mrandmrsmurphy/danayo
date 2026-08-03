@@ -26,7 +26,7 @@ tags:
 14. <ruby>[楼](characters/楼.md)<rt>ㄌㄛㄨ</rt></ruby> "watchtower"
 15. <ruby>[榔](characters/榔.md)<rt>ㄌㄚㄫ</rt></ruby> "betel palm"
 16. <ruby>[煤](characters/煤%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> "soot"
-17. <ruby>[煩](characters/煩%20(char).md)<rt>ㄈㄛㄇ</rt></ruby> "toublesome"
+17. <ruby>[煩](characters/煩%20(char).md)<rt>ㄈㄛㄇ</rt></ruby> "troublesome"
 18. <ruby>[煌](characters/煌.md)<rt>ㄏ⺢ㄫ</rt></ruby> "bright"
 19. <ruby>[煙](characters/煙.md)<rt>ㄝㄋ</rt></ruby> "smoke"
 20. <ruby>[煥](characters/煥.md)<rt>ㄏ⺢ㄋ</rt></ruby> "blaze"

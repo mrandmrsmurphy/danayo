@@ -76,3 +76,4 @@ boundedness: 40
 ## Derived Characters
 - <ruby>[[沐]]<rt>ㄇㄛㄎ</rt></ruby> "bathe, cleanse"
 - <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby> "assemble"
+- <ruby>[[県 (char)|県]]<rt>ㄏ⼔ㄋ</rt></ruby> "county, district, prefecture" (as the 会意 semantic component "tree," not a phonetic borrowing)
