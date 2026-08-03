@@ -34,7 +34,7 @@ aliases:
 swadesh: "148"
 注音: ⼔ㄊ
 date-last-perfect: 2026-07-16
-kwin: true
+kwin: false
 tags:
   - character
 boundedness: 80
