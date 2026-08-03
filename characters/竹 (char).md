@@ -6,7 +6,6 @@ korean_native: "대"
 japanese:
   - CHIKU
 japanese_native: たけ
-  - たけ
 vietnamese:
   - trúc
 middle_chinese_initial: "ʈ"
