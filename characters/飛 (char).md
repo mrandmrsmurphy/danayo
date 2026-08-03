@@ -38,6 +38,9 @@ tags:
   - hapax
 boundedness: 65
 ---
+>[!tip] This is a page about the character 飛.
+>For the word, see [飛](words/飛.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
