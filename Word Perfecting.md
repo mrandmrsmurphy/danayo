@@ -5713,3 +5713,17 @@ Worked from the re-scoped tail. **Real content bug found and fixed**: `cantonese
 **Content added**: `vietnamese: kỳ lân` — a genuine terminological conflation rather than a clean compositional answer: Vietnamese has no "one-horn beast" calque in real use, instead reusing its own name for the native East Asian mythological guardian beast (cognate with Chinese 麒麟/qilin), a creature conceptually and iconographically distinct from the Western horse-like unicorn — confirmed via web search discussing this exact mismatch directly. `pos: 名詞`, `品詞:` duplicate dropped, `kwin: false` confirmed via the now-familiar [[一 (char)]] root-cause pattern. No homophones (注音 ㄧㄊㄍㄛㄎㄙ⼜ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 丁丁 (live-computed — next entry after 一角獣 in the corrected scan; blank `korean:`/`vietnamese:`/`hsk_level:`/`swadesh:`, stray duplicate `品詞:`, no `date-last-perfect`; an onomatopoeia, `pos: 擬詞`).
+
+### 2026-08-03, iteration 553 — [[words/丁丁|丁丁]]
+
+Worked from the re-scoped tail. **Content added**: `korean: 정정`/`vietnamese: đinh đinh`, both reduplicating 丁's own base reading; `kwin: false` (Dan'a'yo 덩 vs Sino-Korean 정 diverge in the vowel); `品詞:` duplicate dropped.
+
+Built `## Notes` from scratch: the 伐木丁丁 (Book of Songs) woodcutting-sound origin, generalized to any sharp repeated strike (hooves, pipa music, jade colliding). **Content note, not a full correction**: classical commentary records this specific reduplicated onomatopoeic reading as historically zhēng (giving 丁丁 as zhēngzhēng in the original Shijing context), distinct from 丁's everyday dīng — but this vault's own stored fields (mandarin/Dan'a'yo) are all consistently built on dīng, matching the modern-dictionary convention many contemporary sources use instead; flagged for completeness rather than overhauling the entry's whole phonetic basis on one classical-commentary detail. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 丁香 (live-computed — next entry after 丁丁 in the corrected scan; blank `japanese:`/`vietnamese:`/`hsk_level:`/`swadesh:`/`aliases:`, stray duplicate `品詞:`, no `date-last-perfect`; `kwin: false` already present).
+
+### 2026-08-03, iteration 554 — [[words/丁香|丁香]]
+
+Worked from the re-scoped tail. Clove — named for its nail-shaped bud in both Dan'a'yo's source characters (丁 "nail") and in English itself (from Latin *clavus*, "nail"), an unusually clean shared-metaphor case with no drift across languages. **Content added**: `japanese: ちょうこう` — the plain on'yomi concatenation matching this word's own written form specifically, documented as distinct from ちょうじ (chōji), the more common everyday Japanese word for clove, which is conventionally written with a different second character (丁子/丁字, not 丁香); `vietnamese: đinh hương`, confirmed via web search as a fully transparent Hán Việt borrowing, still the standard everyday word. `kwin: false` already present, confirmed correct. No homophones (注音 ㄉㄝㄫㄏ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 七千 (live-computed — next entry after 丁香 in the corrected scan; blank `cantonese:`/`vietnamese:`, stray duplicate `品詞:`, no `date-last-perfect`).
