@@ -32,7 +32,7 @@ stand_in: "舌"
 aliases:
 注音: "ㄙㄝㄊ"
 date-last-perfect: 2026-07-30
-kwin: true
+kwin: false
 tags:
   - character
 boundedness: 35
