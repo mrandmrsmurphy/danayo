@@ -5543,3 +5543,11 @@ Worked from the alphabetical worklist. **A ninth character page found genuinely 
 Built `## Notes` from scratch: the 象形 deer-with-antlers etymology, and confirmed the existing `>[!warning] Homophones` callout to [[緑]] ("green") was already correctly in place on both pages (緑's own page already explains the North Korean 록 vs. South Korean 녹 distinction directly, reinforcing the fix just made here). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (alphabetical): 黒 (live-computed candidate — `麦`/`麻` have no standalone word file at their radical slot; `黄` was already perfected; `黒.md` is the next real, unperfected word file in Kangxi radical-stroke order after `鹿` — most fields already filled including a stray duplicate `品詞:`, bare `## Notes` heading, no `date-last-perfect`). Next (blank-key backlog): 居里金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped; element-series queue after 居里金: 愛因金, 柏克金, 美洲金, 羅倫金, 西博金, 火紅素).
+
+### 2026-08-03, iteration 530 — [[words/黒|黒]]
+
+Worked from the alphabetical worklist. `characters/黒 (char).md` was already fully perfected. **Content added**: `pos: 性詞` (`品詞:` duplicate dropped); `japanese: こく`/`vietnamese: hắc`/`kwin: false` already present, confirmed correct.
+
+Built `## Notes` from scratch: the 象形 soot-above-a-chimney etymology, paralleling [[青]]'s own pigment-based color origin earlier in this sweep; the literal/figurative compound split (黒色/黒板 vs. 暗黒) alongside genuinely black-colored animal names (黒貂, 黒猩) and the independently-coined 黒洞 "black hole"; [[黒金]] continuing this vault's periodic-table convention (hassium); and こく/くろ/くろい vs. Vietnamese hắc's confinement to a learned register against native đen. No homophones (注音 ㄏㄨㄎ unique among both words and characters). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (alphabetical): 鼎 (live-computed candidate — `黹`/`黽` have no standalone word file at their radical slot; `鼎.md` is the next real, unperfected word file in Kangxi radical-stroke order after `黒` — literal `vietnamese: null`, bare `# Notes` placeholder, no `date-last-perfect`). Next (blank-key backlog): 居里金 — both lists remain open (山岡, 唉, 蘿蔔 remain open and skipped; element-series queue after 居里金: 愛因金, 柏克金, 美洲金, 羅倫金, 西博金, 火紅素).
