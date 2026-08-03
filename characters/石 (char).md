@@ -6,7 +6,6 @@ korean_native: 돌
 japanese:
   - SEKI
 japanese_native: いし
-  - いし
 vietnamese:
   - thạch
 middle_chinese_initial: ʑ
