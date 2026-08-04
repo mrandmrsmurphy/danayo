@@ -6597,3 +6597,171 @@ Next (re-scoped tail, alphabetical-by-filename): 偶数.
 Milestone: 700th iteration. **Real content bug found and fixed**: `korean` had a native gloss ("짝수") mixed into the reading field as "우수,짝수" — trimmed to 우수 alone. **Content added**: `vietnamese: ngẫu số`, directly attested (confirmed via web search), though modern Vietnamese math education favors native số chẵn. Filled the blank `pos: 名詞`. Added missing `>[!tip]` header. `kwin: false` (was missing, now set). No homophones (注音 ㄛㄨㄙㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 偶爾.
+
+### 2026-08-03, iteration 701 — [[words/偶爾|偶爾]]
+
+**Content added**: filled blank `pos: 副用名詞` and `vietnamese: ngẫu nhĩ`, directly attested (confirmed via web search), literary/archaic register — modern Vietnamese favors ngẫu nhiên. Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄛㄨㄋㄝ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 偽善 (live-computed — fresh rescan confirms 1562 files remaining; queue: 偽善, 傲慢, 傷害, 僅僅, 僧侶, ...).
+
+### 2026-08-03, iteration 702 — [[words/偽善|偽善]]
+
+**Content added**: `vietnamese: ngụy thiện`, directly attested (confirmed via web search), closely related to đạo đức giả. Trimmed a redundant secondary tonal variant from `mandarin`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ⼔ㄧㄙ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 傲慢.
+
+### 2026-08-03, iteration 703 — [[words/傲慢|傲慢]]
+
+**Real content bug found and fixed**: `japanese` had a malformed long-vowel mark ("ごーまん") instead of the correct ごうまん — corrected. **Content added**: filled blank `pos: 性詞` and `vietnamese: ngạo mạn`, directly attested Sino-Vietnamese, well-known everyday term. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄚㄨㄇㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 傷害.
+
+### 2026-08-03, iteration 704 — [[words/傷害|傷害]]
+
+**Genuine cross-linguistic register mismatch found and disclosed**: `vietnamese: thương hại` is directly attested (confirmed via web search) but means "pity, to feel sorry for" rather than "to injure" as in Mandarin/Japanese/Korean — same characters, drifted sense, documented honestly rather than forced into a false match. Converted the plain-text homophone note to the standard callout (confirming the real homophone [[上海]]) on both this page and its reciprocal. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 僅僅.
+
+### 2026-08-03, iteration 705 — [[words/僅僅|僅僅]]
+
+**Content added**: `korean: 근근`, directly attested (confirmed via web search, usually as 근근이 "barely, with difficulty") and `vietnamese: cẩn cẩn` (compositional, no independent Vietnamese attestation found for the reduplicated form). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄍㄧㄋㄍㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 僧侶 (live-computed — fresh rescan confirms 1558 files remaining; queue: 僧侶, 儀仗, 儒家, 優先, 優秀, ...).
+
+### 2026-08-03, iteration 706 — [[words/僧侶|僧侶]]
+
+**Real content bug found and fixed**: `korean` had two extra native glosses ("중, 스님") mixed into the reading field — trimmed to 승려 alone. **Content added**: filled blank `pos: 名詞` and `vietnamese: tăng lữ`, directly attested, broader than tăng alone. Added missing `>[!tip]` header. `kwin: false` (was missing, now set). No homophones (注音 ㄙㄨㄫㄌ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 儀仗.
+
+### 2026-08-03, iteration 707 — [[words/儀仗|儀仗]]
+
+**Content added**: filled blank `pos: 名詞` and `vietnamese: nghi trượng`, directly attested — "honour guard, ceremonial guard" (Vietnam's own Military Honour Guard Battalion). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄜㄧㄐㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 儒家.
+
+### 2026-08-03, iteration 708 — [[words/儒家|儒家]]
+
+**Real content bug found and fixed**: `mandarin` had a stray Cantonese jyutping romanization appended — trimmed to pinyin alone. **Content added**: `vietnamese: Nho gia`, one of the most common everyday Vietnamese terms for Confucianism. Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄋㄨㄍㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 優先 (live-computed — fresh rescan confirms 1555 files remaining; queue: 優先, 優秀, 允許, 兄弟姉妹, 充分, ...).
+
+### 2026-08-03, iteration 709 — [[words/優先|優先]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: ưu tiên`, one of the most common everyday Vietnamese words for this exact concept. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄨㄛㄙㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 優秀.
+
+### 2026-08-03, iteration 710 — [[words/優秀|優秀]]
+
+**Content added**: filled blank `pos: 性詞` and `vietnamese: ưu tú`, one of the most common everyday Vietnamese words (học sinh ưu tú). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄨㄛㄙㄨㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 允許 (live-computed — fresh rescan confirms 1553 files remaining; queue: 允許, 兄弟姉妹, 充分, 充填, 光輝, ...).
+
+### 2026-08-03, iteration 711 — [[words/允許|允許]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: doãn hứa`, directly attested (confirmed via web search, alongside equally valid duẫn hứa), historically used of royal assent (paralleling Korean 윤허). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ⼜ㄋㄏ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 兄弟姉妹.
+
+### 2026-08-03, iteration 712 — [[words/兄弟姉妹|兄弟姉妹]]
+
+**Content added**: `vietnamese: anh chị em`, the standard everyday native Vietnamese phrase for "siblings," using kinship terms rather than a Sino-Vietnamese calque of these four characters. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 充分.
+
+### 2026-08-03, iteration 713 — [[words/充分|充分]]
+
+**Real content bug found and fixed**: `korean` had a native gloss ("넉넉하다") mixed into the reading field — trimmed to 충분 alone. **Content added**: `vietnamese: sung phân`, compositional (no fixed idiom found; everyday Vietnamese uses đầy đủ instead). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄑㄨㄫㄅㄨㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 充填 (live-computed — fresh rescan confirms 1550 files remaining; queue: 充填, 光輝, 克明, 免除, 入場, ...).
+
+### 2026-08-03, iteration 714 — [[words/充填|充填]]
+
+**Real undocumented homophone found**: this word shares its exact 注音/諺文/羅馬字 with [[充電]] "to recharge" — neither page had flagged it; added cross-linked callouts to both. **Real bug found and fixed**: `aliases` listed 充填 as its own alias — removed. **Content added**: `korean: 충전` (compositional) and `vietnamese: sung điền`, directly attested (confirmed via web search). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 光輝.
+
+### 2026-08-03, iteration 715 — [[words/光輝|光輝]]
+
+**Content added**: `vietnamese: quang huy`, directly attested Sino-Vietnamese, well known as a common given name. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎ⺢ㄫㄏㄨㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 克明.
+
+### 2026-08-03, iteration 716 — [[words/克明|克明]]
+
+**Content added**: `vietnamese: khắc minh`, directly attested Sino-Vietnamese (confirmed via web search), "thorough clarity, comprehensive understanding" — also confirmed the existing `korean: 극명` is genuinely used (극명하다, "a stark contrast/very clear"). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄨㄎㄇ⼶ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 免除.
+
+### 2026-08-03, iteration 717 — [[words/免除|免除]]
+
+**Content added**: `vietnamese: miễn trừ`, one of the most common everyday Vietnamese words for this exact concept (miễn trừ thuế). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄇ⼶ㄋㄐㄝㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 入場 (live-computed — fresh rescan confirms 1546 files remaining; queue: 入場, 入籍, 全盛, 兪允, 八角, ...).
+
+### 2026-08-03, iteration 718 — [[words/入場|入場]]
+
+**Content added**: `vietnamese: nhập trường`, directly attested Sino-Vietnamese, a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄋㄧㄆㄐㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 入籍.
+
+### 2026-08-03, iteration 719 — [[words/入籍|入籍]]
+
+**Content added**: `korean: 입적` (compositional) and `vietnamese: nhập tịch`, directly attested (confirmed via web search) — extremely common everyday Vietnamese specifically for naturalization. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄋㄧㄆㄐㄝㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 全盛 (live-computed — fresh rescan confirms 1544 files remaining; queue: 全盛, 兪允, 八角, 公卿, 公明, ...).
+
+### 2026-08-03, iteration 720 — [[words/全盛|全盛]]
+
+**Content added**: filled blank `cantonese: cyun4 sing6` (compositional) and `vietnamese: toàn thịnh`, directly attested (confirmed via web search), commonly in thời kỳ toàn thịnh. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄐ⼔ㄋㄙㄧㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 兪允.
+
+### 2026-08-03, iteration 721 — [[words/兪允|兪允]]
+
+Identified as a rare classical/literary synonym-doubling compound (royal assent) with no independent attestation of the full compound found in any source language via web search. **Content added**: filled all four blank fields — `cantonese: jyu6 wan5`, `japanese: ゆいん`, `korean: 유윤`, `vietnamese: dũ doãn` — each compositional from the characters' own confirmed readings, documented honestly as compositional rather than fabricated attestation. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ⼜ㄇ⼜ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 八角.
+
+### 2026-08-03, iteration 722 — [[words/八角|八角]]
+
+**Content added**: `vietnamese: bát giác`, directly attested Sino-Vietnamese covering both senses (octagon and star anise, bát giác hồi hương). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄊㄍㄛㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 公卿 (live-computed — fresh rescan confirms 1541 files remaining; queue: 公卿, 公明, 公演, 公爵, 公衆, ...).
+
+### 2026-08-03, iteration 723 — [[words/公卿|公卿]]
+
+**Content added**: filled blank `cantonese: gung1 hing1` (compositional) and `vietnamese: công khanh`, directly attested (confirmed via web search), abbreviating tam công cửu khanh — directly paralleling this word's own 三公+九卿 etymology. `kwin: false` confirmed. No homophones (注音 ㄍㄛㄫㄎ⼶ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 公明.
+
+### 2026-08-03, iteration 724 — [[words/公明|公明]]
+
+**Content added**: `vietnamese: công minh`, one of the most common everyday Vietnamese words (xét xử công minh, "to judge fairly"). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄍㄛㄫㄇ⼶ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 公演 (live-computed — fresh rescan confirms 1539 files remaining; queue: 公演, 公爵, 公衆, 共有, 共格, ...).
+
+### 2026-08-03, iteration 725 — [[words/公演|公演]]
+
+**Real content bug found and fixed**: `cantonese` had two comma-separated tone variants crammed into one field — trimmed to gung1 jin2, matching 演's own confirmed reading. **Content added**: `vietnamese: công diễn`, one of the most common everyday Vietnamese words (buổi công diễn). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄍㄛㄫ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 公爵.
+
+### 2026-08-03, iteration 726 — [[words/公爵|公爵]]
+
+**Content added**: `vietnamese: công tước`, the standard Vietnamese term for this nobility rank (highest of the traditional 公侯伯子男 five-rank peerage). Added missing `>[!tip]` header. `kwin: true` confirmed (exact match). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 公衆.
+
+### 2026-08-03, iteration 727 — [[words/公衆|公衆]]
+
+**Content added**: `vietnamese: công chúng`, one of the most common everyday Vietnamese words for "the public." Added missing `>[!tip]` header. `kwin: true` confirmed (exact match). No homophones (注音 ㄍㄛㄫㄐㄨㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 共有.
+
+### 2026-08-03, iteration 728 — [[words/共有|共有]]
+
+**Content added**: `vietnamese: cộng hữu`, directly attested Sino-Vietnamese, a real legal term for common/joint ownership. Removed a duplicate `品詞` key. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼘ㄫ·⼜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 共格 (live-computed — fresh rescan confirms 1535 files remaining; queue: 共格, 共通, 兵卒, 兵站, 具格, ...).
