@@ -15,6 +15,8 @@ vietnamese:
   - lênh
   - lình
   - lệnh
+  - linh
+  - lệnh
   - lịnh
 middle_chinese_initial: l
 middle_chinese_final: "eŋ"

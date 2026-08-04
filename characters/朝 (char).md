@@ -8,7 +8,10 @@ japanese:
 japanese_native: あさ
   - あさ
 vietnamese:
-  - triều, chầu, chào
+  - triều
+  - triêu
+  - chầu
+  - chào
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiᴇu
 stroke_count: 12

@@ -8,7 +8,11 @@ japanese:
 japanese_native: おさ
   - なが-い
 vietnamese:
-  - trường, trườn, tràng, trành, trưởng
+  - trường
+  - trườn
+  - tràng
+  - trành
+  - trưởng
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨɐŋ
 stroke_count: 8

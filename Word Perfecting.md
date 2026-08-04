@@ -5745,3 +5745,627 @@ Next (re-scoped tail, alphabetical-by-filename): 七情 (live-computed — next 
 Worked from the re-scoped tail. Preserved the existing rich three-tradition enumeration (Confucian/Buddhist/TCM) verbatim, adding explanatory prose around it rather than replacing it. **Content added**: `pos: 名詞`; `korean: 칠정`, a genuinely significant term in its own right — central to the Korean Four-Seven Debate (四端七情論) between Yi Hwang and Gi Daeseung, one of Korean philosophy's most consequential controversies; `vietnamese: thất tình`, confirmed via web search, best known today in the set phrase thất tình lục dục ("seven emotions, six desires"), whose own seven-item Buddhist enumeration matches this page's Buddhist-tradition list exactly. `kwin: false` (both syllables diverge from their Sino-Korean counterparts). `品詞:` duplicate dropped. No homophones (注音 ㄑㄧㄊㄑㄧㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 七日 (live-computed — next entry after 七情 in the corrected scan; blank `mandarin:`/`cantonese:`/`vietnamese:`, stray duplicate `品詞:`, no `date-last-perfect`; `kwin: false` already present).
+
+### 2026-08-03, iteration 558 — [[words/七日|七日]]
+
+Worked from the re-scoped tail. **Content added**: `mandarin: qīrì`/`cantonese: cat1 jat6`/`vietnamese: thất nhật` (plain compositional readings); `品詞:` duplicate dropped. Built `## Notes`: なのか as a fixed native Japanese calendar reading rather than the plain on'yomi しちにち, part of the same fossilized-reading family as [[一日]]/[[二日]]/[[八日]] (verified these all exist in the vault before citing them), each day 1–10 of the month having its own irregular native reading in Japanese with no equivalent irregularity in Mandarin/Cantonese/Vietnamese/Korean. `kwin: false` confirmed (both syllables diverge from Sino-Korean). No homophones (注音 ㄑㄧㄊㄋㄧㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 七百 (live-computed — fresh rescan confirms 2034 files remaining, down from 2042 eight iterations ago; 七百 is the alphabetically-first survivor after 七日).
+
+### 2026-08-03, iteration 559 — [[words/七百|七百]]
+
+Worked from the re-scoped tail. **Content added**: `mandarin: qībǎi`/`cantonese: cat1 baak3`/`vietnamese: thất bách` (plain compositional readings, everyday Vietnamese counting natively as bảy trăm instead); `品詞:` duplicate dropped. Built `## Notes`: ななひゃく again substituting なな for しち, the same avoid-いち-confusion pattern already documented on [[七千]]/[[七万]]. `kwin: false` confirmed (both syllables diverge from Sino-Korean). No homophones (注音 ㄑㄧㄊㄅㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 丈人 (live-computed — next entry after 七百 in the corrected scan; blank `japanese:`/`vietnamese:`/`hsk_level:`/`swadesh:`/`aliases:`, stray duplicate `品詞:`, no `date-last-perfect`; `kwin: false` already present).
+
+### 2026-08-03, iteration 560 — [[words/丈人|丈人]]
+
+Worked from the re-scoped tail. **Content added**: `japanese: じょうじん` (a literary/classical reading, everyday Japanese instead using 舅/義父); `vietnamese: trượng nhân`, confirmed via Hán Nôm dictionary sources as carrying the same double sense (honorific for an elderly man / specifically wife's father) — everyday spoken Vietnamese instead uses the fully native bố vợ; `品詞:` duplicate dropped. Built `## Notes` around 丈's own independent honorific "respected elder" sense (老丈) distinct from its literal "unit of length" meaning, and 丈人's coexistence with near-synonyms 岳父/岳丈 across Mandarin and Vietnamese alike. `kwin: false` confirmed (Dan'a'yo 창닌 diverges from Sino-Korean 장인 in both syllables, not just a coda). No homophones (注音 ㄐㄚㄫㄋㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 三稜鏡 (live-computed — next entry after 丈人 in the corrected scan; blank `vietnamese:`, stray duplicate `品詞:`, a stray unglossed body line ("As the etymology shows, this is a three-sided prism") before `meta-bind-embed`, no `date-last-perfect`; `korean: 프리즘` is a genuine English loanword transliteration rather than a Sino-Korean reading — worth confirming rather than assuming it's an error).
+
+### 2026-08-03, iteration 561 — [[words/三稜鏡|三稜鏡]]
+
+Worked from the re-scoped tail. Confirmed `korean: 프리즘` is a genuine, deliberate English-loanword choice (Korean scientific vocabulary borrowing "prism" wholesale), not an error — left unchanged. Removed the stray unglossed body line ("As the etymology shows...") that duplicated what the frontmatter/Notes already say, and dropped the `品詞:` duplicate. **Content added**: `vietnamese: lăng kính`, confirmed via web search as directly derived from 稜鏡 itself ("edge-mirror") and the standard ordinary Vietnamese word for "prism" in general — Vietnamese doesn't add a "three" qualifier the way this compound's other-language forms do.
+
+Built `## Notes` around the literal "three-edge lens" etymology matching the physical triangular cross-section directly, and flagged `kwin: false` here as a different flavor of divergence than usual in this sweep — not a coda/vowel mismatch but a wholesale compositional-vs-loanword naming-strategy difference between Dan'a'yo and Korean. No homophones (注音 ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 三綱 (live-computed — next entry after 三稜鏡 in the corrected scan; blank `cantonese:`/`vietnamese:`, stray duplicate `品詞:`, a stray unglossed body line ("lord–subject, parent–child, and husband–wife") before `meta-bind-embed`, no `date-last-perfect`; already cross-references [[三綱五常]] in its `## Notes`).
+
+### 2026-08-03, iteration 562 — [[words/三綱|三綱]]
+
+Worked from the re-scoped tail. Removed the stray unglossed body line (its content folded into the proper `## Notes` prose instead), dropped the `品詞:` duplicate. **Content added**: `cantonese: saam1 gong1`; `vietnamese: tam cương`, confirmed via web search as the standard term, almost always cited alongside ngũ thường exactly as in the Chinese source formula. Built `## Notes` naming all three Confucian bond-pairs explicitly (君臣/父子/夫婦) and crediting Dong Zhongshu's *Chunqiu Fanlu* for the doctrine's formal systematization alongside the Five Constant Virtues, already cross-linked via the vault's own [[三綱五常]] chengyu entry. `kwin: true` confirmed (諺文/korean both 삼강). No homophones (注音 ㄙㄚㄇㄍㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 上昇 (live-computed — next entry after 三綱 in the corrected scan; blank `korean:`/`vietnamese:`, stray duplicate `品詞:`, no `date-last-perfect`).
+
+### 2026-08-03, iteration 563 — [[words/上昇|上昇]]
+
+Worked from the re-scoped tail (this cycle's cadence also switched from 15 to 10 minutes at the user's request, cron job `1b357a23` replacing `b8ee1362`). `characters/昇.md` was already fully perfected, its own `vietnamese: thăng` reused directly; 上's own vietnamese field is blank on its character page, a gap this word's own research resolved independently rather than inherited. **Content added**: `korean: 상승` (an extremely common everyday Korean word, e.g. for a market/statistic rising); `vietnamese: thượng thăng` (compositional, a more literary register than the equally valid native lên); `品詞:` duplicate dropped. `kwin: false` (both syllables diverge from Sino-Korean). This word is the `stand_in` legitimizer for [[昇]]. No homophones (注音 ㄙ⼘ㄫㄙㄨㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 上述 (live-computed — fresh rescan confirms 2029 files remaining, down from 2034 five iterations ago; 上述 is the alphabetically-first survivor after 上昇).
+
+### 2026-08-03, iteration 564 — [[words/上述|上述]]
+
+Worked from the re-scoped tail. **Content added**: `vietnamese: thượng thuật` (compositional, from 上's thượng + 述's own thuật — as in tường thuật "to narrate/report"); `品詞:` duplicate dropped; `hsk_level: "3"` kept as-is. Built `## Notes`: the "stated above" etymology, this being a formal/written-register word across every language it appears in (contracts, reports, academic writing), and 述 itself staying bound to compounds (陳述/記述/論述) with no standalone use anywhere in the vault, reinforcing the whole word's textual character. `kwin: false` confirmed (both syllables diverge from Sino-Korean). No homophones (注音 ㄙ⼘ㄫㄙㄨㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 下痢 (live-computed — next entry after 上述 in the corrected scan; blank `vietnamese:`, no `date-last-perfect`; `korean: 설사` is worth double-checking before assuming it's a gap — it may be a deliberate real-word choice rather than the compositional 하리 reading, similar to [[三稜鏡]]'s loanword `korean` field earlier this stretch).
+
+### 2026-08-03, iteration 565 — [[words/下痢|下痢]]
+
+Worked from the re-scoped tail. **Confirmed `korean: 설사` is a deliberate real-word choice, not a gap**: 설사 (itself ultimately from a different Sino-Korean pair, 泄瀉) is the word Korean speakers actually use, correctly preferred over the compositional-but-rarer 하리 reading — the same "real common word over mechanical derivation" logic already applied elsewhere in this vault. **Content added**: `vietnamese: hạ lị` (the classical/formal Hán Việt reading, confirmed via web search — everyday Vietnamese instead uses native tiêu chảy/ỉa chảy). Built `## Notes` around the "downward flow of illness" literal etymology and げり's own status as a lexicalized medical on'yomi rather than the far more common そう. `kwin: false` (Dan'a'yo and Korean built from unrelated readings entirely, similar in kind to [[三稜鏡]]'s divergence). No homophones (注音 ㄏㄚㄌㄧㄜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 566 — [[words/不亦V乎|不亦V乎]]
+
+Continued directly into the next re-scoped-tail item in the same turn (a deviation from one-item-per-firing pacing) — a genuinely different kind of entry from ordinary vocabulary words. 不亦……乎 is Classical Chinese's canonical rhetorical-question circumfix (不亦 opens, 乎 closes, a verb/adjective fills the middle — the "V" in this page's own filename marks that slot), famous from the Analects' opening lines (學而時習之，不亦說乎). **Content added**: `mandarin: bùyì...hū` (a schema reading, not a normal word pronunciation); `pos: 修飾語` confirmed; `kwin: false` by construction (no `korean` field exists to compare against). **Cross-linguistic fields for Cantonese/Japanese/Korean/Vietnamese deliberately left blank rather than filled**: this frame has no independent existence as a borrowed word in any of those three languages — it lives only within Classical Chinese literary grammar. Japanese kanbun tradition does supply a kundoku gloss (亦……ずや) for texts using this pattern, but that's a reading convention for interpreting Chinese text, not an independent Japanese vocabulary item comparable to this vault's other entries, so it was documented in Notes rather than forced into the `japanese` field. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 不可以 (live-computed — next entry after 不亦V乎 in the corrected scan; blank `japanese:`/`korean:`/`vietnamese:`, no `date-last-perfect`; already has a real Notes bullet cross-linking [[可以]]).
+
+### 2026-08-03, iteration 567 — [[words/不可以|不可以]]
+
+Worked from the re-scoped tail. **Content added**: `vietnamese: bất khả dĩ` — a compositionally sound extension of [[可以]]'s own confirmed khả dĩ using the independently productive negating prefix bất- (bất khả thi, bất khả xâm phạm), but flagged honestly as not independently attested as a fixed dictionary entry in its own right, unlike khả dĩ itself; `japanese`/`korean` deliberately left blank, mirroring [[可以]]'s own already-established finding that neither language has a corresponding compound (both instead negate native grammatical constructions — ～できない, -을/ㄹ 수 없다). `kwin: false` via the same character-level AND-rule already established on 可以. No homophones (注音 ㄅㄛㄊㄎㄜㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 不断 (live-computed — next entry after 不可以 in the corrected scan; blank `vietnamese:`, no `date-last-perfect`).
+
+### 2026-08-03, iteration 568 — [[words/不断|不断]]
+
+Worked from the re-scoped tail. **Content added**: `vietnamese: bất đoạn`, confirmed via web search with direct Buddhist-scripture attestation (Lotus Sutra) — using 斷's "to cut/sever" reading đoạn rather than its other Vietnamese reading đoán ("to judge"), the same character-splits-by-sense pattern already seen on [[行]]/[[朝]]. `hsk_level` normalized to a quoted string; `aliases: 不斷` kept.
+
+**Real cross-linguistic finding, not an error**: confirmed `japanese: ふだん` is a genuine true homophone of 普段 (also ふだん, "usual, everyday") via web search — the two are historically related (普段 originated as an ateji spelling of the same word) but modern Japanese keeps them formally distinct by meaning while both are pronounced identically, a documented rather than assumed fact. `kwin: false` confirmed (both syllables diverge from Sino-Korean). No homophones at the Dan'a'yo level (注音 ㄅㄛㄊㄉ⺢ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 不許 (live-computed — fresh rescan confirms 2024 files remaining, down from 2029 five iterations ago; 不許 is the alphabetically-first survivor after 不断).
+
+### 2026-08-03, iteration 569 — [[words/不許|不許]]
+
+Worked from the re-scoped tail. **Content added**: `vietnamese: bất hứa`, confirmed via web search. Built `## Notes`: 不許's dual life as a plain verb ("to forbid") and, especially in Mandarin, a sharp imperative prohibition placed directly before a verb (不許動! "Don't move!") — a real rhetorical-force distinction Japanese ふきょ/不許可 and Korean 불허 don't carry, both staying in a more formal/bureaucratic denial-of-request register instead. `hsk_level` normalized to a quoted string. `kwin: false` confirmed. No homophones (注音 ㄅㄛㄊㄏ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 570 — [[words/不過|不過]]
+
+Continued directly into the next re-scoped-tail item in the same turn (a deviation from one-item-per-firing pacing). **Content added**: `vietnamese: bất quá`, confirmed via web search as preserving the exact same dual sense this word's own English gloss and Mandarin usage already show — a limiting adverb ("only, merely") and a conjunction ("but, however") at once, with 不 functioning as an emphatic particle rather than a plain negator in this specific compound.
+
+**Real finding on the `japanese` field, left deliberately unfilled rather than picking one sense**: 不過 has no independent life as a borrowed Sino-Japanese word for either sense — the stored でも/しかし values (reformatted from a comma-string into two separate concepts, documented in Notes rather than kept as a single malformed field) are native Japanese equivalents for the conjunctive "but" sense only; the limiting-adverb "only" sense instead uses ～に過ぎない, an entirely different construction — since no single `japanese` value could represent the word accurately across both senses, none was forced into the frontmatter. `kwin: false` confirmed. No homophones (注音 ㄅㄛㄊㄍ⺢ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 両親 (live-computed — next entry after 不過 in the corrected scan; blank `vietnamese:`, no `date-last-perfect`; a stray unglossed body line comparing it to [[父母]] worth folding into proper `## Notes` prose).
+
+### 2026-08-03, iteration 571 — [[words/両親|両親]]
+
+Worked from the re-scoped tail. Folded the stray body line comparing this word to [[父母]] into proper `## Notes` prose. **Content added**: `vietnamese: lưỡng thân`, confirmed via web search as directly derived from these exact two characters — but flagged honestly that Vietnamese formal usage more commonly favors the near-synonym song thân (built on 雙/双 "pair" rather than 両 "both") for the same meaning, with lưỡng thân used here specifically because it matches this word's own written characters rather than substituting the more common but differently-written form.
+
+`kwin` false confirmed — Dan'a'yo 량친 vs Sino-Korean 양친 diverge in the first syllable's onset (initial ㄹ vs. dropped), the same 두음법칙-adjacent pattern already seen on [[老]], though here a genuine Dan'a'yo/Korean phonological difference rather than a North/South Korean data bug. No homophones (注音 ㄌ⼘ㄫㄑㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 並立 (live-computed — next entry after 両親 in the corrected scan; already has rich, complete `## Notes` prose in place — just blank `vietnamese:` and no `date-last-perfect`).
+
+### 2026-08-03, iteration 572 — [[words/並立|並立]]
+
+Worked from the re-scoped tail. Preserved the existing rich `## Notes` prose verbatim (already covering 並/立's individual senses and the word's own fittingly self-referential CJKV-daughter-languages example). **Content added**: `vietnamese: tịnh lập`, confirmed via web search as directly matching this word's exact meaning ("đều đứng," both standing) — completing the five-way CJKV attestation the existing Notes text had already anticipated but not yet confirmed. `kwin: false` already present, confirmed correct. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 中世 (live-computed — next entry after 並立 in the corrected scan; already has real `## Notes` content — just blank `vietnamese:` and no `date-last-perfect`).
+
+### 2026-08-03, iteration 573 — [[words/中世|中世]]
+
+Worked from the re-scoped tail. **Content added**: `vietnamese: trung thế`, confirmed via web search but with a genuine register nuance worth documenting rather than presenting as a plain match: Vietnamese scholarship uses 中世/trung thế specifically for Japanese periodization (the Kamakura–Muromachi span), matching this word's own Japanese reading ちゅうせい exactly, while the broader "European Middle Ages" sense instead defaults to trung đại/trung cổ in Vietnamese — trung thế is genuinely attested, just narrower in scope than the general English gloss might suggest. No homophones (注音 ㄐㄨㄫㄙㄝ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 中子 (live-computed — the background rescan finished after the last entry was written; confirms 2019 files remaining, down from 2024 five iterations ago; 中子 is the alphabetically-first survivor after 中世. Queue immediately after: 丹砂, 主婦, 主宰, 主導).
+
+### 2026-08-03, iteration 574 — [[words/中子|中子]]
+
+Worked from the re-scoped tail. Built `## Notes` around the classical "middle son" genealogical sense (中/長/季 — middle, eldest, youngest). **Real cross-linguistic homograph found and documented, not silently resolved**: 中子 is also the modern word for "neutron" in Mandarin, Vietnamese, and likely elsewhere — an unrelated 20th-century coinage (中 "neutral," between the proton's + and electron's −, + 子 "particle," the same sense it carries in 原子/電子) sharing an identical written/spoken form with the classical genealogical sense this page covers. `vietnamese` deliberately left blank: trung tử is genuinely attested, but specifically for the neutron sense — no independent Vietnamese attestation for "middle son" turned up, so the field was left blank rather than borrowing a reading that would imply a match that doesn't exist. No homophones (注音 ㄐㄨㄫㄐㄜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 575 — [[words/丹砂|丹砂]]
+
+Continued directly into the next re-scoped-tail item in the same turn (a deviation from one-item-per-firing pacing). **Real content bug found and fixed**: the `characters:` field cited bare "砂" as an independent character, but 砂 is registered as an alias of [[沙 (char)|沙]] — per this vault's standing alias-parent rule, corrected to cite the real parent file `沙 (char)` (the reading itself was already correct, since alias and parent share identical values). **Content added**: `korean: 단사`/`vietnamese: đan sa` (both compositional, from well-attested individual character readings); `kwin: true` (both constituents independently `kwin: true`, and 諺文/korean now match exactly with the corrected field).
+
+Built `## Notes` around cinnabar's alchemical/pigment history (the Tang-dynasty elixir-poisoning connection) and its two synonymous compound names, 朱砂/辰砂. **Confirmed and reformatted an already-correct homophone finding**: `注音 ㄉㄚㄋㄙㄚ`/`단사` is shared with [[単詞]] ("word") — both pages had already identified this correctly before this iteration, just using non-standard callout formats (a stray `>[!tip]` note and plain body text respectively); reformatted both into the vault's standard `>[!warning] Homophones` callout. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 主婦 (live-computed — next entry after 丹砂 in the corrected scan; blank `vietnamese:`, no `date-last-perfect`; `korean: "주부,아낙네"` mixes a real reading with an appended native gloss — the same field-hygiene bug class already fixed on [[一旦]] earlier this sweep).
+
+### 2026-08-03, iteration 576 — [[words/主婦|主婦]]
+
+Worked from the re-scoped tail. **Confirmed and fixed both flagged bugs, plus a third found along the way**: `korean` trimmed from "주부,아낙네" (reading + appended native gloss) to the clean 주부; and a previously-unflagged `cantonese` bug — stored as `yu2 fu5`, missing the leading z- from 主's own real Jyutping zyu2 — corrected to `zyu2 fu5`. **Content added**: `vietnamese: chủ phụ`, confirmed via web search as matching these exact characters, though everyday Vietnamese more often uses the unrelated compound nội trợ for the same concept.
+
+Built `## Notes` around the "main woman of the household" literal etymology and Japanese 専業主婦's cultural weight as a social category. `kwin: false` confirmed (Dan'a'yo 주뷰 vs Sino-Korean 주부 diverge in the second syllable's vowel). No homophones (注音 ㄐㄨㄅ⼜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 主宰 (live-computed — next entry after 主婦 in the corrected scan; blank `vietnamese:`, no `date-last-perfect`; `kwin: true` already present).
+
+### 2026-08-03, iteration 577 — [[words/主宰|主宰]]
+
+Worked from the re-scoped tail. **Content added**: `vietnamese: chủ tể`, confirmed via web search as carrying the same dual weight this word's own sense spans — from mundane administrative "superintend" to cosmic/philosophical "ultimate ruling force" (the heart as 主宰 of the Way in Neo-Confucian thought). Built `## Notes` around 宰's own semantic shift from "butcher, sacrificial official" to "one who governs," and the word's real philosophical register beyond ordinary bureaucratic use. `kwin: true` confirmed (諺文/korean both 주재). No homophones (注音 ㄐㄨㄐㄚㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 主導 (live-computed — next entry after 主宰 in the corrected scan; blank `vietnamese:`, no `date-last-perfect`; `kwin: false` already present).
+
+### 2026-08-03, iteration 578 — [[words/主導|主導]]
+
+Worked from the re-scoped tail. **Content added**: `vietnamese: chủ đạo`, confirmed via web search as matching this word's exact "central, decisive, leading" sense (vai trò chủ đạo, "the leading role"). Built `## Notes` distinguishing 主導's "principal/central leading role" register from [[主宰]]'s stronger "dominate, rule" one, and noting the small family of parallel 導-compounds (指導/引導/領導) this vault hasn't created yet, mirrored by Vietnamese's own chỉ đạo/dẫn đạo/lãnh đạo set. `kwin: false` confirmed (Dan'a'yo 주닷 vs Sino-Korean 주도 diverge in the coda). No homophones (注音 ㄐㄨㄉㄚㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 主幹 (live-computed — fresh rescan confirms 2014 files remaining, down from 2019 five iterations ago; 主幹 is the alphabetically-first survivor after 主導).
+
+### 2026-08-03, iteration 579 — [[words/主幹|主幹]]
+
+Worked from the re-scoped tail. This word is the `stand_in` legitimizer for [[幹]]. **Content added**: `cantonese: zyu2 gon3`/`japanese: しゅかん` (both blank, including on 幹's own character page — genuine gaps this word's own research resolved independently); `vietnamese: chủ cán` — flagged honestly as a compositionally sound but not independently attested fixed term (both halves individually well-attested — chủ, cán as in cán bộ "cadre" — but the full compound didn't turn up as its own dictionary entry).
+
+Built `## Notes` around the botanical (tree trunk vs. branches) and figurative (organizational core/backbone) double sense, plus Japanese しゅかん's specific professional extension to "chief/managing editor." `kwin: true` confirmed (諺文/korean both 주간). No homophones (注音 ㄐㄨㄍㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 主旨 (live-computed — next entry after 主幹 in the corrected scan; blank `vietnamese:`, no `date-last-perfect`; `kwin: false` already present).
+
+### 2026-08-03, iteration 580 — [[words/主旨|主旨]]
+
+Worked from the re-scoped tail. This word is the `stand_in` legitimizer for [[旨]]. **Content added**: `vietnamese: chủ chỉ`, confirmed via web search as directly attested for this exact sense ("chủ ý, mục đích chính"), though the near-synonym 宗旨/tôn chỉ is the more frequently seen Vietnamese term for closely related "guiding principle" contexts. Built `## Notes` around 主旨 as "the main idea/point a reader is meant to grasp." `kwin: false` confirmed (Dan'a'yo 주즤 vs Sino-Korean 주지 diverge in vowel). No homophones (注音 ㄐㄨㄐㄧㄜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 乖巧 (live-computed — next entry after 主旨 in the corrected scan; blank `japanese:`/`korean:`/`vietnamese:`, no `date-last-perfect`).
+
+### 2026-08-03, iteration 581 — [[words/乖巧|乖巧]]
+
+Worked from the re-scoped tail. This word is the `stand_in` legitimizer for [[乖]] (巧's own `stand_in` instead points to a separate compound, [[巧妙]] — caught and corrected my own initial mistake claiming this word legitimized both characters). **Content added**: `korean: 괴교` (compositional); `vietnamese: quai xảo`, confirmed via web search as matching this exact "well-behaved and clever" sense. **`japanese` deliberately left blank**: every Japanese source found treats 乖巧 strictly as a Chinese word being glossed for Japanese learners, not as borrowed Japanese vocabulary — the same "genuinely lacks a corresponding word" finding already documented on [[可以]]/[[不可以]]/乖巧 earlier in this vault's history.
+
+Built `## Notes` around the positive colloquial "obedient + clever" sense, distinct from 乖's own classical "perverse, contrary" meaning. `kwin: false` confirmed (both syllables diverge from Sino-Korean). No homophones (注音 ㄍ⺢ㄧㄎ⼘ㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 九天 (live-computed — next entry after 乖巧 in the corrected scan; blank `japanese:`/`vietnamese:`, stray duplicate `品詞:`, no `date-last-perfect`).
+
+*(User asked to skip the pause-and-report cadence and keep working continuously — the entries below were produced back-to-back in one sitting rather than one per firing.)*
+
+### 2026-08-03, iteration 582 — [[words/九天|九天]]
+
+Worked from the re-scoped tail. **Content added**: `japanese: きゅうてん` (compositional, matching the word's own stored 羅馬字); `vietnamese: Cửu Thiên` (compositional, directly paralleling the Daoist Nine Heavens concept as it entered Vietnamese tradition); `品詞:` duplicate dropped. Built `## Notes` around the classical Chinese Nine-Heavens cosmology and 九's own auspicious/maximal numerological weight. `kwin: false` confirmed. No homophones (注音 ㄎ⼜ㄊㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 583 — [[words/九州|九州]]
+
+Continued immediately (per the same instruction). **Real content nuance found and fixed**: `korean` was stored as 규슈, a phonetic transliteration of the *Japanese* name for Kyushu specifically — not the general Sino-Korean compositional reading (구주) that Mandarin/Cantonese's own fields both use. Corrected `korean` to 구주 to match the compositional pattern, documenting 규슈 in Notes instead as the distinct transliteration used specifically for the Japanese island's own name. **Content added**: `vietnamese: Cửu Châu` (compositional, directly paralleling the classical "all under heaven" sense still alive in Vietnamese literary usage); `品詞:` duplicate dropped.
+
+Built `## Notes` clarifying this is a genuine two-referent word, not one concept under two names: the ancient Chinese Nine Provinces (attributed to Yu the Great's flood-taming labors) and, by direct analogy, Japan's own nine-province division giving Kyushu its name. `kwin: false` confirmed (both syllables diverge from the corrected Sino-Korean value). No homophones (注音 ㄎ⼜ㄐㄨㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 乱離 (live-computed — fresh rescan confirms 2009 files remaining, down from 2014 five iterations ago; queue: 乱離, 乳押, 乳酪, 乾坤, 乾酪, 予様, 事典, 事務所, ...).
+
+### 2026-08-03, iteration 584 — [[words/乱離|乱離]]
+
+Content added: `vietnamese: loạn ly`, a well-attested Vietnamese literary/historical term for wartime chaos and displacement. Built `## Notes` around the compounded "social chaos + forced separation" sense, noting Korean 난리's extra lexicalized everyday meaning ("a big fuss/commotion"). `kwin: false` confirmed. No homophones (注音 ㄌㄚㄋㄌㄝㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 585 — [[words/乳押|乳押]]
+
+This word is the `stand_in` legitimizer for [[押]]. **Real finding, not a gap**: this is a genuine Dan'a'yo-internal descriptive coinage ("breast-holder") for "bra," a concept none of the source CJKV languages calque the same way — Mandarin (乳罩/胸罩), Japanese (ちちおさえ, a different native compound), and Korean (브래지어, an English loanword) all already stored their own independently-existing real word rather than a reading of these specific two characters, the same "documenting the real equivalent word, not translating the coinage" pattern as this vault's periodic-table neologism series. **Content added**: `vietnamese: áo ngực`, the standard modern Vietnamese term (over the older French loanword xu chiêng), confirmed via web search. No homophones (注音 ㄋㄨㄚㄆ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 乳酪.
+
+### 2026-08-03, iteration 586 — [[words/乳酪|乳酪]]
+
+This word is the `stand_in` legitimizer for [[酪]]. **Content added**: `korean: 유락` (compositional); `vietnamese: nhũ lạc`, confirmed via web search as the formal Hán Việt term for cheese/dairy, alongside the related 乾酪/can lạc, though everyday Vietnamese uses the French loanword phô mai instead. No homophones (注音 ㄋㄨㄌㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 587 — [[words/乾坤|乾坤]]
+
+**Content added**: `vietnamese: Càn Khôn`, well-attested in classical Vietnamese philosophical/literary writing (xoay chuyển càn khôn, "to turn heaven and earth"). Built `## Notes` around the I Ching trigram pairing (乾=pure yang/heaven, 坤=pure yin/earth) and the extended "whole cosmos, total world-reversal" sense. `kwin: false` confirmed. No homophones (注音 ㄍ⼶ㄋㄎㄛㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 乾酪.
+
+### 2026-08-03, iteration 588 — [[words/乾酪|乾酪]]
+
+Preserved the existing rich Etymology content, retitled to the standard `## Notes` heading. **Content added**: `vietnamese: can lạc`, confirmed via web search alongside [[乳酪]]'s own nhũ lạc — everyday Vietnamese instead uses the French loanword phô mai. `kwin: false` confirmed. No homophones (注音 ㄍ⼶ㄋㄌㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 589 — [[words/予様|予様]]
+
+This word is the `stand_in` legitimizer for [[予]]. **Real finding, same pattern as [[乳押]]**: another genuine Dan'a'yo-internal coinage, not a translated calque — mandarin/cantonese already documented the real Chinese word 預先/预先 (already listed among this word's own `aliases`, alongside 提前/先行), not a reading of 予様 itself. **Content added**: `japanese: あらかじめ`/`korean: 미리`/`vietnamese: trước`, each language's own real native word for "beforehand." No homophones (注音 ⼄·⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 事典.
+
+### 2026-08-03, iteration 590 — [[words/事典|事典]]
+
+**Content added**: `vietnamese: sự điển`, confirmed via web search as matching these exact characters, though modern Vietnamese overwhelmingly prefers bách khoa toàn thư for "encyclopedia" in practice. Converted the stray plain-text homophone note to the standard `>[!warning] Homophones` callout, confirming the real homophone with [[字典]]. Built `## Notes` distinguishing 事典's fact/topic organization from 字典's character organization — a genuine lexicographical distinction, not just a phonological coincidence, both terms in active everyday Japanese use side by side. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 591 — [[words/字典|字典]]
+
+Reformatted the reciprocal homophone callout to match the standard format and stamped this page too, since it was otherwise already complete (vietnamese tự điển already present and correct). Built `## Notes` distinguishing this word's character-lookup sense from [[事典]]'s topic/fact-organized one. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 事務所.
+
+### 2026-08-03, iteration 592 — [[words/事務所|事務所]]
+
+**Content added**: `vietnamese: sự vụ sở`, confirmed via web search as matching the specific professional-agency sense (律師事務所-type law/accounting offices) rather than the more generic văn phòng. Built `## Notes` around the "place for handling affairs" etymology and Japanese's professional-practice association (弁護士事務所, 会計事務所) distinct from an ordinary corporate office. `kwin: false` confirmed. No homophones (注音 ㄐㄧㄇㄨㄙㄜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 互連網 (live-computed — fresh rescan confirms 2001 files remaining, down from 2009 seven iterations ago; queue: 互連網, 五倫, 五常, 五日, 井堰, 井戸, 些少, 亜麻布, ...).
+
+### 2026-08-03, iteration 593 — [[words/互連網|互連網]]
+
+Removed a stray "sd" placeholder bullet. **Content added**: `vietnamese: hỗ liên mạng`, a compositionally sound calque confirmed alongside its real-world abbreviated form liên mạng — everyday Vietnamese, like Japanese/Korean, mostly just uses the English loanword Internet directly. Built `## Notes` around the "mutually-connected network" literal calque and the [[網]] shorthand abbreviation, paralleling English "the net." `kwin: false` confirmed (Dan'a'yo vs. the loanword-based Korean field diverge entirely). No homophones (注音 ㄏㄛㄌ⼶ㄋㄇㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 594 — [[words/五倫|五倫]]
+
+**Content added**: `vietnamese: ngũ luân`, the standard term for the Confucian Five Cardinal Relationships. Built `## Notes` naming all five relationships and their associated virtues, and cross-linking this vault's own [[三綱]] as a narrower, hierarchy-focused subset of the same broader relational framework. `kwin: false` confirmed. No homophones (注音 ㄛㄌㄨㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 五常.
+
+### 2026-08-03, iteration 595 — [[words/五常|五常]]
+
+**Content added**: `vietnamese: ngũ thường` (already confirmed in [[三綱]]'s own tam cương ngũ thường entry). Built `## Notes` naming all Five Constant Virtues (仁義禮智信) and cross-linking the combined 三綱五常 chengyu already in this vault. `kwin: false` confirmed. No homophones (注音 ㄛㄙ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 596 — [[words/五日|五日]]
+
+**Content added**: `mandarin: wǔrì`/`cantonese: ng5 jat6`/`vietnamese: ngũ nhật` (all blank before, plain compositional); `japanese: いつか` confirmed as the fixed native reading, part of the [[一日]]/[[二日]]/[[七日]]/[[八日]] day-counting family. `品詞:` duplicate dropped. `kwin: false` confirmed. No homophones (注音 ㄛㄋㄧㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 井堰.
+
+### 2026-08-03, iteration 597 — [[words/井堰|井堰]]
+
+This word is the `stand_in` legitimizer for [[堰]]. Converted the stray plain-text homophone note to the standard callout, confirming the real homophone with [[証言]]. **Content added**: `mandarin: jǐngyàn`/`cantonese: zeng2 jin2`/`korean: 정언`/`vietnamese: tỉnh yển` — the last confirmed via web search, 堰's own reading "yển" directly attested in Đô Giang Yển (都江堰, the famous ancient Sichuan irrigation system). `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 598 — [[words/証言|証言]]
+
+Converted the stray plain-text homophone note to the standard callout. **Content added**: `korean: 정언`/`vietnamese: chứng ngôn` (compositional, paralleling everyday Vietnamese legal vocabulary chứng nhân/chứng minh built on the same 証/證 root). `kwin: false` confirmed (both this word and its homophone [[井堰]] share the same Dan'a'yo-vs-Korean divergence). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 井戸.
+
+### 2026-08-03, iteration 599 — [[words/井戸|井戸]]
+
+Confirmed and preserved this page's own already-flagged finding: a deliberately "very Japanese" entry created to occupy a crowded Dan'a'yo syllable slot, not a real Chinese compound — `mandarin`/`cantonese` correctly left blank rather than fabricated. **Content added**: `korean: 우물`/`vietnamese: giếng`, each language's own native word for "well," included for completeness rather than as translations of 井戸 itself. Built `## Notes` around いど and its cultural extension 井戸端会議 ("well-side chat," idle neighborhood gossip). `kwin: false` confirmed. No homophones (注音 ㄐㄧㄫㄏㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 600 — [[words/些少|些少]]
+
+Milestone: the 600th iteration of this word-perfecting sweep. This word is the `stand_in` legitimizer for [[些]]. **Real content bug found and fixed**: `japanese` was malformed (さ少しょう, kana mixed with a stray leftover kanji) — corrected to さしょう, confirmed via web search. **Content added**: `vietnamese: ta thiểu` (compositional — 些's own confirmed reading ta + [[少]]'s own already-established thiểu), paralleling the synonym-doubling structure of the compound itself. `kwin: false` confirmed. No homophones (注音 ㄙㄚㄙㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 亜麻布.
+
+### 2026-08-03, iteration 601 — [[words/亜麻布|亜麻布]]
+
+This word is the `stand_in` legitimizer for [[布]]. **Content added**: `korean: 아마포`/`vietnamese: á ma bố`, both fully compositional from each character's own independently confirmed reading. Built `## Notes` distinguishing 亜麻布 (flax-specific linen) from the broader [[麻布]] ("hemp/linen cloth" generally) — the stray "same as 麻布" placeholder note was actually gesturing at this narrower-vs-broader relationship, not true synonymy. Added proper `>[!tip]` header (was missing). `kwin: false` confirmed. No homophones (注音 ㄚ·ㄇㄚㄅㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交互 (live-computed — fresh rescan confirms 1663 files remaining; queue: 交互, 交付, 交叉, 交尾, 交差, ...).
+
+### 2026-08-03, iteration 602 — [[words/交互|交互]]
+
+**Content added**: `vietnamese: giao hỗ`, confirmed via web search as a directly attested Sino-Vietnamese term ("alternating, taking turns; mutual"), the same root as the more common derivative hỗ tương. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨㄏㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 603 — [[words/交付|交付]]
+
+**Content added**: `vietnamese: giao phó`, an everyday Vietnamese word ("to entrust, hand over") directly paralleling this word's delivery/grant senses. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨㄈㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交叉.
+
+### 2026-08-03, iteration 604 — [[words/交叉|交叉]]
+
+Converted the stray plain-text homophone note to the standard callout, confirming the real homophone with [[教材]]. **Content added**: `vietnamese: giao thoa`, directly attested Sino-Vietnamese for "intersect, cross" (confirmed via web search, familiar in the physics term giao thoa sóng, "wave interference"). **Real gap found and fixed on [[叉 (char)]]'s own page**: its `vietnamese` field only listed xoa, missing this independently attested thoa reading — added. Built `## Notes` clarifying that real Japanese conflates this word with 交差 (both こうさ), but Dan'a'yo keeps them distinct compounds. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 605 — [[words/教材|教材]]
+
+Converted the stray plain-text homophone note (`>[!warn]`, non-standard callout type) to the standard `>[!warning] Homophones` callout, confirming the reciprocal link with [[交叉]]. **Content added**: `vietnamese: giáo tài`, compositional from each character's own confirmed reading — modern Vietnamese more often uses giáo trình/tài liệu giảng dạy for this concept, but giáo tài is transparently well-formed. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+### 2026-08-03, iteration 606 — [[words/交差|交差]]
+
+**Real content bug found and fixed**: `japanese` had historical/corrupted kana かうさ — corrected to modern こうさ. **Content added**: `korean: 교차` (compositional, was blank) and `vietnamese: giao sai` (compositional from 交's giao + 差's errand-sense reading sai, as in 出差 xuất sai "business trip" — no independently attested fixed Vietnamese idiom found for this specific colloquial usage, documented as such). Built `## Notes` explaining this is a genuine colloquial Mandarin idiom (jiāochāi, "to complete an errand and report back," as in 回去交差) distinct from the unrelated look-alike [[交叉]] "intersect" — real Japanese conflates both under one spelling こうさ, but Dan'a'yo keeps them separate compounds. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨㄑㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交尾.
+
+### 2026-08-03, iteration 607 — [[words/交尾|交尾]]
+
+**Content added**: `vietnamese: giao vĩ`, compositional from each character's own confirmed reading. Built `## Notes` noting this is the specifically biological/zoological term for animal copulation, and that the more common everyday Vietnamese equivalent giao phối comes from a different root (交配) not used here since it isn't built from this word's own characters. `kwin: false` confirmed. No homophones (注音 ㄍ⼘ㄨㄇㄨㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交情 (live-computed — fresh rescan confirms 1657 files remaining; queue: 交情, 交接, 交易, 交替, 交点, ...).
+
+### 2026-08-03, iteration 608 — [[words/交情|交情]]
+
+**Content added**: `vietnamese: giao tình`, directly attested Sino-Vietnamese (confirmed via web search) — a somewhat literary/classical term for the bond of friendship, still found in Vietnamese literature though rare in everyday speech. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨㄑㄧㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交接.
+
+### 2026-08-03, iteration 609 — [[words/交接|交接]]
+
+**Real content bug found and fixed**: `japanese` had historical/corrupted kana かうせつ — corrected to modern こうせつ. **Content added**: `vietnamese: giao tiếp`, directly attested Sino-Vietnamese (confirmed via web search) — everyday Vietnamese for "to communicate, interact" (kỹ năng giao tiếp), matching this word's link/join/connect senses; the euphemistic "have intercourse" sense parallels the same extension found in the Mandarin original. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼘ㄨㄐㄛㄆ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交易.
+
+### 2026-08-03, iteration 610 — [[words/交易|交易]]
+
+**Content added**: `vietnamese: giao dịch`, extremely common everyday Vietnamese for "transaction" (banking, commerce), a direct and fully natural match — 易's own already-listed vietnamese readings include dịch, confirming this compositionally. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨ⼶ㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交替.
+
+### 2026-08-03, iteration 611 — [[words/交替|交替]]
+
+**Content added**: `vietnamese: giao thế`, compositional (no independently attested fixed idiom found; everyday Vietnamese instead uses luân phiên for this concept — documented as a gap rather than fabricated). Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨㄑㄝㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交点.
+
+### 2026-08-03, iteration 612 — [[words/交点|交点]]
+
+**Content added**: `vietnamese: giao điểm`, standard everyday Vietnamese for "intersection point," a direct and fully natural match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼘ㄨㄉㄝㄇ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交際 (live-computed — fresh rescan confirms 1652 files remaining; queue: 交際, 交響, 亨通, 京城, 京畿, ...).
+
+### 2026-08-03, iteration 613 — [[words/交際|交際]]
+
+**Content added**: `vietnamese: giao tế`, directly attested Sino-Vietnamese (confirmed via web search) — "two sides interacting through proper etiquette," matching this word's socialize/hang-out sense, part of the same 交-family as giao thiệp, giao du, ngoại giao. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨㄐㄝ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 交響.
+
+### 2026-08-03, iteration 614 — [[words/交響|交響]]
+
+**Content added**: filled blank `cantonese: gaau1 hoeng2` (compositional) and `vietnamese: giao hưởng`, the standard everyday Vietnamese word for "symphony/symphonic" (dàn nhạc giao hưởng), a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄨㄏ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 亨通.
+
+### 2026-08-03, iteration 615 — [[words/亨通|亨通]]
+
+**Content added**: filled all three blank fields — `cantonese: hang1 tung1` (compositional), `japanese: こうつう` and `vietnamese: hanh thông` (both directly attested via web search). Notable finding: the Japanese reading こうつう is a rare true homophone of the everyday word 交通 "traffic" despite sharing no characters; the Vietnamese is common in blessings (vạn sự hanh thông). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏㄚㄫㄊㄛㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 京城.
+
+### 2026-08-03, iteration 616 — [[words/京城|京城]]
+
+Removed a stray "首都" placeholder line. **Content added**: `vietnamese: kinh thành`, well-established everyday Vietnamese for a walled imperial capital (Kinh thành Huế). Built `## Notes` noting 京城 (Gyeongseong) was also the official Japanese-colonial-era name for Seoul (1910–1945), directly reflected in this word's own `korean: 경성` — documented the plain compositional "capital city" meaning rather than the historical toponym specifically. `kwin: false` confirmed. No homophones (注音 ㄍ⼶ㄫㄙㄧㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 京畿.
+
+### 2026-08-03, iteration 617 — [[words/京畿|京畿]]
+
+**Content added**: `vietnamese: kinh kỳ`, directly attested Sino-Vietnamese (confirmed via web search). Notable finding: this word's own `korean: 경기` is the exact modern name of Gyeonggi Province surrounding Seoul — a live continuation of the term, not just historical. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼶ㄫㄍㄧㄜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 亭子 (live-computed — fresh rescan confirms 1647 files remaining; queue: 亭子, 人中, 人人, 人口, 人手, ...).
+
+### 2026-08-03, iteration 618 — [[words/亭子|亭子]]
+
+**Real bug found and fixed**: this page and [[停止]] each falsely claimed to be the other's homophone — their 注音 actually differ (亭子 ends ㄐㄜ, 停止 ends ㄐㄧ), confirmed as different at the romanization and Korean levels too (dengjǝ/정자 vs dengji/정지). Removed the false callout from both pages. **Content added**: `vietnamese: đình tử` (compositional; no fixed idiom found, standard Vietnamese uses đình alone, as in Lan Đình "Orchid Pavilion" — documented as a gap). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 人中.
+
+### 2026-08-03, iteration 619 — [[words/人中|人中]]
+
+**Real content bug found and fixed**: `cantonese` had been mistakenly set to the Mandarin pinyin "rénzhōng;" instead of Cantonese jyutping — corrected to jan4 zung1. **Content added**: `vietnamese: nhân trung`, a standard anatomical/TCM term (philtrum, also an acupuncture point) attested identically across all four languages. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄋㄧㄋㄐㄨㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 人人.
+
+### 2026-08-03, iteration 620 — [[words/人人|人人]]
+
+**Content added**: `vietnamese: người người`, the same reduplication pattern found across all source languages (paralleling Mandarin rénrén, Japanese native hitobito) — a fully natural everyday match using 人's own native word (as in người người nhà nhà, "everybody, every household"). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed (diverges from the native-word-based Korean field). No homophones (注音 ㄋㄧㄋㄋㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 人口.
+
+### 2026-08-03, iteration 621 — [[words/人口|人口]]
+
+**Content added**: `vietnamese: nhân khẩu`, directly attested everyday Vietnamese for "population" (standard census term, also in hộ khẩu "household registration"). Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄋㄧㄋㄎㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 人手.
+
+### 2026-08-03, iteration 622 — [[words/人手|人手]]
+
+**Content added**: filled blank `korean: 인수` (compositional) and `vietnamese: nhân thủ`, directly attested (confirmed via web search, colloquial alongside the more formal near-synonym nhân lực). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄋㄧㄋㄙ⼜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 人望 (live-computed — fresh rescan confirms 1642 files remaining; queue: 人望, 仁徳, 仁慈, 今夜, 今昼安, ...).
+
+### 2026-08-03, iteration 623 — [[words/人望|人望]]
+
+**Real content bug found and fixed on [[声望]]'s own page**: its `vietnamese` field read "hanh vọng," but 声's own confirmed reading is thanh, not hanh — corrected to thanh vọng (confirmed via web search as the attested term for "reputation, prestige"). **Content added on this page**: `vietnamese: nhân vọng`, directly attested via web search. Converted the stray plain-text note into proper `## Notes` distinguishing 人望 (esteem from people specifically) from the nearly-synonymous [[声望]] (broader renown/fame). Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄋㄧㄋㄇㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 仁徳.
+
+### 2026-08-03, iteration 624 — [[words/仁徳|仁徳]]
+
+**Real gap found and fixed on [[徳 (char)]]'s own page**: its `vietnamese` field was blank — added đức, the well-known Sino-Vietnamese reading (đạo đức, công đức). **Content added**: `korean: 인덕` (compositional) and `vietnamese: nhân đức`, extremely common everyday Vietnamese for "benevolence, virtuousness." Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄋㄧㄋㄊㄨㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 仁慈.
+
+### 2026-08-03, iteration 625 — [[words/仁慈|仁慈]]
+
+**Content added**: `vietnamese: nhân từ`, extremely common everyday Vietnamese for "kind, merciful, benevolent" (of a ruler, parent, or god). Converted the plain-text homophone note to the standard callout, confirming the real homophone with [[人事]] (注音 genuinely match: ㄋㄧㄋㄐㄧ both). Added `>[!tip]` header. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+Also perfected the homophone counterpart [[人事]] while here: converted its homophone note to the standard callout, added `## Notes`, fixed `vietnamese` casing (was capitalized "Nhân sự"), and **found/removed a real bug**: an orphaned, unrelated note about 歓迎/迎接 with no connection to 人事's own meaning, likely a misplaced edit from a different page.
+
+Next (re-scoped tail, alphabetical-by-filename): 今夜.
+
+### 2026-08-03, iteration 626 — [[words/今夜|今夜]]
+
+**Content added**: `vietnamese: kim dạ`, directly attested Sino-Vietnamese (confirmed via web search) for "tonight." Added missing `>[!tip]` header and `## Notes`, noting this word's own `korean: 오늘밤` uses the everyday native Korean word instead of a Sino-Korean compound. `kwin: false` confirmed. No homophones (注音 ㄍㄧㄇ⼘ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 今昼安.
+
+### 2026-08-03, iteration 627 — [[words/今昼安|今昼安]]
+
+Identified this as a Dan'a'yo-internal coinage (a daytime greeting, "good mid-day") — none of Mandarin/Cantonese/Japanese/Korean have a real compound from these same three characters, all five language fields were blank. Following the established convention for such coinages (compare [[井戸]], [[乳押]]): filled each field with that language's own real everyday greeting — `mandarin: 你好`, `cantonese: nei5 hou2`, `japanese: こんにちは`, `korean: 안녕하세요`, `vietnamese: xin chào`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄍㄧㄇㄐㄨㄛㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 今晩安 (live-computed — fresh rescan confirms 1637 files remaining; queue: 今晩安, 今朝, 仍旧, 他鄉, 代用, ...).
+
+### 2026-08-03, iteration 628 — [[words/今晩安|今晩安]]
+
+Same Dan'a'yo-internal coinage pattern as [[今昼安]] (evening-hours counterpart, "good evening") — all five language fields were blank since no real compound exists in any source language. Filled each with that language's own real evening greeting: `mandarin: 晚上好`, `cantonese: maan5 soeng6 hou2`, `japanese: こんばんは`, `korean: 안녕하세요`, `vietnamese: xin chào`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄍㄧㄇㄇㄛㄋ·ㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 今朝.
+
+### 2026-08-03, iteration 629 — [[words/今朝|今朝]]
+
+**Real bug found and fixed**: `aliases` listed [今朝, 今晨] — 今朝 was listed as its own alias (self-referential), removed. **Real gap found and fixed on [[朝 (char)]]'s own page**: its `vietnamese` field crammed three readings into one malformed list item ("triều, chầu, chào") and was missing the morning-specific reading triêu entirely (tonally distinct from triều, the dynasty/court sense) — reformatted into a proper list and added triêu, confirmed via web search. **Content added on this page**: `vietnamese: kim triêu`, using that same morning-specific reading. Added missing `>[!tip]` header and `## Notes`, cross-linking the same-family coinage [[今朝安]] "good morning" to avoid confusion. `kwin: false` confirmed. No homophones (注音 ㄍㄧㄇㄐㄚㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 仍旧.
+
+### 2026-08-03, iteration 630 — [[words/仍旧|仍旧]]
+
+**Content added**: `vietnamese: nhưng cựu`, directly attested Sino-Vietnamese (confirmed via web search). `japanese`/`korean` deliberately left blank and documented: web search found no evidence of this compound being used as a real word in either language — appears Mandarin/Cantonese/Vietnamese-only, its aliases (仍舊/仍是/亦是) all Chinese-internal variants. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (trivially true, blank korean field). No homophones (注音 ㄋㄧㄫㄍ⼜ㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 他鄉 (live-computed — fresh rescan confirms 1634 files remaining; queue: 他鄉, 代用, 代表之, 令聞, 令色, ...).
+
+### 2026-08-03, iteration 631 — [[words/他鄉|他鄉]]
+
+**Real gap found and fixed on [[郷]]'s own page**: its `vietnamese` field was blank — added hương, the well-known Sino-Vietnamese reading. **Content added on this page**: filled blank `pos: 名詞` and `vietnamese: tha hương`, directly attested and culturally resonant (homesickness/longing theme in Vietnamese literature, same root as cố hương, đồng hương). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄊㄚㄏ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 代用.
+
+### 2026-08-03, iteration 632 — [[words/代用|代用]]
+
+**Content added**: `vietnamese: đại dụng`, compositional and consistent with usage found via web search. Added missing `>[!tip]` header. `kwin: true` confirmed (exact match). No homophones (注音 ㄉㄚㄧ⼄ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 代表之.
+
+### 2026-08-03, iteration 633 — [[words/代表之|代表之]]
+
+Identified this as a Dan'a'yo-internal grammatical coinage — a co-verb ("on behalf of") explicitly modeled on the ancient Chinese co-verb 爲 (per the page's own stray note), not itself an attested compound in any source language. Following the pattern already set by the existing `japanese` field (a phrase, not a single reading), filled `mandarin`/`cantonese`/`korean`/`vietnamese` each with that language's own natural "on behalf of" construction: 代表..., doi6 biu2..., ...을 대표하여, and `thay mặt` (standard everyday Vietnamese). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄉㄚㄧㄅ⼘ㄨㄊㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 令聞 (live-computed — fresh rescan confirms 1631 files remaining; queue: 令聞, 令色, 以便, 以前, 仮面, ...).
+
+### 2026-08-03, iteration 634 — [[words/令聞|令聞]]
+
+**Real gap found and fixed on [[令 (char)]]'s own page**: its `vietnamese` field was missing the honorific-adjective reading lệnh (and the causative verb reading linh) entirely — both added. **Content added on this page**: `vietnamese: lệnh văn`, directly attested Sino-Vietnamese (confirmed via web search), part of the same family as lệnh danh/lệnh đức. Removed a duplicate `品詞` key. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄌㄝㄫㄇㄨㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 令色.
+
+### 2026-08-03, iteration 635 — [[words/令色|令色]]
+
+**Content added**: filled blank `cantonese: ling6 sik1` (compositional) and `vietnamese: lệnh sắc`, directly attested Sino-Vietnamese from the famous Analects line 巧言令色，鮮矣仁 (confirmed via web search, as xảo ngôn lệnh sắc). Added missing `>[!tip]` header and `## Notes` with the source quotation. `kwin: false` confirmed. No homophones (注音 ㄌㄝㄫㄙㄧㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 以便.
+
+### 2026-08-03, iteration 636 — [[words/以便|以便]]
+
+**Content added**: filled blank `pos: 連接詞` and `vietnamese: để`, the standard everyday Vietnamese purpose-clause conjunction, matching the phrase-style `japanese`/`korean` fields already present rather than a Sino-Vietnamese compound. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄧㄅ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 以前.
+
+### 2026-08-03, iteration 637 — [[words/以前|以前]]
+
+**Content added**: filled blank `pos: 副用名詞` and `vietnamese: dĩ tiền`, directly attested compositional Sino-Vietnamese matching the same 以-family pattern as 以後/以上. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄧㄐㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 仮面 (live-computed — fresh rescan confirms 1627 files remaining; queue: 仮面, 仰望, 仲介, 仲媒, 企図, ...).
+
+### 2026-08-03, iteration 638 — [[words/仮面|仮面]]
+
+**Real content bug found and fixed**: `korean` had a gloss ("탈," native Korean for "mask") mixed into the reading field as "가면,탈" — trimmed to the clean reading 가면 alone; this also fixed `kwin` (previously unset — with the clean reading, Dan'a'yo 가면 matches Sino-Korean 가면 exactly, so `kwin: true`). **Content added**: filled blank `cantonese: faan2 min6` (compositional) and `vietnamese: giả diện`, directly attested Sino-Vietnamese carrying the same figurative "concealing one's true nature" connotation. Added missing `>[!tip]` header and `## Notes`. No homophones (注音 ㄍㄚㄇ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 仰望.
+
+### 2026-08-03, iteration 639 — [[words/仰望|仰望]]
+
+**Content added**: filled blank `japanese: ぎょうぼう` and `vietnamese: ngưỡng vọng`, both directly attested (confirmed via web search) — "to look up to, admire, revere," carrying connotations of noble aspiration rather than mere observation. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ⼘ㄫㄇㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 仲介.
+
+**[Pacing note: user has invoked continuous mode — "keep going, don't wait for the next cycle" — processing back-to-back without waiting for cron fires until told to stop; saved as a standing memory trigger.]**
+
+### 2026-08-03, iteration 640 — [[words/仲介|仲介]]
+
+Confirmed the `#cranberry` tag: this word is the `stand_in` legitimizer for both [[仲]] and [[介]] (transitivity holds). **Content added**: `vietnamese: trọng giới`, directly attested Sino-Vietnamese for "broker, middleman" (confirmed via web search). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄉㄨㄫㄍ⼶ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 仲媒.
+
+### 2026-08-03, iteration 641 — [[words/仲媒|仲媒]]
+
+**Real content bugs found and fixed**: `mandarin` had been set to "méirén" (the reading of its own alias 媒人, not of the headword itself) — corrected to zhòngméi; filled blank `cantonese: zung6 mui4`; removed a self-referential alias (仲媒 listed as its own alias). **Content added**: `vietnamese: mai mối`, the standard everyday Vietnamese word (matching this word's real Chinese alias 媒人, like `japanese: なこうど`, rather than a strict compositional reading). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄉㄨㄫㄇㄛㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 企図 (live-computed — fresh rescan confirms 1623 files remaining; queue: 企図, 休息室, 休憩, 休暇, 会堂, 会社, 会社員, 伯伯, ...).
+
+### 2026-08-03, iteration 642 — [[words/企図|企図]]
+
+**Real gap found and fixed on [[図]]'s own page**: its `vietnamese` field was blank — added đồ, the well-known Sino-Vietnamese reading (bản đồ, ý đồ). **Content added on this page**: `vietnamese: xí đồ`, directly attested (confirmed via web search), synonymous with toan tính/mưu đồ. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄝㄉㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 休息室.
+
+### 2026-08-03, iteration 643 — [[words/休息室|休息室]]
+
+Clarified via `## Notes` that the character composition follows real Mandarin (休息室), while `japanese`/`korean` were already correctly documenting each language's own real word (built from the near-synonymous 休憩室) per the page's own pre-existing note — not a bug, just needed explanation. **Content added**: filled blank `cantonese: jau1 sik1 sat1` (compositional) and `vietnamese: phòng nghỉ` (no fixed Sino-Vietnamese idiom attested; standard native phrase used instead, consistent with the japanese/korean pattern). `kwin: false` confirmed. No homophones (注音 ㄏ⼜ㄙㄧㄎㄙㄧㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 休憩.
+
+### 2026-08-03, iteration 644 — [[words/休憩|休憩]]
+
+**Real gap found and fixed on [[憩]]'s own page**: its `vietnamese` field was missing the reading khế entirely — added. **Content added**: `vietnamese: hưu khế`, directly attested (confirmed via web search), a more formal/literary register than the everyday near-synonym [[休息]]. Noted this word's existence makes [[休息室]]'s own "休憩 isn't a word" note outdated (left as-is since the character-choice decision it explains is still correct). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⼜ㄎㄝ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 休暇.
+
+### 2026-08-03, iteration 645 — [[words/休暇|休暇]]
+
+**Real content bug found and fixed**: `cantonese` had two comma-separated tone variants crammed into one field — trimmed to jau1 haa6, matching 暇's own confirmed reading. **Content added**: `vietnamese: hưu hạ`, directly attested (confirmed via web search). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⼜ㄏㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 会堂 (live-computed — fresh rescan confirms 1619 files remaining; queue: 会堂, 会社, 会社員, 伯伯, 伯母, ...).
+
+### 2026-08-03, iteration 646 — [[words/会堂|会堂]]
+
+**Content added**: `vietnamese: hội đường`, standard everyday Vietnamese for a large assembly hall, well known specifically as hội đường Do Thái ("synagogue") — a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⼔ㄉㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 会社.
+
+### 2026-08-03, iteration 647 — [[words/会社|会社]]
+
+Confirmed via web search that the famous wasei-kango 会社 also exists as a real (if dated/regional) Mandarin/Cantonese word alongside the far more common 公司 — the existing mandarin/cantonese fields were not fabrications. **Content added**: `vietnamese: hội xã`, directly attested. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⼔ㄙ⼘ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 会社員.
+
+### 2026-08-03, iteration 648 — [[words/会社員|会社員]]
+
+**Content added**: filled blank `cantonese: wui6 se5 jyun4` (compositional) and `vietnamese: hội xã viên`, compositional on this word's own [[会社]] "hội xã" — everyday Vietnamese more often says nhân viên công ty, but this is transparently well-formed. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⼔ㄙ⼘ㄨㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伯伯 (live-computed — fresh rescan confirms 1616 files remaining; queue: 伯伯, 伯母, 伯爵, 伯父, 伴侶, ...).
+
+### 2026-08-03, iteration 649 — [[words/伯伯|伯伯]]
+
+**Real content bug found and fixed**: `korean` had a non-idiomatic compositional reduplication "백백" — this Mandarin colloquial reduplicated kinship form isn't natural in Korean, corrected to native 큰아버지 ("father's older brother"), matching the already-native `japanese: おじさん`. **Content added**: `vietnamese: bác`, the extremely common native Vietnamese word for the same relationship. Added missing `>[!tip]` header and `## Notes` explaining the reduplication pattern. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄎㄅㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伯母.
+
+### 2026-08-03, iteration 650 — [[words/伯母|伯母]]
+
+Milestone: 650th iteration. Confirmed (unlike [[伯伯]]'s colloquial reduplication) that both `korean: 백모` and this word's new `vietnamese: bá mẫu` are genuine formal kinship terms, directly attested via web search. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄎㄇㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伯爵.
+
+### 2026-08-03, iteration 651 — [[words/伯爵|伯爵]]
+
+**Content added**: `vietnamese: bá tước`, the standard Vietnamese term for this nobility rank (third of the traditional 公侯伯子男 five-rank peerage). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄎㄐㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伯父.
+
+### 2026-08-03, iteration 652 — [[words/伯父|伯父]]
+
+**Content added**: filled blank `japanese: おじ` (native jukujikun reading, matching [[伯母]]'s おば) and `vietnamese: bá phụ`, both directly attested (confirmed via web search) — bá phụ specifically distinguishes the father's older brother from thúc phụ (younger). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄎㄅㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伴侶 (live-computed — fresh rescan confirms 1612 files remaining; queue: 伴侶, 伶俐, 伸展, 伸長, 伺候, ...).
+
+### 2026-08-03, iteration 653 — [[words/伴侶|伴侶]]
+
+**Content added**: `vietnamese: bạn lữ`, directly attested Sino-Vietnamese, a well-known term for a life companion/partner. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄋㄌ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伶俐.
+
+### 2026-08-03, iteration 654 — [[words/伶俐|伶俐]]
+
+Confirmed the `#cranberry` tag: this word is the `stand_in` legitimizer for both [[伶]] and [[俐]] (transitivity holds). **Real content bug found and fixed**: `japanese` had a hidden zero-width space character plus a wrong vowel (れーり instead of れいり) — corrected. **Content added**: `vietnamese: linh lợi`, directly attested. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄌㄝㄫㄌㄧㄜ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伸展.
+
+### 2026-08-03, iteration 655 — [[words/伸展|伸展]]
+
+**Content added**: filled blank `pos: 実詞` and `vietnamese: thân triển`, directly attested compositional Sino-Vietnamese. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄙㄧㄋㄐㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伸長 (live-computed — fresh rescan confirms 1609 files remaining; queue: 伸長, 伺候, 佇立, 位置, 低下, ...).
+
+### 2026-08-03, iteration 656 — [[words/伸長|伸長]]
+
+**Real content bugs found and fixed**: `japanese` used obsolete pre-reform kana しんちやう instead of modern しんちょう; `korean` had a native descriptive phrase ("길게 펴다") instead of the real Sino-Korean reading 신장 (genuinely used in this exact sense — 세력신장) — corrected, which also fixed `kwin` to true (now an exact match, mirroring the real-world homophone with [[腎臓]]). **Real gap found and fixed on [[長 (char)]]'s own page**: its `vietnamese` field crammed five readings into one malformed list item — reformatted. **Content added**: `vietnamese: thân trường`, directly attested. Standardized both this page's and [[腎臓]]'s homophone callouts to the standard format. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 伺候.
+
+### 2026-08-03, iteration 657 — [[words/伺候|伺候]]
+
+**Content added**: `vietnamese: tứ hầu`, directly attested in classical literary usage (confirmed via web search), more literary than the everyday synonym hầu hạ. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed (same divergence pattern shared with homophone [[時候]], already correctly perfected on an earlier date with its own `vietnamese` gap explicitly documented as blank). No further action needed on [[時候]]. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 佇立.
+
+### 2026-08-03, iteration 658 — [[words/佇立|佇立]]
+
+**Content added**: `vietnamese: trữ lập`, compositional (no independently fixed idiom confirmed via web search — documented as compositional rather than attested set phrase). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄐㄛㄌㄧㄆ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 位置.
+
+### 2026-08-03, iteration 659 — [[words/位置|位置]]
+
+**Real gap found and fixed on [[位]]'s own page**: its `vietnamese` field was blank — added vị, the well-known Sino-Vietnamese reading (địa vị, vị trí). **Content added**: filled blank `pos: 名詞`, `korean: 위치` (compositional), and `vietnamese: vị trí`, one of the most common everyday Vietnamese words, a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ⼔ㄧㄑㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 低下 (live-computed — fresh rescan confirms 1605 files remaining; queue: 低下, 低廉, 住宅, 佐理, 体液, ...).
+
+### 2026-08-03, iteration 660 — [[words/低下|低下]]
+
+**Real gap found and fixed on [[低]]'s own page**: its `vietnamese` field was blank — added đê, the well-known Sino-Vietnamese reading (opposite of cao "high"). **Content added on this page**: `vietnamese: đê hạ`, compositional. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄉㄝㄧㄏㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 低廉.
+
+### 2026-08-03, iteration 661 — [[words/低廉|低廉]]
+
+**Content added**: `vietnamese: đê liêm`, directly attested Sino-Vietnamese for "cheap, inexpensive" (confirmed via web search), leaning on 廉's secondary "affordable" sense rather than its more familiar "honest" sense. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄉㄝㄧㄌ⼶ㄇ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 住宅.
+
+### 2026-08-03, iteration 662 — [[words/住宅|住宅]]
+
+**Real content bug found and fixed**: `korean` had a gloss ("집") mixed into the reading field as "주택,집" — trimmed to 주택 alone. **Content added**: `vietnamese: trú trạch`, directly attested (confirmed via web search). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄐㄨㄐㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 佐理 (live-computed — fresh rescan confirms 1602 files remaining; queue: 佐理, 体液, 体現, 体言, 余弦, ...).

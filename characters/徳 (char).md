@@ -7,6 +7,7 @@ japanese:
   - TOKU
 japanese_native: ø
 vietnamese:
+  - đức
 middle_chinese_initial: t
 middle_chinese_final: "ək"
 stroke_count: 14

@@ -11,6 +11,7 @@ japanese_native: また
   - また 
 vietnamese:
   - xoa
+  - thoa
 middle_chinese_initial: t͡ʃʰ
 middle_chinese_final: ɣɛ
 stroke_count: 3
