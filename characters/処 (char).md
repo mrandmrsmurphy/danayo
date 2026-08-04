@@ -7,7 +7,10 @@ japanese:
   - SHO
 japanese_native: ところ
 vietnamese:
-  - xử, xớ, xở, xứ
+  - xử
+  - xớ
+  - xở
+  - xứ
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: ɨʌ
 stroke_count: 5

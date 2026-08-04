@@ -6765,3 +6765,147 @@ Next (re-scoped tail, alphabetical-by-filename): 共有.
 **Content added**: `vietnamese: cộng hữu`, directly attested Sino-Vietnamese, a real legal term for common/joint ownership. Removed a duplicate `品詞` key. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼘ㄫ·⼜ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 共格 (live-computed — fresh rescan confirms 1535 files remaining; queue: 共格, 共通, 兵卒, 兵站, 具格, ...).
+
+### 2026-08-03, iteration 729 — [[words/共格|共格]]
+
+**Content added**: `vietnamese: cộng cách`, compositional — Vietnamese linguistics has no independent tradition of naming this specific grammatical case (minimal case-marking language), so no fixed attestation was found, documented honestly. Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄫㄍㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 共通.
+
+### 2026-08-03, iteration 730 — [[words/共通|共通]]
+
+**Content added**: `vietnamese: cộng thông`, compositional. Removed a duplicate `品詞` key. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄫㄊㄛㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 兵卒 (live-computed — fresh rescan confirms 1533 files remaining; queue: 兵卒, 兵站, 具格, 典雅, 内省, ...).
+
+### 2026-08-03, iteration 731 — [[words/兵卒|兵卒]]
+
+**Content added**: `vietnamese: binh tốt`, directly attested Sino-Vietnamese, a synonym-doubling compound paralleling tiểu tốt. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅ⼶ㄫㄐㄨㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 兵站.
+
+### 2026-08-03, iteration 732 — [[words/兵站|兵站]]
+
+**Content added**: `vietnamese: binh trạm`, directly attested and historically significant — the term for the Trường Sơn Road (Ho Chi Minh Trail) logistics relay stations during the Vietnam War. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅ⼶ㄫㄐㄚㄇ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 具格.
+
+### 2026-08-03, iteration 733 — [[words/具格|具格]]
+
+**Content added**: `vietnamese: cụ cách`, compositional — Vietnamese linguistics has no independent tradition of naming this specific case, documented honestly (mirroring [[共格]]'s own treatment). Cross-linked the two as a matched pair of case-term coinages. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄨㄍㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 典雅 (live-computed — fresh rescan confirms 1530 files remaining; queue: 典雅, 内省, 内臓, 内部, 内閣, ...).
+
+### 2026-08-03, iteration 734 — [[words/典雅|典雅]]
+
+**Content added**: `vietnamese: điển nhã`, directly attested Sino-Vietnamese, commonly used to praise elegant, cultured writing. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄉㄝㄋ·ㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 内省.
+
+### 2026-08-03, iteration 735 — [[words/内省|内省]]
+
+**Real content bug found and fixed**: the Etymology gloss for 省 read "government ministry" — wrong sense for this word. 省 is polysemous (shěng "province/ministry" vs. xǐng "to examine, reflect"); 内省 uses the reflective xǐng sense exclusively, paralleling 反省/phản tỉnh. **Content added**: `vietnamese: nội tỉnh`, directly attested (confirmed via web search), a formal/academic register distinct from the more common phản tỉnh. (Mid-edit self-correction: briefly and mistakenly flagged the alias 內省 as self-referential and removed it — caught immediately via Unicode codepoint check, 内 U+5185 ≠ 內 U+5167, genuinely distinct traditional-form alias, restored.) `kwin: false` confirmed. Added missing `>[!tip]` header. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 内臓.
+
+### 2026-08-03, iteration 736 — [[words/内臓|内臓]]
+
+**Content added**: `vietnamese: nội tạng`, one of the most common everyday Vietnamese words for this concept. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄋㄛㄧㄐㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 内部 (live-computed — fresh rescan confirms 1527 files remaining; queue: 内部, 内閣, 冶錬, 冷蔵庫, 凄涼, ...).
+
+### 2026-08-03, iteration 737 — [[words/内部|内部]]
+
+**Content added**: `vietnamese: nội bộ`, one of the most common everyday Vietnamese words for this concept (nội bộ công ty). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄋㄛㄧㄅㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 内閣.
+
+### 2026-08-03, iteration 738 — [[words/内閣|内閣]]
+
+**Content added**: `vietnamese: nội các`, one of the most common everyday Vietnamese words for this concept. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄋㄛㄧㄍㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 冶錬 (live-computed — fresh rescan confirms 1525 files remaining; queue: 冶錬, 冷蔵庫, 凄涼, 准許, 凝結, ...).
+
+### 2026-08-03, iteration 739 — [[words/冶錬|冶錬]]
+
+**Real gap found and fixed on [[錬]]'s own page**: its `vietnamese` field was blank — added luyện, the well-known Sino-Vietnamese reading (huấn luyện). **Content added**: filled all three blank fields — `japanese: やれん`, `korean: 야련`, `vietnamese: dã luyện` — each compositional, with no independent attestation of the exact compound found in any language (everyday Vietnamese instead uses the unrelated-root luyện kim, "metallurgy"), documented honestly. Added missing `>[!tip]` header. `kwin: false` (was missing, now set). No homophones (注音 ⼘ㄌㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 冷蔵庫.
+
+### 2026-08-03, iteration 740 — [[words/冷蔵庫|冷蔵庫]]
+
+**Real gap found and fixed on [[蔵]]'s own page**: its `vietnamese` field was blank — added tàng, the well-known Sino-Vietnamese reading (kho tàng, bảo tàng, tiềm tàng). **Content added**: `vietnamese: tủ lạnh` — a native Vietnamese compound (tủ + lạnh), not a Sino-Vietnamese calque of 冷蔵庫, since no such calque is in everyday use. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄌㄚㄫㄑㄚㄫㄎㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 凄涼.
+
+### 2026-08-03, iteration 741 — [[words/凄涼|凄涼]]
+
+**Content added**: filled blank `japanese: せいりょう` (compositional) and `vietnamese: thê lương`, directly attested (confirmed via web search), often describing an evocatively sad, desolate scene. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄑㄝㄧㄌ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 准許 (live-computed — fresh rescan confirms 1522 files remaining; queue: 准許, 凝結, 処格, 処決, 凸, ...).
+
+### 2026-08-03, iteration 742 — [[words/准許|准許]]
+
+**Content added**: filled blank `korean: 준허` (compositional) and `vietnamese: chuẩn hứa`, directly attested (confirmed via web search), the everyday counterpart to the more formal [[允許]]. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄐㄨㄋㄏ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 凝結.
+
+### 2026-08-03, iteration 743 — [[words/凝結|凝結]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: ngưng kết`, one of the most common everyday Vietnamese words (ngưng kết hơi nước). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄜㄫㄍㄝㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 処格 (live-computed — fresh rescan confirms 1520 files remaining; queue: 処格, 処決, 凸, 凹版, 出勤, ...).
+
+### 2026-08-03, iteration 744 — [[words/処格|処格]]
+
+**Real gap found and fixed on [[処 (char)]]'s own page**: its `vietnamese` field crammed four readings into one malformed list item — reformatted. **Content added**: `vietnamese: xứ cách`, compositional — part of the same matched case-term coinage family as [[共格]]/[[具格]], same documented-as-compositional treatment. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄑㄛㄍㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 処決.
+
+### 2026-08-03, iteration 745 — [[words/処決|処決]]
+
+Corrected the Etymology gloss: 処 here uses its verb sense "to decide, adjudicate a sentence" (処斬, "to sentence to beheading"), not the more familiar noun sense "place" the prior gloss gave. **Content added**: `vietnamese: xử quyết`, directly attested (confirmed via web search), with the same dual senses ("to try/judge" and "to execute") as this word's own. Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄑㄛㄎ⼔ㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 凸.
+
+### 2026-08-03, iteration 746 — [[words/凸|凸]]
+
+**Content added**: `vietnamese: đột`, matching this word's own source character's already-confirmed reading. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 凹版.
+
+### 2026-08-03, iteration 747 — [[words/凹版|凹版]]
+
+**Content added**: filled blank `pos: 名詞`, `korean: 요판` (compositional, matching 凹's own established 요 reading), and `vietnamese: ao bản`, directly attested (confirmed via web search). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄚㄨㄆㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 出勤 (live-computed — fresh rescan confirms 1516 files remaining; queue: 出勤, 出奔, 出席, 出演, 出生, ...).
+
+### 2026-08-03, iteration 748 — [[words/出勤|出勤]]
+
+**Content added**: `vietnamese: xuất cần`, compositional (no fixed idiom found; everyday Vietnamese uses đi làm instead). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄑㄨㄊㄍㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 出奔.
+
+### 2026-08-03, iteration 749 — [[words/出奔|出奔]]
+
+**Content added**: `korean: 출분` (compositional) and `vietnamese: xuất bôn`, directly attested classical term (confirmed via web search, synonymous with xuất tẩu/đào vong). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄑㄨㄊㄅㄛㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 出席.
+
+### 2026-08-03, iteration 750 — [[words/出席|出席]]
+
+Milestone: 750th iteration. **Content added**: `vietnamese: xuất tịch`, directly attested (confirmed via web search) — a genuine, if less common, synonym of the everyday tham dự. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄑㄨㄊㄙㄝㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 出演.
+
+### 2026-08-03, iteration 751 — [[words/出演|出演]]
+
+**Content added**: filled blank `cantonese: ceot1 jin2` (compositional) and `vietnamese: xuất diễn` (compositional, matching this word's own 出-first character order). Noted a subtlety: everyday Vietnamese diễn xuất reverses the order, actually corresponding to the distinct compound 演出 (yǎnchū), not to 出演 itself. `kwin: true` confirmed (exact match). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 出生.
+
+### 2026-08-03, iteration 752 — [[words/出生|出生]]
+
+**Real content bugs found and fixed**: `mandarin` was missing its final -g (chūshēn → chūshēng); `korean` had a native gloss ("태어나다") mixed into the reading field — trimmed to 출생 alone. **Content added**: `vietnamese: xuất sinh`, compositional, matching formal/administrative usage. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄑㄨㄊㄙㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 刀刃 (live-computed — fresh rescan confirms 1511 files remaining; queue: 刀刃, 刀叉, 分校, 分配, 分離, ...).
