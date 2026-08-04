@@ -7143,3 +7143,243 @@ Next (re-scoped tail, alphabetical-by-filename): 化粧.
 **Real content bug found and fixed**: `japanese` had a malformed long-vowel-mark rendering ("けしょー," the same bug pattern found on [[別荘]] earlier this session) — corrected to けしょう. **Content added**: `vietnamese: hóa trang`, one of the most common everyday Vietnamese words for this concept. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⺢ㄐ⺢ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 北極熊.
+
+### 2026-08-03, dedicated cleanup pass — systemic Japanese long-vowel-mark corruption
+
+At the user's direction, paused the alphabetical Vietnamese sweep to fix a systemic corpus bug: a scripted search for `japanese:` frontmatter fields mixing hiragana with the katakana long-vowel mark ー (invalid in native hiragana orthography — real hiragana spells long vowels with う or い, not ー) turned up **70 affected word files**. Three had already been caught and fixed organically earlier this session ([[別荘]], [[化粧]], [[劫盗]]); fixed the remaining 67 in this pass:
+
+[[七対子]] (also missing final つ — was truncated, not just mis-spelled), [[包含]], [[厚顔]], [[同族]], [[四書五経]], [[大正]], [[天道]], [[宰相]], [[崇高]], [[平均]], [[平等]], [[平静]], [[形成]], [[怒涛]], [[恩恵]], [[懐抱]], [[放置]], [[政治学]] (also had a stray zero-width space), [[教員]], [[暴怒]] (also had a stray zero-width space), [[校内]], [[校外]], [[校服]], [[校歌]], [[校舎]], [[校門]] (worst case — truncated to just "ーもん", missing こう entirely), [[正餐]], [[母校]], [[洪水]], [[派生]], [[清音]] (also had a stray zero-width space), [[溶融]], [[牆壁]], [[特点]], [[猛禽]], [[王朝]], [[球場]], [[生命]], [[生活]], [[神霊]], [[穿山甲]], [[紡錘]], [[綱要]], [[肩章]], [[胰臓]], [[芸術]], [[融合]], [[表彰]], [[贈与]], [[農業]], [[逃避]], [[銀河系]], [[銀行]], [[関係]], [[陰道]], [[隠蔽]], [[飛行机]], [[飛鳥]] (reformatted its malformed comma-separated list into a proper array while fixing), [[養生]], [[馬𡿺]], [[鳥類]], [[黄檗]].
+
+Verified via a second automated scan that no genuine corruption remains — the only files still combining hiragana with ー are the 8 that legitimately mix native kana with a real katakana loanword (しゅ+ページ, ナイフとフォーク, セオリー, ビリヤード, ウミガメのスープ, ウーロンちゃ, アルコール, コンピュータ), which is correct orthography and untouched. Also confirmed via a scan of `characters/*.md` that the `japanese_native` field is unaffected — this corruption was confined to word-level `japanese` fields.
+
+Resuming the alphabetical Vietnamese-backlog sweep.
+
+Next (re-scoped tail, alphabetical-by-filename): 北極熊.
+
+### 2026-08-03, iteration 792 — [[words/北極熊|北極熊]]
+
+**Content added**: `korean: 북극곰` and `vietnamese: gấu Bắc Cực`, both real everyday hybrid terms (Sino "north pole" + native "bear"). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄅㄨㄎㄍㄧㄎㄨㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 北極狐.
+
+### 2026-08-03, iteration 793 — [[words/北極狐|北極狐]]
+
+**Real content bug found and fixed**: `japanese` had a malformed small-kana rendering ("ほくきよく" — missing the sokuon っ, full-size よ instead of small ょ) — corrected to ほっきょくぎつね. **Content added**: filled blank `cantonese: bak1 gik6 wu4`, `korean: 북극여우`, and `vietnamese: cáo Bắc Cực` (both real hybrid Sino+native terms, paralleling [[北極熊]]). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄅㄨㄎㄍㄧㄎㄏㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 北端.
+
+### 2026-08-03, iteration 794 — [[words/北端|北端]]
+
+**Content added**: filled blank `cantonese: bak1 dyun1` and `vietnamese: Bắc đoan`, compositional. Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄅㄨㄎㄉ⺢ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 北面 (live-computed — fresh rescan confirms 1468 files remaining; queue: 北面, 区分, 区別, 十一, 千乗, ...).
+
+### 2026-08-03, iteration 795 — [[words/北面|北面]]
+
+**Content added**: filled blank `cantonese: bak1 min6` and `vietnamese: Bắc diện`, compositional; `korean: 북쪽` documents the everyday native word rather than a compositional reading. Added missing `>[!tip]` header and `## Notes` (caught and corrected a mid-edit slip that briefly duplicated the Etymology section and dropped `注音` from frontmatter). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 区分.
+
+### 2026-08-03, iteration 796 — [[words/区分|区分]]
+
+**Real bug found and fixed**: `aliases` listed 区分 as its own alias (self-referential) — removed. **Content added**: `vietnamese: khu phân`, compositional. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄨㄅㄨㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 区別.
+
+### 2026-08-03, iteration 797 — [[words/区別|区別]]
+
+**Content added**: `vietnamese: khu biệt`, compositional, near-synonym of [[区分]]. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄨㄅㄝㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 十一 (live-computed — fresh rescan confirms 1465 files remaining; queue: 十一, 千乗, 午餐, 協力, 南部, ...).
+
+### 2026-08-03, iteration 798 — [[words/十一|十一]]
+
+**Real kwin bug found and fixed**: `kwin` was stored as true, but byte-level Unicode verification shows Dan'a'yo 십읻 (coda ㄷ, U+C77B) genuinely diverges from Sino-Korean 십일 (coda ㄹ, U+C77C) — the same recurring MC-checked-coda pattern found repeatedly in this vault. Corrected to `kwin: false`. Removed a duplicate `品詞` key. **Content added**: `vietnamese: thập nhất`, directly attested. Added missing `>[!tip]` header and `## Notes`. No homophones (注音 ㄙㄧㄆ·ㄧㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 千乗.
+
+### 2026-08-03, iteration 799 — [[words/千乗|千乗]]
+
+Corrected the Etymology gloss for 乗 — "ride" was wrong for this word; corrected to "chariot" (a classical counter, not the verb sense). **Content added**: filled all four blank fields — `cantonese: cin1 sing4`, `japanese: せんじょう`, `korean: 천승`, `vietnamese: thiên thừa` — each compositional; documented the classical "vassal lord fielding a thousand war chariots" sense (vs. the Son of Heaven's own 萬乘). Added missing `>[!tip]` header. `kwin: false` (was missing, now set). No homophones (注音 ㄑㄝㄋㄙㄨㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 午餐.
+
+### 2026-08-03, iteration 800 — [[words/午餐|午餐]]
+
+Milestone: 800th iteration. **Content added**: filled blank `pos: 名詞` and `vietnamese: ngọ xan`, compositional, matching the formal "luncheon" register (everyday Vietnamese says bữa trưa). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 協力 (live-computed — fresh rescan confirms 1462 files remaining; queue: 協力, 南部, 単字, 単語, 単身, ...).
+
+### 2026-08-03, iteration 801 — [[words/協力|協力]]
+
+**Content added**: `vietnamese: hiệp lực`, one of the most common everyday Vietnamese words (đồng tâm hiệp lực). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏㄝㄆㄌㄧㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 南部.
+
+### 2026-08-03, iteration 802 — [[words/南部|南部]]
+
+**Content added**: `vietnamese: Nam Bộ`, directly attested and extremely well known — the actual proper name of southern Vietnam (vs. Bắc Bộ/Trung Bộ). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄋㄚㄇㄅㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 単字.
+
+### 2026-08-03, iteration 803 — [[words/単字|単字]]
+
+Fixed a malformed `vietnamese` list on [[字 (char)]]'s own page (readings crammed into one comma-separated item). **Content added**: `japanese: たんじ` and `vietnamese: đơn tự`, both compositional. Added missing `>[!tip]` header. `kwin: false` confirmed (already set; korean deliberately left blank per this page's own pre-existing explanation of a Korean homophone clash with 端子). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 単語.
+
+### 2026-08-03, iteration 804 — [[words/単語|単語]]
+
+**Content added**: filled blank `mandarin: dānyǔ`, `cantonese: daan1 jyu5`, and `vietnamese: đơn ngữ` — all compositional, consistent with this word's own note that 単語 as a compound is comparatively rare outside Japanese/Korean. Added missing `>[!tip]` header. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 単身.
+
+### 2026-08-03, iteration 805 — [[words/単身|単身]]
+
+**Real content bug found and fixed**: `korean` had a native gloss ("홀몸") mixed into the reading field as "단신,홀몸" — trimmed to 단신 alone; this also corrected `kwin` (previously false/unset) to true, now an exact match. **Content added**: `vietnamese: đơn thân`, one of the most common everyday Vietnamese words (mẹ đơn thân, "single mother"). Added missing `>[!tip]` header. No homophones (注音 ㄉㄚㄋㄙㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 博大 (live-computed — fresh rescan confirms 1457 files remaining; queue: 博大, 占領, 危殆, 厚顔, 参劾, ...).
+
+### 2026-08-03, iteration 806 — [[words/博大|博大]]
+
+**Content added**: `korean: 박대` and `vietnamese: bác đại`, both compositional (박대 well known from 博大精深). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄅㄚㄎㄉㄚㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 占領.
+
+### 2026-08-03, iteration 807 — [[words/占領|占領]]
+
+**Real bug found and fixed**: `aliases` listed 占領 as its own alias (self-referential) — removed. **Content added**: filled blank `mandarin: zhànlǐng`, `cantonese: zim1 ling5`, and `vietnamese: chiếm lĩnh` (one of the most common everyday Vietnamese words — chiếm lĩnh thị trường). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄐㄝㄇㄌㄧㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 危殆.
+
+### 2026-08-03, iteration 808 — [[words/危殆|危殆]]
+
+**Content added**: filled blank `pos: 性詞` and `vietnamese: nguy đãi`, compositional (everyday Vietnamese uses nguy hiểm/nguy nan instead). Trimmed a redundant space in `mandarin`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ⼔ㄧㄉㄛㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 厚顔.
+
+### 2026-08-03, iteration 809 — [[words/厚顔|厚顔]]
+
+**Content added**: `korean: 후안` (compositional) and `vietnamese: hậu nhan`, directly attested via the four-character idiom 厚顔無恥 (hậu nhan vô sỉ). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄏㄛㄨㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 参劾.
+
+### 2026-08-03, iteration 810 — [[words/参劾|参劾]]
+
+Corrected the Etymology gloss for 参 — "participate" was wrong for this word; corrected to the classical "to submit a memorial to impeach" sense. **Real content bug found and fixed**: `cantonese` had the wrong initial ("sam1" instead of 参's own confirmed caam1) — corrected to caam1 hat6. **Content added**: filled blank `japanese: さんがい`, `korean: 참핵`, `vietnamese: tham hạch` — all compositional. Added missing `>[!tip]` header. `kwin: false` (was missing, now set). No homophones (注音 ㄙㄚㄇㄏㄚㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 参差 (live-computed — fresh rescan confirms 1452 files remaining; queue: 参差, 参拝, 参数, 双節棍, 反乱, ...).
+
+### 2026-08-03, iteration 811 — [[words/参差|参差]]
+
+Identified this as a classical binome (聯綿詞) where real Mandarin uses a special reading cēncī diverging from 参's regular cān/shēn values. **Content added**: filled all blank fields — `mandarin: cēncī`, `cantonese: cam1 ci1`, `japanese: しんし`, `korean: 삼차`, `vietnamese: sâm si` — the latter three compositional from each character's regular reading rather than the special binome value, flagged as such since no independent attestation was found for their naturalization. `kwin: true` confirmed (exact match). No homophones (注音 ㄙㄚㄇㄑㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 参拝.
+
+### 2026-08-03, iteration 812 — [[words/参拝|参拝]]
+
+Corrected the Etymology gloss for 参 — "participate" was imprecise; corrected to "to visit, pay a call" (a distinct sense, as in 参見). **Content added**: `vietnamese: tham bái`, compositional. Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄙㄚㄇㄅ⼶ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 参数.
+
+### 2026-08-03, iteration 813 — [[words/参数|参数]]
+
+Corrected the Etymology gloss for 参 — "participate" was wrong; corrected to "to refer to, consult" (参考). **Real content bug found and fixed**: `cantonese` had the wrong initial ("sam1" instead of 参's own confirmed caam1, the same bug pattern found on [[参劾]] earlier this session) — corrected to caam1 sou3. **Content added**: `vietnamese: tham số`, one of the most common everyday Vietnamese technical words for "parameter." Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙㄚㄇㄙㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 双節棍.
+
+### 2026-08-03, iteration 814 — [[words/双節棍|双節棍]]
+
+**Content added**: filled blank `pos: 名詞` and `vietnamese: côn nhị khúc`, the real standard Vietnamese martial-arts term for nunchucks (literally "two-section staff") — a different literal structure than this word's own characters but the genuine everyday name, not a forced calque. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 反乱.
+
+### 2026-08-03, iteration 815 — [[words/反乱|反乱]]
+
+**Content added**: `vietnamese: phản loạn`, one of the most common everyday Vietnamese words, built from the same 叛亂 root already noted on this page's own Etymology explanation of the 反/叛 merge. Added missing `>[!tip]` header. `kwin: true` confirmed (exact match). No homophones (注音 ㄅㄚㄋㄌㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 反響 (live-computed — fresh rescan confirms 1447 files remaining; queue: 反響, 叔叔, 叔母, 叔父, 受動, ...).
+
+### 2026-08-03, iteration 816 — [[words/反響|反響]]
+
+**Real content bug found and fixed**: `cantonese` was missing 反's initial consonant ("aan2" instead of faan2) — corrected to faan2 hoeng2. **Content added**: `vietnamese: phản hưởng`, compositional. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄈㄛㄋㄏ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 叔叔.
+
+### 2026-08-03, iteration 817 — [[words/叔叔|叔叔]]
+
+**Real content bugs found and fixed**: `japanese` had a fabricated non-reduplicated reading ("しゅくふ") and `korean` had an implausible bare reduplication ("숙숙") with `kwin` wrongly set true — corrected `japanese`/`korean` to おじさん/아저씨 (each language's own real word, already present on [[叔]]'s own character page) and `kwin` to false, paralleling [[伯伯]]'s treatment. **Content added**: `vietnamese: chú`, extremely common native Vietnamese word. Also fixed a typo in the pre-existing stray note ("r any" → "or any"). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 叔母.
+
+### 2026-08-03, iteration 818 — [[words/叔母|叔母]]
+
+**Content added**: filled blank `pos: 名詞` and `vietnamese: thím`, the real native Vietnamese word specifically for the father's younger brother's wife (distinct from bá/bác gái, paralleling [[伯母]]'s treatment). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙㄨㄎㄇㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 叔父.
+
+### 2026-08-03, iteration 819 — [[words/叔父|叔父]]
+
+**Content added**: filled blank `pos: 名詞` and `vietnamese: chú`, the real native Vietnamese word specifically for the father's younger brother (paralleling [[伯父]]'s treatment). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄙㄨㄎㄅㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 受動 (live-computed — fresh rescan confirms 1443 files remaining; queue: 受動, 叙述, 口笛, 口紅, 口臭, ...).
+
+### 2026-08-03, iteration 820 — [[words/受動|受動]]
+
+**Content added**: `vietnamese: thụ động`, directly attested — an extremely common everyday Vietnamese word for "passive." Filled the blank `mandarin: shòudòng`/`cantonese: sau6 dung6` compositionally (real Mandarin prefers 被动 per this page's own note). Added missing `>[!tip]` header. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 叙述.
+
+### 2026-08-03, iteration 821 — [[words/叙述|叙述]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: tự thuật`, one of the most common everyday Vietnamese words (tự thuật lại câu chuyện). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙ⼄ㄙㄨㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 口笛.
+
+### 2026-08-03, iteration 822 — [[words/口笛|口笛]]
+
+**Content added**: `vietnamese: huýt sáo`, the real native Vietnamese verb "to whistle," matching the pattern of already-native `japanese: くちぶえ`/`korean: 휘파람`. Filled the blank `cantonese: hau2 dek6`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄛㄨㄉㄝㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 口紅.
+
+### 2026-08-03, iteration 823 — [[words/口紅|口紅]]
+
+**Content added**: `vietnamese: son môi`, the real native Vietnamese term for lipstick, matching the pattern of already-native `japanese: くちべに`/loanword `korean: 립스틱`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄛㄨㄏㄛㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 口臭.
+
+### 2026-08-03, iteration 824 — [[words/口臭|口臭]]
+
+**Content added**: `vietnamese: khẩu xú`, compositional (everyday Vietnamese uses native hôi miệng instead). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄛㄨㄑㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 古語.
+
+### 2026-08-03, iteration 825 — [[words/古語|古語]]
+
+**Real content bug found and fixed**: `korean` had a native gloss ("옛말") mixed into the reading field — trimmed to 고어 alone. **Content added**: filled blank `cantonese: gu2 jyu5` and `vietnamese: cổ ngữ`, compositional. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄍㄛ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 句号.
+
+### 2026-08-03, iteration 826 — [[words/句号|句号]]
+
+**Content added**: filled blank `japanese: くてん` (句点, standard term) and `vietnamese: dấu chấm câu` (native Vietnamese term, not a calque); confirmed `korean: 고리점` is a real dated native term (modern Korean usually says 마침표). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄨㄏㄚㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 句杞.
+
+### 2026-08-03, iteration 827 — [[words/句杞|句杞]]
+
+**Real content bug found and fixed**: the stored `注音` (ㄎㄧ) was missing its first syllable entirely — corrected to ㄍㄨㄎㄧ, matching the already-correct two-syllable 諺文/羅馬字 (구키/guki). **Content added**: `vietnamese: cẩu kỷ`, directly attested for this plant (wolfberry/goji), noting 句 here stands in for the real plant-name character 枸. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄨㄎㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 叩頭.
+
+### 2026-08-03, iteration 828 — [[words/叩頭|叩頭]]
+
+**Content added**: filled blank `korean: 고두` (compositional) and `vietnamese: khấu đầu`, directly attested, well known from historical/imperial contexts. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄎㄛㄨㄊㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 可不.
+
+### 2026-08-03, iteration 829 — [[words/可不|可不]]
+
+**Content added**: filled all five blank fields — `mandarin: kěbù`, `cantonese: ho2 bat1`, `japanese: かふ`, `korean: 가불`, `vietnamese: khả bất` — each compositional, paralleling [[不可]]'s own fields in reverse order. Added a clarifying note that these compositional spellings inevitably reproduce this page's own already-flagged unrelated homographs (colloquial Mandarin interjection kěbù, Korean 가불 "salary advance") purely by mechanical coincidence, not confirmed attestation of this grammatical sense. Added missing `>[!tip]` header. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 可憐.

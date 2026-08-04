@@ -7,7 +7,9 @@ japanese:
   - JI
 japanese_native: あざ
 vietnamese:
-  - tự, chữ, tợ
+  - tự
+  - chữ
+  - tợ
 middle_chinese_initial: d͡z
 middle_chinese_final: ɨ
 stroke_count: 6
