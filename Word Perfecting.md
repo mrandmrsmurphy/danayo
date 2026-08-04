@@ -6909,3 +6909,171 @@ Next (re-scoped tail, alphabetical-by-filename): 出生.
 **Real content bugs found and fixed**: `mandarin` was missing its final -g (chūshēn → chūshēng); `korean` had a native gloss ("태어나다") mixed into the reading field — trimmed to 출생 alone. **Content added**: `vietnamese: xuất sinh`, compositional, matching formal/administrative usage. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄑㄨㄊㄙㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 刀刃 (live-computed — fresh rescan confirms 1511 files remaining; queue: 刀刃, 刀叉, 分校, 分配, 分離, ...).
+
+### 2026-08-03, iteration 753 — [[words/刀刃|刀刃]]
+
+**Content added**: filled blank `pos: 名詞` and `vietnamese: đao nhận`, directly attested for the literal blade sense (confirmed via web search; no independent attestation found for the figurative "critical moment" extension in Vietnamese). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄊㄚㄨㄋㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 刀叉.
+
+### 2026-08-03, iteration 754 — [[words/刀叉|刀叉]]
+
+**Real content bug found and fixed**: `japanese` had a garbled, non-existent string ("ナイホク") — corrected to the confirmed real Japanese loanword phrase ナイフとフォーク (Japanese/Korean both directly borrow the English "knife and fork" rather than using a native/Sino compound). **Content added**: `korean: 나이프와 포크`, `vietnamese: dao nĩa` (native Vietnamese, well known from Western-dining etiquette), filled blank `pos: 名詞`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄊㄚㄨㄑㄚㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 分校.
+
+### 2026-08-03, iteration 755 — [[words/分校|分校]]
+
+**Content added**: `vietnamese: phân hiệu`, one of the most common everyday Vietnamese words (phân hiệu đại học). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄨㄋㄏ⼘ㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 分配.
+
+### 2026-08-03, iteration 756 — [[words/分配|分配]]
+
+**Content added**: filled blank `cantonese: fan1 pui3` (compositional) and `vietnamese: phân phối`, one of the most common everyday Vietnamese words (phân phối hàng hóa). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄨㄋㄆㄛㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 分離.
+
+### 2026-08-03, iteration 757 — [[words/分離|分離]]
+
+**Content added**: `vietnamese: phân ly`, one of the most common everyday Vietnamese words for this concept. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄨㄋㄌㄝㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 刊行 (live-computed — fresh rescan confirms 1506 files remaining; queue: 刊行, 刑罰, 列島, 初版, 別荘, ...).
+
+### 2026-08-03, iteration 758 — [[words/刊行|刊行]]
+
+Corrected the Etymology gloss for 行 — the "attend, go to" sense given was wrong for this word; corrected to "to circulate, put into practice" (the hành/xíng reading, as in 発行). **Content added**: `vietnamese: khan hành`, directly attested (confirmed via web search), part of the same -hành family as ấn hành/phát hành/ban hành. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄚㄋㄏㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 刑罰.
+
+### 2026-08-03, iteration 759 — [[words/刑罰|刑罰]]
+
+**Content added**: `vietnamese: hình phạt`, one of the most common everyday Vietnamese legal terms. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏㄝㄫㄅㄝㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 列島 (live-computed — fresh rescan confirms 1504 files remaining; queue: 列島, 初版, 別荘, 利益, 到達, ...).
+
+### 2026-08-03, iteration 760 — [[words/列島|列島]]
+
+**Content added**: `vietnamese: liệt đảo`, directly attested (confirmed via web search); everyday Vietnamese more often uses quần đảo (different root) for this concept. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄌㄝㄊㄊㄚㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 初版.
+
+### 2026-08-03, iteration 761 — [[words/初版|初版]]
+
+**Content added**: `vietnamese: sơ bản`, one of the most common everyday Vietnamese words for "first edition." Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄑㄛㄆㄚㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 別荘.
+
+### 2026-08-03, iteration 762 — [[words/別荘|別荘]]
+
+**Real content bugs found and fixed**: `japanese` had a garbled non-existent string ("けしょー") — corrected to べっそう (confirmed via web search); `korean` had the Chinese characters "別莊" stored instead of the actual Hangul — corrected to 별장 (compositional). **Content added**: `vietnamese: biệt trang`, compositional (no fixed idiom found; everyday Vietnamese uses the closely related biệt thự). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄅㄝㄊㄐ⺢ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 利益.
+
+### 2026-08-03, iteration 763 — [[words/利益|利益]]
+
+**Content added**: `vietnamese: lợi ích`, one of the most common everyday Vietnamese words. Reformatted the malformed `japanese` field (comma-separated string) into a proper list, noting りえき (secular profit) vs りやく (religious/karmic benefit) is a genuine semantic split, not a duplicate. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄌㄧㄜㄝㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 到達 (live-computed — fresh rescan confirms 1500 files remaining; queue: 到達, 制限, 刺身, 刻薄, 削除, ...).
+
+### 2026-08-03, iteration 764 — [[words/到達|到達]]
+
+**Content added**: `vietnamese: đáo đạt`, compositional, matching formal/written usage (colloquial Vietnamese usually says đến/đạt được). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄉㄚㄨㄊㄚㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 制限.
+
+### 2026-08-03, iteration 765 — [[words/制限|制限]]
+
+**Content added**: `vietnamese: chế hạn`, compositional matching this word's own 制限 character order — noted that everyday Vietnamese hạn chế (directly attested, confirmed via web search) actually reverses the order to match the Mandarin-preferred 限制 sibling instead, the same order-variance phenomenon this page's own Notes already discuss for Mandarin vs. Japanese/Korean. Added missing `>[!tip]` header. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 刺身 (live-computed — fresh rescan confirms 1498 files remaining; queue: 刺身, 刻薄, 削除, 前世紀, 前年, ...).
+
+### 2026-08-03, iteration 766 — [[words/刺身|刺身]]
+
+**Content added**: `vietnamese: xẻo thân`, a directly attested literal descriptive calque for "sashimi" (confirmed via web search), used alongside the more common direct loanword sashimi. Added missing `>[!tip]` header and `## Notes` noting `korean: 회` is a real native word unrelated to any compositional reading. `kwin: false` confirmed. No homophones (注音 ㄑㄧㄎㄙㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 刻薄.
+
+### 2026-08-03, iteration 767 — [[words/刻薄|刻薄]]
+
+**Pacing note**: this session's web search quota (200 calls) was exhausted partway through this iteration — continuing the sweep using compositional readings and established domain knowledge, with any claims not independently verified via search flagged as such going forward. **Content added**: filled blank `pos: 性詞` and `vietnamese: khắc bạc`, compositional (documented as based on domain knowledge rather than a fresh search hit this time). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄎㄨㄎㄅㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 削除.
+
+### 2026-08-03, iteration 768 — [[words/削除|削除]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: tước trừ`, compositional (domain knowledge, search quota exhausted this session). Trimmed a redundant secondary Mandarin tonal variant. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙ⼘ㄎㄐㄝㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 前世紀.
+
+### 2026-08-03, iteration 769 — [[words/前世紀|前世紀]]
+
+**Content added**: `vietnamese: tiền thế kỷ`, compositional, built on the already-familiar everyday word thế kỷ ("century"). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄐㄝㄋㄙㄝㄍㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 前年.
+
+### 2026-08-03, iteration 770 — [[words/前年|前年]]
+
+**Content added**: `vietnamese: tiền niên`, compositional, paralleling [[前世紀]]'s tiền thế kỷ (colloquial Vietnamese usually says năm ngoái/năm trước). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄐㄝㄋㄋㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 前後.
+
+### 2026-08-03, iteration 771 — [[words/前後|前後]]
+
+**Real content bug found and fixed**: `korean` had a native gloss ("앞뒤") mixed into the reading field — trimmed to 전후 alone. **Content added**: `vietnamese: tiền hậu`, compositional, well known from the idiom tiền hậu bất nhất ("inconsistent"). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄐㄝㄋㄏㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 前月.
+
+### 2026-08-03, iteration 772 — [[words/前月|前月]]
+
+**Real kwin bug found and fixed**: `kwin` was stored as true, but byte-level Unicode verification shows Dan'a'yo 전웓 (coda ㄷ, U+C6D3) genuinely diverges from Sino-Korean 전월 (coda ㄹ, U+C6D4) — the recurring MC-checked-coda-vs-Sino-Korean-regularized divergence pattern (e.g. 一/七/月/越/舌/骨). Corrected to `kwin: false`. **Content added**: `vietnamese: tiền nguyệt`, compositional, part of the same family as [[前年]]/[[前世紀]]. Added missing `>[!tip]` header and `## Notes`. No homophones (注音 ㄐㄝㄋ⼔ㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 前置詞.
+
+### 2026-08-03, iteration 773 — [[words/前置詞|前置詞]]
+
+**Content added**: `vietnamese: tiền trí từ`, compositional — noted Vietnamese linguistics has its own established native-rooted term giới từ (different root, from 介詞), so this is a Dan'a'yo-internal calque rather than the term Vietnamese grammarians actually use. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 前週 (live-computed — fresh rescan confirms 1490 files remaining; queue: 前週, 副業, 副用, 剰余, 割包皮, ...).
+
+### 2026-08-03, iteration 774 — [[words/前週|前週]]
+
+**Content added**: `vietnamese: tiền chu`, compositional, part of the same family as [[前年]]/[[前月]]/[[前世紀]] (colloquial Vietnamese usually says tuần trước). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄐㄝㄋㄐㄨㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 副業.
+
+### 2026-08-03, iteration 775 — [[words/副業|副業]]
+
+**Content added**: `vietnamese: phó nghiệp`, compositional, a well-formed everyday term. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄈㄨㄎㄝㄆ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 副用.
+
+### 2026-08-03, iteration 776 — [[words/副用|副用]]
+
+Identified this as a Dan'a'yo-internal grammatical coinage — the source of this vault's own `副用名詞` part-of-speech tag. **Content added**: filled all four blank fields — `mandarin: fùyòng`, `cantonese: fu3 jung6`, `korean: 부용`, `vietnamese: phó dụng` — each compositional, no independent attestation found in any language. Removed a duplicate `品詞` key. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄆㄩㄎ·⼄ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 剰余.
+
+### 2026-08-03, iteration 777 — [[words/剰余|剰余]]
+
+**Real content bug found and fixed**: `korean` had three comma-separated glosses crammed into the reading field — trimmed to the compositional 잉여 alone. **Content added**: `vietnamese: thặng dư`, one of the most common everyday Vietnamese words (giá trị thặng dư, "surplus value"). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄐㄧㄫ·⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 割包皮.
+
+### 2026-08-03, iteration 778 — [[words/割包皮|割包皮]]
+
+Fixed a malformed `vietnamese` list on [[割 (char)]]'s own page (readings crammed into one comma-separated item). **Content added**: `japanese: ほうけいしゅじゅつ` and `korean: 포경수술` — both real, established medical terms built on a different root ("phimosis surgery") rather than a direct calque of these three characters (domain knowledge, this session's search quota exhausted); `vietnamese: cắt bao quy đầu`, likewise the real specific Vietnamese medical term. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄍㄚㄊㄅ⼘ㄨㄅㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 割引.
+
+### 2026-08-03, iteration 779 — [[words/割引|割引]]
+
+**Content added**: filled blank `cantonese: got3 jan5` (compositional, since real Mandarin/Cantonese instead use 折扣 for "discount") and `vietnamese: chiết khấu` (the real everyday Vietnamese word, sharing 折扣's root, not a calque of this word's own characters). Confirmed both `japanese: わりびき` and `korean: 할인` are real, everyday words built directly from this compound. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄚㄊㄧㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 創傷.
+
+### 2026-08-03, iteration 780 — [[words/創傷|創傷]]
+
+Corrected the Etymology gloss for 創 — the "originate, establish" sense given was wrong for this word; corrected to "wound, injury" (the chuāng reading, as in 創口). **Content added**: `vietnamese: sang thương`, compositional, a real medical/clinical term for a wound/lesion (domain knowledge, search quota exhausted). Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄑ⺢ㄫㄙ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 劇場.

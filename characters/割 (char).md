@@ -8,7 +8,9 @@ japanese:
 japanese_native: さ
   - わ-る
 vietnamese:
-  - cát, cắt, xắt
+  - cát
+  - cắt
+  - xắt
 middle_chinese_initial: k
 middle_chinese_final: ɑt
 stroke_count: 12
