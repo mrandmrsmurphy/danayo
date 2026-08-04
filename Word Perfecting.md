@@ -7077,3 +7077,69 @@ Next (re-scoped tail, alphabetical-by-filename): 創傷.
 Corrected the Etymology gloss for 創 — the "originate, establish" sense given was wrong for this word; corrected to "wound, injury" (the chuāng reading, as in 創口). **Content added**: `vietnamese: sang thương`, compositional, a real medical/clinical term for a wound/lesion (domain knowledge, search quota exhausted). Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄑ⺢ㄫㄙ⼘ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 劇場.
+
+### 2026-08-03, iteration 781 — [[words/劇場|劇場]]
+
+**Content added**: `vietnamese: kịch trường`, compositional, a real term for a theater venue (everyday Vietnamese more often says nhà hát/rạp hát for specific venue types). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄝㄎㄐㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 功績 (live-computed — fresh rescan confirms 1482 files remaining; queue: 功績, 加法, 加算, 劫盗, 勃興, ...).
+
+### 2026-08-03, iteration 782 — [[words/功績|功績]]
+
+**Content added**: `vietnamese: công tích`, compositional, a real term for meritorious achievement. Trimmed a redundant secondary Mandarin tonal variant. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 加法.
+
+### 2026-08-03, iteration 783 — [[words/加法|加法]]
+
+**Content added**: `vietnamese: gia pháp`, compositional (modern Vietnamese math teaching uses phép cộng instead). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄚㄈㄚㄆ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 加算.
+
+### 2026-08-03, iteration 784 — [[words/加算|加算]]
+
+**Content added**: filled blank `cantonese: gaa1 syun3` and `vietnamese: gia toán`, compositional — a near-synonym of [[加法]] but verb-oriented. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄚㄙ⺢ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 劫盗.
+
+### 2026-08-03, iteration 785 — [[words/劫盗|劫盗]]
+
+**Real content bug found and fixed**: `japanese` had a malformed long-vowel-mark rendering ("ごーとー") — corrected to ごうとう. **Content added**: filled blank `cantonese: gip3 dou6`, `korean: 겁도`, and `vietnamese: kiếp đạo`, all compositional. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄍㄚㄆㄉㄚㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 勃興.
+
+### 2026-08-03, iteration 786 — [[words/勃興|勃興]]
+
+Corrected the Etymology gloss for 興 — the "entertain" sense given was wrong for this word; corrected to "to rise, flourish" (as in 復興). **Content added**: `vietnamese: bột hưng`, compositional. Added missing `>[!tip]` header. `kwin: false` confirmed. No homophones (注音 ㄅㄛㄊㄏㄜㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 勤勉.
+
+### 2026-08-03, iteration 787 — [[words/勤勉|勤勉]]
+
+**Content added**: `vietnamese: cần miễn`, compositional (everyday Vietnamese uses chăm chỉ/cần cù instead). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍㄧㄋㄇ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 包囲.
+
+### 2026-08-03, iteration 788 — [[words/包囲|包囲]]
+
+**Content added**: `vietnamese: bao vi`, compositional (everyday Vietnamese uses bao vây instead). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅ⼘ㄨ·ㄨㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 包子.
+
+### 2026-08-03, iteration 789 — [[words/包子|包子]] and [[words/胞子|胞子]]
+
+Completed the full homophone pair: converted both plain-text homophone notes to standard callouts. **Content added**: 包子 — `vietnamese: bánh bao`, directly attested everyday Vietnamese (itself a loanword-calque of this exact term); 胞子 — `vietnamese: bào tử`, the standard everyday biology term for "spore." Added missing `>[!tip]` headers and `## Notes` to both. `kwin: false` on both. Stamped `date-last-perfect: 2026-08-03` on both.
+
+Next (re-scoped tail, alphabetical-by-filename): 包装 (live-computed — fresh rescan confirms 1473 files remaining; queue: 包装, 化粧, 北極熊, 北極狐, 北端, ...).
+
+### 2026-08-03, iteration 790 — [[words/包装|包装]]
+
+**Content added**: `vietnamese: bao trang`, compositional (everyday Vietnamese uses đóng gói instead). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅ⼘ㄨㄐ⺢ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 化粧.
+
+### 2026-08-03, iteration 791 — [[words/化粧|化粧]]
+
+**Real content bug found and fixed**: `japanese` had a malformed long-vowel-mark rendering ("けしょー," the same bug pattern found on [[別荘]] earlier this session) — corrected to けしょう. **Content added**: `vietnamese: hóa trang`, one of the most common everyday Vietnamese words for this concept. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄏ⺢ㄐ⺢ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 北極熊.
