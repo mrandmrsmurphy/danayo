@@ -6489,3 +6489,111 @@ Next (re-scoped tail, alphabetical-by-filename): 便箋.
 **Content added**: `korean: 편지지` — confirmed via web search that real Korean uses this entirely different root (from 편지 "letter," itself 片紙/便紙) rather than a compositional 便箋-derived reading, so the real word was documented instead. `vietnamese: giấy viết thư`, the everyday native descriptive phrase. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄅ⼶ㄋㄐㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 俄然.
+
+### 2026-08-03, iteration 683 — [[words/俄然|俄然]]
+
+**Content added**: filled blank `pos: 副用名詞`, `korean: 아연` (compositional), and `vietnamese: nga nhiên` (directly attested, confirmed via web search), a synonym of 突然/đột nhiên. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄚㄋ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 俊傑 (live-computed — fresh rescan confirms 1580 files remaining; queue: 俊傑, 俘虜, 保存, 保持, 保母, ...).
+
+### 2026-08-03, iteration 684 — [[words/俊傑|俊傑]]
+
+**Real kwin bug found and fixed**: `kwin` was stored as true, but byte-level Unicode verification shows Dan'a'yo 준걷 (coda ㄷ, U+AC77) genuinely diverges from Sino-Korean 준걸 (coda ㄹ, U+AC78) — another instance of the recurring MC-checked-coda-vs-Sino-Korean-regularized divergence pattern found elsewhere in this vault. Corrected to `kwin: false`. **Content added**: filled blank `cantonese: zeon3 git6` (compositional) and `vietnamese: tuấn kiệt`, directly attested (confirmed via web search), well known as a common Vietnamese given name. Added missing `>[!tip]` header and `## Notes`. No homophones (注音 ㄐㄨㄋㄍㄝㄊ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 俘虜.
+
+### 2026-08-03, iteration 685 — [[words/俘虜|俘虜]]
+
+Confirmed the `#cranberry` tag: this word is the `stand_in` legitimizer for both [[俘]] and [[虜]] (transitivity holds). **Content added**: `vietnamese: phù lỗ`, directly attested Sino-Vietnamese. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄈㄨㄌㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 保存.
+
+### 2026-08-03, iteration 686 — [[words/保存|保存]]
+
+**Content added**: `vietnamese: bảo tồn`, one of the most common everyday Vietnamese words (bảo tồn di sản), a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄨㄐㄛㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 保持.
+
+### 2026-08-03, iteration 687 — [[words/保持|保持]]
+
+**Content added**: `vietnamese: bảo trì`, directly attested (confirmed via web search), a well-known everyday term (bảo trì máy móc), unaffected by the Korean-specific vulgar-homophone register issue already documented on this page. Fixed a malformed `vietnamese` list on [[持 (char)]]'s own page. Added missing `>[!tip]` header. `kwin: false` (was missing, now set). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 保母 (live-computed — fresh rescan confirms 1576 files remaining; queue: 保母, 信奉, 信徒, 信用, 修理, ...).
+
+### 2026-08-03, iteration 688 — [[words/保母|保母]]
+
+**Content added**: `vietnamese: bảo mẫu`, directly attested Sino-Vietnamese, an extremely common everyday term for a professional child-caregiver. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄅㄚㄨㄇㄛㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 信奉.
+
+### 2026-08-03, iteration 689 — [[words/信奉|信奉]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: tín phụng`, directly attested Sino-Vietnamese. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄙㄧㄋㄅㄛㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 信徒.
+
+### 2026-08-03, iteration 690 — [[words/信徒|信徒]]
+
+**Content added**: filled blank `pos: 名詞` and `vietnamese: tín đồ`, one of the most common everyday Vietnamese words for this concept. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄙㄧㄋㄉㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 信用 (live-computed — fresh rescan confirms 1573 files remaining; queue: 信用, 修理, 修繕, 修補, 修飾語, ...).
+
+### 2026-08-03, iteration 691 — [[words/信用|信用]]
+
+**Content added**: filled blank `pos: 名詞` and `vietnamese: tín dụng`, one of the most common everyday Vietnamese words (thẻ tín dụng, "credit card"), a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄙㄧㄋ⼄ㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 修理.
+
+### 2026-08-03, iteration 692 — [[words/修理|修理]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: tu lý`, directly attested (confirmed via web search, more often spelled tu lí). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙㄨㄛㄌㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 修繕.
+
+### 2026-08-03, iteration 693 — [[words/修繕|修繕]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: tu thiện`, directly attested Sino-Vietnamese (confirmed via web search), from classical usage (city-wall repair in the Zuo Zhuan). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙㄨㄛㄙ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 修補 (live-computed — fresh rescan confirms 1570 files remaining; queue: 修補, 修飾語, 倉鼠, 倹素, 偏重, ...).
+
+### 2026-08-03, iteration 694 — [[words/修補|修補]]
+
+**Content added**: filled blank `korean: 수보` (compositional), `pos: 事詞`, and `vietnamese: tu bổ`, directly attested Sino-Vietnamese (confirmed via web search), nuanced between bảo dưỡng and sửa chữa. Added missing `>[!tip]` header. `kwin: false` (was missing, now set). No homophones (注音 ㄙㄨㄛㄅㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 修飾語.
+
+### 2026-08-03, iteration 695 — [[words/修飾語|修飾語]]
+
+**Content added**: `vietnamese: tu sức ngữ`, compositional from tu sức (confirmed real Sino-Vietnamese via web search) + ngữ; the full three-character compound wasn't found independently attested, documented as compositional. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄙㄨㄛㄙㄧㄎ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 倉鼠 (live-computed — fresh rescan confirms 1568 files remaining; queue: 倉鼠, 倹素, 偏重, 停泊, 偶数, ...).
+
+### 2026-08-03, iteration 696 — [[words/倉鼠|倉鼠]]
+
+**Content added**: `vietnamese: chuột hamster` — confirmed via web search that Japanese/Korean/Vietnamese all bypass the real compositional Chinese term (倉鼠, "granary rat") in favor of the English loanword, matching the already-present ハムスター/햄스터 pattern. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄑ⺢ㄫㄙ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 倹素.
+
+### 2026-08-03, iteration 697 — [[words/倹素|倹素]]
+
+**Real gap found and fixed on [[倹]]'s own page**: its `vietnamese` field crammed four readings into one malformed list item — reformatted. **Content added**: filled blank `cantonese: gim6 sou3` and `vietnamese: kiệm tố` (compositional; no independently attested idiom found, everyday Vietnamese uses tiết kiệm/thanh đạm instead — documented honestly). Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (exact match). No homophones (注音 ㄍㄝㄇㄙㄛ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 偏重.
+
+### 2026-08-03, iteration 698 — [[words/偏重|偏重]]
+
+**Content added**: `vietnamese: thiên trọng`, directly attested Sino-Vietnamese (confirmed via web search), closely related to thiên vị. Added missing `>[!tip]` header. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 停泊 (live-computed — fresh rescan confirms 1565 files remaining; queue: 停泊, 偶数, 偶爾, 偽善, 傲慢, ...).
+
+### 2026-08-03, iteration 699 — [[words/停泊|停泊]]
+
+**Content added**: `korean: 정박` (compositional) and `vietnamese: đình bạc`, directly attested (confirmed via web search) — 泊 alone famous from Zhang Ji's Tang poem 楓橋夜泊. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄉㄝㄫㄅㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 偶数.
+
+### 2026-08-03, iteration 700 — [[words/偶数|偶数]]
+
+Milestone: 700th iteration. **Real content bug found and fixed**: `korean` had a native gloss ("짝수") mixed into the reading field as "우수,짝수" — trimmed to 우수 alone. **Content added**: `vietnamese: ngẫu số`, directly attested (confirmed via web search), though modern Vietnamese math education favors native số chẵn. Filled the blank `pos: 名詞`. Added missing `>[!tip]` header. `kwin: false` (was missing, now set). No homophones (注音 ㄛㄨㄙㄨ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 偶爾.

@@ -8,7 +8,9 @@ japanese:
   - CHI
 japanese_native: も-つ
 vietnamese:
-  - rì, chày, chiì
+  - rì
+  - chày
+  - chiì
   - trì
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨ
