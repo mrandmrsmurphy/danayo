@@ -6369,3 +6369,123 @@ Next (re-scoped tail, alphabetical-by-filename): 住宅.
 **Real content bug found and fixed**: `korean` had a gloss ("집") mixed into the reading field as "주택,집" — trimmed to 주택 alone. **Content added**: `vietnamese: trú trạch`, directly attested (confirmed via web search). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄐㄨㄐㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
 
 Next (re-scoped tail, alphabetical-by-filename): 佐理 (live-computed — fresh rescan confirms 1602 files remaining; queue: 佐理, 体液, 体現, 体言, 余弦, ...).
+
+### 2026-08-03, iteration 663 — [[words/佐理|佐理]]
+
+**Significant real content bug found and fixed**: `korean` and `aliases` had both been contaminated with content from the unrelated word [[体現]] "embody, reflect" (korean read "체현, 좌리" — mixing 体現's own reading with this word's correct 좌리; `aliases` wrongly listed 體現, the traditional form of 体現, entirely unrelated in meaning to "assist in managing") — evidently a copy-paste error between the two alphabetically-adjacent pages. Verified [[体現]]'s own page is unaffected and independently correct. **Content added**: filled blank `cantonese: zo3 lei5`, `japanese: さり` (confirmed real reading, appears in classical texts like Records of the Three Kingdoms), and `vietnamese: tá lý` (directly attested). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄐㄚㄌㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 体液.
+
+### 2026-08-03, iteration 664 — [[words/体液|体液]]
+
+**Correction to a prior iteration's finding** (this page was previously marked perfected on 2026-06-20 with "no Vietnamese attestation found"): a fresh web search found `vietnamese: thể dịch` is in fact well attested, most visibly in the standard medical term miễn dịch thể dịch ("humoral immunity"). Added and updated the Notes to reflect the correction. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 体現.
+
+### 2026-08-03, iteration 665 — [[words/体現|体現]]
+
+**Content added**: filled blank `pos: 事詞` and `vietnamese: thể hiện`, one of the most common everyday Vietnamese verbs, a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄊㄝㄧㄏ⼔ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 体言.
+
+### 2026-08-03, iteration 666 — [[words/体言|体言]]
+
+Identified this as a traditional Japanese grammatical term (体・用 philosophical distinction, Edo-period kokugaku) borrowed into Korean linguistics as 체언 (real, confirmed) but with no native Chinese grammatical tradition. **Content added**: filled blank `pos: 名詞`, `cantonese: tai2 jin4` (compositional), and `vietnamese: thể ngôn` (compositional, no independent attestation found). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄊㄝㄧ·ㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 余弦 (live-computed — fresh rescan confirms 1598 files remaining; queue: 余弦, 余接, 余波, 佛陀, 作坊, ...).
+
+### 2026-08-03, iteration 667 — [[words/余弦|余弦]]
+
+**Content added**: `korean: 여현`, the historical/formal Sino-Korean term (still in 여현법칙, "law of cosines"), and `vietnamese: côsin` — modern Vietnamese math uses the direct Western loanword exclusively rather than any Sino-Vietnamese calque, so real usage was documented instead of an unattested compositional guess. Added missing `>[!tip]` header and `## Notes` with the term's Jesuit-missionary coinage history (大測, 1631). `kwin: false` (was missing, now set). No homophones (注音 ⼄ㄏㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 余接.
+
+### 2026-08-03, iteration 668 — [[words/余接|余接]]
+
+**Content added**: `korean: 여접` (formal Sino-Korean, confirmed via web search) and `vietnamese: côtang`, following the same Western-loanword pattern as [[余弦]]'s côsin. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ⼄ㄐㄛㄆ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 余波.
+
+### 2026-08-03, iteration 669 — [[words/余波|余波]]
+
+**Content added**: `vietnamese: dư ba`, directly attested Sino-Vietnamese (confirmed via web search), literally "remaining waves" — aftermath, lingering consequence. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ⼄ㄅㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 佛陀 (live-computed — fresh rescan confirms 1595 files remaining; queue: 佛陀, 作坊, 使者, 侍奉, 侍者, ...).
+
+### 2026-08-03, iteration 670 — [[words/佛陀|佛陀]]
+
+**Content added**: filled all three blank fields — `japanese: ぶつだ`, `korean: 불타`, `vietnamese: Phật Đà` — all directly attested (confirmed via web search), a phonetic transliteration of Sanskrit Buddha. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄅㄨㄊㄉㄚ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 作坊.
+
+### 2026-08-03, iteration 671 — [[words/作坊|作坊]]
+
+Identified this as a specifically Chinese term (traditional handicraft workshop) not naturally used in Japanese or Korean (confirmed via web search — both languages instead use their own 工房-derived word). **Content added**: `japanese: こうぼう`, `korean: 공방`, `vietnamese: xưởng` (native, not a Sino-Vietnamese calque), and filled blank `cantonese: zok3 fong1` (compositional). Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄐㄚㄎㄈㄚㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 使者.
+
+### 2026-08-03, iteration 672 — [[words/使者|使者]]
+
+**Real content bug found and fixed**: `cantonese` had been written in Mandarin-pinyin-style romanization ("shi3 ze3") instead of Jyutping — corrected to si2 ze2, matching 使's own si2 and 者's own ze2. **Content added**: `vietnamese: sứ giả`, directly attested Sino-Vietnamese, formal/ceremonial register. Converted the plain-text triple-homophone note to the standard callout (confirmed genuine three-way homophone with [[侍者]] and [[時差]]). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 侍奉.
+
+### 2026-08-03, iteration 673 — [[words/侍者|侍者]] and [[words/時差|時差]]
+
+Completed the full three-way homophone set alongside [[使者]] (iteration 672): both pages converted their plain-text homophone notes to standard callouts cross-linking all three. **Content added**: 侍者 — `korean: 시자` (compositional) and `vietnamese: thị giả` (directly attested, Buddhist-context "attendant monk"); 時差 — `vietnamese: thời sai` (directly attested). Added missing `>[!tip]` headers and `## Notes` to both. `kwin: false` on 侍者, `kwin: true` on 時差 (noted as the one member of the set where Dan'a'yo and Korean coincide exactly). Stamped `date-last-perfect: 2026-08-03` on both.
+
+Next (re-scoped tail, alphabetical-by-filename): 侍奉.
+
+### 2026-08-03, iteration 674 — [[words/侍奉|侍奉]]
+
+**Real content bug found and fixed**: `korean` had the syllables reversed as "봉시" — corrected to 시봉 (matching the headword's own character order; the reversed order belongs to this word's alias 奉侍), confirmed via web search as directly attested. This also fixed `kwin` (previously false) to true, now an exact match. **Content added**: `vietnamese: thị phụng`, compositional, paralleling well-attested siblings phụng dưỡng/cung phụng. Added missing `>[!tip]` header and `## Notes`. No homophones (注音 ㄙㄧㄅㄛㄫ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 供給 (live-computed — fresh rescan confirms 1589 files remaining; queue: 供給, 依拠, 依然, 依頼, 価格, ...).
+
+### 2026-08-03, iteration 675 — [[words/供給|供給]]
+
+**Content added**: `vietnamese: cung cấp`, one of the most common everyday Vietnamese verbs, a direct match. Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄍ⼄ㄫㄍㄧㄆ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 依拠.
+
+### 2026-08-03, iteration 676 — [[words/依拠|依拠]]
+
+**Real gap found and fixed on [[拠]]'s own page**: its `vietnamese` field crammed two readings into one malformed list item — reformatted. **Content added**: filled blank `pos: 事詞` and `vietnamese: y cứ`, directly attested (confirmed via web search, especially in Buddhist-teaching contexts), paralleling the more common sibling căn cứ. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄧㄜㄍ⼄ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 依然.
+
+### 2026-08-03, iteration 677 — [[words/依然|依然]]
+
+**Real content bug found and fixed**: `korean` had been set to "여전," the reading of the unrelated etymon 如前 (a different character pair with a similar meaning) — corrected to 의연, the genuine Sino-Korean reading of 依然 itself (confirmed via web search, as in 의연하다/구태의연). **Content added**: filled blank `pos: 副用名詞` and `vietnamese: y nhiên`, directly attested (familiar from classical poetry). Added missing `>[!tip]` header and `## Notes`. `kwin: false` confirmed. No homophones (注音 ㄧㄜㄋ⼶ㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 依頼.
+
+### 2026-08-03, iteration 678 — [[words/依頼|依頼]]
+
+**Content added**: `vietnamese: y lại` (more commonly seen as ỷ lại, "to be dependent on"), well-known everyday term. Fixed the malformed `aliases` list (was "依赖 or 依賴" as one string) and filled the blank `pos: 事詞`. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄧㄜㄌㄚㄧ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 価格 (live-computed — fresh rescan confirms 1585 files remaining; queue: 価格, 侮辱, 便宜, 便箋, 俄然, ...).
+
+### 2026-08-03, iteration 679 — [[words/価格|価格]]
+
+**Real content bug found and fixed**: `korean` had two extra native glosses ("값,요금") crammed into the reading field — trimmed to 가격 alone. **Content added**: `vietnamese: giá cách`, directly attested, part of the same 價/giá family as giá tiền/giá trị/vật giá. `kwin: false` (was missing, now set). No homophones (注音 ㄍㄚㄍㄚㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 侮辱.
+
+### 2026-08-03, iteration 680 — [[words/侮辱|侮辱]]
+
+**Content added**: `korean: 모욕` (compositional) and `vietnamese: vũ nhục`, directly attested Sino-Vietnamese, though the everyday synonym sỉ nhục (different root) is more common colloquially. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄇㄨㄋㄛㄎ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 便宜.
+
+### 2026-08-03, iteration 681 — [[words/便宜|便宜]]
+
+**Correction to a prior iteration's finding** (page previously perfected 2026-07-23 with `vietnamese` deliberately left blank): a fresh web search found `vietnamese: tiện nghi` directly attested, joining べんぎ/편의 on the "convenience" side of this word's cross-linguistic heteronym split — modern Vietnamese has narrowed it specifically to material comforts/amenities rather than the abstract "expediency" sense. Updated Notes and re-stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 便箋.
+
+### 2026-08-03, iteration 682 — [[words/便箋|便箋]]
+
+**Content added**: `korean: 편지지` — confirmed via web search that real Korean uses this entirely different root (from 편지 "letter," itself 片紙/便紙) rather than a compositional 便箋-derived reading, so the real word was documented instead. `vietnamese: giấy viết thư`, the everyday native descriptive phrase. Added missing `>[!tip]` header and `## Notes`. `kwin: false` (was missing, now set). No homophones (注音 ㄅ⼶ㄋㄐㄝㄋ unique). Stamped `date-last-perfect: 2026-08-03`.
+
+Next (re-scoped tail, alphabetical-by-filename): 俄然.
