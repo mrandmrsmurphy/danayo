@@ -585,3 +585,23 @@ Confirmed `graphemic_classification: 𢦏` via WebSearch (形声, 車 semantic "
 Stamped `date-last-perfect: 2026-08-05`.
 
 Next never-perfected character by `danayo_id`: 詳 (4321; 1982 characters remaining).
+
+### 2026-08-05, iteration 518 — [[characters/詳|詳]]
+
+Confirmed `graphemic_classification: 羊` via WebSearch (形声, 言 semantic "speech" + 羊 phonetic; the `mandarin: "xiáng, yáng"` dual reading checks out — 詳 is also an obsolete variant of 佯 "to feign, pretend," yáng). Confirmed `mc_id` against `lookup/CC/CC 1000.md` line 586, and normalized it from a quoted string `"1561"` to a plain number (only 7 of ~3347 character pages had a quoted `mc_id`, all outliers). Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` split; caught my own first-draft typo on 詳細's ruby reading by re-grepping the source word file before finalizing.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already present): flagged [[詳細]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 凄 (4324; 1981 characters remaining).
+
+### 2026-08-05, iteration 519 — [[characters/凄|凄]]
+
+**Applied the checklist's `mc_id: 0` policy for the first time this session**: the stored `mc_id` was blank, but grepping `lookup/CC/CC 0000–3000.md` found no entry for 凄 itself — only its two alias variants 淒 (rank 3876) and 悽 (rank 3291) are separately tracked in the corpus. Per the checklist ("`mc_id: 0` is a real, meaningful value... confirmed not present"), set `mc_id: 0` rather than guessing one of the variants' ranks, and phrased the MC bullet accordingly. Confirmed `graphemic_classification: 妻` (already correct, 形声 冫+妻) and cleaned up the informal "悽 was dropped from the Korean high school list in 2000" note, folding it into the levels bullet as the explanation for why `hanmun_edu_level: 名` — cross-checked against [[lookup/Korean/Korean Name ㅊ]], which explicitly lists both 凄 and 悽 under 처, confirming the "名" (name-only) demotion is accurate and current, not an error to fix. Filled the levels bullet with the correct mixed mapping (real Grade/HSK/Jōyō levels alongside the Korean name-only tier).
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching what was already present): reformatted [[凄涼]] (the `stand_in`, already separately perfected) and [[凄惨]] with proper ruby+gloss. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 塔 (char) (4388; 1980 characters remaining — a large gap, danayo_id 4325–4387 already perfected).
