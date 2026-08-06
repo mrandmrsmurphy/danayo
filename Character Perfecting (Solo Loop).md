@@ -565,3 +565,23 @@ Next never-perfected character by `danayo_id`: 后 (4318; 1985 characters remain
 Stamped `date-last-perfect: 2026-08-05`.
 
 Next never-perfected character by `danayo_id`: 並 (char) (4319; 1984 characters remaining).
+
+### 2026-08-05, iteration 516 — [[characters/並 (char)|並 (char)]]
+
+**Untangled a 5-alias list into 3 genuine variants + 2 contaminants**: WebSearch + corpus cross-checks showed 并/幷 are real graphemic variants of 並 (并 has its own separate CC rank, 652, reflecting genuine independent historical usage, but shares the same core "side by side/together" sense), while 併/倂 are a distinct, narrower-sense derived character (人 semantic + 并 phonetic, own CC rank 3417, no vault page) meaning specifically "to combine, merge, annex" — different Old Chinese pronunciation per Wiktionary, not the same character. Removed 併/倂, kept 并/竝/幷. Also cleaned up two pieces of raw shorthand left in the old Notes text (`并=C#652` and `碰 is forbidden`) — the first was this exact 并-corpus-rank fact I'd independently re-derived, the second was already-correct shorthand for 碰's presence on [[文法 - 98違法字|the forbidden-character list]] (confirmed the list entry still there, with its own explanation: "recent coinage/colloquial form of 逢") — both rewritten as proper prose in the correct sections. Confirmed `mc_id: 610`. Filled blank `pos: ""` → `副詞` (matching the word [[並]]'s own stored pos, since the character functions identically).
+
+**Words** (3 hits, already listed, reformatted with `stand_in` flag) **+ Chengyu** (1 missing hit, [[文体並存]], added) **+ Derived Characters** (the 碰-forbidden note, properly relocated) via `find_citers.py`.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 載 (char) (4320; 1983 characters remaining).
+
+### 2026-08-05, iteration 517 — [[characters/載 (char)|載 (char)]]
+
+Confirmed `graphemic_classification: 𢦏` via WebSearch (形声, 車 semantic "chariot" + 𢦏 phonetic; the "carry" and "record" senses both derive from the core "carrying" concept). Confirmed `mc_id: 623` against `lookup/CC/CC 0000.md` line 647. Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check**: `find_citers.py "載 (char)"` only found 2 hits, but `find_citers.py 載` (bare glyph) found 4 — [[記載]] and [[転載]] store `characters: 載` (bare form) instead of the `"載 (char)"` suffix that [[搭載]] and [[載]] correctly use. This is a real data inconsistency in those two word files' `characters:` field (out of scope to fix during a character-page iteration, flagging here), but since both genuinely cite 載 as a constituent, included all 4 in the Words section regardless of the field-format mismatch, flagging [[載]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 詳 (4321; 1982 characters remaining).
