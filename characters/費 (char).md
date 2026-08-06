@@ -17,7 +17,7 @@ stroke_count: 12
 radical: 貝
 skip_number: 2-5-7
 grade_level: "4"
-pos: ""
+pos: 名詞
 english:
   - expense
 羅馬字: fai
@@ -32,6 +32,7 @@ stand_in: 費
 aliases:
   - 费
 注音: ㄈㄚㄧ
+date-last-perfect: 2026-08-05
 kwin: false
 tags:
   - character
@@ -44,9 +45,14 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 敷]]
-[[Lookup/CC/finals/韻 微合]]
-- abbreviation for "fermium": <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby>
+## Notes
+- 形声 (OC \*pʰɯds): semantic [[Radical 154|貝]] ("cowrie shell, currency") + phonetic [[弗]] (OC \*pʰɯd) — "to spend money"; "expense, cost."
+- [SKIP-2-5-7](lookup/SKIP/SKIP-2/SKIP-2-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 1046th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄈㄚㄧ](syllables/ㄈㄚㄧ.md)
+- [Grade 4](lookup/Grade%204.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
 ## Words
-- <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby> "fermium"
+- <ruby>[[費]]<rt>ㄈㄚㄧ</rt></ruby> "expense" (stand-in for 費)
+- <ruby>[[経費]]<rt>ㄍㄝㄫㄈㄚㄧ</rt></ruby> "expenditures, expenses"
+- <ruby>[[食費]]<rt>ㄙㄧㄎㄈㄚㄧ</rt></ruby> "food expenses"
+- abbreviation for "fermium": <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby>

@@ -8,6 +8,7 @@ japanese:
   - RAI
 japanese_native: ø
 vietnamese:
+  - lễ
   - lãi
   - lạy
   - lấy

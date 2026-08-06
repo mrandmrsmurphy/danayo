@@ -8,7 +8,9 @@ japanese:
   - SHOU
 japanese_native: さま
 vietnamese:
-  - dạng, dáng, nhàng
+  - dạng
+  - dáng
+  - nhàng
 middle_chinese_initial: ŋ
 middle_chinese_final: ɨɐŋ
 stroke_count: 14

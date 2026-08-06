@@ -30,6 +30,7 @@ stand_in: 際
 aliases:
   - 际
 注音: ㄐㄝ
+date-last-perfect: 2026-08-05
 kwin: false
 tags:
   - character
@@ -42,11 +43,15 @@ boundedness: 100
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
+- 形声 (OC \*ʔsleds): semantic [[Radical 170|阜]] ("mound") + phonetic [[祭]] (OC \*ʔsreːds, \*ʔsleds) — related to 接 ("to connect, contact"); "border, boundary, edge; occasion."
+- [SKIP-1-3-11](lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
+- 1592nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄐㄝ](syllables/ㄐㄝ.md)
+- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-1. [[交際]] - socialize, hangout
-2. [[国際]] - international
-3. <ruby>[[実際]]<rt>ㄙㄧㄊㄐㄝ</rt></ruby> - actual; real; in fact
-[[Lookup/CC/initials/聲 精]]
-[[Lookup/CC/finals/韻 祭A三開]]
+- <ruby>[[際]]<rt>ㄐㄝ</rt></ruby> "border, occasion" (stand-in for 際)
+- <ruby>[[交際]]<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby> "socialize, hangout"
+- <ruby>[[国際]]<rt>ㄍㄛㄎㄐㄝ</rt></ruby> "international"
+- <ruby>[[国際語]]<rt>ㄍㄛㄎㄐㄝ⼄</rt></ruby> "international language, koine, lingua franca"
+- <ruby>[[実際]]<rt>ㄙㄧㄊㄐㄝ</rt></ruby> "actual; real; in fact"

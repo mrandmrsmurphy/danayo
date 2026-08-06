@@ -16,7 +16,7 @@ stroke_count: 8
 radical: "阜"
 skip_number: 1-3-5
 grade_level: "4"
-pos: ""
+pos: 事詞
 english:
   - affix
   - adhere
@@ -31,6 +31,7 @@ graphemic_classification: "付"
 stand_in: "附"
 aliases:
 注音: "ㄅㄨ"
+date-last-perfect: 2026-08-05
 kwin: true
 tags:
   - character
@@ -43,7 +44,12 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 奉]]
-[[Lookup/CC/finals/韻 虞]]
-- [[附近]] "vicinity"
+## Notes
+- 形声 (OC \*bos): semantic [[Radical 170|阜]] ("mound, hill") + phonetic [[付]] (OC \*pos) — an alternative form of 付; "to affix, to adhere, to attach."
+- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 895th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄅㄨ](syllables/ㄅㄨ.md)
+- [Grade 4](lookup/Grade%204.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[附]]<rt>ㄅㄨ</rt></ruby> "affix, adhere" (stand-in for 附)
+- <ruby>[[附近]]<rt>ㄅㄨㄍㄧㄋ</rt></ruby> "vicinity"

@@ -8,7 +8,8 @@ japanese:
   - FU
 japanese_native: かぜ
 vietnamese:
-  - phong, phông
+  - phong
+  - phông
 middle_chinese_initial: f
 middle_chinese_final: "ɨuŋ"
 stroke_count: 9

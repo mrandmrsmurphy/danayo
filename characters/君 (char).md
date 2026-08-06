@@ -7,7 +7,8 @@ japanese:
   - KUN
 japanese_native: きん
 vietnamese:
-  - quân, vua
+  - quân
+  - vua
 middle_chinese_initial: k
 middle_chinese_final: ɨun
 stroke_count: 7

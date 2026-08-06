@@ -8,6 +8,7 @@ japanese:
   - KE
 japanese_native: いき
 vietnamese:
+  - khí
 middle_chinese_initial: kʰ
 middle_chinese_final: ɨi
 stroke_count: 6

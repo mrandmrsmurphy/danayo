@@ -10,6 +10,7 @@ japanese:
 japanese_native: わ
 vietnamese:
   - phân
+  - phận
 middle_chinese_initial: v
 middle_chinese_final: ɨun
 stroke_count: 4

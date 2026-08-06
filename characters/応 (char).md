@@ -8,7 +8,9 @@ japanese:
   - YOU
 japanese_native: こた-える
 vietnamese:
-  - ứng, ưng, ừng
+  - ứng
+  - ưng
+  - ừng
 middle_chinese_initial: ʔ
 middle_chinese_final: ɨŋ
 stroke_count: 7

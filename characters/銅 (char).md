@@ -7,7 +7,6 @@ japanese:
   - DOU
   - TOU
 japanese_native: あかがね
-  - あかがね
 vietnamese:
   - đồng
 middle_chinese_initial: d
@@ -25,12 +24,13 @@ joyo_level: "5"
 hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4287
-mc_id: 1543
+mc_id: 1544
 graphemic_classification: 同
 stand_in: 銅
 aliases:
   - 铜
 注音: ㄉㄛㄫ
+date-last-perfect: 2026-08-05
 kwin: true
 tags:
   - character
@@ -44,13 +44,17 @@ boundedness: 75
 ```
 
 ## Notes
-- the element word 銅 itself doubles as the periodic table abbreviation for "copper" — see [[Periodic Table]]
-- Components: [[釒]], [[同]]
-[[Lookup/CC/initials/聲 定]]
-[[Lookup/CC/finals/韻 東一]]
+- 形声 (OC \*doːŋ): semantic [[Radical 167|金]] ("metal") + phonetic [[同]] (OC \*doːŋ) — "copper." The word may also be related to 彤 ("red"), a plausible color association given copper's reddish hue. 銅 itself doubles as the Dan'a'yo periodic-table abbreviation for copper.
+- [SKIP-1-7-7](lookup/SKIP/SKIP-1/SKIP-1-7-7.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
+- 1544th most used character in Classical Chinese — **corrected from a stored `1543`**, which is actually 珍's rank (`lookup/CC/CC 1000.md` line 568; 銅 itself is line 569). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](syllables/ㄉㄛㄫ.md)
+- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- [[黄銅]] "brass"
-- [[青銅]] "bronze"
-- [[銅牌]] "bronze medal"
-- [[銅鑼]] "gong"
+- <ruby>[[銅]]<rt>ㄉㄛㄫ</rt></ruby> "copper" (stand-in for 銅)
+- <ruby>[[青銅]]<rt>ㄑㄝㄫㄉㄛㄫ</rt></ruby> "bronze"
+- <ruby>[[黄銅]]<rt>ㄏ⺢ㄫㄉㄛㄫ</rt></ruby> "brass"
+- <ruby>[[魔銅]]<rt>ㄇㄚㄉㄛㄫ</rt></ruby> "nickel"
+- <ruby>[[銅鑼]]<rt>ㄉㄛㄫㄌㄚ</rt></ruby> "gong"
+
+## Chengyu
+- <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "gold, silver, copper, iron"

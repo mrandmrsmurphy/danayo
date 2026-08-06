@@ -7,7 +7,10 @@ japanese:
   - TO
 japanese_native: は-く
 vietnamese:
-  - thổ, nhổ, giổ, giỗ
+  - thổ
+  - nhổ
+  - giổ
+  - giỗ
 middle_chinese_initial: tʰ
 middle_chinese_final: uo
 stroke_count: 6

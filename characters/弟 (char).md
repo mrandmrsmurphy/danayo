@@ -8,6 +8,7 @@ japanese:
   - DAI
 japanese_native: おとうと
 vietnamese:
+  - đễ
   - dễ
   - đệ
 middle_chinese_initial: d
