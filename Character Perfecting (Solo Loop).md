@@ -545,3 +545,23 @@ Merged a duplicate `## Notes` heading (the page had two — one holding only flo
 Stamped `date-last-perfect: 2026-08-05`.
 
 Next never-perfected character by `danayo_id`: 斉 (4317; 1986 characters remaining).
+
+### 2026-08-05, iteration 514 — [[characters/斉|斉]]
+
+**Fixed a wrong `graphemic_classification`**: stored as `指事` (ideogrammic indicator), but WebSearch confirms Wiktionary classifies 齊/斉 as `象形` — a pictogram of evenly sprouting grain ears (or, per some sources, neatly arranged fruits/thorns), not an abstract indicator. Corrected. **Fixed alias contamination**: `齎` (jī, "to present in both hands") was listed as an alias, but it's a distinct phono-semantic character (齊-phonetic + 貝-semantic), not a variant of 齊/斉 — removed (no vault page exists, matching the recently-established pattern from [[characters/響|響]]/磬 and [[characters/夫 (char)|夫]]/趺). Confirmed `mc_id: 82` against `lookup/CC/CC 0000.md` line 87. Filled blank `vietnamese: [tề]` (verified genuine Hán Việt reading).
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py` — page previously had no Words section at all): added all 4, flagging [[一斉]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 后 (4318; 1985 characters remaining).
+
+### 2026-08-05, iteration 515 — [[characters/后|后]]
+
+**Fixed alias contamination of a different flavor than usual**: `後` was listed as an alias, but WebSearch confirms 后 and 後 are genuinely distinct, etymologically unrelated characters (后: 会意 人+口, originally "rear/anus" → "ruler, sovereign," oracle-bone variant 毓 "woman giving birth" → "empress"; 後: 会意 幺+夊, "foot bound by rope" → "to lag behind") that only share the modern Mandarin reading hòu because PRC simplification reused 后's glyph to also write 後 — a real-world orthographic merger, not a variant relationship. Removed the alias and documented the merger in the Notes bullet (this differs from the usual co-occurrence-contamination pattern — here the two characters are both extremely common and totally independent, confirmed by `find_citers.py` showing zero overlap between 后's and 後's citing words). Confirmed `graphemic_classification: 會意` and `mc_id: 197` (`lookup/CC/CC 0000.md` line 205). Filled two blanks: `pos: ""` → `名詞` and `hanmun_edu_level: ""` → `中` (matching the `joyo_level: "6"` → Korean MS pattern established on [[characters/暮|暮]] and [[characters/諸 (char)|諸 (char)]] last iteration).
+
+**Words cross-check** (1 ground-truth hit, matching what was already listed): flagged [[皇后]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 並 (char) (4319; 1984 characters remaining).
