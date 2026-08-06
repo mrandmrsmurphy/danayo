@@ -16,7 +16,7 @@ stroke_count: 6
 radical: "水"
 skip_number: 1-3-3
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - sweat
 羅馬字: han
@@ -34,6 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-06
 ---
 >[!tip] This is a page about the character 汗.
 >For the word, see [汗](words/汗.md)
@@ -42,6 +43,14 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 寒]]
+## Notes
+- 形声 (OC \*gaːns): semantic [[Radical 085|水]] ("water") + phonetic [[干]] (OC \*kaːn) — "sweat."
+- [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 6](lookup/Stroke/Stroke%206.md))
+- 999th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄏㄚㄋ](syllables/ㄏㄚㄋ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[汗]]<rt>ㄏㄚㄋ</rt></ruby> "sweat" (stand-in for 汗 (char))
+
+## Chengyu
+- <ruby>[[汗食帰泥]]<rt>ㄏㄚㄋㄙㄧㄎㄍㄨㄧㄋㄝㄧ</rt></ruby> "sweat and eat, return to mud"

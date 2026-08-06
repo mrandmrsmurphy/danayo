@@ -33,6 +33,7 @@ graphemic_classification: 會意
 stand_in: 兼
 aliases:
 注音: ㄍㄝㄇ
+date-last-perfect: 2026-08-05
 kwin: false
 tags:
   - character
@@ -46,7 +47,13 @@ boundedness: 80
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 添]]
-- Components: [[又]], [[禾]]
-- As in "this hat doubles-as a chair."
+- 会意: [[又 (char)|又]] ("hand," as in 肀) holding two [[禾 (char)|禾]] ("grain stalks") — compare [[秉]] (a hand holding one stalk); "to double as, to hold multiple roles" (as in "this hat doubles as a chair").
+- [SKIP-2-3-7](lookup/SKIP/SKIP-2/SKIP-2-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 822nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 添|em]] → [ㄍㄝㄇ](syllables/ㄍㄝㄇ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[兼]]<rt>ㄍㄝㄇ</rt></ruby> "double as; dual-" (stand-in for 兼 (char))
+
+## Chengyu
+- <ruby>[[詞彙兼容]]<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> "the lexicon is capable of inclusion"

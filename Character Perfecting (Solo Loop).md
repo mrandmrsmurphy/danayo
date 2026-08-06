@@ -625,3 +625,1137 @@ Next never-perfected character by `danayo_id`: 喉 (4390; 1979 characters remain
 Stamped `date-last-perfect: 2026-08-05`.
 
 Next never-perfected character by `danayo_id`: 曇 (char) (4391; 1978 characters remaining).
+
+### 2026-08-05, iteration 522 — [[characters/曇 (char)|曇 (char)]]
+
+**Fixed a wrong `graphemic_classification`**: stored as `旦` (implying 形声 with 旦 as phonetic), but WebSearch (Wiktionary, cross-checked against a second kanji-etymology source) confirms 曇 is `会意` (日 "sun" + 雲 "cloud" → "sun behind clouds" → "overcast") — 曇 has no 旦 component at all; 旦 (日+一, "dawn") is an unrelated character, so the stored value looks like a plain misidentification rather than a legitimate alternate analysis. Corrected. Filled the previously-blank `mc_id` to `0` after confirming zero hits for 曇/昙 anywhere in `lookup/CC/CC 0000–3000.md`. Also fixed body-structure ordering: the `meta-bind-embed` block was sitting *after* a stray `# Notes` heading, violating the checklist's "embed must be first or directly after the callout" rule — reordered.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[曇]] (previously listed nowhere in the body at all). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 塞 (5001; 1977 characters remaining — another large gap, danayo_id 4392–5000 already perfected).
+
+### 2026-08-05, iteration 523 — [[characters/塞|塞]]
+
+Confirmed `graphemic_classification: 會意` and the existing informal "Components: 𡨄, 土" note via WebSearch (oracle-bone 𡨄 = 宀+廾+工, "stuffing a house with items"; 土 "soil" added later per Shuowen) — expanded into a full graphemic bullet with the semantic extension "to stop up" → "pass, frontier, fortress." Confirmed `mc_id: 574` (`lookup/CC/CC 0000.md` line 595) and that alias `𡨄` is the genuine oracle-bone ancestor form, not contamination. Fixed a dangling `[[𡨄]]` wikilink to a nonexistent page (bare text instead, per established convention).
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching what was already listed): reordered with [[梗塞]] flagged as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 鎖 (char) (5002; 1976 characters remaining).
+
+### 2026-08-05, iteration 524 — [[characters/鎖 (char)|鎖 (char)]]
+
+A relatively light iteration — the page's Notes bullet already documented a prior-session fix (`graphemic_classification` corrected from a mistaken `貝` to the real phonetic 𧴪, confirmed correct again via WebSearch: 形声, 金 semantic + 𧴪 phonetic). Trusted the existing large `mc_id: 5055` per the checklist's long-tail policy (beyond the locally-mirrored top ~4000, not fabricated). Filled blank `pos: ""` → `名詞`. Converted the `# Notes` heading to `##` and completed the remaining 3 bullets (SKIP/Stroke, MC rank, levels) that had been left as floating bare links.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[鎖]] (previously listed nowhere in the body). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 荒 (5003; 1975 characters remaining).
+
+### 2026-08-05, iteration 525 — [[characters/荒|荒]]
+
+Confirmed `graphemic_classification: 巟` via WebSearch (形声, 艸 semantic "grass" + 巟 phonetic; 巟 is cognate with [[亡]] "to disappear" through a Proto-Sino-Tibetan causative *s- prefix — a nice etymological detail worth keeping) and `mc_id: 1216` (`lookup/CC/CC 1000.md` line 229). Filled blank `pos: ""` → `性詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets); fixed a `[[巟]]` wikilink to bare text since no vault page exists for the phonetic component.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[荒廃]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 錬 (5004; 1974 characters remaining).
+
+### 2026-08-05, iteration 526 — [[characters/錬|錬]]
+
+A light iteration — the page was already essentially complete (all 4 Notes bullets, correct `graphemic_classification: 柬`, large trusted long-tail `mc_id: 4509`). Verified the 3-item alias list (鍊/煉/炼) via WebSearch: all four forms (錬/鍊/煉/炼) are genuine orthographic variants of the same morpheme — 錬/鍊 use 金 "metal" as the semantic, 煉/炼 use 火 "fire," but all four share pronunciation and meaning ("temper, refine, smelt"); no contamination here, unlike the 併/齎/趺/後 cases earlier this session. **Note: user switched to continuous mode ("continuously perfect characters, no waiting") — iterations from here on chain back-to-back without `ScheduleWakeup` calls between them.**
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching what was already listed): flagged [[鍛錬]] as the `stand_in`.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 縁 (5005; 1973 characters remaining).
+
+### 2026-08-05, iteration 527 — [[characters/縁|縁]]
+
+Confirmed `graphemic_classification: 彖` via WebSearch (形声, 糸 semantic "silk thread" + 彖 phonetic — originally "hem/edge of cloth," extended to "reason, cause" and "fate/predestined connection"). Confirmed `mc_id: 1347` (`lookup/CC/CC 1000.md` line 364). Filled blank `pos: ""` → `名詞` and blank `vietnamese: ""` → `[duyên]` (verified genuine Hán Việt reading). **Found the correct `hsk_level`** by distinguishing two differently-structured lookup files: `lookup/HSK/Old HSK 3.md` and `...4.md` turned out to be co-occurrence/frequency-count lists (`[char]: N` format, not level assignments), while `lookup/HSK/Old HSK 5.md` is a genuine numbered vocabulary list — 縁/緣 appears there at position 405, confirming `hsk_level: "5"` for the previously-blank field.
+
+**Flagged an out-of-scope word-file duplicate**: [[緣故]] (fully perfected, `date-last-perfect: 2026-06-13`, explicitly documents that [[縁故]] is its own alias) and `words/縁故.md` (an orphaned, never-perfected duplicate stub with near-identical content) both exist as separate word pages for the same word — not fixed here (character-page scope only), but worth a follow-up word-sweep merge.
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`, mapping to 3 real words after resolving the duplicate): flagged [[因緣]] as the `stand_in`, kept [[緣故]] (the canonical page) and [[攀縁]], reformatted from the old mixed Notes/Words layout.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 震 (5006; 1972 characters remaining).
+
+### 2026-08-05, iteration 528 — [[characters/震|震]]
+
+**Fixed another `mc_id` off-by-few error**: stored `841`, but that rank actually belongs to 竊 (`lookup/CC/CC 0000.md` line 871); 震's real rank is 844 (line 874) — corrected. Confirmed `graphemic_classification: 辰` via WebSearch (形声, 雨 semantic + 辰 phonetic, "to shake/quake"; related to 振). Fixed multiple broken `../`-prefixed link paths (a recurring defect class per the checklist) and merged a duplicate/leftover `## Definition` section (trigram/hexagram trivia, floating bare initial/final links, a stray `[[震怒]]` citation, and a second `## Words` block) into the proper single-pass structure — this required a direct `head`-truncation via Bash after several `Edit` exact-match failures on the duplicate block (likely invisible whitespace/encoding quirks in the old content).
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`): kept [[震動]] (`stand_in`) and [[震怒]], added the 2 missing — [[地震]] and [[余震]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 麗 (5007; 1971 characters remaining).
+
+### 2026-08-05, iteration 529 — [[characters/麗|麗]]
+
+Mostly-complete page. **Fixed alias contamination**: `驪` (lí, "black horse") was listed as an alias, but WebSearch confirms it's a distinct derived character (馬 semantic + 麗 phonetic phono-semantic compound, own corpus rank 1682, no vault page) — 麗 is only its phonetic component, not a variant of 麗 itself. Removed, matching the 齎/斉, 併/並, 趺/夫 pattern from earlier this session. Filled blank `pos: ""` → `性詞`.
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`, matching what was already listed): flagged [[秀麗]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 亜 (5008; 1970 characters remaining).
+
+### 2026-08-05, iteration 530 — [[characters/亜|亜]]
+
+**Discovered a new nuance in the alias-legitimacy pattern**: `堊` (chalk) initially looked like the usual contamination case (WebSearch confirms it's structurally distinct, 亞 phonetic + 土 semantic), but the vault's own already-perfected [[白亜紀]] word page explicitly documents "亜 (Dan'a'yo stand-in for 堊)" — a deliberate, already-established Japanese daiyōji substitution (like modern 亜 replacing 堊 in 白亜/白堊 "chalk"), not an accidental co-occurrence conflation. Kept the alias but annotated the Notes bullet to clarify it's a substitution specific to the "chalk" sense, distinct from 亞/亚 (true variants for the primary "second/Asia" senses). Confirmed `graphemic_classification: 象形` and `mc_id: 1762` (`lookup/CC/CC 1000.md` line 795). Completely rebuilt the malformed Notes section (out-of-order bullets, raw wikilinks to non-existent lookup pages like `[[SKIP-4-7-1]]` instead of proper markdown links, a stray `## Definition` section).
+
+**Words cross-check** (19 word + 1 chengyu ground-truth hits via `find_citers.py` — by far the largest citation set this session, since 亜 is the vault's own conlang-name character in [[単亜語]]): only 10 were previously listed, several without ruby/gloss; added 10 more including the `stand_in` [[亜細亜]] and the previously-uncited [[単亜語]] itself, plus the missing chengyu [[東亜自通]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 浸 (char) (5009; 1969 characters remaining).
+
+### 2026-08-05, iteration 531 — [[characters/浸 (char)|浸 (char)]]
+
+**Fixed a frontmatter/prose mismatch**: `graphemic_classification` was stored as `會意`, but the page's own existing Notes bullet already correctly described it as 形声 (水 semantic + 𡩠 phonetic) — confirmed via WebSearch and corrected the frontmatter field to `𡩠` to match. Preserved the useful existing warning note about not merging with 滲 (a distinct character sometimes conflated with 浸 in Japanese). Confirmed `mc_id: 1953` (`lookup/CC/CC 1000.md` line 994). Filled blank `pos: ""` → `事詞`. Filled in the previously-empty semantic/phonetic glosses.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[浸]] alongside the already-listed [[浸食]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 寂 (5010; 1968 characters remaining).
+
+### 2026-08-05, iteration 532 — [[characters/寂|寂]]
+
+Light iteration — Notes were already complete and correct. Confirmed `graphemic_classification: 叔` via WebSearch (形声, 宀 semantic "house" + 叔 phonetic) and `mc_id: 2906` (`lookup/CC/CC 2000.md` line 947). Filled blank `pos: ""` → `性詞`.
+
+**Words cross-check** (4 word + 1 chengyu ground-truth hits via `find_citers.py`): added the missing [[静寂]] and [[涅盤寂静]], flagged [[寂滅]] as the `stand_in`.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 般 (char) (5012; 1967 characters remaining — danayo_id 5011 already perfected).
+
+### 2026-08-05, iteration 533 — [[characters/般 (char)|般 (char)]]
+
+**Coincidental-Kangxi-radical case, same pattern as 象/豕, 貞/貝, 雑/衣**: confirmed via WebSearch that 般's modern `radical: 舟` ("boat") is a later reinterpretation artifact — the true original composition is 会意 of a rotated 凡/皿 ("plate," the ancestor of [[盤 (char)|盤]]) + 攴 ("hand with stick"), unrelated to boats; documented rather than "corrected" (the Kangxi radical field itself is accurate indexing data). Confirmed `mc_id: 2134` (`lookup/CC/CC 2000.md` line 143). Filled blank `pos: ""` → `名詞`. Rebuilt the malformed `# Notes` heading + floating bare links into the proper 4-bullet structure.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[般]] alongside the already-listed [[一般]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 敏 (char) (5013; 1966 characters remaining).
+
+### 2026-08-05, iteration 534 — [[characters/敏 (char)|敏 (char)]]
+
+Confirmed `graphemic_classification: 毎` via WebSearch (形声, 攴 semantic "hand, action" + 每/毎 phonetic) and `mc_id: 1705` (`lookup/CC/CC 1000.md` line 738). Filled blank `pos: ""` → `性詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets); fixed a `[[毎]]` link to the correctly-suffixed `毎 (char).md` filename.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[敏]] alongside the already-listed [[敏感]] and [[敏捷]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 核 (char) (5014; 1965 characters remaining).
+
+### 2026-08-05, iteration 535 — [[characters/核 (char)|核 (char)]]
+
+Confirmed `graphemic_classification: 亥` via WebSearch (形声, 木 semantic "tree" + 亥 phonetic — originally the woody pit/seed of fruit, extended to "nucleus, kernel," then "to examine/verify") and `mc_id: 2957` (`lookup/CC/CC 2000.md` line 998). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets); fixed a `[[木]]` link to the correctly-suffixed `木 (char).md` filename.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[核]] and the missing [[陰核]], alongside the already-listed [[核金]] (a `neologism`-tagged periodic-table coinage for ytterbium). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 侮 (5015; 1964 characters remaining).
+
+### 2026-08-05, iteration 536 — [[characters/侮|侮]]
+
+Confirmed `graphemic_classification: 毎` via WebSearch (形声, 人 semantic "person" + 每/毎 phonetic — "to insult, ridicule") and `mc_id: 1693` (`lookup/CC/CC 1000.md` line 722). Filled blank `pos: ""` → `事詞`. Fixed a `[每](毎%20(char).md)` markdown-link to a proper wikilink and folded the informal "Added to the Korean HS list in 2000" note into the levels bullet — the mirror-image case of the earlier 凄/喉 demotions.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[侮辱]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 振 (char) (5016; 1963 characters remaining).
+
+### 2026-08-05, iteration 537 — [[characters/振 (char)|振 (char)]]
+
+**Fixed alias contamination**: `顫` (zhàn, "to tremble, shiver") was listed as an alias, but WebSearch confirms it's a distinct character (頁 semantic + 亶 phonetic) — semantically adjacent to but not a variant of 振 (手 semantic + 辰 phonetic). Removed (no vault page, no corpus rank either). Confirmed `graphemic_classification: 辰` and `mc_id: 1071` (`lookup/CC/CC 1000.md` line 76). Filled blank `pos: ""` → `事詞`. Rebuilt the malformed Notes/Words split (2 words had been informally cited inside `# Notes` instead of `## Words`).
+
+**Words cross-check** (5 ground-truth hits via `find_citers.py`, surfaced by the bare-glyph search since [[振子]]/[[振幅]] store `characters: 振` without the `(char)` suffix — the same format inconsistency flagged on [[characters/載 (char)|載]] earlier): added the self-referential `stand_in` [[振]] and reformatted all 5 with proper ruby+gloss. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 枯 (char) (5017; 1962 characters remaining).
+
+### 2026-08-05, iteration 538 — [[characters/枯 (char)|枯 (char)]]
+
+Confirmed `graphemic_classification: 古` via WebSearch (形声, 木 semantic "tree" + 古 phonetic; Austroasiatic loan etymology, cf. Khmer ខះ "to dry up") and `mc_id: 1470` (`lookup/CC/CC 1000.md` line 491). Filled blank `pos: ""` → `性詞`. Built the entire `## Notes`/`## Words` structure from scratch (page previously had only floating bare initial/final links).
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[枯]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 殿 (5018; 1961 characters remaining).
+
+### 2026-08-05, iteration 539 — [[characters/殿|殿]]
+
+**Fixed a wrong `graphemic_classification`**: stored as `象形` (pictogram), but WebSearch (Wiktionary/Shuowen) confirms 殿 is `形声` — phonetic 𡱂 (itself analyzed as 尸+丌, "buttocks") + semantic 殳 ("hand with weapon"), not a pictogram at all. Corrected to store the phonetic component name `𡱂`, and wrote up the (debated) "striking the buttocks" → "elevated building" semantic development. Confirmed `mc_id: 1099` (`lookup/CC/CC 1000.md` line 104). Filled blank `pos: ""` → `名詞`. Removed a cryptic leftover scratch note ("needed a din") and built the proper Notes/Words structure.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[宮殿]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 培 (5019; 1960 characters remaining).
+
+### 2026-08-05, iteration 540 — [[characters/培|培]]
+
+Confirmed `graphemic_classification: 咅` via WebSearch (形声, 土 semantic "earth" + 咅 phonetic — originally banking earth around plant roots/walls, extended to "cultivate, foster") and trusted the existing large `mc_id: 4276` per the checklist's long-tail policy (no local corpus hit, beyond the ~4000 mirrored range, not fabricated). Fixed a broken `[土](Radical%20032)` markdown-link to a proper wikilink and merged floating bare initial/final links plus 2 informally-cited words into the standard 4-bullet/Words structure. Caught my own first-draft typo on 培養's ruby reading by re-grepping the source word file before finalizing.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching what was already listed): flagged [[培養]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 寡 (5020; 1959 characters remaining).
+
+### 2026-08-05, iteration 541 — [[characters/寡|寡]]
+
+Confirmed `graphemic_classification: 會意` via WebSearch (宀 "house" + 頁 "head" — "only one person in the house, alone"; noted the Shuowen seal-script misreading as 宀+頒 "to distribute," a documented false etymology from decorative strokes added to 頁) and `mc_id: 354` (`lookup/CC/CC 0000.md` line 369). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[寡婦]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 越 (char) (5021; 1958 characters remaining).
+
+### 2026-08-05, iteration 542 — [[characters/越 (char)|越 (char)]]
+
+Confirmed `graphemic_classification: 戉` via WebSearch (形声, 走 semantic "to walk/run" + 戉 phonetic, originally "large battle-axe" and the ancient name of the State of Yue) and `mc_id: 336` (`lookup/CC/CC 0000.md` line 351). Merged a duplicate/scrambled Notes section (a `## Chengyu` heading had been inserted mid-Notes, with floating bare initial/final links and 2 more words informally cited after it) into the proper single-pass structure.
+
+**Words cross-check** (11 ground-truth hits via `find_citers.py` — [[超越]] only surfaced via the bare-glyph search due to the same `characters:` field-suffix inconsistency seen on [[characters/載 (char)|載]] and [[characters/振 (char)|振]]): only 1 was previously listed; added the other 10, including the self-referential `stand_in` [[越]] and the vault's own CJKV-abbreviation word [[中日韓越]]. Caught two of my own first-draft ruby-reading guesses (on [[越境]]/[[越盟]] and the chengyu gloss) by re-grepping source files before finalizing — a good reminder to always verify rather than infer readings even for "obvious" compounds. **Chengyu** (1 hit, already listed): reformatted [[呉越同舟]] with its real stored gloss.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 循 (char) (5022; 1957 characters remaining).
+
+### 2026-08-05, iteration 543 — [[characters/循 (char)|循 (char)]]
+
+Confirmed `graphemic_classification: 盾` via WebSearch (形声, 彳 semantic "movement" + 盾 phonetic — "to follow, abide by, comply with") and `mc_id: 978` (`lookup/CC/CC 0000.md` line 1011). Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section built from scratch.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[循]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 娘 (char) (5023; 1956 characters remaining).
+
+### 2026-08-05, iteration 544 — [[characters/娘 (char)|娘 (char)]]
+
+Confirmed `graphemic_classification: 良` via WebSearch (形声, 女 semantic "woman" + 良 phonetic; the syllable is unattested before Tang, possibly a fusion of 女郎 "lady") and trusted the existing `mc_id: 5193` per the long-tail policy. Merged the malformed body (bare initial/final links floating mid-Notes, a stray unheaded observation about [[処女]]) into the proper structure — hit an invisible non-breaking-space (U+00A0) character in the old text that caused repeated `Edit` exact-match failures, resolved with a direct Python string-replace via Bash.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py` — [[姑娘]] only surfaced via the bare-glyph search, same `characters:` field-suffix pattern as [[characters/載 (char)|載]]/[[characters/振 (char)|振]]/[[characters/越 (char)|越]]): added the self-referential `stand_in` [[娘]] alongside the already-listed [[姑娘]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 苗 (5024; 1955 characters remaining).
+
+### 2026-08-05, iteration 545 — [[characters/苗|苗]]
+
+Confirmed `graphemic_classification: 會意` via WebSearch (艸 "grass" + 田 "field" — a sprout rising from a field) and `mc_id: 1519` (`lookup/CC/CC 1000.md` line 544). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets).
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the missing self-referential `stand_in` [[種苗]] and [[苗族]] alongside the already-listed [[苗圃]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 抵 (5025; 1954 characters remaining).
+
+### 2026-08-05, iteration 546 — [[characters/抵|抵]]
+
+Confirmed `graphemic_classification: 氐` via WebSearch (形声, 手 semantic "hand" + 氐 phonetic — "to push against, resist"; possibly related to 擠) and `mc_id: 1540` (`lookup/CC/CC 1000.md` line 565). Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section (previously empty despite the `stand_in` word existing).
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching the character's own `stand_in` field): added [[抵抗]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 裕 (5026; 1953 characters remaining).
+
+### 2026-08-05, iteration 547 — [[characters/裕|裕]]
+
+Confirmed `graphemic_classification: 谷` via WebSearch (形声, 衣 semantic "clothes" + 谷 phonetic, folk-etymologized as "space in the clothes") and `mc_id: 2605` (`lookup/CC/CC 2000.md` line 634). Filled blank `pos: ""` → `性詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already the `stand_in`): added [[富裕]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 盲 (5027; 1952 characters remaining).
+
+### 2026-08-05, iteration 548 — [[characters/盲|盲]]
+
+Confirmed `graphemic_classification: 亡` via WebSearch (形声, 目 semantic "eye" + 亡 phonetic — "blind") and `mc_id: 2262` (`lookup/CC/CC 2000.md` line 275). Filled blank `pos: ""` → `修飾語` (matching the stand_in word [[盲目]]'s own stored pos). Fixed section ordering (`## Words` had been placed before `# Notes`) and merged into the proper structure.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the missing self-referential `stand_in` [[盲目]] and [[盲人]] alongside the already-listed [[盲従]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 亭 (5028; 1951 characters remaining).
+
+### 2026-08-05, iteration 549 — [[characters/亭|亭]]
+
+Confirmed `graphemic_classification: 丁` via WebSearch (形声, semantic from simplified 高/京 "tall building" + 丁 phonetic — Shuowen: "a place of stability for the people, with a tower"; originally roadside rest-stops/watchposts/postal relay stations) and `mc_id: 1051` (`lookup/CC/CC 1000.md` line 56). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already the `stand_in`): added [[亭子]] (whose own page already documents a previously-fixed false-homophone claim with [[停止]]).
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 削 (char) (5029; 1950 characters remaining).
+
+### 2026-08-05, iteration 550 — [[characters/削 (char)|削 (char)]]
+
+Confirmed `graphemic_classification: 肖` via WebSearch (形声, 刀 semantic "knife" + 肖 phonetic — "to scrape, pare, whittle, trim") and `mc_id: 1182` (`lookup/CC/CC 1000.md` line 191). Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets); caught my own first-draft empty ruby reading on [[削除]] by re-grepping the source word file before finalizing.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching what was already listed): added the self-referential `stand_in` [[削]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+**User switched pacing back from continuous mode to a paced ~8-minute loop.** Next never-perfected character by `danayo_id`: 偶 (5030; 1949 characters remaining).
+
+### 2026-08-05, iteration 551 — [[characters/偶|偶]]
+
+Confirmed `graphemic_classification: 禺` via WebSearch (形声, 人 semantic "person" + 禺 phonetic — originally "a statue of a person, an idol," cognate with 遇 "to meet"; extended to "pair, even number" and "by chance") and `mc_id: 1754` (`lookup/CC/CC 1000.md` line 787). Filled blank `pos: ""` → `名詞`. Fixed broken `../`-prefixed link paths and a malformed markdown-link/wikilink mix; merged floating bare initial/final links and 3 informally-cited words into the proper structure.
+
+**Words cross-check** (6 word + 1 chengyu ground-truth hits via `find_citers.py`): only 3 words were previously listed; added the missing self-referential `stand_in` [[偶像]], [[木偶]], [[配偶]], plus the chengyu [[上下無偶]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 僚 (5031; 1948 characters remaining).
+
+### 2026-08-05, iteration 552 — [[characters/僚|僚]]
+
+**Fixed alias contamination**: `繚` (a distinct character meaning "to wind/wrap around") was listed as an alias, but WebSearch confirms it's unrelated to 僚 despite sharing the 尞 phonetic — removed. Also removed `尞` itself from aliases: it's the shared phonetic root of a whole character family (confirmed [[寮]], [[療]], [[瞭]], [[遼]] all independently store `graphemic_classification: 尞`), not a variant specific to 僚 — the same phonetic-root-vs-alias distinction established on [[characters/敏 (char)|敏]]/毎 and [[characters/娘 (char)|娘]]/良 earlier this session. Confirmed `mc_id: 1795` (`lookup/CC/CC 1000.md` line 828). Folded the informal "Added to Korean HS list in 2000" note into the levels bullet.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the missing [[官僚主義]], flagged [[同僚]] as the `stand_in` (reordering ahead of [[官僚]]). **Derived Characters** (already listed, 4 hits): added ruby+gloss to all 4 per checklist convention.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 兼 (char) (5032; 1947 characters remaining).
+
+### 2026-08-05, iteration 553 — [[characters/兼 (char)|兼 (char)]]
+
+Confirmed `graphemic_classification: 會意` via WebSearch (又 "hand" holding two 禾 "grain stalks" — compare [[秉]], a hand holding one stalk) and `mc_id: 822` (`lookup/CC/CC 0000.md` line 852). Replaced the informal "Components: 又, 禾" note + floating bare links with a proper `## Notes` (4 bullets), preserving the useful existing "doubles-as a chair" gloss example.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[兼]]. **Chengyu** (1 hit): added the previously-uncited [[詞彙兼容]]. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 含 (5033; 1946 characters remaining).
+
+### 2026-08-05, iteration 554 — [[characters/含|含]]
+
+Confirmed `graphemic_classification: 今` via WebSearch (形声, 口 semantic "mouth" + 今 phonetic — originally "to hold in the mouth," extended to "contain, include"; cognate with [[函]] "to contain; box") and `mc_id: 1546` (`lookup/CC/CC 1000.md` line 571). Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added both, flagging [[包含]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 妥 (5034; 1945 characters remaining).
+
+### 2026-08-05, iteration 555 — [[characters/妥|妥]]
+
+Confirmed `graphemic_classification: 會意` via WebSearch (爪 "hand" + 女 "woman" — a hand calming a woman down, "to comfort, placate," shifting to "settled, appropriate") and trusted the existing `mc_id: 5362` per the long-tail policy (no local corpus hit for 妥, beyond the ~4000 mirrored range). Filled blank `pos: ""` → `性詞`. Replaced the malformed `# Notes` heading + informally-listed words with a proper `## Notes` (4 bullets) and `## Words` section; caught my own first-draft ruby-reading guess on [[妥協]] by re-grepping the source file before finalizing.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching what was already listed): flagged [[妥当]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 孤 (5035; 1944 characters remaining).
+
+### 2026-08-05, iteration 556 — [[characters/孤|孤]]
+
+Confirmed `graphemic_classification: 瓜` via WebSearch (形声, 子 semantic "child" + 瓜 phonetic — originally "orphan," extended to "alone, solitary") and `mc_id: 786` (`lookup/CC/CC 0000.md` line 813). `pos` was already correctly filled. Fixed broken `../`-prefixed link paths, a malformed markdown-link/wikilink mix, and merged a scrambled body (a `## Chengyu` heading inserted before the words, floating bare initial/final links) into the proper structure.
+
+**Words cross-check** (4 ground-truth hits, matching what was already listed) **+ Chengyu** (2 hits via `find_citers.py`, only 1 previously listed): added the missing [[孤立無援]] alongside [[孤軍奮闘]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 妨 (5036; 1943 characters remaining).
+
+### 2026-08-05, iteration 557 — [[characters/妨|妨]]
+
+Confirmed `graphemic_classification: 方` (形声, 女 semantic "woman" + 方 phonetic — "to hinder, impede, obstruct"; a standard, well-documented phonetic series shared with 仿/芳/房/放) and `mc_id: 2407` (`lookup/CC/CC 2000.md` line 428). Replaced the malformed `# Notes` heading + misplaced `## Words` split with a proper `## Notes` (4 bullets) and single `## Words` section; fixed a `[[方 (char)]]` link to the correct bare filename `方.md`.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching what was already listed): flagged [[妨碍]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 押 (char) (5037; 1942 characters remaining).
+
+### 2026-08-05, iteration 558 — [[characters/押 (char)|押 (char)]]
+
+**Fixed alias contamination**: `狎` (xiá, "to be intimate with, trifle with") was listed as an alias, but WebSearch confirms it's a distinct character (犬 semantic + 甲 phonetic) — related to 押 only by sharing the 甲 phonetic, not a variant. Removed, matching the established pattern (齎/斉, 併/並, 顫/振, 繚/僚). Confirmed `graphemic_classification: 甲` (形声, 手 semantic + 甲 phonetic, originally a shell/carapace pictogram — "to press, mortgage, seal," cognate with 壓) and trusted the existing `mc_id: 5284` per the long-tail policy. Filled blank `pos: ""` → `事詞`. Built the entire `## Notes`/`## Words` structure from scratch.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[押]], [[押韻]], and the neologism [[乳押]] (a genuine Dan'a'yo coinage, per that word's own Notes, not a loan/calque from any of the 5 source languages).
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 抑 (5039; 1941 characters remaining — danayo_id 5038 already perfected).
+
+### 2026-08-05, iteration 559 — [[characters/抑|抑]]
+
+Confirmed `graphemic_classification: 會意` via WebSearch (手 "hand" + 卬 "kneeling person" — a hand suppressing a kneeling person, "to press down, repress, restrain"; noted the parallel composition [[印]], 爪+卩, with a different meaning) and `mc_id: 1444` (`lookup/CC/CC 1000.md` line 465). `pos` was already correctly filled. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets).
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the missing self-referential `stand_in` [[抑止]] alongside the already-listed [[抑制]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 斥 (5040; 1940 characters remaining).
+
+### 2026-08-05, iteration 560 — [[characters/斥|斥]]
+
+Confirmed `graphemic_classification: 屰` via WebSearch (形声, originally written 㡿 — semantic 广 "building" + phonetic 屰; 屰 later became 干, 广 sometimes 厂, giving the modern form) and `mc_id: 1871` (`lookup/CC/CC 1000.md` line 908). Filled blank `pos: ""` → `事詞`. Fixed section ordering (`## Words` had been placed before `# Notes`) and merged into the proper structure.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[排斥]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 拳 (5041; 1939 characters remaining).
+
+### 2026-08-05, iteration 561 — [[characters/拳|拳]]
+
+Confirmed `graphemic_classification: 巻` via WebSearch (形声, 手 semantic "hand" + phonetic derived from 卷/巻 "to bend, curve" — a fist is a curled hand) and `mc_id: 3123` (`lookup/CC/CC 3000.md` line 132). Filled blank `pos: ""` → `名詞`. Built the entire `## Notes`/`## Words` structure from scratch (page previously had only floating bare initial/final links).
+
+**Words cross-check** (5 ground-truth hits via `find_citers.py`, page previously had zero Words listed): added all 5, flagging [[拳骨]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 愚 (char) (5042; 1938 characters remaining).
+
+### 2026-08-05, iteration 562 — [[characters/愚 (char)|愚 (char)]]
+
+Confirmed `graphemic_classification: 禺` via WebSearch (形声, 心 semantic "heart" + 禺 phonetic — "foolish, stupid") and `mc_id: 725` (`lookup/CC/CC 0000.md` line 752). Filled blank `pos: ""` → `性詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets).
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[愚]] alongside the already-listed [[下愚]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 枕 (5043; 1937 characters remaining).
+
+### 2026-08-05, iteration 563 — [[characters/枕|枕]]
+
+Confirmed `graphemic_classification: 冘` via WebSearch (形声, 木 semantic "wood" + 冘 phonetic — "pillow," cognate with Burmese ခုံ "raised block") and `mc_id: 2176` (`lookup/CC/CC 2000.md` line 185). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already the `stand_in`): added [[枕頭]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 漫 (5044; 1936 characters remaining).
+
+### 2026-08-05, iteration 564 — [[characters/漫|漫]]
+
+Confirmed `graphemic_classification: 曼` via WebSearch (形声, 水 semantic "water" + 曼 phonetic "vast, extended" — "water overflowing," extended to "pervade, fill") and `mc_id: 2831` (`lookup/CC/CC 2000.md` line 868). Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading + misplaced `## Words` with a proper single-pass structure.
+
+**Words cross-check** (2 word + 1 chengyu ground-truth hits via `find_citers.py`): added the missing self-referential `stand_in` [[弥漫]] and the chengyu [[天真乱漫]], alongside the already-listed [[乱漫]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 洪 (5045; 1935 characters remaining).
+
+### 2026-08-05, iteration 565 — [[characters/洪|洪]]
+
+Confirmed `graphemic_classification: 共` via WebSearch (形声, 水 semantic "water" + 共 phonetic — "flood, deluge," also "big, vast, grand") and `mc_id: 1636` (`lookup/CC/CC 1000.md` line 665). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already the `stand_in`): added [[洪水]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+**User switched pacing from 8 minutes to 10 minutes.** Next never-perfected character by `danayo_id`: 辱 (5046; 1934 characters remaining).
+
+### 2026-08-05, iteration 566 — [[characters/辱|辱]]
+
+Confirmed `graphemic_classification: 會意` via WebSearch (辰 "farming tool" + 寸 "hand" — a hand using a farming tool to remove weeds, original meaning now written as 耨 "to weed"; shifted to "disgrace, humiliate") and `mc_id: 790` (`lookup/CC/CC 0000.md` line 817). Filled blank `pos: ""` → `事詞`. Built the entire `## Notes`/`## Words`/`## Chengyu` structure from scratch (page previously had only floating bare initial/final links).
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`) **+ Chengyu** (1 hit): added all, flagging [[羞辱]] as the `stand_in`.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 衡 (5048; 1933 characters remaining — danayo_id 5047 already perfected).
+
+### 2026-08-05, iteration 567 — [[characters/衡|衡]]
+
+**Fixed a doubly-wrong etymology bullet**: the existing Notes claimed "semantic 行 ('horn') + phonetic 角," but WebSearch confirms both the labels and the roles were wrong — 行 is the *phonetic* component (not semantic, and it means "to go/road," not "horn"), while 角 ("horn") is one of the *semantic* components (paired with 大, "person") in this 形声 compound: a person with a single unbalanced horn, shifted to "to weigh, measure, balance." The stored `graphemic_classification: 行` frontmatter field itself was already correct (it stores the phonetic component name per convention) — only the prose Notes bullet had the error. Confirmed `mc_id: 809` (`lookup/CC/CC 0000.md` line 839). Filled blank `pos: ""` → `事詞`. Folded the informal "Added to Korean HS list in 2000" note into the levels bullet.
+
+**Words** (2 hits, already listed, reformatted with `stand_in` flag) **+ Chengyu** (1 hit via `find_citers.py`, previously uncited): added [[数数衡分]] (the Belshazzar's-feast "Mene, mene, tekel, upharsin" idiom).
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 旋 (5049; 1932 characters remaining).
+
+### 2026-08-05, iteration 568 — [[characters/旋|旋]]
+
+Confirmed `graphemic_classification: 會意` via WebSearch (㫃 "flag" + 疋 "foot" — marching under a flag, extended to "revolve, turn, return") and `mc_id: 1667` (`lookup/CC/CC 1000.md` line 696). Verified the `aliases: [鏇]` entry is legitimate (a documented xuàn-toned variant specifically for the lathe-turning sense), not contamination. Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`, page previously had zero Words listed): added all 3, flagging [[旋転]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 衰 (5051; 1931 characters remaining — danayo_id 5050 already perfected).
+
+### 2026-08-05, iteration 569 — [[characters/衰|衰]]
+
+Confirmed `graphemic_classification: 象形` via WebSearch (a pictogram of a palm-fiber raincoat, original form of 蓑; borrowed for "weak, exhausted," then also for "mourning clothes" and "raincoat" until 縗 and 簑/蓑 were coined to take over those senses) and `mc_id: 620` (`lookup/CC/CC 0000.md` line 644). Filled blank `pos: ""` → `事詞`. Merged floating bare initial/final links and an informally-cited word into the proper structure.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the missing self-referential `stand_in` [[衰弱]] and [[盛衰]] alongside the already-listed [[衰退]]. **Chengyu** (3 hits, 2 already listed): added the missing [[盛衰栄辱]] (already perfected on [[characters/辱|辱]] the prior iteration).
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 漆 (char) (5052; 1930 characters remaining).
+
+### 2026-08-05, iteration 570 — [[characters/漆 (char)|漆 (char)]]
+
+**Fixed a wrong `graphemic_classification`**: stored as `會意` (ideogrammic), but WebSearch confirms Wiktionary classifies 漆 as `形声` (phono-semantic) — semantic 水 "water" + phonetic 桼 "lacquer tree sap" (itself a pictogram of sap oozing from a tree). 桼 was the original character for lacquer, with 水 added later — confirming the existing `aliases: [桼]` is a genuine historical-ancestor relationship, not contamination. Confirmed `mc_id: 1720` (`lookup/CC/CC 1000.md` line 753). Filled blank `pos: ""` → `名詞`. Preserved and properly formatted the existing "anti-forgery form of 七" observation, folding it into the graphemic bullet.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[漆]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 爆 (5053; 1929 characters remaining).
+
+### 2026-08-05, iteration 571 — [[characters/爆|爆]]
+
+Confirmed `graphemic_classification: 暴` via WebSearch (形声, 火 semantic "fire" + 暴 phonetic "violence" — "to explode, burst") and trusted the existing large `mc_id: 9174` per the long-tail policy. Filled blank `pos: ""` → `事詞`. Fixed a `../`-prefixed final-韻 link baked into the wikilink itself (a recurring defect class per the checklist) and replaced the malformed `# Notes` heading with a proper structure.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[爆発]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 猛 (5054; 1928 characters remaining).
+
+### 2026-08-05, iteration 572 — [[characters/猛|猛]]
+
+Confirmed `graphemic_classification: 孟` via WebSearch (形声, 犬 semantic "dog" + 孟 phonetic — "fierce, strong, furious") and `mc_id: 1348` (`lookup/CC/CC 1000.md` line 365). Filled blank `pos: ""` → `性詞`. Replaced the malformed `# Notes` heading + informally-cited word with a proper `## Notes` (4 bullets) and `## Words` section; caught my own first-draft empty ruby readings by re-grepping the source word files before finalizing.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[猛烈]] alongside the already-listed [[猛禽]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 疾 (5055; 1927 characters remaining).
+
+### 2026-08-05, iteration 573 — [[characters/疾|疾]]
+
+Confirmed `graphemic_classification: 矢` via WebSearch — a debated case, so researched thoroughly: the oracle-bone form depicts an arrow striking a person, and while some modern scholars argue 矢 isn't a true phonetic, the traditional Shuowen analysis (形声, 疒 semantic + 矢 phonetic) is what the vault's stored value reflects, and two originally distinct words ("illness" and "fast/urgent") merged into this one character. Confirmed `mc_id: 322` (`lookup/CC/CC 0000.md` line 337). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + floating bare links with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already the `stand_in`): added [[疾病]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 蜜 (5056; 1926 characters remaining).
+
+### 2026-08-05, iteration 574 — [[characters/蜜|蜜]]
+
+Confirmed `graphemic_classification: 宓` via WebSearch (形声, 虫 semantic "insect" + 宓 phonetic) and `mc_id: 2993` (`lookup/CC/CC 2000.md` line 1034). Filled blank `pos: ""` → `名詞`. Found and included a genuinely interesting etymological detail: the word 蜜 itself is likely an ancient Indo-European loanword, possibly via Tocharian B, ultimately cognate with English "mead" (PIE \*médʰu) — one of the few clearly Indo-European loans in Chinese. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets).
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`, only 1 previously listed) **+ Chengyu** (1 hit, previously uncited): added [[蜜月]], [[蜜柑]], and [[乳蜜流地]] ("a land flowing with milk and honey").
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 租 (5057; 1925 characters remaining).
+
+### 2026-08-05, iteration 575 — [[characters/租|租]]
+
+Confirmed `graphemic_classification: 且` via WebSearch (形声, 禾 semantic "grain" + 且 phonetic — originally "land tax," paid in grain, shifted to "rent, hire") and `mc_id: 1645` (`lookup/CC/CC 1000.md` line 674). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets); fixed both graphemic component links to their correct `(char)`-suffixed filenames.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[租金]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 踏 (5058; 1924 characters remaining).
+
+### 2026-08-05, iteration 576 — [[characters/踏|踏]]
+
+Confirmed `graphemic_classification: 沓` via WebSearch (形声, 足 semantic "foot" + 沓 phonetic — "to step on, tread") and trusted the existing large `mc_id: 6706` per the long-tail policy. Verified the `aliases: [蹈, 𨂻]` entries are legitimate: 蹈 (a distinct character, own etymology) is a documented substitute-character relationship (e.g. 舞蹈→舞踏), not contamination — the same pattern as [[characters/旋|旋]]/鏇 earlier this session. Also confirmed `stand_in: 踐踏` matches [[践踏]]'s own documented `aliases: [踐踏]` field, so the traditional-form reference is intentional, not a mismatch. Filled blank `pos: ""` → `事詞`. Fixed section ordering (`## Words` had been placed before `# Notes`) and merged into the proper structure.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[践踏]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 眉 (char) (5059; 1923 characters remaining).
+
+### 2026-08-05, iteration 577 — [[characters/眉 (char)|眉 (char)]]
+
+**Fixed alias contamination on both entries at once**: `媚` (女 semantic + 眉 phonetic, "charming, to flatter") and `嵋` (山 semantic + 眉 phonetic, part of the Mount Emei place name) were both listed as aliases, but WebSearch confirms both are distinct derived characters that merely use 眉 as their own phonetic component — 眉 is the phonetic *root* of a small family here, not a character with two variant forms. Removed both (neither has a vault page). Confirmed `graphemic_classification: 象形` (𠃜 "hair" + 目 "eye," depicting hair above an eye; cognate with Tibetan སྨིན་མ "eyebrow") and `mc_id: 1541` (`lookup/CC/CC 1000.md` line 566). Filled blank `pos: ""` → `名詞`.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[眉]] alongside the already-listed [[嬌媚]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 獲 (5060; 1922 characters remaining).
+
+### 2026-08-05, iteration 578 — [[characters/獲|獲]]
+
+**Session's WebSearch quota exhausted mid-iteration** — proceeded on well-established domain knowledge instead (犬 semantic, reflecting the hunting origin of "to catch, seize"; 蒦 phonetic) rather than fabricating or skipping verification. Confirmed `mc_id: 631` locally (`lookup/CC/CC 0000.md` line 655). Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets) and `## Words` section built from scratch.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added both, flagging [[獲得]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 衝 (char) (5061; 1921 characters remaining).
+
+### 2026-08-05, iteration 579 — [[characters/衝 (char)|衝 (char)]]
+
+WebSearch quota still exhausted — proceeded on domain knowledge (行 semantic "road/thoroughfare" + 重 phonetic, matching the stored `graphemic_classification: 重`; 冲 confirmed as the standard simplified form, not contamination). Confirmed `mc_id: 1639` locally (`lookup/CC/CC 1000.md` line 668). Filled blank `pos: ""` → `事詞`. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[衝]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 旦 (5062; 1920 characters remaining).
+
+### 2026-08-05, iteration 580 — [[characters/旦|旦]]
+
+WebSearch quota still exhausted — confirmed `graphemic_classification: 指事` via domain knowledge (a classic, textbook 指事 example: 日 "sun" above 一 "the ground/horizon," depicting sunrise/dawn) and `mc_id: 853` locally (`lookup/CC/CC 0000.md` line 883). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading + informally-cited word with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the missing self-referential `stand_in` [[元旦]] and [[一旦]] alongside the already-listed [[旦夕]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 繁 (5063; 1919 characters remaining).
+
+### 2026-08-05, iteration 581 — [[characters/繁|繁]]
+
+**Fixed a swapped-and-mislabeled etymology bullet**: the existing Notes claimed "semantic 敏 ('silk') + phonetic 糸," but this is backwards on every count — 糸 means "silk" (not 敏, which means "quick, clever," as already established on [[characters/敏 (char)|敏]] earlier this session with the exact same OC readings *mrɯʔ/*mrɯŋʔ that had been mis-attached to "糸" here) and per the stored `graphemic_classification: 敏` (the phonetic-component-name convention), 敏 should be the phonetic, 糸 the semantic — the reverse of what the prose said. Corrected via domain knowledge (WebSearch quota still exhausted): 形声, 糸 semantic (numerous silk threads) + 敏 phonetic, "numerous, lush, complicated." Confirmed `mc_id: 1512` locally (`lookup/CC/CC 1000.md` line 537). Filled blank `pos: ""` → `性詞`. Preserved the existing "not 蕃殖" disambiguation note.
+
+**Words cross-check** (6 ground-truth hits via `find_citers.py`, only 2 previously listed): added the missing self-referential `stand_in` [[繁茂]] (reordered to lead), [[繁殖]], [[繁忙]], [[繁多]], [[繁体字]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 旬 (5064; 1918 characters remaining).
+
+### 2026-08-05, iteration 582 — [[characters/旬|旬]]
+
+**Fixed another garbled etymology bullet**: the existing Notes claimed "形声, semantic 螾 ('sun; day') + phonetic 日," but 螾 is an unrelated earthworm character (dialectal variant of 蚓) with no connection to "sun/day" — this looks like a data-corruption artifact, not a legitimate alternate analysis. Corrected via domain knowledge (WebSearch quota still exhausted) to the standard analysis matching the stored `graphemic_classification: 會意`: 勹 ("to wrap, enclose") + 日 ("sun, day") — depicting a full ten-day cycle, the ancient Chinese calendar's 旬 period (days named by the 十干 heavenly stems). Confirmed `mc_id: 1837` locally (`lookup/CC/CC 1000.md` line 874). Filled blank `pos: ""` → `名詞`. Fixed two dead relative-path markdown links (`/words/旬日.md`, `words/上旬.md`) to proper wikilinks with ruby+gloss.
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`, only 2 previously listed): added the missing self-referential `stand_in` [[旬日]] (reordered to lead) and [[中旬]], alongside [[上旬]] and [[下旬]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 索 (5065; 1917 characters remaining).
+
+### 2026-08-05, iteration 583 — [[characters/索|索]]
+
+**Fixed a frontmatter/prose mismatch**: `graphemic_classification` was stored as `象形`, but the page's own existing Notes bullet already correctly described a 会意 composition (糸 "thread" + 𣎳 "hands stripping hemp fiber," depicting rope-making) — corrected the frontmatter to `會意` to match, via domain knowledge (WebSearch quota still exhausted). **Fixed a `stand_in` pointing to a nonexistent word**: stored as `繩索`, but no such word page exists anywhere in the vault — the same bug class found earlier on [[characters/喉|喉]]/喉頭. Retargeted to [[捜索]], a real citing word confirmed via `find_citers.py`. Confirmed `mc_id: 1190` locally (`lookup/CC/CC 1000.md` line 199). Filled blank `pos: ""` → `名詞`. Fixed a `../`-prefixed final-韻 link baked into the wikilink itself.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the corrected `stand_in` [[捜索]] and [[探索]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 絡 (char) (5066; 1916 characters remaining).
+
+### 2026-08-05, iteration 584 — [[characters/絡 (char)|絡 (char)]]
+
+**Fixed alias contamination**: `珞` (王/玉 semantic + 各 phonetic, "jade ornament," as in 瓔珞) was listed as an alias, but it's a distinct derived character sharing only the 各 phonetic with 絡 — the same "shared phonetic root, not a variant" pattern seen repeatedly this session (敏/毎, 娘/良, etc., but here as contamination rather than a legitimate root). Removed, along with a dangling note ("瓔珞 --> 䋝絡/纓絡") that referenced word/chengyu pages confirmed via `find_citers.py`-adjacent lookup to not exist anywhere in the vault. Confirmed `mc_id: 1452` locally (`lookup/CC/CC 1000.md` line 473) and `graphemic_classification: 各` via domain knowledge (形声, 糸 semantic "thread" + 各 phonetic — "wrapped in thread"). Filled blank `pos: ""` → `事詞`. Fixed a `../`-prefixed final-韻 link baked into the wikilink itself.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[絡]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 頃 (char) (5067; 1915 characters remaining).
+
+### 2026-08-05, iteration 585 — [[characters/頃 (char)|頃 (char)]]
+
+**Fixed a wrong `graphemic_classification`**: stored as `匕` (a component-name value, which per convention would only be valid for a 形声 phonetic), but domain knowledge (WebSearch quota still exhausted) places 頃 as `會意`: 匕 ("person, tilted/upside down") + 頁 ("head") — a person with head tilted, the original sense now written as 傾; extended to "a brief moment" and, as 顷, a PRC land-area unit. Corrected the field to the type name `會意` per convention. Confirmed `mc_id: 963` locally (`lookup/CC/CC 0000.md` line 996). Filled blank `pos: ""` → `名詞`. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[頃]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 騒 (char) (5068; 1914 characters remaining).
+
+### 2026-08-05, iteration 586 — [[characters/騒 (char)|騒 (char)]]
+
+Confirmed `graphemic_classification: 蚤` via domain knowledge (WebSearch quota still exhausted): 形声, 馬 semantic (a horse's restlessness/itching) + 蚤 phonetic ("flea") — "to disturb, agitate," extended to "boisterous." Confirmed the `aliases: [騷]` entry is a genuine traditional-form variant (騷/骚/騒 are the traditional/simplified/shinjitai forms respectively), not contamination, and that `mc_id: 2358` is correctly recorded under the traditional form 騷 (`lookup/CC/CC 2000.md` line 375). Filled blank `pos: ""` → `性詞`. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[騒]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 娯 (5069; 1913 characters remaining).
+
+### 2026-08-05, iteration 587 — [[characters/娯|娯]]
+
+Confirmed `graphemic_classification: 呉` via domain knowledge (形声, 女 semantic + 呉/吳 phonetic — "to entertain, amuse") and that the existing `aliases: [娛, 娱]` are genuine traditional/simplified variants, matching the pattern just established on [[characters/騒 (char)|騒]]. Confirmed `mc_id: 2359` locally (`lookup/CC/CC 2000.md` line 376, recorded under the traditional form 娛). Filled in the previously-empty OC readings and semantic/phonetic glosses (the Notes bullet had blank parenthetical placeholders). Confirmed blank `hsk_level: ""` correctly renders as "No HSK" per established vault convention — left as-is, not an error.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[娯楽]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 寧 (5070; 1912 characters remaining).
+
+### 2026-08-05, iteration 588 — [[characters/寧|寧]]
+
+**Left `graphemic_classification: 寍` unchanged despite a real uncertainty**: domain knowledge (WebSearch quota still exhausted) suggests the more commonly cited etymology is 形声 with phonetic 丂 + semantic 寍 (itself 宀+心+皿), which per the vault's phonetic-component-name convention would mean the field should store `丂` rather than `寍`. Without search verification I judged the risk of introducing an error too high to reclassify a field with no contradicting in-page evidence (unlike [[characters/繁|繁]]/[[characters/旬|旬]]/[[characters/索|索]] earlier, where the page's own Notes text openly contradicted the frontmatter) — documented both components honestly in the Notes bullet instead of asserting a specific phonetic/semantic split. Confirmed `mc_id: 749` locally (`lookup/CC/CC 0000.md` line 776). Filled blank `pos: ""` → `性詞`.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added both, flagging [[安寧]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 峰 (5071; 1911 characters remaining).
+
+### 2026-08-05, iteration 589 — [[characters/峰|峰]]
+
+Light iteration — `pos` and the Words section were already correctly filled. Confirmed `graphemic_classification: 夆` via domain knowledge (形声, 山 semantic "mountain" + 夆 phonetic — "summit, peak"; 峯 a legitimate variant with 山 above rather than beside 夆) and trusted the existing large `mc_id: 6815` per the long-tail policy. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets).
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was already listed): flagged [[高峰]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 廃 (5072; 1910 characters remaining).
+
+### 2026-08-05, iteration 590 — [[characters/廃|廃]]
+
+Light iteration — `pos` was already correctly filled and all 4 words were already listed (just needed ruby+gloss consolidation). Confirmed `graphemic_classification: 發` via domain knowledge (形声, 广 semantic "building," implying a dilapidated one, + 發 phonetic — "to abrogate, discard, abandon") and `mc_id: 513` locally (`lookup/CC/CC 0000.md` line 534, recorded under the traditional form 廢). Fixed a phonetic-component link pointing to a nonexistent traditional-form filename (發.md doesn't exist; the vault uses the shinjitai 発).
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`, matching what was already listed): flagged [[廃棄]] as the `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 懸 (char) (5073; 1909 characters remaining).
+
+### 2026-08-05, iteration 591 — [[characters/懸 (char)|懸 (char)]]
+
+**Fixed a phonetically implausible `graphemic_classification`**: stored as `絶` (OC *zet, "to sever"), which shares no phonetic resemblance to 懸 (xuán) at all. Corrected via domain knowledge (WebSearch quota still exhausted) to `縣` — near-homophonous with 懸, originally depicting "hanging" before specializing to "county, district," and the standard cited phonetic for this character (心 semantic "heart," implying anxious suspense, + 縣 phonetic). Confirmed `mc_id: 1574` locally (`lookup/CC/CC 1000.md` line 599). Filled blank `pos: ""` → `事詞`. Rebuilt the malformed Notes/Words split.
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py` — [[懸垂]]/[[懸壅垂]] only surfaced via the bare-glyph search, same `characters:` field-suffix inconsistency seen repeatedly this session): added the missing self-referential `stand_in` [[懸心]] (reordered to lead) alongside [[懸垂]] and [[懸壅垂]].
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 慎 (5074; 1908 characters remaining).
+
+### 2026-08-05, iteration 592 — [[characters/慎|慎]]
+
+**Fixed alias contamination**: `恂` (xún, "sincere, cautious") was listed as an alias, but it's a distinct character with a different pronunciation and phonetic component (心 semantic + 旬 phonetic vs 慎's 心 + 真) — related only by shared meaning-adjacency and the 心 radical, not a variant. Removed via domain knowledge (WebSearch quota still exhausted). Confirmed `graphemic_classification: 真` (形声, 心 semantic + 真 phonetic — "cautious, prudent") and `mc_id: 741` locally (`lookup/CC/CC 0000.md` line 768). `pos` was already correctly filled. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets) and `## Words` section built from scratch.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[謹慎]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 惨 (char) (5075; 1907 characters remaining).
+
+### 2026-08-05, iteration 593 — [[characters/惨 (char)|惨 (char)]]
+
+Confirmed `graphemic_classification: 參` via domain knowledge (形声, 心 semantic + 參/参 phonetic — "wretched, cruel, miserable") and `mc_id: 2649` locally (`lookup/CC/CC 2000.md` line 678, recorded under the traditional form 慘). `pos` was already correctly filled. Replaced the malformed `# Notes` heading with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, [[凄惨]] only surfacing via the bare-glyph search due to the recurring `characters:` field-suffix inconsistency): added the self-referential `stand_in` [[惨]] and [[凄惨]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 捜 (5076; 1906 characters remaining).
+
+### 2026-08-06, iteration 594 — [[characters/捜|捜]]
+
+Confirmed `graphemic_classification: 叟` via domain knowledge (WebSearch quota still exhausted; 形声, 手 semantic "hand" + 叟 phonetic sōu "old man" — "to search, look for"). **Fixed `mc_id`**: stored as `2704`, which corresponds to 底 in `lookup/CC/CC 2000.md` line 737; corrected to `2705`, the real entry for 搜 (traditional form) one line below. **Fixed alias contamination**: `廋` (sōu, "to hide, conceal," 广 semantic "building") is a distinct character with its own etymology, occasionally used as a phonetic loan for 搜/捜 in classical texts but not a true graphemic variant — removed, leaving only the legitimate traditional form `搜`. `pos` was already correctly filled (`事詞`). Rebuilt the empty `## Notes` (4 bullets) and the malformed `## Words` section (previously a bare `[[捜索]]` link with floating, unlinked initial/final references beneath it).
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, tried both `捜` and `捜 (char)` forms): added the self-referential `stand_in` [[捜索]], correcting its ruby from a guessed reading to the real one (ㄙㄛㄨㄙㄚㄎ, verified against `words/捜索.md`). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 綱 (5077; 1905 characters remaining).
+
+### 2026-08-06, iteration 595 — [[characters/綱|綱]]
+
+Confirmed `graphemic_classification: 岡` via domain knowledge (形声, 糸 semantic "thread" + 岡 phonetic gāng — "the main rope from which netting hangs," extended to "guiding principle, outline"); corrected the component link, which pointed to a nonexistent `岡 (char)` page, to the real bare-glyph page `[[岡]]`. **Fixed `mc_id`**: stored as `1626`, which corresponds to 璽 in `lookup/CC/CC 1000.md` line 655; corrected to `1627`, the real entry for 綱 one line below. Filled the empty `pos` field (`名詞`, matching the noun-like sibling character 索). Alias `纲` (simplified form) confirmed legitimate. Replaced the malformed `# Notes` heading (with two bare, unlinked initial/final references and a single informally-linked Words bullet) with a proper `## Notes` (4 bullets), `## Words`, and `## Chengyu` section.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[大綱]], plus [[三綱]] and [[綱要]]. **Chengyu** (1 ground-truth hit): added [[三綱五常]]. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 緩 (5078; 1904 characters remaining).
+
+### 2026-08-06, iteration 596 — [[characters/緩|緩]]
+
+Confirmed `graphemic_classification: 爰` via domain knowledge (形声, 糸 semantic "thread," implying a loosened/slackened thread, + 爰 phonetic yuán — "slack, slow, sluggish") and `mc_id: 1247` locally (`lookup/CC/CC 1000.md` line 260 — correct, no fix needed). Filled the empty `pos` field (`性詞`, matching the adjective-like sibling word 緩慢). Alias `缓` (simplified form) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[緩慢]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 汗 (char) (5079; 1903 characters remaining).
+
+### 2026-08-06, iteration 597 — [[characters/汗 (char)|汗 (char)]]
+
+Confirmed `graphemic_classification: 干` via domain knowledge (形声, 水 semantic "water" + 干 phonetic gān — "sweat") and `mc_id: 999` locally (`lookup/CC/CC 0000.md` line 1032 — correct, no fix needed). Filled the empty `pos` field (`名詞`). No aliases to assess (field empty). Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words/Chengyu sections) with a proper `## Notes` (4 bullets), `## Words`, and `## Chengyu` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[汗]]. **Chengyu** (1 ground-truth hit): added [[汗食帰泥]] (Biblical chengyu, Genesis 3:19). **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 罰 (5080; 1902 characters remaining).
+
+### 2026-08-06, iteration 598 — [[characters/罰|罰]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (Shuowen: 网/罒 "net," implying an offense caught, + 言 "words, scolding" — together 詈 "to curse, rebuke" — + 刀 "knife," implying punishment — "penalty, to punish") and `mc_id: 612` locally (`lookup/CC/CC 0000.md` line 636 — correct, no fix needed). Filled the empty `pos` field (`事詞`, matching the verb-like stand-in word 懲罰). Alias `罚` (simplified form) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[懲罰]] and [[刑罰]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 脅 (5081; 1901 characters remaining).
+
+### 2026-08-06, iteration 599 — [[characters/脅|脅]]
+
+Confirmed `graphemic_classification: 劦` via domain knowledge (形声, 肉 semantic "flesh," originally "ribs, the sides of the body," + 劦 phonetic — extended metaphorically to "coerce, threaten"). **Fixed `mc_id`**: stored as `1412`, which corresponds to 淺 in `lookup/CC/CC 1000.md` line 433; corrected to `1413`, the real entry for 脅 one line below. Filled the empty `pos` field (`事詞`, matching the sibling verb-like word 脅威). Assessed both aliases: `胁` (simplified) legitimate; `脇` (a Japanese kyūjitai variant of 脅, "side, flank" — confirmed it has its own separate Classical Chinese corpus entry at `CC 3000.md` line 6, but no distinct vault page of its own) also legitimate, kept as an alias. Rebuilt the malformed `## Notes` (two bare, unlinked initial/final references) into a proper 4-bullet section; the `## Words` section already existed but was missing the `stand_in` annotation.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching the page's existing single entry): added the `(stand-in for 脅)` tag to [[脅威]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 唇 (char) (5082; 1900 characters remaining).
+
+### 2026-08-06, iteration 600 — [[characters/唇 (char)|唇 (char)]]
+
+Confirmed `graphemic_classification: 辰` via domain knowledge (形声, 口 semantic "mouth" + 辰 phonetic — "lips") and `mc_id: 2907` locally (`lookup/CC/CC 2000.md` line 948 — correct, no fix needed). `pos` was already correctly filled (`名詞`). Alias `脣` (traditional form, 肉 semantic "flesh" instead of 口 — confirmed it has its own separate Classical Chinese corpus entry at line 927, but no distinct vault page of its own) confirmed legitimate. Rebuilt the malformed `## Notes` (two bare, unlinked initial/final references, missing Words section) into a proper 4-bullet section plus a `## Words` section; the pre-existing `## Chengyu` section was left untouched.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[唇]]. **Chengyu** (1 ground-truth hit, already present): confirmed [[唇亡歯寒]] correct. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 胞 (5083; 1899 characters remaining).
+
+### 2026-08-06, iteration 601 — [[characters/胞|胞]]
+
+Confirmed `graphemic_classification: 包` via domain knowledge (形声, 肉 semantic "flesh" + 包 phonetic bāo "to wrap" — "womb, placenta" — that which wraps the fetus — extended to "membrane, sac" and, via the modern coinage 細胞, to "biological cell"). **Fixed `mc_id`**: stored as `3699`, which corresponds to 衿 in `lookup/CC/CC 3000.md` line 728; corrected to `3700`, the real entry for 胞 one line below. Filled the empty `pos` field (`名詞`). No aliases to assess (field empty). Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, one informally-linked Words bullet) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[胞衣]], plus [[同胞]], [[細胞]] (the Meiji-era Japanese neologism for "cell," confirmed via the word page's own etymology notes), and [[胞子]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 騰 (5084; 1898 characters remaining).
+
+### 2026-08-06, iteration 602 — [[characters/騰|騰]]
+
+**Fixed garbled etymology**: the Notes bullet wrongly labeled the semantic component as 朕 glossed "horse" (朕 does not mean "horse") and left the phonetic link empty. Corrected via domain knowledge to the standard etymology: 形声, 馬 semantic ("horse") + 朕 phonetic — "a horse's leap, gallop, prance," extended to "to soar, rise, ascend." `graphemic_classification: 朕` was already correct, matching this corrected analysis. `mc_id: 1817` verified correct locally (`lookup/CC/CC 1000.md` line 854). Filled the empty `pos` field (`動詞`, matching the sibling verb word 騰貴). Alias `腾` (simplified) confirmed legitimate. Dropped an ad hoc, non-standard "Added to the Korean HS list in 2000" line and two bare unlinked initial/final references, replacing them with the standard 4-bullet structure.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the `(stand-in for 騰)` tag to the existing [[騰貴]] and added [[奔騰]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 薦 (5085; 1897 characters remaining).
+
+### 2026-08-06, iteration 603 — [[characters/薦|薦]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (Shuowen: 艸 "grass" + 廌, a mythical beast with no vault page — grass laid out as fodder/bedding for the beast, hence "mat, offering," extended to "to put forward, recommend") and `mc_id: 936` locally (`lookup/CC/CC 0000.md` line 969 — correct, no fix needed). Filled the empty `pos` field (`事詞`, matching the stand-in word 推薦). Alias `荐` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[推薦]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 襲 (5086; 1896 characters remaining).
+
+### 2026-08-06, iteration 604 — [[characters/襲|襲]]
+
+Confirmed `graphemic_classification: 龖` via domain knowledge (Shuowen: 从衣龖省 — 衣 semantic "robe," originally "a left-lapped padded robe with overlapping flaps," + phonetic 龖, an abbreviated archaic doubled-dragon component with no vault page — extended from "overlapping layers" to "to attack by surprise, ambush") and `mc_id: 1018` locally (`lookup/CC/CC 1000.md` line 23 — correct, no fix needed). Filled the empty `pos` field (`動詞`, matching the sibling verb word 掩襲). Alias `袭` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references) with a proper `## Notes` (4 bullets); the pre-existing `## Words` section was correct but missing the `stand_in` annotation.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching the page's existing single entry): added the `(stand-in for 襲)` tag to [[掩襲]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 懐 (char) (5087; 1895 characters remaining).
+
+### 2026-08-06, iteration 605 — [[characters/懐 (char)|懐 (char)]]
+
+Confirmed `graphemic_classification: 褱` via domain knowledge (形声, 心 semantic "heart" + 褱 phonetic huái, "to carry inside one's clothes," no vault page — "to hold dear in one's heart, to miss, to think of") and `mc_id: 575` locally (`lookup/CC/CC 0000.md` line 596, recorded under the traditional form 懷 — correct, no fix needed). `pos` was already correctly filled (`事詞`). Alias `懷` (traditional form) confirmed legitimate. Consolidated a malformed `# Notes` heading (bare, unlinked initial/final references, plus two Words-appropriate bullets misplaced under Notes) and a separate `## Words` heading with only one entry into a single proper `## Notes` (4 bullets) + `## Words` section.
+
+**Words cross-check** (5 ground-truth hits via `find_citers.py`, requiring both the bare `懐` and `懐 (char)` forms to surface all citations): added the self-referential `stand_in` [[懐]], plus [[懐抱]], [[懐孕]], [[懐愁]], and [[懐疑]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 謡 (5088; 1894 characters remaining).
+
+### 2026-08-06, iteration 606 — [[characters/謡|謡]]
+
+Confirmed `graphemic_classification: 䍃` via domain knowledge (形声, 言 semantic "words, speech" + 䍃 phonetic yáo — "song, ballad") and `mc_id: 2367` locally (`lookup/CC/CC 2000.md` line 384, recorded under the traditional form 謠 — correct, no fix needed). Filled the empty `pos` field (`名詞`). Both aliases confirmed legitimate: `謠` (traditional) and `谣` (simplified). Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references) with a proper `## Notes` (4 bullets); the pre-existing `## Words` section was correct but missing the `stand_in` annotation and one citation.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the `(stand-in for 謡)` tag to the existing [[歌謡]] and added [[民謡]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 謙 (5089; 1893 characters remaining).
+
+### 2026-08-06, iteration 607 — [[characters/謙|謙]]
+
+Confirmed `graphemic_classification: 兼` via domain knowledge (形声, 言 semantic "words, speech" + 兼 phonetic qiān — "self-effacing, humble," careful/modest speech) and `mc_id: 1292` locally (`lookup/CC/CC 1000.md` line 305 — correct, no fix needed). `pos` was already correctly filled (`性詞`). Alias `谦` (simplified) confirmed legitimate. Replaced the malformed `## Notes` (two bare, unlinked initial/final references) with a proper 4-bullet section; the pre-existing `## Words` section was correct but missing the `stand_in` annotation.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching the page's existing single entry): added the `(stand-in for 謙)` tag to [[謙遜]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 謹 (5090; 1892 characters remaining).
+
+### 2026-08-06, iteration 608 — [[characters/謹|謹]]
+
+Confirmed `graphemic_classification: 菫` via domain knowledge (形声, 言 semantic "words, speech" + 菫 phonetic jǐn — "prudent, cautious," careful in speech) and `mc_id: 876` locally (`lookup/CC/CC 0000.md` line 906 — correct, no fix needed). Filled the empty `pos` field (`性詞`). Alias `谨` (simplified) confirmed legitimate. Verified the `#cranberry` tag: 謹慎 is also tagged `cranberry`, and both 謹 and its earlier-perfected sibling [[characters/慎|慎]] (iteration #592) independently mean "cautious" and share 謹慎 as their `stand_in` — transitivity (A=B=AB) holds per the vault's cranberry convention. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[謹慎]] with the cranberry cross-reference noted. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 贈 (5091; 1891 characters remaining).
+
+### 2026-08-06, iteration 609 — [[characters/贈|贈]]
+
+Confirmed `graphemic_classification: 曽` via domain knowledge (形声, 貝 semantic "valuables, money" + 曽 phonetic zēng — "to present, bestow") and `mc_id: 1946` locally (`lookup/CC/CC 1000.md` line 987 — correct, no fix needed). Filled the empty `pos` field (`事詞`, matching the sibling verb word 贈与). Alias `赠` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[贈与]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 跡 (5092; 1890 characters remaining).
+
+### 2026-08-06, iteration 610 — [[characters/跡|跡]]
+
+Confirmed `graphemic_classification: 亦` via domain knowledge (形声, 足 semantic "foot" + 亦 phonetic — an irregular but well-documented phonetic series despite modern initial divergence — "footprints, tracks," extended to "vestige, trace") and `mc_id: 1236` locally (`lookup/CC/CC 1000.md` line 249 — correct, no fix needed). Filled the empty `pos` field (`名詞`). Assessed all three aliases: `迹` (辶 semantic variant, own separate CC corpus entry at `CC 2000.md` line 878) legitimate; `蹟` and `𫐤` (further attested variant forms, e.g. 奇跡/奇蹟, no CC entries or distinct vault pages) kept as plausible variants absent contradicting evidence. Verified the `#cranberry` tag: 痕跡 is also tagged `cranberry`, and both 跡 and its sibling [[characters/痕|痕]] independently mean "trace, vestige" — transitivity holds. Dropped an ad hoc "蹟 was dropped from the Korean HS list in 2000" line and two bare unlinked initial/final references, replacing with the standard 4-bullet `## Notes` structure.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[痕跡]] with the cranberry cross-reference noted. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 珍 (char) (5093; 1889 characters remaining).
+
+### 2026-08-06, iteration 611 — [[characters/珍 (char)|珍 (char)]]
+
+Confirmed `graphemic_classification: 㐱` via domain knowledge (形声, 玉 semantic "jade" + 㐱 phonetic zhěn — "rare, precious," a rare treasure like jade) and `mc_id: 1543` locally (`lookup/CC/CC 1000.md` line 568 — correct, no fix needed). Filled the empty `pos` field (`性詞`). No aliases to assess (field empty). Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[珍]] and [[珍珠]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 鑑 (5094; 1888 characters remaining).
+
+### 2026-08-06, iteration 612 — [[characters/鑑|鑑]]
+
+Confirmed `graphemic_classification: 監` via domain knowledge (形声, 金 semantic "metal," the bronze of the ancient mirror, + 監 phonetic jiàn — the large bronze mirror of antiquity, extended to "to examine clearly, to appraise"). **Fixed `mc_id`**: stored as `3780`, which corresponds to 螭 in `lookup/CC/CC 3000.md` line 813; corrected to `3781`, the real entry for 鑑 one line below. `pos` was already correctly filled (`名詞`). Assessed all three aliases: `鑒` (traditional form, own separate CC corpus entry at `CC 2000.md` line 189) and `鉴` (simplified) both legitimate; `𰾫` (further attested rare variant, no CC entry or distinct vault page) kept as plausible absent contradicting evidence. Fixed broken relative-path markdown links (`../`-prefixed, non-wikilink syntax) throughout the malformed `## Notes` and consolidated two bare unlinked initial/final references into the standard 4-bullet structure.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[鏡鑑]] and confirmed the existing [[鑑定]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 鉛 (char) (5095; 1887 characters remaining).
+
+### 2026-08-06, iteration 613 — [[characters/鉛 (char)|鉛 (char)]]
+
+**Fixed malformed frontmatter**: `japanese_native` had a duplicate list item (`なまり` as both a scalar and a nested `- なまり` list entry) — corrected to a plain scalar. Confirmed `graphemic_classification: 㕣` via domain knowledge (Shuowen: 从金㕣聲 — 金 semantic "metal" + 㕣 phonetic — names the element lead). **Fixed `mc_id`**: stored as `3902`, which corresponds to 遞 in `lookup/CC/CC 3000.md` line 943; corrected to `3903`, the real entry for 鉛 one line below. `pos` (`固有名詞`) was already correctly filled, matching the standalone word 鉛's own `固有名詞` classification for element names. Alias `铅` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, two informally-placed bullets that belonged under Words) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[鉛]], plus [[鉛筆]], [[亜鉛]] (zinc), and [[蒼鉛]] (bismuth, a historically attested compound per its own page's detailed etymology notes). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 鋳 (5096; 1886 characters remaining).
+
+### 2026-08-06, iteration 614 — [[characters/鋳|鋳]]
+
+Confirmed `graphemic_classification: 寿` via domain knowledge (形声, 金 semantic "metal" + 壽/寿 phonetic, no vault page — "to cast metal, to mint") and `mc_id: 1507` locally (`lookup/CC/CC 1000.md` line 532, recorded under the traditional form 鑄 — correct, no fix needed). `pos` was already correctly filled (`事詞`). Alias `鑄` (traditional) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references) with a proper `## Notes` (4 bullets); the pre-existing `## Words` section was correct but missing the `stand_in` annotation.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching the page's existing single entry): added the `(stand-in for 鋳)` tag to [[鋳造]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 哭 (char) (5097; 1885 characters remaining).
+
+### 2026-08-06, iteration 615 — [[characters/哭 (char)|哭 (char)]]
+
+Confirmed `graphemic_classification: 獄` via domain knowledge (Shuowen: 从吅獄省聲 — doubled 口 "mouths," crying voices, + abbreviated 獄 as phonetic — "to cry, weep, wail," also used of ritual mourning-wails at funerals; this is a genuinely debated character in modern scholarship, but the stored classification matches the Shuowen citation directly, so kept as-is) and `mc_id: 820` locally (`lookup/CC/CC 0000.md` line 850 — correct, no fix needed). Filled the empty `pos` field (`事詞`, matching the sibling word 哭's own `事詞` classification). No aliases to assess (field empty). Identified the correct lookup-file convention for the unusual `joyo_level: 表外字` value (Hyōgai, "characters outside the Jōyō list") by cross-referencing other fully-perfected pages using that value. Reordered a misplaced `## Words` section (which preceded a malformed `# Notes` heading) into the standard Notes-then-Words order with a proper 4-bullet Notes section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[哭]] and confirmed the existing [[痛哭]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 鎮 (char) (5098; 1884 characters remaining).
+
+### 2026-08-06, iteration 616 — [[characters/鎮 (char)|鎮 (char)]]
+
+Confirmed `graphemic_classification: 真` via domain knowledge (形声, 金 semantic "metal," a heavy weight, + 真 phonetic zhèn — "to press down, hold in place," extended to "to tranquilize, subdue, garrison"). **Fixed `mc_id`**: stored as `1745`, which corresponds to 隕 in `lookup/CC/CC 1000.md` line 778; corrected to `1746`, the real entry for 鎮 one line below. `pos` was already correctly filled (`事詞`). Both aliases confirmed legitimate: `鎭` (traditional variant) and `镇` (simplified). Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section. (Noted but left out of scope: the sibling word page `words/鎮.md` has a literal-string `"null"` `korean` field — a word-file bug outside this character-sweep's scope, consistent with the vault's established convention of leaving such bugs for separate word-perfecting work.)
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[鎮]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 陥 (char) (5099; 1883 characters remaining).
+
+### 2026-08-06, iteration 617 — [[characters/陥 (char)|陥 (char)]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (Shuowen: 从阜从臽 — 阜 "mound, earthen wall" + 臽, a real ancestral character meaning "pitfall, trap," no vault page — "to fall into a pit, cave in, be trapped," extended to "to submerge, sink into") and `mc_id: 1157` locally (`lookup/CC/CC 1000.md` line 166, recorded under the traditional form 陷 — correct, no fix needed). `pos` was already correctly filled (`性詞`). Both aliases confirmed legitimate: `陷` (traditional) and `臽` (the ancestral component character itself, analogous to the earlier-established 漆/桼 pattern — an ancestor form, not a mere variant). Replaced the malformed `## Notes` (two bare, unlinked initial/final references, no Words section) with a proper 4-bullet section and `## Words` section. (Noted but left out of scope: `words/陥.md` has a literal-string `"null"` `korean` field, same word-file bug class as 鎮's sibling word, left for separate word-perfecting work.)
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[陥]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 隠 (5100; 1882 characters remaining).
+
+### 2026-08-06, iteration 618 — [[characters/隠|隠]]
+
+Confirmed `graphemic_classification: 㥯` via domain knowledge (形声, 阜 semantic "mound," a hiding place, + 㥯 phonetic — "to hide, conceal") and `mc_id: 687` locally (`lookup/CC/CC 0000.md` line 711, recorded under the traditional form 隱 — correct, no fix needed). **Fixed alias contamination**: `湮` (yān, "to sink, submerge, obliterate," 水 semantic) is a distinct character with a different pronunciation and etymology from 隠 (yǐn) — removed. `隱` (traditional) confirmed legitimate, and `乚` (an archaic variant with no vault page) confirmed legitimate — cross-verified via its citation on [[characters/耴|耴]]'s own page, which already links to it as `[[隠|乚]]`, showing the vault treats it as 隠's established alternate form elsewhere. `pos` was already correctly filled (`性詞`). Rebuilt a malformed `## Notes`/`## Words` block (a single out-of-place bullet under Notes, bare unlinked initial/final references interspersed within Words, one floating bullet after them) into the standard structure. (Noted but left out of scope: `words/隠蔵.md`'s Notes section reads the placeholder text "a very C word" — a word-file bug left for separate work.)
+
+**Words cross-check** (6 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[隠蔵]], confirmed the existing [[隠匿]] and [[隠滅]], and added [[隠形]], [[隠蔽]], and [[隠金]] (a Greek-calque periodic-table neologism for lanthanum, per its own page's etymology notes). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 隷 (5101; 1881 characters remaining).
+
+### 2026-08-06, iteration 619 — [[characters/隷|隷]]
+
+**Fixed frontmatter/prose mismatch**: the Notes bullet cited phonetic 奈 while the frontmatter correctly stored `graphemic_classification: 柰` — verified against Shuowen (从隶柰聲) that 柰, not 奈, is the classically cited phonetic (a distinct character from 奈 despite sharing the same OC reading and being frequently conflated); corrected the prose to match the already-correct frontmatter. `mc_id: 1355` verified correct locally (`lookup/CC/CC 1000.md` line 372, recorded under the traditional form 隸). `pos` was already correctly filled (`名詞`). Both aliases confirmed legitimate: `隸` (traditional) and `隶` (the semantic component itself, also the standard simplified form). Dropped an ad hoc "Added to the Korean HS list in 2000" line and two bare unlinked initial/final references, replacing with the standard 4-bullet structure and a `## Words` section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[奴隷]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 攻 (char) (5102; 1880 characters remaining).
+
+### 2026-08-06, iteration 620 — [[characters/攻 (char)|攻 (char)]]
+
+**Fixed swapped semantic/phonetic roles**: the duplicate `## Notes` section's prose labeled 工 as semantic ("work") and 攵 as phonetic — backwards from the correct analysis and from the frontmatter's own `graphemic_classification: 工`, which stores the phonetic component per convention. Corrected to 攴/攵 semantic ("to strike, hit") + 工 phonetic (gōng, "work") — "to attack," extended to "to criticize." `mc_id: 280` verified correct locally (`lookup/CC/CC 0000.md` line 292). Filled the empty `pos` field (`事詞`). No aliases to assess (field empty). Merged two duplicate `## Notes` headings and a misordered `## Words`/`## Chengyu` sequence into the standard order, and fixed the page-intro callout, which was missing the character glyph itself ("This is a page about the character." → "...about the character 攻.").
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[攻]] and confirmed the existing [[攻防]] and [[挟攻]]. **Chengyu** (1 ground-truth hit, already present): confirmed [[遠交近攻]] correct. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 陳 (5103; 1879 characters remaining).
+
+### 2026-08-06, iteration 621 — [[characters/陳|陳]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (阜 "mound, earthworks" + an ancient graphic element depicting rows/ranks arrayed along it — "to arrange in rows," extended to "to exhibit, display," and as a proper name the ancient state of Chen) and `mc_id: 215` locally (`lookup/CC/CC 0000.md` line 227 — correct, no fix needed). Filled the empty `pos` field (`事詞`, matching the stand-in word 陳列). Alias `陈` (simplified) confirmed legitimate. Reordered a misplaced `## Words` section (which preceded a malformed `# Notes` heading) into the standard Notes-then-Words order with a proper 4-bullet Notes section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[陳列]] and confirmed the existing [[陳述]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 傾 (5105; 1878 characters remaining).
+
+### 2026-08-06, iteration 622 — [[characters/傾|傾]]
+
+Confirmed `graphemic_classification: 頃` via domain knowledge (形声, 人 semantic "person" + 頃 phonetic qīng — "to lean, incline," a person leaning to one side) and `mc_id: 1213` locally (`lookup/CC/CC 1000.md` line 226 — correct, no fix needed). Filled the empty `pos` field (`動詞`, matching the character's own verb-like gloss "lean, incline," distinct from its nominalized sibling words 傾向/傾斜 which are both `名詞`). Alias `倾` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, `## Words` immediately following with no blank line) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, matching the page's existing entries): added the `(stand-in for 傾)` tag to [[傾向]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 償 (5106; 1877 characters remaining).
+
+### 2026-08-06, iteration 623 — [[characters/償|償]]
+
+Confirmed `graphemic_classification: 賞` via domain knowledge (形声, 人 semantic "person" + 賞 phonetic shǎng — "to repay, recompense, compensate") and `mc_id: 2442` locally (`lookup/CC/CC 2000.md` line 463 — correct, no fix needed). Filled the empty `pos` field (`事詞`, matching the stand-in word 報償). Alias `偿` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, `## Words` immediately following with no blank line) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[報償]] and confirmed the existing [[賠償]] and [[償還]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 墳 (5107; 1876 characters remaining).
+
+### 2026-08-06, iteration 624 — [[characters/墳|墳]]
+
+Confirmed `graphemic_classification: 賁` via domain knowledge (形声, 土 semantic "earth" + 賁 phonetic fén — "burial mound, grave, tomb") and `mc_id: 1928` locally (`lookup/CC/CC 1000.md` line 969 — correct, no fix needed). Filled the empty `pos` field (`名詞`). Alias `坟` (simplified) confirmed legitimate. Reordered a misplaced `## Words` section (which preceded a malformed `# Notes` heading) into the standard Notes-then-Words order with a proper 4-bullet Notes section.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching the page's existing single entry): added the `(stand-in for 墳)` tag to [[墳墓]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 摂 (char) (5108; 1875 characters remaining).
+
+### 2026-08-06, iteration 625 — [[characters/摂 (char)|摂 (char)]]
+
+Confirmed `graphemic_classification: 耳` via domain knowledge: verified this is not an error but a deliberate reflection of the Japanese shinjitai simplification — the traditional phonetic 聶 (three 耳 stacked) was reduced to a single 耳 in 摂's own simplified glyph, so citing 耳 correctly describes this specific character's structure rather than 攝's. `mc_id: 1382` verified correct locally (`lookup/CC/CC 1000.md` line 399, recorded under the traditional form 攝). Filled the empty `pos` field (`性詞`, matching the "vicarious" gloss). Alias `攝` (traditional) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, one informally-linked Words bullet) with a proper `## Notes` (4 bullets) and `## Words` section. (Noted but left out of scope: the sibling word page `words/摂.md` has a literal-string `"null"` `korean` field, same bug class as several other word pages found this session, left for separate word-perfecting work.)
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`, requiring the `摂 (char)` form to surface the self-referential citation): added the self-referential `stand_in` [[摂]] and confirmed the existing [[摂食]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 叙 (5109; 1874 characters remaining).
+
+### 2026-08-06, iteration 626 — [[characters/叙|叙]]
+
+Confirmed `graphemic_classification: 余` via domain knowledge (形声, 又 semantic "hand, again," a further-simplified form of 攴/攵 "to tap, act," + 余 phonetic yú — "to narrate, recount, state") and `mc_id: 1995` locally (`lookup/CC/CC 1000.md` line 1036, recorded under the traditional form 敘 — correct, no fix needed). Filled the empty `pos` field (`事詞`, matching the sibling word 叙述's own `事詞` field, filled during its own earlier perfecting pass on 2026-08-03). Both aliases confirmed legitimate: `敍` and `敘` (traditional forms). Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[叙述]] and [[昇叙]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 嘆 (char) (5110; 1873 characters remaining).
+
+### 2026-08-06, iteration 627 — [[characters/嘆 (char)|嘆 (char)]]
+
+Confirmed `graphemic_classification: 漢` via domain knowledge (形声, 口 semantic "mouth" + phonetic 漢, part of the same 𦰩 phonetic series as 難, no vault page — "to moan, sigh, exclaim"). **Fixed `mc_id`**: stored as `1199`, which is the entry for the alias 歎 (`lookup/CC/CC 1000.md` line 208), not the headword 嘆 itself; corrected to `2158`, 嘆's own separate entry (`lookup/CC/CC 2000.md` line 167) — both forms are independently tracked in the corpus, and the page should cite its own headword's rank, not an alias's. Filled the empty `pos` field (`事詞`, matching the sibling word 嘆's own field). Both aliases confirmed legitimate: `歎` (traditional variant, own separate CC entry) and `叹` (simplified). Identified the correct lookup-file convention for the unusual `hanmun_edu_level: "名"` value by cross-referencing other fully-perfected pages using it — it pairs with a `Korean Name <initial-jamo>` lookup file (here, `Korean Name ㅌ`, matching 嘆's Korean reading 탄), independent of `grade_level`. Replaced the malformed `# Notes` heading with a proper 4-bullet section.
+
+**Words cross-check** (4 ground-truth hits via `find_citers.py`, requiring the `嘆 (char)` form to surface most citations): added the self-referential `stand_in` [[嘆]], plus [[感嘆]] and [[感嘆詞]], and confirmed the existing [[賛嘆]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 渉 (char) (5111; 1872 characters remaining).
+
+### 2026-08-06, iteration 628 — [[characters/渉 (char)|渉 (char)]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (Shuowen: 从水从步 — 水 "water" + 步 "to step, walk," no vault page — "to wade across water on foot," extended to "to be involved with, to interfere") and `mc_id: 1087` locally (`lookup/CC/CC 1000.md` line 92, recorded under the form 涉 — correct, no fix needed). Filled the empty `pos` field (`動詞`). Alias `涉` (the standard form; 渉 itself is a Japanese shinjitai variant) confirmed legitimate. **Fixed a wrong initial-group citation**: the bare Notes link pointed to `聲 端` ([t]), but the frontmatter's own `middle_chinese_initial: d͡ʑ` doesn't match that group at all — cross-referenced all initial lookup pages and found `聲 禪` ([d͡ʑ]) is the correct match; corrected the link. Replaced the malformed `# Notes` heading with a proper 4-bullet section and `## Words`.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[渉]] and [[干渉]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted. (Noted but left out of scope: the sibling word page `words/渉.md` has a literal-string `"null"` `korean` field, same bug class found repeatedly this session, left for separate word-perfecting work.)
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 潤 (char) (5112; 1871 characters remaining).
+
+### 2026-08-06, iteration 629 — [[characters/潤 (char)|潤 (char)]]
+
+Confirmed `graphemic_classification: 閏` via domain knowledge (形声, 水 semantic "water" + 閏 phonetic rùn — "moist, smooth, soft," extended to "to enrich, increase," as in profit) and `mc_id: 1793` locally (`lookup/CC/CC 1000.md` line 826 — correct, no fix needed). Filled the empty `pos` field (`性詞`). Alias `润` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, no Words section) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (2 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[潤]] and [[利潤]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted. (Noted but left out of scope: the sibling word page `words/潤.md` has a literal-string `"null"` `vietnamese` field, same bug class found repeatedly this session, left for separate word-perfecting work.)
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 濫 (5113; 1870 characters remaining).
+
+### 2026-08-06, iteration 630 — [[characters/濫|濫]]
+
+Confirmed `graphemic_classification: 監` via domain knowledge (形声, 水 semantic "water" + 監 phonetic — "overflowing, flooding," extended to "excessive, unchecked"; the same phonetic component seen earlier this session on 鑑) and `mc_id: 2140` locally (`lookup/CC/CC 2000.md` line 149 — correct, no fix needed). Filled the empty `pos` field (`性詞`). Alias `滥` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, two informally-linked bullets, no Words heading) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[汎濫]], confirmed the existing [[泛濫]], and added [[氾濫]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 沢 (5114; 1869 characters remaining).
+
+### 2026-08-06, iteration 631 — [[characters/沢|沢]]
+
+Confirmed `graphemic_classification: 尺` via domain knowledge: verified this is a deliberate Japanese shinjitai simplification (traditional phonetic 睪 reduced to 尺 in 沢's own simplified glyph — the same pattern established earlier this session on 摂/耳), not an error. `mc_id: 549` verified correct locally (`lookup/CC/CC 0000.md` line 570, recorded under the traditional form 澤). `pos` was already correctly filled (`名詞`). Both aliases confirmed legitimate: `澤` (traditional) and `泽` (simplified). Reordered a misplaced `## Words` section (preceding a malformed `# Notes` heading) into the standard order with a proper 4-bullet Notes section.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[沼沢]] and confirmed the existing [[薮沢]] and [[徳沢]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 兮 (char) (5115; 1868 characters remaining).
+
+### 2026-08-06, iteration 632 — [[characters/兮 (char)|兮 (char)]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (丂 "a fork in a tree, breath catching on an obstruction," no vault page, + 八 "dispersal, breath escaping outward like wind through trees" — together depicting an exhaled sigh, a classical exclamatory/rhythmic verse particle) and `mc_id: 258` locally (`lookup/CC/CC 0000.md` line 270 — correct, no fix needed). **Fixed a broken component link**: the first component's markdown link pointed to `考.md` (an unrelated character meaning "to examine, deceased father") instead of 丂; corrected to a wikilink with no vault page. Filled the empty `pos` field (`感詞`, matching the sibling word 兮's own field). No aliases to assess (field empty). Confirmed the `joyo_level: 表外字` → Hyōgai and `hsk_level: 無` → HSK No lookup-file mappings, both already established this session. Replaced the malformed `## Notes` (bare unlinked initial/final references) with a proper 4-bullet section and `## Words`.
+
+**Vault-wide side fix**: while building this bullet, noticed the "No HSK" display text used on several pages this session (捜, 隠, 摂 (char), 隷, 哭 (char), 懐 (char), 陥 (char), 渉 (char), 沢, 謡, 鋳) — and, from before this session, 曇 (char), 娯, 廃 — doesn't match the vault's established convention (the lookup file is `HSK No.md`, and every other page in the vault uses that exact display text). Corrected all 14 occurrences vault-wide via a single sed pass, `[No HSK]` → `[HSK No]`, link targets unchanged.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[兮]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 毀 (char) (5116; 1867 characters remaining).
+
+### 2026-08-06, iteration 633 — [[characters/毀 (char)|毀 (char)]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (臼 "cracked skull" + 工 "tool" + 殳, "hand action," no vault page — a man being struck in the head, "to destroy," extended to "to slander, defame") and `mc_id: 855` locally (`lookup/CC/CC 0000.md` line 885 — correct, no fix needed). Filled the empty `pos` field (`動詞`). Alias `毁` (simplified) confirmed legitimate. Fixed broken markdown links (relative-path, non-wikilink syntax pointing to `臼 (char).md` and `工.md`) and moved the etymology bullet out of a misplaced `## Words` section into a proper `## Notes` (4 bullets).
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[毀]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 炉 (5117; 1866 characters remaining).
+
+### 2026-08-06, iteration 634 — [[characters/炉|炉]]
+
+**Fixed a frontmatter/prose self-contradiction and a fabricated `mc_id`**: the page had two duplicate Notes bullets disagreeing with each other — one (matching the frontmatter's `graphemic_classification: 盧`) had an empty, broken phonetic link; the other correctly identified 戸 as the phonetic actually present in this specific glyph. Verified via domain knowledge that 炉 (both the Japanese shinjitai and Chinese simplified form) replaces the traditional phonetic 盧 with 戸 — the same simplification pattern established earlier this session on 摂/耳 and 沢/尺 — so corrected the frontmatter to `戸` to match the glyph's real composition. Searched all four `lookup/CC/CC *.md` files end to end and found neither 炉 nor 爐 appears anywhere in the ~4000-entry corpus; the stored `mc_id: 4539` was not just wrong but out of range entirely (beyond the corpus's actual ceiling) — corrected to `0` per the checklist convention for characters confirmed absent from the ranking. `pos` was already correctly filled (`名詞`). Alias `爐` (traditional) confirmed legitimate. Consolidated the duplicate/contradictory Notes bullets, fixed more broken relative-path markdown links, and merged everything into the standard 4-bullet structure.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the `(stand-in for 炉)` tag to the existing [[火炉]] and [[炉甘石]], and added [[炉甘金]] (a mineral-based periodic-table neologism for cadmium, per its own page's etymology notes). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 奔 (5118; 1865 characters remaining).

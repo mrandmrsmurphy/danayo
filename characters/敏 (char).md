@@ -17,7 +17,7 @@ stroke_count: 10
 radical: "攴"
 skip_number: 1-6-4
 grade_level: "5"
-pos: ""
+pos: 性詞
 english:
   - fast
   - quick
@@ -34,6 +34,7 @@ graphemic_classification: "毎"
 stand_in: "敏"
 aliases:
 注音: "ㄇㄧㄋ"
+date-last-perfect: 2026-08-05
 kwin: true
 tags:
   - character
@@ -46,8 +47,13 @@ boundedness: 30
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 明]]
-[[Lookup/CC/finals/韻 眞B開]]
-- [[敏感]] "sensitive"
+## Notes
+- 形声 (OC \*mrɯʔ, \*mrɯŋʔ): semantic [[Radical 066|攴]] ("hand, action") + phonetic [[毎 (char)|毎]] (OC \*mɯːʔ) — "quick, fast," extended to "clever, quick-witted."
+- [SKIP-1-6-4](lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 1705th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄇㄧㄋ](syllables/ㄇㄧㄋ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[敏]]<rt>ㄇㄧㄋ</rt></ruby> "fast; quick; clever" (stand-in for 敏 (char))
+- <ruby>[[敏感]]<rt>ㄇㄧㄋㄍㄚㄇ</rt></ruby> "sensitive"
 - <ruby>[[敏捷]]<rt>ㄇㄧㄋㄐㄝㄆ</rt></ruby> "agile; nimble; quick-witted"

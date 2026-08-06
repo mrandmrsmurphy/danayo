@@ -14,7 +14,7 @@ stroke_count: 4
 radical: "八"
 skip_number: 2-2-2
 grade_level: "5"
-pos: ""
+pos: 感詞
 english:
   - pshaw
 羅馬字: hei
@@ -32,6 +32,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-06
 ---
 >[!tip] This is a page about the character 兮.
 >For the word, see [兮](words/兮.md)
@@ -39,6 +40,10 @@ boundedness: 65
 [[nav/char_info]]
 ```
 ## Notes
-- A ideograph of [丂](考.md) "fork in a tree" + [八](Radical%20012) "wind in the trees"
-[[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 齊開]]
+- 會意: [[丂]] ("a fork in a tree, breath catching on an obstruction," no vault page) + [[八 (char)|八]] ("dispersal, breath escaping outward like wind through trees") — together depicting an exhaled sigh or exclamatory breath. Functions purely as a classical exclamatory/rhythmic particle, marking a pause or emphasis in verse (e.g. Xiang Yu's 垓下歌, and throughout the 楚辭). Formerly the first component linked to the unrelated character 考 ("to examine; deceased father") — corrected.
+- [SKIP-2-2-2](lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 4](lookup/Stroke/Stroke%204.md))
+- 258th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄏㄝㄧ](syllables/ㄏㄝㄧ.md)
+- [Grade 5](lookup/Grade%205.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[兮]]<rt>ㄏㄝㄧ</rt></ruby> "pshaw" (stand-in for 兮 (char))

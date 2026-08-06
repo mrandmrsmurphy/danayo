@@ -15,7 +15,7 @@ stroke_count: 10
 radical: "口"
 skip_number: 2-6-4
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - cry
   - weep
@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-06
 ---
 >[!tip] This is a page about the character 哭.
 >For the word, see [哭](words/哭.md)
@@ -42,9 +43,12 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-## Words
-- <ruby>[[痛哭]]<rt>ㄊㄛㄫㄎㄛㄎ</rt></ruby> "to wail; to cry bitterly"
+## Notes
+- 形声 (per Shuowen, 从吅獄省聲): [[Radical 030|口]]×2 ("mouths," crying voices) + phonetic 獄 (abbreviated, no vault page) — "to cry, weep, wail"; also used of ritual mourning-wails at funerals.
+- [SKIP-2-6-4](lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 820th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄎㄛㄎ](syllables/ㄎㄛㄎ.md)
+- [Grade 5](lookup/Grade%205.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
-# Notes
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 屋一]]
+## Words
+- <ruby>[[哭]]<rt>ㄎㄛㄎ</rt></ruby> "cry; weep" (stand-in for 哭 (char))
+- <ruby>[[痛哭]]<rt>ㄊㄛㄫㄎㄛㄎ</rt></ruby> "to wail; to cry bitterly"

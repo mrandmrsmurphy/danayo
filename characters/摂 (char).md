@@ -14,7 +14,7 @@ stroke_count: 13
 radical: 手
 skip_number: 1-3-10
 grade_level: "5"
-pos: ""
+pos: 性詞
 english:
   - vicarious
 羅馬字: neb
@@ -33,6 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 
+date-last-perfect: 2026-08-06
 ---
 >[!tip] This is a page about the character 摂.
 >For the word, see [摂](words/摂.md)
@@ -41,7 +42,12 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 泥]]
-[[Lookup/CC/finals/韻 帖]]
-- [[摂食]] "feed, ingest"
+## Notes
+- 形声: semantic [[Radical 064|手]] ("hand") + phonetic [[耳 (char)|耳]] (a Japanese shinjitai simplification of the traditional phonetic 聶, itself three 耳 stacked, no vault page) — "to hold, grasp; to act on behalf of, vicariously." 攝 is the traditional form.
+- [SKIP-1-3-10](lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 1382nd most used character in Classical Chinese (recorded under the traditional form 攝). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄋㄝㄆ](syllables/ㄋㄝㄆ.md)
+- [Grade 5](lookup/Grade%205.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[摂]]<rt>ㄋㄝㄆ</rt></ruby> "vicarious" (stand-in for 摂 (char))
+- <ruby>[[摂食]]<rt>ㄋㄝㄆㄙㄧㄎ</rt></ruby> "feed, ingest"

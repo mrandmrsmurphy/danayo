@@ -20,7 +20,7 @@ stroke_count: 18
 radical: "金"
 skip_number: 1-8-10
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - chain
 羅馬字: swa
@@ -35,6 +35,7 @@ stand_in: "鎖"
 aliases:
   - 锁
 注音: "ㄙ⺢"
+date-last-perfect: 2026-08-05
 kwin: false
 tags:
   - character
@@ -47,7 +48,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-- 形声 (OC *soːlʔ): semantic [[金]] ("metal") + phonetic 𧴪 (no character page exists for it in this vault). **Corrected here**: the field previously stored `貝`, a real-but-unrelated vault character, visually distinct from 𧴪 but perhaps mistaken for it — found while cross-referencing [[貝]]'s own family.
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 戈一合]]
+## Notes
+- 形声 (OC \*soːlʔ): semantic [[金]] ("metal") + phonetic 𧴪 (no vault page) — "lock, padlock; chain, shackles."
+- [SKIP-1-8-10](lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md))
+- 5055th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄙ⺢](syllables/ㄙ⺢.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[鎖]]<rt>ㄙ⺢</rt></ruby> "chain" (stand-in for 鎖 (char))
