@@ -605,3 +605,23 @@ Next never-perfected character by `danayo_id`: 凄 (4324; 1981 characters remain
 Stamped `date-last-perfect: 2026-08-05`.
 
 Next never-perfected character by `danayo_id`: 塔 (char) (4388; 1980 characters remaining — a large gap, danayo_id 4325–4387 already perfected).
+
+### 2026-08-05, iteration 520 — [[characters/塔 (char)|塔 (char)]]
+
+**Added a completely missing `mc_id` field** (the key didn't exist in frontmatter at all, unlike a blank value): grepped all four `lookup/CC/CC 0000–3000.md` files for 塔 and its three alias variants (㙮, 墖, 𩫊) and found zero hits anywhere — set `mc_id: 0` per the checklist's "confirmed not present" policy, same as [[characters/凄|凄]] last iteration. Confirmed `graphemic_classification: 荅` via WebSearch and found a genuinely interesting etymology worth expanding: 塔 is a Late Old Chinese (Eastern Han) Sanskrit loanword, an abbreviation of 卒塔婆 transliterating स्तूप (stūpa) — filled in the previously-empty semantic gloss ("") and added the loanword history. Verified 墖 as a documented old variant via WebSearch; treated 㙮/𩫊 as legitimate obscure variants by the same reasoning (rare CJK-B forms, not the usual co-occurrence-contamination pattern). Merged a duplicate `## Notes` heading.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`, matching what was implicitly the `stand_in` but not yet listed): added [[塔]] itself. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 喉 (4390; 1979 characters remaining).
+
+### 2026-08-05, iteration 521 — [[characters/喉|喉]]
+
+**Fixed a `stand_in` pointing to a nonexistent word**: stored as `喉頭`, but `words/喉頭.md` doesn't exist anywhere in the vault — a genuine gap in the character's own required-field integrity, not just a missing citation. `find_citers.py` confirmed the only real word citing 喉 as a constituent is [[咽喉]] ("throat"), so retargeted `stand_in` to that instead of leaving it dangling or fabricating the missing word page (out of scope for a character-page iteration). Confirmed `graphemic_classification: 侯` (already correct, 形声 口+侯) and found `mc_id: 2465` via grep (`lookup/CC/CC 2000.md` line 486) for the previously-blank field. Cleaned up the informal "Dropped from the Korean HS list in 2000" note into the levels bullet, cross-checked against [[lookup/Korean/Korean Name ㅎ]] (confirms 喉's current name-only status) — same pattern as [[characters/凄|凄]] two iterations ago.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added [[咽喉]] as the corrected `stand_in`. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-05`.
+
+Next never-perfected character by `danayo_id`: 曇 (char) (4391; 1978 characters remaining).
