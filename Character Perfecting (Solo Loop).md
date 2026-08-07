@@ -1789,3 +1789,15 @@ Confirmed `graphemic_classification: 正` via domain knowledge (形声, 疒 sema
 Stamped `date-last-perfect: 2026-08-06`.
 
 Next never-perfected character by `danayo_id`: 監 (5123; 1862 characters remaining).
+
+### 2026-08-06, iteration 638 — [[characters/監|監]]
+
+**Fixed a garbled etymology**: the Notes bullet read "会意 of 皿 ('a person with an emphasized eye')," an incomplete/malformed description missing the other two components. Corrected via domain knowledge to the standard analysis: 臣 ("an emphasized eye, looking down") + 人 ("a bent-over person") + 皿 ("a basin of water") — a person bending over a basin of water to see their reflection before bronze mirrors existed, "to observe closely," extended to "oversee, supervise." `mc_id: 1187` verified correct locally (`lookup/CC/CC 1000.md` line 196). `pos` was already correctly filled (`事詞`). Alias `监` (simplified) confirmed legitimate.
+
+**Derived Characters expanded**: the page listed only [[鑑]] (already encountered as a citer of 監's phonetic role earlier this session). Grepped the whole vault for `graphemic_classification: 監` and found seven total phonetic-derivative characters — added [[濫]] (also already perfected this session), [[覧]], [[艦]], [[籃]], [[㽉]], [[塩 (char)|塩]], and [[藍 (char)|藍]].
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the `(stand-in for 監)` tag to the existing [[監督]], plus [[監獄]] and [[監禁]]. **Chengyu**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 采 (5124; 1861 characters remaining).
