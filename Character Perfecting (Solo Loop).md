@@ -1769,3 +1769,23 @@ Next never-perfected character by `danayo_id`: 奔 (5118; 1865 characters remain
 Stamped `date-last-perfect: 2026-08-06`.
 
 Next never-perfected character by `danayo_id`: 獄 (5119; 1864 characters remaining).
+
+### 2026-08-06, iteration 636 — [[characters/獄|獄]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (Shuowen: two 犬 "dogs," guard dogs flanking, + 言 "words, litigation," no vault page — a dispute settled between two guarded parties, "prison, lawsuit") and `mc_id: 693` locally (`lookup/CC/CC 0000.md` line 717 — correct, no fix needed). Filled the empty `pos` field (`名詞`). Alias `狱` (simplified) confirmed legitimate. Replaced the malformed `# Notes` heading (two bare, unlinked initial/final references, one informally-linked Words bullet) with a proper `## Notes` (4 bullets) and `## Words` section.
+
+**Words cross-check** (3 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[監獄]], plus [[牢獄]] and confirmed the existing [[獄吏]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 症 (5122; 1863 characters remaining).
+
+### 2026-08-06, iteration 637 — [[characters/症|症]]
+
+Confirmed `graphemic_classification: 正` via domain knowledge (形声, 疒 semantic "disease" + 正 phonetic zhèng — "disease condition, symptom," a highly productive medical suffix forming condition/syndrome names). **Fixed a fabricated, out-of-range `mc_id`**: stored as `6300`, far beyond the corpus's actual ~4000-entry ceiling; searched all four `lookup/CC/CC *.md` files and found neither 症 nor its alias 癥 anywhere in the corpus — corrected to `0` per the checklist convention for characters confirmed absent from the ranking. `pos` was already correctly filled (`名詞`). Alias `癥` (a distinct but related traditional-register form) confirmed legitimate. Rebuilt the malformed `## Notes`/`## Words` block (a stray leading blank line, bare unlinked initial/final references, several bare unformatted Words bullets including one truly empty bullet) into the standard 4-bullet Notes structure with properly ruby-formatted Words.
+
+**Words cross-check** (5 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[病症]], reformatted the existing [[症状]], [[癌症]], and [[炎症]] with proper ruby, and added [[自閉症]] (a pan-Sinospheric Greek calque for "autism," per its own page's etymology notes). **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 監 (5123; 1862 characters remaining).
