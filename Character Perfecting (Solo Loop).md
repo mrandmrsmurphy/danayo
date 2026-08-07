@@ -1759,3 +1759,13 @@ Next never-perfected character by `danayo_id`: 炉 (5117; 1866 characters remain
 Stamped `date-last-perfect: 2026-08-06`.
 
 Next never-perfected character by `danayo_id`: 奔 (5118; 1865 characters remaining).
+
+### 2026-08-06, iteration 635 — [[characters/奔|奔]]
+
+**Fixed `graphemic_classification`**: stored as `歮` (an unrelated character meaning "astringent, rough"), which is neither cited in Shuowen's actual analysis of 奔 nor phonetically plausible; the page's own Notes prose already correctly cited [[卉]] as the visible bottom component. Verified via domain knowledge that Shuowen's real analysis is 从夭賁省聲 — 夭 semantic ("a running person, arms swinging," now written 大) + phonetic 賁 abbreviated to the 卉 shape (賁 carries an alternate reading bēn identical to 奔's, as in 虎賁 "brave warriors") — corrected the frontmatter to `賁`, the true phonetic, rather than the visible abbreviated shape. `mc_id: 619` verified correct locally (`lookup/CC/CC 0000.md` line 643). `pos` was already correctly filled (`性詞`). Assessed alias `犇` (three 牛 "oxen," 會意, "to run wildly like cattle stampeding") — a distinct, rarer character occasionally used interchangeably with 奔, kept as legitimate. Consolidated a malformed `# Notes`/`## Chengyu` block (with bare, unlinked initial/final references and unlinked Words-appropriate bullets scattered after the Chengyu heading) into the standard Notes→Words→Chengyu structure.
+
+**Words cross-check** (6 ground-truth hits via `find_citers.py`): added the self-referential `stand_in` [[奔走]], confirmed the existing [[奔馳]], [[奔放]], [[奔波]], and [[奔騰]] (this last one initially missed on the first pass and added after re-checking the citer list), and added [[出奔]]. **Chengyu** (1 ground-truth hit, already present): confirmed [[東奔西走]] correct. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 獄 (5119; 1864 characters remaining).
