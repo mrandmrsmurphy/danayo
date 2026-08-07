@@ -16,7 +16,7 @@ stroke_count: 15
 radical: "禾"
 skip_number: 1-5-10
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - manuscript
   - copy
@@ -36,6 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-06
 ---
 >[!tip] This is a page about the character 稿.
 >For the word, see [稿](words/稿.md)
@@ -44,6 +45,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 豪]]
+## Notes
+- 形声: semantic [[Radical 115|禾]] ("grain, stalk," originally "straw") + phonetic [[高 (char)|高]] — "straw," extended to "a rough draft" (paper originally made from straw pulp), and thence to "manuscript, copy."
+- [SKIP-1-5-10](lookup/SKIP/SKIP-1/SKIP-1-5-10.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
+- 3577th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄍㄚㄨ](syllables/ㄍㄚㄨ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[稿]]<rt>ㄍㄚㄨ</rt></ruby> "manuscript, copy, rough draft" (stand-in for 稿 (char))
+- <ruby>[[脱稿]]<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby> "complete a manuscript"

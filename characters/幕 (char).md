@@ -15,7 +15,7 @@ stroke_count: 13
 radical: "巾"
 skip_number: 2-3-10
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - curtain
 羅馬字: mag
@@ -33,6 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-07
 ---
 >[!tip] This is a page about the character 幕.
 >For the word, see [幕](words/幕.md)
@@ -41,6 +42,11 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 明]]
-[[../lookup/CC/finals/韻 鈬開]]
+## Notes
+- 形声: semantic [[Radical 050|巾]] ("cloth") + phonetic [[莫 (char)|莫]] — "curtain, screen," extended to "a military headquarters/tent behind the curtain," and thence to "shogunate" (幕府).
+- [SKIP-2-3-10](lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 1999th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄇㄚㄎ](syllables/ㄇㄚㄎ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (6), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[幕]]<rt>ㄇㄚㄎ</rt></ruby> "curtain" (stand-in for 幕 (char))
