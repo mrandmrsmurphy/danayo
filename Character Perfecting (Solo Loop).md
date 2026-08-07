@@ -1801,3 +1801,13 @@ Next never-perfected character by `danayo_id`: 監 (5123; 1862 characters remain
 Stamped `date-last-perfect: 2026-08-06`.
 
 Next never-perfected character by `danayo_id`: 采 (5124; 1861 characters remaining).
+
+### 2026-08-06, iteration 639 — [[characters/采|采]]
+
+Confirmed `graphemic_classification: 會意` via domain knowledge (爪 "a hand reaching down" + 木 "tree" — a hand picking fruit or leaves from a tree, "to pick, gather," extended metaphorically to "coloring, adornment," and thence to "demeanor, bearing, elegance") and `mc_id: 1007` locally (`lookup/CC/CC 1000.md` line 12 — correct, citing the headword's own entry rather than the alias 採's separate entry at `CC 2000.md` line 137, consistent with the convention established on 嘆 (char)). Filled the empty `pos` field (`名詞`). Assessed both aliases: `採` (a derived form with 手 replacing 爪, reinforcing "to pick") and `埰` (a rarer variant meaning "a fief, feudal estate," historically conflated with 采 in the sense of a lord's granted land) both kept as legitimate. Confirmed the `hanmun_edu_level: 名` → `Korean Name ㅊ` lookup-file mapping (matching 采's Korean reading 채), the same convention established on 嘆 (char) earlier this session. Replaced the malformed `# Notes` heading with a proper 4-bullet section and `## Words`.
+
+**Words cross-check** (1 ground-truth hit via `find_citers.py`): added the self-referential `stand_in` [[風采]]. **Chengyu**/**Derived Characters**: no hits — both correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-06`.
+
+Next never-perfected character by `danayo_id`: 巡 (5125; 1860 characters remaining).
