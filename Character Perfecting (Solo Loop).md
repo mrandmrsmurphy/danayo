@@ -4655,3 +4655,23 @@ Clean verification: `mc_id: 1297` exact at `lookup/CC/CC 1000.md` line 310. 形�
 Stamped `date-last-perfect: 2026-08-08`.
 
 Next never-perfected character by `danayo_id`: 渦 (6047; 1599 characters remaining).
+
+### 2026-08-08, iteration 905 — [[characters/渦|渦]]
+
+**mc_id sentinel cleared, left honestly unresolved**: stored as `0` (same invalid-placeholder pattern as several earlier this session). 渦 does not appear anywhere in the vault's CC lookup files. Cleared to empty with an explicit "not found" note. 形声 classification (semantic [[水 (char)|水]] + phonetic [[咼]], OC \*kʰʷroːl) confirmed via Wiktionary; `graphemic_classification: 咼` already correct. `aliases: [涡]` confirmed as the genuine simplified form. Stored `vietnamese: oa` confirmed as the sole genuine Hán Việt reading. Filled the empty `pos` (`名詞`, precedent from the stand_in 渦流's own `pos` field). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[渦流]] (the page previously had no `## Words` section). **Chengyu**: no hits — correctly omitted. **Derived Characters**: 5 genuine hits found (sharing phonetic 咼) — [[鍋 (char)|鍋]], [[禍]], [[窩]], [[過 (char)|過]], [[蝸]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 訃 (6048; 1598 characters remaining).
+
+### 2026-08-08, iteration 906 — [[characters/訃|訃]]
+
+`mc_id: 5231` exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[言 (char)|言]] + phonetic [[卜]], OC \*poːɡ) confirmed via Wiktionary; `graphemic_classification: 卜` already correct. `aliases: [讣]` confirmed as the genuine simplified form. Stored `vietnamese: phó` independently cross-confirmed via the citing word [[訃告]]'s own Vietnamese field "phó cáo" (訃's phó + 告's cáo) — no Wiktionary Vietnamese section was available directly, but this compositional match provides solid corroboration. Filled the empty `pos` (`名詞`, precedent from the stand_in 訃告's own `pos` field). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[訃告]] (stand-in). **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 魅 (6049; 1597 characters remaining).
