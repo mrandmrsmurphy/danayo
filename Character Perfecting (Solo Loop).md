@@ -4675,3 +4675,25 @@ Next never-perfected character by `danayo_id`: 訃 (6048; 1598 characters remain
 Stamped `date-last-perfect: 2026-08-08`.
 
 Next never-perfected character by `danayo_id`: 魅 (6049; 1597 characters remaining).
+
+### 2026-08-08, iteration 907 — [[characters/魅|魅]]
+
+This page already had a well-formed Notes/Words/Chengyu skeleton — main gap was the missing 4-bullet Notes content. Clean verification: `mc_id: 3582` exact at `lookup/CC/CC 3000.md` line 607. 形声 classification (semantic [[鬼]] + phonetic [[未 (char)|未]], OC \*mɯds) confirmed via Wiktionary; `graphemic_classification: 未` already correct. Stored `vietnamese: mị` confirmed as the sole genuine Hán Việt reading. Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section, preserving the already-correct Words/Chengyu content.
+
+**Real ruby bug found and fixed on a citing word page**: [[魑魅]]'s own stored `注音` was `ㄇㄧㄜ` — missing the first syllable entirely (魑's own reading is ㄑㄧ, confirmed against `characters/魑.md`); the already-perfected chengyu [[魑魅罔両]] independently uses the correct full compound reading `ㄑㄧㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ`, confirming the two-syllable form `ㄑㄧㄇㄧㄜ` is right. Corrected 魑魅's `注音` directly (same category of fix as the earlier 猿痘/便箋/薫 word-page corrections this session) and added it as a new Words entry.
+
+**Words cross-check** (2 total ground-truth hits — this page went from 1 listed to 2 verified): added the newly-fixed [[魑魅]]; kept already-correct [[魅惑]] (stand-in). False positive excluded after checking its own `characters:` field: [[惑]]. **Chengyu**: kept already-correct [[魑魅罔両]]; [[Misc. Chengyu]] matched a naive text grep but has no `characters:` field at all — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 軸 (char) (6050; 1596 characters remaining).
+
+### 2026-08-08, iteration 908 — [[characters/軸 (char)|軸]]
+
+**mc_id bug fixed**: stored value `2287` pointed to `椎` at `lookup/CC/CC 2000.md` line 300 — a different character. The actual entry for 軸 is line 301, rank `2288` (an off-by-one error). Hybrid 形声/會意 classification (semantic [[車 (char)|車]] + phonetic [[由 (char)|由]], OC \*l'ɯwɢ, "the axle that passes through a cartwheel") confirmed via Wiktionary; `graphemic_classification: 由` already correct. `aliases: [轴]` confirmed as the genuine simplified form. Stored `vietnamese: trục` confirmed as the sole genuine Hán Việt reading. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[軸]] (the page previously had no `## Words` section). **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 欧 (6051; 1595 characters remaining).
