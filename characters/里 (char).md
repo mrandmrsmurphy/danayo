@@ -64,3 +64,4 @@ boundedness: 100
 - <ruby>[[理]]<rt>ㄌㄧ</rt></ruby> "-ology; reason"
 - <ruby>[[裏]]<rt>ㄌㄧ</rt></ruby> "inside; interior"
 - <ruby>[[鯉]]<rt>ㄌㄧ</rt></ruby> "koi; carp"
+- <ruby>[[埋]]<rt>ㄇ⼶</rt></ruby> "bury; conceal"

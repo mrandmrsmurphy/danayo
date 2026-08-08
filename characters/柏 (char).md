@@ -15,7 +15,7 @@ stroke_count: 9
 radical: 木
 skip_number: 1-4-5
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - cypress
   - cedar
@@ -25,7 +25,7 @@ joyo_level: 日本人名用漢字
 hsk_level: "3"
 hanmun_edu_level: 名
 danayo_id: 5324
-mc_id: 1593
+mc_id: 1594
 graphemic_classification: 白
 stand_in: 柏
 aliases:
@@ -35,6 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 柏.
 >For the word, see [柏](words/柏.md)
@@ -43,11 +44,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-- 形声 (OC \*praːɡ): semantic [木](Radical%20075) (“tree”) + phonetic [白 (char)](characters/白%20(char).md) (OC \*braːɡ).
-- 栢 was dropped from the Korean HS list in 2000.
-[[Lookup/CC/initials/聲 幫]]
-[[Lookup/CC/finals/韻 陌二開]]
-- abbreviation for "berkelium": <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby>
+## Notes
+- 形声 (OC \*praːɡ): semantic [[Radical 075|木]] (“tree”) + phonetic [[白 (char)|白]] (OC \*braːɡ).
+- [SKIP-1-4-5](lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- 1594th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄅ⼘ㄎ](syllables/ㄅ⼘ㄎ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
+
 ## Words
-- <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby> "berkelium"
+- <ruby>[[柏]]<rt>ㄅ⼘ㄎ</rt></ruby> “cypress, cedar” (stand-in for 柏)
+- <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby> “berkelium”

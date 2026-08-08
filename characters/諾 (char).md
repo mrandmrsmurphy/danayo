@@ -14,7 +14,7 @@ stroke_count: 16
 radical: 言
 skip_number: 1-7-9
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - consent
 羅馬字: nag
@@ -33,6 +33,7 @@ tags:
   - character
 kwin: true
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 諾.
 >For the word, see [諾](words/諾.md)
@@ -41,9 +42,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 泥]]
-[[../lookup/CC/finals/韻 鈬開]]
-- abbreviation for "nobelium": <ruby>[[諾貝金]]<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby>
+## Notes
+- 形声: semantic [[言 (char)|言]] ("speech") + phonetic [[若 (char)|若]] (OC \*naːɡ) — "to consent, assent" (an affirmative reply).
+- [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
+- 1254th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄋㄚㄎ](syllables/ㄋㄚㄎ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
 ## Words
-- <ruby>[[諾貝金]]<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby> "nobelium"
+- <ruby>[[諾]]<rt>ㄋㄚㄎ</rt></ruby> "consent" (stand-in for 諾)
+- abbreviation for "nobelium": <ruby>[[諾貝金]]<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby>

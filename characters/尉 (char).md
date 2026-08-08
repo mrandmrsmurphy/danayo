@@ -2,7 +2,7 @@
 mandarin: "wèi"
 cantonese: "wai3"
 korean: "위"
-korean_native: ""
+korean_native: "벼슬"
 japanese:
   - I
 japanese_native: ø
@@ -14,7 +14,7 @@ stroke_count: 11
 radical: 寸
 skip_number: 1-8-3
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - officer
 羅馬字: "'ud"
@@ -32,6 +32,7 @@ kwin: false
 tags:
   - character
 boundedness: 35
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 尉.
 >For the word, see [尉](words/尉.md)
@@ -40,6 +41,15 @@ boundedness: 35
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 物]]
+## Notes
+- 會意 (possibly): 𡰥 + [[Radicals/Radical 041|寸]] ("hand") + [[火 (char)|火]] ("fire") — "official position, officer."
+- [SKIP-1-8-3](lookup/SKIP/SKIP-1/SKIP-1-8-3.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
+- 256th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄨㄊ](syllables/ㄨㄊ.md)
+- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Words
+- <ruby>[[尉]]<rt>ㄨㄊ</rt></ruby> "officer" (stand-in for 尉)
+
+## Derived Characters
+- [[熨]]
+- [[慰]]

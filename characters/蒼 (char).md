@@ -14,7 +14,7 @@ stroke_count: 16
 radical: 艸
 skip_number: 2-3-13
 grade_level: "5"
-pos: ""
+pos: 性詞
 english:
   - blue
   - green
@@ -37,6 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 蒼.
 >For the word, see [蒼](words/蒼.md)
@@ -44,12 +45,18 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*sʰaːŋ, \*sʰaːŋʔ): semantic [[Radical 140|艸]] ("grass") + phonetic [[]] (OC \*sʰaːŋ).
-- 滄 was dropped from the Korean HS list in 2000.
-[[Lookup/CC/initials/聲 清]]
-[[Lookup/CC/finals/韻 唐開]]
-- [[蒼路]] "crane"
-- abbreviation for "bismuth": <ruby>[[蒼鉛]]<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby>
+- 形声 (OC \*sʰaːŋ, \*sʰaːŋʔ): semantic [[Radical 140|艸]] ("grass") + phonetic [[倉]] (OC \*sʰaːŋ).
+- [SKIP-2-3-13](lookup/SKIP/SKIP-2/SKIP-2-3-13.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
+- 1142nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄑ⺢ㄫ](syllables/ㄑ⺢ㄫ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[蒼]]<rt>ㄑ⺢ㄫ</rt></ruby> "blue, green, grey" (stand-in for 蒼)
 - <ruby>[[蒼朮]]<rt>ㄑ⺢ㄫㄐㄨㄊ</rt></ruby> "atractylodes rhizome"
+- <ruby>[[蒼鉛]]<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby> "bismuth"
+- <ruby>[[蒼海]]<rt>ㄑ⺢ㄫㄏㄚㄧ</rt></ruby> "vast ocean"
+- <ruby>[[蒼路]]<rt>ㄑ⺢ㄫㄌㄛ</rt></ruby> "crane"
+- <ruby>[[穹蒼]]<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby> "blue dome of heaven; firmament (dated)"
+
+## Chengyu
+- <ruby>[[蒼海桑田]]<rt>ㄑㄚㄫㄏㄚㄧㄙㄚㄫㄉㄚㄋ</rt></ruby> "time brings drastic changes to the world; the vicissitudes of life"

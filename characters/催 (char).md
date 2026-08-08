@@ -17,7 +17,7 @@ stroke_count: 13
 radical: "人"
 skip_number: 1-2-11
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - press (a person for)
   - urge (a person to do)
@@ -39,6 +39,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-07
 ---
 >[!tip] This is a page about the character 催.
 >For the word, see [催](words/催.md)
@@ -47,6 +48,11 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 清]]
-[[Lookup/CC/finals/韻 灰]]
+## Notes
+- 形声: semantic [[Radical 009|人]] ("person") + phonetic [[崔]] — "press (a person for), urge."
+- [SKIP-1-2-11](lookup/SKIP/SKIP-1/SKIP-1-2-11.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 7336th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄑㄛㄧ](syllables/ㄑㄛㄧ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[催](words/催.md)<rt>ㄑㄛㄧ</rt></ruby> "press, urge" (stand-in for 催)

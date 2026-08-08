@@ -16,7 +16,7 @@ stroke_count: 9
 radical: "目"
 skip_number: 3-2-7
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - shield
 羅馬字: jun
@@ -25,7 +25,7 @@ joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 5313
-mc_id: 1699
+mc_id: 1700
 graphemic_classification: "象形"
 stand_in: "盾"
 aliases:
@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 盾.
 >For the word, see [盾](words/盾.md)
@@ -41,7 +42,13 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a shield (in the oracle bone script). Note that under the 𠂆 is not 直 - one less stroke here. See also 古, perhaps a differentiation of 盾.
-- Dropped from the Korean HS list in 2000.
-[[Lookup/CC/initials/聲 禪]]
-[[Lookup/CC/finals/韻 諄]]
+- [List of 象形](lookup/List%20of%20象形.md): a shield (in the oracle bone script). Note that under the 𠂆 is not 直 — one less stroke here. See also 古, perhaps a differentiation of 盾.
+- [SKIP-3-2-7](lookup/SKIP/SKIP-3/SKIP-3-2-7.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- 1700th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄐㄨㄋ](syllables/ㄐㄨㄋ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Words
+- <ruby>[[盾]]<rt>ㄐㄨㄋ</rt></ruby> "shield" (stand-in for 盾)
+
+## Derived Characters
+- [[遁]]

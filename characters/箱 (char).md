@@ -17,7 +17,7 @@ stroke_count: 15
 radical: "竹"
 skip_number: 1-6-9
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - case
   - box
@@ -29,7 +29,7 @@ joyo_level: "3"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 5327
-mc_id: 3909
+mc_id: 3910
 graphemic_classification: "相"
 stand_in: "箱"
 aliases:
@@ -38,6 +38,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 箱.
 >For the word, see [箱](words/箱.md)
@@ -46,6 +47,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 陽開]]
+## Notes
+- 形声: semantic [[Radical 118|竹]] ("bamboo") + phonetic [[相]] (OC \*slaŋ) — a bamboo box.
+- [SKIP-1-6-9](lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
+- 3910th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙㄚㄫ](syllables/ㄙㄚㄫ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Words
+- <ruby>[[箱]]<rt>ㄙㄚㄫ</rt></ruby> "case, box, chest, trunk" (stand-in for 箱)

@@ -18,7 +18,7 @@ stroke_count: 10
 radical: "手"
 skip_number: 1-3-7
 grade_level: "5"
-pos: ""
+pos: 事詞
 english:
   - catch
   - grab
@@ -37,6 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-07
 ---
 >[!tip] This is a page about the character 捕.
 >For the word, see [捕](words/捕.md)
@@ -44,13 +45,16 @@ boundedness: 65
 [[nav/char_info]]
 ```
 ## Notes
+- 形声: semantic [[Radical 064|扌]] ("hand") + phonetic [[甫]] (OC \*paʔ) — overall OC \*baːs.
+- [SKIP-1-3-7](lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 1098th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄅㄛ](syllables/ㄅㄛ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
-- 形声 (OC \*baːs): semantic [[Radical 064|扌]] ("hand") + phonetic [[甫]] (OC \*paʔ).
 ## Words
-- [[捕手]]
-- [[捕鯨]]
-- [[逮捕]]
-- [[捕獲]]
-- 
-[[Lookup/CC/initials/聲 並]]
-[[Lookup/CC/finals/韻 模]]
+- <ruby>[[捕]]<rt>ㄅㄛ</rt></ruby> "catch, grab" (stand-in for 捕)
+- <ruby>[[逮捕]]<rt>ㄉㄚㄧㄅㄛ</rt></ruby> "arrest, apprehension"
+- <ruby>[[捕捉]]<rt>ㄅㄛㄐㄚㄎ</rt></ruby> "catch, capture"
+- <ruby>[[捕獲]]<rt>ㄅㄛㄏ⺢ㄎ</rt></ruby> "capture, catch"
+- <ruby>[[捕鯨]]<rt>ㄅㄛㄍ⼶ㄫ</rt></ruby> "whale"
+- <ruby>[[捕手]]<rt>ㄅㄛㄙ⼜</rt></ruby> "catcher (baseball)"
+- <ruby>[[拿捕]]<rt>ㄋㄚㄅㄛ</rt></ruby> "take, grasp, seize"

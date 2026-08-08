@@ -15,7 +15,7 @@ stroke_count: 12
 radical: 石
 skip_number: 1-5-7
 grade_level: "5"
-pos: ""
+pos: 性詞
 english:
   - hard
   - firm
@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-07
 ---
 >[!tip] This is a page about the character 硬.
 >For the word, see [硬](words/硬.md)
@@ -42,10 +43,14 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 疑]]
-[[Lookup/CC/finals/韻 耕開]]
-- abbreviation for "molybdenum": <ruby>[[硬金]]<rt>ㄚㄫㄍㄧㄇ</rt></ruby>
+## Notes
+- 形声: semantic [[Radical 112|石]] ("stone") + phonetic [[更]] (OC \*ŋɡraːŋs).
+- [SKIP-1-5-7](lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 3081st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 耕開|ɣɛŋ]] → [ㄚㄫ](syllables/ㄚㄫ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby> "hard, firm" (stand-in for 硬)
 - <ruby>[[硬直]]<rt>ㄚㄫㄐㄧㄊ</rt></ruby> "rigid; stiff"
+- <ruby>[[堅硬]]<rt>ㄍㄝㄋㄚㄫ</rt></ruby> "solid, hard"
+- <ruby>[[硬金]]<rt>ㄚㄫㄍㄧㄇ</rt></ruby> "molybdenum"

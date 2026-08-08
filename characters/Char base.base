@@ -18,6 +18,8 @@ views:
       - file.mtime
       - mc_id
     sort:
+      - property: boundedness
+        direction: DESC
       - property: date-last-perfect
         direction: ASC
       - property: mc_id
@@ -25,8 +27,6 @@ views:
       - property: danayo_id
         direction: DESC
       - property: file.mtime
-        direction: ASC
-      - property: boundedness
         direction: ASC
       - property: kwin
         direction: ASC

@@ -16,7 +16,7 @@ stroke_count: 15
 radical: "廾"
 skip_number: 2-12-3
 grade_level: "5"
-pos: ""
+pos: 性詞
 english:
   - evil
   - wrong
@@ -35,6 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 弊.
 >For the word, see [弊](words/弊.md)
@@ -43,6 +44,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 並]]
-[[Lookup/CC/finals/韻 齊開]]
+## Notes
+- 形声/會意: semantic 廾 ("both hands"; no vault page) + phonetic 敝 (OC \*beds, "destroy, tatters"; no vault page) — "to ruin with both hands"; extended to "evil, wrong, malpractice."
+- [SKIP-2-12-3](lookup/SKIP/SKIP-2/SKIP-2-12-3.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
+- 1351st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄆㄝㄧ](syllables/ㄆㄝㄧ.md)
+- [Grade 5](lookup/Grade%205.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[弊]]<rt>ㄆㄝㄧ</rt></ruby> "evil, wrong" (stand-in for 弊)

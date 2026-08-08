@@ -36,14 +36,20 @@ kwin: false
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 尻.
 >For the word, see [尻](words/尻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): in the oracle bone script – a person with the buttocks highlighted.
-- Pictogram (象形) in the oracle bone script – a person with the buttocks highlighted.  In the seal script, it developed into a phono-semantic compound (形声, OC \*kʰuː): semantic [尸](Radical%20044) (“body”) + phonetic [九](characters/九%20(char).md) (OC \*kuʔ).
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 豪]]
+- [List of 象形](lookup/List%20of%20象形.md): originally a pictogram in the oracle bone script — a person with the buttocks highlighted. Reanalyzed in the seal script as 形声 (OC \*kʰuː): semantic [[Radicals/Radical 044|尸]] ("body") + phonetic [[九 (char)|九]] (OC \*kuʔ).
+- [SKIP-3-3-2](lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
+- 3578th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄎㄚㄨ](syllables/ㄎㄚㄨ.md)
+- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Words
+- <ruby>[[尻]]<rt>ㄎㄚㄨ</rt></ruby> "buttocks" (stand-in for 尻)

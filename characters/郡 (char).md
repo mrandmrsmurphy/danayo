@@ -19,7 +19,7 @@ stroke_count: 10
 radical: "邑"
 skip_number: 1-7-3
 grade_level: "5"
-pos: ""
+pos: 名詞
 english:
   - county
   - prefecture
@@ -40,6 +40,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-07
 ---
 >[!tip] This is a page about the character 郡.
 >For the word, see [郡](words/郡.md)
@@ -48,6 +49,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 群]]
-[[Lookup/CC/finals/韻 文]]
+## Notes
+- 形声 (OC \*ɡluns): semantic [[Radical 163|邑]] ("city, town") + phonetic [[君 (char)|君]] (OC \*klun) — "commandery, county, district."
+- [SKIP-1-7-3](lookup/SKIP/SKIP-1/SKIP-1-7-3.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 232nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄍㄨㄋ](syllables/ㄍㄨㄋ.md)
+- [Grade 5](lookup/Grade%205.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (4), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[郡](words/郡.md)<rt>ㄍㄨㄋ</rt></ruby> "county, prefecture" (stand-in for 郡)
