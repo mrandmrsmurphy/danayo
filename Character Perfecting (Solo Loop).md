@@ -4697,3 +4697,739 @@ Next never-perfected character by `danayo_id`: 軸 (char) (6050; 1596 characters
 Stamped `date-last-perfect: 2026-08-08`.
 
 Next never-perfected character by `danayo_id`: 欧 (6051; 1595 characters remaining).
+
+### 2026-08-08, iteration 909 — [[characters/欧|欧]]
+
+Clean verification: `mc_id: 2104` exact at `lookup/CC/CC 2000.md` line 113 (`歐`). 形声 classification (semantic [[欠 (char)|欠]] + phonetic 區/[[区]], OC \*qoː) confirmed via Wiktionary; `graphemic_classification: 区` (the shinjitai component, consistent with the vault's shinjitai main glyph and a dedicated 区.md page) already correct. `aliases: [歐]` confirmed as the genuine traditional form. Stored `vietnamese: âu` confirmed as the sole genuine Hán Việt reading. Rebuilt the malformed body (Words entries scattered before/after/mixed with floating CC-initial/final wikilinks, several unruby'd) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (4 total ground-truth hits, unchanged from the 4 already present but now fully verified/reformatted): added ruby to [[欧洲]] and [[欧圓]] (previously bare wikilinks); corrected the `stand_in` designation to [[欧羅巴]] (matching the frontmatter's own `stand_in` field, which had been listed alongside the others without being marked as such); kept already-correct [[欧金]] (europium abbreviation). False positives excluded after checking each candidate's own `characters:` field: [[洲]], [[諸語]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 7 genuine hits found (sharing phonetic 区/區) — [[枢 (char)|枢]], [[殴]], [[鴎 (char)|鴎]], [[駆 (char)|駆]], [[呕]], [[䝙]], [[𧦅]] — added as a new `## Derived Characters` section (previously absent), the largest phonetic family found this session.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 釜 (6052; 1594 characters remaining).
+
+### 2026-08-08, iteration 910 — [[characters/釜|釜]]
+
+**mc_id bug fixed**: stored value `2242` pointed to `剋` at `lookup/CC/CC 2000.md` line 255 — a different character. The actual entry for 釜 is line 256, rank `2243` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[金 (char)|金]] + phonetic [[父]], OC \*baʔ) confirmed via Wiktionary; `graphemic_classification: 父` already correct. Stored `vietnamese: phủ` confirmed as the sole genuine Hán Việt reading. Confirmed `hanmun_edu_level: 無` correctly maps to [Korean Missing](lookup/Korean/Korean%20Missing.md). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[大釜]] (the page previously had no `## Words` section). False positive excluded after checking its own `characters:` field: [[大夫]] (a genuine Dan'a'yo homophone of 大釜 per that word's own callout, but doesn't cite 釜 itself). **Chengyu**: [[乾坤一擲]] matched a naive text grep but does not cite 釜 in its own `characters:` field — correctly omitted. **Derived Characters**: 2 genuine hits found (sharing phonetic 父) — [[斧]] and [[布]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 錠 (char) (6053; 1593 characters remaining).
+
+### 2026-08-08, iteration 911 — [[characters/錠 (char)|錠]]
+
+`mc_id: 9038` far exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[金 (char)|金]] + phonetic [[定]], OC \*deːŋs) confirmed via Wiktionary; `graphemic_classification: 定` already correct. `aliases: [锭]` confirmed as the genuine simplified form. Stored `vietnamese: đĩnh` could not be independently confirmed or refuted (Wiktionary's page has no Vietnamese section, and the citing word 錠's own field is null) — left unchanged absent contrary evidence. Confirmed the empty `korean_native` is factually correct, not a gap — Wiktionary's own Korean section is incomplete/untranslated for this character. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[錠]] (the page previously had no `## Words` section). **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 稽 (6054; 1592 characters remaining).
+
+### 2026-08-08, iteration 912 — [[characters/稽|稽]]
+
+Clean verification: `mc_id: 787` exact at `lookup/CC/CC 0000.md` line 814. 形声 classification confirmed via Wiktionary, with a genuinely unusual etymology: the modern form's semantic side is 𥝌 ("bent, stunted tree") + 尤, phonetic [[旨]], while the original form 𩒨 instead paired the same phonetic 旨 with semantic [[頁 (char)|頁]] ("head"); `graphemic_classification: 旨` already correct — rewrote the Notes bullet to capture both forms rather than oversimplifying. All 6 stored `vietnamese` readings (`ghe, ghê, khẻ, khẽ, khể, kê`) confirmed genuine and exhaustive per Wiktionary's own list. **Unconfirmed alias flagged, not removed**: `aliases: [𥡴]` — Wiktionary's own alternative-forms list for 稽 (𥠻, 𥡞, 䭫, 䭬, 𩒨, 乩) does not include 𥡴, and a targeted second check confirmed 𥡴 doesn't appear anywhere on the page; however, absence from one source isn't strong enough contrary evidence for a rare CJK Extension B character (unlike clear cases like 熏/燻 being independently-attested distinct characters), so left unchanged rather than deleted — flagged here for future verification. Filled the empty `pos` (`事詞`, precedent from the stand_in 稽古's own body sense). Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[稽古]] (stand-in). False positive excluded after checking its own `characters:` field: [[滑]]. **Chengyu**: [[臥薪嘗胆]] matched a naive text grep but does not cite 稽 in its own `characters:` field — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 唄 (char) (6055; 1591 characters remaining).
+
+### 2026-08-08, iteration 913 — [[characters/唄 (char)|唄]]
+
+**Real conflated-sense bug fixed, resolved using the citing word's own prior research**: the character page stored `mandarin: bei` and `english: ugh` and `pos: 感詞` — this described the completely unrelated modern colloquial Mandarin sentence-final particle 呗 (bei, "well, of course, I guess"), a purely Mandarin-internal innovation with no cross-linguistic reflex. The citing word [[唄]]'s own Notes had already caught and corrected this exact bug on the word page, documenting: "this entry previously stored `mandarin: bei` and glossed the word as 'ugh'... conflated the two unrelated senses; corrected to represent the Buddhist-chant sense the Dan'a'yo reading actually derives from" (bai/baai6/패/bái/バイ, all reflexes of MC \*braːds). Applied the same correction to the character page: `mandarin: bei→bài`, `english: ugh→[Buddhist chant, hymn]`, `pos: 感詞→名詞` (a noun, not an interjection). **Etymological detail corrected**: the body claimed the character transliterates Sanskrit "pathaka," but Wiktionary's own entry identifies the actual (if "phonologically and semantically problematic") association as Sanskrit *bhāṇaka* ("chanter, reciter") — corrected to match, consistent with the word 唄's own already-accurate phrasing. 形声 classification (semantic [[Radicals/Radical 030|口]] + phonetic [[貝]], OC \*paːds) confirmed; `graphemic_classification: 貝` already correct. `aliases: [呗]` confirmed as the genuine simplified form (shared across both senses of the character). Stored `vietnamese: bái` confirmed as the sole genuine Hán Việt reading. `mc_id: 0` cleared to empty — the body's own pre-existing note ("Not found in Classical Chinese!") already correctly explained why, so this was preserved and reformatted into the frequency bullet rather than left as a raw exclamation. Rebuilt the body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[唄]] (the page previously had no `## Words` section). False positive excluded after checking its own `characters:` field: [[倍]] (a genuine Dan'a'yo homophone per the word 唄's own three-way homophone callout, but doesn't cite 唄 itself). **Chengyu**: no hits — correctly omitted. **Derived Characters**: 2 genuine hits found (sharing phonetic 貝) — [[敗]] and [[狽]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 骸 (6056; 1590 characters remaining).
+
+### 2026-08-08, iteration 914 — [[characters/骸|骸]]
+
+Clean verification: `mc_id: 1807` exact at `lookup/CC/CC 1000.md` line 844. 形声 classification (semantic [[骨 (char)|骨]] + phonetic [[亥]], OC \*ɡɯːʔ) confirmed via Wiktionary; `graphemic_classification: 亥` already correct. Stored `vietnamese: hài` confirmed as the sole genuine Hán Việt reading. Rebuilt the malformed body (Words section placed before Notes, floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (2 total ground-truth hits — this page went from 1 listed to 2 verified): added previously-missing [[骸骨]]; kept already-correct [[死骸]] (stand-in). **Chengyu**: no hits — correctly omitted. **Derived Characters**: 7 genuine hits found (sharing phonetic 亥) — [[劾]], [[咳]], [[該 (char)|該]], [[核 (char)|核]], [[刻]], [[垓]], [[孩]] — added as a new `## Derived Characters` section (previously absent), tying [[characters/欧|欧]]'s earlier record for the largest phonetic family found this session.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 墜 (6057; 1589 characters remaining).
+
+### 2026-08-08, iteration 915 — [[characters/墜|墜]]
+
+Clean verification: `mc_id: 1909` exact at `lookup/CC/CC 1000.md` line 950. 形声 classification (semantic [[土 (char)|土]] + phonetic [[隊 (char)|隊]], OC \*l'uːds) confirmed via Wiktionary; `graphemic_classification: 隊` already correct. `aliases: [坠]` confirmed as the genuine simplified form. Both stored `vietnamese: [truỵ, đụi]` readings confirmed genuine. Filled the empty `pos` (`性詞`, precedent from the stand_in 墜落's own `pos` field). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section. Also removed a stray leftover editorial fragment ("V seems too far") found on the citing word [[墜落]]'s own page, unrelated to any real content.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[墜落]] (stand-in). **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 札 (char) (6059; 1588 characters remaining).
+
+### 2026-08-08, iteration 916 — [[characters/札 (char)|札]]
+
+**mc_id bug fixed**: stored value `2183` pointed to `雙` at `lookup/CC/CC 2000.md` line 192 — a different character. The actual entry for 札 is line 193, rank `2184` (an off-by-one error, the same recurring pattern found throughout this session). **Glyph-confusion bug fixed**: `graphemic_classification` was stored as `乙` (yǐ, "second" — U+4E59, a common character), but a targeted follow-up check confirmed Wiktionary's actual cited phonetic is the visually near-identical but distinct `乚` (yǐn — U+4E5A, no vault page) — corrected. Empty `aliases` confirmed correct (札 is unchanged between traditional and simplified). `vietnamese: giạt` could not be independently confirmed (Wiktionary lists only `trát, trớt`) but also wasn't contradicted by any source — left unchanged rather than deleted, per this session's established non-destructive standard for unconfirmed-but-uncontradicted data. Filled the empty `pos` (`名詞`). Confirmed `joyo_level: "4"` (a numeric grade) correctly maps to [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[札]] (the page previously had no `## Words` section). **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 巣 (6060; 1587 characters remaining).
+
+### 2026-08-08, iteration 917 — [[characters/巣|巣]]
+
+**mc_id bug fixed**: stored value `1568` pointed to `杞` at `lookup/CC/CC 1000.md` line 593 — a different character. The actual entry for 巢 (巣's traditional form) is line 594, rank `1569` (an off-by-one error). 象形 classification (a baby bird 巛 in a nest 田, atop a tree 木) confirmed via Wiktionary; `graphemic_classification: 象形` already correct. `aliases: [巢]` confirmed as the genuine traditional form. **Real missing-data bug fixed**: `vietnamese` was stored empty; Wiktionary lists `sào` as the sole Hán Việt reading — filled in. Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, only 1 of 5 real Words hits) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (5 total ground-truth hits — this page went from 1 listed to 5 verified): added the self-referential `stand_in` [[鳥巣]] and previously-missing [[巣穴]], [[巣窟]], [[精巣]]; reformatted already-present [[蜂巣]] with proper ruby. False positives excluded after checking each candidate's own `characters:` field: [[蜂]], [[蜂蜜]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — 巣's classification is 象形 (a type string), not a phonetic component cited by other characters, so no such section applies.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 肘 (char) (6061; 1586 characters remaining).
+
+### 2026-08-08, iteration 918 — [[characters/肘 (char)|肘]]
+
+**mc_id bug fixed**: stored value `2577` pointed to `杵` at `lookup/CC/CC 2000.md` line 602 — a different character. The actual entry for 肘 is line 603, rank `2578` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[肉 (char)|肉]] + phonetic [[寸 (char)|寸]], originally bare 寸 before 肉 was added to distinguish it from the homograph 寸) confirmed via Wiktionary; `graphemic_classification: 寸` already correct. **Alias nuance clarified rather than removed**: `aliases: [肱]` — unlike several clear phonetic-series-contamination cases fixed earlier this session, Wiktionary here explicitly documents 肱 as "an alternative spelling" specifically in Japanese usage, even while noting it's fundamentally a distinct character with its own "upper arm" meaning — kept the alias but rewrote the Notes bullet to capture this nuance rather than presenting it as a plain interchangeable variant. Both stored `vietnamese: [khuỷu, trửu]` readings confirmed genuine. Removed a stray placeholder comment ("um, what?") left in the body instead of real content. Rebuilt into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[肘]] (stand-in), now explicitly marked as such. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 1 genuine hit found — [[酎]], sharing phonetic 肘 — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 晶 (6063; 1585 characters remaining).
+
+### 2026-08-08, iteration 919 — [[characters/晶|晶]]
+
+`mc_id: 5745` exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 會意 classification (triplication of [[日 (char)|日]], "bright, limpid") confirmed via Wiktionary; `graphemic_classification: 會意` already correct. Stored `vietnamese: tinh` confirmed as the sole genuine Hán Việt reading. Filled the empty `pos` (`名詞`, precedent from the stand_in 水晶's own `pos` field). Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (3 total ground-truth hits, unchanged): added the self-referential `stand_in` [[水晶]]; kept already-correct [[液晶]] and the "zirconium" abbreviation [[晶金]]. False positives excluded after checking each candidate's own `characters:` field: [[森林]], [[綏靖]], [[重素]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — 晶's classification is 會意 (a type string), not a phonetic component cited by other characters, so no such section applies.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 捻 (char) (6064; 1584 characters remaining).
+
+### 2026-08-08, iteration 920 — [[characters/捻 (char)|捻]]
+
+`mc_id: 7476` far exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[手 (char)|手]] + phonetic [[念]], OC \*nɯːms) confirmed via Wiktionary; `graphemic_classification: 念` already correct. **Large-scale Vietnamese contamination fixed**: 9 candidates were stored (`niêm, niết, niệm, niệp, nuốm, ném, núm, nạm, nắm`); Wiktionary confirms exactly 2 genuine Hán Việt readings — `niệm` and `niệp` — trimmed the other 7 as likely contamination, one of the largest such over-stuffed Vietnamese fields found this session. Filled the empty `pos` (`事詞` — "to twist" is verbal). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (2 total ground-truth hits — this page went from 1 listed to 2 verified): added the self-referential `stand_in` [[捻]]; kept already-correct [[絞捻]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 棺 (char) (6066; 1583 characters remaining).
+
+### 2026-08-08, iteration 921 — [[characters/棺 (char)|棺]]
+
+**mc_id bug fixed**: stored value `1541` pointed to `眉` at `lookup/CC/CC 1000.md` line 566 — a different character. The actual entry for 棺 is line 567, rank `1542` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[木 (char)|木]] + phonetic [[官]], OC \*koːn) confirmed via Wiktionary; `graphemic_classification: 官` already correct. Stored `vietnamese: quan` could not be independently confirmed or refuted (Wiktionary's Vietnamese section content wasn't retrievable, and the citing word 棺's own field is null) — left unchanged absent contrary evidence, consistent with this session's established non-destructive standard. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[棺]] (the page previously had no `## Words` section). **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 敷 (char) (6067; 1582 characters remaining).
+
+### 2026-08-08, iteration 922 — [[characters/敷 (char)|敷]]
+
+**mc_id bug fixed**: stored value `2520` pointed to `稚` at `lookup/CC/CC 2000.md` line 545 — a different character. The actual entry for 敷 is line 546, rank `2521` (an off-by-one error). **Two compounded classification bugs fixed**: (1) the body prose had the semantic/phonetic roles reversed, describing [[尃]] as semantic and [[Radicals/Radical 066|攵]] as phonetic — Wiktionary confirms the opposite: 攵 ("hand with whip; action") is semantic and 尃 (OC \*pʰa, "distribute") is phonetic; (2) `graphemic_classification` was stored as `旉`, but Wiktionary shows 旉 is not the phonetic component at all — it's actually documented as a **variant form of 敷 itself** ("This character is a variant form of 敷"), not of 尃. Corrected `graphemic_classification` to `尃` (which has its own vault page) and moved `旉` into `aliases` where it belongs as a genuine variant glyph. Both stored `vietnamese: [phô, phu]` readings confirmed genuine. **Broken-link cleanup**: the Words section cited [[座敷]] and [[敷布]] as plain unruby'd entries, but neither word page exists anywhere in the vault (`ls` confirmed both absent) — removed both dead links rather than leaving broken references. Rebuilt into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit — down from 3 listed, 2 of which were broken links to nonexistent pages): kept the self-referential `stand_in` [[敷]], now properly ruby'd. False positive excluded after checking its own `characters:` field: [[番]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 2 genuine hits found (sharing phonetic 尃) — [[博]] and [[縛]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 彰 (6068; 1581 characters remaining).
+
+### 2026-08-08, iteration 923 — [[characters/彰|彰]]
+
+**mc_id bug fixed**: stored value `1979` pointed to `泥` at `lookup/CC/CC 1000.md` line 1020 — a different character. The actual entry for 彰 is line 1021, rank `1980` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[Radicals/Radical 059|彡]] + phonetic [[章 (char)|章]], OC \*kjaŋ) confirmed via Wiktionary; `graphemic_classification: 章` already correct. Stored `vietnamese: chương` confirmed as the sole genuine Hán Việt reading. Filled the empty `pos` (`事詞`, precedent from the stand_in 彰明's own body sense). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (2 total ground-truth hits — this page went from 1 listed to 2 verified): added previously-missing [[表彰]]; kept already-correct [[彰明]] (stand-in), verified against its own `注音` field. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 澄 (6070; 1580 characters remaining).
+
+### 2026-08-08, iteration 924 — [[characters/澄|澄]]
+
+**mc_id bug fixed**: stored value `3551` pointed to `荔` at `lookup/CC/CC 3000.md` line 576 — a different character. The actual entry for 澄 is line 577, rank `3552` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[水 (char)|水]] + phonetic [[登 (char)|登]], OC \*tɯːŋ) confirmed via Wiktionary; `graphemic_classification: 登` already correct. **Vietnamese contamination fixed**: 3 candidates were stored (`chừng, trừng, xừng`); Wiktionary confirms exactly 2 genuine readings (`trừng, chừng`) — trimmed the unconfirmed `xừng`. Filled the empty `pos` (`性詞`, precedent from the stand_in 澄清's own `pos` field). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[澄清]] (stand-in). False positives excluded after checking each candidate's own `characters:` field: [[宙]], [[長]], [[垂直]], [[清澈]]. **Chengyu**: [[一目瞭然]] and [[種瓜得瓜]] both matched a naive text grep but neither cites 澄 in its own `characters:` field — correctly omitted. **Derived Characters**: 4 genuine hits found (sharing phonetic 登) — [[橙]], [[鄧]], [[灯 (char)|灯]], [[証]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 汰 (6071; 1579 characters remaining).
+
+### 2026-08-08, iteration 925 — [[characters/汰|汰]]
+
+`mc_id: 4497` exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[水 (char)|水]] + phonetic [[太 (char)|太]], OC \*tʰaːds) confirmed via Wiktionary; `graphemic_classification: 太` already correct. **Vietnamese completed**: 5 of 6 Wiktionary-attested readings were stored (`thái, thãi, thải, thảy, thẩy`, combining Hán Việt and Nôm); added the missing sixth, `sưởi`. Filled the empty `pos` (`事詞` — "to scour, weed out" is verbal). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[陶汰]] (stand-in). False positive excluded after checking its own `characters:` field: [[漏洩]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no genuine hits — the quote-tolerant grep only matched the page's own file — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 膜 (6072; 1578 characters remaining).
+
+### 2026-08-08, iteration 926 — [[characters/膜|膜]]
+
+**mc_id bug fixed**: stored value `3953` pointed to `隃` at `lookup/CC/CC 3000.md` line 994 — a different character. The actual entry for 膜 is line 995, rank `3954` (an off-by-one error). 形声 classification (semantic [[Radicals/Radical 130|⺼]] + phonetic [[莫 (char)|莫]], OC \*maːɡ) confirmed via Wiktionary; `graphemic_classification: 莫` already correct. **Vietnamese completed**: only `mô` was stored; Wiktionary lists both `mô` and `màng` — added the missing `màng`. Rebuilt the malformed body (raw relative-path links, floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[薄膜]] (stand-in), verified against its own `注音` field. False positive excluded after checking its own `characters:` field: [[細胞]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 8 genuine hits found (sharing phonetic 莫) — [[模]], [[漠]], [[寞]], [[募]], [[幕 (char)|幕]], [[慕]], [[暮]], [[墓]] — added as a new `## Derived Characters` section (previously absent), the largest phonetic family found this session, surpassing the earlier 7-character ties on [[characters/欧|欧]] and [[characters/骸|骸]].
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 崖 (char) (6073; 1577 characters remaining).
+
+### 2026-08-08, iteration 927 — [[characters/崖 (char)|崖]]
+
+Clean verification: `mc_id: 2615` exact at `lookup/CC/CC 2000.md` line 644. 形声 classification (semantic [[山 (char)|山]] + phonetic [[厓]], OC \*ŋreː) confirmed via Wiktionary; `graphemic_classification: 厓` already correct. **Vietnamese contamination fixed**: 3 candidates were stored (`day, giay, nhai`); Wiktionary confirms exactly 2 genuine readings (`nhai, day`) via two independent targeted checks — trimmed the unconfirmed `giay`. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[崖]] (the page previously had no `## Words` section). False positives excluded after checking each candidate's own `characters:` field: two genuine Dan'a'yo homophones [[唉]] and [[愛]] (per the word 崖's own callout, but neither cites 崖 itself) plus unrelated [[白亜]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 1 genuine hit found — [[涯 (char)|涯]], sharing phonetic 厓 — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 帆 (char) (6074; 1576 characters remaining).
+
+### 2026-08-08, iteration 928 — [[characters/帆 (char)|帆]]
+
+`mc_id: 8613` far exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[巾]] + phonetic [[凡 (char)|凡]], OC \*bom) confirmed via Wiktionary; `graphemic_classification: 凡` already correct. **Malformed scalar-field bug fixed, propagated fix applied to citing word too**: `mandarin` was stored as the two-value string `"fān fán"` — Wiktionary confirms both readings exist, but fān is the standard noun ("sail") reading matching this page's sense, while fán is a Taiwan-specific verb reading ("to sail") documented as a distinct sense; corrected to the single scalar `fān` and added a Notes clause explaining the excluded verb reading rather than silently dropping the information. The identical malformed value was also found on the citing word [[帆]]'s own page and fixed there for consistency. All 3 stored `vietnamese` readings (`buồm, buồng, phàm`) confirmed genuine. Filled the empty `pos` (`名詞`). Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (2 total ground-truth hits, unchanged): added the self-referential `stand_in` [[帆]]; kept already-correct [[帆船]]. **Chengyu**: added [[一帆風順]] (1 real hit, confirmed via its own `characters:` field) as a new `## Chengyu` section; [[Misc. Chengyu]] matched a naive text grep but has no `characters:` field at all — correctly omitted. **Derived Characters**: 4 genuine hits found (sharing phonetic 凡) — [[鳳]], [[風 (char)|風]], [[釩]], [[汎 (char)|汎]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 嫉 (6075; 1575 characters remaining).
+
+### 2026-08-08, iteration 929 — [[characters/嫉|嫉]]
+
+**mc_id bug fixed**: stored value `2687` pointed to `倨` at `lookup/CC/CC 2000.md` line 716 — a different character. The actual entry for 嫉 is line 717, rank `2688` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[女 (char)|女]] + phonetic [[疾]], OC \*zid) confirmed via Wiktionary; `graphemic_classification: 疾` already correct. Stored `vietnamese: tật` confirmed as the sole genuine Hán Việt reading. **Unverifiable historical claim removed**: the body asserted the character was "much more specific" in ancient times, meaning "a wife's jealousy of her husband" — two independent targeted Wiktionary checks found no support for this claim anywhere on the character's page, which gives only the broad general senses "to envy" and "to hate, resent" with no historical note narrowing it to spousal jealousy; removed the unsupported claim rather than presenting it as fact (the same standard applied earlier this session to the unverified 2017-Jōyō-date claim on [[characters/潟|潟]]). Filled the empty `pos` (`性詞`, precedent from the stand_in 嫉妬's own `pos` field). Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[嫉妬]] (stand-in). **Chengyu**: [[波乱万丈]] matched a naive text grep but does not cite 嫉 in its own `characters:` field — correctly omitted. **Derived Characters**: no genuine hits — the quote-tolerant grep only matched the page's own file — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 斑 (6076; 1574 characters remaining).
+
+### 2026-08-08, iteration 930 — [[characters/斑|斑]]
+
+`mc_id: 4165` exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. **Classification bug fixed**: `graphemic_classification` was stored as `會意`, with the body describing components as [[玨]] + [[文]] (two ideograph pieces) — but Wiktionary gives a single, definitive classification: 形声 (phono-semantic), semantic 文 ("pattern") + abbreviated phonetic 班 (OC \*praːn), with no mention of 玨 anywhere in the glyph-origin text. Corrected `graphemic_classification` to `班` (which has its own vault page, unlike the nonexistent 玨) and rewrote the Notes bullet accordingly. Stored `vietnamese: ban` confirmed as the sole genuine Hán Việt reading. `pos`/other frontmatter fields already correct.
+
+**Words cross-check** (2 total ground-truth hits, unchanged): added the self-referential `stand_in` [[斑点]]; kept already-correct [[斑鳩]]. **Chengyu**: added [[豹斑改乎]] (1 real hit, confirmed via its own `characters:` field) as a new `## Chengyu` section; [[Biblical Chengyu]] matched a naive text grep but has no `characters:` field at all — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 隙 (char) (6077; 1573 characters remaining).
+
+### 2026-08-08, iteration 931 — [[characters/隙 (char)|隙]]
+
+**mc_id bug fixed**: stored value `1894` pointed to `阜` at `lookup/CC/CC 1000.md` line 931 — this is actually 隙's own semantic radical, not 隙 itself (an unusual variant of the recurring off-by-one pattern, where the shifted rank happened to land exactly on the character's own component). The actual entry for 隙 is line 932, rank `1895`. **Glyph-confusion bug fixed**: `graphemic_classification` was stored as `間` (a common, unrelated character meaning "between, interval"), but Wiktionary confirms the real phonetic component is the rare `𡭴` (Taiwan variant 𡮂; no vault page for either) — corrected. Stored `vietnamese: khích` confirmed as the sole genuine Hán Việt reading. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[隙]] (the page previously had no `## Words` section). False positive excluded after checking its own `characters:` field: [[喫]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 梗 (6078; 1572 characters remaining).
+
+### 2026-08-08, iteration 932 — [[characters/梗|梗]]
+
+**mc_id bug fixed**: stored value `3033` pointed to `藺` at `lookup/CC/CC 3000.md` line 38 — a different character. The actual entry for 梗 is line 39, rank `3034` (an off-by-one error). 形声 classification (semantic [[木 (char)|木]] + phonetic [[更 (char)|更]], OC \*kraːŋʔ) confirmed via Wiktionary; `graphemic_classification: 更` already correct. **Vietnamese contamination resolved via the citing word's own prior deep research, not a shallow source check**: 11 candidates were stored; a first-pass Wiktionary fetch appeared to support keeping all of them (its Nôm-reading table listed `gánh, ngáng, ngánh, chành` alongside the rest), but the citing word [[花梗]]'s own Notes had already done careful groupwise analysis, explicitly stating these same four are "unrelated native words with no real connection to 梗" — distinct from the genuinely-attested `cạnh`/`ngạnh` (separate "edge"/"barb" senses), `cánh` (used in 桔梗), and `cành`/`ngành`/`nhánh`/`nhành` (legitimate native/Nôm "branch" doublets). Trusted this vault's own targeted domain research over the noisier external table and trimmed to the 7 confirmed readings, removing `gánh, ngáng, ngánh, chành`. Filled the empty `pos` (`名詞`, precedent from the word 花梗's own `pos` field). Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (3 total ground-truth hits — this page went from 2 listed to 3 verified): added the self-referential `stand_in` [[花梗]]; kept already-correct [[桔梗]] and [[梗塞]]. False positive excluded after checking its own `characters:` field: [[要塞]]. **Chengyu**: [[珠投猪前]] matched a naive text grep but does not cite 梗 in its own `characters:` field — correctly omitted. **Derived Characters**: 1 genuine hit found — [[硬 (char)|硬]], sharing phonetic 更 — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 妖 (6079; 1571 characters remaining).
+
+### 2026-08-08, iteration 933 — [[characters/妖|妖]]
+
+Clean verification: `mc_id: 1354` exact at `lookup/CC/CC 1000.md` line 371. 形声 classification (semantic [[女 (char)|女]] + phonetic [[夭]], OC \*qrow) confirmed via Wiktionary; `graphemic_classification: 夭` already correct. **Vietnamese contamination fixed**: 4 candidates were stored (`yêu, èo, ẻo, ẽo`); Wiktionary confirms exactly 2 genuine readings (`yêu, èo`) — trimmed the 2 unconfirmed near-homographs (`ẻo, ẽo`), which differ only by tone mark from the confirmed `èo`, a plausible tone-diacritic corruption pattern. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (3 total ground-truth hits — this page went from 0 listed to 3 verified): added the self-referential `stand_in` [[妖怪]], [[妖物]], and [[妖精]] (the page previously had no `## Words` section). False positives excluded after checking each candidate's own `characters:` field: [[怪物]], [[火車]], [[魔女]]. **Chengyu**: [[魑魅罔両]] matched a naive text grep but does not cite 妖 in its own `characters:` field — correctly omitted. **Derived Characters**: 2 genuine hits found (sharing phonetic 夭) — [[沃]] and [[笑 (char)|笑]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 肢 (6080; 1570 characters remaining).
+
+### 2026-08-08, iteration 934 — [[characters/肢|肢]]
+
+**mc_id bug fixed**: stored value `2605` pointed to `裕` at `lookup/CC/CC 2000.md` line 634 — a different character. The actual entry for 肢 is line 635, rank `2606` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[肉 (char)|肉]] + phonetic [[支 (char)|支]], OC \*kje) confirmed via Wiktionary, which also notes 肢 was "originally the same word as 支"; `graphemic_classification: 支` already correct. Stored `vietnamese: chi` could not be independently confirmed (Wiktionary's page omits a Vietnamese section) but is consistent with the expected phonetic derivation from 支 and wasn't contradicted by any source — left unchanged. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[肢体]] (stand-in). **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 肪 (char) (6081; 1569 characters remaining).
+
+### 2026-08-08, iteration 935 — [[characters/肪 (char)|肪]]
+
+`mc_id: 9251` far exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[肉 (char)|肉]] + phonetic [[方 (char)|方]], OC \*paŋ/\*baŋ) confirmed via Wiktionary; `graphemic_classification: 方` already correct. **Vietnamese completed**: only `phòng` was stored; Wiktionary lists both `phòng` and `phương` — added the missing `phương`.
+
+**Real reading-mismatch bug found and fixed on the citing word page**: the word [[肪]] (this character's own `stand_in`, meant to directly carry the same reading) was stored with `羅馬字: pang`, `諺文: 팡`, `注音: ㄆㄚㄫ` — using a ㄆ (aspirated p-) initial, while the character's own frontmatter (and this character's `middle_chinese_initial: f`, matching 聲 非) consistently derives to `fang/빵/ㄈㄚㄫ`. Independently corroborated by [[脂肪]]'s own already-correct `注音` (`ㄐㄧㄜㄈㄚㄫ`), which uses the ㄈ-initial form for 肪. Corrected the word page's `羅馬字`/`諺文`/`注音` to match the character's own values.
+
+**Words cross-check** (2 total ground-truth hits, unchanged): kept the now-corrected [[肪]] (stand-in) and already-correct [[脂肪]]. False positives excluded after checking each candidate's own `characters:` field: [[傍]], [[脂膏]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 10 genuine hits found (sharing phonetic 方) — [[房 (char)|房]], [[妨]], [[彷]], [[芳]], [[坊]], [[訪]], [[旁]], [[紡 (char)|紡]], [[防]], [[放]] — added as a new `## Derived Characters` section (previously absent), the largest phonetic family found this session, surpassing [[characters/膜|膜]]'s 8-character record.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 嗅 (6082; 1568 characters remaining).
+
+### 2026-08-08, iteration 936 — [[characters/嗅|嗅]]
+
+`mc_id: 6158` far exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[口 (char)|口]] + phonetic [[臭 (char)|臭]], OC \*qʰlus) confirmed via Wiktionary; `graphemic_classification: 臭` already correct. Stored `vietnamese: khứu` confirmed as the sole genuine Hán Nôm reading. Fixed [[嗅覚]]'s Words entry, which was previously an unruby'd bare wikilink — added proper ruby verified against the word's own `注音` field. Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (2 total ground-truth hits, unchanged): kept the now-properly-formatted [[嗅覚]] (stand-in) and already-correct "osmium" abbreviation [[嗅金]]. False positives excluded after checking each candidate's own `characters:` field: [[五官]], [[味覚]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no genuine hits — the quote-tolerant grep only matched the page's own file — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 沼 (6084; 1567 characters remaining).
+
+### 2026-08-08, iteration 937 — [[characters/沼|沼]]
+
+**mc_id bug fixed**: stored value `3383` pointed to `爍` at `lookup/CC/CC 3000.md` line 400 — a different character. The actual entry for 沼 is line 401, rank `3384` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[水 (char)|水]] + phonetic [[召]], OC \*djews) confirmed via Wiktionary; `graphemic_classification: 召` already correct. **Large-scale Vietnamese contamination trimmed, with a caveat**: 6 candidates were stored (`chiểu, chĩu, chẻo, trẻo, xẻo, xẽo`); Wiktionary's own Vietnamese section for 沼 lists only `trẻo` — and even flags that single reading as needing translation confirmation, i.e. this character's Vietnamese attestation is thin overall. Trimmed to the one directly-sourced reading rather than keeping the unconfirmed 5, but flagging the residual uncertainty here rather than presenting `trẻo` as fully settled.
+
+**Words cross-check** (2 total ground-truth hits, unchanged): kept already-correct [[沼沢]] (stand-in) and the "lutetium" abbreviation [[沼金]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 8 genuine hits found (sharing phonetic 召) — [[紹]], [[詔]], [[招]], [[劭]], [[昭 (char)|昭]], [[超 (char)|超]], [[貂]], [[邵]] — added as a new `## Derived Characters` section (previously absent), tying [[characters/膜|膜]]'s 8-character mark (both still below [[characters/肪 (char)|肪]]'s session-record 10).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 沃 (6085; 1566 characters remaining).
+
+### 2026-08-08, iteration 938 — [[characters/沃|沃]]
+
+**mc_id bug fixed**: stored value `1615` pointed to `忿` at `lookup/CC/CC 1000.md` line 644 — a different character. The actual entry for 沃 is line 645, rank `1616` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[水 (char)|水]] + phonetic [[夭]], OC \*qoːwɢ) confirmed via Wiktionary; `graphemic_classification: 夭` already correct. **Vietnamese contamination fixed**: 4 candidates were stored (`dạt, rày, óc, ốc`); Wiktionary confirms exactly 1 genuine reading (`óc`) — trimmed the other 3, none corroborated by the citing word 肥沃's own field (which uses a completely different native phrase, "màu mỡ," for this compound).
+
+**Words cross-check** (2 total ground-truth hits, unchanged): kept already-correct [[肥沃]] (stand-in) and the "iodine" abbreviation [[沃素]]. False positive excluded after checking its own `characters:` field: [[梗塞]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — [[笑 (char)|笑]] and [[妖]] share the same phonetic 夭 as siblings, but neither cites 沃 itself as a phonetic component, so no such section applies (same reasoning as the earlier [[characters/箋|箋]]/戔 case this session).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 炊 (char) (6086; 1565 characters remaining).
+
+### 2026-08-08, iteration 939 — [[characters/炊 (char)|炊]]
+
+**mc_id bug fixed**: stored value `2721` pointed to `歛` at `lookup/CC/CC 2000.md` line 754 — a different character. The actual entry for 炊 is line 755, rank `2722` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[火 (char)|火]] + abbreviated phonetic [[吹 (char)|吹]], OC \*kʰjol) confirmed via Wiktionary; `graphemic_classification: 吹` already correct. Stored `vietnamese: [sôi, xuy, xôi]` could not be independently confirmed or refuted (Wiktionary's page lacks a populated Vietnamese section, and the citing word 炊's own field is null) — left unchanged absent contrary evidence. Filled the empty `pos` (`事詞` — "to cook" is verbal). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[炊]] (the page previously had no `## Words` section). False positive excluded after checking its own `characters:` field: [[吹]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no genuine hits — the quote-tolerant grep only matched the page's own file — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 膝 (6087; 1564 characters remaining).
+
+### 2026-08-08, iteration 940 — [[characters/膝|膝]]
+
+**mc_id bug fixed**: stored value `2216` pointed to `組` at `lookup/CC/CC 2000.md` line 229 — a different character. The actual entry for 膝 is line 230, rank `2217` (an off-by-one error, the same recurring pattern found throughout this session). **Sibling-vs-phonetic confusion bug fixed**: `graphemic_classification` was stored as `漆` ("lacquer"), but Wiktionary confirms 膝's actual phonetic component is the rarer, bound `桼` (OC \*sʰiɡ; no vault page) — and critically, 漆 itself is built the same way (semantic 木 + phonetic 桼, confirmed by checking [[characters/漆 (char)|漆]]'s own already-correct `graphemic_classification: 桼`), meaning 膝 and 漆 are phonetic *siblings* sharing 桼, not one being the phonetic of the other. Corrected the field to `桼`. Stored `vietnamese: tất` could not be independently confirmed or refuted (Wiktionary's Vietnamese section is incomplete, and the citing word 膝蓋's own field has no Vietnamese value at all) — left unchanged absent contrary evidence. Rebuilt the malformed body (Words section placed before Notes, floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[膝蓋]] (stand-in). **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — [[characters/漆 (char)|漆]] shares the same phonetic 桼 as a sibling, but doesn't cite 膝 itself as a phonetic component, so no such section applies (same reasoning as the earlier [[characters/箋|箋]]/戔 and [[characters/沃|沃]]/夭 cases this session).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 凹 (char) (6088; 1563 characters remaining).
+
+### 2026-08-08, iteration 941 — [[characters/凹 (char)|凹]]
+
+`mc_id: 9390` far exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. **Classification bug fixed**: `graphemic_classification` was stored as `洼`, but Wiktionary gives a single definitive classification for 凹 — 象形 (pictogram, "a dented, sunken surface"), with no phono-semantic analysis at all. Corrected the field to `象形`. **Alias completeness fixed**: `aliases: [窪]` was already a genuine documented alternative form (per Wiktionary's Japanese-etymology note), but 洼 — the exact value that had been misplaced into `graphemic_classification` — is itself independently confirmed as the modern simplified Chinese form of 窪; added it to `aliases` where it belongs rather than discarding it outright. **Vietnamese completed**: only `ao` was stored; Wiktionary lists both `ao` (Hán Việt) and `lõm` (Nôm) — added the missing `lõm`; `ao`'s specific attestation was independently corroborated by the citing word [[凹]]'s own detailed Notes (ao địa, ao đột bất bình). Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (3 total ground-truth hits — this page went from 2 listed to 3 verified): added the self-referential `stand_in` [[凹]]; reformatted already-present [[凹凸]] and [[凹版]] with proper ruby, both verified against their own `注音` fields. **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — 凹's classification is 象形 (a type string), not a phonetic component cited by other characters, so no such section applies.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 融 (char) (6089; 1562 characters remaining).
+
+### 2026-08-08, iteration 942 — [[characters/融 (char)|融]]
+
+Clean verification: `mc_id: 1372` exact at `lookup/CC/CC 1000.md` line 389. 形声 classification (semantic 鬲 "cauldron," no vault page + phonetic [[虫]]/traditional 蟲, OC \*l'uŋ) confirmed via Wiktionary; `graphemic_classification: 蟲` already correct, matching the page's own already-correct body prose. Both `aliases: [螎, 𧖓]` confirmed as genuine documented variant forms. Stored `vietnamese: dung` confirmed as the sole genuine Hán Nôm reading. **Minor propagated fix**: the citing word [[融]]'s own `羅馬字` was stored as `yung`, missing the leading glottal-stop marker used consistently on this character's own `'yung` — corrected for consistency. Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (6 total ground-truth hits — this page went from 3 listed to 6 verified): added the self-referential `stand_in` [[融]] plus previously-missing [[溶融]] and [[金融]]; kept already-correct [[融合]], [[融資]], [[融化]]. False positives excluded after checking each candidate's own `characters:` field: [[危机]], [[綏靖]]. **Chengyu**: [[結髪夫妻]], [[混然一体]], [[生机勃勃]] all matched a naive text grep but none cite 融 in their own `characters:` field — all correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 凸 (char) (6090; 1561 characters remaining).
+
+### 2026-08-08, iteration 943 — [[characters/凸 (char)|凸]]
+
+**mc_id sentinel cleared, left honestly unresolved**: stored as `0` (same invalid-placeholder pattern found several times this session). 凸 does not appear anywhere in the vault's CC lookup files. Cleared to empty with an explicit "not found" note. 象形 classification (a pictogram of a protruding surface) confirmed via Wiktionary; `graphemic_classification: 象形` already correct — the natural pictographic counterpart to [[characters/凹 (char)|凹]] ("concave"), perfected earlier this session. **Vietnamese completed**: only `đột` was stored; Wiktionary lists both `đột` (Hán Nôm) and `trồi` (Nôm) — added the missing `trồi`. Filled the empty `pos` (`性詞` — "convex" is adjectival).
+
+**Words cross-check** (2 total ground-truth hits, unchanged): kept already-correct [[凸]] (stand-in) and added previously-missing [[凹凸]]. False positives excluded after checking each candidate's own `characters:` field: [[凹]], [[凹版]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — 凸's classification is 象形 (a type string), not a phonetic component cited by other characters, so no such section applies.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 硫 (6091; 1560 characters remaining).
+
+### 2026-08-08, iteration 944 — [[characters/硫|硫]]
+
+**mc_id sentinel cleared, left honestly unresolved**: stored as `0` (same invalid-placeholder pattern found several times this session). 硫 does not appear anywhere in the vault's CC lookup files. Cleared to empty with an explicit "not found" note. **Sibling-vs-phonetic confusion bug fixed**: `graphemic_classification` was stored as `㐬`, but Wiktionary's own etymology text literally names "abbreviated phonetic 流" (not 㐬) as 硫's phonetic component — confirmed via a second targeted verbatim-quote check. 㐬 is instead the phonetic underlying 流 itself (confirmed by checking [[流]]'s own `graphemic_classification: 㐬`), making 硫 and 流 phonetic-family relatives one level removed, not directly sharing the same immediate component. Corrected the field to `流`. `aliases: [磂]` confirmed as the genuine documented alternative form. Stored `vietnamese: lưu` confirmed as the sole genuine Hán Việt reading. Cleaned up a stray trailing numbered-list fragment ("1. sulphur") left outside any proper section, and rebuilt the body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[硫黄]] (stand-in). False positives excluded after checking each candidate's own `characters:` field: [[墨素]], [[燐素]], [[重素]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — [[流]] shares the deeper phonetic 㐬 as a distant relative, but doesn't cite 硫 itself as a phonetic component, so no such section applies.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 匠 (6092; 1559 characters remaining).
+
+### 2026-08-08, iteration 945 — [[characters/匠|匠]]
+
+**mc_id bug fixed**: stored value `1679` pointed to `焚` at `lookup/CC/CC 1000.md` line 708 — a different character. The actual entry for 匠 is line 709, rank `1680` (an off-by-one error, the same recurring pattern found throughout this session). **Classification left as genuinely contested, not force-resolved**: Wiktionary documents two competing analyses — the traditional Shuowen 會意 (匚 "box" + 斤 "axe," a craftsman's toolbox) and a modern-scholarship 形声 reanalysis (Zhengzhang 2003, Baxter–Sagart 2014) treating 匚 as phonetic and 斤 as semantic — without clearly favoring either, unlike the earlier 貫/賓 cases this session where Shuowen's folk etymology was explicitly called mistaken. Kept `graphemic_classification: 會意` (already stored) and documented both theories in the Notes bullet rather than unilaterally picking a side. Stored `vietnamese: tượng` confirmed as the sole genuine Hán Việt reading. **Self-caught ruby error**: initially wrote the Words entry for [[工匠]] using 匠's own character reading (ㄑ⺢ㄫ) instead of the actual two-syllable compound reading (ㄍㄛㄫㄐㄚㄫ) — caught by cross-checking the word's own `注音` field before finalizing. Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[工匠]] (stand-in), corrected as above. False positive excluded after checking its own `characters:` field: [[工場]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 衷 (6093; 1558 characters remaining).
+
+### 2026-08-08, iteration 946 — [[characters/衷|衷]]
+
+**mc_id bug fixed**: stored value `2818` pointed to `啼` at `lookup/CC/CC 2000.md` line 855 — a different character. The actual entry for 衷 is line 856, rank `2819` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[衣]] + phonetic [[中 (char)|中]], OC \*tuŋ/\*tuŋs) confirmed via Wiktionary; `graphemic_classification: 中` already correct. Stored `vietnamese: trung` confirmed as the sole genuine Hán Việt reading. Filled the empty `pos` (`名詞`). Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (2 total ground-truth hits, unchanged): kept already-correct [[衷情]] (stand-in) and [[折衷]], both verified against their own `注音` fields. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 頒 (6094; 1557 characters remaining).
+
+### 2026-08-08, iteration 947 — [[characters/頒|頒]]
+
+**mc_id bug fixed**: stored value `2788` pointed to `滇` at `lookup/CC/CC 2000.md` line 821 — a different character. The actual entry for 頒 is line 822, rank `2789` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[頁 (char)|頁]] + phonetic [[分 (char)|分]]) confirmed via Wiktionary; `graphemic_classification: 分` already correct. `aliases: [颁]` confirmed as the genuine simplified form. Stored `vietnamese: ban` confirmed as the sole genuine Hán Việt reading. **Typo bug fixed**: `english` had a run-on entry `"bestow publish"` missing a list separator — split into proper separate `bestow` and `publish` items. Filled the empty `pos` (`事詞`). Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[頒布]] (stand-in). **Chengyu**: no hits — correctly omitted. **Derived Characters**: 8 genuine hits found (sharing phonetic 分) — [[扮 (char)|扮]], [[盆 (char)|盆]], [[芬]], [[粉 (char)|粉]], [[雰]], [[盼]], [[貧]], [[紛 (char)|紛]] — added as a new `## Derived Characters` section (previously absent), tying [[characters/膜|膜]] and [[characters/沼|沼]]'s 8-character mark (still below [[characters/肪 (char)|肪]]'s session-record 10).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 頬 (char) (6095; 1556 characters remaining).
+
+### 2026-08-08, iteration 948 — [[characters/頬 (char)|頬]]
+
+Clean verification: `mc_id: 2879` exact at `lookup/CC/CC 2000.md` line 916 (`頰`). 形声 classification (semantic [[頁 (char)|頁]] + phonetic 夾/[[夹]], OC \*kreːb) confirmed via Wiktionary; `graphemic_classification: 夹` (the shinjitai component, consistent with the vault's shinjitai main glyph and a dedicated 夹.md page) already correct. Both `aliases: [頰, 颊]` confirmed genuine (traditional and simplified forms). Stored `vietnamese: giáp` confirmed as the sole genuine Hán Việt reading. Collapsed a duplicated `japanese_native` list (`ほお` written twice) to the single canonical form. **Real data-corruption bug found and fixed on the citing word page**: [[頬]]'s own `korean` field was the literal string `"null"` (not an actual empty value, but the word "null" itself) and its `諺文` (`겊`) diverged from the character's own `諺文` (`겁`) despite representing the identical reading — corrected both to match the character's own frontmatter. Deduplicated the malformed body (two separate `## Notes` headings, the second containing entirely broken empty `[[]]` wikilinks and an incomplete OC placeholder) into a single proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[頬]] (stand-in), corrected as above. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no hits — correctly omitted.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 塁 (6097; 1555 characters remaining).
+
+### 2026-08-08, iteration 949 — [[characters/塁|塁]]
+
+**mc_id bug fixed**: stored value `2013` pointed to `矛` at `lookup/CC/CC 2000.md` line 18 — a different character. The actual entry for 壘 (塁's traditional form) is line 19, rank `2014` (an off-by-one error, the same recurring pattern found throughout this session). **Glyph-confusion bug fixed**: `graphemic_classification` was stored as `雷` (a common, visually similar character, "thunder"), but Wiktionary confirms the real phonetic component is `畾` (three 田 stacked, OC \*ruːl; no vault page) — corrected. `aliases: [壘]` confirmed as the genuine traditional form. **Vietnamese completed**: only `luỹ` was stored; Wiktionary lists both `luỹ` and `lũy` as alternate diacritic-placement spellings of the same reading — added the missing `lũy`. Rebuilt the malformed body (floating unformatted CC-initial/final wikilinks, no Words section) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (3 total ground-truth hits — this page went from 0 listed to 3 verified): added the self-referential `stand_in` [[壁塁]] plus previously-missing [[堡塁]] and [[本塁打]] (the page previously had no `## Words` section). **Chengyu**: no hits — correctly omitted. **Derived Characters**: 1 genuine hit found — [[累]], sharing the corrected phonetic 畾 — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 峡 (6098; 1554 characters remaining).
+
+### 2026-08-08, iteration 950 — [[characters/峡|峡]]
+
+**Real broken stand_in bug fixed**: `stand_in` was stored as `名専字` — a string with no corresponding word file anywhere in the vault (`ls` confirmed absent) and no coherent meaning as a real compound. Searched for words actually citing 峡 and found the genuine candidate: [[海峡]] ("strait, channel"), whose own reading (ㄏㄚㄧㄏㄚㄆ) correctly incorporates 峡's own ㄏㄚㄆ. Corrected `stand_in` to `海峡`. `mc_id` exceeds/falls outside the vault's verifiable CC lookup range (峽 not found in `CC 0000`–`CC 3000`) — left empty with an explicit note rather than guessed. 形声 classification (semantic [[山 (char)|山]] + phonetic [[夹]]/traditional 夾, OC \*ɡreːb) confirmed via Wiktionary; `graphemic_classification: 夹` already correct. `aliases: [峽]` confirmed as the genuine traditional form. **Vietnamese contamination fixed**: stored `[hiệp, kẽm]` — `kẽm` (meaning "zinc," an unrelated word) is not attested anywhere for this character and was removed; added the two Wiktionary-confirmed readings that were missing, `hệp` and `siệp`. Rebuilt the malformed body into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit): added the corrected `stand_in` [[海峡]] (the page previously had no real `## Words` section, just the broken stand_in reference). False positive excluded after checking its own `characters:` field: [[谷]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 5 genuine hits found (sharing phonetic 夾/夹) — [[狭]], [[鋏 (char)|鋏]], [[頬 (char)|頬]], [[侠]], [[挟 (char)|挟]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 挟 (char) (6099; 1553 characters remaining).
+
+### 2026-08-08, iteration 951 — [[characters/挟 (char)|挟]]
+
+Clean verification: `mc_id: 1492` exact at `lookup/CC/CC 1000.md` line 513 (`挾`). 形声 classification (semantic [[手 (char)|手]] + phonetic [[夹]]/traditional 夾, OC \*ɡeːb) confirmed via Wiktionary; `graphemic_classification: 夹` already correct. `aliases: [挾]` confirmed as the genuine traditional form. **Vietnamese completed**: only `giáp, hiệp` were stored; Wiktionary lists 4 readings total (`xáp, hiệp, giáp, rơi`) — added the 2 missing (`xáp, rơi`). **Same "null"-string bug found again, on the citing word page**: [[挟]]'s own `korean` field was the literal string `"null"` — the identical data-corruption pattern just fixed on [[characters/頬 (char)|頬]]'s citing word last cycle — corrected to `협` matching the character's own `korean` field. Filled the previously-missing Words section.
+
+**Words cross-check** (3 total ground-truth hits — this page went from 2 listed to 3 verified): added the self-referential `stand_in` [[挟]] (corrected as above); kept already-correct [[挟攻]] and [[挟撃]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: no genuine hits — [[characters/峡|峡]], [[characters/頬 (char)|頬]], and others share the same phonetic 夾/夹 as siblings, but none cite 挟 itself as a phonetic component.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 掘 (char) (6100; 1552 characters remaining).
+
+### 2026-08-08, iteration 952 — [[characters/掘 (char)|掘]]
+
+**mc_id bug fixed**: stored value `2149` pointed to `咨` at `lookup/CC/CC 2000.md` line 158 — a different character. The actual entry for 掘 is line 159, rank `2150` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[手 (char)|手]] + phonetic [[屈 (char)|屈]], OC \*ɡlud/\*ɡlod) confirmed via Wiktionary; `graphemic_classification: 屈` already correct. **Large Vietnamese list verified genuine, not contamination**: all 7 stored candidates (`oặt, quát, quạt, quất, quật, quặt, quịt`) exactly match Wiktionary's own 7-reading list — a case of legitimately extensive Nôm variation, same pattern as [[characters/梗|梗]] earlier this session, confirming a large Vietnamese field isn't automatically suspect. Filled the previously-missing Words section.
+
+**Words cross-check** (1 total ground-truth hit): added the self-referential `stand_in` [[掘]] (the page previously had no `## Words` section, only a `## Chengyu` section). False positive excluded after checking its own `characters:` field: [[墓穴]]. **Chengyu**: kept already-correct [[臨渇掘井]], verified against its own `注音` field; [[有備無患]] matched a naive text grep but does not cite 掘 in its own `characters:` field — correctly omitted. **Derived Characters**: 2 genuine hits found (sharing phonetic 屈) — [[堀]] and [[窟 (char)|窟]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 堪 (char) (6101; 1551 characters remaining).
+
+### 2026-08-08, iteration 953 — [[characters/堪 (char)|堪]]
+
+**mc_id bug fixed**: stored value `1574` pointed to `懸` at `lookup/CC/CC 1000.md` line 599 — a different character. The actual entry for 堪 is line 600, rank `1575` (an off-by-one error, the same recurring pattern found throughout this session). Hybrid 形声/會意 classification (semantic [[土 (char)|土]] + phonetic [[甚]], OC \*kʰluːm — "originally a heavy mountain/earthen protrusion," later "to endure") confirmed via Wiktionary; `graphemic_classification: 甚` already correct. **Vietnamese contamination resolved via the citing word's own prior deep research, overriding a shallower Wiktionary read**: a first-pass Wiktionary fetch appeared to support all 3 stored candidates (`kham, khom, khăm`) as "Hán Việt/Nôm readings," but the citing word [[堪]]'s own Notes had already done specific research identifying `khom` and `khăm` as unrelated native Vietnamese words (khom = "to stoop, bend"; khăm = "a mean trick") — "not Sino-Vietnamese doublets" of 堪 at all, merely coincidental near-homophones. Trusted this vault's own targeted research over the noisier external listing and trimmed to the single confirmed reading `kham`, consistent with the same reasoning pattern used on [[characters/梗|梗]] earlier this session.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[堪]] (stand-in), whose own body note was the very source that resolved this iteration's central Vietnamese question. False positive excluded after checking its own `characters:` field: [[勘 (char)|勘]] (a genuine Dan'a'yo homophone per that word's own three-way callout, but doesn't cite 堪 itself). **Chengyu**: no hits — correctly omitted. **Derived Characters**: 3 genuine hits found (sharing phonetic 甚) — [[斟]], [[勘 (char)|勘]], [[湛]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 粋 (6102; 1550 characters remaining).
+
+### 2026-08-08, iteration 954 — [[characters/粋|粋]]
+
+**mc_id bug fixed**: stored value `3152` pointed to `貺` at `lookup/CC/CC 3000.md` line 161 — a different character. The actual entry for 粹 (粋's traditional form) is line 162, rank `3153` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[米 (char)|米]] + phonetic [[卒]], OC \*suds) confirmed via Wiktionary; `graphemic_classification: 卒` already correct. `aliases: [粹]` confirmed as the genuine traditional form. Confirmed the empty `vietnamese` field is a genuine data gap, not a bug — neither Wiktionary nor the citing word [[純粋]]'s own field has any Vietnamese value for this character, so left empty rather than fabricated. Filled the empty `boundedness` (65, estimated — no hard formula exists in this vault).
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[純粋]] (stand-in). **Chengyu**: [[焚琴煮鶴]] matched a naive text grep but does not cite 粋 in its own `characters:` field — correctly omitted. **Derived Characters**: 3 genuine hits found (sharing phonetic 卒) — [[酔 (char)|酔]], [[砕 (char)|砕]], [[翠]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 爽 (6103; 1549 characters remaining).
+
+### 2026-08-08, iteration 955 — [[characters/爽|爽]]
+
+**mc_id bug fixed**: stored value `2055` pointed to `鹹` at `lookup/CC/CC 2000.md` line 60 — a different character. The actual entry for 爽 is line 61, rank `2056` (an off-by-one error, the same recurring pattern found throughout this session). 會意 classification ([[大 (char)|大]] "big" + 㸚, no vault page — "bright") confirmed via Wiktionary; `graphemic_classification: 會意` already correct. All 4 stored `vietnamese` readings (`sượng, sảng, sửng, sững`) confirmed genuine and exhaustive per Wiktionary's own list. Rebuilt the malformed body (Words section placed before Notes, floating unformatted CC-initial/final wikilinks) into the proper 4-bullet `## Notes` section.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[爽快]] (stand-in). **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — 爽's classification is 會意 (a type string), not a phonetic component cited by other characters, so no such section applies.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 紡 (char) (6104; 1548 characters remaining).
+
+### 2026-08-08, iteration 956 — [[characters/紡 (char)|紡]]
+
+**mc_id bug fixed**: stored value `3377` pointed to `恙` at `lookup/CC/CC 3000.md` line 394 — a different character. The actual entry for 紡 is line 395, rank `3378` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[糸]] + phonetic [[方 (char)|方]], OC \*pʰaŋʔ) confirmed via Wiktionary; `graphemic_classification: 方` already correct. All 3 stored `vietnamese` readings (`phưởng, vướng, vưởng`) confirmed genuine and exhaustive per Wiktionary's own list.
+
+**Real reading-mismatch bug found and fixed on the citing word page, the same pattern as [[characters/肪 (char)|肪]] two cycles ago**: the word [[紡]] (this character's own `stand_in`) was stored with `羅馬字: pang`, `諺文: 팡`, `注音: ㄆㄚㄫ` — a ㄆ (aspirated p-) initial, while the character's own frontmatter (with `middle_chinese_initial: fʰ`, matching 聲 敷) consistently derives to `fang/빵/ㄈㄚㄫ`. Independently corroborated by [[紡錘]]'s own already-correct `注音` (`ㄈㄚㄫㄑㄨㄧ`), which uses the ㄈ-initial form. Corrected the word page's `羅馬字`/`諺文`/`注音` to match the character's own values.
+
+**Words cross-check** (2 total ground-truth hits, unchanged): kept the now-corrected [[紡]] (stand-in) and already-correct [[紡錘]]. False positive excluded after checking its own `characters:` field: [[傍]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: none applicable — [[characters/肪 (char)|肪]], [[characters/防|防]], [[characters/放|放]], and others share the same phonetic 方 as siblings, but none cite 紡 itself as a phonetic component.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 紳 (6105; 1547 characters remaining).
+
+### 2026-08-08, iteration 957 — [[characters/紳|紳]]
+
+**mc_id bug fixed**: stored value `3051` pointed to `踈` at `lookup/CC/CC 3000.md` line 56 — a different character. The actual entry for 紳 is line 57, rank `3052` (an off-by-one error, the same recurring pattern found throughout this session — and coincidentally adjacent to [[characters/窒|窒]]'s own rank 3053, fixed earlier this session). 形声 classification (semantic [[糸]] + phonetic [[申 (char)|申]], OC \*hlin) confirmed via Wiktionary; `graphemic_classification: 申` already correct. Both stored `vietnamese: [thang, thân]` readings confirmed genuine and exhaustive per Wiktionary's own list. Confirmed the empty `korean_native` is factually correct, not a gap — Wiktionary explicitly flags this entry as needing translation, with no eumhun gloss provided. Filled the empty `pos` (`名詞`).
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[紳士]] (stand-in). False positive excluded after checking its own `characters:` field: [[士]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 5 genuine hits found (sharing phonetic 申) — [[坤]], [[神 (char)|神]], [[伸]], [[呻]], [[電]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 締 (char) (6107; 1546 characters remaining).
+
+### 2026-08-08, iteration 958 — [[characters/締 (char)|締]]
+
+`mc_id: 4937` exceeds the vault's verifiable CC lookup range (ranks 1–4000) — treated as legitimate long-tail data per standing policy. 形声 classification (semantic [[糸]] + phonetic [[帝 (char)|帝]], OC \*teːɡs) confirmed via Wiktionary; `graphemic_classification: 帝` already correct. `aliases: [缔]` confirmed as the genuine simplified form. Stored `vietnamese: [rế, đế, đề]` could not be independently confirmed or refuted (Wiktionary's page has no Vietnamese section, and the citing word 締's own field is null) — left unchanged absent contrary evidence. Filled the empty `pos` (`事詞`).
+
+**Words cross-check** (2 total ground-truth hits — this page went from 0 listed to 2 verified): added the self-referential `stand_in` [[締]] and [[締切]] (the page previously had no `## Words` section). False positives excluded after checking each candidate's own `characters:` field: [[剃]], [[大麻]]. **Chengyu**: no hits — correctly omitted. **Derived Characters**: 7 genuine hits found (sharing phonetic 帝) — [[蹄 (char)|蹄]], [[嫡 (char)|嫡]], [[啼]], [[滴 (char)|滴]], [[摘 (char)|摘]], [[諦 (char)|諦]], [[敵]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 呈 (char) (6108; 1545 characters remaining).
+
+### 2026-08-08, iteration 959 — [[characters/呈 (char)|呈]]
+
+**mc_id bug fixed**: stored value `3622` was a straight duplicate of [[characters/腕 (char)|腕]]'s own rank (verified earlier this session at `CC 3000.md` line 651), not 呈's actual entry, one line down at line 652, rank `3623`. **Sibling-vs-phonetic confusion bug fixed**: `graphemic_classification` was stored as `廷`, but Wiktionary confirms 呈's actual phonetic is the rare `𡈼` — and critically, 廷 itself is built the same way (semantic 廴 + phonetic 𡈼), meaning 呈 and 廷 are phonetic *siblings*, not one being the phonetic of the other (the same category of bug as the earlier [[characters/膝|膝]]/漆 and [[characters/硫|硫]]/流 cases this session). Corrected the field to `𡈼`, which has its own vault page. **Note**: [[characters/廷|廷]]'s own `graphemic_classification` is currently self-referentially stored as `廷` — an apparent bug on that page too, flagged here for its own future turn rather than fixed out-of-scope.
+
+**Vietnamese carefully reconciled from two sources**: the citing word [[呈]]'s own deep-dive Notes had already researched this character's Vietnamese field in detail, confirming `chiềng, chường, rềnh, triềng, trành, xình` as genuinely attested (though colloquial/reduplicative rather than formal Hán Việt) while explicitly flagging `chiệng` as "a tone-mark corruption of chiềng... dropped as noise." Removed `chiệng` per that finding. Independently, Wiktionary's own Nôm list additionally confirmed 3 further genuine readings not yet on the character page (`chành, dành, rình`) — added them, since the word's research (which predates these) never flagged them as invalid. Net effect: 10 readings total, down from the original 8 minus the confirmed-corrupt `chiệng` plus 3 confirmed additions.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[呈]] (stand-in), whose own Notes were central to resolving the Vietnamese question above. False positive excluded after checking its own `characters:` field: [[鼎]] (a genuine Dan'a'yo homophone per that word's own callout, but doesn't cite 呈 itself). **Chengyu**: added [[銀盤呈首]] (1 real hit, confirmed via its own `characters:` field) as a new `## Chengyu` section; [[万物生長]] matched a naive text grep but does not cite 呈 in its own `characters:` field — correctly omitted. **Derived Characters**: none applicable — [[聴 (char)|聴]] shares the same phonetic 𡈼 as a sibling, but doesn't cite 呈 itself as a phonetic component.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 腎 (6109; 1544 characters remaining).
+
+### 2026-08-08, iteration 960 — [[characters/腎|腎]]
+
+**mc_id bug fixed**: stored value `1437` pointed to `熊` at `lookup/CC/CC 1000.md` line 458 — a different character. The actual entry for 腎 is line 459, rank `1438` (an off-by-one error, the same recurring pattern found throughout this session). 形声 classification (semantic [[肉 (char)|肉]] + phonetic 臤, OC \*ɡiːn, no vault page) confirmed via Wiktionary; `graphemic_classification: 臤` already correct. `aliases: [肾]` confirmed as the genuine simplified form. **Vietnamese contamination fixed**: stored `[thận, trớn]`; Wiktionary confirms only `thận` — `trớn` (meaning "momentum, impetus," an unrelated native word) was not corroborated anywhere and was removed.
+
+**Words cross-check** (1 total ground-truth hit, unchanged): kept already-correct [[腎臓]] (stand-in). False positives excluded after checking each candidate's own `characters:` field: [[五官]], [[伸長]] (a genuine Dan'a'yo homophone of 腎臓 per that word's own callout, but doesn't cite 腎 itself). **Chengyu**: no hits — correctly omitted. **Derived Characters**: 3 genuine hits found (sharing phonetic 臤) — [[堅]], [[賢]], [[緊]] — added as a new `## Derived Characters` section (previously absent).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 舶 (6110; 1544 characters remaining).
+
+### 2026-08-08, iteration 961 — [[characters/舶|舶]]
+
+`mc_id: 0` confirmed genuine (舶 not found anywhere in ranks 1–4000 across `CC 0000`–`CC 3000`) — left as-is with the existing explicit note. 形声 classification confirmed via Wiktionary (semantic [[Radical 137|舟]] "boat" + phonetic [[白 (char)|白]], OC \*braːɡ); fixed the phonetic-component link, which was a plain markdown link `[白 (char)](白 (char).md)` instead of the standard wikilink `[[白 (char)|白]]` even though the target page exists. **Vietnamese fixed**: Wiktionary lists both `bạc` and `bách` as genuine Hán Nôm readings for 舶; only `bách` was stored — added the missing `bạc`. **English gloss fixed**: stored `oceanliner` (implies a specific passenger-liner type of ship) was replaced with Wiktionary's actual gloss `oceangoing ship`, matching the existing Notes bullet's own wording ("an oceangoing vessel").
+
+**Missing `## Words` section added**: the file had no Words section at all despite `stand_in: 船舶` being set — added <ruby>[[船舶]]<rt>ㄙ⼔ㄇㄅㄚㄎ</rt></ruby> "boat, ship" (stand-in for 舶), the only word citing 舶 (confirmed via grep). Cross-checked the `#cranberry` tag against [[船舶]]'s own Notes, which already documents the transitivity reasoning (shared `korean_native` 배, 舶 has no independent life elsewhere, 船's extra productivity doesn't branch into a different sense) — left unchanged, still valid. **Chengyu**: no hits. **Derived Characters**: no hits (no other character cites 舶 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 繭 (6111; 1543 characters remaining).
+
+### 2026-08-08, iteration 962 — [[characters/繭 (char)|繭]]
+
+This page was essentially unbuilt — a single-hash `# Notes` heading with two bare wikilinks and no SKIP/stroke/rank/Words content at all. Built out the full standard structure. **mc_id off-by-one fixed**: stored `2886` pointed one entry early in `lookup/CC/CC 2000.md`; the actual line for 繭 is rank `2887`. 會意 classification confirmed via Wiktionary: [[糸]] ("silk") + [[虫]] ("insect") + an abbreviated, pageless 黹 ("needlework") — depicting a cocoon unwound into silk thread; `graphemic_classification: 會意` already correct (no phonetic to point at). **Vietnamese fixed**: Wiktionary lists three genuine Hán Việt/Nôm readings — `kiển`, `kiền`, `kén` — only two were stored; added the missing `kiển` (also referenced independently in [[繭]]'s own word-page Notes, which discusses it alongside kén).
+
+Fixed the malformed `# Notes` heading to `## Notes`. Added the entirely-missing SKIP/stroke bullet, CC-rank/initials/finals bullet, and Grade/HSK/Jōyō/Korean bullet — all lookup targets verified to exist. Added the entirely-missing `## Words` section: <ruby>[[繭]]<rt>ㄍ⼶ㄇ</rt></ruby> "cocoon" (stand-in for 繭) — the only word citing this character, matching `stand_in` and the `#hapax` tag. **Chengyu**: no hits. **Derived Characters**: no hits (繭 is 會意, not a phonetic donor to any other character) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 茎 (6112; 1542 characters remaining).
+
+### 2026-08-08, iteration 963 — [[characters/茎 (char)|茎]]
+
+`mc_id: 2153` confirmed correct (matches 莖's actual rank in `CC 2000.md`, no off-by-one). 形声 classification confirmed via Wiktionary: semantic [[Radical 140|艸]] ("grass, plant") + phonetic [[巠]] (OC \*keːŋ, page exists); `graphemic_classification: 巠` already correct. Vietnamese `[hành, kinh]` confirmed complete against Wiktionary — no change. The stored ㄎ initial outcome (vs. the expected ㄏ for 匣-initial characters) is a documented minority case: the `聲 匣` lookup page already names 茎 as one of only three ㄎ exceptions (alongside 劦/雇), so no fix needed there — just cited it explicitly in the Notes per the CC-initials-minority-outcome standing rule. Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was a bare two-link stub** (no SKIP/stroke/rank/lookup bullets) — rebuilt to the standard 4-bullet format. **`## Words` section was entirely missing** — added both genuine citing words (verified via grep): <ruby>[[茎]]<rt>ㄎㄧㄫ</rt></ruby> (stand-in) and <ruby>[[陰茎]]<rt>ㄧㄇㄎㄧㄫ</rt></ruby> "penis". **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 茎/莖 as its own phonetic) — correctly has no section.
+
+**Fixed corrupted data on the citing word page** [[茎]] (words/茎.md): `vietnamese: null` and `korean: "null"` were literal string placeholders rather than real data or a proper empty/ø marker — corrected to `hành` (the genuine Hán Việt reading, corroborated by the real compound 陰莖/âm hành "penis") and `경` respectively; also filled its empty `pos` field to `名詞`. Left [[陰茎]]'s own empty `vietnamese` field alone (genuinely unresearched, not corrupted) since deep-filling citing words' own content is out of scope for the character-perfecting pass.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 艇 (6113; 1541 characters remaining).
+
+### 2026-08-08, iteration 964 — [[characters/艇 (char)|艇]]
+
+`mc_id: 6475` confirmed as legitimate long-tail data (艇 not found anywhere in the verifiable `CC 0000`–`CC 3000` range, ranks 1–4000) — left as-is. 形声 classification confirmed via Wiktionary: semantic [[Radical 137|舟]] ("boat") + phonetic [[廷]] (OC \*l'eːŋ, page exists); `graphemic_classification: 廷` already correct. Vietnamese `[đĩnh]` confirmed complete against Wiktionary — no change. (Note: 廷's own page still carries the self-referential `graphemic_classification: 廷` bug flagged during the 呈 iteration — out of scope here since 廷 is a separate, not-yet-due character.) Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section was entirely missing** — added the sole genuine citing word (verified via grep): <ruby>[[艇]]<rt>ㄉㄝㄫ</rt></ruby> "dinghy, rowboat, boat" (stand-in for 艇). **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 艇 as its own phonetic) — correctly has no section.
+
+**Fixed corrupted data on the citing word page** [[艇]] (words/艇.md): `vietnamese: null` was a literal string placeholder — corrected to `đĩnh` (the genuine Hán Việt reading); also filled its empty `pos` field to `名詞`. This is the same `vietnamese: null`/missing-`pos` corruption pattern just fixed on [[茎]]'s word page last iteration — worth watching for on upcoming characters too.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 賄 (6114; 1540 characters remaining).
+
+### 2026-08-08, iteration 965 — [[characters/賄|賄]]
+
+**mc_id off-by-one fixed**: stored `2319` → actual rank in `CC 2000.md` is `2320`. 形声 classification confirmed via Wiktionary: semantic [[貝]] ("cowry, money") + phonetic [[有 (char)|有]]; `graphemic_classification: 有` already correct. Vietnamese `[hối]` confirmed complete against Wiktionary — no change.
+
+**Broken `stand_in` fixed**: stored `財物` does not exist anywhere in the vault as a word file, and no reference to it exists outside this one field — the same "phantom stand-in" bug pattern found earlier on 峡 (`名専字`). Grepped for genuine citing words: the only real hit is [[賄賂]] ("bribe," characters: 賄+賂) — repointed `stand_in` to `賄賂`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section was entirely missing** — added <ruby>[[賄賂]]<rt>ㄏㄛㄧㄌㄛ</rt></ruby> "bribe" (stand-in for 賄); the other grep hit, [[回路]], was confirmed a false positive (a homophone note only, doesn't cite 賄 in its `characters:` field). **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 賄 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 賂 (6115; 1539 characters remaining).
+
+### 2026-08-08, iteration 966 — [[characters/賂|賂]]
+
+**mc_id off-by-one fixed**: stored `1404` → actual rank in `CC 1000.md` is `1405`. 形声 classification confirmed via Wiktionary: semantic [[貝]] ("cowry, money") + phonetic [[各 (char)|各]]; `graphemic_classification: 各` already correct. Vietnamese `[lộ]` confirmed complete against Wiktionary — no change. Filled the empty `pos` field to `事詞`, matching sibling character [[賄]]'s own pos (both halves of the same compound).
+
+**Broken `stand_in` fixed**: stored `饋遺` does not exist anywhere in the vault — another phantom stand-in, same pattern as [[賄]] and 峡 before it. The genuine citing word, confirmed via grep, is [[賄賂]] ("bribe") — the same compound already serving as [[賄]]'s own stand_in from last iteration. Verified this dual-stand_in pattern is an established, common convention in this vault (e.g. 飢餓, 謹慎, 鴛鴦, 責任 — dozens of compound pairs where neither character has independent life outside the one shared word) — not an anomaly requiring further scrutiny.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section was entirely missing** — added <ruby>[[賄賂]]<rt>ㄏㄛㄧㄌㄛ</rt></ruby> "bribe" (stand-in for 賂). **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 賂 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 賭 (6116; 1538 characters remaining).
+
+### 2026-08-08, iteration 967 — [[characters/賭|賭]]
+
+`mc_id: 7691` confirmed as legitimate long-tail data (賭 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. 形声 classification confirmed via Wiktionary: semantic [[貝]] ("cowry, money") + phonetic [[者 (char)|者]]; `graphemic_classification: 者` already correct. Vietnamese `[đổ]` confirmed complete against Wiktionary — no change. `stand_in: 賭博` confirmed genuine (the word file exists and correctly cites 賭). Filled the empty `pos` field to `事詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section was entirely missing** — added <ruby>[[賭博]]<rt>ㄉㄛㄅㄚㄎ</rt></ruby> "gamble" (stand-in for 賭). **Chengyu**: one grep hit, [[乾坤一擲]], confirmed a false positive — 賭 appears only inside a Japanese example sentence in that page's body, not in its `characters:` field — correctly excluded. **Derived Characters**: no hits (nothing cites 賭 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 踪 (6117; 1537 characters remaining).
+
+### 2026-08-08, iteration 968 — [[characters/踪|踪]]
+
+**mc_id off-by-one fixed**: stored `3739` → actual rank in `CC 3000.md` is `3740`. **Glyph/sibling-confusion bug found and fixed**: stored `graphemic_classification: 宗` looked plausible (宗 is zōng, matching 踪's modern Mandarin reading exactly), but Wiktionary's actual etymology names the phonetic as 從/従 (OC \*zloŋ, "follow") — confirmed independently by Middle Chinese finals: 踪's own stored final `ɨoŋ` matches [[従 (char)|從]]'s final `ɨoŋ` exactly, while 宗's own final is `uoŋ`, a mismatch. Corrected to `從` (displayed via the vault's [[従 (char)|從]] page, following the same convention already used on [[縦 (char)|縦]]'s own citation of this same phonetic).
+
+**Vietnamese contamination fixed**: stored `[tung, tông]` — Wiktionary confirms only `tung` as 蹤/踪's genuine Hán Việt/Nôm reading; `tông` is not attested for this character at all, but is one of 宗's own four stored readings (`tong, tung, tôn, tông`) — almost certainly contamination introduced alongside the wrong-donor `graphemic_classification` bug above. Trimmed to just `tung`. Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format, including an explanatory clause on the 宗-vs-從 phonetic confusion. The `## Words` section already existed with the correct entry ([[踪影]]) but was missing the "(stand-in for 踪)" suffix — added. **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 踪 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 轄 (6118; 1536 characters remaining).
+
+### 2026-08-08, iteration 969 — [[characters/轄 (char)|轄]]
+
+`mc_id: 4541` confirmed as legitimate long-tail data (轄 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. 形声 classification confirmed via Wiktionary: semantic [[車 (char)|車]] ("cart") + phonetic [[害]]; `graphemic_classification: 害` already correct. **Vietnamese incomplete, fixed**: stored `[hạt, hợt]`; Wiktionary lists five genuine Hán Nôm readings — added the missing `hặt`, `hách`, `hoách`. Filled the empty `pos` field to `事詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section was entirely missing** — added <ruby>[[轄]]<rt>ㄏㄚㄊ</rt></ruby> (stand-in for itself). **Chengyu**: 2 grep hits, 1 genuine — added <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ·⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "Rule fish, birds, life" as a new `## Chengyu` section; [[欲夫治汝]] was a false positive (轄 appears only inside a quoted Bible verse in its body, not in its `characters:` field). **Derived Characters**: no hits — correctly has no section.
+
+**Fixed corrupted data on the citing word page** [[轄]] (words/轄.md): `vietnamese: null` was a literal string placeholder — corrected to `hạt` (the first-listed/primary Hán Việt reading); also filled its empty `pos` field to `事詞`. Same `vietnamese: null`/missing-`pos` corruption pattern as [[茎]] and [[艇]] two iterations ago — now confirmed as a recurring, not isolated, data-quality issue worth flagging on every remaining character.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 遜 (6119; 1535 characters remaining).
+
+### 2026-08-08, iteration 970 — [[characters/遜|遜]]
+
+`mc_id: 2239` confirmed correct (matches actual rank in `CC 2000.md`, no off-by-one). 形声 classification confirmed via Wiktionary: semantic [[Radical 162|辵]] ("to walk") + phonetic [[孫]]; `graphemic_classification: 孫` already correct. Vietnamese `[tốn]` confirmed complete. **English gloss expanded**: stored only `inferior` (a secondary/literary sense), missing the primary sense `humble, modest` — added both, corroborated by the already-cited word [[謙遜]] ("humility, modesty").  Filled the empty `pos` field to `性詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format, drawing on [[遜色]]'s own Notes (which already traces 遜's relationship to 孫 and the "yield precedence" semantic development) for the etymological gloss. **`## Words` section already existed** with both genuine citing words — [[謙遜]] (correctly un-tagged, since its own Notes confirm it's actually the stand-in for [[謙]], not for 遜) and [[遜色]] (missing its "(stand-in for 遜)" tag — added). **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 遜 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 滋 (6120; 1534 characters remaining).
+
+### 2026-08-08, iteration 971 — [[characters/滋|滋]]
+
+`mc_id: 1654` confirmed correct (matches actual rank in `CC 1000.md`, no off-by-one). 形声 classification confirmed via Wiktionary: semantic [[Radical 085|水]] ("water") + phonetic 茲, which the vault pages under its variant glyph [[玆]] (matching MC initial/final `t͡s`/`ɨ` exactly, corroborating the shared phonetic); `graphemic_classification: 玆` already correct. Vietnamese `[tư]` confirmed complete. Filled the empty `pos` field to `性詞` (matching the pos of its own stand-in word).
+
+**Repaired a half-written Notes bullet**: the semantic gloss was a dangling empty string `("")` and the phonetic link was a bare, targetless `[[]]` — filled in properly as `[[Radical 085|水]] ("water") + phonetic [[玆]]`. **Removed an unsupported historical claim**: "added to the J jr list in 2017 because of prefecture names" had no corroboration on Wiktionary, and is actively contradicted by 滋's own stored `joyo_level: "4"` — a *kyōiku* (elementary-school-taught) grade, whereas the real 2010 Jōyō reform's prefecture-name additions (阜, 埼, 梨, 潟, etc.) all landed at 高等/non-kyōiku level in this vault's own classification. Same standard applied to [[潟]]'s unverified "2017 Jōyō" claim earlier in this project — removed rather than kept as unverified fact.
+
+**`## Words` section was entirely missing** — added <ruby>[[滋生]]<rt>ㄐㄜㄙㄚㄫ</rt></ruby> "grow, multiply, thrive" (stand-in for 滋); the other grep hit, [[令和]], was confirmed a false positive (滋 appears only inside a quoted classical passage). **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 滋 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 虹 (6121; 1533 characters remaining).
+
+### 2026-08-08, iteration 972 — [[characters/虹|虹]]
+
+**mc_id off-by-one fixed**: stored `2676` → actual rank in `CC 2000.md` is `2677`. 形声 classification confirmed via Wiktionary: semantic [[虫]] ("insect, creature") + phonetic [[工]]; `graphemic_classification: 工` already correct. **Vietnamese incomplete, fixed**: English Wiktionary's Vietnamese section was truncated/empty in fetches, so cross-checked Vietnamese Wiktionary directly — it lists `hống`, `hồng`, `vồng` as genuine readings; only `hồng` and `vồng` were stored — added the missing `hống`. Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was badly malformed** — a mix of a bare numbered gloss list, an inline neon-abbreviation aside with a malformed non-wikilink ruby, the two bare CC lookup links, and two Words-type ruby bullets all jumbled into one section with no proper 4-bullet structure. Rebuilt cleanly: standard Notes bullets, then a proper `## Words` section with all four genuine citing words (verified via grep) — <ruby>[[彩虹]]</ruby> (stand-in), <ruby>[[虹霓]]</ruby> "neon; neon light", <ruby>[[虹素]]</ruby> "neon", <ruby>[[虹尊]]</ruby> "rainbow trout". **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 虹 as its own phonetic) — correctly has no section.
+
+**Fixed a citing word bug found in passing**: [[虹尊]]'s own `注音` was stored as just `ㄏㄛㄫ` (虹's syllable alone), missing 尊's own syllable `ㄐㄛㄋ` — corrected to the full compound `ㄏㄛㄫㄐㄛㄋ`, matching the two-syllable convention used on its sibling [[虹霓]].
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 閥 (6122; 1532 characters remaining).
+
+### 2026-08-08, iteration 973 — [[characters/閥|閥]]
+
+`mc_id: 5828` confirmed as legitimate long-tail data (閥 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. 形声 classification confirmed via Wiktionary: semantic [[門]] ("door, gate") + phonetic [[伐]]; `graphemic_classification: 伐` already correct. Vietnamese `[phiệt]` confirmed complete. `stand_in: 閥族` confirmed genuine (word exists, correctly cites 閥). Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section already existed** with the correct single entry but was missing its "(stand-in for 閥)" suffix — added. **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 閥 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 侶 (6123; 1531 characters remaining).
+
+### 2026-08-08, iteration 974 — [[characters/侶|侶]]
+
+`mc_id: 4625` confirmed as legitimate long-tail data (侶 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. 形声 classification confirmed via Wiktionary: semantic [[Radical 009|人]] ("person") + phonetic [[呂]]; `graphemic_classification: 呂` already correct. Vietnamese `[lứa, lữ]` confirmed complete. `stand_in: 伴侶` confirmed genuine (already perfected, correctly cites 侶). Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section was entirely missing** — added both genuine citing words (verified via grep): <ruby>[[伴侶]]<rt>ㄅㄚㄋㄌ⼄</rt></ruby> "companion, partner, mate" (stand-in for 侶) and <ruby>[[僧侶]]<rt>ㄙㄨㄫㄌ⼄</rt></ruby> "Buddhist monk". **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 侶 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 偵 (6124; 1530 characters remaining).
+
+### 2026-08-08, iteration 975 — [[characters/偵 (char)|偵]]
+
+`mc_id: 5621` confirmed as legitimate long-tail data (偵 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. 形声/会意 classification confirmed via Wiktionary: semantic [[Radical 009|人]] ("person") + phonetic [[貞]]; `graphemic_classification: 貞` already correct.
+
+**Vietnamese contamination fixed**: stored `[rình, trinh, triệng]`; the citing word [[偵]]'s own Notes already contain specific prior research on exactly these three candidates — `trinh` confirmed as the genuine Hán Việt reading (attested in trinh sát/偵察, trinh thám/偵探), `rình` flagged as a native Vietnamese verb ("to lurk, watch stealthily," semantically adjacent but not Hán Việt), and `triệng` flagged as "likely corpus noise." Trimmed to just `trinh`, trusting that specific analysis over Wiktionary's undifferentiated three-reading list — the same precedent established on 呈/梗/堪 earlier this project. Filled the empty `pos` field to `動詞`, matching the word page's own pos.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format (using `HSK No` for the genuinely-empty `hsk_level`, per the convention on already-perfected characters like [[娯]]). **`## Words` section was entirely missing** — added <ruby>[[偵]]<rt>ㄊㄧㄫ</rt></ruby> "spy" (stand-in for 偵). **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 偵 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 槽 (6125; 1529 characters remaining).
+
+### 2026-08-08, iteration 976 — [[characters/槽|槽]]
+
+`mc_id: 6071` confirmed as legitimate long-tail data (槽 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. 形声 classification confirmed via Wiktionary: semantic [[木]] ("wood") + phonetic [[曹]]; `graphemic_classification: 曹` already correct. Vietnamese `[tào, tàu, tầu]` confirmed complete — English Wiktionary's fetch only surfaced `tàu`, so cross-checked Vietnamese Wiktionary directly, which confirmed all three (Hán Việt `tào`; Nôm `tầu, tàu, tào`) — no change needed. `stand_in: 料槽` confirmed genuine. Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section already existed** with both genuine citing words but the stand-in, [[料槽]], was missing its "(stand-in for 槽)" tag — added, and reordered it first (ahead of [[浴槽]]) to match the usual stand-in-first convention. **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 槽 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 刹 (6126; 1528 characters remaining).
+
+### 2026-08-08, iteration 977 — [[characters/刹|刹]]
+
+`mc_id: 0` confirmed genuine (刹/剎 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. 形声 classification confirmed via Wiktionary: semantic [[刀]] ("knife") + phonetic [[杀]] (from 殺); `graphemic_classification: 杀` already correct. Vietnamese `[sát]` confirmed complete.
+
+**Reading-mismatch bug found and fixed**: stored `mandarin: "shā"` belongs to an entirely different, unrelated sense of 剎/刹 — "to brake a car" (刹車, shāchē), derived from 煞/殺 via a separate etymology. Every other field on this page (english "moment," `stand_in: 刹那`, the [[寺刹]] Words entry, Vietnamese `sát`, the stored MC initial/final) corresponds to the *other* etymology — 剎/刹 as a purpose-built Sanskrit transliteration character (a clipping of 剎多羅/*kṣetra*, and via 剎那/*kṣaṇa* "moment") — whose correct Mandarin reading is `chà`, not `shā`. Corrected the `mandarin` field; both citing words ([[刹那]]: `chànà`, [[寺刹]]: `sìchà`) already had the right reading, so no propagation was needed elsewhere. Filled the empty `pos` field to `名詞`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format, incorporating the Sanskrit-transliteration origin story (already researched on [[寺刹]]'s own page) and explicitly flagging the unrelated `shā` "brake" homograph so the mismatch doesn't recur. **`## Words` section was missing its own stand-in entry** — added <ruby>[[刹那]]<rt>ㄑㄚㄊㄋㄚ</rt></ruby> "moment, instant, split second" (stand-in for 刹); [[寺刹]] was already correctly present. **Chengyu**: no hits. **Derived Characters**: no hits (an initial grep hit on [[殺 (char)|殺]] was a false positive — matched only because 殺's own `graphemic_classification` happens to also be `杀`, not because it cites 刹) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 剤 (6127; 1527 characters remaining).
+
+### 2026-08-08, iteration 978 — [[characters/剤|剤]]
+
+**mc_id off-by-one fixed**: stored `3359` → actual rank in `CC 3000.md` is `3360`. 形声 classification confirmed via Wiktionary: semantic [[刀]] ("knife") + phonetic 齊, which the vault pages under its shinjitai glyph [[斉]]; `graphemic_classification: 斉` already correct. Vietnamese `[tễ, xẻ]` confirmed complete. `stand_in: 薬剤` confirmed genuine (already perfected, correctly cites 剤 and notes it "cannot appear independently"). Filled the empty `pos` field to `名詞` and the entirely-blank `boundedness` field to `90`, matching its fully-bound status.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format. **`## Words` section already existed** with the correct single entry but was missing its "(stand-in for 剤)" tag — added. **Chengyu**: no hits. **Derived Characters**: initial grep for characters citing `斉` (剤's own phonetic donor) surfaced [[済 (char)|済]] and [[𦜝]], but these are phonetic-family *siblings* sharing the same ultimate donor 斉 — not characters citing 剤 itself; the correct check (grep for citations of 剤 specifically) returned zero hits, so no section was added, per the sibling-vs-derived distinction established earlier this project. A separate grep hit, [[含漱]], was also a false positive (剤 appears only in a Japanese usage note in its body).
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 喩 (6128; 1526 characters remaining).
+
+### 2026-08-08, iteration 979 — [[characters/喩|喩]]
+
+`mc_id: 1890` confirmed correct (matches actual rank in `CC 1000.md`, no off-by-one). 形声 classification confirmed via Wiktionary: semantic [[口 (char)|口]] ("mouth") + phonetic [[兪]]; `graphemic_classification: 兪` already correct. **Vietnamese was entirely empty, filled**: Wiktionary distinguishes a tight Hán Việt set (`dụ, du`) from a much broader, noisier Nôm list (dụ, dầu, dẫu, dỗ, nhủ, rủ, dẩu — several of which read as unrelated native verbs like "to coax/scold"); populated with just the two genuine Hán Việt readings, consistent with this project's standing policy of not importing Wiktionary's undifferentiated Nôm tables wholesale. Filled the empty `pos` field to `名詞` and the blank `boundedness` to `90`.
+
+**`## Notes` was a bare two-link stub** — rebuilt to the standard 4-bullet format, including the vault-policy note (already documented on [[兪]]'s own page) that this whole phonetic family gets a deliberate -m-final Dan'a'yo reading to cut down homophony. **`## Words` section was entirely missing** — added <ruby>[[比喩]]<rt>ㄅㄧㄜ⼜ㄇ</rt></ruby> "metaphor" (stand-in for 喩); a grep hit on [[兪]] was a false positive (喩 only appears there in a list of phonetic descendants). **Chengyu**: no hits. **Derived Characters**: no hits (nothing cites 喩 as its own phonetic) — correctly has no section.
+
+Stamped `date-last-perfect: 2026-08-08`.
+
+Next never-perfected character by `danayo_id`: 斬 (6129; 1525 characters remaining).

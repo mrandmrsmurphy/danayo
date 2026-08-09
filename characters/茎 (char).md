@@ -16,7 +16,7 @@ stroke_count: 8
 radical: 艸
 skip_number: 2-3-5
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - stem
   - stalk
@@ -36,6 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 茎.
 >For the word, see [茎](words/茎.md)
@@ -43,5 +44,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-[[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 耕開]]
+- 形声 (OC \*ɡreːŋ): semantic [[Radical 140|艸]] ("grass, plant") + phonetic [[巠]] (OC \*keːŋ) — "stem, stalk."
+- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 2153rd most used character in Classical Chinese (as 莖). A minority ㄎ outcome for [[Lookup/CC/initials/聲 匣|ɣ]] (one of only three, alongside 劦/雇) + [[Lookup/CC/finals/韻 耕開|ɣɛŋ]] → [ㄎㄧㄫ](syllables/ㄎㄧㄫ.md)
+- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Words
+- <ruby>[[茎]]<rt>ㄎㄧㄫ</rt></ruby> "stem, stalk" (stand-in for 茎)
+- <ruby>[[陰茎]]<rt>ㄧㄇㄎㄧㄫ</rt></ruby> "penis"
