@@ -5767,3 +5767,37 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 萎 (7124; 1097 characters remaining).
+
+### 2026-08-12, iteration 1408 — [[characters/萎|萎]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the twenty-third confirmed instance this session): stored `mc_id: 3695` points to a different character (`CC 3000.md` line 724 = 榛); 萎's true rank is **3696** (line 725), corrected. **`graphemic_classification: 委` confirmed correct** (形聲, semantic 艸 + phonetic 委, OC \*qrol vs. phonetic's own \*qrolʔ, a close match). **Three alias candidates investigated and all excluded as non-genuine**: an initial fetch had surfaced 虧/亏, 唩, and 踒 as "variant forms," but direct verification of each showed none actually carries any such label — 虧 has its own overwhelmingly dominant independent meaning ("loss, deficit") with no documented relationship to 萎 at all, 唩 has no derivative relationship to any character, and 踒 is merely a phonetic-series sibling (independently citing 委, like 萎 itself) with its own distinct meaning ("to sprain a limb"); the earlier "variant" claims for these three appear to have been fetch errors.
+
+**Vietnamese expanded**: hvdic.thivien.net gives Hán Việt `{nuy, uy, uỷ}` and Nôm `{nuy, uỳ}`; the stored `[nuy, uỳ]` was missing `uy` and `uỷ` — added both.
+
+**Blank `hsk_level` filled** → `無`, confirmed absent from all four HSK lookup lists; also found genuinely missing from the [HSK No] page itself — added.
+
+korean_native (`시들`, "to wither"), japanese (`[I]`, both 呉音/漢音 identical, confirmed), japanese_native (`しお`, stem of しおれる), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 19), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅇ] line 152) all confirmed correct as-is. Filled blank `pos` → `事詞` (matching the intransitive change-of-state pattern established on [[逝]]).
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, one stray uncontextualized [[萎縮]] bullet) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[萎縮]] alongside the existing [[萎蕤]] (confirmed [[萎蕤]] is actually the stand-in for its OTHER constituent, [[蕤]], not for 萎 itself — correctly left untagged as 萎's own stand-in). No Chengyu hits; no derived characters.
+
+**Two citing word pages had bugs fixed**: [[萎縮]] had a non-standard `## Etymology` heading (renamed to `## Notes`), blank `pos` (filled `事詞`) and blank `vietnamese` (filled `nuy súc`, compositional — the exact compound is unattested in hvdic), plus the recurring `../characters/` broken-relative-path bug; [[萎蕤]] had the same relative-path bug, fixed, and its two Notes bullets consolidated into the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 頁 (char) (7125; 1096 characters remaining).
+
+### 2026-08-12, iteration 1409 — [[characters/頁 (char)|頁]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the twenty-fourth confirmed instance this session): stored `mc_id: 2684` points to a different character (`CC 2000.md` line 713 = 阯); 頁's true rank is **2685** (line 714), corrected. **`graphemic_classification: 象形` confirmed correct** (a pictogram of a kneeling person's head, 首+卩). **Two alias candidates resolved**: 葉/叶 excluded (its own overwhelmingly dominant meaning "leaf," plus its own independent vault page [[葉 (char)|葉]]); 𩑋 added as a genuine unqualified "variant form of 頁."
+
+**Significant cross-sense Korean reading bug found and fixed, spanning two pages**: stored `korean: 혈`/`korean_native: 머리` documented the character's *original* "head" sense — but 頁 carries two genuinely distinct Korean hanja readings split by sense (혈 for "head," 엽 for "page"), confirmed via Wiktionary's own sense-labeled Korean section. Since this character's documented operative sense is "page, sheet" (not "head"), corrected to `korean: 엽`/`korean_native: 책면`. Moved the character's entry on the shared [[Korean Name ㅎ]] lookup page (### 혈 section) to [[Korean Name ㅇ]] (### 엽 section) to match. **Romanization bug fixed**: `japanese` list had `KECHI` for 呉音 げち — corrected to `GECHI`.
+
+joyo_level `日本人名用漢字` (confirmed on [Jinmeiyō] line 179), `hsk_level: 1` (confirmed on [Old HSK 1] line 179), vietnamese (`[hiệt, hệt]`, confirmed both genuine per hvdic — sense-undifferentiated, unlike Korean), and japanese_native (`おおがい`, the radical-name kun'yomi) all confirmed correct/left as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format, documenting the head/page sense split and why the vault's own MC-derived Dan'a'yo syllable still follows 頁's native "head"-lineage reading regardless. **`## Words`**: tagged the existing self-reference stand-in [[頁]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[頁]] (already perfected 2026-08-03, with unusually rich analytical prose) had a genuine correction applied**: its own prose had already flagged the head/page semantic tension but concluded it was simply "an older sense preserved in the native gloss" under a single shared reading — missed that Korean actually splits this into two genuinely distinct hanja readings. Corrected `korean: 혈` → `엽` to match, rewrote the affected prose paragraphs accordingly (including the `kwin` divergence explanation), fixed the stray `KECHI`→`GECHI` reference, and fixed the recurring `../characters/` broken-relative-path bug. `date-last-perfect` left unchanged per the established convention for citing-page fixes made during another character's cycle.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 掻 (char) (7126; 1095 characters remaining).

@@ -79,7 +79,7 @@ All have been checked for redirects.
 琰 --> 炎  [艶](characters/艶%20(char).md) [厭](characters/嫌.md) [焰](characters/焰.md) [[苒]] [閻](characters/閻%20(char).md) [髥](characters/髯.md)
 
 ### 엽 
-[[燁]] [[曄]] [[熀]] 
+[[燁]] [[曄]] [[熀]] [頁 (char)](characters/頁%20(char).md)
 
 ### 영 
 [[渶]] [[煐]] [瑛](characters/瑛.md) [瑩](characters/瑛.md) [[瀯]] [盈](characters/盈.md) [[楹]] [[鍈]] [嬰](characters/嬰.md) [穎](characters/頴.md) [[瓔]] [咏](characters/詠%20(char).md) [[塋]] [[嶸]] [[潁]] [[瀛]] [[纓]] [[霙]] [[𢥏]] [[蠑]] [[朠]] [[瀯]] ([[濚]])

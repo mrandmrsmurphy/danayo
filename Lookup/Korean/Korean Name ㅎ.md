@@ -57,7 +57,7 @@ This have all be checked for redirects.
 見 (done) [[峴]] [[晛]] [[泫]] [[炫]] [[玹]] [[鉉]] [[眩]] [[昡]] [絢](characters/絢.md) [[呟]] [[俔]] [[睍]] [舷](characters/舷.md) [[衒]] [弦 (char)](characters/弦%20(char).md) [[儇]] [[譞]] [[怰]] [[䧋]] [[鋗]] [[㢺]] [[琄]] 
 
 ### 혈
-[[孑]] [頁 (char)](characters/頁%20(char).md)
+[[孑]]
 
 ### 협
 [俠](characters/侠.md) [挾](characters/挟%20(char).md) [峽](characters/峡.md) [[浹]] [夾](characters/夹.md) [狹](characters/狭.md) [[莢]] [鋏 (char)](characters/鋏%20(char).md) [頰](characters/頬%20(char).md) [[冾]] [劦](characters/劦.md)
