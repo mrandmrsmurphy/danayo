@@ -5733,3 +5733,21 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 婢 (7122; 1099 characters remaining).
+
+### 2026-08-12, iteration 1406 — [[characters/婢|婢]]
+
+**`mc_id: 1644` verified correct as-is** (`CC 1000.md` line 673). **`graphemic_classification: 卑` confirmed correct** (形聲, semantic 女 + phonetic 卑, OC \*beʔ vs. phonetic's own \*pe, a close match). No variant forms listed anywhere — `aliases` correctly left blank.
+
+**`japanese` expanded**: stored `[HI]` was missing the 呉音 reading; direct ja.Wiktionary lookup confirms 呉音 `BI`(ビ) alongside 漢音 `HI`(ヒ) — added. **Blank `joyo_level` filled** → `表外字`, confirmed via the same lookup. **Vietnamese expanded**: hvdic.thivien.net lists two Hán Việt readings (`tì`, `tỳ`) plus Nôm `ti`; the stored `[ti, tì]` was missing `tỳ` — added.
+
+**Shared lookup page bug found and fixed** (fifth consecutive cycle): [[Hyōgai]] was missing an entry for 婢 — added.
+
+korean_native (`계집종`, "female servant"), japanese_native (`はしため`, confirmed), `hsk_level: 無` (confirmed via [HSK No] line 260), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 315) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[婢女]] (initially mis-typed its ruby syllable as ㄅㄧㄋㄩ before cross-checking the word's own stored `注音: ㄅㄧㄋㄜ` and correcting it). No Chengyu hits; no derived characters.
+
+**Citing word page [[婢女]] (already perfected 2026-08-04) had two bugs fixed**: the recurring `../characters/` broken-relative-path bug, and a missing stand-in note per [[AIOS/memory/feedback_standin_note|the standing convention]] — appended to its existing rich prose bullet.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 侠 (7123; 1098 characters remaining).
