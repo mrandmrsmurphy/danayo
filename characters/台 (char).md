@@ -69,7 +69,6 @@ boundedness: 95
 
 ## Derived Characters
 - <ruby>[[苔 (char)|苔]]<rt>ㄊㄛㄧ</rt></ruby> "moss"
-- <ruby>[[冶]]<rt>⼘</rt></ruby> "smelt"
 - <ruby>[[始]]<rt>ㄙㄧ</rt></ruby> "begin"
 - <ruby>[[怠]]<rt>ㄉㄚㄧ</rt></ruby> "idle"
 - <ruby>[[殆]]<rt>ㄉㄛㄧ</rt></ruby> "danger"

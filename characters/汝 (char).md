@@ -5,18 +5,9 @@ korean: 여
 korean_native: 너
 japanese:
   - JO
-japanese_native: い
+japanese_native: なんじ
 vietnamese:
-  - dử
-  - nhớ
-  - nhờ
-  - nhở
-  - nhởi
-  - nhứ
-  - nhừ
-  - nhử
   - nhữ
-  - nở
 middle_chinese_initial: ȵ
 middle_chinese_final: ɨʌ
 stroke_count: 6
@@ -42,6 +33,7 @@ tags:
   - character
   - hapax
 boundedness: 65
+date-last-perfect: 2026-08-11
 ---
 >[!tip] This is a page about the character 汝.
 >For the word, see [汝](words/汝.md)
@@ -50,9 +42,14 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 魚]]
+## Notes
+- 形聲 (OC \*njaʔ): semantic [[Radical 085|水]] ("river; water") + phonetic [[女]] (OC \*naʔ/\*nas) — "you; thou" (intimate second-person pronoun).
+- [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
+- 686th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄋㄛㄧ](syllables/ㄋㄛㄧ.md)
+- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (intimate)"
+- <ruby>[[汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (intimate)" (stand-in for 汝)
+
+## Chengyu
+- <ruby>[[欲夫治汝]]<rt>⼄ㄎㄅㄨㄑㄧㄋㄛㄧ</rt></ruby> "wanting your husband, he will rule you"

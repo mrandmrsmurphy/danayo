@@ -5,26 +5,27 @@ korean: "야"
 korean_native: "어조사"
 japanese:
   - YA
-  - JA
 japanese_native: か
 vietnamese:
   - gia
+  - da
 middle_chinese_initial: j
 middle_chinese_final: ia
 stroke_count: 9
 radical: "耳"
 skip_number: 1-6-3
 grade_level: "先進"
-pos: ""
+pos: "感詞"
 english:
-  - yes?  mm?
+  - questioning particle
+  - yeah (interjection)
 羅馬字: "'ye"
 諺文: "여"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 7068
-mc_id: 1817
+mc_id: 1818
 graphemic_classification: "牙"
 stand_in: "耶"
 aliases:
@@ -33,6 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-12
 ---
 >[!tip] This is a page about the character 耶.
 >For the word, see [耶](words/耶.md)
@@ -40,9 +42,15 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
+- 耶 is a graphic corruption of [[邪]] (OC \*ljaː), itself semantic 阝/邑 + phonetic [[牙]] (OC \*ŋraː) — the questioning sentence-final particle; also, by extension, a standalone interjection of surprise or joy ("yeah!").
+- [SKIP-1-6-3](lookup/SKIP/SKIP-1/SKIP-1-6-3.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- 1818th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [⼶](syllables/⼶.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ### Derived Characters
--  <ruby>[爺](/characters/爺.md)<rt>⼘</rt></ruby> - grandpa
-- <ruby>[椰](/characters/椰.md)<rt>⼘</rt></ruby> - coconut
-[[Lookup/CC/initials/聲 以]]
-[[Lookup/CC/finals/韻 麻三開]]
+- <ruby>[爺](characters/爺.md)<rt>⼘</rt></ruby> "grandpa"
+- <ruby>[椰](characters/椰.md)<rt>⼘</rt></ruby> "coconut"
+- <ruby>[揶](characters/揶.md)<rt>⼘</rt></ruby> "ridicule"
+
+## Words
+- <ruby>[[耶]]<rt>⼶</rt></ruby> "questioning particle; yeah" (stand-in for 耶)

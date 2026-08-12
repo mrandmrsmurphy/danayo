@@ -2,13 +2,16 @@
 mandarin: yìng
 cantonese: jing2
 korean: 영
-korean_native: 비출
+korean_native: 비칠
 japanese:
   - EI
   - YOU
-japanese_native: うつ-る,うつ-す,は-える
+japanese_native:
+  - うつ
+  - は
 vietnamese:
-  - ánh, tử
+  - ánh
+  - tử
 middle_chinese_initial: ʔ
 middle_chinese_final: ɣiæŋ
 stroke_count: 9
@@ -34,6 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 50
+date-last-perfect: 2026-08-11
 ---
 >[!tip] This is a page about the character 映.
 >For the word, see [映](words/映.md)
@@ -41,9 +45,13 @@ boundedness: 50
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声: OC \*qaːŋʔ, \*qraŋs): semantic [日](Radical%20072) (“sun”) + phonetic [央](characters/央.md) (OC \*qaŋ).
-- [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md), HSK 4, [Grade 6](lookup/Grade%206.md)
-- [[SKIP-1-4-5]] = [Stroke 09](lookup/Stroke/Stroke%2009.md) ([[⼶ㄫ]])
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 庚三開]]
+- 形聲 (OC \*qaːŋʔ/\*qraŋs): semantic [[Radical 072|日]] ("sun") + phonetic [[央]] (OC \*qaŋ) — "to reflect; to project; to shine."
+- [SKIP-1-4-5](lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 6913`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [⼶ㄫ](syllables/⼶ㄫ.md)
+- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[映]]<rt>⼶ㄫ</rt></ruby> "reflect; project" (stand-in for 映)
+- <ruby>[[反映]]<rt>ㄈㄛㄋ⼶ㄫ</rt></ruby> "reflect; indicate"

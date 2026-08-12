@@ -17,7 +17,7 @@ stroke_count: 10
 radical: 羽
 skip_number: 2-2-8
 grade_level: "6"
-pos: ""
+pos: 名詞
 english:
   - venerable old man
 羅馬字: "'ong"
@@ -30,12 +30,12 @@ mc_id: 1689
 graphemic_classification: 公
 stand_in: 翁
 aliases:
-  - 鶲
 注音: ㄛㄫ
 kwin: true
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-10
 ---
 >[!tip] This is a page about the character 翁.
 >For the word, see [翁](words/翁.md)
@@ -44,6 +44,13 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 東一]]
+## Notes
+- 形聲 (OC \*qloːŋ): semantic [[Radical 124|羽]] ("feathers/wings" — the character originally meant "feathers") + phonetic [[公 (char)|公]] — later loaned to mean "venerable old man" through association with 公.
+- [SKIP-2-2-8](lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
+- 1689th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄛㄫ](syllables/ㄛㄫ.md)
+- [Grade 6](lookup/Grade%206.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[翁]]<rt>ㄛㄫ</rt></ruby> "venerable old man" (stand-in for 翁)
+- <ruby>[[信天翁]]<rt>ㄙㄧㄋㄊㄝㄋㄛㄫ</rt></ruby> "albatross"
+- <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨ·ㄨㄫ</rt></ruby> "white-haired old man; grey starling"

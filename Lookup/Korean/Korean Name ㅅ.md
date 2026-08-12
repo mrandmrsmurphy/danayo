@@ -46,7 +46,7 @@ Checked for redirects
 [扇](characters/扇.md) [[渲]] [[瑄]] [[愃]] [[墡]] [膳](characters/膳.md) [繕](characters/繕.md) [[琁]] [[璿]] [[璇]] [羨](characters/羨.md) [[嬋]] [銑](characters/銑.md) [[珗]] [[嫙]] [[僊]] !敾! [煽](../../characters/扇.md) [癬](characters/鮮.md) [腺](characters/腺.md) [蘚](characters/鮮.md) [蟬](characters/蝉%20(char).md) [[詵]] [[跣]] [[鐥]] samarium [洒 (char)](characters/洒%20(char).md) [亘 (char)](characters/亘%20(char).md) 
 
 ### 설  
-[薛](characters/薛.md) [楔](characters/楔.md) [屑 (char)](characters/屑%20(char).md) [泄](characters/洩.md) [洩](characters/洩.md) [渫](characters/洩.md) [[褻]] [齧](characters/咬%20(char).md) [禼](characters/禼.md) [[蔎]] [偰](characters/偰.md)
+[薛](characters/薛.md) [楔](characters/楔.md) [屑 (char)](characters/屑%20(char).md) [泄](characters/洩.md) [洩](characters/洩.md) [[渫]] [[褻]] [齧](characters/咬%20(char).md) [禼](characters/禼.md) [[蔎]] [偰](characters/偰.md)
 
 ### 섬 
 [纖](characters/繊.md) [[暹]] [蟾蜍](../../words/瞻余.md) [[剡]] [[殲]] [[贍]] [閃](characters/閃.md) [陝](characters/陝.md) 

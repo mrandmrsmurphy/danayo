@@ -16,7 +16,7 @@ stroke_count: 8
 radical: 木
 skip_number: 1-4-4
 grade_level: "先進"
-pos: ""
+pos: "名詞"
 english:
   - hinge
   - pivot
@@ -36,6 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 30
+date-last-perfect: 2026-08-11
 ---
 >[!tip] This is a page about the character 枢.
 >For the word, see [枢](words/枢.md)
@@ -43,11 +44,13 @@ boundedness: 30
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*kʰjo): semantic [木](Radical%20075) + phonetic [区](characters/区.md) (OC \*qoː, *kʰo).
-[[Lookup/CC/initials/聲 昌]]
-[[Lookup/CC/finals/韻 虞]]
-- <ruby>[[枢机]]<rt>ㄑㄨㄍㄧㄜ</rt></ruby> "pivotal mechanism; the cardinal's office"
-- [[枢机卿]] "cardinal"
+- 形聲 (OC \*kʰjo): semantic [[Radical 075|木]] ("wood") + phonetic [[区]] (OC \*kʰo) — a door hinge; pivot; center of power.
+- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 2155th most used character in Classical Chinese (as its traditional form 樞). Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄑㄨ](syllables/ㄑㄨ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
+- <ruby>[[枢]]<rt>ㄑㄨ</rt></ruby> "hinge; pivot" (stand-in for 枢)
 - <ruby>[[枢紐]]<rt>ㄑㄨㄋ⼜ㄛ</rt></ruby> "pivot, hub"
+- <ruby>[[枢机]]<rt>ㄑㄨㄍㄧㄜ</rt></ruby> "pivotal mechanism; the cardinal's office"
+- <ruby>[[枢机卿]]<rt>ㄑㄨㄍㄧㄜㄎ⼶ㄫ</rt></ruby> "cardinal"

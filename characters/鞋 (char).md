@@ -35,6 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
+date-last-perfect: 2026-08-09
 ---
 >[!tip] This is a page about the character 鞋.
 >For the word, see [鞋](words/鞋.md)
@@ -44,7 +45,10 @@ boundedness: 75
 ```
 
 ## Notes
-- 形声 (OC \*ɡreː, \*ɡreː, \*ɡreː): semantic [[Radical 177|革]] ("leather") + phonetic [[圭]] (OC \*kʷeː) — leather shoes. Originally written as 鞵.
--  形声, OC \*ɡreː, \*ɡreː, \*ɡreː): semantic [[Radical 177|革]] (“leather”) + phonetic [[圭]] (OC \*kʷeː) – leather shoes. Originally written as 鞵.
-[[Lookup/CC/initials/聲 匣]]
-[[Lookup/CC/finals/韻 佳開]]
+- 形声 (OC \*ɡreː): semantic [[Radical 177|革]] ("leather") + phonetic [[圭]] (OC \*kʷeː) — leather shoes; originally written as 鞵.
+- [SKIP-1-9-6](lookup/SKIP/SKIP-1/SKIP-1-9-6.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
+- Not present in the Classical Chinese usage ranking (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄏ⼘ㄧ](syllables/ㄏ⼘ㄧ.md)
+- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Words
+- <ruby>[[鞋]]<rt>ㄏ⼘ㄧ</rt></ruby> "shoe" (stand-in for 鞋)

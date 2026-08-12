@@ -2,12 +2,15 @@
 mandarin: dié
 cantonese: dip6
 korean: 첩
-korean_native: 거듭
+korean_native: 겹치다, 포개다
 japanese:
   - JOU
   - CHOU
 japanese_native: たた
 vietnamese:
+  - điệp
+  - đệp
+  - xếp
 middle_chinese_initial: d
 middle_chinese_final: ep
 stroke_count: 12
@@ -34,7 +37,8 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness:
+boundedness: 75
+date-last-perfect: 2026-08-09
 ---
 >[!tip] This is a page about the character 畳.
 >For the word, see [畳](words/畳.md)
@@ -43,9 +47,13 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 定]]
-[[Lookup/CC/finals/韻 帖]]
+## Notes
+- 會意: 畾 ("piled-up fields/thunder," no character page exists for it in this vault) + [[宜]] — "to pile up, stack, overlap," extended in Japanese to the specific sense "tatami mat" (a stackable floor mat).
+- [SKIP-2-5-7](lookup/SKIP/SKIP-2/SKIP-2-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 3563rd most used character in Classical Chinese (recorded in the corpus under its traditional form 疊). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄝㄆ](syllables/ㄉㄝㄆ.md)
+- [Grade 6](lookup/Grade%206.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+
 ## Words
+- <ruby>[[畳]]<rt>ㄉㄝㄆ</rt></ruby> "folding mat, tatami mat" (stand-in for 畳)
 - <ruby>[[折畳]]<rt>ㄐㄝㄊㄉㄝㄆ</rt></ruby> "to fold; folding"
 - <ruby>[[重畳]]<rt>ㄑㄛㄫㄉㄝㄆ</rt></ruby> "reduplication; layering"

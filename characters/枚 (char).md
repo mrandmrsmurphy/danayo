@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-08
 ---
 >[!tip] This is a page about the character 枚.
 >For the word, see [枚](words/枚.md)
@@ -43,6 +44,10 @@ boundedness: 80
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 明]]
-[[Lookup/CC/finals/韻 灰]]
-- Components: [[木]], [[攵]]
+- 會意: [[木 (char)|木]] ("wood") + 攵 ("hand holding a stick") — originally "a wooden peg, slender stalk," extended to "classifier for countable objects" (esp. flat/thin/coin-like things). Wiktionary also records a competing 形聲 analysis (Zhengzhang): semantic 木 + phonetic 文 (OC \*mɯn, a close match to 枚's own OC \*mɯːl), with 文 later visually corrupted into 攵 — plausible on the phonetic evidence, but kept as a documented alternative rather than overriding the stored classification, since the already-perfected citing word [[枚]] also commits to the 會意 reading.
+- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 1449th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄛㄧ](syllables/ㄇㄛㄧ.md)
+- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Words
+- <ruby>[[枚]]<rt>ㄇㄛㄧ</rt></ruby> "flat sheets, thin stalks" (stand-in for 枚)

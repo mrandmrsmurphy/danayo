@@ -713,7 +713,7 @@ tags: [lookup]
 1733. !!捗!! : make progress     FORBIDDEN
 1734. [沈](../../characters/沈.md) : sink
 1735. [珍 (char)](../../characters/珍%20(char).md) : rare
-1736. [[朕 (char)]] : majestic plural
+1736. [朕 (char)](../../characters/朕%20(char).md) : majestic plural
 1737. [陳](../../characters/陳.md) : exhibit
 1738. [鎮 (char)](../../characters/鎮%20(char).md) : 	鎭	tranquilize
 1739. [椎](../../characters/椎.md) : oak

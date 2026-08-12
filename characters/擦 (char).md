@@ -16,7 +16,7 @@ stroke_count: 17
 radical: "手"
 skip_number: 1-3-14
 grade_level: "6"
-pos: ""
+pos: 事詞
 english:
   - wipe
   - scrub
@@ -38,6 +38,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-10
 ---
 >[!tip] This is a page about the character 擦.
 >For the word, see [擦](words/擦.md)
@@ -46,7 +47,12 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 初]]
-[[Lookup/CC/finals/韻 黠開]]
+## Notes
+- 形聲 (OC \*sʰlaːd): semantic [[Radical 064|手]] ("hand") + phonetic [[察 (char)|察]] — "to wipe; to scrub; to rub; to scour; to brush."
+- [SKIP-1-3-14](lookup/SKIP/SKIP-1/SKIP-1-3-14.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
+- Not among the top 4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists — a late/vernacular character with no attested classical usage (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 黠開|ɣat]] → [ㄑㄚㄊ](syllables/ㄑㄚㄊ.md)
+- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Words
+- <ruby>[[擦]]<rt>ㄑㄚㄊ</rt></ruby> "wipe; scrub; rub; scour; brush" (stand-in for 擦)
 - <ruby>[[擦拭]]<rt>ㄑㄚㄊㄙㄧㄎ</rt></ruby> "wipe"

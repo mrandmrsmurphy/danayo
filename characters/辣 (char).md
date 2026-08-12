@@ -19,7 +19,7 @@ stroke_count: 14
 radical: "辛"
 skip_number: 1-7-7
 grade_level: "6"
-pos: ""
+pos: 性詞
 english:
   - spicy
   - hot
@@ -40,6 +40,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-09
 ---
 >[!tip] This is a page about the character 辣.
 >For the word, see [辣](words/辣.md)
@@ -48,9 +49,12 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-## Words
-- <ruby>[[辛辣]]<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby> "spicy, pungent"
+## Notes
+- 形声 (OC \*raːd): semantic [[辛 (char)|辛]] ("acrid, pungent") + phonetic [[剌]] — "spicy, pungent (taste)," extended (figurative) to "harsh, cruel, ruthless."
+- [SKIP-1-7-7](lookup/SKIP/SKIP-1/SKIP-1-7-7.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
+- Not ranked among the top 4000 most used characters in Classical Chinese (a later/vernacular-period character). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄌㄚㄊ](syllables/ㄌㄚㄊ.md)
+- [Grade 6](lookup/Grade%206.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄹ](lookup/Korean/Korean%20Name%20ㄹ.md)
 
-# Notes
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 曷]]
+## Words
+- <ruby>[[辣]]<rt>ㄌㄚㄊ</rt></ruby> "spicy, hot, cruel" (stand-in for 辣)
+- <ruby>[[辛辣]]<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby> "spicy, pungent"
