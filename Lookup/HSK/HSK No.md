@@ -727,6 +727,7 @@ tags: [lookup]
 [[冕]]
 [[韮]]
 [[妓]]
+[[萎]]
 
 ## Datacheck
 ```base

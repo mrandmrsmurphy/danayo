@@ -5751,3 +5751,19 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 侠 (7123; 1098 characters remaining).
+
+### 2026-08-12, iteration 1407 — [[characters/侠|侠]]
+
+**`mc_id: 1846` confirmed correct, tracked under the traditional alias form** (`CC 1000.md` line 883 = [[俠]], 侠's own listed alias — the same asymmetric-primary-form pattern as [[斎]]/齋). **`graphemic_classification: 夹` confirmed correct** (形聲, semantic 人 + phonetic 夹/夾). **Alias candidate 挾/挟 investigated and excluded**: a sibling character independently sharing the same phonetic 夾/夹 (扌 + phonetic 夾, "to clasp under the arm"), not a variant of 俠/侠 itself — correctly not added.
+
+**Significant malformed-YAML bug found and fixed**: the frontmatter had `japanese_native: おとこだて` immediately followed by two orphaned list items (`- きゃん`, `- おとこだて`) — invalid YAML mixing a scalar assignment with trailing list syntax, with おとこだて duplicated across both. Cross-checked directly against ja.Wiktionary, which lists both きゃん and おとこだて as genuine kun'yomi readings (contradicting English Wiktionary's claim that きゃん was a 唐音 on'yomi) — restructured as a proper two-item `japanese_native` list, matching the established list-format precedent seen on other characters (e.g. [[了 (char)|了]], [[倒 (char)|倒]]). Also added the missing 呉音 `GYOU` to `japanese` (was `[KYOU]` only), and normalized the malformed scalar `aliases: 俠` to proper list syntax.
+
+korean_native (`의기로울`, "chivalrous"), vietnamese (`hiệp`, confirmed complete), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 508 — consistent with 侠 having genuine 名乗り/nanori readings per Wiktionary despite ja.Wiktionary separately calling it 表外漢字, since jinmeiyō and jōyō are distinct lists), `hsk_level: 6` (confirmed on [Old HSK 6] line 414), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅎ] line 63) all confirmed correct as-is; `pos: 名詞` was already correctly filled.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[侠客]] as the reflexive stand-in. No Chengyu hits (one prose-only false positive excluded: [[臥虎蔵龍]]); no derived characters.
+
+**Citing word page [[侠客]] had a genuine `pos` inconsistency found and fixed**: stored `事詞`/`品詞: 事詞` didn't fit either the character's own meaning or the word's own English gloss ("knight-errant, swordsman, hero" — all nominal person-labels, not an eventive/action sense) and mismatched the character page's own `名詞` — corrected both fields to `名詞`. Also fixed the recurring `../characters/` broken-relative-path bug and consolidated the stand-in note into the standard single-bullet format.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 萎 (7124; 1097 characters remaining).
