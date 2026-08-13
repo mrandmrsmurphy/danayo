@@ -5801,3 +5801,21 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 掻 (char) (7126; 1095 characters remaining).
+
+### 2026-08-12, iteration 1410 — [[characters/掻 (char)|掻]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the twenty-fifth confirmed instance this session): stored `mc_id: 3325` points to a different character (`CC 3000.md` line 342 = 捍); the traditional alias form [[搔]]'s true rank is **3326** (line 343), corrected. **`graphemic_classification: 蚤` confirmed correct** (形聲, semantic 手 + phonetic 蚤, OC \*suː vs. phonetic's own \*ʔsuːʔ, a close match). **Five genuine variant aliases added**: 𢸪, 𲢴, 𢫼, 𤔢, 㮻, each individually verified as an unqualified "variant form of 搔" with no ancient/archaic labeling — the sixth candidate from the initial sweep, 𭫂, was already flagged "erroneous" and correctly excluded.
+
+**Malformed Vietnamese field found and fixed, in two places**: both the character page and its citing word stub had a comma-dump list item `"lau, lao, lạo, trau"` mixed in among proper list items — cross-checked against hvdic.thivien.net (Hán Việt `tao, trảo`; Nôm `tao, trao, trau`), which confirms none of `lau/lao/lạo` are attested at all; decomposed into proper list items and added the missing `trảo` (a sense-specific reading tied to 搔's separate "ancient form of 爪" etymology, included per the established practice of keeping all confirmed readings of the same character regardless of sub-sense).
+
+**Korean-reading form mismatch fixed**: `korean_native: 긁다` (modern dictionary citation form) — Wiktionary's own 훈음 gives `긁을` (the traditional adnominal 훈 form used consistently elsewhere in this vault); corrected.
+
+japanese (`[SOU]`, both 呉音/漢音 identical, confirmed), japanese_native (`かく`, one of four attested kun readings), `joyo_level: 表外字` (confirmed via the redirect note on [[Hyōgai]] line 429), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅅ] line 64) all confirmed correct as-is. **Blank `hsk_level` filled** → `無`, and found genuinely missing from the [HSK No] page itself — added. Filled blank `pos` → `事詞` and blank `boundedness` → `90`, matching the established pattern for self-referential stand-in characters.
+
+Rebuilt `## Notes` (wrong heading level; had substantive but non-standard content — a component-breakdown bullet referencing a rare glyph form 𧈡 of 蚤, a bare lookup-links bullet, and two dangling CC-name wikilinks with no rank info) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[掻]] explicitly. No Chengyu hits; no derived characters (騒 (char) separately cites 蚤 as its own phonetic — a sibling, not a descendant, of 掻).
+
+**Citing word page [[掻]] (the disambiguated self-stand-in stub) had the same malformed Vietnamese bug fixed**, trimmed to a single canonical reading (`tao`) per the established convention for these stubs, and a missing `pos` field filled (`事詞`).
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 勅 (7127; 1094 characters remaining).

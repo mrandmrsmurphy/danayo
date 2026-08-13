@@ -728,6 +728,7 @@ tags: [lookup]
 [[韮]]
 [[妓]]
 [[萎]]
+[掻 (char)](../../characters/掻%20(char).md)
 
 ## Datacheck
 ```base
