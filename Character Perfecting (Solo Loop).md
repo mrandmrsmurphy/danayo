@@ -5901,3 +5901,37 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 羞 (7133; 1089 characters remaining).
+
+### 2026-08-12, iteration 1416 — [[characters/羞|羞]]
+
+**`mc_id: 1380` verified correct as-is** (`CC 1000.md` line 397). **`graphemic_classification: 丑` confirmed correct** (形聲, semantic 羊 + phonetic 丑, originally "a goat offered as food"). **Alias candidate 𰃤 excluded**: unverifiable, no retrievable Wiktionary entry.
+
+**Cross-sense native-gloss bug found and fixed**: stored `japanese_native: すすめ` (stem of すすめる, "to recommend/offer") belongs to the character's secondary literary sense, not the documented "shame" sense; direct ja.Wiktionary lookup confirms `はじる` ("to feel ashamed") as the sense-matching kun'yomi — corrected to the stem `はじ`. **`japanese` expanded**: stored `[SHUU]` was missing the 呉音 reading; added `SHU`(しゅ), confirmed alongside 漢音 `SHUU`(しゅう).
+
+korean_native (`부끄러울`, "to be ashamed"), vietnamese (`tu`, confirmed complete via hvdic), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 441), `hsk_level: 4` (confirmed on [Old HSK 4] line 910), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅅ] line 85) all confirmed correct as-is; `pos: 名詞` was already correctly filled.
+
+Rebuilt `## Notes` (a non-standard "Components:" bullet, two bare floating unlinked CC-name lines, two uncontextualized word-link bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[羞恥]] as the reflexive stand-in, kept [[羞辱]] as a related but non-stand-in citation. One Chengyu false positive excluded ([[沈魚落雁]] merely mentions 羞 in illustrative prose); no derived characters.
+
+**Two citing word pages had the same non-taxonomy `pos` bug found**: both [[羞恥]] and [[羞辱]] stored `実詞` (the taxonomy's top-level "Content Words" umbrella, not a specific leaf) — corrected to `名詞` and `事詞` respectively, matching each word's own actual grammatical behavior (nominal "shame" vs. transitive "to humiliate"). Both also had blank `vietnamese` (filled compositionally: `tu sỉ` and `tu nhuốc`, neither compound directly attested in hvdic) and non-standard `## Etymology` headings (renamed to `## Notes`) plus the recurring `../characters/` broken-relative-path bug; [[羞恥]] additionally got the missing stand-in note.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 唖 (7134; 1088 characters remaining).
+
+### 2026-08-12, iteration 1417 — [[characters/唖|唖]]
+
+**`mc_id: 3643` confirmed correct, tracked under the traditional alias form** (`CC 3000.md` line 672 = [[啞]], already listed as 唖's own alias — the same asymmetric-primary-form pattern as [[斎]]/齋, [[侠]]/俠). **`graphemic_classification: 亜` confirmed correct** (形聲, semantic 口 + phonetic 亜/亞). **Two genuine variant aliases added**: 瘂 (unqualified "variant form of 啞") and 痖 (simplified form of 瘂, no ancient/obsolete label on either).
+
+**`japanese` significantly expanded**: stored `[A]` was missing three of four attested readings; direct ja.Wiktionary lookup confirms 呉音 `E`(エ)/`YAKU`(ヤク) and 漢音 `A`(ア)/`AKU`(アク) — added `E`, `YAKU`, `AKU`. **Blank `joyo_level` filled** → `表外字`, confirmed via the same lookup.
+
+**Shared lookup page bug found and fixed** (seventh consecutive cycle): [[Hyōgai]] was missing an entry for 唖 — added.
+
+korean (`아`), korean_native (`벙어리`, "mute person"), japanese_native (`おし`, confirmed), vietnamese (`[á, ạ, ớ, dạ]`, confirmed complete), `hsk_level: 4` (confirmed via alias 啞 on [Old HSK 4] line 2516), and `hanmun_edu_level: 名` (confirmed via alias 啞 on [Korean Name ㅇ] line 7) all confirmed correct as-is. Filled blank `pos` → `性詞` and blank `boundedness` → `80`, matching the citing word's own stored `pos`.
+
+Rebuilt `## Notes` (entirely empty aside from dangling CC-name wikilinks misplaced after the Words section) to the standard 4-bullet format. **`## Words`**: tagged the existing [[唖口]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[唖口]] had bugs fixed**: entirely missing `japanese`/`korean` fields — filled compositionally (`あこう` from 唖's A + [[口 (char)]]'s KOU; `아구` from 唖's 아 + 口's 구); and a missing stand-in note per [[AIOS/memory/feedback_standin_note|the standing convention]] — added.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 桶 (char) (7135; 1087 characters remaining).
