@@ -5935,3 +5935,23 @@ Rebuilt `## Notes` (entirely empty aside from dangling CC-name wikilinks misplac
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 桶 (char) (7135; 1087 characters remaining).
+
+### 2026-08-12, iteration 1418 — [[characters/桶 (char)|桶]]
+
+**`mc_id: 5815` confirmed as legitimate long-tail data** (桶 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 甬` confirmed correct** (形聲, semantic 木 + phonetic 甬). No variant forms documented anywhere — `aliases` correctly left blank.
+
+**Bad Japanese reading found and fixed**: stored `[TOU, YOU]` — `YOU` is not attested anywhere for this character; direct ja.Wiktionary lookup confirms only 呉音 `TSUU`(ツウ) and 漢音 `TOU`(トウ) — replaced `YOU` with the missing `TSUU`.
+
+**Korean-gloss bug found and fixed**: stored `korean_native: 통` merely duplicated the `korean` reading field rather than giving a genuine native gloss; ko.Wiktionary's own 훈 listing ("양동이, 통") surfaces `양동이`, a genuine native Korean word for "bucket" distinct from the Sino-Korean reading — corrected.
+
+**Vietnamese contamination fixed**: stored `[dũng, thòng, thông, thùng, thống]`; hvdic.thivien.net confirms Hán Việt `{dõng, dũng, thũng}` and Nôm `{dũng, thòng, thông, thùng}` — `thống` is not attested anywhere and was removed; the missing `dõng` and `thũng` were added.
+
+japanese_native (`おけ`, confirmed), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 282), `hsk_level: 2` (confirmed on [Old HSK 2] line 1167), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅌ] line 40) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[桶]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[桶]] had two bugs fixed**: the recurring `vietnamese: null` corruption — replaced with `dũng`, the most commonly used modern reading per hvdic; and a missing `pos` field — filled `名詞`.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 蛋 (7136; 1086 characters remaining).
