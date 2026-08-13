@@ -5955,3 +5955,19 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 蛋 (7136; 1086 characters remaining).
+
+### 2026-08-12, iteration 1419 — [[characters/蛋|蛋]]
+
+**`mc_id: 0` confirmed meaningful as-is**, and its cause clarified: 蛋 is a genuinely late/vernacular character, "unattested on oracle bones, bronzes, Shuowen Jiezi, and Guangyun" per Wiktionary — its MC/OC values are etymologically reconstructed via a link to 彈 rather than directly attested, explaining both the absence from this vault's classical-corpus-derived `mc_id` system and the pre-existing (now-removed) Notes comment "pronunciation is made up." **`graphemic_classification: 延` confirmed correct**. **Alias research**: 疍/蜑/旦 all investigated and excluded — each is either a variant of the unrelated Tanka-ethnonym sense (疍→蜑) or has its own overwhelmingly dominant independent meaning with its own vault page (旦, "dawn/morning"); 鴠 added as a genuine unqualified variant with no independent meaning of its own, and its simplified counterpart 𱉗 added alongside it.
+
+**Wrongly-blanked field bug found and fixed**: stored `japanese_native: ø` (explicitly marked blank) was wrong — direct ja.Wiktionary lookup shows a genuine kun'yomi, `たまご` ("egg"), corrected. **`japanese` expanded**: stored `[TAN]` was missing the 呉音 reading; added `DAN`(ダン) alongside 漢音 `TAN`(タン).
+
+korean_native (`새알`, "bird egg," matching the character's true broad "egg" meaning despite the narrower "egg white" `english` gloss reflecting its specific role in the [[蛋白]] compound), vietnamese (`đản`, confirmed complete via hvdic), `joyo_level: 表外字` (confirmed on [Hyōgai] line 283), `hsk_level: 1` (confirmed via [Old HSK 1] line 248), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㄷ] line 10) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (a stray "pronunciation is made up" fragment, two bare floating unlinked CC-name lines, one stray uncontextualized [[蛋白]] bullet) to the standard 4-bullet format, incorporating the character's genuine late-attestation history. **`## Words`**: tagged the existing [[蛋白]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[蛋白]] had the recurring `../characters/` broken-relative-path bug fixed**, and its two separate Notes bullets consolidated into the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 勘 (char) (7138; 1085 characters remaining).
