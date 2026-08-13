@@ -5971,3 +5971,35 @@ Rebuilt `## Notes` (a stray "pronunciation is made up" fragment, two bare floati
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 勘 (char) (7138; 1085 characters remaining).
+
+### 2026-08-12, iteration 1420 — [[characters/勘 (char)|勘]]
+
+**`mc_id: 7564` confirmed as legitimate long-tail data** (勘 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 甚` confirmed correct** (形聲, semantic 力 + phonetic 甚). No variant forms documented anywhere — `aliases` correctly left blank.
+
+**Wrongly-blanked field bug found and fixed** (second instance this session, after [[蛋]] last cycle): stored `japanese_native: ø` was wrong — direct ja.Wiktionary lookup shows a genuine kun'yomi, かんがえる ("to consider"); corrected to the stem `かんが`. **`japanese` expanded**: stored `[KAN]` was missing the 呉音 reading; added `KON`(こん) alongside 漢音 `KAN`(かん, Jōyō).
+
+korean_native (`헤아릴`, "to reckon/consider"), vietnamese (`[khám, khóm]`, confirmed complete via hvdic), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 141), `hsk_level: 4` (confirmed via [Old HSK 4] line 2025), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㄱ] line 19) all confirmed correct as-is. Filled blank `pos` → `事詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[勘]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[勘]] had two bugs fixed**: the same non-taxonomy `pos` bug found repeatedly this session (`動詞` → `事詞`); and the recurring `../characters/` broken-relative-path bug. Its already-correct explanation distinguishing the genuine Nôm reading `khóm` ("clump, cluster," phonetically borrowed and semantically unrelated) from the operative sense was left as-is — accurate nuance, not a bug.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 喋 (char) (7140; 1084 characters remaining).
+
+### 2026-08-12, iteration 1421 — [[characters/喋 (char)|喋]]
+
+**`mc_id: 4282` confirmed as legitimate long-tail data** (喋 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 枼` confirmed correct** (形聲, semantic 口 + phonetic 枼). **Genuine variant alias added**: 啑, labeled "alternative form of 喋" for one of its several pronunciations — added despite its other, mostly-obsolete senses, following the precedent set by [[掠]]'s 剠 (a genuinely polyvalent variant character with no single competing *dominant* modern meaning of its own).
+
+**Bad Japanese reading found and fixed**: stored `[CHOU, TOU]` — `TOU` is not attested anywhere for this character; direct ja.Wiktionary lookup confirms only 呉音 `JOU`(ジョウ) and 漢音 `CHOU`(チョウ) — replaced `TOU` with the missing `JOU`.
+
+korean (`첩`), korean_native (`재재거릴`, "to chatter"), japanese_native (`しゃべ`, stem of しゃべる), vietnamese (`[nhịp, điệp]`, confirmed complete via hvdic), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 431), `hsk_level: 無` (confirmed via [HSK No] line 379), and `hanmun_edu_level: 無` (correctly routes to the Dataview-driven [[Korean Missing]] page, which needs no manual entry) all confirmed correct as-is. Filled blank `pos` → `事詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[喋]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[喋]] had bugs fixed**: its own prose repeated the same bad "TOU" reading just corrected on the character page — updated to `JOU` with an explanatory note; also fixed the recurring `../characters/` broken-relative-path bug and added the missing stand-in note. Its existing careful distinction between the genuine Hán Việt `điệp` and the unrelated Nôm loan `nhịp` was left as-is — already accurate.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 湾 (7141; 1083 characters remaining).
