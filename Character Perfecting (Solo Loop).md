@@ -5885,3 +5885,19 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 聊 (char) (7132; 1090 characters remaining).
+
+### 2026-08-12, iteration 1415 — [[characters/聊 (char)|聊]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the twenty-sixth confirmed instance this session): stored `mc_id: 2114` points to a different character (`CC 2000.md` line 123 = 絜); 聊's true rank is **2115** (line 124), corrected. **`graphemic_classification: 卯` confirmed correct** (形聲, semantic 耳 + phonetic 卯, originally "tinnitus" per the Shuowen). **Six alias candidates all excluded as unverifiable**: rare CJK Extension B glyphs (𦕼, 𦖂, 𦕅, 𦕬, 𦗖, 𦕵) with no retrievable Wiktionary entries.
+
+**Blank `korean_native` filled**: direct ko.Wiktionary lookup gives the 훈음 as "애오라지 료" — added (Korean doesn't split this character's readings by sense the way [[頁]]/[[唵]] did; a single 훈 covers the character regardless of which literary sub-sense is spotlighted).
+
+japanese (`[RYOU]`, both 呉音/漢音 identical, confirmed), japanese_native (`いささか`, confirmed), vietnamese (`liêu`, confirmed complete via hvdic), `joyo_level: 表外字` (confirmed on [Hyōgai] line 262), `hsk_level: 2` (confirmed on [Old HSK 2] line 607), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㄹ] line 67) all confirmed correct as-is. Filled blank `pos` → `事詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[聊]] explicitly. One Chengyu false positive excluded ([[貪官汚吏]] merely mentions 聊 in illustrative prose, not in its `characters:` field); no derived characters.
+
+**Citing word page [[聊]] had two bugs fixed**: the recurring `vietnamese: null` corruption — replaced with `liêu`; and a missing `pos` field — filled `事詞`.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 羞 (7133; 1089 characters remaining).
