@@ -5835,3 +5835,39 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 唵 (char) (7129; 1093 characters remaining).
+
+### 2026-08-12, iteration 1412 — [[characters/唵 (char)|唵]]
+
+**`mc_id: 0` confirmed meaningful as-is** (independently reconfirmed absent from all four CC lookup lists — expected for a Buddhist loan character). **`graphemic_classification: 奄` confirmed correct** (形聲, semantic 口 + phonetic 奄). **Alias candidate 嗡 investigated and excluded**: an independent character (its own dominant "buzzing, humming" onomatopoeia) that happens to separately carry the same Sanskrit "Om" borrowed sense via its own distinct etymology — a synonym, not a labeled variant of 唵.
+
+**Homophone-confusion bug found and fixed in `english`**: stored `Ohm` (the SI electrical-resistance unit) — corrected to `Om`, the Sanskrit sacred syllable this character actually transliterates, matching the pre-existing Notes bullet's own etymology.
+
+**Significant cross-sense reading bugs found and fixed, spanning both the character page and its citing word**: stored `korean: 암`/`korean_native: 머금을` and `japanese_native: ふく` all documented the character's *unrelated native Chinese* "hold in mouth" sense (口+奄's literal construction) rather than the Sanskrit "Om" borrowing actually used here. Direct ko.Wiktionary confirms 唵 carries two distinct hanja readings split by sense — 암 (native) vs **옴** (the Sanskrit-borrowing-specific reading, also independently matching this vault's own Dan'a'yo-derived `諺文: 옴`) — corrected `korean` to `옴` and blanked `korean_native`/`japanese_native` to `ø` (no genuine native gloss exists for this borrowed sense in either language). Moved the character's entry on [[Korean Name ㅇ]] from its `### 암` section to a newly-created `### 옴` section. **Vietnamese trimmed**: hvdic.thivien.net explicitly confirms `úm` (not the stored `ướm`) as the reading proper to this Sanskrit sense — `ướm` is an unrelated native Vietnamese word ("to try on") coincidentally sharing 唵's phonetic value; removed.
+
+**Shared lookup page bug found and fixed** (sixth consecutive cycle): [[Hyōgai]] was missing an entry for 唵 (char) — added.
+
+`joyo_level: 表外字`, `hsk_level: 無` (confirmed on [HSK No] line 345), `hanmun_edu_level: 名` (confirmed on [Korean Name ㅇ], now correctly relocated), `pos: 名詞`, and `japanese: [AN, ON]` (both confirmed complete) all confirmed correct/already filled.
+
+Rebuilt `## Notes` (a "Components:" bullet plus a bare etymology sentence, two dangling CC-name wikilinks with no rank info) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[唵]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[唵]] (already perfected 2026-07-27) had already independently caught the Ohm→Om bug in a prior pass, but missed the same Korean cross-sense split found this cycle** — its own prose still asserted "Korean 암 (am) parallels the Sino-xenic reading"; corrected `korean: 암` → `옴` and rewrote the affected prose (Korean reading split, and the Japanese kun'yomi ふく explanation, which likewise belonged to the wrong sense) to match. Also fixed the recurring `../characters/` broken-relative-path bug and added the missing stand-in note. `date-last-perfect` left unchanged per the established convention.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 淋 (char) (7130; 1092 characters remaining).
+
+### 2026-08-12, iteration 1413 — [[characters/淋 (char)|淋]]
+
+**`mc_id: 4258` confirmed as legitimate long-tail data** (淋 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 林` confirmed correct** (形聲, semantic 水 + phonetic 林). **Alias candidate 瀶 investigated and excluded**: explicitly labeled "ancient form of 淋" by Wiktionary.
+
+**Vietnamese contamination fixed**: stored `[lem, luôm, lâm, lấm, lầm, rướm, rấm]`; cross-checked against both English Wiktionary and hvdic.thivien.net, neither of which attests `luôm` anywhere — removed; the remaining six all confirmed genuine. **Blank `korean_native` filled**: direct ko.Wiktionary lookup gives the 훈 as "젖다" ("to get wet/soaked"), matching the documented "drain, drip" sense — converted to the standard adnominal `젖을` form used elsewhere in this vault. `korean: 림` confirmed correct as the North Korean/문화어 form (Wiktionary notes the South Korean form has shifted to 임 via 두음법칙, correctly not used here per this vault's standing rule).
+
+japanese (`[RIN]`, both 呉音/漢音 identical, confirmed), japanese_native (`さび`, confirmed as the correct okurigana-split stem of さびしい, not さびし), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 355), `hsk_level: 3` (confirmed on [Old HSK 3] line 1536), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㄹ] line 100) all confirmed correct as-is. Filled blank `pos` → `事詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[淋]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[淋]] had two bugs fixed**: the recurring `vietnamese: null` corruption — replaced with `lâm`, the primary Hán Việt reading; and a missing `pos` field — filled `事詞`.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 鱗 (char) (7131; 1091 characters remaining).
