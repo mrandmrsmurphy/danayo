@@ -16,7 +16,7 @@ All have been checked for redirects.
 [斡](characters/斡.md) [軋](characters/軋.md) [[閼]] 
 
 ### 암 
-[庵](characters/庵.md) [[菴]] [唵](characters/唵%20(char).md) [癌](characters/癌.md) [闇](characters/暗%20(char).md) 
+[庵](characters/庵.md) [[菴]] [癌](characters/癌.md) [闇](characters/暗%20(char).md) 
 
 ### 압 
 [鴨](characters/鴨%20(char).md) [狎](characters/押%20(char).md)
@@ -99,6 +99,9 @@ All have been checked for redirects.
 
 ### 올 
 [兀](characters/兀.md)  [腽](characters/腽.md)
+
+### 옴 
+[唵 (char)](characters/唵%20(char).md)
 
 ### 옹 
 [雍](characters/雍.md) [壅](characters/壅%20(char).md) [[瓮]] [[甕]] [[癰]] [邕](characters/雍.md) [[饔]] 

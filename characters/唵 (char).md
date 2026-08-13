@@ -1,15 +1,14 @@
 ---
 mandarin: "ǎn"
 cantonese: am2
-korean: "암"
-korean_native: "머금을"
+korean: "옴"
+korean_native: ø
 japanese:
   - AN
   - ON
-japanese_native: ふく
+japanese_native: ø
 vietnamese:
   - úm
-  - ướm
 middle_chinese_initial: "ʔ"
 middle_chinese_final: "ʌm"
 stroke_count: 11
@@ -18,7 +17,7 @@ skip_number: 1-3-8
 grade_level: "先進"
 pos: 名詞
 english:
-  - Ohm
+  - Om
 羅馬字: "'om"
 諺文: "옴"
 joyo_level: "表外字"

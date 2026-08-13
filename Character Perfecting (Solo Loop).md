@@ -5819,3 +5819,19 @@ Rebuilt `## Notes` (wrong heading level; had substantive but non-standard conten
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 勅 (7127; 1094 characters remaining).
+
+### 2026-08-12, iteration 1411 — [[characters/勅|勅]]
+
+**Significant `mc_id` bug found and fixed**: stored `mc_id: 0` was wrong — the traditional alias form [[敕]] is genuinely tracked in the Classical Chinese frequency corpus at rank **1557** (`CC 1000.md` line 582), not absent as the `0` value implied; corrected, the same asymmetric-primary-form pattern seen on [[斎]]/齋 and [[侠]]/俠. **`graphemic_classification: 會意` confirmed correct** (柬/束 "bundle" + 攴 "a stick in hand, denoting authority"). **Genuine variant alias added**: 勑, verified as an unqualified "variant form of 敕." **Alias candidate 飭 investigated and excluded**: its own distinct dominant meaning ("to put in order, rectify, prudent"), matching the competing-modern-meaning exclusion pattern; several other listed forms (𠡠, 敇, 𢽟, 𠡁, 𠡅) were already explicitly flagged "erroneous/nonstandard" in the source and excluded on sight.
+
+**Real Korean-gloss bug found and fixed**: stored `korean_native: 칙서` doesn't match any attested 훈 for this character; direct ko.Wiktionary lookup gives the actual 훈음 as `조서` ("edict") — corrected. **`japanese` expanded**: stored `[CHOKU]` was missing the 呉音 reading; Wiktionary confirms 呉音 `CHIKI`(ちき) alongside 漢音 `CHOKU`(ちょく) — added.
+
+japanese_native (`いまし`, stem of いましめる), vietnamese (`sắc`, confirmed complete via hvdic), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 712), `hsk_level: 無` (confirmed via [HSK No] line 46), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅊ] line 100) all confirmed correct as-is. Filled blank `pos` → `名詞` and blank `boundedness` → `80`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets; `## Words` was oddly placed above `## Notes`) to the standard 4-bullet format and section order. **`## Words`**: tagged the existing [[勅令]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[勅令]] (already richly perfected 2026-06-07) had one bug fixed**: the recurring `../characters/` broken-relative-path bug.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 唵 (char) (7129; 1093 characters remaining).
