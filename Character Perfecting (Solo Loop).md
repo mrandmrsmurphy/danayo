@@ -5871,3 +5871,17 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 鱗 (char) (7131; 1091 characters remaining).
+
+### 2026-08-12, iteration 1414 — [[characters/鱗 (char)|鱗]]
+
+**`mc_id: 2250` verified correct as-is** (`CC 2000.md` line 263). **`graphemic_classification: 粦` confirmed correct** (形聲, semantic 魚 + phonetic 粦, pageless in this vault). **Two alias candidates investigated and excluded**: 魿 (not labeled a variant of 鱗 despite sharing the same Japanese kun'yomi うろこ — an independent character in its own right) and 䰼 (a wholly unrelated character meaning "condiment/salted fish," no documented relationship at all).
+
+korean_native (`비늘`, "scale," matching the eumhun exactly), japanese_native (`うろこ`, primary kun), `korean: 린` (confirmed correct North Korean/문화어 form, avoiding the South-Korean-shifted 인), vietnamese (`lân`, confirmed complete via hvdic), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 221), `hsk_level: 無` (confirmed via [HSK No] line 380), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㄹ] line 97) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[鱗]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[鱗]] (already richly perfected 2026-03-25) had no bugs found** — all fields (including japanese/vietnamese as lists, an unusual but valid style for these self-stand stubs) were already correct.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 聊 (char) (7132; 1090 characters remaining).
