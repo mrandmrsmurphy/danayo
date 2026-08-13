@@ -7,9 +7,9 @@ japanese:
   - SEI
   - SHOU
 japanese_native: おい
-  - おい , むこ
 vietnamese:
   - sinh
+  - sanh
 middle_chinese_initial: ʃ
 middle_chinese_final: ɣæŋ
 stroke_count: 12
@@ -35,6 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 30
+date-last-perfect: 2026-08-13
 ---
 >[!tip] This is a page about the character 甥.
 >For the word, see [甥](words/甥.md)
@@ -42,7 +43,10 @@ boundedness: 30
 [[nav/char_info]]
 ```
 ## Notes
-- Phono-semantic: [生](Radical%20100) + [男](男.md)
-- K dictionaries list the meaning as 甥姪
-[[Lookup/CC/initials/聲 生]]
-[[Lookup/CC/finals/韻 庚二開]]
+- 形聲 (OC \*sreŋ): phonetic [[生]] ("life, birth," a close match) + semantic [[男]] ("male") — a sororal niece or nephew (sister's child); (obsolete) a son-in-law.
+- [SKIP-1-5-7](lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 2862nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄙㄚㄫ](syllables/ㄙㄚㄫ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Words
+- <ruby>[[甥]]<rt>ㄙㄚㄫ</rt></ruby> "sister's child" (stand-in for 甥)

@@ -6003,3 +6003,451 @@ Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name line
 Stamped `date-last-perfect: 2026-08-12`.
 
 Next never-perfected character by `danayo_id`: 湾 (7141; 1083 characters remaining).
+
+### 2026-08-12, iteration 1422 — [[characters/湾|湾]]
+
+**`mc_id: 0` confirmed meaningful as-is** (checked and confirmed absent under both 湾 and its traditional alias [[灣]] in all four CC lookup lists). **`graphemic_classification: 弯` confirmed correct** (形聲, semantic 水 + phonetic 弯, cognate with 彎). The pre-existing Notes comment distinguishing 湾 from [[弯]] (a separate character with its own independent "bend, curve" sense, kept distinct rather than fully collapsed the way Japanese shinjitai does) was preserved and incorporated into the rebuilt etymology bullet — genuine and correct, not a bug.
+
+**`japanese` expanded**: stored `[WAN]` was missing the 呉音 reading; direct ja.Wiktionary lookup confirms 呉音 `EN`(エン) alongside 漢音 `WAN`(ワン, 表内/jōyō) — added. **Blank `vietnamese` filled**: hvdic.thivien.net gives Hán Việt `loan` and Nôm `{loan, loáng}` — added both (excluding `vịnh`, which an initial fetch had surfaced but which is actually the ordinary Vietnamese *word* for "bay/gulf," not a reading of this character at all).
+
+korean_native (`물굽이`, "river bend," the character's core etymological sense), japanese_native (`いりえ`, "inlet/cove," confirmed as genuinely matching the "bay" sense rather than a cross-sense mismatch), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 1117), `hsk_level: 4` (confirmed via [Old HSK 4] line 2423), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅁ] line 12) all confirmed correct as-is; `pos: 名詞` was already correctly filled.
+
+Rebuilt `## Notes` (a single genuine "we keep this distinct from 弯" comment, two bare floating unlinked CC-name lines, two stray uncontextualized word bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[海湾]] as the reflexive stand-in, kept [[弯曲]] as a related non-stand-in citation. No Chengyu hits (one prose-only false positive excluded: [[唇亡歯寒]]); no derived characters.
+
+**Three related pages had bugs fixed while researching**: [[海]] had the same malformed Vietnamese comma-dump bug seen on [[掻]]/[[淋]] earlier this session (`hải, hẩy, hấy` — `hẩy` unconfirmed anywhere, removed, leaving `[hải, hấy]`); [[海湾]] had a blank `vietnamese` field (filled `hải loan`, compositional) and the recurring `../characters/` broken-relative-path bug, consolidated to the standard stand-in-note format; [[弯曲]] had a genuine `pos`/`品詞` internal mismatch (`性詞` vs `擬詞`) — corrected `品詞` to match the already-correct `pos: 性詞`.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 棚 (char) (7142; 1082 characters remaining).
+
+### 2026-08-12, iteration 1423 — [[characters/棚 (char)|棚]]
+
+**`mc_id: 6814` confirmed as legitimate long-tail data** (棚 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 朋` confirmed correct** (形聲, semantic 木 + phonetic 朋, OC \*bɯːŋ on both sides, an exact match) — this was already noted correctly in the pre-existing Notes bullet, just reformatted with proper wikilinks (the old version used broken bare-filename-style links). **Alias candidate 柵/栅 investigated and excluded**: an independent character with its own dominant "fence, barrier" meaning, not a labeled variant of 棚.
+
+**Vietnamese contamination fixed**: stored comma-dump `"bằng, nhũ"` — cross-checked against hvdic.thivien.net, which confirms `bành` and `bằng` but nothing resembling `nhũ`; decomposed and corrected to `[bằng, bành]`.
+
+**`japanese` significantly expanded**: stored `[HOU]` was missing two of three attested readings; direct ja.Wiktionary lookup confirms 呉音 `BYOU`(ビョウ)/`BOU`(ボウ) alongside 漢音 `HOU`(ホウ) — added both.
+
+japanese_native (`たな`, the standard/表内 kun'yomi), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 670), `hsk_level: 3` (confirmed via [Old HSK 3] line 1630), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅂ] line 70) all confirmed correct as-is; `pos: 名詞` was already correctly filled. `korean_native: 사다리` ("ladder") could not be independently confirmed or refuted via available sources (no eumhun found on any accessible dictionary) — left unchanged rather than guessed at, despite not obviously matching any of Wiktionary's documented senses.
+
+Rebuilt `## Notes` (a single non-standard etymology bullet with broken bare-filename links, two dangling CC-name wikilinks with no rank info) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[棚]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[棚]] (already perfected 2026-07-11) had no bugs found** — its `vietnamese: kệ` (a native word rather than a Sino-Vietnamese reading) is a deliberate, well-reasoned choice already justified at length in its own prose, not an error.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 硯 (7143; 1081 characters remaining).
+
+### 2026-08-12, iteration 1424 — [[characters/硯|硯]]
+
+**`mc_id: 6904` confirmed as legitimate long-tail data** (硯 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 見` confirmed correct** (形聲, semantic 石 + phonetic 見). **Existing aliases `[砚, 䂩]` both reconfirmed genuine** (simplified form; independently-verified unqualified variant respectively).
+
+**Vietnamese candidate `khố` investigated and declined**: an initial broader fetch surfaced it alongside the stored four readings, but hvdic.thivien.net's narrower confirmed set (`nghiễn, nghẽn, nghiên`) doesn't include it and it has no thematic connection to "inkstone" (khố = "loincloth") — left out of the stored `[nghiên, nghiền, nghiễn, nghẽn]`, which remains as-is since three of its four members are independently hvdic-confirmed and the fourth (nghiền, "to grind") is thematically plausible for a grinding-stone.
+
+japanese (`[KEN, GEN]`, both confirmed complete), japanese_native (`すずり`, confirmed), korean_native (`벼루`, "inkstone"), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 395), `hsk_level: 無` (confirmed via [HSK No] line 350), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅇ] line 73, which also cross-references the 䂩 alias) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (already fairly complete but condensed into two dense middle-dot-separated bullets rather than the standard 4-bullet format) into the standard format, preserving the genuine "dropped from the Korean MS curriculum in 2000" detail. **`## Words`**: tagged the existing [[硯石]] as the reflexive stand-in. **`## Chengyu`**: the existing [[磨穿鉄硯]] citation reconfirmed genuine (exact `characters:` field match). No derived characters.
+
+**Citing word page [[硯石]] had two bugs fixed**: an entirely missing `vietnamese` field — filled compositionally (`nghiễn thạch`, from 硯's own primary Hán Việt + [[石 (char)]]'s own `thạch`); and the recurring `../characters/` broken-relative-path bug, with its two Notes bullets consolidated into the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 婿 (char) (7144; 1080 characters remaining).
+
+### 2026-08-12, iteration 1425 — [[characters/婿 (char)|婿]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the twenty-seventh confirmed instance this session): stored `mc_id: 2565` points to a different character (`CC 2000.md` line 590 = 縞); 婿's true rank is **2566** (line 591), corrected. **`graphemic_classification: 胥` confirmed correct** (形聲, semantic 女 + phonetic 胥). **Three genuine variant aliases added**: 壻, 聓, 聟, each independently verified as an unqualified "variant form of 婿."
+
+**`japanese` expanded**: stored `[SEI]` was missing the 呉音 reading; direct ja.Wiktionary lookup confirms 呉音 `SAI`(サイ) alongside 漢音 `SEI`(セイ, 表内/jōyō) — added. **Blank `hanmun_edu_level` filled** → `無`, confirmed absent from all Korean hanmun lookup lists (routes to the Dataview-driven [[Korean Missing]] page).
+
+korean (`서`), korean_native (`사위`, "son-in-law"), japanese_native (`むこ`, confirmed), vietnamese (`[rể, tế]`, `tế` confirmed via hvdic as the primary Hán Việt/Nôm reading, `rể` retained as the well-known everyday word for "son-in-law" despite not appearing in hvdic's own entry for this character), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 568), and `hsk_level: 無` (confirmed via [HSK No] line 83) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[婿]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[婿]] had two bugs fixed**: the recurring `vietnamese: null` corruption — replaced with `rể`, the everyday reading; and a missing `pos` field — filled `名詞`.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 筒 (char) (7145; 1079 characters remaining).
+
+### 2026-08-12, iteration 1426 — [[characters/筒 (char)|筒]]
+
+**`mc_id: 6459` confirmed as legitimate long-tail data** (筒 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 同` confirmed correct** (形聲, semantic 竹 + phonetic 同, OC \*doːŋ on both sides, an exact match). **Genuine variant alias added**: 筩, verified as an unqualified "variant form of 筒."
+
+**`japanese` expanded**: stored `[TOU]` was missing the 呉音 reading; direct ja.Wiktionary lookup confirms 呉音 `ZUU`(ヅゥ) alongside 漢音 `TOU`(トゥ, 表内/jōyō) — added. **Vietnamese expanded**: hvdic.thivien.net lists a second Hán Việt reading `động` alongside the stored `đồng` — added (declined to add `thổng`/`đỗng` from a broader, less specialized fetch, since hvdic itself doesn't confirm either).
+
+korean_native (`대통`, "bamboo tube"), japanese_native (`つつ`, confirmed), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 775), `hsk_level: 3` (confirmed via [Old HSK 3] line 1762), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅌ] line 40) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing self-reference stand-in [[筒]] explicitly. No Chengyu hits; no derived characters.
+
+**Citing word page [[筒]] had two bugs fixed**: the recurring `vietnamese: null` corruption — replaced with `đồng`; and a missing `pos` field — filled `名詞`.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 敦 (7146; 1078 characters remaining).
+
+### 2026-08-12, iteration 1427 — [[characters/敦|敦]]
+
+**`mc_id: 1312` verified correct as-is** (`CC 1000.md` line 329). **`graphemic_classification: 會意` confirmed correct**, preserving the vault's established preference (per [[兜 (char)|兜]]/[[奚 (char)|奚]] precedent) for a character's genuine original compositional history — 敦 originates as 𦎫 (亯+羊, 會意), only later reanalyzed as 攴+phonetic 𦎫 (形聲). **Significant bad-alias bug found and fixed**: stored `aliases: [墩]` — 墩 is actually a phono-semantic *derivative* of 敦 (土 + phonetic 敦, "mound, block"), with its own wholly unrelated dominant meaning, not a genuine variant; removed and documented as a phonetic derivative in the rebuilt Notes bullet instead. **Genuine variant alias added**: 㪟, which explicitly lists "honest/sincere/generous" among its own senses and carries no ancient/obsolete qualifier.
+
+**Extreme Vietnamese contamination fixed**: stored a 15-entry list conflating readings from all seven of 敦's distinct Chinese pronunciations/etymologies (vessel, mound, administration, clustering, etc.) with the "honest, sincere" sense actually used here; hvdic.thivien.net explicitly confirms `đôn` as the reading specific to this sense — trimmed to that single entry.
+
+**Bad Japanese readings found and fixed**: stored `[TON, DAN, CHOU]` — `DAN` and `CHOU` are not attested anywhere; direct ja.Wiktionary lookup confirms `TON`/`TAI` (呉音/漢音) and `TSUI` (慣用音) — corrected to `[TON, TAI, TSUI]`.
+
+korean_native (`도타울`, "to be generous/warm-hearted"), japanese_native (`あつ`, stem of あつい), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 52), `hsk_level: 6` (confirmed via [Old HSK 6]), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 143, matching "도타울 돈") all confirmed correct as-is. Filled blank `pos` → `性詞`, matching the citing word's own stored value.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, two stray uncontextualized word bullets) to the standard 4-bullet format, documenting both the 會意→形聲 reanalysis history and the 墩 phonetic-derivative relationship. **`## Words`**: tagged the existing [[敦厚]] as the reflexive stand-in, kept [[迦克敦]] as a related non-stand-in citation. No Chengyu hits; no derived characters (墩 pageless).
+
+**Citing word page [[敦厚]] had several bugs fixed**: blank `cantonese` (filled `deon1 hau5`, composed from 敦's own `deon1` + [[厚 (char)]]'s own `hau5`) and blank `vietnamese` (filled `đôn hậu`, a genuinely attested Vietnamese compound word); a non-standard `## Etymology` heading (renamed to `## Notes`); and the recurring `../characters/` broken-relative-path bug, consolidated to the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 喘 (7148; 1077 characters remaining).
+
+### 2026-08-12, iteration 1428 — [[characters/喘|喘]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the twenty-eighth confirmed instance this session): stored `mc_id: 2007` points to a different character (`CC 2000.md` line 12 = 頊); 喘's true rank is **2008** (line 13), corrected. **`graphemic_classification: 耑` confirmed correct** (形聲, semantic 口 + phonetic 耑, pageless in this vault). No variant forms documented anywhere — `aliases` correctly left blank.
+
+**`japanese` expanded**: stored `[ZEN, SEN]` was missing the 慣用音 reading; direct ja.Wiktionary lookup confirms `ZEI`(ぜい) alongside `SEN`(せん, 呉音/漢音) and `ZEN`(ぜん, 慣用音) — added.
+
+korean_native (`숨찰`, "to be out of breath"), japanese_native (`あえ`, stem of あえぐ), vietnamese (`[siễn, suyển, suyễn]`, confirmed complete), `joyo_level: 表外字` (confirmed on [Hyōgai] line 271), `hsk_level: 3` (confirmed via [Old HSK 3] line 1200), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅊ] line 37) all confirmed correct as-is. Filled blank `pos` → `名詞`, matching the citing word's own stored value.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets; `## Words` was oddly placed above `## Notes`) to the standard 4-bullet format and section order. **`## Words`**: tagged the existing [[喘息]] as the reflexive stand-in. **New `## Chengyu` section added**: [[呉牛喘月]] confirmed as a genuine citation (exact `characters:` field match, already fully perfected); one false positive excluded ([[弱不禁風]], prose-only mention). No derived characters.
+
+**Citing word page [[喘息]] (already richly perfected 2026-06-07) had one bug fixed**: the recurring `../characters/` broken-relative-path bug.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 粟 (7149; 1076 characters remaining).
+
+### 2026-08-12, iteration 1429 — [[characters/粟|粟]]
+
+**`mc_id: 860` verified correct as-is** (`CC 0000.md` line 890). **`graphemic_classification: 象形` confirmed correct**, preserving the vault's established preference for genuine original compositional history — 粟 originates as an oracle-bone pictogram of grain, only later corrupted into a phono-semantic form (phonetic 角→西 + semantic 米) during the Warring States period, the same pattern as [[敦]] last cycle. **Genuine variant alias added**: 𥻆, verified as an unqualified "variant form of 粟."
+
+japanese (`[ZOKU, SHOKU, SOKU]`, all three confirmed complete via direct ja.Wiktionary lookup), japanese_native (`あわ`, primary kun), korean_native (`조`, "millet"), vietnamese (`[thóc, túc]`, confirmed complete via hvdic), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 141), `hsk_level: 無` (confirmed via [HSK No] line 280), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 358) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[米粟]] as the reflexive stand-in (self-caught a ruby-syllable typo — initially guessed ㄇㄧ instead of verifying the word's own stored `注音: ㄇㄝㄧㄙ⼄ㄎ`, corrected before finalizing). No Chengyu hits; no derived characters.
+
+**Citing word page [[米粟]] (never previously perfected) had several bugs fixed**: blank `cantonese` (filled `mai5 suk1`), blank `korean` (filled `미속`), and blank `vietnamese` (filled `mễ túc`) — all composed from each constituent character's own stored readings; a non-standard `## Etymology` heading (renamed to `## Notes`); and the recurring `../characters/` broken-relative-path bug, consolidated to the standard single-bullet stand-in format. Left without its own `date-last-perfect` stamp, since this was an opportunistic bug-fix pass during 粟's own cycle rather than 米粟's independent turn in the sweep.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 粥 (char) (7150; 1075 characters remaining).
+
+### 2026-08-12, iteration 1430 — [[characters/粥 (char)|粥]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the twenty-ninth confirmed instance this session): stored `mc_id: 2080` points to a different character (`CC 2000.md` line 85 = 蹈); 粥's true rank is **2081** (line 86), corrected. **`graphemic_classification: 會意` confirmed correct**, preserving genuine compositional history — 粥 is a reduced form of 鬻 (⿲弓米弓, itself 會意), the same original-analysis preference established on [[敦]]/[[粟]]. **Existing alias `鬻` reconfirmed genuine**; two additional candidates from other etymologies investigated and excluded — 育 (its own robust independent meaning, "to raise/educate," no variant labeling at all) and 糜 (a dialectal synonym for congee with its own broad independent semantic range, not a labeled variant).
+
+**Cross-sense native-gloss bug found and fixed**: stored `japanese_native: かい` had no confirmable meaning anywhere; direct sourcing confirms `かゆ` ("porridge") as the clearly-attested kun'yomi matching this character's documented sense — corrected. `korean_native: 죽` was double-checked given its suspicious duplication of the `korean` field, but ko.Wiktionary directly confirms both 훈 and 음 are genuinely "죽" for this character (a fully assimilated loanword) — confirmed correct, not a bug, unlike the superficially similar case on [[桶 (char)|桶]] earlier.
+
+**Vietnamese expanded**: hvdic.thivien.net lists a second Hán Việt reading `dục` (tied to the archaic "alternative form of 育" etymology) alongside the stored `[cháo, chúc]` — added.
+
+japanese (`[SHUKU, IKU]`, both confirmed complete — identical across 呉音/漢音), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 410), `hsk_level: 3` (confirmed via [Old HSK 3] line 1982), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅈ] line 75) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[粥]] alongside the existing [[臘八粥]]. No Chengyu hits; no derived characters.
+
+**Two citing word pages had bugs fixed**: [[粥]] had the recurring `vietnamese: null` corruption (replaced with `cháo`) and a missing `pos` (filled `名詞`); [[臘八粥]] (already perfected 2026-05-25) had an entirely missing `vietnamese` field — filled compositionally (`lạp bát cháo`, from all three constituent characters' own readings) — and the recurring `../characters/` broken-relative-path bug.
+
+Stamped `date-last-perfect: 2026-08-12`.
+
+Next never-perfected character by `danayo_id`: 隅 (char) (7152; 1074 characters remaining).
+
+### 2026-08-13, iteration 1431 — [[characters/隅 (char)|隅]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirtieth confirmed instance this session): stored `mc_id: 1814` points to a different character (`CC 1000.md` line 851 = 孚); 隅's true rank is **1815** (line 852), corrected. **`graphemic_classification: 禺` confirmed correct** (形聲, semantic 阜 + phonetic 禺, OC \*ŋo on both sides, an exact match). No variant forms documented anywhere (the only listed alternative was an unencoded second-round-simplified glyph) — `aliases` correctly left blank.
+
+**Vietnamese contamination fixed**: stored `[ngong, ngung, ngóng]`; both Wiktionary and hvdic.thivien.net confirm only `ngung` (primary Hán Việt) and `ngong` (Nôm) — `ngóng` is not attested anywhere (likely confused with the unrelated native Vietnamese word "to wait longingly for") — removed.
+
+korean_native (`모퉁이`, "corner"), japanese (`[GUU, GU]`, both confirmed complete), japanese_native (`すみ`, confirmed), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 241), `hsk_level: 無` (confirmed via [HSK No] line 106), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅇ] line 134) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (a non-standard etymology bullet with several broken bare-filename/relative-path links, no other bullets) to the standard 4-bullet format with corrected wikilinks. **`## Words`**: added the missing reflexive stand-in [[隅]]. One Chengyu false positive excluded ([[大器晩成]], prose-only mention); no derived characters.
+
+**Citing word page [[隅]] had two bugs fixed**: blank `vietnamese` (filled `ngung`, the primary Hán Việt reading) and a missing `pos` field (filled `名詞`).
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 脹 (7154; 1073 characters remaining).
+
+### 2026-08-13, iteration 1432 — [[characters/脹|脹]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirty-first confirmed instance this session): stored `mc_id: 2197` points to a different character (`CC 2000.md` line 206 = 罵); 脹's true rank is **2198** (line 207), corrected. **`graphemic_classification: 長` confirmed correct** (形聲, semantic 肉 + phonetic 長). Existing alias `胀` (simplified) reconfirmed genuine; no other variants beyond an unencoded second-round-simplified glyph.
+
+**Missing stand-in word found and created**: `stand_in: 腫脹` pointed to a word page that didn't exist anywhere in the vault (checked under aliases of both constituent characters too — genuinely absent, not a citation-mismatch). Created [[腫脹]] as a new word page — a real, independently-verifiable medical term in both Japanese (しゅちょう, "swelling of tissue," confirmed via direct ja.Wiktionary lookup) and by regular Sino-Korean derivation (종창), composed from [[腫]]'s own `jong`/`종`/`ㄐㄛㄫ` + 脹's own `cang`/`창`/`ㄑㄚㄫ`; Vietnamese `thũng trướng` is compositional (the exact compound is unattested in hvdic) from each character's own primary reading.
+
+japanese (`[CHOU]` reconfirmed complete — a broader initial fetch had surfaced a second reading `JOU`, but direct ja.Wiktionary lookup shows only `CHOU` for both 呉音/漢音), japanese_native (`は`, stem of はれる, "to swell" — confirmed as a genuine attested kun matching the documented sense, not a truncation error), korean_native (`부을`, "to swell," matching the eumhun exactly), vietnamese (`[chương, chướng, rướn, trướng]`, confirmed complete), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 331), `hsk_level: 3` (confirmed via [Old HSK 3] lines 950/951), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅊ] line 22) all confirmed correct as-is. Filled blank `pos` → `名詞`, matching the newly-created stand-in word.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, two stray uncontextualized word bullets) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[腫脹]] alongside the existing [[膨脹]] and [[脹脛]] (both confirmed as related but non-stand-in citations). No Chengyu hits; no derived characters.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 棟 (7155; 1072 characters remaining).
+
+### 2026-08-13, iteration 1433 — [[characters/棟|棟]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirty-second confirmed instance this session): stored `mc_id: 2819` points to a different character (`CC 2000.md` line 856 = 衷); 棟's true rank is **2820** (line 857), corrected. **`graphemic_classification: 東` confirmed correct** (形聲, semantic 木 + phonetic 東). Existing alias `栋` (simplified) reconfirmed genuine.
+
+**`japanese` expanded**: stored `[TOU]` was missing two attested readings; direct ja.Wiktionary lookup confirms 呉音 `TSU`(ツ)/`TSUU`(ツウ) alongside 漢音 `TOU`(トウ, 表内/jōyō) — added both. **Vietnamese candidates `chống`/`gióng` investigated and declined**: a broader initial fetch surfaced them, but hvdic.thivien.net's confirmed set (`đống, đóng, đúng`) matches the vault's existing stored list exactly — left unchanged.
+
+korean_native (`마룻대`, "ridgepole"), japanese_native (`むな`, one of two attested 表内 kun readings), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 773), `hsk_level: 4` (confirmed via [Old HSK 4] lines 1742/1743), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㄷ] line 40) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[棟梁]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[棟梁]] had two bugs fixed**: blank `vietnamese` (filled `đống lương`, directly confirmed via hvdic as a genuine attested compound) and the recurring `../characters/` broken-relative-path bug, consolidated to the standard single-bullet stand-in format (the numbered sense list below was left intact).
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 智 (7156; 1071 characters remaining).
+
+### 2026-08-13, iteration 1434 — [[characters/智|智]]
+
+**`mc_id: 445` verified correct as-is** (`CC 0000.md` line 463). **`graphemic_classification: 知` confirmed correct despite initial appearances**: the pre-existing Notes bullet described only the *ancient* 會意 origin (大+口+子), seemingly mismatched with the stored phonetic-looking field — but Wiktionary's own etymology explicitly describes 智 as "an exopassive of 知," and the *modern* graph is literally 知+日, so `知` correctly documents this modern derivational identity (the same "exopassive" relationship category established on [[俸]] earlier this session) rather than being an error. Both the ancient and modern accounts were preserved in the rebuilt Notes. **Two alias candidates excluded**: 𣉻 and 𥏼, both unverifiable (no retrievable Wiktionary entries).
+
+**Wrongly-blanked field bug found and fixed** (third instance this session, after [[蛋]] and [[勘 (char)|勘]]): stored `japanese_native: ø` was wrong — direct ja.Wiktionary lookup shows a genuine kun'yomi, さとい ("wise, clever"), directly matching this character's documented sense; corrected. **`japanese` expanded**: added the missing 唐音 `SHI`(シ) alongside 呉音/漢音 `CHI`(チ).
+
+**Vietnamese contamination fixed**: stored `[tré, trí]`; both Wiktionary and hvdic.thivien.net confirm only `trí` — `tré` is not attested anywhere and was removed.
+
+korean_native (`슬기`, "wisdom"), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 62), `hsk_level: 3` (confirmed via [Old HSK 3] line 1975), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 572) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (a genuine but incomplete etymology bullet, a stray note about Japanese substitute-character usage, two dangling CC-name wikilinks with no rank info) to the standard 4-bullet format, preserving both the ancient and modern etymological accounts. **`## Words`**: added the missing reflexive stand-in [[智慧]]. Four Chengyu false positives excluded ([[国士無双]], [[三綱五常]], [[心性意力]], [[空中楼閣]], all prose-only mentions, none citing 智 in their `characters:` field); no derived characters.
+
+**Citing word page [[智慧]] had a missing `## Notes` section entirely** — added with the standard stand-in-note format.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 堤 (7157; 1070 characters remaining).
+
+### 2026-08-13, iteration 1435 — [[characters/堤|堤]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirty-third confirmed instance this session): stored `mc_id: 3805` points to a different character (`CC 3000.md` line 842 = 翣); 堤's true rank is **3806** (line 843), corrected. **`graphemic_classification: 是` confirmed correct** (形聲, semantic 土 + phonetic 是). **Genuine variant alias added**: 隄, verified as an unqualified "variant form of 堤."
+
+**Bad Japanese reading found and fixed**: stored `[TEI, SHI]` — `SHI` is not attested anywhere for this character; direct ja.Wiktionary lookup confirms only 呉音 `TAI`(たい) and 漢音 `TEI`(てい, 表内/jōyō) — replaced `SHI` with the missing `TAI`. **Vietnamese expanded**: hvdic.thivien.net lists a second Hán Việt reading `đề` alongside the stored `đê` — added; an earlier broader fetch had also surfaced `chỉ`, but hvdic doesn't confirm it for this character and it was declined.
+
+korean_native (`둑`, "dike"), japanese_native (`つつみ`, confirmed), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 737), `hsk_level: 3` (confirmed via [Old HSK 3] line 1243), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 554) all confirmed correct as-is; `pos: 名詞` was already correctly filled.
+
+Rebuilt `## Notes` (a non-standard "Components:" bullet, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[堤防]] (self-caught a ruby-syllable typo before finalizing, cross-checking the word's own stored `注音: ㄙㄝㄅㄚㄫ`). No Chengyu hits; no derived characters.
+
+**Citing word page [[堤防]] (already richly perfected 2026-08-04, with a documented cross-contamination fix from a prior pass) had one bug fixed**: the recurring `../characters/` broken-relative-path bug, plus added the missing stand-in note.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 跑 (7158; 1069 characters remaining).
+
+### 2026-08-13, iteration 1436 — [[characters/跑|跑]]
+
+**`mc_id: 7638` confirmed as legitimate long-tail data** (跑 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 包` confirmed correct** (形聲, semantic 足 + phonetic 包). No variant forms documented anywhere — `aliases` correctly left blank. **`stand_in: 名専字` confirmed as the standing special value** for naming-restricted characters with no legitimizing compound — no `## Words` section is expected or added for this class of character, matching the (unperfected) precedent on [[哱]]. Boundedness `90` initially looked suspicious against a small same-category sample, but a broader check across all `名専字` characters in the vault showed highly varied values (50–90+) with no fixed correlation — left unchanged.
+
+**Significant malformed-YAML bug found and fixed**: `japanese_native: あが` was immediately followed by an orphaned `- だく` list item, invalid YAML mixing a scalar with trailing list syntax (the same pattern as [[侠]] earlier this session) — removed the spurious fragment, since the genuine kun'yomi is a single reading (あがく). **Bad Japanese reading found and fixed**: stored `[HOU, BYOU, HAKU]` — `BYOU` is not attested anywhere; direct ja.Wiktionary lookup confirms 呉音 `BOKU`(ボク), 漢音 `HAKU`(ハク), 慣用音 `HOU`(ホウ) — corrected to `[HOU, BOKU, HAKU]`.
+
+**Malformed Vietnamese comma-dump fixed**: `"bào, bão"` decomposed into two proper list items — both independently confirmed genuine via hvdic (Hán Việt `bào`, Nôm `bão`).
+
+**Korean-reading form fixed**: `korean_native: 달리다` (dictionary citation form) converted to the standard adnominal `달릴`, matching this vault's convention elsewhere. **`pos` corrected**: stored `性詞` (stative/adjectival) didn't fit "run, trot" — genuinely eventive senses matching the `事詞` category used for other action verbs this session ([[逝]], [[萎]], [[掠]]) — corrected.
+
+**Shared lookup page bug found and fixed** (eighth consecutive cycle with a missing-entry pattern): [[Hyōgai]] was missing an entry for 跑 — added. `hsk_level: 1` (confirmed via [Old HSK 1] line 526) and `hanmun_edu_level: 無` (correctly routes to the Dataview-driven [[Korean Missing]] page) confirmed correct as-is.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format; no `## Words` section, per the `名専字` convention. No Chengyu hits (one prose-only false positive excluded: [[東奔西走]]); no derived characters.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 甥 (char) (7159; 1068 characters remaining).
+
+### 2026-08-13, iteration 1437 — [[characters/甥 (char)|甥]]
+
+**`mc_id: 2862` verified correct as-is** (`CC 2000.md` line 899). **`graphemic_classification: 生` confirmed correct** (形聲, phonetic 生 + semantic 男 — an unusual phonetic-first/semantic-second ordering, correctly documented as such in the rebuilt Notes). No variant forms documented anywhere — `aliases` correctly left blank.
+
+**Malformed YAML bug found and fixed** (the third such instance this session, after [[侠]] and [[跑]]): `japanese_native: おい` was immediately followed by an orphaned `- おい , むこ` list item — invalid YAML mixing a scalar with a duplicated, comma-dumped list fragment; cleaned up to the single genuine kun'yomi `おい` (むこ belongs to the character's separate obsolete "son-in-law" sense, not the documented "sister's child" sense).
+
+**Vietnamese expanded**: hvdic.thivien.net lists a second Hán Việt reading `sanh` alongside the stored `sinh` — added.
+
+korean_native (`생질`, matching the eumhun "생질 생" exactly), japanese (`[SEI, SHOU]`, both confirmed complete), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 388), `hsk_level: 無` (confirmed via [HSK No] line 333), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅅ] line 33) all confirmed correct as-is; `pos: 名詞` was already correctly filled.
+
+Rebuilt `## Notes` (a non-standard phono-semantic bullet with a broken bare-filename link, a stray reference to "K dictionaries," two dangling CC-name wikilinks with no rank info) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[甥]]. No Chengyu hits; no derived characters.
+
+**Citing word page [[甥]] (already richly perfected 2026-06-28) had one bug fixed**: the recurring `../characters/` broken-relative-path bug, plus added the missing stand-in note.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 祷 (7161; 1067 characters remaining).
+
+### 2026-08-13, iteration 1438 — [[characters/祷|祷]]
+
+**`mc_id: 1796` confirmed correct, tracked under the traditional alias form** (`CC 1000.md` line 829 = [[禱]], already listed as 祷's own alias — the same asymmetric-primary-form pattern as [[斎]]/齋, [[侠]]/俠, [[唖]]/啞). **`graphemic_classification: 寿` confirmed correct** (形聲, semantic 示 + phonetic 寿/壽). **Five alias candidates all excluded as unverifiable**: rare CJK Extension glyphs (𥛇, 𥛈, 𥙸, 𥜣, 𮖻) with no retrievable Wiktionary entries. **`#cranberry` tag reconfirmed genuine**: verified transitivity holds — [[祈]]'s own `stand_in` also points to [[祈祷]], the same word, satisfying the A=B=AB criterion.
+
+korean_native (`빌`, stem of 빌다, "to pray"), japanese (`[TOU]`, both 呉音/漢音 identical, confirmed), japanese_native (`いの`, stem shared by いのり/いのる), vietnamese (`đảo`, confirmed complete via hvdic), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 134), `hsk_level: 無` (confirmed via [HSK No] line 283), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㄷ] line 28) all confirmed correct as-is; `pos: 性詞` left unchanged despite initially looking like a possible eventive-verb mismatch, since it already agrees with the citing word's own independently-stored `性詞` and "to pray" is intransitive (not object-taking, the defining criterion for this vault's `事詞` category).
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format (self-caught a ruby-syllable typo before finalizing, cross-checking the word's own stored `注音: ㄍㄧㄜㄉㄚㄨ`). **`## Words`**: tagged the existing [[祈祷]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[祈祷]] had bugs fixed**: blank `vietnamese` (filled `kì đảo`, compositional — the exact compound is unattested in hvdic); the recurring `../characters/` broken-relative-path bug; and a missing stand-in note per [[AIOS/memory/feedback_standin_note|the standing convention]] — used the dual-stand-in phrasing ("stand-in for both [[祈]] and [[祷]]") since this word legitimizes both cranberry-bound constituents simultaneously.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 扉 (char) (7162; 1066 characters remaining).
+
+### 2026-08-13, iteration 1439 — [[characters/扉 (char)|扉]]
+
+**`mc_id: 4811` confirmed as legitimate long-tail data** (扉 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 非` confirmed correct** (形聲, semantic 戶 + phonetic 非). **Alias candidate 闔 investigated and excluded**: only labeled an alternative form of 扉 within Japanese specifically, and carries its own robust independent meaning ("whole, entire; to close") in Chinese generally — matching the competing-modern-meaning exclusion pattern.
+
+japanese (`[HI]`, both 呉音/漢音 identical, confirmed), japanese_native (`とびら`, confirmed), korean_native (`사립문`, "brushwood gate," plausible though not independently re-confirmed), vietnamese (`phi`, confirmed complete via hvdic), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 866), `hsk_level: 無` (confirmed via [HSK No] line 113), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅂ] line 73) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[扉]]. No Chengyu hits; no derived characters.
+
+**Significant bug found and fixed on citing word page [[扉]]**: its entire phonological triplet (`注音`, `羅馬字`, `諺文`) had been copied from the wrong syllable — `ㄅㄨㄧ`/`bui`/`뷔` (which belongs to an unrelated syllable group, [[肥]]/[[裴]], confirmed via that syllable page's own `## Characters` list) instead of 扉's own correct `ㄈㄨㄧ`/`fui`/`쀠` (already correctly linked from the [[ㄈㄨㄧ]] syllable page's own `## Characters` entry #1). Corrected all three fields to match the character. Also fixed the recurring `vietnamese: null` corruption (filled `phi`) and a missing `pos` field (filled `名詞`).
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 楷 (char) (7163; 1065 characters remaining).
+
+### 2026-08-13, iteration 1440 — [[characters/楷 (char)|楷]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirty-fourth confirmed instance this session): stored `mc_id: 3864` points to a different character (`CC 3000.md` line 901 = 傴); 楷's true rank is **3865** (line 902), corrected. **`graphemic_classification: 皆` confirmed correct** (形聲, semantic 木 + phonetic 皆). No variant forms documented anywhere — `aliases` correctly left blank.
+
+**`japanese` expanded**: stored `[KAI]` was missing the 呉音 reading; direct ja.Wiktionary lookup confirms 呉音 `KE`(ケ) alongside 漢音 `KAI`(カイ, 表内/jōyō) — added. **`japanese_native: ø` independently re-verified as genuinely correct** (unlike three earlier wrongly-blanked cases this session): direct ja.Wiktionary lookup confirms no kun'yomi section exists for this character at all, contradicting an initial broader fetch that had listed かた/ただしい/のっとる — those readings could not be corroborated by the more authoritative direct source and the blank was left as-is.
+
+**Vietnamese expanded**: hvdic.thivien.net lists a third reading `khải` alongside the stored `[giai, khai]` — added.
+
+korean_native (`본보기`, "model, example"), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 97), `hsk_level: 無` (confirmed via [HSK No] line 184), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅎ] line 31) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[楷]]. One Chengyu false positive excluded ([[異体不容]], prose-only mention); no derived characters.
+
+**Citing word page [[楷]] had its phonological triplet independently re-verified against its own syllable page** (after the significant mismatch found on [[扉]] last cycle) — confirmed genuinely correct this time, no fix needed there. Blank `vietnamese` (filled `giai`) and missing `pos` (filled `名詞`) were fixed.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 羨 (7164; 1064 characters remaining).
+
+### 2026-08-13, iteration 1441 — [[characters/羨|羨]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirty-fifth confirmed instance this session): stored `mc_id: 2420` points to a different character (`CC 2000.md` line 441 = 歿); 羨's true rank is **2421** (line 442), corrected. **Real `graphemic_classification` bug found and fixed**: stored `㳄` (implying a single phonetic component) — Wiktionary explicitly states this character is "not purely phonosemantic but rather a semantic composition" (羊 "fine sheep" + 㳄 "saliva," ideogrammic), so corrected to `會意` to match this vault's own convention for such characters ([[兜 (char)|兜]]/[[奚 (char)|奚]]/[[敦]]/[[粟]] precedent), documenting both components in the rebuilt Notes. **Normalized malformed scalar `aliases: 羡`** to proper list syntax.
+
+**Cross-sense native-gloss bug found and fixed**: stored `japanese_native: あまり` (stem of あまる, "to be in excess") belongs to the character's literary "surplus" sense, not the documented "envy, admire" sense; direct ja.Wiktionary lookup confirms うらやむ/うらやましい as the sense-matching kun'yomi — corrected to the stem `うらや`. **`japanese` expanded**: added the missing 呉音 `ZEN`(ゼン) alongside the already-stored `SEN`/`EN`.
+
+**Vietnamese expanded**: hvdic.thivien.net lists two additional readings, `diên` and `tiễn`, alongside the stored `[rợn, tiện, tợn]` — added.
+
+korean_native (`부러워할`, "to envy," matching the correct etymology-1 sense rather than the unrelated etymology-2 "grave passage" reading), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 589), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅅ] line 46) all confirmed correct as-is. **Blank `hsk_level` filled** → `2`, confirmed via [Old HSK 2] line 1574. Filled blank `pos` → `事詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: added the missing reflexive stand-in [[羨慕]] (self-caught a ruby-syllable typo before finalizing, cross-checking the word's own stored `注音: ㄧㄜㄇㄛ`). No Chengyu hits; no derived characters.
+
+**Citing word page [[羨慕]] had several bugs fixed**: blank `pos` (filled `事詞`), blank `vietnamese` (filled `tiện mộ`, directly confirmed via hvdic), and an entirely missing `## Notes` section — added with the standard stand-in-note format.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 賎 (7165; 1063 characters remaining).
+
+### 2026-08-13, iteration 1442 — [[characters/賎|賎]]
+
+**`mc_id: 593` confirmed correct, tracked under the traditional alias form** (`CC 0000.md` line 614 = [[賤]], already listed as 賎's own alias — the same asymmetric-primary-form pattern as [[斎]]/齋, [[侠]]/俠, [[唖]]/啞, [[祷]]/禱). **`graphemic_classification: 㦮` confirmed correct despite initial appearances**: Wiktionary names the traditional phonetic as 戔, but a direct precedent check on [[桟]] (also derived from a 戔-phonetic traditional form) shows this vault consistently uses `㦮` to document the Japanese shinjitai simplification of 戔 as it actually appears in these modern graphs — not an error. **Genuine variant alias added**: 贱 (simplified), alongside the already-correct traditional 賤.
+
+**Blank `vietnamese` filled**: `tiện`, confirmed via hvdic as both the Hán Việt and Nôm reading.
+
+japanese (`[SEN, ZEN]`, both confirmed complete), japanese_native (`いや`, stem shared by いやしい/いやしむ/いやしめる), korean_native (`천할`, "to be lowly"), `joyo_level: 表外字` (confirmed via the redirect note on [Hyōgai] line 331), `hsk_level: 3` (confirmed via [Old HSK 3] lines 1431/1432), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 600) all confirmed correct as-is; `pos: 性詞` was already correctly filled. Filled blank `boundedness` → `80`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets; `## Words` was oddly placed above `## Notes`) to the standard 4-bullet format and section order. **`## Words`**: tagged the existing [[賎人]] as the reflexive stand-in. Five Chengyu false positives excluded ([[帰塵帰土]], [[愛隣如自]], [[腹行食塵]], [[糟糠之妻]], [[金銀銅鉄]], all prose-only mentions, none citing 賎/賤 in their `characters:` field); no derived characters.
+
+**Citing word page [[賎人]] had two bugs fixed**: an entirely missing `vietnamese` field (filled compositionally: `tiện nhân`, from 賎's own `tiện` + [[人 (char)]]'s own `nhân`, the exact compound unattested in hvdic); and the recurring `../characters/` broken-relative-path bug, consolidated to the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 詰 (7166; 1062 characters remaining).
+
+### 2026-08-13, iteration 1443 — [[characters/詰|詰]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirty-sixth confirmed instance this session): stored `mc_id: 2162` points to a different character (`CC 2000.md` line 171 = 悌); 詰's true rank is **2163** (line 172), corrected. **`graphemic_classification: 吉` confirmed correct** (形聲, semantic 言 + phonetic 吉). **Significant bad-alias bug found and fixed**: stored `aliases: [譎, 诘]` — 譎 is a wholly unrelated character ("to deceive, cunning," its own independent lexical item with no documented relationship to 詰 at all) — removed, keeping only the genuine simplified form `诘`.
+
+**Wrongly-blanked field bug found and fixed** (fourth instance this session): stored `japanese_native: ø` was wrong — direct ja.Wiktionary lookup shows genuine kun'yomi readings (つめる/つまる/つむ/なじる); corrected to the stem `なじ`, matching the documented "interrogate" sense. **`japanese` expanded**: added the missing 呉音 `KICHI`(きち) alongside 漢音 `KITSU`(きつ, jōyō).
+
+**Vietnamese contamination fixed**: stored `[cật, cặt, gạt, gợt]`; hvdic.thivien.net confirms only `cật` (Hán Việt) and `gạt`/`gợt` (Nôm) — `cặt` is not attested anywhere (and is coincidentally a vulgar unrelated word) — removed.
+
+**Shared lookup page bug found and fixed while researching**: [[Korean Name ㅎ]]'s `### 휼` section had `[譎](characters/詰.md)` — 譎's own actual Korean reading is genuinely 휼 (matching its section heading), completely unrelated to 詰's own 힐 reading; the link had been mistakenly pointing to 詰's page — corrected to a bare `[[譎]]` wikilink matching its pageless siblings on the same line.
+
+korean_native (`물을`, "to ask/question"), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 192), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅎ] line 161) all confirmed correct as-is; `hsk_level: 無` confirmed via [HSK No] line 185. Filled blank `pos` → `事詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[詰問]] as the reflexive stand-in. One Chengyu false positive excluded ([[不言不語]], prose-only mention); no derived characters.
+
+**Citing word page [[詰問]] had several bugs fixed**: the same non-taxonomy `pos` bug found repeatedly this session (`動詞`/`品詞: 動詞` → `事詞`/`事詞`); blank `vietnamese` (filled `cật vấn`, directly confirmed via hvdic); and the recurring `../characters/` broken-relative-path bug, consolidated to the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 頌 (7167; 1061 characters remaining).
+
+### 2026-08-13, iteration 1444 — [[characters/頌|頌]]
+
+**`mc_id: 1338` verified correct as-is** (`CC 1000.md` line 355). **`graphemic_classification: 公` confirmed correct** (形聲, phonetic 公 + semantic 頁). **Two alias candidates investigated**: 訟/讼 excluded (its own overwhelmingly dominant meaning "lawsuit, litigation," plus its own independent vault page [[訟 (char)|訟]]); 𩔜 excluded as unverifiable.
+
+**Bad Japanese reading found and fixed**: stored `[SHOU, JU, YOU]` — `YOU` is not attested anywhere; direct ja.Wiktionary lookup confirms 呉音 `JU`(ジュ)/`ZU`(ズ) and 漢音 `SHOU`(ショウ) — replaced `YOU` with the missing `ZU`. **Cross-sense native-gloss bug found and fixed**: stored `japanese_native: かたち` ("form, shape") belongs to the character's unrelated Etymology 2 "appearance" sense — corrected to the stem `たたえ` (from たたえる, "to praise"), matching the documented "laud" sense; the analogous Vietnamese candidate `dung` (also tied to the "appearance" sense) was investigated via hvdic and correctly excluded on the same grounds.
+
+korean_native (`기릴`, "to praise," correctly matching the 송 reading rather than the unrelated 용 "appearance" reading), vietnamese (`tụng`, confirmed complete for the documented sense), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 304), `hsk_level: 3` (confirmed via [Old HSK 3] lines 1321/1322), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 364) all confirmed correct as-is. Filled blank `pos` → `事詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets; `## Words` was oddly placed above `## Notes`) to the standard 4-bullet format and section order. **`## Words`**: tagged the existing [[歌頌]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[歌頌]] had several bugs fixed**: the same non-taxonomy `pos` bug found repeatedly this session (`動詞` → `事詞`); blank `vietnamese` (filled `ca tụng`, directly confirmed via hvdic); and the recurring `../characters/` broken-relative-path bug, consolidated to the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 睦 (7168; 1060 characters remaining).
+
+### 2026-08-13, iteration 1445 — [[characters/睦|睦]]
+
+**Real `mc_id` off-by-one bug found and fixed** (the thirty-seventh confirmed instance this session): stored `mc_id: 1914` points to a different character (`CC 1000.md` line 955 = 嘔); 睦's true rank is **1915** (line 956), corrected. **`graphemic_classification: 坴` confirmed correct** (形聲, semantic 目 + phonetic 坴, pageless in this vault). **Four alias candidates all excluded**: 𡍬, 𡐑, 𡻲 explicitly labeled "ancient form of 睦," and 𥄈 explicitly labeled "obsolete form of 睦" — all correctly left out.
+
+japanese (`[BOKU, MOKU]`, both confirmed complete), japanese_native (`むつ`, confirmed), korean_native (`화목할`, "to be harmonious"), vietnamese (`mục`, confirmed complete via hvdic), `joyo_level: 高等` (confirmed on [Jōyō - Kōtō] line 965), `hsk_level: 4` (confirmed via [Old HSK 4] line 1880), and `hanmun_edu_level: 高等` (confirmed on [Korean HS] line 237) all confirmed correct as-is. Filled blank `pos` → `性詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[親睦]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[親睦]] had two bugs fixed**: blank `vietnamese` (filled `thân mục`, compositional — the exact compound is unattested in hvdic) and the recurring `../characters/` broken-relative-path bug, consolidated to the standard single-bullet stand-in format.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 瑚 (7169; 1059 characters remaining).
+
+### 2026-08-13, iteration 1446 — [[characters/瑚|瑚]]
+
+**`mc_id: 4430` confirmed as legitimate long-tail data** (瑚 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 胡` confirmed correct** (形聲, semantic 玉 + phonetic 胡). No variant forms documented anywhere — `aliases` correctly left blank. **`#cranberry` tag reconfirmed genuine**: verified transitivity holds — [[珊]]'s own `stand_in` also points to [[珊瑚]], the same word.
+
+**`japanese_native: ø` independently re-verified as genuinely correct** (matching the [[楷 (char)|楷]] precedent, not a wrongly-blanked case like [[蛋]]/[[勘 (char)|勘]]/[[智]]/[[詰]]): direct ja.Wiktionary lookup confirms no kun'yomi section exists for this character at all.
+
+korean_native (`산호`, matching the eumhun "산호 호" exactly), japanese (`[KO, GO]`, both confirmed complete), vietnamese (`[hô, hồ]`, confirmed complete via hvdic), `joyo_level: 日本人名用漢字` (confirmed on [Jinmeiyō] line 386), `hsk_level: 4` (confirmed via [Old HSK 4] line 2302), and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅎ] line 74) all confirmed correct as-is. Filled blank `pos` → `名詞`.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[珊瑚]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[珊瑚]] (already richly perfected 2026-06-28) had one bug fixed**: a missing stand-in note per [[AIOS/memory/feedback_standin_note|the standing convention]] — used the dual-stand-in phrasing ("stand-in for both [[珊]] and [[瑚]]") matching its cranberry relationship, appended to the existing opening bullet.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 酩 (7170; 1058 characters remaining).
+
+### 2026-08-13, iteration 1447 — [[characters/酩|酩]]
+
+**`mc_id: 9050` confirmed as legitimate long-tail data** (酩 not found anywhere in the verifiable `CC 0000`–`CC 3000` range) — left as-is. **`graphemic_classification: 名` confirmed correct** (形聲, semantic 酉 + phonetic 名). **Genuine variant alias added**: 佲, labeled "variant form of 酩" for one etymology despite a second, unrelated etymology (variant of 姳, "good") — matching the same polyvalent-character leniency established on [[掠]]'s 剠 and [[喋 (char)|喋]]'s 啑.
+
+**Vietnamese diacritic-typo fixed**: stored `mỉnh` (hỏi tone) — hvdic.thivien.net confirms the genuine reading is `mính` (sắc tone), matching the well-attested compound "mính đính" (酩酊) — corrected.
+
+**Blank `korean_native` filled**: no traditional eumhun could be located via any accessible dictionary; filled `취할` ("to become drunk") as a direct, non-speculative semantic match to the documented sense rather than left blank, flagged here as less rigorously sourced than most other fills this session.
+
+**Shared lookup page bug found and fixed** (ninth cycle with a missing-entry pattern): [[Hyōgai]] was missing an entry for 酩 — added.
+
+japanese (`[MEI, BEI]`, both confirmed), japanese_native (`よう`, confirmed), `hsk_level: 無`, and `hanmun_edu_level: 名` (confirmed on [Korean Name ㅁ] line 39) all confirmed correct as-is; `pos: 性詞` was already correctly filled.
+
+Rebuilt `## Notes` (a non-standard "Components:" bullet, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[酩酊]] as the reflexive stand-in. No Chengyu hits; no derived characters.
+
+**Citing word page [[酩酊]] (already richly perfected 2026-05-26) had two bugs fixed**: an entirely missing `vietnamese` field — filled `mính đính`, directly confirmed via hvdic and already referenced by the page's own prose; and the recurring `../characters/` broken-relative-path bug.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 愈 (7171; 1057 characters remaining).
+
+### 2026-08-13, iteration 1448 — [[characters/愈|愈]]
+
+**`mc_id: 942` verified correct as-is** (`CC 0000.md` line 975). **`graphemic_classification: 兪` confirmed correct** (形聲, semantic 心 + phonetic 兪, OC \*loʔ on both sides, an exact match) — 兪 itself correctly left out of `aliases` since it's the phonetic root with its own independent vault page, not a variant. **Genuine variant alias added**: 𠃄, verified as an unqualified "variant form of 愈." **Alias candidate 癒 (a distinct pronunciation/sense, "to heal") investigated and correctly excluded** — has its own independent vault page and dominant meaning.
+
+**New `### Derived Characters` section added**: [[癒]] confirmed as a genuine phonetic derivative (citing 愈 as its own `graphemic_classification`), documented as a different sense/pronunciation rather than a variant.
+
+**Vietnamese contamination fixed**: stored `[dù, dũ, rũ, rủ]`; hvdic.thivien.net confirms only `dũ` (Hán Việt) and `dù`/`rũ` (Nôm) — `rủ` is not attested anywhere and was removed.
+
+korean_native (`나을`, confirmed via the exact eumhun "나을 유" on [Korean HS] line 491), japanese (`[YU]`, both 呉音/漢音 identical), japanese_native (`いよいよ`, directly matching the documented "more and more" sense), `joyo_level: 表外字` (confirmed on [Hyōgai] line 253), and `hsk_level: 3` (confirmed via [Old HSK 3] line 1055) all confirmed correct as-is; `pos: 擬詞` (ideophone) confirmed correct given the character's own `stand_in` is a genuine reduplicated form (愈愈), matching this taxonomy category's defining criterion.
+
+Rebuilt `## Notes` (wrong heading level, two bare floating unlinked CC-name lines, no other bullets) to the standard 4-bullet format. **`## Words`**: tagged the existing [[愈愈]] as the reflexive stand-in. One Chengyu false positive excluded ([[古今東西]], prose-only mention).
+
+**Citing word page [[愈愈]] had several bugs fixed**: entirely blank `japanese`/`korean`/`vietnamese` fields — filled `いよいよ` (independently confirmed as the genuine attested Japanese reading for this exact compound), `유유` and `dũ dũ` (both compositional, flagged as less rigorously sourced); a non-standard `## Etymology` heading (renamed to `## Notes`) with a stray orphaned text fragment ("grammatical structure inherited from C") cleaned up and incorporated into proper prose; the recurring `../characters/` broken-relative-path bug; and a missing stand-in note.
+
+Stamped `date-last-perfect: 2026-08-13`.
+
+Next never-perfected character by `danayo_id`: 肆 (7172; 1056 characters remaining).

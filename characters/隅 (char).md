@@ -10,14 +10,13 @@ japanese_native: すみ
 vietnamese:
   - ngong
   - ngung
-  - ngóng
 middle_chinese_initial: "ŋ"
 middle_chinese_final: "ɨo"
 stroke_count: 12
 radical: "阜"
 skip_number: 1-3-9
 grade_level: "先進"
-pos: ""
+pos: "名詞"
 english:
   - nook
   - corner
@@ -28,7 +27,7 @@ joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7152
-mc_id: 1814
+mc_id: 1815
 graphemic_classification: "禺"
 stand_in: "隅"
 aliases:
@@ -37,6 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-13
 ---
 >[!tip] This is a page about the character 隅.
 >For the word, see [隅](words/隅.md)
@@ -44,7 +44,10 @@ boundedness: 65
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*ŋo): semantic [𨸏](Radical%20170) (“mound”) + phonetic [禺](禺.md) (OC \*ŋo, \*ŋos).
-- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md)) - [ㄨㄛ](../syllables/ㄨㄛ.md)
-[[Lookup/CC/initials/聲 疑]]
-[[Lookup/CC/finals/韻 虞]]
+- 形聲 (OC \*ŋo): semantic [[Radical 170|阜]] ("mound") + phonetic [[禺]] (OC \*ŋo/\*ŋos, an exact match) — a corner, a nook, a remote place; an edge, a border.
+- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 1815th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄨㄛ](syllables/ㄨㄛ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Words
+- <ruby>[[隅]]<rt>ㄨㄛ</rt></ruby> "nook, corner" (stand-in for 隅)

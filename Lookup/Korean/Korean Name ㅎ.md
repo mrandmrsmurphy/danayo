@@ -133,7 +133,7 @@ This have all be checked for redirects.
 [[烋]] [[畦]] [[虧]]
 
 ### 휼
-[[恤]] [譎](characters/詰.md) [[鷸]]
+[[恤]] [[譎]] [[鷸]]
 
 ### 흉
 [兇](../../characters/凶%20(char).md) [匈](characters/匈.md) [[洶]]
