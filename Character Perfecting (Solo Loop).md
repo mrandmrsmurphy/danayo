@@ -135,3 +135,19 @@ Merged two duplicate `## Notes` sections and rebuilt to the standard format (a s
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 竄 (7285; 952 characters remaining).
+
+### 2026-08-14, iteration 1553 — [[characters/竄|竄]]
+
+**`mc_id` off-by-one bug fixed** (2700 → 2701; confirmed against `CC 2000.md` line 729). **`graphemic_classification: 會意` confirmed correct** (鼠 "mouse" + 穴 "hole"), via en.Wiktionary. **Three new variant aliases added**: 䞼, 窾, 躥, all confirmed genuine via zh.Wiktionary (none hold their own vault page); existing alias 窜 (simplified) reconfirmed correct.
+
+**Major `english` bug fixed and its cascade traced**: the stored gloss `revise, edit` covered only a minor, compound-only sense — the character's true primary and etymological meaning is "to flee, hide, go into exile" (literally "to hide in a hole"), with "falsify, tamper with" as the specific sense activated in its stand-in compound. Corrected to `[flee, hide, falsify, tamper with]`; the identical narrow "revise" gloss had also propagated to `syllables/ㄑㄚㄋ.md`, `lookup/SKIP/SKIP-2/SKIP-2-3-15.md`, and `lookup/Radicals/Radical 116.md`, all fixed to match. This correction is independently corroborated by the citing word [[改竄]]'s own pre-existing prose, which already explains "竄's core sense is 'to hide, to conceal, to flee into hiding.'"
+
+`vietnamese: thoán` confirmed correct via en.Wiktionary. `japanese: ZAN/SAN` confirmed correct (both sources agree: SAN is go-on/kan-on, ZAN is kan'yō-on). **`japanese_native` bug fixed**: corrected bare `かく` to properly hyphenated `かく-れる`, and added missing `のが-れる` ("to escape"), both confirmed via ja.Wiktionary and Jisho. `korean_native: 숨을` and `middle_chinese_initial/final: t͡sʰ`/`uɑn` reconfirmed correct against `聲 清`/`韻 桓` (both lookup pages, plus `SKIP-2-3-15`/`Stroke 18`/`Hyōgai`/`Old HSK 3`/`Korean Name ㅊ`, already cited 竄 correctly).
+
+Rebuilt malformed body (`## Words` section misplaced before `# Notes`, wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard format. No Derived Characters; no Chengyu hits; only the existing stand-in [[改竄]] cites 竄.
+
+**Citing word page [[改竄]] had one bug fixed**: a redundant duplicate `品詞` field (identical value to `pos`, the same recurring pattern seen repeatedly this session). Missing `vietnamese` left untouched — a direct hvdic lookup for 改竄 returned no attested compound.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 竦 (char) (7286; 951 characters remaining).

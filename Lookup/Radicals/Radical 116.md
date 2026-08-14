@@ -53,7 +53,7 @@ tags: [lookup]
 20. <ruby>[[竃]]<rt>ㄐ⺢</rt></ruby> - kitchen stove
 
 ### +13 Strokes
-21. <ruby>[[竄]]<rt>ㄑㄚㄋ</rt></ruby> - revise, edit
+21. <ruby>[[竄]]<rt>ㄑㄚㄋ</rt></ruby> - flee, hide
 
 ## Data check
 ```dataview

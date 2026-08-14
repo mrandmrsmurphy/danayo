@@ -5,7 +5,10 @@ korean: "송"
 korean_native: "공경할"
 japanese:
   - SHOU
-japanese_native: おそ
+japanese_native:
+  - すく-む
+  - おそ-れる
+  - つつし-む
 vietnamese:
   - tủng
 middle_chinese_initial: s
@@ -23,11 +26,12 @@ joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7286
-mc_id: 2580
+mc_id: 2581
 graphemic_classification: "束"
 stand_in: "竦"
 aliases:
   - 聳
+  - 捒
 注音: "ㄙㄛㄫ"
 kwin: true
 tags:
