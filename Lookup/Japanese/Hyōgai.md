@@ -317,6 +317,7 @@ tags: [lookup]
 313. [銹 (char)](../../characters/銹%20(char).md)
 314. [鍍](../../characters/鍍.md)
 315. [侏](../../characters/侏.md)
+316. [僵](../../characters/僵.md)
 
 
 [[../../characters/吠]] - barking DO IT

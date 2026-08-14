@@ -881,3 +881,39 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 倭 (7339; 908 characters remaining).
+
+### 2026-08-14, iteration 1597 — [[characters/倭|倭]]
+
+`mc_id: 4239` confirmed as legitimate long-tail data (倭 not found anywhere in `CC 0000`–`CC 3000.md`, above the checklist's trusted-verbatim threshold). **`graphemic_classification: 委` confirmed correct** (形聲, semantic 人 "person" + phonetic 委, Zhengzhang whole-character OC \*qoːl/\*qrol/\*qoːlʔ), via en.Wiktionary — its extra note about 和 replacing 倭 as Japan's self-designation after ~757 CE is a national-name substitution, not a graphemic variant, and was correctly left unadded as an alias.
+
+**`vietnamese` field investigated at length, ultimately reconfirmed correct**: an initial hvdic query returned an apparently contradictory/garbled summary suggesting all four stored readings (nuỵ, oa, oải, uy) were Nôm-only contamination with zero genuine Hán Việt readings — a claim serious enough to warrant re-verification rather than acting on immediately, especially since it would have been the first character this session with *no* attested Hán Việt reading at all. Three further, progressively more careful re-queries of the same page converged on the opposite, correct picture: 倭 is a genuine polyphonic character with four separate reading-entries on hvdic (not four alternate spellings of one sense), and all four — nuỵ, oa, oải, uy — are independently labeled Âm Hán Việt for their own senses (the first three all covering "dwarf/Japan," the fourth a distinct "distant" sense). No change made; flagging the investigation process itself since it's a useful precedent for treating an unusually clean-looking "zero genuine readings" result with extra scrutiny before trusting it.
+
+**`japanese` field reconfirmed correct**: both `I` and `WA` are corroborated by both ja.Wiktionary and Jisho. **`japanese_native` gap filled**: the stored `やまと` was genuine but incomplete — both sources independently agree on a second kun-yomi, `したが-う` ("to obey, follow"); added, properly hyphenated.
+
+`korean_native: 왜나라` ("the land of Wa/Japan") and `korean: 왜` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅇ.md`'s `### 왜` subsection already lists 倭 correctly. `middle_chinese_initial/final: ʔ`/`ɣiuᴇ` reconfirmed correct against `聲 影`/`韻 支B三合` (both lookup pages — the latter's own page independently documents 倭 as one of 9 members in the project's single most crowded same-final slot, ⼔ㄧ — plus `SKIP-1-2-8`/`Stroke 10`/`Jinmeiyō`, already cited 倭 correctly). Blank `pos` filled: `名詞` (a concrete/proper noun — historically "Japan/the Japanese," and by extension "dwarf").
+
+Rebuilt malformed `## Notes` (correct heading level already present, but only two bare unlinked CC-lookup wikilinks with no bullet structure at all) to the standard four-bullet format; `## Words` section was already present and correct. No Derived Characters (nothing names 倭 as its own `graphemic_classification`); no Chengyu hits. One grep hit on another word page ([[黒猩]]) confirmed a false positive — cites 黒/猩, not 倭, in its own `characters:` field; the two genuine citing stand-ins [[倭人]] and [[倭猩]] were already both correctly listed.
+
+**Both citing word pages reviewed, no bugs found**: [[倭人]] and [[倭猩]] are both already perfected, with real (non-`null`) values and no duplicate `品詞` fields — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 僵 (7340; 907 characters remaining).
+
+### 2026-08-14, iteration 1598 — [[characters/僵|僵]]
+
+**`mc_id` off-by-one bug fixed** (2585 → 2586; confirmed against `CC 2000.md` line 610-611, where "2585. 裝" precedes "2586. 僵"). **`graphemic_classification: 畺` confirmed correct** (形聲, semantic 人 "person" + phonetic 畺, Zhengzhang whole-character OC \*kaŋ), via en.Wiktionary, independently corroborated by zh.Wiktionary's own 系列#0833（畺）phonetic-family grouping. **New variant alias added**: 殭, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists.
+
+**Major `english` bug fixed**: the stored gloss `stuff corpse` was a typo for `stiff corpse` — verified via en.Wiktionary, whose full definition confirms the character's true core meaning is "stiff, rigid" (extending metaphorically to "motionless, stupefied"), not any sense involving "stuff." Corrected the `english` field to `[stiff, rigid]` (a clean adjectival gloss for the character itself, distinct from the citing compound's own "corpse, zombie" sense); the identical typo had also propagated into the citing word page [[僵屍]]'s own prose ("stuff corpse, stiffen") and was fixed there too.
+
+**`vietnamese` gap filled**: hvdic's entry for 僵 lists two genuine Âm Hán Việt readings, `cương` and `thương`, but only `cương` was stored — added the missing `thương`. **`japanese` field investigated, no change**: ja.Wiktionary lists an extra go-on コウ not corroborated by Jisho (which shows only キョウ) — excluded, leaving `KYOU` alone. **`japanese_native` bug fixed**: bare unhyphenated `たお` corrected to properly hyphenated `たお-れる` ("to fall over, collapse"), confirmed via both sources.
+
+`korean_native: 넘어질` ("to fall over") and `korean: 강` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial). `middle_chinese_initial/final: k`/`ɨɐŋ` reconfirmed correct against `聲 見`/`韻 陽開` (both lookup pages — the latter's own page independently notes 僵 as one of only two members (alongside 強) in a small crowded ⼘ㄫ slot that two other characters, 疆/姜, are forced to dodge via coda-shift — plus `SKIP-1-2-13`/`Stroke 15`/`Old HSK 3`, already cited 僵 correctly). `hanmun_edu_level: 無` confirmed correct as-is (`lookup/Korean/Korean Missing.md` is a pure dataview auto-query, no manual list to update). **Missing-entry bug fixed**: `joyo_level: 表外字` was already correctly set, but 僵 was entirely absent from `lookup/Japanese/Hyōgai.md` — added as entry #316. Blank `pos` filled: `性詞` (a stative/adjectival quality — "stiff, rigid").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct. No Derived Characters (nothing names 僵 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[僵屍]] cites 僵.
+
+**Citing word page [[僵屍]] had one bug fixed**: the same "stuff corpse" typo propagated from the character page's own English gloss, corrected to "stiff, rigid" in its own Notes prose; other fields (`vietnamese: cương thi`, `pos: 名詞`, no duplicate `品詞`) already correct, left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 僻 (7341; 906 characters remaining).
