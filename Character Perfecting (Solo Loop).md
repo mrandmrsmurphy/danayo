@@ -653,3 +653,37 @@ Rebuilt malformed `## Notes` (correct heading level already present, but only tw
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 釉 (7323; 922 characters remaining).
+
+### 2026-08-14, iteration 1583 — [[characters/釉|釉]]
+
+`mc_id: 0` confirmed plausible (釉 not found anywhere in `CC 0000`–`CC 3000.md`). **`graphemic_classification: 由` confirmed correct** (形聲, semantic 采 "color" + phonetic 由, OC \*lɯwɢs), via en.Wiktionary, independently corroborated by zh.Wiktionary's identical account (explicitly noting the character can also be written with the visually similar 釆 in place of 采, matching this vault's own `radical: 釆` field, which indexes 釉 under Kangxi radical 165 for lookup purposes even though the semantic component itself is technically the distinct-but-near-identical 采 — left as bare text rather than radical-linked, since 采 itself isn't literally the Kangxi radical). **No alias added**: zh.Wiktionary's sole variant candidate, 𥑤, wasn't corroborated by en.Wiktionary, and was excluded per the established "both sources must agree" policy.
+
+`vietnamese: dứu` and `japanese: YUU` (Jisho's sole listed on-yomi; ja.Wiktionary's extra go-on ユ wasn't corroborated and was excluded) both confirmed correct, no changes. `japanese_native: うわぐすり` also confirmed correct via both sources.
+
+`korean_native: 광택` ("gloss, luster") and `korean: 유` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅇ.md`'s `### 유` subsection already lists 釉 correctly. `middle_chinese_initial/final: j`/`ɨu` reconfirmed correct against `聲 以`/`韻 尤` (both lookup pages, plus `SKIP-1-7-5`/`Stroke 12`/`Jinmeiyō`, already cited 釉 correctly). Blank `pos` filled: `名詞` (a concrete noun — "glaze, enamel").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section at all) to the standard format, adding the missing stand-in citation (`stand_in: 釉薬`). No Derived Characters (nothing names 釉 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[釉薬]] cites 釉.
+
+**Citing word page [[釉薬]] reviewed, no bugs found**: `pos: 名詞` already filled with no duplicate `品詞` field; `vietnamese: dứu` a genuine value, not a `null` placeholder; empty `aliases: []` is a valid empty list, not a bug — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 鉗 (char) (7324; 921 characters remaining).
+
+### 2026-08-14, iteration 1584 — [[characters/鉗 (char)|鉗]]
+
+**`mc_id` off-by-one bug fixed** (2701 → 2702; confirmed against `CC 2000.md` line 734-735, where "2701. 竄" precedes "2702. 鉗"). **`graphemic_classification: 甘` confirmed correct** (形聲, semantic 金 "metal" + phonetic 甘, Zhengzhang whole-character OC \*ɡram), via en.Wiktionary, independently corroborated by zh.Wiktionary's own 系列#0506（甘）phonetic-family grouping. **New variant alias added**: 箝, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists; zh.Wiktionary's further candidates 䈤/鉆 weren't corroborated by en.Wiktionary and were excluded; existing simplified alias 钳 reconfirmed correct.
+
+**Severe `vietnamese` contamination fixed**: the stored seven-entry list (cùm, cườm, ghìm, kiềm, kèm, kìm, kềm) was almost entirely spurious — hvdic's actual entry for 鉗 lists exactly **one** genuine Âm Hán Việt reading, `kiềm`, filing all six other entries under Âm Nôm — trimmed to `kiềm` alone, one of the largest contamination cases found this session (matching [[characters/繞 (char)|繞]]'s own 11-entry case in scale).
+
+**`korean_native: 칼` investigated and reconfirmed correct**: at first glance this looks like a mismatch (칼 usually means "knife"), but Korean-language sources confirm 칼 also independently denotes a historical wooden/metal neck-restraint device (a cangue), a documented second meaning distinct from the "knife" sense — this exactly matches 鉗's own attested historical meaning (a metal device binding the neck or legs of a prisoner, per Former Han-era usage) and is directly corroborated by the character's own Japanese kun-yomi `くびかせ` ("neck restraint, cangue"). No change needed; folded the historical meaning into the rebuilt graphemic bullet's dash-note. **`japanese: [KAN, KEN]` confirmed correct** (Jisho corroborates both; ja.Wiktionary's extra go-on ゲン wasn't corroborated and was excluded). **`japanese_native` gap filled**: the stored `くびかせ` was genuine but incomplete — both ja.Wiktionary and Jisho independently agree on a second kun-yomi, `つぐ-む` ("to shut one's mouth, keep silent"); added, properly hyphenated, converting the field to a proper list.
+
+`korean: 겸` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㄱ.md`'s `### 겸` subsection already lists 鉗 correctly. `middle_chinese_initial/final: ɡ`/`ɣiᴇm` reconfirmed correct against `聲 群`/`韻 鹽B三` (both lookup pages — the latter's own page independently documents 鉗 among a crowded 4-member g/k-initial slot that a fifth character, 芡, dodges via vowel-shift — plus `SKIP-1-8-5`/`Stroke 13`/`Hyōgai`/`Old HSK 4`, already cited 鉗 correctly). Blank `pos` filled: `名詞` (a concrete noun — "vice, pliers, forceps").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing self stand-in citation (`stand_in: 鉗`). No Derived Characters (nothing names 鉗 as its own `graphemic_classification`); no Chengyu hits. One grep hit on another word page ([[兼]]) confirmed a false positive — a homophone (`gem`/`검`) mention, not a `characters:` citation; only the existing self stand-in [[鉗]] cites 鉗.
+
+**Citing word page [[鉗]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `kiềm`; missing `pos` field entirely → added `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 塚 (char) (7325; 920 characters remaining).
