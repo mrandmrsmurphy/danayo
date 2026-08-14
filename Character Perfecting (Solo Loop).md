@@ -553,3 +553,19 @@ Rebuilt the malformed `## Notes` (correct heading level already present, but onl
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 謎 (char) (7315; 928 characters remaining).
+
+### 2026-08-14, iteration 1577 — [[characters/謎 (char)|謎]]
+
+`mc_id: 0` confirmed plausible (謎 not found anywhere in `CC 0000`–`CC 3000.md`, consistent with it being a common but relatively late-attested word not core to classical prose). **`graphemic_classification: 迷` confirmed correct** (形聲, semantic 言 + phonetic 迷, "to be lost, bewildered"), via en.Wiktionary (whole-character Zhengzhang OC \*miː/\*miːs), independently corroborated by zh.Wiktionary's own 系列#1257（迷）phonetic-family grouping alongside 谜/瞇/醚/蒾. **New variant alias added**: 詸, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists (the only candidate appearing in both; en.Wiktionary's extra 䛧 wasn't corroborated by zh.Wiktionary and was excluded); existing simplified alias 谜 reconfirmed correct.
+
+`vietnamese: mê` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm, the same "no correction needed" pattern seen repeatedly this session). **`japanese` gap filled**: ja.Wiktionary and Jisho both independently agree on two on-yomi, メイ (kan'yō-on) and ベイ (kan-on) — the stored `[MEI]` was missing the corroborated `BEI`; ja.Wiktionary's extra go-on マイ wasn't corroborated by Jisho and was excluded. `japanese_native: なぞ` confirmed correct (both sources agree; a bare nominal gloss needing no okurigana hyphenation).
+
+`korean_native: 수수께끼` ("riddle") and `korean: 미` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅁ.md`'s `### 미` subsection already lists 謎 correctly. `middle_chinese_initial/final: m`/`ei` reconfirmed correct against `聲 明`/`韻 齊開` (both lookup pages, plus `SKIP-1-7-10`/`Stroke 17`/`Jōyō - Kōtō`/`Old HSK 3`, already cited 謎 correctly). Blank `pos` filled: `名詞`.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing self stand-in citation (`stand_in: 謎`). No Derived Characters (nothing names 謎 as its own `graphemic_classification`); no Chengyu hits. Two grep hits on other word pages ([[米]], [[迷]]) confirmed false positives — both are homophone-callout mentions in 謎's own citing word page, not citations of 謎 itself in their own `characters:` fields. Only the existing self stand-in [[謎]] cites 謎.
+
+**Citing word page [[謎]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `mê`; missing `pos` field entirely → added `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 贋 (char) (7317; 927 characters remaining).
