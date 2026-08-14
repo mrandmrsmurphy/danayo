@@ -309,6 +309,7 @@ tags: [lookup]
 305. [繃](../../characters/繃.md)
 306. [繞 (char)](../../characters/繞%20(char).md)
 307. [羸](../../characters/羸.md)
+308. [聘 (char)](../../characters/聘%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT
