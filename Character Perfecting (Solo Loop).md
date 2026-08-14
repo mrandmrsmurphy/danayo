@@ -179,3 +179,19 @@ Rebuilt malformed `# Notes` (wrong heading level, no `## Words` section) to the 
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 糊 (7289; 949 characters remaining).
+
+### 2026-08-14, iteration 1556 — [[characters/糊|糊]]
+
+`mc_id: 9479` confirmed as legitimate long-tail data (糊 not found anywhere in `CC 0000`–`CC 3000`). **`graphemic_classification: 胡` confirmed correct** (形聲, semantic 米 + phonetic 胡), via en.Wiktionary. **Five new variant aliases added**: 䊀, 餬, 䭌, 䭅, 𬲾, all confirmed genuine via both en.Wiktionary and zh.Wiktionary; excluded the second-round-simplified 胡, since it's a full independent character with its own distinct meaning.
+
+**`english` bug fixed**: the stored `[muddled, confused]` covered only the character's figurative sense, while `korean_native: 죽` ("porridge") and `japanese_native: のり` ("paste") already correctly reflected its more fundamental meanings — added `paste` and `porridge` ahead of the existing entries rather than replacing them, since "muddled" remains accurate for the figurative sense used in the stand-in compound; left the identical "muddled" short-glosses on shared lookup pages (SKIP, syllable, radical) unchanged, since those aren't factually wrong, just abbreviated to one sense.
+
+`vietnamese: hồ` and `japanese: KO/GO` (both go-on/kan-on) both confirmed correct via ja.Wiktionary. `korean_native: 죽` and `middle_chinese_initial/final: ɣ`/`uo` reconfirmed correct against `聲 匣`/`韻 模` (both lookup pages — the latter's own page documents 糊 as part of a 5-member overflow group escaping Cantonese's single most crowded ㄏㄛ slot — plus `SKIP-1-6-9`/`Stroke 15`/`Jinmeiyō`/`Korean Name ㅎ`/`Old HSK 2`/`Radical 119`, already cited 糊 correctly). Blank `pos` filled: `性詞`.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format. No Derived Characters; no Chengyu hits (one grep hit, [[汗食帰泥]], confirmed a false positive). Only the existing stand-in [[糊塗]] cites 糊.
+
+**Citing word page [[糊塗]] had a genuine gap filled**: blank `vietnamese` → `hồ đồ`, confirmed as a directly-attested Sino-Vietnamese compound via hvdic (found during this cycle's own research).
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 糞 (char) (7290; 948 characters remaining).
