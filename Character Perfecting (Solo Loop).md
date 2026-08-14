@@ -223,3 +223,53 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 繃 (7294; 946 characters remaining).
+
+### 2026-08-14, iteration 1559 — [[characters/繃|繃]]
+
+`mc_id: 10446` confirmed as legitimate long-tail data. **`graphemic_classification: 崩` confirmed correct** (形聲, semantic 糸 + phonetic 崩), via en.Wiktionary. **Self-reference alias bug fixed**: the stored `aliases` list included 繃 itself (the character's own form) instead of a genuine variant — replaced with 綳, confirmed as the true 異體字 via both en.Wiktionary ("Traditional: 繃, 綳") and zh.Wiktionary (explicitly flagged as the primary variant); existing simplified alias 绷 reconfirmed correct.
+
+**Major `english` bug fixed and its cascade traced**: the stored gloss `bandage` is actually the meaning of the two-character stand-in compound 繃帯, not of 繃 itself — the character's own core meaning across all three Mandarin tone-readings (bēng/běng/bèng) is "to bind, wrap, stretch taut" (per en.Wiktionary), independently corroborated by `korean_native: 묶을` ("to tie") and the kun-yomi meanings "to bundle" / "to wrap." Corrected to `[bind, wrap, stretch tight]`; the identical "bandage" mis-gloss had also propagated to `lookup/Radicals/Radical 120.md`, fixed to match — the vault's own `syllables/ㄅㄚㄫ.md` page already independently had the correct "bind, wrap" gloss, serving as corroboration. Blank `pos` filled: `動詞`.
+
+**`japanese_native` bug fixed**: stored bare `たば` was a truncated/wrong form — corrected to properly hyphenated `たば-ねる` ("to bundle"), and added missing second kun-yomi `まく` ("to wrap"), both confirmed via ja.Wiktionary and Jisho. `japanese: HOU/HYOU` confirmed correct (both sources agree, kan-on/go-on). **Two blank level fields fixed**: `joyo_level` → `表外字` (real on'yomi/kun'yomi usage with no jōyō/jinmeiyō classification) — **missing-entry bug fixed accordingly**, adding 繃 to `lookup/Japanese/Hyōgai.md` (absent despite having real readings, unlike every other level list which already cited it correctly).
+
+**`vietnamese` gap filled**: hvdic's Hán Việt list has three readings (`banh`, `băng`, `bắng`) but only two were stored — added the missing `banh`. `korean_native: 묶을` and `middle_chinese_initial/final: p`/`ɣɛŋ` reconfirmed correct against `聲 幫`/`韻 耕開` (both lookup pages, plus `SKIP-1-6-11`/`Stroke 17`/`Korean Name ㅂ`/`Old HSK 4`, already cited 繃 correctly).
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, missing stand-in annotation in `## Words`) to the standard format. No Derived Characters; no Chengyu hits; only the existing stand-in [[繃帯]] (already perfected, its own "bandage" gloss correctly describes the compound, not the character alone — left untouched) cites 繃.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 繞 (char) (7295; 945 characters remaining).
+
+### 2026-08-14, iteration 1560 — [[characters/繞 (char)|繞]]
+
+**`mc_id` off-by-one bug fixed** (2690 → 2691; confirmed against `CC 2000.md` line 719-720, where "2690. 驟" precedes "2691. 繞" — the same one-line-off transcription pattern seen repeatedly). **`graphemic_classification: 堯` confirmed correct** (形聲, semantic 糸 + phonetic 堯, OC \*ŋeːw), via en.Wiktionary and independently corroborated by zh.Wiktionary's own 堯-phonetic 系列#2193 family listing. **Broken phonetic link bug fixed**: the graphemic bullet's `[[]]` (empty wikilink) was repaired to `[[堯]]`, and the OC reconstruction for the whole character (\*ŋjewʔ, \*ŋjaws, Zhengzhang) was kept and independently reconfirmed against en.Wiktionary's own Zhengzhang-system entries. **New variant alias added**: 遶, confirmed genuine via both en.Wiktionary ("alternative form") and zh.Wiktionary's dedicated 異體字 box; zh.Wiktionary's box also listed 撓, but that was excluded as a distinct independent character (扌-radical, unrelated core meaning "to scratch/disturb/yield") not corroborated by en.Wiktionary — the same reasoning used to exclude 胡 from [[characters/糊|糊]]'s alias list two iterations ago. Existing simplified alias 绕 reconfirmed correct.
+
+**Major `vietnamese` contamination bug fixed**: the stored 11-entry list (diễu, díu, nhiễu, nhão, nhảu, nhẹo, nhẻo, nhẽo, nhếu, nhểu, thêu) was almost entirely spurious — hvdic's actual entry for 繞 lists exactly **one** genuine Hán Việt reading, `nhiễu`, with diễu/díu/nhão/nhẽo/thêu explicitly filed under a separate "Âm Nôm" (Nôm-only) section, and nhảu/nhẹo/nhẻo/nhếu/nhểu not attested anywhere on the page at all (evidently fabricated near-duplicates of the genuine Nôm forms). Trimmed to `nhiễu` alone, the vault's most severe case yet of this session's recurring Hán-Việt/Nôm contamination pattern.
+
+`japanese: JOU/NYOU` confirmed correct (both ja.Wiktionary's go-on にょう/kan-on じょう and Jisho's ニョウ/ジョウ agree). **`japanese_native` bug fixed**: bare unhyphenated `まとう` was expanded and corrected to the four verb readings corroborated by both ja.Wiktionary and Jisho — `まと-う`, `まわ-る`, `めぐ-る`, `もとう-る` — with proper okurigana hyphenation applied throughout; ja.Wiktionary's extra からむ/まつわる weren't corroborated by Jisho and were left out. `korean_native: 두를` and `middle_chinese_initial/final: ȵ`/`iᴇu` reconfirmed correct against `聲 日`/`韻 宵A` (both lookup pages already cited 繞 correctly — the latter's own page independently notes 繞 and 擾 share the identical ȵ initial yet land on opposite sides of its ⼄ㄨ/ㄛㄨ split, one of its documented "same initial, arbitrary outcome" cases). `korean: 요` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅇ.md`'s `### 요` subsection already lists 繞 correctly. **Blank `joyo_level` filled**: `表外字` (real on'yomi/kun'yomi usage, Jisho explicitly confirms no jōyō/jinmeiyō status) — **missing-entry bug fixed accordingly**, adding 繞 to `lookup/Japanese/Hyōgai.md` (absent despite having real readings). Blank `pos` filled: `事詞` (a transitive verb per 文法 - 97品詞's Eventive definition — "to surround/entwine [something]").
+
+Rebuilt malformed `## Notes` (missing MC-rank/phonology and levels bullets entirely, two bare unlinked CC-lookup wikilinks floating at the bottom) to the standard format, adding the missing `## Words` section. No Derived Characters (no other character names 繞 as its `graphemic_classification`); no Chengyu hits. Only the existing self stand-in cites 繞.
+
+**Citing word page [[繞]] (self stand-in) had two gaps fixed**: `vietnamese: null` (literal placeholder) → `nhiễu`; blank `pos` → `事詞`. Its `注音`/`羅馬字`/`諺文` (`ㄋㄛㄨ`/`nou`/`놋`) were already in sync with the character page.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 纂 (7296; 944 characters remaining).
+
+### 2026-08-14, iteration 1561 — [[characters/纂|纂]]
+
+**`mc_id` off-by-one bug fixed** (3391 → 3392; confirmed against `CC 3000.md` line 405-409, where "3391. 刊" precedes "3392. 纂" — the same one-line-off transcription pattern seen repeatedly this session). **`graphemic_classification: 算` confirmed correct** (形聲, semantic 糸 + phonetic 算), via en.Wiktionary and independently corroborated by zh.Wiktionary (⿱𮅕糸 composition, phonetic series including 算). Both sources' Zhengzhang reconstruction for the whole character agree exactly (\*ʔsloːnʔ), embedded in the rebuilt graphemic bullet alongside 算's own OC \*sloːnʔ.
+
+**Major `vietnamese` bug fixed**: the stored `soạn` is exactly the Nôm-only trap the checklist warned about — hvdic's actual entry for 纂 lists "Âm Hán Việt: toản" as the sole genuine Sino-Vietnamese reading and explicitly files `soạn` under "Âm Nôm" (Nôm-only), confirming it belongs to an unrelated 撰-family word, not 纂 itself. Corrected to `toản`.
+
+`japanese: SAN` confirmed correct (both ja.Wiktionary's go-on/kan-on さん and Jisho's サン agree). **`japanese_native` bug fixed**: bare unhyphenated `あつ` was a truncated form — corrected to properly hyphenated `あつ-める` ("to gather/compile"), confirmed via both ja.Wiktionary and Jisho, and matching the character's own English gloss. `korean_native: 모을` and `middle_chinese_initial/final: t͡s`/`uɑn` reconfirmed correct against `聲 精`/`韻 桓` (both lookup pages already cited 纂 correctly — the former's own page independently documents 纂 as one of 97 regular ㄐ-palatalization outcomes in the 精組 series, plus `SKIP-2-6-14`/`Stroke 20`, already cited 纂 correctly). `korean: 찬` reconfirmed correct (no 두음법칙 concern); `Lookup/Korean/Korean Name ㅊ.md`'s `### 찬` subsection already lists 纂 correctly. `joyo_level: 日本人名用漢字` confirmed a legitimate convention value; `lookup/Japanese/Jinmeiyō.md` already cites 纂 (#253) correctly. Blank `pos` filled: `事詞` (a transitive verb per 文法 - 97品詞's Eventive definition — "to compile/edit [something]"), matching the citing word page's own already-correct `動詞`-family classification in spirit.
+
+**No alias added**: en.Wiktionary's "alternative forms" list (篹, 纘/缵, 繤, 䰖/𱆈) was not corroborated by zh.Wiktionary, which instead labels a different, unrelated set (攥, 𣠹, 𨰭) as 衍生字 (characters derived *from* 纂, not variants *of* it) — since the two sources disagree rather than agree, no alias was added, left as a genuine gap per the "only add if both sources agree" policy. Both sources agree 纂 has no separate simplified form (identical in both scripts).
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks floating with no bullet structure) to the standard format. **No Derived Characters needed on 纂's own page** (nothing names 纂 as its own phonetic component), but confirmed 纂's phonetic parent [[characters/算 (char)|算]] already correctly lists 纂 in its own `## Derived Characters` section — no fix needed there. No Chengyu hits: the one grep match ([[焚琴煮鶴]]) only mentions 纂 in its `origin` citation (a book title, 《雜纂·殺風景》), not in its `characters:` field — false positive. Only the existing stand-in [[編纂]] cites 纂 as a constituent.
+
+**Citing word page [[編纂]] (stand-in) reviewed, no bugs found**: `vietnamese: biên soạn` is a genuine, independently attested Vietnamese compound term for "to compile" (not a literal concatenation of the two characters' individual readings, so 纂's own corrected `toản` does not propagate here) — left untouched; `pos: 動詞` already filled with no duplicate `品詞` field; `注音`/`羅馬字`/`諺文` (`ㄅ⼶ㄋㄐ⺢ㄋ`/`byenjwan`/`변좐`) already in sync with the character page's own corrected syllable.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 罹 (7297; 943 characters remaining).

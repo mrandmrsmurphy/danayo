@@ -106,7 +106,7 @@ tags: [lookup]
 ### +11 Strokes
 72. <ruby>[縮](../../characters/縮%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - shrink
 73. <ruby>[績](../../characters/績.md)<rt>ㄐㄝㄎ</rt></ruby> - achievement
-74. <ruby>[繃](../../characters/繃.md)<rt>ㄅㄚㄫ</rt></ruby> - bandage
+74. <ruby>[繃](../../characters/繃.md)<rt>ㄅㄚㄫ</rt></ruby> - bind, wrap tight
 75. <ruby>[繊](../../characters/繊.md)<rt>ㄙㄝㄇ</rt></ruby> - fine
 76. <ruby>[繋](../../characters/繋.md)<rt>ㄏㄝㄧ</rt></ruby> - fasten
 77. <ruby>[繍](../../characters/繍.md)<rt>ㄙ⼜</rt></ruby> - embroidery
