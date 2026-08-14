@@ -769,3 +769,19 @@ No Derived Characters (nothing names 闊 as its own `graphemic_classification`).
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 鞄 (char) (7330; 915 characters remaining).
+
+### 2026-08-14, iteration 1590 — [[characters/鞄 (char)|鞄]]
+
+`mc_id: 8366` confirmed as legitimate long-tail data (鞄 not found anywhere in `CC 0000`–`CC 3000.md`). **`graphemic_classification: 包` confirmed correct** (形聲, semantic 革 "leather" + phonetic 包, Zhengzhang whole-character OC \*bruː/\*bruːʔ/\*bruːs/\*pʰruːɡ), via en.Wiktionary — the pre-existing OC reconstruction data in the Notes bullet was already accurate, but the phonetic-component link itself was corrupted: a malformed self-referential wikilink, `[[鞄 (char)]]包`, pointing the character back at its own page instead of at 包 — corrected to a proper `[[包 (char)|包]]` link.
+
+**`vietnamese` gap filled**: hvdic's entry for 鞄 lists two genuine Âm Hán Việt readings, `bào` and `bạc`, but only `bạc` was stored — added the missing `bào` (the existing `bạc` also appears under Âm Nôm on the same page, the "listed in both categories, no contamination" pattern seen repeatedly this session, not a bug). **`japanese` bug fixed**: cross-referencing ja.Wiktionary (go-on ビョウ, kan-on ホウ, no ハク at all) against Jisho (all three: ハク/ホウ/ビョウ) — only ホウ and ビョウ are corroborated by both sources; the stored `HAKU` (Jisho-only) was dropped and the missing `BYOU` added, per this session's established cross-reference policy. `japanese_native: かばん` confirmed correct via both sources.
+
+`korean_native: 혁공` ("leathercraft") and `korean: 포` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial). `middle_chinese_initial/final: pʰ`/`ɣʌk` reconfirmed correct against `聲 滂`/`韻 覺` (both lookup pages, plus `SKIP-1-9-5`/`Stroke 14`/`Jinmeiyō`, already cited 鞄 correctly). `hanmun_edu_level: 無` confirmed correct as-is — `lookup/Korean/Korean Missing.md` is a pure dataview auto-query, not a manual list, so no missing-entry fix was needed there. Blank `pos` filled: `名詞` (a concrete noun — "bag, luggage").
+
+Rebuilt malformed `## Notes` (correct heading level already present, but missing all three of the SKIP/Stroke, MC-rank, and levels bullets — only the graphemic bullet existed, with two bare unlinked CC-lookup wikilinks floating below it) to the full standard format, adding the missing `## Words` self-citation (`stand_in: 鞄`). No Derived Characters (nothing names 鞄 as its own `graphemic_classification`); no Chengyu hits. Only the existing self stand-in [[鞄]] cites 鞄.
+
+**Citing word page [[鞄]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `bào`; missing `pos` field entirely → added `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 顆 (7331; 914 characters remaining).
