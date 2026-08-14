@@ -195,3 +195,31 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 糞 (char) (7290; 948 characters remaining).
+
+### 2026-08-14, iteration 1557 — [[characters/糞 (char)|糞]]
+
+**`mc_id` off-by-one bug fixed** (2555 → 2556; confirmed against `CC 2000.md` line 581). **`graphemic_classification` bug fixed** (`會意` → `象形`): en.Wiktionary's summary was self-contradictory (labeled it 象形 but described a 米+異 compound sounding like 會意), while zh.Wiktionary explicitly and unambiguously classifies 糞 as 象形 with detailed oracle-bone/seal-script justification — two hands (廾) sweeping away scattered filth-dots, originally meaning "to sweep," with the modern form's dots reinterpreted as 米-like grains as the meaning narrowed to excrement/dung. Added to `lookup/List of 象形.md`'s manual character list (grouped by radical, inserted alongside the other 米-radical entries), since it wasn't there under the old wrong classification. Existing alias 𥻔 and simplified 粪 both reconfirmed correct via zh.Wiktionary's own (much longer) variant list.
+
+`vietnamese: phẩn/phân` and existing alias 粪 confirmed correct via en.Wiktionary. `japanese: FUN` and `japanese_native: くそ` both confirmed correct via ja.Wiktionary. `korean_native: 똥` and `middle_chinese_initial/final: f`/`ɨun` reconfirmed correct against `聲 非`/`韻 文` (both lookup pages — the former's own page independently documents 糞's deliberate coda-shift homophony dodge away from a crowded ㄈㄨㄋ cluster shared with 奮/芬/粉/雰, folded directly into the rebuilt phonology bullet alongside the pre-existing "-m so there's no homophony" trivia note — plus `SKIP-2-6-11`/`Stroke 17`/`Hyōgai`/`Old HSK 3`/`Korean Name ㅂ`, already cited 糞 correctly). Blank `pos` filled: `名詞`.
+
+Rebuilt malformed `## Notes` (missing SKIP/Stroke, MC-phonology, and levels bullets entirely — only the stray homophony-avoidance trivia line was present) to the standard format, adding the missing `## Words` section. No Derived Characters. Existing `## Chengyu` entry [[朽木糞牆]] reconfirmed a genuine hit (糞 present in its `characters:` field).
+
+**Citing word page [[糞]] (self stand-in) had multiple bugs fixed**: `vietnamese: null` (literal placeholder) → `phân`; `注音`/`羅馬字`/`諺文` (`ㄆㄨㄋ`/`pun`/`푼`) were all stale pre-correction values, out of sync with the character page's own already-fixed syllable (`ㄈㄨㄇ`/`fum`/`뿜`) — brought into alignment; blank `pos` → `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 紮 (char) (7292; 947 characters remaining).
+
+### 2026-08-14, iteration 1558 — [[characters/紮 (char)|紮]]
+
+`mc_id: 6215` confirmed as legitimate long-tail data (紮 not found anywhere in `CC 0000`–`CC 3000`, but this range is normal — 481 characters vault-wide carry mc_id values above 3999, evidently real MC dictionary ranks simply not covered by a dedicated per-rank lookup page). **`graphemic_classification: 札` confirmed correct** (形聲, semantic 糸 + phonetic 札), via en.Wiktionary. **New variant alias added**: 紥, confirmed via both en.Wiktionary and zh.Wiktionary; existing alias 扎 (simplified) reconfirmed correct.
+
+`vietnamese: trát`, `japanese: SATSU`, and `japanese_native: からげる` all reconfirmed correct via both ja.Wiktionary and Jisho (en.Wiktionary's extra go-on セチ and kun たばねる candidates weren't corroborated by Jisho and were left out). `korean_native: 감을` and `middle_chinese_initial/final: t͡ʃ`/`ɣɛt` reconfirmed correct against `聲 莊`/`韻 鎋開` (both lookup pages, plus `SKIP-2-5-6`/`Stroke 11`/`Hyōgai`/`Korean Name ㅊ`/`Radical 120`, already cited 紮 correctly). **Blank `hsk_level` bug fixed**: `Old HSK 2.md` already cites 紮 (via its simplified alias 扎) but the character's own frontmatter field was left blank — filled `2`. Blank `pos` filled: `動詞`.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format. No Derived Characters; no Chengyu hits. Two grep hits on other word pages ([[束]], [[某処]]) confirmed false positives — both merely mention 紮 in prose (a Cantonese classifier example; a "駐紮" example), not in their `characters:` field. Only the existing self stand-in cites 紮.
+
+**Citing word page [[紮]] (self stand-in) had two gaps fixed**: `vietnamese: null` (literal placeholder) → `trát`; blank `pos` → `動詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 繃 (7294; 946 characters remaining).
