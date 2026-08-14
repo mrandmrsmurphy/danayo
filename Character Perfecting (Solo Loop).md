@@ -785,3 +785,35 @@ Rebuilt malformed `## Notes` (correct heading level already present, but missing
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 顆 (7331; 914 characters remaining).
+
+### 2026-08-14, iteration 1591 — [[characters/顆|顆]]
+
+**`mc_id` off-by-one bug fixed** (3879 → 3880; confirmed against `CC 3000.md` line 916-917, where "3879. 茸" precedes "3880. 顆"). **`graphemic_classification: 果` confirmed correct** (形聲, semantic 頁 "head" + phonetic 果, Zhengzhang whole-character OC \*kʰloːlʔ), via en.Wiktionary; existing simplified alias 颗 reconfirmed correct. **No alias added**: zh.Wiktionary's extra candidate, 䂺, wasn't corroborated by en.Wiktionary and was excluded.
+
+**`vietnamese` contamination fixed**: the stored `[khoả, loã]` mixed one genuine Hán Việt reading with a Nôm-only form — hvdic's actual entry lists `khoã` and `khoả` under Âm Hán Việt (filing `loã` under Âm Nôm only) — replaced accordingly, keeping `khoả` and adding the previously-missing `khoã`. **`japanese_native` bug fixed**: the stored bare `つ` was a truncated fragment of the real kun-yomi `つぶ` ("grain, granule"), confirmed by both ja.Wiktionary and Jisho; corrected. `japanese: KA` confirmed correct (the sole on-yomi per both sources).
+
+`korean_native: 낱알` ("individual grain") and `korean: 과` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㄱ.md`'s `### 과` subsection already lists 顆 correctly. `middle_chinese_initial/final: kʰ`/`uɑ` reconfirmed correct against `聲 溪`/`韻 戈一合` (both lookup pages — the latter's own page independently notes 顆 as the only other kʰ-initial character on this final besides 課, which dodges via a coda addition — plus `SKIP-1-8-9`/`Stroke 17`/`Hyōgai`/`Old HSK 2`, already cited 顆 correctly). Blank `pos` filled: `名詞` (a concrete noun — "granule, grain").
+
+Rebuilt malformed `## Notes` (correct heading level already present, but only two bare unlinked CC-lookup wikilinks with no bullet structure at all) to the standard four-bullet format; `## Words` section was already present and correct. No Derived Characters (nothing names 顆 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[顆粒]] cites 顆.
+
+**Citing word page [[顆粒]] had one bug fixed**: a redundant duplicate `品詞` field (identical value to `pos`), the same recurring pattern seen repeatedly this session.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 饗 (7332; 913 characters remaining).
+
+### 2026-08-14, iteration 1592 — [[characters/饗|饗]]
+
+`mc_id: 1250` confirmed correct (matches `CC 1000.md` line 263, no off-by-one). **`graphemic_classification: 郷` confirmed correct** (形聲, semantic 食 "food" + phonetic 郷/鄉/鄕, OC \*qʰaŋʔ), via en.Wiktionary; existing simplified alias 飨 reconfirmed correct.
+
+`vietnamese: hưởng` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm, no contamination). **`japanese` field investigated, no change**: ja.Wiktionary lists an extra go-on コウ not corroborated by Jisho (which shows only キョウ) — excluded, leaving `KYOU` alone. **`japanese_native` gap filled**: the stored bare `う` was a truncated fragment of `う-ける` ("to receive [a feast]") — both ja.Wiktionary and Jisho independently agree on this plus a second kun-yomi, `もてな-す` ("to entertain, treat"); ja.Wiktionary's extra あえ/あい weren't corroborated by Jisho (which classifies them as name-readings, not standard kun'yomi) and were excluded; expanded to a proper hyphenated list.
+
+`korean_native: 잔치할` ("to hold a feast") and `korean: 향` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 향 matches korean 향 exactly); `Lookup/Korean/Korean Name ㅎ.md`'s `### 향` subsection already lists 饗 correctly (an earlier grep with a trailing-space pattern mismatch had briefly suggested it was missing — re-checked and confirmed present). `middle_chinese_initial/final: x`/`ɨɐŋ` reconfirmed correct against `聲 曉`/`韻 陽開` (both lookup pages, plus `SKIP-2-13-9`/`Stroke 22`/`Jinmeiyō`, already cited 饗 correctly). Blank `pos` filled: `事詞` (a transitive verb — "to feast, entertain [guests]").
+
+Rebuilt malformed `## Notes` (correct heading level already present, but only two bare unlinked CC-lookup wikilinks with no bullet structure at all) to the standard four-bullet format; `## Words` section was already present and correct. No Derived Characters (nothing names 饗 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[饗宴]] cites 饗.
+
+**Citing word page [[饗宴]] had one bug fixed**: a redundant duplicate `品詞` field (identical value to `pos`), the same recurring pattern seen repeatedly this session.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 駁 (7333; 912 characters remaining).
