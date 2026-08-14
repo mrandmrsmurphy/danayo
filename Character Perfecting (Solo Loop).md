@@ -619,3 +619,37 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 逞 (char) (7321; 924 characters remaining).
+
+### 2026-08-14, iteration 1581 — [[characters/逞 (char)|逞]]
+
+**`mc_id` off-by-one bug fixed** (2761 → 2762; confirmed against `CC 2000.md` line 794-795, where "2761. 准" precedes "2762. 逞"). **`graphemic_classification: 呈` confirmed correct** (形聲, semantic 辵/辶 + phonetic 呈, Zhengzhang whole-character OC \*l̥ʰeŋʔ), via en.Wiktionary, independently corroborated by zh.Wiktionary's own 系列#0208（呈）phonetic-family grouping. **New variant alias added**: 徎, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists (en.Wiktionary's other candidate, 呈, was excluded as merely a repeat citation of the phonetic component itself, not a true variant, per zh.Wiktionary's own explicit clarification).
+
+**Interesting near-miss investigated, no contamination found**: the stored `vietnamese: [sánh, sính]` is the exact same two-reading pair seen on [[characters/聘 (char)|聘]] a few iterations ago (where `sánh` was trimmed as Nôm-only contamination) — raising suspicion of a copy-paste error between the two characters. However, hvdic's own entry for 逞 independently confirms the identical split holds true here too: `sính` is genuine Âm Hán Việt, `sánh` is Nôm-only — so the fix (trimming to `sính` alone) is correct, but the coincidence is just that, a coincidence, not evidence of a shared bug; verified rather than assumed.
+
+**`japanese` field investigated, no change**: ja.Wiktionary lists an extra go-on チョウ not corroborated by Jisho (which shows only テイ) — excluded, leaving `TEI` alone, matching this session's cross-reference policy. **`japanese_native` bug fixed**: bare unhyphenated `たくま` corrected to properly hyphenated `たくま-しい` ("burly, strong, sturdy" — the extended/figurative sense beyond "indulge, brag"), confirmed via both sources.
+
+`korean_native: 쾌할` ("pleasant, brisk") and `korean: 령` reconfirmed correct (no 두음법칙 concern — the rule affects word-initial position, and 령 isn't being spelled as 영 here, consistent with this vault's convention); `Lookup/Korean/Korean Name ㄹ.md`'s `### 령` subsection already lists 逞 correctly. `middle_chinese_initial/final: ʈʰ`/`iᴇŋ` reconfirmed correct against `聲 徹`/`韻 清開` (both lookup pages, plus `SKIP-3-4-7`/`Stroke 11`/`Jinmeiyō`, already cited 逞 correctly). Blank `pos` filled: `事詞` (a transitive/intransitive verb — "to indulge, give free rein to, brag").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing self stand-in citation (`stand_in: 逞`). No Derived Characters (nothing names 逞 as its own `graphemic_classification`); no Chengyu hits. Only the existing self stand-in [[逞]] cites 逞.
+
+**Citing word page [[逞]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `sính`; missing `pos` field entirely → added `事詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 遽 (7322; 923 characters remaining).
+
+### 2026-08-14, iteration 1582 — [[characters/遽|遽]]
+
+**`mc_id` off-by-one bug fixed** (1989 → 1990; confirmed against `CC 1000.md` line 1030-1031, where "1989. 淑" precedes "1990. 遽"). **`graphemic_classification: 豦` confirmed correct** (形聲, semantic 辵/辶 + phonetic 豦, Zhengzhang whole-character OC \*ɡas), via en.Wiktionary. **Existing alias 蘧 reconfirmed correct**: both en.Wiktionary (explicitly calling 遽 "a variant form of 蘧") and zh.Wiktionary's own 異體字 box agree, despite 蘧's own primary meaning ("fringed pink," a plant name) being unrelated — the variant relationship holds specifically for this shared graphemic form, the same kind of dual-meaning-alias case as [[characters/聘 (char)|聘]]'s 娉 and [[characters/舵 (char)|舵]]'s 杕 in prior iterations. No further variant candidates on either source.
+
+`vietnamese: cự` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm, no contamination). `japanese: KYO` confirmed correct as the sole corroborated on-yomi (ja.Wiktionary's extra go-on ゴ wasn't corroborated by Jisho and was excluded). **`japanese_native` gap filled**: the stored bare `あわ` was a truncated fragment — both ja.Wiktionary and Jisho independently agree on a full set of four kun-yomi, `あわ-てる` ("to be flustered"), `あわただ-しい` ("hectic, hasty"), `すみやか` ("swift"), and `にわか` ("sudden"); expanded to the complete hyphenated list.
+
+`korean_native: 급히` ("hastily") and `korean: 거` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㄱ.md`'s `### 거` subsection already lists 遽 correctly. `middle_chinese_initial/final: ɡ`/`ɨʌ` reconfirmed correct against `聲 群`/`韻 魚` (both lookup pages, plus `SKIP-3-4-13`/`Stroke 17`/`Hyōgai`, already cited 遽 correctly). Blank `pos` filled: `性詞` (a stative/adjectival quality — "in a hurry, hasty").
+
+Rebuilt malformed `## Notes` (correct heading level already present, but only two bare unlinked CC-lookup wikilinks with no bullet structure at all) to the standard four-bullet format; `## Words` section was already present and correct. No Derived Characters (nothing names 遽 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[急遽]] cites 遽.
+
+**Citing word page [[急遽]] left untouched**: blank `vietnamese` (field entirely absent, not a `null` placeholder) is a genuine never-perfected gap, left for the word-sweep; `pos: 副詞` already filled with no duplicate `品詞` field.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 釉 (7323; 922 characters remaining).
