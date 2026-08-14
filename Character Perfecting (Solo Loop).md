@@ -817,3 +817,19 @@ Rebuilt malformed `## Notes` (correct heading level already present, but only tw
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 駁 (7333; 912 characters remaining).
+
+### 2026-08-14, iteration 1593 — [[characters/駁|駁]]
+
+`mc_id: 3968` confirmed correct (matches `CC 3000.md` line 1009, no off-by-one). **`graphemic_classification: 爻` confirmed correct** (形聲, semantic 馬 "horse" + phonetic 爻, Zhengzhang whole-character OC \*praːwɢ), via en.Wiktionary — original meaning "dappled, piebald" (of a horse), metaphorically extended to "mixed, contradictory" and hence "to dispute, refute," folded into the rebuilt graphemic bullet. Existing aliases 驳 (simplified) and 駮 (traditional variant) both reconfirmed correct via both sources. **No further alias added**: en.Wiktionary's extra candidates 剝/剥 weren't corroborated by zh.Wiktionary, and 剝 is itself a full independent vault character with its own distinct meaning — excluded per the established "don't alias an independent character" policy.
+
+`vietnamese: bác` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm, no contamination). `japanese: [BAKU, HAKU]` confirmed correct — both sources agree on both readings (ja.Wiktionary's extra go-on ホク wasn't corroborated by Jisho and was excluded). **`japanese_native` gap filled**: the stored bare `ぶち` was genuine but incomplete — both ja.Wiktionary and Jisho independently agree on two further kun-yomi, `まだら` ("dappled, mottled") and `まじ-る` ("to be mixed"); ja.Wiktionary's extra まざる/いいかえす weren't corroborated by Jisho and were excluded; expanded to a proper hyphenated list.
+
+`korean_native: 논박할` ("to refute") and `korean: 박` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 박 matches korean 박 exactly); `Lookup/Korean/Korean Name ㅂ.md`'s `### 박` subsection already lists 駁 correctly. `middle_chinese_initial/final: p`/`ɣʌk` reconfirmed correct against `聲 幫`/`韻 覺` (both lookup pages — the latter's own page independently notes 駁 as the reason a regularly-expected sibling, 剝, is forced to dodge to a different slot — plus `SKIP-1-10-4`/`Stroke 14`/`Hyōgai`, already cited 駁 correctly). Blank `pos` filled: `事詞` (a transitive verb — "to refute, dispute").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section at all) to the standard format, adding the missing stand-in citation (`stand_in: 反駁`). No Derived Characters (nothing names 駁 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[反駁]] cites 駁.
+
+**Citing word page [[反駁]] had a genuine gap filled**: blank `pos` (empty field, present but unfilled) → `事詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 𥈞 (7335; 911 characters remaining).
