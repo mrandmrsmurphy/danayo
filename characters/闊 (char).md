@@ -36,6 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-14
 ---
 >[!tip] This is a page about the character 闊.
 >For the word, see [闊](words/闊.md)

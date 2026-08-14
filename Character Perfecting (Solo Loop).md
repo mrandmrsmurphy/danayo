@@ -751,3 +751,21 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 闊 (char) (7329; 916 characters remaining).
+
+### 2026-08-14, iteration 1589 — [[characters/闊 (char)|闊]]
+
+**`mc_id` off-by-one bug fixed** (2924 → 2925; confirmed against `CC 2000.md` line 965-966, where "2924. 瘦" precedes "2925. 闊"). **`graphemic_classification: 活` confirmed correct** (形聲, semantic 門 "gate; door" + phonetic 活, Zhengzhang whole-character OC \*kʰoːd), via en.Wiktionary, corroborated by zh.Wiktionary. **New variant alias added**: 䦢, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists (a further en.Wiktionary-only trio, 𨶖/𨴿, and a zh.Wiktionary-only candidate, 䦚, weren't cross-corroborated and were excluded); existing aliases 阔/濶 reconfirmed correct.
+
+**`vietnamese` contamination fixed**: the stored `[khoát, khoắt]` mixed one genuine Hán Việt reading with a Nôm-only form — hvdic's actual entry lists only `khoát` under Âm Hán Việt, filing `khoắt` under Âm Nôm — trimmed to `khoát` alone. **`japanese_native` bug fixed**: bare unhyphenated `ひろ` corrected to properly hyphenated `ひろ-い` ("wide, broad"), confirmed via both ja.Wiktionary and Jisho; ja.Wiktionary's extra go-on カチ wasn't corroborated by Jisho and the existing `japanese: [KATSU]` was left unchanged.
+
+**Blank `hanmun_edu_level` bug fixed**: filled `名` — `Lookup/Korean/Korean Name ㅎ.md`'s own `### 활` subsection already cited 闊, revealing the frontmatter field itself was simply never filled despite the citation already existing; **a broken link on that same subsection line was fixed as a direct consequence**, since the pre-existing citation pointed to the word page (`words/闊.md`) instead of the character page, inconsistent with every sibling entry on the same line. `korean_native: 넓을` ("wide") and `korean: 활` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial). `middle_chinese_initial/final: kʰ`/`uɑt` reconfirmed correct against `聲 溪`/`韻 末` (both lookup pages, plus `SKIP-3-8-9`/`Stroke 17`/`Hyōgai`/`Old HSK 2`, already cited 闊 correctly). Blank `pos` filled: `性詞` (a stative/adjectival quality — "broad, wide").
+
+**Major `## Words`/`## Chengyu` gaps filled**: `stand_in: 闊` means 闊 is a standalone word, but the pre-existing `## Words` section omitted the self-citation entirely, listing only the two secondary compounds [[久闊]] and [[闊葉]] — added the missing self stand-in first, per ordering convention. [[闊葉]]'s own entry was also missing its ruby annotation entirely (a bare unformatted wikilink); rebuilt to match the standard `<ruby>`+gloss format, pulling the reading from its own stored `注音`. **New `## Chengyu` section added**: grepped all `chengyu/*.md` and found a genuine hit, [[海闊天空]] ("as boundless as the sky and sea," 闊 confirmed present in its own `characters:` field), previously entirely unlisted on the character page; a second grep hit, [[白頭偕老]], confirmed a false positive. Rebuilt malformed `## Notes` (correct heading level already present, but missing three of the four standard bullets — only the graphemic bullet existed, with two bare unlinked CC-lookup wikilinks floating below it) to the full standard format.
+
+No Derived Characters (nothing names 闊 as its own `graphemic_classification`). Four further grep hits on other word pages ([[久]], [[交友]], [[交遊]]) were confirmed false positives — none cite 闊 in their own `characters:` field.
+
+**Citing word page [[闊]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `khoát`; missing `pos` field entirely → added `性詞`. **Citing word page [[久闊]] reviewed, no bugs found** (already perfected). **Citing word page [[闊葉]] left otherwise untouched**: its own blank `vietnamese`/`cantonese` fields are genuine never-perfected gaps, out of scope for this character-level pass — its missing ruby was fixed only on the character page's own citation of it, not on 闊葉's own page.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 鞄 (char) (7330; 915 characters remaining).
