@@ -519,3 +519,37 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 訥 (char) (7310; 930 characters remaining).
+
+### 2026-08-14, iteration 1575 — [[characters/訥 (char)|訥]]
+
+**`mc_id` off-by-one bug fixed** (3923 → 3924; confirmed against `CC 3000.md` line 964-965, where "3923. 盼" precedes "3924. 訥"). **`graphemic_classification` bug fixed** (`會意` → `内`): en.Wiktionary classifies 訥 as 會意兼形聲 — semantic 言 + phonetic 內 (OC \*nuːbs, "inside," Zhengzhang whole-character \*nuːd) — a case where the phonetic component is directly identifiable, so per the checklist's "store the phonetic component, not the bare type string" convention this vault's field should name the phonetic component (matching the vault's existing page for 內/内, which already lists 內 as its own alias) rather than the coarser `會意` label; corrected. **Two new variant aliases added**: 吶 and 㕯, both confirmed genuine via cross-reference between en.Wiktionary's and zh.Wiktionary's independent variant lists (both agreeing on this exact pair, with 呐 noted as 吶's own simplified spelling rather than a separate third form); existing simplified alias 讷 reconfirmed correct.
+
+**Major `vietnamese` contamination fixed**: the stored six-entry list (dốt, nhốt, nuốt, nói, nốt, nột) was almost entirely spurious — hvdic's actual entry for 訥 lists exactly **one** genuine Âm Hán Việt reading, `nột`, with dốt/nói/nốt/nuốt explicitly filed under Âm Nôm and `nhốt` not attested anywhere on the page at all (evidently a fabricated near-duplicate, the same pattern seen on [[characters/繞 (char)|繞]]'s own severe case). Trimmed to `nột` alone.
+
+**`japanese` bug fixed**: the stored `DOTSU` was corroborated only by ja.Wiktionary (kan-on ドツ) and not by Jisho (トツ only) — removed per this session's established "corroborated by both" policy, the same reasoning applied to [[characters/訣|訣]]'s excluded `KEI` one iteration ago; `TOTSU` retained (both sources agree). **`japanese_native` bug fixed**: bare unhyphenated `ども` was a truncated fragment of the verb `どもる` — corrected to properly hyphenated `ども-る` ("to stammer"), confirmed via both sources.
+
+**Blank `korean_native` bug fixed**: a Korean-language web search confirms 訥's real 훈(訓) gloss is "말더듬을" ("to stammer/stutter") — filled, matching this vault's established convention of storing a bare attributive verb stem (e.g. [[characters/葺 (char)|葺]]'s `이을`). `korean: 눌` reconfirmed correct (no 두음법칙 concern — the rule only affects ㄹ/ㄴ before ㅣ or a y-glide, and 눌's own vowel ㅜ isn't one of those); `Lookup/Korean/Korean Name ㄴ.md`'s `### 눌` subsection already lists 訥 correctly. `middle_chinese_initial/final: n`/`uət` reconfirmed correct against `聲 泥`/`韻 沒` (both lookup pages — the latter's own page independently documents 訥 and 肭 as the only two n-initial characters on this final, with 肭 alone dodging via a vowel shift — plus `SKIP-1-7-4`/`Stroke 11`, already cited 訥 correctly). **Blank `joyo_level` filled**: `表外字` (real on'yomi usage, no jōyō/jinmeiyō status) — **missing-entry bug fixed accordingly**, adding 訥 to `lookup/Japanese/Hyōgai.md` as entry #310. Blank `pos` filled: `事詞` (a transitive/intransitive verb — "to mumble, stammer").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing self stand-in citation (`stand_in: 訥`). No Derived Characters (nothing names 訥 as its own `graphemic_classification`); no Chengyu hits (one grep hit, [[言行一致]], confirmed a false positive — 訥 not in its `characters:` field). One grep hit on another word page ([[巧言]]) confirmed a false positive — 訥 not in its `characters:` field either; only the existing self stand-in [[訥]] cites 訥 as a constituent.
+
+**Citing word page [[訥]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `nột`; missing `pos` field entirely → added `事詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 諜 (7314; 929 characters remaining).
+
+### 2026-08-14, iteration 1576 — [[characters/諜|諜]]
+
+**`mc_id` off-by-one bug fixed** (3561 → 3562; confirmed against `CC 3000.md` line 586-587, where "3561. 柚" precedes "3562. 諜"). **`graphemic_classification: 枼` confirmed correct** (形聲, semantic 言 + phonetic 枼, part of the 世 phonetic series, Zhengzhang whole-character OC \*l'eːb), via en.Wiktionary; no new aliases beyond the existing simplified 谍, which en.Wiktionary also independently confirms.
+
+`vietnamese: điệp` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm, the same "no correction needed" pattern seen repeatedly this session). `japanese: CHOU` confirmed correct as the sole corroborated on-yomi (ja.Wiktionary's extra go-on ジョウ wasn't corroborated by Jisho and was excluded, matching this session's established cross-reference policy). **`japanese_native` gap filled**: the stored bare `うかが` was a truncated fragment of `うかが-う` ("to spy on, watch furtively") — both ja.Wiktionary and Jisho also independently agree on a second kun-yomi, `しめ-す` ("to show"); expanded to a proper hyphenated list.
+
+`korean_native: 염탐할` ("to spy, reconnoiter") and `korean: 첩` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅊ.md`'s `### 첩` subsection already lists 諜 correctly. `middle_chinese_initial/final: d`/`ep` reconfirmed correct against `聲 定`/`韻 帖` (both lookup pages — the latter's own page independently documents 諜 as one of a 6-member d/tʰ cluster escaping the main 帖-final group via a shared vowel-shift — plus `SKIP-1-7-9`/`Stroke 16`/`Hyōgai`, already cited 諜 correctly). Blank `pos` filled: `名詞`, matching the citing stand-in compound [[間諜]]'s own already-correct `名詞` classification ("spy, secret agent" as a person/noun).
+
+Rebuilt the malformed `## Notes` (correct heading level already present, but only two bare unlinked CC-lookup wikilinks with no bullet structure at all) to the standard four-bullet format. No Derived Characters (nothing names 諜 as its own `graphemic_classification`); no Chengyu hits. Two grep hits on other word pages ([[喋]], [[情報]]) confirmed false positives — neither cites 諜 in its own `characters:` field; only the existing stand-in [[間諜]] cites 諜.
+
+**Citing word page [[間諜]] reviewed, no bugs found**: already perfected (2026-06-03), `pos: 名詞` filled with no duplicate `品詞` field, `vietnamese: gián điệp` a genuine attested compound, not a `null` placeholder — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 謎 (char) (7315; 928 characters remaining).
