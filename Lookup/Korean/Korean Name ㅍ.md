@@ -45,7 +45,7 @@ Redirected checked for
 [稟](characters/稟.md)
 
 ### 풍 
-[諷](../../characters/風%20(char).md) [馮](characters/馮.md) [楓](characters/楓.md)
+[諷](../../characters/風%20(char).md) [馮](characters/馮.md) [楓](characters/楓.md) [瘋](characters/瘋.md)
 
 ### 피 
 [披 (char)](characters/披%20(char).md) [[陂]] 

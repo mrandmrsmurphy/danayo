@@ -60,7 +60,7 @@ This has been checked for redirects.
 [[檄]] [[膈]] [[覡]] 
 
 ### 견 
-[[鵑]] [甄](characters/甄.md) [繭 (char)](characters/繭%20(char).md) [[譴]]
+[[鵑]] [甄](characters/甄.md) [繭 (char)](characters/繭%20(char).md) [[譴]] [牽](characters/牽.md)
 
 ### 결 
 [訣](characters/訣.md) [[抉]]

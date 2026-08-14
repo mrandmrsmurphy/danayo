@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 14](lookup/Stroke/Stroke%2014.md)
 
 ## Characters
-1. <ruby>[瘋](/characters/瘋.md)<rt>ㄆㄨㄫ</rt></ruby> - crazy
+1. <ruby>[瘋](/characters/瘋.md)<rt>ㄈㄜㄫ</rt></ruby> - crazy
 2. <ruby>[瘍](/characters/瘍.md)<rt>⼘ㄫ</rt></ruby> - ulcer
 
 ## Datacheck
