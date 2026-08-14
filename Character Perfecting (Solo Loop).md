@@ -487,3 +487,35 @@ Rebuilt severely malformed `## Notes` (an unclosed wikilink `[[夬`, a bare frag
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 袴 (char) (7308; 932 characters remaining).
+
+### 2026-08-14, iteration 1573 — [[characters/袴 (char)|袴]]
+
+`mc_id: 4149` confirmed as legitimate long-tail data (袴 not found anywhere in `CC 0000`–`CC 3000.md`, consistent with the checklist's policy of trusting an existing above-4000 rank verbatim). **`graphemic_classification: 夸` confirmed correct**: en.Wiktionary directly analyzes 袴 as 形聲 (semantic 衤 + phonetic 夸, Zhengzhang OC \*kʰʷaːs for the whole character), while zh.Wiktionary instead frames 袴 as a variant of a separate but closely related character, [[絝]] (itself 形聲 semantic 糸 + phonetic 夸) — the two framings don't actually conflict on the essential point, since both agree the phonetic component is 夸 either way; folded the zh.Wiktionary framing into the graphemic bullet as a cross-reference. **New variant alias added**: 褲 (the modern traditional-Chinese standard form for "pants"), confirmed genuine via both en.Wiktionary's alternative-forms note and zh.Wiktionary's explicit 異體字 box.
+
+`vietnamese: khố` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm, the same "no correction needed" pattern seen on [[characters/舵 (char)|舵]]/[[characters/袂 (char)|袂]]'s own readings). **`japanese` and `japanese_native` gaps filled**: both ja.Wiktionary and Jisho fully agree on two on-yomi (コ go-on, ク kan-on) and two kun-yomi (ずぼん, はかま) — the stored fields had only `[KO]` and bare `ずぼん`, missing the corroborated `KU` and `はかま`; both expanded to complete lists.
+
+`korean_native: 바지` ("pants") and `korean: 고` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㄱ.md`'s `### 고` subsection already lists 袴 correctly. `middle_chinese_initial/final: kʰ`/`uo` reconfirmed correct against `聲 溪`/`韻 模` (both lookup pages, plus `SKIP-1-5-6`/`Stroke 11`/`Jinmeiyō`, already cited 袴 correctly). **Blank `hsk_level` bug fixed**: no `lookup/HSK/*.md` file cites 袴 anywhere — filled `無`. Blank `pos` filled: `名詞` (a concrete noun — "pants, trousers").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing self stand-in citation (`stand_in: 袴`). No Derived Characters (nothing names 袴 as its own `graphemic_classification`); no Chengyu hits. Only the existing self stand-in [[袴]] cites 袴.
+
+**Citing word page [[袴]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `khố`; missing `pos` field entirely → added `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 訣 (7309; 931 characters remaining).
+
+### 2026-08-14, iteration 1574 — [[characters/訣|訣]]
+
+**`mc_id` off-by-one bug fixed** (3938 → 3939; confirmed against `CC 3000.md` line 979-980, where "3938. 燃" precedes "3939. 訣"). **Major `graphemic_classification` bug fixed** (`叏` → `夬`): both en.Wiktionary and zh.Wiktionary confirm 訣 is 形聲 with semantic 言 + phonetic **夬** (Zhengzhang OC whole-character \*kʷeːd, phonetic 夬 alone \*kʷraːds) — the stored `叏` is a distinct, unrelated character (U+53CF, visually similar to 夬 but not it), evidently a transcription slip somewhere upstream, corrected. **Alias judgment call, no change made**: zh.Wiktionary's own 異體字 box lists 決/决 alongside the existing 诀, but 決 is already a full, independent, high-frequency vault character with its own well-established distinct meaning ("to decide; to breach [a dam]") — the same reasoning that excluded 離 from [[characters/罹|罹]]'s alias list despite a historical-interchange note applies here; left unadded rather than risk corrupting 決's independent status.
+
+`vietnamese: quyết` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm). **`japanese` bug fixed**: the stored `KEI` was uncorroborated by either ja.Wiktionary (go-on ケチ/kan-on ケツ, no ケイ) or Jisho (ケツ only) — removed, leaving the confirmed `KETSU` alone. **`japanese_native` bug fixed**: bare unhyphenated `わかれ` corrected to properly hyphenated `わか-れる` ("to part ways"), the verb form corroborated by both sources; ja.Wiktionary's extra わけ/わ-ける weren't corroborated by Jisho and were left out.
+
+`korean_native: 이별할` ("to part/separate") and `korean: 결` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㄱ.md`'s `### 결` subsection already lists 訣 correctly. `middle_chinese_initial/final: k`/`wet` reconfirmed correct against `聲 見`/`韻 屑合` (both lookup pages — the latter's own page independently documents 屑合 as a fully uniform 4-member group with no exceptions, 訣 among them — plus `SKIP-1-7-4`/`Stroke 11`/`Jinmeiyō`, already cited 訣 correctly). Blank `pos` filled: `名詞`, matching both citing stand-in compounds' own already-correct `名詞` classification.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format. No Derived Characters (nothing names 訣 as its own `graphemic_classification`); no Chengyu hits. **`## Words` gap filled**: grepped all `words/*.md` citing 訣 in their `characters:` field and found a second stand-in, [[口訣]] ("mnemonic formula"), missing from the list alongside the existing [[秘訣]] — added.
+
+**Both citing word pages reviewed, no bugs found**: [[秘訣]] (already perfected) and [[口訣]] (never perfected, but out of scope for this character sweep beyond the standard consequence-bug check) both already have real `vietnamese` values (not `null` placeholders), filled `pos: 名詞` fields, and no duplicate `品詞` fields — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 訥 (char) (7310; 930 characters remaining).
