@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 14](lookup/Stroke/Stroke%2014.md)
 
 ## Characters
-1. <ruby>[碧](/characters/碧.md)<rt>ㄅㄝㄎ</rt></ruby> - emerald
+1. <ruby>[碧](/characters/碧.md)<rt>ㄅ⼶ㄎ</rt></ruby> - emerald
 
 ## Datacheck
 ```dataview

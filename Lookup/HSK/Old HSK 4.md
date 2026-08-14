@@ -2521,8 +2521,8 @@ tags: [lookup]
 [[証]]: 1
 [杨](../../characters/楊.md): 1
 [[楊]]: 1
-[痒](../../characters/瘍.md): 1
-[癢](../../characters/瘍.md): 1
+[[痒]]: 1
+[[癢]]: 1
 [[妖]]: 1
 [[邀]]: 1
 [[遥]]: 1
@@ -2578,6 +2578,7 @@ tags: [lookup]
 [[愚 (char)]]: 1
 [[昧 (char)]]: 1
 [舆](../../characters/輿%20(char).md): 1
+[[輿 (char)]]: 1
 [[羽]]: 1
 [伞](../../characters/傘.md): 1
 [[傘]]: 1

@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 16](lookup/Stroke/Stroke%2016.md)
 
 ## Characters
-1. <ruby>[錮](/characters/錮%20(char).md)<rt>ㄍㄛ</rt></ruby> - obstinant
+1. <ruby>[錮](/characters/錮%20(char).md)<rt>ㄍㄛ</rt></ruby> - confine, imprison
 2. <ruby>[霍](/characters/霍.md)<rt>ㄍ⺢ㄎ</rt></ruby> - quick
 3. <ruby>[霓](/characters/霓.md)<rt>ㄝㄧ</rt></ruby> - rainbow
 

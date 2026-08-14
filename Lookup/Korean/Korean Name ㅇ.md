@@ -25,7 +25,7 @@ All have been checked for redirects.
 [鴦](characters/鴦.md) [[怏]] [[秧]] [昂](characters/昂.md) 
 
 ### 애 
-[厓](characters/厓.md) [崖](characters/崖%20(char).md) [艾](characters/艾.md) [埃](characters/埃.md) [曖](characters/曖.md) [[隘]] [靄](characters/靄.md) [[䝽]] [礙](碍) [[㶼]] [唉](characters/唉%20(char).md)
+[厓](characters/厓.md) [崖](characters/崖%20(char).md) [艾](characters/艾.md) [埃](characters/埃.md) [曖](characters/曖.md) [[隘]] [靄](characters/靄.md) [[䝽]] [礙](characters/碍.md) [[㶼]] [唉](characters/唉%20(char).md)
 
 ### 액 
 [液](characters/液.md) [[扼]] [[掖]] [[縊]] [[腋]] 
@@ -40,7 +40,7 @@ All have been checked for redirects.
 [[葯]] [[蒻]]
 
 ### 양 
-[襄](../../characters/攘.md) 孃 --> 娘 [[漾]] [佯](characters/羊.md) [[恙]] [攘](characters/㐮.md) [[暘]] [[瀁]] [[煬]] [痒](characters/瘍.md) [瘍](characters/瘍.md) [[禳]] [穰](characters/穣%20(char).md) [釀](characters/醸.md) 
+[襄](../../characters/攘.md) 孃 --> 娘 [[漾]] [佯](characters/羊.md) [[恙]] [攘](characters/㐮.md) [[暘]] [[瀁]] [[煬]] [[痒]] [瘍](characters/瘍.md) [[禳]] [穰](characters/穣%20(char).md) [釀](characters/醸.md) 
 
 ### 어 
 [圄](characters/圄.md) [[瘀]] [禦](characters/御.md) [馭](characters/馭.md) [[齬]] [[唹]]
@@ -55,7 +55,7 @@ All have been checked for redirects.
 [[孼]] [[蘖]] [[糱]] [[糱]] ([[糵]])
 
 ### 엄 
-[奄](characters/奄.md) [俺](characters/俺.md) [掩](../../characters/護.md) [儼](characters/厳%20(char).md) [淹](../../characters/奄.md) [[龑]] 
+[奄](characters/奄.md) [俺](characters/俺.md) [掩](../../characters/奄.md) [儼](characters/厳%20(char).md) [淹](../../characters/奄.md) [[龑]] 
 
 ### 업 
 [[嶪]] 

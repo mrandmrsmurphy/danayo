@@ -24,7 +24,7 @@ tags: [lookup]
 5. <ruby>[尾](../../characters/尾%20(char).md)<rt>ㄇㄨㄧ</rt></ruby> - tail
 6. <ruby>[尿](../../characters/尿%20(char).md)<rt>ㄋ⼘ㄨ</rt></ruby> - urine
 7. <ruby>[局](../../characters/局%20(char).md)<rt>ㄍ⼄ㄎ</rt></ruby> - office
-8. <ruby>[屁](../../characters/屁%20(char).md)<rt>ㄆㄧㄜ</rt></ruby> - far
+8. <ruby>[屁](../../characters/屁%20(char).md)<rt>ㄆㄧㄜ</rt></ruby> - fart
 
 ### +5 Strokes
 9. <ruby>[居](../../characters/居.md)<rt>ㄍㄧ</rt></ruby> - reside

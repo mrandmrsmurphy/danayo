@@ -756,7 +756,7 @@ tags: [lookup]
 [容 (char)](../../characters/容%20(char).md): 2
 [玩](../../characters/玩.md): 2
 [些](../../characters/些.md): 2
-[碼](../../characters/馬%20(char).md): 2
+[碼](../../characters/碼%20(char).md): 2
 [茶 (char)](../../characters/茶%20(char).md): 2
 [悔](../../characters/悔.md): 2
 [糊](../../characters/糊.md): 2

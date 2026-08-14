@@ -6,11 +6,12 @@ korean_native: "점점"
 japanese:
   - SOU
   - SHOU
-japanese_native: やや
+japanese_native:
+  - やや
+  - ようやく
 vietnamese:
-  - rảo
   - sảo
-  - xao
+  - sao
 middle_chinese_initial: "ʃ"
 middle_chinese_final: "ɣau"
 stroke_count: 12
@@ -36,6 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 50
+date-last-perfect: 2026-08-14
 ---
 >[!tip] This is a page about the character 稍.
 >For the word, see [稍](words/稍.md)
@@ -45,6 +47,10 @@ boundedness: 50
 ```
 
 ## Notes
-- Components: [[禾]], [[肖]]
-[[Lookup/CC/initials/聲 生]]
-[[Lookup/CC/finals/韻 肴]]
+- 形聲: semantic [[禾]] ("grain") + phonetic [[肖]] — slightly, a little, rather; gradually. Traditional and simplified forms are identical.
+- [SKIP-1-5-7](lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄙ⼘ㄨ](syllables/ㄙ⼘ㄨ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Words
+- [稍](words/稍.md) "slightly, rather" — 稍 stands alone as a word in Dan'a'yo.

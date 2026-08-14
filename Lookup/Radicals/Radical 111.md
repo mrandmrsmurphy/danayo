@@ -14,7 +14,7 @@ tags: [lookup]
 1. <ruby>[矢](../../characters/矢%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - arrow
 
 ### +2 Strokes
-2. <ruby>[矣](../../characters/矣%20(char).md)<rt>⼔</rt></ruby> - hey
+2. <ruby>[矣](../../characters/矣%20(char).md)<rt>⼔</rt></ruby> - indeed
 
 ### +3 Strokes
 3. <ruby>[知](../../characters/知%20(char).md)<rt>ㄐㄨㄧ</rt></ruby> - know

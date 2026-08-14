@@ -19,7 +19,7 @@ tags: [lookup]
 7. <ruby>[弟](characters/弟%20(char).md)<rt>ㄉㄝ</rt></ruby> "younger brother"
 8. <ruby>[忘](/characters/忘.md)<rt>ㄇㄚㄫ</rt></ruby> "forget"
 9. <ruby>[甬](/characters/甬.md)<rt>⼄ㄫ</rt></ruby> "Yong River"
-10. <ruby>[矣](characters/矣%20(char).md)<rt>⼔</rt></ruby> "hey"
+10. <ruby>[矣](characters/矣%20(char).md)<rt>⼔</rt></ruby> "indeed"
 11. <ruby>[角](characters/角%20(char).md)<rt>ㄍㄛㄎ</rt></ruby> "horn; angle"
 12. <ruby>[谷](characters/谷%20(char).md)<rt>ㄍㄛㄎ</rt></ruby> "valley"
 13. <ruby>[辛](/characters/辛.md)<rt>ㄙㄧㄋ</rt></ruby> "spicy"

@@ -5,7 +5,6 @@ korean: "평"
 korean_native: "들"
 japanese:
   - HEI
-  - HYOU
 japanese_native: つぼ
 vietnamese:
   - bình
@@ -35,6 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
+date-last-perfect: 2026-08-14
 ---
 >[!tip] This is a page about the character 坪.
 >For the word, see [坪](words/坪.md)
@@ -44,6 +44,10 @@ boundedness: 75
 ```
 
 ## Notes
-- Components: [[土]], [[平]]
-[[Lookup/CC/initials/聲 並]]
-[[Lookup/CC/finals/韻 庚三開]]
+- 形聲: semantic [[Radical 032|土]] ("earth") + phonetic [[平]] — level ground, flatland; a traditional East Asian unit of area (36 square shaku, ~3.3 square meters), still in active use in Japanese and Korean real estate.
+- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄅ⼶ㄫ](syllables/ㄅ⼶ㄫ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅍ](lookup/Korean/Korean%20Name%20ㅍ.md)
+
+## Words
+- [坪](words/坪.md) "level ground, pyeong" — 坪 stands alone as a word in Dan'a'yo.

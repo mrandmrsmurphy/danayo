@@ -1,7 +1,7 @@
 ---
 stroke_count: 15
-date-last-perfect: 2026-04-28
-size: 198
+date-last-perfect: 2026-08-13
+size: 199
 tags:
   - lookup
 ---
@@ -17,7 +17,7 @@ tags:
 - 1-7-8: <ruby>[[賦 (char)|賦]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[鋒]]<rt>ㄈㄛㄫ</rt></ruby>, <ruby>[[論]]<rt>ㄌㄛㄋ</rt></ruby>, <ruby>[[誼]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[諒]]<rt>ㄌ⼘ㄫ</rt></ruby>, <ruby>[[誹]]<rt>ㄈㄧ</rt></ruby>, <ruby>[[課 (char)|課]]<rt>ㄎ⺢ㄇ</rt></ruby>, <ruby>[[賠]]<rt>ㄅㄛㄧ</rt></ruby>, <ruby>[[賜]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[請 (char)|請]]<rt>ㄑㄧㄫ</rt></ruby>, <ruby>[[輪 (char)|輪]]<rt>ㄌㄨㄋ</rt></ruby>, <ruby>[[諸 (char)|諸]]<rt>ㄐㄚ</rt></ruby>, <ruby>[[誕]]<rt>ㄉㄚㄋ</rt></ruby>, <ruby>[[醇]]<rt>ㄙㄨㄋ</rt></ruby>, <ruby>[[談]]<rt>ㄉㄚㄇ</rt></ruby>, <ruby>[[謁 (char)|謁]]<rt>ㄝㄊ</rt></ruby>, <ruby>[[諂 (char)|諂]]<rt>ㄑㄝㄇ</rt></ruby>, <ruby>[[踏]]<rt>ㄊㄚㄆ</rt></ruby>, <ruby>[[誰 (char)|誰]]<rt>ㄙ⼶ㄧ</rt></ruby>, <ruby>[[踪]]<rt>ㄐㄛㄫ</rt></ruby>, <ruby>[[調]]<rt>ㄐㄨㄛ</rt></ruby>, <ruby>[[賭]]<rt>ㄉㄛ</rt></ruby>
 - 1-8-7: <ruby>[[鋳]]<rt>ㄐㄨ</rt></ruby>, <ruby>[[銹 (char)|銹]]<rt>ㄙ⼜</rt></ruby>, <ruby>[[鋤]]<rt>ㄐㄛ</rt></ruby>, <ruby>[[鋏 (char)|鋏]]<rt>ㄍㄝㄆ</rt></ruby>, <ruby>[[舗 (char)|舗]]<rt>ㄆㄛㄨ</rt></ruby>, <ruby>[[鋭]]<rt>⼶</rt></ruby>, <ruby>[[餓]]<rt>ㄚ</rt></ruby>
 - 1-9-6: <ruby>[[鞋 (char)|鞋]]<rt>ㄏ⼘ㄧ</rt></ruby>, <ruby>[[餃]]<rt>ㄍ⼄ㄨ</rt></ruby>, <ruby>[[鞍]]<rt>ㄚㄋ</rt></ruby>
-- 1-10-5: <ruby>[[駝]]<rt>ㄉㄚ</rt></ruby>, <ruby>[[駒]]<rt>ㄍㄨ</rt></ruby>, <ruby>[[駐]]<rt>ㄉㄨ</rt></ruby>
+- 1-10-5: <ruby>[[駝]]<rt>ㄉㄚ</rt></ruby>, <ruby>[[駒]]<rt>ㄍㄨ</rt></ruby>, <ruby>[[駐]]<rt>ㄉㄨ</rt></ruby>, <ruby>[[皺]]<rt>ㄐㄨ</rt></ruby>
 - 1-11-4: <ruby>[[歓]]<rt>ㄏ⺢ㄋ</rt></ruby>, <ruby>[[戯]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[戮]]<rt>ㄌㄨㄎ</rt></ruby>, <ruby>[[翫]]<rt>⺢ㄋ</rt></ruby>, <ruby>[[敷 (char)|敷]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[魶 (char)|魶]]<rt>ㄋㄨㄆ</rt></ruby>, <ruby>[[毅]]<rt>ㄧㄜ</rt></ruby>, <ruby>[[敵]]<rt>ㄉㄝㄎ</rt></ruby>
 - 1-12-3: <ruby>[[鄭]]<rt>ㄐㄝㄫ</rt></ruby>, <ruby>[[鄧]]<rt>ㄉㄨㄫ</rt></ruby>, <ruby>[[影]]<rt>⼶ㄫ</rt></ruby>
 - 1-13-2: <ruby>[[劉]]<rt>ㄌ⼜</rt></ruby>, <ruby>[[劇 (char)|劇]]<rt>ㄍㄝㄎ</rt></ruby>

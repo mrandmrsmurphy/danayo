@@ -18,7 +18,7 @@ tags: [lookup]
 5. <ruby>[尾](/characters/尾%20(char).md)<rt>ㄇㄨㄧ</rt></ruby> "tail"
 6. <ruby>[尿](/characters/尿%20(char).md)<rt>ㄋ⼘ㄨ</rt></ruby> "urine"
 7. <ruby>[局](/characters/局%20(char).md)<rt>ㄍ⼄ㄎ</rt></ruby> "office"
-8. <ruby>[屁](/characters/屁%20(char).md)<rt>ㄆㄧㄜ</rt></ruby> "far"
+8. <ruby>[屁](/characters/屁%20(char).md)<rt>ㄆㄧㄜ</rt></ruby> "fart"
 9. <ruby>[庇](/characters/庇.md)<rt>ㄅㄧㄜ</rt></ruby> "shield"
 10. <ruby>[床](/characters/床%20(char).md)<rt>ㄙ⼘ㄇ</rt></ruby> "bed"
 11. <ruby>[序](/characters/序.md)<rt>ㄙ⼄</rt></ruby> "series"
