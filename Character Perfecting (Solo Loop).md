@@ -569,3 +569,53 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 贋 (char) (7317; 927 characters remaining).
+
+### 2026-08-14, iteration 1578 — [[characters/贋 (char)|贋]]
+
+`mc_id: 0` confirmed plausible (贋 not found anywhere in `CC 0000`–`CC 3000.md`). **`graphemic_classification: 雁` confirmed correct** (形聲, semantic 貝 "money" + phonetic 雁, OC \*ŋraːns), via en.Wiktionary. **Malformed `aliases` field fixed**: the stored value was a single un-split string `贗赝` instead of a proper two-item YAML list — split into `贗`/`赝` (matching the already-correct list format on the citing word page [[贋]]); both confirmed genuine via en.Wiktionary (which frames 贋 itself as "a variant traditional form of 贗," with 赝 cross-referenced as the simplified form) and independently corroborated by zh.Wiktionary's own 異體字 box. zh.Wiktionary's box also listed 雁/鴈 and a further candidate 偐 — 雁 is already the character's own cited phonetic component and a full independent vault character (excluded per the established "don't alias an independent character" policy, e.g. [[characters/訥 (char)|訥]]'s excluded 決 two iterations ago); 偐 wasn't corroborated by en.Wiktionary and was excluded too.
+
+`vietnamese: nhạn` confirmed correct via hvdic (listed under both Âm Hán Việt and Âm Nôm). `japanese: GAN` and `japanese_native: にせ` both confirmed correct via ja.Wiktionary (go-on ゲン wasn't corroborated elsewhere and was left out, matching this session's cross-reference policy). **Blank `korean_native` bug fixed**: cross-referenced Korean-language sources gave two different candidate glosses (ko.Wiktionary's "옳지 않다" vs. a hanja-meaning summary's "가짜") — chose `가짜` ("fake"), since it directly matches the character's own core meaning and English gloss, unlike the more oblique "not correct" phrasing.
+
+`korean: 안` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 안 matches korean 안 exactly). `middle_chinese_initial/final: ŋ`/`ɣan` reconfirmed correct against `聲 疑`/`韻 刪開` (both lookup pages — the latter's own page independently documents 贋 as one of three null-initial members escaping a crowded ㄚㄋ collision, dodging without a leading letter, alongside 雁/顔 — plus `SKIP-3-2-17`/`Stroke 19`, already cited 贋 correctly). **Missing-entry bug fixed**: added 贋 to `lookup/Japanese/Jinmeiyō.md` as entry #477 (absent despite `joyo_level: 日本人名用漢字`); `hanmun_edu_level: 無` needed no manual list edit — `lookup/Korean/Korean Missing.md` is a pure dataview query auto-populated from the frontmatter field itself, not a manual list. Blank `pos` filled: `性詞`, matching the citing word page's own already-correct `性詞` classification ("fake" as an attributive/stative quality).
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct. No Derived Characters (nothing names 贋 as its own `graphemic_classification`); no Chengyu hits. Two grep hits on other word pages ([[岸]], [[雁]]) confirmed false positives — both are the citing word page [[贋]]'s own homophone-callout mentions, not citations in either word's own `characters:` field.
+
+**Citing word page [[贋]] reviewed, no bugs found**: already perfected (2026-05-15), `pos: 性詞` filled, `aliases` already a proper list, `vietnamese: nhạn` a genuine value — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 贖 (7318; 926 characters remaining).
+
+### 2026-08-14, iteration 1579 — [[characters/贖|贖]]
+
+`mc_id: 1655` confirmed correct (matches `CC 1000.md` line 684, no off-by-one this time — a rare clean check, the same as [[characters/翔|翔]]'s a few iterations back). **`graphemic_classification: 𧶠` confirmed correct** (形聲, semantic 貝 "money" + phonetic 𧶠, OC \*ɦljoɡ), via en.Wiktionary — its own etymology note explains the phonetic element was originally 𧷏 but was later graphically reshaped into the unrelated-looking 賣, independently corroborated by zh.Wiktionary's identical account. **New variant alias added**: 𧹎, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists (the only candidate appearing in both); existing simplified alias 赎 reconfirmed correct.
+
+**Major `vietnamese` contamination fixed**: the stored `[chuộc, thục]` mixed one genuine Hán Việt reading (`thục`) with a Nôm-only form — hvdic's actual entry for 贖 lists exactly one Âm Hán Việt reading, `thục`, filing `chuộc` under Âm Nôm — trimmed accordingly (the citing word page [[贖罪]]'s own detailed prose already independently explains this exact distinction, calling `chuộc` "a genuine older, vernacular doublet ... not itself Hán Việt," corroborating the fix even though it's a much richer word than the fabricated Nôm entries seen on other characters this session). **`japanese` field investigated, no change**: ja.Wiktionary lists an extra go-on ゾク not corroborated by Jisho (which shows only ショク) — excluded per this session's established cross-reference policy, leaving `SHOKU` alone. **`japanese_native` bug fixed**: bare unhyphenated `あがな` corrected to properly hyphenated `あがな-う` ("to atone, redeem"), confirmed via both sources.
+
+`korean_native: 속바칠` ("to pay as ransom/tribute") and `korean: 속` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅅ.md`'s `### 속` subsection already lists 贖 correctly. `middle_chinese_initial/final: ʑ`/`ɨok` reconfirmed correct against `聲 船`/`韻 燭` (both lookup pages, plus `SKIP-1-7-15`/`Stroke 22`, already cited 贖 correctly). **Missing-entry bug fixed**: `joyo_level: 表外字` was already correctly set, but 贖 was entirely absent from `lookup/Japanese/Hyōgai.md` — added as entry #311. Blank `pos` filled: `事詞` (a transitive verb — "to ransom, redeem").
+
+**Major `## Words` gap filled**: the character's own `stand_in: 贖罪` names 贖罪 as the required stand-in compound, but the pre-existing `## Words` section only listed the secondary citing word [[救贖]] and omitted the stand-in itself entirely — added [[贖罪]] first, ahead of 救贖, per the checklist's "most common/central word first" ordering (the stand-in compound takes precedence). Grepped all `words/*.md` and confirmed no other word cites 贖 as a constituent; two further word-page hits ([[償還]], [[祭物]]) and four chengyu hits ([[世間罪盛]], [[創反救成]], [[破頭傷足]], [[血誓盟約]]) were all confirmed false positives — none cite 贖 in their own `characters:` field.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, missing blank line before `## Words`) to the standard format. No Derived Characters (nothing names 贖 as its own `graphemic_classification`); no Chengyu hits.
+
+**Both citing word pages reviewed, no bugs found**: [[救贖]] and [[贖罪]] are both already perfected, with `pos` filled, no duplicate `品詞` fields, and genuine (non-`null`) `vietnamese` values — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 迂 (7320; 925 characters remaining).
+
+### 2026-08-14, iteration 1580 — [[characters/迂|迂]]
+
+**`mc_id` off-by-one bug fixed** (2989 → 2990; confirmed against `CC 2000.md` line 1030, where "2989. 觚" precedes "2990. 迂"). **`graphemic_classification: 于` confirmed correct** (形聲, semantic 辵/辶 "movement, path" + phonetic 于), via en.Wiktionary (Zhengzhang whole-character OC \*qʷa/\*qʷaʔ/\*ɢʷa). **New variant alias added**: 迃, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists (the only candidate appearing in both); en.Wiktionary's extra "ancient form" 込 wasn't corroborated by zh.Wiktionary and was excluded.
+
+`vietnamese: vu` confirmed correct via hvdic (explicitly the sole genuine Âm Hán Việt reading, no Nôm contamination this time). `japanese: U` and `japanese_native: ø` (no kun-yomi) both confirmed correct via ja.Wiktionary (go-on and kan-on both ウ; the entry has no kun'yomi section at all).
+
+`korean_native: 에돌` ("to go around") and `korean: 우` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 우 matches korean 우 exactly). `Lookup/Korean/Korean Name ㅇ.md`'s `### 우` subsection already lists 迂 correctly. `middle_chinese_initial/final: ʔ`/`ɨo` reconfirmed correct against `聲 影`/`韻 虞` (both lookup pages, plus `SKIP-3-3-3`/`Stroke 06`/`Jinmeiyō`, already cited 迂 correctly — the latter's own page has a pre-existing broken relative-path link on an unrelated entry, [[衢]], left untouched as out of scope for this iteration). Blank `pos` filled: `性詞` (a stative/adjectival quality — "roundabout, circuitous").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing stand-in citation (`stand_in: 迂回`). No Derived Characters (nothing names 迂 as its own `graphemic_classification`); no Chengyu hits. One grep hit on another word page ([[重畳]]) confirmed a false positive — doesn't cite 迂 in its own `characters:` field; only the existing stand-in [[迂回]] cites 迂.
+
+**Citing word page [[迂回]] left untouched**: blank `vietnamese` is a genuine never-perfected gap — a quick hvdic lookup for the compound 迂回 returned no direct hit, so there was no directly-evidenced answer in hand; left for the word-sweep, matching the established "genuine gap" pattern from prior iterations.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 逞 (char) (7321; 924 characters remaining).
