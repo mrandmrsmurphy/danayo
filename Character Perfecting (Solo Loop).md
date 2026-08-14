@@ -687,3 +687,19 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 塚 (char) (7325; 920 characters remaining).
+
+### 2026-08-14, iteration 1585 — [[characters/塚 (char)|塚]]
+
+**`mc_id` off-by-one bug fixed** (3978 → 3979; confirmed against `CC 3000.md` line 1019-1020, where "3978. 澍" precedes "3979. 塚"). **`graphemic_classification: 冢` confirmed correct** (形聲, semantic 土 "earth" + phonetic 冢, OC \*toŋʔ), via en.Wiktionary — an unusual case where 塚 is itself essentially a variant elaboration of its own phonetic component 冢 (both meaning "earthen mound/grave"), with 土 added seemingly to reinforce rather than newly specify the sense; folded this into the graphemic bullet's dash-note. **New alias added**: 冢, confirmed as a genuine variant via both en.Wiktionary and zh.Wiktionary's independent 異體字 boxes; no independent vault character page exists for 冢, so no conflict.
+
+**`vietnamese` gap filled**: hvdic's entry for 塚 lists two genuine Âm Hán Việt readings, `trũng` and `trủng`, but only `trủng` was stored — added the missing `trũng`. **Major `japanese_native` bug fixed**: the stored `ø` (asserting no kun-yomi at all) was simply wrong — both ja.Wiktionary and Jisho independently and clearly attest a real, standard kun-yomi, `つか` ("mound, tomb"); corrected from the false-negative sentinel to the genuine reading. `japanese: CHOU` confirmed correct (Jisho's sole listed on-yomi; ja.Wiktionary's extra go-on チュウ wasn't corroborated and was excluded).
+
+`korean_native: 무덤` ("grave") and `korean: 총` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 총 matches korean 총 exactly). `middle_chinese_initial/final: ʈ`/`ɨoŋ` reconfirmed correct against `聲 知`/`韻 鍾` (both lookup pages — the former's own page independently documents 塚 as one of the small ㄑ-aspirated pocket in 知's messiest four-way split, its aspiration predicted by matching Cantonese/Korean aspiration rather than Mandarin — plus `SKIP-1-3-9`/`Stroke 12`/`Jōyō - Kōtō`, already cited 塚 correctly). **Missing-entry bug fixed**: `hanmun_edu_level: 高等` requires a citation on `lookup/Korean/Korean HS.md`, but 塚 was absent from its `#### 총` subsection despite three sibling characters (銃/總/聰) already being listed there — added, `(무덤 총)`.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format, re-adding the pre-existing `## Words` self-citation that was accidentally dropped mid-edit and immediately restored. No Derived Characters (nothing names 塚 as its own `graphemic_classification`); no Chengyu hits. Three grep hits on other word pages ([[衝]], [[重]], [[軽歌劇]]) confirmed false positives — all homophone/compound-component mentions in prose, none citing 塚 in a `characters:` field; only the existing self stand-in [[塚]] cites 塚.
+
+**Citing word page [[塚]] left untouched**: already fully perfected (2026-07-11) with rich comparative prose across all five languages, `vietnamese: trủng` (one of the two now-confirmed genuine readings, a valid representative choice), `pos: 名詞` filled — no bugs found.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 蟄 (char) (7326; 919 characters remaining).

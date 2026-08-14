@@ -613,7 +613,7 @@ tags: [lookup]
 #### 촉
 [促 (char)](../../characters/促%20(char).md) (재촉할 촉)  [燭](../../characters/燭.md) (촛불 촉)  [觸](../../characters/触.md) (닿을 촉)
 #### 총
-[銃 (char)](../../characters/銃%20(char).md) (총 총)  [總](../../characters/総.md) (거느릴 총)  [聰](../../characters/聡.md) (총명할 총)
+[銃 (char)](../../characters/銃%20(char).md) (총 총)  [總](../../characters/総.md) (거느릴 총)  [聰](../../characters/聡.md) (총명할 총)  [塚 (char)](../../characters/塚%20(char).md) (무덤 총)
 #### 최
 [催 (char)](../../characters/催%20(char).md) (재촉할 최)
 #### 추
