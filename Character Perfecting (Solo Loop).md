@@ -833,3 +833,35 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 𥈞 (7335; 911 characters remaining).
+
+### 2026-08-14, iteration 1594 — [[characters/𥈞|𥈞]]
+
+**Major `radical` bug fixed** (`手` → `目`): en.Wiktionary explicitly gives 𥈞's true Kangxi radical as 109 (目, "eye"), not 手 ("hand") as stored — 𥈞 is an "extended shinjitai" form of [[瞞]], whose own semantic component is unambiguously 目 (confirmed independently on 瞞's own en.Wiktionary entry: 形聲, semantic 目 + phonetic 㒼). **`graphemic_classification: 㒼` confirmed correct** (OC \*moːn for the whole character, phonetic 㒼 glossed "to cover carefully and tightly, without a break" — folded into the rebuilt graphemic bullet). **Two cascading missing-entry bugs fixed as a direct consequence of the radical correction**: 𥈞 was wrongly listed under `Lookup/Radicals/Radical 064.md` (手, entry #109) instead of `Lookup/Radicals/Radical 109.md` (目) — removed from the wrong page (renumbering all 28 subsequent entries down by one via a small script to avoid leaving a numbering gap, `size: 137` → `136`) and added to the correct page's `+9 Strokes` section as entry #21 (`size: 27` → `28`).
+
+`mc_id: 5114` confirmed as legitimate long-tail data (not found in `CC 0000`–`CC 3000.md`, above the checklist's trusted-verbatim threshold). **Major `vietnamese` gap filled**: hvdic's entry for 𥈞 lists two genuine Hán Việt readings, `man` and `môn`, but only `man` was stored — added the missing `môn`. **Malformed `japanese_native` field fixed**: the stored value was a single raw string with a stray leading space and comma-separated entries (`" だます ,あざむく ,かたる"`) instead of a proper YAML list — cross-referencing ja.Wiktionary (だま-す, あざむ-く) against Jisho (だます corroborated via compound, あざむく/かたる not present as kun'yomi at all) left only `だま-す` as doubly-corroborated; corrected to a clean single-item hyphenated value. **`japanese` gap filled**: ja.Wiktionary (Goon マン, Kan-on バン) and Jisho (マン, モン, バン, ボン all listed) both corroborate `BAN` alongside the already-stored `MAN` — added.
+
+`korean_native: 속일` ("to deceive") and `korean: 만` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 만 matches korean 만 exactly); `Lookup/Korean/Korean Name ㅁ.md`'s `### 만` subsection already lists 𥈞 correctly (via its own alias 瞞). `middle_chinese_initial/final: m`/`uɑn` reconfirmed correct against `聲 明`/`韻 桓` (both lookup pages — the latter's own page independently documents 𥈞 as one of six m-initial characters dodged by 㒼's own coda shift — plus `SKIP-1-5-9`/`Stroke 14`/`Old HSK 3`, already cited 𥈞 correctly). `joyo_level: 表外字` confirmed correct — `lookup/Japanese/Hyōgai.md` already carries the necessary redirect entry (`瞞 --> 𥈞`), the vault's established convention for shinjitai-variant characters, so no missing-entry fix was needed there. `pos: 事詞` (already filled) confirmed appropriate — no change.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct. No Derived Characters (nothing names 𥈞 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[欺瞞]] (also aliased as 欺𥈞/欺瞒) cites 𥈞.
+
+**Citing word page [[欺瞞]] reviewed, no bugs found**: already perfected (2026-06-13), with a detailed Notes section already explaining the shared-alias mechanism between 𥈞 and 瞞/瞒 in depth — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 佇 (7337; 910 characters remaining).
+
+### 2026-08-14, iteration 1595 — [[characters/佇|佇]]
+
+`mc_id: 5581` confirmed as legitimate long-tail data (佇 not found anywhere in `CC 0000`–`CC 3000.md`, above the checklist's trusted-verbatim threshold). **`graphemic_classification: 宁` confirmed correct** (形聲, semantic 人 "person" + phonetic 宁, Zhengzhang whole-character OC \*daʔ), via en.Wiktionary. **New variant alias added**: 竚, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists; en.Wiktionary's further candidates 貯/贮/在/置 weren't corroborated by zh.Wiktionary and, more importantly, are all independent characters with their own distinct meanings already in the vault — excluded per the established alias-exclusion policy; existing simplified alias 伫 reconfirmed correct.
+
+**`vietnamese` contamination fixed**: the stored `[giữ, trữ]` mixed one genuine Hán Việt reading with a Nôm-only form — hvdic's actual entry lists only `trữ` under Âm Hán Việt, filing `giữ` under Âm Nôm only — trimmed accordingly. **`japanese` field investigated, no change**: ja.Wiktionary lists an extra go-on ジョ not corroborated by Jisho (which shows only チョ) — excluded, leaving `CHO` alone. **`japanese_native` bug fixed**: bare unhyphenated `たたず` corrected to properly hyphenated `たたず-む` ("to stand still, loiter"), confirmed via both sources.
+
+**Blank `korean_native` bug fixed**: a Korean-language web search confirms 佇's real 훈음 is "우두커니 설" ("to stand blankly/vacantly") — filled, matching the vault's established multi-word gloss format (space-separated, e.g. [[characters/䋇 (char)|䋇]]'s `실 뽑을`). `korean: 저` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅈ.md`'s `### 저` subsection already lists 佇 correctly. `middle_chinese_initial/final: ɖ`/`ɨʌ` reconfirmed correct against `聲 澄`/`韻 魚` (both lookup pages — the latter's own page independently documents 佇 as sharing a homophony-overflow slot with 儲, one of several ordinary singleton escapes noted on that page — plus `SKIP-1-2-5`/`Stroke 07`/`Hyōgai`, already cited 佇 correctly). Blank `pos` filled: `事詞` (an intransitive verb — "to stand waiting, stand still"), matching the citing word page's own already-correct classification.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct. No Derived Characters (nothing names 佇 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[佇立]] cites 佇.
+
+**Citing word page [[佇立]] reviewed, no bugs found**: already perfected (2026-08-03), with its own detailed prose already explaining a compositional (non-idiomatic) `vietnamese: trữ lập` derivation — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 侏 (7338; 909 characters remaining).

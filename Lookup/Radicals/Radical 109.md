@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 27
+size: 28
 radical: 目
 tags:
   - lookup
@@ -45,18 +45,19 @@ tags:
 
 ### +9 Strokes
 20. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle
+21. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal, dupe
 
 ### +12 Strokes
-21. <ruby>[瞥](../../characters/瞥.md)<rt>ㄆㄝㄊ</rt></ruby> - glance
-22. <ruby>[瞬](../../characters/瞬.md)<rt>ㄙ⼜ㄋ</rt></ruby> - wink
-23. <ruby>[瞭](../../characters/瞭.md)<rt>ㄌ⼘ㄨ</rt></ruby> - clear
-24. <ruby>[瞳](../../characters/瞳.md)<rt>ㄉㄛㄫ</rt></ruby> - pupil of eye
+22. <ruby>[瞥](../../characters/瞥.md)<rt>ㄆㄝㄊ</rt></ruby> - glance
+23. <ruby>[瞬](../../characters/瞬.md)<rt>ㄙ⼜ㄋ</rt></ruby> - wink
+24. <ruby>[瞭](../../characters/瞭.md)<rt>ㄌ⼘ㄨ</rt></ruby> - clear
+25. <ruby>[瞳](../../characters/瞳.md)<rt>ㄉㄛㄫ</rt></ruby> - pupil of eye
 
-25. <ruby>[瞰](../../characters/瞰.md)<rt>ㄎㄚㄇ</rt></ruby> - overlook
+26. <ruby>[瞰](../../characters/瞰.md)<rt>ㄎㄚㄇ</rt></ruby> - overlook
 
 ### +13 Strokes
-26. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
-27. <ruby>[瞼](../../characters/瞼.md)<rt>ㄍㄝㄇ</rt></ruby> - eyelid
+27. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
+28. <ruby>[瞼](../../characters/瞼.md)<rt>ㄍㄝㄇ</rt></ruby> - eyelid
 
 ## Data check
 ```dataview

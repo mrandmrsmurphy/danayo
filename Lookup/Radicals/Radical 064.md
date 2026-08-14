@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 137
+size: 136
 radical: 手
 tags: [lookup]
 
@@ -140,47 +140,46 @@ tags: [lookup]
 
 ### +10 Strokes
 108. <ruby>[摘](../../characters/摘%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - pinch
-109. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal
 
 ### +11 Strokes
-110. <ruby>[摯](../../characters/摯.md)<rt>ㄐㄧㄜ</rt></ruby> - sincere
-111. <ruby>[撃](../../characters/撃%20(char).md)<rt>ㄍㄝㄎ</rt></ruby> - strike
-112. <ruby>[撇](../../characters/撇%20(char).md)<rt>ㄆㄝㄊ</rt></ruby> - throw away
-113. <ruby>[撐](../../characters/撐.md)<rt>ㄊㄚㄫ</rt></ruby> - support
-114. <ruby>[撞](../../characters/撞%20(char).md)<rt>ㄊ⺢ㄫ</rt></ruby> - hit
-115. <ruby>[撤](../../characters/撤%20(char).md)<rt>ㄉㄝㄊ</rt></ruby> - omit
-116. <ruby>[撫](../../characters/撫.md)<rt>ㄈㄨ</rt></ruby> - pat
-117. <ruby>[播](../../characters/播.md)<rt>ㄅㄚ</rt></ruby> - sow
-118. <ruby>[撮](../../characters/撮%20(char).md)<rt>ㄐ⺢ㄊ</rt></ruby> - small amount
-119. <ruby>[撲](../../characters/撲%20(char).md)<rt>ㄆㄛㄎ</rt></ruby> - rush at
-120. <ruby>[撹](../../characters/撹.md)<rt>ㄍ⼄ㄨ</rt></ruby> - stir up
+109. <ruby>[摯](../../characters/摯.md)<rt>ㄐㄧㄜ</rt></ruby> - sincere
+110. <ruby>[撃](../../characters/撃%20(char).md)<rt>ㄍㄝㄎ</rt></ruby> - strike
+111. <ruby>[撇](../../characters/撇%20(char).md)<rt>ㄆㄝㄊ</rt></ruby> - throw away
+112. <ruby>[撐](../../characters/撐.md)<rt>ㄊㄚㄫ</rt></ruby> - support
+113. <ruby>[撞](../../characters/撞%20(char).md)<rt>ㄊ⺢ㄫ</rt></ruby> - hit
+114. <ruby>[撤](../../characters/撤%20(char).md)<rt>ㄉㄝㄊ</rt></ruby> - omit
+115. <ruby>[撫](../../characters/撫.md)<rt>ㄈㄨ</rt></ruby> - pat
+116. <ruby>[播](../../characters/播.md)<rt>ㄅㄚ</rt></ruby> - sow
+117. <ruby>[撮](../../characters/撮%20(char).md)<rt>ㄐ⺢ㄊ</rt></ruby> - small amount
+118. <ruby>[撲](../../characters/撲%20(char).md)<rt>ㄆㄛㄎ</rt></ruby> - rush at
+119. <ruby>[撹](../../characters/撹.md)<rt>ㄍ⼄ㄨ</rt></ruby> - stir up
 
 ### +12 Strokes
-121. <ruby>[拠](../../characters/拠.md)<rt>ㄍ⼄</rt></ruby> - depend upon
-122. <ruby>[擁](../../characters/擁.md)<rt>ㄛㄫ</rt></ruby> - embrace
-123. <ruby>[擅](../../characters/擅.md)<rt>ㄙㄝㄋ</rt></ruby> - monopolize
-124. <ruby>[操](../../characters/操.md)<rt>ㄑㄚㄨ</rt></ruby> - operate
+120. <ruby>[拠](../../characters/拠.md)<rt>ㄍ⼄</rt></ruby> - depend upon
+121. <ruby>[擁](../../characters/擁.md)<rt>ㄛㄫ</rt></ruby> - embrace
+122. <ruby>[擅](../../characters/擅.md)<rt>ㄙㄝㄋ</rt></ruby> - monopolize
+123. <ruby>[操](../../characters/操.md)<rt>ㄑㄚㄨ</rt></ruby> - operate
 
 ### +13 Strokes
-125. <ruby>[擡](../../characters/擡.md)<rt>ㄉㄚㄧ</rt></ruby> - carry
-126. <ruby>[擢](../../characters/擢.md)<rt>ㄐㄛㄎ</rt></ruby> - select
-127. <ruby>[擦](../../characters/擦%20(char).md)<rt>ㄑㄚㄊ</rt></ruby> - wipe
-128. <ruby>[擬](../../characters/擬%20(char).md)<rt>ㄧ</rt></ruby> - intend
-129. <ruby>[擱](../../characters/擱.md)<rt>ㄍㄚㄎ</rt></ruby> - stop writing
+124. <ruby>[擡](../../characters/擡.md)<rt>ㄉㄚㄧ</rt></ruby> - carry
+125. <ruby>[擢](../../characters/擢.md)<rt>ㄐㄛㄎ</rt></ruby> - select
+126. <ruby>[擦](../../characters/擦%20(char).md)<rt>ㄑㄚㄊ</rt></ruby> - wipe
+127. <ruby>[擬](../../characters/擬%20(char).md)<rt>ㄧ</rt></ruby> - intend
+128. <ruby>[擱](../../characters/擱.md)<rt>ㄍㄚㄎ</rt></ruby> - stop writing
 
 ### +14 Strokes
-130. <ruby>[擲](../../characters/擲.md)<rt>ㄐㄝㄎ</rt></ruby> - throw
-131. <ruby>[擺](../../characters/擺.md)<rt>ㄅㄚㄧ</rt></ruby> - pendulum
-132. <ruby>[擾](../../characters/擾.md)<rt>ㄋ⼄ㄨ</rt></ruby> - disturb
-133. <ruby>[攄](../../characters/攄.md)<rt>ㄑㄛ</rt></ruby> - spread
-134. <ruby>[攅](../../characters/攅.md)<rt>ㄐㄚㄋ</rt></ruby> - save
+129. <ruby>[擲](../../characters/擲.md)<rt>ㄐㄝㄎ</rt></ruby> - throw
+130. <ruby>[擺](../../characters/擺.md)<rt>ㄅㄚㄧ</rt></ruby> - pendulum
+131. <ruby>[擾](../../characters/擾.md)<rt>ㄋ⼄ㄨ</rt></ruby> - disturb
+132. <ruby>[攄](../../characters/攄.md)<rt>ㄑㄛ</rt></ruby> - spread
+133. <ruby>[攅](../../characters/攅.md)<rt>ㄐㄚㄋ</rt></ruby> - save
 
 ### More
-135. <ruby>[攀](../../characters/攀.md)<rt>ㄆㄚㄋ</rt></ruby> - climb
-136. <ruby>[攬](../../characters/攬.md)<rt>ㄌㄚㄇ</rt></ruby> - monopolize
+134. <ruby>[攀](../../characters/攀.md)<rt>ㄆㄚㄋ</rt></ruby> - climb
+135. <ruby>[攬](../../characters/攬.md)<rt>ㄌㄚㄇ</rt></ruby> - monopolize
 
 ### +16 Strokes
-137. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
+136. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
 
 ## Data check
 ```dataview
