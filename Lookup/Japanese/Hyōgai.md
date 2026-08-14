@@ -305,6 +305,7 @@ tags: [lookup]
 301. [矣 (char)](../../characters/矣%20(char).md)
 302. [喊](../../characters/喊.md)
 303. [瘋](../../characters/瘋.md)
+304. [磚](../../characters/磚.md)
 
 
 [[../../characters/吠]] - barking DO IT

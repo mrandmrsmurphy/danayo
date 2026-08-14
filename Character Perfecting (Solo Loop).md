@@ -95,3 +95,43 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 碩 (7282; 955 characters remaining).
+
+### 2026-08-14, iteration 1550 — [[characters/碩|碩]]
+
+**`mc_id` off-by-one bug fixed** (2510 → 2511; confirmed against `CC 2000.md` line 535). **`graphemic_classification: 石` confirmed correct** — the true semantic component is 頁 ("head"), and 石 is the phonetic; this coincides with the character's own Kangxi radical (also 石) purely by indexing accident, not a duplication error. `vietnamese: thượt/thạc` and existing alias 硕 (simplified) both confirmed correct via en.Wiktionary. `japanese: SEKI` confirmed correct (Jisho corroborates; ja.Wiktionary's extra go-on ジャク wasn't corroborated and was left out). `korean_native: 클` and `middle_chinese_initial/final: d͡ʑ`/`iᴇk` reconfirmed correct against `聲 禪`/`韻 昔開` (both lookup pages, plus `SKIP-1-5-9`/`Stroke 14`/`Jinmeiyō`/`Korean Name ㅅ`/`Radical 112`, already cited 碩 correctly).
+
+**`japanese_native` bug fixed**: corrected bare `おお` to properly hyphenated `おお-きい`, confirmed via ja.Wiktionary and Jisho. Blank `pos` filled: `性詞`.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format, adding the missing stand-in annotation to `## Words`. No Derived Characters; no Chengyu hits; only the existing stand-in [[碩大]] (already perfected, no bugs — its own rich prose already independently explains the 石-as-phonetic relationship) cites 碩.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 磚 (7283; 954 characters remaining).
+
+### 2026-08-14, iteration 1551 — [[characters/磚|磚]]
+
+`mc_id: 9149` confirmed as legitimate long-tail data (磚 not found anywhere in `CC 0000`–`CC 3000`). **`graphemic_classification: 專` confirmed correct** (形聲, semantic 石 + phonetic 專), via en.Wiktionary. **Three new variant aliases added**: 塼, 甎, 磗, all confirmed genuine via both en.Wiktionary and zh.Wiktionary (a fourth en.Wiktionary-only candidate, 㼷, wasn't corroborated by zh.Wiktionary and was excluded); existing alias 砖 (simplified) reconfirmed correct.
+
+**`vietnamese` contamination fixed**: hvdic explicitly labels the stored `gạch` (the everyday native Vietnamese word for "brick") as Nôm-only, not Hán Việt — removed, keeping only the genuine Hán Việt `chuyên`. `japanese: SEN` and `japanese_native: かわら` both confirmed correct via both ja.Wiktionary and Jisho. **Two blank level fields fixed**: `joyo_level` → `表外字`; `hanmun_edu_level` → `無`. **Two missing-entry bugs fixed accordingly**: added 磚 to `lookup/Japanese/Hyōgai.md`, and to the `### 전` subsection of `lookup/Korean/Korean Name ㅈ.md` — which already had a bare, pageless `[[塼]]` mention but no link for 磚 itself; added both a proper link for the new alias 塼 (pointing to 磚's page, matching the established practice for phonetic-family members without their own page) and a direct entry for 磚. Blank `pos` filled: `名詞`. `korean_native: 벽돌` and `middle_chinese_initial/final: t͡ɕ`/`iuᴇn` reconfirmed correct against `聲 章`/`韻 仙A三合` (both lookup pages, plus `SKIP-1-5-11`/`Stroke 16`/`Old HSK 3`/`Radical 112`, already cited 磚 correctly).
+
+Rebuilt malformed body (`## Words` section misplaced before `# Notes`, wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard format. No Derived Characters; no Chengyu hits; only the existing stand-in [[磚石]] (already perfected) cites 磚.
+
+**Citing word page [[磚石]] left untouched**: missing `japanese`/`vietnamese` fields are genuine never-perfected gaps — a direct hvdic lookup for 磚石 returned no attested compound, so there was no directly-evidenced answer in hand; left for the word-sweep.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 稟 (7284; 953 characters remaining).
+
+### 2026-08-14, iteration 1552 — [[characters/稟|稟]]
+
+**`mc_id` bug fixed** (1700 → 1701): the stored rank actually belonged to a different character, 盾 — 稟's true rank found immediately adjacent on the next line of `CC 1000.md`. `graphemic_classification: 㐭` confirmed correct (會意, 㐭 "granary" + 禾 "grain"), via en.Wiktionary — `韻 侵A`'s own final page independently notes 稟's unconditioned landing alongside 凜, corroborating the phonetic-family relationship documented below.
+
+**Major `vietnamese` bug fixed**: the stored seven-entry list mixed one genuine Hán Việt reading (`bẩm`) with six Nôm-only or entirely unattested forms — hvdic gives a completely different, much shorter genuine set: `bẩm` and `lẫm`. Replaced accordingly. `japanese: RIN/HIN` and `japanese_native: こめぐら` both confirmed correct (Jisho corroborates both; ja.Wiktionary's several extra kun-yomi candidates weren't corroborated and were left out). `korean_native: 여쭐` and `middle_chinese_initial/final: p`/`iɪm` reconfirmed correct against `聲 幫`/`韻 侵A` (both lookup pages, plus `SKIP-2-2-11`/`Stroke 13`/`Jinmeiyō`/`Korean Name ㅍ`/`Radical 115`, already cited 稟 correctly). Blank `pos` filled: `動詞`.
+
+Merged two duplicate `## Notes` sections and rebuilt to the standard format (a stray `## Words`-style bullet was misplaced inside the first `## Notes` block). **Found and added a new `## Derived Characters` section**: [[凜 (char)|凜]], confirmed via its own `graphemic_classification: 稟`. No Chengyu hits; only the existing stand-in [[稟告]] cites 稟.
+
+**Citing word page [[稟告]] left untouched**: missing `vietnamese` is a genuine never-perfected gap — a direct hvdic lookup for 稟告 returned no attested compound, so there was no directly-evidenced answer in hand; left for the word-sweep.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 竄 (7285; 952 characters remaining).
