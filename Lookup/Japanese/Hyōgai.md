@@ -308,6 +308,7 @@ tags: [lookup]
 304. [磚](../../characters/磚.md)
 305. [繃](../../characters/繃.md)
 306. [繞 (char)](../../characters/繞%20(char).md)
+307. [羸](../../characters/羸.md)
 
 
 [[../../characters/吠]] - barking DO IT
