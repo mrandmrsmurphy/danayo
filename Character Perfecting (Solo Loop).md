@@ -151,3 +151,31 @@ Rebuilt malformed body (`## Words` section misplaced before `# Notes`, wrong hea
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 竦 (char) (7286; 951 characters remaining).
+
+### 2026-08-14, iteration 1554 — [[characters/竦 (char)|竦]]
+
+**`mc_id` off-by-one bug fixed** (2580 → 2581; confirmed against `CC 2000.md` line 605). **`graphemic_classification: 束` confirmed correct** (形聲, semantic 立 + phonetic 束), via en.Wiktionary. **Existing alias 聳 investigated and reconfirmed correct**: zh.Wiktionary's own page for 竦 doesn't mention 聳 at all, but en.Wiktionary's page for 聳 explicitly calls it "an alternative form" of 竦 (same word family via a different phonetic route, 從 vs 束) — treated as one source confirming vs. the other simply not addressing it, not a contradiction; `lookup/Korean/Korean Name ㅅ.md` independently corroborates by already linking 聳 to 竦's own page. **New variant alias added**: 捒, confirmed via zh.Wiktionary.
+
+`vietnamese: tủng` confirmed correct via hvdic. `japanese: SHOU` confirmed correct (Jisho corroborates; ja.Wiktionary's extra go-on シュ wasn't corroborated and was left out). **`japanese_native` bug fixed**: expanded bare `おそ` to the full three-item kun-yomi list confirmed by both sources — `すく-む`, `おそ-れる`, `つつし-む`. `korean_native: 공경할` and `middle_chinese_initial/final: s`/`ɨoŋ` reconfirmed correct against `聲 心`/`韻 鍾` (both lookup pages, plus `SKIP-1-5-7`/`Stroke 12`/`Hyōgai`/`Korean Name ㅅ`/`Radical 117`, already cited 竦 correctly). Blank `pos` filled: `名詞`.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format. No Derived Characters; no Chengyu hits; only the existing self stand-in cites 竦.
+
+**Citing word page [[竦]] (self stand-in) had two gaps filled**: blank `vietnamese` → `tủng`; blank `pos` → `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 箔 (7288; 950 characters remaining).
+
+### 2026-08-14, iteration 1555 — [[characters/箔|箔]]
+
+`mc_id: 0` confirmed as a legitimate sentinel (箔 not found anywhere in `CC 0000`–`CC 3000`). **`graphemic_classification: 泊` confirmed correct** (形聲, semantic 竹 + phonetic 泊, itself derived from 薄), via en.Wiktionary — `韻 鈬合`'s own final page independently groups 博/泊/箔/薄 together as evidence for a labial w-glide-ban phonotactic rule, corroborating the phonetic link. `vietnamese: bạc`, `japanese: HAKU` (Jisho corroborates; ja.Wiktionary's extra go-on バク wasn't corroborated and was left out), and `japanese_native: すだれ` all reconfirmed correct. `korean_native: 발` and `middle_chinese_initial/final: b`/`wɑk` reconfirmed correct against `聲 並`/`韻 鈬合` (both lookup pages, plus `SKIP-2-6-8`/`Stroke 14`/`Jinmeiyō`/`Korean Name ㅂ`, already cited 箔 correctly).
+
+**Broken-path bug fixed**: the finals-lookup wikilink used `../lookup/CC/finals/...` (one directory up) instead of the bare `lookup/CC/finals/...` form used everywhere else — the same broken-relative-path pattern seen recurring throughout this project, here in a not-yet-seen variant directory depth. Blank `pos` filled: `名詞`.
+
+Rebuilt malformed `# Notes` (wrong heading level, no `## Words` section) to the standard format. No Derived Characters; no Chengyu hits; only the existing stand-in [[蚕箔]] cites 箔.
+
+**Citing word page [[蚕箔]] had a genuine gap filled**: blank `vietnamese` → `tàm bạc`, confirmed as a directly-attested Sino-Vietnamese compound via hvdic (found during this cycle's own research); its other blank fields (`pos`, `japanese`, `korean`) are genuine never-perfected gaps left for the word-sweep, since no directly-evidenced answers were in hand for those.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 糊 (7289; 949 characters remaining).
