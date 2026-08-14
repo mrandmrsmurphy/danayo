@@ -865,3 +865,19 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 侏 (7338; 909 characters remaining).
+
+### 2026-08-14, iteration 1596 — [[characters/侏|侏]]
+
+**`mc_id` off-by-one bug fixed** (3346 → 3347; confirmed against `CC 3000.md` line 363-364, where "3346. 瑣" precedes "3347. 侏"). **`graphemic_classification: 朱` confirmed correct** (形聲, semantic 人 "person" + phonetic 朱, Zhengzhang whole-character OC \*tjo), via en.Wiktionary; no variant forms found on either source.
+
+**`vietnamese` gap filled**: hvdic's entry for 侏 lists two genuine Âm Hán Việt readings, `chu` and `thù`, but only `thù` was stored — added the missing `chu`. **`japanese` bug fixed**: the stored `CHU` was corroborated by neither ja.Wiktionary (which lists only go-on ス/kan-on シュ, no CHU) nor Jisho (シュ only) — dropped as an unsupported reading, leaving `SHU` alone. `japanese_native: ø` (no kun-yomi) confirmed correct on closer inspection: ja.Wiktionary lists two candidate kun-yomi (みじか-い, あざむ-く) but neither is corroborated by Jisho (which shows no kun'yomi at all for this character) — per this session's established cross-reference policy, uncorroborated candidates don't clear the bar, so the existing `ø` sentinel stands as correctly verified rather than a gap.
+
+`korean_native: 난쟁이` ("dwarf") and `korean: 주` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 주 matches korean 주 exactly); `Lookup/Korean/Korean Name ㅈ.md`'s `### 주` subsection already lists 侏 correctly. `middle_chinese_initial/final: t͡ɕ`/`ɨo` reconfirmed correct against `聲 章`/`韻 虞` (both lookup pages — the latter's own page independently documents 侏 as one of 11 members in the single most crowded slot found across its entire sweep, ㄐㄨ — plus `SKIP-1-2-6`/`Stroke 08`, already cited 侏 correctly). **Blank `joyo_level` was already correctly `表外字`, but the corresponding missing-entry bug was fixed**: 侏 was entirely absent from `lookup/Japanese/Hyōgai.md` — added as entry #315. Blank `pos` filled: `名詞` (a concrete noun — "dwarf").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing stand-in citation (`stand_in: 侏儒`). No Derived Characters (nothing names 侏 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[侏儒]] cites 侏.
+
+**Citing word page [[侏儒]] reviewed**: `pos: 名詞` was already correctly filled (not blank, contrary to an initial misreading during this iteration — a stray blank line was briefly introduced by that misreading and immediately corrected); `vietnamese: [chu, nhu]` independently verified against hvdic's own attested compound reading "chu nhu" and confirmed genuine, not a compositional guess — left otherwise untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 倭 (7339; 908 characters remaining).
