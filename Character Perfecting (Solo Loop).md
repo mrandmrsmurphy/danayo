@@ -467,3 +467,23 @@ Stamped `date-last-perfect: 2026-08-14`.
 (Session note: this iteration was again done directly in the main conversation, per the user's standing request to see every step live rather than delegate to a background subagent.)
 
 Next never-perfected character by `danayo_id`: 袂 (char) (7307; 933 characters remaining).
+
+### 2026-08-14, iteration 1572 — [[characters/袂 (char)|袂]]
+
+**`mc_id` off-by-one bug fixed** (3066 → 3067; confirmed against `CC 3000.md` line 71-72, where "3066. 絺" precedes "3067. 袂"). **`graphemic_classification: 夬` confirmed correct** (形聲, semantic 衤/衣 + phonetic 夬), via en.Wiktionary (whole-character Zhengzhang OC \*mɡʷeds, phonetic 夬 alone \*kʷraːds), independently corroborated by zh.Wiktionary's own composition breakdown (⿰衤夬).
+
+**Alias bug fixed**: the stored `𣍐` is not a genuine variant of 袂-the-sleeve at all — both en.Wiktionary and zh.Wiktionary explicitly tie 𣍐 (and its sibling 𫧃) to a completely unrelated *second etymology*, a Hokkien (泉漳話) grammatical negation particle that merely happens to share the character form; zh.Wiktionary's own entry explicitly separates this from the standard "sleeve" sense, with no variant listed for the sleeve meaning itself. Removed, left as a genuine gap.
+
+**Major `vietnamese` contamination fixed**: the stored `[khuyết, quyết]` were both filed by hvdic exclusively under Âm Nôm (Nôm-only) — hvdic's actual Âm Hán Việt entry for 袂 gives a completely different pair, `duệ` and `mệ` (the latter phonologically regular, matching the character's own m- Middle Chinese initial and the m-initial forms seen across Mandarin/Cantonese/Korean). Replaced accordingly.
+
+**`japanese` field investigated and reconfirmed correct despite source disagreement**: ja.Wiktionary and Jisho disagreed sharply (ja.Wiktionary: go-on マイ/kan-on ベイ/kan'yō-on ヘイ, no ケツ; Jisho: ベイ・ケツ only, no マイ/ヘイ) — rather than trimming to the single overlapping reading per the usual "corroborated by both" rule, a third tiebreaker source (Kanjipedia, via web search) confirmed **all four** readings are genuinely attested (マイ・ベイ・ヘイ・ケツ), so the existing stored `[BEI, KETSU]` was left unchanged as a valid (if partial) subset rather than incorrectly trimmed. **`japanese_native` gap filled**: both ja.Wiktionary and Jisho agree on two kun-yomi, `たまと` and `たもと` — the stored bare `たまと` was genuine but incomplete; added `たもと`, converting the field to a proper list.
+
+`korean_native: 소매` ("sleeve") and `korean: 몌` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅁ.md`'s `### 몌` subsection already lists 袂 correctly. `middle_chinese_initial/final: m`/`iᴇi` reconfirmed correct against `聲 明`/`韻 祭A三開` (both lookup pages, plus `SKIP-1-5-4`/`Stroke 09`/`Hyōgai`/`HSK No`, already cited 袂 correctly — also surfacing and fixing the wrong Kangxi radical number baked into the pre-existing corrupted Notes prose, which had linked 衤 to `Radical 120` (actually 糸) instead of the correct `Radical 145` (衣), cross-checked against [[characters/被 (char)|被]]'s own already-correct citation). Blank `pos` filled: `名詞` (a concrete noun — "sleeve").
+
+Rebuilt severely malformed `## Notes` (an unclosed wikilink `[[夬`, a bare fragment `- Korean Name ㅋ, ` with no link and the wrong Hangul consonant entirely, wrong Radical number, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing self stand-in citation (`stand_in: 袂`). No Derived Characters (nothing names 袂 as its own `graphemic_classification`); no Chengyu hits. Only the existing self stand-in [[袂]] cites 袂.
+
+**Citing word page [[袂]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `duệ` (the first-listed/primary Hán Việt reading, matching the established convention of picking one value for the word page from a multi-entry character field); missing `pos` field entirely → added `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 袴 (char) (7308; 932 characters remaining).
