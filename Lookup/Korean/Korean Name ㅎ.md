@@ -95,7 +95,7 @@ This have all be checked for redirects.
 [喚 (char)](characters/喚%20(char).md) [[奐]] [[渙]] [煥](characters/煥.md) [[晥]] [幻](characters/幻.md) [桓](characters/桓.md) [[鐶]] [[驩]] [[宦]] [[紈]] [[鰥]] [[圜]] 
 
 ### 활
-[闊](words/闊.md) [滑 (char)](characters/滑%20(char).md) [猾](characters/滑%20(char).md) [[豁]]
+[闊 (char)](characters/闊%20(char).md) [滑 (char)](characters/滑%20(char).md) [猾](characters/滑%20(char).md) [[豁]]
 
 ### 황
 [凰](characters/凰.md) [[堭]] [[媓]] [晃](characters/晃.md) [[滉]] [[榥]] [煌](characters/煌.md) [[璜]] [[熀]] [幌](characters/幌.md) [徨](characters/徨.md) [[恍]] [[惶]] [[愰]] [慌](characters/慌.md) [[湟]] [[潢]] [[篁]] [簧](characters/黄%20(char).md) [[蝗]] [[遑]] [[隍]] [[楻]] 

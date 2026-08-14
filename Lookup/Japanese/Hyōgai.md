@@ -313,6 +313,9 @@ tags: [lookup]
 309. [蠢](../../characters/蠢.md)
 310. [訥 (char)](../../characters/訥%20(char).md)
 311. [贖](../../characters/贖.md)
+312. [蟄 (char)](../../characters/蟄%20(char).md)
+313. [銹 (char)](../../characters/銹%20(char).md)
+314. [鍍](../../characters/鍍.md)
 
 
 [[../../characters/吠]] - barking DO IT

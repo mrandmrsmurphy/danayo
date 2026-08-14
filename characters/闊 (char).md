@@ -5,17 +5,16 @@ korean: "활"
 korean_native: "넓을"
 japanese:
   - KATSU
-japanese_native: ひろ
+japanese_native: ひろ-い
 vietnamese:
   - khoát
-  - khoắt
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "uɑt"
 stroke_count: 17
 radical: "門"
 skip_number: 3-8-9
 grade_level: "先進"
-pos: ""
+pos: 性詞
 english:
   - broad
   - wide
@@ -23,14 +22,15 @@ english:
 諺文: "괃"
 joyo_level: "表外字"
 hsk_level: "2"
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7329
-mc_id: 2924
+mc_id: 2925
 graphemic_classification: "活"
 stand_in: "闊"
 aliases:
   - 阔
   - 濶
+  - 䦢
 注音: "ㄎ⺢ㄊ"
 kwin: false
 tags:
@@ -43,9 +43,15 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*kʰoːd): semantic [[Radical 169|門]] ("gate; door") + phonetic [[活]] (OC \*koːd, \*ɡoːd).
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 末]]
+- 形声 (Zhengzhang OC \*kʰoːd): semantic [[Radical 169|門]] ("gate; door") + phonetic [[活]] (OC \*koːd, \*ɡoːd).
+- [SKIP-3-8-9](lookup/SKIP/SKIP-3/SKIP-3-8-9.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
+- 2925th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄎ⺢ㄊ](syllables/ㄎ⺢ㄊ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
+
 ## Words
+- <ruby>[[闊]]<rt>ㄎ⺢ㄊ</rt></ruby> "broad; wide"
 - <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
-- [[闊葉]] "broad-leaf"
+- <ruby>[[闊葉]]<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby> "broad-leaf"
+
+## Chengyu
+- <ruby>[[海闊天空]]<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> "as boundless as the sky and sea"

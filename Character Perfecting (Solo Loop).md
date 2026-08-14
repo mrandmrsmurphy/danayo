@@ -703,3 +703,51 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 蟄 (char) (7326; 919 characters remaining).
+
+### 2026-08-14, iteration 1586 — [[characters/蟄 (char)|蟄]]
+
+**`mc_id` off-by-one bug fixed** (2302 → 2303; confirmed against `CC 2000.md` line 319-320, where "2302. 銘" precedes "2303. 蟄"). **`graphemic_classification: 執` confirmed correct** (形聲, semantic 虫 "insect" + phonetic 執, Zhengzhang whole-character OC \*dib), via en.Wiktionary. **No alias added**: en.Wiktionary's extra variant candidate, 𧒦, wasn't corroborated by zh.Wiktionary (which lists only the already-stored simplified 蛰) — excluded per the established "both sources must agree" policy.
+
+**Major `vietnamese` contamination fixed**: the stored four-entry list (chẫu, chập, chặp, trập) mixed two genuine Hán Việt readings with two Nôm-only forms — hvdic's actual entry for 蟄 lists exactly `chập` and `trập` under Âm Hán Việt, filing `chẫu` and `chặp` under Âm Nôm only — trimmed to the two genuine readings. **`japanese` field reconfirmed correct**: both `CHITSU` (kan'yō-on) and `CHUU` (kan-on) are corroborated by both ja.Wiktionary and Jisho; ja.Wiktionary's extra go-on ジュウ wasn't corroborated and was excluded. **`japanese_native` bug fixed**: the stored bare `かく` was a truncated fragment — both sources agree on two kun-yomi, `かく-れる` ("to hide/conceal") and `ちっ-する` (a suru-verb form); corrected and expanded, properly hyphenated. **Blank `joyo_level` filled**: `表外字` — cross-verified via multiple sources that despite carrying real, standard on'yomi and kun'yomi, 蟄 carries no jōyō or jinmeiyō classification (a Kanken 1級 character, the highest/most obscure proficiency tier, well above the jōyō-covering tiers; an AI-search-engine summary claiming 常用漢字 status was checked against Jisho and Kanjipedia directly and found unsupported — neither shows any formal grade/classification for this kanji) — **missing-entry bug fixed accordingly**, adding 蟄 to `lookup/Japanese/Hyōgai.md` as entry #312.
+
+`korean_native: 동면할` ("to hibernate") and `korean: 칩` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 칩 matches korean 칩 exactly); `Lookup/Korean/Korean Name ㅊ.md`'s `### 칩` subsection already lists 蟄 correctly. `middle_chinese_initial/final: ɖ`/`ɣiɪp` reconfirmed correct against `聲 澄`/`韻 緝B三` (both lookup pages, plus `SKIP-2-11-6`/`Stroke 17`/`HSK No`, already cited 蟄 correctly). Blank `pos` filled: `事詞` (an intransitive verb — "to hibernate").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format, adding the missing self stand-in citation (`stand_in: 蟄`). No Derived Characters (nothing names 蟄 as its own `graphemic_classification`); no Chengyu hits. Only the existing self stand-in [[蟄]] cites 蟄.
+
+**Citing word page [[蟄]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `trập`; missing `pos` field entirely → added `事詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 銹 (char) (7327; 918 characters remaining).
+
+### 2026-08-14, iteration 1587 — [[characters/銹 (char)|銹]]
+
+`mc_id: 8367` confirmed as legitimate long-tail data (銹 not found anywhere in `CC 0000`–`CC 3000.md`, consistent with the checklist's policy of trusting an existing above-4000 rank verbatim). **`graphemic_classification: 秀` confirmed correct** (形聲, semantic 金 "metal" + phonetic 秀, OC \*slus), via en.Wiktionary, independently corroborated by zh.Wiktionary's identical account (explicitly framing 銹 as "another way of writing 鏽/锈"). Existing aliases 鏽 (traditional) and 锈 (simplified) both reconfirmed correct via both sources; no further candidates.
+
+`vietnamese: tú` confirmed correct via hvdic, no contamination. **`japanese` gap filled**: both ja.Wiktionary and Jisho independently agree on two on-yomi, シュウ (kan-on) and シュ (go-on) — the stored `[SHUU]` was missing the corroborated `SHU`, added. `japanese_native: さび` confirmed correct (a bare nominal gloss, no hyphenation needed); ja.Wiktionary's extra verb form さ-びる wasn't corroborated by Jisho and was excluded.
+
+`korean_native: 녹슬` ("to rust") and `korean: 수` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅅ.md`'s `### 수` subsection already lists 銹 correctly. `middle_chinese_initial/final: s`/`ɨu` reconfirmed correct against `聲 心`/`韻 尤` (both lookup pages, plus `SKIP-1-8-7`/`Stroke 15`/`Old HSK 3`, already cited 銹 correctly). **Missing-entry bug fixed**: `joyo_level: 表外字` was already correctly set, but 銹 was entirely absent from `lookup/Japanese/Hyōgai.md` — added as entry #313. Blank `pos` filled: `名詞` (a concrete noun — "rust").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct (self stand-in `stand_in: 銹`). No Derived Characters (nothing names 銹 as its own `graphemic_classification`); no Chengyu hits. Two grep hits on other word pages ([[手]], [[痩]]) confirmed false positives — both are the citing word page [[銹]]'s own homophone-callout mentions, not `characters:` citations. Only the existing self stand-in [[銹]] cites 銹.
+
+**Citing word page [[銹]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `tú`; missing `pos` field entirely → added `名詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 鍍 (7328; 917 characters remaining).
+
+### 2026-08-14, iteration 1588 — [[characters/鍍|鍍]]
+
+`mc_id: 0` confirmed plausible (鍍 not found anywhere in `CC 0000`–`CC 3000.md`, consistent with a technical/craft term absent from classical prose). **`graphemic_classification: 度` confirmed correct** (形聲, semantic 金 "metal" + phonetic 度, Zhengzhang whole-character OC \*daː/\*daːɡs), via en.Wiktionary; existing simplified alias 镀 reconfirmed correct. **No alias added**: zh.Wiktionary's extra variant candidate, 塗, wasn't corroborated by en.Wiktionary, and 塗 is itself a full independent vault character with its own distinct meaning ("to spread, paint over") — excluded per the established "don't alias an independent character absent source agreement" policy.
+
+`vietnamese: độ` confirmed correct via hvdic, no contamination. `japanese: TO` confirmed correct as the sole corroborated on-yomi (ja.Wiktionary's extra go-on ド wasn't corroborated by Jisho and was excluded). `japanese_native: めっき` confirmed correct via both sources (a bare nominal gloss, no hyphenation needed).
+
+`korean_native: 도금할` ("to plate/gild") and `korean: 도` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 도 matches korean 도 exactly); `Lookup/Korean/Korean Name ㄷ.md`'s `### 도` subsection already lists 鍍 correctly. `middle_chinese_initial/final: d`/`uo` reconfirmed correct against `聲 定`/`韻 模` (both lookup pages, plus `SKIP-1-8-9`/`Stroke 17`/`Old HSK 4`, already cited 鍍 correctly). **Blank `joyo_level` filled**: `表外字` — cross-verified via a Japanese-language source (kanji.jitenon.jp) explicitly classifying 鍍 as 表外漢字 with a real reading (ト) and no jōyō/jinmeiyō status — **missing-entry bug fixed accordingly**, adding 鍍 to `lookup/Japanese/Hyōgai.md` as entry #314. Blank `pos` filled: `事詞` (a transitive verb — "to coat, gild, plate").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct. No Derived Characters (nothing names 鍍 as its own `graphemic_classification`); no Chengyu hits. One grep hit on another word page ([[杜金]]) confirmed a false positive — cites 杜, not 鍍, in its own `characters:` field; only the existing stand-in [[鍍金]] cites 鍍.
+
+**Citing word page [[鍍金]] reviewed, no bugs found**: already perfected (2026-05-15), `pos: 名詞` filled, `vietnamese: độ kim` a genuine attested compound, no duplicate `品詞` field — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 闊 (char) (7329; 916 characters remaining).
