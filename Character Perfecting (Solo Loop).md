@@ -425,3 +425,45 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 葺 (char) (7305; 935 characters remaining).
+
+### 2026-08-14, iteration 1570 — [[characters/葺 (char)|葺]]
+
+`mc_id: 5288` confirmed as legitimate long-tail data (葺 not found anywhere in `CC 0000`–`CC 3000.md`, consistent with the checklist's policy of trusting an existing above-4000 rank verbatim rather than blanking it). **`graphemic_classification: 咠` confirmed correct** (形聲, semantic [[Radical 140|艸]] + phonetic 咠), via en.Wiktionary (Zhengzhang OC whole character \*ʔsib/\*sʰib/\*zib, phonetic 咠 alone \*ʔsib/\*sʰib) and independently corroborated by zh.Wiktionary's own 系列#1452（咠）phonetic-family grouping.
+
+**Major `korean_native` bug fixed**: the stored `기울` is an unrelated Korean word ("bran"), with no connection to 葺's actual meaning — a Korean-language web search confirms the character's real 訓 (gloss) is "지붕 이을" ("to roof/thatch"), i.e. the attributive form of 이다/잇다 ("to thatch a roof") — corrected to `이을`, matching this vault's established convention of storing a bare attributive verb stem (e.g. [[characters/竄|竄]]'s `숨을`, [[characters/稟|稟]]'s `여쭐`).
+
+**`japanese_native` gap filled**: the stored `あし` was genuine but incomplete — both ja.Wiktionary and Jisho independently corroborate two further kun'yomi, `ふ-く` (verb, "to thatch," properly hyphenated) and `ふき` (its noun form) — added both alongside the existing `あし`, converting the field to a proper list. `japanese: SHUU` confirmed correct (both sources agree, go-on/kan-on identical, シフ historical spelling aside). `vietnamese: tập` confirmed correct via hvdic — notably listed under *both* Âm Hán Việt and Âm Nôm categories rather than flagging a contaminating separate Nôm form, the same "no correction needed" pattern seen on [[characters/舵 (char)|舵]]/[[characters/翔|翔]]/[[characters/肴 (char)|肴]]'s own readings, unlike the severe contamination found on [[characters/繞 (char)|繞]]/[[characters/羸|羸]].
+
+`korean: 즙` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅈ.md`'s `### 즙` subsection already lists 葺 correctly. `middle_chinese_initial/final: t͡sʰ`/`iɪp` reconfirmed correct against `聲 清`/`韻 緝A三` (both lookup pages, plus `SKIP-2-3-9`/`Stroke 12`/`Jinmeiyō`/`Radical 140`, already cited 葺 correctly). **Blank `hsk_level` bug fixed**: no `lookup/HSK/*.md` file cites 葺 anywhere — filled `無`. Blank `pos` filled: `事詞` (a transitive verb — "to roof/thatch [something]" — per 文法 - 97品詞's Eventive definition), matching the pattern used on similar action-meaning characters this session.
+
+**No alias added**: en.Wiktionary's alternative-forms list (𦱫, 𦲭) was not corroborated by zh.Wiktionary, which lists no 異體字 for 葺 at all — left as a genuine gap per the "only add if both sources agree" policy, same reasoning as [[characters/羸|羸]]'s and [[characters/纂|纂]]'s excluded candidates.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks floating with no bullet structure at all — no graphemic bullet, no SKIP/Stroke bullet, no MC-rank bullet, no levels bullet) to the standard format, adding the missing `## Words` section for the self stand-in (`stand_in: 葺`). No Derived Characters (nothing names 葺 as its own `graphemic_classification`); no Chengyu hits. Only the existing self stand-in [[葺]] cites 葺 as a constituent.
+
+**Citing word page [[葺]] (self stand-in) had two gaps fixed**: literal `vietnamese: null` placeholder → `tập`; `pos` field was missing entirely (not just blank) → added `事詞`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+(Session note: this iteration was done directly in the main conversation at the user's request, rather than delegated to a background subagent — the previous iteration's background agent had hit a session-limit error mid-run and was stopped; a fresh async agent launched for this character was then also stopped mid-flight so the work could be done visibly instead.)
+
+Next never-perfected character by `danayo_id`: 蠢 (7306; 934 characters remaining).
+
+### 2026-08-14, iteration 1571 — [[characters/蠢|蠢]]
+
+**`mc_id` off-by-one bug fixed** (3413 → 3414; confirmed against `CC 3000.md` line 435, where "3413. 惇" precedes "3414. 蠢"). **`graphemic_classification: 春` confirmed correct** (形声, semantic 䖵 "insects" + phonetic 春), via en.Wiktionary (whole-character Zhengzhang OC \*tʰjunʔ), independently corroborated by zh.Wiktionary's own 系列#0260（春）phonetic-family grouping. **New variant alias added**: 惷, confirmed genuine via both en.Wiktionary's alternative-forms list and zh.Wiktionary's explicit 異體字 box.
+
+**Major `vietnamese` contamination fixed**: the stored three-entry list (xoáy, xoẳn, xuẩn) was mostly spurious — hvdic's actual entry for 蠢 lists exactly one genuine Âm Hán Việt reading, `xuẩn`, with `xoáy` and `xoẳn` filed only under the separate Âm Nôm (Nôm-only) section; trimmed to `xuẩn` alone, independently corroborated by the citing word [[蠢動]]'s own already-correct `vietnamese: xuẩn động`.
+
+**`japanese_native` bug fixed**: the stored bare `うご` was a truncated, non-existent reading (not うごく "to move," a different kanji's word, and not a complete word on its own) — both ja.Wiktionary and Jisho independently confirm the actual sole kun-yomi is `うご-めく` ("to squirm/wriggle"), properly hyphenated; corrected. `japanese: SHUN` confirmed correct (both sources agree, go-on/kan-on identical). **Blank `joyo_level` filled**: `表外字` (real on'yomi/kun'yomi usage, confirmed absent from every Japanese level list in the vault) — **missing-entry bug fixed accordingly**, adding 蠢 to `lookup/Japanese/Hyōgai.md` as entry #309.
+
+`korean_native: 꿈틀거릴` ("to squirm/wriggle") reconfirmed correct as a good semantic match; `korean: 준` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅈ.md`'s `### 준` subsection already lists 蠢 correctly. `middle_chinese_initial/final: t͡ɕʰ`/`iuɪn` reconfirmed correct against `聲 昌`/`韻 諄` (both lookup pages, plus `SKIP-2-9-12`/`Stroke 21`/`Old HSK 3`, already cited 蠢 correctly); `syllables/ㄑㄨㄋ.md` also already correctly listed 蠢 among its three characters. Blank `pos` filled: `事詞` (a transitive/intransitive Eventive verb — "to squirm, wiggle"), matching the citing word page's own already-correct `事詞` classification.
+
+Rebuilt the malformed body (`## Words` section misplaced before `# Notes`; wrong heading level; two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format. No Derived Characters (nothing names 蠢 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[蠢動]] cites 蠢 as a constituent.
+
+**Citing word page [[蠢動]] (stand-in) had one bug fixed**: a redundant duplicate `品詞` field (identical value to `pos`), the same recurring pattern seen repeatedly this session.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+(Session note: this iteration was again done directly in the main conversation, per the user's standing request to see every step live rather than delegate to a background subagent.)
+
+Next never-perfected character by `danayo_id`: 袂 (char) (7307; 933 characters remaining).

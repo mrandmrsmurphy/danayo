@@ -310,6 +310,7 @@ tags: [lookup]
 306. [繞 (char)](../../characters/繞%20(char).md)
 307. [羸](../../characters/羸.md)
 308. [聘 (char)](../../characters/聘%20(char).md)
+309. [蠢](../../characters/蠢.md)
 
 
 [[../../characters/吠]] - barking DO IT
