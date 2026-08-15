@@ -1873,3 +1873,17 @@ Citing word page [[杪小]]'s missing `vietnamese` field investigated directly v
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 黼 (7413; 845 characters remaining).
+
+### 2026-08-15, iteration 1660 — [[characters/黼|黼]]
+
+`mc_id: 2697` reconfirmed correct against `CC 2000.md` (no off-by-one). **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `名詞`; `joyo_level` was blank despite en.Wiktionary explicitly classifying 黼 as hyōgai kanji — filled with `表外字`, with correspondingly missing `Hyōgai` and `Korean Name ㅂ` citations both added. `graphemic_classification: 甫` (already correct) and `vietnamese: phủ` (already filled, no Nôm line at all per hvdic — genuinely clean) both reconfirmed via en.Wiktionary and zh.Wiktionary.
+
+**`english` gloss bug found and fixed — a striking content error**: the stored gloss was `fufu` (an unrelated African food dish), while both en.Wiktionary and zh.Wiktionary agree 黼 denotes a black-and-white axe-shaped embroidery pattern on ceremonial robes, one of the Twelve Ornaments. Corrected to `axe-pattern embroidery`. **The identical `fufu` contamination was found on two more pages while investigating**: the citing word [[黼黻]] (both its `english` field and its own Etymology bullet glossed both component characters as "fufu") and [[characters/黻|黻]] itself (the very next character in this sweep, danayo_id 7414) — fixed the `english` field on both as a direct, minimal consequence fix, leaving 黻's full perfection pass for its own upcoming iteration.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced` and `HSK No`. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[黼黻]].
+
+Citing word page [[黼黻]]'s blank `vietnamese` field investigated directly via hvdic for the compound 黼黻 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 黻 (7414; 844 characters remaining).
