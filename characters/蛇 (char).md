@@ -58,8 +58,3 @@ There were two pronunciations in MC. We have chosen to _avoid_ the crowded **sa*
 ## Chengyu
 - <ruby>[[画蛇添足]]<rt>ㄏ⺢ㄎㄊㄚㄊㄝㄇㄐㄛㄎ</rt></ruby> "gild the lilies, making an unnecessary addition"
 
-## Derived Characters
-- <ruby>[[舵]]<rt>ㄉㄚ</rt></ruby> "rudder, helm"
-- <ruby>[[拖]]<rt>ㄊㄚ</rt></ruby> "drag, pull"
-- <ruby>[[陀]]<rt>ㄉㄚ</rt></ruby> "rough terrain"
-- <ruby>[[駝]]<rt>ㄉㄚ</rt></ruby> "humpbacked"

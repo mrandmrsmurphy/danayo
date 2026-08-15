@@ -1961,3 +1961,21 @@ Self word page [[騙]] checked and fixed four bugs: a blank `品詞:` field (emp
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 駝 (7419; 839 characters remaining).
+
+### 2026-08-15, iteration 1666 — [[characters/駝|駝]]
+
+`mc_id: 3992` reconfirmed correct against `CC 3000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `性詞`, matching the citing word [[駝背]]'s own `性詞` for the "hunchbacked" sense. **`graphemic_classification` bug found and fixed — the session's major recurring bug category, this time cascading across four characters**: stored as `蛇`, but both en.Wiktionary and zh.Wiktionary agree the true phonetic root is **它** (OC \*l̥ʰaːl), the original pictogram of a snake, with 蛇 itself being 它's own derivative (semantic [[Radical 142|虫]] + phonetic 它) — confirmed decisively by [[characters/蛇 (char)|蛇 (char)]]'s own existing Notes, which already states this explicitly. Corrected to `它`.
+
+**Cascading consequence check across the whole 它/蛇 phonetic family**: since 蛇 (char)'s own Notes prove 它 (not 蛇) is the shared root, every character citing 蛇 as its `graphemic_classification` was actually citing a sibling rather than the true root. Checked all four characters listed in 蛇 (char)'s `## Derived Characters` section — [[characters/舵 (char)|舵]] (already correctly `它` from an earlier iteration this session), [[characters/拖|拖]] and [[characters/陀|陀]] (both still wrongly stored `蛇`, both fixed to `它` as minimal consequence edits; neither is otherwise perfected yet), and 駝 itself. **Removed the entire `## Derived Characters` section from [[characters/蛇 (char)|蛇 (char)]]**, since none of the four are actually descendants of 蛇 — they're phonetic siblings via 它, one generation further back.
+
+**`vietnamese` gap filled — adding rather than removing**: the stored field held only `đà`, but hvdic's exact verbatim "Âm Hán Việt:" line gives two genuine readings, `trì, đà` (with `đà` also appearing under "Âm Nôm:", making it dual-classified rather than contaminated). Added the missing genuine `trì`.
+
+**`aliases` gap filled**: both en.Wiktionary and zh.Wiktionary agree on variant forms 駞, 𫘞, and 𩣾 alongside the already-present simplified 驼; confirmed none of the three have their own vault pages, so all three added.
+
+Rebuilt the malformed `# Notes` (wrong heading level, a stray ruby-formatted word citation standing in for a proper `## Words` section, two bare unlinked CC-lookup wikilinks) into the standard 4-bullet format, cross-referencing the shared 它 series via [[舵 (char)|舵]] and [[陀]] the same way [[舵 (char)|舵]]'s own Notes already do. Added the missing `## Words` section citing [[駝背]]. **Found and fixed a missing `Hyōgai` citation**: `joyo_level: 表外字` had no corresponding numbered entry in `Lookup/Japanese/Hyōgai.md` — added as new sequential item 344. `Korean Name ㅌ`'s `### 타` subsection already correctly cited 駝; no fix needed there.
+
+Citing word page [[駝背]] was already fully perfected (checked, no bugs found).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 饅 (7421; 838 characters remaining).
