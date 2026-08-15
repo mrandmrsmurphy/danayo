@@ -196,7 +196,7 @@ tags: [lookup]
 192. [茫](../../characters/茫.md)
 193. [虻](../../characters/虻.md)
 194. [謗](../../characters/謗.md)
-195. [剃 (char)](characters/剃%20(char).md)  
+195. [剃 (char)](../../characters/剃%20(char).md)
 196. [昧 (char)](../../characters/昧%20(char).md)
 197. [邁](../../characters/邁.md)
 198. [曼](../../characters/曼.md)

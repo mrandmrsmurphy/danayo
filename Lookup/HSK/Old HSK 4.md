@@ -1597,7 +1597,6 @@ tags: [lookup]
 [[潰 (char)]]: 1
 [[蹦]]: 1
 [[鼻 (char)]]: 1
-[涕](../../characters/剃%20(char).md): 1
 [彼 (char)](../../characters/彼%20(char).md): 1
 [币](../../characters/幣%20(char).md): 1
 [[幣 (char)]]: 1

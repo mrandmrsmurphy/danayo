@@ -49,7 +49,7 @@ These have all bee checked to see which are redirects
 菁 --> 青 [鯖](characters/鯖.md)
 
 ### 체 
-[締](characters/締%20(char).md) [諦](characters/諦%20(char).md) [切](characters/切%20(char).md) [剃](characters/剃%20(char).md) [涕](characters/剃%20(char).md) [[諟]]
+[締](characters/締%20(char).md) [諦](characters/諦%20(char).md) [切](characters/切%20(char).md) [剃](characters/剃%20(char).md) [[諟]]
 
 ### 초 
 [[樵]] [焦](characters/焦%20(char).md) [蕉](characters/蕉.md) [楚](characters/楚.md) [[剿]] [哨](characters/哨.md) [[憔]] [梢](characters/梢.md) [椒](characters/椒.md) [炒](characters/炒%20(char).md) [硝](characters/硝.md) [礁](characters/礁.md) [稍](characters/稍%20(char).md) [[苕]] [貂](characters/貂.md) [酢](characters/酢.md) [醋](characters/酢.md) [[醮]] [[岧]] [[釥]] [[俏]] [鍬](characters/鍬%20(char).md) 
