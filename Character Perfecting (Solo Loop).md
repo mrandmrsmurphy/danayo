@@ -1301,3 +1301,19 @@ Citing word page [[擱筆]] checked: `pos: 動詞` already filled (and now match
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 攀 (7367; 882 characters remaining).
+
+### 2026-08-14, iteration 1623 — [[characters/攀|攀]]
+
+**`mc_id` off-by-one fixed**: stored `3451`; the real line for 攀 is `3452`. **`pos` gap filled**: was blank, set to `事詞` — matched to the citing word [[攀縁]]'s own `事詞`, the correct formal transitive-verb leaf per `grammar/文法 - 97品詞.md` (unlike the non-leaf `実詞` value flagged as out-of-scope on [[characters/揶|揶]]'s citing word two iterations ago). **`graphemic_classification: 樊` reconfirmed correct** (形聲: semantic [[Radical 064|手]] "hand" + phonetic 樊, Zhengzhang OC \*pʰraːn from phonetic \*ban) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`aliases` gap filled**: both sources' labeled 異體字/alternative-form lists give exactly the same pair, 扳 and 㐴 — fully doubly corroborated; added both (confirmed neither has an independent vault page).
+
+**`vietnamese` gap filled with a second reading**: hvdic's exact verbatim "Âm Hán Việt:" line gives `phan, phàn`; unlike contamination cases, `phan` also appears under "Âm Nôm:" but `phàn` is not disqualified by anything — en.Wiktionary independently lists both as "Vietnamese Han Readings" without restricting either to a separate sense, and the character has only one Mandarin reading/meaning (pān, "climb") — so both were kept, the same same-sense-doublet judgment as [[characters/嵌|嵌]] and [[characters/墊 (char)|墊 (char)]].
+
+Rebuilt the malformed `## Notes` (two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 3`, `Hyōgai`, `Korean Name ㅂ` all already correct) — no lookup-page fixes needed this iteration. `## Words` section was already present and correct, citing the sole stand-in [[攀縁]].
+
+Citing word page [[攀縁]] checked: `pos: 事詞` already filled, no duplicate 品詞; its missing `vietnamese` field investigated directly via hvdic for the compound 攀縁 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 敲 (char) (7368; 881 characters remaining).
