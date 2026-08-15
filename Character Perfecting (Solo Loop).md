@@ -1427,3 +1427,65 @@ Self word page [[梳]] checked and fixed two of the standard recurring bugs: **`
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 歇 (7375; 874 characters remaining).
+
+### 2026-08-15, iteration 1631 — [[characters/歇|歇]]
+
+**`mc_id` off-by-one fixed**: stored `2617`; the real line for 歇 is `2618`. **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `性詞` (matching the citing word [[間歇]]'s own `性詞`); `joyo_level` was blank despite en.Wiktionary explicitly classifying 歇 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 328).
+
+**`graphemic_classification` bug found and fixed**: the stored value `喝` was wrong — both en.Wiktionary and zh.Wiktionary independently and explicitly identify the true phonetic component as [[曷]] (OC \*ɡaːd), a pageless character distinct from [[characters/喝 (char)|喝 (char)]] (which itself derives from 曷 with a different semantic radical, "shout, drink," and has its own independent vault page) — corrected to `曷`. Confirmed 喝 (char)'s own page had no stray cross-reference to clean up.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held six readings (hiết, hét, hít, hết, hớt, yết), but hvdic.thivien.net's exact verbatim transcription gives only `hiết, tiết, yết` under the genuine "Âm Hán Việt:" line, with `hét, hít, hết, hớt` all under "Âm Nôm:" — reduced to the three genuine readings, recovering the previously entirely-missing `tiết` (en.Wiktionary corroborates `hiết, yết` but doesn't mention `tiết` either way, so hvdic's dedicated Hán-Nôm split was trusted as the deciding source).
+
+Rebuilt the malformed `## Notes` (two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `Old HSK 2`, and `Korean Name ㅎ`. `## Words` section was already present and correct, citing the sole stand-in [[間歇]].
+
+Citing word page [[間歇]]'s blank `vietnamese` field investigated directly via hvdic for the compound 間歇 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 沐 (7376; 873 characters remaining).
+
+### 2026-08-15, iteration 1632 — [[characters/沐|沐]]
+
+**`mc_id` off-by-one fixed**: stored `1708`; the real line for 沐 is `1709`. **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `性詞` (matching the citing word [[沐浴]]'s own `性詞`); `joyo_level` was blank despite en.Wiktionary explicitly classifying 沐 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 329). **`korean_native` investigated but left blank**: could not find a corroborated 훈음 gloss on ko.Wiktionary or zh.Wiktionary's Korean section (only the bare sound-reading 목 was available anywhere) — left as a genuine gap rather than guessed. **`graphemic_classification: 木` reconfirmed correct** (形聲: semantic [[Radical 085|氵]] "water" + phonetic 木, Zhengzhang OC \*moːɡ) — the Notes wikilink needed correcting to `[[木 (char)|木]]`, since the actual vault page is filed as `木 (char).md`; confirmed its own `Derived Characters` section already correctly lists 沐.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held four readings (móc, múc, mốc, mộc), but hvdic.thivien.net's exact verbatim transcription (independently corroborated by en.Wiktionary) gives only `mộc` under the genuine "Âm Hán Việt:" line, with the other three exclusively under "Âm Nôm:". Reduced to the single genuine reading `mộc`. No aliases added — en.Wiktionary's only listed alternative form, 沭, is explicitly flagged as "erroneous" rather than a genuine variant.
+
+Rebuilt the malformed Notes (a stray unlinked "Dropped from the Korean HS list in 2000" fact-bullet, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format, folding the Korean-HS-list fact into the closing lookup-page bullet as a parenthetical rather than dropping it. Confirmed citation on `Grade Advanced`, `Old HSK 6`, and `Korean Name ㅁ` (its absence from `Korean HS.md` is consistent with the noted 2000 delisting, not a bug).
+
+Citing word page [[沐浴]] checked and found already clean (`pos: 性詞`, `vietnamese: mộc dục` both filled, no duplicate 品詞) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 渣 (char) (7377; 872 characters remaining).
+
+### 2026-08-15, iteration 1633 — [[characters/渣 (char)|渣 (char)]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel: 渣 does not appear anywhere in `CC 0000.md`–`CC 3000.md`. **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `名詞` ("dregs, lees, sediment" are concretely nominal); `joyo_level` was blank despite en.Wiktionary explicitly classifying 渣 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 330). Almost repeated the same ㅈ/ㅅ subsection mixup caught two iterations ago on [[characters/捷|捷]] — 渣's Korean reading 사 belongs under `ㅅ`, not `ㅈ`; checked the correct file first and confirmed it was already cited there.
+
+**`graphemic_classification: 査` reconfirmed correct**: en.Wiktionary names the phonetic as 查, but the vault's own [[characters/査|査]] page already lists 查 as its own doubly-established `aliases` entry — same character, different graphical form — so no discrepancy; confirmed [[characters/査|査]]'s own `Derived Characters` section already correctly lists 渣. `vietnamese: tra` (already filled) double-checked against hvdic's exact verbatim transcription — both "Âm Hán Việt:" and "Âm Nôm:" lines give `tra` identically, no contamination. Checked `aliases`: en.Wiktionary's "second-round simplified form" 泎 and zh.Wiktionary's labeled 異體字 溠 don't overlap at all, so neither was added; existing blank `aliases` correctly left as-is.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard `mc_id: 0` template. Confirmed citation on `Grade Advanced` and `Old HSK 3`. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[渣]] is a standalone word page — added the section citing it.
+
+Self word page [[渣]] checked and fixed two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `tra`, matching the character's own confirmed reading) and **missing `pos` field** (added `名詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 烝 (7379; 871 characters remaining).
+
+### 2026-08-15, iteration 1634 — [[characters/烝|烝]]
+
+**`mc_id` off-by-one fixed**: stored `2123`; the real line for 烝 is `2124`. **`pos`, `joyo_level`, and `korean_native` gaps all filled**: `pos` was blank, set to `名詞` (matching the citing word [[烝民]]'s own `名詞`); `joyo_level` was blank despite en.Wiktionary explicitly classifying 烝 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 331); `korean_native` was an empty string — filled with `김 오를` ("for steam to rise"), verified via ko.Wiktionary's own 훈음 gloss, using the same multi-word gloss format already established on [[characters/剃|剃]].
+
+**`graphemic_classification: 丞` reconfirmed correct** (形聲: semantic [[Radical 086|灬]] "fire" + phonetic 丞, Zhengzhang OC \*kljɯŋ/\*kljɯŋs from phonetic \*ɡljɯŋ "to raise") via en.Wiktionary; confirmed the Radical-086-displayed-as-灬 convention matches established precedent (e.g. [[characters/照 (char)|照 (char)]], [[characters/熟|熟]]).
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 㷥, 𤇶, 𩟘; zh.Wiktionary's explicitly-labeled 異體字: 㷥, 蒸) gives 㷥 as the sole doubly-corroborated candidate; added (confirmed no independent vault page). 蒸 — despite zh.Wiktionary calling it a variant — was excluded, since it has its own independent, actively-used vault page (the same phonetic-relation-vs-true-alias pattern flagged repeatedly this session).
+
+**`vietnamese` bug found and fixed — a subtler tone-mark error rather than Hán Việt/Nôm contamination**: the stored field held `chưng, chừng`, but hvdic.thivien.net's exact verbatim "Âm Hán Việt:" line gives `chưng, chứng` — the second reading's diacritic was wrong (huyền `chừng` instead of the correct sắc `chứng`); corrected. Both readings are genuinely Hán Việt per hvdic (its own "Âm Nôm:" line lists only `chưng`).
+
+Reordered the malformed page (Words section had been placed before Notes) and rebuilt the malformed Notes (wrong heading level, two bare unlinked CC-lookup wikilinks) into the standard 4-bullet-Notes-then-Words structure. Confirmed citation on `Grade Advanced`, `HSK No`, and `Korean Name ㅈ`.
+
+Citing word page [[烝民]]'s blank `vietnamese` field investigated directly via hvdic for the compound 烝民 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 焰 (7380; 870 characters remaining).
