@@ -8,20 +8,19 @@ japanese:
 japanese_native: たてがみ
 vietnamese:
   - liệp
-  - lạp
 middle_chinese_initial: l
 middle_chinese_final: "iᴇp"
 stroke_count: 25
 radical: "髟"
 skip_number: 2-10-15
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - mane
   - whiskers
 羅馬字: lob
 諺文: "롭"
-joyo_level: ""
+joyo_level: "表外字"
 hsk_level: "無"
 hanmun_edu_level: ""
 danayo_id: 7416
@@ -34,6 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
+date-last-perfect: 2026-08-15
 ---
 >[!tip] This is a page about the character 鬣.
 >For the word, see [鬣](words/鬣.md)
@@ -42,6 +42,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 葉三]]
+## Notes
+- 形声 (Zhengzhang OC \*rab): semantic [[Radical 190|髟]] ("hair") + phonetic [[巤]] (no standalone vault page).
+- [SKIP-2-10-15](lookup/SKIP/SKIP-2/SKIP-2-10-15.md) ([Stroke 25](lookup/Stroke/Stroke%2025.md))
+- 3632nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [ㄌㄛㄆ](syllables/ㄌㄛㄆ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄹ](Lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Words
+- <ruby>[[鬣]]<rt>ㄌㄛㄆ</rt></ruby> "mane, whiskers"

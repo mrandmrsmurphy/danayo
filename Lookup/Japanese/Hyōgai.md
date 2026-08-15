@@ -342,6 +342,9 @@ tags: [lookup]
 338. [柬 (char)](../../characters/柬%20(char).md)
 339. [杪](../../characters/杪.md)
 340. [黼](../../characters/黼.md)
+341. [黻](../../characters/黻.md)
+342. [鹸 (char)](../../characters/鹸%20(char).md)
+343. [鬣 (char)](../../characters/鬣%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT

@@ -64,7 +64,7 @@ These have all been checked for redirects.
  [[汾]] [芬](characters/芬.md) [盆 (char)](characters/盆%20(char).md) [[吩]] [噴](characters/噴.md) [忿](characters/憤.md) [扮 (char)](characters/扮%20(char).md) [[昐]] [焚](characters/焚.md) [糞 (char)](characters/糞%20(char).md) [賁](characters/賁.md) [雰](characters/雰.md) 
 
 ### 불 
- [彿](characters/彿.md) [弗](characters/弗.md) 
+ [彿](characters/彿.md) [弗](characters/弗.md) [黻](characters/黻.md)
 
 ### 붕 
  [鵬](characters/朋.md) [棚 (char)](characters/棚%20(char).md) [硼](characters/硼.md) [繃](characters/繃.md) 

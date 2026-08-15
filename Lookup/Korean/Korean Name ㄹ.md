@@ -45,6 +45,9 @@ All of these have been checked for redirects.
 ### 렴 
 [[濂]] [簾](characters/簾.md) [斂](characters/㪘%20(char).md) [[殮]] 
 
+### 렵
+[鬣 (char)](characters/鬣%20(char).md)
+
 ### 령 
 [伶](characters/伶.md) [玲](characters/玲.md) [[姈]] [[昤]] [鈴](characters/鈴%20(char).md) [齡](characters/齢.md) [怜](characters/憐.md) [囹](characters/令%20(char).md) [笭](characters/笭.md) [羚](characters/羚.md) [[翎]] [[聆]] [逞](characters/逞%20(char).md) [[泠]] [澪](characters/澪.md) [岭](characters/嶺.md)
 

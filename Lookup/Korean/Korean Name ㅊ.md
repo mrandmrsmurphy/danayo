@@ -40,7 +40,7 @@ These have all bee checked to see which are redirects
 [澈](characters/澈.md) [撤](characters/撤%20(char).md) [轍](characters/綴%20(char).md) [綴](characters/綴%20(char).md) [凸](characters/凸%20(char).md) [輟](characters/綴%20(char).md) [[悊]] [[瞮]]
 
 ### 첨 
-[僉](characters/㑒.md) [瞻](characters/瞻.md) [[沾]] [[簽]] [[籤]] [詹](characters/瞻.md) [諂](characters/諂%20(char).md) [甜](characters/甜.md)
+[僉](characters/㑒.md) [瞻](characters/瞻.md) [[沾]] [[簽]] [[籤]] [詹](characters/瞻.md) [諂](characters/諂%20(char).md) [甜](characters/甜.md) [鹸 (char)](characters/鹸%20(char).md)
 
 ### 첩 
 [帖](characters/帖%20(char).md) [捷](characters/捷.md) [[堞]] [牒](characters/牒.md) [疊](characters/畳%20(char).md) [[睫]] [諜](characters/諜.md) [貼](characters/貼%20(char).md) [輒](characters/輒.md) 

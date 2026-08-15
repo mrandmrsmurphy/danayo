@@ -1887,3 +1887,47 @@ Citing word page [[黼黻]]'s blank `vietnamese` field investigated directly via
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 黻 (7414; 844 characters remaining).
+
+### 2026-08-15, iteration 1661 — [[characters/黻|黻]]
+
+`mc_id: 3082` reconfirmed correct against `CC 3000.md` (no off-by-one). **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `名詞`; `joyo_level` was blank despite en.Wiktionary explicitly classifying 黻 as hyōgai kanji — filled with `表外字`, with correspondingly missing `Hyōgai` and `Korean Name ㅂ` citations both added. `graphemic_classification: 犮` reconfirmed correct (形聲: semantic [[Radical 204|黹]] "embroidery" + phonetic 犮, Zhengzhang OC \*pud). `vietnamese: phất` (already filled) reconfirmed correct — hvdic gives only `phất` as Hán Việt with no Nôm line at all, genuinely clean.
+
+Independently corroborated the `english` fix applied to this character one iteration ago (on [[characters/黼|黼]]'s turn, as a direct consequence fix replacing a stray "fufu" placeholder): en.Wiktionary's own definition for 黻 — "an embroidered figure in black and blue resembling 亞 ... one of the Twelve Ornaments" — matches the corrected `亞-pattern embroidery` gloss exactly. No aliases added: en.Wiktionary's sole variant candidate (𦓗) wasn't corroborated by zh.Wiktionary, which has no labeled 異體字 section at all for this character.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced` and `HSK No`. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[黼黻]]. **Found and fixed a missing `## Derived Characters` section entirely on [[characters/犮|犮]]** (a much later, not-yet-perfected character in the sweep, danayo_id 8765) while verifying the phonetic link — added, citing 黻.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 鹸 (char) (7415; 843 characters remaining).
+
+### 2026-08-15, iteration 1662 — [[characters/鹸 (char)|鹸 (char)]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel: 鹸/鹼/碱 don't appear anywhere in `CC 0000.md`–`CC 3000.md`. `pos: 性詞` (already filled) confirmed appropriate. **`graphemic_classification: 㑒` reconfirmed correct** (形聲: semantic [[Radical 197|鹵]] "salt" + phonetic 㑒, a shinjitai simplification of traditional 鹼) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`japanese_native` malformed-YAML bug fixed**: the stored value mixed a bare scalar (`あ`) with an orphan list item (`- あく`) under the same key — both Jisho and general confirmation agree on a single genuine kun-yomi, あ.く (aku); fixed to the properly hyphenated `あ-く`.
+
+**`vietnamese` gap filled — an unusual case, adding rather than removing readings**: the stored field held only `kiềm`, but hvdic's exact verbatim "Âm Hán Việt:" line gives three genuine readings — `dảm, kiềm, thiêm` — with no "Âm Nôm:" line at all to suggest contamination. Added the two missing genuine readings.
+
+**`hsk_level` bug found and fixed**: stored as `無`, but a stray unformatted Notes fragment ("HSK/3, 이름") turned out to be a leftover, never-applied edit note — cross-checked against `lookup/HSK/Old HSK 3.md`, which does list 鹸 (via its aliases 碱/鹼) — corrected `hsk_level` to `"3"` to match, treating this as an incomplete-edit bug rather than the separate-tracking-mechanism pattern seen elsewhere this session, since the stray note itself signals original intent.
+
+Rebuilt the malformed `## Notes` (the stray HSK/이름 fragment, a bare numbered list instead of proper bullets, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`. **Found and fixed three missing citations**: `Old HSK 3` bullet added now that `hsk_level` is corrected; `Hyōgai`, which already had a variant-redirect note ("鹼 --> 鹸") but no numbered entry for 鹸 itself — added as new sequential item 342 (the same pattern caught on [[characters/屏|屏]] earlier this session); and `Korean Name ㅊ`'s `### 첨` subsection, which was missing 鹸 entirely. **Found and fixed an entirely missing `## Words` section**: added, citing both the `stand_in` self-word [[鹸]] and the existing, already-perfected [[鹸素]] (sodium). **Found and fixed a missing `### Descendants` entry on [[characters/㑒|㑒]]** (a later, not-yet-perfected character, danayo_id 8735) — added 鹸 alongside its existing 検 entry, matching that page's own established subsection heading style rather than introducing a different one.
+
+Self word page [[鹸]] checked and fixed two bugs: a duplicate `品詞: 性詞` field exactly redundant with `pos: 性詞` (removed), and an "akali"/"akalai" typo for "alkali" in both `english` and the prose Notes (corrected both instances). [[鹸素]] was already fully perfected and required no changes.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 鬣 (char) (7416; 842 characters remaining).
+
+### 2026-08-15, iteration 1663 — [[characters/鬣 (char)|鬣 (char)]]
+
+`mc_id: 3632` reconfirmed correct against `CC 3000.md` (no off-by-one). **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `名詞` ("mane, whiskers"); `joyo_level` was blank despite en.Wiktionary explicitly classifying 鬣 as hyōgai kanji — filled with `表外字`, with correspondingly missing `Hyōgai` and `Korean Name ㄹ` citations both added (the latter required creating an entirely new `### 렵` subsection, alphabetically slotted between the existing `### 렴` and `### 령`). **`graphemic_classification: 巤` reconfirmed correct** (形聲: semantic [[Radical 190|髟]] "hair" + phonetic 巤, Zhengzhang OC \*rab) via en.Wiktionary and zh.Wiktionary agreement; zh.Wiktionary's only 異體字 candidate was 巤 itself (the pageless phonetic already correctly cited, not a separate alias), so no new aliases were added.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `liệp, lạp`, but hvdic's exact verbatim transcription gives only `liệp` under the genuine "Âm Hán Việt:" line, with `lạp` appearing exclusively under "Âm Nôm:". Reduced to the single genuine reading `liệp`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced` and `HSK No`. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[鬣]] is a standalone word page — added the section citing it.
+
+Self word page [[鬣]] checked and fixed three bugs: a blank `品詞:` field (an empty duplicate of the equally-blank `pos:` — removed entirely rather than filling both, since only one canonical field is needed), **missing `pos` value** (filled `名詞`), and **blank `vietnamese`** (filled `liệp`, matching the character's own corrected reading).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 鬚 (7417; 841 characters remaining).
