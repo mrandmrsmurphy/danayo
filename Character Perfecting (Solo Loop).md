@@ -1269,3 +1269,35 @@ Citing word page [[掏摸]] checked: `pos: 動詞` already filled, no duplicate 
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 揶 (7365; 884 characters remaining).
+
+### 2026-08-14, iteration 1621 — [[characters/揶|揶]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel: 揶 does not appear anywhere in `CC 0000.md`–`CC 3000.md`. **`pos` gap filled**: was blank, set to `動詞` (a transitive "to ridicule/mock," consistent with the same choice made on [[characters/屠|屠]] and [[characters/掏|掏]] earlier this session) — deliberately not matched to the citing word [[揶揄]]'s own stored `実詞`, since checking `grammar/文法 - 97品詞.md` confirmed 実詞 (Content Words) is a non-leaf parent category in the formal taxonomy, not a valid leaf `pos` value; that word page's own value looks like a separate, out-of-scope bug for the word-sweep to fix later. **`graphemic_classification: 耶` reconfirmed correct** (形聲: semantic [[Radical 064|手]] "hand" + phonetic 耶, Zhengzhang OC \*laː) via en.Wiktionary — the Notes wikilink needed correcting to `[[耶 (char)|耶]]`, since the actual vault page is filed as `耶 (char).md`.
+
+**`vietnamese` gap filled — an unusual case with no Nôm contamination**: the field was entirely blank; hvdic.thivien.net's exact verbatim "Âm Hán Việt:" line gives two readings, `da, gia`, with no "Âm Nôm:" line present at all. Cross-checked against the compound 揶揄 itself, which hvdic shows read both "da du" and "gia du" — confirming both are genuine alternate Hán Việt readings of the same sense, not a contamination or polyphony split. Filled with both.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 擨, 捓; zh.Wiktionary's explicitly-labeled 異體字: 捓 only) gives 捓 as doubly corroborated; added (confirmed no independent vault page). 擨 was single-source, excluded.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard `mc_id: 0` template. Confirmed citation on `Grade Advanced` and `Hyōgai`; **found and fixed a broken citation on `Korean Name ㅇ`**: its `### 야` subsection already had an entry, but as a bare `[[捓]]` wikilink to 揶's own alias, which has no page of its own (a red link) — replaced with a proper link to 揶's actual page. Confirmed [[characters/耶 (char)|耶 (char)]]'s own `Derived Characters` section already correctly lists 揶 — no further fix needed there.
+
+Citing word page [[揶揄]] checked: its blank `vietnamese` field investigated directly via hvdic for the compound 揶揄 — no formally-labeled "Âm Hán Việt:" line found for the compound itself (only informal component-reading transcriptions), confirming a genuine gap; left untouched. Its `pos: 実詞` non-leaf-taxonomy issue was noted but not touched, being out of scope for this character-only iteration.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 擱 (7366; 883 characters remaining).
+
+### 2026-08-14, iteration 1622 — [[characters/擱|擱]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel. **Two malformed-YAML frontmatter bugs fixed**: `japanese_native` held an invalid mix of a bare scalar (`お`) followed by an orphan list item (`- おく`) under the same key — verified via both ja.Wiktionary and Jisho that this character has exactly one kun-yomi, お-く (oku), and fixed the field to that single hyphenated value. `vietnamese` held a single string `"gác, các"` with an embedded comma instead of a proper YAML list — split apart during the same edit that fixed its contents (see below).
+
+**`vietnamese` contamination bug found and fixed**: hvdic.thivien.net's exact verbatim transcription shows the genuine "Âm Hán Việt:" line as `các` only, with `gác` appearing exclusively under "Âm Nôm:" — reduced to just `các`. **`pos` inconsistency fixed**: was `性詞`, but the citing word [[擱筆]]'s own `pos: 動詞` and the plainly transitive/action sense ("to lay down the pen, stop writing") both point to `動詞`; corrected to match. **`graphemic_classification: 閣` reconfirmed correct** (形聲: semantic [[Radical 064|手]] "hand" + phonetic 閣, Zhengzhang OC \*klaːɡ) via en.Wiktionary and zh.Wiktionary agreement; zh.Wiktionary's labeled 異體字 section also listed 閣 itself as a "variant," but since 閣 has its own independent, actively-used vault page ("chamber, pavilion, cabinet") — the same phonetic-relation-vs-true-alias pattern as [[characters/屏|屏]] (摒) and [[characters/墊 (char)|墊 (char)]] (簟) — it was not added as an alias; the existing `搁` (simplified form, doubly corroborated) was left as the sole alias.
+
+**Found and fixed the identical Vietnamese contamination bug on [[characters/閣|閣]] itself** while researching 擱's phonetic component: 閣's own stored `vietnamese: [các, gác]` had the exact same Nôm-layer `gác` contaminating the field (confirmed directly via hvdic for 閣) — fixed to `[các]` despite that page already being `date-last-perfect`-stamped from 2026-08-08, evidently predating this session's contamination-checking practice. **Found and fixed a missing `## Derived Characters` section entirely on [[characters/閣|閣]]** — added it, citing 擱.
+
+Rebuilt the malformed `## Notes` (a bare "MC pronunciation assumed to be the same as 閣" placeholder note plus two unlinked CC-lookup wikilinks) to the standard `mc_id: 0` template. **Found and fixed two missing citations**: `Hyōgai` (added as new sequential item 324) and `Korean Name ㄱ`'s `### 각` subsection (added). Confirmed citation on `Grade Advanced` and `Old HSK 2` (the latter via the established dual traditional/simplified dual-listing pattern, not a bug). `## Words` section was already present and correct, citing the sole stand-in [[擱筆]].
+
+Citing word page [[擱筆]] checked: `pos: 動詞` already filled (and now matches the corrected character `pos`), no duplicate 品詞; its missing `vietnamese` field investigated directly via hvdic for the compound 擱筆 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 攀 (7367; 882 characters remaining).

@@ -7,7 +7,7 @@ This has been checked for redirects.
 [嘉](characters/嘉.md) [嫁](characters/嫁.md) [稼](characters/稼.md) [賈](characters/賈.md) [駕](characters/駕.md) [伽](characters/伽.md) [迦](characters/珈.md) [柯](characters/柯.md) [哥](characters/歌.md) [[枷]] [珂](characters/珂.md) [痂](characters/加.md) [苛](characters/苛.md) [茄](characters/茄.md) [袈](characters/珈.md) [[訶]] [跏](characters/加.md) 軻 [哿](characters/加.md) 
 
 ### 각 
-珏 恪 [殼](characters/殻.md) [愨](characters/愨.md)
+珏 恪 [殼](characters/殻.md) [愨](characters/愨.md) [擱](characters/擱.md)
 
 ### 간 
 [艮](characters/艮.md) [侃](characters/侃.md) [[杆]] [[玕]] [竿](characters/竿.md) [揀](characters/揀.md) [諫](characters/諌.md) [墾](characters/墾.md) [[栞]] [奸](characters/姦.md) [柬](words/柬.md) [[澗]] [[磵]] [[稈]] [艱](characters/艱.md) [癇](characters/癇.md)

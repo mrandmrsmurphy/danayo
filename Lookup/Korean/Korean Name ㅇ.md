@@ -34,7 +34,7 @@ All have been checked for redirects.
 [[鶯]] [櫻](characters/桜%20(char).md) [[罌]] [鸚](characters/鸚.md) 
 
 ### 야 
-[冶](characters/冶.md) 倻! [惹](characters/惹.md) [椰](characters/椰.md) [爺](characters/爺.md) [若](characters/若%20(char).md) [[捓]]
+[冶](characters/冶.md) 倻! [惹](characters/惹.md) [椰](characters/椰.md) [爺](characters/爺.md) [若](characters/若%20(char).md) [揶](characters/揶.md)
 
 ### 약 
 [[葯]] [[蒻]]
