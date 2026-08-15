@@ -1539,3 +1539,53 @@ Self word page [[趨]] checked and fixed two of the standard recurring bugs: **`
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 讐 (7383; 867 characters remaining).
+
+### 2026-08-15, iteration 1638 — [[characters/讐|讐]]
+
+`mc_id: 1138` reconfirmed correct, with a wrinkle: 讐 itself doesn't appear anywhere in `CC 0000.md`–`CC 3000.md`, but rank 1138 correctly indexes its own alias 讎 instead — both forms represent the same word, so this is a genuine clean match, not a bug. **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[私讐]]'s own `名詞`.
+
+**`graphemic_classification: 雔` reconfirmed correct** (形聲: semantic [[言 (char)|言]] "speech, words" + phonetic 雔) — an initial en.Wiktionary fetch had reversed which component was semantic vs. phonetic, but re-querying zh.Wiktionary directly confirmed the vault's stored value was right all along and the first fetch was a summarization error, not a genuine discrepancy. Existing alias `讎` reconfirmed correct — zh.Wiktionary explicitly states 讐 is itself a 異體字 of 讎, matching the vault's own alias-direction choice.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held two readings (cừu, thù), but hvdic.thivien.net's exact verbatim transcription gives only `thù` under the genuine "Âm Hán Việt:" line, with `cừu` appearing exclusively under "Âm Nôm:" (en.Wiktionary's own listing doesn't distinguish the two layers, so hvdic's dedicated split was decisive). Reduced to the single genuine reading `thù`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `Hyōgai`, and `Korean Name ㅅ` (already correctly listed under both alias forms) — no lookup-page fixes needed. `## Words` section was already present and correct, citing the sole stand-in [[私讐]]. Left the blank `boundedness` field untouched — it reflects an internal corpus-frequency metric with no external source to verify or derive it from, unlike the other recurring bug patterns this session.
+
+Citing word page [[私讐]] checked and found already fully clean (`pos: 名詞`, `vietnamese: tư thù` both filled) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 㪘 (char) (7385; 866 characters remaining).
+
+### 2026-08-15, iteration 1639 — [[characters/㪘 (char)|㪘 (char)]]
+
+`mc_id: 1153` reconfirmed correct, with the same alias-indexing pattern seen on [[characters/讐|讐]] last iteration: 㪘 itself doesn't appear in `CC 0000.md`–`CC 3000.md`, but rank 1153 correctly indexes its traditional form 斂 instead. **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `動詞`, matching the already-perfected citing word [[㪘]]'s own `動詞`; `joyo_level` was blank despite en.Wiktionary explicitly classifying 㪘 as hyōgai kanji (an "extended shinjitai" form) — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 333).
+
+**`japanese_native` hyphenation fixed**: stored as the un-hyphenated `おさめる`, corrected to `お-さめる` per the vault's stem-plus-okurigana convention. **`graphemic_classification: 㑒` reconfirmed correct** (形聲: semantic [[Radical 066|攴]] "strike, tap" + phonetic 㑒, itself a shinjitai-simplified stand-in for 僉, the phonetic used in the traditional form 斂) — confirmed 㑒 has its own distinct vault page with the matching reading (qiān), ruling out a bogus phonetic citation.
+
+**`vietnamese` bug found and fixed — both a malformed-YAML issue and contamination**: the stored field held a single string `"kiếm, liễm, liệm"` (a comma-embedded scalar, not a proper list) instead of separate list items; querying hvdic for the traditional form 斂 gives genuine "Âm Hán Việt:" readings `liễm, liệm`, with `kiếm` appearing exclusively under "Âm Nôm:" — fixed to a proper two-item list `[liễm, liệm]`, matching the already-perfected citing word [[㪘]]'s own single `liễm` reading as a subset.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 歛, 㪘 itself, 敛; zh.Wiktionary's explicitly-labeled 異體字: 敛, 歛) gives 歛 as newly doubly corroborated (alongside the already-present, already-correct 斂 and 敛); added 歛 (confirmed no independent vault page).
+
+Reordered the malformed page (Words section had been placed before Notes) and rebuilt the malformed Notes (two bare unlinked CC-lookup wikilinks) into the standard 4-bullet-Notes-then-Words structure. Confirmed citation on `Grade Advanced` and `Korean Name ㄹ`. Left the blank `boundedness` and `hsk_level` fields untouched — neither is contradicted by any lookup page, and both reflect internal metrics with no external source to verify.
+
+Self word page [[㪘]] was already fully perfected (`date-last-perfect: 2026-07-26`) and required no changes.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 仍 (char) (7386; 865 characters remaining).
+
+### 2026-08-15, iteration 1640 — [[characters/仍 (char)|仍 (char)]]
+
+`mc_id: 2122` reconfirmed correct against `CC 2000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `副詞` ("yet, still," a bare adverbial sense). **`graphemic_classification: 乃` reconfirmed correct** (形聲: semantic [[Radical 009|亻]] "person" + phonetic 乃, Zhengzhang OC \*njɯŋ) via en.Wiktionary and zh.Wiktionary agreement — the Notes wikilink needed correcting to `[[乃 (char)|乃]]`, since the actual vault page is filed as `乃 (char).md`.
+
+**`vietnamese` contamination bug found and fixed — the most extreme case this session**: the stored field held eleven readings (dưng, dừng, nhang, nhùng, nhăng, nhưng, nhẳng, nhẵng, nhừng, nhửng, những), but hvdic.thivien.net's exact verbatim transcription gives only `nhưng` under the genuine "Âm Hán Việt:" line — every other stored value, including the very common function word `những` ("several/many," wholly unrelated), was Nôm-layer or unattested noise. Reduced to the single genuine reading `nhưng`.
+
+**Found and fixed the identical severe contamination bug on [[characters/乃 (char)|乃 (char)]] itself** while verifying the phonetic link: its own stored `vietnamese` held eight readings (bèn, náy, nãi, nãy, nải, nảy, nấy, nới), but hvdic's exact verbatim transcription gives the genuine Hán Việt readings as `nãi, ái` — only `nãi` was among the stored values, `ái` was entirely missing, and `bèn` wasn't attested at all. Fixed to `[nãi, ái]`, despite that page already being `date-last-perfect`-stamped from 2026-07-02, evidently predating this session's contamination-checking practice (matching the same pattern found on [[characters/員|員]]/[[characters/運|運]] and [[characters/閣|閣]] earlier). **Also found and fixed a missing `## Derived Characters` section entirely on 乃 (char)** — added, citing 仍.
+
+Rebuilt a heavily malformed page: the Notes section held only two bare unlinked CC-lookup wikilinks, and after a correct `## Words` bullet for the `stand_in` [[仍]], the page continued with several un-headered/loosely-headered prose paragraphs and two ad hoc "## Semantic contrast" / "## Style contrast" sections comparing 仍 to [[仍旧]] — a second, genuine citing word that was never actually added to the Words list itself. Rebuilt the standard 4-bullet Notes, added [[仍旧]] as a second `## Words` entry with a condensed version of the comparison note, and removed the redundant duplicate prose (the same comparison content already lives properly in [[仍旧]]'s own Notes). Confirmed citation on `Grade Advanced`, `Old HSK 2`, and `Korean Name ㅇ`; **found and fixed a missing `Hyōgai` citation** — added as new sequential item 334.
+
+Self word page [[仍]] was already fully perfected (`pos: 副詞` filled, stamped 2026-07-01) but was missing a `vietnamese` field entirely — added `nhưng`, matching the character's own corrected reading, as a direct consequence fix.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 嬌 (7387; 864 characters remaining).

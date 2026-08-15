@@ -9,14 +9,8 @@ japanese:
   - NAI
 japanese_native: の
 vietnamese:
-  - bèn
-  - náy
   - nãi
-  - nãy
-  - nải
-  - nảy
-  - nấy
-  - nới
+  - ái
 middle_chinese_initial: n
 middle_chinese_final: ʌi
 stroke_count: 2
@@ -61,3 +55,6 @@ boundedness: 90
 
 ## Words
 - <ruby>[[乃]]<rt>ㄋㄚㄧ</rt></ruby> "but; then; as it turned out"
+
+## Derived Characters
+- <ruby>[[仍 (char)|仍]]<rt>ㄋㄧㄫ</rt></ruby> "yet, still"

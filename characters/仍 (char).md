@@ -8,24 +8,14 @@ japanese:
   - NYOU
 japanese_native: よ
 vietnamese:
-  - dưng
-  - dừng
-  - nhang
-  - nhùng
-  - nhăng
   - nhưng
-  - nhẳng
-  - nhẵng
-  - nhừng
-  - nhửng
-  - những
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "ɨŋ"
 stroke_count: 4
 radical: "人"
 skip_number: 1-2-2
 grade_level: "先進"
-pos: ""
+pos: 副詞
 english:
   - yet
   - still
@@ -44,26 +34,18 @@ kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-15
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 蒸]]
+- 形声 (Zhengzhang OC \*njɯŋ): semantic [[Radical 009|亻]] ("person") + phonetic [[乃 (char)|乃]] (OC \*nɯːʔ) — likely a terminative derivation from 二 ("two"), literally "to get done twice/again."
+- [SKIP-1-2-2](lookup/SKIP/SKIP-1/SKIP-1-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
+- 2122nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄋㄧㄫ](syllables/ㄋㄧㄫ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[仍]]<rt>ㄋㄧㄫ</rt></ruby> "yet, still" (stand-in)
-
-
-**仍** is the shorter, more abstract core form; **仍旧** is the fuller, more explicitly adverbial form meaning “still, as before, nevertheless” in a slightly more marked or literary register.
-
-## Semantic contrast
-
-- **仍** tends to feel like the bare continuity marker: “still,” “yet,” “continue to.”
-- **仍旧** reinforces that same idea, often with a stronger sense of persistence across time: “still as before,” “unchanged,” “nevertheless.”
-## Style contrast
-
-- **仍** is tighter, more classical, and more flexible for grammatical design.
-- **仍旧** feels heavier, more transparent, and a bit more emphatic or literary.
+- <ruby>[[仍旧]]<rt>ㄋㄧㄫㄍ⼜ㄛ</rt></ruby> "still, as before, unchanged" — the fuller, more explicitly literary form of the bare 仍
