@@ -1143,3 +1143,49 @@ Citing/self word page [[屑]] checked and found two of the standard recurring bu
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 屠 (7356; 892 characters remaining).
+
+### 2026-08-14, iteration 1613 — [[characters/屠|屠]]
+
+`mc_id: 1342` reconfirmed correct against `CC 1000.md` (a rare clean check, no off-by-one). **`pos` gap filled**: was blank, set to `動詞` to match the citing word [[屠殺]]'s own `動詞` and the character's primary "to slaughter" sense. **`graphemic_classification: 者` reconfirmed correct** (形聲: semantic [[Radical 044|尸]] "body" + phonetic 者, Zhengzhang OC \*daː) via en.Wiktionary and zh.Wiktionary agreement — but the Notes wikilink needed correcting to `[[者 (char)|者]]`, since the actual vault page is filed as `者 (char).md`, not `者.md`.
+
+**`vietnamese: đồ` reconfirmed correct and deliberately left as the sole reading**, mirroring the same judgment call made on [[characters/屏|屏]] two iterations ago: hvdic.thivien.net's exact verbatim "Âm Hán Việt:" line gives two readings (`chư, đồ`), but en.Wiktionary confirms 屠 is polyphonic — tú "slaughter" (→ đồ) is the primary reading this page covers, while a separate, rare chú/ceoi4 reading exists but is restricted solely to the place/tribe name 休屠 (Xiūchú) — so `chư` was correctly withheld as belonging to an unrelated sense, not added.
+
+No variant forms found by either source, so the existing blank `aliases` field is a genuine "no variants" state, not a gap. Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Hyōgai`, `Korean Name ㄷ` all already correct) and confirmed [[者 (char)|者 (char)]]'s own `## Derived Characters` section already correctly lists 屠 — no further fixes needed. `## Words` section was already present and correct, citing the sole stand-in [[屠殺]].
+
+Citing word page [[屠殺]] checked and found already fully clean (`pos: 動詞` filled, no duplicate 品詞, `vietnamese`/other fields all filled) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 嵌 (7357; 891 characters remaining).
+
+### 2026-08-14, iteration 1614 — [[characters/嵌|嵌]]
+
+`mc_id: 9661` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `動詞` to match the citing word [[嵌入]]'s own `動詞`. **`graphemic_classification: 歁` reconfirmed correct** (形聲: semantic [[Radical 046|山]] "mountain" + abbreviated phonetic 歁, OC \*sɡaːmʔ/\*kʰraːm) via en.Wiktionary; zh.Wiktionary's summary claiming a simple 甘 phonetic was judged a shallower/less accurate WebFetch read and not followed.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 篏, 廞/𫷷; zh.Wiktionary's explicitly-labeled 異體字 section: 㘛, 廞, 篏) gives 篏 and 廞 as doubly corroborated; added both (confirmed neither has an independent vault page). 㘛 and 𫷷 were each single-source only, excluded per policy.
+
+**`vietnamese` gap filled with a second reading**: hvdic's exact verbatim "Âm Hán Việt:" line gives `khâm, khảm`; unlike the polyphonic-with-distinct-sense cases on [[characters/屏|屏]] and [[characters/屠|屠]] (where a second hvdic reading was deliberately withheld), en.Wiktionary confirms 嵌's two Mandarin readings (qiàn/qiān) sit under the *same* Etymology 1 entry with no sense differentiation — i.e., these are dialectal/tonal doublets of one meaning, the same situation as [[characters/墊 (char)|墊 (char)]] — so `khâm` was added alongside the existing `khảm`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format, using the `mc_id`-as-real-rank template (distinct from the `mc_id: 0` "confirmed absent" template used on e.g. [[characters/埠|埠]]). Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Hyōgai`, `Korean Name ㄱ` all already correct) — no lookup-page fixes needed. `## Words` section was already present and correct, citing the sole stand-in [[嵌入]].
+
+Citing word page [[嵌入]] checked: `pos: 動詞` already filled, no duplicate 品詞; its missing `vietnamese` field investigated directly via hvdic for the compound 嵌入 — no attested entry found, confirming a genuine gap rather than a bug; left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 彷 (7358; 890 characters remaining).
+
+### 2026-08-14, iteration 1615 — [[characters/彷|彷]]
+
+`mc_id: 4178` is above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `性詞`, matching the same stative-gloss convention used elsewhere in the vault for a bare "resemble"-type sense. **`graphemic_classification: 方` reconfirmed correct** (形聲: semantic [[Radical 060|彳]] "step, walk" + phonetic 方) via en.Wiktionary and zh.Wiktionary agreement; caught and fixed a wrong wikilink target in the process — the phonetic character's actual vault page is `方.md`, not `方 (char).md`.
+
+**`vietnamese` contamination bug found and fixed — the significant catch this iteration**: the stored field held five readings (bàng, phảng, phẳng, phỏng, vưởng), but hvdic.thivien.net's exact verbatim transcription shows only `bàng, phảng` under the genuine "Âm Hán Việt:" line — the other three (phẳng, phỏng, vưởng) are listed exclusively under "Âm Nôm:", the vernacular-reading line, and do not belong in this field at all. Removed all three Nôm-layer readings, keeping only the two confirmed Hán Việt ones; en.Wiktionary independently corroborates `phảng`.
+
+Checked `aliases` carefully: en.Wiktionary's alternative-form note for this specific fǎng-reading etymology gives 髣, while zh.Wiktionary's explicitly-labeled `異體字` section gives only 妨 — the two sources' lists don't overlap at all, so per the dual-corroboration policy neither was added; existing blank `aliases` field is correctly left blank, not a gap.
+
+Rebuilt the malformed `## Notes` (two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format, adding a clarifying note on the character's two etymologically-separate Mandarin readings (páng "wander" vs. fǎng "resemble," the latter relevant to this page's `stand_in`). Confirmed citation on all four closing-bullet lookup pages and confirmed [[方]]'s own `## Derived Characters` section already correctly lists 彷 — no further fixes needed. `## Words` section was already present and correct, citing the sole stand-in [[彷彿]]. Noted in passing (but did not touch, per one-character-per-iteration scope) that the cranberry co-character [[characters/彿|彿]] shares an identical still-blank `pos` and is not yet perfected — a future iteration's task.
+
+Citing word page [[彷彿]] checked: `pos: 副詞` already filled, no duplicate 品詞; its missing `vietnamese` field investigated directly via hvdic for the compound 彷彿 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 恰 (char) (7359; 889 characters remaining).
