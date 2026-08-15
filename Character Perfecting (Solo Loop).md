@@ -1847,3 +1847,29 @@ Self word page [[巴]] checked and fixed the identical bugs found on the charact
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 鼎 (char) (7410; 847 characters remaining).
+
+### 2026-08-15, iteration 1658 — [[characters/鼎 (char)|鼎 (char)]]
+
+`mc_id: 836` reconfirmed correct against `CC 0000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `名詞`, matching the already-perfected self word page [[鼎]]'s own `名詞`. `graphemic_classification: 象形` (already correct, a genuine pictogram depicting an ancient tripod cauldron) reconfirmed via en.Wiktionary and zh.Wiktionary agreement.
+
+**`vietnamese` contamination bug found and fixed, independently pre-corroborated**: the stored field held four readings (đềnh, đểnh, đễnh, đỉnh), but hvdic's exact verbatim transcription gives only `đỉnh` under the genuine "Âm Hán Việt:" line, with `đềnh` under "Âm Nôm:" and `đểnh`/`đễnh` unattested anywhere. Reduced to `đỉnh` — this exact conclusion was already independently reached and documented in [[words/鼎|鼎]]'s own Notes, which explicitly called out the character page's "noisier 4-item stored set" and picked `đỉnh` as the genuine reading; today's fix simply applies that already-correct reasoning to the character page itself. No aliases added: en.Wiktionary's and zh.Wiktionary's variant lists (𣇓 vs. 𪔂/㫀/鼑/鐤) don't overlap at all.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format, preserving the pre-existing `## Chengyu` section. Confirmed citation on `Grade Advanced`, `HSK No`, `Jinmeiyō`, and `Korean Name ㅈ`. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[鼎]] is a standalone word page, already fully perfected and explicitly anticipating this exact fix (its own Notes flagged 鼎 (char) as "a tenth character page found in this state this sweep") — added the section citing it.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 杪 (7412; 846 characters remaining).
+
+### 2026-08-15, iteration 1659 — [[characters/杪|杪]]
+
+`mc_id: 4806` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `名詞` ("treetop, extremity" — deliberately not matched to the citing word [[杪小]]'s own `性詞`, since that compound uses 杪 in an extended figurative-adjectival sense while the character's own primary gloss is nominal); `joyo_level` was blank despite en.Wiktionary explicitly classifying 杪 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 339). `hsk_level`/`hanmun_edu_level` left blank as genuine alternate-convention gaps, not contradicted by any lookup page. **`graphemic_classification: 少` reconfirmed correct** (形聲: semantic [[木 (char)|木]] "wood" + phonetic 少, per the character's own 說文解字 gloss "the utmost end of a tree") via en.Wiktionary and zh.Wiktionary agreement.
+
+**`vietnamese` bug found and fixed — a tone-mark/contamination hybrid**: the stored field held `diễu, miểu`, but hvdic's exact verbatim transcription reveals the genuine "Âm Hán Việt:" reading is actually `diểu` (hỏi tone), not the stored `diễu` (ngã tone) — which turns out to be the *Nôm* form instead. Corrected to `[diểu, miểu]`, both genuinely Hán Việt per hvdic. No aliases found by either source.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks, a stray bullet holding the sole Words-section entry) to the standard 4-bullet format plus a proper `## Words` section. Confirmed citation on `Grade Advanced`; **found and fixed a missing `Korean Name ㅊ` citation** — its `### 초` subsection had no entry at all; added.
+
+Citing word page [[杪小]]'s missing `vietnamese` field investigated directly via hvdic for the compound 杪小 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 黼 (7413; 845 characters remaining).
