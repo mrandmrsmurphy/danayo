@@ -320,6 +320,7 @@ tags: [lookup]
 316. [僵](../../characters/僵.md)
 317. [冕](../../characters/冕.md)
 318. [埠](../../characters/埠.md)
+319. [墊 (char)](../../characters/墊%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT

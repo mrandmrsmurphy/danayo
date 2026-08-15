@@ -1071,3 +1071,17 @@ Citing word page [[埠頭]] checked: `pos: 名詞` already filled; its blank `vi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 墊 (char) (7351; 897 characters remaining).
+
+### 2026-08-14, iteration 1608 — [[characters/墊 (char)|墊 (char)]]
+
+`mc_id: 4368` is above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, so per policy it's trusted long-tail data and left unverified/unchanged. **`graphemic_classification: 執` reconfirmed correct** (形聲: semantic [[Radical 032|土]] "earth" + phonetic 執, Zhengzhang OC \*diːb from phonetic \*tjib) via en.Wiktionary. Existing alias `垫` (simplified form) reconfirmed correct — both en.Wiktionary and zh.Wiktionary corroborate it as the sole reliably-doubly-attested variant; zh.Wiktionary's own "異體字" list for this page turned out to be a bundle of unrelated near-homophones/synonyms (including 簟, "bamboo mat," a wholly distinct character), so nothing further was added from it per the dual-corroboration policy.
+
+**`vietnamese` gap found and filled**: the stored single reading `điếm` was correct but incomplete — hvdic.thivien.net's exact verbatim "Âm Hán Việt:" line gives *two* readings, `điếm, điệp`; added `điệp` as a second value. (`điếm`'s own homophone-collision caveat vs. the unrelated vulgar word from 店 was already thoroughly documented in the citing word page's own Notes — see below — and needed no further action here.)
+
+Rebuilt the malformed `# Notes` (wrong heading level, stray leftover "needed dib" reminder line, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Checked all four closing-bullet lookup pages: `Grade Advanced` (dynamic Base query, fine) and `Old HSK 3` (already cites 墊, via a pre-existing dual-entry pattern — one via alias 垫, one via direct wikilink — confirmed this dual-listing is a widespread, consistent convention across dozens of other characters in that file, not a page-specific bug, so left untouched) needed no fix; **found and fixed two missing citations**: added as new sequential item 319 in `lookup/Japanese/Hyōgai.md`, and added to the existing `### 점` subsection of `Lookup/Korean/Korean Name ㅈ.md`. No Derived Characters citing 墊 as their own phonetic; no Chengyu hits.
+
+This character's `stand_in` is itself — [[墊]] is a standalone word page, not a bound compound. Checked it and found it **already fully perfected** (stamped `date-last-perfect: 2026-07-27`): its Notes already contain a detailed, correct explanation of why the word's own `vietnamese: đệm` deliberately diverges from the character's formal Hán Việt `điếm` (a documented homophone collision with an unrelated vulgar word tracing to 店) — left entirely untouched, no edit needed.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 寓 (7352; 896 characters remaining).

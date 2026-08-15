@@ -42,7 +42,7 @@ These have been checked for redirects
 [[晢]] [截](characters/截.md) [[浙]] [[癤]] 
 
 ### 점
-[[岾]] [粘 (char)](characters/粘%20(char).md) [[霑]]-->沾 [鮎 (char)](characters/鮎%20(char).md)
+[[岾]] [粘 (char)](characters/粘%20(char).md) [[霑]]-->沾 [鮎 (char)](characters/鮎%20(char).md) [墊 (char)](characters/墊%20(char).md)
 
 ### 접
 [摺](characters/折.md) 
