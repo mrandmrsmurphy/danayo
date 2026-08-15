@@ -326,6 +326,7 @@ tags: [lookup]
 322. [拱 (char)](../../characters/拱%20(char).md)
 323. [掏](../../characters/掏.md)
 324. [擱](../../characters/擱.md)
+325. [斟](../../characters/斟.md)
 
 
 [[../../characters/吠]] - barking DO IT

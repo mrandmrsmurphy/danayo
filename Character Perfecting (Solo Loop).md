@@ -1317,3 +1317,37 @@ Citing word page [[攀縁]] checked: `pos: 事詞` already filled, no duplicate 
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 敲 (char) (7368; 881 characters remaining).
+
+### 2026-08-15, iteration 1624 — [[characters/敲 (char)|敲 (char)]]
+
+`mc_id: 6526` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `事詞` (transitive "to knock/tap something," the correct formal taxonomy leaf). **`graphemic_classification: 高` reconfirmed correct** (形聲: semantic [[Radical 066|攴]] "to strike, tap" + phonetic 高, Zhengzhang OC \*kʰraːw/\*kʰraːws) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/高 (char)|高 (char)]]'s own `Derived Characters` section already correctly lists 敲.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held three readings (sao, xao, xào), but hvdic.thivien.net's exact verbatim transcription gives only `xao` under the genuine "Âm Hán Việt:" line — `sao` is Nôm-only, and `xào` wasn't attested by hvdic at all. Reduced to the single genuine reading `xao`.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary's Etymology-1 set: 㪣, 毃, 䯨, 摮, 𣫁; zh.Wiktionary's explicitly-labeled 異體字: 㪣, 䯨, 搞, 摮, 毃) gives four doubly-corroborated forms — 㪣, 䯨, 摮, 毃 — added all four (confirmed none has an independent vault page). `搞` (zh-only — also a very common independent character, "to do/make," a likely false-positive of the same phonetic-relation type flagged repeatedly this session) and `𣫁` (en-only) were excluded.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[敲]] is a standalone word page — added the section citing it.
+
+Self word page [[敲]] checked and fixed two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `xao`, matching the character's own corrected reading) and **missing `pos` field** (added `事詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 斟 (7369; 880 characters remaining).
+
+### 2026-08-15, iteration 1625 — [[characters/斟|斟]]
+
+`mc_id: 2898` reconfirmed correct against `CC 2000.md` (a rare clean check, no off-by-one). **`pos` gap filled**: was blank, set to `事詞`, matching the citing word [[斟酌]]'s own `事詞`. **`graphemic_classification: 甚` reconfirmed correct** (形聲: semantic [[Radical 068|斗]] "dipper, cup" + phonetic 甚, Zhengzhang OC \*kljum) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/甚|甚]]'s own `Derived Characters` section already correctly lists 斟.
+
+**`joyo_level` and `hsk_level` both found blank/wrong and fixed**: `joyo_level` was an empty string despite en.Wiktionary explicitly classifying 斟 as hyōgai kanji (non-jōyō, non-jinmeiyō) — filled with `表外字`, and added the correspondingly-missing `Hyōgai` citation (new sequential item 325). `hsk_level` was stored as `"6"`, but the character is also manually listed on `lookup/HSK/HSK No.md` (the vault's curated "no official HSK level" list) — a direct contradiction. Resolved the same way as the [[characters/嚢|嚢]]/[[characters/墊 (char)|墊 (char)]] precedent earlier this session: 斟's own citation on `Old HSK 6.md` almost certainly reflects its appearance *within* the HSK6 vocabulary compound [[斟酌]], not an official standalone designation for the bare character — corrected `hsk_level` to `無`.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held four readings (cham, châm, chơm, chầm), but hvdic.thivien.net's exact verbatim transcription gives only `châm` under the genuine "Âm Hán Việt:" line, with `cham` appearing exclusively under "Âm Nôm:" and `chơm`/`chầm` not attested anywhere at all (likely pure contamination or typos). Reduced to the single genuine reading `châm`.
+
+Checked `aliases`: zh.Wiktionary's explicitly-labeled 異體字 section gives 㪸 and 酙 (酙 — with the 酉 "alcohol" radical — fits the "pour wine" sense particularly well), but en.Wiktionary's only listed alternative forms (漛, 滕) are explicitly scoped to a wholly separate Southern Min Etymology 2, not this character's sense — zero overlap between the two sources, so nothing was added; existing blank `aliases` correctly left as-is.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks, a stray bullet holding the Words-section content) to the standard 4-bullet format plus a proper `## Words` section, citing the sole stand-in [[斟酌]]. Confirmed citation on `Grade Advanced` and `Korean Name ㅈ`.
+
+Citing word page [[斟酌]] checked: `pos: 事詞` already filled; its blank `vietnamese` field investigated directly via hvdic for the compound 斟酌 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 昂 (7370; 879 characters remaining).
