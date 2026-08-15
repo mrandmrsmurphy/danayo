@@ -971,3 +971,57 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 喧 (7344; 903 characters remaining).
+
+### 2026-08-14, iteration 1602 — [[characters/喧|喧]]
+
+`mc_id: 4323` confirmed as legitimate long-tail data (喧 not found anywhere in `CC 0000`–`CC 3000.md`, above the checklist's trusted-verbatim threshold). **`graphemic_classification: 宣` confirmed correct** (形聲, semantic 口 "mouth" + phonetic 宣, Zhengzhang whole-character OC \*qʰʷan), via en.Wiktionary. **New variant alias added**: 吅, confirmed genuine via both en.Wiktionary's and zh.Wiktionary's independent variant lists; zh.Wiktionary's further candidates 諠/咺 weren't corroborated by en.Wiktionary and were excluded.
+
+**`stand_in` bug fixed** (`喧喿` → `喧嘩`): the stored compound 喧喿 doesn't exist anywhere in the vault as a word file, and a web search found no evidence it's an attested Chinese word at all (only tangentially-related terms like 喧嘩/喧譁/喧闐 surfaced, all built on different second characters) — meanwhile [[喧嘩]] is a real, well-attested, already-perfected word (2026-08-04) that genuinely cites 喧 as a constituent and was already correctly listed in `## Words`. Corrected the `stand_in` field to point at the real compound rather than an apparently fictitious one.
+
+`vietnamese: huyên` confirmed correct via hvdic, no contamination. `japanese: KEN` confirmed correct as the sole doubly-corroborated on-yomi (ja.Wiktionary's extra go-on コン wasn't corroborated by Jisho and was excluded). **`japanese_native` gap filled**: the stored bare `やかま` was a truncated fragment — both sources independently agree on two full kun-yomi, `やかまし-い` ("noisy") and `かまびすし-い` ("clamorous"); expanded to a proper hyphenated list.
+
+`korean_native: 지껄일` ("to clamor, chatter") and `korean: 훤` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅎ.md`'s `### 훤` subsection already lists 喧 correctly. `middle_chinese_initial/final: x`/`ʉɐn` reconfirmed correct against `聲 曉`/`韻 元合` (both lookup pages — the latter's own page independently notes 喧 as a lone-member ㄏㄛㄋ slot that a would-be same-final sibling, 亘, is forced to dodge via a w-glide addition — plus `SKIP-1-3-9`/`Stroke 12`/`Jinmeiyō`, already cited 喧 correctly). **Blank `hsk_level` bug fixed**: no `lookup/HSK/*.md` file cites 喧 anywhere — filled `無`. Blank `pos` filled: `性詞` (a stative/adjectival quality — "noisy, clamorous").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct (citing the now-corrected stand-in [[喧嘩]]). No Derived Characters (nothing names 喧 as its own `graphemic_classification`); no Chengyu hits.
+
+**Citing word page [[喧嘩]] reviewed, no bugs found**: already perfected (2026-08-04), with rich comparative prose across all five languages already in place — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 呕 (7345; 902 characters remaining).
+
+### 2026-08-14, iteration 1603 — [[characters/呕|呕]]
+
+**`mc_id` off-by-one bug fixed** (1913 → 1914; confirmed against `CC 1000.md` line 954-955, where "1913. 芳" precedes "1914. 嘔"). **`graphemic_classification: 区` confirmed correct** (形聲, semantic 口 "mouth" + phonetic 區/区, Zhengzhang whole-character OC \*qoːʔ — a distinct etymology from the character's rarer "sing/hum" sense, \*qoː), via en.Wiktionary. Fixed a broken link within the rebuilt graphemic bullet itself (phonetic component page is `characters/区.md`, not `区 (char).md`).
+
+**`aliases` field carefully re-verified, one entry removed**: the stored `歐` is genuinely confirmed by en.Wiktionary as the historical "original form" specifically of 呕/嘔's *vomiting* sense — but investigation revealed this exact character is *already* independently claimed as an alias on a separate, pre-existing vault page, [[𧦅]] (danayo_id 7336, "eulogize, praise"), whose own alias list (謳/赞/讴/歐/欧, set 2026-02-01) represents this vault's own established prior decision about which character owns 歐/欧 — and `Lookup/Korean/Korean Name ㄱ.md`'s own `### 구` subsection already links 歐 to 𧦅's page, not 呕's, consistently with that decision. Rather than re-litigating an existing cross-character assignment as a side effect of this iteration, left 歐 off 呕's own alias list to avoid creating a genuine ownership conflict between two vault pages — flagging this as a real ambiguity worth a dedicated future look, not a settled call. **New alias added**: 㰶, confirmed genuine via both en.Wiktionary and zh.Wiktionary; existing alias 嘔 (already correctly cited elsewhere) and the previously-stored 𠴰 (uncorroborated by zh.Wiktionary, removed) were both re-verified.
+
+**Major `vietnamese` gap filled**: hvdic's entry for 呕/嘔 lists three genuine Âm Hán Việt readings — `hú`, `âu`, `ẩu` — but only `ẩu` was stored; added the two missing readings. **Major `japanese`/`japanese_native` bugs fixed**: cross-referencing ja.Wiktionary (Goon ウ/ク, Kan'on オウ/ク; kun-yomi は-く/むかつ-く/うた-う) against Jisho (on'yomi オウ/ク only, no ウ; same three kun'yomi) — `U` was corroborated only by ja.Wiktionary and was dropped; the missing `KU` (corroborated by both) was added. The stored `japanese_native: うたう` was genuine but severely incomplete and unhyphenated — both sources agree on three kun-yomi covering both of the character's senses, `は-く`/`むかつ-く` (vomit, nausea) and `うた-う` (sing, the character's rarer secondary sense) — expanded to a proper hyphenated list rather than dropping the "sing" reading as an apparent mismatch, since it's genuinely attested for this exact polysemous character.
+
+`korean_native: 게울` ("to vomit/regurgitate") and `korean: 구` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㄱ.md`'s `### 구` subsection already lists 呕 (via alias 嘔) correctly. `middle_chinese_initial/final: ʔ`/`əu` reconfirmed correct against `聲 影`/`韻 侯` (both lookup pages, plus `SKIP-1-3-11`/`Stroke 14`/`Old HSK 4`, already cited 呕 correctly); `joyo_level: 表外字` also already correctly supported by `lookup/Japanese/Hyōgai.md`'s existing `嘔-->呕` redirect entry. `pos: 性詞` (already filled) confirmed appropriate — no change.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct. No Derived Characters (nothing names 呕 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[呕吐]] cites 呕.
+
+**Citing word page [[呕吐]] reviewed, no bugs found**: already perfected (2026-08-04), with its own detailed prose already documenting a prior content-bug fix on this exact character pair — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 嘩 (7346; 901 characters remaining).
+
+### 2026-08-14, iteration 1604 — [[characters/嘩|嘩]]
+
+`mc_id: 5368` confirmed as legitimate long-tail data (嘩 not found anywhere in `CC 0000`–`CC 3000.md`, above the checklist's trusted-verbatim threshold). **`graphemic_classification: 華` confirmed correct** (形聲, semantic 口 "mouth" + phonetic 華, Zhengzhang whole-character OC \*ɡʷraː), via en.Wiktionary. **New variant alias added**: 譁, confirmed genuine via both en.Wiktionary and zh.Wiktionary (explicitly given as the primary traditional-form pairing, "正體/繁體: 嘩/譁"); existing simplified alias 哗 reconfirmed correct.
+
+**`stand_in` field investigated and reconfirmed correct, unlike the near-identical case on [[characters/喧|喧]] one iteration ago**: no word file for 嘩然 exists in the vault yet, initially raising the same suspicion as 喧's own bogus 喧喿 stand-in — but a web search this time confirms 嘩然 (huárán) *is* a genuinely attested classical/modern Chinese term ("an uproar; to cause a sensation, widely discussed"), unlike 喧喿, which had no attestation anywhere. Left `stand_in: 嘩然` unchanged as a real but not-yet-created word, a genuine gap for the word-sweep rather than a data bug to fix here — while still adding the character's actual existing citing word, [[喧嘩]] (already perfected, genuinely citing 嘩 as a constituent), to `## Words` per the checklist's completeness requirement.
+
+`vietnamese: hoa` confirmed correct via hvdic, no contamination. **`japanese` field reconfirmed correct**: both `KA` and `KE` are doubly corroborated by ja.Wiktionary and Jisho. **`japanese_native` bug fixed**: bare unhyphenated `かまびす` corrected to properly hyphenated `かまびす-しい` ("clamorous, noisy"), confirmed via both sources.
+
+`korean_native: 떠들썩할` ("noisy, boisterous") and `korean: 화` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 화 matches korean 화 exactly). `middle_chinese_initial/final: x`/`ɣua` reconfirmed correct against `聲 曉`/`韻 麻二合` (both lookup pages, plus `SKIP-1-3-12`/`Stroke 15`/`Jinmeiyō`/`Old HSK 3`, already cited 嘩 correctly). **Blank `hanmun_edu_level` bug fixed**: no `Lookup/Korean/*.md` file cites 嘩 anywhere — filled `無` (`lookup/Korean/Korean Missing.md` being a pure dataview auto-query, no manual list entry needed). Blank `pos` filled: `性詞` (a stative/adjectival quality — "clamorous, noisy").
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets, no `## Words` section) to the standard format. No Derived Characters (nothing names 嘩 as its own `graphemic_classification`); no Chengyu hits.
+
+**Citing word page [[喧嘩]] reviewed, no bugs found**: already perfected (2026-08-04) — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 嚢 (7347; 900 characters remaining).
