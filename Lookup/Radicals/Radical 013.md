@@ -1,5 +1,5 @@
 ---
-size: 5
+size: 6
 date-last-perfect: 2026-07-08
 radical: 冂
 tags: [lookup]
@@ -15,6 +15,7 @@ tags: [lookup]
 3. <ruby>[冊](/characters/冊%20(char).md)<rt>ㄑㄚㄎ</rt></ruby> - book
 4. <ruby>[再](/characters/再.md)<rt>ㄐㄚㄧ</rt></ruby> - twice
 5. <ruby>[㒼](/characters/㒼.md)<rt>ㄇㄚㄇ</rt></ruby> - cover
+6. <ruby>[冕](/characters/冕.md)<rt>ㄇ⼶ㄋ</rt></ruby> - crown
 
 ## Data check
 ```dataview

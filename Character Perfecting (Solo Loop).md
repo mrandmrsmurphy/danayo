@@ -917,3 +917,39 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 僻 (7341; 906 characters remaining).
+
+### 2026-08-14, iteration 1599 — [[characters/僻|僻]]
+
+**`mc_id` off-by-one bug fixed** (2021 → 2022; confirmed against `CC 2000.md` line 26-27, where "2021. 婚" precedes "2022. 僻"). **`graphemic_classification: 辟` confirmed correct** (形聲, semantic 人 "person" + phonetic 辟, Zhengzhang whole-character OC \*pʰeɡ/\*pʰeːɡ), via en.Wiktionary. **No alias added**: en.Wiktionary's extra candidates 𠈳/𠒱 weren't corroborated by zh.Wiktionary (which lists no variants at all), and its third candidate, 辟, is itself already an independent vault character — excluded.
+
+**`vietnamese` gap filled**: hvdic's entry for 僻 lists two genuine Âm Hán Việt readings, `tích` and `tịch`, but only `tịch` was stored — added the missing `tích` (this required careful re-verification: an initial imprecise WebFetch summary falsely claimed `tịch` was Nôm-only, but a follow-up exact-transcription query confirmed both readings genuinely appear under Âm Hán Việt, the same "listed in both categories" pattern seen elsewhere, not contamination — the same caution pattern applied on [[characters/倭|倭]] two iterations ago).
+
+**Major `japanese` and `japanese_native` bugs fixed**: cross-referencing ja.Wiktionary (Goon ヒ/ヒャク, Kan'on ヒ/ヘキ, kun'yomi ひが-む only) against Jisho (on'yomi ヘキ/ヒ/ヘイ, kun'yomi へき-する/ひが-む) — `HEI` was corroborated only by Jisho and was dropped per this session's established policy; the stored `japanese_native: へき` was a genuine bug, not a real reading at all in either source on its own (Jisho's only へき-adjacent form is the suru-verb へき-する, itself uncorroborated by ja.Wiktionary) — corrected to the one kun-yomi both sources agree on, `ひが-む` ("to be biased, warped").
+
+`korean_native: 궁벽할` ("remote, out-of-the-way") and `korean: 벽` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `Lookup/Korean/Korean Name ㅂ.md`'s `### 벽` subsection already lists 僻 correctly. `middle_chinese_initial/final: pʰ`/`iᴇk` reconfirmed correct against `聲 滂`/`韻 昔開` (both lookup pages — the latter's own page independently documents 僻's own final as an unusual "double-shift" escape case, borrowing the aspirated ㄆ letter as if from a pʰ-initial despite its true b-initial ancestry — plus `SKIP-1-2-13`/`Stroke 15`/`Hyōgai`/`Old HSK 4`, already cited 僻 correctly). Blank `pos` filled: `性詞` (a stative/adjectival quality — "remote, far away").
+
+Rebuilt malformed `## Notes` (correct heading level already present, but only two bare unlinked CC-lookup wikilinks with no bullet structure at all) to the standard four-bullet format; `## Words` section was already present and correct. No Derived Characters (nothing names 僻 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[窮僻]] cites 僻.
+
+**Citing word page [[窮僻]] reviewed, no bugs found**: already perfected (2026-06-03), `pos: 性詞` filled with no duplicate `品詞` field — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 冕 (7342; 905 characters remaining).
+
+### 2026-08-14, iteration 1600 — [[characters/冕|冕]]
+
+**`mc_id` off-by-one bug fixed** (1843 → 1844; confirmed against `CC 1000.md` line 880-881, where "1843. 鴈" precedes "1844. 冕"). **`graphemic_classification: 免` confirmed correct** (形聲, semantic 冂 + phonetic 免, Zhengzhang whole-character OC \*mronʔ), via en.Wiktionary.
+
+**Major `radical` bug fixed** (`冖` → `冂`): en.Wiktionary explicitly gives 冕's true Kangxi radical as 13 (冂, "enclosure/open frontier"), not 14 (冖, "cover") as stored — these are two visually similar but genuinely distinct radicals, and the vault's own `Lookup/Radicals/Radical 013.md` page's own prose independently confirms 冂 covers "characters relating to enclosure... and things bound or wrapped," a better semantic fit for a crown than the "cloth draped over something" gloss on Radical 014's own page. **Three cascading missing/wrong-entry bugs fixed as a direct consequence**: 冕 was wrongly listed under `Lookup/Radicals/Radical 014.md` (冖, entry #8 of 9) — removed and the remaining entries renumbered/shifted (`size: 9` → `8`); added to the correct `Lookup/Radicals/Radical 013.md` page instead (`size: 5` → `6`); and `Lookup/Radicals/Radicals.md`'s own summary line counts for both radicals corrected to match (013: 5→6 characters; 014: 9→8 characters).
+
+**`vietnamese` contamination fixed**: hvdic's actual entry for 冕 lists only `miện` under Âm Hán Việt, filing the stored second entry `mịn` under Âm Nôm only — removed (this required an exact-transcription re-query per the now-established practice of not trusting an imprecise first-pass summary). `japanese: [BEN, MEN]` and `japanese_native: かんむり` both confirmed correct via both sources, no changes. **Blank `joyo_level` filled**: `表外字` — confirmed via a Japanese-language web search explicitly classifying 冕 as 表外漢字 (not 常用 or 人名用) — **missing-entry bug fixed accordingly**, adding 冕 to `lookup/Japanese/Hyōgai.md` as entry #317.
+
+`korean_native: 면류관` ("ceremonial crown") and `korean: 면` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 면 matches korean 면 exactly); `Lookup/Korean/Korean Name ㅁ.md`'s `### 면` subsection already lists 冕 correctly. `middle_chinese_initial/final: m`/`ɣiᴇn` reconfirmed correct against `聲 明`/`韻 仙B三開` (both lookup pages, plus `SKIP-2-2-9`/`Stroke 11`/`HSK No`, already cited 冕 correctly). Blank `pos` filled: `名詞` (a concrete noun — "crown").
+
+Rebuilt malformed `## Notes` (correct heading level already present, but only two bare unlinked CC-lookup wikilinks with no bullet structure at all) to the standard four-bullet format; `## Words` section was already present and correct. No Derived Characters (nothing names 冕 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[冠冕]] cites 冕.
+
+**Citing word page [[冠冕]] reviewed, no bugs found**: already perfected (2026-06-03), `pos: 名詞` filled with no duplicate `品詞` field — left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 剃 (char) (7343; 904 characters remaining).

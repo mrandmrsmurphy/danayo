@@ -318,6 +318,7 @@ tags: [lookup]
 314. [鍍](../../characters/鍍.md)
 315. [侏](../../characters/侏.md)
 316. [僵](../../characters/僵.md)
+317. [冕](../../characters/冕.md)
 
 
 [[../../characters/吠]] - barking DO IT

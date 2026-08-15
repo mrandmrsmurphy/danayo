@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 9
+size: 8
 radical: 冖
 tags: [lookup]
 
@@ -25,11 +25,8 @@ tags: [lookup]
 6. <ruby>[冤](../../characters/冤.md)<rt>ㄛㄋ</rt></ruby> - injustice
 7. <ruby>[冥](../../characters/冥%20(char).md)<rt>ㄇㄝㄫ</rt></ruby> - dark
 
-### +9 Strokes
-8. <ruby>[冕](../../characters/冕.md)<rt>ㄇ⼶ㄋ</rt></ruby> - crown
-
 ### +14 Strokes
-9. <ruby>[冪](../../characters/冪.md)<rt>ㄇㄧㄎ</rt></ruby> - cover
+8. <ruby>[冪](../../characters/冪.md)<rt>ㄇㄧㄎ</rt></ruby> - cover
 
 ## Data check
 ```dataview
