@@ -1399,3 +1399,31 @@ Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-looku
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 柩 (7373; 876 characters remaining).
+
+### 2026-08-15, iteration 1629 — [[characters/柩|柩]]
+
+**`mc_id` off-by-one fixed**: stored `2551`; the real line for 柩 is `2552`. **`pos` gap filled**: was blank, set to `名詞` ("coffin" is concretely nominal). **`japanese_native` typo fixed**: stored `ひちぎ`, which doesn't correspond to any real reading — both en.Wiktionary and the character's own meaning confirm the genuine kun-yomi is `ひつぎ` (hitsugi, "coffin"); corrected the transposed kana. **`graphemic_classification: 匛` reconfirmed correct** per en.Wiktionary (semantic [[Radical 075|木]] "tree, wood" + phonetic 匛, Zhengzhang OC \*ɡʷlɯs); zh.Wiktionary's own account named 臼 as the phonetic instead, but its own explicitly-labeled 異體字 section separately lists 匛 as a variant — read as the same underlying phonetic-series relationship described two different ways rather than a genuine conflict, so the existing, en.Wiktionary-corroborated value was kept.
+
+**`aliases` gap filled**: intersecting both sources' variant-form notes (en.Wiktionary: "see also 柾"; zh.Wiktionary's explicitly-labeled 異體字: 匛, 匶, 柾) gives 柾 as the sole doubly-corroborated candidate; added (confirmed no independent vault page). 匶 was single-source, excluded.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held two readings (cửu, cữu), but hvdic.thivien.net's exact verbatim transcription shows the genuine "Âm Hán Việt:" reading is `cữu` alone, with `cửu` appearing exclusively under "Âm Nôm:". Reduced to the single genuine reading `cữu`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `HSK No`, `Hyōgai`, `Korean Name ㄱ` all already correct) — no lookup-page fixes needed. `## Words` section was already present and correct, citing the sole stand-in [[霊柩]].
+
+Citing word page [[霊柩]] checked and found already fully clean (`pos: 名詞` filled, `vietnamese: linh cữu` filled, aliases present, no duplicate 品詞) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 梳 (char) (7374; 875 characters remaining).
+
+### 2026-08-15, iteration 1630 — [[characters/梳 (char)|梳 (char)]]
+
+`mc_id: 6271` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `名詞` ("comb," a physical object); `joyo_level` was blank despite en.Wiktionary explicitly classifying 梳 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 327). **`graphemic_classification: 疏` reconfirmed correct** (形聲: semantic [[Radical 075|木]] "wood" + abbreviated phonetic 疏, Zhengzhang OC \*sŋra) via en.Wiktionary and zh.Wiktionary agreement; `vietnamese: sơ` (already filled) double-checked against hvdic's exact verbatim transcription — both the "Âm Hán Việt:" and "Âm Nôm:" lines give `sơ` identically, no contamination. No variant forms found by either source, so the existing blank `aliases` is a genuine "no variants" state.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `Old HSK 3`, and `Korean Name ㅅ`. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[梳]] is a standalone word page — added the section citing it.
+
+Self word page [[梳]] checked and fixed two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `sơ`, matching the character's own confirmed reading) and **missing `pos` field** (added `名詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 歇 (7375; 874 characters remaining).

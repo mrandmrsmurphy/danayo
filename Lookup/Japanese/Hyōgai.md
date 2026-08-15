@@ -328,6 +328,7 @@ tags: [lookup]
 324. [擱](../../characters/擱.md)
 325. [斟](../../characters/斟.md)
 326. [暈](../../characters/暈.md)
+327. [梳 (char)](../../characters/梳%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT
