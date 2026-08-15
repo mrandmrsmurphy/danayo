@@ -1931,3 +1931,33 @@ Self word page [[鬣]] checked and fixed three bugs: a blank `品詞:` field (an
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 鬚 (7417; 841 characters remaining).
+
+### 2026-08-15, iteration 1664 — [[characters/鬚|鬚]]
+
+`mc_id: 3261` reconfirmed correct against `CC 3000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[鬚髯]]'s own `名詞`. **`graphemic_classification: 須` reconfirmed correct** (形聲: semantic [[Radical 190|髟]] "hair" + phonetic 須, Zhengzhang OC \*so) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/須|須]]'s own Notes and `Derived Characters` section already document this exact split (鬚 is the original archaic form, later disambiguated from 須's borrowed "must, essential" sense) and already list 鬚 correctly.
+
+**`aliases` gap filled**: intersecting both sources' variant-form/異體字 lists (both include 䰅, 䰑, 須, and 须) gives 䰅 and 䰑 as newly doubly corroborated (alongside the already-present, already-correct simplified alias 须); added both. `須` — despite being confirmed by both sources — was excluded, having its own independent, actively-used vault page tracking a distinct modern sense ("must, essential"), the same phonetic-relation-vs-true-alias pattern flagged repeatedly this session.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held three readings (râu, tu, tua), but hvdic's exact verbatim transcription gives only `tu` under the genuine "Âm Hán Việt:" line, with `râu` and `tua` both under "Âm Nôm:". Reduced to the single genuine reading `tu`.
+
+Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `HSK No`, `Hyōgai`, `Korean Name ㅅ` all already correct) — no lookup-page fixes needed this iteration. Rebuilt the malformed `## Notes` (two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. `## Words` section was already present and correct, citing the sole stand-in [[鬚髯]].
+
+Citing word page [[鬚髯]]'s blank `vietnamese` field investigated directly via hvdic for the compound 鬚髯 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 騙 (char) (7418; 840 characters remaining).
+
+### 2026-08-15, iteration 1665 — [[characters/騙 (char)|騙 (char)]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel: 騙 doesn't appear anywhere in `CC 0000.md`–`CC 3000.md`. **`pos` gap filled**: was blank, set to `事詞` (a transitive "to deceive someone"). **`graphemic_classification: 扁` reconfirmed correct** (形聲: semantic [[馬 (char)|馬]] "horse" + phonetic 扁, Zhengzhang OC \*pʰens) via en.Wiktionary and zh.Wiktionary agreement — the Notes wikilink needed correcting to `[[扁]]`, since the actual vault page is filed as `扁.md`, not `扁 (char).md`; confirmed 扁's own `Derived Characters` section already correctly lists 騙. No new aliases: both sources agree only on the already-present 騗/骗.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held three readings (biền, biển, thiến), but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" readings as `biển, phiến` — `biền` is Nôm-only, and `thiến` isn't attested by either source at all. Fixed to `[biển, phiến]`, recovering the previously-missing genuine `phiến`.
+
+Rebuilt the malformed `# Notes` (a stray unlinked "sound" fragment, two bare unlinked CC-lookup wikilinks) to the standard `mc_id: 0` template. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 2`, `Hyōgai`, `Korean Name ㅍ` all already correct) — no lookup-page fixes needed. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[騙]] is a standalone word page — added the section citing it.
+
+Self word page [[騙]] checked and fixed four bugs: a blank `品詞:` field (empty duplicate of the equally-blank `pos:` — removed), **missing `pos` value** (filled `事詞`), **blank `vietnamese`** (filled `phiến`, matching the character's own corrected primary reading), and an **"defraid" typo** for "defraud" in the `english` list.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 駝 (7419; 839 characters remaining).
