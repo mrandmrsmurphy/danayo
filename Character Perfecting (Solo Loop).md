@@ -1237,3 +1237,35 @@ Self word page [[拱]] checked and fixed two of the standard recurring bugs: **`
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 捷 (7363; 886 characters remaining).
+
+### 2026-08-14, iteration 1619 — [[characters/捷|捷]]
+
+**`mc_id` off-by-one fixed**: stored `1924`; the real line for 捷 is `1925`. **`pos` gap filled**: was blank, set to `性詞`, matching the citing word [[敏捷]]'s own `性詞`. **`graphemic_classification: 疌` reconfirmed correct** (形聲: semantic [[Radical 064|手]] "hand" + phonetic 疌, Zhengzhang OC \*zeb) via en.Wiktionary and zh.Wiktionary agreement; no doubly-corroborated variant forms found (en.Wiktionary listed none at all; zh.Wiktionary's long 異體字 list was single-source), so the existing blank `aliases` is a genuine "no variants" state.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `tiệp, tẹp`, but hvdic.thivien.net's exact verbatim transcription shows the genuine "Âm Hán Việt:" line as `thiệp, tiệp` and the "Âm Nôm:" line as `tẹp, tiệp` — `tẹp` is Nôm-only and doesn't belong here, while the genuine second Hán Việt reading `thiệp` had never been present at all. Fixed to `[tiệp, thiệp]`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Initially searched for a citation on `Korean Name ㅈ` and found none — then caught the mistake: 捷's Korean reading is 첩, which belongs under `ㅊ` not `ㅈ`, and confirmed it was already correctly cited on `Korean Name ㅊ`'s own `### 첩` subsection all along. Confirmed citation on `Grade Advanced`, `Old HSK 3`, and `Jinmeiyō` too — no lookup-page fixes needed this iteration.
+
+**Fixed a duplicate-`品詞` bug on both citing word pages**: [[敏捷]] carried both `pos: 性詞` and a redundant `品詞: 形容動詞` (a second part-of-speech tagging system duplicating the same information — the classic recurring pattern, this time with non-identical surface text but the same redundant purpose); [[門捷金]] carried `pos: 固有名詞` and an exactly-identical `品詞: 固有名詞`. Removed the redundant `品詞` field from both, keeping only the canonical `pos`.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 掏 (7364; 885 characters remaining).
+
+### 2026-08-14, iteration 1620 — [[characters/掏|掏]]
+
+`mc_id: 6567` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `動詞`, matching the citing word [[掏摸]]'s own `動詞`.
+
+**`graphemic_classification: 陶` investigated for a possible bug and deliberately kept**: en.Wiktionary claims the phonetic is 匋 (陶's own pageless original form/alias), while zh.Wiktionary explicitly says the phonetic is 陶 itself. Checked [[characters/陶|陶]]'s own Notes, which already document that 匋 is treated as its true phonetic root (pageless, cited by name with an explanatory note) — but since this is a single-source (en.Wiktionary) claim about 掏 specifically, unconfirmed by zh.Wiktionary, and citing 陶 directly is a fully corroborated, vault-consistent choice already backed by an existing page, kept `陶` rather than introducing 匋 as a second pageless-phonetic citation pattern. **Found and fixed a missing `## Derived Characters` section entirely on [[characters/陶|陶]]** (already `date-last-perfect`-stamped 2026-08-10, but with no such section at all) — added it, citing 掏.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `thao, đào`, but hvdic.thivien.net's exact verbatim transcription gives only `đào` under the genuine "Âm Hán Việt:" line, with `thao` appearing exclusively under "Âm Nôm:" — removed the Nôm-only reading, keeping just `đào` (also the sole reading en.Wiktionary corroborates).
+
+Investigated the existing alias `搯`: en.Wiktionary and zh.Wiktionary's variant-form lists for 掏 don't overlap at all (en: 𢲛 only; zh's explicitly-labeled 異體字: 搯 only) — but since `搯` has no independent vault page and zh.Wiktionary's account is from a properly-labeled variant section (not a derivation-family list, the distinguishing test established earlier this session), it was kept rather than removed; `𢲛` was not added, being single-source.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. **Found and fixed two missing citations**: `Hyōgai` (added as new sequential item 323) and `Korean Name ㄷ`'s `### 도` subsection (added). Confirmed citation on `Grade Advanced` and `Old HSK 2`. `## Words` section was already present and correct, citing the sole stand-in [[掏摸]].
+
+Citing word page [[掏摸]] checked: `pos: 動詞` already filled, no duplicate 品詞 — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 揶 (7365; 884 characters remaining).
