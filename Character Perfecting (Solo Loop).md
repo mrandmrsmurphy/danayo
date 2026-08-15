@@ -1025,3 +1025,49 @@ Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wi
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 嚢 (7347; 900 characters remaining).
+
+### 2026-08-14, iteration 1605 — [[characters/嚢|嚢]]
+
+`mc_id: 1833` confirmed correct (matches `CC 1000.md` line 870, no off-by-one). **`graphemic_classification: 襄` confirmed correct** (originally 會意 — a depiction of a tied bag — later reanalyzed as 形聲 with an abbreviated 㯻 "bag" semantic element + abbreviated phonetic 襄, Zhengzhang whole-character OC \*naːŋ), via en.Wiktionary; the graphemic bullet's phonetic-component link was corrected from an earlier draft that conflated the semantic "bag" element with the character's own Kangxi radical (口) — they coincide only by indexing accident, the same pattern flagged on [[characters/碩|碩]] much earlier in this sweep.
+
+**`aliases` bug fixed**: the stored `曩` and `㶞` were both explicitly identified by zh.Wiktionary as *not* genuine variants of 囊/嚢 — 曩 is a distinct character with an unrelated meaning ("formerly, in the past"), only sharing the same 襄 phonetic ancestry, and 㶞 wasn't corroborated by either source at all — both removed, keeping only the existing, doubly-confirmed simplified-form alias 囊.
+
+**`vietnamese` gap filled**: hvdic gives the sole genuine Hán Việt reading `nang` — the field was entirely blank; filled. **`japanese` gap filled**: both ja.Wiktionary and Jisho independently agree on two on-yomi, ノウ and ドウ — the stored `[NOU]` was missing the corroborated `DOU`; added. `japanese_native: ふくろ` confirmed correct via both sources (a bare nominal gloss, no hyphenation needed).
+
+`korean_native: 주머니` ("pocket, pouch") and `korean: 낭` reconfirmed correct (no 두음법칙 concern, not ㄹ/ㄴ-initial); `kwin: true` consistent (諺文 낭 matches korean 낭 exactly); `Lookup/Korean/Korean Name ㄴ.md`'s `### 낭` subsection already lists 嚢 correctly (via alias 囊). `middle_chinese_initial/final: n`/`ɑŋ` reconfirmed correct against `聲 泥`/`韻 唐開` (both lookup pages, plus `SKIP-2-7-11`/`Stroke 18`/`Hyōgai`, already cited 嚢 correctly). `hsk_level: 無` (already filled) reconfirmed correct against `lookup/HSK/HSK No.md`'s own direct citation — a second, seemingly-contradictory appearance on `lookup/HSK/Old HSK 4.md` (with a bare frequency count, `: 2`) was investigated and determined to be that file's own separate "appears N times within HSK4-level compound vocabulary" tracking mechanism, not a competing claim about the standalone character's own level, consistent with the same pattern seen on several other characters' Old-HSK-N citations earlier this session — no fix needed. `pos: 名詞` (already filled) confirmed appropriate — no change.
+
+Rebuilt malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks with no other bullets) to the standard format; `## Words` section was already present and correct. No Derived Characters (nothing names 嚢 as its own `graphemic_classification`); no Chengyu hits. Only the existing stand-in [[胆嚢]] cites 嚢.
+
+**Citing word page [[胆嚢]] left otherwise untouched**: `pos: 名詞` already filled; its blank `vietnamese`/`hsk_level` are genuine never-perfected gaps — a direct hvdic lookup for the compound 胆嚢 returned no attested result, so there was no directly-evidenced answer in hand; left for the word-sweep.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 垢 (7349; 899 characters remaining).
+
+### 2026-08-14, iteration 1606 — [[characters/垢|垢]]
+
+**`mc_id` off-by-one fixed**: stored `2491` (which actually names 蓍 in `CC 2000.md`); the real line for 垢 is `2492`. **`pos` gap filled**: was entirely blank; both English glosses ("dirt", "filth") are concretely nominal, set to `名詞`. **`graphemic_classification: 后` reconfirmed correct** (形聲: semantic [[Radical 032|土]] "earth" + phonetic 后, Zhengzhang OC \*koːʔ from phonetic \*ɡoːʔ/\*ɡoːs) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`aliases` gap filled**: both sources list variant forms for 垢 — en.Wiktionary gives 坸 and 𡊦; zh.Wiktionary gives those same two plus 㘬 and 㻈. Per the dual-corroboration policy only the two forms confirmed by *both* sources were added (坸, 𡊦); 㘬 and 㻈 (zh.Wiktionary-only) were excluded. Confirmed none of the four candidate forms already have independent vault character pages, so no ownership-conflict risk. `vietnamese: [cáu, cấu]` (already filled) reconfirmed correct — en.Wiktionary independently corroborates exactly these two Hán Việt readings.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. The stroke-lookup link in the SKIP bullet had to use the zero-padded `Stroke 09.md` filename (not `Stroke 9.md`, which doesn't exist) — corrected on first pass after checking the actual `lookup/Stroke/` directory listing and cross-checking two other genuine 9-stroke characters' existing Notes for the established format. Confirmed 垢 is already correctly cited on all four closing-bullet lookup pages (`Grade Advanced` is a dynamic Base query needing no manual entry; `HSK No`, `Hyōgai`, `Korean Name ㄱ` all already list it). No Derived Characters citing 垢 as their own phonetic; no Chengyu hits. Only existing stand-in [[污垢]] cites 垢.
+
+Citing word page [[污垢]] checked and found already fully clean — `pos: 名詞` filled, alias 汙垢 correct, no vietnamese/hsk gaps — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 埠 (7350; 898 characters remaining).
+
+### 2026-08-14, iteration 1607 — [[characters/埠|埠]]
+
+**`mc_id: 0` verified as a genuine "confirmed absent" sentinel**, not an unresearched gap: 埠 does not appear anywhere in `CC 0000.md`–`CC 3000.md` — unsurprising, since "wharf, quay" in this specific graphic form is a comparatively late/dialectal coinage rather than a Classical-era word. **`pos` gap filled**: was blank, set to `名詞` ("wharf", "quay" are concretely nominal). **`graphemic_classification: 阜` reconfirmed correct** (形聲: semantic [[Radical 032|土]] "earth" + phonetic 阜, Zhengzhang OC \*baːs from phonetic \*buʔ) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`aliases` gap filled**: both en.Wiktionary and zh.Wiktionary independently list 埗 (Cantonese *bou6*) as the sole variant form of 埠; confirmed 埗 has no independent vault character page, so added with no ownership conflict. `vietnamese: [phụ]` (already filled) double-checked directly against hvdic.thivien.net's exact verbatim transcription — both the "Âm Hán Việt:" and "Âm Nôm:" lines give `phụ` identically, so this is a genuine non-contaminated Hán Việt reading with no divergence to flag.
+
+Rebuilt the malformed `## Notes` (two bare unlinked CC-lookup wikilinks, no other bullets) to the standard 4-bullet format, using the established `mc_id: 0` template precedent (matching e.g. [[characters/呆 (char)|呆 (char)]]'s Notes) for the third bullet. Confirmed citation on `Old HSK 4`, `Korean Name ㅂ`, and `Grade Advanced` (dynamic Base query); **found and fixed a missing `Hyōgai` entry** — added as new sequential item 318 in `lookup/Japanese/Hyōgai.md`. No Derived Characters citing 埠 as their own phonetic; no Chengyu hits. Only existing stand-in [[埠頭]] cites 埠.
+
+Citing word page [[埠頭]] checked: `pos: 名詞` already filled; its blank `vietnamese` field investigated directly via hvdic for the compound 埠頭 — no attested entry found, confirming a genuine gap rather than a bug; left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 墊 (char) (7351; 897 characters remaining).
