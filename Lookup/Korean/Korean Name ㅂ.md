@@ -43,7 +43,7 @@ These have all been checked for redirects.
  [瞥](characters/瞥.md) [鼈 (char)](characters/鼈%20(char).md) [襒](characters/撇%20(char).md) [[𩠻]] [[莂]] [[鷩]]
 
 ### 병 
- [幷](characters/並%20(char).md) [倂](characters/並%20(char).md) [[甁]] [[輧]] [[炳]] [柄 (char)](characters/柄%20(char).md) [[昞]] [秉](characters/秉.md) [[餠]] [[騈]] [[鉼]] [[抦]]
+ [幷](characters/並%20(char).md) [倂](characters/並%20(char).md) [[甁]] [[輧]] [[炳]] [柄 (char)](characters/柄%20(char).md) [[昞]] [秉](characters/秉.md) [[餠]] [[騈]] [[鉼]] [[抦]] [屏](characters/屏.md)
 
 ### 보 
  [[../../characters/堡]] [甫](characters/甫.md) [輔](characters/輔.md) [菩](characters/菩.md) [[潽]] [[洑]] [[湺]] [褓](characters/保.md) [[俌]] [[𤣰]] 

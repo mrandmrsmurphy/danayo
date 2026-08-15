@@ -1085,3 +1085,61 @@ This character's `stand_in` is itself — [[墊]] is a standalone word page, not
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 寓 (7352; 896 characters remaining).
+
+### 2026-08-14, iteration 1609 — [[characters/寓|寓]]
+
+**`mc_id` off-by-one fixed**: stored `2796` (which actually names 涸 in `CC 2000.md`); the real line for 寓 is `2797`. **`graphemic_classification: 禺` reconfirmed correct** (形聲: semantic [[Radical 040|宀]] "roof, house" + phonetic 禺, Zhengzhang OC \*ŋos from phonetic \*ŋo/\*ŋos) via en.Wiktionary and zh.Wiktionary agreement. Existing alias `庽` reconfirmed correct (doubly corroborated); zh.Wiktionary's additional candidate 䴁 was not corroborated by en.Wiktionary, so excluded per the dual-source policy.
+
+`vietnamese: ngụ` (already filled) double-checked directly against hvdic.thivien.net's exact verbatim transcription — both the "Âm Hán Việt:" and "Âm Nôm:" lines give `ngụ` identically, confirming a genuine non-contaminated reading. `pos: 名詞` (already filled) confirmed appropriate.
+
+Rebuilt the malformed Notes (mixed relative-path lookup links inconsistent with the vault-root-relative convention used elsewhere, a stray missing rank line, and two bare unlinked CC-lookup wikilinks trailing the closing bullet) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 3`, `Jinmeiyō`, `Korean Name ㅇ` all already correctly list 寓) — no lookup-page fixes needed this iteration. **Found and fixed a missing `## Words` section entirely**: the page had no Words heading at all despite `stand_in: 寓居` being set and [[寓居]] existing and correctly citing 寓 from its own side; added the section citing it. No Derived Characters citing 寓 as their own phonetic; no Chengyu hits; no other word pages cite 寓 besides its sole stand-in.
+
+Citing word page [[寓居]] checked and found already fully clean — `pos: 名詞` filled, `vietnamese: ngụ cư` filled, all other fields present — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 寞 (7353; 895 characters remaining).
+
+### 2026-08-14, iteration 1610 — [[characters/寞|寞]]
+
+`mc_id: 4548` is above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`graphemic_classification: 莫` reconfirmed correct** (形聲: semantic [[Radical 040|宀]] "roof, house" + phonetic 莫, Zhengzhang OC \*maːɡ) via en.Wiktionary and zh.Wiktionary agreement; neither source lists any variant forms, so the existing blank `aliases` field is a genuine "no variants exist" state, not a gap. `vietnamese: mịch` (already filled) double-checked directly against hvdic.thivien.net's exact verbatim transcription — both "Âm Hán Việt:" and "Âm Nôm:" lines give `mịch` identically, no contamination. `pos: 性詞` (already filled) confirmed appropriate for a stative "lonely, desolate."
+
+Rebuilt the malformed Notes (mixed relative-path lookup links, a raw parenthetical "Phono-semantic :" heading instead of the 形声-with-OC-gloss format, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format; verified the 韻 鈬開.md final page genuinely exists under that name (not a typo, as it first appeared) and correctly maps to `ɑk`. Confirmed citation on `Old HSK 3`, `Korean Name ㅁ`, and `Grade Advanced` (dynamic Base query); **found and fixed a missing `Hyōgai` entry** — added as new sequential item 320. **Found and fixed a missing `## Words` section entirely** (the page had no Words heading despite `stand_in: 寂寞` being set and the citing word already existing) — added, citing [[寂寞]]. Confirmed two other word pages ([[孤独]], [[寂滅]]) mention 寞/寂寞 only in comparative prose discussion, not as an actual citing compound — correctly excluded from Words. No Derived Characters citing 寞 as their own phonetic; no Chengyu hits.
+
+Citing word page [[寂寞]] checked and found already clean on all bug-pattern checks (`pos: 性詞` filled, `vietnamese: tịch mịch` filled, no duplicate 品詞, no stale syllable) — no edit needed (its own missing `date-last-perfect` stamp is out of scope for the character-perfecting sweep).
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 屏 (7354; 894 characters remaining).
+
+### 2026-08-14, iteration 1611 — [[characters/屏|屏]]
+
+**`mc_id` off-by-one fixed**: stored `1689`; the real line for 屏 is `1690`. **`graphemic_classification: 并` reconfirmed correct** (形聲: semantic [[Radical 044|尸]] "corpse/body" + phonetic 并, Zhengzhang OC \*beːŋ/\*peŋ) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`aliases` bug fixed**: the stored `摒` was investigated specifically because it appeared in zh.Wiktionary's "相關派生漢字" (related-derivation) family list alongside 屏's genuine variants, but a direct check of 摒's own zh.Wiktionary page confirmed it explicitly as a *distinct derived character* (扌 "hand" + 屏 as phonetic, meaning "expel, arrange") sharing a common root with 屏, **not** a true variant/alias of it — removed (confirmed no other vault page referenced it, so no cascading fix needed). Cross-checked both sources' actual `異體字`-labeled sections (careful to distinguish the labeled variant section from the unlabeled derivation-family list, since the two are easy to conflate) and found 屛 (already present) and 幈 (missing) doubly confirmed — added 幈.
+
+**`vietnamese: bình` reconfirmed correct and deliberately left as the sole reading**: hvdic.thivien.net's exact verbatim "Âm Hán Việt:" line actually gives three readings (`bình, bính, phanh`), but en.Wiktionary's pronunciation section confirms 屏 is polyphonic — píng "screen" (→ bình) is a wholly separate Mandarin reading/sense from bǐng "abandon, discard, suppress" (→ presumably bính/phanh) — and this character page is specifically the píng/"folding screen" sense (matching its `english`, `mandarin: píng`, and `stand_in: 屏風`). Adding the other two readings would have wrongly conflated a different sense onto this page, so only `bình` was kept — a deliberately different call from the two-reading addition made on [[characters/墊 (char)|墊 (char)]] two iterations ago, where both hvdic readings genuinely belonged to the same sense.
+
+Rebuilt the malformed `## Notes` (two bare unlinked CC-lookup wikilinks, no other bullets) to the standard 4-bullet format. Confirmed citation on `Old HSK 6` and `Grade Advanced` (dynamic Base query); **found and fixed two missing citations**: `Hyōgai` only had the variant-redirect note "屛 --> 屏" but was missing 屏's own numbered entry (added as new sequential item 321, following the same pattern previously caught on [[characters/剃|剃]] earlier this session), and `Korean Name ㅂ`'s `### 병` subsection was missing 屏 entirely (added). No Derived Characters citing 屏 as their own phonetic with an existing vault page (摒 would qualify conceptually but has no page yet); no Chengyu hits. `## Words` already correctly lists the sole stand-in [[屏風]].
+
+Citing word page [[屏風]] checked and found already fully clean (`pos` filled, `vietnamese` filled, no duplicate 品詞, no stale syllable) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 屑 (char) (7355; 893 characters remaining).
+
+### 2026-08-14, iteration 1612 — [[characters/屑 (char)|屑 (char)]]
+
+**`mc_id` off-by-one fixed**: stored `3098`; the real line for 屑 is `3099`. **`pos` gap filled**: was blank, set to `名詞` ("scraps, waste tidbits" are concretely nominal).
+
+**`graphemic_classification` bug found and fixed — the most structurally significant catch this iteration**: the stored value `八` was flatly wrong. Both en.Wiktionary (explicitly: "⿸尸肖," a phono-semantic compound, "originally written 㞕") and zh.Wiktionary's stroke breakdown (尸 radical + 7 additional strokes, matching 肖's own 7 strokes) independently confirm the true phonetic component is [[肖]], not 八 — corrected. Checked [[characters/八 (char)|八 (char)]] for a stray cross-reference to 屑 from the old wrong value (none found, so no cleanup needed there) and **added the missing entry to [[肖]]'s own `## Derived Characters` section**, which had never listed 屑 as one of its phonetic derivatives.
+
+**`aliases` gap filled**: both sources doubly corroborate 㞕 (the character's own historical/original form) as the sole variant; confirmed it has no independent vault page, added with no conflict. `vietnamese: tiết` (already filled) double-checked against hvdic.thivien.net's exact verbatim transcription — both "Âm Hán Việt:" and "Âm Nôm:" lines give `tiết` identically, no contamination.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Jinmeiyō`, `Korean Name ㅅ` all already correct) — no lookup-page fixes needed. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[屑]] is a standalone word page, not a bound compound — added the section citing it.
+
+Citing/self word page [[屑]] checked and found two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `tiết`, matching the character's own confirmed reading) and **blank `pos`** (filled with `名詞`) — both corrected.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 屠 (7356; 892 characters remaining).

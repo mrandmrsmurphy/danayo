@@ -321,6 +321,8 @@ tags: [lookup]
 317. [冕](../../characters/冕.md)
 318. [埠](../../characters/埠.md)
 319. [墊 (char)](../../characters/墊%20(char).md)
+320. [寞](../../characters/寞.md)
+321. [屏](../../characters/屏.md)
 
 
 [[../../characters/吠]] - barking DO IT
