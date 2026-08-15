@@ -2113,3 +2113,33 @@ Citing word page [[跆籍]] checked and fixed one bug: an entirely missing `viet
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 赳 (7430; 829 characters remaining).
+
+### 2026-08-15, iteration 1676 — [[characters/赳|赳]]
+
+`mc_id: 4137` confirmed to be a genuine trusted long-tail value (beyond the vault's tracked `CC 0000`–`CC 3000` range). **`pos` gap filled**: was blank, set to `性詞`, matching the citing word [[赳赳]]'s own `性詞`. **`graphemic_classification: 丩` reconfirmed correct** (形声: semantic [[Radical 156|走]] "run" + phonetic 丩, a pageless root cited directly, same as several other pageless phonetics found this session) via en.Wiktionary and zh.Wiktionary agreement. `vietnamese: củ` reconfirmed correct — hvdic shows `củ` as both genuine Hán Việt and Nôm simultaneously (dual-classified). No aliases added: en.Wiktionary's two candidates (𠡟, 𧺇) weren't corroborated by zh.Wiktionary, so left empty per the dual-source policy.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks, no other bullets at all) into the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `HSK No`, `Jinmeiyō`, `Korean Name ㄱ` all already correct). `## Words` section was already present and correct, citing the sole stand-in [[赳赳]].
+
+Citing word page [[赳赳]] was already fully perfected; its blank `vietnamese` field was investigated directly via hvdic for the reduplicated compound — no attested entry found, confirming a genuine gap, left untouched. Left the blank `boundedness` field on 赳 itself untouched, consistent with this session's practice of not addressing that field (a large fraction of never-perfected characters share the same blank value, suggesting a separate systematic pass rather than a per-character bug).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 謗 (7431; 828 characters remaining).
+
+### 2026-08-15, iteration 1677 — [[characters/謗|謗]]
+
+`mc_id: 1651` reconfirmed correct against `CC 1000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `事詞`, matching the citing word [[誹謗]]'s own `事詞`. **`graphemic_classification: 旁` reconfirmed correct** (形声: semantic [[言 (char)|言]] "speech" + phonetic 旁) via en.Wiktionary and zh.Wiktionary agreement; a link in the Notes bullet needed correcting to `[[旁]]`, since the actual vault page is filed as `旁.md`, not `旁 (char).md`.
+
+**`aliases` bug found and fixed — a synonym mistakenly stored as a variant**: the stored field held `譖, 谤`; only `谤` (the simplified form) is corroborated by either source. `譖` (zèn) was independently verified to be a completely different, unrelated character — different phonetic component (朁, not 旁), different Old Chinese pronunciation, its own distinct meaning ("to slander by false accusation") and its own alternative forms (譛, 谮) — a plausible-but-wrong synonym conflated with a true graphemic variant. Removed.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `báng, bướng`, but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" reading as `báng` alone; `bướng` appears exclusively under "Âm Nôm:" (alongside a third form, `bang`, not previously stored and not added, since it wasn't part of the existing data and isn't itself Hán Việt). Reduced to the single genuine reading `báng`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, a bare stand-in wikilink with no gloss instead of a proper `## Words` entry, two bare unlinked CC-lookup wikilinks) into the standard 4-bullet format plus a corrected `## Words` section. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Hyōgai`, `Korean Name ㅂ` all already correct). **Found and fixed a missing `## Derived Characters` section on [[characters/旁|旁]]** (a later, not-yet-perfected character) — the section didn't exist at all; created it and added 謗.
+
+**`#cranberry` tag reconfirmed valid**: checked [[characters/誹|誹]]'s own `stand_in` field — also `誹謗` — confirming transitivity (誹 = 謗 = 誹謗 as the shared stand-in), the condition required for the tag per this vault's own convention.
+
+Citing word page [[誹謗]] was already fully perfected; its own Notes already documents a corrected 注音 (`ㄈㄧㄆㄚㄫ`, not `ㄆㄧㄆㄚㄫ`) — used the correct, corrected form when citing it in 謗's own `## Words` entry rather than a naive guess from 謗's own reading alone.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 蕩 (7432; 827 characters remaining).
