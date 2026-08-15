@@ -1813,3 +1813,37 @@ Citing word page [[欣喜]]'s blank `vietnamese` field investigated directly via
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 帚 (7407; 849 characters remaining).
+
+### 2026-08-15, iteration 1656 — [[characters/帚|帚]]
+
+**`mc_id` off-by-one fixed**: stored `3891`; the real line for 帚 is `3892`. **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[掃帚]]'s own `名詞`. `graphemic_classification: 象形` (already correct — a genuine pictogram, not a phonetic-component name) reconfirmed via en.Wiktionary and zh.Wiktionary, both describing it as a depiction of a broom.
+
+**`aliases` gap filled**: both sources' labeled 異體字/variant lists agree on 箒 and 菷 (en.Wiktionary additionally listed 𦲅, single-source, excluded); added both doubly-corroborated forms (confirmed neither has an independent vault page).
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `chổi, trửu`, but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" readings as `chửu, trửu` — `chổi` is Nôm-only, and the genuine `chửu` had never been present. Fixed to `[chửu, trửu]`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `HSK No`, and `Hyōgai`; **found and fixed a missing `Korean Name ㅊ` citation** — 帚's Korean reading 추 belongs under `ㅊ`, not `ㅎ`/elsewhere, and its `### 추` subsection had no entry at all; added. While there, **also fixed a stray broken redlink for `[[鎚]]`** in the same subsection — 鎚 was confirmed as [[characters/槌 (char)|槌]]'s alias just one iteration ago, so retargeted it to 槌's actual page instead of leaving it dangling.
+
+Citing word page [[掃帚]]'s missing `vietnamese` field investigated directly via hvdic for the compound 掃帚 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 巴 (char) (7409; 848 characters remaining).
+
+### 2026-08-15, iteration 1657 — [[characters/巴 (char)|巴 (char)]]
+
+`mc_id: 1565` reconfirmed correct against `CC 1000.md` (no off-by-one). **`radical` bug found and fixed**: stored `已` — a visually near-identical but distinct glyph from the actual Kangxi radical 49, `己` (confirmed against the vault's own `Radical 049.md`, which stores `己`, and against en.Wiktionary's explicit "Kangxi radical 49" citation). **`pos` gap filled**: was blank, set to `名詞`.
+
+**`english` gloss bug found and fixed**: the stored list held `song, tomoe`, but neither en.Wiktionary's 23-sense Chinese definition list nor its Japanese kanji section mention any "song" sense for 巴 at all. Circumstantial confirmation came from [[words/唄|唄]]'s own Notes, which document an almost identical prior contamination incident on a different but similarly-read character in this vault (a stray "song"/"ugh" sense bleeding in from an unrelated word) — strongly suggesting the same kind of copy-paste bleed here. Removed `song`, keeping the well-attested Japanese-specific `tomoe` sense (already used consistently across this page and its citing words).
+
+**`aliases` bug found and fixed**: the stored `吧` was investigated and confirmed via zh.Wiktionary as a *distinct* 形聲 character (口 semantic + 巴 phonetic) with its own independent etymology (a particle contracted from 罷/夫, or a loanword for "bar") — **not** a variant/alias of 巴, the same sibling-vs-alias distinction flagged repeatedly this session. Removed; the existing `笆` (confirmed by zh.Wiktionary's explicitly-labeled 異體字 section) was kept.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held five readings (ba, bơ, bư, bưa, va), but hvdic's exact verbatim transcription gives only `ba` under the genuine "Âm Hán Việt:" line, with `bơ`/`va` under "Âm Nôm:" and `bư`/`bưa` unattested anywhere. Reduced to the single genuine reading `ba`.
+
+Rebuilt the malformed `## Notes` (a bare "Descendants: [[把]]" bullet mixed with two bare unlinked CC-lookup wikilinks) into the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `HSK Beginner`, `Jinmeiyō`, and `Korean Name ㅍ`. **Found and fixed a missing `## Derived Characters` section entirely**: verified [[characters/把|把]], [[characters/芭|芭]], and [[characters/琶|琶]] each genuinely cite 巴 as their own `graphemic_classification` before listing them (replacing the ad hoc "Descendants" bullet, which had only named 把). **Found and fixed a missing self-citation in `## Words`**: this character's `stand_in` is itself — [[巴]] is a standalone word page — added it alongside the pre-existing [[巴基斯坦]] entry.
+
+Self word page [[巴]] checked and fixed the identical bugs found on the character page: the same `song` contamination in its own `english` list (removed), **`vietnamese: null` literal placeholder** (fixed to `ba`), and **missing `pos` field** (added `名詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 鼎 (char) (7410; 847 characters remaining).

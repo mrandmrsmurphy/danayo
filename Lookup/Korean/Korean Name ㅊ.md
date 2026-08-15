@@ -70,7 +70,7 @@ These have all bee checked to see which are redirects
 [崔](characters/崔.md)
 
 ### 추 
-[[楸]] [樞](characters/枢%20(char).md) [鄒](characters/鄒.md) [錐](characters/錐.md) [錘](characters/錘.md) [墜](characters/墜.md) [椎](characters/椎.md) [[湫]] [皺](characters/皺.md) [芻](characters/芻.md) [萩](characters/萩.md) [[諏]] [趨](characters/趨%20(char).md) [酋](characters/酋.md) [[鎚]] [雛](characters/雛.md) [[騶]] [鰌](characters/鰌.md)
+[[楸]] [樞](characters/枢%20(char).md) [鄒](characters/鄒.md) [錐](characters/錐.md) [錘](characters/錘.md) [墜](characters/墜.md) [椎](characters/椎.md) [[湫]] [皺](characters/皺.md) [芻](characters/芻.md) [萩](characters/萩.md) [[諏]] [趨](characters/趨%20(char).md) [酋](characters/酋.md) [鎚](characters/槌%20(char).md) [雛](characters/雛.md) [[騶]] [鰌](characters/鰌.md) [帚](characters/帚.md)
 
 ### 축  
 [軸](characters/軸%20(char).md) [竺](characters/竺.md) [筑](characters/築.md) [[蹙]] [蹴](characters/蹴%20(char).md) 
