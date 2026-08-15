@@ -1693,3 +1693,47 @@ Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-looku
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 儡 (7396; 857 characters remaining).
+
+### 2026-08-15, iteration 1648 — [[characters/儡|儡]]
+
+`mc_id: 7077` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[傀儡]]'s own `名詞`. `vietnamese: lỗi` (already filled) reconfirmed correct via hvdic — no contamination.
+
+**`graphemic_classification` bug found and fixed**: the stored value `雷` was wrong — en.Wiktionary and zh.Wiktionary both identify the true phonetic component as [[畾]] (pageless), and checking [[characters/雷 (char)|雷]]'s own already-perfected page confirmed it explicitly treats 畾 (not itself) as the shared phonetic root in its own Notes, with a `Derived Characters` entry for 儡 already correctly present there. Corrected to `畾` — the same sibling-derived-character pattern caught repeatedly this session (屠/者, 掏/陶, 歇/曷, 焰/臽, 堰/妟).
+
+**Found and fixed the identical Vietnamese contamination bug on [[characters/雷 (char)|雷]] itself** while verifying the phonetic link: its own stored `vietnamese` held four readings (loay, loi, lôi, rôi), but hvdic's exact verbatim transcription gives the genuine Hán Việt readings as `lôi, lỗi` — only `lôi` (well, its near-homograph `loi`, without the correct diacritic) was among the stored values, `lỗi` was entirely missing, and `loay`/`rôi` were unattested. Fixed to `[lôi, lỗi]`, despite that page already being `date-last-perfect`-stamped from 2026-08-07 (earlier this same session, showing the contamination check wasn't yet being applied that early on).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `HSK No`, and `Korean Name ㄹ`; **found and fixed a missing `Hyōgai` citation** — added as new sequential item 336. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[傀儡]].
+
+Citing word page [[傀儡]] checked and found already fully clean (`pos: 名詞`, `vietnamese: quỷ lỗi` both filled) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 誅 (7399; 856 characters remaining).
+
+### 2026-08-15, iteration 1649 — [[characters/誅|誅]]
+
+`mc_id: 304` reconfirmed correct against `CC 0000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `動詞`, matching the citing word [[誅殺]]'s own `動詞`. **`graphemic_classification: 朱` reconfirmed correct** (形聲: semantic [[言 (char)|言]] "speech" + phonetic 朱, Zhengzhang OC \*to from phonetic \*tjo) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/朱|朱]]'s own `Derived Characters` section already lists 誅.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held two readings (tru, trô), but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" reading as `tru` alone, with `trô` appearing exclusively under "Âm Nôm:". Reduced to the single genuine reading `tru`. No new aliases: zh.Wiktionary's only additional candidate beyond the already-present 诛 was single-source (㦵), not added.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Hyōgai` and `Korean Name ㅈ`; `Grade Advanced` is dynamic and its blank `hsk_level` isn't contradicted by any lookup page (a genuine alternate-convention gap, not a bug). `## Words` section was already present and correct, citing the sole stand-in [[誅殺]].
+
+Citing word page [[誅殺]]'s blank `vietnamese` field investigated directly via hvdic for the compound 誅殺 — no formally-labeled entry found (only an informal "tru sát" gloss elsewhere on the page), confirming a genuine gap per the established exact-citation bar; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 擢 (7400; 855 characters remaining).
+
+### 2026-08-15, iteration 1650 — [[characters/擢|擢]]
+
+**`mc_id` off-by-one fixed**: stored `1820`; the real line for 擢 is `1821`. **`pos` gap filled**: was blank, set to `事詞`, matching the citing word [[抜擢]]'s own `事詞`. **`graphemic_classification: 翟` reconfirmed correct** (形聲: semantic [[Radical 064|手]] "hand" + phonetic 翟, Zhengzhang OC \*r'eːwɢ from phonetic \*r'aːwɢ/\*l'eːwɢ) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held two readings (dập, trạc), but hvdic's exact verbatim transcription gives only `trạc` under both the "Âm Hán Việt:" and "Âm Nôm:" lines — `dập` wasn't attested by either source at all. Reduced to the single genuine reading `trạc`. No aliases added: zh.Wiktionary's sole candidate (戳) was single-source.
+
+Rebuilt the malformed `## Notes` (two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format, moving it after the pre-existing `## Words` section into the correct order. Confirmed citation on `Grade Advanced`, `Jinmeiyō`, and `Korean Name ㅌ`. **Found and fixed a missing `## Derived Characters` section entirely on [[characters/翟|翟]]** (a later, not-yet-perfected character in the sweep, danayo_id 8586) while verifying the phonetic link — added, citing 擢.
+
+Citing word page [[抜擢]] was already fully clean (`pos: 事詞`, `vietnamese: bạt trạc` both filled) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 撇 (char) (7401; 854 characters remaining).

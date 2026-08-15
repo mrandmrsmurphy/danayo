@@ -8,10 +8,8 @@ japanese:
   - RUI
 japanese_native: いかずち
 vietnamese:
-  - loay
-  - loi
   - lôi
-  - rôi
+  - lỗi
 middle_chinese_initial: l
 middle_chinese_final: uʌi
 stroke_count: 13
