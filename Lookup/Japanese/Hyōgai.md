@@ -327,6 +327,7 @@ tags: [lookup]
 323. [掏](../../characters/掏.md)
 324. [擱](../../characters/擱.md)
 325. [斟](../../characters/斟.md)
+326. [暈](../../characters/暈.md)
 
 
 [[../../characters/吠]] - barking DO IT

@@ -1351,3 +1351,37 @@ Citing word page [[斟酌]] checked: `pos: 事詞` already filled; its blank `vi
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 昂 (7370; 879 characters remaining).
+
+### 2026-08-15, iteration 1626 — [[characters/昂|昂]]
+
+`mc_id: 4587` is above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `性詞` ("proud, bold" — a descriptive/stative sense). **`graphemic_classification: 卬` reconfirmed correct** (形聲: semantic [[Radical 072|日]] "sun" + phonetic 卬, Zhengzhang OC \*ŋaːŋ) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 昻, 䀚; zh.Wiktionary's explicitly-labeled 異體字: 卬, 昻, 枊) gives 昻 as the sole doubly-corroborated candidate; added (confirmed no independent vault page). 卬 (the phonetic component itself, already correctly excluded as pageless rather than cited as an alias), 枊, and 䀚 were each single-source, excluded.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held four readings (ngang, ngàng, ngáng, ngãng), but both hvdic.thivien.net's exact verbatim transcription and en.Wiktionary's own explicit Hán Việt/Nôm split agree: the genuine "Âm Hán Việt:" reading is `ngang` alone, with `ngàng, ngáng, ngãng` (plus two further Nôm-only forms neither source flagged as attested) all belonging exclusively to the Nôm layer. Reduced to the single genuine reading `ngang`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks, a stray bullet holding one Words-section entry) to the standard 4-bullet format plus a proper `## Words` section. **Found this character has two genuine citing words, not one**: the existing stray bullet already named [[昂揚]], and adding it alongside the `stand_in` [[昂然]] revealed both had been missing from a real Words section entirely. Confirmed citation on `Grade Advanced`, `Old HSK 6`, `Jinmeiyō`, and `Korean Name ㅇ` — no lookup-page fixes needed.
+
+Both citing word pages checked and fixed the same recurring bug: **missing `pos` field** — [[昂然]] and [[昂揚]] each had a bare `pos:` key with no value; both filled with `性詞` to match the character. Their blank `vietnamese` fields were investigated directly via hvdic for each compound — no formally-labeled "Âm Hán Việt:" line found for either (昂然 turned up an informal "ngang nhiên" gloss elsewhere on the page, but not under that label, so it was treated as a genuine gap per the established exact-citation bar) — left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 暈 (7371; 878 characters remaining).
+
+### 2026-08-15, iteration 1627 — [[characters/暈|暈]]
+
+`mc_id: 4353` is above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos`, `joyo_level`, and `korean_native` gaps all filled**: `pos` was blank, set to `性詞` ("dizzy, blurry"); `joyo_level` was blank despite en.Wiktionary explicitly classifying 暈 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 326); `korean_native` was an empty string — filled with `무리`, verified via ko.Wiktionary's own 훈음 gloss "무리 운". **`graphemic_classification: 軍` reconfirmed correct** (形聲: semantic [[Radical 072|日]] "sun" + phonetic 軍, Zhengzhang OC \*ɢuns from phonetic \*kun — originally a pictogram of the sun's halo) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/軍|軍]]'s own `Derived Characters` section already correctly lists 暈.
+
+**`vietnamese` contamination bug found and fixed, with a cross-source conflict resolved in hvdic's favor**: the stored field held four readings (quầng, vầng, vừng, vựng); hvdic.thivien.net's exact verbatim transcription splits genuine "Âm Hán Việt:" as `vận, vựng` against "Âm Nôm:" `quầng, vầng, vừng` — but en.Wiktionary's own account classifies `quầng` as Hán Việt too, disagreeing with hvdic. Trusting hvdic as the specialized dedicated Hán-Nôm dictionary (the established practice all session), fixed to `[vận, vựng]` — dropping three Nôm-layer readings and recovering the missing genuine `vận`.
+
+**`aliases` gap filled**: both sources' labeled variant/異體字 sections agree on 煇 (in addition to the already-correct, already-present simplified alias 晕); added (confirmed no independent vault page).
+
+**Found and fixed a vault-wide propagated `羅馬字` bug affecting three sibling characters on the same syllable**: 暈's stored `羅馬字: "'unsu"` didn't match its own single-syllable `諺文`/`注音` (운/ㄨㄋ) — cross-checking the `syllables/ㄨㄋ.md` page itself confirmed the canonical value is `'un`. The exact same wrong `"'unsu"` value turned out to also be stored on two *other*, already-`date-last-perfect`-stamped characters sharing this syllable — [[characters/員|員]] (2026-07-30) and [[characters/運|運]] (2026-07-25) — while a fourth sibling, [[characters/韻|韻]], already had the correct value. Fixed all three to `'un`, consistent with this session's practice of fixing directly-discovered consequence bugs on other pages regardless of their own perfection status.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `Old HSK 3` (via the established dual traditional/simplified listing pattern), and `Korean Name ㅇ`. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[玄暈]] (already flagged with the same non-leaf `実詞` taxonomy issue noted on [[characters/揶|揶]]'s citing word — not touched, out of scope).
+
+Citing word page [[玄暈]]'s blank `vietnamese` field investigated directly via hvdic for the compound 玄暈 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 杜 (7372; 877 characters remaining).
