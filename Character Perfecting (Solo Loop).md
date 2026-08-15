@@ -1385,3 +1385,17 @@ Citing word page [[玄暈]]'s blank `vietnamese` field investigated directly via
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 杜 (7372; 877 characters remaining).
+
+### 2026-08-15, iteration 1628 — [[characters/杜|杜]]
+
+`mc_id: 1019` reconfirmed correct against `CC 1000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `動詞`, matching the citing word [[杜撰]]'s own `動詞`. **`graphemic_classification: 土` reconfirmed correct** (形聲: semantic [[Radical 075|木]] "tree" + phonetic 土, Zhengzhang OC \*l'aːʔ) — the Notes wikilink needed correcting to `[[土 (char)|土]]`, since the actual vault page is filed as `土 (char).md`.
+
+**`vietnamese` contamination bug found and fixed — the largest cleanup this iteration**: the stored field held five readings (đũa, đậu, đỏ, đổ, đỗ), but hvdic.thivien.net's exact verbatim transcription gives only `đỗ` under the genuine "Âm Hán Việt:" line, with all four others appearing exclusively under "Âm Nôm:". (en.Wiktionary's own account muddies this slightly, additionally counting `đổ` as Hán Việt, but hvdic — the specialized dedicated dictionary trusted throughout this session — was followed.) Reduced to the single genuine reading `đỗ` (also notable as the common Vietnamese surname Đỗ). No doubly-corroborated variant forms found, so the existing blank `aliases` is a genuine "no variants" state.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Jinmeiyō`, `Korean Name ㄷ` all already correct) — no lookup-page fixes needed. `## Words` section was already present and correct, citing both [[杜撰]] (the `stand_in`) and the neologism [[杜金]] ("dubnium").
+
+**Found and fixed two consequence bugs on [[characters/土 (char)|土 (char)]]** while verifying the phonetic link: a duplicate `品詞: 名詞` field exactly redundant with its own `pos: 名詞` (removed — the same recurring pattern flagged repeatedly on word pages this session, here found on a character page, already `date-last-perfect`-stamped from 2026-02-20), and an entirely missing `## Derived Characters` section (added, citing 杜). **Found and fixed the identical duplicate-`品詞` bug on the citing word page [[杜金]]** (`品詞: 固有名詞` exactly duplicating `pos: 固有名詞`) — removed. [[杜撰]] was already fully clean (`pos: 動詞`, `vietnamese: đỗ soạn` both filled, no duplicate 品詞) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 柩 (7373; 876 characters remaining).

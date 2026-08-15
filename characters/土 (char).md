@@ -32,7 +32,6 @@ aliases:
   - 𡈽
 注音: ㄊㄛ
 date-last-perfect: 2026-02-20
-品詞: 名詞
 kwin: true
 tags:
   - character
@@ -55,3 +54,6 @@ boundedness: 90
 - <ruby>[[壌土]]<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby> "loam; loamy soil"
 - <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
 - <ruby>[[広土]]<rt>ㄍ⺢ㄫㄊㄛ</rt></ruby> "vast territory, extensive land"
+
+## Derived Characters
+- <ruby>[[杜]]<rt>ㄉㄛ</rt></ruby> "careless, sloppy, fabricating"
