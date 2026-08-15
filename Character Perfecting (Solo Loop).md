@@ -2143,3 +2143,19 @@ Citing word page [[誹謗]] was already fully perfected; its own Notes already d
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 蕩 (7432; 827 characters remaining).
+
+### 2026-08-15, iteration 1678 — [[characters/蕩|蕩]]
+
+**`mc_id` off-by-one bug found and fixed**: stored as `1498` (which actually belongs to a different character, 歆), but 蕩 is the 1499th entry in `CC 1000.md` — corrected to `1499`. **`pos` gap filled**: was blank, set to `性詞`, matching the citing word [[放蕩]]'s own `性詞`. **`graphemic_classification: 湯` reconfirmed correct** (形声: semantic [[Radical 140|艸]] "grass" + phonetic 湯) via en.Wiktionary and zh.Wiktionary agreement; fixed the Notes bullet's link, which needed to point to `[[湯 (char)|湯]]` since the actual vault page carries the `(char)` disambiguator; confirmed [[characters/湯 (char)|湯 (char)]]'s own `## Derived Characters` section already correctly lists 蕩.
+
+**`aliases` gap filled — with conservative resolution of a noisy source**: both sources agree on the already-present simplified 荡, plus 蘯 (added). A second candidate, 盪 — not explicitly in zh.Wiktionary's own 異體字 list on a first pass, but independently corroborated by this **vault's own existing HSK lookup data**, which already treats 盪 as pointing to 蕩's page — was added on that internal-precedent basis. Three further zh-only candidates (偒, 簜, 潒, plus a likely rendering artifact 荄) were NOT added: single-source, unconfirmed by en.Wiktionary, and not worth the risk of compounding a possible OCR/extraction error from the fetch.
+
+**`vietnamese` bug found and fixed — the session's most heavily contaminated case yet**: the stored field held six readings (dãng, thững, vảng, đãng, đẵng, đững), but hvdic's exact verbatim transcription gives only two genuine "Âm Hán Việt:" readings, `đãng, đảng` — `đãng` also dual-classified under "Âm Nôm:," while `dãng, thững, vảng, đẵng` are Nôm-only, and `đững` doesn't appear in hvdic's entry at all (an apparent invented/erroneous form). Replaced the entire contaminated list with the two genuine readings, `đãng` and the previously entirely-missing `đảng`.
+
+Rebuilt the malformed `## Notes` (only two bare unlinked CC-lookup wikilinks, no other bullets at all) into the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Hyōgai`, `Korean Name ㅌ` all already correct). `## Words` section was already present and correct, citing the sole stand-in [[放蕩]].
+
+Citing word page [[放蕩]] checked and fixed one bug: an entirely missing `vietnamese` field — hvdic has a direct compound entry for 放蕩 giving `phóng đãng`; added.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 芬 (7433; 826 characters remaining).
