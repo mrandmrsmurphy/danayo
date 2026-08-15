@@ -336,6 +336,7 @@ tags: [lookup]
 332. [弒](../../characters/弒.md)
 333. [斂](../../characters/㪘%20(char).md)
 334. [仍 (char)](../../characters/仍%20(char).md)
+335. [剪 (char)](../../characters/剪%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT

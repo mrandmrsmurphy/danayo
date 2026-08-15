@@ -1645,3 +1645,51 @@ Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-looku
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 厩 (7393; 860 characters remaining).
+
+### 2026-08-15, iteration 1645 — [[characters/厩|厩]]
+
+`mc_id: 2186` reconfirmed correct, indexed under its alias 廄 (the same pattern seen repeatedly this session). `pos: 名詞` (already filled) confirmed appropriate; `hanmun_edu_level` left blank as a genuine alternate convention, not contradicted by any lookup page.
+
+**`graphemic_classification: 㲃` investigated carefully and confirmed correct** — a genuinely confusing case: en.Wiktionary's page for the simplified 厩 itself gives phonetic 既, while the further variant 廏 gives phonetic 𣪘, neither matching the vault's stored 㲃. Checking the canonical traditional form 廄 directly (the form the vault's own `mc_id` indexes 厩 under) resolved it: 廄's own etymology explicitly gives phonetic 㲃, exactly matching the vault's stored value — the three orthographic variants (厩/廄/廏) simply redraw or abbreviate the phonetic differently while representing the same word, and the vault's citation is anchored correctly to the indexed canonical form.
+
+**`aliases` gap filled**: en.Wiktionary's full variant list for 廄 (厩, 廐, 廏, 𢋁, 𠤙) and zh.Wiktionary's explicitly-labeled 異體字 for 廄 (厩, 廏, 廐) both include 廏, not previously stored alongside the existing 廄/廐; added (confirmed no independent vault page). `vietnamese: cứu` (already filled) reconfirmed correct via hvdic on the alias form — no contamination.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced` and `Jinmeiyō`; **found and fixed two broken redlink citations on `Korean Name ㄱ`**: its listing already included `[[廏]]` and `[[廐]]` as bare wikilinks with no target pages of their own — replaced both with proper links to 厩's actual page. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[馬厩]].
+
+Citing word page [[馬厩]] checked: `pos: 名詞` already filled; **fixed a malformed `japanese` field** that held the same reading tripled (`うまや,うまや,うまや`) instead of once; its missing `vietnamese` field investigated directly via hvdic for the compound 馬厩/馬廄 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 叩 (7394; 859 characters remaining).
+
+### 2026-08-15, iteration 1646 — [[characters/叩|叩]]
+
+**`mc_id` off-by-one fixed**: stored `2030`; the real line for 叩 is `2031`. **`pos` gap filled**: was blank, set to `性詞`, matching the citing word [[叩頭]]'s own `性詞`. **`graphemic_classification: 口` investigated and confirmed correct** — an unusual case where the semantic/phonetic roles are reversed from the visually-obvious guess: en.Wiktionary confirms 口 ("mouth") actually functions as the *phonetic* here, while 卩 ("kneeling person," pageless) is the semantic component — the vault's stored value was right all along.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held two readings (khạo, khấu), but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" reading as `khấu` alone, with `khạo` appearing exclusively under "Âm Nôm:". Reduced to the single genuine reading `khấu`.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 敂, 扣; zh.Wiktionary's explicitly-labeled 異體字: 口 already-cited-as-phonetic, 扣) gives 扣 as doubly corroborated; added (confirmed no independent vault page). 敂 was single-source, excluded.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `HSK No`, and `Hyōgai`. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[叩頭]]. **Found and fixed a missing `## Derived Characters` section entirely on [[characters/口 (char)|口 (char)]]** (already `date-last-perfect`-stamped from 2026-07-16) while verifying the phonetic link — added, citing 叩.
+
+Citing word page [[叩頭]] was already fully clean (`pos: 性詞`, `vietnamese: khấu đầu`, `korean: 고두` all filled per its own detailed Notes) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 剪 (char) (7395; 858 characters remaining).
+
+### 2026-08-15, iteration 1647 — [[characters/剪 (char)|剪 (char)]]
+
+`mc_id: 4439` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` and `joyo_level` gaps filled**: `pos` was blank, set to `名詞` ("scissors"); `joyo_level` was blank despite en.Wiktionary explicitly classifying 剪 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 335). **`graphemic_classification: 前` reconfirmed correct** (形聲: semantic [[刀]] "knife" + phonetic 前, Zhengzhang OC \*ʔslenʔ from phonetic \*zleːn — originally 𣦃, later stylized as 前, with the 刀 later reassigned to form this separate character) via en.Wiktionary; both wikilinks needed correcting to their actual filed page names (`刀.md` has no suffix, `前 (char).md` does — opposite of what a naive guess would produce); confirmed [[characters/前 (char)|前 (char)]]'s own Notes and `Derived Characters` section already document this exact split correctly.
+
+**`japanese_native` bug found and fixed**: the stored value was a bare, un-hyphenated `き` — not even a complete reading. Both ja.Wiktionary and Jisho independently confirm two genuine kun-yomi, `き-る` (kiru, "to cut") and `つ-む` (tsumu, "to pick/trim"); replaced the single truncated fragment with the correct two-item hyphenated list.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `tiễn, tiện`, but hvdic's exact verbatim transcription gives only `tiễn` under both the "Âm Hán Việt:" and "Âm Nôm:" lines — `tiện` isn't attested by hvdic at all. Reduced to `tiễn`; independently corroborated by the already-perfected self word page [[剪]], whose own Notes explicitly document having investigated and rejected `tiện` as likely contamination from the unrelated character 便.
+
+**`aliases` gap filled**: both en.Wiktionary and zh.Wiktionary's explicitly-labeled 異體字 sections agree on 翦 as a genuine variant (beyond the already-excluded 前, which is the phonetic itself with its own distinct vault page); added 翦 (confirmed no independent vault page).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `Old HSK 2`, and `Korean Name ㅈ`. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[剪]] is a standalone word page, already fully perfected — added the section citing it.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 儡 (7396; 857 characters remaining).

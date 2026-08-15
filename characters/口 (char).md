@@ -55,3 +55,6 @@ boundedness: 80
 - <ruby>[[口笛]]<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby> "flute; whistle"
 - <ruby>[[瘡口]]<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby> "wound opening"
 - <ruby>[[川口]]<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby> "Kawaguchi"
+
+## Derived Characters
+- <ruby>[[叩]]<rt>ㄎㄛㄨ</rt></ruby> "kowtow, knock"
