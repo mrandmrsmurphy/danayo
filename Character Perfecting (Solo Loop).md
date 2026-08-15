@@ -1219,3 +1219,21 @@ Citing word page [[苦悶]] checked: `pos: 名詞` already filled, no duplicate 
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 拱 (char) (7362; 887 characters remaining).
+
+### 2026-08-14, iteration 1618 — [[characters/拱 (char)|拱 (char)]]
+
+**`mc_id` off-by-one fixed**: stored `2449` (which actually names 虵 in `CC 2000.md`); the real line for 拱 is `2450`. **`korean_native` gap filled**: was an empty string, not just unset — verified via ko.Wiktionary's own 훈음 gloss "팔짱낄 공" (to clasp hands/fold arms) and filled with `팔짱낄`, matching the vault convention of storing only the 훈 stem.
+
+**`vietnamese` contamination bug found and fixed — the largest single-field cleanup this session**: the stored field held four readings (cõng, cùng, cũng, củng), but hvdic.thivien.net's exact verbatim transcription gives only `củng` under the genuine "Âm Hán Việt:" line, with `cõng` and `cùng` explicitly under "Âm Nôm:" instead; `cũng` (one of the single most common Vietnamese function words, "also/too," unrelated to this character) wasn't attested by hvdic at all and appears to have been pure contamination. Reduced to the single genuine reading `củng`.
+
+**`graphemic_classification: 共` reconfirmed correct** (形聲/會意 hybrid per en.Wiktionary: semantic [[Radical 064|扌]] "hand" + phonetic 共, OC \*kloŋʔ) — but investigated 共 itself as a possible alias candidate (both en.Wiktionary and zh.Wiktionary's explicitly-labeled 異體字 sections list it) and excluded it, since 共 already has its own independent, actively-used vault page (`共 (char).md`, "with, together") with a wholly different core meaning — the same phonetic-relation-vs-true-alias distinction established on [[characters/屏|屏]] (摒) and [[characters/墊 (char)|墊 (char)]] (簟) earlier this session. 拲/珙 (zh-only) and 廾 (en-only) were likewise single-source and excluded.
+
+**Two broken wikilinks fixed**: the old Notes referenced bare `[[扌]]` (no such page exists — the semantic component is the Radical 064 lookup page, not a standalone character page) and `[[共]]` (the actual vault page is filed as `共 (char).md`). **Found and fixed a stale/broken `## Words` entry**: the page cited `[[拱手]]`, a word page that does not exist in this vault (confirmed via a vault-wide search, and already independently flagged in the vault's own `broken links output.md` audit) — replaced with a correct self-citation of [[拱]], matching this character's own `stand_in: 拱`. **Found and fixed a missing `Hyōgai` citation**: added as new sequential item 322.
+
+Rebuilt the malformed Notes to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `Old HSK 4`, and `Korean Name ㄱ`. **Found and fixed a missing `## Derived Characters` section entirely on [[characters/共 (char)|共 (char)]]** (a previously-`date-last-perfect`-stamped page from 2026-07-10 that had never had this section at all) — added it, citing 拱.
+
+Self word page [[拱]] checked and fixed two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `củng`, matching the character's own corrected reading) and **missing `pos` field** (added `名詞`).
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 捷 (7363; 886 characters remaining).

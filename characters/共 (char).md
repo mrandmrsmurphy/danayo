@@ -53,6 +53,8 @@ boundedness: 90
 - <ruby>[[越共]]<rt>⼔ㄊㄍ⼄ㄫ</rt></ruby> "Vietcong"
 - <ruby>[[共産党]]<rt>ㄍ⼄ㄫㄙㄚㄋㄉㄚㄫ</rt></ruby> "Communist Party"
 - <ruby>[[共格]]<rt>ㄍ⼄ㄫㄍㄚㄎ</rt></ruby> "comitative case"
+## Derived Characters
+- <ruby>[[拱 (char)|拱]]<rt>ㄍ⼄ㄫ</rt></ruby> "arch"
 ## Chengyu
 - [[不共戴天]] "absolutely irreconcilable"
 - [[百家共承]] "hundred schools jointly inherited"

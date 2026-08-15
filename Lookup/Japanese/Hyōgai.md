@@ -323,6 +323,7 @@ tags: [lookup]
 319. [墊 (char)](../../characters/墊%20(char).md)
 320. [寞](../../characters/寞.md)
 321. [屏](../../characters/屏.md)
+322. [拱 (char)](../../characters/拱%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT
