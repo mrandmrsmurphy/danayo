@@ -338,6 +338,8 @@ tags: [lookup]
 334. [仍 (char)](../../characters/仍%20(char).md)
 335. [剪 (char)](../../characters/剪%20(char).md)
 336. [儡](../../characters/儡.md)
+337. [撇 (char)](../../characters/撇%20(char).md)
+338. [柬 (char)](../../characters/柬%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT

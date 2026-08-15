@@ -40,7 +40,7 @@ These have all been checked for redirects.
  [卞](characters/卞.md) [弁 (char)](characters/弁%20(char).md) [便 (char)](characters/便%20(char).md) [[釆]] 
 
 ### 별 
- [瞥](characters/瞥.md) [鼈 (char)](characters/鼈%20(char).md) [襒](characters/撇%20(char).md) [[𩠻]] [[莂]] [[鷩]]
+ [瞥](characters/瞥.md) [鼈 (char)](characters/鼈%20(char).md) [襒](characters/撇%20(char).md) [[𩠻]] [[莂]] [[鷩]] [撇 (char)](characters/撇%20(char).md)
 
 ### 병 
  [幷](characters/並%20(char).md) [倂](characters/並%20(char).md) [[甁]] [[輧]] [[炳]] [柄 (char)](characters/柄%20(char).md) [[昞]] [秉](characters/秉.md) [[餠]] [[騈]] [[鉼]] [[抦]] [屏](characters/屏.md)

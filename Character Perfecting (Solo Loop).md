@@ -1737,3 +1737,63 @@ Citing word page [[抜擢]] was already fully clean (`pos: 事詞`, `vietnamese:
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 撇 (char) (7401; 854 characters remaining).
+
+### 2026-08-15, iteration 1651 — [[characters/撇 (char)|撇 (char)]]
+
+`mc_id: 9478` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. `pos: 事詞` (already filled) confirmed appropriate. **`graphemic_classification: 敝` reconfirmed correct** (形聲: semantic [[Radical 064|手]] "hand" + phonetic 敝, Zhengzhang OC \*pʰeːd) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`aliases` bug found and fixed**: the stored `襒` was investigated specifically because it wasn't corroborated by either general variant-form fetch — a direct check of 襒's own zh.Wiktionary page confirmed it as a distinct sibling character sharing the same 敝 phonetic-series root but with its own reading (bié, vs. 撇's piē) and its own semantic radical (衣 "clothing," not 手), **not** a true variant/alias — removed. Intersecting both sources' actual labeled variant sections instead surfaced 撆 (confirmed by both en.Wiktionary and zh.Wiktionary), which was added in its place.
+
+**`japanese_native` bug found and fixed**: stored as the truncated, un-hyphenated `ぬぐ` — both Jisho and general knowledge confirm the genuine kun-yomi is `ぬぐ.う` (nuguu, "to wipe"); corrected to the properly hyphenated `ぬぐ-う`.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held four readings (phiết, phét, phết, phệt), but hvdic's exact verbatim transcription gives only `phiết` under the genuine "Âm Hán Việt:" line — `phét`/`phết` are Nôm-only and `phệt` isn't attested by hvdic at all. Reduced to the single genuine reading `phiết`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced` and `Old HSK 4`; **found and fixed two missing citations**: `Hyōgai` (added as new sequential item 337) and `Korean Name ㅂ`'s `### 별` subsection, which oddly already carried an entry for 襒 pointing at 撇's own page (left untouched, pre-existing and out of scope) but was missing 撇 itself — added. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[撇]] is a standalone word page — added the section citing it.
+
+Self word page [[撇]] checked and fixed three bugs: **`vietnamese: null` literal placeholder** (fixed to `phiết`), **`korean: "null"` literal string placeholder** — a variant of the same bug pattern, this time appearing in the Korean field instead (fixed to `별`, matching the character), and **missing `pos` field** (added `事詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 柬 (char) (7403; 853 characters remaining).
+
+### 2026-08-15, iteration 1652 — [[characters/柬 (char)|柬 (char)]]
+
+`mc_id: 5112` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. `pos: 名詞` (already filled) confirmed appropriate; `hanmun_edu_level` left blank as a genuine alternate convention.
+
+**`graphemic_classification` bug found and fixed**: the stored value `指事` (indicative) contradicted the page's own pre-existing Notes bullet, "Components: 束, 八" — a textbook 會意 (ideogrammic compound) structure. En.Wiktionary explicitly confirms 柬 as 會意: 束 ("tie") + 八 ("division, individually"), matching the page's own Notes exactly; corrected the frontmatter field to `會意` to match what the page already documented elsewhere. `vietnamese: giản` (already filled) reconfirmed correct via hvdic — no contamination. No aliases added: zh.Wiktionary's variant candidates (㪝, 揀, 簡) weren't corroborated by en.Wiktionary, and 揀/簡 are independently common characters likely to have their own vault pages regardless.
+
+Rebuilt the malformed `## Notes` (a stray unlinked "Components" bullet mixed with two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format, properly linking [[束 (char)|束]] and [[八 (char)|八]] to their actual vault pages. Confirmed citation on `Grade Advanced` and `Old HSK 4`; **found and fixed a broken citation on `Korean Name ㄱ`**: its existing entry pointed to `words/柬.md` instead of the character page (inconsistent with every neighboring entry on the same line, all linking to `characters/`) — corrected the target. **Found and fixed a missing `Hyōgai` citation** — added as new sequential item 338. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[柬]] is a standalone word page — added the section citing it. Checked [[characters/束 (char)|束 (char)]]'s own `Derived Characters` section (which tracks phonetic derivatives like 竦, 速) and confirmed 柬 correctly doesn't belong there, since it uses 束 as a semantic component in a 會意 compound, not as a phonetic.
+
+Self word page [[柬]] checked and fixed two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `giản`) and **missing `pos` field** (added `名詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 櫛 (char) (7404; 852 characters remaining).
+
+### 2026-08-15, iteration 1653 — [[characters/櫛 (char)|櫛 (char)]]
+
+**`mc_id` off-by-one fixed**: stored `3239`; the real line for 櫛 is `3240`. `pos: 名詞` (already filled) confirmed appropriate. **`graphemic_classification: 節` reconfirmed correct** (形聲: semantic [[木 (char)|木]] "wood" + phonetic 節, Zhengzhang OC \*ʔsriɡ from phonetic \*ʔsiːɡ) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/節 (char)|節 (char)]]'s own `Derived Characters` section already correctly lists 櫛. `vietnamese: trất` (already filled) reconfirmed correct via hvdic — no contamination. No further aliases found beyond the already-present, already-correct simplified 栉.
+
+Rebuilt the malformed `## Notes` (a stray unlinked "Components" bullet mixed with two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `HSK No`, `Jinmeiyō`, `Korean Name ㅈ` all already correct) — no lookup-page fixes needed this iteration. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[櫛]] is a standalone word page — added the section citing it.
+
+Self word page [[櫛]] checked and fixed two of the standard recurring bugs: **blank `vietnamese`** (filled with `trất`, matching the character) and **missing `pos` field** (added `名詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 槌 (char) (7405; 851 characters remaining).
+
+### 2026-08-15, iteration 1654 — [[characters/槌 (char)|槌 (char)]]
+
+`mc_id: 5656` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `名詞` ("hammer"). **`korean_native` investigated but left blank**: no corroborated 훈 gloss found on either ko.Wiktionary (404) or zh.Wiktionary's Korean section (bare sound-reading only) — left as a genuine gap rather than guessed. **`graphemic_classification: 追` reconfirmed correct** (形聲: semantic [[木 (char)|木]] "wood" + phonetic 追) via en.Wiktionary and zh.Wiktionary agreement — the Notes wikilink needed correcting to `[[追 (char)|追]]`, since the actual vault page is filed as `追 (char).md`; confirmed its own `Derived Characters` section already correctly lists 槌.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `chuỳ, dùi`, but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" readings as `chuỳ, truỳ, đôi` — `dùi` is Nôm-only, and the two other genuine readings (`truỳ`, `đôi`) had never been present. Fixed to `[chuỳ, truỳ, đôi]`.
+
+**`aliases` gap filled**: en.Wiktionary's hedge-worded mention of 鎚/椎 as "alternative spellings... etymological relationships unclear" was cross-checked against zh.Wiktionary's explicitly-labeled 異體字 section, which independently confirms 鎚 (but not 椎) — added 鎚 as the doubly-corroborated candidate (confirmed no independent vault page).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `HSK No`, `Jinmeiyō`, and `Korean Name ㅌ`. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[槌]] is a standalone word page — added the section citing it.
+
+Self word page [[槌]] checked and fixed two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `chuỳ`, the character's primary reading) and **missing `pos` field** (added `名詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 欣 (7406; 850 characters remaining).

@@ -8,14 +8,15 @@ japanese:
 japanese_native: つち
 vietnamese:
   - chuỳ
-  - dùi
+  - truỳ
+  - đôi
 middle_chinese_initial: ɖ
 middle_chinese_final: ɣiuᴇ
 stroke_count: 13
 radical: 木
 skip_number: 1-4-9
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - hammer
 羅馬字: jwei
@@ -28,11 +29,13 @@ mc_id: 5656
 graphemic_classification: 追
 stand_in: 槌
 aliases:
+  - 鎚
 注音: ㄐ⼔ㄧ
 kwin: false
 tags:
   - character
 boundedness: 80
+date-last-perfect: 2026-08-15
 ---
 >[!tip] This is a page about the character 槌.
 >For the word, see [槌](words/槌.md)
@@ -41,6 +44,11 @@ boundedness: 80
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 澄]]
-[[Lookup/CC/finals/韻 支B三合]]
+## Notes
+- 形声 (Zhengzhang OC \*dols, \*dul): semantic [[木 (char)|木]] ("wood") + phonetic [[追 (char)|追]].
+- [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 5656th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [ㄐ⼔ㄧ](syllables/ㄐ⼔ㄧ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Words
+- <ruby>[[槌]]<rt>ㄐ⼔ㄧ</rt></ruby> "hammer"

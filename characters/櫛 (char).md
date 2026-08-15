@@ -23,7 +23,7 @@ joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7404
-mc_id: 3239
+mc_id: 3240
 graphemic_classification: "節"
 stand_in: "櫛"
 aliases:
@@ -33,6 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-15
 ---
 >[!tip] This is a page about the character 櫛.
 >For the word, see [櫛](words/櫛.md)
@@ -42,6 +43,10 @@ boundedness: 90
 ```
 
 ## Notes
-- Components: [[木]], [[節]]
-[[Lookup/CC/initials/聲 莊]]
-[[Lookup/CC/finals/韻 櫛]]
+- 形声 (Zhengzhang OC \*ʔsriɡ): semantic [[木 (char)|木]] ("wood") + phonetic [[節 (char)|節]] (OC \*ʔsiːɡ).
+- [SKIP-1-4-13](lookup/SKIP/SKIP-1/SKIP-1-4-13.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
+- 3240th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄐㄜㄊ](syllables/ㄐㄜㄊ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Words
+- <ruby>[[櫛]]<rt>ㄐㄜㄊ</rt></ruby> "comb"

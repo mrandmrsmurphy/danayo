@@ -7,12 +7,9 @@ japanese:
   - HETSU
   - HECHI
   - HEI
-japanese_native: ぬぐ
+japanese_native: ぬぐ-う
 vietnamese:
   - phiết
-  - phét
-  - phết
-  - phệt
 middle_chinese_initial: pʰ
 middle_chinese_final: iᴇt
 stroke_count: 15
@@ -32,12 +29,13 @@ mc_id: 9478
 graphemic_classification: 敝
 stand_in: 撇
 aliases:
-  - 襒
+  - 撆
 注音: ㄆㄝㄊ
 kwin: false
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-15
 ---
 >[!tip] This is a page about the character 撇.
 >For the word, see [撇](words/撇.md)
@@ -46,6 +44,11 @@ boundedness: 90
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 滂]]
-[[Lookup/CC/finals/韻 薛A三開]]
+## Notes
+- 形声 (Zhengzhang OC \*pʰeːd): semantic [[Radical 064|手]] ("hand") + phonetic [[敝]] (OC \*beds, \*bed).
+- [SKIP-1-3-12](lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
+- 9478th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄆㄝㄊ](syllables/ㄆㄝㄊ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](Lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Words
+- <ruby>[[撇]]<rt>ㄆㄝㄊ</rt></ruby> "throw away"
