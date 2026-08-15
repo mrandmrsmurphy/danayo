@@ -346,6 +346,7 @@ tags: [lookup]
 342. [鹸 (char)](../../characters/鹸%20(char).md)
 343. [鬣 (char)](../../characters/鬣%20(char).md)
 344. [駝](../../characters/駝.md)
+345. [芬](../../characters/芬.md)
 
 
 [[../../characters/吠]] - barking DO IT

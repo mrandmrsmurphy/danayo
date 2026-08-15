@@ -2159,3 +2159,19 @@ Citing word page [[放蕩]] checked and fixed one bug: an entirely missing `viet
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 芬 (7433; 826 characters remaining).
+
+### 2026-08-15, iteration 1679 — [[characters/芬|芬]]
+
+**`mc_id` off-by-one bug found and fixed**: stored as `2995` (which actually belongs to a different character, 彥), but 芬 is the 2996th entry in `CC 2000.md` — corrected to `2996`. **`graphemic_classification: 分` reconfirmed correct** (形声: semantic [[Radical 140|艸]] "grass" + phonetic 分) via en.Wiktionary and zh.Wiktionary agreement; a stray content error in the existing Notes ("bamboo" for 艸, which actually means "grass" — bamboo is 竹) was fixed in the rebuild. Confirmed [[characters/分 (char)|分 (char)]]'s own `## Derived Characters` section already lists 芬 (that page's overall formatting is rougher — bare unruby'd links throughout — but out of scope for this iteration). No aliases added: zh.Wiktionary's sole candidate, 㞣, wasn't corroborated by en.Wiktionary, which explicitly states there are no variant forms.
+
+**`vietnamese` gap filled — adding rather than removing**: the stored field held only `phân`, but hvdic's exact verbatim "Âm Hán Việt:" line gives two genuine readings, `phân, phần` (with `phân` also dual-classified under "Âm Nôm:"). Added the missing genuine `phần`.
+
+**Two missing lookup citations found and fixed**: despite `joyo_level: 表外字` and `hsk_level: 無`, 芬 was absent from both `Hyōgai` (added as new sequential item 345) and `HSK No` (a manually-maintained list, not a dynamic Base like `Grade Advanced` — added to its `## List`). `Korean Name ㅂ`'s `### 분` subsection already correctly cited 芬.
+
+Rebuilt the malformed `# Notes` (wrong heading level, the "bamboo" content error, a stray `### Words` subheading nested one level too deep, one entry — [[芬蘭]] — with no ruby annotation or gloss) into the standard 4-bullet format plus a properly formatted `## Words` section. Verified [[芬蘭]]'s own 注音 directly rather than assuming — its stored reading (`ㄆㄨㄋㄌㄚㄋ`, P-initial) differs from 芬's own regular reading (`ㄈㄨㄋ`, F-initial); left as-is since it's an internally consistent proper-noun transliteration on a separate, not-yet-perfected word page, not something to silently override from this character's own citation.
+
+Citing word page [[芬芳]] checked and fixed one bug: an entirely missing `vietnamese` field — hvdic has a direct compound entry for 芬芳 giving `phân phương`; added.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 艱 (7434; 825 characters remaining).

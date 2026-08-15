@@ -729,6 +729,7 @@ tags: [lookup]
 [[妓]]
 [[萎]]
 [掻 (char)](../../characters/掻%20(char).md)
+[芬](../../characters/芬.md)
 
 ## Datacheck
 ```base
