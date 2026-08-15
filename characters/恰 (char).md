@@ -34,6 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
+date-last-perfect: 2026-08-14
 ---
 >[!tip] This is a page about the character 恰.
 >For the word, see [恰](words/恰.md)
@@ -42,8 +43,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
-- [忄](Radical%20061) + [合 (char)](characters/合%20(char).md) = [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), HSK 3, [Grade Advanced](lookup/Grade%20Advanced.md)
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 洽]]
+## Notes
+- 形声 (Zhengzhang OC \*kʰruːb): semantic [[Radical 061|忄]] ("heart") + phonetic [[合 (char)|合]] (OC \*kuːb, \*ɡuːb).
+- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- 8219th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 洽|ɣɛp]] → [ㄎㄚㄆ](syllables/ㄎㄚㄆ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅎ](Lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Words
+- <ruby>[[恰]]<rt>ㄎㄚㄆ</rt></ruby> "exactly, just"

@@ -1189,3 +1189,33 @@ Citing word page [[彷彿]] checked: `pos: 副詞` already filled, no duplicate 
 Stamped `date-last-perfect: 2026-08-14`.
 
 Next never-perfected character by `danayo_id`: 恰 (char) (7359; 889 characters remaining).
+
+### 2026-08-14, iteration 1616 — [[characters/恰 (char)|恰 (char)]]
+
+`mc_id: 8219` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. `pos: 性詞` and `graphemic_classification: 合` were both already correct — the latter reconfirmed (形聲: semantic [[Radical 061|忄]] "heart" + phonetic 合, Zhengzhang OC \*kʰruːb from phonetic \*kuːb/\*ɡuːb) via en.Wiktionary and zh.Wiktionary agreement; no doubly-corroborated variant forms found (en.Wiktionary's 太 note was for a separate, unrelated Etymology 2 and unconfirmed by zh.Wiktionary), so the existing blank `aliases` is a genuine "no variants" state.
+
+**`vietnamese: kháp` investigated and deliberately left as the sole reading**: hvdic's exact verbatim "Âm Hán Việt:" line gives two readings, `cáp, kháp`, but unlike the same-sense doublet case on [[characters/嵌|嵌]], neither en.Wiktionary's pronunciation section nor the vault's own stored Cantonese (`hap1`, phonetically matching kháp, not cáp) gave any way to confirm `cáp` belongs to the same qià "exactly, just" sense covered by this page — en.Wiktionary's only other listed Mandarin reading (qiā, dialectal "eat" slang) is clearly unrelated to either Vietnamese form. Absent that confirmation, `cáp` was withheld rather than guessed onto the page.
+
+Rebuilt the malformed `# Notes` (wrong heading level, a raw "= [SKIP...]" concatenation instead of separate bullets, a bare "HSK 3" plain-text mention instead of a proper Old HSK 3 link) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 3`, `Jinmeiyō`, `Korean Name ㅎ` all already correct) — no lookup-page fixes needed. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[恰]] is a standalone word page — added the section citing it.
+
+Self word page [[恰]] checked and found a missing `pos` field entirely (not even present in frontmatter, not just blank) — added `性詞` to match the character page.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 悶 (7360; 888 characters remaining).
+
+### 2026-08-14, iteration 1617 — [[characters/悶|悶]]
+
+`mc_id: 3424` reconfirmed correct against `CC 3000.md` (a rare clean check, no off-by-one). **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[苦悶]]'s own `名詞`. **`graphemic_classification: 門` reconfirmed correct** (形聲: semantic [[Radical 061|心]] "heart" + phonetic 門, Zhengzhang OC \*mɯːns) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`vietnamese` contamination bug found and fixed — the significant catch this iteration**: the stored field held three readings (muốn, muộn, mụn), but both hvdic.thivien.net's exact verbatim transcription *and* an independent en.Wiktionary check agree precisely: the genuine "Âm Hán Việt:" readings are `muộn, môn`, while `muốn` and `mụn` are Nôm-only vernacular readings that don't belong in this field. Fixed to `[muộn, môn]` — removing two contaminated entries and simultaneously recovering a missing genuine second reading (`môn`) that had never been present at all.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 㥃, 惛; zh.Wiktionary's explicitly-labeled 異體字 section: 㥃, 闷) gives 㥃 as newly doubly corroborated (in addition to the already-present, already-correct simplified alias 闷); added 㥃 (confirmed no independent vault page). 惛 was single-source only (en.Wiktionary), excluded per policy.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 3` — via the same established dual traditional/simplified-form listing pattern seen on other characters this session, not a bug — `Hyōgai`, `Korean Name ㅁ` all already correct) — no lookup-page fixes needed. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[苦悶]]. No Derived Characters citing 悶 as their own phonetic; no Chengyu hits; no other word pages cite 悶.
+
+Citing word page [[苦悶]] checked: `pos: 名詞` already filled, no duplicate 品詞; its blank `vietnamese`/`hsk_level` fields investigated directly via hvdic for the compound 苦悶 — no attested entry found, confirming genuine gaps; left untouched.
+
+Stamped `date-last-perfect: 2026-08-14`.
+
+Next never-perfected character by `danayo_id`: 拱 (char) (7362; 887 characters remaining).
