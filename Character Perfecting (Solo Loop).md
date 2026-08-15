@@ -1489,3 +1489,53 @@ Citing word page [[烝民]]'s blank `vietnamese` field investigated directly via
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 焰 (7380; 870 characters remaining).
+
+### 2026-08-15, iteration 1635 — [[characters/焰|焰]]
+
+`mc_id: 5510` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[火焰]]'s own `名詞`.
+
+**`graphemic_classification` bug found and fixed**: the stored value `陥` was wrong — both en.Wiktionary and zh.Wiktionary independently identify the true phonetic component as [[臽]] (OC \*kʰloːmʔ, \*ɡroːms), a pageless character distinct from [[characters/陥 (char)|陥 (char)]] (itself a derived character sharing the same phonetic 臽 but with a different semantic radical, "to fall into," and its own independent vault page) — the same sibling-derived-character confusion pattern caught repeatedly this session (屠/者, 掏/陶, 歇/曷). Corrected to `臽`; confirmed 陥 (char)'s own page had no stray cross-reference to clean up.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 焔, 燄, 熖, 爓/𰟘; zh.Wiktionary's explicitly-labeled 異體字 and "其他变体" notes: 㷔, 炎, 燄, 爓, 焔) gives three doubly-corroborated forms — 焔, 燄, 爓 — added all three (confirmed none has an independent vault page). `炎` — despite zh.Wiktionary listing it — was excluded, having its own independent, actively-used vault page (the same phonetic-relation-vs-true-alias pattern flagged repeatedly this session). 㷔 and 熖 were single-source, excluded.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held three readings (dim, diêm, diễm), but hvdic.thivien.net's exact verbatim transcription gives the genuine "Âm Hán Việt:" readings as `diễm, diệm`, with `diêm` and `dim` both under "Âm Nôm:" — reduced to the two genuine readings, recovering the previously entirely-missing `diệm`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 3`, `Jinmeiyō`, `Korean Name ㅇ` all already correct) — no lookup-page fixes needed this iteration. `## Words` section was already present and correct, citing the sole stand-in [[火焰]].
+
+Citing word page [[火焰]] checked and found already fully clean (`pos: 名詞`, `vietnamese: hỏa diễm` both filled) — no edit needed.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 弒 (7381; 869 characters remaining).
+
+### 2026-08-15, iteration 1636 — [[characters/弒|弒]]
+
+`mc_id: 1050` reconfirmed correct against `CC 1000.md` (no off-by-one). **`pos`, `joyo_level`, and `korean_native` gaps all filled**: `pos` was blank, set to `事詞`, matching the citing word [[弒君]]'s own `事詞`; `joyo_level` was blank despite en.Wiktionary explicitly classifying 弒 as hyōgai kanji — filled with `表外字`, with a correspondingly missing `Hyōgai` citation added (new sequential item 332); `korean_native` was an empty string — filled with `윗사람 죽일` ("to kill one's superior"), verified via ko.Wiktionary's own 훈음 gloss. `hsk_level` was left blank deliberately — not contradicted by any lookup page, and blank is an established alternate convention alongside `無` elsewhere in this vault.
+
+**`graphemic_classification: 式` reconfirmed correct** (形聲: abbreviated semantic [[殺 (char)|殺]] "to kill" + phonetic 式, Zhengzhang OC \*hljɯɡs) via en.Wiktionary; confirmed [[characters/式|式]]'s own `Derived Characters` section already correctly lists 弒. `vietnamese: thí` (already filled) reconfirmed correct — hvdic gives only `thí` with no "Âm Nôm:" line at all, no contamination. Existing alias `弑` (simplified form) reconfirmed correct; zh.Wiktionary's other listed variant, 殺, was excluded as it's a common independent character with its own vault page (the same phonetic/semantic-relation-vs-true-alias pattern flagged repeatedly this session).
+
+**Preserved and properly documented an unusual pre-existing note rather than discarding it as noise**: the malformed Notes held a bare, cryptic fragment "Pronunciation from V" — investigated and confirmed this refers to the character's `hapax` tag and its Dan'a'yo reading (`ti`/ㄊㄧ) having been deliberately taken from the Vietnamese Hán Việt reading `thí` rather than the standard Middle-Chinese-initial-plus-final derivation pipeline (which would give a different syllable from 書+之) — rebuilt into a proper explanatory bullet within the standard format rather than dropped.
+
+Confirmed citation on `Grade Advanced` and `Korean Name ㅅ` (no `HSK` citation expected, matching its blank `hsk_level`). `## Words` section was already present and correct, citing the sole stand-in [[弒君]].
+
+Citing word page [[弒君]]'s blank `vietnamese` field investigated directly via hvdic for the compound 弒君 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 趨 (char) (7382; 868 characters remaining).
+
+### 2026-08-15, iteration 1637 — [[characters/趨 (char)|趨 (char)]]
+
+`mc_id: 1085` reconfirmed correct against `CC 1000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `動詞`. **`graphemic_classification: 芻` reconfirmed correct** (形聲: semantic [[Radical 156|走]] "run, walk" + phonetic 芻, Zhengzhang OC \*sʰlo) via en.Wiktionary and zh.Wiktionary agreement.
+
+**`aliases` gap filled**: intersecting both sources' variant-form lists (en.Wiktionary: 趍, 騶/驺, 趣, 𧻫, 𧻬, 𨃘, 𧼜, plus simplified 趋; zh.Wiktionary's explicitly-labeled 異體字: 趋, 趍, 趣, 跢) gives 趍 as newly doubly corroborated (in addition to the already-present, already-correct simplified alias 趋); added 趍. `趣` — despite both sources calling it a variant — was excluded, having its own independent, actively-used vault page ("interest, fun," the same phonetic-relation-vs-true-alias pattern flagged repeatedly this session).
+
+**`vietnamese` contamination bug found and fixed**: the stored field held three readings (so, xu, xô), but hvdic.thivien.net's exact verbatim transcription gives only `xu, xúc` under the genuine "Âm Hán Việt:" line, with `so` and `xô` both under "Âm Nôm:" — reduced to the two genuine readings, recovering the previously-missing `xúc`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Hyōgai`, `Korean Name ㅊ` all already correct) — no lookup-page fixes needed. **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[趨]] is a standalone word page — added the section citing it. **Found and fixed a missing `## Derived Characters` section entirely on [[characters/芻|芻]]** (a later, not-yet-perfected character in the sweep, danayo_id 7498) while verifying the phonetic link — added, citing 趨, per this session's practice of fixing directly-discovered consequence bugs on other pages regardless of their own perfection status.
+
+Self word page [[趨]] checked and fixed two of the standard recurring bugs: **`vietnamese: null` literal placeholder** (fixed to `xu`, matching the character's own corrected primary reading) and **missing `pos` field** (added `動詞`).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 讐 (7383; 867 characters remaining).
