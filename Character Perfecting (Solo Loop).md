@@ -2057,3 +2057,15 @@ Citing word page [[綏靖]] was already fully perfected (checked, no bugs found)
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 鑼 (7426; 833 characters remaining).
+
+### 2026-08-15, iteration 1672 — [[characters/鑼|鑼]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel: 鑼/锣 don't appear anywhere in `CC 0000.md`–`CC 3000.md`. **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[銅鑼]]'s own `名詞`. **`graphemic_classification: 羅` reconfirmed correct** (形声: semantic [[Radical 167|金]] "metal" + phonetic 羅) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/羅|羅]]'s own `## Derived Characters` section already correctly lists 鑼. `aliases: 锣` reconfirmed complete — en.Wiktionary's only other candidate, 𬫤, is explicitly noted on its own page as nonexistent ("page does not exist") and isn't corroborated by zh.Wiktionary at all. `vietnamese: la` reconfirmed correct — hvdic shows `la` as both genuine Hán Việt and Nôm simultaneously (dual-classified, not contaminated). `joyo_level` confirmed genuinely blank (no fix needed): searched all Japanese classification lookup files (Jōyō grades, Jinmeiyō, Hyōgai) and 鑼 appears in none of them, consistent with the empty field.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks, no other bullets at all) into the standard 4-bullet format. Confirmed citation on `Grade Advanced` and `Old HSK 3`. **Found and fixed a missing `Korean Name ㄹ` citation**: the `### 라` subsection existed but had no entry for 鑼 — added. **Found and fixed an entirely missing `## Words` section**: added, citing the `stand_in` [[銅鑼]].
+
+Citing word page [[銅鑼]] checked and fixed two bugs: a duplicate `品詞: 名詞` field exactly redundant with `pos: 名詞` (removed), and an entirely missing `korean` field (filled `동라`, compositional from [[銅 (char)|銅]]'s own `동` + 鑼's own `라`, matching the already-correct stored `諺文: 동라`). Its blank `vietnamese` field was investigated directly via hvdic for the compound 銅鑼 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 鋏 (char) (7427; 832 characters remaining).

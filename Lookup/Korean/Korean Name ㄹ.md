@@ -4,7 +4,7 @@ tags: [lookup]
 All of these have been checked for redirects.
 
 ### 라
-[螺](characters/螺.md) [喇](characters/喇.md) [懶](characters/懶.md) 癩 --> 厉 [蘿](characters/蘿.md) [裸](characters/裸%20(char).md) [邏](characters/邏.md) 剆 覶 摞 蓏 
+[螺](characters/螺.md) [喇](characters/喇.md) [懶](characters/懶.md) 癩 --> 厉 [蘿](characters/蘿.md) [裸](characters/裸%20(char).md) [邏](characters/邏.md) [鑼](characters/鑼.md) 剆 覶 摞 蓏 
 
 ### 락
 [珞](characters/絡%20(char).md) [酪](characters/酪.md) [烙](characters/落.md) [駱](characters/駱.md) [洛](characters/洛.md)
