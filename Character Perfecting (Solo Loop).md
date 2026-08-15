@@ -1589,3 +1589,31 @@ Self word page [[仍]] was already fully perfected (`pos: 副詞` filled, stampe
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 嬌 (7387; 864 characters remaining).
+
+### 2026-08-15, iteration 1641 — [[characters/嬌|嬌]]
+
+`mc_id: 5259` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `性詞`, matching the citing word [[嬌媚]]'s own `性詞`. **`graphemic_classification: 喬` reconfirmed correct** (形聲: semantic [[Radical 038|女]] "woman" + phonetic 喬, Zhengzhang OC \*krew/\*krewʔ/\*ɡrew) via en.Wiktionary and zh.Wiktionary agreement; `vietnamese: kiều` (already filled) double-checked against hvdic's exact verbatim transcription — both "Âm Hán Việt:" and "Âm Nôm:" lines give `kiều` identically, no contamination. zh.Wiktionary's labeled 異體字 list added two further candidates (姣, 驕) beyond the already-present, doubly-confirmed 娇, but neither was corroborated by en.Wiktionary, so nothing further was added.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 4`, `Hyōgai`, `Korean Name ㄱ` all already correct) — no lookup-page fixes needed. **Found and fixed a missing `## Derived Characters` section on [[characters/喬|喬]]** (a later, not-yet-perfected character in the sweep, danayo_id 8179) while verifying the phonetic link — added, citing 嬌, without otherwise touching 喬's own still-pending perfection.
+
+Citing word page [[嬌媚]] had a blank `vietnamese` field despite its own Notes explicitly documenting the intended mechanical derivation (嬌's own `kiều` + 媚's own `mị`) — no formally-labeled hvdic entry exists for the compound itself, but since the page's own stated logic made the intended value unambiguous, filled it as `kiều mị` rather than leaving a pure gap.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 墟 (7388; 863 characters remaining).
+
+### 2026-08-15, iteration 1642 — [[characters/墟|墟]]
+
+`mc_id: 2512` reconfirmed correct against `CC 2000.md` (no off-by-one). **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[廃墟]]'s own `名詞`. **`graphemic_classification: 虚` reconfirmed correct** (形聲: semantic [[Radical 032|土]] "earth" + phonetic 虚/虛, Zhengzhang OC \*kʰa) — the actual vault page is `虚 (char).md`, with 虛 already correctly stored as its own alias (the same 査/查-style dual-form pattern seen on [[characters/掏|掏]] earlier this session); confirmed [[characters/虚 (char)|虚 (char)]]'s own `Derived Characters` section already correctly lists 墟.
+
+**`vietnamese: [hư, khư]` reconfirmed correct and left unchanged**: unlike most contamination cases this session, hvdic's exact verbatim transcription shows both readings under *both* the "Âm Hán Việt:" and "Âm Nôm:" lines — a genuine dual Hán-Việt/Nôm classification for both forms, not contamination.
+
+**`aliases` gap filled**: both en.Wiktionary and zh.Wiktionary's explicitly-labeled 異體字 sections agree on 圩 as a genuine variant; added (confirmed no independent vault page).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `Old HSK 3`, `Hyōgai`, `Korean Name ㅎ` all already correct) — no lookup-page fixes needed. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[廃墟]].
+
+Citing word page [[廃墟]]'s blank `vietnamese` field investigated directly via hvdic for the compound 廃墟/廢墟 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 肋 (7389; 862 characters remaining).
