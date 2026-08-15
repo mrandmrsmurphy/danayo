@@ -83,3 +83,4 @@ boundedness: 100
 - <ruby>[[定]]<rt>ㄐㄝㄫ</rt></ruby> "decide"
 - <ruby>[[征]]<rt>ㄐㄝㄫ</rt></ruby> "conquer"
 - <ruby>[[症]]<rt>ㄐㄧㄫ</rt></ruby> "disease"
+- <ruby>[[鉦]]<rt>ㄐㄧㄫ</rt></ruby> "marching gong"

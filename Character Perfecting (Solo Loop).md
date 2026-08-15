@@ -2069,3 +2069,47 @@ Citing word page [[銅鑼]] checked and fixed two bugs: a duplicate `品詞: 名
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 鋏 (char) (7427; 832 characters remaining).
+
+### 2026-08-15, iteration 1673 — [[characters/鋏 (char)|鋏 (char)]]
+
+`mc_id: 5392` confirmed to be a genuine trusted long-tail value (beyond the vault's tracked `CC 0000`–`CC 3000` range). **`graphemic_classification: 夹` reconfirmed correct, with a notable vault quirk observed**: both en.Wiktionary and zh.Wiktionary agree the phonetic is 夾/夹, and this vault's own page for that component is unusually filed under the *simplified* glyph [[characters/夹|夹]] (with traditional 夾 stored only as an alias) — the reverse of the vault's normal traditional-primary convention, but confirmed correct and consistent since 夹.md's own `aliases` field lists 夾. Fixed 鋏's own Notes bullet, which had linked to the non-existent `[[夾]]`, to correctly link `[[夹]]` instead.
+
+**`vietnamese` bug found and fixed — a mixed case, both adding and removing**: the stored field held `kiệp, kẹp`, but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" readings as `giáp, khiếp, kiệp` (with `kiệp` also appearing under "Âm Nôm:," making it dual-classified) and `kẹp` appearing exclusively under "Âm Nôm:." Removed the Nôm-only `kẹp` and added the two previously-missing genuine readings `giáp` and `khiếp`.
+
+**`aliases` gap filled**: both sources agree on the already-present simplified 铗 and a second candidate, 𨦇 (a Japanese shinjitai-style simplification also independently corroborated by both), newly added; excluded 矢床 (a multi-character Japanese compound word for a specific "yattoko" sense, not a single-character variant, so out of scope for this field).
+
+Rebuilt the malformed `## Notes` (CC-lookup bullets preceding the graphemic/component bullets, wrong order, no SKIP/stroke or levels bullets at all) into the standard 4-bullet format, preserving the existing cross-reference to the near-synonym [[鉗]]. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `HSK No`, `Hyōgai`, `Korean Name ㅎ`'s `### 협` subsection all already correct). **Found and fixed an entirely missing `## Words` section**: this character's `stand_in` is itself — [[鋏]] is a standalone word page — added the section citing it.
+
+Self word page [[鋏]] checked and fixed one bug: `vietnamese: null` literal placeholder (fixed to `kiệp`, the dual Hán-Việt/Nôm reading judged the best fit for the concrete "tongs" sense, matching the character's own corrected reading set).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 鉦 (7428; 831 characters remaining).
+
+### 2026-08-15, iteration 1674 — [[characters/鉦|鉦]]
+
+`mc_id: 4544` confirmed to be a genuine trusted long-tail value (beyond the vault's tracked `CC 0000`–`CC 3000` range). **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[鉦鼓]]'s own `名詞`. **`graphemic_classification: 正` reconfirmed correct** (形声: semantic [[Radical 167|金]] "metal" + phonetic 正) via en.Wiktionary and zh.Wiktionary agreement. `aliases: 钲` reconfirmed complete — en.Wiktionary's only other candidate, 錚/铮 ("bell"), wasn't corroborated by zh.Wiktionary and is itself a distinct character (excluded, consistent with the established false-positive pattern).
+
+**`vietnamese` contamination bug found and fixed**: the stored field held `chinh, chiêng`, but hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" reading as `chinh` alone (also dual-classified, appearing under "Âm Nôm:" too); `chiêng` is Nôm-only. Reduced to the single genuine reading `chinh`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks, no other bullets at all) into the standard 4-bullet format. Confirmed citation on all four closing-bullet lookup pages (`Grade Advanced`, `HSK No`, `Hyōgai`, `Korean Name ㅈ`'s `### 정` subsection all already correct). **Found and fixed an entirely missing `## Words` section**: added, citing the `stand_in` [[鉦鼓]]. **Found and fixed a missing `## Derived Characters` entry on [[characters/正 (char)|正 (char)]]** (already perfected earlier this session, danayo_id much lower at an earlier point in the sweep) — its existing list (定, 征, 症) was missing 鉦; added.
+
+Citing word page [[鉦鼓]] was already fully perfected (checked, no bugs found).
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 跆 (7429; 830 characters remaining).
+
+### 2026-08-15, iteration 1675 — [[characters/跆|跆]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel: 跆 doesn't appear anywhere in `CC 0000.md`–`CC 3000.md`. `joyo_level` confirmed genuinely blank: searched all Japanese classification lookup files and 跆 appears in none, consistent with the empty field. **`pos` gap filled**: was blank; the citing word [[跆籍]]'s own `名詞` reflects a drifted, extended nominal sense ("Taekwondo registration record"), distinct from 跆's own core verbal meaning ("trample, kick") — set to `事詞` for the character's own transitive-action sense instead, the same drifted-sense exception pattern seen on [[characters/杪|杪]] earlier this session. **`graphemic_classification: 台` reconfirmed correct** (形声: semantic [[Radical 157|足]] "foot" + phonetic 台) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/台 (char)|台 (char)]]'s own `## Derived Characters` section already correctly lists 跆. No aliases found by either source; left empty.
+
+**`vietnamese` gap filled — an entirely empty field**: hvdic's exact verbatim transcription gives the genuine "Âm Hán Việt:" reading `đài`, with no "Âm Nôm:" line at all. Filled the previously-empty field with this single genuine reading.
+
+Rebuilt the malformed `## Notes` (only two bare unlinked CC-lookup wikilinks, no other bullets at all) into the standard 4-bullet format, cross-referencing the 台-phonetic family via [[苔 (char)|苔]], [[殆]], and [[鮐]]. Confirmed citation on `Grade Advanced`, `HSK No`, and `Korean Name ㅌ`.
+
+Citing word page [[跆籍]] checked and fixed one bug: an entirely missing `vietnamese` field — hvdic has a direct compound entry for 跆籍 (a coincidental classical-usage attestation, "chà đạp, dẫm đạp, tàn phá," distinct from but compatible with the vault's Taekwondo-registration neologism sense) giving `đài tạ`; added.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 赳 (7430; 829 characters remaining).
