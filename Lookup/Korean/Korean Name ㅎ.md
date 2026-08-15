@@ -141,7 +141,7 @@ This have all be checked for redirects.
 ## ㅡ
 
 ### 흔
-[欣](characters/欣.md) [[炘]] [[昕]] [痕](characters/痕.md) [[忻]] 
+[欣](characters/欣.md) [[炘]] [[昕]] [痕](characters/痕.md) [忻](characters/欣.md) 
 
 ### 흘
 [[屹]] 吃 --> 喫 [[../../characters/紇]] [[訖]] [迄](characters/迄.md)

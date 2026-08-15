@@ -1797,3 +1797,19 @@ Self word page [[槌]] checked and fixed two of the standard recurring bugs: **`
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 欣 (7406; 850 characters remaining).
+
+### 2026-08-15, iteration 1655 — [[characters/欣|欣]]
+
+**`mc_id` off-by-one fixed**: stored `1917`; the real line for 欣 is `1918`. **`pos` gap filled**: was blank, set to `性詞`, matching the citing word [[欣喜]]'s own `性詞`. **`graphemic_classification: 斤` reconfirmed correct** (形聲: semantic [[Radical 076|欠]] "to lack, yawn" + phonetic 斤, Zhengzhang OC \*qʰɯn from phonetic \*kɯn/\*kɯns) via en.Wiktionary and zh.Wiktionary agreement; confirmed [[characters/斤|斤]]'s own `Derived Characters` section already correctly lists 欣.
+
+**`aliases` gap filled — a three-way intersection**: en.Wiktionary's variant list (訢, 䜣, 忻, 惞) and zh.Wiktionary's explicitly-labeled 異體字 section (俽, 惞, 訢, plus a separately-mentioned 忻) overlap on three forms — 訢, 惞, 忻 — all added (confirmed none has an independent vault page); 俽 and 䜣 were each single-source, excluded. **Found and fixed a broken citation on `Korean Name ㅎ`**: its listing already had a bare `[[忻]]` redlink (now confirmed a genuine alias) — replaced with a proper link to 欣's page.
+
+**`vietnamese` contamination bug found and fixed**: the stored field held four readings (hoen, hân, hơn, hớn), but hvdic's exact verbatim transcription gives only `hân` under the genuine "Âm Hán Việt:" line, with all three others under "Âm Nôm:". Reduced to the single genuine reading `hân`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks, a stray bullet holding the sole Words-section entry) to the standard 4-bullet format plus a proper `## Words` section. Confirmed citation on `Grade Advanced`, `Old HSK 3`, and `Jinmeiyō`.
+
+Citing word page [[欣喜]]'s blank `vietnamese` field investigated directly via hvdic for the compound 欣喜 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 帚 (7407; 849 characters remaining).
