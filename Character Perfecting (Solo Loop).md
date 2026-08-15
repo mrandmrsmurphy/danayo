@@ -1617,3 +1617,31 @@ Citing word page [[廃墟]]'s blank `vietnamese` field investigated directly via
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 肋 (7389; 862 characters remaining).
+
+### 2026-08-15, iteration 1643 — [[characters/肋|肋]]
+
+`mc_id: 4864` is well above the ~4000-entry ceiling of `CC 0000.md`–`CC 3000.md`, trusted long-tail data, left unchanged. **`pos` gap filled**: was blank, set to `名詞`, matching the citing word [[肋骨]]'s own `名詞`. **`graphemic_classification: 力` reconfirmed correct** (形聲: semantic [[Radical 130|肉]] "meat, body" + phonetic 力, Zhengzhang OC \*rɯːɡ) via en.Wiktionary; `vietnamese: lặc` (already filled) double-checked against hvdic's exact verbatim transcription — both "Âm Hán Việt:" and "Âm Nôm:" lines give `lặc` identically, no contamination. No corroborated variant forms found by either source (only an unrelated CJK compatibility ideograph), so the existing blank `aliases` is a genuine "no variants" state.
+
+**Found and fixed the identical contamination bug pattern on [[characters/力 (char)|力 (char)]] itself** while verifying the phonetic link: its own stored `vietnamese` held four readings (lực, sức, sực, sựt), but hvdic's exact verbatim transcription gives the genuine Hán Việt reading as `lực` alone, with `sức` and `sựt` under "Âm Nôm:" and `sực` not attested by hvdic at all. Fixed to `[lực]`, despite that page already being `date-last-perfect`-stamped from 2026-04-30, one of the earliest-perfected pages in the vault and evidently long predating this session's contamination-checking practice. **Also found and fixed a missing `## Derived Characters` section entirely on 力 (char)** — added, citing 肋.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `HSK No`, `Jinmeiyō`, and `Korean Name ㄹ`. **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[肋骨]].
+
+Citing word page [[肋骨]]'s blank `vietnamese` field investigated directly via hvdic for the compound 肋骨 — no attested entry found, confirming a genuine gap; left untouched.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 堰 (7390; 861 characters remaining).
+
+### 2026-08-15, iteration 1644 — [[characters/堰|堰]]
+
+`mc_id: 1132` reconfirmed correct, with the same alias-indexing pattern seen repeatedly this session: 堰 itself doesn't appear in `CC 0000.md`–`CC 3000.md`, but rank 1132 correctly indexes its alias 偃 instead. **`pos` gap filled**: was blank, set to `名詞`, matching the already-perfected citing word [[井堰]]'s own `名詞`.
+
+**`graphemic_classification: 妟` investigated carefully and kept**: en.Wiktionary names 匽 as the phonetic, zh.Wiktionary names 偃 — neither matching the vault's stored 妟 at first glance. A direct check of 妟's own en.Wiktionary entry resolved this: 妟 is confirmed as the deepest root of a documented four-character phonetic series (妟→匽→偃→堰, all sharing OC \*qanʔ/\*qans), with 匽 and 偃 being intermediate derived siblings rather than competing "true" phonetics — consistent with the "cite the pageless root, not a derived sibling with its own page" precedent established on [[characters/歇|歇]] (曷) and [[characters/焰|焰]] (臽) earlier this session. `vietnamese: yển` (already filled) reconfirmed correct via hvdic — both lines match identically, no contamination.
+
+Checked `aliases`: existing `偃` reconfirmed correct (matches both the mc_id-indexing and zh.Wiktionary's own named phonetic); zh.Wiktionary's two further candidates (墕, 隁) were single-source, not added.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two bare unlinked CC-lookup wikilinks) to the standard 4-bullet format. Confirmed citation on `Grade Advanced`, `Jinmeiyō`, and `Korean Name ㅇ` (no `HSK` citation expected, matching its blank `hsk_level`). **Found and fixed an entirely missing `## Words` section**: added, citing the sole stand-in [[井堰]], which was already fully perfected and required no further changes.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 厩 (7393; 860 characters remaining).

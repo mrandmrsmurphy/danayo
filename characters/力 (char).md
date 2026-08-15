@@ -9,9 +9,6 @@ japanese:
 japanese_native: いさお
 vietnamese:
   - lực
-  - sức
-  - sực
-  - sựt
 middle_chinese_initial: l
 middle_chinese_final: ɨk
 stroke_count: 2
@@ -60,5 +57,8 @@ boundedness: 90
 - <ruby>[尽力](/words/尽力.md)<rt>ㄐㄧㄋㄌㄧㄎ</rt></ruby> "exert oneself"
 - <ruby>[実力](/words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby> "strength"
 - <ruby>[[能力]]<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby> "ability; capability"
+## Derived Characters
+- <ruby>[[肋]]<rt>ㄌㄜㄎ</rt></ruby> "rib"
+
 ## Chengyu
 - <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫ·ㄧㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
