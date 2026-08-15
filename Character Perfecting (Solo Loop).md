@@ -1979,3 +1979,15 @@ Citing word page [[駝背]] was already fully perfected (checked, no bugs found)
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 饅 (7421; 838 characters remaining).
+
+### 2026-08-15, iteration 1667 — [[characters/饅|饅]]
+
+`mc_id: 0` verified as a genuine "confirmed absent" sentinel: 饅/馒 don't appear anywhere in `CC 0000.md`–`CC 3000.md`. **`graphemic_classification: 曼` reconfirmed correct** (形声: semantic [[Radical 184|食]] "food" + phonetic 曼, OC \*moːn) via en.Wiktionary and zh.Wiktionary agreement — unlike the sibling/root confusion found on several other characters this session, [[characters/曼|曼]] is itself the genuine root (`graphemic_classification: 會意`, an independent ideogrammic compound, not a phonetic derivative of anything else), so no misattribution here. **`aliases` reconfirmed complete**: both sources agree on exactly 馒 and 䊡 (already present); en.Wiktionary's third candidate 𪍩 was explicitly checked against zh.Wiktionary's 異體字 list and found absent there, so correctly excluded per the dual-source policy. `vietnamese: man` reconfirmed correct — hvdic's exact verbatim transcription shows `man` under both "Âm Hán Việt:" and "Âm Nôm:" simultaneously, a genuine dual-classification (the same non-contamination pattern seen on [[characters/墟|墟]] earlier this session), not a bug.
+
+Normalized four `../lookup/...`-prefixed relative links in the Notes bullets to the vault's dominant bare `Lookup/...` convention (1900 files use the bare form vs. 662 using the `../` form vault-wide; fixed only this character's own page, out of scope to sweep the rest). Added the missing `mc_id: 0` sentinel sentence to the MC bullet (present on other perfected pages, was missing here). **Found and fixed an entirely missing `## Words` section**: added, citing the `stand_in` [[饅頭]]. **Found and fixed a missing `## Derived Characters` entry on [[characters/曼|曼]]** (a later, not-yet-perfected character, danayo_id 8150) — the section didn't exist at all yet; created it and added 饅, per the checklist's explicit instruction not to assume the section doesn't apply just because a page never had one before.
+
+Citing word page [[饅頭]] checked and fixed one bug: `english: wonton` was a content error (饅頭 is "steamed bun," not "wonton," which is 餛飩/雲吞) — corrected to `steamed bun`.
+
+Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 颯 (char) (7422; 837 characters remaining).
