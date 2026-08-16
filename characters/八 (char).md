@@ -61,6 +61,9 @@ boundedness: 65
 - <ruby>[[臘八]]<rt>ㄌㄚㄆㄅㄚㄊ</rt></ruby> "Laba (8th of 12th lunar month)"
 - <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
 - <ruby>[[臘八粥]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby> "Laba congee"
+## Derived Characters
+- <ruby>[[叭]]<rt>ㄅㄚㄊ</rt></ruby> "trumpet"
+
 ### Data check
 ```dataview
 table 諺文, english

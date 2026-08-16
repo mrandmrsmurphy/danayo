@@ -3191,3 +3191,31 @@ Next never-perfected character by `danayo_id`: 帛 (7511; 755 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing [[布帛]]. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 叭 (7512; 754 characters remaining).
+
+### 2026-08-16, iteration 1751 — [[characters/叭|叭]]
+
+`mc_id: 0` re-verified — grepped all four `CC 0000–3000.md` files, zero hits, genuinely absent. `graphemic_classification: 八` reconfirmed correct (形声, semantic [[Radical 030|口]] "mouth" + phonetic 八).
+
+**`vietnamese` heavily contaminated, fixed**: stored seven readings, but hvdic's genuine "Âm Hán Việt:" line gives only `bá` — the other six (`bát, bớ, bớt, bợt, váp, vát`) were Nôm-only or entirely unattested. Reduced to the single genuine reading.
+
+**`joyo_level` gap filled**: blank → `表外字`, per en.Wiktionary; added as entry #361 to [[Lookup/Japanese/Hyōgai]]. **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[喇叭]]'s own `名詞`.
+
+**Consequence-fix applied to an old-format, already-perfected page**: the phonetic parent [[characters/八 (char)|八]] (perfected 2026-03-19, an early-session page using non-standard section names like `### Data check` and a `### Links` numeral-navigation block) had no `## Derived Characters` section at all — added one citing 叭.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, phrasing the MC bullet per the `mc_id: 0` convention, and added the missing `## Words` section citing [[喇叭]]. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 汀 (char) (7513; 753 characters remaining).
+
+### 2026-08-16, iteration 1752 — [[characters/汀 (char)|汀]]
+
+`mc_id: 9819` is trusted long-tail (>4000). `graphemic_classification: 丁` and `joyo_level: 日本人名用漢字` both reconfirmed correct (形声, semantic [[Radical 085|水]] "water" + phonetic 丁; Jinmeiyō).
+
+**`vietnamese` contamination fixed**: stored `thinh, đinh, đênh`, but hvdic's genuine "Âm Hán Việt:" line gives only `đinh` — `thinh` and `đênh` are Nôm-only. Reduced to the single genuine reading.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing self-named stand-in word [[汀]]'s implicit noun sense (the word page itself has no `pos` set, so this was an independent judgment call from the shared gloss "sand bar").
+
+**Large consequence-fix applied at scale**: the phonetic parent [[characters/丁 (char)|丁]]'s own `## Derived Characters` list (ten entries: 打/正/成/頂/庁/亭/訂/汀/釘/町) was entirely composed of bare, unformatted wikilinks with no ruby or gloss. Verified each descendant's own stored 注音 and English gloss directly, then reformatted the whole list to the standard ruby-annotated format — the same "fix the whole malformed sibling list, not just the newly-touched entry" pattern established earlier this session with 勺 and 兪.
+
+Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing the self-named word [[汀]]. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 曰 (char) (7514; 752 characters remaining).

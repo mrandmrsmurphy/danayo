@@ -54,13 +54,13 @@ boundedness: 80
 - <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
 
 ## Derived Characters
-- [[打]]
-- [[正 (char)]]
-- [[成 (char)]]
-- [[頂]]
-- [[庁]]
-- [[亭]]
-- [[訂 (char)]]
-- [[汀 (char)]]
-- [[釘 (char)]]
-- [[町]]
+- <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> "hit"
+- <ruby>[[正 (char)|正]]<rt>ㄐㄧㄫ</rt></ruby> "correct"
+- <ruby>[[成 (char)|成]]<rt>ㄙㄧㄫ</rt></ruby> "become"
+- <ruby>[[頂]]<rt>ㄐㄝㄫ</rt></ruby> "peak"
+- <ruby>[[庁]]<rt>ㄑㄝㄫ</rt></ruby> "hall"
+- <ruby>[[亭]]<rt>ㄉㄝㄫ</rt></ruby> "pavilion"
+- <ruby>[[訂 (char)|訂]]<rt>ㄊㄝㄫ</rt></ruby> "revise"
+- <ruby>[[汀 (char)|汀]]<rt>ㄊㄝㄫ</rt></ruby> "sand bar"
+- <ruby>[[釘 (char)|釘]]<rt>ㄉㄝㄫ</rt></ruby> "nail"
+- <ruby>[[町]]<rt>ㄊㄝㄫ</rt></ruby> "ridge between fields"
