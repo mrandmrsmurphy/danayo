@@ -357,6 +357,7 @@ tags: [lookup]
 353. [唳 (char)](../../characters/唳%20(char).md)
 354. [缺](../../characters/缺.md)
 355. [涛](../../characters/涛.md)
+356. [醤](../../characters/醤.md)
 
 
 [[../../characters/吠]] - barking DO IT

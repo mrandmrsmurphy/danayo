@@ -2881,3 +2881,17 @@ Next never-perfected character by `danayo_id`: 膿 (char) (7485; 779 characters 
 Confirmed the phonetic parent [[characters/農|農]]'s own `## Derived Characters` list already correctly cites 膿 with ruby — no consequence-fix needed. Fixed a `../` path bug in the disambiguation callout's link to the word page. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing the self-named word [[膿]]. Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 醤 (7486; 778 characters remaining).
+
+### 2026-08-15, iteration 1727 — [[characters/醤|醤]]
+
+**`mc_id` off-by-one found and fixed**: stored `2930`, but `CC 2000.md` line 971 shows 2930 is actually 誄's rank; 醬 itself is line 972, rank 2931. Corrected.
+
+**`joyo_level` bug found and fixed**: stored `日本人名用漢字` (Jinmeiyō), but en.Wiktionary explicitly classifies 醤 as **Hyōgai kanji** (表外字), not Jinmeiyō — a genuine field error, not just a blank gap. Corrected, and added as entry #356 to [[Lookup/Japanese/Hyōgai]]'s numbered list (both Hyōgai's and Jinmeiyō's files had only a `醬 --> 醤` cross-reference in their separate "Redirects" sections, neither of which counts as the real citation — the same distinction caught on 涛 two iterations ago).
+
+**`vietnamese` gap filled**: was entirely blank; hvdic gives `tương` (dual-classified Hán Việt/Nôm identically) for 醬 — added. `graphemic_classification: 将` reconfirmed correct (形声, semantic [[Radical 164|酉]] "wine vessel, fermentation" + phonetic 将).
+
+Checked the phonetic component 将 for a vault character page to consequence-fix — none exists, same as 雚/穌 earlier this session, so the field correctly names a pageless phonetic component. Also caught and fixed a duplicate `vietnamese:` YAML key introduced mid-edit (an empty leftover key from the file's pre-edit state that my first pass missed) before it could corrupt the frontmatter.
+
+Rebuilt the malformed Notes (an out-of-order `## Words` section preceding a bare `# Notes` H1, itself just two floating CC wikilinks plus a third stray word-citation bullet) into the standard four-bullet format, and consolidated the full `## Words` list — the stand-in [[果醤]], plus already-cited [[芝麻醤]] and [[醤油]] — in one place. No chengyu or vault-paged phonetic parent needed touching. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 幇 (7487; 777 characters remaining).
