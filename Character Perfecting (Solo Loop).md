@@ -2857,3 +2857,27 @@ Next never-perfected character by `danayo_id`: 蘇 (7483; 781 characters remaini
 Checked five chengyu that mention 蘇 in passing (all incidental references to the historical figure 蘇軾/蘇秦 in prose, none listing 蘇 in their own `characters:` field) — confirmed none belong in `## Chengyu`. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 灌 (7484; 780 characters remaining).
+
+### 2026-08-15, iteration 1725 — [[characters/灌|灌]]
+
+`mc_id: 1313` verified against `CC 1000.md` line 330 — exact match. **Near-miss on `graphemic_classification`**: the stored value `鸛` (stork) initially looked like the same "wrong sibling character" bug found on 缺 and 涛, since the true phonetic component is 雚 and en.Wiktionary confirms 灌 = semantic 水 + phonetic 雚, not 鸛. But checking the phonetic-parent page itself first — [[characters/鸛|鸛]], already perfected 2026-07-29 — revealed this is a deliberate, documented vault convention: 雚 has no character page of its own, so it's registered as an *alias* of 鸛's page, and citations of the phonetic component correctly point to 鸛 as the parent form holding that alias (per the vault's own `feedback_alias_parent_form` policy, cited directly in 鸛's Notes). Left `鸛` unchanged — correcting it to 雚 would have broken this convention, not fixed a bug.
+
+**`vietnamese` gap filled**: stored `quán` alone, but hvdic's "Âm Hán Việt:" line gives both `hoán` and `quán` — added the missing `hoán` rather than removing anything (a "missing genuine reading" gap, the mirror image of the more common contamination-removal pattern). `joyo_level: 表外字` and both `aliases` (浂, 潅) all reconfirmed correct via en.Wiktionary.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[灌漑]]'s own `名詞`.
+
+Confirmed [[characters/鸛|鸛]]'s own `## Derived Characters` list already correctly cites 灌 with ruby — no consequence-fix needed. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 膿 (char) (7485; 779 characters remaining).
+
+### 2026-08-15, iteration 1726 — [[characters/膿 (char)|膿]]
+
+**`mc_id` off-by-one found and fixed**: stored `2735`, but `CC 2000.md` line 768 shows 2735 is actually 楯's rank — 膿 itself is line 769, rank `2736`. Corrected. `graphemic_classification: 農` reconfirmed correct (形声, semantic [[Radical 130|肉]] "flesh" + phonetic 農) and `joyo_level: 表外字` reconfirmed correct, both via en.Wiktionary.
+
+**`vietnamese` fixed with both a removal and an addition**: stored `nùng, nọng, nồng`, but hvdic's "Âm Hán Việt:" line gives only `nung, nùng` — `nọng` and `nồng` are Nôm-only (removed), and the genuine `nung` was missing entirely (added). Net result: `nung, nùng`.
+
+**`pos` gap filled**: blank → `名詞`. As with 灘 earlier this session, the citing stand-in is the character's own name and the word page ([[words/膿]]) is itself unperfected with no `pos` to cross-reference, so this was an independent call from the English gloss ("pus").
+
+Confirmed the phonetic parent [[characters/農|農]]'s own `## Derived Characters` list already correctly cites 膿 with ruby — no consequence-fix needed. Fixed a `../` path bug in the disambiguation callout's link to the word page. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing the self-named word [[膿]]. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 醤 (7486; 778 characters remaining).
