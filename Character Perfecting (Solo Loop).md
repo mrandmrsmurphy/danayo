@@ -3219,3 +3219,29 @@ Next never-perfected character by `danayo_id`: 汀 (char) (7513; 753 characters 
 Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing the self-named word [[汀]]. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 曰 (char) (7514; 752 characters remaining).
+
+### 2026-08-16, iteration 1753 — [[characters/曰 (char)|曰]]
+
+`mc_id: 8` verified against `CC 0000.md` line 13 (blockquote-formatted, near the top of the entire ranking) — exact match, one of the highest-frequency characters perfected this session.
+
+**`graphemic_classification` bug found and fixed**: stored `象形` (pictograph), but both en.Wiktionary and zh.Wiktionary explicitly classify 曰 as `指事` (ideogrammic-indicator: a mouth [[Radical 030|口]] with a breath/word-stroke coming out) — a genuine field-level type error, not just a citation mismatch. Corrected, and rewrote the Notes bullet using the standard 指事 format (linking [[Lookup/List of 指事]] per the checklist's own template).
+
+**`vietnamese` contamination fixed**: stored `viết, vít, vất, vết`, but hvdic's genuine "Âm Hán Việt:" line gives only `viết` — the other three are Nôm-only. Reduced to the single genuine reading, matching the citing word [[曰]]'s own already-correct `viết`.
+
+**`pos` gap filled**: blank → `実詞`, matching the citing self-named stand-in word [[曰]]'s own `実詞`. `joyo_level: 表外字` reconfirmed correct but had never actually been cited on [[Lookup/Japanese/Hyōgai]] — added as entry #362.
+
+Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes/Words structure into the standard format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 軛 (char) (7516; 751 characters remaining).
+
+### 2026-08-16, iteration 1754 — [[characters/軛 (char)|軛]]
+
+A largely already-perfected page (`pos`, `joyo_level`, `hsk_level`, `hanmun_edu_level` all already correctly filled). `mc_id: 4283` is trusted long-tail (>4000). `graphemic_classification: 厄` reconfirmed correct (形声, semantic [[Radical 159|車]] "chariot" + phonetic 厄, which itself originally meant "yoke" before 車 was added to differentiate). `vietnamese: ách` reconfirmed correct via hvdic, dual-classified identically.
+
+**`aliases` both reconfirmed genuine, with two additional Wiktionary-suggested candidates correctly excluded**: 軶 and 轭 (already stored) both confirmed as true variant/simplified forms. en.Wiktionary's "alternative forms" list also included 扼 and 戹, but these are independently-meaningful phonetic-series relatives ("grasp/strangle" and "difficulty/misfortune" respectively, not variants of 軛 itself) — correctly left out of the existing aliases, no change needed.
+
+**Consequence-fix applied**: the phonetic parent [[characters/厄|厄]]'s own `## Derived Characters` entry for 軛 was a bare unformatted link — reformatted with ruby annotation and gloss.
+
+Fixed a `../` path bug in the disambiguation callout, added the missing self-named word [[軛]] to `## Words`, and rebuilt the Notes into the standard four-bullet format (all four bullets were previously merged into one dense sentence with floating unlinked CC wikilinks below). Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 矩 (char) (7517; 750 characters remaining).

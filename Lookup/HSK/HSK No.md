@@ -740,6 +740,7 @@ tags: [lookup]
 [畿](../../characters/畿.md)
 [笙](../../characters/笙.md)
 [灼](../../characters/灼.md)
+[軛 (char)](../../characters/軛%20(char).md)
 
 ## Datacheck
 ```base
