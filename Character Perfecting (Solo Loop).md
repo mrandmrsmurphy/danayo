@@ -3245,3 +3245,15 @@ A largely already-perfected page (`pos`, `joyo_level`, `hsk_level`, `hanmun_edu_
 Fixed a `../` path bug in the disambiguation callout, added the missing self-named word [[軛]] to `## Words`, and rebuilt the Notes into the standard four-bullet format (all four bullets were previously merged into one dense sentence with floating unlinked CC wikilinks below). Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 矩 (char) (7517; 750 characters remaining).
+
+### 2026-08-16, iteration 1755 — [[characters/矩 (char)|矩]]
+
+**`mc_id` off-by-one found and fixed**: stored `1665`, but `CC 1000.md` line 694 shows 1665 is actually 渡's rank — 矩 itself is line 695, rank `1666`. Corrected.
+
+**Investigated a potential `graphemic_classification` bug, concluded it was already correct**: en.Wiktionary's glyph-origin prose calls 矩 a "Pictogram" and says 巨 is "a later simplification, not the original structure" — worded ambiguously enough to look like another 尼/曰-style type-error at first read. But checking the phonetic parent [[characters/巨|巨]]'s own already-perfected page revealed this exact tension is already documented there in detail: Shuowen treats 巨 as its own pictogram, while a 2021 scholarly source (Chen) argues 矩 is the etymologically prior form with the person-radical later dropped — an unresolved scholarly debate, not a settled reclassification. Since the vault's own established page for 巨 already treats the modern structural analysis (矢-corrupted-from-大 + phonetic 巨) as the operative one, left `graphemic_classification: 巨` unchanged and added a concise note pointing to 巨's fuller discussion rather than duplicating it.
+
+`vietnamese: củ` and the alias 榘 (a true derived variant sharing 矩's exact OC reading, not an independent character) both reconfirmed correct. **`pos` gap filled**: blank → `名詞`, matching the citing self-named stand-in word [[矩]]. Linked the semantic component 矢 via its Radical page ([[Radical 111|矢]]) per the radical-linking rule.
+
+Fixed a `../` path bug in the disambiguation callout and rebuilt the malformed Notes/Words structure into the standard format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 䋇 (char) (7518; 749 characters remaining).
