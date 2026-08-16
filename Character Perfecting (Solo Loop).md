@@ -3385,3 +3385,23 @@ Next never-perfected character by `danayo_id`: 偕 (7527; 740 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words`/`## Chengyu` structure already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 饉 (7528; 739 characters remaining).
+
+### 2026-08-16, iteration 1766 — [[characters/饉|饉]]
+
+**`mc_id` off-by-one found and fixed**: stored `2685`, but `CC 2000.md` line 714 shows 2685 is actually 頁's rank — 饉 itself is line 715, rank `2686`. `graphemic_classification: 堇`, `vietnamese: cận`, and `joyo_level: 表外字` all reconfirmed correct (形声, semantic [[Radical 184|食]] "food" + phonetic 堇, a component with no vault page of its own).
+
+**`hsk_level` and `pos` gaps filled**: blank → `無` (added to [[Lookup/HSK/HSK No]]) and blank → `名詞` (matching the citing stand-in word [[飢饉]]'s own `名詞`).
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 陋 (7529; 738 characters remaining).
+
+### 2026-08-16, iteration 1767 — [[characters/陋|陋]]
+
+**`mc_id` off-by-one found and fixed**: stored `1991`, but `CC 1000.md` line 1032 shows 1991 is actually 筭's rank — 陋 itself is line 1033, rank `1992`. **`graphemic_classification` investigated but left unchanged**: neither en.Wiktionary nor zh.Wiktionary explicitly classifies 陋 as 會意 or 形聲 (composition shown only as ⿰阝𫠥 with no analysis) — ambiguous evidence, kept the stored `會意` rather than force a change. Linked the semantic component [[Radical 170|阜]] via its Radical page per the radical-linking rule.
+
+`vietnamese: lậu` reconfirmed correct via hvdic, dual-classified identically. **`joyo_level` and `pos` gaps filled**: blank → `表外字` (added to [[Lookup/Japanese/Hyōgai]]) and blank → `性詞` (matching the citing stand-in word [[醜陋]]'s own `性詞`).
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 卦 (char) (7530; 737 characters remaining).
