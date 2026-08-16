@@ -744,6 +744,7 @@ tags: [lookup]
 [䋇 (char)](../../characters/䋇%20(char).md)
 [涜](../../characters/涜.md)
 [圄](../../characters/圄.md)
+[鈬 (char)](../../characters/鈬%20(char).md)
 
 ## Datacheck
 ```base

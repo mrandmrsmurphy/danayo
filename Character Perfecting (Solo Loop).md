@@ -3345,3 +3345,17 @@ Next never-perfected character by `danayo_id`: 吝 (7524; 743 characters remaini
 Reconfirmed the #cranberry tag's transitivity holds (吝 and its stand_in-sharing sibling [[characters/嗇|嗇]] both correctly carry the tag for their shared compound 吝嗇). Rebuilt the malformed Notes/Words ordering into the standard structure. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 鈬 (char) (7525; 742 characters remaining).
+
+### 2026-08-16, iteration 1763 — [[characters/鈬 (char)|鈬]]
+
+**`mc_id` off-by-one found and fixed**: stored `2495`, but `CC 2000.md` line 516 shows 2495 is actually 像's rank — 鐸 itself (the traditional form this indexes under) is line 517, rank `2496`. Corrected.
+
+**`vietnamese` bug found and fixed — a new contamination sub-pattern**: stored `xích`, but this reading doesn't belong to 鈬/鐸 at all (hvdic gives only `đạc` for 鐸). Traced the error: 尺's own vietnamese field is `xích` — this looks like a copy-paste mixup where 尺's reading was mistakenly recorded for 鈬 instead of researching 鈬/鐸's own reading, likely because 尺 is this glyph's visible phonetic-substitute component. Corrected to the genuine `đạc`.
+
+**`graphemic_classification: 尺` reconfirmed correct** via the now-familiar shinjitai-substitution pattern (第三例 this session, after 涜 and 䋇): the traditional form 鐸's true phonetic is 睪, but 鈬's own glyph literally substitutes 尺 for it. Also resolved an apparent broken-link concern: the Notes bullet cited `韻 鈬開`, which looked like a malformed self-referential final name at first glance, but a real vault page by that exact name exists (`Lookup/CC/finals/韻 鈬開.md`) — this vault's convention names some final-groups after a representative member character rather than a traditional rime-table label. Only the path prefix needed normalizing (`../lookup/` → `Lookup/`).
+
+**`joyo_level` and `hsk_level` gaps filled**: blank → `表外字` (added to [[Lookup/Japanese/Hyōgai]]) and blank → `無` (added to [[Lookup/HSK/HSK No]]). `pos: 名詞` was already correctly filled.
+
+Fixed a `../` path bug in the disambiguation callout and added the missing self-named word [[鈬]] to `## Words`. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 瞻 (7526; 741 characters remaining).
