@@ -3531,3 +3531,31 @@ An unusually deep etymological investigation this iteration. `mc_id: 5320` is tr
 Rebuilt the malformed Notes (a stray bare `[[ㄧㄎ]]` self-syllable wikilink followed by unlinked floating CC wikilinks, no SKIP/Stroke or Levels bullets at all) into the standard four-bullet format, and added the missing self-named word [[翌]] to `## Words`. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 巳 (8001; 727 characters remaining).
+
+### 2026-08-16, iteration 1778 — [[characters/巳|巳]]
+
+A large `danayo_id` gap this iteration (7542–8000 all already perfected), jumping straight to 8001. `mc_id: 991` reconfirmed exact match against CC 0000.md's blockquote-formatted early ranks (`> 990. 選`, `> 991. 巳`, `> 992. 庭`) — no off-by-one bug this time. `graphemic_classification: 象形` reconfirmed correct via en.Wiktionary (pictographic; origin debated between a coiled-snake reading, supported by the Shuowen Jiezi, and a swaddled-fetus reading). `joyo_level: 日本人名用漢字` (Jinmeiyō) reconfirmed correct, and the character was already correctly listed on `Lookup/Japanese/Jinmeiyō.md` (item 102) from an earlier pass.
+
+**`radical` bug found and fixed**: stored `已`, but en.Wiktionary explicitly confirms 巳 is Kangxi Radical 49 *in its own right* (⿺乚コ), not based on 己 or 已. Checked sibling precedent directly rather than trusting the shared `Lookup/Radicals/Radical 049.md` index page (which uses 己 as its one canonical display glyph for the whole three-glyph group): `characters/己.md` stores `radical: 己` and `characters/已 (char).md` stores `radical: 已` — each sibling stores its own literal glyph, not the shared index glyph. Following that established self-consistent pattern, corrected 巳's field to `radical: 巳`.
+
+**`vietnamese` bug found and fixed**: hvdic.thivien.net gives Âm Hán Việt "tị, tỵ" — two genuine readings — but only `tị` was stored. Added the missing `tỵ`.
+
+**`pos` filled**: was blank. Modeled on the closest sibling precedent among the twelve earthly-branch characters — [[characters/卯|卯]], which shares the same `hsk_level: 無` / `hanmun_edu_level: 中` / `stand_in: 名専字` profile — filled as `固有名詞` (proper noun), consistent with 巳's role as a fixed zodiacal/calendrical designator rather than a descriptive or freely-compounding noun.
+
+**`## Words` section added**: despite the `名専字` stand_in normally implying no independent compounding, a genuine citing word was found — `words/巳月.md` ("fourth month, snake month") — directly citing `巳` (not an alias) in its `characters:` field. Added as the sole Words entry.
+
+Rebuilt the empty Notes area (previously just two floating unlinked CC wikilinks with no bullets at all) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 兀 (8002; 726 characters remaining).
+
+### 2026-08-16, iteration 1779 — [[characters/兀|兀]]
+
+`mc_id: 4476` is trusted long-tail (>4000, no CC 4000+ lookup file exists in the vault). `radical: 儿` reconfirmed correct: en.Wiktionary lists 兀 under Kangxi radical 10 (儿) with "儿+1, 3 strokes" — 兀 is not itself a radical, unlike the 巳 case last iteration. `graphemic_classification: 象形` investigated but left unchanged: neither en.Wiktionary nor zh.Wiktionary gave an explicit 六書 classification, and the structurally near-identical sibling [[characters/元|元]] (also 儿+一) is itself stored as `象形` in this vault — no solid dual-source basis to override that internal precedent with a `指事` reclassification, so left as-is per the established near-miss caution (cf. 矩/巨, 灌/鸛). `joyo_level: 表外字` reconfirmed already correctly cross-listed on `Lookup/Japanese/Hyōgai.md` (item 71). `hanmun_edu_level: 名` reconfirmed already correctly cross-listed on `Lookup/Korean/Korean Name ㅇ.md` under the `### 올` heading.
+
+**`vietnamese` bug found and fixed — a full Nôm/Hán-Việt swap**: hvdic.thivien.net's actual Âm Hán Việt line reads "ngoạt, ngột, ô," while its separate Âm Nôm line reads "ngát, ngột, ngút." The vault had stored `ngát, ngút, ngột` — i.e., almost the entire Nôm-only reading set (missing only the genuine Hán Việt readings `ngoạt` and `ô`), with `ngột` as the sole accidental overlap between the two lists. Corrected to the genuine Hán Việt set: `ngoạt, ngột, ô`.
+
+**`pos` filled**: was blank. English gloss "cut off feet" is a descriptive/stative sense (bald, towering, abruptly flat-topped) rather than a noun or verb — filled as `性詞`, modeled on similarly-stative `名専字` siblings like [[characters/咼|咼]] and [[characters/枉|枉]].
+
+Confirmed no citing word exists for 兀 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the empty Notes area (two floating unlinked CC wikilinks, no bullets) into the standard four-bullet format — the graphemic bullet describes 兀 as 一 ("flat top") over 儿 ("legs, person") in plain text rather than a wikilink, since 儿 has no character page of its own in this vault (not forbidden, just uncreated) and no existing convention links to pageless components from Notes prose. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 壬 (8003; 725 characters remaining).
