@@ -3443,3 +3443,29 @@ Next never-perfected character by `danayo_id`: 痩 (char) (7532; 735 characters 
 Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed body (bare `# Notes` H1 preceding the meta-bind-embed block, floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet Notes plus a `## Words` section citing the self-named word [[痩]]. `pos: 性詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 醸 (7533; 734 characters remaining).
+
+### 2026-08-16, iteration 1771 — [[characters/醸|醸]]
+
+**`mc_id` gap filled**: blank; found via `CC 3000.md` line 755, rank `3722` (verified against neighboring lines 753–757 to confirm exact alignment). **`graphemic_classification: 㐮` reconfirmed correct as a genuine shinjitai-substitution case, not a bug**: en.Wiktionary's page for the traditional form 釀 names 襄 as the true phonetic, but 㐮's own dedicated Wiktionary entry confirms it's specifically "the Extended shinjitai form of 襄," used exactly as a component in a documented list of characters including 醸 itself — the fourth confirmed instance of this pattern this session (after 涜, 䋇, 鈬), and this time the source material explicitly named the whole sibling group (嬢/譲/壌/穣) sharing the identical substitution.
+
+`vietnamese: nhưỡng` and `joyo_level: 高等` both reconfirmed correct — the latter cross-checked against jisho.org's own classification (Jōyō, junior-high) rather than assumed from the traditional form's status.
+
+**Structural bugs fixed**: `japanese` was a bare scalar (`JOU`) rather than a list — normalized to the standard format.
+
+Rebuilt the malformed body (bare `# Notes` H1 preceding the meta-bind-embed block, floating unlinked CC wikilinks) into the standard four-bullet Notes. `pos: 事詞` was already correctly filled, and the existing `## Words` citation for [[醸造]] just needed its stand-in annotation added. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 唾 (7534; 733 characters remaining).
+
+### 2026-08-16, iteration 1772 — [[characters/唾|唾]]
+
+**`mc_id` gap filled**: blank; found via `CC 2000.md` line 958, rank `2917` (verified against neighboring lines). `graphemic_classification: 垂` reconfirmed correct (形声, semantic [[Radical 030|口]] "mouth" + phonetic 垂).
+
+**`vietnamese` fixed — spelling-variant contamination, distinct from Nôm-contamination**: stored `thóa, thoá`, but hvdic gives only `thoá` (dual-classified). `thóa` isn't a Nôm-only reading in the usual sense — it's a diacritic-placement variant of the identical word (tone mark on the vowel cluster written differently), also found duplicated on the citing word [[唾液]]'s own `vietnamese: thóa dịch`. Standardized to hvdic's canonical spelling `thoá` per the vault's verbatim-quote policy, flagging the parallel issue on [[唾液]] as out of scope (word-level, not character-level).
+
+**Structural bugs fixed**: `japanese` was a bare scalar (`DA`) rather than a list — normalized.
+
+**Consequence-fix applied**: the phonetic parent [[characters/垂|垂]] (already perfected, four existing Words entries) had no `## Derived Characters` section — added one citing 唾.
+
+Rebuilt the malformed body (a stray `# Notes` H1 with an orphaned cross-reference note preceding the meta-bind-embed block itself, plus a separate `## Notes` further down with floating unlinked CC wikilinks) into the single standard four-bullet Notes section, folding the "see also 吐" cross-reference into the graphemic bullet's own prose. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 噌 (7536; 732 characters remaining).
