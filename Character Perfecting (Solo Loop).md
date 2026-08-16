@@ -3405,3 +3405,15 @@ Next never-perfected character by `danayo_id`: 陋 (7529; 738 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 卦 (char) (7530; 737 characters remaining).
+
+### 2026-08-16, iteration 1768 — [[characters/卦 (char)|卦]]
+
+`mc_id: 1567` verified against `CC 1000.md` line 592 — exact match, no off-by-one this time. `graphemic_classification: 圭`, `joyo_level: 表外字`, and `vietnamese: quái` all reconfirmed correct (形声, semantic [[Radical 025|卜]] "divination" + phonetic 圭). `pos: 名詞` was already correctly filled.
+
+**Structural bugs fixed**: `japanese` and `vietnamese` were stored as bare scalar strings instead of lists (the only such case found this session); `hsk_level` was entirely absent from frontmatter (not even a blank key) rather than blank — both normalized. Added the missing `date-last-perfect`, `aliases` (empty), `## Words` section, and Radical-linked the semantic component per the radical-linking rule.
+
+**Consequence-fix applied at scale, including a bare-wikilink filename bug**: the phonetic parent [[characters/圭|圭]]'s own descendant list used the wrong heading (`### Descendants` instead of `## Derived Characters`) and both existing entries were unformatted bare wikilinks — one of which, `[[佳]]`, would have silently resolved to the unrelated word page `words/佳.md` instead of the actual character page `characters/佳 (char).md`. Fixed the heading, ruby-annotated both pre-existing entries with corrected filenames, and added 卦 as a third entry.
+
+Fixed a `../` path bug in the disambiguation callout. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 痢 (7531; 736 characters remaining).

@@ -747,6 +747,7 @@ tags: [lookup]
 [鈬 (char)](../../characters/鈬%20(char).md)
 [偕](../../characters/偕.md)
 [饉](../../characters/饉.md)
+[卦 (char)](../../characters/卦%20(char).md)
 
 ## Datacheck
 ```base
