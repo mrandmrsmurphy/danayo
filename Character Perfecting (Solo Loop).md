@@ -2791,3 +2791,33 @@ Next never-perfected character by `danayo_id`: 鞍 (7478; 786 characters remaini
 Confirmed the phonetic parent [[characters/安|安]]'s own `## Derived Characters` list already correctly cites 鞍 — no consequence-fix needed there. Rebuilt the malformed Notes (previously one merged 形声/会意 bullet plus two floating CC-lookup wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing [[鞍装]]. No chengyu cite 鞍. Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 庵 (7479; 785 characters remaining).
+
+### 2026-08-15, iteration 1720 — [[characters/庵|庵]]
+
+`graphemic_classification: 奄` and `joyo_level: 日本人名用漢字` both reconfirmed correct via dual-source agreement (形声, semantic [[Radical 053|广]] "dwelling" + phonetic 奄; Jinmeiyō, not Jōyō). `mc_id: 10574` is trusted long-tail (>4000), left as-is per policy.
+
+**`vietnamese` contamination fixed**: stored `am, im`, but hvdic's entry gives `am` alone under "Âm Hán Việt:", with `im` appearing only under "Âm Nôm:" alongside `am` — a pure Nôm-only-reading removal, the same sub-pattern as several earlier fixes this session. Reduced to `am`.
+
+**`aliases` gap filled**: en.Wiktionary's own "Alternative forms" list and zh.Wiktionary's 異體字 list both independently include 菴 and 盦 — added both. zh.Wiktionary's list also threw in 奄 itself, 广, and 厂, but those are excluded as the established "phonetic-series/radical member mistaken for variant" false-positive category — 奄 is 庵's own phonetic parent with a fully independent vault page and meaning, and 广/厂 are unrelated Kangxi radicals, not variants of 庵.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[庵子]]'s own `名詞`.
+
+Checked the phonetic parent [[characters/奄|奄]]'s own `## Derived Characters` list — 庵 is already cited there (alongside 掩/淹/俺/唵), though none of that list's five entries carry the ruby-annotated syllable the checklist calls for. Left untouched: fixing only 庵's own entry would leave it inconsistently formatted against its four unruby'd siblings, and reformatting the whole list is beyond this iteration's one-character scope — flagging here for whenever 奄 itself comes up for re-perfection.
+
+Rebuilt the malformed Notes section (previously a bare `# Notes` H1 heading over two floating, unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing the stand-in [[庵子]]. No chengyu cite 庵. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 埃 (7480; 784 characters remaining).
+
+### 2026-08-15, iteration 1721 — [[characters/埃|埃]]
+
+`mc_id: 2611` verified against `CC 2000.md` line 640 — exact match. `graphemic_classification: 矣` reconfirmed correct (形声, semantic [[Radical 032|土]] "earth" + phonetic 矣, per Shuowen Jiezi quoted directly on zh.Wiktionary: "塵也。从土矣聲"). `joyo_level: 表外字` reconfirmed correct via zh.Wiktionary and was already properly cited on [[Lookup/Japanese/Hyōgai]]. `vietnamese: ai` reconfirmed correct via hvdic, dual-classified identically, no contamination.
+
+**`hsk_level` gap filled**: blank → `無` — no attestation in any of the vault's HSK lookup lists despite the character's everyday-sounding gloss ("dust"); added to the manual [[Lookup/HSK/HSK No]] list.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[塵埃]]'s own `名詞`.
+
+zh.Wiktionary's page threw in "雉" (pheasant) as a purported variant form, but this had no en.Wiktionary corroboration and is semantically implausible for a dust/dirt character — treated as a spurious extraction rather than a genuine alias and not added. Confirmed the phonetic parent [[characters/矣 (char)|矣]] already cites 埃 in its own Derived Characters list — no consequence-fix needed.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing [[塵埃]]. No chengyu cite 埃. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 涛 (7481; 783 characters remaining).
