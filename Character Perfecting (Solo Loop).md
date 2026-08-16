@@ -3621,3 +3621,27 @@ Next never-perfected character by `danayo_id`: 尹 (8006; 722 characters remaini
 Confirmed no citing word exists for 尹 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 仄 (8007; 721 characters remaining).
+
+### 2026-08-16, iteration 1784 — [[characters/仄|仄]]
+
+A clean iteration — every existing field checked out correct on the first pass. `mc_id: 3356` reconfirmed exact match (CC 3000.md: `3355. 棧`, `3356. 仄`, `3357. 薰`). `radical: 人`, `graphemic_classification: 夨` (形聲, phonetic 夨 "man with crooked head" + semantic 厂 "cliff"), and `joyo_level: 表外字` all reconfirmed correct via dual-source agreement (en.Wiktionary and zh.Wiktionary concur on all three, unlike the disagreement hit last iteration on 尹). `vietnamese: trắc` reconfirmed correct — hvdic's Hán Việt and Nôm lines are identical, no contamination. Both `Lookup/Japanese/Hyōgai.md` (item 273) and `Lookup/Korean/Korean Name ㅊ.md` (under `### 측`) already correctly cross-listed this character.
+
+**`pos` filled**: was blank. Filled as `性詞`, matching the stative "slanting, oblique" sense.
+
+Confirmed no citing word exists for 仄 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 廿 (8008; 720 characters remaining).
+
+### 2026-08-16, iteration 1785 — [[characters/廿|廿]]
+
+`mc_id: 3691` reconfirmed exact match (CC 3000.md: `3690. 囗`, `3691. 廿`, `3692. 倩`). `radical: 廾` and `joyo_level: 日本人名用漢字` (Jinmeiyō) both reconfirmed correct via dual-source agreement, and already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 60) and `Lookup/Korean/Korean Name ㅇ.md` (under `### 입`). `korean: 입` (vs. Dan'a'yo's own 諺文 `닙`) reconfirmed correct, not a North/South 두음법칙 bug — same ȵ-initial (日母) pattern already established on [[characters/壬|壬]] two iterations ago, where real Sino-Korean drops the nasal in both North and South regardless of dialect.
+
+**`graphemic_classification` bug found and fixed**: stored `二`, which isn't a valid type name or a real phonetic component for this character. Both en.Wiktionary and zh.Wiktionary agree 廿 is a 會意 (ideogrammic compound) — two 十 ("ten") fused with a connecting stroke, no phonetic borrowing involved. Corrected `二` → `会意`.
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "chấp, nhập, trấp"; the vault had `[niệm, trấp, trập]` — `niệm` is Âm Nôm contamination, and `trập` appears in neither list (likely a transcription slip of `trấp`). Corrected to the full genuine three-reading set `[chấp, nhập, trấp]`.
+
+**`pos` filled**: was blank. Discovered the vault has a dedicated numeral part-of-speech `数詞`, already used on the base numeral characters [[characters/二 (char)|二]] and [[characters/十 (char)|十]] — filled 廿 (a numeral, "twenty") the same way, rather than reaching for `固有名詞` as done on the earlier stem/branch/zodiac characters this session.
+
+Confirmed no citing word exists for 廿 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 歹 (8010; 719 characters remaining).
