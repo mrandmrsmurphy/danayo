@@ -3575,3 +3575,35 @@ Next never-perfected character by `danayo_id`: 壬 (8003; 725 characters remaini
 Confirmed no citing word exists for 壬 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the bare `# Notes` heading (wrong heading level, holding only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 溜 (8004; 724 characters remaining).
+
+### 2026-08-16, iteration 1781 — [[characters/溜|溜]]
+
+`mc_id: 3280` reconfirmed exact match (CC 3000.md: `3279. 祔`, `3280. 溜`, `3281. 坼`). `graphemic_classification: 留` (phonetic) and `joyo_level: 日本人名用漢字` (Jinmeiyō) both reconfirmed correct via en.Wiktionary. `radical: 水` confirmed as the vault's standard convention for water-radical characters (81 existing pages use `水`, none use `氵`) — the Notes bullet's `[[Radical 085|氵]]` is just a display alias, not a mismatch.
+
+**`stand_in` bug found and fixed — a genuine, well-hidden one**: stored `名専字`, but both citing word pages already in the vault, `words/乾溜.md` and `words/蒸溜.md`, explicitly state in their own prose that "[溜]... (stand-in for 餾, 'distill')" — i.e., the vault had already documented, on the citing pages, that 溜 functions as a graphic stand-in for 餾 in these compounds, but this had never been back-propagated to 溜's own `stand_in` field. Corrected `名専字` → `餾`.
+
+**`aliases` bug found and fixed as a consequence of the same discovery**: stored `餾` as an alias, but zh.Wiktionary confirms 餾 and 溜 are independent characters (different radical, different core meaning "distill" vs "flow/drip," 餾's own simplified form is 馏, not 溜) that merely share the 留 phonetic series — a textbook phonetic-series false positive, not a true variant. Removed. (The stand_in fix above captures the real relationship correctly: 溜 stands in for 餾 rather than being an alias of it.)
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "lưu, lựu"; the vault's stored `rượu` is Âm Nôm contamination. Removed, leaving `[lưu, lựu]`.
+
+**`pos` filled**: was blank. Filled as `事詞`, matching 溜's own core verb-like sense ("slide, glide") and its verb-like stand-in use ("distill").
+
+**Bare-wikilink bug found and fixed**: the graphemic bullet's `[[留]]` would have resolved to `words/留.md` rather than `characters/留 (char).md` (both exist) — corrected to `[[留 (char)|留]]`.
+
+Rebuilt the malformed Notes (only a single graphemic bullet, missing SKIP/Stroke and CC-rank and Grade/Level bullets entirely) into the standard four-bullet format, and cleaned up a stray empty bullet under `## Words`. [[characters/留 (char)|留]]'s own `## Derived Characters` list already correctly cited 溜, so no consequence-fix was needed there. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 亢 (8005; 723 characters remaining).
+
+### 2026-08-16, iteration 1782 — [[characters/亢|亢]]
+
+`mc_id: 1853` reconfirmed exact match (CC 1000.md: `1852. 源`, `1853. 亢`, `1854. 品`). `radical: 亠` reconfirmed correct (Kangxi radical 8, "亠+2, 4 strokes"). `graphemic_classification: 象形` investigated but left unchanged: a preliminary zh.Wiktionary fetch claimed "形声字," but a follow-up verbatim-quote request found no actual textual support for any 六書 classification on either en. or zh.Wiktionary — with no solid citation to override it, and the stored value matching the traditional Shuowen gloss (depicts a person's neck/neck-veins, 从大省象颈脉形), left as `象形` per the established near-miss caution (cf. 矩/巨, 灌/鸛, 兀/元). `joyo_level: 表外字` and `hanmun_edu_level: 名` both reconfirmed already correctly cross-listed on `Lookup/Japanese/Hyōgai.md` (item 107) and `Lookup/Korean/Korean Name ㅎ.md` (which also already separately cross-references 伉 → this same page, since 伉 has no character page of its own).
+
+**`aliases` bug found and fixed — another phonetic-series false positive**: stored `伉` (also as a bare scalar rather than a list — a YAML structural bug too), but zh.Wiktionary explicitly states 伉 is not a variant of 亢, but rather an independent 形声 character (radical 人) that merely uses 亢 as its phonetic component — the same false-positive pattern caught on 溜/餾 last iteration. Removed.
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "cang, cương, hàng, kháng" (four readings); the vault had only `[cang, khảng]` — `khảng` is Âm Nôm contamination (a different, easily-confused diacritic from the genuine Hán Việt `kháng`), and the three other genuine readings `cương, hàng, kháng` were all missing. Corrected to the full four-reading Hán Việt set.
+
+**`pos` filled**: was blank. Filled as `性詞`, matching the stative "high, proud" sense, consistent with other `名専字`-tagged adjectival siblings (咼, 枉).
+
+Confirmed no citing word exists for 亢 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 尹 (8006; 722 characters remaining).
