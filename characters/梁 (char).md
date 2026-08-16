@@ -33,19 +33,23 @@ kwin: true
 tags:
   - character
 boundedness: 90
+date-last-perfect: 2026-08-16
 ---
 >[!tip] This is a page about the character 梁.
->For the word, see [梁](words/梁.md)
+>For the word, see [梁](../words/梁.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 陽開]]
+## Notes
+- 形声 (OC *raŋ): semantic [[Radical 085|水]] ("water") + [[Radical 075|木]] ("wood") + phonetic [[刅]] — a wooden bridge over water; a girder.
+- [SKIP-2-7-4](Lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](Lookup/Stroke/Stroke%2011.md))
+- 368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](syllables/ㄌ⼘ㄫ.md)
+- [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 2](Lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean HS](Lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[梁](../words/梁.md)<rt>ㄌ⼘ㄫ</rt></ruby> "girder"
 - <ruby>[[棟梁]]<rt>ㄉㄛㄫㄌ⼘ㄫ</rt></ruby> "ridgepole; mainstay"
 - <ruby>[[跳梁]]<rt>ㄊㄛㄨㄌ⼘ㄫ</rt></ruby> "to run rampant, to jump about wildly"
 

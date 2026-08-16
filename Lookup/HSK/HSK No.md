@@ -737,6 +737,7 @@ tags: [lookup]
 [唳 (char)](../../characters/唳%20(char).md)
 [埃](../../characters/埃.md)
 [錐](../../characters/錐.md)
+[畿](../../characters/畿.md)
 
 ## Datacheck
 ```base

@@ -2941,3 +2941,83 @@ Next never-perfected character by `danayo_id`: 錐 (7490; 774 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 畿 (7491; 773 characters remaining).
+
+### 2026-08-16, iteration 1732 — [[characters/畿|畿]]
+
+`mc_id: 3284` verified against `CC 3000.md` line 297 — exact match. `graphemic_classification: 幾` reconfirmed correct (形声, semantic [[Radical 102|田]] "field" + abbreviated phonetic 幾). `vietnamese: kì, kỳ` reconfirmed correct via hvdic, both dual-classified identically. The alias 㙨 reconfirmed via both en.Wiktionary and zh.Wiktionary as a genuine variant, no independent vault page.
+
+**Near false-alarm on `joyo_level`**: en.Wiktionary calls 畿 a plain "Jōyō kanji," which at first glance looked like a mismatch against the stored value `高等`. But the vault's own mapping table treats `高等` as a valid `joyo_level` value in its own right — Jōyō-Kōtō, the secondary-school-taught subset of Jōyō kanji, distinct from the elementary Kyōiku set — so the stored value was already correct; it just needed the right lookup link ([[Lookup/Japanese/Jōyō - Kōtō]], not the identically-spelled Korean [[Lookup/Korean/Korean HS]] that `hanmun_edu_level: 高等` maps to). A reminder that the same string can be a legitimate value across two unrelated fields with two different lookup targets.
+
+**`hsk_level` gap filled**: blank → `無`, no attestation in any vault HSK list; added to [[Lookup/HSK/HSK No]]. **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[京畿]]'s own `名詞`.
+
+**Fixed a rendering bug in the Notes bullet itself**: the semantic radical's gloss was empty (`("")`) and the phonetic link was a bare empty wikilink (`[[]]`) — both silently swallowed, presumably from a failed substitution upstream. Restored the gloss ("field") and the link ([[幾 (char)|幾]]). Confirmed the phonetic parent [[characters/幾 (char)|幾]]'s own `## Derived Characters` list already correctly cites 畿 with ruby — no consequence-fix needed. Fixed the malformed `## Words` entry for [[京畿]] (was a bare wikilink with no ruby or gloss) and rebuilt the four-bullet Notes structure. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 楚 (7493; 772 characters remaining).
+
+### 2026-08-16, iteration 1733 — [[characters/楚|楚]]
+
+`mc_id: 114` verified against `CC 0000.md` line 122 (blockquote-formatted) — exact match, one of the highest-frequency characters perfected this session. `graphemic_classification: 疋` reconfirmed correct via dual-source agreement (形声, semantic [[Radical 075|木]] "wood, forest" + phonetic 疋). `joyo_level: 日本人名用漢字` reconfirmed correct (Jinmeiyō).
+
+**`vietnamese` contamination fixed**: stored `sở, sỡ`, but hvdic's genuine entry gives only `sở` — `sỡ` doesn't appear under either Hán Việt or Nôm at all, unattested fabrication rather than a Nôm-misattribution. Removed.
+
+**`aliases` gap filled**: both en.Wiktionary and zh.Wiktionary independently list the same four ancient variant forms (椘, 䠂, 𣕑, 𣗂) — all added, none with existing vault pages.
+
+**`pos` gap filled**: blank → `性詞` (stative), based on the character's own core meaning "clear" rather than borrowing the citing compound word [[清楚]]'s broader `実詞` (a superordinate content-word category, not a specific POS tag fit for an individual character entry).
+
+**Consequence-fix applied to an out-of-scope, still-unperfected page**: the phonetic parent [[characters/疋|疋]] (danayo_id 8017, not yet reached) had no `## Derived Characters` section at all — added one with the single 楚 entry.
+
+Rebuilt the malformed Notes (bare floating unlinked CC wikilinks with an out-of-order but otherwise-correct `## Words` section preceding them) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 爺 (7494; 771 characters remaining).
+
+### 2026-08-16, iteration 1734 — [[characters/爺|爺]]
+
+`mc_id: 0` re-verified — grepped all four `CC 0000–3000.md` files for both 爺 and its phonetic 耶; only 耶 itself appears (rank 1818), 爺 genuinely absent. `graphemic_classification: 耶` reconfirmed correct (形声, semantic [[Radical 088|父]] "father" + phonetic 耶, OC *laː). `joyo_level: 表外字` reconfirmed correct via zh.Wiktionary, already properly cited on [[Lookup/Japanese/Hyōgai]].
+
+**`vietnamese` gap filled**: stored `gia` alone, but hvdic's "Âm Hán Việt:" line gives both `da` and `gia` — added the missing `da`.
+
+**`aliases` false-positive avoided**: zh.Wiktionary's own 異體字 list for 爺 includes both 爷 and 耶, but 耶 is 爺's phonetic-series source with its own independent vault page and distinct grammatical-particle meaning — the same "phonetic-series member listed as variant" pattern caught repeatedly this session (cf. 悷/唳, 取/娶). Kept only 爷 (genuine simplified form).
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[老爺]]'s own `名詞`.
+
+Confirmed the phonetic parent [[characters/耶 (char)|耶]]'s own Words/Derived section already correctly cites 爺 with ruby — no consequence-fix needed. Rebuilt the malformed Notes (missing SKIP/Stroke and Levels bullets entirely, a word citation for [[爺爺]] stuck inside Notes instead of Words) into the standard four-bullet format plus a complete `## Words` section citing both [[老爺]] and [[爺爺]]. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 惮 (7495; 770 characters remaining).
+
+### 2026-08-16, iteration 1735 — [[characters/惮|惮]]
+
+**`mc_id` off-by-one found and fixed**: stored `1712`, but `CC 1000.md` line 745 shows 1712 is actually 冤's rank — 憚 itself is line 746, rank `1713`. Corrected.
+
+**Near-miss on `graphemic_classification`**: stored `単` (the Japanese shinjitai form), which at first glance looked mismatched since 惮 is itself the simplified Chinese form and its "native" phonetic component would be 单. But checking the parent page first — [[characters/単|単]], already perfected — showed it already holds both 單 (traditional) and 单 (simplified) as its own aliases, meaning 単 is the vault's established registered parent for this entire phonetic-series triplet, the same convention documented on 鸛 (single canonical page absorbing sibling forms as aliases). Left unchanged — correct as stored.
+
+**`vietnamese` fully re-derived, not just trimmed**: stored `dạn, đạn, đặn`, but hvdic's genuine "Âm Hán Việt:" line gives `đát, đạn` — of the three stored readings, only `đạn` is dual-classified/genuine; `dạn` and `đặn` are Nôm-only. Removed both and added the missing `đát`.
+
+**Consequence-fix applied**: added a `## Derived Characters` section to [[characters/単|単]] (it had none) citing 惮.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with a word citation stuck inside Notes instead of `## Words`) into the standard four-bullet format. `pos: 性詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 梁 (char) (7497; 769 characters remaining).
+
+### 2026-08-16, iteration 1736 — [[characters/梁 (char)|梁]]
+
+`mc_id: 368` verified against `CC 0000.md` line 383 (blockquote-formatted) — exact match. `graphemic_classification: 刅` and `joyo_level: 日本人名用漢字` both reconfirmed correct (形声, a three-part compound with semantic [[Radical 085|水]] "water" + [[Radical 075|木]] "wood" + phonetic 刅; Jinmeiyō). `vietnamese: lương` reconfirmed correct via hvdic, dual-classified identically.
+
+**`aliases` false-positive avoided**: en.Wiktionary's "Alternative forms" list for 梁 includes 粱 alongside the already-stored 樑, but 粱 has its own fully independent meaning ("millet, sorghum, grain") rather than being a variant of 梁 (beam/bridge) — a textbook instance of the phonetic-series false-positive pattern, kept out of `aliases`. 樑 itself reconfirmed genuine via en.Wiktionary's "See also" note.
+
+Confirmed no vault page exists for the phonetic component 刅, so no consequence-fix was possible/needed there. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, fixed a `../` path bug in the disambiguation callout, and added the missing self-named word [[梁]] to `## Words` (already had [[棟梁]] and [[跳梁]]). Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 芻 (7498; 768 characters remaining).
+
+### 2026-08-16, iteration 1737 — [[characters/芻|芻]]
+
+`mc_id: 1763` verified against `CC 1000.md` line 796 — exact match. `graphemic_classification: 會意` reconfirmed correct (ideogrammic, [[Radical 020|勹]] "hand" + [[Radical 045|屮]] "grass" — a hand plucking grass), both components linked via their Radical pages per the radical-linking rule. `joyo_level: 表外字` reconfirmed correct.
+
+**`vietnamese` contamination fixed**: stored `ro, so, sô, sồ`, but hvdic's genuine "Âm Hán Việt:" line gives only `sô` — `ro` and `so` are Nôm-only, and `sồ` is unattested under either category. Reduced to the single genuine reading.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[乾芻]]'s own `名詞`. Also added a missing "(stand-in for 芻)" annotation to that same Words entry.
+
+**Consequence-fix applied to an out-of-scope, still-unperfected page**: [[characters/屮|屮]] (danayo_id 8732, not yet reached) had no `## Derived Characters` section — added one citing 芻.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format; the existing `## Words` and `## Derived Characters` sections (already correctly citing [[趨 (char)|趨]]) needed no other changes. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 哥 (7499; 767 characters remaining).
