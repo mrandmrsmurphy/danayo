@@ -741,6 +741,8 @@ tags: [lookup]
 [笙](../../characters/笙.md)
 [灼](../../characters/灼.md)
 [軛 (char)](../../characters/軛%20(char).md)
+[䋇 (char)](../../characters/䋇%20(char).md)
+[涜](../../characters/涜.md)
 
 ## Datacheck
 ```base

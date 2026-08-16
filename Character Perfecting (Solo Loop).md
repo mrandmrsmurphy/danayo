@@ -3257,3 +3257,27 @@ Next never-perfected character by `danayo_id`: 矩 (char) (7517; 750 characters 
 Fixed a `../` path bug in the disambiguation callout and rebuilt the malformed Notes/Words structure into the standard format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 䋇 (char) (7518; 749 characters remaining).
+
+### 2026-08-16, iteration 1756 — [[characters/䋇 (char)|䋇]]
+
+**`mc_id` off-by-one found and fixed**: stored `2499`, but `CC 2000.md` line 520 shows 2499 is actually 邕's rank — 繹 itself (the traditional form this rank is indexed under) is line 521, rank `2500`. Corrected.
+
+**`graphemic_classification` investigated and left unchanged after a nuanced check**: en.Wiktionary and zh.Wiktionary both name **睪**, not 尺, as the traditional form 繹's true phonetic component — initially looked like a clear-cut error matching the 尼/曰 pattern. But 䋇 is itself the *extended shinjitai* simplification of 繹, and its actual glyph literally contains 尺 (not 睪) as a graphic substitute; the pre-existing Notes bullet had already researched and cited three OC readings for 尺 including *laːɡ — an exact match to 繹's own OC value, suggesting 尺 carries a genuine (if obscure) ancient phonetic loan value of its own rather than being an arbitrary shape-only substitution. Since the character being perfected is the glyph that actually contains 尺, and no vault page exists for 睪 (which doesn't even appear in this glyph), left `graphemic_classification: 尺` unchanged and rewrote the Notes bullet to explain the shinjitai-substitution relationship explicitly rather than leaving it ambiguous.
+
+**`vietnamese` fixed on two axes at once**: the stored value was a single malformed YAML string (`"gịt, dịch, dịt"` as one list item rather than three) AND contaminated — hvdic's genuine "Âm Hán Việt:" line gives only `dịch`, with `dịt`/`gịt` being Nôm-only. Fixed the YAML structure and reduced to the single genuine reading in one edit.
+
+Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes/Words structure into the standard format. `pos: 事詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 涜 (7519; 748 characters remaining).
+
+### 2026-08-16, iteration 1757 — [[characters/涜|涜]]
+
+**`mc_id` off-by-one found and fixed**: stored `1875`, but `CC 1000.md` line 912 shows 1875 is actually 酎's rank — 瀆 itself (the traditional-form rank this indexes under) is line 913, rank `1876`. Corrected.
+
+**`graphemic_classification` investigated and confirmed already correct, with the same shinjitai-substitution pattern seen on 䋇 last iteration**: the field stores `𧶠`, en.Wiktionary's own entry for the traditional form 瀆 explicitly names 𧶠 (not 賣/売) as the true phonetic — matching the stored field exactly. The Notes bullet's prose describing "[氵] + [売]" isn't a contradiction; it's describing what's visually present in *this* shinjitai glyph (賣→売 is a standard simplification substitution, same pattern as 睪→尺 on 䋇), while the field correctly records the deeper phonetic root. Rewrote the Notes bullet to make this relationship explicit rather than leaving it as a bare, unexplained pair of links. Confirmed no vault page exists for 売 that should receive 涜 as a Derived Characters consequence-fix, since 売 is not what the `graphemic_classification` field actually names.
+
+**`vietnamese` gap filled**: stored `độc` alone; hvdic's genuine "Âm Hán Việt:" line gives both `đậu` and `độc` — added the missing `đậu`.
+
+Fixed a warning-callout typo ("on it's own" → "on its own") and a `../` path bug in its link. Rebuilt the malformed Notes/Words structure into the standard format. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 圄 (7520; 747 characters remaining).
