@@ -3607,3 +3607,17 @@ Next never-perfected character by `danayo_id`: 亢 (8005; 723 characters remaini
 Confirmed no citing word exists for 亢 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 尹 (8006; 722 characters remaining).
+
+### 2026-08-16, iteration 1783 — [[characters/尹|尹]]
+
+`mc_id: 597` reconfirmed exact match (CC 0000.md: `> 596. 盜`, `> 597. 尹`, `> 598. 陛`). `vietnamese: [doãn, duẫn]` reconfirmed correct — hvdic's Âm Hán Việt and Âm Nôm lines are identical for this character, so no contamination to remove.
+
+**Cross-source disagreement investigated on `graphemic_classification` and `radical`, left unchanged**: en.Wiktionary classifies 尹 as 會意 (ideogrammic compound: hand + rod) with Kangxi radical 尸 (44), while zh.Wiktionary classifies it as 指事 (indicative) with radical 丿. The vault's stored values (`指事` / `丿`) match zh.Wiktionary exactly, and per this session's established practice of treating the Chinese-native source as authoritative for 六書 classification on genuine cross-source disagreements, left both fields unchanged.
+
+**`joyo_level` bug found and fixed**: was blank; en.Wiktionary confirms Hyōgai kanji (表外字) status. Corrected, and added as new item 374 to `Lookup/Japanese/Hyōgai.md` (was missing from the cross-reference list entirely). `hanmun_edu_level: 名` reconfirmed already correctly cross-listed on `Lookup/Korean/Korean Name ㅇ.md` under the `### 윤` heading.
+
+**`pos` filled**: was blank. Filled as `事詞`, matching the character's core verb-like sense ("govern, oversee").
+
+Confirmed no citing word exists for 尹 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 仄 (8007; 721 characters remaining).

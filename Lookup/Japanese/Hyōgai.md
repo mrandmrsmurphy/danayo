@@ -375,6 +375,7 @@ tags: [lookup]
 371. [陋](../../characters/陋.md)
 372. [卦 (char)](../../characters/卦%20(char).md)
 373. [熨](../../characters/熨.md)
+374. [尹](../../characters/尹.md)
 
 
 [[../../characters/吠]] - barking DO IT
