@@ -360,6 +360,7 @@ tags: [lookup]
 356. [醤](../../characters/醤.md)
 357. [幇](../../characters/幇.md)
 358. [哥](../../characters/哥.md)
+359. [兪 (char)](../../characters/兪%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT

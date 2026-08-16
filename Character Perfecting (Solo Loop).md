@@ -3045,3 +3045,15 @@ Next never-perfected character by `danayo_id`: 伍 (char) (7500; 766 characters 
 Checked the phonetic parent [[characters/五 (char)|五]] (itself badly malformed and unperfected, with non-standard heading names like `### Descendants` and `## Important Words` instead of the standard section names) — it already informally cites 伍 there, so left it untouched rather than reformat an unrelated section beyond this iteration's scope. Fixed a `../` path bug in the disambiguation callout, rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing the self-named word [[伍]]. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 兪 (char) (7501; 765 characters remaining).
+
+### 2026-08-16, iteration 1740 — [[characters/兪 (char)|兪]]
+
+**Near-miss on `mc_id`**: stored `1536`, which at first glance looked like it might be the familiar off-by-one bug pattern. But `CC 1000.md` line 561 shows 1536 is exactly the rank of **俞** — and since en.Wiktionary explicitly states "兪 is a variant form of 俞" (deferring to it for pronunciation and definition), and 俞 has no separate vault page of its own (registered only as 兪's alias, mirroring the 雚/鸛 convention), citing 俞's own CC rank for 兪 is the established, correct pattern here — not a bug. Left unchanged.
+
+**`vietnamese` gap filled, not contamination**: stored `dũ` alone; fetching hvdic for the alias-parent 俞 (since 兪 defers to it) showed `du, dũ` both listed as genuine Hán Việt — added the missing `du`.
+
+**Large `## Derived Characters` reformatting**: the existing list (蝓, 喩, 愈, 愉, 揄, 諭, 逾) was present but entirely unformatted — six of the seven were bare, unlinked plaintext with no ruby or gloss. Verified each descendant's own stored `注音` (all identically ⼜ㄇ, confirming the page's own "-m by fiat" homophony-reduction note) and rebuilt the section with proper ruby-annotated links and glosses pulled from each descendant's `english` field.
+
+Rebuilt the malformed Notes (mixed heading levels, an out-of-order `### Derived characters` before the CC bullet, word citations scattered after) into the standard four-bullet format plus a clean `## Words` section. `pos: 事詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 祐 (7502; 764 characters remaining).
