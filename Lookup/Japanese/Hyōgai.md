@@ -347,6 +347,13 @@ tags: [lookup]
 343. [鬣 (char)](../../characters/鬣%20(char).md)
 344. [駝](../../characters/駝.md)
 345. [芬](../../characters/芬.md)
+346. [盈](../../characters/盈.md)
+347. [拼](../../characters/拼.md)
+348. [拌](../../characters/拌.md)
+349. [啡](../../characters/啡.md)
+350. [髯](../../characters/髯.md)
+351. [霫](../../characters/霫.md)
+352. [闖](../../characters/闖.md)
 
 
 [[../../characters/吠]] - barking DO IT

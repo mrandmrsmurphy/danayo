@@ -49,6 +49,7 @@ boundedness: 90
 - Descendants: 
 	- [誹](characters/誹.md)
 	- [排 (char)](characters/排%20(char).md)
+	- [啡](characters/啡.md)
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 微合]]
 - [[非常]] "extreme, unusual"

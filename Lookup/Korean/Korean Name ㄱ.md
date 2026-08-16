@@ -104,7 +104,7 @@ This has been checked for redirects.
 [款 (char)](characters/款%20(char).md) [[琯]] 錧 none [灌](characters/灌.md) [[瓘]] [[梡]] [串](characters/串%20(char).md) [棺 (char)](characters/棺%20(char).md) [罐](characters/缶.md) [菅](characters/菅.md) 
 
 ### 괄 
-[括](characters/括.md) [刮](characters/刮.md) [[恝]] [适](characters/適.md) 
+[括](characters/括.md) [刮](characters/刮.md) [[恝]] [适](characters/適.md) [筈 (char)](characters/筈%20(char).md) 
 
 ### 광 
 [[侊]] [洸](characters/洸.md) [[珖]] [[桄]] [匡](characters/匡.md) [曠](characters/広%20(char).md) [[壙]] [筐 (char)](characters/筐%20(char).md) [胱](characters/胱.md) 
@@ -171,7 +171,7 @@ This has been checked for redirects.
 [契](characters/契.md)
 
 ### 금 
-[[衾]] [襟](characters/襟.md) [[昑]] [[妗]] [[擒]] [[檎]] [芩](characters/今%20(char).md) [衿](characters/襟.md)
+[[衾]] [襟](characters/襟.md) [[昑]] [[妗]] [[擒]] [[檎]] [芩](characters/今%20(char).md) [衿](characters/襟.md) [錦](characters/錦.md)
 
 ### 급 
 [汲 (char)](characters/汲%20(char).md) [[伋]] [扱 (char)](characters/扱%20(char).md)

@@ -151,3 +151,4 @@ boundedness: 60
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄞㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> "time keeps dragging on"
 ## Derived Characters
 - <ruby>[[涅]]<rt>ㄋㄝㄊ</rt></ruby> "black mud, tattoo"
+- <ruby>[[晋]]<rt>ㄐㄧㄋ</rt></ruby> "increase, advance"

@@ -73,3 +73,4 @@ boundedness: 90
 - <ruby>[[碼 (char)|碼]]<rt>ㄇㄚ</rt></ruby> "yard"
 - <ruby>[[媽]]<rt>ㄇㄚ</rt></ruby> "maidservant"
 - <ruby>[[罵]]<rt>ㄇㄚ</rt></ruby> "to abuse; to scold"
+- <ruby>[[闖]]<rt>ㄊㄨㄇ</rt></ruby> "intrude"

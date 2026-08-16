@@ -70,3 +70,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
+
+## Derived Characters
+- <ruby>[[錦]]<rt>ㄎㄛㄇ</rt></ruby> "brocade"
+- <ruby>[[欽]]<rt>ㄎㄨㄇ</rt></ruby> "respect, admire"

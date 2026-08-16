@@ -730,6 +730,10 @@ tags: [lookup]
 [[萎]]
 [掻 (char)](../../characters/掻%20(char).md)
 [芬](../../characters/芬.md)
+[磐](../../characters/磐.md)
+[髯](../../characters/髯.md)
+[霫](../../characters/霫.md)
+[浣](../../characters/浣.md)
 
 ## Datacheck
 ```base

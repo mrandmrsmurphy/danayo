@@ -3,7 +3,7 @@ tags: [lookup]
 ---
 Redirected checked for
 ### 파 
-[巴 (char)](characters/巴%20(char).md) [芭](characters/芭.md) [琶](characters/琶.md) [坡](characters/坂.md) [杷](characters/把.md) [婆](characters/婆.md) [擺](characters/擺.md) [爬](characters/爬.md) [跛](characters/坂.md)
+[巴 (char)](characters/巴%20(char).md) [芭](characters/芭.md) [琶](characters/琶.md) [坡](characters/坂.md) [杷](characters/把.md) [婆](characters/婆.md) [擺](characters/擺.md) [爬](characters/爬.md) [跛](characters/坂.md) [玻](characters/玻.md)
 
 ### 판 
 [阪](characters/坂.md) [坂](characters/坂.md) 弁<--瓣 [辦](characters/辦.md) [鈑](characters/板.md)

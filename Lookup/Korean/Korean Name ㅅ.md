@@ -100,7 +100,7 @@ Checked for redirects
 [瑟 (char)](characters/瑟%20(char).md) [膝](characters/膝.md) [[璱]] [蝨](characters/虱%20(char).md)
 
 ### 습  
-[[褶]] 
+[[褶]] [霫](characters/霫.md)
 
 ### 승 
 [丞](characters/丞.md) [[陞]] [繩](characters/縄%20(char).md) [蠅](characters/蝿.md) [升 (char)](characters/升%20(char).md) [[榺]] [[氶]] [[塍]] 

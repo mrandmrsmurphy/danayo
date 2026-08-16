@@ -55,3 +55,6 @@ boundedness: 75
 ## Words
 - <ruby>[[般]]<rt>ㄅㄚㄋ</rt></ruby> "category" (stand-in for 般 (char))
 - <ruby>[[一般]]<rt>ㄧㄊㄅㄚㄋ</rt></ruby> "average; common; general; ordinary"
+
+## Derived Characters
+- <ruby>[[磐]]<rt>ㄅㄚㄋ</rt></ruby> "boulder"

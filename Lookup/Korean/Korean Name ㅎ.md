@@ -157,6 +157,9 @@ This have all be checked for redirects.
 ### 희
 [姬](characters/姫%20(char).md) [[晞]] [[僖]] [[橲]] [禧](characters/喜%20(char).md) [嬉](characters/嬉.md) [熙](characters/熙.md) [[憙]] [[熹]] [[凞]] [[羲]] [[爔]] [[曦]] [[俙]] [[𡅕]] [[憘]] [犧](characters/犠.md) [噫](characters/噫.md) [[煕]] [[烯]] [[暿]] [[熹]] ([[熺]]) [姫](characters/姫%20(char).md)
 
+### 히
+[屎 (char)](characters/屎%20(char).md)
+
 ### 힐
 [詰](characters/詰.md)
 
