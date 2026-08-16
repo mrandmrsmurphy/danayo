@@ -3087,3 +3087,29 @@ A largely already-perfected page needing mostly light touch-ups. `mc_id: 3213` v
 `pos`, `joyo_level`, `hsk_level`, `hanmun_edu_level` were all already correctly filled; no changes needed there. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 珈 (7504; 762 characters remaining).
+
+### 2026-08-16, iteration 1743 — [[characters/珈|珈]]
+
+`mc_id: 7961` is trusted long-tail (>4000). `graphemic_classification: 加` reconfirmed correct (形声, semantic [[Radical 096|玉]] "jade" + phonetic 加).
+
+**`aliases` false-positive category found and fully cleared**: all three stored aliases (迦, 袈, 咖) were phonetic-series cognates sharing 加 as their own root, not genuine variants of 珈 itself — confirmed by checking zh.Wiktionary's actual 異體字 section, which is empty for 珈 despite the etymology prose mentioning the related characters in passing. A instructive case: a plausible reading of Wiktionary's prose ("shares the same phonetic component") can look like alias evidence but isn't the same as an explicit variant-form declaration — the dual-source policy requires checking the dedicated variant-forms section, not just component-sharing language. Cleared all three, aliases now empty.
+
+**`vietnamese` gap filled**: stored `gia` alone; hvdic gives both `gia` and `già` as genuine Hán Việt — added the missing `già`.
+
+Rebuilt the malformed Notes (mixed content: word citations partially with ruby/paths, partially bare wikilinks with dash-glosses, all crammed into `## Notes` instead of `## Words`; floating unlinked CC wikilinks at the bottom) into the standard four-bullet format plus a proper `## Words` section, pulling each citing word's own stored 注音 for ruby rather than guessing (confirmed via direct grep on each of [[珈啡]], [[珈沙]], [[釈珈文尼]], [[珈拿陀]]). Confirmed the phonetic parent [[characters/加|加]]'s own Words list already correctly cites 珈 — no consequence-fix needed. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 笙 (7505; 761 characters remaining).
+
+### 2026-08-16, iteration 1744 — [[characters/笙|笙]]
+
+**`mc_id` off-by-one found and fixed**: stored `2590`, but `CC 2000.md` line 615 shows 2590 is actually 頑's rank — 笙 itself is line 616, rank `2591`. Corrected. `graphemic_classification: 生` reconfirmed correct (形声, semantic [[Radical 118|竹]] "bamboo" + phonetic 生), `joyo_level: 日本人名用漢字` reconfirmed correct.
+
+**`vietnamese` heavily contaminated, fixed**: stored five readings (`sanh, sinh, sênh, sềnh, xênh`), but hvdic's genuine "Âm Hán Việt:" line gives only `sanh, sinh` — `sênh` and `xênh` are Nôm-only, and `sềnh` is unattested under either category. Reduced to the two genuine readings.
+
+**`hsk_level` gap filled**: blank → `無`, no attestation in any vault HSK list; added to [[Lookup/HSK/HSK No]]. **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[鳳笙]]'s own `名詞`.
+
+**Consequence-fix applied**: the phonetic parent [[characters/生|生]] (already perfected, a very large page with 30 Words entries and 4 existing Derived Characters) was missing 笙 from its `## Derived Characters` list — added it as the fifth entry.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 壱 (char) (7506; 760 characters remaining).

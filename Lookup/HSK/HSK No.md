@@ -738,6 +738,7 @@ tags: [lookup]
 [埃](../../characters/埃.md)
 [錐](../../characters/錐.md)
 [畿](../../characters/畿.md)
+[笙](../../characters/笙.md)
 
 ## Datacheck
 ```base
