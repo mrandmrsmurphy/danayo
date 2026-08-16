@@ -3113,3 +3113,19 @@ Next never-perfected character by `danayo_id`: 笙 (7505; 761 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 壱 (char) (7506; 760 characters remaining).
+
+### 2026-08-16, iteration 1745 — [[characters/壱 (char)|壱]]
+
+`mc_id: 1256` verified against `CC 1000.md` line 269 (indexed under the traditional/kyūjitai form 壹, already the vault's own stored alias). `graphemic_classification: 吉` reconfirmed correct (形声, semantic 壺 "jar" + phonetic 吉).
+
+**`joyo_level: 高等` initially looked like a possible mismatch** — en.Wiktionary calls 壱 plain "Jōyō kanji" without specifying a sub-tier — but cross-checking Wikipedia's actual jōyō kanji table confirmed 壱 is grade "S" (Secondary school), which correctly maps to this vault's `高等` (Jōyō-Kōtō) convention. Left unchanged, correctly stored.
+
+**`aliases` false-positive removed**: 佾 was stored as an alias, but en.Wiktionary confirms it has its own fully distinct meaning ("a row of dancers during a sacrificial rite," attested in the Analects' 八佾) — no connection to the numeral one beyond superficial visual similarity. Removed. 壹 (kyūjitai) and 弌 (ancient variant) both reconfirmed genuine via en.Wiktionary.
+
+**`hsk_level` near-miss caught before shipping wrong data**: initially found no citation in [[Lookup/HSK/HSK No]] and almost filled `hsk_level: 無`, but a broader grep across the whole `Lookup/HSK` directory turned up 壹 already listed in [[Lookup/HSK/Old HSK 4]] — corrected to `hsk_level: "4"` instead, and reverted the erroneous HSK No addition before it went uncaught.
+
+**`vietnamese` and `pos` gaps filled** by cross-referencing the citing stand-in word [[壱]]'s own already-perfected page: `vietnamese: nhất`, `pos: 性詞`.
+
+Confirmed the phonetic parent [[characters/吉 (char)|吉]]'s own Words list already correctly cites 壱. Rebuilt the malformed Notes (a single stray dropped-from-list note, no proper Notes/Words structure at all) into the standard four-bullet format plus a `## Words` section, folding the original Korean-list note into the Words entry's own gloss. Fixed a `../` path bug in the disambiguation callout. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 灼 (7507; 759 characters remaining).
