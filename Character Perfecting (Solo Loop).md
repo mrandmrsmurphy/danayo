@@ -3281,3 +3281,17 @@ Next never-perfected character by `danayo_id`: 涜 (7519; 748 characters remaini
 Fixed a warning-callout typo ("on it's own" → "on its own") and a `../` path bug in its link. Rebuilt the malformed Notes/Words structure into the standard format. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 圄 (7520; 747 characters remaining).
+
+### 2026-08-16, iteration 1758 — [[characters/圄|圄]]
+
+**`mc_id` off-by-one found and fixed**: stored `3042`, but `CC 3000.md` line 47 shows 3042 is actually 簫's rank — 圄 itself is line 48, rank `3043`. Corrected. `graphemic_classification: 吾` and the alias 圉 both reconfirmed correct (形声, semantic [[Radical 031|囗]] "enclosure" + phonetic 吾).
+
+**`vietnamese` contamination fixed**: stored `ngữ, vũ`, but hvdic's genuine "Âm Hán Việt:" line gives only `ngữ` — `vũ` is Nôm-only. Reduced to the single genuine reading.
+
+**`joyo_level` and `hsk_level` gaps filled**: blank → `表外字` (added to [[Lookup/Japanese/Hyōgai]]) and blank → `無` (added to [[Lookup/HSK/HSK No]]) respectively. **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[令圄]]'s own `名詞`.
+
+**Consequence-fix applied**: [[characters/吾|吾]] (itself still malformed/unperfected) had no `## Derived Characters` section at all despite being 圄's phonetic parent — added one citing 圄.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 誣 (7521; 746 characters remaining).

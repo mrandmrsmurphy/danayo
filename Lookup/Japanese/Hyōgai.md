@@ -366,6 +366,8 @@ tags: [lookup]
 362. [曰 (char)](../../characters/曰%20(char).md)
 363. [軛 (char)](../../characters/軛%20(char).md)
 364. [䋇 (char)](../../characters/䋇%20(char).md)
+365. [涜](../../characters/涜.md)
+366. [圄](../../characters/圄.md)
 
 
 [[../../characters/吠]] - barking DO IT
