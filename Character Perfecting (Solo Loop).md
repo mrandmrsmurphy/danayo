@@ -3179,3 +3179,15 @@ Next never-perfected character by `danayo_id`: 尼 (7510; 756 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format, and added the missing self-named-alternative stand-in citation [[尼僧]] to Words. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 帛 (7511; 755 characters remaining).
+
+### 2026-08-16, iteration 1750 — [[characters/帛|帛]]
+
+`mc_id: 1010` verified against `CC 1000.md` line 15 — exact match. `graphemic_classification: 白` and `joyo_level: 表外字` both reconfirmed correct (形声, semantic [[Radical 050|巾]] "cloth" + phonetic 白). `vietnamese: bạch` reconfirmed correct via hvdic, dual-classified identically — no contamination this time.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[布帛]]'s own `名詞`.
+
+**Consequence-fix applied**: the phonetic parent [[characters/白 (char)|白]] (already perfected, a large page with an existing five-entry Derived Characters list — 柏/百/珀/魄/拍) was missing 帛 — added it as the sixth entry.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing [[布帛]]. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 叭 (7512; 754 characters remaining).
