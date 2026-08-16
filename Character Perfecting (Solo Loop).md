@@ -3645,3 +3645,15 @@ Next never-perfected character by `danayo_id`: 廿 (8008; 720 characters remaini
 Confirmed no citing word exists for 廿 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 歹 (8010; 719 characters remaining).
+
+### 2026-08-16, iteration 1786 — [[characters/歹|歹]]
+
+A quicker iteration — `pos: 性詞` was already correctly filled. `mc_id: 3857` reconfirmed exact match, interestingly recorded under its own variant glyph in the source list (CC 3000.md: `3856. 廾`, `3857. 歺`, `3858. 羡` — the rank entry itself uses 歺 rather than 歹). `radical: 歹`, `graphemic_classification: 象形` (human remains/bones pictogram), and `joyo_level: 表外字` all reconfirmed correct via dual-source agreement. `aliases: 歺` reconfirmed as a genuine dual-source-corroborated variant this time (both en.Wiktionary's "See also: 歺" and zh.Wiktionary's explicit "歺確實是歹的異體字" — unlike the phonetic-series false positives caught the last two iterations on 溜/餾 and 亢/伉).
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "ngạt, đãi"; the vault's stored `ngặt` is Âm Nôm-only contamination (a near-homograph of genuine `ngạt`, easy to conflate). Removed, leaving `[ngạt, đãi]`.
+
+**`joyo_level` cross-reference gap found and fixed**: 表外字 was already correctly stored, but the character was missing from `Lookup/Japanese/Hyōgai.md` entirely — added as new item 375. `hanmun_edu_level: 無` reconfirmed correct (Korean Missing is an auto-generated Dataview query keyed off this field, so no manual list to check).
+
+Confirmed no citing word exists for 歹 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 卉 (8012; 718 characters remaining).
