@@ -2895,3 +2895,49 @@ Checked the phonetic component 将 for a vault character page to consequence-fix
 Rebuilt the malformed Notes (an out-of-order `## Words` section preceding a bare `# Notes` H1, itself just two floating CC wikilinks plus a third stray word-citation bullet) into the standard four-bullet format, and consolidated the full `## Words` list — the stand-in [[果醤]], plus already-cited [[芝麻醤]] and [[醤油]] — in one place. No chengyu or vault-paged phonetic parent needed touching. Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 幇 (7487; 777 characters remaining).
+
+### 2026-08-15, iteration 1728 — [[characters/幇|幇]]
+
+`mc_id: 0` re-verified per policy — grepped all four `CC 0000–3000.md` files for both 幇 and 幫, zero hits confirmed, genuinely absent from the ranking rather than an unchecked placeholder. `graphemic_classification: 封` reconfirmed correct (形声, semantic [[Radical 050|巾]] "cloth" + phonetic 封).
+
+**`joyo_level` gap filled**: blank → `表外字`, per en.Wiktionary (幇 is the shinjitai/extended form, hyōgai, with 幫 as kyūjitai). Added as entry #357 to [[Lookup/Japanese/Hyōgai]]. **`vietnamese` gap filled**: blank → `bang`, per hvdic (dual-classified Hán Việt/Nôm identically for 幫/幇). **`pos` gap filled**: blank → `動詞`, matching the citing stand-in word [[幇助]]'s own `動詞`.
+
+**`aliases` gap filled**: 幫 (traditional/kyūjitai, already stored) reconfirmed correct; added `帮` (simplified), dual-corroborated by en.Wiktionary and zh.Wiktionary as the modern simplified form, with no independent vault page of its own.
+
+Confirmed the phonetic parent [[characters/封 (char)|封]]'s own `## Derived Characters` list already correctly cites 幇 with ruby — no consequence-fix needed. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format, phrasing the MC bullet per the `mc_id: 0` convention ("Not present in the Classical Chinese usage ranking"). Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 牆 (7488; 776 characters remaining).
+
+### 2026-08-15, iteration 1729 — [[characters/牆|牆]]
+
+**`graphemic_classification` semantic/phonetic swap found and fixed in the field itself**: stored `嗇`, but both en.Wiktionary ("phonetic 爿 + semantic 嗇") and zh.Wiktionary ("聲符 爿 + 意符 嗇") explicitly and unambiguously identify 爿 as the phonetic component and 嗇 as semantic — the reverse of what was stored. A genuine field-level swap, not a citation-vs-prose mismatch (matching the rarer bug sub-category previously seen only on 靡/聚). The likely cause: 爿 has no character page of its own in this vault, while 嗇 does — an easy trap where the "citable" component gets used regardless of whether it's actually the phonetic or semantic one. Corrected to `爿`, linked via `[[Radical 090|爿]]` in the Notes bullet per the radical-linking rule (爿 is itself Kangxi Radical 090), with 嗇 now linked as a bare `[[嗇]]` semantic component instead. Verified no consequence-fix was needed on [[characters/嗇|嗇]] (itself still unperfected, danayo_id 7551, further down the queue) — since 牆 was never really 嗇's derived child, there was nothing wrongly cited there to remove.
+
+`mc_id: 1734` verified against `CC 1000.md` line 767 — exact match. `vietnamese: tường` reconfirmed correct via hvdic (dual-classified identically). **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[牆壁]]'s own `名詞`. Both aliases (墙, 墻) reconfirmed correct via en.Wiktionary.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an existing `## Chengyu` section but no `## Words` at all) into the standard four-bullet format, and added the missing `## Words` section citing the stand-in [[牆壁]]. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 諡 (7489; 775 characters remaining).
+
+### 2026-08-16, iteration 1730 — [[characters/諡|諡]]
+
+`mc_id: 2003` verified against `CC 2000.md` line 8 — exact match. `graphemic_classification: 益` reconfirmed correct (形声, semantic [[Radical 149|言]] "speech" + phonetic 益, OC *ɢliɡs). `vietnamese: thuỵ` reconfirmed correct via hvdic, dual-classified identically. `joyo_level: 表外字` reconfirmed correct via en.Wiktionary, and was already properly cited on [[Lookup/Japanese/Hyōgai]]. The alias 謚 reconfirmed as a genuine mutual variant via both en.Wiktionary ("諡 is a variant form of 謚") and zh.Wiktionary (異體字), with no independent vault page of its own.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[諡号]]'s own `名詞`. Also fixed an unrelated typo in the `english` field ("posthumus" → "posthumous").
+
+Confirmed the phonetic parent [[characters/益|益]]'s own `## Derived Characters` list already correctly cites 諡 with ruby — no consequence-fix needed. Rebuilt the malformed structure (an out-of-order `## Words` section preceding a bare, unlinked `# Notes` block) into the standard four-bullet Notes plus a properly-ordered `## Words` section. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 錐 (7490; 774 characters remaining).
+
+### 2026-08-16, iteration 1731 — [[characters/錐|錐]]
+
+`mc_id: 2950` verified against `CC 2000.md` line 991 — exact match. `graphemic_classification: 隹` and `joyo_level: 日本人名用漢字` both reconfirmed correct (形声, semantic [[Radical 167|金]] "metal" + phonetic 隹; Jinmeiyō).
+
+**`vietnamese` heaviest contamination fix this session**: stored five readings (`chui, chuỳ, chõi, chỏi, dùi`), but hvdic's genuine "Âm Hán Việt:" line gives only `chuỳ, truỳ`. Of the other four, `dùi` is Nôm-only, and `chui`, `chõi`, `chỏi` don't appear under either Hán Việt or Nôm at all — pure fabrication, not even a contamination category previously seen (Nôm-misattribution), more like unattested noise. Reduced to the two genuine readings, adding the missing `truỳ`.
+
+**`hsk_level` gap filled**: blank → `無`, no attestation in any vault HSK list; added to [[Lookup/HSK/HSK No]]. **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[錐子]]'s own `名詞`.
+
+**Consequence-fix applied to an out-of-scope, still-unperfected page**: the phonetic parent [[characters/隹|隹]] (danayo_id 8774, not yet reached in the queue) had no `## Derived Characters` section at all despite 錐 citing it as phonetic — added one with the single 錐 entry, following the established practice of minimal fixes on parent pages regardless of their own perfection status.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 畿 (7491; 773 characters remaining).
