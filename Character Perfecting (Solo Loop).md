@@ -3699,3 +3699,19 @@ Next never-perfected character by `danayo_id`: 玆 (8015; 716 characters remaini
 Confirmed no citing word exists for 玆 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (a stray `茲=C#1054` fragment, a single unlinked bullet, and two floating CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 闕 (8016; 715 characters remaining).
+
+### 2026-08-16, iteration 1790 — [[characters/闕|闕]]
+
+`mc_id: 1006` reconfirmed exact match (CC 1000.md: `1005. 楊`, `1006. 闕`, `1007. 采`). `radical: 門` and `graphemic_classification: 欮` (形聲, phonetic 欮 + semantic 門 "gate") both reconfirmed correct via dual-source agreement.
+
+**`joyo_level` and `hsk_level` bugs found and fixed**: both were blank. en.Wiktionary confirms Hyōgai kanji status — filled `joyo_level: 表外字` and added as new item 377 to `Lookup/Japanese/Hyōgai.md` (missing entirely). `hsk_level` filled as `無`, consistent with this rare, name-only character. `hanmun_edu_level: 名` reconfirmed already correctly cross-listed on `Lookup/Korean/Korean Name ㄱ.md` (under `### 궐`).
+
+**`aliases` bug found and fixed — two phonetic-series false positives at once**: stored `[闋, 欮, 阙]`, but only `阙` is a genuine variant (the simplified form). `欮` is confirmed by both sources to be 闕's own phonetic component functioning as an independent character, not a variant — the same false-positive pattern caught three times already this session (溜/餾, 亢/伉). `闋` is a distinct, unrelated character (en.Wiktionary explicitly flags it "not to be confused with" 闕). Both removed, leaving `[阙]`.
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "khuyết, quyết"; the vault had only `[khuyết]`, missing the second genuine reading `quyết` entirely (no Nôm contamination this time — hvdic's Nôm line is also just `khuyết`). Added `quyết`.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the core noun sense ("imperial palace").
+
+Confirmed no citing word exists for 闕 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (a stray, meaningless `闋=C#3411` fragment plus two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 疋 (8017; 714 characters remaining).
