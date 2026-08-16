@@ -63,3 +63,6 @@ date-last-perfect: 2026-08-06
 - <ruby>[[雍州]]<rt>ㄛㄫㄐㄨㄛ</rt></ruby> "Yong Province (one of the Nine Provinces)"
 - <ruby>[[青州]]<rt>ㄑㄝㄫㄐㄨㄛ</rt></ruby> "Qing Province (one of the Nine Provinces)"
 - <ruby>[[加州金]]<rt>ㄍㄚㄐㄨㄛㄍㄧㄇ</rt></ruby> "californium"
+
+## Derived Characters
+- <ruby>[[洲 (char)|洲]]<rt>ㄐㄨㄛ</rt></ruby> "islet"

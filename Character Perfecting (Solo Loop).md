@@ -3057,3 +3057,33 @@ Next never-perfected character by `danayo_id`: 兪 (char) (7501; 765 characters 
 Rebuilt the malformed Notes (mixed heading levels, an out-of-order `### Derived characters` before the CC bullet, word citations scattered after) into the standard four-bullet format plus a clean `## Words` section. `pos: 事詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 祐 (7502; 764 characters remaining).
+
+### 2026-08-16, iteration 1741 — [[characters/祐|祐]]
+
+`mc_id: 1809` verified against `CC 1000.md` line 846 — exact match. `graphemic_classification: 右` reconfirmed correct (形声, semantic [[Radical 113|示]] "spirit" + phonetic 右). `joyo_level: 日本人名用漢字` reconfirmed correct.
+
+**`aliases` false-positive avoided**: en.Wiktionary calls 祐 an "alternative form of 佑," but 佑 has its own fully independent, already-perfected vault page (distinct `stand_in: 名専字`, different syllable ⼜ㄛ) — the established "independent vault character with own distinct meaning/page" false-positive category. Left `aliases` empty.
+
+**`vietnamese` gap filled**: stored `hựu` alone; hvdic gives both `hữu` and `hựu` as genuine Hán Việt — added the missing `hữu`. **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[天祐]]'s own `名詞`. Also fixed a stray typo in `english` ("divine aide" → "divine aid," the identical typo already caught and fixed on 天祐 itself).
+
+**Consequence-fix applied**: [[characters/右|右]] (already perfected, danayo_id 62) had no `## Derived Characters` section despite being the phonetic parent for both 祐 and the already-perfected 佑 — added one citing both, ruby-annotated from each descendant's own syllable.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing [[天祐]]. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 洲 (char) (7503; 763 characters remaining).
+
+### 2026-08-16, iteration 1742 — [[characters/洲 (char)|洲]]
+
+A largely already-perfected page needing mostly light touch-ups. `mc_id: 3213` verified against `CC 3000.md` line 226 — exact match. `graphemic_classification: 州` reconfirmed correct.
+
+**`vietnamese` contamination fixed**: stored `chao, châu`, but hvdic's genuine "Âm Hán Việt:" line gives only `châu` — `chao` is Nôm-only. Reduced to the single genuine reading. (Noted in passing that the already-perfected citing word [[洲]] carries the identical `chao, châu` contamination in its own frontmatter — left untouched as out-of-scope for this character-focused loop, but flagging it here for whenever word-perfecting resumes.)
+
+**Path/link cleanup**: fixed a missing `../` prefix on the disambiguation callout's link to the word page; normalized four lowercase `lookup/...` path fragments to the vault's standard `Lookup/...` capitalization (SKIP, Stroke, HSK, Japanese, Korean lookup links); fixed a bare `[[州]]` wikilink in the graphemic bullet to correctly resolve to the actual filename `[[州 (char)|州]]`.
+
+**`## Words` gap filled**: the self-named citing word [[洲]] (this character's own `stand_in`) was missing from its own Words list despite five compound words already being present — added.
+
+**Consequence-fix applied**: the phonetic parent [[characters/州 (char)|州]] (already perfected) had no `## Derived Characters` section despite 洲 explicitly deriving from it — added one citing 洲.
+
+`pos`, `joyo_level`, `hsk_level`, `hanmun_edu_level` were all already correctly filled; no changes needed there. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 珈 (7504; 762 characters remaining).
