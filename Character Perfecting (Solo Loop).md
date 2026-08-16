@@ -2821,3 +2821,13 @@ zh.Wiktionary's page threw in "雉" (pheasant) as a purported variant form, but 
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing [[塵埃]]. No chengyu cite 埃. Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 涛 (7481; 783 characters remaining).
+
+### 2026-08-15, iteration 1722 — [[characters/涛|涛]]
+
+`mc_id: 3313` verified against `CC 3000.md` line 330 (indexed under the traditional form 濤, already the vault's own stored alias). `graphemic_classification: 寿` reconfirmed correct — both en.Wiktionary and zh.Wiktionary agree 涛/濤 is 形聲 with semantic [[Radical 085|水]] ("water") + phonetic 壽/寿, and pulled the Zhengzhang OC reconstruction (*duː*, from the traditional-form entry, since the simplified page lacked one). `vietnamese: đào` reconfirmed correct via hvdic, dual-classified identically. `pos: 名詞` already correctly matched the citing stand-in word [[怒涛]]'s own value.
+
+**`joyo_level` gap filled**: blank → `表外字`, per en.Wiktionary's explicit hyōgai classification for the shinjitai form. Added as entry #355 to [[Lookup/Japanese/Hyōgai]]'s numbered list — note a `濤 --> 涛` line already existed in that file's separate "Redirects" section, but that's a distinct manual cross-reference list, not the actual Hyōgai citation, so it didn't already satisfy the checklist requirement.
+
+Confirmed the phonetic parent [[characters/寿|寿]]'s own `## Derived Characters` list already correctly cites 涛 with ruby. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing [[怒涛]]. No chengyu cite 涛. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 灘 (char) (7482; 782 characters remaining).
