@@ -2831,3 +2831,29 @@ Next never-perfected character by `danayo_id`: 涛 (7481; 783 characters remaini
 Confirmed the phonetic parent [[characters/寿|寿]]'s own `## Derived Characters` list already correctly cites 涛 with ruby. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing [[怒涛]]. No chengyu cite 涛. Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 灘 (char) (7482; 782 characters remaining).
+
+### 2026-08-15, iteration 1723 — [[characters/灘 (char)|灘]]
+
+`graphemic_classification: 難`, `joyo_level: 日本人名用漢字` (Jinmeiyō, not Jōyō), and `vietnamese: than` all reconfirmed correct via dual-source agreement (形声, semantic [[Radical 085|水]] "water" + phonetic 難; hvdic gives `than` identically under both Hán Việt and Nôm). `mc_id: 5301` is trusted long-tail (>4000).
+
+**`aliases` gap filled**: both en.Wiktionary and zh.Wiktionary confirm 潬 as a genuine ancient variant of 灘 (alongside the already-stored simplified form 滩); no independent vault page exists for it. Added.
+
+**`pos` gap filled**: blank → `名詞`. Unlike most recent iterations, the citing stand-in here is the character's own name (`stand_in: 灘`), and that word page ([[words/灘]]) is itself unperfected with no `pos` of its own to match — so this was an independent judgment call from the English gloss ("bank, shoal") rather than a cross-reference.
+
+Confirmed the phonetic parent [[characters/難|難]]'s own `## Derived Characters` list already correctly cites 灘 with ruby — no consequence-fix needed. Fixed a `../` path bug in the disambiguation callout's link to the word page. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing the self-named word [[灘]]. No chengyu cite 灘. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 蘇 (7483; 781 characters remaining).
+
+### 2026-08-15, iteration 1724 — [[characters/蘇|蘇]]
+
+`mc_id: 993` verified against `CC 0000.md`'s blockquote-formatted listing ("> 993. 蘇") — exact match. `graphemic_classification: 穌` and `joyo_level: 日本人名用漢字` both reconfirmed correct (形声, semantic [[Radical 140|艸]] "grass" + phonetic 穌 — the character's own historical root form, later given the 艸 determinative; Jinmeiyō, not Jōyō).
+
+**`vietnamese` contamination fixed**: stored `su, to, tua, tô`, but hvdic's "Âm Hán Việt:" line gives only `tô, tố` — `su, to, tua` are Nôm-only (confirmed under a separate "Âm Nôm:" line that also includes `tô`). Reduced to the two genuine Hán Việt readings and added the previously-missing `tố`.
+
+**`aliases` all three re-verified rather than assumed correct**: 苏 (simplified) is uncontroversial; 穌 and 甦 both initially looked like the established "phonetic-series member with independent meaning" false-positive pattern (en.Wiktionary explicitly called 穌 phonetic-only and 甦 an independently-defined compound), but zh.Wiktionary's own 蘇 page explicitly lists both in its 異體字 section, and the citing word [[蘇生]]'s own Notes independently confirm 甦生 as an attested graphic-variant spelling. Kept both — a case where an etymologically-distinct sibling character can still be a genuine, dual-corroborated variant in actual usage, not just a lookalike.
+
+**`pos` gap filled**: blank → `事詞`, matching the citing stand-in word [[蘇生]]'s own `事詞`.
+
+Checked five chengyu that mention 蘇 in passing (all incidental references to the historical figure 蘇軾/蘇秦 in prose, none listing 蘇 in their own `characters:` field) — confirmed none belong in `## Chengyu`. Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 灌 (7484; 780 characters remaining).
