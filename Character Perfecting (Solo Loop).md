@@ -3657,3 +3657,31 @@ A quicker iteration — `pos: 性詞` was already correctly filled. `mc_id: 3857
 Confirmed no citing word exists for 歹 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 卉 (8012; 718 characters remaining).
+
+### 2026-08-16, iteration 1787 — [[characters/卉|卉]]
+
+**Self-correction first**: caught my own inconsistency from the previous iteration — [[characters/廿|廿]]'s `graphemic_classification` had been set to simplified `会意`, but a vault-wide check showed the overwhelming majority convention (431 pages) uses traditional `會意` for this field (only 10 exceptions), even though the corresponding lookup list page is itself named with the simplified `Lookup/List of 会意.md`. Corrected 廿's field to `會意` to match the dominant convention.
+
+For 卉 itself: `mc_id: 4110` is trusted long-tail (>4000). `radical: 十`, `graphemic_classification: 會意` (十 "ten" over 廾 "hands," doubled for multiplicity — "the many plants"), and `joyo_level: 表外字` all reconfirmed correct via dual-source agreement, and already correctly cross-listed on `Lookup/Japanese/Hyōgai.md` (item 41).
+
+**`vietnamese` bug found and fixed — another full swap**: hvdic's genuine Âm Hán Việt is "huỷ" (a single reading); the vault had stored `tạp`, which is entirely Âm Nôm — the genuine Hán Việt reading was completely absent. Corrected to `[huỷ]`.
+
+**`pos` and `hanmun_edu_level` filled**: both were blank. `pos` filled as `名詞` (the character's core sense, "flowering plant," is a plain noun). `hanmun_edu_level` filled as `名`, based on the genuine, still-current compound `花卉/화훼` ("flowers and plants," attested in `words/花卉.md`) — added as a new entry under the `### 훼` heading on `Lookup/Korean/Korean Name ㅎ.md`, where it had been missing.
+
+**`stand_in: 花卉` confirmed as a genuine required-compound** (not `名専字`): `words/花卉.md` exists and cites 卉 directly. Added a `## Words` section citing it, which had been entirely absent.
+
+Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 戊 (8014; 717 characters remaining).
+
+### 2026-08-16, iteration 1788 — [[characters/戊|戊]]
+
+`mc_id: 938` reconfirmed exact match (CC 0000.md: `> 937. 驚`, `> 938. 戊`, `> 939. 違`). `radical: 戈`, `graphemic_classification: 象形` (depicts a halberd), and `joyo_level: 日本人名用漢字` (Jinmeiyō) all reconfirmed correct, and already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 110) and `Lookup/Korean/Korean MS.md`.
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "mậu" alone; the vault's stored `mồ` is Âm Nôm contamination. Removed, leaving `[mậu]`.
+
+**`pos` filled**: was blank. Filled as `固有名詞`, matching the fixed-calendrical-designator pattern already established this session for sibling heavenly-stem/earthly-branch characters (壬, 巳, 卯).
+
+Confirmed no citing word exists for 戊 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 玆 (8015; 716 characters remaining).

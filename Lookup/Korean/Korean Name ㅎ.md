@@ -124,7 +124,7 @@ This have all be checked for redirects.
 [喧](characters/喧.md) [[暄]] [萱](characters/萱.md) [[煊]] 
 
 ### 훼
-[喙](characters/嘴.md) [[𠦄]]
+[喙](characters/嘴.md) [[𠦄]] [卉](characters/卉.md)
 
 ### 휘
 [彙 (char)](characters/彙%20(char).md) [徽](characters/徽.md) [[暉]] [[煇]] [諱 (char)](characters/諱%20(char).md) [[麾]] [[煒]] 
