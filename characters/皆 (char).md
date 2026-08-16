@@ -48,3 +48,6 @@ boundedness: 80
 - [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Grade 1](../lookup/Grade%201.md)
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 皆開]]
+
+## Derived Characters
+- <ruby>[[偕]]<rt>ㄍ⼶</rt></ruby> "accompany"

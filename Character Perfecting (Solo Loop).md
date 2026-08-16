@@ -3359,3 +3359,29 @@ Next never-perfected character by `danayo_id`: 鈬 (char) (7525; 742 characters 
 Fixed a `../` path bug in the disambiguation callout and added the missing self-named word [[鈬]] to `## Words`. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 瞻 (7526; 741 characters remaining).
+
+### 2026-08-16, iteration 1764 — [[characters/瞻|瞻]]
+
+**`mc_id` off-by-one found and fixed**: stored `1951`, but `CC 1000.md` line 992 shows 1951 is actually 複's rank — 瞻 itself is line 993, rank `1952`.
+
+**`graphemic_classification` bug found and fixed**: stored `會意` (ideogrammic), but both en.Wiktionary and the character's own already-stored alias (詹) point clearly to `形聲` (semantic [[Radical 109|目]] "eye" + phonetic 詹) — a genuine field-level type error, the fifth such case this session (尼, 曰, 毅, and the earlier 牆 semantic/phonetic swap). Corrected. The alias 詹 itself was reconfirmed genuine — en.Wiktionary explicitly calls it an alternative form of 瞻, not merely a phonetic-series relative, so it legitimately does double duty as both the phonetic-component citation and a stored alias.
+
+**`vietnamese` contamination fixed**: stored `chiêm, chèm`; hvdic's genuine "Âm Hán Việt:" line gives only `chiêm` — `chèm` is unattested under either category. **`joyo_level` and `pos` gaps filled**: blank → `表外字` (added to [[Lookup/Japanese/Hyōgai]]) and blank → `動詞` (matching the citing stand-in word [[瞻仰]]'s own `動詞`).
+
+**Investigated but left untouched — a citing-word data quirk beyond this iteration's scope**: the existing `## Words` citation [[瞻妄]] has a stored 注音 (ㄙㄝㄇ...) that doesn't match 瞻's own reading (ㄐㄝㄇ) at all — tracing it, that word's own `aliases` field (譫妄, 詹妄) reveals 瞻 is being used there as a substitute for the unrelated, similarly-shaped character 譫 ("delirious speech," no vault page of its own), not for 瞻's own "look with reverence" sense. This is a word-level etymological question (whether [[瞻妄]] should list 譫 instead of 瞻 in its `characters:` field) outside the character-loop's scope — left the existing citation in place since 瞻妄's own data does technically name 瞻.
+
+Rebuilt the malformed Notes (a bare `# Notes` H1 with one word citation dangling loose in Notes and another separately in `## Words`) into the standard four-bullet format plus a unified `## Words` section. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 偕 (7527; 740 characters remaining).
+
+### 2026-08-16, iteration 1765 — [[characters/偕|偕]]
+
+**`mc_id` off-by-one found and fixed**: stored `2549`, but `CC 2000.md` line 574 shows 2549 is actually 湘's rank — 偕 itself is line 575, rank `2550`. `graphemic_classification: 皆` and `vietnamese: giai` both reconfirmed correct (形声, semantic [[Radical 009|人]] "person" + phonetic 皆; hvdic dual-classified identically).
+
+**`joyo_level` and `hsk_level` gaps filled**: blank → `表外字` (added to [[Lookup/Japanese/Hyōgai]]) and blank → `無` (added to [[Lookup/HSK/HSK No]]). **`pos` gap filled via independent judgment**: blank → `動詞`, matching the character's own "accompany" gloss rather than the citing compound [[偕同]]'s own `副詞` — the same 毅/毅然-style distinction (bare character's core grammatical category vs. an adverbializing compound built on top of it).
+
+**Consequence-fix applied**: the phonetic parent [[characters/皆 (char)|皆]] (itself still malformed/unperfected) had no `## Derived Characters` section — added one citing 偕.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words`/`## Chengyu` structure already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 饉 (7528; 739 characters remaining).

@@ -370,6 +370,8 @@ tags: [lookup]
 366. [圄](../../characters/圄.md)
 367. [誣](../../characters/誣.md)
 368. [吝](../../characters/吝.md)
+369. [瞻](../../characters/瞻.md)
+370. [偕](../../characters/偕.md)
 
 
 [[../../characters/吠]] - barking DO IT
