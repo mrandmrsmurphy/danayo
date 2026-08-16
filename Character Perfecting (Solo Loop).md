@@ -3685,3 +3685,17 @@ Next never-perfected character by `danayo_id`: 戊 (8014; 717 characters remaini
 Confirmed no citing word exists for 戊 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 玆 (8015; 716 characters remaining).
+
+### 2026-08-16, iteration 1789 — [[characters/玆|玆]]
+
+`mc_id: 6623` is trusted long-tail (>4000). `radical: 玄` and `graphemic_classification: 會意` (a doubling of 玄, "here, now") both reconfirmed correct via dual-source agreement — en.Wiktionary explicitly calls it an ideogrammic compound, matching the vault's stored value despite zh.Wiktionary loosely labeling it 形声 in passing (the character has no separate phonetic component distinct from the semantic doubling, so 會意 is the better fit and matches the existing Notes stub). `aliases: [兹, 茲]` reconfirmed as genuine dual-source-corroborated variants (all three forms — 玆/茲/兹 — confirmed by both sources to be the same character across regions/periods), not a phonetic-series false positive this time.
+
+**`vietnamese` bug found and fixed**: was entirely blank; hvdic gives a single genuine Âm Hán Việt reading "tư" with no Nôm entry at all. Filled `[tư]`.
+
+**`joyo_level` bug found and fixed**: was blank; en.Wiktionary confirms Hyōgai kanji (字外字) status. Corrected to `表外字`, and added as new item 376 to `Lookup/Japanese/Hyōgai.md` (missing entirely). `hanmun_edu_level: 高等` reconfirmed already correctly cross-listed on `Lookup/Korean/Korean HS.md`.
+
+**`pos` filled**: was blank. Filled as `代詞` (demonstrative pronoun, "here/this"), modeled on the closest semantic sibling [[characters/此 (char)|此]] ("this"), which uses the same category.
+
+Confirmed no citing word exists for 玆 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (a stray `茲=C#1054` fragment, a single unlinked bullet, and two floating CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 闕 (8016; 715 characters remaining).
