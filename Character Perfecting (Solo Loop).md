@@ -3559,3 +3559,19 @@ Next never-perfected character by `danayo_id`: 兀 (8002; 726 characters remaini
 Confirmed no citing word exists for 兀 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the empty Notes area (two floating unlinked CC wikilinks, no bullets) into the standard four-bullet format — the graphemic bullet describes 兀 as 一 ("flat top") over 儿 ("legs, person") in plain text rather than a wikilink, since 儿 has no character page of its own in this vault (not forbidden, just uncreated) and no existing convention links to pageless components from Notes prose. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 壬 (8003; 725 characters remaining).
+
+### 2026-08-16, iteration 1780 — [[characters/壬|壬]]
+
+`mc_id: 979` reconfirmed exact match (CC 0000.md: `> 978. 循`, `> 979. 壬`, `> 980. 房`). `radical: 士` and `graphemic_classification: 象形` both reconfirmed correct via dual-source agreement (en.Wiktionary favors a weaving-tool/spool reading, zh.Wiktionary cites the Shuowen's "person with child" reading — sources disagree on what is depicted, but agree it's a pictogram). `joyo_level: 日本人名用漢字` (Jinmeiyō) and `hanmun_edu_level: 中` both reconfirmed already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 92) and `Lookup/Korean/Korean MS.md`.
+
+**Near-miss investigated and resolved as NOT a bug — `korean: 임`**: this character's Middle Chinese initial `ȵ` (日母) and its 諺文 `님` (Dan'a'yo's own derived reading, which preserves the nasal) looked at first glance like the exact [[feedback_korean_reading_north]] North/South 두음법칙 mismatch pattern (cf. 林 림 vs 임). But checking sibling `ȵ`-initial characters already in this vault — [[characters/任|任]] (korean 임, 諺文 님), [[characters/認|認]] (korean 인, 諺文 닌), [[characters/忍|忍]] (korean 인, 諺文 닌) — all three already-perfected pages show the identical mismatch as a stable, repeated pattern: 日母-initial characters are ㅇ-initial in real Sino-Korean (both North and South — no 頭音法則 alternation applies to this initial class, unlike 來母 ㄹ-initial characters), while Dan'a'yo's own phonology derivation preserves the nasal in 諺文. So `korean: 임` is correct as stored and was left unchanged — the North-Korean-reading rule applies specifically to 頭音法則-affected initials (ㄹ, and ㄴ before 이/야/여/요/유), not to this unrelated ㅇ~ㄴ split.
+
+**`vietnamese` bug found and fixed**: hvdic.thivien.net's genuine Âm Hán Việt line reads only "nhâm, nhậm," but the vault had six values (`nhám, nhâm, nhăm, nhằm, nhẹm, râm`) — five of which are Âm Nôm contamination (only `nhâm` overlapped both lists), and the genuine second Hán Việt reading `nhậm` was missing entirely. Corrected to `[nhâm, nhậm]`.
+
+**Minor typo fixed**: `english: nineth heavenly stem` → `ninth heavenly stem`.
+
+**`pos` filled**: was blank. Filled as `固有名詞`, matching the same fixed-calendrical-designator pattern as sibling stem/branch characters like [[characters/卯|卯]] and [[characters/巳|巳]].
+
+Confirmed no citing word exists for 壬 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the bare `# Notes` heading (wrong heading level, holding only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 溜 (8004; 724 characters remaining).
