@@ -734,6 +734,7 @@ tags: [lookup]
 [髯](../../characters/髯.md)
 [霫](../../characters/霫.md)
 [浣](../../characters/浣.md)
+[唳 (char)](../../characters/唳%20(char).md)
 
 ## Datacheck
 ```base

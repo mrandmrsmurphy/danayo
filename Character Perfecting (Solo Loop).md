@@ -2743,3 +2743,19 @@ Citing word page [[晋升]] was already fully perfected; both its blank `japanes
 Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 唳 (char) (7476; 788 characters remaining).
+
+### 2026-08-15, iteration 1717 — [[characters/唳 (char)|唳]]
+
+A largely unperfected page: only two Notes bullets existed (a bare "[口] + [戻]" fragment and floating, unlinked CC-lookup wikilinks at the bottom), no `## Words` or `## Chengyu` sections despite both existing, and three blank level fields (`joyo_level`, `hsk_level`, `hanmun_edu_level`) that had never actually been checked.
+
+**`graphemic_classification: 戻` reconfirmed correct** — en.Wiktionary and zh.Wiktionary agree 唳 is 形聲 with semantic [[Radical 030|口]] ("mouth") + phonetic 戾/戻, and pulled the Zhengzhang Old Chinese reconstruction (*rɯːds*) for the graphemic bullet.
+
+**`aliases` false-positive removed**: 悷 was listed as an alias, but both sources confirm it's merely a fellow member of the 戾 phonetic series with its own distinct meaning ("sorrowful"), not a variant of 唳 itself — matches the established "phonetic-series member mistaken for variant" false-positive category (cf. 取/娶, 支/妓). Removed, leaving aliases empty; no genuine variant surfaced to replace it.
+
+**`vietnamese: lệ` reconfirmed correct** via hvdic — dual-classified as both Âm Hán Việt and Âm Nôm with the identical reading, no contamination.
+
+**Three level fields filled from genuine "never checked" blanks**: `joyo_level` → `表外字` (en.Wiktionary explicitly classifies 唳 as hyōgai kanji; added as entry #353 to [[Lookup/Japanese/Hyōgai]]); `hsk_level` → `無` (obscure literary character, no HSK attestation; added to the manual [[Lookup/HSK/HSK No]] list); `hanmun_edu_level` → `無` (no evidence of inclusion in the Korean 1800-hanja education set; [[Lookup/Korean/Korean Missing]] is a pure dataview query keyed on the frontmatter field, so no manual list edit was needed there).
+
+Rebuilt the four-bullet Notes in standard order, added the missing `## Words` (citing the self-named stand-in word [[唳]]) and `## Chengyu` (citing [[風声鶴唳]], ruby-annotated from its own stored 注音) sections. Confirmed no other vault character cites 唳 as a phonetic/semantic component, so no `## Derived Characters` section applies. Fixed a `../` path bug in the disambiguation callout's link to the word page. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 缺 (7477; 787 characters remaining).
