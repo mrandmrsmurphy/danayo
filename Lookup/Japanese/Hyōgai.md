@@ -361,6 +361,7 @@ tags: [lookup]
 357. [幇](../../characters/幇.md)
 358. [哥](../../characters/哥.md)
 359. [兪 (char)](../../characters/兪%20(char).md)
+360. [戍](../../characters/戍.md)
 
 
 [[../../characters/吠]] - barking DO IT

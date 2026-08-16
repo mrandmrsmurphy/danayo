@@ -3155,3 +3155,27 @@ Next never-perfected character by `danayo_id`: 汎 (char) (7508; 758 characters 
 Fixed an empty radical gloss (`("")` → `("water")`) and a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes/Words ordering into the standard structure. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 戍 (7509; 757 characters remaining).
+
+### 2026-08-16, iteration 1748 — [[characters/戍|戍]]
+
+`mc_id: 1623` verified against `CC 1000.md` line 652 — exact match. `graphemic_classification: 會意` reconfirmed correct ([[Radical 009|人]] "person" + [[Radical 062|戈]] "spear," both linked via their Radical pages per the radical-linking rule). `vietnamese: thú` and `joyo_level: 表外字` both reconfirmed correct; the latter had never actually been added to [[Lookup/Japanese/Hyōgai]] despite being correctly set — added as entry #360.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[守戍]]'s own `名詞`. Also fixed a minor spacing typo in `english` ("borderguard" → "border guard," matching the citing word's own two-word gloss).
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing [[守戍]]. No phonetic-parent consequence-fix applicable (this is a 會意 character with no single phonetic component). Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 尼 (7510; 756 characters remaining).
+
+### 2026-08-16, iteration 1749 — [[characters/尼|尼]]
+
+**`graphemic_classification` bug found and fixed**: stored `匕` (implying 形声 with 匕 as phonetic), but en.Wiktionary explicitly states 尼 is 會意 (two figures of 尸 leaning together) and that the traditional Shuowen 形声 analysis "is widely discredited by later scholars" — a genuine field-level classification error, not just a citation mismatch. Corrected to `會意`, with the outdated theory noted in the Notes bullet for context (matching the established precedent of documenting a superseded historical analysis, cf. 奄).
+
+`mc_id: 1204` verified against `CC 1000.md` line 217 — exact match. `joyo_level: 高等` reconfirmed correct — jisho.org's own classification data confirms 尼 is Jōyō, taught at junior-high (secondary) level, matching this vault's Jōyō-Kōtō convention.
+
+**`vietnamese` heavily contaminated, fixed**: stored seven readings (`nay, ni, này, nê, nì, nơi, nầy`), but hvdic's genuine "Âm Hán Việt:" line gives only `ni, nê, nật, nặc, nệ` — most of the stored set (`nay, này, nì, nơi, nầy`) were Nôm-only or entirely unattested. Replaced with the five genuine Hán Việt readings.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[尼僧]]'s own `名詞`.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format, and added the missing self-named-alternative stand-in citation [[尼僧]] to Words. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 帛 (7511; 755 characters remaining).
