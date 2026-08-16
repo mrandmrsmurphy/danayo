@@ -379,6 +379,8 @@ tags: [lookup]
 375. [歹](../../characters/歹.md)
 376. [玆](../../characters/玆.md)
 377. [闕](../../characters/闕.md)
+378. [乍](../../characters/乍.md)
+379. [弗](../../characters/弗.md)
 
 
 [[../../characters/吠]] - barking DO IT

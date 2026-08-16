@@ -3715,3 +3715,77 @@ Next never-perfected character by `danayo_id`: 闕 (8016; 715 characters remaini
 Confirmed no citing word exists for 闕 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (a stray, meaningless `闋=C#3411` fragment plus two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 疋 (8017; 714 characters remaining).
+
+### 2026-08-16, iteration 1791 — [[characters/疋|疋]]
+
+`mc_id: 3095` reconfirmed exact match (CC 3000.md: `3094. 劓`, `3095. 疋`, `3096. 郃`). `radical: 疋`, `graphemic_classification: 象形`, and `joyo_level: 日本人名用漢字` (Jinmeiyō) all reconfirmed correct, and already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 383) and `Lookup/Korean/Korean Name ㅍ.md`. `pos: 名詞` was already correctly filled.
+
+**Two YAML structural bugs found and fixed**: `japanese_native` had a malformed scalar-then-list-item combination (`あし` followed by a stray `  - あし` continuation line) — normalized to a clean single-item list `[あし]` (kun-yomi confirmed via en.Wiktionary). `vietnamese` stored all three readings jammed into one comma-separated string inside a single list item (`- sơ, sất, thất`) rather than three separate list entries.
+
+**`vietnamese` content bug found and fixed on top of the structural one**: hvdic's genuine Âm Hán Việt is "nhã, sơ, thất"; the vault's garbled single-string value included `sất` (Âm Nôm-only contamination) and was missing the genuine `nhã` reading entirely. Corrected to the proper three-item list `[nhã, sơ, thất]`.
+
+**`aliases` key was missing from the frontmatter entirely** (not even present as blank) — added back for schema completeness; no genuine variant was found to populate it with.
+
+Confirmed no citing word exists for 疋 (stand_in `名専字`), consistent with the pre-existing Notes claim "This character simplifies both 雅 and 匹 in modern Mandarin" — verified via zh.Wiktionary, which lists 疋 as having variant-form etymologies under 匹, 雅, and 正 as well as its own "foot" etymology; kept and slightly reworded this note rather than removing it. Restyled the malformed `[!warning]` callout to the standard `[!tip]` format used elsewhere, rebuilt the Notes into the standard four-bullet format (the old version had bare unformatted wikilinks, a mismatched stray syllable reference `ㄙ⼄` that didn't match the actual `注音: ㄙㄜ`, and a nonstandard "Not used in words: [[名専字]]" line that duplicated the `stand_in` field), and left the existing `## Derived Characters` entry (楚) unchanged — no additional 疋-phonetic derivatives were found via zh.Wiktionary's etymology section. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 乍 (8018; 713 characters remaining).
+
+### 2026-08-16, iteration 1792 — [[characters/乍|乍]]
+
+`mc_id: 2306` reconfirmed exact match (CC 2000.md: `2305. 祗`, `2306. 乍`, `2307. 姻`). `radical: 丿` and `graphemic_classification: 象形` (an axe chopping wood, original form of 柞) both reconfirmed correct, and already correctly cross-listed on `Lookup/Korean/Korean Name ㅅ.md`.
+
+**`joyo_level` bug found and fixed**: was blank; en.Wiktionary confirms Hyōgai kanji status. Corrected to `表外字`, and added as new item 378 to `Lookup/Japanese/Hyōgai.md` (missing entirely).
+
+**`vietnamese` bug found and fixed — almost a full replacement**: hvdic's genuine Âm Hán Việt is "sạ, tác, xạ"; the vault had `[cha, chạ, sã, sạ]` — only `sạ` was genuine, `cha` and `sã` are Âm Nôm contamination, and `chạ` appears in neither list at all (an apparent transcription error). Replaced with the correct three-reading set `[sạ, tác, xạ]`.
+
+**`pos` filled**: was blank. Filled as `修飾語`, matching the adverbial "suddenly, for the first time" sense.
+
+Confirmed no citing word exists for 乍 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 弗 (8019; 712 characters remaining).
+
+### 2026-08-16, iteration 1793 — [[characters/弗|弗]]
+
+An already-substantially-built page with genuine self-contradicting bugs. `mc_id: 360` reconfirmed exact match (CC 0000.md: `> 359. 形`, `> 360. 弗`, `> 361. 建`). `radical: 弓` and `vietnamese: phất` both reconfirmed correct (hvdic's Hán Việt and Nôm lines are identical).
+
+**`graphemic_classification` bug found and fixed — a self-contradiction already visible on the page**: frontmatter stored `指事`, but the existing Notes bullet already linked to `[List of 象形]` — the two directly disagreed with each other. en.Wiktionary confirms 象形 (pictogram: rope wrapped around two pieces of wood) is correct; corrected the frontmatter to match the Notes prose that was already right.
+
+**`joyo_level` bug found and fixed**: was blank. No source (en.Wiktionary, jisho.org, ja.Wikipedia, the English Wikipedia jōyō-kanji list) confirms Jōyō or Jinmeiyō status for 弗, despite real modern usage as a 国訓 substitution for the dollar sign and as the periodic-table abbreviation for fluorine — filled as `表外字` and added as new item 379 to `Lookup/Japanese/Hyōgai.md` (missing entirely).
+
+**`stand_in` bug found and fixed**: stored `名専字`, but `words/弗素.md` ("fluorine") exists and cites 弗 directly, and the page's own pre-existing Notes bullet already described 弗 as "abbreviation for 弗素... in periodic-table formulae" — the same required-compound pattern established on [[characters/溜|溜]] and [[characters/卉|卉]] this session. Corrected to `弗素`, and added a `## Words` section citing it (previously absent despite the compound already being named in prose).
+
+**`pos` filled**: was blank. Filled as `固有名詞`, matching `弗素`'s own word-page pos.
+
+Preserved the page's existing valuable historical note ("dropped from the Korean HS list in 2000") by folding it into the rebuilt Grade/Level bullet rather than discarding it, fixed a broken `[[Periodic Table]]` wikilink (the actual file lives at `lexipedia/Periodic Table.md`, not a bare top-level page), and removed a stray, meaningless `1. fluorine` fragment. Rebuilt the Notes into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 牟 (8020; 711 characters remaining).
+
+### 2026-08-16, iteration 1794 — [[characters/牟|牟]]
+
+A page with a prior partial pass already visible in its Notes (a detailed graphemic-classification investigation citing cross-reference work on [[私]]'s family, explicitly rejecting a `形声` misreading in favor of `指事`). Re-verified that conclusion against a fresh en.Wiktionary fetch (agrees: ideogram, ox + lowing-symbol) and a zh.Wiktionary fetch that loosely called it `形声` again — left the field unchanged per the already-documented resolution, an established near-miss pattern (cf. 矩/巨, 灌/鸛). `radical: 牛` and `joyo_level: 日本人名用漢字` (Jinmeiyō) both reconfirmed correct, and already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 368) and `Lookup/Korean/Korean Name ㅁ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `1661` (which is actually 虧's rank); the correct rank for 牟 is `1662` (CC 1000.md: `1660. 苛`, `1661. 虧`, `1662. 牟`).
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "mâu, mưu"; the vault had five values (`mào, màu, mâu, mưu, mầu`) — `mào` and `màu` are Âm Nôm contamination, and `mầu` appears in neither list. Corrected to the genuine two-reading set `[mâu, mưu]`.
+
+**`korean_native` and `pos` filled**: both were blank. `korean_native` filled as `보리` ("barley"), the standard Korean hanja gloss matching the vault's own `english: barley` and the widely-attested 훈음 "보리 모." `pos` filled as `名詞`.
+
+Confirmed no citing word exists for 牟 (stand_in `名専字`, already correctly noted in the existing Notes prose). Rebuilt the Notes into the standard four-bullet format, preserving the valuable pre-existing graphemic bullet verbatim and adding the missing SKIP/Stroke, CC-rank, and Grade/Level bullets. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 圭 (8022; 710 characters remaining).
+
+### 2026-08-16, iteration 1795 — [[characters/圭|圭]]
+
+**`radical` near-miss investigated and resolved as NOT a bug**: the existing Notes bullet already flagged that 圭 is "stylized into but unrelated to 土," which looked at first glance like it might mean the stored `radical: 土` was wrong. But en.Wiktionary confirms 圭 is genuinely filed under Kangxi radical 32 (土) regardless of its true etymological origin (a duplication of 士) — the visual-filing convention and the etymological origin are simply two different facts that both hold, so the field was left unchanged, with a clarifying parenthetical added to the Notes prose.
+
+**`mc_id` off-by-one bug found and fixed**: stored `1575` (which is actually 堪's rank); the correct rank for 圭 is `1576` (CC 1000.md: `1574. 懸`, `1575. 堪`, `1576. 圭`).
+
+**`vietnamese` bug found and fixed — nearly the entire Nôm list had replaced the genuine reading**: hvdic's genuine Âm Hán Việt is "khuê" alone; the vault had `[khoai, khuê, que, quê]` — three of the four values (`khoai, que, quê`) are Âm Nôm-only contamination. Corrected to `[khuê]`.
+
+**`pos` filled**: was blank. Filled as `名詞` (core sense, "jade tablet").
+
+**`## Derived Characters` completeness gap found and fixed**: only 3 of 8 vault-existing 圭-phonetic derivatives were listed (佳, 哇, 卦). Cross-referenced zh.Wiktionary's full 13-character derivation series against the vault's actual character files and found 7 more with existing pages that were missing: 桂, 硅, 蛙, 鞋 (char), 封 (char), 街, 厓 — added all seven, checking each for the bare-wikilink-wrong-page bug first (no conflicting word pages exist for any of the five bare-linked entries).
+
+Confirmed no citing word exists for 圭 (stand_in `名専字`), already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 90) and `Lookup/Korean/Korean Name ㄱ.md`. Rebuilt the Notes into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 旭 (8023; 709 characters remaining).
