@@ -369,6 +369,7 @@ tags: [lookup]
 365. [涜](../../characters/涜.md)
 366. [圄](../../characters/圄.md)
 367. [誣](../../characters/誣.md)
+368. [吝](../../characters/吝.md)
 
 
 [[../../characters/吠]] - barking DO IT

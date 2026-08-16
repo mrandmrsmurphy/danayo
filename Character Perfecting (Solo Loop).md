@@ -3321,3 +3321,27 @@ Next never-perfected character by `danayo_id`: 綴 (char) (7522; 745 characters 
 Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes/Words structure into the standard format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 毅 (7523; 744 characters remaining).
+
+### 2026-08-16, iteration 1761 — [[characters/毅|毅]]
+
+**`mc_id` off-by-one found and fixed**: stored `1756`, but `CC 1000.md` line 789 shows 1756 is actually 徇's rank — 毅 itself is line 790, rank `1757`. Corrected.
+
+**`graphemic_classification` bug found and fixed**: stored `會意` (ideogrammic), but both en.Wiktionary and zh.Wiktionary explicitly classify 毅 as `形聲` (phono-semantic) with phonetic 豙 ("enraged pig") and semantic [[Radical 079|殳]] ("weapon") — a genuine field-level type error, the fourth such case this session (after 尼, 曰, and the graphemic-swap on 牆). Corrected. No vault page exists for 豙, so it's cited as a bare component name per the established no-page convention.
+
+`vietnamese: nghị` reconfirmed correct via hvdic, dual-classified identically. **`pos` gap filled via independent judgment**: blank → `性詞` (stative/adjectival), matching the character's own core "resolute, strong" sense as documented in the citing word [[毅然]]'s own Notes — not borrowed from that compound's own `副詞` (adverb), since 毅然 (with the adverbializing 然 suffix) and bare 毅 belong to different grammatical categories despite sharing a root meaning.
+
+Rebuilt the malformed Notes/Words ordering (Words section preceding a bare `# Notes` H1) into the standard structure. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 吝 (7524; 743 characters remaining).
+
+### 2026-08-16, iteration 1762 — [[characters/吝|吝]]
+
+**`mc_id` off-by-one found and fixed**: stored `2686`, but `CC 2000.md` line 715 shows 2686 is actually 饉's rank — 吝 itself is line 716, rank `2687`. **`graphemic_classification` investigated but left unchanged**: neither en.Wiktionary nor zh.Wiktionary explicitly states whether 吝 (⿱文口) is 會意 or 形聲 — genuinely ambiguous evidence, unlike the clear-cut 尼/曰/毅 cases fixed earlier this session — so the stored `會意` was kept rather than force a change on inconclusive grounds. Linked both components ([[Radical 067|文]], [[Radical 030|口]]) via their Radical pages per the radical-linking rule.
+
+**`vietnamese` massively contaminated, fixed**: stored eleven readings (`liền, lân, lấn, lần, lẩn, lẫn, lận, lẳn, lớn, lờn, rằn`) — the largest single contamination case this session. hvdic's genuine "Âm Hán Việt:" line gives only `lận`; every other stored reading was either Nôm-only or entirely unattested. Reduced to the single genuine reading.
+
+**`joyo_level` gap filled by elimination**: neither en.Wiktionary nor jisho.org lists any Jōyō/Jinmeiyō classification for 吝 despite it having real, attested Japanese on'yomi (リン, used in 吝嗇/りんしょく) — filled as `表外字` by process of elimination (a real, non-archaic reading with no standard-list membership), added to [[Lookup/Japanese/Hyōgai]]. **`pos` gap filled**: blank → `性詞`, matching the citing stand-in word [[吝嗇]]'s own `性詞`. Also fixed a stray typo in `english` ("stringy" → "stingy").
+
+Reconfirmed the #cranberry tag's transitivity holds (吝 and its stand_in-sharing sibling [[characters/嗇|嗇]] both correctly carry the tag for their shared compound 吝嗇). Rebuilt the malformed Notes/Words ordering into the standard structure. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 鈬 (char) (7525; 742 characters remaining).
