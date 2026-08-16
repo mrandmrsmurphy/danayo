@@ -3129,3 +3129,29 @@ Next never-perfected character by `danayo_id`: 壱 (char) (7506; 760 characters 
 Confirmed the phonetic parent [[characters/吉 (char)|吉]]'s own Words list already correctly cites 壱. Rebuilt the malformed Notes (a single stray dropped-from-list note, no proper Notes/Words structure at all) into the standard four-bullet format plus a `## Words` section, folding the original Korean-list note into the Words entry's own gloss. Fixed a `../` path bug in the disambiguation callout. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 灼 (7507; 759 characters remaining).
+
+### 2026-08-16, iteration 1746 — [[characters/灼|灼]]
+
+Mostly already-perfected fields, needing light verification and structural cleanup. `mc_id: 2595` verified against `CC 2000.md` line 620 — exact match. `graphemic_classification: 勺` reconfirmed correct (形声, semantic [[Radical 086|火]] "fire" + phonetic 勺). `vietnamese: chước`, `pos: 事詞`, `joyo_level`, `hsk_level`, `hanmun_edu_level` were all already correctly filled.
+
+**Bare-wikilink filename bug found and fixed**: the graphemic bullet's `[[勺]]` link silently resolved to the unrelated word page `words/勺.md` rather than the character page — the actual file is `characters/勺 (char).md`. Corrected to `[[勺 (char)|勺]]`.
+
+**Consequence-fix applied at scale**: the phonetic parent [[characters/勺 (char)|勺]]'s own `## Derived Characters` list (already citing all six of its descendants — 的/豹/約/釣/酌/灼) had every single entry as a bare unformatted wikilink with no ruby or gloss. Verified each descendant's own stored 注音 and English gloss directly, then reformatted the whole list to the standard ruby-annotated format — not just the one new entry, since leaving five siblings malformed next to one properly-fixed entry would have been visibly inconsistent.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with one word citation dangling loose rather than in `## Words`) into the standard four-bullet format plus a complete `## Words` section citing both [[焼灼]] (the stand-in) and [[灼熱]]. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 汎 (char) (7508; 758 characters remaining).
+
+### 2026-08-16, iteration 1747 — [[characters/汎 (char)|汎]]
+
+`mc_id: 2778` verified against `CC 2000.md` line 811 — exact match. `graphemic_classification: 凡` reconfirmed correct (形声, semantic [[Radical 085|水]] "water" + phonetic 凡). Empty `aliases` reconfirmed correct — 泛 is en.Wiktionary's cited relative, but per the established `feedback_alias_parent_form` policy this vault treats 汎/氾/泛 as independently-meaningful vault characters, not aliases of each other.
+
+**`joyo_level` bug found and fixed, contradicting the source that first surfaced it**: en.Wiktionary's summary flatly called 汎 "Jōyō kanji," which would have overwritten the correct stored value `高等` with an incorrect one. Cross-checked Wikipedia's actual jōyō kanji table directly — 汎 does **not** appear there at all; it's confirmed Jinmeiyō instead. Corrected `joyo_level` from `高等` to `日本人名用漢字` and added as entry #478 to [[Lookup/Japanese/Jinmeiyō]]. A second instance this session (after 壱) of Wiktionary's prose needing verification against the primary source table rather than trusted at face value — this time catching a wrong claim rather than confirming a right one.
+
+**`vietnamese` gap filled with three genuine readings**: stored `phiếm, vàm`; hvdic's "Âm Hán Việt:" line gives `phiếm, phùng, phạp` — `vàm` is unattested under either Hán Việt or Nôm (removed), while `phùng` and `phạp` were missing entirely (added). **`pos` gap filled**: blank → `修飾語`, an independent judgment call from the character's own "pan-" gloss (a bound modifying prefix, not a noun or verb).
+
+**Mid-fix citation-target error caught and corrected**: while filling the Levels bullet, initially linked `hanmun_edu_level: 名`'s citation to [[Lookup/Korean/Korean HS]] by reflex (echoing the page's own pre-existing "dropped from Korean HS in 2000" note) — caught before finalizing that this field value maps to [[Lookup/Korean/Korean Name ㅂ]] per the checklist's own mapping table, not Korean HS; the "dropped in 2000" fact explains *why* it's now name-only, but doesn't change which lookup page the current value cites. Corrected.
+
+Fixed an empty radical gloss (`("")` → `("water")`) and a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes/Words ordering into the standard structure. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 戍 (7509; 757 characters remaining).

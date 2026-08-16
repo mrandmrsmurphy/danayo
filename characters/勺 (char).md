@@ -53,9 +53,9 @@ date-last-perfect: 2026-08-09
 - <ruby>[[叉勺]]<rt>ㄑㄚㄧㄐ⺢ㄎ</rt></ruby> "spork"
 
 ## Derived Characters
-- [[的]]
-- [[豹]]
-- [[約]]
-- [[釣]]
-- [[酌]]
-- [[灼]]
+- <ruby>[[的]]<rt>ㄉㄝㄎ</rt></ruby> "target"
+- <ruby>[[豹]]<rt>ㄅ⼘ㄨ</rt></ruby> "leopard"
+- <ruby>[[約]]<rt>⼘ㄎ</rt></ruby> "agree"
+- <ruby>[[釣]]<rt>ㄑㄛㄨ</rt></ruby> "angling"
+- <ruby>[[酌]]<rt>ㄐㄚㄎ</rt></ruby> "serve wine"
+- <ruby>[[灼]]<rt>ㄐㄚㄎ</rt></ruby> "cauterize"
