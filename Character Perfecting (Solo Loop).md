@@ -3515,3 +3515,19 @@ Next never-perfected character by `danayo_id`: 梯 (7540; 729 characters remaini
 Fixed a duplicate `## Notes` heading (the file had two separate Notes sections — one holding only floating unlinked CC wikilinks, another below it holding the real graphemic bullet) by merging them into the single standard four-bullet structure. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 翌 (char) (7541; 728 characters remaining).
+
+### 2026-08-16, iteration 1777 — [[characters/翌 (char)|翌]]
+
+An unusually deep etymological investigation this iteration. `mc_id: 5320` is trusted long-tail (>4000). `vietnamese: dực` and `joyo_level: "6"` both reconfirmed correct (the latter verified as genuine Jōyō grade-6 kyōiku kanji, not merely paraphrased from a source).
+
+**`graphemic_classification` investigated in depth, left unchanged after resolving a source self-contradiction**: en.Wiktionary's own summary labeled "phonetic 羽 + semantic 昱" — but cross-checking the Old Chinese values given in that same source revealed the labeling was backwards: 翌's own OC (*lɯɡ) closely matches 昱's OC (*luɡ), while 羽's OC (*ɢʷaʔ) doesn't match at all — by definition, a true phonetic component must approximately match the target's sound, so 昱 is actually phonetic and 羽 is semantic, the reverse of how the source phrased it. However, 翌's own glyph shows no 日 at all — only 立, the truncated remnant of 昱 with its 日 dropped — so per this session's established shinjitai/graphic-truncation convention (cf. 涜, 䋇, 醸, 鈬), the field correctly keeps `立` (what's visually present) rather than the deeper phonetic ancestor `昱` (not visible in this glyph), documented explicitly in the Notes bullet.
+
+**`pos` bug found and fixed**: stored `格助詞` (a Dan'a'yo case particle — one of a closed 12-word set per 文法-97品詞: 之/于/於/以/共/比/由/至/似/哉/向/様), but 翌 is a content-bearing temporal modifier ("the following, next"), nothing like a case-marking suffix — clearly mis-tagged. Corrected to `修飾語`. Flagged, but left untouched, that the citing word page [[翌]] carries the identical `格助詞` mis-tag — out of scope for this character-focused loop.
+
+**Bare-wikilink filename bug found and fixed**: the graphemic bullet's `[[立]]` link would have silently resolved to the unrelated word page `words/立.md` rather than `characters/立 (char).md` — corrected to `[[立 (char)|立]]`.
+
+**Consequence-fix applied**: [[characters/立 (char)|立]]'s own `## Derived Characters` list (six existing entries) was missing 翌 — added as a seventh.
+
+Rebuilt the malformed Notes (a stray bare `[[ㄧㄎ]]` self-syllable wikilink followed by unlinked floating CC wikilinks, no SKIP/Stroke or Levels bullets at all) into the standard four-bullet format, and added the missing self-named word [[翌]] to `## Words`. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 巳 (8001; 727 characters remaining).

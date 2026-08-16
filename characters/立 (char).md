@@ -73,3 +73,4 @@ boundedness: 90
 - <ruby>[[雴]]<rt>ㄊㄨㄆ</rt></ruby> "heavy rain"
 - <ruby>[[泣 (char)|泣]]<rt>ㄎㄧㄆ</rt></ruby> "cry, sob"
 - <ruby>[[笠]]<rt>ㄌㄧㄆ</rt></ruby> "bamboo hat"
+- <ruby>[[翌 (char)|翌]]<rt>ㄧㄎ</rt></ruby> "the following, next"
