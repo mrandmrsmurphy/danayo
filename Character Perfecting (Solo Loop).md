@@ -3417,3 +3417,29 @@ Next never-perfected character by `danayo_id`: 卦 (char) (7530; 737 characters 
 Fixed a `../` path bug in the disambiguation callout. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 痢 (7531; 736 characters remaining).
+
+### 2026-08-16, iteration 1769 — [[characters/痢|痢]]
+
+`mc_id` was stored as a blank string rather than a proper sentinel — grepped all four `CC 0000–3000.md` files for 痢 directly, zero hits, genuinely absent from the ranking; set to `0` per the confirmed-absent convention. `graphemic_classification: 利` reconfirmed correct (形声, semantic [[Radical 104|疒]] "sickness" + phonetic 利).
+
+**`joyo_level: 高等` verified against jisho.org's own classification data**: confirmed Jōyō, taught at junior-high level — correctly maps to this vault's Jōyō-Kōtō convention, left unchanged (a second confirming instance of the Wikipedia/jisho cross-check pattern established on 壱 and 尼).
+
+**`vietnamese` contamination fixed**: stored as a malformed single scalar string `"lị, lỵ"` rather than a proper YAML list; hvdic's genuine "Âm Hán Việt:" line gives only `lị` — `lỵ` is Nôm-only. Fixed both the structure and the contamination in one edit, reducing to the single genuine reading as a proper list.
+
+**`japanese` structural bug fixed**: stored as a bare lowercase scalar `ri` instead of the list-of-uppercase-on'yomi convention (`- RI`) used throughout the vault — normalized.
+
+Confirmed the phonetic parent [[characters/利|利]]'s own Words list already correctly cites 痢 with ruby — no consequence-fix needed. Rebuilt the malformed body (a stray `# Notes` H1 preceding the meta-bind-embed block itself, floating unlinked CC wikilinks) into the standard four-bullet Notes plus a `## Words` section citing [[下痢]]. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 痩 (char) (7532; 735 characters remaining).
+
+### 2026-08-16, iteration 1770 — [[characters/痩 (char)|痩]]
+
+**`mc_id` gap filled**: blank; found via direct grep of `CC 2000.md` line 965, rank `2924` (verified against neighboring lines 964/966 to rule out a mis-scanned row). `graphemic_classification: 叟` reconfirmed correct (形声, semantic [[Radical 104|疒]] "sickness" + phonetic 叟, a component with no vault page of its own).
+
+**`joyo_level` verified with a source conflict resolved by checking the specific glyph**: en.Wiktionary's page for the traditional form 瘦 calls it Jinmeiyō, which would have contradicted the stored `高等` (Jōyō-Kōtō) — but 痩 (the shinjitai form actually being perfected) is a distinct glyph, and jisho.org's own classification for 痩 specifically confirms Jōyō, junior-high level. Left unchanged, correctly stored — the mirror image of the 汎 case earlier this session (there, Wiktionary over-claimed Jōyō for an actually-Jinmeiyō character; here the traditional/shinjitai split explains an apparent conflict rather than indicating an error).
+
+**`vietnamese` contamination fixed alongside a structural bug**: stored as a malformed scalar string `"sấu"` rather than a list; hvdic confirms `sấu` alone is the genuine Hán Việt reading (the additional Nôm-only `xấu` was never present in this particular stored value, so no contamination to remove — just the YAML structure needed fixing). **`japanese` structural bug fixed**: bare scalar `SOU` converted to the standard list format.
+
+Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed body (bare `# Notes` H1 preceding the meta-bind-embed block, floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet Notes plus a `## Words` section citing the self-named word [[痩]]. `pos: 性詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 醸 (7533; 734 characters remaining).
