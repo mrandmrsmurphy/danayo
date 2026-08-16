@@ -2759,3 +2759,35 @@ A largely unperfected page: only two Notes bullets existed (a bare "[口] + [戻
 Rebuilt the four-bullet Notes in standard order, added the missing `## Words` (citing the self-named stand-in word [[唳]]) and `## Chengyu` (citing [[風声鶴唳]], ruby-annotated from its own stored 注音) sections. Confirmed no other vault character cites 唳 as a phonetic/semantic component, so no `## Derived Characters` section applies. Fixed a `../` path bug in the disambiguation callout's link to the word page. Stamped `date-last-perfect: 2026-08-15`.
 
 Next never-perfected character by `danayo_id`: 缺 (7477; 787 characters remaining).
+
+### 2026-08-15, iteration 1718 — [[characters/缺|缺]]
+
+**`graphemic_classification` bug found and fixed in the field itself**: stored as `叏`, but the Notes bullet's own body text linked `[[夬]]` — a genuine field/prose mismatch. Dual-source check (en.Wiktionary + zh.Wiktionary) resolved it: 叏 is explicitly recorded as a variant form of 夬 with no independent meaning of its own ("關於「叏」的發音和釋義，請見「夬」"), while 夬 is unambiguously the true phonetic component both sources cite for 缺. Corrected the field to `夬`. A new sub-pattern for the graphemic-classification bug taxonomy: a variant-of-the-phonetic used in place of the true phonetic form, rather than a sibling/parent swap.
+
+`mc_id: 1506` verified against `CC 1000.md` line 531 — exact match, no off-by-one.
+
+**`vietnamese` contamination fixed**: stored `khoét, khuyết`, but hvdic's entry for 缺 gives only `khuyết` under both Âm Hán Việt and Âm Nôm — no `khoét` anywhere. Removed as unattested.
+
+**`joyo_level` gap filled**: blank → `表外字`, per en.Wiktionary's explicit hyōgai classification (缺 is the old/pre-reform form, superseded by 欠 in modern Japanese). Added as entry #354 to [[Lookup/Japanese/Hyōgai]]. `hsk_level: "2"` and `hanmun_edu_level: 高等` were already correctly set and confirmed cited in [[Lookup/HSK/Old HSK 2]] and [[Lookup/Korean/Korean HS]] respectively.
+
+**`pos` gap filled**: blank → `動詞`, matching the citing stand-in word [[欠缺]]'s own `動詞`.
+
+Checked en.Wiktionary's "Alternative forms" list (缼, 𦈫, 𧖫, 𡙇, 𡚆) as potential `aliases` additions, but zh.Wiktionary didn't corroborate them as clearly as required by the dual-source policy — left `aliases` empty rather than add single-source-only forms.
+
+Rebuilt the malformed Notes section: three word-citation bullets (缺勤, 缺席, 缺点) had been stuffed into `## Notes` instead of `## Words`, alongside floating unlinked CC initial/final wikilinks. Rebuilt into the standard four-bullet Notes and moved all three words — plus the already-present stand-in [[欠缺]] — into a complete `## Words` section. No chengyu cite 缺; no other character names it as a phonetic/semantic component, so no `## Derived Characters` applies. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 鞍 (7478; 786 characters remaining).
+
+### 2026-08-15, iteration 1719 — [[characters/鞍|鞍]]
+
+`mc_id: 3088` verified against `CC 3000.md` line 93 — exact match. `graphemic_classification: 安` and `joyo_level: 日本人名用漢字` both reconfirmed correct via en.Wiktionary + zh.Wiktionary (形声, semantic 革 "leather" + phonetic 安; Jinmeiyō, not Jōyō). `vietnamese: an, yên` reconfirmed correct via hvdic — both dual-classified as Hán Việt and Nôm, no contamination.
+
+**`stand_in` bug found and fixed**: stored `鞍裝`, but the actual citing word file is [[鞍装]] (shinjitai 装, not 裝) — 鞍裝 is merely one of *that word's own* `aliases`, not its filename. A reverse instance of the established alias/parent-form rule: the CHARACTER page's `stand_in` field, not just a word's `characters:` list, can point at an alias instead of the true form. Corrected to `鞍装`.
+
+**`aliases` gap filled**: both en.Wiktionary ("See also: 鞌") and zh.Wiktionary ("異體字（鞌）") independently confirm 鞌 as a genuine variant of 鞍; no separate vault page exists for it, ruling out a false-positive. Added.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing word 鞍装's own `名詞`.
+
+Confirmed the phonetic parent [[characters/安|安]]'s own `## Derived Characters` list already correctly cites 鞍 — no consequence-fix needed there. Rebuilt the malformed Notes (previously one merged 形声/会意 bullet plus two floating CC-lookup wikilinks) into the standard four-bullet format, and added the missing `## Words` section citing [[鞍装]]. No chengyu cite 鞍. Stamped `date-last-perfect: 2026-08-15`.
+
+Next never-perfected character by `danayo_id`: 庵 (7479; 785 characters remaining).
