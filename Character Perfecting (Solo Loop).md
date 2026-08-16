@@ -3469,3 +3469,49 @@ Next never-perfected character by `danayo_id`: 唾 (7534; 733 characters remaini
 Rebuilt the malformed body (a stray `# Notes` H1 with an orphaned cross-reference note preceding the meta-bind-embed block itself, plus a separate `## Notes` further down with floating unlinked CC wikilinks) into the single standard four-bullet Notes section, folding the "see also 吐" cross-reference into the graphemic bullet's own prose. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 噌 (7536; 732 characters remaining).
+
+### 2026-08-16, iteration 1773 — [[characters/噌|噌]]
+
+`mc_id` was blank; grepped all four `CC 0000–3000.md` files, zero hits, genuinely absent — set to `0` per the confirmed-absent convention. `graphemic_classification: 曽` reconfirmed correct (形声, semantic [[Radical 030|口]] "mouth" + phonetic 曾, cited under its own vault filename 曽 (char)). `joyo_level: 日本人名用漢字` reconfirmed correct.
+
+**`vietnamese` bug found and fixed**: stored `tung`, but hvdic's genuine "Âm Hán Việt:" line gives `tăng` — `tung` is Nôm-only. Replaced entirely rather than merely trimmed, since the stored reading wasn't even a partial match to the genuine one. Noted in passing that the citing word [[噌噌]]'s own `vietnamese: tung tung` carries the identical Nôm-only reading, doubled — left untouched as a word-level, out-of-scope issue.
+
+**Structural bug fixed**: `japanese` was a bare scalar (`SHOU`) rather than a list.
+
+Confirmed the phonetic parent [[characters/曽 (char)|曽]]'s own Words list already correctly cites 噌 with ruby — no consequence-fix needed. Rebuilt the malformed body (an out-of-order `## Words` section preceding `## Notes`, with a floating unlinked SKIP link missing its Stroke pairing and two dangling unlinked CC wikilinks) into the standard structure. `pos: 擬詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 煤 (char) (7537; 731 characters remaining).
+
+### 2026-08-16, iteration 1774 — [[characters/煤 (char)|煤]]
+
+`mc_id: 9433` trusted long-tail (>4000). `graphemic_classification: 某` and `joyo_level: 日本人名用漢字` both reconfirmed correct (形声, semantic [[Radical 086|火]] "fire" + phonetic 某; Jinmeiyō). Confirmed the phonetic parent [[characters/某 (char)|某]]'s own Words list already correctly cites 煤 with ruby.
+
+**`vietnamese` contamination fixed**: stored `môi, muồi, mai`, but hvdic's genuine "Âm Hán Việt:" line gives only `môi` — `muồi` and `mai` are Nôm-only (confirmed by cross-reference: the citing word [[煤]]'s own already-perfected Notes explicitly calls `mai` and `muồi` alternate Sino-Vietnamese *readings* alongside `môi`, but hvdic's actual verbatim dictionary entry places them only under the Nôm line, not Hán Việt — trusting the primary source over the word page's own prose summary). Reduced to the single genuine reading.
+
+Fixed a `../` path bug in the disambiguation callout and rebuilt the malformed Notes (bare `# Notes` H1 with an inline-run-on component/lookup-links bullet, no `## Words` section) into the standard four-bullet format plus a `## Words` section. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 熨 (7538; 730 characters remaining).
+
+### 2026-08-16, iteration 1775 — [[characters/熨|熨]]
+
+Mostly already-perfected page needing verification and light fixes. `mc_id: 0` reconfirmed correct (already properly stamped as confirmed-absent). `graphemic_classification: 尉`, `joyo_level: 表外字`, and `pos: 事詞` all reconfirmed/already correct (形声, semantic [[Radical 086|火]] "fire" + phonetic 尉).
+
+**`vietnamese` gap filled**: stored `uất` alone; hvdic's genuine "Âm Hán Việt:" line gives both `uý` and `uất` — added the missing `uý` (the Nôm-only `ủi` correctly stayed excluded). **Structural bug fixed**: `japanese` was a bare scalar (`UTSU`) rather than a list.
+
+**Consequence-fix applied at scale**: the phonetic parent [[characters/尉 (char)|尉]]'s own `## Derived Characters` section had both entries (熨, 慰) as bare unformatted wikilinks — ruby-annotated both.
+
+Rebuilt the body into the standard four-bullet Notes format, folding the page's existing detailed multi-sense Korean-reading commentary (a prior user note dated 2026-07-19 about split 울/위 readings) into the graphemic bullet's prose rather than discarding it. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 梯 (7540; 729 characters remaining).
+
+### 2026-08-16, iteration 1776 — [[characters/梯|梯]]
+
+`mc_id: 3215` verified against `CC 3000.md` line 228 — exact match. `graphemic_classification: 弟`, `vietnamese: thê`, and `joyo_level: 日本人名用漢字` all reconfirmed correct (形声, semantic [[Radical 075|木]] "wood" + phonetic 弟; hvdic dual-classified identically; Jinmeiyō confirmed via jisho.org).
+
+**Bare-wikilink filename bug found and fixed**: the graphemic bullet's `[[弟]]` link would have silently resolved to the unrelated word page `words/弟.md` rather than the actual character page `characters/弟 (char).md` — corrected to `[[弟 (char)|弟]]`. Confirmed the phonetic parent [[characters/弟 (char)|弟]]'s own `## Derived Characters` list already correctly cites 梯 with ruby — no consequence-fix needed there.
+
+**Structural bug fixed**: `japanese` was a bare scalar (`TEI`) rather than a list.
+
+Fixed a duplicate `## Notes` heading (the file had two separate Notes sections — one holding only floating unlinked CC wikilinks, another below it holding the real graphemic bullet) by merging them into the single standard four-bullet structure. `pos: 名詞` was already correctly filled. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 翌 (char) (7541; 728 characters remaining).

@@ -51,5 +51,5 @@ date-last-perfect: 2026-08-08
 - <ruby>[[尉]]<rt>ㄨㄊ</rt></ruby> "officer" (stand-in for 尉)
 
 ## Derived Characters
-- [[熨]]
-- [[慰]]
+- <ruby>[[熨]]<rt>⼜ㄊ</rt></ruby> "flatiron"
+- <ruby>[[慰]]<rt>ㄛㄧ</rt></ruby> "comfort"
