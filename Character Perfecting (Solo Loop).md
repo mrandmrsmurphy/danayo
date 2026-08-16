@@ -3295,3 +3295,29 @@ Next never-perfected character by `danayo_id`: 圄 (7520; 747 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 誣 (7521; 746 characters remaining).
+
+### 2026-08-16, iteration 1759 — [[characters/誣|誣]]
+
+**`mc_id` off-by-one found and fixed**: stored `1513`, but `CC 1000.md` line 538 shows 1513 is actually 柳's rank — 誣 itself is line 539, rank `1514`. Corrected. `graphemic_classification: 巫` and `vietnamese: vu` both reconfirmed correct (形声, semantic [[Radical 149|言]] "speech" + phonetic 巫; hvdic dual-classified identically).
+
+**`joyo_level` and `pos` gaps filled**: blank → `表外字` (added to [[Lookup/Japanese/Hyōgai]]) and blank → `動詞` (matching the citing stand-in word [[誣告]]'s own `動詞`).
+
+**Consequence-fix applied with a heading-level correction**: the phonetic parent [[characters/巫|巫]]'s own `## Derived Characters` section for 誣 was using the wrong heading level (`### Derived Characters`, H3, when the checklist requires H2) and the single entry was a bare unformatted wikilink — fixed both the heading and the ruby annotation in one edit.
+
+Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, with an otherwise-correct `## Words` section already in place) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 綴 (char) (7522; 745 characters remaining).
+
+### 2026-08-16, iteration 1760 — [[characters/綴 (char)|綴]]
+
+**`mc_id` off-by-one found and fixed**: stored `2552`, but `CC 2000.md` line 577 shows 2552 is actually 柩's rank — 綴 itself is line 578, rank `2553`. Corrected. `graphemic_classification: 叕` and `joyo_level: 日本人名用漢字` both reconfirmed correct (形声, semantic [[Radical 120|糸]] "silk" + phonetic 叕, a component with no vault page of its own).
+
+**`aliases` false-positive pair removed**: 輟 and 轍 were stored, but en.Wiktionary explicitly lists them as separate characters in the same phonetic series (叕), not variants of 綴 itself — 轍 in particular means "wheel rut/track," a wholly unrelated meaning. Removed both, leaving only the genuine simplified form 缀.
+
+**`vietnamese` fixed with both an addition and a removal**: stored `chuế, chuỗi, xuyết`; hvdic's genuine "Âm Hán Việt:" line gives `chuyết, chuế, xuyết` — added the missing `chuyết` and removed the Nôm-only `chuỗi`.
+
+**`pos` gap filled via independent judgment**: blank → `動詞`. The citing stand-in word [[綴]] has no `pos` of its own either (word-perfecting stalled since 2026-08-05, per this session's established project context), so this was called from the character's own "bind, stop" gloss rather than cross-referenced.
+
+Fixed a `../` path bug in the disambiguation callout. Rebuilt the malformed Notes/Words structure into the standard format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 毅 (7523; 744 characters remaining).
