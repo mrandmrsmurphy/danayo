@@ -3789,3 +3789,25 @@ Next never-perfected character by `danayo_id`: 圭 (8022; 710 characters remaini
 Confirmed no citing word exists for 圭 (stand_in `名専字`), already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 90) and `Lookup/Korean/Korean Name ㄱ.md`. Rebuilt the Notes into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 旭 (8023; 709 characters remaining).
+
+### 2026-08-16, iteration 1796 — [[characters/旭|旭]]
+
+`mc_id: 4754` is trusted long-tail (>4000). `radical: 日`, `graphemic_classification: 九` (形聲, phonetic 九 + semantic 日 "sun"), and `joyo_level: 日本人名用漢字` (Jinmeiyō) all reconfirmed correct, and already correctly cross-listed on `Lookup/Japanese/Jinmeiyō.md` (item 22) and `Lookup/Korean/Korean Name ㅇ.md`.
+
+**`vietnamese` bug found and fixed**: hvdic's genuine Âm Hán Việt is "húc" alone; the vault had `[hóc, hót, húc]` — `hóc` is Âm Nôm contamination, and `hót` appears in neither list at all. Corrected to `[húc]`.
+
+**`korean_native` and `pos` filled**: both were blank. `korean_native` filled as `빛날` ("shine"), matching the ko.Wiktionary-attested 훈 "빛나다, 해 뜨다" (shine, sun rises) in the vault's standard verb-stem gloss form. `pos` filled as `名詞`.
+
+Confirmed no citing word exists for 旭 (stand_in `名専字`), so no `## Words` section was added. Rebuilt the malformed `# Notes` (wrong heading level, only two floating unlinked CC wikilinks) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 芝 (8024; 708 characters remaining).
+
+### 2026-08-16, iteration 1797 — [[characters/芝|芝]]
+
+An already-substantially-built page that checked out clean on nearly every fact. `mc_id: 2533` reconfirmed exact match (CC 2000.md: `2532. 綦`, `2533. 芝`, `2534. 耀`). `radical: 艸` confirmed as the vault's standard convention (118 pages use 艸, none use 艹, despite the Notes prose displaying the visual 艹 form). `graphemic_classification: 之`, `joyo_level: 高等` (Jōyō - Kōtō, secondary-school level), and `vietnamese: chi` all reconfirmed correct via dual-source agreement, and `aliases: 𦭩` reconfirmed as a genuine variant (not a phonetic-series false positive this time). Both `Lookup/Japanese/Jōyō - Kōtō.md` (item 1436) and `Lookup/Korean/Korean Name ㅈ.md` already correctly cross-listed this character. `pos: 名詞` was already correctly filled.
+
+**A second instance of the scalar-then-list-item YAML bug found and fixed** (same pattern as [[characters/疋|疋]] two iterations ago): `japanese_native` had `しば` followed by a stray `  - こげ` continuation line rather than a proper two-item list. Normalized to `[しば, こげ]`.
+
+Cleaned up path-style inconsistencies (lowercase `../lookup/` relative paths → standard capitalized `Lookup/` absolute paths), added the missing CC-rank bullet (the SKIP/Stroke bullet had absorbed the syllable link instead), and removed a redundant pair of floating unlinked CC wikilinks left over at the bottom of the file after the `## Words` section (already fully captured by the rebuilt Notes bullet). Left the already-complete `## Words` list unchanged, including one intentionally bare, ruby-less entry (`[[芝罘]]` "Zhifu") which has no corresponding word page yet — out of scope to create in a character-focused pass. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 丞 (8025; 707 characters remaining).
