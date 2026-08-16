@@ -3021,3 +3021,27 @@ Next never-perfected character by `danayo_id`: 芻 (7498; 768 characters remaini
 Rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks) into the standard four-bullet format; the existing `## Words` and `## Derived Characters` sections (already correctly citing [[趨 (char)|趨]]) needed no other changes. Stamped `date-last-perfect: 2026-08-16`.
 
 Next never-perfected character by `danayo_id`: 哥 (7499; 767 characters remaining).
+
+### 2026-08-16, iteration 1738 — [[characters/哥|哥]]
+
+An etymological outlier: en.Wiktionary explicitly describes 哥 as a *stacked* form of 可 (⿱可可, "perhaps an open mouth with breath going out") rather than a standard semantic+phonetic 形声 compound — a later vernacular coinage that doesn't appear in the Shuowen Jiezi at all, per the citing word [[哥哥]]'s own Notes. Left `graphemic_classification: 可` unchanged (it correctly names the reused component either way) but rewrote the Notes bullet to describe the actual stacked-form etymology rather than force it into the standard 形声 phrasing. `mc_id: 5886` is trusted long-tail (>4000).
+
+**`vietnamese` heavily contaminated, fixed**: stored `ca, cả, gã, kha`, but hvdic's genuine "Âm Hán Việt:" line gives only `ca` — `kha` is Nôm-only, and `cả`/`gã` are unattested under either category. Reduced to `ca` alone.
+
+**`hanmun_edu_level` gap filled**: blank → `無` (a colloquial Tang-era vernacular coinage, not part of Korean's classical hanja curriculum; [[Lookup/Korean/Korean Missing]] is a pure dataview query, no manual list edit needed). **`pos` gap filled**: blank → `名詞`, matching the citing stand-in word [[哥哥]]'s own `名詞`.
+
+**Pre-existing citation gap found and fixed independent of any value change**: `joyo_level: 表外字` was already correctly set before this iteration, but had never actually been added to [[Lookup/Japanese/Hyōgai]]'s numbered list — added as entry #358.
+
+Fixed a duplicate: the Notes section had a stray "abbreviation for copernicium: [[哥金]]" bullet duplicating an entry already properly present in `## Words` — removed from Notes, left the Words entry as the single source. Rebuilt the four-bullet Notes structure and confirmed the phonetic parent [[characters/可 (char)|可]]'s own Words list already correctly cites 哥. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 伍 (char) (7500; 766 characters remaining).
+
+### 2026-08-16, iteration 1739 — [[characters/伍 (char)|伍]]
+
+`mc_id: 1160` verified against `CC 1000.md` line 169 — exact match. `graphemic_classification: 五` and `joyo_level: 日本人名用漢字` both reconfirmed correct (形声, semantic [[Radical 009|人]] "person" + phonetic 五; Jinmeiyō). `vietnamese: ngũ` reconfirmed correct via hvdic, dual-classified identically.
+
+**`pos` gap filled**: blank → `名詞`, matching the citing self-named word [[伍]]'s own `名詞`. No `aliases` needed — en.Wiktionary describes 伍 itself as 五's dedicated anti-forgery financial-numeral variant (matching the citing word's own Notes, which lists it alongside 壱/貳/漆/玖 for 一/二/七/九), not the reverse.
+
+Checked the phonetic parent [[characters/五 (char)|五]] (itself badly malformed and unperfected, with non-standard heading names like `### Descendants` and `## Important Words` instead of the standard section names) — it already informally cites 伍 there, so left it untouched rather than reformat an unrelated section beyond this iteration's scope. Fixed a `../` path bug in the disambiguation callout, rebuilt the malformed Notes (bare `# Notes` H1 over two floating unlinked CC wikilinks, no `## Words` at all) into the standard four-bullet format plus a `## Words` section citing the self-named word [[伍]]. Stamped `date-last-perfect: 2026-08-16`.
+
+Next never-perfected character by `danayo_id`: 兪 (char) (7501; 765 characters remaining).

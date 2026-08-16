@@ -359,6 +359,7 @@ tags: [lookup]
 355. [涛](../../characters/涛.md)
 356. [醤](../../characters/醤.md)
 357. [幇](../../characters/幇.md)
+358. [哥](../../characters/哥.md)
 
 
 [[../../characters/吠]] - barking DO IT
