@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-07-05
 stroke_count: 10
-size: 27
+size: 28
 skip_number: 2-3-7
 tags:
   - lookup
@@ -37,6 +37,7 @@ tags:
 25. <ruby>[豈](characters/豈.md)<rt>ㄎㄧㄜ</rt></ruby> "how can it be that"
 26. <ruby>[貢](characters/貢.md)<rt>ㄍㄛㄫ</rt></ruby> "tribute"
 27. <ruby>[韋](characters/韋.md)<rt>ㄨㄧ</rt></ruby> "tanned leather"
+28. <ruby>[莽](characters/莽.md)<rt>ㄇㄚㄫ</rt></ruby> "poisonous"
 
 ## Datacheck
 ```dataview

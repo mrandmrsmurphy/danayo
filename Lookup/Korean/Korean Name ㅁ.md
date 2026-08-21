@@ -36,13 +36,13 @@ These have been checked for redirects.
 [蔑](characters/蔑%20(char).md)
 
 ### 명 
-[溟](characters/冥%20(char).md) [暝](characters/冥%20(char).md) 椧! [皿](characters/皿%20(char).md) [瞑](characters/冥%20(char).md) [[茗]] [[蓂]] [[characters/螟]] [酩](characters/酩.md) [慏](characters/冥%20(char).md) [洺](characters/名%20(char).md) [[眀]] [䳟](characters/明%20(char).md)
+[溟](characters/冥%20(char).md) [暝](characters/冥%20(char).md) 椧! [皿](characters/皿%20(char).md) [瞑](characters/冥%20(char).md) [[茗]] [[蓂]] [螟](characters/螟.md) [酩](characters/酩.md) [慏](characters/冥%20(char).md) [洺](characters/名%20(char).md) [[眀]] [䳟](characters/明%20(char).md)
 
 ### 몌 
 [袂 (char)](characters/袂%20(char).md)
 
 ### 모 
-[摸](characters/摸.md) [牟](characters/牟.md) [[謨]] [姆](characters/母.md) [帽](characters/帽.md) [摹](characters/模.md) [牡](characters/牡.md) [瑁](characters/瑁.md) [[眸]] [耗](characters/耗.md) [芼](characters/芼.md) [茅](characters/茅.md) [矛](characters/矛.md) [[橅]]
+[摸](characters/摸.md) [牟](characters/牟.md) [[謨]] [姆](characters/母.md) [帽](characters/帽.md) [摹](characters/模.md) [牡](characters/牡.md) [瑁](characters/瑁.md) [[眸]] [耗](characters/耗.md) [芼](characters/芼.md) [茅](characters/茅.md) [矛](characters/矛.md) [[橅]] [姥](characters/姥.md)
 
 ### 목 
 [穆](characters/穆.md) [[鶩]] [沐](characters/沐.md)

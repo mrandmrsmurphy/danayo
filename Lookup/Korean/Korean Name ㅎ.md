@@ -9,7 +9,7 @@ This have all be checked for redirects.
 [廈](characters/廈.md) [霞](characters/霞.md) [[瑕]] [蝦](characters/蝦.md) [[遐]] 鰕->蝦 ¡¡¡呀!!! [[嘏]] [[碬]] [[閜]] [嚇 (char)](characters/嚇%20(char).md) [[赮]] [[𧬂]] 
 
 ### 학
-[[壑]] [虐](characters/虐.md) [[謔]] [[嗃]]
+[[壑]] [虐](characters/虐.md) [[謔]] [[嗃]] [郝](characters/郝.md)
 
 ### 한
 [澣](characters/浣.md) [[瀚]] 閒->閑 [悍](characters/悍.md) [[罕]] [[澖]] [[𡽜]] [[僩]] [[嫺]] [[橌]] [[䦥]]
@@ -50,6 +50,9 @@ This have all be checked for redirects.
 ### 헐
 [歇](characters/歇.md) 
 
+### 험
+[杴](characters/杴.md)
+
 ### 혁
 [[赫]] [[爀]] 奕-->打 [[焱]] [[侐]] [[焃]] [[𧹽]] [赩](characters/赩.md)
 
@@ -83,25 +86,25 @@ This have all be checked for redirects.
 [惚](characters/惚.md) [[笏]]
 
 ### 홍
-[[泓]] [[烘]] [虹](characters/虹.md) [[鉷]] [哄](characters/哄.md) [[汞]] [[訌]] 
+[[泓]] [[烘]] [虹](characters/虹.md) [[鉷]] [哄](characters/哄.md) [[汞]] [[訌]] [鴻](characters/鴻.md) 
 
 ### 화
 [[嬅]] [樺](characters/樺.md) [[譁]] [靴](characters/靴.md) [[澕]] 
 
 ### 확
-[廓](../../characters/郭%20(char).md) [[攫]]
+[廓](../../characters/郭%20(char).md) [[攫]] [蠖](characters/蠖.md)
 
 ### 환
 [喚 (char)](characters/喚%20(char).md) [[奐]] [[渙]] [煥](characters/煥.md) [[晥]] [幻](characters/幻.md) [桓](characters/桓.md) [[鐶]] [[驩]] [[宦]] [[紈]] [[鰥]] [[圜]] 
 
 ### 활
-[闊 (char)](characters/闊%20(char).md) [滑 (char)](characters/滑%20(char).md) [猾](characters/滑%20(char).md) [[豁]]
+[闊 (char)](characters/闊%20(char).md) [滑 (char)](characters/滑%20(char).md) [猾](characters/滑%20(char).md) [[豁]] [蛞](characters/蛞.md)
 
 ### 황
 [凰](characters/凰.md) [[堭]] [[媓]] [晃](characters/晃.md) [[滉]] [[榥]] [煌](characters/煌.md) [[璜]] [[熀]] [幌](characters/幌.md) [徨](characters/徨.md) [[恍]] [[惶]] [[愰]] [慌](characters/慌.md) [[湟]] [[潢]] [[篁]] [簧](characters/黄%20(char).md) [[蝗]] [[遑]] [[隍]] [[楻]] 
 
 ### 회
-[廻](characters/回%20(char).md) [恢](characters/恢.md) [晦](characters/晦.md) [檜](characters/桧.md) [[澮]] [繪](characters/絵.md) [誨](../../characters/戒.md) [匯](characters/彙%20(char).md) [[徊]] [淮](characters/淮.md) [[獪]] [[膾]] [[茴]] [蛔](characters/回%20(char).md) [賄](characters/賄.md) [灰 (char)](characters/灰%20(char).md) 
+[廻](characters/回%20(char).md) [恢](characters/恢.md) [晦](characters/晦.md) [檜](characters/桧.md) [[澮]] [繪](characters/絵.md) [誨](../../characters/戒.md) [匯](characters/彙%20(char).md) [[徊]] [淮](characters/淮.md) [[獪]] [[膾]] [[茴]] [蛔](characters/回%20(char).md) [賄](characters/賄.md) [灰 (char)](characters/灰%20(char).md) [栃](characters/栃.md)
 
 ### 횡
 [[鐄]] [[宖]] 

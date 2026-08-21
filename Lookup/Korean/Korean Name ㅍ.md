@@ -24,10 +24,10 @@ Redirected checked for
 [扁](characters/扁.md) [[翩]] [鞭](characters/鞭.md) [騙 (char)](characters/騙%20(char).md)
 
 ### 폄 
-[[貶]] 
+[[貶]] [窆](characters/窆.md) [砭](characters/砭.md)
 
 ### 평 
-[坪 (char)](characters/坪%20(char).md) [[枰]] [[泙]] [[萍]] 
+[坪 (char)](characters/坪%20(char).md) [[枰]] [[泙]] [[萍]] [苹](characters/苹.md)
 
 ### 폐 
 [陛](characters/陛.md) [[../../characters/吠]] [[嬖]] [[斃]] 
@@ -54,7 +54,7 @@ Redirected checked for
 [弼](characters/弼.md) 泌 (done) [[珌]] [[苾]] [[馝]] [[鉍]] [[佖]] [疋](characters/疋.md)
 
 ### 핍 
-[乏](characters/乏.md) [逼](characters/逼.md)
+[乏](characters/乏.md) [逼](characters/逼.md) [鵖](characters/鵖.md) [偪](characters/偪.md)
 
 ## Datacheck
 ```dataviewjs

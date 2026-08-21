@@ -4,7 +4,7 @@ tags: [lookup]
 These have all been checked for redirects.
 
 ### 나  
-[[../../characters/奈]] [[柰]] [[娜]] [拏](characters/拿.md) [[儺]] [喇](characters/喇.md) [[懦]] [拿](characters/拿.md) [[𣃽]] [[䏧]] [[挐]] [挪](../../characters/梛.md) [[𡖔]] [梛](characters/梛.md) [[糯]] 
+[[../../characters/奈]] [[柰]] [[娜]] [拏](characters/拿.md) [[儺]] [喇](characters/喇.md) [[懦]] [拿](characters/拿.md) [[𣃽]] [[䏧]] [[挐]] [[挪]] [[𡖔]] [梛](characters/梛.md) [[糯]] 
 
 ### 난  
 [煖](characters/暖%20(char).md)
@@ -16,7 +16,7 @@ These have all been checked for redirects.
 [楠](characters/楠.md) 湳 [[枏]]
 
 ### 납  
-[衲](characters/衲.md)
+[衲](characters/衲.md) [魶 (char)](characters/魶%20(char).md)
 
 ### 낭  
 [囊](characters/嚢.md)
@@ -46,13 +46,16 @@ These have all been checked for redirects.
 [嫩](characters/嫩%20(char).md)
 
 ### 눌  
-[訥](characters/訥%20(char).md)
+[訥](characters/訥%20(char).md) [肭](characters/肭.md)
+
+### 눔  
+[妠](characters/妠.md)
 
 ### 뉴  
 [[紐]] [[鈕]] [[杻]]
 
 ### 니  
-[尼](characters/尼.md) [[柅]] [[濔]] [[膩]] [[馜]]
+[尼](characters/尼.md) [[柅]] [[濔]] [[膩]] [[馜]] [祢](characters/祢.md)
 
 ### 닉  
 [匿](characters/匿.md) [溺](characters/溺%20(char).md)

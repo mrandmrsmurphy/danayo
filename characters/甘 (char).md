@@ -58,5 +58,5 @@ boundedness: 60
 ## Derived Characters
 - <ruby>[[紺 (char)|紺]]<rt>ㄍㄚㄇ</rt></ruby> "navy blue"
 - <ruby>[[鉗 (char)|鉗]]<rt>ㄍㄝㄇ</rt></ruby> "vice, pliers, forceps"
-- <ruby>[[姏]]<rt>ㄇㄛㄇ</rt></ruby> "greatgrandmother"
+- <ruby>[[姏]]<rt>ㄇㄛㄇ</rt></ruby> "old woman"
 - <ruby>[[柑]]<rt>ㄍㄚㄇ</rt></ruby> "mandarin orange"

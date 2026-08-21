@@ -6,7 +6,7 @@ Checked for redirects
 [泗](../../characters/四%20(char).md) [砂](characters/沙%20(char).md) [糸](characters/糸.md) [紗](characters/紗.md) [娑](characters/沙%20(char).md) [徙](characters/徙.md) [奢](characters/奢.md) [嗣](characters/嗣.md) [赦](characters/赦.md) [乍](characters/乍.md) [些](characters/些.md) [伺](characters/伺.md) [[俟]] [[僿]] [唆](characters/唆.md) [[柶]] [[梭]] [渣 (char)](characters/渣%20(char).md) [[瀉]] [獅](characters/獅.md) [祠](characters/祠.md) [肆](characters/肆.md) [[莎]] [[蓑]] [裟](characters/沙%20(char).md) [飼](characters/飼.md) [[駟]] [麝](characters/射.md) [[篩]] 
 
 ### 삭  
-[數](characters/数.md) [索](characters/索.md) [[爍]] [鑠](characters/鑠.md) 
+[數](characters/数.md) [索](characters/索.md) [[爍]] [鑠](characters/鑠.md) [朔](characters/朔.md) 
 
 ### 산  
 [珊](characters/珊.md) [傘](characters/傘.md) [刪](characters/刪.md) [[汕]] [[疝]] [[蒜]] [霰](characters/散.md) [酸 (char)](characters/酸%20(char).md) [產](characters/産.md) [[祘]] 
@@ -107,19 +107,19 @@ Checked for redirects
 [[陞]] ([[阩]])
 
 ### 시 
-[柴](characters/柴.md) [恃](characters/持%20(char).md) [匙](characters/匙.md) [[嘶]] !媤! [尸](characters/屍.md) [屎 (char)](characters/屎%20(char).md) [屍](characters/屍.md) [弒](characters/弒.md) [猜](characters/猜.md) [翅](characters/翅.md) [[蒔]] [[蓍]] [諡](characters/諡.md) [豕](characters/豕.md) [[豺]] [偲](characters/偲.md) [[毸]] [[諟]] [[媞]] [[柹]] [[愢]] [[禔]]
+[柴](characters/柴.md) [恃](characters/持%20(char).md) [匙](characters/匙.md) [[嘶]] !媤! [尸](characters/屍.md) [屎 (char)](characters/屎%20(char).md) [屍](characters/屍.md) [弒](characters/弒.md) [猜](characters/猜.md) [翅](characters/翅.md) [[蒔]] [[蓍]] [諡](characters/諡.md) [豕](characters/豕.md) [[豺]] [偲](characters/偲.md) [[毸]] [[諟]] [[媞]] [[柹]] [[愢]] [[禔]] [柿](characters/柿.md)
 
 ### 식 
 [[栻]] [埴](characters/埴.md) [殖](characters/殖.md) [[湜]] [[軾]] [[寔]] [拭](characters/拭.md) [[熄]] [[篒]] [蝕](characters/食%20(char).md)
 
 ### 신  
-[紳](characters/紳.md) [[莘]] [薪](characters/薪.md) [迅](characters/迅.md) [訊](characters/訊.md) [[侁]] [呻](characters/呻.md) [娠](characters/娠.md) [[宸]] [[燼]] [腎](characters/腎.md) [[藎]] [[蜃]] [辰](characters/辰.md) [[璶]]
+[紳](characters/紳.md) [[莘]] [薪](characters/薪.md) [迅](characters/迅.md) [訊](characters/訊.md) [[侁]] [呻](characters/呻.md) [娠](characters/娠.md) [[宸]] [[燼]] [腎](characters/腎.md) [[藎]] [[蜃]] [辰](characters/辰.md) [[璶]] [晨](characters/晨.md)
 
 ### 실 
 [悉](characters/悉.md)
 
 ### 심 
-[[沁]] [沈](characters/沈.md) [瀋](characters/沈.md) [芯](characters/心%20(char).md) [[諶]]
+[[沁]] [沈](characters/沈.md) [瀋](characters/沈.md) [芯](characters/心%20(char).md) [[諶]] [鱏 (char)](characters/鱏%20(char).md)
 
 ### 십 
 [什](../../characters/十%20(char).md) [拾](characters/拾.md)

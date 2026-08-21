@@ -22,7 +22,7 @@ tags:
 10. <ruby>[柱](characters/柱%20(char).md)<rt>ㄐㄨ</rt></ruby> "pillar"
 11. <ruby>[柳](characters/柳%20(char).md)<rt>ㄌ⼜</rt></ruby> "willow"
 12. <ruby>[柵](characters/柵%20(char).md)<rt>ㄑㄚㄎ</rt></ruby> "fence"
-13. <ruby>[柉](characters/柉.md)<rt>ㄇㄨㄆ</rt></ruby> "mub"
+13. <ruby>[柉](characters/柉.md)<rt>ㄇㄨㄆ</rt></ruby> "loofah"
 14. <ruby>[柊](characters/柊.md)<rt>ㄐㄨㄫ</rt></ruby> "holly osmanthus"
 15. <ruby>[柑](characters/柑.md)<rt>ㄍㄚㄇ</rt></ruby> "mandarin orange"
 16. <ruby>[柩](characters/柩.md)<rt>ㄍ⼜</rt></ruby> "coffin"

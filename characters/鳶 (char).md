@@ -15,7 +15,7 @@ stroke_count: 14
 radical: "鳥"
 skip_number: 2-3-11
 grade_level: "名"
-pos: ""
+pos: "名詞"
 english:
   - kite
 羅馬字: "'yeng"
@@ -34,6 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-18
 ---
 >[!tip] This is a page about the character 鳶.
 >For the word, see [鳶](words/鳶.md)
@@ -42,6 +43,12 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 以]]
-[[Lookup/CC/finals/韻 仙A三合]]
+## Notes
+- 形声 (possibly): semantic 鳥 ("bird") + phonetic 弋 (structural decomposition ⿱弋鳥; zh.Wiktionary's OC reconstruction cites the closely related 戈, same phonetic series) — "kite (bird)."
+- [SKIP-2-3-11](Lookup/SKIP/SKIP-2/SKIP-2-3-11.md) ([Stroke 14](Lookup/Stroke/Stroke%2014.md))
+- 3264th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼶ㄋ](syllables/⼶ㄋ.md)
+- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Words
+- <ruby>[[鳶]]<rt>⼶ㄋ</rt></ruby> "kite (bird)"
+- <ruby>[[紙鳶]]<rt>ㄐㄝ⼶ㄋ</rt></ruby> "paper kite"

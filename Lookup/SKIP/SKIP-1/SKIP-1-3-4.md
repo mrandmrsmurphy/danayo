@@ -24,7 +24,7 @@ tags:
 12. <ruby>[妍](characters/妍.md)<rt>ㄝㄋ</rt></ruby> "beautiful"
 13. <ruby>[妓](characters/妓.md)<rt>ㄍㄧ</rt></ruby> "actress"
 14. <ruby>[妖](characters/妖.md)<rt>⼘ㄨ</rt></ruby> "goblin"
-15. <ruby>[妠](characters/妠.md)<rt>ㄋㄨㄇ</rt></ruby> "num"
+15. <ruby>[妠](characters/妠.md)<rt>ㄋㄨㄇ</rt></ruby> "seize"
 16. <ruby>[妨](characters/妨.md)<rt>ㄈㄚㄫ</rt></ruby> "obstruct"
 17. <ruby>[岐](characters/岐%20(char).md)<rt>ㄍㄝ</rt></ruby> "fork (in road)"
 18. <ruby>[彷](characters/彷.md)<rt>ㄆㄚㄫ</rt></ruby> "resemble"

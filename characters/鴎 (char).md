@@ -6,7 +6,6 @@ korean_native: 갈매기
 japanese:
   - OU
 japanese_native: かもめ
-  - かもめ
 vietnamese:
   - âu
 middle_chinese_initial: ʔ
@@ -34,7 +33,8 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 65
+date-last-perfect: 2026-08-18
 ---
 >[!tip] This is a page about the character 鴎.
 >For the word, see [鴎](words/鴎.md)
@@ -42,7 +42,10 @@ boundedness:
 [[nav/char_info]]
 ```
 ## Notes
-- Dropped from the Korean HS list in 2000.
-- [[ㄛㄨ]]
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 侯]]
+- 形声: semantic [[Radical 196|鳥]] ("bird") + phonetic [区](characters/区.md) — "seagull." (Japanese shinjitai of 鷗, phonetic component likewise cited via its shinjitai sibling 区.)
+- [SKIP-1-4-11](Lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](Lookup/Stroke/Stroke%2015.md))
+- Absent from all four Classical Chinese frequency lists under any of its glyph forms (鴎/鷗/鸥); `mc_id` trusted long-tail (7852). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄛㄨ](syllables/ㄛㄨ.md)
+- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md#Redirects) — dropped from `Lookup/Korean/Korean HS.md`'s 2000 revision, confirmed absent from the current list
+
+## Words
+- <ruby>[[鴎]]<rt>ㄛㄨ</rt></ruby> "seagull"

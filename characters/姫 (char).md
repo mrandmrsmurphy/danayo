@@ -33,7 +33,8 @@ aliases:
 tags:
   - character
 kwin: false
-boundedness: 
+boundedness: 75
+date-last-perfect: 2026-08-17
 ---
 >[!tip] This is a page about the character 姫.
 >For the word, see [姫](words/姫.md)
@@ -42,6 +43,11 @@ boundedness:
 [[nav/char_info]]
 ```
 
-# Notes
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 之]]
+## Notes
+- 形声 (OC \*ɡiŋ): semantic [[Radical 038|女]] ("woman") + phonetic [臣](characters/臣.md) — "princess, court lady." Variant of 姬, the original form for the "princess" sense; originally the surname of the Zhou royal house (姬姓).
+- [SKIP-1-3-6](Lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](Lookup/Stroke/Stroke%2009.md))
+- 780th most used character in Classical Chinese, recorded under the traditional glyph 姬 (CC 0000.md: `> 779. 恭`, `> 780. 姬`, `> 781. 送`). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄍㄧ](syllables/ㄍㄧ.md)
+- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](Lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Words
+- <ruby>[[姫]]<rt>ㄍㄧ</rt></ruby> "princess"

@@ -20,7 +20,7 @@ tags: [lookup]
 7. <ruby>[悪](characters/悪%20(char).md)<rt>ㄚㄎ</rt></ruby> "evil"
 8. <ruby>[患](characters/患%20(char).md)<rt>ㄏ⺢ㄇ</rt></ruby> "suffer from"
 9. <ruby>[悠](characters/悠.md)<rt>⼜ㄛ</rt></ruby> "remote"
-10. <ruby>[悉](characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> "comprehend"
+10. <ruby>[悉](characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> "entirely"
 
 ## Datacheck
 ```dataview

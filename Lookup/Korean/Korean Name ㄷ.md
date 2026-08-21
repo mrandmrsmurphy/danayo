@@ -7,7 +7,7 @@ Checked for redirect.
 [爹](characters/爹.md) [[𥥸]] [[𣘻]] [[茤]] 
 
 ### 단 
-[[緞]] [鍛](characters/鍛.md) [亶](characters/亶.md) [彖](characters/彖.md) [[湍]] [簞](characters/簞.md) [蛋](characters/蛋.md) [[袒]] [[鄲]] [[煓]] [[㫜]]
+[[緞]] [鍛](characters/鍛.md) [亶](characters/亶.md) [彖](characters/彖.md) [[湍]] [簞](characters/簞.md) [蛋](characters/蛋.md) [[袒]] [[鄲]] [[煓]] [[㫜]] [檀](characters/檀.md)
 
 ### 달  
 [[撻]] [[澾]] [[獺]] [[疸]]
@@ -19,7 +19,7 @@ Checked for redirect.
 [沓](characters/沓.md) [[遝]]
 
 ### 당 
-[[塘]] [[鐺]] [撞](characters/撞%20(char).md) [[幢]] [[戇]] [[棠]] [螳](characters/螳.md)
+[[塘]] [[鐺]] [撞](characters/撞%20(char).md) [[幢]] [[戇]] [[棠]] [螳](characters/螳.md) [唐](characters/唐.md)
 
 ### 대  
 [[垈]] [玳](characters/玳.md) [袋 (char)](characters/袋%20(char).md) [戴 (char)](characters/戴%20(char).md) [擡](characters/擡.md) [[旲]] [[岱]] [黛](characters/黛.md) 

@@ -26,7 +26,7 @@ tags:
 14. <ruby>[巣](characters/巣.md)<rt>ㄐㄚㄨ</rt></ruby> "nest"
 15. <ruby>[窒](characters/窒.md)<rt>ㄉㄝㄊ</rt></ruby> "suffocate"
 16. <ruby>[窓](characters/窓.md)<rt>ㄑ⺢ㄫ</rt></ruby> "window"
-17. <ruby>[窕](characters/窕.md)<rt>ㄉㄛㄨ</rt></ruby> "elegent"
+17. <ruby>[窕](characters/窕.md)<rt>ㄉㄛㄨ</rt></ruby> "elegant"
 18. <ruby>[羞](characters/羞.md)<rt>ㄙㄨㄛ</rt></ruby> "shame"
 19. <ruby>[菊](characters/菊%20(char).md)<rt>ㄍㄨㄎ</rt></ruby> "chrysanthemum"
 20. <ruby>[菱](characters/菱%20(char).md)<rt>ㄌㄜㄫ</rt></ruby> "water chestnut"

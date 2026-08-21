@@ -62,4 +62,4 @@ boundedness: 80
 - <ruby>[[蝠]]<rt>ㄈㄨㄎ</rt></ruby> "bat"
 - <ruby>[[富]]<rt>ㄈㄨㄛ</rt></ruby> "abundance"
 - <ruby>[[逼]]<rt>ㄅㄧㄎ</rt></ruby> "compel; force"
-- <ruby>[[偪]]<rt>ㄆㄧㄆ</rt></ruby> "Fuyang"
+- <ruby>[[偪]]<rt>ㄆㄧㄆ</rt></ruby> "press; compel"

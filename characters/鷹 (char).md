@@ -21,7 +21,7 @@ english:
 羅馬字: "'ing"
 諺文: "잉"
 joyo_level: "日本人名用漢字"
-hsk_level: "4"
+hsk_level: 無
 hanmun_edu_level: "名"
 danayo_id: 8334
 mc_id: 2452
@@ -34,15 +34,19 @@ kwin: false
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-19
 ---
 >[!tip] This is a page about the character 鷹.
 >For the word, see [鷹](words/鷹.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Notes
-[[Lookup/CC/initials/聲 影]]
-[[Lookup/CC/finals/韻 蒸]]
+## Words
+- <ruby>[[鷹]]<rt>ㄧㄫ</rt></ruby> "hawk"
+- <ruby>[[単鷹国]]<rt>ㄉㄚㄋㄧㄫㄍㄛㄎ</rt></ruby> "Prussia"
 
 ## Notes
-- 形声 (OC \*qɯŋ): semantic [[䧹]] ("bird") + phonetic [[]] (OC \*qɯŋ).
+- 形声: semantic [鳥 (char)](characters/鳥%20(char).md) ("bird") + phonetic [[䧹]] — "hawk; eagle."
+- [SKIP-3-3-21](Lookup/SKIP/SKIP-3/SKIP-3-3-21.md) ([Stroke 24](Lookup/Stroke/Stroke%2024.md))
+- 2452nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄧㄫ](syllables/ㄧㄫ.md)
+- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)

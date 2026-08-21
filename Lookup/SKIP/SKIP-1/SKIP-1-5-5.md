@@ -19,7 +19,7 @@ tags:
 7. <ruby>[破](characters/破%20(char).md)<rt>ㄆㄜ</rt></ruby> "rend"
 8. <ruby>[砥](characters/砥.md)<rt>ㄐㄧㄜ</rt></ruby> "whetstone"
 9. <ruby>[砧](characters/砧.md)<rt>ㄉㄨㄇ</rt></ruby> "anvil"
-10. <ruby>[砭](characters/砭.md)<rt>ㄆ⼶ㄇ</rt></ruby> "stone needle for accupuncture"
+10. <ruby>[砭](characters/砭.md)<rt>ㄆ⼶ㄇ</rt></ruby> "stone needle for acupuncture"
 11. <ruby>[砲](characters/砲.md)<rt>ㄅ⼘ㄨ</rt></ruby> "cannon"
 12. <ruby>[神](characters/神%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> "god"
 13. <ruby>[祚](characters/祚.md)<rt>ㄐㄛ</rt></ruby> "throne"

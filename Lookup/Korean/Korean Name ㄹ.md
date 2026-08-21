@@ -10,7 +10,7 @@ All of these have been checked for redirects.
 [珞](characters/絡%20(char).md) [酪](characters/酪.md) [烙](characters/落.md) [駱](characters/駱.md) [洛](characters/洛.md)
 
 ### 란
-[瀾](characters/乱.md) 瓓 [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md)
+[瀾](characters/乱.md) 瓓 [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md) [蘭](characters/蘭.md)
 
 ### 랄
 [剌](characters/剌.md) [辣](characters/辣%20(char).md)
@@ -55,7 +55,7 @@ All of these have been checked for redirects.
 [澧](characters/醴.md) [醴](characters/醴.md) 
 
 ### 로 
-[魯](characters/魯.md) [盧](characters/盧.md) [鷺](characters/路.md) [撈](characters/𢭐.md) [[擄]] [櫓](characters/芦.md) [[潞]] [[瀘]] [蘆](characters/芦.md) [[輅]] [鹵](characters/鹵.md) [[嚧]] [虜](characters/虜.md) [[璐]] 
+[魯](characters/魯.md) [盧](characters/盧.md) [鷺](characters/路.md) [撈](characters/𢭐.md) [[擄]] [[櫓]] [[潞]] [[瀘]] [蘆](characters/芦.md) [[輅]] [鹵](characters/鹵.md) [[嚧]] [虜](characters/虜.md) [[璐]] 
 
 ### 록 
 !彔! [[碌]] [[菉]] [麓](characters/麓.md)
@@ -79,10 +79,10 @@ All of these have been checked for redirects.
 [戮](characters/戮.md)
 
 ### 륜 
-侖! [崙](characters/崙.md) [[綸]] [[淪]] [[characters/錀 (char)]] roentgenium
+侖! [崙](characters/崙.md) [[綸]] [[淪]] [錀 (char)](characters/錀%20(char).md)
 
 ### 률 
-[慄](characters/慄%20(char).md) [[嵂]] [率](characters/率.md)
+[慄](characters/慄%20(char).md) [[嵂]] [率](characters/率.md) [栗](characters/栗%20(char).md)
 
 ### 륵 
 [勒](characters/勒.md) [肋](characters/肋.md)
@@ -94,10 +94,10 @@ All of these have been checked for redirects.
 [[綾]] [菱](characters/菱%20(char).md) [稜](characters/稜.md) [凌](characters/凌.md) [[楞]] 
 
 ### 리 
-[[俚]] [莉](characters/莉.md) [俐](characters/俐.md) [[唎]] [浬](characters/浬%20(char).md) [[籬]] [罹](characters/罹.md) [羸](characters/羸.md) [釐](characters/厘%20(char).md) [[涖]] [[𢻠]] [犂](characters/犂.md) [[摛]] 
+[[俚]] [莉](characters/莉.md) [俐](characters/俐.md) [[唎]] [浬](characters/浬%20(char).md) [[籬]] [罹](characters/罹.md) [羸](characters/羸.md) [釐](characters/厘%20(char).md) [[涖]] [[𢻠]] [犂](characters/犂.md) [[摛]] [狸](characters/狸%20(char).md) [鯉](characters/鯉.md)
 
 ### 린 
-[[潾]] [[璘]] [麟](characters/麟.md) [吝](characters/吝.md)  [[藺]] [[躪]] [鱗](characters/鱗%20(char).md) [[撛]] [獜](characters/麟.md) [燐](characters/燐.md) <-- 磷, 鏻
+[[潾]] [[璘]] [麟](characters/麟.md) [吝](characters/吝.md)  [[藺]] [[躪]] [鱗](characters/鱗%20(char).md) [[撛]] [[獜]] [燐](characters/燐.md) <-- 磷, 鏻
 
 ### 림 
 [琳](characters/琳.md) [霖](characters/林%20(char).md) [淋](characters/淋%20(char).md) [[棽]] [碄](characters/林%20(char).md) [[晽]]

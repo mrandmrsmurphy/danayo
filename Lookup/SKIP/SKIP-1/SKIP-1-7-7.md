@@ -23,7 +23,7 @@ tags:
 11. <ruby>[酷](characters/酷.md)<rt>ㄎㄛㄎ</rt></ruby> "cruel"
 12. <ruby>[酸](characters/酸%20(char).md)<rt>ㄙ⺢ㄋ</rt></ruby> "acidic, sour"
 13. <ruby>[輔](characters/輔.md)<rt>ㄅㄨ</rt></ruby> "assist"
-14. <ruby>[輒](characters/輒.md)<rt>ㄐㄛㄆ</rt></ruby> "chariot's weapons pouch"
+14. <ruby>[輒](characters/輒.md)<rt>ㄐㄛㄆ</rt></ruby> "then, always"
 15. <ruby>[踊](characters/踊.md)<rt>⼄ㄫ</rt></ruby> "jump"
 16. <ruby>[辣](characters/辣%20(char).md)<rt>ㄌㄚㄊ</rt></ruby> "spicy, hot, cruel"
 17. <ruby>[疑](characters/疑.md)<rt>ㄧ</rt></ruby> "doubt, question"

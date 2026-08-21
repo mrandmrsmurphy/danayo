@@ -1395,7 +1395,7 @@ tags: [lookup]
 [[換 (char)]]: 1
 [换](../../characters/換%20(char).md): 1
 [[骄]]: 1
-[驕](../../characters/蕎.md): 1
+[[驕]]: 1
 [[叫 (char)]]: 1
 [[授]]: 1
 [[触]]: 1

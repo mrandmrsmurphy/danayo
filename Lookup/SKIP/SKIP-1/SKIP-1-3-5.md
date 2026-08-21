@@ -23,7 +23,7 @@ tags:
 11. <ruby>[姂](characters/姂.md)<rt>ㄅㄛㄆ</rt></ruby> "beautiful, quiet (of a woman)"
 12. <ruby>[姉](characters/姉%20(char).md)<rt>ㄐㄚ</rt></ruby> "elder sister"
 13. <ruby>[始](characters/始.md)<rt>ㄙㄧ</rt></ruby> "begin"
-14. <ruby>[姏](characters/姏.md)<rt>ㄇㄛㄇ</rt></ruby> "great-grandmother"
+14. <ruby>[姏](characters/姏.md)<rt>ㄇㄛㄇ</rt></ruby> "old woman"
 15. <ruby>[姑](characters/姑.md)<rt>ㄍㄛ</rt></ruby> "paternal aunt"
 16. <ruby>[姓](characters/姓.md)<rt>ㄙㄧㄫ</rt></ruby> "surname"
 17. <ruby>[孤](characters/孤.md)<rt>ㄍㄛ</rt></ruby> "lone, lonely"
