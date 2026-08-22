@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 ## Characters
-1. <ruby>[夹](characters/夹.md)<rt>ㄍ⼘ㄆ</rt></ruby> - clip
+1. <ruby>[夹](characters/夹.md)<rt>ㄍ⼘ㄆ</rt></ruby> - squeeze between; clip
 2. <ruby>[寿](characters/寿.md)<rt>ㄙ⼜</rt></ruby> - lifespan
 3. <ruby>[良](characters/良.md)<rt>ㄌ⼘ㄫ</rt></ruby> - kind, type
 

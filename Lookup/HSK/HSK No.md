@@ -2,6 +2,7 @@
 tags: [lookup]
 ---
 ## List
+[灸](../../characters/灸.md)
 [祠](../../characters/祠.md)
 [堵](../../characters/堵.md)
 [肭](../../characters/肭.md)
@@ -473,7 +474,6 @@ tags: [lookup]
 [[雛]]
 [[蝙]]
 [[蝠]]
-[[橙]]
 [苺 (char)](../../characters/苺%20(char).md)
 [[俘]]
 [[毘]]
@@ -498,6 +498,7 @@ tags: [lookup]
 [[沐]]
 [[寵]]
 [[劭]]
+[勁](../../characters/勁.md)
 [[櫂]]
 [[簞]]
 [[焚]]
@@ -549,6 +550,7 @@ tags: [lookup]
 [鼈 (char)](characters/鼈%20(char).md)
 [埴](characters/埴.md)
 [漑](characters/漑.md)
+[漕](characters/漕.md)
 [鮐](characters/鮐.md)
 [[鯤]]
 [[雍]]
@@ -602,7 +604,6 @@ tags: [lookup]
 [[捷]]
 [[洵]]
 [訥 (char)](../../characters/訥%20(char).md)
-[[瀕]]
 [裟](characters/沙%20(char).md)
 [[膏]]
 [鸞](characters/鵉.md)
@@ -644,7 +645,6 @@ tags: [lookup]
 [[鬚]]
 [[玲]]
 [[洸]]
-[[桔]]
 [[翔]]
 [筈 (char)](../../characters/筈%20(char).md)
 [[焰]]
@@ -661,7 +661,6 @@ tags: [lookup]
 [[徽]]
 [[瑁]]
 [[玳]]
-[[燦]]
 [銓](../../characters/選.md)
 [[瞼]]
 [[彖]]
@@ -871,6 +870,21 @@ tags: [lookup]
 [荊](../../characters/荊.md)
 [羌](../../characters/羌.md)
 [輒](../../characters/輒.md)
+[冴](../../characters/冴.md)
+[凰](../../characters/凰.md)
+[勻](../../characters/勻.md)
+[嘴](../../characters/嘴.md)
+[夹](../../characters/夹.md)
+[嵩](../../characters/嵩.md)
+[庾](../../characters/庾.md)
+[弛](../../characters/弛.md)
+[懶](../../characters/懶.md)
+[[昴]]
+[柊](../../characters/柊.md)
+[槙](../../characters/槙.md)
+[樺](../../characters/樺.md)
+[檬](../../characters/檬.md)
+[檸](../../characters/檸.md)
 
 ## Datacheck
 ```base

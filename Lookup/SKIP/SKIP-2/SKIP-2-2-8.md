@@ -15,7 +15,7 @@ tags: [lookup]
 3. <ruby>[冥](characters/冥%20(char).md)<rt>ㄇㄝㄫ</rt></ruby> "dark; gloomy"
 4. <ruby>[夏](characters/夏%20(char).md)<rt>ㄏ⼘</rt></ruby> "summer"
 5. <ruby>[恋](characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> "romance; romantic love"
-6. <ruby>[旁](/characters/旁.md)<rt>ㄅㄚㄫ</rt></ruby> "right part of a character"
+6. <ruby>[旁](/characters/旁.md)<rt>ㄅㄚㄫ</rt></ruby> "side; beside"
 7. <ruby>[桑](/characters/桑.md)<rt>ㄙㄚㄫ</rt></ruby> "mulberry"
 8. <ruby>[畜](/characters/畜.md)<rt>ㄑㄨㄎ</rt></ruby> "livestock"
 9. <ruby>[真](characters/真%20(char).md)<rt>ㄐㄧㄋ</rt></ruby> "true"

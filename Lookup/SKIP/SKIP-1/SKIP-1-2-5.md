@@ -31,7 +31,7 @@ tags:
 19. <ruby>[体](characters/体.md)<rt>ㄊㄝㄧ</rt></ruby> "group"
 20. <ruby>[佞](characters/佞.md)<rt>ㄋㄝㄫ</rt></ruby> "flattery"
 21. <ruby>[冷](characters/冷%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> "cool"
-22. <ruby>[冴](characters/冴.md)<rt>ㄏㄛ</rt></ruby> "freeze"
+22. <ruby>[冴](characters/冴.md)<rt>ㄏㄛ</rt></ruby> "freeze; clear, sharp"
 23. <ruby>[冶](characters/冶.md)<rt>⼘</rt></ruby> "smelt"
 
 ## Datacheck

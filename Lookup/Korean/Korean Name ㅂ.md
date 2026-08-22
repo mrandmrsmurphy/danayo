@@ -13,7 +13,7 @@ These have all been checked for redirects.
  [[潑]] [鉢 (char)](characters/鉢%20(char).md) [[渤]] [勃](characters/勃.md) [撥](../../characters/発%20(char).md) [[跋]] [醱](characters/発%20(char).md) [魃](characters/災.md) 
 
 ### 방 
- [坊](characters/坊.md) [彷](characters/彷.md) [[昉]] [龐](characters/龐.md) [[榜]] [[尨]] [旁](characters/旁.md) [[枋]] [[滂]] [[磅]] [紡 (char)](characters/紡%20(char).md) [肪 (char)](characters/肪%20(char).md) [膀](../../characters/旁.md) [[舫]] [[蒡]] [蚌](characters/蜂%20(char).md) [謗](characters/謗.md) [幫](characters/幇.md) 
+ [坊](characters/坊.md) [彷](characters/彷.md) [[昉]] [龐](characters/龐.md) [[榜]] [[尨]] [旁](characters/旁.md) [[枋]] [[滂]] [[磅]] [紡 (char)](characters/紡%20(char).md) [肪 (char)](characters/肪%20(char).md) [[膀]] [[舫]] [[蒡]] [蚌](characters/蜂%20(char).md) [謗](characters/謗.md) [幫](characters/幇.md) 
 
 ### 배 
  [陪 (char)](characters/陪%20(char).md) [裴](characters/裴.md) [[湃]] [俳](characters/俳.md) [[徘]] [[焙]] [[胚]] [[褙]] [賠](characters/賠.md) [北](characters/北.md)
@@ -58,7 +58,7 @@ These have all been checked for redirects.
  [俸](characters/俸.md) [捧 (char)](characters/捧%20(char).md) [[琫]] [[烽]] [棒](characters/棒.md) [蓬](characters/蓬.md) [鋒](characters/鋒.md) [[熢]] [縫](characters/縫.md) 漨!
 
 ### 부 
- [孚](characters/孚.md) [[芙]] [傅](characters/傅.md) [[characters/溥]] [敷 (char)](characters/敷%20(char).md) [復](characters/復.md) [不 (char)](characters/不%20(char).md) [俯](characters/俯.md) [剖](characters/剖.md) [咐](../../characters/付.md) [埠](characters/埠.md) [孵](characters/孚.md) [斧](characters/斧.md) [缶](characters/缶.md) [腑](characters/府.md) [艀](characters/孚.md) [[莩]] [訃](characters/訃.md) [[賻]] [[趺]] [俘](characters/俘.md)
+ [孚](characters/孚.md) [[芙]] [傅](characters/傅.md) [[characters/溥]] [敷 (char)](characters/敷%20(char).md) [復](characters/復.md) [不 (char)](characters/不%20(char).md) [俯](characters/俯.md) [剖](characters/剖.md) [咐](../../characters/付.md) [埠](characters/埠.md) [孵](characters/孚.md) [斧](characters/斧.md) [缶](characters/缶.md) [腑](characters/府.md) [[艀]] [[莩]] [訃](characters/訃.md) [[賻]] [[趺]] [俘](characters/俘.md)
 
 ### 분 
  [[汾]] [芬](characters/芬.md) [盆 (char)](characters/盆%20(char).md) [[吩]] [噴](characters/噴.md) [忿](characters/憤.md) [扮 (char)](characters/扮%20(char).md) [[昐]] [焚](characters/焚.md) [糞 (char)](characters/糞%20(char).md) [賁](characters/賁.md) [雰](characters/雰.md) 

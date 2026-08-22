@@ -14,7 +14,7 @@ tags: [lookup]
 2. <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> - meeting hall
 3. <ruby>[[堕]]<rt>ㄙㄨㄧ</rt></ruby> - degenerate, corrupted
 4. <ruby>[[娶]]<rt>ㄑㄨ </rt></ruby> - marry
-5. <ruby>[[婁]]<rt>ㄌㄨ </rt></ruby> - wear, bond
+5. <ruby>[[婁]]<rt>ㄌㄨ </rt></ruby> - wear, bond, drag
 6. <ruby>[[婆]]<rt>ㄅㄚ </rt></ruby> - granny (paternal)
 7. <ruby>[[彗]]<rt>ㄏㄝ </rt></ruby> - comet
 8. <ruby>[[雪 (char)|雪]]<rt>ㄙ⼔ㄊ</rt></ruby> - snow

@@ -70,7 +70,7 @@ All have been checked for redirects.
 [[晹]] [繹](characters/䋇%20(char).md) 
 
 ### 연 
-[衍](characters/延.md) [淵](characters/淵.md) [[姸]] [[娟]] [[涓]] [[沇]] [[筵]] [[瑌]] [[娫]] [嚥](../../characters/咽.md) [[堧]] [[捐]] [[挻]] [[椽]] [[涎]] [[縯]] [鳶](characters/鳶%20(char).md) [硯](characters/硯.md) [[曣]] [[㜣]] [[醼]] [[兗]] [[嬿]] [[莚]] [[瓀]] [[兗]] ([[兖]]) [[娟]] ([[姢]])  [硯](characters/硯.md) ([䂩](characters/硯.md)) [燕](characters/燕.md)
+[衍](characters/延.md) [淵](characters/淵.md) [妍](characters/妍.md) [姸](characters/妍.md) [[娟]] [[涓]] [[沇]] [[筵]] [[瑌]] [[娫]] [嚥](../../characters/咽.md) [[堧]] [[捐]] [[挻]] [[椽]] [[涎]] [[縯]] [鳶](characters/鳶%20(char).md) [硯](characters/硯.md) [[曣]] [[㜣]] [[醼]] [[兗]] [[嬿]] [[莚]] [[瓀]] [[兗]] ([[兖]]) [[娟]] ([[姢]])  [硯](characters/硯.md) ([䂩](characters/硯.md)) [燕](characters/燕.md)
 
 ### 열 
 說 --> 説 [咽](characters/咽.md) [[潱]] 
@@ -155,7 +155,7 @@ All have been checked for redirects.
 [尉](characters/尉%20(char).md) [韋](characters/韋.md) [[瑋]] [[暐]] [[渭]] [魏](characters/魏.md) [萎](characters/萎.md) [葦](characters/葦.md) [[蔿]] [[蝟]] [[褘]] [衞](characters/衛.md) 
 
 ### 유 
-[侑](characters/侑.md) [[洧]] [宥](characters/有%20(char).md) [庾](characters/庾.md) [喩](characters/喩.md) [兪 (char)](../../characters/兪%20(char).md) [[楡]] [瑜](characters/揄.md) [猷](characters/猶%20(char).md) [[濡]] [愉](characters/愉.md) [[秞]] [[攸]] [[柚]] [[琟]] [釉](characters/釉.md) [孺](characters/儒.md) [揄](characters/揄.md) [楢](characters/楢.md) [游](characters/遊.md) [癒](characters/癒.md) [臾](characters/庾.md) [[萸]] [[諛]] [諭](characters/諭.md) [踰](characters/逾.md) [[蹂]] [逾](characters/逾.md) [[鍮]] [[曘]] [[婑]] [[囿]] [[牖]] [[逌]] [[姷]] [[聈]] [蝓](characters/蝓.md)
+[侑](characters/侑.md) [[洧]] [宥](characters/有%20(char).md) [庾](characters/庾.md) [喩](characters/喩.md) [兪 (char)](../../characters/兪%20(char).md) [[楡]] [[瑜]] [猷](characters/猶%20(char).md) [[濡]] [愉](characters/愉.md) [[秞]] [[攸]] [[柚]] [[琟]] [釉](characters/釉.md) [孺](characters/儒.md) [揄](characters/揄.md) [楢](characters/楢.md) [游](characters/遊.md) [癒](characters/癒.md) [[臾]] [[萸]] [[諛]] [諭](characters/諭.md) [踰](characters/逾.md) [[蹂]] [逾](characters/逾.md) [[鍮]] [[曘]] [[婑]] [[囿]] [[牖]] [[逌]] [[姷]] [[聈]] [蝓](characters/蝓.md)
 
 ### 육 
 [[堉]] [[毓]]
@@ -188,7 +188,7 @@ All have been checked for redirects.
 [倚](characters/倚%20(char).md) [誼](characters/誼.md) [毅](characters/毅.md) [擬](characters/擬%20(char).md) [懿](characters/懿.md) [椅](characters/椅.md) [[艤]] [[薏]] [蟻](characters/蛾%20(char).md)
 
 ### 이 
-[[珥]] [伊](characters/伊.md) [易](characters/易.md) [弛](characters/施.md) [[怡]] [爾 (char)](characters/爾%20(char).md) [[彝]] [頤](../../characters/頤.md) [姨](characters/姨.md) [[痍]] [[肄]] [[苡]] [[荑]] [[貽]] [邇](characters/爾%20(char).md) [飴](characters/飴.md) [貳](characters/貳%20(char).md) [[媐]] [[杝]] [[䏪]] [[㛅]] [[珆]] [[鴯]] [[彝]] ([[彛]]) [胰](characters/胰.md)
+[[珥]] [伊](characters/伊.md) [易](characters/易.md) [弛](characters/弛.md) [[怡]] [爾 (char)](characters/爾%20(char).md) [[彝]] [頤](../../characters/頤.md) [姨](characters/姨.md) [[痍]] [[肄]] [[苡]] [[荑]] [[貽]] [邇](characters/爾%20(char).md) [飴](characters/飴.md) [貳](characters/貳%20(char).md) [[媐]] [[杝]] [[䏪]] [[㛅]] [[珆]] [[鴯]] [[彝]] ([[彛]]) [胰](characters/胰.md)
 
 ### 익 
 [[翊]] [[瀷]] [謚](characters/諡.md) [翌](characters/翌%20(char).md) [[熤]]

@@ -10,7 +10,7 @@ All of these have been checked for redirects.
 [珞](characters/絡%20(char).md) [酪](characters/酪.md) [烙](characters/落.md) [駱](characters/駱.md) [洛](characters/洛.md)
 
 ### 란
-[瀾](characters/乱.md) 瓓 [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md) [蘭](characters/蘭.md)
+[瀾](characters/乱.md) 瓓 [欒](characters/栾.md) [鸞](characters/鵉.md) [爛](characters/爛.md) [蘭](characters/蘭.md) [懶](characters/懶.md)
 
 ### 랄
 [剌](characters/剌.md) [辣](characters/辣%20(char).md)
@@ -22,7 +22,7 @@ All of these have been checked for redirects.
 [拉](characters/拉%20(char).md) [[characters/臘]] [蠟](../../characters/蠟.md)
 
 ### 랑 
-[琅](characters/瑯.md) [瑯](characters/瑯.md) [狼](characters/狼%20(char).md) [朗](characters/朗.md) [[烺]] [蜋](characters/螂.md)
+[琅](characters/瑯.md) [瑯](characters/瑯.md) [狼](characters/狼%20(char).md) [朗](characters/朗.md) [[烺]] [蜋](characters/螂.md) [榔](characters/榔.md)
 
 ### 래 
 [[崍]] [萊](characters/莱.md) [[徠]] 

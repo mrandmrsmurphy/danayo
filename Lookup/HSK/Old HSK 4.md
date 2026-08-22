@@ -2339,7 +2339,7 @@ tags: [lookup]
 [艺](../../characters/芸.md): 1
 [藝](../../characters/芸.md): 1
 [瘦](../../characters/痩%20(char).md): 1
-[舒](../../characters/抒.md): 1
+[[舒]]: 1
 [竖](../../characters/豎.md): 1
 [[豎]]: 1
 [帅](../../characters/帥.md): 1

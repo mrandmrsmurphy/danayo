@@ -13,7 +13,7 @@ tags:
 1. <ruby>[旅](characters/旅.md)<rt>ㄌ⼄</rt></ruby> "travel"
 2. <ruby>[時](characters/時%20(char).md)<rt>ㄙㄧ</rt></ruby> "when"
 3. <ruby>[晒](characters/晒%20(char).md)<rt>ㄙ⼘ㄧ</rt></ruby> "expose"
-4. <ruby>[晦](characters/晦.md)<rt>ㄏㄛㄧ</rt></ruby> "obscure"
+4. <ruby>[晦](characters/晦.md)<rt>ㄏㄛㄧ</rt></ruby> "dark, obscure; last day of the lunar month"
 5. <ruby>[朕](characters/朕%20(char).md)<rt>ㄐㄨㄇ</rt></ruby> "we (royal)"
 6. <ruby>[栓](characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> "peg"
 7. <ruby>[株](characters/株%20(char).md)<rt>ㄉㄨ</rt></ruby> "stock"

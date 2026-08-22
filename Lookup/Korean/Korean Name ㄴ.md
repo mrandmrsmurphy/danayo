@@ -27,6 +27,9 @@ These have all been checked for redirects.
 ### 년  
 [[撚]]
 
+### 녈  
+[涅](characters/涅.md)
+
 ### 념  
 [[恬]] [[拈]] [捻](characters/捻%20(char).md)
 

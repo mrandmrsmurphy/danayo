@@ -563,7 +563,7 @@ tags: [lookup]
 [拾](../../characters/拾.md): 1
 [錶](../../characters/表.md): 1
 [首](../../characters/首.md): 1
-[舒](../../characters/抒.md): 1
+[[舒]]: 1
 [數](../../characters/数.md): 1
 [平](../../characters/平.md): 1
 [想](../../characters/想.md): 1

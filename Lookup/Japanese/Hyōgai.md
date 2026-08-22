@@ -503,6 +503,40 @@ tags: [lookup]
 499. [羌](../../characters/羌.md)
 500. [輒](../../characters/輒.md)
 501. [雍](../../characters/雍.md)
+502. [劭](../../characters/劭.md)
+503. [勻](../../characters/勻.md)
+504. [卞](../../characters/卞.md)
+505. [噫](../../characters/噫.md)
+506. [夹](../../characters/夹.md)
+507. [妍](../../characters/妍.md)
+508. [婁](../../characters/婁.md)
+509. [孚](../../characters/孚.md)
+510. [彿](../../characters/彿.md)
+511. [庾](../../characters/庾.md)
+512. [彖](../../characters/彖.md)
+513. [懶](../../characters/懶.md)
+514. [戈](../../characters/戈.md)
+515. [扈](../../characters/扈.md)
+516. [拖](../../characters/拖.md)
+517. [愨](../../characters/愨.md)
+518. [揀](../../characters/揀.md)
+519. [揖](../../characters/揖.md)
+520. [撐](../../characters/撐.md)
+521. [撹](../../characters/撹.md)
+522. [擲](../../characters/擲.md)
+523. [擺](../../characters/擺.md)
+524. [敖](../../characters/敖.md)
+525. [旁](../../characters/旁.md)
+526. [暋](../../characters/暋.md)
+527. [杞](../../characters/杞.md)
+528. [柯](../../characters/柯.md)
+529. [橄](../../characters/橄.md)
+530. [檠](../../characters/檠.md)
+531. [檬](../../characters/檬.md)
+532. [檳](../../characters/檳.md)
+533. [檸](../../characters/檸.md)
+534. [欖](../../characters/欖.md)
+535. [洙](../../characters/洙.md)
 
 
 [[../../characters/吠]] - barking DO IT
@@ -572,7 +606,6 @@ tags: [lookup]
 - 眩 --> 玄
 - 崗 --> 岡
 - 邇 --> 爾
-- 膀 --> 旁
 - 歎 --> 嘆
 - 筑 --> 築
 - 蹟 --> 跡

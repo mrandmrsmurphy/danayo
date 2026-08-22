@@ -15,7 +15,7 @@ tags: [lookup]
 3. <ruby>[告](/characters/告.md)<rt>ㄍㄚㄨ</rt></ruby> "inform"
 4. <ruby>[呑](/characters/呑.md)<rt>ㄊㄚㄋ</rt></ruby> "swallow; absorb; annex; engulf"
 5. <ruby>[妥](/characters/妥.md)<rt>ㄊㄚ</rt></ruby> "appropriate; proper"
-6. <ruby>[孚](/characters/孚.md)<rt>ㄈㄨ</rt></ruby> "confident; sincere"
+6. <ruby>[孚](/characters/孚.md)<rt>ㄈㄨ</rt></ruby> "confident; sincere; to hatch"
 7. <ruby>[巠](/characters/巠.md)<rt>ㄍㄝㄫ</rt></ruby> "underground stream"
 8. <ruby>[弄](characters/弄%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> "tamper with; mess with"
 9. <ruby>[忠](/characters/忠.md)<rt>ㄊㄨㄫ</rt></ruby> "loyalty; devotion; fidelity"

@@ -33,7 +33,7 @@ Checked for redirects
 [牲](characters/牲.md) [甥 (char)](characters/甥%20(char).md) [省 (char)](characters/省%20(char).md) [笙](characters/笙.md) 
 
 ### 서  
-[抒](characters/抒.md) [舒](characters/抒.md) [[../../characters/瑞]] [棲](characters/棲.md) [[曙]] [[壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
+[抒](characters/抒.md) [[舒]] [[../../characters/瑞]] [棲](characters/棲.md) [[曙]] [[壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
 [[../../characters/屿]] ([[㠘]]) [胥](characters/胥.md) ([縃](characters/胥.md)) [[諝]] ([[𧩑]])
 
 ### 석  
@@ -61,7 +61,7 @@ Checked for redirects
 [貰](characters/貰.md) !笹! [說](characters/説.md) [[忕]] [洒 (char)](characters/洒%20(char).md) [[涗]] [[𡜧]] 
 
 ### 소 
-[沼](characters/沼.md) [[炤]] [紹](characters/紹.md) [邵](characters/邵.md) [韶](characters/劭.md) [巢](characters/巣.md) [遡](characters/遡.md) [[柖]] [[玿]] [嘯](characters/粛.md) [塑](characters/塑.md) [宵](characters/宵.md) [搔](characters/掻%20(char).md) [梳 (char)](characters/梳%20(char).md) [[瀟]] [[瘙]] [篠](characters/篠.md) [簫](characters/簫.md) [蕭](characters/䔥.md) [逍](characters/逍.md) [[銷]] [[愫]] [[穌]] [[卲]] [霄](characters/肖.md) [劭](characters/劭.md)  [穌](characters/蘇.md) ([甦](characters/蘇.md)) [霄](characters/宵.md) ([䨭](characters/宵.md))
+[沼](characters/沼.md) [[炤]] [紹](characters/紹.md) [邵](characters/邵.md) [[韶]] [巢](characters/巣.md) [遡](characters/遡.md) [[柖]] [[玿]] [嘯](characters/粛.md) [塑](characters/塑.md) [宵](characters/宵.md) [搔](characters/掻%20(char).md) [梳 (char)](characters/梳%20(char).md) [[瀟]] [[瘙]] [篠](characters/篠.md) [簫](characters/簫.md) [蕭](characters/䔥.md) [逍](characters/逍.md) [[銷]] [[愫]] [[穌]] [[卲]] [霄](characters/肖.md) [劭](characters/劭.md)  [穌](characters/蘇.md) ([甦](characters/蘇.md)) [霄](characters/宵.md) ([䨭](characters/宵.md))
 
 ### 속 
 [[涑]] [[謖]] [贖](characters/贖.md) 

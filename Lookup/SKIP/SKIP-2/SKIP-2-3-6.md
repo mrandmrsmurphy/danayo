@@ -18,7 +18,7 @@ tags:
 6. <ruby>[客](characters/客.md)<rt>ㄎㄚㄎ</rt></ruby> "guest"
 7. <ruby>[宣](characters/宣.md)<rt>ㄙㄝㄋ</rt></ruby> "announce"
 8. <ruby>[室](characters/室.md)<rt>ㄙㄧㄊ</rt></ruby> "room"
-9. <ruby>[彖](characters/彖.md)<rt>ㄊㄚㄋ</rt></ruby> "hedgehog"
+9. <ruby>[彖](characters/彖.md)<rt>ㄊㄚㄋ</rt></ruby> "judge, determine"
 10. <ruby>[炭](characters/炭%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> "charcoal"
 11. <ruby>[窃](characters/窃.md)<rt>ㄑㄝㄊ</rt></ruby> "steal"
 12. <ruby>[美](characters/美%20(char).md)<rt>ㄇㄧ</rt></ruby> "beautiful"

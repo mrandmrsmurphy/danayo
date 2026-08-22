@@ -30,7 +30,7 @@ tags:
 18. <ruby>[将](characters/将%20(char).md)<rt>ㄐ⺢ㄫ</rt></ruby> "will"
 19. <ruby>[峨](characters/峨.md)<rt>ㄚ</rt></ruby> "lofty"
 20. <ruby>[峰](characters/峰.md)<rt>ㄈㄛㄫ</rt></ruby> "summit"
-21. <ruby>[峻](characters/峻.md)<rt>ㄙ⼜ㄋ</rt></ruby> "steep"
+21. <ruby>[峻](characters/峻.md)<rt>ㄙ⼜ㄋ</rt></ruby> "steep; strict, severe"
 22. <ruby>[徐](characters/徐.md)<rt>ㄙ⼄</rt></ruby> "slowly"
 23. <ruby>[徒](characters/徒.md)<rt>ㄉㄛ</rt></ruby> "disciple"
 24. <ruby>[従](characters/従%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> "obey"

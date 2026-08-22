@@ -449,7 +449,7 @@ tags: [lookup]
 443. [幡](../../characters/幡.md)
 444. [庇](../../characters/庇.md)
 445. [庵](../../characters/庵.md)
-446. [弛](../../characters/施.md)
+446. [弛](../../characters/弛.md)
 447. [彗](../../characters/彗.md)
 448. [彦](../../characters/彦.md)
 449. [彪](../../characters/彪.md)
