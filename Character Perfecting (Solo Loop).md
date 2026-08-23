@@ -955,3 +955,21 @@ Next never-perfected character by `danayo_id`: 菩 (8603; 187 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, a bare unlinked-format Words bullet folded into Notes instead of its own section, no SKIP/Stroke bullet, no mc_id bullet, no four-level-links bullet) into the standard `## Notes` four-bullet format plus a proper `## Words` section. A chengyu-citation grep hit, [[chengyu/色即是空|色即是空]], checked out as a false positive (prose mention only). Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 菫 (8604; 186 characters remaining).
+
+### 2026-08-23, iteration 2318 — [[characters/菫|菫]]
+
+`radical: 艸` reconfirmed correct — genuine listing (item 53) on `Lookup/Radicals/Radical 140.md`. `cantonese: gan2` reconfirmed correct. `japanese_native: すみれ` reconfirmed correct. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 316. `hsk_level: 無` reconfirmed correct — present on `Lookup/HSK/HSK No.md`. `stand_in: 名専字` reconfirmed correct — zero hits in `words/`. `aliases` entries `槿`/`瑾`/`嫤` reconfirmed correct as this vault's established convention — `Lookup/Korean/Korean Name ㄱ.md` explicitly redirects all three to this page rather than giving them independent pages, even though they're technically distinct phonetic derivatives; left as-is, out of scope to restructure. `mc_id: 6203` reconfirmed as trusted long-tail (>4000, not cross-checked per policy).
+
+**`graphemic_classification` self-reference bug found and fixed**: stored `菫` — the character citing *itself* as its own phonetic component, which is structurally impossible. Both en.Wiktionary and zh.Wiktionary independently describe 菫 as a corruption of [[堇]] with 艸 added as the semantic radical, making 堇 the true phonetic root. Corrected to `堇`; since 堇 has no independent page in this vault, added it to `aliases` instead (a genuine orthographic variant, distinct from the phonetic-derivative redirects already there).
+
+**`japanese` completeness gap found and fixed**: was `[KIN]` (kan-on) only; both ja.Wiktionary and zh.Wiktionary independently attest a genuine go-on, `GON`; added.
+
+**`vietnamese` bug found and fixed**: stored `[càn, cần, cẩn, cận, ngẩn, đổng]`; hvdic.thivien.net's genuine readings are exactly `càn, cần, cận, ngẩn` — `cẩn` and `đổng` appear in neither hvdic nor the day's other sources and were removed as unattested.
+
+**`english` completeness gap found and fixed**: was `[celery, aconite]` (both explicitly archaic senses); en.Wiktionary identifies "violet" as the character's primary modern meaning, corroborated by zh.Wiktionary's kun'yomi gloss すみれ ("violet"); added.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal senses.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke bullet, no mc_id bullet, no four-level-links bullet) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 萩 (8605; 185 characters remaining).
