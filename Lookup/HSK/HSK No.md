@@ -521,7 +521,6 @@ tags: [lookup]
 [[蕪]]
 [[蔓]]
 [[樽]]
-[[簾]]
 [[琢]]
 [[傀]]
 [[儡]]
@@ -651,7 +650,6 @@ tags: [lookup]
 [[胱]]
 [[鴦]]
 [[疱]]
-[[狽]]
 [[揶]]
 [竦 (char)](../../characters/竦%20(char).md)
 [[斟]]
@@ -885,6 +883,14 @@ tags: [lookup]
 [樺](../../characters/樺.md)
 [檬](../../characters/檬.md)
 [檸](../../characters/檸.md)
+[琳](../../characters/琳.md)
+[瘡](../../characters/瘡.md)
+[訛](../../characters/訛.md)
+[筍](../../characters/筍.md)
+[箏](../../characters/箏.md)
+[篠](../../characters/篠.md)
+[紗](../../characters/紗.md)
+[缸](../../characters/缸.md)
 
 ## Datacheck
 ```base

@@ -12,7 +12,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[疱](/characters/疱.md)<rt>ㄆㄚㄨ</rt></ruby> - acne
 2. <ruby>[疲](/characters/疲.md)<rt>ㄆㄧ</rt></ruby> - exhausted
-3. <ruby>[疽](/characters/疽.md)<rt>ㄐㄛ</rt></ruby> - ulcer
+3. <ruby>[疽](/characters/疽.md)<rt>ㄐㄜ</rt></ruby> - ulcer
 4. <ruby>[疾](/characters/疾.md)<rt>ㄐㄧㄊ</rt></ruby> - disease
 5. <ruby>[病](/characters/病.md)<rt>ㄅ⼶ㄫ</rt></ruby> - sickness
 6. <ruby>[症](/characters/症.md)<rt>ㄐㄧㄫ</rt></ruby> - disease

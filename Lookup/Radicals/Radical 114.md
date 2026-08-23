@@ -15,7 +15,7 @@ tags: [lookup]
 2. <ruby>[禺](../../characters/禺.md)<rt>ㄨ</rt></ruby> - long-tailed monkey
 
 ### +7 Strokes
-3. <ruby>[禼](../../characters/禼.md)<rt>ㄙㄝㄊ</rt></ruby> - old names
+3. <ruby>[禼](../../characters/禼.md)<rt>ㄙㄝㄊ</rt></ruby> - insect
 
 ### +8 Strokes
 4. <ruby>[禽](../../characters/禽.md)<rt>ㄎㄧㄇ</rt></ruby> - fowl

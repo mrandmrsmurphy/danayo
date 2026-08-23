@@ -483,6 +483,7 @@ tags: [lookup]
 477. [贋 (char)](../../characters/贋%20(char).md)
 478. [汎 (char)](../../characters/汎%20(char).md)
 479. [穆](../../characters/穆.md)
+480. [莱](../../characters/莱.md)
 
 ## Not Done
 

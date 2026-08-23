@@ -74,7 +74,7 @@ This have all be checked for redirects.
 ## ㅗ
 
 ### 호
-[[晧]] [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷.md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫](characters/胡.md) 蒿-->藁 [蝴](characters/胡.md) [[皞]] [[婋]] [[芐]] [[犒]] 
+晧-->皓 [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷.md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫](characters/胡.md) 蒿-->藁 [蝴](characters/胡.md) [[皞]] [[婋]] [[芐]] [[犒]] 
 
 ### 혹
 [酷](characters/酷.md)

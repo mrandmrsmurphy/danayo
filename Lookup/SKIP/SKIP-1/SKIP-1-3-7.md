@@ -68,7 +68,7 @@ tags:
 56. <ruby>[涙](characters/涙%20(char).md)<rt>ㄌㄨㄧ</rt></ruby> "tear"
 57. <ruby>[狸](characters/狸%20(char).md)<rt>ㄌㄜ</rt></ruby> "tanuki"
 58. <ruby>[狼](characters/狼%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> "wolf"
-59. <ruby>[狽](characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> "werewolf"
+59. <ruby>[狽](characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> "wolf-like beast"
 60. <ruby>[酒](characters/酒.md)<rt>ㄐㄨㄛ</rt></ruby> "alcohol"
 61. <ruby>[降](characters/降.md)<rt>ㄍㄚㄫ</rt></ruby> "descend"
 62. <ruby>[陛](characters/陛.md)<rt>ㄅㄝㄧ</rt></ruby> "steps of the throne"

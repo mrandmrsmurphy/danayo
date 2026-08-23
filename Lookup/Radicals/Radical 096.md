@@ -21,7 +21,7 @@ tags:
 4. <ruby>[玩](../../characters/玩.md)<rt>⺢ㄋ</rt></ruby> - toy
 
 ### +4 Strokes
-5. <ruby>[玲](../../characters/玲.md)<rt>ㄌㄝㄫ</rt></ruby> - jade
+5. <ruby>[玲](../../characters/玲.md)<rt>ㄌㄝㄫ</rt></ruby> - tinkling of jade
 6. <ruby>[玳](../../characters/玳.md)<rt>ㄉㄚㄧ</rt></ruby> - hawksbill sea turtle
 7. <ruby>[玻](../../characters/玻.md)<rt>ㄆㄚ</rt></ruby> - glass
 8. <ruby>[珀](../../characters/珀.md)<rt>ㄆㄚㄎ</rt></ruby> - amber

@@ -35,7 +35,7 @@ tags:
 23. <ruby>[炸](characters/炸.md)<rt>ㄐㄚㄎ</rt></ruby> "fried"
 24. <ruby>[牲](characters/牲.md)<rt>ㄙㄚㄫ</rt></ruby> "animal sacrifice"
 25. <ruby>[珍](characters/珍%20(char).md)<rt>ㄑㄧㄋ</rt></ruby> "rare"
-26. <ruby>[玲](characters/玲.md)<rt>ㄌㄝㄫ</rt></ruby> "jade"
+26. <ruby>[玲](characters/玲.md)<rt>ㄌㄝㄫ</rt></ruby> "tinkling of jade"
 27. <ruby>[玳](characters/玳.md)<rt>ㄉㄚㄧ</rt></ruby> "hawksbill sea turtle"
 28. <ruby>[玻](characters/玻.md)<rt>ㄆㄚ</rt></ruby> "glass"
 29. <ruby>[珀](characters/珀.md)<rt>ㄆㄚㄎ</rt></ruby> "amber (substance)"
