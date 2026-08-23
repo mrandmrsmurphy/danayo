@@ -973,3 +973,31 @@ Next never-perfected character by `danayo_id`: 菫 (8604; 186 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke bullet, no mc_id bullet, no four-level-links bullet) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 萩 (8605; 185 characters remaining).
+
+### 2026-08-23, iteration 2319 — [[characters/萩|萩]]
+
+`graphemic_classification: 秋` (dual-source confirmed 形声, semantic 艸 + phonetic 秋) reconfirmed correct via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 59) on `Lookup/Radicals/Radical 140.md`. `cantonese: cau1` reconfirmed correct. `japanese_native: はぎ` reconfirmed correct. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 309. `hsk_level: 無` reconfirmed correct — present on `Lookup/HSK/HSK No.md`. `stand_in: 名専字` reconfirmed correct — zero hits in `words/`. `aliases` (blank) reconfirmed correct — zh.Wiktionary's single-sourced candidate 𦵒 wasn't corroborated by en.Wiktionary. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-9.md` (item 16) and `Lookup/Korean/Korean Name ㅊ.md`. `mc_id: 6055` reconfirmed as trusted long-tail (>4000, not cross-checked per policy).
+
+**`japanese` completeness gap found and fixed**: was `[SHUU]` (kan-on) only; both ja.Wiktionary and en.Wiktionary independently attest a genuine go-on, `SHU`; added.
+
+**`vietnamese` completeness gap found and fixed**: was `[tho, thu]`; hvdic.thivien.net's genuine readings additionally include a third Âm Nôm, `thưu`; added. En.Wiktionary's own candidate `thèm` wasn't corroborated by hvdic and stayed unadded.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (bush clover).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke bullet, no mc_id bullet, no four-level-links bullet) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 萱 (8606; 184 characters remaining).
+
+### 2026-08-23, iteration 2320 — [[characters/萱|萱]]
+
+`graphemic_classification: 宣` (dual-source confirmed 形声, semantic 艸 + phonetic 宣, OC \*qʰʷan) reconfirmed correct via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 61) on `Lookup/Radicals/Radical 140.md`. `cantonese: hyun1`, `japanese: [KEN]`, `japanese_native: かや`, `vietnamese: [hiên, huyên]` all reconfirmed complete and correct against both sources. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 310. `hsk_level: 無` reconfirmed correct — present on `Lookup/HSK/HSK No.md`. `stand_in: 名専字` reconfirmed correct — zero hits in `words/`. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-9.md` (item 18) and `Lookup/Korean/Korean Name ㅎ.md`. `mc_id: 9929` reconfirmed as trusted long-tail (>4000, not cross-checked per policy).
+
+**`english` completeness gap found and fixed**: was `[daylily, Hemerocallis flava]` only; both en.Wiktionary and zh.Wiktionary independently attest a genuine figurative sense, "mother" (from classical literature where the plant symbolizes maternal care); added.
+
+**`aliases` major completeness gap found and fixed**: had `藼` only; both en.Wiktionary and zh.Wiktionary independently attest the exact same additional four/five variant forms — `蕿`, `蘐`, `諼`, `谖`, `萲` — none with independent pages in this vault; added all.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal senses.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke bullet, no mc_id bullet, no four-level-links bullet) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 董 (8607; 183 characters remaining).
