@@ -1033,3 +1033,21 @@ Next never-perfected character by `danayo_id`: 葱 (8608; 182 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, `## Words` placed before Notes instead of after) into the standard `## Notes` four-bullet format, reordered before the pre-existing `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 蒐 (8609; 181 characters remaining).
+
+### 2026-08-23, iteration 2323 — [[characters/蒐|蒐]]
+
+`graphemic_classification: 會意` (dual-source confirmed ideogrammic compound, 艸 "grass" + 鬼 "ghost") reconfirmed correct via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 73) on `Lookup/Radicals/Radical 140.md`. `cantonese: sau1` reconfirmed correct and complete — en.Wiktionary's claimed second reading `sau2` wasn't corroborated by zh.Wiktionary. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 313. `hsk_level: 無` reconfirmed correct — present on `Lookup/HSK/HSK No.md`. `stand_in: 蒐集` reconfirmed correct — sole citer, the word's own independent page. `aliases` (blank) reconfirmed correct — zh.Wiktionary's single-sourced candidates (獀, 䕇) weren't corroborated by en.Wiktionary. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-10.md` (item 22) and `Lookup/Korean/Korean Name ㅅ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `2896` was actually 撥's rank; correct rank for 蒐 is `2897` (`CC 2000.md`: `2896. 撥`, `2897. 蒐`).
+
+**`japanese` completeness gap found and fixed**: was `[SHUU]` (kan'yō-on) only; both ja.Wiktionary and en.Wiktionary independently attest two further genuine on'yomi, go-on `SHU` and kan-on `SOU`; added.
+
+**`japanese_native` completeness gap found and fixed**: was `あかね` only; both sources independently attest two further genuine kun'yomi, `あつまる` and `あつめる`; added. En.Wiktionary's fourth candidate (かり) wasn't corroborated by ja.Wiktionary and stayed unadded.
+
+**`vietnamese` completeness gap found and fixed**: was `[cói]` only; hvdic.thivien.net attests a second genuine reading, the Âm Hán Việt `sưu`; added.
+
+**`pos` filled**: was blank. Filled as `事詞`, matching the dominant verbal senses (to collect, gather, assemble).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, `## Words` placed before Notes instead of after) into the standard `## Notes` four-bullet format, reordered before the pre-existing `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蒲 (8610; 180 characters remaining).
