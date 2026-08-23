@@ -1001,3 +1001,35 @@ Next never-perfected character by `danayo_id`: 萱 (8606; 184 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke bullet, no mc_id bullet, no four-level-links bullet) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 董 (8607; 183 characters remaining).
+
+### 2026-08-23, iteration 2321 — [[characters/董|董]]
+
+`graphemic_classification: 重` (dual-source confirmed 形声, semantic 艸 + phonetic 重, OC \*toːŋʔ) reconfirmed correct via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 66) on `Lookup/Radicals/Radical 140.md`. `mc_id: 1104` reconfirmed exact match (`CC 1000.md`: `1104. 董`). `cantonese: dung2` reconfirmed correct. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 147. `pos: 事詞` reconfirmed correct. `stand_in: 名専字` reconfirmed correct — zero hits in `words/`. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-9.md` (item 21) and `Lookup/Korean/Korean Name ㄷ.md`. A chengyu-citation grep hit, [[chengyu/三綱五常|三綱五常]], checked out as a false positive (董 appears only inside the name 董仲舒/Dong Zhongshu, not the chengyu's own four characters).
+
+**`hsk_level` bug found and fixed**: stored `4`, traced only to a colon-count entry on `Old HSK 4.md` (`[[董]]: 1`, not genuine). `Old HSK 6.md` has a genuine plain-numbered entry (`655. [[董]]`); corrected to `hsk_level: 6`.
+
+**`japanese` completeness gap found and fixed**: was `[TOU]` (kan-on) only; both ja.Wiktionary and en.Wiktionary independently attest a genuine go-on, `TSUU`; added.
+
+**`japanese_native` bug found and fixed**: stored `ただ`, a truncated fragment; both en.Wiktionary and ja.Wiktionary agree on the genuine full form `ただす`; corrected.
+
+**`vietnamese` bug found and fixed**: stored 8 readings; hvdic.thivien.net's genuine readings are exactly `đổng, dỏng, đỏng, đúng, rỗng, xổng` (6 total) — `đũng` and `đủng` appear only in en.Wiktionary's noisier, larger candidate list, not in hvdic (this vault's Vietnamese authority), and were removed.
+
+**`aliases` filled**: was blank. One genuine dual-source variant, [[蕫]], with no independent page in this vault; added. zh.Wiktionary's second candidate, 菫, already has its own independent page in this vault (perfected earlier this session) and correctly failed the alias test.
+
+Rebuilt the malformed `## Notes` (unlinked bare "Components" bullet instead of proper etymology, two floating unlinked CC wikilinks, no SKIP/Stroke bullet, no mc_id bullet, no four-level-links bullet) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 葱 (8608; 182 characters remaining).
+
+### 2026-08-23, iteration 2322 — [[characters/葱|葱]]
+
+`graphemic_classification: 怱` (dual-source confirmed 形声, semantic 艸 + phonetic 怱, OC \*sʰloːŋ) reconfirmed correct via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 68) on `Lookup/Radicals/Radical 140.md`. `vietnamese: [song, thông]` reconfirmed complete and exact against hvdic.thivien.net. `japanese_native: ねぎ` reconfirmed correct. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 224. `stand_in: 玉葱` reconfirmed correct — sole citer, the word's own independent page. `aliases: [蔥]` reconfirmed correct — genuine traditional form. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-9.md` (item 23) and `Lookup/Korean/Korean Name ㅊ.md`. `mc_id: 4105` reconfirmed as trusted long-tail (>4000, not cross-checked per policy).
+
+**`hsk_level` bug found and fixed**: stored `4`, traced only to colon-count entries on `Old HSK 4.md` (both `[[葱]]: 1` and `[蔥]: 1`, neither genuine) — thoroughly checked all four `Old HSK N.md` files and found no genuine plain-numbered entry anywhere, and 葱 was also entirely absent from `Lookup/HSK/HSK No.md`. Corrected to `hsk_level: 無` and added 葱 to `Lookup/HSK/HSK No.md`'s list.
+
+**`japanese` completeness gap found and fixed**: was `[SOU]` (kan-on) only; both ja.Wiktionary and en.Wiktionary independently attest a genuine go-on, `SU`; added.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal senses.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, `## Words` placed before Notes instead of after) into the standard `## Notes` four-bullet format, reordered before the pre-existing `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蒐 (8609; 181 characters remaining).
