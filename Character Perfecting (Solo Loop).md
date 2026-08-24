@@ -1083,3 +1083,39 @@ Next never-perfected character by `danayo_id`: 蓮 (char) (8611; 179 characters 
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no `## Words` section) into the standard `## Notes` four-bullet format plus a `## Words` section citing the stand-in word. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 蓼 (8612; 178 characters remaining).
+
+### 2026-08-23, iteration 2326 — [[characters/蓼|蓼]]
+
+`graphemic_classification: 翏` reconfirmed correct — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [[翏]]) via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 81) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 259, corroborated by ja.Wiktionary's own 表外漢字 classification. `hsk_level: 無` reconfirmed correct (character absent from all HSK sources). `stand_in: 蓼藍` reconfirmed correct — sole citer, the word's own independent page (`characters:` frontmatter genuinely cites 蓼). `japanese_native: たで` reconfirmed correct and complete. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-11.md` (item 12) and `Lookup/Korean/Korean Name ㄹ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `2844` was actually 韭's rank; correct rank for 蓼 is `2845` (`CC 2000.md`: `2844. 韭`, `2845. 蓼`).
+
+**False `aliases` entry found and removed**: stored `廖` — zh.Wiktionary explicitly lists it only as a character sharing the same phonetic component 翏 (a derived/related character, not an orthographic variant); en.Wiktionary does not mention it as a variant at all. Removed from `aliases` and documented the relationship in prose instead (廖 has no independent vault page to move to Derived Characters).
+
+**`japanese` completeness gap found and fixed**: was `[RYOU, RIKU]` only; both en.Wiktionary and ja.Wiktionary independently attest a third genuine on'yomi, go-on `ROKU`; added.
+
+**`vietnamese` completeness gap found and fixed**: was `[liễu]` only; hvdic.thivien.net attests two further genuine Âm Hán Việt readings, `liệu` and `lục`; added.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (knotweed).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蔓 (8613; 177 characters remaining).
+
+### 2026-08-23, iteration 2327 — [[characters/蔓|蔓]]
+
+`graphemic_classification: 曼` reconfirmed correct — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [[曼]]) via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 83) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 292, corroborated by ja.Wiktionary's own 人名用漢字 classification. `japanese_native: つる` reconfirmed correct and complete — en.Wiktionary's further candidates (のびる, かずら) and ja.Wiktionary's (はびこる) were each single-sourced and stayed unadded. `stand_in: 蔓延` reconfirmed correct — sole citer, the word's own independent page. `aliases` (blank) reconfirmed correct — neither source noted a variant form. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-11.md` (item 13) and `Lookup/Korean/Korean Name ㅁ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `3061` was actually 剄's rank; correct rank for 蔓 is `3062` (`CC 3000.md`: `3061. 剄`, `3062. 蔓`).
+
+**`hsk_level` bug found and fixed**: stored `4`, traced only to a colon-count entry on `Old HSK 4.md` (`[[蔓]]: 1`, not genuine) — checked all six `Old HSK N.md` files and found a genuine plain-numbered entry on `Old HSK 6.md` (`846.  [[蔓]]`). Corrected to `hsk_level: 6` and removed the now-contradicted entry from `Lookup/HSK/HSK No.md` (character was wrongly listed there as confirmed-無 despite the genuine Old HSK 6 evidence).
+
+**`japanese` completeness gap found and fixed**: was `[BAN, MAN]` only; both en.Wiktionary and ja.Wiktionary independently attest a third genuine on'yomi, go-on `MON`; added.
+
+**`vietnamese` over-inclusion bug found and fixed**: stored six readings `[man, màn, mơn, mạn, mớn, mởn]`; hvdic.thivien.net (sole Vietnamese authority) attests only three, `man`/`mạn` (Hán Việt) and `man`/`mơn` (Nôm) — the other three (`màn`, `mớn`, `mởn`), sourced only from en.Wiktionary, are not authoritative per policy and were removed; corrected to `[man, mạn, mơn]`.
+
+**`pos` filled**: was blank. Filled as `事詞`, matching the dominant verbal senses (to spread, grow, infect).
+
+Rebuilt the malformed `## Notes` (two floating unlinked CC wikilinks with no SKIP/Stroke/mc_id/four-links bullets) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蕃 (8614; 176 characters remaining).
