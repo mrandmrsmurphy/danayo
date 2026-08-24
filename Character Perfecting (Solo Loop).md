@@ -1327,3 +1327,55 @@ Next never-perfected character by `danayo_id`: 蜘 (8627; 164 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 蝙 (8628; 163 characters remaining).
+
+### 2026-08-23, iteration 2341 — [[characters/蝙|蝙]]
+
+`graphemic_classification: 扁` reconfirmed correct — dual-source confirmed 形声 (semantic 虫 "insect" + phonetic [[扁]]) via en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 26) on `Lookup/Radicals/Radical 142.md`. `korean: 편` reconfirmed correct despite diverging from the page's own `諺文: 번`/`羅馬字: ben` — matches `characters/扁.md`'s own `korean: 편` exactly (same phonetic series); the 諺文/羅馬字 divergence is this vault's own internal conlang-spelling system, not a reading error (same pattern seen on 蒐's page). `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `mc_id: 6048` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `japanese: [HEN]` reconfirmed correct and complete — go-on and kan-on both へん. `japanese_native: こうもり` reconfirmed correct. `stand_in: 蝙蝠` reconfirmed correct — sole citer, the word's own independent page; `#cranberry` tag reconfirmed valid — 蝙 carries the "bat" sense in its own right (matching [[蝠]]'s own independent sense) even though zh.Wiktionary notes it's never used solo in running text (usage-boundedness, not meaning, per this vault's redefined transitivity rule). `aliases` (blank) reconfirmed correct.
+
+**`joyo_level` bug found and fixed**: stored as an empty string (never determined); both en.Wiktionary and ja.Wiktionary independently confirm Hyōgai status. Corrected to `表外字` and added 蝙 to `Lookup/Japanese/Hyōgai.md` as item 551.
+
+**`vietnamese` completeness gap found and fixed**: was `[biển]` only; hvdic.thivien.net attests a second genuine Âm Hán Việt reading, `biên`; added.
+
+**`hanmun_edu_level` filled**: was blank. Filled as `名`, matching `grade_level: 名` (consistent with sibling insect-radical characters this session).
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (bat).
+
+**Missing Korean lookup entry found and added**: 蝙 was entirely absent from `Lookup/Korean/Korean Name ㅍ.md`'s `### 편` section despite the reading matching; added.
+
+Rebuilt the malformed `## Notes` (mixed bare-link and wikilink formats, floating unlinked CC wikilinks, a stray bare word bullet) into the standard four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蝠 (8629; 162 characters remaining).
+
+### 2026-08-23, iteration 2342 — [[characters/蝠|蝠]]
+
+`graphemic_classification: 畐` reconfirmed correct — the page's own pre-existing prose already documented the dual-source 形声 composition (semantic 虫 + phonetic 畐) and the extinct-pictogram caveat in detail; verified against en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 27) on `Lookup/Radicals/Radical 142.md`. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `mc_id: 6337` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `japanese: [FUKU]` reconfirmed correct and complete — go-on and kan-on both フク, per ja.Wiktionary (corroborated by hvdic's cross-reference listing). `vietnamese: [bức]` reconfirmed complete and exact against hvdic.thivien.net. `stand_in: 蝙蝠` reconfirmed correct — sole citer, the word's own independent page; `#cranberry` tag reconfirmed valid (same transitivity as [[蝙]]: A=B=AB). `aliases` (blank) reconfirmed correct. Already correctly cross-listed on `Lookup/SKIP/SKIP-1/SKIP-1-6-9.md` (item 12).
+
+**`joyo_level` bug found and fixed**: stored as an empty string (never determined); ja.Wiktionary explicitly confirms Hyōgai status (corroborated by hvdic's フク on'yomi cross-reference and consistency with its twin [[蝙]], already confirmed 表外字 this session; en.Wiktionary's Japanese section was inaccessible via fetch but not contradicted). Corrected to `表外字` and added 蝠 to `Lookup/Japanese/Hyōgai.md` as item 552.
+
+**`japanese_native` bug found and fixed**: stored the literal placeholder `ø` despite ja.Wiktionary attesting a genuine kun'yomi, `こうもり` ("bat"); corrected.
+
+**`hanmun_edu_level` filled**: was blank. Filled as `名`, matching `grade_level: 名`.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (bat).
+
+**Missing Korean lookup entry found and added**: 蝠 was entirely absent from `Lookup/Korean/Korean Name ㅂ.md`'s `### 복` section; added.
+
+Rebuilt the malformed `## Notes` (unlinked bare-URL-style links, floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蝿 (8630; 161 characters remaining).
+
+### 2026-08-23, iteration 2343 — [[characters/蝿|蝿]]
+
+`graphemic_classification: 黽` reconfirmed correct — dual-source confirmed 形声 (semantic 虫 "insect" + phonetic [[黽]]) via en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 31) on `Lookup/Radicals/Radical 142.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` (via its "蠅-->蝿" redirect entry), corroborated by both en.Wiktionary and ja.Wiktionary's explicit 表外漢字/Hyōgai classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `korean: 승` reconfirmed correct — matches the reading used for its listing (under the traditional form 蠅) on `Lookup/Korean/Korean Name ㅅ.md`, not the page's own divergent `諺文`/`羅馬字` conlang spelling (same pattern as [[蝙]]/扁 this session). `japanese: [YOU]` reconfirmed correct and complete — go-on and kan-on both よう. `japanese_native: はえ` reconfirmed correct — ja.Wiktionary's second candidate (はい) and en.Wiktionary's historical candidate (はへ) don't dual-confirm the same reading and stayed unadded. `aliases: [蠅, 蝇]` reconfirmed correct — 蝿 is the Japanese shinjitai form of 蠅 (traditional/orthodox), with 蝇 as the mainland-simplified form; neither has an independent vault page. `stand_in: 家蝿` reconfirmed correct — genuine citer, the word's own independent page. Second `## Words` entry `猩蝿` ("fruit fly") reconfirmed genuine — its `characters:` frontmatter cites 蝿.
+
+**`vietnamese` bug found and fixed**: field was entirely blank; hvdic.thivien.net attests four genuine readings (Hán Việt dăng; Nôm dăng/giằng/nhặng/thằn); filled.
+
+**`mc_id` off-by-one bug found and fixed**: stored `3053` was actually 窒's rank; correct rank for 蝿/蠅 is `3054` (`CC 3000.md`: `3053. 窒`, `3054. 蠅`).
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (fly).
+
+**`boundedness` filled**: was blank. Filled as `80`, consistent with similarly-bound characters with a genuine stand-in citation.
+
+Rebuilt the malformed `## Notes`/`## Words` (sections in reverse order, unlinked bare component citations, floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard order and four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 螳 (8631; 160 characters remaining).
