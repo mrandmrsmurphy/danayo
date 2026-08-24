@@ -21,7 +21,7 @@ Redirected checked for
 [[愎]] 
 
 ### 편 
-[扁](characters/扁.md) [[翩]] [鞭](characters/鞭.md) [騙 (char)](characters/騙%20(char).md)
+[扁](characters/扁.md) [[翩]] [鞭](characters/鞭.md) [騙 (char)](characters/騙%20(char).md) [蝙](characters/蝙.md)
 
 ### 폄 
 [[貶]] [窆](characters/窆.md) [砭](characters/砭.md)

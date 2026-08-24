@@ -1317,3 +1317,13 @@ Next never-perfected character by `danayo_id`: 蛭 (char) (8626; 165 characters 
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a `## Words` section citing the stand-in word. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 蜘 (8627; 164 characters remaining).
+
+### 2026-08-23, iteration 2340 — [[characters/蜘|蜘]]
+
+`graphemic_classification: 知` reconfirmed correct — dual-source confirmed 形声 (semantic 虫 "insect" + phonetic [[知]]) via en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 20) on `Lookup/Radicals/Radical 142.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 186. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `mc_id: 4945` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `japanese: [CHI]` reconfirmed correct and complete — go-on and kan-on both ち. `japanese_native: くも` reconfirmed correct. `vietnamese: [tri]` reconfirmed complete and exact against hvdic.thivien.net. `aliases: [䵹]` reconfirmed correct — genuine ancient variant form per zh.Wiktionary. `stand_in: 蜘蛛` reconfirmed correct — sole citer, the word's own independent page; `#cranberry` tag reconfirmed valid — 蜘 alone already means "spider" (matching [[蛛]]'s own independent sense), and so does the compound: genuine transitivity (A=B=AB). Already correctly cross-listed on `Lookup/SKIP/SKIP-1/SKIP-1-6-8.md` (item 15) and `Lookup/Korean/Korean Name ㅈ.md`.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (spider). No other bugs found — every other field verified correct on first check.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蝙 (8628; 163 characters remaining).
