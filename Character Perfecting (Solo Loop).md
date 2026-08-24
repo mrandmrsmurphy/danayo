@@ -1251,3 +1251,37 @@ Next never-perfected character by `danayo_id`: 藷 (8621; 169 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 虻 (8622; 168 characters remaining).
+
+### 2026-08-23, iteration 2336 — [[characters/虻|虻]]
+
+`graphemic_classification: 亡` reconfirmed correct — dual-source confirmed 形声 (semantic 虫 "insect" + phonetic [[亡]]) via en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 4) on `Lookup/Radicals/Radical 142.md` (first character this session with this radical). `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 193, corroborated by ja.Wiktionary's own 表外漢字 classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `japanese_native: あぶ` reconfirmed correct. `vietnamese: [manh, mông]` reconfirmed complete and exact against hvdic.thivien.net (Hán Việt manh, Nôm manh/mông). `stand_in: 牛虻` reconfirmed correct — sole citer, the word's own independent page. `aliases` (blank) reconfirmed correct — zh.Wiktionary's variant-character candidates (䖟, 蝱, 䗈, 𧌦) weren't explicitly confirmed as true orthographic identity and stayed unadded. Already correctly cross-listed on `Lookup/SKIP/SKIP-1/SKIP-1-6-3.md` (item 11).
+
+**`korean` bug found and fixed**: stored `맹`, contradicting the page's own `羅馬字: mang`/`諺文: 망` and every other reading (vietnamese manh/mông, japanese ぼう/もう/みょう, middle_chinese_final ɣæŋ) which all converge on "mang," not "maeng." Corrected to `망`, and added the missing entry to `Lookup/Korean/Korean Name ㅁ.md`'s `### 망` section (the character was entirely absent from the Korean lookup pages under either syllable).
+
+**`mc_id` off-by-one bug found and fixed**: stored `3639` was actually 蚊's rank; correct rank for 虻 is `3640` (`CC 3000.md`: `3639. 蚊`, `3640. 虻`).
+
+**`japanese` completeness gap found and fixed**: was `[BOU]` only; both en.Wiktionary and ja.Wiktionary independently attest two further genuine on'yomi, go-on `MYOU` and kan-on `MOU`; added.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (horsefly, gadfly).
+
+**`hanmun_edu_level` filled**: was blank. Filled as `名`, matching `grade_level: 名` (consistent with sibling insect-radical characters 蚊/蛾/蚕, which all pair the two fields identically).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, a bare word bullet with no `## Words` section) into the standard `## Notes` four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蛛 (8624; 167 characters remaining).
+
+### 2026-08-23, iteration 2337 — [[characters/蛛|蛛]]
+
+`graphemic_classification: 朱` reconfirmed correct — dual-source confirmed 形声 (originally a spider pictogram, later semantic 虫 "insect" + phonetic [[朱]] added for sound) via en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 12) on `Lookup/Radicals/Radical 142.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 189, corroborated by ja.Wiktionary's own 表外漢字 classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`; absent from all six `Old HSK N.md` files. `mc_id: 4339` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `stand_in: 蜘蛛` reconfirmed correct — sole citer, the word's own independent page; `#cranberry` tag reconfirmed valid — 蛛 alone already means "spider" (matching [[蜘]]'s own independent sense per its own page), and so does the compound: genuine transitivity (A=B=AB). `aliases` (blank) reconfirmed correct — zh.Wiktionary's ancient-form candidates (鼄, 𬹣) aren't current orthographic variants. Already correctly cross-listed on `Lookup/SKIP/SKIP-1/SKIP-1-6-6.md` (item 18) and `Lookup/Korean/Korean Name ㅈ.md`.
+
+**`japanese` bug found and fixed**: stored `[SHU, CHU]` — neither matches either source. Both en.Wiktionary and ja.Wiktionary independently attest exactly one on'yomi (go-on and kan-on collapse to the same reading, ちゅう), romanized per this vault's own long-vowel convention (cf. `CHUU` on `characters/宙 (char).md`) as `CHUU`. Corrected to `[CHUU]`.
+
+**`japanese_native` bug found and fixed**: stored the literal placeholder `ø` despite both en.Wiktionary and ja.Wiktionary independently attesting a genuine kun'yomi, `くも` ("spider"); corrected.
+
+**`vietnamese` over-inclusion bug found and fixed**: stored `[chu, châu, chẫu, thù]`; hvdic.thivien.net (sole Vietnamese authority) attests only three, `chu`/`thù` (Hán Việt) and `châu`/`chu`/`thù` (Nôm) — `chẫu` is not attested and was removed; corrected to `[chu, châu, thù]`.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (spider).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蛤 (8625; 166 characters remaining).

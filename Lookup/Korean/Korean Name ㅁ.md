@@ -15,7 +15,7 @@ These have been checked for redirects.
 [茉](characters/茉.md) !!唜!! [抹](characters/抹%20(char).md) [沫](characters/沫%20(char).md) [襪](characters/襪.md) [[靺]]
 
 ### 망 
-[網](characters/網%20(char).md) [[芒]] [[輞]] [[邙]] [莽](characters/莽.md) 
+[網](characters/網%20(char).md) [[芒]] [[輞]] [[邙]] [莽](characters/莽.md) [虻](characters/虻.md)
 
 ### 매 
 [寐](characters/寐.md) [昧](characters/昧%20(char).md) [枚](characters/枚%20(char).md) [煤](characters/煤%20(char).md) [罵](characters/罵.md) [邁](characters/邁.md) [魅](characters/魅.md) [苺](characters/苺%20(char).md)
