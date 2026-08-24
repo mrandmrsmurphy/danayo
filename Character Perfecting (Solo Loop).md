@@ -1119,3 +1119,39 @@ Next never-perfected character by `danayo_id`: 蔓 (8613; 177 characters remaini
 Rebuilt the malformed `## Notes` (two floating unlinked CC wikilinks with no SKIP/Stroke/mc_id/four-links bullets) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 蕃 (8614; 176 characters remaining).
+
+### 2026-08-23, iteration 2328 — [[characters/蕃|蕃]]
+
+`graphemic_classification: 番` reconfirmed correct — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [番 (char)](characters/番%20(char).md)) via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 90) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 293, corroborated by ja.Wiktionary's own 人名用漢字 classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`; absent from all six `Old HSK N.md` files. `stand_in: 蕃息` reconfirmed correct — genuine citer, the word's own independent page. `aliases` (blank) reconfirmed correct — zh.Wiktionary's 異體字 candidate 番 has its own independent vault page and stays excluded per policy. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-12.md` (item 8) and `Lookup/Korean/Korean Name ㅂ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `1441` was actually 迫's rank; correct rank for 蕃 is `1442` (`CC 1000.md`: `1441. 迫`, `1442. 蕃`).
+
+**`vietnamese` malformed-value bug found and fixed**: stored as a single unsplit string `"phen, phên, phiên"` instead of a proper list, and incomplete — hvdic.thivien.net attests five genuine readings total (Hán Việt `phiên`/`phiền`/`phồn`, Nôm `phen`/`phên`); corrected to a proper five-entry list.
+
+**`japanese` completeness gap found and fixed**: was `[BAN, HAN]` only; both en.Wiktionary and ja.Wiktionary independently attest two further genuine on'yomi, go-on `HON` and `BON`; added.
+
+**`japanese_native` bug found and fixed**: stored the literal placeholder `ø` despite both en.Wiktionary and ja.Wiktionary independently attesting a genuine kun'yomi, `しげる`; corrected. Ja.Wiktionary's second candidate (ば) was single-sourced and stayed unadded.
+
+**`pos` filled**: was blank. Filled as `事詞`, matching the dominant verbal sense (to multiply, proliferate).
+
+**Second `## Words` citation found and moved**: two bare bullets (`蕃息`, `蕃藷`) were sitting inside the malformed `# Notes` section instead of `## Words`; verified both words genuinely cite 蕃 in their `characters:` frontmatter; moved into `## Words`, with `蕃息` marked as the recorded `stand_in`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蕪 (8615; 175 characters remaining).
+
+### 2026-08-23, iteration 2329 — [[characters/蕪|蕪]]
+
+`graphemic_classification: 無` reconfirmed correct — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [無 (char)](characters/無%20(char).md)) via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 93) on `Lookup/Radicals/Radical 140.md`. `aliases: [芜]` reconfirmed correct — genuine simplified form, dual-source confirmed. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 174, corroborated by ja.Wiktionary's own 人名用漢字 classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `vietnamese: [vu]` reconfirmed complete and exact against hvdic.thivien.net. `japanese: [BU, MU]` reconfirmed correct and complete — go-on む/kan-on ぶ, corroborated by both en.Wiktionary and ja.Wiktionary. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-12.md` (item 11) and `Lookup/Korean/Korean Name ㅁ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `2779` was actually 懦's rank; correct rank for 蕪 is `2780` (`CC 2000.md`: `2779. 懦`, `2780. 蕪`).
+
+**`stand_in` alias-citation bug found and fixed**: stored `蕪菁`, which has no independent vault page — that string is only listed inside `words/蕪青.md`'s own `aliases` field. The actual word page is `蕪青` (verified genuinely citing 蕪 in its `characters:` frontmatter); corrected `stand_in` to `蕪青`, matching the pre-existing (already-correct) `## Notes` bullet.
+
+**`japanese_native` completeness gap found and fixed**: was `あれる` only; both en.Wiktionary and ja.Wiktionary independently attest two further genuine kun'yomi, `かぶ` and `かぶら`; added as a list.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (turnip).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, a bare word bullet with no `## Words` section) into the standard `## Notes` four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 薇 (8616; 174 characters remaining).
