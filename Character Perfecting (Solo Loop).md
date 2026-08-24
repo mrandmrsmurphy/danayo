@@ -1285,3 +1285,35 @@ Next never-perfected character by `danayo_id`: 蛛 (8624; 167 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 蛤 (8625; 166 characters remaining).
+
+### 2026-08-23, iteration 2338 — [[characters/蛤|蛤]]
+
+`graphemic_classification: 合` reconfirmed correct — dual-source confirmed 形声 (semantic 虫 "insect" + phonetic [合 (char)](characters/合%20(char).md)) via en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 14) on `Lookup/Radicals/Radical 142.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 116, corroborated by ja.Wiktionary's own 表外漢字 classification. `vietnamese: [cáp]` reconfirmed complete and exact against hvdic.thivien.net. `japanese_native: はまぐり` reconfirmed correct (specifically the "clam" kun'yomi, matching the intended sense). `aliases: [𧊧]` reconfirmed correct — no dual-source contradiction found. `stand_in: 大蛤` reconfirmed correct — sole citer, the word's own independent page. `pos: 名詞` reconfirmed correct. Already correctly cross-listed on `Lookup/SKIP/SKIP-1/SKIP-1-6-6.md` (item 20) and `Lookup/Korean/Korean Name ㅎ.md`.
+
+**`mandarin` reading-meaning mismatch bug found and fixed**: stored `há` — both en.Wiktionary and zh.Wiktionary independently show this character has (at least) two etymologically distinct Mandarin readings: `gé` for the "clam" sense used throughout this vault (matching `english: [clam]`, `japanese_native: はまぐり`, and the citing word `大蛤`), and a separate `há` reading confined to 蛤蟆 ("frog/toad") and internet slang, unrelated to the clam sense. Corrected to `gé`.
+
+**`hsk_level` verified correct but missing from its own lookup page — gap fixed**: `無` reconfirmed correct (absent from all six `Old HSK N.md` files), but the character was missing from `Lookup/HSK/HSK No.md` itself; added.
+
+**`mc_id` off-by-one bug found and fixed**: stored `3549` was actually 蔞's rank; correct rank for 蛤 is `3550` (`CC 3000.md`: `3549. 蔞`, `3550. 蛤`).
+
+**`japanese` completeness gap found and fixed**: was `[KOU]` only; both en.Wiktionary and ja.Wiktionary independently attest a second genuine on'yomi, kan'yō-on `KA`; added.
+
+Rebuilt the malformed `# Notes` (wrong heading level, a single run-on unlinked-mixed-format line, floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蛭 (char) (8626; 165 characters remaining).
+
+### 2026-08-23, iteration 2339 — [[characters/蛭 (char)|蛭 (char)]]
+
+`graphemic_classification: 至` reconfirmed correct — dual-source confirmed 形声 (semantic 虫 "insect" + phonetic [[至]]) via en.Wiktionary and zh.Wiktionary. `radical: 虫` reconfirmed correct — genuine listing (item 15) on `Lookup/Radicals/Radical 142.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 139, corroborated by ja.Wiktionary's own 表外漢字 classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `vietnamese: [chí, chất, chấy, điệt]` reconfirmed complete and exact against hvdic.thivien.net (Hán Việt điệt, Nôm chất/chấy/chí/điệt). `stand_in: 蛭` reconfirmed correct — the plain character is itself directly used as an independent word (`words/蛭.md`, disambiguated via this "(char)" page), same pattern as `浦 (char)`/`蓮 (char)`. `aliases` (blank) reconfirmed correct — neither source noted a variant form. Already correctly cross-listed on `Lookup/SKIP/SKIP-1/SKIP-1-6-6.md` (item 16) and `Lookup/Korean/Korean Name ㅈ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `3499` was actually 綈's rank; correct rank for 蛭 is `3500` (`CC 3000.md`: `3499. 綈`, `3500. 蛭`).
+
+**`japanese` completeness gap found and fixed**: was `[SHITSU, CHITSU]`; both en.Wiktionary and ja.Wiktionary independently attest three further genuine on'yomi, go-on `SHICHI`/`TECHI` and kan-on `TETSU`; added.
+
+**`japanese_native` completeness gap found and fixed**: was `ひる` only; both en.Wiktionary and ja.Wiktionary independently attest a second genuine kun'yomi, `えび`; added as a list.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (leech).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a `## Words` section citing the stand-in word. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蜘 (8627; 164 characters remaining).

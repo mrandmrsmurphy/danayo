@@ -893,6 +893,7 @@ tags: [lookup]
 [葱](../../characters/葱.md)
 [蓮 (char)](../../characters/蓮%20(char).md)
 [[薩]]
+[[蛤]]
 
 ## Datacheck
 ```base
