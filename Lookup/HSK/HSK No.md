@@ -892,6 +892,7 @@ tags: [lookup]
 [紗](../../characters/紗.md)
 [缸](../../characters/缸.md)
 [葱](../../characters/葱.md)
+[蓮 (char)](../../characters/蓮%20(char).md)
 
 ## Datacheck
 ```base

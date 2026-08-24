@@ -1051,3 +1051,35 @@ Next never-perfected character by `danayo_id`: 蒐 (8609; 181 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, `## Words` placed before Notes instead of after) into the standard `## Notes` four-bullet format, reordered before the pre-existing `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 蒲 (8610; 180 characters remaining).
+
+### 2026-08-23, iteration 2324 — [[characters/蒲|蒲]]
+
+`mc_id: 1302` reconfirmed as exact match (`CC 1000.md`: `1302. 蒲`). `radical: 艸` reconfirmed correct — implicit via `graphemic_classification` analysis (no separate Radical 140 listing needed since this is a semantic-radical page, not itself cited there). `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md` (line 557). `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 314, and independently corroborated by ja.Wiktionary's own "人名用漢字" classification. `japanese: [HO, BU]` reconfirmed correct and complete — en.Wiktionary and ja.Wiktionary both independently attest exactly kan-on ホ and go-on ブ (ja.Wiktionary's additional tō-on フ wasn't corroborated by en.Wiktionary and stayed unadded). Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-10.md` (item 23), `Lookup/Radicals/Radical 140.md` (item 74), and `Lookup/Korean/Korean Name ㅍ.md`.
+
+**`graphemic_classification` verified, not a bug**: stored `浦` — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [[浦 (char)]], OC \*pʰaːʔ) via en.Wiktionary and zh.Wiktionary; matches `浦 (char).md`'s own `graphemic_classification: 甫` chain and its `## Derived Characters` list, which already correctly cites 蒲.
+
+**`japanese_native` completeness gap found and fixed**: was `かば` only; both en.Wiktionary and ja.Wiktionary independently attest two further genuine kun'yomi, `がま` and `かま`; added as a list.
+
+**`vietnamese` completeness gap found and fixed**: was `[bù, bồ, mồ]` (Nôm only); hvdic.thivien.net attests a fourth genuine reading, the Âm Hán Việt `bạc`; added.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (bulrush, cattail, reed).
+
+**Second `## Words` citation found and moved**: a bare unlinked bullet `[[蒲公英]] "dandelion"` was sitting inside the malformed `## Notes` section instead of `## Words`; verified `words/蒲公英.md` genuinely cites 蒲 in its `characters:` frontmatter (distinct from the recorded `stand_in`, 香蒲); moved into `## Words` as a proper ruby entry using the word's own `注音` field, unannotated (not the `stand_in`).
+
+Rebuilt the malformed `## Notes` (two floating unlinked CC wikilinks with no SKIP/Stroke/mc_id/four-links bullets) into the standard four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蓮 (char) (8611; 179 characters remaining).
+
+### 2026-08-23, iteration 2325 — [[characters/蓮 (char)|蓮 (char)]]
+
+`graphemic_classification: 連` reconfirmed correct — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [連 (char)](characters/連%20(char).md)) via en.Wiktionary and zh.Wiktionary; matches `連 (char).md`'s own perfected page. `mc_id: 4459` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `radical: 艸` reconfirmed correct — genuine listing (item 79) on `Lookup/Radicals/Radical 140.md`. `japanese: [REN]` reconfirmed correct and complete — go-on and kan-on both れん, corroborated by both en.Wiktionary and ja.Wiktionary. `aliases: [莲]` reconfirmed correct — genuine simplified form, dual-source confirmed. `vietnamese: [liên, lên, ren, sen]` reconfirmed complete and exact against hvdic.thivien.net (Hán Việt liên + Nôm lên/liên/ren/sen). `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 149, corroborated by ja.Wiktionary's own 人名用漢字 classification. `stand_in: 蓮` reconfirmed correct — the plain character is itself directly used as an independent word (`words/蓮.md`, disambiguated via this "(char)" page), same pattern as `浦 (char)`/`浦`. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-10.md` (item 19) and `Lookup/Korean/Korean HS.md` (hanmun_edu_level 高等, not the Name-list track).
+
+**`hsk_level` bug found and fixed**: stored `4`, traced only to colon-count entries on `Old HSK 4.md` (both `[莲]: 1` and `[[蓮 (char)]]: 1`, neither genuine) — thoroughly checked all six `Old HSK N.md` files and found no genuine plain-numbered entry anywhere. Corrected to `hsk_level: 無` and added 蓮 (char) to `Lookup/HSK/HSK No.md`'s list.
+
+**`japanese_native` completeness gap found and fixed**: was `はす` only; both en.Wiktionary and ja.Wiktionary independently attest a second genuine kun'yomi, `はちす`; added as a list.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (lotus).
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no `## Words` section) into the standard `## Notes` four-bullet format plus a `## Words` section citing the stand-in word. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 蓼 (8612; 178 characters remaining).
