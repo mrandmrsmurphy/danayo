@@ -1223,3 +1223,31 @@ Next never-perfected character by `danayo_id`: 藁 (8619; 171 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, a floating unresolved question, unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 薮 (8620; 170 characters remaining).
+
+### 2026-08-23, iteration 2334 — [[characters/薮|薮]]
+
+`radical: 艸` reconfirmed correct — genuine listing (item 109) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 190. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `japanese: [SOU, SU]` reconfirmed correct and complete against en.Wiktionary (go-on す, kan-on そう). `japanese_native: やぶ` reconfirmed correct. `vietnamese: [sác, sú, tẩu]` reconfirmed complete and exact against hvdic.thivien.net (Hán Việt tẩu, Nôm sác/sú/tẩu). `aliases: [藪]` reconfirmed correct — 薮 is itself the shinjitai form of 藪, dual-source confirmed, and 藪 has no independent vault page. `stand_in: 薮沢` reconfirmed correct — sole citer, the word's own independent page. `pos: 名詞` reconfirmed correct. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-15.md` (item 4) and `Lookup/Korean/Korean Name ㅅ.md`.
+
+**`graphemic_classification` alias-citation bug found and fixed**: stored `數`, the traditional glyph — but `數` has no independent vault page (only its simplified form `characters/数.md` does, listing `數` in its own `aliases`); per the established parent-form citation convention, corrected to `数`. The page's own pre-existing (malformed) Notes bullet had already gotten this right ("[艹] + [数]"), only the frontmatter field was wrong.
+
+**`mc_id` off-by-one bug found and fixed**: stored `2237` was actually 橐's rank; correct rank for 薮/藪 is `2238` (`CC 2000.md`: `2237. 橐`, `2238. 藪`).
+
+Rebuilt the malformed `## Notes` (wrong section order — `## Words` placed before `## Notes`, floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format, reordered before `## Words`. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 藷 (8621; 169 characters remaining).
+
+### 2026-08-23, iteration 2335 — [[characters/藷|藷]]
+
+`graphemic_classification: 諸` reconfirmed correct — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [諸 (char)](characters/諸%20(char).md)) via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 113) on `Lookup/Radicals/Radical 140.md`. `aliases: [𫉄]` reconfirmed correct — genuine simplified form per zh.Wiktionary. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `mc_id: 5909` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `japanese: [SHO, JO]` reconfirmed correct and complete — go-on しょ/じょ, kan-on しょ, corroborated by both en.Wiktionary and ja.Wiktionary. `japanese_native: いも` reconfirmed correct. `vietnamese: [thự]` reconfirmed complete and exact against hvdic.thivien.net. `stand_in: 蕃藷` reconfirmed correct — sole citer, the word's own independent page. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-15.md` (item 7) and `Lookup/Korean/Korean Name ㅈ.md`.
+
+**`joyo_level` verified correct but missing from its own lookup page — gap fixed**: `表外字` reconfirmed correct (dual-source: en.Wiktionary and ja.Wiktionary both confirm Hyōgai status; absent from Jinmeiyō too), but the character was missing from `Lookup/Japanese/Hyōgai.md` itself; added as item 550.
+
+**`korean_native` discrepancy found, left unresolved (no fabrication)**: stored `사탕수수` ("sugarcane") is semantically inconsistent with every other confirmed field — english `[potato, yam]`, `japanese_native: いも`, and `vietnamese: thự` all converge on "potato/yam." Could not locate an accessible authoritative Korean-language source to verify or correct it this iteration (Naver/zdic/ko.Wiktionary all unreachable or empty); documented the discrepancy in `## Notes` rather than guessing a replacement.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (potato, yam).
+
+**`boundedness` filled**: was blank. Filled as `80`, consistent with similarly-bound characters with one genuine stand-in citation.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 虻 (8622; 168 characters remaining).

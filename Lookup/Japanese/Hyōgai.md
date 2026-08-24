@@ -551,6 +551,7 @@ tags: [lookup]
 547. [翟](../../characters/翟.md)
 548. [艙](../../characters/艙.md)
 549. [芮](../../characters/芮.md)
+550. [藷](../../characters/藷.md)
 
 
 [[../../characters/吠]] - barking DO IT
