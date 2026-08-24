@@ -1195,3 +1195,31 @@ Next never-perfected character by `danayo_id`: 薔 (8617; 173 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 薩 (8618; 172 characters remaining).
+
+### 2026-08-23, iteration 2332 — [[characters/薩|薩]]
+
+`mc_id: 0` reconfirmed as a genuine sentinel — absent from all four `CC N000.md` files (a late Buddhist transliteration character, unranked in Classical Chinese). `radical: 艸` reconfirmed correct — genuine listing (item 107) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 175, corroborated by ja.Wiktionary's own 人名用漢字 classification. `japanese: [SATSU, SACHI]` reconfirmed correct and complete — go-on さち/kan-on さつ, corroborated by both en.Wiktionary and ja.Wiktionary. `japanese_native: ø` reconfirmed correct — en.Wiktionary's kun'yomi candidate (すくう) wasn't corroborated by ja.Wiktionary, which lists no kun'yomi at all. `vietnamese: [tát]` reconfirmed complete and exact against hvdic.thivien.net. `aliases: [萨]` reconfirmed correct — genuine simplified form. `pos: 名詞` reconfirmed correct. `stand_in: 菩薩` reconfirmed correct — sole citer, the word's own independent page; `#cranberry` tag reconfirmed valid (both 菩 and 薩 already independently mean "bodhisattva," and so does the compound — genuine transitivity). Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-14.md` (item 3) and `Lookup/Korean/Korean Name ㅅ.md`.
+
+**`graphemic_classification` bug found and fixed**: stored `產`, contradicting the page's own pre-existing Notes bullet ("Components: 艹, 隡") and both dual sources, which describe 薩 as a blend of 艸 (or 土) with 隡 (a variant of 薛, from the Sanskrit transliteration 薛埵 of *sattva*), not a typical 形声 compound. Corrected to `隡` (隡 has no independent vault page; cited in prose).
+
+**`hsk_level` bug found and fixed**: stored as an empty string (never determined); checked all six `Old HSK N.md` files and found no entry at all. Corrected to `hsk_level: 無` and added 薩 to `Lookup/HSK/HSK No.md`.
+
+Rebuilt the malformed `## Notes` (mixed heading levels, floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 藁 (8619; 171 characters remaining).
+
+### 2026-08-23, iteration 2333 — [[characters/藁|藁]]
+
+`mc_id: 5528` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `radical: 艸` reconfirmed correct — genuine listing (item 108) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 日本人名用漢字` reconfirmed correct — genuine at `Lookup/Japanese/Jinmeiyō.md` item 176. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `japanese: [KOU]` reconfirmed correct and complete — go-on and kan-on both こう. `japanese_native: わら` reconfirmed correct. `vietnamese: [cảo, kiểu]` reconfirmed complete and exact against hvdic.thivien.net (Hán Việt cảo, Nôm cảo/kiểu). `stand_in: 名専字` reconfirmed correct despite one genuine citing word — `words/蓬藁.md` cites 藁 in its `characters:` frontmatter, but its own Notes explicitly documents it as the stand-in for [[蓬]], not for 藁; added as a non-stand-in `## Words` citation. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-14.md` (item 4) and `Lookup/Korean/Korean Name ㄱ.md`.
+
+**`graphemic_classification` bug found and fixed**: stored `蒿` — both en.Wiktionary and zh.Wiktionary independently confirm the true phonetic component is 槀 (no independent vault page), and explicitly state 蒿 is a *distinct* phonetically-related character (different meaning, "mugwort") in the same 高 series, not the phonetic of 藁. Corrected to `槀`. This also resolves the page's own open question left in Notes ("Can it blend with 稿?") — yes, dual-source confirms 藁 is a documented alternative written form of [稿 (char)](characters/稿%20(char).md) and of 槁, kept as a separate page per established policy for historically distinct-but-converged forms.
+
+**False `aliases` entry found and removed**: stored `蒿` — per the same dual-source finding above, 蒿 is a distinct character, not an orthographic variant of 藁, and has no independent vault page; removed and documented in prose instead. Left the existing `Lookup/Korean/Korean Name ㅎ.md` "蒿-->藁" discovery pointer in place (a lookup redirect, not a claim of orthographic identity — same pattern as the earlier 廖-->蓼 case).
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (straw).
+
+**`boundedness` filled**: was blank. Filled as `80`, consistent with similarly-behaved `名専字` characters with a real but non-namesake compound citation.
+
+Rebuilt the malformed `# Notes` (wrong heading level, a floating unresolved question, unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets, no `## Words` section) into the standard `## Notes` four-bullet format plus a `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 薮 (8620; 170 characters remaining).
