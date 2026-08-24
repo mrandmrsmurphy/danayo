@@ -1155,3 +1155,43 @@ Next never-perfected character by `danayo_id`: 蕪 (8615; 175 characters remaini
 Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, a bare word bullet with no `## Words` section) into the standard `## Notes` four-bullet format plus a proper `## Words` section. Stamped `date-last-perfect: 2026-08-23`.
 
 Next never-perfected character by `danayo_id`: 薇 (8616; 174 characters remaining).
+
+### 2026-08-23, iteration 2330 — [[characters/薇|薇]]
+
+`graphemic_classification: 微` reconfirmed correct — dual-source confirmed 形声 (semantic 艸 "grass" + phonetic [[微]]) via en.Wiktionary and zh.Wiktionary. `radical: 艸` reconfirmed correct — genuine listing (item 98) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 235, corroborated by ja.Wiktionary's own 表外漢字 classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `japanese_native: ぜんまい` reconfirmed correct and complete. `stand_in: 薔薇` reconfirmed correct, and the `#cranberry` tag reconfirmed valid — the vault's own `words/薔薇金.md` explicitly documents that neither [[薔]] nor 薇 means "rose" alone, only the compound does (true transitivity: A=B=incomplete, AB="rose"). `aliases` (blank) reconfirmed correct. Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-13.md` (item 9) and `Lookup/Korean/Korean Name ㅁ.md`.
+
+**`mc_id` off-by-one bug found and fixed**: stored `3943` was actually 咀's rank; correct rank for 薇 is `3944` (`CC 3000.md`: `3943. 咀`, `3944. 薇`).
+
+**`english` mistranslation bug found and fixed**: stored `[rose]` — but en.Wiktionary's Chinese entry gives the standalone sense of 薇 as "*Osmunda regalis*, royal fern" (with a Classic of Poetry citation), explicitly noting "rose" applies only to the compound 薔薇/蔷薇; the stored value had conflated the character's own meaning with its cranberry-compound meaning. Corrected to `[royal fern]`, consistent with the already-correct `japanese_native: ぜんまい` ("fern"). Propagated the same stale "rose" gloss fix to `Lookup/Radicals/Radical 140.md` (item 98) and `Lookup/SKIP/SKIP-2/SKIP-2-3-13.md` (item 9).
+
+**`japanese` completeness gap found and fixed**: was `[BI]` only; both en.Wiktionary and ja.Wiktionary independently attest a second genuine on'yomi, go-on `MI`; added.
+
+**`vietnamese` completeness gap found and fixed**: was `[vi]` only; hvdic.thivien.net attests a second genuine Âm Hán Việt reading, `vy`; added.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (royal fern).
+
+**Second `## Words` citation reformatted**: a bare unlinked bullet (`薔薇金`, "abbreviation for rhodium") was sitting inside the malformed `# Notes` section instead of `## Words`; verified it genuinely cites 薇 in its `characters:` frontmatter; moved into `## Words` alongside the stand-in `薔薇`.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 薔 (8617; 173 characters remaining).
+
+### 2026-08-23, iteration 2331 — [[characters/薔|薔]]
+
+`radical: 艸` reconfirmed correct — genuine listing (item 99) on `Lookup/Radicals/Radical 140.md`. `joyo_level: 表外字` reconfirmed correct — genuine at `Lookup/Japanese/Hyōgai.md` item 271, corroborated by ja.Wiktionary's own 表外漢字 classification. `hsk_level: 無` reconfirmed correct — genuine listing on `Lookup/HSK/HSK No.md`. `aliases: [蔷]` reconfirmed correct — genuine simplified form, dual-source confirmed. `mc_id: 5045` reconfirmed as trusted long-tail (>4000, not cross-checked per policy). `stand_in: 薔薇` reconfirmed correct, and the `#cranberry` tag reconfirmed valid (same transitivity documented in `words/薔薇金.md` as for [[薇]]). Already correctly cross-listed on `Lookup/SKIP/SKIP-2/SKIP-2-3-13.md` (item 10) and `Lookup/Korean/Korean Name ㅈ.md`.
+
+**`graphemic_classification` verified against a genuine two-etymology conflict, not a bug**: stored `嗇` — en.Wiktionary presents two etymologies (phonetic 牆, "only used in 薔薇"; and phonetic 嗇, "obsolete: water pepper; a surname"); zh.Wiktionary doesn't disambiguate. Kept the stored `嗇`, since it matches the character's own attested standalone sense and the already-correct `japanese_native: みずたで`; documented the conflict in prose (same pattern as prior 甬/睾/紗 cases).
+
+**`english` mistranslation bug found and fixed**: stored `[rose]` — conflated with the compound-only sense of [[薔薇]]; en.Wiktionary's etymology-2 entry gives the standalone meaning as "(obsolete) water pepper" (*Persicaria hydropiper*), matching `japanese_native: みずたで`. Corrected to `[water pepper]`. Propagated the same stale "rose" gloss fix to `Lookup/Radicals/Radical 140.md` (item 99) and `Lookup/SKIP/SKIP-2/SKIP-2-3-13.md` (item 10).
+
+**`japanese` completeness gap found and fixed**: was `[SHOKU, SHOU, SOU]`; both en.Wiktionary and ja.Wiktionary independently attest three further genuine on'yomi, go-on `ZOU`/`SHIKI` and kan-on `SOKU`; added.
+
+**`vietnamese` completeness gap found and fixed**: was `[tường]` only; hvdic.thivien.net attests a second genuine Âm Hán Việt reading, `sắc`; added.
+
+**`pos` filled**: was blank. Filled as `名詞`, matching the nominal sense (water pepper).
+
+**Missing `## Words` section built**: this page had no `## Words` section at all; verified both `薔薇` (the recorded `stand_in`) and `薔薇金` genuinely cite 薔 in their `characters:` frontmatter; added both.
+
+Rebuilt the malformed `# Notes` (wrong heading level, two floating unlinked CC wikilinks, no SKIP/Stroke/mc_id/four-links bullets) into the standard `## Notes` four-bullet format. Stamped `date-last-perfect: 2026-08-23`.
+
+Next never-perfected character by `danayo_id`: 薩 (8618; 172 characters remaining).

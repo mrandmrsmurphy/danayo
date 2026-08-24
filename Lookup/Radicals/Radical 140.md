@@ -131,8 +131,8 @@ tags:
 95. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia
 96. <ruby>[蒼](../../characters/蒼%20(char).md)<rt>ㄑ⺢ㄫ</rt></ruby> - blue
 97. <ruby>[薄](../../characters/薄.md)<rt>ㄅㄚㄎ</rt></ruby> - thin
-98. <ruby>[薇](../../characters/薇.md)<rt>ㄇㄧㄜ</rt></ruby> - rose
-99. <ruby>[薔](../../characters/薔.md)<rt>ㄑ⺢ㄫ</rt></ruby> - rose
+98. <ruby>[薇](../../characters/薇.md)<rt>ㄇㄧㄜ</rt></ruby> - royal fern
+99. <ruby>[薔](../../characters/薔.md)<rt>ㄑ⺢ㄫ</rt></ruby> - water pepper
 100. <ruby>[薛](../../characters/薛.md)<rt>ㄙㄝㄊ</rt></ruby> - wormwood
 101. <ruby>[薦](../../characters/薦.md)<rt>ㄐㄝㄋ</rt></ruby> - recommend
 102. <ruby>[薨](../../characters/薨.md)<rt>ㄏㄛㄫ</rt></ruby> - feudal lord's death
