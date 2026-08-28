@@ -728,4 +728,14 @@ Next: 帰結.
 
 No stand-in relationship (帰→回帰, 結→itself). Filled blank `vietnamese: quy kết` — but found a real semantic drift: Vietnamese quy kết has narrowed toward a negative, accusatory register ("to unfairly judge/condemn without evidence") rather than the neutral logical-conclusion sense Japanese きけつ/Korean 귀결 both keep. Documented the drift rather than presenting it as a clean match. No homophones. Stamped `date-last-perfect: 2026-08-27`.
 
-Next: continuing the sweep.
+### 2026-08-27, iteration 1171 — [[words/帰還|帰還]]
+
+No stand-in relationship (帰→回帰, 還→送還). Filled blank `vietnamese: quy hoàn` (verified). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 帰順.
+
+### 2026-08-27, iteration 1172 — [[words/帰順|帰順]]
+
+No stand-in relationship (帰→回帰, 順→順次). Filled blank `cantonese`/`vietnamese: quy thuận` (both verified). Notes note the real "incomplete voluntariness" nuance (submission under pressure, distinct from 帰服/quy phục). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 帳簿.
