@@ -1543,3 +1543,27 @@ Next: 反哺.
 No stand-in relationship (反 is its own stand-in; 哺's own is [[哺乳]]). Frontmatter already fully correct. Fixed non-standard `## Etymology` heading → `## Notes`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 反応.
+
+### 2026-08-28, iteration 1311 — [[words/反応|反応]]
+
+No stand-in relationship (both independent). **Real bugs found and fixed**: `注音` had the wrong initial consonant (ㄆㄛㄋ instead of 反's own ㄈㄛㄋ). `cantonese` missing space. `japanese` had a stray trailing parenthesis. Fixed unquoted `hsk_level`, empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 反映.
+
+### 2026-08-28, iteration 1312 — [[words/反映|反映]]
+
+No stand-in relationship (both independent). Frontmatter already fully correct. Fixed non-standard `## Etymology` heading → `## Notes`; fixed unquoted `hsk_level`, empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 反駁.
+
+### 2026-08-28, iteration 1313 — [[words/反駁|反駁]]
+
+駁's own `stand_in` field is 反駁 — added the stand-in note. **Real bug found and fixed**: `注音` had the same wrong-initial-consonant bug as [[反応]] (ㄆㄛㄋ → ㄈㄛㄋ). Confirmed via a vault-wide scan that no other 反-compound still carries this typo. Fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 収入.
+
+### 2026-08-28, iteration 1314 — [[words/収入|収入]]
+
+No stand-in relationship (収's own is [[回収]]; 入 is its own stand-in). Filled blank `pos: 名詞`; fixed unquoted `hsk_level`, empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 収蔵.
