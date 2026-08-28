@@ -1261,3 +1261,27 @@ Next: 医生.
 医's own `stand_in` field is 医生 — added the stand-in note (生's own is [[生活]]). **Real bugs found and fixed**: `mandarin`/`cantonese`/`korean`/`aliases` were all contaminated with forms belonging to the near-synonym word 医師/医师 (yīshī, built from 医+師 not 医+生) — corrected mandarin to yīshēng, cantonese to ji1 sang1, korean to 의생 (compositional, dropping the mixed-in real word 의사), and trimmed aliases to just 醫生. Filled blank `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 十一日.
+
+### 2026-08-28, iteration 1264 — [[words/十一日|十一日]]
+
+No stand-in relationship (all three characters are independent, each its own stand-in). Fixed `characters` citation "十" → "十 (char)". Filled blank `vietnamese: thập nhất nhật` (matching established sibling convention on [[七日]]). Fixed malformed `japanese` YAML-list → plain scalar; removed the redundant `品詞` field. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十七日.
+
+### 2026-08-28, iteration 1265 — [[words/十七日|十七日]]
+
+Same pattern as [[十一日]]: no stand-in relationship, fixed `characters` citation, filled blank `vietnamese: thập thất nhật`, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十三.
+
+### 2026-08-28, iteration 1266 — [[words/十三|十三]]
+
+No stand-in relationship (both independent). Filled blank `vietnamese: thập tam`. Fixed missing space in `cantonese` (sap6saam1 → sap6 saam1), `characters` citation, and removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十三日.
+
+### 2026-08-28, iteration 1267 — [[words/十三日|十三日]]
+
+Same pattern as prior day-words: no stand-in relationship, filled blank `vietnamese: thập tam nhật`, fixed `characters` citation, malformed `japanese` list, and redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十九日.
