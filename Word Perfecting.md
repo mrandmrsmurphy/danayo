@@ -1753,3 +1753,27 @@ Next: 呪詛.
 詛's own `stand_in` field is 呪詛 — already documented (呪's own is [[呪文]]). Filled blank `vietnamese: chú trù` (compositional). Verified `korean: 주저` is coincidentally identical to the unrelated word for "hesitation," not a bug. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 命令.
+
+### 2026-08-28, iteration 1346 — [[words/命令|命令]]
+
+No stand-in relationship (命's own is [[運命]]; 令 is its own stand-in). **Real bug found and fixed**: `諺文`/`注音` had been contaminated with [[明朗]]'s reading (an entirely unrelated word) instead of 命令's own compositional reading from 令's citation — corrected 명랑→명렁/ㄌㄚㄫ→ㄌㄝㄫ, which also dissolves the false homophone claim (a broken `[[]]` link) that was a symptom of this bug. Completed [[明朗]] itself in the same pass: removed its reciprocal false homophone claim, filled its blank `vietnamese: minh lãng`. Both stamped `date-last-perfect: 2026-08-28`.
+
+Next: 命名.
+
+### 2026-08-28, iteration 1347 — [[words/命名|命名]]
+
+No stand-in relationship (命's own is [[運命]]; 名 is its own stand-in). Frontmatter already fully correct. Fixed `characters` citation "名" → "名 (char)"; fixed non-standard `## Etymology` heading. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 和尚.
+
+### 2026-08-28, iteration 1348 — [[words/和尚|和尚]]
+
+No stand-in relationship (和's own is [[和平]]; 尚 is its own stand-in). Verified `japanese: おしょう` is a genuine irregular reading. Fixed `characters` citation and unquoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 和平.
+
+### 2026-08-28, iteration 1349 — [[words/和平|和平]]
+
+和's own `stand_in` field is 和平 — added the stand-in note (平's own is [[水平]]). Verified `japanese: わへい` is the correct reading for this character order, distinct from へいわ (the alias 平和's own reading). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 和諧.
