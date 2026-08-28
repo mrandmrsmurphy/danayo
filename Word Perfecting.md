@@ -1567,3 +1567,27 @@ Next: 収入.
 No stand-in relationship (収's own is [[回収]]; 入 is its own stand-in). Filled blank `pos: 名詞`; fixed unquoted `hsk_level`, empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 収蔵.
+
+### 2026-08-28, iteration 1315 — [[words/収蔵|収蔵]]
+
+蔵's own `stand_in` field is 収蔵 — already documented. Filled blank `vietnamese: thu tàng` (compositional). Verified `mandarin: shōucáng` reflects 蔵's verb sense vs. its citation zāng — a legitimate divergence. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 収集.
+
+### 2026-08-28, iteration 1316 — [[words/収集|収集]]
+
+No stand-in relationship (収's own is [[回収]]; 集's is [[集合]]). Filled blank `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 口訣.
+
+### 2026-08-28, iteration 1317 — [[words/口訣|口訣]]
+
+No stand-in relationship (口 is its own stand-in; 訣's own is [[秘訣]]). Frontmatter already fully correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 古今.
+
+### 2026-08-28, iteration 1318 — [[words/古今|古今]]
+
+No stand-in relationship (古's own is [[古代]]; 今 is its own stand-in). Fixed `characters` citation "今" → "今 (char)". Frontmatter otherwise already correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 古代.
