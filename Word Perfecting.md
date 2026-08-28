@@ -948,7 +948,7 @@ Next: continuing the sweep.
 
 Same gap as [[庸]] just found — never actually stamped despite receiving its homophone callout earlier this session. Filled `pos`/`japanese`/`kwin`, built out the Notes section, stamped. **Lesson for future homophone-fix passes**: adding a reciprocal callout to an unstamped sibling page (as done for [[容]]/[[庸]]/[[湧]] and other triples this session) doesn't complete that page — it still needs its own full pass before stamping, and should be tracked as a real remaining item, not assumed done. Stamped `date-last-perfect: 2026-08-28`.
 
-**Homophone-sibling backlog note (2026-08-28, updated)**: swept the log for other pages that received a reciprocal homophone callout earlier this session but were explicitly left "not otherwise stamped, awaiting their own turn" — per the lesson above, these still need their own full completion pass, not just the callout. Remaining: [[賞]] (from the 尚/上/賞 triple), [[戦時]] (from 展翅), [[超]] (from 島/倒/超), [[汎]] (from 帆), [[太]] and [[戴]] (from 帯), [[歯]] and [[置]] (from 幟), [[籠]] (from 弄), [[銀]] (from 引). Will pick these up either in the normal alphabetical sweep as their filenames come up, or as a dedicated mini-batch later — flagging now so they aren't silently forgotten the way 庸/湧 briefly were.
+**Homophone-sibling backlog note (2026-08-28, updated)**: swept the log for other pages that received a reciprocal homophone callout earlier this session but were explicitly left "not otherwise stamped, awaiting their own turn" — per the lesson above, these still need their own full completion pass, not just the callout. Remaining: [[賞]] (from the 尚/上/賞 triple), [[戦時]] (from 展翅), [[超]] (from 島/倒/超), [[汎]] (from 帆), [[太]] and [[戴]] (from 帯), [[歯]] and [[置]] (from 幟), [[籠]] (from 弄), [[銀]] (from 引), [[袂]] (from 弥). Will pick these up either in the normal alphabetical sweep as their filenames come up, or as a dedicated mini-batch later — flagging now so they aren't silently forgotten the way 庸/湧 briefly were.
 
 Next: 廃墟.
 
@@ -1041,3 +1041,15 @@ Next: 弟子.
 Verified the real cross-word Korean-only pun already flagged on [[梯子]]'s own page — confirmed the two words are distinct at the Dan'a'yo level (ㄊ vs ㄉ initial), so no `>[!warning] Homophones` callout applies here, just a documented Korean-level coincidence. No stand-in relationship (弟→itself, 子→児子). All fields already correct. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 弥.
+
+### 2026-08-28, iteration 1227 — [[words/弥|弥]]
+
+Single-character stand-alone word. 弥's own `stand_in` is itself — documented. Filled `japanese: み`/`vietnamese: di`. **Found a genuine Dan'a'yo homophone**: 弥 and [[袂]] ("sleeve") share an identical reading — added reciprocal callouts to both (袂.md not otherwise stamped — added to the homophone-sibling backlog). Stamped only [[words/弥]] `date-last-perfect: 2026-08-28`.
+
+Next: 弥勒.
+
+### 2026-08-28, iteration 1228 — [[words/弥勒|弥勒]]
+
+Investigated `cantonese: mei4 lak6` looking like a mismatch against 弥's own citation form (nei4) — verified both mei4 and nei4 are real, independently attested Cantonese readings of 彌, with mei4 specifically conventional for this proper name (彌勒). No correction made — documented the divergence explicitly rather than "fixing" it. No stand-in relationship (弥→itself, 勒→勒馬). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: continuing the sweep.
