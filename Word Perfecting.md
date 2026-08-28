@@ -1189,3 +1189,27 @@ Next: 動詞.
 No stand-in relationship (動 is its own stand-in; 詞's own is [[単詞]]). Frontmatter already fully correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 勢力.
+
+### 2026-08-28, iteration 1252 — [[words/勢力|勢力]]
+
+勢's own `stand_in` field is 勢力 — added the stand-in note (力's own is [[力]], unrelated). Frontmatter already fully correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 包含.
+
+### 2026-08-28, iteration 1253 — [[words/包含|包含]]
+
+含's own `stand_in` field is 包含 — added the stand-in note (包's own is [[包装]]). **Real bug found and fixed**: `vietnamese` was malformed ("baohán", missing space, wrong tone) — corrected to `bao hàm`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 包括.
+
+### 2026-08-28, iteration 1254 — [[words/包括|包括]]
+
+括's own `stand_in` field is 包括 — added the stand-in note (包's own is [[包装]]). Fixed `hsk_level: 2` → quoted `"2"`. Frontmatter otherwise already correct. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 包皮.
+
+### 2026-08-28, iteration 1255 — [[words/包皮|包皮]]
+
+No stand-in relationship (包's own is [[包装]], 皮's is [[皮革]]). **Real bug found and fixed**: `mandarin` was truncated ("bāop") — corrected to bāopí. Documented `vietnamese: bao bì` as compositionally correct but semantically drifted toward "packaging" in modern usage (medical Vietnamese prefers "bao quy đầu"), left as-is per vault convention of using the compositional form. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 匈奴.
