@@ -1117,3 +1117,27 @@ Next: 創立.
 創's own `stand_in` field is 創立 — added the stand-in note (立's own is [[立]], unrelated). **Real bug found and fixed**: `mandarin` had 立's cantonese reading erroneously appended to it as a merged string ("chuànglì; ong3 laap6"), leaving `cantonese` blank — split apart and corrected. `羅馬字` also had 創's syllable using the divergent "cang" form rather than its own authoritative "cwang" (諺文 촹립 was already correct) — corrected to cwanglib. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 創造.
+
+### 2026-08-28, iteration 1240 — [[words/創造|創造]]
+
+造's own `stand_in` field is 創造 — added the stand-in note (創's own is [[創立]]). **Real bugs found and fixed**: same cang/창 vs cwang/촹 contamination on 創's syllable as [[創世記]]/[[創立]] — corrected. `vietnamese: tạo nên` was a native colloquial gloss rather than the real Sino-Vietnamese compound — corrected to `sáng tạo` (verified). `aliases` erroneously listed the word's own traditional form as an "alias" — corrected to simplified 创造. No homophones. Stamped `date-last-perfect: 2026-08-28`. (All three 創-compounds in this cluster — 創世記, 創立, 創造 — are now fixed and stamped.)
+
+Next: 劇詩.
+
+### 2026-08-28, iteration 1241 — [[words/劇詩|劇詩]]
+
+No stand-in relationship (劇 is its own stand-in; 詩's own is [[詩歌]]). Filled blank `vietnamese: kịch thi` (compositional from both characters' own readings, matching sibling compounds; documented that real-world usage prefers native "kịch thơ" instead). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 加入.
+
+### 2026-08-28, iteration 1242 — [[words/加入|加入]]
+
+No stand-in relationship (入 is its own stand-in; 加's own is [[加算]]). Frontmatter already fully correct (verified japanese/korean/vietnamese all compositional). Fixed non-standard `## Etymology` heading → `## Notes`, expanded to full prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 加多金.
+
+### 2026-08-28, iteration 1243 — [[words/加多金|加多金]]
+
+Periodictable/neologism word (gadolinium). **Real bug found and fixed**: `注音` second syllable had ㄉㄚ instead of the correct ㄉㄜ (matching [[加多]]'s own attested reading gadǝ/가드/ㄍㄚㄉㄜ) — corrected. Removed the redundant `品詞` field. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 加持.
