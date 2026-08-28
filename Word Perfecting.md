@@ -739,3 +739,21 @@ Next: 帰順.
 No stand-in relationship (帰→回帰, 順→順次). Filled blank `cantonese`/`vietnamese: quy thuận` (both verified). Notes note the real "incomplete voluntariness" nuance (submission under pressure, distinct from 帰服/quy phục). No homophones. Stamped `date-last-perfect: 2026-08-27`.
 
 Next: 帳簿.
+
+### 2026-08-27, iteration 1173 — [[words/帳簿|帳簿]]
+
+簿's own `stand_in` field is 帳簿 — added the stand-in note. Filled blank `korean: 장부`/`vietnamese: trướng bạ` (both verified). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 常用.
+
+### 2026-08-27, iteration 1174 — [[words/常用|常用]]
+
+**Real `vietnamese` bug found and fixed**: stored thông thường, a different everyday Vietnamese adverb ("usually") built from unrelated characters/words, not a reading of 常+用 at all — corrected to thường dụng, the genuine compositional reading (both 常's "thường" and 用's "dụng" independently confirmed on their own character pages), verified as a real attested term. No stand-in relationship (常→日常, 用→使用). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 常識.
+
+### 2026-08-27, iteration 1175 — [[words/常識|常識]]
+
+Clean pass — all fields were already correct compositional concatenations (`vietnamese: thường thức` already right, a real distinct word from [[常用]]'s previous contamination). Filled blank `pos: 名詞`. No stand-in relationship (常→日常, 識→認識). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: continuing the sweep.
