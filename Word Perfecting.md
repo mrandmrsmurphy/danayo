@@ -1141,3 +1141,27 @@ Next: 加多金.
 Periodictable/neologism word (gadolinium). **Real bug found and fixed**: `注音` second syllable had ㄉㄚ instead of the correct ㄉㄜ (matching [[加多]]'s own attested reading gadǝ/가드/ㄍㄚㄉㄜ) — corrected. Removed the redundant `品詞` field. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 加持.
+
+### 2026-08-28, iteration 1244 — [[words/加持|加持]]
+
+No stand-in relationship (持 is its own stand-in; 加's own is [[加算]]). Filled blank `cantonese: gaa1 ci4` (verified). **Found a genuine Dan'a'yo homophone**: 加持 and [[価値]] ("worth, value") share an identical reading — standardized the non-canonical `[!tip]`/informal-text callouts on both pages into proper reciprocal `>[!warning] Homophones` callouts, and completed [[価値]]'s full frontmatter/Notes pass in the same iteration (both pages already fully correct otherwise) rather than deferring it to the backlog. Both stamped `date-last-perfect: 2026-08-28`.
+
+Next: 加皮.
+
+### 2026-08-28, iteration 1245 — [[words/加皮|加皮]]
+
+No stand-in relationship (加's own is [[加算]], 皮's is [[皮革]]). Documented that 加 here is a same-Mandarin-reading (jiā) phonetic substitute for the uncreated character 痂, with 痂皮 recorded as the real-word alias. **Real bug found and fixed**: `mandarin`/`cantonese` covered only 加's own reading (jiā/gaa1), missing 皮's contribution entirely — corrected to jiāpí/gaa1 pei4. Removed the redundant `品詞` field. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 労動.
+
+### 2026-08-28, iteration 1246 — [[words/労動|労動]]
+
+労's own `stand_in` field is 労動 — added the stand-in note (動's own is [[動]], unrelated). Frontmatter already fully correct, including `korean: 로동` correctly preserving the unshifted North Korean form. Fixed non-standard `## Etymology` heading → `## Notes`, expanded to full prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 効果.
+
+### 2026-08-28, iteration 1247 — [[words/効果|効果]]
+
+効's own `stand_in` field is 効果 — added the stand-in note (果's own is [[果実]]). Frontmatter already fully correct. Fixed non-standard `## Etymology` heading → `## Notes`, expanded to full prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 効率.
