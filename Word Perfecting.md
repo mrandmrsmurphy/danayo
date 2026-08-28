@@ -1052,4 +1052,14 @@ Next: 弥勒.
 
 Investigated `cantonese: mei4 lak6` looking like a mismatch against 弥's own citation form (nei4) — verified both mei4 and nei4 are real, independently attested Cantonese readings of 彌, with mei4 specifically conventional for this proper name (彌勒). No correction made — documented the divergence explicitly rather than "fixing" it. No stand-in relationship (弥→itself, 勒→勒馬). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
-Next: continuing the sweep.
+### 2026-08-28, iteration 1229 — [[words/弥漫|弥漫]]
+
+漫's own `stand_in` field is 弥漫 — added the stand-in note. Investigated `japanese: びまん`, which doesn't match either constituent's own on'yomi (弥's MI, 漫's MAN) — verified it's a genuine, independently-attested lexicalized reading, not a bug. Filled blank `vietnamese: di mạn` (verified, including its use in the set phrase 煙霧彌漫). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弧度.
+
+### 2026-08-28, iteration 1230 — [[words/弧度|弧度]]
+
+No stand-in relationship (弧→弧線, 度→程度). Filled blank `cantonese`/`vietnamese: hồ độ` (both verified). Standardized the homophone callout format with [[糊塗]] (real, confirmed genuine collision) on both pages — was already reciprocal, just non-canonical `[!tip]`/`[!Tip]` phrasing. Also fixed relative-path links (missing `../`). No new gaps. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弧線.
