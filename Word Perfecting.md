@@ -805,3 +805,15 @@ Next: 平安.
 No stand-in relationship (平→水平, 日→itself). All fields already correct compositional concatenations; filled blank `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 平板.
+
+### 2026-08-28, iteration 1185 — [[words/平板|平板]]
+
+No stand-in relationship (平→水平, 板→木板). Filled blank `vietnamese: bình bản` (verified). Notes cover both the literal "flat panel/slab" sense and the modern extension to "tablet computer" (平板電腦). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 平穏.
+
+### 2026-08-28, iteration 1186 — [[words/平穏|平穏]]
+
+穏's own `stand_in` field is 平穏 — added the stand-in note. Filled blank `vietnamese: bình ổn` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 平等.
