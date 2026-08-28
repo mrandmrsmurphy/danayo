@@ -1105,3 +1105,15 @@ Next: 副金.
 Periodictable/neologism word (protactinium). Frontmatter fields were already correct by design (real-world CJKV fields are phonetic loanwords, `kwin: false` correctly reflects the non-compositional Dan'a'yo coinage 副金 "subsidiary metal, relative to 始金"). Verified `羅馬字`/`諺文`/`注音` are compositional from 副's and 金's own readings. Removed the redundant `品詞` field and added the missing `word` tag (both common gaps across this periodictable batch). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 創世記.
+
+### 2026-08-28, iteration 1238 — [[words/創世記|創世記]]
+
+No stand-in relationship (創→[[創立]], 世→[[世界]], 記→[[記憶]], all different words). **Real bug found and fixed**: 創's syllable in `羅馬字`/`諺文`/`注音` was contaminated from a divergent form (cang/창/ㄑㄚㄫ) rather than 創's own authoritative reading (cwang/촹/ㄑ⺢ㄫ, confirmed via 創's own character page and its stand-in [[創立]]) — corrected. Confirmed 世's own syllable 서 (not 세, despite 羅馬字 "se") is the established vault-wide convention (checked against 8+ sibling words using 世), not an error — left as-is. Expanded Notes with full stand-in documentation. No homophones. Stamped `date-last-perfect: 2026-08-28`. Note: [[創立]] and [[創造]] (both still unstamped, next in queue) may carry the same cang/창 vs cwang/촹 contamination — worth checking when reached.
+
+Next: 創立.
+
+### 2026-08-28, iteration 1239 — [[words/創立|創立]]
+
+創's own `stand_in` field is 創立 — added the stand-in note (立's own is [[立]], unrelated). **Real bug found and fixed**: `mandarin` had 立's cantonese reading erroneously appended to it as a merged string ("chuànglì; ong3 laap6"), leaving `cantonese` blank — split apart and corrected. `羅馬字` also had 創's syllable using the divergent "cang" form rather than its own authoritative "cwang" (諺文 촹립 was already correct) — corrected to cwanglib. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 創造.
