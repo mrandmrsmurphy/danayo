@@ -717,3 +717,15 @@ Next: 帯.
 Single-character stand-alone word. **Found `korean: "null"` (the literal string bug, same shape as [[尚]]/[[巻]])** — corrected to 대. 帯's own `stand_in` is itself — documented. **Found a genuine triple Dan'a'yo homophone**: 帯, [[太]], and [[戴]] all share tai/태/ㄊㄚㄧ, none of the three had any homophone callout at all before this — added reciprocal callouts to all three (太.md/戴.md not otherwise stamped this iteration). Filled `japanese: たい`/`vietnamese: đai`. Stamped only [[words/帯]] `date-last-perfect: 2026-08-27`.
 
 Next: 帰納.
+
+### 2026-08-27, iteration 1169 — [[words/帰納|帰納]]
+
+Fixed another archaic-kana `japanese` typo (きなふ → きのう, same recurring class as [[将軍]]/[[少女]]/[[少年]]). No stand-in relationship (帰→回帰, 納→itself). Filled blank `vietnamese: quy nạp` (verified, distinguished from 演繹/diễn dịch "deduction"). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 帰結.
+
+### 2026-08-27, iteration 1170 — [[words/帰結|帰結]]
+
+No stand-in relationship (帰→回帰, 結→itself). Filled blank `vietnamese: quy kết` — but found a real semantic drift: Vietnamese quy kết has narrowed toward a negative, accusatory register ("to unfairly judge/condemn without evidence") rather than the neutral logical-conclusion sense Japanese きけつ/Korean 귀결 both keep. Documented the drift rather than presenting it as a clean match. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: continuing the sweep.
