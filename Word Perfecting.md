@@ -1093,3 +1093,15 @@ Next: 剣術.
 No stand-in relationship (both 剣 and 術 are independent Dan'a'yo entries, each its own stand-in). Frontmatter was already fully correct (japanese/korean/vietnamese all verified compositional); fixed the non-standard `## Etymology` heading → `## Notes` and expanded to full checklist prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 副詞.
+
+### 2026-08-28, iteration 1236 — [[words/副詞|副詞]]
+
+No stand-in relationship (副 is its own stand-in; 詞's own is [[単詞]]). Frontmatter already fully correct (verified japanese/korean/vietnamese all compositional, vietnamese "phó" confirmed against sibling compounds 副用/副業). Added the missing `## Notes` section entirely (page previously had none). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 副金.
+
+### 2026-08-28, iteration 1237 — [[words/副金|副金]]
+
+Periodictable/neologism word (protactinium). Frontmatter fields were already correct by design (real-world CJKV fields are phonetic loanwords, `kwin: false` correctly reflects the non-compositional Dan'a'yo coinage 副金 "subsidiary metal, relative to 始金"). Verified `羅馬字`/`諺文`/`注音` are compositional from 副's and 金's own readings. Removed the redundant `品詞` field and added the missing `word` tag (both common gaps across this periodictable batch). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 創世記.
