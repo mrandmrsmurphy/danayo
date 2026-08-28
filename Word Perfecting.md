@@ -1309,3 +1309,27 @@ Next: 十五.
 No stand-in relationship (both independent). Frontmatter values already correct; fixed malformed `japanese`/`vietnamese` YAML-lists → plain scalars, `characters` citation, and redundant `品詞`. Notes section was truncated to a bare "## Notes" heading with no content — rebuilt in full. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 十五日.
+
+### 2026-08-28, iteration 1272 — [[words/十五日|十五日]]
+
+Same pattern as prior day-words: filled blank `vietnamese: thập ngũ nhật`, fixed `characters` citation, malformed `japanese` list, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十八日.
+
+### 2026-08-28, iteration 1273 — [[words/十八日|十八日]]
+
+Same pattern as prior day-words: filled blank `vietnamese: thập bát nhật`, fixed `characters` citation, malformed `japanese` list, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十六.
+
+### 2026-08-28, iteration 1274 — [[words/十六|十六]]
+
+No stand-in relationship (both independent). **Real bugs found and fixed**: `korean` was blank — filled 십륙 (North Korean/문화어). `vietnamese` had a native paraphrase ("Mười sáu") — corrected to `thập lục`. Fixed `characters` citation, empty-list `aliases`, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十六日.
+
+### 2026-08-28, iteration 1275 — [[words/十六日|十六日]]
+
+No stand-in relationship. **Real bugs found and fixed**: `korean` used the South Korean 두음법칙-shifted form (십육일) instead of North Korean 십륙일 (matching [[十六]]'s own fix — confirmed via web search that North Korean 문화어 genuinely writes 십륙 where South Korean writes 십육, an exception where even South Korean's own orthography treats 六 as quasi-word-initial). `注音` had a single-letter typo in the last syllable (ㄋㄝㄊ → ㄋㄧㄊ). Filled blank `vietnamese: thập lục nhật`. Fixed `characters` citation, malformed `japanese` list, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十四.
