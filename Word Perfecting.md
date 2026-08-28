@@ -1657,3 +1657,27 @@ Next: 史記.
 No stand-in relationship (史's own is [[歴史]]; 記's is [[記憶]]). Frontmatter already fully correct. Added the missing Notes content entirely (heading was present but empty). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 司鈬.
+
+### 2026-08-28, iteration 1330 — [[words/司鈬|司鈬]]
+
+No stand-in relationship (司's own is [[公司]]; 鈬 is its own stand-in). Filled blank `vietnamese: tư đạc` (verified, the real Vietnamese Catholic term). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 合成.
+
+### 2026-08-28, iteration 1331 — [[words/合成|合成]]
+
+Page was already nearly complete. No stand-in relationship (both independent) — added the note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 合肥.
+
+### 2026-08-28, iteration 1332 — [[words/合肥|合肥]]
+
+No stand-in relationship (合 is its own stand-in; 肥's own is [[肥満]]). Filled missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 合金.
+
+### 2026-08-28, iteration 1333 — [[words/合金|合金]]
+
+No stand-in relationship (合 is its own stand-in; 金's is [[金]], unrelated). Discovered and documented a systematic two-way split in how 合 is read across the vault: kab/캅 in "mixture/blend" sense compounds ([[混合]], [[組合]], [[癒合]], [[融合]], and now 合金) vs. gob/곱 (matching 合's bare citation) in "join/unite" sense compounds ([[合肥]], [[合成]], [[結合]], [[連合]]) — 合金's own kab/캅 fields are correct as-is, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 同一.
