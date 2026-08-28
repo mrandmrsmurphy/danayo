@@ -767,3 +767,15 @@ Next: 幟.
 Single-character stand-alone word. 幟's own `stand_in` is itself — documented. Filled `japanese: し`/`korean`/`vietnamese` (all already present, verified correct). **Found a genuine triple Dan'a'yo homophone**: 幟, [[歯]], and [[置]] all share ci/치/ㄑㄧ — checked several other candidates sharing this bopomofo string (恥/厠/治/痴/瓷/祉/辞/魑) but all of those are bound characters citing a different compound as their own `stand_in`, so they don't collide at the word level; only these three genuinely standalone words do. Added reciprocal callouts to all three (歯.md/置.md not otherwise stamped, just got the callout ahead of their own turn). Stamped only [[words/幟]] `date-last-perfect: 2026-08-27`.
 
 Next: 幣 already stamped — 干戈.
+
+### 2026-08-27, iteration 1178 — [[words/干戈|干戈]]
+
+戈's own `stand_in` field is 干戈 — added the stand-in note. All fields already correct compositional concatenations. Expanded Notes with the classical idiom 化干戈為玉帛. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 干渉.
+
+### 2026-08-27, iteration 1179 — [[words/干渉|干渉]]
+
+干's own `stand_in` field is 干渉 — added the stand-in note. All fields already correct compositional concatenations. Noted the real dual usage (everyday interference + physics wave-interference) shared across all four languages. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: continuing the sweep.
