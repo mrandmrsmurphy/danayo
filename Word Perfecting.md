@@ -1705,3 +1705,51 @@ Next: 名詞.
 No stand-in relationship (名 is its own stand-in; 詞's own is [[単詞]]). **Real bug found and fixed**: `mandarin` had been stored as simplified Chinese characters "名词" instead of pinyin — corrected to míngcí. `cantonese` was blank — filled ming4 ci4. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 君士坦丁堡.
+
+### 2026-08-28, iteration 1338 — [[words/君士坦丁堡|君士坦丁堡]]
+
+No stand-in relationship (君/士/丁 each their own; 坦's own is [[平坦]]; 堡's is [[堡塁]]). Filled blank `vietnamese: Quân Sĩ Thản Đinh Bảo` (compositional, verified; modern Vietnamese typically uses the loan "Constantinopolis" instead). Fixed relative-path links. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 君子.
+
+### 2026-08-28, iteration 1339 — [[words/君子|君子]]
+
+No stand-in relationship (君 is its own stand-in; 子's own is [[児子]]). **Real bug found and fixed**: `mandarin`/`cantonese` had been merged into one string, leaving `cantonese` blank — split apart. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 君等.
+
+### 2026-08-28, iteration 1340 — [[words/君等|君等]]
+
+No stand-in relationship (both independent). Filled blank `mandarin`/`cantonese`/`japanese` (all compositional). Documented `korean`/`vietnamese` as native colloquial pronoun equivalents rather than Sino-compounds, since this literary term lacks an everyday Sino equivalent in those languages. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 否定.
+
+### 2026-08-28, iteration 1341 — [[words/否定|否定]]
+
+Page was already nearly complete. No stand-in relationship (否 is its own stand-in; 定's own is [[決定]]) — added the note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 吸金.
+
+### 2026-08-28, iteration 1342 — [[words/吸金|吸金]]
+
+Periodictable/neologism word (samarium). No stand-in relationship. Verified `mandarin`/`cantonese` are the genuine real-world element name 钐, not compositional. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 告訴.
+
+### 2026-08-28, iteration 1343 — [[words/告訴|告訴]]
+
+告's own `stand_in` field is 告訴 — added the stand-in note (訴's own is [[訴訟]]). **Real bug found and fixed**: `cantonese` was blank — filled gou3 sou3. Filled blank `vietnamese: tố cáo`. Completed the reciprocal homophone pair with [[高素]] ("gallium"), whose own page was already waiting on this word. No other homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 周章.
+
+### 2026-08-28, iteration 1344 — [[words/周章|周章]]
+
+No stand-in relationship (周's own is [[圓周]]; 章 is its own stand-in). Filled blank `korean`/`vietnamese` (주장/chu chương, verified). **Found and completed a genuine Dan'a'yo homophone with [[周長]]** ("perimeter"): 章 and 長 coincidentally share the same Dan'a'yo phonology despite being unrelated characters — standardized both non-canonical `[!tip]` callouts to proper reciprocal `>[!warning]` format and fully completed 周長 in the same pass (filled its blank vietnamese, fixed a missing-space cantonese bug). Both stamped `date-last-perfect: 2026-08-28`.
+
+Next: 呪詛.
+
+### 2026-08-28, iteration 1345 — [[words/呪詛|呪詛]]
+
+詛's own `stand_in` field is 呪詛 — already documented (呪's own is [[呪文]]). Filled blank `vietnamese: chú trù` (compositional). Verified `korean: 주저` is coincidentally identical to the unrelated word for "hesitation," not a bug. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 命令.
