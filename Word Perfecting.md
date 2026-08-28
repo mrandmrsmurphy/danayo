@@ -1777,3 +1777,27 @@ Next: 和平.
 和's own `stand_in` field is 和平 — added the stand-in note (平's own is [[水平]]). Verified `japanese: わへい` is the correct reading for this character order, distinct from へいわ (the alias 平和's own reading). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 和諧.
+
+### 2026-08-28, iteration 1350 — [[words/和諧|和諧]]
+
+Page was already fully complete (諧's own `stand_in` field is 和諧, already documented). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 哀悼.
+
+### 2026-08-28, iteration 1351 — [[words/哀悼|哀悼]]
+
+No stand-in relationship (哀's own is [[哀傷]]; 悼 is its own stand-in). **Real bugs found and fixed**: `vietnamese` had been set to the Mandarin pinyin string "āidào" instead of an actual Vietnamese reading — corrected to `ai điệu`. `cantonese` missing space. `注音` had two garbled consonant letters — corrected to match each character's own citation. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 品詞.
+
+### 2026-08-28, iteration 1352 — [[words/品詞|品詞]]
+
+No stand-in relationship (品 is its own stand-in; 詞's own is [[単詞]]). **Real bug found and fixed**: `mandarin`/`cantonese` had been contaminated with the alias 詞性's reading (cíxìng/ci4 sing3) instead of 品詞's own — corrected to pǐncí/ban2 ci4. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 哲学.
+
+### 2026-08-28, iteration 1353 — [[words/哲学|哲学]]
+
+哲's own `stand_in` field is 哲学 — added the stand-in note (学's own is [[学習]]). **Real bugs found and fixed**: `mandarin`/`cantonese` had been stored as raw Chinese characters ("哲學"/"哲理," the latter a different word) instead of romanizations — corrected to zhéxué/zit3 hok6. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 唐突.
