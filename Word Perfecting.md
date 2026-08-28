@@ -1075,3 +1075,21 @@ Next: 弯曲.
 弯's own `stand_in` field is 弯曲 — added the stand-in note (曲's own is [[歌曲]], not this word). Fixed malformed `japanese` field (one-item YAML list → plain scalar わんきょく, verified as WAN + KYOKU, 弯's own on'yomi rather than the alternate EN reading). Filled blank `vietnamese: loan khúc` (verified — genuine Sino-Vietnamese compound, "winding, curved"). Verified `korean: 만곡` is correctly compositional from both characters' own readings (no 두음법칙 contamination). Removed the redundant non-standard `品詞` field (duplicate of `pos`, not part of the checklist schema). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 弱.
+
+### 2026-08-28, iteration 1233 — [[words/弱|弱]]
+
+Single-character stand-alone word, rebuilt from a malformed stub (bare-scalar `characters`, `vietnamese: null`, missing `pos`/`japanese`, wrong-level `# Notes` heading). 弱's own `stand_in` field is itself — documented. Filled `japanese: じゃく` (matching sibling compounds 衰弱/薄弱/羸弱's JAKU, not the alternate NYAKU that the 羅馬字 "nyag" derives from) and `vietnamese: nhược` (from the character's own vietnamese list, matching those same siblings). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 強.
+
+### 2026-08-28, iteration 1234 — [[words/強|強]]
+
+Single-character stand-alone word, rebuilt from a malformed stub. 強's own `stand_in` field is itself — documented. Filled `japanese: きょう`/`vietnamese: cường` (matching sibling compounds 強化/強固/強国/剛強). No homophones (注音 shared only with character [[僵]], whose own stand-in 僵屍 is a different multi-syllable reading). Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 剣術.
+
+### 2026-08-28, iteration 1235 — [[words/剣術|剣術]]
+
+No stand-in relationship (both 剣 and 術 are independent Dan'a'yo entries, each its own stand-in). Frontmatter was already fully correct (japanese/korean/vietnamese all verified compositional); fixed the non-standard `## Etymology` heading → `## Notes` and expanded to full checklist prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 副詞.
