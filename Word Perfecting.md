@@ -1615,3 +1615,21 @@ Next: 古風.
 No stand-in relationship (古's own is [[古代]]; 風 is its own stand-in). **Real bug found and fixed**: `aliases` incorrectly listed the distinct compound 古雅 (built from 雅, not 風, no word page of its own) as an orthographic variant — removed, keeping only 古风. Cleaned up duplicated Notes content (same etymology line appeared twice). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 叫喚.
+
+### 2026-08-28, iteration 1323 — [[words/叫喚|叫喚]]
+
+No stand-in relationship (both independent). Filled blank `vietnamese: khiếu hoán`. Fixed non-standard `# Notes` heading level → `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 召集.
+
+### 2026-08-28, iteration 1324 — [[words/召集|召集]]
+
+召's own `stand_in` field is 召集 — added the stand-in note (集's own is [[集合]]). Filled blank `pos: 事詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 可愛.
+
+### 2026-08-28, iteration 1325 — [[words/可愛|可愛]]
+
+No stand-in relationship (both independent). **Real bugs found and fixed**: `羅馬字`/`諺文`/`注音` had 可's syllable using a divergent form (ka/카) instead of its own authoritative reading (kǝ/크), confirmed against 7 other 可-compounds — corrected, and propagated the fix to the ruby citations on both [[可]]'s and [[愛]]'s own Words sections (same class of bug as [[古典]]). `japanese` had a typo (かはいい → かわいい). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 可読.

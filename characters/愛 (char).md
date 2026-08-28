@@ -54,7 +54,7 @@ boundedness: 80
 - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby> "love" (stand-in for 愛)
 - <ruby>[[愛人]]<rt>ㄚㄧㄋㄧㄋ</rt></ruby> "spouse (Mandarin); lover/mistress (varies by language — see word page)"
 - <ruby>[[愛媛]]<rt>ㄚㄧ·ㄛㄋ</rt></ruby> "Ehime Prefecture"
-- <ruby>[[可愛]]<rt>ㄎㄚ·ㄚㄧ</rt></ruby> "cute"
+- <ruby>[[可愛]]<rt>ㄎㄜ·ㄚㄧ</rt></ruby> "cute"
 - <ruby>[[恩愛]]<rt>ㄚㄋ·ㄚㄧ</rt></ruby> "love"
 - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby> "to like"
 - <ruby>[[愛惜]]<rt>ㄚㄧㄙㄝㄎ</rt></ruby> "to cherish; treasure"

@@ -56,7 +56,7 @@ boundedness: 75
 - <ruby>[[許可]]<rt>ㄏ⼄ㄎㄜ</rt></ruby> "permission; authorization"
 - <ruby>[[可以]]<rt>ㄎㄜㄧ</rt></ruby> "can, may (permissive)"
 - <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"
-- <ruby>[[可愛]]<rt>ㄎㄚ·ㄚㄧ</rt></ruby> "cute"
+- <ruby>[[可愛]]<rt>ㄎㄜ·ㄚㄧ</rt></ruby> "cute"
 - <ruby>[[可憐]]<rt>ㄎㄜㄌㄝㄋ</rt></ruby> "pitiful"
 - <ruby>[[可読]]<rt>ㄎㄜㄉㄛㄎ</rt></ruby> "readable; legible"
 - <ruby>[[可不]]<rt>ㄎㄜㄅㄛㄊ</rt></ruby> "able to not (do something); permitted to refrain from"
