@@ -1063,3 +1063,15 @@ Next: 弧度.
 No stand-in relationship (弧→弧線, 度→程度). Filled blank `cantonese`/`vietnamese: hồ độ` (both verified). Standardized the homophone callout format with [[糊塗]] (real, confirmed genuine collision) on both pages — was already reciprocal, just non-canonical `[!tip]`/`[!Tip]` phrasing. Also fixed relative-path links (missing `../`). No new gaps. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 弧線.
+
+### 2026-08-28, iteration 1231 — [[words/弧線|弧線]]
+
+弧's own `stand_in` field is 弧線 — added the stand-in note. Filled blank `cantonese`/`vietnamese: hồ tuyến` (both verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弯曲.
+
+### 2026-08-28, iteration 1232 — [[words/弯曲|弯曲]]
+
+弯's own `stand_in` field is 弯曲 — added the stand-in note (曲's own is [[歌曲]], not this word). Fixed malformed `japanese` field (one-item YAML list → plain scalar わんきょく, verified as WAN + KYOKU, 弯's own on'yomi rather than the alternate EN reading). Filled blank `vietnamese: loan khúc` (verified — genuine Sino-Vietnamese compound, "winding, curved"). Verified `korean: 만곡` is correctly compositional from both characters' own readings (no 두음법칙 contamination). Removed the redundant non-standard `品詞` field (duplicate of `pos`, not part of the checklist schema). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弱.
