@@ -1165,3 +1165,27 @@ Next: 効果.
 効's own `stand_in` field is 効果 — added the stand-in note (果's own is [[果実]]). Frontmatter already fully correct. Fixed non-standard `## Etymology` heading → `## Notes`, expanded to full prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 効率.
+
+### 2026-08-28, iteration 1248 — [[words/効率|効率]]
+
+No stand-in relationship (効's own is [[効果]], 率's is [[比率]]). Verified `korean: 효율` (률→율 after a vowel is standard Korean orthography, not a bug). Fixed `hsk_level: 2` → quoted `"2"` per schema. Fixed non-standard `## Etymology` heading → `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 勃勃.
+
+### 2026-08-28, iteration 1249 — [[words/勃勃|勃勃]]
+
+Reduplication of 勃 — no stand-in relationship (its own stand-in is [[勃興]]). Filled blank `vietnamese: bột bột` (verified, standard Sino-Vietnamese reduplication as in 生氣勃勃). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 勇敢.
+
+### 2026-08-28, iteration 1250 — [[words/勇敢|勇敢]]
+
+勇's own `stand_in` field is 勇敢 — added the stand-in note (敢's own is [[敢為]]). Frontmatter already fully correct. Added the missing `## Notes` section entirely (page previously had none). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 動詞.
+
+### 2026-08-28, iteration 1251 — [[words/動詞|動詞]]
+
+No stand-in relationship (動 is its own stand-in; 詞's own is [[単詞]]). Frontmatter already fully correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 勢力.
