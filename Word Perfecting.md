@@ -1357,3 +1357,27 @@ Next: 午前.
 No stand-in relationship (午's own is [[正午]]; 前 is its own stand-in). **Real bug found and fixed**: `mandarin`/`cantonese` had been contaminated with the alias 上午's reading (shàngwǔ/soeng6 ng5) instead of 午前's own (wǔqián/ng5 cin4) — corrected. Filled blank `pos: 名詞`. Documented `vietnamese: buổi sáng` as a native paraphrase rather than a direct calque. Cleaned up a duplicate `## Notes`/`## Etymology` heading pair. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 午後.
+
+### 2026-08-28, iteration 1280 — [[words/午後|午後]]
+
+No stand-in relationship. **Real bug found and fixed**: `mandarin`/`cantonese` contaminated with the alias 下午's reading (same class of bug as [[午前]]/上午) — corrected to wǔhòu/ng5 hau6. Filled blank `pos: 名詞`. Documented that Dan'a'yo renders 後 here as hou/홋 rather than its own huo/훗 citation form, matching the established suffix-position convention on [[以後]]/[[最後]] (vs. prefix/classical-connective 後 in [[後裔]]/[[然後]]) — a vault-wide pattern noted for awareness, not altered. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 午月.
+
+### 2026-08-28, iteration 1281 — [[words/午月|午月]]
+
+Verified japanese うまつき / vietnamese tháng Ngọ match the established native zodiac-month-name convention (matching sibling [[寅月]]'s とらつき/tháng Dần). **Found a genuine Dan'a'yo homophone**: 午月 and [[五月]] ("May") share an identical reading — added reciprocal callouts to both, and completed [[五月]]'s full pass in the same iteration (already-stamped page, fixed missing space in cantonese and relative-path links, re-stamped). No new gaps. Both stamped `date-last-perfect: 2026-08-28`.
+
+Next: 半島.
+
+### 2026-08-28, iteration 1282 — [[words/半島|半島]]
+
+半's own is [[一半]]; 島 is its own stand-in — no stand-in relationship. **Real bug found and fixed**: `mandarin`/`cantonese` were both entirely blank — filled bàndǎo/bun3 dou2. **Found the reciprocal side of an existing homophone**: 半島 and [[絆倒]] ("to trip, cause to stumble") already noted each other informally via non-canonical `[!tip]` callouts — standardized both to proper `>[!warning] Homophones` format and completed [[絆倒]]'s stand-in note in the same pass (絆's own stand-in is 絆倒 itself). Both stamped `date-last-perfect: 2026-08-28`.
+
+Next: 卍字.
+
+### 2026-08-28, iteration 1283 — [[words/卍字|卍字]]
+
+卍's own `stand_in` field is 卍字 — added the stand-in note (字's own is [[字]], unrelated). Verified Dan'a'yo's `羅馬字`/`諺文`/`注音` (monji, diverging from all real readings) is a documented idiosyncratic choice on 卍's own character page, not an error. Fixed missing space in `cantonese`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 卓越.
