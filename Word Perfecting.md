@@ -1429,3 +1429,27 @@ Next: 単鷹国.
 Dan'a'yo coinage for Prussia ("single-eagle nation"). No stand-in relationship. Verified real-world CJKV fields are genuine phonetic loanwords (プロイセン, 프로이센, Phổ Lỗ Sĩ), not compositional — expected for this neologism. Fixed `characters` citation "鷹" → "鷹 (char)". No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 博士.
+
+### 2026-08-28, iteration 1292 — [[words/博士|博士]]
+
+No stand-in relationship (博's own is [[博大]]; 士 is its own stand-in). **Real bug found and fixed**: `mandarin`/`cantonese` were both entirely blank — filled bóshì/bok3 si6. Documented `vietnamese: bác sĩ` as compositionally correct but semantically drifted to mean "medical doctor" in modern usage (PhD is "tiến sĩ" instead). Fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 占拠.
+
+### 2026-08-28, iteration 1293 — [[words/占拠|占拠]]
+
+No stand-in relationship (占 is its own stand-in; 拠's own is [[依拠]]). Verified `cantonese: zim3` is a genuine alternate tone for 占's "occupy" sense (vs. its citation tone zim1 for "divination"), not an error. Fixed `characters` citation "占" → "占 (char)"; fixed unquoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 占星.
+
+### 2026-08-28, iteration 1294 — [[words/占星|占星]]
+
+No stand-in relationship (both independent). Verified `mandarin: zhānxīng` uses 占's "divine" tone rather than its citation tone (same sense-dependent split as [[占拠]]'s cantonese). Fixed `characters` citation, filled blank `pos: 名詞`, removed redundant blank `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 占星術.
+
+### 2026-08-28, iteration 1295 — [[words/占星術|占星術]]
+
+No stand-in relationship (all three independent). **Real bugs found and fixed**: `mandarin`/`cantonese` were missing 術's contribution entirely — filled zhānxīngshù/zim1 sing1 seot6. `japanese` was truncated (せんせいじ → せんせいじゅつ). Fixed `characters` citation. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 卯月.
