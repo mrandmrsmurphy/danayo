@@ -756,4 +756,14 @@ Next: 常識.
 
 Clean pass — all fields were already correct compositional concatenations (`vietnamese: thường thức` already right, a real distinct word from [[常用]]'s previous contamination). Filled blank `pos: 名詞`. No stand-in relationship (常→日常, 識→認識). No homophones. Stamped `date-last-perfect: 2026-08-27`.
 
-Next: continuing the sweep.
+### 2026-08-27, iteration 1176 — [[words/幕|幕]]
+
+Single-character stand-alone word. 幕's own `stand_in` is itself — documented. Filled `japanese: まく`. **Found a genuine Dan'a'yo homophone**: 幕 and its own phonetic root [[莫]] ("not, none") share an identical reading — added reciprocal callouts to both (莫.md had been stamped since June without ever carrying one). Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 幟.
+
+### 2026-08-27, iteration 1177 — [[words/幟|幟]]
+
+Single-character stand-alone word. 幟's own `stand_in` is itself — documented. Filled `japanese: し`/`korean`/`vietnamese` (all already present, verified correct). **Found a genuine triple Dan'a'yo homophone**: 幟, [[歯]], and [[置]] all share ci/치/ㄑㄧ — checked several other candidates sharing this bopomofo string (恥/厠/治/痴/瓷/祉/辞/魑) but all of those are bound characters citing a different compound as their own `stand_in`, so they don't collide at the word level; only these three genuinely standalone words do. Added reciprocal callouts to all three (歯.md/置.md not otherwise stamped, just got the callout ahead of their own turn). Stamped only [[words/幟]] `date-last-perfect: 2026-08-27`.
+
+Next: 幣 already stamped — 干戈.
