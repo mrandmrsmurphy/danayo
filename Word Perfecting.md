@@ -948,7 +948,7 @@ Next: continuing the sweep.
 
 Same gap as [[庸]] just found — never actually stamped despite receiving its homophone callout earlier this session. Filled `pos`/`japanese`/`kwin`, built out the Notes section, stamped. **Lesson for future homophone-fix passes**: adding a reciprocal callout to an unstamped sibling page (as done for [[容]]/[[庸]]/[[湧]] and other triples this session) doesn't complete that page — it still needs its own full pass before stamping, and should be tracked as a real remaining item, not assumed done. Stamped `date-last-perfect: 2026-08-28`.
 
-**Homophone-sibling backlog note (2026-08-28, updated)**: swept the log for other pages that received a reciprocal homophone callout earlier this session but were explicitly left "not otherwise stamped, awaiting their own turn" — per the lesson above, these still need their own full completion pass, not just the callout. Remaining: [[賞]] (from the 尚/上/賞 triple), [[戦時]] (from 展翅), [[超]] (from 島/倒/超), [[汎]] (from 帆), [[太]] and [[戴]] (from 帯), [[歯]] and [[置]] (from 幟), [[籠]] (from 弄). Will pick these up either in the normal alphabetical sweep as their filenames come up, or as a dedicated mini-batch later — flagging now so they aren't silently forgotten the way 庸/湧 briefly were.
+**Homophone-sibling backlog note (2026-08-28, updated)**: swept the log for other pages that received a reciprocal homophone callout earlier this session but were explicitly left "not otherwise stamped, awaiting their own turn" — per the lesson above, these still need their own full completion pass, not just the callout. Remaining: [[賞]] (from the 尚/上/賞 triple), [[戦時]] (from 展翅), [[超]] (from 島/倒/超), [[汎]] (from 帆), [[太]] and [[戴]] (from 帯), [[歯]] and [[置]] (from 幟), [[籠]] (from 弄), [[銀]] (from 引). Will pick these up either in the normal alphabetical sweep as their filenames come up, or as a dedicated mini-batch later — flagging now so they aren't silently forgotten the way 庸/湧 briefly were.
 
 Next: 廃墟.
 
@@ -1014,4 +1014,14 @@ Next: 弊.
 
 Single-character stand-alone word. 弊's own `stand_in` is itself — documented. Filled `japanese: へい`/`vietnamese: tệ` (correctly picking the standard reading, tệ nạn, over the character's other listed Nôm variant giẻ). No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
 
-Next: continuing the sweep.
+### 2026-08-28, iteration 1222 — [[words/弔|弔]]
+
+Single-character stand-alone word. 弔's own `stand_in` is itself — documented. Filled `japanese: ちょう`. No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 引.
+
+### 2026-08-28, iteration 1223 — [[words/引|引]]
+
+Single-character stand-alone word. 引's own `stand_in` is itself — documented. Filled `japanese: いん`/`vietnamese: dẫn`. **Found a genuine Dan'a'yo homophone**: 引 and [[銀]] ("silver," a periodictable word) share an identical reading — added reciprocal callouts to both (銀.md not otherwise stamped — added to the homophone-sibling backlog). Stamped only [[words/引]] `date-last-perfect: 2026-08-28`.
+
+Next: 引入.
