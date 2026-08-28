@@ -933,3 +933,13 @@ Next: 康寧.
 Already had excellent, richly-developed prose explaining the 康/健 sense-split ([[康寧]] vs. [[健全]], both collapsed under [[健康]]). Just needed `vietnamese: khang ninh` filled in (verified as a formal blessing-register term). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 康金.
+
+### 2026-08-28, iteration 1208 — [[words/康金|康金]]
+
+A third `neologism`/`periodictable` word this session (scandium, element 21), same genre as [[孫金]]/[[射素]]. Added the standard opening bullet documenting no stand-in relationship and confirming `kwin: false` is correct by design. Did not rewrite the existing rich etymological reasoning (钪/kàng phonetic match, Scandinavia naming chain). Stamped `date-last-perfect: 2026-08-28`.
+
+### 2026-08-28, iteration 1209 — [[words/庸|庸]]
+
+Found this word had never actually been stamped, despite receiving its homophone callout in the earlier 容/庸/湧 triple-homophone pass this session — the callout addition alone didn't complete the page. Filled `pos`/`japanese`/`kwin`, built out the Notes section, and stamped it properly. No new homophones beyond the already-documented triple. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 湧 (also from that earlier pass — checking if it needs the same completion).
