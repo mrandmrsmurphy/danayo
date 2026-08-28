@@ -1381,3 +1381,27 @@ Next: 卍字.
 卍's own `stand_in` field is 卍字 — added the stand-in note (字's own is [[字]], unrelated). Verified Dan'a'yo's `羅馬字`/`諺文`/`注音` (monji, diverging from all real readings) is a documented idiosyncratic choice on 卍's own character page, not an error. Fixed missing space in `cantonese`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 卓越.
+
+### 2026-08-28, iteration 1284 — [[words/卓越|卓越]]
+
+卓's own `stand_in` field is 卓越 — added the stand-in note (越's own is [[越]], unrelated). **Real bug found and fixed**: `mandarin` had the wrong tone mark ("zhuōyuè" → zhuóyuè). Filled blank `pos: 性詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 協会.
+
+### 2026-08-28, iteration 1285 — [[words/協会|協会]]
+
+No stand-in relationship (協's own is [[協力]]; 会 is its own stand-in). Fixed `characters` citation "会" → "会 (char)". Frontmatter otherwise already correct. Fixed non-standard `## Etymology` heading → `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 南北.
+
+### 2026-08-28, iteration 1286 — [[words/南北|南北]]
+
+No stand-in relationship (南's own is [[南方]]; 北's is [[北方]]). Fixed missing space in `cantonese`; removed redundant `品詞`; fixed heading. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 南山.
+
+### 2026-08-28, iteration 1287 — [[words/南山|南山]]
+
+No stand-in relationship (南's own is [[南方]]; 山 is its own stand-in). Verified `japanese: ナムサン` is a genuine phonetic-loan transliteration for this Korean place name. Fixed `characters` citation "山" → "山 (char)". No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 南方.
