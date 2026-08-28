@@ -1333,3 +1333,27 @@ Next: 十六日.
 No stand-in relationship. **Real bugs found and fixed**: `korean` used the South Korean 두음법칙-shifted form (십육일) instead of North Korean 십륙일 (matching [[十六]]'s own fix — confirmed via web search that North Korean 문화어 genuinely writes 십륙 where South Korean writes 십육, an exception where even South Korean's own orthography treats 六 as quasi-word-initial). `注音` had a single-letter typo in the last syllable (ㄋㄝㄊ → ㄋㄧㄊ). Filled blank `vietnamese: thập lục nhật`. Fixed `characters` citation, malformed `japanese` list, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 十四.
+
+### 2026-08-28, iteration 1276 — [[words/十四|十四]]
+
+No stand-in relationship (both independent). **Real bugs found and fixed**: `english` typo ("forteen" → fourteen). `vietnamese` had a native paraphrase ("mười bốn") — corrected to `thập tứ`. Fixed `characters` citation, empty-list `aliases`, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十四日.
+
+### 2026-08-28, iteration 1277 — [[words/十四日|十四日]]
+
+No stand-in relationship. Verified `japanese: じゅうよっか` as a genuine irregular calendar reading (not the expected on'yomi compound). Filled blank `vietnamese: thập tứ nhật`. Fixed `characters` citation, malformed `japanese` list, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`. (This completes the full run of 十X日 day-name words from 十一日 through 十六日 plus 十四日 — all now fixed and stamped.)
+
+Next: 千米.
+
+### 2026-08-28, iteration 1278 — [[words/千米|千米]]
+
+No stand-in relationship (千's own is [[一千]]; 米 is its own stand-in). Verified that japanese キロメートル/korean 킬로미터 (international phonetic loanwords for "kilometer") and vietnamese cây số (colloquial native term) are genuine, expected divergences for this modern metric coinage, not errors. Fixed non-standard `## Etymology` heading → `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 午前.
+
+### 2026-08-28, iteration 1279 — [[words/午前|午前]]
+
+No stand-in relationship (午's own is [[正午]]; 前 is its own stand-in). **Real bug found and fixed**: `mandarin`/`cantonese` had been contaminated with the alias 上午's reading (shàngwǔ/soeng6 ng5) instead of 午前's own (wǔqián/ng5 cin4) — corrected. Filled blank `pos: 名詞`. Documented `vietnamese: buổi sáng` as a native paraphrase rather than a direct calque. Cleaned up a duplicate `## Notes`/`## Etymology` heading pair. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 午後.
