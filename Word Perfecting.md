@@ -778,4 +778,20 @@ Next: 干渉.
 
 干's own `stand_in` field is 干渉 — added the stand-in note. All fields already correct compositional concatenations. Noted the real dual usage (everyday interference + physics wave-interference) shared across all four languages. No homophones. Stamped `date-last-perfect: 2026-08-27`.
 
-Next: continuing the sweep.
+### 2026-08-27, iteration 1180 — [[words/干犯|干犯]]
+
+No stand-in relationship (干→干渉, 犯→犯罪). All fields already correct. Distinguished this from [[干渉]] — a graver, more formal near-synonym leaning toward violation of rights/sovereignty/law rather than general meddling. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 平均.
+
+### 2026-08-28, iteration 1181 — [[words/平均|平均]]
+
+**Investigated an apparent `korean`/`諺文` mismatch and confirmed it's NOT a bug**: `korean: 평균` and `諺文: 병균` looked contradictory at first, but 平's own character page already documents (via `kwin: false`) a deliberate divergence between its real Sino-Korean reading (평) and its Dan'a'yo form (병) — both fields here are independently correct on their own terms. This coincidentally makes 平均's Dan'a'yo reading collide exactly with [[病菌]] ("pathogenic bacteria") — a genuine Dan'a'yo-only homophone, *not* a real Korean-level one (병균 and 평균 remain distinct in actual Korean). Standardized the existing non-canonical homophone callout on both pages and documented the Korean/Dan'a'yo distinction explicitly. No stand-in relationship (平→水平, 均→itself). HSK level 2 already correct. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 平坦.
+
+### 2026-08-28, iteration 1182 — [[words/平坦|平坦]]
+
+坦's own `stand_in` field is 平坦 — added the stand-in note. **Real semantic drift found**: Vietnamese bình thản has drifted entirely away from the literal "physically flat" sense into "inner calm, serenity, composure" — the figurative-only extension of a sense Japanese/Korean still keep alongside the literal one, verified via search (not confusable with the near-homophone bình tĩnh, "emotional control under stress"). Documented rather than treated as an error. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 平安.
