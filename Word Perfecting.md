@@ -975,3 +975,13 @@ Next: 廉価.
 **Same 두음법칙/native-word contamination pattern found again, a fourth instance**: `korean` stored the malformed "염가, 싼값" — 염가 South-Korean-shifted, 싼값 an unrelated native word — corrected to North Korean 렴가. No stand-in relationship (廉→itself, 価→価格). Filled blank `vietnamese: liêm giá` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 廟堂.
+
+### 2026-08-28, iteration 1215 — [[words/廟堂|廟堂]]
+
+Investigated `japanese: びょうどう` — coincidentally identical to [[平等]]'s own irregular Go-on reading — and confirmed this one is genuinely compositional (廟's own BYOU + 堂's own DOU on'yomi), an independent coincidence, not a copy-paste error. Fixed unquoted `cantonese`. 廟's own `stand_in` field is already correctly noted (廟堂). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+### 2026-08-28, iteration 1216 — [[words/延長|延長]]
+
+Verified `korean: 연장` against both constituents' own fields (연+장) — no 두음법칙 issue here since 延's own reading is already 연, not shifted (unlike the recent 年/廉 cases). No stand-in-note gap. Filled blank `vietnamese: diên trường` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 建国.
