@@ -12,7 +12,7 @@ tags:
 ## Characters
 1. <ruby>[里](/characters/里%20(char).md)<rt>ㄌㄧ</rt></ruby> "village"
 2. <ruby>[酉](/characters/酉.md)<rt>⼜</rt></ruby> "rooster"
-3. <ruby>[豕](/characters/豕.md)<rt>ㄊㄧㄎ</rt></ruby> "shackled pig"
+3. <ruby>[豕](/characters/豕.md)<rt>ㄊㄧㄎ</rt></ruby> "pig"
 4. <ruby>[更](/characters/更%20(char).md)<rt>ㄍㄚㄫ</rt></ruby> "more"
 5. <ruby>[巫](/characters/巫.md)<rt>ㄇㄨ</rt></ruby> "shaman"
 6. <ruby>[亜](/characters/亜.md)<rt>ㄚ</rt></ruby> "Asia"

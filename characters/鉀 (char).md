@@ -3,7 +3,9 @@ mandarin: jiǎ
 cantonese: gaap3
 korean: 갑
 korean_native: 갑옷
-japanese: KYOU
+japanese:
+  - KYOU
+  - KOU
 japanese_native: よろい
 vietnamese:
   - giáp
@@ -30,13 +32,16 @@ kwin: true
 tags:
   - character
 boundedness: 65
+date-last-perfect: 2026-08-25
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- the element word 鉀 itself doubles as the periodic table abbreviation for "potassium"
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 狎]]
-- 形声 (OC \*klaːb, \*kraːb): semantic [[Radical 167|金]] ("metal") + phonetic [[甲]] (OC \*kraːb).
-1. potassium
+- 形声 (OC \*klaːb, \*kraːb): semantic [[Radical 167|金]] ("metal") + phonetic [[甲]] (OC \*kraːb) — names the element potassium (K, atomic number 19); the word also doubles as this vault's periodic-table abbreviation for the element. Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
+- [SKIP-1-8-5](Lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](Lookup/Stroke/Stroke%2013.md))
+- 8866th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 狎|ˠap]] → [ㄍㄚㄆ](syllables/ㄍㄚㄆ.md)
+- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Words
+- <ruby>[[鉀]]<rt>ㄍㄚㄆ</rt></ruby> "potassium" (stand-in for 鉀 (char))

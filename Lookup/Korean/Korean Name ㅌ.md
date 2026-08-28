@@ -4,7 +4,7 @@ tags: [lookup]
 These have all been checked for redirects.
 
 ### 타 
- [[咤]] [唾](characters/唾.md) [惰](characters/惰.md) [拖](characters/拖.md) [朶](characters/朶.md) [舵 (char)](characters/舵%20(char).md) [陀](characters/陀.md) [馱](characters/駄%20(char).md) [駝](characters/駝.md) [橢](characters/楕.md)
+ [[咤]] [唾](characters/唾.md) [惰](characters/惰.md) [拖](characters/拖.md) [朶](characters/朶.md) [舵 (char)](characters/舵%20(char).md) [陀](characters/陀.md) [馱](characters/駄%20(char).md) [駝](characters/駝.md) [橢](characters/楕.md) [詫](characters/詫.md)
 
 ### 탁  
 度 (done) [[倬]] [[琸]] [[晫]] [託](characters/託.md) [擢](characters/擢.md) [鐸](characters/鈬%20(char).md) [拓](characters/拓.md) [啄 (char)](characters/啄%20(char).md) [[坼]] [[柝]] [琢](characters/琢.md) [[踔]] [橐](characters/橐.md)

@@ -312,7 +312,7 @@ tags: [lookup]
 [崩 (char)](../../characters/崩%20(char).md) (무너질 붕)
 
 #### 비
-[批](../../characters/批.md) (칠 비)  [卑 (char)](../../characters/卑%20(char).md) (낮을 비)  [婢](../../characters/婢.md) (여자 종 비)  [碑](../../characters/碑.md) (돌기둥 비)  [妃](../../characters/妃.md) (왕비 비)  [肥](../../characters/肥.md) (살찔비)  [秘](../../characters/秘.md) (숨길 비)  [費 (char)](../../characters/費%20(char).md) (쓸 비)
+[痺](../../characters/痺.md) (저릴 비)  [批](../../characters/批.md) (칠 비)  [卑 (char)](../../characters/卑%20(char).md) (낮을 비)  [婢](../../characters/婢.md) (여자 종 비)  [碑](../../characters/碑.md) (돌기둥 비)  [妃](../../characters/妃.md) (왕비 비)  [肥](../../characters/肥.md) (살찔비)  [秘](../../characters/秘.md) (숨길 비)  [費 (char)](../../characters/費%20(char).md) (쓸 비)
 
 #### 빈
 [賓](../../characters/賓.md) (손 빈)  [頻 (char)](../../characters/頻%20(char).md) (자주 빈)
@@ -709,7 +709,7 @@ tags: [lookup]
 #### 험
 [[険 (char)|險]] (험할 험)  [[../../characters/験 (char)|驗]] (시험할 험)
 #### 현
-[玄 (char)](../../characters/玄%20(char).md) (검을 현)  [弦 (char)](../../characters/弦%20(char).md) (악기 줄 현)  [縣](../../characters/県%20(char).md) (고을 현)  [懸 (char)](../../characters/懸%20(char).md) (매달 현)  [顯](../../characters/顕.md) (나타날 현)
+[玄 (char)](../../characters/玄%20(char).md) (검을 현)  [弦 (char)](../../characters/弦%20(char).md) (악기 줄 현)  [縣](../../characters/県%20(char).md) (고을 현)  [懸 (char)](../../characters/懸%20(char).md) (매달 현)  [顯](../../characters/顕.md) (나타날 현)  [显](../../characters/显.md) (나타날 현)
 #### 혈
 [穴](../../characters/穴.md) (구멍 혈)
 #### 협

@@ -54,7 +54,7 @@ This have all be checked for redirects.
 [杴](characters/杴.md)
 
 ### 혁
-[[赫]] [[爀]] 奕-->打 [[焱]] [[侐]] [[焃]] [[𧹽]] [赩](characters/赩.md)
+[[赫]] [[爀]] 奕-->打 [[焱]] [[侐]] [[焃]] [[𧹽]] [赩](characters/赩.md) [䦧 (char)](characters/䦧%20(char).md)
 
 ### 현
 見 (done) [[峴]] [[晛]] [[泫]] [[炫]] [[玹]] [[鉉]] [[眩]] [[昡]] [絢](characters/絢.md) [[呟]] [[俔]] [[睍]] [舷](characters/舷.md) [[衒]] [弦 (char)](characters/弦%20(char).md) [[儇]] [[譞]] [[怰]] [[䧋]] [[鋗]] [[㢺]] [[琄]] 
@@ -74,7 +74,7 @@ This have all be checked for redirects.
 ## ㅗ
 
 ### 호
-晧-->皓 [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷.md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫](characters/胡.md) 蒿-->藁 [蝴](characters/胡.md) [[皞]] [[婋]] [[芐]] [[犒]] 
+晧-->皓 [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷.md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫](characters/胡.md) 蒿-->藁 [蝴](characters/胡.md) [[皞]] [[婋]] [[芐]] [[犒]] [醐](characters/醐.md)
 
 ### 혹
 [酷](characters/酷.md)

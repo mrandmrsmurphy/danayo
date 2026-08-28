@@ -1,6 +1,6 @@
 ---
-mandarin: xī
-cantonese: hei1
+mandarin: shǐ
+cantonese: si2
 korean: 히
 korean_native: ""
 japanese:

@@ -9,7 +9,7 @@ These have been checked for redirects.
 [寞](characters/寞.md) [膜](characters/膜.md) [[邈]]
 
 ### 만 
-[曼](characters/曼.md) [蔓](characters/蔓.md) [[鏋]] [卍](characters/卍.md) [娩](characters/娩.md) [[巒]] [彎](characters/弯.md) [挽](characters/挽.md) [灣](characters/湾.md) [瞞](characters/𥈞.md) [輓](characters/挽.md) [饅](characters/饅.md) [鰻](characters/曼.md) [蠻](characters/蛮.md)
+[曼](characters/曼.md) [蔓](characters/蔓.md) [[鏋]] [卍](characters/卍.md) [娩](characters/娩.md) [[巒]] [彎](characters/弯.md) [挽](characters/挽.md) [灣](characters/湾.md) [瞞](characters/𥈞.md) [輓](characters/挽.md) [饅](characters/饅.md) [鰻](characters/曼.md) [蠻](characters/蛮.md) [㒼](characters/㒼.md)
 
 ### 말 
 [茉](characters/茉.md) !!唜!! [抹](characters/抹%20(char).md) [沫](characters/沫%20(char).md) [襪](characters/襪.md) [[靺]]

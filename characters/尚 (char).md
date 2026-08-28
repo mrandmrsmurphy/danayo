@@ -7,6 +7,7 @@ japanese:
   - SHOU
 japanese_native: なお
 vietnamese:
+  - thượng
   - chuộng
   - sượng
   - thằng

@@ -7,6 +7,7 @@ japanese:
   - HAI
 japanese_native: おが
 vietnamese:
+  - bái
 middle_chinese_initial: p
 middle_chinese_final: ɣɛi
 stroke_count: 8

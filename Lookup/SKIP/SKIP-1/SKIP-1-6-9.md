@@ -27,8 +27,7 @@ tags:
 15. <ruby>[蝸](/characters/蝸.md)<rt>ㄍ⺢</rt></ruby> - snail
 16. <ruby>[蝿](/characters/蝿.md)<rt>ㄧㄫ</rt></ruby> - fly
 17. <ruby>[輝](/characters/輝.md)<rt>ㄏㄨㄧ</rt></ruby> - brilliant
-18. <ruby>[酋](/characters/酋.md)<rt>ㄑㄨㄛ</rt></ruby> - lava
-19. <ruby>[頬](/characters/頬%20(char).md)<rt>ㄍㄝㄆ</rt></ruby> - cheek
+18. <ruby>[頬](/characters/頬%20(char).md)<rt>ㄍㄝㄆ</rt></ruby> - cheek
 
 ## Datacheck
 ```dataview

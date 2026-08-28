@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 5
+size: 6
 radical: 瓦
 tags: [lookup]
 
@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +6 Strokes
 2. <ruby>[瓶](../../characters/瓶%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - jug, bottle
+3. <ruby>[瓷](../../characters/瓷.md)<rt>ㄑㄧ</rt></ruby> - porcelain
 
 ### +9 Strokes
 3. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish

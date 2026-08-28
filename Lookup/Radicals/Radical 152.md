@@ -11,7 +11,7 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[豕](../../characters/豕.md)<rt>ㄊㄧㄎ</rt></ruby> - shackled pig
+1. <ruby>[豕](../../characters/豕.md)<rt>ㄊㄧㄎ</rt></ruby> - pig
 
 ### +3 Strokes
 2. <ruby>[豹](../../characters/豹.md)<rt>ㄅ⼘ㄨ</rt></ruby> - leopard

@@ -36,6 +36,9 @@ These have all been checked for redirects.
 ### 녕  
 [[獰]] [佞](characters/佞.md)
 
+### 녑  
+[䎎](characters/䎎.md)
+
 ### 노  
 [弩](characters/努.md) [瑙](characters/𡿺.md) [[駑]]
 
@@ -56,6 +59,9 @@ These have all been checked for redirects.
 
 ### 뉴  
 [[紐]] [[鈕]] [[杻]]
+
+### 뉵  
+[衂](characters/衂.md)
 
 ### 니  
 [尼](characters/尼.md) [[柅]] [[濔]] [[膩]] [[馜]] [祢](characters/祢.md)

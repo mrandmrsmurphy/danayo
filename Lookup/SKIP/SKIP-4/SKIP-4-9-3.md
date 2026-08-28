@@ -13,7 +13,7 @@ tags: [lookup]
 1. <ruby>[乗](/characters/乗%20(char).md)<rt>ㄙㄨㄫ</rt></ruby> - multiply
 2. <ruby>[柬](/characters/柬%20(char).md)<rt>ㄍ⼘ㄋ</rt></ruby> - letter
 3. <ruby>[禹](/characters/禹.md)<rt>ㄨ</rt></ruby> - Yu
-4. <ruby>[禺](/characters/禺.md)<rt>ㄨ</rt></ruby> - lotus
+4. <ruby>[禺](/characters/禺.md)<rt>ㄨ</rt></ruby> - long-tailed monkey
 
 ## Datacheck
 ```dataview

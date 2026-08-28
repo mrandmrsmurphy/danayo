@@ -11,3 +11,709 @@ Next (re-scoped tail, alphabetical-by-filename): 家具 (3222 files remaining pe
 Neither constituent's `stand_in` points to this word (家's is 家庭, 具's is 工具), so no stand-in note applies. **Content added**: filled blank `hsk_level: "4"` (verified). **Left `vietnamese` blank rather than guessing**: mechanical "gia cụ" doesn't appear to be a standing everyday term — Vietnamese uses native đồ nội thất/đồ đạc instead. Added missing `>[!tip]` header and `## Notes`. `kwin: true` confirmed (AND-rule). No homophones (注音 ㄍㄚㄍㄨ unique). Stamped `date-last-perfect: 2026-08-05`.
 
 Next (re-scoped tail, alphabetical-by-filename): 家庭 (3221 files remaining per full-vault rescan).
+
+### 2026-08-26, iteration 1042 — [[words/家庭|家庭]]
+
+Loop resumed after a stall since 2026-08-05 (iteration 1041, see [[project_perfection_era_methodology]]). 家's own `stand_in` field is 家庭 — added the stand-in note to the opening bullet (missing before). **Content added**: `>[!tip]`-free body was already meta-bind-embed-first (correct); built out the missing `## Notes` from a bare frontmatter-only stub — no Notes section existed at all. Verified `羅馬字`/`諺文`/`注音` are exact concatenations of 家 (ga/가/ㄍㄚ) + 庭 (deng/덩/ㄉㄝㄫ). `mandarin`/`cantonese`/`japanese`/`korean` all already-correct compositional concatenations; `vietnamese: gia đình` already correct (confirmed via Wiktionary, matches 家's own "gia" + 庭's own "đình"). **Removed blank `hsk_level`/`swadesh`/`aliases` keys** — checked Wiktionary per `skill_word_creation.md`'s sourcing rule, no HSK level given for the compound itself (both constituents are independently HSK 1), so left the field omitted rather than guessing. `kwin: false` confirmed via AND-rule (家 `true` + 庭 `false`). No homophones (注音 ㄍㄚㄉㄝㄫ unique across both words and characters). Stamped `date-last-perfect: 2026-08-26`.
+
+Next (re-scoped tail, alphabetical-by-filename): 家族 (3206 files remaining per rescan).
+
+### 2026-08-26, iteration 1043 — [[words/家族|家族]]
+
+族's own `stand_in` field is 家族 — added the stand-in note (page had no `## Notes` section at all before this, same gap as 家庭). Verified `羅馬字`/`諺文`/`注音`/`mandarin`/`cantonese`/`japanese`/`korean`/`vietnamese` all already-correct compositional concatenations of 家 + 族 (`vietnamese: gia tộc` confirmed via Wiktionary). `kwin: true` confirmed via AND-rule (家 `true` + 族 `true`). Removed blank `hsk_level`/`swadesh`/`aliases` keys — no HSK level given on Wiktionary for the compound. No homophones (注音 ㄍㄚㄐㄛㄎ unique). Notes cover the 家族/家庭 semantic distinction and a real finding: Japanese かぞく is comparatively narrow (one's *own* immediate family only, needs ご家族 for others') and is not attested before 1808, apparently borrowed from modern written Chinese rather than inherited natively. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (re-scoped tail, alphabetical-by-filename): 家畜 (3205 files remaining per rescan).
+
+### 2026-08-26, iteration 1044 — [[words/家畜|家畜]]
+
+No stand-in note applies (家's `stand_in` is 家庭, 畜's is 畜生 — neither points here). Page had no `## Notes` section; built it from scratch. Verified all fields already correct compositional concatenations (`vietnamese: gia súc` confirmed via Wiktionary). `kwin: true` confirmed via AND-rule (both constituents `true`). Removed blank `hsk_level`/`swadesh`/`aliases` — Wiktionary marks the compound only "Advanced Mandarin," no specific level number, so left omitted (畜 itself is independently HSK 4). No homophones. Notes distinguish 家畜 (any livestock) from [[家禽]] (fowl specifically), and cover 畜's own stand-in [[畜生]] drifting into a pejorative ("brute") that 家畜 itself never took. Stamped `date-last-perfect: 2026-08-26`. This closes out the whole `家*` word cluster (家事/家具/家庭/家族/家畜/家禽/家蝿/家鼠 — all 8 now stamped).
+
+**Next candidate jumped clusters** (byte-order sort, not stroke order) to [[words/容|容]] — a single-character stand-alone word, same minimal template as [[words/且|且]]/[[words/衢|衢]].
+
+### 2026-08-26, iteration 1045 — [[words/容|容]]
+
+Frontmatter was badly malformed: `vietnamese: null` (should be omitted, not null), `characters: "容 (char)"` as a bare scalar instead of a YAML list, no `pos` field at all, no `japanese` field at all, `# Notes` heading (wrong level) with nothing under it. 容's own `stand_in` field is literally `容` (self) — this word *is* the stand-in that legitimizes the character as an independent entry, documented explicitly since the self-referential case isn't covered verbatim by [[feedback_standin_note]]'s two-different-constituents example. Filled `japanese: よう` (the bound on'yomi affix — Wiktionary confirms 容 has no single clean free-standing Japanese word matching this exact "look/appearance/form/figure" gloss; かたち/ゆるす cover different specific senses). Left `vietnamese` omitted — Wiktionary itself flags 容 as not well-established standalone in modern Vietnamese. **Found a genuine triple Middle-Chinese homophone**: 容/[[庸]]/[[湧]] all reconstruct to identical MC 以母+鍾韻 (j+ɨoŋ) despite different phonetic roots (谷/用/甬respectively) — a real convergence, not a Dan'a'yo-introduced collision. Added the reciprocal `>[!warning] Homophones` callout to all three word pages (庸.md, 湧.md were not otherwise touched/stamped — still awaiting their own turn in the alphabetical sweep; also fixed 湧.md's stray `# Notes` → `## Notes` heading level while there, a drive-by fix). Stamped only [[words/容]] `date-last-perfect: 2026-08-26`; 庸/湧 remain unstamped pending their own full pass.
+
+Next (byte-order-alphabetical-by-filename): 容器 (3203 files remaining per rescan).
+
+### 2026-08-26, iteration 1046 — [[words/容器|容器]]
+
+器's own `stand_in` field is 容器 — added the stand-in note. Rebuilt malformed frontmatter (`characters: ["容 (char)", 器]` inline-array → proper list, blank `vietnamese`/`hsk_level`/`swadesh` keys removed, `aliases: []` removed). Verified `諺文`/`羅馬字`/`注音`/`mandarin`/`cantonese`/`japanese`/`korean` all correct compositional concatenations. `kwin: false` confirmed via AND-rule (容 `true` + 器 `false` → `false`). Left `vietnamese` omitted — no source attests a standing Sino-Vietnamese reading, consistent with 容 itself having no solid standalone Vietnamese life (found last iteration). No HSK level given on Wiktionary. No homophones. Notes describe this as a near-synonym doubling compound, same shape as 狡猾/宏大. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order-alphabetical-by-filename): 容恕 (3202 files remaining per rescan).
+
+### 2026-08-26, iteration 1047 — [[words/容恕|容恕]]
+
+恕's own `stand_in` field is 容恕 — already noted on the page, but as a separate bullet rather than appended to the opening etymology bullet per [[feedback_standin_note]]; merged them. Fixed both Notes links missing the `../` relative-path prefix (`characters/...` → `../characters/...`, the same recurring bug class logged elsewhere in this project). Added the entirely-missing `kwin` field — confirmed `false` via AND-rule (容 `true` + 恕 `false`). Filled blank `vietnamese: dung thứ` (Wiktionary-confirmed, matches 容's own "dung" + 恕's own "thứ" exactly). No HSK level given for the compound (恕 itself is independently HSK 6). No homophones. Notes cover the register gap (용서 is Korea's plain everyday word for "forgiveness," while Mandarin/Cantonese 容恕 reads as literary/formal next to colloquial 原諒/寛恕, and Japanese ようしょ is rare next to native 許す/容赦). Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order-alphabetical-by-filename): 容量 (3201 files remaining per rescan).
+
+### 2026-08-26, iteration 1048 — [[words/容量|容量]]
+
+**Real data-corruption bug found**: `aliases: [容積, 产量, 產量]` — 产量/產量 are copy-pasted wholesale from [[産量]]'s own genuine simplified/traditional alias pair (産量 is a completely different, unrelated word — "output, yield," built on 産 not 容, different reading ㄙㄚㄋㄌ⼘ㄫ vs this word's ⼄ㄫㄌ⼘ㄫ), and 容積ísn't a true orthographic variant of 容量 either (a real but distinct near-synonym, no page of its own). Removed the entire `aliases` field as pure contamination — this page has no genuine orthographic variants. Rebuilt inline-array `characters:` to a proper list, quoted `hsk_level: 4` → `"4"`, removed blank `swadesh`. Filled `vietnamese: dung lượng` (Wiktionary-confirmed, matches 容's own "dung" + 量's own "lượng"). `kwin: true` confirmed via AND-rule (both constituents `true`). No homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order-alphabetical-by-filename): 宿命 (3200 files remaining per rescan).
+
+### 2026-08-26, iteration 1049 — [[words/宿命|宿命]]
+
+**Real `kwin` bug found and fixed**: frontmatter said `kwin: true`, but the AND-rule requires every constituent `true` — 宿's own `kwin` is `false` (命's is `true`) — so the compound must be `false`. Filled entirely-blank `pos: 名詞`. Filled blank `vietnamese: túc mệnh` (Wiktionary-confirmed, matches 宿's own "túc" + 命's own "mệnh"). Removed blank `swadesh`/empty `aliases: []`. No HSK level given. No homophones. Notes trace 宿命's Buddhist origin (宿 = "former/prior existence," as in 宿世) distinct from the more neutral [[運命]], and note its surviving Buddhist-technical use in Japanese 宿命論/宿命通. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order-alphabetical-by-filename): 宿敵 (3199 files remaining per rescan).
+
+### 2026-08-26, iteration 1050 — [[words/宿敵|宿敵]]
+
+First page this session found already essentially complete — no stand-in note needed (敵's own `stand_in` is 敵人, not this word), all fields already correct compositional concatenations, `aliases: [宿敌]` already a genuine simplified variant (confirmed via Wiktionary's "simp. 宿敌", matching 敵's own `aliases: [敌]`, unlike the false-alias contamination found on [[容量]]), `kwin: false` correct via AND-rule. Checked Wiktionary for `vietnamese`/`hsk_level` — neither is attested, left both omitted rather than guessing. No homophones. Pure re-verification, stamped `date-last-perfect: 2026-08-26` with no content changes.
+
+Next (byte-order-alphabetical-by-filename): 寂寞 (3198 files remaining per rescan).
+
+### 2026-08-26, iteration 1051 — [[words/寂寞|寂寞]]
+
+Already had solid prose (one paragraph) and a correct stand-in note (寞's `stand_in` is 寂寞) — removed blank `swadesh`/`aliases` keys, verified all fields already-correct compositional concatenations (`vietnamese: tịch mịch`, `hsk_level: "3"` both already right). Expanded Notes to the checklist's 2–3-paragraph bar: distinguished from [[寂静]]/[[静寂]] (physical stillness, no emotional charge) and 寞's own rarity outside this compound; added a real cross-linguistic find, Korean's 적막강산 (2020's "idiom of the year"), extending the same physical-desolation→emotional-state pattern already present in 寂寞 itself (verified via web search, not fabricated). No homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order-alphabetical-by-filename): 寂滅 (3197 files remaining per rescan).
+
+### 2026-08-26, iteration 1052 — [[words/寂滅|寂滅]]
+
+**Real bug found**: `characters:` listed bare `滅` but the character file is `滅 (char).md` — fixed the filename form (the recurring bug class logged repeatedly elsewhere in this project). Already had excellent, near-complete prose (correct stand-in reasoning for 寂's own `stand_in: 寂滅`, a real Japanese literary citation from the Nirvana Sutra/Heike Monogatari, cross-CJKV register notes) — just needed `vietnamese: tịch diệt` filled in (verified via web search: a standing Buddhist technical term, explicitly glossed as NOT meaning annihilation but peaceful extinguishing of suffering) and `kwin: false` re-confirmed via AND-rule (寂 `true` + 滅 `false`). No HSK level applies to a term this specialized; no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order-alphabetical-by-filename): 寂静 (3196 files remaining per rescan).
+
+### 2026-08-26, iteration 1053 — [[words/寂静|寂静]]
+
+Already had rich, near-complete prose (correctly identified 静's own `stand_in` as 静寂, not this word) and a genuine alias (`寂靜`, matching 静's own `aliases: [靜]`). Just needed `vietnamese: tịch tĩnh` filled in (verified via web search — a standing Buddhist term, glossed as 寂/tịch = freedom from mental agitation + 靜/tĩnh = absence of suffering's causes, together naming Nirvana's cessation) and quoting fixes. Added a closing observation: since 寂's own stand-in is [[寂滅]] and 静's is [[静寂]], this compound legitimizes neither constituent itself, unlike its sibling compounds. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order-alphabetical-by-filename): 寄 (3195 files remaining per rescan).
+
+**User instruction (2026-08-26): switched from scheduled 7.5-min-interval pacing to continuous back-to-back iteration, no waiting between items, until told to stop.** ScheduleWakeup loop cancelled; iterations below run consecutively in one sitting.
+
+### 2026-08-26, iteration 1054 — [[words/寄|寄]]
+
+Same malformed single-character stand-alone stub pattern as [[words/容|容]]: `vietnamese: null`, `characters:` as a bare scalar, no `pos`, no `japanese`, bare `# Notes` with nothing under it. 寄's own `stand_in` is itself (self-referential, same as 容) — documented explicitly. Filled `japanese: き` (bound on'yomi; no clean single free-standing Japanese word matches the full "approach/send/rely on" gloss). Left `vietnamese` omitted — the character's own stored forms (gửi/ké/kí/ký/kẹ) don't resolve to one clean standalone SV reading; gửi is actually the native Vietnamese verb "to send," not a Sino-Vietnamese reflex, while kí/ký only surface bound inside compounds. No homophones among other words. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 寄宿.
+
+### 2026-08-26, iteration 1055 — [[words/寄宿|寄宿]]
+
+宿's own `stand_in` field is 寄宿 — added the stand-in note (page had `## Etymology` instead of `## Notes`, no prose at all). Fixed `characters:` filename form (bare `寄` → `寄 (char)`). Filled entirely-blank `japanese: きしゅく` and `vietnamese: ký túc` (both verified) — a genuine cross-linguistic find: sources trace Vietnamese ký túc xá as a borrowing of *Japanese* 寄宿舎 (kishukusha) rather than a direct Sino-Vietnamese coinage, despite using ordinary Sino-Vietnamese characters. No HSK level, no homophones. `kwin: false` confirmed via AND-rule (both constituents `false`). Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 寄宿舎.
+
+### 2026-08-26, iteration 1056 — [[words/寄宿舎|寄宿舎]]
+
+Fixed `characters:` filename form (bare `寄` → `寄 (char)`); no stand-in note applies (none of the three constituents' own `stand_in` fields point here). Filled blank `cantonese: gei3 suk1 se3` and `vietnamese: kí túc xá` (Wiktionary-confirmed) and converted the inline `aliases: [寄宿舍]` to a proper list (matching 舎's own alias 舍). No HSK level, no homophones. `kwin: false` confirmed via AND-rule (all three constituents `false`). Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 寅月.
+
+### 2026-08-26, iteration 1057 — [[words/寅月|寅月]]
+
+寅's own `stand_in` field is 寅月 — added the missing stand-in note to the opening bullet (page had a decent 2-paragraph body already, just lacked this). All fields already correct compositional concatenations. Added a cross-linguistic paragraph: Japanese とらつき and Vietnamese tháng Dần both use native-word-plus-zodiac-name constructions rather than fully Sino-form concatenations, the same calquing pattern in both traditions. No homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next (byte-order jumps past several already-stamped files): 密.
+
+### 2026-08-26, iteration 1058 — [[words/密|密]]
+
+Same malformed single-character stand-alone stub pattern as [[words/容|容]]/[[words/寄|寄]]: bare `# Notes`, no `pos`, no `japanese`, `characters:` as a bare scalar. 密's own `stand_in` is itself (self-referential) — documented. Filled `japanese: みつ` and `vietnamese: mật` (the character's own field also lists an outlying "mất," but that collides with the unrelated common native word "mất" = "to lose/die"; "mật" is the clean, unambiguous SV reading and is independently well-attested as a free adverb "secretly," so used it rather than omitting). No homophones among other words. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 密陀僧 (密度 already stamped).
+
+### 2026-08-26, iteration 1059 — [[words/密陀僧|密陀僧]]
+
+**Real etymology found**: 密陀僧 is not compositional at all — it's a phonetic transliteration (Wiktionary-confirmed) of Persian مردار سنگ (mordār-sang, "dead stone"), the origin of "litharge" itself; none of the three characters contribute their own meaning. Fixed the English gloss typo "lithage" → "litharge." **Surfaced but deliberately not resolved**: this word is one of the three affected pages ([[僧侶]], [[尼僧]] being the others) in [[僧]]'s own already-documented "sung vs. seng" reading inconsistency (its own Notes explicitly call for a dedicated word-sweep, not a one-page fix) — left the stored reading as-is and cross-referenced the flag rather than silently picking a side. Verified everything else (mandarin/cantonese/japanese/korean/vietnamese all correct, `kwin: false` via AND-rule since 陀's own `kwin` is `false`). No homophones, no HSK level. Removed blank `swadesh`/`aliases`. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1060 — [[words/富裕|富裕]]
+
+裕's own `stand_in` field is 富裕 — added the stand-in note. **Real cross-word phonological pattern found, not fixed**: 富's contribution to this word (buo/뿟/ㄅㄨㄛ, b-series) diverges from 富's own character-page citation form (fuo/뿟/ㄈㄨㄛ, f-series) despite 富 sitting word-initial with no obvious conditioning environment — but the same b-series form is independently attested in [[豊富]] (pungbuo) too, so this is consistent across (at least) two separately-created words rather than a one-off typo. Flagged for a future dedicated look rather than silently picking a side. Filled blank `vietnamese: phú dụ` (verified). No specific HSK level number (Wiktionary: "Intermediate Mandarin" only). No homophones. `kwin: false` confirmed via AND-rule. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1061 — [[words/寒冷|寒冷]]
+
+寒's own `stand_in` field is 寒冷 — added the stand-in note; fixed `characters:` filename form (bare `冷` → `冷 (char)`). Filled blank `vietnamese: hàn lãnh` (verified). No specific HSK level number. No homophones. `kwin: false` confirmed via AND-rule. Notes distinguish 寒 (seasonal/climatic cold) from the more general, more productive 冷. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 寝.
+
+### 2026-08-26, iteration 1062 — [[words/寝|寝]]
+
+Same malformed single-character stand-alone stub pattern as [[words/容|容]]/[[words/寄|寄]]/[[words/密|密]]. 寝's own `stand_in` is itself (self-referential) — documented. `vietnamese: tẩm` was already filled (verified as real, if literary, usage in 寝宮). Added `aliases: [寢]` (traditional variant, matching the character's own alias). **Found a genuine Dan'a'yo homophone**: 寝 and [[浸]] ("immerse, dunk") share an identical reading (cim/침/ㄑㄧㄇ) — added reciprocal `>[!warning] Homophones` callouts to both pages (浸.md not otherwise stamped, just got the callout ahead of its own turn, same pattern as the earlier 容/庸/湧 triple). Stamped only [[words/寝]] `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1063 — [[words/寡婦|寡婦]]
+
+寡's own `stand_in` field is 寡婦 — added the stand-in note; fixed `characters:` filename form (bare `婦` → `婦 (char)`). All other fields already correct compositional concatenations (`vietnamese: quả phụ` already right, drawing on 寡's "quả" reading). No specific HSK level number. No homophones. `kwin: false` confirmed via AND-rule. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1064 — [[words/審査|審査]]
+
+Already had solid prose explaining the deliberate 査-vs-査/査 shinjitai choice. Restructured the stand-in note into the standard opening-bullet form (審's own `stand_in` is 審査). **Root-cause fix**: 査's own character page had a completely blank `vietnamese` field — verified "tra" as its real Sino-Vietnamese reading (confirmed via search) and filled it in directly on the character page, which also resolved this word's own `vietnamese: thẩm tra` compositionally rather than needing a special-cased value. No homophones. `kwin: true` already correct (both constituents `true`). Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1065 — [[words/寮国|寮国]]
+
+**Real `諺文` typo found and fixed**: stored 렷곡, but 寮's own `諺文` is 럇 (not 렷) — a single-vowel typo, corrected to 럇곡, matching the already-correct `注音`/`羅馬字` fields. No stand-in relationship (neither constituent's own `stand_in` points here). **Real cross-linguistic finding**: none of Japanese/Korean/Vietnamese use a compositional Sino-reading for this country name — ラオス/라오스 are direct phonetic loans of "Laos," and Vietnamese nước Lào uses the native word "nước" + the endonym directly, unlike most of this vault's other country-name compounds, likely because Laos as a modern nation-state postdates the older character-mediated CJK naming layer. No HSK level applies (proper noun); no homophones. `kwin: false` confirmed via AND-rule. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1066 — [[words/寺院|寺院]]
+
+**Significant contamination bug found and fixed, worst so far this session**: `mandarin`/`cantonese` had been copied wholesale from the unrelated synonym 寺廟 (sìmiào — no `words/寺廟.md` file even exists in this vault), `korean` had been copied from 寺's own actual stand-in [[寺刹]] (사찰) instead of derived from this word's own constituents, and `japanese` had a kana typo (じゐん, archaic ゐ, instead of じいん) — all three verified and corrected via Wiktionary against 寺院's own real readings (the `諺文`/`羅馬字`/`注音` fields, sìyuàn/사원/sa'wen/ㄙㄚ⼔ㄋ, had actually been correct all along). Removed the contaminated `aliases` list (寺廟/寺庙/寺院-itself — none are true orthographic variants, same false-alias pattern as [[容量]]). Filled blank `vietnamese: tự viện` (verified). No stand-in relationship (寺→寺刹, 院→院落, neither points here). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+**Ordering correction**: discovered several files (孫金, 宇宙, 宇宙船, 守衛, 守護, 安全) sit earlier in true byte order than where the sweep had jumped to (寅月ff.) — resuming from the correct position rather than the one being tracked, going forward.
+
+### 2026-08-26, iteration 1067 — [[words/孫金|孫金]]
+
+A `neologism`/`periodictable` word (Dan'a'yo's own coined name for promethium, element 61) — a structurally different genre from ordinary compositional vocabulary: `mandarin`/`cantonese`/`japanese`/`korean`/`vietnamese` deliberately hold each language's own real (phonetic-loanword) name for the element, not a compositional reading of 孫+金. Confirmed `kwin: false` is correct precisely *because* of this — `korean` (프로메튬) and `諺文` (손김) are unrelated strings by design, not error. Checked precedent ([[銅]], an older stamped periodictable word) — this word type has historically been held to a much lighter completion bar than ordinary compounds; added a proper opening bullet documenting this rather than rewriting the already-rich existing etymological reasoning (Sunzi/Sun Wukong trickster-archetype justification for the 孫 choice). Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 宇宙.
+
+### 2026-08-26, iteration 1068 — [[words/宇宙|宇宙]]
+
+宇's own `stand_in` field is 宇宙 — added the stand-in note. Filled entirely-blank `pos: 名詞`, removed blank `hsk_level`/`swadesh`/empty `aliases: []`. Replaced thin, fragmentary Notes ("none of the 'roof' denotations from Chinese are present here" + two bare unrubied links) with real content: a genuine classical-etymology find (宇 = "the four directions," 宙 = "past to present," an ancient philosophical space/time pairing, not a modern scientific coinage — confirmed via Wiktionary's citation of the Shizi/Huainanzi and Meyer 2010's "roof synecdoche" analysis). `kwin: false` confirmed correct (諺文 우줏 ≠ korean 우주). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 宇宙船.
+
+### 2026-08-26, iteration 1069 — [[words/宇宙船|宇宙船]]
+
+**Real `mandarin` bug found and fixed**: stored "yǔzhòu fēichuán" (the 4-character Mainland-Simplified word 宇宙飛船/宇宙飞船's reading) despite `characters:` listing only 3 characters (宇/宙/船, the Traditional/Taiwan/Japanese-aligned form already given as this word's actual spelling) — confirmed via search that both 3-char and 4-char forms are real, regionally-split terms (not a meaning difference), and corrected `mandarin` to the compositional 3-syllable "yǔzhòuchuán" matching the already-correct 3-syllable `cantonese` field; 宇宙飛船 kept as the documented alias. **Second instance of the "citation-form vs. compound-form" reading-split bug class found** (after [[僧]]/[[密陀僧]]): 船's own contribution here (줜/jwen/ㄐ⼔ㄋ) diverges from its canonical reading (쉄/swem/ㄙ⼔ㄇ), and the exact same alternate form also appears in [[艦船]] — added a matching flag to [[船]]'s own Notes (mirroring 僧's) and cross-referenced it here rather than silently resolving. No stand-in relationship, no HSK level, no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1070 — [[words/守衛|守衛]]
+
+**Real contamination bug found and fixed**: `諺文`/`羅馬字`/`注音` had been copied wholesale from the unrelated word [[授業]] ("to teach" — 授's own reading coincidentally matches 守's, both syu/슈/ㄙ⼜, likely the source of the mix-up), storing 슈업/syu'eb/ㄙ⼜ㄝㄆ (matching 業's reading) instead of the true compositional 슈어/syu'e/ㄙ⼜ㄝ (from 衛's own 'e/어/ㄝ). The page even carried a fabricated `>[!warn] Homophones: 授業` callout, apparently added to rationalize the wrong data rather than reflecting a real collision — removed; no genuine homophone exists at the corrected reading. Propagated the ruby fix to both [[守]]'s and [[衛]]'s own Words sections (both had been citing the same wrong reading). 守's own `stand_in` is 守衛 — added the stand-in note. Filled blank `vietnamese: thủ vệ` (verified). No HSK level. Fixed Notes links missing `../` prefix. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 守護.
+
+### 2026-08-26, iteration 1071 — [[words/守護|守護]]
+
+Already excellent, near-complete prose (correctly explained the 守護/保護/守衛/保衛/保持 disambiguation web). Just needed `vietnamese: thủ hộ` filled in (verified) and quoting/blank-field cleanup. No homophones, no HSK level. `kwin: false` already correct (諺文 슈호 ≠ korean 수호). Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 安全.
+
+### 2026-08-26, iteration 1072 — [[words/安全|安全]]
+
+No stand-in relationship (安→平安, 全→itself). Filled entirely-blank `pos: 性詞`, quoted `hsk_level: "2"`, removed blank `swadesh`/empty `aliases: []`, converted inline-array `characters:`. All other fields already correct compositional concatenations. No homophones. `kwin: false` confirmed correct (諺文 안줜 ≠ korean 안전). Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1073 — [[words/対応|対応]]
+
+Already had fully correct, well-populated frontmatter — no bugs found, just needed the `## Notes` section built (page had none) and stamping. No stand-in relationship (対→反対, 応→itself). No homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1074 — [[words/対照|対照]]
+
+Already had solid frontmatter and a one-line Notes gloss. No stand-in relationship (対→反対, 照→itself). Expanded Notes to distinguish from [[対応]] and note the "Advanced Mandarin"/no-specific-HSK-level status. No homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 対称.
+
+### 2026-08-26, iteration 1075 — [[words/対称|対称]]
+
+No stand-in relationship (対→反対, 称→名称). Notes explain 称's polyphonic reading here (chèn/chèng "to weigh, match," not its default chēng "to call," reflected already in the dual-form `mandarin`/`cantonese` fields) and flag a genuine Japanese-only three-way homophone: 対照/対称/対象 all read たいしょう in Japanese despite being fully distinct at the Dan'a'yo/Mandarin/Korean/Vietnamese level. Fixed inline-array `aliases`/`characters`, quoted `hsk_level: "4"`. No homophones at the Dan'a'yo level. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 対象.
+
+### 2026-08-26, iteration 1076 — [[words/対象|対象]]
+
+No stand-in relationship (対→反対, 象→大象). Confirmed and documented the third member of the [[対照]]/[[対称]]/対象 Japanese-only たいしょう homophone cluster (all three distinct at the Dan'a'yo/Mandarin/Korean/Vietnamese level). Quoted `hsk_level: "2"`, removed blank `swadesh`/`aliases`. No homophones at the Dan'a'yo level. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 対連.
+
+### 2026-08-26, iteration 1077 — [[words/対連|対連]]
+
+**Real `cantonese` bug found and fixed**: stored "deoi3 lyun4-2," using 聯's real Cantonese reading (lyun4) instead of the vault's own canonical character 連's (lin4) — confirmed via CantoDict/Wiktionary that 連 (lin4) and 聯 (lyun4) are genuinely distinct-reading characters in Cantonese despite sharing a Mandarin reading and being registered here as aliases of each other. Corrected to "deoi3 lin4-2," following the same [[審査]]-precedent convention (canonical character's own derivation wins over the real everyday alias-based form, documented in prose). Filled blank `vietnamese: đối liên` (Wiktionary-confirmed, exact match to 連's own "liên"). No stand-in relationship, no specific HSK level number, no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1078 — [[words/寿司|寿司]]
+
+Ateji word (Japanese phonetic borrowing — 寿+司 chosen for sound only, "su-shi," no semantic connection to the food). No stand-in relationship. Cleaned up a stray unformatted warning bullet ("Do not use 鮨 or 鮓!") and a duplicated/uncertain Etymology block into proper Notes prose, keeping the real content (鮨/鮓 are genuine but non-preferred alternate spellings). **Real cross-linguistic finding, already correctly stored but unexplained**: Korean 초밥 is not a borrowing of the Japanese kanji reading at all — it's a native Korean calque, "vinegar" + "rice," translating the dish's defining ingredient rather than transliterating the Sino-Japanese spelling. `vietnamese` left omitted (Vietnamese uses the direct loanword "sushi"). No homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 寿命.
+
+### 2026-08-26, iteration 1079 — [[words/寿命|寿命]]
+
+寿's own `stand_in` field is 寿命 — added the stand-in note. **Real palatalization typo found and fixed**: `諺文`/`羅馬字` stored 슈멍/syumeng, dropping the palatal glide from 命's own 명/myeng — corrected to 슈명/syumyeng (the `注音` field, ㄙ⼜ㄇ⼶ㄫ, already had the palatal marker right, so this was a two-field-only bug, not a three-field one). Filled blank `pos: 名詞`. Distinguished from [[宿命]]/[[運命]] (duration of life vs. its character/fate). No homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 封.
+
+### 2026-08-26, iteration 1080 — [[words/封|封]]
+
+封's own `stand_in` is itself (self-referential) — added the note. Fixed the homophone callout format on both this page and [[蜂]] (both used a non-canonical `>[!tip]` sentence instead of the standard `>[!warning] Homophones` block) — real homophone, confirmed (both fong/뽕/ㄈㄛㄫ). Already had excellent existing prose (feudal-enfeoffment/sealing dual-sense etymology, counter-word usage, cross-linguistic notes) — no other changes needed. `hsk_level` intentionally left off per this session's established single-character-word precedent ([[容]], [[密]], [[寄]], [[寝]], [[且]], [[衢]] etc. — none carry it even though their characters do). Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 封印.
+
+### 2026-08-26, iteration 1081 — [[words/封印|封印]]
+
+印's own `stand_in` field is 封印 — added the stand-in note; fixed `characters:` filename form (bare `封` → `封 (char)`). Fixed a `羅馬字` typo (bong'in → fong'in — 封's own citation form is "fong," already correctly reflected in this word's own `諺文`/`注音` fields, just not `羅馬字`; unlike [[富裕]]'s flagged case, this was a simple one-field typo, not a cross-word systemic pattern). Filled blank `vietnamese: phong ấn` (verified). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1082 — [[words/専念|専念]]
+
+No stand-in relationship (専→専用, 念→念頭). Filled blank `cantonese`/`korean` (both already-verified compositional concatenations). Left `vietnamese` omitted after searching — no standing everyday "chuyên niệm" term found; 念 in Vietnamese survives mainly in Buddhist-register compounds. Fixed inline-array `aliases`/`characters`. No homophones, no HSK level. `kwin: false` confirmed correct via direct 諺文-vs-korean comparison (also noting: `kwin` is a direct string-equality check between the word's own `諺文` and `korean` fields, not an abstract AND across constituent characters' individual `kwin` flags — the two happen to coincide for ordinary compositional words but diverge for words like [[孫金]] where `korean` is deliberately non-compositional). Stamped `date-last-perfect: 2026-08-26`.
+
+### 2026-08-26, iteration 1083 — [[words/射精|射精]]
+
+No stand-in relationship (射→射出, 精→精神). Filled blank `pos: 事詞`. **Real cross-linguistic finding**: Vietnamese `xuất tinh` (already stored) diverges from strict compositional derivation — it uses 出 "to exit" rather than 射's own "xạ," a genuine attested medical-term substitution, same class as [[寮国]]/[[対連]]. Removed blank `swadesh`/empty `aliases: []`, converted inline-array `characters`. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 射素.
+
+### 2026-08-26, iteration 1084 — [[words/射素|射素]]
+
+Another `neologism`/`periodictable` word (radon, element 86), same genre as [[孫金]]. Added the standard opening bullet documenting no stand-in relationship and confirming `kwin: false` is correct by design (real-world fields hold each language's own phonetic-loanword element name, not a reading of 射+素). Did not rewrite the existing rich etymological reasoning (Latin *radius* → "ray-emitting" → 射). Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 射術.
+
+### 2026-08-26, iteration 1085 — [[words/射術|射術]]
+
+A pure grammar/vocabulary neologism (not periodictable) with no real CJKV equivalent word at all — checked precedent ([[何処]], a stamped correlative-neologism) to confirm the convention: no `mandarin`/`cantonese`/`japanese`/`korean`/`vietnamese` fields when no single real term exists, `kwin: false` still set (no `korean` value to match `諺文` against). No stand-in relationship (射→射出, 術→itself). Fixed a duplicated `## Ancient kinds`/`### Ancient kinds` heading and fixed relative-path links (missing `../`). Kept the existing rich content (Six Arts archery-technique glossary) intact. Stamped `date-last-perfect: 2026-08-26`.
+
+Next: 射香.
+
+### 2026-08-27, iteration 1086 — [[words/射香|射香]]
+
+**Real `japanese` typo found and fixed**: stored じゃかう (archaic/incorrect かう), corrected to じゃこう (じゃ from 射's SHA + こう from 香's own KOU) — the real attested reading of 麝香, the more common written form of this word (kept as this word's `aliases` entry; 射's own alias field already lists 麝, so the alias is legitimate, not contamination). No stand-in relationship (射→射出, 香→香気). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1087 — [[words/将兵|将兵]]
+
+No stand-in relationship (将→itself, 兵→兵士). Filled blank `cantonese`/`vietnamese: tướng binh` (verified — attested in the classical citation 韓信將兵，多多益善). Notes explain 将's polyphonic sense-switch here (jiàng "commander" vs its default jiāng "will/shall," as in [[将来]]). Fixed inline-array `characters:`/`aliases`, `characters:` filename form. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 将帥. Resuming standard ~7.5-min-per-iteration loop pacing per user request.
+
+### 2026-08-27, iteration 1088 — [[words/将帥|将帥]]
+
+**Real, severe contamination bug found and fixed**: `japanese` stored チャンギ ("changgi" — the Japanese name for *Korean chess*, an entirely unrelated word), corrected to しょうすい (verified). 帥's own `stand_in` field is 将帥 — added the stand-in note. **Real Cantonese tone finding**: the real attested reading is zoeng3 seoi3, not the mechanical zoeng1 (将's own citation-form Cantonese) — confirmed directly via Wiktionary, and cross-checked that 將軍 itself keeps zoeng1 despite the same "general" sense, so this is a real per-compound lexicalized tone quirk, not a predictable rule; documented rather than silently forced to match 将's citation form. Filled blank `vietnamese: tướng soái` (verified). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 将校.
+
+### 2026-08-27, iteration 1089 — [[words/将校|将校]]
+
+No stand-in relationship (将→itself, 校→学校). Filled blank `vietnamese: tướng hiệu` (verified). Notes explain 校's older "military rank" sense (distinct from its everyday "school" sense) and the same 将 commander-sense-switch already documented on [[将帥]]/[[将兵]]. Converted inline-array `aliases`/`characters`, filename form. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1090 — [[words/将然|将然]]
+
+A technical grammatical-aspect term (already well-documented: paired with [[完了]] in Dan'a'yo's own 時相/aspect-suffix system, borrowing the classical 已然/将然 opposition). Fixed `characters:` filename form (然's file is `然 (char).md`). No stand-in relationship (both 将 and 然's own `stand_in` fields point to themselves). Removed blank `cantonese`/`japanese`/`korean`/`vietnamese` keys — already correctly justified in the existing prose as a term attested only in Mandarin grammatical scholarship, not ordinary dictionary usage. Confirmed 将 correctly uses its "about to" auxiliary sense (jiāng) here, distinct from its "commander" sense (jiàng) on [[将帥]]/[[将兵]]/[[将校]]. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 将軍.
+
+### 2026-08-27, iteration 1091 — [[words/将軍|将軍]]
+
+Fixed another archaic-kana `japanese` typo (しやうぐん → しょうぐん, same class as [[寺院]]/[[射香]]) and a stray capitalization bug (`vietnamese: "Tướng quân"` → lowercase "tướng quân"). No stand-in relationship (将→itself, 軍→軍隊). Confirmed 将 keeps its default jiāng/zoeng1 reading here (not the jiàng/zoeng3 "commander" shift seen on [[将帥]]/[[将校]]) — a real lexicalized exception, verified directly. Quoted `hsk_level: "3"`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尉.
+
+### 2026-08-27, iteration 1092 — [[words/尉|尉]]
+
+Same malformed single-character stand-alone stub pattern as [[words/容|容]]/[[words/密|密]]/[[words/寄|寄]]/[[words/寝|寝]]. 尉's own `stand_in` is itself — documented. Filled `japanese: い` and `vietnamese: uý` (both from the character's own fields). Notes place 尉 in the officer-rank hierarchy below [[将校]]/将 (少尉/中尉/大尉). No homophones among other words. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尊厳.
+
+### 2026-08-27, iteration 1093 — [[words/尊厳|尊厳]]
+
+尊's own `stand_in` field is 尊厳 — added the stand-in note; fixed `characters:` filename form (bare `厳` → `厳 (char)`). All other fields already correct compositional concatenations (double-checked 尊's `vietnamese` list actually does include "tôn," just further down the list than an initial truncated view suggested — no bug there after all). Notes distinguish from [[尊敬]] (relational respect vs. inherent dignity). Quoted `hsk_level: "4"`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尊敬.
+
+### 2026-08-27, iteration 1094 — [[words/尊敬|尊敬]]
+
+**Retroactive correction to the previous iteration**: caught my own error on [[尊厳]] — its `cantonese` field ("zeon1 jim4") had never actually been checked against 尊's own stored cantonese (zyun1, not zeon1); fixed to "zyun1 jim4" just now. Lesson: verify every field against the constituent characters' own stored values, not just the ones that look obviously wrong. For 尊敬 itself: 敬's own `stand_in` field is 尊敬 — added the stand-in note. All other fields were already correct (including `cantonese: zyun1 ging3`, correctly using 尊's real zyun1). Notes distinguish from [[尊厳]]. No specific HSK level number, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1095 — [[words/尋|尋]]
+
+Single-character stand-alone word, same pattern as [[容]]/[[密]]/[[尉]]. 尋's own `stand_in` is itself — documented. Filled `japanese: じん` and `vietnamese: tầm` (verified as the true Sino-Vietnamese reading; the character's own field also lists "tìm," a coincidentally similar-sounding *native* Vietnamese word for "search/find," different etymological source — same false-cognate-risk class as [[密]]'s "mất"). Fixed `# Notes` heading level. Reciprocal homophone callout with [[心]] was already correctly in place on both pages (coincidental phonology, no etymological link). Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 導管.
+
+### 2026-08-27, iteration 1096 — [[words/導管|導管]]
+
+管's own `stand_in` field is 導管 — added the stand-in note. All other fields already correct compositional concatenations. Left `vietnamese` omitted after searching — no standing everyday "đạo quản" term found; modern Vietnamese uses the native compound "ống dẫn" instead. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 小人.
+
+### 2026-08-27, iteration 1097 — [[words/小人|小人]]
+
+**Real copy-paste typo found and fixed**: the opening bullet glossed 人 as "small" (copied from 小's own gloss) instead of "person." No stand-in relationship (both constituents' own `stand_in` point to themselves). All other fields already correct. Notes cover the Confucian 小人/君子 ethical contrast and the character's secondary classical self-deprecating-pronoun sense. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1098 — [[words/小冊子|小冊子]]
+
+No stand-in relationship (none of 小/冊/子's own `stand_in` fields point here). Filled blank `vietnamese: tiểu sách tử` (a genuine Sino-Vietnamese reading, though everyday Vietnamese uses the native "sách nhỏ" instead — same register split as [[私讐]]). Cleaned up disorganized Notes (missing `../` link prefixes, informal bullet list) into standard prose, keeping the real content (cannot abbreviate to 小冊 outside Japanese; transparently [[小]]+[[冊子]]). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 小指.
+
+### 2026-08-27, iteration 1099 — [[words/小指|小指]]
+
+No stand-in relationship (小→itself, 指→手指). Filled blank `pos: 名詞` and `vietnamese: tiểu chỉ` (verified). Confirmed `japanese: しょうし` is correct as-is despite looking unusual — a real, verified medical/anatomical-register reading distinct from the everyday こゆび (koyubi), both attested. Notes place the word in the classical five-finger naming set. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 小数点.
+
+### 2026-08-27, iteration 1100 — [[words/小数点|小数点]]
+
+No stand-in relationship (小/点→themselves, 数→計数). Filled blank `pos: 名詞`. Left `vietnamese` omitted — no Sino-Vietnamese reading confirmed; verified Vietnamese actually uses a comma (not a point) as its decimal separator natively, so the concept itself is expressed as "dấu phẩy thập phân" rather than any Sino-form calque. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 小河.
+
+### 2026-08-27, iteration 1101 — [[words/小河|小河]]
+
+**Real contamination bug found and fixed**: `japanese` stored おがわ, copied from the unrelated word [[小川]] (a different character combination, 川 not 河, and primarily a Japanese surname) — corrected to しょうが, the real reading of 小河 itself (confirmed via search). 河's own `stand_in` field is 小河 — added the stand-in note. Upgraded `korean`/`vietnamese` from native everyday words (시내/suối, which are real but belong to different, unrelated lexemes) to the compositional Sino-forms (소하/tiểu hà, both independently confirmed attested), noting the native alternatives in prose per this vault's usual convention. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 小腸.
+
+### 2026-08-27, iteration 1102 — [[words/小腸|小腸]]
+
+No stand-in relationship (小→itself, 腸→腸管). All fields already correct compositional concatenations; filled blank `pos: 名詞`, converted inline-array `characters`/`aliases`. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1103 — [[words/小舟|小舟]]
+
+Fixed a spelling typo (English gloss "dingy" → "dinghy"). 舟's own `stand_in` field is 小舟 — added the stand-in note. Filled blank `vietnamese: tiểu chu` (verified). Confirmed `japanese: こぶね` is correct as-is (verified genuine, though classical/seasonal poetry uses おぶね instead — noted). Fun aside confirmed: Korean 소주 here is a pure coincidental homophone of the drink 소주 (soju), unrelated hanja. No homophones among Dan'a'yo words. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 小行星.
+
+### 2026-08-27, iteration 1104 — [[words/小行星|小行星]]
+
+Confirmed `japanese`'s odd-looking せうわくせい is legitimate once the archaic kana is fixed (しょうわくせい) — Japanese genuinely spells "asteroid" with an entirely different character, 小惑星 (惑, not 行), already correctly documented as this word's `aliases` entry, the same class of divergence as [[審査]]. No stand-in relationship. Filled blank `pos: 名詞`. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 少女.
+
+### 2026-08-27, iteration 1105 — [[words/少女|少女]]
+
+**Real, distinctive bug found and fixed**: `諺文`/`羅馬字` stored 뇻/nyou for 女's contribution instead of 느/nǝ (女's actual Dan'a'yo citation form, confirmed by cross-checking 女's own Words-section ruby for this exact word, which already correctly shows ㄋㄜ) — the bad value looks like it was pulled from 女's *Japanese* on'yomi list (NYOU is genuinely one of 女's three real Japanese readings, JO/NYO/NYOU) rather than its Dan'a'yo fields, a cross-field mix-up distinct from a simple typo. Also fixed the usual archaic-kana `japanese` error (せうぢよ → しょうじょ). No stand-in relationship. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 少年.
+
+### 2026-08-27, iteration 1106 — [[words/少年|少年]]
+
+Unlike [[少女]], this one's `諺文`/`羅馬字`/`注音` were all already correct (verified against 年's own citation form). Just the recurring archaic-kana `japanese` typo (せうねん → しょうねん). No stand-in relationship. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1107 — [[words/尚|尚]]
+
+Malformed single-character stand-alone stub: `korean: "null"` (the literal string, not an actual value or omission — a distinct bug shape from the usual blank/null field), missing `japanese`, `pos`. 尚's own `stand_in` is itself — documented. **Root-cause fix**: 尚's own character page was missing its primary Sino-Vietnamese reading entirely (thượng) — the field only had the rarer Nôm variants (chuộng/sượng/thằng); added thượng, which also resolved this word's own vietnamese field. **Found a genuine triple Dan'a'yo homophone**: 尚/[[上]]/[[賞]] all share syang/샹/ㄙ⼘ㄫ — added reciprocal homophone callouts to all three (上.md was already stamped but had never carried one; 賞.md is not yet stamped, just got the callout ahead of its own turn). Stamped only [[words/尚]] `date-last-perfect: 2026-08-27`.
+
+Next: 尤其.
+
+### 2026-08-27, iteration 1108 — [[words/尤其|尤其]]
+
+尤's own `stand_in` field is 尤其 — added the stand-in note. Confirmed `japanese: とりわけ` is legitimate — Japanese never adopted this character compound at all, so とりわけ is a native translation-equivalent, not a reading of the characters (same class as [[小数点]]). Filled blank `korean: 특히` (also native, no Sino-Korean form exists) and `vietnamese: vưu kỳ` (a genuine, if literary, Sino-Vietnamese reading; everyday speech prefers native đặc biệt/nhất là). Filled blank `pos: 副詞`, added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尭舌.
+
+### 2026-08-27, iteration 1109 — [[words/尭舌|尭舌]]
+
+**Real bug found and fixed, same shape as [[少女]]/[[寿命]]**: `諺文`/`羅馬字` used 뇨/nyo for 尭's contribution instead of the correct 얏/'yau (verified against 尭's own syllable page `⼘ㄨ.md`) — `注音` (⼘ㄨ) had been correct all along. `aliases` (饶舌/饒舌, using 尭's alias 饒) already legitimate, not contamination — Notes now explain 尭 stands in here for its true etymological source 饒, same pattern as [[舎]]/舍 or [[対]]/對. **Root-cause fix**: 尭's own character page was missing "nhiêu" (饒's Vietnamese reading) from its `vietnamese` field, only had "nghiêu" (堯's reading, tied to the sage-king) — added it, resolving this word's own `vietnamese: nhiêu thiệt` (verified) in the process. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 就鳥.
+
+### 2026-08-27, iteration 1110 — [[words/就鳥|就鳥]]
+
+**Investigated an apparent reading mismatch and confirmed it's NOT a bug**: 就's contribution here (줏/juo/ㄐㄨㄛ) looked wrong against 就's own regular citation (쵀/cwai/ㄑ⺢ㄧ) — but [[就]]'s own Notes already explicitly document that 就 is this vault's designated borrowed stand-in glyph (借代字) for the unlinked character 鷲 ("eagle, vulture"), deliberately switching to 鷲's own reading when used in that sense (also used in [[禿就]]). Verified before "fixing" anything — the stored values were already correct. Filled blank `japanese: しちょう` (from the classical idiom 鷲鳥不群) and `vietnamese: thứu điểu` (鷲's real SV reading, confirmed via its use in Linh Thứu Sơn "Vulture Peak"). Documented why `korean` deliberately uses the native 수리 instead of the mechanical 취조, which collides with the common word for "interrogation." No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尺蠖 (尺 already stamped).
+
+### 2026-08-27, iteration 1111 — [[words/尺蠖|尺蠖]]
+
+**Real self-referential bug fixed**: `aliases` listed the word itself ("尺蠖") as its own alias, alongside the genuine classical variant 蚇蠖 — removed the nonsensical self-reference. 蠖's own `stand_in` field is 尺蠖 — added the stand-in note. All other fields already correct compositional concatenations. Notes explain the inchworm's measuring-gait etymology. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尻.
+
+### 2026-08-27, iteration 1112 — [[words/尻|尻]]
+
+Single-character stand-alone word, same pattern as several others this session. 尻's own `stand_in` is itself — documented. Filled `japanese: こう` (on'yomi; native こう しり/shiri is the everyday word instead) and `vietnamese: khào` (clean, unambiguous). No homophones among other words. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尼僧 (尼羅河 already stamped).
+
+### 2026-08-27, iteration 1113 — [[words/尼僧|尼僧]]
+
+**Real, striking `korean` bug found and fixed**: stored 이승, a completely unrelated, extremely common Korean word meaning "this world, the world of the living" (opposite of 저승, "the afterworld") — corrected to the real reading 니승, which also reconfirms the vault's standing North-Korean/문화어 convention (unshifted 니, not South Korean 이). 尼's own `stand_in` field is 尼僧 — added the stand-in note. Confirmed this is indeed one of the three words affected by [[僧]]'s already-documented "sung vs. seng" flag — left as-is per that standing note, same treatment as [[密陀僧]]/[[宇宙船]]. Left `vietnamese` omitted — Vietnamese reverses the word order entirely (tăng ni, not ni tăng) or uses the unrelated ni cô, no attested form in this exact order. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尼西亜.
+
+### 2026-08-27, iteration 1114 — [[words/尼西亜|尼西亜]]
+
+A phonetic transliteration (Nicaea) — all fields already correct compositional concatenations. Fixed `pos: 名詞` → `固有名詞` (proper noun, matching this vault's convention for transliterated place names like [[寮国]]/[[小川]]). No stand-in relationship, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尽力.
+
+### 2026-08-27, iteration 1115 — [[words/尽力|尽力]]
+
+No stand-in relationship (尽→用尽, 力→itself). All fields already correct compositional concatenations — just needed the `## Notes` section built (page had none) and stamping. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 尾.
+
+### 2026-08-27, iteration 1116 — [[words/尾|尾]]
+
+Single-character stand-alone word. 尾's own `stand_in` is itself — documented. Filled `japanese: び` and `vietnamese: vĩ` (the clean primary Hán Việt reading, verified; the character's own field also lists several Nôm variants). **Found a genuine Dan'a'yo homophone**: 尾 and [[未]] ("not yet") share an identical reading — added reciprocal homophone callouts to both (未.md had been stamped since June 2026 without ever carrying one, same retroactive-fix pattern as [[上]]/[[尚]]/[[賞]] earlier this session). Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1117 — [[words/尿|尿]]
+
+Single-character stand-alone word. 尿's own `stand_in` is itself — documented. Filled `japanese: にょう`. No homophones among other words. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 局.
+
+### 2026-08-27, iteration 1118 — [[words/局|局]]
+
+**Real formatting bug found and fixed on both the word and character page**: `vietnamese` had been stored as a single malformed string ("cục, cộc, cuộc, gục, ngúc") instead of a proper YAML list — fixed both files, keeping "cục" (the primary administrative-office reading) as the word's own field value. 局's own `stand_in` is itself — documented. Filled `japanese: きょく`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 屁.
+
+### 2026-08-27, iteration 1119 — [[words/屁|屁]]
+
+Single-character stand-alone word, quick clean pass. 屁's own `stand_in` is itself — documented. Filled `japanese: ひ` (on'yomi; native へ is the everyday word). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 居所.
+
+### 2026-08-27, iteration 1120 — [[words/居所|居所]]
+
+Already had excellent, richly-developed prose (correctly explaining the 居所/住所, 居/住 legal-domicile-vs-whereabouts distinction). Just needed `vietnamese: cư sở` filled in (verified). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 屈.
+
+### 2026-08-27, iteration 1121 — [[words/屈|屈]]
+
+Single-character stand-alone word. Double-checked the unusual-looking mandarin/cantonese pair (qū/wat1, a bigger divergence than most) against 屈's own character page — already correct, a genuine feature of this character, not contamination. Filled `pos: 事詞`/`japanese: くつ`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 届.
+
+### 2026-08-27, iteration 1122 — [[words/届|届]]
+
+Single-character stand-alone word. 届's own `stand_in` is itself — documented. **Found a genuine Dan'a'yo homophone**: 届 and [[皆]] ("all, every") share an identical reading — added reciprocal callouts to both (皆.md had been stamped since June without one). **Flagged, not fixed**: 皆.md's own `japanese: かい` frontmatter field looks inconsistent with its own prose, which discusses みな/みんな as "the everyday word" for 皆 without かい appearing anywhere — worth a dedicated look when 皆 itself comes up for review, out of scope for this 届-focused iteration. Stamped only [[words/届]] `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1123 — [[words/屋|屋]]
+
+Single-character stand-alone word. Fixed a small `羅馬字` typo (missing the leading apostrophe marking a vowel-initial syllable: og → 'og, matching the character's own field). Filled `japanese: おく` and `vietnamese: ốc` (verified — survives mainly in set idioms like 愛屋及烏, everyday speech prefers native nhà). No homophones among other words. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 屎.
+
+### 2026-08-27, iteration 1124 — [[words/屎|屎]]
+
+**Real character-page bug found and fixed**: 屎's own character page had `mandarin: xī`/`cantonese: hei1` — 屎 genuinely has two Mandarin readings (shǐ "excrement," matching the character's own documented gloss, and a separate rare xī "groaning sound"), but the wrong one had been stored. Corrected to shǐ/si2, matching this word's own long-correct fields. The word's `羅馬字`/`諺文`/`注音` (ㄏㄜ) had already been fixed in the original syllable-lint sweep (see [[project_perfection_era_methodology]]) — confirmed still correct, a different bug from the one just found. Filled `japanese: し`/`vietnamese: thỉ`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 屏風 already stamped — 屑.
+
+### 2026-08-27, iteration 1125 — [[words/屑|屑]]
+
+Single-character stand-alone word. 屑's own `stand_in` is itself — documented. Filled `japanese: せつ`. Homophone with [[舌]] was already correctly reciprocal on both pages (both already stamped). Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 展示.
+
+### 2026-08-27, iteration 1126 — [[words/展示|展示]]
+
+No stand-in relationship (展→伸展, 示→開示). Left `vietnamese` omitted — no attested "triển thị" found; Vietnamese uses the distinct compound triển lãm (展覽) instead. No specific HSK level number, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 展翅.
+
+### 2026-08-27, iteration 1127 — [[words/展翅|展翅]]
+
+Already had rich prose covering the Japanese (展翅/天使) and Korean (展翅/展示) homophone coincidences. **Found a genuine additional Dan'a'yo-level homophone, distinct from those**: 展翅 and [[戦時]] ("wartime") share an identical reading (jensi/전시/ㄐㄝㄋㄙㄧ) — added reciprocal callouts to both (戦時.md not otherwise stamped). Filled `vietnamese: triển sí` (verified). No stand-in relationship. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 属格.
+
+### 2026-08-27, iteration 1128 — [[words/属格|属格]]
+
+No stand-in relationship (属→所属, 格→itself). Filled blank `vietnamese: thuộc cách` (verified as a real linguistic term). Notes explain the 属格/所有格 synonym relationship. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1129 — [[words/屢|屢]]
+
+Single-character stand-alone word. Verified the vietnamese "lũ" (already stored) against search rather than assuming it was another false-cognate case (the character page's field is unusually messy with 6 variants) — confirmed genuinely correct. Filled `japanese: る`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 層.
+
+### 2026-08-27, iteration 1130 — [[words/層|層]]
+
+Single-character stand-alone word. Filled `pos: 名詞`/`japanese: そう`/`vietnamese: tầng` (the everyday reading — building floor — among several character-page variants). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 屯.
+
+### 2026-08-27, iteration 1131 — [[words/屯|屯]]
+
+Single-character stand-alone word, quick clean pass. Filled `pos: 名詞`/`japanese: とん`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 山地.
+
+### 2026-08-27, iteration 1132 — [[words/山地|山地]]
+
+**Real invisible-character typo found and fixed**: `japanese` had a stray zero-width space embedded between さ and ん (さ​んち), rendered visually as normal text but a genuine data glitch — cleaned to さんち. No stand-in relationship. Filled blank `vietnamese: sơn địa` (verified). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1133 — [[words/山岳|山岳]]
+
+**Real `注音` typo found and fixed**: stored ㄙㄚㄇ·ㄚㄎ, but 山's own reading ends in ㄋ (n), not ㄇ (m) — the `諺文`/`羅馬字` fields already correctly used the n-final form (산/san), only `注音` had the wrong final consonant. Propagated the fix to both [[山]]'s and [[岳]]'s own Words-section rubies (both had been citing the same wrong reading). 岳's own `stand_in` field is 山岳 — added the stand-in note. Filled blank `vietnamese: sơn nhạc` (verified). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 山崩.
+
+### 2026-08-27, iteration 1134 — [[words/山崩|山崩]]
+
+No stand-in relationship (both 山/崩 self). Filled blank `korean: 산붕` (a real dictionary term, though modern Korean prefers native 산사태). Left `vietnamese` omitted — no standing term confirmed; Vietnamese uses native sạt lở núi instead. No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 山嶺.
+
+### 2026-08-27, iteration 1135 — [[words/山嶺|山嶺]]
+
+嶺's own `stand_in` field is 山嶺 — added the stand-in note. All other fields already correct compositional concatenations; filled blank `vietnamese: sơn lĩnh` (verified). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 山脈.
+
+### 2026-08-27, iteration 1136 — [[words/山脈|山脈]]
+
+脈's own `stand_in` field is 山脈 — added the stand-in note (page had no `## Notes` section, just a bare Etymology bullet). All other fields already correct. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1137 — [[words/岐|岐]]
+
+Single-character stand-alone word. Filled `japanese: き`. No homophones. Caught myself about to create a dead `[[歧]]` link (歧 is just an alias, no separate character page) — rephrased to plain text before publishing. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 岩石.
+
+### 2026-08-27, iteration 1138 — [[words/岩石|岩石]]
+
+岩's own `stand_in` field is 岩石 — added the stand-in note. Filled blank `vietnamese: nham thạch` (verified). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 峨峨.
+
+### 2026-08-27, iteration 1139 — [[words/峨峨|峨峨]]
+
+峨's own `stand_in` field is 峨峨 (a reduplicated intensifier word) — added the stand-in note. Filled blank `cantonese`/`vietnamese` with the reduplicated forms (ngo4 ngo4/nga nga). Caught and fixed two more dead links before publishing (堂堂/洋洋 cited as examples don't have their own word pages — rephrased as plain text). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 島.
+
+### 2026-08-27, iteration 1140 — [[words/島|島]]
+
+Single-character stand-alone word. 島's own `stand_in` is itself — documented. Filled `japanese: とう`/`vietnamese: đảo` (verified as primary; the character's other listed reading, láo, is a genuine but unrelated Nôm-only reading, not a false cognate). **Confirmed a genuine triple Dan'a'yo homophone**: 島/[[倒]]/[[超]] all share tau/탓/ㄊㄚㄨ — [[倒]] already had the correct reciprocal callout listing both; added the missing callout to 島 and to [[超]] (not otherwise stamped). Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 崇拝.
+
+### 2026-08-27, iteration 1141 — [[words/崇拝|崇拝]]
+
+**Root-cause fix**: 拝's own character page had a completely blank `vietnamese` field — filled in "bái" (verified via the real, well-attested compound 崇拜/sùng bái). No stand-in relationship (崇→崇高, 拝→itself). Fixed `characters:` filename form. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1142 — [[words/崇高|崇高]]
+
+崇's own `stand_in` field is 崇高 — added the stand-in note. Filled blank `vietnamese: sùng cao` (verified). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 崖.
+
+### 2026-08-27, iteration 1143 — [[words/崖|崖]]
+
+Single-character stand-alone word. Filled `pos`/`japanese`/`vietnamese`. Confirmed the existing triple homophone group (崖/[[唉]]/[[愛]]) was already fully, correctly cross-referenced on all three pages — no fix needed there. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 崩.
+
+### 2026-08-27, iteration 1144 — [[words/崩|崩]]
+
+Single-character stand-alone word. Filled `pos`/`japanese`. Notes cover the classical elevated sense (崩御, exclusively "the death of an emperor"). No homophones among other words. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: continuing the sweep (嵌入/川/川口/川埼/州 already stamped).
+
+### 2026-08-27, iteration 1145 — [[words/巣穴|巣穴]]
+
+**Real contamination bug found and fixed, two fields**: `aliases` wrongly listed 巢窟 alongside the genuine variant 巢穴 — 巢窟/[[巣窟]] is actually a separate word with its own page and different reading (jaukod/잣콛/ㄐㄚㄨㄎㄛㄊ), confirmed by checking that page directly; removed. `korean` had similarly been contaminated, storing "소혈; 소굴" — 소굴 is 巣窟's own real Korean reading, not this word's — corrected to plain 소혈. No stand-in relationship (巣→鳥巣, 穴→洞穴). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 巣窟.
+
+### 2026-08-27, iteration 1146 — [[words/巣窟|巣窟]]
+
+Fixed `characters:` filename form (bare `窟` → `窟 (char)`). No stand-in relationship (巣→鳥巣, 窟→itself). Filled blank `cantonese`/`vietnamese: sào quật` (both verified). Notes explicitly distinguish this from [[巣穴]] (the contamination source fixed last iteration). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 工具.
+
+### 2026-08-27, iteration 1147 — [[words/工具|工具]]
+
+具's own `stand_in` field is 工具 — added the stand-in note. Double-checked 工's own vietnamese field for the primary reading "công" before assuming it was missing (same false-alarm shape as [[尊厳]]'s earlier session finding) — it was already there, just further down the list than an initial grep view showed; confirmed `vietnamese: công cụ` already fully correct. Notes explain the real 工具/道具 register distinction (specific manufacturing tools vs. the broader everyday-implement word, verified via search) — cleaned up the stray one-line "called 道具 in J/K" note into proper prose. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 工匠.
+
+### 2026-08-27, iteration 1148 — [[words/工匠|工匠]]
+
+**Significant contamination bug found and fixed**: `諺文`/`羅馬字`/`注音` had been contaminated with [[場]]'s own reading (장/jang/ㄐㄚㄫ, an exact match confirmed by checking 場's character page directly) instead of 匠's real citation (촹/cwang/ㄑ⺢ㄫ). The page had even documented the bug's own symptom as a real fact — a note claiming this word "is a homophone of [[工場]]" — but real Mandarin/Cantonese/Japanese readings of the two words are not actually homophones at all (gōngjiàng/gōngchǎng, こうしょう/こうじょう); only Korean 공장 coincidentally matches both independently. Fixed the readings, removed the false claim, and propagated the correction to [[匠]]'s own Words-section ruby. Filled `vietnamese: công tượng` (verified). 匠's own `stand_in` field is 工匠 — added the stand-in note. No homophones after the correction. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 工場.
+
+### 2026-08-27, iteration 1149 — [[words/工場|工場]]
+
+No stand-in relationship (工→工作, 場→市場). This word's own fields were never contaminated — removed the now-false "homophone with [[工匠]]" claim (a symptom of the bug just fixed on that page, not a real fact once corrected). Filled blank `vietnamese: công trường` (verified). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1150 — [[words/左右|左右]]
+
+Investigated a suspicious-looking `諺文` (자유, byte-identical to the common unrelated Korean word 자유 "freedom") — verified against 左/右's own citation forms and confirmed it's genuinely correct compositionally (자+유), just a coincidental hangul-spelling collision, not a bug. No stand-in relationship (左→左側, 右→右側). Filled blank `vietnamese: tả hữu` (verified, including the extended "approximately"/"attendants" senses). Quoted `hsk_level: "2"`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 巧妙.
+
+### 2026-08-27, iteration 1151 — [[words/巧妙|巧妙]]
+
+巧's own `stand_in` field is 巧妙 — added the stand-in note; fixed `characters:` filename form (bare `妙` → `妙 (char)`). Filled blank `vietnamese: xảo diệu` (verified). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 巨人.
+
+### 2026-08-27, iteration 1152 — [[words/巨人|巨人]]
+
+**Real bug found and fixed**: `vietnamese` had been stored as người lớn — which actually means "adult," not "giant," and isn't even a Sino-Vietnamese reading of either character. Corrected to cự nhân, the genuine compositional reading (confirmed via its use translating this exact compound, 巨人/Kyojin, in *Attack on Titan*). No stand-in relationship (巨→巨大, 人→itself). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1153 — [[words/巨大|巨大]]
+
+Fixed an English gloss typo ("gigantitic" → "gigantic"). 巨's own `stand_in` field is 巨大 — added the stand-in note. Filled blank `vietnamese: cự đại` (verified), quoted `hsk_level: "2"`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 巫山.
+
+### 2026-08-27, iteration 1154 — [[words/巫山|巫山]]
+
+**Real `japanese` bug found and fixed**: stored ふきょう, likely confused with a related nearby place name (巫峡, "Wu Gorge," part of the same Three Gorges cluster) — corrected to the real, verified reading ふざん (with rendaku voicing). Fixed `pos: 名詞` → `固有名詞` (proper noun). No stand-in relationship. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 巫術.
+
+### 2026-08-27, iteration 1155 — [[words/巫術|巫術]]
+
+No stand-in relationship (巫→巫女, 術→itself). Filled blank `vietnamese: vu thuật` (verified). Notes note the near-synonymy with [[法術]]. Standardized the homophone callout format with [[武術]] (real, confirmed genuine collision) on both pages — was already reciprocal, just using a non-canonical `>[!tip]` sentence instead of the standard block. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 差別.
+
+### 2026-08-27, iteration 1156 — [[words/差別|差別]]
+
+差's own `stand_in` field is 差別 — added the stand-in note. Filled blank `vietnamese: sai biệt` — but found it carries the older, neutral "difference/disparity" sense rather than the narrowed discrimination sense that dominates modern Japanese/Korean; modern Vietnamese for "discrimination" uses an unrelated compound (phân biệt đối xử) built on a different character. Documented the semantic divergence rather than presenting it as a clean match. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 差額 (差異 already stamped).
+
+### 2026-08-27, iteration 1157 — [[words/差額|差額]]
+
+Fixed the opening bullet's gloss for 差 ("discriminate" → "difference; discrepancy" — the correct sense here, as documented on [[差別]]'s own page for the same character's dual senses). No stand-in relationship (差→差別, 額→額頭). Filled blank `vietnamese: sai ngạch` (verified). No HSK level, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1158 — [[words/巳月|巳月]]
+
+Same zodiac-calendar-month pattern as [[寅月]]. 巳's own `stand_in` is the special `名専字` naming-restriction marker (not a specific compound) — documented. All fields already correct compositional concatenations. Added a closing paragraph paralleling [[寅月]]'s native-zodiac-name observation for Japanese/Vietnamese. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 巴.
+
+### 2026-08-27, iteration 1159 — [[words/巴|巴]]
+
+Single-character stand-alone word. 巴's own `stand_in` is itself — documented. Filled `japanese: は`. Notes cover the tomoe heraldic motif and 巴's phonetic transliteration role in [[巴基斯坦]] (Pakistan). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 巻.
+
+### 2026-08-27, iteration 1160 — [[words/巻|巻]]
+
+Single-character stand-alone word. **Found `korean: "null"` (the literal string bug, same shape as [[尚]])** — corrected to 권. 巻's own `stand_in` is itself — documented. Filled `japanese: かん`. Confirmed the existing triple homophone group (巻/[[圏]]/[[絹]]) was already fully cross-referenced on the other two pages — added the missing callout here. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 市場.
+
+### 2026-08-27, iteration 1161 — [[words/市場|市場]]
+
+場's own `stand_in` field is 市場 — added the stand-in note. All fields already correct compositional concatenations. Quoted `hsk_level: "2"`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 布帛.
+
+### 2026-08-27, iteration 1162 — [[words/布帛|布帛]]
+
+**Real `korean` bug found and fixed, same class as [[少女]]/[[尭舌]]**: stored 보박 (mechanically matching this word's own `諺文` instead of the real Korean reading) — corrected to 포백, using 布's own real Korean field (포, distinct from its Dan'a'yo 諺文 보). 帛's own `stand_in` field is 布帛 — added the stand-in note. Filled blank `vietnamese: bố bạch` (verified). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1163 — [[words/帆|帆]]
+
+Single-character stand-alone word. Verified the multi-variant `vietnamese` field (buồm/buồng/phàm) — all three genuinely documented Nôm/Hán readings, not contamination — picked phàm (the formal Hán Việt reading) as this word's own value. 帆's own `stand_in` is itself — documented. **Found a genuine Dan'a'yo homophone**: 帆 and [[汎]] ("pan-") share an identical reading — added reciprocal callouts to both (汎.md not otherwise stamped). Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 帆船.
+
+### 2026-08-27, iteration 1164 — [[words/帆船|帆船]]
+
+**Real contamination bug found and fixed**: `諺文`/`羅馬字` stored 줜/jwen — an exact match for [[全]]'s own reading (confirmed by cross-checking that character page) — instead of 船's real citation 쉄/swem, which was already correctly reflected in this word's own `注音` and in 帆's Words-section ruby. Fixed both. Confirmed via [[船]]'s own already-standing flag that this word belongs to the "regular" ㄙ⼔ㄇ group (unlike [[艦船]]/[[宇宙船]]). Filled `vietnamese: phàm thuyền` (verified). No stand-in relationship, no homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 希薄.
+
+### 2026-08-27, iteration 1165 — [[words/希薄|希薄]]
+
+薄's own `stand_in` field is 希薄 — added the stand-in note (noting 希 uses its "rare" sense here, shared with its alias 稀, matching the compound's more common everyday spelling). Filled blank `vietnamese: hi bạc` (verified) and added missing `kwin: true`. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+### 2026-08-27, iteration 1166 — [[words/帖|帖]]
+
+Single-character stand-alone word. Filled `pos`/`japanese`. Notes cover the character's three distinct homographic senses (tiě/tiē/tiè). No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 帝王.
+
+### 2026-08-27, iteration 1167 — [[words/帝王|帝王]]
+
+**Root-cause fix**: 帝's own character page was missing its primary Hán Việt reading, đế, entirely (only rarer variants đê/đí/đó/đấy listed) — added it, resolving this word's own `vietnamese: đế vương` (verified) in the process. 帝's own `stand_in` field is 帝王 — added the stand-in note. Notes cover the real đế/vương rank distinction Vietnamese preserves explicitly. No homophones. Stamped `date-last-perfect: 2026-08-27`.
+
+Next: 帯.
+
+### 2026-08-27, iteration 1168 — [[words/帯|帯]]
+
+Single-character stand-alone word. **Found `korean: "null"` (the literal string bug, same shape as [[尚]]/[[巻]])** — corrected to 대. 帯's own `stand_in` is itself — documented. **Found a genuine triple Dan'a'yo homophone**: 帯, [[太]], and [[戴]] all share tai/태/ㄊㄚㄧ, none of the three had any homophone callout at all before this — added reciprocal callouts to all three (太.md/戴.md not otherwise stamped this iteration). Filled `japanese: たい`/`vietnamese: đai`. Stamped only [[words/帯]] `date-last-perfect: 2026-08-27`.
+
+Next: 帰納.

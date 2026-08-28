@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 21
+size: 20
 radical: 門
 tags: [lookup]
 
@@ -39,15 +39,14 @@ tags: [lookup]
 ### +8 Strokes
 15. <ruby>[䦨](../../characters/䦨.md)<rt>ㄌㄛㄇ</rt></ruby> - curtain, screen, fence
 16. <ruby>[閻](../../characters/閻%20(char).md)<rt>⼶ㄇ</rt></ruby> - village gate
-17. <ruby>[䦧](../../characters/䦧%20(char).md)<rt>ㄏㄝㄎ</rt></ruby> - quarrel
 
 ### +9 Strokes
-18. <ruby>[闊](../../characters/闊%20(char).md)<rt>ㄎ⺢ㄊ</rt></ruby> - broad, wide
+17. <ruby>[闊](../../characters/闊%20(char).md)<rt>ㄎ⺢ㄊ</rt></ruby> - broad, wide
 
 ### +10 Strokes
-19. <ruby>[闖](../../characters/闖.md)<rt>ㄊㄨㄇ</rt></ruby> - intrude
-20. <ruby>[闕](../../characters/闕.md)<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
-21. <ruby>[闘](../../characters/闘.md)<rt>ㄉㄛㄨ</rt></ruby> - struggle, fight
+18. <ruby>[闖](../../characters/闖.md)<rt>ㄊㄨㄇ</rt></ruby> - intrude
+19. <ruby>[闕](../../characters/闕.md)<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
+20. <ruby>[闘](../../characters/闘.md)<rt>ㄉㄛㄨ</rt></ruby> - struggle, fight
 
 ## Data check
 ```dataview

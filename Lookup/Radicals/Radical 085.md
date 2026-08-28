@@ -217,7 +217,7 @@ tags: [lookup]
 170. <ruby>[灌](../../characters/灌.md)<rt>ㄍ⺢ㄋ</rt></ruby> - pour
 
 ### +17 Strokes
-171. <ruby>[灋](../../characters/灋.md)<rt>ㄈㄛㄆ</rt></ruby> - natural law justice
+171. <ruby>[灋](../../characters/灋.md)<rt>ㄆㄛㄆ</rt></ruby> - natural law justice
 172. <ruby>[灘](../../characters/灘%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - bank
 
 ## Data check

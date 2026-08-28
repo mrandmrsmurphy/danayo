@@ -37,13 +37,13 @@ These have all bee checked to see which are redirects
 [[仟]] [[阡]] [喘](characters/喘.md) [擅](characters/擅.md) [玔](characters/釧.md) [穿](characters/穿%20(char).md) [舛](characters/舛.md) [釧](characters/釧.md) [[闡]] [韆](characters/千.md) [[../../characters/茜]]
 
 ### 철  
-[澈](characters/澈.md) [撤](characters/撤%20(char).md) [轍](characters/綴%20(char).md) [綴](characters/綴%20(char).md) [凸](characters/凸%20(char).md) [輟](characters/綴%20(char).md) [[悊]] [[瞮]]
+[澈](characters/澈.md) [撤](characters/撤%20(char).md) [轍](characters/綴%20(char).md) [綴](characters/綴%20(char).md) [凸](characters/凸%20(char).md) [輟](characters/綴%20(char).md) [[悊]] [[瞮]] [屮](characters/屮.md)
 
 ### 첨 
-[僉](characters/㑒.md) [瞻](characters/瞻.md) [[沾]] [[簽]] [[籤]] [詹](characters/瞻.md) [諂](characters/諂%20(char).md) [甜](characters/甜.md) [鹸 (char)](characters/鹸%20(char).md)
+[僉](characters/㑒.md) [瞻](characters/瞻.md) [[沾]] [[簽]] [[籤]] [詹](characters/瞻.md) [諂](characters/諂%20(char).md) [甜](characters/甜.md) [鹸 (char)](characters/鹸%20(char).md) [忝](characters/忝.md)
 
 ### 첩 
-[帖](characters/帖%20(char).md) [捷](characters/捷.md) [[堞]] [牒](characters/牒.md) [疊](characters/畳%20(char).md) [[睫]] [諜](characters/諜.md) [貼](characters/貼%20(char).md) [輒](characters/輒.md) 
+[耴](../../characters/耴.md) [帖](characters/帖%20(char).md) [捷](characters/捷.md) [[堞]] [牒](characters/牒.md) [疊](characters/畳%20(char).md) [[睫]] [諜](characters/諜.md) [貼](characters/貼%20(char).md) [輒](characters/輒.md) [怗](characters/怗.md) 
 
 ### 청 
 菁 --> 青 [鯖](characters/鯖.md)
@@ -70,7 +70,7 @@ These have all bee checked to see which are redirects
 [崔](characters/崔.md)
 
 ### 추 
-[[楸]] [樞](characters/枢%20(char).md) [鄒](characters/鄒.md) [錐](characters/錐.md) [錘](characters/錘.md) [墜](characters/墜.md) [椎](characters/椎.md) [[湫]] [皺](characters/皺.md) [芻](characters/芻.md) [萩](characters/萩.md) [[諏]] [趨](characters/趨%20(char).md) [酋](characters/酋.md) [鎚](characters/槌%20(char).md) [雛](characters/雛.md) [[騶]] [鰌](characters/鰌.md) [帚](characters/帚.md) [䝙](characters/䝙.md)
+[隹](../../characters/隹.md) [[楸]] [樞](characters/枢%20(char).md) [鄒](characters/鄒.md) [錐](characters/錐.md) [錘](characters/錘.md) [墜](characters/墜.md) [椎](characters/椎.md) [[湫]] [皺](characters/皺.md) [芻](characters/芻.md) [萩](characters/萩.md) [[諏]] [趨](characters/趨%20(char).md) [酋](characters/酋.md) [鎚](characters/槌%20(char).md) [雛](characters/雛.md) [[騶]] [鰌](characters/鰌.md) [帚](characters/帚.md) [䝙](characters/䝙.md)
 
 ### 축  
 [軸](characters/軸%20(char).md) [竺](characters/竺.md) [筑](characters/築.md) [[蹙]] [蹴](characters/蹴%20(char).md) 
@@ -94,7 +94,7 @@ These have all bee checked to see which are redirects
 [仄](characters/仄.md) [[惻]] [廁](characters/厠.md) 
 
 ### 치 
-[[熾]] [[峙]] [雉](characters/雉%20(char).md) [馳](characters/馳%20(char).md) [侈](../../characters/済%20(char).md) [[嗤]] [幟](characters/幟%20(char).md) [[梔]] [[淄]] [[痔]] [癡](characters/痴.md) [[緇]] [緻](characters/致%20(char).md) [[蚩]] [[輜]] [稚](characters/稚.md) 
+[魑](../../characters/魑.md) [[熾]] [[峙]] [雉](characters/雉%20(char).md) [馳](characters/馳%20(char).md) [侈](../../characters/済%20(char).md) [[嗤]] [幟](characters/幟%20(char).md) [[梔]] [[淄]] [[痔]] [癡](characters/痴.md) [[緇]] [緻](characters/致%20(char).md) [[蚩]] [[輜]] [稚](characters/稚.md) 
 
 ### 칙 
 [勅](characters/勅.md) [[飭]] 

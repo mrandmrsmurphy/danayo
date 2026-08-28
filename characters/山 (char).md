@@ -55,7 +55,7 @@ boundedness: 75
 - <ruby>[[桃山]]<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby> "Momoyama"
 - <ruby>[[山地]]<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby> "mountain"
 - <ruby>[[山岡]]<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby> "hill"
-- <ruby>[[山岳]]<rt>ㄙㄚㄇ·ㄚㄎ</rt></ruby> "mountain peak"
+- <ruby>[[山岳]]<rt>ㄙㄚㄋ·ㄚㄎ</rt></ruby> "mountain peak"
 - <ruby>[[山川]]<rt>ㄙㄚㄋㄑ⺢ㄋ</rt></ruby> "scenery"
 - <ruby>[[山脈]]<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> "mountain range"
 - <ruby>[[山嶺]]<rt>ㄙㄚㄋㄌㄧㄫ</rt></ruby> "ridge of hills"

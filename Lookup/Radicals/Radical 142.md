@@ -1,7 +1,7 @@
 ---
-size: 42
+size: 41
 radical: 虫
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-08-24
 tags:
   - lookup
 ---
@@ -58,27 +58,26 @@ tags:
 29. <ruby>[蝶](../../characters/蝶.md)<rt>ㄉㄝㄆ</rt></ruby> - butterfly
 30. <ruby>[蝸](../../characters/蝸.md)<rt>ㄍ⺢</rt></ruby> - snail
 31. <ruby>[蝿](../../characters/蝿.md)<rt>ㄧㄫ</rt></ruby> - fly
-32. <ruby>[酋](../../characters/酋.md)<rt>ㄑㄨㄛ</rt></ruby> - larva
 
 ### +10 Strokes
-33. <ruby>[螂](../../characters/螂.md)<rt>ㄌㄚㄫ</rt></ruby> - mantis
-34. <ruby>[融](../../characters/融%20(char).md)<rt>⼜ㄫ</rt></ruby> - melt
-35. <ruby>[螟](../../characters/螟.md)<rt>ㄇㄝㄫ</rt></ruby> - larva
+32. <ruby>[螂](../../characters/螂.md)<rt>ㄌㄚㄫ</rt></ruby> - mantis
+33. <ruby>[融](../../characters/融%20(char).md)<rt>⼜ㄫ</rt></ruby> - melt
+34. <ruby>[螟](../../characters/螟.md)<rt>ㄇㄝㄫ</rt></ruby> - larva
 
 ### +11 Strokes
-36. <ruby>[螳](../../characters/螳.md)<rt>ㄉㄚㄫ</rt></ruby> - mantis
-37. <ruby>[螺](../../characters/螺.md)<rt>ㄌㄚ</rt></ruby> - spiral
-38. <ruby>[蟄](../../characters/蟄%20(char).md)<rt>ㄑㄧㄆ</rt></ruby> - hibernate
+35. <ruby>[螳](../../characters/螳.md)<rt>ㄉㄚㄫ</rt></ruby> - mantis
+36. <ruby>[螺](../../characters/螺.md)<rt>ㄌㄚ</rt></ruby> - spiral
+37. <ruby>[蟄](../../characters/蟄%20(char).md)<rt>ㄑㄧㄆ</rt></ruby> - hibernate
 
 ### +13 Strokes
-39. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
-40. <ruby>[蠖](../../characters/蠖.md)<rt>⺢ㄎ</rt></ruby> - looper
+38. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
+39. <ruby>[蠖](../../characters/蠖.md)<rt>⺢ㄎ</rt></ruby> - looper
 
 ### +14 Strokes
-41. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
+40. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
 
 ### +15 Strokes
-42. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
+41. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
 
 ## Data check
 ```dataview

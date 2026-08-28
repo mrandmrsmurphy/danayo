@@ -3,7 +3,7 @@ tags: [lookup]
 ---
 Redirected checked for
 ### 파 
-[巴 (char)](characters/巴%20(char).md) [芭](characters/芭.md) [琶](characters/琶.md) [坡](characters/坂.md) [杷](characters/把.md) [婆](characters/婆.md) [擺](characters/擺.md) [爬](characters/爬.md) [跛](characters/坂.md) [玻](characters/玻.md)
+[巴 (char)](characters/巴%20(char).md) [芭](characters/芭.md) [琶](characters/琶.md) [坡](characters/坂.md) [杷](characters/把.md) [婆](characters/婆.md) [擺](characters/擺.md) [爬](characters/爬.md) [跛](characters/坂.md) [玻](characters/玻.md) [叵](characters/叵.md) [葩](characters/葩.md)
 
 ### 판 
 [阪](characters/坂.md) [坂](characters/坂.md) 弁<--瓣 [辦](characters/辦.md) [鈑](characters/板.md)
@@ -33,7 +33,7 @@ Redirected checked for
 [陛](characters/陛.md) [[../../characters/吠]] [[嬖]] [[斃]] 
 
 ### 포 
-[葡](characters/葡.md) [褒 (char)](characters/褒%20(char).md) [砲](characters/砲.md) [鋪](../../characters/舗%20(char).md) [佈](../../characters/布.md) [匍](characters/爬.md) [[匏]] [[咆]] [哺](characters/哺.md) [圃](characters/圃.md) [怖](characters/怖.md) [暴 (char)](characters/暴%20(char).md) [泡](characters/泡.md) [疱](characters/疱.md) [[脯]] [[苞]] [蒲](characters/蒲.md) [[袍]] [[逋]] [鮑 (char)](characters/鮑%20(char).md) [拋](characters/抛.md)
+[葡](characters/葡.md) [褒 (char)](characters/褒%20(char).md) [砲](characters/砲.md) [鋪](../../characters/舗%20(char).md) [佈](../../characters/布.md) [匍](characters/爬.md) [[匏]] [[咆]] [哺](characters/哺.md) [圃](characters/圃.md) [怖](characters/怖.md) [暴 (char)](characters/暴%20(char).md) [泡](characters/泡.md) [疱](characters/疱.md) [[脯]] [[苞]] [蒲](characters/蒲.md) [[袍]] [[逋]] [鮑 (char)](characters/鮑%20(char).md) [拋](characters/抛.md) [尃](characters/尃.md)
 
 ### 폭 
 [曝](../../characters/暴%20(char).md) [瀑](characters/瀑.md) [輻](../../characters/放.md) 
@@ -54,7 +54,7 @@ Redirected checked for
 [弼](characters/弼.md) 泌 (done) [[珌]] [[苾]] [[馝]] [[鉍]] [[佖]] [疋](characters/疋.md)
 
 ### 핍 
-[乏](characters/乏.md) [逼](characters/逼.md) [鵖](characters/鵖.md) [偪](characters/偪.md)
+[乏](characters/乏.md) [逼](characters/逼.md) [鵖](characters/鵖.md) [偪](characters/偪.md) [皀](characters/皀.md)
 
 ## Datacheck
 ```dataviewjs

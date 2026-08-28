@@ -1,8 +1,8 @@
 ---
 stroke_count: 9
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-08-24
 skip_number: 2-2-7
-size: 19
+size: 20
 tags: [lookup]
 
 ---
@@ -30,6 +30,7 @@ tags: [lookup]
 17. <ruby>[食](/characters/食%20(char).md)<rt>ㄙㄧㄎ</rt></ruby> "eat"
 18. <ruby>[首](/characters/首.md)<rt>ㄙ⼜</rt></ruby> "head"
 19. <ruby>[兗](/characters/兗.md)<rt>⼶ㄋ</rt></ruby> "Yanzhou (place name)"
+20. <ruby>[酋](/characters/酋.md)<rt>ㄑㄨㄛ</rt></ruby> "chieftain"
 
 ## Datacheck
 ```dataview

@@ -7,7 +7,11 @@ japanese:
   - KYOKU
 japanese_native: つぼね
 vietnamese:
-  - cục, cộc, cuộc, gục, ngúc
+  - cục
+  - cộc
+  - cuộc
+  - gục
+  - ngúc
 middle_chinese_initial: g
 middle_chinese_final: ɨok
 stroke_count: 7

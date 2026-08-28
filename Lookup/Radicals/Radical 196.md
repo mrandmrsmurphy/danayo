@@ -26,7 +26,7 @@ date-last-perfect: 2026-07-08
 
 ### +5 Strokes
 7. <ruby>[鴔](../../characters/鴔.md)<rt>ㄅㄧㄆ</rt></ruby> - hoopoe
-8. <ruby>[鴛](../../characters/鴛.md)<rt>ㄛㄋ</rt></ruby> - mallard
+8. <ruby>[鴛](../../characters/鴛.md)<rt>ㄛㄋ</rt></ruby> - mandarin duck
 9. <ruby>[鴦](../../characters/鴦.md)<rt>ㄚㄫ</rt></ruby> - mandarin duck
 10. <ruby>[鴨](../../characters/鴨%20(char).md)<rt>ㄚㄆ</rt></ruby> - duck
 

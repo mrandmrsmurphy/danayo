@@ -588,7 +588,7 @@ tags: [lookup]
 1608. [煎](../../characters/煎.md) :  broil
 1609. [羨](../../characters/羨.md) : envy
 1610. [腺](../../characters/腺.md) : gland
-1611. [詮](../../characters/詮.md) :  discussion
+1611. [詮](../../characters/詮.md) :  decode, exegete
 1612. [践](../../characters/践.md) : 	[[践|踐]]	tread
 1613. [箋](../../characters/箋.md) : paper
 1614. [潜](../../characters/潜.md) : 	[[潜|潛]]	submerge

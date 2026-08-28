@@ -11,7 +11,7 @@ tags: [lookup]
 ## Characters
 ### Used
 1. <ruby>[鬼](/characters/鬼.md)<rt>ㄍㄨㄧ</rt></ruby> - demon
-2. <ruby>[魁](/characters/魁.md)<rt>ㄎㄛㄧ</rt></ruby> - oiran
+2. <ruby>[魁](/characters/魁.md)<rt>ㄎㄛㄧ</rt></ruby> - chief
 3. <ruby>[魂](/characters/魂%20(char).md)<rt>ㄏㄛㄋ</rt></ruby> - soul
 4. <ruby>[魅](/characters/魅.md)<rt>ㄇㄧㄜ</rt></ruby> - charm
 5. <ruby>[魏](/characters/魏.md)<rt>ㄝ</rt></ruby> - Wei
