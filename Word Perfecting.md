@@ -1285,3 +1285,27 @@ Next: 十三日.
 Same pattern as prior day-words: no stand-in relationship, filled blank `vietnamese: thập tam nhật`, fixed `characters` citation, malformed `japanese` list, and redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 十九日.
+
+### 2026-08-28, iteration 1268 — [[words/十九日|十九日]]
+
+Same pattern as prior day-words. Verified `japanese: じゅうくにち` uses KU (not the alternate KYUU), the genuine calendar convention. Filled blank `vietnamese: thập cửu nhật`, fixed `characters` citation, malformed `japanese` list, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十二.
+
+### 2026-08-28, iteration 1269 — [[words/十二|十二]]
+
+No stand-in relationship (both independent). **Real bugs found and fixed**: `vietnamese` was capitalized with the wrong tone ("Thập nhì") — corrected to `thập nhị`. `aliases` listed the word's own filename as a bogus self-alias — removed. Fixed `characters` citation and redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十二日.
+
+### 2026-08-28, iteration 1270 — [[words/十二日|十二日]]
+
+Same pattern as prior day-words: filled blank `vietnamese: thập nhị nhật`, fixed `characters` citation, malformed `japanese` list, redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十五.
+
+### 2026-08-28, iteration 1271 — [[words/十五|十五]]
+
+No stand-in relationship (both independent). Frontmatter values already correct; fixed malformed `japanese`/`vietnamese` YAML-lists → plain scalars, `characters` citation, and redundant `品詞`. Notes section was truncated to a bare "## Notes" heading with no content — rebuilt in full. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十五日.
