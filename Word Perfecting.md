@@ -894,4 +894,14 @@ Next: 庇護.
 
 The 1200th iteration of this loop. 庇's own `stand_in` field is 庇護 — added the stand-in note. All fields already correct compositional concatenations. Notes cover both the concrete "shelter" sense and the modern legal "political asylum" sense. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
-Next: continuing the sweep.
+### 2026-08-28, iteration 1201 — [[words/床|床]]
+
+Single-character stand-alone word. 床's own `stand_in` is itself — documented. Filled `japanese: しょう`/`vietnamese: sàng`, and traced the character's multiple listed Vietnamese variants (giường, sường, etc.) to a real, documented historical sound-shift chain (sàng → sường → giường) rather than treating them as contamination. Cleared the cryptic "Pronunciation changed" placeholder note. No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 序文.
+
+### 2026-08-28, iteration 1202 — [[words/序文|序文]]
+
+Verified `cantonese: zeoi6 man4` looked unusual (zeoi6 rather than the more familiar jeoi6-shaped readings) but matched 序's own stored field exactly — not a bug. No stand-in relationship (序→順序, 文→文化). Filled blank `vietnamese: tự văn` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 底.
