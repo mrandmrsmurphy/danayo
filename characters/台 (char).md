@@ -64,7 +64,7 @@ boundedness: 95
 - <ruby>[[台風]]<rt>ㄉㄚㄧㄈㄨㄫ</rt></ruby> "typhoon"
 - <ruby>[[台球]]<rt>ㄉㄚㄧㄍ⼜</rt></ruby> "billiards; pool"
 - <ruby>[[台北]]<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby> "Taipei"
-- <ruby>[[台湾]]<rt>ㄉㄚㄧ·⺢ㄋ</rt></ruby> "Taiwan"
+- <ruby>[[台湾]]<rt>ㄉㄚㄧ·⺢ㄇ</rt></ruby> "Taiwan"
 - <ruby>[[断頭台]]<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby> "guillotine"
 
 ## Derived Characters

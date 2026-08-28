@@ -1633,3 +1633,27 @@ Next: 可愛.
 No stand-in relationship (both independent). **Real bugs found and fixed**: `羅馬字`/`諺文`/`注音` had 可's syllable using a divergent form (ka/카) instead of its own authoritative reading (kǝ/크), confirmed against 7 other 可-compounds — corrected, and propagated the fix to the ruby citations on both [[可]]'s and [[愛]]'s own Words sections (same class of bug as [[古典]]). `japanese` had a typo (かはいい → かわいい). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 可読.
+
+### 2026-08-28, iteration 1326 — [[words/可読|可読]]
+
+Page was already nearly complete and correctly used 可's authoritative kǝ/크 reading. No stand-in relationship (可 is its own stand-in; 読's own is [[閲読]]) — added the note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 台北.
+
+### 2026-08-28, iteration 1327 — [[words/台北|台北]]
+
+No stand-in relationship (台 is its own stand-in; 北's own is [[北方]]). Verified `korean: 타이베이` is the modern standard phonetic loan (vs. the older Hanja reading 대북, also attested but less current) — not an error. Fixed `characters` citation "台" → "台 (char)". No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 台湾.
+
+### 2026-08-28, iteration 1328 — [[words/台湾|台湾]]
+
+No stand-in relationship (台 is its own stand-in; 湾's own is [[海湾]]). **Real bug found and fixed**: `羅馬字`/`諺文`/`注音` had 湾's syllable ending in n (wan/완) instead of its own m-final authoritative reading (wam/왐, confirmed against 湾's own page and stand-in [[海湾]]) — corrected, and propagated to [[台]]'s own Words-section ruby. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 史記.
+
+### 2026-08-28, iteration 1329 — [[words/史記|史記]]
+
+No stand-in relationship (史's own is [[歴史]]; 記's is [[記憶]]). Frontmatter already fully correct. Added the missing Notes content entirely (heading was present but empty). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 司鈬.
