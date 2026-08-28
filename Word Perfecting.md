@@ -795,3 +795,13 @@ Next: 平坦.
 坦's own `stand_in` field is 平坦 — added the stand-in note. **Real semantic drift found**: Vietnamese bình thản has drifted entirely away from the literal "physically flat" sense into "inner calm, serenity, composure" — the figurative-only extension of a sense Japanese/Korean still keep alongside the literal one, verified via search (not confusable with the near-homophone bình tĩnh, "emotional control under stress"). Documented rather than treated as an error. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 平安.
+
+### 2026-08-28, iteration 1183 — [[words/平安|平安]]
+
+安's own `stand_in` field is 平安 — added the stand-in note (page had no `## Notes` section at all). Noted the Japanese Heian period name derives directly from this word. All fields already correct compositional concatenations. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+### 2026-08-28, iteration 1184 — [[words/平日|平日]]
+
+No stand-in relationship (平→水平, 日→itself). All fields already correct compositional concatenations; filled blank `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 平板.
