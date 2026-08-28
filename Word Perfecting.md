@@ -817,3 +817,31 @@ Next: 平穏.
 穏's own `stand_in` field is 平穏 — added the stand-in note. Filled blank `vietnamese: bình ổn` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 平等.
+
+### 2026-08-28, iteration 1187 — [[words/平等|平等]]
+
+Investigated the seemingly-anomalous `japanese: びょうどう` (using びょう instead of any of 平's own stored on'yomi HEI/HYOU/BEN) and confirmed it's a genuine, well-documented Buddhist-derived Go-on (呉音) reading — not a bug, and not something 平's own character page needs to list (the character's own field tracks its regular on'yomi set, not this one lexicalized exception). Documented the linguistic history explicitly. No stand-in relationship (平→水平, 等→itself). HSK level 2 already correct. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+### 2026-08-28, iteration 1188 — [[words/平静|平静]]
+
+No stand-in relationship (平→水平, 静→静寂). All fields already correct compositional concatenations, including `vietnamese: bình tĩnh` — cross-referenced this against [[平坦]]'s earlier note (bình tĩnh being the correctly-spelled term often confused with 平坦's own drifted bình thản); this word's own field is exactly right. Filled blank `pos: 性詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 年.
+
+### 2026-08-28, iteration 1189 — [[words/年|年]]
+
+Single-character stand-alone word. 年's own `stand_in` is itself — documented. Filled `japanese: ねん`/`vietnamese: niên` — the character's own field also lists năm (actually the native Vietnamese everyday word for "year," not a Sino-Vietnamese reading) and nên (an unrelated grammatical particle), so picked the genuine Sino-Vietnamese reading rather than either false lead. No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 年刊.
+
+### 2026-08-28, iteration 1190 — [[words/年刊|年刊]]
+
+**Real `korean` bug found and fixed, per the standing [[feedback_korean_reading_north]] rule**: stored 연간, the South Korean 두음법칙-shifted form of word-initial 年 — corrected to the unshifted 년간, matching 年's own stored `korean` field (년) directly. No stand-in relationship (both 年/刊 self). Filled blank `vietnamese: niên khan` (verified compositional). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 年歳.
+
+### 2026-08-28, iteration 1191 — [[words/年歳|年歳]]
+
+**Three separate real bugs found and fixed on the same page**: `japanese` stored the bare character 歲 instead of any kana reading — corrected to ねんさい (verified). `korean` stored the malformed multi-value string "연세, 나이" — 연세 was itself South-Korean-shifted (same class as [[年刊]]'s bug), and 나이 an entirely unrelated native Korean word for "age," not a reading of this compound — corrected to the proper North Korean 년세. `vietnamese` stored nhiêu tuổi, an interrogative phrase meaning "how old," not a reading of this word at all — corrected to niên tuế (verified, a real if literary compound). 歳's own `stand_in` field is 年歳 — added the stand-in note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 年齢.
