@@ -1477,3 +1477,21 @@ Next: 印章.
 No stand-in relationship (印's own is [[封印]]; 章 is its own stand-in). **Real bug found and fixed**: `vietnamese` was wrongly capitalized as a proper noun ("Ấn chương") — corrected to lowercase `ấn chương`. Filled blank `pos: 名詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 即日.
+
+### 2026-08-28, iteration 1300 — [[words/即日|即日]]
+
+No stand-in relationship. **Real bugs found and fixed**: `羅馬字`/`諺文`/`注音` had 即's syllable using a divergent form (jig/직) instead of its own authoritative reading (jǝg/즉, confirmed against sibling [[即位]]) — corrected. `korean` was contaminated with the synonym 当日's reading (당일) — corrected to 즉일. Filled blank `vietnamese: tức nhật`. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 卵白.
+
+### 2026-08-28, iteration 1301 — [[words/卵白|卵白]]
+
+No stand-in relationship (卵's own is [[卵子]]; 白 is its own stand-in). **Real bug found and fixed**: `cantonese` was blank — filled leon2 baak6. Fixed a typo in `korean` (횐자위 → 흰자위, the real native word for egg white). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 原因.
+
+### 2026-08-28, iteration 1302 — [[words/原因|原因]]
+
+因's own `stand_in` field is 原因 — added the stand-in note (原's own is [[原始]]). Filled blank `pos: 名詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 原始.
