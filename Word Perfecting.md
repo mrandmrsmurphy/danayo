@@ -942,4 +942,36 @@ A third `neologism`/`periodictable` word this session (scandium, element 21), sa
 
 Found this word had never actually been stamped, despite receiving its homophone callout in the earlier 容/庸/湧 triple-homophone pass this session — the callout addition alone didn't complete the page. Filled `pos`/`japanese`/`kwin`, built out the Notes section, and stamped it properly. No new homophones beyond the already-documented triple. Stamped `date-last-perfect: 2026-08-28`.
 
-Next: 湧 (also from that earlier pass — checking if it needs the same completion).
+Next: continuing the sweep.
+
+### 2026-08-28, iteration 1210 — [[words/湧|湧]]
+
+Same gap as [[庸]] just found — never actually stamped despite receiving its homophone callout earlier this session. Filled `pos`/`japanese`/`kwin`, built out the Notes section, stamped. **Lesson for future homophone-fix passes**: adding a reciprocal callout to an unstamped sibling page (as done for [[容]]/[[庸]]/[[湧]] and other triples this session) doesn't complete that page — it still needs its own full pass before stamping, and should be tracked as a real remaining item, not assumed done. Stamped `date-last-perfect: 2026-08-28`.
+
+**Homophone-sibling backlog note (2026-08-28)**: swept the log for other pages that received a reciprocal homophone callout earlier this session but were explicitly left "not otherwise stamped, awaiting their own turn" — per the lesson above, these still need their own full completion pass, not just the callout. Remaining: [[賞]] (from the 尚/上/賞 triple), [[戦時]] (from 展翅), [[超]] (from 島/倒/超), [[汎]] (from 帆), [[太]] and [[戴]] (from 帯), [[歯]] and [[置]] (from 幟). Will pick these up either in the normal alphabetical sweep as their filenames come up, or as a dedicated mini-batch later — flagging now so they aren't silently forgotten the way 庸/湧 briefly were.
+
+Next: 廃墟.
+
+### 2026-08-28, iteration 1211 — [[words/廃墟|廃墟]]
+
+**Real `諺文`/`羅馬字` bug found and fixed, same "注音 right, others wrong" shape as [[少女]]/[[尭吉]]**: stored 펴쿄/pyekyo, but 廃's own citation form is 뻐/fe — corrected to 뻐쿄/fekyo (注音, ㄈㄝㄎ⼄, had been correct all along, and 墟's own Words-section ruby — which uses 注音 — was unaffected). 墟's own `stand_in` field is 廃墟 — added the stand-in note. Filled blank `vietnamese: phế khư` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 廃棄.
+
+### 2026-08-28, iteration 1212 — [[words/廃棄|廃棄]]
+
+Already had solid content and a correctly-placed stand-in note (廃's own `stand_in` is 廃棄). Expanded Notes with a concrete/legal-register distinction. Quoted bare-string frontmatter values. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 廃黜.
+
+### 2026-08-28, iteration 1213 — [[words/廃黜|廃黜]]
+
+**Real `cantonese` bug found and fixed**: stored fai3zyut6 — 黜's own real Cantonese reading is zeot1, an entirely different syllable from the stored zyut6 — corrected to "fai3 zeot1." Stand-in note already correctly present. Quoted bare-string frontmatter values. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 廉価.
+
+### 2026-08-28, iteration 1214 — [[words/廉価|廉価]]
+
+**Same 두음법칙/native-word contamination pattern found again, a fourth instance**: `korean` stored the malformed "염가, 싼값" — 염가 South-Korean-shifted, 싼값 an unrelated native word — corrected to North Korean 렴가. No stand-in relationship (廉→itself, 価→価格). Filled blank `vietnamese: liêm giá` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 廟堂.
