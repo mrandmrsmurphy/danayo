@@ -1801,3 +1801,27 @@ Next: 哲学.
 哲's own `stand_in` field is 哲学 — added the stand-in note (学's own is [[学習]]). **Real bugs found and fixed**: `mandarin`/`cantonese` had been stored as raw Chinese characters ("哲學"/"哲理," the latter a different word) instead of romanizations — corrected to zhéxué/zit3 hok6. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 唐突.
+
+### 2026-08-28, iteration 1354 — [[words/唐突|唐突]]
+
+No stand-in relationship (唐's own is `名専字`; 突's own is [[突然]]). **Real bug found and fixed**: `mandarin` had the wrong tone mark ("tángtú" → tángtū). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 唐詩.
+
+### 2026-08-28, iteration 1355 — [[words/唐詩|唐詩]]
+
+No stand-in relationship (唐's own is `名専字`; 詩's own is [[詩歌]]). Verified `korean: 당시` is compositional and coincidentally identical to the unrelated word 當時, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 啄木鳥.
+
+### 2026-08-28, iteration 1356 — [[words/啄木鳥|啄木鳥]]
+
+No stand-in relationship (all three independent). **Real bug found and fixed**: `japanese` used archaic てう instead of modern ちょう. Filled blank `vietnamese: trác mộc điểu` (verified). Cleaned up duplicated Notes/Etymology headings. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 啓明.
+
+### 2026-08-28, iteration 1357 — [[words/啓明|啓明]]
+
+No stand-in relationship (啓's own is [[開啓]]; 明 is its own stand-in). Filled blank `vietnamese: khải minh` (verified) and missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 善人.
