@@ -1681,3 +1681,27 @@ Next: 合金.
 No stand-in relationship (合 is its own stand-in; 金's is [[金]], unrelated). Discovered and documented a systematic two-way split in how 合 is read across the vault: kab/캅 in "mixture/blend" sense compounds ([[混合]], [[組合]], [[癒合]], [[融合]], and now 合金) vs. gob/곱 (matching 合's bare citation) in "join/unite" sense compounds ([[合肥]], [[合成]], [[結合]], [[連合]]) — 合金's own kab/캅 fields are correct as-is, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 同一.
+
+### 2026-08-28, iteration 1334 — [[words/同一|同一]]
+
+同's own `stand_in` field is 同一 — added the stand-in note (一's own is [[一]], unrelated). Frontmatter already fully correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 同僚.
+
+### 2026-08-28, iteration 1335 — [[words/同僚|同僚]]
+
+僚's own `stand_in` field is 同僚 — already documented. **Real bug found and fixed**: `cantonese` missing space. Filled blank `vietnamese: đồng liêu` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 同胞.
+
+### 2026-08-28, iteration 1336 — [[words/同胞|同胞]]
+
+No stand-in relationship (同's own is [[同一]]; 胞's is [[胞衣]]). **Real bug found and fixed**: `japanese` had a typo (どうはう → どうほう). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 名詞.
+
+### 2026-08-28, iteration 1337 — [[words/名詞|名詞]]
+
+No stand-in relationship (名 is its own stand-in; 詞's own is [[単詞]]). **Real bug found and fixed**: `mandarin` had been stored as simplified Chinese characters "名词" instead of pinyin — corrected to míngcí. `cantonese` was blank — filled ming4 ci4. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 君士坦丁堡.
