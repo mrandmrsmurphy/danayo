@@ -845,3 +845,25 @@ Next: 年歳.
 **Three separate real bugs found and fixed on the same page**: `japanese` stored the bare character 歲 instead of any kana reading — corrected to ねんさい (verified). `korean` stored the malformed multi-value string "연세, 나이" — 연세 was itself South-Korean-shifted (same class as [[年刊]]'s bug), and 나이 an entirely unrelated native Korean word for "age," not a reading of this compound — corrected to the proper North Korean 년세. `vietnamese` stored nhiêu tuổi, an interrogative phrase meaning "how old," not a reading of this word at all — corrected to niên tuế (verified, a real if literary compound). 歳's own `stand_in` field is 年歳 — added the stand-in note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 年齢.
+
+### 2026-08-28, iteration 1192 — [[words/年齢|年齢]]
+
+**Same contamination pattern as [[年刊]]/[[年歳]] found again, a third instance**: `korean` stored the malformed "연령, 나이" — 연령 South-Korean-shifted, 나이 an unrelated native word — corrected to North Korean 년령. `cantonese` had a missing space (nin4ling4 → nin4 ling4). **Root-cause fix**: 齢's own character page had a completely blank `vietnamese` field — verified and filled in "linh" (confirmed via classical citations like 年紀已經八十有零/niên kỉ dĩ kinh bát thập hữu linh), which resolved this word's own `vietnamese: niên linh` (also independently verified as attested in derived compounds). 齢's own `stand_in` field is 年齢 — added the stand-in note, distinguishing it from the more formal [[年歳]]. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+### 2026-08-28, iteration 1193 — [[words/幸運|幸運]]
+
+Fixed another archaic-kana `japanese` typo (かううん → こううん). Verified `korean: 행운` is already correct — same deliberate Dan'a'yo/Korean divergence shape as [[平均]] (幸's own Dan'a'yo 諺文 항 differs from its real Korean 행, already `kwin: false`-documented). 幸's own `stand_in` field is 幸運 — added the stand-in note. Filled blank `vietnamese: hạnh vận` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 幼児.
+
+### 2026-08-28, iteration 1194 — [[words/幼児|幼児]]
+
+幼's own `stand_in` field is 幼児 — added the stand-in note (page had no `## Notes` section). All fields already correct compositional concatenations. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 幼稚.
+
+### 2026-08-28, iteration 1195 — [[words/幼稚|幼稚]]
+
+稚's own `stand_in` field is 幼稚 — added the stand-in note. All fields already correct compositional concatenations. Notes distinguish the neutral (幼稚園) and pejorative (childish adult behavior) senses. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 幽.
