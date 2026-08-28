@@ -1405,3 +1405,27 @@ Next: 南山.
 No stand-in relationship (南's own is [[南方]]; 山 is its own stand-in). Verified `japanese: ナムサン` is a genuine phonetic-loan transliteration for this Korean place name. Fixed `characters` citation "山" → "山 (char)". No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 南方.
+
+### 2026-08-28, iteration 1288 — [[words/南方|南方]]
+
+南's own `stand_in` field is 南方 — added the stand-in note (方's own is [[方向]]). **Real bugs found and fixed**: `cantonese` was completely wrong ("nan2 fang1") — corrected to naam4 fong1. `pos` was mislabeled 連接詞 ("conjunction") — corrected to 名詞. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 単純.
+
+### 2026-08-28, iteration 1289 — [[words/単純|単純]]
+
+Page was already nearly complete (well-written Notes, correct frontmatter). No stand-in relationship (単's own is [[簡単]]; 純's is [[純粋]]) — added the note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 単詞.
+
+### 2026-08-28, iteration 1290 — [[words/単詞|単詞]]
+
+詞's own `stand_in` field is 単詞 — added the stand-in note (単's own is [[簡単]]). Verified that japanese たんご/korean 단어 both reflect the real-world compound 単語 (built with 語, not 詞) rather than a compositional reading — a genuine, expected divergence, not an error. Homophone with [[丹砂]] already fully documented reciprocally. No other homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 単鷹国.
+
+### 2026-08-28, iteration 1291 — [[words/単鷹国|単鷹国]]
+
+Dan'a'yo coinage for Prussia ("single-eagle nation"). No stand-in relationship. Verified real-world CJKV fields are genuine phonetic loanwords (プロイセン, 프로이센, Phổ Lỗ Sĩ), not compositional — expected for this neologism. Fixed `characters` citation "鷹" → "鷹 (char)". No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 博士.
