@@ -904,4 +904,32 @@ Next: 序文.
 
 Verified `cantonese: zeoi6 man4` looked unusual (zeoi6 rather than the more familiar jeoi6-shaped readings) but matched 序's own stored field exactly — not a bug. No stand-in relationship (序→順序, 文→文化). Filled blank `vietnamese: tự văn` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
-Next: 底.
+### 2026-08-28, iteration 1203 — [[words/底|底]]
+
+Single-character stand-alone word. 底's own `stand_in` is itself — documented. Filled `japanese: てい`/`vietnamese: để` (correctly picking the primary reading among several Nôm variants on the character page, confirmed via classical examples like 水底/thủy để). **Found a genuine triple Dan'a'yo homophone**: 底, [[第]], and [[蹄]] all share dei/데/ㄉㄝㄧ — none had ever carried a callout — added reciprocal callouts to all three, and along the way filled each of the other two's own blank `vietnamese` fields (đệ for 第, "-th"; đề for 蹄, "hoof" — both independently verified). Stamped only [[words/底]] `date-last-perfect: 2026-08-28`.
+
+Next: 庭園.
+
+### 2026-08-28, iteration 1204 — [[words/庭園|庭園]]
+
+園's own `stand_in` field is 庭園 — added the stand-in note. Filled blank `cantonese`/`vietnamese: đình viên` (both verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 庵子.
+
+### 2026-08-28, iteration 1205 — [[words/庵子|庵子]]
+
+**Investigated the odd dual gloss ("greenhouse, monastery") and confirmed it's genuine, not a fabrication**: 庵子 is a real dialectal Mandarin word carrying two distinct regional senses — a farmer's thatched field-shelter (Guanzhong dialect) and a small Buddhist nunnery (other regions), verified via zdic/Wiktionary. Fixed `mandarin` (was truncated to bare "ān," corrected to the full "ānzi"). Filled blank `cantonese`. **Flagged rather than guessed**: `japanese: あんじ` is attested only as a given-name reading, not an ordinary common noun — documented explicitly rather than presented as a standard word reading. Left `vietnamese` omitted — no attested Sino-Vietnamese compound found. 庵's own `stand_in` field is 庵子 — added the stand-in note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 庶民.
+
+### 2026-08-28, iteration 1206 — [[words/庶民|庶民]]
+
+庶's own `stand_in` field is 庶民 — added the stand-in note. Filled blank `vietnamese: thứ dân` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 康寧.
+
+### 2026-08-28, iteration 1207 — [[words/康寧|康寧]]
+
+Already had excellent, richly-developed prose explaining the 康/健 sense-split ([[康寧]] vs. [[健全]], both collapsed under [[健康]]). Just needed `vietnamese: khang ninh` filled in (verified as a formal blessing-register term). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 康金.
