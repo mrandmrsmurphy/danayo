@@ -1453,3 +1453,27 @@ Next: 占星術.
 No stand-in relationship (all three independent). **Real bugs found and fixed**: `mandarin`/`cantonese` were missing 術's contribution entirely — filled zhānxīngshù/zim1 sing1 seot6. `japanese` was truncated (せんせいじ → せんせいじゅつ). Fixed `characters` citation. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 卯月.
+
+### 2026-08-28, iteration 1296 — [[words/卯月|卯月]]
+
+Discovered and documented the `名専字` ("name-exclusive character") convention: 卯's own `stand_in` is this blanket marker rather than a specific word, since 卯 genuinely appears only in zodiac/calendrical contexts across the vault — distinct from siblings like [[寅月]] (寅's own stand-in is 寅月 itself) or [[午月]] (午's own stand-in points elsewhere, to 正午). Verified japanese うつき / vietnamese tháng Mão match the established native zodiac-month convention. Removed stray `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 印度.
+
+### 2026-08-28, iteration 1297 — [[words/印度|印度]]
+
+No stand-in relationship (印's own is [[封印]]; 度's is [[程度]]). Verified japanese インド is a genuine katakana phonetic loan for the country name. Expanded the terse `[[印]] + [[度]]` Notes into full prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 印度洋.
+
+### 2026-08-28, iteration 1298 — [[words/印度洋|印度洋]]
+
+No stand-in relationship (印's own is [[封印]]; 度's is [[程度]]; 洋's is [[大洋]]). Frontmatter already fully correct. Fixed non-standard `## Etymology` heading → `## Notes`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 印章.
+
+### 2026-08-28, iteration 1299 — [[words/印章|印章]]
+
+No stand-in relationship (印's own is [[封印]]; 章 is its own stand-in). **Real bug found and fixed**: `vietnamese` was wrongly capitalized as a proper noun ("Ấn chương") — corrected to lowercase `ấn chương`. Filled blank `pos: 名詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 即日.
