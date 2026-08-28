@@ -1213,3 +1213,27 @@ Next: 包皮.
 No stand-in relationship (包's own is [[包装]], 皮's is [[皮革]]). **Real bug found and fixed**: `mandarin` was truncated ("bāop") — corrected to bāopí. Documented `vietnamese: bao bì` as compositionally correct but semantically drifted toward "packaging" in modern usage (medical Vietnamese prefers "bao quy đầu"), left as-is per vault convention of using the compositional form. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 匈奴.
+
+### 2026-08-28, iteration 1256 — [[words/匈奴|匈奴]]
+
+匈's own `stand_in` field is 匈奴 — added the stand-in note (奴's own is [[奴隷]]). Filled blank `japanese: きょうど` (verified). Fixed `vietnamese` capitalization ("hung Nô" → `Hung Nô`, verified as the standard form). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 化学肥料.
+
+### 2026-08-28, iteration 1257 — [[words/化学肥料|化学肥料]]
+
+No stand-in relationship (化 is its own stand-in; 学's own is [[学習]], 肥's is [[肥満]], 料's is [[材料]]). Frontmatter fields were already correct but `kwin`/`hsk_level`/`swadesh`/`aliases`/`date-last-perfect` were entirely missing — added (`kwin: false`, verified against the Sino-Korean/Dan'a'yo divergence). Expanded Notes to full prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 化身.
+
+### 2026-08-28, iteration 1258 — [[words/化身|化身]]
+
+No stand-in relationship (化 is its own stand-in; 身's own is [[身体]]). Fixed `characters` citation "化" → "化 (char)" to match the actual filename. Verified `japanese: けしん` uses 化's alternate on'yomi KE rather than the more common KA — genuine, not an error. Fixed non-standard `## Etymology` heading → `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 北京.
+
+### 2026-08-28, iteration 1259 — [[words/北京|北京]]
+
+No stand-in relationship (北's own is [[北方]], 京's is [[京城]]). Verified `japanese: ぺきん` is a genuine phonetic-loan reading for the exonym "Peking" (matching the precedent of しゃんはい for 上海), not an error. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 北方.
