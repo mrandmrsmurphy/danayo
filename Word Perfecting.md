@@ -1591,3 +1591,27 @@ Next: 古今.
 No stand-in relationship (古's own is [[古代]]; 今 is its own stand-in). Fixed `characters` citation "今" → "今 (char)". Frontmatter otherwise already correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 古代.
+
+### 2026-08-28, iteration 1319 — [[words/古代|古代]]
+
+古's own `stand_in` field is 古代 — added the stand-in note (代's own is [[世代]]). Filled blank `vietnamese: cổ đại` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 古典.
+
+### 2026-08-28, iteration 1320 — [[words/古典|古典]]
+
+No stand-in relationship (古's own is [[古代]]; 典's is [[事典]]). **Real bug found and fixed**: `羅馬字`/`諺文`/`注音` had 典's syllable using a divergent form (dan/전/ㄐㄝㄋ) instead of its own authoritative reading (den/던/ㄉㄝㄋ), confirmed against every other 典-compound in the vault ([[事典]], [[典雅]], [[字典]], [[恩典]], [[瑞典]], [[祭典]], [[詞典]]) — corrected, flipping `kwin` true→false to match (Dan'a'yo now correctly diverges from Sino-Korean 고전, same as [[典雅]]). Propagated the fix to the ruby citations on both [[古]]'s and [[典]]'s own Words sections. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 古琴.
+
+### 2026-08-28, iteration 1321 — [[words/古琴|古琴]]
+
+No stand-in relationship (古's own is [[古代]]; 琴 is its own stand-in). Noted an interesting real-world (Japanese/Korean) homophony with [[古今]] that does NOT extend to the Dan'a'yo level, since the two words' own 注音 differ (ㄍㄛㄍㄧㄇ vs ㄍㄛㄍㄨㄇ) — documented, no callout needed. Fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 古風.
+
+### 2026-08-28, iteration 1322 — [[words/古風|古風]]
+
+No stand-in relationship (古's own is [[古代]]; 風 is its own stand-in). **Real bug found and fixed**: `aliases` incorrectly listed the distinct compound 古雅 (built from 雅, not 風, no word page of its own) as an orthographic variant — removed, keeping only 古风. Cleaned up duplicated Notes content (same etymology line appeared twice). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 叫喚.
