@@ -1495,3 +1495,51 @@ Next: 原因.
 因's own `stand_in` field is 原因 — added the stand-in note (原's own is [[原始]]). Filled blank `pos: 名詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 原始.
+
+### 2026-08-28, iteration 1303 — [[words/原始|原始]]
+
+原's own `stand_in` field is 原始 — already documented (始's own is [[始作]]). Filled blank `vietnamese: nguyên thuỷ` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 原子.
+
+### 2026-08-28, iteration 1304 — [[words/原子|原子]]
+
+No stand-in relationship (原's own is [[原始]]; 子's is [[児子]]). **Real bug found and fixed**: `羅馬字`/`諺文` had 子's syllable using a divergent form (ji/지) instead of its own authoritative reading (jǝ/즈, confirmed against sibling [[児子]]) — corrected (注音 was already right). Fixed unquoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 原罪.
+
+### 2026-08-28, iteration 1305 — [[words/原罪|原罪]]
+
+No stand-in relationship (原's own is [[原始]]; 罪 is its own stand-in). Filled blank `vietnamese: nguyên tội`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 厩肥.
+
+### 2026-08-28, iteration 1306 — [[words/厩肥|厩肥]]
+
+No stand-in relationship (厩's own is [[馬厩]]; 肥's is [[肥満]]). Verified `vietnamese: cứu phì` is compositionally correct (厩's own reading), coincidentally homophonous with the unrelated word for "save," not an error. Filled missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 厳重.
+
+### 2026-08-28, iteration 1307 — [[words/厳重|厳重]]
+
+No stand-in relationship (both independent). Fixed `pos` (mislabeled "修飾語," not a recognized tag) → 性詞. Verified `cantonese: zung6` reflects 重's "heavy" sense vs. its citation "cung5" — a legitimate sense-dependent split. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 双曲線.
+
+### 2026-08-28, iteration 1308 — [[words/双曲線|双曲線]]
+
+No stand-in relationship (双 is its own stand-in; 曲's own is [[歌曲]]; 線's is [[直線]]). Verified `vietnamese: hyperbol` is the genuine standard Vietnamese math term (international loanword for the noun), distinct from "song khúc" (used only for the adjective "hyperbolic"). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 反切.
+
+### 2026-08-28, iteration 1309 — [[words/反切|反切]]
+
+No stand-in relationship (both independent). **Real bug found and fixed**: `cantonese` was missing 反's initial consonant ("faan1cit3" → faan2 cit3, matching every sibling 反-compound). Verified `korean: 반절` uses 切's genuine alternate reading (절, as in 切実/親切) rather than its citation 체 (一切) — not an error. Fixed empty-list `aliases`. Flagged (not fixed, out of scope) an apparent internal inconsistency on 反's own character page (諺文 뽄 vs 羅馬字/注音's F-initial fon/ㄈㄛㄋ) for a future character-perfecting pass. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 反哺.
+
+### 2026-08-28, iteration 1310 — [[words/反哺|反哺]]
+
+No stand-in relationship (反 is its own stand-in; 哺's own is [[哺乳]]). Frontmatter already fully correct. Fixed non-standard `## Etymology` heading → `## Notes`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 反応.
