@@ -7,6 +7,7 @@ japanese:
   - KOU
 japanese_native: ひろ
 vietnamese:
+  - quảng
 middle_chinese_initial: k
 middle_chinese_final: wɑŋ
 stroke_count: 5

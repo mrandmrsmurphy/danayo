@@ -867,3 +867,31 @@ Next: 幼稚.
 稚's own `stand_in` field is 幼稚 — added the stand-in note. All fields already correct compositional concatenations. Notes distinguish the neutral (幼稚園) and pejorative (childish adult behavior) senses. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 幽.
+
+### 2026-08-28, iteration 1196 — [[words/幽|幽]]
+
+Single-character stand-alone word. 幽's own `stand_in` is itself — documented. Filled `japanese: ゆう`. **Found a genuine triple Dan'a'yo homophone**: 幽, [[猶]], and [[由]] all share 'yuo/윳/⼜ㄛ — none of the three had ever carried a homophone callout ([[由]] had been stamped since June without one) — added reciprocal callouts to all three. Stamped only [[words/幽]] `date-last-perfect: 2026-08-28`.
+
+### 2026-08-28, iteration 1197 — [[words/幽鬼|幽鬼]]
+
+**Real cross-field contamination bug found and fixed**: `korean` had the Japanese kana reading ゆうき pasted into it (evidently meant for a `japanese` field that was itself entirely blank) — corrected `korean` to 유귀 and filled `japanese: ゆうき` and blank `cantonese: jau1 gwai2` with verified values. No stand-in relationship (幽→itself, 鬼→鬼神). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 幾.
+
+### 2026-08-28, iteration 1198 — [[words/幾|幾]]
+
+Single-character stand-alone word. 幾's own `stand_in` is itself — documented. Filled `japanese: き`/`vietnamese: kỉ` (correctly distinguishing this "several/how many" sense from the character's other listed reading "cơ," which belongs to an unrelated "small sign, omen" sense of the same character). No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 広.
+
+### 2026-08-28, iteration 1199 — [[words/広|広]]
+
+**Root-cause fix**: 広's own character page had a completely blank `vietnamese` field — filled in "quảng" (verified), which resolved this word's own field. 広's own `stand_in` is itself — documented. Filled `japanese: こう`. No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 庇護.
+
+### 2026-08-28, iteration 1200 — [[words/庇護|庇護]]
+
+The 1200th iteration of this loop. 庇's own `stand_in` field is 庇護 — added the stand-in note. All fields already correct compositional concatenations. Notes cover both the concrete "shelter" sense and the modern legal "political asylum" sense. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: continuing the sweep.
