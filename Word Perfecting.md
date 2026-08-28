@@ -1237,3 +1237,27 @@ Next: 北京.
 No stand-in relationship (北's own is [[北方]], 京's is [[京城]]). Verified `japanese: ぺきん` is a genuine phonetic-loan reading for the exonym "Peking" (matching the precedent of しゃんはい for 上海), not an error. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 北方.
+
+### 2026-08-28, iteration 1260 — [[words/北方|北方]]
+
+北's own `stand_in` field is 北方 — added the stand-in note (方's own is [[方向]]). **Real bugs found and fixed**: `japanese` had ぱう instead of the correct ほう for 方's own on'yomi (never rendaku-shifts here, per siblings 五方/平方/地方) — corrected to ほくほう. `vietnamese: hướng bắc` was a native paraphrase rather than the real compound — corrected to `phương bắc`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 北極.
+
+### 2026-08-28, iteration 1261 — [[words/北極|北極]]
+
+No stand-in relationship (北's own is [[北方]]; 極 is its own stand-in). Fixed `characters` citation "極" → "極 (char)" to match the actual filename. Frontmatter otherwise already correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 区域.
+
+### 2026-08-28, iteration 1262 — [[words/区域|区域]]
+
+区's own `stand_in` field is 区域 — added the stand-in note (域's own is [[域]], unrelated). **Real bug found and fixed**: `mandarin`/`cantonese` were both entirely blank — filled compositionally (qūyù/keoi1 wik6). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 医生.
+
+### 2026-08-28, iteration 1263 — [[words/医生|医生]]
+
+医's own `stand_in` field is 医生 — added the stand-in note (生's own is [[生活]]). **Real bugs found and fixed**: `mandarin`/`cantonese`/`korean`/`aliases` were all contaminated with forms belonging to the near-synonym word 医師/医师 (yīshī, built from 医+師 not 医+生) — corrected mandarin to yīshēng, cantonese to ji1 sang1, korean to 의생 (compositional, dropping the mixed-in real word 의사), and trimmed aliases to just 醫生. Filled blank `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 十一日.
