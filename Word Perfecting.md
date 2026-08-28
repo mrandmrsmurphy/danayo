@@ -1025,3 +1025,19 @@ Next: 引.
 Single-character stand-alone word. 引's own `stand_in` is itself — documented. Filled `japanese: いん`/`vietnamese: dẫn`. **Found a genuine Dan'a'yo homophone**: 引 and [[銀]] ("silver," a periodictable word) share an identical reading — added reciprocal callouts to both (銀.md not otherwise stamped — added to the homophone-sibling backlog). Stamped only [[words/引]] `date-last-perfect: 2026-08-28`.
 
 Next: 引入.
+
+### 2026-08-28, iteration 1224 — [[words/引入|引入]]
+
+No stand-in relationship (both 引/入 self). Filled all three blank fields (`korean`/`japanese`/`vietnamese`, all verified). Noted Vietnamese dẫn nhập's real additional use as a standalone literary term for an introductory section. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+### 2026-08-28, iteration 1225 — [[words/弟|弟]]
+
+Single-character stand-alone word. 弟's own `stand_in` is itself — documented. Filled `japanese: てい`/`vietnamese: đệ`. No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弟子.
+
+### 2026-08-28, iteration 1226 — [[words/弟子|弟子]]
+
+Verified the real cross-word Korean-only pun already flagged on [[梯子]]'s own page — confirmed the two words are distinct at the Dan'a'yo level (ㄊ vs ㄉ initial), so no `>[!warning] Homophones` callout applies here, just a documented Korean-level coincidence. No stand-in relationship (弟→itself, 子→児子). All fields already correct. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弥.
