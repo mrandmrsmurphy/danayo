@@ -948,7 +948,7 @@ Next: continuing the sweep.
 
 Same gap as [[庸]] just found — never actually stamped despite receiving its homophone callout earlier this session. Filled `pos`/`japanese`/`kwin`, built out the Notes section, stamped. **Lesson for future homophone-fix passes**: adding a reciprocal callout to an unstamped sibling page (as done for [[容]]/[[庸]]/[[湧]] and other triples this session) doesn't complete that page — it still needs its own full pass before stamping, and should be tracked as a real remaining item, not assumed done. Stamped `date-last-perfect: 2026-08-28`.
 
-**Homophone-sibling backlog note (2026-08-28)**: swept the log for other pages that received a reciprocal homophone callout earlier this session but were explicitly left "not otherwise stamped, awaiting their own turn" — per the lesson above, these still need their own full completion pass, not just the callout. Remaining: [[賞]] (from the 尚/上/賞 triple), [[戦時]] (from 展翅), [[超]] (from 島/倒/超), [[汎]] (from 帆), [[太]] and [[戴]] (from 帯), [[歯]] and [[置]] (from 幟). Will pick these up either in the normal alphabetical sweep as their filenames come up, or as a dedicated mini-batch later — flagging now so they aren't silently forgotten the way 庸/湧 briefly were.
+**Homophone-sibling backlog note (2026-08-28, updated)**: swept the log for other pages that received a reciprocal homophone callout earlier this session but were explicitly left "not otherwise stamped, awaiting their own turn" — per the lesson above, these still need their own full completion pass, not just the callout. Remaining: [[賞]] (from the 尚/上/賞 triple), [[戦時]] (from 展翅), [[超]] (from 島/倒/超), [[汎]] (from 帆), [[太]] and [[戴]] (from 帯), [[歯]] and [[置]] (from 幟), [[籠]] (from 弄). Will pick these up either in the normal alphabetical sweep as their filenames come up, or as a dedicated mini-batch later — flagging now so they aren't silently forgotten the way 庸/湧 briefly were.
 
 Next: 廃墟.
 
@@ -985,3 +985,33 @@ Investigated `japanese: びょうどう` — coincidentally identical to [[平�
 Verified `korean: 연장` against both constituents' own fields (연+장) — no 두음법칙 issue here since 延's own reading is already 연, not shifted (unlike the recent 年/廉 cases). No stand-in-note gap. Filled blank `vietnamese: diên trường` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 建国.
+
+### 2026-08-28, iteration 1217 — [[words/建国|建国]]
+
+Clean pass — all fields already correct. No stand-in relationship (建→建設, 国→国家). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 建築.
+
+### 2026-08-28, iteration 1218 — [[words/建築|建築]]
+
+No stand-in relationship (建→建設, 築→構築). Preserved the useful compound-family note (建築事/建築物/建築学/建築家) as proper prose. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弁.
+
+### 2026-08-28, iteration 1219 — [[words/弁|弁]]
+
+Single-character stand-alone word. 弁's own `stand_in` is itself — documented, and correctly distinguished from the character's own unrelated "ceremonial cap" original sense (this word tracks its role as a shinjitai stand-in for 辯/辨 instead). Filled `japanese: べん`. No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 弄.
+
+### 2026-08-28, iteration 1220 — [[words/弄|弄]]
+
+Single-character stand-alone word. 弄's own `stand_in` is itself — documented. Filled `japanese: ろう`/`vietnamese: lộng` (correctly picking the primary reading among several Nôm variants). **Found a genuine Dan'a'yo homophone**: 弄 and [[籠]] ("cage, basket") share an identical reading — added reciprocal callouts to both (籠.md not otherwise stamped, just got the callout ahead of its own turn — added to the homophone-sibling backlog list). Stamped only [[words/弄]] `date-last-perfect: 2026-08-28`.
+
+Next: 弊.
+
+### 2026-08-28, iteration 1221 — [[words/弊|弊]]
+
+Single-character stand-alone word. 弊's own `stand_in` is itself — documented. Filled `japanese: へい`/`vietnamese: tệ` (correctly picking the standard reading, tệ nạn, over the character's other listed Nôm variant giẻ). No homophones among other words. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: continuing the sweep.
