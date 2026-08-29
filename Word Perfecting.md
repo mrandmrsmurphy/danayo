@@ -1891,3 +1891,27 @@ Next: 四川.
 Page was already nearly complete. No stand-in relationship (both independent) — added the note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 四書.
+
+### 2026-08-28, iteration 1369 — [[words/四書|四書]]
+
+No stand-in relationship (四 is its own stand-in; 書's own is [[書本]]). Frontmatter already fully correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 四面.
+
+### 2026-08-28, iteration 1370 — [[words/四面|四面]]
+
+No stand-in relationship (四 is its own stand-in; 面's own is [[表面]]). Filled blank `pos: 名詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 回天.
+
+### 2026-08-28, iteration 1371 — [[words/回天|回天]]
+
+No stand-in relationship (both independent). Filled blank `vietnamese: hồi thiên`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 回教.
+
+### 2026-08-28, iteration 1372 — [[words/回教|回教]]
+
+No stand-in relationship (回 is its own stand-in; 教's own is [[教授]]). **Real bug found and fixed**: `japanese` used archaic くわいけう instead of modern かいきょう. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 回教徒.
