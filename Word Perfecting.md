@@ -1957,3 +1957,27 @@ Next: 因緣.
 縁's own `stand_in` field is 因緣 — already documented (因's own is [[原因]]). Verified `japanese: いんねん` is a genuine sandhi n-insertion reading, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 囲棋.
+
+### 2026-08-28, iteration 1380 — [[words/囲棋|囲棋]] and [[words/囲碁|囲碁]]
+
+Documented an interesting near-duplicate pair: both name the game Go with an identical Dan'a'yo reading (注音 ㄨㄧㄍㄧ), but 囲棋 uses 棋 as a phonetic substitute for 碁 (碁's own `stand_in` field is explicitly 囲棋), while 囲碁 cites 碁 directly. Filled missing `kwin: true` on 囲棋 (matches Sino-Korean exactly). On 囲碁: **real bugs found and fixed** — spurious leading apostrophe in `羅馬字`, archaic ゐ kana (ゐご→いご), and wrongly-capitalized `vietnamese` ("Cờ vây"→cờ vây); kept its native Korean 바둑 (vs. 囲棋's literary 위기) as a legitimate real-world divergence. Both stamped `date-last-perfect: 2026-08-28`.
+
+Next: 図画.
+
+### 2026-08-28, iteration 1381 — [[words/図画|図画]]
+
+No stand-in relationship (図's own is [[図表]]; 画's is [[絵画]]). **Real bug found and fixed**: `korean`/`vietnamese` had both been contaminated with the unrelated word 圖書's reading (도서/đồ thư) instead of 図画's own — corrected to 도화/đồ hoạ, and dropped the mistakenly-included 圖書 from `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 固執.
+
+### 2026-08-28, iteration 1382 — [[words/固執|固執]]
+
+No stand-in relationship (固's own is [[強固]]; 執's is [[執行]]). Simplified `mandarin` from a comma-joined two-variant string to the primary gùzhí. Fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国営.
+
+### 2026-08-28, iteration 1383 — [[words/国営|国営]]
+
+No stand-in relationship (国's own is [[国家]]; 営's is [[経営]]). Frontmatter already fully correct; fixed unquoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国士.
