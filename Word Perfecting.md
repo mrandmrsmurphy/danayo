@@ -1939,3 +1939,21 @@ Next: 回虫.
 No stand-in relationship (虫's own is [[昆虫]]). Filled blank `vietnamese: hồi trùng` (compositional; modern usage prefers native "giun đũa"). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 回路.
+
+### 2026-08-28, iteration 1377 — [[words/回路|回路]]
+
+No stand-in relationship (回 is its own stand-in; 路's own is [[道路]]). Filled blank `vietnamese: hồi lộ`. **Completed the reciprocal homophone pair with [[賄賂]]** ("bribe"): standardized both non-canonical callouts, and fixed real bugs on 賄賂's own page in the same pass (cantonese fui2→kui2 matching its own citation; korean malformed "뇌물, 회뢰" → clean compositional 회뢰). Both stamped `date-last-perfect: 2026-08-28`.
+
+Next: 因果.
+
+### 2026-08-28, iteration 1378 — [[words/因果|因果]]
+
+No stand-in relationship (因's own is [[原因]]; 果's is [[果実]]). **Real bug found and fixed**: `japanese` used archaic いんぐわ instead of modern いんが. Filled blank `pos: 性詞`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 因緣.
+
+### 2026-08-28, iteration 1379 — [[words/因緣|因緣]]
+
+縁's own `stand_in` field is 因緣 — already documented (因's own is [[原因]]). Verified `japanese: いんねん` is a genuine sandhi n-insertion reading, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 囲棋.
