@@ -2005,3 +2005,27 @@ Next: 国王.
 No stand-in relationship (国's own is [[国家]]; 王 is its own stand-in). **Real bug found and fixed**: `japanese` was truncated (こくお → こくおう). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 国防.
+
+### 2026-08-28, iteration 1388 — [[words/国防|国防]]
+
+No stand-in relationship (国's own is [[国家]]; 防's is [[防護]]). Frontmatter already fully correct; fixed unquoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国際.
+
+### 2026-08-28, iteration 1389 — [[words/国際|国際]]
+
+No stand-in relationship (国's own is [[国家]]; 際 is its own stand-in). **Real bug found and fixed**: `cantonese` had been contaminated with 語's syllable from sibling [[国際語]] ("gwok3 zai3 jyu5" → gwok3 zai3). Fixed wrongly-capitalized `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国際語.
+
+### 2026-08-28, iteration 1390 — [[words/国際語|国際語]]
+
+No stand-in relationship (国's own is [[国家]]; 際 is its own stand-in; 語's is [[言語]]). Frontmatter already fully correct (this was the source of [[国際]]'s earlier contamination, but its own fields are correct). Fixed `characters` citation "際" → "際 (char)". No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 園芸.
+
+### 2026-08-28, iteration 1391 — [[words/園芸|園芸]]
+
+No stand-in relationship (園's own is [[庭園]]; 芸's is [[芸術]]). Discovered another phonetic/graphemic substitute pattern: 芸 here stands for 藝/艺 ("art"), not its own unrelated plant-name identity — all real-world CJK fields correctly reflect 藝, matching the same pattern as 加/痂, 回/蛔, 棋/碁. Filled blank `vietnamese: viên nghệ` (verified) and `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 土地.
