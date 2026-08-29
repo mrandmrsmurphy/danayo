@@ -1981,3 +1981,27 @@ Next: 国営.
 No stand-in relationship (国's own is [[国家]]; 営's is [[経営]]). Frontmatter already fully correct; fixed unquoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 国士.
+
+### 2026-08-28, iteration 1384 — [[words/国士|国士]]
+
+No stand-in relationship (国's own is [[国家]]; 士 is its own stand-in). Fixed `characters` citation "士" → "士 (char)". Frontmatter otherwise already correct. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国旗.
+
+### 2026-08-28, iteration 1385 — [[words/国旗|国旗]]
+
+No stand-in relationship (国's own is [[国家]]; 旗's is [[旗幟]]). **Real bug found and fixed**: `vietnamese` had a native paraphrase ("lá cờ") rather than the real compound — corrected to `quốc kỳ`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国歌.
+
+### 2026-08-28, iteration 1386 — [[words/国歌|国歌]]
+
+No stand-in relationship (国's own is [[国家]]; 歌's is [[歌曲]]). Homophone with [[国家]] already correctly documented (reciprocal, both stamped). **Real bug found and fixed**: `japanese` was missing the sokuon assimilation (こくか → こっか) — 国歌 is a genuine real-world Japanese homophone of 国家. Flagged (not fixed, out of scope) that 歌's own character page stores an inconsistent citation (gǝ/그/ㄍㄜ) disagreeing with both this word and its own stand-in [[歌曲]] (both use ga/가/ㄍㄚ). Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国王.
+
+### 2026-08-28, iteration 1387 — [[words/国王|国王]]
+
+No stand-in relationship (国's own is [[国家]]; 王 is its own stand-in). **Real bug found and fixed**: `japanese` was truncated (こくお → こくおう). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 国防.
