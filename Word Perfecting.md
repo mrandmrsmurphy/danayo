@@ -1825,3 +1825,27 @@ Next: 啓明.
 No stand-in relationship (啓's own is [[開啓]]; 明 is its own stand-in). Filled blank `vietnamese: khải minh` (verified) and missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 善人.
+
+### 2026-08-28, iteration 1358 — [[words/善人|善人]]
+
+No stand-in relationship (both independent). Filled blank `cantonese: sin6 jan4`; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 善意.
+
+### 2026-08-28, iteration 1359 — [[words/善意|善意]]
+
+No stand-in relationship (善 is its own stand-in; 意's own is [[意味]]). Fixed empty-list `aliases`; filled missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 善良.
+
+### 2026-08-28, iteration 1360 — [[words/善良|善良]]
+
+No stand-in relationship (善 is its own stand-in; 良's own is [[良好]]). Filled blank `vietnamese: thiện lương`; removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 喇叭.
+
+### 2026-08-28, iteration 1361 — [[words/喇叭|喇叭]]
+
+Both characters share this word as their own `stand_in` (bound-together pair). **Real bug found and fixed**: `vietnamese` had an extra diacritic ("lạt bát" → lạt bá, verified). Verified `korean: 나발` is a genuine native/colloquial word (related to 나팔, recorded on 喇's own `korean_native`), not a bug. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 営養.
