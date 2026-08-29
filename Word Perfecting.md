@@ -1849,3 +1849,27 @@ Next: 喇叭.
 Both characters share this word as their own `stand_in` (bound-together pair). **Real bug found and fixed**: `vietnamese` had an extra diacritic ("lạt bát" → lạt bá, verified). Verified `korean: 나발` is a genuine native/colloquial word (related to 나팔, recorded on 喇's own `korean_native`), not a bug. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 営養.
+
+### 2026-08-28, iteration 1362 — [[words/営養|営養]]
+
+No stand-in relationship (営's own is [[経営]]; 養's is [[養育]]). **Real bug found and fixed**: `cantonese` had 営's syllable misspelled ying4 instead of jing4 (confirmed against [[国営]]/[[経営]]) — corrected. Fixed unquoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 嗅覚.
+
+### 2026-08-28, iteration 1363 — [[words/嗅覚|嗅覚]]
+
+嗅's own `stand_in` field is 嗅覚 — added the stand-in note (覚's own is [[感覚]]). **Real bugs found and fixed**: `cantonese` missing space; `japanese` typo (きうかく → きゅうかく); `aliases` was a bogus self-alias — removed. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 嗅金.
+
+### 2026-08-28, iteration 1364 — [[words/嗅金|嗅金]]
+
+Periodictable/neologism word (osmium). No stand-in relationship (嗅's own is [[嗅覚]]; 金 is its own stand-in). Verified `mandarin`/`cantonese` are the genuine real-world element name 锇. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 噴火.
+
+### 2026-08-28, iteration 1365 — [[words/噴火|噴火]]
+
+噴's own `stand_in` field is 噴火 — already documented. Filled blank `vietnamese: phún hoả` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 嚴禁.
