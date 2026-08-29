@@ -1915,3 +1915,27 @@ Next: 回教.
 No stand-in relationship (回 is its own stand-in; 教's own is [[教授]]). **Real bug found and fixed**: `japanese` used archaic くわいけう instead of modern かいきょう. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 回教徒.
+
+### 2026-08-28, iteration 1373 — [[words/回教徒|回教徒]]
+
+No stand-in relationship (回 is its own stand-in; 教's own is [[教授]]; 徒's own is [[信徒]]). Frontmatter already fully correct. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 回生.
+
+### 2026-08-28, iteration 1374 — [[words/回生|回生]]
+
+No stand-in relationship (回 is its own stand-in; 生's own is [[生活]]). Frontmatter already fully correct. Added the missing `## Notes` section entirely. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 回紇.
+
+### 2026-08-28, iteration 1375 — [[words/回紇|回紇]]
+
+紇's own `stand_in` field is 回紇 — added the stand-in note (回's own is itself). Filled blank `korean: 회흘`; filled missing `kwin: false`. Verified `vietnamese: Hồi Hột` is genuinely attested. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 回虫.
+
+### 2026-08-28, iteration 1376 — [[words/回虫|回虫]]
+
+No stand-in relationship (虫's own is [[昆虫]]). Filled blank `vietnamese: hồi trùng` (compositional; modern usage prefers native "giun đũa"). No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 回路.
