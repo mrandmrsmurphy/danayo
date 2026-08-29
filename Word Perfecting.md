@@ -2029,3 +2029,27 @@ Next: 園芸.
 No stand-in relationship (園's own is [[庭園]]; 芸's is [[芸術]]). Discovered another phonetic/graphemic substitute pattern: 芸 here stands for 藝/艺 ("art"), not its own unrelated plant-name identity — all real-world CJK fields correctly reflect 藝, matching the same pattern as 加/痂, 回/蛔, 棋/碁. Filled blank `vietnamese: viên nghệ` (verified) and `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 土地.
+
+### 2026-08-28, iteration 1392 — [[words/土地|土地]]
+
+No stand-in relationship (both independent). Frontmatter already fully correct; fixed empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 土素.
+
+### 2026-08-28, iteration 1393 — [[words/土素|土素]]
+
+Periodictable/neologism word (tellurium). No stand-in relationship (土 is its own stand-in; 素's own is [[要素]]). Verified `mandarin: dì` is the genuine real-world element character 碲. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 土肥.
+
+### 2026-08-28, iteration 1394 — [[words/土肥|土肥]]
+
+No stand-in relationship (土 is its own stand-in; 肥's own is [[肥満]]). Filled missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 地図.
+
+### 2026-08-28, iteration 1395 — [[words/地図|地図]]
+
+No stand-in relationship (地 is its own stand-in; 図's own is [[図表]]). Frontmatter already fully correct. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 地域.
